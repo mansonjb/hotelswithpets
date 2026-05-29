@@ -753,6 +753,81 @@
     "tiqetsId": "99239"
   },
   {
+    "slug": "aveiro",
+    "name": "Aveiro",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/aveiro.jpg",
+    "intro": "Aveiro, the 'Venice of Portugal', is a compact, flat and genuinely dog-friendly canal city, with three fenced municipal dog parks, broadly pet-tolerant esplanada terraces, traditional moliceiro boats that admit leashed dogs on request, and Atlantic dog beaches such as Cortegaca a short drive away.",
+    "lat": 40.6405,
+    "lng": -8.6538,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild & breezy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & changeable",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warmest month",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "OPO"
+  },
+  {
     "slug": "avignon",
     "name": "Avignon",
     "country": "France",

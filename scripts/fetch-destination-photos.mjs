@@ -35,6 +35,7 @@ const TARGETS = [
   { slug: 'rotterdam',     query: 'Erasmus Bridge Rotterdam waterfront' },
   { slug: 'bologna',       query: 'Piazza Maggiore Bologna' },
   { slug: 'rimini',        query: 'Rimini Italy Ponte di Tiberio Roman bridge Borgo San Giuliano Adriatic panorama' },
+  { slug: 'aveiro',        query: 'Aveiro Portugal canals colourful moliceiro boats Art Nouveau Venice of Portugal panorama' },
   { slug: 'bolzano',       query: 'Bolzano Italy Piazza Walther Dolomites panorama' },
   { slug: 'zadar',         query: 'Zadar Croatia Sea Organ Greeting to the Sun sunset Adriatic Old Town' },
   { slug: 'tours',         query: 'Tours France Place Plumereau half-timbered houses Vieux-Tours panorama' },

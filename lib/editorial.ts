@@ -71,6 +71,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the National Garden, Filopappou Hill, and the coastal promenade at Faliro',
       area: 'Koukaki, Monastiraki, and Pangrati',
     },
+    aveiro: {
+      personality: `the 'Venice of Portugal', a compact, flat canal city with three fenced municipal dog parks, pet-tolerant esplanada culture, moliceiro boats that admit leashed dogs, and Atlantic dog beaches a short drive away`,
+      highlight: `the Central Canal and moliceiro boats, the three dog parks (Forca-Vouga, Fonte do Meio and Canal de São Roque), and the striped palheiros of Costa Nova`,
+      area: `the central canals and Beira-Mar district, the Parque Infante D. Pedro city park, and the seafront at Costa Nova`,
+    },
     avignon: {
       personality: `the Provençal capital and former seat of seven popes, a UNESCO-rated walled centro storico, the towering Palais des Papes (Europe's largest Gothic palace), the legendary Pont Saint-Bénézet on the Rhône, and direct TGV access from Paris in 2h40`,
       highlight: `the Place du Palais des Papes, the Rocher des Doms gardens with the iconic city panorama, and the île de la Barthelasse with 4 km of Rhône-bank dog walking`,
@@ -924,6 +929,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Jardin National, la colline de Filopappou et la promenade côtière de Faliro',
       area: 'Koukaki, Monastiraki et Pangrati',
     },
+    aveiro: {
+      personality: `la « Venise du Portugal », une ville de canaux compacte et plate, avec trois parcs canins municipaux clôturés, une culture d'esplanada tolérante envers les chiens, des barques moliceiro qui acceptent les chiens en laisse et des plages canines atlantiques à quelques minutes en voiture`,
+      highlight: `le Canal Central et les barques moliceiro, les trois parcs canins (Forca-Vouga, Fonte do Meio et Canal de São Roque) et les palheiros rayés de Costa Nova`,
+      area: `les canaux du centre et le quartier Beira-Mar, le parc Parque Infante D. Pedro et le front de mer de Costa Nova`,
+    },
     avignon: {
       personality: `la capitale de la Provence et siège de sept papes, centro storico fortifié classé UNESCO, l'imposant Palais des Papes (le plus grand palais gothique d'Europe), le légendaire Pont Saint-Bénézet sur le Rhône, et un accès TGV direct depuis Paris en 2h40`,
       highlight: `la Place du Palais des Papes, les jardins du Rocher des Doms avec le panorama iconique, et l'île de la Barthelasse avec 4 km de promenade canine au bord du Rhône`,
@@ -1776,6 +1786,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Jardín Nacional, la colina de Filopappou y el paseo costero de Faliro',
       area: 'Koukaki, Monastiraki y Pangrati',
     },
+    aveiro: {
+      personality: `la « Venecia de Portugal », una ciudad de canales compacta y llana, con tres parques caninos municipales vallados, una cultura de esplanada tolerante con los perros, barcos moliceiro que admiten perros con correa y playas caninas atlánticas a pocos minutos en coche`,
+      highlight: `el Canal Central y los barcos moliceiro, los tres parques caninos (Forca-Vouga, Fonte do Meio y Canal de São Roque) y los palheiros a rayas de Costa Nova`,
+      area: `los canales del centro y el barrio de Beira-Mar, el parque Parque Infante D. Pedro y el paseo marítimo de Costa Nova`,
+    },
     avignon: {
       personality: `la capital de Provenza y antigua sede de siete papas, centro storico amurallado clasificado UNESCO, el imponente Palacio de los Papas (el mayor palacio gótico de Europa), el legendario Pont Saint-Bénézet sobre el Ródano, y acceso TGV directo desde París en 2h40`,
       highlight: `la Place du Palais des Papes, los jardines del Rocher des Doms con el panorama icónico, y la île de la Barthelasse con 4 km de paseo canino junto al Ródano`,
@@ -2627,6 +2642,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital mediterrânea banhada pelo sol que sorprende aos viajeros com animais com os seus bairros transitables e uma creciente escena de hotéis boutique que acogen cães o ano inteiro',
       highlight: 'o Jardim Nacional, a colina de Filopappou e o passeio costero de Faliro',
       area: 'Koukaki, Monastiraki e Pangrati',
+    },
+    aveiro: {
+      personality: `a « Veneza de Portugal », uma cidade de canais compacta e plana, com três parques caninos municipais vedados, uma cultura de esplanada tolerante com os cães, barcos moliceiro que aceitam cães com trela e praias caninas atlânticas a poucos minutos de carro`,
+      highlight: `o Canal Central e os barcos moliceiro, os três parques caninos (Forca-Vouga, Fonte do Meio e Canal de São Roque) e os palheiros às riscas da Costa Nova`,
+      area: `os canais do centro e o bairro da Beira-Mar, o parque Parque Infante D. Pedro e a marginal da Costa Nova`,
     },
     avignon: {
       personality: `a capital de Provenza e antiga sede de siete papas, centro storico amurallado clasificado UNESCO, o imponente Palácio dos Papas (o mayor palácio gótico de Europa), o legendario Pont Saint-Bénézet sobre o Ródano, e acesso TGV directo a partir de París en 2h40`,

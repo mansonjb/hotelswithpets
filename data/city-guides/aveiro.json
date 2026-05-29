@@ -1,0 +1,681 @@
+{
+  "slug": "aveiro",
+  "name": "Aveiro",
+  "country": "Portugal",
+  "flag": "🇵🇹",
+  "lastUpdated": "2026-05-29",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Aveiro",
+      "titleFr": "Restaurants acceptant les animaux à Aveiro",
+      "titleEs": "Restaurantes que admiten mascotas en Aveiro",
+      "introEn": "Aveiro, the 'Venice of Portugal', is a relaxed canal city where dining out with a dog is easy. Portuguese café and esplanada (terrace) culture is broadly dog-tolerant, and several venues are explicitly pet-friendly, including Italian bistros and seafood spots. TheFork and BringFido both list dog-friendly restaurants in Aveiro, and the central Forum Aveiro shopping centre admits leashed dogs everywhere except its food court. Outdoor terraces along the canals are the most reliable choice; confirm indoor admission at the door, as policies vary.",
+      "introFr": "Aveiro, la « Venise du Portugal », est une ville de canaux décontractée où déjeuner avec un chien est facile. La culture portugaise du café et de l'esplanada (terrasse) est largement tolérante envers les chiens, et plusieurs adresses sont explicitement pet-friendly, dont des bistrots italiens et des restaurants de fruits de mer. TheFork et BringFido recensent tous deux des restaurants dog-friendly à Aveiro, et le centre commercial Forum Aveiro accepte les chiens en laisse partout sauf dans son espace de restauration. Les terrasses au bord des canaux sont le choix le plus sûr ; confirmez l'accès en salle à l'entrée, car les règles varient.",
+      "introEs": "Aveiro, la « Venecia de Portugal », es una relajada ciudad de canales donde comer fuera con perro es fácil. La cultura portuguesa del café y la esplanada (terraza) es ampliamente tolerante con los perros, y varios locales son explícitamente pet-friendly, incluidos bistrós italianos y marisquerías. TheFork y BringFido recogen restaurantes dog-friendly en Aveiro, y el centro comercial Forum Aveiro admite perros con correa en todos los espacios salvo en su zona de restauración. Las terrazas junto a los canales son la opción más fiable; confirme la admisión en el interior en la puerta, ya que las normas varían.",
+      "places": [
+        {
+          "name": "Yeah Aveiro - Italian Bistrò & Deli",
+          "address": "Centro de Aveiro, 3800 Aveiro",
+          "neighborhood": "Centro",
+          "photo": "/images/city-places/aveiro-restaurants-yeah-aveiro.jpg",
+          "website": "https://www.thefork.com/restaurants/aveiro-c669016/dog-friendly-t348",
+          "description": "A popular Italian bistro and deli in central Aveiro, repeatedly listed among the city's most dog-friendly restaurants. Casual, welcoming and well placed for a meal between canal walks. Italian-leaning menu of pasta, antipasti and deli plates.",
+          "descriptionFr": "Un bistrot et deli italien populaire au centre d'Aveiro, régulièrement cité parmi les restaurants les plus dog-friendly de la ville. Décontracté, accueillant et bien placé pour un repas entre deux balades le long des canaux. Carte d'inspiration italienne : pâtes, antipasti et assiettes de charcuterie.",
+          "descriptionEs": "Un popular bistró y deli italiano en el centro de Aveiro, citado repetidamente entre los restaurantes más dog-friendly de la ciudad. Informal, acogedor y bien situado para comer entre paseos por los canales. Carta de inspiración italiana: pasta, antipasti y tablas de embutidos.",
+          "petPolicy": "Dog-friendly; leashed dogs welcome, confirm indoor vs terrace seating",
+          "petPolicyFr": "Dog-friendly ; chiens en laisse bienvenus, confirmez salle ou terrasse",
+          "petPolicyEs": "Dog-friendly; perros con correa bienvenidos, confirme interior o terraza",
+          "priceRange": "€€",
+          "mustTry": "Fresh pasta and an Italian deli board to share",
+          "mustTryFr": "Pâtes fraîches et une planche de charcuterie italienne à partager",
+          "mustTryEs": "Pasta fresca y una tabla de embutidos italianos para compartir",
+          "openingHours": "Lunch and dinner; check current hours",
+          "tip": "Ask for an outdoor table in the centre; it is the easiest spot for a dog and keeps you close to the canal-side strolls.",
+          "tipFr": "Demandez une table en terrasse au centre ; c'est l'endroit le plus facile pour un chien et vous restez près des balades le long des canaux.",
+          "tipEs": "Pida una mesa en la terraza del centro; es el lugar más fácil para un perro y le mantiene cerca de los paseos junto al canal.",
+          "googleMapsUrl": "https://maps.google.com/?q=Yeah+Aveiro+Italian+Bistro+Aveiro"
+        },
+        {
+          "name": "Avenida Café-Concerto",
+          "address": "Centro de Aveiro, 3800 Aveiro",
+          "neighborhood": "Centro",
+          "photo": "/images/city-places/aveiro-restaurants-avenida-cafe.jpg",
+          "website": "https://www.bringfido.com/restaurant/city/aveiro_pt/",
+          "description": "A central café-concerto (café with live music) frequently named among Aveiro's dog-friendly venues, with an outdoor terrace ideal for a coffee, a light meal or a drink with a dog at your feet. A relaxed, sociable spot in the heart of the city.",
+          "descriptionFr": "Un café-concerto central (café avec musique live) souvent cité parmi les adresses dog-friendly d'Aveiro, avec une terrasse idéale pour un café, un repas léger ou un verre avec un chien à vos pieds. Un lieu détendu et convivial au cœur de la ville.",
+          "descriptionEs": "Un céntrico café-concerto (café con música en directo) citado a menudo entre los locales dog-friendly de Aveiro, con una terraza ideal para un café, una comida ligera o una copa con un perro a los pies. Un sitio relajado y sociable en el corazón de la ciudad.",
+          "petPolicy": "Dog-friendly terrace; leashed dogs welcome",
+          "petPolicyFr": "Terrasse dog-friendly ; chiens en laisse bienvenus",
+          "petPolicyEs": "Terraza dog-friendly; perros con correa bienvenidos",
+          "priceRange": "€€",
+          "mustTry": "A galão (Portuguese latte) and a pastel de nata on the terrace",
+          "mustTryFr": "Un galão (café au lait portugais) et un pastel de nata en terrasse",
+          "mustTryEs": "Un galão (café con leche portugués) y un pastel de nata en la terraza",
+          "openingHours": "Daytime and evening; check current hours",
+          "tip": "Daytime is calmest for dogs; if there is live music in the evening, a nervous dog may prefer an earlier visit.",
+          "tipFr": "La journée est la plus calme pour les chiens ; s'il y a de la musique live le soir, un chien craintif préférera une visite plus tôt.",
+          "tipEs": "El día es lo más tranquilo para los perros; si hay música en directo por la noche, un perro nervioso preferirá una visita más temprana.",
+          "googleMapsUrl": "https://maps.google.com/?q=Avenida+Cafe+Concerto+Aveiro"
+        },
+        {
+          "name": "Costa Nova striped-house esplanadas",
+          "address": "Avenida José Estêvão, Costa Nova, 3830 Ílhavo",
+          "neighborhood": "Costa Nova (Ílhavo)",
+          "photo": "/images/city-places/aveiro-restaurants-costa-nova.jpg",
+          "website": "https://www.petfriendlyportugal.com/",
+          "description": "The candy-striped palheiros of Costa Nova, a short drive from Aveiro, line a seafront with seafood restaurants and cafés whose outdoor terraces generally welcome leashed dogs. A scenic spot for grilled fish or a coffee with a view of the famous painted houses and the lagoon.",
+          "descriptionFr": "Les palheiros aux rayures colorées de Costa Nova, à quelques minutes en voiture d'Aveiro, bordent un front de mer de restaurants de fruits de mer et de cafés dont les terrasses accueillent en général les chiens en laisse. Un cadre pittoresque pour du poisson grillé ou un café face aux célèbres maisons peintes et à la lagune.",
+          "descriptionEs": "Los palheiros de rayas de colores de Costa Nova, a pocos minutos en coche de Aveiro, bordean un paseo marítimo de marisquerías y cafés cuyas terrazas suelen admitir perros con correa. Un lugar pintoresco para pescado a la parrilla o un café con vistas a las famosas casas pintadas y a la laguna.",
+          "petPolicy": "Most outdoor terraces welcome leashed dogs; confirm at the venue",
+          "petPolicyFr": "La plupart des terrasses accueillent les chiens en laisse ; confirmez sur place",
+          "petPolicyEs": "La mayoría de las terrazas admiten perros con correa; confirme en el local",
+          "priceRange": "€€",
+          "mustTry": "Fresh grilled fish or the local tripas de Aveiro (sweet egg pastries) for dessert",
+          "mustTryFr": "Du poisson grillé frais ou les tripas de Aveiro locales (pâtisseries sucrées aux œufs) en dessert",
+          "mustTryEs": "Pescado fresco a la parrilla o las tripas de Aveiro locales (dulces de huevo) de postre",
+          "openingHours": "Daily, busiest in summer",
+          "tip": "The seafront has little shade; bring water and choose a covered terrace in the midday heat of summer.",
+          "tipFr": "Le front de mer offre peu d'ombre ; apportez de l'eau et choisissez une terrasse couverte en pleine chaleur estivale.",
+          "tipEs": "El paseo marítimo tiene poca sombra; lleve agua y elija una terraza cubierta en el calor del mediodía en verano.",
+          "googleMapsUrl": "https://maps.google.com/?q=Costa+Nova+Avenida+Jose+Estevao+Ilhavo"
+        }
+      ],
+      "tipsEn": [
+        "Portuguese esplanada culture is broadly dog-tolerant; canal-side outdoor terraces are your most reliable bet.",
+        "Forum Aveiro shopping centre admits leashed dogs throughout, except in the food court.",
+        "Check TheFork or BringFido for explicitly dog-friendly venues and confirm indoor admission at the door."
+      ],
+      "tipsFr": [
+        "La culture de l'esplanada portugaise est largement tolérante envers les chiens ; les terrasses au bord des canaux sont l'option la plus sûre.",
+        "Le centre commercial Forum Aveiro accepte les chiens en laisse partout, sauf dans l'espace restauration.",
+        "Consultez TheFork ou BringFido pour des adresses explicitement dog-friendly et confirmez l'accès en salle à l'entrée."
+      ],
+      "tipsEs": [
+        "La cultura portuguesa de la esplanada es ampliamente tolerante con los perros; las terrazas junto a los canales son su opción más fiable.",
+        "El centro comercial Forum Aveiro admite perros con correa en todos los espacios, salvo en la zona de restauración.",
+        "Consulte TheFork o BringFido para locales explícitamente dog-friendly y confirme la admisión en el interior en la puerta."
+      ],
+      "faqsEn": [
+        {"q": "Can I take my dog to restaurants in Aveiro?", "a": "Outdoor terraces are broadly dog-tolerant across Aveiro, and several venues such as Yeah Aveiro and Avenida Café-Concerto are explicitly dog-friendly. Indoor admission varies, so confirm at the door."},
+        {"q": "Is Forum Aveiro pet-friendly?", "a": "Yes. The Forum Aveiro shopping centre admits leashed dogs in all its spaces except the food court."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je emmener mon chien dans les restaurants à Aveiro ?", "a": "Les terrasses sont largement tolérantes envers les chiens à Aveiro, et plusieurs adresses comme Yeah Aveiro et Avenida Café-Concerto sont explicitement dog-friendly. L'accès en salle varie, confirmez à l'entrée."},
+        {"q": "Le Forum Aveiro est-il pet-friendly ?", "a": "Oui. Le centre commercial Forum Aveiro accepte les chiens en laisse dans tous ses espaces sauf l'espace restauration."}
+      ],
+      "faqsEs": [
+        {"q": "¿Puedo llevar a mi perro a los restaurantes de Aveiro?", "a": "Las terrazas son ampliamente tolerantes con los perros en Aveiro, y varios locales como Yeah Aveiro y Avenida Café-Concerto son explícitamente dog-friendly. La admisión en el interior varía, así que confirme en la puerta."},
+        {"q": "¿Es el Forum Aveiro pet-friendly?", "a": "Sí. El centro comercial Forum Aveiro admite perros con correa en todos sus espacios salvo en la zona de restauración."}
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Parks & Dog Areas in Aveiro",
+      "titleFr": "Meilleurs parcs et espaces canins à Aveiro",
+      "titleEs": "Mejores parques y áreas para perros en Aveiro",
+      "introEn": "Aveiro is unusually well equipped for a small city: the municipality runs three fenced dog parks (parques caninos), one to the east at Forca-Vouga, one to the north at Parque Aventura da Fonte do Meio, and one to the west by the Canal de São Roque, each with secure fencing, agility equipment, water and seating. For a general green walk, the 20-hectare Parque Infante D. Pedro (Parque da Cidade) is the largest green space in the centre, with leafy avenues and a historic bandstand. Leash dogs outside the fenced canine parks and always clear up.",
+      "introFr": "Aveiro est exceptionnellement bien équipée pour une petite ville : la municipalité gère trois parcs canins clôturés (parques caninos), un à l'est à Forca-Vouga, un au nord au Parque Aventura da Fonte do Meio, et un à l'ouest près du Canal de São Roque, chacun avec clôture sécurisée, agility, eau et bancs. Pour une promenade verte plus générale, le Parque Infante D. Pedro (Parque da Cidade) de 20 hectares est le plus grand espace vert du centre, avec ses allées ombragées et son kiosque à musique historique. Tenez les chiens en laisse hors des parcs canins clôturés et ramassez toujours.",
+      "introEs": "Aveiro está excepcionalmente bien equipada para una ciudad pequeña: el municipio gestiona tres parques caninos vallados, uno al este en Forca-Vouga, uno al norte en el Parque Aventura da Fonte do Meio y otro al oeste junto al Canal de São Roque, cada uno con valla segura, agility, agua y bancos. Para un paseo verde más general, el Parque Infante D. Pedro (Parque da Cidade) de 20 hectáreas es el mayor espacio verde del centro, con avenidas frondosas y un quiosco de música histórico. Lleve a los perros con correa fuera de los parques caninos vallados y recoja siempre.",
+      "places": [
+        {
+          "name": "Parque Canino da Forca-Vouga (Nascente)",
+          "address": "Junto ao Pavilhão dos Galitos, Forca-Vouga, 3800 Aveiro",
+          "neighborhood": "Forca-Vouga (East)",
+          "photo": "/images/city-places/aveiro-parks-forca-vouga.jpg",
+          "description": "Aveiro's first dog park, opened in 2019 on the east side of the city next to the Galitos pavilion. Fully fenced with a sanitary box, an area for owners, public lighting and agility equipment: stairs, jump barriers, a plank and a tunnel. The original off-leash spot in the city.",
+          "descriptionFr": "Le premier parc canin d'Aveiro, ouvert en 2019 à l'est de la ville, à côté du pavillon Galitos. Entièrement clôturé avec bac sanitaire, espace pour les maîtres, éclairage public et agility : escaliers, barres de saut, passerelle et tunnel. Le premier espace sans laisse de la ville.",
+          "descriptionEs": "El primer parque canino de Aveiro, inaugurado en 2019 al este de la ciudad junto al pabellón Galitos. Totalmente vallado, con caja sanitaria, zona para los dueños, iluminación pública y agility: escaleras, vallas de salto, pasarela y túnel. El primer espacio sin correa de la ciudad.",
+          "size": "Fenced dog park",
+          "offLeash": true,
+          "amenities": ["Secure fencing", "Agility equipment", "Sanitary box", "Owner seating", "Lighting"],
+          "amenitiesFr": ["Clôture sécurisée", "Agility", "Bac sanitaire", "Bancs pour maîtres", "Éclairage"],
+          "amenitiesEs": ["Valla segura", "Agility", "Caja sanitaria", "Asientos para dueños", "Iluminación"],
+          "openingHours": "Open daily",
+          "tip": "It sits right by the railway line; introduce nervous dogs gently as passing trains can be loud.",
+          "tipFr": "Il se trouve juste au bord de la voie ferrée ; habituez les chiens craintifs en douceur, les trains qui passent peuvent être bruyants.",
+          "tipEs": "Está justo junto a la vía del tren; acostumbre con calma a los perros nerviosos, los trenes que pasan pueden ser ruidosos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Canino+Forca+Vouga+Aveiro"
+        },
+        {
+          "name": "Parque Canino do Canal de São Roque (Poente)",
+          "address": "Junto à ponte, frente ao Centro Comunitário da Vera Cruz, Canal de São Roque, 3800 Aveiro",
+          "neighborhood": "Vera Cruz (West)",
+          "photo": "/images/city-places/aveiro-parks-sao-roque.jpg",
+          "description": "The newest of Aveiro's three municipal dog parks, on the west side by the Canal de São Roque bridge, opposite the Vera Cruz community centre. A recent municipal investment with a security fence, sanitary box, owner seating, lighting and a full set of agility elements: stairs, jump barriers, plank and tunnel.",
+          "descriptionFr": "Le plus récent des trois parcs canins municipaux d'Aveiro, à l'ouest près du pont du Canal de São Roque, face au centre communautaire de Vera Cruz. Un investissement municipal récent avec clôture de sécurité, bac sanitaire, bancs pour maîtres, éclairage et un ensemble complet d'agility : escaliers, barres de saut, passerelle et tunnel.",
+          "descriptionEs": "El más reciente de los tres parques caninos municipales de Aveiro, al oeste junto al puente del Canal de São Roque, frente al centro comunitario de Vera Cruz. Una inversión municipal reciente con valla de seguridad, caja sanitaria, asientos para dueños, iluminación y un conjunto completo de agility: escaleras, vallas de salto, pasarela y túnel.",
+          "size": "Fenced dog park",
+          "offLeash": true,
+          "amenities": ["Security fencing", "Agility course", "Sanitary box", "Owner seating", "Lighting"],
+          "amenitiesFr": ["Clôture de sécurité", "Parcours d'agility", "Bac sanitaire", "Bancs pour maîtres", "Éclairage"],
+          "amenitiesEs": ["Valla de seguridad", "Circuito de agility", "Caja sanitaria", "Asientos para dueños", "Iluminación"],
+          "openingHours": "Open daily",
+          "tip": "Combine it with a canal-side walk along the São Roque canal, one of the prettiest and quietest in the city.",
+          "tipFr": "Combinez-le avec une promenade le long du canal de São Roque, l'un des plus jolis et des plus calmes de la ville.",
+          "tipEs": "Combínelo con un paseo junto al canal de São Roque, uno de los más bonitos y tranquilos de la ciudad.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Canino+Canal+de+Sao+Roque+Aveiro"
+        },
+        {
+          "name": "Parque Infante D. Pedro (Parque da Cidade)",
+          "address": "Praça Marquês de Pombal, 3810 Aveiro",
+          "neighborhood": "Centro",
+          "photo": "/images/city-places/aveiro-parks-infante-d-pedro.jpg",
+          "description": "Aveiro's central city park, laid out from 1862 on the grounds of a former convent and covering around 20 hectares, the largest continuous green space in the centre. Tree-lined avenues, a late Art Nouveau iron bandstand, lakes, a tea house and picnic areas. Dogs welcome on a leash for a shaded city stroll.",
+          "descriptionFr": "Le parc central d'Aveiro, aménagé à partir de 1862 sur le terrain d'un ancien couvent et couvrant environ 20 hectares, le plus grand espace vert continu du centre. Allées bordées d'arbres, kiosque à musique en fer de style Art Nouveau tardif, lacs, maison de thé et aires de pique-nique. Chiens bienvenus en laisse pour une promenade ombragée en ville.",
+          "descriptionEs": "El parque central de Aveiro, trazado desde 1862 en los terrenos de un antiguo convento y con unas 20 hectáreas, el mayor espacio verde continuo del centro. Avenidas arboladas, un quiosco de música de hierro de estilo Art Nouveau tardío, lagos, una casa de té y zonas de pícnic. Perros bienvenidos con correa para un paseo con sombra por la ciudad.",
+          "size": "~20 hectares",
+          "offLeash": false,
+          "amenities": ["Tree-lined avenues", "Lakes", "Bandstand", "Picnic areas", "Restrooms"],
+          "amenitiesFr": ["Allées arborées", "Lacs", "Kiosque à musique", "Aires de pique-nique", "Toilettes"],
+          "amenitiesEs": ["Avenidas arboladas", "Lagos", "Quiosco de música", "Zonas de pícnic", "Aseos"],
+          "openingHours": "Open daily",
+          "tip": "Leash mandatory throughout; for off-leash exercise use one of the three fenced dog parks instead.",
+          "tipFr": "Laisse obligatoire partout ; pour de l'exercice sans laisse, utilisez plutôt l'un des trois parcs canins clôturés.",
+          "tipEs": "Correa obligatoria en todo el parque; para ejercicio sin correa use mejor uno de los tres parques caninos vallados.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Infante+D+Pedro+Aveiro"
+        }
+      ],
+      "tipsEn": [
+        "Aveiro has three fenced municipal dog parks (Forca-Vouga east, Fonte do Meio north, Canal de São Roque west) for legal off-leash time.",
+        "Outside the dog parks, a leash is mandatory and owners must clear up; fines apply.",
+        "Parque Infante D. Pedro is the best central shaded walk, on a leash."
+      ],
+      "tipsFr": [
+        "Aveiro compte trois parcs canins municipaux clôturés (Forca-Vouga à l'est, Fonte do Meio au nord, Canal de São Roque à l'ouest) pour du temps sans laisse autorisé.",
+        "Hors des parcs canins, la laisse est obligatoire et il faut ramasser ; des amendes s'appliquent.",
+        "Le Parque Infante D. Pedro est la meilleure promenade ombragée du centre, en laisse."
+      ],
+      "tipsEs": [
+        "Aveiro tiene tres parques caninos municipales vallados (Forca-Vouga al este, Fonte do Meio al norte, Canal de São Roque al oeste) para tiempo sin correa autorizado.",
+        "Fuera de los parques caninos, la correa es obligatoria y hay que recoger; se aplican multas.",
+        "El Parque Infante D. Pedro es el mejor paseo con sombra del centro, con correa."
+      ],
+      "faqsEn": [
+        {"q": "Where can my dog run off-leash in Aveiro?", "a": "Aveiro has three fenced municipal dog parks: Forca-Vouga (east), Parque Aventura da Fonte do Meio (north) and Canal de São Roque (west), each with secure fencing and agility equipment."},
+        {"q": "Are dogs allowed in Parque Infante D. Pedro?", "a": "Yes, on a leash. It is the largest central green space, ideal for a shaded city walk; for off-leash time use one of the dog parks."}
+      ],
+      "faqsFr": [
+        {"q": "Où mon chien peut-il courir sans laisse à Aveiro ?", "a": "Aveiro dispose de trois parcs canins municipaux clôturés : Forca-Vouga (est), Parque Aventura da Fonte do Meio (nord) et Canal de São Roque (ouest), chacun avec clôture sécurisée et agility."},
+        {"q": "Les chiens sont-ils admis au Parque Infante D. Pedro ?", "a": "Oui, en laisse. C'est le plus grand espace vert central, idéal pour une promenade ombragée ; pour le sans-laisse, utilisez l'un des parcs canins."}
+      ],
+      "faqsEs": [
+        {"q": "¿Dónde puede correr mi perro sin correa en Aveiro?", "a": "Aveiro tiene tres parques caninos municipales vallados: Forca-Vouga (este), Parque Aventura da Fonte do Meio (norte) y Canal de São Roque (oeste), cada uno con valla segura y agility."},
+        {"q": "¿Se admiten perros en el Parque Infante D. Pedro?", "a": "Sí, con correa. Es el mayor espacio verde central, ideal para un paseo con sombra; para tiempo sin correa use uno de los parques caninos."}
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Aveiro with a Dog",
+      "titleFr": "Se déplacer à Aveiro avec un chien",
+      "titleEs": "Moverse por Aveiro con perro",
+      "introEn": "Aveiro is small, flat and famously bike-friendly, so most of the centre and its canals are easily covered on foot or by bike with a dog. The historic centre and the train station are within walking distance of each other. Local buses (Aveiro Bus) carry small pets in a carrier and, like the national rules, allow larger muzzled dogs on a leash; CP national and regional trains carry small pets free in a carrier and larger dogs with a ticket, muzzle, short leash and up-to-date documents. The Costa Nova and Barra beaches are reached by bus or car, and São Jacinto by a short ferry across the lagoon.",
+      "introFr": "Aveiro est petite, plate et célèbre pour ses pistes cyclables, si bien que la majeure partie du centre et de ses canaux se parcourt facilement à pied ou à vélo avec un chien. Le centre historique et la gare sont à distance de marche l'un de l'autre. Les bus locaux (Aveiro Bus) transportent les petits animaux en sac et, comme le veut la règle nationale, acceptent les grands chiens muselés en laisse ; les trains CP nationaux et régionaux transportent gratuitement les petits animaux en sac et les grands chiens avec billet, muselière, laisse courte et documents à jour. Les plages de Costa Nova et de Barra se rejoignent en bus ou en voiture, et São Jacinto par un court ferry sur la lagune.",
+      "introEs": "Aveiro es pequeña, llana y famosa por sus carriles bici, por lo que la mayor parte del centro y sus canales se recorren fácilmente a pie o en bici con perro. El centro histórico y la estación de tren están a poca distancia a pie. Los autobuses locales (Aveiro Bus) transportan mascotas pequeñas en transportín y, como dicta la norma nacional, admiten perros grandes con bozal y correa; los trenes CP nacionales y regionales transportan gratis mascotas pequeñas en transportín y perros grandes con billete, bozal, correa corta y documentos al día. Las playas de Costa Nova y Barra se alcanzan en autobús o coche, y São Jacinto en un breve ferry por la laguna.",
+      "places": [
+        {
+          "name": "Aveiro Bus (local buses)",
+          "type": "Bus",
+          "photo": "/images/city-places/aveiro-transport-bus.jpg",
+          "description": "The local bus network serving Aveiro and its surroundings. In line with Portuguese rules, small pets travel in an appropriate carrier; larger dogs may travel muzzled and on a short leash, with each operator setting limits per vehicle. Useful for reaching Forte da Barra for the São Jacinto ferry.",
+          "descriptionFr": "Le réseau de bus local desservant Aveiro et ses environs. Conformément à la réglementation portugaise, les petits animaux voyagent dans un sac adapté ; les grands chiens peuvent voyager muselés et tenus en laisse courte, chaque opérateur fixant ses limites par véhicule. Pratique pour rejoindre le Forte da Barra et le ferry de São Jacinto.",
+          "descriptionEs": "La red de autobuses local que da servicio a Aveiro y sus alrededores. Conforme a las normas portuguesas, las mascotas pequeñas viajan en un transportín adecuado; los perros grandes pueden viajar con bozal y correa corta, fijando cada operador sus límites por vehículo. Útil para llegar a Forte da Barra y el ferry de São Jacinto.",
+          "petPolicy": "Small pets in a carrier; larger dogs muzzled on a short leash",
+          "petPolicyFr": "Petits animaux en sac ; grands chiens muselés en laisse courte",
+          "petPolicyEs": "Mascotas pequeñas en transportín; perros grandes con bozal y correa corta",
+          "tip": "Carry a muzzle for a larger dog; Portuguese transport rules require it for dogs travelling outside a carrier.",
+          "tipFr": "Emportez une muselière pour un grand chien ; la réglementation portugaise l'exige pour les chiens voyageant hors d'un sac.",
+          "tipEs": "Lleve un bozal para un perro grande; las normas portuguesas lo exigen para perros que viajan fuera de un transportín.",
+          "website": "https://www.aveirobus.pt/"
+        },
+        {
+          "name": "CP - Comboios de Portugal (trains)",
+          "type": "Train",
+          "photo": "/images/city-places/aveiro-transport-train.jpg",
+          "description": "Aveiro is on the main northern line with frequent trains to Porto (about 40-70 min) and Lisbon. Small pets travel free in a carrier that fits as hand luggage; larger dogs travel with a specific ticket, a muzzle, a short leash and up-to-date vaccination records plus municipal licence. One animal per passenger.",
+          "descriptionFr": "Aveiro est sur la ligne nord principale, avec des trains fréquents vers Porto (environ 40-70 min) et Lisbonne. Les petits animaux voyagent gratuitement dans un sac tenant en bagage à main ; les grands chiens voyagent avec un billet spécifique, une muselière, une laisse courte et un carnet de vaccination à jour ainsi que la licence municipale. Un animal par passager.",
+          "descriptionEs": "Aveiro está en la línea norte principal, con trenes frecuentes a Oporto (unos 40-70 min) y Lisboa. Las mascotas pequeñas viajan gratis en un transportín que quepa como equipaje de mano; los perros grandes viajan con un billete específico, bozal, correa corta y cartilla de vacunación al día más la licencia municipal. Un animal por pasajero.",
+          "petPolicy": "Small pets free in a carrier; larger dogs ticket + muzzle + short leash + documents; one animal per passenger",
+          "petPolicyFr": "Petits animaux gratuits en sac ; grands chiens billet + muselière + laisse courte + documents ; un animal par passager",
+          "petPolicyEs": "Mascotas pequeñas gratis en transportín; perros grandes billete + bozal + correa corta + documentos; un animal por pasajero",
+          "tip": "The Porto day trip is easy by train; keep your dog's vaccination booklet and municipal licence on you, as CP can ask for them.",
+          "tipFr": "L'excursion d'une journée à Porto est facile en train ; gardez le carnet de vaccination et la licence municipale du chien sur vous, CP peut les demander.",
+          "tipEs": "La excursión de un día a Oporto es fácil en tren; lleve consigo la cartilla de vacunación y la licencia municipal del perro, CP puede pedirlas.",
+          "website": "https://www.cp.pt/passageiros/pt/como-viajar/informacao-util/transporte-animais"
+        },
+        {
+          "name": "Bikes, walking & the São Jacinto ferry",
+          "type": "Cycling, walking & ferry",
+          "photo": "/images/city-places/aveiro-transport-bike-ferry.jpg",
+          "description": "Flat, compact Aveiro is ideal for exploring on foot or by bike along its canals. To reach the wild São Jacinto dunes, take a bus to Forte da Barra then the short ferry across the lagoon; dogs are carried on a leash. The ferry crossing itself is a scenic way to see the Ria de Aveiro.",
+          "descriptionFr": "Plate et compacte, Aveiro est idéale à explorer à pied ou à vélo le long de ses canaux. Pour rejoindre les dunes sauvages de São Jacinto, prenez un bus jusqu'au Forte da Barra puis le court ferry sur la lagune ; les chiens voyagent en laisse. La traversée en ferry est elle-même une belle façon de découvrir la Ria de Aveiro.",
+          "descriptionEs": "Llana y compacta, Aveiro es ideal para explorar a pie o en bici junto a sus canales. Para llegar a las dunas salvajes de São Jacinto, tome un autobús hasta Forte da Barra y luego el breve ferry por la laguna; los perros viajan con correa. La travesía en ferry es en sí una bonita forma de ver la Ria de Aveiro.",
+          "petPolicy": "Leash required on bikes paths, promenades and the ferry",
+          "petPolicyFr": "Laisse obligatoire sur les pistes cyclables, promenades et le ferry",
+          "petPolicyEs": "Correa obligatoria en carriles bici, paseos y el ferry",
+          "tip": "Note that the São Jacinto dunes are a protected nature reserve; keep dogs leashed and out of fenced restricted zones to avoid closures.",
+          "tipFr": "Notez que les dunes de São Jacinto sont une réserve naturelle protégée ; gardez les chiens en laisse et hors des zones clôturées pour éviter les fermetures.",
+          "tipEs": "Tenga en cuenta que las dunas de São Jacinto son una reserva natural protegida; mantenga a los perros con correa y fuera de las zonas valladas restringidas para evitar cierres.",
+          "website": "https://www.cm-aveiro.pt/visitantes/visitar/praia-de-sao-jacinto"
+        }
+      ],
+      "tipsEn": [
+        "Aveiro is flat and bike-friendly; the canals and centre are best done on foot or by bike with a dog.",
+        "Carry a muzzle and the dog's documents for buses and CP trains; both can require them.",
+        "Reach São Jacinto via the Forte da Barra ferry, a scenic lagoon crossing with leashed dogs."
+      ],
+      "tipsFr": [
+        "Aveiro est plate et cyclable ; les canaux et le centre se font le mieux à pied ou à vélo avec un chien.",
+        "Emportez une muselière et les documents du chien pour les bus et les trains CP ; les deux peuvent les exiger.",
+        "Rejoignez São Jacinto via le ferry du Forte da Barra, une belle traversée de la lagune avec chien en laisse."
+      ],
+      "tipsEs": [
+        "Aveiro es llana y apta para bici; los canales y el centro se recorren mejor a pie o en bici con perro.",
+        "Lleve un bozal y los documentos del perro para autobuses y trenes CP; ambos pueden exigirlos.",
+        "Llegue a São Jacinto vía el ferry de Forte da Barra, una bonita travesía de la laguna con perro con correa."
+      ],
+      "faqsEn": [
+        {"q": "Can my dog travel on trains from Aveiro?", "a": "Yes. On CP trains small pets travel free in a carrier; larger dogs need a ticket, a muzzle, a short leash and up-to-date documents, with one animal per passenger."},
+        {"q": "How do I get to São Jacinto with a dog?", "a": "Take a bus to Forte da Barra and then the short ferry across the lagoon. Dogs travel on a leash; the dunes are a protected reserve, so keep dogs leashed and out of restricted zones."}
+      ],
+      "faqsFr": [
+        {"q": "Mon chien peut-il voyager en train depuis Aveiro ?", "a": "Oui. Sur les trains CP, les petits animaux voyagent gratuitement en sac ; les grands chiens ont besoin d'un billet, d'une muselière, d'une laisse courte et de documents à jour, à raison d'un animal par passager."},
+        {"q": "Comment rejoindre São Jacinto avec un chien ?", "a": "Prenez un bus jusqu'au Forte da Barra puis le court ferry sur la lagune. Les chiens voyagent en laisse ; les dunes sont une réserve protégée, gardez les chiens en laisse et hors des zones restreintes."}
+      ],
+      "faqsEs": [
+        {"q": "¿Puede viajar mi perro en tren desde Aveiro?", "a": "Sí. En los trenes CP las mascotas pequeñas viajan gratis en transportín; los perros grandes necesitan billete, bozal, correa corta y documentos al día, con un animal por pasajero."},
+        {"q": "¿Cómo llego a São Jacinto con un perro?", "a": "Tome un autobús hasta Forte da Barra y luego el breve ferry por la laguna. Los perros viajan con correa; las dunas son una reserva protegida, así que mantenga a los perros con correa y fuera de las zonas restringidas."}
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Aveiro",
+      "titleFr": "Plages acceptant les chiens près d'Aveiro",
+      "titleEs": "Playas que admiten perros cerca de Aveiro",
+      "introEn": "Aveiro sits beside the Ria de Aveiro lagoon, with Atlantic beaches a short drive away. The famous striped-house beaches of Costa Nova and Praia da Barra (in neighbouring Ílhavo) are concessioned, Blue Flag beaches, where dogs are generally banned during the summer bathing season but welcome off-season and on the patrolled spring/autumn weekends. For year-round dog access, head to non-concessioned beaches such as Praia de Cortegaça to the north, where dogs are permitted unless signage says otherwise. The São Jacinto dunes are a protected nature reserve, so dogs must stay leashed and out of restricted zones. Always check the signage at each beach entrance.",
+      "introFr": "Aveiro borde la lagune de la Ria de Aveiro, avec des plages atlantiques à quelques minutes en voiture. Les célèbres plages aux maisons rayées de Costa Nova et de Praia da Barra (à Ílhavo, voisine) sont des plages concédées à Pavillon Bleu, où les chiens sont en général interdits pendant la saison balnéaire estivale mais bienvenus hors saison et lors des week-ends de printemps/automne surveillés. Pour un accès canin à l'année, privilégiez les plages non concédées comme la Praia de Cortegaça au nord, où les chiens sont admis sauf signalétique contraire. Les dunes de São Jacinto sont une réserve naturelle protégée : chiens en laisse et hors des zones restreintes. Vérifiez toujours la signalétique à l'entrée de chaque plage.",
+      "introEs": "Aveiro se asienta junto a la laguna de la Ria de Aveiro, con playas atlánticas a pocos minutos en coche. Las famosas playas de casas a rayas de Costa Nova y Praia da Barra (en la vecina Ílhavo) son playas concesionadas con Bandera Azul, donde los perros suelen estar prohibidos durante la temporada de baño estival pero son bienvenidos fuera de temporada y en los fines de semana vigilados de primavera/otoño. Para acceso canino todo el año, vaya a playas no concesionadas como la Praia de Cortegaça al norte, donde se admiten perros salvo que la señalización indique lo contrario. Las dunas de São Jacinto son una reserva natural protegida: perros con correa y fuera de las zonas restringidas. Compruebe siempre la señalización en la entrada de cada playa.",
+      "places": [
+        {
+          "name": "Praia de Cortegaça",
+          "address": "Cortegaça, Ovar (north of Aveiro)",
+          "neighborhood": "Cortegaça (Ovar)",
+          "photo": "/images/city-places/aveiro-beaches-cortegaca.jpg",
+          "description": "A non-concessioned Atlantic beach north of Aveiro, backed by dunes and pine forest, with strong surf and a fishing heritage. As a non-concessioned beach, dogs are generally permitted year-round, including in the bathing season, unless signage says otherwise. The best bet near Aveiro for a dog beach day in summer.",
+          "descriptionFr": "Une plage atlantique non concédée au nord d'Aveiro, adossée à des dunes et une pinède, avec des vagues puissantes et un héritage de pêche. En tant que plage non concédée, les chiens y sont en général admis toute l'année, y compris en saison balnéaire, sauf signalétique contraire. Le meilleur choix près d'Aveiro pour une journée plage avec chien en été.",
+          "descriptionEs": "Una playa atlántica no concesionada al norte de Aveiro, respaldada por dunas y pinar, con fuerte oleaje y tradición pesquera. Al ser una playa no concesionada, los perros suelen estar permitidos todo el año, incluso en temporada de baño, salvo que la señalización indique lo contrario. La mejor opción cerca de Aveiro para un día de playa con perro en verano.",
+          "leashRequired": true,
+          "seasonalRestrictions": "Non-concessioned beach: dogs generally permitted year-round unless on-site signage prohibits it",
+          "seasonalRestrictionsFr": "Plage non concédée : chiens en général admis toute l'année sauf signalétique sur place l'interdisant",
+          "seasonalRestrictionsEs": "Playa no concesionada: perros en general permitidos todo el año salvo que la señalización in situ lo prohíba",
+          "amenities": ["Dunes & pine forest", "Surf", "Open sand", "Limited facilities"],
+          "amenitiesFr": ["Dunes et pinède", "Surf", "Sable ouvert", "Services limités"],
+          "amenitiesEs": ["Dunas y pinar", "Surf", "Arena abierta", "Servicios limitados"],
+          "tip": "Surf can be strong here; keep dogs out of the water in heavy swell and always read the entrance signage before letting a dog onto the sand.",
+          "tipFr": "Le surf peut être fort ici ; gardez les chiens hors de l'eau par forte houle et lisez toujours la signalétique à l'entrée avant de laisser un chien sur le sable.",
+          "tipEs": "El oleaje puede ser fuerte aquí; mantenga a los perros fuera del agua con mar de fondo y lea siempre la señalización de entrada antes de dejar al perro en la arena.",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+de+Cortegaca+Ovar"
+        },
+        {
+          "name": "Costa Nova & Praia da Barra (off-season)",
+          "address": "Costa Nova / Barra, Ílhavo",
+          "neighborhood": "Costa Nova (Ílhavo)",
+          "photo": "/images/city-places/aveiro-beaches-costa-nova.jpg",
+          "description": "Aveiro's most iconic beaches, fronted by the candy-striped palheiros of Costa Nova. As concessioned Blue Flag beaches, dogs are generally not allowed during the summer bathing season, but they are welcome out of season, and Ílhavo patrols these beaches on spring and autumn weekends. A beautiful off-season dog walk by the painted houses and lagoon.",
+          "descriptionFr": "Les plages les plus emblématiques d'Aveiro, devant les palheiros rayés de Costa Nova. Plages concédées à Pavillon Bleu, les chiens n'y sont en général pas admis pendant la saison balnéaire estivale, mais ils sont bienvenus hors saison, et Ílhavo surveille ces plages les week-ends de printemps et d'automne. Une belle promenade canine hors saison près des maisons peintes et de la lagune.",
+          "descriptionEs": "Las playas más icónicas de Aveiro, frente a los palheiros a rayas de Costa Nova. Como playas concesionadas con Bandera Azul, los perros no suelen estar permitidos en la temporada de baño estival, pero son bienvenidos fuera de temporada, e Ílhavo vigila estas playas los fines de semana de primavera y otoño. Un bonito paseo canino fuera de temporada junto a las casas pintadas y la laguna.",
+          "leashRequired": true,
+          "seasonalRestrictions": "Concessioned Blue Flag beaches: dogs generally banned in the summer bathing season; allowed off-season",
+          "seasonalRestrictionsFr": "Plages concédées à Pavillon Bleu : chiens en général interdits en saison balnéaire estivale ; admis hors saison",
+          "seasonalRestrictionsEs": "Playas concesionadas con Bandera Azul: perros en general prohibidos en la temporada de baño estival; permitidos fuera de temporada",
+          "amenities": ["Iconic striped houses", "Promenade", "Cafés & restaurants", "Lagoon views"],
+          "amenitiesFr": ["Maisons rayées emblématiques", "Promenade", "Cafés et restaurants", "Vues sur la lagune"],
+          "amenitiesEs": ["Casas a rayas icónicas", "Paseo", "Cafés y restaurantes", "Vistas a la laguna"],
+          "tip": "Visit with a dog in spring or autumn; in July and August the bathing-season ban applies, so use Cortegaça or the dog parks instead.",
+          "tipFr": "Venez avec un chien au printemps ou à l'automne ; en juillet-août l'interdiction de saison balnéaire s'applique, préférez alors Cortegaça ou les parcs canins.",
+          "tipEs": "Visite con perro en primavera u otoño; en julio y agosto se aplica la prohibición de temporada de baño, así que use Cortegaça o los parques caninos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Costa+Nova+Ilhavo+Aveiro"
+        },
+        {
+          "name": "Praia das Dunas de São Jacinto",
+          "address": "São Jacinto, Aveiro (via Forte da Barra ferry)",
+          "neighborhood": "São Jacinto",
+          "photo": "/images/city-places/aveiro-beaches-sao-jacinto.jpg",
+          "description": "A wild, extensive Atlantic beach at the edge of the São Jacinto dunes nature reserve, reached by ferry across the lagoon. The recreation zone has beach support and facilities, but the reserve is strictly protected, with a large integral zone closed to the public. Dogs must stay leashed; loose dogs are a stated reason the reserve can be closed.",
+          "descriptionFr": "Une plage atlantique sauvage et étendue en bordure de la réserve naturelle des dunes de São Jacinto, accessible par ferry sur la lagune. La zone de loisirs dispose d'un soutien plage et d'équipements, mais la réserve est strictement protégée, avec une grande zone intégrale fermée au public. Les chiens doivent rester en laisse ; les chiens en liberté sont une cause déclarée de fermeture de la réserve.",
+          "descriptionEs": "Una playa atlántica salvaje y extensa al borde de la reserva natural de las dunas de São Jacinto, a la que se llega en ferry por la laguna. La zona de recreo tiene apoyo de playa e instalaciones, pero la reserva está estrictamente protegida, con una gran zona integral cerrada al público. Los perros deben ir con correa; los perros sueltos son un motivo declarado de cierre de la reserva.",
+          "leashRequired": true,
+          "seasonalRestrictions": "Protected nature reserve: dogs leashed only, restricted zones closed; check current reserve status",
+          "seasonalRestrictionsFr": "Réserve naturelle protégée : chiens en laisse uniquement, zones restreintes fermées ; vérifiez l'état actuel de la réserve",
+          "seasonalRestrictionsEs": "Reserva natural protegida: perros solo con correa, zonas restringidas cerradas; compruebe el estado actual de la reserva",
+          "amenities": ["Wild dunes", "Forest trails", "Beach support", "Ferry access"],
+          "amenitiesFr": ["Dunes sauvages", "Sentiers forestiers", "Soutien plage", "Accès en ferry"],
+          "amenitiesEs": ["Dunas salvajes", "Senderos forestales", "Apoyo de playa", "Acceso en ferry"],
+          "tip": "Keep your dog leashed at all times and stick to the recreation zone; the integral reserve is off-limits and loose dogs can trigger closures.",
+          "tipFr": "Gardez votre chien en laisse en permanence et restez dans la zone de loisirs ; la réserve intégrale est interdite et les chiens en liberté peuvent provoquer des fermetures.",
+          "tipEs": "Mantenga a su perro con correa en todo momento y permanezca en la zona de recreo; la reserva integral está vedada y los perros sueltos pueden provocar cierres.",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+das+Dunas+de+Sao+Jacinto"
+        }
+      ],
+      "tipsEn": [
+        "For a summer dog beach day near Aveiro, choose a non-concessioned beach like Cortegaça, where dogs are generally allowed year-round.",
+        "Costa Nova and Barra ban dogs in the summer bathing season; visit them with a dog off-season instead.",
+        "At São Jacinto keep your dog leashed and inside the recreation zone; it is a protected reserve."
+      ],
+      "tipsFr": [
+        "Pour une journée plage avec chien en été près d'Aveiro, choisissez une plage non concédée comme Cortegaça, où les chiens sont en général admis toute l'année.",
+        "Costa Nova et Barra interdisent les chiens en saison balnéaire estivale ; visitez-les plutôt avec un chien hors saison.",
+        "À São Jacinto, gardez votre chien en laisse et dans la zone de loisirs ; c'est une réserve protégée."
+      ],
+      "tipsEs": [
+        "Para un día de playa con perro en verano cerca de Aveiro, elija una playa no concesionada como Cortegaça, donde los perros suelen estar permitidos todo el año.",
+        "Costa Nova y Barra prohíben los perros en la temporada de baño estival; visítelas mejor con perro fuera de temporada.",
+        "En São Jacinto mantenga a su perro con correa y dentro de la zona de recreo; es una reserva protegida."
+      ],
+      "faqsEn": [
+        {"q": "Can I take my dog to the beach in summer near Aveiro?", "a": "Yes, but choose a non-concessioned beach such as Praia de Cortegaça, where dogs are generally permitted year-round. Concessioned Blue Flag beaches like Costa Nova and Barra ban dogs during the summer bathing season."},
+        {"q": "Are dogs allowed at Costa Nova?", "a": "Out of season, yes. In the summer bathing season dogs are generally banned, as Costa Nova is a concessioned Blue Flag beach. Spring and autumn are the times to visit with a dog."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je emmener mon chien à la plage en été près d'Aveiro ?", "a": "Oui, mais choisissez une plage non concédée comme la Praia de Cortegaça, où les chiens sont en général admis toute l'année. Les plages concédées à Pavillon Bleu comme Costa Nova et Barra interdisent les chiens en saison balnéaire estivale."},
+        {"q": "Les chiens sont-ils admis à Costa Nova ?", "a": "Hors saison, oui. En saison balnéaire estivale, les chiens sont en général interdits, car Costa Nova est une plage concédée à Pavillon Bleu. Le printemps et l'automne sont les moments pour y aller avec un chien."}
+      ],
+      "faqsEs": [
+        {"q": "¿Puedo llevar a mi perro a la playa en verano cerca de Aveiro?", "a": "Sí, pero elija una playa no concesionada como la Praia de Cortegaça, donde los perros suelen estar permitidos todo el año. Las playas concesionadas con Bandera Azul como Costa Nova y Barra prohíben los perros en la temporada de baño estival."},
+        {"q": "¿Se admiten perros en Costa Nova?", "a": "Fuera de temporada, sí. En la temporada de baño estival los perros suelen estar prohibidos, ya que Costa Nova es una playa concesionada con Bandera Azul. La primavera y el otoño son los momentos para ir con perro."}
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Clinics & Emergency Vets in Aveiro",
+      "titleFr": "Cliniques vétérinaires et urgences à Aveiro",
+      "titleEs": "Clínicas veterinarias y urgencias en Aveiro",
+      "introEn": "Aveiro is well covered for veterinary care, with at least two clinics running a 24-hour service. The Hospital Veterinário de Aveiro on Avenida da Universidade is open 24 hours, and VetRia and Planeta Animal also offer 24-hour emergency lines. Save at least one emergency number before you travel. The biggest seasonal risks for visiting dogs are summer heat on the open beaches and ticks from the dune and pine-forest walks, so keep parasite protection up to date.",
+      "introFr": "Aveiro est bien couverte pour les soins vétérinaires, avec au moins deux cliniques assurant un service 24h/24. Le Hospital Veterinário de Aveiro sur l'Avenida da Universidade est ouvert 24h/24, et VetRia et Planeta Animal proposent également des lignes d'urgence 24h/24. Enregistrez au moins un numéro d'urgence avant de partir. Les principaux risques saisonniers pour les chiens en visite sont la chaleur estivale sur les plages ouvertes et les tiques des balades dans les dunes et la pinède : maintenez la protection antiparasitaire à jour.",
+      "introEs": "Aveiro está bien cubierta en atención veterinaria, con al menos dos clínicas que ofrecen servicio 24 horas. El Hospital Veterinário de Aveiro en la Avenida da Universidade está abierto 24 horas, y VetRia y Planeta Animal también ofrecen líneas de urgencias 24 horas. Guarde al menos un número de urgencias antes de viajar. Los mayores riesgos estacionales para los perros visitantes son el calor del verano en las playas abiertas y las garrapatas de los paseos por las dunas y el pinar, así que mantenga al día la protección antiparasitaria.",
+      "places": [
+        {
+          "name": "Hospital Veterinário de Aveiro",
+          "address": "Avenida da Universidade 215, 3810-489 Aveiro",
+          "neighborhood": "Universidade",
+          "phone": "+351 234 386 427",
+          "photo": "/images/city-places/aveiro-vets-hospital-veterinario.jpg",
+          "website": "http://www.hospvetaveiro.com/",
+          "description": "A full veterinary hospital on Avenida da Universidade, open 24 hours for emergencies. Offers consultations, surgery, hospitalisation, radiology and ultrasound. The most comprehensive option in the city for an out-of-hours emergency with a dog.",
+          "descriptionFr": "Un hôpital vétérinaire complet sur l'Avenida da Universidade, ouvert 24h/24 pour les urgences. Propose consultations, chirurgie, hospitalisation, radiologie et échographie. L'option la plus complète de la ville pour une urgence hors horaires avec un chien.",
+          "descriptionEs": "Un hospital veterinario completo en la Avenida da Universidade, abierto 24 horas para urgencias. Ofrece consultas, cirugía, hospitalización, radiología y ecografía. La opción más completa de la ciudad para una urgencia fuera de horario con un perro.",
+          "services": ["24-hour emergencies", "Surgery & hospitalisation", "Radiology & ultrasound", "Consultations"],
+          "servicesFr": ["Urgences 24h/24", "Chirurgie et hospitalisation", "Radiologie et échographie", "Consultations"],
+          "servicesEs": ["Urgencias 24 horas", "Cirugía y hospitalización", "Radiología y ecografía", "Consultas"],
+          "openingHours": "Open 24 hours",
+          "tip": "Programme the number on arrival; being open 24 hours, it is the safest single call for a night-time emergency.",
+          "tipFr": "Enregistrez le numéro dès l'arrivée ; ouvert 24h/24, c'est l'appel le plus sûr pour une urgence nocturne.",
+          "tipEs": "Guarde el número al llegar; al estar abierto 24 horas, es la llamada más segura para una urgencia nocturna.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+de+Aveiro+Avenida+da+Universidade"
+        },
+        {
+          "name": "VetRia - Clínica Veterinária de Aveiro",
+          "address": "Aveiro",
+          "neighborhood": "Aveiro",
+          "phone": "+351 234 348 051",
+          "photo": "/images/city-places/aveiro-vets-vetria.jpg",
+          "website": "https://www.vetria.com.pt/",
+          "description": "A veterinary clinic in Aveiro offering consultations, surgery and diagnostics, with a dedicated 24-hour emergency line (969 939 939). A reliable choice for both routine care and out-of-hours problems in the city.",
+          "descriptionFr": "Une clinique vétérinaire à Aveiro proposant consultations, chirurgie et diagnostic, avec une ligne d'urgence dédiée 24h/24 (969 939 939). Un choix fiable pour les soins courants comme pour les problèmes hors horaires en ville.",
+          "descriptionEs": "Una clínica veterinaria en Aveiro que ofrece consultas, cirugía y diagnóstico, con una línea de urgencias dedicada 24 horas (969 939 939). Una opción fiable tanto para la atención rutinaria como para problemas fuera de horario en la ciudad.",
+          "services": ["24h emergency line", "Consultations", "Surgery", "Diagnostics"],
+          "servicesFr": ["Ligne d'urgence 24h", "Consultations", "Chirurgie", "Diagnostic"],
+          "servicesEs": ["Línea de urgencias 24h", "Consultas", "Cirugía", "Diagnóstico"],
+          "openingHours": "Clinic hours daily; 24h emergency line",
+          "tip": "Note the separate 24-hour emergency mobile (969 939 939); the main line is for daytime clinic appointments.",
+          "tipFr": "Notez le mobile d'urgence 24h séparé (969 939 939) ; la ligne principale est pour les rendez-vous de jour.",
+          "tipEs": "Apunte el móvil de urgencias 24h aparte (969 939 939); la línea principal es para citas de día.",
+          "googleMapsUrl": "https://maps.google.com/?q=VetRia+Clinica+Veterinaria+Aveiro"
+        },
+        {
+          "name": "Clínica Veterinária Planeta Animal",
+          "address": "Aveiro",
+          "neighborhood": "Aveiro",
+          "phone": "+351 234 386 427",
+          "photo": "/images/city-places/aveiro-vets-planeta-animal.jpg",
+          "website": "https://www.planetaanimal.pt/",
+          "description": "A long-established Aveiro veterinary clinic with over 30 years of experience, offering consultations, surgery, vaccination, clinical analysis and a 24-hour emergency service. A solid alternative for routine and urgent care.",
+          "descriptionFr": "Une clinique vétérinaire d'Aveiro de longue date, avec plus de 30 ans d'expérience, proposant consultations, chirurgie, vaccination, analyses cliniques et un service d'urgence 24h/24. Une bonne alternative pour les soins courants et urgents.",
+          "descriptionEs": "Una clínica veterinaria de Aveiro de larga trayectoria, con más de 30 años de experiencia, que ofrece consultas, cirugía, vacunación, análisis clínicos y un servicio de urgencias 24 horas. Una alternativa sólida para la atención rutinaria y urgente.",
+          "services": ["24h emergencies", "Consultations & surgery", "Vaccination", "Clinical analysis"],
+          "servicesFr": ["Urgences 24h", "Consultations et chirurgie", "Vaccination", "Analyses cliniques"],
+          "servicesEs": ["Urgencias 24h", "Consultas y cirugía", "Vacunación", "Análisis clínicos"],
+          "openingHours": "Clinic hours daily; 24h emergencies",
+          "tip": "Phone ahead before arriving out of hours so they can prepare for your dog's emergency.",
+          "tipFr": "Téléphonez avant d'arriver hors horaires pour qu'ils préparent l'urgence de votre chien.",
+          "tipEs": "Llame antes de llegar fuera de horario para que preparen la urgencia de su perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Planeta+Animal+Aveiro"
+        }
+      ],
+      "tipsEn": [
+        "Save the Hospital Veterinário de Aveiro's 24-hour number and VetRia's emergency mobile before you arrive.",
+        "Use parasite protection: dune and pine-forest walks around Aveiro carry a tick risk.",
+        "Watch for summer heat on the open Atlantic beaches; carry water and walk dogs early or late."
+      ],
+      "tipsFr": [
+        "Enregistrez le numéro 24h/24 du Hospital Veterinário de Aveiro et le mobile d'urgence de VetRia avant d'arriver.",
+        "Utilisez une protection antiparasitaire : les balades dans les dunes et la pinède autour d'Aveiro comportent un risque de tiques.",
+        "Attention à la chaleur estivale sur les plages atlantiques ouvertes ; emportez de l'eau et promenez tôt ou tard."
+      ],
+      "tipsEs": [
+        "Guarde el número 24 horas del Hospital Veterinário de Aveiro y el móvil de urgencias de VetRia antes de llegar.",
+        "Use protección antiparasitaria: los paseos por dunas y pinar alrededor de Aveiro conllevan riesgo de garrapatas.",
+        "Cuidado con el calor del verano en las playas atlánticas abiertas; lleve agua y pasee a los perros temprano o tarde."
+      ],
+      "faqsEn": [
+        {"q": "Is there a 24-hour vet in Aveiro?", "a": "Yes. The Hospital Veterinário de Aveiro on Avenida da Universidade is open 24 hours, and VetRia and Planeta Animal also run 24-hour emergency lines."},
+        {"q": "What health risks should I watch for in Aveiro?", "a": "Summer heat on the open Atlantic beaches and ticks from dune and pine-forest walks. Keep parasite protection up to date and carry water."}
+      ],
+      "faqsFr": [
+        {"q": "Y a-t-il un vétérinaire 24h/24 à Aveiro ?", "a": "Oui. Le Hospital Veterinário de Aveiro sur l'Avenida da Universidade est ouvert 24h/24, et VetRia et Planeta Animal assurent aussi des lignes d'urgence 24h/24."},
+        {"q": "Quels risques de santé surveiller à Aveiro ?", "a": "La chaleur estivale sur les plages atlantiques ouvertes et les tiques des balades dans les dunes et la pinède. Maintenez la protection antiparasitaire à jour et emportez de l'eau."}
+      ],
+      "faqsEs": [
+        {"q": "¿Hay un veterinario 24 horas en Aveiro?", "a": "Sí. El Hospital Veterinário de Aveiro en la Avenida da Universidade está abierto 24 horas, y VetRia y Planeta Animal también tienen líneas de urgencias 24 horas."},
+        {"q": "¿Qué riesgos de salud debo vigilar en Aveiro?", "a": "El calor del verano en las playas atlánticas abiertas y las garrapatas de los paseos por dunas y pinar. Mantenga al día la protección antiparasitaria y lleve agua."}
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Aveiro with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Aveiro avec un chien",
+      "titleEs": "Consejos prácticos para visitar Aveiro con perro",
+      "introEn": "Aveiro is a compact, flat and genuinely dog-friendly city, with three fenced dog parks, broadly pet-tolerant terraces and a moliceiro boat tradition that even admits leashed dogs. The main things to plan around are the beach rules, the seasonal ban on Costa Nova and Barra versus the year-round access at non-concessioned beaches, and Portugal's transport documents. Aveiro's oceanic climate is mild year-round, making spring and autumn especially pleasant for a dog, with cooler beaches and fewer crowds.",
+      "introFr": "Aveiro est une ville compacte, plate et réellement dog-friendly, avec trois parcs canins clôturés, des terrasses largement tolérantes et une tradition de barques moliceiro qui admet même les chiens en laisse. Les principaux points à anticiper sont les règles de plage, l'interdiction saisonnière à Costa Nova et Barra contre l'accès à l'année des plages non concédées, et les documents de transport portugais. Le climat océanique d'Aveiro est doux toute l'année, ce qui rend le printemps et l'automne particulièrement agréables pour un chien, avec des plages plus fraîches et moins de monde.",
+      "introEs": "Aveiro es una ciudad compacta, llana y realmente dog-friendly, con tres parques caninos vallados, terrazas ampliamente tolerantes y una tradición de barcos moliceiro que incluso admite perros con correa. Lo principal a prever son las normas de playa, la prohibición estacional en Costa Nova y Barra frente al acceso todo el año de las playas no concesionadas, y los documentos de transporte portugueses. El clima oceánico de Aveiro es suave todo el año, lo que hace la primavera y el otoño especialmente agradables para un perro, con playas más frescas y menos gente.",
+      "places": [
+        {
+          "name": "Choose the right beach for the season",
+          "photo": "/images/city-places/aveiro-tips-beach-season.jpg",
+          "description": "Costa Nova and Praia da Barra are concessioned Blue Flag beaches where dogs are banned in the summer bathing season. For a summer dog beach day, head to a non-concessioned beach such as Praia de Cortegaça, where dogs are generally permitted year-round. Always read the entrance signage.",
+          "descriptionFr": "Costa Nova et la Praia da Barra sont des plages concédées à Pavillon Bleu où les chiens sont interdits en saison balnéaire estivale. Pour une journée plage avec chien en été, allez sur une plage non concédée comme la Praia de Cortegaça, où les chiens sont en général admis toute l'année. Lisez toujours la signalétique à l'entrée.",
+          "descriptionEs": "Costa Nova y la Praia da Barra son playas concesionadas con Bandera Azul donde los perros están prohibidos en la temporada de baño estival. Para un día de playa con perro en verano, vaya a una playa no concesionada como la Praia de Cortegaça, donde los perros suelen estar permitidos todo el año. Lea siempre la señalización de entrada."
+        },
+        {
+          "name": "Use the three dog parks",
+          "photo": "/images/city-places/aveiro-tips-dog-parks.jpg",
+          "description": "Aveiro has three fenced municipal dog parks (Forca-Vouga east, Fonte do Meio north, Canal de São Roque west), each with agility equipment and secure fencing. Outside these, a leash is mandatory and owners must clear up. They are the city's reliable off-leash option all year.",
+          "descriptionFr": "Aveiro compte trois parcs canins municipaux clôturés (Forca-Vouga à l'est, Fonte do Meio au nord, Canal de São Roque à l'ouest), chacun avec agility et clôture sécurisée. En dehors, la laisse est obligatoire et il faut ramasser. C'est l'option sans laisse fiable de la ville toute l'année.",
+          "descriptionEs": "Aveiro tiene tres parques caninos municipales vallados (Forca-Vouga al este, Fonte do Meio al norte, Canal de São Roque al oeste), cada uno con agility y valla segura. Fuera de ellos, la correa es obligatoria y hay que recoger. Son la opción sin correa fiable de la ciudad todo el año."
+        },
+        {
+          "name": "Documents, leash & moliceiro booking",
+          "photo": "/images/city-places/aveiro-tips-documents-moliceiro.jpg",
+          "description": "Carry your dog's EU pet passport or vaccination records and municipal licence for trains and buses, where larger dogs need a muzzle. A leash is the default everywhere outside the dog parks. If you want a moliceiro canal cruise, small leashed or muzzled dogs are admitted, but you must request it when booking.",
+          "descriptionFr": "Emportez le passeport européen ou le carnet de vaccination et la licence municipale du chien pour les trains et bus, où les grands chiens ont besoin d'une muselière. La laisse est la règle partout hors des parcs canins. Pour une croisière en moliceiro, les petits chiens en laisse ou muselés sont admis, mais il faut le demander à la réservation.",
+          "descriptionEs": "Lleve el pasaporte europeo o la cartilla de vacunación y la licencia municipal del perro para trenes y autobuses, donde los perros grandes necesitan bozal. La correa es la norma en todas partes fuera de los parques caninos. Para un crucero en moliceiro, los perros pequeños con correa o bozal se admiten, pero hay que solicitarlo al reservar."
+        }
+      ],
+      "tipsEn": [
+        "In summer use a non-concessioned beach like Cortegaça; Costa Nova and Barra ban dogs in the bathing season.",
+        "Aveiro's three fenced dog parks are the reliable year-round off-leash option.",
+        "Request dog admission when booking a moliceiro cruise; small leashed or muzzled dogs are accepted."
+      ],
+      "tipsFr": [
+        "En été, utilisez une plage non concédée comme Cortegaça ; Costa Nova et Barra interdisent les chiens en saison balnéaire.",
+        "Les trois parcs canins clôturés d'Aveiro sont l'option sans laisse fiable toute l'année.",
+        "Demandez l'accueil du chien à la réservation d'une croisière en moliceiro ; les petits chiens en laisse ou muselés sont acceptés."
+      ],
+      "tipsEs": [
+        "En verano use una playa no concesionada como Cortegaça; Costa Nova y Barra prohíben los perros en la temporada de baño.",
+        "Los tres parques caninos vallados de Aveiro son la opción sin correa fiable todo el año.",
+        "Solicite la admisión del perro al reservar un crucero en moliceiro; se aceptan perros pequeños con correa o bozal."
+      ],
+      "faqsEn": [
+        {"q": "When is the best time to visit Aveiro with a dog?", "a": "Spring and autumn are ideal: the oceanic climate is mild, the beaches are quieter, and out of the summer bathing season dogs can access more beaches, including Costa Nova and Barra."},
+        {"q": "Can dogs go on a moliceiro boat in Aveiro?", "a": "Yes. Small dogs on a leash or muzzled are admitted on moliceiro canal cruises, but you must request it at the time of booking and the dog stays with you throughout."}
+      ],
+      "faqsFr": [
+        {"q": "Quelle est la meilleure période pour visiter Aveiro avec un chien ?", "a": "Le printemps et l'automne sont idéaux : le climat océanique est doux, les plages plus calmes, et hors saison balnéaire estivale les chiens accèdent à davantage de plages, dont Costa Nova et Barra."},
+        {"q": "Les chiens peuvent-ils monter dans un moliceiro à Aveiro ?", "a": "Oui. Les petits chiens en laisse ou muselés sont admis sur les croisières en moliceiro, mais il faut le demander à la réservation et le chien reste avec vous tout du long."}
+      ],
+      "faqsEs": [
+        {"q": "¿Cuál es la mejor época para visitar Aveiro con perro?", "a": "La primavera y el otoño son ideales: el clima oceánico es suave, las playas están más tranquilas, y fuera de la temporada de baño estival los perros acceden a más playas, incluidas Costa Nova y Barra."},
+        {"q": "¿Pueden subir los perros a un barco moliceiro en Aveiro?", "a": "Sí. Los perros pequeños con correa o bozal se admiten en los cruceros en moliceiro, pero hay que solicitarlo al reservar y el perro permanece con usted durante todo el trayecto."}
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Aveiro",
+      "titleFr": "Attractions accueillant les chiens à Aveiro",
+      "titleEs": "Atracciones que admiten perros en Aveiro",
+      "introEn": "Aveiro's charms are largely outdoors, which suits a dog perfectly. Its network of canals, crossed by the traditional moliceiro boats, gives it the nickname 'Venice of Portugal', and a canal-side wander past the Art Nouveau facades is the city's signature experience. A short trip away, the striped palheiros of Costa Nova are among Portugal's most photographed houses. Most outdoor sights are freely enjoyed on a leash; even a moliceiro cruise will take small leashed or muzzled dogs if you ask when booking.",
+      "introFr": "Les charmes d'Aveiro sont surtout en extérieur, ce qui convient parfaitement à un chien. Son réseau de canaux, parcouru par les traditionnelles barques moliceiro, lui vaut le surnom de « Venise du Portugal », et une flânerie le long des canaux devant les façades Art Nouveau est l'expérience emblématique de la ville. À courte distance, les palheiros rayés de Costa Nova comptent parmi les maisons les plus photographiées du Portugal. La plupart des sites en extérieur se profitent en laisse ; même une croisière en moliceiro accepte les petits chiens en laisse ou muselés si vous le demandez à la réservation.",
+      "introEs": "Los encantos de Aveiro son sobre todo al aire libre, lo que conviene perfectamente a un perro. Su red de canales, surcada por los tradicionales barcos moliceiro, le da el apodo de « Venecia de Portugal », y un paseo junto a los canales ante las fachadas Art Nouveau es la experiencia emblemática de la ciudad. A poca distancia, los palheiros a rayas de Costa Nova están entre las casas más fotografiadas de Portugal. La mayoría de los lugares al aire libre se disfrutan con correa; incluso un crucero en moliceiro admite perros pequeños con correa o bozal si lo solicita al reservar.",
+      "places": [
+        {
+          "name": "The Aveiro canals & moliceiro boats",
+          "address": "Canal Central, 3800 Aveiro",
+          "neighborhood": "Centro",
+          "photo": "/images/city-places/aveiro-attractions-canals-moliceiro.jpg",
+          "description": "The colourful moliceiro boats, once used to gather seaweed and now electric, glide along the Central Canal past Art Nouveau facades, the Beira-Mar district and the salt-marsh canals. A canal-side walk is free and dog-friendly; small leashed or muzzled dogs can even join a cruise if requested when booking.",
+          "descriptionFr": "Les barques moliceiro colorées, jadis utilisées pour récolter les algues et désormais électriques, glissent le long du Canal Central devant les façades Art Nouveau, le quartier Beira-Mar et les canaux des marais salants. La promenade le long des canaux est gratuite et dog-friendly ; les petits chiens en laisse ou muselés peuvent même participer à une croisière sur demande à la réservation.",
+          "descriptionEs": "Los coloridos barcos moliceiro, antaño usados para recoger algas y ahora eléctricos, se deslizan por el Canal Central ante las fachadas Art Nouveau, el barrio de Beira-Mar y los canales de las marismas. El paseo junto a los canales es gratuito y dog-friendly; los perros pequeños con correa o bozal pueden incluso unirse a un crucero si se solicita al reservar.",
+          "petPolicy": "Canal walks free and dog-friendly; cruises take small leashed/muzzled dogs on request",
+          "petPolicyFr": "Promenades le long des canaux gratuites et dog-friendly ; croisières acceptant les petits chiens en laisse/muselés sur demande",
+          "petPolicyEs": "Paseos junto a los canales gratuitos y dog-friendly; cruceros que admiten perros pequeños con correa/bozal a petición",
+          "tip": "If you want a cruise, request dog admission when booking; otherwise the canal-side walk is free, scenic and entirely dog-friendly.",
+          "tipFr": "Pour une croisière, demandez l'accueil du chien à la réservation ; sinon, la promenade le long des canaux est gratuite, pittoresque et entièrement dog-friendly.",
+          "tipEs": "Si quiere un crucero, solicite la admisión del perro al reservar; si no, el paseo junto a los canales es gratuito, pintoresco y totalmente dog-friendly.",
+          "googleMapsUrl": "https://maps.google.com/?q=Canal+Central+Aveiro+moliceiro"
+        },
+        {
+          "name": "Costa Nova striped houses (palheiros)",
+          "address": "Avenida José Estêvão, Costa Nova, 3830 Ílhavo",
+          "neighborhood": "Costa Nova (Ílhavo)",
+          "photo": "/images/city-places/aveiro-attractions-costa-nova-palheiros.jpg",
+          "description": "The candy-striped palheiros of Costa Nova, originally fishermen's warehouses, are among Portugal's most photographed houses, lining the lagoon-side avenue a short drive from Aveiro. The seafront promenade is fully outdoors and dog-friendly on a leash, with plenty of cafés for a stop along the way.",
+          "descriptionFr": "Les palheiros rayés de Costa Nova, à l'origine des entrepôts de pêcheurs, comptent parmi les maisons les plus photographiées du Portugal, bordant l'avenue côté lagune à quelques minutes en voiture d'Aveiro. La promenade du front de mer est entièrement en extérieur et dog-friendly en laisse, avec de nombreux cafés pour une pause.",
+          "descriptionEs": "Los palheiros a rayas de Costa Nova, originalmente almacenes de pescadores, están entre las casas más fotografiadas de Portugal, bordeando la avenida junto a la laguna a pocos minutos en coche de Aveiro. El paseo marítimo es totalmente al aire libre y dog-friendly con correa, con muchos cafés para una parada.",
+          "petPolicy": "Outdoors, leashed dogs welcome along the promenade",
+          "petPolicyFr": "En extérieur, chiens en laisse bienvenus le long de la promenade",
+          "petPolicyEs": "Al aire libre, perros con correa bienvenidos a lo largo del paseo",
+          "tip": "Go early for photos of the striped houses without crowds; the avenue is busiest at midday and on summer weekends.",
+          "tipFr": "Venez tôt pour photographier les maisons rayées sans la foule ; l'avenue est la plus fréquentée à midi et les week-ends d'été.",
+          "tipEs": "Vaya temprano para fotografiar las casas a rayas sin gente; la avenida está más concurrida al mediodía y los fines de semana de verano.",
+          "googleMapsUrl": "https://maps.google.com/?q=Costa+Nova+palheiros+Ilhavo"
+        },
+        {
+          "name": "Beira-Mar district & Art Nouveau facades",
+          "address": "Bairro da Beira-Mar, 3800 Aveiro",
+          "neighborhood": "Beira-Mar",
+          "photo": "/images/city-places/aveiro-attractions-beira-mar.jpg",
+          "description": "Aveiro's old fishermen's quarter along the São Roque canal, full of narrow streets, tiled houses and the city's celebrated Art Nouveau buildings. Entirely walkable and dog-friendly on a leash, it pairs naturally with the Canal de São Roque dog park nearby for a half-day on foot.",
+          "descriptionFr": "Le vieux quartier des pêcheurs d'Aveiro le long du canal de São Roque, plein de ruelles, de maisons à azulejos et des célèbres immeubles Art Nouveau de la ville. Entièrement praticable à pied et dog-friendly en laisse, il s'associe naturellement au parc canin du Canal de São Roque voisin pour une demi-journée à pied.",
+          "descriptionEs": "El antiguo barrio de pescadores de Aveiro junto al canal de São Roque, lleno de callejuelas, casas con azulejos y los célebres edificios Art Nouveau de la ciudad. Totalmente caminable y dog-friendly con correa, combina de forma natural con el parque canino del Canal de São Roque cercano para una media jornada a pie.",
+          "petPolicy": "Pedestrian streets, leashed dogs welcome",
+          "petPolicyFr": "Rues piétonnes, chiens en laisse bienvenus",
+          "petPolicyEs": "Calles peatonales, perros con correa bienvenidos",
+          "tip": "Combine a Beira-Mar wander with the nearby Canal de São Roque dog park so your dog gets both a walk and off-leash time.",
+          "tipFr": "Associez une flânerie à Beira-Mar avec le parc canin du Canal de São Roque voisin pour que votre chien ait à la fois une promenade et du temps sans laisse.",
+          "tipEs": "Combine un paseo por Beira-Mar con el cercano parque canino del Canal de São Roque para que su perro tenga paseo y tiempo sin correa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bairro+da+Beira-Mar+Aveiro"
+        }
+      ],
+      "tipsEn": [
+        "Aveiro's best sights are outdoors: the canals, the Art Nouveau facades and the Costa Nova striped houses are all dog-friendly on a leash.",
+        "Small leashed or muzzled dogs can join a moliceiro cruise if you request it when booking.",
+        "Pair a Beira-Mar walk with the Canal de São Roque dog park for an easy half-day."
+      ],
+      "tipsFr": [
+        "Les meilleurs sites d'Aveiro sont en extérieur : les canaux, les façades Art Nouveau et les maisons rayées de Costa Nova sont tous dog-friendly en laisse.",
+        "Les petits chiens en laisse ou muselés peuvent participer à une croisière en moliceiro sur demande à la réservation.",
+        "Associez une promenade à Beira-Mar au parc canin du Canal de São Roque pour une demi-journée facile."
+      ],
+      "tipsEs": [
+        "Los mejores lugares de Aveiro están al aire libre: los canales, las fachadas Art Nouveau y las casas a rayas de Costa Nova son todos dog-friendly con correa.",
+        "Los perros pequeños con correa o bozal pueden unirse a un crucero en moliceiro si lo solicita al reservar.",
+        "Combine un paseo por Beira-Mar con el parque canino del Canal de São Roque para una media jornada fácil."
+      ],
+      "faqsEn": [
+        {"q": "What can I see in Aveiro with my dog?", "a": "The canals, the Beira-Mar district, the Art Nouveau facades and the Costa Nova striped houses are all outdoors and dog-friendly on a leash. Small leashed dogs can even join a moliceiro cruise if requested."},
+        {"q": "Why is Aveiro called the Venice of Portugal?", "a": "Because of its network of canals crossed by traditional moliceiro boats, gondola-like craft once used to gather seaweed and now electric, which you can see on a free canal-side walk with your dog."}
+      ],
+      "faqsFr": [
+        {"q": "Que puis-je voir à Aveiro avec mon chien ?", "a": "Les canaux, le quartier Beira-Mar, les façades Art Nouveau et les maisons rayées de Costa Nova sont tous en extérieur et dog-friendly en laisse. Les petits chiens en laisse peuvent même participer à une croisière en moliceiro sur demande."},
+        {"q": "Pourquoi Aveiro est-elle appelée la Venise du Portugal ?", "a": "À cause de son réseau de canaux parcouru par les barques moliceiro traditionnelles, embarcations façon gondole jadis utilisées pour récolter les algues et désormais électriques, que l'on découvre lors d'une promenade gratuite le long des canaux avec son chien."}
+      ],
+      "faqsEs": [
+        {"q": "¿Qué puedo ver en Aveiro con mi perro?", "a": "Los canales, el barrio de Beira-Mar, las fachadas Art Nouveau y las casas a rayas de Costa Nova son todos al aire libre y dog-friendly con correa. Los perros pequeños con correa pueden incluso unirse a un crucero en moliceiro si se solicita."},
+        {"q": "¿Por qué se llama a Aveiro la Venecia de Portugal?", "a": "Por su red de canales surcada por los tradicionales barcos moliceiro, embarcaciones tipo góndola antaño usadas para recoger algas y ahora eléctricas, que se descubren en un paseo gratuito junto a los canales con su perro."}
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Aveiro",
+      "titleFr": "Garde et promenade de chiens à Aveiro",
+      "titleEs": "Cuidado y paseo de perros en Aveiro",
+      "introEn": "If you want to take a day trip to Porto, visit an indoor museum or have a dog-free evening, Aveiro has good pet-care coverage. International platforms PetBacker and TrustedHousesitters both list verified, reviewed sitters around Aveiro for home visits, walks, day care and boarding, and local services such as dog walkers operate in the city too. Book ahead in summer, when demand is highest, and always leave your sitter the number of one of Aveiro's 24-hour vets.",
+      "introFr": "Si vous voulez faire une excursion à Porto, visiter un musée en intérieur ou passer une soirée sans chien, Aveiro offre une bonne couverture de garde. Les plateformes internationales PetBacker et TrustedHousesitters recensent toutes deux des gardiens vérifiés et notés autour d'Aveiro pour visites à domicile, promenades, garderie et hébergement, et des services locaux de dog walking opèrent aussi en ville. Réservez à l'avance en été, quand la demande est la plus forte, et laissez toujours à votre gardien le numéro d'un des vétérinaires 24h/24 d'Aveiro.",
+      "introEs": "Si quiere hacer una excursión a Oporto, visitar un museo cerrado o disfrutar de una velada sin perro, Aveiro tiene buena cobertura de cuidado de mascotas. Las plataformas internacionales PetBacker y TrustedHousesitters recogen cuidadores verificados y valorados en torno a Aveiro para visitas a domicilio, paseos, guardería y alojamiento, y también operan servicios locales de paseo de perros en la ciudad. Reserve con antelación en verano, cuando la demanda es más alta, y deje siempre a su cuidador el número de uno de los veterinarios 24 horas de Aveiro.",
+      "places": [
+        {
+          "name": "PetBacker Aveiro",
+          "languages": ["Portuguese", "English"],
+          "description": "A multinational pet-care platform active in Aveiro, offering dog boarding, day care, dog walking and home pet-sitting. Bookings are insured and supported, and sitters carry guest reviews. A convenient option for both short walks and longer cover while you explore the region.",
+          "descriptionFr": "Une plateforme de garde d'animaux multinationale active à Aveiro, proposant hébergement, garderie de jour, promenades et pet-sitting à domicile. Les réservations sont assurées et accompagnées, et les gardiens sont notés par les clients. Une option pratique pour de courtes promenades comme pour une garde plus longue pendant que vous explorez la région.",
+          "descriptionEs": "Una plataforma multinacional de cuidado de mascotas activa en Aveiro, que ofrece alojamiento, guardería de día, paseos y cuidado a domicilio. Las reservas están aseguradas y respaldadas, y los cuidadores tienen reseñas de clientes. Una opción práctica tanto para paseos cortos como para estancias más largas mientras explora la región.",
+          "website": "https://www.petbacker.com/d/aveiro--portugal",
+          "tip": "Filter for sitters offering home visits if your dog is anxious; a familiar setting suits short absences better than boarding.",
+          "tipFr": "Filtrez les gardiens proposant des visites à domicile si votre chien est anxieux ; un cadre familier convient mieux qu'une pension pour de courtes absences.",
+          "tipEs": "Filtre por cuidadores que ofrezcan visitas a domicilio si su perro es ansioso; un entorno familiar conviene mejor que el alojamiento para ausencias cortas."
+        },
+        {
+          "name": "TrustedHousesitters Aveiro",
+          "languages": ["Portuguese", "English"],
+          "description": "A house-and-pet-sitting platform with rated, reviewed and verified sitters available around Aveiro. Useful when you want a sitter to stay in your accommodation with the dog rather than board it elsewhere. Profiles show reviews and verification status.",
+          "descriptionFr": "Une plateforme de house-and-pet-sitting avec des gardiens notés, commentés et vérifiés disponibles autour d'Aveiro. Pratique quand vous préférez qu'un gardien reste dans votre logement avec le chien plutôt que de le mettre en pension ailleurs. Les profils indiquent avis et statut de vérification.",
+          "descriptionEs": "Una plataforma de cuidado de casa y mascotas con cuidadores valorados, reseñados y verificados disponibles en torno a Aveiro. Útil cuando prefiere que un cuidador se quede en su alojamiento con el perro en lugar de dejarlo en una residencia. Los perfiles muestran reseñas y estado de verificación.",
+          "website": "https://www.trustedhousesitters.com/house-and-pet-sitters/portugal/aveiro/aveiro/",
+          "tip": "Arrange a video call and a meet-and-greet before your trip; reputable sitters expect and welcome it.",
+          "tipFr": "Organisez un appel vidéo et une rencontre avant votre séjour ; les gardiens sérieux s'y attendent et l'apprécient.",
+          "tipEs": "Organice una videollamada y un encuentro previo antes del viaje; los cuidadores serios lo esperan y lo agradecen."
+        }
+      ],
+      "tipsEn": [
+        "Book sitters ahead in summer; Aveiro's peak season raises demand.",
+        "Choose home visits or in-home sitting for anxious dogs and short absences.",
+        "Leave the sitter the number of a 24-hour vet such as the Hospital Veterinário de Aveiro."
+      ],
+      "tipsFr": [
+        "Réservez les gardiens à l'avance en été ; la haute saison d'Aveiro augmente la demande.",
+        "Préférez les visites à domicile ou la garde sur place pour les chiens anxieux et les courtes absences.",
+        "Laissez au gardien le numéro d'un vétérinaire 24h/24 comme le Hospital Veterinário de Aveiro."
+      ],
+      "tipsEs": [
+        "Reserve cuidadores con antelación en verano; la temporada alta de Aveiro aumenta la demanda.",
+        "Prefiera las visitas a domicilio o el cuidado en casa para perros ansiosos y ausencias cortas.",
+        "Deje al cuidador el número de un veterinario 24 horas como el Hospital Veterinário de Aveiro."
+      ],
+      "faqsEn": [
+        {"q": "How do I find a dog sitter in Aveiro?", "a": "Use PetBacker or TrustedHousesitters, both of which list verified, reviewed sitters around Aveiro offering home visits, walks, day care and boarding."},
+        {"q": "Should I book in advance?", "a": "Yes, especially in summer. Demand is highest in the warm months, so the best-reviewed sitters book up early."}
+      ],
+      "faqsFr": [
+        {"q": "Comment trouver un gardien de chien à Aveiro ?", "a": "Utilisez PetBacker ou TrustedHousesitters, qui recensent tous deux des gardiens vérifiés et notés autour d'Aveiro, proposant visites à domicile, promenades, garderie et hébergement."},
+        {"q": "Faut-il réserver à l'avance ?", "a": "Oui, surtout en été. La demande est la plus forte aux beaux jours, et les gardiens les mieux notés se remplissent tôt."}
+      ],
+      "faqsEs": [
+        {"q": "¿Cómo encuentro un cuidador de perros en Aveiro?", "a": "Use PetBacker o TrustedHousesitters, que recogen cuidadores verificados y valorados en torno a Aveiro, con visitas a domicilio, paseos, guardería y alojamiento."},
+        {"q": "¿Debo reservar con antelación?", "a": "Sí, sobre todo en verano. La demanda es más alta en los meses cálidos, y los cuidadores mejor valorados se llenan pronto."}
+      ]
+    }
+  }
+}

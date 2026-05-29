@@ -1236,6 +1236,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  aveiro: {
+    history: {
+      fr: `Aveiro, surnommée la « Venise du Portugal », doit son existence à la Ria de Aveiro, une lagune côtière qui façonne la ville depuis le Moyen Âge. Prospère grâce au sel, à la pêche de la morue et à la récolte du moliço (algues) transporté par les barques moliceiro, la ville connut un déclin lorsque la lagune s'envasa au XVIe siècle, avant de renaître au XIXe siècle avec l'ouverture d'un nouveau canal vers la mer et l'essor de l'architecture Art Nouveau. Aujourd'hui ses canaux, ses façades décorées et ses moliceiro aux couleurs vives en font l'une des escales les plus pittoresques du centre du Portugal. Pour le voyageur avec un chien, Aveiro est exceptionnellement accommodante : plate et compacte, dotée de trois parcs canins clôturés, d'une culture d'esplanada tolérante, de moliceiro acceptant les chiens en laisse, et à courte distance des plages atlantiques et des palheiros rayés de Costa Nova.`,
+      en: `Aveiro, nicknamed the 'Venice of Portugal', owes its existence to the Ria de Aveiro, a coastal lagoon that has shaped the city since the Middle Ages. It grew rich on salt, cod fishing and the harvesting of moliço (seaweed) gathered by the moliceiro boats, then declined when the lagoon silted up in the 16th century, before reviving in the 19th century with a new canal cut to the sea and a flourish of Art Nouveau architecture. Today its canals, decorated facades and brightly painted moliceiro make it one of central Portugal's most picturesque stops. For the traveller with a dog, Aveiro is unusually accommodating: flat and compact, with three fenced dog parks, a tolerant esplanada culture, moliceiro boats that accept leashed dogs, and Atlantic beaches and the striped palheiros of Costa Nova a short trip away.`,
+      es: `Aveiro, apodada la « Venecia de Portugal », debe su existencia a la Ria de Aveiro, una laguna costera que ha moldeado la ciudad desde la Edad Media. Prosperó gracias a la sal, la pesca del bacalao y la recogida del moliço (algas) que recolectaban los barcos moliceiro, y luego decayó cuando la laguna se colmató en el siglo XVI, antes de renacer en el siglo XIX con un nuevo canal abierto al mar y un florecimiento de la arquitectura Art Nouveau. Hoy sus canales, sus fachadas decoradas y sus moliceiro de vivos colores la convierten en una das paradas más pintorescas do centro de Portugal. Para el viajero con perro, Aveiro es excepcionalmente acomodadiza: llana y compacta, con tres parques caninos vallados, una cultura de esplanada tolerante, barcos moliceiro que admiten perros con correa, y playas atlánticas y los palheiros a rayas de Costa Nova a poca distancia.`,
+      pt: `Aveiro, apelidada a « Veneza de Portugal », deve a sua existência à Ria de Aveiro, uma laguna costeira que molda a cidade desde a Idade Média. Prosperou com o sal, a pesca do bacalhau e a apanha do moliço (algas) recolhido pelos barcos moliceiro, e depois decaiu quando a laguna assoreou no século XVI, antes de renascer no século XIX com um novo canal aberto ao mar e um florescimento da arquitetura Arte Nova. Hoje os seus canais, as suas fachadas decoradas e os seus moliceiro de cores vivas fazem dela uma das paragens mais pitorescas do centro de Portugal. Para o viajante com cão, Aveiro é excecionalmente acolhedora: plana e compacta, com três parques caninos vedados, uma cultura de esplanada tolerante, barcos moliceiro que aceitam cães com trela, e praias atlânticas e os palheiros às riscas da Costa Nova a curta distância.`,
+    },
+    sights: [
+      { name: 'Canal Central & moliceiros', emoji: '🚤', petFriendly: true, desc: {
+        fr: `Le canal central et ses barques moliceiro colorées, désormais électriques, bordé de façades Art Nouveau. Promenade gratuite dog-friendly ; petits chiens en laisse admis en croisière sur demande.`,
+        en: `The central canal and its colourful moliceiro boats, now electric, lined with Art Nouveau facades. Free dog-friendly walk; small leashed dogs admitted on a cruise on request.`,
+        es: `El canal central y sus coloridos barcos moliceiro, ahora eléctricos, bordeado de fachadas Art Nouveau. Paseo gratuito dog-friendly; perros pequeños con correa admitidos en crucero a petición.`,
+        pt: `O canal central e os seus coloridos barcos moliceiro, agora elétricos, ladeado de fachadas Arte Nova. Passeio gratuito pet-friendly; cães pequenos com trela admitidos num cruzeiro a pedido.`,
+      }},
+      { name: 'Bairro da Beira-Mar', emoji: '🎨', petFriendly: true, desc: {
+        fr: `Le vieux quartier des pêcheurs le long du canal de São Roque, ruelles, maisons à azulejos et immeubles Art Nouveau. Entièrement piéton, dog-friendly en laisse.`,
+        en: `The old fishermen's quarter along the São Roque canal, narrow streets, tiled houses and Art Nouveau buildings. Fully pedestrian, dog-friendly on a leash.`,
+        es: `El antiguo barrio de pescadores junto al canal de São Roque, callejuelas, casas con azulejos y edificios Art Nouveau. Totalmente peatonal, dog-friendly con correa.`,
+        pt: `O antigo bairro de pescadores junto ao canal de São Roque, ruelas, casas com azulejos e edifícios Arte Nova. Totalmente pedonal, pet-friendly com trela.`,
+      }},
+      { name: 'Costa Nova (palheiros)', emoji: '🏠', petFriendly: true, desc: {
+        fr: `Les palheiros rayés de Costa Nova, anciens entrepôts de pêcheurs, parmi les maisons les plus photographiées du Portugal. Promenade du front de mer dog-friendly en laisse.`,
+        en: `The striped palheiros of Costa Nova, former fishermen's warehouses, among Portugal's most photographed houses. Seafront promenade dog-friendly on a leash.`,
+        es: `Los palheiros a rayas de Costa Nova, antiguos almacenes de pescadores, entre las casas más fotografiadas de Portugal. Paseo marítimo dog-friendly con correa.`,
+        pt: `Os palheiros às riscas da Costa Nova, antigos armazéns de pescadores, entre as casas mais fotografadas de Portugal. Marginal pet-friendly com trela.`,
+      }},
+      { name: 'Parque Infante D. Pedro', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le parc central de la ville, environ 20 ha sur un ancien couvent, allées arborées, lacs et kiosque à musique Art Nouveau. Chiens en laisse pour une promenade ombragée.`,
+        en: `The central city park, around 20 ha on a former convent, tree-lined avenues, lakes and an Art Nouveau bandstand. Leashed dogs for a shaded stroll.`,
+        es: `El parque central de la ciudad, unas 20 ha sobre un antiguo convento, avenidas arboladas, lagos y un quiosco de música Art Nouveau. Perros con correa para un paseo con sombra.`,
+        pt: `O parque central da cidade, cerca de 20 ha sobre um antigo convento, avenidas arborizadas, lagos e um coreto Arte Nova. Cães com trela para um passeio com sombra.`,
+      }},
+      { name: 'Parques caninos de Aveiro', emoji: '🐕', petFriendly: true, desc: {
+        fr: `Trois parcs canins municipaux clôturés (Forca-Vouga à l'est, Fonte do Meio au nord, Canal de São Roque à l'ouest) avec agility, le seul moyen légal de laisser un chien sans laisse.`,
+        en: `Three fenced municipal dog parks (Forca-Vouga east, Fonte do Meio north, Canal de São Roque west) with agility equipment, the only legal way to let a dog off-leash.`,
+        es: `Tres parques caninos municipales vallados (Forca-Vouga al este, Fonte do Meio al norte, Canal de São Roque al oeste) con agility, la única forma legal de soltar a un perro.`,
+        pt: `Três parques caninos municipais vedados (Forca-Vouga a este, Fonte do Meio a norte, Canal de São Roque a oeste) com agility, a única forma legal de soltar um cão.`,
+      }},
+      { name: 'Praia das Dunas de São Jacinto', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Plage atlantique sauvage en bordure d'une réserve naturelle protégée, accessible par ferry. Chiens en laisse uniquement ; zones restreintes interdites, chiens en liberté = fermetures.`,
+        en: `A wild Atlantic beach on the edge of a protected nature reserve, reached by ferry. Leashed dogs only; restricted zones off-limits, loose dogs can trigger closures.`,
+        es: `Una playa atlántica salvaje al borde de una reserva natural protegida, a la que se llega en ferry. Perros solo con correa; zonas restringidas vedadas, perros sueltos = cierres.`,
+        pt: `Uma praia atlântica selvagem na orla de uma reserva natural protegida, acessível de ferry. Cães só com trela; zonas restritas vedadas, cães soltos podem causar encerramentos.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture de l'esplanada portugaise est largement tolérante envers les chiens ; le centre commercial Forum Aveiro accepte les chiens en laisse sauf dans l'espace restauration.`,
+        `Trois parcs canins municipaux clôturés (Forca-Vouga, Fonte do Meio, Canal de São Roque) sont le seul espace sans laisse autorisé ; laisse partout ailleurs.`,
+        `Plages : Costa Nova et Barra (concédées, Pavillon Bleu) interdisent les chiens en saison balnéaire ; pour l'été, allez à la Praia de Cortegaça, non concédée, admise toute l'année.`,
+        `Moliceiro : petits chiens en laisse ou muselés admis en croisière, mais il faut le demander à la réservation.`,
+        `Vétérinaire 24h/24 : Hospital Veterinário de Aveiro (+351 234 386 427), VetRia urgences (969 939 939) ; risque de tiques dans les dunes et la pinède.`,
+      ],
+      en: [
+        `Portuguese esplanada culture is broadly dog-tolerant; the Forum Aveiro shopping centre admits leashed dogs except in the food court.`,
+        `Three fenced municipal dog parks (Forca-Vouga, Fonte do Meio, Canal de São Roque) are the only authorised off-leash space; leash everywhere else.`,
+        `Beaches: Costa Nova and Barra (concessioned, Blue Flag) ban dogs in the bathing season; for summer use the non-concessioned Praia de Cortegaça, allowed year-round.`,
+        `Moliceiro: small leashed or muzzled dogs are admitted on a cruise, but you must request it when booking.`,
+        `24/7 vet: Hospital Veterinário de Aveiro (+351 234 386 427), VetRia emergency (969 939 939); tick risk on the dune and pine-forest walks.`,
+      ],
+      es: [
+        `La cultura portuguesa de la esplanada es ampliamente tolerante con los perros; el centro Forum Aveiro admite perros con correa salvo en la zona de restauración.`,
+        `Tres parques caninos municipales vallados (Forca-Vouga, Fonte do Meio, Canal de São Roque) son el único espacio sin correa autorizado; correa en el resto.`,
+        `Playas: Costa Nova y Barra (concesionadas, Bandera Azul) prohíben los perros en temporada de baño; para el verano use la Praia de Cortegaça, no concesionada, permitida todo el año.`,
+        `Moliceiro: perros pequeños con correa o bozal admitidos en crucero, pero hay que solicitarlo al reservar.`,
+        `Veterinario 24/7: Hospital Veterinário de Aveiro (+351 234 386 427), VetRia urgencias (969 939 939); riesgo de garrapatas en dunas y pinar.`,
+      ],
+      pt: [
+        `A cultura portuguesa da esplanada é amplamente tolerante com os cães; o centro Forum Aveiro admite cães com trela exceto na zona de restauração.`,
+        `Três parques caninos municipais vedados (Forca-Vouga, Fonte do Meio, Canal de São Roque) são o único espaço sem trela autorizado; trela em todo o resto.`,
+        `Praias: Costa Nova e Barra (concessionadas, Bandeira Azul) proíbem cães na época balnear; para o verão use a Praia de Cortegaça, não concessionada, permitida o ano inteiro.`,
+        `Moliceiro: cães pequenos com trela ou açaime admitidos num cruzeiro, mas é preciso pedir na reserva.`,
+        `Veterinário 24/7: Hospital Veterinário de Aveiro (+351 234 386 427), VetRia urgências (969 939 939); risco de carraças nos passeios pelas dunas e pinhal.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Portugal dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Gare d'Aveiro sur la ligne nord : trains CP fréquents vers Porto (40-70 min) et Lisbonne ; petits chiens en sac gratuits, grands avec billet + muselière + laisse courte + documents.`,
+        `Aéroport le plus proche : Porto (OPO) à environ 1h en voiture ou en train, nombreux vols européens.`,
+        `Devise : euro. Bus Aveiro Bus pour Costa Nova/Barra et le ferry de São Jacinto ; petits animaux en sac, grands chiens muselés en laisse.`,
+        `À éviter avec un chien : les plages concédées (Costa Nova, Barra) en pleine saison balnéaire juillet-août ; privilégier le printemps et l'automne, climat doux et plages ouvertes aux chiens.`,
+      ],
+      en: [
+        `Portugal is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Aveiro station on the northern line: frequent CP trains to Porto (40-70 min) and Lisbon; small dogs in a carrier free, larger with ticket + muzzle + short leash + documents.`,
+        `Nearest airport: Porto (OPO), about 1h by car or train, with many European flights.`,
+        `Currency: euro. Aveiro Bus for Costa Nova/Barra and the São Jacinto ferry; small pets in a carrier, larger dogs muzzled on a leash.`,
+        `Avoid with a dog: the concessioned beaches (Costa Nova, Barra) in the July-August bathing-season peak; favour spring and autumn, with a mild climate and beaches open to dogs.`,
+      ],
+      es: [
+        `Portugal está en la UE y Schengen: pasaporte europeo + vacuna antirrábica vigente + microchip ISO es suficiente desde cualquier país de la UE.`,
+        `Estación de Aveiro en la línea norte: trenes CP frecuentes a Oporto (40-70 min) y Lisboa; perros pequeños en transportín gratis, grandes con billete + bozal + correa corta + documentos.`,
+        `Aeropuerto más cercano: Oporto (OPO), a una 1h en coche o tren, con muchos vuelos europeos.`,
+        `Moneda: euro. Aveiro Bus para Costa Nova/Barra y el ferry de São Jacinto; mascotas pequeñas en transportín, perros grandes con bozal y correa.`,
+        `A evitar con perro: las playas concesionadas (Costa Nova, Barra) en el pico de temporada de baño julio-agosto; mejor primavera y otoño, clima suave y playas abiertas a los perros.`,
+      ],
+      pt: [
+        `Portugal está na UE e Schengen: passaporte europeu + vacina antirrábica válida + microchip ISO é suficiente a partir de qualquer país da UE.`,
+        `Estação de Aveiro na linha do norte: comboios CP frequentes para o Porto (40-70 min) e Lisboa; cães pequenos em transportadora grátis, grandes com bilhete + açaime + trela curta + documentos.`,
+        `Aeroporto mais próximo: Porto (OPO), a cerca de 1h de carro ou comboio, com muitos voos europeus.`,
+        `Moeda: euro. Aveiro Bus para Costa Nova/Barra e o ferry de São Jacinto; animais pequenos em transportadora, cães grandes com açaime e trela.`,
+        `A evitar com cão: as praias concessionadas (Costa Nova, Barra) no pico da época balnear de julho-agosto; prefira a primavera e o outono, com clima ameno e praias abertas aos cães.`,
+      ],
+    },
+  },
+
   avignon: {
     history: {
       fr: `Avignon, fondée à l'époque romaine sous le nom d'Avenio, devint au XIVe siècle l'un des centres politiques les plus importants d'Europe quand sept papes s'y installèrent (1309-1377), faisant construire le plus grand palais gothique du monde (15 000 m², 250 mètres de rempart). Le légendaire Pont Saint-Bénézet, dont la comptine « Sur le Pont d'Avignon » a fait le tour du monde, traversait le Rhône avant qu'une crue de 1668 n'emporte 18 de ses 22 arches. Aujourd'hui capitale de la Provence (95 000 habitants intra-muros) et siège du plus grand festival de théâtre du monde (le Festival d'Avignon, début juillet), Avignon est l'une des villes culturelles les plus visitées de France. Pour les voyageurs avec un chien, c'est l'une des destinations provençales les plus complètes : intra-muros piéton en 20 min, culture café/bistrot tolérante par défaut, île de la Barthelasse face au Palais des Papes (la plus grande île fluviale d'Europe) avec 4 km de promenade riveraine, et accès TGV direct depuis Paris en 2h40.`,

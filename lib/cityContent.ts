@@ -15711,6 +15711,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  perpignan: {
+    history: {
+      fr: `Perpignan, capitale du Roussillon et longtemps cité catalane plus que française, fut au XIIIe siècle la capitale continentale du royaume de Majorque, dont le souverain Jacques II fit édifier dès 1276 le majestueux Palais des Rois de Majorque, vaste citadelle gothique catalane. Annexée par la France au XVIIe siècle, la ville conserve une identité catalane profonde, visible dans sa langue, sa cuisine et ses fêtes. Le Castillet, porte fortifiée en brique rouge commencée en 1368, et la cathédrale Saint-Jean, gothique catalane élancée, ancrent un centre historique compact et coloré. Pour le voyageur avec un chien, Perpignan est étonnamment accueillante : environ 37 espaces canins balisés dans toute la ville, une culture de terrasse méditerranéenne tolérante, un climat parmi les plus ensoleillés de France, et un accès facile aux plages dog-friendly du Roussillon à Canet, Sainte-Marie et Torreilles.`,
+      en: `Perpignan, capital of Roussillon and long more Catalan than French, was in the 13th century the continental capital of the Kingdom of Majorca, whose ruler James II began the majestic Palais des Rois de Majorque, a vast Catalan Gothic citadel, from 1276. Annexed by France in the 17th century, the city keeps a deep Catalan identity, visible in its language, cuisine and festivals. Le Castillet, a red-brick fortified gateway begun in 1368, and the soaring Catalan Gothic Cathédrale Saint-Jean anchor a compact, colourful historic centre. For the traveller with a dog, Perpignan is surprisingly welcoming: around 37 marked dog areas across the city, a tolerant Mediterranean terrace culture, one of France's sunniest climates, and easy access to the dog-friendly Roussillon beaches at Canet, Sainte-Marie and Torreilles.`,
+      es: `Perpiñán, capital del Rosellón y durante mucho tiempo más catalana que francesa, fue en el siglo XIII la capital continental del Reino de Mallorca, cuyo soberano Jaime II inició desde 1276 el majestuoso Palais des Rois de Majorque, una vasta ciudadela gótica catalana. Anexionada por Francia en el siglo XVII, la ciudad conserva una profunda identidad catalana, visible en su lengua, su cocina y sus fiestas. Le Castillet, una puerta fortificada de ladrillo rojo comenzada en 1368, y la esbelta catedral gótica catalana Saint-Jean anclan un centro histórico compacto y colorido. Para el viajero con perro, Perpiñán es sorprendentemente acogedora: unas 37 áreas caninas señalizadas por toda la ciudad, una cultura de terraza mediterránea tolerante, uno de los climas más soleados de Francia, y fácil acceso a las playas dog-friendly del Rosellón en Canet, Sainte-Marie y Torreilles.`,
+      pt: `Perpignan, capital do Rossilhão e durante muito tempo mais catalã do que francesa, foi no século XIII a capital continental do Reino de Maiorca, cujo soberano Jaime II iniciou a partir de 1276 o majestoso Palais des Rois de Majorque, uma vasta cidadela gótica catalã. Anexada pela França no século XVII, a cidade mantém uma profunda identidade catalã, visível na sua língua, na sua cozinha e nas suas festas. Le Castillet, uma porta fortificada de tijolo vermelho iniciada em 1368, e a esguia catedral gótica catalã Saint-Jean ancoram um centro histórico compacto e colorido. Para o viajante com cão, Perpignan é surpreendentemente acolhedora: cerca de 37 áreas caninas sinalizadas por toda a cidade, uma cultura de esplanada mediterrânica tolerante, um dos climas mais soalheiros de França, e fácil acesso às praias pet-friendly do Rossilhão em Canet, Sainte-Marie e Torreilles.`,
+    },
+    sights: [
+      { name: 'Le Castillet', emoji: '🏰', petFriendly: true, desc: {
+        fr: `La tour-porte emblématique en brique rouge, seul vestige des remparts médiévaux, commencée en 1368. Extérieur dog-friendly en laisse ; musée Casa Pairal réservé aux chiens d'assistance.`,
+        en: `The iconic red-brick gateway tower, the only surviving fragment of the medieval walls, begun in 1368. Exterior dog-friendly on a leash; Casa Pairal museum assistance dogs only.`,
+        es: `La emblemática torre-puerta de ladrillo rojo, único vestigio de las murallas medievales, comenzada en 1368. Exterior dog-friendly con correa; museo Casa Pairal solo perros de asistencia.`,
+        pt: `A emblemática torre-porta de tijolo vermelho, único vestígio das muralhas medievais, iniciada em 1368. Exterior pet-friendly com trela; museu Casa Pairal só cães de assistência.`,
+      }},
+      { name: 'Palais des Rois de Majorque', emoji: '🏯', petFriendly: true, desc: {
+        fr: `Vaste citadelle gothique catalane commencée en 1276 par Jacques II de Majorque. Remparts et jardins dog-friendly en laisse avec vues panoramiques ; galeries intérieures réservées aux chiens d'assistance.`,
+        en: `A vast Catalan Gothic citadel begun in 1276 by James II of Majorca. Ramparts and gardens dog-friendly on a leash with panoramic views; interior galleries assistance dogs only.`,
+        es: `Una vasta ciudadela gótica catalana comenzada en 1276 por Jaime II de Mallorca. Murallas y jardines dog-friendly con correa y vistas panorámicas; galerías interiores solo perros de asistencia.`,
+        pt: `Uma vasta cidadela gótica catalã iniciada em 1276 por Jaime II de Maiorca. Muralhas e jardins pet-friendly com trela e vistas panorâmicas; galerias interiores só cães de assistência.`,
+      }},
+      { name: 'Cathédrale Saint-Jean', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Cathédrale gothique catalane commencée en 1324, à la nef unique élancée. Extérieur et place dog-friendly en laisse ; intérieur réservé aux chiens d'assistance.`,
+        en: `Catalan Gothic cathedral begun in 1324, with a single soaring nave. Exterior and square dog-friendly on a leash; interior assistance dogs only.`,
+        es: `Catedral gótica catalana comenzada en 1324, con una única nave esbelta. Exterior y plaza dog-friendly con correa; interior solo perros de asistencia.`,
+        pt: `Catedral gótica catalã iniciada em 1324, com uma única nave esguia. Exterior e praça pet-friendly com trela; interior só cães de assistência.`,
+      }},
+      { name: 'Parc Sant Vicens', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Parc reposant aux allées ombragées et espaces ouverts, avec son propre espace canin où les chiens peuvent être lâchés. L'un des plus agréables de la ville.`,
+        en: `A relaxing park with shaded trails and open spaces, with its own dog area where dogs can be off-leash. One of the most pleasant in the city.`,
+        es: `Un parque relajante con senderos con sombra y espacios abiertos, con su propia área canina donde los perros pueden estar sin correa. Uno de los más agradables de la ciudad.`,
+        pt: `Um parque relaxante com trilhos com sombra e espaços abertos, com a sua própria área canina onde os cães podem estar sem trela. Um dos mais agradáveis da cidade.`,
+      }},
+      { name: 'Berges de la Têt', emoji: '🚶', petFriendly: true, desc: {
+        fr: `Promenade au bord de la Têt, plate et ombragée par endroits, appréciée pour la marche, la course et le vélo. Idéale tôt ou tard en laisse pour éviter la chaleur.`,
+        en: `A riverside promenade along the Têt, flat and shaded in stretches, popular for walking, running and cycling. Ideal early or late on a leash to avoid the heat.`,
+        es: `Un paseo junto al río Têt, llano y con sombra en algunos tramos, popular para caminar, correr y pedalear. Ideal temprano o tarde con correa para evitar el calor.`,
+        pt: `Um passeio junto ao rio Têt, plano e com sombra em alguns troços, popular para caminhar, correr e pedalar. Ideal cedo ou tarde com trela para evitar o calor.`,
+      }},
+      { name: 'Plage du Lido, Canet-en-Roussillon', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `La plage canine à l'année la plus proche, à 15-20 min, autorisant les chiens en laisse toute l'année près des cabanes de pêcheurs. Longue plage de sable méditerranéenne.`,
+        en: `The closest year-round dog beach, 15-20 min away, allowing leashed dogs all year near the fishermen's huts. A long Mediterranean sandy beach.`,
+        es: `La playa canina de todo el año más cercana, a 15-20 min, que permite perros con correa todo el año cerca de las cabañas de pescadores. Larga playa de arena mediterránea.`,
+        pt: `A praia canina o ano inteiro mais próxima, a 15-20 min, que permite cães com trela o ano inteiro junto às cabanas de pescadores. Longa praia de areia mediterrânica.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Environ 37 espaces canins balisés dans toute la ville (plan officiel mairie-perpignan.fr) sont le seul moyen légal de lâcher un chien ; laisse partout ailleurs.`,
+        `Plages : la plupart des plages du Roussillon interdisent les chiens du 15 juin au 15 septembre ; le Lido de Canet (cabanes de pêcheurs) autorise les chiens en laisse toute l'année.`,
+        `Chaleur et vent : Perpignan est l'une des villes les plus ensoleillées de France et la Tramontane sèche peut être forte ; promenez tôt ou tard et emportez de l'eau.`,
+        `Transports : Sankéo (petits chiens gratuits en panier, grands en laisse + muselière), TER liO (billet animal en gare, muselière pour les grands chiens).`,
+        `Urgences vétérinaires : NEOVET Tecnosud 24h/24 (+33 4 68 50 38 29) ; ligne nationale de garde 3115 pour tout le département.`,
+      ],
+      en: [
+        `Around 37 marked dog areas across the city (official mairie-perpignan.fr map) are the only legal way to let a dog off-leash; leash everywhere else.`,
+        `Beaches: most Roussillon beaches ban dogs from 15 June to 15 September; Canet's Lido (fishermen's huts) allows leashed dogs all year.`,
+        `Heat and wind: Perpignan is one of France's sunniest cities and the dry Tramontane wind can be strong; walk early or late and carry water.`,
+        `Transport: Sankéo (small dogs free in a basket, larger leashed + muzzled), TER liO (pet ticket at the station, muzzle for larger dogs).`,
+        `Emergency vet: NEOVET Tecnosud 24/7 (+33 4 68 50 38 29); national on-call line 3115 for the whole department.`,
+      ],
+      es: [
+        `Unas 37 áreas caninas señalizadas por toda la ciudad (plano oficial mairie-perpignan.fr) son la única forma legal de soltar a un perro; correa en el resto.`,
+        `Playas: la mayoría de las playas del Rosellón prohíben los perros del 15 de junio al 15 de septiembre; el Lido de Canet (cabañas de pescadores) permite perros con correa todo el año.`,
+        `Calor y viento: Perpiñán es una de las ciudades más soleadas de Francia y la Tramontana seca puede ser fuerte; pasee temprano o tarde y lleve agua.`,
+        `Transporte: Sankéo (perros pequeños gratis en cesta, grandes con correa + bozal), TER liO (billete de mascota en la estación, bozal para perros grandes).`,
+        `Veterinario de urgencias: NEOVET Tecnosud 24/7 (+33 4 68 50 38 29); línea nacional de guardia 3115 para todo el departamento.`,
+      ],
+      pt: [
+        `Cerca de 37 áreas caninas sinalizadas por toda a cidade (mapa oficial mairie-perpignan.fr) são a única forma legal de soltar um cão; trela em todo o resto.`,
+        `Praias: a maioria das praias do Rossilhão proíbe cães de 15 de junho a 15 de setembro; o Lido de Canet (cabanas de pescadores) permite cães com trela o ano inteiro.`,
+        `Calor e vento: Perpignan é uma das cidades mais soalheiras de França e a Tramontana seca pode ser forte; passeie cedo ou tarde e leve água.`,
+        `Transportes: Sankéo (cães pequenos grátis em cesto, grandes com trela + açaime), TER liO (bilhete de animal na estação, açaime para cães grandes).`,
+        `Veterinário de urgência: NEOVET Tecnosud 24/7 (+33 4 68 50 38 29); linha nacional de urgência 3115 para todo o departamento.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `France dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Gare de Perpignan sur le réseau Occitanie : TER fréquents vers Montpellier, Narbonne et la frontière espagnole ; billet animal à acheter en gare.`,
+        `Aéroport Perpignan-Rivesaltes (PGF) à environ 10 min ; Barcelone-El Prat à environ 2h en voiture, davantage de vols internationaux.`,
+        `Devise : euro. Identité catalane forte : langue, cuisine (bullinada, escalivade) et fêtes ; vins du Roussillon réputés.`,
+        `À éviter avec un chien : les plages concédées en pleine saison balnéaire (15 juin au 15 septembre) ; privilégier le printemps et l'automne, climat doux et plages ouvertes aux chiens.`,
+      ],
+      en: [
+        `France is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Perpignan station on the Occitanie network: frequent TER to Montpellier, Narbonne and the Spanish border; buy the pet ticket at the station.`,
+        `Perpignan-Rivesaltes Airport (PGF) is about 10 min away; Barcelona-El Prat is around 2h by car with more international flights.`,
+        `Currency: euro. Strong Catalan identity: language, cuisine (bullinada, escalivada) and festivals; renowned Roussillon wines.`,
+        `Avoid with a dog: the concessioned beaches in the bathing-season peak (15 June to 15 September); favour spring and autumn, with a mild climate and beaches open to dogs.`,
+      ],
+      es: [
+        `Francia está en la UE y Schengen: pasaporte europeo + vacuna antirrábica vigente + microchip ISO es suficiente desde cualquier país de la UE.`,
+        `Estación de Perpiñán en la red de Occitania: TER frecuentes a Montpellier, Narbona y la frontera española; compre el billete de mascota en la estación.`,
+        `Aeropuerto Perpignan-Rivesaltes (PGF) a unos 10 min; Barcelona-El Prat a unas 2h en coche con más vuelos internacionales.`,
+        `Moneda: euro. Fuerte identidad catalana: lengua, cocina (bullinada, escalivada) y fiestas; reconocidos vinos del Rosellón.`,
+        `A evitar con perro: las playas concesionadas en el pico de temporada de baño (15 de junio al 15 de septiembre); mejor primavera y otoño, clima suave y playas abiertas a los perros.`,
+      ],
+      pt: [
+        `França está na UE e Schengen: passaporte europeu + vacina antirrábica válida + microchip ISO é suficiente a partir de qualquer país da UE.`,
+        `Estação de Perpignan na rede da Occitânia: TER frequentes para Montpellier, Narbonne e a fronteira espanhola; compre o bilhete de animal na estação.`,
+        `Aeroporto Perpignan-Rivesaltes (PGF) a cerca de 10 min; Barcelona-El Prat a cerca de 2h de carro com mais voos internacionais.`,
+        `Moeda: euro. Forte identidade catalã: língua, cozinha (bullinada, escalivada) e festas; reputados vinhos do Rossilhão.`,
+        `A evitar com cão: as praias concessionadas no pico da época balnear (15 de junho a 15 de setembro); prefira a primavera e o outono, com clima ameno e praias abertas aos cães.`,
+      ],
+    },
+  },
+
   pisa: {
     history: {
       fr: `Pise est l'une des plus anciennes républiques maritimes d'Italie : ville étrusque dès le VIIe siècle av. J.-C., elle bâtit aux XIe-XIIe siècles le complexe roman de la Piazza dei Miracoli, Cathédrale, Baptistère, Tour penchée et Camposanto, qui lui vaudra son inscription à l'UNESCO en 1987. Avec environ 90 000 habitants, c'est une petite ville à forte composante universitaire (l'Université de Pise est l'une des plus anciennes d'Europe), traversée par l'Arno et adossée au parc régional de Migliarino San Rossore Massaciuccoli, 23 000 hectares de pinèdes, dunes et zones humides qui s'étendent jusqu'à la mer. La culture toscane est ouvertement dog-friendly : la grande majorité des cafés, trattorias et terrasses acceptent les chiens, et la côte tyrrhénienne à 10 km offre des plages canines balisées toute l'année à Marina di Pisa. Le seul vrai écueil, c'est l'interdiction des animaux dans les quatre monuments de la Piazza dei Miracoli.`,

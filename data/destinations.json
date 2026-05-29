@@ -9168,6 +9168,81 @@
     "tiqetsId": "66746"
   },
   {
+    "slug": "perpignan",
+    "name": "Perpignan",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/perpignan.jpg",
+    "intro": "Perpignan, the sunny Catalan capital of the French south, is a compact and genuinely dog-friendly city with around 37 marked dog areas, a tolerant terrace culture, a 24-hour emergency vet, and easy access to the dog-friendly Roussillon beaches of Canet-en-Roussillon and Torreilles.",
+    "lat": 42.6986,
+    "lng": 2.8956,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hottest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "PGF"
+  },
+  {
     "slug": "pisa",
     "name": "Pisa",
     "country": "Italy",

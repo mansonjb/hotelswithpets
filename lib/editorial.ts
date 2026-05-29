@@ -631,6 +631,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Bois de Boulogne, Bois de Vincennes, and hundreds of smaller squares',
       area: 'Le Marais, Saint-Germain-des-Prés, and Montmartre',
     },
+    perpignan: {
+      personality: `the sunny Catalan capital of the French south, a compact, dog-friendly city with around 37 marked dog areas, a tolerant terrace culture, and easy access to the dog-friendly Roussillon beaches`,
+      highlight: `Le Castillet and the old town, the Palais des Rois de Majorque ramparts, and the year-round dog section of Canet-en-Roussillon's Lido beach`,
+      area: `the historic centre around Le Castillet and Place de Verdun, the Têt riverbanks, and the Roussillon coast at Canet and Torreilles`,
+    },
     pisa: {
       personality: 'a compact Tuscan UNESCO city paired with the 23 000-hectare San Rossore park and a year-round dog beach at Marina di Pisa, all within twenty minutes of the centre',
       highlight: 'the Field of Miracles lawn, San Rossore pine forest, and the Marina di Pisa dog beach',
@@ -1489,6 +1494,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Bois de Boulogne, le Bois de Vincennes et des centaines de squares',
       area: 'le Marais, Saint-Germain-des-Prés et Montmartre',
     },
+    perpignan: {
+      personality: `la capitale catalane ensoleillée du sud de la France, une ville compacte et dog-friendly avec environ 37 espaces canins balisés, une culture de terrasse tolérante et un accès facile aux plages dog-friendly du Roussillon`,
+      highlight: `le Castillet et la vieille ville, les remparts du Palais des Rois de Majorque et la section canine à l'année du Lido de Canet-en-Roussillon`,
+      area: `le centre historique autour du Castillet et de la Place de Verdun, les berges de la Têt et la côte du Roussillon à Canet et Torreilles`,
+    },
     pisa: {
       personality: 'une ville UNESCO toscane compacte associée aux 23 000 hectares du parc de San Rossore et à une plage canine ouverte toute l\'année à Marina di Pisa, le tout à vingt minutes du centre',
       highlight: 'la pelouse du Champ des Miracles, la pinède de San Rossore et la plage canine de Marina di Pisa',
@@ -2346,6 +2356,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Bosque de Boulogne, el Bosque de Vincennes y cientos de plazas pequeñas',
       area: 'Le Marais, Saint-Germain-des-Prés y Montmartre',
     },
+    perpignan: {
+      personality: `la soleada capital catalana del sur de Francia, una ciudad compacta y dog-friendly con unas 37 áreas caninas señalizadas, una cultura de terraza tolerante y fácil acceso a las playas dog-friendly del Rosellón`,
+      highlight: `Le Castillet y el casco antiguo, las murallas del Palais des Rois de Majorque y la sección canina todo el año del Lido de Canet-en-Roussillon`,
+      area: `el centro histórico en torno a Le Castillet y la Place de Verdun, las orillas del Têt y la costa del Rosellón en Canet y Torreilles`,
+    },
     pisa: {
       personality: 'una ciudad UNESCO toscana compacta unida a las 23.000 hectáreas del parque de San Rossore y a una playa canina abierta todo el año en Marina di Pisa, todo a veinte minutos del centro',
       highlight: 'el césped del Campo de los Milagros, el pinar de San Rossore y la playa canina de Marina di Pisa',
@@ -3202,6 +3217,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade onde os cães são famosos por ser bem-vindos en cafés, tiendas e muitos restaurantes',
       highlight: 'o Floresta de Boulogne, o Floresta de Vincennes e cientos de praças pequenhas',
       area: 'Le Marais, Saint-Germain-des-Prés e Montmartre',
+    },
+    perpignan: {
+      personality: `a soalheira capital catalã do sul de França, uma cidade compacta e pet-friendly com cerca de 37 áreas caninas sinalizadas, uma cultura de esplanada tolerante e fácil acesso às praias pet-friendly do Rossilhão`,
+      highlight: `Le Castillet e o centro histórico, as muralhas do Palais des Rois de Majorque e a secção canina o ano inteiro do Lido de Canet-en-Roussillon`,
+      area: `o centro histórico em torno de Le Castillet e da Place de Verdun, as margens do Têt e a costa do Rossilhão em Canet e Torreilles`,
     },
     pisa: {
       personality: 'uma cidade UNESCO toscana compacta unida a as 23.000 hectáreas do parque de San Rossore e a uma praia canina abierta o ano inteiro en Marina di Pisa, todo a veinte minutos do centro',

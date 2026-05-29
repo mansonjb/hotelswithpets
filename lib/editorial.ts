@@ -662,6 +662,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Mežaparks forest park, Bastejkalns park, and the Daugava riverside promenade',
       area: 'the Old Town (Vecrīga), the Art Nouveau District, and Āgenskalns',
     },
+    rimini: {
+      personality: `the capital of Italy's Adriatic Riviera and one of the best beach cities in the country for dog owners, home to the largest dedicated dog beach on the Emilia-Romagna coast and a relaxed Romagna café culture`,
+      highlight: `Rimini Dog No Problem dog beach at Bagno 81-82, the fenced FIDOPARK off-leash area in Parco Marecchia, and the Roman Tiberius Bridge into Borgo San Giuliano`,
+      area: `Marina Centro along the seafront, the historic centre around Piazza Cavour, and the colourful Borgo San Giuliano`,
+    },
     rome: {
       personality: 'a city where dogs accompany their owners everywhere. From morning cornetto runs to evening passeggiata strolls',
       highlight: 'Villa Borghese gardens, the off-leash areas of Parco dell\'Appia Antica, and the riverside Lungotevere paths',
@@ -1508,6 +1513,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une belle ville Art Nouveau restaurée avec une forte culture de plein air balte. Les chiens font partie de la vie quotidienne dans les parcs, les marchés et sur les berges de la Daugava',
       highlight: 'le parc forestier de Mežaparks, le parc Bastejkalns et la promenade riveraine de la Daugava',
       area: 'la Vieille Ville (Vecrīga), le Quartier Art Nouveau et Āgenskalns',
+    },
+    rimini: {
+      personality: `la capitale de la Riviera adriatique italienne et l'une des meilleures villes balnéaires du pays pour les propriétaires de chiens, avec la plus grande plage canine dédiée de la côte d'Émilie-Romagne et une culture café romagnole décontractée`,
+      highlight: `la plage canine Rimini Dog No Problem au Bagno 81-82, l'aire clôturée sans laisse FIDOPARK du Parco Marecchia et le pont romain de Tibère vers le Borgo San Giuliano`,
+      area: `Marina Centro le long du front de mer, le centre historique autour de la Piazza Cavour et le coloré Borgo San Giuliano`,
     },
     rome: {
       personality: 'une ville où les chiens accompagnent leurs propriétaires partout. Du cornetto du matin à la passeggiata du soir',
@@ -2356,6 +2366,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el parque forestal de Mežaparks, el parque Bastejkalns y el paseo ribereño del Daugava',
       area: 'el Casco Antiguo (Vecrīga), el Barrio Art Nouveau y Āgenskalns',
     },
+    rimini: {
+      personality: `la capital de la Riviera adriática italiana y una de las mejores ciudades de playa del país para los dueños de perros, con la mayor playa canina dedicada de la costa de Emilia-Romaña y una relajada cultura de café romañola`,
+      highlight: `la playa canina Rimini Dog No Problem en el Bagno 81-82, el área vallada sin correa FIDOPARK del Parco Marecchia y el puente romano de Tiberio hacia el Borgo San Giuliano`,
+      area: `Marina Centro a lo largo del paseo marítimo, el centro histórico en torno a la Piazza Cavour y el colorido Borgo San Giuliano`,
+    },
     rome: {
       personality: 'una ciudad donde los perros acompañan a sus dueños a todas partes. Desde el cornetto matutino hasta el paseo vespertino',
       highlight: 'los jardines de Villa Borghese, las zonas sin correa del Parco dell\'Appia Antica y los paseos ribereños del Lungotevere',
@@ -3202,6 +3217,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma bella cidade Art Nouveau restaurada com uma fuerte cultura báltica de aire libre. Os cães forman parte da vida cotidiana en parques, mercados e a lo largo das margens do Daugava',
       highlight: 'o parque forestal de Mežaparks, o parque Bastejkalns e o passeio riberenho do Daugava',
       area: 'o Centro histórico (Vecrīga), o Bairro Art Nouveau e Āgenskalns',
+    },
+    rimini: {
+      personality: `a capital da Riviera adriática italiana e uma das melhores cidades de praia do país para os donos de cães, com a maior praia canina dedicada da costa da Emília-Romanha e uma relaxada cultura de café romanhola`,
+      highlight: `a praia canina Rimini Dog No Problem no Bagno 81-82, a área vedada sem trela FIDOPARK do Parco Marecchia e a ponte romana de Tibério para o Borgo San Giuliano`,
+      area: `Marina Centro ao longo da marginal, o centro histórico em torno da Piazza Cavour e o colorido Borgo San Giuliano`,
     },
     rome: {
       personality: 'uma cidade onde os cães acompanhan aos seus duenhos a todas partes. A partir do cornetto matutino até o passeio vespertino',

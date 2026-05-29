@@ -1,0 +1,681 @@
+{
+  "slug": "rimini",
+  "name": "Rimini",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "lastUpdated": "2026-05-29",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Rimini",
+      "titleFr": "Restaurants acceptant les animaux à Rimini",
+      "titleEs": "Restaurantes que admiten mascotas en Rímini",
+      "introEn": "Rimini is the capital of the Adriatic Riviera and one of Italy's most relaxed cities for dining out with a dog. The Romagna tradition of the bagno (beach club restaurant) and the osteria means most outdoor terraces along the seafront and in the historic centre will happily seat you with a leashed dog, and many bring a water bowl unprompted. Summer is when the city is at its busiest, but the long lungomare promenade and the dozens of beachfront restaurants make alfresco dining with a dog easy from May to September. The directory Dogwelcome.it lists 18 dog-welcoming restaurants and pizzerias across Rimini and neighbouring Riccione and Misano, so verified options are plentiful year-round.",
+      "introFr": "Rimini est la capitale de la Riviera adriatique et l'une des villes les plus décontractées d'Italie pour déjeuner avec un chien. La tradition romagnole du bagno (restaurant de plage) et de l'osteria fait que la plupart des terrasses du front de mer et du centre historique vous accueillent volontiers avec un chien en laisse, et beaucoup apportent une gamelle d'eau sans qu'on le demande. L'été est la période la plus fréquentée, mais la longue promenade du lungomare et les dizaines de restaurants en bord de plage rendent le repas en terrasse avec un chien facile de mai à septembre. L'annuaire Dogwelcome.it recense 18 restaurants et pizzerias dog-friendly à Rimini et dans les villes voisines de Riccione et Misano.",
+      "introEs": "Rímini es la capital de la Riviera adriática y una de las ciudades más relajadas de Italia para comer fuera con perro. La tradición romañola del bagno (restaurante de playa) y de la osteria hace que la mayoría de las terrazas del paseo marítimo y del centro histórico le acojan con gusto con un perro con correa, y muchas traen un cuenco de agua sin pedirlo. El verano es la época más concurrida, pero el largo paseo del lungomare y las decenas de restaurantes frente a la playa hacen fácil comer al aire libre con perro de mayo a septiembre. El directorio Dogwelcome.it recoge 18 restaurantes y pizzerías dog-friendly en Rímini y las vecinas Riccione y Misano.",
+      "places": [
+        {
+          "name": "Ristorante Bar del Bagno 81 (Rimini Dog No Problem)",
+          "address": "Lungomare Tintori, Bagno 81-82, 47921 Rimini",
+          "neighborhood": "Marina Centro",
+          "photo": "/images/city-places/rimini-restaurants-bagno-81.jpg",
+          "website": "https://bagno81rimini.it/",
+          "description": "The bar-restaurant attached to Rimini Dog No Problem, the city's dedicated dog beach at Bagno 81-82. Dogs are not just allowed but the entire reason the place exists, and a food-delivery service brings meals directly to your sunbed. Simple Romagna seaside fare: piadina, fritto misto, grilled fish and salads.",
+          "descriptionFr": "Le bar-restaurant attenant à Rimini Dog No Problem, la plage canine de la ville au Bagno 81-82. Les chiens n'y sont pas seulement acceptés, ils sont la raison d'être de l'établissement, et un service de livraison apporte les plats directement à votre transat. Cuisine balnéaire romagnole simple : piadina, fritto misto, poisson grillé et salades.",
+          "descriptionEs": "El bar-restaurante anexo a Rimini Dog No Problem, la playa canina de la ciudad en el Bagno 81-82. Los perros no solo se admiten: son la razón de ser del lugar, y un servicio de entrega lleva la comida directamente a su tumbona. Cocina sencilla de playa romañola: piadina, fritto misto, pescado a la plancha y ensaladas.",
+          "petPolicy": "Dogs of all sizes welcome throughout the beach and restaurant; water bowls provided",
+          "petPolicyFr": "Chiens de toutes tailles bienvenus sur toute la plage et au restaurant ; gamelles d'eau fournies",
+          "petPolicyEs": "Perros de todos los tamaños bienvenidos en toda la playa y el restaurante; cuencos de agua disponibles",
+          "priceRange": "€€",
+          "mustTry": "Piadina romagnola, the local flatbread filled with squacquerone cheese and rocket",
+          "mustTryFr": "Piadina romagnola, la galette locale garnie de squacquerone et de roquette",
+          "mustTryEs": "Piadina romagnola, la torta local rellena de queso squacquerone y rúcula",
+          "openingHours": "Daily in season (May–September), beach hours",
+          "tip": "Book a fenced umbrella suite if you want your dog off-leash beside you; the restaurant delivers to your sunbed so you never have to leave the dog alone.",
+          "tipFr": "Réservez une suite parasol clôturée si vous voulez votre chien sans laisse à côté de vous ; le restaurant livre à votre transat, vous n'avez jamais à laisser le chien seul.",
+          "tipEs": "Reserve una suite de sombrilla vallada si quiere a su perro sin correa a su lado; el restaurante entrega en su tumbona, así nunca deja al perro solo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bagno+81+Rimini+Dog+No+Problem+Lungomare+Tintori"
+        },
+        {
+          "name": "Osterie and trattorias of Borgo San Giuliano",
+          "address": "Borgo San Giuliano, 47921 Rimini",
+          "neighborhood": "Borgo San Giuliano",
+          "photo": "/images/city-places/rimini-restaurants-borgo-san-giuliano.jpg",
+          "website": "https://www.dogwelcome.it/ristoranti-pizzerie-cani-animali-ammessi-pet-friendly-rimini",
+          "description": "The colourful fishermen's quarter across the Tiberius Bridge is Rimini's most atmospheric dining district, with narrow lanes of trattorias and osterie that almost universally welcome leashed dogs on their outdoor tables. Dogwelcome.it lists several verified pet-friendly venues here serving classic Romagna fare. The pedestrian streets and Fellini murals make it a pleasant pre-dinner stroll.",
+          "descriptionFr": "Le pittoresque quartier des pêcheurs de l'autre côté du pont de Tibère est le secteur gastronomique le plus charmant de Rimini, avec ses ruelles de trattorias et d'osterie qui accueillent presque toutes les chiens en laisse en terrasse. Dogwelcome.it y recense plusieurs adresses pet-friendly vérifiées servant la cuisine romagnole classique. Les rues piétonnes et les fresques de Fellini en font une jolie balade avant le dîner.",
+          "descriptionEs": "El colorido barrio de pescadores al otro lado del puente de Tiberio es el distrito gastronómico con más encanto de Rímini, con callejuelas de trattorias y osterías que casi siempre admiten perros con correa en sus mesas exteriores. Dogwelcome.it recoge aquí varios locales pet-friendly verificados que sirven cocina romañola clásica. Las calles peatonales y los murales de Fellini lo convierten en un agradable paseo antes de cenar.",
+          "petPolicy": "Most outdoor terraces welcome leashed dogs; confirm at the door as policies vary by venue",
+          "petPolicyFr": "La plupart des terrasses accueillent les chiens en laisse ; confirmez à l'entrée car les règles varient selon l'établissement",
+          "petPolicyEs": "La mayoría de las terrazas admiten perros con correa; confirme en la entrada, ya que las normas varían según el local",
+          "priceRange": "€€",
+          "mustTry": "Strozzapreti and cappelletti, the hand-made pastas at the heart of Romagna cooking",
+          "mustTryFr": "Strozzapreti et cappelletti, les pâtes faites main au cœur de la cuisine romagnole",
+          "mustTryEs": "Strozzapreti y cappelletti, las pastas hechas a mano del corazón de la cocina romañola",
+          "openingHours": "Most venues dinner only, lunch on weekends",
+          "tip": "Cross the Tiberius Bridge on foot at dusk; the borgo is quietest before 20:00, ideal for a relaxed dog before the evening crowds arrive.",
+          "tipFr": "Traversez le pont de Tibère à pied au crépuscule ; le borgo est le plus calme avant 20h, idéal pour un chien détendu avant l'arrivée de la foule du soir.",
+          "tipEs": "Cruce el puente de Tiberio a pie al atardecer; el borgo está más tranquilo antes de las 20:00, ideal para un perro relajado antes de que llegue la multitud nocturna.",
+          "googleMapsUrl": "https://maps.google.com/?q=Borgo+San+Giuliano+Rimini"
+        },
+        {
+          "name": "Beachfront bagni restaurants, Marina Centro",
+          "address": "Lungomare Augusto Murri, Marina Centro, 47921 Rimini",
+          "neighborhood": "Marina Centro",
+          "photo": "/images/city-places/rimini-restaurants-bagni-lungomare.jpg",
+          "website": "https://emiliaromagnaturismo.it/en/riviera/beaches/pet-friendly-beaches-legislation",
+          "description": "More than 150 of Rimini's beach establishments (bagni) have declared themselves open to four-legged guests, and most run a bar or restaurant on the sand. Along the Marina Centro stretch you can eat fresh fish or a piadina with your dog at your feet, just metres from the sea. Pet-acceptance is signposted establishment by establishment.",
+          "descriptionFr": "Plus de 150 établissements balnéaires de Rimini (bagni) se sont déclarés ouverts aux compagnons à quatre pattes, et la plupart tiennent un bar ou un restaurant sur le sable. Le long de la Marina Centro, vous pouvez manger du poisson frais ou une piadina avec votre chien à vos pieds, à quelques mètres de la mer. L'acceptation des animaux est signalée établissement par établissement.",
+          "descriptionEs": "Más de 150 establecimientos de playa de Rímini (bagni) se han declarado abiertos a los compañeros de cuatro patas, y la mayoría tienen un bar o restaurante en la arena. A lo largo de Marina Centro puede comer pescado fresco o una piadina con su perro a los pies, a pocos metros del mar. La admisión de mascotas está señalizada establecimiento por establecimiento.",
+          "petPolicy": "Pet-acceptance declared by individual bagni; look for the 'cani ammessi' sign at the entrance",
+          "petPolicyFr": "Acceptation des animaux déclarée par chaque bagno ; cherchez le panneau « cani ammessi » à l'entrée",
+          "petPolicyEs": "Admisión de mascotas declarada por cada bagno; busque el cartel « cani ammessi » en la entrada",
+          "priceRange": "€€",
+          "mustTry": "Brodetto di pesce, the Adriatic fish stew served in many seafront bagni",
+          "mustTryFr": "Brodetto di pesce, la soupe de poisson adriatique servie dans de nombreux bagni du front de mer",
+          "mustTryEs": "Brodetto di pesce, el guiso de pescado adriático servido en muchos bagni frente al mar",
+          "openingHours": "Daily in summer season (May–September)",
+          "tip": "Sea-facing tables get full sun by midday in July and August; ask for a shaded table and bring water, the sand itself can burn paws after noon.",
+          "tipFr": "Les tables face à la mer sont en plein soleil dès midi en juillet-août ; demandez une table à l'ombre et apportez de l'eau, le sable peut brûler les coussinets après midi.",
+          "tipEs": "Las mesas frente al mar reciben pleno sol al mediodía en julio y agosto; pida una mesa a la sombra y lleve agua, la arena puede quemar las almohadillas tras el mediodía.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lungomare+Marina+Centro+Rimini"
+        }
+      ],
+      "tipsEn": [
+        "Romagna's beach-club and osteria culture is broadly dog-friendly; most outdoor terraces seat leashed dogs without fuss.",
+        "Check Dogwelcome.it before you go: it lists 18 verified pet-welcoming restaurants across Rimini, Riccione and Misano.",
+        "In July and August reserve ahead and ask for a shaded table; the seafront terraces are extremely busy and exposed to full sun."
+      ],
+      "tipsFr": [
+        "La culture des restaurants de plage et des osterie de Romagne est largement dog-friendly ; la plupart des terrasses accueillent les chiens en laisse sans problème.",
+        "Consultez Dogwelcome.it avant de partir : il recense 18 restaurants pet-friendly vérifiés à Rimini, Riccione et Misano.",
+        "En juillet-août, réservez à l'avance et demandez une table à l'ombre ; les terrasses du front de mer sont très fréquentées et en plein soleil."
+      ],
+      "tipsEs": [
+        "La cultura de los restaurantes de playa y las osterías de Romaña es ampliamente dog-friendly; la mayoría de las terrazas admiten perros con correa sin problema.",
+        "Consulte Dogwelcome.it antes de ir: recoge 18 restaurantes pet-friendly verificados en Rímini, Riccione y Misano.",
+        "En julio y agosto reserve con antelación y pida una mesa a la sombra; las terrazas del paseo marítimo están muy concurridas y a pleno sol."
+      ],
+      "faqsEn": [
+        {"q": "Can I bring my dog into restaurants in Rimini?", "a": "Outdoor terraces almost universally welcome leashed dogs across Rimini, and many beach-club restaurants are explicitly dog-friendly. Indoor admission varies, so confirm at the door."},
+        {"q": "Are there restaurants right on the dog beach?", "a": "Yes. The bar-restaurant at Bagno 81 (Rimini Dog No Problem) serves food directly to your sunbed, and dogs are welcome throughout."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je emmener mon chien dans les restaurants à Rimini ?", "a": "Les terrasses accueillent presque toutes les chiens en laisse à Rimini, et de nombreux restaurants de plage sont explicitement dog-friendly. L'accès en salle varie, confirmez à l'entrée."},
+        {"q": "Y a-t-il des restaurants directement sur la plage canine ?", "a": "Oui. Le bar-restaurant du Bagno 81 (Rimini Dog No Problem) livre les plats directement à votre transat, et les chiens y sont les bienvenus partout."}
+      ],
+      "faqsEs": [
+        {"q": "¿Puedo llevar a mi perro a los restaurantes de Rímini?", "a": "Las terrazas admiten casi siempre perros con correa en Rímini, y muchos restaurantes de playa son explícitamente dog-friendly. La admisión en el interior varía, así que confirme en la entrada."},
+        {"q": "¿Hay restaurantes en la propia playa canina?", "a": "Sí. El bar-restaurante del Bagno 81 (Rimini Dog No Problem) sirve la comida directamente en su tumbona, y los perros son bienvenidos en todo el local."}
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Parks & Dog Areas in Rimini",
+      "titleFr": "Meilleurs parcs et espaces canins à Rimini",
+      "titleEs": "Mejores parques y áreas para perros en Rímini",
+      "introEn": "Rimini's green spaces are concentrated along the Marecchia river and the seafront. The flagship is Parco Marecchia (also called Parco XXV Aprile), the city's largest urban park at roughly 235,000 m², built on the river's old bed and home to a fenced FIDOPARK off-leash dog area where dogs can run free of leash and muzzle. Closer to the centre, the smaller Parco Federico Fellini offers shaded lawns, fountains and seating a short walk from the beach. Dogs must be leashed everywhere except inside the dedicated fenced areas, and owners must clear up after them.",
+      "introFr": "Les espaces verts de Rimini se concentrent le long du fleuve Marecchia et du front de mer. Le fleuron est le Parco Marecchia (aussi appelé Parco XXV Aprile), le plus grand parc urbain de la ville avec environ 235 000 m², aménagé sur l'ancien lit du fleuve et doté d'une aire canine clôturée FIDOPARK où les chiens courent sans laisse ni muselière. Plus près du centre, le plus petit Parco Federico Fellini offre pelouses ombragées, fontaines et bancs à quelques pas de la plage. Les chiens doivent être tenus en laisse partout sauf dans les aires clôturées dédiées, et les propriétaires doivent ramasser les déjections.",
+      "introEs": "Los espacios verdes de Rímini se concentran a lo largo del río Marecchia y del paseo marítimo. El buque insignia es el Parco Marecchia (también llamado Parco XXV Aprile), el mayor parque urbano de la ciudad con unos 235.000 m², construido sobre el antiguo cauce del río y con un área canina vallada FIDOPARK donde los perros corren sin correa ni bozal. Más cerca del centro, el más pequeño Parco Federico Fellini ofrece céspedes con sombra, fuentes y bancos a pocos pasos de la playa. Los perros deben llevar correa en todas partes salvo dentro de las áreas valladas, y los dueños deben recoger los excrementos.",
+      "places": [
+        {
+          "name": "Parco Marecchia (Parco XXV Aprile) - FIDOPARK",
+          "address": "Viale Tiberio, 47921 Rimini",
+          "neighborhood": "Borgo San Giuliano / Marecchia",
+          "photo": "/images/city-places/rimini-parks-marecchia.jpg",
+          "description": "Rimini's largest urban park at roughly 235,000 m², laid out on the old bed of the Marecchia river. Inside is the fenced FIDOPARK off-leash area where dogs run free of leash and muzzle, with seating, fountains and shade. The riverside cycle path runs from here toward the sea and inland to Torriana.",
+          "descriptionFr": "Le plus grand parc urbain de Rimini, environ 235 000 m², aménagé sur l'ancien lit du fleuve Marecchia. À l'intérieur, l'aire clôturée FIDOPARK permet aux chiens de courir sans laisse ni muselière, avec bancs, fontaines et ombre. La piste cyclable du fleuve part d'ici vers la mer et vers l'intérieur jusqu'à Torriana.",
+          "descriptionEs": "El mayor parque urbano de Rímini, unos 235.000 m², dispuesto sobre el antiguo cauce del río Marecchia. En su interior, el área vallada FIDOPARK permite a los perros correr sin correa ni bozal, con bancos, fuentes y sombra. El carril bici del río parte de aquí hacia el mar y hacia el interior hasta Torriana.",
+          "size": "~235,000 m²",
+          "offLeash": true,
+          "amenities": ["Fenced off-leash area", "Water fountains", "Shaded seating", "Riverside cycle path"],
+          "amenitiesFr": ["Aire clôturée sans laisse", "Fontaines d'eau", "Bancs ombragés", "Piste cyclable du fleuve"],
+          "amenitiesEs": ["Área vallada sin correa", "Fuentes de agua", "Bancos con sombra", "Carril bici del río"],
+          "openingHours": "Open daily, dawn to dusk",
+          "tip": "The FIDOPARK fenced area is the only place in central Rimini where dogs can legally be off-leash; everywhere else in the park a leash is mandatory.",
+          "tipFr": "L'aire clôturée FIDOPARK est le seul endroit du centre de Rimini où les chiens peuvent légalement être sans laisse ; partout ailleurs dans le parc la laisse est obligatoire.",
+          "tipEs": "El área vallada FIDOPARK es el único lugar del centro de Rímini donde los perros pueden estar legalmente sin correa; en el resto del parque la correa es obligatoria.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+Marecchia+XXV+Aprile+Rimini"
+        },
+        {
+          "name": "Parco Federico Fellini",
+          "address": "Piazzale Federico Fellini, 47921 Rimini",
+          "neighborhood": "Marina Centro",
+          "photo": "/images/city-places/rimini-parks-fellini.jpg",
+          "description": "A leafy seafront park between the historic Grand Hotel and the beach, with a fountain, shaded lawns and benches, about 15 minutes' walk from the centre. Dogs are welcome on a leash throughout. A pleasant, flat green space for a stroll before or after the beach.",
+          "descriptionFr": "Un parc verdoyant en bord de mer entre le célèbre Grand Hotel et la plage, avec une fontaine, des pelouses ombragées et des bancs, à environ 15 minutes à pied du centre. Les chiens y sont bienvenus en laisse. Un espace vert plat et agréable pour une promenade avant ou après la plage.",
+          "descriptionEs": "Un frondoso parque frente al mar entre el histórico Grand Hotel y la playa, con una fuente, céspedes con sombra y bancos, a unos 15 minutos a pie del centro. Los perros son bienvenidos con correa. Un agradable espacio verde y llano para pasear antes o después de la playa.",
+          "size": "Small urban park",
+          "offLeash": false,
+          "amenities": ["Fountain", "Shaded lawns", "Benches", "Steps from the beach"],
+          "amenitiesFr": ["Fontaine", "Pelouses ombragées", "Bancs", "À deux pas de la plage"],
+          "amenitiesEs": ["Fuente", "Céspedes con sombra", "Bancos", "A pasos de la playa"],
+          "openingHours": "Open daily",
+          "tip": "Leash mandatory throughout; combine a walk here with the nearby seafront promenade, which is dog-friendly and shaded by pines in places.",
+          "tipFr": "Laisse obligatoire partout ; combinez une promenade ici avec la promenade du front de mer voisine, dog-friendly et ombragée de pins par endroits.",
+          "tipEs": "Correa obligatoria en todo el parque; combine un paseo aquí con el cercano paseo marítimo, dog-friendly y con sombra de pinos en algunos tramos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+Federico+Fellini+Rimini"
+        },
+        {
+          "name": "Marecchia riverside cycle and walking path",
+          "address": "Parco Marecchia toward the sea, 47921 Rimini",
+          "neighborhood": "Marecchia",
+          "photo": "/images/city-places/rimini-parks-marecchia-path.jpg",
+          "description": "A flat, traffic-free riverside path that follows the lower Marecchia from Parco XXV Aprile down to the sea and inland toward Torriana. Shaded in stretches and popular with dog walkers, runners and cyclists. A good early-morning or evening route to beat the summer heat.",
+          "descriptionFr": "Un chemin plat au bord du fleuve, sans circulation, qui suit le bas Marecchia depuis le Parco XXV Aprile jusqu'à la mer et vers l'intérieur en direction de Torriana. Ombragé par endroits et apprécié des promeneurs de chiens, coureurs et cyclistes. Un bon itinéraire tôt le matin ou en soirée pour éviter la chaleur estivale.",
+          "descriptionEs": "Un camino llano junto al río, sin tráfico, que sigue el bajo Marecchia desde el Parco XXV Aprile hasta el mar y hacia el interior en dirección a Torriana. Con sombra en algunos tramos y popular entre paseadores de perros, corredores y ciclistas. Una buena ruta a primera hora o al atardecer para evitar el calor del verano.",
+          "size": "Linear path, several km",
+          "offLeash": false,
+          "amenities": ["Traffic-free path", "River views", "Partial shade", "Links park to sea"],
+          "amenitiesFr": ["Chemin sans circulation", "Vues sur le fleuve", "Ombre partielle", "Relie le parc à la mer"],
+          "amenitiesEs": ["Camino sin tráfico", "Vistas al río", "Sombra parcial", "Conecta el parque con el mar"],
+          "openingHours": "Open 24/7",
+          "tip": "Carry water; the path is exposed in long stretches and there are few fountains away from the main park.",
+          "tipFr": "Emportez de l'eau ; le chemin est exposé sur de longues portions et il y a peu de fontaines loin du parc principal.",
+          "tipEs": "Lleve agua; el camino está expuesto en tramos largos y hay pocas fuentes lejos del parque principal.",
+          "googleMapsUrl": "https://maps.google.com/?q=Pista+ciclabile+Marecchia+Rimini"
+        }
+      ],
+      "tipsEn": [
+        "Parco Marecchia's fenced FIDOPARK is the only legal off-leash spot in central Rimini; leash everywhere else.",
+        "Carry waste bags: city by-laws require owners to clear up, and fines apply.",
+        "In summer walk the riverside path early or after sunset; midday sun on the open stretches is intense."
+      ],
+      "tipsFr": [
+        "L'aire clôturée FIDOPARK du Parco Marecchia est le seul endroit sans laisse autorisé du centre de Rimini ; laisse partout ailleurs.",
+        "Emportez des sacs : le règlement municipal impose de ramasser, et des amendes s'appliquent.",
+        "En été, parcourez le chemin du fleuve tôt ou après le coucher du soleil ; le soleil de midi sur les portions ouvertes est intense."
+      ],
+      "tipsEs": [
+        "El FIDOPARK vallado del Parco Marecchia es el único lugar sin correa autorizado del centro de Rímini; correa en el resto.",
+        "Lleve bolsas: la normativa municipal obliga a recoger, y se aplican multas.",
+        "En verano recorra el camino del río temprano o tras la puesta de sol; el sol del mediodía en los tramos abiertos es intenso."
+      ],
+      "faqsEn": [
+        {"q": "Where can my dog run off-leash in Rimini?", "a": "Inside the fenced FIDOPARK area within Parco Marecchia (Parco XXV Aprile), dogs may be off-leash and without a muzzle. Everywhere else in the city a leash is mandatory."},
+        {"q": "Are dogs allowed in Parco Federico Fellini?", "a": "Yes, on a leash. It is a small seafront park with shade and a fountain, an easy walk from the beach and centre."}
+      ],
+      "faqsFr": [
+        {"q": "Où mon chien peut-il courir sans laisse à Rimini ?", "a": "Dans l'aire clôturée FIDOPARK du Parco Marecchia (Parco XXV Aprile), les chiens peuvent être sans laisse ni muselière. Partout ailleurs en ville, la laisse est obligatoire."},
+        {"q": "Les chiens sont-ils admis au Parco Federico Fellini ?", "a": "Oui, en laisse. C'est un petit parc en bord de mer avec ombre et fontaine, à courte distance de la plage et du centre."}
+      ],
+      "faqsEs": [
+        {"q": "¿Dónde puede correr mi perro sin correa en Rímini?", "a": "Dentro del área vallada FIDOPARK del Parco Marecchia (Parco XXV Aprile), los perros pueden estar sin correa ni bozal. En el resto de la ciudad la correa es obligatoria."},
+        {"q": "¿Se admiten perros en el Parco Federico Fellini?", "a": "Sí, con correa. Es un pequeño parque frente al mar con sombra y fuente, a corta distancia de la playa y el centro."}
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Rimini with a Dog",
+      "titleFr": "Se déplacer à Rimini avec un chien",
+      "titleEs": "Moverse por Rímini con perro",
+      "introEn": "Rimini is compact and largely flat, so most visits with a dog are done on foot or by bike along the seafront and the Marecchia path. Local buses are run by Start Romagna, which carries small pets in a carrier and larger dogs on a leash with a muzzle. National and regional trains are operated by Trenitalia: small pets travel free in a carrier, while larger dogs need a half-fare ticket, a leash and a muzzle. Rimini's railway station sits between the historic centre and the seafront, both within easy walking distance.",
+      "introFr": "Rimini est compacte et largement plate, si bien que la plupart des visites avec un chien se font à pied ou à vélo le long du front de mer et du chemin du Marecchia. Les bus locaux sont gérés par Start Romagna, qui transporte les petits animaux en sac et les chiens plus grands en laisse avec muselière. Les trains nationaux et régionaux sont exploités par Trenitalia : les petits animaux voyagent gratuitement en sac, tandis que les grands chiens ont besoin d'un billet demi-tarif, d'une laisse et d'une muselière. La gare de Rimini se situe entre le centre historique et le front de mer, tous deux à distance de marche.",
+      "introEs": "Rímini es compacta y bastante llana, por lo que la mayoría de las visitas con perro se hacen a pie o en bici por el paseo marítimo y el camino del Marecchia. Los autobuses locales los gestiona Start Romagna, que transporta mascotas pequeñas en transportín y perros más grandes con correa y bozal. Los trenes nacionales y regionales los opera Trenitalia: las mascotas pequeñas viajan gratis en transportín, mientras que los perros grandes necesitan billete a media tarifa, correa y bozal. La estación de tren de Rímini está entre el centro histórico y el paseo marítimo, ambos a poca distancia a pie.",
+      "places": [
+        {
+          "name": "Start Romagna buses",
+          "type": "Bus",
+          "photo": "/images/city-places/rimini-transport-bus.jpg",
+          "description": "The local and regional bus operator for the Rimini province, including the Metromare rapid line linking Rimini and Riccione. Small pets in a carrier ride with their owner; larger dogs are carried on a leash with a muzzle. Specific conditions are published on the operator's 'trasporto di animali domestici' page.",
+          "descriptionFr": "L'opérateur de bus local et régional de la province de Rimini, incluant la ligne rapide Metromare reliant Rimini et Riccione. Les petits animaux en sac voyagent avec leur maître ; les chiens plus grands sont transportés en laisse avec muselière. Les conditions précises sont publiées sur la page « trasporto di animali domestici » de l'opérateur.",
+          "descriptionEs": "El operador de autobuses local y regional de la provincia de Rímini, incluida la línea rápida Metromare que une Rímini y Riccione. Las mascotas pequeñas en transportín viajan con su dueño; los perros más grandes se transportan con correa y bozal. Las condiciones concretas se publican en la página « trasporto di animali domestici » del operador.",
+          "petPolicy": "Small pets free in a carrier; larger dogs on a leash with a muzzle",
+          "petPolicyFr": "Petits animaux gratuits en sac ; chiens plus grands en laisse avec muselière",
+          "petPolicyEs": "Mascotas pequeñas gratis en transportín; perros más grandes con correa y bozal",
+          "tip": "Carry a soft muzzle for larger dogs; muzzle rules on Italian local buses are enforced inconsistently but a driver can refuse boarding without one.",
+          "tipFr": "Emportez une muselière souple pour les grands chiens ; les règles de muselière dans les bus italiens sont appliquées de façon variable, mais un chauffeur peut refuser l'embarquement sans elle.",
+          "tipEs": "Lleve un bozal blando para perros grandes; las normas de bozal en los autobuses italianos se aplican de forma irregular, pero un conductor puede denegar el embarque sin él.",
+          "website": "https://www.startromagna.it/"
+        },
+        {
+          "name": "Trenitalia regional & national trains",
+          "type": "Train",
+          "photo": "/images/city-places/rimini-transport-train.jpg",
+          "description": "Rimini station is on the main Adriatic line with frequent regional and Frecce services to Bologna, Ancona and beyond. Small pets travel free in a carrier (max dimensions apply); larger dogs need a half-fare ticket, a leash and a muzzle. You must carry the dog's registry certificate and health booklet, or an EU pet passport for foreign visitors.",
+          "descriptionFr": "La gare de Rimini est sur la ligne adriatique principale, avec des services régionaux et Frecce fréquents vers Bologne, Ancône et au-delà. Les petits animaux voyagent gratuitement en sac (dimensions max applicables) ; les grands chiens ont besoin d'un billet demi-tarif, d'une laisse et d'une muselière. Vous devez avoir le certificat d'inscription à l'anagrafe canina et le carnet de santé, ou un passeport européen pour les visiteurs étrangers.",
+          "descriptionEs": "La estación de Rímini está en la línea adriática principal, con frecuentes servicios regionales y Frecce a Bolonia, Ancona y más allá. Las mascotas pequeñas viajan gratis en transportín (con dimensiones máximas); los perros grandes necesitan billete a media tarifa, correa y bozal. Debe llevar el certificado de registro canino y la cartilla sanitaria, o un pasaporte europeo para visitantes extranjeros.",
+          "petPolicy": "Small pets free in a carrier; larger dogs half-fare ticket + leash + muzzle; documents required",
+          "petPolicyFr": "Petits animaux gratuits en sac ; grands chiens billet demi-tarif + laisse + muselière ; documents obligatoires",
+          "petPolicyEs": "Mascotas pequeñas gratis en transportín; perros grandes billete a media tarifa + correa + bozal; documentos obligatorios",
+          "tip": "Dogs are not allowed in 1st-class or dining cars on long-distance Frecce trains; book standard class when travelling with a larger dog.",
+          "tipFr": "Les chiens ne sont pas admis en 1re classe ni en voiture-restaurant sur les Frecce longue distance ; réservez en classe standard avec un grand chien.",
+          "tipEs": "Los perros no se admiten en primera clase ni en coches restaurante en los Frecce de larga distancia; reserve clase estándar al viajar con un perro grande.",
+          "website": "https://www.trenitalia.com/en/services/travelling-with-pets.html"
+        },
+        {
+          "name": "On foot & by bike along the lungomare",
+          "type": "Walking & cycling",
+          "photo": "/images/city-places/rimini-transport-lungomare.jpg",
+          "description": "Rimini's redesigned Parco del Mare seafront and the Marecchia cycle path make walking and cycling the most practical way to get around with a dog. The flat, mostly traffic-free routes link the centre, the beach establishments and the river park. Bike rental is widely available, though dogs must be carried or run alongside on a leash.",
+          "descriptionFr": "Le front de mer réaménagé Parco del Mare et la piste cyclable du Marecchia font de la marche et du vélo le moyen le plus pratique de circuler avec un chien. Les itinéraires plats et largement sans circulation relient le centre, les établissements balnéaires et le parc du fleuve. La location de vélos est répandue, mais les chiens doivent être portés ou courir à côté en laisse.",
+          "descriptionEs": "El paseo marítimo reformado Parco del Mare y el carril bici del Marecchia hacen de caminar y pedalear la forma más práctica de moverse con perro. Las rutas llanas y casi sin tráfico conectan el centro, los establecimientos de playa y el parque del río. El alquiler de bicis es habitual, aunque los perros deben ir en cesta o correr al lado con correa.",
+          "petPolicy": "Leash required on promenades and shared paths",
+          "petPolicyFr": "Laisse obligatoire sur les promenades et les voies partagées",
+          "petPolicyEs": "Correa obligatoria en los paseos y vías compartidas",
+          "tip": "The Parco del Mare promenade is paved and gets very hot underfoot in summer; walk dogs early or after sunset and stick to shaded sections.",
+          "tipFr": "La promenade du Parco del Mare est pavée et devient très chaude en été ; promenez les chiens tôt ou après le coucher du soleil et restez dans les sections ombragées.",
+          "tipEs": "El paseo del Parco del Mare está pavimentado y se calienta mucho en verano; pasee a los perros temprano o tras la puesta de sol y permanezca en los tramos con sombra.",
+          "website": "https://www.visitrimini.com/"
+        }
+      ],
+      "tipsEn": [
+        "Carry a muzzle for larger dogs on Start Romagna buses and Trenitalia trains; both can require it.",
+        "Keep the dog's documents handy on trains: registry certificate and health booklet, or EU pet passport.",
+        "Rimini is flat and walkable; the seafront and Marecchia path are the easiest dog routes and avoid bus muzzle hassle."
+      ],
+      "tipsFr": [
+        "Emportez une muselière pour les grands chiens dans les bus Start Romagna et les trains Trenitalia ; les deux peuvent l'exiger.",
+        "Gardez les documents du chien à portée dans les trains : certificat d'anagrafe et carnet de santé, ou passeport européen.",
+        "Rimini est plate et facile à parcourir à pied ; le front de mer et le chemin du Marecchia sont les itinéraires les plus simples et évitent la question de la muselière en bus."
+      ],
+      "tipsEs": [
+        "Lleve bozal para perros grandes en los autobuses Start Romagna y los trenes Trenitalia; ambos pueden exigirlo.",
+        "Tenga a mano los documentos del perro en los trenes: certificado de registro y cartilla sanitaria, o pasaporte europeo.",
+        "Rímini es llana y caminable; el paseo marítimo y el camino del Marecchia son las rutas más fáciles y evitan el tema del bozal en el bus."
+      ],
+      "faqsEn": [
+        {"q": "Can my dog travel on Rimini buses?", "a": "Yes. Small pets ride free in a carrier on Start Romagna buses; larger dogs travel on a leash with a muzzle, per the operator's pet-transport rules."},
+        {"q": "What do I need to take a large dog on the train?", "a": "On Trenitalia you need a half-fare ticket, a leash and a muzzle for a larger dog, plus the dog's registry certificate and health booklet (or an EU pet passport)."}
+      ],
+      "faqsFr": [
+        {"q": "Mon chien peut-il voyager dans les bus de Rimini ?", "a": "Oui. Les petits animaux voyagent gratuitement en sac dans les bus Start Romagna ; les chiens plus grands voyagent en laisse avec muselière, selon le règlement de l'opérateur."},
+        {"q": "Que faut-il pour prendre le train avec un grand chien ?", "a": "Sur Trenitalia, il faut un billet demi-tarif, une laisse et une muselière pour un grand chien, plus le certificat d'anagrafe et le carnet de santé (ou un passeport européen)."}
+      ],
+      "faqsEs": [
+        {"q": "¿Puede viajar mi perro en los autobuses de Rímini?", "a": "Sí. Las mascotas pequeñas viajan gratis en transportín en los autobuses Start Romagna; los perros más grandes viajan con correa y bozal, según las normas del operador."},
+        {"q": "¿Qué necesito para llevar un perro grande en el tren?", "a": "En Trenitalia necesita billete a media tarifa, correa y bozal para un perro grande, además del certificado de registro y la cartilla sanitaria (o un pasaporte europeo)."}
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Rimini",
+      "titleFr": "Plages acceptant les chiens à Rimini",
+      "titleEs": "Playas que admiten perros en Rímini",
+      "introEn": "Rimini is one of the best beach destinations in Italy for dog owners. The flagship is Rimini Dog No Problem at Bagno 81-82, the city's only fully dedicated dog beach and the largest and best-equipped on the whole Emilia-Romagna coast, with over 150 umbrellas (more than 90 of them individually fenced). Beyond it, over 150 of Rimini's beach establishments have declared themselves open to four-legged guests, so verified dog-welcoming sand is easy to find. Dogs may swim in the sea only inside designated buoyed areas and within set time windows, a regional rule designed to keep dogs and swimmers apart at peak hours.",
+      "introFr": "Rimini est l'une des meilleures destinations balnéaires d'Italie pour les propriétaires de chiens. Le fleuron est Rimini Dog No Problem au Bagno 81-82, la seule plage entièrement dédiée aux chiens de la ville et la plus grande et la mieux équipée de toute la côte d'Émilie-Romagne, avec plus de 150 parasols (dont plus de 90 individuellement clôturés). Au-delà, plus de 150 établissements balnéaires de Rimini se sont déclarés ouverts aux compagnons à quatre pattes. Les chiens ne peuvent se baigner que dans des zones balisées et pendant des créneaux horaires définis, une règle régionale conçue pour séparer chiens et baigneurs aux heures de pointe.",
+      "introEs": "Rímini es uno de los mejores destinos de playa de Italia para los dueños de perros. El buque insignia es Rimini Dog No Problem en el Bagno 81-82, la única playa de la ciudad totalmente dedicada a los perros y la más grande y mejor equipada de toda la costa de Emilia-Romaña, con más de 150 sombrillas (más de 90 individualmente valladas). Más allá, más de 150 establecimientos de playa de Rímini se han declarado abiertos a los compañeros de cuatro patas. Los perros solo pueden bañarse en el mar dentro de zonas balizadas y en franjas horarias fijas, una norma regional pensada para separar a perros y bañistas en las horas punta.",
+      "places": [
+        {
+          "name": "Rimini Dog No Problem - Bagno 81-82",
+          "address": "Lungomare Tintori, Bagno 81-82, 47921 Rimini",
+          "neighborhood": "Marina Centro",
+          "photo": "/images/city-places/rimini-beaches-dog-no-problem.jpg",
+          "description": "Rimini's only fully dedicated dog beach and the largest on the Emilia-Romagna coast, created in 2008 with a canine behaviourist. Over 150 umbrellas, more than 90 individually fenced 'suites' where dogs stay off-leash beside their owners. Dogs of all sizes and breeds welcome, including more than three per customer. Pools, dog-education sessions and food delivery to your sunbed.",
+          "descriptionFr": "La seule plage entièrement dédiée aux chiens de Rimini et la plus grande de la côte d'Émilie-Romagne, créée en 2008 avec une comportementaliste canine. Plus de 150 parasols, dont plus de 90 « suites » clôturées où les chiens restent sans laisse à côté de leur maître. Chiens de toutes tailles et races bienvenus, y compris plus de trois par client. Piscines, séances d'éducation canine et livraison de repas au transat.",
+          "descriptionEs": "La única playa totalmente dedicada a los perros de Rímini y la más grande de la costa de Emilia-Romaña, creada en 2008 con una etóloga canina. Más de 150 sombrillas, más de 90 « suites » valladas donde los perros están sin correa junto a su dueño. Perros de todos los tamaños y razas bienvenidos, incluso más de tres por cliente. Piscinas, sesiones de educación canina y entrega de comida en la tumbona.",
+          "leashRequired": false,
+          "seasonalRestrictions": "Sea swimming with dogs permitted only in the buoyed area, 06:00–08:00 and 18:40–21:00; open in season (roughly May–September)",
+          "seasonalRestrictionsFr": "Baignade avec chien autorisée uniquement dans la zone balisée, 06h00–08h00 et 18h40–21h00 ; ouvert en saison (env. mai–septembre)",
+          "seasonalRestrictionsEs": "Baño con perro permitido solo en la zona balizada, 06:00–08:00 y 18:40–21:00; abierto en temporada (aprox. mayo–septiembre)",
+          "amenities": ["Fenced umbrella 'suites'", "Dog pools to rent", "Sea swimming area", "Food delivery to sunbed", "Dog-education sessions"],
+          "amenitiesFr": ["« Suites » parasol clôturées", "Piscines pour chiens à louer", "Zone de baignade en mer", "Livraison de repas au transat", "Séances d'éducation canine"],
+          "amenitiesEs": ["« Suites » de sombrilla valladas", "Piscinas para perros en alquiler", "Zona de baño en el mar", "Entrega de comida en la tumbona", "Sesiones de educación canina"],
+          "tip": "Sea swimming is limited to early morning and evening windows; bring a rentable pool (8-10 EUR/day) so your dog can cool off in the heat of the day.",
+          "tipFr": "La baignade en mer est limitée aux créneaux du matin et du soir ; louez une piscine (8-10 € / jour) pour que votre chien se rafraîchisse en pleine chaleur.",
+          "tipEs": "El baño en el mar se limita a las franjas de la mañana y la tarde; alquile una piscina (8-10 € / día) para que su perro se refresque en las horas de calor.",
+          "googleMapsUrl": "https://maps.google.com/?q=Rimini+Dog+No+Problem+Bagno+81+Lungomare+Tintori"
+        },
+        {
+          "name": "Pet-friendly bagni along the Rimini shore",
+          "address": "Lungomare di Rimini, 47921 Rimini",
+          "neighborhood": "Marina Centro / Marebello / Rivazzurra",
+          "photo": "/images/city-places/rimini-beaches-pet-friendly-bagni.jpg",
+          "description": "More than 150 of Rimini's individual beach establishments (bagni) have declared themselves open to dogs, spread the length of the lungomare. Each sets its own rules on umbrella placement and sea access, so it is worth phoning ahead or booking via spiagge.it. Many keep dog-welcoming sections at the back rows away from the waterline.",
+          "descriptionFr": "Plus de 150 établissements balnéaires de Rimini (bagni) se sont déclarés ouverts aux chiens, répartis sur toute la longueur du lungomare. Chacun fixe ses propres règles sur l'emplacement des parasols et l'accès à la mer ; mieux vaut téléphoner à l'avance ou réserver via spiagge.it. Beaucoup gardent des zones dog-friendly dans les rangées arrière, loin du rivage.",
+          "descriptionEs": "Más de 150 establecimientos de playa de Rímini (bagni) se han declarado abiertos a los perros, repartidos por todo el lungomare. Cada uno fija sus propias normas sobre la ubicación de las sombrillas y el acceso al mar; conviene llamar antes o reservar vía spiagge.it. Muchos reservan zonas dog-friendly en las filas traseras, lejos de la orilla.",
+          "leashRequired": true,
+          "seasonalRestrictions": "Policies and sea-access hours vary by establishment; confirm before booking",
+          "seasonalRestrictionsFr": "Les règles et horaires d'accès à la mer varient selon l'établissement ; confirmez avant de réserver",
+          "seasonalRestrictionsEs": "Las normas y horarios de acceso al mar varían según el establecimiento; confirme antes de reservar",
+          "amenities": ["Umbrellas & loungers", "Beach bars", "Showers", "Varies by bagno"],
+          "amenitiesFr": ["Parasols et transats", "Bars de plage", "Douches", "Variable selon le bagno"],
+          "amenitiesEs": ["Sombrillas y tumbonas", "Bares de playa", "Duchas", "Variable según el bagno"],
+          "tip": "If your dog needs to be off-leash, choose Dog No Problem; the general pet-friendly bagni usually require a leash and keep dogs in specific rows.",
+          "tipFr": "Si votre chien doit être sans laisse, choisissez Dog No Problem ; les bagni pet-friendly généraux exigent en général la laisse et confinent les chiens à des rangées précises.",
+          "tipEs": "Si su perro necesita estar sin correa, elija Dog No Problem; los bagni pet-friendly generales suelen exigir correa y mantienen a los perros en filas concretas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Spiagge+cani+ammessi+Rimini"
+        },
+        {
+          "name": "Free beach stretches & off-season shore",
+          "address": "Public beach areas, Rimini seafront",
+          "neighborhood": "Rimini coast",
+          "photo": "/images/city-places/rimini-beaches-free-shore.jpg",
+          "description": "Outside the summer high season the long sandy shore is far quieter and dogs can enjoy the beach with far fewer restrictions, on a leash and with waste cleared up. Spring and autumn are ideal for beach walks: the sand is cool, the crowds gone, and the light along the Adriatic is at its best. Always check current municipal signage, as rules tighten in the bathing season.",
+          "descriptionFr": "Hors de la haute saison estivale, la longue plage de sable est bien plus calme et les chiens en profitent avec beaucoup moins de restrictions, en laisse et déjections ramassées. Le printemps et l'automne sont idéaux pour les promenades : le sable est frais, la foule partie et la lumière sur l'Adriatique est splendide. Vérifiez toujours la signalétique municipale, car les règles se durcissent en saison balnéaire.",
+          "descriptionEs": "Fuera de la temporada alta de verano, la larga playa de arena está mucho más tranquila y los perros la disfrutan con muchas menos restricciones, con correa y recogiendo los excrementos. La primavera y el otoño son ideales para pasear: la arena está fresca, sin multitudes, y la luz del Adriático es magnífica. Compruebe siempre la señalización municipal, ya que las normas se endurecen en temporada de baño.",
+          "leashRequired": true,
+          "seasonalRestrictions": "Beach rules are most relaxed off-season; in the bathing season dogs are restricted to designated establishments and hours",
+          "seasonalRestrictionsFr": "Les règles de plage sont les plus souples hors saison ; en saison balnéaire les chiens sont limités aux établissements et horaires désignés",
+          "seasonalRestrictionsEs": "Las normas de playa son más flexibles fuera de temporada; en temporada de baño los perros se limitan a establecimientos y horarios designados",
+          "amenities": ["Open sand", "Quiet in spring/autumn", "Sea views", "No facilities off-season"],
+          "amenitiesFr": ["Sable ouvert", "Calme au printemps/automne", "Vue sur la mer", "Pas de services hors saison"],
+          "amenitiesEs": ["Arena abierta", "Tranquila en primavera/otoño", "Vistas al mar", "Sin servicios fuera de temporada"],
+          "tip": "April–May and September–October are the sweet spot: cool sand, mild sea and far looser dog rules than July–August.",
+          "tipFr": "Avril-mai et septembre-octobre sont le moment idéal : sable frais, mer douce et règles canines bien plus souples qu'en juillet-août.",
+          "tipEs": "Abril-mayo y septiembre-octubre son el momento ideal: arena fresca, mar templado y normas caninas mucho más flexibles que en julio-agosto.",
+          "googleMapsUrl": "https://maps.google.com/?q=Spiaggia+libera+Rimini"
+        }
+      ],
+      "tipsEn": [
+        "Sea swimming with dogs at Dog No Problem is allowed only 06:00–08:00 and 18:40–21:00 inside the buoyed area.",
+        "Rent a dog pool (8-10 EUR/day) at Dog No Problem so your dog can cool off during the midday swimming ban.",
+        "Beach sand burns paws after noon in summer; visit early or in the evening and test the sand with your hand first."
+      ],
+      "tipsFr": [
+        "La baignade en mer avec chien à Dog No Problem n'est autorisée que 06h00–08h00 et 18h40–21h00 dans la zone balisée.",
+        "Louez une piscine pour chien (8-10 € / jour) à Dog No Problem pour le rafraîchir pendant l'interdiction de baignade de midi.",
+        "Le sable brûle les coussinets après midi en été ; venez tôt ou en soirée et testez le sable avec la main d'abord."
+      ],
+      "tipsEs": [
+        "El baño en el mar con perro en Dog No Problem solo se permite 06:00–08:00 y 18:40–21:00 dentro de la zona balizada.",
+        "Alquile una piscina para perros (8-10 € / día) en Dog No Problem para refrescarlo durante la prohibición de baño del mediodía.",
+        "La arena quema las almohadillas tras el mediodía en verano; visite temprano o por la tarde y pruebe la arena con la mano primero."
+      ],
+      "faqsEn": [
+        {"q": "Is there a dedicated dog beach in Rimini?", "a": "Yes. Rimini Dog No Problem at Bagno 81-82 is the city's only fully dedicated dog beach and the largest on the Emilia-Romagna coast, with fenced off-leash umbrella suites and a sea-swimming area."},
+        {"q": "When can my dog swim in the sea?", "a": "At Dog No Problem, sea swimming with dogs is permitted only within the buoyed area, roughly 06:00–08:00 and 18:40–21:00. Outside those windows use a rentable dog pool."}
+      ],
+      "faqsFr": [
+        {"q": "Y a-t-il une plage canine dédiée à Rimini ?", "a": "Oui. Rimini Dog No Problem au Bagno 81-82 est la seule plage entièrement dédiée aux chiens de la ville et la plus grande de la côte d'Émilie-Romagne, avec des suites parasol clôturées sans laisse et une zone de baignade."},
+        {"q": "Quand mon chien peut-il se baigner dans la mer ?", "a": "À Dog No Problem, la baignade avec chien n'est autorisée que dans la zone balisée, environ 06h00–08h00 et 18h40–21h00. En dehors, utilisez une piscine pour chien à louer."}
+      ],
+      "faqsEs": [
+        {"q": "¿Hay una playa canina dedicada en Rímini?", "a": "Sí. Rimini Dog No Problem en el Bagno 81-82 es la única playa de la ciudad totalmente dedicada a los perros y la más grande de la costa de Emilia-Romaña, con suites de sombrilla valladas sin correa y zona de baño en el mar."},
+        {"q": "¿Cuándo puede bañarse mi perro en el mar?", "a": "En Dog No Problem, el baño con perro solo se permite dentro de la zona balizada, aproximadamente 06:00–08:00 y 18:40–21:00. Fuera de esas franjas use una piscina para perros en alquiler."}
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Clinics & Emergency Vets in Rimini",
+      "titleFr": "Cliniques vétérinaires et urgences à Rimini",
+      "titleEs": "Clínicas veterinarias y urgencias en Rímini",
+      "introEn": "Rimini has several well-equipped veterinary clinics, two of which run a round-the-clock emergency service, an important reassurance given the summer heat and the crowds. Casa del Cane e del Gatto offers a 24/7 emergency line, while Veterinari Associati Belli & Bianchi provide a 24-hour on-call service alongside full diagnostics and surgery. Save at least one emergency number before you travel; heatstroke and paw burns are the most common warm-season problems on the Adriatic coast.",
+      "introFr": "Rimini compte plusieurs cliniques vétérinaires bien équipées, dont deux assurent un service d'urgence 24h/24, un atout important vu la chaleur estivale et l'affluence. Casa del Cane e del Gatto propose une ligne d'urgence 24h/24, tandis que Veterinari Associati Belli & Bianchi assurent une garde 24 heures avec diagnostic complet et chirurgie. Enregistrez au moins un numéro d'urgence avant de partir ; les coups de chaleur et les brûlures de coussinets sont les problèmes les plus fréquents en saison chaude sur la côte adriatique.",
+      "introEs": "Rímini cuenta con varias clínicas veterinarias bien equipadas, dos de las cuales ofrecen servicio de urgencias las 24 horas, una tranquilidad importante dado el calor del verano y la afluencia. Casa del Cane e del Gatto ofrece una línea de urgencias 24/7, mientras que Veterinari Associati Belli & Bianchi prestan un servicio de guardia 24 horas junto con diagnóstico completo y cirugía. Guarde al menos un número de urgencias antes de viajar; los golpes de calor y las quemaduras en las almohadillas son los problemas más frecuentes en temporada cálida en la costa adriática.",
+      "places": [
+        {
+          "name": "Clinica Veterinaria Privata Casa del Cane e del Gatto",
+          "address": "Via Consolare Rimini-San Marino 143, 47924 Rimini",
+          "neighborhood": "San Martino in XX",
+          "phone": "+39 0541 759121",
+          "photo": "/images/city-places/rimini-vets-casa-del-cane.jpg",
+          "website": "https://www.casadelcanerimini.com/",
+          "description": "A private veterinary clinic for dogs and cats offering a 24-hour, 365-day emergency service. Day clinic Monday–Friday 09:00–19:00 and Saturday 09:00–17:00, with an out-of-hours emergency line. A reliable first call for any urgent problem in the Rimini area.",
+          "descriptionFr": "Une clinique vétérinaire privée pour chiens et chats offrant un service d'urgence 24h/24, 365 jours par an. Consultations du lundi au vendredi 9h00–19h00 et le samedi 9h00–17h00, avec une ligne d'urgence en dehors des horaires. Un premier contact fiable pour tout problème urgent dans la région de Rimini.",
+          "descriptionEs": "Una clínica veterinaria privada para perros y gatos que ofrece servicio de urgencias 24 horas, 365 días al año. Consulta de lunes a viernes 09:00–19:00 y sábado 09:00–17:00, con una línea de urgencias fuera de horario. Un primer contacto fiable para cualquier problema urgente en la zona de Rímini.",
+          "services": ["24/7 emergency line", "Radiology & ultrasound", "Surgery", "Internal medicine"],
+          "servicesFr": ["Ligne d'urgence 24h/24", "Radiologie et échographie", "Chirurgie", "Médecine interne"],
+          "servicesEs": ["Línea de urgencias 24/7", "Radiología y ecografía", "Cirugía", "Medicina interna"],
+          "openingHours": "Mon–Fri 09:00–19:00, Sat 09:00–17:00; 24/7 emergency line",
+          "tip": "Programme the emergency line into your phone on arrival; it operates outside the day-clinic hours every day of the year.",
+          "tipFr": "Enregistrez la ligne d'urgence dès l'arrivée ; elle fonctionne en dehors des heures de consultation tous les jours de l'année.",
+          "tipEs": "Guarde la línea de urgencias al llegar; funciona fuera del horario de consulta todos los días del año.",
+          "googleMapsUrl": "https://maps.google.com/?q=Casa+del+Cane+e+del+Gatto+Rimini+Via+Consolare"
+        },
+        {
+          "name": "Veterinari Associati Belli & Bianchi",
+          "address": "Via Vanzi 31/A, 47923 Rimini",
+          "neighborhood": "Rimini",
+          "phone": "+39 0541 790262",
+          "photo": "/images/city-places/rimini-vets-belli-bianchi.jpg",
+          "website": "https://www.veterinariassociatibellibianchi.it/",
+          "description": "An established veterinary practice run by Dr Claudio Belli and Dr Alessandro Bianchi, with a 24-hour on-call service. Full diagnostics including radiology, ultrasound and endoscopy, plus surgery, intensive care and pain management. Treats dogs, cats and exotic species. Consultations by appointment.",
+          "descriptionFr": "Un cabinet vétérinaire reconnu dirigé par les Drs Claudio Belli et Alessandro Bianchi, avec une garde 24h/24. Diagnostic complet incluant radiologie, échographie et endoscopie, plus chirurgie, soins intensifs et gestion de la douleur. Soigne chiens, chats et espèces exotiques. Consultations sur rendez-vous.",
+          "descriptionEs": "Una consulta veterinaria reconocida dirigida por los Dres. Claudio Belli y Alessandro Bianchi, con servicio de guardia 24 horas. Diagnóstico completo con radiología, ecografía y endoscopia, además de cirugía, cuidados intensivos y manejo del dolor. Atiende perros, gatos y especies exóticas. Consultas con cita previa.",
+          "services": ["24-hour on-call", "Radiology, ultrasound, endoscopy", "Surgery & intensive care", "Exotic pets"],
+          "servicesFr": ["Garde 24 heures", "Radiologie, échographie, endoscopie", "Chirurgie et soins intensifs", "Animaux exotiques"],
+          "servicesEs": ["Guardia 24 horas", "Radiología, ecografía, endoscopia", "Cirugía y cuidados intensivos", "Animales exóticos"],
+          "openingHours": "Mon–Sat by appointment; 24-hour on-call service",
+          "tip": "Phone ahead even for the on-call service; the 24-hour cover is by callout, so they prefer a call before you arrive.",
+          "tipFr": "Téléphonez avant même pour la garde ; la couverture 24h se fait sur appel, ils préfèrent un appel avant votre arrivée.",
+          "tipEs": "Llame antes incluso para el servicio de guardia; la cobertura 24h es por aviso, prefieren una llamada antes de que llegue.",
+          "googleMapsUrl": "https://maps.google.com/?q=Veterinari+Associati+Belli+Bianchi+Via+Vanzi+Rimini"
+        },
+        {
+          "name": "Pharmacies & 24-hour rota (farmacia di turno)",
+          "address": "Citywide, Rimini",
+          "neighborhood": "Rimini",
+          "phone": "+39 0541 759121",
+          "photo": "/images/city-places/rimini-vets-pharmacy.jpg",
+          "website": "https://www.casadelcanerimini.com/",
+          "description": "For non-emergency supplies, basic pet medicines, tick and flea treatment and waste bags, Rimini's pharmacies and pet shops are widely available, and a night-and-holiday pharmacy rota (farmacia di turno) covers out-of-hours needs. For anything clinical, contact one of the two veterinary clinics above directly.",
+          "descriptionFr": "Pour les fournitures non urgentes, médicaments de base, antiparasitaires et sacs à déjections, les pharmacies et animaleries de Rimini sont nombreuses, et une pharmacie de garde (farmacia di turno) couvre les besoins de nuit et jours fériés. Pour tout problème clinique, contactez directement l'une des deux cliniques ci-dessus.",
+          "descriptionEs": "Para suministros no urgentes, medicamentos básicos, antiparasitarios y bolsas para excrementos, las farmacias y tiendas de mascotas de Rímini son numerosas, y una farmacia de guardia (farmacia di turno) cubre las necesidades de noche y festivos. Para cualquier asunto clínico, contacte directamente con una de las dos clínicas anteriores.",
+          "services": ["Pet medicines & supplies", "Tick/flea treatment", "Night & holiday pharmacy rota", "Waste bags"],
+          "servicesFr": ["Médicaments et fournitures", "Antiparasitaires", "Pharmacie de garde nuit/fériés", "Sacs à déjections"],
+          "servicesEs": ["Medicamentos y suministros", "Antiparasitarios", "Farmacia de guardia noche/festivos", "Bolsas para excrementos"],
+          "openingHours": "Pharmacies generally Mon–Sat; rota covers nights and holidays",
+          "tip": "For prescription pet medicine you still need a vet; pharmacies stock only over-the-counter products and basic supplies.",
+          "tipFr": "Pour un médicament sur ordonnance, il faut quand même un vétérinaire ; les pharmacies ne vendent que des produits en vente libre et fournitures de base.",
+          "tipEs": "Para medicamentos con receta sigue necesitando un veterinario; las farmacias solo venden productos de venta libre y suministros básicos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Farmacia+Rimini"
+        }
+      ],
+      "tipsEn": [
+        "Save Casa del Cane e del Gatto's 24/7 emergency line and Belli & Bianchi's on-call number before you arrive.",
+        "Heatstroke is the top summer risk on the Adriatic; know the signs (heavy panting, drooling, collapse) and act fast.",
+        "Carry your dog's EU pet passport or registry documents; clinics may ask for them."
+      ],
+      "tipsFr": [
+        "Enregistrez la ligne d'urgence 24h/24 de Casa del Cane e del Gatto et le numéro de garde de Belli & Bianchi avant d'arriver.",
+        "Le coup de chaleur est le premier risque estival sur l'Adriatique ; reconnaissez les signes (halètement, bave, effondrement) et agissez vite.",
+        "Ayez le passeport européen ou les documents d'identification du chien ; les cliniques peuvent les demander."
+      ],
+      "tipsEs": [
+        "Guarde la línea de urgencias 24/7 de Casa del Cane e del Gatto y el número de guardia de Belli & Bianchi antes de llegar.",
+        "El golpe de calor es el principal riesgo del verano en el Adriático; reconozca los signos (jadeo intenso, babeo, colapso) y actúe rápido.",
+        "Lleve el pasaporte europeo o los documentos de registro del perro; las clínicas pueden pedirlos."
+      ],
+      "faqsEn": [
+        {"q": "Is there a 24-hour vet in Rimini?", "a": "Yes. Casa del Cane e del Gatto runs a 24/7 emergency line, and Veterinari Associati Belli & Bianchi provide a 24-hour on-call service. Phone ahead for the out-of-hours service."},
+        {"q": "What is the biggest health risk for dogs in Rimini?", "a": "Summer heat. Heatstroke and burned paws from hot sand and paving are the most common warm-season problems; walk early or after sunset and always carry water."}
+      ],
+      "faqsFr": [
+        {"q": "Y a-t-il un vétérinaire 24h/24 à Rimini ?", "a": "Oui. Casa del Cane e del Gatto a une ligne d'urgence 24h/24, et Veterinari Associati Belli & Bianchi assurent une garde 24 heures. Téléphonez avant pour le service hors horaires."},
+        {"q": "Quel est le principal risque pour les chiens à Rimini ?", "a": "La chaleur estivale. Coups de chaleur et coussinets brûlés par le sable et le pavé chauds sont les problèmes les plus fréquents ; promenez tôt ou après le coucher du soleil et emportez toujours de l'eau."}
+      ],
+      "faqsEs": [
+        {"q": "¿Hay un veterinario 24 horas en Rímini?", "a": "Sí. Casa del Cane e del Gatto tiene una línea de urgencias 24/7, y Veterinari Associati Belli & Bianchi prestan servicio de guardia 24 horas. Llame antes para el servicio fuera de horario."},
+        {"q": "¿Cuál es el mayor riesgo para los perros en Rímini?", "a": "El calor del verano. Los golpes de calor y las almohadillas quemadas por la arena y el pavimento calientes son los problemas más frecuentes; pasee temprano o tras la puesta de sol y lleve siempre agua."}
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Rimini with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Rimini avec un chien",
+      "titleEs": "Consejos prácticos para visitar Rímini con perro",
+      "introEn": "Rimini is an easy, dog-welcoming city, but the same things that draw the crowds, summer heat and packed beaches, are the main things to plan around. The city is flat and walkable, has a dedicated dog beach and a fenced off-leash park, and most terraces welcome dogs. The keys to a smooth trip are timing your beach and walking hours around the midday heat, knowing the sea-swimming windows, and keeping a leash and muzzle on hand for buses and trains.",
+      "introFr": "Rimini est une ville facile et accueillante pour les chiens, mais ce qui attire la foule, la chaleur estivale et les plages bondées, est précisément ce qu'il faut anticiper. La ville est plate et facile à parcourir à pied, dispose d'une plage canine dédiée et d'un parc clôturé sans laisse, et la plupart des terrasses accueillent les chiens. Les clés d'un séjour réussi : caler les horaires de plage et de promenade hors chaleur de midi, connaître les créneaux de baignade et garder laisse et muselière à portée pour les bus et les trains.",
+      "introEs": "Rímini es una ciudad fácil y acogedora con los perros, pero lo que atrae a la multitud, el calor del verano y las playas llenas, es justo lo que hay que prever. La ciudad es llana y caminable, tiene una playa canina dedicada y un parque vallado sin correa, y la mayoría de las terrazas admiten perros. Las claves de un viaje tranquilo: ajustar los horarios de playa y paseo fuera del calor del mediodía, conocer las franjas de baño y tener correa y bozal a mano para autobuses y trenes.",
+      "places": [
+        {
+          "name": "Beat the summer heat",
+          "photo": "/images/city-places/rimini-tips-heat.jpg",
+          "description": "July and August reach the high 20s°C with intense sun and hot sand and paving. Walk dogs at dawn or after sunset, stick to shaded routes, carry water, and never leave a dog in a parked car. Test the sand or pavement with your hand: if it's too hot for you, it's too hot for paws.",
+          "descriptionFr": "Juillet et août atteignent près de 30 °C avec un soleil intense et un sable et un pavé brûlants. Promenez les chiens à l'aube ou après le coucher du soleil, restez à l'ombre, emportez de l'eau et ne laissez jamais un chien dans une voiture garée. Testez le sable ou le pavé avec la main : si c'est trop chaud pour vous, ça l'est pour les coussinets.",
+          "descriptionEs": "Julio y agosto rozan los 30 °C con sol intenso y arena y pavimento calientes. Pasee a los perros al amanecer o tras la puesta de sol, manténgase a la sombra, lleve agua y nunca deje al perro en un coche aparcado. Pruebe la arena o el pavimento con la mano: si está demasiado caliente para usted, lo está para las almohadillas."
+        },
+        {
+          "name": "Know the dog beach rules",
+          "photo": "/images/city-places/rimini-tips-beach-rules.jpg",
+          "description": "At Rimini Dog No Problem, sea swimming with dogs is limited to set windows (roughly 06:00–08:00 and 18:40–21:00) inside a buoyed area. General pet-friendly bagni set their own rules and usually require a leash. Book a fenced umbrella suite if you want your dog off-leash beside you.",
+          "descriptionFr": "À Rimini Dog No Problem, la baignade avec chien est limitée à des créneaux définis (env. 06h00–08h00 et 18h40–21h00) dans une zone balisée. Les bagni pet-friendly généraux fixent leurs propres règles et exigent souvent la laisse. Réservez une suite parasol clôturée si vous voulez votre chien sans laisse à vos côtés.",
+          "descriptionEs": "En Rimini Dog No Problem, el baño con perro se limita a franjas fijas (aprox. 06:00–08:00 y 18:40–21:00) dentro de una zona balizada. Los bagni pet-friendly generales fijan sus propias normas y suelen exigir correa. Reserve una suite de sombrilla vallada si quiere a su perro sin correa a su lado."
+        },
+        {
+          "name": "Leash, muzzle & documents",
+          "photo": "/images/city-places/rimini-tips-leash-documents.jpg",
+          "description": "A leash is mandatory everywhere except inside the FIDOPARK fenced area. Carry a muzzle for buses and trains, where larger dogs may need one. Keep your dog's EU pet passport or registry documents on you, especially on trains and at clinics. Owners must clear up waste; fines apply.",
+          "descriptionFr": "La laisse est obligatoire partout sauf dans l'aire clôturée FIDOPARK. Emportez une muselière pour les bus et les trains, où les grands chiens peuvent en avoir besoin. Gardez le passeport européen ou les documents d'identification sur vous, surtout dans les trains et chez le vétérinaire. Les propriétaires doivent ramasser ; des amendes s'appliquent.",
+          "descriptionEs": "La correa es obligatoria en todas partes salvo dentro del área vallada FIDOPARK. Lleve un bozal para autobuses y trenes, donde los perros grandes pueden necesitarlo. Lleve consigo el pasaporte europeo o los documentos de registro, sobre todo en trenes y clínicas. Los dueños deben recoger los excrementos; se aplican multas."
+        }
+      ],
+      "tipsEn": [
+        "Plan beach and walks around the midday heat: dawn and evening are far safer for paws in July–August.",
+        "Sea swimming at the dog beach is only allowed in set early-morning and evening windows.",
+        "Keep a muzzle, leash and the dog's documents handy for buses, trains and vet visits."
+      ],
+      "tipsFr": [
+        "Organisez plage et promenades hors chaleur de midi : l'aube et le soir sont bien plus sûrs pour les coussinets en juillet-août.",
+        "La baignade à la plage canine n'est autorisée que sur des créneaux fixes le matin et le soir.",
+        "Gardez muselière, laisse et documents du chien à portée pour les bus, trains et visites vétérinaires."
+      ],
+      "tipsEs": [
+        "Planifique playa y paseos fuera del calor del mediodía: el amanecer y la tarde son mucho más seguros para las almohadillas en julio-agosto.",
+        "El baño en la playa canina solo se permite en franjas fijas de la mañana temprano y la tarde.",
+        "Tenga a mano bozal, correa y los documentos del perro para autobuses, trenes y visitas al veterinario."
+      ],
+      "faqsEn": [
+        {"q": "When is the best time to visit Rimini with a dog?", "a": "Late spring (April–June) and September–October are ideal: warm enough for the beach, cooler sand, far smaller crowds and more relaxed dog rules than the July–August peak."},
+        {"q": "Is Rimini a good city for dogs?", "a": "Yes. It has a dedicated dog beach, a fenced off-leash park, broadly dog-friendly restaurants and two 24-hour vets. The main thing to manage is the summer heat."}
+      ],
+      "faqsFr": [
+        {"q": "Quelle est la meilleure période pour visiter Rimini avec un chien ?", "a": "La fin du printemps (avril–juin) et septembre–octobre sont idéaux : assez chaud pour la plage, sable plus frais, bien moins de monde et des règles canines plus souples que le pic de juillet–août."},
+        {"q": "Rimini est-elle une bonne ville pour les chiens ?", "a": "Oui. Elle a une plage canine dédiée, un parc clôturé sans laisse, des restaurants largement dog-friendly et deux vétérinaires 24h/24. Le principal point à gérer est la chaleur estivale."}
+      ],
+      "faqsEs": [
+        {"q": "¿Cuál es la mejor época para visitar Rímini con perro?", "a": "Finales de primavera (abril–junio) y septiembre–octubre son ideales: suficiente calor para la playa, arena más fresca, mucha menos gente y normas caninas más flexibles que el pico de julio–agosto."},
+        {"q": "¿Es Rímini una buena ciudad para perros?", "a": "Sí. Tiene una playa canina dedicada, un parque vallado sin correa, restaurantes ampliamente dog-friendly y dos veterinarios 24 horas. Lo principal a gestionar es el calor del verano."}
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Rimini",
+      "titleFr": "Attractions accueillant les chiens à Rimini",
+      "titleEs": "Atracciones que admiten perros en Rímini",
+      "introEn": "Beyond its beaches, Rimini hides a rich Roman and Renaissance core that is enjoyable on a leash. The Roman Tiberius Bridge, the Renaissance Tempio Malatestiano and the colourful Borgo San Giuliano with its Fellini murals are all best explored outdoors on foot, which suits a dog perfectly. Most outdoor monuments and squares are freely accessible with a leashed dog; museum and church interiors generally admit only assistance dogs, so plan visits in pairs so one person can wait outside.",
+      "introFr": "Au-delà de ses plages, Rimini cache un riche cœur romain et Renaissance agréable à découvrir en laisse. Le pont romain de Tibère, le Tempio Malatestiano Renaissance et le coloré Borgo San Giuliano avec ses fresques de Fellini se visitent surtout à pied en extérieur, ce qui convient parfaitement à un chien. La plupart des monuments et places en plein air sont librement accessibles avec un chien en laisse ; les intérieurs de musées et d'églises n'admettent en général que les chiens d'assistance, prévoyez de visiter à deux pour qu'une personne attende dehors.",
+      "introEs": "Más allá de sus playas, Rímini esconde un rico núcleo romano y renacentista que se disfruta con correa. El puente romano de Tiberio, el renacentista Tempio Malatestiano y el colorido Borgo San Giuliano con sus murales de Fellini se exploran mejor a pie al aire libre, lo que conviene perfectamente a un perro. La mayoría de los monumentos y plazas al aire libre son de acceso libre con un perro con correa; los interiores de museos e iglesias suelen admitir solo perros de asistencia, así que planifique las visitas en pareja para que una persona espere fuera.",
+      "places": [
+        {
+          "name": "Ponte di Tiberio (Tiberius Bridge)",
+          "address": "Via Tiberio, 47921 Rimini",
+          "neighborhood": "Borgo San Giuliano",
+          "photo": "/images/city-places/rimini-attractions-ponte-tiberio.jpg",
+          "description": "A Roman bridge of Istrian stone built between 14 and 21 AD, still in use after two millennia and part of the city's coat of arms. It links the historic centre to the Borgo San Giuliano across a tranquil mirror of water. Fully outdoors and dog-friendly on a leash.",
+          "descriptionFr": "Un pont romain en pierre d'Istrie construit entre 14 et 21 apr. J.-C., toujours en service après deux millénaires et figurant sur les armoiries de la ville. Il relie le centre historique au Borgo San Giuliano au-dessus d'un miroir d'eau paisible. Entièrement en extérieur et dog-friendly en laisse.",
+          "descriptionEs": "Un puente romano de piedra de Istria construido entre los años 14 y 21 d. C., aún en uso tras dos milenios y parte del escudo de la ciudad. Une el centro histórico con el Borgo San Giuliano sobre un tranquilo espejo de agua. Totalmente al aire libre y dog-friendly con correa.",
+          "petPolicy": "Outdoors, leashed dogs welcome",
+          "petPolicyFr": "En extérieur, chiens en laisse bienvenus",
+          "petPolicyEs": "Al aire libre, perros con correa bienvenidos",
+          "tip": "Walk the bridge into Borgo San Giuliano at golden hour; the water reflects the stone arches and the borgo is at its most photogenic.",
+          "tipFr": "Traversez le pont vers le Borgo San Giuliano à l'heure dorée ; l'eau reflète les arches de pierre et le borgo est alors le plus photogénique.",
+          "tipEs": "Cruce el puente hacia el Borgo San Giuliano a la hora dorada; el agua refleja los arcos de piedra y el borgo está en su momento más fotogénico.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ponte+di+Tiberio+Rimini"
+        },
+        {
+          "name": "Borgo San Giuliano",
+          "address": "Borgo San Giuliano, 47921 Rimini",
+          "neighborhood": "Borgo San Giuliano",
+          "photo": "/images/city-places/rimini-attractions-borgo-san-giuliano.jpg",
+          "description": "The old fishermen's quarter just across the Tiberius Bridge, a maze of small pastel houses, narrow lanes and murals inspired by Federico Fellini's films, some dating from 1980. Entirely pedestrian and made for slow wandering with a dog. Lined with osterie and trattorias for a meal afterwards.",
+          "descriptionFr": "Le vieux quartier des pêcheurs juste après le pont de Tibère, un dédale de petites maisons pastel, de ruelles et de fresques inspirées des films de Federico Fellini, certaines datant de 1980. Entièrement piéton et fait pour flâner avec un chien. Bordé d'osterie et de trattorias pour un repas ensuite.",
+          "descriptionEs": "El antiguo barrio de pescadores justo al cruzar el puente de Tiberio, un laberinto de casitas pastel, callejuelas y murales inspirados en las películas de Federico Fellini, algunos de 1980. Totalmente peatonal y hecho para pasear despacio con un perro. Repleto de osterías y trattorias para comer después.",
+          "petPolicy": "Pedestrian streets, leashed dogs welcome",
+          "petPolicyFr": "Rues piétonnes, chiens en laisse bienvenus",
+          "petPolicyEs": "Calles peatonales, perros con correa bienvenidos",
+          "tip": "Go early or late to avoid the midday crowds and heat; the painted lanes are quietest and coolest then, ideal for a relaxed dog.",
+          "tipFr": "Allez-y tôt ou tard pour éviter la foule et la chaleur de midi ; les ruelles peintes sont alors les plus calmes et fraîches, idéales pour un chien détendu.",
+          "tipEs": "Vaya temprano o tarde para evitar la multitud y el calor del mediodía; las callejuelas pintadas están entonces más tranquilas y frescas, ideales para un perro relajado.",
+          "googleMapsUrl": "https://maps.google.com/?q=Borgo+San+Giuliano+Rimini"
+        },
+        {
+          "name": "Tempio Malatestiano (exterior) & Piazza Cavour",
+          "address": "Via IV Novembre 35, 47921 Rimini",
+          "neighborhood": "Centro Storico",
+          "photo": "/images/city-places/rimini-attractions-tempio-malatestiano.jpg",
+          "description": "An early-Renaissance masterpiece designed by Leon Battista Alberti for Sigismondo Pandolfo Malatesta, with a white marble facade modelled on a Roman triumphal arch. The exterior and the surrounding historic centre, including Piazza Cavour with its fountain and palazzi, make a fine leashed-dog stroll. Interior admits assistance dogs only.",
+          "descriptionFr": "Un chef-d'œuvre du début de la Renaissance conçu par Leon Battista Alberti pour Sigismondo Pandolfo Malatesta, avec une façade de marbre blanc inspirée d'un arc de triomphe romain. L'extérieur et le centre historique alentour, dont la Piazza Cavour avec sa fontaine et ses palais, offrent une belle promenade en laisse. L'intérieur n'admet que les chiens d'assistance.",
+          "descriptionEs": "Una obra maestra del Renacimiento temprano diseñada por Leon Battista Alberti para Sigismondo Pandolfo Malatesta, con una fachada de mármol blanco inspirada en un arco de triunfo romano. El exterior y el centro histórico circundante, incluida la Piazza Cavour con su fuente y palacios, ofrecen un bonito paseo con correa. El interior admite solo perros de asistencia.",
+          "petPolicy": "Exterior and square dog-friendly on a leash; interior assistance dogs only",
+          "petPolicyFr": "Extérieur et place dog-friendly en laisse ; intérieur réservé aux chiens d'assistance",
+          "petPolicyEs": "Exterior y plaza dog-friendly con correa; interior solo perros de asistencia",
+          "tip": "Combine the Tempio exterior with Piazza Cavour and the Roman remains nearby for a self-guided outdoor history walk entirely doable with a dog.",
+          "tipFr": "Associez l'extérieur du Tempio à la Piazza Cavour et aux vestiges romains voisins pour une balade historique en plein air entièrement faisable avec un chien.",
+          "tipEs": "Combine el exterior del Tempio con la Piazza Cavour y los restos romanos cercanos para un paseo histórico al aire libre totalmente factible con un perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tempio+Malatestiano+Rimini"
+        }
+      ],
+      "tipsEn": [
+        "Rimini's Roman and Renaissance highlights are mostly outdoors and easily seen on a leash.",
+        "Museum and church interiors generally admit assistance dogs only; visit in pairs so one can wait outside.",
+        "Combine the Tiberius Bridge, Borgo San Giuliano and the historic centre into one flat, shaded-in-places walking loop."
+      ],
+      "tipsFr": [
+        "Les sites romains et Renaissance de Rimini sont surtout en extérieur et faciles à voir en laisse.",
+        "Les intérieurs de musées et d'églises n'admettent en général que les chiens d'assistance ; visitez à deux pour qu'une personne attende dehors.",
+        "Reliez le pont de Tibère, le Borgo San Giuliano et le centre historique en une boucle de marche plate et ombragée par endroits."
+      ],
+      "tipsEs": [
+        "Los principales atractivos romanos y renacentistas de Rímini están sobre todo al aire libre y son fáciles de ver con correa.",
+        "Los interiores de museos e iglesias suelen admitir solo perros de asistencia; visite en pareja para que una persona espere fuera.",
+        "Enlace el puente de Tiberio, el Borgo San Giuliano y el centro histórico en un recorrido llano y con sombra en algunos tramos."
+      ],
+      "faqsEn": [
+        {"q": "Can I take my dog to Rimini's main sights?", "a": "Yes for the outdoor ones: the Tiberius Bridge, Borgo San Giuliano and the historic centre are all dog-friendly on a leash. Indoor museums and churches usually admit only assistance dogs."},
+        {"q": "Is the historic centre walkable with a dog?", "a": "Very. The centre is flat, compact and largely pedestrian, linking the Tempio Malatestiano, Piazza Cavour, the Tiberius Bridge and Borgo San Giuliano in an easy loop."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je emmener mon chien dans les principaux sites de Rimini ?", "a": "Oui pour ceux en extérieur : le pont de Tibère, le Borgo San Giuliano et le centre historique sont dog-friendly en laisse. Les musées et églises n'admettent en général que les chiens d'assistance."},
+        {"q": "Le centre historique est-il praticable avec un chien ?", "a": "Très. Le centre est plat, compact et largement piéton, reliant le Tempio Malatestiano, la Piazza Cavour, le pont de Tibère et le Borgo San Giuliano en une boucle facile."}
+      ],
+      "faqsEs": [
+        {"q": "¿Puedo llevar a mi perro a los principales monumentos de Rímini?", "a": "Sí a los de exterior: el puente de Tiberio, el Borgo San Giuliano y el centro histórico son dog-friendly con correa. Los museos e iglesias suelen admitir solo perros de asistencia."},
+        {"q": "¿Es caminable el centro histórico con perro?", "a": "Mucho. El centro es llano, compacto y casi peatonal, y enlaza el Tempio Malatestiano, la Piazza Cavour, el puente de Tiberio y el Borgo San Giuliano en un recorrido fácil."}
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Rimini",
+      "titleFr": "Garde et promenade de chiens à Rimini",
+      "titleEs": "Cuidado y paseo de perros en Rímini",
+      "introEn": "If you want to visit a museum interior, take a boat trip or simply have a dog-free evening, Rimini is well served by the major online pet-care platforms. Pawshake and Rover both list verified, reviewed sitters and dog walkers across Rimini and the wider Romagna coast, offering home visits, walks, day care and overnight boarding. Book in advance for the July–August peak, when demand from tourists and locals alike is highest.",
+      "introFr": "Si vous souhaitez visiter l'intérieur d'un musée, faire une sortie en bateau ou simplement passer une soirée sans chien, Rimini est bien desservie par les grandes plateformes de garde en ligne. Pawshake et Rover recensent tous deux des gardiens et promeneurs vérifiés et notés à Rimini et sur l'ensemble de la côte romagnole, proposant visites à domicile, promenades, garderie de jour et hébergement de nuit. Réservez à l'avance pour le pic de juillet-août, quand la demande des touristes comme des locaux est la plus forte.",
+      "introEs": "Si quiere visitar el interior de un museo, hacer una excursión en barco o simplemente disfrutar de una velada sin perro, Rímini está bien atendida por las grandes plataformas de cuidado de mascotas en línea. Pawshake y Rover recogen cuidadores y paseadores verificados y valorados en Rímini y toda la costa de Romaña, con visitas a domicilio, paseos, guardería de día y alojamiento nocturno. Reserve con antelación para el pico de julio-agosto, cuando la demanda de turistas y locales es más alta.",
+      "places": [
+        {
+          "name": "Pawshake Rimini",
+          "languages": ["Italian", "English"],
+          "description": "An international pet-sitting platform with a strong presence in Rimini, offering home visits, dog walking, day care and overnight boarding. Sitters are individually verified and carry guest reviews, with high average ratings across the local listings. Useful for both a quick walk and longer cover.",
+          "descriptionFr": "Une plateforme internationale de pet-sitting bien implantée à Rimini, proposant visites à domicile, promenades, garderie de jour et hébergement de nuit. Les gardiens sont vérifiés individuellement et notés par les clients, avec de bonnes moyennes sur les annonces locales. Pratique pour une promenade rapide comme pour une garde plus longue.",
+          "descriptionEs": "Una plataforma internacional de cuidado de mascotas con fuerte presencia en Rímini, que ofrece visitas a domicilio, paseos, guardería de día y alojamiento nocturno. Los cuidadores se verifican individualmente y tienen reseñas de clientes, con altas valoraciones medias en los anuncios locales. Útil tanto para un paseo rápido como para una estancia más larga.",
+          "website": "https://www.pawshake.it/dog-sitter/rimini-emilia-romagna",
+          "tip": "Filter by sitters who offer home visits if your dog is anxious; a familiar setting beats boarding for short absences.",
+          "tipFr": "Filtrez les gardiens proposant des visites à domicile si votre chien est anxieux ; un cadre familier vaut mieux qu'une pension pour de courtes absences.",
+          "tipEs": "Filtre por cuidadores que ofrezcan visitas a domicilio si su perro es ansioso; un entorno familiar es mejor que el alojamiento para ausencias cortas."
+        },
+        {
+          "name": "Rover Rimini",
+          "languages": ["Italian", "English"],
+          "description": "The largest pet-care marketplace, with dog sitters, walkers, day care and house-sitting options across Rimini and Emilia-Romagna. Profiles show verification status, reviews and rates, and bookings are handled in-app. A good fallback when local sitters are booked out in high season.",
+          "descriptionFr": "La plus grande place de marché de garde d'animaux, avec gardiens, promeneurs, garderie de jour et house-sitting à Rimini et en Émilie-Romagne. Les profils indiquent vérification, avis et tarifs, et les réservations se font dans l'application. Bonne solution de repli quand les gardiens locaux sont complets en haute saison.",
+          "descriptionEs": "El mayor mercado de cuidado de mascotas, con cuidadores, paseadores, guardería de día y cuidado a domicilio en Rímini y Emilia-Romaña. Los perfiles muestran verificación, reseñas y tarifas, y las reservas se gestionan en la app. Buena alternativa cuando los cuidadores locales están completos en temporada alta.",
+          "website": "https://www.rover.com/it/rimini--emilia-romagna--dog-sitter/",
+          "tip": "Arrange a short meet-and-greet before your trip; reputable sitters on both platforms expect and welcome it.",
+          "tipFr": "Organisez une courte rencontre avant votre séjour ; les gardiens sérieux des deux plateformes s'y attendent et l'apprécient.",
+          "tipEs": "Concierte un breve encuentro previo antes del viaje; los cuidadores serios de ambas plataformas lo esperan y lo agradecen."
+        }
+      ],
+      "tipsEn": [
+        "Book sitters well ahead for July–August; Rimini's peak season strains local pet-care availability.",
+        "Choose home visits over boarding for anxious dogs and short absences.",
+        "Arrange a meet-and-greet first and leave the sitter your vet's emergency number."
+      ],
+      "tipsFr": [
+        "Réservez les gardiens bien à l'avance pour juillet-août ; la haute saison de Rimini sature l'offre locale de garde.",
+        "Préférez les visites à domicile à la pension pour les chiens anxieux et les courtes absences.",
+        "Organisez d'abord une rencontre et laissez au gardien le numéro d'urgence de votre vétérinaire."
+      ],
+      "tipsEs": [
+        "Reserve cuidadores con mucha antelación para julio-agosto; la temporada alta de Rímini satura la oferta local de cuidado.",
+        "Prefiera las visitas a domicilio al alojamiento para perros ansiosos y ausencias cortas.",
+        "Concierte primero un encuentro y deje al cuidador el número de urgencias de su veterinario."
+      ],
+      "faqsEn": [
+        {"q": "How do I find a dog sitter in Rimini?", "a": "Use Pawshake or Rover, both of which list verified, reviewed sitters and walkers across Rimini offering home visits, walks, day care and overnight boarding."},
+        {"q": "Should I book in advance?", "a": "Yes, especially for July and August. Rimini's summer peak drives high demand, so the best-reviewed sitters fill up early."}
+      ],
+      "faqsFr": [
+        {"q": "Comment trouver un gardien de chien à Rimini ?", "a": "Utilisez Pawshake ou Rover, qui recensent tous deux des gardiens et promeneurs vérifiés et notés à Rimini, proposant visites à domicile, promenades, garderie de jour et hébergement de nuit."},
+        {"q": "Faut-il réserver à l'avance ?", "a": "Oui, surtout pour juillet et août. Le pic estival de Rimini génère une forte demande, et les gardiens les mieux notés se remplissent tôt."}
+      ],
+      "faqsEs": [
+        {"q": "¿Cómo encuentro un cuidador de perros en Rímini?", "a": "Use Pawshake o Rover, que recogen cuidadores y paseadores verificados y valorados en Rímini, con visitas a domicilio, paseos, guardería de día y alojamiento nocturno."},
+        {"q": "¿Debo reservar con antelación?", "a": "Sí, sobre todo para julio y agosto. El pico estival de Rímini genera mucha demanda, y los cuidadores mejor valorados se llenan pronto."}
+      ]
+    }
+  }
+}

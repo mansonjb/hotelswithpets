@@ -16529,6 +16529,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  rimini: {
+    history: {
+      fr: `Rimini, fondée par les Romains en 268 av. J.-C. sous le nom d'Ariminum, fut un carrefour stratégique où se rejoignaient la Via Flaminia et la Via Emilia. Elle conserve de cette époque le pont de Tibère, achevé vers 21 apr. J.-C. et toujours en service, et l'arc d'Auguste. Au XVe siècle, sous Sigismondo Pandolfo Malatesta, l'architecte Leon Battista Alberti transforma l'église San Francesco en Tempio Malatestiano, chef-d'œuvre du début de la Renaissance. Au XXe siècle, Rimini devint la capitale du tourisme balnéaire de la Riviera adriatique et la ville natale du cinéaste Federico Fellini, dont l'univers imprègne le coloré Borgo San Giuliano. Pour le voyageur avec un chien, Rimini est un rare mélange : une longue plage de sable avec une plage canine dédiée, un parc clôturé sans laisse au bord du fleuve Marecchia, un centre romain et Renaissance plat et piéton, et une culture café romagnole largement dog-friendly.`,
+      en: `Rimini was founded by the Romans in 268 BC as Ariminum, a strategic hub where the Via Flaminia met the Via Emilia. From that era it preserves the Tiberius Bridge, completed around 21 AD and still in use, and the Arch of Augustus. In the 15th century, under Sigismondo Pandolfo Malatesta, the architect Leon Battista Alberti reworked the church of San Francesco into the Tempio Malatestiano, an early-Renaissance masterpiece. In the 20th century Rimini became the seaside-tourism capital of the Adriatic Riviera and the birthplace of filmmaker Federico Fellini, whose world pervades the colourful Borgo San Giuliano. For the traveller with a dog, Rimini is a rare combination: a long sandy shore with a dedicated dog beach, a fenced off-leash park beside the Marecchia river, a flat and pedestrian Roman and Renaissance centre, and a broadly dog-friendly Romagna café culture.`,
+      es: `Rímini fue fundada por los romanos en el 268 a. C. como Ariminum, un cruce estratégico donde la Via Flaminia se unía a la Via Emilia. De aquella época conserva el puente de Tiberio, terminado hacia el 21 d. C. y aún en uso, y el Arco de Augusto. En el siglo XV, bajo Sigismondo Pandolfo Malatesta, el arquitecto Leon Battista Alberti transformó la iglesia de San Francesco en el Tempio Malatestiano, una obra maestra del Renacimiento temprano. En el siglo XX Rímini se convirtió en la capital del turismo de playa de la Riviera adriática y en la cuna del cineasta Federico Fellini, cuyo universo impregna el colorido Borgo San Giuliano. Para el viajero con perro, Rímini es una combinación poco común: una larga playa de arena con una playa canina dedicada, un parque vallado sin correa junto al río Marecchia, un centro romano y renacentista llano y peatonal, y una cultura de café romañola ampliamente dog-friendly.`,
+      pt: `Rímini foi fundada pelos romanos em 268 a. C. como Ariminum, um cruzamento estratégico onde a Via Flaminia se unia à Via Emilia. Dessa época conserva a ponte de Tibério, terminada por volta de 21 d. C. e ainda em uso, e o Arco de Augusto. No século XV, sob Sigismondo Pandolfo Malatesta, o arquiteto Leon Battista Alberti transformou a igreja de San Francesco no Tempio Malatestiano, uma obra-prima do Renascimento inicial. No século XX Rímini tornou-se a capital do turismo de praia da Riviera adriática e o berço do cineasta Federico Fellini, cujo universo impregna o colorido Borgo San Giuliano. Para o viajante com cão, Rímini é uma combinação rara: uma longa praia de areia com uma praia canina dedicada, um parque vedado sem trela junto ao rio Marecchia, um centro romano e renascentista plano e pedonal, e uma cultura de café romanhola amplamente pet-friendly.`,
+    },
+    sights: [
+      { name: 'Rimini Dog No Problem (Bagno 81-82)', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `La seule plage entièrement dédiée aux chiens de Rimini et la plus grande de la côte d'Émilie-Romagne, avec plus de 150 parasols et des « suites » clôturées sans laisse.`,
+        en: `Rimini's only fully dedicated dog beach and the largest on the Emilia-Romagna coast, with over 150 umbrellas and fenced off-leash 'suites'.`,
+        es: `La única playa totalmente dedicada a los perros de Rímini y la más grande de la costa de Emilia-Romaña, con más de 150 sombrillas y « suites » valladas sin correa.`,
+        pt: `A única praia totalmente dedicada aos cães de Rímini e a maior da costa da Emília-Romanha, com mais de 150 chapéus de sol e « suites » vedadas sem trela.`,
+      }},
+      { name: 'Parco Marecchia (Parco XXV Aprile)', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le plus grand parc urbain de la ville (env. 235 000 m²) sur l'ancien lit du fleuve, avec l'aire clôturée FIDOPARK où les chiens courent sans laisse ni muselière.`,
+        en: `The city's largest urban park (~235,000 m²) on the river's old bed, with the fenced FIDOPARK area where dogs run free of leash and muzzle.`,
+        es: `El mayor parque urbano de la ciudad (unos 235.000 m²) sobre el antiguo cauce del río, con el área vallada FIDOPARK donde los perros corren sin correa ni bozal.`,
+        pt: `O maior parque urbano da cidade (cerca de 235.000 m²) sobre o antigo leito do rio, com a área vedada FIDOPARK onde os cães correm sem trela nem açaime.`,
+      }},
+      { name: 'Ponte di Tiberio', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Pont romain en pierre d'Istrie achevé vers 21 apr. J.-C., toujours en service, reliant le centre au Borgo San Giuliano. Entièrement en extérieur, dog-friendly en laisse.`,
+        en: `Roman bridge of Istrian stone completed around 21 AD, still in use, linking the centre to Borgo San Giuliano. Fully outdoors, dog-friendly on a leash.`,
+        es: `Puente romano de piedra de Istria terminado hacia el 21 d. C., aún en uso, que une el centro con el Borgo San Giuliano. Totalmente al aire libre, dog-friendly con correa.`,
+        pt: `Ponte romana de pedra de Ístria terminada por volta de 21 d. C., ainda em uso, ligando o centro ao Borgo San Giuliano. Totalmente ao ar livre, pet-friendly com trela.`,
+      }},
+      { name: 'Borgo San Giuliano', emoji: '🎨', petFriendly: true, desc: {
+        fr: `Le vieux quartier des pêcheurs aux maisons pastel et aux fresques inspirées des films de Fellini. Entièrement piéton, parfait pour flâner avec un chien.`,
+        en: `The old fishermen's quarter of pastel houses and murals inspired by Fellini's films. Fully pedestrian, perfect for wandering with a dog.`,
+        es: `El antiguo barrio de pescadores de casas pastel y murales inspirados en las películas de Fellini. Totalmente peatonal, perfecto para pasear con un perro.`,
+        pt: `O antigo bairro de pescadores de casas pastel e murais inspirados nos filmes de Fellini. Totalmente pedonal, perfeito para passear com um cão.`,
+      }},
+      { name: 'Tempio Malatestiano (exterior)', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Chef-d'œuvre du début de la Renaissance signé Leon Battista Alberti, à la façade de marbre blanc. Vue extérieure dog-friendly ; intérieur réservé aux chiens d'assistance.`,
+        en: `Early-Renaissance masterpiece by Leon Battista Alberti with a white marble facade. Outdoor view dog-friendly; interior assistance dogs only.`,
+        es: `Obra maestra del Renacimiento temprano de Leon Battista Alberti con fachada de mármol blanco. Vista exterior dog-friendly; interior solo perros de asistencia.`,
+        pt: `Obra-prima do Renascimento inicial de Leon Battista Alberti com fachada de mármore branco. Vista exterior pet-friendly; interior só cães de assistência.`,
+      }},
+      { name: 'Parco Federico Fellini', emoji: '⛲', petFriendly: true, desc: {
+        fr: `Parc verdoyant en bord de mer entre le Grand Hotel et la plage, fontaine, pelouses ombragées et bancs. Chiens bienvenus en laisse, à 15 min du centre.`,
+        en: `Leafy seafront park between the Grand Hotel and the beach, with a fountain, shaded lawns and benches. Leashed dogs welcome, 15 min from the centre.`,
+        es: `Frondoso parque frente al mar entre el Grand Hotel y la playa, con fuente, céspedes con sombra y bancos. Perros con correa bienvenidos, a 15 min del centro.`,
+        pt: `Frondoso parque à beira-mar entre o Grand Hotel e a praia, com fonte, relvados com sombra e bancos. Cães com trela bem-vindos, a 15 min do centro.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture des restaurants de plage et des osterie de Romagne est largement dog-friendly ; la plupart des terrasses accueillent les chiens en laisse.`,
+        `Plage canine Rimini Dog No Problem (Bagno 81-82) : baignade en mer uniquement dans la zone balisée, env. 06h00–08h00 et 18h40–21h00.`,
+        `Laisse obligatoire partout sauf dans l'aire clôturée FIDOPARK du Parco Marecchia, le seul espace sans laisse du centre.`,
+        `Chaleur estivale : juillet-août atteignent près de 30 °C ; promenez tôt ou après le coucher du soleil et testez le sable avant de marcher dessus.`,
+        `Urgences vétérinaires 24h/24 : Casa del Cane e del Gatto (+39 0541 759121) et Veterinari Associati Belli & Bianchi (+39 0541 790262).`,
+      ],
+      en: [
+        `Romagna's beach-club and osteria culture is broadly dog-friendly; most outdoor terraces welcome leashed dogs.`,
+        `Rimini Dog No Problem dog beach (Bagno 81-82): sea swimming only in the buoyed area, roughly 06:00–08:00 and 18:40–21:00.`,
+        `Leash mandatory everywhere except inside Parco Marecchia's fenced FIDOPARK, the only off-leash space in the centre.`,
+        `Summer heat: July–August reach the high 20s°C; walk early or after sunset and test the sand before walking on it.`,
+        `24/7 emergency vets: Casa del Cane e del Gatto (+39 0541 759121) and Veterinari Associati Belli & Bianchi (+39 0541 790262).`,
+      ],
+      es: [
+        `La cultura de los restaurantes de playa y las osterías de Romaña es ampliamente dog-friendly; la mayoría de las terrazas admiten perros con correa.`,
+        `Playa canina Rimini Dog No Problem (Bagno 81-82): baño en el mar solo en la zona balizada, aprox. 06:00–08:00 y 18:40–21:00.`,
+        `Correa obligatoria en todas partes salvo dentro del FIDOPARK vallado del Parco Marecchia, el único espacio sin correa del centro.`,
+        `Calor del verano: julio-agosto rozan los 30 °C; pasee temprano o tras la puesta de sol y pruebe la arena antes de caminar sobre ella.`,
+        `Veterinarios de urgencias 24/7: Casa del Cane e del Gatto (+39 0541 759121) y Veterinari Associati Belli & Bianchi (+39 0541 790262).`,
+      ],
+      pt: [
+        `A cultura dos restaurantes de praia e das osterie da Romanha é amplamente pet-friendly; a maioria das esplanadas aceita cães com trela.`,
+        `Praia canina Rimini Dog No Problem (Bagno 81-82): banho no mar só na zona balizada, cerca de 06:00–08:00 e 18:40–21:00.`,
+        `Trela obrigatória em todo o lado exceto dentro do FIDOPARK vedado do Parco Marecchia, o único espaço sem trela do centro.`,
+        `Calor do verão: julho-agosto rondam os 30 °C; passeie cedo ou após o pôr do sol e teste a areia antes de caminhar sobre ela.`,
+        `Veterinários de urgência 24/7: Casa del Cane e del Gatto (+39 0541 759121) e Veterinari Associati Belli & Bianchi (+39 0541 790262).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Italie dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Gare de Rimini sur la ligne adriatique : trains directs vers Bologne (~1h), Ancône et au-delà ; petits chiens en sac gratuits, grands à demi-tarif + muselière.`,
+        `Aéroport Federico Fellini (RMI) à 8 km ; Bologne (BLQ) à env. 1h30 en train, davantage de vols internationaux.`,
+        `Devise : euro. Bus locaux Start Romagna (ligne rapide Metromare vers Riccione) : petits animaux en sac, grands chiens en laisse avec muselière.`,
+        `À éviter avec un chien en plein été : la plage en milieu de journée (sable brûlant) et les week-ends d'août bondés ; privilégier mai-juin et septembre-octobre.`,
+      ],
+      en: [
+        `Italy is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Rimini station on the Adriatic line: direct trains to Bologna (~1h), Ancona and beyond; small dogs in a carrier free, larger at half-fare + muzzle.`,
+        `Federico Fellini Airport (RMI) is 8 km away; Bologna (BLQ) is about 1h30 by train with more international flights.`,
+        `Currency: euro. Start Romagna local buses (Metromare rapid line to Riccione): small pets in a carrier, larger dogs on a leash with a muzzle.`,
+        `Avoid with a dog in high summer: the beach at midday (scorching sand) and packed August weekends; favour May–June and September–October.`,
+      ],
+      es: [
+        `Italia está en la UE y Schengen: pasaporte europeo + vacuna antirrábica vigente + microchip ISO es suficiente desde cualquier país de la UE.`,
+        `Estación de Rímini en la línea adriática: trenes directos a Bolonia (~1h), Ancona y más allá; perros pequeños en transportín gratis, grandes a media tarifa + bozal.`,
+        `Aeropuerto Federico Fellini (RMI) a 8 km; Bolonia (BLQ) a unos 1h30 en tren con más vuelos internacionales.`,
+        `Moneda: euro. Autobuses locales Start Romagna (línea rápida Metromare a Riccione): mascotas pequeñas en transportín, perros grandes con correa y bozal.`,
+        `A evitar con perro en pleno verano: la playa al mediodía (arena ardiente) y los fines de semana de agosto abarrotados; mejor mayo-junio y septiembre-octubre.`,
+      ],
+      pt: [
+        `Itália está na UE e Schengen: passaporte europeu + vacina antirrábica válida + microchip ISO é suficiente a partir de qualquer país da UE.`,
+        `Estação de Rímini na linha adriática: comboios diretos para Bolonha (~1h), Ancona e além; cães pequenos em transportadora grátis, grandes a meio preço + açaime.`,
+        `Aeroporto Federico Fellini (RMI) a 8 km; Bolonha (BLQ) a cerca de 1h30 de comboio com mais voos internacionais.`,
+        `Moeda: euro. Autocarros locais Start Romagna (linha rápida Metromare para Riccione): animais pequenos em transportadora, cães grandes com trela e açaime.`,
+        `A evitar com cão em pleno verão: a praia ao meio-dia (areia escaldante) e os fins de semana de agosto cheios; prefira maio-junho e setembro-outubro.`,
+      ],
+    },
+  },
+
   rome: {
     history: {
       fr: `Rome est éternelle, et ses chiens le savent depuis l'Antiquité. Les Romains de l'Antiquité tenaient des chiens de chasse, des lévriers et des molosses, souvent représentés sur les mosaïques et bas-reliefs. Aujourd'hui, Rome compte près de 400 000 chiens pour 2,8 millions d'habitants. La ville a cette particularité unique em Italie : les chiens accompagnent leurs maîtres partout, restaurants em terrasse, marchés, piazzas baroques. La tradition du passeggiata (la promenade vespérale) est aussi une tradition canine. Le soir, le long du Tibre ou dans les parcs du Borghese, Rome révèle son visage le plus local et le plus chaleureux.`,

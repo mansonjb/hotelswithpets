@@ -9617,6 +9617,81 @@
     "tiqetsId": "73383"
   },
   {
+    "slug": "rimini",
+    "name": "Rimini",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/rimini.jpg",
+    "intro": "Rimini is the capital of Italy's Adriatic Riviera and one of the country's best beach destinations for dog owners, home to Rimini Dog No Problem (the largest dedicated dog beach on the Emilia-Romagna coast), a fenced off-leash park along the Marecchia river, two 24-hour vets, and a Roman and Renaissance old town that is easy to explore on a leash.",
+    "lat": 44.0678,
+    "lng": 12.5695,
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cold & damp",
+        "icon": "🌥️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cold & breezy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Mild & changeable",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hottest month",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold & damp",
+        "icon": "🌥️"
+      }
+    },
+    "iata": "RMI"
+  },
+  {
     "slug": "rome",
     "name": "Rome",
     "country": "Italy",

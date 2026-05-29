@@ -18541,6 +18541,134 @@
     "petPolicyPt": "New, Quiet, Premium Design, Free Locked Parking warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €20 por noite applies, charged em check-em. Animais são aceites até 10 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "rimini-1",
+    "name": "Grand Hotel Rimini",
+    "destinationSlug": "rimini",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 1850,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/grand-rimini.html",
+    "petFee": 15,
+    "petPolicy": "The historic Grand Hotel Rimini welcomes both dogs and cats on request. Small and medium-sized pets up to 15 kg are accepted in the main building for a fee of 15 EUR per pet, per night, and multiple pets are allowed. Pets are not permitted in the restaurant, on the private beach, or in the annex building, and must be kept on a lead in all common areas. The seafront promenade of Marina Centro right outside the hotel is ideal for early-morning dog walks.",
+    "highlights": [
+      "Private beach area",
+      "Outdoor swimming pool",
+      "Free WiFi"
+    ],
+    "slug": "grand-hotel-rimini"
+  },
+  {
+    "id": "rimini-2",
+    "name": "i-Suite Hotel",
+    "destinationSlug": "rimini",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1120,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/i-suite.html",
+    "petFee": 30,
+    "petPolicy": "The 5-star i-Suite Hotel on Rimini's seafront welcomes pets on request for a fee of 30 EUR per stay. Pet bowls and pet baskets are provided for four-legged guests, and dogs of reasonable size are accepted. Pets must be kept on a lead in shared areas and are not allowed in the spa or restaurant. The hotel sits directly on Viale Regina Elena, a short walk from one of Rimini's authorised dog beaches.",
+    "highlights": [
+      "Spa and wellness centre",
+      "Outdoor pool with hydromassage",
+      "Free WiFi"
+    ],
+    "slug": "i-suite-hotel"
+  },
+  {
+    "id": "rimini-3",
+    "name": "Oxygen Lifestyle Hotel",
+    "destinationSlug": "rimini",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "dogs-stay-free",
+      "no-pet-fee"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1340,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/helvetia-parco.html",
+    "petFee": 0,
+    "petPolicy": "Oxygen Lifestyle Hotel in the Viserbella seafront district welcomes up to two pets of any size completely free of charge. Pets are greeted with a Welcome Pet kit on arrival, and the hotel's garden and adjacent beach make it easy to share walks with your dog. Pets must be kept on a lead in common areas. The hotel can advise on the nearest equipped dog beach a short stroll along the Adriatic shore.",
+    "highlights": [
+      "Garden and children's playground",
+      "Swimming pool with hot tub",
+      "Free WiFi"
+    ],
+    "slug": "oxygen-lifestyle-hotel"
+  },
+  {
+    "id": "rimini-4",
+    "name": "Hotel Corallo Rimini",
+    "destinationSlug": "rimini",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "dogs-stay-free",
+      "no-pet-fee",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 980,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/corallo-rimini.html",
+    "petFee": 0,
+    "petPolicy": "Family-run Hotel Corallo Rimini welcomes dogs of any size at no additional charge. The hotel sits just 100 metres from Beach n. 33, the first pet-authorised beach in central Rimini, which offers water bowls, private showers and waste bags for dogs. Pets must be kept on a lead in indoor common areas. Please mention your pet when booking so a suitable room can be allocated.",
+    "highlights": [
+      "100m from dog-friendly beach",
+      "Free WiFi",
+      "Bicycle hire"
+    ],
+    "slug": "hotel-corallo-rimini"
+  },
+  {
+    "id": "rimini-5",
+    "name": "Hotel Ravello",
+    "destinationSlug": "rimini",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 620,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/ravello-rimini1.html",
+    "petFee": 5,
+    "petPolicy": "Hotel Ravello, a short walk from Libera Beach, welcomes pets for a small fee of 5 EUR per day and provides arriving dogs with a gift box containing a dedicated pet kit. Both dogs and cats are accepted, and pets must be kept on a lead in shared areas. The hotel has an agreement with the nearby Sloth Beach, where dogs have their own dedicated area on the sand.",
+    "highlights": [
+      "Close to Libera Beach",
+      "Restaurant and bar",
+      "Free WiFi"
+    ],
+    "slug": "hotel-ravello"
+  },
+  {
     "id": "rome-1",
     "name": "Anantara Palazzo Naiadi Rome Hotel - A Leading Hotel of the World",
     "destinationSlug": "rome",

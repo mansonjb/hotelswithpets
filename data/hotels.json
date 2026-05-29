@@ -5796,6 +5796,125 @@
     "petPolicyPt": "Aria Hotel Budapest por Library Hotel Collection warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €35 por noite applies, charged em check-em. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "cadiz-1",
+    "name": "Parador de Cadiz",
+    "destinationSlug": "cadiz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 2900,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/parador-atlantico.html",
+    "petFee": 20,
+    "petPolicy": "The contemporary Parador de Cadiz, overlooking the Atlantic, welcomes one small or medium dog or cat up to 25 kg per room for a supplement of 20 EUR per night. Pets receive a bed, water bowl and a welcome snack, and an up-to-date health booklet is required at check-in. Pets must be on a lead, carried or in a carrier within the facilities. The hotel is a five-minute walk from La Caleta Beach, ideal for early-morning seafront walks.",
+    "highlights": [
+      "Outdoor pool with sea views",
+      "Spa and wellness centre",
+      "5 minutes from La Caleta Beach"
+    ],
+    "slug": "parador-de-cadiz"
+  },
+  {
+    "id": "cadiz-2",
+    "name": "Senator Cadiz Spa Hotel",
+    "destinationSlug": "cadiz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 3500,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/spa-senator-cadiz.html",
+    "petFee": 12,
+    "petPolicy": "Senator Cadiz Spa Hotel, in the old town near the port, accepts one dog or cat up to 25 kg per room for a supplement of 12 EUR per night plus a one-off 25 EUR cleaning fee at check-in. Pets must stay in the room and are not permitted in the common areas out of respect for other guests. The old town's seafront promenade and nearby beaches are a short walk away for exercising your pet.",
+    "highlights": [
+      "Seasonal outdoor pool",
+      "Spa and fitness centre",
+      "Free WiFi"
+    ],
+    "slug": "senator-cadiz-spa-hotel"
+  },
+  {
+    "id": "cadiz-3",
+    "name": "Hotel Boutique Las Cortes de Cadiz",
+    "destinationSlug": "cadiz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1600,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hospederia-las-cortes-de-cadiz-cadiz.html",
+    "petFee": 17,
+    "petPolicy": "Hotel Boutique Las Cortes de Cadiz, a restored 19th-century mansion in the historic centre, is pet-friendly and welcomes both dogs and cats for a supplement of around 17 EUR per day. Arriving pets are provided with a dog bed, bowls and treats. Pets must be kept on a lead in the common areas. The cathedral and the seafront ramparts are a short stroll away for daily walks.",
+    "highlights": [
+      "Historic mansion in the old town",
+      "Rooftop terrace",
+      "Free WiFi"
+    ],
+    "slug": "hotel-boutique-las-cortes-de-cadiz"
+  },
+  {
+    "id": "cadiz-4",
+    "name": "Soho Boutique Cadiz",
+    "destinationSlug": "cadiz",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 4400,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/soho-boutique-cadiz.html",
+    "petFee": 12,
+    "petPolicy": "Soho Boutique Cadiz welcomes dogs under 10 kg on request for a supplement of 12 EUR per pet, per night plus a one-time 25 EUR cleaning fee. Pets are accepted in most room types except economy doubles. Dogs must be kept on a lead in the common areas. The hotel's central position makes it easy to reach the old town squares and the seafront for walks.",
+    "highlights": [
+      "Central old-town location",
+      "Free WiFi",
+      "Air conditioning"
+    ],
+    "slug": "soho-boutique-cadiz"
+  },
+  {
+    "id": "cadiz-5",
+    "name": "Soho Boutique Columela",
+    "destinationSlug": "cadiz",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 2100,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/soho-boutique-columela-cadiz.html",
+    "petFee": 12,
+    "petPolicy": "Soho Boutique Columela, in the heart of the historic centre near the cathedral, accepts dogs up to 10 kg for a supplement of 12 EUR per pet, per night plus a 25 EUR per-stay cleaning fee. Dogs must be kept on a lead in shared areas. The hotel sits within easy walking distance of the cathedral, the old town lanes and the seafront promenade, all pleasant for short dog walks.",
+    "highlights": [
+      "Near Cadiz Cathedral",
+      "Free WiFi",
+      "24-hour front desk"
+    ],
+    "slug": "soho-boutique-columela"
+  },
+  {
     "id": "caen-1",
     "name": "Hôtel Mercure Caen Centre Port de Plaisance",
     "destinationSlug": "caen",

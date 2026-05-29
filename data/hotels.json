@@ -17422,6 +17422,127 @@
     "petPolicyPt": "Mandarin Oriental, Paris warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €20 por noite applies, charged em check-em. Animais são aceites até 10 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "perpignan-1",
+    "name": "La Villa Duflot Hotel & Spa Perpignan",
+    "destinationSlug": "perpignan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1100,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/villaduflot.html",
+    "petFee": 15,
+    "petPolicy": "La Villa Duflot Hotel & Spa, set in a quiet garden on the edge of Perpignan, welcomes pets of any size in designated rooms for a fee of 15 EUR per pet, per night. Both dogs and cats are accepted. Pets must be kept on a lead in the gardens and common areas and are not permitted in the restaurant or spa. The leafy grounds and the nearby Parc Sant Vicens give dogs plenty of space to stretch their legs.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Spa and wellness centre",
+      "Garden and free parking"
+    ],
+    "slug": "la-villa-duflot-hotel-spa-perpignan"
+  },
+  {
+    "id": "perpignan-2",
+    "name": "Mercure Perpignan Centre",
+    "destinationSlug": "perpignan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 960,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/perpignan-centre.html",
+    "petFee": 10,
+    "petPolicy": "Mercure Perpignan Centre, in the heart of the old town, allows pets of any size for a fee of 10 EUR per pet, per night, and both dogs and cats are welcome. Pets must be kept on a lead in shared areas. The hotel sits a short walk from the banks of the Basse river and the Promenade des Platanes, both pleasant for dog walks in the shade.",
+    "highlights": [
+      "Central old-town location",
+      "Free WiFi",
+      "Restaurant on site"
+    ],
+    "slug": "mercure-perpignan-centre"
+  },
+  {
+    "id": "perpignan-3",
+    "name": "Kyriad Prestige Perpignan Centre Gare",
+    "destinationSlug": "perpignan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.1,
+    "reviewCount": 1450,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/comfort-centre-del-mon.html",
+    "petFee": 5,
+    "petPolicy": "Kyriad Prestige Perpignan Centre Gare, a 10-minute walk from the historic centre and right by the train station, welcomes pets of any size for a fee of 5 EUR per pet, per night. Both dogs and cats are accepted. Pets must be kept on a lead in the lobby and patio areas. Its central position makes it easy to reach the river promenades and shaded squares for daily walks.",
+    "highlights": [
+      "Next to the train station",
+      "Patio and bar",
+      "Free WiFi"
+    ],
+    "slug": "kyriad-prestige-perpignan-centre-gare"
+  },
+  {
+    "id": "perpignan-4",
+    "name": "ibis Styles Perpignan Centre Gare",
+    "destinationSlug": "perpignan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 1200,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-perpignan-centre.html",
+    "petFee": 5,
+    "petPolicy": "ibis Styles Perpignan Centre Gare, a five-minute walk from the historic centre, accepts pets of any size for a fee of 5 EUR per pet, per night, and both dogs and cats are welcome. Pets must be kept on a lead in the common areas. The hotel's central location near the station puts the Promenade des Platanes and the river walks within easy reach for exercising your dog.",
+    "highlights": [
+      "Close to the historic centre",
+      "Free WiFi",
+      "Buffet breakfast"
+    ],
+    "slug": "ibis-styles-perpignan-centre-gare"
+  },
+  {
+    "id": "perpignan-5",
+    "name": "Kyriad Perpignan Sud",
+    "destinationSlug": "perpignan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 820,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/kyriad-perpignan-sud-xml.html",
+    "petFee": 15,
+    "petPolicy": "Kyriad Perpignan Sud, near the A9 motorway exit towards Spain, allows dogs of any size for a fee of 15 EUR per night plus a refundable 150 EUR deposit, and cats may be accepted by request. Pets must be kept on a lead in shared areas. With free parking and a roadside setting, it is a convenient stop for travellers driving the Mediterranean coast with a pet.",
+    "highlights": [
+      "Free private parking",
+      "Family rooms",
+      "Free WiFi"
+    ],
+    "slug": "kyriad-perpignan-sud"
+  },
+  {
     "id": "pisa-1",
     "name": "Bagni di Pisa Palace & Thermal Spa",
     "destinationSlug": "pisa",

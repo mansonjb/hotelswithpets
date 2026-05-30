@@ -9607,6 +9607,123 @@
     "petPolicyPt": "Animais permitidos por 20 EUR por estadia. Water bowls e um animal bem-vindos kit fornecido. All sizes bem-vindos."
   },
   {
+    "id": "frejus-1",
+    "name": "Hôtel l'Aréna",
+    "destinationSlug": "frejus",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 950,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/l-39-arena-frejus.html",
+    "petFee": 10,
+    "petPolicy": "Pets are welcome on request for around EUR 10 per night, dogs and cats accepted. A charming hotel in the old town between the Roman amphitheatre and the cathedral, a 15-minute walk from Plage de Fréjus and the Base Nature park where dogs roam off-leash on a dedicated stretch.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Garden",
+      "On-site restaurant"
+    ],
+    "slug": "hotel-l-arena-frejus"
+  },
+  {
+    "id": "frejus-2",
+    "name": "ibis Styles Fréjus Saint Raphaël",
+    "destinationSlug": "frejus",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 1300,
+    "priceFrom": 92,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/kyriad-frejus-saint-raphael.html",
+    "petFee": 5,
+    "petPolicy": "Pets welcome for EUR 5 per pet per night, dogs and cats accepted with food and water bowls provided. Central position between Fréjus port and Saint-Raphaël, five minutes by car from Plage de Fréjus and the Esterel coastal road famous for its red cliffs and shaded picnic spots.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free WiFi",
+      "24-hour front desk"
+    ],
+    "slug": "ibis-styles-frejus-saint-raphael"
+  },
+  {
+    "id": "frejus-3",
+    "name": "ibis budget Fréjus Saint Raphaël Centre et Plage",
+    "destinationSlug": "frejus",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 7.7,
+    "reviewCount": 1100,
+    "priceFrom": 62,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-budget-frejus-saint-raphael.html",
+    "petFee": 5,
+    "petPolicy": "Pets welcome for EUR 5 per pet per night, both dogs and cats accepted. A simple budget base in central Fréjus, a five-minute walk from the train station and 15 minutes by foot to the seafront promenade and its long sandy beach.",
+    "highlights": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Air conditioning"
+    ],
+    "slug": "ibis-budget-frejus-saint-raphael"
+  },
+  {
+    "id": "frejus-4",
+    "name": "La Bastide Du Clos des Roses - Teritoria",
+    "destinationSlug": "frejus",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 480,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/la-bastide-du-clos-frejus.html",
+    "petFee": 15,
+    "petPolicy": "Dogs of any size welcome for EUR 15 per night. Cats are not accepted. A peaceful country house on a 36-hectare estate in the Esterel foothills, with vineyards and forest paths right at the door for long off-leash walks far from the coastal crowds.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Garden",
+      "On-site restaurant"
+    ],
+    "slug": "la-bastide-du-clos-des-roses-frejus"
+  },
+  {
+    "id": "frejus-5",
+    "name": "Hôtel Athéna",
+    "destinationSlug": "frejus",
+    "categories": [
+      "dog-friendly",
+      "beach-access"
+    ],
+    "stars": 2,
+    "rating": 7.8,
+    "reviewCount": 420,
+    "priceFrom": 78,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/athena.html",
+    "petFee": 8,
+    "petPolicy": "Dogs of any size welcome for EUR 8 per pet per night. Cats are not accepted. Located in the Saint-Aygulf area of Fréjus, a short walk from the long sandy beach and the marshland walking trails of the Étangs de Villepey, a quiet reserve where leashed dogs can roam.",
+    "highlights": [
+      "Free private parking",
+      "Free WiFi",
+      "On-site restaurant"
+    ],
+    "slug": "hotel-athena-frejus"
+  },
+  {
     "id": "funchal-1",
     "name": "Reid's Palace, A Belmond Hotel, Madeira",
     "destinationSlug": "funchal",

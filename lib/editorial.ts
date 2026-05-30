@@ -61,6 +61,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Pont des Amours and the Vieille Ville canals, the 42 km flat lake-circuit cycle path, and the Semnoz forest summit at 1 699 m`,
       area: `the Vieille Ville around the Palais de l'Île, the Pâquier and Albigny lakefront, and the residential Annecy-le-Vieux`,
     },
+    antibes: {
+      personality: `a Côte d'Azur port wrapped by 16th-century Vauban ramparts, with one of the Riviera's most rewarding dog walks around Cap d'Antibes and a Provençal market under iron canopies in the Vieil Antibes`,
+      highlight: `the 5 km Sentier du Littoral (Tirepoil) coastal trail around Cap d'Antibes, the ramparts walk above Port Vauban, and the off-season Plage de la Salis`,
+      area: `the walled Vieil Antibes around Cours Masséna and Port Vauban, the Cap d'Antibes residential cape, and the Pinède seafront in Juan-les-Pins`,
+    },
     antwerp: {
       personality: 'Belgium\'s fashion capital and one of its most dog-forward cities. With vast riverside parks, dog-welcoming terraces, and a thriving boutique hotel scene',
       highlight: 'the Rivierenhof park, the Schelde riverside promenade, and the Nachtegalenpark',
@@ -929,6 +934,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Pont des Amours et les canaux de la Vieille Ville, la piste cyclable plate de 42 km du tour du lac, et le sommet du Semnoz à 1 699 m`,
       area: `la Vieille Ville autour du Palais de l'Île, le Pâquier et le bord de lac d'Albigny, et le résidentiel Annecy-le-Vieux`,
     },
+    antibes: {
+      personality: `un port de la Côte d'Azur ceint des remparts Vauban du XVIe siècle, avec l'une des plus belles balades canines de la Riviera autour du Cap d'Antibes et un marché provençal sous halle métallique dans le Vieil Antibes`,
+      highlight: `le Sentier du Littoral (Tirepoil) de 5 km au pourtour du Cap d'Antibes, la promenade des remparts au-dessus du Port Vauban et la Plage de la Salis hors saison`,
+      area: `le Vieil Antibes intra-muros autour du Cours Masséna et du Port Vauban, le Cap d'Antibes résidentiel et la Pinède de Juan-les-Pins en bord de mer`,
+    },
     antwerp: {
       personality: 'la capitale de la mode belge et l\'une de ses villes les plus dog-friendly. Avec de vastes parcs riverains, des terrasses accueillantes pour les chiens et un secteur hôtelier boutique florissant',
       highlight: 'le parc Rivierenhof, la promenade riveraine de l\'Escaut et le Nachtegalenpark',
@@ -1796,6 +1806,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Pont des Amours y los canales del Casco Antiguo, el sendero ciclista plano de 42 km de la vuelta al lago, y la cima del Semnoz a 1 699 m`,
       area: `el Casco Antiguo alrededor del Palais de l'Île, el Pâquier y el frente lacustre de Albigny, y el residencial Annecy-le-Vieux`,
     },
+    antibes: {
+      personality: `un puerto de la Costa Azul ceñido por las murallas Vauban del siglo XVI, con uno de los paseos caninos más bellos de la Riviera alrededor del Cap d'Antibes y un mercado provenzal bajo marquesina metálica en el Vieil Antibes`,
+      highlight: `el Sentier du Littoral (Tirepoil) de 5 km alrededor del Cap d'Antibes, el paseo de las murallas sobre el Port Vauban, y la Plage de la Salis fuera de temporada`,
+      area: `el Vieil Antibes intramuros alrededor del Cours Masséna y el Port Vauban, el Cap d'Antibes residencial, y la Pinède de Juan-les-Pins frente al mar`,
+    },
     antwerp: {
       personality: 'la capital de la moda de Bélgica y una de sus ciudades más dog-friendly. Con amplios parques ribereños, terrazas acogedoras para perros y un floreciente sector de hoteles boutique',
       highlight: 'el parque Rivierenhof, el paseo ribereño del Escalda y el Nachtegalenpark',
@@ -2662,6 +2677,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a « Venecia dos Alpes », Centro histórico medieval clasificado a lo largo dos canales, o lago grande mais limpio de Europa com spots de banho canino o ano inteiro, e o floresta do Semnoz de 4 000 ha com 50 km de trilhos sem trela directamente al sur do centro`,
       highlight: `o Pont des Amours e os canales do centro histórico, o trilho ciclista plano de 42 km da vuelta al lago, e a cima do Semnoz a 1 699 m`,
       area: `o Centro histórico alrededor do Palais de l'Île, o Pâquier e o frente lacustre de Albigny, e o residencial Annecy-le-Vieux`,
+    },
+    antibes: {
+      personality: `um porto da Côte d'Azur cingido pelas muralhas Vauban do século XVI, com um dos passeios caninos mais bonitos da Riviera em torno do Cap d'Antibes e um mercado provençal sob pala metálica no Vieil Antibes`,
+      highlight: `o Sentier du Littoral (Tirepoil) de 5 km à volta do Cap d'Antibes, o passeio das muralhas acima do Port Vauban, e a Plage de la Salis fora de época`,
+      area: `o Vieil Antibes intramuros à volta do Cours Masséna e do Port Vauban, o Cap d'Antibes residencial, e a Pinède de Juan-les-Pins à beira-mar`,
     },
     antwerp: {
       personality: 'a capital da moda de Bélgica e uma dos seus cidades mais pet-friendly. Com amplios parques riberenhos, esplanadas acogedoras para cães e um floreciente sector de hotéis boutique',

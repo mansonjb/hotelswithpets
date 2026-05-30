@@ -153,6 +153,9 @@ const TARGETS = [
   { slug: 'santiago-de-compostela', query: 'Santiago de Compostela Spain Cathedral Praza do Obradoiro Galicia old town granite spires panorama sunset' },
   { slug: 'vigo', query: 'Vigo Spain Ria de Vigo port harbour Castro park Cies Islands Galicia Atlantic panorama sunset' },
   { slug: 'marbella', query: 'Marbella Spain Casco Antiguo Plaza de los Naranjos whitewashed old town Andalusia Mediterranean panorama' },
+  { slug: 'antibes', query: 'Antibes France Vieille Ville Vauban port Mediterranean ramparts Cap d Antibes panorama sunset' },
+  { slug: 'hyeres', query: 'Hyeres France Vieille Ville medieval streets palm trees Var Mediterranean panorama sunset' },
+  { slug: 'frejus', query: 'Frejus France Roman amphitheatre Provencal old town Esterel red rocks Mediterranean panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

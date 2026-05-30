@@ -603,6 +603,81 @@
     "iata": "GVA"
   },
   {
+    "slug": "antibes",
+    "name": "Antibes",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/antibes.jpg",
+    "intro": "Antibes pairs the Vauban ramparts, Provençal market and Cap d'Antibes coastal trail with a relaxed Côte d'Azur attitude to dogs on terraces, the Sentier de Tirepoil and the off-season Salis beach all welcome leashed dogs year-round.",
+    "lat": 43.5808,
+    "lng": 7.1251,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & mild",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild with sun",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & mild",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "NCE"
+  },
+  {
     "slug": "antwerp",
     "name": "Antwerp",
     "country": "Belgium",
@@ -3015,7 +3090,7 @@
     "heroImage": "/images/destinations/burgos.jpg",
     "intro": "Burgos crowns the Castilian plateau with its UNESCO Gothic cathedral, a key stop on the Camino de Santiago, eleven dog parks and easy riverside walks with your pet.",
     "lat": 42.3439,
-    "lng": -3.6970,
+    "lng": -3.697,
     "weather": {
       "jan": {
         "temp": 4,

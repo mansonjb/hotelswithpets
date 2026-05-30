@@ -962,6 +962,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  antibes: {
+    history: {
+      fr: `Antibes, fondée par les Phocéens au VIe siècle av. J.-C. sous le nom d'Antipolis (« la ville face à Nice »), est l'un des plus anciens ports de la Côte d'Azur. Romaine, génoise, puis française à partir de 1481, elle reçut au XVIIe siècle les remparts Vauban qui dessinent encore son front de mer. Au XIXe siècle, l'aristocratie russe et britannique en fit une retraite hivernale, puis Juan-les-Pins inventa la villégiature estivale avec son casino de 1909. Picasso travailla quelques mois en 1946 au Château Grimaldi qui abrite aujourd'hui le musée portant son nom. Pour le voyageur avec chien ou chat, la France impose le passeport européen, la puce électronique et la rage en cours de validité. À Antibes, les chiens en laisse sont admis sur les remparts, le Port Vauban, le Marché Provençal et le Sentier du Littoral du Cap d'Antibes toute l'année ; les plages municipales (Salis, Garoupe, Gravette) leur sont interdites du 15 juin au 15 septembre.`,
+      en: `Antibes was founded by the Phocaeans in the 6th century BC under the name Antipolis (the city facing Nice) and remains one of the oldest ports on the Côte d'Azur. Roman, then Genoese, then French from 1481, it gained its sea-facing Vauban ramparts in the 17th century. In the 19th century, Russian and British aristocrats made it a winter retreat, and Juan-les-Pins invented the summer-resort model around its 1909 casino. Picasso worked for a few months in 1946 at the Château Grimaldi, which today houses the museum that bears his name. For travelling pets, France requires the EU pet passport, ISO microchip and a valid rabies vaccination. Dogs on leads are welcome on the ramparts, at Port Vauban, in the Marché Provençal and along the Cap d'Antibes coastal trail year-round; municipal beaches (La Salis, La Garoupe, La Gravette) ban dogs from 15 June to 15 September.`,
+      es: `Antibes, fundada por los focenses en el siglo VI a.C. con el nombre de Antípolis (la ciudad frente a Niza), sigue siendo uno de los puertos más antiguos de la Costa Azul. Romana, luego genovesa, francesa desde 1481, recibió en el siglo XVII las murallas Vauban que aún dibujan su frente marítimo. En el siglo XIX la aristocracia rusa y británica hizo de ella un retiro invernal, y Juan-les-Pins inventó la villeggiatura estival en torno a su casino de 1909. Picasso trabajó unos meses en 1946 en el Château Grimaldi, hoy museo que lleva su nombre. Para las mascotas viajeras, Francia exige el pasaporte europeo, microchip ISO y vacunación antirrábica vigente. Los perros con correa son bienvenidos en las murallas, el Port Vauban, el Marché Provençal y el Sentier du Littoral del Cap d'Antibes todo el año; las playas municipales (Salis, Garoupe, Gravette) los prohíben del 15 de junio al 15 de septiembre.`,
+      pt: `Antibes, fundada pelos foceus no século VI a.C. com o nome de Antipolis (a cidade defronte de Nice), continua a ser um dos portos mais antigos da Côte d'Azur. Romana, depois genovesa, francesa a partir de 1481, recebeu no século XVII as muralhas Vauban que ainda desenham a sua frente-mar. No século XIX a aristocracia russa e britânica fez dela um refúgio de inverno, e Juan-les-Pins inventou a vilegiatura de verão em torno do seu casino de 1909. Picasso trabalhou alguns meses em 1946 no Château Grimaldi, hoje museu que tem o seu nome. Para os animais em viagem, a França exige o passaporte europeu, microchip ISO e vacinação antirrábica válida. Os cães com trela são bem-vindos nas muralhas, no Port Vauban, no Marché Provençal e no Sentier du Littoral do Cap d'Antibes todo o ano; as praias municipais (Salis, Garoupe, Gravette) proíbem cães de 15 de junho a 15 de setembro.`,
+    },
+    sights: [
+      {
+        name: `Vieil Antibes`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          fr: `Le Vieil Antibes, à l'intérieur des remparts Vauban, est un dédale de ruelles pavées autour du Cours Masséna et du Château Grimaldi. Les chiens en laisse y sont parfaitement à leur place : terrasses partout, fontaines pour boire, et un circuit naturel d'environ 45 minutes le long des remparts et du Port Vauban.`,
+          en: `The Vieil Antibes, inside the Vauban ramparts, is a maze of cobbled lanes around Cours Masséna and the Château Grimaldi. Leashed dogs are entirely at home here, with terraces everywhere, public fountains and a natural 45-minute circuit along the ramparts and Port Vauban.`,
+          es: `El Vieil Antibes, dentro de las murallas Vauban, es un laberinto de callejones empedrados alrededor del Cours Masséna y el Château Grimaldi. Los perros con correa están en su elemento, con terrazas por todas partes, fuentes públicas y un circuito natural de 45 minutos por las murallas y el Port Vauban.`,
+          pt: `O Vieil Antibes, dentro das muralhas Vauban, é um labirinto de ruelas calcetadas em torno do Cours Masséna e do Château Grimaldi. Os cães com trela estão à vontade, com esplanadas por todo o lado, fontes públicas e um circuito natural de 45 minutos pelas muralhas e Port Vauban.`,
+        },
+      },
+      {
+        name: `Sentier du Littoral (Tirepoil)`,
+        emoji: `🌊`,
+        petFriendly: true,
+        desc: {
+          fr: `Le sentier côtier de 5 km qui contourne la pointe rocheuse du Cap d'Antibes est l'une des plus belles randonnées canines de la Riviera. Le site officiel du tourisme précise que les chiens en laisse y sont bienvenus. Comptez 1 à 2 heures à allure normale et de bonnes chaussures : la roche glisse à l'humidité.`,
+          en: `The 5 km coastal trail around the rocky tip of Cap d'Antibes is one of the finest dog walks on the Riviera. The official tourism site explicitly welcomes leashed dogs. Allow 1 to 2 hours at normal pace and wear sturdy shoes: the rock is slippery when wet.`,
+          es: `El sendero costero de 5 km que rodea la punta rocosa del Cap d'Antibes es uno de los mejores paseos caninos de la Riviera. El sitio oficial de turismo da expresamente la bienvenida a los perros con correa. Calcula 1 a 2 horas a paso normal y calzado robusto: la roca resbala en mojado.`,
+          pt: `O trilho costeiro de 5 km que contorna a ponta rochosa do Cap d'Antibes é um dos melhores passeios caninos da Riviera. O site oficial do turismo dá expressamente as boas-vindas a cães com trela. Conte 1 a 2 horas a passo normal e calçado firme: a rocha escorrega com humidade.`,
+        },
+      },
+      {
+        name: `Marché Provençal`,
+        emoji: `🛒`,
+        petFriendly: true,
+        desc: {
+          fr: `Sous la halle métallique du Cours Masséna, le Marché Provençal ouvre tous les matins sauf le lundi en hiver, tous les jours en été : légumes du Var, poissons, fromages, fleurs, socca et tapenade. Les chiens en laisse sont admis entre les étals et les commerçants y sont coutumiers.`,
+          en: `Under the iron canopy of Cours Masséna, the Marché Provençal opens every morning except Monday in winter and daily in summer: Var vegetables, fish, cheese, flowers, socca and tapenade. Leashed dogs are welcome between the stalls and the vendors are entirely accustomed to them.`,
+          es: `Bajo la marquesina metálica del Cours Masséna, el Marché Provençal abre todas las mañanas excepto los lunes en invierno y a diario en verano: verduras del Var, pescado, quesos, flores, socca y tapenade. Los perros con correa son bienvenidos entre los puestos y los comerciantes están acostumbrados.`,
+          pt: `Sob a pala metálica do Cours Masséna, o Marché Provençal abre todas as manhãs exceto à segunda no inverno e diariamente no verão: legumes do Var, peixe, queijos, flores, socca e tapenade. Os cães com trela são aceites entre as bancas e os comerciantes estão habituados.`,
+        },
+      },
+      {
+        name: `Port Vauban`,
+        emoji: `⛵`,
+        petFriendly: true,
+        desc: {
+          fr: `L'une des plus grandes marinas d'Europe, avec son célèbre Quai des Milliardaires. La promenade plane autour du bassin se prête à un tour de 30 minutes avec un chien à toute heure de l'année, et la vue depuis le Bastion Saint-André sur la baie et les Alpes vaut le détour.`,
+          en: `One of Europe's largest yacht marinas, including the famous Quai des Milliardaires. The flat promenade around the basin makes a 30-minute walk with a dog at any time of year, and the view from the Bastion Saint-André across the bay to the Alps is worth the detour.`,
+          es: `Una de las mayores marinas de Europa, con el famoso Quai des Milliardaires. El paseo llano alrededor de la dársena se presta a una vuelta de 30 minutos con un perro a cualquier hora del año, y la vista desde el Bastion Saint-André sobre la bahía y los Alpes merece el rodeo.`,
+          pt: `Uma das maiores marinas da Europa, com o famoso Quai des Milliardaires. O passeio plano em torno da doca presta-se a uma volta de 30 minutos com um cão a qualquer hora do ano, e a vista do Bastion Saint-André sobre a baía e os Alpes vale o desvio.`,
+        },
+      },
+      {
+        name: `Pinède Gould (Juan-les-Pins)`,
+        emoji: `🌲`,
+        petFriendly: true,
+        desc: {
+          fr: `Le bosquet de pins parasols en bord de mer à Juan-les-Pins, derrière le casino, est le lieu de balade quotidien des maîtres juanais. Allées sableuses plates, ombre épaisse et poubelles à chaque entrée. Fermée pendant le festival Jazz à Juan à la mi-juillet.`,
+          en: `The seafront umbrella-pine grove behind the Juan-les-Pins casino is the daily walking ground of local owners: flat sandy paths, deep shade and bins at every entrance. Closed during the Jazz à Juan festival in mid-July.`,
+          es: `El pinar de pinos piñoneros junto al mar detrás del casino de Juan-les-Pins es el paseo diario de los dueños locales: senderos planos de arena, sombra densa y papeleras en cada entrada. Cerrado durante el festival Jazz à Juan a mediados de julio.`,
+          pt: `O pinhal de pinheiros-mansos à beira-mar por trás do casino de Juan-les-Pins é o passeio diário dos donos locais: trilhos planos de areia, sombra densa e caixotes em cada entrada. Fechado durante o festival Jazz à Juan em meados de julho.`,
+        },
+      },
+      {
+        name: `Plage de la Salis (off-season)`,
+        emoji: `🏖️`,
+        petFriendly: true,
+        desc: {
+          fr: `Le grand croissant de sable entre la Vieille Ville et le Cap, avec la plus belle vue sur les remparts d'Antibes. Interdite aux chiens du 15 juin au 15 septembre, elle redevient hors saison l'un des meilleurs spots de balade canine de la Riviera, surtout à l'aube.`,
+          en: `The long sandy crescent between the Old Town and the Cap, with the finest view of Antibes' ramparts. Closed to dogs from 15 June to 15 September, in the off-season it becomes one of the best dog-walking beaches on the Riviera, especially at dawn.`,
+          es: `La larga media luna de arena entre el casco antiguo y el Cap, con la mejor vista de las murallas de Antibes. Prohibida a perros del 15 de junio al 15 de septiembre; fuera de temporada se convierte en una de las mejores playas para pasear con perro en la Riviera, sobre todo al amanecer.`,
+          pt: `A longa meia-lua de areia entre o centro histórico e o Cap, com a melhor vista das muralhas de Antibes. Proibida a cães de 15 de junho a 15 de setembro; fora de época torna-se uma das melhores praias para passear cão na Riviera, sobretudo ao amanhecer.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les plages municipales surveillées (Salis, Garoupe, Gravette, Ponteil, plages de Juan) interdisent les chiens du 15 juin au 15 septembre. Repliez-vous sur les criques du Sentier du Littoral du Cap d'Antibes, accessibles toute l'année.`,
+        `Le Parc Exflora entre Antibes et Golfe-Juan n'admet pas les chiens : ne planifiez pas votre balade jardin là-bas. Préférez la Pinède Gould ou les remparts d'Antibes.`,
+        `Le réseau Envibus n'accepte que les chiens-guides et les petits animaux en cage fermée. Pour parcourir la Riviera (Cannes 10 min, Nice 20 min), prenez le TER plutôt que le bus.`,
+        `En juillet-août, promenez avant 9h ou après 19h : la pierre calcaire des remparts et les rochers du Cap renvoient une chaleur qui peut brûler les coussinets.`,
+        `Le Cabinet Vétérinaire de la Clairière (04 93 61 06 78) à Juan-les-Pins assure les urgences 24h/24 sur appel ; le numéro national 3115 fonctionne aussi sur toute la côte.`,
+      ],
+      en: [
+        `Supervised municipal beaches (Salis, Garoupe, Gravette, Ponteil, plages de Juan) ban dogs from 15 June to 15 September. Fall back on the Sentier du Littoral coves around Cap d'Antibes, accessible year-round.`,
+        `Parc Exflora between Antibes and Golfe-Juan does not admit dogs at all: do not plan a garden walk there. Use the Pinède Gould or the Antibes ramparts instead.`,
+        `The Envibus bus network only accepts guide dogs and small enclosed-carrier pets. For cross-Riviera trips (Cannes 10 min, Nice 20 min), take TER trains rather than the bus.`,
+        `In July and August walk before 9am or after 7pm: the limestone ramparts and Cap rocks reflect heat that can burn paw pads.`,
+        `Cabinet Vétérinaire de la Clairière (04 93 61 06 78) in Juan-les-Pins handles 24/7 emergencies on call; the national 3115 hotline also works along the whole coast.`,
+      ],
+      es: [
+        `Las playas municipales vigiladas (Salis, Garoupe, Gravette, Ponteil, playas de Juan) prohíben perros del 15 de junio al 15 de septiembre. Repliégate a las calas del Sentier du Littoral del Cap d'Antibes, accesibles todo el año.`,
+        `El Parc Exflora entre Antibes y Golfe-Juan no admite perros en absoluto: no planifiques un paseo de jardín allí. Usa la Pinède Gould o las murallas de Antibes.`,
+        `La red Envibus solo acepta perros guía y mascotas pequeñas en transportín cerrado. Para recorrer la Riviera (Cannes 10 min, Niza 20 min), toma el TER en lugar del bus.`,
+        `En julio y agosto pasea antes de las 9:00 o después de las 19:00: las murallas de caliza y las rocas del Cap reflejan un calor que puede quemar las almohadillas.`,
+        `Cabinet Vétérinaire de la Clairière (04 93 61 06 78) en Juan-les-Pins atiende urgencias 24/7 por llamada; el número nacional 3115 también funciona en toda la costa.`,
+      ],
+      pt: [
+        `As praias municipais vigiadas (Salis, Garoupe, Gravette, Ponteil, praias de Juan) proíbem cães de 15 de junho a 15 de setembro. Recue para as enseadas do Sentier du Littoral do Cap d'Antibes, acessíveis todo o ano.`,
+        `O Parc Exflora entre Antibes e Golfe-Juan não admite cães de todo: não planeie um passeio de jardim lá. Use a Pinède Gould ou as muralhas de Antibes.`,
+        `A rede Envibus só aceita cães-guia e pequenos animais em transportadora fechada. Para deslocações pela Riviera (Cannes 10 min, Nice 20 min), use o TER em vez do autocarro.`,
+        `Em julho e agosto passeie antes das 9h ou depois das 19h: as muralhas de calcário e as rochas do Cap refletem um calor que pode queimar as patas.`,
+        `Cabinet Vétérinaire de la Clairière (04 93 61 06 78) em Juan-les-Pins atende urgências 24/7 por chamada; o número nacional 3115 também funciona em toda a costa.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Accès : la Gare SNCF d'Antibes est sur la ligne côtière entre Cannes (10 min) et Nice (20 min), TER toutes les 15 à 30 min. Aéroport Nice Côte d'Azur (NCE) à 25 min en taxi. Chiens <6 kg en cage 7,50 € ; >6 kg laisse + muselière à 50 % du tarif adulte.`,
+        `Plages : interdites aux chiens du 15 juin au 15 septembre (Salis, Garoupe, Gravette, Ponteil, Juan-les-Pins). Criques du Sentier du Littoral et coves du Cap accessibles toute l'année.`,
+        `Parcs : Pinède Gould, Jardin Albert 1er et chemin des remparts ouverts aux chiens en laisse. Le Parc Exflora n'admet pas les chiens.`,
+        `Vétérinaires : Cabinet de la Clairière (Juan-les-Pins, 04 93 61 06 78, urgences 24h/24), Clinique Antibes-Les-Pins (Antibes, relais Clausonnes 04 93 65 40 54 hors horaires), 3115 national gratuit.`,
+        `Documents : passeport européen, puce ISO et rage en cours de validité obligatoires. Voyageurs hors UE (Royaume-Uni, États-Unis) : certificat sanitaire ou endossement USDA APHIS.`,
+      ],
+      en: [
+        `Getting there: Antibes SNCF station sits on the coastal line between Cannes (10 min) and Nice (20 min), TER every 15 to 30 min. Nice Côte d'Azur Airport (NCE) is 25 min by taxi. Dogs <6 kg in carrier 7.50 EUR; >6 kg leash and muzzle at 50% adult fare.`,
+        `Beaches: dogs banned 15 June–15 September (Salis, Garoupe, Gravette, Ponteil, Juan-les-Pins). Sentier du Littoral coves and unsupervised Cap shorelines are accessible year-round.`,
+        `Parks: Pinède Gould, Jardin Albert 1er and the ramparts walk all welcome leashed dogs. Parc Exflora does not admit dogs.`,
+        `Vets: Cabinet de la Clairière (Juan-les-Pins, 04 93 61 06 78, 24/7 on-call), Clinique Antibes-Les-Pins (out-of-hours relay to Clausonnes 04 93 65 40 54), and the free national 3115 hotline.`,
+        `Documents: EU pet passport, ISO microchip and valid rabies vaccination required. Non-EU travellers (UK, US) need an Animal Health Certificate or USDA APHIS endorsement.`,
+      ],
+      es: [
+        `Cómo llegar: la Gare SNCF d'Antibes está en la línea costera entre Cannes (10 min) y Niza (20 min), TER cada 15 a 30 min. Aeropuerto Nice Côte d'Azur (NCE) a 25 min en taxi. Perros <6 kg en transportín 7,50 €; >6 kg correa y bozal al 50 % de la tarifa adulta.`,
+        `Playas: perros prohibidos del 15 de junio al 15 de septiembre (Salis, Garoupe, Gravette, Ponteil, Juan-les-Pins). Calas del Sentier du Littoral y orillas no vigiladas del Cap accesibles todo el año.`,
+        `Parques: Pinède Gould, Jardin Albert 1er y el paseo de las murallas reciben perros con correa. El Parc Exflora no admite perros.`,
+        `Veterinarios: Cabinet de la Clairière (Juan-les-Pins, 04 93 61 06 78, guardia 24/7), Clinique Antibes-Les-Pins (relevo fuera de horario a Clausonnes 04 93 65 40 54), y el número gratuito nacional 3115.`,
+        `Documentos: pasaporte europeo, microchip ISO y vacunación antirrábica vigente obligatorios. Viajeros no UE (Reino Unido, EE. UU.) necesitan certificado sanitario o endoso USDA APHIS.`,
+      ],
+      pt: [
+        `Como chegar: a Gare SNCF d'Antibes está na linha costeira entre Cannes (10 min) e Nice (20 min), TER a cada 15 a 30 min. Aeroporto Nice Côte d'Azur (NCE) a 25 min de táxi. Cães <6 kg em transportadora 7,50 €; >6 kg trela e açaime a 50 % da tarifa adulta.`,
+        `Praias: cães proibidos de 15 de junho a 15 de setembro (Salis, Garoupe, Gravette, Ponteil, Juan-les-Pins). Enseadas do Sentier du Littoral e costas não vigiadas do Cap acessíveis todo o ano.`,
+        `Parques: Pinède Gould, Jardin Albert 1er e o passeio das muralhas aceitam cães com trela. O Parc Exflora não admite cães.`,
+        `Veterinários: Cabinet de la Clairière (Juan-les-Pins, 04 93 61 06 78, urgência 24/7), Clinique Antibes-Les-Pins (encaminhamento fora de horas para Clausonnes 04 93 65 40 54) e o número gratuito nacional 3115.`,
+        `Documentos: passaporte europeu, microchip ISO e vacinação antirrábica válida obrigatórios. Viajantes não-UE (Reino Unido, EUA) precisam de certificado sanitário ou endosso USDA APHIS.`,
+      ],
+    },
+  },
+
   antwerp: {
     history: {
       fr: `Anvers, capitale flamande du diamant et deuxième ville de Belgique, est une puissance commerciale depuis le XVIe siècle, époque où Rubens peignait et où le port rivalisait avec Venise. Aujourd'hui, ses 530 000 habitants partagent la ville avec une densité canine inhabituelle, la Flandre affiche l'un des plus hauts taux de possession de chiens d'Europe, et Anvers compte plusieurs centaines de zones de liberté clôturées (hondenlosloopzones). La ville prend le bien-être animal au sérieux : tous les chiens doivent être pucés et enregistrés dans DogID, et la laisse est stricte hors des zones désignées. Ville d'avant-garde grâce aux 'Six d'Anvers', elle est aussi étonnamment accueillante envers les compagnons à quatre pattes dans ses cafés et boutiques. Les quais de l'Escaut, le Grote Markt médiéval et le vaste parc de sculptures Middelheim sont des terrains de promenade de choix.`,

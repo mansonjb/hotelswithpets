@@ -1070,6 +1070,127 @@
     "petPolicyPt": "Best Western Hôtel International Annecy, um 3-star hotel near o train station com em-site free parking, welcomes animais em 12 € por noite. One animal per quarto standard, second em prior pedido. Vieille Ville 8 min em foot, lake 12 min."
   },
   {
+    "id": "antibes-1",
+    "name": "Hôtel Beau Site - Cap d'Antibes",
+    "destinationSlug": "antibes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 720,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/beau-site.html",
+    "petFee": 18,
+    "petPolicy": "Pets under 15 kg are welcome for EUR 18 per night. The hotel sits on the Cap d'Antibes peninsula, a 10-minute walk from the start of the Sentier du Littoral coastal trail where leashed dogs can join the cliffside loop to Plage de la Garoupe.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Garden",
+      "Free WiFi"
+    ],
+    "slug": "hotel-beau-site-cap-d-antibes"
+  },
+  {
+    "id": "antibes-2",
+    "name": "Royal Antibes - Luxury Hotel, Résidence, Beach & Spa",
+    "destinationSlug": "antibes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1850,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/residence-royal.html",
+    "petFee": 25,
+    "petPolicy": "One pet up to 35 kg accepted in apartments and suites for EUR 25 per night (not allowed in classic, superior or deluxe rooms). Both dogs and cats are welcome. The hotel has its own private beach on Plage de la Salis and faces a long seafront promenade ideal for early-morning walks.",
+    "highlights": [
+      "Private beach",
+      "Spa",
+      "Sea view"
+    ],
+    "slug": "royal-antibes-luxury-hotel"
+  },
+  {
+    "id": "antibes-3",
+    "name": "Hôtel Belles Rives",
+    "destinationSlug": "antibes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 540,
+    "priceFrom": 390,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/hotel-belles-rives.html",
+    "petFee": 30,
+    "petPolicy": "Pets are allowed in all rooms (not in public areas) with no size or weight restrictions for EUR 30 per pet per night. This Art Deco palace on the Juan-les-Pins waterfront has its own private jetty, and the pine-shaded Promenade du Soleil next door is a calm spot for leashed walks at dawn.",
+    "highlights": [
+      "Private beach",
+      "Michelin-starred restaurant",
+      "Sea view"
+    ],
+    "slug": "hotel-belles-rives"
+  },
+  {
+    "id": "antibes-4",
+    "name": "ibis Antibes Sophia-Antipolis",
+    "destinationSlug": "antibes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 1100,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-sophia-antipolis.html",
+    "petFee": 10,
+    "petPolicy": "Dogs and cats are welcome for a small supplement around EUR 10 per night. The hotel sits in the green Sophia-Antipolis tech park 15 minutes from old Antibes by car, surrounded by quiet pine-forest walking paths perfect for stretching a dog's legs between sightseeing days.",
+    "highlights": [
+      "Free private parking",
+      "24-hour front desk",
+      "Free WiFi"
+    ],
+    "slug": "ibis-antibes-sophia-antipolis"
+  },
+  {
+    "id": "antibes-5",
+    "name": "ibis budget Antibes Sophia Antipolis",
+    "destinationSlug": "antibes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 7.6,
+    "reviewCount": 900,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-budget-antibes-sophia-antipolis.html",
+    "petFee": 5,
+    "petPolicy": "Pets of any size are welcome for EUR 5 per pet per night, both dogs and cats accepted. A practical low-cost base near the A8 motorway exit, with grassy verges and a small park across the road for quick walks before driving down to the Antibes seafront.",
+    "highlights": [
+      "Free private parking",
+      "Free WiFi",
+      "24-hour front desk"
+    ],
+    "slug": "ibis-budget-antibes-sophia-antipolis"
+  },
+  {
     "id": "antwerp-1",
     "name": "Botanic Sanctuary Antwerp - The Leading Hotels of the World",
     "destinationSlug": "antwerp",

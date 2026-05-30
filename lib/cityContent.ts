@@ -10784,6 +10784,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  hyeres: {
+    history: {
+      fr: `Hyères-les-Palmiers, à 20 km à l'est de Toulon, est l'une des plus anciennes stations balnéaires de la Méditerranée : la noblesse britannique y hivernait dès les années 1830, Victor Hugo et Robert Louis Stevenson y séjournèrent, et la ville reçut le suffixe « les-Palmiers » au XIXe siècle pour ses milliers de palmiers des Canaries. La Vieille Ville médiévale qui escalade la colline est antérieure, héritée de la seigneurie de Fos puis de la maison de Provence. Au sud, la presqu'île de Giens forme l'un des cinq doubles tombolos au monde, une rareté géologique reliée au continent par deux cordons sableux qui enserrent les Salins des Pesquiers. Pour le voyageur avec chien ou chat, la France impose le passeport européen, la puce électronique et la rage en cours de validité. À Hyères, la municipalité a aménagé une cani-plage officielle au Mérou, accessible toute l'année. Les chiens en laisse sont admis dans la Vieille Ville, sur l'Avenue Gambetta, dans le Parc Olbius Riquier, autour des salins et sur les navettes TLV-TVM vers les Îles d'Or, avec des restrictions strictes à l'arrivée sur Porquerolles (plages interdites) et Port-Cros (quai seulement).`,
+      en: `Hyères-les-Palmiers, 20 km east of Toulon, is one of the oldest seaside resorts on the Mediterranean: British aristocracy wintered here from the 1830s, Victor Hugo and Robert Louis Stevenson stayed, and the suffix les-Palmiers was added in the 19th century for the city's thousands of Canary Island date palms. The medieval Vieille Ville climbing the hill predates this by centuries, inherited from the lords of Fos and the house of Provence. To the south, the Giens peninsula forms one of only five double tombolos in the world, a geological rarity linked to the mainland by two sand bars enclosing the Pesquiers salt flats. For travelling pets, France requires the EU pet passport, ISO microchip and a valid rabies vaccination. Hyères is one of the few French resorts to maintain an official year-round dog beach (the Mérou cani-plage). Leashed dogs are welcome in the Vieille Ville, on Avenue Gambetta, in Parc Olbius Riquier, around the salt flats and on the TLV-TVM ferries to the Îles d'Or, with strict restrictions at the islands themselves (Porquerolles: beaches banned; Port-Cros: dock only).`,
+      es: `Hyères-les-Palmiers, 20 km al este de Toulon, es una de las estaciones balnearias más antiguas del Mediterráneo: la aristocracia británica invernaba aquí desde los años 1830, Victor Hugo y Robert Louis Stevenson se hospedaron y el sufijo les-Palmiers se añadió en el siglo XIX por los miles de palmeras canarias de la ciudad. La Vieille Ville medieval que sube la colina es muy anterior, heredada del señorío de Fos y de la casa de Provenza. Al sur, la península de Giens forma uno de los cinco únicos tombolos dobles del mundo, una rareza geológica unida al continente por dos cordones de arena que encierran las Salinas de los Pesquiers. Para las mascotas viajeras, Francia exige el pasaporte europeo, microchip ISO y vacunación antirrábica vigente. Hyères es una de las pocas estaciones francesas con una playa canina oficial todo el año (la cani-plage del Mérou). Los perros con correa son bienvenidos en la Vieille Ville, en la Avenue Gambetta, en el Parc Olbius Riquier, alrededor de las salinas y en los ferries TLV-TVM a las Îles d'Or, con restricciones estrictas en las islas (Porquerolles: playas prohibidas; Port-Cros: solo muelle).`,
+      pt: `Hyères-les-Palmiers, 20 km a leste de Toulon, é uma das mais antigas estações balneares do Mediterrâneo: a aristocracia britânica passava aqui o inverno desde a década de 1830, Victor Hugo e Robert Louis Stevenson hospedaram-se, e o sufixo les-Palmiers foi acrescentado no século XIX pelos milhares de palmeiras das Canárias da cidade. A Vieille Ville medieval que sobe a colina é bem anterior, herdada do senhorio de Fos e da casa de Provença. A sul, a península de Giens forma um dos cinco únicos tômbolos duplos do mundo, uma raridade geológica ligada ao continente por dois cordões de areia que encerram as Salinas dos Pesquiers. Para os animais em viagem, a França exige o passaporte europeu, microchip ISO e vacinação antirrábica válida. Hyères é uma das poucas estações francesas com uma praia canina oficial todo o ano (a cani-plage do Mérou). Os cães com trela são bem-vindos na Vieille Ville, na Avenue Gambetta, no Parc Olbius Riquier, em redor das salinas e nos ferries TLV-TVM para as Îles d'Or, com restrições estritas nas próprias ilhas (Porquerolles: praias proibidas; Port-Cros: apenas cais).`,
+    },
+    sights: [
+      {
+        name: `Plage du Mérou (cani-plage)`,
+        emoji: `🏖️`,
+        petFriendly: true,
+        desc: {
+          fr: `La seule plage canine officielle de Hyères, au 31 Boulevard du Front de Mer entre L'Ayguade et Les Salins. Délimitée par des ganivelles en bois, signalée et équipée de distributeurs de sacs, elle accueille les chiens toute l'année. Sable fin, eau peu profonde et accès gratuit.`,
+          en: `The only officially designated dog beach in Hyères, at 31 Boulevard du Front de Mer between L'Ayguade and Les Salins. Fenced by wooden ganivelles, signed and equipped with bag dispensers, it welcomes dogs year-round. Fine sand, shallow water, free access.`,
+          es: `La única playa canina oficial de Hyères, en 31 Boulevard du Front de Mer entre L'Ayguade y Les Salins. Vallada con ganivelles de madera, señalizada y equipada con dispensadores de bolsas, abre a perros todo el año. Arena fina, agua poco profunda, acceso gratuito.`,
+          pt: `A única praia canina oficial de Hyères, em 31 Boulevard du Front de Mer entre L'Ayguade e Les Salins. Vedada com ganivelles de madeira, sinalizada e equipada com dispensadores de sacos, recebe cães todo o ano. Areia fina, água pouco funda, acesso gratuito.`,
+        },
+      },
+      {
+        name: `Presqu'île de Giens et Route du Sel`,
+        emoji: `🌊`,
+        petFriendly: true,
+        desc: {
+          fr: `La presqu'île de Giens forme l'un des cinq doubles tombolos au monde, deux cordons sableux qui enserrent les salins. La Route du Sel, fermée aux voitures en été, est un parcours plat de 7 km à pied ou à vélo, parfait avec un chien en laisse.`,
+          en: `The Giens peninsula is one of five double tombolos in the world, two sand bars enclosing the salt flats. The Route du Sel, closed to cars in summer, is a flat 7 km walking and cycling route, ideal with a leashed dog.`,
+          es: `La península de Giens es uno de los cinco tombolos dobles del mundo, dos cordones de arena que encierran las salinas. La Route du Sel, cerrada al tráfico en verano, es un recorrido llano de 7 km a pie o en bicicleta, ideal con perro con correa.`,
+          pt: `A península de Giens é um dos cinco tômbolos duplos do mundo, dois cordões de areia que encerram as salinas. A Route du Sel, fechada ao trânsito no verão, é um percurso plano de 7 km a pé ou de bicicleta, ideal com cão à trela.`,
+        },
+      },
+      {
+        name: `Vieux Salins d'Hyères`,
+        emoji: `🦩`,
+        petFriendly: true,
+        desc: {
+          fr: `350 hectares de zone humide à l'est de la ville, gérés par le Conservatoire du Littoral et rattachés au Parc national de Port-Cros. Sentiers plats accessibles aux chiens en laisse, flamants roses, hérons et plus de 200 espèces d'oiseaux observables, surtout en hiver.`,
+          en: `350 hectares of wetland east of the city, managed by the Conservatoire du Littoral and part of the Port-Cros National Park network. Flat trails open to leashed dogs, pink flamingos, herons and over 200 bird species observable, especially in winter.`,
+          es: `350 hectáreas de zona húmeda al este de la ciudad, gestionadas por el Conservatoire du Littoral y vinculadas al Parque Nacional de Port-Cros. Senderos planos abiertos a perros con correa, flamencos, garzas y más de 200 especies de aves observables, sobre todo en invierno.`,
+          pt: `350 hectares de zona húmida a leste da cidade, geridos pelo Conservatoire du Littoral e ligados ao Parque Nacional de Port-Cros. Trilhos planos abertos a cães com trela, flamingos, garças e mais de 200 espécies de aves observáveis, sobretudo no inverno.`,
+        },
+      },
+      {
+        name: `Vieille Ville et Parc Saint-Bernard`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          fr: `La vieille ville médiévale monte la colline au-dessus de l'Avenue Gambetta par la Place Massillon, la Collégiale Saint-Paul et la Tour des Templiers, pour déboucher sur le Parc Saint-Bernard et les ruines du château, avec vue panoramique sur Giens et les Îles d'Or.`,
+          en: `The medieval old town climbs the hill above Avenue Gambetta via Place Massillon, the Collégiale Saint-Paul and the Templar Tower, opening on to Parc Saint-Bernard and the castle ruins with a panoramic view of Giens and the Îles d'Or.`,
+          es: `El casco antiguo medieval sube la colina sobre la Avenue Gambetta por la Place Massillon, la Collégiale Saint-Paul y la Torre de los Templarios, hasta desembocar en el Parc Saint-Bernard y las ruinas del castillo con vistas panorámicas a Giens y las Îles d'Or.`,
+          pt: `O centro histórico medieval sobe a colina acima da Avenue Gambetta pela Place Massillon, a Collégiale Saint-Paul e a Torre dos Templários, até ao Parc Saint-Bernard e às ruínas do castelo com vista panorâmica para Giens e as Îles d'Or.`,
+        },
+      },
+      {
+        name: `Avenue Gambetta`,
+        emoji: `🌴`,
+        petFriendly: true,
+        desc: {
+          fr: `Avenue centrale bordée de palmiers des Canaries qui donne à Hyères son surnom de Hyères-les-Palmiers. Trottoirs larges, terrasses canines et 800 m plats sous ombre continue, parfait pour les après-midi de plein été.`,
+          en: `The central avenue lined with Canary Island date palms that gives Hyères its nickname Hyères-les-Palmiers. Wide pavements, dog-friendly terraces and 800 m flat under continuous shade, ideal for midsummer afternoons.`,
+          es: `La avenida central bordeada de palmeras de Canarias que da a Hyères su sobrenombre de Hyères-les-Palmiers. Aceras anchas, terrazas para perros y 800 m planos bajo sombra continua, ideal para tardes de pleno verano.`,
+          pt: `A avenida central ladeada de palmeiras das Canárias que dá a Hyères a alcunha de Hyères-les-Palmiers. Passeios largos, esplanadas para cães e 800 m planos à sombra contínua, ideal para tardes de pleno verão.`,
+        },
+      },
+      {
+        name: `Île de Porquerolles`,
+        emoji: `⛵`,
+        petFriendly: true,
+        desc: {
+          fr: `La plus grande des Îles d'Or, à 20 minutes de navette TLV-TVM depuis La Tour Fondue. Les chiens sont admis au village et sur les sentiers forestiers en laisse, mais interdits sur toutes les plages. Privilégier la basse saison pour éviter la foule.`,
+          en: `The largest of the Îles d'Or, 20 minutes by TLV-TVM shuttle from La Tour Fondue. Dogs are welcome in the village and on forest trails on a leash, but banned from all beaches. Visit in the off-season to avoid the crowds.`,
+          es: `La mayor de las Îles d'Or, a 20 minutos en ferry TLV-TVM desde La Tour Fondue. Los perros se admiten en el pueblo y senderos forestales con correa, pero están prohibidos en todas las playas. Mejor en temporada baja para evitar la multitud.`,
+          pt: `A maior das Îles d'Or, a 20 minutos de ferry TLV-TVM a partir de La Tour Fondue. Os cães são admitidos na aldeia e nos trilhos florestais com trela, mas proibidos em todas as praias. Visite na época baixa para evitar a multidão.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La Plage du Mérou (31 Boulevard du Front de Mer) est la seule plage canine officielle de Hyères, ouverte toute l'année. Les plages de l'Almanarre, de la Bergerie, de la Madrague et celles de Porquerolles interdisent les chiens.`,
+        `Les navettes TLV-TVM transportent les chiens gratuitement, mais à Port-Cros ils ne peuvent pas quitter le quai (réglementation Parc national). À Porquerolles ils sont admis au village et sur les sentiers forestiers en laisse, jamais sur les plages.`,
+        `Le Réseau Mistral accepte les petits animaux en panier gratuitement, les grands chiens en laisse et muselière. La ligne Hyères centre / La Tour Fondue dessert l'embarcadère pour Porquerolles.`,
+        `La Clinique Vétérinaire Univet La Rade (35 Avenue Alphonse Denis, 04 94 65 04 03) a un vétérinaire physiquement sur place 24h/24, particularité rare. La Clinique Olbia (04 94 38 38 38) est l'autre option 24h/24. Numéro national 3115 gratuit.`,
+        `Par fort mistral, les sentiers des salins et le tombolo de Giens peuvent être dangereux pour un petit chien. Vérifiez la météo Var avant de partir, surtout entre novembre et mars.`,
+      ],
+      en: [
+        `Plage du Mérou (31 Boulevard du Front de Mer) is the only officially designated dog beach in Hyères, open year-round. The Almanarre, Bergerie, Madrague and Porquerolles beaches all ban dogs.`,
+        `TLV-TVM ferries carry dogs free of charge, but on Port-Cros they cannot leave the dock (National Park regulation). On Porquerolles they are welcome in the village and on forest trails on a leash, never on the beaches.`,
+        `Réseau Mistral accepts small pets in a basket free of charge, large dogs on a leash with a muzzle. The Hyères centre / La Tour Fondue line connects to the Porquerolles ferry pier.`,
+        `Clinique Vétérinaire Univet La Rade (35 Avenue Alphonse Denis, 04 94 65 04 03) keeps a vet physically on site 24/7, an unusual feature. Clinique Olbia (04 94 38 38 38) is the other 24/7 option. The national free hotline is 3115.`,
+        `In a strong mistral wind, the salt-flat paths and the Giens tombolo can be unsafe for a small dog. Check the Var forecast before setting off, especially between November and March.`,
+      ],
+      es: [
+        `La Plage du Mérou (31 Boulevard du Front de Mer) es la única playa canina oficial de Hyères, abierta todo el año. Las playas de L'Almanarre, La Bergerie, La Madrague y las de Porquerolles prohíben perros.`,
+        `Los ferries TLV-TVM transportan perros gratis, pero en Port-Cros no pueden salir del muelle (reglamento del Parque Nacional). En Porquerolles se admiten en el pueblo y senderos forestales con correa, nunca en las playas.`,
+        `Réseau Mistral acepta mascotas pequeñas en cesta gratis, perros grandes con correa y bozal. La línea centro de Hyères / La Tour Fondue conecta con el embarcadero del ferry a Porquerolles.`,
+        `La Clínica Vétérinaire Univet La Rade (35 Avenue Alphonse Denis, 04 94 65 04 03) mantiene un veterinario físicamente presente 24/7, una particularidad rara. La Clínica Olbia (04 94 38 38 38) es la otra opción 24/7. El número nacional gratuito es el 3115.`,
+        `Con mistral fuerte, los senderos de las salinas y el tombolo de Giens pueden ser peligrosos para un perro pequeño. Comprueba la previsión del Var antes de salir, sobre todo entre noviembre y marzo.`,
+      ],
+      pt: [
+        `A Plage du Mérou (31 Boulevard du Front de Mer) é a única praia canina oficial de Hyères, aberta todo o ano. As praias de L'Almanarre, La Bergerie, La Madrague e as de Porquerolles proíbem cães.`,
+        `Os ferries TLV-TVM transportam cães grátis, mas em Port-Cros não podem sair do cais (regulamento do Parque Nacional). Em Porquerolles são admitidos na aldeia e nos trilhos florestais com trela, nunca nas praias.`,
+        `A Réseau Mistral aceita pequenos animais em cesto grátis, cães grandes com trela e açaime. A linha centro de Hyères / La Tour Fondue liga ao cais do ferry para Porquerolles.`,
+        `A Clínica Univet La Rade (35 Avenue Alphonse Denis, 04 94 65 04 03) mantém um veterinário fisicamente presente 24/7, uma particularidade rara. A Clínica Olbia (04 94 38 38 38) é a outra opção 24/7. O número nacional gratuito é o 3115.`,
+        `Com mistral forte, os trilhos das salinas e o tômbolo de Giens podem ser perigosos para um cão pequeno. Verifique a previsão do Var antes de sair, sobretudo entre novembro e março.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Accès : Gare SNCF Hyères (terminus TER), liaison Toulon (20 min) puis TGV vers Paris (4h). Aéroport Toulon-Hyères (TLN) à 5 km. Chiens <6 kg en cage 7,50 € en TER ; >6 kg laisse + muselière à 50 % du tarif.`,
+        `Plages : seule cani-plage officielle à la Plage du Mérou, accessible toute l'année. L'Almanarre, la Bergerie, la Madrague et les plages de Porquerolles interdisent les chiens.`,
+        `Parcs : Parc Olbius Riquier (sauf zoo et serres), Vieux Salins, Salin des Pesquiers, Parc Saint-Bernard accueillent les chiens en laisse.`,
+        `Vétérinaires : Univet La Rade (35 Avenue Alphonse Denis, 04 94 65 04 03, 24h/24 sur place), Clinique Olbia (04 94 38 38 38, 24h/24), 3115 national gratuit.`,
+        `Documents : passeport européen, puce ISO et rage en cours de validité obligatoires. Voyageurs hors UE (Royaume-Uni, États-Unis) : certificat sanitaire ou endossement USDA APHIS.`,
+      ],
+      en: [
+        `Getting there: Hyères SNCF station is the end of the TER line, with a 20-min link to Toulon and TGV onward to Paris (4h). Toulon-Hyères airport (TLN) is 5 km away. Dogs <6 kg in carrier 7.50 EUR on TER; >6 kg leash + muzzle at 50% of the fare.`,
+        `Beaches: the only official dog beach is Plage du Mérou, accessible year-round. L'Almanarre, La Bergerie, La Madrague and the Porquerolles beaches all ban dogs.`,
+        `Parks: Parc Olbius Riquier (except zoo and glasshouses), Vieux Salins, Salin des Pesquiers and Parc Saint-Bernard all welcome leashed dogs.`,
+        `Vets: Univet La Rade (35 Avenue Alphonse Denis, 04 94 65 04 03, 24/7 on site), Clinique Olbia (04 94 38 38 38, 24/7), and the national 3115 hotline.`,
+        `Documents: EU pet passport, ISO microchip and a valid rabies vaccination required. Non-EU travellers (UK, US) need an Animal Health Certificate or USDA APHIS endorsement.`,
+      ],
+      es: [
+        `Cómo llegar: la Gare SNCF d'Hyères es el final de la línea TER, con enlace de 20 min a Toulon y TGV hasta París (4h). Aeropuerto Toulon-Hyères (TLN) a 5 km. Perros <6 kg en transportín 7,50 € en TER; >6 kg correa + bozal al 50 % de la tarifa.`,
+        `Playas: la única playa canina oficial es la Plage du Mérou, accesible todo el año. L'Almanarre, La Bergerie, La Madrague y las playas de Porquerolles prohíben perros.`,
+        `Parques: Parc Olbius Riquier (excepto zoo e invernaderos), Vieux Salins, Salin des Pesquiers y Parc Saint-Bernard reciben perros con correa.`,
+        `Veterinarios: Univet La Rade (35 Avenue Alphonse Denis, 04 94 65 04 03, 24/7 en el sitio), Clinique Olbia (04 94 38 38 38, 24/7), y el número nacional gratuito 3115.`,
+        `Documentos: pasaporte europeo, microchip ISO y vacunación antirrábica vigente obligatorios. Viajeros no UE (Reino Unido, EE. UU.) necesitan certificado sanitario o endoso USDA APHIS.`,
+      ],
+      pt: [
+        `Como chegar: a Gare SNCF d'Hyères é o terminal da linha TER, com ligação de 20 min a Toulon e TGV até Paris (4h). Aeroporto Toulon-Hyères (TLN) a 5 km. Cães <6 kg em transportadora 7,50 € em TER; >6 kg trela + açaime a 50 % da tarifa.`,
+        `Praias: a única praia canina oficial é a Plage du Mérou, acessível todo o ano. L'Almanarre, La Bergerie, La Madrague e as praias de Porquerolles proíbem cães.`,
+        `Parques: Parc Olbius Riquier (exceto zoo e estufas), Vieux Salins, Salin des Pesquiers e Parc Saint-Bernard aceitam cães com trela.`,
+        `Veterinários: Univet La Rade (35 Avenue Alphonse Denis, 04 94 65 04 03, 24/7 no local), Clínica Olbia (04 94 38 38 38, 24/7) e o número nacional gratuito 3115.`,
+        `Documentos: passaporte europeu, microchip ISO e vacinação antirrábica válida obrigatórios. Viajantes não-UE (Reino Unido, EUA) precisam de certificado sanitário ou endosso USDA APHIS.`,
+      ],
+    },
+  },
+
   ibiza: {
     history: {
       fr: `Fondée par les Phéniciens vers 654 av. J.-C. sous le nom d'Ibossim, l'actuelle Ibiza (Eivissa en catalan) fut tour à tour carthaginoise, romaine, byzantine et arabe avant la conquête catalane de 1235. Sa vieille ville fortifiée Dalt Vila, classée à l'UNESCO depuis 1999, conserve la plus belle enceinte Renaissance encore intacte du bassin méditerranéen, construite au XVIe siècle pour résister aux corsaires barbaresques. Capitale de l'île homonyme des Baléares (50 000 habitants à l'année, multipliés par dix en juillet-août), Ibiza est mondialement connue pour ses clubs, mais conserve un visage tout autre hors saison : pinèdes, criques discrètes, intérieur agricole et une vie de quartier où les chiens accompagnent leurs propriétaires aux terrasses de Sa Penya et Sa Marina. Pour le voyageur canin, la fenêtre idéale est avril-mai ou octobre-novembre : températures clémentes, plages encore ou de nouveau accessibles aux chiens, et tarifs raisonnables. L'été (15 mai-15 octobre) impose l'interdiction des chiens sur la quasi-totalité des plages et une chaleur dangereuse pour les coussinets sur les pavés brûlants de Dalt Vila.`,

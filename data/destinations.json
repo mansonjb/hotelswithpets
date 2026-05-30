@@ -6311,6 +6311,81 @@
     "iata": "HER"
   },
   {
+    "slug": "hyeres",
+    "name": "Hyères",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/hyeres.jpg",
+    "intro": "Hyères-les-Palmiers is one of the few French Riviera resorts with an official year-round dog beach (Plage du Mérou), a 24/7 on-site vet clinic and the Giens tombolo salt flats and Porquerolles ferry as dog-accessible day trips.",
+    "lat": 43.1205,
+    "lng": 6.1286,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & mild",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild with sun",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & mild",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "NCE"
+  },
+  {
     "slug": "ibiza",
     "name": "Ibiza",
     "country": "Spain",

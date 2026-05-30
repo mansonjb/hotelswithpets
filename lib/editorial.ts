@@ -441,6 +441,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Central Park (Keskuspuisto), the Seurasaari island nature reserve, and the sea fortress island of Suomenlinna',
       area: 'Kallio, Töölö, and the Design District',
     },
+    hyeres: {
+      personality: `a Var coast resort with the only officially designated year-round dog beach on the French Riviera (Plage du Mérou cani-plage), a 24/7 on-site veterinary clinic in the centre, and free dog access on the TLV-TVM ferries to Porquerolles and Port-Cros`,
+      highlight: `the Plage du Mérou cani-plage between L'Ayguade and Les Salins, the Giens double-tombolo Route du Sel walk, and the Vieux Salins wetland with its flamingos`,
+      area: `the palm-lined Avenue Gambetta and the medieval Vieille Ville rising to Parc Saint-Bernard, the Port d'Hyères seafront, and the Giens peninsula`,
+    },
     ibiza: {
       personality: `the capital of the Balearic island of Eivissa, where the UNESCO-walled Dalt Vila, a pine-forested interior, and a surprisingly relaxed shoulder season make it a genuine pet-friendly destination beyond the clubbing cliché`,
       highlight: `the UNESCO walled old town of Dalt Vila and its panoramic ramparts, the year-round dog beach at Cala Nova, and the Ses Salines nature reserve with flamingo lagoons`,
@@ -1314,6 +1319,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Central (Keskuspuisto), la réserve naturelle insulaire de Seurasaari et la forteresse maritime de Suomenlinna',
       area: 'Kallio, Töölö et le Quartier du Design',
     },
+    hyeres: {
+      personality: `une station de la côte varoise avec la seule plage canine officielle ouverte toute l'année sur la Riviera française (la cani-plage du Mérou), une clinique vétérinaire 24h/24 sur place au centre-ville, et des chiens admis gratuitement sur les navettes TLV-TVM vers Porquerolles et Port-Cros`,
+      highlight: `la cani-plage du Mérou entre L'Ayguade et Les Salins, la Route du Sel du double tombolo de Giens, et la zone humide des Vieux Salins avec ses flamants roses`,
+      area: `l'Avenue Gambetta bordée de palmiers et la Vieille Ville médiévale qui monte au Parc Saint-Bernard, le front de mer du Port d'Hyères, et la presqu'île de Giens`,
+    },
     ibiza: {
       personality: `la capitale de l'île baléare d'Eivissa, où Dalt Vila inscrite à l'UNESCO, un intérieur couvert de pinèdes et une basse saison étonnamment paisible en font une vraie destination pet-friendly, loin du cliché du clubbing`,
       highlight: `la vieille ville fortifiée de Dalt Vila (UNESCO) et ses remparts panoramiques, la plage canine de Cala Nova ouverte toute l'année, et la réserve naturelle de Ses Salines avec ses flamants roses`,
@@ -2186,6 +2196,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque Central (Keskuspuisto), la reserva natural insular de Seurasaari y la fortaleza marítima de Suomenlinna',
       area: 'Kallio, Töölö y el Barrio del Diseño',
     },
+    hyeres: {
+      personality: `una estación de la costa del Var con la única playa canina oficial abierta todo el año en la Riviera francesa (la cani-plage del Mérou), una clínica veterinaria 24/7 en el sitio en el centro, y perros admitidos gratis en los ferries TLV-TVM a Porquerolles y Port-Cros`,
+      highlight: `la cani-plage del Mérou entre L'Ayguade y Les Salins, la Route du Sel del doble tombolo de Giens, y la zona húmeda de los Vieux Salins con sus flamencos`,
+      area: `la Avenue Gambetta bordeada de palmeras y la Vieille Ville medieval que sube al Parc Saint-Bernard, el frente marítimo del Port d'Hyères, y la península de Giens`,
+    },
     ibiza: {
       personality: `la capital de la isla balear de Eivissa, donde Dalt Vila declarada Patrimonio de la UNESCO, un interior cubierto de pinos y una temporada baja sorprendentemente tranquila la convierten en un auténtico destino pet-friendly, lejos del tópico del clubbing`,
       highlight: `el casco antiguo amurallado de Dalt Vila (UNESCO) y sus murallas panorámicas, la playa canina de Cala Nova abierta todo el año, y la reserva natural de Ses Salines con sus flamencos`,
@@ -3057,6 +3072,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital nórdica onde o archipiélago islenho, os florestas de pinos e uma cultura profundamente orientada al aire libre a hacen excepcionalmente acogedora para os cães e os seus duenhos',
       highlight: 'o Parque Central (Keskuspuisto), a reserva natural insular de Seurasaari e a fortaleza marítima de Suomenlinna',
       area: 'Kallio, Töölö e o Bairro do Disenho',
+    },
+    hyeres: {
+      personality: `uma estação da costa do Var com a única praia canina oficial aberta todo o ano na Riviera francesa (a cani-plage do Mérou), uma clínica veterinária 24/7 no local no centro, e cães admitidos grátis nos ferries TLV-TVM para Porquerolles e Port-Cros`,
+      highlight: `a cani-plage do Mérou entre L'Ayguade e Les Salins, a Route du Sel do tômbolo duplo de Giens, e a zona húmida dos Vieux Salins com os seus flamingos`,
+      area: `a Avenue Gambetta ladeada de palmeiras e a Vieille Ville medieval que sobe ao Parc Saint-Bernard, a frente-mar do Port d'Hyères, e a península de Giens`,
     },
     ibiza: {
       personality: `a capital da ilha baleárica de Eivissa, onde Dalt Vila classificada pela UNESCO, um interior coberto de pinhais e uma época baixa surpreendentemente tranquila fazem dela um verdadeiro destino pet-friendly, longe do cliché do clubbing`,

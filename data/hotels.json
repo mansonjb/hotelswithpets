@@ -11799,6 +11799,124 @@
     "slug": "marin-dream-hotel-heraklion"
   },
   {
+    "id": "hyeres-1",
+    "name": "Mercure Hyères Centre Côte d'Azur",
+    "destinationSlug": "hyeres",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 1100,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/hyeres-cote-d-azur.html",
+    "petFee": 15,
+    "petPolicy": "Dogs and cats are welcome on request for around EUR 15 per night, size limitations may apply. The hotel is a 10-minute drive from Hyères-Toulon airport and the beaches of Almanarre, with quiet residential streets around the hippodrome for evening walks.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Garden",
+      "Free private parking"
+    ],
+    "slug": "mercure-hyeres-centre-cote-d-azur"
+  },
+  {
+    "id": "hyeres-2",
+    "name": "ibis Thalassa Hyères Plage",
+    "destinationSlug": "hyeres",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1500,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-thalassa-hyeres-plage.html",
+    "petFee": 11,
+    "petPolicy": "Dogs of any size welcome for EUR 11 per pet per night, cats accepted on request. Pets must not be left unattended in the rooms. The hotel sits directly on Plage du Ceinturon, a long sandy stretch where dogs on lead are tolerated outside the bathing zone, perfect for early-morning runs by the sea.",
+    "highlights": [
+      "Direct beach access",
+      "Outdoor swimming pool",
+      "Sea view"
+    ],
+    "slug": "ibis-thalassa-hyeres-plage"
+  },
+  {
+    "id": "hyeres-3",
+    "name": "ibis Hyères Centre",
+    "destinationSlug": "hyeres",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.8,
+    "reviewCount": 900,
+    "priceFrom": 82,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-hya-res-centre.html",
+    "petFee": 10,
+    "petPolicy": "Pets welcome for a small supplement around EUR 10 per night, both dogs and cats accepted. Located in central Hyères a short walk from Place Massillon and the palm-lined Avenue Gambetta, with the Parc Olbius Riquier (open to leashed dogs) reachable in 10 minutes on foot.",
+    "highlights": [
+      "Free private parking",
+      "Free WiFi",
+      "24-hour front desk"
+    ],
+    "slug": "ibis-hyeres-centre"
+  },
+  {
+    "id": "hyeres-4",
+    "name": "ibis Styles Hyères Rooftop & Spa",
+    "destinationSlug": "hyeres",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 700,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/logis-de-france-de-l-europe.html",
+    "petFee": 12,
+    "petPolicy": "Dogs and cats are accepted for around EUR 12 per night with prior notice. A renovated central hotel with rooftop terrace and small spa, a five-minute walk to the old town and to the seafront path that leads west toward the Salins d'Hyères salt marshes ideal for long dog walks.",
+    "highlights": [
+      "Rooftop terrace",
+      "Spa",
+      "Free WiFi"
+    ],
+    "slug": "ibis-styles-hyeres-rooftop-spa"
+  },
+  {
+    "id": "hyeres-5",
+    "name": "B&B Hôtel Hyères",
+    "destinationSlug": "hyeres",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 7.9,
+    "reviewCount": 850,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/b-b-hyeres.html",
+    "petFee": 6,
+    "petPolicy": "One pet of any size welcome for EUR 6 per night, both dogs and cats accepted. A practical budget base on the edge of Hyères with free parking and a small lawn out front, easy reach by car to the Porquerolles ferry at La Tour Fondue (about 20 minutes drive).",
+    "highlights": [
+      "Free private parking",
+      "Free WiFi",
+      "24-hour front desk"
+    ],
+    "slug": "b-and-b-hotel-hyeres"
+  },
+  {
     "id": "ibiza-1",
     "name": "Hotel Mirador de Dalt Vila",
     "destinationSlug": "ibiza",

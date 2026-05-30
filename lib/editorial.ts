@@ -361,6 +361,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the fenced Hundeauslauffläche in Grüneburgpark, the 4 km Mainufer promenade, and the Stadtwald forest trails',
       area: 'Sachsenhausen, Westend, and the Altstadt around the Römerberg',
     },
+    frejus: {
+      personality: `the most dog-friendly municipality on the French Riviera by a clear margin, three official year-round dog beaches (Argens, Esclamandes, Pacha Plage), a 100-hectare Base Nature park with a brand-new fully enclosed Woof Park, and dogs admitted on a leash inside the 1st-century Roman amphitheatre`,
+      highlight: `the Plage d'Argens cani-plage at Saint-Aygulf, the Base Nature François Léotard with its Woof Park, and the Roman Arènes and aqueduct ruins`,
+      area: `the medieval Vieille Ville around Place Formigé and the Cathédrale Saint-Léonce, Port Fréjus marina, and the Saint-Aygulf seafront`,
+    },
     funchal: {
       personality: `the capital of Madeira, a year-round mild Atlantic island with esplanada culture, the cliff-side Lido promenade, the levada walks above town, and the only 24/7 veterinary hospital on the archipelago`,
       highlight: `Parque de Santa Catarina above the bay, the Levada dos Tornos walking trail, and the Promenade do Lido cliff path`,
@@ -1239,6 +1244,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Hundeauslauffläche clôturée du Grüneburgpark, la promenade Mainufer de 4 km et les sentiers forestiers du Stadtwald',
       area: 'Sachsenhausen, le Westend et l\'Altstadt autour du Römerberg',
     },
+    frejus: {
+      personality: `la commune balnéaire la plus accueillante pour les chiens de la Riviera française et de loin, trois plages canines officielles toute l'année (Argens, Esclamandes, Pacha Plage), une Base Nature de 100 hectares avec un tout nouveau Woof Park clôturé, et des chiens admis en laisse à l'amphithéâtre romain du Ier siècle`,
+      highlight: `la cani-plage de la Plage d'Argens à Saint-Aygulf, la Base Nature François Léotard et son Woof Park, et les Arènes romaines et les ruines de l'aqueduc`,
+      area: `la Vieille Ville médiévale autour de la Place Formigé et de la Cathédrale Saint-Léonce, la marina du Port Fréjus, et le front de mer de Saint-Aygulf`,
+    },
     funchal: {
       personality: `la capitale de Madère, île atlantique au climat doux toute l'année, avec sa culture d'esplanadas, la promenade de bord de falaise du Lido, les balades de levadas au-dessus de la ville et le seul hôpital vétérinaire 24h/24 de l'archipel`,
       highlight: `le Parque de Santa Catarina au-dessus de la baie, la balade de la Levada dos Tornos et la Promenade do Lido en bord de falaise`,
@@ -2116,6 +2126,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Hundeauslauffläche vallada del Grüneburgpark, el paseo Mainufer de 4 km y los senderos forestales del Stadtwald',
       area: 'Sachsenhausen, el Westend y la Altstadt en torno al Römerberg',
     },
+    frejus: {
+      personality: `la comuna balnearia más acogedora con perros de la Riviera francesa con clara diferencia, tres playas caninas oficiales todo el año (Argens, Esclamandes, Pacha Plage), una Base Nature de 100 hectáreas con un Woof Park totalmente vallado, y perros admitidos con correa en el anfiteatro romano del siglo I`,
+      highlight: `la cani-plage de la Plage d'Argens en Saint-Aygulf, la Base Nature François Léotard y su Woof Park, y las Arenas romanas y las ruinas del acueducto`,
+      area: `el casco antiguo medieval alrededor de la Place Formigé y la Cathédrale Saint-Léonce, la marina del Port Fréjus, y el frente marítimo de Saint-Aygulf`,
+    },
     funchal: {
       personality: `la capital de Madeira, una isla atlántica de clima suave todo el año, con su cultura de esplanadas, el paseo al borde del acantilado del Lido, las rutas de levadas sobre la ciudad y el único hospital veterinario 24/7 del archipiélago`,
       highlight: `el Parque de Santa Catarina sobre la bahía, la Levada dos Tornos y la Promenade do Lido al borde del acantilado`,
@@ -2992,6 +3007,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital financiera mais verde de Alemania, o 52% da cidade é floresta o parques, com um Stadtwald de 4.200 hectáreas, tabernas de Apfelwein pet-friendly en Sachsenhausen e dos clínicas veterinárias de urgências abiertas 24/7',
       highlight: 'a Hundeauslauffläche vallada do Grüneburgpark, o passeio Mainufer de 4 km e os trilhos forestales do Stadtwald',
       area: 'Sachsenhausen, o Westend e a Altstadt en torno al Römerberg',
+    },
+    frejus: {
+      personality: `o município balnear mais acolhedor com cães da Riviera francesa com clara diferença, três praias caninas oficiais todo o ano (Argens, Esclamandes, Pacha Plage), uma Base Nature de 100 hectares com um Woof Park totalmente vedado, e cães admitidos com trela no anfiteatro romano do século I`,
+      highlight: `a cani-plage da Plage d'Argens em Saint-Aygulf, a Base Nature François Léotard e o seu Woof Park, e as Arenas romanas e as ruínas do aqueduto`,
+      area: `o centro histórico medieval em torno da Place Formigé e da Cathédrale Saint-Léonce, a marina do Port Fréjus, e a frente-mar de Saint-Aygulf`,
     },
     funchal: {
       personality: `a capital da Madeira, ilha atlântica de clima ameno todo o ano, com a sua cultura de esplanadas, a promenade à beira da falésia do Lido, as caminhadas pelas levadas acima da cidade e o único hospital veterinário 24/7 do arquipélago`,

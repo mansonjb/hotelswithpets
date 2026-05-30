@@ -8671,6 +8671,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  frejus: {
+    history: {
+      fr: `Fréjus fut fondée vers 49 av. J.-C. par Jules César sous le nom de Forum Julii, port stratégique de la flotte romaine de Méditerranée occidentale et plus ancienne ville romaine de Gaule. Il en reste un patrimoine antique exceptionnel : amphithéâtre du Ier siècle (l'un des plus complets du sud de la France), théâtre, aqueduc de 40 km, port et lanterne d'Auguste. La ville médiévale s'organise autour de la cathédrale Saint-Léonce et de son baptistère du Ve siècle, l'une des plus anciennes structures chrétiennes du pays. Jumelée à Saint-Raphaël depuis longtemps, Fréjus combine front de mer (Frejus-Plage, Saint-Aygulf), arrière-pays viticole et accès direct au Massif de l'Estérel. Pour le voyageur avec chien ou chat, la France impose le passeport européen, la puce électronique et la rage. Particularité décisive : Fréjus est la commune la plus accueillante pour les chiens de la Riviera française, trois plages canines officielles ouvertes toute l'année, une Base Nature de 100 hectares avec un Woof Park clôturé, et les chiens en laisse explicitement admis à l'intérieur des Arènes romaines.`,
+      en: `Fréjus was founded around 49 BC by Julius Caesar as Forum Julii, the strategic port of the western Mediterranean Roman fleet and the oldest Roman city in Gaul. The Roman legacy is exceptional: the 1st-century amphitheatre (one of the most complete in southern France), a theatre, a 40 km aqueduct, the harbour and the Augustan lantern. The medieval town centres on the Cathédrale Saint-Léonce and its 5th-century baptistery, one of the oldest Christian structures in France. Twinned with neighbouring Saint-Raphaël, Fréjus combines a long seafront (Frejus-Plage, Saint-Aygulf), a wine-growing hinterland and direct access to the Massif de l'Estérel. For travelling pets, France requires the EU pet passport, ISO microchip and a valid rabies vaccination. The defining feature for visitors with a dog: Fréjus is the most dog-friendly municipality on the French Riviera by a clear margin, with three official dog beaches open year-round, a 100-hectare Base Nature with an enclosed Woof Park, and leashed dogs explicitly admitted inside the Roman amphitheatre.`,
+      es: `Fréjus fue fundada hacia el 49 a.C. por Julio César con el nombre de Forum Julii, puerto estratégico de la flota romana del Mediterráneo occidental y la ciudad romana más antigua de la Galia. Su patrimonio antiguo es excepcional: el anfiteatro del siglo I (uno de los más completos del sur de Francia), un teatro, un acueducto de 40 km, el puerto y la linterna de Augusto. La ciudad medieval se organiza en torno a la Cathédrale Saint-Léonce y su baptisterio del siglo V, una de las estructuras cristianas más antiguas del país. Hermana con Saint-Raphaël, Fréjus combina largo frente marítimo (Frejus-Plage, Saint-Aygulf), interior vitícola y acceso directo al Macizo del Esterel. Para las mascotas viajeras, Francia exige pasaporte europeo, microchip ISO y vacunación antirrábica vigente. Particularidad decisiva: Fréjus es la comuna más acogedora con perros de la Riviera francesa, tres playas caninas oficiales abiertas todo el año, una Base Nature de 100 hectáreas con un Woof Park vallado, y perros con correa admitidos explícitamente en el interior del anfiteatro romano.`,
+      pt: `Fréjus foi fundada por volta de 49 a.C. por Júlio César com o nome de Forum Julii, porto estratégico da frota romana do Mediterrâneo ocidental e a cidade romana mais antiga da Gália. O património antigo é excecional: o anfiteatro do século I (um dos mais completos do sul de França), um teatro, um aqueduto de 40 km, o porto e a lanterna de Augusto. A cidade medieval organiza-se em torno da Cathédrale Saint-Léonce e do seu batistério do século V, uma das mais antigas estruturas cristãs do país. Geminada com Saint-Raphaël, Fréjus combina longa frente-mar (Frejus-Plage, Saint-Aygulf), interior vitícola e acesso direto ao Maciço do Estérel. Para os animais em viagem, a França exige passaporte europeu, microchip ISO e vacinação antirrábica válida. Particularidade decisiva: Fréjus é o município mais acolhedor com cães da Riviera francesa, três praias caninas oficiais abertas todo o ano, uma Base Nature de 100 hectares com um Woof Park vedado, e cães com trela explicitamente admitidos no interior do anfiteatro romano.`,
+    },
+    sights: [
+      {
+        name: `Arènes de Fréjus`,
+        emoji: `🏟️`,
+        petFriendly: true,
+        desc: {
+          fr: `L'amphithéâtre romain du Ier siècle, restauré et toujours utilisé pour concerts et corridas, est l'un des plus complets du sud de la France. Particularité rare pour un monument français : les chiens en laisse sont admis à l'intérieur en visite standard, hors événements particuliers.`,
+          en: `The 1st-century Roman amphitheatre, restored and still used for concerts and bullfights, is one of the most complete in southern France. Unusually for a French monument, leashed dogs are admitted inside for standard visits, outside special events.`,
+          es: `El anfiteatro romano del siglo I, restaurado y aún usado para conciertos y corridas, es uno de los más completos del sur de Francia. Particularidad rara para un monumento francés: los perros con correa se admiten en el interior en visita estándar, fuera de eventos especiales.`,
+          pt: `O anfiteatro romano do século I, restaurado e ainda usado para concertos e touradas, é um dos mais completos do sul de França. Particularidade rara para um monumento francês: os cães com trela são admitidos no interior em visita padrão, fora de eventos especiais.`,
+        },
+      },
+      {
+        name: `Base Nature François Léotard et Woof Park`,
+        emoji: `🐕`,
+        petFriendly: true,
+        desc: {
+          fr: `Un parc de 100 hectares sur l'ancienne base aéronavale, avec chemins plats, plage en accès libre et un tout nouveau Woof Park clôturé sans laisse (parcours d'agility, point d'eau, bancs ombragés). Les chiens de catégories 1 et 2 ne sont pas admis dans le Woof Park.`,
+          en: `A 100-hectare park on the former naval air station, with flat paths, a free-access beach and a brand-new fully enclosed Woof Park (agility obstacles, water point, shaded benches). Categories 1 and 2 dogs are not admitted to the Woof Park.`,
+          es: `Un parque de 100 hectáreas en la antigua base aeronaval, con caminos planos, playa de acceso libre y un Woof Park totalmente vallado sin correa (circuito de agility, punto de agua, bancos sombreados). Los perros de categorías 1 y 2 no se admiten en el Woof Park.`,
+          pt: `Um parque de 100 hectares na antiga base aeronaval, com caminhos planos, praia de acesso livre e um Woof Park totalmente vedado sem trela (circuito de agility, ponto de água, bancos sombreados). Os cães das categorias 1 e 2 não são admitidos no Woof Park.`,
+        },
+      },
+      {
+        name: `Plage d'Argens (cani-plage)`,
+        emoji: `🏖️`,
+        petFriendly: true,
+        desc: {
+          fr: `La plus grande des trois plages canines officielles de Fréjus, à Saint-Aygulf, réservée par arrêté municipal toute l'année. Sable fin, pente douce, laisse obligatoire et poubelles à l'entrée.`,
+          en: `The largest of Fréjus' three official dog beaches, at Saint-Aygulf, reserved by municipal order year-round. Fine sand, gentle slope, leash required and waste bins at the entrance.`,
+          es: `La mayor de las tres playas caninas oficiales de Fréjus, en Saint-Aygulf, reservada por ordenanza municipal todo el año. Arena fina, pendiente suave, correa obligatoria y papeleras en la entrada.`,
+          pt: `A maior das três praias caninas oficiais de Fréjus, em Saint-Aygulf, reservada por ordem municipal todo o ano. Areia fina, rampa suave, trela obrigatória e caixotes à entrada.`,
+        },
+      },
+      {
+        name: `Vieille Ville et cathédrale Saint-Léonce`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          fr: `La cité médiévale autour de la Place Formigé et de la cathédrale Saint-Léonce, dont le baptistère du Ve siècle est l'une des plus anciennes structures chrétiennes de France. L'intérieur de la cathédrale et le cloître n'admettent pas les chiens, mais tout le circuit piéton est ouvert aux chiens en laisse.`,
+          en: `The medieval town around Place Formigé and Cathédrale Saint-Léonce, whose 5th-century baptistery is one of France's oldest Christian structures. The cathedral interior and cloister do not admit dogs, but the entire walking circuit is open to leashed dogs.`,
+          es: `La ciudad medieval alrededor de la Place Formigé y la Cathédrale Saint-Léonce, cuyo baptisterio del siglo V es una de las estructuras cristianas más antiguas de Francia. El interior y el claustro no admiten perros, pero todo el circuito peatonal está abierto a perros con correa.`,
+          pt: `A cidade medieval em torno da Place Formigé e da Cathédrale Saint-Léonce, cujo batistério do século V é uma das mais antigas estruturas cristãs de França. O interior e o claustro não admitem cães, mas todo o circuito pedonal está aberto a cães com trela.`,
+        },
+      },
+      {
+        name: `Massif de l'Estérel`,
+        emoji: `⛰️`,
+        petFriendly: true,
+        desc: {
+          fr: `Le massif de porphyre rouge à l'est de Fréjus, traversé par des sentiers balisés dont la boucle de 4 km au Pic du Cap Roux (453 m), panorama à 360° sur la baie. Chiens en laisse bienvenus hors fermetures incendie d'été en alerte rouge.`,
+          en: `The red-porphyry massif east of Fréjus, crossed by marked trails including the 4 km loop to the Pic du Cap Roux (453 m) with a 360-degree panorama of the bay. Leashed dogs welcome outside summer red-alert fire closures.`,
+          es: `El macizo de pórfido rojo al este de Fréjus, atravesado por senderos señalizados, entre ellos la vuelta de 4 km al Pic du Cap Roux (453 m) con panorama de 360° sobre la bahía. Perros con correa bienvenidos fuera de los cierres por incendio en alerta roja en verano.`,
+          pt: `O maciço de pórfiro vermelho a leste de Fréjus, atravessado por trilhos sinalizados, entre eles a volta de 4 km ao Pic du Cap Roux (453 m) com panorama de 360° sobre a baía. Cães com trela bem-vindos fora dos encerramentos de incêndio em alerta vermelho no verão.`,
+        },
+      },
+      {
+        name: `Port Fréjus`,
+        emoji: `⛵`,
+        petFriendly: true,
+        desc: {
+          fr: `La marina moderne au sud de la ville, avec un long quai bordé de brasseries qui acceptent les chiens en terrasse. Promenade plane de 1 km autour du bassin et accès direct à la Plage Pacha de la Base Nature à 800 m.`,
+          en: `The modern marina south of the town, with a long quayside lined with dog-friendly brasseries on the terrace. A flat 1 km promenade around the basin and direct access to Pacha Plage at the Base Nature 800 m away.`,
+          es: `La marina moderna al sur de la ciudad, con un largo muelle bordeado de brasseries que aceptan perros en la terraza. Paseo llano de 1 km alrededor de la dársena y acceso directo a Pacha Plage en la Base Nature a 800 m.`,
+          pt: `A marina moderna a sul da cidade, com um longo cais ladeado de brasseries que aceitam cães na esplanada. Passeio plano de 1 km em torno da doca e acesso direto à Pacha Plage na Base Nature a 800 m.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Fréjus est la commune balnéaire la plus accueillante pour les chiens de la Riviera française : trois plages canines officielles ouvertes toute l'année (Argens à Saint-Aygulf, zone nord des Esclamandes, Pacha Plage à la Base Nature).`,
+        `Le Woof Park dans la Base Nature François Léotard est un nouvel espace clôturé sans laisse, gratuit, avec parcours d'agility et point d'eau. Les chiens de catégories 1 et 2 (chiens d'attaque) ne sont pas admis.`,
+        `Estérel Côte d'Azur LeBus (ex-Agglobus CAVEM) n'accepte que les petits animaux en panier et les chiens-guides ; les grands chiens ne montent pas, même en laisse et muselière. Préférez la marche, le taxi ou le TER.`,
+        `Particularité rare : les Arènes romaines admettent les chiens en laisse en visite standard. Vérifiez l'agenda municipal pour éviter les jours de concert et de corrida qui ferment le site.`,
+        `Les jours d'alerte rouge incendie en juillet-août, les sentiers du Massif de l'Estérel sont fermés aux marcheurs par arrêté préfectoral. Consultez la carte quotidienne avant de monter.`,
+      ],
+      en: [
+        `Fréjus is the most dog-friendly seaside municipality on the French Riviera: three official dog beaches open year-round (Argens at Saint-Aygulf, the northern zone of Esclamandes, Pacha Plage at the Base Nature).`,
+        `The Woof Park inside the Base Nature François Léotard is a brand-new enclosed off-leash space, free of charge, with agility obstacles and a water point. Categories 1 and 2 dogs (French attack-breed classification) are not admitted.`,
+        `Estérel Côte d'Azur LeBus (formerly Agglobus CAVEM) only accepts small pets in a basket and guide dogs; large dogs are not admitted on board, even on a leash with a muzzle. Walk, take a taxi, or use the TER.`,
+        `Unusual feature: the Roman amphitheatre (Arènes) admits leashed dogs for standard visits. Check the City events calendar to avoid concert and corrida days when the site is closed to general visitors.`,
+        `On red-alert fire-risk days in July and August, the Massif de l'Estérel trails are closed to walkers by préfecture decree. Check the daily map before heading up.`,
+      ],
+      es: [
+        `Fréjus es la comuna balnearia más acogedora con perros de la Riviera francesa: tres playas caninas oficiales abiertas todo el año (Argens en Saint-Aygulf, zona norte de Esclamandes, Pacha Plage en la Base Nature).`,
+        `El Woof Park dentro de la Base Nature François Léotard es un nuevo espacio vallado sin correa, gratuito, con circuito de agility y punto de agua. Los perros de las categorías 1 y 2 (perros de ataque) no se admiten.`,
+        `Estérel Côte d'Azur LeBus (antes Agglobus CAVEM) solo admite mascotas pequeñas en cesta y perros guía; los perros grandes no suben, ni siquiera con correa y bozal. Mejor caminar, taxi o TER.`,
+        `Particularidad rara: el anfiteatro romano admite perros con correa en visita estándar. Comprueba la agenda municipal para evitar días de concierto y corrida que cierran el recinto.`,
+        `En días de alerta roja por incendio en julio y agosto, los senderos del Macizo del Esterel se cierran a los caminantes por decreto de la prefectura. Consulta el mapa diario antes de subir.`,
+      ],
+      pt: [
+        `Fréjus é o município balnear mais acolhedor com cães da Riviera francesa: três praias caninas oficiais abertas todo o ano (Argens em Saint-Aygulf, zona norte das Esclamandes, Pacha Plage na Base Nature).`,
+        `O Woof Park dentro da Base Nature François Léotard é um novo espaço vedado sem trela, gratuito, com circuito de agility e ponto de água. Os cães das categorias 1 e 2 (cães de ataque) não são admitidos.`,
+        `A Estérel Côte d'Azur LeBus (ex-Agglobus CAVEM) só aceita pequenos animais em cesto e cães-guia; cães grandes não sobem, mesmo com trela e açaime. Prefira andar, táxi ou TER.`,
+        `Particularidade rara: o anfiteatro romano admite cães com trela em visita padrão. Consulte a agenda municipal para evitar dias de concerto e tourada que fecham o recinto.`,
+        `Em dias de alerta vermelho de incêndio em julho e agosto, os trilhos do Maciço do Estérel são fechados aos caminhantes por decreto da prefeitura. Consulte o mapa diário antes de subir.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Accès : Gare SNCF Fréjus sur la ligne côtière Marseille-Vintimille, TER vers Cannes (40 min), Nice (1h00), Toulon (1h00). TGV depuis Saint-Raphaël-Valescure (un arrêt à l'est). Aéroport Nice (NCE) à 1h en taxi.`,
+        `Plages : trois plages canines officielles ouvertes toute l'année (Argens à Saint-Aygulf, Esclamandes zone nord, Pacha Plage à la Base Nature). Les autres plages municipales appliquent l'interdiction du 15 juin au 15 septembre.`,
+        `Parcs : Base Nature François Léotard (100 ha avec Woof Park clôturé), Jardins de la Villa Aurelienne (23 ha), Étangs de Villepey (260 ha de lagune côtière).`,
+        `Vétérinaires : Clinique des Arènes Fréjus (urgences 24h/24 par astreinte), VET'AURELIA Saint-Raphaël (référence régionale), 3115 national gratuit, 0893020600 régional.`,
+        `Documents : passeport européen, puce ISO et rage en cours de validité obligatoires. Voyageurs hors UE (Royaume-Uni, États-Unis) : certificat sanitaire ou endossement USDA APHIS.`,
+      ],
+      en: [
+        `Getting there: Fréjus SNCF station on the coastal Marseille-Vintimille line, TER to Cannes (40 min), Nice (1h00) and Toulon (1h00). TGV from Saint-Raphaël-Valescure (one stop east). Nice Airport (NCE) is 1 hour by taxi.`,
+        `Beaches: three official dog beaches open year-round (Argens at Saint-Aygulf, Esclamandes northern zone, Pacha Plage at the Base Nature). All other municipal beaches enforce the 15 June to 15 September ban.`,
+        `Parks: Base Nature François Léotard (100 ha with the enclosed Woof Park), Jardins de la Villa Aurelienne (23 ha), Étangs de Villepey (260 ha coastal lagoon).`,
+        `Vets: Clinique des Arènes Fréjus (24/7 emergency on-call), VET'AURELIA Saint-Raphaël (regional reference centre), the free national 3115 hotline, and the regional 0893020600 line.`,
+        `Documents: EU pet passport, ISO microchip and a valid rabies vaccination required. Non-EU travellers (UK, US) need an Animal Health Certificate or USDA APHIS endorsement.`,
+      ],
+      es: [
+        `Cómo llegar: Gare SNCF Fréjus en la línea costera Marsella-Ventimiglia, TER a Cannes (40 min), Niza (1h00) y Toulon (1h00). TGV desde Saint-Raphaël-Valescure (una parada al este). Aeropuerto de Niza (NCE) a 1h en taxi.`,
+        `Playas: tres playas caninas oficiales abiertas todo el año (Argens en Saint-Aygulf, zona norte de Esclamandes, Pacha Plage en la Base Nature). Las demás playas municipales aplican la prohibición del 15 de junio al 15 de septiembre.`,
+        `Parques: Base Nature François Léotard (100 ha con el Woof Park vallado), Jardines de la Villa Aurelienne (23 ha), Étangs de Villepey (260 ha de laguna costera).`,
+        `Veterinarios: Clinique des Arènes Fréjus (urgencias 24/7 con guardia), VET'AURELIA Saint-Raphaël (centro de referencia regional), el número nacional gratuito 3115, y la línea regional 0893020600.`,
+        `Documentos: pasaporte europeo, microchip ISO y vacunación antirrábica vigente obligatorios. Viajeros no UE (Reino Unido, EE. UU.) necesitan certificado sanitario o endoso USDA APHIS.`,
+      ],
+      pt: [
+        `Como chegar: Gare SNCF Fréjus na linha costeira Marselha-Ventimiglia, TER para Cannes (40 min), Nice (1h00) e Toulon (1h00). TGV a partir de Saint-Raphaël-Valescure (uma paragem a leste). Aeroporto de Nice (NCE) a 1h de táxi.`,
+        `Praias: três praias caninas oficiais abertas todo o ano (Argens em Saint-Aygulf, zona norte das Esclamandes, Pacha Plage na Base Nature). As restantes praias municipais aplicam a proibição de 15 de junho a 15 de setembro.`,
+        `Parques: Base Nature François Léotard (100 ha com o Woof Park vedado), Jardins da Villa Aurelienne (23 ha), Étangs de Villepey (260 ha de lagoa costeira).`,
+        `Veterinários: Clinique des Arènes Fréjus (urgência 24/7 em escala), VET'AURELIA Saint-Raphaël (centro de referência regional), o número nacional gratuito 3115, e a linha regional 0893020600.`,
+        `Documentos: passaporte europeu, microchip ISO e vacinação antirrábica válida obrigatórios. Viajantes não-UE (Reino Unido, EUA) precisam de certificado sanitário ou endosso USDA APHIS.`,
+      ],
+    },
+  },
+
   funchal: {
     history: {
       fr: `Funchal, fondée en 1424 par João Gonçalves Zarco peu après la découverte portugaise de Madère, est devenue dès le XVIe siècle le port atlantique le plus actif entre Lisbonne et l'Amérique grâce à sa position avancée sur la route des Indes occidentales et à la production de canne à sucre puis de vin de Madère qui a régalé les cours de Londres, Saint-Pétersbourg et Boston. Aujourd'hui capitale de la Région autonome de Madère avec 105 000 habitants, la ville occupe un amphithéâtre volcanique escarpé orienté plein sud entre l'Atlantique et les montagnes intérieures, ce qui lui vaut un microclimat exceptionnellement doux : 16 à 24 °C toute l'année, jamais de gel, jamais de canicule oppressante. Pour les voyageurs avec chien, Funchal est l'une des destinations européennes les plus accueillantes en hiver : esplanadas à profusion sur l'Avenida Arriaga, la marina et la Zona Velha aux portes peintes, promenade du Lido de 3 km en bord de falaise jusqu'à Praia Formosa, et accès à pied ou en bus à la Levada dos Tornos qui se faufile à flanc de montagne sur des dizaines de kilomètres de canal d'irrigation. Seule contrainte de l'île : un unique hôpital vétérinaire 24h/24 (VetMedis, Caminho de Santo António), une politique stricte d'interdiction estivale des chiens sur les plages urbaines (Praia Formosa, Lido) et un téléphérique du Monte qui n'accepte les chiens qu'en cage fermée.`,

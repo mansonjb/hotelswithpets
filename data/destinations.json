@@ -5112,6 +5112,81 @@
     "tiqetsId": "64980"
   },
   {
+    "slug": "frejus",
+    "name": "Fréjus",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/frejus.jpg",
+    "intro": "Fréjus is the most dog-friendly municipality on the French Riviera by a clear margin: three official year-round dog beaches, a 100-hectare Base Nature park with a brand-new enclosed Woof Park, dogs admitted at the Roman amphitheatre, and the red rocks of the Massif de l'Estérel as a coastal hiking backdrop.",
+    "lat": 43.4332,
+    "lng": 6.737,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & mild",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild with sun",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & mild",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "NCE"
+  },
+  {
     "slug": "funchal",
     "name": "Funchal",
     "country": "Portugal",

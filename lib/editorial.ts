@@ -186,6 +186,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Bürgerpark and adjacent Stadtwald, the Wallanlagen ramparts loop, and the Werderseestrand swim beach',
       area: 'the Altstadt around the Marktplatz, Das Viertel, and the Schnoor',
     },
+    burgos: {
+      personality: `a Castilian plateau city at 860 m crowned by a UNESCO Gothic cathedral, a vital Camino de Santiago stop with eleven official dog enclosures, easy Arlanzón river walks and a 24/7 reference veterinary hospital`,
+      highlight: `the Paseo del Espolón and Arlanzón riverside, Parque del Castillo above the cathedral, and the 6 km Parque de Fuentes Blancas forest extension`,
+      area: `the historic centre around the cathedral, the Castillo hill, and the riverside Espolón promenade`,
+    },
     brighton: {
       personality: 'the UK\'s most reliably dog-friendly seaside city, where pets ride free on the buses and Hove Lawns Beach stays open year-round',
       highlight: 'Hove Lawns, Preston Park, and Stanmer Park on the South Downs',
@@ -1049,6 +1054,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Bürgerpark et le Stadtwald adjacent, la boucle des remparts Wallanlagen et la plage de baignade du Werderseestrand`,
       area: `la Vieille Ville autour du Marktplatz, Das Viertel et le Schnoor`,
     },
+    burgos: {
+      personality: `une cité castillane perchée à 860 m couronnée par une cathédrale gothique UNESCO, étape clé du Camino de Santiago avec onze enclos canins officiels, des promenades faciles en bord d'Arlanzón et un hôpital vétérinaire de référence ouvert 24h/24`,
+      highlight: `le Paseo del Espolón le long de l'Arlanzón, le Parque del Castillo au-dessus de la cathédrale et la grande forêt riveraine de Fuentes Blancas (6 km)`,
+      area: `le centre historique autour de la cathédrale, la colline du Castillo et la promenade riveraine de l'Espolón`,
+    },
     brighton: {
       personality: 'la ville balnéaire britannique la plus fiable côté chiens, où les bus sont gratuits pour les animaux et où Hove Lawns Beach reste ouverte toute l\'année',
       highlight: 'Hove Lawns, Preston Park et Stanmer Park aux portes des South Downs',
@@ -1911,6 +1921,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Bürgerpark y el Stadtwald adyacente, el bucle de las murallas Wallanlagen y la playa de baño del Werderseestrand`,
       area: `el casco antiguo alrededor de la Marktplatz, Das Viertel y el Schnoor`,
     },
+    burgos: {
+      personality: `una ciudad castellana a 860 m coronada por una catedral gótica Patrimonio Mundial, parada clave del Camino de Santiago con once recintos caninos oficiales, paseos fáciles junto al Arlanzón y un hospital veterinario de referencia 24/7`,
+      highlight: `el Paseo del Espolón junto al Arlanzón, el Parque del Castillo sobre la catedral y la gran extensión forestal ribereña de Fuentes Blancas (6 km)`,
+      area: `el casco histórico en torno a la catedral, la colina del Castillo y el paseo ribereño del Espolón`,
+    },
     brighton: {
       personality: 'la ciudad costera más dog-friendly del Reino Unido, donde los autobuses son gratis para mascotas y la playa de Hove Lawns abre todo el año',
       highlight: 'Hove Lawns, Preston Park y Stanmer Park a las puertas de los South Downs',
@@ -2772,6 +2787,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma cidade hanseática norte-alemana onde a estatua UNESCO dos Músicos pone a um cão no corazón da identidad cívica, onde o Bürgerpark de 200 hectáreas linda com o centro e onde as Stuben admiten cães en sala o ano inteiro`,
       highlight: `o Bürgerpark e o Stadtwald adyacente, o bucle das muralhas Wallanlagen e a praia de banho do Werderseestrand`,
       area: `o centro histórico alrededor da Marktplatz, Das Viertel e o Schnoor`,
+    },
+    burgos: {
+      personality: `uma cidade castelhana a 860 m coroada por uma catedral gótica Património Mundial, paragem fundamental do Caminho de Santiago com onze recintos caninos oficiais, passeios fáceis ao longo do Arlanzón e um hospital veterinário de referência 24/7`,
+      highlight: `o Paseo del Espolón junto ao Arlanzón, o Parque del Castillo sobre a catedral e a grande extensão florestal ribeirinha de Fuentes Blancas (6 km)`,
+      area: `o centro histórico em torno da catedral, a colina do Castillo e o passeio ribeirinho do Espolón`,
     },
     brighton: {
       personality: 'a cidade costera mais pet-friendly do Reino Unido, onde os autocarros são grátis para animais e a praia de Hove Lawns abre o ano inteiro',

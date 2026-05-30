@@ -40,6 +40,7 @@ const TARGETS = [
   { slug: 'bolzano',       query: 'Bolzano Italy Piazza Walther Dolomites panorama' },
   { slug: 'zadar',         query: 'Zadar Croatia Sea Organ Greeting to the Sun sunset Adriatic Old Town' },
   { slug: 'tours',         query: 'Tours France Place Plumereau half-timbered houses Vieux-Tours panorama' },
+  { slug: 'burgos',        query: 'Burgos Spain Cathedral Catedral Santa Maria Gothic spires Arlanzon river Castilla panorama sunset' },
   { slug: 'cologne',       query: 'Cologne Cathedral Rhine river' },
   { slug: 'san-sebastian', query: 'La Concha beach San Sebastian' },
   { slug: 'toulouse',      query: 'Place du Capitole Toulouse' },

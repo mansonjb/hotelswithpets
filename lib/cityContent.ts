@@ -5128,6 +5128,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  burgos: {
+    history: {
+      en: `Burgos sits at 860 m on the Castilian plateau, the historic capital of Old Castile and one of the most important Gothic cities in Europe. Founded as a frontier fortress in 884 AD by Count Diego Rodriguez Porcelos against the Arab south, it grew into the seat of the kings of Castile, the burial place of El Cid, and the artistic capital of the medieval north thanks to its UNESCO World Heritage cathedral begun in 1221. The city is also a vital stop on the Camino Frances, the most-walked branch of the Camino de Santiago: pilgrims have crossed the Puente Malatos and entered through the Arco de Santa Maria for over a thousand years. Today Burgos is a calm provincial capital of 175,000 residents on the Arlanzon river, with a compact old town, eleven official canine areas, a 24/7 reference veterinary hospital and a measured Castilian terrace culture that makes it one of the easier UNESCO cities in Spain for dog travellers.`,
+      fr: `Burgos se dresse a 860 m d'altitude sur le plateau castillan, capitale historique de la Vieille-Castille et l'une des grandes villes gothiques d'Europe. Fondee comme forteresse de frontiere en 884 par le comte Diego Rodriguez Porcelos contre le sud arabe, elle devint le siege des rois de Castille, la sepulture du Cid et la capitale artistique du nord medieval grace a sa cathedrale gothique commencee en 1221, classee au patrimoine mondial de l'UNESCO. La ville est aussi une etape majeure du Camino Frances, la branche la plus parcourue du Chemin de Saint-Jacques: les pelerins traversent le Puente Malatos et passent l'Arco de Santa Maria depuis plus de mille ans. Aujourd'hui Burgos est une capitale provinciale paisible de 175 000 habitants sur l'Arlanzon, avec un centre historique compact, onze aires canines officielles, un hopital veterinaire de reference ouvert 24h/24 et une culture castillane de terrasse posee qui en fait l'une des villes UNESCO d'Espagne les plus simples pour voyager avec un chien.`,
+      es: `Burgos se levanta a 860 m sobre la meseta castellana, capital historica de la Vieja Castilla y una de las grandes ciudades goticas de Europa. Fundada como fortaleza fronteriza en 884 por el conde Diego Rodriguez Porcelos contra el sur arabe, se convirtio en sede de los reyes de Castilla, sepultura del Cid y capital artistica del norte medieval gracias a su catedral gotica iniciada en 1221, Patrimonio Mundial de la UNESCO. La ciudad es ademas una parada clave del Camino Frances, la ruta jacobea mas recorrida: los peregrinos cruzan el Puente Malatos y entran por el Arco de Santa Maria desde hace mas de mil anos. Hoy Burgos es una capital provincial apacible de 175 000 habitantes a orillas del Arlanzon, con un casco historico compacto, once areas caninas oficiales, un hospital veterinario de referencia 24/7 y una cultura castellana de terraza pausada que la convierte en una de las ciudades UNESCO de Espana mas comodas para viajar con perro.`,
+      pt: `Burgos ergue-se a 860 m sobre o planalto castelhano, capital historica da Velha Castela e uma das grandes cidades goticas da Europa. Fundada como fortaleza fronteirica em 884 pelo conde Diego Rodriguez Porcelos contra o sul arabe, tornou-se sede dos reis de Castela, sepultura do Cid e capital artistica do norte medieval gracas a sua catedral gotica iniciada em 1221, Patrimonio Mundial da UNESCO. A cidade e tambem uma paragem chave do Caminho Frances, a rota jacobeia mais percorrida: os peregrinos atravessam a Puente Malatos e entram pelo Arco de Santa Maria ha mais de mil anos. Hoje Burgos e uma capital provincial tranquila de 175 000 habitantes nas margens do Arlanzon, com um centro historico compacto, onze areas caninas oficiais, um hospital veterinario de referencia 24/7 e uma cultura castelhana de esplanada pausada que a torna numa das cidades UNESCO de Espanha mais comodas para viajar com cao.`,
+    },
+    sights: [
+      {
+        name: `Catedral de Burgos`,
+        emoji: `⛪`,
+        petFriendly: false,
+        desc: {
+          en: `The UNESCO Gothic cathedral begun in 1221 is the artistic heart of Burgos and the burial place of El Cid. Dogs are not admitted inside (except accredited guide dogs), but the plaza in front, the lanes around the apse and the climb up to the Mirador del Castillo above are all dog-friendly. The exterior is one of the great Gothic photographs in Europe, especially at sunset from the Arco de Santa Maria.`,
+          fr: `La cathedrale gothique UNESCO commencee en 1221 est le coeur artistique de Burgos et la sepulture du Cid. Les chiens ne sont pas admis a l'interieur (sauf chiens guides accredites), mais la place devant, les ruelles autour de l'abside et la montee jusqu'au Mirador del Castillo au-dessus sont accessibles aux chiens. L'exterieur est l'une des plus belles facades gothiques d'Europe, en particulier au coucher du soleil depuis l'Arco de Santa Maria.`,
+          es: `La catedral gotica Patrimonio Mundial iniciada en 1221 es el corazon artistico de Burgos y la sepultura del Cid. Los perros no se admiten en el interior (excepto los guias acreditados), pero la plaza delante, las callejuelas alrededor del abside y la subida al Mirador del Castillo arriba son aptas para perros. El exterior es una de las grandes fachadas goticas de Europa, sobre todo al atardecer desde el Arco de Santa Maria.`,
+          pt: `A catedral gotica Patrimonio Mundial iniciada em 1221 e o coracao artistico de Burgos e a sepultura do Cid. Os caes nao sao admitidos no interior (excepto cao guia acreditado), mas a praca em frente, as ruelas em volta da abside e a subida ao Mirador del Castillo em cima sao acessiveis a caes. O exterior e uma das maiores fachadas goticas da Europa, sobretudo ao por do sol desde o Arco de Santa Maria.`,
+        },
+      },
+      {
+        name: `Paseo del Espolon`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          en: `The signature riverside promenade of Burgos, lined with plane trees and benches between the cathedral and the Arlanzon river. Dogs on leads are welcome along the full length and the connected riverside paths run for several kilometres in both directions, making it the easiest long walk from any central hotel. Free public space, open day and night.`,
+          fr: `La promenade emblematique de Burgos au bord de l'Arlanzon, bordee de platanes et de bancs entre la cathedrale et la riviere. Les chiens en laisse sont les bienvenus sur toute la longueur et les sentiers riverains connectes s'etendent sur plusieurs kilometres dans les deux directions, ce qui en fait la promenade longue la plus facile depuis n'importe quel hotel central. Espace public gratuit, ouvert jour et nuit.`,
+          es: `El paseo fluvial emblematico de Burgos, bordeado de platanos y bancos entre la catedral y el Arlanzon. Los perros con correa son bienvenidos en toda su extension y los senderos ribereños conectados se extienden varios kilometros en ambas direcciones, lo que lo convierte en el paseo largo mas facil desde cualquier hotel cespacioentrico. Espacio publico gratuito, abierto dia y noche.`,
+          pt: `O passeio ribeirinho emblematico de Burgos, ladeado por platanos e bancos entre a catedral e o Arlanzon. Caes a trela sao bem-vindos em toda a extensao e os trilhos ribeirinhos conectados estendem-se por varios quilometros em ambas as direcoes, o que faz dele o passeio longo mais facil a partir de qualquer hotel central. Espaco publico gratuito, aberto dia e noite.`,
+        },
+      },
+      {
+        name: `Parque del Castillo`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          en: `The forested hill above the cathedral that crowns the city, with shaded paths, panoramic miradors over the old town and one of the largest open green spaces in central Burgos. Loved by local dog walkers for its size, distance from traffic and direct climb from the historic centre via the stone steps of the Arco de San Esteban. Includes a designated dog enclosure for off-leash time.`,
+          fr: `La colline boisee au-dessus de la cathedrale qui couronne la ville, avec chemins ombrages, miradors panoramiques sur la vieille ville et l'un des plus vastes espaces verts ouverts du centre. Apprecie des promeneurs de chiens locaux pour sa taille, sa distance du trafic et la montee directe depuis le centre historique par les marches de pierre de l'Arco de San Esteban. Comprend un enclos canin signale pour le sans-laisse.`,
+          es: `La colina arbolada sobre la catedral que corona la ciudad, con senderos sombreados, miradores panoramicos sobre el casco antiguo y uno de los mayores espacios verdes abiertos del centro de Burgos. Querida por los paseadores locales por su tamano, su distancia del trafico y la subida directa desde el casco historico por las escaleras de piedra del Arco de San Esteban. Incluye un recinto canino senalizado para el tiempo sin correa.`,
+          pt: `A colina arborizada sobre a catedral que coroa a cidade, com trilhos sombreados, miradores panoramicos sobre o centro historico e um dos maiores espacos verdes abertos do centro de Burgos. Querida pelos passeadores locais pelo seu tamanho, distancia do transito e subida directa a partir do centro historico pelas escadas de pedra do Arco de San Esteban. Inclui um recinto canino sinalizado para o tempo sem trela.`,
+        },
+      },
+      {
+        name: `Parque de Fuentes Blancas`,
+        emoji: `🌲`,
+        petFriendly: true,
+        desc: {
+          en: `The largest forested park on the edge of Burgos, a 6.5 km riverside extension following the Arlanzon east of the city to the Cartuja de Miraflores. Mixed forest, picnic meadows and a fenced canine enclosure make it the main weekend destination for local dog families. Reachable on foot from the centre via the Paseo de la Quinta riverside path.`,
+          fr: `Le plus grand parc forestier en bordure de Burgos, une extension riveraine de 6,5 km le long de l'Arlanzon a l'est de la ville jusqu'a la Cartuja de Miraflores. Foret mixte, prairies pique-nique et enclos canin cloture en font la destination week-end principale des familles avec chiens. Accessible a pied depuis le centre par le sentier riverain du Paseo de la Quinta.`,
+          es: `El mayor parque forestal en las afueras de Burgos, una extension ribereña de 6,5 km siguiendo el Arlanzon al este hasta la Cartuja de Miraflores. Bosque mixto, praderas de picnic y un recinto canino vallado lo convierten en el destino de fin de semana principal para las familias con perros locales. Accesible a pie desde el centro por el sendero ribereño del Paseo de la Quinta.`,
+          pt: `O maior parque florestal nas margens de Burgos, uma extensao ribeirinha de 6,5 km seguindo o Arlanzon a leste ate a Cartuja de Miraflores. Floresta mista, prados de piquenique e um recinto canino vedado fazem dele o destino de fim de semana principal para as familias com caes locais. Acessivel a pe a partir do centro pelo trilho ribeirinho do Paseo de la Quinta.`,
+        },
+      },
+      {
+        name: `Cartuja de Miraflores`,
+        emoji: `🌿`,
+        petFriendly: true,
+        desc: {
+          en: `A 15th-century Carthusian monastery 4 km east of the centre, surrounded by oak forest at the end of the Fuentes Blancas riverside walk. The chapel interior (free entry) does not admit dogs, but the wooded approach and the formal grounds outside the cloister are dog-accessible. One of the most peaceful long walks from the historic centre.`,
+          fr: `Un monastere chartreux du XVe siecle a 4 km a l'est du centre, entoure d'une chenaie au bout de la promenade riveraine de Fuentes Blancas. L'interieur de la chapelle (entree libre) n'admet pas les chiens, mais l'approche boisee et les abords du cloitre sont accessibles. L'une des plus belles longues promenades depuis le centre historique.`,
+          es: `Un monasterio cartujo del siglo XV a 4 km al este del centro, rodeado de robledal al final del paseo ribereño de Fuentes Blancas. El interior de la capilla (entrada libre) no admite perros, pero el camino arbolado y los aledaños del claustro son accesibles. Uno de los paseos largos mas tranquilos desde el casco historico.`,
+          pt: `Um mosteiro cartuxo do seculo XV a 4 km a leste do centro, rodeado de carvalhal no fim do passeio ribeirinho de Fuentes Blancas. O interior da capela (entrada livre) nao admite caes, mas o caminho arborizado e os arredores do claustro sao acessiveis. Um dos passeios longos mais tranquilos a partir do centro historico.`,
+        },
+      },
+      {
+        name: `Camino Frances crossing`,
+        emoji: `🚶`,
+        petFriendly: true,
+        desc: {
+          en: `Burgos is the end of stage 12 (or 13) on the Camino Frances, the most-walked pilgrim route in Europe. The official route enters the city via the Puente Malatos and follows Calle San Juan past the church of San Lesmes, all dog-friendly outdoor walking. Many pilgrim albergues do not accept dogs, so book private rooms in advance if you arrive on foot with your pet.`,
+          fr: `Burgos est la fin de l'etape 12 (ou 13) du Camino Frances, la route de pelerinage la plus parcourue d'Europe. Le trace officiel entre dans la ville par le Puente Malatos et suit la Calle San Juan en passant devant l'eglise San Lesmes, parcours exterieur entierement praticable avec chien. De nombreux albergues n'acceptent pas les chiens, reservez des chambres privees a l'avance si vous arrivez a pied avec votre animal.`,
+          es: `Burgos es el final de la etapa 12 (o 13) del Camino Frances, la ruta jacobea mas recorrida de Europa. El trazado oficial entra en la ciudad por el Puente Malatos y sigue la calle San Juan ante la iglesia de San Lesmes, recorrido exterior totalmente apto para perros. Muchos albergues no admiten perros, reserve habitaciones privadas con antelacion si llega a pie con su mascota.`,
+          pt: `Burgos e o fim da etapa 12 (ou 13) do Caminho Frances, a rota de peregrinacao mais percorrida da Europa. O traco oficial entra na cidade pela Puente Malatos e segue a Calle San Juan pela igreja de San Lesmes, percurso exterior totalmente acessivel a caes. Muitos albergues nao admitem caes, reserve quartos privados com antecedencia se chegar a pe com o seu animal.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Burgos sits at 860 m on the Castilian plateau: winters are cold with possible snow in January and February, summers are warm but with cool nights. Bring a coat for the dog in winter and walk early or late in summer.`,
+        `The cathedral interior does not admit dogs (except accredited guide dogs); plan a relay between travellers or a Gudog/Rover sitter for the 1.5-2 hour interior visit.`,
+        `Eleven official fenced dog enclosures are distributed across the city; the council publishes a map and the best maintained are at Parque del Castillo and Fuentes Blancas.`,
+        `If you are walking the Camino Frances, ask the cathedral pilgrim office about the Canine Compostela (Perregrina), the certificate for dogs that complete the route.`,
+        `Tick prevention is essential on the Meseta sections of the Camino leaving Burgos; ask your home vet for a 3-month treatment before departure.`,
+      ],
+      fr: [
+        `Burgos est a 860 m sur le plateau castillan: hivers froids avec neige possible en janvier-fevrier, etes chauds aux nuits fraiches. Prevoyez un manteau pour le chien en hiver et promenez tot ou tard en ete.`,
+        `L'interieur de la cathedrale n'admet pas les chiens (sauf guides accredites); prevoyez un relais entre voyageurs ou un sitter Gudog/Rover pour la visite interieure de 1h30-2h.`,
+        `Onze enclos canins officiels cloturés sont repartis dans la ville; la mairie publie une carte, les mieux entretenus sont au Parque del Castillo et a Fuentes Blancas.`,
+        `Si vous faites le Camino Frances, renseignez-vous au bureau du pelerin de la cathedrale sur la Compostela Canine (Perregrina), le certificat pour les chiens qui terminent la route.`,
+        `La prevention des tiques est essentielle sur les sections de Meseta apres Burgos; demandez a votre veterinaire un traitement de 3 mois avant le depart.`,
+      ],
+      es: [
+        `Burgos esta a 860 m en la meseta castellana: inviernos frios con nieve posible en enero y febrero, veranos calidos con noches frescas. Lleve un abrigo para el perro en invierno y pasee temprano o tarde en verano.`,
+        `El interior de la catedral no admite perros (excepto guias acreditados); organice un relevo entre viajeros o un cuidador Gudog/Rover para la visita interior de 1,5-2 horas.`,
+        `Once recintos caninos oficiales vallados estan distribuidos por la ciudad; el ayuntamiento publica un mapa y los mejor mantenidos estan en el Parque del Castillo y en Fuentes Blancas.`,
+        `Si esta haciendo el Camino Frances, pregunte en la oficina del peregrino junto a la catedral por la Compostela Canina (Perregrina), el certificado para perros que completan la ruta.`,
+        `La prevencion de garrapatas es esencial en los tramos de Meseta tras Burgos; pida a su veterinario un tratamiento de 3 meses antes de salir.`,
+      ],
+      pt: [
+        `Burgos esta a 860 m no planalto castelhano: invernos frios com neve possivel em janeiro e fevereiro, veroes quentes com noites frescas. Leve um casaco para o cao no inverno e passeie cedo ou tarde no verao.`,
+        `O interior da catedral nao admite caes (excepto cao guia acreditado); organize um revezamento entre viajantes ou um cuidador Gudog/Rover para a visita interior de 1,5-2 horas.`,
+        `Onze recintos caninos oficiais vedados estao distribuidos pela cidade; a camara publica um mapa e os mais bem mantidos estao no Parque del Castillo e em Fuentes Blancas.`,
+        `Se esta a fazer o Caminho Frances, pergunte no escritorio do peregrino junto a catedral pela Compostela Canina (Perregrina), o certificado para caes que completam a rota.`,
+        `A prevencao de carraças e essencial nos tramos de Meseta apos Burgos; peca ao seu veterinario um tratamento de 3 meses antes de partir.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `24-hour emergency vet: Hospital Veterinario Vistalegre (Evidensia), +34 947 22 02 22; Clinica Veterinaria Valderrama, +34 947 22 12 12. Save at least one before arriving.`,
+        `Dogs must be microchipped and have a valid EU pet passport with rabies vaccination to enter Spain; UK travellers since Brexit need an Animal Health Certificate (AHC) issued within 10 days of travel.`,
+        `Public transport: small pets in a closed carrier are admitted on SMyT urban buses; large dogs are not currently allowed on board. Walking and taxis are the practical options.`,
+        `Renfe: Madrid-Burgos by AVE in about 1 h 35 min; Bilbao-Burgos by Alvia in about 2 h 50 min. Small pets up to 10 kg travel free in a carrier; larger dogs need the Renfe Mascota ticket.`,
+        `Burgos Airport (RGS) is 4 km east of the centre but has limited routes; most international travellers fly to Bilbao (BIO) or Madrid (MAD) and connect by AVE.`,
+      ],
+      fr: [
+        `Urgences veterinaires 24h: Hospital Veterinario Vistalegre (Evidensia), +34 947 22 02 22; Clinica Veterinaria Valderrama, +34 947 22 12 12. Enregistrez au moins l'un avant d'arriver.`,
+        `Les chiens doivent etre microchippes et avoir un passeport europeen valide avec vaccination antirabique pour entrer en Espagne; les voyageurs britanniques doivent depuis le Brexit obtenir un Animal Health Certificate (AHC) dans les 10 jours precedant le voyage.`,
+        `Transports en commun: petits animaux en cage fermee admis sur les bus urbains SMyT; les grands chiens ne sont pas autorises a bord actuellement. La marche et le taxi sont les options pratiques.`,
+        `Renfe: Madrid-Burgos en AVE en environ 1h35; Bilbao-Burgos en Alvia en environ 2h50. Petits animaux jusqu'a 10 kg gratuits en cage; grands chiens via le billet Renfe Mascota.`,
+        `L'aeroport de Burgos (RGS) est a 4 km a l'est du centre mais offre peu de liaisons; la plupart des voyageurs internationaux passent par Bilbao (BIO) ou Madrid (MAD) puis l'AVE.`,
+      ],
+      es: [
+        `Urgencias veterinarias 24 h: Hospital Veterinario Vistalegre (Evidensia), +34 947 22 02 22; Clinica Veterinaria Valderrama, +34 947 22 12 12. Guarde al menos uno antes de llegar.`,
+        `Los perros deben estar microchipados y tener un pasaporte europeo valido con vacuna antirrabica para entrar en Espana; los viajeros del Reino Unido necesitan desde el Brexit un Animal Health Certificate (AHC) emitido en los 10 dias previos al viaje.`,
+        `Transporte publico: mascotas pequenas en transportin cerrado admitidas en los autobuses urbanos SMyT; los perros grandes no estan permitidos actualmente a bordo. Caminar y el taxi son las opciones practicas.`,
+        `Renfe: Madrid-Burgos en AVE en unas 1 h 35; Bilbao-Burgos en Alvia en unas 2 h 50. Mascotas pequenas de hasta 10 kg gratis en transportin; perros grandes con billete Renfe Mascota.`,
+        `El aeropuerto de Burgos (RGS) esta a 4 km al este del centro pero tiene rutas limitadas; la mayoria de los viajeros internacionales pasan por Bilbao (BIO) o Madrid (MAD) y conectan en AVE.`,
+      ],
+      pt: [
+        `Urgencias veterinarias 24 h: Hospital Veterinario Vistalegre (Evidensia), +34 947 22 02 22; Clinica Veterinaria Valderrama, +34 947 22 12 12. Guarde pelo menos um antes de chegar.`,
+        `Os caes devem estar microchipados e ter um passaporte europeu valido com vacina antirrabica para entrar em Espanha; os viajantes do Reino Unido precisam desde o Brexit de um Animal Health Certificate (AHC) emitido nos 10 dias anteriores a viagem.`,
+        `Transporte publico: animais pequenos em transportadora fechada admitidos nos autocarros urbanos SMyT; os caes grandes nao estao permitidos actualmente a bordo. Caminhar e o taxi sao as opcoes praticas.`,
+        `Renfe: Madrid-Burgos em AVE em cerca de 1 h 35; Bilbao-Burgos em Alvia em cerca de 2 h 50. Animais pequenos ate 10 kg gratis em transportadora; caes grandes com bilhete Renfe Mascota.`,
+        `O aeroporto de Burgos (RGS) fica a 4 km a leste do centro mas tem rotas limitadas; a maioria dos viajantes internacionais passa por Bilbao (BIO) ou Madrid (MAD) e conecta em AVE.`,
+      ],
+    },
+  },
+
   cadiz: {
     history: {
       en: `Cadiz claims to be the oldest continuously inhabited city in Western Europe, founded by Phoenician traders from Tyre as Gadir around 1100 BC to access Iberian silver, tin and amber, with a home port for fleets sailing north toward Britain. It passed under Carthaginian control (Hamilcar Barca established a base here in 237 BC), then became the prosperous Roman port of Gades, whose amphorae reached across the empire. Centuries later it grew rich as the gateway to Spain's American trade, a role that shaped its grand 18th-century old town of watchtowers, plazas and sea ramparts. For the dog traveller, Cadiz is unusually easy: a compact, walled centre you cover entirely on foot, leashed dogs welcome on terraces and seafront promenades, fenced off-leash dog areas, and beach access on the city sands out of season plus a dedicated dog beach at Torregorda.`,

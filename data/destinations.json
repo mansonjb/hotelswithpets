@@ -3006,6 +3006,81 @@
     "tiqetsId": "68199"
   },
   {
+    "slug": "burgos",
+    "name": "Burgos",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/burgos.jpg",
+    "intro": "Burgos crowns the Castilian plateau with its UNESCO Gothic cathedral, a key stop on the Camino de Santiago, eleven dog parks and easy riverside walks with your pet.",
+    "lat": 42.3439,
+    "lng": -3.6970,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold with possible snow",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold & dry",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm with cool nights",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm with cool nights",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool autumn",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cold with rain",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & frosty",
+        "icon": "❄️"
+      }
+    },
+    "iata": "RGS"
+  },
+  {
     "slug": "cadiz",
     "name": "Cadiz",
     "country": "Spain",

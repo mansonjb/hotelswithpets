@@ -5917,6 +5917,126 @@
     "petPolicyPt": "Aria Hotel Budapest por Library Hotel Collection warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €35 por noite applies, charged em check-em. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "burgos-1",
+    "name": "NH Collection Palacio de Burgos",
+    "destinationSlug": "burgos",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3800,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/nh-collection-palacio-de-burgos.html",
+    "petFee": 35,
+    "petPolicy": "Two pets under 25 kg accepted in designated rooms for EUR 35 per pet per night. Both dogs and cats welcome. Guide dogs stay free of charge. Pets are not permitted in the food and beverage areas. The hotel sits in a restored 16th-century convent right beside the River Arlanzón and a five-minute walk from the cathedral, with the leafy Paseo del Espolón ideal for sunset dog walks.",
+    "highlights": [
+      "Historic building",
+      "Central location",
+      "On-site restaurant"
+    ],
+    "slug": "nh-collection-palacio-de-burgos"
+  },
+  {
+    "id": "burgos-2",
+    "name": "Hotel Norte y Londres",
+    "destinationSlug": "burgos",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free",
+      "no-pet-fee"
+    ],
+    "stars": 2,
+    "rating": 8.5,
+    "reviewCount": 6500,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/norteylondres.html",
+    "petFee": 0,
+    "petPolicy": "Pets stay free of charge with no size or breed limit, as long as they are well-behaved and used to travelling. Pets cannot be left alone in the rooms but are welcome in the common areas. A charming family-run hotel in a historic building 150 metres from Burgos Cathedral, perfectly placed for short walks with a dog through the medieval old town.",
+    "highlights": [
+      "Historic building",
+      "Central location",
+      "Antique furniture"
+    ],
+    "slug": "hotel-norte-y-londres"
+  },
+  {
+    "id": "burgos-3",
+    "name": "Hotel Boreal Viento Norte",
+    "destinationSlug": "burgos",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1100,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/boreal-viento-norte.html",
+    "petFee": 10,
+    "petPolicy": "Pets of any size welcome for EUR 10 per pet per night, both dogs and cats accepted. A modern hotel a five-minute walk from central Burgos and 13 minutes from the Espolón promenade along the river, where leashed dogs are part of daily life.",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Free private parking"
+    ],
+    "slug": "hotel-boreal-viento-norte"
+  },
+  {
+    "id": "burgos-4",
+    "name": "Hotel Centro Los Braseros",
+    "destinationSlug": "burgos",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 2200,
+    "priceFrom": 68,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/centro-los-braseros.html",
+    "petFee": 8,
+    "petPolicy": "Pets of any size welcome for EUR 8 per pet per night, both dogs and cats accepted with no specified limit per room. A reliable central option a short walk from the cathedral and from the Camino de Santiago pilgrim route that crosses Burgos, with grassy banks along the Arlanzón nearby for daily walks.",
+    "highlights": [
+      "Free WiFi",
+      "On-site restaurant",
+      "Central location"
+    ],
+    "slug": "hotel-centro-los-braseros"
+  },
+  {
+    "id": "burgos-5",
+    "name": "Hotel Los Braseros",
+    "destinationSlug": "burgos",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1800,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/los-braseros.html",
+    "petFee": 8,
+    "petPolicy": "Pets of any size welcome for EUR 8 per pet per night, dogs and cats accepted. A quieter sister property near the Camino de Plata shopping centre about 20 minutes from the historic centre, with open spaces around the hotel for stretching after a long Camino walking stage.",
+    "highlights": [
+      "Free private parking",
+      "Free WiFi",
+      "On-site restaurant"
+    ],
+    "slug": "hotel-los-braseros"
+  },
+  {
     "id": "cadiz-1",
     "name": "Parador de Cadiz",
     "destinationSlug": "cadiz",

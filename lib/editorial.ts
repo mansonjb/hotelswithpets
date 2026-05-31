@@ -616,6 +616,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Promenade des Anglais, Parc du Mont Boron, and the Colline du Château',
       area: 'the Old Town (Vieux-Nice), Cimiez, and the Port',
     },
+    nimes: {
+      personality: `the third corner of the Provence Roman triangle (with Avignon and Arles), where the Arènes carry the rare Qualidog label and admit leashed dogs of all sizes free of charge, where the 15-hectare Jardins de la Fontaine open up under the Tour Magne and where the UNESCO Pont du Gard sits 25 km north for a dog-friendly day trip`,
+      highlight: `the Arènes de Nîmes (free Qualidog access for leashed dogs), the Jardins de la Fontaine up to the Tour Magne, and the Pont du Gard with its Gardon river dog-swim`,
+      area: `the Écusson historic centre around the Arènes and Maison Carrée, the Quai de la Fontaine and Mont Cavalier, and the residential Vacquerolles south-west of the centre`,
+    },
     nuremberg: {
       personality: 'a medieval Franconian city where Wirtshaus culture welcomes dogs indoors, two 24/7 emergency vets stand ready, and the 25,000-hectare Reichswald forest offers off-leash space at the city edge',
       highlight: 'the Kaiserburg castle gardens, the Wöhrder See dog beach, and the Sebalder Reichswald forest paths',
@@ -1504,6 +1509,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Promenade des Anglais, le Parc du Mont Boron et la Colline du Château',
       area: 'le Vieux-Nice, Cimiez et le Port',
     },
+    nimes: {
+      personality: `le troisième sommet du triangle romain de Provence (avec Avignon et Arles), où les Arènes portent le rare label Qualidog et admettent les chiens en laisse de toutes tailles gratuitement, où les Jardins de la Fontaine de 15 ha s'ouvrent sous la Tour Magne et où le Pont du Gard UNESCO est à 25 km au nord pour une journée canine`,
+      highlight: `les Arènes de Nîmes (accès Qualidog gratuit pour les chiens en laisse), les Jardins de la Fontaine jusqu'à la Tour Magne, et le Pont du Gard avec sa baignade canine dans le Gardon`,
+      area: `l'Écusson historique autour des Arènes et de la Maison Carrée, le Quai de la Fontaine et le Mont Cavalier, et le quartier résidentiel des Vacquerolles au sud-ouest du centre`,
+    },
     nuremberg: {
       personality: `une ville franconienne médiévale où la culture Wirtshaus accueille les chiens à l'intérieur, deux vétérinaires d'urgences 24h/24 sont disponibles, et la forêt du Reichswald (25 000 ha) offre de l'espace sans laisse en lisière de ville`,
       highlight: 'les jardins du château Kaiserburg, la plage canine du Wöhrder See, et les sentiers forestiers du Sebalder Reichswald',
@@ -2391,6 +2401,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Paseo de los Ingleses, el Parque del Mont Boron y la Colina del Castillo',
       area: 'el Casco Antiguo (Vieux-Nice), Cimiez y el Puerto',
     },
+    nimes: {
+      personality: `el tercer vértice del triángulo romano de Provenza (con Aviñón y Arles), donde las Arenas llevan el raro sello Qualidog y admiten perros con correa de todos los tamaños gratuitamente, donde los Jardins de la Fontaine de 15 ha se abren bajo la Tour Magne y donde el Pont du Gard UNESCO está a 25 km al norte para una jornada canina`,
+      highlight: `las Arenas de Nîmes (acceso Qualidog gratuito a perros con correa), los Jardins de la Fontaine hasta la Tour Magne, y el Pont du Gard con su baño canino en el Gardon`,
+      area: `el Écusson histórico en torno a las Arenas y la Maison Carrée, el Quai de la Fontaine y el Mont Cavalier, y el barrio residencial de Vacquerolles al suroeste del centro`,
+    },
     nuremberg: {
       personality: 'una ciudad franconia medieval donde la cultura Wirtshaus admite perros dentro, dos veterinarios de urgencias 24h están disponibles y el bosque del Reichswald (25.000 ha) ofrece espacio sin correa al borde de la ciudad',
       highlight: 'los jardines del castillo Kaiserburg, la playa canina del Wöhrder See y los senderos forestales del Sebalder Reichswald',
@@ -3277,6 +3292,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade mediterrânea banhada pelo sol onde os cães acompanhan aos seus duenhos en restaurantes de esplanada, no mercado do centro histórico e a lo largo do famoso passeio marítimo',
       highlight: 'o Passeio dos Ingleses, o Parque do Mont Boron e a Colina do Castelo',
       area: 'o Centro histórico (Vieux-Nice), Cimiez e o Porto',
+    },
+    nimes: {
+      personality: `o terceiro vértice do triângulo romano de Provença (com Avinhão e Arles), onde as Arenas têm o raro selo Qualidog e admitem cães com trela de todos os tamanhos gratuitamente, onde os Jardins de la Fontaine de 15 ha se abrem sob a Tour Magne e onde o Pont du Gard UNESCO está a 25 km a norte para uma jornada canina`,
+      highlight: `as Arenas de Nîmes (acesso Qualidog gratuito a cães com trela), os Jardins de la Fontaine até à Tour Magne, e o Pont du Gard com o seu banho canino no Gardon`,
+      area: `o Écusson histórico em torno das Arenas e da Maison Carrée, o Quai de la Fontaine e o Mont Cavalier, e o bairro residencial de Vacquerolles a sudoeste do centro`,
     },
     nuremberg: {
       personality: 'uma cidade franconia medieval onde a cultura Wirtshaus admite cães dentro, dos veterinários de urgências 24h estão disponibles e o floresta do Reichswald (25.000 ha) ofrece espacio sem trela al borde da cidade',

@@ -15376,6 +15376,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  nimes: {
+    history: {
+      fr: `Nîmes, surnommée la Rome française pour son patrimoine antique, fut une colonie romaine fondée vers 28 av. J.-C. sous Auguste, qui frappa la pièce du « COL NEM » au crocodile attaché à un palmier, devenue l'emblème éternel de la ville. La cité conserve l'amphithéâtre romain le mieux préservé au monde (les Arènes, vers 70 ap. J.-C.), le temple le plus complet de l'Antiquité romaine (la Maison Carrée, classée UNESCO en 2023), la Tour Magne au sommet du Mont Cavalier, et le Pont du Gard à 25 km. Au XVIIIe siècle, Nîmes invente la « serge de Nîmes » – le tissu denim – qui partira pour les mineurs californiens en 1853. Pour les voyageurs avec chien ou chat, la France impose le passeport européen, la puce ISO et la rage en cours de validité. Les Arènes portent le label Qualidog et admettent expressément les chiens en laisse de toutes tailles gratuitement, une rareté française ; les Jardins de la Fontaine de 15 ha sont ouverts en laisse ; et le Pont du Gard accepte les chiens en laisse sur le pont, les berges et la rivière (hors zone d'exclusion de 30 m du pont).`,
+      en: `Nîmes, nicknamed the French Rome for its antique heritage, was a Roman colony founded around 28 BC under Augustus, who struck the COL NEM coin showing a crocodile chained to a palm tree, still the city's eternal emblem. It holds the best-preserved Roman amphitheatre in the world (the Arènes, around 70 AD), the most complete Roman temple anywhere (the Maison Carrée, UNESCO-listed in 2023), the Tour Magne at the summit of Mont Cavalier, and the Pont du Gard 25 km north. In the 18th century, Nîmes invented the serge de Nîmes, the denim fabric that left for the Californian miners in 1853. For travelling pets, France requires the EU pet passport, ISO microchip and a valid rabies vaccination. The Arènes carry the Qualidog label and explicitly admit leashed dogs of all sizes free of charge, a French rarity; the 15-hectare Jardins de la Fontaine are open to leashed dogs; and the Pont du Gard accepts leashed dogs on the bridge, the banks and the river (outside a 30-metre bridge exclusion zone).`,
+      es: `Nîmes, apodada la Roma francesa por su patrimonio antiguo, fue una colonia romana fundada hacia el 28 a.C. bajo Augusto, que acuñó la moneda COL NEM con el cocodrilo encadenado a una palmera, aún emblema eterno de la ciudad. Alberga el anfiteatro romano mejor conservado del mundo (las Arenas, hacia el 70 d.C.), el templo romano más completo del mundo (la Maison Carrée, Patrimonio Mundial UNESCO en 2023), la Tour Magne en la cima del Mont Cavalier, y el Pont du Gard a 25 km al norte. En el siglo XVIII, Nîmes inventó la serge de Nîmes, el tejido denim que viajó hasta los mineros californianos en 1853. Para las mascotas viajeras, Francia exige el pasaporte europeo, microchip ISO y vacunación antirrábica vigente. Las Arenas llevan el sello Qualidog y admiten expresamente perros con correa de todos los tamaños gratuitamente, una rareza francesa; los Jardins de la Fontaine de 15 ha están abiertos a perros con correa; y el Pont du Gard admite perros con correa en el puente, las orillas y el río (fuera de la zona de exclusión de 30 m del puente).`,
+      pt: `Nîmes, apelidada de Roma francesa pelo seu património antigo, foi uma colónia romana fundada por volta de 28 a.C. sob Augusto, que cunhou a moeda COL NEM com o crocodilo agrilhoado a uma palmeira, ainda emblema eterno da cidade. Alberga o anfiteatro romano mais bem conservado do mundo (as Arenas, por volta de 70 d.C.), o templo romano mais completo do mundo (a Maison Carrée, Património Mundial da UNESCO em 2023), a Tour Magne no cimo do Mont Cavalier, e o Pont du Gard a 25 km a norte. No século XVIII, Nîmes inventou a serge de Nîmes, o tecido denim que viajou até aos mineiros californianos em 1853. Para os animais em viagem, a França exige o passaporte europeu, microchip ISO e vacinação antirrábica válida. As Arenas têm o selo Qualidog e admitem expressamente cães com trela de todos os tamanhos gratuitamente, uma raridade francesa; os Jardins de la Fontaine de 15 ha estão abertos a cães com trela; e o Pont du Gard aceita cães com trela na ponte, margens e rio (fora da zona de exclusão de 30 m da ponte).`,
+    },
+    sights: [
+      {
+        name: `Arènes de Nîmes (Qualidog)`,
+        emoji: `🏛️`,
+        petFriendly: true,
+        desc: {
+          fr: `L'amphithéâtre romain le mieux préservé au monde, construit vers 70 ap. J.-C. et accueillant encore corridas, opéra et concerts. Le site porte le label Qualidog et admet expressément les chiens en laisse de toutes tailles, y compris catégorisés, gratuitement aux heures de visite normales. L'amphithéâtre ferme aux visiteurs pendant les férias et concerts.`,
+          en: `The best-preserved Roman amphitheatre in the world, built around 70 AD and still hosting bullfights, opera and concerts. The site carries the Qualidog label and explicitly admits leashed dogs of all sizes, including categorised dogs, free of charge during normal visiting hours. The amphitheatre closes to visitors during ferias and concerts.`,
+          es: `El anfiteatro romano mejor conservado del mundo, construido hacia el 70 d.C. y que sigue acogiendo corridas, ópera y conciertos. El sitio lleva el sello Qualidog y admite expresamente perros con correa de todos los tamaños, incluidos los categorizados, gratuitamente en horario de visita normal. El anfiteatro cierra a visitantes durante ferias y conciertos.`,
+          pt: `O anfiteatro romano mais bem conservado do mundo, construído por volta de 70 d.C. e ainda a acolher corridas, ópera e concertos. O sítio tem o selo Qualidog e admite expressamente cães com trela de todos os tamanhos, incluindo categorizados, gratuitamente nos horários de visita normais. O anfiteatro fecha a visitantes durante férias e concertos.`,
+        },
+      },
+      {
+        name: `Maison Carrée (exterior)`,
+        emoji: `🏛️`,
+        petFriendly: true,
+        desc: {
+          fr: `Le temple romain construit vers 4-7 ap. J.-C. et dédié aux petits-fils d'Auguste, le temple le plus complet de l'Antiquité, inscrit UNESCO en 2023. Les chiens sont interdits dans le cinéma 3D intérieur et l'exposition (chiens-guides uniquement). La place piétonne autour et les marches du temple sont en accès libre aux chiens en laisse à toute heure.`,
+          en: `The Roman temple built around 4-7 AD and dedicated to the grandsons of Augustus, the most complete Roman temple anywhere, UNESCO-listed in 2023. Dogs are banned from the interior 3D cinema and exhibition (guide dogs only). The pedestrian square around it and the temple steps are open access to leashed dogs at any time.`,
+          es: `El templo romano construido hacia el 4-7 d.C. y dedicado a los nietos de Augusto, el templo más completo de la Antigüedad, Patrimonio Mundial UNESCO en 2023. Los perros están prohibidos en el cine 3D interior y la exposición (solo perros guía). La plaza peatonal alrededor y los escalones del templo son de acceso libre a perros con correa a cualquier hora.`,
+          pt: `O templo romano construído por volta de 4-7 d.C. e dedicado aos netos de Augusto, o templo mais completo da Antiguidade, Património Mundial da UNESCO em 2023. Os cães são proibidos no cinema 3D interior e na exposição (apenas cães-guia). A praça pedonal em redor e os degraus do templo são de acesso livre a cães com trela a qualquer hora.`,
+        },
+      },
+      {
+        name: `Jardins de la Fontaine & Tour Magne`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          fr: `Premier jardin public de France, ouvert en 1750 autour du sanctuaire-source romain sur le Mont Cavalier, 15 hectares avec parterres en terrasses et montée boisée vers la Tour Magne romaine au sommet. Gratuit. L'office de tourisme confirme que les chiens en laisse y sont bienvenus partout ; l'intérieur de la Tour Magne romaine interdit en revanche les chiens hormis chiens-guides et d'assistance.`,
+          en: `France's first public garden, opened in 1750 around the Roman sanctuary spring on Mont Cavalier, 15 hectares with terraced parterres and a wooded climb to the Roman Tour Magne at the top. Free admission. The tourism office confirms leashed dogs are welcome throughout; the interior of the Roman Tour Magne however bans dogs other than guide and assistance dogs.`,
+          es: `Primer jardín público de Francia, abierto en 1750 alrededor del santuario-fuente romano en el Mont Cavalier, 15 hectáreas con parterres aterrazados y ascenso arbolado a la Tour Magne romana en la cima. Gratuito. La oficina de turismo confirma que los perros con correa son bienvenidos por todas partes; el interior de la Tour Magne romana, en cambio, prohíbe perros salvo guía y asistencia.`,
+          pt: `Primeiro jardim público de França, aberto em 1750 em redor do santuário-fonte romano no Mont Cavalier, 15 hectares com canteiros em socalcos e subida arborizada à Tour Magne romana no topo. Gratuito. O posto de turismo confirma que os cães com trela são bem-vindos por todo o lado; o interior da Tour Magne romana, contudo, proíbe cães salvo de assistência.`,
+        },
+      },
+      {
+        name: `Pont du Gard`,
+        emoji: `🌊`,
+        petFriendly: true,
+        desc: {
+          fr: `L'aqueduc romain à trois étages construit au Ier siècle, classé UNESCO et le monument le plus visité du Gard. La réglementation officielle admet les chiens en laisse sur le pont, les berges, les sentiers extérieurs, et la nage libre des chiens dans le Gardon hors d'une zone d'exclusion de 30 mètres en amont et en aval des piles. L'intérieur du musée, le Ciné, le Ludo et la canalisation romaine interdisent les chiens.`,
+          en: `The three-tier Roman aqueduct built in the 1st century, UNESCO-listed and the most-visited monument in the Gard. The official site regulations admit leashed dogs on the bridge, the banks, the exterior trails, and free swimming for dogs in the Gardon outside a 30-metre exclusion zone upstream and downstream of the piers. The museum interior, the Ciné, the Ludo and the Roman canalisation ban dogs.`,
+          es: `El acueducto romano de tres niveles construido en el siglo I, Patrimonio Mundial UNESCO y el monumento más visitado del Gard. El reglamento oficial admite perros con correa en el puente, las orillas, los senderos exteriores, y baño libre para perros en el Gardon fuera de una zona de exclusión de 30 metros aguas arriba y abajo de los pilares. El interior del museo, el Ciné, el Ludo y la canalización romana prohíben perros.`,
+          pt: `O aqueduto romano de três níveis construído no século I, Património Mundial da UNESCO e o monumento mais visitado do Gard. O regulamento oficial admite cães com trela na ponte, margens, trilhos exteriores, e nado livre para cães no Gardon fora de uma zona de exclusão de 30 metros a montante e jusante dos pilares. O interior do museu, o Ciné, o Ludo e a canalização romana proíbem cães.`,
+        },
+      },
+      {
+        name: `Bois des Espeisses`,
+        emoji: `🌲`,
+        petFriendly: true,
+        desc: {
+          fr: `Un bois municipal de 165 hectares à la lisière nord-ouest de Nîmes, le plus grand espace vert de la commune, avec sentiers balisés, garrigue et pins parasols. Chiens en laisse sur tous les sentiers ; chiens catégorisés (catégories 1 et 2) muselés. Ferme aux marcheurs les jours d'alerte rouge feu de la préfecture du Gard.`,
+          en: `A 165-hectare municipal wood on the north-west edge of Nîmes, the city's largest green space, with marked trails, garrigue and stone pines. Dogs on lead on all trails; categorised dogs (categories 1 and 2 under French law) muzzled. Closes to walkers on red fire-risk days declared by the Gard prefecture.`,
+          es: `Un bosque municipal de 165 hectáreas en el límite noroeste de Nîmes, el mayor espacio verde de la comuna, con senderos señalizados, garriga y pinos piñoneros. Perros con correa en todos los senderos; perros categorizados (categorías 1 y 2) con bozal. Cierra a caminantes los días de alerta roja de incendio de la prefectura del Gard.`,
+          pt: `Uma mata municipal de 165 hectares no limite noroeste de Nîmes, o maior espaço verde da comuna, com trilhos sinalizados, garrigue e pinheiros-mansos. Cães com trela em todos os trilhos; cães categorizados (categorias 1 e 2) com açaime. Fecha a caminhantes nos dias de alerta vermelho de incêndio da prefeitura do Gard.`,
+        },
+      },
+      {
+        name: `Place du Forum & Esplanade Charles-de-Gaulle`,
+        emoji: `☕`,
+        petFriendly: true,
+        desc: {
+          fr: `Le centre social de Nîmes, avec la Place du Marché et l'Esplanade Charles-de-Gaulle qui prolonge les terrasses devant les Arènes. Vastes terrasses, fontaine, terre-plein bordé de platanes. Les chiens en laisse y sont partout chez eux, et les serveurs apportent souvent un bol d'eau spontanément en été.`,
+          en: `The social heart of Nîmes, with Place du Marché and the Esplanade Charles-de-Gaulle stretching the terraces in front of the Arènes. Wide terraces, fountain, plane-tree-lined central strip. Leashed dogs are entirely at home, and waiters often bring out a water bowl spontaneously in summer.`,
+          es: `El corazón social de Nîmes, con la Place du Marché y la Esplanade Charles-de-Gaulle que prolongan las terrazas frente a las Arenas. Amplias terrazas, fuente, mediana con plátanos. Los perros con correa están en su elemento, y los camareros traen a menudo un cuenco de agua espontáneamente en verano.`,
+          pt: `O coração social de Nîmes, com a Place du Marché e a Esplanade Charles-de-Gaulle que prolongam as esplanadas em frente às Arenas. Esplanadas amplas, fonte, separador central com plátanos. Os cães com trela estão à vontade, e os empregados trazem frequentemente uma taça de água espontaneamente no verão.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les Arènes de Nîmes portent le label Qualidog : chiens en laisse de toutes tailles admis gratuitement à l'intérieur du monument, une rareté française à exploiter.`,
+        `Le Pont du Gard accepte les chiens en laisse sur le pont, les berges et la nage libre dans le Gardon (sauf zone d'exclusion de 30 m au pont). L'intérieur du musée, du Ciné, du Ludo et de la canalisation romaine est en revanche fermé aux chiens.`,
+        `Les bus urbains Tango n'acceptent que les petits animaux en panier fermé et les chiens-guides ; avec un chien moyen ou grand, prévoyez la marche dans le centre (1 km de large) ou le taxi.`,
+        `Évitez le centre pendant la Féria de Pentecôte (début juin) et la Féria des Vendanges (mi-septembre) : plus de 500 000 visiteurs sur 6 jours, fanfares, feux et foule jusqu'à l'aube, inadapté aux chiens.`,
+        `Astreinte vétérinaire 24h/24 : 04 27 04 02 72 (Vétérinaires 2 Toute Urgence, route de Montpellier) couvre Nîmes, Arles et la Camargue.`,
+      ],
+      en: [
+        `The Arènes de Nîmes carry the Qualidog label: leashed dogs of all sizes admitted free of charge inside the monument, a French rarity worth exploiting.`,
+        `Pont du Gard admits leashed dogs on the bridge, the banks and free swimming in the Gardon (except inside the 30-m bridge exclusion zone). The museum interior, the Ciné, the Ludo and the Roman canalisation interior are however closed to dogs.`,
+        `Tango urban buses only accept small pets in a closed basket and guide dogs; with a medium or large dog plan to walk in the centre (1 km wide) or take a taxi.`,
+        `Avoid the centre during Féria de Pentecôte (early June) and Féria des Vendanges (mid-September): more than 500,000 visitors over 6 days, brass bands, fireworks and crowds until dawn, unsuitable for dogs.`,
+        `24/7 vet on-call: 04 27 04 02 72 (Vétérinaires 2 Toute Urgence, route de Montpellier) covers Nîmes, Arles and the Camargue.`,
+      ],
+      es: [
+        `Las Arenas de Nîmes llevan el sello Qualidog: perros con correa de todos los tamaños admitidos gratuitamente dentro del monumento, una rareza francesa que aprovechar.`,
+        `El Pont du Gard admite perros con correa en el puente, las orillas y baño libre en el Gardon (salvo zona de exclusión de 30 m del puente). El interior del museo, el Ciné, el Ludo y el interior de la canalización romana están en cambio cerrados a perros.`,
+        `Los buses urbanos Tango solo admiten pequeñas mascotas en transportín cerrado y perros guía; con perro mediano o grande planea caminar por el centro (1 km de ancho) o taxi.`,
+        `Evita el centro durante la Féria de Pentecostés (principios de junio) y la Féria des Vendanges (mediados de septiembre): más de 500.000 visitantes en 6 días, charangas, fuegos y multitud hasta el amanecer, inadecuado para perros.`,
+        `Guardia veterinaria 24/7: 04 27 04 02 72 (Vétérinaires 2 Toute Urgence, route de Montpellier) cubre Nîmes, Arles y la Camarga.`,
+      ],
+      pt: [
+        `As Arenas de Nîmes têm o selo Qualidog: cães com trela de todos os tamanhos admitidos gratuitamente dentro do monumento, uma raridade francesa a aproveitar.`,
+        `O Pont du Gard aceita cães com trela na ponte, margens e nado livre no Gardon (salvo zona de exclusão de 30 m da ponte). O interior do museu, o Ciné, o Ludo e o interior da canalização romana estão, no entanto, fechados a cães.`,
+        `Os autocarros urbanos Tango só aceitam pequenos animais em transportadora fechada e cães-guia; com cão médio ou grande planeie andar no centro (1 km de largura) ou táxi.`,
+        `Evite o centro durante a Féria de Pentecostes (início de junho) e a Féria das Vindimas (meados de setembro): mais de 500.000 visitantes em 6 dias, charangas, fogos e multidão até de madrugada, inadequado para cães.`,
+        `Escala veterinária 24/7: 04 27 04 02 72 (Vétérinaires 2 Toute Urgence, route de Montpellier) cobre Nîmes, Arles e a Camarga.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Accès : Gare SNCF de Nîmes à 8 min à pied du centre, TGV Paris en 2h50, TER toutes les 30 min vers Avignon, Arles, Montpellier et Marseille. Aéroport Nîmes Garons (FNI) à 15 min sud (saisonnier) ou Marseille Provence (MRS, 1h15) / Montpellier (MPL, 50 min).`,
+        `Plages/baignades : pas de plage en ville ; Gardon au Pont du Gard (25 km nord) accepte les chiens en laisse + nage libre (hors zone 30 m du pont). Plage de l'Espiguette (Grau-du-Roi, 50 min sud) et Piémanson (Camargue, 1h sud) pour la mer.`,
+        `Parcs : Jardins de la Fontaine (15 ha gratuit, en laisse), Parc du Mont Duplan, Bois des Espeisses (165 ha, fermé jours feu rouge) ; aucun parc canin sans laisse intra-muros.`,
+        `Vétérinaires : Vétérinaires 2 Toute Urgence (04 27 04 02 72, route de Montpellier, urgences 24h/24 nuits + week-ends), Clinique RAJAUT-CAMALLONGA (centre, 04 66 67 71 70), Clinique Nemovet (Mitra, 04 66 67 17 17) ; 3115 national gratuit.`,
+        `Documents : passeport européen, puce ISO et rage en cours de validité obligatoires. Voyageurs hors UE (Royaume-Uni, États-Unis) : certificat sanitaire ou endossement USDA APHIS.`,
+      ],
+      en: [
+        `Getting there: Nîmes SNCF station is 8 min walk from the centre, TGV to Paris in 2h50, TER every 30 min to Avignon, Arles, Montpellier and Marseille. Nîmes Garons Airport (FNI) is 15 min south (seasonal) or Marseille Provence (MRS, 1h15) / Montpellier (MPL, 50 min).`,
+        `Beaches/swims: no city beach; Gardon river at the Pont du Gard (25 km north) admits leashed dogs and free swimming (outside the 30-m bridge exclusion zone). Plage de l'Espiguette (Grau-du-Roi, 50 min south) and Piémanson (Camargue, 1h south) for the sea.`,
+        `Parks: Jardins de la Fontaine (15 ha free, on lead), Parc du Mont Duplan, Bois des Espeisses (165 ha, closes on red-alert fire days); no off-leash dog park inside the walls.`,
+        `Vets: Vétérinaires 2 Toute Urgence (04 27 04 02 72, route de Montpellier, 24/7 emergencies overnight + weekends), Clinique RAJAUT-CAMALLONGA (centre, 04 66 67 71 70), Clinique Nemovet (Mitra, 04 66 67 17 17); free national 3115 hotline.`,
+        `Documents: EU pet passport, ISO microchip and valid rabies vaccination required. Non-EU travellers (UK, US) need an Animal Health Certificate or USDA APHIS endorsement.`,
+      ],
+      es: [
+        `Cómo llegar: estación SNCF de Nîmes a 8 min a pie del centro, TGV a París en 2h50, TER cada 30 min a Aviñón, Arles, Montpellier y Marsella. Aeropuerto Nîmes Garons (FNI) a 15 min al sur (estacional) o Marsella Provence (MRS, 1h15) / Montpellier (MPL, 50 min).`,
+        `Playas/baños: sin playa en la ciudad; río Gardon en el Pont du Gard (25 km norte) admite perros con correa y baño libre (fuera de la zona de exclusión de 30 m del puente). Plage de l'Espiguette (Grau-du-Roi, 50 min al sur) y Piémanson (Camarga, 1h al sur) para el mar.`,
+        `Parques: Jardins de la Fontaine (15 ha gratuito, con correa), Parc du Mont Duplan, Bois des Espeisses (165 ha, cierra días de alerta roja de incendio); sin parque canino sin correa intramuros.`,
+        `Veterinarios: Vétérinaires 2 Toute Urgence (04 27 04 02 72, route de Montpellier, urgencias 24/7 nocturnas + fines de semana), Clinique RAJAUT-CAMALLONGA (centro, 04 66 67 71 70), Clinique Nemovet (Mitra, 04 66 67 17 17); 3115 nacional gratuito.`,
+        `Documentos: pasaporte europeo, microchip ISO y vacunación antirrábica vigente obligatorios. Viajeros no UE (Reino Unido, EE. UU.) necesitan certificado sanitario o endoso USDA APHIS.`,
+      ],
+      pt: [
+        `Como chegar: estação SNCF de Nîmes a 8 min a pé do centro, TGV para Paris em 2h50, TER a cada 30 min para Avinhão, Arles, Montpellier e Marselha. Aeroporto Nîmes Garons (FNI) a 15 min a sul (sazonal) ou Marselha Provence (MRS, 1h15) / Montpellier (MPL, 50 min).`,
+        `Praias/banhos: sem praia na cidade; rio Gardon no Pont du Gard (25 km a norte) aceita cães com trela e nado livre (fora da zona de exclusão de 30 m da ponte). Plage de l'Espiguette (Grau-du-Roi, 50 min a sul) e Piémanson (Camarga, 1h a sul) para o mar.`,
+        `Parques: Jardins de la Fontaine (15 ha gratuito, com trela), Parc du Mont Duplan, Bois des Espeisses (165 ha, fecha em dias de alerta vermelho de incêndio); sem parque canino sem trela intramuros.`,
+        `Veterinários: Vétérinaires 2 Toute Urgence (04 27 04 02 72, route de Montpellier, urgências 24/7 noturnas + fins-de-semana), Clinique RAJAUT-CAMALLONGA (centro, 04 66 67 71 70), Clinique Nemovet (Mitra, 04 66 67 17 17); 3115 nacional gratuito.`,
+        `Documentos: passaporte europeu, microchip ISO e vacinação antirrábica válida obrigatórios. Viajantes não-UE (Reino Unido, EUA) precisam de certificado sanitário ou endosso USDA APHIS.`,
+      ],
+    },
+  },
+
   nuremberg: {
     history: {
       fr: `Nuremberg (Nürnberg em allemand), capitale officieuse de la Franconie, fut l'une des grandes villes libres impériales du Saint-Empire romain germanique du XIIIe au XVIIIe siècle, siège fréquent des Diètes impériales et résidence préférée de plusieurs empereurs. Le Kaiserburg, perché sur sa crête de grès, et l'Altstadt à colombages classée au patrimoine bavarois témoignent de cet âge d'or. Berceau d'Albrecht Dürer et du Lebkuchen (pain d'épices), Nuremberg accueille depuis 1628 le plus célèbre marché de Noël d'Allemagne, le Christkindlesmarkt, qui attire chaque année 2 millions de visiteurs. La ville fut presque entièrement détruite en 1945 puis reconstruite à l'identique. Aujourd'hui, deuxième ville de Bavière avec 520 000 habitants, Nuremberg combine héritage médiéval, culture Wirtshaus accueillant les chiens à l'intérieur et accès direct à 25 000 hectares de forêt impériale (Reichswald). À 1h05 de Munich et 4h de Berlin em ICE, c'est l'une des villes allemandes les plus faciles avec un chien.`,

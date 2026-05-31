@@ -8941,6 +8941,81 @@
     "tiqetsId": "66770"
   },
   {
+    "slug": "nimes",
+    "name": "Nîmes",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/nimes.jpg",
+    "intro": "Nîmes is the third corner of the Provence Roman triangle (with Avignon and Arles): the best-preserved Roman amphitheatre in the world, the UNESCO Maison Carrée, the 15-hectare Jardins de la Fontaine and the Pont du Gard 25 km north. The Arènes carry the Qualidog label and admit leashed dogs of all sizes free of charge, a French rarity.",
+    "lat": 43.8367,
+    "lng": 4.3601,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool, mistral wind",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Mild & dry",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "🌞"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot, fire-risk",
+        "icon": "🌞"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm, Féria season",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool, festive",
+        "icon": "🎄"
+      }
+    },
+    "iata": "MRS"
+  },
+  {
     "slug": "nuremberg",
     "name": "Nuremberg",
     "country": "Germany",

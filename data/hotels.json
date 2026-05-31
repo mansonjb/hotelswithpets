@@ -22817,6 +22817,131 @@
     "petPolicyPt": "Hostal Centro, um 2-star family-run guesthouse em Calle Nueva 13 no Casco Histórico, welcomes cães em 8 € por noite. One animal per quarto standard, second em prior pedido. Plaza de Zocodover 2 min em foot."
   },
   {
+    "id": "toulon-1",
+    "name": "Best Western Plus La Corniche",
+    "destinationSlug": "toulon",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2150,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/corniche.html",
+    "petFee": 10,
+    "petPolicy": "One dog up to 15 kg is welcome at Best Western Plus La Corniche for EUR 10 per night; other pets such as cats may be accepted on prior approval. A refundable cleaning deposit of EUR 150 is taken at check-in. The hotel sits on the Mourillon corniche, a 5-minute walk from the Mourillon beaches and the Anse Tabarly cani-plage where dogs are permitted off the main bathing season.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Restaurant",
+      "Free WiFi",
+      "Sea view"
+    ],
+    "slug": "best-western-plus-la-corniche"
+  },
+  {
+    "id": "toulon-2",
+    "name": "Hotel Mercure Toulon La Seyne-Sur-Mer",
+    "destinationSlug": "toulon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 1620,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/kyriad-prestige-toulon-la-seyne-sur-mer-centre-port.html",
+    "petFee": 12,
+    "petPolicy": "Dogs and cats are welcome at this waterfront Mercure across the bay from Toulon for EUR 12 per pet per night, with size limitations on very large dogs. The hotel sits next to the marina in La Seyne with the regular pedestrian ferry to Toulon centre nearby (dogs allowed on lead). Pets are not permitted in the breakfast room and must be kept on a lead in common areas.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Restaurant",
+      "Free private parking",
+      "Sea view"
+    ],
+    "slug": "hotel-mercure-toulon-la-seyne-sur-mer"
+  },
+  {
+    "id": "toulon-3",
+    "name": "Grand Hotel Dauphine Boutique Hotel & Suites",
+    "destinationSlug": "toulon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 1340,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/grandhoteldauphine.html",
+    "petFee": 10,
+    "petPolicy": "Pets of any size are welcome at this boutique 3-star for EUR 10 per pet per night, plus a refundable deposit of EUR 50 per stay. Service animals stay free. The hotel sits in the pedestrian heart of old Toulon, a 6-minute walk from the Provencal market on Cours Lafayette and the harbour; pets must be kept on a lead in the corridors and the private gallery.",
+    "highlights": [
+      "Free WiFi",
+      "Air conditioning",
+      "Bar",
+      "Private art gallery"
+    ],
+    "slug": "grand-hotel-dauphine-boutique-hotel-and-suites"
+  },
+  {
+    "id": "toulon-4",
+    "name": "ibis Styles Toulon Centre Port",
+    "destinationSlug": "toulon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 2480,
+    "priceFrom": 78,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/all-seasons-toulon.html",
+    "petFee": 10,
+    "petPolicy": "Dogs and cats are welcome at ibis Styles Toulon Centre Port for EUR 10 per pet per day, with size limitations for very large dogs. The hotel is a 3-minute walk from Toulon harbour where the Reseau Mistral ferries to Saint-Mandrier accept leashed dogs. Pets must be kept on a lead in common areas and are not allowed in the breakfast area.",
+    "highlights": [
+      "Bar",
+      "Free WiFi",
+      "Air conditioning",
+      "24-hour front desk"
+    ],
+    "slug": "ibis-styles-toulon-centre-port"
+  },
+  {
+    "id": "toulon-5",
+    "name": "ibis budget Toulon Centre",
+    "destinationSlug": "toulon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 7.6,
+    "reviewCount": 1980,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/etap-toulon-centre.html",
+    "petFee": 7,
+    "petPolicy": "Pets are accepted at ibis budget Toulon Centre on request for around EUR 7 per pet per night; please contact the property after booking to confirm. The hotel sits between the train station and the harbour, a 12-minute leashed walk to the Anse Tabarly cani-plage. Animals must be kept on a lead in lobby and corridors and are not permitted in the breakfast room.",
+    "highlights": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Air conditioning",
+      "Breakfast available"
+    ],
+    "slug": "ibis-budget-toulon-centre"
+  },
+  {
     "id": "toulouse-1",
     "name": "La Cour Des Consuls Hotel & Spa Toulouse",
     "destinationSlug": "toulouse",

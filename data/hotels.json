@@ -17112,6 +17112,131 @@
     "petPolicyPt": "SPLENDIDE APPARTEMENT NICE BLUE PEARL TOUT CONFORT VUE MER PANORAMIQUE warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €30 por noite applies, charged em check-em. Animais são aceites até 20 kg; one animal per quarto máximo. O hotel é um short walk de animal-accessible beach areas. Ideal para morning runs com your cão. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "nimes-1",
+    "name": "Maison Albar Hotels L'Imperator",
+    "destinationSlug": "nimes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1620,
+    "priceFrom": 245,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/imperator-nimes.html",
+    "petFee": 25,
+    "petPolicy": "Small dogs and cats are welcome at this 5-star palace next to the Jardins de la Fontaine for around EUR 25 per pet per night, with prior notice required. Service animals stay free of charge. Pets must be kept on a lead in common areas and are not allowed in the Michelin-starred restaurant. The hotel sits at the gates of the Jardins de la Fontaine for shaded morning walks.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Garden",
+      "Restaurant",
+      "Free WiFi"
+    ],
+    "slug": "maison-albar-hotels-l-imperator"
+  },
+  {
+    "id": "nimes-2",
+    "name": "Novotel Atria Nimes Centre",
+    "destinationSlug": "nimes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 2480,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/atria-nimes-centre.html",
+    "petFee": 8,
+    "petPolicy": "Pets of any reasonable size are welcome at Novotel Atria Nimes Centre for EUR 8 per pet per night. The hotel is a 4-minute walk from the Roman arenes and the Maison Carree, with the Esplanade Charles-de-Gaulle nearby for short leashed breaks. Pets must be kept on a lead in lobby and corridors and are not allowed in the breakfast area.",
+    "highlights": [
+      "Restaurant",
+      "Bar",
+      "Free WiFi",
+      "Air conditioning"
+    ],
+    "slug": "novotel-atria-nimes-centre"
+  },
+  {
+    "id": "nimes-3",
+    "name": "Best Western L'Orangerie",
+    "destinationSlug": "nimes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1780,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/bestwestern-lorangerie.html",
+    "petFee": 10,
+    "petPolicy": "Dogs and cats are welcome at Best Western L'Orangerie for EUR 10 per pet per night, with a limit of 2 pets per room. Food and water bowls are available at reception. The hotel has a quiet garden and outdoor pool area where pets are not permitted, but the leafy Avenue Jean-Jaures and the Jardins de la Fontaine are a 10-minute leashed walk away.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Garden",
+      "Free private parking",
+      "Restaurant"
+    ],
+    "slug": "best-western-l-orangerie"
+  },
+  {
+    "id": "nimes-4",
+    "name": "ibis Styles Nimes Gare Centre",
+    "destinationSlug": "nimes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 1340,
+    "priceFrom": 78,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-styles-nimes-centre-gare.html",
+    "petFee": 8,
+    "petPolicy": "Dogs and cats are welcome at ibis Styles Nimes Gare Centre for EUR 8 per pet per day, with food and water bowls available. The hotel sits directly across from Nimes train station, ideal for car-free arrivals with a pet. Animals must be kept on a lead in lobby and corridors and are not permitted in the breakfast room.",
+    "highlights": [
+      "Free WiFi",
+      "Air conditioning",
+      "Bar",
+      "Breakfast included on select rates"
+    ],
+    "slug": "ibis-styles-nimes-gare-centre"
+  },
+  {
+    "id": "nimes-5",
+    "name": "ibis budget Nimes Centre Gare",
+    "destinationSlug": "nimes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 7.7,
+    "reviewCount": 2210,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-budget-nimes-centre-gare.html",
+    "petFee": 6,
+    "petPolicy": "Pets are welcome at ibis budget Nimes Centre Gare for EUR 6 per pet per night, no strict size limit. The hotel is right next to Nimes train station, with a 12-minute walk to the Roman arenes through the city centre. Please declare your pet at booking; animals must be kept on a lead in common areas and are not allowed in the breakfast room.",
+    "highlights": [
+      "Free WiFi",
+      "Air conditioning",
+      "24-hour front desk",
+      "Breakfast available"
+    ],
+    "slug": "ibis-budget-nimes-centre-gare"
+  },
+  {
     "id": "nuremberg-1",
     "name": "Hotel Drei Raben",
     "destinationSlug": "nuremberg",

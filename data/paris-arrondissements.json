@@ -7,16 +7,66 @@
     "lat": 48.8624,
     "lng": 2.3358,
     "metros": ["1", "7", "14"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 1st arrondissement is the historic core of Paris, wrapped around the Louvre, the Palais-Royal and Les Halles. It is dense, walkable and stone-paved, with limited green space and heavy tourist foot traffic that small dogs handle better than large ones. Most prestige gardens here (Tuileries, Palais-Royal interior) ban dogs, but the riverside Berges de Seine and several quieter passages make a pleasant on-leash itinerary.",
+    "introFr": "Le 1er arrondissement est le coeur historique de Paris, autour du Louvre, du Palais-Royal et des Halles. Très dense, minéral et touristique, il convient mieux aux petits chiens qu'aux grands gabarits. La plupart des grands jardins du quartier (Tuileries, Palais-Royal) sont interdits aux chiens, mais les berges de Seine et plusieurs passages couverts offrent une belle balade en laisse.",
+    "introEs": "El 1er distrito es el corazón histórico de París, alrededor del Louvre, el Palais-Royal y Les Halles. Es denso, peatonal y muy turístico, más cómodo para perros pequeños que grandes. La mayoría de jardines de prestigio (Tullerías, Palais-Royal) prohíben los perros, pero las Berges de Seine y varios pasajes cubiertos ofrecen un buen paseo con correa.",
+    "introPt": "O 1.º arrondissement é o coração histórico de Paris, em torno do Louvre, do Palais-Royal e de Les Halles. É denso, pedonal e muito turístico, mais adequado a cães pequenos do que a raças grandes. A maioria dos jardins-prestígio (Tulherias, Palais-Royal) proíbe cães, mas as Berges de Seine e várias passagens cobertas oferecem um passeio agradável com trela.",
+    "highlightsEn": [
+      "Berges de Seine: leashed dogs welcome on the riverside walk",
+      "Jardin des Tuileries: dogs banned (only Carrousel and riverside terraces allowed)",
+      "Quiet 19th-century covered passages (Galerie Véro-Dodat) for rainy days",
+      "Very stone-heavy area, bring paw protection in summer heat",
+      "Best for small or medium dogs given crowds and cobblestones"
+    ],
+    "highlightsFr": [
+      "Berges de Seine: chiens tenus en laisse bienvenus",
+      "Jardin des Tuileries: chiens interdits (sauf Carrousel et terrasses du Bord-de-l'eau)",
+      "Passages couverts XIXe (Galerie Véro-Dodat) à l'abri de la pluie",
+      "Quartier très minéral, attention aux coussinets l'été",
+      "Adapté aux petits et moyens chiens vu la foule et les pavés"
+    ],
+    "highlightsEs": [
+      "Berges de Seine: perros con correa bienvenidos en el paseo fluvial",
+      "Jardín de las Tullerías: perros prohibidos (salvo Carrousel y terrazas al río)",
+      "Pasajes cubiertos del s. XIX (Galerie Véro-Dodat) para días lluviosos",
+      "Zona muy mineral, cuidar las almohadillas en verano",
+      "Mejor para perros pequeños o medianos por la multitud y los adoquines"
+    ],
+    "highlightsPt": [
+      "Berges de Seine: cães com trela bem-vindos no passeio ribeirinho",
+      "Jardim das Tulherias: cães proibidos (exceto Carrousel e terraços do rio)",
+      "Passagens cobertas do séc. XIX (Galerie Véro-Dodat) em dias de chuva",
+      "Zona muito mineral, cuidado com as almofadinhas no verão",
+      "Melhor para cães pequenos ou médios devido à multidão e calçada"
+    ],
+    "parks": [
+      {
+        "name": "Jardin des Tuileries",
+        "policyEn": "Dogs are banned from the main garden. The only authorized zones are the Jardin du Carrousel, the Feuillants terraces and the riverside terraces (Terrasses du Bord-de-l'Eau).",
+        "policyFr": "Les chiens sont interdits dans le jardin principal. Seuls le Jardin du Carrousel, les terrasses des Feuillants et les terrasses du Bord-de-l'Eau sont autorisés.",
+        "policyEs": "Los perros están prohibidos en el jardín principal. Solo se permiten el Jardin du Carrousel, las terrazas des Feuillants y las terrazas del río.",
+        "policyPt": "Cães são proibidos no jardim principal. Apenas o Jardim do Carrousel, os terraços dos Feuillants e os terraços ribeirinhos são autorizados."
+      },
+      {
+        "name": "Berges de Seine (rive droite, Pont Neuf to Pont Royal)",
+        "policyEn": "Leashed dogs welcome on the riverside walk, day and night. No off-leash zone.",
+        "policyFr": "Chiens tenus en laisse bienvenus sur la promenade, jour et nuit. Pas de zone sans laisse.",
+        "policyEs": "Perros con correa bienvenidos en el paseo, día y noche. Sin zona sin correa.",
+        "policyPt": "Cães com trela bem-vindos no passeio, dia e noite. Sem zona sem trela."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire du Louvre",
+        "address": "42 rue du Louvre, 75001 Paris",
+        "phone": "+33 1 40 26 02 43"
+      },
+      {
+        "name": "Clinique Vétérinaire Dr Frantz Cappé",
+        "address": "14 rue Bertin Poirée, 75001 Paris",
+        "phone": "+33 1 42 36 02 22"
+      }
+    ]
   },
   {
     "n": 2,
@@ -26,16 +76,54 @@
     "lat": 48.8689,
     "lng": 2.3414,
     "metros": ["3", "8", "9"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 2nd is the smallest arrondissement, a compact rectangle around the Bourse with a dense network of 19th-century covered passages. Green space is virtually nil, but the human-scale streets, sheltered shopping arcades and quieter office-district weekends make it easy to walk a small dog without crowd stress. Sentier and Montorgueil add pet-friendly cafe terraces.",
+    "introFr": "Le 2e est le plus petit arrondissement, autour de la Bourse, avec son réseau dense de passages couverts du XIXe. Quasi aucun espace vert, mais des rues à taille humaine, des galeries abritées et des week-ends calmes en font un quartier facile pour un petit chien. Sentier et Montorgueil multiplient les terrasses pet-friendly.",
+    "introEs": "El 2.º es el distrito más pequeño, alrededor de la Bolsa, con su densa red de pasajes cubiertos del s. XIX. Casi sin zonas verdes, pero las calles a escala humana, las galerías cubiertas y los fines de semana tranquilos lo hacen cómodo para un perro pequeño. Sentier y Montorgueil suman terrazas pet-friendly.",
+    "introPt": "O 2.º é o menor arrondissement, em torno da Bolsa, com a sua densa rede de passagens cobertas do séc. XIX. Quase sem espaço verde, mas as ruas à escala humana, as galerias cobertas e os fins de semana calmos tornam-no fácil para um cão pequeno. Sentier e Montorgueil somam esplanadas pet-friendly.",
+    "highlightsEn": [
+      "Passage des Panoramas and Passage du Caire: leashed dogs welcome",
+      "Square Louvois: small leashed-dog walk along the alleys",
+      "Montorgueil pedestrian street with many cafe terraces",
+      "Very dense and stone-paved, no real green space",
+      "Quiet on weekends thanks to office-district feel"
+    ],
+    "highlightsFr": [
+      "Passage des Panoramas et Passage du Caire: chiens en laisse bienvenus",
+      "Square Louvois: petite balade en laisse dans les allées",
+      "Rue piétonne Montorgueil avec nombreuses terrasses",
+      "Très dense et minéral, pas de vrai espace vert",
+      "Quartier d'affaires calme le week-end"
+    ],
+    "highlightsEs": [
+      "Passage des Panoramas y Passage du Caire: perros con correa bienvenidos",
+      "Square Louvois: pequeño paseo con correa por las calles",
+      "Calle peatonal Montorgueil con numerosas terrazas",
+      "Muy denso y mineral, sin verdadero espacio verde",
+      "Zona de oficinas, tranquilo los fines de semana"
+    ],
+    "highlightsPt": [
+      "Passage des Panoramas e Passage du Caire: cães com trela bem-vindos",
+      "Square Louvois: pequeno passeio com trela pelas alamedas",
+      "Rua pedonal Montorgueil com várias esplanadas",
+      "Muito denso e mineral, sem verdadeiro espaço verde",
+      "Zona de escritórios, calma ao fim de semana"
+    ],
+    "parks": [
+      {
+        "name": "Square Louvois",
+        "policyEn": "Dogs allowed on leash on the alleys; banned from the central lawn and flower beds.",
+        "policyFr": "Chiens autorisés en laisse dans les allées; interdits sur la pelouse centrale et les massifs.",
+        "policyEs": "Perros permitidos con correa en los senderos; prohibidos en el césped central y los parterres.",
+        "policyPt": "Cães permitidos com trela nas alamedas; proibidos no relvado central e nos canteiros."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire du Docteur Gachet",
+        "address": "32 rue Etienne Marcel, 75002 Paris",
+        "phone": "+33 1 42 33 90 33"
+      }
+    ]
   },
   {
     "n": 3,
@@ -45,16 +133,59 @@
     "lat": 48.8638,
     "lng": 2.3601,
     "metros": ["3", "8", "11"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 3rd, the Haut Marais, is one of the most pet-friendly central arrondissements: small streets, independent boutiques, cafes that welcome dogs on the terrace, and a real neighbourhood feel. The Square du Temple-Elie Wiesel is the main green lung, and the Marche des Enfants Rouges offers shaded courtyards. Sundays the area becomes pedestrian-friendly under the Paris Respire scheme.",
+    "introFr": "Le 3e, le Haut Marais, est l'un des arrondissements centraux les plus pet-friendly: petites rues, boutiques indépendantes, terrasses qui acceptent les chiens, ambiance de quartier. Le Square du Temple-Elie Wiesel est le poumon vert principal, et le Marché des Enfants Rouges offre des cours ombragées. Dimanche, Paris Respire rend le quartier piéton.",
+    "introEs": "El 3.º, el Haut Marais, es uno de los distritos centrales más pet-friendly: calles pequeñas, tiendas independientes, terrazas que aceptan perros y ambiente de barrio. El Square du Temple-Elie Wiesel es el pulmón verde principal y el Marché des Enfants Rouges ofrece patios sombreados. Los domingos, el plan Paris Respire lo vuelve peatonal.",
+    "introPt": "O 3.º, o Haut Marais, é um dos arrondissements centrais mais pet-friendly: ruas pequenas, lojas independentes, esplanadas que aceitam cães e ambiente de bairro. O Square du Temple-Elie Wiesel é o pulmão verde principal e o Marché des Enfants Rouges oferece pátios sombreados. Aos domingos, o plano Paris Respire torna-o pedonal.",
+    "highlightsEn": [
+      "Square du Temple-Elie Wiesel: leashed dogs welcome on the alleys",
+      "Marche des Enfants Rouges courtyards: shaded and dog-tolerant",
+      "Many independent boutiques and cafe terraces accept dogs",
+      "Paris Respire pedestrian Sundays make the area calmer",
+      "Watch for crowded weekends on rue de Bretagne"
+    ],
+    "highlightsFr": [
+      "Square du Temple-Elie Wiesel: chiens tenus en laisse bienvenus dans les allées",
+      "Cours du Marché des Enfants Rouges: ombragées et tolérantes",
+      "Beaucoup de boutiques et terrasses qui acceptent les chiens",
+      "Dimanches Paris Respire: quartier piéton plus calme",
+      "Attention à la rue de Bretagne très fréquentée le week-end"
+    ],
+    "highlightsEs": [
+      "Square du Temple-Elie Wiesel: perros con correa bienvenidos en los senderos",
+      "Patios del Marché des Enfants Rouges: sombreados y tolerantes",
+      "Muchas boutiques y terrazas aceptan perros",
+      "Domingos peatonales de Paris Respire, más tranquilos",
+      "Cuidado con la rue de Bretagne muy concurrida el fin de semana"
+    ],
+    "highlightsPt": [
+      "Square du Temple-Elie Wiesel: cães com trela bem-vindos nas alamedas",
+      "Pátios do Marché des Enfants Rouges: sombreados e tolerantes",
+      "Muitas boutiques e esplanadas aceitam cães",
+      "Domingos pedonais Paris Respire, mais calmos",
+      "Atenção à rue de Bretagne muito movimentada ao fim de semana"
+    ],
+    "parks": [
+      {
+        "name": "Square du Temple-Elie Wiesel",
+        "policyEn": "Leashed dogs allowed on the alleys. Lawns, flower beds and the children's playground are banned to dogs.",
+        "policyFr": "Chiens tenus en laisse autorisés dans les allées. Pelouses, massifs et aire de jeux interdits.",
+        "policyEs": "Perros con correa permitidos en los senderos. Césped, parterres y zona infantil prohibidos.",
+        "policyPt": "Cães com trela permitidos nas alamedas. Relvados, canteiros e zona infantil proibidos."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire de l'Horloge",
+        "address": "26 rue Beaubourg, 75003 Paris",
+        "phone": "+33 1 42 74 81 13"
+      },
+      {
+        "name": "Clinique Vétérinaire Anicura Filles du Calvaire",
+        "address": "17 boulevard des Filles du Calvaire, 75003 Paris",
+        "phone": "+33 1 48 04 99 40"
+      }
+    ]
   },
   {
     "n": 4,
@@ -64,16 +195,61 @@
     "lat": 48.8546,
     "lng": 2.3573,
     "metros": ["1", "7", "11", "14"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 4th covers the southern Marais, the Île Saint-Louis and the eastern half of the Île de la Cité, around Notre-Dame and Hotel-de-Ville. It is one of the most dog-tolerant historic districts in Paris, with cafe terraces, boutique-lined alleys and the Île Saint-Louis quays for riverside walks. Public lawns are mostly off-limits, but Place des Vosges arcades and the Berges de Seine make up for it.",
+    "introFr": "Le 4e couvre le Marais sud, l'Île Saint-Louis et l'est de l'Île de la Cité, autour de Notre-Dame et de l'Hôtel-de-Ville. C'est l'un des quartiers historiques les plus tolérants aux chiens: terrasses, ruelles de boutiques et quais de l'Île Saint-Louis pour des balades au bord de l'eau. Les pelouses publiques sont en grande partie interdites, mais les arcades de la Place des Vosges et les Berges de Seine compensent.",
+    "introEs": "El 4.º cubre el Marais sur, la Île Saint-Louis y el este de la Île de la Cité, en torno a Notre-Dame y el Hôtel-de-Ville. Es uno de los barrios históricos más tolerantes con los perros: terrazas, callejones con boutiques y muelles de la Île Saint-Louis para paseos al borde del agua. Los céspedes públicos están en su mayoría prohibidos, pero las arcadas de la Place des Vosges y las Berges de Seine compensan.",
+    "introPt": "O 4.º abrange o Marais sul, a Île Saint-Louis e o leste da Île de la Cité, em torno de Notre-Dame e do Hôtel-de-Ville. É um dos bairros históricos mais tolerantes a cães: esplanadas, vielas de boutiques e cais da Île Saint-Louis para passeios à beira-rio. Os relvados públicos estão na maioria proibidos, mas as arcadas da Place des Vosges e as Berges de Seine compensam.",
+    "highlightsEn": [
+      "Place des Vosges arcades: leashed dogs welcome (lawns banned)",
+      "Île Saint-Louis quays: classic riverside walk",
+      "Many Marais cafes accept dogs on the terrace",
+      "Cobblestones and crowds, best for small to medium dogs",
+      "Berges de Seine rive droite for longer walks"
+    ],
+    "highlightsFr": [
+      "Arcades de la Place des Vosges: chiens en laisse bienvenus (pelouses interdites)",
+      "Quais de l'Île Saint-Louis: balade au bord de l'eau",
+      "Beaucoup de cafés du Marais acceptent les chiens en terrasse",
+      "Pavés et foule, plutôt pour petits et moyens chiens",
+      "Berges de Seine rive droite pour balades plus longues"
+    ],
+    "highlightsEs": [
+      "Arcadas de la Place des Vosges: perros con correa bienvenidos (césped prohibido)",
+      "Muelles de la Île Saint-Louis: paseo clásico al río",
+      "Muchos cafés del Marais aceptan perros en la terraza",
+      "Adoquines y multitud, mejor para perros pequeños o medianos",
+      "Berges de Seine rive droite para paseos largos"
+    ],
+    "highlightsPt": [
+      "Arcadas da Place des Vosges: cães com trela bem-vindos (relvado proibido)",
+      "Cais da Île Saint-Louis: passeio clássico à beira-rio",
+      "Muitos cafés do Marais aceitam cães na esplanada",
+      "Calçada e multidão, melhor para cães pequenos ou médios",
+      "Berges de Seine margem direita para passeios mais longos"
+    ],
+    "parks": [
+      {
+        "name": "Place des Vosges",
+        "policyEn": "Leashed dogs welcome under the arcades and on the gravel alleys; dogs banned from the central lawns.",
+        "policyFr": "Chiens en laisse bienvenus sous les arcades et sur les allées de gravier; interdits sur les pelouses centrales.",
+        "policyEs": "Perros con correa bienvenidos bajo las arcadas y en los senderos de grava; prohibidos en el césped central.",
+        "policyPt": "Cães com trela bem-vindos sob as arcadas e nas alamedas de gravilha; proibidos nos relvados centrais."
+      },
+      {
+        "name": "Square Jean XXIII (behind Notre-Dame)",
+        "policyEn": "Leashed dogs allowed on the alleys; banned from lawns. Reopened after the post-fire perimeter works.",
+        "policyFr": "Chiens en laisse autorisés dans les allées; interdits sur les pelouses. Rouvert après les travaux post-incendie.",
+        "policyEs": "Perros con correa permitidos en los senderos; prohibidos en el césped. Reabierto tras las obras post-incendio.",
+        "policyPt": "Cães com trela permitidos nas alamedas; proibidos nos relvados. Reaberto após as obras pós-incêndio."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire Saint-Paul",
+        "address": "20 rue Ferdinand Duval, 75004 Paris",
+        "phone": "+33 1 48 87 85 96"
+      }
+    ]
   },
   {
     "n": 5,
@@ -83,16 +259,66 @@
     "lat": 48.8462,
     "lng": 2.346,
     "metros": ["7", "10", "RER B"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 5th, the Latin Quarter, runs from the Seine quays up to the Pantheon and the Jardin des Plantes. It is studious, lively in the evenings around Mouffetard, and gently sloped. The Jardin des Plantes bans dogs entirely, which is the main constraint, but the Berges de Seine, Square Rene Viviani and the small Mouffetard squares give dogs room to stretch on leash.",
+    "introFr": "Le 5e, le Quartier Latin, s'étend des quais de Seine au Panthéon et au Jardin des Plantes. Studieux, animé le soir autour de la Mouffetard, et légèrement vallonné. Le Jardin des Plantes est totalement interdit aux chiens, c'est la principale contrainte, mais les Berges de Seine, le Square René Viviani et les petits squares Mouffetard permettent de bonnes balades en laisse.",
+    "introEs": "El 5.º, el Barrio Latino, va de los muelles del Sena al Panteón y al Jardin des Plantes. Estudioso, animado por la noche en torno a Mouffetard, ligeramente inclinado. El Jardin des Plantes prohíbe totalmente los perros, principal limitación, pero las Berges de Seine, el Square René Viviani y los pequeños squares Mouffetard permiten buenos paseos con correa.",
+    "introPt": "O 5.º, o Bairro Latino, estende-se dos cais do Sena ao Panteão e ao Jardin des Plantes. Estudioso, animado à noite junto à Mouffetard, ligeiramente inclinado. O Jardin des Plantes proíbe totalmente cães, a principal limitação, mas as Berges de Seine, o Square René Viviani e os pequenos squares Mouffetard permitem bons passeios com trela.",
+    "highlightsEn": [
+      "Jardin des Plantes: dogs banned entirely (including arboretum and menagerie alleys)",
+      "Square Rene Viviani in front of the oldest tree in Paris: leashed dogs welcome",
+      "Berges de Seine quai de Montebello: classic walk facing Notre-Dame",
+      "Cobblestones and steep little streets near Mouffetard",
+      "Many Latin Quarter cafe terraces tolerate small dogs"
+    ],
+    "highlightsFr": [
+      "Jardin des Plantes: chiens totalement interdits (y compris allées de la ménagerie)",
+      "Square René Viviani devant le plus vieil arbre de Paris: chiens en laisse bienvenus",
+      "Berges de Seine quai de Montebello: balade classique face à Notre-Dame",
+      "Pavés et petites rues en pente près de la Mouffetard",
+      "Beaucoup de terrasses du Quartier Latin tolèrent les petits chiens"
+    ],
+    "highlightsEs": [
+      "Jardin des Plantes: perros totalmente prohibidos (también en la casa de fieras)",
+      "Square René Viviani frente al árbol más antiguo de París: perros con correa bienvenidos",
+      "Berges de Seine quai de Montebello: paseo clásico frente a Notre-Dame",
+      "Adoquines y callecitas en pendiente cerca de Mouffetard",
+      "Muchas terrazas del Barrio Latino toleran perros pequeños"
+    ],
+    "highlightsPt": [
+      "Jardin des Plantes: cães totalmente proibidos (inclusive nas alamedas do zoo)",
+      "Square René Viviani diante da árvore mais antiga de Paris: cães com trela bem-vindos",
+      "Berges de Seine cais de Montebello: passeio clássico em frente a Notre-Dame",
+      "Calçada e ruelas em declive perto de Mouffetard",
+      "Muitas esplanadas do Bairro Latino toleram cães pequenos"
+    ],
+    "parks": [
+      {
+        "name": "Jardin des Plantes",
+        "policyEn": "Dogs are banned from the entire garden, including the arboretum, alpine garden and menagerie alleys. Strict enforcement.",
+        "policyFr": "Chiens interdits dans tout le jardin, y compris l'arboretum, le jardin alpin et les allées de la ménagerie. Contrôle strict.",
+        "policyEs": "Perros prohibidos en todo el jardín, incluidos arboreto, jardín alpino y senderos de la casa de fieras. Control estricto.",
+        "policyPt": "Cães proibidos em todo o jardim, incluindo arboreto, jardim alpino e alamedas do zoo. Controlo rigoroso."
+      },
+      {
+        "name": "Square Rene Viviani",
+        "policyEn": "Leashed dogs welcome on the alleys; banned from the central lawn and around the medieval Robinier tree.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées; interdits sur la pelouse centrale et autour du Robinier médiéval.",
+        "policyEs": "Perros con correa bienvenidos en los senderos; prohibidos en el césped central y junto al Robinier medieval.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas; proibidos no relvado central e junto ao Robinier medieval."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire Saint-Germain",
+        "address": "37 boulevard Saint-Germain, 75005 Paris",
+        "phone": "+33 1 43 54 40 01"
+      },
+      {
+        "name": "Clinique Vétérinaire Mon Véto Paris 5",
+        "address": "47 boulevard Saint-Germain, 75005 Paris",
+        "phone": "+33 1 43 54 14 76"
+      }
+    ]
   },
   {
     "n": 6,
@@ -102,16 +328,54 @@
     "lat": 48.8493,
     "lng": 2.3324,
     "metros": ["4", "10", "12"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 6th is Saint-Germain-des-Pres: literary cafes, galleries and the Jardin du Luxembourg as a backdrop. Most cafe terraces accept small dogs, the Luxembourg has very limited dog access reserved for guide dogs and a restricted southeast corner, and the side streets around Saint-Sulpice are calm. The arrondissement is elegant, walkable and well lit at night.",
+    "introFr": "Le 6e, c'est Saint-Germain-des-Prés: cafés littéraires, galeries et le Jardin du Luxembourg en toile de fond. La plupart des terrasses acceptent les petits chiens, le Luxembourg n'autorise les chiens que dans un coin sud-est restreint (et les chiens-guides partout), et les ruelles autour de Saint-Sulpice sont calmes. Quartier élégant, marchable, bien éclairé le soir.",
+    "introEs": "El 6.º es Saint-Germain-des-Prés: cafés literarios, galerías y el Jardin du Luxembourg de fondo. La mayoría de terrazas aceptan perros pequeños, el Luxembourg solo permite perros en una esquina sureste restringida (y los perros-guía en todas partes), y las callejuelas alrededor de Saint-Sulpice son tranquilas. Barrio elegante, caminable, bien iluminado de noche.",
+    "introPt": "O 6.º é Saint-Germain-des-Prés: cafés literários, galerias e o Jardin du Luxembourg como cenário. A maioria das esplanadas aceita cães pequenos, o Luxembourg só permite cães num canto sudeste restrito (e cães-guia em todo o lado), e as ruelas em torno de Saint-Sulpice são calmas. Bairro elegante, caminhável, bem iluminado à noite.",
+    "highlightsEn": [
+      "Jardin du Luxembourg: leashed dogs only on a restricted southeast section, banned from lawns",
+      "Cafe terraces of Saint-Germain often welcome small dogs",
+      "Quiet residential streets between Saint-Sulpice and Odeon",
+      "Berges de Seine quai de Conti for riverside walks",
+      "Crowded with tourists in summer, prefer morning walks"
+    ],
+    "highlightsFr": [
+      "Jardin du Luxembourg: chiens en laisse seulement sur une section sud-est restreinte, pelouses interdites",
+      "Terrasses de Saint-Germain souvent ouvertes aux petits chiens",
+      "Rues résidentielles calmes entre Saint-Sulpice et Odéon",
+      "Berges de Seine quai de Conti pour balades au bord de l'eau",
+      "Très touristique l'été, privilégier les balades matinales"
+    ],
+    "highlightsEs": [
+      "Jardin du Luxembourg: perros con correa solo en una sección sureste restringida, césped prohibido",
+      "Terrazas de Saint-Germain a menudo aceptan perros pequeños",
+      "Calles residenciales tranquilas entre Saint-Sulpice y Odéon",
+      "Berges de Seine quai de Conti para paseos al río",
+      "Muy turístico en verano, mejor pasear por la mañana"
+    ],
+    "highlightsPt": [
+      "Jardin du Luxembourg: cães com trela apenas numa secção sudeste restrita, relvados proibidos",
+      "Esplanadas de Saint-Germain frequentemente aceitam cães pequenos",
+      "Ruas residenciais calmas entre Saint-Sulpice e Odéon",
+      "Berges de Seine cais de Conti para passeios à beira-rio",
+      "Muito turístico no verão, melhor passear de manhã"
+    ],
+    "parks": [
+      {
+        "name": "Jardin du Luxembourg",
+        "policyEn": "Dogs (except attack and molosser breeds) allowed on leash only in the restricted southeast section, accessed via the Gay-Lussac, Royer-Collard and Observatoire gates. Lawns and flower beds banned. Guide dogs allowed everywhere.",
+        "policyFr": "Chiens (sauf chiens d'attaque et molosses) autorisés en laisse uniquement dans la section sud-est, par les grilles Gay-Lussac, Royer-Collard et Observatoire. Pelouses et massifs interdits. Chiens-guides autorisés partout.",
+        "policyEs": "Perros (salvo razas de ataque y molosos) permitidos con correa solo en la sección sureste, por las puertas Gay-Lussac, Royer-Collard y Observatoire. Césped y parterres prohibidos. Perros guía permitidos en todo el jardín.",
+        "policyPt": "Cães (exceto raças de ataque e molossos) permitidos com trela apenas na secção sudeste, pelos portões Gay-Lussac, Royer-Collard e Observatoire. Relvados e canteiros proibidos. Cães-guia permitidos em todo o jardim."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire Saint-Germain",
+        "address": "37 boulevard Saint-Germain, 75005 Paris",
+        "phone": "+33 1 43 54 40 01"
+      }
+    ]
   },
   {
     "n": 7,
@@ -121,16 +385,61 @@
     "lat": 48.8566,
     "lng": 2.3122,
     "metros": ["6", "8", "13", "RER C"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 7th wraps the Eiffel Tower, the Champ-de-Mars, the Invalides and the Musee d'Orsay. It is the most monument-heavy district in Paris, with wide avenues and a long riverside walk. The Champ-de-Mars allows leashed dogs on the alleys (lawns banned), and the Esplanade des Invalides is one of the rare large open spaces where small to medium dogs can walk comfortably on leash.",
+    "introFr": "Le 7e, c'est la Tour Eiffel, le Champ-de-Mars, les Invalides et le Musée d'Orsay. C'est l'arrondissement le plus monumental, avec de larges avenues et un long parcours en bord de Seine. Le Champ-de-Mars autorise les chiens en laisse dans les allées (pelouses interdites), et l'Esplanade des Invalides est l'un des rares grands espaces où promener un chien à l'aise en laisse.",
+    "introEs": "El 7.º abarca la Torre Eiffel, el Campo de Marte, los Inválidos y el Musée d'Orsay. Es el distrito más monumental, con grandes avenidas y un largo paseo junto al Sena. El Campo de Marte permite perros con correa en los senderos (césped prohibido), y la Esplanade des Invalides es uno de los pocos grandes espacios cómodos para pasear un perro con correa.",
+    "introPt": "O 7.º abrange a Torre Eiffel, o Campo de Marte, os Inválidos e o Musée d'Orsay. É o arrondissement mais monumental, com avenidas largas e um longo passeio à beira-Sena. O Campo de Marte permite cães com trela nas alamedas (relvados proibidos), e a Esplanade des Invalides é um dos raros grandes espaços confortáveis para passear um cão com trela.",
+    "highlightsEn": [
+      "Champ-de-Mars: leashed dogs welcome on the alleys, lawns banned",
+      "Esplanade des Invalides: open gravel space, leashed dogs welcome",
+      "Berges de Seine rive gauche: long flat riverside walk",
+      "Wide stone avenues, plenty of shade under the trees",
+      "Tour Eiffel area very crowded, avoid midday in summer"
+    ],
+    "highlightsFr": [
+      "Champ-de-Mars: chiens en laisse bienvenus dans les allées, pelouses interdites",
+      "Esplanade des Invalides: grande surface gravillonnée, chiens en laisse bienvenus",
+      "Berges de Seine rive gauche: longue balade plate au bord de l'eau",
+      "Larges avenues, beaucoup d'ombre sous les arbres",
+      "Tour Eiffel très fréquentée, éviter le milieu de journée l'été"
+    ],
+    "highlightsEs": [
+      "Campo de Marte: perros con correa bienvenidos en los senderos, césped prohibido",
+      "Esplanade des Invalides: gran superficie de grava, perros con correa bienvenidos",
+      "Berges de Seine rive gauche: largo paseo llano junto al agua",
+      "Anchas avenidas, mucha sombra bajo los árboles",
+      "Torre Eiffel muy concurrida, evitar mediodía en verano"
+    ],
+    "highlightsPt": [
+      "Campo de Marte: cães com trela bem-vindos nas alamedas, relvados proibidos",
+      "Esplanade des Invalides: grande superfície de gravilha, cães com trela bem-vindos",
+      "Berges de Seine margem esquerda: longo passeio plano à beira-rio",
+      "Avenidas largas, muita sombra sob as árvores",
+      "Torre Eiffel muito movimentada, evitar meio do dia no verão"
+    ],
+    "parks": [
+      {
+        "name": "Champ-de-Mars",
+        "policyEn": "Leashed dogs welcome on the gravel alleys; banned from the central lawns and the area immediately under the Eiffel Tower.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées de gravier; interdits sur les pelouses centrales et sous la Tour Eiffel.",
+        "policyEs": "Perros con correa bienvenidos en los senderos de grava; prohibidos en el césped central y bajo la Torre Eiffel.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas de gravilha; proibidos nos relvados centrais e por baixo da Torre Eiffel."
+      },
+      {
+        "name": "Esplanade des Invalides",
+        "policyEn": "Leashed dogs welcome on the gravel; banned from the side lawns.",
+        "policyFr": "Chiens en laisse bienvenus sur le gravier; interdits sur les pelouses latérales.",
+        "policyEs": "Perros con correa bienvenidos en la grava; prohibidos en el césped lateral.",
+        "policyPt": "Cães com trela bem-vindos na gravilha; proibidos nos relvados laterais."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire Saint-Germain",
+        "address": "37 boulevard Saint-Germain, 75005 Paris",
+        "phone": "+33 1 43 54 40 01"
+      }
+    ]
   },
   {
     "n": 8,
@@ -140,16 +449,60 @@
     "lat": 48.8722,
     "lng": 2.3127,
     "metros": ["1", "2", "9", "13", "RER A"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 8th runs from Concorde up the Champs-Élysées to the Arc de Triomphe, with Parc Monceau as a major green anchor. Since December 2025 Parc Monceau finally opened to leashed dogs on specified alleys, a significant gain for the neighbourhood. The avenues are wide, the area is luxury-shopping and palace-hotel heavy, and most upscale cafes welcome small dogs in carriers.",
+    "introFr": "Le 8e va de la Concorde aux Champs-Élysées et à l'Arc de Triomphe, avec le Parc Monceau comme grand poumon vert. Depuis décembre 2025, le Parc Monceau autorise enfin les chiens en laisse sur certaines allées, vraie nouveauté pour le quartier. Les avenues sont larges, c'est le secteur du luxe et des palaces, et la plupart des cafés haut de gamme acceptent les petits chiens en sac.",
+    "introEs": "El 8.º va de la Concorde a los Campos Elíseos y al Arco de Triunfo, con el Parc Monceau como gran pulmón verde. Desde diciembre de 2025 el Parc Monceau permite por fin perros con correa en ciertos senderos, novedad real para el barrio. Las avenidas son anchas, es la zona del lujo y de los palaces, y la mayoría de cafés acepta perros pequeños en bolsa.",
+    "introPt": "O 8.º vai da Concorde aos Champs-Élysées e ao Arco do Triunfo, com o Parc Monceau como grande pulmão verde. Desde dezembro de 2025 o Parc Monceau permite finalmente cães com trela em certas alamedas, novidade real para o bairro. As avenidas são largas, é a zona do luxo e dos hotéis-palácio, e a maioria dos cafés aceita cães pequenos em saco.",
+    "highlightsEn": [
+      "Parc Monceau (opened to dogs Dec 2025): leashed dogs welcome on Allée Ferdousi and Allée Comtesse de Ségur",
+      "Champs-Élysées sidewalks: very wide but crowded, prefer side avenues",
+      "Avenue Montaigne: luxury shopping district, small dogs welcome at most boutiques",
+      "Place de la Concorde: large open space but heavy traffic",
+      "Watch for 135 euro fine if dog leaves authorized Parc Monceau alleys"
+    ],
+    "highlightsFr": [
+      "Parc Monceau (ouvert aux chiens déc. 2025): chiens en laisse bienvenus sur Allée Ferdousi et Allée Comtesse de Ségur",
+      "Trottoirs des Champs-Élysées: larges mais bondés, préférer les avenues adjacentes",
+      "Avenue Montaigne: quartier du luxe, petits chiens acceptés dans la plupart des boutiques",
+      "Place de la Concorde: grand espace ouvert mais circulation dense",
+      "Amende de 135 euros si le chien sort des allées autorisées du Parc Monceau"
+    ],
+    "highlightsEs": [
+      "Parc Monceau (abierto a perros dic. 2025): perros con correa bienvenidos en Allée Ferdousi y Allée Comtesse de Ségur",
+      "Aceras de los Campos Elíseos: anchas pero abarrotadas, mejor las avenidas laterales",
+      "Avenida Montaigne: zona de lujo, perros pequeños aceptados en la mayoría de boutiques",
+      "Place de la Concorde: gran espacio abierto pero mucho tráfico",
+      "Multa de 135 euros si el perro sale de los senderos autorizados del Parc Monceau"
+    ],
+    "highlightsPt": [
+      "Parc Monceau (aberto a cães em dez. 2025): cães com trela bem-vindos na Allée Ferdousi e Allée Comtesse de Ségur",
+      "Passeios dos Champs-Élysées: largos mas cheios, preferir avenidas adjacentes",
+      "Avenida Montaigne: zona de luxo, cães pequenos aceites na maioria das boutiques",
+      "Place de la Concorde: grande espaço aberto mas com muito trânsito",
+      "Multa de 135 euros se o cão sair das alamedas autorizadas do Parc Monceau"
+    ],
+    "parks": [
+      {
+        "name": "Parc Monceau",
+        "policyEn": "Since December 2025, leashed dogs (max 1.5 m) are allowed only on Allée Ferdousi and Allée Comtesse de Ségur. Lawns, flower beds and water features remain banned. A 135 euro fine applies for breaches.",
+        "policyFr": "Depuis décembre 2025, les chiens en laisse (1,5 m max) sont autorisés uniquement sur l'Allée Ferdousi et l'Allée Comtesse de Ségur. Pelouses, massifs et bassins restent interdits. Amende de 135 euros en cas d'infraction.",
+        "policyEs": "Desde diciembre de 2025, perros con correa (1,5 m max) permitidos solo en Allée Ferdousi y Allée Comtesse de Ségur. Césped, parterres y estanques siguen prohibidos. Multa de 135 euros por incumplimiento.",
+        "policyPt": "Desde dezembro de 2025, cães com trela (máx. 1,5 m) permitidos apenas na Allée Ferdousi e na Allée Comtesse de Ségur. Relvados, canteiros e tanques continuam proibidos. Multa de 135 euros em caso de infração."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire La Boétie (Sevetys)",
+        "address": "15 rue La Boétie, 75008 Paris",
+        "phone": "+33 1 42 65 36 17"
+      },
+      {
+        "name": "Clinique Vétérinaire des Champs-Élysées",
+        "address": "9 rue Balzac, 75008 Paris",
+        "phone": "+33 1 45 63 04 03",
+        "hoursNote": "24h emergency service"
+      }
+    ]
   },
   {
     "n": 9,
@@ -159,16 +512,61 @@
     "lat": 48.8769,
     "lng": 2.337,
     "metros": ["2", "3", "7", "8", "9", "12", "RER A", "RER E"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 9th links the Opera Garnier, the grands magasins and South Pigalle (SoPi). It is dense, very urban, with relatively few green spaces but a strong neighbourhood cafe scene that welcomes small dogs. The Square d'Anvers and Square Berlioz are the main pause points. Department-store sidewalks (Boulevard Haussmann) get crowded, prefer the calmer Martyrs/SoPi side streets.",
+    "introFr": "Le 9e relie l'Opéra Garnier, les grands magasins et le sud de Pigalle (SoPi). Très urbain, peu d'espaces verts, mais une scène de cafés de quartier qui accueille volontiers les petits chiens. Le Square d'Anvers et le Square Berlioz sont les principaux points de pause. Les trottoirs des grands magasins (Bd Haussmann) sont saturés, préférer les rues calmes côté Martyrs/SoPi.",
+    "introEs": "El 9.º conecta la Ópera Garnier, los grandes almacenes y el sur de Pigalle (SoPi). Muy urbano, pocas zonas verdes, pero buena escena de cafés de barrio que reciben perros pequeños. Square d'Anvers y Square Berlioz son los principales puntos de descanso. Las aceras de los grandes almacenes (Bd Haussmann) están saturadas, mejor las calles tranquilas lado Martyrs/SoPi.",
+    "introPt": "O 9.º liga a Ópera Garnier, os grandes armazéns e o sul de Pigalle (SoPi). Muito urbano, poucos espaços verdes, mas uma boa cena de cafés de bairro que acolhe cães pequenos. Square d'Anvers e Square Berlioz são os principais pontos de pausa. Os passeios dos grandes armazéns (Bd Haussmann) estão saturados, preferir as ruas calmas Martyrs/SoPi.",
+    "highlightsEn": [
+      "Square d'Anvers: leashed dogs welcome on the alleys",
+      "Square Berlioz: small quiet square, leashed dogs allowed",
+      "SoPi (rue des Martyrs, rue Henri Monnier): many dog-tolerant cafes",
+      "Boulevard Haussmann sidewalks very crowded around Galeries Lafayette",
+      "Few green spaces, plan walks to neighbouring 17e (Batignolles) or 18e (Sacré-Coeur)"
+    ],
+    "highlightsFr": [
+      "Square d'Anvers: chiens en laisse bienvenus dans les allées",
+      "Square Berlioz: petit square calme, chiens en laisse autorisés",
+      "SoPi (rue des Martyrs, rue Henri Monnier): nombreux cafés tolérants",
+      "Trottoirs du Bd Haussmann saturés près des Galeries Lafayette",
+      "Peu d'espaces verts, prévoir des balades vers le 17e (Batignolles) ou le 18e (Sacré-Coeur)"
+    ],
+    "highlightsEs": [
+      "Square d'Anvers: perros con correa bienvenidos en los senderos",
+      "Square Berlioz: pequeño square tranquilo, perros con correa permitidos",
+      "SoPi (rue des Martyrs, rue Henri Monnier): muchos cafés tolerantes",
+      "Aceras del Bd Haussmann saturadas junto a Galeries Lafayette",
+      "Pocas zonas verdes, planificar paseos al 17.º (Batignolles) o 18.º (Sacré-Coeur)"
+    ],
+    "highlightsPt": [
+      "Square d'Anvers: cães com trela bem-vindos nas alamedas",
+      "Square Berlioz: pequeno square calmo, cães com trela permitidos",
+      "SoPi (rue des Martyrs, rue Henri Monnier): muitos cafés tolerantes",
+      "Passeios do Bd Haussmann lotados junto às Galeries Lafayette",
+      "Poucos espaços verdes, planear passeios para o 17.º (Batignolles) ou 18.º (Sacré-Coeur)"
+    ],
+    "parks": [
+      {
+        "name": "Square d'Anvers",
+        "policyEn": "Leashed dogs allowed on the alleys; banned from the central lawn and children's playground.",
+        "policyFr": "Chiens en laisse autorisés dans les allées; interdits sur la pelouse centrale et l'aire de jeux.",
+        "policyEs": "Perros con correa permitidos en los senderos; prohibidos en el césped central y zona infantil.",
+        "policyPt": "Cães com trela permitidos nas alamedas; proibidos no relvado central e zona infantil."
+      },
+      {
+        "name": "Square Berlioz",
+        "policyEn": "Leashed dogs allowed on the alleys; banned from the lawn.",
+        "policyFr": "Chiens en laisse autorisés dans les allées; interdits sur la pelouse.",
+        "policyEs": "Perros con correa permitidos en los senderos; prohibidos en el césped.",
+        "policyPt": "Cães com trela permitidos nas alamedas; proibidos no relvado."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire Notre-Dame-de-Lorette",
+        "address": "45 rue Notre-Dame-de-Lorette, 75009 Paris",
+        "phone": "+33 1 48 78 65 10"
+      }
+    ]
   },
   {
     "n": 10,
@@ -178,16 +576,61 @@
     "lat": 48.8761,
     "lng": 2.3601,
     "metros": ["2", "4", "5", "7", "RER B", "RER D", "RER E"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 10th centres on the Canal Saint-Martin and the Gare du Nord/Gare de l'Est rail hubs. Canal Saint-Martin towpaths are the highlight: long flat walks under plane trees, leashed dogs welcome, and the whole area is pet-friendly with many cafe terraces, brunch spots and bistros. Avoid the immediate station forecourts which are dense and chaotic.",
+    "introFr": "Le 10e tourne autour du Canal Saint-Martin et des gares du Nord/de l'Est. Les berges du Canal Saint-Martin sont le grand atout: longues balades à plat sous les platanes, chiens en laisse bienvenus, quartier globalement pet-friendly avec ses terrasses, brunchs et bistrots. Éviter les abords immédiats des gares, très denses et chaotiques.",
+    "introEs": "El 10.º gira en torno al Canal Saint-Martin y las estaciones Gare du Nord/Gare de l'Est. Los muelles del Canal Saint-Martin son el gran atractivo: largos paseos llanos bajo plátanos, perros con correa bienvenidos, barrio globalmente pet-friendly con terrazas, brunch y bistrots. Evitar los alrededores inmediatos de las estaciones, muy densos y caóticos.",
+    "introPt": "O 10.º gira em torno do Canal Saint-Martin e das estações Gare du Nord/Gare de l'Est. As margens do Canal Saint-Martin são o grande atrativo: longos passeios planos sob plátanos, cães com trela bem-vindos, bairro globalmente pet-friendly com esplanadas, brunch e bistrôs. Evitar as imediações das estações, muito densas e caóticas.",
+    "highlightsEn": [
+      "Canal Saint-Martin towpaths: leashed dogs welcome, perfect long flat walk",
+      "Jardin Villemin: leashed dogs on alleys, off-leash pelouse for dogs in a fenced section",
+      "Hospital Saint-Louis gardens: leashed dogs on alleys",
+      "Avoid Gare du Nord/Gare de l'Est forecourts at rush hour",
+      "Very active pet-owner community, easy to find brunch with dog"
+    ],
+    "highlightsFr": [
+      "Berges du Canal Saint-Martin: chiens en laisse bienvenus, balade plate idéale",
+      "Jardin Villemin: chiens en laisse dans les allées, espace clôturé sans laisse",
+      "Jardins de l'Hôpital Saint-Louis: chiens en laisse dans les allées",
+      "Éviter les parvis des gares aux heures de pointe",
+      "Communauté de propriétaires de chiens active, brunchs faciles avec chien"
+    ],
+    "highlightsEs": [
+      "Muelles del Canal Saint-Martin: perros con correa bienvenidos, paseo llano ideal",
+      "Jardin Villemin: perros con correa en senderos, zona cercada sin correa",
+      "Jardines del Hospital Saint-Louis: perros con correa en senderos",
+      "Evitar los accesos de las estaciones en hora punta",
+      "Comunidad de dueños de perros activa, brunch fácil con perro"
+    ],
+    "highlightsPt": [
+      "Margens do Canal Saint-Martin: cães com trela bem-vindos, passeio plano ideal",
+      "Jardin Villemin: cães com trela nas alamedas, zona vedada sem trela",
+      "Jardins do Hospital Saint-Louis: cães com trela nas alamedas",
+      "Evitar os átrios das estações em horas de ponta",
+      "Comunidade de donos de cães ativa, brunch fácil com o cão"
+    ],
+    "parks": [
+      {
+        "name": "Canal Saint-Martin (towpaths and quays)",
+        "policyEn": "Leashed dogs welcome on the towpaths and quays. No off-leash zone; swimming banned.",
+        "policyFr": "Chiens en laisse bienvenus sur les berges et les quais. Pas de zone sans laisse; baignade interdite.",
+        "policyEs": "Perros con correa bienvenidos en los muelles y los caminos de sirga. Sin zona sin correa; baño prohibido.",
+        "policyPt": "Cães com trela bem-vindos nas margens e cais. Sem zona sem trela; banho proibido."
+      },
+      {
+        "name": "Jardin Villemin",
+        "policyEn": "Leashed dogs allowed on the alleys; a small fenced canine area at the eastern edge allows off-leash play.",
+        "policyFr": "Chiens en laisse autorisés dans les allées; un petit espace canin clôturé à l'est permet la liberté.",
+        "policyEs": "Perros con correa permitidos en los senderos; pequeño espacio canino vallado al este para suelta.",
+        "policyPt": "Cães com trela permitidos nas alamedas; pequeno espaço canino vedado a leste permite a soltura."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire Magenta",
+        "address": "159 boulevard de Magenta, 75010 Paris",
+        "phone": "+33 1 48 78 03 06"
+      }
+    ]
   },
   {
     "n": 11,
@@ -197,16 +640,67 @@
     "lat": 48.8589,
     "lng": 2.3791,
     "metros": ["1", "2", "5", "8", "9"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 11th, from Bastille to Republique via Oberkampf and Charonne, is a young, lively arrondissement and one of the most dog-friendly in central Paris. The Square de la Place Pasdeloup was opened to dogs in December 2025, and the Square Maurice Gardette, Square de la Roquette and Square Jules Verne provide neighbourhood green pockets. Nightlife streets are intense but side streets stay calm.",
+    "introFr": "Le 11e, de Bastille à République via Oberkampf et Charonne, est jeune, animé et l'un des plus pet-friendly du centre de Paris. Le Square de la Place Pasdeloup a été ouvert aux chiens en décembre 2025, et les Squares Maurice Gardette, de la Roquette et Jules Verne offrent des poumons verts de quartier. Les rues festives sont intenses mais les rues adjacentes restent calmes.",
+    "introEs": "El 11.º, de Bastille a Republique vía Oberkampf y Charonne, es joven, animado y uno de los más pet-friendly del centro de París. El Square de la Place Pasdeloup se abrió a los perros en diciembre de 2025, y los Squares Maurice Gardette, de la Roquette y Jules Verne ofrecen pulmones verdes de barrio. Las calles de ocio nocturno son intensas pero las laterales se mantienen tranquilas.",
+    "introPt": "O 11.º, de Bastille a République via Oberkampf e Charonne, é jovem, animado e um dos mais pet-friendly do centro de Paris. O Square de la Place Pasdeloup foi aberto a cães em dezembro de 2025, e os Squares Maurice Gardette, de la Roquette e Jules Verne oferecem pulmões verdes de bairro. As ruas de vida noturna são intensas mas as ruas adjacentes mantêm-se calmas.",
+    "highlightsEn": [
+      "Square de la Place Pasdeloup (opened to dogs Dec 2025): leashed dogs welcome",
+      "Square Maurice Gardette: leashed dogs on alleys, popular local meeting point",
+      "Square de la Roquette: leashed dogs welcome",
+      "Vibrant cafe and bistro scene, most terraces accept dogs",
+      "Nightlife streets (Oberkampf, rue de Lappe) very crowded after 22h"
+    ],
+    "highlightsFr": [
+      "Square de la Place Pasdeloup (ouvert aux chiens déc. 2025): chiens en laisse bienvenus",
+      "Square Maurice Gardette: chiens en laisse dans les allées, point de rendez-vous local",
+      "Square de la Roquette: chiens en laisse bienvenus",
+      "Scène café et bistrot dynamique, la plupart des terrasses acceptent",
+      "Rues festives (Oberkampf, rue de Lappe) très denses après 22h"
+    ],
+    "highlightsEs": [
+      "Square de la Place Pasdeloup (abierto a perros dic. 2025): perros con correa bienvenidos",
+      "Square Maurice Gardette: perros con correa en senderos, punto de encuentro local",
+      "Square de la Roquette: perros con correa bienvenidos",
+      "Escena café y bistrot dinámica, la mayoría de terrazas aceptan perros",
+      "Calles de ocio (Oberkampf, rue de Lappe) muy concurridas tras las 22h"
+    ],
+    "highlightsPt": [
+      "Square de la Place Pasdeloup (aberto a cães dez. 2025): cães com trela bem-vindos",
+      "Square Maurice Gardette: cães com trela nas alamedas, ponto de encontro local",
+      "Square de la Roquette: cães com trela bem-vindos",
+      "Cena de cafés e bistrôs dinâmica, a maioria das esplanadas aceita",
+      "Ruas de vida noturna (Oberkampf, rue de Lappe) muito cheias após as 22h"
+    ],
+    "parks": [
+      {
+        "name": "Square de la Place Pasdeloup",
+        "policyEn": "Opened to dogs in December 2025. Leashed dogs (max 1.5 m) allowed on the alleys only; lawns and flower beds banned.",
+        "policyFr": "Ouvert aux chiens en décembre 2025. Chiens en laisse (1,5 m max) autorisés dans les allées; pelouses et massifs interdits.",
+        "policyEs": "Abierto a perros en diciembre de 2025. Perros con correa (1,5 m max) permitidos solo en senderos; césped y parterres prohibidos.",
+        "policyPt": "Aberto a cães em dezembro de 2025. Cães com trela (máx. 1,5 m) permitidos apenas nas alamedas; relvados e canteiros proibidos."
+      },
+      {
+        "name": "Square Maurice Gardette",
+        "policyEn": "Leashed dogs welcome on the alleys; banned from the central lawn and playground.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées; interdits sur la pelouse centrale et l'aire de jeux.",
+        "policyEs": "Perros con correa bienvenidos en los senderos; prohibidos en el césped central y zona infantil.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas; proibidos no relvado central e zona infantil."
+      }
+    ],
+    "vets": [
+      {
+        "name": "VetinParis (Dr Isabelle Pasquet)",
+        "address": "89 rue du Faubourg Saint-Antoine, 75011 Paris",
+        "phone": "+33 1 43 07 01 06",
+        "hoursNote": "24h emergency"
+      },
+      {
+        "name": "Clinique Vétérinaire Paris 11 Bastille (Sevetys)",
+        "address": "100 boulevard Richard-Lenoir, 75011 Paris",
+        "phone": "+33 1 47 00 33 11"
+      }
+    ]
   },
   {
     "n": 12,
@@ -216,16 +710,68 @@
     "lat": 48.8403,
     "lng": 2.3879,
     "metros": ["1", "6", "8", "14", "RER A"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 12th is the most dog-friendly arrondissement in eastern Paris thanks to the Bois de Vincennes (open to leashed dogs with several off-leash zones) and the Coulée verte René-Dumont, a 4.5 km elevated and ground-level green walkway. Parc de Bercy joined the dog-friendly list in December 2025. The area mixes old wine warehouses, modern Bercy Village and quiet residential streets.",
+    "introFr": "Le 12e est le plus pet-friendly de l'est parisien grâce au Bois de Vincennes (chiens en laisse autorisés, plusieurs zones sans laisse) et à la Coulée verte René-Dumont, promenade verte de 4,5 km surélevée et au sol. Le Parc de Bercy a rejoint la liste des espaces ouverts aux chiens en décembre 2025. Quartier qui mélange anciens chais, Bercy Village moderne et rues résidentielles calmes.",
+    "introEs": "El 12.º es el más pet-friendly del este de París gracias al Bois de Vincennes (perros con correa permitidos, varias zonas sin correa) y a la Coulée verte René-Dumont, paseo verde de 4,5 km elevado y a nivel. El Parc de Bercy se unió a la lista de espacios abiertos a perros en diciembre de 2025. Barrio que mezcla antiguas bodegas, Bercy Village moderno y calles residenciales tranquilas.",
+    "introPt": "O 12.º é o mais pet-friendly do leste de Paris graças ao Bois de Vincennes (cães com trela permitidos, várias zonas sem trela) e à Coulée verte René-Dumont, passeio verde de 4,5 km elevado e ao nível do solo. O Parc de Bercy juntou-se à lista de espaços abertos a cães em dezembro de 2025. Bairro que mistura antigas adegas, Bercy Village moderno e ruas residenciais calmas.",
+    "highlightsEn": [
+      "Bois de Vincennes: leashed dogs on all paths, large off-leash zones (1 hectare plus)",
+      "Coulée verte René-Dumont: leashed dogs welcome on the 4.5 km elevated walkway",
+      "Parc de Bercy (opened to dogs Dec 2025): leashed dogs on specified alleys",
+      "Bercy Village pedestrian street: pet-friendly cafes",
+      "Best arrondissement in Paris for large dogs"
+    ],
+    "highlightsFr": [
+      "Bois de Vincennes: chiens en laisse sur tous les chemins, vastes zones sans laisse (1 hectare+)",
+      "Coulée verte René-Dumont: chiens en laisse bienvenus sur les 4,5 km de promenade plantée",
+      "Parc de Bercy (ouvert aux chiens déc. 2025): chiens en laisse sur allées définies",
+      "Bercy Village rue piétonne: cafés pet-friendly",
+      "Meilleur arrondissement de Paris pour les grands chiens"
+    ],
+    "highlightsEs": [
+      "Bois de Vincennes: perros con correa en todos los caminos, grandes zonas sin correa (1+ hectárea)",
+      "Coulée verte René-Dumont: perros con correa bienvenidos en los 4,5 km de paseo elevado",
+      "Parc de Bercy (abierto a perros dic. 2025): perros con correa en senderos definidos",
+      "Bercy Village calle peatonal: cafés pet-friendly",
+      "Mejor distrito de París para perros grandes"
+    ],
+    "highlightsPt": [
+      "Bois de Vincennes: cães com trela em todos os caminhos, vastas zonas sem trela (1+ hectare)",
+      "Coulée verte René-Dumont: cães com trela bem-vindos nos 4,5 km do passeio plantado",
+      "Parc de Bercy (aberto a cães dez. 2025): cães com trela nas alamedas definidas",
+      "Bercy Village rua pedonal: cafés pet-friendly",
+      "Melhor arrondissement de Paris para cães grandes"
+    ],
+    "parks": [
+      {
+        "name": "Bois de Vincennes",
+        "policyEn": "Leashed dogs allowed on all paths and lawns. Off-leash freedom zones (over 1 hectare) are signposted: the main one is near Lac Daumesnil. Dogs banned from the zoo, Parc Floral and Lac des Minimes swimming areas.",
+        "policyFr": "Chiens en laisse autorisés sur tous les chemins et pelouses. Zones de liberté (plus d'1 ha) signalées: la principale est près du Lac Daumesnil. Interdits dans le zoo, le Parc Floral et autour des zones de baignade du Lac des Minimes.",
+        "policyEs": "Perros con correa permitidos en todos los caminos y céspedes. Zonas de libertad (más de 1 ha) señalizadas: la principal junto al Lac Daumesnil. Prohibidos en el zoo, el Parc Floral y zonas de baño del Lac des Minimes.",
+        "policyPt": "Cães com trela permitidos em todos os caminhos e relvados. Zonas de liberdade (mais de 1 ha) sinalizadas: a principal junto ao Lac Daumesnil. Proibidos no zoo, no Parc Floral e nas zonas de banho do Lac des Minimes."
+      },
+      {
+        "name": "Coulée verte René-Dumont (Promenade Plantée)",
+        "policyEn": "Leashed dogs welcome along the full 4.5 km elevated and ground-level path from Bastille to Bois de Vincennes.",
+        "policyFr": "Chiens en laisse bienvenus sur les 4,5 km de promenade plantée, de la Bastille au Bois de Vincennes.",
+        "policyEs": "Perros con correa bienvenidos en los 4,5 km de paseo, desde Bastille hasta el Bois de Vincennes.",
+        "policyPt": "Cães com trela bem-vindos nos 4,5 km de passeio, da Bastille ao Bois de Vincennes."
+      },
+      {
+        "name": "Parc de Bercy",
+        "policyEn": "Opened to dogs in December 2025. Leashed dogs (max 1.5 m) allowed on specified alleys only; lawns, gardens and water features banned.",
+        "policyFr": "Ouvert aux chiens en décembre 2025. Chiens en laisse (1,5 m max) autorisés sur des allées définies; pelouses, jardins et bassins interdits.",
+        "policyEs": "Abierto a perros en diciembre de 2025. Perros con correa (1,5 m max) permitidos solo en senderos definidos; césped, jardines y estanques prohibidos.",
+        "policyPt": "Aberto a cães em dezembro de 2025. Cães com trela (máx. 1,5 m) permitidos apenas em alamedas definidas; relvados, jardins e tanques proibidos."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire de Bercy",
+        "address": "4 rue de la Lancette, 75012 Paris",
+        "phone": "+33 1 43 43 14 22"
+      }
+    ]
   },
   {
     "n": 13,
@@ -235,16 +781,67 @@
     "lat": 48.8323,
     "lng": 2.3561,
     "metros": ["5", "6", "7", "14", "RER C"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 13th combines old artisan streets near Gobelins, the high-rise Chinatown around Place d'Italie and the modern riverside Bibliothèque Nationale-Massena district. The Parc de Choisy and Jardin des Grands Moulins offer real leashed dog walks, and the Berges de Seine downstream from Pont de Bercy give long flat strolls. Hospital FREGIS at the southern edge is one of the major 24h emergency vet hubs of Paris.",
+    "introFr": "Le 13e mêle vieux ateliers près des Gobelins, le Chinatown vertical autour de la place d'Italie et le quartier moderne BNF-Masséna en bord de Seine. Le Parc de Choisy et le Jardin des Grands Moulins permettent de vraies balades en laisse, et les Berges de Seine en aval du Pont de Bercy offrent de longues marches plates. L'hôpital vétérinaire FREGIS, à la limite sud, est l'un des grands pôles d'urgences 24h de Paris.",
+    "introEs": "El 13.º combina viejos talleres junto a Gobelins, el Chinatown vertical alrededor de Place d'Italie y el moderno barrio BNF-Masséna a orillas del Sena. El Parc de Choisy y el Jardin des Grands Moulins ofrecen verdaderos paseos con correa, y las Berges de Seine aguas abajo del Pont de Bercy permiten largas caminatas llanas. El hospital veterinario FREGIS, en el límite sur, es uno de los grandes polos de urgencias 24h de París.",
+    "introPt": "O 13.º combina antigas oficinas junto aos Gobelins, a Chinatown vertical em torno da Place d'Italie e o moderno bairro BNF-Masséna à beira-Sena. O Parc de Choisy e o Jardin des Grands Moulins permitem verdadeiros passeios com trela, e as Berges de Seine a jusante do Pont de Bercy oferecem longas caminhadas planas. O hospital veterinário FREGIS, no limite sul, é um dos grandes polos de urgências 24h de Paris.",
+    "highlightsEn": [
+      "Parc de Choisy: leashed dogs welcome on the alleys",
+      "Jardin des Grands Moulins-Abbe Pierre: leashed dogs welcome",
+      "Berges de Seine BNF: long riverside walk facing Bercy Park",
+      "FREGIS 24h vet hospital at the southern edge",
+      "Chinatown high-rise area is dense and busy, prefer Butte-aux-Cailles village streets"
+    ],
+    "highlightsFr": [
+      "Parc de Choisy: chiens en laisse bienvenus dans les allées",
+      "Jardin des Grands Moulins-Abbé Pierre: chiens en laisse bienvenus",
+      "Berges de Seine BNF: longue balade face au Parc de Bercy",
+      "Hôpital vétérinaire FREGIS 24h en limite sud",
+      "Chinatown très dense, préférer les rues village de la Butte-aux-Cailles"
+    ],
+    "highlightsEs": [
+      "Parc de Choisy: perros con correa bienvenidos en los senderos",
+      "Jardin des Grands Moulins-Abbé Pierre: perros con correa bienvenidos",
+      "Berges de Seine BNF: largo paseo frente al Parc de Bercy",
+      "Hospital veterinario FREGIS 24h en el límite sur",
+      "Chinatown muy denso, mejor las calles village de la Butte-aux-Cailles"
+    ],
+    "highlightsPt": [
+      "Parc de Choisy: cães com trela bem-vindos nas alamedas",
+      "Jardin des Grands Moulins-Abbé Pierre: cães com trela bem-vindos",
+      "Berges de Seine BNF: longo passeio em frente ao Parc de Bercy",
+      "Hospital veterinário FREGIS 24h no limite sul",
+      "Chinatown muito densa, preferir as ruas-aldeia da Butte-aux-Cailles"
+    ],
+    "parks": [
+      {
+        "name": "Parc de Choisy",
+        "policyEn": "Leashed dogs welcome on the alleys; banned from lawns and central playground.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées; interdits sur les pelouses et l'aire de jeux centrale.",
+        "policyEs": "Perros con correa bienvenidos en los senderos; prohibidos en césped y zona infantil central.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas; proibidos nos relvados e zona infantil central."
+      },
+      {
+        "name": "Jardin des Grands Moulins-Abbé Pierre",
+        "policyEn": "Leashed dogs allowed on the alleys; banned from the central lawn and meadow.",
+        "policyFr": "Chiens en laisse autorisés dans les allées; interdits sur la pelouse centrale et la prairie.",
+        "policyEs": "Perros con correa permitidos en los senderos; prohibidos en el césped central y la pradera.",
+        "policyPt": "Cães com trela permitidos nas alamedas; proibidos no relvado central e prado."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Hôpital Vétérinaire FREGIS",
+        "address": "9 rue de Verdun, 94250 Gentilly (entry 75013 via rue Jacques Destrée)",
+        "phone": "+33 1 49 85 83 00",
+        "hoursNote": "24h emergency, 7/7"
+      },
+      {
+        "name": "Clinique Vétérinaire des Olympiades",
+        "address": "79 rue du Château des Rentiers, 75013 Paris",
+        "phone": "+33 1 45 86 28 02"
+      }
+    ]
   },
   {
     "n": 14,
@@ -254,16 +851,59 @@
     "lat": 48.8332,
     "lng": 2.3265,
     "metros": ["4", "6", "12", "13", "RER B"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 14th, from Montparnasse to Porte d'Orléans, is a residential and quietly literary arrondissement (Hemingway's old cafes, Cite Universitaire down south). The Parc Montsouris is the green crown jewel: leashed dogs on alleys and a real walking loop around the lake. The wide Boulevard Montparnasse and Denfert-Rochereau plaza handle dogs well.",
+    "introFr": "Le 14e, de Montparnasse à la Porte d'Orléans, est résidentiel et discrètement littéraire (les vieux cafés d'Hemingway, la Cité U au sud). Le Parc Montsouris en est le joyau vert: chiens en laisse dans les allées et belle boucle autour du lac. Bd Montparnasse et place Denfert-Rochereau, larges, sont confortables avec un chien.",
+    "introEs": "El 14.º, de Montparnasse a Porte d'Orléans, es residencial y discretamente literario (los cafés de Hemingway, la Cité U al sur). El Parc Montsouris es la joya verde: perros con correa en los senderos y bonito circuito junto al lago. El Bd Montparnasse y la place Denfert-Rochereau, anchos, son cómodos con perro.",
+    "introPt": "O 14.º, de Montparnasse a Porte d'Orléans, é residencial e discretamente literário (os cafés de Hemingway, a Cité U a sul). O Parc Montsouris é a joia verde: cães com trela nas alamedas e bom circuito junto ao lago. O Bd Montparnasse e a place Denfert-Rochereau, largos, são confortáveis com cão.",
+    "highlightsEn": [
+      "Parc Montsouris: leashed dogs welcome on the alleys, scenic lake loop",
+      "Cite Universitaire gardens: leashed dogs on the central park alleys",
+      "Place Denfert-Rochereau and wide boulevards for stroller-style walks",
+      "Quiet residential streets between Alesia and Mouton-Duvernet",
+      "Watch tower-block density around Porte d'Orléans"
+    ],
+    "highlightsFr": [
+      "Parc Montsouris: chiens en laisse bienvenus, belle boucle autour du lac",
+      "Cité Universitaire: chiens en laisse sur les allées du parc central",
+      "Place Denfert-Rochereau et boulevards larges, balades faciles",
+      "Rues résidentielles calmes entre Alésia et Mouton-Duvernet",
+      "Densité Porte d'Orléans, plutôt à éviter"
+    ],
+    "highlightsEs": [
+      "Parc Montsouris: perros con correa bienvenidos, bonito circuito junto al lago",
+      "Cité Universitaire: perros con correa en los senderos del parque central",
+      "Place Denfert-Rochereau y bulevares anchos, paseos cómodos",
+      "Calles residenciales tranquilas entre Alésia y Mouton-Duvernet",
+      "Densidad de torres en Porte d'Orléans, mejor evitar"
+    ],
+    "highlightsPt": [
+      "Parc Montsouris: cães com trela bem-vindos, bom circuito junto ao lago",
+      "Cité Universitaire: cães com trela nas alamedas do parque central",
+      "Place Denfert-Rochereau e avenidas largas, passeios cómodos",
+      "Ruas residenciais calmas entre Alésia e Mouton-Duvernet",
+      "Densidade de torres em Porte d'Orléans, melhor evitar"
+    ],
+    "parks": [
+      {
+        "name": "Parc Montsouris",
+        "policyEn": "Leashed dogs welcome on the alleys around the lake; banned from the central lawn, flower beds and around the children's playground.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées autour du lac; interdits sur la pelouse centrale, les massifs et autour de l'aire de jeux.",
+        "policyEs": "Perros con correa bienvenidos en los senderos junto al lago; prohibidos en el césped central, parterres y zona infantil.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas junto ao lago; proibidos no relvado central, canteiros e junto à zona infantil."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire Alizée",
+        "address": "140 avenue du Maine, 75014 Paris",
+        "phone": "+33 1 45 41 28 28"
+      },
+      {
+        "name": "Clinique Vétérinaire Sarrette",
+        "address": "3 rue Prisse d'Avennes, 75014 Paris",
+        "phone": "+33 1 45 40 76 76"
+      }
+    ]
   },
   {
     "n": 15,
@@ -273,16 +913,62 @@
     "lat": 48.8417,
     "lng": 2.2998,
     "metros": ["6", "8", "10", "12", "13"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 15th is the largest arrondissement by population, a calm family district running from Montparnasse west to the Seine at Beaugrenelle. The Parc Andre-Citroen and Parc Georges-Brassens are real green lungs with leashed dog access, and the Île aux Cygnes mid-Seine walkway is a unique flat 850 m promenade. Wide sidewalks and good metro coverage make it convenient with a dog.",
+    "introFr": "Le 15e est l'arrondissement le plus peuplé, un quartier familial calme qui va de Montparnasse à la Seine côté Beaugrenelle. Le Parc André-Citroën et le Parc Georges-Brassens sont de vrais poumons verts avec chiens en laisse, et l'Île aux Cygnes au milieu de la Seine offre une promenade unique de 850 m. Trottoirs larges et bon maillage métro, pratique avec un chien.",
+    "introEs": "El 15.º es el distrito más poblado, un barrio familiar tranquilo que va de Montparnasse al Sena por Beaugrenelle. El Parc André-Citroën y el Parc Georges-Brassens son verdaderos pulmones verdes con acceso a perros con correa, y la Île aux Cygnes en medio del Sena ofrece un paseo único de 850 m. Aceras anchas y buen metro, cómodo con perro.",
+    "introPt": "O 15.º é o arrondissement mais populoso, um bairro familiar calmo que vai de Montparnasse ao Sena junto a Beaugrenelle. O Parc André-Citroën e o Parc Georges-Brassens são verdadeiros pulmões verdes com acesso a cães com trela, e a Île aux Cygnes no meio do Sena oferece um passeio único de 850 m. Passeios largos e bom metro, prático com cão.",
+    "highlightsEn": [
+      "Parc André-Citroën: leashed dogs on alleys, big open feel",
+      "Parc Georges-Brassens: leashed dogs welcome, gentle hilly walk",
+      "Île aux Cygnes: 850 m mid-Seine walkway, leashed dogs welcome",
+      "Berges de Seine quai de Grenelle: long riverside walk",
+      "Wide sidewalks throughout, easy with strollers and dogs"
+    ],
+    "highlightsFr": [
+      "Parc André-Citroën: chiens en laisse dans les allées, grand espace ouvert",
+      "Parc Georges-Brassens: chiens en laisse bienvenus, balade légèrement vallonnée",
+      "Île aux Cygnes: promenade de 850 m au milieu de la Seine, chiens en laisse bienvenus",
+      "Berges de Seine quai de Grenelle: longue balade au bord de l'eau",
+      "Trottoirs larges partout, pratique avec poussette et chien"
+    ],
+    "highlightsEs": [
+      "Parc André-Citroën: perros con correa en los senderos, gran espacio abierto",
+      "Parc Georges-Brassens: perros con correa bienvenidos, paseo ligeramente ondulado",
+      "Île aux Cygnes: paseo de 850 m en medio del Sena, perros con correa bienvenidos",
+      "Berges de Seine quai de Grenelle: largo paseo junto al agua",
+      "Aceras anchas, cómodo con carrito y perro"
+    ],
+    "highlightsPt": [
+      "Parc André-Citroën: cães com trela nas alamedas, grande espaço aberto",
+      "Parc Georges-Brassens: cães com trela bem-vindos, passeio levemente ondulado",
+      "Île aux Cygnes: passeio de 850 m no meio do Sena, cães com trela bem-vindos",
+      "Berges de Seine cais de Grenelle: longo passeio à beira-rio",
+      "Passeios largos, prático com carrinho e cão"
+    ],
+    "parks": [
+      {
+        "name": "Parc André-Citroën",
+        "policyEn": "Leashed dogs welcome on the alleys; banned from the central lawn, themed gardens and the tethered balloon area.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées; interdits sur la pelouse centrale, les jardins thématiques et autour du ballon captif.",
+        "policyEs": "Perros con correa bienvenidos en los senderos; prohibidos en el césped central, jardines temáticos y zona del globo cautivo.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas; proibidos no relvado central, jardins temáticos e zona do balão cativo."
+      },
+      {
+        "name": "Parc Georges-Brassens",
+        "policyEn": "Leashed dogs welcome on the alleys; banned from lawns, vineyard and the children's playground.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées; interdits sur les pelouses, la vigne et l'aire de jeux.",
+        "policyEs": "Perros con correa bienvenidos en los senderos; prohibidos en césped, viñedo y zona infantil.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas; proibidos nos relvados, vinha e zona infantil."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire Paris Pasteur (Sevetys)",
+        "address": "16 rue Pasteur, 75015 Paris",
+        "phone": "+33 1 45 67 38 38",
+        "hoursNote": "Mon-Fri 8h30-19h30, Sat 8h30-18h30"
+      }
+    ]
   },
   {
     "n": 16,
@@ -292,16 +978,61 @@
     "lat": 48.8639,
     "lng": 2.2755,
     "metros": ["2", "6", "9", "10", "RER C"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 16th is upscale residential Paris with the Bois de Boulogne as its enormous western backyard. The Bois allows leashed dogs on most paths and has signed off-leash freedom zones over 1 hectare, making it the single best dog destination in central Paris together with the Bois de Vincennes. Trocadéro gardens around the Palais de Chaillot allow leashed dogs on alleys with magnificent Eiffel Tower views.",
+    "introFr": "Le 16e, c'est le Paris résidentiel chic avec le Bois de Boulogne comme immense arrière-cour ouest. Le Bois autorise les chiens en laisse sur la plupart des chemins et propose des zones de liberté signalées de plus d'un hectare, ce qui en fait, avec le Bois de Vincennes, le meilleur spot canin de la capitale. Les jardins du Trocadéro autour du Palais de Chaillot autorisent les chiens en laisse, avec vue magique sur la Tour Eiffel.",
+    "introEs": "El 16.º es el París residencial chic con el Bois de Boulogne como inmenso jardín trasero al oeste. El Bois permite perros con correa en la mayoría de caminos y dispone de zonas de libertad señaladas de más de una hectárea, lo que lo convierte, junto al Bois de Vincennes, en el mejor destino canino de la capital. Los jardines del Trocadéro junto al Palais de Chaillot permiten perros con correa, con vistas mágicas a la Torre Eiffel.",
+    "introPt": "O 16.º é a Paris residencial chique com o Bois de Boulogne como imenso quintal a oeste. O Bois permite cães com trela na maioria dos caminhos e dispõe de zonas de liberdade sinalizadas com mais de um hectare, tornando-o, com o Bois de Vincennes, o melhor destino canino da capital. Os jardins do Trocadéro junto ao Palais de Chaillot permitem cães com trela, com vista mágica para a Torre Eiffel.",
+    "highlightsEn": [
+      "Bois de Boulogne: leashed dogs on most paths, large off-leash freedom zones",
+      "Jardins du Trocadéro: leashed dogs on alleys, prime Eiffel Tower views",
+      "Jardin du Ranelagh: leashed dogs welcome on alleys",
+      "Quiet residential Auteuil and Passy village streets",
+      "Bois de Boulogne: avoid the nightlife perimeter zones at night"
+    ],
+    "highlightsFr": [
+      "Bois de Boulogne: chiens en laisse sur la plupart des chemins, zones de liberté signalées",
+      "Jardins du Trocadéro: chiens en laisse dans les allées, vue Tour Eiffel imbattable",
+      "Jardin du Ranelagh: chiens en laisse bienvenus dans les allées",
+      "Rues village d'Auteuil et de Passy, résidentielles et calmes",
+      "Bois de Boulogne: éviter les zones de prostitution nocturne après la tombée"
+    ],
+    "highlightsEs": [
+      "Bois de Boulogne: perros con correa en la mayoría de caminos, zonas de libertad señaladas",
+      "Jardines del Trocadéro: perros con correa en senderos, vistas inmejorables a la Torre Eiffel",
+      "Jardin du Ranelagh: perros con correa bienvenidos en los senderos",
+      "Calles village de Auteuil y Passy, residenciales y tranquilas",
+      "Bois de Boulogne: evitar las zonas nocturnas tras el anochecer"
+    ],
+    "highlightsPt": [
+      "Bois de Boulogne: cães com trela na maioria dos caminhos, zonas de liberdade sinalizadas",
+      "Jardins do Trocadéro: cães com trela nas alamedas, vista imbatível para a Torre Eiffel",
+      "Jardin du Ranelagh: cães com trela bem-vindos nas alamedas",
+      "Ruas-aldeia de Auteuil e Passy, residenciais e calmas",
+      "Bois de Boulogne: evitar as zonas noturnas após o anoitecer"
+    ],
+    "parks": [
+      {
+        "name": "Bois de Boulogne",
+        "policyEn": "Leashed dogs allowed on all main paths. Signposted off-leash freedom zones (over 1 hectare) around the Pré Catelan area. Dogs banned from Jardin d'Acclimatation, Parc de Bagatelle flower beds and Auteuil greenhouse interiors.",
+        "policyFr": "Chiens en laisse autorisés sur tous les chemins principaux. Zones de liberté signalées (plus d'1 ha) vers le Pré Catelan. Interdits dans le Jardin d'Acclimatation, les massifs de Bagatelle et les serres d'Auteuil.",
+        "policyEs": "Perros con correa permitidos en todos los caminos principales. Zonas de libertad señaladas (más de 1 ha) hacia el Pré Catelan. Prohibidos en el Jardin d'Acclimatation, parterres de Bagatelle e invernaderos de Auteuil.",
+        "policyPt": "Cães com trela permitidos em todos os caminhos principais. Zonas de liberdade sinalizadas (mais de 1 ha) junto ao Pré Catelan. Proibidos no Jardin d'Acclimatation, canteiros de Bagatelle e estufas de Auteuil."
+      },
+      {
+        "name": "Jardins du Trocadéro",
+        "policyEn": "Leashed dogs welcome on the alleys and around the fountains plaza; banned from lawns and flower beds.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées et autour des fontaines; interdits sur les pelouses et massifs.",
+        "policyEs": "Perros con correa bienvenidos en los senderos y junto a las fuentes; prohibidos en césped y parterres.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas e junto às fontes; proibidos nos relvados e canteiros."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Cabinet Vétérinaire du Village de Passy",
+        "address": "11 rue de l'Annonciation, 75016 Paris",
+        "phone": "+33 1 45 27 25 89"
+      }
+    ]
   },
   {
     "n": 17,
@@ -311,16 +1042,61 @@
     "lat": 48.8848,
     "lng": 2.3204,
     "metros": ["2", "3", "13", "RER C"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 17th splits between the elegant Plaine Monceau side and the now-trendy Batignolles village around the Parc Martin Luther King. The Parc Martin Luther King is one of the most pet-friendly recent parks in Paris, with a fenced off-leash canine zone. The Square des Batignolles allows leashed dogs on alleys. The 17e Mairie publishes a detailed map of dog-accessible squares for the arrondissement.",
+    "introFr": "Le 17e se partage entre la Plaine Monceau élégante et le village Batignolles devenu très tendance autour du Parc Martin Luther King. Ce dernier est l'un des parcs récents les plus pet-friendly de Paris, avec un espace canin clôturé sans laisse. Le Square des Batignolles autorise les chiens en laisse dans les allées. La Mairie du 17e publie une carte détaillée des squares ouverts aux chiens.",
+    "introEs": "El 17.º se divide entre la elegante Plaine Monceau y el village Batignolles, ahora muy de moda, alrededor del Parc Martin Luther King. Este último es uno de los parques recientes más pet-friendly de París, con espacio canino vallado sin correa. El Square des Batignolles permite perros con correa en senderos. La Mairie du 17e publica un mapa detallado de squares abiertos a perros.",
+    "introPt": "O 17.º divide-se entre a elegante Plaine Monceau e a aldeia Batignolles, agora muito trendy, em torno do Parc Martin Luther King. Este é um dos parques recentes mais pet-friendly de Paris, com espaço canino vedado sem trela. O Square des Batignolles permite cães com trela nas alamedas. A Mairie du 17e publica um mapa detalhado de squares abertos a cães.",
+    "highlightsEn": [
+      "Parc Martin Luther King: leashed dogs on alleys, fenced off-leash canine zone",
+      "Square des Batignolles: leashed dogs on alleys around the pond",
+      "Batignolles village pedestrian streets and pet-tolerant cafes",
+      "Plaine Monceau: wide elegant boulevards, walkable with a dog",
+      "Mairie du 17e lists 12+ squares open to dogs"
+    ],
+    "highlightsFr": [
+      "Parc Martin Luther King: chiens en laisse dans les allées, espace canin clôturé sans laisse",
+      "Square des Batignolles: chiens en laisse dans les allées autour du bassin",
+      "Rues piétonnes des Batignolles et cafés tolérants",
+      "Plaine Monceau: larges boulevards élégants, faciles avec un chien",
+      "La Mairie du 17e recense plus de 12 squares ouverts aux chiens"
+    ],
+    "highlightsEs": [
+      "Parc Martin Luther King: perros con correa en senderos, espacio canino vallado sin correa",
+      "Square des Batignolles: perros con correa en senderos junto al estanque",
+      "Calles peatonales de Batignolles y cafés tolerantes",
+      "Plaine Monceau: amplios bulevares elegantes, fáciles con perro",
+      "La Mairie del 17.º lista más de 12 squares abiertos a perros"
+    ],
+    "highlightsPt": [
+      "Parc Martin Luther King: cães com trela nas alamedas, espaço canino vedado sem trela",
+      "Square des Batignolles: cães com trela nas alamedas junto ao lago",
+      "Ruas pedonais de Batignolles e cafés tolerantes",
+      "Plaine Monceau: avenidas largas e elegantes, fáceis com cão",
+      "A Mairie do 17.º lista mais de 12 squares abertos a cães"
+    ],
+    "parks": [
+      {
+        "name": "Parc Martin Luther King (Clichy-Batignolles)",
+        "policyEn": "Leashed dogs welcome on the alleys; a fenced canine freedom zone allows off-leash play. Banned from lawns, sports fields and the children's playground.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées; espace canin clôturé pour la liberté. Interdits sur les pelouses, terrains de sport et aire de jeux.",
+        "policyEs": "Perros con correa bienvenidos en los senderos; espacio canino vallado para suelta. Prohibidos en césped, canchas y zona infantil.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas; espaço canino vedado para soltura. Proibidos nos relvados, campos desportivos e zona infantil."
+      },
+      {
+        "name": "Square des Batignolles",
+        "policyEn": "Leashed dogs welcome on the alleys around the pond; banned from lawns and central rockery.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées autour du bassin; interdits sur les pelouses et la rocaille centrale.",
+        "policyEs": "Perros con correa bienvenidos en los senderos junto al estanque; prohibidos en céspedes y rocalla central.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas junto ao lago; proibidos nos relvados e rochedo central."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire Batignolles",
+        "address": "84 boulevard des Batignolles, 75017 Paris",
+        "phone": "+33 1 45 22 27 12"
+      }
+    ]
   },
   {
     "n": 18,
@@ -330,16 +1106,66 @@
     "lat": 48.8929,
     "lng": 2.3439,
     "metros": ["2", "4", "12"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 18th is Montmartre, Pigalle and Goutte d'Or: hilly, photogenic, intensely visited around Sacre-Coeur and quieter on the back slopes. The Square Suzanne Buisson and Square Marcel Bleustein-Blanchet (behind Sacre-Coeur) are the main dog-friendly green spots, and the small Jardins Rosa-Luxemburg in the new ZAC Clichy area are a recent addition. Steep stairs and busy stairs around Abbesses can be hard for older dogs.",
+    "introFr": "Le 18e, c'est Montmartre, Pigalle et la Goutte d'Or: vallonné, photogénique, très fréquenté autour du Sacré-Coeur et plus calme sur les versants arrière. Le Square Suzanne Buisson et le Square Marcel Bleustein-Blanchet (derrière le Sacré-Coeur) sont les principaux poumons verts ouverts aux chiens, et les Jardins Rosa-Luxemburg de la ZAC Clichy en sont une addition récente. Escaliers raides autour des Abbesses, durs pour les vieux chiens.",
+    "introEs": "El 18.º es Montmartre, Pigalle y Goutte d'Or: ondulado, fotogénico, muy concurrido en torno al Sacré-Coeur y más tranquilo en las laderas traseras. El Square Suzanne Buisson y el Square Marcel Bleustein-Blanchet (detrás del Sacré-Coeur) son los principales pulmones verdes abiertos a perros, y los Jardins Rosa-Luxemburg de la ZAC Clichy una incorporación reciente. Escaleras empinadas alrededor de Abbesses, duras para perros mayores.",
+    "introPt": "O 18.º é Montmartre, Pigalle e Goutte d'Or: ondulado, fotogénico, muito frequentado em torno do Sacré-Coeur e mais calmo nas encostas traseiras. O Square Suzanne Buisson e o Square Marcel Bleustein-Blanchet (atrás do Sacré-Coeur) são os principais pulmões verdes abertos a cães, e os Jardins Rosa-Luxemburg da ZAC Clichy uma adição recente. Escadas íngremes em torno de Abbesses, duras para cães idosos.",
+    "highlightsEn": [
+      "Square Suzanne Buisson: leashed dogs on the alleys (Montmartre back side)",
+      "Square Marcel Bleustein-Blanchet: leashed dogs welcome behind Sacre-Coeur",
+      "Jardins Rosa-Luxemburg: leashed dogs welcome, modern park",
+      "Steep Montmartre stairs hard for older or large dogs",
+      "Pigalle and Place du Tertre very crowded, prefer early morning"
+    ],
+    "highlightsFr": [
+      "Square Suzanne Buisson: chiens en laisse dans les allées (versant nord de la butte)",
+      "Square Marcel Bleustein-Blanchet: chiens en laisse bienvenus derrière le Sacré-Coeur",
+      "Jardins Rosa-Luxemburg: chiens en laisse bienvenus, parc moderne",
+      "Escaliers raides de Montmartre durs pour vieux ou grands chiens",
+      "Pigalle et Place du Tertre saturés, préférer le matin tôt"
+    ],
+    "highlightsEs": [
+      "Square Suzanne Buisson: perros con correa en los senderos (ladera norte)",
+      "Square Marcel Bleustein-Blanchet: perros con correa bienvenidos detrás del Sacré-Coeur",
+      "Jardins Rosa-Luxemburg: perros con correa bienvenidos, parque moderno",
+      "Escaleras empinadas de Montmartre duras para perros mayores o grandes",
+      "Pigalle y Place du Tertre saturados, mejor temprano por la mañana"
+    ],
+    "highlightsPt": [
+      "Square Suzanne Buisson: cães com trela nas alamedas (encosta norte)",
+      "Square Marcel Bleustein-Blanchet: cães com trela bem-vindos atrás do Sacré-Coeur",
+      "Jardins Rosa-Luxemburg: cães com trela bem-vindos, parque moderno",
+      "Escadas íngremes de Montmartre duras para cães idosos ou grandes",
+      "Pigalle e Place du Tertre lotados, melhor de manhã cedo"
+    ],
+    "parks": [
+      {
+        "name": "Square Suzanne Buisson",
+        "policyEn": "Leashed dogs welcome on the alleys; banned from the central lawn and around the statue of Saint Denis.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées; interdits sur la pelouse centrale et autour de la statue de Saint Denis.",
+        "policyEs": "Perros con correa bienvenidos en los senderos; prohibidos en el césped central y junto a la estatua de Saint Denis.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas; proibidos no relvado central e junto à estátua de Saint Denis."
+      },
+      {
+        "name": "Square Marcel Bleustein-Blanchet",
+        "policyEn": "Leashed dogs welcome on the alleys (behind Sacre-Coeur); banned from lawns.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées (derrière le Sacré-Coeur); interdits sur les pelouses.",
+        "policyEs": "Perros con correa bienvenidos en los senderos (detrás del Sacré-Coeur); prohibidos en césped.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas (atrás do Sacré-Coeur); proibidos no relvado."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire Montmartre",
+        "address": "73 rue Caulaincourt, 75018 Paris",
+        "phone": "+33 1 46 06 64 64"
+      },
+      {
+        "name": "Clinique Vétérinaire Paris 18 Picard (Sevetys)",
+        "address": "8 rue Pierre Picard, 75018 Paris",
+        "phone": "+33 1 42 62 27 38"
+      }
+    ]
   },
   {
     "n": 19,
@@ -349,16 +1175,66 @@
     "lat": 48.8852,
     "lng": 2.3771,
     "metros": ["5", "7", "7bis", "11"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 19th is arguably the most dog-friendly arrondissement in Paris together with the 12th and 16th, thanks to the Parc des Buttes-Chaumont, the Parc de la Villette and the Bassin de la Villette/Canal de l'Ourcq waterfront. The Buttes-Chaumont allows leashed dogs on most alleys with off-leash pelouses signed. La Villette is wide, flat, and welcomes leashed dogs throughout.",
+    "introFr": "Le 19e est, avec le 12e et le 16e, sans doute l'arrondissement le plus pet-friendly de Paris grâce au Parc des Buttes-Chaumont, au Parc de la Villette et au front d'eau Bassin de la Villette/Canal de l'Ourcq. Les Buttes-Chaumont autorisent les chiens en laisse dans la plupart des allées, avec des pelouses sans laisse signalées. La Villette est vaste, plate, et accueille les chiens en laisse partout.",
+    "introEs": "El 19.º es, junto al 12.º y al 16.º, probablemente el distrito más pet-friendly de París gracias al Parc des Buttes-Chaumont, al Parc de la Villette y al frente acuático Bassin de la Villette/Canal de l'Ourcq. Las Buttes-Chaumont permiten perros con correa en la mayoría de senderos, con praderas sin correa señalizadas. La Villette es amplia, llana, y acepta perros con correa en todas partes.",
+    "introPt": "O 19.º é, com o 12.º e o 16.º, provavelmente o arrondissement mais pet-friendly de Paris graças ao Parc des Buttes-Chaumont, ao Parc de la Villette e à frente de água Bassin de la Villette/Canal de l'Ourcq. As Buttes-Chaumont permitem cães com trela na maioria das alamedas, com relvados sem trela sinalizados. La Villette é vasta, plana, e acolhe cães com trela em todo o lado.",
+    "highlightsEn": [
+      "Parc des Buttes-Chaumont: leashed dogs on alleys, signed off-leash pelouses",
+      "Parc de la Villette: leashed dogs welcome throughout, flat and wide",
+      "Bassin de la Villette and Canal de l'Ourcq quays: long flat riverside walks",
+      "Square de la Butte du Chapeau-Rouge: leashed dogs welcome, panoramic views",
+      "Hilly Buttes-Chaumont alleys can be challenging for very young or old dogs"
+    ],
+    "highlightsFr": [
+      "Parc des Buttes-Chaumont: chiens en laisse dans les allées, pelouses sans laisse signalées",
+      "Parc de la Villette: chiens en laisse bienvenus partout, plat et vaste",
+      "Bassin de la Villette et berges du Canal de l'Ourcq: longues balades plates",
+      "Square de la Butte du Chapeau-Rouge: chiens en laisse, vue panoramique",
+      "Allées vallonnées des Buttes-Chaumont, durs pour très jeunes ou vieux chiens"
+    ],
+    "highlightsEs": [
+      "Parc des Buttes-Chaumont: perros con correa en senderos, praderas sin correa señalizadas",
+      "Parc de la Villette: perros con correa bienvenidos en todas partes, llano y amplio",
+      "Bassin de la Villette y muelles del Canal de l'Ourcq: largos paseos llanos",
+      "Square de la Butte du Chapeau-Rouge: perros con correa, vista panorámica",
+      "Senderos inclinados de Buttes-Chaumont, duros para perros muy jóvenes o mayores"
+    ],
+    "highlightsPt": [
+      "Parc des Buttes-Chaumont: cães com trela nas alamedas, relvados sem trela sinalizados",
+      "Parc de la Villette: cães com trela bem-vindos em todo o lado, plano e vasto",
+      "Bassin de la Villette e margens do Canal de l'Ourcq: longos passeios planos",
+      "Square de la Butte du Chapeau-Rouge: cães com trela, vista panorâmica",
+      "Alamedas inclinadas das Buttes-Chaumont, duras para cães muito jovens ou idosos"
+    ],
+    "parks": [
+      {
+        "name": "Parc des Buttes-Chaumont",
+        "policyEn": "Leashed dogs welcome on the alleys. Several signed off-leash pelouses (look for the espace ouvert aux chiens signs). Banned from the temple, the cliff edges and around the lake jetties.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées. Plusieurs pelouses sans laisse signalées (panneaux espace ouvert aux chiens). Interdits autour du temple, des falaises et des pontons.",
+        "policyEs": "Perros con correa bienvenidos en los senderos. Varias praderas sin correa señalizadas (carteles espace ouvert aux chiens). Prohibidos junto al templo, los acantilados y los pontones.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas. Vários relvados sem trela sinalizados (placas espace ouvert aux chiens). Proibidos junto ao templo, às falésias e aos pontões."
+      },
+      {
+        "name": "Parc de la Villette",
+        "policyEn": "Leashed dogs welcome throughout the open park, including the central canal banks. Banned from the Cite des Sciences entrance ramps, the Geode forecourt and the children's themed gardens.",
+        "policyFr": "Chiens en laisse bienvenus dans tout le parc ouvert, y compris au bord du canal central. Interdits sur les rampes de la Cité des Sciences, le parvis de la Géode et les jardins thématiques pour enfants.",
+        "policyEs": "Perros con correa bienvenidos en todo el parque abierto, incluido el canal central. Prohibidos en las rampas de la Cité des Sciences, la plaza de la Geode y los jardines temáticos infantiles.",
+        "policyPt": "Cães com trela bem-vindos em todo o parque aberto, incluindo o canal central. Proibidos nas rampas da Cité des Sciences, no átrio da Géode e nos jardins temáticos infantis."
+      }
+    ],
+    "vets": [
+      {
+        "name": "Clinique Vétérinaire des Portes de Paris",
+        "address": "62 avenue Jean Jaurès, 75019 Paris",
+        "phone": "+33 1 42 03 43 43"
+      },
+      {
+        "name": "Clinique Vétérinaire Mon Véto Paris 19",
+        "address": "218 rue de Crimée, 75019 Paris",
+        "phone": "+33 1 40 03 03 90"
+      }
+    ]
   },
   {
     "n": 20,
@@ -368,15 +1244,61 @@
     "lat": 48.8631,
     "lng": 2.4001,
     "metros": ["2", "3", "9", "11"],
-    "introEn": "",
-    "introFr": "",
-    "introEs": "",
-    "introPt": "",
-    "highlightsEn": [],
-    "highlightsFr": [],
-    "highlightsEs": [],
-    "highlightsPt": [],
-    "parks": [],
-    "vets": []
+    "introEn": "The 20th covers Belleville, Ménilmontant and the cemetery of Père-Lachaise. It is hilly, multicultural and increasingly trendy with a strong neighbourhood cafe culture. The Parc de Belleville offers one of the best panoramic city views in Paris and welcomes leashed dogs on its alleys. Père-Lachaise allows leashed dogs throughout its 44 hectares, an unusual and pleasant cemetery walk.",
+    "introFr": "Le 20e couvre Belleville, Ménilmontant et le cimetière du Père-Lachaise. Vallonné, multiculturel, de plus en plus tendance, avec une vraie culture de café de quartier. Le Parc de Belleville offre l'une des plus belles vues panoramiques de Paris et accueille les chiens en laisse dans ses allées. Le Père-Lachaise autorise les chiens en laisse sur ses 44 hectares, balade insolite et agréable.",
+    "introEs": "El 20.º cubre Belleville, Ménilmontant y el cementerio del Père-Lachaise. Ondulado, multicultural, cada vez más de moda, con una verdadera cultura de café de barrio. El Parc de Belleville ofrece una de las mejores vistas panorámicas de París y acepta perros con correa en sus senderos. El Père-Lachaise permite perros con correa en sus 44 hectáreas, paseo insólito y agradable.",
+    "introPt": "O 20.º abrange Belleville, Ménilmontant e o cemitério do Père-Lachaise. Ondulado, multicultural, cada vez mais trendy, com uma verdadeira cultura de café de bairro. O Parc de Belleville oferece uma das melhores vistas panorâmicas de Paris e acolhe cães com trela nas suas alamedas. O Père-Lachaise permite cães com trela nos seus 44 hectares, passeio insólito e agradável.",
+    "highlightsEn": [
+      "Parc de Belleville: leashed dogs on alleys, panoramic city view",
+      "Cimetière du Père-Lachaise: leashed dogs welcome on the 44 ha cobbled alleys",
+      "Jardin Naturel Pierre-Emmanuel: leashed dogs welcome, wild garden feel",
+      "Hilly streets, prepare for slopes and stairs",
+      "24h emergency vet hub at 175 bis rue des Pyrénées (UCVet)"
+    ],
+    "highlightsFr": [
+      "Parc de Belleville: chiens en laisse dans les allées, vue panoramique",
+      "Cimetière du Père-Lachaise: chiens en laisse bienvenus sur les 44 ha d'allées pavées",
+      "Jardin Naturel Pierre-Emmanuel: chiens en laisse bienvenus, ambiance friche",
+      "Rues vallonnées, prévoir les pentes et les escaliers",
+      "Urgences vétérinaires 24h au 175 bis rue des Pyrénées (UCVet)"
+    ],
+    "highlightsEs": [
+      "Parc de Belleville: perros con correa en senderos, vista panorámica",
+      "Cementerio del Père-Lachaise: perros con correa bienvenidos en las 44 ha de senderos empedrados",
+      "Jardin Naturel Pierre-Emmanuel: perros con correa bienvenidos, ambiente silvestre",
+      "Calles inclinadas, prever pendientes y escaleras",
+      "Urgencias veterinarias 24h en 175 bis rue des Pyrénées (UCVet)"
+    ],
+    "highlightsPt": [
+      "Parc de Belleville: cães com trela nas alamedas, vista panorâmica",
+      "Cemitério do Père-Lachaise: cães com trela bem-vindos nos 44 ha de alamedas em calçada",
+      "Jardin Naturel Pierre-Emmanuel: cães com trela bem-vindos, ambiente silvestre",
+      "Ruas inclinadas, contar com declives e escadas",
+      "Urgências veterinárias 24h em 175 bis rue des Pyrénées (UCVet)"
+    ],
+    "parks": [
+      {
+        "name": "Parc de Belleville",
+        "policyEn": "Leashed dogs welcome on the alleys; banned from the central lawn, vineyard and children's playground.",
+        "policyFr": "Chiens en laisse bienvenus dans les allées; interdits sur la pelouse centrale, la vigne et l'aire de jeux.",
+        "policyEs": "Perros con correa bienvenidos en los senderos; prohibidos en el césped central, viñedo y zona infantil.",
+        "policyPt": "Cães com trela bem-vindos nas alamedas; proibidos no relvado central, vinha e zona infantil."
+      },
+      {
+        "name": "Cimetière du Père-Lachaise",
+        "policyEn": "Leashed dogs welcome throughout the cemetery (44 ha). Owners must keep dogs on the cobbled alleys, never on or near graves.",
+        "policyFr": "Chiens en laisse bienvenus dans tout le cimetière (44 ha). Les chiens doivent rester sur les allées pavées, jamais sur ou contre les tombes.",
+        "policyEs": "Perros con correa bienvenidos en todo el cementerio (44 ha). Los perros deben quedarse en los senderos empedrados, nunca sobre o junto a las tumbas.",
+        "policyPt": "Cães com trela bem-vindos em todo o cemitério (44 ha). Os cães devem permanecer nas alamedas em calçada, nunca sobre ou junto às campas."
+      }
+    ],
+    "vets": [
+      {
+        "name": "UCVet / Vétérinaires 2 Toute Urgence",
+        "address": "175 bis rue des Pyrénées, 75020 Paris",
+        "phone": "+33 1 71 19 70 10",
+        "hoursNote": "24h emergency, 7/7"
+      }
+    ]
   }
 ]

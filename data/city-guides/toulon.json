@@ -1,0 +1,948 @@
+{
+  "slug": "toulon",
+  "name": "Toulon",
+  "country": "France",
+  "flag": "🇫🇷",
+  "lastUpdated": "2026-05-31",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Toulon",
+      "titleFr": "Restaurants acceptant les animaux à Toulon",
+      "titleEs": "Restaurantes con mascotas en Toulon",
+      "titlePt": "Restaurantes que aceitam animais em Toulon",
+      "introEn": "Toulon is structurally one of the most dog-friendly major French cities: the public bus and water-bus network officially admits large dogs on lead, the Mont Faron cable car takes them free, and the Mourillon seafront has dedicated cani-parks and a dog beach. Restaurant terraces, especially along the Mourillon and the Port d'Aviation marina, take leashed dogs as a matter of course. Indoor rooms vary; ask the host on arrival.",
+      "introFr": "Toulon est structurellement l'une des grandes villes françaises les plus accueillantes pour les chiens : le réseau de bus et bateaux-bus accepte officiellement les grands chiens en laisse, le téléphérique du Mont Faron les emmène gratuitement, et le front de mer du Mourillon dispose de cani-parcs et d'une cani-plage. Les terrasses, surtout sur le Mourillon et le port marina, acceptent les chiens en laisse par défaut. En salle, demandez à l'accueil.",
+      "introEs": "Toulon es estructuralmente una de las grandes ciudades francesas más acogedoras con los perros: la red de bus y bateaux-bus admite oficialmente perros grandes con correa, el teleférico del Mont Faron los lleva gratis, y el frente marítimo del Mourillon cuenta con cani-parques y una playa canina. Las terrazas, sobre todo en el Mourillon y el puerto deportivo, admiten perros con correa por defecto. En sala, pregunta al recibirte.",
+      "introPt": "Toulon é estruturalmente uma das grandes cidades francesas mais acolhedoras com cães: a rede de autocarros e bateaux-bus aceita oficialmente cães grandes com trela, o teleférico do Mont Faron leva-os grátis, e a frente-mar do Mourillon dispõe de cani-parques e de uma praia canina. As esplanadas, sobretudo no Mourillon e na marina, aceitam cães com trela por defeito. Em sala, pergunte na receção.",
+      "places": [
+        {
+          "name": "L'Estac Mourillon",
+          "address": "Plage du Mourillon, 83000 Toulon",
+          "neighborhood": "Le Mourillon",
+          "photo": "/images/city-places/toulon-restaurants-l-estac-mourillon.jpg",
+          "website": "",
+          "description": "A seafront restaurant on the wooden deck above the Mourillon beach with an unbroken Mediterranean horizon and the Iles d'Or visible on a clear day. Provençal brasserie menu: grilled fish, salads, pizza in the evening, glaces and pichets of Côtes de Provence. Listed as a dog-friendly seafront spot in multiple Toulon guides; dogs on leads are part of the daily terrace scene.",
+          "descriptionFr": "Un restaurant en front de mer sur le platelage en bois au-dessus de la plage du Mourillon, avec l'horizon méditerranéen et les Îles d'Or visibles par temps clair. Carte brasserie provençale : poisson grillé, salades, pizzas le soir, glaces et pichets de Côtes de Provence. Listé comme adresse dog-friendly en bord de mer dans plusieurs guides toulonnais ; les chiens en laisse font partie du quotidien de la terrasse.",
+          "descriptionEs": "Un restaurante frente al mar en el entarimado de madera sobre la playa del Mourillon, con el horizonte mediterráneo y las Îles d'Or visibles en días claros. Carta brasserie provenzal: pescado a la parrilla, ensaladas, pizzas por la noche, helados y jarras de Côtes de Provence. Listado como dirección dog-friendly frente al mar en varias guías toulonesas; los perros con correa son parte del paisaje diario de la terraza.",
+          "descriptionPt": "Um restaurante à beira-mar no deck de madeira sobre a praia do Mourillon, com o horizonte mediterrânico e as Îles d'Or visíveis em dias claros. Carta brasserie provençal: peixe grelhado, saladas, pizzas à noite, gelados e jarros de Côtes de Provence. Listado como endereço dog-friendly à beira-mar em várias guias toulonesas; os cães com trela fazem parte do cenário diário da esplanada.",
+          "petPolicy": "Dogs on leash welcome on the wooden deck terrace",
+          "petPolicyFr": "Chiens en laisse bienvenus sur le platelage",
+          "petPolicyEs": "Perros con correa bienvenidos en el entarimado",
+          "petPolicyPt": "Cães com trela bem-vindos no deck",
+          "priceRange": "€€",
+          "mustTry": "Daurade royale, plateau de fruits de mer, pizza Provençale",
+          "mustTryFr": "Daurade royale, plateau de fruits de mer, pizza provençale",
+          "mustTryEs": "Dorada real, plateau de fruits de mer, pizza provenzal",
+          "mustTryPt": "Dourada real, plateau de fruits de mer, pizza provençal",
+          "openingHours": "Daily 12:00–14:30, 19:00–22:30 (high season)",
+          "tip": "Reserve the deck for sunset between April and October; the western face of the Cap Sicié glows orange from 19:30 in summer.",
+          "tipFr": "Réservez le deck pour le coucher du soleil d'avril à octobre ; la face ouest du Cap Sicié s'embrase à partir de 19h30 en été.",
+          "tipEs": "Reserva el deck para el atardecer de abril a octubre; la cara oeste del Cap Sicié se enciende a partir de las 19:30 en verano.",
+          "tipPt": "Reserve o deck para o pôr-do-sol de abril a outubro; a face oeste do Cap Sicié inflama a partir das 19h30 no verão.",
+          "googleMapsUrl": "https://maps.google.com/?q=L%27Estac+Mourillon+Toulon"
+        },
+        {
+          "name": "Le M5",
+          "address": "Mourillon, 83000 Toulon",
+          "neighborhood": "Le Mourillon",
+          "photo": "/images/city-places/toulon-restaurants-le-m5.jpg",
+          "website": "",
+          "description": "A modern beach-side bistro on the Mourillon strip, listed by EmmèneTonChien as an explicitly dog-accepting venue with a wide terrace facing the sea. Short Mediterranean-influenced menu: bowls, salads, grilled meat and fish, with a glass of local Bandol rosé as the default. Water bowls on request and a no-fuss approach to dogs at the outside tables.",
+          "descriptionFr": "Un bistrot moderne en bord de plage sur le Mourillon, listé par EmmèneTonChien comme adresse explicitement dog-friendly avec une large terrasse face à la mer. Carte courte d'inspiration méditerranéenne : bowls, salades, viandes et poissons grillés, avec un verre de Bandol rosé local par défaut. Bols d'eau sur demande et accueil simple des chiens aux tables extérieures.",
+          "descriptionEs": "Un bistró moderno frente a la playa del Mourillon, listado por EmmèneTonChien como dirección explícitamente dog-friendly con una amplia terraza frente al mar. Carta corta de inspiración mediterránea: bowls, ensaladas, carnes y pescados a la parrilla, con copa de Bandol rosado local por defecto. Cuencos de agua a petición y acogida sencilla de perros en mesas exteriores.",
+          "descriptionPt": "Um bistrô moderno à beira da praia do Mourillon, listado pela EmmèneTonChien como endereço explicitamente dog-friendly com uma ampla esplanada à beira-mar. Carta curta de inspiração mediterrânica: bowls, saladas, carnes e peixes grelhados, com copo de Bandol rosé local por defeito. Taças de água a pedido e acolhimento simples de cães nas mesas exteriores.",
+          "petPolicy": "Dogs on leash welcome at outdoor tables; water bowl on request",
+          "petPolicyFr": "Chiens en laisse bienvenus aux tables extérieures ; bol d'eau sur demande",
+          "petPolicyEs": "Perros con correa bienvenidos en mesas exteriores; cuenco de agua a petición",
+          "petPolicyPt": "Cães com trela bem-vindos nas mesas exteriores; taça de água a pedido",
+          "priceRange": "€€",
+          "mustTry": "Bowl du jour, daurade grillée, Bandol rosé",
+          "mustTryFr": "Bowl du jour, daurade grillée, Bandol rosé",
+          "mustTryEs": "Bowl del día, dorada a la parrilla, Bandol rosado",
+          "mustTryPt": "Bowl do dia, dourada grelhada, Bandol rosé",
+          "openingHours": "Mon–Sat 12:00–14:30, 19:00–22:30",
+          "tip": "Combine with a morning Mourillon walk (06:00–08:30 in summer, when dogs are allowed on the beach promenade); refuel here after.",
+          "tipFr": "À combiner avec une promenade matinale sur le Mourillon (06h-08h30 en été, créneau autorisé aux chiens sur la promenade) ; ravitaillez-vous ici ensuite.",
+          "tipEs": "Combina con un paseo matinal por el Mourillon (06:00-08:30 en verano, horario autorizado a perros en el paseo); reposta aquí después.",
+          "tipPt": "Combine com um passeio matinal no Mourillon (06h-08h30 no verão, horário autorizado a cães no passeio); abasteça aqui depois.",
+          "googleMapsUrl": "https://maps.google.com/?q=Le+M5+Mourillon+Toulon"
+        },
+        {
+          "name": "Cours Lafayette market terraces",
+          "address": "Cours Lafayette, 83000 Toulon",
+          "neighborhood": "Vieille Ville",
+          "photo": "/images/city-places/toulon-restaurants-cours-lafayette.jpg",
+          "website": "",
+          "description": "The Cours Lafayette is the great Provençal market of Toulon (Tuesday to Sunday mornings except Monday) and the street that Gilbert Bécaud sang about. Several pavement bistros along the cours stay open for lunch in the shade of the plane trees. Dogs on leads are part of the daily market scene; the line of cafés between Place du Globe and Rue d'Alger is the easiest pet-tolerant stretch for a late breakfast or early lunch.",
+          "descriptionFr": "Le Cours Lafayette est le grand marché provençal de Toulon (du mardi au dimanche matin sauf lundi) et la rue chantée par Gilbert Bécaud. Plusieurs bistrots de trottoir restent ouverts pour le déjeuner à l'ombre des platanes. Les chiens en laisse font partie du quotidien du marché ; la ligne de cafés entre la Place du Globe et la Rue d'Alger est la portion la plus facile pour un brunch tardif ou un déjeuner précoce.",
+          "descriptionEs": "El Cours Lafayette es el gran mercado provenzal de Toulon (martes a domingo por la mañana excepto lunes) y la calle cantada por Gilbert Bécaud. Varios bistrós de acera quedan abiertos para comer a la sombra de los plátanos. Los perros con correa son parte del paisaje diario del mercado; la línea de cafés entre la Place du Globe y la Rue d'Alger es la franja más fácil para un brunch tardío o una comida temprana.",
+          "descriptionPt": "O Cours Lafayette é o grande mercado provençal de Toulon (terça a domingo de manhã exceto segunda) e a rua cantada por Gilbert Bécaud. Vários bistrôs de passeio mantêm-se abertos para almoçar à sombra dos plátanos. Os cães com trela fazem parte do cenário diário do mercado; a linha de cafés entre a Place du Globe e a Rue d'Alger é a faixa mais fácil para um brunch tardio ou um almoço cedo.",
+          "petPolicy": "Dogs on leash welcome at outdoor market terraces (specific bistros vary)",
+          "petPolicyFr": "Chiens en laisse bienvenus aux terrasses du marché (selon le bistrot)",
+          "petPolicyEs": "Perros con correa bienvenidos en terrazas del mercado (varía según bistró)",
+          "petPolicyPt": "Cães com trela bem-vindos nas esplanadas do mercado (varia consoante o bistrô)",
+          "priceRange": "€–€€",
+          "mustTry": "Cade toulonnaise, pissaladière, market-cooked plat du jour",
+          "mustTryFr": "Cade toulonnaise, pissaladière, plat du jour du marché",
+          "mustTryEs": "Cade toulonnaise, pissaladière, plat du jour del mercado",
+          "mustTryPt": "Cade toulonnaise, pissaladière, plat du jour do mercado",
+          "openingHours": "Tue–Sun 08:00–13:00 (market); cafés until early afternoon",
+          "tip": "Cours Lafayette closes to vehicles in the morning but reopens to traffic mid-afternoon; come for breakfast or lunch, not dinner, with a dog.",
+          "tipFr": "Le Cours Lafayette ferme aux véhicules le matin mais rouvre à la circulation en milieu d'après-midi ; venez pour le petit-déjeuner ou le déjeuner, pas le dîner, avec un chien.",
+          "tipEs": "El Cours Lafayette cierra a vehículos por la mañana pero reabre al tráfico a media tarde; ven a desayunar o comer, no a cenar, con perro.",
+          "tipPt": "O Cours Lafayette fecha a veículos de manhã mas reabre ao trânsito a meio da tarde; venha ao pequeno-almoço ou almoço, não jantar, com cão.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cours+Lafayette+Toulon"
+        }
+      ],
+      "tipsEn": [
+        "The Mourillon seafront and the Port d'Aviation marina have the best concentration of pet-friendly terraces; the Vieille Ville is more mixed and worth asking before going indoors.",
+        "Water bowls are common but not universal; bring a collapsible bowl in summer when Toulon afternoon temperatures hit 32°C.",
+        "Cours Lafayette market mornings (Tuesday to Sunday) are an attraction in themselves and dogs on lead are part of the daily scene."
+      ],
+      "tipsFr": [
+        "Le front de mer du Mourillon et le port marina ont la plus forte concentration de terrasses dog-friendly ; la Vieille Ville est plus mitigée, demandez avant d'entrer en salle.",
+        "Les bols d'eau sont fréquents mais pas systématiques ; emportez un bol pliable en été quand Toulon atteint 32 °C l'après-midi.",
+        "Les matinées du marché du Cours Lafayette (mardi au dimanche) sont une attraction en soi et les chiens en laisse y font partie du quotidien."
+      ],
+      "tipsEs": [
+        "El frente marítimo del Mourillon y el puerto deportivo concentran las mejores terrazas dog-friendly; la Vieille Ville es más mixta, pregunta antes de entrar en sala.",
+        "Los cuencos de agua son frecuentes pero no universales; lleva uno plegable en verano cuando Toulon llega a 32 °C por la tarde.",
+        "Las mañanas del mercado del Cours Lafayette (martes a domingo) son una atracción en sí y los perros con correa son parte del paisaje diario."
+      ],
+      "tipsPt": [
+        "A frente-mar do Mourillon e a marina concentram as melhores esplanadas dog-friendly; a Vieille Ville é mais mista, pergunte antes de entrar em sala.",
+        "As taças de água são frequentes mas não universais; leve uma dobrável no verão quando Toulon chega a 32 °C à tarde.",
+        "As manhãs do mercado do Cours Lafayette (terça a domingo) são uma atração em si e os cães com trela fazem parte do cenário diário."
+      ],
+      "faqsEn": [
+        {"q": "Are Mourillon seafront restaurants dog-friendly?", "a": "Yes, most pavement terraces on the Mourillon strip take leashed dogs by default. The Mourillon beach itself bans dogs except on the Henri Fabre promenade outside summer or 06:00–08:30 in summer."},
+        {"q": "Can I bring my dog into the indoor dining rooms?", "a": "It varies by venue. Many take small dogs in arms; medium and large dogs are usually directed to the terrace. Always ask the host on arrival."},
+        {"q": "Are dogs welcome at the Cours Lafayette market?", "a": "Yes, the open-air market explicitly welcomes leashed dogs and the bistros along the cours take them on their pavement tables. Avoid the busiest Saturday hours if your dog dislikes crowds."}
+      ],
+      "faqsFr": [
+        {"q": "Les restaurants du front de mer du Mourillon sont-ils dog-friendly ?", "a": "Oui, la plupart des terrasses de trottoir du Mourillon acceptent les chiens en laisse par défaut. La plage du Mourillon elle-même interdit les chiens sauf sur la promenade Henri Fabre hors été ou de 06h à 08h30 en été."},
+        {"q": "Mon chien peut-il entrer en salle ?", "a": "Cela varie selon l'établissement. Beaucoup acceptent les petits chiens dans les bras ; les moyens et grands sont orientés vers la terrasse. Demandez à l'accueil."},
+        {"q": "Les chiens sont-ils bienvenus au marché du Cours Lafayette ?", "a": "Oui, le marché en plein air accueille explicitement les chiens en laisse et les bistrots du cours les acceptent en terrasse. Évitez les heures de pointe du samedi si votre chien n'aime pas la foule."}
+      ],
+      "faqsEs": [
+        {"q": "¿Son los restaurantes del frente marítimo del Mourillon dog-friendly?", "a": "Sí, la mayoría de las terrazas de acera del Mourillon admiten perros con correa por defecto. La playa del Mourillon prohíbe perros salvo en la promenade Henri Fabre fuera del verano o de 06:00 a 08:30 en verano."},
+        {"q": "¿Puedo entrar con mi perro a la sala?", "a": "Varía según el local. Muchos aceptan perros pequeños en brazos; medianos y grandes se orientan a la terraza. Pregunta al recibirte."},
+        {"q": "¿Son bienvenidos los perros en el mercado del Cours Lafayette?", "a": "Sí, el mercado al aire libre admite explícitamente perros con correa y los bistrós del cours los aceptan en terraza. Evita las horas punta del sábado si tu perro no soporta la multitud."}
+      ],
+      "faqsPt": [
+        {"q": "Os restaurantes da frente-mar do Mourillon são dog-friendly?", "a": "Sim, a maioria das esplanadas de passeio do Mourillon aceita cães com trela por defeito. A praia do Mourillon proíbe cães salvo na promenade Henri Fabre fora do verão ou das 06h às 08h30 no verão."},
+        {"q": "Posso entrar com o meu cão na sala?", "a": "Varia consoante o local. Muitos aceitam cães pequenos ao colo; médios e grandes são orientados para a esplanada. Pergunte na receção."},
+        {"q": "Os cães são bem-vindos no mercado do Cours Lafayette?", "a": "Sim, o mercado ao ar livre aceita explicitamente cães com trela e os bistrôs do cours aceitam-nos em esplanada. Evite as horas de ponta do sábado se o seu cão não gostar de multidões."}
+      ]
+    },
+    "parks": {
+      "titleEn": "Parks, Trails & Mont Faron in Toulon",
+      "titleFr": "Parcs, sentiers et Mont Faron à Toulon",
+      "titleEs": "Parques, senderos y Mont Faron en Toulon",
+      "titlePt": "Parques, trilhos e Mont Faron em Toulon",
+      "introEn": "Toulon is wrapped against the 584-metre limestone wall of the Mont Faron and faced on three sides by the Mediterranean, with one of the densest concentrations of public green space on the Var coast. The Mont Faron is accessible by cable car (dogs free), the Sentier du Littoral around Cap Brun has reopened after a long landslide closure, and the Mourillon has two dedicated cani-parcs for off-leash running.",
+      "introFr": "Toulon est adossée à la muraille calcaire du Mont Faron (584 m) et bordée sur trois côtés par la Méditerranée, avec l'une des plus fortes concentrations d'espaces verts du littoral varois. Le Mont Faron est accessible par téléphérique (chiens gratuits), le Sentier du Littoral autour de Cap Brun a rouvert après une longue fermeture pour glissement, et le Mourillon dispose de deux cani-parcs dédiés pour la course libre.",
+      "introEs": "Toulon está apoyada en la muralla caliza del Mont Faron (584 m) y bordeada por tres lados por el Mediterráneo, con una de las mayores concentraciones de espacios verdes del litoral varense. El Mont Faron es accesible por teleférico (perros gratis), el Sentier du Littoral en torno a Cap Brun ha reabierto tras un largo cierre por desprendimiento, y el Mourillon cuenta con dos cani-parques dedicados para carrera libre.",
+      "introPt": "Toulon está encostada à muralha calcária do Mont Faron (584 m) e ladeada em três lados pelo Mediterrâneo, com uma das maiores concentrações de espaços verdes do litoral varense. O Mont Faron é acessível por teleférico (cães grátis), o Sentier du Littoral em torno de Cap Brun reabriu após um longo encerramento por deslizamento, e o Mourillon dispõe de dois cani-parques dedicados para corrida livre.",
+      "places": [
+        {
+          "name": "Mont Faron (via téléphérique)",
+          "address": "Boulevard Amiral Vence, 83200 Toulon",
+          "neighborhood": "Mont Faron",
+          "photo": "/images/city-places/toulon-parks-mont-faron.jpg",
+          "website": "https://www.telepherique-toulon.com",
+          "description": "The 584-metre limestone ridge that dominates the city, with the cable car climbing from the Super-Toulon station in 6 minutes. The Mont Faron tourism office confirms dogs travel free on the cable car as long as they are on a leash. On top: pine forests, marked walking loops, the Mémorial du Débarquement (interior bans dogs), the Tour Beaumont and a 360-degree panorama from Hyères to La Ciotat. The wider mountain accommodates several hours of walking once you are up.",
+          "descriptionFr": "La crête calcaire de 584 m qui domine la ville, avec le téléphérique qui monte depuis la gare de Super-Toulon en 6 minutes. L'office de tourisme du Mont Faron confirme que les chiens voyagent gratuitement dans la cabine, à condition d'être tenus en laisse. Au sommet : pinèdes, boucles balisées, Mémorial du Débarquement (intérieur interdit aux chiens), Tour Beaumont et panorama à 360° d'Hyères à La Ciotat. La montagne offre plusieurs heures de marche une fois en haut.",
+          "descriptionEs": "La cresta caliza de 584 m que domina la ciudad, con el teleférico que sube desde la estación de Super-Toulon en 6 minutos. La oficina de turismo del Mont Faron confirma que los perros viajan gratis en la cabina, siempre con correa. Arriba: pinares, bucles señalizados, el Memorial du Débarquement (interior prohibido a perros), la Tour Beaumont y un panorama de 360° desde Hyères a La Ciotat. La montaña ofrece varias horas de paseo una vez arriba.",
+          "descriptionPt": "A crista calcária de 584 m que domina a cidade, com o teleférico a subir da estação de Super-Toulon em 6 minutos. O posto de turismo do Mont Faron confirma que os cães viajam grátis na cabina, desde que com trela. No topo: pinhais, voltas sinalizadas, o Memorial du Débarquement (interior proibido a cães), a Tour Beaumont e um panorama de 360° de Hyères até La Ciotat. A montanha oferece várias horas de passeio uma vez em cima.",
+          "petPolicy": "Dogs free on cable car if leashed; interior of Mémorial du Débarquement and zoo ban dogs",
+          "petPolicyFr": "Chiens gratuits dans la cabine si en laisse ; intérieur du Mémorial du Débarquement et zoo interdits aux chiens",
+          "petPolicyEs": "Perros gratis en la cabina si con correa; interior del Mémorial du Débarquement y zoológico prohíben perros",
+          "petPolicyPt": "Cães grátis na cabina se com trela; interior do Mémorial du Débarquement e jardim zoológico proíbem cães",
+          "size": "300+ hectare wooded ridge",
+          "features": "Cable car, marked loops, war memorial (no dogs inside), 360° panorama, picnic areas",
+          "featuresFr": "Téléphérique, boucles balisées, mémorial (chiens interdits à l'intérieur), panorama 360°, aires pique-nique",
+          "featuresEs": "Teleférico, bucles señalizados, memorial (perros prohibidos dentro), panorama 360°, áreas picnic",
+          "featuresPt": "Teleférico, voltas sinalizadas, memorial (cães proibidos no interior), panorama 360°, áreas piquenique",
+          "openingHours": "Cable car daily 09:30–17:30 (longer in summer), closed in strong mistral wind",
+          "tip": "Check the téléphérique website the morning of: high mistral days close the cable car, which forces a 9 km drive up the winding road instead.",
+          "tipFr": "Vérifiez le site du téléphérique le matin même : les jours de fort mistral, la cabine est fermée et il faut monter par la route sinueuse de 9 km.",
+          "tipEs": "Consulta el sitio del teleférico la misma mañana: los días de fuerte mistral la cabina se cierra y hay que subir por la carretera sinuosa de 9 km.",
+          "tipPt": "Consulte o site do teleférico na própria manhã: nos dias de forte mistral a cabina é fechada e tem de subir pela estrada sinuosa de 9 km.",
+          "googleMapsUrl": "https://maps.google.com/?q=Telepherique+Mont+Faron+Toulon"
+        },
+        {
+          "name": "Sentier du Littoral (Cap Brun)",
+          "address": "Cap Brun, 83000 Toulon",
+          "neighborhood": "Cap Brun",
+          "photo": "/images/city-places/toulon-parks-sentier-cap-brun.jpg",
+          "website": "https://toulontourisme.com",
+          "description": "The coastal path that wraps around the rocky Cap Brun peninsula east of the Mourillon, with cliff-top views over the Rade de Toulon and the Iles d'Or. The Cap Brun section, closed since 2008 after a landslide, fully reopened in 2024 after joint works between the Métropole and the Résidence Cap Brun. Now walkable end-to-end from Anse Méjean to the Mourillon. Dogs on lead are tolerated on the rocky zones; the supervised sandy beaches stay closed to dogs in summer.",
+          "descriptionFr": "Le sentier côtier qui contourne la presqu'île rocheuse de Cap Brun à l'est du Mourillon, avec des vues falaise sur la Rade de Toulon et les Îles d'Or. La portion Cap Brun, fermée depuis 2008 après un glissement, a totalement rouvert en 2024 après travaux conjoints Métropole-Résidence Cap Brun. Désormais praticable de bout en bout d'Anse Méjean au Mourillon. Les chiens en laisse sont tolérés sur les zones rocheuses ; les plages sableuses surveillées restent interdites aux chiens en été.",
+          "descriptionEs": "El sendero costero que rodea la península rocosa de Cap Brun al este del Mourillon, con vistas de acantilado sobre la Rada de Toulon y las Îles d'Or. La porción Cap Brun, cerrada desde 2008 tras un desprendimiento, reabrió totalmente en 2024 tras obras conjuntas Métropole-Résidence Cap Brun. Ahora practicable de extremo a extremo desde Anse Méjean al Mourillon. Los perros con correa se toleran en las zonas rocosas; las playas de arena vigiladas siguen prohibidas a perros en verano.",
+          "descriptionPt": "O trilho costeiro que contorna a península rochosa de Cap Brun a leste do Mourillon, com vistas de falésia sobre a Baía de Toulon e as Îles d'Or. A secção Cap Brun, fechada desde 2008 após um deslizamento, reabriu totalmente em 2024 após obras conjuntas Métropole-Résidence Cap Brun. Agora praticável de ponta a ponta da Anse Méjean ao Mourillon. Os cães com trela são tolerados nas zonas rochosas; as praias arenosas vigiadas continuam proibidas a cães no verão.",
+          "petPolicy": "Dogs on lead tolerated on rocky zones; supervised sandy beaches ban dogs in summer",
+          "petPolicyFr": "Chiens en laisse tolérés sur les zones rocheuses ; plages sableuses surveillées interdites aux chiens en été",
+          "petPolicyEs": "Perros con correa tolerados en zonas rocosas; playas de arena vigiladas prohíben perros en verano",
+          "petPolicyPt": "Cães com trela tolerados nas zonas rochosas; praias arenosas vigiadas proíbem cães no verão",
+          "size": "5 km cliff-top coastal trail",
+          "features": "Reopened 2024, cliff views, secluded coves, no shade",
+          "featuresFr": "Rouvert en 2024, vues falaise, criques isolées, aucune ombre",
+          "featuresEs": "Reabierto en 2024, vistas de acantilado, calas aisladas, sin sombra",
+          "featuresPt": "Reaberto em 2024, vistas de falésia, enseadas isoladas, sem sombra",
+          "openingHours": "Year-round, daylight; closes on strong mistral days for safety",
+          "tip": "Walk west to east from Anse Méjean to finish on the Mourillon for a swim at Anse Tabarly dog beach; total 90 minutes at calm pace.",
+          "tipFr": "Marchez d'ouest en est, d'Anse Méjean vers le Mourillon pour finir à la cani-plage d'Anse Tabarly ; 1h30 au total à allure calme.",
+          "tipEs": "Camina de oeste a este, de Anse Méjean al Mourillon para terminar en la cani-playa de Anse Tabarly; 1h30 en total a paso tranquilo.",
+          "tipPt": "Ande de oeste para leste, da Anse Méjean ao Mourillon para terminar na cani-praia da Anse Tabarly; 1h30 no total a passo tranquilo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Sentier+du+Littoral+Cap+Brun+Toulon"
+        },
+        {
+          "name": "Cani-parc du Mourillon",
+          "address": "Plages du Mourillon, 83000 Toulon",
+          "neighborhood": "Le Mourillon",
+          "photo": "/images/city-places/toulon-parks-cani-parc-mourillon.jpg",
+          "website": "https://toulon.fr/plages-du-mourillon",
+          "description": "Two dedicated fenced off-leash enclosures installed by the City of Toulon as part of the 2023 Mourillon regulation: one zone for small dogs and a second for medium and large dogs, with seating, a water point and waste-bag distributors. The only formally fenced off-leash space inside Toulon. Operating year-round, with maximum 30 minutes per visit at peak hours to manage rotation.",
+          "descriptionFr": "Deux enclos clôturés sans laisse installés par la Ville de Toulon dans le cadre de la réglementation du Mourillon de 2023 : une zone pour petits chiens et une seconde pour moyens et grands chiens, avec bancs, point d'eau et distributeurs de sacs. Seul espace clôturé sans laisse formel à Toulon. Ouvert toute l'année, 30 minutes max par passage aux heures de pointe pour gérer la rotation.",
+          "descriptionEs": "Dos recintos vallados sin correa instalados por el Ayuntamiento de Toulon en el marco de la normativa del Mourillon de 2023: una zona para perros pequeños y otra para medianos y grandes, con bancos, punto de agua y distribuidores de bolsas. Único espacio vallado sin correa formal en Toulon. Abierto todo el año, máximo 30 minutos por visita en hora punta para gestionar la rotación.",
+          "descriptionPt": "Dois recintos vedados sem trela instalados pela Câmara de Toulon no quadro da regulamentação do Mourillon de 2023: uma zona para cães pequenos e outra para médios e grandes, com bancos, ponto de água e distribuidores de sacos. Único espaço vedado sem trela formal em Toulon. Aberto todo o ano, máximo 30 minutos por visita nas horas de ponta para gerir a rotação.",
+          "petPolicy": "Off-leash in fenced zone; one zone for small, one for medium/large; vaccination required",
+          "petPolicyFr": "Sans laisse dans l'enclos clôturé ; une zone petits, une zone moyens/grands ; vaccination requise",
+          "petPolicyEs": "Sin correa en recinto vallado; una zona para pequeños, una para medianos/grandes; vacunación requerida",
+          "petPolicyPt": "Sem trela no recinto vedado; uma zona para pequenos, uma para médios/grandes; vacinação obrigatória",
+          "size": "Two fenced enclosures, ~500 m² each",
+          "features": "Off-leash, water point, seating, waste-bag dispensers, fenced",
+          "featuresFr": "Sans laisse, point d'eau, bancs, distributeurs de sacs, clôturé",
+          "featuresEs": "Sin correa, punto de agua, bancos, distribuidores de bolsas, vallado",
+          "featuresPt": "Sem trela, ponto de água, bancos, distribuidores de sacos, vedado",
+          "openingHours": "Daily, daylight hours",
+          "tip": "Quietest 07:00–09:00 and 19:00–21:00 in summer; the small-dog enclosure is the busiest in the late afternoon when families bring their pets out.",
+          "tipFr": "Plus calme 07h-09h et 19h-21h en été ; l'enclos petits chiens est le plus fréquenté en fin d'après-midi quand les familles sortent.",
+          "tipEs": "Más tranquilo 07:00-09:00 y 19:00-21:00 en verano; el recinto de pequeños es el más frecuentado a media tarde cuando las familias salen.",
+          "tipPt": "Mais calmo 07h-09h e 19h-21h no verão; o recinto de pequenos é o mais frequentado ao fim da tarde quando as famílias saem.",
+          "googleMapsUrl": "https://maps.google.com/?q=Plages+du+Mourillon+Toulon"
+        }
+      ],
+      "tipsEn": [
+        "The Mont Faron cable car takes leashed dogs free of charge, the only major French cable car with this rule, useful with any size of dog.",
+        "Mourillon Henri Fabre promenade admits leashed dogs from 1 September to 31 May; in summer (1 June–31 August) only 06:00–08:30.",
+        "Cap Brun coastal trail reopened in 2024 after 15 years of closure; check toulontourisme.com for any seasonal section closures before walking."
+      ],
+      "tipsFr": [
+        "Le téléphérique du Mont Faron transporte les chiens en laisse gratuitement, seul grand téléphérique français avec cette règle, pratique avec toutes les tailles.",
+        "La promenade Henri Fabre du Mourillon accepte les chiens en laisse du 1er septembre au 31 mai ; en été (1er juin-31 août), uniquement de 06h à 08h30.",
+        "Le Sentier du Littoral de Cap Brun a rouvert en 2024 après 15 ans de fermeture ; vérifiez toulontourisme.com pour les éventuelles fermetures saisonnières avant de marcher."
+      ],
+      "tipsEs": [
+        "El teleférico del Mont Faron lleva a los perros con correa gratis, el único gran teleférico francés con esta regla, útil con cualquier tamaño.",
+        "El paseo Henri Fabre del Mourillon admite perros con correa del 1 de septiembre al 31 de mayo; en verano (1 junio-31 agosto), solo de 06:00 a 08:30.",
+        "El Sentier du Littoral de Cap Brun reabrió en 2024 tras 15 años de cierre; consulta toulontourisme.com para cierres estacionales antes de caminar."
+      ],
+      "tipsPt": [
+        "O teleférico do Mont Faron leva cães com trela grátis, o único grande teleférico francês com esta regra, útil com qualquer tamanho.",
+        "O passeio Henri Fabre do Mourillon aceita cães com trela de 1 de setembro a 31 de maio; no verão (1 junho-31 agosto), apenas das 06h às 08h30.",
+        "O Sentier du Littoral de Cap Brun reabriu em 2024 após 15 anos de encerramento; consulte toulontourisme.com para encerramentos sazonais antes de caminhar."
+      ],
+      "faqsEn": [
+        {"q": "Can my dog ride the Mont Faron cable car?", "a": "Yes, on a leash and at no extra charge. Free entry for the dog is the standard rule confirmed by the official tourism office and the operator."},
+        {"q": "Is there an off-leash dog park in Toulon?", "a": "Yes, the Cani-parc du Mourillon, two fenced enclosures (one small, one medium/large) installed by the City as part of the 2023 Mourillon regulation."},
+        {"q": "Can I walk the Cap Brun coastal trail with a dog?", "a": "Yes. The Cap Brun section fully reopened in 2024 after the landslide closure. Dogs on lead are tolerated on the rocky zones; supervised sandy beaches at the eastern end still ban dogs in summer."}
+      ],
+      "faqsFr": [
+        {"q": "Mon chien peut-il prendre le téléphérique du Mont Faron ?", "a": "Oui, en laisse et sans supplément. L'entrée gratuite pour le chien est la règle confirmée par l'office de tourisme et l'exploitant."},
+        {"q": "Y a-t-il un parc canin sans laisse à Toulon ?", "a": "Oui, le Cani-parc du Mourillon : deux enclos clôturés (un petits, un moyens/grands) installés par la Ville dans le cadre de la réglementation du Mourillon de 2023."},
+        {"q": "Peut-on marcher le Sentier du Littoral de Cap Brun avec un chien ?", "a": "Oui. La portion Cap Brun a totalement rouvert en 2024 après la fermeture pour glissement. Les chiens en laisse sont tolérés sur les zones rocheuses ; les plages sableuses surveillées à l'est restent interdites aux chiens en été."}
+      ],
+      "faqsEs": [
+        {"q": "¿Mi perro puede subir al teleférico del Mont Faron?", "a": "Sí, con correa y sin coste extra. La entrada gratuita para el perro es la regla confirmada por la oficina de turismo y el operador."},
+        {"q": "¿Hay parque canino sin correa en Toulon?", "a": "Sí, el Cani-parc du Mourillon: dos recintos vallados (uno para pequeños, uno para medianos/grandes) instalados por el Ayuntamiento en el marco de la normativa del Mourillon de 2023."},
+        {"q": "¿Se puede caminar por el Sentier du Littoral de Cap Brun con perro?", "a": "Sí. La porción Cap Brun reabrió totalmente en 2024 tras el cierre por desprendimiento. Los perros con correa se toleran en zonas rocosas; las playas de arena vigiladas al este siguen prohibidas a perros en verano."}
+      ],
+      "faqsPt": [
+        {"q": "O meu cão pode andar no teleférico do Mont Faron?", "a": "Sim, com trela e sem custo extra. A entrada gratuita para o cão é a regra confirmada pelo posto de turismo e pelo operador."},
+        {"q": "Existe parque canino sem trela em Toulon?", "a": "Sim, o Cani-parc du Mourillon: dois recintos vedados (um para pequenos, um para médios/grandes) instalados pela Câmara no quadro da regulamentação do Mourillon de 2023."},
+        {"q": "Pode-se caminhar pelo Sentier du Littoral de Cap Brun com cão?", "a": "Sim. A secção Cap Brun reabriu totalmente em 2024 após o encerramento por deslizamento. Os cães com trela são tolerados nas zonas rochosas; as praias arenosas vigiadas a leste continuam proibidas a cães no verão."}
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Toulon",
+      "titleFr": "Transports acceptant les animaux à Toulon",
+      "titleEs": "Transporte con mascotas en Toulon",
+      "titlePt": "Transportes que aceitam animais em Toulon",
+      "introEn": "Toulon is one of the rare French cities whose municipal bus and water-bus network officially accepts large dogs on lead. The SNCF station sits 5 minutes' walk from the Vieille Ville with TGV to Paris in 4h and TER along the coast to Marseille (50 min) and Nice (2h). The Toulon-Hyères Airport (TLN) is 20 minutes east. The Mistral water-bus is a particularly elegant way to cross the Rade with a dog.",
+      "introFr": "Toulon est l'une des rares villes françaises dont le réseau de bus et bateaux-bus accepte officiellement les grands chiens en laisse. La gare SNCF est à 5 min à pied de la Vieille Ville, avec TGV vers Paris en 4h et TER côtier vers Marseille (50 min) et Nice (2h). L'aéroport Toulon-Hyères (TLN) est à 20 min à l'est. Le bateau-bus Mistral est une façon élégante de traverser la Rade avec un chien.",
+      "introEs": "Toulon es una de las raras ciudades francesas cuya red de bus y bateaux-bus admite oficialmente perros grandes con correa. La estación SNCF está a 5 min a pie de la Vieille Ville, con TGV a París en 4h y TER costero a Marsella (50 min) y Niza (2h). El aeropuerto Toulon-Hyères (TLN) está a 20 min al este. El bateau-bus Mistral es una forma elegante de cruzar la Rada con perro.",
+      "introPt": "Toulon é uma das raras cidades francesas cuja rede de autocarros e bateaux-bus aceita oficialmente cães grandes com trela. A estação SNCF está a 5 min a pé da Vieille Ville, com TGV para Paris em 4h e TER costeiro para Marselha (50 min) e Nice (2h). O aeroporto Toulon-Hyères (TLN) está a 20 min a leste. O bateau-bus Mistral é uma forma elegante de atravessar a Baía com um cão.",
+      "places": [
+        {
+          "name": "Réseau Mistral (bus + bateau-bus)",
+          "address": "Boutique Mistral, Place de la Liberté, 83000 Toulon",
+          "neighborhood": "Citywide + Rade",
+          "photo": "/images/city-places/toulon-transport-reseau-mistral.jpg",
+          "website": "https://www.reseaumistral.com/jutilise-les-bus-et-bateaux-bus",
+          "description": "The Toulon Provence Méditerranée urban network covers the city, La Seyne-sur-Mer, Saint-Mandrier and Six-Fours, with bus lines on land and bateau-bus shuttles across the Rade. Unlike most French municipal networks, the official rules admit large dogs on lead with a muzzle and a paid transport ticket; small dogs in a basket and guide/assistance dogs travel free. A genuine plus for any traveller with a medium or large dog.",
+          "descriptionFr": "Le réseau urbain Toulon Provence Méditerranée couvre la ville, La Seyne-sur-Mer, Saint-Mandrier et Six-Fours, avec lignes de bus à terre et navettes bateau-bus traversant la Rade. Contrairement à la plupart des réseaux municipaux français, le règlement admet officiellement les grands chiens en laisse, muselés et avec un billet payant ; les petits animaux en panier et chiens-guides/assistance voyagent gratuitement. Vrai plus pour tout voyageur avec chien moyen ou grand.",
+          "descriptionEs": "La red urbana Toulon Provence Méditerranée cubre la ciudad, La Seyne-sur-Mer, Saint-Mandrier y Six-Fours, con líneas de bus en tierra y bateaux-bus que cruzan la Rada. A diferencia de la mayoría de redes municipales francesas, el reglamento admite oficialmente perros grandes con correa y bozal y billete de pago; los pequeños en transportín y los perros guía/asistencia viajan gratis. Ventaja real para cualquier viajero con perro mediano o grande.",
+          "descriptionPt": "A rede urbana Toulon Provence Méditerranée cobre a cidade, La Seyne-sur-Mer, Saint-Mandrier e Six-Fours, com linhas de autocarro em terra e bateaux-bus a atravessar a Baía. Ao contrário da maioria das redes municipais francesas, o regulamento aceita oficialmente cães grandes com trela e açaime e bilhete pago; os pequenos em transportadora e cães-guia/assistência viajam grátis. Vantagem real para qualquer viajante com cão médio ou grande.",
+          "petPolicy": "Small dogs in basket free; large dogs leashed + muzzled with paid ticket; guide/assistance dogs free",
+          "petPolicyFr": "Petits chiens en panier gratuits ; grands chiens en laisse + muselière avec billet payant ; chiens-guides/assistance gratuits",
+          "petPolicyEs": "Perros pequeños en transportín gratis; grandes con correa + bozal con billete de pago; perros guía/asistencia gratis",
+          "petPolicyPt": "Cães pequenos em transportadora grátis; grandes com trela + açaime com bilhete pago; cães-guia/assistência grátis",
+          "tip": "The bateau-bus to La Seyne or Saint-Mandrier is the most scenic 20-minute crossing in town with a dog on the open back deck; one Mistral ticket covers both bus + boat in 90 min.",
+          "tipFr": "Le bateau-bus pour La Seyne ou Saint-Mandrier est la traversée la plus pittoresque (20 min) avec un chien sur le pont arrière ouvert ; un billet Mistral couvre bus + bateau pendant 90 min.",
+          "tipEs": "El bateau-bus a La Seyne o Saint-Mandrier es la travesía más pintoresca (20 min) con perro en la cubierta trasera abierta; un billete Mistral cubre bus + barco durante 90 min.",
+          "tipPt": "O bateau-bus para La Seyne ou Saint-Mandrier é a travessia mais pitoresca (20 min) com cão no convés traseiro aberto; um bilhete Mistral cobre autocarro + barco durante 90 min.",
+          "googleMapsUrl": "https://maps.google.com/?q=Place+de+la+Liberte+Toulon"
+        },
+        {
+          "name": "Gare SNCF de Toulon",
+          "address": "Place de l'Europe, 83000 Toulon",
+          "neighborhood": "Centre",
+          "photo": "/images/city-places/toulon-transport-gare-sncf-toulon.jpg",
+          "website": "https://www.sncf-connect.com",
+          "description": "Toulon station sits at the northern edge of the Vieille Ville, 5 minutes' walk from the Cours Lafayette. TGV to Paris Gare de Lyon in 4h, TER along the coast to Marseille (50 min), Saint-Raphaël (55 min) and Nice (2h). SNCF national pet rules apply: dogs under 6 kg in a carrier on a 0 EUR animal ticket, larger dogs on lead and muzzled at 50 percent of the adult fare capped at 7 EUR. Guide and assistance dogs travel free.",
+          "descriptionFr": "La gare de Toulon est au nord de la Vieille Ville, à 5 min à pied du Cours Lafayette. TGV vers Paris Gare de Lyon en 4h, TER côtier vers Marseille (50 min), Saint-Raphaël (55 min) et Nice (2h). Règles SNCF : chiens < 6 kg en cage avec billet animal 0 EUR, plus grands en laisse et muselière à 50 % du tarif adulte plafonné à 7 EUR. Chiens-guides et d'assistance gratuits.",
+          "descriptionEs": "La estación de Toulon está al norte de la Vieille Ville, a 5 min a pie del Cours Lafayette. TGV a París Gare de Lyon en 4h, TER costero a Marsella (50 min), Saint-Raphaël (55 min) y Niza (2h). Reglas SNCF: perros < 6 kg en transportín con billete animal 0 EUR, mayores con correa y bozal al 50 % de la tarifa adulta con tope de 7 EUR. Perros guía y de asistencia gratis.",
+          "descriptionPt": "A estação de Toulon está a norte da Vieille Ville, a 5 min a pé do Cours Lafayette. TGV para Paris Gare de Lyon em 4h, TER costeiro para Marselha (50 min), Saint-Raphaël (55 min) e Nice (2h). Regras SNCF: cães < 6 kg em transportadora com bilhete animal 0 EUR, maiores com trela e açaime a 50 % da tarifa adulta com tecto de 7 EUR. Cães-guia e de assistência grátis.",
+          "petPolicy": "Dogs <6 kg in carrier: 0 EUR ticket. Larger leashed + muzzled: 50% adult fare, max 7 EUR. Guide dogs free.",
+          "petPolicyFr": "Chiens <6 kg en cage : billet 0 EUR. Plus grands en laisse + muselière : 50 % tarif adulte, max 7 EUR. Chiens-guides gratuits.",
+          "petPolicyEs": "Perros <6 kg en transportín: billete 0 EUR. Mayores con correa + bozal: 50 % tarifa adulta, máx 7 EUR. Perros guía gratis.",
+          "petPolicyPt": "Cães <6 kg em transportadora: bilhete 0 EUR. Maiores com trela + açaime: 50 % tarifa adulta, máx 7 EUR. Cães-guia grátis.",
+          "tip": "Buy the 0 EUR animal ticket on SNCF Connect before boarding; controllers ask for it on every TER between Toulon and Marseille.",
+          "tipFr": "Achetez le billet animal 0 EUR sur SNCF Connect avant de monter ; les contrôleurs le demandent sur chaque TER Toulon-Marseille.",
+          "tipEs": "Compra el billete animal de 0 EUR en SNCF Connect antes de subir; los revisores lo piden en cada TER entre Toulon y Marsella.",
+          "tipPt": "Compre o bilhete animal de 0 EUR no SNCF Connect antes de embarcar; os revisores pedem-no em cada TER entre Toulon e Marselha.",
+          "googleMapsUrl": "https://maps.google.com/?q=Gare+SNCF+Toulon"
+        },
+        {
+          "name": "Aéroport Toulon-Hyères (TLN)",
+          "address": "Boulevard de la Marine, 83400 Hyères",
+          "neighborhood": "Hyères (20 min east)",
+          "photo": "/images/city-places/toulon-transport-tln-airport.jpg",
+          "website": "https://www.toulon-hyeres.aeroport.fr",
+          "description": "A small regional airport 20 minutes east of Toulon, with Air France, Volotea, Brussels Airlines and seasonal Ryanair routes to Paris Orly, Brussels, Olbia and Athens among others. Standard airline pet rules apply: most carriers admit pets up to 8 kg including carrier in cabin and require advance booking. For year-round flexibility, Marseille Provence (MRS, 1h30 by road) carries far more pet-friendly route options.",
+          "descriptionFr": "Un petit aéroport régional à 20 min à l'est de Toulon, avec Air France, Volotea, Brussels Airlines et Ryanair saisonnier vers Paris Orly, Bruxelles, Olbia et Athènes notamment. Règles aériennes standard : la plupart des compagnies acceptent les animaux jusqu'à 8 kg cage comprise en cabine, sur réservation préalable. Pour une flexibilité annuelle, Marseille Provence (MRS, 1h30 en voiture) offre bien plus d'options.",
+          "descriptionEs": "Un pequeño aeropuerto regional a 20 min al este de Toulon, con Air France, Volotea, Brussels Airlines y Ryanair estacional a París Orly, Bruselas, Olbia y Atenas entre otros. Reglas aéreas estándar: la mayoría de compañías admiten mascotas hasta 8 kg con transportín en cabina, con reserva previa. Para flexibilidad anual, Marsella Provence (MRS, 1h30 en coche) ofrece muchas más opciones.",
+          "descriptionPt": "Um pequeno aeroporto regional a 20 min a leste de Toulon, com Air France, Volotea, Brussels Airlines e Ryanair sazonal para Paris Orly, Bruxelas, Olbia e Atenas entre outros. Regras aéreas padrão: a maioria das companhias aceita animais até 8 kg com transportadora na cabina, com reserva prévia. Para flexibilidade anual, Marselha Provence (MRS, 1h30 de carro) oferece muitas mais opções.",
+          "petPolicy": "Cabin <8 kg incl. carrier on most carriers; advance booking mandatory",
+          "petPolicyFr": "Cabine <8 kg cage comprise sur la plupart des compagnies ; réservation préalable obligatoire",
+          "petPolicyEs": "Cabina <8 kg con transportín en la mayoría de compañías; reserva previa obligatoria",
+          "petPolicyPt": "Cabina <8 kg com transportadora na maioria das companhias; reserva prévia obrigatória",
+          "tip": "Confirm the pet booking by phone after online purchase; Ryanair in particular limits pets per flight and overbookings are common in summer.",
+          "tipFr": "Confirmez la réservation animal par téléphone après l'achat en ligne ; Ryanair en particulier limite les animaux par vol et les sur-réservations sont fréquentes en été.",
+          "tipEs": "Confirma la reserva de mascota por teléfono tras la compra online; Ryanair en particular limita mascotas por vuelo y los sobrevuelos son frecuentes en verano.",
+          "tipPt": "Confirme a reserva do animal por telefone após a compra online; a Ryanair em particular limita animais por voo e as sobre-reservas são frequentes no verão.",
+          "googleMapsUrl": "https://maps.google.com/?q=Toulon-Hyeres+Airport"
+        }
+      ],
+      "tipsEn": [
+        "Réseau Mistral is one of the only big-city French networks to officially accept large leashed dogs; carry a muzzle and buy a ticket on board if needed.",
+        "The bateau-bus across the Rade is a particularly elegant way to give a dog 20 minutes of sea breeze on a hot day.",
+        "For Saint-Tropez or Cannes day trips, SNCF TER to Les Arcs or Saint-Raphaël plus connecting bus is more reliable than the direct seasonal ferries that ban or restrict dogs."
+      ],
+      "tipsFr": [
+        "Le Réseau Mistral est l'un des rares réseaux de grande ville française à accepter officiellement les grands chiens en laisse ; emportez une muselière et achetez un billet à bord si besoin.",
+        "Le bateau-bus à travers la Rade est une façon élégante d'offrir 20 minutes de brise marine à un chien par une journée chaude.",
+        "Pour Saint-Tropez ou Cannes, le TER SNCF vers Les Arcs ou Saint-Raphaël + bus est plus fiable que les bateaux directs saisonniers qui interdisent ou limitent les chiens."
+      ],
+      "tipsEs": [
+        "El Réseau Mistral es una de las raras redes de gran ciudad francesa que admite oficialmente perros grandes con correa; lleva bozal y compra billete a bordo si hace falta.",
+        "El bateau-bus a través de la Rada es una forma elegante de dar 20 minutos de brisa marina a un perro en un día caluroso.",
+        "Para Saint-Tropez o Cannes, el TER SNCF a Les Arcs o Saint-Raphaël + bus es más fiable que los barcos directos estacionales que prohíben o limitan perros."
+      ],
+      "tipsPt": [
+        "A Réseau Mistral é uma das raras redes de grande cidade francesa a aceitar oficialmente cães grandes com trela; leve açaime e compre bilhete a bordo se necessário.",
+        "O bateau-bus através da Baía é uma forma elegante de dar 20 minutos de brisa marítima a um cão num dia quente.",
+        "Para Saint-Tropez ou Cannes, o TER SNCF para Les Arcs ou Saint-Raphaël + autocarro é mais fiável que os barcos directos sazonais que proíbem ou limitam cães."
+      ],
+      "faqsEn": [
+        {"q": "Can I take a large dog on the Toulon bus?", "a": "Yes. Réseau Mistral admits large dogs on lead with a muzzle and a paid transport ticket. Guide and assistance dogs travel free."},
+        {"q": "Are dogs allowed on the Toulon bateau-bus?", "a": "Yes, same rules as the bus: small pets in a basket free, large dogs leashed and muzzled with a ticket. The open back deck of the boat is the most popular spot."},
+        {"q": "Which airport is best for pet travel from Toulon?", "a": "Toulon-Hyères (TLN, 20 min east) is the closest but route options are limited. Marseille Provence (MRS, 1h30 by road) offers many more pet-friendly carriers and routes year-round."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je prendre un grand chien dans les bus de Toulon ?", "a": "Oui. Le Réseau Mistral admet les grands chiens en laisse, muselés et avec un billet payant. Chiens-guides et d'assistance gratuits."},
+        {"q": "Les chiens sont-ils acceptés sur le bateau-bus de Toulon ?", "a": "Oui, mêmes règles que le bus : petits animaux en panier gratuits, grands chiens en laisse et muselés avec billet. Le pont arrière ouvert du bateau est l'endroit le plus prisé."},
+        {"q": "Quel aéroport est le mieux pour voyager avec un animal depuis Toulon ?", "a": "Toulon-Hyères (TLN, 20 min à l'est) est le plus proche mais les options sont limitées. Marseille Provence (MRS, 1h30 en voiture) offre beaucoup plus de compagnies et de lignes pet-friendly toute l'année."}
+      ],
+      "faqsEs": [
+        {"q": "¿Puedo llevar un perro grande en los buses de Toulon?", "a": "Sí. El Réseau Mistral admite perros grandes con correa, bozal y billete de pago. Perros guía y de asistencia gratis."},
+        {"q": "¿Se admiten perros en el bateau-bus de Toulon?", "a": "Sí, mismas reglas que el bus: mascotas pequeñas en transportín gratis, perros grandes con correa y bozal con billete. La cubierta trasera abierta del barco es el sitio más codiciado."},
+        {"q": "¿Qué aeropuerto es mejor para viajar con mascota desde Toulon?", "a": "Toulon-Hyères (TLN, 20 min al este) es el más cercano pero con opciones limitadas. Marsella Provence (MRS, 1h30 en coche) ofrece muchas más compañías y rutas pet-friendly todo el año."}
+      ],
+      "faqsPt": [
+        {"q": "Posso levar um cão grande nos autocarros de Toulon?", "a": "Sim. A Réseau Mistral aceita cães grandes com trela, açaime e bilhete pago. Cães-guia e de assistência grátis."},
+        {"q": "Os cães são aceites no bateau-bus de Toulon?", "a": "Sim, mesmas regras que o autocarro: pequenos animais em transportadora grátis, cães grandes com trela e açaime com bilhete. O convés traseiro aberto do barco é o sítio mais procurado."},
+        {"q": "Qual é o melhor aeroporto para viajar com animal a partir de Toulon?", "a": "Toulon-Hyères (TLN, 20 min a leste) é o mais próximo mas com opções limitadas. Marselha Provence (MRS, 1h30 de carro) oferece muitas mais companhias e rotas pet-friendly todo o ano."}
+      ]
+    },
+    "beaches": {
+      "titleEn": "Pet-Friendly Beaches in Toulon",
+      "titleFr": "Plages acceptant les chiens à Toulon",
+      "titleEs": "Playas con perros en Toulon",
+      "titlePt": "Praias que aceitam cães em Toulon",
+      "introEn": "Toulon's official 2023 beach regulation publishes the dog rules in detail: the main Mourillon sandy beaches ban dogs in the summer bathing season (1 June–31 August), but the Henri Fabre back-beach promenade admits leashed dogs at 06:00–08:30 daily in summer and all day from 1 September to 31 May. The Anse Tabarly is an official year-round cani-plage with a dog swim ramp, and the Cap Brun rocky coves tolerate dogs on lead.",
+      "introFr": "Le règlement officiel 2023 des plages de Toulon publie les règles canines en détail : les plages sableuses principales du Mourillon interdisent les chiens en saison balnéaire (1er juin-31 août), mais la promenade Henri Fabre (revers de plage) accepte les chiens en laisse de 06h à 08h30 chaque jour en été et toute la journée du 1er septembre au 31 mai. L'Anse Tabarly est une cani-plage officielle toute l'année avec rampe de baignade canine, et les criques rocheuses de Cap Brun tolèrent les chiens en laisse.",
+      "introEs": "El reglamento oficial 2023 de las playas de Toulon publica las normas caninas en detalle: las playas de arena principales del Mourillon prohíben perros en temporada de baño (1 junio-31 agosto), pero la promenade Henri Fabre (playa trasera) admite perros con correa de 06:00 a 08:30 cada día en verano y todo el día del 1 de septiembre al 31 de mayo. La Anse Tabarly es una cani-plage oficial todo el año con rampa de baño canino, y las calas rocosas de Cap Brun toleran perros con correa.",
+      "introPt": "O regulamento oficial 2023 das praias de Toulon publica as regras caninas em detalhe: as praias arenosas principais do Mourillon proíbem cães em época balnear (1 junho-31 agosto), mas a promenade Henri Fabre (praia traseira) aceita cães com trela das 06h às 08h30 todos os dias no verão e todo o dia de 1 de setembro a 31 de maio. A Anse Tabarly é uma cani-plage oficial todo o ano com rampa de banho canino, e as enseadas rochosas de Cap Brun toleram cães com trela.",
+      "places": [
+        {
+          "name": "Anse Tabarly (cani-plage)",
+          "address": "Plages du Mourillon, 83000 Toulon",
+          "neighborhood": "Le Mourillon (eastern end)",
+          "photo": "/images/city-places/toulon-beaches-anse-tabarly.jpg",
+          "website": "https://toulon.fr/plages-du-mourillon",
+          "description": "The official year-round dog beach at the eastern end of the Mourillon strip, with a dedicated dog swim zone, a ramp into the water for older dogs and shaded benches above the rocks. Listed by the City of Toulon and the regional Provence-Méditerranée tourism office as the cani-plage de Toulon. Dogs on lead on the path approaches; off-lead permitted inside the dog swim zone only.",
+          "descriptionFr": "La cani-plage officielle annuelle à l'extrémité est du Mourillon, avec zone de baignade canine, rampe d'accès à l'eau pour les vieux chiens et bancs ombragés au-dessus des rochers. Listée par la Ville de Toulon et l'office Provence-Méditerranée comme la cani-plage de Toulon. Chiens en laisse sur les approches ; sans laisse autorisé uniquement dans la zone de baignade canine.",
+          "descriptionEs": "La cani-plage oficial anual en el extremo este del Mourillon, con zona de baño canino, rampa de acceso al agua para perros mayores y bancos a la sombra sobre las rocas. Listada por el Ayuntamiento de Toulon y la oficina Provence-Méditerranée como la cani-plage de Toulon. Perros con correa en los accesos; sin correa autorizado solo en la zona de baño canino.",
+          "descriptionPt": "A cani-praia oficial anual no extremo leste do Mourillon, com zona de banho canino, rampa de acesso à água para cães mais velhos e bancos à sombra sobre as rochas. Listada pela Câmara de Toulon e pelo posto Provence-Méditerranée como a cani-praia de Toulon. Cães com trela nas aproximações; sem trela autorizado apenas na zona de banho canino.",
+          "petPolicy": "On leash on approach; off-leash in the dedicated dog swim zone; vaccination required",
+          "petPolicyFr": "En laisse à l'approche ; sans laisse dans la zone de baignade canine dédiée ; vaccination requise",
+          "petPolicyEs": "Con correa en accesos; sin correa en la zona de baño canino; vacunación requerida",
+          "petPolicyPt": "Com trela nas aproximações; sem trela na zona de banho canino; vacinação obrigatória",
+          "season": "Year-round",
+          "seasonFr": "Toute l'année",
+          "seasonEs": "Todo el año",
+          "seasonPt": "Todo o ano",
+          "amenities": "Dog swim ramp, shaded benches, waste-bag distributors, no shower",
+          "amenitiesFr": "Rampe de baignade canine, bancs ombragés, distributeurs de sacs, pas de douche",
+          "amenitiesEs": "Rampa de baño canino, bancos a la sombra, distribuidores de bolsas, sin ducha",
+          "amenitiesPt": "Rampa de banho canino, bancos à sombra, distribuidores de sacos, sem chuveiro",
+          "tip": "Best at high tide and on weekday mornings; on summer weekends the small zone fills with locals from 09:00.",
+          "tipFr": "Idéale à marée haute et les matinées de semaine ; les week-ends d'été, la petite zone se remplit de locaux dès 9h.",
+          "tipEs": "Ideal con marea alta y mañanas entre semana; los fines de semana de verano la pequeña zona se llena de locales desde las 09:00.",
+          "tipPt": "Ideal com maré alta e manhãs de semana; aos fins-de-semana de verão a pequena zona enche-se de locais a partir das 09h.",
+          "googleMapsUrl": "https://maps.google.com/?q=Anse+Tabarly+Toulon"
+        },
+        {
+          "name": "Promenade Henri Fabre (Mourillon back beach)",
+          "address": "Plages du Mourillon, 83000 Toulon",
+          "neighborhood": "Le Mourillon",
+          "photo": "/images/city-places/toulon-beaches-promenade-henri-fabre.jpg",
+          "website": "https://toulon.fr/plages-du-mourillon",
+          "description": "The paved seafront promenade running 1.4 km behind the Mourillon strip, with palm trees, benches and the Mediterranean horizon. The 2023 City regulation admits leashed dogs on the Henri Fabre promenade from 1 September to 31 May, and from 1 June to 31 August only between 06:00 and 08:30. Dogs are prohibited on the lawns and sand even on lead at all other times.",
+          "descriptionFr": "La promenade pavée du front de mer qui longe 1,4 km derrière le Mourillon, avec palmiers, bancs et l'horizon méditerranéen. Le règlement municipal 2023 autorise les chiens en laisse sur la promenade Henri Fabre du 1er septembre au 31 mai, et du 1er juin au 31 août uniquement de 06h à 08h30. Les chiens sont interdits sur les pelouses et le sable même en laisse aux autres horaires.",
+          "descriptionEs": "El paseo pavimentado del frente marítimo que recorre 1,4 km detrás del Mourillon, con palmeras, bancos y el horizonte mediterráneo. El reglamento municipal 2023 admite perros con correa en la promenade Henri Fabre del 1 de septiembre al 31 de mayo, y del 1 de junio al 31 de agosto solo entre las 06:00 y las 08:30. Los perros están prohibidos en los céspedes y la arena incluso con correa en los demás horarios.",
+          "descriptionPt": "O passeio pavimentado da frente-mar que percorre 1,4 km por trás do Mourillon, com palmeiras, bancos e o horizonte mediterrânico. O regulamento municipal 2023 aceita cães com trela na promenade Henri Fabre de 1 de setembro a 31 de maio, e de 1 de junho a 31 de agosto apenas entre as 06h e as 08h30. Os cães estão proibidos nos relvados e na areia mesmo com trela nos outros horários.",
+          "petPolicy": "On leash on promenade: year-round outside summer; 06:00–08:30 only Jun–Aug; sand and lawns always banned",
+          "petPolicyFr": "En laisse sur la promenade : hors été toute l'année ; 06h-08h30 uniquement juin-août ; sable et pelouses toujours interdits",
+          "petPolicyEs": "Con correa en el paseo: fuera de verano todo el año; 06:00-08:30 solo jun-ago; arena y céspedes siempre prohibidos",
+          "petPolicyPt": "Com trela no passeio: fora de verão todo o ano; 06h-08h30 apenas jun-ago; areia e relvados sempre proibidos",
+          "season": "Daily; summer access restricted to 06:00–08:30",
+          "seasonFr": "Quotidien ; accès estival restreint à 06h-08h30",
+          "seasonEs": "Diario; acceso estival restringido a 06:00-08:30",
+          "seasonPt": "Diário; acesso estival restrito a 06h-08h30",
+          "amenities": "Paved promenade, palms, benches, water points, waste-bag dispensers",
+          "amenitiesFr": "Promenade pavée, palmiers, bancs, points d'eau, distributeurs de sacs",
+          "amenitiesEs": "Paseo pavimentado, palmeras, bancos, puntos de agua, distribuidores de bolsas",
+          "amenitiesPt": "Passeio pavimentado, palmeiras, bancos, pontos de água, distribuidores de sacos",
+          "tip": "Summer enforcement is strict from 1 June onwards; the city published the rule precisely to end the previous summer-long tolerance.",
+          "tipFr": "L'application estivale est stricte à partir du 1er juin ; la ville a publié la règle précisément pour mettre fin à la tolérance d'été antérieure.",
+          "tipEs": "La aplicación estival es estricta desde el 1 de junio; el Ayuntamiento publicó la norma precisamente para acabar con la tolerancia estival anterior.",
+          "tipPt": "A aplicação estival é estrita a partir de 1 de junho; a Câmara publicou a regra precisamente para acabar com a tolerância estival anterior.",
+          "googleMapsUrl": "https://maps.google.com/?q=Promenade+Henri+Fabre+Toulon"
+        },
+        {
+          "name": "Coves of La Mitre",
+          "address": "Sentier de la Mitre, 83000 Toulon",
+          "neighborhood": "La Mitre",
+          "photo": "/images/city-places/toulon-beaches-la-mitre.jpg",
+          "website": "",
+          "description": "A series of small rocky coves at the western end of the Mourillon, between the Saint-Louis fort and the Tour Royale, reached by a short coastal path. The supervised summer swim zone bans dogs on lead from 1 June to 31 August; the rocky shoreline and the coastal path outside the zone tolerate leashed dogs year-round. Less crowded than the central Mourillon beaches and a good option for an off-season swim.",
+          "descriptionFr": "Une série de petites criques rocheuses à l'extrémité ouest du Mourillon, entre le fort Saint-Louis et la Tour Royale, accessibles par un court chemin côtier. La zone surveillée d'été interdit les chiens en laisse du 1er juin au 31 août ; le littoral rocheux et le chemin côtier hors zone tolèrent les chiens en laisse toute l'année. Moins fréquenté que les plages centrales du Mourillon et bon plan pour une baignade hors saison.",
+          "descriptionEs": "Una serie de pequeñas calas rocosas en el extremo oeste del Mourillon, entre el fuerte Saint-Louis y la Tour Royale, accesibles por un corto sendero costero. La zona vigilada de verano prohíbe perros con correa del 1 de junio al 31 de agosto; el litoral rocoso y el sendero costero fuera de la zona toleran perros con correa todo el año. Menos frecuentada que las playas centrales del Mourillon y buen plan para un baño fuera de temporada.",
+          "descriptionPt": "Uma série de pequenas enseadas rochosas no extremo oeste do Mourillon, entre o forte Saint-Louis e a Tour Royale, acessíveis por um curto trilho costeiro. A zona vigiada de verão proíbe cães com trela de 1 de junho a 31 de agosto; o litoral rochoso e o trilho costeiro fora da zona toleram cães com trela todo o ano. Menos frequentado que as praias centrais do Mourillon e bom plano para um banho fora de época.",
+          "petPolicy": "Year-round on lead on rocky shore + coastal path; banned in supervised summer swim zone Jun–Aug",
+          "petPolicyFr": "Toute l'année en laisse sur le rocher + chemin côtier ; interdits dans la zone surveillée d'été juin-août",
+          "petPolicyEs": "Todo el año con correa en rocas + sendero costero; prohibidos en la zona vigilada de verano jun-ago",
+          "petPolicyPt": "Todo o ano com trela em rocha + trilho costeiro; proibidos na zona vigiada de verão jun-ago",
+          "season": "Year-round on rocky shore; supervised central zone bans dogs Jun–Aug",
+          "seasonFr": "Toute l'année sur le rocher ; zone surveillée centrale interdit les chiens juin-août",
+          "seasonEs": "Todo el año en rocas; zona vigilada central prohíbe perros jun-ago",
+          "seasonPt": "Todo o ano em rocha; zona vigiada central proíbe cães jun-ago",
+          "amenities": "Rocky entries, no sand, no shade, parking at Tour Royale",
+          "amenitiesFr": "Entrées rocheuses, pas de sable, aucune ombre, parking à la Tour Royale",
+          "amenitiesEs": "Entradas rocosas, sin arena, sin sombra, aparcamiento en la Tour Royale",
+          "amenitiesPt": "Entradas rochosas, sem areia, sem sombra, estacionamento na Tour Royale",
+          "tip": "Park at the Tour Royale and walk east; within 15 minutes you have left the central swim zone and the rocky coves are quiet even in July.",
+          "tipFr": "Garez-vous à la Tour Royale et marchez vers l'est ; en 15 min vous avez quitté la zone centrale et les criques sont calmes même en juillet.",
+          "tipEs": "Aparca en la Tour Royale y camina al este; en 15 min has dejado la zona central y las calas están tranquilas incluso en julio.",
+          "tipPt": "Estacione na Tour Royale e ande para leste; em 15 min saiu da zona central e as enseadas estão calmas mesmo em julho.",
+          "googleMapsUrl": "https://maps.google.com/?q=La+Mitre+Toulon"
+        }
+      ],
+      "tipsEn": [
+        "Toulon has one official cani-plage with a dog swim ramp (Anse Tabarly) year-round; few French cities of this size offer the equivalent.",
+        "Summer beach rules are strictly enforced since 2023: dogs banned on Mourillon sand and lawns at all times, paved Henri Fabre promenade only 06:00–08:30 in summer.",
+        "Porquerolles ferry from Toulon takes leashed dogs free; the beaches on Porquerolles are forbidden to dogs under the National Park rules, plan trail walking only."
+      ],
+      "tipsFr": [
+        "Toulon a une cani-plage officielle avec rampe de baignade canine (Anse Tabarly) toute l'année ; peu de villes françaises de cette taille offrent l'équivalent.",
+        "Les règles estivales sont strictement appliquées depuis 2023 : chiens interdits sur le sable et les pelouses du Mourillon à toute heure, promenade Henri Fabre pavée 06h-08h30 uniquement en été.",
+        "Le ferry pour Porquerolles depuis Toulon embarque les chiens en laisse gratuitement ; les plages de Porquerolles sont interdites aux chiens (règles Parc National), prévoyez de marcher sur les sentiers uniquement."
+      ],
+      "tipsEs": [
+        "Toulon tiene una cani-plage oficial con rampa de baño canino (Anse Tabarly) todo el año; pocas ciudades francesas de este tamaño ofrecen el equivalente.",
+        "Las normas estivales se aplican estrictamente desde 2023: perros prohibidos en arena y céspedes del Mourillon a cualquier hora, paseo Henri Fabre pavimentado 06:00-08:30 solo en verano.",
+        "El ferry a Porquerolles desde Toulon embarca perros con correa gratis; las playas de Porquerolles están prohibidas a perros (normas Parque Nacional), planea solo caminata por senderos."
+      ],
+      "tipsPt": [
+        "Toulon tem uma cani-praia oficial com rampa de banho canino (Anse Tabarly) todo o ano; poucas cidades francesas deste tamanho oferecem o equivalente.",
+        "As regras de verão são aplicadas estritamente desde 2023: cães proibidos na areia e nos relvados do Mourillon a qualquer hora, passeio Henri Fabre pavimentado 06h-08h30 apenas no verão.",
+        "O ferry para Porquerolles a partir de Toulon embarca cães com trela grátis; as praias de Porquerolles são proibidas a cães (regras Parque Nacional), planeie apenas caminhadas em trilhos."
+      ],
+      "faqsEn": [
+        {"q": "Can my dog swim at the Mourillon in summer?", "a": "Not on the sandy beaches: dogs are banned 1 June to 31 August on all sand and lawns. Use the year-round Anse Tabarly cani-plage at the eastern end of the Mourillon instead."},
+        {"q": "When can I walk my dog on the Mourillon promenade?", "a": "On lead all day from 1 September to 31 May. In summer (1 June to 31 August), only 06:00 to 08:30."},
+        {"q": "Can I take my dog to Porquerolles?", "a": "Yes, the ferry TLV-TVM admits leashed dogs free. But the beaches on Porquerolles are strictly banned to dogs under the Parc National rules; only the trails are dog-accessible."}
+      ],
+      "faqsFr": [
+        {"q": "Mon chien peut-il se baigner au Mourillon en été ?", "a": "Pas sur les plages sableuses : interdits du 1er juin au 31 août sur tout le sable et les pelouses. Utilisez la cani-plage de l'Anse Tabarly à l'extrémité est du Mourillon toute l'année."},
+        {"q": "Quand puis-je promener mon chien sur la promenade du Mourillon ?", "a": "En laisse toute la journée du 1er septembre au 31 mai. En été (1er juin-31 août), seulement de 06h à 08h30."},
+        {"q": "Puis-je emmener mon chien à Porquerolles ?", "a": "Oui, le ferry TLV-TVM embarque les chiens en laisse gratuitement. Mais les plages de Porquerolles sont strictement interdites aux chiens (règles Parc National) ; seuls les sentiers sont accessibles."}
+      ],
+      "faqsEs": [
+        {"q": "¿Mi perro puede bañarse en el Mourillon en verano?", "a": "No en las playas de arena: prohibidos del 1 de junio al 31 de agosto en toda la arena y céspedes. Usa la cani-plage de la Anse Tabarly en el extremo este del Mourillon todo el año."},
+        {"q": "¿Cuándo puedo pasear a mi perro por el paseo del Mourillon?", "a": "Con correa todo el día del 1 de septiembre al 31 de mayo. En verano (1 junio-31 agosto), solo de 06:00 a 08:30."},
+        {"q": "¿Puedo llevar a mi perro a Porquerolles?", "a": "Sí, el ferry TLV-TVM embarca perros con correa gratis. Pero las playas de Porquerolles están estrictamente prohibidas a perros (normas Parque Nacional); solo los senderos son accesibles."}
+      ],
+      "faqsPt": [
+        {"q": "O meu cão pode tomar banho no Mourillon no verão?", "a": "Não nas praias arenosas: proibidos de 1 de junho a 31 de agosto em toda a areia e relvados. Use a cani-praia da Anse Tabarly no extremo leste do Mourillon todo o ano."},
+        {"q": "Quando posso passear o meu cão no passeio do Mourillon?", "a": "Com trela todo o dia de 1 de setembro a 31 de maio. No verão (1 junho-31 agosto), apenas das 06h às 08h30."},
+        {"q": "Posso levar o meu cão a Porquerolles?", "a": "Sim, o ferry TLV-TVM embarca cães com trela grátis. Mas as praias de Porquerolles são estritamente proibidas a cães (regras Parque Nacional); só os trilhos são acessíveis."}
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Care in Toulon",
+      "titleFr": "Soins vétérinaires à Toulon",
+      "titleEs": "Atención veterinaria en Toulon",
+      "titlePt": "Cuidados veterinários em Toulon",
+      "introEn": "Toulon has two dedicated emergency vet clinics open 24/7: Telo Vet on Avenue Pierre Loti (04 22 54 04 54) and Vétérinaires 2 Toute Urgence on the Route de Marseille (04 27 04 02 70). Several day clinics handle routine consultations. The national 3115 emergency line also works across the Var.",
+      "introFr": "Toulon dispose de deux cliniques d'urgence vétérinaires ouvertes 24h/24 : Telo Vet sur l'Avenue Pierre Loti (04 22 54 04 54) et Vétérinaires 2 Toute Urgence route de Marseille (04 27 04 02 70). Plusieurs cabinets de jour assurent les consultations courantes. Le 3115 national fonctionne aussi dans tout le Var.",
+      "introEs": "Toulon cuenta con dos clínicas de urgencia veterinarias 24/7: Telo Vet en la Avenue Pierre Loti (04 22 54 04 54) y Vétérinaires 2 Toute Urgence en la route de Marseille (04 27 04 02 70). Varias clínicas de día atienden consultas corrientes. El 3115 nacional también funciona en todo el Var.",
+      "introPt": "Toulon dispõe de duas clínicas de urgência veterinária 24/7: Telo Vet na Avenue Pierre Loti (04 22 54 04 54) e Vétérinaires 2 Toute Urgence na route de Marseille (04 27 04 02 70). Várias clínicas de dia tratam consultas correntes. O 3115 nacional também funciona em todo o Var.",
+      "places": [
+        {
+          "name": "Telo Vet (Urgence Vétérinaire Toulon)",
+          "address": "382 Avenue Pierre Loti, 83000 Toulon",
+          "neighborhood": "Pont du Las (north-west centre)",
+          "photo": "/images/city-places/toulon-vets-telo-vet.jpg",
+          "website": "https://www.veterinaire-de-garde-toulon.fr/",
+          "phone": "04 22 54 04 54",
+          "description": "A 24/7 emergency vet clinic on Avenue Pierre Loti, with consultations every day including Sunday and a home-visit service for animals too sick to travel. Full imaging, surgery, dentistry and hospitalisation. The team prioritises foreign-passport tourist consultations and EU pet passports are routinely accepted.",
+          "descriptionFr": "Une clinique d'urgence vétérinaire 24h/24 sur l'Avenue Pierre Loti, avec consultations tous les jours dont le dimanche et service à domicile pour les animaux trop malades pour se déplacer. Imagerie complète, chirurgie, dentisterie et hospitalisation. L'équipe priorise les consultations touristes à passeport étranger et le passeport européen est accepté en routine.",
+          "descriptionEs": "Una clínica de urgencia veterinaria 24/7 en la Avenue Pierre Loti, con consultas todos los días incluido domingo y servicio a domicilio para animales demasiado enfermos para desplazarse. Imagen completa, cirugía, odontología y hospitalización. El equipo prioriza consultas de turistas con pasaporte extranjero y el pasaporte europeo se acepta de rutina.",
+          "descriptionPt": "Uma clínica de urgência veterinária 24/7 na Avenue Pierre Loti, com consultas todos os dias incluindo domingo e serviço ao domicílio para animais demasiado doentes para se deslocar. Imagiologia completa, cirurgia, dentisteria e internamento. A equipa prioriza consultas de turistas com passaporte estrangeiro e o passaporte europeu é aceite de rotina.",
+          "petPolicy": "All companion animals; EU pet passport accepted; home-visit service",
+          "petPolicyFr": "Tous animaux de compagnie ; passeport européen accepté ; service à domicile",
+          "petPolicyEs": "Todos los animales de compañía; pasaporte europeo aceptado; servicio a domicilio",
+          "petPolicyPt": "Todos os animais de companhia; passaporte europeu aceite; serviço ao domicílio",
+          "services": "24/7 emergency, imaging, surgery, dentistry, hospitalisation, home visits",
+          "servicesFr": "Urgences 24h/24, imagerie, chirurgie, dentisterie, hospitalisation, visites à domicile",
+          "servicesEs": "Urgencias 24/7, imagen, cirugía, odontología, hospitalización, visitas a domicilio",
+          "servicesPt": "Urgências 24/7, imagiologia, cirurgia, dentisteria, internamento, visitas ao domicílio",
+          "openingHours": "24/7",
+          "tip": "Call before driving over; the team triages by phone and may prepare imaging or surgery in advance, saving time on arrival.",
+          "tipFr": "Appelez avant de venir ; l'équipe trie par téléphone et peut préparer imagerie ou chirurgie en avance, gain de temps à l'arrivée.",
+          "tipEs": "Llama antes de ir; el equipo triagea por teléfono y puede preparar imagen o cirugía con antelación, ganando tiempo a la llegada.",
+          "tipPt": "Ligue antes de ir; a equipa faz triagem por telefone e pode preparar imagiologia ou cirurgia com antecedência, poupando tempo à chegada.",
+          "googleMapsUrl": "https://maps.google.com/?q=382+avenue+Pierre+Loti+Toulon"
+        },
+        {
+          "name": "Vétérinaires 2 Toute Urgence Toulon",
+          "address": "157 Route de Marseille, 83200 Toulon",
+          "neighborhood": "Ouest Toulon (Route de Marseille)",
+          "photo": "/images/city-places/toulon-vets-2-toute-urgence-toulon.jpg",
+          "website": "https://veterinaires2touteurgence.com/urgence-veterinaire-toulon/",
+          "phone": "04 27 04 02 70",
+          "description": "A second 24/7 vet emergency clinic on the western Route de Marseille, part of the regional network that also covers Nîmes and Arles. Open every weeknight 19:00–08:00, every weekend Sat 12:00–Mon 08:00 and 24h on public holidays. Trained vet nurses on site overnight, full imaging and surgical theatre.",
+          "descriptionFr": "Une seconde clinique d'urgence vétérinaire 24h/24 sur la route de Marseille à l'ouest, partie du réseau régional qui couvre aussi Nîmes et Arles. Ouverte chaque nuit en semaine 19h-8h, chaque week-end sam 12h-lun 8h et 24h les jours fériés. ASV formée la nuit, imagerie complète et bloc chirurgical.",
+          "descriptionEs": "Una segunda clínica de urgencia veterinaria 24/7 en la route de Marseille al oeste, parte de la red regional que cubre también Nîmes y Arles. Abierta cada noche entre semana 19:00-08:00, cada fin de semana sáb 12:00-lun 08:00 y 24h en festivos. ASV formada por la noche, imagen completa y quirófano.",
+          "descriptionPt": "Uma segunda clínica de urgência veterinária 24/7 na route de Marseille a oeste, parte da rede regional que cobre também Nîmes e Arles. Aberta todas as noites úteis 19h-8h, todos os fins-de-semana sáb 12h-seg 8h e 24h em feriados. ASV formada à noite, imagiologia completa e bloco cirúrgico.",
+          "petPolicy": "All companion animals; EU pet passport accepted; emergencies only",
+          "petPolicyFr": "Tous animaux de compagnie ; passeport européen accepté ; urgences uniquement",
+          "petPolicyEs": "Todos los animales de compañía; pasaporte europeo aceptado; solo urgencias",
+          "petPolicyPt": "Todos os animais de companhia; passaporte europeu aceite; apenas urgências",
+          "services": "Overnight + weekend + holiday emergency, imaging, surgery",
+          "servicesFr": "Urgences nuit + week-end + jours fériés, imagerie, chirurgie",
+          "servicesEs": "Urgencias nocturnas + fines de semana + festivos, imagen, cirugía",
+          "servicesPt": "Urgências noturnas + fins-de-semana + feriados, imagiologia, cirurgia",
+          "openingHours": "Mon–Fri 19:00–08:00; Sat 12:00–Mon 08:00; public holidays 24h",
+          "tip": "Easy car access from the A50 motorway; useful if you are arriving from Marseille or returning from a day trip west.",
+          "tipFr": "Accès facile depuis l'A50 ; utile si vous arrivez de Marseille ou rentrez d'une journée à l'ouest.",
+          "tipEs": "Acceso fácil desde la A50; útil si llegas de Marsella o vuelves de un día al oeste.",
+          "tipPt": "Acesso fácil pela A50; útil se chega de Marselha ou regressa de um dia a oeste.",
+          "googleMapsUrl": "https://maps.google.com/?q=157+route+de+Marseille+Toulon"
+        },
+        {
+          "name": "Clinique Vétérinaire des 4 Chemins",
+          "address": "Quartier des 4 Chemins, 83000 Toulon",
+          "neighborhood": "4 Chemins (north Toulon)",
+          "photo": "/images/city-places/toulon-vets-clinique-4-chemins.jpg",
+          "website": "",
+          "phone": "04 94 31 31 31",
+          "description": "A general practice in the residential 4 Chemins quarter, useful for routine consultations, vaccinations, microchip checks and minor surgery. Open Monday to Saturday in standard hours; out-of-hours emergencies routed to Telo Vet or Vétérinaires 2 Toute Urgence. English-speaking staff for tourists.",
+          "descriptionFr": "Un cabinet généraliste dans le quartier résidentiel des 4 Chemins, pratique pour consultations courantes, vaccins, contrôle puce et petite chirurgie. Ouvert du lundi au samedi aux heures standard ; urgences hors horaires renvoyées vers Telo Vet ou Vétérinaires 2 Toute Urgence. Personnel anglophone pour les touristes.",
+          "descriptionEs": "Una consulta general en el barrio residencial de 4 Chemins, útil para consultas corrientes, vacunas, control de microchip y cirugía menor. Abierta de lunes a sábado en horario estándar; urgencias fuera de horario derivadas a Telo Vet o Vétérinaires 2 Toute Urgence. Personal anglófono para turistas.",
+          "descriptionPt": "Uma clínica geral no bairro residencial dos 4 Chemins, útil para consultas correntes, vacinas, controlo de microchip e pequena cirurgia. Aberta de segunda a sábado em horário padrão; urgências fora de horas encaminhadas para Telo Vet ou Vétérinaires 2 Toute Urgence. Pessoal anglófono para turistas.",
+          "petPolicy": "All companion animals; EU pet passport accepted; English-speaking staff",
+          "petPolicyFr": "Tous animaux de compagnie ; passeport européen accepté ; personnel anglophone",
+          "petPolicyEs": "Todos los animales de compañía; pasaporte europeo aceptado; personal anglófono",
+          "petPolicyPt": "Todos os animais de companhia; passaporte europeu aceite; pessoal anglófono",
+          "services": "Consultations, surgery, vaccinations, microchip",
+          "servicesFr": "Consultations, chirurgie, vaccins, puce",
+          "servicesEs": "Consultas, cirugía, vacunas, microchip",
+          "servicesPt": "Consultas, cirurgia, vacinas, microchip",
+          "openingHours": "Mon–Fri 08:30–19:00, Sat 09:00–12:00",
+          "tip": "Useful as the first stop before a Porquerolles or Iles d'Or boat trip if you need a quick tick check or microchip read.",
+          "tipFr": "Pratique en première étape avant un bateau pour Porquerolles ou les Îles d'Or pour un contrôle tiques ou lecture puce rapide.",
+          "tipEs": "Útil como primera parada antes de un barco a Porquerolles o las Îles d'Or para un control rápido de garrapatas o lectura de microchip.",
+          "tipPt": "Útil como primeira paragem antes de um barco para Porquerolles ou Îles d'Or para um controlo rápido de carraças ou leitura de microchip.",
+          "googleMapsUrl": "https://maps.google.com/?q=Quartier+4+Chemins+Toulon"
+        }
+      ],
+      "tipsEn": [
+        "Two 24/7 vet emergency clinics within 10 minutes of the centre, a rarity for a French regional city of 175,000.",
+        "Save both numbers before arrival: Telo Vet 04 22 54 04 54 and Vétérinaires 2 Toute Urgence 04 27 04 02 70.",
+        "Free national veterinary emergency number 3115 also works across the Var."
+      ],
+      "tipsFr": [
+        "Deux cliniques d'urgence 24h/24 à moins de 10 minutes du centre, une rareté pour une ville régionale française de 175 000 habitants.",
+        "Enregistrez les deux numéros avant d'arriver : Telo Vet 04 22 54 04 54 et Vétérinaires 2 Toute Urgence 04 27 04 02 70.",
+        "Le numéro national gratuit d'urgence vétérinaire 3115 fonctionne aussi dans tout le Var."
+      ],
+      "tipsEs": [
+        "Dos clínicas de urgencias 24/7 a menos de 10 minutos del centro, una rareza para una ciudad regional francesa de 175.000 habitantes.",
+        "Guarda ambos números antes de llegar: Telo Vet 04 22 54 04 54 y Vétérinaires 2 Toute Urgence 04 27 04 02 70.",
+        "El número nacional gratuito de urgencia veterinaria 3115 también funciona en todo el Var."
+      ],
+      "tipsPt": [
+        "Duas clínicas de urgência 24/7 a menos de 10 minutos do centro, uma raridade para uma cidade regional francesa de 175.000 habitantes.",
+        "Guarde ambos os números antes de chegar: Telo Vet 04 22 54 04 54 e Vétérinaires 2 Toute Urgence 04 27 04 02 70.",
+        "O número nacional gratuito de urgência veterinária 3115 também funciona em todo o Var."
+      ],
+      "faqsEn": [
+        {"q": "Is there a 24/7 emergency vet in Toulon?", "a": "Yes, two of them: Telo Vet (04 22 54 04 54) on Avenue Pierre Loti and Vétérinaires 2 Toute Urgence (04 27 04 02 70) on the route de Marseille. The national 3115 line also works across the Var."},
+        {"q": "Will a Toulon vet treat a foreign-passport dog?", "a": "Yes. All three clinics above accept EU pet passports and treat travelling animals routinely. English-speaking staff at Telo Vet and the 4 Chemins clinic."},
+        {"q": "Do I need extra vaccinations for a Toulon trip?", "a": "Standard EU pet-passport vaccinations (rabies + ISO microchip) are mandatory. Leptospirosis is strongly recommended if you plan river or coastal swims; ask your home vet at least 21 days before travel."}
+      ],
+      "faqsFr": [
+        {"q": "Y a-t-il un vétérinaire d'urgence 24h/24 à Toulon ?", "a": "Oui, deux : Telo Vet (04 22 54 04 54) sur l'Avenue Pierre Loti et Vétérinaires 2 Toute Urgence (04 27 04 02 70) route de Marseille. Le 3115 national fonctionne aussi dans tout le Var."},
+        {"q": "Un vétérinaire de Toulon soignera-t-il un chien à passeport étranger ?", "a": "Oui. Les trois cliniques ci-dessus acceptent le passeport européen et soignent régulièrement les animaux voyageurs. Personnel anglophone chez Telo Vet et à la clinique des 4 Chemins."},
+        {"q": "Faut-il des vaccinations supplémentaires pour Toulon ?", "a": "Les vaccinations standard du passeport européen (rage + puce ISO) sont obligatoires. La leptospirose est fortement recommandée si vous prévoyez des baignades fluviales ou côtières ; demandez à votre vétérinaire au moins 21 jours avant."}
+      ],
+      "faqsEs": [
+        {"q": "¿Hay veterinario de urgencias 24/7 en Toulon?", "a": "Sí, dos: Telo Vet (04 22 54 04 54) en la Avenue Pierre Loti y Vétérinaires 2 Toute Urgence (04 27 04 02 70) en la route de Marseille. El 3115 nacional también funciona en todo el Var."},
+        {"q": "¿Un veterinario de Toulon atenderá a un perro con pasaporte extranjero?", "a": "Sí. Las tres clínicas anteriores aceptan el pasaporte europeo y atienden con regularidad a animales viajeros. Personal anglófono en Telo Vet y en la clínica de 4 Chemins."},
+        {"q": "¿Hacen falta vacunaciones extra para un viaje a Toulon?", "a": "Las vacunaciones estándar del pasaporte europeo (rabia + microchip ISO) son obligatorias. La leptospirosis se recomienda firmemente si prevés baños fluviales o costeros; pídela a tu veterinario al menos 21 días antes."}
+      ],
+      "faqsPt": [
+        {"q": "Existe veterinário de urgência 24/7 em Toulon?", "a": "Sim, dois: Telo Vet (04 22 54 04 54) na Avenue Pierre Loti e Vétérinaires 2 Toute Urgence (04 27 04 02 70) na route de Marseille. O 3115 nacional também funciona em todo o Var."},
+        {"q": "Um veterinário de Toulon trata um cão com passaporte estrangeiro?", "a": "Sim. As três clínicas acima aceitam o passaporte europeu e tratam regularmente animais viajantes. Pessoal anglófono em Telo Vet e na clínica dos 4 Chemins."},
+        {"q": "Preciso de vacinações extra para uma viagem a Toulon?", "a": "As vacinações padrão do passaporte europeu (raiva + microchip ISO) são obrigatórias. A leptospirose é fortemente recomendada se prevê banhos fluviais ou costeiros; peça ao seu veterinário pelo menos 21 dias antes."}
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Toulon",
+      "titleFr": "Attractions accueillant les chiens à Toulon",
+      "titleEs": "Atracciones que admiten perros en Toulon",
+      "titlePt": "Atrações que aceitam cães em Toulon",
+      "introEn": "Toulon's dog-accessible attractions blend the Mediterranean port, the 17th-century Vauban fortifications and the Mont Faron ridge. The cable car to Mont Faron carries dogs free, the Marché du Cours Lafayette is dog-tolerant by tradition, and the Sentier du Littoral around Cap Brun is back online after a long closure. The interiors of the Musée National de la Marine and the Mémorial du Débarquement on Mont Faron ban dogs other than guide and assistance dogs.",
+      "introFr": "Les attractions accessibles aux chiens à Toulon combinent le port méditerranéen, les fortifications Vauban du XVIIe siècle et la crête du Mont Faron. Le téléphérique vers le Mont Faron emmène les chiens gratuitement, le Marché du Cours Lafayette est dog-friendly par tradition, et le Sentier du Littoral de Cap Brun est de nouveau ouvert après une longue fermeture. L'intérieur du Musée National de la Marine et le Mémorial du Débarquement au Mont Faron interdisent les chiens hors chiens-guides et d'assistance.",
+      "introEs": "Las atracciones accesibles a perros en Toulon combinan el puerto mediterráneo, las fortificaciones Vauban del siglo XVII y la cresta del Mont Faron. El teleférico al Mont Faron lleva a los perros gratis, el Marché du Cours Lafayette es dog-friendly por tradición, y el Sentier du Littoral de Cap Brun está reabierto tras un largo cierre. El interior del Musée National de la Marine y el Mémorial du Débarquement en Mont Faron prohíben perros salvo guía y asistencia.",
+      "introPt": "As atrações acessíveis a cães em Toulon combinam o porto mediterrânico, as fortificações Vauban do século XVII e a crista do Mont Faron. O teleférico para o Mont Faron leva os cães grátis, o Marché du Cours Lafayette é dog-friendly por tradição, e o Sentier du Littoral de Cap Brun está reaberto após um longo encerramento. O interior do Musée National de la Marine e o Mémorial du Débarquement no Mont Faron proíbem cães salvo de assistência.",
+      "places": [
+        {
+          "name": "Téléphérique du Mont Faron",
+          "address": "Boulevard Amiral Vence, 83200 Toulon",
+          "neighborhood": "Mont Faron",
+          "photo": "/images/city-places/toulon-attractions-telepherique-mont-faron.jpg",
+          "website": "https://www.telepherique-toulon.com",
+          "description": "The cable car that climbs the 584-metre Mont Faron in 6 minutes from the Super-Toulon lower station, with a 360-degree panorama over the Mediterranean from the top. The official tourism office confirms dogs travel free in the cabin as long as they are on a leash, with no size limit. Operates daily, closing on strong mistral days.",
+          "descriptionFr": "Le téléphérique qui grimpe les 584 m du Mont Faron en 6 minutes depuis la gare basse de Super-Toulon, avec un panorama à 360° sur la Méditerranée au sommet. L'office de tourisme confirme que les chiens voyagent gratuitement dans la cabine, en laisse, sans limite de taille. Quotidien, ferme par fort mistral.",
+          "descriptionEs": "El teleférico que sube los 584 m del Mont Faron en 6 minutos desde la estación inferior de Super-Toulon, con panorama de 360° sobre el Mediterráneo arriba. La oficina de turismo confirma que los perros viajan gratis en la cabina, con correa, sin límite de tamaño. Diario, cierra con fuerte mistral.",
+          "descriptionPt": "O teleférico que sobe os 584 m do Mont Faron em 6 minutos a partir da estação inferior de Super-Toulon, com panorama de 360° sobre o Mediterrâneo em cima. O posto de turismo confirma que os cães viajam grátis na cabina, com trela, sem limite de tamanho. Diário, fecha com forte mistral.",
+          "petPolicy": "Dogs free on cable car if leashed, no size limit",
+          "petPolicyFr": "Chiens gratuits dans la cabine si en laisse, pas de limite de taille",
+          "petPolicyEs": "Perros gratis en la cabina si con correa, sin límite de tamaño",
+          "petPolicyPt": "Cães grátis na cabina se com trela, sem limite de tamanho",
+          "duration": "Full half-day with the summit hike",
+          "tip": "Buy the round-trip ticket; the descending cable car has the best Mediterranean panorama and the dog rides free both ways.",
+          "tipFr": "Prenez l'aller-retour ; la descente offre le meilleur panorama méditerranéen et le chien voyage gratuitement dans les deux sens.",
+          "tipEs": "Saca ida y vuelta; la bajada ofrece el mejor panorama mediterráneo y el perro viaja gratis en ambos sentidos.",
+          "tipPt": "Compre ida-e-volta; a descida oferece o melhor panorama mediterrânico e o cão viaja grátis nos dois sentidos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Telepherique+Mont+Faron+Toulon"
+        },
+        {
+          "name": "Marché du Cours Lafayette",
+          "address": "Cours Lafayette, 83000 Toulon",
+          "neighborhood": "Vieille Ville",
+          "photo": "/images/city-places/toulon-attractions-cours-lafayette.jpg",
+          "website": "https://toulontourisme.com",
+          "description": "The great Provençal market of Toulon, running every morning except Monday along the Cours Lafayette under a canopy of plane trees. Fish, fruit, vegetables, flowers, Provençal herbs and street food: pichade, cade toulonnaise, socca, panisse. Dogs on lead are part of the daily fabric of the market; carry your own waste bags. Made famous by Gilbert Bécaud's song Les marchés de Provence.",
+          "descriptionFr": "Le grand marché provençal de Toulon, chaque matin sauf le lundi sur le Cours Lafayette sous la voûte des platanes. Poissons, fruits, légumes, fleurs, herbes de Provence et street food : pichade, cade toulonnaise, socca, panisse. Les chiens en laisse font partie du tissu quotidien du marché ; emportez vos sacs. Rendu célèbre par Les marchés de Provence de Gilbert Bécaud.",
+          "descriptionEs": "El gran mercado provenzal de Toulon, cada mañana excepto lunes en el Cours Lafayette bajo la bóveda de plátanos. Pescado, fruta, verduras, flores, hierbas de Provenza y street food: pichade, cade toulonnaise, socca, panisse. Los perros con correa son parte del tejido diario del mercado; trae tus bolsas. Hecho famoso por Les marchés de Provence de Gilbert Bécaud.",
+          "descriptionPt": "O grande mercado provençal de Toulon, todas as manhãs exceto segunda no Cours Lafayette sob a abóbada dos plátanos. Peixe, fruta, legumes, flores, ervas da Provença e street food: pichade, cade toulonnaise, socca, panisse. Os cães com trela fazem parte do tecido diário do mercado; leve os seus sacos. Tornado famoso por Les marchés de Provence de Gilbert Bécaud.",
+          "petPolicy": "Dogs on leash welcome throughout the open-air market",
+          "petPolicyFr": "Chiens en laisse bienvenus dans tout le marché en plein air",
+          "petPolicyEs": "Perros con correa bienvenidos en todo el mercado al aire libre",
+          "petPolicyPt": "Cães com trela bem-vindos em todo o mercado ao ar livre",
+          "duration": "60–90 minutes",
+          "tip": "Buy a slice of pichade and a paper cone of socca at the southern end before walking back through the stalls; the early morning light is the best.",
+          "tipFr": "Achetez une part de pichade et un cornet de socca à l'extrémité sud avant de remonter parmi les étals ; la lumière matinale est la plus belle.",
+          "tipEs": "Compra una porción de pichade y un cucurucho de socca en el extremo sur antes de volver entre los puestos; la luz matinal es la mejor.",
+          "tipPt": "Compre uma fatia de pichade e um cone de socca no extremo sul antes de voltar pelas bancas; a luz da manhã é a melhor.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cours+Lafayette+Toulon"
+        },
+        {
+          "name": "Quai Cronstadt + Place de la Liberté circuit",
+          "address": "Quai Cronstadt, 83000 Toulon",
+          "neighborhood": "Port and Vieille Ville",
+          "photo": "/images/city-places/toulon-attractions-quai-cronstadt.jpg",
+          "website": "",
+          "description": "The pedestrian and tram-served port quay between the harbour and the Vieille Ville, with frigates of the French Navy moored across the basin and the Caryatides d'Atlantes by Pierre Puget on the façade of the Musée National de la Marine. A flat 1 km loop combining the Quai Cronstadt, the Place de la Liberté with its 19th-century fountain and the Atlantes back to the Vieille Ville. Open access throughout, dogs welcome on lead.",
+          "descriptionFr": "Le quai piéton et tramway entre le port et la Vieille Ville, avec les frégates de la Marine nationale mouillées dans le bassin et les Caryatides d'Atlantes de Pierre Puget sur la façade du Musée National de la Marine. Une boucle plate de 1 km combinant le Quai Cronstadt, la Place de la Liberté avec sa fontaine du XIXe siècle et les Atlantes vers la Vieille Ville. Accès libre, chiens en laisse bienvenus.",
+          "descriptionEs": "El muelle peatonal y de tranvía entre el puerto y la Vieille Ville, con las fragatas de la Marina Nacional amarradas en la dársena y las Cariátides Atlantes de Pierre Puget en la fachada del Musée National de la Marine. Un bucle plano de 1 km combinando el Quai Cronstadt, la Place de la Liberté con su fuente del siglo XIX y los Atlantes hacia la Vieille Ville. Acceso libre, perros con correa bienvenidos.",
+          "descriptionPt": "O cais pedonal e do tram entre o porto e a Vieille Ville, com as fragatas da Marinha Nacional atracadas na doca e as Cariátides Atlantes de Pierre Puget na fachada do Musée National de la Marine. Uma volta plana de 1 km a combinar o Quai Cronstadt, a Place de la Liberté com a sua fonte do século XIX e os Atlantes em direção à Vieille Ville. Acesso livre, cães com trela bem-vindos.",
+          "petPolicy": "Open public area, leashed dogs welcome; museum interior bans dogs",
+          "petPolicyFr": "Espace public ouvert, chiens en laisse bienvenus ; intérieur du musée interdit aux chiens",
+          "petPolicyEs": "Espacio público abierto, perros con correa bienvenidos; interior del museo prohíbe perros",
+          "petPolicyPt": "Espaço público aberto, cães com trela bem-vindos; interior do museu proíbe cães",
+          "duration": "60 minutes for the loop",
+          "tip": "Best at 09:00 before the cruise crowd disembarks; the Marine museum façade has the best morning light from 09:30 to 10:30.",
+          "tipFr": "Idéal à 9h avant le débarquement des croisières ; la façade du Musée de la Marine prend la meilleure lumière entre 9h30 et 10h30.",
+          "tipEs": "Ideal a las 9:00 antes del desembarque de cruceros; la fachada del Musée de la Marine recibe la mejor luz entre 9:30 y 10:30.",
+          "tipPt": "Ideal às 9h antes do desembarque dos cruzeiros; a fachada do Musée de la Marine apanha a melhor luz entre as 9h30 e as 10h30.",
+          "googleMapsUrl": "https://maps.google.com/?q=Quai+Cronstadt+Toulon"
+        }
+      ],
+      "tipsEn": [
+        "The Mont Faron cable car is one of the rare French scenic transports to take leashed dogs free of charge; do not miss it on a clear morning.",
+        "Inside the Musée National de la Marine and the Mémorial du Débarquement, dogs other than guide and assistance dogs are banned; do the exteriors instead.",
+        "Cours Lafayette market is the most authentic Toulon experience with a dog; come Tuesday to Sunday morning, never Monday."
+      ],
+      "tipsFr": [
+        "Le téléphérique du Mont Faron est l'un des rares transports panoramiques français à embarquer les chiens en laisse gratuitement ; à ne pas manquer un matin clair.",
+        "À l'intérieur du Musée National de la Marine et du Mémorial du Débarquement, les chiens hors chiens-guides et d'assistance sont interdits ; faites les extérieurs à la place.",
+        "Le marché du Cours Lafayette est l'expérience toulonnaise la plus authentique avec un chien ; venez du mardi au dimanche matin, jamais le lundi."
+      ],
+      "tipsEs": [
+        "El teleférico del Mont Faron es uno de los raros transportes panorámicos franceses que admite perros con correa gratis; no te lo pierdas en una mañana clara.",
+        "En el interior del Musée National de la Marine y el Mémorial du Débarquement, los perros salvo guía y asistencia están prohibidos; haz los exteriores en su lugar.",
+        "El mercado del Cours Lafayette es la experiencia toulonesa más auténtica con perro; ven de martes a domingo por la mañana, nunca el lunes."
+      ],
+      "tipsPt": [
+        "O teleférico do Mont Faron é um dos raros transportes panorâmicos franceses a aceitar cães com trela grátis; não perca numa manhã clara.",
+        "No interior do Musée National de la Marine e do Mémorial du Débarquement, os cães salvo de assistência são proibidos; faça os exteriores em vez disso.",
+        "O mercado do Cours Lafayette é a experiência toulonesa mais autêntica com cão; venha de terça a domingo de manhã, nunca à segunda."
+      ],
+      "faqsEn": [
+        {"q": "Can my dog ride the Mont Faron cable car?", "a": "Yes, on a leash and free of charge, regardless of size. The official tourism office and the operator both confirm the rule."},
+        {"q": "Are dogs welcome at the Marché Cours Lafayette?", "a": "Yes, leashed dogs are part of the daily market scene. Avoid the peak Saturday hours if your dog dislikes crowds, and bring your own waste bags."},
+        {"q": "Can I visit the Naval Museum with a dog?", "a": "No, the Musée National de la Marine interior admits only guide and assistance dogs. The façade with the Atlantes statues by Pierre Puget is free public viewing on the Quai Cronstadt."}
+      ],
+      "faqsFr": [
+        {"q": "Mon chien peut-il prendre le téléphérique du Mont Faron ?", "a": "Oui, en laisse et gratuitement, quelle que soit sa taille. L'office de tourisme et l'exploitant confirment la règle."},
+        {"q": "Les chiens sont-ils bienvenus au marché du Cours Lafayette ?", "a": "Oui, les chiens en laisse font partie du quotidien du marché. Évitez les heures de pointe du samedi si votre chien n'aime pas la foule, et emportez vos sacs."},
+        {"q": "Puis-je visiter le Musée de la Marine avec mon chien ?", "a": "Non, l'intérieur du Musée National de la Marine n'admet que les chiens-guides et d'assistance. La façade aux Atlantes de Pierre Puget est en vue libre sur le Quai Cronstadt."}
+      ],
+      "faqsEs": [
+        {"q": "¿Mi perro puede subir al teleférico del Mont Faron?", "a": "Sí, con correa y gratis, sin importar el tamaño. La oficina de turismo y el operador confirman la regla."},
+        {"q": "¿Son bienvenidos los perros en el mercado del Cours Lafayette?", "a": "Sí, los perros con correa son parte del paisaje diario del mercado. Evita las horas punta del sábado si tu perro no aguanta la multitud, y trae tus bolsas."},
+        {"q": "¿Puedo visitar el Museo de la Marina con perro?", "a": "No, el interior del Musée National de la Marine solo admite perros guía y de asistencia. La fachada con los Atlantes de Pierre Puget es de vista libre en el Quai Cronstadt."}
+      ],
+      "faqsPt": [
+        {"q": "O meu cão pode andar no teleférico do Mont Faron?", "a": "Sim, com trela e grátis, qualquer que seja o tamanho. O posto de turismo e o operador confirmam a regra."},
+        {"q": "Os cães são bem-vindos no mercado do Cours Lafayette?", "a": "Sim, os cães com trela fazem parte do cenário diário do mercado. Evite as horas de ponta do sábado se o seu cão não aguenta multidões, e leve os seus sacos."},
+        {"q": "Posso visitar o Museu da Marinha com cão?", "a": "Não, o interior do Musée National de la Marine só admite cães-guia e de assistência. A fachada com os Atlantes de Pierre Puget é de vista livre no Quai Cronstadt."}
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Toulon",
+      "titleFr": "Garde et promenade de chien à Toulon",
+      "titleEs": "Cuidado y paseo de perros en Toulon",
+      "titlePt": "Cuidado e passeio de cães em Toulon",
+      "introEn": "Toulon has a healthy sitter pool through the major French and pan-European pet-sitting platforms: Gudog lists 17 verified sitters in the city at an average of 17 EUR per night, Animaute offers home-stay options with vet-supervised checks, and Rover lists over 80. Useful for the Marine museum interior, a Porquerolles boat trip on a hot day or any indoor concert at the Opéra de Toulon.",
+      "introFr": "Toulon a un solide vivier de sitters via les grandes plateformes françaises et européennes : Gudog liste 17 sitters vérifiés en ville à 17 EUR la nuit en moyenne, Animaute propose la famille d'accueil avec contrôle vétérinaire, et Rover en propose plus de 80. Pratique pour l'intérieur du Musée de la Marine, un aller-retour à Porquerolles par grosse chaleur ou un concert en intérieur à l'Opéra de Toulon.",
+      "introEs": "Toulon cuenta con un sólido plantel de cuidadores vía las grandes plataformas francesas y europeas: Gudog lista 17 cuidadores verificados en la ciudad a 17 EUR la noche de media, Animaute ofrece familia de acogida con control veterinario, y Rover propone más de 80. Útil para el interior del Museo de la Marina, una ida y vuelta a Porquerolles con mucho calor o un concierto interior en la Ópera de Toulon.",
+      "introPt": "Toulon tem uma sólida rede de cuidadores através das grandes plataformas francesas e europeias: a Gudog lista 17 cuidadores verificados na cidade a 17 EUR a noite em média, a Animaute oferece família de acolhimento com controlo veterinário, e a Rover propõe mais de 80. Útil para o interior do Museu da Marinha, uma ida-e-volta a Porquerolles com muito calor ou um concerto interior na Ópera de Toulon.",
+      "places": [
+        {
+          "name": "Gudog Toulon",
+          "address": "Online platform, Toulon 83000",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/toulon-petsitting-gudog.jpg",
+          "website": "https://gudog.fr/dog-sitters-toulon",
+          "description": "Gudog (now integrated with Rover) lists 17 verified Toulon-based sitters offering boarding, day care and walks. Average rate around 17 EUR per night for boarding. Each sitter passes a verification process covering experience, professional qualifications and previous owner reviews; only a minority of applicants are accepted.",
+          "descriptionFr": "Gudog (désormais intégré à Rover) liste 17 sitters vérifiés à Toulon proposant pension, garde de jour et promenades. Tarif moyen autour de 17 EUR par nuit en pension. Chaque sitter passe une validation couvrant expérience, qualifications professionnelles et avis des propriétaires précédents ; seule une minorité des candidats est acceptée.",
+          "descriptionEs": "Gudog (ahora integrado con Rover) lista 17 cuidadores verificados en Toulon que ofrecen pensión, guardería y paseos. Tarifa media unos 17 EUR por noche en pensión. Cada cuidador pasa una validación que cubre experiencia, cualificaciones profesionales y reseñas de propietarios anteriores; solo una minoría de candidatos es aceptada.",
+          "descriptionPt": "A Gudog (agora integrada à Rover) lista 17 cuidadores verificados em Toulon que oferecem pensão, creche e passeios. Tarifa média cerca de 17 EUR por noite em pensão. Cada cuidador passa uma validação que cobre experiência, qualificações profissionais e avaliações de proprietários anteriores; só uma minoria de candidatos é aceite.",
+          "petPolicy": "All sizes; vaccinations and microchip mandatory; insurance and 24/7 vet line included",
+          "petPolicyFr": "Toutes tailles ; vaccins et puce obligatoires ; assurance et hotline vétérinaire 24h/24 incluses",
+          "petPolicyEs": "Todos los tamaños; vacunas y microchip obligatorios; seguro y línea veterinaria 24/7 incluidos",
+          "petPolicyPt": "Todos os tamanhos; vacinas e microchip obrigatórios; seguro e linha veterinária 24/7 incluídos",
+          "services": "Boarding, day care, walks",
+          "servicesFr": "Pension, garde de jour, promenades",
+          "servicesEs": "Pensión, guardería, paseos",
+          "servicesPt": "Pensão, creche, passeios",
+          "tip": "Use the free meet-and-greet before the first overnight; an anxious dog needs to vet the new home before you leave.",
+          "tipFr": "Utilisez la rencontre préalable gratuite avant la première nuit ; un chien anxieux a besoin de valider le nouveau domicile avant votre départ.",
+          "tipEs": "Usa el encuentro previo gratuito antes de la primera noche; un perro ansioso necesita validar el nuevo hogar antes de tu salida.",
+          "tipPt": "Use o encontro prévio gratuito antes da primeira noite; um cão ansioso precisa de validar o novo lar antes da sua saída.",
+          "googleMapsUrl": "https://maps.google.com/?q=Toulon+France"
+        },
+        {
+          "name": "Rover Toulon",
+          "address": "Online platform, Toulon 83000",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/toulon-petsitting-rover.jpg",
+          "website": "https://www.rover.com/fr/toulon--provence-alpes-cote-dazur--garde-de-chien/",
+          "description": "Rover lists over 80 verified Toulon dog sitters offering boarding, day care, walks and home visits. Insurance and 24/7 vet hotline included in every booking. Profile filters cover small/medium/large dogs, garden access and home-or-host preference. Median boarding rate around 17 EUR per night.",
+          "descriptionFr": "Rover liste plus de 80 dog-sitters vérifiés à Toulon offrant pension, garde de jour, promenades et visites à domicile. Assurance et hotline vétérinaire 24h/24 incluses dans chaque réservation. Filtres profil pour petits/moyens/grands chiens, jardin, et garde à domicile ou chez l'hôte. Tarif médian pension autour de 17 EUR la nuit.",
+          "descriptionEs": "Rover lista más de 80 cuidadores verificados en Toulon que ofrecen pensión, guardería, paseos y visitas a domicilio. Seguro y línea veterinaria 24/7 incluidos en cada reserva. Filtros de perfil para perros pequeños/medianos/grandes, jardín y cuidado en casa o de anfitrión. Tarifa media de pensión unos 17 EUR/noche.",
+          "descriptionPt": "A Rover lista mais de 80 cuidadores verificados em Toulon que oferecem pensão, creche, passeios e visitas ao domicílio. Seguro e linha veterinária 24/7 incluídos em cada reserva. Filtros de perfil para cães pequenos/médios/grandes, jardim e cuidado em casa ou do anfitrião. Tarifa média de pensão cerca de 17 EUR/noite.",
+          "petPolicy": "All sizes; vaccinations and microchip mandatory; review-based vetting",
+          "petPolicyFr": "Toutes tailles ; vaccins et puce obligatoires ; validation par avis",
+          "petPolicyEs": "Todos los tamaños; vacunas y microchip obligatorios; validación por reseñas",
+          "petPolicyPt": "Todos os tamanhos; vacinas e microchip obrigatórios; validação por avaliações",
+          "services": "Boarding, day care, walks, home visits",
+          "servicesFr": "Pension, garde de jour, promenades, visites à domicile",
+          "servicesEs": "Pensión, guardería, paseos, visitas a domicilio",
+          "servicesPt": "Pensão, creche, passeios, visitas ao domicílio",
+          "tip": "Filter by 'garden + medium/large dog' for a Porquerolles day trip; the dog gets a yard while you take the boat.",
+          "tipFr": "Filtrez par 'jardin + chien moyen/grand' pour une journée Porquerolles ; le chien profite d'un jardin pendant que vous prenez le bateau.",
+          "tipEs": "Filtra por 'jardín + perro mediano/grande' para una jornada a Porquerolles; el perro disfruta de un jardín mientras tomas el barco.",
+          "tipPt": "Filtre por 'jardim + cão médio/grande' para uma jornada a Porquerolles; o cão aproveita um jardim enquanto apanha o barco.",
+          "googleMapsUrl": "https://maps.google.com/?q=Toulon+France"
+        },
+        {
+          "name": "Animaute Toulon",
+          "address": "Online platform, Toulon 83000",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/toulon-petsitting-animaute.jpg",
+          "website": "https://www.animaute.fr/garde-animaux-toulon-83000",
+          "description": "A French national pet-sitting platform with strong Provence coverage, offering home-stay boarding, day care, walks and home visits in Toulon. The platform is supervised by a veterinarian-founder and each sitter is certified by their customer service. Insurance included; vaccination and microchip required.",
+          "descriptionFr": "Une plateforme nationale française de pet-sitting avec une forte présence en Provence, proposant pension en famille d'accueil, garde de jour, promenades et visites à domicile à Toulon. La plateforme est supervisée par un fondateur vétérinaire et chaque sitter est certifié par son service client. Assurance incluse ; vaccins et puce obligatoires.",
+          "descriptionEs": "Una plataforma nacional francesa de pet-sitting con fuerte presencia en Provenza, que ofrece pensión en familia de acogida, guardería, paseos y visitas a domicilio en Toulon. La plataforma está supervisada por un fundador veterinario y cada cuidador está certificado por su servicio de atención al cliente. Seguro incluido; vacunas y microchip obligatorios.",
+          "descriptionPt": "Uma plataforma nacional francesa de pet-sitting com forte presença na Provença, que oferece pensão em família de acolhimento, creche, passeios e visitas ao domicílio em Toulon. A plataforma é supervisionada por um fundador veterinário e cada cuidador é certificado pelo seu serviço de atendimento ao cliente. Seguro incluído; vacinas e microchip obrigatórios.",
+          "petPolicy": "Home-stay model; vaccinations + microchip required; insurance and vet-supervised certification",
+          "petPolicyFr": "Modèle famille d'accueil ; vaccins + puce obligatoires ; assurance et certification supervisée par vétérinaire",
+          "petPolicyEs": "Modelo familia de acogida; vacunas + microchip obligatorios; seguro y certificación supervisada por veterinario",
+          "petPolicyPt": "Modelo família de acolhimento; vacinas + microchip obrigatórios; seguro e certificação supervisionada por veterinário",
+          "services": "Home-stay boarding, day care, walks, home visits",
+          "servicesFr": "Pension en famille d'accueil, garde de jour, promenades, visites à domicile",
+          "servicesEs": "Pensión en familia de acogida, guardería, paseos, visitas a domicilio",
+          "servicesPt": "Pensão em família de acolhimento, creche, passeios, visitas ao domicílio",
+          "tip": "Useful third option when Gudog and Rover top profiles are booked during summer peak; some Animaute sitters have garden + sea-view, premium for an older dog.",
+          "tipFr": "Bon troisième recours quand les meilleurs profils Gudog et Rover sont pris en plein été ; certains sitters Animaute ont jardin + vue mer, premium pour un chien âgé.",
+          "tipEs": "Buen tercer recurso cuando los mejores perfiles Gudog y Rover están reservados en pleno verano; algunos cuidadores Animaute tienen jardín + vista mar, premium para un perro mayor.",
+          "tipPt": "Boa terceira opção quando os melhores perfis Gudog e Rover estão reservados em pleno verão; alguns cuidadores Animaute têm jardim + vista mar, premium para um cão mais velho.",
+          "googleMapsUrl": "https://maps.google.com/?q=Toulon+France"
+        }
+      ],
+      "tipsEn": [
+        "Average sitter rate in Toulon is 17 EUR per night, one of the more affordable rates on the Côte d'Azur.",
+        "July and August saturate the sitter pool; book at least two weeks ahead.",
+        "Always do a free meet-and-greet before the first overnight; it is mandatory under most platform terms and the only way to validate the chemistry."
+      ],
+      "tipsFr": [
+        "Tarif moyen sitter à Toulon : 17 EUR la nuit, parmi les plus accessibles de la Côte d'Azur.",
+        "Juillet et août saturent l'offre ; réservez au moins deux semaines à l'avance.",
+        "Faites toujours la rencontre préalable gratuite avant la première nuit ; obligatoire chez la plupart des plateformes et seul moyen de valider la compatibilité."
+      ],
+      "tipsEs": [
+        "Tarifa media de cuidador en Toulon: 17 EUR por noche, de las más asequibles de la Costa Azul.",
+        "Julio y agosto saturan la oferta; reserva con al menos dos semanas.",
+        "Haz siempre el encuentro previo gratuito antes de la primera noche; obligatorio en la mayoría de plataformas y única forma de validar la química."
+      ],
+      "tipsPt": [
+        "Tarifa média de cuidador em Toulon: 17 EUR por noite, das mais acessíveis da Costa Azul.",
+        "Julho e agosto saturam a oferta; reserve com pelo menos duas semanas.",
+        "Faça sempre o encontro prévio gratuito antes da primeira noite; obrigatório na maioria das plataformas e única forma de validar a compatibilidade."
+      ],
+      "faqsEn": [
+        {"q": "How much does a dog sitter cost in Toulon?", "a": "About 17 EUR per night on Gudog and Rover; day care 18 to 25 EUR, walk 11 to 15 EUR. Among the more affordable rates on the Côte d'Azur."},
+        {"q": "Can a sitter cover a Porquerolles day trip?", "a": "Yes, all three platforms allow day care or a single 6-hour stay; typical price 25–30 EUR. Choose a sitter with garden access if your dog needs space."},
+        {"q": "What if my dog is anxious with strangers?", "a": "Always do a meet-and-greet beforehand. If the dog still does not settle, switch to a home-visit format (sitter comes to your hotel) rather than boarding; available on all three platforms."}
+      ],
+      "faqsFr": [
+        {"q": "Combien coûte un sitter à Toulon ?", "a": "Environ 17 EUR la nuit sur Gudog et Rover ; garde de jour 18 à 25 EUR, promenade 11 à 15 EUR. Parmi les tarifs les plus accessibles de la Côte d'Azur."},
+        {"q": "Un sitter peut-il couvrir une journée à Porquerolles ?", "a": "Oui, les trois plateformes permettent la garde de jour ou un séjour de 6h ; prix type 25-30 EUR. Choisissez un sitter avec jardin si votre chien a besoin d'espace."},
+        {"q": "Et si mon chien est anxieux avec les inconnus ?", "a": "Faites toujours la rencontre préalable. Si le chien ne se pose pas, passez à la visite à domicile (le sitter vient à votre hôtel) plutôt qu'à la pension ; disponible sur les trois plateformes."}
+      ],
+      "faqsEs": [
+        {"q": "¿Cuánto cuesta un cuidador en Toulon?", "a": "Unos 17 EUR por noche en Gudog y Rover; guardería 18 a 25 EUR, paseo 11 a 15 EUR. De las tarifas más asequibles de la Costa Azul."},
+        {"q": "¿Un cuidador puede cubrir una jornada a Porquerolles?", "a": "Sí, las tres plataformas permiten guardería o una estancia única de 6h; precio típico 25-30 EUR. Elige un cuidador con jardín si tu perro necesita espacio."},
+        {"q": "¿Y si mi perro es ansioso con desconocidos?", "a": "Haz siempre el encuentro previo. Si el perro no se asienta, cambia a la visita a domicilio (el cuidador va a tu hotel) en lugar de pensión; disponible en las tres plataformas."}
+      ],
+      "faqsPt": [
+        {"q": "Quanto custa um cuidador em Toulon?", "a": "Cerca de 17 EUR por noite na Gudog e Rover; creche 18 a 25 EUR, passeio 11 a 15 EUR. Das tarifas mais acessíveis da Costa Azul."},
+        {"q": "Um cuidador pode cobrir uma jornada a Porquerolles?", "a": "Sim, as três plataformas permitem creche ou uma estadia única de 6h; preço típico 25-30 EUR. Escolha um cuidador com jardim se o seu cão precisa de espaço."},
+        {"q": "E se o meu cão for ansioso com estranhos?", "a": "Faça sempre o encontro prévio. Se o cão não se acalmar, mude para a visita ao domicílio (o cuidador vai ao seu hotel) em vez de pensão; disponível nas três plataformas."}
+      ]
+    },
+    "tips": {
+      "titleEn": "Pet Travel Tips for Toulon",
+      "titleFr": "Conseils de voyage avec animaux à Toulon",
+      "titleEs": "Consejos de viaje con mascotas en Toulon",
+      "titlePt": "Dicas de viagem com animais para Toulon",
+      "introEn": "Toulon stands out among large French Mediterranean cities for the dog-friendliness of its hard infrastructure: a dedicated cani-plage with dog swim ramp, two fenced cani-parcs on the Mourillon, the only major French municipal network to admit large dogs on the bus and the bateau-bus, and a cable car that takes dogs free to the 584-metre Mont Faron. A few rules to know.",
+      "introFr": "Toulon se distingue parmi les grandes villes méditerranéennes françaises par les infrastructures canines : cani-plage dédiée avec rampe de baignade, deux cani-parcs clôturés sur le Mourillon, seul grand réseau urbain français à admettre les grands chiens dans les bus et bateaux-bus, et téléphérique qui emmène les chiens gratuitement aux 584 m du Mont Faron. Quelques règles à connaître.",
+      "introEs": "Toulon destaca entre las grandes ciudades mediterráneas francesas por las infraestructuras caninas: cani-plage dedicada con rampa de baño, dos cani-parques vallados en el Mourillon, única gran red urbana francesa que admite perros grandes en bus y bateau-bus, y teleférico que lleva a los perros gratis a los 584 m del Mont Faron. Algunas reglas a conocer.",
+      "introPt": "Toulon destaca-se entre as grandes cidades mediterrânicas francesas pelas infraestruturas caninas: cani-praia dedicada com rampa de banho, dois cani-parques vedados no Mourillon, única grande rede urbana francesa a aceitar cães grandes em autocarro e bateau-bus, e teleférico que leva os cães grátis aos 584 m do Mont Faron. Algumas regras a conhecer.",
+      "tips": [
+        {
+          "titleEn": "Mourillon summer rule: dogs banned from sand and lawns",
+          "titleFr": "Règle estivale du Mourillon : chiens interdits sur sable et pelouses",
+          "titleEs": "Regla estival del Mourillon: perros prohibidos en arena y céspedes",
+          "titlePt": "Regra de verão do Mourillon: cães proibidos na areia e relvados",
+          "descriptionEn": "Since the 2023 city regulation, dogs are completely banned from the Mourillon sandy beaches and the lawns even on lead, all the time. The paved Henri Fabre back-beach promenade admits leashed dogs only between 06:00 and 08:30 from 1 June to 31 August, and all day from 1 September to 31 May. The official Anse Tabarly cani-plage at the eastern end is the year-round dog swim option.",
+          "descriptionFr": "Depuis le règlement municipal 2023, les chiens sont totalement interdits sur les plages sableuses du Mourillon et les pelouses même en laisse, en permanence. La promenade Henri Fabre pavée admet les chiens en laisse uniquement de 06h à 08h30 du 1er juin au 31 août, et toute la journée du 1er septembre au 31 mai. La cani-plage officielle de l'Anse Tabarly à l'extrémité est est l'option canine annuelle.",
+          "descriptionEs": "Desde el reglamento municipal 2023, los perros están totalmente prohibidos en las playas de arena del Mourillon y los céspedes incluso con correa, en permanencia. El paseo Henri Fabre pavimentado admite perros con correa solo entre 06:00 y 08:30 del 1 de junio al 31 de agosto, y todo el día del 1 de septiembre al 31 de mayo. La cani-plage oficial de la Anse Tabarly en el extremo este es la opción canina anual.",
+          "descriptionPt": "Desde o regulamento municipal 2023, os cães estão totalmente proibidos nas praias arenosas do Mourillon e nos relvados mesmo com trela, em permanência. O passeio Henri Fabre pavimentado aceita cães com trela apenas das 06h às 08h30 de 1 de junho a 31 de agosto, e todo o dia de 1 de setembro a 31 de maio. A cani-praia oficial da Anse Tabarly no extremo leste é a opção canina anual."
+        },
+        {
+          "titleEn": "Réseau Mistral admits large dogs (rare in France)",
+          "titleFr": "Le Réseau Mistral admet les grands chiens (rare en France)",
+          "titleEs": "El Réseau Mistral admite perros grandes (raro en Francia)",
+          "titlePt": "A Réseau Mistral aceita cães grandes (raro em França)",
+          "descriptionEn": "Unusually for a French municipal network, Mistral buses and bateau-bus admit large dogs on lead with a muzzle and a paid transport ticket. Small pets in a basket and guide/assistance dogs travel free. Carry a muzzle if your dog needs one; the rule is on the official website.",
+          "descriptionFr": "Particularité rare pour un réseau municipal français, les bus et bateau-bus Mistral admettent les grands chiens en laisse muselés avec un billet payant. Petits animaux en panier et chiens-guides/assistance gratuits. Emportez une muselière si votre chien en a besoin ; la règle figure sur le site officiel.",
+          "descriptionEs": "Particularidad rara para una red municipal francesa, los buses y bateau-bus Mistral admiten perros grandes con correa, bozal y billete de pago. Pequeñas mascotas en transportín y perros guía/asistencia gratis. Lleva bozal si tu perro lo necesita; la regla está en el sitio oficial.",
+          "descriptionPt": "Particularidade rara para uma rede municipal francesa, os autocarros e bateau-bus Mistral aceitam cães grandes com trela, açaime e bilhete pago. Pequenos animais em transportadora e cães-guia/assistência grátis. Leve açaime se o seu cão precisar; a regra está no site oficial."
+        },
+        {
+          "titleEn": "Mont Faron cable car: dogs free, leash required",
+          "titleFr": "Téléphérique Mont Faron : chiens gratuits, laisse exigée",
+          "titleEs": "Teleférico Mont Faron: perros gratis, correa exigida",
+          "titlePt": "Teleférico Mont Faron: cães grátis, trela exigida",
+          "descriptionEn": "The 6-minute cable car to the 584-metre Mont Faron takes leashed dogs free of charge, with no size limit. The summit has hours of marked walking trails and a 360-degree panorama. Closes on strong mistral days; check the operator website the morning of.",
+          "descriptionFr": "Le téléphérique de 6 minutes vers les 584 m du Mont Faron embarque les chiens en laisse gratuitement, sans limite de taille. Le sommet offre des heures de sentiers balisés et un panorama à 360°. Ferme par fort mistral ; vérifiez le site de l'exploitant le matin même.",
+          "descriptionEs": "El teleférico de 6 minutos a los 584 m del Mont Faron lleva a los perros con correa gratis, sin límite de tamaño. La cima ofrece horas de senderos señalizados y panorama de 360°. Cierra con fuerte mistral; consulta el sitio del operador la misma mañana.",
+          "descriptionPt": "O teleférico de 6 minutos aos 584 m do Mont Faron leva os cães com trela grátis, sem limite de tamanho. O topo oferece horas de trilhos sinalizados e panorama de 360°. Fecha com forte mistral; consulte o site do operador na própria manhã."
+        },
+        {
+          "titleEn": "Porquerolles ferry: dogs OK, beaches banned",
+          "titleFr": "Ferry Porquerolles : chiens OK, plages interdites",
+          "titleEs": "Ferry Porquerolles: perros OK, playas prohibidas",
+          "titlePt": "Ferry Porquerolles: cães OK, praias proibidas",
+          "descriptionEn": "TLV-TVM ferries from Toulon, La Seyne or Saint-Mandrier admit leashed dogs free. Once on Porquerolles, the Parc National rules ban dogs from all beaches without exception; only the marked trails admit dogs on lead. If your dog needs a swim, do not bring it on the Porquerolles day trip; book a Toulon sitter instead.",
+          "descriptionFr": "Les ferries TLV-TVM depuis Toulon, La Seyne ou Saint-Mandrier embarquent les chiens en laisse gratuitement. Sur Porquerolles, les règles du Parc National interdisent les chiens sur toutes les plages sans exception ; seuls les sentiers balisés acceptent les chiens en laisse. Si votre chien doit nager, ne l'emmenez pas à Porquerolles ; confiez-le à un sitter à Toulon.",
+          "descriptionEs": "Los ferries TLV-TVM desde Toulon, La Seyne o Saint-Mandrier embarcan perros con correa gratis. En Porquerolles, las normas del Parque Nacional prohíben perros en todas las playas sin excepción; solo los senderos señalizados admiten perros con correa. Si tu perro necesita nadar, no lo lleves a Porquerolles; déjalo con un cuidador en Toulon.",
+          "descriptionPt": "Os ferries TLV-TVM a partir de Toulon, La Seyne ou Saint-Mandrier embarcam cães com trela grátis. Em Porquerolles, as regras do Parque Nacional proíbem cães em todas as praias sem exceção; só os trilhos sinalizados aceitam cães com trela. Se o seu cão precisa de nadar, não o leve a Porquerolles; deixe-o com um cuidador em Toulon."
+        },
+        {
+          "titleEn": "Two 24/7 vet emergency clinics in the city",
+          "titleFr": "Deux cliniques d'urgence vétérinaires 24h/24 en ville",
+          "titleEs": "Dos clínicas de urgencia veterinaria 24/7 en la ciudad",
+          "titlePt": "Duas clínicas de urgência veterinária 24/7 na cidade",
+          "descriptionEn": "Telo Vet on Avenue Pierre Loti (04 22 54 04 54) and Vétérinaires 2 Toute Urgence on the route de Marseille (04 27 04 02 70). The national 3115 line also works in the Var. Save both before arrival; mobile coverage on the Cap Brun coastal trail and parts of the Mont Faron is patchy.",
+          "descriptionFr": "Telo Vet sur l'Avenue Pierre Loti (04 22 54 04 54) et Vétérinaires 2 Toute Urgence route de Marseille (04 27 04 02 70). Le 3115 national fonctionne aussi dans le Var. Enregistrez les deux avant d'arriver ; la couverture mobile sur le Sentier du Littoral Cap Brun et certaines portions du Mont Faron est inégale.",
+          "descriptionEs": "Telo Vet en la Avenue Pierre Loti (04 22 54 04 54) y Vétérinaires 2 Toute Urgence en la route de Marseille (04 27 04 02 70). El 3115 nacional también funciona en el Var. Guarda ambos antes de llegar; la cobertura móvil en el Sentier du Littoral Cap Brun y partes del Mont Faron es desigual.",
+          "descriptionPt": "Telo Vet na Avenue Pierre Loti (04 22 54 04 54) e Vétérinaires 2 Toute Urgence na route de Marseille (04 27 04 02 70). O 3115 nacional também funciona no Var. Guarde ambos antes de chegar; a cobertura móvel no Sentier du Littoral Cap Brun e em partes do Mont Faron é irregular."
+        }
+      ]
+    }
+  }
+}

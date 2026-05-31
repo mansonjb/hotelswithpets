@@ -20151,6 +20151,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  toulon: {
+    history: {
+      fr: `Toulon, premier port militaire français en Méditerranée depuis Louis XIV, s'étire au pied du Mont Faron (584 m) sur l'une des plus belles rades du monde. Phocéens, Romains, Sarrasins, puis Vauban qui en fit en 1679 la place forte qu'on connaît : les Atlantes du quai par Pierre Puget, la Tour Royale du XVIe siècle et les fortifications de la Vieille Ville sont l'héritage de cet âge. Au XXe siècle, Toulon est tristement célèbre pour le sabordage de la flotte française en novembre 1942 pour éviter la capture nazie, et pour la libération en août 1944 commémorée au Mémorial du Débarquement au sommet du Mont Faron. Pour les voyageurs avec chien ou chat, la France impose le passeport européen, la puce ISO et la rage en cours de validité. Toulon est l'une des villes françaises les mieux équipées pour les chiens : cani-plage officielle à l'Anse Tabarly, deux cani-parcs clôturés sur le Mourillon, Réseau Mistral qui accepte officiellement les grands chiens en laisse muselés dans les bus et bateaux-bus (rareté française), et téléphérique du Mont Faron qui embarque les chiens gratuitement.`,
+      en: `Toulon, France's main Mediterranean naval port since Louis XIV, stretches at the foot of the 584-metre Mont Faron on one of the world's finest natural roadsteads. Phocaeans, Romans, Saracens, then Vauban, who in 1679 turned it into the stronghold we know today: the quay Atlantes by Pierre Puget, the 16th-century Tour Royale and the Vieille Ville fortifications are the legacy of that era. In the 20th century, Toulon is sadly famous for the scuttling of the French fleet in November 1942 to avoid Nazi capture, and for the August 1944 liberation commemorated at the Mémorial du Débarquement at the summit of Mont Faron. For travelling pets, France requires the EU pet passport, ISO microchip and a valid rabies vaccination. Toulon is one of the best-equipped French cities for dogs: official cani-plage at Anse Tabarly, two fenced cani-parcs on the Mourillon, Réseau Mistral that officially admits large leashed muzzled dogs on buses and water-buses (a French rarity), and the Mont Faron cable car that takes dogs free of charge.`,
+      es: `Toulon, principal puerto militar mediterráneo de Francia desde Luis XIV, se extiende al pie del Mont Faron de 584 m sobre una de las mejores radas naturales del mundo. Focenses, romanos, sarracenos, luego Vauban, que en 1679 la convirtió en la plaza fuerte que conocemos: las Atlantes del muelle de Pierre Puget, la Tour Royale del siglo XVI y las fortificaciones de la Vieille Ville son la herencia de esa época. En el siglo XX, Toulon es tristemente famosa por el sabotaje de la flota francesa en noviembre de 1942 para evitar la captura nazi, y por la liberación de agosto de 1944 conmemorada en el Mémorial du Débarquement en la cima del Mont Faron. Para las mascotas viajeras, Francia exige el pasaporte europeo, microchip ISO y vacunación antirrábica vigente. Toulon es una de las ciudades francesas mejor equipadas para perros: cani-plage oficial en Anse Tabarly, dos cani-parques vallados en el Mourillon, Réseau Mistral que admite oficialmente perros grandes con correa y bozal en buses y bateaux-bus (rareza francesa), y teleférico del Mont Faron que admite perros gratis.`,
+      pt: `Toulon, principal porto militar mediterrânico de França desde Luís XIV, estende-se ao pé do Mont Faron de 584 m sobre uma das melhores baías naturais do mundo. Foceus, romanos, sarracenos, depois Vauban, que em 1679 a transformou na praça-forte que conhecemos: as Atlantes do cais de Pierre Puget, a Tour Royale do século XVI e as fortificações da Vieille Ville são a herança dessa era. No século XX, Toulon é tristemente famosa pela sabotagem da frota francesa em novembro de 1942 para evitar a captura nazi, e pela libertação de agosto de 1944 comemorada no Mémorial du Débarquement no topo do Mont Faron. Para os animais em viagem, a França exige o passaporte europeu, microchip ISO e vacinação antirrábica válida. Toulon é uma das cidades francesas mais bem equipadas para cães: cani-praia oficial na Anse Tabarly, dois cani-parques vedados no Mourillon, Réseau Mistral que aceita oficialmente cães grandes com trela e açaime em autocarros e bateaux-bus (raridade francesa), e teleférico do Mont Faron que aceita cães grátis.`,
+    },
+    sights: [
+      {
+        name: `Téléphérique du Mont Faron`,
+        emoji: `🚠`,
+        petFriendly: true,
+        desc: {
+          fr: `Le téléphérique qui grimpe les 584 m du Mont Faron en 6 minutes depuis la gare basse de Super-Toulon, avec panorama à 360° sur la Méditerranée au sommet. L'office de tourisme confirme que les chiens voyagent gratuitement dans la cabine, en laisse, sans limite de taille. Ferme par fort mistral.`,
+          en: `The cable car that climbs the 584-metre Mont Faron in 6 minutes from the Super-Toulon lower station, with a 360-degree Mediterranean panorama at the top. The tourism office confirms dogs travel free in the cabin, on a leash, with no size limit. Closes on strong mistral days.`,
+          es: `El teleférico que sube los 584 m del Mont Faron en 6 minutos desde la estación inferior de Super-Toulon, con panorama de 360° del Mediterráneo arriba. La oficina de turismo confirma que los perros viajan gratis en la cabina, con correa, sin límite de tamaño. Cierra con fuerte mistral.`,
+          pt: `O teleférico que sobe os 584 m do Mont Faron em 6 minutos a partir da estação inferior de Super-Toulon, com panorama de 360° do Mediterrâneo em cima. O posto de turismo confirma que os cães viajam grátis na cabina, com trela, sem limite de tamanho. Fecha com forte mistral.`,
+        },
+      },
+      {
+        name: `Marché du Cours Lafayette`,
+        emoji: `🛒`,
+        petFriendly: true,
+        desc: {
+          fr: `Le grand marché provençal de Toulon, chaque matin sauf le lundi sous les platanes du Cours Lafayette. Poissons, fruits, légumes, fleurs, herbes de Provence et street food : pichade, cade toulonnaise, socca. Les chiens en laisse font partie du quotidien du marché ; emportez vos sacs. Rendu célèbre par la chanson Les marchés de Provence de Gilbert Bécaud.`,
+          en: `The great Provençal market of Toulon, every morning except Monday under the plane trees of the Cours Lafayette. Fish, fruit, vegetables, flowers, Provençal herbs and street food: pichade, cade toulonnaise, socca. Leashed dogs are part of the daily market scene; bring your own waste bags. Made famous by Gilbert Bécaud's song Les marchés de Provence.`,
+          es: `El gran mercado provenzal de Toulon, cada mañana excepto lunes bajo los plátanos del Cours Lafayette. Pescado, fruta, verduras, flores, hierbas de Provenza y street food: pichade, cade toulonnaise, socca. Los perros con correa son parte del paisaje diario del mercado; trae tus bolsas. Hecho famoso por la canción Les marchés de Provence de Gilbert Bécaud.`,
+          pt: `O grande mercado provençal de Toulon, todas as manhãs exceto segunda sob os plátanos do Cours Lafayette. Peixe, fruta, legumes, flores, ervas da Provença e street food: pichade, cade toulonnaise, socca. Os cães com trela fazem parte do cenário diário do mercado; leve os seus sacos. Tornado famoso pela canção Les marchés de Provence de Gilbert Bécaud.`,
+        },
+      },
+      {
+        name: `Anse Tabarly (cani-plage)`,
+        emoji: `🏖️`,
+        petFriendly: true,
+        desc: {
+          fr: `La cani-plage officielle annuelle à l'extrémité est du Mourillon, avec zone de baignade canine, rampe d'accès à l'eau pour les vieux chiens et bancs ombragés. Listée par la Ville de Toulon. Chiens en laisse à l'approche ; sans laisse autorisé uniquement dans la zone de baignade canine.`,
+          en: `The official year-round dog beach at the eastern end of the Mourillon, with a dog swim zone, a ramp into the water for older dogs and shaded benches. Listed by the City of Toulon. Dogs on lead on the approach; off-lead permitted only inside the dog swim zone.`,
+          es: `La cani-plage oficial anual en el extremo este del Mourillon, con zona de baño canino, rampa de acceso al agua para perros mayores y bancos a la sombra. Listada por el Ayuntamiento de Toulon. Perros con correa en los accesos; sin correa autorizado solo en la zona de baño canino.`,
+          pt: `A cani-praia oficial anual no extremo leste do Mourillon, com zona de banho canino, rampa de acesso à água para cães mais velhos e bancos à sombra. Listada pela Câmara de Toulon. Cães com trela nas aproximações; sem trela autorizado apenas na zona de banho canino.`,
+        },
+      },
+      {
+        name: `Sentier du Littoral (Cap Brun)`,
+        emoji: `🌊`,
+        petFriendly: true,
+        desc: {
+          fr: `Le sentier côtier autour de la presqu'île rocheuse de Cap Brun à l'est du Mourillon, totalement rouvert en 2024 après 15 ans de fermeture pour glissement. Vues falaise sur la Rade et les Îles d'Or. Chiens en laisse tolérés sur les zones rocheuses ; plages sableuses surveillées interdites aux chiens en été.`,
+          en: `The coastal trail around the rocky Cap Brun peninsula east of the Mourillon, fully reopened in 2024 after 15 years of landslide closure. Cliff views over the Rade and the Iles d'Or. Dogs on lead tolerated on rocky zones; supervised sandy beaches ban dogs in summer.`,
+          es: `El sendero costero alrededor de la península rocosa de Cap Brun al este del Mourillon, totalmente reabierto en 2024 tras 15 años de cierre por desprendimiento. Vistas de acantilado sobre la Rada y las Îles d'Or. Perros con correa tolerados en zonas rocosas; playas de arena vigiladas prohíben perros en verano.`,
+          pt: `O trilho costeiro em torno da península rochosa de Cap Brun a leste do Mourillon, totalmente reaberto em 2024 após 15 anos de encerramento por deslizamento. Vistas de falésia sobre a Baía e as Îles d'Or. Cães com trela tolerados nas zonas rochosas; praias arenosas vigiadas proíbem cães no verão.`,
+        },
+      },
+      {
+        name: `Quai Cronstadt + Caryatides d'Atlantes`,
+        emoji: `⛵`,
+        petFriendly: true,
+        desc: {
+          fr: `Le quai piéton entre le port et la Vieille Ville, avec les frégates de la Marine nationale mouillées dans la rade et les Caryatides d'Atlantes de Pierre Puget sur la façade du Musée National de la Marine. Boucle plate de 1 km accessible aux chiens en laisse à toute heure. L'intérieur du musée interdit les chiens hors chiens-guides.`,
+          en: `The pedestrian quay between the harbour and the Vieille Ville, with French Navy frigates moored in the basin and the Atlantes Caryatids by Pierre Puget on the façade of the Musée National de la Marine. Flat 1 km loop, dog-accessible on lead at any time. The museum interior bans dogs other than guide dogs.`,
+          es: `El muelle peatonal entre el puerto y la Vieille Ville, con las fragatas de la Marina Nacional amarradas en la rada y las Cariátides Atlantes de Pierre Puget en la fachada del Musée National de la Marine. Bucle plano de 1 km accesible a perros con correa a cualquier hora. El interior del museo prohíbe perros salvo guía.`,
+          pt: `O cais pedonal entre o porto e a Vieille Ville, com as fragatas da Marinha Nacional atracadas na baía e as Cariátides Atlantes de Pierre Puget na fachada do Musée National de la Marine. Volta plana de 1 km acessível a cães com trela a qualquer hora. O interior do museu proíbe cães salvo de assistência.`,
+        },
+      },
+      {
+        name: `Cani-parc du Mourillon`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          fr: `Deux enclos clôturés sans laisse installés par la Ville en 2023 sur les plages du Mourillon : un pour petits chiens, un pour moyens et grands. Bancs, point d'eau et distributeurs de sacs. Seul espace clôturé sans laisse formel à Toulon. Vaccination requise.`,
+          en: `Two fenced off-leash enclosures installed by the City in 2023 on the Mourillon beaches: one for small dogs, one for medium and large. Seating, water point and waste-bag distributors. The only formally fenced off-leash space inside Toulon. Vaccination required.`,
+          es: `Dos recintos vallados sin correa instalados por el Ayuntamiento en 2023 en las playas del Mourillon: uno para perros pequeños, uno para medianos y grandes. Bancos, punto de agua y distribuidores de bolsas. Único espacio vallado sin correa formal en Toulon. Vacunación requerida.`,
+          pt: `Dois recintos vedados sem trela instalados pela Câmara em 2023 nas praias do Mourillon: um para cães pequenos, um para médios e grandes. Bancos, ponto de água e distribuidores de sacos. Único espaço vedado sem trela formal em Toulon. Vacinação obrigatória.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le téléphérique du Mont Faron embarque les chiens en laisse gratuitement et sans limite de taille, l'un des rares grands téléphériques français à le faire.`,
+        `Le Réseau Mistral est l'un des seuls réseaux urbains français à admettre officiellement les grands chiens en laisse muselés dans les bus et bateaux-bus (billet payant) ; petits animaux en panier et chiens-guides gratuits.`,
+        `Plages du Mourillon : chiens interdits sur sable et pelouses toute l'année ; promenade Henri Fabre pavée 06h-08h30 en été (1er juin-31 août), toute la journée du 1er septembre au 31 mai. Cani-plage Anse Tabarly annuelle avec rampe canine.`,
+        `Porquerolles : ferry TLV-TVM gratuit pour les chiens en laisse, mais toutes les plages de l'île sont interdites aux chiens (règles Parc National). Sentiers uniquement.`,
+        `Deux cliniques d'urgence vétérinaires 24h/24 : Telo Vet (04 22 54 04 54) et Vétérinaires 2 Toute Urgence (04 27 04 02 70) ; 3115 national gratuit.`,
+      ],
+      en: [
+        `The Mont Faron cable car takes leashed dogs free of charge with no size limit, one of the few major French cable cars to do so.`,
+        `Réseau Mistral is one of the only French urban networks to officially admit large leashed muzzled dogs on buses and bateau-bus (paid ticket); small pets in basket and guide dogs free.`,
+        `Mourillon beaches: dogs banned from sand and lawns year-round; paved Henri Fabre promenade 06:00–08:30 in summer (1 Jun–31 Aug), all day from 1 Sep to 31 May. Year-round Anse Tabarly cani-plage with dog swim ramp.`,
+        `Porquerolles: TLV-TVM ferry free for leashed dogs, but all beaches on the island ban dogs (Parc National rules). Trails only.`,
+        `Two 24/7 vet emergency clinics: Telo Vet (04 22 54 04 54) and Vétérinaires 2 Toute Urgence (04 27 04 02 70); free national 3115 hotline.`,
+      ],
+      es: [
+        `El teleférico del Mont Faron lleva a los perros con correa gratis, sin límite de tamaño, uno de los raros grandes teleféricos franceses que lo hace.`,
+        `El Réseau Mistral es una de las únicas redes urbanas francesas que admite oficialmente perros grandes con correa y bozal en buses y bateaux-bus (billete de pago); pequeñas mascotas en transportín y perros guía gratis.`,
+        `Playas del Mourillon: perros prohibidos en arena y céspedes todo el año; paseo Henri Fabre pavimentado 06:00-08:30 en verano (1 jun-31 ago), todo el día del 1 sep al 31 mayo. Cani-plage Anse Tabarly anual con rampa canina.`,
+        `Porquerolles: ferry TLV-TVM gratis para perros con correa, pero todas las playas de la isla prohíben perros (normas Parque Nacional). Solo senderos.`,
+        `Dos clínicas de urgencia 24/7: Telo Vet (04 22 54 04 54) y Vétérinaires 2 Toute Urgence (04 27 04 02 70); 3115 nacional gratuito.`,
+      ],
+      pt: [
+        `O teleférico do Mont Faron leva os cães com trela grátis, sem limite de tamanho, um dos raros grandes teleféricos franceses a fazê-lo.`,
+        `A Réseau Mistral é uma das únicas redes urbanas francesas a aceitar oficialmente cães grandes com trela e açaime em autocarros e bateaux-bus (bilhete pago); pequenos animais em transportadora e cães-guia grátis.`,
+        `Praias do Mourillon: cães proibidos na areia e relvados todo o ano; passeio Henri Fabre pavimentado 06h-08h30 no verão (1 jun-31 ago), todo o dia de 1 set a 31 maio. Cani-praia Anse Tabarly anual com rampa canina.`,
+        `Porquerolles: ferry TLV-TVM grátis para cães com trela, mas todas as praias da ilha proíbem cães (regras Parque Nacional). Apenas trilhos.`,
+        `Duas clínicas de urgência 24/7: Telo Vet (04 22 54 04 54) e Vétérinaires 2 Toute Urgence (04 27 04 02 70); 3115 nacional gratuito.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Accès : Gare SNCF à 5 min à pied de la Vieille Ville, TGV Paris 4h, TER côtier Marseille 50 min, Nice 2h. Aéroport Toulon-Hyères (TLN) à 20 min à l'est (saisonnier) ou Marseille Provence (MRS, 1h30) pour plus d'options.`,
+        `Plages : cani-plage Anse Tabarly toute l'année (rampe canine), promenade Henri Fabre du Mourillon en laisse 06h-08h30 été et toute la journée hors été ; sable et pelouses du Mourillon interdites aux chiens en permanence (règlement 2023).`,
+        `Parcs : Mont Faron (téléphérique chiens gratuits), Cani-parc du Mourillon (deux enclos clôturés sans laisse), Sentier du Littoral Cap Brun (rouvert 2024, en laisse).`,
+        `Transports : Réseau Mistral admet officiellement les grands chiens en laisse muselés sur bus et bateau-bus (billet payant) ; petits animaux en panier et chiens-guides gratuits, rareté française.`,
+        `Vétérinaires : Telo Vet (04 22 54 04 54, Avenue Pierre Loti, 24h/24), Vétérinaires 2 Toute Urgence (04 27 04 02 70, route de Marseille, nuits + week-ends), Clinique des 4 Chemins ; 3115 national gratuit.`,
+      ],
+      en: [
+        `Getting there: SNCF station 5 min walk from the Vieille Ville, TGV to Paris 4h, coastal TER Marseille 50 min, Nice 2h. Toulon-Hyères Airport (TLN) 20 min east (seasonal) or Marseille Provence (MRS, 1h30) for more options.`,
+        `Beaches: Anse Tabarly cani-plage year-round (dog swim ramp), Mourillon Henri Fabre promenade on lead 06:00–08:30 in summer and all day outside summer; Mourillon sand and lawns banned to dogs at all times (2023 regulation).`,
+        `Parks: Mont Faron (cable car free for dogs), Cani-parc du Mourillon (two fenced off-leash enclosures), Sentier du Littoral Cap Brun (reopened 2024, on lead).`,
+        `Transport: Réseau Mistral officially admits large leashed muzzled dogs on buses and bateau-bus (paid ticket); small pets in basket and guide dogs free, a French rarity.`,
+        `Vets: Telo Vet (04 22 54 04 54, Avenue Pierre Loti, 24/7), Vétérinaires 2 Toute Urgence (04 27 04 02 70, route de Marseille, overnight + weekends), Clinique des 4 Chemins; free national 3115 hotline.`,
+      ],
+      es: [
+        `Cómo llegar: estación SNCF a 5 min a pie de la Vieille Ville, TGV a París 4h, TER costero Marsella 50 min, Niza 2h. Aeropuerto Toulon-Hyères (TLN) a 20 min al este (estacional) o Marsella Provence (MRS, 1h30) para más opciones.`,
+        `Playas: cani-plage Anse Tabarly todo el año (rampa canina), paseo Henri Fabre del Mourillon con correa 06:00-08:30 en verano y todo el día fuera de verano; arena y céspedes del Mourillon prohibidos a perros en permanencia (reglamento 2023).`,
+        `Parques: Mont Faron (teleférico perros gratis), Cani-parc du Mourillon (dos recintos vallados sin correa), Sentier du Littoral Cap Brun (reabierto 2024, con correa).`,
+        `Transporte: Réseau Mistral admite oficialmente perros grandes con correa y bozal en buses y bateau-bus (billete de pago); pequeñas mascotas en transportín y perros guía gratis, una rareza francesa.`,
+        `Veterinarios: Telo Vet (04 22 54 04 54, Avenue Pierre Loti, 24/7), Vétérinaires 2 Toute Urgence (04 27 04 02 70, route de Marseille, nocturno + fines de semana), Clinique des 4 Chemins; 3115 nacional gratuito.`,
+      ],
+      pt: [
+        `Como chegar: estação SNCF a 5 min a pé da Vieille Ville, TGV para Paris 4h, TER costeiro Marselha 50 min, Nice 2h. Aeroporto Toulon-Hyères (TLN) a 20 min a leste (sazonal) ou Marselha Provence (MRS, 1h30) para mais opções.`,
+        `Praias: cani-praia Anse Tabarly todo o ano (rampa canina), passeio Henri Fabre do Mourillon com trela 06h-08h30 no verão e todo o dia fora de verão; areia e relvados do Mourillon proibidos a cães em permanência (regulamento 2023).`,
+        `Parques: Mont Faron (teleférico cães grátis), Cani-parc du Mourillon (dois recintos vedados sem trela), Sentier du Littoral Cap Brun (reaberto 2024, com trela).`,
+        `Transportes: Réseau Mistral aceita oficialmente cães grandes com trela e açaime em autocarros e bateau-bus (bilhete pago); pequenos animais em transportadora e cães-guia grátis, uma raridade francesa.`,
+        `Veterinários: Telo Vet (04 22 54 04 54, Avenue Pierre Loti, 24/7), Vétérinaires 2 Toute Urgence (04 27 04 02 70, route de Marseille, noturno + fins-de-semana), Clinique des 4 Chemins; 3115 nacional gratuito.`,
+      ],
+    },
+  },
+
   toulouse: {
     history: {
       fr: `Toulouse, 'La Ville Rose' sur la Garonne, doit sa chaude teinte rose à la brique de terre cuite fabriquée avec l'argile du fleuve depuis l'époque romaine, où elle s'appelait Tolosa. Capitale des comtes médiévaux de Toulouse et berceau de la poésie des troubadours, elle s'enrichit au XVIe siècle grâce au commerce du pastel qui paya ses hôtels particuliers Renaissance. C'est aujourd'hui la quatrième ville de France et la capitale européenne de l'aérospatiale, siège d'Airbus et de la Cité de l'Espace. Les quais de la Garonne et le Canal du Midi du XVIIe siècle, classé UNESCO et œuvre de Pierre-Paul Riquet, forment une promenade fluviale presque ininterrompue, largement ombragée de platanes et dog-friendly. Avec la Prairie des Filtres et ses prairies sans laisse em plein centre, Toulouse figure parmi les villes françaises les plus accueillantes pour les chiens.`,

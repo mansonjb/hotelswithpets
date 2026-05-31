@@ -26,6 +26,7 @@ async function loadApiKey() {
 const TARGETS = [
   { slug: 'arles',         query: 'Arles France Roman amphitheatre Arenes Provence Camargue Rhone Van Gogh panorama sunset' },
   { slug: 'nimes',         query: 'Nimes France Arenes Roman amphitheatre Maison Carree Jardins de la Fontaine Tour Magne panorama sunset' },
+  { slug: 'toulon',        query: 'Toulon France Mediterranean port Mont Faron Mourillon beach Cote d\'Azur panorama sunset' },
   { slug: 'angers',        query: 'Angers France Chateau medieval fortress Maine river Loire Valley panorama' },
   { slug: 'ajaccio',       query: 'Ajaccio Corsica France marina old town Citadel Mediterranean panorama' },
   { slug: 'cadiz',         query: 'Cadiz Spain old town cathedral Atlantic ramparts La Caleta panorama' },

@@ -11717,6 +11717,81 @@
     "tiqetsId": "170113"
   },
   {
+    "slug": "toulon",
+    "name": "Toulon",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/toulon.jpg",
+    "intro": "Toulon stands out among large French Mediterranean cities for the dog-friendliness of its infrastructure: a dedicated cani-plage at Anse Tabarly with a dog swim ramp, two fenced cani-parcs on the Mourillon, the rare French municipal bus and bateau-bus network that admits large dogs on lead, and a Mont Faron cable car that takes dogs free to the 584-metre ridge.",
+    "lat": 43.1242,
+    "lng": 5.928,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild & dry",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      }
+    },
+    "iata": "TLN"
+  },
+  {
     "slug": "toulouse",
     "name": "Toulouse",
     "country": "France",

@@ -802,6 +802,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Mirador del Valle viewpoint with the iconic skyline panorama, the Senda Ecológica circular path along the Tagus, and the Puente de San Martín medieval bridge`,
       area: `the Casco Histórico around Plaza de Zocodover, the Judería with the El Greco Museum, and La Vega across the Puente de San Martín`,
     },
+    toulon: {
+      personality: `one of the most genuinely dog-friendly large French Mediterranean cities, with a Mont Faron cable car that takes dogs free of charge, the rare French municipal bus and bateau-bus network that admits large dogs on lead, an official Anse Tabarly cani-plage with a dog swim ramp and two fenced cani-parcs on the Mourillon`,
+      highlight: `the Mont Faron cable car summit at 584 m, the Anse Tabarly year-round cani-plage at the eastern Mourillon, and the reopened Sentier du Littoral coastal trail around Cap Brun`,
+      area: `the Vieille Ville around Cours Lafayette and Place de la Liberté, the Mourillon seafront with its cani-parcs and Anse Tabarly, and Cap Brun for the reopened coastal trail`,
+    },
     toulouse: {
       personality: 'a laid-back southwestern city of pink brick and outdoor terraces where dogs blend into everyday life along the Garonne',
       highlight: 'the banks of the Garonne, the Canal du Midi towpath, and the Prairie des Filtres riverside park',
@@ -1693,6 +1698,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la cité impériale médiévale et ancienne capitale wisigothique, mauresque et chrétienne, un musée à ciel ouvert classé UNESCO sur un éperon de granit au-dessus du Tage, avec Madrid à 33 minutes en train Avant grande vitesse`,
       highlight: `le belvédère du Mirador del Valle avec le panorama iconique sur la skyline, la Senda Ecológica circulaire le long du Tage, et le Puente de San Martín médiéval`,
       area: `le Casco Histórico autour de la Plaza de Zocodover, la Judería avec le musée El Greco, et La Vega de l'autre côté du Puente de San Martín`,
+    },
+    toulon: {
+      personality: `l'une des grandes villes méditerranéennes françaises les plus authentiquement accueillantes pour les chiens, avec un téléphérique du Mont Faron qui embarque les chiens gratuitement, le rare réseau urbain français qui admet les grands chiens en bus et bateau-bus, une cani-plage officielle à l'Anse Tabarly avec rampe de baignade et deux cani-parcs clôturés sur le Mourillon`,
+      highlight: `le sommet du Mont Faron à 584 m par téléphérique, la cani-plage annuelle de l'Anse Tabarly à l'extrémité est du Mourillon, et le Sentier du Littoral de Cap Brun rouvert en 2024`,
+      area: `la Vieille Ville autour du Cours Lafayette et de la Place de la Liberté, le front de mer du Mourillon avec ses cani-parcs et l'Anse Tabarly, et Cap Brun pour le sentier côtier`,
     },
     toulouse: {
       personality: 'une ville décontractée du sud-ouest, de briques roses et de terrasses, où les chiens se fondent dans la vie quotidienne le long de la Garonne',
@@ -2586,6 +2596,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el mirador del Mirador del Valle con el panorama icónico del skyline, la Senda Ecológica circular a lo largo del Tajo, y el Puente de San Martín medieval`,
       area: `el Casco Histórico alrededor de la Plaza de Zocodover, la Judería con el museo del Greco, y La Vega al otro lado del Puente de San Martín`,
     },
+    toulon: {
+      personality: `una de las grandes ciudades mediterráneas francesas más auténticamente acogedoras con los perros, con un teleférico del Mont Faron que admite perros gratis, la rara red urbana francesa que admite perros grandes en bus y bateau-bus, una cani-plage oficial en la Anse Tabarly con rampa de baño y dos cani-parques vallados en el Mourillon`,
+      highlight: `la cima del Mont Faron a 584 m en teleférico, la cani-plage anual de la Anse Tabarly en el extremo este del Mourillon, y el Sentier du Littoral de Cap Brun reabierto en 2024`,
+      area: `la Vieille Ville en torno al Cours Lafayette y la Place de la Liberté, el frente marítimo del Mourillon con sus cani-parques y la Anse Tabarly, y Cap Brun para el sendero costero`,
+    },
     toulouse: {
       personality: 'una ciudad relajada del suroeste de ladrillo rosa y terrazas donde los perros se integran en la vida diaria junto al Garona',
       highlight: 'las orillas del Garona, el camino de sirga del Canal du Midi y el parque ribereño de la Prairie des Filtres',
@@ -3477,6 +3492,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a cidade imperial medieval e antiga capital visigoda, morisca e cristiana, um museu al aire libre clasificado UNESCO num promontorio de granito sobre o Tajo, com Madrid a 33 minutos de comboio Avant de alta velocidad`,
       highlight: `o mirador do Mirador do Valle com o panorama icónico do skyline, a Senda Ecológica circular a lo largo do Tajo, e o Ponte de San Martín medieval`,
       area: `o Casco Histórico alrededor da Praça de Zocodover, a Judería com o museu do Greco, e A Vega al otro lado do Ponte de San Martín`,
+    },
+    toulon: {
+      personality: `uma das grandes cidades mediterrânicas francesas mais autenticamente acolhedoras com cães, com um teleférico do Mont Faron que aceita cães grátis, a rara rede urbana francesa que aceita cães grandes em autocarro e bateau-bus, uma cani-praia oficial na Anse Tabarly com rampa de banho e dois cani-parques vedados no Mourillon`,
+      highlight: `o cimo do Mont Faron a 584 m por teleférico, a cani-praia anual da Anse Tabarly no extremo leste do Mourillon, e o Sentier du Littoral de Cap Brun reaberto em 2024`,
+      area: `a Vieille Ville em torno do Cours Lafayette e da Place de la Liberté, a frente-mar do Mourillon com os seus cani-parques e a Anse Tabarly, e Cap Brun para o trilho costeiro`,
     },
     toulouse: {
       personality: 'uma cidade relajada do suroeste de ladrillo rosa e esplanadas onde os cães se integran na vida diaria junto al Garona',

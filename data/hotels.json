@@ -1400,6 +1400,158 @@
     "petPolicyPt": "Guesthouse Bernardin é um animal-friendly estabelecimento that welcomes cães e gatos. Um taxa animal de €15 por noite applies, charged em check-em. Animais são aceites até 25 kg; up para two animais per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em áreas comuns e são não permitidos sem supervisão nos quartos para extended periods. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "arles-1",
+    "name": "Hotel & Spa Jules Cesar Arles - MGallery",
+    "destinationSlug": "arles",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 1180,
+    "priceFrom": 215,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/jules-cesar.html",
+    "petFee": 13,
+    "petPolicy": "Dogs are welcome at this 5-star Christian Lacroix-designed MGallery palace for EUR 13 per dog per night, charged at check-in. The hotel does not accept cats. Pets must be kept on a lead in common areas and the cloister garden; they are not allowed in the spa or restaurant. The Jardin d'Ete park and the Arles arenes are both within a 5-minute leashed walk.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Spa and wellness centre",
+      "Garden",
+      "Free WiFi"
+    ],
+    "slug": "hotel-spa-jules-cesar-arles-mgallery"
+  },
+  {
+    "id": "arles-2",
+    "name": "L'Arlatan",
+    "destinationSlug": "arles",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 540,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/l-arlatan.html",
+    "petFee": 20,
+    "petPolicy": "Pets are welcome on request at this Cuban artist Jorge Pardo-designed boutique 5-star for around EUR 20 per night. Please notify the hotel at the time of booking with the size and number of pets. Animals must be kept on a lead in the patio and corridors and are not permitted in the breakfast room. The property's private courtyard offers a sheltered spot for a quick break before walks along the Rhone.",
+    "highlights": [
+      "Bar",
+      "Garden",
+      "Free WiFi",
+      "Air conditioning"
+    ],
+    "slug": "l-arlatan"
+  },
+  {
+    "id": "arles-3",
+    "name": "L'Hotel Particulier",
+    "destinationSlug": "arles",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 380,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/l-039-hotel-particulier.html",
+    "petFee": 25,
+    "petPolicy": "Pets are accepted on request at this 18th-century private mansion in the Roquette district for around EUR 25 per night, with advance notice required at booking. Up to one well-behaved dog or cat per room, kept on a lead in common areas. The walled garden with outdoor pool gives pets a quiet shaded place to rest between strolls through the Roquette quarter.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Garden",
+      "Spa and wellness centre",
+      "Free WiFi"
+    ],
+    "slug": "l-hotel-particulier"
+  },
+  {
+    "id": "arles-4",
+    "name": "Mercure Arles Centre Arenes",
+    "destinationSlug": "arles",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 1450,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mercure-arles-centre-arenes.html",
+    "petFee": 15,
+    "petPolicy": "Dogs and cats are welcome on request for around EUR 15 per pet per night, with size restrictions for very large dogs. The hotel sits a 3-minute walk from the Roman arenes and has a rooftop terrace where pets are not allowed; common-area leash rules apply. The Jardin d'Ete park around the Theatre Antique is a 4-minute leashed walk for morning and evening breaks.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Rooftop terrace",
+      "Restaurant",
+      "Free WiFi"
+    ],
+    "slug": "mercure-arles-centre-arenes"
+  },
+  {
+    "id": "arles-5",
+    "name": "ibis Styles Arles Palais des Congres",
+    "destinationSlug": "arles",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 2100,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mercure-arles-camargue.html",
+    "petFee": 8,
+    "petPolicy": "Pets are allowed at ibis Styles Arles Palais des Congres for around EUR 8 per pet per night, with no strict size limit. Please declare your pet at booking; animals must be kept on a lead in the lobby and corridors and are not permitted in the breakfast area. The hotel sits next to a green belt with quick walking access to the Rhone riverbank, ideal for morning routines.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free private parking",
+      "Restaurant",
+      "Free WiFi"
+    ],
+    "slug": "ibis-styles-arles-palais-des-congres"
+  },
+  {
+    "id": "arles-6",
+    "name": "Hotel La Muette",
+    "destinationSlug": "arles",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 950,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/delamuette.html",
+    "petFee": 10,
+    "petPolicy": "Pets are welcome on request at this family-run 3-star inside the Roman walls for around EUR 10 per stay, with advance notice required. The property sits 100 metres from the arenes and has a stone breakfast courtyard where small pets may join; leash rules apply in stairwells. Quiet medieval lanes around the hotel make for easy short walks before heading out for the day.",
+    "highlights": [
+      "Free WiFi",
+      "Air conditioning",
+      "Family rooms",
+      "Breakfast"
+    ],
+    "slug": "hotel-la-muette"
+  },
+  {
     "id": "athens-1",
     "name": "Hotel Grande Bretagne",
     "destinationSlug": "athens",

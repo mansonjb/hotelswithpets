@@ -33,7 +33,11 @@
           "tip": "Sit on the terrace facing Laín Calvo for the calmest spot, the inside corner can fill quickly at peak hours.",
           "tipFr": "Installez-vous en terrasse côté Laín Calvo pour le coin le plus calme, l'angle intérieur se remplit vite aux heures de pointe.",
           "tipEs": "Siéntese en la terraza hacia Laín Calvo para el rincón más tranquilo, la esquina interior se llena pronto en horas punta.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Espana+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Espana+Burgos",
+          "descriptionPt": "Um café icónico do centro abierto en 1902, famoso por o seu ambiente castellano clásico, o seu interior de época e o seu seleção de cafés, desayunos e pinchos. A esplanada da rua Laín Calvo é uma parada fiable que admite cães a poucos pasos da catedral. O personal está acostumbrado a peregrinos e viajeros que chegam com o seu cão.",
+          "petPolicyPt": "Cães admitidos en esplanada",
+          "mustTryPt": "Café com leche, pinchos castellanos",
+          "tipPt": "Siéntese na esplanada para Laín Calvo para o rincón mais tranquilo, a esquina interior se llena pronto en horas punta."
         },
         {
           "name": "Flor de Escocia",
@@ -55,7 +59,11 @@
           "tip": "Reserve the terrace for Sunday lunch in summer, locals know it and it fills early.",
           "tipFr": "Réservez la terrasse pour le déjeuner du dimanche en été, les locaux la connaissent et elle se remplit tôt.",
           "tipEs": "Reserve la terraza para la comida del domingo en verano, los locales la conocen y se llena pronto.",
-          "googleMapsUrl": "https://maps.google.com/?q=Flor+de+Escocia+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Flor+de+Escocia+Burgos",
+          "descriptionPt": "Um bar e restaurante de inspiração británica que sirve cocina casera, hamburguesas e platos abundantes num ambiente familiar relajado. A esplanada exterior admite explícitamente cães e o equipo é conocido por traer um cuenco de água. Uma parada popular para uma larga comida com tu animal cerca do centro.",
+          "petPolicyPt": "Cães admitidos na esplanada exterior",
+          "mustTryPt": "Hamburguesas, comida casera, cervezas de barril",
+          "tipPt": "Reserve a esplanada para a comida do domingo en verão, os locales a conocen e se llena pronto."
         },
         {
           "name": "Terrazas del Paseo del Espolón",
@@ -77,7 +85,11 @@
           "tip": "Go in the early evening (paseo hour) for the best atmosphere, the promenade fills with families and dogs from 19:00.",
           "tipFr": "Venez en début de soirée (heure du paseo) pour la meilleure ambiance, la promenade se remplit de familles et de chiens à partir de 19h.",
           "tipEs": "Vaya a primera hora de la tarde (hora del paseo) para el mejor ambiente, el paseo se llena de familias y perros desde las 19:00.",
-          "googleMapsUrl": "https://maps.google.com/?q=Paseo+del+Espolon+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Paseo+del+Espolon+Burgos",
+          "descriptionPt": "A alineación clásica de esplanadas a lo largo do Passeio do Espolón, o passeio histórico central entre a catedral e o rio Arlanzón. A maioria dois quioscos e esplanadas de café aceitam cães com trela al aire libre, a a sombra dois plátanos e com bancos. A opción de jantar fácil mais fiable com cão en Burgos.",
+          "petPolicyPt": "Cães com trela admitidos en esplanadas",
+          "mustTryPt": "Canhas, raciones, pinchos clásicos",
+          "tipPt": "Vaya a primera hora da tarde (hora do passeio) para o melhor ambiente, o passeio se llena de familias e cães a partir das 19:00."
         }
       ],
       "tipsEn": [
@@ -124,6 +136,23 @@
           "q": "¿Dónde están las mejores terrazas pet-friendly de Burgos?",
           "a": "Las terrazas del Paseo del Espolón y los cafés de la Plaza Mayor son las opciones clásicas, con asientos exteriores con sombra y clientela pet-friendly habitual."
         }
+      ],
+      "titlePt": "Restaurantes com animais en Burgos",
+      "introPt": "Burgos disfruta de uma cultura castellana de esplanada relajada onde os cães são ampliamente bem-vindos al aire libre, especialmente no centro histórico junto a a Catedral e pelo Passeio do Espolón. A cidade está construyendo activamente uma identidad pet-friendly e a asociación local Pet Friendly Burgos mantiene uma lista creciente de locales acogedores. A admisión en interior é a excepción, planifique as esplanadas e confirme na puerta se quiere entrar.",
+      "tipsPt": [
+        "Quédese nas esplanadas, a admisión en interior é rara nos restaurantes castellanos; as esplanadas do Espolón e da Praça Mayor são as mais fiables.",
+        "Pet Friendly Burgos publica uma lista local de locales acogedores e a actualiza com regularidad; consúltela antes de reservar.",
+        "Pida uma esplanada com sombra en julho e agosto, Burgos está a 860 m e o sol do mediodía é intenso embora a temperatura do aire sea suave."
+      ],
+      "faqsPt": [
+        {
+          "q": "Puedo entrar com mi cão nos restaurantes de Burgos?",
+          "a": "A admisión en interior é a excepción. As esplanadas são ampliamente pet-friendly no centro histórico; confirme na puerta antes de sentarse dentro."
+        },
+        {
+          "q": "Dónde estão as melhores esplanadas pet-friendly de Burgos?",
+          "a": "As esplanadas do Passeio do Espolón e os cafés da Praça Mayor são as opciones clásicas, com asientos exteriores com sombra e clientela pet-friendly habitual."
+        }
       ]
     },
     "parks": {
@@ -144,14 +173,37 @@
           "descriptionEs": "La colina arbolada sobre la catedral que corona la ciudad, con senderos sombreados, miradores panorámicos sobre el casco antiguo y uno de los mayores espacios verdes abiertos del centro de Burgos. Querida por los paseadores locales por su tamaño, su distancia del tráfico y la subida directa desde el casco histórico. Con correa en todo el recinto excepto en el recinto canino señalizado.",
           "size": "Large urban forest park",
           "offLeash": true,
-          "amenities": ["Designated dog enclosure", "Shaded forest paths", "Panoramic miradors", "Free access"],
-          "amenitiesFr": ["Enclos canin signalé", "Chemins forestiers ombragés", "Miradors panoramiques", "Accès libre"],
-          "amenitiesEs": ["Recinto canino señalizado", "Senderos forestales con sombra", "Miradores panorámicos", "Acceso libre"],
+          "amenities": [
+            "Designated dog enclosure",
+            "Shaded forest paths",
+            "Panoramic miradors",
+            "Free access"
+          ],
+          "amenitiesFr": [
+            "Enclos canin signalé",
+            "Chemins forestiers ombragés",
+            "Miradors panoramiques",
+            "Accès libre"
+          ],
+          "amenitiesEs": [
+            "Recinto canino señalizado",
+            "Senderos forestales con sombra",
+            "Miradores panorámicos",
+            "Acceso libre"
+          ],
           "openingHours": "Open daily",
           "tip": "Climb from the Arco de San Esteban for the shortest path up; the cobbled ramp gets slippery after rain, so take the stone stairs.",
           "tipFr": "Montez par l'Arco de San Esteban pour le chemin le plus court; la rampe pavée devient glissante après la pluie, prenez l'escalier en pierre.",
           "tipEs": "Suba por el Arco de San Esteban para el camino más corto; la rampa empedrada se vuelve resbaladiza tras la lluvia, tome la escalera de piedra.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+del+Castillo+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+del+Castillo+Burgos",
+          "descriptionPt": "A colina arbolada sobre a catedral que corona a cidade, com trilhos sombreados, miradores panorámicos sobre o centro histórico e uno dois mayores espacios verdes abiertos do centro de Burgos. Querida pelos paseadores locales por o seu tamanho, o seu distancia do tráfico e a subida directa a partir do casco histórico. Com trela en todo o recinto excepto no recinto canino senhalizado.",
+          "amenitiesPt": [
+            "Recinto canino senhalizado",
+            "Trilhos forestales com sombra",
+            "Miradores panorámicos",
+            "Acesso libre"
+          ],
+          "tipPt": "Suba pelo Arco de San Esteban para o camino mais corto; a rampa empedrada se vuelve resbaladiza tras a lluvia, tome a escalera de pedra."
         },
         {
           "name": "Paseo del Espolón & riverside Arlanzón",
@@ -163,14 +215,37 @@
           "descriptionEs": "El paseo fluvial emblemático de Burgos, bordeado de plátanos y bancos entre la catedral y el Arlanzón. Los perros con correa son bienvenidos en toda la longitud del paseo y los senderos ribereños conectados se extienden varios kilómetros en ambas direcciones, lo que lo convierte en el paseo largo más fácil desde cualquier hotel céntrico. Espacio público gratuito, abierto día y noche.",
           "size": "Linear riverside promenade (~3 km)",
           "offLeash": false,
-          "amenities": ["Shaded plane trees", "Benches", "Drinking fountains", "Connects to longer riverside paths"],
-          "amenitiesFr": ["Platanes ombragés", "Bancs", "Fontaines à eau", "Relie aux sentiers riverains plus longs"],
-          "amenitiesEs": ["Plátanos con sombra", "Bancos", "Fuentes de agua", "Conecta con senderos ribereños más largos"],
+          "amenities": [
+            "Shaded plane trees",
+            "Benches",
+            "Drinking fountains",
+            "Connects to longer riverside paths"
+          ],
+          "amenitiesFr": [
+            "Platanes ombragés",
+            "Bancs",
+            "Fontaines à eau",
+            "Relie aux sentiers riverains plus longs"
+          ],
+          "amenitiesEs": [
+            "Plátanos con sombra",
+            "Bancos",
+            "Fuentes de agua",
+            "Conecta con senderos ribereños más largos"
+          ],
           "openingHours": "Open 24/7",
           "tip": "Walk east along the river towards Parque Fuente Prior for a long, calm route away from city traffic.",
           "tipFr": "Marchez vers l'est le long de la rivière jusqu'au Parque Fuente Prior pour un parcours long et calme à l'écart de la circulation.",
           "tipEs": "Camine al este por el río hasta el Parque Fuente Prior para una ruta larga y tranquila lejos del tráfico.",
-          "googleMapsUrl": "https://maps.google.com/?q=Paseo+del+Espolon+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Paseo+del+Espolon+Burgos",
+          "descriptionPt": "O passeio fluvial emblemático de Burgos, bordeado de plátanos e bancos entre a catedral e o Arlanzón. Os cães com trela são bem-vindos en toda a longitud do passeio e os trilhos riberenhos conectados estendem-se varios kilómetros en ambas direcciones, lo que lo convierte no passeio largo mais fácil a partir de cualquier hotel céntrico. Espacio público gratuito, abierto dia e noite.",
+          "amenitiesPt": [
+            "Plátanos com sombra",
+            "Bancos",
+            "Fuentes de água",
+            "Conecta com trilhos riberenhos mais largos"
+          ],
+          "tipPt": "Camine al este pelo rio até o Parque Fuente Prior para uma ruta larga e tranquila lejos do tráfico."
         },
         {
           "name": "Parque de Fuentes Blancas",
@@ -182,14 +257,37 @@
           "descriptionEs": "El mayor parque forestal en las afueras de Burgos, una extensión ribereña de 6,5 km siguiendo el Arlanzón al este de la ciudad hasta la Cartuja de Miraflores. Bosque mixto, praderas de pícnic y un recinto canino vallado lo convierten en el destino de fin de semana principal para las familias con perros locales. Accesible a pie desde el centro por el sendero ribereño del Paseo de la Quinta.",
           "size": "Very large forest park (~6 km)",
           "offLeash": true,
-          "amenities": ["Fenced dog enclosure", "Riverside paths", "Picnic meadows", "Free parking"],
-          "amenitiesFr": ["Enclos canin clôturé", "Sentiers riverains", "Prairies pique-nique", "Parking gratuit"],
-          "amenitiesEs": ["Recinto canino vallado", "Senderos ribereños", "Praderas de pícnic", "Aparcamiento gratuito"],
+          "amenities": [
+            "Fenced dog enclosure",
+            "Riverside paths",
+            "Picnic meadows",
+            "Free parking"
+          ],
+          "amenitiesFr": [
+            "Enclos canin clôturé",
+            "Sentiers riverains",
+            "Prairies pique-nique",
+            "Parking gratuit"
+          ],
+          "amenitiesEs": [
+            "Recinto canino vallado",
+            "Senderos ribereños",
+            "Praderas de pícnic",
+            "Aparcamiento gratuito"
+          ],
           "openingHours": "Open daily",
           "tip": "Continue past the park to walk all the way to the Cartuja de Miraflores monastery; the grounds outside the chapel are dog-friendly.",
           "tipFr": "Continuez au-delà du parc pour marcher jusqu'au monastère de la Cartuja de Miraflores; les abords extérieurs de la chapelle sont accessibles aux chiens.",
           "tipEs": "Continúe más allá del parque para caminar hasta el monasterio de la Cartuja de Miraflores; los aledaños exteriores de la capilla son aptos para perros.",
-          "googleMapsUrl": "https://maps.google.com/?q=Fuentes+Blancas+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Fuentes+Blancas+Burgos",
+          "descriptionPt": "O mayor parque forestal nas afueras de Burgos, uma extensión riberenha de 6,5 km siguiendo o Arlanzón a leste da cidade até a Cartuja de Miraflores. Floresta mixto, pradarias de pícnic e um recinto canino vallado lo convierten no destino de fin de semana principal para as familias com cães locales. Acessível a pé a partir do centro pelo trilho riberenho do Passeio da Quinta.",
+          "amenitiesPt": [
+            "Recinto canino vallado",
+            "Trilhos riberenhos",
+            "Pradarias de pícnic",
+            "Aparcamiento gratuito"
+          ],
+          "tipPt": "Continúe mais allá do parque para caminhar até o monasterio da Cartuja de Miraflores; os aledanhos exteriores da capilla são aptos para cães."
         }
       ],
       "tipsEn": [
@@ -236,6 +334,23 @@
           "q": "¿Qué parque de Burgos es el mejor para un paseo largo?",
           "a": "El Parque de Fuentes Blancas, al este de la ciudad, ofrece una extensión ribereña arbolada de 6 km hasta el monasterio de la Cartuja de Miraflores."
         }
+      ],
+      "titlePt": "Melhores parques e áreas caninas en Burgos",
+      "introPt": "Burgos ha desplegado uma red de once áreas caninas oficiais (áreas de esparcimiento canino) por toda a cidade, além disso do clásico corredor verde do rio Arlanzón. Os espacios sem trela mais generosos são o Parque do Castelo na colina sobre a catedral e o Parque da Quinta junto al rio. A asociación Pet Friendly Burgos foi clave para impulsar al ayuntamiento a ampliar e equipar estas zonas.",
+      "tipsPt": [
+        "Hay once recintos caninos oficiais en Burgos; o ayuntamiento publica um mapa da cidade útil se se aloja fora do centro.",
+        "As bolsas de recogida no sempre estão provistas nas áreas caninas; lleve as suyas, o ayuntamiento ha hecho campanhas para reforzar a recogida.",
+        "As tardes de verão podem alcanzar 35 °C na colina; pasee pelo Parque do Castelo antes das 10:00 o depois das 19:00 en julho e agosto."
+      ],
+      "faqsPt": [
+        {
+          "q": "Podem os cães ir sem trela nos parques de Burgos?",
+          "a": "Só dentro dois once recintos caninos vallados senhalizados. No resto, incluido o Passeio do Espolón, os cães deben ir com trela."
+        },
+        {
+          "q": "Qué parque de Burgos é o melhor para um passeio largo?",
+          "a": "O Parque de Fuentes Blancas, a leste da cidade, ofrece uma extensión riberenha arbolada de 6 km até o monasterio da Cartuja de Miraflores."
+        }
       ]
     },
     "transport": {
@@ -259,7 +374,10 @@
           "tip": "If you have a medium or large dog, walk or take a taxi; the bus is not a workable option in Burgos for now.",
           "tipFr": "Avec un chien moyen ou grand, marchez ou prenez un taxi; le bus n'est pas une option viable à Burgos pour l'instant.",
           "tipEs": "Con un perro mediano o grande, camine o tome un taxi; el autobús no es una opción viable en Burgos por ahora.",
-          "website": "https://www.aytoburgos.es/-/reglamento-del-servicio-municipalizado-de-accesibilidad-movilidad-y-transportes"
+          "website": "https://www.aytoburgos.es/-/reglamento-del-servicio-municipalizado-de-accesibilidad-movilidad-y-transportes",
+          "descriptionPt": "A red de autocarros urbanos municipales. As animais pequenhas se admitem en transportadora cerrado segundo o reglamento do Serviço Municipalizado de Movilidad e Transportes; os cães grandes sem transportadora no estão admitidos a bordo. Os cães guía viajan grátis com o seu acompanhante. Caminhar é mais rápido que o autocarro no casco histórico.",
+          "petPolicyPt": "Animais pequenhas só en transportadora cerrado; cães grandes no admitidos (cães guía exentos)",
+          "tipPt": "Com um cão mediano o grande, camine o tome um taxi; o autocarro no é uma opción viable en Burgos por ahora."
         },
         {
           "name": "Renfe (Burgos-Rosa de Lima)",
@@ -274,7 +392,10 @@
           "tip": "Book the Mascota ticket directly with the human ticket on renfe.com; quotas of large dogs per train are limited.",
           "tipFr": "Réservez le billet Mascota directement avec le billet humain sur renfe.com; les quotas de grands chiens par train sont limités.",
           "tipEs": "Reserve el billete Mascota junto con el humano en renfe.com; los cupos de perros grandes por tren son limitados.",
-          "website": "https://www.renfe.com/es/en/travel/prepare-your-trip/baggage/animals"
+          "website": "https://www.renfe.com/es/en/travel/prepare-your-trip/baggage/animals",
+          "descriptionPt": "A estação principal, Burgos-Rosa de Lima, está na línea de alta velocidad AVE/Avant que conecta Madrid, Valladolid e Bilbao. Se aplican as reglas nacionales de Renfe: animais pequenhas de até 10 kg viajan grátis en transportadora cerrado; cães grandes admitidos en AVE, Avant e Larga Distancia com trela, bozal e bilhete pagado (pase Animal Renfe).",
+          "petPolicyPt": "Animais pequenhas grátis en transportadora; cães grandes admitidos en larga distancia com bilhete pagado",
+          "tipPt": "Reserve o bilhete Animal junto com o humano en renfe.com; os cupos de cães grandes por comboio são limitados."
         },
         {
           "name": "Aeropuerto de Burgos (RGS)",
@@ -289,7 +410,10 @@
           "tip": "Schedules at RGS are limited; for international arrivals, plan to fly to Bilbao or Madrid and take the AVE to Burgos in 90 min.",
           "tipFr": "Les vols à RGS sont limités; pour les arrivées internationales, prévoyez Bilbao ou Madrid et prenez l'AVE jusqu'à Burgos en 1h30.",
           "tipEs": "Los vuelos en RGS son limitados; para llegadas internacionales, prevea Bilbao o Madrid y tome el AVE hasta Burgos en 1 h 30.",
-          "website": "https://www.aena.es/en/burgos.html"
+          "website": "https://www.aena.es/en/burgos.html",
+          "descriptionPt": "O aeroporto regional de Villafría, a 4 km a leste da cidade, está operado por Aena. A política de animais sigue as reglas das aerolíneas operadoras: animais pequenhas en cabina en transportadora cerrado sob o asiento, cães grandes en bodega. Muitos viajeros vuelan a Bilbao (BIO) o Madrid (MAD) e conectan en AVE en lugar de pasar por Burgos.",
+          "petPolicyPt": "Segundo a companhia aérea operadora (cabina sob o asiento o bodega)",
+          "tipPt": "Os voos en RGS são limitados; para llegadas internacionales, prevea Bilbao o Madrid e tome o AVE até Burgos en 1 h 30."
         }
       ],
       "tipsEn": [
@@ -336,6 +460,23 @@
           "q": "¿Cuál es la forma más fácil de llegar a Burgos desde Madrid con perro?",
           "a": "El AVE desde Madrid-Chamartín llega a Burgos-Rosa de Lima en unas 1 h 35 min. Compre un billete Renfe Mascota para perros de más de 10 kg."
         }
+      ],
+      "titlePt": "Como moverse por Burgos com animal",
+      "introPt": "Burgos é compacta e muito pedonal, así que a maioria dois visitantes com cão recorren o casco histórico a pé. A red de autocarros municipales (Serviço Municipalizado de Movilidad e Transportes) admite actualmente só animais pequenhas en transportadora cerrado; os cães grandes no estão admitidos a bordo. O comboio de larga distancia (Renfe) e o aeroporto regional Aena (RGS) aplican as normas nacionales estándar. O taxi é a opción práctica para cães grandes na cidade.",
+      "tipsPt": [
+        "O casco histórico é plano e compacto; a partir da catedral chega al Espolón, a Praça Mayor e o Castelo a pé en menos de 15 minutos.",
+        "O taxi é a solución práctica para cães medianos e grandes; lleve uma manta para o asiento trasero e pregunte al taxista antes de subir.",
+        "Madrid-Burgos en AVE dura 1 h 35; Bilbao-Burgos en Alvia umas 2 h 50; ambos admitem cães com bilhete Renfe Animal."
+      ],
+      "faqsPt": [
+        {
+          "q": "Puedo subir a mi cão al autocarro en Burgos?",
+          "a": "Só se admitem animais pequenhas en transportadora cerrado na red municipal SMyT; os cães grandes no estão permitidos actualmente. Os cães guía viajan grátis."
+        },
+        {
+          "q": "Cuál é a forma mais fácil de chegar a Burgos a partir de Madrid com cão?",
+          "a": "O AVE a partir de Madrid-Chamartín chega a Burgos-Rosa de Lima en umas 1 h 35 min. Compre um bilhete Renfe Animal para cães de mais de 10 kg."
+        }
       ]
     },
     "beaches": {
@@ -366,6 +507,15 @@
           "q": "¿Hay alguna playa para perros en Burgos?",
           "a": "No. Burgos es una ciudad de interior. Las playas caninas oficiales más cercanas están en la costa cantábrica (Santander, Laredo, Castro Urdiales), a 90-120 minutos en coche al norte."
         }
+      ],
+      "titlePt": "Praias para cães perto de Burgos",
+      "introPt": "Contenido próximamente. Burgos é uma cidade de interior en Castilla e León a 860 m de altitud, a mais de 150 km da costa mais cercana (mar Cantábrico). As praias caninas verificadas mais cercanas estão na costa cantábrica en torno a Santander e Laredo, a 90-120 minutos de carro al norte pela A-67. Para refrescar al cão na cidade, o Arlanzón no Parque de Fuentes Blancas ofrece riberas de grava pouco profundas en verão.",
+      "tipsPt": [],
+      "faqsPt": [
+        {
+          "q": "Hay alguna praia para cães en Burgos?",
+          "a": "No. Burgos é uma cidade de interior. As praias caninas oficiais mais cercanas estão na costa cantábrica (Santander, Laredo, Castro Urdiales), a 90-120 minutos de carro al norte."
+        }
       ]
     },
     "vets": {
@@ -386,14 +536,37 @@
           "description": "A full reference hospital operated by the Evidensia group, open 24 hours every day of the year. The hospital offers surgery, advanced diagnostic imaging, internal medicine, neurology and hospitalisation. The most equipped emergency option in the city.",
           "descriptionFr": "Un hôpital de référence complet exploité par le groupe Evidensia, ouvert 24h/24 tous les jours de l'année. L'hôpital propose chirurgie, imagerie diagnostique avancée, médecine interne, neurologie et hospitalisation. L'option d'urgence la mieux équipée en ville.",
           "descriptionEs": "Un hospital de referencia completo operado por el grupo Evidensia, abierto 24 horas todos los días del año. El hospital ofrece cirugía, diagnóstico por imagen avanzado, medicina interna, neurología y hospitalización. La opción de urgencias mejor equipada de la ciudad.",
-          "services": ["24/7 emergencies", "Surgery & hospitalisation", "Advanced imaging", "Neurology"],
-          "servicesFr": ["Urgences 24h/24", "Chirurgie et hospitalisation", "Imagerie avancée", "Neurologie"],
-          "servicesEs": ["Urgencias 24/7", "Cirugía y hospitalización", "Imagen avanzada", "Neurología"],
+          "services": [
+            "24/7 emergencies",
+            "Surgery & hospitalisation",
+            "Advanced imaging",
+            "Neurology"
+          ],
+          "servicesFr": [
+            "Urgences 24h/24",
+            "Chirurgie et hospitalisation",
+            "Imagerie avancée",
+            "Neurologie"
+          ],
+          "servicesEs": [
+            "Urgencias 24/7",
+            "Cirugía y hospitalización",
+            "Imagen avanzada",
+            "Neurología"
+          ],
           "openingHours": "24/7, year-round",
           "tip": "Phone before arriving for an out-of-hours emergency; the team will prepare the case on the way.",
           "tipFr": "Téléphonez avant d'arriver pour une urgence hors horaires; l'équipe prépare le cas en chemin.",
           "tipEs": "Llame antes de llegar para una urgencia fuera de horario; el equipo prepara el caso en camino.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Vistalegre+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Vistalegre+Burgos",
+          "descriptionPt": "Um hospital de referencia completo operado pelo grupo Evidensia, abierto 24 horas todos os dias do ano. O hospital ofrece cirugía, diagnóstico por imagen avanzado, medicina interna, neurología e hospitalización. A opción de urgências melhor equipada da cidade.",
+          "servicesPt": [
+            "Urgências 24/7",
+            "Cirugía e hospitalización",
+            "Imagen avanzada",
+            "Neurología"
+          ],
+          "tipPt": "Llame antes de chegar para uma urgência fora de horário; o equipo prepara o caso en camino."
         },
         {
           "name": "Clínica Veterinaria Valderrama",
@@ -405,14 +578,37 @@
           "description": "A 24 hour veterinary hospital in the Gamonal district with intensive care, in-house laboratory and a team available round the clock for urgent attention. Strong reputation among local owners for fast triage and surgical capability.",
           "descriptionFr": "Un hôpital vétérinaire 24h/24 dans le quartier Gamonal avec soins intensifs, laboratoire interne et équipe disponible en permanence pour les urgences. Bonne réputation auprès des propriétaires locaux pour le tri rapide et la capacité chirurgicale.",
           "descriptionEs": "Un hospital veterinario 24 horas en el barrio Gamonal con cuidados intensivos, laboratorio propio y un equipo disponible las 24 horas para urgencias. Buena reputación entre los dueños locales por el triaje rápido y la capacidad quirúrgica.",
-          "services": ["24/7 emergencies", "Intensive care unit", "In-house laboratory", "Surgery"],
-          "servicesFr": ["Urgences 24h/24", "Unité de soins intensifs", "Laboratoire interne", "Chirurgie"],
-          "servicesEs": ["Urgencias 24/7", "Unidad de cuidados intensivos", "Laboratorio propio", "Cirugía"],
+          "services": [
+            "24/7 emergencies",
+            "Intensive care unit",
+            "In-house laboratory",
+            "Surgery"
+          ],
+          "servicesFr": [
+            "Urgences 24h/24",
+            "Unité de soins intensifs",
+            "Laboratoire interne",
+            "Chirurgie"
+          ],
+          "servicesEs": [
+            "Urgencias 24/7",
+            "Unidad de cuidados intensivos",
+            "Laboratorio propio",
+            "Cirugía"
+          ],
           "openingHours": "24/7, year-round",
           "tip": "Useful second choice if Vistalegre is at capacity; both hospitals coordinate referrals for complex cases.",
           "tipFr": "Bonne alternative si Vistalegre est à pleine capacité; les deux hôpitaux coordonnent les transferts pour les cas complexes.",
           "tipEs": "Buena alternativa si Vistalegre está al máximo; ambos hospitales coordinan derivaciones para casos complejos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Valderrama+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Valderrama+Burgos",
+          "descriptionPt": "Um hospital veterinário 24 horas no bairro Gamonal com cuidados intensivos, laboratorio propio e um equipo disponible as 24 horas para urgências. Buena reputación entre os duenhos locales pelo triaje rápido e a capacidad quirúrgica.",
+          "servicesPt": [
+            "Urgências 24/7",
+            "Unidad de cuidados intensivos",
+            "Laboratorio propio",
+            "Cirugía"
+          ],
+          "tipPt": "Buena alternativa se Vistalegre está al máximo; ambos hospitales coordinan derivaciones para casos complejos."
         },
         {
           "name": "Centro Veterinario Los Delfines",
@@ -424,14 +620,37 @@
           "description": "A long-established city-centre clinic that offers in-person 24 hour emergency cover with rotating shifts and specialised staff on call. Handy for visitors staying in the historic centre, since it is closer than the Gamonal hospitals.",
           "descriptionFr": "Un cabinet historique du centre-ville qui propose des urgences présentielles 24h/24 avec gardes tournantes et personnel spécialisé d'astreinte. Pratique pour les visiteurs logés dans le centre historique, car plus proche que les hôpitaux de Gamonal.",
           "descriptionEs": "Una clínica histórica del centro que ofrece urgencias presenciales 24 horas con guardias rotativas y personal especializado de guardia. Útil para visitantes alojados en el casco histórico, ya que está más cerca que los hospitales de Gamonal.",
-          "services": ["24h on-site emergencies", "Surgery", "General medicine", "Closer to city centre"],
-          "servicesFr": ["Urgences sur place 24h", "Chirurgie", "Médecine générale", "Plus proche du centre"],
-          "servicesEs": ["Urgencias presenciales 24 h", "Cirugía", "Medicina general", "Más cerca del centro"],
+          "services": [
+            "24h on-site emergencies",
+            "Surgery",
+            "General medicine",
+            "Closer to city centre"
+          ],
+          "servicesFr": [
+            "Urgences sur place 24h",
+            "Chirurgie",
+            "Médecine générale",
+            "Plus proche du centre"
+          ],
+          "servicesEs": [
+            "Urgencias presenciales 24 h",
+            "Cirugía",
+            "Medicina general",
+            "Más cerca del centro"
+          ],
           "openingHours": "24/7 emergencies on-site",
           "tip": "Best choice if you are based in the old town and want to walk in with a smaller dog instead of crossing the city.",
           "tipFr": "Meilleur choix si vous logez dans la vieille ville et préférez vous y rendre à pied avec un petit chien plutôt que de traverser la ville.",
           "tipEs": "Mejor opción si se aloja en el casco antiguo y prefiere ir a pie con un perro pequeño en lugar de cruzar la ciudad.",
-          "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterinario+Los+Delfines+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterinario+Los+Delfines+Burgos",
+          "descriptionPt": "Uma clínica histórica do centro que ofrece urgências presenciales 24 horas com guardias rotativas e personal especializado de guardia. Útil para visitantes alojados no casco histórico, ya que está mais cerca que os hospitales de Gamonal.",
+          "servicesPt": [
+            "Urgências presenciales 24 h",
+            "Cirugía",
+            "Medicina general",
+            "Mais cerca do centro"
+          ],
+          "tipPt": "Melhor opción se se aloja no centro histórico e prefiere ir a pé com um cão pequenho en lugar de cruzar a cidade."
         }
       ],
       "tipsEn": [
@@ -478,6 +697,23 @@
           "q": "¿Aceptan los veterinarios españoles el pasaporte europeo?",
           "a": "Sí. El pasaporte europeo, el microchip y una vacuna antirrábica válida son los documentos estándar aceptados en toda España."
         }
+      ],
+      "titlePt": "Clínicas veterinárias e urgências en Burgos",
+      "introPt": "Burgos cuenta com uma sólida cobertura veterinária, com varios hospitales de urgências 24/7 que atienden tanto a residentes como a peregrinos do Camino de Santiago. O Hospital Veterinário Vistalegre (grupo Evidensia) e a Clínica Veterinária Valderrama ofrecen urgências as 24 horas com hospitalización e cirugía. O Centro Veterinário Os Delfines ofrece urgências presenciales 24 h. Guarde al menos uno de estes números antes de chegar, sobre todo se está haciendo o Camino.",
+      "tipsPt": [
+        "Passaporte europeu, microchip e vacuna antirrábica são obrigatórios para entrar en Espanha; os viajeros do Reino Unido necesitan a partir do Brexit um Animal Health Certificate (AHC) emitido nos 10 dias previos al viaje.",
+        "A prevención de garrapatas é esencial no Camino, sobre todo nos tramos de Meseta tras Burgos; pida ao seu veterinário um tratamento de 3 meses antes de salir.",
+        "Guarde Vistalegre +34 947 22 02 22 en o seu móvil antes de entrar en Burgos; é a urgência 24 h mais activa e a a que derivan os veterinários locales."
+      ],
+      "faqsPt": [
+        {
+          "q": "Dónde está o veterinário de urgências 24 h en Burgos?",
+          "a": "Hospital Veterinário Vistalegre (+34 947 22 02 22) e Clínica Veterinária Valderrama (+34 947 22 12 12) abren 24/7. O Centro Veterinário Os Delfines ofrece urgências presenciales 24 h no centro."
+        },
+        {
+          "q": "Aceitam os veterinários espanholes o passaporte europeu?",
+          "a": "Sí. O passaporte europeu, o microchip e uma vacuna antirrábica válida são os documentos estándar aceites en toda Espanha."
+        }
       ]
     },
     "tips": {
@@ -499,7 +735,9 @@
           "tip": "Photograph the cathedral facade from the Arco de Santa María at sunset; the riverside light is the best of the day.",
           "tipFr": "Photographiez la façade de la cathédrale depuis l'Arco de Santa María au coucher du soleil; la lumière côté rivière est la meilleure de la journée.",
           "tipEs": "Fotografíe la fachada de la catedral desde el Arco de Santa María al atardecer; la luz del lado del río es la mejor del día.",
-          "googleMapsUrl": "https://maps.google.com/?q=Catedral+de+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Catedral+de+Burgos",
+          "descriptionPt": "O interior gótico Patrimonio Mundial da catedral prohíbe cães excepto os guías acreditados, mas a praça delante e as callejuelas que rodean o ábside são públicas e aptas para cães. Os melhores ángulos para fotografía e as vistas a partir do Mirador do Castelo em cima são acessíveis com trela. Organice a visita interior en relevo entre dois viajeros o com um cuidador.",
+          "tipPt": "Fotografíe a fachada da catedral a partir do Arco de Santa María al atardecer; a luz do lado do rio é a melhor do dia."
         },
         {
           "name": "Plaza Mayor & old town terraces",
@@ -512,7 +750,9 @@
           "tip": "Sit on the side facing south for sun in spring and autumn; the arcades stay cool in summer.",
           "tipFr": "Installez-vous côté sud pour le soleil au printemps et en automne; les arcades restent fraîches en été.",
           "tipEs": "Siéntese en el lado sur para el sol en primavera y otoño; los soportales se mantienen frescos en verano.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plaza+Mayor+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Plaza+Mayor+Burgos",
+          "descriptionPt": "A praça mayor porticada de Burgos, com esplanadas sob as columnatas que dan sombra en verão e abrigo do viento en inverno. Os cães com trela são bem-vindos nas esplanadas exteriores. Uma base segura e céntrica para uma pausa entre passeios.",
+          "tipPt": "Siéntese no lado sur para o sol en primavera e outono; os soportales se mantienen frescos en verão."
         },
         {
           "name": "Camino de Santiago crossing point",
@@ -525,7 +765,9 @@
           "tip": "Pilgrim associations issue a Canine Compostela (Perregrina) for dogs that complete the Camino; ask at the cathedral pilgrim office in Burgos.",
           "tipFr": "Les associations de pèlerins délivrent une Compostela Canine (Perregrina) pour les chiens qui terminent le Camino; renseignez-vous au bureau du pèlerin de la cathédrale à Burgos.",
           "tipEs": "Las asociaciones jacobeas emiten una Compostela Canina (Perregrina) para los perros que completan el Camino; pregunte en la oficina del peregrino junto a la catedral de Burgos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Iglesia+San+Lesmes+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Iglesia+San+Lesmes+Burgos",
+          "descriptionPt": "Burgos é o final da etapa 12 (o 13) do Camino Francês, a ruta jacobea mais recorrida de Europa. O trazado oficial entra na cidade pelo Ponte Malatos e sigue a rua San Juan ante a igreja de San Lesmes, recorrido exterior totalmente apto para cães. Muitos albergues de peregrinos no admitem cães, reserve habitaciones privadas com antelación se chega a pé.",
+          "tipPt": "As asociaciones jacobeas emiten uma Compostela Canina (Perregrina) para os cães que completan o Camino; pregunte na oficina do peregrino junto a a catedral de Burgos."
         }
       ],
       "tipsEn": [
@@ -572,6 +814,23 @@
           "q": "¿Cuándo es la mejor época para visitar Burgos con perro?",
           "a": "De mayo a mediados de junio y de mediados de septiembre a mediados de octubre son las condiciones más cómodas: días suaves, noches frescas, menos gente. Evite el calor del mediodía en julio-agosto y las semanas nevadas de enero-febrero."
         }
+      ],
+      "titlePt": "Consejos prácticos para visitar Burgos com animal",
+      "introPt": "Burgos está a 860 m de altitud na meseta castellana central, lo que le da um clima ligeramente continental: dias cálidos de verão com noites frescas, e inviernos francamente frios com nieve frecuente en janeiro e fevereiro. A cidade é compacta e muito pedonal, o casco histórico é llano e encontrará fuentes de água e plátanos com sombra a lo largo do rio. A mayor cuestión de planificación é a Catedral de Burgos en sí, os cães (excepto os guías acreditados) no estão admitidos no interior; para visitar o interior gótico Patrimonio Mundial, organice um cuidador o um relevo.",
+      "tipsPt": [
+        "O interior da Catedral de Burgos no admite cães excepto os guías acreditados; organice um cuidador o um relevo se os dois viajeros quieren visitar.",
+        "As aceras podem estar resbaladizas tras a nieve o a lluvia de inverno; as rampas empedradas até o Castelo são especialmente traicioneras para cães mayores, tome a escalera de pedra.",
+        "O UV das tardes de verão a 860 m é intenso embora a temperatura do aire sea moderada; pasee antes das 11:00 o depois das 18:00 en julho e agosto."
+      ],
+      "faqsPt": [
+        {
+          "q": "Podem os cães entrar na Catedral de Burgos?",
+          "a": "Só os cães guía acreditados estão admitidos no interior. A praça, as callejuelas de alrededor e o Mirador do Castelo em cima são aptos para cães."
+        },
+        {
+          "q": "Cuándo é a melhor época para visitar Burgos com cão?",
+          "a": "De maio a mediados de junho e de mediados de setembro a mediados de outubro são as condições mais cómodas: dias suaves, noites frescas, menos gente. Evite o calor do mediodía en julho-agosto e as semanas nevadas de janeiro-fevereiro."
+        }
       ]
     },
     "attractions": {
@@ -597,7 +856,10 @@
           "tip": "Climb late afternoon for the cathedral spires lit by golden light; the path is shaded most of the way up.",
           "tipFr": "Montez en fin d'après-midi pour les flèches de la cathédrale en lumière dorée; le chemin est ombragé la majorité du temps.",
           "tipEs": "Suba a última hora de la tarde para ver las agujas de la catedral con luz dorada; el camino está sombreado la mayor parte del trayecto.",
-          "googleMapsUrl": "https://maps.google.com/?q=Mirador+del+Castillo+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Mirador+del+Castillo+Burgos",
+          "descriptionPt": "O mirador panorámico sobre a catedral e o casco histórico, na colina arbolada do antigo castelo. Se accede a pé pela escalera de pedra a partir do Arco de San Esteban. Recinto público totalmente abierto com cães admitidos com trela, uno dois melhores panoramas gratuitos de cualquier cidade UNESCO espanhola.",
+          "petPolicyPt": "Espacio exterior, cães com trela admitidos",
+          "tipPt": "Suba a última hora da tarde para ver as agujas da catedral com luz dorada; o camino está sombreado a mayor parte do trayecto."
         },
         {
           "name": "Cartuja de Miraflores (grounds)",
@@ -614,7 +876,10 @@
           "tip": "Walk all the way from the Espolón along the Arlanzón, it is about 5 km one way and almost entirely along the river.",
           "tipFr": "Marchez depuis l'Espolón le long de l'Arlanzón, environ 5 km aller, presque entièrement en bord de rivière.",
           "tipEs": "Camine desde el Espolón siguiendo el Arlanzón, unos 5 km de ida casi todo el trayecto junto al río.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cartuja+de+Miraflores+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Cartuja+de+Miraflores+Burgos",
+          "descriptionPt": "Um monasterio cartujo do século XV a 4 km al este do centro, rodeado de robledal al final do passeio riberenho do Parque de Fuentes Blancas. O interior da capilla (entrada libre) no admite cães, mas o camino arbolado e os aledanhos do claustro são acessíveis. Um largo passeio apacible a partir do centro.",
+          "petPolicyPt": "Aledanhos aptos para cães; interior da capilla no admitido",
+          "tipPt": "Camine a partir do Espolón siguiendo o Arlanzón, uns 5 km de ida casi todo o trayecto junto al rio."
         },
         {
           "name": "Monasterio de Las Huelgas (exterior)",
@@ -631,7 +896,10 @@
           "tip": "Combine with a riverside walk back to the centre via the Arlanzón south bank for a 6 km loop.",
           "tipFr": "Combinez avec un retour riverain au centre par la rive sud de l'Arlanzón pour une boucle de 6 km.",
           "tipEs": "Combine con la vuelta por la ribera sur del Arlanzón hasta el centro para un circuito de 6 km.",
-          "googleMapsUrl": "https://maps.google.com/?q=Monasterio+de+Las+Huelgas+Burgos"
+          "googleMapsUrl": "https://maps.google.com/?q=Monasterio+de+Las+Huelgas+Burgos",
+          "descriptionPt": "Um monasterio real cisterciense do século XII fundado por Leonor de Aquitania, ainda habitado por uma comunidad de monjas. O interior só se visita com visita guiada sem cães, mas o recinto exterior e o parque circundante são totalmente aptos para cães, a 25 minutos a pé a oeste da catedral.",
+          "petPolicyPt": "Recinto exterior apto para cães; visita guiada interior no admitida",
+          "tipPt": "Combine com a vuelta pela ribera sur do Arlanzón até o centro para um circuito de 6 km."
         }
       ],
       "tipsEn": [
@@ -678,6 +946,23 @@
           "q": "¿Hay atracciones interiores pet-friendly en Burgos?",
           "a": "La mayoría de los museos e iglesias no admiten mascotas. Planifique las visitas interiores en relevo entre viajeros, o use un cuidador Gudog/Rover unas horas."
         }
+      ],
+      "titlePt": "Atracciones aptas para animais en Burgos",
+      "introPt": "Burgos se articula en torno ao seu catedral gótica Patrimonio Mundial, mas a cidade ofrece numerosas atracciones que se podem explorar com um cão com trela. Os exteriores e aledanhos dois grandes monasterios castellanos, o Castelo panorámico sobre a catedral e o passeio riberenho até a Cartuja de Miraflores são aptos para cães. Os interiores dois monasterios e o Museu da Evolución Humana estão vedados, organícese en torno al itinerario exterior pet-friendly.",
+      "tipsPt": [
+        "A maioria dois sitios religiosos interiores de Burgos excluyen cães excepto guías acreditados; planifique os interiores dois grandes monasterios en relevo.",
+        "A praça da catedral, o mirador do Castelo e os aledanhos da Cartuja de Miraflores são espacios exteriores públicos gratuitos aptos para cães.",
+        "O Museu da Evolución Humana (sitio de Atapuerca) no admite cães; o parque riberenho exterior sí é apto."
+      ],
+      "faqsPt": [
+        {
+          "q": "Puedo visitar a Cartuja de Miraflores com mi cão?",
+          "a": "Os aledanhos exteriores da capilla são aptos para cães, mas o interior da capilla no admite cães. A aproximación pelo Parque de Fuentes Blancas é um dois os melhores passeios de Burgos."
+        },
+        {
+          "q": "Hay atracciones interiores pet-friendly en Burgos?",
+          "a": "A maioria dois museus e igrejas no admitem animais. Planifique as visitas interiores en relevo entre viajeros, o use um cuidador Gudog/Rover umas horas."
+        }
       ]
     },
     "petsitting": {
@@ -704,7 +989,10 @@
           "tip": "Book at least 48 hours ahead in summer; centro and Gamonal sitters are the most convenient for the historic centre.",
           "tipFr": "Réservez au moins 48 h à l'avance en été; les sitters du Centro et de Gamonal sont les plus pratiques pour le centre historique.",
           "tipEs": "Reserve al menos 48 h antes en verano; los cuidadores del Centro y Gamonal son los más prácticos para el casco histórico.",
-          "googleMapsUrl": "https://gudog.com/cuidadores-de-perros-burgos"
+          "googleMapsUrl": "https://gudog.com/cuidadores-de-perros-burgos",
+          "descriptionPt": "A mayor plataforma de pet care en Espanha, ahora operada por Rover. Anuncios de alojamento nocturno, guardería de dia e passeios en Burgos com cuidadores privados verificados. Só o 13% dois candidatos são aprobados, os perfiles estão filtrados. Útil para uma visita de última hora al interior da catedral o al museu de Atapuerca.",
+          "petPolicyPt": "Cuidadores privados verificados com seguro",
+          "tipPt": "Reserve al menos 48 h antes en verão; os cuidadores do centro e Gamonal são os mais prácticos para o casco histórico."
         },
         {
           "name": "Rover Burgos",
@@ -722,7 +1010,10 @@
           "tip": "Filter by 'cerca del centro' to find hosts close to the cathedral; helpful if you only need a 2-3 hour relay.",
           "tipFr": "Filtrez sur 'cerca del centro' pour trouver des hôtes proches de la cathédrale; pratique pour un relais de 2-3 heures seulement.",
           "tipEs": "Filtre por 'cerca del centro' para encontrar anfitriones cerca de la catedral; útil para un relevo de solo 2-3 horas.",
-          "googleMapsUrl": "https://www.rover.com/es/burgos--castilla-y-leon--guarderia-canina/"
+          "googleMapsUrl": "https://www.rover.com/es/burgos--castilla-y-leon--guarderia-canina/",
+          "descriptionPt": "A filial espanhola de Rover ofrece guardería de dia verificada, passeios e alojamento en domicilio en Burgos. O sistema de reserva, as resenhas e o seguro siguen as mismas reglas que no resto de Espanha. Usado tanto por residentes como por peregrinos do Camino que necesitan umas horas de cuidado para visitar a catedral o os restaurantes.",
+          "petPolicyPt": "Anfitriones verificados com seguro e resenhas",
+          "tipPt": "Filtre por 'cerca do centro' para encontrar anfitriones perto da catedral; útil para um relevo de só 2-3 horas."
         }
       ],
       "tipsEn": [
@@ -768,6 +1059,23 @@
         {
           "q": "¿Están asegurados los cuidadores en Burgos?",
           "a": "Sí. Gudog y Rover incluyen un seguro de responsabilidad civil para las estancias reservadas, y solo los cuidadores verificados pueden publicar anuncio."
+        }
+      ],
+      "titlePt": "Cuidadores e paseadores en Burgos",
+      "introPt": "Burgos cuenta com um mercado activo de pet care nas principales plataformas espanholas Gudog e Rover, com cuidadores verificados que ofrecen alojamento, guardería de dia e passeios por toda a cidade. Guardería de dia a partir de uns 10 €/dia, passeios a partir de 6-8 €, alojamento nocturno en torno a 18 €/noite. Útil para as horas en que visita o interior da catedral, os monasterios o o museu de Atapuerca, todos vedados aos cães.",
+      "tipsPt": [
+        "Tarifas medias en Burgos: passeios 6-8 €, guardería 10-19 €, noite 18 €/noite; reserve com antelación en Semana Santa, julho e agosto.",
+        "Envíe a cartilla de vacinação e o número de microchip al reservar; os cuidadores serios en Espanha lo piden sempre.",
+        "Se está haciendo o Camino e necesita uma parada de um dia, a guardería é a opción mais sencilla, muito mais fácil que encontrar um albergue que admita cães."
+      ],
+      "faqsPt": [
+        {
+          "q": "Cuánto cuesta a guardería canina en Burgos?",
+          "a": "A guardería ronda os 10-19 € por dia en Gudog e Rover, e a maioria dois cuidadores ofrecen recogida o entrega no centro."
+        },
+        {
+          "q": "Estão asegurados os cuidadores en Burgos?",
+          "a": "Sí. Gudog e Rover incluem um seguro de responsabilidad civil para as estadias reservadas, e só os cuidadores verificados podem publicar anuncio."
         }
       ]
     }

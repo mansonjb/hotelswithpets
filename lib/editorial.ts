@@ -71,6 +71,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Rivierenhof park, the Schelde riverside promenade, and the Nachtegalenpark',
       area: 'the Old Town, Zurenborg, and the Zuid',
     },
+    arles: {
+      personality: `the southern terminus of the Provence Roman triangle, a compact UNESCO town where the 1st-century Arènes still host the Easter Feria, where the official tourism office publishes its own dog-travel page, and where the Camargue wild beaches sit 30 minutes south for off-leash running`,
+      highlight: `the Place du Forum and Van Gogh sightlines, the Allée des Alyscamps painted by Van Gogh and Gauguin, and the Camargue Plage de Beauduc 40 minutes south`,
+      area: `the intra-muros around the Arènes and Place du Forum, the Trinquetaille right bank of the Rhône, and the Roquette quarter near the Boulevard des Lices`,
+    },
     athens: {
       personality: 'a sun-drenched Mediterranean capital that surprises pet travellers with its walkable neighbourhoods and a growing boutique hotel scene that welcomes dogs year-round',
       highlight: 'the National Garden, Filopappou Hill, and the coastal promenade at Faliro',
@@ -954,6 +959,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le parc Rivierenhof, la promenade riveraine de l\'Escaut et le Nachtegalenpark',
       area: 'la Vieille Ville, Zurenborg et le Zuid',
     },
+    arles: {
+      personality: `le terminus sud du triangle romain de Provence, une petite ville UNESCO où les Arènes du Ier siècle accueillent encore la Feria de Pâques, où l'office de tourisme publie sa propre page dédiée aux voyageurs canins, et où les plages sauvages de Camargue sont à 30 minutes au sud pour la course libre`,
+      highlight: `la Place du Forum et les perspectives Van Gogh, l'Allée des Alyscamps peinte par Van Gogh et Gauguin, et la Plage de Beauduc en Camargue à 40 minutes au sud`,
+      area: `l'intra-muros autour des Arènes et de la Place du Forum, la rive droite du Rhône à Trinquetaille et le quartier de la Roquette près du Boulevard des Lices`,
+    },
     athens: {
       personality: 'une capitale méditerranéenne ensoleillée qui surprend les voyageurs avec animaux par ses quartiers praticables et une scène hôtelière boutique accueillant les chiens toute l\'année',
       highlight: 'le Jardin National, la colline de Filopappou et la promenade côtière de Faliro',
@@ -1836,6 +1846,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el parque Rivierenhof, el paseo ribereño del Escalda y el Nachtegalenpark',
       area: 'el Casco Antiguo, Zurenborg y el Zuid',
     },
+    arles: {
+      personality: `el terminal sur del triángulo romano de Provenza, una pequeña ciudad UNESCO donde las Arenas del siglo I aún acogen la Feria de Pascua, donde la oficina de turismo publica su propia página dedicada a viajeros caninos, y donde las playas salvajes de la Camarga quedan a 30 minutos al sur para la carrera libre`,
+      highlight: `la Place du Forum y las perspectivas Van Gogh, la Allée des Alyscamps pintada por Van Gogh y Gauguin, y la Plage de Beauduc en la Camarga a 40 minutos al sur`,
+      area: `el intramuros en torno a las Arenas y la Place du Forum, la orilla derecha del Ródano en Trinquetaille y el barrio de la Roquette junto al Boulevard des Lices`,
+    },
     athens: {
       personality: 'una capital mediterránea bañada por el sol que sorprende a los viajeros con mascotas con sus barrios transitables y una creciente escena de hoteles boutique que acogen perros todo el año',
       highlight: 'el Jardín Nacional, la colina de Filopappou y el paseo costero de Faliro',
@@ -2717,6 +2732,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital da moda de Bélgica e uma dos seus cidades mais pet-friendly. Com amplios parques riberenhos, esplanadas acogedoras para cães e um floreciente sector de hotéis boutique',
       highlight: 'o parque Rivierenhof, o passeio riberenho do Escalda e o Nachtegalenpark',
       area: 'o Centro histórico, Zurenborg e o Zuid',
+    },
+    arles: {
+      personality: `o terminal sul do triângulo romano de Provença, uma pequena cidade UNESCO onde as Arenas do século I ainda acolhem a Feria da Páscoa, onde o posto de turismo publica a sua própria página dedicada a viajantes caninos, e onde as praias selvagens da Camarga ficam a 30 minutos a sul para a corrida livre`,
+      highlight: `a Place du Forum e as perspectivas Van Gogh, a Allée des Alyscamps pintada por Van Gogh e Gauguin, e a Plage de Beauduc na Camarga a 40 minutos a sul`,
+      area: `o intramuros à volta das Arenas e da Place du Forum, a margem direita do Ródano em Trinquetaille e o bairro da Roquette junto ao Boulevard des Lices`,
     },
     athens: {
       personality: 'uma capital mediterrânea banhada pelo sol que sorprende aos viajeros com animais com os seus bairros transitables e uma creciente escena de hotéis boutique que acogen cães o ano inteiro',

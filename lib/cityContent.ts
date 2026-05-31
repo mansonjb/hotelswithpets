@@ -1099,6 +1099,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  arles: {
+    history: {
+      fr: `Arles, fondée par les Grecs puis devenue capitale impériale romaine après que Constantin y résida au IVe siècle, conserve l'un des plus extraordinaires patrimoines antiques de France : amphithéâtre, théâtre antique, cryptoportiques et nécropole des Alyscamps, classés ensemble au patrimoine mondial de l'UNESCO en 1981. Au XIXe siècle, Vincent van Gogh y peignit plus de 300 œuvres en quinze mois, immortalisant la Place du Forum, le Pont de Langlois et les champs de tournesols, avant son hospitalisation à l'Hôtel-Dieu de la ville. Pour les voyageurs avec chien ou chat, la France impose le passeport européen, la puce électronique ISO et la rage en cours de validité. L'office de tourisme d'Arles publie l'une des rares pages dédiées aux voyageurs canins de France : les chiens doivent être en laisse partout en ville, sont interdits dans les monuments et musées payants (sauf chiens-guides et d'assistance), et environ trente distributeurs de sacs sont installés dans le centre historique. Les plages sauvages de Camargue, à 30 à 45 minutes au sud, complètent l'offre.`,
+      en: `Arles, founded by the Greeks and later a Roman imperial capital after Constantine resided there in the 4th century, holds one of France's most extraordinary collections of antique remains: amphitheatre, antique theatre, cryptoporticus and the Alyscamps necropolis, jointly inscribed on the UNESCO World Heritage list in 1981. In the 19th century, Vincent van Gogh painted more than 300 works here in fifteen months, immortalising Place du Forum, the Langlois Bridge and the sunflower fields, before his hospitalisation at the city's Hôtel-Dieu. For travelling pets, France requires the EU pet passport, ISO microchip and a valid rabies vaccination. The Arles tourism office publishes one of the few dedicated dog-travel pages in France: dogs must be leashed everywhere in town, are banned from inside paying monuments and museums (except guide and assistance dogs), and around thirty waste-bag distributors are installed across the historic centre. The wild Camargue beaches 30 to 45 minutes south complete the picture.`,
+      es: `Arles, fundada por los griegos y más tarde capital imperial romana tras la estancia de Constantino en el siglo IV, conserva uno de los conjuntos antiguos más extraordinarios de Francia: anfiteatro, teatro antiguo, criptopórticos y necrópolis de los Alyscamps, inscritos juntos en el Patrimonio Mundial de la UNESCO en 1981. En el siglo XIX, Vincent van Gogh pintó aquí más de 300 obras en quince meses, inmortalizando la Place du Forum, el Puente de Langlois y los campos de girasoles, antes de su hospitalización en el Hôtel-Dieu de la ciudad. Para las mascotas viajeras, Francia exige el pasaporte europeo, microchip ISO y vacunación antirrábica vigente. La oficina de turismo de Arles publica una de las raras páginas dedicadas a viajeros caninos en Francia: los perros deben ir con correa en toda la ciudad, están prohibidos dentro de monumentos y museos de pago (salvo perros guía y de asistencia), y hay unos treinta distribuidores de bolsas en el casco histórico. Las playas salvajes de la Camarga a 30-45 minutos al sur completan la oferta.`,
+      pt: `Arles, fundada pelos gregos e mais tarde capital imperial romana após a estadia de Constantino no século IV, conserva um dos mais extraordinários conjuntos antigos de França: anfiteatro, teatro antigo, criptopórticos e necrópole dos Alyscamps, inscritos em conjunto no Património Mundial da UNESCO em 1981. No século XIX, Vincent van Gogh pintou aqui mais de 300 obras em quinze meses, imortalizando a Place du Forum, a Ponte de Langlois e os campos de girassóis, antes da sua hospitalização no Hôtel-Dieu da cidade. Para os animais em viagem, a França exige o passaporte europeu, microchip ISO e vacinação antirrábica válida. O posto de turismo de Arles publica uma das raras páginas dedicadas a viajantes caninos em França: os cães devem estar com trela em toda a cidade, são proibidos dentro de monumentos e museus pagos (salvo cães-guia e de assistência), e existem cerca de trinta distribuidores de sacos no centro histórico. As praias selvagens da Camarga a 30-45 minutos a sul completam a oferta.`,
+    },
+    sights: [
+      {
+        name: `Arènes d'Arles (Amphithéâtre romain)`,
+        emoji: `🏛️`,
+        petFriendly: false,
+        desc: {
+          fr: `L'amphithéâtre romain du Ier siècle qui accueille encore la Feria de Pâques chaque année est l'icône visuelle d'Arles. L'office de tourisme est explicite : les chiens hors chiens-guides et d'assistance ne sont PAS admis à l'intérieur. Le tour extérieur gratuit, avec ses deux étages d'arcades, est en revanche ouvert aux chiens en laisse et offre la meilleure perspective sur la vieille ville.`,
+          en: `The 1st-century Roman amphitheatre, which still hosts the Easter Feria every year, is the visual icon of Arles. The tourism office is explicit: dogs other than guide and assistance dogs are NOT admitted inside. The free outer circuit, with its two tiers of arcades, is however open to leashed dogs and offers the best view of the old town.`,
+          es: `El anfiteatro romano del siglo I, que aún acoge la Feria de Pascua cada año, es el icono visual de Arles. La oficina de turismo es explícita: los perros salvo guía y asistencia NO se admiten dentro. El recorrido exterior gratuito, con sus dos pisos de arcadas, sí está abierto a perros con correa y ofrece la mejor vista del casco antiguo.`,
+          pt: `O anfiteatro romano do século I, que ainda acolhe a Feria da Páscoa todos os anos, é o ícone visual de Arles. O posto de turismo é explícito: os cães salvo de assistência NÃO são admitidos dentro. O percurso exterior gratuito, com os seus dois pisos de arcadas, está aberto a cães com trela e oferece a melhor vista do centro histórico.`,
+        },
+      },
+      {
+        name: `Place du Forum (Café Van Gogh)`,
+        emoji: `🎨`,
+        petFriendly: true,
+        desc: {
+          fr: `La place peinte par Van Gogh dans la Terrasse du café le soir, avec la même marquise ocre encore en place. Platanes, cafés sur trois côtés et place pavée ouverte au centre. Les chiens en laisse y sont parfaitement à leur place à toute heure ; un panneau permanent reproduit la toile à l'emplacement exact du chevalet.`,
+          en: `The square painted by Van Gogh in his Café Terrace at Night, with the same ochre awning still in place. Plane trees, cafés on three sides and an open paved square in the centre. Leashed dogs are entirely at home here at any hour; a permanent panel reproduces the canvas at the exact spot where Van Gogh set his easel.`,
+          es: `La plaza pintada por Van Gogh en la Terraza del café por la noche, con el mismo toldo ocre todavía en su sitio. Plátanos, cafés en tres lados y plaza empedrada abierta al centro. Los perros con correa están en su elemento a cualquier hora; un panel permanente reproduce el lienzo en el lugar exacto del caballete.`,
+          pt: `A praça pintada por Van Gogh no Terraço do café à noite, com a mesma marquise ocre ainda no sítio. Plátanos, cafés em três lados e praça calcetada aberta ao centro. Os cães com trela estão à vontade a qualquer hora; um painel permanente reproduz a tela no local exacto do cavalete.`,
+        },
+      },
+      {
+        name: `Allée des Alyscamps`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          fr: `La nécropole à ciel ouvert au sud du centre, jalonnée de sarcophages romains et ombragée par les peupliers. La célèbre allée, peinte par Van Gogh et Gauguin pendant leur séjour, est en accès libre 24h/24 et accueille les chiens en laisse. Seule la zone payante du cloître Saint-Honorat n'admet pas les chiens.`,
+          en: `The open-air Roman necropolis south of the centre, lined with sarcophagi and shaded by poplars. The famous allée, painted by Van Gogh and Gauguin during their stay, is open access 24/7 and welcomes leashed dogs. Only the ticketed inner zone of the Saint-Honorat cloister bans dogs.`,
+          es: `La necrópolis al aire libre al sur del centro, jalonada por sarcófagos romanos y a la sombra de los álamos. La famosa alameda, pintada por Van Gogh y Gauguin durante su estancia, es de acceso libre 24/7 y admite perros con correa. Solo la zona de pago del claustro Saint-Honorat los prohíbe.`,
+          pt: `A necrópole ao ar livre a sul do centro, ladeada por sarcófagos romanos e à sombra dos choupos. A famosa alameda, pintada por Van Gogh e Gauguin durante a sua estadia, é de acesso livre 24/7 e aceita cães com trela. Só a zona paga do claustro Saint-Honorat os proíbe.`,
+        },
+      },
+      {
+        name: `Espace Van Gogh`,
+        emoji: `🏛️`,
+        petFriendly: true,
+        desc: {
+          fr: `La cour cloîtrée de l'ancien Hôtel-Dieu où Van Gogh fut soigné en décembre 1888, restituée d'après le tableau Le Jardin de l'hôtel de Dieu d'Arles. Accès libre, jardin en contrebas aux parterres géométriques et cloître à arcades. Les chiens en laisse sont bienvenus dans la cour et le cloître ; la bibliothèque à l'étage non.`,
+          en: `The cloistered courtyard of the old Hôtel-Dieu where Van Gogh was treated in December 1888, restored to match his painting Le Jardin de l'hôtel de Dieu d'Arles. Free admission, sunken garden of geometric beds and arcaded cloister. Leashed dogs are welcome in the courtyard and arcade; the upstairs library is not.`,
+          es: `El patio claustral del antiguo Hôtel-Dieu donde Van Gogh fue tratado en diciembre de 1888, restaurado según su cuadro El jardín del hospital de Arles. Acceso libre, jardín hundido de parterres geométricos y claustro de arcadas. Los perros con correa son bienvenidos en el patio y el claustro; la biblioteca arriba no.`,
+          pt: `O pátio claustral do antigo Hôtel-Dieu onde Van Gogh foi tratado em dezembro de 1888, restaurado segundo o seu quadro O jardim do hospital de Arles. Acesso livre, jardim afundado de canteiros geométricos e claustro de arcadas. Os cães com trela são bem-vindos no pátio e claustro; a biblioteca em cima não.`,
+        },
+      },
+      {
+        name: `Jardin Hortus`,
+        emoji: `🌿`,
+        petFriendly: true,
+        desc: {
+          fr: `Un jardin d'inspiration romaine dessiné en forme de cirque antique, à côté du Musée Départemental Arles Antique, avec pelouses accessibles, pentes pique-nique et allées le long du Rhône. Les chiens en laisse y sont admis sur les pelouses et allées ; l'aire de jeux clôturée à l'intérieur du jardin n'admet pas les chiens.`,
+          en: `A Roman-inspired garden laid out in the shape of an antique racecourse, next to the Musée Départemental Arles Antique, with accessible lawns, picnic slopes and paths along the Rhône. Leashed dogs are welcome on the lawns and paths; the fenced children's playground within the garden does not admit dogs.`,
+          es: `Un jardín de inspiración romana trazado con forma de circo antiguo, junto al Musée Départemental Arles Antique, con céspedes accesibles, pendientes de picnic y senderos a lo largo del Ródano. Los perros con correa son bienvenidos en céspedes y senderos; el área de juegos vallada dentro del jardín no admite perros.`,
+          pt: `Um jardim de inspiração romana traçado em forma de circo antigo, junto ao Musée Départemental Arles Antique, com relvados acessíveis, declives para piquenique e trilhos ao longo do Ródano. Os cães com trela são bem-vindos nos relvados e trilhos; a área de jogos vedada dentro do jardim não admite cães.`,
+        },
+      },
+      {
+        name: `Plage de Beauduc (Camargue)`,
+        emoji: `🏖️`,
+        petFriendly: true,
+        desc: {
+          fr: `La plage sauvage de 25 km à la pointe sud de la Camargue, à 40 minutes de route au sud d'Arles. L'office de tourisme confirme : chiens en laisse au parking, sur le revers de plage et sur la digue ; chiens libres sur la plage elle-même. Aucun service, aucun commerce : eau, ombre et sacs à emporter.`,
+          en: `The 25 km wild beach at the southern tip of the Camargue, 40 minutes by road south of Arles. The tourism office confirms: leashed dogs at the car park, back beach and dyke; free dogs on the main beach itself. No services, no shops: bring water, sunshade and waste bags.`,
+          es: `La playa salvaje de 25 km en la punta sur de la Camarga, a 40 minutos en coche al sur de Arles. La oficina de turismo confirma: perros con correa en el aparcamiento, playa trasera y dique; perros libres en la playa principal. Sin servicios, sin tiendas: trae agua, sombra y bolsas.`,
+          pt: `A praia selvagem de 25 km na ponta sul da Camarga, a 40 minutos de carro a sul de Arles. O posto de turismo confirma: cães com trela no parque de estacionamento, praia traseira e dique; cães livres na praia principal. Sem serviços, sem lojas: leve água, sombra e sacos.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `L'office de tourisme d'Arles publie l'une des rares pages dédiées aux voyageurs canins de France ; consultez-la avant d'arriver pour les règles à jour et les contacts vétérinaires.`,
+        `Tous les monuments et musées payants (Arènes, Théâtre Antique, Cryptoportiques, Musée Arles Antique) interdisent les chiens sauf chiens-guides ; concentrez les visites en plein air autour des perspectives Van Gogh et des Alyscamps.`,
+        `Les bus urbains Envia n'acceptent que les petits animaux en panier fermé et les chiens-guides ; pour la Camargue, le réseau routier ou un taxi/voiture sont nécessaires avec un chien moyen ou grand.`,
+        `En juillet-août, promenez avant 9h ou après 19h : Arles dépasse régulièrement 32 °C et le mistral accélère la déshydratation, surtout sur les digues sans ombre de Camargue.`,
+        `Astreinte vétérinaire 24h/24 régionale : 04 27 04 02 72 (Arles + Nîmes) ; le numéro national 3115 fonctionne aussi sur toute la Provence.`,
+      ],
+      en: [
+        `The Arles tourism office publishes one of the few dedicated dog-travel pages in France; check it before arrival for the up-to-date rules and vet contacts.`,
+        `All paying monuments and museums (Arènes, Théâtre Antique, Cryptoportiques, Musée Arles Antique) ban dogs except guide dogs; concentrate the visit on the open-air Van Gogh sightlines and Alyscamps.`,
+        `Envia urban buses only accept small pets in a closed basket and guide dogs; for the Camargue, the road network or a taxi/car are required with a medium or large dog.`,
+        `In July and August walk before 9am or after 7pm: Arles regularly tops 32°C and the mistral wind speeds dehydration, especially on the shadeless Camargue dykes.`,
+        `Regional 24/7 vet on-call: 04 27 04 02 72 (Arles + Nîmes); the national 3115 number also works across all of Provence.`,
+      ],
+      es: [
+        `La oficina de turismo de Arles publica una de las raras páginas dedicadas a viajeros caninos en Francia; consúltala antes de llegar para las reglas y contactos veterinarios actualizados.`,
+        `Todos los monumentos y museos de pago (Arenas, Teatro Antiguo, Cryptoportiques, Musée Arles Antique) prohíben perros salvo guía; concentra la visita en las perspectivas Van Gogh al aire libre y los Alyscamps.`,
+        `Los buses urbanos Envia solo admiten pequeñas mascotas en transportín cerrado y perros guía; para la Camarga se necesita carretera o taxi/coche con un perro mediano o grande.`,
+        `En julio y agosto pasea antes de las 9:00 o después de las 19:00: Arles supera regularmente los 32 °C y el mistral acelera la deshidratación, sobre todo en los diques sin sombra de la Camarga.`,
+        `Guardia veterinaria regional 24/7: 04 27 04 02 72 (Arles + Nîmes); el número nacional 3115 también funciona en toda Provenza.`,
+      ],
+      pt: [
+        `O posto de turismo de Arles publica uma das raras páginas dedicadas a viajantes caninos em França; consulte-a antes de chegar para regras e contactos veterinários actualizados.`,
+        `Todos os monumentos e museus pagos (Arenas, Teatro Antigo, Cryptoportiques, Musée Arles Antique) proíbem cães salvo de assistência; concentre a visita nas perspectivas Van Gogh ao ar livre e nos Alyscamps.`,
+        `Os autocarros urbanos Envia só aceitam pequenos animais em transportadora fechada e cães-guia; para a Camarga é necessária estrada ou táxi/carro com cão médio ou grande.`,
+        `Em julho e agosto passeie antes das 9h ou depois das 19h: Arles ultrapassa regularmente 32 °C e o mistral acelera a desidratação, sobretudo nos diques sem sombra da Camarga.`,
+        `Escala veterinária regional 24/7: 04 27 04 02 72 (Arles + Nîmes); o número nacional 3115 também funciona em toda a Provença.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Accès : Gare SNCF d'Arles à 10 min à pied du centre, TER toutes les 30 min vers Avignon (20 min), Nîmes (30 min) et Marseille (1h00) ; TGV saisonnier vers Paris en 4h. Aéroport Marseille Provence (MRS) à 50 min en voiture.`,
+        `Plages : pas de plage en ville ; Plage de Beauduc et Plage de Piémanson en Camargue (30-45 min sud) acceptent les chiens en laisse, libres sur la plage principale de Beauduc ; interdits dans la zone surveillée d'été de Piémanson.`,
+        `Parcs : Jardin Hortus, Jardin d'Été et Allée des Alyscamps ouverts aux chiens en laisse ; pas de parc canin sans laisse intra-muros, course libre à la Digue à la Mer en Camargue.`,
+        `Vétérinaires : Univet Arles les Remparts (04 90 96 64 06), Clinique Trinquetaille (04 90 49 55 83), Clinique des Alyscamps (04 90 96 02 00) ; astreinte régionale 24h/24 au 04 27 04 02 72 ; numéro national 3115 gratuit.`,
+        `Documents : passeport européen, puce ISO et rage en cours de validité obligatoires. Voyageurs hors UE (Royaume-Uni, États-Unis) : certificat sanitaire ou endossement USDA APHIS.`,
+      ],
+      en: [
+        `Getting there: Arles SNCF station is 10 min walk from the centre, TER every 30 min to Avignon (20 min), Nîmes (30 min) and Marseille (1h00); seasonal TGV to Paris in 4h. Marseille Provence Airport (MRS) is 50 min by car.`,
+        `Beaches: no city beach; Plage de Beauduc and Plage de Piémanson in the Camargue (30-45 min south) admit leashed dogs and let them free on the Beauduc main beach; dogs banned from the supervised summer zone at Piémanson.`,
+        `Parks: Jardin Hortus, Jardin d'Été and Allée des Alyscamps welcome leashed dogs; no off-leash dog park inside the walls, free running at the Digue à la Mer in the Camargue.`,
+        `Vets: Univet Arles les Remparts (04 90 96 64 06), Clinique Trinquetaille (04 90 49 55 83), Clinique des Alyscamps (04 90 96 02 00); regional 24/7 on-call line 04 27 04 02 72; free national 3115 hotline.`,
+        `Documents: EU pet passport, ISO microchip and valid rabies vaccination required. Non-EU travellers (UK, US) need an Animal Health Certificate or USDA APHIS endorsement.`,
+      ],
+      es: [
+        `Cómo llegar: Estación SNCF de Arles a 10 min a pie del centro, TER cada 30 min a Aviñón (20 min), Nîmes (30 min) y Marsella (1h00); TGV estacional a París en 4h. Aeropuerto Marseille Provence (MRS) a 50 min en coche.`,
+        `Playas: sin playa en la ciudad; Plage de Beauduc y Plage de Piémanson en la Camarga (30-45 min al sur) admiten perros con correa y los dejan libres en la playa principal de Beauduc; prohibidos en la zona vigilada de verano de Piémanson.`,
+        `Parques: Jardin Hortus, Jardin d'Été y Allée des Alyscamps reciben perros con correa; sin parque canino sin correa intramuros, carrera libre en la Digue à la Mer en la Camarga.`,
+        `Veterinarios: Univet Arles les Remparts (04 90 96 64 06), Clinique Trinquetaille (04 90 49 55 83), Clinique des Alyscamps (04 90 96 02 00); guardia regional 24/7 04 27 04 02 72; número gratuito nacional 3115.`,
+        `Documentos: pasaporte europeo, microchip ISO y vacunación antirrábica vigente obligatorios. Viajeros no UE (Reino Unido, EE. UU.) necesitan certificado sanitario o endoso USDA APHIS.`,
+      ],
+      pt: [
+        `Como chegar: Estação SNCF de Arles a 10 min a pé do centro, TER a cada 30 min para Avinhão (20 min), Nîmes (30 min) e Marselha (1h00); TGV sazonal para Paris em 4h. Aeroporto Marseille Provence (MRS) a 50 min de carro.`,
+        `Praias: sem praia na cidade; Plage de Beauduc e Plage de Piémanson na Camarga (30-45 min a sul) aceitam cães com trela e deixam-nos livres na praia principal de Beauduc; proibidos na zona vigiada de verão de Piémanson.`,
+        `Parques: Jardin Hortus, Jardin d'Été e Allée des Alyscamps aceitam cães com trela; sem parque canino sem trela intramuros, corrida livre na Digue à la Mer na Camarga.`,
+        `Veterinários: Univet Arles les Remparts (04 90 96 64 06), Clinique Trinquetaille (04 90 49 55 83), Clinique des Alyscamps (04 90 96 02 00); escala regional 24/7 04 27 04 02 72; número gratuito nacional 3115.`,
+        `Documentos: passaporte europeu, microchip ISO e vacinação antirrábica válida obrigatórios. Viajantes não-UE (Reino Unido, EUA) precisam de certificado sanitário ou endosso USDA APHIS.`,
+      ],
+    },
+  },
+
   antwerp: {
     history: {
       fr: `Anvers, capitale flamande du diamant et deuxième ville de Belgique, est une puissance commerciale depuis le XVIe siècle, époque où Rubens peignait et où le port rivalisait avec Venise. Aujourd'hui, ses 530 000 habitants partagent la ville avec une densité canine inhabituelle, la Flandre affiche l'un des plus hauts taux de possession de chiens d'Europe, et Anvers compte plusieurs centaines de zones de liberté clôturées (hondenlosloopzones). La ville prend le bien-être animal au sérieux : tous les chiens doivent être pucés et enregistrés dans DogID, et la laisse est stricte hors des zones désignées. Ville d'avant-garde grâce aux 'Six d'Anvers', elle est aussi étonnamment accueillante envers les compagnons à quatre pattes dans ses cafés et boutiques. Les quais de l'Escaut, le Grote Markt médiéval et le vaste parc de sculptures Middelheim sont des terrains de promenade de choix.`,

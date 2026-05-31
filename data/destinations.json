@@ -753,6 +753,81 @@
     "tiqetsId": "60863"
   },
   {
+    "slug": "arles",
+    "name": "Arles",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/arles.jpg",
+    "intro": "Arles is the southern terminus of the Provence Roman triangle: UNESCO amphitheatre, Théâtre Antique, Van Gogh sightlines and the Camargue wild beaches a short drive south. The official tourism office publishes a dedicated dog-travel page with leashing rules, vet contacts and ~30 dog-waste bag distributors across the historic centre.",
+    "lat": 43.6766,
+    "lng": 4.6278,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Mild, mistral wind",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Mild & dry",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild, blooming",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "🌞"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot, fire-risk",
+        "icon": "🌞"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm, festival season",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild, autumn light",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Mild, festive",
+        "icon": "🎄"
+      }
+    },
+    "iata": "MRS"
+  },
+  {
     "slug": "athens",
     "name": "Athens",
     "country": "Greece",

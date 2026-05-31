@@ -24,6 +24,7 @@ async function loadApiKey() {
 
 // Slug → query targeting a photogenic, pet-relevant landmark
 const TARGETS = [
+  { slug: 'arles',         query: 'Arles France Roman amphitheatre Arenes Provence Camargue Rhone Van Gogh panorama sunset' },
   { slug: 'angers',        query: 'Angers France Chateau medieval fortress Maine river Loire Valley panorama' },
   { slug: 'ajaccio',       query: 'Ajaccio Corsica France marina old town Citadel Mediterranean panorama' },
   { slug: 'cadiz',         query: 'Cadiz Spain old town cathedral Atlantic ramparts La Caleta panorama' },

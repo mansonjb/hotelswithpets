@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
@@ -264,8 +265,20 @@ export default async function Page({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
 
       {/* Hero */}
-      <section className="relative bg-gradient-to-br from-stone-900 via-slate-800 to-blue-900 text-white">
-        <div className="max-w-5xl mx-auto px-4 py-14 sm:py-20">
+      <section className="relative bg-gradient-to-br from-stone-900 via-slate-800 to-blue-900 text-white overflow-hidden">
+        {/* Background hero image */}
+        <div className="absolute inset-0 z-0 pointer-events-none">
+          <Image
+            src={`/images/paris-arrondissements/${a.slug}.jpg`}
+            alt={`${a.popularName} - Paris ${a.slug}`}
+            fill
+            priority
+            sizes="(max-width: 1024px) 100vw, 1024px"
+            className="object-cover opacity-40"
+          />
+          <div className="absolute inset-0 bg-gradient-to-br from-stone-900/80 via-slate-900/60 to-blue-900/70" />
+        </div>
+        <div className="relative z-10 max-w-5xl mx-auto px-4 py-14 sm:py-20">
           <nav className="text-sm text-white/60 mb-5">
             <Link href={`/${locale}`} className="hover:text-white">Home</Link>
             <span className="mx-2">/</span>

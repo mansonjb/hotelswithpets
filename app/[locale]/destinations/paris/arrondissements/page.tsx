@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
@@ -148,14 +149,23 @@ export default async function Page({
               href={`/${locale}/destinations/paris/arrondissements/${a.slug}`}
               className="group block bg-white rounded-2xl border border-stone-200 hover:border-blue-400 hover:shadow-lg transition-all overflow-hidden"
             >
-              <div className="bg-gradient-to-br from-blue-50 to-stone-50 p-5 border-b border-stone-100">
-                <div className="text-3xl font-black text-blue-700 mb-1">{a.slug}</div>
-                <div className="font-bold text-stone-900 leading-tight">{a.popularName}</div>
+              <div className="relative aspect-[5/3] bg-stone-100 overflow-hidden">
+                <Image
+                  src={`/images/paris-arrondissements/${a.slug}.jpg`}
+                  alt={`${a.popularName} - Paris ${a.slug}`}
+                  fill
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+                  className="object-cover group-hover:scale-105 transition-transform duration-500"
+                />
+                <div className="absolute top-3 left-3 bg-white/95 backdrop-blur-sm rounded-full px-3 py-1 text-sm font-black text-blue-700 shadow-sm">
+                  {a.slug}
+                </div>
               </div>
-              <div className="p-4 text-sm">
+              <div className="p-4">
+                <div className="font-bold text-stone-900 leading-tight mb-2">{a.popularName}</div>
                 <div className="text-xs uppercase font-bold tracking-wider text-stone-500 mb-1">{t.metrosLabel}</div>
-                <div className="text-stone-700 mb-3">{a.metros.join(' · ')}</div>
-                <div className="text-blue-700 font-semibold group-hover:text-blue-900">{t.detailCta}</div>
+                <div className="text-sm text-stone-700 mb-3">{a.metros.join(' · ')}</div>
+                <div className="text-sm text-blue-700 font-semibold group-hover:text-blue-900">{t.detailCta}</div>
               </div>
             </Link>
           ))}

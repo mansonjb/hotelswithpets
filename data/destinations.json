@@ -2630,6 +2630,81 @@
     "iata": "BRE"
   },
   {
+    "slug": "brest",
+    "name": "Brest",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/brest.jpg",
+    "intro": "Brest, Brittany's Atlantic naval port and largest city, anchors a deep natural harbour at the western tip of France, with the 50-hectare Vallon du Stang-Alar valley, the seafront Cours Dajot terrace, Penn ar Bed ferries to the Iroise islands and the dog-friendly GR34 coastal path linking the Pointe Saint-Mathieu, making it one of north-west France's most rewarding pet-friendly bases.",
+    "lat": 48.3905,
+    "lng": -4.4860,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Mild & breezy",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Cool Atlantic summer",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Cool Atlantic summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Cool Atlantic summer",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "BES"
+  },
+  {
     "slug": "brighton",
     "name": "Brighton",
     "country": "United Kingdom",

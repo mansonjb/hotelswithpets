@@ -4533,6 +4533,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  brest: {
+    history: {
+      fr: `Brest, fondée à l'embouchure de la Penfeld, est un port militaire majeur depuis le XVIIe siècle, fortifiée par Vauban en 1683 et choisie par Colbert comme arsenal de la Marine royale puis du second empire colonial. La ville fut presque entièrement détruite par les bombardements alliés entre 1940 et 1944 visant la base de sous-marins allemande, et reconstruite après-guerre par l'architecte Jean-Baptiste Mathon dans un style néoclassique sobre autour de la Rue de Siam et de la Place de la Liberté. Aujourd'hui ville d'environ 140 000 habitants (210 000 dans la métropole) et plus grande agglomération de Bretagne après Rennes, Brest combine son rôle de port militaire majeur, l'aquarium Océanopolis, le pôle océanographique IFREMER, le grand pont levant de Recouvrance reconstruit en 2012, la ligne de tram inaugurée en 2012 et le sentier côtier GR34 qui rejoint à pied la Pointe Saint-Mathieu et l'Iroise.`,
+      en: `Brest, founded at the mouth of the Penfeld river, has been a major naval port since the 17th century, fortified by Vauban in 1683 and chosen by Colbert as the arsenal of the Royal Navy and later the second colonial empire. The city was almost entirely destroyed by Allied bombing between 1940 and 1944 targeting the German submarine base, and rebuilt post-war by architect Jean-Baptiste Mathon in a sober neoclassical style around Rue de Siam and Place de la Liberté. Today a city of around 140,000 (210,000 in the metropolitan area) and Brittany's largest agglomeration after Rennes, Brest combines its role as a major naval port, the Océanopolis aquarium, the IFREMER oceanographic centre, the large Recouvrance vertical-lift drawbridge rebuilt in 2012, the tram line opened in 2012 and the GR34 coastal path that walks all the way to the Pointe Saint-Mathieu and the Iroise sea.`,
+      es: `Brest, fundada en la desembocadura del río Penfeld, ha sido un puerto naval de primer orden desde el siglo XVII, fortificada por Vauban en 1683 y elegida por Colbert como arsenal de la Marina Real y posteriormente del segundo imperio colonial. La ciudad fue casi totalmente destruida por los bombardeos aliados entre 1940 y 1944 dirigidos contra la base submarina alemana, y reconstruida tras la guerra por el arquitecto Jean-Baptiste Mathon en un estilo neoclásico sobrio en torno a la Rue de Siam y la Place de la Liberté. Hoy ciudad de unos 140.000 habitantes (210.000 en el área metropolitana) y mayor aglomeración de Bretaña tras Rennes, Brest combina su papel de gran puerto militar, el acuario Océanopolis, el centro oceanográfico IFREMER, el gran puente levadizo de Recouvrance reconstruido en 2012, la línea de tranvía inaugurada en 2012 y el sendero costero GR34 que llega a pie hasta la Pointe Saint-Mathieu y el mar de Iroise.`,
+      pt: `Brest, fundada na foz do rio Penfeld, é um porto naval de primeira ordem desde o século XVII, fortificada por Vauban em 1683 e escolhida por Colbert como arsenal da Marinha Real e posteriormente do segundo império colonial. A cidade foi quase totalmente destruída pelos bombardeamentos aliados entre 1940 e 1944 dirigidos contra a base submarina alemã, e reconstruída no pós-guerra pelo arquiteto Jean-Baptiste Mathon num estilo neoclássico sóbrio em torno da Rue de Siam e da Place de la Liberté. Hoje cidade de cerca de 140.000 habitantes (210.000 na área metropolitana) e maior aglomeração da Bretanha depois de Rennes, Brest combina o seu papel de grande porto militar, o aquário Océanopolis, o centro oceanográfico IFREMER, a grande ponte levadiça de Recouvrance reconstruída em 2012, a linha de tram inaugurada em 2012 e o trilho costeiro GR34 que chega a pé até à Pointe Saint-Mathieu e ao mar de Iroise.`,
+    },
+    sights: [
+      {
+        name: 'Vallon du Stang-Alar',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Vallée boisée de 50 hectares qui descend du quartier Saint-Marc jusqu'à la Marina du Moulin Blanc, abritant le Conservatoire botanique national. Chiens en laisse bienvenus sur toutes les allées publiques, interdits dans les serres tropicales.`,
+          en: `50-hectare wooded valley running from the Saint-Marc district down to the Moulin Blanc marina, housing the National Botanical Conservatory. Leashed dogs welcome on all public paths, banned from tropical greenhouses.`,
+          es: `Valle arbolado de 50 hectáreas que baja del barrio Saint-Marc hasta la Marina del Moulin Blanc, con el Conservatorio Botánico Nacional. Perros con correa bienvenidos en todos los paseos públicos, prohibidos en los invernaderos tropicales.`,
+          pt: `Vale arborizado de 50 hectares que desce do bairro Saint-Marc até à Marina do Moulin Blanc, com o Conservatório Botânico Nacional. Cães com trela bem-vindos em todas as alamedas públicas, proibidos nas estufas tropicais.`,
+        },
+      },
+      {
+        name: 'Cours Dajot',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade arborée surélevée du XVIIIe siècle aménagée en 1769 le long des anciens remparts au-dessus du Port de Commerce, avec vue imprenable sur la rade et la Penfeld. Chiens en laisse bienvenus à toute heure, bordée de tilleuls.`,
+          en: `18th-century tree-lined elevated promenade laid out in 1769 along the old ramparts above the Port de Commerce, with sweeping views over the Rade de Brest and the Penfeld. Leashed dogs welcome at all hours, lined with linden trees.`,
+          es: `Paseo arbolado elevado del siglo XVIII construido en 1769 a lo largo de las antiguas murallas sobre el Port de Commerce, con vistas amplias sobre la rada y la Penfeld. Perros con correa bienvenidos a cualquier hora, bordeado de tilos.`,
+          pt: `Passeio arborizado elevado do século XVIII construído em 1769 ao longo das antigas muralhas sobre o Port de Commerce, com vistas amplas sobre a rada e a Penfeld. Cães com trela bem-vindos a qualquer hora, bordejado de tílias.`,
+        },
+      },
+      {
+        name: 'Tour Tanguy',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `Tour de pierre du XIVe siècle au pied du Pont de Recouvrance, qui abrite 14 dioramas de Jim-E. Sévellec reconstituant Brest avant 1939. Entrée gratuite l'après-midi sauf le lundi, Square Pierre Péron alentour accessible aux chiens en laisse.`,
+          en: `14th-century stone tower at the foot of the Pont de Recouvrance, housing 14 dioramas by Jim-E. Sévellec recreating Brest before 1939. Free admission afternoons except Mondays, the surrounding Square Pierre Péron is leashed-dog friendly.`,
+          es: `Torre de piedra del siglo XIV al pie del Pont de Recouvrance, que alberga 14 dioramas de Jim-E. Sévellec que recrean Brest antes de 1939. Entrada gratuita por la tarde excepto lunes, el Square Pierre Péron alrededor admite perros con correa.`,
+          pt: `Torre de pedra do século XIV ao pé da Pont de Recouvrance, que abriga 14 dioramas de Jim-E. Sévellec que recriam Brest antes de 1939. Entrada gratuita à tarde exceto às segundas, o Square Pierre Péron em redor admite cães com trela.`,
+        },
+      },
+      {
+        name: 'Océanopolis',
+        emoji: '🐧',
+        petFriendly: false,
+        desc: {
+          fr: `Le grand parc de découverte des océans de Brest, avec pavillons tropical, polaire et bretagne, qui draine plus de 400 000 visiteurs par an. Animaux interdits sauf chiens d'assistance certifiés ; prévoyez un pet-sitter pour la demi-journée.`,
+          en: `Brest's large ocean discovery park, with tropical, polar and Brittany pavilions, drawing over 400,000 visitors a year. Animals banned except certified assistance dogs; plan a pet-sitter for the half-day visit.`,
+          es: `El gran parque de descubrimiento de los océanos de Brest, con pabellones tropical, polar y bretón, que atrae a más de 400 000 visitantes al año. Animales prohibidos salvo perros de asistencia certificados; prevé un cuidador para la media jornada.`,
+          pt: `O grande parque de descoberta dos oceanos de Brest, com pavilhões tropical, polar e bretão, que atrai mais de 400 000 visitantes por ano. Animais proibidos salvo cães de assistência certificados; prevê um pet-sitter para a meia jornada.`,
+        },
+      },
+      {
+        name: 'Pont de Recouvrance',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus grand pont levant vertical d'Europe, ouvert en 1954 et reconstruit en 2012, qui enjambe la Penfeld avec un tablier central de 64 m relevable. Libre d'accès aux piétons et chiens en laisse, meilleur point photo depuis le Cours Dajot.`,
+          en: `Europe's largest vertical-lift drawbridge, opened in 1954 and rebuilt in 2012, spanning the Penfeld with a 64 m central deck that lifts for naval ships. Free pedestrian and leashed-dog access, best photo from the Cours Dajot.`,
+          es: `El mayor puente levadizo vertical de Europa, abierto en 1954 y reconstruido en 2012, cruza la Penfeld con un tablero central de 64 m levantable para los buques de la Marina. Acceso libre a peatones y perros con correa, mejor foto desde el Cours Dajot.`,
+          pt: `A maior ponte levadiça vertical da Europa, aberta em 1954 e reconstruída em 2012, atravessa a Penfeld com um tabuleiro central de 64 m que se ergue para os navios da Marinha. Acesso livre a peões e cães com trela, melhor foto do Cours Dajot.`,
+        },
+      },
+      {
+        name: 'GR34 to Pointe Saint-Mathieu',
+        emoji: '🏔️',
+        petFriendly: true,
+        desc: {
+          fr: `Section de 11 km aller-retour du sentier côtier GR34 entre Le Conquet et le phare de la Pointe Saint-Mathieu, à 25 minutes à l'ouest de Brest. Falaises, ruines abbatiales et l'un des phares les plus photographiés de l'Atlantique. Chiens en laisse toute l'année.`,
+          en: `11 km out-and-back section of the GR34 coastal path between Le Conquet and the Pointe Saint-Mathieu lighthouse, 25 minutes drive west of Brest. Cliffs, abbey ruins and one of the most photographed lighthouses on the Atlantic. Leashed dogs year-round.`,
+          es: `Tramo ida y vuelta de 11 km del sendero costero GR34 entre Le Conquet y el faro de la Pointe Saint-Mathieu, a 25 minutos en coche al oeste de Brest. Acantilados, ruinas abaciales y uno de los faros más fotografiados del Atlántico. Perros con correa todo el año.`,
+          pt: `Troço ida e volta de 11 km do trilho costeiro GR34 entre Le Conquet e o farol da Pointe Saint-Mathieu, a 25 minutos de carro a oeste de Brest. Falésias, ruínas abaciais e um dos faróis mais fotografados do Atlântico. Cães com trela o ano inteiro.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le tram et les bus Bibus n'acceptent que les petits animaux en transportin fermé ; les chiens moyens et grands ne sont admis que s'ils sont chiens d'assistance reconnus, planifiez à pied ou en taxi.`,
+        `Un arrêté préfectoral du Finistère interdit les chiens sur les plages surveillées du 1er juin au 30 septembre ; la Plage du Moulin Blanc rouvre aux chiens en laisse du 1er octobre au 31 mai.`,
+        `Le Penn ar Bed vers Ouessant, Molène et Sein : petits chiens en transportin gratuits, grands chiens en laisse 6 € aller-retour, chiens catégories 1 et 2 muselés à bord et sur les îles.`,
+        `Océanopolis interdit tous les animaux sauf chiens d'assistance certifiés ; réservez un sitter Holidog ou Animaute pour la demi-journée si vous voulez visiter l'aquarium.`,
+        `Les urgences vétérinaires 24h/24 du Pays de Brest passent par la Maison des Urgences Vétérinaires de Plabennec au 02 45 35 20 20, mémorisez le numéro dès l'arrivée en ville.`,
+      ],
+      en: [
+        `The Bibus tram and buses only accept small animals in closed carriers; medium and large dogs are not admitted except recognised assistance dogs, plan walking routes or taxis.`,
+        `A Finistère prefectural decree bans dogs from supervised beaches from June 1 to September 30; the Plage du Moulin Blanc reopens to leashed dogs from October 1 to May 31.`,
+        `Penn ar Bed ferries to Ouessant, Molène and Sein: small dogs in carriers free, larger leashed dogs €6 return, category 1 and 2 dogs must be muzzled aboard and on the islands.`,
+        `Océanopolis bans all animals except certified assistance dogs; book a Holidog or Animaute sitter for the half-day visit if you want to see the aquarium.`,
+        `The 24/7 Pays de Brest vet emergency goes through the Maison des Urgences Vétérinaires in Plabennec at 02 45 35 20 20, save the number the moment you arrive in town.`,
+      ],
+      es: [
+        `El tranvía y los autobuses Bibus solo admiten pequeños animales en transportín cerrado; los perros medianos y grandes no son admitidos salvo perros de asistencia reconocidos, planea trayectos a pie o en taxi.`,
+        `Un decreto prefectoral del Finistère prohíbe los perros en las playas vigiladas del 1 de junio al 30 de septiembre; la Plage du Moulin Blanc reabre a perros con correa del 1 de octubre al 31 de mayo.`,
+        `Los ferries Penn ar Bed a Ouessant, Molène y Sein: perros pequeños en transportín gratis, perros grandes con correa 6 € ida y vuelta, perros categorías 1 y 2 con bozal a bordo y en las islas.`,
+        `Océanopolis prohíbe todos los animales salvo perros de asistencia certificados; reserva un cuidador Holidog o Animaute para la media jornada si quieres ver el acuario.`,
+        `Las urgencias veterinarias 24h del Pays de Brest pasan por la Maison des Urgences Vétérinaires en Plabennec al 02 45 35 20 20, guarda el número al llegar a la ciudad.`,
+      ],
+      pt: [
+        `O tram e os autocarros Bibus só admitem pequenos animais em transportadora fechada; os cães médios e grandes não são admitidos salvo cães de assistência reconhecidos, planeia trajetos a pé ou de táxi.`,
+        `Um decreto prefeitoral do Finistère proíbe os cães nas praias vigiadas de 1 de junho a 30 de setembro; a Plage du Moulin Blanc reabre aos cães com trela de 1 de outubro a 31 de maio.`,
+        `Os ferries Penn ar Bed para Ouessant, Molène e Sein: cães pequenos em transportadora grátis, cães grandes com trela 6 € ida e volta, cães categorias 1 e 2 com açaime a bordo e nas ilhas.`,
+        `O Océanopolis proíbe todos os animais salvo cães de assistência certificados; reserva um sitter Holidog ou Animaute para a meia jornada se quiseres ver o aquário.`,
+        `As urgências veterinárias 24h do Pays de Brest passam pela Maison des Urgences Vétérinaires em Plabennec no 02 45 35 20 20, guarda o número ao chegar à cidade.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport Brest-Bretagne (BES) à 9 km au nord-est à Guipavas, relié par la ligne Bibus 16 depuis la gare SNCF ; TGV Paris-Montparnasse en 3h30, plus rapide pour Paris que l'avion porte-à-porte.`,
+        `Urgences vétérinaires 24h/24 : Maison des Urgences Vétérinaires, 19 rue Maréchal Leclerc, 29860 Plabennec, tél. 02 45 35 20 20.`,
+        `L'eau du robinet est potable ; fontaines à boire au Vallon du Stang-Alar, autour du Cours Dajot et le long du sentier côtier GR34, prenez une gamelle pliable.`,
+        `Brest reçoit environ 1 100 mm de pluie par an répartis sur environ 165 jours pluvieux, prévoyez un imperméable pour le chien et une serviette à séchage rapide même en été.`,
+        `Loi française : puce ISO, vaccin antirabique et passeport européen pour tout chien entrant ; laisse 1,5 m maximum en public, déjections passibles d'amende municipale à Brest.`,
+      ],
+      en: [
+        `Brest-Bretagne airport (BES) is 9 km north-east at Guipavas, linked by Bibus line 16 from the SNCF station; TGV to Paris-Montparnasse in 3h30, faster door-to-door than flying for Paris.`,
+        `24h emergency vet: Maison des Urgences Vétérinaires, 19 rue Maréchal Leclerc, 29860 Plabennec, tel. 02 45 35 20 20.`,
+        `Tap water is safe; drinking fountains in the Vallon du Stang-Alar, around the Cours Dajot and along the GR34 coastal path, bring a collapsible bowl.`,
+        `Brest sees around 1,100 mm of rain a year over roughly 165 wet days, pack a waterproof for the dog and a quick-dry towel even in summer.`,
+        `French law: ISO microchip, rabies vaccine and EU pet passport for any dog entering; 1.5 m maximum leash in public, dog waste subject to municipal fine in Brest.`,
+      ],
+      es: [
+        `Aeropuerto Brest-Bretagne (BES) a 9 km al noreste en Guipavas, unido por la línea Bibus 16 desde la estación SNCF; TGV a Paris-Montparnasse en 3h30, más rápido puerta a puerta que volar a París.`,
+        `Veterinario de urgencia 24 h: Maison des Urgences Vétérinaires, 19 rue Maréchal Leclerc, 29860 Plabennec, tel. 02 45 35 20 20.`,
+        `El agua del grifo es potable; fuentes de agua en el Vallon du Stang-Alar, alrededor del Cours Dajot y a lo largo del sendero costero GR34, lleva un bol plegable.`,
+        `Brest recibe unos 1 100 mm de lluvia al año en unos 165 días lluviosos, lleva un impermeable para el perro y una toalla de secado rápido incluso en verano.`,
+        `Ley francesa: chip ISO, vacuna antirrábica y pasaporte europeo para todo perro que entre; correa de 1,5 m máximo en público, las deyecciones son objeto de multa municipal en Brest.`,
+      ],
+      pt: [
+        `Aeroporto Brest-Bretagne (BES) a 9 km a nordeste em Guipavas, ligado pela linha Bibus 16 desde a estação SNCF; TGV a Paris-Montparnasse em 3h30, mais rápido porta a porta do que voar para Paris.`,
+        `Veterinário de urgência 24 h: Maison des Urgences Vétérinaires, 19 rue Maréchal Leclerc, 29860 Plabennec, tel. 02 45 35 20 20.`,
+        `A água da torneira é potável; fontes de água no Vallon du Stang-Alar, em torno do Cours Dajot e ao longo do trilho costeiro GR34, leva uma taça dobrável.`,
+        `Brest recebe cerca de 1 100 mm de chuva por ano em cerca de 165 dias chuvosos, leva um impermeável para o cão e uma toalha de secagem rápida mesmo no verão.`,
+        `Lei francesa: chip ISO, vacina antirrábica e passaporte europeu para todo cão que entre; trela de 1,5 m máximo em público, as dejeções são objeto de multa municipal em Brest.`,
+      ],
+    },
+  },
+
   brighton: {
     history: {
       fr: `Brighton est devenue station balnéaire à la fin du XVIIIe siècle quand le futur George IV na fait son terrain de jeu personnel et y a fait construire le Royal Pavilion en 1815, palais indo-sarrasin sans équivalent em Europe. La ville a ensuite absorbé Hove voisine, et l'autorité unitaire de Brighton & Hove créée en 1997 compte aujourd'hui environ 277 000 habitants pour une trentaine de milliers de chiens enregistrés. C'est, de l'avis général des guides britanniques, la ville la plus dog-friendly de la côte sud : 17 plages canines, des bus gratuits pour les animaux, une majorité de pubs et de cafés ouverts, et le parc national des South Downs qui démarre à 5 km au nord. Le rythme de plage est strictement saisonnier, interdiction sur le front de mer central du 1er mai au 30 septembre, mais Hove Lawns, Saltdean et Rottingdean restent ouvertes toute l'année.`,

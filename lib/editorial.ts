@@ -196,6 +196,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Bürgerpark and adjacent Stadtwald, the Wallanlagen ramparts loop, and the Werderseestrand swim beach',
       area: 'the Altstadt around the Marktplatz, Das Viertel, and the Schnoor',
     },
+    brest: {
+      personality: `Brittany's Atlantic naval port and largest city where the deep natural harbour, the 50-hectare Vallon du Stang-Alar valley, the seafront Cours Dajot terrace and the Penn ar Bed ferries to the Iroise islands make it one of north-west France's most rewarding pet-friendly bases`,
+      highlight: `the Vallon du Stang-Alar valley with its botanical conservatory, the Cours Dajot terrace above the Rade de Brest, and the GR34 coastal path west to the Pointe Saint-Mathieu lighthouse`,
+      area: `the rebuilt post-war centre around Rue de Siam and Place de la Liberté, the Saint-Marc and Stang-Alar district with the wooded valley, and the Recouvrance quarter across the Pont de Recouvrance`,
+    },
     burgos: {
       personality: `a Castilian plateau city at 860 m crowned by a UNESCO Gothic cathedral, a vital Camino de Santiago stop with eleven official dog enclosures, easy Arlanzón river walks and a 24/7 reference veterinary hospital`,
       highlight: `the Paseo del Espolón and Arlanzón riverside, Parque del Castillo above the cathedral, and the 6 km Parque de Fuentes Blancas forest extension`,
@@ -1094,6 +1099,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Bürgerpark et le Stadtwald adjacent, la boucle des remparts Wallanlagen et la plage de baignade du Werderseestrand`,
       area: `la Vieille Ville autour du Marktplatz, Das Viertel et le Schnoor`,
     },
+    brest: {
+      personality: `le port naval atlantique de la Bretagne et sa plus grande ville, où la rade naturelle profonde, la vallée boisée de 50 hectares du Stang-Alar, la terrasse maritime du Cours Dajot et les ferries Penn ar Bed vers les îles de la mer d'Iroise en font l'une des bases pet-friendly les plus gratifiantes du nord-ouest de la France`,
+      highlight: `le Vallon du Stang-Alar et son conservatoire botanique, le Cours Dajot dominant la rade, et le sentier côtier GR34 jusqu'au phare de la Pointe Saint-Mathieu`,
+      area: `le centre reconstruit autour de la Rue de Siam et de la Place de la Liberté, le quartier Saint-Marc-Stang-Alar avec sa vallée boisée, et le quartier de Recouvrance de l'autre côté du Pont de Recouvrance`,
+    },
     burgos: {
       personality: `une cité castillane perchée à 860 m couronnée par une cathédrale gothique UNESCO, étape clé du Camino de Santiago avec onze enclos canins officiels, des promenades faciles en bord d'Arlanzón et un hôpital vétérinaire de référence ouvert 24h/24`,
       highlight: `le Paseo del Espolón le long de l'Arlanzón, le Parque del Castillo au-dessus de la cathédrale et la grande forêt riveraine de Fuentes Blancas (6 km)`,
@@ -1991,6 +2001,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Bürgerpark y el Stadtwald adyacente, el bucle de las murallas Wallanlagen y la playa de baño del Werderseestrand`,
       area: `el casco antiguo alrededor de la Marktplatz, Das Viertel y el Schnoor`,
     },
+    brest: {
+      personality: `el puerto naval atlántico de Bretaña y su mayor ciudad, donde la profunda rada natural, el valle boscoso de 50 hectáreas del Stang-Alar, la terraza marítima del Cours Dajot y los ferries Penn ar Bed hacia las islas del mar de Iroise la convierten en una de las bases pet-friendly más gratificantes del noroeste de Francia`,
+      highlight: `el Vallon du Stang-Alar y su conservatorio botánico, el Cours Dajot sobre la rada, y el sendero costero GR34 hasta el faro de la Pointe Saint-Mathieu`,
+      area: `el centro reconstruido en torno a la Rue de Siam y la Place de la Liberté, el barrio Saint-Marc-Stang-Alar con su valle boscoso, y el barrio de Recouvrance al otro lado del Pont de Recouvrance`,
+    },
     burgos: {
       personality: `una ciudad castellana a 860 m coronada por una catedral gótica Patrimonio Mundial, parada clave del Camino de Santiago con once recintos caninos oficiales, paseos fáciles junto al Arlanzón y un hospital veterinario de referencia 24/7`,
       highlight: `el Paseo del Espolón junto al Arlanzón, el Parque del Castillo sobre la catedral y la gran extensión forestal ribereña de Fuentes Blancas (6 km)`,
@@ -2887,6 +2902,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma cidade hanseática norte-alemana onde a estatua UNESCO dos Músicos pone a um cão no corazón da identidad cívica, onde o Bürgerpark de 200 hectáreas linda com o centro e onde as Stuben admiten cães en sala o ano inteiro`,
       highlight: `o Bürgerpark e o Stadtwald adyacente, o bucle das muralhas Wallanlagen e a praia de banho do Werderseestrand`,
       area: `o centro histórico alrededor da Marktplatz, Das Viertel e o Schnoor`,
+    },
+    brest: {
+      personality: `o porto naval atlántico da Bretanha e a sua maior cidade, onde a profunda rada natural, o vale arborizado de 50 hectares do Stang-Alar, a esplanada marítima do Cours Dajot e os ferries Penn ar Bed para as ilhas do mar de Iroise a tornan numa das bases pet-friendly mais gratificantes do noroeste de França`,
+      highlight: `o Vallon du Stang-Alar e o seu conservatório botânico, o Cours Dajot sobre a rada, e o trilho costeiro GR34 até ao farol da Pointe Saint-Mathieu`,
+      area: `o centro reconstruído em torno da Rue de Siam e da Place de la Liberté, o bairro Saint-Marc-Stang-Alar com o seu vale arborizado, e o bairro de Recouvrance do outro lado da Pont de Recouvrance`,
     },
     burgos: {
       personality: `uma cidade castelhana a 860 m coroada por uma catedral gótica Património Mundial, paragem fundamental do Caminho de Santiago com onze recintos caninos oficiais, passeios fáceis ao longo do Arlanzón e um hospital veterinário de referência 24/7`,

@@ -159,6 +159,8 @@ const TARGETS = [
   { slug: 'antibes', query: 'Antibes France Vieille Ville Vauban port Mediterranean ramparts Cap d Antibes panorama sunset' },
   { slug: 'hyeres', query: 'Hyeres France Vieille Ville medieval streets palm trees Var Mediterranean panorama sunset' },
   { slug: 'frejus', query: 'Frejus France Roman amphitheatre Provencal old town Esterel red rocks Mediterranean panorama sunset' },
+  { slug: 'brest', query: 'Brest France Tanguy Tower harbour Penfeld river drawbridge Atlantic Brittany panorama sunset' },
+  { slug: 'vannes', query: 'Vannes France medieval walls ramparts half-timbered houses Gulf of Morbihan Brittany panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

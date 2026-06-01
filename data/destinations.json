@@ -5737,6 +5737,33 @@
     "tiqetsId": "71831"
   },
   {
+    "slug": "getxo",
+    "name": "Getxo",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/getxo.jpg",
+    "intro": "Bilbao's coastal neighbour on the Bay of Biscay, 78k inhabitants, home of the UNESCO Vizcaya Bridge (Puente Colgante, the world's first transporter bridge, 1893, dog-friendly since 2017), the picturesque Puerto Viejo de Algorta with its stepped pintxo plazas, the 6 km Punta Galea cliff path from the 18th-century Aixerrota windmill to Sopelana, and 17 designated off-leash dog-recreation zones. Three urban beaches (Ereaga, Las Arenas, Arrigunaga) closed to dogs as recreation 1 May to 30 September.",
+    "lat": 43.3568,
+    "lng": -3.0148,
+    "weather": {
+      "jan": { "temp": 9, "desc": "Cool & rainy", "icon": "🌧️" },
+      "feb": { "temp": 10, "desc": "Cool & rainy", "icon": "🌧️" },
+      "mar": { "temp": 12, "desc": "Mild & overcast", "icon": "🌦️" },
+      "apr": { "temp": 13, "desc": "Mild with showers", "icon": "🌦️" },
+      "may": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
+      "jun": { "temp": 18, "desc": "Warm, some rain", "icon": "⛅" },
+      "jul": { "temp": 21, "desc": "Warm & sunny", "icon": "🌤️" },
+      "aug": { "temp": 22, "desc": "Warm & sunny", "icon": "🌤️" },
+      "sep": { "temp": 19, "desc": "Mild & pleasant", "icon": "⛅" },
+      "oct": { "temp": 15, "desc": "Mild with rain", "icon": "🌦️" },
+      "nov": { "temp": 12, "desc": "Cool & rainy", "icon": "🌧️" },
+      "dec": { "temp": 10, "desc": "Cool & rainy", "icon": "🌧️" }
+    },
+    "iata": "BIO"
+  },
+  {
     "slug": "ghent",
     "name": "Ghent",
     "country": "Belgium",

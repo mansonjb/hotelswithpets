@@ -406,6 +406,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Vesima year-round dog beach, the 92,000 m² Parchi di Nervi, and the Porto Antico redesigned by Renzo Piano',
       area: 'the UNESCO Strade Nuove, the Boccadasse fishing village, and the Nervi seaside parks',
     },
+    getxo: {
+      personality: 'Bilbao\'s coastal Basque neighbour on the Bay of Biscay, home of the UNESCO Vizcaya Bridge (dog-friendly since 2017), the picturesque Puerto Viejo de Algorta fishing port and a 6 km cliff trail above the Cantabrian Sea',
+      highlight: 'the Punta Galea cliff path from the Aixerrota windmill, the Vizcaya transporter bridge with dogs up to 40 kg, and 17 designated off-leash dog-recreation zones',
+      area: 'the Puerto Viejo de Algorta, the Romantic-era Neguri mansion district, and the Las Arenas waterfront at the Nervión estuary',
+    },
     ghent: {
       personality: 'a progressive, cycling-first Belgian city where dogs are part of daily life. On trams, in coffee bars, and along the beautiful Leie and Schelde rivers',
       highlight: 'the Citadelpark, the Bourgoyen-Ossemeersen nature reserve, and the Leie riverside towpaths',
@@ -1324,6 +1329,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la plage canine de Vesima toute l\'année, les Parchi di Nervi de 92 000 m² et le Porto Antico redessiné par Renzo Piano',
       area: 'les Strade Nuove UNESCO, le village de pêcheurs de Boccadasse et les parcs côtiers de Nervi',
     },
+    getxo: {
+      personality: 'le voisin côtier basque de Bilbao sur la baie de Biscaye, qui abrite le Pont de Biscaye UNESCO (dog-friendly depuis 2017), le pittoresque Puerto Viejo de Algorta en escaliers et un sentier côtier de 6 km au-dessus du Cantabrique',
+      highlight: 'le sentier des falaises de Punta Galea depuis le moulin d\'Aixerrota, le transbordeur de Biscaye qui accepte les chiens jusqu\'à 40 kg et les 17 zones balisées de récréation canine',
+      area: 'le Puerto Viejo de Algorta, le quartier romantique des villas de Neguri et le front de mer de Las Arenas à l\'embouchure du Nervión',
+    },
     ghent: {
       personality: 'une ville belge progressiste axée sur le vélo où les chiens font partie de la vie quotidienne. Dans les tramways, dans les coffee bars et le long des belles rivières Leie et Schelde',
       highlight: 'le Citadelpark, la réserve naturelle de Bourgoyen-Ossemeersen et les chemins de halage riverains de la Leie',
@@ -2241,6 +2251,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la playa canina de Vesima todo el año, los Parchi di Nervi de 92.000 m² y el Porto Antico rediseñado por Renzo Piano',
       area: 'las Strade Nuove UNESCO, el pueblo pesquero de Boccadasse y los parques costeros de Nervi',
     },
+    getxo: {
+      personality: 'el vecino costero vasco de Bilbao en el Cantábrico, hogar del Puente Bizkaia UNESCO (dog-friendly desde 2017), el pintoresco Puerto Viejo de Algorta en escaleras y un sendero costero de 6 km sobre el Cantábrico',
+      highlight: 'el sendero de los acantilados de Punta Galea desde el molino de Aixerrota, el transbordador del Puente Bizkaia que admite perros hasta 40 kg y las 17 zonas señalizadas de esparcimiento canino',
+      area: 'el Puerto Viejo de Algorta, el distrito romántico de villas de Neguri y el frente marítimo de Las Arenas en la desembocadura del Nervión',
+    },
     ghent: {
       personality: 'una progresista ciudad belga orientada a la bicicleta donde los perros forman parte de la vida cotidiana. En tranvías, en cafeterías y a lo largo de los bellos ríos Leie y Schelde',
       highlight: 'el Citadelpark, la reserva natural de Bourgoyen-Ossemeersen y los caminos de sirga ribereños del Leie',
@@ -3157,6 +3172,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das cidades italianas mais discretamente acogedoras para animais, a primera de Liguria en abrir uma praia canina oficial, com caruggi 8°C mais frescos que o passeio marítimo en verão, tres clínicas veterinárias de urgências 24/7 e uma red de transporte vertical única de funiculares e ascensores',
       highlight: 'a praia canina de Vesima o ano inteiro, os Parchi di Nervi de 92.000 m² e o Porto Antico redisenhado por Renzo Piano',
       area: 'as Strade Nuove UNESCO, o pueblo pesquero de Boccadasse e os parques costeros de Nervi',
+    },
+    getxo: {
+      personality: 'o vizinho costeiro basco de Bilbao no Cantábrico, lar do Puente Bizkaia UNESCO (dog-friendly desde 2017), do pitoresco Puerto Viejo de Algorta em escadarias e de um trilho costeiro de 6 km sobre o Cantábrico',
+      highlight: 'o trilho dos penhascos de Punta Galea a partir do moinho de Aixerrota, o transportador do Puente Bizkaia que admite cães até 40 kg e as 17 zonas sinalizadas de recreio canino',
+      area: 'o Puerto Viejo de Algorta, o distrito romântico das vilas de Neguri e a frente marítima de Las Arenas na foz do Nervión',
     },
     ghent: {
       personality: 'uma progresista cidade belga orientada a a bicicleta onde os cães forman parte da vida cotidiana. En elétricos, en cafeterías e a lo largo dos bellos rios Leie e Schelde',

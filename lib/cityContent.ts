@@ -9874,6 +9874,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  getxo: {
+    history: {
+      fr: `Getxo est la voisine côtière de Bilbao sur la baie de Biscaye, 78 000 habitants installés sur les falaises et les plages à l'embouchure du Nervión. Au XIXᵉ siècle, l'âge d'or de l'industrie basque y a attiré la grande bourgeoisie de Bilbao, qui s'est fait bâtir une couronne de villas romantiques et modernistes dans le quartier de Neguri, encore en place et en privé. C'est en 1893 qu'Alberto de Palacio inaugure le Pont de Biscaye, premier pont transbordeur du monde, qui relie Getxo à Portugalete par une nacelle suspendue, le pont est classé au patrimoine mondial UNESCO en 2006 comme seul monument industriel espagnol. Le Puerto Viejo de Algorta, ancien port de pêche médiéval, est devenu un quartier à pintxos en escaliers, et la pointe rocheuse de Punta Galea offre 6 km de sentier côtier au-dessus du Cantabrique. Getxo est officiellement dog-friendly depuis 2017, le Pont de Biscaye accepte les chiens jusqu'à 40 kg en nacelle, et la mairie a balisé 17 zones de récréation canine à travers la commune.`,
+      en: `Getxo is Bilbao's coastal neighbour on the Bay of Biscay, 78,000 people settled on the cliffs and beaches at the mouth of the Nervión. In the 19th century the golden age of Basque industry drew the great Bilbao bourgeoisie here, who built themselves a crown of Romantic and Modernist villas in the Neguri district, still standing and still private. In 1893 Alberto de Palacio inaugurated the Vizcaya Bridge, the world's first transporter bridge linking Getxo to Portugalete by a suspended gondola, listed UNESCO World Heritage in 2006 as the only Spanish industrial monument. The Puerto Viejo de Algorta, a medieval fishing port, has become a stepped pintxo district, and the rocky promontory of Punta Galea offers 6 km of coastal trail above the Cantabrian Sea. Getxo has been officially dog-friendly since 2017, the Vizcaya Bridge admits dogs up to 40 kg in the gondola, and the City Council has signposted 17 dog-recreation zones across the municipality.`,
+      es: `Getxo es la vecina costera de Bilbao en el Cantábrico, 78 000 habitantes instalados sobre los acantilados y las playas en la desembocadura del Nervión. En el siglo XIX la edad de oro de la industria vasca atrajo aquí a la gran burguesía bilbaína, que se construyó una corona de villas románticas y modernistas en el distrito de Neguri, todavía en pie y todavía privadas. En 1893 Alberto de Palacio inauguró el Puente Bizkaia, primer puente transbordador del mundo que une Getxo con Portugalete mediante una barquilla colgante, declarado Patrimonio Mundial UNESCO en 2006 como único monumento industrial español. El Puerto Viejo de Algorta, antiguo puerto pesquero medieval, se ha convertido en un barrio de pintxos en escaleras, y la punta rocosa de Punta Galea ofrece 6 km de sendero costero sobre el Cantábrico. Getxo es oficialmente dog-friendly desde 2017, el Puente Bizkaia admite perros hasta 40 kg en la barquilla, y el Ayuntamiento ha señalizado 17 zonas de esparcimiento canino en todo el municipio.`,
+      pt: `Getxo é a vizinha costeira de Bilbao no Cantábrico, 78 000 habitantes instalados sobre os penhascos e as praias na foz do Nervión. No século XIX a idade de ouro da indústria basca atraiu aqui a grande burguesia bilbaína, que se construiu uma coroa de vilas românticas e modernistas no distrito de Neguri, ainda de pé e ainda privadas. Em 1893 Alberto de Palacio inaugurou o Puente Bizkaia, primeira ponte transbordadora do mundo que liga Getxo a Portugalete por uma gôndola suspensa, declarada Património Mundial UNESCO em 2006 como único monumento industrial espanhol. O Puerto Viejo de Algorta, antigo porto piscatório medieval, tornou-se num bairro de pintxos em escadarias, e a ponta rochosa de Punta Galea oferece 6 km de trilho costeiro sobre o Cantábrico. Getxo é oficialmente dog-friendly desde 2017, o Puente Bizkaia admite cães até 40 kg na gôndola, e a Câmara sinalizou 17 zonas de recreio canino em todo o município.`,
+    },
+    sights: [
+      {
+        name: `Puente Bizkaia / Vizcaya Bridge (UNESCO)`,
+        emoji: `🌉`,
+        petFriendly: true,
+        desc: {
+          fr: `Premier pont transbordeur du monde, conçu par Alberto de Palacio et inauguré en 1893, classé UNESCO en 2006 comme seul site espagnol de la catégorie Patrimoine industriel. Dog-friendly officiel depuis décembre 2017, chiens jusqu'à 40 kg admis dans le compartiment passagers latéral de la nacelle.`,
+          en: `The world's first transporter bridge, designed by Alberto de Palacio and inaugurated in 1893, listed UNESCO in 2006 as the only Spanish entry in the Industrial Heritage category. Officially dog-friendly since December 2017, dogs up to 40 kg admitted in the gondola's lateral passenger compartment.`,
+          es: `Primer puente transbordador del mundo, diseñado por Alberto de Palacio e inaugurado en 1893, Patrimonio Mundial UNESCO en 2006 como único sitio español de la categoría Patrimonio Industrial. Oficialmente dog-friendly desde diciembre 2017, perros hasta 40 kg admitidos en el compartimento lateral de pasajeros de la barquilla.`,
+          pt: `Primeira ponte transbordadora do mundo, desenhada por Alberto de Palacio e inaugurada em 1893, Património Mundial UNESCO em 2006 como único sítio espanhol da categoria Património Industrial. Oficialmente dog-friendly desde dezembro 2017, cães até 40 kg admitidos no compartimento lateral de passageiros da gôndola.`,
+        },
+      },
+      {
+        name: `Puerto Viejo de Algorta`,
+        emoji: `🐟`,
+        petFriendly: true,
+        desc: {
+          fr: `Ancien port de pêche médiéval qui descend en plazas en gradins de pierre vers la mer, avec maisons blanches, cabanons de pêcheurs et marches qui servent de tables improvisées les soirs de pintxos. Entièrement piéton, ouvert aux chiens en laisse 24h.`,
+          en: `A medieval fishing port descending in stepped stone plazas to the sea, with white houses, fishermen's cottages and stairs that double as improvised tables on pintxo evenings. Fully pedestrianised and open to leashed dogs 24h.`,
+          es: `Antiguo puerto pesquero medieval que desciende en plazas escalonadas de piedra hacia el mar, con casas blancas, casetas de pescadores y peldaños que sirven de mesas improvisadas en las noches de pintxos. Totalmente peatonal y abierto a perros con correa 24h.`,
+          pt: `Antigo porto piscatório medieval que desce em praças escalonadas de pedra para o mar, com casas brancas, casinhotos de pescadores e degraus que servem de mesas improvisadas nas noites de pintxos. Totalmente pedonal e aberto a cães com trela 24h.`,
+        },
+      },
+      {
+        name: `Sendero Costero de Punta Galea`,
+        emoji: `🏞️`,
+        petFriendly: true,
+        desc: {
+          fr: `Sentier côtier plat de 6 km depuis le moulin d'Aixerrota du XVIIIᵉ siècle jusqu'aux plages d'Azkorri et Sopelana, en béton et gravier compacté avec bancs et fontaines fréquents. Chiens en laisse bienvenus toute l'année, vues panoramiques sur le Cantabrique.`,
+          en: `Flat 6 km coastal trail from the 18th-century Aixerrota windmill to the beaches of Azkorri and Sopelana, in concrete and compacted gravel with frequent benches and water fountains. Leashed dogs welcome year-round, panoramic Cantabrian Sea views.`,
+          es: `Sendero costero llano de 6 km desde el molino de Aixerrota del siglo XVIII hasta las playas de Azkorri y Sopelana, en hormigón y grava compactada con bancos y fuentes frecuentes. Perros con correa bienvenidos todo el año, vistas panorámicas al Cantábrico.`,
+          pt: `Trilho costeiro plano de 6 km desde o moinho de Aixerrota do século XVIII até às praias de Azkorri e Sopelana, em betão e gravilha compactada com bancos e fontes frequentes. Cães com trela bem-vindos o ano inteiro, vistas panorâmicas para o Cantábrico.`,
+        },
+      },
+      {
+        name: `Playa de Ereaga`,
+        emoji: `🏖️`,
+        petFriendly: false,
+        desc: {
+          fr: `Plage urbaine phare de Getxo, 800 m de sable fin sous le Puerto Viejo de Algorta, encadrée par les falaises de Punta Galea. Chiens interdits en récréation générale du 1ᵉʳ mai au 30 septembre ; accès autorisé seulement entre 20h et 9h30 avec laisse pendant la saison de baignade, le reste de l'année les chiens en laisse sont bienvenus la plupart des heures.`,
+          en: `Getxo's flagship urban beach, 800 m of fine sand below the Puerto Viejo de Algorta, framed by the Punta Galea cliffs. Dogs banned for general recreation from 1 May to 30 September; access only between 20:00 and 09:30 with leash during bathing season, the rest of the year leashed dogs welcome most hours.`,
+          es: `Playa urbana estrella de Getxo, 800 m de arena fina bajo el Puerto Viejo de Algorta, enmarcada por los acantilados de Punta Galea. Perros prohibidos como recreo general del 1 de mayo al 30 de septiembre; acceso solo entre 20:00 y 09:30 con correa en temporada de baño, el resto del año perros con correa bienvenidos la mayoría de horas.`,
+          pt: `Praia urbana emblemática de Getxo, 800 m de areia fina sob o Puerto Viejo de Algorta, enquadrada pelos penhascos de Punta Galea. Cães proibidos como recreio geral de 1 de maio a 30 de setembro; acesso apenas entre 20:00 e 09:30 com trela em época balnear, o resto do ano cães com trela bem-vindos a maioria das horas.`,
+        },
+      },
+      {
+        name: `Molino de Aixerrota`,
+        emoji: `🌾`,
+        petFriendly: true,
+        desc: {
+          fr: `Moulin à vent en pierre du XVIIIᵉ siècle au sommet des falaises de Galea, restauré en restaurant et point de départ du sentier des falaises. Le parking est gratuit, la terrasse du restaurant accepte les chiens et la vue sur le Cantabrique est spectaculaire.`,
+          en: `An 18th-century stone windmill on the Galea clifftop, restored as a restaurant and the starting point of the cliff trail. Parking is free, the restaurant terrace welcomes dogs and the Cantabrian Sea view is spectacular.`,
+          es: `Molino de viento de piedra del siglo XVIII en lo alto de los acantilados de Galea, restaurado como restaurante y punto de inicio del sendero de los acantilados. El aparcamiento es gratuito, la terraza del restaurante admite perros y la vista al Cantábrico es espectacular.`,
+          pt: `Moinho de vento em pedra do século XVIII no topo dos penhascos de Galea, restaurado como restaurante e ponto de partida do trilho dos penhascos. O estacionamento é gratuito, a esplanada do restaurante admite cães e a vista para o Cantábrico é espectacular.`,
+        },
+      },
+      {
+        name: `Paseo de las Grandes Villas (Neguri)`,
+        emoji: `🏘️`,
+        petFriendly: true,
+        desc: {
+          fr: `Promenade arborée à travers le quartier de Neguri, ancien quartier résidentiel d'été de la bourgeoisie industrielle de Bilbao, bordée de villas romantiques et modernistes. Trottoirs publics ouverts aux chiens en laisse, ambiance calme du dimanche matin.`,
+          en: `A tree-lined promenade through the Neguri district, the historic summer-residential quarter of Bilbao's industrial bourgeoisie, lined with Romantic and Modernist villas. Public sidewalks open to leashed dogs, calm Sunday-morning atmosphere.`,
+          es: `Paseo arbolado por el distrito de Neguri, antiguo barrio residencial de verano de la burguesía industrial bilbaína, bordeado de villas románticas y modernistas. Aceras públicas abiertas a perros con correa, ambiente tranquilo de domingo por la mañana.`,
+          pt: `Passeio arborizado pelo distrito de Neguri, antigo bairro residencial de verão da burguesia industrial de Bilbao, ladeado por vilas românticas e modernistas. Passeios públicos abertos a cães com trela, ambiente calmo de domingo de manhã.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Plages urbaines: Ereaga, Las Arenas et Arrigunaga interdisent les chiens en récréation générale du 1ᵉʳ mai au 30 septembre, accès autorisé seulement entre 20h et 9h30 avec laisse pendant la saison de baignade.`,
+        `Metro Bilbao Ligne 1 (qui dessert Algorta, Bidezabal et Berango): chiens jusqu'à 8 kg en laisse et portés dans les bras uniquement, les plus grands chiens doivent prendre la Cercanías Renfe ou le taxi.`,
+        `Pont de Biscaye (UNESCO): dog-friendly depuis décembre 2017, chiens jusqu'à 40 kg admis dans le compartiment passagers latéral de la nacelle, tarif piéton autour de 0,50 EUR la traversée.`,
+        `Getxo a balisé 17 zones de récréation canine en 2022, téléchargez la carte de l'Ayuntamiento avant l'arrivée, les horaires sans laisse ne sont pas identiques partout.`,
+        `Le sentier des falaises de Punta Galea est exposé aux tempêtes d'ouest d'octobre à février, vérifiez la météo marine avant la marche, vents de 60 km/h fréquents.`,
+      ],
+      en: [
+        `Urban beaches: Ereaga, Las Arenas and Arrigunaga ban dogs for general recreation from 1 May to 30 September, access allowed only between 20:00 and 09:30 with leash during bathing season.`,
+        `Metro Bilbao Line 1 (serving Algorta, Bidezabal and Berango stops): dogs up to 8 kg leashed and held in arms only, larger dogs must use Renfe Cercanías or a taxi.`,
+        `Vizcaya Bridge (UNESCO): dog-friendly since December 2017, dogs up to 40 kg admitted in the gondola's lateral passenger compartment, pedestrian crossing fare around 0.50 EUR.`,
+        `Getxo signposted 17 dog-recreation zones in 2022, download the Ayuntamiento map before you arrive, the off-leash hours are not the same in every park.`,
+        `The Punta Galea cliff trail is exposed to westerly storms October to February, check the marine forecast before the walk, 60 km/h winds common.`,
+      ],
+      es: [
+        `Playas urbanas: Ereaga, Las Arenas y Arrigunaga prohíben los perros como recreo general del 1 de mayo al 30 de septiembre, acceso autorizado solo entre 20:00 y 09:30 con correa en temporada de baño.`,
+        `Metro Bilbao Línea 1 (que sirve Algorta, Bidezabal y Berango): perros hasta 8 kg con correa y en brazos únicamente, los perros más grandes deben usar Renfe Cercanías o taxi.`,
+        `Puente Bizkaia (UNESCO): dog-friendly desde diciembre 2017, perros hasta 40 kg admitidos en el compartimento lateral de pasajeros de la barquilla, tarifa peatonal en torno a 0,50 EUR la travesía.`,
+        `Getxo señalizó 17 zonas de esparcimiento canino en 2022, descarga el mapa del Ayuntamiento antes de llegar, los horarios de suelta no son iguales en todos los parques.`,
+        `El sendero de los acantilados de Punta Galea está expuesto a tempestades del oeste de octubre a febrero, consulta la previsión marítima antes del paseo, vientos de 60 km/h frecuentes.`,
+      ],
+      pt: [
+        `Praias urbanas: Ereaga, Las Arenas e Arrigunaga proíbem os cães como recreio geral de 1 de maio a 30 de setembro, acesso autorizado apenas entre 20:00 e 09:30 com trela em época balnear.`,
+        `Metro Bilbao Linha 1 (que serve Algorta, Bidezabal e Berango): cães até 8 kg com trela e ao colo apenas, os cães maiores devem usar Renfe Cercanías ou táxi.`,
+        `Puente Bizkaia (UNESCO): dog-friendly desde dezembro 2017, cães até 40 kg admitidos no compartimento lateral de passageiros da gôndola, tarifa pedonal em torno de 0,50 EUR a travessia.`,
+        `Getxo sinalizou 17 zonas de recreio canino em 2022, descarregue o mapa do Ayuntamiento antes de chegar, os horários de soltura não são iguais em todos os parques.`,
+        `O trilho dos penhascos de Punta Galea está exposto a tempestades de oeste de outubro a fevereiro, consulte a previsão marítima antes do passeio, ventos de 60 km/h frequentes.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport le plus proche: Bilbao-Loiu (BIO) à 20 km au sud-est, navette A3247 ou taxi (30 minutes), vols européens fréquents.`,
+        `Vétérinaire d'urgence 24h: Hospital Veterinario Tartanga UNAVETS, Zirgariak Etorbidea 32, Erandio (10 minutes en voiture depuis Algorta), ouvert sans rendez-vous 365 jours par an.`,
+        `Vétérinaire de proximité: Centro Veterinario Kukume, Calle Alangobarri 3, Algorta, +34 946 417 186, lun-ven 10:00-13:30 et 17:00-20:00.`,
+        `Climat océanique du Cantabrique: hivers doux et pluvieux (9-12 °C), étés tempérés (21-22 °C), pluie possible toute l'année, prévoyez une serviette pour le chien.`,
+        `Loi espagnole: passeport européen, puce ISO et vaccination antirabique en cours de validité requis pour tout chien transfrontalier, à 110 km de la frontière française Hendaye-Irun.`,
+      ],
+      en: [
+        `Nearest airport: Bilbao-Loiu (BIO) 20 km south-east, A3247 shuttle or taxi (30 minutes), frequent European flights.`,
+        `24h emergency vet: Hospital Veterinario Tartanga UNAVETS, Zirgariak Etorbidea 32, Erandio (10 minutes by car from Algorta), walk-in 365 days a year.`,
+        `Local vet: Centro Veterinario Kukume, Calle Alangobarri 3, Algorta, +34 946 417 186, Mon-Fri 10:00-13:30 and 17:00-20:00.`,
+        `Cantabrian oceanic climate: mild rainy winters (9-12 °C), tempered summers (21-22 °C), rain possible year-round, pack a dog towel.`,
+        `Spanish law: EU pet passport, ISO microchip and valid rabies vaccination required for any cross-border dog, 110 km from the Hendaye-Irun French border.`,
+      ],
+      es: [
+        `Aeropuerto más cercano: Bilbao-Loiu (BIO) a 20 km al sureste, lanzadera A3247 o taxi (30 minutos), vuelos europeos frecuentes.`,
+        `Veterinario de urgencias 24h: Hospital Veterinario Tartanga UNAVETS, Zirgariak Etorbidea 32, Erandio (10 minutos en coche desde Algorta), sin cita 365 días al año.`,
+        `Veterinario de proximidad: Centro Veterinario Kukume, Calle Alangobarri 3, Algorta, +34 946 417 186, lun-vie 10:00-13:30 y 17:00-20:00.`,
+        `Clima oceánico cantábrico: inviernos suaves y lluviosos (9-12 °C), veranos templados (21-22 °C), lluvia posible todo el año, lleva una toalla para el perro.`,
+        `Ley española: pasaporte europeo, chip ISO y vacuna antirrábica vigente requeridos para todo perro transfronterizo, a 110 km de la frontera francesa Hendaya-Irún.`,
+      ],
+      pt: [
+        `Aeroporto mais próximo: Bilbao-Loiu (BIO) a 20 km a sudeste, lançadeira A3247 ou táxi (30 minutos), voos europeus frequentes.`,
+        `Veterinário de urgência 24h: Hospital Veterinario Tartanga UNAVETS, Zirgariak Etorbidea 32, Erandio (10 minutos de carro desde Algorta), sem marcação 365 dias por ano.`,
+        `Veterinário de proximidade: Centro Veterinario Kukume, Calle Alangobarri 3, Algorta, +34 946 417 186, seg-sex 10:00-13:30 e 17:00-20:00.`,
+        `Clima oceânico cantábrico: invernos suaves e chuvosos (9-12 °C), verões temperados (21-22 °C), chuva possível o ano inteiro, leve uma toalha para o cão.`,
+        `Lei espanhola: passaporte europeu, chip ISO e vacina antirrábica em vigor requeridos para todo cão transfronteiriço, a 110 km da fronteira francesa Hendaia-Irun.`,
+      ],
+    },
+  },
+
   ghent: {
     history: {
       fr: `Gand, au cœur de la Flandre, fut la deuxième plus grande ville d'Europe du Nord médiévale après Paris, et sa silhouette aux trois tours, cathédrale Saint-Bavon, Beffroi et Saint-Nicolas, témoigne encore de cet âge d'or. C'est aujourd'hui une ville universitaire compacte de 265 000 habitants dotée de l'un des centres historiques les plus piétonniers d'Europe, un paradis pour qui promène son chien. La Flandre est la terre d'élection canine de Belgique, et Gand compte des dizaines de hondenlosloopzones officielles, dont les grandes réserves naturelles de Bourgoyen et du lac récréatif de Blaarmeersen. L'esprit progressiste de la ville s'étend aux animaux : elle a été la première em Europe à instaurer un Jeudi Veggie en 2009, et ses cafés du Graslei accueillent presque tous les chiens. Sans voitures depuis 2017, le centre médiéval se parcourt à pas d'homme, et de chien.`,

@@ -19,7 +19,7 @@
           "name": "La Locanda Comptoir Italien",
           "address": "12 Rue de la Maison Carrée, 30000 Nîmes",
           "neighborhood": "Maison Carrée",
-          "photo": "/images/city-places/nimes-restaurants-la-locanda.jpg",
+          "photo": "/images/city-places/nimes-restaurants-la-locanda-comptoir-italien.jpg",
           "website": "",
           "description": "An Italian trattoria literally in front of the Maison Carrée, with a pavement terrace looking straight at the Roman temple. The kitchen runs a short Italian-bistro menu of antipasti, fresh pasta and grilled fish, with a glass of Languedoc rosé as the default. Dogs on leads are part of the terrace scene every day, and the staff bring a water bowl on request.",
           "descriptionFr": "Une trattoria italienne juste en face de la Maison Carrée, avec une terrasse de trottoir qui regarde droit le temple romain. La carte est une carte bistrot italienne : antipasti, pâtes fraîches, poisson grillé, et un verre de rosé du Languedoc par défaut. Les chiens en laisse font partie du quotidien de la terrasse, le personnel apporte un bol d'eau sur demande.",
@@ -115,24 +115,60 @@
         "As taças de água são frequentes, leve uma dobrável no verão; Nîmes é uma das cidades mais quentes de França, frequentemente acima de 35 °C em julho-agosto."
       ],
       "faqsEn": [
-        {"q": "Can my dog come inside the historic centre restaurants?", "a": "Many indoor rooms accept small dogs in arms; medium and large dogs are usually directed to the terrace. Always ask the host on arrival."},
-        {"q": "Are restaurants near the Maison Carrée dog-friendly?", "a": "Yes, almost all pavement terraces on Place de la Maison Carrée and Rue de la Maison Carrée take leashed dogs; the square is pedestrian and dogs are part of the daily scene."},
-        {"q": "Should I avoid the centre during Féria?", "a": "Yes if you travel with a dog. Pentecôte and Vendanges Férias draw 500,000+ visitors with brass bands, fireworks and crowds; even calm dogs struggle. Stay outside the walls or book a sitter."}
+        {
+          "q": "Can my dog come inside the historic centre restaurants?",
+          "a": "Many indoor rooms accept small dogs in arms; medium and large dogs are usually directed to the terrace. Always ask the host on arrival."
+        },
+        {
+          "q": "Are restaurants near the Maison Carrée dog-friendly?",
+          "a": "Yes, almost all pavement terraces on Place de la Maison Carrée and Rue de la Maison Carrée take leashed dogs; the square is pedestrian and dogs are part of the daily scene."
+        },
+        {
+          "q": "Should I avoid the centre during Féria?",
+          "a": "Yes if you travel with a dog. Pentecôte and Vendanges Férias draw 500,000+ visitors with brass bands, fireworks and crowds; even calm dogs struggle. Stay outside the walls or book a sitter."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il entrer en salle dans le centre historique ?", "a": "Beaucoup de salles acceptent les petits chiens dans les bras ; les chiens moyens et grands sont généralement orientés vers la terrasse. Demandez à l'accueil."},
-        {"q": "Les restaurants près de la Maison Carrée sont-ils dog-friendly ?", "a": "Oui, presque toutes les terrasses de trottoir sur la Place et la Rue de la Maison Carrée acceptent les chiens en laisse ; la place est piétonne et les chiens font partie du décor."},
-        {"q": "Faut-il éviter le centre pendant la Féria ?", "a": "Oui avec un chien. Les Férias de Pentecôte et des Vendanges attirent plus de 500 000 visiteurs avec fanfares, feux d'artifice et foule ; même les chiens calmes en souffrent. Logez hors centre ou confiez le chien."}
+        {
+          "q": "Mon chien peut-il entrer en salle dans le centre historique ?",
+          "a": "Beaucoup de salles acceptent les petits chiens dans les bras ; les chiens moyens et grands sont généralement orientés vers la terrasse. Demandez à l'accueil."
+        },
+        {
+          "q": "Les restaurants près de la Maison Carrée sont-ils dog-friendly ?",
+          "a": "Oui, presque toutes les terrasses de trottoir sur la Place et la Rue de la Maison Carrée acceptent les chiens en laisse ; la place est piétonne et les chiens font partie du décor."
+        },
+        {
+          "q": "Faut-il éviter le centre pendant la Féria ?",
+          "a": "Oui avec un chien. Les Férias de Pentecôte et des Vendanges attirent plus de 500 000 visiteurs avec fanfares, feux d'artifice et foule ; même les chiens calmes en souffrent. Logez hors centre ou confiez le chien."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo entrar con mi perro a restaurantes del centro?", "a": "Muchas salas aceptan perros pequeños en brazos; medianos y grandes se orientan a la terraza. Pregunta al recibirte."},
-        {"q": "¿Son dog-friendly los restaurantes cerca de la Maison Carrée?", "a": "Sí, casi todas las terrazas de acera en Place y Rue de la Maison Carrée admiten perros con correa; la plaza es peatonal y los perros son parte del paisaje."},
-        {"q": "¿Hay que evitar el centro durante la Féria?", "a": "Sí con perro. Las Férias de Pentecostés y de Vendanges atraen más de 500.000 visitantes con charangas, fuegos y multitud; incluso perros tranquilos sufren. Alójate fuera o deja al perro con un cuidador."}
+        {
+          "q": "¿Puedo entrar con mi perro a restaurantes del centro?",
+          "a": "Muchas salas aceptan perros pequeños en brazos; medianos y grandes se orientan a la terraza. Pregunta al recibirte."
+        },
+        {
+          "q": "¿Son dog-friendly los restaurantes cerca de la Maison Carrée?",
+          "a": "Sí, casi todas las terrazas de acera en Place y Rue de la Maison Carrée admiten perros con correa; la plaza es peatonal y los perros son parte del paisaje."
+        },
+        {
+          "q": "¿Hay que evitar el centro durante la Féria?",
+          "a": "Sí con perro. Las Férias de Pentecostés y de Vendanges atraen más de 500.000 visitantes con charangas, fuegos y multitud; incluso perros tranquilos sufren. Alójate fuera o deja al perro con un cuidador."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso entrar com o meu cão nos restaurantes do centro?", "a": "Muitas salas aceitam cães pequenos ao colo; médios e grandes são orientados para a esplanada. Pergunte na receção."},
-        {"q": "Os restaurantes perto da Maison Carrée são dog-friendly?", "a": "Sim, quase todas as esplanadas em Place e Rue de la Maison Carrée aceitam cães com trela; a praça é pedonal e os cães fazem parte do cenário."},
-        {"q": "Devo evitar o centro durante a Féria?", "a": "Sim com cão. As Férias de Pentecostes e das Vindimas atraem mais de 500.000 visitantes com charangas, fogos e multidão; até cães calmos sofrem. Aloje-se fora ou deixe o cão com um cuidador."}
+        {
+          "q": "Posso entrar com o meu cão nos restaurantes do centro?",
+          "a": "Muitas salas aceitam cães pequenos ao colo; médios e grandes são orientados para a esplanada. Pergunte na receção."
+        },
+        {
+          "q": "Os restaurantes perto da Maison Carrée são dog-friendly?",
+          "a": "Sim, quase todas as esplanadas em Place e Rue de la Maison Carrée aceitam cães com trela; a praça é pedonal e os cães fazem parte do cenário."
+        },
+        {
+          "q": "Devo evitar o centro durante a Féria?",
+          "a": "Sim com cão. As Férias de Pentecostes e das Vindimas atraem mais de 500.000 visitantes com charangas, fogos e multidão; até cães calmos sofrem. Aloje-se fora ou deixe o cão com um cuidador."
+        }
       ]
     },
     "parks": {
@@ -175,7 +211,7 @@
           "name": "Parc du Mont Duplan",
           "address": "Avenue Carnot, 30000 Nîmes",
           "neighborhood": "Mont Duplan (north-east)",
-          "photo": "/images/city-places/nimes-parks-mont-duplan.jpg",
+          "photo": "/images/city-places/nimes-parks-parc-du-mont-duplan.jpg",
           "website": "",
           "description": "A 4-hectare hillside park on the north-east edge of the city, with shaded paths winding up between pine groves, a small belvedere on the upper side and views back over the Roman centre. Less visited than the Jardins de la Fontaine, with more room for a longer leashed walk. Dogs on lead welcome; the fenced children's playground bans dogs.",
           "descriptionFr": "Un parc en colline de 4 hectares à la lisière nord-est de la ville, avec des allées ombragées qui serpentent entre les pinèdes, un petit belvédère en hauteur et la vue sur le centre romain. Moins fréquenté que les Jardins de la Fontaine, avec plus d'espace pour une longue balade en laisse. Chiens en laisse bienvenus ; l'aire de jeux clôturée interdit les chiens.",
@@ -245,24 +281,60 @@
         "O interior da Tour Magne romana proíbe cães salvo de assistência; a esplanada panorâmica exterior no topo é ao ar livre e acessível."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Jardins de la Fontaine?", "a": "Yes, leashed dogs are welcome throughout the 15-hectare park, free of charge, including on the Tour Magne climbing path. Off-leash dogs are routinely fined."},
-        {"q": "Is there an off-leash dog park inside Nîmes?", "a": "No. The municipality requires all dogs on lead inside the commune, including in parks. For free running, head to a sitter-managed yard via Gudog or Rover."},
-        {"q": "Can my dog climb to the Tour Magne?", "a": "Yes, the climbing path through the Jardins de la Fontaine is open to leashed dogs. Only the interior of the Roman tower itself bans dogs (except guide and assistance dogs)."}
+        {
+          "q": "Are dogs allowed in the Jardins de la Fontaine?",
+          "a": "Yes, leashed dogs are welcome throughout the 15-hectare park, free of charge, including on the Tour Magne climbing path. Off-leash dogs are routinely fined."
+        },
+        {
+          "q": "Is there an off-leash dog park inside Nîmes?",
+          "a": "No. The municipality requires all dogs on lead inside the commune, including in parks. For free running, head to a sitter-managed yard via Gudog or Rover."
+        },
+        {
+          "q": "Can my dog climb to the Tour Magne?",
+          "a": "Yes, the climbing path through the Jardins de la Fontaine is open to leashed dogs. Only the interior of the Roman tower itself bans dogs (except guide and assistance dogs)."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils admis aux Jardins de la Fontaine ?", "a": "Oui, les chiens en laisse sont bienvenus dans tout le parc de 15 hectares, gratuit, y compris sur le chemin de montée à la Tour Magne. Les chiens en liberté sont régulièrement verbalisés."},
-        {"q": "Y a-t-il un parc canin sans laisse à Nîmes ?", "a": "Non. La commune impose la laisse partout, y compris dans les parcs. Pour la course libre, passez par un sitter avec jardin via Gudog ou Rover."},
-        {"q": "Mon chien peut-il monter à la Tour Magne ?", "a": "Oui, le chemin de montée à travers les Jardins de la Fontaine est ouvert aux chiens en laisse. Seul l'intérieur de la tour romaine interdit les chiens (sauf chiens-guides et d'assistance)."}
+        {
+          "q": "Les chiens sont-ils admis aux Jardins de la Fontaine ?",
+          "a": "Oui, les chiens en laisse sont bienvenus dans tout le parc de 15 hectares, gratuit, y compris sur le chemin de montée à la Tour Magne. Les chiens en liberté sont régulièrement verbalisés."
+        },
+        {
+          "q": "Y a-t-il un parc canin sans laisse à Nîmes ?",
+          "a": "Non. La commune impose la laisse partout, y compris dans les parcs. Pour la course libre, passez par un sitter avec jardin via Gudog ou Rover."
+        },
+        {
+          "q": "Mon chien peut-il monter à la Tour Magne ?",
+          "a": "Oui, le chemin de montée à travers les Jardins de la Fontaine est ouvert aux chiens en laisse. Seul l'intérieur de la tour romaine interdit les chiens (sauf chiens-guides et d'assistance)."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en los Jardins de la Fontaine?", "a": "Sí, los perros con correa son bienvenidos en todo el parque de 15 hectáreas, gratuito, incluido el sendero de subida a la Tour Magne. Los perros sueltos son multados regularmente."},
-        {"q": "¿Hay parque canino sin correa en Nîmes?", "a": "No. La comuna exige correa en todas partes, incluso en parques. Para carrera libre, usa un cuidador con jardín vía Gudog o Rover."},
-        {"q": "¿Mi perro puede subir a la Tour Magne?", "a": "Sí, el sendero de subida por los Jardins de la Fontaine está abierto a perros con correa. Solo el interior de la torre romana prohíbe perros (salvo guía y asistencia)."}
+        {
+          "q": "¿Se admiten perros en los Jardins de la Fontaine?",
+          "a": "Sí, los perros con correa son bienvenidos en todo el parque de 15 hectáreas, gratuito, incluido el sendero de subida a la Tour Magne. Los perros sueltos son multados regularmente."
+        },
+        {
+          "q": "¿Hay parque canino sin correa en Nîmes?",
+          "a": "No. La comuna exige correa en todas partes, incluso en parques. Para carrera libre, usa un cuidador con jardín vía Gudog o Rover."
+        },
+        {
+          "q": "¿Mi perro puede subir a la Tour Magne?",
+          "a": "Sí, el sendero de subida por los Jardins de la Fontaine está abierto a perros con correa. Solo el interior de la torre romana prohíbe perros (salvo guía y asistencia)."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos nos Jardins de la Fontaine?", "a": "Sim, os cães com trela são bem-vindos em todo o parque de 15 hectares, gratuito, incluindo o trilho de subida à Tour Magne. Cães soltos são regularmente multados."},
-        {"q": "Existe parque canino sem trela em Nîmes?", "a": "Não. A comuna exige trela em todo o lado, incluindo parques. Para corrida livre, use um cuidador com jardim via Gudog ou Rover."},
-        {"q": "O meu cão pode subir à Tour Magne?", "a": "Sim, o trilho de subida pelos Jardins de la Fontaine está aberto a cães com trela. Só o interior da torre romana proíbe cães (salvo de assistência)."}
+        {
+          "q": "Os cães são admitidos nos Jardins de la Fontaine?",
+          "a": "Sim, os cães com trela são bem-vindos em todo o parque de 15 hectares, gratuito, incluindo o trilho de subida à Tour Magne. Cães soltos são regularmente multados."
+        },
+        {
+          "q": "Existe parque canino sem trela em Nîmes?",
+          "a": "Não. A comuna exige trela em todo o lado, incluindo parques. Para corrida livre, use um cuidador com jardim via Gudog ou Rover."
+        },
+        {
+          "q": "O meu cão pode subir à Tour Magne?",
+          "a": "Sim, o trilho de subida pelos Jardins de la Fontaine está aberto a cães com trela. Só o interior da torre romana proíbe cães (salvo de assistência)."
+        }
       ]
     },
     "transport": {
@@ -279,7 +351,7 @@
           "name": "Gare SNCF de Nîmes",
           "address": "Boulevard du Sergent Triaire, 30000 Nîmes",
           "neighborhood": "Centre (gare)",
-          "photo": "/images/city-places/nimes-transport-gare-sncf-nimes.jpg",
+          "photo": "/images/city-places/nimes-transport-gare-sncf-de-nimes.jpg",
           "website": "https://www.sncf-connect.com",
           "description": "Nîmes station sits at the southern edge of the historic Écusson, 8 minutes' walk from the Arènes. TGV services to Paris Gare de Lyon in 2h50 and regular TER lines to Avignon (30 min), Arles (30 min), Montpellier (30 min) and Marseille (1h00). SNCF national pet rules apply: dogs under 6 kg in a carrier travel on a 0 EUR animal ticket, larger dogs on lead and muzzled pay 50 percent of the adult fare capped at 7 EUR. Guide and assistance dogs travel free.",
           "descriptionFr": "La gare de Nîmes est à l'extrémité sud de l'Écusson historique, à 8 minutes à pied des Arènes. TGV vers Paris Gare de Lyon en 2h50 et TER fréquents vers Avignon (30 min), Arles (30 min), Montpellier (30 min) et Marseille (1h00). Règles nationales SNCF : chiens de moins de 6 kg en cage avec billet animal à 0 EUR, plus grands en laisse et muselière à 50 % du tarif adulte plafonné à 7 EUR. Chiens-guides et d'assistance gratuits.",
@@ -299,7 +371,7 @@
           "name": "Tango urban bus network",
           "address": "Boutique Tango, 13 rue Régale, 30000 Nîmes",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/nimes-transport-tango.jpg",
+          "photo": "/images/city-places/nimes-transport-tango-urban-bus-network.jpg",
           "website": "https://www.tangobus.fr",
           "description": "Tango is the urban bus network of Nîmes Métropole, covering the city centre and 39 surrounding communes. Like most French municipal bus networks, only small pets carried in a closed basket and guide or assistance dogs are admitted; medium and large dogs on lead are not accepted on board. For the Pont du Gard, take the seasonal Edgard regional bus B21 from the Nîmes coach station, which has the same small-pet-only rule.",
           "descriptionFr": "Tango est le réseau urbain de Nîmes Métropole, couvrant le centre-ville et 39 communes alentour. Comme la plupart des réseaux municipaux français, seuls les petits animaux en panier fermé et les chiens-guides ou d'assistance sont admis ; les chiens moyens et grands en laisse ne sont pas acceptés à bord. Pour le Pont du Gard, prenez la ligne régionale Edgard B21 depuis la gare routière de Nîmes, qui applique la même règle.",
@@ -319,7 +391,7 @@
           "name": "Aéroport Nîmes-Alès-Camargue-Cévennes (FNI)",
           "address": "30800 Saint-Gilles",
           "neighborhood": "Saint-Gilles (15 min south)",
-          "photo": "/images/city-places/nimes-transport-fni-airport.jpg",
+          "photo": "/images/city-places/nimes-transport-aeroport-nimes-ales-camargue-cevennes-fni.jpg",
           "website": "https://www.aeroport-nimes.fr",
           "description": "A small seasonal airport 15 minutes south of Nîmes, with Ryanair and Volotea routes to London Luton, Brussels Charleroi and a few summer destinations. Standard airline pet rules apply: most carriers admit pets up to 8 kg including carrier in cabin and require advance booking. For year-round flexibility, Marseille Provence (MRS, 1h15 by road) or Montpellier (MPL, 50 min) carry far more pet-friendly route options.",
           "descriptionFr": "Un petit aéroport saisonnier à 15 minutes au sud de Nîmes, avec des lignes Ryanair et Volotea vers London Luton, Bruxelles Charleroi et quelques destinations d'été. Règles aériennes standard : la plupart des compagnies acceptent les animaux jusqu'à 8 kg cage comprise en cabine, sur réservation préalable. Pour une flexibilité annuelle, Marseille Provence (MRS, 1h15 en voiture) ou Montpellier (MPL, 50 min) offrent bien plus d'options.",
@@ -357,24 +429,60 @@
         "Para o Pont du Gard, use um táxi em vez do autocarro regional Edgard sazonal se tem um cão grande."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog on the TGV from Paris to Nîmes?", "a": "Yes. Dogs under 6 kg in a carrier travel on a 0 EUR animal ticket; larger dogs on lead and muzzled pay 50 percent of the adult fare with a 7 EUR cap. Buy the ticket on SNCF Connect before boarding."},
-        {"q": "Are dogs allowed on Tango buses?", "a": "Only small pets in a closed basket and guide/assistance dogs are admitted. Medium and large dogs are refused; use the SNCF for inter-city moves and walk or taxi inside Nîmes."},
-        {"q": "Which airport is closest to Nîmes for pet travel?", "a": "Nîmes Garons (FNI) is 15 minutes south but seasonal and limited. Marseille Provence (MRS, 1h15) and Montpellier (MPL, 50 min) carry many more pet-friendly route options year-round."}
+        {
+          "q": "Can I take my dog on the TGV from Paris to Nîmes?",
+          "a": "Yes. Dogs under 6 kg in a carrier travel on a 0 EUR animal ticket; larger dogs on lead and muzzled pay 50 percent of the adult fare with a 7 EUR cap. Buy the ticket on SNCF Connect before boarding."
+        },
+        {
+          "q": "Are dogs allowed on Tango buses?",
+          "a": "Only small pets in a closed basket and guide/assistance dogs are admitted. Medium and large dogs are refused; use the SNCF for inter-city moves and walk or taxi inside Nîmes."
+        },
+        {
+          "q": "Which airport is closest to Nîmes for pet travel?",
+          "a": "Nîmes Garons (FNI) is 15 minutes south but seasonal and limited. Marseille Provence (MRS, 1h15) and Montpellier (MPL, 50 min) carry many more pet-friendly route options year-round."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il prendre le TGV Paris-Nîmes ?", "a": "Oui. Chiens de moins de 6 kg en cage : billet animal 0 EUR ; plus grands en laisse et muselière à 50 % du tarif adulte plafonné à 7 EUR. Achetez le billet sur SNCF Connect avant de monter."},
-        {"q": "Les chiens sont-ils autorisés dans les bus Tango ?", "a": "Seuls les petits animaux en panier fermé et les chiens-guides ou d'assistance sont admis. Les chiens moyens et grands sont refusés ; utilisez la SNCF pour les trajets entre villes et marche ou taxi intra-muros."},
-        {"q": "Quel est l'aéroport le plus proche de Nîmes pour voyager avec un animal ?", "a": "Nîmes Garons (FNI) à 15 minutes au sud mais saisonnier et limité. Marseille Provence (MRS, 1h15) et Montpellier (MPL, 50 min) offrent beaucoup plus d'options annuelles."}
+        {
+          "q": "Mon chien peut-il prendre le TGV Paris-Nîmes ?",
+          "a": "Oui. Chiens de moins de 6 kg en cage : billet animal 0 EUR ; plus grands en laisse et muselière à 50 % du tarif adulte plafonné à 7 EUR. Achetez le billet sur SNCF Connect avant de monter."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés dans les bus Tango ?",
+          "a": "Seuls les petits animaux en panier fermé et les chiens-guides ou d'assistance sont admis. Les chiens moyens et grands sont refusés ; utilisez la SNCF pour les trajets entre villes et marche ou taxi intra-muros."
+        },
+        {
+          "q": "Quel est l'aéroport le plus proche de Nîmes pour voyager avec un animal ?",
+          "a": "Nîmes Garons (FNI) à 15 minutes au sud mais saisonnier et limité. Marseille Provence (MRS, 1h15) et Montpellier (MPL, 50 min) offrent beaucoup plus d'options annuelles."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo llevar a mi perro en TGV de París a Nîmes?", "a": "Sí. Perros menores de 6 kg en transportín: billete animal 0 EUR; mayores con correa y bozal al 50 % de la tarifa adulta con tope de 7 EUR. Compra el billete en SNCF Connect antes de subir."},
-        {"q": "¿Se admiten perros en los buses Tango?", "a": "Solo mascotas pequeñas en transportín cerrado y perros guía o de asistencia. Medianos y grandes rechazados; usa SNCF entre ciudades y camina o taxi en Nîmes."},
-        {"q": "¿Qué aeropuerto está más cerca de Nîmes para viajar con mascota?", "a": "Nîmes Garons (FNI) a 15 minutos al sur pero estacional y limitado. Marsella Provence (MRS, 1h15) y Montpellier (MPL, 50 min) ofrecen muchas más opciones todo el año."}
+        {
+          "q": "¿Puedo llevar a mi perro en TGV de París a Nîmes?",
+          "a": "Sí. Perros menores de 6 kg en transportín: billete animal 0 EUR; mayores con correa y bozal al 50 % de la tarifa adulta con tope de 7 EUR. Compra el billete en SNCF Connect antes de subir."
+        },
+        {
+          "q": "¿Se admiten perros en los buses Tango?",
+          "a": "Solo mascotas pequeñas en transportín cerrado y perros guía o de asistencia. Medianos y grandes rechazados; usa SNCF entre ciudades y camina o taxi en Nîmes."
+        },
+        {
+          "q": "¿Qué aeropuerto está más cerca de Nîmes para viajar con mascota?",
+          "a": "Nîmes Garons (FNI) a 15 minutos al sur pero estacional y limitado. Marsella Provence (MRS, 1h15) y Montpellier (MPL, 50 min) ofrecen muchas más opciones todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso levar o meu cão no TGV de Paris a Nîmes?", "a": "Sim. Cães com menos de 6 kg em transportadora: bilhete animal 0 EUR; maiores com trela e açaime a 50 % da tarifa adulta com tecto de 7 EUR. Compre o bilhete no SNCF Connect antes de embarcar."},
-        {"q": "Os cães são admitidos nos autocarros Tango?", "a": "Apenas pequenos animais em transportadora fechada e cães-guia ou de assistência. Médios e grandes recusados; use SNCF entre cidades e ande ou táxi em Nîmes."},
-        {"q": "Qual é o aeroporto mais próximo de Nîmes para viajar com animal?", "a": "Nîmes Garons (FNI) a 15 minutos a sul mas sazonal e limitado. Marselha Provence (MRS, 1h15) e Montpellier (MPL, 50 min) oferecem muitas mais opções todo o ano."}
+        {
+          "q": "Posso levar o meu cão no TGV de Paris a Nîmes?",
+          "a": "Sim. Cães com menos de 6 kg em transportadora: bilhete animal 0 EUR; maiores com trela e açaime a 50 % da tarifa adulta com tecto de 7 EUR. Compre o bilhete no SNCF Connect antes de embarcar."
+        },
+        {
+          "q": "Os cães são admitidos nos autocarros Tango?",
+          "a": "Apenas pequenos animais em transportadora fechada e cães-guia ou de assistência. Médios e grandes recusados; use SNCF entre cidades e ande ou táxi em Nîmes."
+        },
+        {
+          "q": "Qual é o aeroporto mais próximo de Nîmes para viajar com animal?",
+          "a": "Nîmes Garons (FNI) a 15 minutos a sul mas sazonal e limitado. Marselha Provence (MRS, 1h15) e Montpellier (MPL, 50 min) oferecem muitas mais opções todo o ano."
+        }
       ]
     },
     "beaches": {
@@ -391,7 +499,7 @@
           "name": "Berges du Gardon (Pont du Gard)",
           "address": "Pont du Gard, 30210 Vers-Pont-du-Gard",
           "neighborhood": "Pont du Gard (25 km north-east)",
-          "photo": "/images/city-places/nimes-beaches-gardon-pont-du-gard.jpg",
+          "photo": "/images/city-places/nimes-beaches-berges-du-gardon-pont-du-gard.jpg",
           "website": "https://pontdugard.fr",
           "description": "The protected banks of the Gardon river at the foot of the Pont du Gard, with shaded pebble beaches on the left bank reached by a 15-minute walk from the main entrance. The official site regulations allow dogs on lead on the banks and dogs free in the water; a 30-metre swim exclusion zone is enforced upstream and downstream of the bridge piers because of the suction risk. Strong currents after heavy rain or wind; check before swimming.",
           "descriptionFr": "Les berges protégées du Gardon au pied du Pont du Gard, avec des plages de galets ombragées en rive gauche à 15 minutes de marche de l'entrée principale. Le règlement officiel du site autorise les chiens en laisse sur les berges et la nage libre des chiens dans l'eau ; une zone d'exclusion de 30 mètres en amont et en aval des piles du pont est appliquée pour le risque d'aspiration. Courant fort après pluie ou vent ; vérifiez avant de baigner.",
@@ -419,7 +527,7 @@
           "name": "Plage de l'Espiguette (Le Grau-du-Roi)",
           "address": "Route de l'Espiguette, 30240 Le Grau-du-Roi",
           "neighborhood": "Le Grau-du-Roi (50 min south of Nîmes)",
-          "photo": "/images/city-places/nimes-beaches-espiguette.jpg",
+          "photo": "/images/city-places/nimes-beaches-plage-de-l-espiguette-le-grau-du-roi.jpg",
           "website": "",
           "description": "An 18 km wild dune-backed beach at the western edge of the Camargue, classified Natura 2000 and one of the longest natural beach strands in France. Municipal rules of Le Grau-du-Roi allow dogs on lead year-round on the unsupervised western stretch beyond the main car park (Parking de l'Espiguette nord-ouest); the central supervised swim zone bans dogs from June to September.",
           "descriptionFr": "Une plage sauvage de 18 km bordée de dunes à l'ouest de la Camargue, classée Natura 2000 et l'une des plus longues plages naturelles de France. La réglementation municipale du Grau-du-Roi autorise les chiens en laisse toute l'année sur la portion non surveillée à l'ouest du parking principal (Espiguette nord-ouest) ; la zone surveillée centrale interdit les chiens de juin à septembre.",
@@ -447,7 +555,7 @@
           "name": "Plage de Piémanson (Camargue)",
           "address": "Route de Piémanson, 13129 Salin-de-Giraud",
           "neighborhood": "Camargue (1h south)",
-          "photo": "/images/city-places/nimes-beaches-piemanson.jpg",
+          "photo": "/images/city-places/nimes-beaches-plage-de-piemanson-camargue.jpg",
           "website": "https://www.arlestourisme.com/fr/aller-a-la-plage-a-arles-en-camargue.html",
           "description": "The 25 km wild Camargue beach east of the Grand Rhône mouth, 1 hour south of Nîmes via Arles. The Arles tourism office confirms dogs are tolerated on lead on the beach, but banned from the supervised summer swim zone marked by buoys (June to September). Outside the swim zone and off-season, the entire strand is open to dogs on lead, with the Camargue salt flats behind.",
           "descriptionFr": "La plage sauvage de Camargue de 25 km à l'est de l'embouchure du Grand Rhône, à 1 heure au sud de Nîmes via Arles. L'office de tourisme d'Arles confirme que les chiens sont tolérés en laisse sur la plage, mais interdits dans la zone surveillée d'été (juin à septembre) délimitée par bouées. Hors zone et hors saison, la plage est ouverte aux chiens en laisse, avec les salins de Camargue derrière.",
@@ -493,24 +601,60 @@
         "Leve água em abundância para qualquer saída fluvial ou de praia: Nîmes ultrapassa frequentemente 35 °C no verão e não há sombra nas dunas."
       ],
       "faqsEn": [
-        {"q": "Can my dog swim at the Pont du Gard?", "a": "Yes. The official site regulations allow dogs on lead on the banks and free swimming in the river outside a 30-metre exclusion zone upstream and downstream of the bridge piers."},
-        {"q": "Where is the closest dog beach to Nîmes?", "a": "Plage de l'Espiguette at Le Grau-du-Roi (50 min south) is the closest, with year-round dog access on the western unsupervised strand. Camargue Piémanson is 1 hour south via Arles."},
-        {"q": "Are dogs banned at the Pont du Gard?", "a": "No. Dogs on lead are welcome on the site exterior and the river banks. Only the museum, the Ciné and Ludo exhibitions and the interior of the Roman canalisation ban dogs other than guide and assistance dogs."}
+        {
+          "q": "Can my dog swim at the Pont du Gard?",
+          "a": "Yes. The official site regulations allow dogs on lead on the banks and free swimming in the river outside a 30-metre exclusion zone upstream and downstream of the bridge piers."
+        },
+        {
+          "q": "Where is the closest dog beach to Nîmes?",
+          "a": "Plage de l'Espiguette at Le Grau-du-Roi (50 min south) is the closest, with year-round dog access on the western unsupervised strand. Camargue Piémanson is 1 hour south via Arles."
+        },
+        {
+          "q": "Are dogs banned at the Pont du Gard?",
+          "a": "No. Dogs on lead are welcome on the site exterior and the river banks. Only the museum, the Ciné and Ludo exhibitions and the interior of the Roman canalisation ban dogs other than guide and assistance dogs."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il se baigner au Pont du Gard ?", "a": "Oui. Le règlement officiel autorise les chiens en laisse sur les berges et la nage libre dans la rivière hors d'une zone d'exclusion de 30 mètres en amont et en aval des piles."},
-        {"q": "Où est la plus proche plage canine de Nîmes ?", "a": "La Plage de l'Espiguette au Grau-du-Roi (50 min au sud) est la plus proche, avec accès canin annuel sur la portion ouest non surveillée. La Camargue Piémanson est à 1h au sud via Arles."},
-        {"q": "Les chiens sont-ils interdits au Pont du Gard ?", "a": "Non. Les chiens en laisse sont bienvenus sur le site extérieur et les berges. Seuls le musée, le Ciné, le Ludo et l'intérieur de la canalisation romaine interdisent les chiens hors chiens-guides et d'assistance."}
+        {
+          "q": "Mon chien peut-il se baigner au Pont du Gard ?",
+          "a": "Oui. Le règlement officiel autorise les chiens en laisse sur les berges et la nage libre dans la rivière hors d'une zone d'exclusion de 30 mètres en amont et en aval des piles."
+        },
+        {
+          "q": "Où est la plus proche plage canine de Nîmes ?",
+          "a": "La Plage de l'Espiguette au Grau-du-Roi (50 min au sud) est la plus proche, avec accès canin annuel sur la portion ouest non surveillée. La Camargue Piémanson est à 1h au sud via Arles."
+        },
+        {
+          "q": "Les chiens sont-ils interdits au Pont du Gard ?",
+          "a": "Non. Les chiens en laisse sont bienvenus sur le site extérieur et les berges. Seuls le musée, le Ciné, le Ludo et l'intérieur de la canalisation romaine interdisent les chiens hors chiens-guides et d'assistance."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Mi perro puede bañarse en el Pont du Gard?", "a": "Sí. El reglamento oficial autoriza perros con correa en las orillas y baño libre en el río fuera de una zona de exclusión de 30 metros aguas arriba y abajo de los pilares."},
-        {"q": "¿Dónde está la playa canina más cercana a Nîmes?", "a": "La Plage de l'Espiguette en Le Grau-du-Roi (50 min al sur) es la más cercana, con acceso canino anual en el tramo oeste no vigilado. Piémanson está a 1h al sur vía Arles."},
-        {"q": "¿Los perros están prohibidos en el Pont du Gard?", "a": "No. Los perros con correa son bienvenidos en el sitio exterior y las orillas. Solo el museo, el Ciné, el Ludo y el interior de la canalización romana prohíben perros salvo guía y asistencia."}
+        {
+          "q": "¿Mi perro puede bañarse en el Pont du Gard?",
+          "a": "Sí. El reglamento oficial autoriza perros con correa en las orillas y baño libre en el río fuera de una zona de exclusión de 30 metros aguas arriba y abajo de los pilares."
+        },
+        {
+          "q": "¿Dónde está la playa canina más cercana a Nîmes?",
+          "a": "La Plage de l'Espiguette en Le Grau-du-Roi (50 min al sur) es la más cercana, con acceso canino anual en el tramo oeste no vigilado. Piémanson está a 1h al sur vía Arles."
+        },
+        {
+          "q": "¿Los perros están prohibidos en el Pont du Gard?",
+          "a": "No. Los perros con correa son bienvenidos en el sitio exterior y las orillas. Solo el museo, el Ciné, el Ludo y el interior de la canalización romana prohíben perros salvo guía y asistencia."
+        }
       ],
       "faqsPt": [
-        {"q": "O meu cão pode tomar banho no Pont du Gard?", "a": "Sim. O regulamento oficial autoriza cães com trela nas margens e nado livre no rio fora de uma zona de exclusão de 30 metros a montante e jusante dos pilares."},
-        {"q": "Onde fica a praia canina mais próxima de Nîmes?", "a": "A Plage de l'Espiguette em Le Grau-du-Roi (50 min a sul) é a mais próxima, com acesso canino anual na zona oeste não vigiada. Piémanson está a 1h a sul via Arles."},
-        {"q": "Os cães são proibidos no Pont du Gard?", "a": "Não. Os cães com trela são bem-vindos no sítio exterior e nas margens. Só o museu, o Ciné, o Ludo e o interior da canalização romana proíbem cães salvo de assistência."}
+        {
+          "q": "O meu cão pode tomar banho no Pont du Gard?",
+          "a": "Sim. O regulamento oficial autoriza cães com trela nas margens e nado livre no rio fora de uma zona de exclusão de 30 metros a montante e jusante dos pilares."
+        },
+        {
+          "q": "Onde fica a praia canina mais próxima de Nîmes?",
+          "a": "A Plage de l'Espiguette em Le Grau-du-Roi (50 min a sul) é a mais próxima, com acesso canino anual na zona oeste não vigiada. Piémanson está a 1h a sul via Arles."
+        },
+        {
+          "q": "Os cães são proibidos no Pont du Gard?",
+          "a": "Não. Os cães com trela são bem-vindos no sítio exterior e nas margens. Só o museu, o Ciné, o Ludo e o interior da canalização romana proíbem cães salvo de assistência."
+        }
       ]
     },
     "vets": {
@@ -527,7 +671,7 @@
           "name": "Vétérinaires 2 Toute Urgence Nîmes",
           "address": "2725 Route de Montpellier, 30900 Nîmes",
           "neighborhood": "Route de Montpellier (south-west)",
-          "photo": "/images/city-places/nimes-vets-2-toute-urgence.jpg",
+          "photo": "/images/city-places/nimes-vets-veterinaires-2-toute-urgence-nimes.jpg",
           "website": "https://veterinaires2touteurgence.com/urgence-veterinaire-nimes/",
           "phone": "04 27 04 02 72",
           "description": "A dedicated emergency vet clinic on the route de Montpellier, opened to provide overnight and weekend cover for the entire Gard and Bouches-du-Rhône delta. Open every weeknight from 19:00 to 08:00, all weekend from Saturday midday to Monday 08:00, and 24h on public holidays. Trained vet nurses on site every night, full imaging and two surgical theatres.",
@@ -553,7 +697,7 @@
           "name": "Clinique Vétérinaire RAJAUT-CAMALLONGA",
           "address": "Centre Nîmes, 30000 Nîmes",
           "neighborhood": "Centre (south-east of Écusson)",
-          "photo": "/images/city-places/nimes-vets-rajaut-camallonga.jpg",
+          "photo": "/images/city-places/nimes-vets-clinique-veterinaire-rajaut-camallonga.jpg",
           "website": "https://www.cvrc-nimes.fr/",
           "phone": "04 66 67 71 70",
           "description": "A general practice in central Nîmes, walkable from the Arènes and the station. Consultations, vaccinations, surgery, dentistry and imaging in standard hours; out-of-hours emergencies routed via the Vétérinaires 2 Toute Urgence on the route de Montpellier. English-speaking staff for tourists.",
@@ -579,7 +723,7 @@
           "name": "Clinique Vétérinaire Nemovet",
           "address": "ZAC de Mitra, 30900 Nîmes",
           "neighborhood": "Zac Mitra (north)",
-          "photo": "/images/city-places/nimes-vets-nemovet.jpg",
+          "photo": "/images/city-places/nimes-vets-clinique-veterinaire-nemovet.jpg",
           "website": "https://www.nemovet.fr/",
           "phone": "04 66 67 17 17",
           "description": "A modern general practice in the Mitra business park north of the city, with full imaging, surgery and dedicated parking. Open Monday to Saturday, with out-of-hours emergencies routed to Vétérinaires 2 Toute Urgence. Convenient if you arrive by car from the A9 or the Pont du Gard.",
@@ -623,24 +767,60 @@
         "A vacinação contra leptospirose é fortemente aconselhada antes de uma saída ao Gardon ou à Camarga; fale com o seu veterinário pelo menos 21 dias antes da viagem."
       ],
       "faqsEn": [
-        {"q": "Is there a 24/7 emergency vet in Nîmes?", "a": "Yes. Vétérinaires 2 Toute Urgence on the route de Montpellier covers every night, every weekend and every public holiday on 04 27 04 02 72."},
-        {"q": "Will a Nîmes vet treat a foreign-passport dog?", "a": "Yes, all three clinics above accept EU pet passports and routinely treat travelling animals. Bring the vaccination record."},
-        {"q": "Do I need a leptospirosis shot for the Gardon?", "a": "It is strongly recommended for any river-swim trip in the Gard. Ask your vet at least 21 days before the visit to leave time for the immune response."}
+        {
+          "q": "Is there a 24/7 emergency vet in Nîmes?",
+          "a": "Yes. Vétérinaires 2 Toute Urgence on the route de Montpellier covers every night, every weekend and every public holiday on 04 27 04 02 72."
+        },
+        {
+          "q": "Will a Nîmes vet treat a foreign-passport dog?",
+          "a": "Yes, all three clinics above accept EU pet passports and routinely treat travelling animals. Bring the vaccination record."
+        },
+        {
+          "q": "Do I need a leptospirosis shot for the Gardon?",
+          "a": "It is strongly recommended for any river-swim trip in the Gard. Ask your vet at least 21 days before the visit to leave time for the immune response."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un vétérinaire d'urgence 24h/24 à Nîmes ?", "a": "Oui. Vétérinaires 2 Toute Urgence route de Montpellier couvre toutes les nuits, tous les week-ends et tous les jours fériés au 04 27 04 02 72."},
-        {"q": "Un vétérinaire de Nîmes soignera-t-il un chien à passeport étranger ?", "a": "Oui, les trois cliniques ci-dessus acceptent le passeport européen et soignent régulièrement les animaux voyageurs. Apportez le carnet de vaccination."},
-        {"q": "Faut-il une vaccination leptospirose pour le Gardon ?", "a": "Elle est fortement recommandée pour toute baignade en rivière dans le Gard. Demandez à votre vétérinaire au moins 21 jours avant pour laisser le temps à la réponse immunitaire."}
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence 24h/24 à Nîmes ?",
+          "a": "Oui. Vétérinaires 2 Toute Urgence route de Montpellier couvre toutes les nuits, tous les week-ends et tous les jours fériés au 04 27 04 02 72."
+        },
+        {
+          "q": "Un vétérinaire de Nîmes soignera-t-il un chien à passeport étranger ?",
+          "a": "Oui, les trois cliniques ci-dessus acceptent le passeport européen et soignent régulièrement les animaux voyageurs. Apportez le carnet de vaccination."
+        },
+        {
+          "q": "Faut-il une vaccination leptospirose pour le Gardon ?",
+          "a": "Elle est fortement recommandée pour toute baignade en rivière dans le Gard. Demandez à votre vétérinaire au moins 21 jours avant pour laisser le temps à la réponse immunitaire."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay veterinario de urgencias 24/7 en Nîmes?", "a": "Sí. Vétérinaires 2 Toute Urgence en la route de Montpellier cubre todas las noches, todos los fines de semana y todos los festivos en el 04 27 04 02 72."},
-        {"q": "¿Un veterinario de Nîmes atenderá a un perro con pasaporte extranjero?", "a": "Sí, las tres clínicas anteriores aceptan el pasaporte europeo y atienden con regularidad a animales viajeros. Lleva la cartilla de vacunación."},
-        {"q": "¿Hace falta vacuna contra leptospirosis para el Gardon?", "a": "Es muy recomendable para cualquier baño fluvial en el Gard. Pídela a tu veterinario al menos 21 días antes para dar tiempo a la respuesta inmune."}
+        {
+          "q": "¿Hay veterinario de urgencias 24/7 en Nîmes?",
+          "a": "Sí. Vétérinaires 2 Toute Urgence en la route de Montpellier cubre todas las noches, todos los fines de semana y todos los festivos en el 04 27 04 02 72."
+        },
+        {
+          "q": "¿Un veterinario de Nîmes atenderá a un perro con pasaporte extranjero?",
+          "a": "Sí, las tres clínicas anteriores aceptan el pasaporte europeo y atienden con regularidad a animales viajeros. Lleva la cartilla de vacunación."
+        },
+        {
+          "q": "¿Hace falta vacuna contra leptospirosis para el Gardon?",
+          "a": "Es muy recomendable para cualquier baño fluvial en el Gard. Pídela a tu veterinario al menos 21 días antes para dar tiempo a la respuesta inmune."
+        }
       ],
       "faqsPt": [
-        {"q": "Existe veterinário de urgência 24/7 em Nîmes?", "a": "Sim. Vétérinaires 2 Toute Urgence na route de Montpellier cobre todas as noites, todos os fins-de-semana e todos os feriados em 04 27 04 02 72."},
-        {"q": "Um veterinário de Nîmes trata um cão com passaporte estrangeiro?", "a": "Sim, as três clínicas acima aceitam o passaporte europeu e tratam regularmente animais viajantes. Leve o boletim de vacinação."},
-        {"q": "Preciso de vacina contra leptospirose para o Gardon?", "a": "É fortemente recomendada para qualquer banho fluvial no Gard. Peça ao seu veterinário pelo menos 21 dias antes para dar tempo à resposta imune."}
+        {
+          "q": "Existe veterinário de urgência 24/7 em Nîmes?",
+          "a": "Sim. Vétérinaires 2 Toute Urgence na route de Montpellier cobre todas as noites, todos os fins-de-semana e todos os feriados em 04 27 04 02 72."
+        },
+        {
+          "q": "Um veterinário de Nîmes trata um cão com passaporte estrangeiro?",
+          "a": "Sim, as três clínicas acima aceitam o passaporte europeu e tratam regularmente animais viajantes. Leve o boletim de vacinação."
+        },
+        {
+          "q": "Preciso de vacina contra leptospirose para o Gardon?",
+          "a": "É fortemente recomendada para qualquer banho fluvial no Gard. Peça ao seu veterinário pelo menos 21 dias antes para dar tempo à resposta imune."
+        }
       ]
     },
     "attractions": {
@@ -657,7 +837,7 @@
           "name": "Arènes de Nîmes (Roman amphitheatre)",
           "address": "Boulevard des Arènes, 30000 Nîmes",
           "neighborhood": "Centre (Écusson)",
-          "photo": "/images/city-places/nimes-attractions-arenes-nimes.jpg",
+          "photo": "/images/city-places/nimes-attractions-arenes-de-nimes-roman-amphitheatre.jpg",
           "website": "https://www.arenes-nimes.com/",
           "description": "The best-preserved Roman amphitheatre in the world, built around AD 70 and still hosting the Féria bullfights, opera and concerts. The site holds the Qualidog label and explicitly admits leashed dogs of all sizes, including categorised dogs, free of charge during normal visiting hours. Bring your own waste bags. The amphitheatre is closed to visitors during ferias and concerts; check the calendar before you arrive.",
           "descriptionFr": "L'amphithéâtre romain le mieux conservé au monde, construit vers 70 ap. J.-C. et qui accueille encore les corridas de la Féria, l'opéra et des concerts. Le site possède le label Qualidog et admet expressément les chiens en laisse de toutes tailles, y compris les chiens catégorisés, gratuitement aux heures de visite normales. Apportez vos sacs. L'amphithéâtre ferme aux visiteurs pendant les férias et concerts ; vérifiez l'agenda avant.",
@@ -699,7 +879,7 @@
           "name": "Maison Carrée (exterior square)",
           "address": "Place de la Maison Carrée, 30000 Nîmes",
           "neighborhood": "Centre (Écusson)",
-          "photo": "/images/city-places/nimes-attractions-maison-carree.jpg",
+          "photo": "/images/city-places/nimes-attractions-maison-carree-exterior-square.jpg",
           "website": "",
           "description": "The Roman temple built around 4–7 AD and dedicated to the grandsons of Augustus, the most complete Roman temple anywhere and inscribed on the UNESCO World Heritage list in 2023. Dogs are not admitted to the interior 3D cinema and exhibition (guide and assistance dogs only). The full pedestrian square around the temple, however, is open access, and the steps of the temple are a free public viewpoint for an evening visit.",
           "descriptionFr": "Le temple romain construit vers 4-7 ap. J.-C. et dédié aux petits-fils d'Auguste, le temple romain le plus complet au monde, inscrit au patrimoine mondial UNESCO en 2023. Les chiens ne sont pas admis dans le cinéma 3D intérieur et l'exposition (chiens-guides et d'assistance uniquement). La place piétonne tout autour du temple est en revanche en accès libre, et les marches du temple sont un belvédère gratuit pour une visite au soir.",
@@ -738,24 +918,60 @@
         "O interior da Maison Carrée (cinema 3D) proíbe cães; se não puder deixar o cão com um cuidador, faça esta visita noutra viagem sem o cão."
       ],
       "faqsEn": [
-        {"q": "Can my dog visit the Arènes de Nîmes?", "a": "Yes, the Qualidog label explicitly welcomes leashed dogs of all sizes free of charge during normal visiting hours. The amphitheatre is closed to visitors during ferias and concerts."},
-        {"q": "Is the Pont du Gard dog-friendly?", "a": "Yes, leashed dogs are welcome across the bridge, the river banks and the outside trails. Only the indoor museum, the Ciné, the Ludo and the Roman canalisation interior bans dogs."},
-        {"q": "Can I go inside the Maison Carrée with a dog?", "a": "No. The interior 3D cinema and exhibition admit only guide and assistance dogs. The square and steps outside are dog-accessible at any time."}
+        {
+          "q": "Can my dog visit the Arènes de Nîmes?",
+          "a": "Yes, the Qualidog label explicitly welcomes leashed dogs of all sizes free of charge during normal visiting hours. The amphitheatre is closed to visitors during ferias and concerts."
+        },
+        {
+          "q": "Is the Pont du Gard dog-friendly?",
+          "a": "Yes, leashed dogs are welcome across the bridge, the river banks and the outside trails. Only the indoor museum, the Ciné, the Ludo and the Roman canalisation interior bans dogs."
+        },
+        {
+          "q": "Can I go inside the Maison Carrée with a dog?",
+          "a": "No. The interior 3D cinema and exhibition admit only guide and assistance dogs. The square and steps outside are dog-accessible at any time."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il visiter les Arènes de Nîmes ?", "a": "Oui, le label Qualidog accueille expressément les chiens en laisse de toutes tailles gratuitement aux heures de visite normales. L'amphithéâtre ferme aux visiteurs pendant férias et concerts."},
-        {"q": "Le Pont du Gard est-il dog-friendly ?", "a": "Oui, les chiens en laisse sont bienvenus sur le pont, les berges et les sentiers extérieurs. Seuls le musée intérieur, le Ciné, le Ludo et l'intérieur de la canalisation romaine interdisent les chiens."},
-        {"q": "Puis-je entrer à la Maison Carrée avec mon chien ?", "a": "Non. Le cinéma 3D intérieur et l'exposition n'admettent que les chiens-guides et d'assistance. La place et les marches sont accessibles à toute heure."}
+        {
+          "q": "Mon chien peut-il visiter les Arènes de Nîmes ?",
+          "a": "Oui, le label Qualidog accueille expressément les chiens en laisse de toutes tailles gratuitement aux heures de visite normales. L'amphithéâtre ferme aux visiteurs pendant férias et concerts."
+        },
+        {
+          "q": "Le Pont du Gard est-il dog-friendly ?",
+          "a": "Oui, les chiens en laisse sont bienvenus sur le pont, les berges et les sentiers extérieurs. Seuls le musée intérieur, le Ciné, le Ludo et l'intérieur de la canalisation romaine interdisent les chiens."
+        },
+        {
+          "q": "Puis-je entrer à la Maison Carrée avec mon chien ?",
+          "a": "Non. Le cinéma 3D intérieur et l'exposition n'admettent que les chiens-guides et d'assistance. La place et les marches sont accessibles à toute heure."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Mi perro puede visitar las Arenas de Nîmes?", "a": "Sí, el sello Qualidog admite expresamente perros con correa de todos los tamaños gratuitamente en horario de visita normal. El anfiteatro cierra durante ferias y conciertos."},
-        {"q": "¿Es el Pont du Gard dog-friendly?", "a": "Sí, los perros con correa son bienvenidos en el puente, las orillas y los senderos exteriores. Solo el museo interior, el Ciné, el Ludo y el interior de la canalización romana prohíben perros."},
-        {"q": "¿Puedo entrar en la Maison Carrée con mi perro?", "a": "No. El cine 3D interior y la exposición admiten solo perros guía y de asistencia. La plaza y los escalones son accesibles a cualquier hora."}
+        {
+          "q": "¿Mi perro puede visitar las Arenas de Nîmes?",
+          "a": "Sí, el sello Qualidog admite expresamente perros con correa de todos los tamaños gratuitamente en horario de visita normal. El anfiteatro cierra durante ferias y conciertos."
+        },
+        {
+          "q": "¿Es el Pont du Gard dog-friendly?",
+          "a": "Sí, los perros con correa son bienvenidos en el puente, las orillas y los senderos exteriores. Solo el museo interior, el Ciné, el Ludo y el interior de la canalización romana prohíben perros."
+        },
+        {
+          "q": "¿Puedo entrar en la Maison Carrée con mi perro?",
+          "a": "No. El cine 3D interior y la exposición admiten solo perros guía y de asistencia. La plaza y los escalones son accesibles a cualquier hora."
+        }
       ],
       "faqsPt": [
-        {"q": "O meu cão pode visitar as Arenas de Nîmes?", "a": "Sim, o selo Qualidog admite expressamente cães com trela de todos os tamanhos gratuitamente nos horários de visita normais. O anfiteatro fecha durante férias e concertos."},
-        {"q": "O Pont du Gard é dog-friendly?", "a": "Sim, os cães com trela são bem-vindos na ponte, nas margens e nos trilhos exteriores. Só o museu interior, o Ciné, o Ludo e o interior da canalização romana proíbem cães."},
-        {"q": "Posso entrar na Maison Carrée com o meu cão?", "a": "Não. O cinema 3D interior e a exposição admitem apenas cães-guia e de assistência. A praça e os degraus são acessíveis a qualquer hora."}
+        {
+          "q": "O meu cão pode visitar as Arenas de Nîmes?",
+          "a": "Sim, o selo Qualidog admite expressamente cães com trela de todos os tamanhos gratuitamente nos horários de visita normais. O anfiteatro fecha durante férias e concertos."
+        },
+        {
+          "q": "O Pont du Gard é dog-friendly?",
+          "a": "Sim, os cães com trela são bem-vindos na ponte, nas margens e nos trilhos exteriores. Só o museu interior, o Ciné, o Ludo e o interior da canalização romana proíbem cães."
+        },
+        {
+          "q": "Posso entrar na Maison Carrée com o meu cão?",
+          "a": "Não. O cinema 3D interior e a exposição admitem apenas cães-guia e de assistência. A praça e os degraus são acessíveis a qualquer hora."
+        }
       ]
     },
     "petsitting": {
@@ -772,7 +988,6 @@
           "name": "Gudog Nîmes",
           "address": "Online platform, Nîmes 30000",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/nimes-petsitting-gudog.jpg",
           "website": "https://gudog.fr/dog-sitters-nimes",
           "description": "Gudog is the European specialist pet-sitting platform now integrated with Rover, with 17 verified Nîmes-based sitters offering boarding, day care and walks. Average rate around 16 EUR per night for boarding. Each sitter passes a verification process covering experience, professional qualifications and previous owner reviews; in the past 12 months only 13 percent of Nîmes applicants were approved.",
           "descriptionFr": "Gudog est la plateforme européenne spécialisée en pet-sitting, désormais intégrée à Rover, avec 17 sitters vérifiés à Nîmes qui proposent pension, garde de jour et promenades. Tarif moyen autour de 16 EUR par nuit en pension. Chaque sitter passe une validation couvrant expérience, qualifications professionnelles et avis des propriétaires précédents ; sur les 12 derniers mois, seuls 13 % des candidats nîmois ont été approuvés.",
@@ -796,7 +1011,6 @@
           "name": "Rover Nîmes",
           "address": "Online platform, Nîmes 30000",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/nimes-petsitting-rover.jpg",
           "website": "https://www.rover.com/fr/nimes--occitanie--garde-de-chien/",
           "description": "Rover lists over 100 verified Nîmes dog sitters offering boarding, day care, walks and home visits. As of April 2026, 97 sitters offer dog daycare in Nîmes. Insurance and 24/7 vet hotline included in every booking. Profile filters cover small/medium/large dogs, garden access and home-or-host preference.",
           "descriptionFr": "Rover liste plus de 100 dog-sitters vérifiés à Nîmes offrant pension, garde de jour, promenades et visites à domicile. En avril 2026, 97 sitters proposent la garde de jour à Nîmes. Assurance et hotline vétérinaire 24h/24 incluses dans chaque réservation. Filtres profil pour petits/moyens/grands chiens, jardin, et garde à domicile ou chez l'hôte.",
@@ -820,7 +1034,6 @@
           "name": "DogBuddy Nîmes",
           "address": "Online platform, Nîmes 30000",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/nimes-petsitting-dogbuddy.jpg",
           "website": "https://fr.dogbuddy.com/dog-sitters-nimes",
           "description": "DogBuddy is the European arm of the Rover group, listing local Nîmes dog sitters and walkers with a focus on home-stay rather than kennel boarding. Same insurance and 24/7 vet support as Rover and Gudog. Useful third option when the top-reviewed Gudog and Rover sitters are booked during peak Féria and summer weeks.",
           "descriptionFr": "DogBuddy est la branche européenne du groupe Rover, qui liste les dog-sitters et promeneurs locaux de Nîmes avec un accent sur la famille d'accueil plutôt que le chenil. Même assurance et support vétérinaire 24h/24 que Rover et Gudog. Utile en troisième recours quand les meilleurs profils Gudog/Rover sont pris en pleine Féria et semaines estivales.",
@@ -862,24 +1075,60 @@
         "Faça sempre o encontro prévio gratuito antes da primeira estadia; é obrigatório na maioria das plataformas e a única forma de validar a compatibilidade."
       ],
       "faqsEn": [
-        {"q": "How much does a dog sitter cost in Nîmes?", "a": "About 16 EUR per night on Gudog and Rover, among the most affordable rates in southern France. Day care 18 to 25 EUR, walk 11 to 15 EUR."},
-        {"q": "Is it easy to find a sitter for Féria week?", "a": "Difficult last-minute. The hotel crowd forces a surge in demand and only the most experienced sitters remain available; book at least two weeks ahead and always do a meet-and-greet."},
-        {"q": "Can a sitter cover a Pont du Gard half-day?", "a": "Yes, all three platforms allow day care or a single 4-hour stay; the average price for that is around 25 EUR. Most sitters live in central Nîmes so drop-off is convenient on the way out."}
+        {
+          "q": "How much does a dog sitter cost in Nîmes?",
+          "a": "About 16 EUR per night on Gudog and Rover, among the most affordable rates in southern France. Day care 18 to 25 EUR, walk 11 to 15 EUR."
+        },
+        {
+          "q": "Is it easy to find a sitter for Féria week?",
+          "a": "Difficult last-minute. The hotel crowd forces a surge in demand and only the most experienced sitters remain available; book at least two weeks ahead and always do a meet-and-greet."
+        },
+        {
+          "q": "Can a sitter cover a Pont du Gard half-day?",
+          "a": "Yes, all three platforms allow day care or a single 4-hour stay; the average price for that is around 25 EUR. Most sitters live in central Nîmes so drop-off is convenient on the way out."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte un sitter à Nîmes ?", "a": "Environ 16 EUR la nuit sur Gudog et Rover, parmi les tarifs les plus accessibles du sud. Garde de jour 18 à 25 EUR, promenade 11 à 15 EUR."},
-        {"q": "Est-il facile de trouver un sitter pour la semaine de Féria ?", "a": "Difficile au dernier moment. La foule hôtelière fait flamber la demande et seuls les sitters les plus expérimentés restent disponibles ; réservez au moins deux semaines à l'avance et faites toujours la rencontre préalable."},
-        {"q": "Un sitter peut-il garder le chien pour une demi-journée au Pont du Gard ?", "a": "Oui, les trois plateformes permettent la garde de jour ou un séjour de 4 heures ; le tarif moyen est d'environ 25 EUR. La plupart des sitters habitent dans le centre de Nîmes, dépose pratique sur le départ."}
+        {
+          "q": "Combien coûte un sitter à Nîmes ?",
+          "a": "Environ 16 EUR la nuit sur Gudog et Rover, parmi les tarifs les plus accessibles du sud. Garde de jour 18 à 25 EUR, promenade 11 à 15 EUR."
+        },
+        {
+          "q": "Est-il facile de trouver un sitter pour la semaine de Féria ?",
+          "a": "Difficile au dernier moment. La foule hôtelière fait flamber la demande et seuls les sitters les plus expérimentés restent disponibles ; réservez au moins deux semaines à l'avance et faites toujours la rencontre préalable."
+        },
+        {
+          "q": "Un sitter peut-il garder le chien pour une demi-journée au Pont du Gard ?",
+          "a": "Oui, les trois plateformes permettent la garde de jour ou un séjour de 4 heures ; le tarif moyen est d'environ 25 EUR. La plupart des sitters habitent dans le centre de Nîmes, dépose pratique sur le départ."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta un cuidador en Nîmes?", "a": "Unos 16 EUR por noche en Gudog y Rover, de las tarifas más asequibles del sur. Guardería 18 a 25 EUR, paseo 11 a 15 EUR."},
-        {"q": "¿Es fácil encontrar cuidador para la semana de Féria?", "a": "Difícil a última hora. La multitud hotelera dispara la demanda y solo quedan los cuidadores más experimentados; reserva con al menos dos semanas y haz siempre el encuentro previo."},
-        {"q": "¿Un cuidador puede ocuparse de mi perro durante media jornada en Pont du Gard?", "a": "Sí, las tres plataformas permiten guardería o una estancia única de 4 horas; el precio medio es unos 25 EUR. La mayoría de cuidadores vive en el centro de Nîmes, depósito cómodo a la salida."}
+        {
+          "q": "¿Cuánto cuesta un cuidador en Nîmes?",
+          "a": "Unos 16 EUR por noche en Gudog y Rover, de las tarifas más asequibles del sur. Guardería 18 a 25 EUR, paseo 11 a 15 EUR."
+        },
+        {
+          "q": "¿Es fácil encontrar cuidador para la semana de Féria?",
+          "a": "Difícil a última hora. La multitud hotelera dispara la demanda y solo quedan los cuidadores más experimentados; reserva con al menos dos semanas y haz siempre el encuentro previo."
+        },
+        {
+          "q": "¿Un cuidador puede ocuparse de mi perro durante media jornada en Pont du Gard?",
+          "a": "Sí, las tres plataformas permiten guardería o una estancia única de 4 horas; el precio medio es unos 25 EUR. La mayoría de cuidadores vive en el centro de Nîmes, depósito cómodo a la salida."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa um cuidador em Nîmes?", "a": "Cerca de 16 EUR por noite na Gudog e Rover, das tarifas mais acessíveis do sul. Creche 18 a 25 EUR, passeio 11 a 15 EUR."},
-        {"q": "É fácil encontrar cuidador para a semana de Féria?", "a": "Difícil à última hora. A multidão hoteleira dispara a procura e só ficam os cuidadores mais experientes; reserve com pelo menos duas semanas e faça sempre o encontro prévio."},
-        {"q": "Um cuidador pode tratar do cão durante meia-jornada no Pont du Gard?", "a": "Sim, as três plataformas permitem creche ou uma estadia única de 4 horas; o preço médio é cerca de 25 EUR. A maioria dos cuidadores mora no centro de Nîmes, entrega cómoda à saída."}
+        {
+          "q": "Quanto custa um cuidador em Nîmes?",
+          "a": "Cerca de 16 EUR por noite na Gudog e Rover, das tarifas mais acessíveis do sul. Creche 18 a 25 EUR, passeio 11 a 15 EUR."
+        },
+        {
+          "q": "É fácil encontrar cuidador para a semana de Féria?",
+          "a": "Difícil à última hora. A multidão hoteleira dispara a procura e só ficam os cuidadores mais experientes; reserve com pelo menos duas semanas e faça sempre o encontro prévio."
+        },
+        {
+          "q": "Um cuidador pode tratar do cão durante meia-jornada no Pont du Gard?",
+          "a": "Sim, as três plataformas permitem creche ou uma estadia única de 4 horas; o preço médio é cerca de 25 EUR. A maioria dos cuidadores mora no centro de Nîmes, entrega cómoda à saída."
+        }
       ]
     },
     "tips": {

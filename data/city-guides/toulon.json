@@ -71,7 +71,7 @@
           "name": "Cours Lafayette market terraces",
           "address": "Cours Lafayette, 83000 Toulon",
           "neighborhood": "Vieille Ville",
-          "photo": "/images/city-places/toulon-restaurants-cours-lafayette.jpg",
+          "photo": "/images/city-places/toulon-restaurants-cours-lafayette-market-terraces.jpg",
           "website": "",
           "description": "The Cours Lafayette is the great Provençal market of Toulon (Tuesday to Sunday mornings except Monday) and the street that Gilbert Bécaud sang about. Several pavement bistros along the cours stay open for lunch in the shade of the plane trees. Dogs on leads are part of the daily market scene; the line of cafés between Place du Globe and Rue d'Alger is the easiest pet-tolerant stretch for a late breakfast or early lunch.",
           "descriptionFr": "Le Cours Lafayette est le grand marché provençal de Toulon (du mardi au dimanche matin sauf lundi) et la rue chantée par Gilbert Bécaud. Plusieurs bistrots de trottoir restent ouverts pour le déjeuner à l'ombre des platanes. Les chiens en laisse font partie du quotidien du marché ; la ligne de cafés entre la Place du Globe et la Rue d'Alger est la portion la plus facile pour un brunch tardif ou un déjeuner précoce.",
@@ -115,24 +115,60 @@
         "As manhãs do mercado do Cours Lafayette (terça a domingo) são uma atração em si e os cães com trela fazem parte do cenário diário."
       ],
       "faqsEn": [
-        {"q": "Are Mourillon seafront restaurants dog-friendly?", "a": "Yes, most pavement terraces on the Mourillon strip take leashed dogs by default. The Mourillon beach itself bans dogs except on the Henri Fabre promenade outside summer or 06:00–08:30 in summer."},
-        {"q": "Can I bring my dog into the indoor dining rooms?", "a": "It varies by venue. Many take small dogs in arms; medium and large dogs are usually directed to the terrace. Always ask the host on arrival."},
-        {"q": "Are dogs welcome at the Cours Lafayette market?", "a": "Yes, the open-air market explicitly welcomes leashed dogs and the bistros along the cours take them on their pavement tables. Avoid the busiest Saturday hours if your dog dislikes crowds."}
+        {
+          "q": "Are Mourillon seafront restaurants dog-friendly?",
+          "a": "Yes, most pavement terraces on the Mourillon strip take leashed dogs by default. The Mourillon beach itself bans dogs except on the Henri Fabre promenade outside summer or 06:00–08:30 in summer."
+        },
+        {
+          "q": "Can I bring my dog into the indoor dining rooms?",
+          "a": "It varies by venue. Many take small dogs in arms; medium and large dogs are usually directed to the terrace. Always ask the host on arrival."
+        },
+        {
+          "q": "Are dogs welcome at the Cours Lafayette market?",
+          "a": "Yes, the open-air market explicitly welcomes leashed dogs and the bistros along the cours take them on their pavement tables. Avoid the busiest Saturday hours if your dog dislikes crowds."
+        }
       ],
       "faqsFr": [
-        {"q": "Les restaurants du front de mer du Mourillon sont-ils dog-friendly ?", "a": "Oui, la plupart des terrasses de trottoir du Mourillon acceptent les chiens en laisse par défaut. La plage du Mourillon elle-même interdit les chiens sauf sur la promenade Henri Fabre hors été ou de 06h à 08h30 en été."},
-        {"q": "Mon chien peut-il entrer en salle ?", "a": "Cela varie selon l'établissement. Beaucoup acceptent les petits chiens dans les bras ; les moyens et grands sont orientés vers la terrasse. Demandez à l'accueil."},
-        {"q": "Les chiens sont-ils bienvenus au marché du Cours Lafayette ?", "a": "Oui, le marché en plein air accueille explicitement les chiens en laisse et les bistrots du cours les acceptent en terrasse. Évitez les heures de pointe du samedi si votre chien n'aime pas la foule."}
+        {
+          "q": "Les restaurants du front de mer du Mourillon sont-ils dog-friendly ?",
+          "a": "Oui, la plupart des terrasses de trottoir du Mourillon acceptent les chiens en laisse par défaut. La plage du Mourillon elle-même interdit les chiens sauf sur la promenade Henri Fabre hors été ou de 06h à 08h30 en été."
+        },
+        {
+          "q": "Mon chien peut-il entrer en salle ?",
+          "a": "Cela varie selon l'établissement. Beaucoup acceptent les petits chiens dans les bras ; les moyens et grands sont orientés vers la terrasse. Demandez à l'accueil."
+        },
+        {
+          "q": "Les chiens sont-ils bienvenus au marché du Cours Lafayette ?",
+          "a": "Oui, le marché en plein air accueille explicitement les chiens en laisse et les bistrots du cours les acceptent en terrasse. Évitez les heures de pointe du samedi si votre chien n'aime pas la foule."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Son los restaurantes del frente marítimo del Mourillon dog-friendly?", "a": "Sí, la mayoría de las terrazas de acera del Mourillon admiten perros con correa por defecto. La playa del Mourillon prohíbe perros salvo en la promenade Henri Fabre fuera del verano o de 06:00 a 08:30 en verano."},
-        {"q": "¿Puedo entrar con mi perro a la sala?", "a": "Varía según el local. Muchos aceptan perros pequeños en brazos; medianos y grandes se orientan a la terraza. Pregunta al recibirte."},
-        {"q": "¿Son bienvenidos los perros en el mercado del Cours Lafayette?", "a": "Sí, el mercado al aire libre admite explícitamente perros con correa y los bistrós del cours los aceptan en terraza. Evita las horas punta del sábado si tu perro no soporta la multitud."}
+        {
+          "q": "¿Son los restaurantes del frente marítimo del Mourillon dog-friendly?",
+          "a": "Sí, la mayoría de las terrazas de acera del Mourillon admiten perros con correa por defecto. La playa del Mourillon prohíbe perros salvo en la promenade Henri Fabre fuera del verano o de 06:00 a 08:30 en verano."
+        },
+        {
+          "q": "¿Puedo entrar con mi perro a la sala?",
+          "a": "Varía según el local. Muchos aceptan perros pequeños en brazos; medianos y grandes se orientan a la terraza. Pregunta al recibirte."
+        },
+        {
+          "q": "¿Son bienvenidos los perros en el mercado del Cours Lafayette?",
+          "a": "Sí, el mercado al aire libre admite explícitamente perros con correa y los bistrós del cours los aceptan en terraza. Evita las horas punta del sábado si tu perro no soporta la multitud."
+        }
       ],
       "faqsPt": [
-        {"q": "Os restaurantes da frente-mar do Mourillon são dog-friendly?", "a": "Sim, a maioria das esplanadas de passeio do Mourillon aceita cães com trela por defeito. A praia do Mourillon proíbe cães salvo na promenade Henri Fabre fora do verão ou das 06h às 08h30 no verão."},
-        {"q": "Posso entrar com o meu cão na sala?", "a": "Varia consoante o local. Muitos aceitam cães pequenos ao colo; médios e grandes são orientados para a esplanada. Pergunte na receção."},
-        {"q": "Os cães são bem-vindos no mercado do Cours Lafayette?", "a": "Sim, o mercado ao ar livre aceita explicitamente cães com trela e os bistrôs do cours aceitam-nos em esplanada. Evite as horas de ponta do sábado se o seu cão não gostar de multidões."}
+        {
+          "q": "Os restaurantes da frente-mar do Mourillon são dog-friendly?",
+          "a": "Sim, a maioria das esplanadas de passeio do Mourillon aceita cães com trela por defeito. A praia do Mourillon proíbe cães salvo na promenade Henri Fabre fora do verão ou das 06h às 08h30 no verão."
+        },
+        {
+          "q": "Posso entrar com o meu cão na sala?",
+          "a": "Varia consoante o local. Muitos aceitam cães pequenos ao colo; médios e grandes são orientados para a esplanada. Pergunte na receção."
+        },
+        {
+          "q": "Os cães são bem-vindos no mercado do Cours Lafayette?",
+          "a": "Sim, o mercado ao ar livre aceita explicitamente cães com trela e os bistrôs do cours aceitam-nos em esplanada. Evite as horas de ponta do sábado se o seu cão não gostar de multidões."
+        }
       ]
     },
     "parks": {
@@ -149,7 +185,7 @@
           "name": "Mont Faron (via téléphérique)",
           "address": "Boulevard Amiral Vence, 83200 Toulon",
           "neighborhood": "Mont Faron",
-          "photo": "/images/city-places/toulon-parks-mont-faron.jpg",
+          "photo": "/images/city-places/toulon-parks-mont-faron-via-telepherique.jpg",
           "website": "https://www.telepherique-toulon.com",
           "description": "The 584-metre limestone ridge that dominates the city, with the cable car climbing from the Super-Toulon station in 6 minutes. The Mont Faron tourism office confirms dogs travel free on the cable car as long as they are on a leash. On top: pine forests, marked walking loops, the Mémorial du Débarquement (interior bans dogs), the Tour Beaumont and a 360-degree panorama from Hyères to La Ciotat. The wider mountain accommodates several hours of walking once you are up.",
           "descriptionFr": "La crête calcaire de 584 m qui domine la ville, avec le téléphérique qui monte depuis la gare de Super-Toulon en 6 minutes. L'office de tourisme du Mont Faron confirme que les chiens voyagent gratuitement dans la cabine, à condition d'être tenus en laisse. Au sommet : pinèdes, boucles balisées, Mémorial du Débarquement (intérieur interdit aux chiens), Tour Beaumont et panorama à 360° d'Hyères à La Ciotat. La montagne offre plusieurs heures de marche une fois en haut.",
@@ -175,7 +211,7 @@
           "name": "Sentier du Littoral (Cap Brun)",
           "address": "Cap Brun, 83000 Toulon",
           "neighborhood": "Cap Brun",
-          "photo": "/images/city-places/toulon-parks-sentier-cap-brun.jpg",
+          "photo": "/images/city-places/toulon-parks-sentier-du-littoral-cap-brun.jpg",
           "website": "https://toulontourisme.com",
           "description": "The coastal path that wraps around the rocky Cap Brun peninsula east of the Mourillon, with cliff-top views over the Rade de Toulon and the Iles d'Or. The Cap Brun section, closed since 2008 after a landslide, fully reopened in 2024 after joint works between the Métropole and the Résidence Cap Brun. Now walkable end-to-end from Anse Méjean to the Mourillon. Dogs on lead are tolerated on the rocky zones; the supervised sandy beaches stay closed to dogs in summer.",
           "descriptionFr": "Le sentier côtier qui contourne la presqu'île rocheuse de Cap Brun à l'est du Mourillon, avec des vues falaise sur la Rade de Toulon et les Îles d'Or. La portion Cap Brun, fermée depuis 2008 après un glissement, a totalement rouvert en 2024 après travaux conjoints Métropole-Résidence Cap Brun. Désormais praticable de bout en bout d'Anse Méjean au Mourillon. Les chiens en laisse sont tolérés sur les zones rocheuses ; les plages sableuses surveillées restent interdites aux chiens en été.",
@@ -201,7 +237,7 @@
           "name": "Cani-parc du Mourillon",
           "address": "Plages du Mourillon, 83000 Toulon",
           "neighborhood": "Le Mourillon",
-          "photo": "/images/city-places/toulon-parks-cani-parc-mourillon.jpg",
+          "photo": "/images/city-places/toulon-parks-cani-parc-du-mourillon.jpg",
           "website": "https://toulon.fr/plages-du-mourillon",
           "description": "Two dedicated fenced off-leash enclosures installed by the City of Toulon as part of the 2023 Mourillon regulation: one zone for small dogs and a second for medium and large dogs, with seating, a water point and waste-bag distributors. The only formally fenced off-leash space inside Toulon. Operating year-round, with maximum 30 minutes per visit at peak hours to manage rotation.",
           "descriptionFr": "Deux enclos clôturés sans laisse installés par la Ville de Toulon dans le cadre de la réglementation du Mourillon de 2023 : une zone pour petits chiens et une seconde pour moyens et grands chiens, avec bancs, point d'eau et distributeurs de sacs. Seul espace clôturé sans laisse formel à Toulon. Ouvert toute l'année, 30 minutes max par passage aux heures de pointe pour gérer la rotation.",
@@ -245,24 +281,60 @@
         "O Sentier du Littoral de Cap Brun reabriu em 2024 após 15 anos de encerramento; consulte toulontourisme.com para encerramentos sazonais antes de caminhar."
       ],
       "faqsEn": [
-        {"q": "Can my dog ride the Mont Faron cable car?", "a": "Yes, on a leash and at no extra charge. Free entry for the dog is the standard rule confirmed by the official tourism office and the operator."},
-        {"q": "Is there an off-leash dog park in Toulon?", "a": "Yes, the Cani-parc du Mourillon, two fenced enclosures (one small, one medium/large) installed by the City as part of the 2023 Mourillon regulation."},
-        {"q": "Can I walk the Cap Brun coastal trail with a dog?", "a": "Yes. The Cap Brun section fully reopened in 2024 after the landslide closure. Dogs on lead are tolerated on the rocky zones; supervised sandy beaches at the eastern end still ban dogs in summer."}
+        {
+          "q": "Can my dog ride the Mont Faron cable car?",
+          "a": "Yes, on a leash and at no extra charge. Free entry for the dog is the standard rule confirmed by the official tourism office and the operator."
+        },
+        {
+          "q": "Is there an off-leash dog park in Toulon?",
+          "a": "Yes, the Cani-parc du Mourillon, two fenced enclosures (one small, one medium/large) installed by the City as part of the 2023 Mourillon regulation."
+        },
+        {
+          "q": "Can I walk the Cap Brun coastal trail with a dog?",
+          "a": "Yes. The Cap Brun section fully reopened in 2024 after the landslide closure. Dogs on lead are tolerated on the rocky zones; supervised sandy beaches at the eastern end still ban dogs in summer."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il prendre le téléphérique du Mont Faron ?", "a": "Oui, en laisse et sans supplément. L'entrée gratuite pour le chien est la règle confirmée par l'office de tourisme et l'exploitant."},
-        {"q": "Y a-t-il un parc canin sans laisse à Toulon ?", "a": "Oui, le Cani-parc du Mourillon : deux enclos clôturés (un petits, un moyens/grands) installés par la Ville dans le cadre de la réglementation du Mourillon de 2023."},
-        {"q": "Peut-on marcher le Sentier du Littoral de Cap Brun avec un chien ?", "a": "Oui. La portion Cap Brun a totalement rouvert en 2024 après la fermeture pour glissement. Les chiens en laisse sont tolérés sur les zones rocheuses ; les plages sableuses surveillées à l'est restent interdites aux chiens en été."}
+        {
+          "q": "Mon chien peut-il prendre le téléphérique du Mont Faron ?",
+          "a": "Oui, en laisse et sans supplément. L'entrée gratuite pour le chien est la règle confirmée par l'office de tourisme et l'exploitant."
+        },
+        {
+          "q": "Y a-t-il un parc canin sans laisse à Toulon ?",
+          "a": "Oui, le Cani-parc du Mourillon : deux enclos clôturés (un petits, un moyens/grands) installés par la Ville dans le cadre de la réglementation du Mourillon de 2023."
+        },
+        {
+          "q": "Peut-on marcher le Sentier du Littoral de Cap Brun avec un chien ?",
+          "a": "Oui. La portion Cap Brun a totalement rouvert en 2024 après la fermeture pour glissement. Les chiens en laisse sont tolérés sur les zones rocheuses ; les plages sableuses surveillées à l'est restent interdites aux chiens en été."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Mi perro puede subir al teleférico del Mont Faron?", "a": "Sí, con correa y sin coste extra. La entrada gratuita para el perro es la regla confirmada por la oficina de turismo y el operador."},
-        {"q": "¿Hay parque canino sin correa en Toulon?", "a": "Sí, el Cani-parc du Mourillon: dos recintos vallados (uno para pequeños, uno para medianos/grandes) instalados por el Ayuntamiento en el marco de la normativa del Mourillon de 2023."},
-        {"q": "¿Se puede caminar por el Sentier du Littoral de Cap Brun con perro?", "a": "Sí. La porción Cap Brun reabrió totalmente en 2024 tras el cierre por desprendimiento. Los perros con correa se toleran en zonas rocosas; las playas de arena vigiladas al este siguen prohibidas a perros en verano."}
+        {
+          "q": "¿Mi perro puede subir al teleférico del Mont Faron?",
+          "a": "Sí, con correa y sin coste extra. La entrada gratuita para el perro es la regla confirmada por la oficina de turismo y el operador."
+        },
+        {
+          "q": "¿Hay parque canino sin correa en Toulon?",
+          "a": "Sí, el Cani-parc du Mourillon: dos recintos vallados (uno para pequeños, uno para medianos/grandes) instalados por el Ayuntamiento en el marco de la normativa del Mourillon de 2023."
+        },
+        {
+          "q": "¿Se puede caminar por el Sentier du Littoral de Cap Brun con perro?",
+          "a": "Sí. La porción Cap Brun reabrió totalmente en 2024 tras el cierre por desprendimiento. Los perros con correa se toleran en zonas rocosas; las playas de arena vigiladas al este siguen prohibidas a perros en verano."
+        }
       ],
       "faqsPt": [
-        {"q": "O meu cão pode andar no teleférico do Mont Faron?", "a": "Sim, com trela e sem custo extra. A entrada gratuita para o cão é a regra confirmada pelo posto de turismo e pelo operador."},
-        {"q": "Existe parque canino sem trela em Toulon?", "a": "Sim, o Cani-parc du Mourillon: dois recintos vedados (um para pequenos, um para médios/grandes) instalados pela Câmara no quadro da regulamentação do Mourillon de 2023."},
-        {"q": "Pode-se caminhar pelo Sentier du Littoral de Cap Brun com cão?", "a": "Sim. A secção Cap Brun reabriu totalmente em 2024 após o encerramento por deslizamento. Os cães com trela são tolerados nas zonas rochosas; as praias arenosas vigiadas a leste continuam proibidas a cães no verão."}
+        {
+          "q": "O meu cão pode andar no teleférico do Mont Faron?",
+          "a": "Sim, com trela e sem custo extra. A entrada gratuita para o cão é a regra confirmada pelo posto de turismo e pelo operador."
+        },
+        {
+          "q": "Existe parque canino sem trela em Toulon?",
+          "a": "Sim, o Cani-parc du Mourillon: dois recintos vedados (um para pequenos, um para médios/grandes) instalados pela Câmara no quadro da regulamentação do Mourillon de 2023."
+        },
+        {
+          "q": "Pode-se caminhar pelo Sentier du Littoral de Cap Brun com cão?",
+          "a": "Sim. A secção Cap Brun reabriu totalmente em 2024 após o encerramento por deslizamento. Os cães com trela são tolerados nas zonas rochosas; as praias arenosas vigiadas a leste continuam proibidas a cães no verão."
+        }
       ]
     },
     "transport": {
@@ -279,7 +351,7 @@
           "name": "Réseau Mistral (bus + bateau-bus)",
           "address": "Boutique Mistral, Place de la Liberté, 83000 Toulon",
           "neighborhood": "Citywide + Rade",
-          "photo": "/images/city-places/toulon-transport-reseau-mistral.jpg",
+          "photo": "/images/city-places/toulon-transport-reseau-mistral-bus-bateau-bus.jpg",
           "website": "https://www.reseaumistral.com/jutilise-les-bus-et-bateaux-bus",
           "description": "The Toulon Provence Méditerranée urban network covers the city, La Seyne-sur-Mer, Saint-Mandrier and Six-Fours, with bus lines on land and bateau-bus shuttles across the Rade. Unlike most French municipal networks, the official rules admit large dogs on lead with a muzzle and a paid transport ticket; small dogs in a basket and guide/assistance dogs travel free. A genuine plus for any traveller with a medium or large dog.",
           "descriptionFr": "Le réseau urbain Toulon Provence Méditerranée couvre la ville, La Seyne-sur-Mer, Saint-Mandrier et Six-Fours, avec lignes de bus à terre et navettes bateau-bus traversant la Rade. Contrairement à la plupart des réseaux municipaux français, le règlement admet officiellement les grands chiens en laisse, muselés et avec un billet payant ; les petits animaux en panier et chiens-guides/assistance voyagent gratuitement. Vrai plus pour tout voyageur avec chien moyen ou grand.",
@@ -299,7 +371,7 @@
           "name": "Gare SNCF de Toulon",
           "address": "Place de l'Europe, 83000 Toulon",
           "neighborhood": "Centre",
-          "photo": "/images/city-places/toulon-transport-gare-sncf-toulon.jpg",
+          "photo": "/images/city-places/toulon-transport-gare-sncf-de-toulon.jpg",
           "website": "https://www.sncf-connect.com",
           "description": "Toulon station sits at the northern edge of the Vieille Ville, 5 minutes' walk from the Cours Lafayette. TGV to Paris Gare de Lyon in 4h, TER along the coast to Marseille (50 min), Saint-Raphaël (55 min) and Nice (2h). SNCF national pet rules apply: dogs under 6 kg in a carrier on a 0 EUR animal ticket, larger dogs on lead and muzzled at 50 percent of the adult fare capped at 7 EUR. Guide and assistance dogs travel free.",
           "descriptionFr": "La gare de Toulon est au nord de la Vieille Ville, à 5 min à pied du Cours Lafayette. TGV vers Paris Gare de Lyon en 4h, TER côtier vers Marseille (50 min), Saint-Raphaël (55 min) et Nice (2h). Règles SNCF : chiens < 6 kg en cage avec billet animal 0 EUR, plus grands en laisse et muselière à 50 % du tarif adulte plafonné à 7 EUR. Chiens-guides et d'assistance gratuits.",
@@ -319,7 +391,7 @@
           "name": "Aéroport Toulon-Hyères (TLN)",
           "address": "Boulevard de la Marine, 83400 Hyères",
           "neighborhood": "Hyères (20 min east)",
-          "photo": "/images/city-places/toulon-transport-tln-airport.jpg",
+          "photo": "/images/city-places/toulon-transport-aeroport-toulon-hyeres-tln.jpg",
           "website": "https://www.toulon-hyeres.aeroport.fr",
           "description": "A small regional airport 20 minutes east of Toulon, with Air France, Volotea, Brussels Airlines and seasonal Ryanair routes to Paris Orly, Brussels, Olbia and Athens among others. Standard airline pet rules apply: most carriers admit pets up to 8 kg including carrier in cabin and require advance booking. For year-round flexibility, Marseille Provence (MRS, 1h30 by road) carries far more pet-friendly route options.",
           "descriptionFr": "Un petit aéroport régional à 20 min à l'est de Toulon, avec Air France, Volotea, Brussels Airlines et Ryanair saisonnier vers Paris Orly, Bruxelles, Olbia et Athènes notamment. Règles aériennes standard : la plupart des compagnies acceptent les animaux jusqu'à 8 kg cage comprise en cabine, sur réservation préalable. Pour une flexibilité annuelle, Marseille Provence (MRS, 1h30 en voiture) offre bien plus d'options.",
@@ -357,24 +429,60 @@
         "Para Saint-Tropez ou Cannes, o TER SNCF para Les Arcs ou Saint-Raphaël + autocarro é mais fiável que os barcos directos sazonais que proíbem ou limitam cães."
       ],
       "faqsEn": [
-        {"q": "Can I take a large dog on the Toulon bus?", "a": "Yes. Réseau Mistral admits large dogs on lead with a muzzle and a paid transport ticket. Guide and assistance dogs travel free."},
-        {"q": "Are dogs allowed on the Toulon bateau-bus?", "a": "Yes, same rules as the bus: small pets in a basket free, large dogs leashed and muzzled with a ticket. The open back deck of the boat is the most popular spot."},
-        {"q": "Which airport is best for pet travel from Toulon?", "a": "Toulon-Hyères (TLN, 20 min east) is the closest but route options are limited. Marseille Provence (MRS, 1h30 by road) offers many more pet-friendly carriers and routes year-round."}
+        {
+          "q": "Can I take a large dog on the Toulon bus?",
+          "a": "Yes. Réseau Mistral admits large dogs on lead with a muzzle and a paid transport ticket. Guide and assistance dogs travel free."
+        },
+        {
+          "q": "Are dogs allowed on the Toulon bateau-bus?",
+          "a": "Yes, same rules as the bus: small pets in a basket free, large dogs leashed and muzzled with a ticket. The open back deck of the boat is the most popular spot."
+        },
+        {
+          "q": "Which airport is best for pet travel from Toulon?",
+          "a": "Toulon-Hyères (TLN, 20 min east) is the closest but route options are limited. Marseille Provence (MRS, 1h30 by road) offers many more pet-friendly carriers and routes year-round."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je prendre un grand chien dans les bus de Toulon ?", "a": "Oui. Le Réseau Mistral admet les grands chiens en laisse, muselés et avec un billet payant. Chiens-guides et d'assistance gratuits."},
-        {"q": "Les chiens sont-ils acceptés sur le bateau-bus de Toulon ?", "a": "Oui, mêmes règles que le bus : petits animaux en panier gratuits, grands chiens en laisse et muselés avec billet. Le pont arrière ouvert du bateau est l'endroit le plus prisé."},
-        {"q": "Quel aéroport est le mieux pour voyager avec un animal depuis Toulon ?", "a": "Toulon-Hyères (TLN, 20 min à l'est) est le plus proche mais les options sont limitées. Marseille Provence (MRS, 1h30 en voiture) offre beaucoup plus de compagnies et de lignes pet-friendly toute l'année."}
+        {
+          "q": "Puis-je prendre un grand chien dans les bus de Toulon ?",
+          "a": "Oui. Le Réseau Mistral admet les grands chiens en laisse, muselés et avec un billet payant. Chiens-guides et d'assistance gratuits."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés sur le bateau-bus de Toulon ?",
+          "a": "Oui, mêmes règles que le bus : petits animaux en panier gratuits, grands chiens en laisse et muselés avec billet. Le pont arrière ouvert du bateau est l'endroit le plus prisé."
+        },
+        {
+          "q": "Quel aéroport est le mieux pour voyager avec un animal depuis Toulon ?",
+          "a": "Toulon-Hyères (TLN, 20 min à l'est) est le plus proche mais les options sont limitées. Marseille Provence (MRS, 1h30 en voiture) offre beaucoup plus de compagnies et de lignes pet-friendly toute l'année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo llevar un perro grande en los buses de Toulon?", "a": "Sí. El Réseau Mistral admite perros grandes con correa, bozal y billete de pago. Perros guía y de asistencia gratis."},
-        {"q": "¿Se admiten perros en el bateau-bus de Toulon?", "a": "Sí, mismas reglas que el bus: mascotas pequeñas en transportín gratis, perros grandes con correa y bozal con billete. La cubierta trasera abierta del barco es el sitio más codiciado."},
-        {"q": "¿Qué aeropuerto es mejor para viajar con mascota desde Toulon?", "a": "Toulon-Hyères (TLN, 20 min al este) es el más cercano pero con opciones limitadas. Marsella Provence (MRS, 1h30 en coche) ofrece muchas más compañías y rutas pet-friendly todo el año."}
+        {
+          "q": "¿Puedo llevar un perro grande en los buses de Toulon?",
+          "a": "Sí. El Réseau Mistral admite perros grandes con correa, bozal y billete de pago. Perros guía y de asistencia gratis."
+        },
+        {
+          "q": "¿Se admiten perros en el bateau-bus de Toulon?",
+          "a": "Sí, mismas reglas que el bus: mascotas pequeñas en transportín gratis, perros grandes con correa y bozal con billete. La cubierta trasera abierta del barco es el sitio más codiciado."
+        },
+        {
+          "q": "¿Qué aeropuerto es mejor para viajar con mascota desde Toulon?",
+          "a": "Toulon-Hyères (TLN, 20 min al este) es el más cercano pero con opciones limitadas. Marsella Provence (MRS, 1h30 en coche) ofrece muchas más compañías y rutas pet-friendly todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso levar um cão grande nos autocarros de Toulon?", "a": "Sim. A Réseau Mistral aceita cães grandes com trela, açaime e bilhete pago. Cães-guia e de assistência grátis."},
-        {"q": "Os cães são aceites no bateau-bus de Toulon?", "a": "Sim, mesmas regras que o autocarro: pequenos animais em transportadora grátis, cães grandes com trela e açaime com bilhete. O convés traseiro aberto do barco é o sítio mais procurado."},
-        {"q": "Qual é o melhor aeroporto para viajar com animal a partir de Toulon?", "a": "Toulon-Hyères (TLN, 20 min a leste) é o mais próximo mas com opções limitadas. Marselha Provence (MRS, 1h30 de carro) oferece muitas mais companhias e rotas pet-friendly todo o ano."}
+        {
+          "q": "Posso levar um cão grande nos autocarros de Toulon?",
+          "a": "Sim. A Réseau Mistral aceita cães grandes com trela, açaime e bilhete pago. Cães-guia e de assistência grátis."
+        },
+        {
+          "q": "Os cães são aceites no bateau-bus de Toulon?",
+          "a": "Sim, mesmas regras que o autocarro: pequenos animais em transportadora grátis, cães grandes com trela e açaime com bilhete. O convés traseiro aberto do barco é o sítio mais procurado."
+        },
+        {
+          "q": "Qual é o melhor aeroporto para viajar com animal a partir de Toulon?",
+          "a": "Toulon-Hyères (TLN, 20 min a leste) é o mais próximo mas com opções limitadas. Marselha Provence (MRS, 1h30 de carro) oferece muitas mais companhias e rotas pet-friendly todo o ano."
+        }
       ]
     },
     "beaches": {
@@ -391,7 +499,7 @@
           "name": "Anse Tabarly (cani-plage)",
           "address": "Plages du Mourillon, 83000 Toulon",
           "neighborhood": "Le Mourillon (eastern end)",
-          "photo": "/images/city-places/toulon-beaches-anse-tabarly.jpg",
+          "photo": "/images/city-places/toulon-beaches-anse-tabarly-cani-plage.jpg",
           "website": "https://toulon.fr/plages-du-mourillon",
           "description": "The official year-round dog beach at the eastern end of the Mourillon strip, with a dedicated dog swim zone, a ramp into the water for older dogs and shaded benches above the rocks. Listed by the City of Toulon and the regional Provence-Méditerranée tourism office as the cani-plage de Toulon. Dogs on lead on the path approaches; off-lead permitted inside the dog swim zone only.",
           "descriptionFr": "La cani-plage officielle annuelle à l'extrémité est du Mourillon, avec zone de baignade canine, rampe d'accès à l'eau pour les vieux chiens et bancs ombragés au-dessus des rochers. Listée par la Ville de Toulon et l'office Provence-Méditerranée comme la cani-plage de Toulon. Chiens en laisse sur les approches ; sans laisse autorisé uniquement dans la zone de baignade canine.",
@@ -419,7 +527,7 @@
           "name": "Promenade Henri Fabre (Mourillon back beach)",
           "address": "Plages du Mourillon, 83000 Toulon",
           "neighborhood": "Le Mourillon",
-          "photo": "/images/city-places/toulon-beaches-promenade-henri-fabre.jpg",
+          "photo": "/images/city-places/toulon-beaches-promenade-henri-fabre-mourillon-back-beach.jpg",
           "website": "https://toulon.fr/plages-du-mourillon",
           "description": "The paved seafront promenade running 1.4 km behind the Mourillon strip, with palm trees, benches and the Mediterranean horizon. The 2023 City regulation admits leashed dogs on the Henri Fabre promenade from 1 September to 31 May, and from 1 June to 31 August only between 06:00 and 08:30. Dogs are prohibited on the lawns and sand even on lead at all other times.",
           "descriptionFr": "La promenade pavée du front de mer qui longe 1,4 km derrière le Mourillon, avec palmiers, bancs et l'horizon méditerranéen. Le règlement municipal 2023 autorise les chiens en laisse sur la promenade Henri Fabre du 1er septembre au 31 mai, et du 1er juin au 31 août uniquement de 06h à 08h30. Les chiens sont interdits sur les pelouses et le sable même en laisse aux autres horaires.",
@@ -447,7 +555,7 @@
           "name": "Coves of La Mitre",
           "address": "Sentier de la Mitre, 83000 Toulon",
           "neighborhood": "La Mitre",
-          "photo": "/images/city-places/toulon-beaches-la-mitre.jpg",
+          "photo": "/images/city-places/toulon-beaches-coves-of-la-mitre.jpg",
           "website": "",
           "description": "A series of small rocky coves at the western end of the Mourillon, between the Saint-Louis fort and the Tour Royale, reached by a short coastal path. The supervised summer swim zone bans dogs on lead from 1 June to 31 August; the rocky shoreline and the coastal path outside the zone tolerate leashed dogs year-round. Less crowded than the central Mourillon beaches and a good option for an off-season swim.",
           "descriptionFr": "Une série de petites criques rocheuses à l'extrémité ouest du Mourillon, entre le fort Saint-Louis et la Tour Royale, accessibles par un court chemin côtier. La zone surveillée d'été interdit les chiens en laisse du 1er juin au 31 août ; le littoral rocheux et le chemin côtier hors zone tolèrent les chiens en laisse toute l'année. Moins fréquenté que les plages centrales du Mourillon et bon plan pour une baignade hors saison.",
@@ -493,24 +601,60 @@
         "O ferry para Porquerolles a partir de Toulon embarca cães com trela grátis; as praias de Porquerolles são proibidas a cães (regras Parque Nacional), planeie apenas caminhadas em trilhos."
       ],
       "faqsEn": [
-        {"q": "Can my dog swim at the Mourillon in summer?", "a": "Not on the sandy beaches: dogs are banned 1 June to 31 August on all sand and lawns. Use the year-round Anse Tabarly cani-plage at the eastern end of the Mourillon instead."},
-        {"q": "When can I walk my dog on the Mourillon promenade?", "a": "On lead all day from 1 September to 31 May. In summer (1 June to 31 August), only 06:00 to 08:30."},
-        {"q": "Can I take my dog to Porquerolles?", "a": "Yes, the ferry TLV-TVM admits leashed dogs free. But the beaches on Porquerolles are strictly banned to dogs under the Parc National rules; only the trails are dog-accessible."}
+        {
+          "q": "Can my dog swim at the Mourillon in summer?",
+          "a": "Not on the sandy beaches: dogs are banned 1 June to 31 August on all sand and lawns. Use the year-round Anse Tabarly cani-plage at the eastern end of the Mourillon instead."
+        },
+        {
+          "q": "When can I walk my dog on the Mourillon promenade?",
+          "a": "On lead all day from 1 September to 31 May. In summer (1 June to 31 August), only 06:00 to 08:30."
+        },
+        {
+          "q": "Can I take my dog to Porquerolles?",
+          "a": "Yes, the ferry TLV-TVM admits leashed dogs free. But the beaches on Porquerolles are strictly banned to dogs under the Parc National rules; only the trails are dog-accessible."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il se baigner au Mourillon en été ?", "a": "Pas sur les plages sableuses : interdits du 1er juin au 31 août sur tout le sable et les pelouses. Utilisez la cani-plage de l'Anse Tabarly à l'extrémité est du Mourillon toute l'année."},
-        {"q": "Quand puis-je promener mon chien sur la promenade du Mourillon ?", "a": "En laisse toute la journée du 1er septembre au 31 mai. En été (1er juin-31 août), seulement de 06h à 08h30."},
-        {"q": "Puis-je emmener mon chien à Porquerolles ?", "a": "Oui, le ferry TLV-TVM embarque les chiens en laisse gratuitement. Mais les plages de Porquerolles sont strictement interdites aux chiens (règles Parc National) ; seuls les sentiers sont accessibles."}
+        {
+          "q": "Mon chien peut-il se baigner au Mourillon en été ?",
+          "a": "Pas sur les plages sableuses : interdits du 1er juin au 31 août sur tout le sable et les pelouses. Utilisez la cani-plage de l'Anse Tabarly à l'extrémité est du Mourillon toute l'année."
+        },
+        {
+          "q": "Quand puis-je promener mon chien sur la promenade du Mourillon ?",
+          "a": "En laisse toute la journée du 1er septembre au 31 mai. En été (1er juin-31 août), seulement de 06h à 08h30."
+        },
+        {
+          "q": "Puis-je emmener mon chien à Porquerolles ?",
+          "a": "Oui, le ferry TLV-TVM embarque les chiens en laisse gratuitement. Mais les plages de Porquerolles sont strictement interdites aux chiens (règles Parc National) ; seuls les sentiers sont accessibles."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Mi perro puede bañarse en el Mourillon en verano?", "a": "No en las playas de arena: prohibidos del 1 de junio al 31 de agosto en toda la arena y céspedes. Usa la cani-plage de la Anse Tabarly en el extremo este del Mourillon todo el año."},
-        {"q": "¿Cuándo puedo pasear a mi perro por el paseo del Mourillon?", "a": "Con correa todo el día del 1 de septiembre al 31 de mayo. En verano (1 junio-31 agosto), solo de 06:00 a 08:30."},
-        {"q": "¿Puedo llevar a mi perro a Porquerolles?", "a": "Sí, el ferry TLV-TVM embarca perros con correa gratis. Pero las playas de Porquerolles están estrictamente prohibidas a perros (normas Parque Nacional); solo los senderos son accesibles."}
+        {
+          "q": "¿Mi perro puede bañarse en el Mourillon en verano?",
+          "a": "No en las playas de arena: prohibidos del 1 de junio al 31 de agosto en toda la arena y céspedes. Usa la cani-plage de la Anse Tabarly en el extremo este del Mourillon todo el año."
+        },
+        {
+          "q": "¿Cuándo puedo pasear a mi perro por el paseo del Mourillon?",
+          "a": "Con correa todo el día del 1 de septiembre al 31 de mayo. En verano (1 junio-31 agosto), solo de 06:00 a 08:30."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a Porquerolles?",
+          "a": "Sí, el ferry TLV-TVM embarca perros con correa gratis. Pero las playas de Porquerolles están estrictamente prohibidas a perros (normas Parque Nacional); solo los senderos son accesibles."
+        }
       ],
       "faqsPt": [
-        {"q": "O meu cão pode tomar banho no Mourillon no verão?", "a": "Não nas praias arenosas: proibidos de 1 de junho a 31 de agosto em toda a areia e relvados. Use a cani-praia da Anse Tabarly no extremo leste do Mourillon todo o ano."},
-        {"q": "Quando posso passear o meu cão no passeio do Mourillon?", "a": "Com trela todo o dia de 1 de setembro a 31 de maio. No verão (1 junho-31 agosto), apenas das 06h às 08h30."},
-        {"q": "Posso levar o meu cão a Porquerolles?", "a": "Sim, o ferry TLV-TVM embarca cães com trela grátis. Mas as praias de Porquerolles são estritamente proibidas a cães (regras Parque Nacional); só os trilhos são acessíveis."}
+        {
+          "q": "O meu cão pode tomar banho no Mourillon no verão?",
+          "a": "Não nas praias arenosas: proibidos de 1 de junho a 31 de agosto em toda a areia e relvados. Use a cani-praia da Anse Tabarly no extremo leste do Mourillon todo o ano."
+        },
+        {
+          "q": "Quando posso passear o meu cão no passeio do Mourillon?",
+          "a": "Com trela todo o dia de 1 de setembro a 31 de maio. No verão (1 junho-31 agosto), apenas das 06h às 08h30."
+        },
+        {
+          "q": "Posso levar o meu cão a Porquerolles?",
+          "a": "Sim, o ferry TLV-TVM embarca cães com trela grátis. Mas as praias de Porquerolles são estritamente proibidas a cães (regras Parque Nacional); só os trilhos são acessíveis."
+        }
       ]
     },
     "vets": {
@@ -527,7 +671,7 @@
           "name": "Telo Vet (Urgence Vétérinaire Toulon)",
           "address": "382 Avenue Pierre Loti, 83000 Toulon",
           "neighborhood": "Pont du Las (north-west centre)",
-          "photo": "/images/city-places/toulon-vets-telo-vet.jpg",
+          "photo": "/images/city-places/toulon-vets-telo-vet-urgence-veterinaire-toulon.jpg",
           "website": "https://www.veterinaire-de-garde-toulon.fr/",
           "phone": "04 22 54 04 54",
           "description": "A 24/7 emergency vet clinic on Avenue Pierre Loti, with consultations every day including Sunday and a home-visit service for animals too sick to travel. Full imaging, surgery, dentistry and hospitalisation. The team prioritises foreign-passport tourist consultations and EU pet passports are routinely accepted.",
@@ -553,7 +697,7 @@
           "name": "Vétérinaires 2 Toute Urgence Toulon",
           "address": "157 Route de Marseille, 83200 Toulon",
           "neighborhood": "Ouest Toulon (Route de Marseille)",
-          "photo": "/images/city-places/toulon-vets-2-toute-urgence-toulon.jpg",
+          "photo": "/images/city-places/toulon-vets-veterinaires-2-toute-urgence-toulon.jpg",
           "website": "https://veterinaires2touteurgence.com/urgence-veterinaire-toulon/",
           "phone": "04 27 04 02 70",
           "description": "A second 24/7 vet emergency clinic on the western Route de Marseille, part of the regional network that also covers Nîmes and Arles. Open every weeknight 19:00–08:00, every weekend Sat 12:00–Mon 08:00 and 24h on public holidays. Trained vet nurses on site overnight, full imaging and surgical theatre.",
@@ -579,7 +723,7 @@
           "name": "Clinique Vétérinaire des 4 Chemins",
           "address": "Quartier des 4 Chemins, 83000 Toulon",
           "neighborhood": "4 Chemins (north Toulon)",
-          "photo": "/images/city-places/toulon-vets-clinique-4-chemins.jpg",
+          "photo": "/images/city-places/toulon-vets-clinique-veterinaire-des-4-chemins.jpg",
           "website": "",
           "phone": "04 94 31 31 31",
           "description": "A general practice in the residential 4 Chemins quarter, useful for routine consultations, vaccinations, microchip checks and minor surgery. Open Monday to Saturday in standard hours; out-of-hours emergencies routed to Telo Vet or Vétérinaires 2 Toute Urgence. English-speaking staff for tourists.",
@@ -623,24 +767,60 @@
         "O número nacional gratuito de urgência veterinária 3115 também funciona em todo o Var."
       ],
       "faqsEn": [
-        {"q": "Is there a 24/7 emergency vet in Toulon?", "a": "Yes, two of them: Telo Vet (04 22 54 04 54) on Avenue Pierre Loti and Vétérinaires 2 Toute Urgence (04 27 04 02 70) on the route de Marseille. The national 3115 line also works across the Var."},
-        {"q": "Will a Toulon vet treat a foreign-passport dog?", "a": "Yes. All three clinics above accept EU pet passports and treat travelling animals routinely. English-speaking staff at Telo Vet and the 4 Chemins clinic."},
-        {"q": "Do I need extra vaccinations for a Toulon trip?", "a": "Standard EU pet-passport vaccinations (rabies + ISO microchip) are mandatory. Leptospirosis is strongly recommended if you plan river or coastal swims; ask your home vet at least 21 days before travel."}
+        {
+          "q": "Is there a 24/7 emergency vet in Toulon?",
+          "a": "Yes, two of them: Telo Vet (04 22 54 04 54) on Avenue Pierre Loti and Vétérinaires 2 Toute Urgence (04 27 04 02 70) on the route de Marseille. The national 3115 line also works across the Var."
+        },
+        {
+          "q": "Will a Toulon vet treat a foreign-passport dog?",
+          "a": "Yes. All three clinics above accept EU pet passports and treat travelling animals routinely. English-speaking staff at Telo Vet and the 4 Chemins clinic."
+        },
+        {
+          "q": "Do I need extra vaccinations for a Toulon trip?",
+          "a": "Standard EU pet-passport vaccinations (rabies + ISO microchip) are mandatory. Leptospirosis is strongly recommended if you plan river or coastal swims; ask your home vet at least 21 days before travel."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un vétérinaire d'urgence 24h/24 à Toulon ?", "a": "Oui, deux : Telo Vet (04 22 54 04 54) sur l'Avenue Pierre Loti et Vétérinaires 2 Toute Urgence (04 27 04 02 70) route de Marseille. Le 3115 national fonctionne aussi dans tout le Var."},
-        {"q": "Un vétérinaire de Toulon soignera-t-il un chien à passeport étranger ?", "a": "Oui. Les trois cliniques ci-dessus acceptent le passeport européen et soignent régulièrement les animaux voyageurs. Personnel anglophone chez Telo Vet et à la clinique des 4 Chemins."},
-        {"q": "Faut-il des vaccinations supplémentaires pour Toulon ?", "a": "Les vaccinations standard du passeport européen (rage + puce ISO) sont obligatoires. La leptospirose est fortement recommandée si vous prévoyez des baignades fluviales ou côtières ; demandez à votre vétérinaire au moins 21 jours avant."}
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence 24h/24 à Toulon ?",
+          "a": "Oui, deux : Telo Vet (04 22 54 04 54) sur l'Avenue Pierre Loti et Vétérinaires 2 Toute Urgence (04 27 04 02 70) route de Marseille. Le 3115 national fonctionne aussi dans tout le Var."
+        },
+        {
+          "q": "Un vétérinaire de Toulon soignera-t-il un chien à passeport étranger ?",
+          "a": "Oui. Les trois cliniques ci-dessus acceptent le passeport européen et soignent régulièrement les animaux voyageurs. Personnel anglophone chez Telo Vet et à la clinique des 4 Chemins."
+        },
+        {
+          "q": "Faut-il des vaccinations supplémentaires pour Toulon ?",
+          "a": "Les vaccinations standard du passeport européen (rage + puce ISO) sont obligatoires. La leptospirose est fortement recommandée si vous prévoyez des baignades fluviales ou côtières ; demandez à votre vétérinaire au moins 21 jours avant."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay veterinario de urgencias 24/7 en Toulon?", "a": "Sí, dos: Telo Vet (04 22 54 04 54) en la Avenue Pierre Loti y Vétérinaires 2 Toute Urgence (04 27 04 02 70) en la route de Marseille. El 3115 nacional también funciona en todo el Var."},
-        {"q": "¿Un veterinario de Toulon atenderá a un perro con pasaporte extranjero?", "a": "Sí. Las tres clínicas anteriores aceptan el pasaporte europeo y atienden con regularidad a animales viajeros. Personal anglófono en Telo Vet y en la clínica de 4 Chemins."},
-        {"q": "¿Hacen falta vacunaciones extra para un viaje a Toulon?", "a": "Las vacunaciones estándar del pasaporte europeo (rabia + microchip ISO) son obligatorias. La leptospirosis se recomienda firmemente si prevés baños fluviales o costeros; pídela a tu veterinario al menos 21 días antes."}
+        {
+          "q": "¿Hay veterinario de urgencias 24/7 en Toulon?",
+          "a": "Sí, dos: Telo Vet (04 22 54 04 54) en la Avenue Pierre Loti y Vétérinaires 2 Toute Urgence (04 27 04 02 70) en la route de Marseille. El 3115 nacional también funciona en todo el Var."
+        },
+        {
+          "q": "¿Un veterinario de Toulon atenderá a un perro con pasaporte extranjero?",
+          "a": "Sí. Las tres clínicas anteriores aceptan el pasaporte europeo y atienden con regularidad a animales viajeros. Personal anglófono en Telo Vet y en la clínica de 4 Chemins."
+        },
+        {
+          "q": "¿Hacen falta vacunaciones extra para un viaje a Toulon?",
+          "a": "Las vacunaciones estándar del pasaporte europeo (rabia + microchip ISO) son obligatorias. La leptospirosis se recomienda firmemente si prevés baños fluviales o costeros; pídela a tu veterinario al menos 21 días antes."
+        }
       ],
       "faqsPt": [
-        {"q": "Existe veterinário de urgência 24/7 em Toulon?", "a": "Sim, dois: Telo Vet (04 22 54 04 54) na Avenue Pierre Loti e Vétérinaires 2 Toute Urgence (04 27 04 02 70) na route de Marseille. O 3115 nacional também funciona em todo o Var."},
-        {"q": "Um veterinário de Toulon trata um cão com passaporte estrangeiro?", "a": "Sim. As três clínicas acima aceitam o passaporte europeu e tratam regularmente animais viajantes. Pessoal anglófono em Telo Vet e na clínica dos 4 Chemins."},
-        {"q": "Preciso de vacinações extra para uma viagem a Toulon?", "a": "As vacinações padrão do passaporte europeu (raiva + microchip ISO) são obrigatórias. A leptospirose é fortemente recomendada se prevê banhos fluviais ou costeiros; peça ao seu veterinário pelo menos 21 dias antes."}
+        {
+          "q": "Existe veterinário de urgência 24/7 em Toulon?",
+          "a": "Sim, dois: Telo Vet (04 22 54 04 54) na Avenue Pierre Loti e Vétérinaires 2 Toute Urgence (04 27 04 02 70) na route de Marseille. O 3115 nacional também funciona em todo o Var."
+        },
+        {
+          "q": "Um veterinário de Toulon trata um cão com passaporte estrangeiro?",
+          "a": "Sim. As três clínicas acima aceitam o passaporte europeu e tratam regularmente animais viajantes. Pessoal anglófono em Telo Vet e na clínica dos 4 Chemins."
+        },
+        {
+          "q": "Preciso de vacinações extra para uma viagem a Toulon?",
+          "a": "As vacinações padrão do passaporte europeu (raiva + microchip ISO) são obrigatórias. A leptospirose é fortemente recomendada se prevê banhos fluviais ou costeiros; peça ao seu veterinário pelo menos 21 dias antes."
+        }
       ]
     },
     "attractions": {
@@ -657,7 +837,7 @@
           "name": "Téléphérique du Mont Faron",
           "address": "Boulevard Amiral Vence, 83200 Toulon",
           "neighborhood": "Mont Faron",
-          "photo": "/images/city-places/toulon-attractions-telepherique-mont-faron.jpg",
+          "photo": "/images/city-places/toulon-attractions-telepherique-du-mont-faron.jpg",
           "website": "https://www.telepherique-toulon.com",
           "description": "The cable car that climbs the 584-metre Mont Faron in 6 minutes from the Super-Toulon lower station, with a 360-degree panorama over the Mediterranean from the top. The official tourism office confirms dogs travel free in the cabin as long as they are on a leash, with no size limit. Operates daily, closing on strong mistral days.",
           "descriptionFr": "Le téléphérique qui grimpe les 584 m du Mont Faron en 6 minutes depuis la gare basse de Super-Toulon, avec un panorama à 360° sur la Méditerranée au sommet. L'office de tourisme confirme que les chiens voyagent gratuitement dans la cabine, en laisse, sans limite de taille. Quotidien, ferme par fort mistral.",
@@ -678,7 +858,7 @@
           "name": "Marché du Cours Lafayette",
           "address": "Cours Lafayette, 83000 Toulon",
           "neighborhood": "Vieille Ville",
-          "photo": "/images/city-places/toulon-attractions-cours-lafayette.jpg",
+          "photo": "/images/city-places/toulon-attractions-marche-du-cours-lafayette.jpg",
           "website": "https://toulontourisme.com",
           "description": "The great Provençal market of Toulon, running every morning except Monday along the Cours Lafayette under a canopy of plane trees. Fish, fruit, vegetables, flowers, Provençal herbs and street food: pichade, cade toulonnaise, socca, panisse. Dogs on lead are part of the daily fabric of the market; carry your own waste bags. Made famous by Gilbert Bécaud's song Les marchés de Provence.",
           "descriptionFr": "Le grand marché provençal de Toulon, chaque matin sauf le lundi sur le Cours Lafayette sous la voûte des platanes. Poissons, fruits, légumes, fleurs, herbes de Provence et street food : pichade, cade toulonnaise, socca, panisse. Les chiens en laisse font partie du tissu quotidien du marché ; emportez vos sacs. Rendu célèbre par Les marchés de Provence de Gilbert Bécaud.",
@@ -699,7 +879,7 @@
           "name": "Quai Cronstadt + Place de la Liberté circuit",
           "address": "Quai Cronstadt, 83000 Toulon",
           "neighborhood": "Port and Vieille Ville",
-          "photo": "/images/city-places/toulon-attractions-quai-cronstadt.jpg",
+          "photo": "/images/city-places/toulon-attractions-quai-cronstadt-place-de-la-liberte-circuit.jpg",
           "website": "",
           "description": "The pedestrian and tram-served port quay between the harbour and the Vieille Ville, with frigates of the French Navy moored across the basin and the Caryatides d'Atlantes by Pierre Puget on the façade of the Musée National de la Marine. A flat 1 km loop combining the Quai Cronstadt, the Place de la Liberté with its 19th-century fountain and the Atlantes back to the Vieille Ville. Open access throughout, dogs welcome on lead.",
           "descriptionFr": "Le quai piéton et tramway entre le port et la Vieille Ville, avec les frégates de la Marine nationale mouillées dans le bassin et les Caryatides d'Atlantes de Pierre Puget sur la façade du Musée National de la Marine. Une boucle plate de 1 km combinant le Quai Cronstadt, la Place de la Liberté avec sa fontaine du XIXe siècle et les Atlantes vers la Vieille Ville. Accès libre, chiens en laisse bienvenus.",
@@ -738,24 +918,60 @@
         "O mercado do Cours Lafayette é a experiência toulonesa mais autêntica com cão; venha de terça a domingo de manhã, nunca à segunda."
       ],
       "faqsEn": [
-        {"q": "Can my dog ride the Mont Faron cable car?", "a": "Yes, on a leash and free of charge, regardless of size. The official tourism office and the operator both confirm the rule."},
-        {"q": "Are dogs welcome at the Marché Cours Lafayette?", "a": "Yes, leashed dogs are part of the daily market scene. Avoid the peak Saturday hours if your dog dislikes crowds, and bring your own waste bags."},
-        {"q": "Can I visit the Naval Museum with a dog?", "a": "No, the Musée National de la Marine interior admits only guide and assistance dogs. The façade with the Atlantes statues by Pierre Puget is free public viewing on the Quai Cronstadt."}
+        {
+          "q": "Can my dog ride the Mont Faron cable car?",
+          "a": "Yes, on a leash and free of charge, regardless of size. The official tourism office and the operator both confirm the rule."
+        },
+        {
+          "q": "Are dogs welcome at the Marché Cours Lafayette?",
+          "a": "Yes, leashed dogs are part of the daily market scene. Avoid the peak Saturday hours if your dog dislikes crowds, and bring your own waste bags."
+        },
+        {
+          "q": "Can I visit the Naval Museum with a dog?",
+          "a": "No, the Musée National de la Marine interior admits only guide and assistance dogs. The façade with the Atlantes statues by Pierre Puget is free public viewing on the Quai Cronstadt."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il prendre le téléphérique du Mont Faron ?", "a": "Oui, en laisse et gratuitement, quelle que soit sa taille. L'office de tourisme et l'exploitant confirment la règle."},
-        {"q": "Les chiens sont-ils bienvenus au marché du Cours Lafayette ?", "a": "Oui, les chiens en laisse font partie du quotidien du marché. Évitez les heures de pointe du samedi si votre chien n'aime pas la foule, et emportez vos sacs."},
-        {"q": "Puis-je visiter le Musée de la Marine avec mon chien ?", "a": "Non, l'intérieur du Musée National de la Marine n'admet que les chiens-guides et d'assistance. La façade aux Atlantes de Pierre Puget est en vue libre sur le Quai Cronstadt."}
+        {
+          "q": "Mon chien peut-il prendre le téléphérique du Mont Faron ?",
+          "a": "Oui, en laisse et gratuitement, quelle que soit sa taille. L'office de tourisme et l'exploitant confirment la règle."
+        },
+        {
+          "q": "Les chiens sont-ils bienvenus au marché du Cours Lafayette ?",
+          "a": "Oui, les chiens en laisse font partie du quotidien du marché. Évitez les heures de pointe du samedi si votre chien n'aime pas la foule, et emportez vos sacs."
+        },
+        {
+          "q": "Puis-je visiter le Musée de la Marine avec mon chien ?",
+          "a": "Non, l'intérieur du Musée National de la Marine n'admet que les chiens-guides et d'assistance. La façade aux Atlantes de Pierre Puget est en vue libre sur le Quai Cronstadt."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Mi perro puede subir al teleférico del Mont Faron?", "a": "Sí, con correa y gratis, sin importar el tamaño. La oficina de turismo y el operador confirman la regla."},
-        {"q": "¿Son bienvenidos los perros en el mercado del Cours Lafayette?", "a": "Sí, los perros con correa son parte del paisaje diario del mercado. Evita las horas punta del sábado si tu perro no aguanta la multitud, y trae tus bolsas."},
-        {"q": "¿Puedo visitar el Museo de la Marina con perro?", "a": "No, el interior del Musée National de la Marine solo admite perros guía y de asistencia. La fachada con los Atlantes de Pierre Puget es de vista libre en el Quai Cronstadt."}
+        {
+          "q": "¿Mi perro puede subir al teleférico del Mont Faron?",
+          "a": "Sí, con correa y gratis, sin importar el tamaño. La oficina de turismo y el operador confirman la regla."
+        },
+        {
+          "q": "¿Son bienvenidos los perros en el mercado del Cours Lafayette?",
+          "a": "Sí, los perros con correa son parte del paisaje diario del mercado. Evita las horas punta del sábado si tu perro no aguanta la multitud, y trae tus bolsas."
+        },
+        {
+          "q": "¿Puedo visitar el Museo de la Marina con perro?",
+          "a": "No, el interior del Musée National de la Marine solo admite perros guía y de asistencia. La fachada con los Atlantes de Pierre Puget es de vista libre en el Quai Cronstadt."
+        }
       ],
       "faqsPt": [
-        {"q": "O meu cão pode andar no teleférico do Mont Faron?", "a": "Sim, com trela e grátis, qualquer que seja o tamanho. O posto de turismo e o operador confirmam a regra."},
-        {"q": "Os cães são bem-vindos no mercado do Cours Lafayette?", "a": "Sim, os cães com trela fazem parte do cenário diário do mercado. Evite as horas de ponta do sábado se o seu cão não aguenta multidões, e leve os seus sacos."},
-        {"q": "Posso visitar o Museu da Marinha com cão?", "a": "Não, o interior do Musée National de la Marine só admite cães-guia e de assistência. A fachada com os Atlantes de Pierre Puget é de vista livre no Quai Cronstadt."}
+        {
+          "q": "O meu cão pode andar no teleférico do Mont Faron?",
+          "a": "Sim, com trela e grátis, qualquer que seja o tamanho. O posto de turismo e o operador confirmam a regra."
+        },
+        {
+          "q": "Os cães são bem-vindos no mercado do Cours Lafayette?",
+          "a": "Sim, os cães com trela fazem parte do cenário diário do mercado. Evite as horas de ponta do sábado se o seu cão não aguenta multidões, e leve os seus sacos."
+        },
+        {
+          "q": "Posso visitar o Museu da Marinha com cão?",
+          "a": "Não, o interior do Musée National de la Marine só admite cães-guia e de assistência. A fachada com os Atlantes de Pierre Puget é de vista livre no Quai Cronstadt."
+        }
       ]
     },
     "petsitting": {
@@ -772,7 +988,6 @@
           "name": "Gudog Toulon",
           "address": "Online platform, Toulon 83000",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/toulon-petsitting-gudog.jpg",
           "website": "https://gudog.fr/dog-sitters-toulon",
           "description": "Gudog (now integrated with Rover) lists 17 verified Toulon-based sitters offering boarding, day care and walks. Average rate around 17 EUR per night for boarding. Each sitter passes a verification process covering experience, professional qualifications and previous owner reviews; only a minority of applicants are accepted.",
           "descriptionFr": "Gudog (désormais intégré à Rover) liste 17 sitters vérifiés à Toulon proposant pension, garde de jour et promenades. Tarif moyen autour de 17 EUR par nuit en pension. Chaque sitter passe une validation couvrant expérience, qualifications professionnelles et avis des propriétaires précédents ; seule une minorité des candidats est acceptée.",
@@ -796,7 +1011,6 @@
           "name": "Rover Toulon",
           "address": "Online platform, Toulon 83000",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/toulon-petsitting-rover.jpg",
           "website": "https://www.rover.com/fr/toulon--provence-alpes-cote-dazur--garde-de-chien/",
           "description": "Rover lists over 80 verified Toulon dog sitters offering boarding, day care, walks and home visits. Insurance and 24/7 vet hotline included in every booking. Profile filters cover small/medium/large dogs, garden access and home-or-host preference. Median boarding rate around 17 EUR per night.",
           "descriptionFr": "Rover liste plus de 80 dog-sitters vérifiés à Toulon offrant pension, garde de jour, promenades et visites à domicile. Assurance et hotline vétérinaire 24h/24 incluses dans chaque réservation. Filtres profil pour petits/moyens/grands chiens, jardin, et garde à domicile ou chez l'hôte. Tarif médian pension autour de 17 EUR la nuit.",
@@ -820,7 +1034,6 @@
           "name": "Animaute Toulon",
           "address": "Online platform, Toulon 83000",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/toulon-petsitting-animaute.jpg",
           "website": "https://www.animaute.fr/garde-animaux-toulon-83000",
           "description": "A French national pet-sitting platform with strong Provence coverage, offering home-stay boarding, day care, walks and home visits in Toulon. The platform is supervised by a veterinarian-founder and each sitter is certified by their customer service. Insurance included; vaccination and microchip required.",
           "descriptionFr": "Une plateforme nationale française de pet-sitting avec une forte présence en Provence, proposant pension en famille d'accueil, garde de jour, promenades et visites à domicile à Toulon. La plateforme est supervisée par un fondateur vétérinaire et chaque sitter est certifié par son service client. Assurance incluse ; vaccins et puce obligatoires.",
@@ -862,24 +1075,60 @@
         "Faça sempre o encontro prévio gratuito antes da primeira noite; obrigatório na maioria das plataformas e única forma de validar a compatibilidade."
       ],
       "faqsEn": [
-        {"q": "How much does a dog sitter cost in Toulon?", "a": "About 17 EUR per night on Gudog and Rover; day care 18 to 25 EUR, walk 11 to 15 EUR. Among the more affordable rates on the Côte d'Azur."},
-        {"q": "Can a sitter cover a Porquerolles day trip?", "a": "Yes, all three platforms allow day care or a single 6-hour stay; typical price 25–30 EUR. Choose a sitter with garden access if your dog needs space."},
-        {"q": "What if my dog is anxious with strangers?", "a": "Always do a meet-and-greet beforehand. If the dog still does not settle, switch to a home-visit format (sitter comes to your hotel) rather than boarding; available on all three platforms."}
+        {
+          "q": "How much does a dog sitter cost in Toulon?",
+          "a": "About 17 EUR per night on Gudog and Rover; day care 18 to 25 EUR, walk 11 to 15 EUR. Among the more affordable rates on the Côte d'Azur."
+        },
+        {
+          "q": "Can a sitter cover a Porquerolles day trip?",
+          "a": "Yes, all three platforms allow day care or a single 6-hour stay; typical price 25–30 EUR. Choose a sitter with garden access if your dog needs space."
+        },
+        {
+          "q": "What if my dog is anxious with strangers?",
+          "a": "Always do a meet-and-greet beforehand. If the dog still does not settle, switch to a home-visit format (sitter comes to your hotel) rather than boarding; available on all three platforms."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte un sitter à Toulon ?", "a": "Environ 17 EUR la nuit sur Gudog et Rover ; garde de jour 18 à 25 EUR, promenade 11 à 15 EUR. Parmi les tarifs les plus accessibles de la Côte d'Azur."},
-        {"q": "Un sitter peut-il couvrir une journée à Porquerolles ?", "a": "Oui, les trois plateformes permettent la garde de jour ou un séjour de 6h ; prix type 25-30 EUR. Choisissez un sitter avec jardin si votre chien a besoin d'espace."},
-        {"q": "Et si mon chien est anxieux avec les inconnus ?", "a": "Faites toujours la rencontre préalable. Si le chien ne se pose pas, passez à la visite à domicile (le sitter vient à votre hôtel) plutôt qu'à la pension ; disponible sur les trois plateformes."}
+        {
+          "q": "Combien coûte un sitter à Toulon ?",
+          "a": "Environ 17 EUR la nuit sur Gudog et Rover ; garde de jour 18 à 25 EUR, promenade 11 à 15 EUR. Parmi les tarifs les plus accessibles de la Côte d'Azur."
+        },
+        {
+          "q": "Un sitter peut-il couvrir une journée à Porquerolles ?",
+          "a": "Oui, les trois plateformes permettent la garde de jour ou un séjour de 6h ; prix type 25-30 EUR. Choisissez un sitter avec jardin si votre chien a besoin d'espace."
+        },
+        {
+          "q": "Et si mon chien est anxieux avec les inconnus ?",
+          "a": "Faites toujours la rencontre préalable. Si le chien ne se pose pas, passez à la visite à domicile (le sitter vient à votre hôtel) plutôt qu'à la pension ; disponible sur les trois plateformes."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta un cuidador en Toulon?", "a": "Unos 17 EUR por noche en Gudog y Rover; guardería 18 a 25 EUR, paseo 11 a 15 EUR. De las tarifas más asequibles de la Costa Azul."},
-        {"q": "¿Un cuidador puede cubrir una jornada a Porquerolles?", "a": "Sí, las tres plataformas permiten guardería o una estancia única de 6h; precio típico 25-30 EUR. Elige un cuidador con jardín si tu perro necesita espacio."},
-        {"q": "¿Y si mi perro es ansioso con desconocidos?", "a": "Haz siempre el encuentro previo. Si el perro no se asienta, cambia a la visita a domicilio (el cuidador va a tu hotel) en lugar de pensión; disponible en las tres plataformas."}
+        {
+          "q": "¿Cuánto cuesta un cuidador en Toulon?",
+          "a": "Unos 17 EUR por noche en Gudog y Rover; guardería 18 a 25 EUR, paseo 11 a 15 EUR. De las tarifas más asequibles de la Costa Azul."
+        },
+        {
+          "q": "¿Un cuidador puede cubrir una jornada a Porquerolles?",
+          "a": "Sí, las tres plataformas permiten guardería o una estancia única de 6h; precio típico 25-30 EUR. Elige un cuidador con jardín si tu perro necesita espacio."
+        },
+        {
+          "q": "¿Y si mi perro es ansioso con desconocidos?",
+          "a": "Haz siempre el encuentro previo. Si el perro no se asienta, cambia a la visita a domicilio (el cuidador va a tu hotel) en lugar de pensión; disponible en las tres plataformas."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa um cuidador em Toulon?", "a": "Cerca de 17 EUR por noite na Gudog e Rover; creche 18 a 25 EUR, passeio 11 a 15 EUR. Das tarifas mais acessíveis da Costa Azul."},
-        {"q": "Um cuidador pode cobrir uma jornada a Porquerolles?", "a": "Sim, as três plataformas permitem creche ou uma estadia única de 6h; preço típico 25-30 EUR. Escolha um cuidador com jardim se o seu cão precisa de espaço."},
-        {"q": "E se o meu cão for ansioso com estranhos?", "a": "Faça sempre o encontro prévio. Se o cão não se acalmar, mude para a visita ao domicílio (o cuidador vai ao seu hotel) em vez de pensão; disponível nas três plataformas."}
+        {
+          "q": "Quanto custa um cuidador em Toulon?",
+          "a": "Cerca de 17 EUR por noite na Gudog e Rover; creche 18 a 25 EUR, passeio 11 a 15 EUR. Das tarifas mais acessíveis da Costa Azul."
+        },
+        {
+          "q": "Um cuidador pode cobrir uma jornada a Porquerolles?",
+          "a": "Sim, as três plataformas permitem creche ou uma estadia única de 6h; preço típico 25-30 EUR. Escolha um cuidador com jardim se o seu cão precisa de espaço."
+        },
+        {
+          "q": "E se o meu cão for ansioso com estranhos?",
+          "a": "Faça sempre o encontro prévio. Se o cão não se acalmar, mude para a visita ao domicílio (o cuidador vai ao seu hotel) em vez de pensão; disponível nas três plataformas."
+        }
       ]
     },
     "tips": {

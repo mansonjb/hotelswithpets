@@ -19,7 +19,7 @@
           "name": "Le Café Van Gogh",
           "address": "11 Place du Forum, 13200 Arles",
           "neighborhood": "Place du Forum",
-          "photo": "/images/city-places/arles-restaurants-cafe-van-gogh.jpg",
+          "photo": "/images/city-places/arles-restaurants-le-cafe-van-gogh.jpg",
           "website": "",
           "description": "The ochre-yellow café on Place du Forum, immortalised in Van Gogh's Terrasse du café le soir, with its full awning extending across the square. Dogs on leads are part of the daily terrace scene; the waiters bring water bowls to the front row of tables. The menu is Provençal brasserie cooking, salads, daube, pizza in the evening, and pichets of Côtes du Rhône.",
           "descriptionFr": "Le café ocre-jaune de la Place du Forum, immortalisé dans la Terrasse du café le soir de Van Gogh, avec sa marquise déployée sur la place. Les chiens en laisse font partie du décor quotidien ; les serveurs apportent des bols d'eau à la première rangée. Cuisine de brasserie provençale, salades, daube, pizzas le soir, et pichets de Côtes du Rhône.",
@@ -45,7 +45,7 @@
           "name": "L'Atelier des Filles",
           "address": "Place du Forum area, 13200 Arles",
           "neighborhood": "Centre historique",
-          "photo": "/images/city-places/arles-restaurants-atelier-des-filles.jpg",
+          "photo": "/images/city-places/arles-restaurants-l-atelier-des-filles.jpg",
           "website": "",
           "description": "A relaxed Provençal bistro in the historic centre with a small pavement terrace under the plane trees. Short market-led menu with a daily plat du jour, tielle, brandade, grilled local fish and seasonal vegetables. Dogs on leads are part of the regular clientele; the small terrace fills quickly so arrive before 12:30 for lunch.",
           "descriptionFr": "Un bistrot provençal détendu du centre historique, avec une petite terrasse de trottoir sous les platanes. Carte courte du marché avec plat du jour, tielle, brandade, poisson grillé local et légumes de saison. Les chiens en laisse font partie de la clientèle régulière ; la terrasse se remplit vite, arrivez avant 12h30 pour déjeuner.",
@@ -71,7 +71,7 @@
           "name": "Superfood Arles",
           "address": "Centre historique, 13200 Arles",
           "neighborhood": "Centre historique",
-          "photo": "/images/city-places/arles-restaurants-superfood.jpg",
+          "photo": "/images/city-places/arles-restaurants-superfood-arles.jpg",
           "website": "",
           "description": "A 100 percent vegetarian café in the historic centre with vegan and gluten-free options, a small inside room and a shaded terrace along the lane. Dogs on leads are explicitly welcome, and the staff bring out a water bowl on request. Daily bowl, soups, lemonades and house cakes; quick service that suits a stop between the Arènes and the Théâtre Antique.",
           "descriptionFr": "Un café 100 % végétarien du centre historique avec options véganes et sans gluten, une petite salle à l'intérieur et une terrasse ombragée le long de la ruelle. Les chiens en laisse y sont explicitement bienvenus et le personnel apporte un bol d'eau sur demande. Bowl du jour, soupes, limonades et gâteaux maison ; service rapide adapté à une pause entre les Arènes et le Théâtre Antique.",
@@ -115,24 +115,60 @@
         "As taças de água são frequentes mas não universais; leve uma taça dobrável no verão, o Mistral desidrata os cães depressa."
       ],
       "faqsEn": [
-        {"q": "Can my dog come inside the restaurants in Arles?", "a": "Many indoor rooms accept small dogs in arms; medium and large dogs are usually directed to the terrace. Always ask the host on arrival."},
-        {"q": "Are dogs welcome at the Boulevard des Lices Saturday market?", "a": "Yes, the open-air market explicitly welcomes leashed dogs and the food terraces along the boulevard fill with dog owners on market mornings."},
-        {"q": "Do restaurants in Arles charge a pet fee?", "a": "No, there is no pet fee at restaurants. A water bowl on request is standard practice in the historic centre."}
+        {
+          "q": "Can my dog come inside the restaurants in Arles?",
+          "a": "Many indoor rooms accept small dogs in arms; medium and large dogs are usually directed to the terrace. Always ask the host on arrival."
+        },
+        {
+          "q": "Are dogs welcome at the Boulevard des Lices Saturday market?",
+          "a": "Yes, the open-air market explicitly welcomes leashed dogs and the food terraces along the boulevard fill with dog owners on market mornings."
+        },
+        {
+          "q": "Do restaurants in Arles charge a pet fee?",
+          "a": "No, there is no pet fee at restaurants. A water bowl on request is standard practice in the historic centre."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il entrer en salle dans les restaurants d'Arles ?", "a": "Beaucoup de salles acceptent les petits chiens dans les bras ; les chiens moyens et grands sont généralement orientés vers la terrasse. Demandez à l'accueil."},
-        {"q": "Les chiens sont-ils bienvenus au marché du samedi du Boulevard des Lices ?", "a": "Oui, le marché en plein air accueille explicitement les chiens en laisse et les terrasses du boulevard se remplissent de maîtres les matins de marché."},
-        {"q": "Les restaurants d'Arles facturent-ils un supplément animaux ?", "a": "Non, aucun supplément. Un bol d'eau sur demande est la norme dans le centre historique."}
+        {
+          "q": "Mon chien peut-il entrer en salle dans les restaurants d'Arles ?",
+          "a": "Beaucoup de salles acceptent les petits chiens dans les bras ; les chiens moyens et grands sont généralement orientés vers la terrasse. Demandez à l'accueil."
+        },
+        {
+          "q": "Les chiens sont-ils bienvenus au marché du samedi du Boulevard des Lices ?",
+          "a": "Oui, le marché en plein air accueille explicitement les chiens en laisse et les terrasses du boulevard se remplissent de maîtres les matins de marché."
+        },
+        {
+          "q": "Les restaurants d'Arles facturent-ils un supplément animaux ?",
+          "a": "Non, aucun supplément. Un bol d'eau sur demande est la norme dans le centre historique."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo entrar con mi perro a los restaurantes en Arles?", "a": "Muchas salas aceptan perros pequeños en brazos; medianos y grandes se orientan a la terraza. Pregunta al recibirte."},
-        {"q": "¿Se admiten perros en el mercado del sábado del Boulevard des Lices?", "a": "Sí, el mercado al aire libre admite explícitamente perros con correa y las terrazas del boulevard se llenan de dueños las mañanas de mercado."},
-        {"q": "¿Cobran los restaurantes de Arles un suplemento por mascota?", "a": "No, no hay suplemento. Un cuenco de agua a petición es lo habitual en el casco histórico."}
+        {
+          "q": "¿Puedo entrar con mi perro a los restaurantes en Arles?",
+          "a": "Muchas salas aceptan perros pequeños en brazos; medianos y grandes se orientan a la terraza. Pregunta al recibirte."
+        },
+        {
+          "q": "¿Se admiten perros en el mercado del sábado del Boulevard des Lices?",
+          "a": "Sí, el mercado al aire libre admite explícitamente perros con correa y las terrazas del boulevard se llenan de dueños las mañanas de mercado."
+        },
+        {
+          "q": "¿Cobran los restaurantes de Arles un suplemento por mascota?",
+          "a": "No, no hay suplemento. Un cuenco de agua a petición es lo habitual en el casco histórico."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso entrar com o meu cão nos restaurantes em Arles?", "a": "Muitas salas aceitam cães pequenos ao colo; médios e grandes são orientados para a esplanada. Pergunte na receção."},
-        {"q": "Os cães são bem-vindos no mercado de sábado do Boulevard des Lices?", "a": "Sim, o mercado ao ar livre aceita explicitamente cães com trela e as esplanadas do boulevard enchem-se de donos nas manhãs de mercado."},
-        {"q": "Os restaurantes de Arles cobram suplemento por animal?", "a": "Não, não há suplemento. Uma taça de água a pedido é prática habitual no centro histórico."}
+        {
+          "q": "Posso entrar com o meu cão nos restaurantes em Arles?",
+          "a": "Muitas salas aceitam cães pequenos ao colo; médios e grandes são orientados para a esplanada. Pergunte na receção."
+        },
+        {
+          "q": "Os cães são bem-vindos no mercado de sábado do Boulevard des Lices?",
+          "a": "Sim, o mercado ao ar livre aceita explicitamente cães com trela e as esplanadas do boulevard enchem-se de donos nas manhãs de mercado."
+        },
+        {
+          "q": "Os restaurantes de Arles cobram suplemento por animal?",
+          "a": "Não, não há suplemento. Uma taça de água a pedido é prática habitual no centro histórico."
+        }
       ]
     },
     "parks": {
@@ -201,7 +237,6 @@
           "name": "Allée des Alyscamps",
           "address": "Avenue des Alyscamps, 13200 Arles",
           "neighborhood": "Alyscamps",
-          "photo": "/images/city-places/arles-parks-alyscamps.jpg",
           "website": "",
           "description": "The walkable open-air necropolis south of the centre, lined with Roman sarcophagi and shaded by poplars. The famous straight allée from the Porte Saint-Honoré to the church of Saint-Honorat was painted by Van Gogh and Gauguin during their stay. The municipal allée and its outer paths are open access to leashed dogs at any time; the ticketed inner zone of the cloister and chapel does not admit dogs.",
           "descriptionFr": "La nécropole à ciel ouvert au sud du centre, jalonnée de sarcophages romains et ombragée par les peupliers. La célèbre allée droite, de la Porte Saint-Honoré à l'église Saint-Honorat, a été peinte par Van Gogh et Gauguin pendant leur séjour. L'allée municipale et ses chemins extérieurs sont en accès libre aux chiens en laisse à toute heure ; la zone payante du cloître et de la chapelle n'admet pas les chiens.",
@@ -245,24 +280,60 @@
         "O posto de turismo confirma que existem cerca de 30 distribuidores gratuitos de sacos no centro histórico; reabasteça em qualquer um."
       ],
       "faqsEn": [
-        {"q": "Are there off-leash dog parks in Arles?", "a": "No fenced off-leash zone exists inside the city. For free running, head to the Camargue Digue à la Mer 30 minutes south, where the official tourism office confirms dogs are free on the main beach."},
-        {"q": "Can dogs go inside the Jardin Hortus children's playground?", "a": "No, the fenced playground within the garden bans dogs even on a leash. The rest of the garden lawns and Rhône-bank path are dog-accessible."},
-        {"q": "Is the Allée des Alyscamps free to walk with a dog?", "a": "Yes, the public allée is free and open 24/7. Only the ticketed inner monument zone (cloister and Saint-Honorat chapel) bans dogs."}
+        {
+          "q": "Are there off-leash dog parks in Arles?",
+          "a": "No fenced off-leash zone exists inside the city. For free running, head to the Camargue Digue à la Mer 30 minutes south, where the official tourism office confirms dogs are free on the main beach."
+        },
+        {
+          "q": "Can dogs go inside the Jardin Hortus children's playground?",
+          "a": "No, the fenced playground within the garden bans dogs even on a leash. The rest of the garden lawns and Rhône-bank path are dog-accessible."
+        },
+        {
+          "q": "Is the Allée des Alyscamps free to walk with a dog?",
+          "a": "Yes, the public allée is free and open 24/7. Only the ticketed inner monument zone (cloister and Saint-Honorat chapel) bans dogs."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il des parcs canins sans laisse à Arles ?", "a": "Aucune zone clôturée sans laisse dans la ville. Pour la course libre, allez à la Digue à la Mer en Camargue, à 30 minutes au sud, où l'office de tourisme confirme que les chiens sont libres sur la plage principale."},
-        {"q": "Mon chien peut-il entrer dans l'aire de jeux du Jardin Hortus ?", "a": "Non, l'aire de jeux clôturée à l'intérieur du jardin interdit les chiens même tenus en laisse. Le reste des pelouses et le chemin du Rhône sont accessibles."},
-        {"q": "L'Allée des Alyscamps est-elle gratuite avec un chien ?", "a": "Oui, l'allée publique est gratuite et ouverte 24h/24. Seule la zone payante du monument (cloître et chapelle Saint-Honorat) est interdite aux chiens."}
+        {
+          "q": "Y a-t-il des parcs canins sans laisse à Arles ?",
+          "a": "Aucune zone clôturée sans laisse dans la ville. Pour la course libre, allez à la Digue à la Mer en Camargue, à 30 minutes au sud, où l'office de tourisme confirme que les chiens sont libres sur la plage principale."
+        },
+        {
+          "q": "Mon chien peut-il entrer dans l'aire de jeux du Jardin Hortus ?",
+          "a": "Non, l'aire de jeux clôturée à l'intérieur du jardin interdit les chiens même tenus en laisse. Le reste des pelouses et le chemin du Rhône sont accessibles."
+        },
+        {
+          "q": "L'Allée des Alyscamps est-elle gratuite avec un chien ?",
+          "a": "Oui, l'allée publique est gratuite et ouverte 24h/24. Seule la zone payante du monument (cloître et chapelle Saint-Honorat) est interdite aux chiens."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay parques caninos sin correa en Arles?", "a": "No existe zona vallada sin correa en la ciudad. Para carrera libre, ve a la Digue à la Mer en la Camarga, 30 minutos al sur, donde la oficina de turismo confirma que los perros están libres en la playa principal."},
-        {"q": "¿Puede entrar mi perro al área de juegos del Jardin Hortus?", "a": "No, el área vallada dentro del jardín prohíbe perros incluso con correa. El resto de los céspedes y el sendero del Ródano son accesibles."},
-        {"q": "¿La Allée des Alyscamps es gratuita con perro?", "a": "Sí, la alameda pública es gratuita y abierta 24/7. Solo la zona de pago del monumento (claustro y capilla Saint-Honorat) prohíbe perros."}
+        {
+          "q": "¿Hay parques caninos sin correa en Arles?",
+          "a": "No existe zona vallada sin correa en la ciudad. Para carrera libre, ve a la Digue à la Mer en la Camarga, 30 minutos al sur, donde la oficina de turismo confirma que los perros están libres en la playa principal."
+        },
+        {
+          "q": "¿Puede entrar mi perro al área de juegos del Jardin Hortus?",
+          "a": "No, el área vallada dentro del jardín prohíbe perros incluso con correa. El resto de los céspedes y el sendero del Ródano son accesibles."
+        },
+        {
+          "q": "¿La Allée des Alyscamps es gratuita con perro?",
+          "a": "Sí, la alameda pública es gratuita y abierta 24/7. Solo la zona de pago del monumento (claustro y capilla Saint-Honorat) prohíbe perros."
+        }
       ],
       "faqsPt": [
-        {"q": "Há parques caninos sem trela em Arles?", "a": "Não existe zona vedada sem trela na cidade. Para corrida livre, vá à Digue à la Mer na Camarga, 30 minutos a sul, onde o posto de turismo confirma que os cães estão livres na praia principal."},
-        {"q": "O meu cão pode entrar na área de jogos do Jardin Hortus?", "a": "Não, a área vedada dentro do jardim proíbe cães mesmo com trela. O resto dos relvados e o trilho do Ródano são acessíveis."},
-        {"q": "A Allée des Alyscamps é gratuita com cão?", "a": "Sim, a alameda pública é gratuita e aberta 24/7. Só a zona paga do monumento (claustro e capela Saint-Honorat) proíbe cães."}
+        {
+          "q": "Há parques caninos sem trela em Arles?",
+          "a": "Não existe zona vedada sem trela na cidade. Para corrida livre, vá à Digue à la Mer na Camarga, 30 minutos a sul, onde o posto de turismo confirma que os cães estão livres na praia principal."
+        },
+        {
+          "q": "O meu cão pode entrar na área de jogos do Jardin Hortus?",
+          "a": "Não, a área vedada dentro do jardim proíbe cães mesmo com trela. O resto dos relvados e o trilho do Ródano são acessíveis."
+        },
+        {
+          "q": "A Allée des Alyscamps é gratuita com cão?",
+          "a": "Sim, a alameda pública é gratuita e aberta 24/7. Só a zona paga do monumento (claustro e capela Saint-Honorat) proíbe cães."
+        }
       ]
     },
     "transport": {
@@ -279,7 +350,7 @@
           "name": "Gare SNCF d'Arles",
           "address": "Avenue Paulin Talabot, 13200 Arles",
           "neighborhood": "Trinquetaille / North centre",
-          "photo": "/images/city-places/arles-transport-gare-sncf-arles.jpg",
+          "photo": "/images/city-places/arles-transport-gare-sncf-d-arles.jpg",
           "website": "https://www.sncf-connect.com",
           "description": "Arles station sits on the Tarascon–Marseille line, 10 minutes' walk from the Arènes. TER services run roughly every 30 minutes to Avignon (20 min), Nîmes (30 min) and Marseille Saint-Charles (1h00); seasonal TGV connections continue to Paris in 4h00. SNCF national pet rules apply: dogs under 6 kg in a carrier travel for a 0 EUR animal ticket, larger dogs on a leash and muzzle pay 50 percent of the adult fare capped at 7 EUR. Guide and assistance dogs travel free.",
           "descriptionFr": "La gare d'Arles est située sur la ligne Tarascon–Marseille, à 10 minutes à pied des Arènes. Les TER circulent toutes les 30 minutes environ vers Avignon (20 min), Nîmes (30 min) et Marseille Saint-Charles (1h00) ; des TGV saisonniers prolongent vers Paris en 4h00. Règles nationales SNCF : chiens de moins de 6 kg en cage avec un billet animal à 0 EUR, plus grands en laisse et muselière à 50 % du tarif adulte plafonné à 7 EUR. Chiens-guides et d'assistance gratuits.",
@@ -299,7 +370,6 @@
           "name": "Envia urban bus network",
           "address": "Réseau Envia, Arles Crau Camargue Montagnette",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/arles-transport-envia.jpg",
           "website": "https://www.ville-arles.fr/deplacements/transports-en-commun/transport-urbain/envia.php",
           "description": "Envia is the urban bus network of the Arles Crau Camargue Montagnette agglomeration, with lines linking the centre, Trinquetaille, Pont-de-Crau and the surrounding villages. Like most French municipal bus networks, only small pets carried in a closed basket and guide or assistance dogs are admitted. Medium and large dogs are not accepted on board. For Camargue or out-of-town hikes, take an SNCF train or drive.",
           "descriptionFr": "Envia est le réseau urbain de l'agglomération Arles Crau Camargue Montagnette, avec des lignes reliant le centre, Trinquetaille, Pont-de-Crau et les villages alentour. Comme la plupart des réseaux municipaux français, seuls les petits animaux dans une cage fermée et les chiens-guides ou d'assistance sont admis. Les chiens moyens et grands ne sont pas acceptés à bord. Pour la Camargue ou les randonnées éloignées, prenez le TER ou la voiture.",
@@ -319,7 +389,7 @@
           "name": "Marseille Provence Airport (MRS)",
           "address": "13700 Marignane",
           "neighborhood": "Marignane (50 min by road from Arles)",
-          "photo": "/images/city-places/arles-transport-mrs-airport.jpg",
+          "photo": "/images/city-places/arles-transport-marseille-provence-airport-mrs.jpg",
           "website": "https://www.marseille-airport.com",
           "description": "Marseille Provence is the closest international airport to Arles, 50 minutes by car or via a shuttle bus to Avignon TGV plus a TER hop. Standard French airline pet rules apply: cabin admission for pets up to 8 kg including carrier on most carriers, with the hold for larger animals (subject to summer heat restrictions in July and August). Air France and Volotea are the main operators with dedicated pet policies on Provence routes.",
           "descriptionFr": "Marseille Provence est l'aéroport international le plus proche d'Arles, à 50 minutes en voiture ou par navette vers Avignon TGV puis TER. Règles aériennes françaises standard : cabine pour animaux jusqu'à 8 kg cage comprise chez la plupart des compagnies, soute pour les plus grands (restrictions chaleur en juillet-août). Air France et Volotea sont les principaux opérateurs avec des politiques animaux dédiées sur Provence.",
@@ -357,24 +427,60 @@
         "Os táxis podem recusar cães; pergunte ao reservar e confirme com o motorista à chegada."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog on a TER from Arles to Avignon?", "a": "Yes. Dogs under 6 kg in a carrier travel on a 0 EUR animal ticket; larger dogs on lead and muzzle pay 50 percent of the adult fare with a 7 EUR cap. Buy the ticket on SNCF Connect before boarding."},
-        {"q": "Are dogs allowed on Envia buses?", "a": "Only small pets carried in a closed basket and guide/assistance dogs are admitted. Medium and large dogs are refused; use SNCF, taxi or walk."},
-        {"q": "Which airport is closest to Arles for pet travel?", "a": "Marseille Provence (MRS) is 50 minutes by road. For larger dogs avoid hold transport between 15 June and 15 September because of heat-related airline refusals."}
+        {
+          "q": "Can I take my dog on a TER from Arles to Avignon?",
+          "a": "Yes. Dogs under 6 kg in a carrier travel on a 0 EUR animal ticket; larger dogs on lead and muzzle pay 50 percent of the adult fare with a 7 EUR cap. Buy the ticket on SNCF Connect before boarding."
+        },
+        {
+          "q": "Are dogs allowed on Envia buses?",
+          "a": "Only small pets carried in a closed basket and guide/assistance dogs are admitted. Medium and large dogs are refused; use SNCF, taxi or walk."
+        },
+        {
+          "q": "Which airport is closest to Arles for pet travel?",
+          "a": "Marseille Provence (MRS) is 50 minutes by road. For larger dogs avoid hold transport between 15 June and 15 September because of heat-related airline refusals."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il prendre le TER d'Arles à Avignon ?", "a": "Oui. Chiens de moins de 6 kg en cage : billet animal 0 EUR ; plus grands en laisse et muselière à 50 % du tarif adulte plafonné à 7 EUR. Achetez le billet sur SNCF Connect avant de monter."},
-        {"q": "Les chiens sont-ils autorisés dans les bus Envia ?", "a": "Seuls les petits animaux en panier fermé et les chiens-guides ou d'assistance sont admis. Les chiens moyens et grands sont refusés ; utilisez la SNCF, un taxi ou la marche."},
-        {"q": "Quel est l'aéroport le plus proche d'Arles pour voyager avec un animal ?", "a": "Marseille Provence (MRS) à 50 min en voiture. Pour les grands chiens, évitez la soute entre le 15 juin et le 15 septembre à cause des refus pour chaleur."}
+        {
+          "q": "Mon chien peut-il prendre le TER d'Arles à Avignon ?",
+          "a": "Oui. Chiens de moins de 6 kg en cage : billet animal 0 EUR ; plus grands en laisse et muselière à 50 % du tarif adulte plafonné à 7 EUR. Achetez le billet sur SNCF Connect avant de monter."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés dans les bus Envia ?",
+          "a": "Seuls les petits animaux en panier fermé et les chiens-guides ou d'assistance sont admis. Les chiens moyens et grands sont refusés ; utilisez la SNCF, un taxi ou la marche."
+        },
+        {
+          "q": "Quel est l'aéroport le plus proche d'Arles pour voyager avec un animal ?",
+          "a": "Marseille Provence (MRS) à 50 min en voiture. Pour les grands chiens, évitez la soute entre le 15 juin et le 15 septembre à cause des refus pour chaleur."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo llevar a mi perro en TER de Arles a Aviñón?", "a": "Sí. Perros menores de 6 kg en transportín: billete animal 0 EUR; mayores con correa y bozal al 50 % de la tarifa adulta con tope de 7 EUR. Compra el billete en SNCF Connect antes de subir."},
-        {"q": "¿Se admiten perros en los buses Envia?", "a": "Solo mascotas pequeñas en transportín cerrado y perros guía o de asistencia. Medianos y grandes rechazados; usa SNCF, taxi o ir a pie."},
-        {"q": "¿Qué aeropuerto está más cerca de Arles para viajar con mascota?", "a": "Marseille Provence (MRS) a 50 min en coche. Para perros grandes evita la bodega entre el 15 de junio y el 15 de septiembre por los rechazos por calor."}
+        {
+          "q": "¿Puedo llevar a mi perro en TER de Arles a Aviñón?",
+          "a": "Sí. Perros menores de 6 kg en transportín: billete animal 0 EUR; mayores con correa y bozal al 50 % de la tarifa adulta con tope de 7 EUR. Compra el billete en SNCF Connect antes de subir."
+        },
+        {
+          "q": "¿Se admiten perros en los buses Envia?",
+          "a": "Solo mascotas pequeñas en transportín cerrado y perros guía o de asistencia. Medianos y grandes rechazados; usa SNCF, taxi o ir a pie."
+        },
+        {
+          "q": "¿Qué aeropuerto está más cerca de Arles para viajar con mascota?",
+          "a": "Marseille Provence (MRS) a 50 min en coche. Para perros grandes evita la bodega entre el 15 de junio y el 15 de septiembre por los rechazos por calor."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso levar o meu cão no TER de Arles a Avinhão?", "a": "Sim. Cães com menos de 6 kg em transportadora: bilhete animal 0 EUR; maiores com trela e açaime a 50 % da tarifa adulta com tecto de 7 EUR. Compre o bilhete no SNCF Connect antes de embarcar."},
-        {"q": "Os cães são admitidos nos autocarros Envia?", "a": "Apenas pequenos animais em transportadora fechada e cães-guia ou de assistência. Médios e grandes recusados; use SNCF, táxi ou andar a pé."},
-        {"q": "Qual é o aeroporto mais próximo de Arles para viajar com animal?", "a": "Marseille Provence (MRS) a 50 min de carro. Para cães grandes evite o porão entre 15 de junho e 15 de setembro devido às recusas por calor."}
+        {
+          "q": "Posso levar o meu cão no TER de Arles a Avinhão?",
+          "a": "Sim. Cães com menos de 6 kg em transportadora: bilhete animal 0 EUR; maiores com trela e açaime a 50 % da tarifa adulta com tecto de 7 EUR. Compre o bilhete no SNCF Connect antes de embarcar."
+        },
+        {
+          "q": "Os cães são admitidos nos autocarros Envia?",
+          "a": "Apenas pequenos animais em transportadora fechada e cães-guia ou de assistência. Médios e grandes recusados; use SNCF, táxi ou andar a pé."
+        },
+        {
+          "q": "Qual é o aeroporto mais próximo de Arles para viajar com animal?",
+          "a": "Marseille Provence (MRS) a 50 min de carro. Para cães grandes evite o porão entre 15 de junho e 15 de setembro devido às recusas por calor."
+        }
       ]
     },
     "beaches": {
@@ -493,24 +599,60 @@
         "A zona dunar da Reserva Nacional da Camarga está estritamente proibida a todos, cães incluídos; permaneça nos diques sinalizados."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed on Plage de Beauduc?", "a": "Yes. The official Arles tourism office confirms dogs are tolerated on lead at the car park, back beach and dyke, and free on the main beach itself. Bring water and waste bags, there are no services."},
-        {"q": "Can my dog swim in Piémanson in summer?", "a": "Dogs are banned from the supervised summer swim zone marked by buoys (June to September). Walk east from the car park to leave the zone within 10 minutes; off-season the whole strand is open."},
-        {"q": "Is the Camargue dyke safe for dogs in summer?", "a": "It is exposed and shadeless. From mid-June to mid-September walk only at sunrise or sunset, and carry 1 litre of water per 10 kg of dog. The mistral wind speeds dehydration."}
+        {
+          "q": "Are dogs allowed on Plage de Beauduc?",
+          "a": "Yes. The official Arles tourism office confirms dogs are tolerated on lead at the car park, back beach and dyke, and free on the main beach itself. Bring water and waste bags, there are no services."
+        },
+        {
+          "q": "Can my dog swim in Piémanson in summer?",
+          "a": "Dogs are banned from the supervised summer swim zone marked by buoys (June to September). Walk east from the car park to leave the zone within 10 minutes; off-season the whole strand is open."
+        },
+        {
+          "q": "Is the Camargue dyke safe for dogs in summer?",
+          "a": "It is exposed and shadeless. From mid-June to mid-September walk only at sunrise or sunset, and carry 1 litre of water per 10 kg of dog. The mistral wind speeds dehydration."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à Beauduc ?", "a": "Oui. L'office de tourisme d'Arles confirme que les chiens sont tolérés en laisse au parking, sur le revers et la digue, et libres sur la plage principale. Apportez eau et sacs, aucun service sur place."},
-        {"q": "Mon chien peut-il se baigner à Piémanson en été ?", "a": "Les chiens sont interdits dans la zone surveillée d'été délimitée par bouées (juin à septembre). Marchez vers l'est depuis le parking pour sortir de la zone en 10 min ; hors saison, toute la plage est ouverte."},
-        {"q": "La digue de Camargue est-elle sûre pour un chien en été ?", "a": "Elle est exposée et sans ombre. Du 15 juin au 15 septembre, marchez uniquement au lever ou au coucher du soleil et emportez 1 L d'eau par 10 kg de chien. Le mistral accélère la déshydratation."}
+        {
+          "q": "Les chiens sont-ils autorisés à Beauduc ?",
+          "a": "Oui. L'office de tourisme d'Arles confirme que les chiens sont tolérés en laisse au parking, sur le revers et la digue, et libres sur la plage principale. Apportez eau et sacs, aucun service sur place."
+        },
+        {
+          "q": "Mon chien peut-il se baigner à Piémanson en été ?",
+          "a": "Les chiens sont interdits dans la zone surveillée d'été délimitée par bouées (juin à septembre). Marchez vers l'est depuis le parking pour sortir de la zone en 10 min ; hors saison, toute la plage est ouverte."
+        },
+        {
+          "q": "La digue de Camargue est-elle sûre pour un chien en été ?",
+          "a": "Elle est exposée et sans ombre. Du 15 juin au 15 septembre, marchez uniquement au lever ou au coucher du soleil et emportez 1 L d'eau par 10 kg de chien. Le mistral accélère la déshydratation."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en Beauduc?", "a": "Sí. La oficina de turismo de Arles confirma que los perros se toleran con correa en aparcamiento, playa trasera y dique, y libres en la playa principal. Trae agua y bolsas, no hay servicios."},
-        {"q": "¿Mi perro puede bañarse en Piémanson en verano?", "a": "Los perros están prohibidos en la zona vigilada de verano marcada por boyas (junio a septiembre). Camina al este desde el aparcamiento para salir de la zona en 10 min; fuera de temporada, toda la playa está abierta."},
-        {"q": "¿Es el dique de la Camarga seguro para un perro en verano?", "a": "Está expuesto y sin sombra. Del 15 junio al 15 septiembre, camina solo al amanecer o al atardecer y lleva 1 L de agua por cada 10 kg de perro. El mistral acelera la deshidratación."}
+        {
+          "q": "¿Se admiten perros en Beauduc?",
+          "a": "Sí. La oficina de turismo de Arles confirma que los perros se toleran con correa en aparcamiento, playa trasera y dique, y libres en la playa principal. Trae agua y bolsas, no hay servicios."
+        },
+        {
+          "q": "¿Mi perro puede bañarse en Piémanson en verano?",
+          "a": "Los perros están prohibidos en la zona vigilada de verano marcada por boyas (junio a septiembre). Camina al este desde el aparcamiento para salir de la zona en 10 min; fuera de temporada, toda la playa está abierta."
+        },
+        {
+          "q": "¿Es el dique de la Camarga seguro para un perro en verano?",
+          "a": "Está expuesto y sin sombra. Del 15 junio al 15 septiembre, camina solo al amanecer o al atardecer y lleva 1 L de agua por cada 10 kg de perro. El mistral acelera la deshidratación."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos em Beauduc?", "a": "Sim. O posto de turismo de Arles confirma que os cães são tolerados com trela no parque, praia traseira e dique, e livres na praia principal. Leve água e sacos, não há serviços."},
-        {"q": "O meu cão pode tomar banho em Piémanson no verão?", "a": "Os cães estão proibidos na zona vigiada de verão marcada por bóias (junho a setembro). Ande para leste a partir do parque para sair da zona em 10 min; fora de época, toda a praia está aberta."},
-        {"q": "O dique da Camarga é seguro para um cão no verão?", "a": "É exposto e sem sombra. De 15 junho a 15 setembro, ande apenas ao nascer ou ao pôr-do-sol e leve 1 L de água por cada 10 kg de cão. O mistral acelera a desidratação."}
+        {
+          "q": "Os cães são admitidos em Beauduc?",
+          "a": "Sim. O posto de turismo de Arles confirma que os cães são tolerados com trela no parque, praia traseira e dique, e livres na praia principal. Leve água e sacos, não há serviços."
+        },
+        {
+          "q": "O meu cão pode tomar banho em Piémanson no verão?",
+          "a": "Os cães estão proibidos na zona vigiada de verão marcada por bóias (junho a setembro). Ande para leste a partir do parque para sair da zona em 10 min; fora de época, toda a praia está aberta."
+        },
+        {
+          "q": "O dique da Camarga é seguro para um cão no verão?",
+          "a": "É exposto e sem sombra. De 15 junho a 15 setembro, ande apenas ao nascer ou ao pôr-do-sol e leve 1 L de água por cada 10 kg de cão. O mistral acelera a desidratação."
+        }
       ]
     },
     "vets": {
@@ -553,7 +695,7 @@
           "name": "Clinique Vétérinaire de Trinquetaille",
           "address": "1 Chemin du Cigalon, 13200 Arles",
           "neighborhood": "Trinquetaille (right bank of Rhône)",
-          "photo": "/images/city-places/arles-vets-clinique-trinquetaille.jpg",
+          "photo": "/images/city-places/arles-vets-clinique-veterinaire-de-trinquetaille.jpg",
           "website": "",
           "phone": "04 90 49 55 83",
           "description": "A right-bank Rhône clinic in the Trinquetaille quarter, listed by the Arles tourism office. Consultations and minor surgery during office hours; out-of-hours emergencies relay to the regional on-call number. Convenient for visitors staying on the Trinquetaille side or arriving by car from the A54.",
@@ -579,7 +721,7 @@
           "name": "Clinique Vétérinaire des Alyscamps",
           "address": "39 Avenue des Arches, ZA Fourchon, 13200 Arles",
           "neighborhood": "Fourchon (south of centre)",
-          "photo": "/images/city-places/arles-vets-clinique-alyscamps.jpg",
+          "photo": "/images/city-places/arles-vets-clinique-veterinaire-des-alyscamps.jpg",
           "website": "",
           "phone": "04 90 96 02 00",
           "description": "A larger practice in the Fourchon business zone south of the city, listed by the Arles tourism office. Imaging, surgery, dentistry and dedicated parking on site; out-of-hours emergencies handled by the regional 24/7 on-call number (04 27 04 02 72). The most accessible clinic if you arrive by car or stay outside the historic walls.",
@@ -623,24 +765,60 @@
         "As três clínicas acima estão listadas na página dedicada a viajantes caninos do posto de turismo de Arles; imprima ou guarde antes de chegar."
       ],
       "faqsEn": [
-        {"q": "Is there a 24/7 emergency vet in Arles?", "a": "Yes. Call 04 27 04 02 72 (regional 24/7 on-call hotline) which routes to the nearest on-duty practice in Arles or Nîmes. The national 3115 number also works."},
-        {"q": "Will an Arles vet treat a foreign-passport dog?", "a": "Yes. All three clinics listed by the Arles tourism office accept EU pet passports and provide standard consultations and vaccinations for travelling animals."},
-        {"q": "Can I get a tick or microchip check before crossing the Pyrenees?", "a": "Yes, any of the three Arles clinics can do a quick microchip read and a tick check on the same day; call ahead in summer to confirm a slot."}
+        {
+          "q": "Is there a 24/7 emergency vet in Arles?",
+          "a": "Yes. Call 04 27 04 02 72 (regional 24/7 on-call hotline) which routes to the nearest on-duty practice in Arles or Nîmes. The national 3115 number also works."
+        },
+        {
+          "q": "Will an Arles vet treat a foreign-passport dog?",
+          "a": "Yes. All three clinics listed by the Arles tourism office accept EU pet passports and provide standard consultations and vaccinations for travelling animals."
+        },
+        {
+          "q": "Can I get a tick or microchip check before crossing the Pyrenees?",
+          "a": "Yes, any of the three Arles clinics can do a quick microchip read and a tick check on the same day; call ahead in summer to confirm a slot."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un vétérinaire d'urgence 24h/24 à Arles ?", "a": "Oui. Appelez le 04 27 04 02 72 (astreinte régionale 24h/24) qui dirige vers le cabinet de garde à Arles ou Nîmes. Le 3115 national fonctionne aussi."},
-        {"q": "Un vétérinaire d'Arles soignera-t-il un chien à passeport étranger ?", "a": "Oui. Les trois cliniques listées par l'office de tourisme acceptent le passeport européen et assurent consultations et vaccins standards pour les animaux voyageurs."},
-        {"q": "Puis-je faire vérifier puce et tiques avant de passer les Pyrénées ?", "a": "Oui, les trois cliniques d'Arles font lecture puce et contrôle tiques en consultation rapide ; appelez en été pour confirmer un créneau."}
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence 24h/24 à Arles ?",
+          "a": "Oui. Appelez le 04 27 04 02 72 (astreinte régionale 24h/24) qui dirige vers le cabinet de garde à Arles ou Nîmes. Le 3115 national fonctionne aussi."
+        },
+        {
+          "q": "Un vétérinaire d'Arles soignera-t-il un chien à passeport étranger ?",
+          "a": "Oui. Les trois cliniques listées par l'office de tourisme acceptent le passeport européen et assurent consultations et vaccins standards pour les animaux voyageurs."
+        },
+        {
+          "q": "Puis-je faire vérifier puce et tiques avant de passer les Pyrénées ?",
+          "a": "Oui, les trois cliniques d'Arles font lecture puce et contrôle tiques en consultation rapide ; appelez en été pour confirmer un créneau."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay veterinario de urgencias 24/7 en Arles?", "a": "Sí. Llama al 04 27 04 02 72 (guardia regional 24/7) que deriva a la clínica de turno en Arles o Nîmes. El número 3115 nacional también funciona."},
-        {"q": "¿Un veterinario de Arles atenderá a un perro con pasaporte extranjero?", "a": "Sí. Las tres clínicas listadas por la oficina de turismo aceptan el pasaporte europeo y dan consultas y vacunas estándar a animales viajeros."},
-        {"q": "¿Puedo revisar microchip y garrapatas antes de cruzar los Pirineos?", "a": "Sí, las tres clínicas de Arles hacen lectura de microchip y revisión de garrapatas en consulta rápida; llama en verano para confirmar hueco."}
+        {
+          "q": "¿Hay veterinario de urgencias 24/7 en Arles?",
+          "a": "Sí. Llama al 04 27 04 02 72 (guardia regional 24/7) que deriva a la clínica de turno en Arles o Nîmes. El número 3115 nacional también funciona."
+        },
+        {
+          "q": "¿Un veterinario de Arles atenderá a un perro con pasaporte extranjero?",
+          "a": "Sí. Las tres clínicas listadas por la oficina de turismo aceptan el pasaporte europeo y dan consultas y vacunas estándar a animales viajeros."
+        },
+        {
+          "q": "¿Puedo revisar microchip y garrapatas antes de cruzar los Pirineos?",
+          "a": "Sí, las tres clínicas de Arles hacen lectura de microchip y revisión de garrapatas en consulta rápida; llama en verano para confirmar hueco."
+        }
       ],
       "faqsPt": [
-        {"q": "Existe veterinário de urgência 24/7 em Arles?", "a": "Sim. Ligue para 04 27 04 02 72 (escala regional 24/7) que encaminha para a clínica de turno em Arles ou Nîmes. O número 3115 nacional também funciona."},
-        {"q": "Um veterinário de Arles trata um cão com passaporte estrangeiro?", "a": "Sim. As três clínicas listadas pelo posto de turismo aceitam o passaporte europeu e dão consultas e vacinas padrão para animais viajantes."},
-        {"q": "Posso verificar microchip e carraças antes de passar os Pirinéus?", "a": "Sim, as três clínicas de Arles fazem leitura de microchip e revisão de carraças em consulta rápida; ligue no verão para confirmar marcação."}
+        {
+          "q": "Existe veterinário de urgência 24/7 em Arles?",
+          "a": "Sim. Ligue para 04 27 04 02 72 (escala regional 24/7) que encaminha para a clínica de turno em Arles ou Nîmes. O número 3115 nacional também funciona."
+        },
+        {
+          "q": "Um veterinário de Arles trata um cão com passaporte estrangeiro?",
+          "a": "Sim. As três clínicas listadas pelo posto de turismo aceitam o passaporte europeu e dão consultas e vacinas padrão para animais viajantes."
+        },
+        {
+          "q": "Posso verificar microchip e carraças antes de passar os Pirinéus?",
+          "a": "Sim, as três clínicas de Arles fazem leitura de microchip e revisão de carraças em consulta rápida; ligue no verão para confirmar marcação."
+        }
       ]
     },
     "attractions": {
@@ -657,7 +835,7 @@
           "name": "Place du Forum and the Van Gogh Café Terrace",
           "address": "Place du Forum, 13200 Arles",
           "neighborhood": "Centre historique",
-          "photo": "/images/city-places/arles-attractions-place-du-forum.jpg",
+          "photo": "/images/city-places/arles-attractions-place-du-forum-and-the-van-gogh-cafe-terrace.jpg",
           "website": "",
           "description": "The square painted by Van Gogh in his Café Terrace at Night, with the same ochre awning still in place. Plane trees, cafés on three sides and an open paved square in the middle, the easiest stop in Arles with a leashed dog at any time of day. Statue of Frédéric Mistral in the centre and a permanent panel reproducing the Van Gogh canvas at the original viewpoint.",
           "descriptionFr": "La place peinte par Van Gogh dans la Terrasse du café le soir, avec la même marquise ocre encore en place. Platanes, cafés sur trois côtés et place pavée ouverte au centre, l'arrêt le plus simple à Arles avec un chien en laisse à toute heure. Statue de Frédéric Mistral au milieu et panneau permanent reproduisant la toile à l'emplacement exact du chevalet.",
@@ -678,7 +856,7 @@
           "name": "Exterior of the Arènes (Amphithéâtre romain)",
           "address": "Rond-point des Arènes, 13200 Arles",
           "neighborhood": "Arènes",
-          "photo": "/images/city-places/arles-attractions-arenes.jpg",
+          "photo": "/images/city-places/arles-attractions-exterior-of-the-arenes-amphitheatre-romain.jpg",
           "website": "https://arenes-arles.com/",
           "description": "The 1st-century Roman amphitheatre that still hosts the Feria de Pâques bullfights every Easter is the visual icon of Arles. The Arles tourism office is explicit: dogs (other than guide and assistance dogs) are NOT admitted inside the paying monument. The full circuit around the outside is open-air and free, with two arched tiers of arcades looking out over the old town; do this on lead instead.",
           "descriptionFr": "L'amphithéâtre romain du Ier siècle, qui accueille encore la Feria de Pâques chaque année, est l'icône visuelle d'Arles. L'office de tourisme est clair : les chiens (hors chiens-guides et d'assistance) ne sont PAS admis à l'intérieur du monument payant. Le tour complet à l'extérieur est en plein air et gratuit, avec ses deux étages d'arcades sur la vieille ville ; faites-le en laisse à la place.",
@@ -699,7 +877,7 @@
           "name": "Espace Van Gogh courtyard",
           "address": "Place Félix Rey, 13200 Arles",
           "neighborhood": "Centre historique",
-          "photo": "/images/city-places/arles-attractions-espace-van-gogh.jpg",
+          "photo": "/images/city-places/arles-attractions-espace-van-gogh-courtyard.jpg",
           "website": "",
           "description": "The cloistered hospital courtyard where Van Gogh was treated after the ear incident in December 1888, restored to match the painting Le jardin de l'hôtel de Dieu d'Arles: a sunken garden of geometric beds, a central fountain and the arched cloister wrapping all four sides. Free admission. The arcade and surrounding paths are public and welcome leashed dogs; the small library on the upper floor does not.",
           "descriptionFr": "La cour cloîtrée de l'ancien hospice où Van Gogh fut soigné après l'incident de l'oreille en décembre 1888, restituée d'après le tableau Le Jardin de l'hôtel de Dieu d'Arles : un jardin en contrebas aux parterres géométriques, fontaine centrale et cloître à arcades sur les quatre côtés. Accès libre. Le cloître et les allées sont publics et accueillent les chiens en laisse ; la bibliothèque à l'étage non.",
@@ -738,24 +916,60 @@
         "O mercado de sábado no Boulevard des Lices e o mercado Brun de quarta aceitam cães com trela e são as melhores atrações gratuitas da cidade."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog inside the Arènes d'Arles?", "a": "No. The Arles tourism office is explicit that dogs other than guide and assistance dogs are not admitted inside monuments and museums. Walk the free outer circuit instead."},
-        {"q": "Is the Espace Van Gogh courtyard free with a dog?", "a": "Yes. The cloistered courtyard is free public access, open daylight hours, and welcomes leashed dogs. Only the upstairs library and shops are off-limits."},
-        {"q": "Can my dog watch the Arènes corridas from outside?", "a": "On corrida days (Feria de Pâques and Feria du Riz) the entire perimeter is closed to all non-ticketed visitors and crowds make it unsuitable for any dog. Visit on a non-feria day."}
+        {
+          "q": "Can I take my dog inside the Arènes d'Arles?",
+          "a": "No. The Arles tourism office is explicit that dogs other than guide and assistance dogs are not admitted inside monuments and museums. Walk the free outer circuit instead."
+        },
+        {
+          "q": "Is the Espace Van Gogh courtyard free with a dog?",
+          "a": "Yes. The cloistered courtyard is free public access, open daylight hours, and welcomes leashed dogs. Only the upstairs library and shops are off-limits."
+        },
+        {
+          "q": "Can my dog watch the Arènes corridas from outside?",
+          "a": "On corrida days (Feria de Pâques and Feria du Riz) the entire perimeter is closed to all non-ticketed visitors and crowds make it unsuitable for any dog. Visit on a non-feria day."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je entrer aux Arènes d'Arles avec mon chien ?", "a": "Non. L'office de tourisme indique clairement que les chiens hors chiens-guides et d'assistance ne sont pas admis dans les monuments et musées. Faites le tour extérieur gratuit à la place."},
-        {"q": "L'Espace Van Gogh est-il gratuit avec un chien ?", "a": "Oui. La cour cloîtrée est en accès libre, ouverte aux heures du jour, et accueille les chiens en laisse. Seules la bibliothèque et les boutiques à l'étage sont fermées aux chiens."},
-        {"q": "Mon chien peut-il regarder les corridas depuis l'extérieur des Arènes ?", "a": "Les jours de corrida (Feria de Pâques et Feria du Riz), tout le pourtour est fermé aux visiteurs sans billet et la foule rend l'endroit inadapté à un chien. Venez un jour hors feria."}
+        {
+          "q": "Puis-je entrer aux Arènes d'Arles avec mon chien ?",
+          "a": "Non. L'office de tourisme indique clairement que les chiens hors chiens-guides et d'assistance ne sont pas admis dans les monuments et musées. Faites le tour extérieur gratuit à la place."
+        },
+        {
+          "q": "L'Espace Van Gogh est-il gratuit avec un chien ?",
+          "a": "Oui. La cour cloîtrée est en accès libre, ouverte aux heures du jour, et accueille les chiens en laisse. Seules la bibliothèque et les boutiques à l'étage sont fermées aux chiens."
+        },
+        {
+          "q": "Mon chien peut-il regarder les corridas depuis l'extérieur des Arènes ?",
+          "a": "Les jours de corrida (Feria de Pâques et Feria du Riz), tout le pourtour est fermé aux visiteurs sans billet et la foule rend l'endroit inadapté à un chien. Venez un jour hors feria."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo entrar a las Arenas de Arles con mi perro?", "a": "No. La oficina de turismo indica claramente que los perros salvo guía y asistencia no se admiten en monumentos y museos. Haz el recorrido exterior gratuito en su lugar."},
-        {"q": "¿El Espace Van Gogh es gratuito con perro?", "a": "Sí. El patio claustral es de acceso libre, abierto en horas de luz, y admite perros con correa. Solo la biblioteca y las tiendas arriba están cerradas a perros."},
-        {"q": "¿Mi perro puede ver las corridas desde fuera de las Arenas?", "a": "Los días de corrida (Feria de Pascua y Feria du Riz) todo el perímetro se cierra a visitantes sin entrada y la multitud lo hace inadecuado para un perro. Ven en día sin feria."}
+        {
+          "q": "¿Puedo entrar a las Arenas de Arles con mi perro?",
+          "a": "No. La oficina de turismo indica claramente que los perros salvo guía y asistencia no se admiten en monumentos y museos. Haz el recorrido exterior gratuito en su lugar."
+        },
+        {
+          "q": "¿El Espace Van Gogh es gratuito con perro?",
+          "a": "Sí. El patio claustral es de acceso libre, abierto en horas de luz, y admite perros con correa. Solo la biblioteca y las tiendas arriba están cerradas a perros."
+        },
+        {
+          "q": "¿Mi perro puede ver las corridas desde fuera de las Arenas?",
+          "a": "Los días de corrida (Feria de Pascua y Feria du Riz) todo el perímetro se cierra a visitantes sin entrada y la multitud lo hace inadecuado para un perro. Ven en día sin feria."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso entrar nas Arenas de Arles com o meu cão?", "a": "Não. O posto de turismo indica claramente que os cães salvo de assistência não são admitidos em monumentos e museus. Faça o percurso exterior gratuito em vez disso."},
-        {"q": "O Espace Van Gogh é gratuito com cão?", "a": "Sim. O pátio claustral é de acesso livre, aberto em horas de luz, e aceita cães com trela. Só a biblioteca e as lojas em cima estão fechadas a cães."},
-        {"q": "O meu cão pode ver as corridas a partir do exterior das Arenas?", "a": "Nos dias de corrida (Feria da Páscoa e Feria du Riz) todo o perímetro é fechado a visitantes sem bilhete e a multidão torna-o inadequado para um cão. Venha num dia sem feria."}
+        {
+          "q": "Posso entrar nas Arenas de Arles com o meu cão?",
+          "a": "Não. O posto de turismo indica claramente que os cães salvo de assistência não são admitidos em monumentos e museus. Faça o percurso exterior gratuito em vez disso."
+        },
+        {
+          "q": "O Espace Van Gogh é gratuito com cão?",
+          "a": "Sim. O pátio claustral é de acesso livre, aberto em horas de luz, e aceita cães com trela. Só a biblioteca e as lojas em cima estão fechadas a cães."
+        },
+        {
+          "q": "O meu cão pode ver as corridas a partir do exterior das Arenas?",
+          "a": "Nos dias de corrida (Feria da Páscoa e Feria du Riz) todo o perímetro é fechado a visitantes sem bilhete e a multidão torna-o inadequado para um cão. Venha num dia sem feria."
+        }
       ]
     },
     "petsitting": {
@@ -772,7 +986,6 @@
           "name": "Rover Arles",
           "address": "Online platform, Arles 13200",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/arles-petsitting-rover.jpg",
           "website": "https://www.rover.com/fr/arles--provence-alpes-cote-dazur--garde-de-chien/",
           "description": "Rover is the largest international pet-sitting platform in France and lists more than 150 verified dog sitters offering boarding, day care, walks and home visits in Arles. Median rate around 18 EUR per night for boarding; insurance and 24/7 vet hotline included in every reservation. Profile filters cover small/medium/large dogs, garden access and home-or-host preference.",
           "descriptionFr": "Rover est la plus grande plateforme internationale de pet-sitting en France et liste plus de 150 dog-sitters vérifiés proposant pension, garde de jour, promenades et visites à domicile à Arles. Tarif médian autour de 18 EUR par nuit en pension ; assurance et hotline vétérinaire 24h/24 incluses dans chaque réservation. Filtres profil pour petits/moyens/grands chiens, jardin, et garde à domicile ou chez l'hôte.",
@@ -796,7 +1009,6 @@
           "name": "Holidog Arles",
           "address": "Online platform, Arles 13200",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/arles-petsitting-holidog.jpg",
           "website": "https://fr.holidog.com/pet-sitter--arles--13",
           "description": "A French specialist that lists more than 250 host families in the Arles area for boarding, day care and walks, with a focus on home-stay rather than kennel-style boarding. Average price around 21 EUR per night, with a standard 5-day booking around 89 EUR. Insurance and 24/7 vet support included with every reservation.",
           "descriptionFr": "Un spécialiste français qui liste plus de 250 familles d'accueil sur Arles pour la pension, la garde de jour et les promenades, avec un accent sur l'accueil familial plutôt que le chenil. Prix moyen autour de 21 EUR par nuit, soit 89 EUR pour 5 jours. Assurance et hotline vétérinaire 24h/24 incluses dans chaque réservation.",
@@ -820,7 +1032,6 @@
           "name": "Animaute Arles",
           "address": "Online platform, Arles 13200",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/arles-petsitting-animaute.jpg",
           "website": "https://www.animaute.fr/garde-animaux-arles-13200",
           "description": "A French national pet-sitting platform with strong Provence coverage, offering boarding, day care, walks and home visits in Arles. Typical pricing 98 to 154 EUR per week for sitter-home boarding and 154 to 252 EUR for two weeks. Hosts include both professional kennel-trained sitters and family-home options, with verified vaccination checks.",
           "descriptionFr": "Une plateforme nationale française de pet-sitting avec une forte présence en Provence, proposant pension, garde de jour, promenades et visites à domicile à Arles. Tarifs typiques 98 à 154 EUR la semaine en pension chez le sitter et 154 à 252 EUR pour deux semaines. Hôtes professionnels formés ou familles, contrôle vaccinal vérifié.",
@@ -862,24 +1073,60 @@
         "Faça sempre o encontro prévio gratuito antes da primeira estadia; é a única forma de validar a compatibilidade de um cão ansioso."
       ],
       "faqsEn": [
-        {"q": "Is there a dog boarding kennel inside Arles?", "a": "No. There is no traditional kennel inside the historic walls; all the practical options are home-stay sitters via Rover, Holidog or Animaute."},
-        {"q": "How much does a sitter cost for a day in Arles?", "a": "Day care typically runs 18 to 25 EUR per day and a one-hour walk 11 to 15 EUR. Boarding is 18 to 21 EUR per night on the major platforms."},
-        {"q": "Can I leave my dog with a sitter during the Easter Feria?", "a": "Yes, but book at least two weeks ahead. Feria demand from hotel guests saturates the local sitter pool; latecomers are routinely refused."}
+        {
+          "q": "Is there a dog boarding kennel inside Arles?",
+          "a": "No. There is no traditional kennel inside the historic walls; all the practical options are home-stay sitters via Rover, Holidog or Animaute."
+        },
+        {
+          "q": "How much does a sitter cost for a day in Arles?",
+          "a": "Day care typically runs 18 to 25 EUR per day and a one-hour walk 11 to 15 EUR. Boarding is 18 to 21 EUR per night on the major platforms."
+        },
+        {
+          "q": "Can I leave my dog with a sitter during the Easter Feria?",
+          "a": "Yes, but book at least two weeks ahead. Feria demand from hotel guests saturates the local sitter pool; latecomers are routinely refused."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un chenil à Arles ?", "a": "Non. Pas de chenil traditionnel intra-muros ; les options pratiques sont des sitters à domicile via Rover, Holidog ou Animaute."},
-        {"q": "Combien coûte un sitter pour une journée à Arles ?", "a": "La garde de jour coûte généralement 18 à 25 EUR et une promenade d'une heure 11 à 15 EUR. La pension est à 18-21 EUR la nuit sur les grandes plateformes."},
-        {"q": "Puis-je confier mon chien pendant la Feria de Pâques ?", "a": "Oui, mais réservez au moins deux semaines à l'avance. La demande des hôtels sature l'offre locale ; les retardataires sont régulièrement refusés."}
+        {
+          "q": "Y a-t-il un chenil à Arles ?",
+          "a": "Non. Pas de chenil traditionnel intra-muros ; les options pratiques sont des sitters à domicile via Rover, Holidog ou Animaute."
+        },
+        {
+          "q": "Combien coûte un sitter pour une journée à Arles ?",
+          "a": "La garde de jour coûte généralement 18 à 25 EUR et une promenade d'une heure 11 à 15 EUR. La pension est à 18-21 EUR la nuit sur les grandes plateformes."
+        },
+        {
+          "q": "Puis-je confier mon chien pendant la Feria de Pâques ?",
+          "a": "Oui, mais réservez au moins deux semaines à l'avance. La demande des hôtels sature l'offre locale ; les retardataires sont régulièrement refusés."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay residencia canina dentro de Arles?", "a": "No. Sin residencia tradicional intramuros; las opciones prácticas son cuidadores en casa vía Rover, Holidog o Animaute."},
-        {"q": "¿Cuánto cuesta un cuidador por un día en Arles?", "a": "La guardería de día suele costar 18 a 25 EUR y un paseo de una hora 11 a 15 EUR. La pensión es de 18-21 EUR por noche en las grandes plataformas."},
-        {"q": "¿Puedo dejar a mi perro durante la Feria de Pascua?", "a": "Sí, pero reserva con al menos dos semanas. La demanda hotelera satura la oferta local; los rezagados son rechazados habitualmente."}
+        {
+          "q": "¿Hay residencia canina dentro de Arles?",
+          "a": "No. Sin residencia tradicional intramuros; las opciones prácticas son cuidadores en casa vía Rover, Holidog o Animaute."
+        },
+        {
+          "q": "¿Cuánto cuesta un cuidador por un día en Arles?",
+          "a": "La guardería de día suele costar 18 a 25 EUR y un paseo de una hora 11 a 15 EUR. La pensión es de 18-21 EUR por noche en las grandes plataformas."
+        },
+        {
+          "q": "¿Puedo dejar a mi perro durante la Feria de Pascua?",
+          "a": "Sí, pero reserva con al menos dos semanas. La demanda hotelera satura la oferta local; los rezagados son rechazados habitualmente."
+        }
       ],
       "faqsPt": [
-        {"q": "Existe canil dentro de Arles?", "a": "Não. Sem canil tradicional intramuros; as opções práticas são cuidadores em casa via Rover, Holidog ou Animaute."},
-        {"q": "Quanto custa um cuidador por um dia em Arles?", "a": "A creche diurna custa geralmente 18 a 25 EUR e um passeio de uma hora 11 a 15 EUR. A pensão é de 18-21 EUR por noite nas grandes plataformas."},
-        {"q": "Posso deixar o meu cão durante a Feria da Páscoa?", "a": "Sim, mas reserve com pelo menos duas semanas. A procura hoteleira satura a oferta local; os atrasados são rotineiramente recusados."}
+        {
+          "q": "Existe canil dentro de Arles?",
+          "a": "Não. Sem canil tradicional intramuros; as opções práticas são cuidadores em casa via Rover, Holidog ou Animaute."
+        },
+        {
+          "q": "Quanto custa um cuidador por um dia em Arles?",
+          "a": "A creche diurna custa geralmente 18 a 25 EUR e um passeio de uma hora 11 a 15 EUR. A pensão é de 18-21 EUR por noite nas grandes plataformas."
+        },
+        {
+          "q": "Posso deixar o meu cão durante a Feria da Páscoa?",
+          "a": "Sim, mas reserve com pelo menos duas semanas. A procura hoteleira satura a oferta local; os atrasados são rotineiramente recusados."
+        }
       ]
     },
     "tips": {

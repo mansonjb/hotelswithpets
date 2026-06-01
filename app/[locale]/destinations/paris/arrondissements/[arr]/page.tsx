@@ -29,6 +29,7 @@ type ArrHotel = {
   pitchFr: string
   pitchEs: string
   pitchPt: string
+  image?: string
 }
 type Arr = {
   n: number
@@ -371,30 +372,53 @@ export default async function Page({
                       href={href}
                       target="_blank"
                       rel="noopener sponsored"
-                      className="block bg-white hover:bg-blue-50 border border-stone-200 hover:border-blue-300 rounded-xl p-4 transition shadow-sm"
+                      className="group/card block bg-white hover:bg-blue-50 border border-stone-200 hover:border-blue-300 rounded-xl overflow-hidden transition shadow-sm"
                     >
-                      <div className="flex items-start justify-between gap-2 mb-1">
-                        <h3 className="font-bold text-stone-900 leading-tight">{h.name}</h3>
-                        {h.stars && (
-                          <span className="text-xs text-amber-600 font-bold whitespace-nowrap">
-                            {h.stars}{t.starsLabel}
-                          </span>
+                      {h.image && (
+                        <div className="relative aspect-[3/2] bg-stone-100 overflow-hidden">
+                          <Image
+                            src={h.image}
+                            alt={h.name}
+                            fill
+                            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                            className="object-cover group-hover/card:scale-105 transition-transform duration-500"
+                          />
+                          {h.stars && (
+                            <span className="absolute top-2 right-2 bg-white/95 backdrop-blur-sm text-amber-700 text-xs font-bold px-2 py-0.5 rounded-full shadow-sm">
+                              {h.stars}{t.starsLabel}
+                            </span>
+                          )}
+                        </div>
+                      )}
+                      <div className="p-4">
+                        {!h.image && (
+                          <div className="flex items-start justify-between gap-2 mb-1">
+                            <h3 className="font-bold text-stone-900 leading-tight">{h.name}</h3>
+                            {h.stars && (
+                              <span className="text-xs text-amber-600 font-bold whitespace-nowrap">
+                                {h.stars}{t.starsLabel}
+                              </span>
+                            )}
+                          </div>
                         )}
+                        {h.image && (
+                          <h3 className="font-bold text-stone-900 leading-tight mb-1">{h.name}</h3>
+                        )}
+                        <p className="text-xs text-stone-600 leading-relaxed mb-3">{pitch}</p>
+                        <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1 text-xs">
+                          {h.priceFrom !== undefined && (
+                            <span className="font-bold text-stone-900">
+                              {t.fromLabel} €{h.priceFrom}<span className="font-normal text-stone-500">{t.perNightLabel}</span>
+                            </span>
+                          )}
+                          {h.petFee !== undefined && (
+                            <span className={`text-xs ${h.petFee === 0 ? 'text-emerald-700 font-semibold' : 'text-stone-500'}`}>
+                              {h.petFee === 0 ? `🐾 ${t.petFeeFreeLabel}` : `🐾 ${t.petFeeLabel} €${h.petFee}`}
+                            </span>
+                          )}
+                        </div>
+                        <div className="mt-3 text-xs font-bold text-blue-700">{t.checkAvailability}</div>
                       </div>
-                      <p className="text-xs text-stone-600 leading-relaxed mb-3">{pitch}</p>
-                      <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1 text-xs">
-                        {h.priceFrom !== undefined && (
-                          <span className="font-bold text-stone-900">
-                            {t.fromLabel} €{h.priceFrom}<span className="font-normal text-stone-500">{t.perNightLabel}</span>
-                          </span>
-                        )}
-                        {h.petFee !== undefined && (
-                          <span className={`text-xs ${h.petFee === 0 ? 'text-emerald-700 font-semibold' : 'text-stone-500'}`}>
-                            {h.petFee === 0 ? `🐾 ${t.petFeeFreeLabel}` : `🐾 ${t.petFeeLabel} €${h.petFee}`}
-                          </span>
-                        )}
-                      </div>
-                      <div className="mt-3 text-xs font-bold text-blue-700">{t.checkAvailability}</div>
                     </a>
                   )
                 })}

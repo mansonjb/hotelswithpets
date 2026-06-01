@@ -2,7 +2,7 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL, buildStay22MapSrc, buildAllezDestLink } from '@/lib/site'
+import { SITE_URL, buildStay22MapSrc, buildAllezDestLink, buildAllezLink } from '@/lib/site'
 import StickyHotelCTA from '@/components/StickyHotelCTA'
 import arrondissementsRaw from '@/data/paris-arrondissements.json'
 
@@ -18,6 +18,16 @@ type Vet = {
   address: string
   phone: string
   hoursNote?: string
+}
+type ArrHotel = {
+  name: string
+  stars?: number
+  priceFrom?: number
+  petFee?: number
+  pitchEn: string
+  pitchFr: string
+  pitchEs: string
+  pitchPt: string
 }
 type Arr = {
   n: number
@@ -37,6 +47,7 @@ type Arr = {
   highlightsPt: string[]
   parks: Park[]
   vets: Vet[]
+  hotels: ArrHotel[]
 }
 const arrondissements: Arr[] = arrondissementsRaw as Arr[]
 
@@ -101,7 +112,15 @@ const COPY = {
     highlightsHeading: 'Pet-friendly spots',
     parksHeading: 'Parks & green spaces',
     vetsHeading: 'Vets nearby',
-    mapHeading: 'Pet-friendly hotels in the area',
+    hotelsHeading: 'Our pet-friendly picks',
+    hotelsNote: `A short editorial selection. The map below shows the full Booking.com inventory.`,
+    starsLabel: '★',
+    fromLabel: 'from',
+    perNightLabel: '/night',
+    petFeeLabel: 'pet fee',
+    petFeeFreeLabel: 'pets stay free',
+    checkAvailability: 'Check availability →',
+    mapHeading: 'All pet-friendly hotels in the area',
     mapNote: `Live availability and prices, dogs and cats accepted. Bookable via Booking.com & partners.`,
     seeHotels: `See pet-friendly hotels in Paris ${''}`,
     backToHub: 'Back to all arrondissements',
@@ -116,7 +135,15 @@ const COPY = {
     highlightsHeading: 'Spots pet-friendly',
     parksHeading: 'Parcs et espaces verts',
     vetsHeading: 'Vétérinaires à proximité',
-    mapHeading: 'Hôtels pet-friendly dans le quartier',
+    hotelsHeading: 'Notre sélection pet-friendly',
+    hotelsNote: `Une sélection éditoriale courte. La carte ci-dessous montre tout l'inventaire Booking.com.`,
+    starsLabel: '★',
+    fromLabel: `dès`,
+    perNightLabel: '/nuit',
+    petFeeLabel: 'supplément animal',
+    petFeeFreeLabel: `animaux gratuits`,
+    checkAvailability: `Voir les disponibilités →`,
+    mapHeading: 'Tous les hôtels pet-friendly du quartier',
     mapNote: `Disponibilités et prix en direct, chiens et chats acceptés. Réservable via Booking.com et partenaires.`,
     seeHotels: 'Voir les hôtels pet-friendly à Paris',
     backToHub: 'Retour aux 20 arrondissements',
@@ -131,7 +158,15 @@ const COPY = {
     highlightsHeading: 'Lugares pet-friendly',
     parksHeading: 'Parques y zonas verdes',
     vetsHeading: 'Veterinarios cercanos',
-    mapHeading: 'Hoteles pet-friendly en el barrio',
+    hotelsHeading: 'Nuestra selección pet-friendly',
+    hotelsNote: `Una selección editorial breve. El mapa de abajo muestra todo el inventario Booking.com.`,
+    starsLabel: '★',
+    fromLabel: 'desde',
+    perNightLabel: '/noche',
+    petFeeLabel: 'suplemento mascota',
+    petFeeFreeLabel: 'mascotas gratis',
+    checkAvailability: 'Ver disponibilidad →',
+    mapHeading: 'Todos los hoteles pet-friendly del barrio',
     mapNote: `Disponibilidad y precios en vivo, perros y gatos admitidos. Reservable vía Booking.com y socios.`,
     seeHotels: 'Ver hoteles pet-friendly en París',
     backToHub: 'Volver a los 20 arrondissements',
@@ -146,7 +181,15 @@ const COPY = {
     highlightsHeading: 'Locais pet-friendly',
     parksHeading: 'Parques e zonas verdes',
     vetsHeading: 'Veterinários próximos',
-    mapHeading: 'Hotéis pet-friendly no bairro',
+    hotelsHeading: 'A nossa seleção pet-friendly',
+    hotelsNote: `Uma seleção editorial curta. O mapa abaixo mostra todo o inventário Booking.com.`,
+    starsLabel: '★',
+    fromLabel: 'desde',
+    perNightLabel: '/noite',
+    petFeeLabel: 'taxa animal',
+    petFeeFreeLabel: 'animais grátis',
+    checkAvailability: 'Ver disponibilidade →',
+    mapHeading: 'Todos os hotéis pet-friendly do bairro',
     mapNote: `Disponibilidade e preços ao vivo, cães e gatos aceites. Reservável via Booking.com e parceiros.`,
     seeHotels: 'Ver hotéis pet-friendly em Paris',
     backToHub: 'Voltar aos 20 arrondissements',
@@ -295,6 +338,57 @@ export default async function Page({
             </div>
           </section>
         )}
+
+        {/* Hotel selection */}
+        {a.hotels && a.hotels.length > 0 && (() => {
+          const pitchKey: Record<Locale, keyof ArrHotel> = {
+            en: 'pitchEn', fr: 'pitchFr', es: 'pitchEs', pt: 'pitchPt',
+          }
+          return (
+            <section>
+              <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-2">🏨 {t.hotelsHeading}</h2>
+              <p className="text-sm text-stone-600 mb-5">{t.hotelsNote}</p>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                {a.hotels.map((h, i) => {
+                  const pitch = (h[pitchKey[locale]] as string) || h.pitchEn || ''
+                  const href = buildAllezLink(h.name, 'Paris', 'France', `paris-${a.slug}-hotel-${i + 1}`)
+                  return (
+                    <a
+                      key={i}
+                      href={href}
+                      target="_blank"
+                      rel="noopener sponsored"
+                      className="block bg-white hover:bg-blue-50 border border-stone-200 hover:border-blue-300 rounded-xl p-4 transition shadow-sm"
+                    >
+                      <div className="flex items-start justify-between gap-2 mb-1">
+                        <h3 className="font-bold text-stone-900 leading-tight">{h.name}</h3>
+                        {h.stars && (
+                          <span className="text-xs text-amber-600 font-bold whitespace-nowrap">
+                            {h.stars}{t.starsLabel}
+                          </span>
+                        )}
+                      </div>
+                      <p className="text-xs text-stone-600 leading-relaxed mb-3">{pitch}</p>
+                      <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1 text-xs">
+                        {h.priceFrom !== undefined && (
+                          <span className="font-bold text-stone-900">
+                            {t.fromLabel} €{h.priceFrom}<span className="font-normal text-stone-500">{t.perNightLabel}</span>
+                          </span>
+                        )}
+                        {h.petFee !== undefined && (
+                          <span className={`text-xs ${h.petFee === 0 ? 'text-emerald-700 font-semibold' : 'text-stone-500'}`}>
+                            {h.petFee === 0 ? `🐾 ${t.petFeeFreeLabel}` : `🐾 ${t.petFeeLabel} €${h.petFee}`}
+                          </span>
+                        )}
+                      </div>
+                      <div className="mt-3 text-xs font-bold text-blue-700">{t.checkAvailability}</div>
+                    </a>
+                  )
+                })}
+              </div>
+            </section>
+          )
+        })()}
 
         {/* Stay22 Map */}
         <section>

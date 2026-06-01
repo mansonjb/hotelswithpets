@@ -6,7 +6,11 @@
     "popularName": "Louvre",
     "lat": 48.8624,
     "lng": 2.3358,
-    "metros": ["1", "7", "14"],
+    "metros": [
+      "1",
+      "7",
+      "14"
+    ],
     "introEn": "The 1st arrondissement is the historic core of Paris, wrapped around the Louvre, the Palais-Royal and Les Halles. It is dense, walkable and stone-paved, with limited green space and heavy tourist foot traffic that small dogs handle better than large ones. Most prestige gardens here (Tuileries, Palais-Royal interior) ban dogs, but the riverside Berges de Seine and several quieter passages make a pleasant on-leash itinerary.",
     "introFr": "Le 1er arrondissement est le coeur historique de Paris, autour du Louvre, du Palais-Royal et des Halles. Très dense, minéral et touristique, il convient mieux aux petits chiens qu'aux grands gabarits. La plupart des grands jardins du quartier (Tuileries, Palais-Royal) sont interdits aux chiens, mais les berges de Seine et plusieurs passages couverts offrent une belle balade en laisse.",
     "introEs": "El 1er distrito es el corazón histórico de París, alrededor del Louvre, el Palais-Royal y Les Halles. Es denso, peatonal y muy turístico, más cómodo para perros pequeños que grandes. La mayoría de jardines de prestigio (Tullerías, Palais-Royal) prohíben los perros, pero las Berges de Seine y varios pasajes cubiertos ofrecen un buen paseo con correa.",
@@ -66,7 +70,8 @@
         "address": "14 rue Bertin Poirée, 75001 Paris",
         "phone": "+33 1 42 36 02 22"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 2,
@@ -75,7 +80,11 @@
     "popularName": "Bourse",
     "lat": 48.8689,
     "lng": 2.3414,
-    "metros": ["3", "8", "9"],
+    "metros": [
+      "3",
+      "8",
+      "9"
+    ],
     "introEn": "The 2nd is the smallest arrondissement, a compact rectangle around the Bourse with a dense network of 19th-century covered passages. Green space is virtually nil, but the human-scale streets, sheltered shopping arcades and quieter office-district weekends make it easy to walk a small dog without crowd stress. Sentier and Montorgueil add pet-friendly cafe terraces.",
     "introFr": "Le 2e est le plus petit arrondissement, autour de la Bourse, avec son réseau dense de passages couverts du XIXe. Quasi aucun espace vert, mais des rues à taille humaine, des galeries abritées et des week-ends calmes en font un quartier facile pour un petit chien. Sentier et Montorgueil multiplient les terrasses pet-friendly.",
     "introEs": "El 2.º es el distrito más pequeño, alrededor de la Bolsa, con su densa red de pasajes cubiertos del s. XIX. Casi sin zonas verdes, pero las calles a escala humana, las galerías cubiertas y los fines de semana tranquilos lo hacen cómodo para un perro pequeño. Sentier y Montorgueil suman terrazas pet-friendly.",
@@ -123,7 +132,8 @@
         "address": "32 rue Etienne Marcel, 75002 Paris",
         "phone": "+33 1 42 33 90 33"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 3,
@@ -132,7 +142,11 @@
     "popularName": "Temple (Haut Marais)",
     "lat": 48.8638,
     "lng": 2.3601,
-    "metros": ["3", "8", "11"],
+    "metros": [
+      "3",
+      "8",
+      "11"
+    ],
     "introEn": "The 3rd, the Haut Marais, is one of the most pet-friendly central arrondissements: small streets, independent boutiques, cafes that welcome dogs on the terrace, and a real neighbourhood feel. The Square du Temple-Elie Wiesel is the main green lung, and the Marche des Enfants Rouges offers shaded courtyards. Sundays the area becomes pedestrian-friendly under the Paris Respire scheme.",
     "introFr": "Le 3e, le Haut Marais, est l'un des arrondissements centraux les plus pet-friendly: petites rues, boutiques indépendantes, terrasses qui acceptent les chiens, ambiance de quartier. Le Square du Temple-Elie Wiesel est le poumon vert principal, et le Marché des Enfants Rouges offre des cours ombragées. Dimanche, Paris Respire rend le quartier piéton.",
     "introEs": "El 3.º, el Haut Marais, es uno de los distritos centrales más pet-friendly: calles pequeñas, tiendas independientes, terrazas que aceptan perros y ambiente de barrio. El Square du Temple-Elie Wiesel es el pulmón verde principal y el Marché des Enfants Rouges ofrece patios sombreados. Los domingos, el plan Paris Respire lo vuelve peatonal.",
@@ -185,7 +199,8 @@
         "address": "17 boulevard des Filles du Calvaire, 75003 Paris",
         "phone": "+33 1 48 04 99 40"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 4,
@@ -194,7 +209,12 @@
     "popularName": "Marais / Hôtel-de-Ville",
     "lat": 48.8546,
     "lng": 2.3573,
-    "metros": ["1", "7", "11", "14"],
+    "metros": [
+      "1",
+      "7",
+      "11",
+      "14"
+    ],
     "introEn": "The 4th covers the southern Marais, the Île Saint-Louis and the eastern half of the Île de la Cité, around Notre-Dame and Hotel-de-Ville. It is one of the most dog-tolerant historic districts in Paris, with cafe terraces, boutique-lined alleys and the Île Saint-Louis quays for riverside walks. Public lawns are mostly off-limits, but Place des Vosges arcades and the Berges de Seine make up for it.",
     "introFr": "Le 4e couvre le Marais sud, l'Île Saint-Louis et l'est de l'Île de la Cité, autour de Notre-Dame et de l'Hôtel-de-Ville. C'est l'un des quartiers historiques les plus tolérants aux chiens: terrasses, ruelles de boutiques et quais de l'Île Saint-Louis pour des balades au bord de l'eau. Les pelouses publiques sont en grande partie interdites, mais les arcades de la Place des Vosges et les Berges de Seine compensent.",
     "introEs": "El 4.º cubre el Marais sur, la Île Saint-Louis y el este de la Île de la Cité, en torno a Notre-Dame y el Hôtel-de-Ville. Es uno de los barrios históricos más tolerantes con los perros: terrazas, callejones con boutiques y muelles de la Île Saint-Louis para paseos al borde del agua. Los céspedes públicos están en su mayoría prohibidos, pero las arcadas de la Place des Vosges y las Berges de Seine compensan.",
@@ -249,7 +269,8 @@
         "address": "20 rue Ferdinand Duval, 75004 Paris",
         "phone": "+33 1 48 87 85 96"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 5,
@@ -258,7 +279,11 @@
     "popularName": "Quartier Latin / Panthéon",
     "lat": 48.8462,
     "lng": 2.346,
-    "metros": ["7", "10", "RER B"],
+    "metros": [
+      "7",
+      "10",
+      "RER B"
+    ],
     "introEn": "The 5th, the Latin Quarter, runs from the Seine quays up to the Pantheon and the Jardin des Plantes. It is studious, lively in the evenings around Mouffetard, and gently sloped. The Jardin des Plantes bans dogs entirely, which is the main constraint, but the Berges de Seine, Square Rene Viviani and the small Mouffetard squares give dogs room to stretch on leash.",
     "introFr": "Le 5e, le Quartier Latin, s'étend des quais de Seine au Panthéon et au Jardin des Plantes. Studieux, animé le soir autour de la Mouffetard, et légèrement vallonné. Le Jardin des Plantes est totalement interdit aux chiens, c'est la principale contrainte, mais les Berges de Seine, le Square René Viviani et les petits squares Mouffetard permettent de bonnes balades en laisse.",
     "introEs": "El 5.º, el Barrio Latino, va de los muelles del Sena al Panteón y al Jardin des Plantes. Estudioso, animado por la noche en torno a Mouffetard, ligeramente inclinado. El Jardin des Plantes prohíbe totalmente los perros, principal limitación, pero las Berges de Seine, el Square René Viviani y los pequeños squares Mouffetard permiten buenos paseos con correa.",
@@ -318,7 +343,8 @@
         "address": "47 boulevard Saint-Germain, 75005 Paris",
         "phone": "+33 1 43 54 14 76"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 6,
@@ -327,7 +353,11 @@
     "popularName": "Saint-Germain / Luxembourg",
     "lat": 48.8493,
     "lng": 2.3324,
-    "metros": ["4", "10", "12"],
+    "metros": [
+      "4",
+      "10",
+      "12"
+    ],
     "introEn": "The 6th is Saint-Germain-des-Pres: literary cafes, galleries and the Jardin du Luxembourg as a backdrop. Most cafe terraces accept small dogs, the Luxembourg has very limited dog access reserved for guide dogs and a restricted southeast corner, and the side streets around Saint-Sulpice are calm. The arrondissement is elegant, walkable and well lit at night.",
     "introFr": "Le 6e, c'est Saint-Germain-des-Prés: cafés littéraires, galeries et le Jardin du Luxembourg en toile de fond. La plupart des terrasses acceptent les petits chiens, le Luxembourg n'autorise les chiens que dans un coin sud-est restreint (et les chiens-guides partout), et les ruelles autour de Saint-Sulpice sont calmes. Quartier élégant, marchable, bien éclairé le soir.",
     "introEs": "El 6.º es Saint-Germain-des-Prés: cafés literarios, galerías y el Jardin du Luxembourg de fondo. La mayoría de terrazas aceptan perros pequeños, el Luxembourg solo permite perros en una esquina sureste restringida (y los perros-guía en todas partes), y las callejuelas alrededor de Saint-Sulpice son tranquilas. Barrio elegante, caminable, bien iluminado de noche.",
@@ -375,7 +405,8 @@
         "address": "37 boulevard Saint-Germain, 75005 Paris",
         "phone": "+33 1 43 54 40 01"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 7,
@@ -384,7 +415,12 @@
     "popularName": "Tour Eiffel / Invalides",
     "lat": 48.8566,
     "lng": 2.3122,
-    "metros": ["6", "8", "13", "RER C"],
+    "metros": [
+      "6",
+      "8",
+      "13",
+      "RER C"
+    ],
     "introEn": "The 7th wraps the Eiffel Tower, the Champ-de-Mars, the Invalides and the Musee d'Orsay. It is the most monument-heavy district in Paris, with wide avenues and a long riverside walk. The Champ-de-Mars allows leashed dogs on the alleys (lawns banned), and the Esplanade des Invalides is one of the rare large open spaces where small to medium dogs can walk comfortably on leash.",
     "introFr": "Le 7e, c'est la Tour Eiffel, le Champ-de-Mars, les Invalides et le Musée d'Orsay. C'est l'arrondissement le plus monumental, avec de larges avenues et un long parcours en bord de Seine. Le Champ-de-Mars autorise les chiens en laisse dans les allées (pelouses interdites), et l'Esplanade des Invalides est l'un des rares grands espaces où promener un chien à l'aise en laisse.",
     "introEs": "El 7.º abarca la Torre Eiffel, el Campo de Marte, los Inválidos y el Musée d'Orsay. Es el distrito más monumental, con grandes avenidas y un largo paseo junto al Sena. El Campo de Marte permite perros con correa en los senderos (césped prohibido), y la Esplanade des Invalides es uno de los pocos grandes espacios cómodos para pasear un perro con correa.",
@@ -439,7 +475,8 @@
         "address": "37 boulevard Saint-Germain, 75005 Paris",
         "phone": "+33 1 43 54 40 01"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 8,
@@ -448,7 +485,13 @@
     "popularName": "Champs-Élysées / Élysée",
     "lat": 48.8722,
     "lng": 2.3127,
-    "metros": ["1", "2", "9", "13", "RER A"],
+    "metros": [
+      "1",
+      "2",
+      "9",
+      "13",
+      "RER A"
+    ],
     "introEn": "The 8th runs from Concorde up the Champs-Élysées to the Arc de Triomphe, with Parc Monceau as a major green anchor. Since December 2025 Parc Monceau finally opened to leashed dogs on specified alleys, a significant gain for the neighbourhood. The avenues are wide, the area is luxury-shopping and palace-hotel heavy, and most upscale cafes welcome small dogs in carriers.",
     "introFr": "Le 8e va de la Concorde aux Champs-Élysées et à l'Arc de Triomphe, avec le Parc Monceau comme grand poumon vert. Depuis décembre 2025, le Parc Monceau autorise enfin les chiens en laisse sur certaines allées, vraie nouveauté pour le quartier. Les avenues sont larges, c'est le secteur du luxe et des palaces, et la plupart des cafés haut de gamme acceptent les petits chiens en sac.",
     "introEs": "El 8.º va de la Concorde a los Campos Elíseos y al Arco de Triunfo, con el Parc Monceau como gran pulmón verde. Desde diciembre de 2025 el Parc Monceau permite por fin perros con correa en ciertos senderos, novedad real para el barrio. Las avenidas son anchas, es la zona del lujo y de los palaces, y la mayoría de cafés acepta perros pequeños en bolsa.",
@@ -502,7 +545,8 @@
         "phone": "+33 1 45 63 04 03",
         "hoursNote": "24h emergency service"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 9,
@@ -511,7 +555,16 @@
     "popularName": "Opéra / Pigalle Sud",
     "lat": 48.8769,
     "lng": 2.337,
-    "metros": ["2", "3", "7", "8", "9", "12", "RER A", "RER E"],
+    "metros": [
+      "2",
+      "3",
+      "7",
+      "8",
+      "9",
+      "12",
+      "RER A",
+      "RER E"
+    ],
     "introEn": "The 9th links the Opera Garnier, the grands magasins and South Pigalle (SoPi). It is dense, very urban, with relatively few green spaces but a strong neighbourhood cafe scene that welcomes small dogs. The Square d'Anvers and Square Berlioz are the main pause points. Department-store sidewalks (Boulevard Haussmann) get crowded, prefer the calmer Martyrs/SoPi side streets.",
     "introFr": "Le 9e relie l'Opéra Garnier, les grands magasins et le sud de Pigalle (SoPi). Très urbain, peu d'espaces verts, mais une scène de cafés de quartier qui accueille volontiers les petits chiens. Le Square d'Anvers et le Square Berlioz sont les principaux points de pause. Les trottoirs des grands magasins (Bd Haussmann) sont saturés, préférer les rues calmes côté Martyrs/SoPi.",
     "introEs": "El 9.º conecta la Ópera Garnier, los grandes almacenes y el sur de Pigalle (SoPi). Muy urbano, pocas zonas verdes, pero buena escena de cafés de barrio que reciben perros pequeños. Square d'Anvers y Square Berlioz son los principales puntos de descanso. Las aceras de los grandes almacenes (Bd Haussmann) están saturadas, mejor las calles tranquilas lado Martyrs/SoPi.",
@@ -566,7 +619,8 @@
         "address": "45 rue Notre-Dame-de-Lorette, 75009 Paris",
         "phone": "+33 1 48 78 65 10"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 10,
@@ -575,7 +629,15 @@
     "popularName": "Canal Saint-Martin / Gare du Nord",
     "lat": 48.8761,
     "lng": 2.3601,
-    "metros": ["2", "4", "5", "7", "RER B", "RER D", "RER E"],
+    "metros": [
+      "2",
+      "4",
+      "5",
+      "7",
+      "RER B",
+      "RER D",
+      "RER E"
+    ],
     "introEn": "The 10th centres on the Canal Saint-Martin and the Gare du Nord/Gare de l'Est rail hubs. Canal Saint-Martin towpaths are the highlight: long flat walks under plane trees, leashed dogs welcome, and the whole area is pet-friendly with many cafe terraces, brunch spots and bistros. Avoid the immediate station forecourts which are dense and chaotic.",
     "introFr": "Le 10e tourne autour du Canal Saint-Martin et des gares du Nord/de l'Est. Les berges du Canal Saint-Martin sont le grand atout: longues balades à plat sous les platanes, chiens en laisse bienvenus, quartier globalement pet-friendly avec ses terrasses, brunchs et bistrots. Éviter les abords immédiats des gares, très denses et chaotiques.",
     "introEs": "El 10.º gira en torno al Canal Saint-Martin y las estaciones Gare du Nord/Gare de l'Est. Los muelles del Canal Saint-Martin son el gran atractivo: largos paseos llanos bajo plátanos, perros con correa bienvenidos, barrio globalmente pet-friendly con terrazas, brunch y bistrots. Evitar los alrededores inmediatos de las estaciones, muy densos y caóticos.",
@@ -630,7 +692,8 @@
         "address": "159 boulevard de Magenta, 75010 Paris",
         "phone": "+33 1 48 78 03 06"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 11,
@@ -639,7 +702,13 @@
     "popularName": "Bastille / Oberkampf",
     "lat": 48.8589,
     "lng": 2.3791,
-    "metros": ["1", "2", "5", "8", "9"],
+    "metros": [
+      "1",
+      "2",
+      "5",
+      "8",
+      "9"
+    ],
     "introEn": "The 11th, from Bastille to Republique via Oberkampf and Charonne, is a young, lively arrondissement and one of the most dog-friendly in central Paris. The Square de la Place Pasdeloup was opened to dogs in December 2025, and the Square Maurice Gardette, Square de la Roquette and Square Jules Verne provide neighbourhood green pockets. Nightlife streets are intense but side streets stay calm.",
     "introFr": "Le 11e, de Bastille à République via Oberkampf et Charonne, est jeune, animé et l'un des plus pet-friendly du centre de Paris. Le Square de la Place Pasdeloup a été ouvert aux chiens en décembre 2025, et les Squares Maurice Gardette, de la Roquette et Jules Verne offrent des poumons verts de quartier. Les rues festives sont intenses mais les rues adjacentes restent calmes.",
     "introEs": "El 11.º, de Bastille a Republique vía Oberkampf y Charonne, es joven, animado y uno de los más pet-friendly del centro de París. El Square de la Place Pasdeloup se abrió a los perros en diciembre de 2025, y los Squares Maurice Gardette, de la Roquette y Jules Verne ofrecen pulmones verdes de barrio. Las calles de ocio nocturno son intensas pero las laterales se mantienen tranquilas.",
@@ -700,7 +769,8 @@
         "address": "100 boulevard Richard-Lenoir, 75011 Paris",
         "phone": "+33 1 47 00 33 11"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 12,
@@ -709,7 +779,13 @@
     "popularName": "Bercy / Bois de Vincennes",
     "lat": 48.8403,
     "lng": 2.3879,
-    "metros": ["1", "6", "8", "14", "RER A"],
+    "metros": [
+      "1",
+      "6",
+      "8",
+      "14",
+      "RER A"
+    ],
     "introEn": "The 12th is the most dog-friendly arrondissement in eastern Paris thanks to the Bois de Vincennes (open to leashed dogs with several off-leash zones) and the Coulée verte René-Dumont, a 4.5 km elevated and ground-level green walkway. Parc de Bercy joined the dog-friendly list in December 2025. The area mixes old wine warehouses, modern Bercy Village and quiet residential streets.",
     "introFr": "Le 12e est le plus pet-friendly de l'est parisien grâce au Bois de Vincennes (chiens en laisse autorisés, plusieurs zones sans laisse) et à la Coulée verte René-Dumont, promenade verte de 4,5 km surélevée et au sol. Le Parc de Bercy a rejoint la liste des espaces ouverts aux chiens en décembre 2025. Quartier qui mélange anciens chais, Bercy Village moderne et rues résidentielles calmes.",
     "introEs": "El 12.º es el más pet-friendly del este de París gracias al Bois de Vincennes (perros con correa permitidos, varias zonas sin correa) y a la Coulée verte René-Dumont, paseo verde de 4,5 km elevado y a nivel. El Parc de Bercy se unió a la lista de espacios abiertos a perros en diciembre de 2025. Barrio que mezcla antiguas bodegas, Bercy Village moderno y calles residenciales tranquilas.",
@@ -771,7 +847,8 @@
         "address": "4 rue de la Lancette, 75012 Paris",
         "phone": "+33 1 43 43 14 22"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 13,
@@ -780,7 +857,13 @@
     "popularName": "Gobelins / Chinatown / BNF",
     "lat": 48.8323,
     "lng": 2.3561,
-    "metros": ["5", "6", "7", "14", "RER C"],
+    "metros": [
+      "5",
+      "6",
+      "7",
+      "14",
+      "RER C"
+    ],
     "introEn": "The 13th combines old artisan streets near Gobelins, the high-rise Chinatown around Place d'Italie and the modern riverside Bibliothèque Nationale-Massena district. The Parc de Choisy and Jardin des Grands Moulins offer real leashed dog walks, and the Berges de Seine downstream from Pont de Bercy give long flat strolls. Hospital FREGIS at the southern edge is one of the major 24h emergency vet hubs of Paris.",
     "introFr": "Le 13e mêle vieux ateliers près des Gobelins, le Chinatown vertical autour de la place d'Italie et le quartier moderne BNF-Masséna en bord de Seine. Le Parc de Choisy et le Jardin des Grands Moulins permettent de vraies balades en laisse, et les Berges de Seine en aval du Pont de Bercy offrent de longues marches plates. L'hôpital vétérinaire FREGIS, à la limite sud, est l'un des grands pôles d'urgences 24h de Paris.",
     "introEs": "El 13.º combina viejos talleres junto a Gobelins, el Chinatown vertical alrededor de Place d'Italie y el moderno barrio BNF-Masséna a orillas del Sena. El Parc de Choisy y el Jardin des Grands Moulins ofrecen verdaderos paseos con correa, y las Berges de Seine aguas abajo del Pont de Bercy permiten largas caminatas llanas. El hospital veterinario FREGIS, en el límite sur, es uno de los grandes polos de urgencias 24h de París.",
@@ -841,7 +924,8 @@
         "address": "79 rue du Château des Rentiers, 75013 Paris",
         "phone": "+33 1 45 86 28 02"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 14,
@@ -850,7 +934,13 @@
     "popularName": "Montparnasse / Observatoire",
     "lat": 48.8332,
     "lng": 2.3265,
-    "metros": ["4", "6", "12", "13", "RER B"],
+    "metros": [
+      "4",
+      "6",
+      "12",
+      "13",
+      "RER B"
+    ],
     "introEn": "The 14th, from Montparnasse to Porte d'Orléans, is a residential and quietly literary arrondissement (Hemingway's old cafes, Cite Universitaire down south). The Parc Montsouris is the green crown jewel: leashed dogs on alleys and a real walking loop around the lake. The wide Boulevard Montparnasse and Denfert-Rochereau plaza handle dogs well.",
     "introFr": "Le 14e, de Montparnasse à la Porte d'Orléans, est résidentiel et discrètement littéraire (les vieux cafés d'Hemingway, la Cité U au sud). Le Parc Montsouris en est le joyau vert: chiens en laisse dans les allées et belle boucle autour du lac. Bd Montparnasse et place Denfert-Rochereau, larges, sont confortables avec un chien.",
     "introEs": "El 14.º, de Montparnasse a Porte d'Orléans, es residencial y discretamente literario (los cafés de Hemingway, la Cité U al sur). El Parc Montsouris es la joya verde: perros con correa en los senderos y bonito circuito junto al lago. El Bd Montparnasse y la place Denfert-Rochereau, anchos, son cómodos con perro.",
@@ -903,7 +993,8 @@
         "address": "3 rue Prisse d'Avennes, 75014 Paris",
         "phone": "+33 1 45 40 76 76"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 15,
@@ -912,7 +1003,13 @@
     "popularName": "Vaugirard / Beaugrenelle",
     "lat": 48.8417,
     "lng": 2.2998,
-    "metros": ["6", "8", "10", "12", "13"],
+    "metros": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "13"
+    ],
     "introEn": "The 15th is the largest arrondissement by population, a calm family district running from Montparnasse west to the Seine at Beaugrenelle. The Parc Andre-Citroen and Parc Georges-Brassens are real green lungs with leashed dog access, and the Île aux Cygnes mid-Seine walkway is a unique flat 850 m promenade. Wide sidewalks and good metro coverage make it convenient with a dog.",
     "introFr": "Le 15e est l'arrondissement le plus peuplé, un quartier familial calme qui va de Montparnasse à la Seine côté Beaugrenelle. Le Parc André-Citroën et le Parc Georges-Brassens sont de vrais poumons verts avec chiens en laisse, et l'Île aux Cygnes au milieu de la Seine offre une promenade unique de 850 m. Trottoirs larges et bon maillage métro, pratique avec un chien.",
     "introEs": "El 15.º es el distrito más poblado, un barrio familiar tranquilo que va de Montparnasse al Sena por Beaugrenelle. El Parc André-Citroën y el Parc Georges-Brassens son verdaderos pulmones verdes con acceso a perros con correa, y la Île aux Cygnes en medio del Sena ofrece un paseo único de 850 m. Aceras anchas y buen metro, cómodo con perro.",
@@ -968,7 +1065,8 @@
         "phone": "+33 1 45 67 38 38",
         "hoursNote": "Mon-Fri 8h30-19h30, Sat 8h30-18h30"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 16,
@@ -977,7 +1075,13 @@
     "popularName": "Passy / Trocadéro / Auteuil",
     "lat": 48.8639,
     "lng": 2.2755,
-    "metros": ["2", "6", "9", "10", "RER C"],
+    "metros": [
+      "2",
+      "6",
+      "9",
+      "10",
+      "RER C"
+    ],
     "introEn": "The 16th is upscale residential Paris with the Bois de Boulogne as its enormous western backyard. The Bois allows leashed dogs on most paths and has signed off-leash freedom zones over 1 hectare, making it the single best dog destination in central Paris together with the Bois de Vincennes. Trocadéro gardens around the Palais de Chaillot allow leashed dogs on alleys with magnificent Eiffel Tower views.",
     "introFr": "Le 16e, c'est le Paris résidentiel chic avec le Bois de Boulogne comme immense arrière-cour ouest. Le Bois autorise les chiens en laisse sur la plupart des chemins et propose des zones de liberté signalées de plus d'un hectare, ce qui en fait, avec le Bois de Vincennes, le meilleur spot canin de la capitale. Les jardins du Trocadéro autour du Palais de Chaillot autorisent les chiens en laisse, avec vue magique sur la Tour Eiffel.",
     "introEs": "El 16.º es el París residencial chic con el Bois de Boulogne como inmenso jardín trasero al oeste. El Bois permite perros con correa en la mayoría de caminos y dispone de zonas de libertad señaladas de más de una hectárea, lo que lo convierte, junto al Bois de Vincennes, en el mejor destino canino de la capital. Los jardines del Trocadéro junto al Palais de Chaillot permiten perros con correa, con vistas mágicas a la Torre Eiffel.",
@@ -1032,7 +1136,8 @@
         "address": "11 rue de l'Annonciation, 75016 Paris",
         "phone": "+33 1 45 27 25 89"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 17,
@@ -1041,7 +1146,12 @@
     "popularName": "Batignolles / Monceau",
     "lat": 48.8848,
     "lng": 2.3204,
-    "metros": ["2", "3", "13", "RER C"],
+    "metros": [
+      "2",
+      "3",
+      "13",
+      "RER C"
+    ],
     "introEn": "The 17th splits between the elegant Plaine Monceau side and the now-trendy Batignolles village around the Parc Martin Luther King. The Parc Martin Luther King is one of the most pet-friendly recent parks in Paris, with a fenced off-leash canine zone. The Square des Batignolles allows leashed dogs on alleys. The 17e Mairie publishes a detailed map of dog-accessible squares for the arrondissement.",
     "introFr": "Le 17e se partage entre la Plaine Monceau élégante et le village Batignolles devenu très tendance autour du Parc Martin Luther King. Ce dernier est l'un des parcs récents les plus pet-friendly de Paris, avec un espace canin clôturé sans laisse. Le Square des Batignolles autorise les chiens en laisse dans les allées. La Mairie du 17e publie une carte détaillée des squares ouverts aux chiens.",
     "introEs": "El 17.º se divide entre la elegante Plaine Monceau y el village Batignolles, ahora muy de moda, alrededor del Parc Martin Luther King. Este último es uno de los parques recientes más pet-friendly de París, con espacio canino vallado sin correa. El Square des Batignolles permite perros con correa en senderos. La Mairie du 17e publica un mapa detallado de squares abiertos a perros.",
@@ -1096,7 +1206,8 @@
         "address": "84 boulevard des Batignolles, 75017 Paris",
         "phone": "+33 1 45 22 27 12"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 18,
@@ -1105,7 +1216,11 @@
     "popularName": "Montmartre / Pigalle",
     "lat": 48.8929,
     "lng": 2.3439,
-    "metros": ["2", "4", "12"],
+    "metros": [
+      "2",
+      "4",
+      "12"
+    ],
     "introEn": "The 18th is Montmartre, Pigalle and Goutte d'Or: hilly, photogenic, intensely visited around Sacre-Coeur and quieter on the back slopes. The Square Suzanne Buisson and Square Marcel Bleustein-Blanchet (behind Sacre-Coeur) are the main dog-friendly green spots, and the small Jardins Rosa-Luxemburg in the new ZAC Clichy area are a recent addition. Steep stairs and busy stairs around Abbesses can be hard for older dogs.",
     "introFr": "Le 18e, c'est Montmartre, Pigalle et la Goutte d'Or: vallonné, photogénique, très fréquenté autour du Sacré-Coeur et plus calme sur les versants arrière. Le Square Suzanne Buisson et le Square Marcel Bleustein-Blanchet (derrière le Sacré-Coeur) sont les principaux poumons verts ouverts aux chiens, et les Jardins Rosa-Luxemburg de la ZAC Clichy en sont une addition récente. Escaliers raides autour des Abbesses, durs pour les vieux chiens.",
     "introEs": "El 18.º es Montmartre, Pigalle y Goutte d'Or: ondulado, fotogénico, muy concurrido en torno al Sacré-Coeur y más tranquilo en las laderas traseras. El Square Suzanne Buisson y el Square Marcel Bleustein-Blanchet (detrás del Sacré-Coeur) son los principales pulmones verdes abiertos a perros, y los Jardins Rosa-Luxemburg de la ZAC Clichy una incorporación reciente. Escaleras empinadas alrededor de Abbesses, duras para perros mayores.",
@@ -1165,7 +1280,8 @@
         "address": "8 rue Pierre Picard, 75018 Paris",
         "phone": "+33 1 42 62 27 38"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 19,
@@ -1174,7 +1290,12 @@
     "popularName": "Buttes-Chaumont / La Villette",
     "lat": 48.8852,
     "lng": 2.3771,
-    "metros": ["5", "7", "7bis", "11"],
+    "metros": [
+      "5",
+      "7",
+      "7bis",
+      "11"
+    ],
     "introEn": "The 19th is arguably the most dog-friendly arrondissement in Paris together with the 12th and 16th, thanks to the Parc des Buttes-Chaumont, the Parc de la Villette and the Bassin de la Villette/Canal de l'Ourcq waterfront. The Buttes-Chaumont allows leashed dogs on most alleys with off-leash pelouses signed. La Villette is wide, flat, and welcomes leashed dogs throughout.",
     "introFr": "Le 19e est, avec le 12e et le 16e, sans doute l'arrondissement le plus pet-friendly de Paris grâce au Parc des Buttes-Chaumont, au Parc de la Villette et au front d'eau Bassin de la Villette/Canal de l'Ourcq. Les Buttes-Chaumont autorisent les chiens en laisse dans la plupart des allées, avec des pelouses sans laisse signalées. La Villette est vaste, plate, et accueille les chiens en laisse partout.",
     "introEs": "El 19.º es, junto al 12.º y al 16.º, probablemente el distrito más pet-friendly de París gracias al Parc des Buttes-Chaumont, al Parc de la Villette y al frente acuático Bassin de la Villette/Canal de l'Ourcq. Las Buttes-Chaumont permiten perros con correa en la mayoría de senderos, con praderas sin correa señalizadas. La Villette es amplia, llana, y acepta perros con correa en todas partes.",
@@ -1234,7 +1355,8 @@
         "address": "218 rue de Crimée, 75019 Paris",
         "phone": "+33 1 40 03 03 90"
       }
-    ]
+    ],
+    "hotels": []
   },
   {
     "n": 20,
@@ -1243,7 +1365,12 @@
     "popularName": "Ménilmontant / Père-Lachaise",
     "lat": 48.8631,
     "lng": 2.4001,
-    "metros": ["2", "3", "9", "11"],
+    "metros": [
+      "2",
+      "3",
+      "9",
+      "11"
+    ],
     "introEn": "The 20th covers Belleville, Ménilmontant and the cemetery of Père-Lachaise. It is hilly, multicultural and increasingly trendy with a strong neighbourhood cafe culture. The Parc de Belleville offers one of the best panoramic city views in Paris and welcomes leashed dogs on its alleys. Père-Lachaise allows leashed dogs throughout its 44 hectares, an unusual and pleasant cemetery walk.",
     "introFr": "Le 20e couvre Belleville, Ménilmontant et le cimetière du Père-Lachaise. Vallonné, multiculturel, de plus en plus tendance, avec une vraie culture de café de quartier. Le Parc de Belleville offre l'une des plus belles vues panoramiques de Paris et accueille les chiens en laisse dans ses allées. Le Père-Lachaise autorise les chiens en laisse sur ses 44 hectares, balade insolite et agréable.",
     "introEs": "El 20.º cubre Belleville, Ménilmontant y el cementerio del Père-Lachaise. Ondulado, multicultural, cada vez más de moda, con una verdadera cultura de café de barrio. El Parc de Belleville ofrece una de las mejores vistas panorámicas de París y acepta perros con correa en sus senderos. El Père-Lachaise permite perros con correa en sus 44 hectáreas, paseo insólito y agradable.",
@@ -1299,6 +1426,7 @@
         "phone": "+33 1 71 19 70 10",
         "hoursNote": "24h emergency, 7/7"
       }
-    ]
+    ],
+    "hotels": []
   }
 ]

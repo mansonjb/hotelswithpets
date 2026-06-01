@@ -111,6 +111,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Royal Crescent lawn, the Bath Skyline National Trust trail, and the Kennet & Avon canal towpath',
       area: 'the Royal Crescent area, the riverside near Pulteney Bridge, and Bathwick',
     },
+    bayonne: {
+      personality: 'the capital of the French Basque Country, where the red-shuttered Vieux Bayonne, the riverside quays of Petit Bayonne and a 2.5 km Vauban rampart promenade meet jambon de Bayonne and Cazenave chocolate in a centre so compact a dog walks it end to end in 12 minutes',
+      highlight: 'the Parc de Mousserolles, the Vauban ramparts loop, and the Plaine d\'Ansot wetland reserve',
+      area: 'the Grand Bayonne around the cathedral, the Petit Bayonne riverside quays, and the Saint-Esprit station district north of the Adour',
+    },
     belfast: {
       personality: `Northern Ireland's revitalised capital on Belfast Lough, with a fiercely dog-welcoming Cathedral Quarter pub scene, the 750-acre wilderness of Cave Hill rising directly above the city, year-round dog beaches in County Down and two 24/7 emergency vet hospitals`,
       highlight: `Cave Hill Country Park up to Napoleon's Nose, the 18 km Lagan towpath from Stranmillis to Lisburn, and Helen's Bay year-round dog beach 20 minutes away by NIR train`,
@@ -1019,6 +1024,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la pelouse du Royal Crescent, le sentier National Trust Bath Skyline et le chemin de halage Kennet & Avon',
       area: 'le quartier du Royal Crescent, les berges près du Pulteney Bridge et Bathwick',
     },
+    bayonne: {
+      personality: 'la capitale du Pays Basque français, où le Vieux Bayonne aux volets rouges, les quais du Petit Bayonne et la promenade de 2,5 km sur les remparts Vauban rencontrent le jambon de Bayonne et le chocolat Cazenave, dans un centre si compact qu\'un chien le traverse de bout en bout en 12 minutes',
+      highlight: 'le Parc de Mousserolles, la boucle des remparts Vauban et la réserve humide de la Plaine d\'Ansot',
+      area: 'le Grand Bayonne autour de la cathédrale, les quais du Petit Bayonne et le quartier de la gare Saint-Esprit au nord de l\'Adour',
+    },
     belfast: {
       personality: `la capitale revitalisée d'Irlande du Nord en bord du Belfast Lough, avec un Cathedral Quarter farouchement accueillant pour les chiens, les 300 ha sauvages de Cave Hill juste au-dessus de la ville, des plages canines toute l'année dans le comté de Down et deux hôpitaux vétérinaires d'urgence 24h/24`,
       highlight: `Cave Hill Country Park jusqu'au Napoleon's Nose, le chemin de halage du Lagan de 18 km de Stranmillis à Lisburn et la plage canine de Helen's Bay à 20 minutes en train NIR`,
@@ -1926,6 +1936,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el césped del Royal Crescent, el sendero de la National Trust Bath Skyline y el camino de sirga Kennet & Avon',
       area: 'el barrio del Royal Crescent, la ribera junto al Pulteney Bridge y Bathwick',
     },
+    bayonne: {
+      personality: 'la capital del País Vasco francés, donde el Vieux Bayonne de contraventanas rojas, los muelles del Petit Bayonne y el paseo de 2,5 km sobre las murallas Vauban se encuentran con el jamón de Bayona y el chocolate Cazenave, en un centro tan compacto que un perro lo recorre de punta a punta en 12 minutos',
+      highlight: 'el Parc de Mousserolles, el bucle de las murallas Vauban y la reserva húmeda de la Plaine d\'Ansot',
+      area: 'el Grand Bayonne en torno a la catedral, los muelles del Petit Bayonne y el barrio de la estación Saint-Esprit al norte del Adour',
+    },
     belfast: {
       personality: `la capital revitalizada de Irlanda del Norte a orillas del Belfast Lough, con un Cathedral Quarter ferozmente acogedor para perros, las 300 hectáreas salvajes de Cave Hill justo sobre la ciudad, playas caninas todo el año en el condado de Down y dos hospitales veterinarios de urgencias 24/7`,
       highlight: `Cave Hill Country Park hasta el Napoleon's Nose, el camino de sirga del Lagan de 18 km de Stranmillis a Lisburn y la playa canina de Helen's Bay a 20 minutos en tren NIR`,
@@ -2832,6 +2847,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a cidade balneario georgiana UNESCO de Inglaterra, compacta e peatonal, com uma fuerte cultura de pubs tolerante com os cães e o trilho Bath Skyline de 9,6 km justo encima do Royal Crescent de pedra color miel',
       highlight: 'o relva do Royal Crescent, o trilho da National Trust Bath Skyline e o camino de sirga Kennet & Avon',
       area: 'o bairro do Royal Crescent, a ribera junto al Pulteney Bridge e Bathwick',
+    },
+    bayonne: {
+      personality: 'a capital do País Basco francês, onde o Vieux Bayonne de janelas com portadas vermelhas, os cais do Petit Bayonne e o passeio de 2,5 km sobre as muralhas Vauban se encontram com o presunto de Bayonne e o chocolate Cazenave, num centro tão compacto que um cão o percorre de ponta a ponta em 12 minutos',
+      highlight: 'o Parc de Mousserolles, o circuito das muralhas Vauban e a reserva húmida da Plaine d\'Ansot',
+      area: 'o Grand Bayonne em torno da catedral, os cais do Petit Bayonne e o bairro da estação Saint-Esprit a norte do Adour',
     },
     belfast: {
       personality: `a capital revitalizada da Irlanda do Norte às margens do Belfast Lough, com um Cathedral Quarter ferozmente acolhedor para cães, as 300 hectares selvagens de Cave Hill mesmo sobre a cidade, praias caninas o ano inteiro no condado de Down e dois hospitais veterinários de urgências 24/7`,

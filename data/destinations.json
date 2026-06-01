@@ -1354,6 +1354,33 @@
     "tiqetsId": "67623"
   },
   {
+    "slug": "bayonne",
+    "name": "Bayonne",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bayonne.jpg",
+    "intro": "Capital of the French Basque Country, at the confluence of the Nive and Adour rivers, with the red-shuttered half-timbered Vieux Bayonne, the 2.5 km Vauban rampart promenade, the UNESCO cathedral on the Camino de Santiago, and the Halles de Bayonne market. Compact pedestrian centre that crosses in 12 minutes on foot, jambon de Bayonne and Cazenave chocolate, and the dog-welcoming Petit Bayonne riverside quays.",
+    "lat": 43.4929,
+    "lng": -1.4748,
+    "weather": {
+      "jan": { "temp": 10, "desc": "Mild with rain", "icon": "🌦️" },
+      "feb": { "temp": 11, "desc": "Mild with rain", "icon": "🌦️" },
+      "mar": { "temp": 13, "desc": "Mild with rain", "icon": "🌦️" },
+      "apr": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
+      "may": { "temp": 18, "desc": "Mild & pleasant", "icon": "⛅" },
+      "jun": { "temp": 21, "desc": "Warm, some rain", "icon": "🌤️" },
+      "jul": { "temp": 24, "desc": "Warm & sunny", "icon": "☀️" },
+      "aug": { "temp": 25, "desc": "Warm & sunny", "icon": "☀️" },
+      "sep": { "temp": 22, "desc": "Mild & pleasant", "icon": "🌤️" },
+      "oct": { "temp": 18, "desc": "Mild with rain", "icon": "⛅" },
+      "nov": { "temp": 14, "desc": "Mild with rain", "icon": "🌦️" },
+      "dec": { "temp": 11, "desc": "Mild with rain", "icon": "🌦️" }
+    },
+    "iata": "BIQ"
+  },
+  {
     "slug": "belfast",
     "name": "Belfast",
     "country": "United Kingdom",

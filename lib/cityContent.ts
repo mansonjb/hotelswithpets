@@ -2268,6 +2268,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bayonne: {
+    history: {
+      fr: `Bayonne est née au confluent de la Nive et de l'Adour, à 5 km de l'océan, sur l'antique site romain de Lapurdum. Au XIIᵉ siècle, le mariage d'Aliénor d'Aquitaine avec Henri II Plantagenêt fait basculer la ville sous couronne anglaise pour trois siècles, période qui forge le négoce maritime, la cathédrale gothique Sainte-Marie (UNESCO 1998) et la culture du jambon affiné. Vauban modernise les remparts entre 1680 et 1685, créant la boucle de 2,5 km qui ceint encore aujourd'hui le Vieux Bayonne. Aux XIXᵉ et XXᵉ siècles, la ville devient le poumon administratif du Pays Basque français, capitale du chocolat introduit par les Juifs séfarades expulsés d'Espagne au XVIIᵉ siècle, et hôte des fameuses Fêtes de Bayonne en juillet. Aujourd'hui Bayonne compte 52 000 habitants, conserve un dialecte basque vivant et une vie de quartier sur les quais du Petit Bayonne où les chiens calmes sont parfaitement à leur place sur les terrasses.`,
+      en: `Bayonne was born at the confluence of the Nive and the Adour, 5 km from the ocean, on the ancient Roman site of Lapurdum. In the 12th century, Eleanor of Aquitaine's marriage to Henry II Plantagenet placed the city under the English crown for three centuries, the period that shaped its maritime trade, the Gothic Cathedral of Sainte-Marie (UNESCO 1998) and the culture of cured ham. Vauban modernised the ramparts between 1680 and 1685, creating the 2.5 km loop that still encircles the Vieux Bayonne today. In the 19th and 20th centuries the city became the administrative lung of the French Basque Country, the capital of the chocolate introduced by Sephardic Jews expelled from Spain in the 17th century, and the host of the famous Fêtes de Bayonne in July. Today Bayonne counts 52,000 inhabitants, keeps a living Basque dialect and a neighbourhood life on the Petit Bayonne quays where calm dogs are entirely at home on the café terraces.`,
+      es: `Bayona nació en la confluencia del Nive y el Adour, a 5 km del océano, sobre el antiguo emplazamiento romano de Lapurdum. En el siglo XII, el matrimonio de Leonor de Aquitania con Enrique II Plantagenet llevó la ciudad bajo corona inglesa durante tres siglos, periodo que forja el comercio marítimo, la catedral gótica de Sainte-Marie (UNESCO 1998) y la cultura del jamón curado. Vauban modernizó las murallas entre 1680 y 1685, creando el bucle de 2,5 km que aún hoy ciñe el Vieux Bayonne. En los siglos XIX y XX la ciudad se convierte en el pulmón administrativo del País Vasco francés, capital del chocolate introducido por los judíos sefardíes expulsados de España en el siglo XVII, y anfitriona de las célebres Fêtes de Bayonne en julio. Hoy Bayona cuenta con 52 000 habitantes, conserva un dialecto vasco vivo y una vida de barrio en los muelles del Petit Bayonne donde los perros tranquilos están perfectamente en su sitio en las terrazas.`,
+      pt: `Bayonne nasceu na confluência do Nive e do Adour, a 5 km do oceano, sobre o antigo sítio romano de Lapurdum. No século XII, o casamento de Leonor da Aquitânia com Henrique II Plantageneta colocou a cidade sob coroa inglesa durante três séculos, período que forjou o comércio marítimo, a catedral gótica de Sainte-Marie (UNESCO 1998) e a cultura do presunto curado. Vauban modernizou as muralhas entre 1680 e 1685, criando o circuito de 2,5 km que ainda hoje circunda o Vieux Bayonne. Nos séculos XIX e XX a cidade torna-se o pulmão administrativo do País Basco francês, capital do chocolate introduzido pelos judeus sefarditas expulsos de Espanha no século XVII, e anfitriã das célebres Fêtes de Bayonne em julho. Hoje Bayonne conta 52 000 habitantes, conserva um dialeto basco vivo e uma vida de bairro nos cais do Petit Bayonne onde os cães calmos estão perfeitamente no seu lugar nas esplanadas.`,
+    },
+    sights: [
+      {
+        name: `Cathédrale Sainte-Marie & Cloître`,
+        emoji: `⛪`,
+        petFriendly: true,
+        desc: {
+          fr: `Cathédrale gothique du XIIIᵉ siècle classée au patrimoine mondial UNESCO en 1998 au titre des Chemins de Saint-Jacques-de-Compostelle. Les chiens en laisse sont admis sur le parvis et dans le cloître XIVᵉ, mais l'intérieur de la nef est interdit aux animaux comme tout lieu de culte français.`,
+          en: `13th-century Gothic cathedral listed UNESCO World Heritage in 1998 as part of the Routes of Santiago de Compostela in France. Leashed dogs are welcome on the parvis and inside the 14th-century cloister, but the cathedral nave excludes pets like every French place of worship.`,
+          es: `Catedral gótica del siglo XIII inscrita Patrimonio Mundial UNESCO en 1998 como parte de los Caminos de Santiago de Compostela en Francia. Los perros con correa son bienvenidos en el atrio y dentro del claustro del siglo XIV, pero la nave de la catedral excluye animales como todo lugar de culto francés.`,
+          pt: `Catedral gótica do século XIII inscrita Património Mundial UNESCO em 1998 como parte dos Caminhos de Santiago de Compostela em França. Os cães com trela são bem-vindos no adro e dentro do claustro do século XIV, mas a nave da catedral exclui animais como todo o lugar de culto francês.`,
+        },
+      },
+      {
+        name: `Remparts Vauban`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          fr: `Boucle de 2,5 km sur le sommet des fortifications édifiées par Vauban entre 1680 et 1685, traversant quatre portes historiques (Espagne, Monnaie, Citadelle, Marine). Promenade gazonnée gratuite ouverte 24h, idéale pour les chiens en laisse au lever et au coucher du soleil.`,
+          en: `A 2.5 km loop along the top of the fortifications built by Vauban between 1680 and 1685, crossing four historic gates (Espagne, Monnaie, Citadelle, Marine). Free grassy promenade open 24h, ideal for leashed dogs at sunrise and sunset.`,
+          es: `Un bucle de 2,5 km sobre lo alto de las fortificaciones construidas por Vauban entre 1680 y 1685, atravesando cuatro puertas históricas (Espagne, Monnaie, Citadelle, Marine). Paseo herboso gratuito abierto 24h, ideal para perros con correa al amanecer y al atardecer.`,
+          pt: `Um circuito de 2,5 km sobre o topo das fortificações construídas por Vauban entre 1680 e 1685, atravessando quatro portas históricas (Espagne, Monnaie, Citadelle, Marine). Passeio relvado gratuito aberto 24h, ideal para cães com trela ao nascer e pôr-do-sol.`,
+        },
+      },
+      {
+        name: `Halles de Bayonne`,
+        emoji: `🥐`,
+        petFriendly: false,
+        desc: {
+          fr: `Halle gastronomique couverte sur le quai de la Nive, cœur du jambon de Bayonne IGP, du piment d'Espelette, des fromages des Pyrénées et du chocolat Cazenave. Les chiens sont interdits à l'intérieur de la halle pour des raisons sanitaires, mais les terrasses des cafés du quai les accueillent volontiers.`,
+          en: `Covered gastronomic market on the Nive quay, the heart of jambon de Bayonne IGP, Espelette pepper, Pyrenees cheeses and Cazenave chocolate. Dogs are not allowed inside the hall for food-hygiene reasons, but the cafés on the surrounding quay welcome them on the terrace.`,
+          es: `Mercado gastronómico cubierto en el muelle del Nive, corazón del jamón de Bayona IGP, pimiento de Espelette, quesos de los Pirineos y chocolate Cazenave. Los perros no están admitidos dentro de la lonja por razones sanitarias, pero las cafeterías del muelle los acogen en la terraza.`,
+          pt: `Mercado gastronómico coberto no cais do Nive, coração do presunto de Bayonne IGP, pimento de Espelette, queijos dos Pirenéus e chocolate Cazenave. Os cães não são admitidos dentro da lonja por razões sanitárias, mas os cafés do cais à volta acolhem-nos na esplanada.`,
+        },
+      },
+      {
+        name: `Petit Bayonne & quais de la Nive`,
+        emoji: `🌉`,
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier le plus basque et le plus festif de Bayonne, entre la Nive et l'Adour, avec maisons à colombages aux volets rouges et verts, bars à pintxos et quais piétons. Les terrasses au bord de la Nive sont dog-friendly par défaut et l'on entend autant l'euskara que le français le soir.`,
+          en: `The most Basque and most festive quarter of Bayonne, between the Nive and the Adour, with half-timbered houses in red and green shutters, pintxo bars and pedestrian quays. The riverside terraces are dog-friendly by default and you hear as much Basque as French in the evenings.`,
+          es: `El barrio más vasco y festivo de Bayona, entre el Nive y el Adour, con casas de entramado de contraventanas rojas y verdes, bares de pintxos y muelles peatonales. Las terrazas a orillas del Nive son dog-friendly por defecto y se oye tanto euskera como francés por la noche.`,
+          pt: `O bairro mais basco e mais festivo de Bayonne, entre o Nive e o Adour, com casas de tabique de portadas vermelhas e verdes, bares de pintxos e cais pedonais. As esplanadas à beira do Nive são dog-friendly por defeito e ouve-se tanto basco como francês à noite.`,
+        },
+      },
+      {
+        name: `Parc de Mousserolles`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          fr: `Le plus grand parc public de Bayonne (8 ha), à l'est du Vieux Bayonne, avec platanes centenaires, pelouses, parcours de santé et ruisseau. Chiens en laisse bienvenus toute l'année sur les allées et les pelouses.`,
+          en: `Bayonne's largest public park (8 ha), east of the Vieux Bayonne, with century-old plane trees, lawns, a fitness trail and a small stream. Leashed dogs welcome year-round on the paths and lawns.`,
+          es: `El mayor parque público de Bayona (8 ha), al este del Vieux Bayonne, con plátanos centenarios, céspedes, circuito de salud y arroyo. Perros con correa bienvenidos todo el año en los paseos y céspedes.`,
+          pt: `O maior parque público de Bayonne (8 ha), a leste do Vieux Bayonne, com plátanos centenários, relvados, circuito de saúde e ribeiro. Cães com trela bem-vindos o ano inteiro nas alamedas e relvados.`,
+        },
+      },
+      {
+        name: `Plaine d'Ansot`,
+        emoji: `🦆`,
+        petFriendly: true,
+        desc: {
+          fr: `Réserve naturelle humide le long de la Nive au sud-est du centre, avec pontons, prairies inondables et roselières. Chiens en laisse bienvenus sur les sentiers, la Maison des Barthes (centre d'interprétation) à l'entrée n'accepte pas les animaux.`,
+          en: `Protected riverside wetland along the Nive south-east of the centre, with boardwalks, water meadows and reedbeds. Leashed dogs welcome on the paths, the Maison des Barthes interpretation centre at the entrance excludes pets.`,
+          es: `Reserva natural húmeda a lo largo del Nive al sureste del centro, con pasarelas, praderas inundables y cañaverales. Perros con correa bienvenidos en los senderos, la Maison des Barthes (centro de interpretación) en la entrada no acepta animales.`,
+          pt: `Reserva natural húmida ao longo do Nive a sudeste do centro, com passadiços, prados inundáveis e caniçais. Cães com trela bem-vindos nos trilhos, a Maison des Barthes (centro de interpretação) na entrada não aceita animais.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale des plages d'Anglet (5 km à l'ouest): les chiens sont bannis du 15 juin au 15 septembre sur toutes les plages surveillées, repliez-vous sur la Plage des Deux Jumeaux à Hendaye (30 km au sud, TER 35 min) qui reste autorisée toute l'année.`,
+        `Loi française: laisse de 1,5 m maximum en public, chiens catégorie 1 et 2 nécessitent permis municipal, assurance et muselière, amende municipale jusqu'à 35 EUR pour déjections non ramassées.`,
+        `Bus Chronoplus / Txik Txak: seulement chiens d'assistance certifiés et petits animaux en cage fermée, les chiens moyens et grands sont refusés. Le Vieux Bayonne se traverse en 12 minutes à pied de toute façon.`,
+        `TER SNCF depuis la gare de Bayonne: petits chiens en sac fermé gratuits, grands chiens en laisse + muselière avec billet demi-tarif. Pratique pour rejoindre Biarritz (10 min) ou Saint-Jean-de-Luz (18 min) sans la galère du bus.`,
+        `Les Halles de Bayonne interdisent les chiens à l'intérieur (raison sanitaire), mais les terrasses des cafés du quai du Commandant Roquebert les accueillent volontiers, le marché alimentaire reste accessible avec le chien en gamelle d'eau dehors.`,
+      ],
+      en: [
+        `Summer beach ban in Anglet (5 km west): dogs are forbidden from 15 June to 15 September on all surveilled beaches, fall back on Plage des Deux Jumeaux at Hendaye (30 km south, 35 min TER train) which stays open year-round.`,
+        `French law: 1.5 m leash maximum in public, category 1 and 2 dogs need a municipal permit, third-party insurance and a muzzle, municipal fine up to 35 EUR for waste not picked up.`,
+        `Chronoplus / Txik Txak buses: only certified assistance dogs and small pets in closed carriers, medium and large dogs are refused. The Vieux Bayonne crosses in 12 minutes on foot in any case.`,
+        `TER SNCF from Gare de Bayonne: small dogs in a closed bag travel free, large dogs leashed + muzzled with a half-fare ticket. Handy for reaching Biarritz (10 min) or Saint-Jean-de-Luz (18 min) without the bus hassle.`,
+        `The Halles de Bayonne ban dogs from the indoor hall (food hygiene), but the café terraces on the quai du Commandant Roquebert welcome them, the food market stays accessible with the dog and a water bowl outside.`,
+      ],
+      es: [
+        `Prohibición veraniega de playas en Anglet (5 km al oeste): los perros están prohibidos del 15 de junio al 15 de septiembre en todas las playas vigiladas, refúgiate en la Plage des Deux Jumeaux de Hendaya (30 km al sur, TER 35 min) que sigue abierta todo el año.`,
+        `Ley francesa: correa de 1,5 m máximo en público, los perros categoría 1 y 2 necesitan permiso municipal, seguro de responsabilidad civil y bozal, multa municipal de hasta 35 EUR por deyecciones no recogidas.`,
+        `Autobuses Chronoplus / Txik Txak: solo perros de asistencia certificados y mascotas pequeñas en transportín cerrado, los perros medianos y grandes son rechazados. El Vieux Bayonne se cruza en 12 minutos a pie de todas formas.`,
+        `TER SNCF desde la estación de Bayona: perros pequeños en bolso cerrado viajan gratis, perros grandes con correa + bozal con billete a mitad de precio. Práctico para llegar a Biarritz (10 min) o Saint-Jean-de-Luz (18 min) sin el lío del autobús.`,
+        `Les Halles de Bayonne prohíben perros dentro de la lonja (higiene alimentaria), pero las terrazas de las cafeterías del quai du Commandant Roquebert los acogen, el mercado alimentario sigue accesible con el perro y un cuenco de agua fuera.`,
+      ],
+      pt: [
+        `Proibição estival de praias em Anglet (5 km a oeste): os cães estão proibidos de 15 de junho a 15 de setembro em todas as praias vigiadas, refugie-se na Plage des Deux Jumeaux em Hendaia (30 km a sul, TER 35 min) que continua aberta o ano inteiro.`,
+        `Lei francesa: trela de 1,5 m máximo em público, os cães categoria 1 e 2 necessitam de permis municipal, seguro de responsabilidade civil e açaime, multa municipal até 35 EUR por dejeções não apanhadas.`,
+        `Autocarros Chronoplus / Txik Txak: apenas cães de assistência certificados e animais pequenos em caixa fechada, os cães médios e grandes são recusados. O Vieux Bayonne atravessa-se em 12 minutos a pé de qualquer forma.`,
+        `TER SNCF a partir da estação de Bayonne: cães pequenos em saco fechado viajam grátis, cães grandes com trela + açaime com bilhete a meio preço. Prático para chegar a Biarritz (10 min) ou Saint-Jean-de-Luz (18 min) sem o transtorno do autocarro.`,
+        `Les Halles de Bayonne proíbem cães dentro da lonja (higiene alimentar), mas as esplanadas dos cafés no quai du Commandant Roquebert acolhem-nos, o mercado alimentar continua acessível com o cão e uma taça de água lá fora.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport le plus proche: Biarritz-Pays Basque (BIQ) à 7 km au sud-ouest, navette Chronoplus T10 jusqu'au centre de Bayonne, petits chiens en sac uniquement (les grands prennent un taxi à 15-20 EUR).`,
+        `Vétérinaire de proximité: Clinique Vétérinaire du Petit Bayonne, 18 rue Marengo, +33 5 59 25 05 96, lun-ven 08:30-18:30, sam 09:00-13:00.`,
+        `Urgences 24h: UVCB - Urgences Vétérinaires Côte Basque +33 5 59 85 98 50, relais nuit, week-end et jours fériés pour toute l'agglomération Bayonne-Anglet-Biarritz.`,
+        `Climat océanique basque: hivers doux et pluvieux (10-14 °C), étés chauds rarement caniculaires (24-25 °C), pluie possible toute l'année, prévoyez une serviette pour le chien.`,
+        `Loi française: passeport européen, puce ISO et vaccination antirabique en cours de validité requis pour tout chien arrivant de l'étranger, contrôles fréquents à la frontière Hendaye-Irun et à la gare de Bayonne en saison.`,
+      ],
+      en: [
+        `Nearest airport: Biarritz-Pays Basque (BIQ) 7 km south-west, Chronoplus T10 shuttle to Bayonne centre, small dogs in carriers only (large dogs take a 15-20 EUR taxi).`,
+        `Local vet: Clinique Vétérinaire du Petit Bayonne, 18 rue Marengo, +33 5 59 25 05 96, Mon-Fri 08:30-18:30, Sat 09:00-13:00.`,
+        `24h emergency: UVCB - Urgences Vétérinaires Côte Basque +33 5 59 85 98 50, overnight, weekend and public-holiday relay for the entire Bayonne-Anglet-Biarritz agglomeration.`,
+        `Basque oceanic climate: mild rainy winters (10-14 °C), warm but rarely scorching summers (24-25 °C), rain possible year-round, pack a dog towel.`,
+        `French law: EU pet passport, ISO microchip and valid rabies vaccination required for every dog arriving from abroad, frequent checks at the Hendaye-Irun border and at Gare de Bayonne in high season.`,
+      ],
+      es: [
+        `Aeropuerto más cercano: Biarritz-Pays Basque (BIQ) a 7 km al suroeste, lanzadera Chronoplus T10 hasta el centro de Bayona, perros pequeños en transportín únicamente (los grandes en taxi a 15-20 EUR).`,
+        `Veterinario de proximidad: Clinique Vétérinaire du Petit Bayonne, 18 rue Marengo, +33 5 59 25 05 96, lun-vie 08:30-18:30, sáb 09:00-13:00.`,
+        `Urgencias 24h: UVCB - Urgencias Veterinarias Costa Vasca +33 5 59 85 98 50, relevo nocturno, fines de semana y festivos para toda la aglomeración Bayona-Anglet-Biarritz.`,
+        `Clima oceánico vasco: inviernos suaves y lluviosos (10-14 °C), veranos cálidos rara vez tórridos (24-25 °C), lluvia posible todo el año, lleva una toalla para el perro.`,
+        `Ley francesa: pasaporte europeo, chip ISO y vacuna antirrábica vigente requeridos para todo perro que llegue del extranjero, controles frecuentes en la frontera Hendaya-Irún y en la estación de Bayona en temporada.`,
+      ],
+      pt: [
+        `Aeroporto mais próximo: Biarritz-Pays Basque (BIQ) a 7 km a sudoeste, lançadeira Chronoplus T10 até ao centro de Bayonne, cães pequenos em caixa apenas (os grandes em táxi a 15-20 EUR).`,
+        `Veterinário de proximidade: Clinique Vétérinaire du Petit Bayonne, 18 rue Marengo, +33 5 59 25 05 96, seg-sex 08:30-18:30, sáb 09:00-13:00.`,
+        `Urgências 24h: UVCB - Urgences Vétérinaires Côte Basque +33 5 59 85 98 50, relé noturno, fins-de-semana e feriados para toda a aglomeração Bayonne-Anglet-Biarritz.`,
+        `Clima oceânico basco: invernos suaves e chuvosos (10-14 °C), verões quentes raramente tórridos (24-25 °C), chuva possível o ano inteiro, leve uma toalha para o cão.`,
+        `Lei francesa: passaporte europeu, chip ISO e vacina antirrábica em vigor requeridos para todo o cão que chegue do estrangeiro, controlos frequentes na fronteira Hendaia-Irun e na estação de Bayonne em época alta.`,
+      ],
+    },
+  },
+
   belfast: {
     history: {
       fr: `Belfast s'est développée sur la rivière Lagan à partir d'un petit château normand du XIIᵉ siècle, mais c'est la révolution industrielle du XIXᵉ qui a fait d'elle l'une des plus grandes villes industrielles de l'Empire britannique : linen capital of the world, et plus encore, capitale mondiale de la construction navale, le RMS Titanic ayant été lancé depuis le Harland & Wolff shipyard en 1911. Les Troubles (1968-1998) ont divisé la ville selon des lignes communautaires dont les fresques de Falls Road et Shankill Road conservent la mémoire. Depuis l'Accord du Vendredi saint (1998), Belfast s'est radicalement transformée : Cathedral Quarter revitalisé, Titanic Quarter en front d'eau, Maritime Mile balisée, et l'une des cultures pub les plus dog-friendly des îles Britanniques. La géographie est généreuse : Cave Hill et ses 300 hectares de nature sauvage rejoignent presque la ville par le nord, le Lagan offre 18 km de chemin de halage plat jusqu'à Lisburn, et la côte est du comté de Down (plages sans interdiction estivale) est à 20 minutes en train. Particularité post-Brexit unique : sous le Windsor Framework, l'Irlande du Nord reconnaît les passeports européens pour les chiens voyageant vers/depuis l'UE, contrairement au reste du Royaume-Uni.`,

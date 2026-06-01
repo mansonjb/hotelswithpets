@@ -24,6 +24,9 @@ async function loadApiKey() {
 
 // Slug → query targeting a photogenic, pet-relevant landmark
 const TARGETS = [
+  { slug: 'bayonne',       query: 'Bayonne France Vieux Bayonne Nive river red-shuttered Basque houses cathedral panorama sunset' },
+  { slug: 'vitoria-gasteiz', query: 'Vitoria-Gasteiz Spain Plaza de la Virgen Blanca Casco Medieval Anillo Verde panorama sunset' },
+  { slug: 'getxo',         query: 'Getxo Spain Vizcaya Bridge Puente Colgante Bay of Biscay Algorta old port panorama sunset' },
   { slug: 'arles',         query: 'Arles France Roman amphitheatre Arenes Provence Camargue Rhone Van Gogh panorama sunset' },
   { slug: 'nimes',         query: 'Nimes France Arenes Roman amphitheatre Maison Carree Jardins de la Fontaine Tour Magne panorama sunset' },
   { slug: 'toulon',        query: 'Toulon France Mediterranean port Mont Faron Mourillon beach Cote d\'Azur panorama sunset' },

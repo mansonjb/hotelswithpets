@@ -21628,6 +21628,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  vannes: {
+    history: {
+      fr: `Vannes, fondée par les Gaulois Vénètes et baptisée Darioritum par les Romains au Ier siècle, fut la capitale armoricaine où Jules César défit la flotte vénète en 56 av. J.-C. Devenue capitale du duché de Bretagne au XVe siècle, c'est dans son couvent des Cordeliers qu'en 1532 les États de Bretagne ratifièrent l'union du duché à la France. Les remparts médiévaux des XIIIe-XVIe siècles, construits sur la colline du Mené sur fondation romaine, subsistent à 75% sur environ 900 mètres, faisant de Vannes l'enceinte fortifiée la mieux préservée de Bretagne. Aujourd'hui ville d'environ 53 000 habitants (200 000 dans l'agglomération Golfe du Morbihan-Vannes), Vannes est la porte d'entrée du Golfe du Morbihan et de ses 42 îles habitées, à 2h35 de TGV de Paris-Montparnasse et à 1h20 en voiture des aéroports de Nantes et Rennes.`,
+      en: `Vannes, founded by the Gaulish Veneti and named Darioritum by the Romans in the 1st century, was the Armorican capital where Julius Caesar defeated the Venetian fleet in 56 BC. Becoming the capital of the Duchy of Brittany in the 15th century, it was in its Cordeliers convent that the États de Bretagne ratified the union of the duchy with France in 1532. The 13th-to-16th-century medieval walls, built on the Mené hill on a Roman foundation, survive at 75% over about 900 metres, making Vannes the best-preserved fortified enclosure in Brittany. Today a city of around 53,000 (200,000 in the Golfe du Morbihan-Vannes agglomeration), Vannes is the gateway to the Gulf of Morbihan and its 42 inhabited islands, 2h35 TGV from Paris-Montparnasse and 1h20 by car from the Nantes and Rennes airports.`,
+      es: `Vannes, fundada por los galos Vénetos y bautizada Darioritum por los romanos en el siglo I, fue la capital armoricana donde Julio César derrotó a la flota véneta en 56 a. C. Convertida en capital del ducado de Bretaña en el siglo XV, fue en su convento de los Cordeliers donde los Estados de Bretaña ratificaron la unión del ducado con Francia en 1532. Las murallas medievales de los siglos XIII al XVI, construidas sobre la colina de Mené y cimientos romanos, sobreviven al 75% en unos 900 metros, lo que hace de Vannes el recinto fortificado mejor conservado de Bretaña. Hoy ciudad de unos 53 000 habitantes (200 000 en la aglomeración Golfo del Morbihan-Vannes), Vannes es la puerta de entrada al Golfo del Morbihan y a sus 42 islas habitadas, a 2h35 en TGV de Paris-Montparnasse y a 1h20 en coche de los aeropuertos de Nantes y Rennes.`,
+      pt: `Vannes, fundada pelos gauleses Vénetos e batizada Darioritum pelos romanos no século I, foi a capital armoricana onde Júlio César derrotou a frota véneta em 56 a. C. Tornada capital do ducado da Bretanha no século XV, foi no seu convento dos Cordeliers que os Estados da Bretanha ratificaram a união do ducado com a França em 1532. As muralhas medievais dos séculos XIII a XVI, construídas sobre a colina do Mené e fundação romana, sobrevivem a 75% em cerca de 900 metros, o que faz de Vannes o recinto fortificado mais bem preservado da Bretanha. Hoje cidade de cerca de 53 000 habitantes (200 000 na aglomeração Golfo do Morbihan-Vannes), Vannes é a porta de entrada do Golfo do Morbihan e das suas 42 ilhas habitadas, a 2h35 de TGV de Paris-Montparnasse e a 1h20 de carro dos aeroportos de Nantes e Rennes.`,
+    },
+    sights: [
+      {
+        name: 'Medieval Walls Circuit',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Environ 900 mètres de remparts XIIIe-XVIe conservés, l'enceinte la mieux préservée de Bretagne sur fondation romaine. La promenade complète prend 45 minutes avec vues plongeantes sur le Jardin des Remparts. Chiens en laisse bienvenus toute l'année.`,
+          en: `Around 900 metres of preserved 13th-to-16th-century walls, Brittany's best-preserved enceinte on a Roman foundation. The complete walk takes 45 minutes with sweeping views down onto the Jardin des Remparts. Leashed dogs welcome year-round.`,
+          es: `Unos 900 metros de murallas del siglo XIII al XVI conservadas, el recinto mejor conservado de Bretaña sobre cimientos romanos. El paseo completo toma 45 minutos con vistas en picado sobre el Jardin des Remparts. Perros con correa bienvenidos todo el año.`,
+          pt: `Cerca de 900 metros de muralhas dos séculos XIII a XVI conservadas, o recinto mais bem preservado da Bretanha sobre fundação romana. O passeio completo leva 45 minutos com vistas mergulhantes sobre o Jardin des Remparts. Cães com trela bem-vindos o ano inteiro.`,
+        },
+      },
+      {
+        name: 'Jardin des Remparts',
+        emoji: '🌷',
+        petFriendly: true,
+        desc: {
+          fr: `Jardin à la française de 15 000 m² niché entre les remparts et la rivière Marle, planté de 30 000 fleurs par an, cerisiers au printemps et vues sur les tours médiévales. Entrée libre toute l'année, le jardin le plus photographié de Vannes.`,
+          en: `15,000 m² French-style garden nestled between the ramparts and the Marle river, planted with 30,000 flowers a year, cherry trees in spring and views onto the medieval towers. Free entry year-round, the most photographed garden in Vannes.`,
+          es: `Jardín a la francesa de 15 000 m² escondido entre las murallas y el río Marle, plantado con 30 000 flores al año, cerezos en primavera y vistas sobre las torres medievales. Entrada libre todo el año, el jardín más fotografiado de Vannes.`,
+          pt: `Jardim à francesa de 15 000 m² escondido entre as muralhas e o rio Marle, plantado com 30 000 flores por ano, cerejeiras na primavera e vistas sobre as torres medievais. Entrada livre o ano inteiro, o jardim mais fotografado de Vannes.`,
+        },
+      },
+      {
+        name: 'Cathédrale Saint-Pierre',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Cathédrale gothique emblématique de Vannes, commencée au XIIIe siècle et achevée au XIXe, avec une chapelle Renaissance italienne du Rosaire. Entrée libre tous les jours du matin au soir ; intérieur réservé aux chiens d'assistance, mais la Place Saint-Pierre devant est dog-friendly.`,
+          en: `Vannes' emblematic Gothic cathedral, begun in the 13th century and completed in the 19th, with a Renaissance Italian chapel of the Rosary. Free entry every day morning to evening; interior reserved for assistance dogs, but the Place Saint-Pierre outside is dog-friendly.`,
+          es: `Catedral gótica emblemática de Vannes, comenzada en el siglo XIII y terminada en el XIX, con una capilla renacentista italiana del Rosario. Entrada libre todos los días de mañana a tarde; interior reservado a perros de asistencia, pero la Place Saint-Pierre delante es dog-friendly.`,
+          pt: `Catedral gótica emblemática de Vannes, começada no século XIII e concluída no XIX, com uma capela renascentista italiana do Rosário. Entrada livre todos os dias de manhã à tarde; interior reservado a cães de assistência, mas a Place Saint-Pierre em frente é pet-friendly.`,
+        },
+      },
+      {
+        name: 'Place Henri IV',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Place à colombages au cœur de la Vieille Ville, bordée de maisons en encorbellement des XVe et XVIe siècles, la place la plus photographiée de Vannes. Rues Saint-Salomon et des Halles voisines parmi les architectures médiévales les mieux conservées de Bretagne.`,
+          en: `Half-timbered square at the heart of the Vieille Ville, lined with 15th- and 16th-century corbelled houses, the most photographed square in Vannes. Rue Saint-Salomon and Rue des Halles nearby preserve some of Brittany's best-kept medieval architecture.`,
+          es: `Plaza con entramado en el corazón de la Vieille Ville, bordeada de casas en saledizo de los siglos XV y XVI, la plaza más fotografiada de Vannes. Las cercanas Rue Saint-Salomon y Rue des Halles preservan parte de la mejor arquitectura medieval de Bretaña.`,
+          pt: `Praça com entramado no coração da Vieille Ville, bordejada por casas em saliência dos séculos XV e XVI, a praça mais fotografada de Vannes. As próximas Rue Saint-Salomon e Rue des Halles preservam parte da melhor arquitetura medieval da Bretanha.`,
+        },
+      },
+      {
+        name: 'Conleau Peninsula',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Presqu'île boisée à 4 km au sud du centre de Vannes sur le Golfe du Morbihan, avec promenade côtière, pinède et plage. La zone de baignade surveillée interdit les chiens toute l'année, mais les rivages rocheux et la promenade en sont accessibles aux chiens en laisse.`,
+          en: `Wooded peninsula 4 km south of central Vannes on the Gulf of Morbihan, with a coastal walk, pinewood and beach. The supervised bathing zone bans dogs year-round, but the rocky shores and the peninsula walk are leashed-dog accessible.`,
+          es: `Península arbolada a 4 km al sur del centro de Vannes en el Golfo del Morbihan, con paseo costero, pinar y playa. La zona de baño vigilada prohíbe los perros todo el año, pero las costas rocosas y el paseo de la península son accesibles a perros con correa.`,
+          pt: `Península arborizada a 4 km a sul do centro de Vannes no Golfo do Morbihan, com passeio costeiro, pinhal e praia. A zona de banho vigiada proíbe os cães o ano inteiro, mas as costas rochosas e o passeio da península são acessíveis a cães com trela.`,
+        },
+      },
+      {
+        name: "Île d'Arz Coastal Loop",
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: `Boucle côtière de 17 km dog-friendly autour de l'Île d'Arz sans voiture dans le Golfe du Morbihan, accessible en 30 minutes par Bateaux Bus du Golfe depuis le Parc du Golfe de Vannes. Plages intérieures, parcs ostréicoles et chemins ruraux paisibles.`,
+          en: `17 km dog-friendly coastal loop around the car-free Île d'Arz in the Gulf of Morbihan, reached in 30 minutes by Bateaux Bus du Golfe from the Parc du Golfe in Vannes. Inland-sea beaches, oyster beds and quiet rural lanes.`,
+          es: `Bucle costero de 17 km dog-friendly por la Île d'Arz sin coche en el Golfo del Morbihan, accesible en 30 minutos por Bateaux Bus du Golfe desde el Parc du Golfe de Vannes. Playas interiores, parques ostrícolas y senderos rurales tranquilos.`,
+          pt: `Circuito costeiro de 17 km pet-friendly à volta da Île d'Arz sem carro no Golfo do Morbihan, acessível em 30 minutos por Bateaux Bus du Golfe desde o Parc du Golfe de Vannes. Praias interiores, parques ostreícolas e caminhos rurais tranquilos.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les bus Kicéo n'acceptent que les petits animaux en transportin fermé ; les chiens moyens et grands ne sont admis que s'ils sont chiens d'assistance certifiés, planifiez à pied dans la Vieille Ville compacte.`,
+        `La zone de baignade surveillée de Conleau interdit les chiens toute l'année, pas seulement en été ; restez sur les rivages rocheux de part et d'autre ou conduisez à Carnac hors saison.`,
+        `Le Bateaux Bus du Golfe (BreizhGo) vers l'Île d'Arz accepte les chiens en laisse, gratuits en transportin fermé ; arrivez 15 minutes avant le départ pour la rampe d'embarquement.`,
+        `Le Golfe du Morbihan a des courants de marée parmi les plus forts d'Europe (>9 nœuds à la Pointe du Logeo), gardez votre chien en laisse courte près de l'eau et évitez la baignade au flot.`,
+        `Les urgences vétérinaires 24h/24 passent par la Clinique Sainte-Catherine, 7 rue du Vincin ; enregistrez le numéro dès votre arrivée, la rotation de nuit trie d'abord par téléphone.`,
+      ],
+      en: [
+        `Kicéo buses only accept small animals in closed carriers; medium and large dogs are not admitted except certified assistance dogs, plan walking routes through the compact Vieille Ville.`,
+        `The Conleau supervised bathing zone bans dogs year-round, not just in summer; stay on the rocky shores either side or drive out to Carnac off-season.`,
+        `The BreizhGo Bateaux Bus du Golfe to Île d'Arz accepts leashed dogs, free in a closed carrier; arrive 15 minutes before sailing for the boarding ramp.`,
+        `The Gulf of Morbihan has some of Europe's strongest tidal currents (>9 knots at the Pointe du Logeo), keep your dog on a short leash near water and avoid swimming on rising tide.`,
+        `24h vet emergencies go through Clinique Sainte-Catherine, 7 rue du Vincin; save the number on arrival, the night rotation triages by phone first.`,
+      ],
+      es: [
+        `Los autobuses Kicéo solo admiten pequeños animales en transportín cerrado; perros medianos y grandes no son admitidos salvo perros de asistencia certificados, planea trayectos a pie por la Vieille Ville compacta.`,
+        `La zona de baño vigilada de Conleau prohíbe los perros todo el año, no solo en verano; quédate en las costas rocosas a ambos lados o conduce hasta Carnac fuera de temporada.`,
+        `Los Bateaux Bus du Golfe (BreizhGo) a la Île d'Arz admiten perros con correa, gratis en transportín cerrado; llega 15 minutos antes de la salida para la rampa de embarque.`,
+        `El Golfo del Morbihan tiene algunas de las corrientes de marea más fuertes de Europa (>9 nudos en la Pointe du Logeo), mantén a tu perro con correa corta cerca del agua y evita el baño con marea creciente.`,
+        `Las urgencias veterinarias 24h pasan por la Clinique Sainte-Catherine, 7 rue du Vincin; guarda el número al llegar, la rotación nocturna tría primero por teléfono.`,
+      ],
+      pt: [
+        `Os autocarros Kicéo apenas admitem pequenos animais em transportadora fechada; cães médios e grandes não são admitidos salvo cães de assistência certificados, planeia trajetos a pé pela Vieille Ville compacta.`,
+        `A zona de banho vigiada de Conleau proíbe os cães o ano inteiro, não apenas no verão; fica nas costas rochosas de ambos os lados ou conduz até Carnac fora de época.`,
+        `Os Bateaux Bus du Golfe (BreizhGo) para a Île d'Arz admitem cães com trela, grátis em transportadora fechada; chega 15 minutos antes da partida para a rampa de embarque.`,
+        `O Golfo do Morbihan tem algumas das correntes de maré mais fortes da Europa (>9 nós na Pointe du Logeo), mantém o cão com trela curta perto da água e evita o banho em maré enchente.`,
+        `As urgências veterinárias 24h passam pela Clinique Sainte-Catherine, 7 rue du Vincin; guarda o número à chegada, a rotação noturna triagem primeiro por telefone.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vannes n'a pas d'aéroport commercial : les deux plus proches sont Nantes-Atlantique (NTE) à 110 km et Rennes-Saint-Jacques (RNS) à 115 km, tous deux 1h20–1h40 en voiture ; TGV Paris-Montparnasse 2h35.`,
+        `Urgences vétérinaires 24h : Clinique Vétérinaire Sainte-Catherine, 7 rue du Vincin, 56000 Vannes ; Clinique Vétérinaire du Golfe en continuité de jour 8h–19h.`,
+        `L'eau du robinet est potable ; fontaines au Parc de la Garenne, au Jardin des Remparts et le long du port, prenez une gamelle pliable pour le Golfe.`,
+        `Le marché des Halles des Lices (mercredi et samedi matin) est l'un des plus animés de Bretagne, chiens en laisse bienvenus, les producteurs apportent volontiers une gamelle d'eau.`,
+        `Loi française : puce ISO, vaccin antirabique et passeport européen pour tout chien entrant ; laisse 1,5 m maximum en public, déjections passibles d'amende municipale à Vannes.`,
+      ],
+      en: [
+        `Vannes has no commercial airport: the two nearest are Nantes-Atlantique (NTE) 110 km away and Rennes-Saint-Jacques (RNS) 115 km away, both 1h20–1h40 by car; TGV to Paris-Montparnasse 2h35.`,
+        `24h vet emergency: Clinique Vétérinaire Sainte-Catherine, 7 rue du Vincin, 56000 Vannes; Clinique Vétérinaire du Golfe in day-clinic continuity 8:00–19:00.`,
+        `Tap water is safe; fountains in the Parc de la Garenne, the Jardin des Remparts and along the port, bring a collapsible bowl for the Gulf.`,
+        `The Halles des Lices market (Wednesday and Saturday morning) is one of Brittany's liveliest, leashed dogs welcome, producers happily provide a water bowl.`,
+        `French law: ISO microchip, rabies vaccine and EU pet passport for any dog entering; 1.5 m maximum leash in public, dog waste subject to municipal fine in Vannes.`,
+      ],
+      es: [
+        `Vannes no tiene aeropuerto comercial: los dos más cercanos son Nantes-Atlantique (NTE) a 110 km y Rennes-Saint-Jacques (RNS) a 115 km, ambos a 1h20–1h40 en coche; TGV a Paris-Montparnasse 2h35.`,
+        `Urgencias veterinarias 24 h: Clinique Vétérinaire Sainte-Catherine, 7 rue du Vincin, 56000 Vannes; Clinique Vétérinaire du Golfe en continuidad de día 8:00–19:00.`,
+        `El agua del grifo es potable; fuentes en el Parc de la Garenne, en el Jardin des Remparts y a lo largo del puerto, lleva un bol plegable para el Golfo.`,
+        `El mercado Halles des Lices (miércoles y sábado por la mañana) es uno de los más animados de Bretaña, perros con correa bienvenidos, los productores ofrecen con gusto un cuenco de agua.`,
+        `Ley francesa: chip ISO, vacuna antirrábica y pasaporte europeo para todo perro que entre; correa de 1,5 m máximo en público, deyecciones objeto de multa municipal en Vannes.`,
+      ],
+      pt: [
+        `Vannes não tem aeroporto comercial: os dois mais próximos são Nantes-Atlantique (NTE) a 110 km e Rennes-Saint-Jacques (RNS) a 115 km, ambos a 1h20–1h40 de carro; TGV a Paris-Montparnasse 2h35.`,
+        `Urgências veterinárias 24 h: Clinique Vétérinaire Sainte-Catherine, 7 rue du Vincin, 56000 Vannes; Clinique Vétérinaire du Golfe em continuidade de dia 8:00–19:00.`,
+        `A água da torneira é potável; fontes no Parc de la Garenne, no Jardin des Remparts e ao longo do porto, leva uma taça dobrável para o Golfo.`,
+        `O mercado Halles des Lices (quarta e sábado de manhã) é um dos mais animados da Bretanha, cães com trela bem-vindos, os produtores fornecem com gosto uma taça de água.`,
+        `Lei francesa: chip ISO, vacina antirrábica e passaporte europeu para todo cão que entre; trela de 1,5 m máximo em público, dejeções objeto de multa municipal em Vannes.`,
+      ],
+    },
+  },
+
   venice: {
     history: {
       en: 'Built on 118 islands connected by 400 bridges, Venice has been home to dogs for as long as it has to people. The city\'s narrow calli and open campi create a surprisingly walkable, if car-free, environment for pets. Vaporetto rules are strict (pets in carriers only on most lines), but the islands of the Giudecca and Sant\'Erasmo offer space away from the tourist rush. Venice sees around 30 million visitors a year, making timing and neighbourhood choice critical for a stress-free dog trip.',

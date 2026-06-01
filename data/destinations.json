@@ -12542,6 +12542,81 @@
     "tiqetsId": "73787"
   },
   {
+    "slug": "vannes",
+    "name": "Vannes",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/vannes.jpg",
+    "intro": "Vannes, the gateway to the Gulf of Morbihan, preserves three-quarters of its 13th-to-16th-century fortified walls around a fully pedestrian half-timbered Vieille Ville, with the 15 000 m² Jardin des Remparts, the 27 000 m² Parc de la Garenne, the BreizhGo Bateaux Bus du Golfe ferries to the car-free Île d'Arz and Île aux Moines, and the Conleau peninsula seaside walk, making it one of Brittany's most rewarding pet-friendly bases.",
+    "lat": 47.6587,
+    "lng": -2.7603,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Spring begins",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild & sunny spells",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Pleasant spring",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm summer peak",
+        "icon": "🌞"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "🌞"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Pleasant autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Mild & breezy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 10,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "NTE"
+  },
+  {
     "slug": "venice",
     "name": "Venice",
     "country": "Italy",

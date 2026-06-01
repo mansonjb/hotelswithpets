@@ -857,6 +857,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Upper Barrakka Gardens above the Grand Harbour, the Hastings Gardens bastion walk, and a day trip to Ta\'Qali National Park',
       area: 'the Valletta peninsula itself, Sliema across Marsamxett, and the Three Cities of Senglea, Vittoriosa and Cospicua',
     },
+    vannes: {
+      personality: `the gateway to the Gulf of Morbihan, a Breton medieval city where three-quarters of the 13th-to-16th-century fortified walls survive around a fully pedestrian half-timbered Vieille Ville, with BreizhGo Bateaux Bus du Golfe ferries to the car-free islands of Arz and Aux Moines making it one of Brittany's most rewarding pet-friendly bases`,
+      highlight: `the Jardin des Remparts at the foot of the medieval walls, the Parc de la Garenne above the ramparts, and the 17 km coastal loop of the car-free Île d'Arz reached by Bateaux Bus du Golfe`,
+      area: `the half-timbered Vieille Ville inside the medieval walls, the Saint-Patern district just outside the Porte Prison, and the Conleau peninsula 4 km south on the Gulf`,
+    },
     venice: {
       personality: 'one of Italy\'s most surprisingly dog-friendly cities. Dogs ride the vaporetto, explore quiet sestieri away from crowds, and are welcomed in many local bacari',
       highlight: 'the Lido island beaches (dogs allowed off-season), the quiet canals of Cannaregio, and the Sant\'Elena park',
@@ -1758,6 +1763,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une compacte ville-forteresse de calcaire classée UNESCO où les chiens parcourent la péninsule d\'1 km en un après-midi, montent gratuitement à bord des ferries de Sliema et des Trois Cités et sont accueillis sur les terrasses et dans les jardins Barrakka et Hastings',
       highlight: 'les jardins Upper Barrakka surplombant le Grand Port, la promenade des bastions Hastings et une excursion à Ta\'Qali National Park',
       area: 'la péninsule de La Valette elle-même, Sliema en face de Marsamxett, et les Trois Cités de Senglea, Vittoriosa et Cospicua',
+    },
+    vannes: {
+      personality: `la porte d'entrée du Golfe du Morbihan, une ville médiévale bretonne où trois quarts des remparts fortifiés des XIIIe-XVIe siècles subsistent autour d'une Vieille Ville à colombages entièrement piétonne, avec les Bateaux Bus du Golfe BreizhGo vers les îles sans voiture d'Arz et aux Moines, ce qui en fait l'une des bases pet-friendly les plus gratifiantes de Bretagne`,
+      highlight: `le Jardin des Remparts au pied des murailles médiévales, le Parc de la Garenne au-dessus des remparts, et la boucle côtière de 17 km de l'Île d'Arz sans voiture accessible par les Bateaux Bus du Golfe`,
+      area: `la Vieille Ville à colombages à l'intérieur des remparts, le quartier Saint-Patern juste après la Porte Prison, et la presqu'île de Conleau à 4 km au sud sur le Golfe`,
     },
     venice: {
       personality: 'l\'une des villes les plus étonnamment dog-friendly d\'Italie. Les chiens prennent le vaporetto, explorent les sestieri tranquilles loin des foules et sont accueillis dans de nombreux bacari locaux',
@@ -2661,6 +2671,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'los Upper Barrakka Gardens sobre el Gran Puerto, el paseo de los bastiones Hastings y una excursión al Ta\'Qali National Park',
       area: 'la propia península de La Valeta, Sliema frente a Marsamxett, y las Tres Ciudades de Senglea, Vittoriosa y Cospicua',
     },
+    vannes: {
+      personality: `la puerta de entrada al Golfo del Morbihan, una ciudad medieval bretona donde tres cuartos de las murallas fortificadas de los siglos XIII al XVI sobreviven en torno a una Vieille Ville con entramado de madera totalmente peatonal, con los Bateaux Bus du Golfe BreizhGo a las islas sin coche de Arz y aux Moines, lo que la convierte en una de las bases pet-friendly más gratificantes de Bretaña`,
+      highlight: `el Jardin des Remparts al pie de las murallas medievales, el Parc de la Garenne sobre las murallas, y el bucle costero de 17 km de la Île d'Arz sin coche accesible por los Bateaux Bus du Golfe`,
+      area: `la Vieille Ville con entramado dentro de las murallas, el barrio Saint-Patern justo tras la Porte Prison, y la península de Conleau a 4 km al sur sobre el Golfo`,
+    },
     venice: {
       personality: 'una de las ciudades más sorprendentemente dog-friendly de Italia. Los perros viajan en vaporetto, exploran tranquilos sestieri lejos de las multitudes y son bienvenidos en muchos bacari locales',
       highlight: 'las playas de la isla del Lido (perros permitidos fuera de temporada), los tranquilos canales de Cannaregio y el parque de Sant\'Elena',
@@ -3562,6 +3577,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma compacta cidade-fortaleza de calcário classificada pela UNESCO onde os cães percorrem a península de 1 km numa tarde, viajam gratuitamente nos ferries para Sliema e para as Três Cidades e são bem-vindos em esplanadas e nos jardins históricos Barrakka e Hastings',
       highlight: 'os Upper Barrakka Gardens sobre o Grand Harbour, o passeio dos bastiões Hastings e uma excursão ao Ta\'Qali National Park',
       area: 'a própria península de Valletta, Sliema em frente a Marsamxett, e as Três Cidades de Senglea, Vittoriosa e Cospicua',
+    },
+    vannes: {
+      personality: `a porta de entrada do Golfo do Morbihan, uma cidade medieval bretã onde três quartos das muralhas fortificadas dos séculos XIII a XVI sobrevivem em torno de uma Vieille Ville com entramado de madeira totalmente pedonal, com os Bateaux Bus du Golfe BreizhGo para as ilhas sem carro de Arz e aux Moines, o que a torna numa das bases pet-friendly mais gratificantes da Bretanha`,
+      highlight: `o Jardin des Remparts ao pé das muralhas medievais, o Parc de la Garenne acima das muralhas, e o circuito costeiro de 17 km da Île d'Arz sem carro acessível pelos Bateaux Bus du Golfe`,
+      area: `a Vieille Ville com entramado dentro das muralhas, o bairro Saint-Patern logo após a Porte Prison, e a península de Conleau a 4 km a sul sobre o Golfo`,
     },
     venice: {
       personality: 'uma das cidades mais sorprendentemente pet-friendly de Italia. Os cães viajan en vaporetto, exploran tranquilos sestieri longe das multitudes e são bem-vindos en muitos bacari locales',

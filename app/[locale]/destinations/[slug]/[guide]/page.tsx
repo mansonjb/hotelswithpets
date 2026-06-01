@@ -388,6 +388,7 @@ function uiLabels(locale: string) {
     rules: 'Rules:',
     viewOnMaps: 'View on Google Maps →',
     visitWebsite: 'Visit official website →',
+    nearbyHotels: 'Pet-friendly hotels nearby →',
     modeHeader: 'Mode',
     policyHeader: 'Policy',
     tipHeader: 'Tip',
@@ -417,6 +418,7 @@ function uiLabels(locale: string) {
     rules: 'Règles :',
     viewOnMaps: 'Voir sur Google Maps →',
     visitWebsite: 'Site officiel →',
+    nearbyHotels: `Hôtels pet-friendly à proximité →`,
     modeHeader: 'Moyen',
     policyHeader: 'Conditions',
     tipHeader: 'Conseil',
@@ -446,6 +448,7 @@ function uiLabels(locale: string) {
     rules: 'Normas:',
     viewOnMaps: 'Ver en Google Maps →',
     visitWebsite: 'Sitio oficial →',
+    nearbyHotels: 'Hoteles pet-friendly cerca →',
     modeHeader: 'Medio',
     policyHeader: 'Condiciones',
     tipHeader: 'Consejo',
@@ -799,31 +802,63 @@ export default async function GuideDetailPage({
                         </div>
                       )}
 
-                      {/* External links row */}
-                      {(place.website || place.googleMapsUrl) && (
-                        <div className="flex flex-wrap gap-2 pt-3 border-t border-gray-50">
-                          {place.website && (
-                            <a
-                              href={place.website}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="inline-flex items-center gap-1.5 text-xs font-semibold text-blue-600 hover:text-blue-800 bg-blue-50 hover:bg-blue-100 px-3 py-1.5 rounded-lg transition-colors"
-                            >
-                              🌐 {ui.visitWebsite}
-                            </a>
-                          )}
-                          {place.googleMapsUrl && (
-                            <a
-                              href={place.googleMapsUrl}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="inline-flex items-center gap-1.5 text-xs font-semibold text-gray-600 hover:text-gray-900 bg-gray-100 hover:bg-gray-200 px-3 py-1.5 rounded-lg transition-colors"
-                            >
-                              📍 {ui.viewOnMaps}
-                            </a>
-                          )}
-                        </div>
-                      )}
+                      {/* External links + nearby-hotels CTA row */}
+                      {(() => {
+                        // Skip the nearby-hotels CTA on the `tips` guide
+                        // (concept cards, not geographic places).
+                        const showNearby = guide !== 'tips' && Boolean(place.name)
+                        if (!showNearby && !place.website && !place.googleMapsUrl) return null
+                        // Build a Stay22 address rich enough for precise geocoding.
+                        const addressForStay22 = [
+                          place.name,
+                          place.address,
+                          place.neighborhood,
+                          dest.name,
+                          dest.country,
+                        ].filter(Boolean).join(', ')
+                        const placeSlug = place.name
+                          .toLowerCase()
+                          .normalize('NFD')
+                          .replace(/[̀-ͯ]/g, '')
+                          .replace(/[^a-z0-9]+/g, '-')
+                          .replace(/(^-|-$)/g, '')
+                          .slice(0, 40)
+                        const nearbyHref = `https://www.stay22.com/allez/roam?aid=eijeanbaptistemanson&campaign=near-${guide}-${placeSlug}&address=${encodeURIComponent(addressForStay22)}`
+                        return (
+                          <div className="flex flex-wrap gap-2 pt-3 border-t border-gray-50">
+                            {showNearby && (
+                              <a
+                                href={nearbyHref}
+                                target="_blank"
+                                rel="noopener sponsored"
+                                className="inline-flex items-center gap-1.5 text-xs font-bold text-amber-700 hover:text-amber-900 bg-amber-50 hover:bg-amber-100 border border-amber-200 px-3 py-1.5 rounded-lg transition-colors"
+                              >
+                                🏨 {ui.nearbyHotels}
+                              </a>
+                            )}
+                            {place.website && (
+                              <a
+                                href={place.website}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-flex items-center gap-1.5 text-xs font-semibold text-blue-600 hover:text-blue-800 bg-blue-50 hover:bg-blue-100 px-3 py-1.5 rounded-lg transition-colors"
+                              >
+                                🌐 {ui.visitWebsite}
+                              </a>
+                            )}
+                            {place.googleMapsUrl && (
+                              <a
+                                href={place.googleMapsUrl}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-flex items-center gap-1.5 text-xs font-semibold text-gray-600 hover:text-gray-900 bg-gray-100 hover:bg-gray-200 px-3 py-1.5 rounded-lg transition-colors"
+                              >
+                                📍 {ui.viewOnMaps}
+                              </a>
+                            )}
+                          </div>
+                        )
+                      })()}
                     </div>
                   </article>
                 )

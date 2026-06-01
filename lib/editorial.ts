@@ -486,6 +486,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Planty park ring, the Błonia meadows, and the Vistula riverside paths',
       area: 'the Old Town, Kazimierz, and Podgórze',
     },
+    klaipeda: {
+      personality: `Lithuania's only Baltic port and the gateway to the UNESCO Curonian Spit, a compact 150,000-resident city where the free Smiltyne pedestrian ferry takes dogs over to pine forest and white sand in 5 minutes, the Old Town packs Memel-era timber houses and Theatre Square, and a 24/7 referral veterinary hospital backs every itinerary`,
+      highlight: `the free Smiltyne ferry to the Curonian Spit forest and beach, Theatre Square with the Aennchen von Tharau statue, and the 12-hectare Sculpture Park`,
+      area: `the Old Town along Tiltu and Turgaus streets, the Dane river waterfront, and Smiltyne across the lagoon`,
+    },
     lausanne: {
       personality: 'Switzerland\'s Olympic Capital on Lake Geneva, one of Europe\'s most naturally dog-welcoming cities, where dogs ride the metro free, roam the 200-hectare Sauvabelin forest, and are welcomed in virtually every restaurant',
       highlight: 'the Forêt de Sauvabelin urban forest, the Lavaux UNESCO vineyard trail along the lake, and the Ouchy lakefront promenade',
@@ -1409,6 +1414,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'anneau du parc Planty, les prairies de Błonia et les chemins riverains de la Vistule',
       area: 'la Vieille Ville, Kazimierz et Podgórze',
     },
+    klaipeda: {
+      personality: `seul port balte de Lituanie et porte d'entrée du Cordon de Courlande classé UNESCO, ville à taille humaine de 150 000 habitants où le ferry piéton gratuit pour Smiltyne emmène les chiens vers la pinède et le sable blanc en 5 minutes, où la vieille ville aligne maisons en bois de l'époque Memel et Theatre Square, et où un hôpital vétérinaire de référence 24h/24 sécurise tout itinéraire`,
+      highlight: `le ferry gratuit pour Smiltyne vers la forêt et la plage du Cordon de Courlande, Theatre Square avec la statue d'Aennchen von Tharau, et le Parc des Sculptures de 12 hectares`,
+      area: `la vieille ville le long des rues Tiltu et Turgaus, le front de la rivière Dane, et Smiltyne de l'autre côté de la lagune`,
+    },
     lausanne: {
       personality: 'la Capitale Olympique suisse sur le lac Léman, l\'une des villes les plus naturellement dog-friendly d\'Europe, où les chiens prennent le métro gratuitement, se promènent dans la forêt de Sauvabelin de 200 hectares et sont accueillis dans pratiquement chaque restaurant',
       highlight: 'la Forêt de Sauvabelin, le sentier viticole UNESCO du Lavaux et la promenade du bord du lac d\'Ouchy',
@@ -2331,6 +2341,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el anillo del parque Planty, los prados de Błonia y los senderos ribereños del Vístula',
       area: 'el Casco Antiguo, Kazimierz y Podgórze',
     },
+    klaipeda: {
+      personality: `único puerto báltico de Lituania y puerta al Istmo de Curlandia clasificado UNESCO, una ciudad compacta de 150.000 habitantes donde el ferry peatonal gratuito a Smiltyne lleva a los perros al pinar y la arena blanca en 5 minutos, el Casco Antiguo reúne casas de madera de la época Memel y Theatre Square, y un hospital veterinario de referencia 24/7 respalda cualquier itinerario`,
+      highlight: `el ferry gratuito a Smiltyne hacia el bosque y la playa del Istmo de Curlandia, Theatre Square con la estatua de Aennchen von Tharau, y el Parque de Esculturas de 12 hectáreas`,
+      area: `el Casco Antiguo a lo largo de las calles Tiltu y Turgaus, el frente del río Dane, y Smiltyne al otro lado de la laguna`,
+    },
     lausanne: {
       personality: 'la Capital Olímpica suiza en el lago Lemán, una de las ciudades más naturalmente acogedoras para perros de Europa, donde los perros viajan en metro gratis, recorren el bosque de Sauvabelin de 200 hectáreas y son bienvenidos en prácticamente todos los restaurantes',
       highlight: 'el Forêt de Sauvabelin, el sendero vitícola UNESCO del Lavaux y el paseo lacustre de Ouchy',
@@ -3252,6 +3267,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade histórica polaca onde o anillo de jardins Planty que rodea o centro histórico a convierte en uno dos destinos mais transitables de Europa Central para os cães',
       highlight: 'o anillo do parque Planty, os prados de Błonia e os trilhos riberenhos do Vístula',
       area: 'o Centro histórico, Kazimierz e Podgórze',
+    },
+    klaipeda: {
+      personality: `único porto báltico da Lituânia e porta de entrada para o Istmo da Curlândia classificado UNESCO, uma cidade compacta de 150.000 habitantes onde o ferry pedonal grátis para Smiltyne leva os cães até ao pinhal e à areia branca em 5 minutos, o Centro histórico reúne casas de madeira da época Memel e Theatre Square, e um hospital veterinário de referência 24/7 apoia qualquer itinerário`,
+      highlight: `o ferry grátis para Smiltyne em direção à floresta e à praia do Istmo da Curlândia, Theatre Square com a estátua de Aennchen von Tharau, e o Parque das Esculturas de 12 hectares`,
+      area: `o Centro histórico ao longo das ruas Tiltu e Turgaus, a frente do rio Dane, e Smiltyne do outro lado da lagoa`,
     },
     lausanne: {
       personality: 'a Capital Olímpica suiza no lago Lemán, uma das cidades mais naturalmente acogedoras para cães de Europa, onde os cães viajan no metro grátis, recorren o floresta de Sauvabelin de 200 hectáreas e são bem-vindos en prácticamente todos os restaurantes',

@@ -1365,18 +1365,66 @@
     "lat": 43.4929,
     "lng": -1.4748,
     "weather": {
-      "jan": { "temp": 10, "desc": "Mild with rain", "icon": "🌦️" },
-      "feb": { "temp": 11, "desc": "Mild with rain", "icon": "🌦️" },
-      "mar": { "temp": 13, "desc": "Mild with rain", "icon": "🌦️" },
-      "apr": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
-      "may": { "temp": 18, "desc": "Mild & pleasant", "icon": "⛅" },
-      "jun": { "temp": 21, "desc": "Warm, some rain", "icon": "🌤️" },
-      "jul": { "temp": 24, "desc": "Warm & sunny", "icon": "☀️" },
-      "aug": { "temp": 25, "desc": "Warm & sunny", "icon": "☀️" },
-      "sep": { "temp": 22, "desc": "Mild & pleasant", "icon": "🌤️" },
-      "oct": { "temp": 18, "desc": "Mild with rain", "icon": "⛅" },
-      "nov": { "temp": 14, "desc": "Mild with rain", "icon": "🌦️" },
-      "dec": { "temp": 11, "desc": "Mild with rain", "icon": "🌦️" }
+      "jan": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm, some rain",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild with rain",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
     },
     "iata": "BIQ"
   },
@@ -2666,7 +2714,7 @@
     "heroImage": "/images/destinations/brest.jpg",
     "intro": "Brest, Brittany's Atlantic naval port and largest city, anchors a deep natural harbour at the western tip of France, with the 50-hectare Vallon du Stang-Alar valley, the seafront Cours Dajot terrace, Penn ar Bed ferries to the Iroise islands and the dog-friendly GR34 coastal path linking the Pointe Saint-Mathieu, making it one of north-west France's most rewarding pet-friendly bases.",
     "lat": 48.3905,
-    "lng": -4.4860,
+    "lng": -4.486,
     "weather": {
       "jan": {
         "temp": 7,
@@ -5748,18 +5796,66 @@
     "lat": 43.3568,
     "lng": -3.0148,
     "weather": {
-      "jan": { "temp": 9, "desc": "Cool & rainy", "icon": "🌧️" },
-      "feb": { "temp": 10, "desc": "Cool & rainy", "icon": "🌧️" },
-      "mar": { "temp": 12, "desc": "Mild & overcast", "icon": "🌦️" },
-      "apr": { "temp": 13, "desc": "Mild with showers", "icon": "🌦️" },
-      "may": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
-      "jun": { "temp": 18, "desc": "Warm, some rain", "icon": "⛅" },
-      "jul": { "temp": 21, "desc": "Warm & sunny", "icon": "🌤️" },
-      "aug": { "temp": 22, "desc": "Warm & sunny", "icon": "🌤️" },
-      "sep": { "temp": 19, "desc": "Mild & pleasant", "icon": "⛅" },
-      "oct": { "temp": 15, "desc": "Mild with rain", "icon": "🌦️" },
-      "nov": { "temp": 12, "desc": "Cool & rainy", "icon": "🌧️" },
-      "dec": { "temp": 10, "desc": "Cool & rainy", "icon": "🌧️" }
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm, some rain",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 15,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      }
     },
     "iata": "BIO"
   },
@@ -6889,6 +6985,81 @@
     },
     "iata": "KRK",
     "tiqetsId": "46"
+  },
+  {
+    "slug": "klaipeda",
+    "name": "Klaipeda",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "flag": "🇱🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/klaipeda.jpg",
+    "intro": "Klaipeda is Lithuania's only Baltic port and the gateway to the UNESCO Curonian Spit, a compact 150,000-resident city where the free Smiltyne ferry takes dogs over to pine forest and white-sand beach in 5 minutes, the Old Town packs Memel-era timber houses, Theatre Square and a 12-hectare Sculpture Park, and a 24/7 referral veterinary hospital backs every itinerary.",
+    "lat": 55.7172,
+    "lng": 21.1175,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold & damp",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 7,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & damp",
+        "icon": "❄️"
+      }
+    },
+    "iata": "PLQ"
   },
   {
     "slug": "lausanne",
@@ -13058,18 +13229,66 @@
     "lat": 42.8467,
     "lng": -2.6716,
     "weather": {
-      "jan": { "temp": 5, "desc": "Cold, occasional rain", "icon": "🌧️" },
-      "feb": { "temp": 6, "desc": "Cool, mild", "icon": "🌤️" },
-      "mar": { "temp": 9, "desc": "Mild spring", "icon": "🌤️" },
-      "apr": { "temp": 11, "desc": "Mild, rainy", "icon": "🌧️" },
-      "may": { "temp": 15, "desc": "Warm, ideal", "icon": "☀️" },
-      "jun": { "temp": 18, "desc": "Warm, dry", "icon": "☀️" },
-      "jul": { "temp": 21, "desc": "Warm, sunny", "icon": "☀️" },
-      "aug": { "temp": 21, "desc": "Warm afternoons", "icon": "☀️" },
-      "sep": { "temp": 18, "desc": "Mild, ideal", "icon": "☀️" },
-      "oct": { "temp": 13, "desc": "Crisp autumn", "icon": "🍂" },
-      "nov": { "temp": 8, "desc": "Cool, rainy", "icon": "🌧️" },
-      "dec": { "temp": 6, "desc": "Cold, wet", "icon": "🌧️" }
+      "jan": {
+        "temp": 5,
+        "desc": "Cold, occasional rain",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cool, mild",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild, rainy",
+        "icon": "🌧️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold, wet",
+        "icon": "🌧️"
+      }
     },
     "iata": "VIT"
   },

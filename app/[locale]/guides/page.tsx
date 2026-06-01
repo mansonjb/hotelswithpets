@@ -128,6 +128,7 @@ const COPY: Record<string, LocaleCopy> = {
         guides: [
           { slug: 'pet-friendly-hotels-europe-guide', emoji: '📘', title: 'Pet-friendly hotels in Europe: the complete 2026 guide', desc: 'The pillar guide: chains, country rules, fees, what to ask before booking, and our 460+ audited hotels.', tag: 'Pillar' },
           { slug: 'hotel-pet-friendly', emoji: '🏨', title: 'Choosing a truly pet-friendly hotel', desc: 'Red flags to spot, green flags that matter, questions to ask before booking, the real cost of pet fees.', tag: 'Tips' },
+          { slug: 'honeymoon-with-pet', emoji: '💍', title: 'Honeymoon with your dog: 6 romantic European destinations', desc: 'Lakeside palaces, walled medieval towns and Riviera capes that genuinely welcome dogs for a week of pet-friendly romance.', tag: 'Romantic · new' },
           { slug: 'pet-travel-cost-index-europe-2026', emoji: '💶', title: 'Pet travel cost index Europe 2026', desc: 'What pet travel actually costs across 30 European cities: hotel fees, transport, vet, sitter rates, sorted and compared.', tag: 'Data' },
         ],
       },
@@ -196,6 +197,7 @@ const COPY: Record<string, LocaleCopy> = {
         guides: [
           { slug: 'pet-friendly-hotels-europe-guide', emoji: '📘', title: `Hôtels pet-friendly en Europe : le guide complet 2026`, desc: `Le guide pilier : chaînes, règles par pays, suppléments, questions à poser, et nos 460+ hôtels audités.`, tag: 'Pilier' },
           { slug: 'hotel-pet-friendly', emoji: '🏨', title: `Choisir un vrai hôtel pet-friendly`, desc: `Les red flags à repérer, les green flags qui comptent, les bonnes questions à poser et le vrai coût des frais animaux.`, tag: 'Conseils' },
+          { slug: 'honeymoon-with-pet', emoji: '💍', title: `Lune de miel avec son chien : 6 destinations romantiques européennes`, desc: `Palais en bord de lac, villes médiévales remparées et caps de la Côte d'Azur qui accueillent vraiment les chiens pour une semaine romantique pet-friendly.`, tag: 'Romantique · nouveau' },
           { slug: 'pet-travel-cost-index-europe-2026', emoji: '💶', title: `Indice coût voyage animal Europe 2026`, desc: `Ce que coûte vraiment un voyage avec animal dans 30 villes européennes : suppléments hôteliers, transport, véto, sitter.`, tag: 'Données' },
         ],
       },
@@ -264,6 +266,7 @@ const COPY: Record<string, LocaleCopy> = {
         guides: [
           { slug: 'pet-friendly-hotels-europe-guide', emoji: '📘', title: 'Hoteles pet-friendly en Europa: la guía completa 2026', desc: 'La guía pilar: cadenas, normas por país, cargos, qué preguntar antes de reservar, y nuestros 460+ hoteles auditados.', tag: 'Pilar' },
           { slug: 'hotel-pet-friendly', emoji: '🏨', title: 'Elegir un hotel realmente pet-friendly', desc: 'Red flags a detectar, green flags que importan, preguntas clave antes de reservar y el coste real de las tarifas por mascota.', tag: 'Consejos' },
+          { slug: 'honeymoon-with-pet', emoji: '💍', title: 'Luna de miel con tu perro: 6 destinos románticos europeos', desc: 'Palacios a orillas del lago, ciudades medievales amuralladas y cabos de la Costa Azul que admiten perros para una semana romántica pet-friendly.', tag: 'Romántico · nuevo' },
           { slug: 'pet-travel-cost-index-europe-2026', emoji: '💶', title: 'Índice de coste de viaje con mascota Europa 2026', desc: 'Lo que cuesta de verdad viajar con mascota en 30 ciudades europeas: cargos hoteleros, transporte, veterinario, cuidador.', tag: 'Datos' },
         ],
       },
@@ -332,6 +335,7 @@ const COPY: Record<string, LocaleCopy> = {
         guides: [
           { slug: 'pet-friendly-hotels-europe-guide', emoji: '📘', title: `Hotéis pet-friendly na Europa: o guia completo 2026`, desc: `O guia pilar: cadeias, regras por país, suplementos, perguntas a fazer antes de reservar, e os nossos 460+ hotéis auditados.`, tag: 'Pilar' },
           { slug: 'hotel-pet-friendly', emoji: '🏨', title: `Escolher um verdadeiro hotel pet-friendly`, desc: `Red flags a detectar, green flags que importam, perguntas-chave antes de reservar e o custo real das taxas por animal.`, tag: 'Dicas' },
+          { slug: 'honeymoon-with-pet', emoji: '💍', title: `Lua de mel com o seu cão: 6 destinos românticos europeus`, desc: `Palácios à beira do lago, cidades medievais muralhadas e cabos da Riviera Francesa que aceitam cães para uma semana romântica pet-friendly.`, tag: 'Romântico · novo' },
           { slug: 'pet-travel-cost-index-europe-2026', emoji: '💶', title: `Índice de custo de viagem com animal Europa 2026`, desc: `O que custa realmente viajar com animal em 30 cidades europeias: taxas hoteleiras, transporte, veterinário, cuidador.`, tag: 'Dados' },
         ],
       },

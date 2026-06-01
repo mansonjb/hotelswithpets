@@ -13020,6 +13020,33 @@
     "tiqetsId": "73352"
   },
   {
+    "slug": "vitoria-gasteiz",
+    "name": "Vitoria-Gasteiz",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/vitoria-gasteiz.jpg",
+    "intro": "Capital of the Basque Autonomous Community on the Álava plateau, European Green Capital 2012, with the 30 km Anillo Verde green belt encircling the city (Salburua wetlands with deer and storks, Olarizu botanical garden, Zabalgana cork-oak forest, Armentia oak woods, Zadorra river park). The almond-shaped Casco Medieval hilltop holds the Gothic Cathedral of Santa María and Plaza de la Virgen Blanca; 256k inhabitants, the most extensive dog-walkable urban green network in Spain.",
+    "lat": 42.8467,
+    "lng": -2.6716,
+    "weather": {
+      "jan": { "temp": 5, "desc": "Cold, occasional rain", "icon": "🌧️" },
+      "feb": { "temp": 6, "desc": "Cool, mild", "icon": "🌤️" },
+      "mar": { "temp": 9, "desc": "Mild spring", "icon": "🌤️" },
+      "apr": { "temp": 11, "desc": "Mild, rainy", "icon": "🌧️" },
+      "may": { "temp": 15, "desc": "Warm, ideal", "icon": "☀️" },
+      "jun": { "temp": 18, "desc": "Warm, dry", "icon": "☀️" },
+      "jul": { "temp": 21, "desc": "Warm, sunny", "icon": "☀️" },
+      "aug": { "temp": 21, "desc": "Warm afternoons", "icon": "☀️" },
+      "sep": { "temp": 18, "desc": "Mild, ideal", "icon": "☀️" },
+      "oct": { "temp": 13, "desc": "Crisp autumn", "icon": "🍂" },
+      "nov": { "temp": 8, "desc": "Cool, rainy", "icon": "🌧️" },
+      "dec": { "temp": 6, "desc": "Cold, wet", "icon": "🌧️" }
+    },
+    "iata": "VIT"
+  },
+  {
     "slug": "warsaw",
     "name": "Warsaw",
     "country": "Poland",

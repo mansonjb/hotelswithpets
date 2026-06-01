@@ -22557,6 +22557,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'vitoria-gasteiz': {
+    history: {
+      fr: `Vitoria-Gasteiz, capitale de la Communauté autonome basque, est née au XIIᵉ siècle sur une colline d'amande au sommet de laquelle se dresse encore aujourd'hui la cathédrale gothique de Santa María (XIIIᵉ-XIVᵉ siècles). Sa position stratégique entre la Castille, la Navarre et la France en a fait dès le Moyen Âge un carrefour commercial fortifié, et l'almendra médiévale conserve son tracé d'origine en ovales concentriques baptisés selon les corps de métiers. Au XIXᵉ siècle, la ville devient capitale de l'Álava sous le régime foral basque puis, en 1980, capitale politique de l'ensemble du Pays Basque autonome. La grande métamorphose contemporaine vient de l'environnement : Vitoria-Gasteiz est élue Capitale verte de l'Europe 2012 pour la création du Anillo Verde, ceinture de 30 km qui relie cinq grands parcs naturels (Salburua, Olarizu, Zabalgana, Armentia, Zadorra). 256 000 habitants, le réseau vert urbain le plus dog-walkable d'Espagne, et une vie de pintxos profondément basque dans le Casco Medieval.`,
+      en: `Vitoria-Gasteiz, capital of the Basque Autonomous Community, was born in the 12th century on an almond-shaped hill crowned to this day by the Gothic Cathedral of Santa María (13th-14th centuries). Its strategic position between Castile, Navarre and France made it a fortified commercial crossroads from the Middle Ages onward, and the medieval almendra preserves its original layout in concentric ovals named after craft guilds. In the 19th century the city became the capital of Álava under the Basque foral regime, and in 1980 the political capital of the entire Basque Autonomous Community. The major contemporary metamorphosis is environmental: Vitoria-Gasteiz was elected European Green Capital in 2012 for the creation of the Anillo Verde, a 30 km belt linking five large nature parks (Salburua, Olarizu, Zabalgana, Armentia, Zadorra). 256,000 inhabitants, the most dog-walkable urban green network in Spain, and a deeply Basque pintxos life in the Casco Medieval.`,
+      es: `Vitoria-Gasteiz, capital de la Comunidad Autónoma del País Vasco, nació en el siglo XII sobre una colina en almendra coronada todavía hoy por la catedral gótica de Santa María (siglos XIII-XIV). Su posición estratégica entre Castilla, Navarra y Francia la convirtió desde la Edad Media en una encrucijada comercial fortificada, y la almendra medieval conserva su trazado original en óvalos concéntricos nombrados según los gremios. En el siglo XIX la ciudad se convierte en capital de Álava bajo el régimen foral vasco, y en 1980 en capital política de toda la Comunidad Autónoma Vasca. La gran metamorfosis contemporánea es ambiental: Vitoria-Gasteiz es elegida Capital Verde Europea en 2012 por la creación del Anillo Verde, cinturón de 30 km que conecta cinco grandes parques naturales (Salburua, Olarizu, Zabalgana, Armentia, Zadorra). 256 000 habitantes, la red verde urbana más caminable con perro de España, y una vida de pintxos profundamente vasca en el Casco Medieval.`,
+      pt: `Vitoria-Gasteiz, capital da Comunidade Autónoma Basca, nasceu no século XII sobre uma colina em amêndoa coroada ainda hoje pela catedral gótica de Santa María (séculos XIII-XIV). A sua posição estratégica entre Castela, Navarra e França fez dela desde a Idade Média uma encruzilhada comercial fortificada, e a amêndoa medieval conserva o seu traçado original em óvalos concêntricos nomeados segundo as corporações. No século XIX a cidade torna-se capital de Álava sob o regime foral basco, e em 1980 capital política de toda a Comunidade Autónoma Basca. A grande metamorfose contemporânea é ambiental: Vitoria-Gasteiz é eleita Capital Verde Europeia em 2012 pela criação do Anillo Verde, cinto de 30 km que liga cinco grandes parques naturais (Salburua, Olarizu, Zabalgana, Armentia, Zadorra). 256 000 habitantes, a rede verde urbana mais caminhável com cão de Espanha, e uma vida de pintxos profundamente basca no Casco Medieval.`,
+    },
+    sights: [
+      {
+        name: `Catedral de Santa María (Casco Medieval)`,
+        emoji: `⛪`,
+        petFriendly: false,
+        desc: {
+          fr: `Cathédrale gothique des XIIIᵉ-XIVᵉ siècles, conçue comme église-forteresse intégrée à la défense urbaine, célèbre pour le programme de restauration Open for Works qui se visite en visite guidée payante (sur réservation). Les animaux ne sont pas admis à l'intérieur, mais la Plaza Burullería et le chemin de ronde du chevet sont dog-friendly.`,
+          en: `13th-14th century Gothic cathedral, designed as a fortress-church integrated into the city defences, famous for the Open for Works restoration programme visitable on paid guided tour (advance booking). Pets are not allowed inside, but the Plaza Burullería and the rampart path around the apse are dog-friendly.`,
+          es: `Catedral gótica de los siglos XIII-XIV, concebida como iglesia-fortaleza integrada en la defensa urbana, célebre por el programa de restauración Abierto por Obras visitable en tour guiado de pago (reserva previa). Los animales no están admitidos dentro, pero la Plaza Burullería y el camino de ronda del ábside son dog-friendly.`,
+          pt: `Catedral gótica dos séculos XIII-XIV, concebida como igreja-fortaleza integrada na defesa urbana, célebre pelo programa de restauro Aberto por Obras visitável em tour guiado pago (marcação prévia). Os animais não são admitidos dentro, mas a Plaza Burullería e o caminho de ronda da abside são dog-friendly.`,
+        },
+      },
+      {
+        name: `Plaza de la Virgen Blanca`,
+        emoji: `🏛️`,
+        petFriendly: true,
+        desc: {
+          fr: `Cœur civique de Vitoria-Gasteiz au pied du Casco Medieval, dominé par l'Iglesia de San Miguel et le monument de 1917 à la Bataille de Vitoria. Plaza piétonne ouverte aux chiens en laisse 24h, bordée de terrasses dog-friendly.`,
+          en: `Civic heart of Vitoria-Gasteiz at the foot of the Casco Medieval, dominated by the Iglesia de San Miguel and the 1917 monument to the Battle of Vitoria. Pedestrian plaza open to leashed dogs 24h, lined with dog-friendly terraces.`,
+          es: `Corazón cívico de Vitoria-Gasteiz al pie del Casco Medieval, dominado por la Iglesia de San Miguel y el monumento de 1917 a la Batalla de Vitoria. Plaza peatonal abierta a perros con correa 24h, bordeada de terrazas dog-friendly.`,
+          pt: `Coração cívico de Vitoria-Gasteiz aos pés do Casco Medieval, dominado pela Iglesia de San Miguel e pelo monumento de 1917 à Batalha de Vitoria. Praça pedonal aberta a cães com trela 24h, bordejada por esplanadas dog-friendly.`,
+        },
+      },
+      {
+        name: `Parque de Salburua`,
+        emoji: `🦌`,
+        petFriendly: true,
+        desc: {
+          fr: `Une des plus grandes zones humides urbaines d'Europe, à 3 km à l'est du centre, avec hardes de cerfs, vison d'Europe et spatules observables depuis les pontons. Chiens en laisse sur pontons (protection faune), zone sans laisse balisée dans la moitié ouest du parc.`,
+          en: `One of Europe's largest urban wetlands, 3 km east of the centre, with deer herds, European mink and spoonbills viewable from the boardwalks. Leashed dogs on boardwalks (wildlife protection), signposted off-leash zone in the western half of the park.`,
+          es: `Uno de los humedales urbanos más grandes de Europa, a 3 km al este del centro, con manadas de ciervos, visón europeo y espátulas observables desde las pasarelas. Perros con correa en pasarelas (protección de fauna), zona de suelta señalizada en la mitad oeste del parque.`,
+          pt: `Uma das maiores zonas húmidas urbanas da Europa, a 3 km a leste do centro, com manadas de cervos, vison europeu e colhereiros observáveis a partir dos passadiços. Cães com trela em passadiços (proteção de fauna), zona de soltura sinalizada na metade oeste do parque.`,
+        },
+      },
+      {
+        name: `Parque de Armentia`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          fr: `Chênaie-pinède protégée de 160 hectares sur le flanc sud de la ville, classée zone sans laisse intégrale pour les races non dangereuses. La plus grande forêt sans laisse de l'Anillo Verde et l'option la plus ombragée par grosses chaleurs.`,
+          en: `A 160-hectare protected oak and pine forest on the southern flank of the city, listed as a full off-leash zone for non-dangerous breeds. The largest off-leash forest in the Anillo Verde and the shadiest option in summer heat.`,
+          es: `Encinar-pinar protegido de 160 hectáreas en el flanco sur de la ciudad, calificado zona de suelta integral para razas no peligrosas. El mayor bosque sin correa del Anillo Verde y la opción más sombreada en olas de calor.`,
+          pt: `Carvalhal-pinhal protegido de 160 hectares no flanco sul da cidade, classificado zona de soltura integral para raças não perigosas. O maior bosque sem trela do Anillo Verde e a opção mais sombreada em vagas de calor.`,
+        },
+      },
+      {
+        name: `Parque de Olarizu y Jardín Botánico`,
+        emoji: `🌿`,
+        petFriendly: true,
+        desc: {
+          fr: `Lobe sud de l'Anillo Verde avec un jardin botanique de 28 hectares dédié à la flore ibérique native et un réseau de sentiers de prairie. Chiens en laisse partout, zone sans laisse balisée sur les prairies hautes.`,
+          en: `Southern lobe of the Anillo Verde with a 28-hectare botanical garden showcasing native Iberian flora and a network of meadow trails. Leashed dogs everywhere, signposted off-leash zone on the upper meadows.`,
+          es: `Lóbulo sur del Anillo Verde con un jardín botánico de 28 hectáreas dedicado a la flora ibérica nativa y una red de senderos de pradera. Perros con correa en todo, zona de suelta señalizada en las praderas altas.`,
+          pt: `Lobo sul do Anillo Verde com um jardim botânico de 28 hectares dedicado à flora ibérica nativa e uma rede de trilhos de prado. Cães com trela em tudo, zona de soltura sinalizada nos prados altos.`,
+        },
+      },
+      {
+        name: `Casco Medieval (almendra)`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          fr: `La vieille ville médiévale en forme d'amande grimpe la colline en ovales concentriques de rues pavées (Herrería, Cuchillería, Zapatería, Correría), entièrement piétonnes et ouvertes aux chiens en laisse. Fresques, églises, bars à pintxos sur tout le parcours.`,
+          en: `The almond-shaped medieval old town climbs the hilltop in concentric ovals of cobbled streets (Herrería, Cuchillería, Zapatería, Correría), fully pedestrianised and open to leashed dogs. Murals, churches, pintxo bars throughout the loop.`,
+          es: `El casco medieval en forma de almendra trepa por la colina en óvalos concéntricos de calles empedradas (Herrería, Cuchillería, Zapatería, Correría), totalmente peatonales y abiertas a perros con correa. Murales, iglesias y bares de pintxos a lo largo del recorrido.`,
+          pt: `O casco medieval em forma de amêndoa sobe a colina em óvalos concêntricos de ruas calcetadas (Herrería, Cuchillería, Zapatería, Correría), totalmente pedonais e abertas a cães com trela. Murais, igrejas, bares de pintxos ao longo do percurso.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Anillo Verde: la Mairie publie un guide Citoyen-et-Chien sur son site officiel et balise des zones sans laisse à l'intérieur d'Armentia, Zabalgana, Olarizu et Salburua. Hors zones balisées, la laisse est obligatoire dans toute l'agglomération.`,
+        `Salburua impose la laisse sur les pontons (protection faune) ; Armentia est la seule grande forêt totalement sans laisse pour les races non dangereuses. Adaptez le parc à la sortie souhaitée.`,
+        `Bus TUVISA: seulement chiens d'assistance et petits animaux en cage fermée homologuée. Pour les chiens moyens et grands, le tram Euskotren est la seule option transport public en ville et il accepte toutes tailles en laisse.`,
+        `Loi espagnole 7/2023 plus ordonnance municipale 2024: amende jusqu'à 100 EUR pour déjection non ramassée. Les distributeurs de sacs sont nombreux dans les parcs et autour de la Plaza Virgen Blanca.`,
+        `Races potentiellement dangereuses (Pit Bull, Rottweiler, Staffordshire entre autres): registre régional basque + muselière + assurance responsabilité civile + permis de la Mairie obligatoires.`,
+      ],
+      en: [
+        `Anillo Verde: the City Council publishes a Citizen-and-Dog handbook on its official website and signposts off-leash zones inside Armentia, Zabalgana, Olarizu and Salburua. Outside those signposted zones, leash is mandatory throughout the agglomeration.`,
+        `Salburua requires leashing on the boardwalks (wildlife protection); Armentia is the only large forest fully off-leash for non-dangerous breeds. Match the park to the kind of walk you want.`,
+        `TUVISA bus: only assistance dogs and small pets in approved closed carriers. For medium and large dogs, the Euskotren tram is the only public-transport option in town and it accepts all sizes on a leash.`,
+        `Spanish law 7/2023 plus municipal ordinance 2024: fine up to 100 EUR for dog waste not picked up. Free bag dispensers are plentiful inside the parks and around Plaza Virgen Blanca.`,
+        `Potentially-dangerous breeds (Pit Bull, Rottweiler, Staffordshire among others): regional Basque registry + muzzle + third-party insurance + municipal licence are mandatory.`,
+      ],
+      es: [
+        `Anillo Verde: el Ayuntamiento publica una guía Ciudadano-y-Perro en su web oficial y señaliza zonas de suelta dentro de Armentia, Zabalgana, Olarizu y Salburua. Fuera de esas zonas señalizadas, la correa es obligatoria en toda la aglomeración.`,
+        `Salburua exige correa en las pasarelas (protección de fauna); Armentia es el único gran bosque totalmente sin correa para razas no peligrosas. Adapta el parque al paseo que buscas.`,
+        `Autobús TUVISA: solo perros de asistencia y mascotas pequeñas en transportín cerrado homologado. Para perros medianos y grandes, el tranvía Euskotren es la única opción de transporte público en la ciudad y admite todas las tallas con correa.`,
+        `Ley española 7/2023 más ordenanza municipal 2024: multa de hasta 100 EUR por deyección no recogida. Los dispensadores de bolsas son numerosos en los parques y en torno a la Plaza Virgen Blanca.`,
+        `Razas potencialmente peligrosas (Pit Bull, Rottweiler, Staffordshire entre otras): registro regional vasco + bozal + seguro de responsabilidad civil + licencia del Ayuntamiento obligatorios.`,
+      ],
+      pt: [
+        `Anillo Verde: a Câmara publica um guia Cidadão-e-Cão no seu site oficial e sinaliza zonas de soltura dentro de Armentia, Zabalgana, Olarizu e Salburua. Fora dessas zonas sinalizadas, a trela é obrigatória em toda a aglomeração.`,
+        `Salburua exige trela nos passadiços (proteção de fauna); Armentia é a única grande floresta totalmente sem trela para raças não perigosas. Adapte o parque ao passeio que pretende.`,
+        `Autocarro TUVISA: apenas cães de assistência e animais pequenos em caixa fechada homologada. Para cães médios e grandes, o elétrico Euskotren é a única opção de transporte público na cidade e admite todos os tamanhos com trela.`,
+        `Lei espanhola 7/2023 mais ordenança municipal 2024: multa até 100 EUR por dejeção não apanhada. Os dispensadores de sacos são numerosos nos parques e à volta da Plaza Virgen Blanca.`,
+        `Raças potencialmente perigosas (Pit Bull, Rottweiler, Staffordshire entre outras): registo regional basco + açaime + seguro de responsabilidade civil + licença da Câmara obrigatórios.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport: Vitoria-Foronda (VIT) à 9 km au nord, vols cargo dominants et quelques lignes passagers; alternative habituelle Bilbao (BIO) à 1h en bus avec vols européens fréquents.`,
+        `Vétérinaire d'urgence: Hospital Veterinario Gasteiz, Avenida del Cantábrico 12, +34 945 493 004, urgences 24h sans rendez-vous 365 jours par an.`,
+        `Vétérinaire de jour: Centro Veterinario Álava et Clínica Veterinaria Zabalgana (Pío XII) couvrent les consultations courantes et les passeports européens.`,
+        `Climat plateau Álava: hivers froids et pluvieux (5-6 °C), étés courts mais lumineux (21 °C en juillet), prévoyez une serviette et de l'eau additionnelle, l'altitude (520 m) accentue le rafraîchissement nocturne.`,
+        `Loi espagnole: passeport européen, puce ISO et vaccination antirabique en cours de validité requis pour tout chien transfrontalier; à 60 km de la frontière française Hendaye-Irun, contrôles fréquents en saison.`,
+      ],
+      en: [
+        `Airport: Vitoria-Foronda (VIT) 9 km north, dominated by cargo flights with a few passenger routes; the standard alternative is Bilbao (BIO) 1h away by bus with frequent European flights.`,
+        `Emergency vet: Hospital Veterinario Gasteiz, Avenida del Cantábrico 12, +34 945 493 004, 24h walk-in emergencies 365 days a year.`,
+        `Daytime vets: Centro Veterinario Álava and Clínica Veterinaria Zabalgana (Pío XII) cover routine consultations and EU pet passports.`,
+        `Álava plateau climate: cold rainy winters (5-6 °C), short bright summers (21 °C in July), pack a towel and extra water, the altitude (520 m) sharpens overnight cooling.`,
+        `Spanish law: EU pet passport, ISO microchip and valid rabies vaccination required for any cross-border dog; 60 km from the Hendaye-Irun French border, frequent checks in season.`,
+      ],
+      es: [
+        `Aeropuerto: Vitoria-Foronda (VIT) a 9 km al norte, dominado por vuelos de carga y algunas rutas de pasajeros; la alternativa habitual es Bilbao (BIO) a 1h en autobús con frecuentes vuelos europeos.`,
+        `Veterinario de urgencias: Hospital Veterinario Gasteiz, Avenida del Cantábrico 12, +34 945 493 004, urgencias 24h sin cita 365 días al año.`,
+        `Veterinarios de día: Centro Veterinario Álava y Clínica Veterinaria Zabalgana (Pío XII) cubren las consultas rutinarias y los pasaportes europeos.`,
+        `Clima altiplano Álava: inviernos fríos y lluviosos (5-6 °C), veranos cortos pero luminosos (21 °C en julio), lleva una toalla y agua extra, la altitud (520 m) agudiza el enfriamiento nocturno.`,
+        `Ley española: pasaporte europeo, chip ISO y vacuna antirrábica vigente requeridos para todo perro transfronterizo; a 60 km de la frontera francesa Hendaya-Irún, controles frecuentes en temporada.`,
+      ],
+      pt: [
+        `Aeroporto: Vitoria-Foronda (VIT) a 9 km a norte, dominado por voos de carga e algumas rotas de passageiros; a alternativa habitual é Bilbao (BIO) a 1h de autocarro com frequentes voos europeus.`,
+        `Veterinário de urgência: Hospital Veterinario Gasteiz, Avenida del Cantábrico 12, +34 945 493 004, urgências 24h sem marcação 365 dias por ano.`,
+        `Veterinários de dia: Centro Veterinario Álava e Clínica Veterinaria Zabalgana (Pío XII) cobrem as consultas rotineiras e os passaportes europeus.`,
+        `Clima planalto Álava: invernos frios e chuvosos (5-6 °C), verões curtos mas luminosos (21 °C em julho), leve uma toalha e água extra, a altitude (520 m) acentua o arrefecimento noturno.`,
+        `Lei espanhola: passaporte europeu, chip ISO e vacina antirrábica em vigor requeridos para todo cão transfronteiriço; a 60 km da fronteira francesa Hendaia-Irun, controlos frequentes em época alta.`,
+      ],
+    },
+  },
+
   warsaw: {
     history: {
       fr: `Varsovie est une ville qui s'est reconstruite brique après brique. Détruite à 85 % pendant la Seconde Guerre mondiale, sa Vieille Ville a été restaurée à partir de tableaux et dessins d'avant-guerre, lui valant une reconnaissance UNESCO comme symbole de résilience. Aujourd'hui, la capitale polonaise superpose le Palais de la Culture communiste et des gratte-ciel de verre, reliant résidences royales et nature fluviale par des avenues ombragées comme Nowy Świat et Krakowskie Przedmieście. Varsovie est devenue, discrètement, l'une des capitales les plus dog-friendly d'Europe : presque tous les parcs acceptent les chiens em laisse, beaucoup de cafés de Śródmieście et Saska Kępa arborent le sticker 'pies mile widziany' (chien bienvenu), et les berges de la Vistule sont devenues un vrai sanctuaire urbain. La culture canine polonaise mêle ici pragmatisme et chaleur, et chiens de travail comme bâtards adoptés sont traités em membres de la famille sur chaque tram et terrasse.`,

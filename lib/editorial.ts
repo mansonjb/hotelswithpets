@@ -892,6 +892,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Vingis Park forest, Bernardinai Garden, and the Three Crosses hill',
       area: 'the Old Town, Užupis, and Šnipiškės',
     },
+    'vitoria-gasteiz': {
+      personality: 'the capital of the Basque Autonomous Community and European Green Capital 2012, with a 30 km Anillo Verde belt of five connected nature parks that together form the most extensive dog-walkable urban green network in Spain',
+      highlight: 'the Salburua wetlands with their deer herds, the 160-hectare off-leash Armentia oak forest, and the Olarizu botanical garden',
+      area: 'the almond-shaped Casco Medieval hilltop, the Plaza de la Virgen Blanca civic core, and the new Zabalgana western district',
+    },
     warsaw: {
       personality: 'a rapidly modernising European capital where pet-friendly hotels are increasingly the norm and riverside parks offer excellent walking',
       highlight: 'Łazienki Park, the Vistula riverside boulevards, and the Kampinos forest on the city\'s edge',
@@ -1803,6 +1808,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la capitale la plus verte de l\'UE et l\'une des plus accueillantes pour les chiens, où les animaux voyagent gratuitement dans tous les bus et près de 500 adresses pet-friendly se concentrent dans la vieille ville UNESCO',
       highlight: 'la forêt du Vingis, le jardin Bernardine et la colline des Trois Croix',
       area: 'la vieille ville, Užupis et Šnipiškės',
+    },
+    'vitoria-gasteiz': {
+      personality: 'la capitale de la Communauté autonome basque et Capitale verte de l\'Europe 2012, avec un Anillo Verde de 30 km composé de cinq parcs naturels reliés qui forment ensemble le réseau vert urbain le plus dog-walkable d\'Espagne',
+      highlight: 'la zone humide de Salburua et ses hardes de cerfs, la forêt sans laisse de 160 ha d\'Armentia et le jardin botanique d\'Olarizu',
+      area: 'la colline en amande du Casco Medieval, le cœur civique de la Plaza de la Virgen Blanca et le nouveau quartier ouest de Zabalgana',
     },
     warsaw: {
       personality: 'une capitale européenne en pleine modernisation où les hôtels pet-friendly sont de plus en plus la norme et les parcs riverains offrent d\'excellentes promenades',
@@ -2716,6 +2726,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el bosque de Vingis, el Bernardine Garden y la colina de las Tres Cruces',
       area: 'el casco antiguo, Užupis y Šnipiškės',
     },
+    'vitoria-gasteiz': {
+      personality: 'la capital de la Comunidad Autónoma del País Vasco y Capital Verde Europea 2012, con un Anillo Verde de 30 km compuesto por cinco parques naturales conectados que forman juntos la red verde urbana más caminable con perro de España',
+      highlight: 'el humedal de Salburua con sus manadas de ciervos, el bosque de suelta de 160 ha de Armentia y el jardín botánico de Olarizu',
+      area: 'la colina en almendra del Casco Medieval, el corazón cívico de la Plaza de la Virgen Blanca y el nuevo barrio oeste de Zabalgana',
+    },
     warsaw: {
       personality: 'una capital europea en rápida modernización donde los hoteles pet-friendly son cada vez más la norma y los parques ribereños ofrecen excelentes paseos',
       highlight: 'el Parque Łazienki, los bulevares ribereños del Vístula y el bosque de Kampinos en las afueras',
@@ -3627,6 +3642,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital mais verde da UE e uma das mais acogedoras com cães, onde as animais viajan grátis en todos os autocarros e casi 500 direcciones pet-friendly se concentran no centro histórico UNESCO',
       highlight: 'o floresta de Vingis, o Bernardine Garden e a colina das Tres Cruces',
       area: 'o centro histórico, Užupis e Šnipiškės',
+    },
+    'vitoria-gasteiz': {
+      personality: 'a capital da Comunidade Autónoma Basca e Capital Verde Europeia 2012, com um Anillo Verde de 30 km composto por cinco parques naturais ligados que formam em conjunto a rede verde urbana mais caminhável com cão de Espanha',
+      highlight: 'a zona húmida de Salburua com as suas manadas de cervos, a floresta de soltura de 160 ha de Armentia e o jardim botânico de Olarizu',
+      area: 'a colina em amêndoa do Casco Medieval, o coração cívico da Plaza de la Virgen Blanca e o novo bairro oeste de Zabalgana',
     },
     warsaw: {
       personality: 'uma capital europeia en rápida modernización onde os hotéis pet-friendly são cada vez mais a norma e os parques riberenhos ofrecen excelentes passeios',

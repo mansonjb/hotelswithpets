@@ -33,7 +33,11 @@
           "tip": "Sit on the terrace facing the Dane river for the best view and the unrushed pace; ask staff in English, widely spoken in tourist-facing venues.",
           "tipFr": "Asseyez-vous sur la terrasse face à la rivière Dane pour la meilleure vue et le rythme tranquille ; demandez en anglais, largement parlé dans les lieux touristiques.",
           "tipEs": "Siéntate en la terraza frente al río Dane para la mejor vista y el ritmo tranquilo; pregunta en inglés, ampliamente hablado en lugares turísticos.",
-          "googleMapsUrl": "https://maps.google.com/?q=The+Seven+Pub+Klaipeda"
+          "googleMapsUrl": "https://maps.google.com/?q=The+Seven+Pub+Klaipeda",
+          "descriptionPt": "Um pub informal do centro histórico num edifício histórico reconvertido junto al rio Dane, popular entre os locales pela cerveza artesanal e a comida de pub. Os cães são claramente bem-vindos: as resenhas indican que o personal trae um cuenco de água sem pedirlo na esplanada frente al passeio fluvial.",
+          "petPolicyPt": "Cães bem-vindos na esplanada fluvial; cães com trela bien educados aceites dentro do pub en meses frios segundo as resenhas.",
+          "mustTryPt": "Cerveza artesanal local e hamburguesa de pub.",
+          "tipPt": "Siéntate na esplanada frente al rio Dane para a melhor vista e o ritmo tranquilo; pregunta en inglês, ampliamente hablado en lugares turísticos."
         },
         {
           "name": "Draugiski Gyvunams network venues",
@@ -55,7 +59,11 @@
           "tip": "Use Google Translate's camera mode on the Lithuanian-only listings; the green dog sticker on the door is the universal signal.",
           "tipFr": "Utilisez le mode caméra de Google Translate sur les fiches en lituanien ; l'autocollant chien vert sur la porte est le signal universel.",
           "tipEs": "Usa el modo cámara de Google Translate en las fichas en lituano; la pegatina verde de perro en la puerta es la señal universal.",
-          "googleMapsUrl": "https://draugiskigyvunams.lt"
+          "googleMapsUrl": "https://draugiskigyvunams.lt",
+          "descriptionPt": "O registro nacional oficial de establecimientos pet-friendly creado por amantes dois animales lituanos en 2017 lista cada café, restaurante e tienda que muestra a pegatina verde Draugiski Gyvunams. A web (só en lituano) permite filtrar por cidade; o mapa de Klaipeda inclui varios cafés e panaderías do centro.",
+          "petPolicyPt": "Pegatina na puerta = cães explícitamente bem-vindos a discreción do propietario; generalmente com trela e silenciosos esperados.",
+          "mustTryPt": "Usa o mapa do sitio para localizar lugares marcados perto de tu hotel.",
+          "tipPt": "Usa o modo cámara de Google Translate nas fichas en lituano; a pegatina verde de cão na puerta é a senhal universal."
         }
       ],
       "tipsEn": [
@@ -74,19 +82,67 @@
         "La temporada de terraza lituana es corta (mayo a septiembre); fuera de temporada, pregunta explícitamente antes de entrar ya que el clima báltico empuja la mayoría de las comidas al interior."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in Klaipeda restaurants?", "a": "On terraces, very commonly. Inside, only at establishments displaying the Draugiski Gyvunams sticker or that explicitly say yes when asked. The nationwide registry lists nearly 500 venues."},
-        {"q": "Where is the Pet Friendly network listed?", "a": "On draugiskigyvunams.lt, a Lithuanian-only website with a city map. Use Google Translate to navigate it."},
-        {"q": "Do staff in Klaipeda speak English?", "a": "Yes, especially in tourist-facing pubs and restaurants in the Old Town. Younger staff are typically fluent."}
+        {
+          "q": "Are dogs allowed in Klaipeda restaurants?",
+          "a": "On terraces, very commonly. Inside, only at establishments displaying the Draugiski Gyvunams sticker or that explicitly say yes when asked. The nationwide registry lists nearly 500 venues."
+        },
+        {
+          "q": "Where is the Pet Friendly network listed?",
+          "a": "On draugiskigyvunams.lt, a Lithuanian-only website with a city map. Use Google Translate to navigate it."
+        },
+        {
+          "q": "Do staff in Klaipeda speak English?",
+          "a": "Yes, especially in tourist-facing pubs and restaurants in the Old Town. Younger staff are typically fluent."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils admis dans les restaurants de Klaipeda ?", "a": "Sur les terrasses, très couramment. À l'intérieur, uniquement dans les établissements affichant l'autocollant Draugiski Gyvunams ou qui disent oui explicitement quand on demande. Le registre national recense près de 500 lieux."},
-        {"q": "Où est listé le réseau Pet Friendly ?", "a": "Sur draugiskigyvunams.lt, un site en lituanien uniquement avec une carte par ville. Utilisez Google Translate pour le naviguer."},
-        {"q": "Le personnel à Klaipeda parle-t-il anglais ?", "a": "Oui, surtout dans les pubs et restaurants touristiques de la vieille ville. Les jeunes employés sont généralement à l'aise."}
+        {
+          "q": "Les chiens sont-ils admis dans les restaurants de Klaipeda ?",
+          "a": "Sur les terrasses, très couramment. À l'intérieur, uniquement dans les établissements affichant l'autocollant Draugiski Gyvunams ou qui disent oui explicitement quand on demande. Le registre national recense près de 500 lieux."
+        },
+        {
+          "q": "Où est listé le réseau Pet Friendly ?",
+          "a": "Sur draugiskigyvunams.lt, un site en lituanien uniquement avec une carte par ville. Utilisez Google Translate pour le naviguer."
+        },
+        {
+          "q": "Le personnel à Klaipeda parle-t-il anglais ?",
+          "a": "Oui, surtout dans les pubs et restaurants touristiques de la vieille ville. Les jeunes employés sont généralement à l'aise."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en los restaurantes de Klaipeda?", "a": "En terrazas, muy comúnmente. Dentro, solo en establecimientos que muestran la pegatina Draugiski Gyvunams o que dicen sí expresamente al preguntar. El registro nacional lista cerca de 500 locales."},
-        {"q": "¿Dónde está listada la red Pet Friendly?", "a": "En draugiskigyvunams.lt, una web solo en lituano con un mapa por ciudad. Usa Google Translate para navegarla."},
-        {"q": "¿El personal en Klaipeda habla inglés?", "a": "Sí, especialmente en los pubs y restaurantes turísticos del Casco Antiguo. El personal joven suele ser fluido."}
+        {
+          "q": "¿Se admiten perros en los restaurantes de Klaipeda?",
+          "a": "En terrazas, muy comúnmente. Dentro, solo en establecimientos que muestran la pegatina Draugiski Gyvunams o que dicen sí expresamente al preguntar. El registro nacional lista cerca de 500 locales."
+        },
+        {
+          "q": "¿Dónde está listada la red Pet Friendly?",
+          "a": "En draugiskigyvunams.lt, una web solo en lituano con un mapa por ciudad. Usa Google Translate para navegarla."
+        },
+        {
+          "q": "¿El personal en Klaipeda habla inglés?",
+          "a": "Sí, especialmente en los pubs y restaurantes turísticos del Casco Antiguo. El personal joven suele ser fluido."
+        }
+      ],
+      "titlePt": "Restaurantes com animais en Klaipeda",
+      "introPt": "Klaipeda forma parte da red nacional Draugiski Gyvunams (Pet Friendly) lanzada en Lituania en 2017, que recoge perto de 500 cafés e restaurantes en todo o país que muestran a pegatina oficial de animais bem-vindas na puerta. No Centro histórico e a lo largo do rio Dane, varios pubs e restaurantes informales admitem cães com trela en esplanadas en verão e dentro dois pubs mais relajados durante o ano inteiro. O clima costero lituano faz que a temporada de esplanada vaya de maio a setembro aproximadamente; fora de eso, a maioria dois duenhos de cães optan por comida para levar o os poucos locales que admitem cães expresamente dentro. Comprueba sempre a pegatina o pregunta al personal antes de sentarte.",
+      "tipsPt": [
+        "Busca a pegatina verde Draugiski Gyvunams com a pata de cão na puerta, é a senhal nacional pet-friendly lanzada en 2017.",
+        "As esplanadas do centro histórico a lo largo das ruas Zveju e Tiltu concentran os pubs e restaurantes informales que admitem cães.",
+        "A temporada de esplanada lituana é corta (maio a setembro); fora de temporada, pregunta explícitamente antes de entrar ya que o clima báltico empuja a maioria das comidas al interior."
+      ],
+      "faqsPt": [
+        {
+          "q": "Se admitem cães nos restaurantes de Klaipeda?",
+          "a": "En esplanadas, muito comúnmente. Dentro, só en establecimientos que muestran a pegatina Draugiski Gyvunams o que dicen sí expresamente al preguntar. O registro nacional lista perto de 500 locales."
+        },
+        {
+          "q": "Dónde está listada a red Pet Friendly?",
+          "a": "En draugiskigyvunams.lt, uma web só en lituano com um mapa por cidade. Usa Google Translate para navegarla."
+        },
+        {
+          "q": "O personal en Klaipeda habla inglês?",
+          "a": "Sí, especialmente nos pubs e restaurantes turísticos do centro histórico. O personal jovem costuma ser fluido."
+        }
       ]
     },
     "parks": {
@@ -117,7 +173,11 @@
           "tip": "Enter from Liepu street near the Klaipeda History Museum for the shortest loop past the most striking sculptures.",
           "tipFr": "Entrez par la rue Liepu près du Musée d'Histoire de Klaipeda pour la boucle la plus courte passant par les sculptures les plus marquantes.",
           "tipEs": "Entra por la calle Liepu cerca del Museo de Historia de Klaipeda para el circuito más corto pasando por las esculturas más llamativas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Klaipeda+Sculpture+Park"
+          "googleMapsUrl": "https://maps.google.com/?q=Klaipeda+Sculpture+Park",
+          "descriptionPt": "Fundado en 1977 no emplazamiento de um antigo cementerio, o parque de 12 hectáreas é uma galería al aire libre com 116 esculturas lituanas modernas de 67 artistas, entre árvores maduros e trilhos de grava. Tranquilo, céntrico e sombreado; uno dois passeios mais agradables do centro para um cão com trela.",
+          "petPolicyPt": "Cães com trela bem-vindos en todos os trilhos; recoge os excrementos.",
+          "facilitiesPt": "Bancos, trilhos de grava, aseos públicos perto da entrada por Liepu.",
+          "tipPt": "Entra pela rua Liepu perto do Museu de História de Klaipeda para o circuito mais corto pasando pelas esculturas mais llamativas."
         },
         {
           "name": "Trinyciai Pond Dog Park",
@@ -139,7 +199,11 @@
           "tip": "Best between 18:00 and 20:00 on weekdays when local owners gather, your dog will meet the regulars.",
           "tipFr": "Idéal entre 18h et 20h en semaine quand les propriétaires locaux se retrouvent, votre chien rencontrera les habitués.",
           "tipEs": "Ideal entre 18:00 y 20:00 entre semana cuando los dueños locales se reúnen, tu perro conocerá a los habituales.",
-          "googleMapsUrl": "https://maps.google.com/?q=Trinyciai+Klaipeda"
+          "googleMapsUrl": "https://maps.google.com/?q=Trinyciai+Klaipeda",
+          "descriptionPt": "Um recinto canino municipal oficial, completamente vallado, junto al estanque Trinyciai a norte da cidade. Amplia pradaria, trilhos de grava alrededor do água, entrada libre e punto de encontro fiable dois duenhos de cães de Klaipeda al final da tarde.",
+          "petPolicyPt": "Sem trela dentro do recinto vallado; trela obrigatória nos acessos e alrededor do estanque fora do recinto.",
+          "facilitiesPt": "Recinto vallado, bancos, papeleras; sem grifo no lugar, leva tu cuenco.",
+          "tipPt": "Ideal entre 18:00 e 20:00 entre semana quando os duenhos locales se reúnen, tu cão conocerá aos habituales."
         },
         {
           "name": "Smiltyne Forest",
@@ -161,7 +225,11 @@
           "tip": "Take the free pedestrian ferry (Senoji perkela / Old Castle), dogs cross at no extra charge, then walk 10 minutes through the forest to the beach.",
           "tipFr": "Prenez le ferry piéton gratuit (Senoji perkela / Old Castle), les chiens passent sans surcoût, puis marchez 10 minutes à travers la forêt jusqu'à la plage.",
           "tipEs": "Toma el ferry peatonal gratuito (Senoji perkela / Old Castle), los perros cruzan sin coste extra, luego camina 10 minutos por el bosque hasta la playa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Smiltyne+Klaipeda"
+          "googleMapsUrl": "https://maps.google.com/?q=Smiltyne+Klaipeda",
+          "descriptionPt": "O floresta de pinos e caducifolios que cubre a punta norte do Istmo de Curlandia, frente al Centro histórico de Klaipeda e acessível mediante o ferry peatonal gratuito a partir da terminal Old Castle. Trilhos arenosos blandos, abundante sombra e acesso directo a as dunas e a praia para passeios veraniegos frescos.",
+          "petPolicyPt": "Trela obrigatória en todo o Parque Nacional do Istmo de Curlandia, floresta incluido; é uma reserva de biosfera UNESCO com fauna protegida.",
+          "facilitiesPt": "Trilhos senhalizados, áreas de pícnic, aseos públicos perto da terminal do ferry.",
+          "tipPt": "Toma o ferry peatonal gratuito (Senoji perkela / Old Castle), os cães cruzan sem coste extra, luego caminha 10 minutos pelo floresta até a praia."
         }
       ],
       "tipsEn": [
@@ -180,19 +248,67 @@
         "El lado de Smiltyne de la laguna pertenece a una reserva de biosfera UNESCO, los perros deben permanecer en los senderos señalizados y fuera de las zonas de restauración de dunas."
       ],
       "faqsEn": [
-        {"q": "Where can dogs go off-leash in Klaipeda?", "a": "Only inside official fenced enclosures (sunu vedziojimo aikstele), including the one by Trinyciai Pond and Draugystes Park in the south. Elsewhere, leashes are mandatory."},
-        {"q": "Is the Curonian Spit dog-friendly?", "a": "Yes for leashed dogs on marked trails, including Smiltyne forest and beach access paths. The UNESCO biosphere reserve bans off-trail walking and restricts access to fragile dune zones."},
-        {"q": "Are Klaipeda parks free?", "a": "Yes, all municipal parks and dog enclosures are open and free 24/7."}
+        {
+          "q": "Where can dogs go off-leash in Klaipeda?",
+          "a": "Only inside official fenced enclosures (sunu vedziojimo aikstele), including the one by Trinyciai Pond and Draugystes Park in the south. Elsewhere, leashes are mandatory."
+        },
+        {
+          "q": "Is the Curonian Spit dog-friendly?",
+          "a": "Yes for leashed dogs on marked trails, including Smiltyne forest and beach access paths. The UNESCO biosphere reserve bans off-trail walking and restricts access to fragile dune zones."
+        },
+        {
+          "q": "Are Klaipeda parks free?",
+          "a": "Yes, all municipal parks and dog enclosures are open and free 24/7."
+        }
       ],
       "faqsFr": [
-        {"q": "Où les chiens peuvent-ils être sans laisse à Klaipeda ?", "a": "Uniquement dans les enclos clôturés officiels (sunu vedziojimo aikstele), dont celui de l'étang Trinyciai et le parc Draugystes au sud. Ailleurs, la laisse est obligatoire."},
-        {"q": "Le Cordon de Courlande est-il dog-friendly ?", "a": "Oui pour les chiens en laisse sur les sentiers balisés, y compris la forêt de Smiltyne et les accès plage. La réserve de biosphère UNESCO interdit le hors-piste et restreint l'accès aux zones de dunes fragiles."},
-        {"q": "Les parcs de Klaipeda sont-ils gratuits ?", "a": "Oui, tous les parcs municipaux et enclos canins sont ouverts et gratuits 24h/24."}
+        {
+          "q": "Où les chiens peuvent-ils être sans laisse à Klaipeda ?",
+          "a": "Uniquement dans les enclos clôturés officiels (sunu vedziojimo aikstele), dont celui de l'étang Trinyciai et le parc Draugystes au sud. Ailleurs, la laisse est obligatoire."
+        },
+        {
+          "q": "Le Cordon de Courlande est-il dog-friendly ?",
+          "a": "Oui pour les chiens en laisse sur les sentiers balisés, y compris la forêt de Smiltyne et les accès plage. La réserve de biosphère UNESCO interdit le hors-piste et restreint l'accès aux zones de dunes fragiles."
+        },
+        {
+          "q": "Les parcs de Klaipeda sont-ils gratuits ?",
+          "a": "Oui, tous les parcs municipaux et enclos canins sont ouverts et gratuits 24h/24."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde pueden ir los perros sin correa en Klaipeda?", "a": "Solo dentro de recintos cerrados oficiales (sunu vedziojimo aikstele), incluido el junto al estanque Trinyciai y el parque Draugystes al sur. En el resto, las correas son obligatorias."},
-        {"q": "¿Es el Istmo de Curlandia apto para perros?", "a": "Sí para perros con correa en senderos señalizados, incluyendo el bosque de Smiltyne y los accesos a la playa. La reserva de biosfera UNESCO prohíbe salir del sendero y restringe el acceso a zonas frágiles de dunas."},
-        {"q": "¿Son gratuitos los parques de Klaipeda?", "a": "Sí, todos los parques municipales y recintos caninos están abiertos y son gratuitos 24/7."}
+        {
+          "q": "¿Dónde pueden ir los perros sin correa en Klaipeda?",
+          "a": "Solo dentro de recintos cerrados oficiales (sunu vedziojimo aikstele), incluido el junto al estanque Trinyciai y el parque Draugystes al sur. En el resto, las correas son obligatorias."
+        },
+        {
+          "q": "¿Es el Istmo de Curlandia apto para perros?",
+          "a": "Sí para perros con correa en senderos señalizados, incluyendo el bosque de Smiltyne y los accesos a la playa. La reserva de biosfera UNESCO prohíbe salir del sendero y restringe el acceso a zonas frágiles de dunas."
+        },
+        {
+          "q": "¿Son gratuitos los parques de Klaipeda?",
+          "a": "Sí, todos los parques municipales y recintos caninos están abiertos y son gratuitos 24/7."
+        }
+      ],
+      "titlePt": "Melhores parques e zonas sem trela en Klaipeda",
+      "introPt": "Klaipeda ofrece uma generosa cobertura de espacios verdes para uma cidade de 150.000 habitantes. O ayuntamiento posee e mantiene varios recintos caninos cerrados e gratuitos (sunu vedziojimo aikstele), os mayores junto al estanque Trinyciai e no parque Draugystes al sur. O Parque de Esculturas de 12 hectáreas no centro é só com trela mas ofrece uma galería al aire libre única da era soviética com 116 esculturas de 67 artistas lituanos, ideal para um passeio de 45 minutos. A lei lituana exige o control do cão en todos os espacios públicos fora dois recintos designados; respétala porque hay multas.",
+      "tipsPt": [
+        "A lei lituana exige trela en todos os espacios públicos salvo dentro dois recintos designados sunu vedziojimo aikstele.",
+        "Recoge sempre os excrementos; Klaipeda tem papeleras visibles e dispensadores de bolsas en todos os parques mantenidos.",
+        "O lado de Smiltyne da laguna pertenece a uma reserva de biosfera UNESCO, os cães deben permanecer nos trilhos senhalizados e fora das zonas de restauración de dunas."
+      ],
+      "faqsPt": [
+        {
+          "q": "Dónde podem ir os cães sem trela en Klaipeda?",
+          "a": "Só dentro de recintos cerrados oficiais (sunu vedziojimo aikstele), incluido o junto al estanque Trinyciai e o parque Draugystes al sur. No resto, as correas são obrigatórias."
+        },
+        {
+          "q": "É o Istmo de Curlandia apto para cães?",
+          "a": "Sí para cães com trela en trilhos senhalizados, incluindo o floresta de Smiltyne e os acessos a a praia. A reserva de biosfera UNESCO prohíbe salir do trilho e restringe o acesso a zonas frágiles de dunas."
+        },
+        {
+          "q": "São gratuitos os parques de Klaipeda?",
+          "a": "Sí, todos os parques municipales e recintos caninos estão abiertos e são gratuitos 24/7."
+        }
       ]
     },
     "transport": {
@@ -215,7 +331,9 @@
           "petPolicy": "Dogs accepted on both ferries, leashed throughout. Pedestrian crossing on the Old Castle line is free for residents and visitors.",
           "petPolicyFr": "Chiens acceptés sur les deux ferries, en laisse tout du long. Traversée piétonne sur la ligne Old Castle gratuite pour résidents et visiteurs.",
           "petPolicyEs": "Perros admitidos en ambos ferries, con correa todo el trayecto. El cruce peatonal en la línea Old Castle es gratuito para residentes y visitantes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Smiltynes+perkela+Klaipeda"
+          "googleMapsUrl": "https://maps.google.com/?q=Smiltynes+perkela+Klaipeda",
+          "descriptionPt": "O operador estatal Smiltynes perkela opera o único cruce entre a Klaipeda continental e o Istmo de Curlandia. A terminal Old Castle (Senoji) gestiona peatones, ciclistas e animais num cruce de 5 minutos; o New Ferry (Naujoji) mais al sur gestiona carros e carga. Peatones e cães cruzan grátis na línea Old Castle.",
+          "petPolicyPt": "Cães admitidos en ambos ferries, com trela todo o trayecto. O cruce peatonal na línea Old Castle é gratuito para residentes e visitantes."
         },
         {
           "name": "Klaipedos transportas city buses",
@@ -229,7 +347,9 @@
           "petPolicy": "Small dogs in a closed carrier are generally free; larger leashed dogs are accepted at the driver's discretion. A muzzle is recommended for large dogs.",
           "petPolicyFr": "Les petits chiens en transportin fermé sont généralement gratuits ; les plus grands chiens en laisse sont acceptés à la discrétion du chauffeur. Une muselière est recommandée pour les grands chiens.",
           "petPolicyEs": "Los perros pequeños en transportín cerrado suelen ir gratis; los más grandes con correa se aceptan a discreción del conductor. Se recomienda bozal para perros grandes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Klaipedos+transportas"
+          "googleMapsUrl": "https://maps.google.com/?q=Klaipedos+transportas",
+          "descriptionPt": "A red municipal de autocarros urbanos cubre todos os bairros residenciales e conecta o centro, as estações de autocarros e ferroviaria e o ferry. Os bilhetes se compran online vía o portal oficial, na app do operador o a bordo al conductor. A práctica lituana estándar admite cães pequenhos en transportadora e cães grandes com trela a discreción do conductor.",
+          "petPolicyPt": "Os cães pequenhos en transportadora cerrado costumam ir grátis; os mais grandes com trela se aceitam a discreción do conductor. Se recomienda bozal para cães grandes."
         }
       ],
       "tipsEn": [
@@ -248,19 +368,67 @@
         "Dentro del centro de Klaipeda, caminar suele ser más rápido que el bus; el Casco Antiguo es genuinamente compacto."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog on the Smiltyne ferry?", "a": "Yes, on both lines. The Old Castle pedestrian ferry is free, takes 5 minutes and runs frequently. Leashes required onboard."},
-        {"q": "Are dogs allowed on Klaipeda city buses?", "a": "Yes, small dogs in carriers are generally free, larger dogs at the driver's discretion on a leash, ideally also muzzled. Practice varies, ask before boarding."},
-        {"q": "What is the nearest airport?", "a": "Palanga International (PLQ), 30 km north. Kaunas (KUN) is 215 km east. Buses link both to Klaipeda."}
+        {
+          "q": "Can I take my dog on the Smiltyne ferry?",
+          "a": "Yes, on both lines. The Old Castle pedestrian ferry is free, takes 5 minutes and runs frequently. Leashes required onboard."
+        },
+        {
+          "q": "Are dogs allowed on Klaipeda city buses?",
+          "a": "Yes, small dogs in carriers are generally free, larger dogs at the driver's discretion on a leash, ideally also muzzled. Practice varies, ask before boarding."
+        },
+        {
+          "q": "What is the nearest airport?",
+          "a": "Palanga International (PLQ), 30 km north. Kaunas (KUN) is 215 km east. Buses link both to Klaipeda."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je emmener mon chien sur le ferry de Smiltyne ?", "a": "Oui, sur les deux lignes. Le ferry piéton Old Castle est gratuit, dure 5 minutes et passe fréquemment. Laisse obligatoire à bord."},
-        {"q": "Les chiens sont-ils admis dans les bus urbains de Klaipeda ?", "a": "Oui, petits chiens en cage généralement gratuits, plus grands chiens à la discrétion du chauffeur en laisse, idéalement muselés. La pratique varie, demandez avant de monter."},
-        {"q": "Quel est l'aéroport le plus proche ?", "a": "Palanga International (PLQ), à 30 km au nord. Kaunas (KUN) est à 215 km à l'est. Des bus relient les deux à Klaipeda."}
+        {
+          "q": "Puis-je emmener mon chien sur le ferry de Smiltyne ?",
+          "a": "Oui, sur les deux lignes. Le ferry piéton Old Castle est gratuit, dure 5 minutes et passe fréquemment. Laisse obligatoire à bord."
+        },
+        {
+          "q": "Les chiens sont-ils admis dans les bus urbains de Klaipeda ?",
+          "a": "Oui, petits chiens en cage généralement gratuits, plus grands chiens à la discrétion du chauffeur en laisse, idéalement muselés. La pratique varie, demandez avant de monter."
+        },
+        {
+          "q": "Quel est l'aéroport le plus proche ?",
+          "a": "Palanga International (PLQ), à 30 km au nord. Kaunas (KUN) est à 215 km à l'est. Des bus relient les deux à Klaipeda."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo llevar a mi perro en el ferry de Smiltyne?", "a": "Sí, en ambas líneas. El ferry peatonal Old Castle es gratuito, dura 5 minutos y pasa con frecuencia. Correas obligatorias a bordo."},
-        {"q": "¿Se admiten perros en los autobuses urbanos de Klaipeda?", "a": "Sí, perros pequeños en transportín generalmente gratis, perros más grandes a discreción del conductor con correa, idealmente con bozal. La práctica varía, pregunta antes de subir."},
-        {"q": "¿Cuál es el aeropuerto más cercano?", "a": "Palanga Internacional (PLQ), 30 km al norte. Kaunas (KUN) está a 215 km al este. Hay autobuses que conectan ambos con Klaipeda."}
+        {
+          "q": "¿Puedo llevar a mi perro en el ferry de Smiltyne?",
+          "a": "Sí, en ambas líneas. El ferry peatonal Old Castle es gratuito, dura 5 minutos y pasa con frecuencia. Correas obligatorias a bordo."
+        },
+        {
+          "q": "¿Se admiten perros en los autobuses urbanos de Klaipeda?",
+          "a": "Sí, perros pequeños en transportín generalmente gratis, perros más grandes a discreción del conductor con correa, idealmente con bozal. La práctica varía, pregunta antes de subir."
+        },
+        {
+          "q": "¿Cuál es el aeropuerto más cercano?",
+          "a": "Palanga Internacional (PLQ), 30 km al norte. Kaunas (KUN) está a 215 km al este. Hay autobuses que conectan ambos con Klaipeda."
+        }
+      ],
+      "titlePt": "Moverse por Klaipeda com animal",
+      "introPt": "Klaipeda é o único porto báltico de Lituania e uma das cidades medianas mais pedonais do Báltico oriental. O Centro histórico, o ferry a Smiltyne e o Parque de Esculturas estão a 25 minutos a pé por terreno llano. O transporte público local lo gestiona Klaipedos transportas e consta de autocarros urbanos; os dois ferries a Smiltyne (Old Castle para peatones, New Ferry para vehículos) são o enlace vital com o Istmo de Curlandia e admitem cães expresamente.",
+      "tipsPt": [
+        "O ferry Old Castle a Smiltyne sale cada 30 minutos a mayor parte do dia; consulta keltas.lt para horários actuales.",
+        "O aeroporto de Palanga (PLQ) está a 30 km a norte de Klaipeda; o autocarro regional al centro tarda uns 50 minutos e admite animais.",
+        "Dentro do centro de Klaipeda, caminhar costuma ser mais rápido que o bus; o Centro histórico é genuinamente compacto."
+      ],
+      "faqsPt": [
+        {
+          "q": "Puedo levar a mi cão no ferry de Smiltyne?",
+          "a": "Sí, en ambas líneas. O ferry peatonal Old Castle é gratuito, dura 5 minutos e passa com frecuencia. Correas obrigatórias a bordo."
+        },
+        {
+          "q": "Se admitem cães nos autocarros urbanos de Klaipeda?",
+          "a": "Sí, cães pequenhos en transportadora generalmente grátis, cães mais grandes a discreción do conductor com trela, idealmente com bozal. A práctica varía, pregunta antes de subir."
+        },
+        {
+          "q": "Cuál é o aeroporto mais cercano?",
+          "a": "Palanga Internacional (PLQ), 30 km al norte. Kaunas (KUN) está a 215 km al este. Hay autocarros que conectan ambos com Klaipeda."
+        }
       ]
     },
     "beaches": {
@@ -287,7 +455,10 @@
           "tip": "Walk to the far north end of Melnrage 2 to find the calmest, most dog-tolerant stretch even in August.",
           "tipFr": "Marchez jusqu'à l'extrémité nord de Melnrage 2 pour trouver le coin le plus calme et le plus tolérant aux chiens, même en août.",
           "tipEs": "Camina hasta el extremo norte de Melnrage 2 para encontrar la zona más tranquila y tolerante con perros, incluso en agosto.",
-          "googleMapsUrl": "https://maps.google.com/?q=Melnrage+Beach+Klaipeda"
+          "googleMapsUrl": "https://maps.google.com/?q=Melnrage+Beach+Klaipeda",
+          "descriptionPt": "Uma larga praia de areia blanca justo a norte do porto de Klaipeda, resguardada do viento por altas dunas e dividida en dois partes (Melnrage 1 e 2). Infraestructura familiar, aparcamiento, rampas de accesibilidad e vista despejada dois cruceros entrando al porto.",
+          "petPolicyPt": "Cães com trela bem-vindos fora da zona de banho vigilada central de junho a agosto; acesso completo entre temporadas e en inverno.",
+          "tipPt": "Caminha até o extremo norte de Melnrage 2 para encontrar a zona mais tranquila e tolerante com cães, mesmo em agosto."
         },
         {
           "name": "Smiltyne Beach",
@@ -305,7 +476,10 @@
           "tip": "Walk south along the beach from the ferry; after about 1 km the crowds thin and you have effectively private dunes.",
           "tipFr": "Marchez vers le sud le long de la plage depuis le ferry ; après environ 1 km, la foule s'estompe et vous avez des dunes pratiquement privées.",
           "tipEs": "Camina hacia el sur por la playa desde el ferry; tras unos 1 km la multitud disminuye y tienes dunas prácticamente privadas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Smiltyne+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Smiltyne+Beach",
+          "descriptionPt": "A punta norte do Istmo de Curlandia de 98 km, acessível só en ferry a partir do Centro histórico, ofrece fina areia dorada, água báltica clara e pouco profunda e pinar justo detrás da duna. Dentro da reserva de biosfera UNESCO, se aplican as protecciones da fauna; a praia en sí é uma das as mais pintorescas de Lituania.",
+          "petPolicyPt": "Só cães com trela na praia e trilhos de acesso; prohibidos en zonas valladas de restauración de dunas e de nidificación de aves marinas.",
+          "tipPt": "Caminha para o sur pela praia a partir do ferry; tras uns 1 km a multitud disminuye e tienes dunas prácticamente privadas."
         },
         {
           "name": "Giruliai Beach",
@@ -323,7 +497,10 @@
           "tip": "Combine with a coastal path bike ride from Klaipeda; 6 km of flat trail along the dunes and pine forest.",
           "tipFr": "Combinez avec une balade à vélo sur le sentier côtier depuis Klaipeda ; 6 km de piste plate le long des dunes et de la pinède.",
           "tipEs": "Combina con un paseo en bici por el sendero costero desde Klaipeda; 6 km de pista plana entre dunas y pinar.",
-          "googleMapsUrl": "https://maps.google.com/?q=Giruliai+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Giruliai+Beach",
+          "descriptionPt": "Uma praia mais tranquila respaldada pelo floresta, mais al norte que Melnrage, popular entre os locales que escapan da multitud veraniega e de fácil acesso en bicicleta pelo trilho costero. Largos tramos planos de areia, dunas bajas e ambiente relajado; a zona costuma tolerar cães com trela o ano inteiro.",
+          "petPolicyPt": "Cães com trela generalmente bem-vindos fora da zona vigilada central en verão; acesso completo entre temporadas.",
+          "tipPt": "Combina com um passeio de bicicleta pelo trilho costero a partir de Klaipeda; 6 km de pista plana entre dunas e pinar."
         }
       ],
       "tipsEn": [
@@ -342,19 +519,67 @@
         "Comprueba siempre la señalización del Parque Nacional del Istmo de Curlandia; el acceso canino está restringido en zonas de restauración de dunas y nidificación."
       ],
       "faqsEn": [
-        {"q": "Can dogs go on Klaipeda beaches?", "a": "Yes, on leash, outside the central guarded bathing zones in summer. In shoulder and winter seasons the whole coast is effectively open to leashed dogs."},
-        {"q": "Is the Curonian Spit beach OK for dogs?", "a": "Yes, on leash, on the beach and marked trails. Off-trail walking and entry into fenced dune zones is banned in the UNESCO biosphere."},
-        {"q": "Which beach is best with a dog?", "a": "Melnrage 2 (north end) for proximity from the city; Smiltyne for the Curonian Spit experience by ferry; Giruliai for quietness."}
+        {
+          "q": "Can dogs go on Klaipeda beaches?",
+          "a": "Yes, on leash, outside the central guarded bathing zones in summer. In shoulder and winter seasons the whole coast is effectively open to leashed dogs."
+        },
+        {
+          "q": "Is the Curonian Spit beach OK for dogs?",
+          "a": "Yes, on leash, on the beach and marked trails. Off-trail walking and entry into fenced dune zones is banned in the UNESCO biosphere."
+        },
+        {
+          "q": "Which beach is best with a dog?",
+          "a": "Melnrage 2 (north end) for proximity from the city; Smiltyne for the Curonian Spit experience by ferry; Giruliai for quietness."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens peuvent-ils aller sur les plages de Klaipeda ?", "a": "Oui, en laisse, en dehors des zones surveillées centrales en été. Hors saison, toute la côte est effectivement ouverte aux chiens en laisse."},
-        {"q": "La plage du Cordon de Courlande convient-elle aux chiens ?", "a": "Oui, en laisse, sur la plage et les sentiers balisés. Le hors-piste et l'entrée dans les zones de dunes clôturées sont interdits dans la réserve UNESCO."},
-        {"q": "Quelle plage est la meilleure avec un chien ?", "a": "Melnrage 2 (extrémité nord) pour la proximité de la ville ; Smiltyne pour l'expérience Cordon de Courlande en ferry ; Giruliai pour la tranquillité."}
+        {
+          "q": "Les chiens peuvent-ils aller sur les plages de Klaipeda ?",
+          "a": "Oui, en laisse, en dehors des zones surveillées centrales en été. Hors saison, toute la côte est effectivement ouverte aux chiens en laisse."
+        },
+        {
+          "q": "La plage du Cordon de Courlande convient-elle aux chiens ?",
+          "a": "Oui, en laisse, sur la plage et les sentiers balisés. Le hors-piste et l'entrée dans les zones de dunes clôturées sont interdits dans la réserve UNESCO."
+        },
+        {
+          "q": "Quelle plage est la meilleure avec un chien ?",
+          "a": "Melnrage 2 (extrémité nord) pour la proximité de la ville ; Smiltyne pour l'expérience Cordon de Courlande en ferry ; Giruliai pour la tranquillité."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Pueden ir los perros a las playas de Klaipeda?", "a": "Sí, con correa, fuera de las zonas vigiladas centrales en verano. En temporadas baja e invierno, toda la costa está prácticamente abierta a perros con correa."},
-        {"q": "¿Es apta la playa del Istmo de Curlandia para perros?", "a": "Sí, con correa, en la playa y senderos señalizados. Salir del sendero y entrar en zonas valladas de dunas está prohibido en la reserva UNESCO."},
-        {"q": "¿Qué playa es la mejor con perro?", "a": "Melnrage 2 (extremo norte) por cercanía a la ciudad; Smiltyne por la experiencia Istmo de Curlandia en ferry; Giruliai por tranquilidad."}
+        {
+          "q": "¿Pueden ir los perros a las playas de Klaipeda?",
+          "a": "Sí, con correa, fuera de las zonas vigiladas centrales en verano. En temporadas baja e invierno, toda la costa está prácticamente abierta a perros con correa."
+        },
+        {
+          "q": "¿Es apta la playa del Istmo de Curlandia para perros?",
+          "a": "Sí, con correa, en la playa y senderos señalizados. Salir del sendero y entrar en zonas valladas de dunas está prohibido en la reserva UNESCO."
+        },
+        {
+          "q": "¿Qué playa es la mejor con perro?",
+          "a": "Melnrage 2 (extremo norte) por cercanía a la ciudad; Smiltyne por la experiencia Istmo de Curlandia en ferry; Giruliai por tranquilidad."
+        }
+      ],
+      "titlePt": "Melhores praias perto de Klaipeda para cães",
+      "introPt": "Klaipeda tem acesso directo al mar Báltico e a a Laguna de Curlandia, com três zonas de praia principales: Smiltyne no Istmo de Curlandia (acessível por ferry), Melnrage justo a norte do porto e Giruliai mais al norte. A temporada de banho va de mediados de junho a agosto. Os cães costumam ser bem-vindos nas praias bálticas fora das zonas vigiladas centrales en temporada alta; en inverno e entre temporadas, toda a costa é prácticamente pet-friendly com trela. O Parque Nacional do Istmo de Curlandia (Patrimonio UNESCO) prohíbe os cães nas zonas designadas de restauración de dunas.",
+      "tipsPt": [
+        "A temporada de banho en Lituania é corta (mediados de junho a fines de agosto); fora da ventana, as praias estão prácticamente vacías e são pet-friendly.",
+        "A temperatura do Báltico alcanza o seu máximo entre 19 e 20 °C en julho-agosto; cómoda para cães mas fria para humanos.",
+        "Comprueba sempre a senhalización do Parque Nacional do Istmo de Curlandia; o acesso canino está restringido en zonas de restauración de dunas e nidificación."
+      ],
+      "faqsPt": [
+        {
+          "q": "Podem ir os cães a as praias de Klaipeda?",
+          "a": "Sí, com trela, fora das zonas vigiladas centrales en verão. En temporadas baja e inverno, toda a costa está prácticamente abierta a cães com trela."
+        },
+        {
+          "q": "É apta a praia do Istmo de Curlandia para cães?",
+          "a": "Sí, com trela, na praia e trilhos senhalizados. Salir do trilho e entrar en zonas valladas de dunas está prohibido na reserva UNESCO."
+        },
+        {
+          "q": "Qué praia é a melhor com cão?",
+          "a": "Melnrage 2 (extremo norte) por cercanía a a cidade; Smiltyne pela experiencia Istmo de Curlandia en ferry; Giruliai por tranquilidad."
+        }
       ]
     },
     "vets": {
@@ -384,7 +609,11 @@
           "tip": "Call ahead before driving over so the on-call team can prepare for your case; check the official site for the current address and direct number.",
           "tipFr": "Appelez avant de vous déplacer pour que l'équipe d'astreinte se prépare ; consultez le site officiel pour l'adresse et le numéro à jour.",
           "tipEs": "Llama antes de desplazarte para que el equipo de guardia prepare tu caso; consulta el sitio oficial para la dirección y el número actuales.",
-          "googleMapsUrl": "https://maps.google.com/?q=Klaipeda+Referral+Veterinary+Hospital"
+          "googleMapsUrl": "https://maps.google.com/?q=Klaipeda+Referral+Veterinary+Hospital",
+          "descriptionPt": "O hospital veterinário de referencia 24/7 mais moderno de Lituania fora de Vilna, com serviços especializados en ortopedia-traumatología, neurología e cirugía de tejidos blandos. Equipado para diagnósticos e cirugía complejos; recibe urgências dia e noite.",
+          "petPolicyPt": "Urgências 24/7 admitidas; consultas especializadas por referencia o cita.",
+          "servicesPt": "Urgências 24/7, ortopedia, neurología, cirugía de tejidos blandos, diagnósticos avanzados.",
+          "tipPt": "Liga antes de desplazarte para que o equipo de guardia prepare tu caso; consulta o sitio oficial para a direção e o número actuales."
         },
         {
           "name": "Klaipeda general veterinary clinics",
@@ -405,7 +634,11 @@
           "tip": "For non-emergency consultations, English-speaking vets are common; ask in advance if your usual vet language is not Lithuanian.",
           "tipFr": "Pour les consultations non urgentes, les vétérinaires anglophones sont courants ; précisez à l'avance si vous ne parlez pas lituanien.",
           "tipEs": "Para consultas no urgentes, los veterinarios angloparlantes son comunes; pregunta con antelación si tu idioma habitual no es el lituano.",
-          "googleMapsUrl": "https://maps.google.com/?q=Veterinary+Klaipeda"
+          "googleMapsUrl": "https://maps.google.com/?q=Veterinary+Klaipeda",
+          "descriptionPt": "Umas catorce consultas veterinárias generalistas operan en Klaipeda, ofreciendo cuidados rutinarios, vacunas, microchip, cirugía e visitas a domicilio. Os directorios Info.lt e 1588.lt listan direcciones e teléfonos actuales en inglês.",
+          "petPolicyPt": "Com cita para cuidados rutinarios; muitas consultas ofrecen huecos urgentes o mismo dia para viajeros.",
+          "servicesPt": "Consulta, vacinação, microchip, cirugía básica, visitas a domicilio.",
+          "tipPt": "Para consultas no urgentes, os veterinários angloparlantes são comunes; pregunta com antelación se tu idioma habitual no é o lituano."
         }
       ],
       "tipsEn": [
@@ -424,19 +657,67 @@
         "Las enfermedades transmitidas por garrapatas (TBE, anaplasmosis) están presentes en los bosques lituanos; pide a tu veterinario un antiparasitario antes de pasear por los bosques del Istmo de Curlandia."
       ],
       "faqsEn": [
-        {"q": "Is there a 24/7 vet in Klaipeda?", "a": "Yes, the Klaipeda Referral Veterinary Hospital operated by 8 Drambliai is the western Lithuania reference hospital for emergencies and specialist cases."},
-        {"q": "Do I need rabies vaccination to enter Lithuania?", "a": "Yes, with EU pet passport and ISO microchip. The vaccine must be at least 21 days old at entry."},
-        {"q": "Are vets English-speaking?", "a": "Generally yes in larger Klaipeda clinics, especially among younger staff. Confirm in advance for complex consultations."}
+        {
+          "q": "Is there a 24/7 vet in Klaipeda?",
+          "a": "Yes, the Klaipeda Referral Veterinary Hospital operated by 8 Drambliai is the western Lithuania reference hospital for emergencies and specialist cases."
+        },
+        {
+          "q": "Do I need rabies vaccination to enter Lithuania?",
+          "a": "Yes, with EU pet passport and ISO microchip. The vaccine must be at least 21 days old at entry."
+        },
+        {
+          "q": "Are vets English-speaking?",
+          "a": "Generally yes in larger Klaipeda clinics, especially among younger staff. Confirm in advance for complex consultations."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un vétérinaire 24h/24 à Klaipeda ?", "a": "Oui, l'hôpital vétérinaire de référence de Klaipeda exploité par 8 Drambliai est l'hôpital de référence de Lituanie occidentale pour les urgences et les cas spécialisés."},
-        {"q": "Faut-il un vaccin antirabique pour entrer en Lituanie ?", "a": "Oui, avec passeport européen pour animaux et puce ISO. Le vaccin doit avoir au moins 21 jours à l'entrée."},
-        {"q": "Les vétérinaires parlent-ils anglais ?", "a": "Généralement oui dans les grandes cliniques de Klaipeda, surtout parmi le personnel jeune. Confirmez à l'avance pour les consultations complexes."}
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Klaipeda ?",
+          "a": "Oui, l'hôpital vétérinaire de référence de Klaipeda exploité par 8 Drambliai est l'hôpital de référence de Lituanie occidentale pour les urgences et les cas spécialisés."
+        },
+        {
+          "q": "Faut-il un vaccin antirabique pour entrer en Lituanie ?",
+          "a": "Oui, avec passeport européen pour animaux et puce ISO. Le vaccin doit avoir au moins 21 jours à l'entrée."
+        },
+        {
+          "q": "Les vétérinaires parlent-ils anglais ?",
+          "a": "Généralement oui dans les grandes cliniques de Klaipeda, surtout parmi le personnel jeune. Confirmez à l'avance pour les consultations complexes."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay veterinario 24/7 en Klaipeda?", "a": "Sí, el Hospital Veterinario de Referencia de Klaipeda operado por 8 Drambliai es el hospital de referencia del oeste de Lituania para urgencias y casos especializados."},
-        {"q": "¿Hace falta vacuna antirrábica para entrar en Lituania?", "a": "Sí, con pasaporte europeo y microchip ISO. La vacuna debe tener al menos 21 días en la entrada."},
-        {"q": "¿Hablan inglés los veterinarios?", "a": "Generalmente sí en las clínicas grandes de Klaipeda, sobre todo entre el personal joven. Confirma con antelación para consultas complejas."}
+        {
+          "q": "¿Hay veterinario 24/7 en Klaipeda?",
+          "a": "Sí, el Hospital Veterinario de Referencia de Klaipeda operado por 8 Drambliai es el hospital de referencia del oeste de Lituania para urgencias y casos especializados."
+        },
+        {
+          "q": "¿Hace falta vacuna antirrábica para entrar en Lituania?",
+          "a": "Sí, con pasaporte europeo y microchip ISO. La vacuna debe tener al menos 21 días en la entrada."
+        },
+        {
+          "q": "¿Hablan inglés los veterinarios?",
+          "a": "Generalmente sí en las clínicas grandes de Klaipeda, sobre todo entre el personal joven. Confirma con antelación para consultas complejas."
+        }
+      ],
+      "titlePt": "Veterinários de urgências en Klaipeda, clínicas e cuidado de animais",
+      "introPt": "Klaipeda é uma das as duas cidades lituanas (junto com Vilna) en disponer de um hospital veterinário de referencia 24/7, abierto nos últimos anos e que ofrece ortopedia, neurología e cirugía de tejidos blandos especializadas. A cidade cuenta além disso com umas catorce consultas veterinárias generales repartidas por Taikos prospektas, Danes, Jureiviu e Baltijos prospektas, que ofrecen consultas, vacunas, microchip ISO 11784 e visitas a domicilio.",
+      "tipsPt": [
+        "Guarda o número do Hospital Veterinário de Referencia de Klaipeda no móvil antes de chegar; é a única instalação de urgências 24/7 do oeste de Lituania.",
+        "Passaporte europeu, microchip ISO 11784/11785 e vacuna antirrábica vigente são obrigatórios para entrar en Lituania.",
+        "As enfermedades transmitidas por garrapatas (TBE, anaplasmosis) estão presentes nos florestas lituanos; pide a tu veterinário um antiparasitario antes de pasear pelos florestas do Istmo de Curlandia."
+      ],
+      "faqsPt": [
+        {
+          "q": "Hay veterinário 24/7 en Klaipeda?",
+          "a": "Sí, o Hospital Veterinário de Referencia de Klaipeda operado por 8 Drambliai é o hospital de referencia do oeste de Lituania para urgências e casos especializados."
+        },
+        {
+          "q": "Faz falta vacuna antirrábica para entrar en Lituania?",
+          "a": "Sí, com passaporte europeu e microchip ISO. A vacuna debe tener al menos 21 dias na entrada."
+        },
+        {
+          "q": "Hablan inglês os veterinários?",
+          "a": "Generalmente sí nas clínicas grandes de Klaipeda, sobre todo entre o personal jovem. Confirma com antelación para consultas complejas."
+        }
       ]
     },
     "tips": {
@@ -469,19 +750,69 @@
         "Lituania entró en la eurozona en 2015. Todos los precios en EUR; la propina se aprecia pero no es obligatoria."
       ],
       "faqsEn": [
-        {"q": "Is Klaipeda a good city to visit with a dog?", "a": "Yes, it is one of the easiest Baltic destinations with a dog. Compact Old Town, free pedestrian ferry to Smiltyne (dogs welcome), pet-friendly cafes via the national Draugiski Gyvunams network and a 24/7 emergency vet."},
-        {"q": "Do I need special documentation for Lithuania?", "a": "EU pet passport with valid rabies vaccination and ISO microchip. No tapeworm treatment required when arriving from another EU state."},
-        {"q": "Are there breed restrictions in Lithuania?", "a": "Lithuania has restrictions on a list of dangerous breeds; check the State Food and Veterinary Service guidance before travelling if you own a restricted breed."}
+        {
+          "q": "Is Klaipeda a good city to visit with a dog?",
+          "a": "Yes, it is one of the easiest Baltic destinations with a dog. Compact Old Town, free pedestrian ferry to Smiltyne (dogs welcome), pet-friendly cafes via the national Draugiski Gyvunams network and a 24/7 emergency vet."
+        },
+        {
+          "q": "Do I need special documentation for Lithuania?",
+          "a": "EU pet passport with valid rabies vaccination and ISO microchip. No tapeworm treatment required when arriving from another EU state."
+        },
+        {
+          "q": "Are there breed restrictions in Lithuania?",
+          "a": "Lithuania has restrictions on a list of dangerous breeds; check the State Food and Veterinary Service guidance before travelling if you own a restricted breed."
+        }
       ],
       "faqsFr": [
-        {"q": "Klaipeda est-elle une bonne ville à visiter avec un chien ?", "a": "Oui, c'est l'une des destinations baltes les plus faciles avec un chien. Vieille ville compacte, ferry piéton gratuit pour Smiltyne (chiens bienvenus), cafés pet-friendly via le réseau national Draugiski Gyvunams et un vétérinaire d'urgence 24h/24."},
-        {"q": "Ai-je besoin de documents spécifiques pour la Lituanie ?", "a": "Passeport européen avec vaccin antirabique valide et puce ISO. Pas de traitement échinococcose requis depuis un autre État UE."},
-        {"q": "Y a-t-il des restrictions de race en Lituanie ?", "a": "La Lituanie applique des restrictions sur une liste de races dangereuses ; consultez les directives du Service public d'État pour l'alimentation et le vétérinaire avant de voyager si vous possédez une race restreinte."}
+        {
+          "q": "Klaipeda est-elle une bonne ville à visiter avec un chien ?",
+          "a": "Oui, c'est l'une des destinations baltes les plus faciles avec un chien. Vieille ville compacte, ferry piéton gratuit pour Smiltyne (chiens bienvenus), cafés pet-friendly via le réseau national Draugiski Gyvunams et un vétérinaire d'urgence 24h/24."
+        },
+        {
+          "q": "Ai-je besoin de documents spécifiques pour la Lituanie ?",
+          "a": "Passeport européen avec vaccin antirabique valide et puce ISO. Pas de traitement échinococcose requis depuis un autre État UE."
+        },
+        {
+          "q": "Y a-t-il des restrictions de race en Lituanie ?",
+          "a": "La Lituanie applique des restrictions sur une liste de races dangereuses ; consultez les directives du Service public d'État pour l'alimentation et le vétérinaire avant de voyager si vous possédez une race restreinte."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Klaipeda una buena ciudad para visitar con perro?", "a": "Sí, es uno de los destinos bálticos más fáciles con perro. Casco Antiguo compacto, ferry peatonal gratuito a Smiltyne (perros bienvenidos), cafés pet-friendly vía la red nacional Draugiski Gyvunams y veterinario de urgencias 24/7."},
-        {"q": "¿Necesito documentación específica para Lituania?", "a": "Pasaporte europeo con vacuna antirrábica vigente y microchip ISO. No se requiere tratamiento contra equinococosis desde otro Estado UE."},
-        {"q": "¿Hay restricciones de raza en Lituania?", "a": "Lituania aplica restricciones a una lista de razas peligrosas; consulta las directrices del Servicio Estatal de Alimentación y Veterinaria antes de viajar si posees una raza restringida."}
+        {
+          "q": "¿Es Klaipeda una buena ciudad para visitar con perro?",
+          "a": "Sí, es uno de los destinos bálticos más fáciles con perro. Casco Antiguo compacto, ferry peatonal gratuito a Smiltyne (perros bienvenidos), cafés pet-friendly vía la red nacional Draugiski Gyvunams y veterinario de urgencias 24/7."
+        },
+        {
+          "q": "¿Necesito documentación específica para Lituania?",
+          "a": "Pasaporte europeo con vacuna antirrábica vigente y microchip ISO. No se requiere tratamiento contra equinococosis desde otro Estado UE."
+        },
+        {
+          "q": "¿Hay restricciones de raza en Lituania?",
+          "a": "Lituania aplica restricciones a una lista de razas peligrosas; consulta las directrices del Servicio Estatal de Alimentación y Veterinaria antes de viajar si posees una raza restringida."
+        }
+      ],
+      "titlePt": "Consejos esenciales para viajar com animal a Klaipeda",
+      "introPt": "Klaipeda é uma cidade portuaria manejable de 150.000 habitantes, único porto báltico de Lituania e puerta al Istmo de Curlandia clasificado UNESCO. Se aplican as normas UE: passaporte para animais, microchip ISO, vacuna antirrábica vigente, no se requiere tratamento contra equinococose a partir de otro país UE. Planifica en torno a a corta temporada de banho (mediados de junho a agosto) e protege contra as garrapatas no floresta.",
+      "tipsPt": [
+        "Lituania está no sistema de passaporte europeu. Passaporte aceite com vacuna antirrábica vigente e microchip ISO 11784/11785. No se requiere tratamento contra equinococose a partir de otros Estados UE.",
+        "A lei lituana exige trela en todos os espacios públicos fora dois recintos cerrados designados. Multas en caso de infração.",
+        "O verão en Klaipeda (julho-agosto) é suave (uns 20 a 22 °C) e agradable para os cães; julho é também o pico da temporada de garrapatas no floresta, usa antiparasitario.",
+        "O aeroporto internacional de Palanga (PLQ) está a 30 km al norte; Kaunas (KUN) a 215 km al este. Ambos conectan com Klaipeda de autocarro. KUN tem uma red europeia mais amplia se PLQ no tem voo directo.",
+        "Lituania entró na eurozona en 2015. Todos os preços en EUR; a propina se aprecia mas no é obrigatória."
+      ],
+      "faqsPt": [
+        {
+          "q": "É Klaipeda uma buena cidade para visitar com cão?",
+          "a": "Sí, é um dois os destinos bálticos mais fáciles com cão. Centro histórico compacto, ferry peatonal gratuito a Smiltyne (cães bem-vindos), cafés pet-friendly vía a red nacional Draugiski Gyvunams e veterinário de urgências 24/7."
+        },
+        {
+          "q": "Necesito documentação específica para Lituania?",
+          "a": "Passaporte europeu com vacuna antirrábica vigente e microchip ISO. No se requiere tratamento contra equinococose a partir de otro Estado UE."
+        },
+        {
+          "q": "Hay restricciones de raza en Lituania?",
+          "a": "Lituania aplica restricciones a uma lista de razas peligrosas; consulta as directrices do Serviço Estatal de Alimentación e Veterinária antes de viajar se posees uma raza restringida."
+        }
       ]
     },
     "attractions": {
@@ -508,7 +839,10 @@
           "tip": "Photograph the statue from the south side for the classic angle; nearby benches are ideal for a coffee break with the dog.",
           "tipFr": "Photographiez la statue du côté sud pour l'angle classique ; les bancs à proximité sont parfaits pour une pause café avec le chien.",
           "tipEs": "Fotografía la estatua desde el lado sur para el ángulo clásico; los bancos cercanos son ideales para una pausa café con el perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Theatre+Square+Klaipeda"
+          "googleMapsUrl": "https://maps.google.com/?q=Theatre+Square+Klaipeda",
+          "descriptionPt": "A principal praça cultural do centro histórico, frente al Teatro Dramático de Klaipeda, com a famosa estatua de bronce de Aennchen von Tharau dedicada al poeta barroco prusiano oriental Simon Dach. Punto de encontro local e arranque natural de cualquier passeio pelo Centro histórico com cão.",
+          "petPolicyPt": "Praça al aire libre, cães com trela bem-vindos en cualquier momento.",
+          "tipPt": "Fotografía a estatua a partir do lado sur para o ángulo clásico; os bancos cercanos são ideales para uma pausa café com o cão."
         },
         {
           "name": "Klaipeda Castle ruins",
@@ -526,7 +860,10 @@
           "tip": "Walk the moat circuit anti-clockwise for the best view of the rebuilt bastion and the harbour entrance.",
           "tipFr": "Faites le circuit des douves dans le sens anti-horaire pour la meilleure vue sur le bastion reconstruit et l'entrée du port.",
           "tipEs": "Recorre el circuito de los fosos en sentido antihorario para la mejor vista del bastión reconstruido y la entrada del puerto.",
-          "googleMapsUrl": "https://maps.google.com/?q=Klaipeda+Castle"
+          "googleMapsUrl": "https://maps.google.com/?q=Klaipeda+Castle",
+          "descriptionPt": "Os restos do castelo de Memelburg / Klaipeda do século XIII, rodeado de fosos e bastiones pelo lado do porto. Os exteriores (fosos, muralhas e caminos de bastión) estão abiertos a cães com trela grátis; o pequenho Museu do Castelo nos poternes interiores no admite cães.",
+          "petPolicyPt": "Cães com trela bem-vindos nos fosos exteriores, muralhas e pasarelas; no admitidos dentro do museu.",
+          "tipPt": "Recorre o circuito dois fosos en sentido antihorario para a melhor vista do bastión reconstruido e a entrada do porto."
         },
         {
           "name": "Klaipeda Old Town & Memel wooden houses",
@@ -544,7 +881,10 @@
           "tip": "Walk the loop early morning or after 18:00 to enjoy the architecture without the day-tripper crowds.",
           "tipFr": "Parcourez la boucle tôt le matin ou après 18h pour profiter de l'architecture sans la foule.",
           "tipEs": "Recorre el circuito a primera hora o después de las 18:00 para disfrutar de la arquitectura sin la multitud.",
-          "googleMapsUrl": "https://maps.google.com/?q=Klaipeda+Old+Town"
+          "googleMapsUrl": "https://maps.google.com/?q=Klaipeda+Old+Town",
+          "descriptionPt": "As casas com entramado alemão da época Memel que ainda se conservan se concentran a lo largo das ruas Tiltu, Turgaus e Daru, com um carácter hanseático-prusiano sem igual en Lituania. Um circuito autoguiado de 60 a 90 minutos cubre lo esencial, incluindo John Square (Janturgaus aikste) e o pasaje Friedrich.",
+          "petPolicyPt": "Vía pública, cães com trela bem-vindos em todo o lado.",
+          "tipPt": "Recorre o circuito a primera hora o depois das 18:00 para disfrutar da arquitetura sem a multitud."
         }
       ],
       "tipsEn": [
@@ -563,19 +903,67 @@
         "El Museo del Mar y el acuario de Smiltyne no admiten perros, pero puedes dejar al perro con un acompañante en el bosque de Smiltyne mientras uno visita."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in Klaipeda museums?", "a": "Generally no for indoor museums (Castle Museum, Maritime Museum, History Museum). Assistance dogs are accepted. Outdoor sites and the Sculpture Park welcome leashed dogs."},
-        {"q": "What is the must-see in Klaipeda with a dog?", "a": "The Old Town loop (Theatre Square, Castle moat, Memel houses) followed by the free ferry to Smiltyne forest and beach."},
-        {"q": "Is the Maritime Museum dog-friendly?", "a": "No, dogs are not admitted to the Lithuanian Sea Museum and aquarium in Smiltyne."}
+        {
+          "q": "Are dogs allowed in Klaipeda museums?",
+          "a": "Generally no for indoor museums (Castle Museum, Maritime Museum, History Museum). Assistance dogs are accepted. Outdoor sites and the Sculpture Park welcome leashed dogs."
+        },
+        {
+          "q": "What is the must-see in Klaipeda with a dog?",
+          "a": "The Old Town loop (Theatre Square, Castle moat, Memel houses) followed by the free ferry to Smiltyne forest and beach."
+        },
+        {
+          "q": "Is the Maritime Museum dog-friendly?",
+          "a": "No, dogs are not admitted to the Lithuanian Sea Museum and aquarium in Smiltyne."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils admis dans les musées de Klaipeda ?", "a": "Généralement non pour les musées intérieurs (Musée du Château, Musée de la Mer, Musée d'Histoire). Les chiens d'assistance sont admis. Les sites extérieurs et le Parc des Sculptures accueillent les chiens en laisse."},
-        {"q": "Quel est l'incontournable à Klaipeda avec un chien ?", "a": "La boucle de la vieille ville (Theatre Square, douves du château, maisons Memel) suivie du ferry gratuit pour la forêt et la plage de Smiltyne."},
-        {"q": "Le Musée de la Mer est-il dog-friendly ?", "a": "Non, les chiens ne sont pas admis au Musée de la Mer de Lituanie et à l'aquarium de Smiltyne."}
+        {
+          "q": "Les chiens sont-ils admis dans les musées de Klaipeda ?",
+          "a": "Généralement non pour les musées intérieurs (Musée du Château, Musée de la Mer, Musée d'Histoire). Les chiens d'assistance sont admis. Les sites extérieurs et le Parc des Sculptures accueillent les chiens en laisse."
+        },
+        {
+          "q": "Quel est l'incontournable à Klaipeda avec un chien ?",
+          "a": "La boucle de la vieille ville (Theatre Square, douves du château, maisons Memel) suivie du ferry gratuit pour la forêt et la plage de Smiltyne."
+        },
+        {
+          "q": "Le Musée de la Mer est-il dog-friendly ?",
+          "a": "Non, les chiens ne sont pas admis au Musée de la Mer de Lituanie et à l'aquarium de Smiltyne."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en los museos de Klaipeda?", "a": "En general no en los museos interiores (Museo del Castillo, Museo del Mar, Museo de Historia). Los perros de asistencia sí. Los sitios al aire libre y el Parque de Esculturas admiten perros con correa."},
-        {"q": "¿Qué es imprescindible en Klaipeda con perro?", "a": "El circuito del Casco Antiguo (Theatre Square, fosos del castillo, casas Memel) seguido del ferry gratuito al bosque y playa de Smiltyne."},
-        {"q": "¿Es dog-friendly el Museo del Mar?", "a": "No, los perros no son admitidos en el Museo del Mar de Lituania y el acuario de Smiltyne."}
+        {
+          "q": "¿Se admiten perros en los museos de Klaipeda?",
+          "a": "En general no en los museos interiores (Museo del Castillo, Museo del Mar, Museo de Historia). Los perros de asistencia sí. Los sitios al aire libre y el Parque de Esculturas admiten perros con correa."
+        },
+        {
+          "q": "¿Qué es imprescindible en Klaipeda con perro?",
+          "a": "El circuito del Casco Antiguo (Theatre Square, fosos del castillo, casas Memel) seguido del ferry gratuito al bosque y playa de Smiltyne."
+        },
+        {
+          "q": "¿Es dog-friendly el Museo del Mar?",
+          "a": "No, los perros no son admitidos en el Museo del Mar de Lituania y el acuario de Smiltyne."
+        }
+      ],
+      "titlePt": "Melhores atracciones com animais en Klaipeda",
+      "introPt": "O compacto Centro histórico de Klaipeda é o corazón patrimonial da cidade: Theatre Square com a estatua de Aennchen von Tharau (Anike de Tharau) dedicada al poeta Simon Dach, as casas com entramado de madera da época Memel, o castelo en ruinas do século XIII e o seu pequenho museu, e o Parque de Esculturas de 12 hectáreas. A maioria das atracciones al aire libre admitem cães com trela; os museus interiores normalmente no (cães de assistência exceptuados).",
+      "tipsPt": [
+        "A maioria das atracciones al aire libre de Klaipeda são gratuitas e 24/7; os museus interiores (Museu do Castelo, Museu do mar no Istmo de Curlandia) normalmente no admitem cães.",
+        "Combina as ruinas do castelo com um café en Theatre Square e o Parque de Esculturas para uma media jornada compacta no Centro histórico.",
+        "O Museu do mar e o acuario de Smiltyne no admitem cães, mas puedes dejar al cão com um acompanhante no floresta de Smiltyne enquanto uno visita."
+      ],
+      "faqsPt": [
+        {
+          "q": "Se admitem cães nos museus de Klaipeda?",
+          "a": "En general no nos museus interiores (Museu do Castelo, Museu do mar, Museu de História). Os cães de assistência sí. Os sitios al aire libre e o Parque de Esculturas admitem cães com trela."
+        },
+        {
+          "q": "Qué é imprescindible en Klaipeda com cão?",
+          "a": "O circuito do centro histórico (Theatre Square, fosos do castelo, casas Memel) seguido do ferry gratuito al floresta e praia de Smiltyne."
+        },
+        {
+          "q": "É pet-friendly o Museu do mar?",
+          "a": "No, os cães no são admitidos no Museu do mar de Lituania e o acuario de Smiltyne."
+        }
       ]
     },
     "petsitting": {
@@ -601,7 +989,10 @@
           "servicesFr": "Promenade, garderie, pension de nuit, visites à domicile.",
           "servicesEs": "Paseo, guardería, pensión nocturna, visitas a domicilio.",
           "openingHours": "Sitter-dependent",
-          "tip": "Book at least 48 hours ahead in peak summer; many Klaipeda sitters fully book for July weekends."
+          "tip": "Book at least 48 hours ahead in peak summer; many Klaipeda sitters fully book for July weekends.",
+          "descriptionPt": "Plataforma internacional de cuidado e passeio de cães com perfiles verificados en Klaipeda. Filtra por serviço (passeio, guardería, noite), preço e resenhas; muitos cuidadores hablan inglês e podem recoger al cão en tu hotel.",
+          "petPolicyPt": "Reserva e política fijadas por cada cuidador; seguro disponible vía a plataforma.",
+          "servicesPt": "Passeio, guardería, pensión nocturna, visitas a domicilio."
         }
       ],
       "tipsEn": [
@@ -620,19 +1011,67 @@
         "Reserva con al menos 48 horas de antelación en temporada alta (fines de semana de julio, mediados de agosto) cuando la oferta local es escasa."
       ],
       "faqsEn": [
-        {"q": "How much does pet-sitting cost in Klaipeda?", "a": "Independent sitters via PetBacker typically charge less than Vilnius rates; check current profiles for exact prices."},
-        {"q": "Are there boarding kennels in Klaipeda?", "a": "Yes but mostly small independent operations. Bookings via PetBacker or local Facebook groups are more flexible for short stays."},
-        {"q": "Do sitters speak English?", "a": "Many do, especially younger sitters. Filter PetBacker profiles by language before booking."}
+        {
+          "q": "How much does pet-sitting cost in Klaipeda?",
+          "a": "Independent sitters via PetBacker typically charge less than Vilnius rates; check current profiles for exact prices."
+        },
+        {
+          "q": "Are there boarding kennels in Klaipeda?",
+          "a": "Yes but mostly small independent operations. Bookings via PetBacker or local Facebook groups are more flexible for short stays."
+        },
+        {
+          "q": "Do sitters speak English?",
+          "a": "Many do, especially younger sitters. Filter PetBacker profiles by language before booking."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte un pet-sitter à Klaipeda ?", "a": "Les sitters indépendants via PetBacker pratiquent généralement des tarifs inférieurs à Vilnius ; vérifiez les profils actuels pour les prix exacts."},
-        {"q": "Y a-t-il des pensions canines à Klaipeda ?", "a": "Oui mais principalement de petites structures indépendantes. La réservation via PetBacker ou des groupes Facebook locaux est plus souple pour les courts séjours."},
-        {"q": "Les sitters parlent-ils anglais ?", "a": "Beaucoup oui, surtout les plus jeunes. Filtrez les profils PetBacker par langue avant de réserver."}
+        {
+          "q": "Combien coûte un pet-sitter à Klaipeda ?",
+          "a": "Les sitters indépendants via PetBacker pratiquent généralement des tarifs inférieurs à Vilnius ; vérifiez les profils actuels pour les prix exacts."
+        },
+        {
+          "q": "Y a-t-il des pensions canines à Klaipeda ?",
+          "a": "Oui mais principalement de petites structures indépendantes. La réservation via PetBacker ou des groupes Facebook locaux est plus souple pour les courts séjours."
+        },
+        {
+          "q": "Les sitters parlent-ils anglais ?",
+          "a": "Beaucoup oui, surtout les plus jeunes. Filtrez les profils PetBacker par langue avant de réserver."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta un cuidador de mascotas en Klaipeda?", "a": "Los cuidadores independientes vía PetBacker suelen cobrar menos que las tarifas de Vilna; consulta perfiles actuales para precios exactos."},
-        {"q": "¿Hay residencias caninas en Klaipeda?", "a": "Sí pero principalmente pequeñas operaciones independientes. La reserva vía PetBacker o grupos locales de Facebook es más flexible para estancias cortas."},
-        {"q": "¿Los cuidadores hablan inglés?", "a": "Muchos sí, especialmente los más jóvenes. Filtra los perfiles de PetBacker por idioma antes de reservar."}
+        {
+          "q": "¿Cuánto cuesta un cuidador de mascotas en Klaipeda?",
+          "a": "Los cuidadores independientes vía PetBacker suelen cobrar menos que las tarifas de Vilna; consulta perfiles actuales para precios exactos."
+        },
+        {
+          "q": "¿Hay residencias caninas en Klaipeda?",
+          "a": "Sí pero principalmente pequeñas operaciones independientes. La reserva vía PetBacker o grupos locales de Facebook es más flexible para estancias cortas."
+        },
+        {
+          "q": "¿Los cuidadores hablan inglés?",
+          "a": "Muchos sí, especialmente los más jóvenes. Filtra los perfiles de PetBacker por idioma antes de reservar."
+        }
+      ],
+      "titlePt": "Cuidado e passeio de animais en Klaipeda",
+      "introPt": "Klaipeda cuenta com uma pequenha mas activa comunidad de cuidadores e paseadores de cães, acessíveis principalmente vía a plataforma internacional PetBacker, que lista perfiles para Klaipeda com resenhas e cuidadores que hablan inglês. No hay uma cadena de guardería totalmente com perreras como nas grandes capitales europeias; as reservas se fazem típicamente com cuidadores locales independientes que fazem visitas o passeios acompanhados.",
+      "tipsPt": [
+        "Os cuidadores independientes vía PetBacker são o canal de reserva mais fiable en Klaipeda; aqui no opera ninguna gran cadena de guardería.",
+        "Confirma os requisitos de vacinação por escrito antes de reservar, a maioria dois cuidadores piden al menos antirrábica + DHPP.",
+        "Reserva com al menos 48 horas de antelación en temporada alta (fines de semana de julho, mediados de agosto) quando a oferta local é escasa."
+      ],
+      "faqsPt": [
+        {
+          "q": "Cuánto cuesta um cuidador de animais en Klaipeda?",
+          "a": "Os cuidadores independientes vía PetBacker costumam cobrar menos que as tarifas de Vilna; consulta perfiles actuales para preços exactos."
+        },
+        {
+          "q": "Hay residencias caninas en Klaipeda?",
+          "a": "Sí mas principalmente pequenhas operaciones independientes. A reserva vía PetBacker o grupos locales de Facebook é mais flexible para estadias cortas."
+        },
+        {
+          "q": "Os cuidadores hablan inglês?",
+          "a": "Muitos sí, especialmente os mais jovens. Filtra os perfiles de PetBacker por idioma antes de reservar."
+        }
       ]
     }
   }

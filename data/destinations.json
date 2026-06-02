@@ -5261,6 +5261,81 @@
     "tiqetsId": "71854"
   },
   {
+    "slug": "formentera",
+    "name": "Formentera",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/formentera.jpg",
+    "intro": "Formentera is the smallest of the four major Balearic Islands, a flat 19 km strip of pale sand, juniper scrub and UNESCO-protected Posidonia seagrass meadows reachable only by ferry from Ibiza (30-45 min). 12,000 permanent residents swell to nearly 70,000 in peak summer; the rest of the year it is one of the calmest dog walks in the Mediterranean. Ses Illetes beach is regularly voted Europe's best, two clifftop lighthouses anchor the eastern and southern tips, and leashed dogs are welcome on the Camí Romà path to La Mola plateau. The seasonal beach ban runs 1 June-30 September, so April-May and October-November are the sweet spot. Access: Balearia, Aquabus and Trasmapi ferries from Ibiza Town port to La Savina.",
+    "lat": 38.6878,
+    "lng": 1.4319,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild Mediterranean winter",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Warming, dry",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Pleasant spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot, beach season",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Very hot afternoons",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild, occasional rain",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild, festive",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "IBZ"
+  },
+  {
     "slug": "frankfurt",
     "name": "Frankfurt",
     "country": "Germany",

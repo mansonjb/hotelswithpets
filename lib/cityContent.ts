@@ -8945,6 +8945,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  formentera: {
+    history: {
+      en: `Formentera is the smallest of the four major Balearic Islands, a flat 19 km strip of pale sand, juniper scrub and stone-walled fields lying 6 km south of Ibiza, reachable only by ferry from Ibiza Town to La Savina port (30 to 45 minutes). It has no airport, no high-rises and only 12,000 permanent residents - numbers that swell to nearly 70,000 in peak August before falling back to true island calm by November. The waters around the island are part of the UNESCO World Heritage Site of Eivissa and Formentera, recognised in 1999 for the exceptional Posidonia oceanica seagrass meadows that filter the famously turquoise sea. Inhabited since prehistory, repopulated in 1697 after centuries of Barbary raids, the island today combines a working agricultural interior with the world-famous beach of Ses Illetes, repeatedly voted the best in Europe. For the canine traveller, the sweet spot is April-May or October-November: gentle 18-23°C, beaches still or once again open to leashed dogs, prices roughly half of August, and a quiet ferry that lands you on a flat island made for slow walks.`,
+      fr: `Formentera est la plus petite des quatre îles principales des Baléares, une bande plate de 19 km de sable clair, garrigue de genévriers et champs de pierre située à 6 km au sud d'Ibiza, accessible uniquement par ferry d'Ibiza Town au port de La Savina (30 à 45 minutes). Pas d'aéroport, pas d'immeubles en hauteur et seulement 12 000 résidents permanents, des chiffres qui gonflent à près de 70 000 au pic d'août avant de retomber au vrai calme insulaire dès novembre. Les eaux autour de l'île font partie du site UNESCO Eivissa et Formentera, classé en 1999 pour les exceptionnels herbiers de Posidonia oceanica qui filtrent la mer aux turquoises légendaires. Habitée depuis la préhistoire, repeuplée en 1697 après des siècles d'incursions barbaresques, l'île combine aujourd'hui un intérieur agricole vivant et la plage mondialement célèbre de Ses Illetes, régulièrement élue meilleure d'Europe. Pour le voyageur canin, la fenêtre idéale est avril-mai ou octobre-novembre : 18-23°C cléments, plages encore ou de nouveau ouvertes aux chiens en laisse, tarifs divisés par deux par rapport à août, et un ferry tranquille qui débarque sur une île plate faite pour les promenades lentes.`,
+      es: `Formentera es la más pequeña de las cuatro islas mayores de Baleares, una franja plana de 19 km de arena clara, monte bajo de enebros y campos con muros de piedra situada a 6 km al sur de Ibiza, accesible solo en ferry desde Ibiza Town al puerto de La Savina (30 a 45 minutos). No tiene aeropuerto, ni edificios altos y solo 12.000 residentes permanentes, cifras que se inflan hasta casi 70.000 en el pico de agosto antes de volver a la verdadera calma insular en noviembre. Las aguas alrededor de la isla forman parte del sitio UNESCO de Eivissa y Formentera, declarado en 1999 por las excepcionales praderas de Posidonia oceanica que filtran el mar de turquesas legendarios. Habitada desde la prehistoria, repoblada en 1697 tras siglos de incursiones berberiscas, la isla combina hoy un interior agrícola vivo con la playa mundialmente famosa de Ses Illetes, elegida regularmente la mejor de Europa. Para el viajero canino, la ventana ideal es abril-mayo u octubre-noviembre: 18-23°C suaves, playas aún o de nuevo abiertas a perros con correa, tarifas a la mitad que en agosto, y un ferry tranquilo que desembarca en una isla llana hecha para los paseos pausados.`,
+      pt: `Formentera é a mais pequena das quatro ilhas principais das Baleares, uma faixa plana de 19 km de areia clara, mato de zimbros e campos com muros de pedra situada a 6 km a sul de Ibiza, acessível apenas de ferry a partir de Ibiza Town para o porto de La Savina (30 a 45 minutos). Não tem aeroporto, nem edifícios altos e apenas 12.000 residentes permanentes, números que sobem para perto de 70.000 no pico de agosto antes de regressar à verdadeira calma insular em novembro. As águas em volta da ilha fazem parte do sítio UNESCO de Eivissa e Formentera, classificado em 1999 pelas excecionais pradarias de Posidonia oceanica que filtram o mar de turquesas lendárias. Habitada desde a pré-história, repovoada em 1697 após séculos de incursões berberes, a ilha combina hoje um interior agrícola vivo com a praia mundialmente famosa de Ses Illetes, regularmente eleita a melhor da Europa. Para o viajante canino, a janela ideal é abril-maio ou outubro-novembro: 18-23°C suaves, praias ainda ou de novo abertas a cães com trela, tarifas a metade de agosto, e um ferry tranquilo que desembarca numa ilha plana feita para passeios pausados.`,
+    },
+    sights: [
+      {
+        name: `Far de la Mola`,
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          en: `1861 lighthouse on the 142 m vertical cliff at the eastern tip of Formentera, the easternmost point of the Balearics. Famous from Jules Verne's Hector Servadac novel. Leashed dogs welcome on the entire exterior platform and the surrounding clifftop paths; lighthouse interior is closed to visitors.`,
+          fr: `Phare de 1861 sur la falaise verticale de 142 m à l'extrémité orientale de Formentera, le point le plus à l'est des Baléares. Rendu célèbre par le roman Hector Servadac de Jules Verne. Chiens en laisse acceptés sur toute la plateforme extérieure et les sentiers de falaise alentour ; intérieur du phare fermé aux visiteurs.`,
+          es: `Faro de 1861 sobre el acantilado vertical de 142 m en el extremo oriental de Formentera, el punto más oriental de Baleares. Famoso por la novela Héctor Servadac de Julio Verne. Perros con correa admitidos en toda la plataforma exterior y senderos de acantilado circundantes; interior del faro cerrado a visitantes.`,
+          pt: `Farol de 1861 sobre a falésia vertical de 142 m no extremo oriental de Formentera, o ponto mais oriental das Baleares. Famoso pelo romance Heitor Servadac de Júlio Verne. Cães com trela admitidos em toda a plataforma exterior e trilhos de falésia circundantes; interior do farol fechado a visitantes.`,
+        },
+      },
+      {
+        name: `Far de Cap de Barbaria`,
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          en: `1972 lighthouse at the southern tip of Formentera, reached by 7 km of unpaved dirt track through juniper scrub and Bronze Age dwelling ruins. The most cinematic sunset spot on the island, with no built environment in any direction. Leashed dogs welcome the whole way and on the cliff platforms around the lighthouse.`,
+          fr: `Phare de 1972 à l'extrémité sud de Formentera, atteint après 7 km de piste en terre à travers garrigue de genévriers et vestiges d'habitats de l'âge du bronze. Le coucher de soleil le plus cinématographique de l'île, sans aucun bâti à l'horizon. Chiens en laisse acceptés sur tout le parcours et sur les plateformes de falaise autour du phare.`,
+          es: `Faro de 1972 en el extremo sur de Formentera, alcanzado tras 7 km de pista de tierra a través de monte bajo de enebros y ruinas de viviendas de la Edad del Bronce. El atardecer más cinematográfico de la isla, sin construcción alguna en el horizonte. Perros con correa admitidos en todo el recorrido y en las plataformas de acantilado alrededor del faro.`,
+          pt: `Farol de 1972 no extremo sul de Formentera, alcançado após 7 km de pista de terra através de mato de zimbros e ruínas de habitações da Idade do Bronze. O pôr do sol mais cinematográfico da ilha, sem qualquer construção no horizonte. Cães com trela admitidos em todo o percurso e nas plataformas de falésia em redor do farol.`,
+        },
+      },
+      {
+        name: `Ses Illetes & Trocadors`,
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          en: `The slim northern peninsula of Formentera, with white sand and turquoise water on both sides, regularly voted Europe's best beach. Dogs banned 1 June-30 September; outside that window the salt-flat causeway and the dirt service road across the peninsula tolerate leashed dogs and offer the iconic photo without the beach itself.`,
+          fr: `Fine péninsule nord de Formentera, sable blanc et eau turquoise des deux côtés, régulièrement élue meilleure plage d'Europe. Chiens interdits du 1er juin au 30 septembre ; hors de cette fenêtre, la chaussée des salines et la piste de service tolèrent les chiens en laisse et offrent la photo iconique sans la plage elle-même.`,
+          es: `Fina península norte de Formentera, arena blanca y agua turquesa por ambos lados, elegida regularmente la mejor playa de Europa. Perros prohibidos del 1 junio al 30 septiembre; fuera de esa ventana, la calzada de las salinas y la pista de servicio toleran perros con correa y ofrecen la foto icónica sin la playa misma.`,
+          pt: `Fina península norte de Formentera, areia branca e água turquesa em ambos os lados, regularmente eleita a melhor praia da Europa. Cães proibidos de 1 de junho a 30 de setembro; fora dessa janela, a calçada das salinas e a pista de serviço toleram cães com trela e oferecem a foto icónica sem a praia em si.`,
+        },
+      },
+      {
+        name: `Sant Francesc Xavier`,
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          en: `The white-washed capital village, anchored by the 1726 fortified parish church that doubled as a refuge from Barbary corsairs. The main square hosts the Wed/Sat craft markets and is ringed by café terraces welcoming leashed dogs; the church interior is closed to dogs but the exterior steps and walled garden are dog-friendly.`,
+          fr: `Le village capitale blanchi à la chaux, ancré par l'église paroissiale fortifiée de 1726 qui faisait office de refuge contre les corsaires barbaresques. La place principale accueille les marchés artisanaux du mercredi/samedi et est bordée de terrasses qui acceptent les chiens en laisse ; l'intérieur de l'église est fermé aux chiens mais l'escalier extérieur et le jardin clos sont dog-friendly.`,
+          es: `El pueblo capital encalado, anclado por la iglesia parroquial fortificada de 1726 que servía de refugio contra los corsarios berberiscos. La plaza principal acoge los mercados artesanales del miércoles/sábado y está rodeada de terrazas que admiten perros con correa; el interior de la iglesia está cerrado a perros pero la escalinata exterior y el jardín cerrado son dog-friendly.`,
+          pt: `A aldeia capital caiada, ancorada na igreja paroquial fortificada de 1726 que servia de refúgio contra os corsários berberes. A praça principal acolhe os mercados artesanais de quarta/sábado e é rodeada por esplanadas que admitem cães com trela; o interior da igreja está fechado a cães mas a escadaria exterior e o jardim murado são pet-friendly.`,
+        },
+      },
+      {
+        name: `Camí Romà to La Mola`,
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          en: `Historic 5 km dirt and stone path climbing from Es Caló de Sant Agustí up the cliff face to the La Mola plateau, used since Roman times. Pine groves, stone-walled fields and sweeping north coast views. Leashed dogs welcome year-round; gentle gradient suits older dogs.`,
+          fr: `Sentier historique de 5 km en terre et pierre qui grimpe d'Es Caló de Sant Agustí le long de la falaise jusqu'au plateau de La Mola, utilisé depuis l'époque romaine. Pinèdes, champs aux murs de pierre et vues larges sur la côte nord. Chiens en laisse acceptés toute l'année ; pente douce adaptée aux chiens âgés.`,
+          es: `Sendero histórico de 5 km de tierra y piedra que sube desde Es Caló de Sant Agustí por el acantilado hasta el altiplano de La Mola, usado desde época romana. Pinares, campos con muros de piedra y amplias vistas a la costa norte. Perros con correa admitidos todo el año; pendiente suave apta para perros mayores.`,
+          pt: `Trilho histórico de 5 km de terra e pedra que sobe desde Es Caló de Sant Agustí pela falésia até ao planalto de La Mola, usado desde a época romana. Pinhais, campos com muros de pedra e vistas amplas sobre a costa norte. Cães com trela admitidos durante todo o ano; declive suave adequado a cães idosos.`,
+        },
+      },
+      {
+        name: `Sant Ferran de ses Roques`,
+        emoji: '🎸',
+        petFriendly: true,
+        desc: {
+          en: `The bohemian inland village famous for its hippy-era heritage, where Bob Dylan and Joni Mitchell drank at Fonda Pepe in the 1960s. The shaded village square in front of the 1883 church is the social hub, with dog-friendly terraces year-round and weekly live folk music in summer.`,
+          fr: `Le village intérieur bohème célèbre pour son héritage hippie, où Bob Dylan et Joni Mitchell buvaient chez Fonda Pepe dans les années 60. La place ombragée devant l'église de 1883 est le centre social, avec des terrasses dog-friendly toute l'année et de la musique folk live chaque semaine en été.`,
+          es: `El pueblo interior bohemio famoso por su herencia hippy, donde Bob Dylan y Joni Mitchell bebían en Fonda Pepe en los años 60. La plaza sombreada frente a la iglesia de 1883 es el centro social, con terrazas dog-friendly todo el año y música folk en vivo cada semana en verano.`,
+          pt: `A aldeia interior boémia famosa pela herança hippy, onde Bob Dylan e Joni Mitchell bebiam na Fonda Pepe nos anos 60. A praça sombreada frente à igreja de 1883 é o centro social, com esplanadas pet-friendly durante todo o ano e música folk ao vivo todas as semanas no verão.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Seasonal beach ban 1 June-30 September on every bathing beach in Formentera; municipal fines reach €750 and police do enforce. Leashed dogs are tolerated on Migjorn, Cala Saona and Es Caló outside that window.`,
+        `No airport: every dog arrives by ferry from Ibiza Town (Balearia, Aquabus, Trasmapi). Dogs travel free on the open outdoor deck; €5-10 supplement for cabin or interior seating on larger boats.`,
+        `No 24/7 vet on Formentera. The two local clinics in Sant Francesc and Es Pujols are daytime only. For overnight emergencies the only fully equipped hospital is Hospital Veterinario Ibiza in Sant Antoni, +34 971 19 50 50, 30-45 min by ferry from La Savina.`,
+        `Posidonia and Natura 2000 protection: the surrounding seagrass meadows and the Ses Salines lagoons are UNESCO and EU protected. Keep dogs on leash inside park boundaries year-round, never let them dig dunes or chase shorebirds.`,
+        `Bike rental basket rule: most rental shops at La Savina port accept a dog up to 10 kg on a fixed front basket only. Reserve the basket separately one week ahead in July-August; baskets sell out before the bikes themselves.`,
+      ],
+      fr: [
+        `Interdiction saisonnière des chiens sur toutes les plages de baignade de Formentera du 1er juin au 30 septembre ; amendes municipales jusqu'à 750 €, la police verbalise. Les chiens en laisse sont tolérés à Migjorn, Cala Saona et Es Caló hors de cette fenêtre.`,
+        `Pas d'aéroport : chaque chien arrive par ferry d'Ibiza Town (Balearia, Aquabus, Trasmapi). Les chiens voyagent gratuitement sur le pont extérieur ; supplément 5-10 € pour cabine ou siège intérieur sur les plus gros bateaux.`,
+        `Pas de vétérinaire 24h/24 à Formentera. Les deux cliniques locales à Sant Francesc et Es Pujols sont diurnes. Pour les urgences nocturnes, le seul hôpital pleinement équipé est Hospital Veterinario Ibiza à Sant Antoni, +34 971 19 50 50, à 30-45 min en ferry depuis La Savina.`,
+        `Protection Posidonia et Natura 2000 : la prairie sous-marine environnante et les lagunes de Ses Salines sont protégées par l'UNESCO et l'UE. Gardez les chiens en laisse à l'intérieur des limites du parc toute l'année, ne les laissez jamais creuser les dunes ou poursuivre les oiseaux.`,
+        `Règle du panier vélo : la plupart des loueurs au port de La Savina n'acceptent un chien que jusqu'à 10 kg sur un panier avant fixe. Réservez le panier séparément une semaine à l'avance en juillet-août ; les paniers manquent avant les vélos.`,
+      ],
+      es: [
+        `Prohibición estacional de perros en todas las playas de baño de Formentera del 1 junio al 30 septiembre; multas municipales hasta 750 € y la policía multa. Los perros con correa se toleran en Migjorn, Cala Saona y Es Caló fuera de esa ventana.`,
+        `Sin aeropuerto: cada perro llega en ferry desde Ibiza Town (Balearia, Aquabus, Trasmapi). Los perros viajan gratis en cubierta exterior; suplemento 5-10 € por camarote o asiento interior en barcos más grandes.`,
+        `Sin veterinario 24/7 en Formentera. Las dos clínicas locales en Sant Francesc y Es Pujols son diurnas. Para urgencias nocturnas el único hospital plenamente equipado es Hospital Veterinario Ibiza en Sant Antoni, +34 971 19 50 50, a 30-45 min en ferry desde La Savina.`,
+        `Protección Posidonia y Natura 2000: la pradera submarina circundante y las lagunas de Ses Salines están protegidas por UNESCO y UE. Mantén los perros con correa dentro de los límites del parque todo el año, nunca dejes que caven dunas o persigan aves costeras.`,
+        `Regla de la cesta de bici: la mayoría de alquileres del puerto de La Savina solo admiten perros hasta 10 kg en cesta delantera fija. Reserva la cesta por separado con una semana de antelación en julio-agosto; las cestas se agotan antes que las bicis.`,
+      ],
+      pt: [
+        `Proibição sazonal de cães em todas as praias de banho de Formentera de 1 de junho a 30 de setembro; multas municipais até 750 € e a polícia aplica. Os cães com trela são tolerados em Migjorn, Cala Saona e Es Caló fora dessa janela.`,
+        `Sem aeroporto: cada cão chega de ferry a partir de Ibiza Town (Balearia, Aquabus, Trasmapi). Os cães viajam gratuitamente no convés exterior; suplemento 5-10 € por camarote ou lugar interior nos barcos maiores.`,
+        `Sem veterinário 24/7 em Formentera. As duas clínicas locais em Sant Francesc e Es Pujols são diurnas. Para urgências noturnas o único hospital plenamente equipado é Hospital Veterinario Ibiza em Sant Antoni, +34 971 19 50 50, a 30-45 min de ferry a partir de La Savina.`,
+        `Proteção Posidonia e Natura 2000: a pradaria submarina envolvente e as lagoas de Ses Salines estão protegidas pela UNESCO e UE. Mantenha os cães com trela dentro dos limites do parque durante todo o ano, nunca os deixe cavar dunas ou perseguir aves costeiras.`,
+        `Regra do cesto da bicicleta: a maioria dos alugueres do porto de La Savina só admite cães até 10 kg em cesto dianteiro fixo. Reserve o cesto separadamente com uma semana de antecedência em julho-agosto; os cestos esgotam antes das bicicletas.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `No airport on Formentera. Access only by ferry from Ibiza Town port to La Savina (30-45 min), operated by Balearia, Aquabus and Trasmapi year-round.`,
+        `Best seasons: April-May and October-November. Avoid July-August (beach ban, heat, crowds, 3× prices). Winter is mild but many restaurants and bike rentals close.`,
+        `No 24/7 emergency vet on the island: nearest is Hospital Veterinario Ibiza in Sant Antoni de Portmany on Ibiza, +34 971 19 50 50.`,
+        `EU pet passport, microchip and rabies vaccination required. UK pets need an Animal Health Certificate (AHC) issued by an Official Veterinarian within 10 days of travel; bring documents on the Ibiza ferry crossing.`,
+        `Currency EUR. Catalan is the co-official language with Spanish; signage is bilingual. The municipal pet ordenanza of the Consell Insular de Formentera enforces the 1 June-30 September beach ban with fines up to €750.`,
+      ],
+      fr: [
+        `Pas d'aéroport à Formentera. Accès uniquement par ferry depuis le port d'Ibiza Town vers La Savina (30-45 min), opéré par Balearia, Aquabus et Trasmapi toute l'année.`,
+        `Meilleures saisons : avril-mai et octobre-novembre. Évitez juillet-août (interdiction plages, chaleur, foule, prix x3). L'hiver est doux mais beaucoup de restaurants et loueurs de vélos ferment.`,
+        `Pas de vétérinaire d'urgence 24h/24 sur l'île : le plus proche est Hospital Veterinario Ibiza à Sant Antoni de Portmany sur Ibiza, +34 971 19 50 50.`,
+        `Passeport européen pour animaux, puce et vaccination antirabique obligatoires. Les chiens UK ont besoin d'un Animal Health Certificate (AHC) délivré par un vétérinaire officiel dans les 10 jours précédant le voyage ; emportez les documents lors de la traversée en ferry depuis Ibiza.`,
+        `Monnaie EUR. Le catalan est co-officiel avec l'espagnol ; la signalétique est bilingue. L'arrêté municipal du Conseil insulaire de Formentera applique l'interdiction plages du 1er juin au 30 septembre avec des amendes jusqu'à 750 €.`,
+      ],
+      es: [
+        `Sin aeropuerto en Formentera. Acceso solo en ferry desde el puerto de Ibiza Town a La Savina (30-45 min), operado por Balearia, Aquabus y Trasmapi todo el año.`,
+        `Mejores temporadas: abril-mayo y octubre-noviembre. Evita julio-agosto (prohibición de playa, calor, multitudes, precios x3). El invierno es suave pero muchos restaurantes y alquileres de bicis cierran.`,
+        `Sin veterinario de urgencias 24/7 en la isla: el más cercano es Hospital Veterinario Ibiza en Sant Antoni de Portmany en Ibiza, +34 971 19 50 50.`,
+        `Pasaporte europeo para mascotas, microchip y vacunación antirrábica obligatorios. Los perros del Reino Unido necesitan un Animal Health Certificate (AHC) emitido por un veterinario oficial dentro de los 10 días previos al viaje; lleva los documentos en la travesía en ferry desde Ibiza.`,
+        `Moneda EUR. El catalán es cooficial con el castellano; la señalización es bilingüe. La ordenanza municipal del Consell Insular de Formentera aplica la prohibición de playas del 1 junio al 30 septiembre con multas hasta 750 €.`,
+      ],
+      pt: [
+        `Sem aeroporto em Formentera. Acesso apenas de ferry a partir do porto de Ibiza Town para La Savina (30-45 min), operado por Balearia, Aquabus e Trasmapi durante todo o ano.`,
+        `Melhores épocas: abril-maio e outubro-novembro. Evite julho-agosto (proibição de praia, calor, multidões, preços x3). O inverno é suave mas muitos restaurantes e alugueres de bicicletas fecham.`,
+        `Sem veterinário de urgência 24/7 na ilha: o mais próximo é Hospital Veterinario Ibiza em Sant Antoni de Portmany em Ibiza, +34 971 19 50 50.`,
+        `Passaporte europeu para animais, microchip e vacinação antirrábica obrigatórios. Os cães do Reino Unido precisam de um Animal Health Certificate (AHC) emitido por um veterinário oficial nos 10 dias anteriores à viagem; leve os documentos na travessia de ferry a partir de Ibiza.`,
+        `Moeda EUR. O catalão é cooficial com o castelhano; a sinalização é bilingue. A ordenança municipal do Consell Insular de Formentera aplica a proibição de praias de 1 de junho a 30 de setembro com multas até 750 €.`,
+      ],
+    },
+  },
+
   frankfurt: {
     history: {
       fr: `Francfort-sur-le-Main, cité libre du Saint Empire romain germanique et lieu du couronnement des empereurs pendant cinq siècles, est aujourd'hui la capitale financière de l'Allemagne et le siège de la Banque centrale européenne. Derrière sa skyline de gratte-ciel, unique em Europe continentale, se cache une ville étonnamment verte : plus de 52% du territoire est forêt, parc ou plan d'eau, dont le Stadtwald de 4 200 hectares, l'une des plus grandes forêts municipales d'Allemagne. Le quartier historique de Sachsenhausen, avec ses ruelles pavées et ses Apfelweinwirtschaften centenaires, incarne l'autre visage de la ville : traditionnel, convivial, résolument tourné vers le chien. Entre la promenade Mainufer de 4 km, les sentiers du Stadtwald et les Hundeauslaufflächen clôturés du Grüneburgpark et du Niddapark, Francfort offre aux propriétaires de chiens un équilibre rare entre grande métropole et nature urbaine.`,

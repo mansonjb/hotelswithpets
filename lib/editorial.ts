@@ -371,6 +371,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Boboli Gardens, the Cascine park (off-leash zones), and the Arno riverside paths',
       area: 'Oltrarno, Santa Croce, and San Frediano',
     },
+    formentera: {
+      personality: `the smallest of the four major Balearic Islands, a flat 19 km strip of pale sand, juniper scrub and UNESCO-protected Posidonia seagrass reachable only by ferry from Ibiza, where 12,000 year-round residents and one of the calmest Mediterranean shoulder seasons turn the whole island into a long dog walk`,
+      highlight: `the Far de la Mola lighthouse on the eastern 142 m cliff, the Camí Romà historic path up to the La Mola plateau, and the Trocadors peninsula causeway above Ses Illetes`,
+      area: `Sant Francesc Xavier (the capital with the 1726 fortified church), Es Pujols (the main coastal resort), and Sant Ferran de ses Roques (the bohemian inland village)`,
+    },
     frankfurt: {
       personality: 'Germany\'s greenest financial capital, 52% of the city is woodland or parks, with a 4,200-hectare Stadtwald, dog-welcoming Apfelwein taverns in Sachsenhausen, and two 24/7 emergency vet clinics',
       highlight: 'the fenced Hundeauslauffläche in Grüneburgpark, the 4 km Mainufer promenade, and the Stadtwald forest trails',
@@ -1319,6 +1324,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les Jardins de Boboli, le parc des Cascine (zones sans laisse) et les chemins riverains de l\'Arno',
       area: 'Oltrarno, Santa Croce et San Frediano',
     },
+    formentera: {
+      personality: `la plus petite des quatre îles principales des Baléares, une bande plate de 19 km de sable clair, de garrigue de genévriers et d'herbiers de Posidonie protégés par l'UNESCO, accessible uniquement par ferry depuis Ibiza, où 12 000 résidents permanents et l'une des intersaisons méditerranéennes les plus paisibles transforment toute l'île en une longue promenade canine`,
+      highlight: `le phare du Far de la Mola sur la falaise orientale de 142 m, le Camí Romà historique qui grimpe jusqu'au plateau de La Mola, et la chaussée des Trocadors au-dessus de Ses Illetes`,
+      area: `Sant Francesc Xavier (la capitale avec son église fortifiée de 1726), Es Pujols (la principale station balnéaire) et Sant Ferran de ses Roques (le village bohème de l'intérieur)`,
+    },
     frankfurt: {
       personality: 'la capitale financière la plus verte d\'Allemagne, 52% de la ville est forêt ou parcs, avec un Stadtwald de 4 200 hectares, des tavernes à Apfelwein dog-friendly à Sachsenhausen, et deux cliniques vétérinaires d\'urgence ouvertes 24h/24',
       highlight: 'la Hundeauslauffläche clôturée du Grüneburgpark, la promenade Mainufer de 4 km et les sentiers forestiers du Stadtwald',
@@ -2266,6 +2276,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'los Jardines de Bóboli, el parque de las Cascine (zonas sin correa) y los caminos ribereños del Arno',
       area: 'Oltrarno, Santa Croce y San Frediano',
     },
+    formentera: {
+      personality: `la más pequeña de las cuatro islas mayores de Baleares, una franja plana de 19 km de arena clara, monte bajo de enebros y praderas de Posidonia protegidas por UNESCO, accesible solo en ferry desde Ibiza, donde 12.000 residentes anuales y una de las temporadas medias mediterráneas más tranquilas convierten toda la isla en un largo paseo canino`,
+      highlight: `el faro del Far de la Mola sobre el acantilado oriental de 142 m, el histórico Camí Romà que sube al altiplano de La Mola, y la calzada de los Trocadors sobre Ses Illetes`,
+      area: `Sant Francesc Xavier (la capital con su iglesia fortificada de 1726), Es Pujols (el principal núcleo turístico) y Sant Ferran de ses Roques (el pueblo bohemio del interior)`,
+    },
     frankfurt: {
       personality: 'la capital financiera más verde de Alemania, el 52% de la ciudad es bosque o parques, con un Stadtwald de 4.200 hectáreas, tabernas de Apfelwein dog-friendly en Sachsenhausen y dos clínicas veterinarias de urgencias abiertas 24/7',
       highlight: 'la Hundeauslauffläche vallada del Grüneburgpark, el paseo Mainufer de 4 km y los senderos forestales del Stadtwald',
@@ -3212,6 +3227,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade renascentista onde os cães trotean sobre adoquines hacia os mercados matutinos, descansan sob os parasoles dos cafés e pasean pelas margens do Arno cada tarde com os seus duenhos',
       highlight: 'os Jardins de Bóboli, o parque das Cascine (zonas sem trela) e os caminos riberenhos do Arno',
       area: 'Oltrarno, Santa Croce e San Frediano',
+    },
+    formentera: {
+      personality: `a mais pequena das quatro ilhas principais das Baleares, uma faixa plana de 19 km de areia clara, mato de zimbros e pradarias de Posidonia protegidas pela UNESCO, acessível apenas de ferry a partir de Ibiza, onde 12.000 residentes anuais e uma das épocas médias mediterrânicas mais tranquilas transformam toda a ilha num longo passeio canino`,
+      highlight: `o farol do Far de la Mola sobre a falésia oriental de 142 m, o histórico Camí Romà que sobe ao planalto de La Mola, e a calçada dos Trocadors sobre Ses Illetes`,
+      area: `Sant Francesc Xavier (a capital com a sua igreja fortificada de 1726), Es Pujols (o principal núcleo turístico) e Sant Ferran de ses Roques (a aldeia boémia do interior)`,
     },
     frankfurt: {
       personality: 'a capital financiera mais verde de Alemania, o 52% da cidade é floresta o parques, com um Stadtwald de 4.200 hectáreas, tabernas de Apfelwein pet-friendly en Sachsenhausen e dos clínicas veterinárias de urgências abiertas 24/7',

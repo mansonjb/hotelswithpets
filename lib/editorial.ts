@@ -506,6 +506,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Auenwald floodplain forest, the Cospudener See dog beach, and the Karl-Heine-Kanal towpath linking Plagwitz to the Karli district`,
       area: `the Innenstadt around the Markt, the Karli (Karl-Liebknecht-Straße), and the Plagwitz creative district`,
     },
+    liepaja: {
+      personality: `Latvia's third-largest city and main southern Baltic port, the city where the wind is born, with a 7 km Blue Flag beach open to leashed dogs year-round, the world's largest unreconstructed mechanical organ in Holy Trinity Cathedral, and Karosta, the only military prison in Europe you can spend the night in`,
+      highlight: `the 7 km Blue Flag city beach north of the fishermen's monument, the 50-hectare Seaside Park (Jurmalas parks), and the Karosta wild beach beyond the former Soviet naval port`,
+      area: `the Old Town around Rose Square, the Seaside Park along Liepu iela, and the Karosta district north of the Trade Channel`,
+    },
     lille: {
       personality: 'a flemish-influenced northern French city of cobbled lanes and brick gabled houses, home to Europe\'s first dedicated dog café and a flat, walkable centre where dogs ride the métro free of charge',
       highlight: 'the Citadelle ramparts walk, the Bois de Boulogne urban forest, and the Vieux Lille terrace cafés',
@@ -1439,6 +1444,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la forêt alluviale Auenwald, la plage canine du Cospudener See et le chemin de halage du Karl-Heine-Kanal qui relie Plagwitz au quartier Karli`,
       area: `l'Innenstadt autour du Markt, le Karli (Karl-Liebknecht-Straße) et le quartier créatif de Plagwitz`,
     },
+    liepaja: {
+      personality: `la troisième ville de Lettonie et le principal port balte sud, la ville où naît le vent, avec 7 km de plage Pavillon Bleu accessible aux chiens en laisse toute l'année, le plus grand orgue mécanique non reconstruit du monde à la cathédrale Sainte-Trinité, et Karosta, la seule prison militaire d'Europe où l'on peut passer la nuit`,
+      highlight: `les 7 km de plage urbaine Pavillon Bleu au nord du monument aux pêcheurs, le Parc de bord de mer (Jurmalas parks) de 50 hectares, et la plage sauvage de Karosta au-delà de l'ancien port militaire soviétique`,
+      area: `la Vieille Ville autour de la place des Roses, le Parc de bord de mer le long de Liepu iela, et le quartier de Karosta au nord du canal du Commerce`,
+    },
     lille: {
       personality: `une ville du nord de la France d'influence flamande, faite de ruelles pavées et de maisons à pignons en brique, qui abrite le premier café à chiens d'Europe et un centre plat et marchable où les chiens voyagent gratuitement en métro`,
       highlight: `la promenade des remparts de la Citadelle, le Bois de Boulogne urbain et les terrasses du Vieux Lille`,
@@ -2371,6 +2381,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el bosque aluvial Auenwald, la playa canina del Cospudener See y el camino de sirga del Karl-Heine-Kanal que conecta Plagwitz con el barrio Karli`,
       area: `la Innenstadt alrededor del Markt, el Karli (Karl-Liebknecht-Straße) y el barrio creativo de Plagwitz`,
     },
+    liepaja: {
+      personality: `la tercera ciudad de Letonia y el principal puerto báltico sur, la ciudad donde nace el viento, con 7 km de playa Bandera Azul accesible a perros con correa todo el año, el mayor órgano mecánico no reconstruido del mundo en la catedral de la Santísima Trinidad, y Karosta, la única prisión militar de Europa donde se puede pasar la noche`,
+      highlight: `los 7 km de playa urbana Bandera Azul al norte del monumento a los pescadores, el Parque Costero (Jurmalas parks) de 50 hectáreas, y la playa salvaje de Karosta más allá del antiguo puerto militar soviético`,
+      area: `el casco antiguo en torno a la plaza de las Rosas, el Parque Costero a lo largo de Liepu iela, y el barrio de Karosta al norte del canal del Comercio`,
+    },
     lille: {
       personality: `una ciudad del norte de Francia de influencia flamenca, de calles adoquinadas y casas de ladrillo con frontones, sede del primer café canino de Europa y con un centro plano y caminable donde los perros viajan gratis en metro`,
       highlight: `el paseo por las murallas de la Citadelle, el Bois de Boulogne urbano y las terrazas del Vieux Lille`,
@@ -3302,6 +3317,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital musical de Sajonia e a cidade de Bach, floresta aluvial Auenwald de 5 500 hectáreas no centro, camino de sirga pet-friendly do Karl-Heine-Kanal, 11 Hundeauslaufzonen valladas e uma Hundestrand o ano inteiro no Cospudener See a 12 min en S-Bahn`,
       highlight: `o floresta aluvial Auenwald, a praia canina do Cospudener See e o camino de sirga do Karl-Heine-Kanal que conecta Plagwitz com o bairro Karli`,
       area: `a Innenstadt alrededor do Markt, o Karli (Karl-Liebknecht-Straße) e o bairro creativo de Plagwitz`,
+    },
+    liepaja: {
+      personality: `a terceira cidade da Letónia e o principal porto báltico sul, a cidade onde nasce o vento, com 7 km de praia Bandeira Azul acessível a cães com trela todo o ano, o maior órgão mecânico não reconstruído do mundo na catedral da Santíssima Trindade, e Karosta, a única prisão militar da Europa onde se pode passar a noite`,
+      highlight: `os 7 km de praia urbana Bandeira Azul a norte do monumento aos pescadores, o Parque Costeiro (Jurmalas parks) de 50 hectares, e a praia selvagem de Karosta para além do antigo porto militar soviético`,
+      area: `a Cidade Velha em torno da praça das Rosas, o Parque Costeiro ao longo de Liepu iela, e o bairro de Karosta a norte do canal do Comércio`,
     },
     lille: {
       personality: `uma cidade do norte de Francia de influencia flamenca, de ruas adoquinadas e casas de ladrillo com frontones, sede do primer café canino de Europa e com um centro plano e pedonal onde os cães viajan grátis no metro`,

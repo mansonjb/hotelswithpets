@@ -12475,6 +12475,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  liepaja: {
+    history: {
+      fr: `Fondée en 1253 comme port de la Mer Baltique, Liepāja (Libau en allemand) est devenue au XIXe siècle un point d'embarquement majeur pour l'émigration vers les Amériques et la troisième ville de Lettonie avec environ 67 000 habitants. La cathédrale Sainte-Trinité, construite entre 1742 et 1758, abrite le plus grand orgue mécanique non reconstruit du monde, 131 jeux et plus de 7 000 tuyaux. Au nord du canal du Commerce, l'ancien district militaire soviétique de Karosta conserve forts, cathédrale orthodoxe et la seule prison militaire d'Europe ouverte au tourisme. Les chiens font partie du paysage local et la loi lettonne exige la laisse en public, le ramassage des déjections et l'identification électronique pour tout chien de plus de quatre mois. La ville maintient un unique enclos sans laisse, attenant au refuge animalier municipal Lauvas sirds sur le boulevard du 14 novembre.`,
+      en: `Founded in 1253 as a Baltic Sea port, Liepāja (Libau in German) grew in the 19th century into a major embarkation point for emigration to the Americas and is today Latvia's third-largest city with about 67 000 residents. Holy Trinity Cathedral, built 1742 to 1758, houses the largest unreconstructed mechanical organ in the world, 131 stops and over 7 000 pipes. North of the Trade Channel, the former Soviet military district of Karosta preserves coastal forts, an Orthodox naval cathedral and the only military prison in Europe open to tourists. Dogs are part of the local street scene and Latvian law requires a leash in public, scooping waste and microchipping of every dog over four months. The city maintains a single fenced off-leash lot at the municipal animal shelter Lauvas sirds on 14. novembra boulevard.`,
+      es: `Fundada en 1253 como puerto báltico, Liepāja (Libau en alemán) creció en el siglo XIX como punto de embarque mayor para la emigración a las Américas y es hoy la tercera ciudad de Letonia con unos 67 000 habitantes. La catedral de la Santísima Trinidad, construida entre 1742 y 1758, alberga el mayor órgano mecánico no reconstruido del mundo, 131 registros y más de 7 000 tubos. Al norte del canal del Comercio, el antiguo distrito militar soviético de Karosta conserva fuertes costeros, una catedral ortodoxa naval y la única prisión militar de Europa abierta al turismo. Los perros forman parte del paisaje callejero y la ley letona exige correa en la vía pública, recogida de excrementos y microchip para todo perro de más de cuatro meses. La ciudad mantiene un único recinto sin correa vallado en el refugio municipal Lauvas sirds en el bulevar 14 de noviembre.`,
+      pt: `Fundada em 1253 como porto báltico, Liepāja (Libau em alemão) cresceu no século XIX como ponto de embarque importante para a emigração para as Américas e é hoje a terceira cidade da Letónia com cerca de 67 000 habitantes. A catedral da Santíssima Trindade, construída entre 1742 e 1758, alberga o maior órgão mecânico não reconstruído do mundo, 131 registos e mais de 7 000 tubos. A norte do canal do Comércio, o antigo distrito militar soviético de Karosta conserva fortes costeiros, uma catedral ortodoxa naval e a única prisão militar da Europa aberta ao turismo. Os cães fazem parte da paisagem urbana e a lei letã exige trela na via pública, recolha de dejetos e microchip para todo cão com mais de quatro meses. A cidade mantém um único recinto sem trela vedado no refúgio municipal Lauvas sirds no boulevard 14 de Novembro.`,
+    },
+    sights: [
+      { name: `Jūrmalas parks (Seaside Park)`, emoji: `🌲`, petFriendly: true, desc: {
+        fr: `Bande boisée de 3 km et 50 hectares plantée de 170 espèces d'arbres, qui sépare la Vieille Ville des dunes de la Baltique. Chiens en laisse acceptés sur toutes les allées.`,
+        en: `A 3 km, 50-hectare wooded strip planted with 170 tree species, separating the Old Town from the Baltic dunes. Leashed dogs welcome on every path.`,
+        es: `Franja arbolada de 3 km y 50 hectáreas con 170 especies de árboles, que separa el casco antiguo de las dunas del Báltico. Perros con correa en todos los senderos.`,
+        pt: `Faixa arborizada de 3 km e 50 hectares plantada com 170 espécies de árvores, separando a Cidade Velha das dunas do Báltico. Cães com trela em todos os caminhos.`,
+      }},
+      { name: `Plage urbaine Pavillon Bleu (7 km)`, emoji: `🏖️`, petFriendly: true, desc: {
+        fr: `Sept kilomètres de sable Pavillon Bleu, l'une des plages les plus propres d'Europe du Nord. Chiens en laisse hors de la zone de baignade balisée, toute l'année.`,
+        en: `Seven kilometres of Blue Flag sand, one of the cleanest beaches in northern Europe. Leashed dogs allowed outside the marked bathing zone, year-round.`,
+        es: `Siete kilómetros de arena Bandera Azul, una de las playas más limpias del norte de Europa. Perros con correa fuera de la zona de baño señalizada, todo el año.`,
+        pt: `Sete quilómetros de areia Bandeira Azul, uma das praias mais limpas do norte da Europa. Cães com trela fora da zona de banho sinalizada, o ano inteiro.`,
+      }},
+      { name: `Cathédrale Sainte-Trinité (orgue mécanique)`, emoji: `⛪`, petFriendly: false, desc: {
+        fr: `Construite 1742-1758, abrite le plus grand orgue mécanique non reconstruit au monde (131 jeux, 7 000+ tuyaux). Pas de chiens à l'intérieur, parvis et base de la tour de 55 m accessibles.`,
+        en: `Built 1742 to 1758, houses the world's largest unreconstructed mechanical organ (131 stops, 7 000+ pipes). No dogs inside, but the square and 55 m tower exterior are open.`,
+        es: `Construida 1742-1758, alberga el mayor órgano mecánico no reconstruido del mundo (131 registros, 7 000+ tubos). Sin perros dentro, plaza y exterior de la torre de 55 m abiertos.`,
+        pt: `Construída 1742-1758, alberga o maior órgão mecânico não reconstruído do mundo (131 registos, 7 000+ tubos). Sem cães no interior, mas a praça e o exterior da torre de 55 m estão abertos.`,
+      }},
+      { name: `Musée de la Prison de Karosta`, emoji: `🏚️`, petFriendly: false, desc: {
+        fr: `Seule prison militaire d'Europe ouverte aux touristes, visites guidées toutes les heures. Chiens interdits à l'intérieur, complexe extérieur et rues de Karosta praticables en laisse.`,
+        en: `Europe's only military prison open to tourists, guided tours every hour. No dogs inside, exterior complex and Karosta streets walkable on leash.`,
+        es: `Única prisión militar de Europa abierta al turismo, visitas guiadas cada hora. Sin perros dentro, complejo exterior y calles de Karosta paseables con correa.`,
+        pt: `Única prisão militar da Europa aberta ao turismo, visitas guiadas a cada hora. Sem cães no interior, complexo exterior e ruas de Karosta percorríveis com trela.`,
+      }},
+      { name: `Plage sauvage de Karosta`, emoji: `🌊`, petFriendly: true, desc: {
+        fr: `Plage déserte au-delà de l'ancien port militaire soviétique, vide même en juillet. Laisse en principe selon l'arrêté municipal, sans laisse toléré en pratique.`,
+        en: `Deserted beach beyond the former Soviet naval port, empty even in July. Leash in principle per city ordinance, off-leash tolerated in practice.`,
+        es: `Playa desierta más allá del antiguo puerto militar soviético, vacía incluso en julio. Correa en principio según ordenanza, sin correa tolerado en la práctica.`,
+        pt: `Praia deserta para além do antigo porto militar soviético, vazia mesmo em julho. Trela em princípio pelo regulamento, sem trela tolerado na prática.`,
+      }},
+      { name: `Place des Roses (Rožu laukums)`, emoji: `🌹`, petFriendly: true, desc: {
+        fr: `Cœur de la Vieille Ville, plantée de centaines de rosiers en été. Terrasses de cafés tout autour, chiens en laisse bienvenus en extérieur.`,
+        en: `Heart of the Old Town, planted with hundreds of rose bushes in summer. Café terraces all around, leashed dogs welcome outdoors.`,
+        es: `Corazón del casco antiguo, plantada con cientos de rosales en verano. Terrazas de cafés todo alrededor, perros con correa bienvenidos en exterior.`,
+        pt: `Coração da Cidade Velha, plantada com centenas de roseiras no verão. Esplanadas de cafés à volta, cães com trela bem-vindos no exterior.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Laisse obligatoire partout en public, sauf dans l'enclos cloturé du refuge Lauvas sirds (14. novembra bulvāris 31/33), seul site sans laisse legal.`,
+        `Plage urbaine accessible aux chiens en laisse toute l'année hors de la zone de baignade balisée, portion préférée au nord du monument aux pêcheurs.`,
+        `Soins des pattes essentiels en hiver, le sel routier de novembre à mars peut fissurer les coussinets, cire ou bottines recommandées.`,
+        `Saison des tiques d'avril à octobre, lisières boisées du Parc de bord de mer particulièrement infestées, utilisez un antiparasitaire prescription.`,
+        `Davet veterinara klinika (Ventspils iela 54, +371 63 489 489) est la seule urgence vétérinaire 24h/24 de Liepāja, appelez avant d'arriver la nuit.`,
+      ],
+      en: [
+        `Leash required everywhere in public except the fenced shelter lot at Lauvas sirds (14. novembra bulvāris 31/33), the only legal off-leash site.`,
+        `City beach open to leashed dogs year-round outside the marked bathing zone, favourite local stretch is north of the fishermen's monument.`,
+        `Winter paw care essential, road salt from November to March cracks pads, use wax or boots.`,
+        `Tick season April to October, the Seaside Park forest edges are particularly infested, use a prescription preventive.`,
+        `Davet veterinara klinika (Ventspils iela 54, +371 63 489 489) is Liepāja's only 24-hour emergency vet, call ahead at night.`,
+      ],
+      es: [
+        `Correa obligatoria en todo lugar público excepto el recinto vallado del refugio Lauvas sirds (14. novembra bulvāris 31/33), único sin correa legal.`,
+        `Playa urbana abierta a perros con correa todo el año fuera de la zona de baño señalizada, tramo favorito al norte del monumento a los pescadores.`,
+        `Cuidado invernal de almohadillas esencial, la sal de carretera de noviembre a marzo agrieta las almohadillas, usa cera o botas.`,
+        `Temporada de garrapatas abril a octubre, los bordes arbolados del Parque Costero están especialmente infestados, usa antiparasitario con receta.`,
+        `Davet veterinara klinika (Ventspils iela 54, +371 63 489 489) es la única urgencia veterinaria 24 horas de Liepāja, llama antes por la noche.`,
+      ],
+      pt: [
+        `Trela obrigatória em todo lugar público exceto o recinto vedado do refúgio Lauvas sirds (14. novembra bulvāris 31/33), único sem trela legal.`,
+        `Praia urbana aberta a cães com trela o ano inteiro fora da zona de banho sinalizada, troço favorito a norte do monumento aos pescadores.`,
+        `Cuidado invernal das almofadas essencial, o sal da estrada de novembro a março fissura as almofadas, use cera ou botas.`,
+        `Época das carraças de abril a outubro, as bordas arborizadas do Parque Costeiro estão particularmente infestadas, use antiparasitário com receita.`,
+        `Davet veterinara klinika (Ventspils iela 54, +371 63 489 489) é a única urgência veterinária 24 horas de Liepāja, ligue antes de chegar à noite.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Météo: climat baltique, été doux 18-22°C juillet-août, hiver froid -2 à 0°C décembre-mars, vents d'ouest forts toute l'année.`,
+        `Transport public: tram Liepājas Tramvajs (ligne unique nord-sud) et 13 lignes de bus, ticket unifié, pas de règle pets publiée, appeler +371 634 28744.`,
+        `Aéroport: Liepāja International (LPX) à 7 km, vols saisonniers vers Riga et Hambourg, alternative pratique RIX Riga à 220 km.`,
+        `Monnaie: euro depuis 2014, paiement carte accepté presque partout, espèces utiles pour les marchés.`,
+        `Urgence vétérinaire: Davet 24h/24 sur Ventspils iela 54 (+371 63 489 489), spécialistes à Jelgava 230 km.`,
+      ],
+      en: [
+        `Weather: Baltic climate, mild summers 18-22°C July to August, cold winters -2 to 0°C December to March, strong westerlies year-round.`,
+        `Public transport: Liepājas Tramvajs (single north-south line) and 13 bus routes, unified ticket, no published pet rule, call +371 634 28744.`,
+        `Airport: Liepāja International (LPX) 7 km out, seasonal flights to Riga and Hamburg, practical alternative RIX Riga 220 km.`,
+        `Currency: euro since 2014, card payment accepted almost everywhere, cash useful for markets.`,
+        `Emergency vet: Davet 24-hour clinic at Ventspils iela 54 (+371 63 489 489), specialists at Jelgava 230 km.`,
+      ],
+      es: [
+        `Clima: báltico, veranos suaves 18-22°C julio-agosto, inviernos fríos -2 a 0°C diciembre-marzo, vientos de poniente fuertes todo el año.`,
+        `Transporte público: Liepājas Tramvajs (línea única norte-sur) y 13 líneas de autobús, billete unificado, sin norma para mascotas publicada, llama +371 634 28744.`,
+        `Aeropuerto: Liepāja International (LPX) a 7 km, vuelos estacionales a Riga y Hamburgo, alternativa práctica RIX Riga a 220 km.`,
+        `Moneda: euro desde 2014, pago con tarjeta aceptado casi en todas partes, efectivo útil para mercados.`,
+        `Urgencia veterinaria: Davet 24 horas en Ventspils iela 54 (+371 63 489 489), especialistas en Jelgava a 230 km.`,
+      ],
+      pt: [
+        `Clima: báltico, verões amenos 18-22°C julho-agosto, invernos frios -2 a 0°C dezembro-março, ventos de oeste fortes o ano inteiro.`,
+        `Transporte público: Liepājas Tramvajs (linha única norte-sul) e 13 linhas de autocarro, bilhete unificado, sem regra para animais publicada, ligue +371 634 28744.`,
+        `Aeroporto: Liepāja International (LPX) a 7 km, voos sazonais para Riga e Hamburgo, alternativa prática RIX Riga a 220 km.`,
+        `Moeda: euro desde 2014, pagamento com cartão aceite quase em todo o lado, dinheiro útil para mercados.`,
+        `Urgência veterinária: Davet 24 horas em Ventspils iela 54 (+371 63 489 489), especialistas em Jelgava a 230 km.`,
+      ],
+    },
+  },
+
   lille: {
     history: {
       fr: `Lille est la capitale historique des Flandres françaises, ancien comptoir drapier médiéval qui changea plusieurs fois de mains entre la France, la Bourgogne et les Pays-Bas espagnols avant d'être rattachée définitivement à la France par Louis XIV en 1668. Vauban y construisit alors la Citadelle pentagonale, encore l'un des plus beaux ensembles fortifiés d'Europe. Au XIXe siècle, Lille devint un cœur de la révolution industrielle textile française ; aujourd'hui, la ville s'est réinventée autour des services, du commerce et d'un campus universitaire de plus de 110 000 étudiants. Le centre piéton du Vieux Lille, soigneusement restauré, et la Grand Place encadrée par la Vieille Bourse em font l'une des destinations urbaines les plus marchables et photogéniques du nord de la France, particulièrement adaptée aux voyageurs accompagnés de leur animal.`,

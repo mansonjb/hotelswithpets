@@ -1,0 +1,509 @@
+{
+  "slug": "liepaja",
+  "name": "Liepaja",
+  "country": "Latvia",
+  "flag": "🇱🇻",
+  "lastUpdated": "2026-06-02",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Liepaja",
+      "titleFr": "Restaurants acceptant les animaux a Liepaja",
+      "titleEs": "Restaurantes con mascotas en Liepaja",
+      "introEn": "Liepaja's dining scene clusters around the Old Town between Kursu iela and the Trade Channel, and along the Seaside Park promenade. The local norm is pragmatic: most casual bars and summer terraces will welcome a well-behaved leashed dog, though indoor dining rooms generally do not. The summer beach cafes on Peldu iela are the easiest dog-friendly bet from June to August. Always ask before sitting down, and bring a collapsible water bowl as table service for dogs is not standard.",
+      "introFr": "La scene culinaire de Liepaja se concentre autour de la Vieille Ville entre Kursu iela et le canal du Commerce, ainsi que sur la promenade du Parc de bord de mer. La norme locale est pragmatique : la plupart des bars decontractes et terrasses estivales accueillent un chien en laisse bien eleve, tandis que les salles interieures n'acceptent generalement pas les animaux. Les cafes de plage de Peldu iela sont la valeur sure pour un repas avec chien de juin a aout. Demandez toujours avant de vous installer et apportez une gamelle pliable, le service pour chien n'est pas standard.",
+      "introEs": "La escena gastronomica de Liepaja se concentra en el casco antiguo entre Kursu iela y el canal del Comercio, y a lo largo del paseo del Parque Costero. La norma local es pragmatica: la mayoria de bares informales y terrazas de verano admiten perros con correa bien educados, aunque los comedores interiores no suelen aceptarlos. Los cafes de playa de Peldu iela son la apuesta mas segura para comer con perro de junio a agosto. Pregunta siempre antes de sentarte y lleva un cuenco plegable, el servicio para perros no es estandar.",
+      "places": [
+        {
+          "name": "Miezis & Kompanija",
+          "address": "Stendera iela 5, Liepaja LV-3401",
+          "neighborhood": "Old Town",
+          "photo": "/images/city-places/liepaja-restaurants-miezis-kompanija.jpg",
+          "website": "https://www.facebook.com/MiezisUnKompanija/",
+          "description": "A craft beer bar tucked into the Old Town off Stendera iela, popular with the local creative crowd for its rotating Latvian taps and informal yard seating. Verified pet-friendly in TripAdvisor reviews, the bar regularly welcomes dogs both in the yard and inside on quieter evenings. Food is bar snacks rather than full plates, the focus is the beer list and the conversation.",
+          "descriptionFr": "Un bar a bieres artisanales niche dans la Vieille Ville sur Stendera iela, prise par la scene creative locale pour ses taps lettons tournants et sa cour informelle. Verifie pet-friendly dans les avis TripAdvisor, le bar accueille regulierement les chiens dans la cour et a l'interieur les soirs calmes. La cuisine se limite a des snacks de bar, l'attraction reste la carte des bieres et la conversation.",
+          "descriptionEs": "Un bar de cerveza artesana escondido en el casco antiguo en Stendera iela, popular entre el publico creativo local por sus grifos letones rotativos y su patio informal. Verificado pet-friendly en resenas de TripAdvisor, el bar acoge regularmente perros en el patio e interior en las noches mas tranquilas. La oferta culinaria son tapas de bar, el atractivo principal es la carta de cervezas y la conversacion.",
+          "petPolicy": "Dogs welcome in yard and inside on quieter evenings, ask staff on arrival",
+          "petPolicyFr": "Chiens acceptes dans la cour et a l'interieur les soirs calmes, demandez au personnel a votre arrivee",
+          "petPolicyEs": "Perros admitidos en patio e interior en noches tranquilas, pregunta al personal al llegar",
+          "priceRange": "EE",
+          "mustTry": "Rotating Latvian craft taps, ask for the local Užavas lager",
+          "mustTryFr": "Taps lettons tournants, demandez la lager locale Užavas",
+          "mustTryEs": "Grifos letones rotativos, pide la lager local Užavas",
+          "openingHours": "Check Facebook page for current hours, evenings only midweek",
+          "tip": "Arrive before 20:00 on weekends, the small space fills with locals fast",
+          "tipFr": "Arrivez avant 20h00 le week-end, le petit espace se remplit vite avec les locaux",
+          "tipEs": "Llega antes de las 20:00 los fines de semana, el local es pequeno y se llena rapido",
+          "googleMapsUrl": "https://maps.google.com/?q=Miezis+Kompanija+Liepaja"
+        },
+        {
+          "name": "Beach Cafe Mermaid (Nakras kafejnica)",
+          "address": "Roņu iela end, Liepaja Beach LV-3401",
+          "neighborhood": "Seaside Park",
+          "photo": "/images/city-places/liepaja-restaurants-mermaid.jpg",
+          "website": "https://liepaja.travel/en/eat-drink/where-to-eat/",
+          "description": "A seasonal beach kiosk at the western end of Roņu iela inside Seaside Park, two minutes from the Baltic dunes. The outdoor wooden terrace catches the afternoon sun and is fully dog-friendly during the May to September season, water bowls are provided on request. Menu is casual: fish soup, open sandwiches, soft drinks and coffee, with local beer and wine in the evenings.",
+          "descriptionFr": "Un kiosque de plage saisonnier au bout ouest de Roņu iela dans le Parc de bord de mer, a deux minutes des dunes baltiques. La terrasse en bois exterieure capte le soleil de l'apres-midi et est entierement dog-friendly de mai a septembre, des gamelles d'eau sont fournies sur demande. La carte est decontractee : soupe de poisson, tartines, sodas et cafe, avec biere et vin locaux le soir.",
+          "descriptionEs": "Un quiosco de playa estacional al final oeste de Roņu iela en el Parque Costero, a dos minutos de las dunas balticas. La terraza exterior de madera recibe el sol de la tarde y es completamente pet-friendly de mayo a septiembre, los cuencos de agua se ofrecen a peticion. La carta es informal: sopa de pescado, tostas, refrescos y cafe, con cerveza y vino locales por la tarde.",
+          "petPolicy": "Dogs welcome on outdoor terrace, water bowls on request. Closed indoor seating area",
+          "petPolicyFr": "Chiens bienvenus en terrasse exterieure, gamelles d'eau sur demande. Salle interieure fermee aux chiens",
+          "petPolicyEs": "Perros bienvenidos en terraza exterior, cuencos de agua a peticion. Sala interior cerrada a perros",
+          "priceRange": "E",
+          "mustTry": "Latvian fish soup, smoked fish open sandwich",
+          "mustTryFr": "Soupe de poisson lettone, tartine au poisson fume",
+          "mustTryEs": "Sopa de pescado letona, tosta de pescado ahumado",
+          "openingHours": "May to September, daily 10:00 to 21:00 weather permitting",
+          "tip": "The terrace is sheltered from the prevailing west wind, perfect for late lunches with a wet dog after a beach run",
+          "tipFr": "La terrasse est abritee du vent d'ouest dominant, parfaite pour un dejeuner tardif avec un chien mouille apres la plage",
+          "tipEs": "La terraza esta protegida del viento de poniente, perfecta para almuerzos tardios con un perro mojado tras la playa",
+          "googleMapsUrl": "https://maps.google.com/?q=Beach+Cafe+Mermaid+Liepaja"
+        }
+      ],
+      "tipsEn": [
+        "Most Liepaja restaurants accept dogs only on outdoor terraces from May to September, indoor dining is rarely an option.",
+        "The Seaside Park beach cafes on Peldu iela and Roņu iela are the most reliable dog-friendly cluster.",
+        "Ask before sitting, Latvian is the working language but most younger staff speak English."
+      ],
+      "tipsFr": [
+        "La plupart des restaurants de Liepaja acceptent les chiens uniquement en terrasse exterieure de mai a septembre, l'interieur reste rare.",
+        "Les cafes de plage du Parc de bord de mer sur Peldu iela et Roņu iela forment le cluster dog-friendly le plus fiable.",
+        "Demandez avant de vous asseoir, le letton est la langue de travail mais la plupart du personnel jeune parle anglais."
+      ],
+      "tipsEs": [
+        "La mayoria de restaurantes de Liepaja admiten perros solo en terraza exterior de mayo a septiembre, el interior es raro.",
+        "Los cafes de playa del Parque Costero en Peldu iela y Roņu iela son el grupo pet-friendly mas fiable.",
+        "Pregunta antes de sentarte, el letón es el idioma de trabajo pero el personal joven suele hablar ingles."
+      ],
+      "faqsEn": [
+        {"q": "Can I eat indoors with my dog in Liepaja?", "a": "Rarely. Most venues restrict dogs to outdoor terraces, ask before entering."},
+        {"q": "Are dog menus a thing in Liepaja?", "a": "No. Liepaja has not yet adopted the dog-menu trend, bring your own treats and water bowl."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je manger en interieur avec mon chien a Liepaja?", "a": "Rarement. La plupart des etablissements limitent les chiens aux terrasses, demandez avant d'entrer."},
+        {"q": "Les menus chien sont-ils repandus a Liepaja?", "a": "Non. Liepaja n'a pas encore adopte la tendance des menus chien, apportez vos friandises et gamelle."}
+      ],
+      "faqsEs": [
+        {"q": "Puedo comer dentro con mi perro en Liepaja?", "a": "Rara vez. La mayoria de locales limitan los perros a las terrazas, pregunta antes de entrar."},
+        {"q": "Los menus para perros son comunes en Liepaja?", "a": "No. Liepaja todavia no ha adoptado la moda del menu para perros, lleva tus premios y un cuenco."}
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Parks and Off-Leash Areas in Liepaja",
+      "titleFr": "Meilleurs parcs et espaces sans laisse a Liepaja",
+      "titleEs": "Mejores parques y zonas sin correa en Liepaja",
+      "introEn": "Liepaja's green spine is the 50-hectare Seaside Park (Jurmalas parks), a 3 km wooded strip running parallel to the Baltic that hosts 170 tree species, sports facilities, a swan pond and the Alley of Latvian Musicians. Dogs must be leashed inside the park but the sand dunes immediately west open onto the 7 km city beach, where leashed dogs are allowed outside the marked bathing zones. The city additionally maintains a fenced dog walking area at the municipal animal shelter Lauvas sirds on 14. novembra bulvāris 31/33, the only formally off-leash spot in town, open only during shelter hours.",
+      "introFr": "La colonne verte de Liepaja est le Parc de bord de mer (Jurmalas parks) de 50 hectares, une bande boisee de 3 km parallele a la Baltique qui abrite 170 especes d'arbres, des installations sportives, un etang aux cygnes et l'Allee des musiciens lettons. Les chiens doivent etre en laisse dans le parc mais les dunes a l'ouest ouvrent sur les 7 km de plage urbaine, ou les chiens en laisse sont admis hors des zones de baignade balisees. La ville entretient en outre un espace sans laisse cloture au refuge animalier municipal Lauvas sirds, 14. novembra bulvāris 31/33, le seul site formellement sans laisse, ouvert uniquement aux heures du refuge.",
+      "introEs": "La columna verde de Liepaja es el Parque Costero (Jurmalas parks) de 50 hectareas, una franja arbolada de 3 km paralela al Baltico con 170 especies de arboles, instalaciones deportivas, un estanque de cisnes y la Avenida de los musicos letones. Los perros deben ir con correa dentro del parque pero las dunas al oeste se abren a los 7 km de playa urbana, donde se admiten perros con correa fuera de las zonas de bano senalizadas. La ciudad mantiene ademas un area sin correa vallada en el refugio municipal Lauvas sirds, 14. novembra bulvāris 31/33, el unico espacio formalmente sin correa, abierto solo en horario del refugio.",
+      "places": [
+        {
+          "name": "Jurmalas parks (Seaside Park)",
+          "address": "Liepu iela, Liepaja LV-3401",
+          "neighborhood": "Centrs",
+          "photo": "/images/city-places/liepaja-parks-jurmalas-parks.jpg",
+          "website": "https://liepaja.travel/en/see-and-do/seaside-park/",
+          "description": "Established in the late 19th century to stabilise the dunes, Seaside Park stretches 3 km along the coast and covers 50 hectares planted with 170 tree species. Wide gravel paths, fountains, the Swan Pond with its romantic footbridge, and the Tree of Ghosts environmental art piece make it Liepaja's main daily walking ground. Dogs must remain leashed at all times inside the park boundaries.",
+          "descriptionFr": "Cree a la fin du XIXe siecle pour stabiliser les dunes, le Parc de bord de mer s'etend sur 3 km le long de la cote et couvre 50 hectares plantes de 170 especes d'arbres. Larges allees de gravier, fontaines, etang aux cygnes avec sa passerelle romantique et l'oeuvre d'art environnementale Arbre des fantomes en font le principal terrain de promenade quotidien de Liepaja. Les chiens doivent rester en laisse a tout moment dans le parc.",
+          "descriptionEs": "Creado a finales del siglo XIX para estabilizar las dunas, el Parque Costero se extiende 3 km a lo largo de la costa y cubre 50 hectareas plantadas con 170 especies de arboles. Amplios senderos de gravilla, fuentes, el Estanque de los Cisnes con su puente romantico y la obra ambiental Arbol de los Fantasmas lo convierten en el principal terreno de paseo diario de Liepaja. Los perros deben llevar correa en todo momento dentro del parque.",
+          "petPolicy": "Leashed dogs welcome on all paths. No off-leash, no dogs on the sports pitches",
+          "petPolicyFr": "Chiens en laisse acceptes sur toutes les allees. Pas de sans laisse, pas de chiens sur les terrains de sport",
+          "petPolicyEs": "Perros con correa admitidos en todos los senderos. No sin correa, no en las pistas deportivas",
+          "size": "50 hectares, 3 km long",
+          "features": ["walking paths", "fountains", "swan pond", "sports facilities", "cafes"],
+          "tip": "Enter from Peldu iela to combine the park with a beach walk, the dunes are 200 m further west",
+          "tipFr": "Entrez par Peldu iela pour combiner le parc et une promenade de plage, les dunes sont a 200 m a l'ouest",
+          "tipEs": "Entra por Peldu iela para combinar parque y paseo por la playa, las dunas estan 200 m al oeste",
+          "googleMapsUrl": "https://maps.google.com/?q=Jurmalas+parks+Liepaja"
+        },
+        {
+          "name": "Lauvas sirds dog walking area",
+          "address": "14. novembra bulvaris 31/33, Liepaja LV-3401",
+          "neighborhood": "Centrs",
+          "photo": "/images/city-places/liepaja-parks-lauvas-sirds.jpg",
+          "website": "https://www.liepaja.lv/sunu-pastaigu-vietas/",
+          "description": "Liepaja's only formally fenced off-leash dog walking area, attached to the municipal animal shelter Lauvas sirds on 14. novembra boulevard. The space is modest but secure, surfaced and shared with shelter dogs during outings. Access is limited to shelter opening hours, weekdays until 17:00 and weekends until 16:00.",
+          "descriptionFr": "Le seul espace sans laisse formellement cloture de Liepaja, attenant au refuge animalier municipal Lauvas sirds sur le boulevard du 14 novembre. L'espace est modeste mais securise, en dur, partage avec les chiens du refuge pendant leurs sorties. L'acces est limite aux heures d'ouverture du refuge, en semaine jusqu'a 17h00 et le week-end jusqu'a 16h00.",
+          "descriptionEs": "El unico espacio sin correa formalmente vallado de Liepaja, anexo al refugio municipal Lauvas sirds en el bulevar 14 de noviembre. El espacio es modesto pero seguro, con suelo solido, compartido con perros del refugio durante sus salidas. El acceso se limita al horario del refugio, entre semana hasta las 17:00 y fines de semana hasta las 16:00.",
+          "petPolicy": "Off-leash allowed inside the fence. Dogs must be social and current on vaccines",
+          "petPolicyFr": "Sans laisse autorise a l'interieur de la cloture. Chiens sociables et a jour de vaccins",
+          "petPolicyEs": "Sin correa permitido dentro de la valla. Perros sociales y al dia de vacunas",
+          "size": "Small fenced lot",
+          "features": ["fenced area", "off-leash"],
+          "tip": "Ring ahead via the municipality contact page before visiting, the shelter staff may be handling adoptions in the lot",
+          "tipFr": "Appelez avant via la page de contact municipale, le personnel du refuge peut etre en adoption dans l'enclos",
+          "tipEs": "Llama antes a traves de la pagina de contacto municipal, el personal puede estar gestionando adopciones en el recinto",
+          "googleMapsUrl": "https://maps.google.com/?q=Lauvas+sirds+Liepaja"
+        }
+      ],
+      "tipsEn": [
+        "Seaside Park is leash-only, the fenced shelter area on 14. novembra bulvaris is the only legal off-leash spot in central Liepaja.",
+        "The Karosta former Soviet military district north of the canal has informal wild beaches where locals walk dogs off-leash with no reported issues.",
+        "Watch for ticks April to October, the wooded park edges hold them in numbers."
+      ],
+      "tipsFr": [
+        "Le Parc de bord de mer impose la laisse, l'enclos cloture du refuge sur 14. novembra bulvaris est le seul espace sans laisse legal au centre de Liepaja.",
+        "L'ancien quartier militaire sovietique de Karosta au nord du canal possede des plages sauvages ou les locaux promenent leurs chiens sans laisse sans incident signale.",
+        "Attention aux tiques d'avril a octobre, les lisieres boisees du parc en abritent beaucoup."
+      ],
+      "tipsEs": [
+        "El Parque Costero exige correa, el recinto del refugio en 14. novembra bulvaris es el unico sin correa legal en el centro de Liepaja.",
+        "El antiguo barrio militar sovietico de Karosta al norte del canal tiene playas salvajes donde los locales pasean perros sin correa sin incidentes registrados.",
+        "Atencion a las garrapatas de abril a octubre, los limites del parque arbolado las concentran."
+      ],
+      "faqsEn": [
+        {"q": "Is there an off-leash park in Liepaja?", "a": "Yes, but only one fenced lot at the municipal shelter Lauvas sirds on 14. novembra bulvaris, and only during shelter hours."},
+        {"q": "Can I let my dog off-leash in Seaside Park?", "a": "No. The park is leash-only under city rules. Step onto the open beach north of the bathing zone for a legal off-leash run."}
+      ],
+      "faqsFr": [
+        {"q": "Existe-t-il un parc sans laisse a Liepaja?", "a": "Oui, mais un seul enclos au refuge municipal Lauvas sirds sur 14. novembra bulvaris, et seulement aux heures du refuge."},
+        {"q": "Puis-je lacher mon chien dans le Parc de bord de mer?", "a": "Non. Le parc impose la laisse selon le reglement municipal. Descendez sur la plage au nord de la zone de baignade pour une course legale sans laisse."}
+      ],
+      "faqsEs": [
+        {"q": "Hay un parque sin correa en Liepaja?", "a": "Si, solo un recinto vallado en el refugio municipal Lauvas sirds en 14. novembra bulvaris, y solo en horario del refugio."},
+        {"q": "Puedo soltar a mi perro en el Parque Costero?", "a": "No. El parque exige correa segun normativa municipal. Baja a la playa al norte de la zona de bano para una carrera legal sin correa."}
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Liepaja",
+      "titleFr": "Voyager avec son animal a Liepaja",
+      "titleEs": "Viajar con mascotas en Liepaja",
+      "introEn": "Liepaja is served by Liepajas Tramvajs (Latvia's oldest electric tram, the single line connects Karosta in the north to the southern Ezerkrasts district) and Liepajas Autobusu Parks, which run 13 bus routes plus 6 minibus routes. The system is compact and a single unified ticket is valid on both trams and buses. The municipal carrier does not publish a separate pet policy, so passengers should follow general Latvian carrier practice (small dogs in a carrier free, leashed dogs at the driver's discretion) and call +371 634 28744 to confirm for unusual cases. Long-distance buses to Riga run several times daily via Ecolines and Liepajas Autobusu Parks intercity, both of which accept small dogs in carriers.",
+      "introFr": "Liepaja est desservie par Liepajas Tramvajs (le plus ancien tramway electrique de Lettonie, dont l'unique ligne relie Karosta au nord au quartier sud d'Ezerkrasts) et Liepajas Autobusu Parks, qui exploite 13 lignes de bus et 6 lignes de minibus. Le reseau est compact et un ticket unifie est valable sur le tram comme sur le bus. Le transporteur municipal ne publie pas de regle specifique pour les animaux, suivez la pratique courante des transporteurs lettons (petit chien en sac de transport gratuit, chien en laisse a la discretion du conducteur) et appelez le +371 634 28744 pour les cas particuliers. Les bus longue distance vers Riga sont assures plusieurs fois par jour par Ecolines et Liepajas Autobusu Parks intercite, tous deux acceptant les petits chiens en sac.",
+      "introEs": "Liepaja esta servida por Liepajas Tramvajs (el tranvia electrico mas antiguo de Letonia, cuya linea unica conecta Karosta al norte con Ezerkrasts al sur) y Liepajas Autobusu Parks, que opera 13 lineas de autobus y 6 de minibus. La red es compacta y un billete unico vale para tranvia y autobus. La operadora municipal no publica una norma especifica para mascotas, sigue la practica habitual letona (perro pequeno en transportin gratis, perro con correa a discrecion del conductor) y llama al +371 634 28744 para casos especiales. Los autobuses de larga distancia a Riga los operan varias veces al dia Ecolines y Liepajas Autobusu Parks intercity, ambos aceptan perros pequenos en transportin.",
+      "rules": [
+        {
+          "mode": "Tram and City Bus (Liepajas Tramvajs / Liepajas Autobusu Parks)",
+          "modeFr": "Tramway et bus urbain (Liepajas Tramvajs / Liepajas Autobusu Parks)",
+          "modeEs": "Tranvia y autobus urbano (Liepajas Tramvajs / Liepajas Autobusu Parks)",
+          "policy": "No specific pet policy published. Standard Latvian practice: small dogs in a closed carrier travel free as hand luggage. Leashed dogs at driver's discretion, muzzle recommended for medium and large dogs. Single unified ticket valid on both trams and buses.",
+          "policyFr": "Pas de regle specifique publiee. Pratique lettone standard : petit chien en sac ferme gratuit comme bagage a main. Chien en laisse a la discretion du conducteur, museliere recommandee pour les chiens moyens et grands. Ticket unifie unique valable sur tram et bus.",
+          "policyEs": "No hay norma especifica publicada. Practica letona estandar: perro pequeno en transportin cerrado gratis como equipaje de mano. Perro con correa a discrecion del conductor, bozal recomendado para medianos y grandes. Billete unico valido para tranvia y autobus.",
+          "tip": "Call +371 634 28744 to confirm if you board with a large breed, the operator answers in Latvian, Russian and English",
+          "tipFr": "Appelez le +371 634 28744 pour confirmer si vous montez avec un grand chien, l'operateur repond en letton, russe et anglais",
+          "tipEs": "Llama al +371 634 28744 para confirmar si subes con un perro grande, el operador atiende en leton, ruso e ingles"
+        },
+        {
+          "mode": "Intercity Bus to Riga (Ecolines, Liepajas Autobusu Parks)",
+          "modeFr": "Bus intercite vers Riga (Ecolines, Liepajas Autobusu Parks)",
+          "modeEs": "Autobus intercity a Riga (Ecolines, Liepajas Autobusu Parks)",
+          "policy": "Small dogs in a closed carrier travel free with Ecolines on Liepaja-Riga (3h15). Larger dogs require advance booking and a muzzle. Bring a printed pet passport with up-to-date rabies vaccination.",
+          "policyFr": "Petits chiens en sac ferme gratuits avec Ecolines sur Liepaja-Riga (3h15). Les grands chiens necessitent une reservation prealable et une museliere. Apportez un passeport europeen avec rage a jour.",
+          "policyEs": "Perros pequenos en transportin cerrado gratis con Ecolines en Liepaja-Riga (3h15). Los perros grandes necesitan reserva previa y bozal. Lleva pasaporte europeo con rabia al dia.",
+          "tip": "Book the morning departure for the smoothest journey, the late bus can be crowded with returning weekend commuters",
+          "tipFr": "Reservez le depart matinal pour le trajet le plus calme, le bus du soir peut etre charge en navetteurs du week-end",
+          "tipEs": "Reserva la salida de manana para el viaje mas tranquilo, el autobus tardio puede ir lleno de viajeros de fin de semana"
+        }
+      ],
+      "sections": [],
+      "faqsEn": [
+        {"q": "Does the Liepaja tram allow dogs?", "a": "There is no published policy. Small dogs in a carrier are accepted in practice; for medium and large dogs call +371 634 28744 to confirm."},
+        {"q": "How do I get to Riga from Liepaja with a dog?", "a": "Take the Ecolines or Liepajas Autobusu Parks coach (about 3h15). Small dogs in a carrier travel free, larger dogs need a muzzle and advance notice."}
+      ],
+      "faqsFr": [
+        {"q": "Le tramway de Liepaja accepte-t-il les chiens?", "a": "Pas de regle publiee. Les petits chiens en sac sont acceptes en pratique ; pour les chiens moyens et grands, appelez le +371 634 28744 pour confirmer."},
+        {"q": "Comment rejoindre Riga depuis Liepaja avec un chien?", "a": "Prenez le car Ecolines ou Liepajas Autobusu Parks (environ 3h15). Petits chiens en sac gratuits, grands chiens museles avec preavis."}
+      ],
+      "faqsEs": [
+        {"q": "El tranvia de Liepaja admite perros?", "a": "No hay norma publicada. Los perros pequenos en transportin se aceptan en la practica; para perros medianos y grandes llama al +371 634 28744 para confirmar."},
+        {"q": "Como llego a Riga desde Liepaja con un perro?", "a": "Toma el autocar Ecolines o Liepajas Autobusu Parks (unas 3h15). Perros pequenos en transportin gratis, perros grandes con bozal y aviso previo."}
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Liepaja",
+      "titleFr": "Plages dog-friendly a Liepaja",
+      "titleEs": "Playas dog-friendly en Liepaja",
+      "introEn": "Liepaja's 7 km Blue Flag beach is one of the cleanest in northern Europe, and the rules for dogs are some of the most generous on the Latvian coast. Leashed dogs are welcome year-round on the open beach beyond the designated bathing zone, with signed areas at the entrances indicating where walking is permitted. The favourite local dog stretch is the section north of the Monument in Commemoration of the Perished Fishermen and Seafarers at the end of Kurmajas prospekts. Further north, the Karosta former Soviet military district has empty wild beaches where dogs run with no other beachgoers in sight outside July to August.",
+      "introFr": "Les 7 km de plage Pavillon Bleu de Liepaja comptent parmi les plus propres d'Europe du Nord, et les regles pour les chiens sont parmi les plus genereuses de la cote lettone. Les chiens en laisse sont admis toute l'annee sur la plage ouverte au-dela de la zone de baignade balisee, avec des panneaux aux entrees indiquant les zones autorisees. La portion locale prisee est au nord du Monument aux pecheurs et marins disparus, au bout de Kurmajas prospekts. Plus au nord, l'ancien quartier militaire sovietique de Karosta offre des plages sauvages desertes ou les chiens courent sans personne en vue hors juillet-aout.",
+      "introEs": "Los 7 km de playa Bandera Azul de Liepaja estan entre los mas limpios del norte de Europa, y las normas para perros estan entre las mas generosas de la costa letona. Los perros con correa son bienvenidos todo el ano en la playa abierta mas alla de la zona de bano senalizada, con carteles en las entradas indicando las zonas permitidas. El tramo local favorito esta al norte del Monumento a los pescadores y marineros desaparecidos, al final de Kurmajas prospekts. Mas al norte, el antiguo barrio militar sovietico de Karosta ofrece playas salvajes vacias donde los perros corren sin nadie a la vista fuera de julio y agosto.",
+      "places": [
+        {
+          "name": "Liepaja City Beach (north of Kurmajas prospekts)",
+          "address": "End of Kurmajas prospekts, Liepaja LV-3401",
+          "neighborhood": "Centrs",
+          "photo": "/images/city-places/liepaja-beaches-city-beach-north.jpg",
+          "website": "https://liepaja.travel/en/see-and-do/the-beach/",
+          "description": "The most popular dog-walking section of Liepaja's 7 km Blue Flag beach, immediately north of the fishermen's monument. Wide soft sand, low dunes, and a clear horizon make it ideal for long ball-throw sessions. Leashed only inside the marked zone, but the wild dunes beyond are tolerated for off-leash recall practice.",
+          "descriptionFr": "La portion la plus populaire de la plage Pavillon Bleu de 7 km de Liepaja pour la promenade canine, juste au nord du monument aux pecheurs. Sable doux et large, dunes basses et horizon degage la rendent ideale pour de longues sessions de balle. Laisse obligatoire dans la zone balisee, mais les dunes sauvages au-dela tolerent le rappel sans laisse.",
+          "descriptionEs": "El tramo mas popular de los 7 km de playa Bandera Azul de Liepaja para pasear perros, justo al norte del monumento a los pescadores. Arena suave y amplia, dunas bajas y horizonte despejado lo hacen ideal para largas sesiones de pelota. Correa obligatoria en la zona senalizada, pero las dunas salvajes mas alla toleran el adiestramiento sin correa.",
+          "petPolicy": "Leashed dogs welcome year-round outside the designated bathing zone. Pick up after your dog, fines apply",
+          "petPolicyFr": "Chiens en laisse acceptes toute l'annee hors de la zone de baignade balisee. Ramassez les dejections, amendes en vigueur",
+          "petPolicyEs": "Perros con correa todo el ano fuera de la zona de bano senalizada. Recoge los excrementos, hay multas",
+          "type": "Open Baltic sand beach",
+          "facilities": ["lifeguards in summer", "showers", "beach cafe"],
+          "tip": "Park at Roņu iela end and walk 5 minutes north, the busiest bathing zone empties out before you reach the dog stretch",
+          "tipFr": "Garez-vous au bout de Roņu iela et marchez 5 minutes au nord, la zone de baignade se vide avant la portion canine",
+          "tipEs": "Aparca al final de Roņu iela y camina 5 minutos al norte, la zona de bano se vacia antes de llegar al tramo canino",
+          "googleMapsUrl": "https://maps.google.com/?q=Liepaja+beach+Kurmajas+prospekts"
+        },
+        {
+          "name": "Karosta wild beach",
+          "address": "Karosta district, north of the Trade Channel, Liepaja LV-3405",
+          "neighborhood": "Karosta",
+          "photo": "/images/city-places/liepaja-beaches-karosta.jpg",
+          "website": "https://www.karosta.lv/",
+          "description": "The deserted northern stretch beyond the former Soviet naval port, accessed via Atmodas bulvaris and the Karosta bridge. Empty even in July, with broken concrete breakwaters, abandoned fortifications and 200 m of crashing surf. Locals walk dogs off-leash here informally with no reported enforcement, though city leash rules technically apply.",
+          "descriptionFr": "La portion nord desertee au-dela de l'ancien port militaire sovietique, acces par Atmodas bulvaris et le pont de Karosta. Vide meme en juillet, avec digues en beton brises, fortifications abandonnees et 200 m de ressac. Les locaux y promenent leurs chiens sans laisse de facon informelle sans application de la regle, bien que la laisse municipale s'applique en theorie.",
+          "descriptionEs": "El tramo norte desierto mas alla del antiguo puerto militar sovietico, acceso por Atmodas bulvaris y el puente de Karosta. Vacio incluso en julio, con espigones de hormigon rotos, fortificaciones abandonadas y 200 m de oleaje. Los locales pasean perros sin correa de forma informal sin aplicacion sancionadora, aunque la normativa municipal de correa se aplica en teoria.",
+          "petPolicy": "Leashed in principle per city ordinance, off-leash tolerated in practice due to absence of bathers",
+          "petPolicyFr": "Laisse en principe selon l'arrete municipal, sans laisse tolere en pratique du fait de l'absence de baigneurs",
+          "petPolicyEs": "Con correa en principio segun ordenanza municipal, sin correa tolerado en la practica por ausencia de banistas",
+          "type": "Wild Baltic beach",
+          "facilities": ["none, bring water"],
+          "tip": "Wear closed shoes, rusted rebar in the old concrete is a real risk for paws and ankles",
+          "tipFr": "Portez des chaussures fermees, les fers a beton rouilles sont un vrai danger pour les pattes et les chevilles",
+          "tipEs": "Lleva calzado cerrado, los hierros oxidados del hormigon son un peligro real para patas y tobillos",
+          "googleMapsUrl": "https://maps.google.com/?q=Karosta+beach+Liepaja"
+        }
+      ],
+      "tipsEn": [
+        "Liepaja calls itself the city where the wind is born, prevailing westerlies can hit 30 km/h, train your dog to ignore wind-whipped sand.",
+        "Baltic water peaks at 17 to 19 C in late July, fine for short swims but always rinse salt off your dog's coat afterwards.",
+        "Pick up after your dog, the municipal fine is up to 70 EUR and inspectors patrol the bathing zone in summer."
+      ],
+      "tipsFr": [
+        "Liepaja se dit la ville ou nait le vent, les vents d'ouest dominants atteignent 30 km/h, habituez votre chien au sable souffle.",
+        "L'eau baltique culmine a 17 a 19 degres fin juillet, baignade courte possible mais rincez toujours le sel du pelage apres.",
+        "Ramassez les dejections, l'amende municipale va jusqu'a 70 euros et des inspecteurs patrouillent la zone de baignade en ete."
+      ],
+      "tipsEs": [
+        "Liepaja se llama la ciudad donde nace el viento, los vientos de poniente alcanzan 30 km/h, acostumbra a tu perro a la arena soplada.",
+        "El agua baltica llega a 17 a 19 C a finales de julio, banos cortos posibles pero enjuaga siempre la sal del pelo despues.",
+        "Recoge los excrementos, la multa municipal llega a 70 EUR y hay inspectores en la zona de bano en verano."
+      ],
+      "faqsEn": [
+        {"q": "Can dogs go on Liepaja's main beach in summer?", "a": "Yes, on a leash and outside the marked bathing zone. The favourite local stretch is north of the fishermen's monument at the end of Kurmajas prospekts."},
+        {"q": "Is there an off-leash beach in Liepaja?", "a": "No formal off-leash beach exists, but the wild Karosta beach north of the canal is empty enough that off-leash is tolerated in practice."}
+      ],
+      "faqsFr": [
+        {"q": "Les chiens peuvent-ils acceder a la plage principale de Liepaja en ete?", "a": "Oui, en laisse et hors de la zone de baignade balisee. La portion preferee des locaux est au nord du monument aux pecheurs, au bout de Kurmajas prospekts."},
+        {"q": "Existe-t-il une plage sans laisse a Liepaja?", "a": "Aucune plage formellement sans laisse, mais la plage sauvage de Karosta au nord du canal est assez vide pour que le sans laisse soit tolere en pratique."}
+      ],
+      "faqsEs": [
+        {"q": "Pueden los perros ir a la playa principal de Liepaja en verano?", "a": "Si, con correa y fuera de la zona de bano senalizada. El tramo favorito local esta al norte del monumento a los pescadores, al final de Kurmajas prospekts."},
+        {"q": "Hay una playa sin correa en Liepaja?", "a": "No existe playa sin correa formal, pero la playa salvaje de Karosta al norte del canal esta tan vacia que el sin correa se tolera en la practica."}
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians and Emergency Vets in Liepaja",
+      "titleFr": "Veterinaires et urgences veto a Liepaja",
+      "titleEs": "Veterinarios y urgencias veterinarias en Liepaja",
+      "introEn": "Liepaja has a small but functional veterinary network with one 24-hour clinic, Davet on Ventspils iela 54, which handles emergencies including X-ray, ultrasound, surgery and exotics. Daytime appointments are available at Dzintara veterinara klinika in the city centre. For specialist referrals (orthopaedic surgery, advanced imaging, oncology) most local vets refer to the Latvian University of Biosciences and Technologies veterinary hospital in Jelgava, 230 km east via the A9 motorway. Carry your EU pet passport at all times, vets will refuse non-emergency treatment without proof of rabies vaccination.",
+      "introFr": "Liepaja dispose d'un reseau veterinaire restreint mais fonctionnel avec une clinique ouverte 24h/24, Davet sur Ventspils iela 54, qui gere les urgences avec radio, echographie, chirurgie et NAC. Les consultations de jour sont disponibles a Dzintara veterinara klinika en centre-ville. Pour les references specialisees (orthopedie, imagerie avancee, oncologie), la plupart des veterinaires locaux orientent vers l'hopital veterinaire de l'Universite lettone des biosciences a Jelgava, a 230 km a l'est par l'autoroute A9. Conservez le passeport europeen sur vous, les vetos refusent les soins non urgents sans preuve de vaccination antirabique.",
+      "introEs": "Liepaja cuenta con una red veterinaria pequena pero funcional con una clinica 24 horas, Davet en Ventspils iela 54, que gestiona emergencias con radiografia, ecografia, cirugia y exoticos. Las citas diurnas estan disponibles en Dzintara veterinara klinika en el centro. Para derivaciones especializadas (cirugia ortopedica, imagen avanzada, oncologia) la mayoria de veterinarios locales derivan al hospital veterinario de la Universidad Letona de Biociencias en Jelgava, a 230 km al este por la autopista A9. Lleva siempre el pasaporte europeo, los veterinarios rechazan tratamiento no urgente sin prueba de vacuna antirrabica.",
+      "places": [
+        {
+          "name": "Davet veterinara klinika (24-hour)",
+          "address": "Ventspils iela 54, Liepaja LV-3405",
+          "neighborhood": "Tosmare",
+          "photo": "/images/city-places/liepaja-vets-davet.jpg",
+          "website": "https://landingpage.zl.lv/davet-veterinara-klinika",
+          "description": "Liepaja's only 24-hour veterinary clinic, located on Ventspils iela in the northern Tosmare district. The clinic handles small animals, exotics, X-ray, ultrasound, surgery, sterilisation and vaccinations. Staff speak Latvian and Russian, with at least one English-speaking vet on the day shift.",
+          "descriptionFr": "Seule clinique veterinaire 24h/24 de Liepaja, situee sur Ventspils iela dans le quartier nord de Tosmare. La clinique prend en charge petits animaux, NAC, radio, echographie, chirurgie, sterilisation et vaccinations. Le personnel parle letton et russe, avec au moins un veterinaire anglophone en journee.",
+          "descriptionEs": "Unica clinica veterinaria 24 horas de Liepaja, situada en Ventspils iela en el barrio norte de Tosmare. La clinica atiende animales pequenos, exoticos, radiografia, ecografia, cirugia, esterilizacion y vacunas. El personal habla leton y ruso, con al menos un veterinario angloparlante en horario diurno.",
+          "phone": "+371 63 489 489",
+          "emergency24h": true,
+          "services": ["24h emergency", "surgery", "X-ray", "ultrasound", "exotics", "vaccinations"],
+          "tip": "Call before arriving at night, the night-duty vet may need a few minutes to come from the on-call apartment upstairs",
+          "tipFr": "Appelez avant d'arriver la nuit, le veterinaire de garde peut avoir besoin de quelques minutes pour descendre de l'appartement de garde",
+          "tipEs": "Llama antes de llegar de noche, el veterinario de guardia puede tardar unos minutos en bajar del apartamento de guardia",
+          "googleMapsUrl": "https://maps.google.com/?q=Davet+veterinara+klinika+Liepaja"
+        },
+        {
+          "name": "Dzintara veterinara klinika",
+          "address": "Liepaja city centre (call for current address)",
+          "neighborhood": "Centrs",
+          "photo": "/images/city-places/liepaja-vets-dzintara.jpg",
+          "website": "https://vet.zl.lv/Liep%C4%81ja",
+          "description": "A small daytime clinic in the city centre, by appointment only but emergency cases are handled immediately. Routine consultations, vaccinations, deworming, microchipping, and EU pet passport updates. Useful for tourists needing a tapeworm treatment 24 to 120 hours before re-entering Finland, Ireland, Malta or the UK.",
+          "descriptionFr": "Petite clinique de jour en centre-ville, sur rendez-vous mais les urgences sont prises en charge immediatement. Consultations courantes, vaccinations, vermifuge, identification electronique et mise a jour du passeport europeen. Utile pour les touristes ayant besoin d'un traitement contre l'echinococcose 24 a 120 heures avant le retour en Finlande, Irlande, Malte ou Royaume-Uni.",
+          "descriptionEs": "Pequena clinica diurna en el centro, con cita previa pero las urgencias se atienden de inmediato. Consultas rutinarias, vacunas, desparasitacion, microchip y actualizacion del pasaporte europeo. Util para turistas que necesiten tratamiento contra el equinococo 24 a 120 horas antes de regresar a Finlandia, Irlanda, Malta o Reino Unido.",
+          "phone": "+371 63 491 918",
+          "emergency24h": false,
+          "services": ["consultations", "vaccinations", "microchipping", "EU pet passport"],
+          "tip": "Book the day before for vaccinations, the clinic runs at near full capacity weekday mornings",
+          "tipFr": "Reservez la veille pour les vaccinations, la clinique est presque pleine en matinee en semaine",
+          "tipEs": "Reserva el dia anterior para vacunaciones, la clinica esta casi llena por las mananas entre semana",
+          "googleMapsUrl": "https://maps.google.com/?q=Dzintara+veterinara+klinika+Liepaja"
+        }
+      ],
+      "tipsEn": [
+        "EU pet passport is mandatory for any vet visit, the rabies stamp must be at least 21 days old to count as valid.",
+        "Davet on Ventspils iela 54 is the only 24-hour option, always call ahead (+371 63 489 489) at night.",
+        "For tapeworm treatment needed before UK / Ireland / Finland / Malta re-entry, book Dzintara klinika 24 to 120 hours before your ferry or flight."
+      ],
+      "tipsFr": [
+        "Le passeport europeen pour animaux est obligatoire pour toute visite veto, le tampon rage doit dater d'au moins 21 jours.",
+        "Davet sur Ventspils iela 54 est la seule option 24h/24, appelez toujours en avance (+371 63 489 489) la nuit.",
+        "Pour le traitement echinococcose requis avant retour au Royaume-Uni, Irlande, Finlande ou Malte, reservez Dzintara klinika 24 a 120 heures avant le ferry ou l'avion."
+      ],
+      "tipsEs": [
+        "El pasaporte europeo es obligatorio para cualquier visita veterinaria, el sello antirrabico debe tener al menos 21 dias.",
+        "Davet en Ventspils iela 54 es la unica opcion 24 horas, llama siempre antes (+371 63 489 489) por la noche.",
+        "Para tratamiento del equinococo necesario antes de regresar a Reino Unido, Irlanda, Finlandia o Malta, reserva Dzintara klinika 24 a 120 horas antes del ferry o avion."
+      ],
+      "faqsEn": [
+        {"q": "Is there a 24-hour vet in Liepaja?", "a": "Yes, Davet veterinara klinika at Ventspils iela 54. Call +371 63 489 489 before arriving at night."},
+        {"q": "Where do specialist cases go?", "a": "Most Liepaja vets refer to the Latvian University of Biosciences veterinary hospital in Jelgava, 230 km east by A9 motorway."}
+      ],
+      "faqsFr": [
+        {"q": "Existe-t-il un veto ouvert 24h/24 a Liepaja?", "a": "Oui, Davet veterinara klinika sur Ventspils iela 54. Appelez le +371 63 489 489 avant d'arriver la nuit."},
+        {"q": "Ou vont les cas specialises?", "a": "La plupart des vetos de Liepaja orientent vers l'hopital veterinaire de l'Universite lettone des biosciences a Jelgava, a 230 km par l'A9."}
+      ],
+      "faqsEs": [
+        {"q": "Hay veterinario 24 horas en Liepaja?", "a": "Si, Davet veterinara klinika en Ventspils iela 54. Llama al +371 63 489 489 antes de llegar de noche."},
+        {"q": "A donde se derivan los casos especializados?", "a": "La mayoria de veterinarios de Liepaja derivan al hospital veterinario de la Universidad Letona de Biociencias en Jelgava, a 230 km por la A9."}
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Liepaja with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Liepaja avec un chien",
+      "titleEs": "Consejos esenciales para visitar Liepaja con un perro",
+      "introEn": "Liepaja is a relaxed, low-density Baltic coast city of 67 000 people where dogs are part of the everyday street scene. The main local rules are simple: leash everywhere except inside the fenced lot at the shelter, scoop your dog's waste (fines apply), and stay off the marked bathing zone of the city beach in summer. The Baltic climate is the bigger planning factor, expect strong westerlies year-round and below-zero temperatures from December to March. June to September is by far the best season for visiting with a dog.",
+      "introFr": "Liepaja est une ville cotiere baltique relachee et peu dense de 67 000 habitants ou les chiens font partie du paysage quotidien. Les regles locales sont simples : laisse partout sauf dans l'enclos cloture du refuge, ramassage des dejections (amendes prevues), et hors de la zone de baignade balisee de la plage en ete. Le climat baltique est le facteur principal de planification, attendez-vous a des vents d'ouest forts toute l'annee et des temperatures negatives de decembre a mars. De juin a septembre reste de loin la meilleure saison pour visiter avec un chien.",
+      "introEs": "Liepaja es una ciudad baltica relajada y de baja densidad de 67 000 habitantes donde los perros forman parte del paisaje cotidiano. Las normas locales son simples: correa en todas partes salvo dentro del recinto vallado del refugio, recoger excrementos (con multas), y fuera de la zona de bano senalizada de la playa en verano. El clima baltico es el factor principal de planificacion, espera vientos de poniente fuertes todo el ano y temperaturas bajo cero de diciembre a marzo. De junio a septiembre es con diferencia la mejor temporada para visitar con un perro.",
+      "places": [],
+      "tipsEn": [
+        "Best season is June to September, when the beach cafes open and Baltic water reaches 17 to 19 C.",
+        "Winter paw care is essential, salt and grit on streets from November to March can crack pads, use paw wax.",
+        "Liepaja law requires a leash everywhere in public, only the shelter lot allows off-leash legally.",
+        "Always carry the EU pet passport with up-to-date rabies, hotels and Karosta Prison may ask to see it.",
+        "Tick season is April to October, the Seaside Park forest edge has plenty, use a prescription preventive."
+      ],
+      "tipsFr": [
+        "La meilleure saison est juin a septembre, lorsque les cafes de plage ouvrent et que la Baltique atteint 17 a 19 degres.",
+        "Les soins des pattes sont essentiels en hiver, le sel et le gravier sur les rues de novembre a mars peuvent fissurer les coussinets, utilisez de la cire.",
+        "La reglementation de Liepaja impose la laisse partout en public, seul l'enclos du refuge autorise le sans laisse legalement.",
+        "Conservez toujours le passeport europeen avec rage a jour, les hotels et la prison de Karosta peuvent le demander.",
+        "La saison des tiques s'etend d'avril a octobre, la lisiere boisee du Parc de bord de mer en compte beaucoup, utilisez un antiparasitaire."
+      ],
+      "tipsEs": [
+        "La mejor temporada es junio a septiembre, cuando abren los cafes de playa y el Baltico llega a 17 a 19 C.",
+        "El cuidado de las almohadillas es esencial en invierno, la sal y la gravilla en las calles de noviembre a marzo pueden agrietarlas, usa cera.",
+        "La normativa de Liepaja exige correa en todo lugar publico, solo el recinto del refugio permite sin correa legalmente.",
+        "Lleva siempre el pasaporte europeo con rabia al dia, los hoteles y la prision de Karosta pueden pedirlo.",
+        "La temporada de garrapatas es abril a octubre, el borde arbolado del Parque Costero tiene muchas, usa antiparasitario."
+      ],
+      "faqsEn": [
+        {"q": "What is the best time of year to visit Liepaja with a dog?", "a": "June to September. The beach is open, terraces operate, and Baltic water is swimmable for the brave."},
+        {"q": "Is Liepaja safe for off-leash walking?", "a": "Only inside the fenced shelter lot. Everywhere else city rules require a leash, including all parks."}
+      ],
+      "faqsFr": [
+        {"q": "Quelle est la meilleure periode pour visiter Liepaja avec un chien?", "a": "De juin a septembre. La plage est ouverte, les terrasses tournent et la Baltique est baignable pour les courageux."},
+        {"q": "Liepaja est-elle sure pour la promenade sans laisse?", "a": "Uniquement dans l'enclos cloture du refuge. Partout ailleurs le reglement impose la laisse, parcs compris."}
+      ],
+      "faqsEs": [
+        {"q": "Cual es la mejor epoca para visitar Liepaja con un perro?", "a": "De junio a septiembre. La playa esta abierta, las terrazas funcionan y el Baltico es banable para los valientes."},
+        {"q": "Liepaja es segura para pasear sin correa?", "a": "Solo dentro del recinto vallado del refugio. En todos los demas sitios la normativa exige correa, incluyendo todos los parques."}
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Liepaja",
+      "titleFr": "Attractions accueillantes pour les chiens a Liepaja",
+      "titleEs": "Atracciones pet-friendly en Liepaja",
+      "introEn": "Liepaja's attractions split between the Old Town heritage core (Holy Trinity Cathedral, Rose Square, the Trade Channel) and the Karosta former Soviet military district to the north (Karosta Prison Museum, the Northern Forts, the Orthodox Saint Nicholas Naval Cathedral). Most exteriors are completely walkable with a leashed dog. The single most famous interior, the Holy Trinity Cathedral mechanical organ (the largest unreconstructed mechanical organ in the world, with 131 stops and over 7000 pipes) does not allow dogs inside, but the cathedral square and the 55 m tower base are open-air. Karosta Prison Museum runs guided tours only and dogs are not admitted inside the cell blocks.",
+      "introFr": "Les attractions de Liepaja se partagent entre le coeur patrimonial de la Vieille Ville (cathedrale Sainte-Trinite, place des Roses, canal du Commerce) et l'ancien quartier militaire sovietique de Karosta au nord (musee de la Prison de Karosta, forts du Nord, cathedrale orthodoxe Saint-Nicolas). La plupart des exterieurs se visitent integralement avec un chien en laisse. L'interieur le plus celebre, l'orgue mecanique de la cathedrale Sainte-Trinite (le plus grand orgue mecanique non reconstruit au monde, 131 jeux et plus de 7000 tuyaux), n'accepte pas les chiens, mais le parvis et la base de la tour de 55 m sont en plein air. La Prison de Karosta ne se visite qu'en visite guidee, sans chiens dans les cellules.",
+      "introEs": "Las atracciones de Liepaja se reparten entre el casco antiguo patrimonial (catedral de la Santisima Trinidad, plaza de las Rosas, canal del Comercio) y el antiguo barrio militar sovietico de Karosta al norte (museo de la Prision de Karosta, fuertes del Norte, catedral ortodoxa de San Nicolas). La mayoria de exteriores se recorre integramente con un perro con correa. El interior mas famoso, el organo mecanico de la catedral de la Santisima Trinidad (el mayor organo mecanico no reconstruido del mundo, 131 registros y mas de 7000 tubos), no admite perros, pero el parvis y la base de la torre de 55 m son al aire libre. La Prision de Karosta solo se visita con guia y los perros no entran a las celdas.",
+      "places": [
+        {
+          "name": "Holy Trinity Cathedral and tower viewpoint",
+          "address": "Liela iela 9, Liepaja LV-3401",
+          "neighborhood": "Old Town",
+          "photo": "/images/city-places/liepaja-attractions-holy-trinity.jpg",
+          "website": "https://liepaja.travel/en/see-and-do/holy-trinity-cathedral/",
+          "description": "Built 1742 to 1758 in Baroque-Classicist style, this Lutheran cathedral houses the largest unreconstructed mechanical organ in the world, 131 stops, four manuals, over 7000 pipes. The organ is played at Sunday services and the September International Organ Music Festival; demonstrations can be booked. Dogs are not admitted inside but the cathedral square and the 55 m tower exterior are open year-round.",
+          "descriptionFr": "Construite de 1742 a 1758 en style baroque-classicisant, cette cathedrale lutherienne abrite le plus grand orgue mecanique non reconstruit du monde, 131 jeux, quatre claviers, plus de 7000 tuyaux. L'orgue resonne aux offices dominicaux et au Festival international d'orgue de septembre ; des demonstrations sont reservables. Les chiens ne sont pas admis a l'interieur mais le parvis et l'exterieur de la tour de 55 m sont accessibles toute l'annee.",
+          "descriptionEs": "Construida entre 1742 y 1758 en estilo barroco-clasicista, esta catedral luterana alberga el mayor organo mecanico no reconstruido del mundo, 131 registros, cuatro manuales, mas de 7000 tubos. El organo suena en los oficios dominicales y en el Festival Internacional de Organo de septiembre; pueden reservarse demostraciones. Los perros no se admiten dentro pero el parvis y el exterior de la torre de 55 m son accesibles todo el ano.",
+          "petPolicy": "No dogs inside the cathedral or tower interior. Cathedral square and exterior fully accessible on leash",
+          "petPolicyFr": "Pas de chiens a l'interieur de la cathedrale ni de la tour. Parvis et exterieur entierement accessibles en laisse",
+          "petPolicyEs": "Sin perros dentro de la catedral ni la torre. Parvis y exterior totalmente accesibles con correa",
+          "ticketPrice": "Tower 5 EUR adult, cathedral free entry outside services",
+          "openingHours": "Mon to Sat 10:00 to 17:00, Sun services 10:00 to 12:00 (organ played)",
+          "tip": "Catch a service for the only regular chance to hear the 7000-pipe organ, walk the dog in Rose Square nearby while you listen",
+          "tipFr": "Assistez a un office pour la seule occasion reguliere d'entendre l'orgue de 7000 tuyaux, promenez le chien place des Roses pendant ce temps",
+          "tipEs": "Asiste a un oficio para la unica oportunidad regular de oir el organo de 7000 tubos, pasea al perro en la plaza de las Rosas mientras escuchas",
+          "googleMapsUrl": "https://maps.google.com/?q=Holy+Trinity+Cathedral+Liepaja"
+        },
+        {
+          "name": "Karosta Prison Museum (exterior)",
+          "address": "Invalidu iela 4, Karosta, Liepaja LV-3405",
+          "neighborhood": "Karosta",
+          "photo": "/images/city-places/liepaja-attractions-karosta-prison.jpg",
+          "website": "https://www.liepaja.lv/en/museums/karosta-prison-museum/",
+          "description": "The only military prison in Europe open to tourists, originally built in the early 20th century and used through Tsarist, Soviet and Latvian periods as a disciplinary centre. Visits are guided only, every hour on the hour, and dogs are not admitted inside the cell blocks. The exterior red-brick complex, the surrounding Karosta district streets and the Northern Forts coastal walk are fully dog-walkable.",
+          "descriptionFr": "Seule prison militaire d'Europe ouverte aux touristes, construite au debut du XXe siecle et utilisee a l'epoque tsariste, sovietique et lettone comme centre disciplinaire. Les visites sont uniquement guidees, chaque heure pleine, et les chiens ne sont pas admis dans les blocs cellulaires. Le complexe exterieur en brique rouge, les rues du quartier de Karosta et la promenade des Forts du Nord sont entierement praticables avec un chien.",
+          "descriptionEs": "La unica prision militar de Europa abierta al turismo, construida a principios del siglo XX y usada en epoca zarista, sovietica y letona como centro disciplinario. Las visitas son solo guiadas, cada hora en punto, y los perros no entran a los bloques de celdas. El complejo exterior de ladrillo rojo, las calles del barrio de Karosta y el paseo costero de los Fuertes del Norte son completamente paseables con perro.",
+          "petPolicy": "No dogs inside guided tours or cell blocks. Exterior, Karosta district and forts coastal walk fully open to leashed dogs",
+          "petPolicyFr": "Pas de chiens en visite guidee ni dans les blocs cellulaires. Exterieur, quartier de Karosta et promenade des forts entierement ouverts aux chiens en laisse",
+          "petPolicyEs": "Sin perros en visitas guiadas ni bloques de celdas. Exterior, barrio de Karosta y paseo de los fuertes totalmente abiertos a perros con correa",
+          "ticketPrice": "Prison guided tour 3 to 4.50 EUR, exterior free",
+          "openingHours": "Jun to Aug 09:00 to 19:00, May and Sep 10:00 to 18:00, Apr and Oct 10:00 to 17:00, Nov to Mar Sat and Sun 12:00 to 16:00 (weekdays by appointment)",
+          "tip": "Combine the Karosta exterior loop with the Northern Forts coastal walk for a 90 minute leashed dog circuit",
+          "tipFr": "Combinez le tour exterieur de Karosta avec la promenade cotiere des Forts du Nord pour un circuit chien en laisse de 90 minutes",
+          "tipEs": "Combina el recorrido exterior de Karosta con el paseo costero de los Fuertes del Norte para un circuito con perro con correa de 90 minutos",
+          "googleMapsUrl": "https://maps.google.com/?q=Karosta+Prison+Museum+Liepaja"
+        }
+      ],
+      "tipsEn": [
+        "Most Liepaja attractions are exterior-friendly, the only no-dog interiors are the cathedral, Karosta Prison cells and the Great Amber concert hall (Lielais Dzintars).",
+        "Combine the Old Town in the morning and Karosta in the afternoon, separated by lunch on a Seaside Park terrace.",
+        "The September International Organ Music Festival is the highlight of the cultural year, plan accommodation a month ahead."
+      ],
+      "tipsFr": [
+        "La plupart des attractions de Liepaja se visitent en exterieur, les seuls interieurs sans chien sont la cathedrale, les cellules de la Prison de Karosta et la salle Lielais Dzintars (Grand Ambre).",
+        "Combinez la Vieille Ville le matin et Karosta l'apres-midi, separes par un dejeuner en terrasse au Parc de bord de mer.",
+        "Le Festival international d'orgue de septembre est le point culminant de l'annee culturelle, reservez l'hebergement un mois en avance."
+      ],
+      "tipsEs": [
+        "La mayoria de atracciones de Liepaja son exteriores, los unicos interiores sin perros son la catedral, las celdas de la Prision de Karosta y la sala Lielais Dzintars (Gran Ambar).",
+        "Combina el casco antiguo por la manana y Karosta por la tarde, separados por una comida en terraza del Parque Costero.",
+        "El Festival Internacional de Organo de septiembre es la cumbre del ano cultural, reserva alojamiento con un mes de antelacion."
+      ],
+      "faqsEn": [
+        {"q": "Can I take my dog inside Holy Trinity Cathedral to see the organ?", "a": "No. Dogs are not allowed inside the cathedral or the tower. You can attend services from outside via the open square or hear the organ from the cathedral porch."},
+        {"q": "Are dogs allowed in Karosta Prison Museum?", "a": "No, guided tours of the cell blocks do not admit dogs. The exterior complex and Karosta district streets are fully dog-friendly."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je faire entrer mon chien dans la cathedrale Sainte-Trinite pour voir l'orgue?", "a": "Non. Les chiens ne sont pas admis dans la cathedrale ni la tour. Vous pouvez suivre l'office depuis le parvis ou entendre l'orgue depuis le porche."},
+        {"q": "Les chiens sont-ils admis au musee de la Prison de Karosta?", "a": "Non, les visites guidees des cellules n'admettent pas les chiens. Le complexe exterieur et les rues de Karosta sont entierement dog-friendly."}
+      ],
+      "faqsEs": [
+        {"q": "Puedo entrar con mi perro a la catedral de la Santisima Trinidad para ver el organo?", "a": "No. Los perros no se admiten en la catedral ni en la torre. Puedes asistir al oficio desde el parvis o escuchar el organo desde el porche."},
+        {"q": "Se admiten perros en el Museo de la Prision de Karosta?", "a": "No, las visitas guiadas a las celdas no admiten perros. El complejo exterior y las calles del barrio de Karosta son totalmente pet-friendly."}
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting and Dog Walkers in Liepaja",
+      "titleFr": "Garde et promeneurs canins a Liepaja",
+      "titleEs": "Cuidado y paseadores de perros en Liepaja",
+      "introEn": "Content coming soon.",
+      "introFr": "Contenu a venir.",
+      "introEs": "Contenido proximamente.",
+      "places": [],
+      "tipsEn": [
+        "Liepaja has no large commercial pet-sitting platform like Rover or Pawshake at the time of writing.",
+        "Ask your hotel reception first, several Liepaja hotels keep informal contacts with local sitters.",
+        "For longer stays, the Lauvas sirds municipal shelter sometimes accepts short-term boarding by donation."
+      ],
+      "tipsFr": [
+        "Liepaja n'a pas de grande plateforme commerciale de pet-sitting type Rover ou Pawshake au moment de la redaction.",
+        "Demandez d'abord a la reception de l'hotel, plusieurs hotels de Liepaja gardent des contacts informels de sitters locaux.",
+        "Pour les sejours longs, le refuge municipal Lauvas sirds accepte parfois une garde courte contre don."
+      ],
+      "tipsEs": [
+        "Liepaja no cuenta con una gran plataforma comercial de pet-sitting tipo Rover o Pawshake al momento de redactar.",
+        "Pregunta primero en recepcion del hotel, varios hoteles de Liepaja mantienen contactos informales de cuidadores locales.",
+        "Para estancias largas, el refugio municipal Lauvas sirds a veces acepta acogida corta por donativo."
+      ],
+      "faqsEn": [
+        {"q": "Are there professional dog walkers in Liepaja?", "a": "There is no established commercial dog-walking service, ask your hotel for an informal local contact."},
+        {"q": "Can I leave my dog at a boarding facility for the day?", "a": "Daytime boarding is uncommon. Lauvas sirds shelter accepts short stays by donation but call ahead +371 63 489 489."}
+      ],
+      "faqsFr": [
+        {"q": "Existe-t-il des promeneurs canins professionnels a Liepaja?", "a": "Pas de service commercial etabli, demandez a votre hotel un contact local informel."},
+        {"q": "Puis-je laisser mon chien en pension a la journee?", "a": "La garde de jour est rare. Le refuge Lauvas sirds accepte parfois des sejours courts contre don, appelez avant au +371 63 489 489."}
+      ],
+      "faqsEs": [
+        {"q": "Hay paseadores de perros profesionales en Liepaja?", "a": "No hay servicio comercial establecido, pide a tu hotel un contacto local informal."},
+        {"q": "Puedo dejar a mi perro en una residencia durante el dia?", "a": "El cuidado de dia es poco habitual. El refugio Lauvas sirds acepta a veces estancias cortas por donativo, llama antes al +371 63 489 489."}
+      ]
+    }
+  }
+}

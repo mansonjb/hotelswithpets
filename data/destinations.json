@@ -7286,6 +7286,81 @@
     "tiqetsId": "64715"
   },
   {
+    "slug": "liepaja",
+    "name": "Liepaja",
+    "country": "Latvia",
+    "flag": "🇱🇻",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/liepaja.jpg",
+    "intro": "Liepaja, Latvia's third largest city and main southern Baltic port, the city where the wind is born, with a 7 km Blue Flag beach, the largest unreconstructed mechanical organ in the world, and the only military prison in Europe you can spend the night in.",
+    "lat": 56.5108,
+    "lng": 21.0136,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Cold and windy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -2,
+        "desc": "Cold and windy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 1,
+        "desc": "Cool and grey",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 6,
+        "desc": "Cool and breezy",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 11,
+        "desc": "Mild and breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Mild and sunny",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild and breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cold and overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Cold and damp",
+        "icon": "❄️"
+      }
+    },
+    "iata": "LPX",
+    "countryCode": "LV"
+  },
+  {
     "slug": "lille",
     "name": "Lille",
     "country": "France",

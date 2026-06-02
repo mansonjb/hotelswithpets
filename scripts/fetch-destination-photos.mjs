@@ -107,6 +107,7 @@ const TARGETS = [
   { slug: 'brno', query: 'Brno Czech Republic Spilberk Castle namesti Svobody Petrov Cathedral old town panorama sunset' },
   { slug: 'leipzig', query: 'Leipzig Germany Markt square Augustusplatz Volkerschlachtdenkmal panorama sunset' },
   { slug: 'liepaja', query: 'Liepaja Latvia Baltic Sea beach Holy Trinity Cathedral Soviet Karosta panorama sunset' },
+  { slug: 'jurmala', query: 'Jurmala Latvia Dzintari beach pier wooden Art Nouveau dachas Baltic panorama sunset' },
   { slug: 'maastricht', query: 'Maastricht Netherlands Vrijthof square Sint Servaasbasiliek Maas river panorama sunset' },
   { slug: 'lecce', query: 'Lecce Italy Piazza Duomo Basilica Santa Croce baroque pietra leccese centro storico panorama sunset' },
   { slug: 'heidelberg', query: 'Heidelberg Germany Schloss castle Alte Brucke Neckar Philosophenweg Altstadt panorama sunset' },

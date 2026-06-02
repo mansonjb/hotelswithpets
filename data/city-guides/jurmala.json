@@ -1,0 +1,509 @@
+{
+  "slug": "jurmala",
+  "name": "Jurmala",
+  "country": "Latvia",
+  "flag": "🇱🇻",
+  "lastUpdated": "2026-06-02",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Jurmala",
+      "titleFr": "Restaurants acceptant les animaux a Jurmala",
+      "titleEs": "Restaurantes con mascotas en Jurmala",
+      "introEn": "Jurmala's dining scene clusters along the pedestrian Jomas iela in Majori and around the train stations of Dzintari and Bulduri. The summer terraces of Cafe 53, Pandora and the Beach Bar and Grill on Jomas iela are the most reliable dog-friendly choices from May to September. Note that dogs are banned from the beach itself between April 1 and October 31, but terraces facing the dunes one block back accept leashed dogs without issue. Ask before sitting down.",
+      "introFr": "La scene culinaire de Jurmala se concentre le long de la rue pietonne Jomas iela a Majori et autour des gares de Dzintari et Bulduri. Les terrasses estivales du Cafe 53, de Pandora et du Beach Bar and Grill sur Jomas iela sont les choix dog-friendly les plus fiables de mai a septembre. A noter que les chiens sont interdits sur la plage du 1er avril au 31 octobre, mais les terrasses qui font face aux dunes un pate de maisons en arriere acceptent les chiens en laisse sans probleme. Demandez avant de vous installer.",
+      "introEs": "La escena gastronomica de Jurmala se concentra a lo largo de la peatonal Jomas iela en Majori y en torno a las estaciones de Dzintari y Bulduri. Las terrazas de verano de Cafe 53, Pandora y el Beach Bar and Grill en Jomas iela son las opciones pet-friendly mas fiables de mayo a septiembre. Conviene saber que los perros estan prohibidos en la playa del 1 de abril al 31 de octubre, pero las terrazas frente a las dunas una manzana atras admiten perros con correa sin problema. Pregunta antes de sentarte.",
+      "places": [
+        {
+          "name": "Cafe 53",
+          "address": "Jomas iela 53, Jurmala LV-2015",
+          "neighborhood": "Majori",
+          "photo": "/images/city-places/jurmala-restaurants-cafe-53.jpg",
+          "website": "https://www.visitjurmala.lv/en/eat-and-drink/restaurants/list/",
+          "description": "A two-floor restaurant on the main pedestrian street with a sprawling summer terrace that is one of the largest on Jomas iela. The terrace is fenced off from the street and accepts well-behaved leashed dogs without issue, water bowls are brought on request. Menu is European bistro with Latvian touches, fish soup, smoked salmon, and a long cocktail list for the evening crowd.",
+          "descriptionFr": "Restaurant sur deux niveaux sur la rue pietonne principale avec une vaste terrasse estivale parmi les plus grandes de Jomas iela. La terrasse est separee de la rue et accepte les chiens en laisse bien eleves sans probleme, des gamelles d'eau sont apportees sur demande. La carte est bistronomique europeenne avec touches lettones, soupe de poisson, saumon fume, et une longue carte de cocktails pour la clientele du soir.",
+          "descriptionEs": "Restaurante de dos plantas en la calle peatonal principal con una amplia terraza de verano de las mas grandes de Jomas iela. La terraza esta separada de la calle y admite perros con correa bien educados sin problema, los cuencos de agua se traen a peticion. La carta es bistro europeo con toques letones, sopa de pescado, salmon ahumado, y una larga carta de cocteles para la clientela nocturna.",
+          "petPolicy": "Dogs welcome on outdoor terrace year-round (heated in winter). No dogs in indoor dining room",
+          "petPolicyFr": "Chiens acceptes en terrasse exterieure toute l'annee (chauffee en hiver). Pas de chiens en salle interieure",
+          "petPolicyEs": "Perros admitidos en terraza exterior todo el ano (calefactada en invierno). Sin perros en sala interior",
+          "priceRange": "EE",
+          "mustTry": "Latvian fish soup, smoked salmon plate",
+          "mustTryFr": "Soupe de poisson lettone, assiette de saumon fume",
+          "mustTryEs": "Sopa de pescado letona, plato de salmon ahumado",
+          "openingHours": "Daily 11:00 to 23:00 in summer, shorter hours off-season",
+          "tip": "Book a corner table on the terrace facing the dunes for the best evening light",
+          "tipFr": "Reservez une table d'angle sur la terrasse cote dunes pour la meilleure lumiere du soir",
+          "tipEs": "Reserva una mesa de esquina en la terraza hacia las dunas para la mejor luz del atardecer",
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+53+Jurmala"
+        },
+        {
+          "name": "Pandora",
+          "address": "Jomas iela 51, Jurmala LV-2015",
+          "neighborhood": "Majori",
+          "photo": "/images/city-places/jurmala-restaurants-pandora.jpg",
+          "website": "https://www.visitjurmala.lv/en/eat-and-drink/restaurants/list/",
+          "description": "A long-running Jomas iela mainstay known for its spacious outdoor terrace and pan-European menu, popular with families and dog-owning weekenders from Riga. Staff are accustomed to dogs and a corner of the terrace is set up for leashed pets. Indoor dining is also available but does not accept dogs.",
+          "descriptionFr": "Une institution de Jomas iela connue pour sa terrasse spacieuse et sa carte pan-europeenne, prisee des familles et des proprietaires de chiens en weekend depuis Riga. Le personnel est habitue aux chiens et un coin de la terrasse est amenage pour les animaux en laisse. La salle interieure existe aussi mais n'accepte pas les chiens.",
+          "descriptionEs": "Un clasico de Jomas iela conocido por su amplia terraza y carta paneuropea, popular entre familias y propietarios de perros que vienen de fin de semana desde Riga. El personal esta acostumbrado a los perros y una esquina de la terraza esta preparada para mascotas con correa. El comedor interior tambien existe pero no admite perros.",
+          "petPolicy": "Dogs welcome on outdoor terrace only, leashed",
+          "petPolicyFr": "Chiens acceptes en terrasse exterieure uniquement, en laisse",
+          "petPolicyEs": "Perros admitidos solo en terraza exterior, con correa",
+          "priceRange": "EE",
+          "mustTry": "Wood-fired pizza, Latvian beer",
+          "mustTryFr": "Pizza au feu de bois, biere lettone",
+          "mustTryEs": "Pizza al horno de lena, cerveza letona",
+          "openingHours": "Daily 12:00 to 23:00 in summer, weekends only Nov to Mar",
+          "tip": "Arrive before 19:00 in July, the terrace fills with weekend visitors from Riga",
+          "tipFr": "Arrivez avant 19h00 en juillet, la terrasse se remplit avec les visiteurs du weekend venus de Riga",
+          "tipEs": "Llega antes de las 19:00 en julio, la terraza se llena con visitantes de fin de semana desde Riga",
+          "googleMapsUrl": "https://maps.google.com/?q=Pandora+Jomas+Jurmala"
+        }
+      ],
+      "tipsEn": [
+        "Jomas iela in Majori is the densest cluster of dog-friendly summer terraces.",
+        "Dogs are banned from the beach April 1 to October 31, so a dune-facing terrace is the closest you get to a beach lunch.",
+        "Most kitchens close at 22:00, drinks service runs later on Friday and Saturday."
+      ],
+      "tipsFr": [
+        "Jomas iela a Majori est le cluster le plus dense de terrasses estivales dog-friendly.",
+        "Les chiens sont interdits sur la plage du 1er avril au 31 octobre, une terrasse face aux dunes est ce qui s'en rapproche le plus.",
+        "La plupart des cuisines ferment a 22h00, le bar prolonge le vendredi et samedi."
+      ],
+      "tipsEs": [
+        "Jomas iela en Majori es el grupo mas denso de terrazas de verano pet-friendly.",
+        "Los perros estan prohibidos en la playa del 1 de abril al 31 de octubre, una terraza frente a las dunas es lo mas cerca que llegaras a una comida en la playa.",
+        "La mayoria de cocinas cierran a las 22:00, el servicio de bar se alarga viernes y sabado."
+      ],
+      "faqsEn": [
+        {"q": "Can I eat with my dog beachfront in Jurmala?", "a": "Technically no in summer, the beach itself bans dogs from April 1 to October 31. The terraces along Jomas iela one block back accept dogs."},
+        {"q": "Are dog menus offered in Jurmala?", "a": "No formal dog menus, but most terrace venues bring water bowls on request."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je manger avec mon chien face a la plage a Jurmala?", "a": "Techniquement non en ete, la plage interdit les chiens du 1er avril au 31 octobre. Les terrasses de Jomas iela un pate plus loin acceptent les chiens."},
+        {"q": "Les menus chien existent-ils a Jurmala?", "a": "Pas de menus formels, mais la plupart des terrasses apportent une gamelle d'eau sur demande."}
+      ],
+      "faqsEs": [
+        {"q": "Puedo comer con mi perro frente a la playa en Jurmala?", "a": "Tecnicamente no en verano, la playa prohibe perros del 1 de abril al 31 de octubre. Las terrazas de Jomas iela una manzana atras admiten perros."},
+        {"q": "Hay menus para perros en Jurmala?", "a": "No menus formales, pero la mayoria de terrazas traen cuenco de agua a peticion."}
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Parks and Off-Leash Areas in Jurmala",
+      "titleFr": "Meilleurs parcs et zones sans laisse a Jurmala",
+      "titleEs": "Mejores parques y zonas sin correa en Jurmala",
+      "introEn": "Jurmala's main green space is Dzintari Forest Park, a protected pine grove with 200-year-old trees that backs the central section of the beach and stays open year-round from 9 am to 10 pm. Leashed dogs are welcome on every path, the surfaced loops are stroller and senior-dog friendly, and a viewing tower offers Baltic horizon views above the canopy. Beyond Dzintari Forest the city has no formal fenced off-leash zone, but the wide sand paths between the dune-facing villas allow comfortable leashed walking from Lielupe in the east to Kemeri in the west, a total of 33 km of coast.",
+      "introFr": "Le principal espace vert de Jurmala est le Parc forestier de Dzintari, une pinede protegee aux arbres de 200 ans qui borde la section centrale de la plage et reste ouvert toute l'annee de 9h00 a 22h00. Les chiens en laisse sont admis sur toutes les allees, les boucles en dur acceptent poussettes et chiens ages, et une tour d'observation offre la vue sur la Baltique au-dessus de la canopee. Au-dela de la foret de Dzintari, la ville n'a pas de zone sans laisse cloturee formelle, mais les larges chemins de sable entre les villas face aux dunes permettent une promenade confortable en laisse de Lielupe a l'est jusqu'a Kemeri a l'ouest, soit 33 km de cote au total.",
+      "introEs": "El principal espacio verde de Jurmala es el Parque Forestal de Dzintari, un pinar protegido con arboles de 200 anos que bordea la seccion central de la playa y permanece abierto todo el ano de 9:00 a 22:00. Los perros con correa son bienvenidos en todos los senderos, los circuitos pavimentados admiten carritos y perros mayores, y una torre de observacion ofrece vistas al Baltico por encima del dosel. Mas alla del bosque de Dzintari, la ciudad no tiene zona sin correa vallada formal, pero los amplios caminos de arena entre las villas frente a las dunas permiten un paseo comodo con correa de Lielupe al este hasta Kemeri al oeste, 33 km de costa en total.",
+      "places": [
+        {
+          "name": "Dzintari Forest Park",
+          "address": "Rigas iela 1, Dzintari, Jurmala LV-2015",
+          "neighborhood": "Dzintari",
+          "photo": "/images/city-places/jurmala-parks-dzintari-forest.jpg",
+          "website": "https://visitjurmala.lv/en/see-and-do/for-children/dzintari-forest-park/",
+          "description": "A protected 200-year-old pine grove a few minutes from Dzintari train station, with surfaced walking and skating loops, playgrounds, a viewing tower, streetball and skate facilities. The park stays open year-round from 9 am to 10 pm and entry is free. Leashed dogs welcome on every path.",
+          "descriptionFr": "Une pinede protegee de 200 ans a quelques minutes de la gare de Dzintari, avec boucles de marche et de patinage en dur, aires de jeu, tour d'observation, terrains de streetball et skate. Le parc reste ouvert toute l'annee de 9h00 a 22h00 et l'entree est gratuite. Chiens en laisse bienvenus sur toutes les allees.",
+          "descriptionEs": "Un pinar protegido de 200 anos a pocos minutos de la estacion de Dzintari, con circuitos de paseo y patinaje pavimentados, areas de juego, torre de observacion, pistas de streetball y skate. El parque permanece abierto todo el ano de 9:00 a 22:00 y la entrada es gratuita. Perros con correa bienvenidos en todos los senderos.",
+          "petPolicy": "Leashed dogs welcome on all paths. No off-leash. Scoop waste, fines apply",
+          "petPolicyFr": "Chiens en laisse acceptes sur toutes les allees. Pas de sans laisse. Ramassage obligatoire, amendes en vigueur",
+          "petPolicyEs": "Perros con correa admitidos en todos los senderos. No sin correa. Recoge excrementos, hay multas",
+          "size": "Approximately 30 hectares",
+          "features": ["paved paths", "viewing tower", "playgrounds", "skate park", "year-round"],
+          "tip": "Climb the viewing tower at sunset for a clear Baltic horizon view, the tower stair is open to leashed dogs",
+          "tipFr": "Montez a la tour d'observation au coucher du soleil pour un panorama baltique degage, l'escalier accepte les chiens en laisse",
+          "tipEs": "Sube a la torre de observacion al atardecer para vista despejada del Baltico, la escalera admite perros con correa",
+          "googleMapsUrl": "https://maps.google.com/?q=Dzintari+Forest+Park+Jurmala"
+        },
+        {
+          "name": "Aspazija House garden",
+          "address": "Z. Meierovica prospekts 18/20, Jurmala LV-2015",
+          "neighborhood": "Dubulti",
+          "photo": "/images/city-places/jurmala-parks-aspazija-house.jpg",
+          "website": "https://www.visitjurmala.lv/en/",
+          "description": "The wooden villa where Latvian poet Aspazija spent her last years, now a memorial museum. The interior is closed to dogs but the garden, a fenced corner plot under tall pines, is open to leashed dogs during museum hours and offers a quiet pause between Dubulti station and the beach.",
+          "descriptionFr": "La villa en bois ou la poetesse lettone Aspazija passa ses dernieres annees, aujourd'hui musee memorial. L'interieur est ferme aux chiens mais le jardin, une parcelle d'angle cloturee sous de grands pins, accueille les chiens en laisse aux heures du musee et offre une pause au calme entre la gare de Dubulti et la plage.",
+          "descriptionEs": "La villa de madera donde la poeta letona Aspazija paso sus ultimos anos, hoy museo conmemorativo. El interior esta cerrado a los perros pero el jardin, una parcela de esquina vallada bajo altos pinos, recibe perros con correa en horario del museo y ofrece una pausa tranquila entre la estacion de Dubulti y la playa.",
+          "petPolicy": "Leashed dogs welcome in the garden, not inside the house museum",
+          "petPolicyFr": "Chiens en laisse acceptes dans le jardin, pas a l'interieur de la maison-musee",
+          "petPolicyEs": "Perros con correa admitidos en el jardin, no dentro de la casa-museo",
+          "size": "Small fenced garden",
+          "features": ["fenced garden", "historic villa", "shade"],
+          "tip": "Combine with a stroll up Z. Meierovica prospekts to see a dozen wooden Art Nouveau dachas",
+          "tipFr": "Combinez avec une balade sur Z. Meierovica prospekts pour voir une douzaine de datchas en bois Art Nouveau",
+          "tipEs": "Combina con un paseo por Z. Meierovica prospekts para ver una docena de dachas de madera Art Nouveau",
+          "googleMapsUrl": "https://maps.google.com/?q=Aspazija+House+Jurmala"
+        }
+      ],
+      "tipsEn": [
+        "Leash is required everywhere in Jurmala public space, including Dzintari Forest Park. No formal off-leash zone exists.",
+        "Tick prevention is critical, the pine forest holds Ixodes ricinus in numbers from April to October.",
+        "Plan walks for the morning in summer, the inland pine forest can hit 30 degrees by 14:00 with little air movement."
+      ],
+      "tipsFr": [
+        "La laisse est obligatoire partout dans l'espace public de Jurmala, foret de Dzintari incluse. Pas de zone sans laisse formelle.",
+        "La prevention contre les tiques est critique, la pinede abrite Ixodes ricinus en nombre d'avril a octobre.",
+        "Programmez les promenades le matin en ete, la pinede interieure peut atteindre 30 degres a 14h00 avec peu d'air."
+      ],
+      "tipsEs": [
+        "La correa es obligatoria en todo espacio publico de Jurmala, incluido el bosque de Dzintari. No existe zona sin correa formal.",
+        "La prevencion de garrapatas es critica, el pinar alberga Ixodes ricinus en numero de abril a octubre.",
+        "Programa los paseos por la manana en verano, el pinar interior puede llegar a 30 grados a las 14:00 con poco aire."
+      ],
+      "faqsEn": [
+        {"q": "Are there off-leash parks in Jurmala?", "a": "No formal fenced off-leash zone exists. All public spaces require a leash under municipal rules."},
+        {"q": "Is Dzintari Forest Park open year-round?", "a": "Yes, 9 am to 10 pm every day, entry free, leashed dogs welcome."}
+      ],
+      "faqsFr": [
+        {"q": "Existe-t-il des parcs sans laisse a Jurmala?", "a": "Aucune zone sans laisse cloturee formelle. Tous les espaces publics imposent la laisse selon le reglement municipal."},
+        {"q": "Le parc forestier de Dzintari est-il ouvert toute l'annee?", "a": "Oui, de 9h00 a 22h00 chaque jour, entree libre, chiens en laisse bienvenus."}
+      ],
+      "faqsEs": [
+        {"q": "Hay parques sin correa en Jurmala?", "a": "No existe zona sin correa vallada formal. Todos los espacios publicos exigen correa segun normativa municipal."},
+        {"q": "El Parque Forestal de Dzintari abre todo el ano?", "a": "Si, de 9:00 a 22:00 todos los dias, entrada gratis, perros con correa bienvenidos."}
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Jurmala",
+      "titleFr": "Voyager avec son animal a Jurmala",
+      "titleEs": "Viajar con mascotas en Jurmala",
+      "introEn": "Most visitors reach Jurmala from Riga by Pasazieru vilciens train (rebranded vivi.lv), running from Riga Central Station to Majori in 30 minutes for 1.50 EUR. Trains continue through 14 stops within Jurmala from Priedaine in the east to Kemeri in the west, making Jurmala one of the easiest Baltic resorts to navigate without a car. The local bus operator Jurmalas Pilsetas autobusu satiksme runs city lines along the coast road. Pet rules follow Latvian standard practice: small dogs in carriers free, larger dogs on leash with muzzle at conductor discretion.",
+      "introFr": "La plupart des visiteurs arrivent a Jurmala depuis Riga en train Pasazieru vilciens (renomme vivi.lv), qui relie la gare centrale de Riga a Majori en 30 minutes pour 1,50 euro. Les trains poursuivent par 14 arrets dans Jurmala de Priedaine a l'est jusqu'a Kemeri a l'ouest, ce qui fait de Jurmala l'un des resorts baltiques les plus faciles a parcourir sans voiture. L'operateur local de bus Jurmalas Pilsetas autobusu satiksme dessert les lignes urbaines le long de la cote. Les regles pour animaux suivent la pratique lettone standard : petits chiens en sac gratuits, chiens plus grands en laisse avec museliere a la discretion du chef de train.",
+      "introEs": "La mayoria de visitantes llega a Jurmala desde Riga en tren Pasazieru vilciens (renombrado vivi.lv), que conecta la estacion central de Riga con Majori en 30 minutos por 1,50 EUR. Los trenes continuan por 14 paradas dentro de Jurmala desde Priedaine al este hasta Kemeri al oeste, lo que convierte a Jurmala en uno de los balnearios balticos mas faciles de recorrer sin coche. El operador local de autobuses Jurmalas Pilsetas autobusu satiksme cubre las lineas urbanas por la carretera costera. Las normas para mascotas siguen la practica letona estandar: perros pequenos en transportin gratis, perros mas grandes con correa y bozal a discrecion del revisor.",
+      "rules": [
+        {
+          "mode": "Train (Pasazieru vilciens / vivi.lv) from Riga",
+          "modeFr": "Train (Pasazieru vilciens / vivi.lv) depuis Riga",
+          "modeEs": "Tren (Pasazieru vilciens / vivi.lv) desde Riga",
+          "policy": "Small dogs in a closed carrier travel free as hand luggage. Larger leashed dogs accepted with muzzle, additional child-fare ticket may be required at conductor discretion. Trains run every 30 to 60 minutes Riga to Majori (30 min, 1.50 EUR).",
+          "policyFr": "Petits chiens en sac ferme gratuits comme bagage a main. Chiens plus grands en laisse acceptes avec museliere, un billet supplementaire au tarif enfant peut etre demande a la discretion du controleur. Trains toutes les 30 a 60 minutes Riga vers Majori (30 min, 1,50 euro).",
+          "policyEs": "Perros pequenos en transportin cerrado gratis como equipaje de mano. Perros mas grandes con correa admitidos con bozal, billete adicional tarifa nino puede pedirse a discrecion del revisor. Trenes cada 30 a 60 minutos de Riga a Majori (30 min, 1,50 EUR).",
+          "tip": "Buy tickets via the vivi.lv app for a 10 percent discount over on-board purchase",
+          "tipFr": "Achetez les billets via l'app vivi.lv pour 10 pour cent de reduction par rapport a l'achat a bord",
+          "tipEs": "Compra billetes con la app vivi.lv para 10 por ciento de descuento frente a la compra a bordo"
+        },
+        {
+          "mode": "City Bus (Jurmalas Pilsetas autobusu satiksme)",
+          "modeFr": "Bus urbain (Jurmalas Pilsetas autobusu satiksme)",
+          "modeEs": "Autobus urbano (Jurmalas Pilsetas autobusu satiksme)",
+          "policy": "Standard Latvian carrier practice. Small dogs in carrier free, leashed dogs at driver discretion with muzzle recommended. Single ride 0.70 to 1.20 EUR depending on zone.",
+          "policyFr": "Pratique standard des transporteurs lettons. Petit chien en sac gratuit, chien en laisse a la discretion du conducteur avec museliere recommandee. Trajet simple 0,70 a 1,20 euro selon zone.",
+          "policyEs": "Practica estandar de operadores letones. Perro pequeno en transportin gratis, perro con correa a discrecion del conductor con bozal recomendado. Trayecto simple 0,70 a 1,20 EUR segun zona.",
+          "tip": "The bus is mainly useful for getting from your accommodation to the railway, most sights are within a 10 minute walk of a station",
+          "tipFr": "Le bus sert surtout a rejoindre la voie ferree depuis votre hebergement, la plupart des sites sont a 10 minutes a pied d'une gare",
+          "tipEs": "El autobus sirve sobre todo para llegar al ferrocarril desde tu alojamiento, la mayoria de sitios estan a 10 minutos a pie de una estacion"
+        }
+      ],
+      "sections": [],
+      "faqsEn": [
+        {"q": "How do I get to Jurmala from Riga with a dog?", "a": "Take the Pasazieru vilciens / vivi.lv train from Riga Central. Small dogs in a carrier travel free, the journey to Majori takes 30 minutes for 1.50 EUR."},
+        {"q": "Do I need to buy a ticket for my dog?", "a": "Not for small dogs in a closed carrier. Larger leashed dogs may be charged a child-fare ticket at the conductor's discretion."}
+      ],
+      "faqsFr": [
+        {"q": "Comment rejoindre Jurmala depuis Riga avec un chien?", "a": "Prenez le train Pasazieru vilciens / vivi.lv depuis Riga Centrale. Petits chiens en sac gratuits, trajet vers Majori en 30 minutes pour 1,50 euro."},
+        {"q": "Dois-je acheter un billet pour mon chien?", "a": "Pas pour les petits chiens en sac ferme. Les chiens plus grands en laisse peuvent etre tarifes au prix enfant a la discretion du controleur."}
+      ],
+      "faqsEs": [
+        {"q": "Como llego a Jurmala desde Riga con un perro?", "a": "Toma el tren Pasazieru vilciens / vivi.lv desde Riga Central. Perros pequenos en transportin gratis, trayecto a Majori en 30 minutos por 1,50 EUR."},
+        {"q": "Tengo que comprar billete para mi perro?", "a": "No para perros pequenos en transportin cerrado. Los perros mas grandes con correa pueden tarifarse al precio de nino a discrecion del revisor."}
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Jurmala",
+      "titleFr": "Plages dog-friendly a Jurmala",
+      "titleEs": "Playas pet-friendly en Jurmala",
+      "introEn": "Jurmala's 33 km of white-sand Baltic coast is famously the summer playground of Riga's elite, and equally famously closed to dogs in summer. By municipal rule dogs are prohibited from the beach from April 1 to October 31 in all sections, including Majori, Dzintari, Bulduri, Pumpuri, Jaundubulti and Lielupe. From November 1 to March 31 the entire 33 km coast opens to leashed dogs and becomes one of the longest dog beaches in northern Europe. The rule was updated in late 2024 after a residents' petition. Outside the summer ban, the wide hard sand at low tide is ideal for long off-season walks.",
+      "introFr": "Les 33 km de cote balte au sable blanc de Jurmala sont le terrain de jeu estival de l'elite de Riga, et tout aussi celebrement ferme aux chiens en ete. Par reglement municipal, les chiens sont interdits sur la plage du 1er avril au 31 octobre dans toutes les sections, dont Majori, Dzintari, Bulduri, Pumpuri, Jaundubulti et Lielupe. Du 1er novembre au 31 mars, l'integralite des 33 km s'ouvre aux chiens en laisse et devient l'une des plus longues plages canines d'Europe du Nord. La regle a ete mise a jour fin 2024 apres une petition des habitants. Hors de l'interdiction estivale, le large sable dur a maree basse est ideal pour de longues promenades hors saison.",
+      "introEs": "Los 33 km de costa baltica de arena blanca de Jurmala son el parque infantil de verano de la elite de Riga, e igualmente famosamente cerrado a perros en verano. Por normativa municipal los perros estan prohibidos en la playa del 1 de abril al 31 de octubre en todas las secciones, incluidas Majori, Dzintari, Bulduri, Pumpuri, Jaundubulti y Lielupe. Del 1 de noviembre al 31 de marzo los 33 km enteros se abren a perros con correa y se convierten en una de las playas caninas mas largas del norte de Europa. La norma se actualizo a finales de 2024 tras una peticion vecinal. Fuera de la prohibicion estival, la amplia arena dura en bajamar es ideal para largos paseos fuera de temporada.",
+      "places": [
+        {
+          "name": "Majori Beach (off-season)",
+          "address": "Majori, Jurmala LV-2015",
+          "neighborhood": "Majori",
+          "photo": "/images/city-places/jurmala-beaches-majori.jpg",
+          "website": "https://www.visitjurmala.lv/en/see-and-do/beach-guide/",
+          "description": "The central section of Jurmala's beach, one block back from the main pedestrian street Jomas iela. Closed to dogs April 1 to October 31. From November to March the long flat sand opens to leashed dogs and offers an empty Baltic horizon walk just 30 minutes from Riga Central.",
+          "descriptionFr": "La section centrale de la plage de Jurmala, a un pate de maisons de la rue pietonne principale Jomas iela. Fermee aux chiens du 1er avril au 31 octobre. De novembre a mars, le long sable plat ouvre aux chiens en laisse et offre une promenade sur l'horizon baltique vide a 30 minutes de Riga Centrale.",
+          "descriptionEs": "La seccion central de la playa de Jurmala, a una manzana de la peatonal Jomas iela. Cerrada a perros del 1 de abril al 31 de octubre. De noviembre a marzo, la larga arena plana se abre a perros con correa y ofrece un paseo por el horizonte baltico vacio a 30 minutos de Riga Central.",
+          "petPolicy": "Dogs banned April 1 to October 31. Leashed dogs welcome November 1 to March 31",
+          "petPolicyFr": "Chiens interdits du 1er avril au 31 octobre. Chiens en laisse acceptes du 1er novembre au 31 mars",
+          "petPolicyEs": "Perros prohibidos del 1 de abril al 31 de octubre. Perros con correa admitidos del 1 de noviembre al 31 de marzo",
+          "type": "Blue Flag Baltic sand beach",
+          "facilities": ["lifeguards in summer", "showers", "cafes (summer only)"],
+          "tip": "January and February at low tide is the most atmospheric time, hard wet sand for fetch with the dune wind keeping flies away",
+          "tipFr": "Janvier et fevrier a maree basse est le moment le plus atmospherique, sable mouille dur pour la balle et vent des dunes qui ecarte les insectes",
+          "tipEs": "Enero y febrero en bajamar es el momento mas atmosferico, arena mojada dura para juego de pelota y viento de las dunas que aleja insectos",
+          "googleMapsUrl": "https://maps.google.com/?q=Majori+Beach+Jurmala"
+        },
+        {
+          "name": "Dzintari Beach (off-season)",
+          "address": "Dzintari, Jurmala LV-2015",
+          "neighborhood": "Dzintari",
+          "photo": "/images/city-places/jurmala-beaches-dzintari.jpg",
+          "website": "https://www.visitjurmala.lv/en/see-and-do/beach-guide/",
+          "description": "The Dzintari section runs from the concert hall to the Bulduri border, immediately west of Majori. Same seasonal rule: closed to dogs April 1 to October 31, open to leashed dogs November 1 to March 31. The dune-back pine forest makes Dzintari the easiest beach to combine with an inland forest walk in the off-season.",
+          "descriptionFr": "La section de Dzintari va de la salle de concert a la frontiere de Bulduri, immediatement a l'ouest de Majori. Meme regle saisonniere : fermee aux chiens du 1er avril au 31 octobre, ouverte aux chiens en laisse du 1er novembre au 31 mars. La pinede en arriere des dunes fait de Dzintari la plage la plus facile a combiner avec une promenade en foret a l'interieur hors saison.",
+          "descriptionEs": "La seccion de Dzintari va de la sala de conciertos al limite de Bulduri, justo al oeste de Majori. Misma norma estacional: cerrada a perros del 1 de abril al 31 de octubre, abierta a perros con correa del 1 de noviembre al 31 de marzo. El pinar tras las dunas hace de Dzintari la playa mas facil de combinar con un paseo forestal interior fuera de temporada.",
+          "petPolicy": "Dogs banned April 1 to October 31. Leashed dogs welcome November 1 to March 31",
+          "petPolicyFr": "Chiens interdits du 1er avril au 31 octobre. Chiens en laisse acceptes du 1er novembre au 31 mars",
+          "petPolicyEs": "Perros prohibidos del 1 de abril al 31 de octubre. Perros con correa admitidos del 1 de noviembre al 31 de marzo",
+          "type": "Blue Flag Baltic sand beach",
+          "facilities": ["forest backdrop", "concert hall nearby", "showers"],
+          "tip": "Park at Dzintari station, the boardwalk over the dunes is dog accessible and avoids deep loose sand",
+          "tipFr": "Garez-vous a la gare de Dzintari, le ponton sur les dunes accepte les chiens et evite le sable mou",
+          "tipEs": "Aparca en la estacion de Dzintari, el ponton sobre las dunas admite perros y evita la arena suelta profunda",
+          "googleMapsUrl": "https://maps.google.com/?q=Dzintari+Beach+Jurmala"
+        }
+      ],
+      "tipsEn": [
+        "The April 1 to October 31 ban applies to all 33 km of Jurmala beach, fines up to 70 EUR are enforced in Majori in July and August.",
+        "Off-season (Nov to Mar) the empty sand and Baltic light make Jurmala one of the best winter dog beach destinations in the Baltics.",
+        "Always rinse salt and sand from your dog's coat with fresh water, public showers along the boardwalk run March to October."
+      ],
+      "tipsFr": [
+        "L'interdiction du 1er avril au 31 octobre s'applique aux 33 km de plage de Jurmala, amendes jusqu'a 70 euros appliquees a Majori en juillet-aout.",
+        "Hors saison (nov a mars) le sable vide et la lumiere baltique font de Jurmala l'une des meilleures destinations de plage hivernale pour chien dans la Baltique.",
+        "Rincez toujours le sel et le sable du pelage a l'eau douce, les douches publiques le long du ponton fonctionnent de mars a octobre."
+      ],
+      "tipsEs": [
+        "La prohibicion del 1 de abril al 31 de octubre se aplica a los 33 km de playa de Jurmala, multas hasta 70 EUR en Majori en julio y agosto.",
+        "Fuera de temporada (nov a mar) la arena vacia y la luz baltica hacen de Jurmala uno de los mejores destinos de playa invernal para perro en el Baltico.",
+        "Enjuaga siempre sal y arena del pelo con agua dulce, las duchas publicas a lo largo del ponton funcionan de marzo a octubre."
+      ],
+      "faqsEn": [
+        {"q": "Can I take my dog to Jurmala beach in summer?", "a": "No. Dogs are banned from the entire 33 km coast from April 1 to October 31 by municipal ordinance."},
+        {"q": "When is the beach open to dogs?", "a": "From November 1 to March 31, leashed dogs are welcome on every section of Jurmala beach."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je emmener mon chien sur la plage de Jurmala en ete?", "a": "Non. Les chiens sont interdits sur l'ensemble des 33 km de cote du 1er avril au 31 octobre par arrete municipal."},
+        {"q": "Quand la plage est-elle ouverte aux chiens?", "a": "Du 1er novembre au 31 mars, les chiens en laisse sont bienvenus sur toutes les sections de la plage de Jurmala."}
+      ],
+      "faqsEs": [
+        {"q": "Puedo llevar a mi perro a la playa de Jurmala en verano?", "a": "No. Los perros estan prohibidos en los 33 km de costa del 1 de abril al 31 de octubre por ordenanza municipal."},
+        {"q": "Cuando se abre la playa a los perros?", "a": "Del 1 de noviembre al 31 de marzo, los perros con correa son bienvenidos en todas las secciones de la playa de Jurmala."}
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians in Jurmala",
+      "titleFr": "Veterinaires a Jurmala",
+      "titleEs": "Veterinarios en Jurmala",
+      "introEn": "Jurmala's main resident veterinary practice is fon REKE vet on Raina iela 104, established in 2002, handling cats, dogs, ferrets, rabbits, guinea pigs and other small animals. For genuine 24-hour emergency coverage most local vets refer clients to Riga, 25 km away, where Ikaross veterinary clinic operates around the clock. Mobilvet provides a 24-hour vet home-visit service that covers Jurmala. Carry your EU pet passport, vets cannot legally treat non-emergencies without proof of rabies vaccination.",
+      "introFr": "La principale clinique veterinaire residente de Jurmala est fon REKE vet sur Raina iela 104, etablie en 2002, qui traite chats, chiens, furets, lapins, cochons d'Inde et autres petits animaux. Pour une vraie urgence 24h/24, la plupart des vetos locaux orientent les clients vers Riga a 25 km, ou la clinique Ikaross fonctionne en continu. Mobilvet propose un service de visite veterinaire a domicile 24h/24 qui couvre Jurmala. Conservez le passeport europeen, les vetos ne peuvent traiter les non-urgences sans preuve de vaccination antirabique.",
+      "introEs": "La principal clinica veterinaria residente de Jurmala es fon REKE vet en Raina iela 104, fundada en 2002, que atiende gatos, perros, hurones, conejos, conejillos de Indias y otros animales pequenos. Para urgencia 24 horas real, la mayoria de veterinarios locales derivan a Riga a 25 km, donde la clinica Ikaross opera continuamente. Mobilvet ofrece servicio de visita veterinaria a domicilio 24 horas que cubre Jurmala. Lleva el pasaporte europeo, los veterinarios no pueden tratar no urgencias sin prueba de vacuna antirrabica.",
+      "places": [
+        {
+          "name": "fon REKE vet (Reku veterinarprakse)",
+          "address": "Raina iela 104, Jurmala LV-2016",
+          "neighborhood": "Dubulti",
+          "photo": "/images/city-places/jurmala-vets-fon-reke.jpg",
+          "website": "https://www.fonrekevet.lv/en/",
+          "description": "Jurmala's main resident veterinary clinic, founded in 2002 by Reku family vets. Day clinic with surgery, vaccinations, dentistry, microchipping and EU pet passport updates. Handles cats, dogs, ferrets, rabbits and guinea pigs. Closed on Sundays and public holidays, after-hours emergencies referred to Riga.",
+          "descriptionFr": "Principale clinique veterinaire residente de Jurmala, fondee en 2002 par les veterinaires de la famille Reku. Clinique de jour avec chirurgie, vaccinations, dentisterie, identification electronique et mise a jour du passeport europeen. Prend en charge chats, chiens, furets, lapins, cochons d'Inde. Fermee le dimanche et jours feries, urgences hors heures renvoyees a Riga.",
+          "descriptionEs": "Principal clinica veterinaria residente de Jurmala, fundada en 2002 por veterinarios de la familia Reku. Clinica diurna con cirugia, vacunaciones, odontologia, microchip y actualizacion del pasaporte europeo. Atiende gatos, perros, hurones, conejos, conejillos de Indias. Cerrada domingos y festivos, urgencias fuera de horario derivadas a Riga.",
+          "phone": "+371 28 680 080",
+          "emergency24h": false,
+          "services": ["consultations", "surgery", "dentistry", "vaccinations", "microchipping", "EU pet passport"],
+          "tip": "Book the day before for a routine appointment, the clinic runs near full on weekday mornings in summer",
+          "tipFr": "Reservez la veille pour une consultation courante, la clinique est presque pleine en matinee en semaine en ete",
+          "tipEs": "Reserva el dia anterior para cita rutinaria, la clinica esta casi llena por las mananas entre semana en verano",
+          "googleMapsUrl": "https://maps.google.com/?q=fon+REKE+vet+Jurmala"
+        },
+        {
+          "name": "Mobilvet (24h home visit)",
+          "address": "Mobile service covering Jurmala from Riga base",
+          "neighborhood": "Mobile across Jurmala",
+          "photo": "/images/city-places/jurmala-vets-mobilvet.jpg",
+          "website": "https://vet-home-visits.zl.lv/",
+          "description": "A 24-hour mobile veterinary service that covers Jurmala from a Riga base, useful for after-hours emergencies and for elderly or anxious dogs that travel badly. Services include vaccinations, microchipping, in-home euthanasia, surgery referral and consultations.",
+          "descriptionFr": "Service veterinaire mobile 24h/24 couvrant Jurmala depuis une base de Riga, utile pour les urgences hors heures et pour les chiens ages ou anxieux qui voyagent mal. Services incluant vaccinations, identification, euthanasie a domicile, orientation chirurgicale et consultations.",
+          "descriptionEs": "Servicio veterinario movil 24 horas que cubre Jurmala desde una base en Riga, util para urgencias fuera de horario y para perros ancianos o ansiosos que viajan mal. Servicios incluyendo vacunaciones, microchip, eutanasia a domicilio, derivacion quirurgica y consultas.",
+          "phone": "See zl.lv listing for current number",
+          "emergency24h": true,
+          "services": ["24h home visit", "consultations", "vaccinations", "microchipping"],
+          "tip": "Call ahead for ETA, the mobile vet may be on another visit and 60 to 90 minutes out from Jurmala at night",
+          "tipFr": "Appelez en avance pour le delai d'arrivee, le veto mobile peut etre sur une autre visite et a 60 a 90 minutes de Jurmala la nuit",
+          "tipEs": "Llama antes para tiempo estimado, el veterinario movil puede estar en otra visita y a 60 a 90 minutos de Jurmala por la noche",
+          "googleMapsUrl": "https://maps.google.com/?q=Mobilvet+Riga"
+        }
+      ],
+      "tipsEn": [
+        "EU pet passport mandatory, rabies stamp must be at least 21 days old.",
+        "For real 24-hour emergency vet the closest fixed clinic is Ikaross in Riga, 25 km via the A10 motorway.",
+        "Tick-borne disease (Lyme, ehrlichiosis) is present in the Dzintari pine forest, ask the vet about preventives if you arrive without one."
+      ],
+      "tipsFr": [
+        "Passeport europeen obligatoire, le tampon rage doit dater d'au moins 21 jours.",
+        "Pour une vraie urgence 24h/24 fixe, la clinique la plus proche est Ikaross a Riga, 25 km par l'A10.",
+        "Les maladies transmises par les tiques (Lyme, ehrlichiose) sont presentes dans la pinede de Dzintari, demandez au veto un antiparasitaire si vous arrivez sans."
+      ],
+      "tipsEs": [
+        "Pasaporte europeo obligatorio, el sello antirrabico debe tener al menos 21 dias.",
+        "Para urgencia 24 horas fija real, la clinica mas cercana es Ikaross en Riga, 25 km por la A10.",
+        "Las enfermedades transmitidas por garrapatas (Lyme, erliquiosis) estan presentes en el pinar de Dzintari, pide al veterinario un antiparasitario si llegas sin uno."
+      ],
+      "faqsEn": [
+        {"q": "Is there a 24-hour vet in Jurmala?", "a": "No fixed 24-hour clinic. fon REKE vet handles daytime cases, Mobilvet covers after-hours by mobile visit, and Ikaross in Riga (25 km) is the nearest fixed 24-hour facility."},
+        {"q": "What if my dog has an emergency at night?", "a": "Call Mobilvet for a home visit or drive to Ikaross in Riga (25 km via A10, about 30 minutes off-peak)."}
+      ],
+      "faqsFr": [
+        {"q": "Y a-t-il un veto ouvert 24h/24 a Jurmala?", "a": "Pas de clinique 24h fixe. fon REKE vet gere la journee, Mobilvet couvre les heures non ouvrees a domicile, et Ikaross a Riga (25 km) est la clinique fixe 24h la plus proche."},
+        {"q": "Que faire si mon chien a une urgence la nuit?", "a": "Appelez Mobilvet pour une visite a domicile ou rejoignez Ikaross a Riga (25 km par l'A10, environ 30 minutes hors pointe)."}
+      ],
+      "faqsEs": [
+        {"q": "Hay veterinario 24 horas en Jurmala?", "a": "No hay clinica 24 horas fija. fon REKE vet atiende de dia, Mobilvet cubre fuera de horario por visita movil, e Ikaross en Riga (25 km) es la instalacion fija 24 horas mas cercana."},
+        {"q": "Que hago si mi perro tiene urgencia por la noche?", "a": "Llama a Mobilvet para visita a domicilio o conduce a Ikaross en Riga (25 km por la A10, unos 30 minutos fuera de horas punta)."}
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Jurmala with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Jurmala avec un chien",
+      "titleEs": "Consejos esenciales para visitar Jurmala con un perro",
+      "introEn": "Jurmala is built around its 33 km of beach, and the single biggest fact for a dog-owning visitor is that the beach is closed to dogs from April 1 to October 31. This makes Jurmala a counter-intuitive but excellent off-season destination, November to March is the only window when you can walk an empty Baltic sand beach with a leashed dog. In summer, plan around Dzintari Forest Park instead of the beach, and use the wooden Art Nouveau dacha streets (Z. Meierovica prospekts, Jomas iela) for slower architectural walks.",
+      "introFr": "Jurmala est articulee autour de ses 33 km de plage, et le fait majeur pour un visiteur avec chien est que la plage est fermee aux chiens du 1er avril au 31 octobre. Cela fait de Jurmala une destination contre-intuitive mais excellente hors saison, novembre a mars est la seule fenetre pour parcourir une plage de sable baltique vide avec un chien en laisse. En ete, programmez autour du parc forestier de Dzintari plutot que de la plage, et utilisez les rues bordees de datchas en bois Art Nouveau (Z. Meierovica prospekts, Jomas iela) pour des promenades architecturales tranquilles.",
+      "introEs": "Jurmala se articula en torno a sus 33 km de playa, y el hecho mas importante para un visitante con perro es que la playa esta cerrada a perros del 1 de abril al 31 de octubre. Esto convierte a Jurmala en un destino contraintuitivo pero excelente fuera de temporada, de noviembre a marzo es la unica ventana para recorrer una playa de arena baltica vacia con perro con correa. En verano, planifica en torno al Parque Forestal de Dzintari en lugar de la playa, y usa las calles con dachas de madera Art Nouveau (Z. Meierovica prospekts, Jomas iela) para paseos arquitectonicos mas tranquilos.",
+      "places": [],
+      "tipsEn": [
+        "Beach ban April 1 to October 31 is strictly enforced in Majori, fines up to 70 EUR.",
+        "Off-season visits (Nov to Mar) are the dog owner's prime window, 33 km of empty leashed beach.",
+        "Train from Riga is the easy way, vivi.lv app, 1.50 EUR, 30 minutes, small dogs in carrier free.",
+        "Tick prevention essential April to October, the inland pine forest hosts Ixodes ricinus in numbers.",
+        "Carry the EU pet passport at all times, hotels and the Dzintari Concert Hall (no dogs inside) may check."
+      ],
+      "tipsFr": [
+        "L'interdiction de plage du 1er avril au 31 octobre est strictement appliquee a Majori, amendes jusqu'a 70 euros.",
+        "Les visites hors saison (nov a mars) sont la fenetre privilegiee du proprietaire de chien, 33 km de plage en laisse vide.",
+        "Le train depuis Riga est le moyen facile, app vivi.lv, 1,50 euro, 30 minutes, petits chiens en sac gratuits.",
+        "Prevention tiques essentielle d'avril a octobre, la pinede interieure abrite Ixodes ricinus en nombre.",
+        "Conservez le passeport europeen en permanence, les hotels et la salle de concert de Dzintari (pas de chiens) peuvent verifier."
+      ],
+      "tipsEs": [
+        "La prohibicion de playa del 1 de abril al 31 de octubre se aplica estrictamente en Majori, multas hasta 70 EUR.",
+        "Las visitas fuera de temporada (nov a mar) son la ventana preferente del propietario de perro, 33 km de playa con correa vacia.",
+        "El tren desde Riga es lo facil, app vivi.lv, 1,50 EUR, 30 minutos, perros pequenos en transportin gratis.",
+        "Prevencion de garrapatas esencial abril a octubre, el pinar interior alberga Ixodes ricinus en numero.",
+        "Lleva el pasaporte europeo siempre, los hoteles y la Sala de Conciertos de Dzintari (sin perros dentro) pueden comprobarlo."
+      ],
+      "faqsEn": [
+        {"q": "When is the best time to visit Jurmala with a dog?", "a": "Counter-intuitively, November to March. The beach opens to leashed dogs in this window and 33 km of empty sand becomes available."},
+        {"q": "Is Jurmala worth the trip in summer with a dog?", "a": "Yes if you focus on Dzintari Forest Park and the Art Nouveau dacha streets rather than the beach. Avoid 12:00 to 16:00 when the pine forest gets hot."}
+      ],
+      "faqsFr": [
+        {"q": "Quelle est la meilleure periode pour visiter Jurmala avec un chien?", "a": "Contre-intuitivement, de novembre a mars. La plage ouvre aux chiens en laisse dans cette fenetre et 33 km de sable vide deviennent accessibles."},
+        {"q": "Jurmala vaut-elle le deplacement en ete avec un chien?", "a": "Oui si vous misez sur le parc forestier de Dzintari et les rues a datchas Art Nouveau plutot que sur la plage. Evitez 12h-16h, la pinede chauffe."}
+      ],
+      "faqsEs": [
+        {"q": "Cual es la mejor epoca para visitar Jurmala con un perro?", "a": "Contraintuitivamente, de noviembre a marzo. La playa abre a perros con correa en esa ventana y 33 km de arena vacia se hacen accesibles."},
+        {"q": "Vale la pena Jurmala en verano con un perro?", "a": "Si te centras en el Parque Forestal de Dzintari y las calles de dachas Art Nouveau en vez de la playa. Evita 12:00 a 16:00, el pinar se calienta."}
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Jurmala",
+      "titleFr": "Attractions accueillantes pour les chiens a Jurmala",
+      "titleEs": "Atracciones pet-friendly en Jurmala",
+      "introEn": "Jurmala's headline attractions are open-air and dog-walkable: the wooden Art Nouveau dachas along Z. Meierovica prospekts and Jomas iela, the Dubulti viewpoint above the Lielupe river, the Aspazija House garden, and the Dzintari Forest Park viewing tower. The single famous indoor venue, the Dzintari Concert Hall (open-air amphitheatre and modern indoor stage), does not admit dogs into the hall but the surrounding park and the open-air seating in summer concerts is dog-tolerant for quiet leashed pets. The Raina and Aspazija Memorial Museum at Aspazija House admits dogs in the garden but not the interior.",
+      "introFr": "Les attractions principales de Jurmala sont en exterieur et se parcourent avec un chien : les datchas en bois Art Nouveau le long de Z. Meierovica prospekts et Jomas iela, le belvedere de Dubulti au-dessus de la riviere Lielupe, le jardin de la Maison Aspazija et la tour d'observation du parc forestier de Dzintari. L'unique salle interieure celebre, la Salle de concerts de Dzintari (amphitheatre en plein air et scene interieure moderne), n'admet pas les chiens dans la salle mais le parc autour et les assises en plein air des concerts d'ete tolerent les chiens en laisse calmes. Le Musee memorial Rainis et Aspazija a la Maison Aspazija accepte les chiens au jardin mais pas a l'interieur.",
+      "introEs": "Las atracciones principales de Jurmala son al aire libre y paseables con perro: las dachas de madera Art Nouveau a lo largo de Z. Meierovica prospekts y Jomas iela, el mirador de Dubulti sobre el rio Lielupe, el jardin de la Casa Aspazija y la torre de observacion del Parque Forestal de Dzintari. El unico recinto interior famoso, la Sala de Conciertos de Dzintari (anfiteatro al aire libre y escenario interior moderno), no admite perros dentro de la sala pero el parque alrededor y las gradas al aire libre de los conciertos estivales toleran perros con correa tranquilos. El Museo Memorial Rainis y Aspazija en la Casa Aspazija admite perros en el jardin pero no en el interior.",
+      "places": [
+        {
+          "name": "Dubulti viewpoint and Lutheran church",
+          "address": "Strelnieku prospekts, Dubulti, Jurmala LV-2015",
+          "neighborhood": "Dubulti",
+          "photo": "/images/city-places/jurmala-attractions-dubulti.jpg",
+          "website": "https://www.visitjurmala.lv/en/",
+          "description": "The highest point in central Jurmala, a small hill above Dubulti station with the 1909 wooden Lutheran church and a panorama over the meeting of the Lielupe river and the Baltic Sea. Dogs are not admitted inside the church but the viewpoint, churchyard and surrounding paths are open to leashed dogs year-round.",
+          "descriptionFr": "Le point le plus haut du centre de Jurmala, petite colline au-dessus de la gare de Dubulti avec l'eglise lutherienne en bois de 1909 et un panorama sur la confluence de la riviere Lielupe et de la mer Baltique. Les chiens ne sont pas admis dans l'eglise mais le belvedere, le parvis et les sentiers alentour sont ouverts aux chiens en laisse toute l'annee.",
+          "descriptionEs": "El punto mas alto del centro de Jurmala, una pequena colina sobre la estacion de Dubulti con la iglesia luterana de madera de 1909 y un panorama sobre la confluencia del rio Lielupe y el mar Baltico. Los perros no se admiten dentro de la iglesia pero el mirador, el atrio y los senderos alrededor estan abiertos a perros con correa todo el ano.",
+          "petPolicy": "No dogs inside the church. Viewpoint and surrounding paths open year-round on leash",
+          "petPolicyFr": "Pas de chiens dans l'eglise. Belvedere et sentiers alentour ouverts toute l'annee en laisse",
+          "petPolicyEs": "Sin perros dentro de la iglesia. Mirador y senderos alrededor abiertos todo el ano con correa",
+          "ticketPrice": "Free",
+          "openingHours": "Open access year-round, church visits by service times only",
+          "tip": "Climb at sunset, the angle of the Baltic light through the pines is exceptional from May to August",
+          "tipFr": "Montez au coucher du soleil, l'angle de la lumiere baltique a travers les pins est exceptionnel de mai a aout",
+          "tipEs": "Sube al atardecer, el angulo de la luz baltica a traves de los pinos es excepcional de mayo a agosto",
+          "googleMapsUrl": "https://maps.google.com/?q=Dubulti+church+Jurmala"
+        },
+        {
+          "name": "Wooden Art Nouveau dachas walk",
+          "address": "Z. Meierovica prospekts and Jomas iela, Jurmala LV-2015",
+          "neighborhood": "Majori and Dzintari",
+          "photo": "/images/city-places/jurmala-attractions-art-nouveau-dachas.jpg",
+          "website": "https://www.visitjurmala.lv/en/",
+          "description": "A self-guided walk through the elite summer dachas built between 1870 and 1914 by Riga merchants and aristocrats. Filigreed wood verandas, turrets, glassed sunrooms, the densest concentration is on Z. Meierovica prospekts between Majori and Dzintari stations, about 2 km of leashed-dog walking past listed buildings.",
+          "descriptionFr": "Une promenade libre a travers les datchas estivales d'elite construites entre 1870 et 1914 par les marchands et aristocrates de Riga. Verandas en bois ouvragees, tourelles, vitrages, la concentration la plus dense est sur Z. Meierovica prospekts entre les gares de Majori et Dzintari, environ 2 km de promenade en laisse devant des batiments classes.",
+          "descriptionEs": "Un paseo autoguiado por las dachas estivales de elite construidas entre 1870 y 1914 por mercaderes y aristocratas de Riga. Verandas de madera filigranada, torretas, cristaleras, la concentracion mas densa esta en Z. Meierovica prospekts entre las estaciones de Majori y Dzintari, unos 2 km de paseo con correa frente a edificios catalogados.",
+          "petPolicy": "Public street, leashed dogs welcome",
+          "petPolicyFr": "Rue publique, chiens en laisse bienvenus",
+          "petPolicyEs": "Calle publica, perros con correa bienvenidos",
+          "ticketPrice": "Free",
+          "openingHours": "Open access year-round",
+          "tip": "Pick up the free tourist map at Majori station, the dacha walk is route 2 on the city heritage map",
+          "tipFr": "Recuperez la carte touristique gratuite a la gare de Majori, la promenade des datchas est l'itineraire 2 du plan patrimoine",
+          "tipEs": "Recoge el mapa turistico gratuito en la estacion de Majori, el paseo de las dachas es la ruta 2 del plano patrimonial",
+          "googleMapsUrl": "https://maps.google.com/?q=Z+Meierovica+prospekts+Jurmala"
+        }
+      ],
+      "tipsEn": [
+        "Most Jurmala attractions are exterior, the few no-dog interiors are the Dzintari Concert Hall and the Aspazija House interior.",
+        "Combine the Art Nouveau dacha walk with a Dzintari Forest Park loop for a 90 minute leashed circuit.",
+        "Avoid concert evenings at Dzintari Hall if your dog is noise-sensitive, the open-air amphitheatre can hit 90 dB."
+      ],
+      "tipsFr": [
+        "La plupart des attractions de Jurmala sont en exterieur, les rares interieurs sans chien sont la Salle de concerts de Dzintari et l'interieur de la Maison Aspazija.",
+        "Combinez la promenade des datchas Art Nouveau avec une boucle dans le parc forestier de Dzintari pour un circuit de 90 minutes en laisse.",
+        "Evitez les soirs de concert a la salle de Dzintari si votre chien est sensible au bruit, l'amphitheatre en plein air atteint 90 dB."
+      ],
+      "tipsEs": [
+        "La mayoria de atracciones de Jurmala son exteriores, los pocos interiores sin perro son la Sala de Conciertos de Dzintari y el interior de la Casa Aspazija.",
+        "Combina el paseo de las dachas Art Nouveau con un circuito por el Parque Forestal de Dzintari para un recorrido de 90 minutos con correa.",
+        "Evita las noches de concierto en la sala de Dzintari si tu perro es sensible al ruido, el anfiteatro al aire libre llega a 90 dB."
+      ],
+      "faqsEn": [
+        {"q": "Can I bring my dog into the Dzintari Concert Hall?", "a": "No. Dogs are not admitted into the indoor hall. The surrounding park and open-air amphitheatre seating tolerate quiet leashed dogs for daytime visits but check during evening concerts."},
+        {"q": "Is the Aspazija House open to dogs?", "a": "The garden yes, the interior museum no."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je faire entrer mon chien a la Salle de concerts de Dzintari?", "a": "Non. Les chiens ne sont pas admis dans la salle interieure. Le parc autour et les gradins en plein air tolerent les chiens en laisse calmes en journee, verifiez lors des concerts du soir."},
+        {"q": "La Maison Aspazija est-elle accessible aux chiens?", "a": "Le jardin oui, le musee interieur non."}
+      ],
+      "faqsEs": [
+        {"q": "Puedo entrar con mi perro a la Sala de Conciertos de Dzintari?", "a": "No. Los perros no se admiten en la sala interior. El parque alrededor y las gradas al aire libre toleran perros con correa tranquilos de dia, comprueba durante los conciertos nocturnos."},
+        {"q": "La Casa Aspazija admite perros?", "a": "El jardin si, el museo interior no."}
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting and Dog Walkers in Jurmala",
+      "titleFr": "Garde et promeneurs canins a Jurmala",
+      "titleEs": "Cuidado y paseadores de perros en Jurmala",
+      "introEn": "Content coming soon.",
+      "introFr": "Contenu a venir.",
+      "introEs": "Contenido proximamente.",
+      "places": [],
+      "tipsEn": [
+        "Jurmala has no established commercial pet-sitting platform at the time of writing.",
+        "Most full-service hotels in Majori and Dzintari will arrange informal dog-walking via housekeeping staff.",
+        "For weekend pet boarding, Riga offers several Rover-style independent sitters within 25 km."
+      ],
+      "tipsFr": [
+        "Jurmala n'a pas de plateforme commerciale de pet-sitting etablie au moment de la redaction.",
+        "La plupart des hotels haut de gamme de Majori et Dzintari organisent une promenade informelle via le personnel d'etage.",
+        "Pour la pension de fin de semaine, Riga propose plusieurs sitters independants type Rover a 25 km."
+      ],
+      "tipsEs": [
+        "Jurmala no tiene plataforma comercial de pet-sitting establecida al momento de redactar.",
+        "La mayoria de hoteles de gama alta en Majori y Dzintari organizan paseo informal a traves del personal de pisos.",
+        "Para pension de fin de semana, Riga ofrece varios cuidadores independientes tipo Rover a 25 km."
+      ],
+      "faqsEn": [
+        {"q": "Are there professional dog walkers in Jurmala?", "a": "No established commercial service, ask your hotel for an informal local contact."},
+        {"q": "Can I board my dog overnight in Jurmala?", "a": "Not as a standalone service. The closest reliable options are in Riga, 25 km east."}
+      ],
+      "faqsFr": [
+        {"q": "Existe-t-il des promeneurs canins professionnels a Jurmala?", "a": "Pas de service commercial etabli, demandez a votre hotel un contact local informel."},
+        {"q": "Puis-je laisser mon chien en pension de nuit a Jurmala?", "a": "Pas en service autonome. Les options fiables les plus proches sont a Riga, 25 km a l'est."}
+      ],
+      "faqsEs": [
+        {"q": "Hay paseadores de perros profesionales en Jurmala?", "a": "No hay servicio comercial establecido, pide a tu hotel un contacto local informal."},
+        {"q": "Puedo dejar a mi perro en pension nocturna en Jurmala?", "a": "No como servicio independiente. Las opciones fiables mas cercanas estan en Riga, 25 km al este."}
+      ]
+    }
+  }
+}

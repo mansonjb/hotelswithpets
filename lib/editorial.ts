@@ -481,6 +481,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Nordkette range reachable by cable car from the centre, the Hofgarten royal park, and the cobbled Altstadt around the Goldenes Dachl',
       area: 'Altstadt, Wilten, and the Maria-Theresien-Strasse axis',
     },
+    jurmala: {
+      personality: `Latvia's most famous beach resort, 33 km of white-sand Baltic coast 30 minutes by train from Riga, the summer playground of Riga's elite since the 19th century, with wooden Art Nouveau dachas of Dzintari and Majori, the Dubulti viewpoint, and a leashed-dog winter beach that opens only from November 1 to March 31`,
+      highlight: `Dzintari Forest Park's 200-year-old pine grove, the 33 km off-season dog beach from Lielupe to Kemeri, and the Z. Meierovica prospekts wooden dacha walk`,
+      area: `Majori around Jomas iela, Dzintari around the concert hall and forest park, and Dubulti at the river-meets-sea viewpoint`,
+    },
     krakow: {
       personality: 'a historic Polish city where the ring of Planty gardens encircling the old town makes it one of Central Europe\'s most walkable destinations for dogs',
       highlight: 'the Planty park ring, the Błonia meadows, and the Vistula riverside paths',
@@ -1419,6 +1424,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la chaîne du Nordkette accessible en téléphérique depuis le centre, le parc royal Hofgarten et le Altstadt pavé autour du Goldenes Dachl',
       area: 'Altstadt, Wilten et l\'axe de la Maria-Theresien-Strasse',
     },
+    jurmala: {
+      personality: `la station balnéaire la plus célèbre de Lettonie, 33 km de côte balte au sable blanc à 30 minutes en train de Riga, terrain de jeu estival de l'élite rigoise depuis le XIXe siècle, avec ses datchas en bois Art Nouveau de Dzintari et Majori, le belvédère de Dubulti et une plage canine hivernale en laisse qui n'ouvre que du 1er novembre au 31 mars`,
+      highlight: `la pinède bicentenaire du parc forestier de Dzintari, les 33 km de plage canine hors saison de Lielupe à Kemeri, et la promenade des datchas en bois sur Z. Meierovica prospekts`,
+      area: `Majori autour de Jomas iela, Dzintari autour de la salle de concerts et du parc forestier, et Dubulti au belvédère de la confluence rivière-mer`,
+    },
     krakow: {
       personality: 'une ville historique polonaise dont la ceinture de jardins Planty entourant la vieille ville en fait l\'une des destinations les plus praticables d\'Europe centrale pour les chiens',
       highlight: 'l\'anneau du parc Planty, les prairies de Błonia et les chemins riverains de la Vistule',
@@ -2356,6 +2366,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la cordillera del Nordkette accesible en teleférico desde el centro, el parque real Hofgarten y el Altstadt empedrado en torno al Goldenes Dachl',
       area: 'Altstadt, Wilten y el eje de la Maria-Theresien-Strasse',
     },
+    jurmala: {
+      personality: `el balneario más famoso de Letonia, 33 km de costa báltica de arena blanca a 30 minutos en tren de Riga, parque infantil estival de la élite rigueña desde el siglo XIX, con dachas de madera Art Nouveau de Dzintari y Majori, el mirador de Dubulti y una playa canina invernal con correa que solo abre del 1 de noviembre al 31 de marzo`,
+      highlight: `el pinar bicentenario del Parque Forestal de Dzintari, los 33 km de playa canina fuera de temporada de Lielupe a Kemeri, y el paseo de las dachas de madera en Z. Meierovica prospekts`,
+      area: `Majori en torno a Jomas iela, Dzintari en torno a la sala de conciertos y el parque forestal, y Dubulti en el mirador donde el río se une al mar`,
+    },
     krakow: {
       personality: 'una ciudad histórica polaca donde el anillo de jardines Planty que rodea el casco antiguo la convierte en uno de los destinos más transitables de Europa Central para los perros',
       highlight: 'el anillo del parque Planty, los prados de Błonia y los senderos ribereños del Vístula',
@@ -3292,6 +3307,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital do Tirol rodeada de picos alpinos a 2.300 m, transporte público grátis para cães, teleféricos pet-friendly até as cimas, tradición de café e Gasthaus que admite cães, e urgências veterinárias 24/7',
       highlight: 'a cordillera do Nordkette acessível en teleférico a partir do centro, o parque real Hofgarten e o Altstadt empedrado en torno al Goldenes Dachl',
       area: 'Altstadt, Wilten e o eje da Maria-Theresien-Strasse',
+    },
+    jurmala: {
+      personality: `o balneário mais famoso da Letónia, 33 km de costa báltica de areia branca a 30 minutos de comboio de Riga, parque infantil estival da elite riguense desde o século XIX, com dachas de madeira Art Nouveau de Dzintari e Majori, o miradouro de Dubulti e uma praia canina invernal com trela que só abre de 1 de novembro a 31 de março`,
+      highlight: `o pinhal bicentenário do Parque Florestal de Dzintari, os 33 km de praia canina fora de época de Lielupe a Kemeri, e o passeio das dachas de madeira em Z. Meierovica prospekts`,
+      area: `Majori em torno de Jomas iela, Dzintari em torno da sala de concertos e do parque florestal, e Dubulti no miradouro onde o rio se junta ao mar`,
     },
     krakow: {
       personality: 'uma cidade histórica polaca onde o anillo de jardins Planty que rodea o centro histórico a convierte en uno dos destinos mais transitables de Europa Central para os cães',

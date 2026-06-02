@@ -11850,6 +11850,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  jurmala: {
+    history: {
+      fr: `Jūrmala (le mot signifie littéralement « bord de mer » en letton) est née comme village de pêcheurs et station thermale au XIXe siècle, lorsque l'aristocratie et la bourgeoisie marchande de Riga firent construire ici quelque 4 000 datchas en bois Art Nouveau à veranda ouvragée. Étirée sur 33 kilomètres entre la rivière Lielupe et le canal de Slokas, la ville compte aujourd'hui environ 50 000 habitants répartis en quartiers train-station séparés (Lielupe, Bulduri, Dzintari, Majori, Dubulti, Jaundubulti, Pumpuri, Melluži, Asari, Vaivari, Sloka, Kemeri). Le règlement municipal interdit les chiens sur toute la plage du 1er avril au 31 octobre ; depuis novembre 2024, la totalité des 33 km s'ouvre aux chiens en laisse du 1er novembre au 31 mars, faisant de Jūrmala l'une des plus longues plages canines d'Europe du Nord en hiver. Hors plage, la laisse est obligatoire partout et la ville n'a aucun enclos sans laisse formel.`,
+      en: `Jūrmala (the name literally means "seashore" in Latvian) grew from a fishing village and 19th-century spa town when Riga aristocrats and merchant bourgeoisie built some 4 000 wooden Art Nouveau dachas here, all carved verandas and turrets. Stretched 33 km between the Lielupe river and the Slokas canal, the city today counts about 50 000 residents spread across separately stationed neighbourhoods (Lielupe, Bulduri, Dzintari, Majori, Dubulti, Jaundubulti, Pumpuri, Melluži, Asari, Vaivari, Sloka, Kemeri). Municipal ordinance bans dogs from the whole beach from April 1 to October 31; since November 2024 the full 33 km opens to leashed dogs from November 1 to March 31, making Jūrmala one of northern Europe's longest winter dog beaches. Away from the sand, leash is mandatory throughout and the city has no formal off-leash lot.`,
+      es: `Jūrmala (el nombre significa literalmente "orilla del mar" en letón) nació como aldea de pescadores y balneario del siglo XIX cuando la aristocracia y la burguesía mercantil de Riga construyeron aquí unas 4 000 dachas de madera Art Nouveau con verandas labradas y torretas. Extendida 33 km entre el río Lielupe y el canal de Slokas, la ciudad cuenta hoy con unos 50 000 habitantes repartidos en barrios con estación de tren propia (Lielupe, Bulduri, Dzintari, Majori, Dubulti, Jaundubulti, Pumpuri, Melluži, Asari, Vaivari, Sloka, Kemeri). La ordenanza municipal prohíbe los perros en toda la playa del 1 de abril al 31 de octubre; desde noviembre de 2024 los 33 km enteros se abren a perros con correa del 1 de noviembre al 31 de marzo, lo que convierte a Jūrmala en una de las playas caninas invernales más largas del norte de Europa. Fuera de la arena, la correa es obligatoria en todas partes y la ciudad no tiene recinto sin correa formal.`,
+      pt: `Jūrmala (o nome significa literalmente "beira-mar" em letão) nasceu como aldeia piscatória e estação termal do século XIX quando a aristocracia e a burguesia mercantil de Riga construíram aqui cerca de 4 000 dachas de madeira Art Nouveau com varandas trabalhadas e torreões. Estendida por 33 km entre o rio Lielupe e o canal de Slokas, a cidade conta hoje com cerca de 50 000 habitantes repartidos por bairros com estação de comboio própria (Lielupe, Bulduri, Dzintari, Majori, Dubulti, Jaundubulti, Pumpuri, Melluži, Asari, Vaivari, Sloka, Kemeri). O regulamento municipal proíbe os cães em toda a praia de 1 de abril a 31 de outubro; desde novembro de 2024 os 33 km inteiros abrem aos cães com trela de 1 de novembro a 31 de março, tornando Jūrmala numa das praias caninas invernais mais longas do norte da Europa. Longe da areia, a trela é obrigatória em todo o lado e a cidade não tem recinto sem trela formal.`,
+    },
+    sights: [
+      { name: `Dzintari Forest Park`, emoji: `🌲`, petFriendly: true, desc: {
+        fr: `Pinède protégée de 200 ans à quelques minutes de la gare de Dzintari, allées en dur, tour d'observation, ouverte 9h-22h toute l'année. Chiens en laisse bienvenus sur tous les sentiers.`,
+        en: `Protected 200-year-old pine grove a few minutes from Dzintari station, paved paths, viewing tower, open 9-22 year-round. Leashed dogs welcome on every trail.`,
+        es: `Pinar protegido de 200 años a pocos minutos de la estación de Dzintari, senderos pavimentados, torre de observación, abierto 9-22 todo el año. Perros con correa bienvenidos en todos los senderos.`,
+        pt: `Pinhal protegido de 200 anos a poucos minutos da estação de Dzintari, caminhos pavimentados, torre de observação, aberto 9-22 o ano inteiro. Cães com trela bem-vindos em todos os trilhos.`,
+      }},
+      { name: `Plage de Jūrmala (33 km, hors saison)`, emoji: `🏖️`, petFriendly: true, desc: {
+        fr: `33 km de sable blanc Pavillon Bleu fermés aux chiens du 1er avril au 31 octobre. Du 1er novembre au 31 mars, la totalité de la côte s'ouvre aux chiens en laisse.`,
+        en: `33 km of Blue Flag white sand closed to dogs April 1 to October 31. From November 1 to March 31 the entire coast opens to leashed dogs.`,
+        es: `33 km de arena blanca Bandera Azul cerrada a perros del 1 de abril al 31 de octubre. Del 1 de noviembre al 31 de marzo la costa entera abre a perros con correa.`,
+        pt: `33 km de areia branca Bandeira Azul fechada aos cães de 1 de abril a 31 de outubro. De 1 de novembro a 31 de março toda a costa abre aos cães com trela.`,
+      }},
+      { name: `Datchas Art Nouveau (Z. Meierovica prospekts)`, emoji: `🏚️`, petFriendly: true, desc: {
+        fr: `Concentration la plus dense de datchas en bois Art Nouveau (1870-1914) entre les gares de Majori et Dzintari. 2 km de promenade en laisse devant des bâtiments classés.`,
+        en: `Densest cluster of wooden Art Nouveau dachas (1870-1914) between Majori and Dzintari stations. 2 km of leashed walking past listed buildings.`,
+        es: `Concentración más densa de dachas de madera Art Nouveau (1870-1914) entre las estaciones de Majori y Dzintari. 2 km de paseo con correa frente a edificios catalogados.`,
+        pt: `Concentração mais densa de dachas de madeira Art Nouveau (1870-1914) entre as estações de Majori e Dzintari. 2 km de passeio com trela frente a edifícios classificados.`,
+      }},
+      { name: `Belvédère de Dubulti et église luthérienne`, emoji: `⛪`, petFriendly: true, desc: {
+        fr: `Point le plus haut du centre de Jūrmala, vue sur la confluence Lielupe-Baltique. Église en bois de 1909, exterior et belvédère ouverts en laisse, intérieur fermé aux chiens.`,
+        en: `Highest point in central Jūrmala, view over the Lielupe-Baltic meeting. 1909 wooden Lutheran church, exterior and viewpoint open on leash, interior closed to dogs.`,
+        es: `Punto más alto del centro de Jūrmala, vista sobre la confluencia Lielupe-Báltico. Iglesia luterana de madera de 1909, exterior y mirador abiertos con correa, interior cerrado a perros.`,
+        pt: `Ponto mais alto do centro de Jūrmala, vista sobre a confluência Lielupe-Báltico. Igreja luterana de madeira de 1909, exterior e miradouro abertos com trela, interior fechado aos cães.`,
+      }},
+      { name: `Maison Aspazija (jardin)`, emoji: `🌳`, petFriendly: true, desc: {
+        fr: `Villa en bois où la poétesse lettone Aspazija passa ses dernières années. Jardin clôturé sous les pins, accueille les chiens en laisse aux heures du musée. Intérieur fermé.`,
+        en: `Wooden villa where Latvian poet Aspazija spent her last years. Fenced garden under pines, welcomes leashed dogs during museum hours. Interior closed to pets.`,
+        es: `Villa de madera donde la poeta letona Aspazija pasó sus últimos años. Jardín vallado bajo los pinos, recibe perros con correa en horario del museo. Interior cerrado.`,
+        pt: `Vila de madeira onde a poeta letã Aspazija passou os seus últimos anos. Jardim vedado sob os pinheiros, recebe cães com trela em horário do museu. Interior fechado.`,
+      }},
+      { name: `Salle de concerts de Dzintari`, emoji: `🎶`, petFriendly: false, desc: {
+        fr: `Amphithéâtre en plein air et scène moderne, principal lieu culturel d'été de Lettonie. Pas de chiens dans la salle, parc autour accueillant en journée.`,
+        en: `Open-air amphitheatre and modern stage, Latvia's main summer cultural venue. No dogs inside the hall, surrounding park welcoming during daytime.`,
+        es: `Anfiteatro al aire libre y escenario moderno, principal recinto cultural estival de Letonia. Sin perros dentro de la sala, parque alrededor acogedor de día.`,
+        pt: `Anfiteatro ao ar livre e palco moderno, principal recinto cultural estival da Letónia. Sem cães dentro da sala, parque à volta acolhedor de dia.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Interdiction de plage du 1er avril au 31 octobre sur les 33 km, amendes jusqu'à 70 euros à Majori en été.`,
+        `Hors saison (1er nov au 31 mars), toute la côte ouvre aux chiens en laisse, une des plus longues plages canines d'Europe du Nord.`,
+        `Laisse obligatoire partout dans l'espace public, parc forestier de Dzintari compris. Aucun enclos sans laisse formel.`,
+        `Prévention tiques essentielle d'avril à octobre, la pinède intérieure abrite Ixodes ricinus en nombre.`,
+        `Train depuis Riga (vivi.lv app, 1,50 €, 30 min vers Majori) est le moyen le plus simple, petits chiens en sac gratuits.`,
+      ],
+      en: [
+        `Beach ban April 1 to October 31 covers all 33 km, fines up to 70 EUR in Majori in summer.`,
+        `Off-season (Nov 1 to Mar 31) the whole coast opens to leashed dogs, one of northern Europe's longest dog beaches.`,
+        `Leash mandatory throughout public space, including Dzintari Forest Park. No formal off-leash lot.`,
+        `Tick prevention essential April to October, the inland pine forest holds Ixodes ricinus in numbers.`,
+        `Train from Riga (vivi.lv app, 1.50 EUR, 30 min to Majori) is the easy way, small dogs in carriers free.`,
+      ],
+      es: [
+        `Prohibición de playa del 1 de abril al 31 de octubre cubre los 33 km, multas hasta 70 EUR en Majori en verano.`,
+        `Fuera de temporada (1 nov a 31 mar) toda la costa abre a perros con correa, una de las playas caninas más largas del norte de Europa.`,
+        `Correa obligatoria en todo espacio público, incluido el bosque de Dzintari. No hay recinto sin correa formal.`,
+        `Prevención de garrapatas esencial abril a octubre, el pinar interior alberga Ixodes ricinus en número.`,
+        `El tren desde Riga (app vivi.lv, 1,50 EUR, 30 min a Majori) es lo más sencillo, perros pequeños en transportín gratis.`,
+      ],
+      pt: [
+        `Proibição de praia de 1 de abril a 31 de outubro cobre os 33 km, coimas até 70 EUR em Majori no verão.`,
+        `Fora de época (1 nov a 31 mar) toda a costa abre aos cães com trela, uma das praias caninas mais longas do norte da Europa.`,
+        `Trela obrigatória em todo o espaço público, incluindo o bosque de Dzintari. Não há recinto sem trela formal.`,
+        `Prevenção de carraças essencial de abril a outubro, o pinhal interior tem Ixodes ricinus em número.`,
+        `O comboio de Riga (app vivi.lv, 1,50 EUR, 30 min até Majori) é o mais simples, cães pequenos em transportadora grátis.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Météo: climat balte, été 18-21°C juillet-août, hiver -2 à 0°C décembre-mars, brises de mer fortes toute l'année.`,
+        `Transport public: train Pasažieru vilciens / vivi.lv depuis Riga (14 arrêts dans Jūrmala) et bus urbain. Petit chien en sac gratuit, grand chien à la discrétion.`,
+        `Aéroport: Riga RIX à 25 km, transferts taxi 30-40 min ou bus + train via Riga Centrale.`,
+        `Monnaie: euro depuis 2014, carte acceptée partout, espèces utiles pour les marchés.`,
+        `Urgence vétérinaire: fon REKE vet en journée (Raina iela 104, +371 28 680 080), Mobilvet 24h en visite mobile, Ikaross à Riga 25 km pour 24h fixe.`,
+      ],
+      en: [
+        `Weather: Baltic climate, summer 18-21°C July to August, winter -2 to 0°C December to March, strong sea breezes year-round.`,
+        `Public transport: Pasažieru vilciens / vivi.lv train from Riga (14 stops within Jūrmala) and city bus. Small dog in carrier free, larger dog at conductor discretion.`,
+        `Airport: Riga RIX 25 km, taxi transfer 30-40 min or bus + train via Riga Central.`,
+        `Currency: euro since 2014, card accepted everywhere, cash useful for markets.`,
+        `Emergency vet: fon REKE vet by day (Raina iela 104, +371 28 680 080), Mobilvet 24h mobile, Ikaross in Riga 25 km for fixed 24h.`,
+      ],
+      es: [
+        `Clima: báltico, verano 18-21°C julio-agosto, invierno -2 a 0°C diciembre-marzo, brisas marinas fuertes todo el año.`,
+        `Transporte público: tren Pasažieru vilciens / vivi.lv desde Riga (14 paradas dentro de Jūrmala) y autobús urbano. Perro pequeño en transportín gratis, perro grande a discreción del revisor.`,
+        `Aeropuerto: Riga RIX a 25 km, traslado en taxi 30-40 min o bus + tren vía Riga Central.`,
+        `Moneda: euro desde 2014, tarjeta aceptada en todas partes, efectivo útil para mercados.`,
+        `Urgencia veterinaria: fon REKE vet de día (Raina iela 104, +371 28 680 080), Mobilvet 24h móvil, Ikaross en Riga 25 km para 24h fija.`,
+      ],
+      pt: [
+        `Clima: báltico, verão 18-21°C julho-agosto, inverno -2 a 0°C dezembro-março, brisas marítimas fortes o ano inteiro.`,
+        `Transporte público: comboio Pasažieru vilciens / vivi.lv desde Riga (14 paragens dentro de Jūrmala) e autocarro urbano. Cão pequeno em transportadora grátis, cão maior à discrição do revisor.`,
+        `Aeroporto: Riga RIX a 25 km, transfer de táxi 30-40 min ou autocarro + comboio via Riga Central.`,
+        `Moeda: euro desde 2014, cartão aceite em todo o lado, dinheiro útil para mercados.`,
+        `Urgência veterinária: fon REKE vet de dia (Raina iela 104, +371 28 680 080), Mobilvet 24h móvel, Ikaross em Riga 25 km para 24h fixa.`,
+      ],
+    },
+  },
+
   klaipeda: {
     history: {
       en: `Klaipeda is Lithuania's only Baltic seaport and a 150,000-resident harbour city with a uniquely German-flavoured heritage, founded in 1252 by the Teutonic Order as Memel and Prussian-Lithuanian for most of seven centuries before passing to Lithuania in 1923. The Old Town preserves Memel-era half-timbered warehouses along Tiltu, Turgaus and Daru streets, the ruined 13th-century castle, Theatre Square with the Aennchen von Tharau statue dedicated to baroque poet Simon Dach, and the 12-hectare Sculpture Park with 116 modern Lithuanian works. The city's life pivots on its working port, the cruise terminal, and the free pedestrian ferry across the lagoon to the UNESCO Curonian Spit, making Klaipeda the natural gateway to Neringa.`,

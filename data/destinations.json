@@ -6912,6 +6912,81 @@
     "tiqetsId": "60358"
   },
   {
+    "slug": "jurmala",
+    "name": "Jurmala",
+    "country": "Latvia",
+    "flag": "🇱🇻",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/jurmala.jpg",
+    "intro": "Jurmala, Latvia's most famous beach resort, 33 km of white-sand Baltic coast 30 minutes by train from Riga, wooden Art Nouveau dachas of Dzintari and Majori, the Dubulti viewpoint, and the only Baltic resort where leashed dogs get a full 33 km of empty winter beach from November to March.",
+    "lat": 56.968,
+    "lng": 23.7758,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Cold and snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -2,
+        "desc": "Cold and snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 2,
+        "desc": "Cool and grey",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Cool and breezy",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild and breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Mild and sunny",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild and breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cold and grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Cold and damp",
+        "icon": "❄️"
+      }
+    },
+    "iata": "RIX",
+    "countryCode": "LV"
+  },
+  {
     "slug": "klaipeda",
     "name": "Klaipeda",
     "country": "Lithuania",

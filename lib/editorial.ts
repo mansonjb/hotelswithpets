@@ -396,6 +396,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Długi Targ and Mariacka Street, the Sopot Dog Beach 15 min by SKM, and the Tri-City Landscape Park with 200 km of off-leash trails`,
       area: `the Główne Miasto around Długi Targ, the Wyspa Spichrzów island on the Motława, and Wrzeszcz to the north`,
     },
+    gdynia: {
+      personality: `the modernist port half of Poland's Tricity (with Gdansk and Sopot), a 244 000-resident harbour city with two year-round dedicated dog beaches, two 24-hour emergency vets, the Sea Towers and the museum ships Dar Pomorza and ORP Blyskawica on the South Pier`,
+      highlight: `the Skwer Kosciuszki and the South Pier with the WW2 destroyer ORP Blyskawica, the Orlowo cliffs and 180 m wooden pier, and the Kolibki dog beach with its fenced agility lot`,
+      area: `Srodmiescie around Skwer Kosciuszki, Kamienna Gora above downtown, and Orlowo with its cliffs and wooden pier`,
+    },
     geneva: {
       personality: 'one of Europe\'s most pet-welcoming international capitals, Swiss law allows dogs in restaurants and cafés, the year-round off-leash Bois de la Bâtie sits in the centre, and two 24/7 emergency vet clinics serve the canton',
       highlight: 'the Bois de la Bâtie off-leash forest, the lakefront Quai Wilson promenade, and the bohemian Carouge district',
@@ -1339,6 +1344,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Długi Targ et la rue Mariacka, la plage canine de Sopot à 15 min en SKM, et le parc paysager de la tri-cité avec 200 km de sentiers sans laisse`,
       area: `le Główne Miasto autour du Długi Targ, l'île Wyspa Spichrzów sur la Motława, et Wrzeszcz au nord`,
     },
+    gdynia: {
+      personality: `la moitié portuaire moderniste de la Tricité polonaise (avec Gdansk et Sopot), ville portuaire de 244 000 habitants avec deux plages canines dédiées toute l'année, deux urgences vétérinaires 24h/24, les Sea Towers et les bateaux-musées Dar Pomorza et ORP Blyskawica sur la jetée sud`,
+      highlight: `le Skwer Kosciuszki et la jetée sud avec le destroyer de la Seconde Guerre ORP Blyskawica, les falaises d'Orlowo et la jetée en bois de 180 m, et la plage canine de Kolibki avec son enclos d'agility clôturé`,
+      area: `Srodmiescie autour du Skwer Kosciuszki, Kamienna Gora au-dessus du centre, et Orlowo avec ses falaises et sa jetée en bois`,
+    },
     geneva: {
       personality: 'l\'une des capitales internationales les plus accueillantes pour les animaux d\'Europe, la loi suisse autorise les chiens dans les restaurants et cafés, le Bois de la Bâtie sans laisse toute l\'année se trouve en plein centre, et deux cliniques vétérinaires d\'urgence 24h/24 desservent le canton',
       highlight: 'la forêt sans laisse du Bois de la Bâtie, la promenade lacustre du Quai Wilson et le quartier bohème de Carouge',
@@ -2281,6 +2291,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Długi Targ y la calle Mariacka, la playa canina de Sopot a 15 min en SKM, y el parque paisajístico de la tri-ciudad con 200 km de senderos sin correa`,
       area: `el Główne Miasto alrededor del Długi Targ, la isla Wyspa Spichrzów en el Motława, y Wrzeszcz al norte`,
     },
+    gdynia: {
+      personality: `la mitad portuaria modernista de la Tritricdad polaca (con Gdansk y Sopot), ciudad portuaria de 244 000 habitantes con dos playas caninas dedicadas todo el año, dos urgencias veterinarias 24 horas, las Sea Towers y los barcos-museo Dar Pomorza y ORP Blyskawica en el muelle sur`,
+      highlight: `el Skwer Kosciuszki y el muelle sur con el destructor de la Segunda Guerra ORP Blyskawica, los acantilados de Orlowo y el muelle de madera de 180 m, y la playa canina de Kolibki con su recinto de agility vallado`,
+      area: `Srodmiescie en torno al Skwer Kosciuszki, Kamienna Gora sobre el centro y Orlowo con sus acantilados y muelle de madera`,
+    },
     geneva: {
       personality: 'una de las capitales internacionales más acogedoras para mascotas de Europa, la ley suiza permite perros en restaurantes y cafés, el Bois de la Bâtie sin correa todo el año está en pleno centro, y dos clínicas veterinarias de urgencias 24/7 atienden al cantón',
       highlight: 'el bosque sin correa del Bois de la Bâtie, el paseo lacustre del Quai Wilson y el bohemio distrito de Carouge',
@@ -3222,6 +3237,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a Perla hanseática do Báltico e antiga cidade libre de Danzig, Długi Targ clasificado UNESCO, o lugar de nacimiento de Solidaridad en Stocznia Gdańska, e acesso directo SKM a a praia canina de Sopot (a mais famosa de Polonia) en 15 minutos`,
       highlight: `o Długi Targ e a rua Mariacka, a praia canina de Sopot a 15 min en SKM, e o parque paisajístico da tri-cidade com 200 km de trilhos sem trela`,
       area: `o Główne Miasto alrededor do Długi Targ, a ilha Wyspa Spichrzów no Motława, e Wrzeszcz al norte`,
+    },
+    gdynia: {
+      personality: `a metade portuária modernista da Tritricdade polaca (com Gdansk e Sopot), cidade portuária de 244 000 habitantes com duas praias caninas dedicadas o ano inteiro, duas urgências veterinárias 24 horas, as Sea Towers e os barcos-museu Dar Pomorza e ORP Blyskawica no molhe sul`,
+      highlight: `o Skwer Kosciuszki e o molhe sul com o destruidor da Segunda Guerra ORP Blyskawica, as falésias de Orlowo e o molhe de madeira de 180 m, e a praia canina de Kolibki com o seu recinto de agility vedado`,
+      area: `Srodmiescie em torno do Skwer Kosciuszki, Kamienna Gora sobre o centro, e Orlowo com as suas falésias e molhe de madeira`,
     },
     geneva: {
       personality: 'uma das capitales internacionales mais acogedoras para animais de Europa, a lei suiza permite cães en restaurantes e cafés, o Bois da Bâtie sem trela o ano inteiro está en pleno centro, e dos clínicas veterinárias de urgências 24/7 atienden al cantón',

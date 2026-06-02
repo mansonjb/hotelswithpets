@@ -9600,6 +9600,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  gdynia: {
+    history: {
+      fr: `Gdynia est une ville moderne, voire moderniste, construite ex nihilo dans les années 1920 lorsque la Pologne, ayant retrouvé son indépendance mais privée de Gdansk (alors ville libre internationale), décida de bâtir son propre port de mer sur l'étroit corridor balte qui lui restait. En une décennie, un village de pêcheurs de 1 200 âmes devint l'une des villes les plus dynamiques d'Europe centrale, dotée d'immeubles fonctionnalistes blancs, d'un port commercial et militaire et, depuis 2006, des gratte-ciels résidentiels Sea Towers de 141 m. Aujourd'hui Gdynia compte environ 244 000 habitants et forme avec Gdansk et Sopot la Tricité (Trójmiasto). La loi polonaise impose laisse et muselière pour les chiens en lieux publics, et la ville accueille deux plages canines dédiées toute l'année (Orlowo et Kolibki, cette dernière équipée d'un parcours d'agility) ainsi que deux cliniques vétérinaires d'urgence 24h/24, la meilleure couverture de la côte balte polonaise.`,
+      en: `Gdynia is a modern, even modernist, city built from scratch in the 1920s when newly independent Poland, denied control of Gdansk (then the international Free City), decided to build its own seaport on the narrow Baltic corridor it retained. In a single decade a 1 200-soul fishing village became one of Central Europe's most dynamic cities, with white functionalist tenements, a commercial and naval port, and since 2006 the 141 m Sea Towers high-rise. Today Gdynia counts about 244 000 residents and forms the Tricity (Trójmiasto) with Gdansk and Sopot. Polish law requires leash and muzzle for dogs in public spaces, and the city operates two year-round dedicated dog beaches (Orlowo and Kolibki, the latter with an agility course) plus two 24-hour emergency veterinary clinics, the best coverage on the Polish Baltic coast.`,
+      es: `Gdynia es una ciudad moderna, incluso modernista, construida desde cero en los años 1920 cuando Polonia, recién recuperada la independencia pero sin control sobre Gdansk (entonces Ciudad Libre internacional), decidió construir su propio puerto marítimo en el estrecho corredor báltico que conservaba. En una sola década una aldea pesquera de 1 200 almas se convirtió en una de las ciudades más dinámicas de Europa Central, con edificios funcionalistas blancos, un puerto comercial y militar, y desde 2006 los rascacielos residenciales Sea Towers de 141 m. Hoy Gdynia cuenta con unos 244 000 habitantes y forma la Tritricdad (Trójmiasto) con Gdansk y Sopot. La ley polaca exige correa y bozal para perros en espacios públicos, y la ciudad opera dos playas caninas dedicadas todo el año (Orlowo y Kolibki, esta última con circuito de agility) más dos clínicas veterinarias de urgencias 24 horas, la mejor cobertura de la costa báltica polaca.`,
+      pt: `Gdynia é uma cidade moderna, mesmo modernista, construída do zero nos anos 1920 quando a Polónia, recém-independente mas sem controlo sobre Gdansk (então Cidade Livre internacional), decidiu construir o seu próprio porto marítimo no estreito corredor báltico que conservava. Numa única década uma aldeia piscatória de 1 200 almas tornou-se numa das cidades mais dinâmicas da Europa Central, com edifícios funcionalistas brancos, um porto comercial e militar, e desde 2006 os arranha-céus residenciais Sea Towers de 141 m. Hoje Gdynia conta com cerca de 244 000 habitantes e forma a Tritricdade (Trójmiasto) com Gdansk e Sopot. A lei polaca exige trela e açaime para cães em espaços públicos, e a cidade opera duas praias caninas dedicadas o ano inteiro (Orlowo e Kolibki, esta última com circuito de agility) mais duas clínicas veterinárias de urgência 24 horas, a melhor cobertura da costa báltica polaca.`,
+    },
+    sights: [
+      { name: `Skwer Kościuszki et jetée sud`, emoji: `⚓`, petFriendly: true, desc: {
+        fr: `Place publique principale et jetée maritime de 600 m avec les bateaux-musées Dar Pomorza et ORP Blyskawica. Chiens en laisse sur la place et la jetée, pas à l'intérieur des bateaux.`,
+        en: `Main public square and 600 m maritime pier with the museum ships Dar Pomorza and ORP Blyskawica. Leashed dogs on the square and pier, not inside the ships.`,
+        es: `Plaza pública principal y muelle marítimo de 600 m con los barcos-museo Dar Pomorza y ORP Blyskawica. Perros con correa en plaza y muelle, no dentro de los barcos.`,
+        pt: `Praça pública principal e molhe marítimo de 600 m com os barcos-museu Dar Pomorza e ORP Blyskawica. Cães com trela na praça e molhe, não dentro dos barcos.`,
+      }},
+      { name: `Falaises et jetée en bois d'Orlowo`, emoji: `🌊`, petFriendly: true, desc: {
+        fr: `Jetée de 180 m sous les falaises spectaculaires d'Orlowo, icône de la Tricité. Entrée libre, sentier de falaise et jetée ouverts aux chiens en laisse toute l'année.`,
+        en: `180 m pier beneath the dramatic Orlowo cliffs, a Tricity icon. Free entry, cliff path and pier open to leashed dogs year-round.`,
+        es: `Muelle de 180 m bajo los espectaculares acantilados de Orlowo, icono de la Tritricdad. Entrada libre, sendero del acantilado y muelle abiertos a perros con correa todo el año.`,
+        pt: `Molhe de 180 m sob as dramáticas falésias de Orlowo, ícone da Tritricdade. Entrada gratuita, trilho da falésia e molhe abertos a cães com trela o ano inteiro.`,
+      }},
+      { name: `Plage canine de Kolibki (avec agility)`, emoji: `🏖️`, petFriendly: true, desc: {
+        fr: `La plage canine la mieux équipée de la côte balte polonaise, enclos d'agility clôturé avec sauts, tunnels et slaloms à côté du sable sans laisse.`,
+        en: `The best-equipped dog beach on the Polish Baltic coast, fenced agility lot with jumps, tunnels and weaves beside the off-leash sand.`,
+        es: `La playa canina mejor equipada de la costa báltica polaca, recinto de agility vallado con saltos, túneles y slaloms junto a la arena sin correa.`,
+        pt: `A praia canina mais bem equipada da costa báltica polaca, recinto de agility vedado com saltos, túneis e slaloms junto à areia sem trela.`,
+      }},
+      { name: `Belvédère de Kamienna Góra`, emoji: `🌳`, petFriendly: true, desc: {
+        fr: `Colline de 52 m au-dessus du centre, croix monumentale de 1949 et terrasse panoramique. Funiculaire gratuit accessible aux chiens en laisse depuis la rue 3 Maja.`,
+        en: `52 m hill above downtown, 1949 monumental cross and panoramic terrace. Free funicular open to leashed dogs from 3 Maja street.`,
+        es: `Colina de 52 m sobre el centro, cruz monumental de 1949 y terraza panorámica. Funicular gratuito abierto a perros con correa desde la calle 3 Maja.`,
+        pt: `Colina de 52 m sobre o centro, cruz monumental de 1949 e terraço panorâmico. Funicular gratuito aberto a cães com trela desde a rua 3 Maja.`,
+      }},
+      { name: `Bulwar Nadmorski (promenade)`, emoji: `🚶`, petFriendly: true, desc: {
+        fr: `Promenade pavée de 1,5 km du Skwer Kosciuszki à Redlowo, large, plate, éclairée la nuit. Chiens en laisse bienvenus toute l'année.`,
+        en: `1.5 km paved promenade from Skwer Kosciuszki to Redlowo, wide, flat, lit at night. Leashed dogs welcome year-round.`,
+        es: `Paseo pavimentado de 1,5 km de Skwer Kosciuszki a Redlowo, amplio, llano, iluminado de noche. Perros con correa bienvenidos todo el año.`,
+        pt: `Passeio pavimentado de 1,5 km de Skwer Kosciuszki a Redlowo, largo, plano, iluminado de noite. Cães com trela bem-vindos o ano inteiro.`,
+      }},
+      { name: `Sea Towers Skywalk (gratte-ciel)`, emoji: `🏙️`, petFriendly: false, desc: {
+        fr: `Gratte-ciel résidentiel de 141 m (2006) avec observatoire au 36e étage. Pas de chiens dans l'observatoire, marina et Bulwar au pied acceptent les chiens en laisse.`,
+        en: `141 m residential high-rise (2006) with 36th-floor observation deck. No dogs in the deck, but the marina and Bulwar at the foot welcome leashed dogs.`,
+        es: `Rascacielos residencial de 141 m (2006) con mirador en el piso 36. Sin perros en el mirador, pero la marina y Bulwar al pie admiten perros con correa.`,
+        pt: `Arranha-céus residencial de 141 m (2006) com miradouro no 36.º piso. Sem cães no miradouro, mas a marina e o Bulwar na base admitem cães com trela.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Plages principales (Srodmiescie, Redlowo, Orlowo, Babie Doly) interdites aux chiens du 1er mai au 30 septembre, utilisez les plages canines d'Orlowo (entre entrées 18-19) ou Kolibki.`,
+        `Deux urgences vétérinaires 24h/24 à Gdynia, la meilleure couverture de la côte balte polonaise : New Vet 24h (Chwaszczynska 22/5, +48 58 600 42 10) et GSWet/LuxVet (Kielecka 22).`,
+        `SKM vers la plage canine de Sopot (15 min) et Gdansk (35 min) est rapide, fréquent et ouvertement dog-friendly, petit chien en sac gratuit.`,
+        `Loi polonaise laisse + muselière partout en public sauf plages canines et enclos d'agility. Sacs obligatoires, amendes jusqu'à 500 PLN.`,
+        `Saison des tiques d'avril à octobre, le Parc paysager de la Tricité abrite Ixodes ricinus et Dermacentor reticulatus, antiparasitaire essentiel.`,
+      ],
+      en: [
+        `Main beaches (Srodmiescie, Redlowo, Orlowo, Babie Doly) ban dogs May 1 to September 30, use Orlowo (between entrances 18-19) or Kolibki dog beaches.`,
+        `Two 24h emergency vets in Gdynia, best coverage on the Polish Baltic coast: New Vet 24h (Chwaszczynska 22/5, +48 58 600 42 10) and GSWet/LuxVet (Kielecka 22).`,
+        `SKM rail to Sopot Dog Beach (15 min) and Gdansk (35 min) is fast, frequent and openly dog-friendly, small dog in carrier free.`,
+        `Polish leash + muzzle law applies everywhere in public except dog beaches and agility lots. Waste bags mandatory, fines up to 500 PLN.`,
+        `Tick season April to October, the Tri-City Landscape Park carries Ixodes ricinus and Dermacentor reticulatus, preventive essential.`,
+      ],
+      es: [
+        `Playas principales (Srodmiescie, Redlowo, Orlowo, Babie Doly) prohíben perros del 1 de mayo al 30 de septiembre, usa las playas caninas de Orlowo (entre entradas 18-19) o Kolibki.`,
+        `Dos urgencias veterinarias 24 horas en Gdynia, la mejor cobertura de la costa báltica polaca: New Vet 24h (Chwaszczynska 22/5, +48 58 600 42 10) y GSWet/LuxVet (Kielecka 22).`,
+        `El SKM a la playa canina de Sopot (15 min) y Gdansk (35 min) es rápido, frecuente y abiertamente pet-friendly, perro pequeño en transportín gratis.`,
+        `La ley polaca de correa + bozal se aplica en todos los espacios públicos salvo playas caninas y recintos de agility. Bolsas obligatorias, multas hasta 500 PLN.`,
+        `Temporada de garrapatas abril a octubre, el Parque Paisajístico de la Tritricdad alberga Ixodes ricinus y Dermacentor reticulatus, antiparasitario esencial.`,
+      ],
+      pt: [
+        `Praias principais (Srodmiescie, Redlowo, Orlowo, Babie Doly) proíbem cães de 1 de maio a 30 de setembro, use as praias caninas de Orlowo (entre entradas 18-19) ou Kolibki.`,
+        `Duas urgências veterinárias 24 horas em Gdynia, melhor cobertura da costa báltica polaca: New Vet 24h (Chwaszczynska 22/5, +48 58 600 42 10) e GSWet/LuxVet (Kielecka 22).`,
+        `O SKM até à praia canina de Sopot (15 min) e a Gdansk (35 min) é rápido, frequente e abertamente pet-friendly, cão pequeno em transportadora grátis.`,
+        `A lei polaca de trela + açaime aplica-se em todos os espaços públicos exceto praias caninas e recintos de agility. Sacos obrigatórios, coimas até 500 PLN.`,
+        `Época das carraças de abril a outubro, o Parque Paisagístico da Tritricdade tem Ixodes ricinus e Dermacentor reticulatus, antiparasitário essencial.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Météo: balte continental, été 17-20°C juillet-août, hiver 0°C décembre-mars, brises de mer toute l'année.`,
+        `Transport public: bus + trolleybus ZKM Gdynia + train SKM. Petit chien en sac gratuit, plus grand au tarif normal (~4 PLN) avec muselière.`,
+        `Aéroport: Gdansk Lech Walesa (GDN) à 30 km, navette SKM directe vers Gdynia Glowna en 25 min.`,
+        `Monnaie: zloty polonais (PLN), pas l'euro. ~4,3 PLN = 1 EUR. Budget chien-friendly modéré.`,
+        `Urgence vétérinaire: deux options 24h/24, New Vet 24h (Chwaszczynska 22/5) et GSWet/LuxVet (Kielecka 22) avec scanner CT.`,
+      ],
+      en: [
+        `Weather: Baltic continental, summer 17-20°C July to August, winter 0°C December to March, sea breezes year-round.`,
+        `Public transport: ZKM Gdynia bus + trolleybus + SKM rail. Small dog in carrier free, larger on normal ticket (~4 PLN) with muzzle.`,
+        `Airport: Gdansk Lech Walesa (GDN) 30 km, direct SKM shuttle to Gdynia Glowna in 25 min.`,
+        `Currency: Polish zloty (PLN), not euro. ~4.3 PLN = 1 EUR. Moderate dog-friendly budget.`,
+        `Emergency vet: two 24-hour options, New Vet 24h (Chwaszczynska 22/5) and GSWet/LuxVet (Kielecka 22) with CT scanner.`,
+      ],
+      es: [
+        `Clima: báltico continental, verano 17-20°C julio-agosto, invierno 0°C diciembre-marzo, brisas marinas todo el año.`,
+        `Transporte público: autobús + trolebús ZKM Gdynia + tren SKM. Perro pequeño en transportín gratis, más grande con billete normal (~4 PLN) y bozal.`,
+        `Aeropuerto: Gdansk Lech Walesa (GDN) a 30 km, lanzadera SKM directa a Gdynia Glowna en 25 min.`,
+        `Moneda: zloty polaco (PLN), no euro. ~4,3 PLN = 1 EUR. Presupuesto pet-friendly moderado.`,
+        `Urgencia veterinaria: dos opciones 24 horas, New Vet 24h (Chwaszczynska 22/5) y GSWet/LuxVet (Kielecka 22) con escáner CT.`,
+      ],
+      pt: [
+        `Clima: báltico continental, verão 17-20°C julho-agosto, inverno 0°C dezembro-março, brisas marítimas o ano inteiro.`,
+        `Transporte público: autocarro + trolei ZKM Gdynia + comboio SKM. Cão pequeno em transportadora grátis, maior com bilhete normal (~4 PLN) com açaime.`,
+        `Aeroporto: Gdansk Lech Walesa (GDN) a 30 km, comboio SKM direto para Gdynia Glowna em 25 min.`,
+        `Moeda: zloty polaco (PLN), não euro. ~4,3 PLN = 1 EUR. Orçamento pet-friendly moderado.`,
+        `Urgência veterinária: duas opções 24 horas, New Vet 24h (Chwaszczynska 22/5) e GSWet/LuxVet (Kielecka 22) com TAC.`,
+      ],
+    },
+  },
+
   geneva: {
     history: {
       fr: `Genève, à la pointe sud-ouest du lac Léman et lovée entre Jura et Alpes, fut une cité-état fortifiée avant de devenir le berceau de la Réforme calvinienne au XVIe siècle, puis la capitale humanitaire mondiale au XXe, siège de la Croix-Rouge, des Nations Unies à l'européenne et de plus de 40 organisations internationales. Cette population diplomatique cosmopolite (40% des résidents sont étrangers) façonne une ville extraordinairement multilingue où il est aussi naturel d'entendre une commande em français qu'em anglais, italien ou portugais, y compris les ordres donnés à un chien. Compacte (16 km²), Genève se traverse à pied du nord au sud en 45 minutes, et son organisation autour de la Rade, le bassin lacustre coiffé du Jet d'Eau de 140 mètres, relie tous les quartiers : Pâquis sur la rive droite, Eaux-Vives sur la gauche, la Vieille-Ville sur sa colline et Carouge la bohème de l'autre côté de l'Arve. La loi suisse fédérale autorise les chiens partout sauf interdiction explicite par le propriétaire des lieux : restaurants, cafés, hôtels, transports, la décision revient à chacun, et la culture dominante reste l'accueil. Le Bois de la Bâtie, em plein centre, est l'une des rares forêts urbaines suisses sans laisse toute l'année.`,

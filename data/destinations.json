@@ -5636,6 +5636,81 @@
     "iata": "GDN"
   },
   {
+    "slug": "gdynia",
+    "name": "Gdynia",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/gdynia.jpg",
+    "intro": "Gdynia, the modernist port half of Poland's Tricity (with Gdansk and Sopot), 244 000 residents, two year-round dedicated dog beaches (Orlowo and Kolibki with agility), two 24-hour emergency vets, the Sea Towers, the South Pier museum ships (Dar Pomorza, ORP Blyskawica), and direct SKM rail to Sopot Dog Beach in 15 minutes.",
+    "lat": 54.5189,
+    "lng": 18.5305,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold and snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold and snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Cool and grey",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Cool and breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild and breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild and sunny",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild and breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold and overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold and snowy",
+        "icon": "❄️"
+      }
+    },
+    "iata": "GDN",
+    "countryCode": "PL"
+  },
+  {
     "slug": "geneva",
     "name": "Geneva",
     "country": "Switzerland",

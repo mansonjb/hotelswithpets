@@ -25,6 +25,7 @@ async function loadApiKey() {
 // Slug → query targeting a photogenic, pet-relevant landmark
 const TARGETS = [
   { slug: 'klaipeda',      query: 'Klaipeda Lithuania Old Town Theatre Square Aennchen von Tharau Memel wooden houses Baltic panorama sunset' },
+  { slug: 'neringa',       query: 'Nida Neringa Lithuania Parnidis dune sundial Curonian Spit colourful weathervane fisherman houses lagoon panorama sunset' },
   { slug: 'bayonne',       query: 'Bayonne France Vieux Bayonne Nive river red-shuttered Basque houses cathedral panorama sunset' },
   { slug: 'vitoria-gasteiz', query: 'Vitoria-Gasteiz Spain Plaza de la Virgen Blanca Casco Medieval Anillo Verde panorama sunset' },
   { slug: 'getxo',         query: 'Getxo Spain Vizcaya Bridge Puente Colgante Bay of Biscay Algorta old port panorama sunset' },

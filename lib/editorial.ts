@@ -626,6 +626,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Lungomare Caracciolo, the Bosco di Capodimonte, and the Parco Virgiliano on Posillipo',
       area: 'Chiaia, Posillipo, and the historic centre around Spaccanapoli',
     },
+    neringa: {
+      personality: `the UNESCO Curonian Spit resort municipality on a 52 km Baltic sand spit, four lagoon villages with a permanent population of 2,500, reached only by ferry from Klaipeda, where leashed dogs roam pine-forest trails, the Parnidis sundial dune and the Nida lagoon promenade`,
+      highlight: `the Parnidis Dune sundial in Nida, the Hill of Witches sculpture trail in Juodkrante, and the Nida lagoon promenade with its colourful weathervane fisherman houses`,
+      area: `Nida (the southern resort village), Juodkrante (the second resort with the Hill of Witches), and the quieter Preila and Pervalka villages`,
+    },
     'new-york': {
       personality: `the most pet-aware large city in the US, with 70+ dog runs, the country's most generous urban off-leash hours (5–9 am and 9 pm–1 am in Central and Prospect Parks), and a 24/7 emergency-vet network anchored by the Animal Medical Center`,
       highlight: 'Central Park off-leash hours, Prospect Park Dog Beach, and the Hudson River Park dog runs',
@@ -1554,6 +1559,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Lungomare Caracciolo, le Bosco di Capodimonte et le Parco Virgiliano de Posillipo',
       area: 'Chiaia, Posillipo et le centre historique autour de Spaccanapoli',
     },
+    neringa: {
+      personality: `la commune balnéaire UNESCO du Cordon de Courlande sur un cordon sableux balte de 52 km, quatre villages de lagune comptant 2 500 habitants permanents, accessible uniquement par ferry depuis Klaipeda, où les chiens en laisse parcourent les sentiers de pinède, la dune au cadran solaire de Parnidis et la promenade de la lagune à Nida`,
+      highlight: `le cadran solaire de la dune de Parnidis à Nida, le sentier des sculptures de la Colline des Sorcières à Juodkrante, et la promenade de la lagune de Nida avec ses maisons de pêcheurs aux girouettes vetrunge colorées`,
+      area: `Nida (le village balnéaire du sud), Juodkrante (la deuxième station avec la Colline des Sorcières), et les villages plus tranquilles de Preila et Pervalka`,
+    },
     'new-york': {
       personality: `la grande ville la plus pet-aware des États-Unis, avec plus de 70 enclos canins, les horaires sans laisse urbains les plus généreux du pays (5h–9h et 21h–1h dans Central Park et Prospect Park), et un réseau d'urgences vétérinaires 24h/24 emmené par l'Animal Medical Center`,
       highlight: `les heures sans laisse de Central Park, la Dog Beach de Prospect Park et les enclos du Hudson River Park`,
@@ -2481,6 +2491,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Lungomare Caracciolo, el Bosco di Capodimonte y el Parco Virgiliano de Posillipo',
       area: 'Chiaia, Posillipo y el centro histórico en torno a Spaccanapoli',
     },
+    neringa: {
+      personality: `el municipio balneario UNESCO del Istmo de Curlandia sobre un cordón arenoso báltico de 52 km, cuatro pueblos lacustres con 2.500 habitantes permanentes, accesible solo en ferry desde Klaipeda, donde los perros con correa recorren los senderos del pinar, la duna del reloj de sol de Parnidis y el paseo de la laguna en Nida`,
+      highlight: `el reloj de sol de la duna de Parnidis en Nida, el sendero de esculturas de la Colina de las Brujas en Juodkrante, y el paseo de la laguna de Nida con sus casas de pescadores con veletas vetrunge coloridas`,
+      area: `Nida (el pueblo balneario del sur), Juodkrante (la segunda estación con la Colina de las Brujas), y los pueblos más tranquilos de Preila y Pervalka`,
+    },
     'new-york': {
       personality: `la gran ciudad más pet-aware de EE. UU., con más de 70 dog runs, los horarios sin correa urbanos más generosos del país (5:00–9:00 y 21:00–1:00 en Central Park y Prospect Park), y una red de urgencias veterinarias 24/7 encabezada por el Animal Medical Center`,
       highlight: `las horas sin correa de Central Park, la Dog Beach de Prospect Park y los dog runs del Hudson River Park`,
@@ -3407,6 +3422,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital caótica e apasionada do sul de Italia, densos ruelas históricos, Lungomare peatonal de 2,5 km, Bosco di Capodimonte de 134 hectáreas e trattorie que tratan aos cães como miembros da familia',
       highlight: 'o Lungomare Caracciolo, o Bosco di Capodimonte e o Parco Virgiliano de Posillipo',
       area: 'Chiaia, Posillipo e o centro histórico en torno a Spaccanapoli',
+    },
+    neringa: {
+      personality: `o município balnear UNESCO do Istmo da Curlândia sobre um cordão arenoso báltico de 52 km, quatro aldeias lacustres com 2.500 habitantes permanentes, acessível só por ferry a partir de Klaipeda, onde os cães com trela percorrem os trilhos do pinhal, a duna do relógio de sol de Parnidis e o passeio da lagoa em Nida`,
+      highlight: `o relógio de sol da duna de Parnidis em Nida, o trilho de esculturas da Colina das Bruxas em Juodkrante, e o passeio da lagoa de Nida com as suas casas de pescadores com cataventos vetrunge coloridos`,
+      area: `Nida (a aldeia balnear do sul), Juodkrante (a segunda estação com a Colina das Bruxas), e as aldeias mais tranquilas de Preila e Pervalka`,
     },
     'new-york': {
       personality: `a grande cidade mais pet-aware dos EUA, com mais de 70 dog runs, os horários sem trela urbanos mais generosos do país (5:00–9:00 e 21:00–1:00 em Central Park e Prospect Park), e uma rede de urgências veterinárias 24/7 liderada pelo Animal Medical Center`,

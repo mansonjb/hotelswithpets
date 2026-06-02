@@ -16773,6 +16773,123 @@
     "petPolicyPt": "Animais permitidos por 10 EUR por noite. All sizes bem-vindos. máx. 1 animais per quarto."
   },
   {
+    "id": "neringa-1",
+    "name": "Kastytis",
+    "destinationSlug": "neringa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 520,
+    "priceFrom": 40,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lt/kastytis.html",
+    "petFee": 5,
+    "petPolicy": "Kastytis, a pine-shaded guesthouse about 775 m from the centre of Nida, welcomes pets of any size for €5 per pet, per night. Both dogs and cats are accepted and food and water bowls are provided in the room. The garden and terrace sit under tall pines a short walk from the Curonian Lagoon promenade.",
+    "highlights": [
+      "Pine-forest garden",
+      "Walk to Nida promenade",
+      "Free WiFi"
+    ],
+    "slug": "kastytis"
+  },
+  {
+    "id": "neringa-2",
+    "name": "Guboja",
+    "destinationSlug": "neringa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 180,
+    "priceFrom": 45,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lt/guboja.html",
+    "petFee": 5,
+    "petPolicy": "Guboja is a retro summerhouse on the bank of the Curonian Lagoon in Nida that allows one pet of any size in designated rooms for €5 per night. Both dogs and cats are welcome. The lagoon-view terrace is a few steps from the shore and a short walk from the Nida marina.",
+    "highlights": [
+      "Lagoon-shore terrace",
+      "Retro summerhouse",
+      "Walk to Nida marina"
+    ],
+    "slug": "guboja"
+  },
+  {
+    "id": "neringa-3",
+    "name": "Smėlynas Neringa Apartments",
+    "destinationSlug": "neringa",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 9.4,
+    "reviewCount": 161,
+    "priceFrom": 50,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lt/smelynas.html",
+    "petFee": 12,
+    "petPolicy": "Smėlynas Neringa Apartments in Preila welcomes up to two dogs per room: €12 per night for dogs up to 7 kg and €15 per night for larger dogs. The self-catering apartments sit on the quiet Preila lagoon shore, steps from the Curonian Spit forest trails and a short drive from Nida.",
+    "highlights": [
+      "Preila lagoon shore",
+      "Free private parking",
+      "Self-catering apartments"
+    ],
+    "slug": "smelynas-neringa-apartments"
+  },
+  {
+    "id": "neringa-4",
+    "name": "Vila Deva",
+    "destinationSlug": "neringa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 41,
+    "priceFrom": 40,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lt/vila-deva.html",
+    "petFee": 0,
+    "petPolicy": "Vila Deva is a garden guesthouse in Neringa that accepts pets on request; a fee may apply, so flag your pet in the special-requests box at booking. Dogs and other pets are welcome, with free private parking and a quiet garden beside the spit pine forest. The property accepts cash payment only.",
+    "highlights": [
+      "Garden setting",
+      "Free private parking",
+      "Free WiFi"
+    ],
+    "slug": "vila-deva"
+  },
+  {
+    "id": "neringa-5",
+    "name": "Vila Preiloja",
+    "destinationSlug": "neringa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.3,
+    "reviewCount": 44,
+    "priceFrom": 72,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lt/vila-preiloja.html",
+    "petFee": 0,
+    "petPolicy": "Vila Preiloja is a family-run guest house on the Curonian Lagoon shore in Preila village that accepts pets on request, with charges that may apply; confirm your pet with the property at booking. The quiet lagoon-side garden is well suited to dogs after a day on the Curonian Spit trails.",
+    "highlights": [
+      "Lagoon-shore garden",
+      "Family-run",
+      "Quiet Preila village"
+    ],
+    "slug": "vila-preiloja"
+  },
+  {
     "id": "new-york-1",
     "name": "Loews Regency New York Hotel",
     "destinationSlug": "new-york",

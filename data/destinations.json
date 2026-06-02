@@ -6912,81 +6912,6 @@
     "tiqetsId": "60358"
   },
   {
-    "slug": "krakow",
-    "name": "Krakow",
-    "country": "Poland",
-    "flag": "🇵🇱",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/krakow.jpg",
-    "intro": "Krakow's magnificent medieval Rynek (Market Square) is ringed by leafy streets that are surprisingly dog-friendly, and hotels here are among Poland's most welcoming to pets. The Planty park: a 4km ring of greenery encircling the old town: is ideal for early-morning walks before the tourist crowds arrive.",
-    "lat": 50.0647,
-    "lng": 19.945,
-    "weather": {
-      "jan": {
-        "temp": -1,
-        "desc": "Very cold",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 1,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 6,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "apr": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 23,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 11,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 0,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      }
-    },
-    "iata": "KRK",
-    "tiqetsId": "46"
-  },
-  {
     "slug": "klaipeda",
     "name": "Klaipeda",
     "country": "Lithuania",
@@ -7060,6 +6985,81 @@
       }
     },
     "iata": "PLQ"
+  },
+  {
+    "slug": "krakow",
+    "name": "Krakow",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/krakow.jpg",
+    "intro": "Krakow's magnificent medieval Rynek (Market Square) is ringed by leafy streets that are surprisingly dog-friendly, and hotels here are among Poland's most welcoming to pets. The Planty park: a 4km ring of greenery encircling the old town: is ideal for early-morning walks before the tourist crowds arrive.",
+    "lat": 50.0647,
+    "lng": 19.945,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Very cold",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      }
+    },
+    "iata": "KRK",
+    "tiqetsId": "46"
   },
   {
     "slug": "lausanne",
@@ -9088,6 +9088,80 @@
     },
     "iata": "NAP",
     "tiqetsId": "71720"
+  },
+  {
+    "slug": "neringa",
+    "name": "Neringa",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "flag": "🇱🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/neringa.jpg",
+    "intro": "Neringa is the UNESCO Curonian Spit resort municipality of four small lagoon villages (Nida, Juodkrante, Preila, Pervalka) on a 52 km sand spit reached only by ferry from Klaipeda, where leashed dogs roam pine-forest trails, the Parnidis sundial dune and the Nida lagoon promenade.",
+    "lat": 55.3,
+    "lng": 21.0,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Cold & windy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold & icy lagoon",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 2,
+        "desc": "Cool & raw",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 7,
+        "desc": "Mild & windy",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Warm & green",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool & misty",
+        "icon": "🌫️"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & windy",
+        "icon": "❄️"
+      }
+    }
   },
   {
     "slug": "new-york",

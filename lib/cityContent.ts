@@ -11850,6 +11850,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  klaipeda: {
+    history: {
+      en: `Klaipeda is Lithuania's only Baltic seaport and a 150,000-resident harbour city with a uniquely German-flavoured heritage, founded in 1252 by the Teutonic Order as Memel and Prussian-Lithuanian for most of seven centuries before passing to Lithuania in 1923. The Old Town preserves Memel-era half-timbered warehouses along Tiltu, Turgaus and Daru streets, the ruined 13th-century castle, Theatre Square with the Aennchen von Tharau statue dedicated to baroque poet Simon Dach, and the 12-hectare Sculpture Park with 116 modern Lithuanian works. The city's life pivots on its working port, the cruise terminal, and the free pedestrian ferry across the lagoon to the UNESCO Curonian Spit, making Klaipeda the natural gateway to Neringa.`,
+      fr: `Klaipeda est le seul port balte de Lituanie, une ville portuaire de 150 000 habitants au patrimoine germanique unique, fondée en 1252 par l'Ordre Teutonique sous le nom de Memel et restée prussienne-lituanienne pendant l'essentiel de sept siècles avant de passer à la Lituanie en 1923. La vieille ville conserve les entrepôts à colombages d'époque Memel le long des rues Tiltu, Turgaus et Daru, le château en ruine du XIIIᵉ siècle, la place du Théâtre avec la statue d'Aennchen von Tharau dédiée au poète baroque Simon Dach, et le Parc des Sculptures de 12 hectares avec 116 œuvres modernes lituaniennes. La vie de la ville pivote autour de son port en activité, du terminal des croisières et du ferry piéton gratuit à travers la lagune vers le Cordon de Courlande UNESCO, ce qui fait de Klaipeda la porte d'entrée naturelle de Neringa.`,
+      es: `Klaipeda es el único puerto báltico de Lituania, una ciudad portuaria de 150.000 habitantes con un patrimonio germánico único, fundada en 1252 por la Orden Teutónica como Memel y prusiano-lituana durante la mayor parte de siete siglos antes de pasar a Lituania en 1923. El Casco Antiguo conserva los almacenes con entramado de madera de época Memel a lo largo de las calles Tiltu, Turgaus y Daru, el castillo en ruinas del siglo XIII, la Plaza del Teatro con la estatua de Aennchen von Tharau dedicada al poeta barroco Simon Dach, y el Parque de Esculturas de 12 hectáreas con 116 obras modernas lituanas. La vida de la ciudad gira en torno a su puerto en activo, la terminal de cruceros y el ferry peatonal gratuito a través de la laguna hacia el Istmo de Curlandia UNESCO, lo que hace de Klaipeda la puerta natural a Neringa.`,
+      pt: `Klaipeda é o único porto báltico da Lituânia, uma cidade portuária de 150.000 habitantes com um património germânico único, fundada em 1252 pela Ordem Teutónica como Memel e prussiano-lituana durante a maior parte de sete séculos antes de passar para a Lituânia em 1923. O Centro Histórico conserva os armazéns de madeira da era Memel ao longo das ruas Tiltu, Turgaus e Daru, o castelo em ruínas do século XIII, a Praça do Teatro com a estátua de Aennchen von Tharau dedicada ao poeta barroco Simon Dach, e o Parque de Esculturas de 12 hectares com 116 obras modernas lituanas. A vida da cidade gira em torno do seu porto activo, do terminal de cruzeiros e do ferry pedonal gratuito que atravessa a lagoa para o Istmo da Curlândia UNESCO, o que faz de Klaipeda a porta natural para Neringa.`,
+    },
+    sights: [
+      {
+        name: `Klaipeda Old Town & Memel houses`,
+        emoji: `🏘️`,
+        petFriendly: true,
+        desc: {
+          en: `The compact Memel-era heart of Klaipeda along Tiltu, Turgaus and Daru streets, with surviving half-timbered Hanseatic warehouses, John Square (Janturgaus aikste), Friedrich's passage and a distinctly Prussian-Lithuanian character. A 60 to 90 minute self-guided loop covers the highlights with leashed dogs welcome throughout the public streets.`,
+          fr: `Le cœur compact d'époque Memel de Klaipeda le long des rues Tiltu, Turgaus et Daru, avec ses entrepôts à colombages hanséatiques survivants, la place John (Janturgaus aikste), le passage Friedrich et un caractère prussien-lituanien distinct. Une boucle auto-guidée de 60 à 90 minutes couvre l'essentiel avec les chiens en laisse bienvenus partout dans les rues publiques.`,
+          es: `El compacto corazón de época Memel de Klaipeda a lo largo de las calles Tiltu, Turgaus y Daru, con sus almacenes hanseáticos con entramado de madera supervivientes, la Plaza John (Janturgaus aikste), el pasaje Friedrich y un carácter prusiano-lituano distintivo. Un circuito autoguiado de 60 a 90 minutos cubre lo esencial con perros con correa bienvenidos en todas las calles públicas.`,
+          pt: `O compacto coração da era Memel de Klaipeda ao longo das ruas Tiltu, Turgaus e Daru, com os seus armazéns hanseáticos de madeira sobreviventes, a Praça John (Janturgaus aikste), a passagem Friedrich e um carácter prussiano-lituano distintivo. Um circuito autoguiado de 60 a 90 minutos cobre o essencial com cães com trela bem-vindos em todas as ruas públicas.`,
+        },
+      },
+      {
+        name: `Theatre Square & Aennchen von Tharau`,
+        emoji: `🎭`,
+        petFriendly: true,
+        desc: {
+          en: `The main cultural square of the Old Town, fronted by the Klaipeda Drama Theatre and centred on the famous Aennchen von Tharau bronze statue dedicated to East Prussian baroque poet Simon Dach. Outdoor space, leashed dogs welcome at all times, surrounding café terraces tolerate dogs in summer.`,
+          fr: `La place culturelle principale de la vieille ville, devant le Théâtre dramatique de Klaipeda et centrée sur la célèbre statue de bronze d'Aennchen von Tharau dédiée au poète baroque est-prussien Simon Dach. Espace extérieur, chiens en laisse bienvenus en permanence, terrasses de café environnantes tolérantes aux chiens en été.`,
+          es: `La principal plaza cultural del Casco Antiguo, frente al Teatro Dramático de Klaipeda y centrada en la famosa estatua de bronce de Aennchen von Tharau dedicada al poeta barroco prusiano oriental Simon Dach. Espacio al aire libre, perros con correa bienvenidos en todo momento, terrazas de café del entorno tolerantes con perros en verano.`,
+          pt: `A principal praça cultural do Centro Histórico, em frente ao Teatro Dramático de Klaipeda e centrada na famosa estátua de bronze de Aennchen von Tharau dedicada ao poeta barroco prussiano oriental Simon Dach. Espaço exterior, cães com trela bem-vindos a todo o momento, esplanadas envolventes tolerantes com cães no verão.`,
+        },
+      },
+      {
+        name: `Klaipeda Castle ruins & moat walk`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          en: `The remains of the 13th-century Memelburg castle, ringed by restored moats and bastion walks on the harbour side. The exterior grounds, ramparts and bastion paths are open to leashed dogs free of charge; the small Castle Museum inside the original poterns does not admit dogs.`,
+          fr: `Les vestiges du château de Memelburg du XIIIᵉ siècle, ceinturés de douves restaurées et de chemins de bastion côté port. Les extérieurs, remparts et chemins de bastion sont ouverts aux chiens en laisse gratuitement ; le petit Musée du Château à l'intérieur des poternes n'admet pas les chiens.`,
+          es: `Los restos del castillo de Memelburg del siglo XIII, rodeados de fosos restaurados y caminos de bastión por el lado del puerto. Los exteriores, murallas y caminos de bastión están abiertos a perros con correa gratis; el pequeño Museo del Castillo dentro de los poternes originales no admite perros.`,
+          pt: `Os restos do castelo de Memelburg do século XIII, rodeados por fossos restaurados e caminhos de bastião pelo lado do porto. Os exteriores, muralhas e caminhos de bastião estão abertos a cães com trela grátis; o pequeno Museu do Castelo dentro das poternas originais não admite cães.`,
+        },
+      },
+      {
+        name: `Klaipeda Sculpture Park`,
+        emoji: `🗿`,
+        petFriendly: true,
+        desc: {
+          en: `A 12-hectare open-air gallery founded in 1977 on the site of a former cemetery, with 116 modern Lithuanian sculptures by 67 artists set among mature trees and gravel paths. Calm, central and shaded, one of the most pleasant central walks for a leashed dog in Klaipeda.`,
+          fr: `Une galerie en plein air de 12 hectares fondée en 1977 sur l'emplacement d'un ancien cimetière, avec 116 sculptures lituaniennes modernes de 67 artistes parmi des arbres matures et des allées de gravier. Calme, central et ombragé, l'une des plus belles balades centrales pour un chien en laisse à Klaipeda.`,
+          es: `Una galería al aire libre de 12 hectáreas fundada en 1977 en el emplazamiento de un antiguo cementerio, con 116 esculturas lituanas modernas de 67 artistas entre árboles maduros y senderos de grava. Tranquilo, céntrico y sombreado, uno de los paseos centrales más agradables para un perro con correa en Klaipeda.`,
+          pt: `Uma galeria ao ar livre de 12 hectares fundada em 1977 no local de um antigo cemitério, com 116 esculturas lituanas modernas de 67 artistas entre árvores maduras e trilhos de gravilha. Calmo, central e sombreado, um dos passeios centrais mais agradáveis para um cão com trela em Klaipeda.`,
+        },
+      },
+      {
+        name: `Smiltyne ferry & Curonian Spit forest`,
+        emoji: `⛴️`,
+        petFriendly: true,
+        desc: {
+          en: `The free 5-minute pedestrian ferry from the Old Castle terminal across the lagoon to Smiltyne at the northern tip of the UNESCO Curonian Spit, with leashed dogs travelling free. Once across, soft sandy trails through pine and broadleaf forest lead to the dunes and Baltic beach.`,
+          fr: `Le ferry piéton gratuit de 5 minutes depuis le terminal Old Castle à travers la lagune jusqu'à Smiltyne à l'extrémité nord du Cordon de Courlande UNESCO, chiens en laisse gratuits. Une fois traversé, des sentiers sablonneux à travers la pinède et la forêt mixte mènent aux dunes et à la plage balte.`,
+          es: `El ferry peatonal gratuito de 5 minutos desde la terminal Old Castle a través de la laguna hasta Smiltyne en la punta norte del Istmo de Curlandia UNESCO, con perros con correa gratis. Una vez al otro lado, senderos arenosos blandos por pinar y bosque mixto llevan a las dunas y la playa báltica.`,
+          pt: `O ferry pedonal gratuito de 5 minutos a partir do terminal Old Castle através da lagoa até Smiltyne na extremidade norte do Istmo da Curlândia UNESCO, com cães com trela grátis. Uma vez do outro lado, trilhos arenosos macios através do pinhal e do bosque misto levam às dunas e à praia báltica.`,
+        },
+      },
+      {
+        name: `Melnrage Beach`,
+        emoji: `🏖️`,
+        petFriendly: true,
+        desc: {
+          en: `A long wide white-sand beach just north of Klaipeda port, sheltered by tall dunes and divided into Melnrage 1 and 2. Leashed dogs welcome outside the central guarded bathing zone June to August; full access in shoulder season and winter.`,
+          fr: `Une longue plage de sable blanc juste au nord du port de Klaipeda, abritée par de hautes dunes et divisée en Melnrage 1 et 2. Chiens en laisse bienvenus en dehors de la zone surveillée centrale de juin à août ; accès complet hors saison et en hiver.`,
+          es: `Una larga playa de arena blanca justo al norte del puerto de Klaipeda, resguardada por altas dunas y dividida en Melnrage 1 y 2. Perros con correa bienvenidos fuera de la zona vigilada central de junio a agosto; acceso completo entre temporadas y en invierno.`,
+          pt: `Uma longa praia de areia branca mesmo a norte do porto de Klaipeda, abrigada por altas dunas e dividida em Melnrage 1 e 2. Cães com trela bem-vindos fora da zona vigiada central de junho a agosto; acesso total na época baixa e no inverno.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Look for the green Draugiski Gyvunams dog-paw sticker on the door, the nationwide Lithuanian pet-welcome signal launched in 2017, listing nearly 500 venues including cafes in Klaipeda Old Town.`,
+        `Lithuanian leash law requires dogs to be leashed in all public spaces except inside designated fenced enclosures (sunu vedziojimo aikstele); Klaipeda has two main ones at Trinyciai Pond and in Draugystes Park to the south.`,
+        `The Smiltyne pedestrian ferry from the Old Castle terminal is free and dogs cross at no extra charge; the car ferry to the south (Naujoji perkela) charges by vehicle length and dogs ride free with the car.`,
+        `Klaipeda has the only 24/7 referral veterinary hospital in western Lithuania (8 Drambliai). Save the number in your phone before arriving; the hospital handles emergencies for the entire region including Neringa across the lagoon.`,
+        `Curonian Spit national park rules apply once across the lagoon: leashes on trails, never on fenced dune restoration zones, and full UNESCO biosphere protection.`,
+      ],
+      fr: [
+        `Cherchez l'autocollant vert Draugiski Gyvunams avec la patte de chien sur la porte, le signal national lituanien pet-friendly lancé en 2017, qui recense près de 500 lieux dont des cafés dans la vieille ville de Klaipeda.`,
+        `La loi lituanienne exige la laisse dans tous les espaces publics sauf à l'intérieur des enclos clôturés désignés (sunu vedziojimo aikstele) ; Klaipeda en compte deux principaux à l'étang Trinyciai et au parc Draugystes au sud.`,
+        `Le ferry piéton de Smiltyne depuis le terminal Old Castle est gratuit et les chiens traversent sans surcoût ; le ferry voitures au sud (Naujoji perkela) facture à la longueur du véhicule et les chiens voyagent avec la voiture gratuitement.`,
+        `Klaipeda dispose du seul hôpital vétérinaire de référence 24h/24 de Lituanie occidentale (8 Drambliai). Enregistrez le numéro avant l'arrivée ; l'hôpital gère les urgences de toute la région y compris Neringa de l'autre côté de la lagune.`,
+        `Les règles du parc national du Cordon de Courlande s'appliquent une fois traversée la lagune : laisse sur les sentiers, jamais dans les zones de restauration des dunes clôturées, et protection biosphère UNESCO complète.`,
+      ],
+      es: [
+        `Busca la pegatina verde Draugiski Gyvunams con la pata de perro en la puerta, la señal nacional lituana pet-friendly lanzada en 2017, que lista cerca de 500 locales incluidos cafés en el Casco Antiguo de Klaipeda.`,
+        `La ley lituana exige correa en todos los espacios públicos salvo dentro de los recintos cerrados designados (sunu vedziojimo aikstele); Klaipeda tiene dos principales en el estanque Trinyciai y el parque Draugystes al sur.`,
+        `El ferry peatonal de Smiltyne desde la terminal Old Castle es gratuito y los perros cruzan sin coste extra; el ferry de coches al sur (Naujoji perkela) cobra por longitud del vehículo y los perros viajan con el coche gratis.`,
+        `Klaipeda dispone del único hospital veterinario de referencia 24/7 del oeste de Lituania (8 Drambliai). Guarda el número antes de llegar; el hospital gestiona urgencias de toda la región incluido Neringa al otro lado de la laguna.`,
+        `Las normas del Parque Nacional del Istmo de Curlandia se aplican una vez cruzada la laguna: correa en senderos, nunca en zonas valladas de restauración de dunas, y protección biosfera UNESCO completa.`,
+      ],
+      pt: [
+        `Procura o autocolante verde Draugiski Gyvunams com a pata de cão na porta, o sinal nacional lituano pet-friendly lançado em 2017, que lista cerca de 500 locais incluindo cafés no Centro Histórico de Klaipeda.`,
+        `A lei lituana exige trela em todos os espaços públicos excepto dentro dos recintos vedados designados (sunu vedziojimo aikstele); Klaipeda tem dois principais no lago Trinyciai e no parque Draugystes a sul.`,
+        `O ferry pedonal de Smiltyne a partir do terminal Old Castle é gratuito e os cães atravessam sem custo extra; o ferry de carros a sul (Naujoji perkela) cobra por comprimento do veículo e os cães viajam com o carro grátis.`,
+        `Klaipeda tem o único hospital veterinário de referência 24/7 do oeste da Lituânia (8 Drambliai). Guarda o número antes de chegar; o hospital gere urgências de toda a região incluindo Neringa do outro lado da lagoa.`,
+        `As regras do Parque Nacional do Istmo da Curlândia aplicam-se uma vez atravessada a lagoa: trela nos trilhos, nunca nas zonas vedadas de restauração das dunas, e protecção biosfera UNESCO completa.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Nearest international airport: Palanga (PLQ), 30 km north, with a regional bus link to Klaipeda centre (~50 min). Kaunas (KUN), 215 km east, has a wider European network.`,
+        `Klaipeda is compact and flat; the Old Town, Sculpture Park and Old Castle ferry are within a 25-minute walk on flat terrain. City buses run by Klaipedos transportas serve the wider districts.`,
+        `Lithuanian is the official language; English is widely used in tourist-facing pubs, restaurants and hotels in the Old Town. Younger staff are typically fluent.`,
+        `Lithuania joined the eurozone in 2015; all prices in EUR. Tipping appreciated but not required.`,
+        `EU pet passport, ISO 11784/11785 microchip and valid rabies vaccination required for entry. No tapeworm treatment needed from other EU states.`,
+      ],
+      fr: [
+        `Aéroport international le plus proche : Palanga (PLQ), à 30 km au nord, avec une liaison bus régionale jusqu'au centre de Klaipeda (~50 min). Kaunas (KUN), à 215 km à l'est, offre un réseau européen plus large.`,
+        `Klaipeda est compact et plat ; la vieille ville, le Parc des Sculptures et le ferry Old Castle sont à 25 minutes à pied sur terrain plat. Les bus urbains de Klaipedos transportas desservent les quartiers plus éloignés.`,
+        `Le lituanien est la langue officielle ; l'anglais est largement utilisé dans les pubs, restaurants et hôtels touristiques de la vieille ville. Les jeunes employés sont généralement à l'aise.`,
+        `La Lituanie a rejoint la zone euro en 2015 ; tous les prix en EUR. Pourboire apprécié mais pas obligatoire.`,
+        `Passeport européen pour animaux, puce ISO 11784/11785 et vaccin antirabique valide obligatoires pour entrer. Pas de traitement échinococcose requis depuis un autre État UE.`,
+      ],
+      es: [
+        `Aeropuerto internacional más cercano: Palanga (PLQ), a 30 km al norte, con enlace de autobús regional al centro de Klaipeda (~50 min). Kaunas (KUN), a 215 km al este, ofrece una red europea más amplia.`,
+        `Klaipeda es compacta y plana; el Casco Antiguo, el Parque de Esculturas y el ferry Old Castle están a 25 minutos a pie por terreno llano. Los autobuses urbanos de Klaipedos transportas cubren los distritos más alejados.`,
+        `El lituano es la lengua oficial; el inglés se usa ampliamente en los pubs, restaurantes y hoteles turísticos del Casco Antiguo. Los empleados jóvenes suelen ser fluidos.`,
+        `Lituania entró en la eurozona en 2015; todos los precios en EUR. Propina apreciada pero no obligatoria.`,
+        `Pasaporte europeo, microchip ISO 11784/11785 y vacuna antirrábica vigente obligatorios para entrar. No se requiere tratamiento contra equinococosis desde otros Estados UE.`,
+      ],
+      pt: [
+        `Aeroporto internacional mais próximo: Palanga (PLQ), a 30 km a norte, com ligação de autocarro regional ao centro de Klaipeda (~50 min). Kaunas (KUN), a 215 km a leste, oferece uma rede europeia mais ampla.`,
+        `Klaipeda é compacta e plana; o Centro Histórico, o Parque de Esculturas e o ferry Old Castle estão a 25 minutos a pé em terreno plano. Os autocarros urbanos da Klaipedos transportas cobrem os bairros mais afastados.`,
+        `O lituano é a língua oficial; o inglês é amplamente usado em pubs, restaurantes e hotéis turísticos do Centro Histórico. Os funcionários jovens são tipicamente fluentes.`,
+        `A Lituânia aderiu à zona euro em 2015; todos os preços em EUR. Gorjeta apreciada mas não obrigatória.`,
+        `Passaporte europeu, microchip ISO 11784/11785 e vacina antirrábica válida obrigatórios para entrada. Não é necessário tratamento contra equinococose vindo de outros Estados UE.`,
+      ],
+    },
+  },
+
   krakow: {
     history: {
       fr: `Cracovie, ancienne capitale royale de Pologne, porte sa couronne depuis plus de mille ans. Née de la légende d'un dragon terrassé sous la colline du Wawel, la ville est passée de la richesse marchande médiévale à une vitrine UNESCO d'architecture gothique, Renaissance et baroque. Sa Grand-Place, la plus grande place médiévale d'Europe, vibre encore au rythme des calèches, des musiciens de rue et d'une âme locale intacte. Les Cracoviens adorent leurs chiens, et cela se voit : les cafés du quartier juif de Kazimierz sortent des gamelles d'eau, et la ceinture verte des Planty autour de la Vieille Ville se remplit chaque soir de voisins promenant caniches, bâtards et lévriers. La tradition rurale polonaise des chiens de travail se mêle ici à une culture urbaine moderne, faisant de Cracovie l'une des villes les plus accueillantes d'Europe centrale pour les voyageurs à quatre pattes.`,
@@ -15661,6 +15798,143 @@ const cityContent: Record<string, CityContent> = {
         `Recolha de dejetos obrigatória (Health Code §161.03), multa de 250 $, controlos frequentes pela Sanitation Police.`,
         `Sem proibição de raça a nível municipal, mas muitos hotéis recusam pit bulls, rottweilers, dobermans e pastores alemães - confirme antes de reservar.`,
         `Hotéis pet-friendly: a marca Kimpton, Loews e a maioria dos hotéis boutique aceitam animais sem suplemento; os hotéis de gama média costumam cobrar 50–150 $ por estadia.`,
+      ],
+    },
+  },
+
+  neringa: {
+    history: {
+      en: `Neringa is a UNESCO World Heritage resort municipality strung along the Lithuanian half of the Curonian Spit, a 52-km finger of pine forest and shifting sand dunes separating the Curonian Lagoon from the Baltic Sea and reached only by ferry from Klaipeda. Its four small villages (Nida, Juodkrante, Preila, Pervalka) share a permanent population of roughly 2,500 that swells into the tens of thousands each July and August. Nida, the southernmost and largest, is famous for its 52-metre Parnidis sundial dune, its colourful weathervane fisherman houses and the 1930 summer home of Nobel laureate Thomas Mann. Nearly the entire spit is national park, so leashed dogs roam pine trails, lagoon promenades and off-season beaches while fragile dune-restoration zones stay strictly fenced off.`,
+      fr: `Neringa est une municipalité balnéaire classée au patrimoine mondial de l'UNESCO, étirée sur la moitié lituanienne du Cordon de Courlande, une langue de 52 km de pinèdes et de dunes de sable mouvant séparant la Lagune de Courlande de la mer Baltique et accessible uniquement par ferry depuis Klaipeda. Ses quatre petits villages (Nida, Juodkrante, Preila, Pervalka) comptent une population permanente d'environ 2 500 habitants qui gonfle à des dizaines de milliers chaque juillet et août. Nida, le plus au sud et le plus grand, est célèbre pour sa dune-cadran-solaire de Parnidis haute de 52 mètres, ses maisons de pêcheurs colorées aux girouettes et la maison d'été de 1930 du prix Nobel Thomas Mann. Presque tout le cordon est un parc national, de sorte que les chiens en laisse arpentent les sentiers de pins, les promenades de la lagune et les plages hors saison tandis que les fragiles zones de restauration des dunes restent strictement clôturées.`,
+      es: `Neringa es un municipio balneario declarado Patrimonio Mundial de la UNESCO, extendido por la mitad lituana del Istmo de Curlandia, una lengua de 52 km de pinares y dunas de arena móvil que separa la Laguna de Curlandia del mar Báltico y accesible solo en ferry desde Klaipeda. Sus cuatro pequeños pueblos (Nida, Juodkrante, Preila, Pervalka) suman una población permanente de unos 2.500 habitantes que se multiplica a decenas de miles cada julio y agosto. Nida, el más al sur y el más grande, es famoso por su duna-reloj-de-sol de Parnidis de 52 metros, sus coloridas casas de pescadores con veletas y la casa de verano de 1930 del premio Nobel Thomas Mann. Casi todo el istmo es parque nacional, así que los perros con correa recorren los senderos de pinos, los paseos de la laguna y las playas de temporada baja mientras las frágiles zonas de restauración de dunas permanecen estrictamente valladas.`,
+      pt: `Neringa é um município balnear classificado como Património Mundial da UNESCO, estendido pela metade lituana do Istmo da Curlândia, uma língua de 52 km de pinhais e dunas de areia móvel que separa a Lagoa da Curlândia do mar Báltico e acessível apenas por ferry a partir de Klaipeda. As suas quatro pequenas aldeias (Nida, Juodkrante, Preila, Pervalka) somam uma população permanente de cerca de 2.500 habitantes que aumenta para dezenas de milhares em cada julho e agosto. Nida, a mais a sul e a maior, é famosa pela sua duna-relógio-de-sol de Parnidis de 52 metros, pelas suas coloridas casas de pescadores com cataventos e pela casa de verão de 1930 do Nobel Thomas Mann. Quase todo o istmo é parque nacional, pelo que os cães com trela percorrem os trilhos de pinheiros, os passeios da lagoa e as praias de época baixa enquanto as frágeis zonas de restauração das dunas permanecem estritamente vedadas.`,
+    },
+    sights: [
+      {
+        name: `Parnidis Dune & Sundial`,
+        emoji: `🏜️`,
+        petFriendly: true,
+        desc: {
+          en: `A wooden boardwalk and gravel path climb the 52-metre Parnidis Dune at the south edge of Nida, topped by a granite sundial with a 360-degree panorama over the Baltic, the lagoon and Russian Kaliningrad. Roughly 1.5 km return on an easy gradient; leashed dogs are welcome on the boardwalk and marked sand path but never on the fenced dune-restoration zones either side.`,
+          fr: `Une passerelle en bois et un sentier de gravier gravissent la dune de Parnidis, haute de 52 mètres, à l'extrémité sud de Nida, couronnée d'un cadran solaire en granite offrant un panorama à 360 degrés sur la Baltique, la lagune et la Kaliningrad russe. Environ 1,5 km aller-retour, dénivelé aisé ; chiens en laisse bienvenus sur la passerelle et le sentier sablonneux balisé, jamais sur les zones de restauration des dunes clôturées de part et d'autre.`,
+          es: `Una pasarela de madera y un sendero de grava suben la duna de Parnidis, de 52 metros, en el extremo sur de Nida, coronada por un reloj de sol de granito con panorámica de 360 grados sobre el Báltico, la laguna y la Kaliningrado rusa. Unos 1,5 km ida y vuelta, desnivel suave; perros con correa bienvenidos en la pasarela y el sendero arenoso señalizado, nunca en las zonas valladas de restauración de dunas a ambos lados.`,
+          pt: `Um passadiço de madeira e um trilho de gravilha sobem a duna de Parnidis, de 52 metros, no extremo sul de Nida, coroada por um relógio de sol de granito com panorama de 360 graus sobre o Báltico, a lagoa e a Kaliningrado russa. Cerca de 1,5 km ida e volta, desnível suave; cães com trela bem-vindos no passadiço e no trilho arenoso sinalizado, nunca nas zonas vedadas de restauração das dunas de ambos os lados.`,
+        },
+      },
+      {
+        name: `Hill of Witches (Raganu kalnas)`,
+        emoji: `🧙`,
+        petFriendly: true,
+        desc: {
+          en: `An open-air sculpture trail through the pine forest above Juodkrante, with over 80 wooden carvings of witches, devils and characters from Lithuanian folklore first assembled in 1979. A gentle 1.5 km forest loop, free and open around the clock; leashed dogs are welcome throughout, the path has a few root steps but suits most dogs.`,
+          fr: `Un sentier de sculptures en plein air à travers la pinède au-dessus de Juodkrante, avec plus de 80 figures en bois de sorcières, diables et personnages du folklore lituanien rassemblées dès 1979. Une boucle forestière facile de 1,5 km, gratuite et ouverte en permanence ; chiens en laisse bienvenus partout, le sentier a quelques marches en racines mais convient à la plupart des chiens.`,
+          es: `Un sendero de esculturas al aire libre por el pinar sobre Juodkrante, con más de 80 tallas en madera de brujas, demonios y personajes del folclore lituano reunidas desde 1979. Un circuito forestal suave de 1,5 km, gratuito y abierto las 24 horas; perros con correa bienvenidos en todo el recorrido, el sendero tiene algunos escalones de raíces pero es apto para la mayoría de los perros.`,
+          pt: `Um trilho de esculturas ao ar livre pelo pinhal acima de Juodkrante, com mais de 80 tallas em madeira de bruxas, demónios e personagens do folclore lituano reunidas desde 1979. Um circuito florestal suave de 1,5 km, gratuito e aberto 24 horas; cães com trela bem-vindos em todo o percurso, o trilho tem alguns degraus de raízes mas serve a maioria dos cães.`,
+        },
+      },
+      {
+        name: `Nida Lagoon Promenade`,
+        emoji: `🌊`,
+        petFriendly: true,
+        desc: {
+          en: `A paved waterfront promenade running several kilometres along the Curonian Lagoon north from the Nida marina, past restored fisherman houses, pine shade and frequent benches with sweeping dune views. This is the default daily dog walk in Nida: flat, scenic and fully leashed, with bins spaced along the route and café terraces at the marina end.`,
+          fr: `Une promenade pavée s'étirant sur plusieurs kilomètres le long de la Lagune de Courlande au nord depuis la marina de Nida, passant maisons de pêcheurs restaurées, ombre des pins et bancs fréquents avec de larges vues sur les dunes. C'est la balade canine quotidienne par défaut à Nida : plate, panoramique et en laisse, avec des poubelles jalonnant le parcours et des terrasses de café côté marina.`,
+          es: `Un paseo pavimentado que se extiende varios kilómetros por la Laguna de Curlandia al norte desde la marina de Nida, junto a casas de pescadores restauradas, sombra de pinos y bancos frecuentes con amplias vistas a las dunas. Es el paseo canino diario por defecto en Nida: llano, panorámico y con correa, con papeleras a lo largo de la ruta y terrazas de café en el extremo de la marina.`,
+          pt: `Um passeio pavimentado que se estende por vários quilómetros ao longo da Lagoa da Curlândia a norte da marina de Nida, junto a casas de pescadores restauradas, sombra de pinheiros e bancos frequentes com amplas vistas das dunas. É o passeio canino diário por defeito em Nida: plano, panorâmico e com trela, com caixotes ao longo da rota e esplanadas no extremo da marina.`,
+        },
+      },
+      {
+        name: `Thomas Mann House garden`,
+        emoji: `🏡`,
+        petFriendly: true,
+        desc: {
+          en: `The 1930 lagoon-hillside summer house of Nobel-laureate German writer Thomas Mann, who called it "an Italian experience amid Lithuanian pines". The museum interior bans dogs, but the garden, terrace and surrounding pine wood are dog-accessible on leash and share the same iconic lagoon view, so one partner can tour inside while the other waits on the bench.`,
+          fr: `La maison d'été de 1930 sur le coteau de la lagune de l'écrivain allemand prix Nobel Thomas Mann, qui la décrivait comme « une expérience italienne au milieu des pins lituaniens ». L'intérieur du musée interdit les chiens, mais le jardin, la terrasse et le bois de pins environnant sont accessibles en laisse et partagent la même vue iconique sur la lagune, un partenaire peut donc visiter pendant que l'autre attend sur le banc.`,
+          es: `La casa de verano de 1930 en la ladera de la laguna del escritor alemán premio Nobel Thomas Mann, que la describía como «una experiencia italiana entre pinos lituanos». El interior del museo prohíbe perros, pero el jardín, la terraza y el pinar circundante son accesibles con correa y comparten la misma vista icónica de la laguna, así que un acompañante puede visitar mientras el otro espera en el banco.`,
+          pt: `A casa de verão de 1930 na encosta da lagoa do escritor alemão Nobel Thomas Mann, que a descrevia como «uma experiência italiana entre pinheiros lituanos». O interior do museu proíbe cães, mas o jardim, o terraço e o pinhal circundante são acessíveis com trela e partilham a mesma vista icónica da lagoa, pelo que um acompanhante pode visitar enquanto o outro espera no banco.`,
+        },
+      },
+      {
+        name: `Nida Central Beach`,
+        emoji: `🏖️`,
+        petFriendly: true,
+        desc: {
+          en: `A wide white-sand Blue Flag beach on the Baltic side of the spit, reached by a 1 km boardwalk through pine forest and over the dunes from Nida village. The central guarded section bans dogs from mid-June to August, but walk five minutes north or south and you are on quiet sand with leashed dogs welcome; off-season the whole beach is effectively dog-friendly.`,
+          fr: `Une large plage de sable blanc pavillon Bleu côté Baltique du cordon, accessible par une passerelle de 1 km à travers la pinède et par-dessus les dunes depuis le village de Nida. La section surveillée centrale interdit les chiens de mi-juin à août, mais marchez cinq minutes au nord ou au sud et vous êtes sur du sable tranquille avec chiens en laisse bienvenus ; hors saison, toute la plage est de fait dog-friendly.`,
+          es: `Una amplia playa de arena blanca Bandera Azul en el lado Báltico del istmo, accesible por una pasarela de 1 km a través del pinar y sobre las dunas desde el pueblo de Nida. La sección vigilada central prohíbe los perros de mediados de junio a agosto, pero camina cinco minutos al norte o al sur y estarás en arena tranquila con perros con correa bienvenidos; fuera de temporada, toda la playa es prácticamente dog-friendly.`,
+          pt: `Uma ampla praia de areia branca Bandeira Azul no lado Báltico do istmo, acessível por um passadiço de 1 km através do pinhal e sobre as dunas a partir da aldeia de Nida. A secção vigiada central proíbe cães de meados de junho a agosto, mas caminhe cinco minutos a norte ou a sul e estará em areia tranquila com cães com trela bem-vindos; fora de época, toda a praia é praticamente dog-friendly.`,
+        },
+      },
+      {
+        name: `Smiltyne Ferry & Curonian Spit forest`,
+        emoji: `⛴️`,
+        petFriendly: true,
+        desc: {
+          en: `The free five-minute pedestrian ferry from Klaipeda's Old Castle terminal across the lagoon to Smiltyne, at the northern tip of the spit, with leashed dogs travelling at no charge. Once across, soft sandy trails through pine and broadleaf forest lead to the dunes and the Baltic beach, the gateway every Neringa visitor crosses on the way in.`,
+          fr: `Le ferry piéton gratuit de cinq minutes depuis le terminal Old Castle de Klaipeda à travers la lagune jusqu'à Smiltyne, à l'extrémité nord du cordon, chiens en laisse gratuits. Une fois traversé, des sentiers sablonneux à travers la pinède et la forêt mixte mènent aux dunes et à la plage balte, la porte d'entrée que franchit chaque visiteur de Neringa.`,
+          es: `El ferry peatonal gratuito de cinco minutos desde la terminal Old Castle de Klaipeda a través de la laguna hasta Smiltyne, en la punta norte del istmo, con perros con correa gratis. Una vez al otro lado, senderos arenosos por pinar y bosque mixto llevan a las dunas y la playa báltica, la puerta de entrada que cruza todo visitante de Neringa.`,
+          pt: `O ferry pedonal gratuito de cinco minutos a partir do terminal Old Castle de Klaipeda através da lagoa até Smiltyne, na ponta norte do istmo, com cães com trela grátis. Uma vez do outro lado, trilhos arenosos pelo pinhal e bosque misto levam às dunas e à praia báltica, a porta de entrada que todo o visitante de Neringa atravessa.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `The entire Curonian Spit is a UNESCO biosphere national park: leashed dogs are welcome on marked trails, boardwalks and lagoon promenades, but never on the fenced dune-restoration zones, where fines apply.`,
+        `There are no fenced off-leash enclosures anywhere on the spit; the nearest are at Trinyciai Pond and Draugystes Park in Klaipeda, across the lagoon.`,
+        `Look for the green Draugiski Gyvunams dog-paw sticker on café and shop doors, the nationwide Lithuanian pet-welcome signal launched in 2017, to find venues that accept dogs indoors.`,
+        `There is no vet on the spit. Save the 24/7 Klaipeda Referral Veterinary Hospital number before you cross, and factor in the ferry wait (5 min on the Old Castle line, 15-30 min at the New Ferry) when judging emergency response time.`,
+        `Tick-borne disease is present in the pine forests and peaks May to July; ask your vet for a tick preventive before walking the spit trails.`,
+      ],
+      fr: [
+        `Tout le Cordon de Courlande est un parc national biosphère UNESCO : les chiens en laisse sont bienvenus sur les sentiers balisés, passerelles et promenades de la lagune, mais jamais dans les zones de restauration des dunes clôturées, sous peine d'amende.`,
+        `Il n'existe aucun enclos canin sans laisse sur le cordon ; les plus proches sont à l'étang Trinyciai et au parc Draugystes à Klaipeda, de l'autre côté de la lagune.`,
+        `Cherchez l'autocollant vert Draugiski Gyvunams à patte de chien sur les portes des cafés et boutiques, le signal national lituanien pet-friendly lancé en 2017, pour repérer les lieux qui acceptent les chiens à l'intérieur.`,
+        `Il n'y a pas de vétérinaire sur le cordon. Enregistrez le numéro de l'hôpital vétérinaire de référence de Klaipeda (24h/24) avant de traverser, et intégrez l'attente du ferry (5 min sur la ligne Old Castle, 15-30 min au New Ferry) dans le calcul du temps de réponse d'urgence.`,
+        `Les maladies transmises par les tiques sont présentes dans les pinèdes et culminent de mai à juillet ; demandez à votre vétérinaire un antiparasitaire avant les balades sur le cordon.`,
+      ],
+      es: [
+        `Todo el Istmo de Curlandia es un parque nacional biosfera UNESCO: los perros con correa son bienvenidos en senderos señalizados, pasarelas y paseos de la laguna, pero nunca en las zonas valladas de restauración de dunas, donde se aplican multas.`,
+        `No hay ningún recinto canino sin correa en el istmo; los más cercanos están en el estanque Trinyciai y el parque Draugystes en Klaipeda, al otro lado de la laguna.`,
+        `Busca la pegatina verde Draugiski Gyvunams con la pata de perro en las puertas de cafés y tiendas, la señal nacional lituana pet-friendly lanzada en 2017, para localizar locales que admiten perros dentro.`,
+        `No hay veterinario en el istmo. Guarda el número del Hospital Veterinario de Referencia de Klaipeda (24/7) antes de cruzar, e incluye la espera del ferry (5 min en la línea Old Castle, 15-30 min en el New Ferry) al calcular el tiempo de respuesta de urgencia.`,
+        `Las enfermedades transmitidas por garrapatas están presentes en los pinares y alcanzan su pico de mayo a julio; pide a tu veterinario un antiparasitario antes de pasear por el istmo.`,
+      ],
+      pt: [
+        `Todo o Istmo da Curlândia é um parque nacional biosfera UNESCO: os cães com trela são bem-vindos em trilhos sinalizados, passadiços e passeios da lagoa, mas nunca nas zonas vedadas de restauração das dunas, onde se aplicam multas.`,
+        `Não existe qualquer recinto canino sem trela no istmo; os mais próximos ficam no lago Trinyciai e no parque Draugystes em Klaipeda, do outro lado da lagoa.`,
+        `Procure o autocolante verde Draugiski Gyvunams com a pata de cão nas portas de cafés e lojas, o sinal nacional lituano pet-friendly lançado em 2017, para localizar locais que aceitam cães no interior.`,
+        `Não há veterinário no istmo. Guarde o número do Hospital Veterinário de Referência de Klaipeda (24/7) antes de atravessar, e inclua a espera do ferry (5 min na linha Old Castle, 15-30 min no New Ferry) ao calcular o tempo de resposta de urgência.`,
+        `As doenças transmitidas por carraças estão presentes nos pinhais e atingem o pico de maio a julho; peça ao seu veterinário um antiparasitário antes dos passeios no istmo.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Neringa is reached only by ferry from Klaipeda: foot passengers and cyclists use the free Old Castle ferry, while cars (and dogs travelling with them) use the New Ferry further south, charged by vehicle length.`,
+        `Nearest airport: Palanga (PLQ), about 60 km north of Nida via Klaipeda and the New Ferry. Kaunas (KUN), 245 km east, has a wider European network.`,
+        `Lithuanian is the official language; English is widely spoken in Nida and Juodkrante tourist businesses, and younger staff are typically fluent.`,
+        `Lithuania joined the eurozone in 2015; all prices are in EUR. The bathing season is short (mid-June to late August), so outside it the whole coast is effectively dog-friendly on leash.`,
+        `EU pet passport, ISO 11784/11785 microchip and valid rabies vaccination are required for entry; no tapeworm treatment is needed when arriving from another EU state.`,
+      ],
+      fr: [
+        `Neringa n'est accessible que par ferry depuis Klaipeda : piétons et cyclistes utilisent le ferry Old Castle gratuit, tandis que les voitures (et les chiens qui voyagent avec) prennent le New Ferry plus au sud, facturé à la longueur du véhicule.`,
+        `Aéroport le plus proche : Palanga (PLQ), à environ 60 km au nord de Nida via Klaipeda et le New Ferry. Kaunas (KUN), à 245 km à l'est, offre un réseau européen plus large.`,
+        `Le lituanien est la langue officielle ; l'anglais est largement parlé dans les commerces touristiques de Nida et Juodkrante, et les jeunes employés sont généralement à l'aise.`,
+        `La Lituanie a rejoint la zone euro en 2015 ; tous les prix sont en EUR. La saison de baignade est courte (mi-juin à fin août), donc hors fenêtre toute la côte est de fait dog-friendly en laisse.`,
+        `Passeport européen pour animaux, puce ISO 11784/11785 et vaccin antirabique valide obligatoires pour entrer ; pas de traitement échinococcose requis depuis un autre État UE.`,
+      ],
+      es: [
+        `Neringa solo es accesible en ferry desde Klaipeda: peatones y ciclistas usan el ferry Old Castle gratuito, mientras que los coches (y los perros que viajan con ellos) usan el New Ferry más al sur, cobrado por longitud del vehículo.`,
+        `Aeropuerto más cercano: Palanga (PLQ), a unos 60 km al norte de Nida via Klaipeda y el New Ferry. Kaunas (KUN), a 245 km al este, ofrece una red europea más amplia.`,
+        `El lituano es la lengua oficial; el inglés se habla ampliamente en los comercios turísticos de Nida y Juodkrante, y los empleados jóvenes suelen ser fluidos.`,
+        `Lituania entró en la eurozona en 2015; todos los precios están en EUR. La temporada de baño es corta (mediados de junio a fines de agosto), así que fuera de ella toda la costa es prácticamente dog-friendly con correa.`,
+        `Pasaporte europeo, microchip ISO 11784/11785 y vacuna antirrábica vigente obligatorios para entrar; no se requiere tratamiento contra equinococosis desde otro Estado UE.`,
+      ],
+      pt: [
+        `Neringa só é acessível por ferry a partir de Klaipeda: peões e ciclistas usam o ferry Old Castle gratuito, enquanto os carros (e os cães que viajam com eles) usam o New Ferry mais a sul, cobrado por comprimento do veículo.`,
+        `Aeroporto mais próximo: Palanga (PLQ), a cerca de 60 km a norte de Nida via Klaipeda e o New Ferry. Kaunas (KUN), a 245 km a leste, oferece uma rede europeia mais ampla.`,
+        `O lituano é a língua oficial; o inglês é amplamente falado nos comércios turísticos de Nida e Juodkrante, e os funcionários mais jovens são tipicamente fluentes.`,
+        `A Lituânia aderiu à zona euro em 2015; todos os preços estão em EUR. A época balnear é curta (meados de junho a final de agosto), pelo que fora dela toda a costa é praticamente dog-friendly com trela.`,
+        `Passaporte europeu, microchip ISO 11784/11785 e vacina antirrábica válida obrigatórios para entrada; não é necessário tratamento contra equinococose vindo de outro Estado UE.`,
       ],
     },
   },

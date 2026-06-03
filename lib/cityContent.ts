@@ -12308,6 +12308,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  klagenfurt: {
+    history: {
+      fr: `Klagenfurt am Wörthersee, capitale de la Carinthie depuis 1518, fut fondée vers 1199 par le duc Hermann II et reconstruite après l'incendie de 1514 selon un plan en damier Renaissance toujours intact aujourd'hui. La ville s'organise autour de la Neuer Platz où trône le Lindwurmbrunnen, fontaine de 1593 sculptée dans un seul bloc de chlorite représentant le dragon mythologique qui aurait infesté les marais de la Glan. Capitale du Carinthie habsbourgeoise, elle accueillit le Landhaus Renaissance de 1574, encore aujourd'hui siège du parlement régional avec sa cour à arcades. Aujourd'hui ville d'environ 104 000 habitants, Klagenfurt vit largement de son lien avec le Wörthersee, le lac le plus chaud des Alpes (jusqu'à 26 degrés en juillet), à l'extrémité ouest de l'Altstadt. Pour les voyageurs avec un chien, c'est une base décontractée : Altstadt piéton compact, culture Gasthaus carinthienne tolérante, Hundebadeplätze signalées sur le lac et accès direct en téléphérique à la forêt du Kreuzbergl. Railjet ÖBB direct vers Vienne en 4h, Salzbourg 2h45.`,
+      en: `Klagenfurt am Wörthersee, capital of Carinthia since 1518, was founded around 1199 by Duke Hermann II and rebuilt after the 1514 fire on a Renaissance grid plan that still survives today. The city organises around the Neuer Platz with the Lindwurmbrunnen, a 1593 fountain carved from a single block of chlorite slate representing the mythical dragon said to have infested the marshes of the Glan. As Habsburg Carinthian capital, it hosted the 1574 Renaissance Landhaus, still the seat of the regional parliament with its arcaded courtyard. Today a city of around 104,000, Klagenfurt lives largely from its connection to the Wörthersee, the warmest lake in the Alps (up to 26 degrees in July), at the western end of the Altstadt. For travellers with a dog, it is a relaxed base: compact pedestrian Altstadt, dog-tolerant Carinthian Gasthaus culture, signed Hundebadeplätze on the lake and direct access to the Kreuzbergl forest above the city. Direct ÖBB Railjet to Vienna in 4h, Salzburg 2h45.`,
+      es: `Klagenfurt am Wörthersee, capital de Carintia desde 1518, fue fundada hacia 1199 por el duque Hermann II y reconstruida tras el incendio de 1514 según un plano renacentista en cuadrícula que sigue intacto. La ciudad se organiza en torno a la Neuer Platz con el Lindwurmbrunnen, fuente de 1593 tallada en un solo bloque de clorito que representa el dragón mítico que se decía infestaba las marismas del Glan. Como capital carintiana habsbúrgica, acogió el Landhaus renacentista de 1574, aún sede del parlamento regional con su patio con arcadas. Hoy ciudad de unos 104.000 habitantes, Klagenfurt vive en gran medida de su vínculo con el Wörthersee, el lago más cálido de los Alpes (hasta 26 grados en julio), al extremo oeste del Altstadt. Para los viajeros con perro, es una base relajada: Altstadt peatonal compacto, cultura Gasthaus carintiana tolerante, Hundebadeplätze señalizadas en el lago y acceso directo al bosque del Kreuzbergl sobre la ciudad. Railjet ÖBB directos a Viena en 4h, Salzburgo 2h45.`,
+      pt: `Klagenfurt am Wörthersee, capital da Caríntia desde 1518, foi fundada por volta de 1199 pelo duque Hermann II e reconstruída após o incêndio de 1514 segundo um plano renascentista em grelha ainda hoje intacto. A cidade organiza-se em torno da Neuer Platz com o Lindwurmbrunnen, fonte de 1593 esculpida num único bloco de clorito que representa o dragão mítico que se dizia infestar os pântanos do Glan. Como capital caríntia habsburga, acolheu o Landhaus renascentista de 1574, ainda hoje sede do parlamento regional com o seu pátio com arcadas. Hoje cidade de cerca de 104.000 habitantes, Klagenfurt vive em grande medida da sua ligação ao Wörthersee, o lago mais quente dos Alpes (até 26 graus em julho), no extremo oeste do Altstadt. Para os viajantes com cão, é uma base descontraída: Altstadt pedonal compacto, cultura Gasthaus caríntia tolerante, Hundebadeplätze sinalizadas no lago e acesso directo à floresta do Kreuzbergl sobre a cidade. Railjet ÖBB directos para Viena em 4h, Salzburgo 2h45.`,
+    },
+    sights: [
+      { name: 'Lindwurmbrunnen', emoji: '🐉', petFriendly: true, desc: {
+        fr: `Fontaine au dragon de 1593 sur la Neuer Platz, symbole de la ville, sculptée dans un bloc unique de chlorite. Place ouverte 24h/24 aux chiens en laisse.`,
+        en: `1593 dragon fountain on the Neuer Platz, the city symbol, carved from a single block of chlorite. Square open 24/7 to leashed dogs.`,
+        es: `Fuente del dragón de 1593 en la Neuer Platz, símbolo de la ciudad, tallada en un solo bloque de clorito. Plaza abierta 24/7 a perros con correa.`,
+        pt: `Fonte do dragão de 1593 na Neuer Platz, símbolo da cidade, esculpida num único bloco de clorito. Praça aberta 24/7 a cães com trela.`,
+      }},
+      { name: 'Landhaushof', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Cour à arcades du Landhaus Renaissance de 1574, siège du parlement carinthien. Cour extérieure ouverte aux chiens en laisse, intérieur du Wappensaal réservé aux chiens d'assistance.`,
+        en: `Arcaded courtyard of the 1574 Renaissance Landhaus, seat of the Carinthian parliament. Outer courtyard open to leashed dogs, Wappensaal interior reserved for assistance dogs.`,
+        es: `Patio con arcadas del Landhaus renacentista de 1574, sede del parlamento carintiano. Patio exterior abierto a perros con correa, interior del Wappensaal reservado a perros de asistencia.`,
+        pt: `Pátio com arcadas do Landhaus renascentista de 1574, sede do parlamento caríntio. Pátio exterior aberto a cães com trela, interior do Wappensaal reservado a cães de assistência.`,
+      }},
+      { name: 'Lendkanal towpath', emoji: '💧', petFriendly: true, desc: {
+        fr: `Canal du XVIIIe siècle qui relie l'Altstadt au Wörthersee, halage de 4 km sur les deux rives, ombragé de platanes, parfait pour une promenade canine plate.`,
+        en: `18th-century canal linking the Altstadt to the Wörthersee, 4 km towpath on both banks, shaded by plane trees, perfect for a flat dog walk.`,
+        es: `Canal del s. XVIII que une el Altstadt con el Wörthersee, sirga de 4 km en ambas orillas, a la sombra de plátanos, perfecto para un paseo canino llano.`,
+        pt: `Canal do séc. XVIII que liga o Altstadt ao Wörthersee, caminho de sirga de 4 km em ambas as margens, à sombra de plátanos, perfeito para um passeio canino plano.`,
+      }},
+      { name: 'Minimundus', emoji: '🗼', petFriendly: true, desc: {
+        fr: `Parc en plein air de plus de 150 maquettes au 1:25 de monuments mondiaux, sur la rive ouest du Wörthersee. Chiens en laisse bienvenus sur tous les chemins extérieurs.`,
+        en: `Open-air park with over 150 1:25 scale models of world landmarks, on the western Wörthersee shore. Leashed dogs welcome on all outdoor paths.`,
+        es: `Parque al aire libre con más de 150 maquetas a escala 1:25 de monumentos mundiales, en la orilla oeste del Wörthersee. Perros con correa bienvenidos en todos los caminos exteriores.`,
+        pt: `Parque ao ar livre com mais de 150 maquetas à escala 1:25 de monumentos mundiais, na margem oeste do Wörthersee. Cães com trela bem-vindos em todos os caminhos exteriores.`,
+      }},
+      { name: 'Kreuzbergl', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Colline forestière de 100 ha qui s'élève directement au-dessus de l'Altstadt à 525 m, sentiers balisés, observatoire et chapelle au sommet.`,
+        en: `100 ha forest hill rising directly above the Altstadt to 525 m, marked trails, observatory and chapel at the top.`,
+        es: `Colina forestal de 100 ha que se eleva directamente sobre el Altstadt hasta los 525 m, senderos señalizados, observatorio y capilla en lo alto.`,
+        pt: `Colina florestal de 100 ha que se ergue directamente sobre o Altstadt até aos 525 m, trilhos sinalizados, observatório e capela no topo.`,
+      }},
+      { name: 'Maria Loretto Hundebadeplatz', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Spot de baignade canine signalé sur la rive est du Wörthersee près du promontoire du Schloss Maria Loretto, eau peu profonde et tiède en été.`,
+        en: `Signed dog swimming spot on the eastern Wörthersee shore near the Schloss Maria Loretto promontory, shallow and warm water in summer.`,
+        es: `Zona de baño canino señalizada en la orilla este del Wörthersee cerca del promontorio del Schloss Maria Loretto, agua poco profunda y templada en verano.`,
+        pt: `Zona de banho canino sinalizada na margem leste do Wörthersee perto do promontório do Schloss Maria Loretto, água pouco profunda e morna no verão.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture Gasthaus carinthienne accueille les chiens par défaut, environ 80 à 90 % des établissements de Klagenfurt acceptent les chiens en laisse à l'intérieur et en terrasse.`,
+        `Bus STW : grands chiens muselière + billet enfant (environ 1,40 €) ; petits chiens en sac gratuits ; train ÖBB règles fédérales : billet demi-tarif + muselière en zone partagée.`,
+        `Hundezone signalée à l'Europapark, sans laisse toléré sur les sentiers forestiers supérieurs du Kreuzbergl, et plusieurs Hundebadeplätze sur le Wörthersee dont Maria Loretto, Friedelstrand et Krumpendorf.`,
+        `Vétérinaire d'urgence 24h/24 le plus proche : Tierklinik Annenheim près de Villach (35 km ouest), +43 4242 41700 ; en ville, Tierklinik Klagenfurt Stadt en journée prolongée.`,
+        `Listenhunde autrichiens : Pit Bull, American Staffordshire et variantes exigent un certificat de comportement et un enregistrement pour entrer en Carinthie.`,
+      ],
+      en: [
+        `Carinthian Gasthaus culture welcomes dogs by default, about 80 to 90% of Klagenfurt venues accept leashed dogs indoors and on terraces.`,
+        `STW buses: large dogs muzzle + child-fare ticket (around 1.40 EUR); small dogs in carrier free; ÖBB trains federal rules: half-fare ticket + muzzle in shared sections.`,
+        `Signed Hundezone in Europapark, off-leash tolerated on the upper Kreuzbergl forest trails, and several Hundebadeplätze on the Wörthersee including Maria Loretto, Friedelstrand and Krumpendorf.`,
+        `Closest 24/7 emergency vet: Tierklinik Annenheim near Villach (35 km west), +43 4242 41700; in town, Tierklinik Klagenfurt Stadt for extended daytime hours.`,
+        `Austrian Listenhunde: Pit Bull, American Staffordshire and variants require a behaviour certificate and registration to enter Carinthia.`,
+      ],
+      es: [
+        `La cultura Gasthaus carintiana admite perros por defecto, alrededor del 80 al 90 % de los locales de Klagenfurt acepta perros con correa dentro y en terraza.`,
+        `Buses STW: perros grandes bozal + billete infantil (unos 1,40 €); perros pequeños en transportín gratis; trenes ÖBB reglas federales: billete a mitad de tarifa + bozal en zona compartida.`,
+        `Hundezone señalizada en el Europapark, suelta tolerada en los senderos forestales superiores del Kreuzbergl, y varias Hundebadeplätze en el Wörthersee como Maria Loretto, Friedelstrand y Krumpendorf.`,
+        `Veterinario de urgencias 24h más cercano: Tierklinik Annenheim cerca de Villach (35 km oeste), +43 4242 41700; en la ciudad, Tierklinik Klagenfurt Stadt para horarios diurnos amplios.`,
+        `Listenhunde austríacos: Pit Bull, American Staffordshire y variantes exigen certificado de comportamiento y registro para entrar en Carintia.`,
+      ],
+      pt: [
+        `A cultura Gasthaus caríntia acolhe cães por defeito, cerca de 80 a 90 % dos locais de Klagenfurt aceita cães com trela dentro e na esplanada.`,
+        `Autocarros STW: cães grandes açaime + bilhete infantil (cerca de 1,40 €); cães pequenos em transportadora grátis; comboios ÖBB regras federais: bilhete a meia tarifa + açaime na zona partilhada.`,
+        `Hundezone sinalizada no Europapark, solta tolerada nos trilhos florestais superiores do Kreuzbergl, e várias Hundebadeplätze no Wörthersee como Maria Loretto, Friedelstrand e Krumpendorf.`,
+        `Veterinário de urgência 24h mais próximo: Tierklinik Annenheim perto de Villach (35 km oeste), +43 4242 41700; na cidade, Tierklinik Klagenfurt Stadt para horários diurnos alargados.`,
+        `Listenhunde austríacos: Pit Bull, American Staffordshire e variantes exigem certificado de comportamento e registo para entrar na Caríntia.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Autriche dans l'UE et Schengen : passeport européen + vaccin antirabique à jour + puce ISO suffisent depuis tout pays UE.`,
+        `Trains ÖBB Railjet directs : Vienne 4h, Salzbourg 2h45, Graz 3h ; petits chiens en sac gratuits, grands au demi-tarif + muselière en zone partagée.`,
+        `Aéroport de Klagenfurt (KLU) à 4 km au nord (vols saisonniers Vienne, Francfort, Hambourg, Berlin, Londres) ; sinon Railjet ÖBB jusqu'à Vienne (VIE) en 4h.`,
+        `Devise : euro. Budget journalier dog-friendly : 60 à 90 € par jour hors hébergement, environ 30 % en dessous de Vienne.`,
+        `Festivals à éviter avec un chien anxieux : Beach-Volleyball Major (août, foule et musique au Strandbad), Ironman Austria (juillet, fermetures de routes), Christkindlmarkt fin novembre au 24 décembre.`,
+      ],
+      en: [
+        `Austria is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct ÖBB Railjet trains: Vienna 4h, Salzburg 2h45, Graz 3h; small dogs in carrier free, larger at half fare + muzzle in shared sections.`,
+        `Klagenfurt Airport (KLU) 4 km north (seasonal flights to Vienna, Frankfurt, Hamburg, Berlin, London); otherwise ÖBB Railjet to Vienna (VIE) in 4h.`,
+        `Currency: euro. Daily dog-friendly budget: 60 to 90 EUR per day excluding accommodation, about 30% below Vienna.`,
+        `Festivals to avoid with an anxious dog: Beach Volleyball Major (August, crowds and music at the Strandbad), Ironman Austria (July, road closures), Christkindlmarkt late November to 24 December.`,
+      ],
+      es: [
+        `Austria está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes ÖBB Railjet directos: Viena 4h, Salzburgo 2h45, Graz 3h; perros pequeños en transportín gratis, grandes a mitad de tarifa + bozal en zona compartida.`,
+        `Aeropuerto de Klagenfurt (KLU) a 4 km al norte (vuelos estacionales a Viena, Fráncfort, Hamburgo, Berlín, Londres); si no, Railjet ÖBB a Viena (VIE) en 4h.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 60 a 90 € al día sin alojamiento, alrededor del 30 % por debajo de Viena.`,
+        `Festivales a evitar con perro ansioso: Beach Volleyball Major (agosto, multitudes y música en el Strandbad), Ironman Austria (julio, cortes de carretera), Christkindlmarkt finales de noviembre al 24 de diciembre.`,
+      ],
+      pt: [
+        `A Áustria está na UE e Schengen: passaporte europeu + vacinação antirrábica em dia + microchip ISO basta a partir de qualquer país UE.`,
+        `Comboios ÖBB Railjet directos: Viena 4h, Salzburgo 2h45, Graz 3h; cães pequenos em transportadora grátis, maiores a meia tarifa + açaime na zona partilhada.`,
+        `Aeroporto de Klagenfurt (KLU) a 4 km a norte (voos sazonais para Viena, Frankfurt, Hamburgo, Berlim, Londres); caso contrário Railjet ÖBB para Viena (VIE) em 4h.`,
+        `Moeda: euro. Orçamento diário pet-friendly: 60 a 90 € por dia sem alojamento, cerca de 30 % abaixo de Viena.`,
+        `Festivais a evitar com cão ansioso: Beach Volleyball Major (agosto, multidões e música no Strandbad), Ironman Austria (julho, cortes de estrada), Christkindlmarkt fim de novembro a 24 de dezembro.`,
+      ],
+    },
+  },
+
   klaipeda: {
     history: {
       en: `Klaipeda is Lithuania's only Baltic seaport and a 150,000-resident harbour city with a uniquely German-flavoured heritage, founded in 1252 by the Teutonic Order as Memel and Prussian-Lithuanian for most of seven centuries before passing to Lithuania in 1923. The Old Town preserves Memel-era half-timbered warehouses along Tiltu, Turgaus and Daru streets, the ruined 13th-century castle, Theatre Square with the Aennchen von Tharau statue dedicated to baroque poet Simon Dach, and the 12-hectare Sculpture Park with 116 modern Lithuanian works. The city's life pivots on its working port, the cruise terminal, and the free pedestrian ferry across the lagoon to the UNESCO Curonian Spit, making Klaipeda the natural gateway to Neringa.`,

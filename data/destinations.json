@@ -7164,6 +7164,33 @@
     "countryCode": "LV"
   },
   {
+    "slug": "klagenfurt",
+    "name": "Klagenfurt am Wörthersee",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/klagenfurt.jpg",
+    "intro": "A 104,000-resident Carinthian capital on the eastern shore of the Wörthersee, the warmest lake in the Alps (up to 26 degrees in July). The Renaissance Altstadt with its iconic Lindwurmbrunnen dragon fountain, the Minimundus miniature park, the Kreuzbergl forest above the city and several signed Hundebadeplätze on the lake make it one of Austria's most relaxed dog-travel bases.",
+    "lat": 46.6230,
+    "lng": 14.3050,
+    "weather": {
+      "jan": {"temp": -1, "desc": "Cold, snow possible", "icon": "❄️"},
+      "feb": {"temp": 2, "desc": "Cold, dry", "icon": "❄️"},
+      "mar": {"temp": 7, "desc": "Cool spring", "icon": "🌤️"},
+      "apr": {"temp": 12, "desc": "Mild spring", "icon": "🌸"},
+      "may": {"temp": 17, "desc": "Warm, ideal", "icon": "☀️"},
+      "jun": {"temp": 21, "desc": "Warm, lake season", "icon": "🌤️"},
+      "jul": {"temp": 23, "desc": "Warm afternoons", "icon": "☀️"},
+      "aug": {"temp": 22, "desc": "Warm afternoons", "icon": "☀️"},
+      "sep": {"temp": 17, "desc": "Mild autumn", "icon": "🌤️"},
+      "oct": {"temp": 12, "desc": "Crisp autumn", "icon": "🍂"},
+      "nov": {"temp": 5, "desc": "Cool, foggy", "icon": "🌫️"},
+      "dec": {"temp": 1, "desc": "Cold, festive", "icon": "🎄"}
+    },
+    "iata": "KLU"
+  },
+  {
     "slug": "klaipeda",
     "name": "Klaipeda",
     "country": "Lithuania",

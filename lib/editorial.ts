@@ -731,6 +731,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Jardins do Palácio de Cristal, the Douro riverside (Ribeira), and the Serralves park',
       area: 'Ribeira, Bonfim, and Foz do Douro',
     },
+    poznan: {
+      personality: `the cradle of the Polish state, founded in 966 on Cathedral Island, with one of the largest medieval market squares in Europe (Stary Rynek), 64-hectare Lake Malta inside the city, and around forty fenced off-leash dog zones scattered across the centre`,
+      highlight: `Park Cytadela with its panoramic terrace over the Old Town, the Lake Malta 5 km lakeside loop, and the Wielkopolska National Park 30 km south for proper forest hikes`,
+      area: `the Old Town around the Stary Rynek and Cathedral Island, the bohemian Jezyce district, and the Solacz neighbourhood with its Art Nouveau park`,
+    },
     // Tier 2
     prague: {
       personality: 'a compact, walkable city where dogs are welcome in most pubs, wine bars, and even some indoor markets',
@@ -1699,6 +1704,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les Jardins du Palácio de Cristal, les berges du Douro (Ribeira) et le parc de Serralves',
       area: 'Ribeira, Bonfim et Foz do Douro',
     },
+    poznan: {
+      personality: `le berceau de l'État polonais, fondé en 966 sur l'Île de la Cathédrale, avec l'une des plus vastes places de marché médiévales d'Europe (Stary Rynek), le lac Malta de 64 hectares en pleine ville et une quarantaine de zones canines clôturées disséminées dans le centre`,
+      highlight: `le parc de la Citadelle (Cytadela) avec sa terrasse panoramique sur la Vieille Ville, la boucle de 5 km autour du lac Malta et le Parc national de Wielkopolska à 30 km au sud pour de vraies randonnées en forêt`,
+      area: `la Vieille Ville autour du Stary Rynek et l'Île de la Cathédrale, le quartier bohème de Jeżyce et le quartier Solacz avec son parc Art nouveau`,
+    },
     prague: {
       personality: 'une ville compacte et marchable où les chiens sont les bienvenus dans la plupart des pubs, bars à vins et même certains marchés couverts',
       highlight: 'les parcs Stromovka et Letná, et les sentiers de la vallée de Nusle au bord de la rivière',
@@ -2666,6 +2676,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'los Jardines del Palácio de Cristal, la orilla del Duero (Ribeira) y el parque de Serralves',
       area: 'Ribeira, Bonfim y Foz do Douro',
     },
+    poznan: {
+      personality: `la cuna del Estado polaco, fundada en el año 966 sobre la Isla de la Catedral, con una de las plazas medievales más grandes de Europa (Stary Rynek), el lago Malta de 64 hectáreas en plena ciudad y unas cuarenta zonas caninas valladas repartidas por el centro`,
+      highlight: `el parque de la Ciudadela (Cytadela) con su terraza panorámica sobre el Casco Antiguo, el circuito de 5 km alrededor del lago Malta y el Parque Nacional de Wielkopolska a 30 km al sur para auténticas caminatas por el bosque`,
+      area: `el Casco Antiguo en torno al Stary Rynek y la Isla de la Catedral, el bohemio barrio de Jeżyce y el barrio de Sołacz con su parque modernista`,
+    },
     prague: {
       personality: 'una ciudad compacta y transitable donde los perros son bienvenidos en la mayoría de los pubs, bares de vinos e incluso algunos mercados cubiertos',
       highlight: 'los parques Stromovka y Letná, y los senderos del Valle de Nusle junto al río',
@@ -3632,6 +3647,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade montanhosa e atmosférica onde os cães forman parte do ritmo diario. En elétricos, en jardins de bares de vino e a lo largo do passeio fluvial do Duero',
       highlight: 'os Jardins do Palácio de Cristal, a margem do Duero (Ribeira) e o parque de Serralves',
       area: 'Ribeira, Bonfim e Foz do Douro',
+    },
+    poznan: {
+      personality: `o berço do Estado polaco, fundada em 966 na Ilha da Catedral, com uma das maiores praças medievais da Europa (Stary Rynek), o lago Malta de 64 hectares em plena cidade e cerca de quarenta zonas caninas vedadas espalhadas pelo centro`,
+      highlight: `o parque da Cidadela (Cytadela) com o seu terraço panorâmico sobre o centro histórico, o circuito de 5 km à volta do lago Malta e o Parque Nacional de Wielkopolska a 30 km a sul para verdadeiras caminhadas na floresta`,
+      area: `o centro histórico em torno do Stary Rynek e da Ilha da Catedral, o boémio bairro de Jeżyce e o bairro de Sołacz com o seu parque Arte Nova`,
     },
     prague: {
       personality: 'uma cidade compacta e transitable onde os cães são bem-vindos en a maioria dos pubs, bares de vinos e mesmo algunos mercados cubiertos',

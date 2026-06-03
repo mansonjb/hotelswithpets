@@ -5423,18 +5423,66 @@
     "lat": 47.9959,
     "lng": 7.8522,
     "weather": {
-      "jan": {"temp": 3, "desc": "Cold, foggy", "icon": "🌫️"},
-      "feb": {"temp": 5, "desc": "Cool, brightening", "icon": "🌥️"},
-      "mar": {"temp": 9, "desc": "Mild spring", "icon": "🌤️"},
-      "apr": {"temp": 13, "desc": "Mild & sunny", "icon": "🌸"},
-      "may": {"temp": 17, "desc": "Warm, ideal", "icon": "☀️"},
-      "jun": {"temp": 21, "desc": "Warm & sunny", "icon": "☀️"},
-      "jul": {"temp": 23, "desc": "Hot afternoons", "icon": "☀️"},
-      "aug": {"temp": 23, "desc": "Hot afternoons", "icon": "☀️"},
-      "sep": {"temp": 18, "desc": "Mild autumn", "icon": "🌤️"},
-      "oct": {"temp": 13, "desc": "Crisp autumn", "icon": "🍂"},
-      "nov": {"temp": 7, "desc": "Cool & rainy", "icon": "🌧️"},
-      "dec": {"temp": 4, "desc": "Cool & festive", "icon": "🎄"}
+      "jan": {
+        "temp": 3,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool, brightening",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Hot afternoons",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Hot afternoons",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cool & festive",
+        "icon": "🎄"
+      }
     },
     "iata": "BSL"
   },
@@ -7172,21 +7220,69 @@
     "categoryCount": 5,
     "heroImage": "/images/destinations/klagenfurt.jpg",
     "intro": "A 104,000-resident Carinthian capital on the eastern shore of the Wörthersee, the warmest lake in the Alps (up to 26 degrees in July). The Renaissance Altstadt with its iconic Lindwurmbrunnen dragon fountain, the Minimundus miniature park, the Kreuzbergl forest above the city and several signed Hundebadeplätze on the lake make it one of Austria's most relaxed dog-travel bases.",
-    "lat": 46.6230,
-    "lng": 14.3050,
+    "lat": 46.623,
+    "lng": 14.305,
     "weather": {
-      "jan": {"temp": -1, "desc": "Cold, snow possible", "icon": "❄️"},
-      "feb": {"temp": 2, "desc": "Cold, dry", "icon": "❄️"},
-      "mar": {"temp": 7, "desc": "Cool spring", "icon": "🌤️"},
-      "apr": {"temp": 12, "desc": "Mild spring", "icon": "🌸"},
-      "may": {"temp": 17, "desc": "Warm, ideal", "icon": "☀️"},
-      "jun": {"temp": 21, "desc": "Warm, lake season", "icon": "🌤️"},
-      "jul": {"temp": 23, "desc": "Warm afternoons", "icon": "☀️"},
-      "aug": {"temp": 22, "desc": "Warm afternoons", "icon": "☀️"},
-      "sep": {"temp": 17, "desc": "Mild autumn", "icon": "🌤️"},
-      "oct": {"temp": 12, "desc": "Crisp autumn", "icon": "🍂"},
-      "nov": {"temp": 5, "desc": "Cool, foggy", "icon": "🌫️"},
-      "dec": {"temp": 1, "desc": "Cold, festive", "icon": "🎄"}
+      "jan": {
+        "temp": -1,
+        "desc": "Cold, snow possible",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold, dry",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm, lake season",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool, foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold, festive",
+        "icon": "🎄"
+      }
     },
     "iata": "KLU"
   },
@@ -10572,6 +10668,81 @@
     "tiqetsId": "76573"
   },
   {
+    "slug": "poznan",
+    "name": "Poznan",
+    "country": "Poland",
+    "countryCode": "PL",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/poznan.jpg",
+    "intro": "Poznan is the cradle of the Polish state, founded in 966 around the Cathedral Island where the first Polish king Mieszko I was baptised. The colourful Stary Rynek (Old Market Square) is one of the largest medieval squares in Europe, with the famous mechanical goats butting heads on the Town Hall at noon. Beyond the centre, the 64-hectare Lake Malta with its city beach, the Citadel Park's panoramic terrace, and the Wielkopolska National Park 30 km south make Poznan a quiet pet-travel favourite. Trams accept dogs with a single ticket, around forty fenced off-leash zones are scattered across the city, and the cafe terraces around the Rynek welcome leashed dogs without fuss.",
+    "lat": 52.4064,
+    "lng": 16.9252,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      }
+    },
+    "iata": "POZ"
+  },
+  {
     "slug": "prague",
     "name": "Prague",
     "country": "Czech Republic",
@@ -10732,18 +10903,66 @@
     "lat": 49.0134,
     "lng": 12.1016,
     "weather": {
-      "jan": {"temp": 0, "desc": "Cold, often snow", "icon": "❄️"},
-      "feb": {"temp": 2, "desc": "Cold, dry", "icon": "❄️"},
-      "mar": {"temp": 6, "desc": "Cool spring", "icon": "🌤️"},
-      "apr": {"temp": 11, "desc": "Mild spring", "icon": "🌸"},
-      "may": {"temp": 15, "desc": "Warm, ideal", "icon": "☀️"},
-      "jun": {"temp": 19, "desc": "Warm, showers", "icon": "🌤️"},
-      "jul": {"temp": 21, "desc": "Warm afternoons", "icon": "☀️"},
-      "aug": {"temp": 20, "desc": "Warm afternoons", "icon": "☀️"},
-      "sep": {"temp": 16, "desc": "Mild autumn", "icon": "🌤️"},
-      "oct": {"temp": 11, "desc": "Crisp autumn", "icon": "🍂"},
-      "nov": {"temp": 5, "desc": "Cool, foggy", "icon": "🌫️"},
-      "dec": {"temp": 1, "desc": "Cold, Christmas market", "icon": "🎄"}
+      "jan": {
+        "temp": 0,
+        "desc": "Cold, often snow",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold, dry",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm, showers",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool, foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold, Christmas market",
+        "icon": "🎄"
+      }
     },
     "iata": "MUC"
   },

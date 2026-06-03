@@ -25,6 +25,7 @@ async function loadApiKey() {
 // Slug → query targeting a photogenic, pet-relevant landmark
 const TARGETS = [
   { slug: 'regensburg',    query: 'Regensburg Germany Steinerne Brucke stone bridge Cathedral Danube UNESCO old town panorama sunset' },
+  { slug: 'poznan',        query: 'Poznan Poland Stary Rynek Old Market Square Town Hall colorful tenements Renaissance panorama sunset' },
   { slug: 'freiburg',      query: 'Freiburg Germany Munsterplatz Cathedral Bachle cobbled streets Schwabentor Black Forest panorama sunset' },
   { slug: 'klagenfurt',    query: 'Klagenfurt Austria Worthersee lake Lindwurmbrunnen dragon fountain Carinthia panorama sunset' },
   { slug: 'klaipeda',      query: 'Klaipeda Lithuania Old Town Theatre Square Aennchen von Tharau Memel wooden houses Baltic panorama sunset' },

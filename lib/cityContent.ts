@@ -9219,6 +9219,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  freiburg: {
+    history: {
+      fr: `Fribourg-en-Brisgau (Freiburg im Breisgau), fondée en 1120 par les ducs de Zähringen comme ville libre de marché au pied de la Forêt-Noire, devint l'une des plus prospères villes minières et universitaires du Saint-Empire après la création de l'Université Albert-Ludwig en 1457. Centre des Habsbourg en Brisgau de 1368 à 1805 puis intégrée au Bade en 1806, la ville fut presque entièrement détruite par les bombardements alliés le 27 novembre 1944 mais son Altstadt fut reconstruit à l'identique. Aujourd'hui ville d'environ 236 000 habitants, capitale informelle de la Forêt-Noire et centre urbain le plus ensoleillé d'Allemagne (1 740 heures de soleil par an, source DWD), Fribourg est reconnue comme l'une des éco-cités modèles d'Europe : tramways, vélos partout, urbanisme passif. Pour les voyageurs avec un chien, c'est l'une des villes allemandes les plus faciles : Altstadt entièrement piéton, culture badoise tolérante par défaut, célèbres Bächle (petits canaux d'eau dans les pavés où les chiens boivent en été), accès direct à la Forêt-Noire en téléphérique. ICE direct vers Bâle en 45 min, Francfort 2h, Paris 3h15 via Karlsruhe.`,
+      en: `Freiburg im Breisgau, founded in 1120 by the Zähringen dukes as a free market town at the foot of the Black Forest, became one of the wealthiest mining and university cities of the Holy Roman Empire after the creation of Albert Ludwig University in 1457. A Habsburg seat in the Breisgau from 1368 to 1805 and then part of Baden from 1806, the city was almost entirely destroyed by Allied bombing on 27 November 1944 but its Altstadt was rebuilt identically. Today a city of around 236,000, the informal capital of the Black Forest and Germany's sunniest urban centre (1,740 hours of sun per year, source DWD), Freiburg is recognised as one of Europe's model eco-cities: trams, bikes everywhere, passive urbanism. For travellers with a dog, it is one of Germany's easiest cities: fully pedestrian Altstadt, default-tolerant Baden culture, the famous Bächle (small water channels in the cobbles where dogs drink in summer), and direct cable-car access to the Black Forest. Direct ICE trains to Basel in 45 min, Frankfurt 2h, Paris 3h15 via Karlsruhe.`,
+      es: `Friburgo de Brisgovia (Freiburg im Breisgau), fundada en 1120 por los duques de Zähringen como ciudad libre de mercado a los pies de la Selva Negra, se convirtió en una de las más prósperas ciudades mineras y universitarias del Sacro Imperio tras la creación de la Universidad Albert-Ludwig en 1457. Sede de los Habsburgo en Brisgovia de 1368 a 1805 y luego integrada en Baden en 1806, la ciudad fue casi totalmente destruida por los bombardeos aliados el 27 de noviembre de 1944 pero su Altstadt fue reconstruido idéntico. Hoy ciudad de unos 236.000 habitantes, capital informal de la Selva Negra y centro urbano más soleado de Alemania (1.740 horas de sol al año, fuente DWD), Friburgo está reconocida como una de las eco-ciudades modelo de Europa: tranvías, bicicletas por todas partes, urbanismo pasivo. Para los viajeros con perro, es una de las ciudades alemanas más fáciles: Altstadt totalmente peatonal, cultura badense tolerante por defecto, famosos Bächle (pequeños canales de agua en los adoquines donde los perros beben en verano), y acceso directo a la Selva Negra en teleférico. ICE directos a Basilea en 45 min, Fráncfort 2h, París 3h15 vía Karlsruhe.`,
+      pt: `Friburgo da Brisgóvia (Freiburg im Breisgau), fundada em 1120 pelos duques de Zähringen como cidade livre de mercado aos pés da Floresta Negra, tornou-se uma das mais prósperas cidades mineiras e universitárias do Sacro Império após a criação da Universidade Albert-Ludwig em 1457. Sede dos Habsburgos no Brisgóvia de 1368 a 1805 e depois integrada no Baden a partir de 1806, a cidade foi quase totalmente destruída pelos bombardeamentos aliados em 27 de novembro de 1944 mas o seu Altstadt foi reconstruído idêntico. Hoje cidade de cerca de 236.000 habitantes, capital informal da Floresta Negra e centro urbano mais soalheiro da Alemanha (1.740 horas de sol por ano, fonte DWD), Friburgo é reconhecida como uma das eco-cidades modelo da Europa: elétricos, bicicletas em todo o lado, urbanismo passivo. Para os viajantes com cão, é uma das cidades alemãs mais fáceis: Altstadt totalmente pedonal, cultura badense tolerante por defeito, famosos Bächle (pequenos canais de água nas pedras da calçada onde os cães bebem no verão), e acesso directo à Floresta Negra em teleférico. ICE directos para Basileia em 45 min, Frankfurt 2h, Paris 3h15 via Karlsruhe.`,
+    },
+    sights: [
+      { name: 'Freiburger Münster', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Cathédrale gothique de 1200 à 1513, flèche unique de 116 m. Münsterplatz et façade extérieures ouvertes 24h/24 aux chiens en laisse, intérieur réservé aux chiens d'assistance.`,
+        en: `Gothic cathedral built 1200 to 1513, single 116 m spire. Münsterplatz and outer facade open 24/7 to leashed dogs, interior reserved for assistance dogs.`,
+        es: `Catedral gótica de 1200 a 1513, sola aguja de 116 m. Münsterplatz y fachada exterior abiertas 24/7 a perros con correa, interior reservado a perros de asistencia.`,
+        pt: `Catedral gótica de 1200 a 1513, única torre de 116 m. Münsterplatz e fachada exterior abertas 24/7 a cães com trela, interior reservado a cães de assistência.`,
+      }},
+      { name: 'Schlossberg', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Colline boisée de 456 m qui s'élève directement depuis l'Altstadt, sentiers de hêtres et sapins, sans laisse toléré sur les sentiers forestiers supérieurs.`,
+        en: `456 m wooded hill rising directly from the Altstadt, beech and fir trails, off-leash tolerated on upper forest paths.`,
+        es: `Colina boscosa de 456 m que se eleva directamente desde el Altstadt, senderos de hayas y abetos, suelta tolerada en los senderos forestales superiores.`,
+        pt: `Colina arborizada de 456 m que se eleva directamente a partir do Altstadt, trilhos de faias e abetos, solta tolerada nos trilhos florestais superiores.`,
+      }},
+      { name: 'Bächle', emoji: '💧', petFriendly: true, desc: {
+        fr: `Petits canaux d'eau dans les pavés de l'Altstadt, héritage médiéval ; beaucoup de chiens y boivent en été, ce qui est accepté par les locaux.`,
+        en: `Small water channels in the cobbles of the Altstadt, a medieval heritage; many dogs drink from them in summer, which locals welcome.`,
+        es: `Pequeños canales de agua en los adoquines del Altstadt, herencia medieval; muchos perros beben en verano y los locales lo aceptan.`,
+        pt: `Pequenos canais de água nas pedras da calçada do Altstadt, herança medieval; muitos cães bebem lá no verão e os locais aceitam-no.`,
+      }},
+      { name: 'Schauinslandbahn', emoji: '🚠', petFriendly: true, desc: {
+        fr: `Téléphérique continu le plus long d'Allemagne (3,6 km), monte au sommet du Schauinsland à 1 284 m. Chiens admis en cabine pour environ 3 €.`,
+        en: `Germany's longest continuous cable car (3.6 km), runs to the 1,284 m Schauinsland summit. Dogs accepted in the cabin for around 3 EUR.`,
+        es: `Teleférico continuo más largo de Alemania (3,6 km), sube a la cumbre del Schauinsland a 1.284 m. Perros admitidos en cabina por unos 3 €.`,
+        pt: `Teleférico contínuo mais longo da Alemanha (3,6 km), sobe ao cume do Schauinsland a 1.284 m. Cães admitidos na cabina por cerca de 3 €.`,
+      }},
+      { name: 'Augustinerplatz', emoji: '🍺', petFriendly: true, desc: {
+        fr: `Place pavée à degrés derrière la Schwabentor, rendez-vous favori des locaux les soirs chauds avec chiens et bières.`,
+        en: `Stepped cobbled square behind the Schwabentor, favourite locals' hangout on warm evenings with dogs and beers.`,
+        es: `Plaza empedrada en escalinatas detrás de la Schwabentor, lugar favorito de locales en noches cálidas con perros y cervezas.`,
+        pt: `Praça empedrada em escadarias atrás da Schwabentor, ponto favorito dos locais em noites quentes com cães e cervejas.`,
+      }},
+      { name: 'Mooswald', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Vaste forêt humide de 1 500 ha à l'ouest de la ville, sans laisse autorisé sur les sentiers forestiers balisés selon la loi forestière du Bade-Wurtemberg.`,
+        en: `Vast 1,500 ha wetland forest west of the city, off-leash allowed on marked forest paths under Baden-Württemberg forestry law.`,
+        es: `Vasto bosque húmedo de 1.500 ha al oeste de la ciudad, suelta permitida en senderos forestales señalizados según la ley forestal de Baden-Württemberg.`,
+        pt: `Vasta floresta húmida de 1.500 ha a oeste da cidade, solta permitida nos trilhos florestais sinalizados segundo a lei florestal de Baden-Württemberg.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture badoise des Stuben et Gasthäuser accueille les chiens par défaut, environ 85 à 90 % des établissements de Fribourg acceptent les chiens en laisse à l'intérieur et en terrasse.`,
+        `Tram et bus VAG : grands chiens Kinderfahrkarte (environ 1,50 €) + laisse ; muselière non requise ; petits chiens en sac gratuits.`,
+        `Loi forestière du Bade-Wurtemberg autorise le sans-laisse sur sentiers forestiers balisés toute l'année ; Mooswald, Schauinsland et Schlossberg supérieur sont les principaux spots.`,
+        `Vétérinaire d'urgence 24h/24 : Tierklinik Freiburg, Eschholzstraße 109, +49 761 491110 ; appelez avant pour le triage.`,
+        `Climat ensoleillé : juillet et août après-midi 27 à 30 degrés sur les pavés, testez la chaleur avec la main et privilégiez la cabine du Schauinslandbahn pour rafraîchir un chien à poil épais.`,
+      ],
+      en: [
+        `Baden Stuben and Gasthäuser culture welcomes dogs by default, about 85 to 90% of Freiburg venues accept leashed dogs indoors and on terraces.`,
+        `VAG trams and buses: large dogs Kinderfahrkarte (around 1.50 EUR) + leash; muzzle not required; small dogs in carrier free.`,
+        `Baden-Württemberg forestry law allows off-leash walking on marked forest paths year-round; Mooswald, Schauinsland and the upper Schlossberg are the main spots.`,
+        `24/7 emergency vet: Tierklinik Freiburg, Eschholzstraße 109, +49 761 491110; call ahead for triage.`,
+        `Sunny climate: July and August afternoons reach 27 to 30 degrees on the cobbles; pad-test heat with your hand and use the Schauinslandbahn cabin to cool a thick-coated dog.`,
+      ],
+      es: [
+        `La cultura badense de Stuben y Gasthäuser admite perros por defecto, alrededor del 85 al 90 % de los locales de Friburgo acepta perros con correa dentro y en terraza.`,
+        `Tranvía y bus VAG: perros grandes Kinderfahrkarte (unos 1,50 €) + correa; bozal no requerido; perros pequeños en transportín gratis.`,
+        `La ley forestal de Baden-Württemberg permite la suelta en senderos forestales señalizados todo el año; Mooswald, Schauinsland y el alto Schlossberg son los principales sitios.`,
+        `Veterinario de urgencias 24h: Tierklinik Freiburg, Eschholzstraße 109, +49 761 491110; llama antes para el triage.`,
+        `Clima soleado: julio y agosto tarde 27 a 30 grados en los adoquines; prueba el calor con la mano y aprovecha la cabina del Schauinslandbahn para refrescar a un perro de pelo grueso.`,
+      ],
+      pt: [
+        `A cultura badense de Stuben e Gasthäuser acolhe cães por defeito, cerca de 85 a 90 % dos locais de Friburgo aceita cães com trela dentro e na esplanada.`,
+        `Elétrico e autocarro VAG: cães grandes Kinderfahrkarte (cerca de 1,50 €) + trela; açaime não exigido; cães pequenos em transportadora grátis.`,
+        `A lei florestal de Baden-Württemberg permite a solta em trilhos florestais sinalizados o ano inteiro; Mooswald, Schauinsland e o alto Schlossberg são os principais sítios.`,
+        `Veterinário de urgência 24h: Tierklinik Freiburg, Eschholzstraße 109, +49 761 491110; ligue antes para a triagem.`,
+        `Clima soalheiro: julho e agosto tarde 27 a 30 graus nas pedras; teste o calor com a mão e aproveite a cabina do Schauinslandbahn para refrescar um cão de pêlo grosso.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Allemagne dans l'UE et Schengen : passeport européen + vaccin antirabique à jour + puce ISO suffisent depuis tout pays UE.`,
+        `Trains DB ICE/IC directs : Bâle SBB 45 min, Francfort 2h, Berlin 5h45 ; correspondance TGV à Karlsruhe pour Paris en 3h15. Petits chiens en sac gratuits, grands au tarif enfant.`,
+        `Aéroports les plus proches : Bâle EuroAirport (BSL/MLH/EAP) à 70 km au sud (Lufthansa, easyJet, Wizz) ; Francfort-Hahn (HHN) à 2h au nord (Ryanair).`,
+        `Devise : euro. Budget journalier dog-friendly : 65 à 95 € par jour hors hébergement, environ 20 % en dessous de Munich.`,
+        `Festivals à éviter avec un chien anxieux : Fribourger Weinfest (juillet, foule sur la Münsterplatz), Weihnachtsmarkt fin novembre au 23 décembre (dense après 17h).`,
+      ],
+      en: [
+        `Germany is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct DB ICE/IC trains: Basel SBB 45 min, Frankfurt 2h, Berlin 5h45; TGV connection at Karlsruhe to Paris in 3h15. Small dogs in carrier free, larger at child fare.`,
+        `Closest airports: Basel EuroAirport (BSL/MLH/EAP) 70 km south (Lufthansa, easyJet, Wizz); Frankfurt-Hahn (HHN) 2h north (Ryanair).`,
+        `Currency: euro. Daily dog-friendly budget: 65 to 95 EUR per day excluding accommodation, about 20% below Munich.`,
+        `Festivals to avoid with an anxious dog: Freiburger Weinfest (July, crowds on Münsterplatz), Weihnachtsmarkt late November to 23 December (crowded after 17:00).`,
+      ],
+      es: [
+        `Alemania está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes DB ICE/IC directos: Basilea SBB 45 min, Fráncfort 2h, Berlín 5h45; conexión TGV en Karlsruhe a París en 3h15. Perros pequeños en transportín gratis, grandes a tarifa infantil.`,
+        `Aeropuertos más cercanos: Basilea EuroAirport (BSL/MLH/EAP) a 70 km al sur (Lufthansa, easyJet, Wizz); Frankfurt-Hahn (HHN) a 2h al norte (Ryanair).`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 65 a 95 € al día sin alojamiento, alrededor del 20 % por debajo de Múnich.`,
+        `Festivales a evitar con perro ansioso: Freiburger Weinfest (julio, multitudes en la Münsterplatz), Weihnachtsmarkt finales de noviembre al 23 de diciembre (denso tras las 17:00).`,
+      ],
+      pt: [
+        `A Alemanha está na UE e Schengen: passaporte europeu + vacinação antirrábica em dia + microchip ISO basta a partir de qualquer país UE.`,
+        `Comboios DB ICE/IC directos: Basileia SBB 45 min, Frankfurt 2h, Berlim 5h45; ligação TGV em Karlsruhe para Paris em 3h15. Cães pequenos em transportadora grátis, maiores a tarifa infantil.`,
+        `Aeroportos mais próximos: Basileia EuroAirport (BSL/MLH/EAP) a 70 km a sul (Lufthansa, easyJet, Wizz); Frankfurt-Hahn (HHN) a 2h a norte (Ryanair).`,
+        `Moeda: euro. Orçamento diário pet-friendly: 65 a 95 € por dia sem alojamento, cerca de 20 % abaixo de Munique.`,
+        `Festivais a evitar com cão ansioso: Freiburger Weinfest (julho, multidões na Münsterplatz), Weihnachtsmarkt fim de novembro a 23 de dezembro (denso depois das 17:00).`,
+      ],
+    },
+  },
+
   frejus: {
     history: {
       fr: `Fréjus fut fondée vers 49 av. J.-C. par Jules César sous le nom de Forum Julii, port stratégique de la flotte romaine de Méditerranée occidentale et plus ancienne ville romaine de Gaule. Il en reste un patrimoine antique exceptionnel : amphithéâtre du Ier siècle (l'un des plus complets du sud de la France), théâtre, aqueduc de 40 km, port et lanterne d'Auguste. La ville médiévale s'organise autour de la cathédrale Saint-Léonce et de son baptistère du Ve siècle, l'une des plus anciennes structures chrétiennes du pays. Jumelée à Saint-Raphaël depuis longtemps, Fréjus combine front de mer (Frejus-Plage, Saint-Aygulf), arrière-pays viticole et accès direct au Massif de l'Estérel. Pour le voyageur avec chien ou chat, la France impose le passeport européen, la puce électronique et la rage. Particularité décisive : Fréjus est la commune la plus accueillante pour les chiens de la Riviera française, trois plages canines officielles ouvertes toute l'année, une Base Nature de 100 hectares avec un Woof Park clôturé, et les chiens en laisse explicitement admis à l'intérieur des Arènes romaines.`,

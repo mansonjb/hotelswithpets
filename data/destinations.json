@@ -5412,6 +5412,33 @@
     "tiqetsId": "64980"
   },
   {
+    "slug": "freiburg",
+    "name": "Freiburg im Breisgau",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/freiburg.jpg",
+    "intro": "A 236,000-resident Baden city at the foot of the Black Forest and Germany's sunniest urban centre. The pedestrian Altstadt with its famous Bächle water channels, the Gothic Münster, the Schauinslandbahn cable car up to the 1,284 m mountain and the off-leash forest trails of the Schwarzwald combine in one of the most dog-tolerant eco-cities in Europe.",
+    "lat": 47.9959,
+    "lng": 7.8522,
+    "weather": {
+      "jan": {"temp": 3, "desc": "Cold, foggy", "icon": "🌫️"},
+      "feb": {"temp": 5, "desc": "Cool, brightening", "icon": "🌥️"},
+      "mar": {"temp": 9, "desc": "Mild spring", "icon": "🌤️"},
+      "apr": {"temp": 13, "desc": "Mild & sunny", "icon": "🌸"},
+      "may": {"temp": 17, "desc": "Warm, ideal", "icon": "☀️"},
+      "jun": {"temp": 21, "desc": "Warm & sunny", "icon": "☀️"},
+      "jul": {"temp": 23, "desc": "Hot afternoons", "icon": "☀️"},
+      "aug": {"temp": 23, "desc": "Hot afternoons", "icon": "☀️"},
+      "sep": {"temp": 18, "desc": "Mild autumn", "icon": "🌤️"},
+      "oct": {"temp": 13, "desc": "Crisp autumn", "icon": "🍂"},
+      "nov": {"temp": 7, "desc": "Cool & rainy", "icon": "🌧️"},
+      "dec": {"temp": 4, "desc": "Cool & festive", "icon": "🎄"}
+    },
+    "iata": "BSL"
+  },
+  {
     "slug": "frejus",
     "name": "Fréjus",
     "country": "France",

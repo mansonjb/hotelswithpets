@@ -381,6 +381,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the fenced Hundeauslauffläche in Grüneburgpark, the 4 km Mainufer promenade, and the Stadtwald forest trails',
       area: 'Sachsenhausen, Westend, and the Altstadt around the Römerberg',
     },
+    freiburg: {
+      personality: `a 236,000-resident Baden eco-city at the foot of the Black Forest and Germany's sunniest urban centre, with a pedestrian UNESCO-style Altstadt, the famous Bächle water channels in the cobbles, and the Schauinslandbahn cable car up to the 1,284 m Schauinsland mountain`,
+      highlight: `the Münsterplatz daily market, the Schlossberg forest hill above the Altstadt, the Schauinslandbahn cable car, and the off-leash Mooswald forest west of the city`,
+      area: `the pedestrian Altstadt around the Münsterplatz and Schwabentor, the Stadtgarten and Colombipark north of the centre, and the Stühlinger quarter west of the Hbf`,
+    },
     frejus: {
       personality: `the most dog-friendly municipality on the French Riviera by a clear margin, three official year-round dog beaches (Argens, Esclamandes, Pacha Plage), a 100-hectare Base Nature park with a brand-new fully enclosed Woof Park, and dogs admitted on a leash inside the 1st-century Roman amphitheatre`,
       highlight: `the Plage d'Argens cani-plage at Saint-Aygulf, the Base Nature François Léotard with its Woof Park, and the Roman Arènes and aqueduct ruins`,
@@ -1339,6 +1344,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Hundeauslauffläche clôturée du Grüneburgpark, la promenade Mainufer de 4 km et les sentiers forestiers du Stadtwald',
       area: 'Sachsenhausen, le Westend et l\'Altstadt autour du Römerberg',
     },
+    freiburg: {
+      personality: `une éco-cité badoise de 236 000 habitants au pied de la Forêt-Noire et centre urbain le plus ensoleillé d'Allemagne, Altstadt piéton de style UNESCO, célèbres Bächle (canaux d'eau dans les pavés) et téléphérique Schauinslandbahn jusqu'à la montagne du Schauinsland à 1 284 m`,
+      highlight: `le marché quotidien de la Münsterplatz, la colline boisée du Schlossberg au-dessus de l'Altstadt, le téléphérique Schauinslandbahn et la forêt sans laisse du Mooswald à l'ouest de la ville`,
+      area: `l'Altstadt piéton autour de la Münsterplatz et de la Schwabentor, le Stadtgarten et le Colombipark au nord du centre, et le quartier de Stühlinger à l'ouest de la Hbf`,
+    },
     frejus: {
       personality: `la commune balnéaire la plus accueillante pour les chiens de la Riviera française et de loin, trois plages canines officielles toute l'année (Argens, Esclamandes, Pacha Plage), une Base Nature de 100 hectares avec un tout nouveau Woof Park clôturé, et des chiens admis en laisse à l'amphithéâtre romain du Ier siècle`,
       highlight: `la cani-plage de la Plage d'Argens à Saint-Aygulf, la Base Nature François Léotard et son Woof Park, et les Arènes romaines et les ruines de l'aqueduc`,
@@ -2296,6 +2306,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Hundeauslauffläche vallada del Grüneburgpark, el paseo Mainufer de 4 km y los senderos forestales del Stadtwald',
       area: 'Sachsenhausen, el Westend y la Altstadt en torno al Römerberg',
     },
+    freiburg: {
+      personality: `una eco-ciudad badense de 236.000 habitantes al pie de la Selva Negra y el centro urbano más soleado de Alemania, Altstadt peatonal de estilo UNESCO, famosos Bächle (canales de agua en los adoquines) y teleférico Schauinslandbahn hasta la montaña del Schauinsland a 1.284 m`,
+      highlight: `el mercado diario de la Münsterplatz, la colina boscosa del Schlossberg sobre el Altstadt, el teleférico Schauinslandbahn y el bosque sin correa del Mooswald al oeste de la ciudad`,
+      area: `el Altstadt peatonal en torno a la Münsterplatz y la Schwabentor, el Stadtgarten y el Colombipark al norte del centro, y el barrio de Stühlinger al oeste de la Hbf`,
+    },
     frejus: {
       personality: `la comuna balnearia más acogedora con perros de la Riviera francesa con clara diferencia, tres playas caninas oficiales todo el año (Argens, Esclamandes, Pacha Plage), una Base Nature de 100 hectáreas con un Woof Park totalmente vallado, y perros admitidos con correa en el anfiteatro romano del siglo I`,
       highlight: `la cani-plage de la Plage d'Argens en Saint-Aygulf, la Base Nature François Léotard y su Woof Park, y las Arenas romanas y las ruinas del acueducto`,
@@ -3252,6 +3267,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital financiera mais verde de Alemania, o 52% da cidade é floresta o parques, com um Stadtwald de 4.200 hectáreas, tabernas de Apfelwein pet-friendly en Sachsenhausen e dos clínicas veterinárias de urgências abiertas 24/7',
       highlight: 'a Hundeauslauffläche vallada do Grüneburgpark, o passeio Mainufer de 4 km e os trilhos forestales do Stadtwald',
       area: 'Sachsenhausen, o Westend e a Altstadt en torno al Römerberg',
+    },
+    freiburg: {
+      personality: `uma eco-cidade badense de 236.000 habitantes aos pés da Floresta Negra e o centro urbano mais soalheiro da Alemanha, Altstadt pedonal de estilo UNESCO, famosos Bächle (canais de água nas pedras da calçada) e teleférico Schauinslandbahn até à montanha do Schauinsland a 1.284 m`,
+      highlight: `o mercado diário da Münsterplatz, a colina arborizada do Schlossberg sobre o Altstadt, o teleférico Schauinslandbahn e a floresta sem trela do Mooswald a oeste da cidade`,
+      area: `o Altstadt pedonal em torno da Münsterplatz e da Schwabentor, o Stadtgarten e o Colombipark a norte do centro, e o bairro de Stühlinger a oeste da Hbf`,
     },
     frejus: {
       personality: `o município balnear mais acolhedor com cães da Riviera francesa com clara diferença, três praias caninas oficiais todo o ano (Argens, Esclamandes, Pacha Plage), uma Base Nature de 100 hectares com um Woof Park totalmente vedado, e cães admitidos com trela no anfiteatro romano do século I`,

@@ -357,7 +357,10 @@
           "specialtiesEs": "Urgencias, cirugia, medicina interna, diagnostico por imagen",
           "specialtiesPt": "Urgencias, cirurgia, medicina interna, imagiologia",
           "openingHours": "24/7",
-          "languages": "Polish, English",
+          "languages": [
+            "Polish",
+            "English"
+          ],
           "languagesFr": "Polonais, anglais",
           "languagesEs": "Polaco, ingles",
           "languagesPt": "Polaco, ingles",
@@ -383,7 +386,10 @@
           "specialtiesEs": "Cirugia de urgencia, ortopedia, odontologia, diagnostico por imagen",
           "specialtiesPt": "Cirurgia de urgencia, ortopedia, dentaria, imagiologia",
           "openingHours": "24/7",
-          "languages": "Polish, English",
+          "languages": [
+            "Polish",
+            "English"
+          ],
           "languagesFr": "Polonais, anglais",
           "languagesEs": "Polaco, ingles",
           "languagesPt": "Polaco, ingles",
@@ -409,7 +415,10 @@
           "specialtiesEs": "Urgencias, medicina interna, oncologia, cardiologia, TAC",
           "specialtiesPt": "Urgencias, medicina interna, oncologia, cardiologia, TAC",
           "openingHours": "Day clinic 08:00-22:00; 24/7 emergency by phone",
-          "languages": "Polish, English",
+          "languages": [
+            "Polish",
+            "English"
+          ],
           "languagesFr": "Polonais, anglais",
           "languagesEs": "Polaco, ingles",
           "languagesPt": "Polaco, ingles",

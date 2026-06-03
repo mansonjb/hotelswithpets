@@ -10667,6 +10667,33 @@
     "iata": "CDG"
   },
   {
+    "slug": "regensburg",
+    "name": "Regensburg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/regensburg.jpg",
+    "intro": "A 155,000-resident Bavarian city on the Danube where one of Europe's best-preserved medieval Altstadts (UNESCO since 2006) is fully walkable in 30 minutes with a dog. The 12th-century Steinerne Brücke, the Gothic cathedral of St Peter, the riverside Spitalgarten beer garden and the Walhalla terraces above the Danube anchor a calm, dog-tolerant atmosphere far less crowded than Munich or Nuremberg.",
+    "lat": 49.0134,
+    "lng": 12.1016,
+    "weather": {
+      "jan": {"temp": 0, "desc": "Cold, often snow", "icon": "❄️"},
+      "feb": {"temp": 2, "desc": "Cold, dry", "icon": "❄️"},
+      "mar": {"temp": 6, "desc": "Cool spring", "icon": "🌤️"},
+      "apr": {"temp": 11, "desc": "Mild spring", "icon": "🌸"},
+      "may": {"temp": 15, "desc": "Warm, ideal", "icon": "☀️"},
+      "jun": {"temp": 19, "desc": "Warm, showers", "icon": "🌤️"},
+      "jul": {"temp": 21, "desc": "Warm afternoons", "icon": "☀️"},
+      "aug": {"temp": 20, "desc": "Warm afternoons", "icon": "☀️"},
+      "sep": {"temp": 16, "desc": "Mild autumn", "icon": "🌤️"},
+      "oct": {"temp": 11, "desc": "Crisp autumn", "icon": "🍂"},
+      "nov": {"temp": 5, "desc": "Cool, foggy", "icon": "🌫️"},
+      "dec": {"temp": 1, "desc": "Cold, Christmas market", "icon": "🎄"}
+    },
+    "iata": "MUC"
+  },
+  {
     "slug": "rennes",
     "name": "Rennes",
     "country": "France",

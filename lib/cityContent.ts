@@ -18297,6 +18297,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  regensburg: {
+    history: {
+      fr: `Ratisbonne (Regensburg en allemand), fondée comme camp légionnaire romain Castra Regina en 179 apr. J.-C. sur ordre de Marc Aurèle au confluent du Danube et de la Regen, est l'une des villes les plus anciennes d'Allemagne. Capitale du duché de Bavière dès le VIIIe siècle puis ville libre impériale, elle accueillit la Diète perpétuelle du Saint-Empire de 1663 à 1806, faisant d'elle le centre politique du Reich. L'Altstadt et Stadtamhof, inscrits au patrimoine UNESCO en 2006, conservent l'une des plus denses concentrations d'architecture médiévale et Renaissance d'Europe centrale : tours-maisons patriciennes des XIIIe-XIVe siècles, le Steinerne Brücke de 1146, la cathédrale gothique Saint-Pierre commencée en 1273 et le palais Thurn und Taxis. Pour les voyageurs avec un chien, Ratisbonne est l'une des villes allemandes les plus faciles : Altstadt piéton compact, culture Wirtshaus bavaroise tolérante par défaut, terrasses du Spitalgarten et de la Historische Wurstkuchl directement sur le Danube, et accès en 5 minutes aux berges sans laisse tolérées de la Jahninsel. ICE direct vers Munich en 1h30, Nuremberg 1h05, Leipzig 4h.`,
+      en: `Regensburg, founded as the Roman legionary camp Castra Regina in AD 179 under Marcus Aurelius at the confluence of the Danube and the Regen, is one of Germany's oldest cities. Capital of the Duchy of Bavaria from the 8th century and later a free imperial city, it hosted the Perpetual Diet of the Holy Roman Empire from 1663 to 1806, making it the political centre of the Reich. The Altstadt and Stadtamhof, inscribed on UNESCO's World Heritage list in 2006, preserve one of central Europe's densest concentrations of medieval and Renaissance architecture: 13th to 14th-century patrician house-towers, the Steinerne Brücke of 1146, the Gothic cathedral of St Peter begun in 1273 and the Thurn und Taxis palace. For travellers with a dog, Regensburg is one of Germany's easiest cities: a compact pedestrian Altstadt, dog-tolerant Bavarian Wirtshaus culture by default, Spitalgarten and Historische Wurstkuchl terraces directly on the Danube, and 5-minute access to the off-leash-tolerated riverside lawns of Jahninsel. Direct ICE trains to Munich in 1h30, Nuremberg 1h05, Leipzig 4h.`,
+      es: `Ratisbona (Regensburg en alemán), fundada como campamento legionario romano Castra Regina en 179 d. C. por orden de Marco Aurelio en la confluencia del Danubio y el Regen, es una de las ciudades más antiguas de Alemania. Capital del Ducado de Baviera desde el siglo VIII y posteriormente ciudad libre imperial, acogió la Dieta Perpetua del Sacro Imperio de 1663 a 1806, convirtiéndose en el centro político del Reich. El Altstadt y Stadtamhof, inscritos en el patrimonio UNESCO en 2006, conservan una de las concentraciones más densas de arquitectura medieval y renacentista de Europa central: casas-torre patricias de los siglos XIII y XIV, el Steinerne Brücke de 1146, la catedral gótica de San Pedro iniciada en 1273 y el palacio Thurn und Taxis. Para los viajeros con perro, Ratisbona es una de las ciudades alemanas más fáciles: Altstadt peatonal compacto, cultura Wirtshaus bávara tolerante por defecto, terrazas del Spitalgarten y de la Historische Wurstkuchl directamente sobre el Danubio, y acceso en 5 minutos a las orillas con suelta tolerada de la Jahninsel. ICE directos a Múnich en 1h30, Núremberg 1h05, Leipzig 4h.`,
+      pt: `Ratisbona (Regensburg em alemão), fundada como acampamento legionário romano Castra Regina em 179 d. C. por ordem de Marco Aurélio na confluência do Danúbio e do Regen, é uma das cidades mais antigas da Alemanha. Capital do Ducado da Baviera a partir do século VIII e mais tarde cidade livre imperial, acolheu a Dieta Perpétua do Sacro Império de 1663 a 1806, tornando-se o centro político do Reich. O Altstadt e Stadtamhof, inscritos no património UNESCO em 2006, conservam uma das mais densas concentrações de arquitectura medieval e renascentista da Europa central: casas-torre patrícias dos séculos XIII e XIV, o Steinerne Brücke de 1146, a catedral gótica de S. Pedro iniciada em 1273 e o palácio Thurn und Taxis. Para os viajantes com cão, Ratisbona é uma das cidades alemãs mais fáceis: Altstadt pedonal compacto, cultura Wirtshaus bávara tolerante por defeito, esplanadas do Spitalgarten e da Historische Wurstkuchl directamente sobre o Danúbio, e acesso em 5 minutos às margens com solta tolerada da Jahninsel. ICE directos para Munique em 1h30, Nuremberga 1h05, Leipzig 4h.`,
+    },
+    sights: [
+      { name: 'Steinerne Brücke', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Pont de pierre de 1146 sur le Danube, 308 m, monument signature de Ratisbonne. Entièrement piéton depuis 2008, chiens en laisse bienvenus.`,
+        en: `1146 stone bridge over the Danube, 308 m long, Regensburg's signature monument. Fully pedestrian since 2008, leashed dogs welcome.`,
+        es: `Puente de piedra de 1146 sobre el Danubio, 308 m, monumento emblemático de Ratisbona. Totalmente peatonal desde 2008, perros con correa bienvenidos.`,
+        pt: `Ponte de pedra de 1146 sobre o Danúbio, 308 m, monumento emblemático de Ratisbona. Totalmente pedonal desde 2008, cães com trela bem-vindos.`,
+      }},
+      { name: 'Domplatz & cathédrale Saint-Pierre', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Place et façade extérieures de la cathédrale gothique de 1273, chef-d'œuvre du gothique bavarois. Place ouverte 24h/24 aux chiens en laisse, intérieur réservé aux chiens d'assistance.`,
+        en: `Square and outer facade of the 1273 Gothic cathedral, masterpiece of Bavarian Gothic. Square open 24/7 to leashed dogs, interior reserved for assistance dogs.`,
+        es: `Plaza y fachada exterior de la catedral gótica de 1273, obra maestra del gótico bávaro. Plaza abierta 24/7 a perros con correa, interior reservado a perros de asistencia.`,
+        pt: `Praça e fachada exterior da catedral gótica de 1273, obra-prima do gótico bávaro. Praça aberta 24/7 a cães com trela, interior reservado a cães de assistência.`,
+      }},
+      { name: 'Stadtpark Regensburg', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Parc central paysager au sud de l'Altstadt, platanes anciens, étangs, allées ombragées. Chiens en laisse sur l'ensemble.`,
+        en: `Central landscape park south of the Altstadt, old plane trees, ponds, shaded paths. Leashed dogs throughout.`,
+        es: `Parque paisajístico central al sur del Altstadt, plátanos antiguos, estanques, senderos sombreados. Perros con correa en todo el parque.`,
+        pt: `Parque paisagístico central a sul do Altstadt, plátanos antigos, lagos, caminhos sombreados. Cães com trela em todo o parque.`,
+      }},
+      { name: 'Jahninsel', emoji: '🌿', petFriendly: true, desc: {
+        fr: `Île allongée du Danube entre l'Altstadt et Stadtamhof, pelouses ouvertes, sans laisse toléré sur la pointe ouest, vue signature sur la cathédrale.`,
+        en: `Long Danube island between the Altstadt and Stadtamhof, open lawns, off-leash tolerated on the western tip, signature view of the cathedral.`,
+        es: `Larga isla del Danubio entre el Altstadt y Stadtamhof, céspedes abiertos, suelta tolerada en la punta oeste, vista emblemática a la catedral.`,
+        pt: `Longa ilha do Danúbio entre o Altstadt e Stadtamhof, relvados abertos, solta tolerada na ponta oeste, vista emblemática para a catedral.`,
+      }},
+      { name: 'Spitalgarten', emoji: '🍺', petFriendly: true, desc: {
+        fr: `Biergarten historique de 1226 sur la rive nord du Danube face au Steinerne Brücke, 1 200 places sous les châtaigniers, chiens bienvenus.`,
+        en: `Historic 1226 beer garden on the north Danube bank facing the Steinerne Brücke, 1,200 seats under chestnut trees, dogs welcome.`,
+        es: `Biergarten histórico de 1226 en la orilla norte del Danubio frente al Steinerne Brücke, 1.200 plazas bajo castaños, perros bienvenidos.`,
+        pt: `Biergarten histórico de 1226 na margem norte do Danúbio em frente ao Steinerne Brücke, 1.200 lugares sob castanheiros, cães bem-vindos.`,
+      }},
+      { name: 'Walhalla (Donaustauf)', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Mémorial néoclassique de Louis Ier sur le Danube à 10 km à l'est, terrasses extérieures ouvertes aux chiens en laisse, intérieur fermé aux animaux.`,
+        en: `Neoclassical memorial of King Ludwig I on the Danube 10 km east, outer terraces open to leashed dogs, interior closed to pets.`,
+        es: `Memorial neoclásico de Luis I sobre el Danubio a 10 km al este, terrazas exteriores abiertas a perros con correa, interior cerrado a mascotas.`,
+        pt: `Memorial neoclássico de Luís I sobre o Danúbio a 10 km a leste, esplanadas exteriores abertas a cães com trela, interior fechado a animais.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture Wirtshaus/Biergarten bavaroise accueille les chiens par défaut, environ 85 % des établissements de Ratisbonne acceptent les chiens en laisse en salle principale et en terrasse.`,
+        `Bus RVV : grands chiens muselière + billet enfant (environ 1,80 €) ; petits chiens en sac gratuits ; S-Bahn règles fédérales identiques.`,
+        `Hundeauslaufzone clôturée au Dörnbergpark, sans laisse toléré sur les pelouses ouest de la Jahninsel, et trilhos forestiers au nord de la Regen sans laisse autorisé selon la loi forestière bavaroise.`,
+        `Vétérinaire d'urgence 24h/24 : Tierklinik Regensburg, Im Gewerbepark D 90, +49 941 4646464 ; appelez avant pour le triage.`,
+        `Listenhunde : Bavière restreint Pit Bull, Bull Terrier, American Staffordshire et variantes ; permis et test de comportement requis pour entrer en Bavière avec ces chiens.`,
+      ],
+      en: [
+        `Bavarian Wirtshaus/Biergarten culture welcomes dogs by default, about 85% of Regensburg venues accept leashed dogs in the main room and on terraces.`,
+        `RVV buses: large dogs muzzle + child-fare ticket (around 1.80 EUR); small dogs in carrier free; S-Bahn same federal rules.`,
+        `Fenced Hundeauslaufzone in Dörnbergpark, off-leash tolerated on the western Jahninsel lawns, and forest trails north of the Regen allow off-leash year-round under Bavarian forestry law.`,
+        `24/7 emergency vet: Tierklinik Regensburg, Im Gewerbepark D 90, +49 941 4646464; call ahead for triage.`,
+        `Listenhunde rule: Bavaria restricts Pit Bull, Bull Terrier, American Staffordshire and variants; permit and behaviour test required to enter Bavaria with these dogs.`,
+      ],
+      es: [
+        `La cultura Wirtshaus/Biergarten bávara admite perros por defecto, alrededor del 85 % de los locales de Ratisbona acepta perros con correa en la sala principal y en terraza.`,
+        `Autobuses RVV: perros grandes bozal + billete infantil (unos 1,80 €); perros pequeños en transportín gratis; S-Bahn mismas reglas federales.`,
+        `Hundeauslaufzone vallada en el Dörnbergpark, suelta tolerada en los céspedes oeste de la Jahninsel, y senderos forestales al norte del Regen permiten suelta todo el año según la ley forestal bávara.`,
+        `Veterinario de urgencias 24h: Tierklinik Regensburg, Im Gewerbepark D 90, +49 941 4646464; llama antes para el triage.`,
+        `Listenhunde: Baviera restringe Pit Bull, Bull Terrier, American Staffordshire y variantes; permiso y test de comportamiento exigidos para entrar en Baviera con estos perros.`,
+      ],
+      pt: [
+        `A cultura Wirtshaus/Biergarten bávara acolhe cães por defeito, cerca de 85 % dos locais de Ratisbona aceita cães com trela na sala principal e na esplanada.`,
+        `Autocarros RVV: cães grandes açaime + bilhete infantil (cerca de 1,80 €); cães pequenos em transportadora grátis; S-Bahn mesmas regras federais.`,
+        `Hundeauslaufzone vedada no Dörnbergpark, solta tolerada nos relvados oeste da Jahninsel, e trilhos florestais a norte do Regen permitem solta o ano inteiro segundo a lei florestal bávara.`,
+        `Veterinário de urgência 24h: Tierklinik Regensburg, Im Gewerbepark D 90, +49 941 4646464; ligue antes para a triagem.`,
+        `Listenhunde: a Baviera restringe Pit Bull, Bull Terrier, American Staffordshire e variantes; licença e teste de comportamento exigidos para entrar na Baviera com estes cães.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Allemagne dans l'UE et Schengen : passeport européen + vaccin antirabique à jour + puce ISO suffisent depuis tout pays UE.`,
+        `Trains DB ICE/IC directs : Munich 1h30, Nuremberg 1h05, Leipzig 4h, Berlin 5h30 ; petits chiens en sac gratuits, grands au tarif enfant + muselière sur ICE.`,
+        `Aéroport le plus proche : Munich (MUC) à 1h30 en navette ou en combinaison rail ; Nuremberg (NUE) à 1h en train pour les vols low-cost.`,
+        `Devise : euro. Budget journalier dog-friendly : 60 à 90 € par jour hors hébergement, environ 25 % en dessous de Munich.`,
+        `Festivals à éviter avec un chien anxieux : Dult de printemps et d'automne (foire, foule), Christkindlesmarkt fin novembre au 23 décembre (très dense après 17h).`,
+      ],
+      en: [
+        `Germany is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct DB ICE/IC trains: Munich 1h30, Nuremberg 1h05, Leipzig 4h, Berlin 5h30; small dogs in carrier free, larger at child fare + muzzle on ICE.`,
+        `Closest airport: Munich (MUC) 1h30 by shuttle or rail combination; Nuremberg (NUE) 1h by train for low-cost flights.`,
+        `Currency: euro. Daily dog-friendly budget: 60 to 90 EUR per day excluding accommodation, about 25% below Munich.`,
+        `Festivals to avoid with an anxious dog: spring and autumn Dult (funfair, crowds), Christkindlesmarkt late November to 23 December (very crowded after 17:00).`,
+      ],
+      es: [
+        `Alemania está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes DB ICE/IC directos: Múnich 1h30, Núremberg 1h05, Leipzig 4h, Berlín 5h30; perros pequeños en transportín gratis, grandes a tarifa infantil + bozal en ICE.`,
+        `Aeropuerto más cercano: Múnich (MUC) a 1h30 en lanzadera o combinación ferroviaria; Núremberg (NUE) a 1h en tren para vuelos low-cost.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 60 a 90 € al día sin alojamiento, alrededor del 25 % por debajo de Múnich.`,
+        `Festivales a evitar con perro ansioso: Dult de primavera y otoño (feria, multitudes), Christkindlesmarkt finales de noviembre al 23 de diciembre (muy lleno tras las 17:00).`,
+      ],
+      pt: [
+        `A Alemanha está na UE e Schengen: passaporte europeu + vacinação antirrábica em dia + microchip ISO basta a partir de qualquer país UE.`,
+        `Comboios DB ICE/IC directos: Munique 1h30, Nuremberga 1h05, Leipzig 4h, Berlim 5h30; cães pequenos em transportadora grátis, maiores a tarifa infantil + açaime no ICE.`,
+        `Aeroporto mais próximo: Munique (MUC) a 1h30 em shuttle ou combinação ferroviária; Nuremberga (NUE) a 1h de comboio para voos low-cost.`,
+        `Moeda: euro. Orçamento diário pet-friendly: 60 a 90 € por dia sem alojamento, cerca de 25 % abaixo de Munique.`,
+        `Festivais a evitar com cão ansioso: Dult de primavera e outono (feira, multidões), Christkindlesmarkt fim de novembro a 23 de dezembro (muito cheio depois das 17:00).`,
+      ],
+    },
+  },
+
   rennes: {
     history: {
       fr: `Rennes, capitale historique de la Bretagne, fut fondée par la tribu gauloise des Redones et conquise par les Romains au Ier siècle av. J.-C. sous le nom de Condate. Devenue siège du Parlement de Bretagne en 1561 après l'union du duché à la France, elle vit s'élever le monumental palais de Salomon de Brosse en 1618-1655, encore considéré comme l'un des plus beaux édifices civils Renaissance du royaume. L'incendie catastrophique de décembre 1720 ravagea pendant six jours environ 900 maisons à colombages de la ville haute ; le quartier classique reconstruit par l'architecte Jacques Gabriel coexiste depuis avec le quartier médiéval épargné autour de la cathédrale Saint-Pierre, la Place Sainte-Anne et la Place des Lices. Aujourd'hui ville d'environ 215 000 habitants (450 000 dans la métropole), quatrième pôle universitaire de France et capitale active du numérique, Rennes mêle architecture historique, deux lignes de métro automatique (la ligne B inaugurée en 2022), le Parc du Thabor central et un accès TGV en 1h26 vers Paris.`,

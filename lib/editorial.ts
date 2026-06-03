@@ -732,6 +732,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Promenades around Place de la République, the wooded Parc de Champagne, and the canal towpaths toward Cernay',
       area: 'the historic center near the Cathédrale Notre-Dame, Place Drouet d\'Erlon, and the leafy Parc de Champagne quarter',
     },
+    regensburg: {
+      personality: `a 155,000-resident Bavarian city on the Danube where one of Europe's best-preserved medieval Altstadts (UNESCO since 2006) is fully walkable in 30 minutes with a dog, far calmer than Munich or Nuremberg`,
+      highlight: `the 12th-century Steinerne Brücke and Danube riverside, the Stadtpark Regensburg and the Jahninsel river island, and the Walhalla memorial terraces 10 km east in Donaustauf`,
+      area: `the UNESCO Altstadt around Domplatz and Haidplatz, the Stadtamhof island quarter across the Steinerne Brücke, and the leafy quarters around the Stadtpark south of the centre`,
+    },
     rennes: {
       personality: `Brittany's regional capital where the half-timbered medieval centre (rebuilt after the 1720 fire), the 10-hectare Parc du Thabor and France's second-largest Saturday open-air market on Place des Lices make it one of north-west France's most walkable and dog-tolerant cities`,
       highlight: `the Place du Parlement de Bretagne, the Parc du Thabor central park, and the Vilaine river towpath linking onward to the 84 km Ille-et-Rance canal toward Saint-Malo`,
@@ -1683,6 +1688,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `l'élégante capitale de la Champagne, ville UNESCO où cathédrales gothiques, façades art déco et avenues plantées de vignes invitent à de longues promenades avec son chien en laisse`,
       highlight: 'les Promenades autour de la Place de la République, le boisé Parc de Champagne et les chemins de halage le long du canal vers Cernay',
       area: `le centre historique près de la Cathédrale Notre-Dame, la Place Drouet d'Erlon et le quartier verdoyant du Parc de Champagne`,
+    },
+    regensburg: {
+      personality: `une ville bavaroise de 155 000 habitants sur le Danube où l'un des Altstadts médiévaux les mieux préservés d'Europe (UNESCO depuis 2006) se traverse en 30 minutes à pied avec un chien, bien plus calme que Munich ou Nuremberg`,
+      highlight: `le Steinerne Brücke du XIIe siècle et les berges du Danube, le Stadtpark Regensburg et l'île de la Jahninsel, et les terrasses du mémorial de la Walhalla à 10 km à l'est à Donaustauf`,
+      area: `l'Altstadt UNESCO autour de Domplatz et Haidplatz, le quartier insulaire de Stadtamhof de l'autre côté du Steinerne Brücke, et les quartiers verdoyants autour du Stadtpark au sud du centre`,
     },
     rennes: {
       personality: `la capitale régionale de Bretagne où le centre médiéval à colombages (reconstruit après l'incendie de 1720), le Parc du Thabor de 10 hectares et le deuxième plus grand marché en plein air de France le samedi sur la Place des Lices en font l'une des villes les plus marchables et dog-tolerant du nord-ouest de la France`,
@@ -2636,6 +2646,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'las Promenades alrededor de la Place de la République, el boscoso Parc de Champagne y los caminos del canal hacia Cernay',
       area: `el centro histórico junto a la Catedral Notre-Dame, la Place Drouet d'Erlon y el frondoso barrio del Parc de Champagne`,
     },
+    regensburg: {
+      personality: `una ciudad bávara de 155.000 habitantes a orillas del Danubio donde uno de los Altstadt medievales mejor conservados de Europa (UNESCO desde 2006) se recorre en 30 minutos a pie con un perro, mucho más tranquila que Múnich o Núremberg`,
+      highlight: `el Steinerne Brücke del siglo XII y las orillas del Danubio, el Stadtpark Regensburg y la isla de Jahninsel, y las terrazas del memorial de la Walhalla a 10 km al este en Donaustauf`,
+      area: `el Altstadt UNESCO en torno a Domplatz y Haidplatz, el barrio insular de Stadtamhof al otro lado del Steinerne Brücke, y los barrios frondosos en torno al Stadtpark al sur del centro`,
+    },
     rennes: {
       personality: `la capital regional de Bretaña donde el centro medieval con entramado de madera (reconstruido tras el incendio de 1720), el Parc du Thabor de 10 hectáreas y el segundo mercado al aire libre más grande de Francia los sábados en Place des Lices la convierten en una de las ciudades más caminables y dog-tolerant del noroeste de Francia`,
       highlight: `la Place du Parlement de Bretagne, el Parc du Thabor central, y el camino de sirga del Vilaine que enlaza con los 84 km del Canal d'Ille-et-Rance hacia Saint-Malo`,
@@ -3587,6 +3602,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a elegante capital da Champanha, cidade UNESCO onde catedrais góticas, fachadas art déco e avenidas bordeadas de vinhas invitan a largos passeios com tu cão com trela',
       highlight: 'as Promenades alrededor da Place da République, o boscoso Parc de Champagne e os caminos do canal hacia Cernay',
       area: `o centro histórico junto a a Catedral Notre-Dame, a Place Drouet d'Erlon e o frondoso bairro do Parc de Champagne`,
+    },
+    regensburg: {
+      personality: `uma cidade bávara de 155.000 habitantes nas margens do Danúbio onde um dos Altstadt medievais mais bem preservados da Europa (UNESCO desde 2006) se percorre em 30 minutos a pé com um cão, muito mais calma do que Munique ou Nuremberga`,
+      highlight: `o Steinerne Brücke do século XII e as margens do Danúbio, o Stadtpark Regensburg e a ilha de Jahninsel, e as esplanadas do memorial da Walhalla a 10 km a leste em Donaustauf`,
+      area: `o Altstadt UNESCO em torno da Domplatz e da Haidplatz, o bairro insular de Stadtamhof do outro lado do Steinerne Brücke, e os bairros verdejantes em torno do Stadtpark a sul do centro`,
     },
     rennes: {
       personality: `a capital regional da Bretanha onde o centro medieval com entramado de madeira (reconstruído após o incêndio de 1720), o Parc du Thabor de 10 hectáreas e o segundo maior mercado al aire libre de França aos sábados na Place des Lices a tornan numa das cidades mais caminháveis e pet-tolerant do noroeste de França`,

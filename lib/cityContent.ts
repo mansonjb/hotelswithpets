@@ -21889,6 +21889,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  torun: {
+    history: {
+      fr: `Toruń est le berceau de l'astronomie polonaise et l'une des deux seules villes médiévales de Pologne dont le centre ait survécu à la Seconde Guerre mondiale presque intact. Fondée en 1233 par les chevaliers teutoniques sur les rives de la Vistule, la ville rejoint rapidement la Hanse et bâtit son immense Hôtel de Ville gothique en brique rouge, l'un des plus monumentaux d'Europe du Nord. C'est ici que naît Nicolas Copernic en 1473, dans une maison de marchand sur la place du marché aujourd'hui musée. La spécialité de la ville, le pierniki, biscuit au pain d'épices documenté dès le XIIIe siècle, est devenue une industrie et un emblème, célébré au Musée Vivant du Pierniki sur ul. Rabiańska. Le centre est inscrit au patrimoine mondial de l'UNESCO depuis 1997 pour son ensemble exceptionnel d'architecture gothique en brique. Les tramways MPK acceptent les chiens en laisse, les terrasses des deux Rynek les accueillent volontiers, et la ville compte une vingtaine de zones canines clôturées (wybiegi).`,
+      en: `Toruń is the cradle of Polish astronomy and one of only two medieval Polish cities whose centre survived the Second World War almost intact. Founded in 1233 by the Teutonic Knights on the banks of the Vistula, the city rapidly joined the Hanseatic League and built its immense Gothic Town Hall in red brick, one of the most monumental in northern Europe. This is where Nicolaus Copernicus was born in 1473, in a merchant townhouse on the market square now a museum. The local speciality, pierniki gingerbread documented from the 13th century, became an industry and emblem, celebrated at the Living Gingerbread Museum on ul. Rabiańska. The historic centre has been a UNESCO World Heritage Site since 1997 for its outstanding ensemble of brick Gothic architecture. MPK trams accept dogs on leash, the terraces on both Rynek squares welcome them happily, and the city maintains around twenty fenced off-leash dog zones (wybiegi).`,
+      es: `Toruń es la cuna de la astronomía polaca y una de las dos únicas ciudades medievales polacas cuyo centro sobrevivió casi intacto a la Segunda Guerra Mundial. Fundada en 1233 por los caballeros teutónicos a orillas del Vístula, la ciudad se incorporó rápidamente a la Liga Hanseática y levantó su inmenso Ayuntamiento gótico de ladrillo rojo, uno de los más monumentales del norte de Europa. Aquí nació Nicolás Copérnico en 1473, en una casa de mercader de la plaza del mercado hoy convertida en museo. La especialidad local, el pan de jengibre pierniki documentado desde el siglo XIII, se convirtió en industria y emblema, celebrado en el Museo Vivo del Pierniki en ul. Rabiańska. El centro histórico está inscrito en el Patrimonio Mundial de la UNESCO desde 1997 por su excepcional conjunto de arquitectura gótica de ladrillo. Los tranvías MPK admiten perros con correa, las terrazas de ambas plazas Rynek los acogen encantadas, y la ciudad mantiene una veintena de zonas caninas valladas (wybiegi).`,
+      pt: `Toruń é o berço da astronomia polaca e uma das duas únicas cidades medievais polacas cujo centro sobreviveu quase intacto à Segunda Guerra Mundial. Fundada em 1233 pelos cavaleiros teutónicos nas margens do Vístula, a cidade integrou rapidamente a Liga Hanseática e ergueu o seu imenso Pacos do Concelho gótico em tijolo vermelho, um dos mais monumentais do norte da Europa. Foi aqui que nasceu Nicolau Copérnico em 1473, numa casa de mercador da praça do mercado hoje transformada em museu. A especialidade local, o pão de gengibre pierniki documentado desde o século XIII, tornou-se uma indústria e emblema, celebrada no Museu Vivo do Pierniki na ul. Rabiańska. O centro histórico está inscrito no Património Mundial da UNESCO desde 1997 pelo seu excepcional conjunto de arquitetura gótica em tijolo. Os elétricos MPK admitem cães com trela, as esplanadas de ambas as praças Rynek acolhem-nos com gosto, e a cidade mantém cerca de vinte zonas caninas vedadas (wybiegi).`,
+    },
+    sights: [
+      {
+        name: `Rynek Staromiejski`,
+        emoji: `🏛️`,
+        petFriendly: true,
+        desc: {
+          fr: `Place de marché médiévale tracée au XIIIe siècle, dominée par l'Hôtel de Ville gothique en brique rouge et bordée de maisons gothiques et baroques. Statue de Copernic au centre, terrasses de café autour. Chiens en laisse bienvenus sur les pavés et sur la plupart des terrasses, l'intérieur du musée de l'Hôtel de Ville n'admet que les chiens d'assistance.`,
+          en: `A 13th-century medieval market square dominated by the red-brick Gothic Town Hall and ringed by Gothic and Baroque townhouses. The Copernicus statue stands at the centre and cafe terraces line the square. Leashed dogs welcome on the cobbles and most terraces; the Town Hall museum interior admits assistance dogs only.`,
+          es: `Plaza del mercado medieval trazada en el siglo XIII, dominada por el Ayuntamiento gótico de ladrillo rojo y rodeada de casas góticas y barrocas. La estatua de Copérnico se alza en el centro y las terrazas de cafe bordean la plaza. Perros con correa bienvenidos sobre los adoquines y en la mayoría de las terrazas; el interior del museo del Ayuntamiento solo admite perros de asistencia.`,
+          pt: `Praça do mercado medieval traçada no século XIII, dominada pelo Pacos do Concelho gótico de tijolo vermelho e rodeada de casas góticas e barrocas. A estátua de Copérnico ergue-se no centro e as esplanadas de cafe ladeiam a praça. Cães com trela bem-vindos na calçada e na maioria das esplanadas; o interior do museu do Pacos do Concelho só admite cães de assistência.`,
+        },
+      },
+      {
+        name: `Krzywa Wieża (Leaning Tower)`,
+        emoji: `🗼`,
+        petFriendly: true,
+        desc: {
+          fr: `Tour défensive du XIIIe siècle intégrée aux remparts, inclinée d'environ 1,5 mètre par rapport à la verticale à cause d'un sous-sol argileux. Une légende locale attribue l'inclinaison à un chevalier teutonique puni. Chiens en laisse bienvenus tout autour à l'extérieur, le café à l'intérieur n'admet que les chiens d'assistance.`,
+          en: `A 13th-century defensive tower built into the city walls, leaning about 1.5 metres off vertical due to clay foundations. Local legend attributes the tilt to a punished Teutonic Knight. Leashed dogs welcome all around the outside; the interior cafe admits assistance dogs only.`,
+          es: `Torre defensiva del siglo XIII integrada en las murallas, inclinada unos 1,5 metros respecto a la vertical por culpa de un subsuelo arcilloso. Una leyenda local atribuye la inclinación a un caballero teutónico castigado. Perros con correa bienvenidos por todo el exterior; el cafe del interior solo admite perros de asistencia.`,
+          pt: `Torre defensiva do século XIII integrada nas muralhas, inclinada cerca de 1,5 metros em relação à vertical por causa dum subsolo argiloso. Uma lenda local atribui a inclinação a um cavaleiro teutónico castigado. Cães com trela bem-vindos por todo o exterior; o cafe do interior só admite cães de assistência.`,
+        },
+      },
+      {
+        name: `Bulwar Filadelfijski`,
+        emoji: `🌊`,
+        petFriendly: true,
+        desc: {
+          fr: `Promenade au bord de la Vistule sur 2 km au pied des remparts médiévaux, nommée d'après Philadelphie, ville jumelle américaine. Vue carte postale sur les flèches gothiques en brique. Chiens en laisse bienvenus à l'année, toilette pour chiens près de ul. św. Jakuba, petites plages de gravier à basses eaux.`,
+          en: `A 2 km riverside promenade along the Vistula at the foot of the medieval walls, named after Philadelphia, Toruń's American sister city. Postcard view back at the brick Gothic spires. Leashed dogs welcome year-round, dog toilet near ul. św. Jakuba, small gravel beaches at low water.`,
+          es: `Paseo fluvial de 2 km a lo largo del Vístula al pie de las murallas medievales, llamado así por Filadelfia, ciudad hermana americana de Toruń. Vista de postal sobre las agujas góticas de ladrillo. Perros con correa bienvenidos todo el año, aseo canino cerca de ul. św. Jakuba, pequeñas playas de grava en aguas bajas.`,
+          pt: `Passeio ribeirinho de 2 km ao longo do Vístula ao pé das muralhas medievais, com o nome da Filadélfia, cidade gémea americana de Toruń. Vista de postal sobre os pináculos góticos de tijolo. Cães com trela bem-vindos o ano inteiro, casa de banho canina perto da ul. św. Jakuba, pequenas praias de cascalho em águas baixas.`,
+        },
+      },
+      {
+        name: `Park Tysiąclecia (Bydgoskie Przedmieście)`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          fr: `Grand parc paysager du XIXe siècle à l'ouest de la Vieille Ville, avec chênes et marronniers centenaires, deux étangs et larges pelouses. Zone canine clôturée (wybieg) sur la lisière sud, équipée de rampes d'agility. Boucle d'une heure connectée au Bulwar Filadelfijski.`,
+          en: `A large 19th-century landscape park west of the Old Town, with mature oak and chestnut alleys, two ponds, and broad lawns. A fenced off-leash dog zone (wybieg) sits on the southern edge with agility ramps. One-hour loop connected to the Bulwar Filadelfijski.`,
+          es: `Un gran parque paisajístico del siglo XIX al oeste del casco antiguo, con alamedas de viejos robles y castaños, dos estanques y amplias praderas. Una zona canina vallada (wybieg) está en el borde sur con rampas de agility. Circuito de una hora conectado al Bulwar Filadelfijski.`,
+          pt: `Um grande parque paisagístico do século XIX a oeste do centro histórico, com alamedas de carvalhos e castanheiros centenários, dois lagos e amplos prados. Uma zona canina vedada (wybieg) fica na orla sul com rampas de agility. Circuito de uma hora ligado ao Bulwar Filadelfijski.`,
+        },
+      },
+      {
+        name: `Las Bielany`,
+        emoji: `🌲`,
+        petFriendly: true,
+        desc: {
+          fr: `Forêt de pins et chênes de 350 hectares à la lisière nord-ouest de la ville, accessible en bus 27 en 15 minutes. Réseau de sentiers balisés de marche et vélo. Hors laisse toléré sur les sentiers intérieurs, laisse imposée près des entrées.`,
+          en: `A 350-hectare pine and oak forest on the north-west edge of the city, reachable on bus 27 in 15 minutes. Network of marked walking and cycling trails. Off-leash tolerated on inner trails, leash required near entrances.`,
+          es: `Un bosque de pinos y robles de 350 hectáreas en el borde noroeste de la ciudad, accesible en autobús 27 en 15 minutos. Red de senderos señalizados para caminar y para bici. Sin correa tolerado en senderos interiores, correa obligatoria cerca de las entradas.`,
+          pt: `Uma floresta de pinheiros e carvalhos de 350 hectares na orla noroeste da cidade, acessível de autocarro 27 em 15 minutos. Rede de trilhos sinalizados para caminhada e bicicleta. Sem trela tolerado nos trilhos interiores, trela obrigatória perto das entradas.`,
+        },
+      },
+      {
+        name: `Old Town walls and gates circuit`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          fr: `Le circuit des remparts médiévaux conservés autour de la Vieille Ville prend en compte la Porte du Monastère, la Porte du Pont et la Porte des Marins, tous en gothique de brique rouge. Boucle d'une heure entièrement extérieure, chiens en laisse bienvenus à l'année.`,
+          en: `The circuit of surviving medieval walls around the Old Town takes in the Monastery Gate, the Bridge Gate, and the Sailors' Gate, all in red brick Gothic. A one-hour fully outdoor loop, leashed dogs welcome year-round.`,
+          es: `El circuito de las murallas medievales conservadas alrededor del casco antiguo recorre la Puerta del Monasterio, la Puerta del Puente y la Puerta de los Marineros, todas en gótico de ladrillo rojo. Circuito de una hora totalmente al aire libre, perros con correa bienvenidos todo el año.`,
+          pt: `O circuito das muralhas medievais sobreviventes em torno do centro histórico percorre a Porta do Mosteiro, a Porta da Ponte e a Porta dos Marinheiros, todas em gótico de tijolo vermelho. Circuito de uma hora totalmente ao ar livre, cães com trela bem-vindos o ano inteiro.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `MZK Toruń (transports publics) impose laisse pour les chiens et muselière pour les races classées agressives dans trams et bus; les petits chiens en sac de transport fermé voyagent gratuitement.`,
+        `Les onze races classées 'dangereuses' par la loi polonaise exigent un permis municipal; emportez le pedigree pour éviter les confusions.`,
+        `À midi sur le Rynek Staromiejski, la foule des groupes en autocar atteint son maximum; promenez votre chien tôt le matin (avant 10h) ou après 18h.`,
+        `Les amendes pour déjections dans le centre atteignent 500 PLN; les agents municipaux contrôlent près du Rynek et du Bulwar Filadelfijski, ayez toujours des sacs.`,
+        `La Vistule a un courant fort et n'est pas sûre pour la baignade; pour un vrai bain de chien, préférez le lac Chełmżyńskie à 25 km au nord, accessible en train depuis Toruń Główny.`,
+      ],
+      en: [
+        `MZK Toruń public transport requires a leash for all dogs and a muzzle for breeds classified as aggressive on trams and buses; small dogs in a closed carrier travel free.`,
+        `Poland's eleven listed 'dangerous breeds' require a city hall permit; carry pedigree papers to avoid confusion with look-alikes.`,
+        `At noon the Rynek Staromiejski coach-group crowds peak; walk your dog early morning (before 10:00) or after 18:00.`,
+        `Dog-waste fines in the city centre reach 500 PLN; municipal officers patrol near the Rynek and the Bulwar Filadelfijski, always carry bags.`,
+        `The Vistula current is strong and unsafe for swimming; for a real dog swim, head to Lake Chełmżyńskie 25 km north, reachable by train from Toruń Główny.`,
+      ],
+      es: [
+        `MZK Toruń (transporte público) exige correa para todos los perros y bozal para las razas clasificadas como agresivas en tranvías y autobuses; los perros pequeños en transportín cerrado viajan gratis.`,
+        `Las once razas clasificadas como 'peligrosas' por la ley polaca requieren permiso municipal; lleva el pedigrí para evitar confusiones.`,
+        `Al mediodía en el Rynek Staromiejski la multitud de grupos en autobús alcanza su pico; pasea a tu perro a primera hora (antes de las 10:00) o después de las 18:00.`,
+        `Las multas por heces en el centro llegan a 500 PLN; los agentes municipales patrullan cerca del Rynek y del Bulwar Filadelfijski, lleva siempre bolsas.`,
+        `La corriente del Vístula es fuerte y no es segura para banarse; para un baño de perro de verdad, ve al lago Chełmżyńskie a 25 km al norte, accesible en tren desde Toruń Główny.`,
+      ],
+      pt: [
+        `A MZK Toruń (transportes públicos) exige trela para todos os cães e focinho para as raças classificadas como agressivas em elétricos e autocarros; os cães pequenos em transportadora fechada viajam grátis.`,
+        `As onze raças classificadas como 'perigosas' pela lei polaca exigem licença municipal; leva o pedigree para evitar confusões.`,
+        `Ao meio-dia no Rynek Staromiejski a multidão de grupos de autocarro atinge o pico; passeia o teu cão ao início da manhã (antes das 10:00) ou depois das 18:00.`,
+        `As multas por dejetos no centro chegam a 500 PLN; os agentes municipais patrulham perto do Rynek e do Bulwar Filadelfijski, leva sempre sacos.`,
+        `A corrente do Vístula é forte e não é segura para banhos; para um banho de cão a sério, vai ao lago Chełmżyńskie a 25 km a norte, acessível de comboio desde Toruń Główny.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Voyageurs UE : passeport européen, puce ISO et vaccin antirabique administré au moins 21 jours avant; hors UE, certificat vétérinaire endossé dans les 10 jours précédant l'arrivée.`,
+        `L'aéroport international le plus proche est Bydgoszcz Ignacy Jan Paderewski (BZG), à 45 km à l'ouest; correspondances bus et train régulières depuis Toruń Główny.`,
+        `Cliniques 24h/24 : MAX-VET et Weterynarz 24h Arka Noego (ul. Wybickiego 64A), urgences en anglais; Lecznica Wyszyńskiego pour les soins courants de journée.`,
+        `L'hiver à Toruń oscille entre -3 et 0 °C avec neige de décembre à mars; baume, bottines et manteau pour chiens à poil ras sont essentiels. L'été se situe à 19-23 °C.`,
+        `Bolt, Free Now et iTaxi acceptent les animaux si signalé à la réservation; une serviette sur le siège est la norme courtoise.`,
+      ],
+      en: [
+        `EU travellers need an EU pet passport, ISO microchip, and rabies vaccine administered at least 21 days prior; non-EU travellers need a veterinary health certificate endorsed within 10 days of arrival.`,
+        `The nearest international airport is Bydgoszcz Ignacy Jan Paderewski (BZG), 45 km west; regular bus and train connections from Toruń Główny.`,
+        `24-hour vet clinics include MAX-VET and Weterynarz 24h Arka Noego (ul. Wybickiego 64A), with emergencies handled in English; Lecznica Wyszyńskiego covers daytime routine care.`,
+        `Toruń winters run -3 to 0 °C with snow from December to March; paw balm, booties, and a coat for short-haired breeds are essential. Summers are mild at 19-23 °C.`,
+        `Taxi apps Bolt, Free Now, and iTaxi accept pets when requested at booking; a towel on the seat is expected as a courtesy.`,
+      ],
+      es: [
+        `Viajeros UE: pasaporte europeo, microchip ISO y vacuna antirrábica administrada al menos 21 días antes; fuera de la UE, certificado veterinario sellado en los 10 días previos a la llegada.`,
+        `El aeropuerto internacional más cercano es Bydgoszcz Ignacy Jan Paderewski (BZG), a 45 km al oeste; conexiones regulares de bus y tren desde Toruń Główny.`,
+        `Clínicas 24 h: MAX-VET y Weterynarz 24h Arka Noego (ul. Wybickiego 64A), urgencias en inglés; Lecznica Wyszyńskiego cubre los cuidados rutinarios de día.`,
+        `Los inviernos de Toruń oscilan entre -3 y 0 °C con nieve de diciembre a marzo; bálsamo, botines y abrigo para razas de pelo corto son esenciales. Los veranos rondan los 19-23 °C.`,
+        `Las apps Bolt, Free Now e iTaxi aceptan mascotas al indicarlo al reservar; una toalla en el asiento es la norma de cortesía.`,
+      ],
+      pt: [
+        `Viajantes UE: passaporte europeu, microchip ISO e vacina antirrábica administrada pelo menos 21 dias antes; fora da UE, certificado veterinário endossado nos 10 dias prévios à chegada.`,
+        `O aeroporto internacional mais perto é Bydgoszcz Ignacy Jan Paderewski (BZG), a 45 km a oeste; ligações regulares de autocarro e comboio desde Toruń Główny.`,
+        `Clínicas 24 h: MAX-VET e Weterynarz 24h Arka Noego (ul. Wybickiego 64A), urgências geridas em inglês; Lecznica Wyszyńskiego cobre os cuidados de rotina diurnos.`,
+        `Os invernos de Toruń oscilam entre -3 e 0 °C com neve de dezembro a março; bálsamo, botas e casaco para raças de pelo curto são essenciais. Os verões rondam os 19-23 °C.`,
+        `As apps Bolt, Free Now e iTaxi aceitam animais ao indicar à reserva; uma toalha no banco é a norma de cortesia.`,
+      ],
+    },
+  },
+
   toulouse: {
     history: {
       fr: `Toulouse, 'La Ville Rose' sur la Garonne, doit sa chaude teinte rose à la brique de terre cuite fabriquée avec l'argile du fleuve depuis l'époque romaine, où elle s'appelait Tolosa. Capitale des comtes médiévaux de Toulouse et berceau de la poésie des troubadours, elle s'enrichit au XVIe siècle grâce au commerce du pastel qui paya ses hôtels particuliers Renaissance. C'est aujourd'hui la quatrième ville de France et la capitale européenne de l'aérospatiale, siège d'Airbus et de la Cité de l'Espace. Les quais de la Garonne et le Canal du Midi du XVIIe siècle, classé UNESCO et œuvre de Pierre-Paul Riquet, forment une promenade fluviale presque ininterrompue, largement ombragée de platanes et dog-friendly. Avec la Prairie des Filtres et ses prairies sans laisse em plein centre, Toulouse figure parmi les villes françaises les plus accueillantes pour les chiens.`,

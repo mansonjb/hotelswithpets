@@ -736,6 +736,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Park Cytadela with its panoramic terrace over the Old Town, the Lake Malta 5 km lakeside loop, and the Wielkopolska National Park 30 km south for proper forest hikes`,
       area: `the Old Town around the Stary Rynek and Cathedral Island, the bohemian Jezyce district, and the Solacz neighbourhood with its Art Nouveau park`,
     },
+    torun: {
+      personality: `a UNESCO Old Town of brick Gothic on the Vistula, the birthplace of Nicolaus Copernicus, with two medieval market squares, the Leaning Tower built into the city walls, and a flat compact core that is walkable in fifteen minutes with a dog`,
+      highlight: `the Rynek Staromiejski under the Gothic Town Hall, the Leaning Tower and the ramparts walk along the Vistula, and the Bulwar Filadelfijski riverside under the medieval walls`,
+      area: `the UNESCO Old Town around the Rynek Staromiejski, the riverside along the Bulwar Filadelfijski, and the leafy Bydgoskie Przedmiescie district west of the centre`,
+    },
     // Tier 2
     prague: {
       personality: 'a compact, walkable city where dogs are welcome in most pubs, wine bars, and even some indoor markets',
@@ -1709,6 +1714,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le parc de la Citadelle (Cytadela) avec sa terrasse panoramique sur la Vieille Ville, la boucle de 5 km autour du lac Malta et le Parc national de Wielkopolska à 30 km au sud pour de vraies randonnées en forêt`,
       area: `la Vieille Ville autour du Stary Rynek et l'Île de la Cathédrale, le quartier bohème de Jeżyce et le quartier Solacz avec son parc Art nouveau`,
     },
+    torun: {
+      personality: `une Vieille Ville UNESCO en brique gothique sur la Vistule, ville natale de Nicolas Copernic, avec deux places de marché médiévales, la Tour Penchée intégrée aux remparts, et un cœur plat et compact que l'on traverse à pied en quinze minutes avec un chien`,
+      highlight: `le Rynek Staromiejski au pied de l'Hôtel de Ville gothique, la Tour Penchée et le sentier des remparts le long de la Vistule, et le Bulwar Filadelfijski au bord du fleuve sous les murs médiévaux`,
+      area: `la Vieille Ville UNESCO autour du Rynek Staromiejski, le bord de fleuve le long du Bulwar Filadelfijski, et le quartier verdoyant de Bydgoskie Przedmieście à l'ouest du centre`,
+    },
     prague: {
       personality: 'une ville compacte et marchable où les chiens sont les bienvenus dans la plupart des pubs, bars à vins et même certains marchés couverts',
       highlight: 'les parcs Stromovka et Letná, et les sentiers de la vallée de Nusle au bord de la rivière',
@@ -2681,6 +2691,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el parque de la Ciudadela (Cytadela) con su terraza panorámica sobre el Casco Antiguo, el circuito de 5 km alrededor del lago Malta y el Parque Nacional de Wielkopolska a 30 km al sur para auténticas caminatas por el bosque`,
       area: `el Casco Antiguo en torno al Stary Rynek y la Isla de la Catedral, el bohemio barrio de Jeżyce y el barrio de Sołacz con su parque modernista`,
     },
+    torun: {
+      personality: `un casco antiguo UNESCO de gótico de ladrillo sobre el Vístula, ciudad natal de Nicolás Copérnico, con dos plazas medievales del mercado, la Torre Inclinada integrada en las murallas y un núcleo plano y compacto que se cruza a pie en quince minutos con un perro`,
+      highlight: `el Rynek Staromiejski al pie del Ayuntamiento gótico, la Torre Inclinada y el sendero de las murallas a lo largo del Vístula, y el Bulwar Filadelfijski junto al río bajo las murallas medievales`,
+      area: `el casco antiguo UNESCO en torno al Rynek Staromiejski, la orilla del Vístula a lo largo del Bulwar Filadelfijski, y el verde barrio de Bydgoskie Przedmieście al oeste del centro`,
+    },
     prague: {
       personality: 'una ciudad compacta y transitable donde los perros son bienvenidos en la mayoría de los pubs, bares de vinos e incluso algunos mercados cubiertos',
       highlight: 'los parques Stromovka y Letná, y los senderos del Valle de Nusle junto al río',
@@ -3652,6 +3667,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `o berço do Estado polaco, fundada em 966 na Ilha da Catedral, com uma das maiores praças medievais da Europa (Stary Rynek), o lago Malta de 64 hectares em plena cidade e cerca de quarenta zonas caninas vedadas espalhadas pelo centro`,
       highlight: `o parque da Cidadela (Cytadela) com o seu terraço panorâmico sobre o centro histórico, o circuito de 5 km à volta do lago Malta e o Parque Nacional de Wielkopolska a 30 km a sul para verdadeiras caminhadas na floresta`,
       area: `o centro histórico em torno do Stary Rynek e da Ilha da Catedral, o boémio bairro de Jeżyce e o bairro de Sołacz com o seu parque Arte Nova`,
+    },
+    torun: {
+      personality: `um centro histórico UNESCO de gótico de tijolo sobre o Vístula, cidade natal de Nicolau Copérnico, com duas praças medievais do mercado, a Torre Inclinada integrada nas muralhas e um núcleo plano e compacto que se atravessa a pé em quinze minutos com um cão`,
+      highlight: `o Rynek Staromiejski ao pé do Pacos do Concelho gótico, a Torre Inclinada e o trilho das muralhas ao longo do Vístula, e o Bulwar Filadelfijski junto ao rio sob as muralhas medievais`,
+      area: `o centro histórico UNESCO em torno do Rynek Staromiejski, a margem do Vístula ao longo do Bulwar Filadelfijski, e o verdejante bairro de Bydgoskie Przedmieście a oeste do centro`,
     },
     prague: {
       personality: 'uma cidade compacta e transitable onde os cães são bem-vindos en a maioria dos pubs, bares de vinos e mesmo algunos mercados cubiertos',

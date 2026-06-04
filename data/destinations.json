@@ -10818,80 +10818,6 @@
     "tiqetsId": "64162"
   },
   {
-    "slug": "reims",
-    "name": "Reims",
-    "country": "France",
-    "flag": "🇫🇷",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/reims.jpg",
-    "intro": "Reims, the coronation city of French kings and the capital of Champagne, combines the UNESCO Notre-Dame Cathedral (33 kings crowned), the Palais du Tau, the Pommery cellar gardens, and direct TGV access from Paris Gare de l'Est in 45 minutes.",
-    "lat": 49.2583,
-    "lng": 4.0317,
-    "weather": {
-      "jan": {
-        "temp": 4,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 9,
-        "desc": "Mild & breezy",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 12,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 20,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 23,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 22,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      }
-    },
-    "iata": "CDG"
-  },
-  {
     "slug": "regensburg",
     "name": "Regensburg",
     "country": "Germany",
@@ -10965,6 +10891,80 @@
       }
     },
     "iata": "MUC"
+  },
+  {
+    "slug": "reims",
+    "name": "Reims",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/reims.jpg",
+    "intro": "Reims, the coronation city of French kings and the capital of Champagne, combines the UNESCO Notre-Dame Cathedral (33 kings crowned), the Palais du Tau, the Pommery cellar gardens, and direct TGV access from Paris Gare de l'Est in 45 minutes.",
+    "lat": 49.2583,
+    "lng": 4.0317,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "CDG"
   },
   {
     "slug": "rennes",
@@ -12689,6 +12689,81 @@
     },
     "iata": "MAD",
     "tiqetsId": "170113"
+  },
+  {
+    "slug": "torun",
+    "name": "Torun",
+    "country": "Poland",
+    "countryCode": "PL",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/torun.jpg",
+    "intro": "Torun is the UNESCO Old Town of brick Gothic and the birthplace of Nicolaus Copernicus, a flat medieval city on the Vistula where the entire historic core is walkable on a leash. The Rynek Staromiejski with its monumental Gothic Town Hall, the Leaning Tower (Krzywa Wieza) on the medieval walls, and the riverside Bulwar Filadelfijski all welcome leashed dogs year-round, while indoor museums (Copernicus House, Gingerbread Museum) admit assistance dogs only. MZK Torun trams and buses accept dogs on leash with the owner, around twenty fenced off-leash dog zones (wybiegi) are scattered across the city, and the cafe terraces around the two market squares welcome leashed dogs without fuss.",
+    "lat": 53.0138,
+    "lng": 18.5984,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warmest month",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      }
+    },
+    "iata": "BZG"
   },
   {
     "slug": "toulon",

@@ -56,6 +56,7 @@ const TARGETS = [
   { slug: 'cologne',       query: 'Cologne Cathedral Rhine river' },
   { slug: 'san-sebastian', query: 'La Concha beach San Sebastian' },
   { slug: 'toulouse',      query: 'Place du Capitole Toulouse' },
+  { slug: 'torun',         query: 'Torun Poland UNESCO Old Town brick Gothic Town Hall Leaning Tower Vistula panorama sunset' },
   { slug: 'bilbao',        query: 'Guggenheim Museum Bilbao titanium exterior' },
   { slug: 'montpellier',  query: 'Place de la Comedie Montpellier fountain' },
   { slug: 'nantes',       query: 'Chateau des Ducs de Bretagne Nantes' },

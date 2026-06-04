@@ -511,6 +511,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Planty park ring, the Błonia meadows, and the Vistula riverside paths',
       area: 'the Old Town, Kazimierz, and Podgórze',
     },
+    kaunas: {
+      personality: `Lithuania's interwar capital from 1919 to 1939, a compact 294,000-resident river city where 1,500 UNESCO-inscribed Modernist buildings line a 1.6 km pedestrian boulevard, the Baroque Pažaislis Monastery anchors the Kaunas Lagoon, and two 24/7 vets plus free off-peak dog transport make every walk easy`,
+      highlight: `the UNESCO Modernist Kaunas routes (2023 inscription), the Pažaislis Monastery grounds on the Kaunas Lagoon, and the 63-hectare Ąžuolynas oak grove`,
+      area: `the Old Town along Vilniaus gatvė, the Naujamiestis along Laisvės alėja, and the Žaliakalnis funicular hill`,
+    },
     klaipeda: {
       personality: `Lithuania's only Baltic port and the gateway to the UNESCO Curonian Spit, a compact 150,000-resident city where the free Smiltyne pedestrian ferry takes dogs over to pine forest and white sand in 5 minutes, the Old Town packs Memel-era timber houses and Theatre Square, and a 24/7 referral veterinary hospital backs every itinerary`,
       highlight: `the free Smiltyne ferry to the Curonian Spit forest and beach, Theatre Square with the Aennchen von Tharau statue, and the 12-hectare Sculpture Park`,
@@ -1489,6 +1494,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'anneau du parc Planty, les prairies de Błonia et les chemins riverains de la Vistule',
       area: 'la Vieille Ville, Kazimierz et Podgórze',
     },
+    kaunas: {
+      personality: `capitale provisoire de la Lituanie de 1919 à 1939, ville fluviale compacte de 294 000 habitants où 1 500 bâtiments modernistes classés UNESCO bordent un boulevard piéton de 1,6 km, le monastère baroque de Pažaislis surplombe la lagune de Kaunas, et deux vétérinaires 24h/24 plus la gratuité hors heures de pointe rendent chaque balade simple`,
+      highlight: `les circuits UNESCO Modernist Kaunas (inscription 2023), le domaine du monastère de Pažaislis sur la lagune de Kaunas, et la chênaie d'Ąžuolynas de 63 hectares`,
+      area: `la vieille ville le long de Vilniaus gatvė, Naujamiestis le long de Laisvės alėja, et la colline du funiculaire de Žaliakalnis`,
+    },
     klaipeda: {
       personality: `seul port balte de Lituanie et porte d'entrée du Cordon de Courlande classé UNESCO, ville à taille humaine de 150 000 habitants où le ferry piéton gratuit pour Smiltyne emmène les chiens vers la pinède et le sable blanc en 5 minutes, où la vieille ville aligne maisons en bois de l'époque Memel et Theatre Square, et où un hôpital vétérinaire de référence 24h/24 sécurise tout itinéraire`,
       highlight: `le ferry gratuit pour Smiltyne vers la forêt et la plage du Cordon de Courlande, Theatre Square avec la statue d'Aennchen von Tharau, et le Parc des Sculptures de 12 hectares`,
@@ -2466,6 +2476,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el anillo del parque Planty, los prados de Błonia y los senderos ribereños del Vístula',
       area: 'el Casco Antiguo, Kazimierz y Podgórze',
     },
+    kaunas: {
+      personality: `capital provisional de Lituania entre 1919 y 1939, una compacta ciudad fluvial de 294.000 habitantes donde 1.500 edificios modernistas inscritos por la UNESCO bordean un bulevar peatonal de 1,6 km, el monasterio barroco de Pažaislis domina la laguna de Kaunas, y dos veterinarios 24/7 más la gratuidad fuera de horas punta hacen fácil cada paseo`,
+      highlight: `las rutas UNESCO Modernist Kaunas (inscripción 2023), el dominio del monasterio de Pažaislis en la laguna de Kaunas, y el robledal de Ąžuolynas de 63 hectáreas`,
+      area: `el Casco Antiguo a lo largo de Vilniaus gatvė, Naujamiestis a lo largo de Laisvės alėja, y la colina del funicular de Žaliakalnis`,
+    },
     klaipeda: {
       personality: `único puerto báltico de Lituania y puerta al Istmo de Curlandia clasificado UNESCO, una ciudad compacta de 150.000 habitantes donde el ferry peatonal gratuito a Smiltyne lleva a los perros al pinar y la arena blanca en 5 minutos, el Casco Antiguo reúne casas de madera de la época Memel y Theatre Square, y un hospital veterinario de referencia 24/7 respalda cualquier itinerario`,
       highlight: `el ferry gratuito a Smiltyne hacia el bosque y la playa del Istmo de Curlandia, Theatre Square con la estatua de Aennchen von Tharau, y el Parque de Esculturas de 12 hectáreas`,
@@ -3442,6 +3457,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade histórica polaca onde o anillo de jardins Planty que rodea o centro histórico a convierte en uno dos destinos mais transitables de Europa Central para os cães',
       highlight: 'o anillo do parque Planty, os prados de Błonia e os trilhos riberenhos do Vístula',
       area: 'o Centro histórico, Kazimierz e Podgórze',
+    },
+    kaunas: {
+      personality: `capital provisória da Lituânia entre 1919 e 1939, uma cidade fluvial compacta de 294.000 habitantes onde 1.500 edifícios modernistas inscritos pela UNESCO ladeiam um boulevard pedonal de 1,6 km, o mosteiro barroco de Pažaislis domina a lagoa de Kaunas, e dois veterinários 24/7 mais a gratuitidade fora das horas de ponta tornam cada passeio simples`,
+      highlight: `as rotas UNESCO Modernist Kaunas (inscrição 2023), o domínio do mosteiro de Pažaislis na lagoa de Kaunas, e o carvalhal de Ąžuolynas de 63 hectares`,
+      area: `o Centro Histórico ao longo de Vilniaus gatvė, Naujamiestis ao longo de Laisvės alėja, e a colina do funicular de Žaliakalnis`,
     },
     klaipeda: {
       personality: `único porto báltico da Lituânia e porta de entrada para o Istmo da Curlândia classificado UNESCO, uma cidade compacta de 150.000 habitantes onde o ferry pedonal grátis para Smiltyne leva os cães até ao pinhal e à areia branca em 5 minutos, o Centro histórico reúne casas de madeira da época Memel e Theatre Square, e um hospital veterinário de referência 24/7 apoia qualquer itinerário`,

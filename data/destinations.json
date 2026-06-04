@@ -7212,6 +7212,81 @@
     "countryCode": "LV"
   },
   {
+    "slug": "kaunas",
+    "name": "Kaunas",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "flag": "🇱🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/kaunas.jpg",
+    "intro": "Kaunas, Lithuania's interwar capital from 1919 to 1939, is built around the 1.6 km Laisvės alėja pedestrian boulevard and 1,500 UNESCO-inscribed Modernist buildings (2023 World Heritage listing), with the Baroque Pažaislis Monastery on the Kaunas Lagoon, 63 hectares of mature oak grove at Ąžuolynas, dog-friendly buses and trolleybuses, and two 24/7 emergency vets.",
+    "lat": 54.8985,
+    "lng": 23.9036,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 2,
+        "desc": "Cool & overcast",
+        "icon": "🌨️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    },
+    "iata": "KUN"
+  },
+  {
     "slug": "klagenfurt",
     "name": "Klagenfurt am Wörthersee",
     "country": "Austria",

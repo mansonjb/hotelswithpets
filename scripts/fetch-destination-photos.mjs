@@ -24,6 +24,7 @@ async function loadApiKey() {
 
 // Slug → query targeting a photogenic, pet-relevant landmark
 const TARGETS = [
+  { slug: 'kaunas',        query: 'Kaunas Lithuania Old Town Town Hall Pažaislis Monastery Modernist UNESCO Laisvės Alėja panorama sunset' },
   { slug: 'regensburg',    query: 'Regensburg Germany Steinerne Brucke stone bridge Cathedral Danube UNESCO old town panorama sunset' },
   { slug: 'poznan',        query: 'Poznan Poland Stary Rynek Old Market Square Town Hall colorful tenements Renaissance panorama sunset' },
   { slug: 'freiburg',      query: 'Freiburg Germany Munsterplatz Cathedral Bachle cobbled streets Schwabentor Black Forest panorama sunset' },

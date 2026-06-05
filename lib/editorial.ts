@@ -521,6 +521,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the free Smiltyne ferry to the Curonian Spit forest and beach, Theatre Square with the Aennchen von Tharau statue, and the 12-hectare Sculpture Park`,
       area: `the Old Town along Tiltu and Turgaus streets, the Dane river waterfront, and Smiltyne across the lagoon`,
     },
+    lagos: {
+      personality: `the western Algarve's most dog-tolerant base, a 16th-century walled old town wrapped in pedestrian lanes and pavement terraces, the ochre limestone cliffs of Ponta da Piedade with their 4 km clifftop boardwalk, the 4 km Meia Praia dune for off-season runs and a year-round dog zone at Praia de Porto de Mós`,
+      highlight: `the Ponta da Piedade clifftop boardwalk, the 4 km off-season Meia Praia dune, and the year-round dog zone at Praia de Porto de Mós`,
+      area: `the walled old town around Praça Gil Eanes and Praça do Infante, the Marina de Lagos waterfront and the residential Chinicato outskirts`,
+    },
     lausanne: {
       personality: 'Switzerland\'s Olympic Capital on Lake Geneva, one of Europe\'s most naturally dog-welcoming cities, where dogs ride the metro free, roam the 200-hectare Sauvabelin forest, and are welcomed in virtually every restaurant',
       highlight: 'the Forêt de Sauvabelin urban forest, the Lavaux UNESCO vineyard trail along the lake, and the Ouchy lakefront promenade',
@@ -1524,6 +1529,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le ferry gratuit pour Smiltyne vers la forêt et la plage du Cordon de Courlande, Theatre Square avec la statue d'Aennchen von Tharau, et le Parc des Sculptures de 12 hectares`,
       area: `la vieille ville le long des rues Tiltu et Turgaus, le front de la rivière Dane, et Smiltyne de l'autre côté de la lagune`,
     },
+    lagos: {
+      personality: `la base la plus dog-tolerant de l'ouest de l'Algarve, vieille ville fortifiée du XVIᵉ siècle parcourue de ruelles piétonnes et de terrasses de trottoir, falaises calcaires ocre de Ponta da Piedade avec leur pontón de 4 km, dune de 4 km de Meia Praia pour les courses hors saison et zone canine permanente à Praia de Porto de Mós`,
+      highlight: `le pontón de falaise de Ponta da Piedade, la dune de Meia Praia de 4 km en demi-saison et la zone canine permanente de Praia de Porto de Mós`,
+      area: `la vieille ville fortifiée autour de la Praça Gil Eanes et de la Praça do Infante, le front de la Marina de Lagos et la périphérie résidentielle de Chinicato`,
+    },
     lausanne: {
       personality: 'la Capitale Olympique suisse sur le lac Léman, l\'une des villes les plus naturellement dog-friendly d\'Europe, où les chiens prennent le métro gratuitement, se promènent dans la forêt de Sauvabelin de 200 hectares et sont accueillis dans pratiquement chaque restaurant',
       highlight: 'la Forêt de Sauvabelin, le sentier viticole UNESCO du Lavaux et la promenade du bord du lac d\'Ouchy',
@@ -2526,6 +2536,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el ferry gratuito a Smiltyne hacia el bosque y la playa del Istmo de Curlandia, Theatre Square con la estatua de Aennchen von Tharau, y el Parque de Esculturas de 12 hectáreas`,
       area: `el Casco Antiguo a lo largo de las calles Tiltu y Turgaus, el frente del río Dane, y Smiltyne al otro lado de la laguna`,
     },
+    lagos: {
+      personality: `la base más dog-tolerant del oeste del Algarve, casco antiguo amurallado del siglo XVI atravesado por callejones peatonales y terrazas adoquinadas, acantilados calizos ocres de Ponta da Piedade con su pasarela de 4 km, duna de 4 km de Meia Praia para carreras fuera de temporada y zona canina permanente en Praia de Porto de Mós`,
+      highlight: `la pasarela de acantilado de Ponta da Piedade, la duna de Meia Praia de 4 km en temporada baja y la zona canina permanente de Praia de Porto de Mós`,
+      area: `el casco antiguo amurallado en torno a la Praça Gil Eanes y la Praça do Infante, el frente de la Marina de Lagos y la periferia residencial de Chinicato`,
+    },
     lausanne: {
       personality: 'la Capital Olímpica suiza en el lago Lemán, una de las ciudades más naturalmente acogedoras para perros de Europa, donde los perros viajan en metro gratis, recorren el bosque de Sauvabelin de 200 hectáreas y son bienvenidos en prácticamente todos los restaurantes',
       highlight: 'el Forêt de Sauvabelin, el sendero vitícola UNESCO del Lavaux y el paseo lacustre de Ouchy',
@@ -3527,6 +3542,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `único porto báltico da Lituânia e porta de entrada para o Istmo da Curlândia classificado UNESCO, uma cidade compacta de 150.000 habitantes onde o ferry pedonal grátis para Smiltyne leva os cães até ao pinhal e à areia branca em 5 minutos, o Centro histórico reúne casas de madeira da época Memel e Theatre Square, e um hospital veterinário de referência 24/7 apoia qualquer itinerário`,
       highlight: `o ferry grátis para Smiltyne em direção à floresta e à praia do Istmo da Curlândia, Theatre Square com a estátua de Aennchen von Tharau, e o Parque das Esculturas de 12 hectares`,
       area: `o Centro histórico ao longo das ruas Tiltu e Turgaus, a frente do rio Dane, e Smiltyne do outro lado da lagoa`,
+    },
+    lagos: {
+      personality: `a base mais dog-tolerant do oeste do Algarve, cidade velha amuralhada do século XVI atravessada por ruelas pedonais e esplanadas calcetadas, falésias calcárias ocres da Ponta da Piedade com o seu passadiço de 4 km, duna de 4 km da Meia Praia para corridas fora de época e zona canina permanente na Praia de Porto de Mós`,
+      highlight: `o passadiço de falésia da Ponta da Piedade, a duna da Meia Praia de 4 km na meia-estação e a zona canina permanente da Praia de Porto de Mós`,
+      area: `a cidade velha amuralhada em torno da Praça Gil Eanes e da Praça do Infante, a frente da Marina de Lagos e a periferia residencial de Chinicato`,
     },
     lausanne: {
       personality: 'a Capital Olímpica suiza no lago Lemán, uma das cidades mais naturalmente acogedoras para cães de Europa, onde os cães viajan no metro grátis, recorren o floresta de Sauvabelin de 200 hectáreas e são bem-vindos en prácticamente todos os restaurantes',

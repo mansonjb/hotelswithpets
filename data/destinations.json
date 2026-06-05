@@ -7512,6 +7512,33 @@
     "tiqetsId": "46"
   },
   {
+    "slug": "lagos",
+    "name": "Lagos",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/lagos.jpg",
+    "intro": "Lagos in the western Algarve combines a 16th-century walled old town, the ochre limestone cliffs of Ponta da Piedade with a 4 km dog-friendly clifftop boardwalk, the 4 km Meia Praia dune (one of Portugal's best off-season dog beaches), the year-round dog zone at Praia de Porto de Mós, and a mild oceanic climate that stays pet-friendly from October through May.",
+    "lat": 37.1028,
+    "lng": -8.6736,
+    "weather": {
+      "jan": { "temp": 15, "desc": "Mild & sunny", "icon": "⛅" },
+      "feb": { "temp": 16, "desc": "Mild & sunny", "icon": "⛅" },
+      "mar": { "temp": 17, "desc": "Mild & breezy", "icon": "☀️" },
+      "apr": { "temp": 19, "desc": "Warm & sunny", "icon": "☀️" },
+      "may": { "temp": 22, "desc": "Warm & sunny", "icon": "☀️" },
+      "jun": { "temp": 25, "desc": "Hot & sunny", "icon": "☀️" },
+      "jul": { "temp": 27, "desc": "Hot & dry", "icon": "☀️" },
+      "aug": { "temp": 27, "desc": "Hot & dry", "icon": "☀️" },
+      "sep": { "temp": 25, "desc": "Warm & sunny", "icon": "☀️" },
+      "oct": { "temp": 22, "desc": "Warm & pleasant", "icon": "☀️" },
+      "nov": { "temp": 18, "desc": "Mild & breezy", "icon": "⛅" },
+      "dec": { "temp": 15, "desc": "Mild & sunny", "icon": "⛅" }
+    },
+    "iata": "FAO"
+  },
+  {
     "slug": "lausanne",
     "name": "Lausanne",
     "country": "Switzerland",

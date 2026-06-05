@@ -11717,6 +11717,33 @@
     "tiqetsId": "66172"
   },
   {
+    "slug": "sankt-polten",
+    "name": "Sankt Pölten",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/sankt-polten.jpg",
+    "intro": "Lower Austria's quiet capital, a 56,000-resident city on the Traisen river with a pedestrian Baroque Altstadt, the modernist Government Quarter and Klangturm tower, and the Wachau wine villages of Dürnstein, Spitz and Krems all within 45 minutes. Vienna is 25 minutes by Railjet.",
+    "lat": 48.2047,
+    "lng": 15.6256,
+    "weather": {
+      "jan": {"temp": 0, "desc": "Cold, snow possible", "icon": "❄️"},
+      "feb": {"temp": 2, "desc": "Cold, dry", "icon": "❄️"},
+      "mar": {"temp": 7, "desc": "Cool spring", "icon": "🌤️"},
+      "apr": {"temp": 12, "desc": "Mild spring", "icon": "🌸"},
+      "may": {"temp": 17, "desc": "Warm, ideal", "icon": "☀️"},
+      "jun": {"temp": 20, "desc": "Warm, wine valley", "icon": "🌤️"},
+      "jul": {"temp": 22, "desc": "Warm afternoons", "icon": "☀️"},
+      "aug": {"temp": 22, "desc": "Warm afternoons", "icon": "☀️"},
+      "sep": {"temp": 17, "desc": "Mild autumn", "icon": "🌤️"},
+      "oct": {"temp": 11, "desc": "Crisp autumn", "icon": "🍂"},
+      "nov": {"temp": 5, "desc": "Cool, foggy", "icon": "🌫️"},
+      "dec": {"temp": 1, "desc": "Cold, festive", "icon": "🎄"}
+    },
+    "iata": "VIE"
+  },
+  {
     "slug": "santiago-de-compostela",
     "name": "Santiago de Compostela",
     "country": "Spain",

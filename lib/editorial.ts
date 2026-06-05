@@ -807,6 +807,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'La Concha and Zurriola beaches (October–May), Monte Urgull\'s hill trails, and the Paseo Nuevo coastal path',
       area: 'the Old Town (Parte Vieja), Gros, and the Antiguo district near Monte Igueldo',
     },
+    'sankt-polten': {
+      personality: `Lower Austria's quiet 56,000-resident capital on the Traisen river, with a pedestrian Baroque Altstadt, the modernist Government Quarter and Klangturm tower, and the Wachau wine villages of Dürnstein, Spitz and Krems all within 45 minutes`,
+      highlight: `the Traisen riverside path through the Traisenpark corridor, the Klangturm rooftop in the Government Quarter, and a Wachau day trip to Dürnstein and Spitz`,
+      area: `the pedestrian Altstadt around the Rathausplatz, the modernist Regierungsviertel on the Traisen, and the Viehofen lake district north of the centre`,
+    },
     'santiago-de-compostela': {
       personality: 'a UNESCO-listed pilgrim capital where the Camino de Santiago has shaped a thousand-year tradition of welcoming dogs through the granite-paved old town',
       highlight: 'the four cathedral squares, the Alameda park with its Carballeira de Santa Susana off-leash zone, and the panoramic Parque de Bonaval',
@@ -1798,6 +1803,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une ville balnéaire basque où les chiens sont parfois plus nombreux que les enfants et où les plages leur ouvrent d\'octobre à mai',
       highlight: 'les plages de La Concha et Zurriola (octobre–mai), les sentiers du Mont Urgull et le Paseo Nuevo sur le front de mer',
       area: 'la Parte Vieja (vieille ville), Gros et le quartier d\'Antiguo près du Mont Igueldo',
+    },
+    'sankt-polten': {
+      personality: `la discrète capitale de Basse-Autriche, 56 000 habitants au bord de la Traisen, avec un Altstadt baroque piéton, le quartier gouvernemental moderniste et sa tour Klangturm, et les villages viticoles de la Wachau (Dürnstein, Spitz et Krems) tous accessibles en 45 minutes`,
+      highlight: `le sentier en bord de Traisen à travers le corridor du Traisenpark, le toit du Klangturm dans le quartier gouvernemental, et une journée dans la Wachau à Dürnstein et Spitz`,
+      area: `l'Altstadt piéton autour de la Rathausplatz, le Regierungsviertel moderniste sur la Traisen, et le quartier des lacs de Viehofen au nord du centre`,
     },
     'santiago-de-compostela': {
       personality: 'la capitale galicienne du pèlerinage classée à l\'UNESCO, où le Chemin de Saint-Jacques a forgé une tradition millénaire d\'accueil des chiens dans la vieille ville pavée de granit',
@@ -2791,6 +2801,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'las playas de La Concha y Zurriola (octubre–mayo), los senderos del Monte Urgull y el Paseo Nuevo junto al mar',
       area: 'la Parte Vieja, Gros y el barrio de Antiguo cerca del Monte Igueldo',
     },
+    'sankt-polten': {
+      personality: `la discreta capital de Baja Austria, 56.000 habitantes junto al río Traisen, con un Altstadt barroco peatonal, el barrio gubernamental modernista y su torre Klangturm, y los pueblos vinícolas de la Wachau (Dürnstein, Spitz y Krems) todos accesibles en 45 minutos`,
+      highlight: `el sendero junto al Traisen por el corredor del Traisenpark, la azotea del Klangturm en el barrio gubernamental, y una jornada por la Wachau en Dürnstein y Spitz`,
+      area: `el Altstadt peatonal en torno a la Rathausplatz, el Regierungsviertel modernista junto al Traisen, y el distrito de los lagos de Viehofen al norte del centro`,
+    },
     'santiago-de-compostela': {
       personality: 'la capital gallega del peregrinaje declarada Patrimonio de la UNESCO, donde el Camino de Santiago ha forjado una tradición milenaria de acoger a los perros en el casco antiguo empedrado de granito',
       highlight: 'las cuatro plazas de la catedral, el parque de la Alameda con su zona sin correa en la Carballeira de Santa Susana y el parque panorámico de Bonaval',
@@ -3782,6 +3797,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade costera vasca onde os cães llegan a ser mais numerosos que os ninhos en algunos bairros e cuyas praias se les abren de outubro a maio',
       highlight: 'as praias da Concha e Zurriola (outubro–maio), os trilhos do Monte Urgull e o Passeio Nuevo junto al mar',
       area: 'a Parte Vieja, Gros e o bairro de Antigo perto do Monte Igueldo',
+    },
+    'sankt-polten': {
+      personality: `a discreta capital da Baixa Áustria, 56.000 habitantes junto ao rio Traisen, com um Altstadt barroco pedonal, o bairro governamental modernista e a sua torre Klangturm, e as aldeias vinícolas da Wachau (Dürnstein, Spitz e Krems) todas acessíveis em 45 minutos`,
+      highlight: `o trilho junto ao Traisen pelo corredor do Traisenpark, o terraço do Klangturm no bairro governamental, e um dia pela Wachau em Dürnstein e Spitz`,
+      area: `o Altstadt pedonal em torno da Rathausplatz, o Regierungsviertel modernista junto ao Traisen, e o distrito dos lagos de Viehofen a norte do centro`,
     },
     'santiago-de-compostela': {
       personality: 'a capital galega da peregrinação classificada pela UNESCO, onde o Caminho de Santiago forjou uma tradição milenar de acolher cães no casco antigo empedrado de granito',

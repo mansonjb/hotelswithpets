@@ -1,0 +1,813 @@
+{
+  "slug": "sankt-polten",
+  "name": "Sankt Pölten",
+  "country": "Austria",
+  "flag": "🇦🇹",
+  "lastUpdated": "2026-06-05",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Sankt Pölten",
+      "titleFr": "Restaurants accueillant les chiens à Sankt Pölten",
+      "titleEs": "Restaurantes pet-friendly en Sankt Pölten",
+      "titlePt": "Restaurantes pet-friendly em Sankt Pölten",
+      "introEn": "Lower Austria's quiet capital wears its Wachau wine identity at the table: Heuriger taverns, Beisl bistros and Italian-leaning bistros line the pedestrian Rathausplatz and Herrenplatz, all welcoming a leashed dog at your feet by default. Compact distances mean you can walk from a riverside lunch on the Traisen to a Baroque-square dinner in under ten minutes.",
+      "introFr": "La discrète capitale de la Basse-Autriche affiche son identité viticole de la Wachau à table : Heuriger, Beisl et bistrots d'inspiration italienne bordent la Rathausplatz et la Herrenplatz piétonnes, tous acceptant un chien en laisse à vos pieds par défaut. Les distances courtes permettent de passer d'un déjeuner au bord de la Traisen à un dîner sur une place baroque en moins de dix minutes.",
+      "introEs": "La discreta capital de Baja Austria luce su identidad vinícola de la Wachau en la mesa: Heuriger, Beisl y bistros de influencia italiana flanquean la Rathausplatz y la Herrenplatz peatonales, todos admitiendo un perro con correa a tus pies por defecto. Las distancias cortas permiten pasar de un almuerzo junto al Traisen a una cena en una plaza barroca en menos de diez minutos.",
+      "introPt": "A discreta capital da Baixa Áustria mostra a sua identidade vinícola da Wachau à mesa: Heuriger, Beisl e bistros de influência italiana ladeiam a Rathausplatz e a Herrenplatz pedonais, todos aceitando um cão com trela aos seus pés por defeito. As distâncias curtas permitem passar de um almoço junto ao Traisen a um jantar numa praça barroca em menos de dez minutos.",
+      "places": [
+        {
+          "name": "Gasthof Graf",
+          "address": "Brunngasse 3, 3100 Sankt Pölten",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/sankt-polten-restaurants-gasthof-graf.jpg",
+          "website": "https://www.gasthof-graf.at/",
+          "description": "A family-run Lower Austrian Beisl one block from the Rathausplatz, serving generous schnitzel, Tafelspitz and seasonal Wachau game in two arched dining rooms and a small inner courtyard. The owners keep a water bowl by the door and welcome calm dogs both inside and out.",
+          "descriptionFr": "Beisl familial de Basse-Autriche à un bloc de la Rathausplatz, servant schnitzel généreux, Tafelspitz et gibier de la Wachau de saison dans deux salles voûtées et une petite cour intérieure. Les propriétaires gardent une gamelle d'eau près de la porte et accueillent les chiens calmes dedans comme dehors.",
+          "descriptionEs": "Beisl familiar de Baja Austria a una manzana de la Rathausplatz, sirviendo schnitzel generoso, Tafelspitz y caza de temporada de la Wachau en dos comedores abovedados y un pequeño patio interior. Los propietarios mantienen un cuenco de agua junto a la puerta y reciben a los perros tranquilos dentro y fuera.",
+          "descriptionPt": "Beisl familiar da Baixa Áustria a um quarteirão da Rathausplatz, servindo schnitzel generoso, Tafelspitz e caça da Wachau de época em duas salas abobadadas e um pequeno pátio interior. Os proprietários mantêm uma taça de água junto à porta e recebem os cães calmos por dentro e por fora.",
+          "petPolicy": "Leashed dogs welcome in courtyard and inner dining room; water bowl provided",
+          "petPolicyFr": "Chiens en laisse bienvenus dans la cour et la salle intérieure ; gamelle d'eau fournie",
+          "petPolicyEs": "Perros con correa bienvenidos en patio y comedor interior; cuenco de agua incluido",
+          "petPolicyPt": "Cães com trela bem-vindos no pátio e sala interior; taça de água incluída",
+          "priceRange": "EUR 14-26 main course",
+          "mustTry": "Wiener Schnitzel mit Erdäpfelsalat and a glass of Traisental Grüner Veltliner",
+          "mustTryFr": "Wiener Schnitzel mit Erdäpfelsalat et un verre de Grüner Veltliner du Traisental",
+          "mustTryEs": "Wiener Schnitzel mit Erdäpfelsalat y una copa de Grüner Veltliner del Traisental",
+          "mustTryPt": "Wiener Schnitzel mit Erdäpfelsalat e um copo de Grüner Veltliner do Traisental",
+          "openingHours": "Mon-Sat 11:00-22:00; closed Sun",
+          "tip": "Ask for the courtyard table in summer; the inner Brunngasse is quieter than Rathausplatz and your dog will rest more easily.",
+          "tipFr": "Demandez la table dans la cour en été ; la Brunngasse intérieure est plus calme que la Rathausplatz et votre chien s'y reposera plus facilement.",
+          "tipEs": "Pide mesa en el patio en verano; la interior Brunngasse es más tranquila que la Rathausplatz y tu perro descansará mejor.",
+          "tipPt": "Peça mesa no pátio no verão; a interior Brunngasse é mais calma que a Rathausplatz e o seu cão descansará melhor.",
+          "googleMapsUrl": "https://maps.google.com/?q=Gasthof+Graf+Sankt+Polten"
+        },
+        {
+          "name": "Palais Wellenstein",
+          "address": "Riemerplatz 1, 3100 Sankt Pölten",
+          "neighborhood": "Riemerplatz",
+          "photo": "/images/city-places/sankt-polten-restaurants-palais-wellenstein.jpg",
+          "website": "https://www.palais-wellenstein.at/",
+          "description": "A handsome Biedermeier palais turned all-day cafe and restaurant on the pedestrian Riemerplatz, with a tree-shaded terrace and Italian-leaning menu from antipasti to Wachau wine pairings. Dogs are part of the regular crowd from morning espressos to evening dinners.",
+          "descriptionFr": "Élégant palais Biedermeier devenu café-restaurant toute la journée sur la Riemerplatz piétonne, avec terrasse ombragée et carte d'inspiration italienne, des antipasti aux accords vins de la Wachau. Les chiens font partie du paysage du matin au dîner.",
+          "descriptionEs": "Elegante palacio Biedermeier convertido en café-restaurante todo el día en la Riemerplatz peatonal, con terraza arbolada y carta de inspiración italiana, desde antipasti a maridajes con vinos de la Wachau. Los perros forman parte del paisaje desde el café de la mañana hasta la cena.",
+          "descriptionPt": "Elegante palácio Biedermeier transformado em café-restaurante de dia inteiro na Riemerplatz pedonal, com esplanada arborizada e carta de inspiração italiana, dos antipasti aos pares de vinhos da Wachau. Os cães fazem parte do cenário da manhã ao jantar.",
+          "petPolicy": "Leashed dogs welcome on terrace and indoor cafe area",
+          "petPolicyFr": "Chiens en laisse bienvenus en terrasse et dans la zone café intérieure",
+          "petPolicyEs": "Perros con correa bienvenidos en terraza y zona café interior",
+          "petPolicyPt": "Cães com trela bem-vindos na esplanada e zona café interior",
+          "priceRange": "EUR 13-28 main course",
+          "mustTry": "Vitello tonnato and a glass of Wachau Riesling",
+          "mustTryFr": "Vitello tonnato et un verre de Riesling de la Wachau",
+          "mustTryEs": "Vitello tonnato y una copa de Riesling de la Wachau",
+          "mustTryPt": "Vitello tonnato e um copo de Riesling da Wachau",
+          "openingHours": "Daily 9:00-23:00",
+          "tip": "The terrace fills fast on Friday evenings when the Riemerplatz hosts open-air concerts; reserve a side table away from the speakers.",
+          "tipFr": "La terrasse se remplit vite les vendredis soirs quand la Riemerplatz accueille des concerts en plein air ; réservez une table latérale loin des enceintes.",
+          "tipEs": "La terraza se llena rápido los viernes por la noche cuando la Riemerplatz acoge conciertos al aire libre; reserva una mesa lateral lejos de los altavoces.",
+          "tipPt": "A esplanada enche rapidamente às sextas à noite quando a Riemerplatz recebe concertos ao ar livre; reserve uma mesa lateral longe das colunas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Palais+Wellenstein+Sankt+Polten"
+        },
+        {
+          "name": "Steinerne Stiege",
+          "address": "Linzer Straße 16, 3100 Sankt Pölten",
+          "neighborhood": "Linzer Straße",
+          "photo": "/images/city-places/sankt-polten-restaurants-steinerne-stiege.jpg",
+          "website": "https://www.steinernestiege.at/",
+          "description": "A laid-back Italian trattoria 3 minutes from the Rathausplatz with wood-fired pizza, fresh pasta and a long, vine-covered courtyard that doubles as one of the city's most relaxed dog-friendly spots. The kitchen runs late and the staff have a steady stock of dog treats.",
+          "descriptionFr": "Trattoria italienne décontractée à 3 minutes de la Rathausplatz avec pizza au feu de bois, pâtes fraîches et une longue cour couverte de vignes qui sert aussi de spot dog-friendly parmi les plus détendus de la ville. La cuisine sert tard et le personnel a toujours des friandises pour chiens.",
+          "descriptionEs": "Tratoría italiana relajada a 3 minutos de la Rathausplatz con pizza al horno de leña, pasta fresca y un largo patio cubierto de parras que es uno de los espacios dog-friendly más relajados de la ciudad. La cocina cierra tarde y el personal siempre tiene golosinas para perros.",
+          "descriptionPt": "Trattoria italiana descontraída a 3 minutos da Rathausplatz com pizza em forno a lenha, massa fresca e um longo pátio coberto de vinhas que é um dos espaços pet-friendly mais relaxados da cidade. A cozinha fecha tarde e o pessoal tem sempre snacks para cães.",
+          "petPolicy": "Leashed dogs welcome on terrace and indoor sala; treats offered to friendly dogs",
+          "petPolicyFr": "Chiens en laisse bienvenus en terrasse et dans la sala intérieure ; friandises offertes aux chiens sociables",
+          "petPolicyEs": "Perros con correa bienvenidos en terraza y sala interior; golosinas ofrecidas a perros sociables",
+          "petPolicyPt": "Cães com trela bem-vindos na esplanada e sala interior; snacks oferecidos a cães sociáveis",
+          "priceRange": "EUR 11-22 main course",
+          "mustTry": "Pizza Tartufo and the homemade tiramisu",
+          "mustTryFr": "Pizza Tartufo et le tiramisu maison",
+          "mustTryEs": "Pizza Tartufo y el tiramisú de la casa",
+          "mustTryPt": "Pizza Tartufo e o tiramisu da casa",
+          "openingHours": "Tue-Sun 11:30-23:00; closed Mon",
+          "tip": "Sit at the back of the courtyard furthest from the entrance; the front section catches Linzer Straße traffic noise.",
+          "tipFr": "Asseyez-vous au fond de la cour, le plus loin de l'entrée ; la partie avant capte le bruit de la Linzer Straße.",
+          "tipEs": "Siéntate al fondo del patio, lejos de la entrada; la parte delantera capta el ruido de la Linzer Straße.",
+          "tipPt": "Sente-se ao fundo do pátio, longe da entrada; a parte da frente capta o ruído da Linzer Straße.",
+          "googleMapsUrl": "https://maps.google.com/?q=Steinerne+Stiege+Sankt+Polten"
+        }
+      ],
+      "tipsEn": [
+        "Lower Austrian Beisl tradition welcomes leashed dogs by default; only fine-dining rooms with white tablecloths sometimes prefer terrace-only seating.",
+        "Lunch is served 11:30-14:00 and dinner 18:00-22:00; many family Gasthof close mid-afternoon, plan around it.",
+        "Try the local Traisental DAC Grüner Veltliner: the Traisen valley starts 5 km north of the centre and supplies most city wine lists."
+      ],
+      "tipsFr": [
+        "La tradition Beisl de Basse-Autriche accueille les chiens en laisse par défaut ; seules les salles gastronomiques avec nappes blanches préfèrent parfois la terrasse.",
+        "Le déjeuner est servi de 11h30 à 14h et le dîner de 18h à 22h ; beaucoup de Gasthof familiaux ferment l'après-midi, planifiez en conséquence.",
+        "Goûtez le Grüner Veltliner Traisental DAC local : la vallée de la Traisen commence à 5 km au nord du centre et fournit la plupart des cartes des vins."
+      ],
+      "tipsEs": [
+        "La tradición Beisl de Baja Austria admite perros con correa por defecto; solo las salas de alta gastronomía con manteles blancos prefieren a veces la terraza.",
+        "El almuerzo se sirve de 11:30 a 14:00 y la cena de 18:00 a 22:00; muchos Gasthof familiares cierran por la tarde, planifica en consecuencia.",
+        "Prueba el Grüner Veltliner Traisental DAC local: el valle del Traisen empieza a 5 km al norte del centro y abastece la mayoría de las cartas de vinos."
+      ],
+      "tipsPt": [
+        "A tradição Beisl da Baixa Áustria aceita cães com trela por defeito; só as salas de alta gastronomia com toalhas brancas preferem por vezes a esplanada.",
+        "O almoço serve-se das 11:30 às 14:00 e o jantar das 18:00 às 22:00; muitos Gasthof familiares fecham à tarde, planeie em conformidade.",
+        "Prove o Grüner Veltliner Traisental DAC local: o vale do Traisen começa a 5 km a norte do centro e abastece a maioria das cartas de vinhos."
+      ],
+      "faqsEn": [
+        {"q": "Are dogs allowed inside Sankt Pölten restaurants?", "a": "Yes, leashed dogs are welcome inside the vast majority of Beisl and Italian-style restaurants. Fine-dining rooms may prefer the terrace, simply ask at the door."},
+        {"q": "Do restaurants provide water bowls?", "a": "Most Rathausplatz and Riemerplatz terraces bring a bowl unprompted; asking for 'Wasser fürs Hunderl, bitte' always works."},
+        {"q": "Can I take my dog to the Heuriger wine taverns in the Traisental?", "a": "Yes, leashed dogs are welcome on Heuriger terraces in the Traisental wine villages 5-15 km north; the seasonal Buschenschank pavilions are particularly relaxed."}
+      ],
+      "faqsFr": [
+        {"q": "Les chiens sont-ils admis à l'intérieur des restaurants de Sankt Pölten ?", "a": "Oui, les chiens en laisse sont bienvenus à l'intérieur de la grande majorité des Beisl et restaurants italiens. La haute gastronomie peut préférer la terrasse, demandez à l'entrée."},
+        {"q": "Les restaurants fournissent-ils des gamelles d'eau ?", "a": "La plupart des terrasses de la Rathausplatz et de la Riemerplatz apportent une gamelle spontanément ; demander 'Wasser fürs Hunderl, bitte' fonctionne toujours."},
+        {"q": "Puis-je emmener mon chien dans les Heuriger du Traisental ?", "a": "Oui, les chiens en laisse sont bienvenus sur les terrasses des Heuriger des villages viticoles du Traisental à 5-15 km au nord ; les Buschenschank saisonniers sont particulièrement détendus."}
+      ],
+      "faqsEs": [
+        {"q": "¿Se admiten perros dentro de los restaurantes de Sankt Pölten?", "a": "Sí, los perros con correa son bienvenidos dentro de la gran mayoría de Beisl y restaurantes italianos. La alta gastronomía puede preferir la terraza, basta con preguntar en la entrada."},
+        {"q": "¿Los restaurantes ofrecen cuencos de agua?", "a": "La mayoría de las terrazas de la Rathausplatz y Riemerplatz traen un cuenco espontáneamente; pedir 'Wasser fürs Hunderl, bitte' siempre funciona."},
+        {"q": "¿Puedo llevar al perro a los Heuriger del Traisental?", "a": "Sí, los perros con correa son bienvenidos en las terrazas de los Heuriger de los pueblos vinícolas del Traisental a 5-15 km al norte; los Buschenschank de temporada son especialmente relajados."}
+      ],
+      "faqsPt": [
+        {"q": "Os cães são admitidos dentro dos restaurantes de Sankt Pölten?", "a": "Sim, cães com trela são bem-vindos dentro da grande maioria de Beisl e restaurantes italianos. A alta gastronomia pode preferir a esplanada, basta perguntar à entrada."},
+        {"q": "Os restaurantes oferecem taças de água?", "a": "A maioria das esplanadas da Rathausplatz e Riemerplatz traz uma taça espontaneamente; pedir 'Wasser fürs Hunderl, bitte' funciona sempre."},
+        {"q": "Posso levar o meu cão aos Heuriger do Traisental?", "a": "Sim, os cães com trela são bem-vindos nas esplanadas dos Heuriger das aldeias vinícolas do Traisental a 5-15 km a norte; os Buschenschank sazonais são particularmente descontraídos."}
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog-Friendly Parks in Sankt Pölten",
+      "titleFr": "Meilleurs parcs canins à Sankt Pölten",
+      "titleEs": "Mejores parques para perros en Sankt Pölten",
+      "titlePt": "Melhores parques para cães em Sankt Pölten",
+      "introEn": "Sankt Pölten's green network follows the Traisen river south to north through the entire city, climbs into the Hammerpark woods east of the centre and runs out to the Viehofener See lake 3 km north. Two signed Hundezonen (Spratzern and Viehofen) provide enclosed off-leash space, while the Traisenpark riverside path is the everyday leashed walk locals favour.",
+      "introFr": "Le réseau vert de Sankt Pölten suit la Traisen du sud au nord à travers toute la ville, grimpe dans les bois du Hammerpark à l'est et s'étend jusqu'au lac Viehofener See à 3 km au nord. Deux Hundezonen signalées (Spratzern et Viehofen) offrent des espaces clôturés sans laisse, tandis que le sentier en bord de Traisen est la promenade en laisse quotidienne préférée des habitants.",
+      "introEs": "La red verde de Sankt Pölten sigue el río Traisen de sur a norte por toda la ciudad, asciende a los bosques del Hammerpark al este y se extiende hasta el lago Viehofener See a 3 km al norte. Dos Hundezonen señalizadas (Spratzern y Viehofen) ofrecen espacios cerrados sin correa, mientras que el sendero junto al Traisen es el paseo con correa favorito de los locales.",
+      "introPt": "A rede verde de Sankt Pölten segue o rio Traisen de sul a norte por toda a cidade, sobe para os bosques do Hammerpark a leste e estende-se até ao lago Viehofener See a 3 km a norte. Duas Hundezonen sinalizadas (Spratzern e Viehofen) oferecem espaços vedados sem trela, enquanto o trilho junto ao Traisen é o passeio com trela diário preferido dos locais.",
+      "places": [
+        {
+          "name": "Traisenpark Riverside Path",
+          "address": "Promenade, 3100 Sankt Pölten",
+          "neighborhood": "Traisen / Altstadt",
+          "photo": "/images/city-places/sankt-polten-parks-traisenpark.jpg",
+          "website": "https://www.st-poelten.at/",
+          "description": "The Traisen riverbanks have been reshaped into a continuous park axis running 4 km through the city, with wide gravel paths, tree shade and direct water access for a quick dog dip. The signed Traisental cycle path R26 follows the same corridor, so keep right and your leash short on busy stretches.",
+          "descriptionFr": "Les berges de la Traisen ont été aménagées en un parc continu de 4 km à travers la ville, avec larges allées de gravier, arbres ombrageux et accès direct à l'eau pour un rapide bain canin. La piste cyclable du Traisental R26 suit le même corridor, gardez la droite et une laisse courte sur les tronçons fréquentés.",
+          "descriptionEs": "Las orillas del Traisen se han remodelado en un eje verde continuo de 4 km a través de la ciudad, con amplios senderos de grava, sombra de árboles y acceso directo al agua para un baño canino rápido. El carril bici del Traisental R26 sigue el mismo corredor, mantente a la derecha y la correa corta en tramos concurridos.",
+          "descriptionPt": "As margens do Traisen foram reformuladas num eixo verde contínuo de 4 km através da cidade, com trilhos largos de gravilha, sombra das árvores e acesso directo à água para um banho rápido do cão. A ciclovia do Traisental R26 segue o mesmo corredor, mantenha-se à direita e a trela curta nos troços movimentados.",
+          "petPolicy": "Leashed dogs welcome year-round; off-leash only inside signed Hundezone enclosures",
+          "petPolicyFr": "Chiens en laisse bienvenus toute l'année ; sans laisse uniquement dans les enclos Hundezone signalés",
+          "petPolicyEs": "Perros con correa bienvenidos todo el año; suelta solo dentro de los recintos Hundezone señalizados",
+          "petPolicyPt": "Cães com trela bem-vindos o ano inteiro; solta apenas dentro dos recintos Hundezone sinalizados",
+          "size": "About 4 km riverside corridor through the city",
+          "facilities": "Benches, bins, water access at low banks, free parking at Promenade",
+          "facilitiesFr": "Bancs, poubelles, accès à l'eau aux berges basses, parking gratuit à la Promenade",
+          "facilitiesEs": "Bancos, papeleras, acceso al agua en orillas bajas, aparcamiento gratis en Promenade",
+          "facilitiesPt": "Bancos, caixotes, acesso à água nas margens baixas, estacionamento grátis na Promenade",
+          "openingHours": "Open 24/7",
+          "tip": "Start at the Promenade footbridge for a flat 60-minute loop north to the Viehofener See and back; the early-morning section before 9:00 is the calmest.",
+          "tipFr": "Démarrez à la passerelle de la Promenade pour une boucle plate de 60 minutes au nord vers le Viehofener See et retour ; le tronçon avant 9h est le plus calme.",
+          "tipEs": "Empieza en la pasarela de la Promenade para un circuito plano de 60 minutos al norte hasta el Viehofener See y vuelta; el tramo antes de las 9:00 es el más tranquilo.",
+          "tipPt": "Comece na passarela da Promenade para um circuito plano de 60 minutos a norte até ao Viehofener See e volta; o troço antes das 9:00 é o mais calmo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Traisenpark+Sankt+Polten"
+        },
+        {
+          "name": "Hammerpark",
+          "address": "Hammerparkstraße, 3100 Sankt Pölten",
+          "neighborhood": "East",
+          "photo": "/images/city-places/sankt-polten-parks-hammerpark.jpg",
+          "website": "https://www.st-poelten.at/",
+          "description": "A 12-hectare wooded park east of the Altstadt with mature oaks, looping gravel paths and a small forest pond. Less manicured than the Traisenpark and a favourite of locals doing 30-45 minute morning walks with their dogs.",
+          "descriptionFr": "Parc boisé de 12 hectares à l'est de l'Altstadt avec chênes matures, allées de gravier en boucle et un petit étang forestier. Moins entretenu que le Traisenpark, prisé des habitants pour des promenades matinales de 30-45 minutes avec leur chien.",
+          "descriptionEs": "Parque arbolado de 12 hectáreas al este del Altstadt con robles maduros, senderos circulares de grava y un pequeño estanque forestal. Menos cuidado que el Traisenpark, favorito de los locales para paseos matinales de 30-45 minutos con su perro.",
+          "descriptionPt": "Parque arborizado de 12 hectares a leste do Altstadt com carvalhos maduros, trilhos circulares de gravilha e um pequeno lago florestal. Menos cuidado que o Traisenpark, favorito dos locais para passeios matinais de 30-45 minutos com o seu cão.",
+          "petPolicy": "Leashed in main park; well-trained dogs tolerated off-leash on quieter forest loops with strong recall",
+          "petPolicyFr": "En laisse dans le parc principal ; chiens éduqués tolérés sans laisse sur les boucles forestières calmes avec bon rappel",
+          "petPolicyEs": "Con correa en parque principal; perros adiestrados tolerados sueltos en circuitos forestales tranquilos con buen llamado",
+          "petPolicyPt": "Com trela no parque principal; cães treinados tolerados soltos nos circuitos florestais calmos com bom chamamento",
+          "size": "About 12 hectares",
+          "facilities": "Benches, bins, parking on Hammerparkstraße",
+          "facilitiesFr": "Bancs, poubelles, parking sur la Hammerparkstraße",
+          "facilitiesEs": "Bancos, papeleras, aparcamiento en Hammerparkstraße",
+          "facilitiesPt": "Bancos, caixotes, estacionamento na Hammerparkstraße",
+          "openingHours": "Open 24/7",
+          "tip": "Park at the western entrance off the B1; the eastern entrance is closer to residential streets and gets busy with children after school.",
+          "tipFr": "Garez-vous à l'entrée ouest depuis la B1 ; l'entrée est est plus proche des rues résidentielles et s'anime avec les enfants après l'école.",
+          "tipEs": "Aparca en la entrada oeste desde la B1; la entrada este está más cerca de calles residenciales y se anima con niños tras la escuela.",
+          "tipPt": "Estacione na entrada oeste a partir da B1; a entrada leste está mais perto de ruas residenciais e anima-se com crianças após a escola.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hammerpark+Sankt+Polten"
+        },
+        {
+          "name": "Hundezone Viehofen",
+          "address": "Viehofner Au, 3100 Sankt Pölten",
+          "neighborhood": "Viehofen / Viehofener See",
+          "photo": "/images/city-places/sankt-polten-parks-hundezone-viehofen.jpg",
+          "website": "https://www.st-poelten.at/",
+          "description": "Signed fenced off-leash zone next to the Viehofener See bathing lake, with a mixed grass and gravel surface and a small water trough. One of two municipal Hundezonen in the city and the largest, around 2,000 sqm.",
+          "descriptionFr": "Zone clôturée sans laisse signalée à côté du lac de baignade Viehofener See, avec surface mixte herbe-gravier et un petit abreuvoir. L'une des deux Hundezonen municipales de la ville et la plus grande, environ 2 000 m².",
+          "descriptionEs": "Zona vallada sin correa señalizada junto al lago de baño Viehofener See, con superficie mixta hierba-grava y un pequeño abrevadero. Una de las dos Hundezonen municipales de la ciudad y la mayor, unos 2.000 m².",
+          "descriptionPt": "Zona vedada sem trela sinalizada junto ao lago de banho Viehofener See, com piso misto relva-gravilha e um pequeno bebedouro. Uma das duas Hundezonen municipais da cidade e a maior, cerca de 2.000 m².",
+          "petPolicy": "Off-leash inside fence; leashed on the path to and from the lake",
+          "petPolicyFr": "Sans laisse à l'intérieur de la clôture ; en laisse sur le chemin vers et depuis le lac",
+          "petPolicyEs": "Suelta dentro de la valla; con correa en el camino al lago y desde el lago",
+          "petPolicyPt": "Solta dentro da vedação; com trela no caminho de e para o lago",
+          "size": "About 2,000 sqm",
+          "facilities": "Water trough, bin, benches",
+          "facilitiesFr": "Abreuvoir, poubelle, bancs",
+          "facilitiesEs": "Abrevadero, papelera, bancos",
+          "facilitiesPt": "Bebedouro, caixote, bancos",
+          "openingHours": "Open 24/7",
+          "tip": "Visit before 10:00 on summer Saturdays to avoid the lake bathers; the dog zone gets crowded once the beach fills.",
+          "tipFr": "Venez avant 10h les samedis d'été pour éviter les baigneurs ; la zone canine se remplit dès que la plage se garnit.",
+          "tipEs": "Visita antes de las 10:00 los sábados de verano para evitar a los bañistas; la zona canina se llena cuando la playa se anima.",
+          "tipPt": "Visite antes das 10:00 aos sábados de verão para evitar os banhistas; a zona canina enche assim que a praia se anima.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hundezone+Viehofen+Sankt+Polten"
+        }
+      ],
+      "tipsEn": [
+        "Lower Austria enforces a general leash-or-muzzle rule in public unless a signed Hundezone is present; Sankt Pölten's official Hundezonen are at Viehofen and Spratzern.",
+        "The Traisen riverside is shared with cyclists on the R26 long-distance route, keep your leash short and pass on the right.",
+        "Hundekot bag dispensers are placed every 200-300 m along the Traisenpark and at all Hundezone entrances; bins are emptied daily in summer."
+      ],
+      "tipsFr": [
+        "La Basse-Autriche applique une règle générale laisse ou muselière en public sauf zone Hundezone signalée ; les Hundezonen officielles de Sankt Pölten sont à Viehofen et Spratzern.",
+        "Le bord de Traisen est partagé avec les cyclistes de la véloroute R26, gardez une laisse courte et croisez par la droite.",
+        "Des distributeurs de sacs Hundekot sont placés tous les 200-300 m le long du Traisenpark et à toutes les entrées de Hundezone ; les poubelles sont vidées tous les jours en été."
+      ],
+      "tipsEs": [
+        "Baja Austria aplica una norma general de correa o bozal en público salvo en Hundezone señalizada; las Hundezonen oficiales de Sankt Pölten están en Viehofen y Spratzern.",
+        "La orilla del Traisen se comparte con ciclistas de la ruta R26, mantén la correa corta y cruza por la derecha.",
+        "Hay dispensadores de bolsas Hundekot cada 200-300 m a lo largo del Traisenpark y en todas las entradas de Hundezone; las papeleras se vacían a diario en verano."
+      ],
+      "tipsPt": [
+        "A Baixa Áustria aplica uma regra geral de trela ou açaime em público salvo em Hundezone sinalizada; as Hundezonen oficiais de Sankt Pölten estão em Viehofen e Spratzern.",
+        "A margem do Traisen é partilhada com ciclistas da ciclovia R26, mantenha a trela curta e cruze pela direita.",
+        "Há dispensadores de sacos Hundekot a cada 200-300 m ao longo do Traisenpark e em todas as entradas de Hundezone; os caixotes são despejados diariamente no verão."
+      ],
+      "faqsEn": [
+        {"q": "Are there off-leash areas in Sankt Pölten?", "a": "Yes, two signed Hundezonen at Viehofen (next to the lake) and Spratzern; both are fenced enclosures rather than open parks."},
+        {"q": "Can my dog swim in the Viehofener See?", "a": "Dogs are not allowed inside the paid Strandbad bathing area but can swim from the northern free-access reedy banks near the Hundezone."},
+        {"q": "Is the Traisen river path good for dog walking?", "a": "Yes, the 4 km Traisenpark corridor is flat, shaded and the most popular leashed walk in the city; shared with cyclists on the R26 route."}
+      ],
+      "faqsFr": [
+        {"q": "Y a-t-il des zones sans laisse à Sankt Pölten ?", "a": "Oui, deux Hundezonen signalées à Viehofen (à côté du lac) et Spratzern ; toutes deux clôturées plutôt que parcs ouverts."},
+        {"q": "Mon chien peut-il nager dans le Viehofener See ?", "a": "Les chiens ne sont pas admis dans la zone de baignade payante du Strandbad mais peuvent nager depuis les berges enroselées libres au nord, près de la Hundezone."},
+        {"q": "Le sentier de la Traisen est-il adapté à la promenade canine ?", "a": "Oui, le corridor du Traisenpark de 4 km est plat, ombragé et la promenade en laisse la plus populaire de la ville ; partagée avec les cyclistes de la R26."}
+      ],
+      "faqsEs": [
+        {"q": "¿Hay zonas sin correa en Sankt Pölten?", "a": "Sí, dos Hundezonen señalizadas en Viehofen (junto al lago) y Spratzern; ambas son recintos vallados, no parques abiertos."},
+        {"q": "¿Mi perro puede nadar en el Viehofener See?", "a": "Los perros no se admiten dentro de la zona de baño de pago Strandbad pero pueden nadar desde las orillas libres con cañizo al norte, junto a la Hundezone."},
+        {"q": "¿La senda del Traisen es buena para pasear al perro?", "a": "Sí, el corredor del Traisenpark de 4 km es plano, sombreado y el paseo con correa más popular de la ciudad; compartido con ciclistas de la R26."}
+      ],
+      "faqsPt": [
+        {"q": "Há zonas sem trela em Sankt Pölten?", "a": "Sim, duas Hundezonen sinalizadas em Viehofen (junto ao lago) e Spratzern; ambas são recintos vedados, não parques abertos."},
+        {"q": "O meu cão pode nadar no Viehofener See?", "a": "Os cães não são admitidos dentro da zona de banho paga Strandbad mas podem nadar a partir das margens livres com caniço a norte, junto à Hundezone."},
+        {"q": "O trilho do Traisen é bom para passear o cão?", "a": "Sim, o corredor do Traisenpark de 4 km é plano, sombreado e o passeio com trela mais popular da cidade; partilhado com ciclistas da R26."}
+      ]
+    },
+    "transport": {
+      "titleEn": "Public Transport in Sankt Pölten with a Dog",
+      "titleFr": "Transports publics à Sankt Pölten avec un chien",
+      "titleEs": "Transporte público en Sankt Pölten con perro",
+      "titlePt": "Transportes públicos em Sankt Pölten com cão",
+      "introEn": "Sankt Pölten is crossable on foot in 20 minutes, but the LUP city bus network, the regional VOR Wiener Linien connections and ÖBB Railjet trains tie the city to Vienna (25 min), Linz (1h) and the Wachau wine villages with consistent federal pet rules. Small dogs in carriers ride free; larger dogs pay a half-fare ticket and must wear a muzzle on shared transport.",
+      "introFr": "Sankt Pölten se traverse à pied en 20 minutes, mais le réseau de bus urbain LUP, les correspondances régionales VOR et les trains ÖBB Railjet relient la ville à Vienne (25 min), Linz (1h) et les villages viticoles de la Wachau avec des règles animaux fédérales cohérentes. Les petits chiens en cage voyagent gratuitement ; les grands paient un demi-tarif et doivent porter une muselière en transport partagé.",
+      "introEs": "Sankt Pölten se cruza a pie en 20 minutos, pero la red de autobús urbano LUP, las conexiones regionales VOR y los trenes ÖBB Railjet conectan la ciudad con Viena (25 min), Linz (1h) y los pueblos vinícolas de la Wachau con reglas federales coherentes. Los perros pequeños en transportín viajan gratis; los grandes pagan medio billete y deben llevar bozal en transporte compartido.",
+      "introPt": "Sankt Pölten atravessa-se a pé em 20 minutos, mas a rede de autocarros urbanos LUP, as ligações regionais VOR e os comboios ÖBB Railjet ligam a cidade a Viena (25 min), Linz (1h) e às aldeias vinícolas da Wachau com regras federais coerentes. Os cães pequenos em transportadora viajam grátis; os grandes pagam meio bilhete e devem usar açaime em transporte partilhado.",
+      "places": [
+        {
+          "name": "LUP city buses",
+          "address": "Hauptbahnhof, Bahnhofplatz 1, 3100 Sankt Pölten",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/sankt-polten-transport-lup-bus.jpg",
+          "website": "https://www.lup.st-poelten.at/",
+          "description": "The Linien und Umweltverbund Pöltinger (LUP) city bus runs eight lines connecting the Hauptbahnhof, Rathausplatz, Spratzern, Viehofen and the government quarter. Small dogs in carriers ride free; larger dogs need a half-fare ticket and a muzzle.",
+          "descriptionFr": "Le bus urbain Linien und Umweltverbund Pöltinger (LUP) exploite huit lignes reliant la Hauptbahnhof, la Rathausplatz, Spratzern, Viehofen et le quartier gouvernemental. Petits chiens en cage gratuits ; grands chiens demi-tarif et muselière.",
+          "descriptionEs": "El autobús urbano Linien und Umweltverbund Pöltinger (LUP) opera ocho líneas que conectan la Hauptbahnhof, la Rathausplatz, Spratzern, Viehofen y el barrio gubernamental. Perros pequeños en transportín gratis; perros grandes medio billete y bozal.",
+          "descriptionPt": "O autocarro urbano Linien und Umweltverbund Pöltinger (LUP) explora oito linhas que ligam a Hauptbahnhof, a Rathausplatz, Spratzern, Viehofen e o bairro governamental. Cães pequenos em transportadora grátis; cães grandes meio bilhete e açaime.",
+          "petPolicy": "Small dogs in carrier free; larger dogs half-fare ticket + muzzle",
+          "petPolicyFr": "Petits chiens en cage gratuits ; chiens plus grands demi-tarif + muselière",
+          "petPolicyEs": "Perros pequeños en transportín gratis; perros grandes medio billete + bozal",
+          "petPolicyPt": "Cães pequenos em transportadora grátis; cães grandes meio bilhete + açaime",
+          "googleMapsUrl": "https://maps.google.com/?q=Hauptbahnhof+Sankt+Polten"
+        },
+        {
+          "name": "ÖBB Railjet (Sankt Pölten Hauptbahnhof)",
+          "address": "Bahnhofplatz 1, 3100 Sankt Pölten",
+          "neighborhood": "Hauptbahnhof",
+          "photo": "/images/city-places/sankt-polten-transport-obb-railjet.jpg",
+          "website": "https://www.oebb.at/",
+          "description": "Sankt Pölten Hauptbahnhof is a major stop on the Vienna-Salzburg Westbahn line, with Railjet trains reaching Vienna Hauptbahnhof in 25 minutes, Linz in 1h and Salzburg in 2h. Small dogs travel free in a closed carrier; larger dogs require a half-fare ticket and a muzzle in shared compartments.",
+          "descriptionFr": "La Hauptbahnhof de Sankt Pölten est un arrêt majeur de la ligne Westbahn Vienne-Salzbourg, avec des Railjet atteignant Vienna Hauptbahnhof en 25 minutes, Linz en 1h et Salzbourg en 2h. Petits chiens gratuits en cage fermée ; plus grands en demi-tarif et muselière en compartiment partagé.",
+          "descriptionEs": "La Hauptbahnhof de Sankt Pölten es una parada importante de la línea Westbahn Viena-Salzburgo, con Railjets que llegan a Vienna Hauptbahnhof en 25 minutos, Linz en 1h y Salzburgo en 2h. Perros pequeños gratis en transportín cerrado; mayores con medio billete y bozal en compartimento compartido.",
+          "descriptionPt": "A Hauptbahnhof de Sankt Pölten é uma paragem importante da linha Westbahn Viena-Salzburgo, com Railjets a chegar a Vienna Hauptbahnhof em 25 minutos, Linz em 1h e Salzburgo em 2h. Cães pequenos grátis em transportadora fechada; maiores com meio bilhete e açaime em compartimento partilhado.",
+          "petPolicy": "Small dogs in carrier free; larger dogs half-fare + muzzle",
+          "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens demi-tarif + muselière",
+          "petPolicyEs": "Perros pequeños en transportín gratis; grandes a medio billete + bozal",
+          "petPolicyPt": "Cães pequenos em transportadora grátis; grandes a meio bilhete + açaime",
+          "googleMapsUrl": "https://maps.google.com/?q=Sankt+Polten+Hauptbahnhof"
+        },
+        {
+          "name": "VOR Wachau regional buses",
+          "address": "ZOB Sankt Pölten, Bahnhofplatz 1, 3100 Sankt Pölten",
+          "neighborhood": "Hauptbahnhof",
+          "photo": "/images/city-places/sankt-polten-transport-vor-wachau-bus.jpg",
+          "website": "https://www.vor.at/",
+          "description": "The VOR regional bus network runs from the central ZOB to Krems, Dürnstein, Spitz and the Wachau wine villages 30-45 minutes north, with the same federal pet rules: small in carrier free, larger dog half-fare and muzzled.",
+          "descriptionFr": "Le réseau de bus régional VOR part de la ZOB centrale vers Krems, Dürnstein, Spitz et les villages viticoles de la Wachau à 30-45 minutes au nord, avec les mêmes règles fédérales : petit en cage gratuit, grand demi-tarif et muselière.",
+          "descriptionEs": "La red regional de autobuses VOR sale del ZOB central hacia Krems, Dürnstein, Spitz y los pueblos vinícolas de la Wachau a 30-45 minutos al norte, con las mismas reglas federales: pequeño en transportín gratis, grande a medio billete y con bozal.",
+          "descriptionPt": "A rede regional de autocarros VOR parte do ZOB central para Krems, Dürnstein, Spitz e as aldeias vinícolas da Wachau a 30-45 minutos a norte, com as mesmas regras federais: pequeno em transportadora grátis, grande a meio bilhete e com açaime.",
+          "petPolicy": "Small dogs in carrier free; larger dogs half-fare + muzzle on shared seats",
+          "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens demi-tarif + muselière sur sièges partagés",
+          "petPolicyEs": "Perros pequeños en transportín gratis; grandes a medio billete + bozal en asientos compartidos",
+          "petPolicyPt": "Cães pequenos em transportadora grátis; grandes a meio bilhete + açaime em assentos partilhados",
+          "googleMapsUrl": "https://maps.google.com/?q=ZOB+Sankt+Polten"
+        }
+      ],
+      "faqsEn": [
+        {"q": "Do I need a muzzle for my dog on Sankt Pölten buses?", "a": "Yes, larger dogs not in a carrier must wear a muzzle on LUP and VOR buses. Small dogs in closed carriers are exempt."},
+        {"q": "Can I take my dog on the Railjet to Vienna?", "a": "Yes, small dogs in a carrier travel free; larger dogs need a half-fare ticket and a muzzle in shared compartments. The trip to Vienna is 25 minutes."},
+        {"q": "Does Sankt Pölten have its own airport?", "a": "No, the nearest international airport is Vienna VIE, 60 km east; ÖBB Railjet links VIE Bahnhof to Sankt Pölten in about 50 minutes with a single change."}
+      ],
+      "faqsFr": [
+        {"q": "Ai-je besoin d'une muselière dans les bus de Sankt Pölten ?", "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans les bus LUP et VOR. Les petits chiens en cage fermée en sont exemptés."},
+        {"q": "Puis-je prendre le Railjet pour Vienne avec mon chien ?", "a": "Oui, les petits chiens en cage voyagent gratuitement ; les plus grands ont besoin d'un billet demi-tarif et d'une muselière en compartiment partagé. Le trajet pour Vienne dure 25 minutes."},
+        {"q": "Sankt Pölten a-t-elle son propre aéroport ?", "a": "Non, l'aéroport international le plus proche est Vienne VIE, à 60 km à l'est ; ÖBB Railjet relie la gare de VIE à Sankt Pölten en environ 50 minutes avec un changement."}
+      ],
+      "faqsEs": [
+        {"q": "¿Necesito bozal en los autobuses de Sankt Pölten?", "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en los autobuses LUP y VOR. Los perros pequeños en transportín cerrado están exentos."},
+        {"q": "¿Puedo llevar a mi perro en el Railjet a Viena?", "a": "Sí, los perros pequeños en transportín viajan gratis; los más grandes necesitan medio billete y bozal en compartimento compartido. El viaje a Viena dura 25 minutos."},
+        {"q": "¿Sankt Pölten tiene aeropuerto propio?", "a": "No, el aeropuerto internacional más cercano es Viena VIE, a 60 km al este; ÖBB Railjet conecta la estación de VIE con Sankt Pölten en unos 50 minutos con un trasbordo."}
+      ],
+      "faqsPt": [
+        {"q": "Preciso de açaime nos autocarros de Sankt Pölten?", "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime nos autocarros LUP e VOR. Os cães pequenos em transportadora fechada estão isentos."},
+        {"q": "Posso levar o meu cão no Railjet para Viena?", "a": "Sim, os cães pequenos em transportadora viajam grátis; os maiores precisam de meio bilhete e açaime em compartimento partilhado. A viagem para Viena dura 25 minutos."},
+        {"q": "Sankt Pölten tem aeroporto próprio?", "a": "Não, o aeroporto internacional mais próximo é Viena VIE, a 60 km a leste; ÖBB Railjet liga a estação de VIE a Sankt Pölten em cerca de 50 minutos com uma mudança."}
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Lakes & River Access near Sankt Pölten",
+      "titleFr": "Lacs et accès rivière dog-friendly près de Sankt Pölten",
+      "titleEs": "Lagos y accesos al río pet-friendly cerca de Sankt Pölten",
+      "titlePt": "Lagos e acessos ao rio pet-friendly perto de Sankt Pölten",
+      "introEn": "Sankt Pölten is inland but the Traisen river and a string of former gravel-pit lakes give dogs a real chance to swim within 5 km of the centre. The Viehofener See and Ratzersdorfer See both have unofficial reedy banks where leashed dogs can wade, while the Danube at Tulln (35 km northeast) opens up signed Hundestrand options.",
+      "introFr": "Sankt Pölten est dans les terres mais la Traisen et une série d'anciens lacs de gravière offrent aux chiens de vraies baignades à moins de 5 km du centre. Le Viehofener See et le Ratzersdorfer See ont tous deux des berges enroselées non officielles où les chiens en laisse peuvent patauger, tandis que le Danube à Tulln (35 km au nord-est) ouvre des Hundestrand signalées.",
+      "introEs": "Sankt Pölten está en el interior pero el Traisen y una serie de antiguos lagos de gravera ofrecen a los perros baños reales a menos de 5 km del centro. El Viehofener See y el Ratzersdorfer See tienen orillas con cañizo donde los perros con correa pueden chapotear, mientras que el Danubio en Tulln (35 km al noreste) abre Hundestrand señalizadas.",
+      "introPt": "Sankt Pölten é interior mas o Traisen e uma série de antigos lagos de saibreira oferecem banhos reais aos cães a menos de 5 km do centro. O Viehofener See e o Ratzersdorfer See têm margens com caniço onde os cães com trela podem chapinhar, enquanto o Danúbio em Tulln (35 km a nordeste) abre Hundestrand sinalizadas.",
+      "places": [
+        {
+          "name": "Viehofener See north bank",
+          "distance": "3 km north of Sankt Pölten centre",
+          "description": "The Viehofener See is a 14-hectare former gravel-pit lake with a paid Strandbad on the south shore (no dogs) and a free reedy northern bank where leashed dogs can wade and swim. The Hundezone Viehofen sits 200 m back from the water.",
+          "season": "May-September; water warm enough for dog swimming June-September",
+          "rules": "Dogs leashed on the path; tolerated swimming on free northern bank, NO dogs in the paid Strandbad",
+          "facilities": "Free parking near the Hundezone; no kiosk on the northern bank",
+          "googleMapsUrl": "https://maps.google.com/?q=Viehofener+See+Sankt+Polten",
+          "photo": "/images/city-places/sankt-polten-beaches-viehofener-see.jpg"
+        },
+        {
+          "name": "Ratzersdorfer See reed banks",
+          "distance": "5 km north-east of Sankt Pölten centre",
+          "description": "A second gravel-pit lake popular with anglers and walkers. The south-eastern reedy banks have informal dog-friendly access points where leashed dogs swim; the central paid Strandbad excludes dogs.",
+          "season": "May-September; water swimmable June-September",
+          "rules": "Leashed dogs welcome on perimeter path and informal banks; NO dogs in paid Strandbad",
+          "facilities": "Roadside parking, no facilities on the dog-friendly side",
+          "googleMapsUrl": "https://maps.google.com/?q=Ratzersdorfer+See+Sankt+Polten",
+          "photo": "/images/city-places/sankt-polten-beaches-ratzersdorfer-see.jpg"
+        },
+        {
+          "name": "Hundestrand Tulln an der Donau",
+          "distance": "35 km north-east of Sankt Pölten (35 min by car)",
+          "description": "Signed Hundestrand on the Danube at Tulln, with sandy entry into clear river water and a fenced dog-only swimming zone. The Wachau end of the Danube cycle path passes within 50 m.",
+          "season": "May-October; water swimmable June-September",
+          "rules": "Off-leash inside marked dog beach zone; leashed on the Danube cycle path",
+          "facilities": "Free riverside parking; kiosk in summer",
+          "googleMapsUrl": "https://maps.google.com/?q=Hundestrand+Tulln",
+          "photo": "/images/city-places/sankt-polten-beaches-hundestrand-tulln.jpg"
+        }
+      ],
+      "faqsEn": [
+        {"q": "Can dogs swim at the Viehofener See?", "a": "Yes, but only from the free reedy northern bank near the Hundezone; the paid Strandbad bathing area on the south shore excludes dogs."},
+        {"q": "Is there a signed dog beach close to Sankt Pölten?", "a": "The nearest signed Hundestrand is at Tulln on the Danube, 35 minutes by car north-east; closer options (Viehofener See, Ratzersdorfer See) are tolerated rather than signed."},
+        {"q": "When is the warmest swim season?", "a": "Mid-June to early September; gravel-pit lakes warm faster than the Danube and reach 22-24 degrees in late July."}
+      ],
+      "faqsFr": [
+        {"q": "Les chiens peuvent-ils nager au Viehofener See ?", "a": "Oui, mais uniquement depuis la berge enroselée libre au nord, près de la Hundezone ; la zone de baignade payante du Strandbad au sud n'admet pas les chiens."},
+        {"q": "Y a-t-il une plage canine signalée près de Sankt Pölten ?", "a": "La Hundestrand signalée la plus proche est à Tulln sur le Danube, 35 minutes en voiture au nord-est ; les options plus proches (Viehofener See, Ratzersdorfer See) sont tolérées plutôt que signalées."},
+        {"q": "Quelle est la saison de baignade la plus chaude ?", "a": "De mi-juin à début septembre ; les lacs de gravière chauffent plus vite que le Danube et atteignent 22-24 degrés fin juillet."}
+      ],
+      "faqsEs": [
+        {"q": "¿Pueden los perros nadar en el Viehofener See?", "a": "Sí, pero solo desde la orilla libre con cañizo al norte, junto a la Hundezone; la zona de baño de pago del Strandbad al sur no admite perros."},
+        {"q": "¿Hay playa canina señalizada cerca de Sankt Pölten?", "a": "La Hundestrand señalizada más cercana está en Tulln sobre el Danubio, 35 minutos en coche al noreste; las opciones más cercanas (Viehofener See, Ratzersdorfer See) se toleran pero no están señalizadas."},
+        {"q": "¿Cuál es la temporada más cálida para nadar?", "a": "De mediados de junio a principios de septiembre; los lagos de gravera se calientan más rápido que el Danubio y llegan a 22-24 grados a finales de julio."}
+      ],
+      "faqsPt": [
+        {"q": "Os cães podem nadar no Viehofener See?", "a": "Sim, mas apenas a partir da margem livre com caniço a norte, junto à Hundezone; a zona de banho paga do Strandbad a sul não admite cães."},
+        {"q": "Há praia canina sinalizada perto de Sankt Pölten?", "a": "A Hundestrand sinalizada mais próxima está em Tulln sobre o Danúbio, 35 minutos de carro a nordeste; as opções mais próximas (Viehofener See, Ratzersdorfer See) são toleradas mas não sinalizadas."},
+        {"q": "Qual é a época mais quente para nadar?", "a": "De meados de junho a início de setembro; os lagos de saibreira aquecem mais rápido que o Danúbio e atingem 22-24 graus em finais de julho."}
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Sankt Pölten",
+      "titleFr": "Vétérinaires d'urgence à Sankt Pölten",
+      "titleEs": "Veterinarios de urgencias en Sankt Pölten",
+      "titlePt": "Veterinários de urgência em Sankt Pölten",
+      "introEn": "Sankt Pölten has a strong daytime veterinary network in and around the Altstadt, plus the regional 24/7 Tierklinik Hollabrunn referral hospital 50 minutes north and the privately-run Tierarztzentrum St. Pölten for after-hours coverage. The national veterinary emergency number 1450 (Tierärztlicher Notdienst Niederösterreich) routes overnight calls to the nearest on-call vet.",
+      "introFr": "Sankt Pölten dispose d'un solide réseau vétérinaire de jour dans l'Altstadt, plus l'hôpital de référence 24h/24 Tierklinik Hollabrunn à 50 minutes au nord et le Tierarztzentrum St. Pölten privé pour la couverture après les heures. Le numéro vétérinaire national 1450 (Tierärztlicher Notdienst Niederösterreich) redirige les appels nocturnes vers le vétérinaire d'astreinte le plus proche.",
+      "introEs": "Sankt Pölten cuenta con una sólida red veterinaria diurna en el Altstadt y alrededores, además del hospital de referencia 24/7 Tierklinik Hollabrunn a 50 minutos al norte y el privado Tierarztzentrum St. Pölten para cobertura fuera de horario. El número veterinario nacional 1450 (Tierärztlicher Notdienst Niederösterreich) redirige llamadas nocturnas al veterinario de guardia más cercano.",
+      "introPt": "Sankt Pölten conta com uma sólida rede veterinária diurna no Altstadt e arredores, mais o hospital de referência 24/7 Tierklinik Hollabrunn a 50 minutos a norte e o privado Tierarztzentrum St. Pölten para cobertura fora de horas. O número veterinário nacional 1450 (Tierärztlicher Notdienst Niederösterreich) redirige chamadas nocturnas para o veterinário de prevenção mais próximo.",
+      "entryRequirements": null,
+      "places": [
+        {
+          "name": "Tierarztzentrum St. Pölten",
+          "type": "Day clinic + extended hours",
+          "address": "Mariazeller Straße 156, 3100 Sankt Pölten",
+          "neighborhood": "South Sankt Pölten",
+          "phone": "+43 2742 73444",
+          "hours": "Mon-Fri 8:00-20:00; Sat 9:00-13:00; on-call evenings via 1450",
+          "hoursFr": "Lun-ven 8h-20h ; sam 9h-13h ; astreinte le soir via le 1450",
+          "hoursEs": "Lun-vie 8:00-20:00; sáb 9:00-13:00; guardia por la tarde vía 1450",
+          "hoursPt": "Seg-sex 8:00-20:00; sáb 9:00-13:00; prevenção à noite via 1450",
+          "englishSpeaking": true,
+          "website": "https://www.tierarztzentrum-stp.at/",
+          "photo": "/images/city-places/sankt-polten-vets-tierarztzentrum-stp.jpg",
+          "description": "The most comprehensive veterinary centre inside the city, with five vets, digital imaging, surgery and dental services. The team takes walk-in emergencies during clinic hours and refers to Hollabrunn for overnight cases.",
+          "descriptionFr": "Le centre vétérinaire le plus complet de la ville, avec cinq vétérinaires, imagerie numérique, chirurgie et dentisterie. L'équipe prend les urgences sans rendez-vous pendant les heures de clinique et oriente vers Hollabrunn pour la nuit.",
+          "descriptionEs": "El centro veterinario más completo dentro de la ciudad, con cinco veterinarios, imagen digital, cirugía y odontología. El equipo atiende urgencias sin cita en horario y deriva a Hollabrunn de noche.",
+          "descriptionPt": "O centro veterinário mais completo dentro da cidade, com cinco veterinários, imagem digital, cirurgia e dentária. A equipa atende urgências sem marcação em horário e encaminha para Hollabrunn à noite.",
+          "petPolicy": "Walk-in emergencies accepted in clinic hours; call 1450 outside",
+          "petPolicyFr": "Urgences sans rendez-vous acceptées aux heures de clinique ; appeler le 1450 en dehors",
+          "petPolicyEs": "Urgencias sin cita admitidas en horario; llama al 1450 fuera",
+          "petPolicyPt": "Urgências sem marcação aceites em horário; ligue 1450 fora",
+          "services": "Surgery, imaging, dentistry, internal medicine, EU passport",
+          "servicesFr": "Chirurgie, imagerie, dentisterie, médecine interne, passeport européen",
+          "servicesEs": "Cirugía, imagen, odontología, medicina interna, pasaporte UE",
+          "servicesPt": "Cirurgia, imagem, dentária, medicina interna, passaporte UE",
+          "languages": ["German", "English"],
+          "openingHours": "Mon-Fri 8:00-20:00; Sat 9:00-13:00",
+          "tip": "Park in the building forecourt off Mariazeller Straße; the street itself is a main south-bound artery with no curbside stopping.",
+          "tipFr": "Garez-vous sur le parvis du bâtiment depuis la Mariazeller Straße ; la rue elle-même est un axe sud sans arrêt en bordure.",
+          "tipEs": "Aparca en el patio delantero del edificio desde la Mariazeller Straße; la calle es una arteria sur sin parada en el bordillo.",
+          "tipPt": "Estacione no pátio frontal do edifício a partir da Mariazeller Straße; a rua é uma artéria sul sem paragem na berma.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarztzentrum+St+Polten"
+        },
+        {
+          "name": "Tierarztpraxis Dr. Hoffmann",
+          "type": "General Practice",
+          "address": "Wiener Straße 12, 3100 Sankt Pölten",
+          "neighborhood": "Altstadt east",
+          "phone": "+43 2742 74044",
+          "hours": "Mon-Fri 8:00-12:00 and 15:00-18:00; closed weekends",
+          "hoursFr": "Lun-ven 8h-12h et 15h-18h ; fermé le weekend",
+          "hoursEs": "Lun-vie 8:00-12:00 y 15:00-18:00; cerrado fines de semana",
+          "hoursPt": "Seg-sex 8:00-12:00 e 15:00-18:00; fechado fins de semana",
+          "englishSpeaking": true,
+          "website": "https://www.tierarzt-hoffmann.at/",
+          "photo": "/images/city-places/sankt-polten-vets-tierarzt-hoffmann.jpg",
+          "description": "A central Altstadt general practice 5 minutes from the Rathausplatz, ideal for vaccination top-ups, EU passport stamps and minor non-emergency consultations. Refers to Tierarztzentrum St. Pölten or Hollabrunn for after-hours and surgical cases.",
+          "descriptionFr": "Cabinet généraliste central de l'Altstadt à 5 minutes de la Rathausplatz, idéal pour rappels de vaccin, tampons sur passeport européen et consultations mineures non urgentes. Renvoie vers le Tierarztzentrum St. Pölten ou Hollabrunn pour le hors heures et la chirurgie.",
+          "descriptionEs": "Consulta generalista céntrica en el Altstadt a 5 minutos de la Rathausplatz, ideal para refuerzos de vacuna, sellos de pasaporte europeo y consultas menores no urgentes. Deriva al Tierarztzentrum St. Pölten o Hollabrunn para fuera de horario y cirugía.",
+          "descriptionPt": "Clínica generalista central no Altstadt a 5 minutos da Rathausplatz, ideal para reforços de vacina, carimbos de passaporte europeu e consultas menores não urgentes. Encaminha para o Tierarztzentrum St. Pölten ou Hollabrunn fora de horas e cirurgia.",
+          "petPolicy": "Appointments preferred; walk-ins seen between booked slots",
+          "petPolicyFr": "Rendez-vous préférés ; sans rendez-vous reçus entre créneaux réservés",
+          "petPolicyEs": "Cita previa preferida; sin cita atendidos entre huecos reservados",
+          "petPolicyPt": "Marcação preferida; sem marcação atendidos entre slots reservados",
+          "services": "Vaccinations, EU passport, general medicine, minor surgery",
+          "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie",
+          "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor",
+          "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia",
+          "languages": ["German", "English"],
+          "openingHours": "Mon-Fri 8:00-12:00 / 15:00-18:00",
+          "tip": "Book the 8:00 slot for a same-day EU passport check before a Wachau or Slovak border road trip.",
+          "tipFr": "Réservez le créneau 8h pour un contrôle passeport européen le jour même avant un road trip Wachau ou Slovaquie.",
+          "tipEs": "Reserva el hueco de las 8:00 para un control de pasaporte UE el mismo día antes de un road trip por la Wachau o Eslovaquia.",
+          "tipPt": "Reserve o slot das 8:00 para um controlo de passaporte UE no mesmo dia antes de uma road trip pela Wachau ou Eslováquia.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarzt+Hoffmann+Sankt+Polten"
+        },
+        {
+          "name": "Niederösterreichischer Tierärztlicher Notdienst (1450)",
+          "type": "24h Regional Emergency Line",
+          "address": "Service line covering Sankt Pölten and Lower Austria",
+          "neighborhood": "Regional",
+          "phone": "1450",
+          "hours": "24/7 phone triage; routes to nearest on-call vet",
+          "hoursFr": "Triage téléphonique 24h/24 ; redirige vers le vétérinaire d'astreinte le plus proche",
+          "hoursEs": "Triaje telefónico 24/7; deriva al veterinario de guardia más cercano",
+          "hoursPt": "Triagem telefónica 24/7; encaminha para o veterinário de prevenção mais próximo",
+          "englishSpeaking": true,
+          "website": "https://www.tieraerztekammer.at/",
+          "photo": "/images/city-places/sankt-polten-vets-notdienst-1450.jpg",
+          "description": "The official Lower Austria 24/7 veterinary emergency line is reached by dialling 1450 from any Austrian phone; operators triage in German and English and dispatch the on-call vet for Sankt Pölten and surrounding districts. Used for overnight emergencies when Tierarztzentrum St. Pölten is closed.",
+          "descriptionFr": "La ligne officielle d'urgence vétérinaire 24h/24 de Basse-Autriche s'atteint en composant le 1450 depuis n'importe quel téléphone autrichien ; les opérateurs trient en allemand et en anglais et dépêchent le vétérinaire d'astreinte pour Sankt Pölten et les districts voisins. Utilisée la nuit quand le Tierarztzentrum St. Pölten est fermé.",
+          "descriptionEs": "La línea oficial de urgencias veterinarias 24/7 de Baja Austria se contacta marcando 1450 desde cualquier teléfono austriaco; los operadores triajan en alemán e inglés y envían al veterinario de guardia para Sankt Pölten y distritos vecinos. Se usa por la noche cuando el Tierarztzentrum St. Pölten está cerrado.",
+          "descriptionPt": "A linha oficial de urgência veterinária 24/7 da Baixa Áustria contacta-se marcando 1450 a partir de qualquer telefone austríaco; os operadores fazem triagem em alemão e inglês e enviam o veterinário de prevenção para Sankt Pölten e distritos vizinhos. Usada à noite quando o Tierarztzentrum St. Pölten está fechado.",
+          "petPolicy": "Phone triage only; will dispatch nearest vet or refer to closest 24h clinic",
+          "petPolicyFr": "Triage téléphonique uniquement ; dépêche le vétérinaire le plus proche ou oriente vers la clinique 24h la plus proche",
+          "petPolicyEs": "Solo triaje telefónico; envía al veterinario más cercano o deriva a la clínica 24h más próxima",
+          "petPolicyPt": "Só triagem telefónica; envia o veterinário mais próximo ou encaminha para a clínica 24h mais próxima",
+          "services": "Phone triage, dispatch, referral to 24h facilities",
+          "servicesFr": "Triage téléphonique, dépêche, orientation vers structures 24h",
+          "servicesEs": "Triaje telefónico, envío, derivación a 24h",
+          "servicesPt": "Triagem telefónica, envio, encaminhamento para 24h",
+          "languages": ["German", "English"],
+          "openingHours": "24/7",
+          "tip": "Save 1450 in your phone before arriving; the line covers all Lower Austria and works from any Austrian SIM or landline.",
+          "tipFr": "Enregistrez le 1450 dans votre téléphone avant l'arrivée ; la ligne couvre toute la Basse-Autriche et fonctionne depuis toute SIM ou ligne fixe autrichienne.",
+          "tipEs": "Guarda el 1450 en tu teléfono antes de llegar; la línea cubre toda Baja Austria y funciona desde cualquier SIM o fija austriaca.",
+          "tipPt": "Guarde o 1450 no telefone antes de chegar; a linha cobre toda a Baixa Áustria e funciona a partir de qualquer SIM ou fixo austríaco.",
+          "googleMapsUrl": "https://maps.google.com/?q=Sankt+Polten"
+        }
+      ],
+      "faqsEn": [
+        {"q": "Where is the closest 24h vet in Sankt Pölten?", "a": "There is no full-service 24h hospital inside the city limits; call 1450 for the Lower Austria on-call vet, who will dispatch to Sankt Pölten or refer to Tierklinik Hollabrunn 50 min north."},
+        {"q": "Do Sankt Pölten vets speak English?", "a": "Yes at Tierarztzentrum St. Pölten and Hoffmann; senior vets are fluent and the 1450 triage operators handle English calls."},
+        {"q": "Can I get an EU pet passport before crossing into Slovakia or Hungary?", "a": "Yes, both listed clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs."}
+      ],
+      "faqsFr": [
+        {"q": "Où est le vétérinaire 24h le plus proche à Sankt Pölten ?", "a": "Il n'y a pas d'hôpital 24h complet dans la ville ; appelez le 1450 pour le vétérinaire d'astreinte de Basse-Autriche, qui se déplacera à Sankt Pölten ou orientera vers la Tierklinik Hollabrunn à 50 min au nord."},
+        {"q": "Les vétérinaires de Sankt Pölten parlent-ils anglais ?", "a": "Oui au Tierarztzentrum St. Pölten et chez Hoffmann ; les vétérinaires seniors sont fluides et les opérateurs du 1450 gèrent les appels en anglais."},
+        {"q": "Puis-je obtenir un passeport européen avant de passer en Slovaquie ou Hongrie ?", "a": "Oui, les deux cliniques listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles pour chiens en bonne santé."}
+      ],
+      "faqsEs": [
+        {"q": "¿Dónde está el veterinario 24h más cercano en Sankt Pölten?", "a": "No hay hospital 24h completo dentro de la ciudad; llama al 1450 para el veterinario de guardia de Baja Austria, que se desplazará a Sankt Pölten o derivará a la Tierklinik Hollabrunn a 50 min al norte."},
+        {"q": "¿Los veterinarios de Sankt Pölten hablan inglés?", "a": "Sí en el Tierarztzentrum St. Pölten y en Hoffmann; los veterinarios senior son fluidos y los operadores del 1450 gestionan llamadas en inglés."},
+        {"q": "¿Puedo obtener un pasaporte UE antes de cruzar a Eslovaquia o Hungría?", "a": "Sí, las dos clínicas listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles para perros sanos."}
+      ],
+      "faqsPt": [
+        {"q": "Onde fica o veterinário 24h mais próximo em Sankt Pölten?", "a": "Não há hospital 24h completo dentro da cidade; ligue 1450 para o veterinário de prevenção da Baixa Áustria, que se deslocará a Sankt Pölten ou encaminhará para a Tierklinik Hollabrunn a 50 min a norte."},
+        {"q": "Os veterinários de Sankt Pölten falam inglês?", "a": "Sim no Tierarztzentrum St. Pölten e no Hoffmann; os veterinários seniores são fluentes e os operadores do 1450 gerem chamadas em inglês."},
+        {"q": "Posso obter um passaporte UE antes de atravessar para a Eslováquia ou Hungria?", "a": "Sim, as duas clínicas listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."}
+      ]
+    },
+    "tips": {
+      "titleEn": "Pet-Friendly Tips for Visiting Sankt Pölten",
+      "titleFr": "Conseils pet-friendly pour visiter Sankt Pölten",
+      "titleEs": "Consejos pet-friendly para visitar Sankt Pölten",
+      "titlePt": "Dicas pet-friendly para visitar Sankt Pölten",
+      "introEn": "Sankt Pölten is one of Lower Austria's easiest pet-travel bases: compact pedestrian Altstadt, federal Austrian Listenhunde rules, the Traisen river running through the city and 25 minutes by Railjet to Vienna. Plan around the late-August Frequency Festival in nearby Salzburgring if your dog dislikes crowds, and time Wachau wine village day trips for shoulder season when Dürnstein and Spitz are walkable on a leash.",
+      "introFr": "Sankt Pölten est l'une des bases pet-friendly les plus faciles de Basse-Autriche : Altstadt piéton compact, règles Listenhunde fédérales, la Traisen au cœur de la ville et 25 minutes en Railjet pour Vienne. Évitez le Frequency Festival fin août près de Salzburgring si votre chien n'aime pas la foule, et planifiez les escapades dans les villages viticoles de la Wachau hors saison quand Dürnstein et Spitz se font en laisse.",
+      "introEs": "Sankt Pölten es una de las bases pet-friendly más fáciles de Baja Austria: Altstadt peatonal compacto, normas federales Listenhunde, el Traisen atravesando la ciudad y 25 minutos en Railjet a Viena. Evita el Frequency Festival a finales de agosto cerca del Salzburgring si tu perro no soporta multitudes, y programa las escapadas a los pueblos vinícolas de la Wachau en temporada baja cuando Dürnstein y Spitz se hacen con correa.",
+      "introPt": "Sankt Pölten é uma das bases pet-friendly mais fáceis da Baixa Áustria: Altstadt pedonal compacto, regras federais Listenhunde, o Traisen a atravessar a cidade e 25 minutos em Railjet para Viena. Evite o Frequency Festival em finais de agosto perto do Salzburgring se o seu cão não suporta multidões, e programe os passeios pelas aldeias vinícolas da Wachau em época baixa quando Dürnstein e Spitz se fazem com trela.",
+      "places": [],
+      "tipsEn": [
+        "Austria requires EU pet passport, ISO microchip and valid rabies vaccination; sufficient from any EU country, no tapeworm treatment required.",
+        "Lower Austria applies the federal Listenhunde behaviour-certificate rule (Pit Bull, American Staffordshire, Bull Terrier and related); verify before crossing from Czech or Slovak borders.",
+        "Save 1450 in your phone: the national Tierärztlicher Notdienst Niederösterreich routes overnight vet calls to the nearest on-call practice.",
+        "Wachau day trips (Dürnstein, Spitz, Krems): 30-45 minutes north by VOR bus or car; Heuriger taverns welcome leashed dogs on terraces almost universally.",
+        "The Klangturm rooftop bar in the Government Quarter accepts leashed dogs at sunset; one of the best skyline views over the Wienerwald."
+      ],
+      "tipsFr": [
+        "L'Autriche exige passeport européen, puce ISO et vaccin antirabique valide ; suffisant depuis tout pays UE, pas de traitement antiparasitaire requis.",
+        "La Basse-Autriche applique la règle fédérale Listenhunde de certificat de comportement (Pit Bull, American Staffordshire, Bull Terrier et apparentés) ; vérifiez avant de passer depuis les frontières tchèque ou slovaque.",
+        "Enregistrez le 1450 dans votre téléphone : le Tierärztlicher Notdienst Niederösterreich national redirige les appels vétérinaires nocturnes vers le cabinet d'astreinte le plus proche.",
+        "Escapades dans la Wachau (Dürnstein, Spitz, Krems) : 30-45 minutes au nord en bus VOR ou voiture ; les Heuriger accueillent les chiens en laisse en terrasse presque systématiquement.",
+        "Le bar panoramique Klangturm du quartier gouvernemental accepte les chiens en laisse au coucher du soleil ; l'une des plus belles vues sur le Wienerwald."
+      ],
+      "tipsEs": [
+        "Austria exige pasaporte europeo, microchip ISO y vacunación antirrábica vigente; basta desde cualquier país UE, sin tratamiento antiparasitario requerido.",
+        "Baja Austria aplica la regla federal Listenhunde de certificado de comportamiento (Pit Bull, American Staffordshire, Bull Terrier y afines); verifica antes de cruzar desde las fronteras checa o eslovaca.",
+        "Guarda el 1450 en tu teléfono: el Tierärztlicher Notdienst Niederösterreich nacional deriva las llamadas veterinarias nocturnas al consultorio de guardia más cercano.",
+        "Escapadas a la Wachau (Dürnstein, Spitz, Krems): 30-45 minutos al norte en bus VOR o coche; los Heuriger admiten perros con correa en terraza casi siempre.",
+        "El bar panorámico Klangturm en el barrio gubernamental admite perros con correa al atardecer; una de las mejores vistas al Wienerwald."
+      ],
+      "tipsPt": [
+        "A Áustria exige passaporte europeu, microchip ISO e vacinação antirrábica válida; suficiente de qualquer país UE, sem tratamento antiparasitário exigido.",
+        "A Baixa Áustria aplica a regra federal Listenhunde de certificado de comportamento (Pit Bull, American Staffordshire, Bull Terrier e afins); verifique antes de atravessar das fronteiras checa ou eslovaca.",
+        "Guarde o 1450 no telefone: o Tierärztlicher Notdienst Niederösterreich nacional encaminha as chamadas veterinárias nocturnas para a clínica de prevenção mais próxima.",
+        "Passeios pela Wachau (Dürnstein, Spitz, Krems): 30-45 minutos a norte em autocarro VOR ou carro; os Heuriger aceitam cães com trela na esplanada quase sempre.",
+        "O bar panorâmico Klangturm no bairro governamental aceita cães com trela ao pôr do sol; uma das melhores vistas para o Wienerwald."
+      ],
+      "faqsEn": [
+        {"q": "Is Sankt Pölten a good base for a pet-friendly Lower Austria holiday?", "a": "Yes, the combination of compact Altstadt, Traisen river walks, Wachau wine-village day trips and 25-min Railjet to Vienna makes it one of the easiest pet bases in the region."},
+        {"q": "Do I need a muzzle in public in Sankt Pölten?", "a": "Lower Austria requires leash or muzzle in public; in practice a leash alone suffices outside the central pedestrian zone, where well-behaved leashed dogs are universal."},
+        {"q": "What is the best month for Sankt Pölten with a dog?", "a": "May, June and September: comfortable temperatures, Heuriger terraces in full swing in the Traisental and Wachau, and the Frequency Festival crowds in late August are best avoided."}
+      ],
+      "faqsFr": [
+        {"q": "Sankt Pölten est-elle une bonne base pet-friendly en Basse-Autriche ?", "a": "Oui, la combinaison d'un Altstadt compact, des promenades en bord de Traisen, des escapades dans la Wachau et du Railjet de 25 min pour Vienne en fait l'une des bases pet les plus faciles de la région."},
+        {"q": "Ai-je besoin d'une muselière en public à Sankt Pölten ?", "a": "La Basse-Autriche exige laisse ou muselière en public ; en pratique la laisse seule suffit hors zone piétonne centrale, où les chiens en laisse calmes sont universels."},
+        {"q": "Quel est le meilleur mois pour Sankt Pölten avec un chien ?", "a": "Mai, juin et septembre : températures agréables, terrasses Heuriger en plein boom dans le Traisental et la Wachau, et la foule du Frequency Festival fin août à éviter."}
+      ],
+      "faqsEs": [
+        {"q": "¿Es Sankt Pölten una buena base pet-friendly en Baja Austria?", "a": "Sí, la combinación de Altstadt compacto, paseos junto al Traisen, escapadas a la Wachau y Railjet de 25 min a Viena la convierte en una de las bases pet más fáciles de la región."},
+        {"q": "¿Necesito bozal en público en Sankt Pölten?", "a": "Baja Austria exige correa o bozal en público; en la práctica basta con la correa fuera de la zona peatonal central, donde los perros con correa tranquilos son universales."},
+        {"q": "¿Cuál es el mejor mes para Sankt Pölten con perro?", "a": "Mayo, junio y septiembre: temperaturas agradables, terrazas Heuriger en pleno auge en el Traisental y la Wachau, y la multitud del Frequency Festival a finales de agosto que conviene evitar."}
+      ],
+      "faqsPt": [
+        {"q": "Sankt Pölten é uma boa base pet-friendly na Baixa Áustria?", "a": "Sim, a combinação de Altstadt compacto, passeios junto ao Traisen, escapadas à Wachau e Railjet de 25 min a Viena fá-la uma das bases pet mais fáceis da região."},
+        {"q": "Preciso de açaime em público em Sankt Pölten?", "a": "A Baixa Áustria exige trela ou açaime em público; na prática a trela basta fora da zona pedonal central, onde os cães com trela calmos são universais."},
+        {"q": "Qual é o melhor mês para Sankt Pölten com cão?", "a": "Maio, junho e setembro: temperaturas agradáveis, esplanadas Heuriger a todo o vapor no Traisental e na Wachau, e a multidão do Frequency Festival em finais de agosto a evitar."}
+      ]
+    },
+    "attractions": {
+      "titleEn": "Top Dog-Friendly Attractions in Sankt Pölten",
+      "titleFr": "Meilleures attractions pet-friendly à Sankt Pölten",
+      "titleEs": "Mejores atracciones pet-friendly en Sankt Pölten",
+      "titlePt": "Melhores atracções pet-friendly em Sankt Pölten",
+      "introEn": "Sankt Pölten's pedestrian Altstadt rewards a slow leashed loop: Rathausplatz, Herrenplatz, Riemerplatz and the Baroque Domplatz all join up in 90 minutes. Beyond the centre, the modernist Government Quarter on the Traisen, the Klangturm panorama tower and the open-air Schallaburg gardens stretch the day for active dogs.",
+      "introFr": "L'Altstadt piéton de Sankt Pölten se savoure en boucle laissée : Rathausplatz, Herrenplatz, Riemerplatz et la Domplatz baroque s'enchaînent en 90 minutes. Hors centre, le quartier gouvernemental moderniste au bord de la Traisen, la tour panoramique Klangturm et les jardins en plein air de la Schallaburg prolongent la journée pour chiens actifs.",
+      "introEs": "El Altstadt peatonal de Sankt Pölten se disfruta en un circuito tranquilo con correa: Rathausplatz, Herrenplatz, Riemerplatz y la barroca Domplatz se enlazan en 90 minutos. Fuera del centro, el barrio gubernamental modernista junto al Traisen, la torre panorámica Klangturm y los jardines al aire libre de la Schallaburg alargan el día para perros activos.",
+      "introPt": "O Altstadt pedonal de Sankt Pölten saboreia-se num circuito tranquilo com trela: Rathausplatz, Herrenplatz, Riemerplatz e a barroca Domplatz encadeiam-se em 90 minutos. Fora do centro, o bairro governamental modernista junto ao Traisen, a torre panorâmica Klangturm e os jardins ao ar livre da Schallaburg prolongam o dia para cães activos.",
+      "places": [
+        {
+          "name": "Rathausplatz",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/sankt-polten-attractions-rathausplatz.jpg",
+          "website": "https://www.st-poelten.at/",
+          "description": "The long pedestrian Rathausplatz is the civic heart of Sankt Pölten, lined with Baroque facades, a 15th-century Rathaus tower and cafe terraces. The whole square is pedestrian and welcomes leashed dogs day and night.",
+          "descriptionFr": "La longue Rathausplatz piétonne est le cœur civique de Sankt Pölten, bordée de façades baroques, d'une tour du Rathaus du XVᵉ siècle et de terrasses. Toute la place est piétonne et accueille les chiens en laisse jour et nuit.",
+          "descriptionEs": "La larga Rathausplatz peatonal es el corazón cívico de Sankt Pölten, jalonada de fachadas barrocas, una torre del Rathaus del siglo XV y terrazas. Toda la plaza es peatonal y admite perros con correa día y noche.",
+          "descriptionPt": "A longa Rathausplatz pedonal é o coração cívico de Sankt Pölten, ladeada por fachadas barrocas, uma torre do Rathaus do século XV e esplanadas. Toda a praça é pedonal e aceita cães com trela dia e noite.",
+          "dogPolicy": "Leashed dogs welcome 24/7; arcaded sides shaded on hot days",
+          "dogPolicyFr": "Chiens en laisse bienvenus 24h/24 ; côtés à arcades ombragés par temps chaud",
+          "dogPolicyEs": "Perros con correa bienvenidos 24/7; lados con soportales sombreados en días calurosos",
+          "dogPolicyPt": "Cães com trela bem-vindos 24/7; lados com arcadas sombreados em dias quentes",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "admissionFeePt": "Grátis",
+          "tip": "Walk the square at dusk when the pastel facades catch warm light and the cafe terraces are at their busiest; perfect dog people-watching.",
+          "tipFr": "Parcourez la place au crépuscule quand les façades pastel captent la lumière chaude et que les terrasses sont les plus animées ; idéal pour un chien spectateur.",
+          "tipEs": "Recorre la plaza al atardecer cuando las fachadas pastel captan la luz cálida y las terrazas están más animadas; ideal para un perro espectador.",
+          "tipPt": "Percorra a praça ao crepúsculo quando as fachadas pastel captam a luz quente e as esplanadas estão mais animadas; ideal para um cão espectador.",
+          "googleMapsUrl": "https://maps.google.com/?q=Rathausplatz+Sankt+Polten"
+        },
+        {
+          "name": "Klangturm and Government Quarter",
+          "neighborhood": "Regierungsviertel",
+          "photo": "/images/city-places/sankt-polten-attractions-klangturm.jpg",
+          "website": "https://www.klangturm.at/",
+          "description": "Lower Austria moved its provincial parliament to Sankt Pölten in 1997 and built a striking modernist quarter on the Traisen designed by Hans Hollein and Ernst Hoffmann. The 77 m Klangturm panorama tower has a roof terrace that accepts leashed dogs alongside the public viewing platform.",
+          "descriptionFr": "La Basse-Autriche a transféré son parlement provincial à Sankt Pölten en 1997 et a bâti sur la Traisen un saisissant quartier moderniste signé Hans Hollein et Ernst Hoffmann. La tour panoramique Klangturm de 77 m possède une terrasse de toit qui accepte les chiens en laisse aux côtés du belvédère public.",
+          "descriptionEs": "Baja Austria trasladó su parlamento provincial a Sankt Pölten en 1997 y construyó junto al Traisen un llamativo barrio modernista de Hans Hollein y Ernst Hoffmann. La torre panorámica Klangturm de 77 m tiene una azotea que admite perros con correa junto al mirador público.",
+          "descriptionPt": "A Baixa Áustria transferiu o seu parlamento provincial para Sankt Pölten em 1997 e construiu junto ao Traisen um marcante bairro modernista de Hans Hollein e Ernst Hoffmann. A torre panorâmica Klangturm de 77 m tem um terraço que aceita cães com trela junto ao miradouro público.",
+          "dogPolicy": "Leashed dogs welcome on outdoor plazas and Klangturm roof terrace; museum interiors assistance dogs only",
+          "dogPolicyFr": "Chiens en laisse bienvenus sur les places extérieures et la terrasse du Klangturm ; intérieurs muséaux uniquement chiens d'assistance",
+          "dogPolicyEs": "Perros con correa bienvenidos en plazas exteriores y azotea Klangturm; interiores de museo solo perros de asistencia",
+          "dogPolicyPt": "Cães com trela bem-vindos nas praças exteriores e terraço Klangturm; interiores de museu só cães de assistência",
+          "admissionFee": "Outdoor plaza free; Klangturm rooftop EUR 4",
+          "admissionFeeFr": "Place extérieure gratuite ; toit Klangturm 4 €",
+          "admissionFeeEs": "Plaza exterior gratis; azotea Klangturm 4 €",
+          "admissionFeePt": "Praça exterior grátis; terraço Klangturm 4 €",
+          "tip": "The Klangturm rooftop catches the best Wienerwald sunset; small leashed dogs are welcome and bigger dogs do better on the wide outdoor plaza below.",
+          "tipFr": "Le toit du Klangturm offre le meilleur coucher de soleil sur le Wienerwald ; les petits chiens en laisse sont bienvenus, les plus grands se sentent mieux sur la vaste place extérieure en bas.",
+          "tipEs": "La azotea del Klangturm ofrece la mejor puesta de sol sobre el Wienerwald; los perros pequeños con correa son bienvenidos y los más grandes están mejor en la amplia plaza exterior abajo.",
+          "tipPt": "O terraço do Klangturm oferece o melhor pôr do sol sobre o Wienerwald; os cães pequenos com trela são bem-vindos e os maiores estão melhor na ampla praça exterior em baixo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Klangturm+Sankt+Polten"
+        },
+        {
+          "name": "Dürnstein Wachau Day Trip",
+          "neighborhood": "Wachau Valley (35 km north)",
+          "photo": "/images/city-places/sankt-polten-attractions-durnstein-wachau.jpg",
+          "website": "https://www.duernstein.at/",
+          "description": "The blue-and-white Baroque tower of Dürnstein rises over the Danube in the heart of the Wachau wine valley, 45 minutes north of Sankt Pölten. The riverside promenade, ruined hilltop castle (where Richard the Lionheart was imprisoned) and Heuriger terraces all welcome leashed dogs.",
+          "descriptionFr": "La tour baroque bleue et blanche de Dürnstein s'élève sur le Danube au cœur de la vallée viticole de la Wachau, à 45 minutes au nord de Sankt Pölten. La promenade riveraine, la ruine de château au sommet (où Richard Cœur de Lion fut emprisonné) et les terrasses Heuriger acceptent tous les chiens en laisse.",
+          "descriptionEs": "La torre barroca azul y blanca de Dürnstein se eleva sobre el Danubio en el corazón del valle vinícola de la Wachau, a 45 minutos al norte de Sankt Pölten. El paseo ribereño, el castillo en ruinas en lo alto (donde Ricardo Corazón de León estuvo prisionero) y las terrazas Heuriger admiten todos perros con correa.",
+          "descriptionPt": "A torre barroca azul e branca de Dürnstein ergue-se sobre o Danúbio no coração do vale vinícola da Wachau, a 45 minutos a norte de Sankt Pölten. O passeio ribeirinho, o castelo em ruínas no topo (onde Ricardo Coração de Leão esteve prisioneiro) e as esplanadas Heuriger aceitam todos cães com trela.",
+          "dogPolicy": "Leashed dogs welcome on village streets, castle ruin and most Heuriger terraces",
+          "dogPolicyFr": "Chiens en laisse bienvenus dans les rues du village, à la ruine et sur la plupart des terrasses Heuriger",
+          "dogPolicyEs": "Perros con correa bienvenidos en calles del pueblo, ruina del castillo y la mayoría de terrazas Heuriger",
+          "dogPolicyPt": "Cães com trela bem-vindos nas ruas da aldeia, ruína do castelo e maioria das esplanadas Heuriger",
+          "admissionFee": "Village free; castle ruin EUR 4",
+          "admissionFeeFr": "Village gratuit ; ruine du château 4 €",
+          "admissionFeeEs": "Pueblo gratis; ruina del castillo 4 €",
+          "admissionFeePt": "Aldeia grátis; ruína do castelo 4 €",
+          "tip": "Park free in the lower lot at the river and walk up; the upper village entrance has paid parking and gets congested by 11:00 on summer weekends.",
+          "tipFr": "Garez-vous gratuitement sur le parking inférieur au bord du fleuve et montez à pied ; l'entrée haute du village est payante et engorgée dès 11h les weekends d'été.",
+          "tipEs": "Aparca gratis en el parking inferior junto al río y sube a pie; la entrada superior del pueblo es de pago y se congestiona desde las 11:00 los fines de semana de verano.",
+          "tipPt": "Estacione grátis no parque inferior junto ao rio e suba a pé; a entrada superior da aldeia é paga e congestiona-se desde as 11:00 aos fins de semana de verão.",
+          "googleMapsUrl": "https://maps.google.com/?q=Durnstein+Wachau"
+        }
+      ],
+      "tipsEn": [
+        "The Sankt Pölten Altstadt is fully pedestrian and dog-easy; cobblestones can be slippery in winter snow, bring booties or a non-slip harness.",
+        "Most museums refuse non-assistance dogs, but the open-air Schallaburg Renaissance castle gardens (15 km south) accept leashed dogs in the gardens though not inside the keep.",
+        "Wachau wine villages day trip: Dürnstein 35 km, Spitz 50 km, Krems 30 km, all reachable in under 1h by car or VOR bus."
+      ],
+      "tipsFr": [
+        "L'Altstadt de Sankt Pölten est entièrement piétonne et facile en chien ; les pavés peuvent glisser sous la neige hivernale, prévoyez bottines ou harnais antidérapant.",
+        "La plupart des musées refusent les chiens non d'assistance, mais les jardins en plein air du château Renaissance de la Schallaburg (15 km au sud) acceptent les chiens en laisse dans les jardins mais pas dans le donjon.",
+        "Escapades dans les villages viticoles de la Wachau : Dürnstein 35 km, Spitz 50 km, Krems 30 km, toutes accessibles en moins d'1h en voiture ou bus VOR."
+      ],
+      "tipsEs": [
+        "El Altstadt de Sankt Pölten es totalmente peatonal y fácil con perro; los adoquines pueden resbalar con la nieve invernal, lleva botitas o arnés antideslizante.",
+        "La mayoría de museos rechazan perros no de asistencia, pero los jardines al aire libre del castillo renacentista de la Schallaburg (15 km al sur) admiten perros con correa en los jardines aunque no en la torre del homenaje.",
+        "Escapadas a pueblos vinícolas de la Wachau: Dürnstein 35 km, Spitz 50 km, Krems 30 km, todos accesibles en menos de 1h en coche o bus VOR."
+      ],
+      "tipsPt": [
+        "O Altstadt de Sankt Pölten é totalmente pedonal e fácil com cão; os paralelepípedos podem escorregar com a neve invernal, leve botas ou arnês antiderrapante.",
+        "A maioria dos museus recusa cães não de assistência, mas os jardins ao ar livre do castelo renascentista de Schallaburg (15 km a sul) aceitam cães com trela nos jardins embora não na torre de menagem.",
+        "Escapadas pelas aldeias vinícolas da Wachau: Dürnstein 35 km, Spitz 50 km, Krems 30 km, todas acessíveis em menos de 1h de carro ou autocarro VOR."
+      ],
+      "faqsEn": [
+        {"q": "Are dogs allowed in Sankt Pölten churches?", "a": "Only assistance dogs may enter the Baroque cathedral and other churches; leashed pets are welcome on the surrounding Domplatz."},
+        {"q": "Is the Wachau a good day trip with a dog?", "a": "Yes, Dürnstein, Spitz and Krems all accept leashed dogs on village streets and Heuriger terraces; the Danube cycle path between them is dog-friendly throughout."},
+        {"q": "Can my dog ride the Mariazellerbahn narrow-gauge railway?", "a": "Yes, the heritage NÖVOG Mariazellerbahn from Sankt Pölten to Mariazell accepts small dogs in carriers free and larger dogs with a half-fare ticket and muzzle."}
+      ],
+      "faqsFr": [
+        {"q": "Les chiens sont-ils admis dans les églises de Sankt Pölten ?", "a": "Seuls les chiens d'assistance peuvent entrer dans la cathédrale baroque et autres églises ; les chiens en laisse sont bienvenus sur la Domplatz environnante."},
+        {"q": "La Wachau est-elle une bonne excursion d'une journée avec un chien ?", "a": "Oui, Dürnstein, Spitz et Krems acceptent tous les chiens en laisse dans les rues et sur les terrasses Heuriger ; la véloroute du Danube entre eux est dog-friendly d'un bout à l'autre."},
+        {"q": "Mon chien peut-il prendre la Mariazellerbahn à voie étroite ?", "a": "Oui, la Mariazellerbahn historique NÖVOG de Sankt Pölten à Mariazell accepte les petits chiens en cage gratuitement et les plus grands avec demi-tarif et muselière."}
+      ],
+      "faqsEs": [
+        {"q": "¿Se admiten perros en las iglesias de Sankt Pölten?", "a": "Solo los perros de asistencia pueden entrar en la catedral barroca y otras iglesias; los perros con correa son bienvenidos en la Domplatz circundante."},
+        {"q": "¿La Wachau es una buena excursión de un día con perro?", "a": "Sí, Dürnstein, Spitz y Krems admiten todos perros con correa en las calles del pueblo y en las terrazas Heuriger; el carril bici del Danubio entre ellos es pet-friendly de principio a fin."},
+        {"q": "¿Mi perro puede viajar en la Mariazellerbahn de vía estrecha?", "a": "Sí, la histórica Mariazellerbahn NÖVOG de Sankt Pölten a Mariazell admite perros pequeños en transportín gratis y los más grandes con medio billete y bozal."}
+      ],
+      "faqsPt": [
+        {"q": "Os cães são admitidos nas igrejas de Sankt Pölten?", "a": "Só os cães de assistência podem entrar na catedral barroca e outras igrejas; os cães com trela são bem-vindos na Domplatz envolvente."},
+        {"q": "A Wachau é um bom passeio de um dia com cão?", "a": "Sim, Dürnstein, Spitz e Krems aceitam todos cães com trela nas ruas da aldeia e nas esplanadas Heuriger; a ciclovia do Danúbio entre eles é pet-friendly de ponta a ponta."},
+        {"q": "O meu cão pode andar na Mariazellerbahn de via estreita?", "a": "Sim, a histórica Mariazellerbahn NÖVOG de Sankt Pölten a Mariazell aceita cães pequenos em transportadora grátis e os maiores com meio bilhete e açaime."}
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Boarding in Sankt Pölten",
+      "titleFr": "Garde et pension canine à Sankt Pölten",
+      "titleEs": "Cuidado y residencia canina en Sankt Pölten",
+      "titlePt": "Cuidados e creche canina em Sankt Pölten",
+      "introEn": "Sankt Pölten has a modest but reliable pet-sitting network, mostly operating through the Austrian arms of Pawshake and Rover, plus a long-established kennel near the Traisental wine villages. Most hosts speak German and English and accept short-notice bookings outside the summer Wachau season.",
+      "introFr": "Sankt Pölten dispose d'un réseau de garde modeste mais fiable, principalement via les antennes autrichiennes de Pawshake et Rover, plus une pension bien établie près des villages viticoles du Traisental. La plupart des hôtes parlent allemand et anglais et acceptent des réservations courtes hors saison estivale de la Wachau.",
+      "introEs": "Sankt Pölten cuenta con una red de cuidadores modesta pero fiable, principalmente a través de las filiales austriacas de Pawshake y Rover, además de una residencia consolidada cerca de los pueblos vinícolas del Traisental. La mayoría de los anfitriones hablan alemán e inglés y aceptan reservas con poca antelación fuera de la temporada estival de la Wachau.",
+      "introPt": "Sankt Pölten tem uma rede de cuidadores modesta mas fiável, principalmente através das filiais austríacas da Pawshake e Rover, mais uma pensão consolidada perto das aldeias vinícolas do Traisental. A maioria dos anfitriões fala alemão e inglês e aceita reservas com pouca antecedência fora da época estival da Wachau.",
+      "places": [
+        {
+          "name": "Pawshake Sankt Pölten",
+          "address": "App-based, hosts across the city and surrounding Traisental villages",
+          "neighborhood": "Citywide",
+          "website": "https://www.pawshake.at/",
+          "description": "The leading peer-to-peer pet sitting platform in Austria, with verified Sankt Pölten hosts offering drop-in visits, day care and overnight boarding. Most hosts have ground-floor flats or small gardens with quick outdoor access.",
+          "descriptionFr": "La plateforme de pet sitting pair à pair leader en Autriche, avec des hôtes vérifiés à Sankt Pölten offrant visites, garde de jour et pension de nuit. La plupart ont des appartements de plain-pied ou de petits jardins avec accès extérieur rapide.",
+          "descriptionEs": "La plataforma líder de pet sitting entre particulares en Austria, con anfitriones verificados en Sankt Pölten que ofrecen visitas, guardería diurna y alojamiento nocturno. La mayoría tiene pisos en planta baja o pequeños jardines con acceso exterior rápido.",
+          "descriptionPt": "A plataforma líder de pet sitting entre particulares na Áustria, com anfitriões verificados em Sankt Pölten que oferecem visitas, creche diurna e alojamento nocturno. A maioria tem apartamentos no rés-do-chão ou pequenos jardins com acesso exterior rápido.",
+          "petPolicy": "Per-host policies; insured and reviewed bookings",
+          "petPolicyFr": "Politiques propres à chaque hôte ; réservations assurées et évaluées",
+          "petPolicyEs": "Políticas por anfitrión; reservas con seguro y reseñas",
+          "petPolicyPt": "Políticas por anfitrião; reservas com seguro e avaliações",
+          "services": "Drop-in visits, day care, overnight boarding",
+          "servicesFr": "Visites, garde de jour, pension de nuit",
+          "servicesEs": "Visitas, guardería diurna, alojamiento nocturno",
+          "servicesPt": "Visitas, creche diurna, alojamento nocturno",
+          "openingHours": "App available 24/7; sitters set own hours"
+        },
+        {
+          "name": "Hundepension Mostviertel",
+          "address": "Traisental Bundesstraße 12, 3105 Sankt Pölten",
+          "neighborhood": "North Sankt Pölten / Traisental",
+          "website": "https://www.hundepension-mostviertel.at/",
+          "description": "A small family-run boarding kennel on the road to the Traisental wine villages 4 km north of the centre, with outdoor runs and supervised group walks. Drop-off Monday to Saturday morning, pre-booking essential in July and August.",
+          "descriptionFr": "Pension familiale sur la route des villages viticoles du Traisental à 4 km au nord du centre, avec parcs extérieurs et promenades de groupe supervisées. Dépôt du lundi au samedi matin, réservation essentielle en juillet-août.",
+          "descriptionEs": "Pequeña residencia familiar en la carretera de los pueblos vinícolas del Traisental a 4 km al norte del centro, con parques exteriores y paseos grupales supervisados. Entrega de lunes a sábado por la mañana, reserva imprescindible en julio y agosto.",
+          "descriptionPt": "Pequena pensão familiar na estrada das aldeias vinícolas do Traisental a 4 km a norte do centro, com parques exteriores e passeios em grupo supervisionados. Entrega de segunda a sábado de manhã, reserva essencial em julho e agosto.",
+          "petPolicy": "Vaccinations and EU passport required; max-stay 14 days",
+          "petPolicyFr": "Vaccinations et passeport européen exigés ; séjour max 14 jours",
+          "petPolicyEs": "Vacunaciones y pasaporte UE requeridos; estancia máx 14 días",
+          "petPolicyPt": "Vacinações e passaporte UE exigidos; estadia máx 14 dias",
+          "services": "Daycare, multi-day boarding, group training walks",
+          "servicesFr": "Garde de jour, pension multi-jours, promenades d'entraînement de groupe",
+          "servicesEs": "Guardería, pensión de varios días, paseos grupales de entrenamiento",
+          "servicesPt": "Creche diurna, pensão de vários dias, passeios de treino em grupo",
+          "openingHours": "Mon-Sat 8:00-12:00 and 16:00-18:00; closed Sun"
+        }
+      ],
+      "tipsEn": [
+        "Pawshake Austria rates in Sankt Pölten run EUR 22-32 per night for overnight boarding and EUR 11-16 per 30-minute walk; pricing visible inside the app.",
+        "Most boarding kennels require proof of rabies and DHPPi vaccinations and an EU passport; bring originals not photocopies.",
+        "Book 2-3 weeks ahead for any stay overlapping the late-August Frequency Festival or the Wachau wine-harvest weekends (mid-September to mid-October)."
+      ],
+      "tipsFr": [
+        "Les tarifs Pawshake Autriche à Sankt Pölten oscillent entre 22-32 € par nuit pour la pension et 11-16 € par balade de 30 minutes ; tarifs visibles dans l'appli.",
+        "La plupart des pensions exigent preuves de vaccinations antirabique et DHPPi ainsi qu'un passeport européen ; apportez les originaux, pas de photocopies.",
+        "Réservez 2-3 semaines à l'avance pour tout séjour chevauchant le Frequency Festival de fin août ou les weekends de vendanges de la Wachau (mi-septembre à mi-octobre)."
+      ],
+      "tipsEs": [
+        "Las tarifas Pawshake Austria en Sankt Pölten van de 22-32 € por noche para alojamiento y 11-16 € por paseo de 30 minutos; precios visibles en la app.",
+        "La mayoría de residencias exigen pruebas de vacunación antirrábica y DHPPi además del pasaporte UE; lleva originales, no fotocopias.",
+        "Reserva con 2-3 semanas de antelación para cualquier estancia que coincida con el Frequency Festival de finales de agosto o los fines de semana de vendimia de la Wachau (mediados de septiembre a mediados de octubre)."
+      ],
+      "tipsPt": [
+        "As tarifas Pawshake Áustria em Sankt Pölten vão de 22-32 € por noite para alojamento e 11-16 € por passeio de 30 minutos; preços visíveis na app.",
+        "A maioria das pensões exige provas de vacinação antirrábica e DHPPi mais o passaporte UE; leve originais, não fotocópias.",
+        "Reserve com 2-3 semanas de antecedência para qualquer estadia que coincida com o Frequency Festival de finais de agosto ou os fins de semana de vindima da Wachau (meados de setembro a meados de outubro)."
+      ],
+      "faqsEn": [
+        {"q": "How much does pet sitting cost in Sankt Pölten?", "a": "Expect EUR 22-32 per night for boarding and EUR 11-16 per 30-minute walk via Pawshake; the Hundepension Mostviertel kennel charges from EUR 26 per day."},
+        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Sankt Pölten hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a Festspielhaus concert or a Wachau dinner cruise."},
+        {"q": "Do I need to bring my dog's food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."}
+      ],
+      "faqsFr": [
+        {"q": "Combien coûte la garde à Sankt Pölten ?", "a": "Comptez 22-32 € par nuit en pension et 11-16 € par balade de 30 minutes via Pawshake ; la pension Hundepension Mostviertel facture à partir de 26 € par jour."},
+        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Sankt Pölten gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour un concert au Festspielhaus ou un dîner-croisière dans la Wachau."},
+        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."}
+      ],
+      "faqsEs": [
+        {"q": "¿Cuánto cuesta el cuidado de mascotas en Sankt Pölten?", "a": "Cuenta 22-32 € por noche en residencia y 11-16 € por paseo de 30 minutos vía Pawshake; la Hundepension Mostviertel cobra desde 26 € por día."},
+        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Sankt Pölten guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para un concierto en el Festspielhaus o un crucero con cena en la Wachau."},
+        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."}
+      ],
+      "faqsPt": [
+        {"q": "Quanto custa o cuidado de animais em Sankt Pölten?", "a": "Conte 22-32 € por noite em creche e 11-16 € por passeio de 30 minutos via Pawshake; a Hundepension Mostviertel cobra desde 26 € por dia."},
+        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Sankt Pölten guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para um concerto no Festspielhaus ou um cruzeiro com jantar na Wachau."},
+        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."}
+      ]
+    }
+  }
+}

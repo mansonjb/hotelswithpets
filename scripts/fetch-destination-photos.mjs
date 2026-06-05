@@ -24,6 +24,9 @@ async function loadApiKey() {
 
 // Slug → query targeting a photogenic, pet-relevant landmark
 const TARGETS = [
+  { slug: 'sintra',        query: 'Sintra Portugal Palacio da Pena polychrome romantic palace Serra de Sintra UNESCO panorama sunset' },
+  { slug: 'lagos',         query: 'Lagos Portugal Algarve Ponta da Piedade cliffs Atlantic golden coast panorama sunset' },
+  { slug: 'guimaraes',     query: 'Guimaraes Portugal medieval castle Largo da Oliveira Paco dos Duques UNESCO birthplace panorama sunset' },
   { slug: 'kaunas',        query: 'Kaunas Lithuania Old Town Town Hall Pažaislis Monastery Modernist UNESCO Laisvės Alėja panorama sunset' },
   { slug: 'regensburg',    query: 'Regensburg Germany Steinerne Brucke stone bridge Cathedral Danube UNESCO old town panorama sunset' },
   { slug: 'poznan',        query: 'Poznan Poland Stary Rynek Old Market Square Town Hall colorful tenements Renaissance panorama sunset' },

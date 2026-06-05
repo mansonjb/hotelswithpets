@@ -1,0 +1,813 @@
+{
+  "slug": "sintra",
+  "name": "Sintra",
+  "country": "Portugal",
+  "flag": "🇵🇹",
+  "lastUpdated": "2026-06-05",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Sintra",
+      "titleFr": "Restaurants accueillant les chiens à Sintra",
+      "titleEs": "Restaurantes pet-friendly en Sintra",
+      "titlePt": "Restaurantes pet-friendly em Sintra",
+      "introEn": "Sintra's restaurant culture is split between the touristy Vila Velha around the National Palace and the quieter São Pedro and Estefânia quarters where locals eat. Pavement terraces under plane trees almost universally welcome a leashed dog, and several upscale quintas in the surrounding Serra accept calm dogs on their garden terraces year-round.",
+      "introFr": "La scène gastronomique de Sintra se partage entre la Vila Velha touristique autour du Palais National et les quartiers plus calmes de São Pedro et Estefânia où mangent les habitants. Les terrasses pavées sous les platanes acceptent presque toujours un chien en laisse, et plusieurs quintas haut de gamme dans la Serra environnante accueillent les chiens calmes sur leurs terrasses-jardin toute l'année.",
+      "introEs": "La escena gastronómica de Sintra se reparte entre la turística Vila Velha en torno al Palacio Nacional y los barrios más tranquilos de São Pedro y Estefânia donde comen los locales. Las terrazas adoquinadas bajo los plátanos admiten casi siempre un perro con correa, y varias quintas de gama alta en la Serra circundante aceptan perros tranquilos en sus terrazas-jardín todo el año.",
+      "introPt": "A cena gastronómica de Sintra divide-se entre a turística Vila Velha em torno do Palácio Nacional e os bairros mais tranquilos de São Pedro e Estefânia onde comem os locais. As esplanadas calcetadas sob os plátanos aceitam quase sempre um cão com trela, e várias quintas de gama alta na Serra envolvente acolhem cães calmos nos seus terraços-jardim o ano inteiro.",
+      "places": [
+        {
+          "name": "Tascantiga Sintra",
+          "address": "Escadinhas da Fonte da Pipa 4, 2710-602 Sintra",
+          "neighborhood": "Vila Velha",
+          "photo": "/images/city-places/sintra-restaurants-tascantiga.jpg",
+          "website": "https://www.tascantiga.pt/",
+          "description": "A tapas-style petisqueira tucked into the cobbled stairs below the National Palace, with a small terrace overlooking the Vila Velha rooftops. The menu pairs Portuguese petiscos with regional wines and the staff bring water bowls to dogs on the terrace tables without being asked.",
+          "descriptionFr": "Petisqueira de style tapas nichée dans les escaliers pavés sous le Palais National, avec une petite terrasse surplombant les toits de la Vila Velha. La carte associe petiscos portugais et vins régionaux et le personnel apporte spontanément des gamelles d'eau aux chiens en terrasse.",
+          "descriptionEs": "Petisqueira de estilo tapas escondida en las escaleras adoquinadas bajo el Palacio Nacional, con una pequeña terraza sobre los tejados de la Vila Velha. La carta marida petiscos portugueses con vinos regionales y el personal lleva espontáneamente cuencos de agua a los perros en terraza.",
+          "descriptionPt": "Petisqueira de estilo tapas escondida nas escadas calcetadas sob o Palácio Nacional, com uma pequena esplanada sobre os telhados da Vila Velha. A carta combina petiscos portugueses com vinhos regionais e o pessoal traz espontaneamente taças de água aos cães na esplanada.",
+          "petPolicy": "Leashed dogs welcome on terrace; water bowl provided",
+          "petPolicyFr": "Chiens en laisse bienvenus en terrasse ; gamelle d'eau fournie",
+          "petPolicyEs": "Perros con correa bienvenidos en terraza; cuenco de agua incluido",
+          "petPolicyPt": "Cães com trela bem-vindos na esplanada; taça de água incluída",
+          "priceRange": "EUR 4-12 per petisco",
+          "mustTry": "Bochechas de porco preto and queijo da serra with Colares wine",
+          "mustTryFr": "Bochechas de porco preto et queijo da serra avec vin de Colares",
+          "mustTryEs": "Bochechas de porco preto y queijo da serra con vino de Colares",
+          "mustTryPt": "Bochechas de porco preto e queijo da serra com vinho de Colares",
+          "openingHours": "Daily 12:00-23:00",
+          "tip": "Arrive before 13:00 or after 15:00 to secure a terrace table; midday tour groups fill the limited outdoor seats fast.",
+          "tipFr": "Arrivez avant 13h ou après 15h pour obtenir une table en terrasse ; les groupes touristiques de midi remplissent vite les places limitées en extérieur.",
+          "tipEs": "Llega antes de las 13:00 o después de las 15:00 para conseguir mesa en terraza; los grupos turísticos del mediodía llenan rápido los limitados asientos al aire libre.",
+          "tipPt": "Chegue antes das 13:00 ou depois das 15:00 para garantir mesa na esplanada; os grupos turísticos do meio-dia enchem rapidamente os limitados lugares ao ar livre.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tascantiga+Sintra"
+        },
+        {
+          "name": "Incomum by Luís Santos",
+          "address": "Rua Doutor Alfredo da Costa 22, 2710-523 Sintra",
+          "neighborhood": "Estefânia",
+          "photo": "/images/city-places/sintra-restaurants-incomum.jpg",
+          "website": "https://www.incomumbyluissantos.pt/",
+          "description": "A modern Portuguese bistro from chef Luís Santos near the Estefânia station, with a pavement terrace shaded by a generous awning. The kitchen pairs creative seasonal cooking with a serious wine list and accepts leashed dogs on the terrace year-round.",
+          "descriptionFr": "Bistrot portugais moderne du chef Luís Santos près de la gare d'Estefânia, avec terrasse de trottoir ombragée par un large store. La cuisine associe créations saisonnières et carte de vins sérieuse, et accepte les chiens en laisse en terrasse toute l'année.",
+          "descriptionEs": "Bistró portugués moderno del chef Luís Santos cerca de la estación de Estefânia, con terraza adoquinada protegida por un amplio toldo. La cocina une creaciones de temporada y una carta de vinos seria, y admite perros con correa en terraza todo el año.",
+          "descriptionPt": "Bistro português moderno do chef Luís Santos perto da estação de Estefânia, com esplanada calcetada protegida por um amplo toldo. A cozinha alia criações de temporada e uma carta de vinhos séria, e aceita cães com trela na esplanada o ano inteiro.",
+          "petPolicy": "Leashed dogs welcome on terrace only",
+          "petPolicyFr": "Chiens en laisse bienvenus en terrasse uniquement",
+          "petPolicyEs": "Perros con correa bienvenidos solo en terraza",
+          "petPolicyPt": "Cães com trela bem-vindos apenas na esplanada",
+          "priceRange": "EUR 18-32 main course",
+          "mustTry": "Bacalhau confit and the seasonal tasting menu",
+          "mustTryFr": "Bacalhau confit et menu dégustation saisonnier",
+          "mustTryEs": "Bacalao confitado y menú degustación de temporada",
+          "mustTryPt": "Bacalhau confit e menu de degustação sazonal",
+          "openingHours": "Tue-Sun 12:30-15:00 and 19:30-22:30; closed Mon",
+          "tip": "Book ahead for dinner; the 8-table terrace is small and fills early in summer.",
+          "tipFr": "Réservez à l'avance pour le dîner ; la terrasse de 8 tables est petite et se remplit tôt en été.",
+          "tipEs": "Reserva con antelación para cenar; la terraza de 8 mesas es pequeña y se llena pronto en verano.",
+          "tipPt": "Reserve com antecedência para jantar; a esplanada de 8 mesas é pequena e enche cedo no verão.",
+          "googleMapsUrl": "https://maps.google.com/?q=Incomum+by+Luis+Santos+Sintra"
+        },
+        {
+          "name": "Cantinho Gourmet de São Pedro",
+          "address": "Praça Dom Fernando II 16, 2710-483 São Pedro de Sintra",
+          "neighborhood": "São Pedro",
+          "photo": "/images/city-places/sintra-restaurants-cantinho-sao-pedro.jpg",
+          "website": "https://www.cantinhogourmetsaopedro.pt/",
+          "description": "A family-run tasca on the Praça de São Pedro, the village square that hosts the famous second-Sunday Feira de São Pedro market. The pavement terrace looks across the square to the church, and the menu sticks to Saloio classics like ensopado de borrego and bacalhau à brás.",
+          "descriptionFr": "Tasca familiale sur la Praça de São Pedro, place du village qui accueille la célèbre Feira de São Pedro le deuxième dimanche du mois. La terrasse de trottoir donne sur la place et l'église, et la carte reste fidèle aux classiques saloios comme ensopado de borrego et bacalhau à brás.",
+          "descriptionEs": "Tasca familiar en la Praça de São Pedro, la plaza del pueblo que acoge la célebre Feira de São Pedro el segundo domingo del mes. La terraza adoquinada da a la plaza y la iglesia, y la carta es fiel a los clásicos saloios como ensopado de borrego y bacalhau à brás.",
+          "descriptionPt": "Tasca familiar na Praça de São Pedro, a praça da aldeia que acolhe a famosa Feira de São Pedro no segundo domingo do mês. A esplanada calcetada vira-se para a praça e a igreja, e a carta mantém-se fiel aos clássicos saloios como ensopado de borrego e bacalhau à brás.",
+          "petPolicy": "Leashed dogs welcome on terrace and inside the side room",
+          "petPolicyFr": "Chiens en laisse bienvenus en terrasse et en salle latérale",
+          "petPolicyEs": "Perros con correa bienvenidos en terraza y sala lateral",
+          "petPolicyPt": "Cães com trela bem-vindos na esplanada e sala lateral",
+          "priceRange": "EUR 12-22 main course",
+          "mustTry": "Ensopado de borrego and travesseiros de Sintra for dessert",
+          "mustTryFr": "Ensopado de borrego et travesseiros de Sintra en dessert",
+          "mustTryEs": "Ensopado de cordero y travesseiros de Sintra de postre",
+          "mustTryPt": "Ensopado de borrego e travesseiros de Sintra de sobremesa",
+          "openingHours": "Wed-Mon 12:00-22:00; closed Tue",
+          "tip": "Skip the touristy Vila Velha for lunch and walk the 1.5 km up to São Pedro; the food is better, prices lower and dogs have more room on the square.",
+          "tipFr": "Évitez la Vila Velha touristique au déjeuner et montez les 1,5 km jusqu'à São Pedro ; meilleure cuisine, prix plus bas et plus de place pour les chiens sur la place.",
+          "tipEs": "Salta la turística Vila Velha para comer y sube los 1,5 km hasta São Pedro; comida mejor, precios más bajos y más espacio para los perros en la plaza.",
+          "tipPt": "Salte a turística Vila Velha ao almoço e suba os 1,5 km até São Pedro; comida melhor, preços mais baixos e mais espaço para os cães na praça.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cantinho+Gourmet+Sao+Pedro+Sintra"
+        }
+      ],
+      "tipsEn": [
+        "Most Sintra terraces welcome leashed dogs by default; air-conditioned indoor rooms in July-August often prefer dogs outside, ask at the door.",
+        "Travesseiros de Sintra and queijadas are the town's iconic pastries, sold at Piriquita and Sapa, both with pavement terraces dog-friendly.",
+        "Lunch is typically 12:30-15:00 and dinner from 19:30; many family-run restaurants close Tuesdays, plan around it."
+      ],
+      "tipsFr": [
+        "La plupart des terrasses de Sintra acceptent les chiens en laisse par défaut ; les salles climatisées en juillet-août préfèrent souvent les chiens dehors, demandez à l'entrée.",
+        "Les travesseiros de Sintra et les queijadas sont les pâtisseries emblématiques de la ville, vendues à Piriquita et Sapa, toutes deux avec terrasses dog-friendly.",
+        "Le déjeuner est servi de 12h30 à 15h et le dîner à partir de 19h30 ; beaucoup d'établissements familiaux ferment le mardi, planifiez en conséquence."
+      ],
+      "tipsEs": [
+        "La mayoría de las terrazas de Sintra admiten perros con correa por defecto; los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera, pregunta en la entrada.",
+        "Los travesseiros de Sintra y las queijadas son los pasteles emblemáticos de la villa, vendidos en Piriquita y Sapa, ambas con terrazas pet-friendly.",
+        "El almuerzo se sirve normalmente de 12:30 a 15:00 y la cena desde las 19:30; muchos restaurantes familiares cierran los martes, planifica en consecuencia."
+      ],
+      "tipsPt": [
+        "A maioria das esplanadas de Sintra aceita cães com trela por defeito; as salas com ar condicionado em julho-agosto costumam preferir os cães fora, pergunte à entrada.",
+        "Os travesseiros de Sintra e as queijadas são os doces emblemáticos da vila, vendidos na Piriquita e na Sapa, ambas com esplanadas pet-friendly.",
+        "O almoço serve-se normalmente das 12:30 às 15:00 e o jantar a partir das 19:30; muitos restaurantes familiares fecham à terça, planeie em conformidade."
+      ],
+      "faqsEn": [
+        {"q": "Are dogs allowed inside Sintra restaurants?", "a": "Leashed dogs are welcome on virtually every pavement terrace and inside the majority of tascas and bistros. Upscale dining rooms may prefer the terrace in summer, simply ask at the door."},
+        {"q": "Do restaurants provide water bowls?", "a": "Most terraces bring a bowl unprompted; if not, asking for água para o cão always works."},
+        {"q": "Can I take my dog into the Sintra National Palace café?", "a": "The exterior café terrace on Praça da República accepts leashed dogs; the palace interior itself does not allow non-assistance animals."}
+      ],
+      "faqsFr": [
+        {"q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Sintra ?", "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de trottoir et à l'intérieur de la plupart des tascas et bistrots. La haute gastronomie peut préférer la terrasse en été, demandez simplement à l'entrée."},
+        {"q": "Les restaurants fournissent-ils des gamelles d'eau ?", "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander água para o cão fonctionne toujours."},
+        {"q": "Puis-je emmener mon chien au café du Palais National de Sintra ?", "a": "La terrasse extérieure sur la Praça da República accepte les chiens en laisse ; l'intérieur du palais lui-même n'autorise pas les animaux non d'assistance."}
+      ],
+      "faqsEs": [
+        {"q": "¿Se admiten perros dentro de los restaurantes de Sintra?", "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas adoquinadas y dentro de la mayoría de tascas y bistrós. La alta gastronomía puede preferir la terraza en verano, basta con preguntar en la entrada."},
+        {"q": "¿Los restaurantes ofrecen cuencos de agua?", "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir água para o cão siempre funciona."},
+        {"q": "¿Puedo llevar al perro al café del Palacio Nacional de Sintra?", "a": "La terraza exterior en la Praça da República admite perros con correa; el interior del palacio en sí no admite animales no de asistencia."}
+      ],
+      "faqsPt": [
+        {"q": "Os cães são admitidos dentro dos restaurantes de Sintra?", "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas calcetadas e dentro da maioria das tascas e bistros. A alta gastronomia pode preferir a esplanada no verão, basta perguntar à entrada."},
+        {"q": "Os restaurantes oferecem taças de água?", "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir água para o cão funciona sempre."},
+        {"q": "Posso levar o meu cão ao café do Palácio Nacional de Sintra?", "a": "A esplanada exterior na Praça da República aceita cães com trela; o interior do palácio em si não admite animais não de assistência."}
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog-Friendly Parks in Sintra",
+      "titleFr": "Meilleurs parcs canins à Sintra",
+      "titleEs": "Mejores parques para perros en Sintra",
+      "titlePt": "Melhores parques para cães em Sintra",
+      "introEn": "Sintra sits inside the 145 km² Sintra-Cascais Natural Park, a granite mountain range cloaked in Atlantic laurel forest, eucalyptus and cork oak. The municipal parks below the Palácio da Pena, the Capuchos convent woodland and the Convento da Peninha plateau offer kilometres of shaded leash-easy walking with views of the Atlantic, while the surrounding Serra trails climb to 528 m.",
+      "introFr": "Sintra se trouve dans le parc naturel de Sintra-Cascais de 145 km², chaîne granitique couverte de laurisylve atlantique, d'eucalyptus et de chênes-lièges. Les parcs municipaux sous le Palácio da Pena, la forêt du couvent des Capucins et le plateau du Convento da Peninha offrent des kilomètres de marche ombragée facile en laisse avec vues sur l'Atlantique, tandis que les sentiers de la Serra environnante grimpent à 528 m.",
+      "introEs": "Sintra se sitúa dentro del parque natural de Sintra-Cascais de 145 km², cordillera granítica cubierta de laurisilva atlántica, eucaliptos y alcornoques. Los parques municipales bajo el Palácio da Pena, el bosque del convento de los Capuchinos y la meseta del Convento da Peninha ofrecen kilómetros de paseo sombreado fácil con correa con vistas al Atlántico, mientras los senderos de la Serra circundante suben a 528 m.",
+      "introPt": "Sintra situa-se dentro do parque natural de Sintra-Cascais de 145 km², cordilheira granítica coberta de laurissilva atlântica, eucaliptos e sobreiros. Os parques municipais sob o Palácio da Pena, o bosque do convento dos Capuchos e o planalto do Convento da Peninha oferecem quilómetros de passeio sombreado fácil com trela com vistas para o Atlântico, enquanto os trilhos da Serra envolvente sobem aos 528 m.",
+      "places": [
+        {
+          "name": "Parque da Pena (outdoor grounds)",
+          "address": "Estrada da Pena, 2710-609 Sintra",
+          "neighborhood": "Serra de Sintra",
+          "photo": "/images/city-places/sintra-parks-parque-da-pena.jpg",
+          "website": "https://www.parquesdesintra.pt/",
+          "description": "The 200-hectare romantic park surrounding the Palácio da Pena, planted in the 1840s with thousands of exotic trees by King Ferdinand II. The park's shaded gravel paths, ponds, ferneries and lookouts welcome leashed dogs daily; the palace interior does not.",
+          "descriptionFr": "Parc romantique de 200 hectares entourant le Palácio da Pena, planté dans les années 1840 de milliers d'arbres exotiques par le roi Ferdinand II. Les allées de gravier ombragées, étangs, fougeraies et belvédères du parc accueillent les chiens en laisse chaque jour ; l'intérieur du palais non.",
+          "descriptionEs": "Parque romántico de 200 hectáreas que rodea el Palácio da Pena, plantado en la década de 1840 con miles de árboles exóticos por el rey Fernando II. Los senderos de grava sombreados, estanques, helechales y miradores del parque admiten perros con correa a diario; el interior del palacio no.",
+          "descriptionPt": "Parque romântico de 200 hectares que envolve o Palácio da Pena, plantado nos anos 1840 com milhares de árvores exóticas pelo rei Fernando II. Os trilhos de gravilha sombreados, lagos, fetais e miradouros do parque acolhem cães com trela diariamente; o interior do palácio não.",
+          "petPolicy": "Leashed dogs welcome in the park grounds; not inside the palace",
+          "petPolicyFr": "Chiens en laisse bienvenus dans le parc ; pas à l'intérieur du palais",
+          "petPolicyEs": "Perros con correa bienvenidos en el parque; no dentro del palacio",
+          "petPolicyPt": "Cães com trela bem-vindos no parque; não dentro do palácio",
+          "size": "200 hectares",
+          "facilities": "Cafés, toilets, ticket office at Vale dos Lagos entrance",
+          "facilitiesFr": "Cafés, toilettes, billetterie à l'entrée Vale dos Lagos",
+          "facilitiesEs": "Cafeterías, baños, taquilla en la entrada Vale dos Lagos",
+          "facilitiesPt": "Cafés, casas de banho, bilheteira na entrada Vale dos Lagos",
+          "openingHours": "Daily 09:30-18:30 (summer until 20:00)",
+          "tip": "Enter at the Vale dos Lagos gate rather than the main palace gate and walk the lower lake loop first; the path stays shaded and avoids the steep palace climb.",
+          "tipFr": "Entrez par la porte Vale dos Lagos plutôt que la porte principale du palais et faites d'abord la boucle du lac inférieur ; le sentier reste ombragé et évite la montée raide.",
+          "tipEs": "Entra por la puerta Vale dos Lagos en vez de la principal del palacio y haz primero el bucle del lago bajo; el sendero se mantiene sombreado y evita la subida empinada.",
+          "tipPt": "Entre pela porta Vale dos Lagos em vez da principal do palácio e faça primeiro o circuito do lago inferior; o trilho fica sombreado e evita a subida íngreme.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+da+Pena+Sintra"
+        },
+        {
+          "name": "Quinta da Regaleira gardens",
+          "address": "Rua Barbosa du Bocage 5, 2710-567 Sintra",
+          "neighborhood": "Vila Velha",
+          "photo": "/images/city-places/sintra-parks-quinta-da-regaleira.jpg",
+          "website": "https://www.regaleira.pt/",
+          "description": "The four-hectare romantic gardens of the Quinta da Regaleira are the most photogenic walk in Sintra: an Initiation Well spiraling 27 m underground, grottoes, waterfalls and Masonic-symbolic chapels. Leashed dogs are welcome across the gardens, the Initiation Well stairs and the underground tunnels.",
+          "descriptionFr": "Les jardins romantiques de quatre hectares de la Quinta da Regaleira sont la promenade la plus photogénique de Sintra : Puits Initiatique en spirale à 27 m sous terre, grottes, cascades et chapelles à symbolisme maçonnique. Les chiens en laisse sont bienvenus dans les jardins, l'escalier du Puits Initiatique et les tunnels souterrains.",
+          "descriptionEs": "Los jardines románticos de cuatro hectáreas de la Quinta da Regaleira son el paseo más fotogénico de Sintra: Pozo Iniciático en espiral a 27 m bajo tierra, grutas, cascadas y capillas con simbolismo masónico. Los perros con correa son bienvenidos en los jardines, la escalera del Pozo Iniciático y los túneles subterráneos.",
+          "descriptionPt": "Os jardins românticos de quatro hectares da Quinta da Regaleira são o passeio mais fotogénico de Sintra: Poço Iniciático em espiral a 27 m debaixo da terra, grutas, cascatas e capelas com simbolismo maçónico. Os cães com trela são bem-vindos nos jardins, a escada do Poço Iniciático e os túneis subterrâneos.",
+          "petPolicy": "Leashed dogs welcome in gardens, well and tunnels; not in the palace interior",
+          "petPolicyFr": "Chiens en laisse bienvenus dans jardins, puits et tunnels ; pas à l'intérieur du palais",
+          "petPolicyEs": "Perros con correa bienvenidos en jardines, pozo y túneles; no en el interior del palacio",
+          "petPolicyPt": "Cães com trela bem-vindos nos jardins, poço e túneis; não no interior do palácio",
+          "size": "4 hectares",
+          "facilities": "Café and toilets at entrance; ticket office on site",
+          "facilitiesFr": "Café et toilettes à l'entrée ; billetterie sur place",
+          "facilitiesEs": "Cafetería y baños en la entrada; taquilla en el lugar",
+          "facilitiesPt": "Café e casas de banho na entrada; bilheteira no local",
+          "openingHours": "Daily 09:30-19:00 (winter until 18:00)",
+          "tip": "Carry a small dog through the Initiation Well stairs; the granite steps are narrow and steep, and crossing groups make it tricky for large dogs.",
+          "tipFr": "Portez un petit chien dans l'escalier du Puits Initiatique ; les marches en granit sont étroites et raides, et les groupes croisés compliquent le passage des grands chiens.",
+          "tipEs": "Carga a un perro pequeño por la escalera del Pozo Iniciático; los escalones de granito son estrechos y empinados, y los grupos cruzados complican el paso para perros grandes.",
+          "tipPt": "Leve um cão pequeno ao colo na escada do Poço Iniciático; os degraus de granito são estreitos e íngremes, e os grupos cruzados dificultam a passagem para cães grandes.",
+          "googleMapsUrl": "https://maps.google.com/?q=Quinta+da+Regaleira+Sintra"
+        },
+        {
+          "name": "Parque de Monserrate",
+          "address": "Estrada de Monserrate, 2710-405 Sintra",
+          "neighborhood": "Serra de Sintra (west)",
+          "photo": "/images/city-places/sintra-parks-parque-de-monserrate.jpg",
+          "website": "https://www.parquesdesintra.pt/",
+          "description": "The 33-hectare botanical garden of the Palácio de Monserrate, planted with 2,500 species from across the British colonial network in the 19th century. The shaded fern valley, Mexican garden and Indian-Gothic palace exterior welcome leashed dogs year-round, with far fewer crowds than Pena.",
+          "descriptionFr": "Le jardin botanique de 33 hectares du Palácio de Monserrate, planté de 2 500 espèces issues du réseau colonial britannique au XIXᵉ siècle. La vallée des fougères ombragée, le jardin mexicain et l'extérieur du palais indo-gothique accueillent les chiens en laisse toute l'année, avec bien moins de monde qu'à Pena.",
+          "descriptionEs": "El jardín botánico de 33 hectáreas del Palácio de Monserrate, plantado con 2.500 especies de la red colonial británica en el siglo XIX. El valle de helechos sombreado, el jardín mexicano y el exterior indogótico del palacio admiten perros con correa todo el año, con mucho menos gentío que Pena.",
+          "descriptionPt": "O jardim botânico de 33 hectares do Palácio de Monserrate, plantado com 2.500 espécies vindas da rede colonial britânica no século XIX. O vale dos fetos sombreado, o jardim mexicano e o exterior indo-gótico do palácio acolhem cães com trela o ano inteiro, com bem menos multidões que Pena.",
+          "petPolicy": "Leashed dogs welcome across all the grounds",
+          "petPolicyFr": "Chiens en laisse bienvenus dans tout le parc",
+          "petPolicyEs": "Perros con correa bienvenidos en todo el recinto",
+          "petPolicyPt": "Cães com trela bem-vindos em todo o recinto",
+          "size": "33 hectares",
+          "facilities": "Café in the palace stable block, toilets, picnic lawns",
+          "facilitiesFr": "Café dans les anciennes écuries, toilettes, pelouses pour pique-nique",
+          "facilitiesEs": "Cafetería en las antiguas caballerizas, baños, praderas para picnic",
+          "facilitiesPt": "Café nas antigas cavalariças, casas de banho, relvados para piquenique",
+          "openingHours": "Daily 09:30-18:30 (summer until 20:00)",
+          "tip": "Combine Monserrate with a 1 km walk to the Convento dos Capuchos cork-lined hermit cells, both quiet morning options that avoid the Pena queue.",
+          "tipFr": "Combinez Monserrate avec une marche d'1 km jusqu'aux cellules ermites tapissées de liège du Convento dos Capuchos, deux options matinales calmes qui évitent la queue de Pena.",
+          "tipEs": "Combina Monserrate con una caminata de 1 km hasta las celdas ermitañas forradas de corcho del Convento dos Capuchos, dos opciones matinales tranquilas que evitan la cola de Pena.",
+          "tipPt": "Combine Monserrate com uma caminhada de 1 km até às celas eremitas forradas a cortiça do Convento dos Capuchos, duas opções matinais calmas que evitam a fila da Pena.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Monserrate+Sintra"
+        }
+      ],
+      "tipsEn": [
+        "All Parques de Sintra sites (Pena, Regaleira, Monserrate, Capuchos, Peninha) admit leashed dogs across the outdoor grounds; only the palace interiors are off-limits.",
+        "Serra de Sintra trails can be steep and humid; bring water and avoid the unshaded summit ridge in July-August midday heat.",
+        "Wild boar live in the Serra and may be spotted at dusk on the Capuchos and Peninha trails; keep your dog on a short leash from late afternoon."
+      ],
+      "tipsFr": [
+        "Tous les sites Parques de Sintra (Pena, Regaleira, Monserrate, Capuchos, Peninha) admettent les chiens en laisse dans les espaces extérieurs ; seuls les intérieurs des palais sont interdits.",
+        "Les sentiers de la Serra de Sintra peuvent être raides et humides ; emportez de l'eau et évitez la crête sommitale sans ombre à midi en juillet-août.",
+        "Des sangliers vivent dans la Serra et peuvent être aperçus au crépuscule sur les sentiers de Capuchos et Peninha ; gardez votre chien en laisse courte dès la fin d'après-midi."
+      ],
+      "tipsEs": [
+        "Todos los sitios Parques de Sintra (Pena, Regaleira, Monserrate, Capuchos, Peninha) admiten perros con correa en los espacios exteriores; solo los interiores de los palacios están vetados.",
+        "Los senderos de la Serra de Sintra pueden ser empinados y húmedos; lleva agua y evita la cresta cumbre sin sombra al mediodía en julio-agosto.",
+        "Jabalíes viven en la Serra y pueden avistarse al atardecer en los senderos de Capuchos y Peninha; mantén a tu perro con correa corta desde el final de la tarde."
+      ],
+      "tipsPt": [
+        "Todos os sítios Parques de Sintra (Pena, Regaleira, Monserrate, Capuchos, Peninha) admitem cães com trela nos espaços exteriores; só os interiores dos palácios são vedados.",
+        "Os trilhos da Serra de Sintra podem ser íngremes e húmidos; leve água e evite a crista do cume sem sombra ao meio-dia em julho-agosto.",
+        "Javalis vivem na Serra e podem avistar-se ao crepúsculo nos trilhos dos Capuchos e Peninha; mantenha o seu cão com trela curta a partir do fim da tarde."
+      ],
+      "faqsEn": [
+        {"q": "Are dogs allowed in the Sintra palaces?", "a": "Leashed dogs are welcome in all outdoor grounds (Pena Park, Regaleira gardens, Monserrate, Capuchos, Peninha) but not in the palace interiors. Only assistance dogs may enter the buildings."},
+        {"q": "Is there an off-leash area in Sintra?", "a": "No official off-leash zone exists inside the municipal park system; the wider Serra trails tolerate off-leash with strong recall outside wild boar territory."},
+        {"q": "Do I pay extra to bring my dog into Parque da Pena?", "a": "No, the standard park entry (around EUR 10) covers one leashed dog at no surcharge; the same applies at Monserrate and Regaleira."}
+      ],
+      "faqsFr": [
+        {"q": "Les chiens sont-ils autorisés dans les palais de Sintra ?", "a": "Les chiens en laisse sont bienvenus dans tous les espaces extérieurs (parc de Pena, jardins de Regaleira, Monserrate, Capuchos, Peninha) mais pas à l'intérieur des palais. Seuls les chiens d'assistance peuvent entrer dans les bâtiments."},
+        {"q": "Y a-t-il une zone sans laisse à Sintra ?", "a": "Pas de zone officielle sans laisse dans le réseau municipal ; les sentiers de la Serra tolèrent le sans laisse avec bon rappel hors zones à sangliers."},
+        {"q": "Faut-il payer un supplément pour emmener son chien au Parque da Pena ?", "a": "Non, l'entrée standard du parc (environ 10 €) couvre un chien en laisse sans supplément ; idem à Monserrate et Regaleira."}
+      ],
+      "faqsEs": [
+        {"q": "¿Se admiten perros en los palacios de Sintra?", "a": "Los perros con correa son bienvenidos en todos los espacios exteriores (parque de Pena, jardines de Regaleira, Monserrate, Capuchos, Peninha) pero no en los interiores de los palacios. Solo los perros de asistencia pueden entrar a los edificios."},
+        {"q": "¿Hay zona sin correa en Sintra?", "a": "No existe zona oficial sin correa en la red municipal; los senderos amplios de la Serra toleran la suelta con buen llamado fuera de zonas de jabalíes."},
+        {"q": "¿Tengo que pagar un suplemento para llevar a mi perro al Parque da Pena?", "a": "No, la entrada estándar del parque (unos 10 €) cubre un perro con correa sin coste extra; lo mismo se aplica en Monserrate y Regaleira."}
+      ],
+      "faqsPt": [
+        {"q": "Os cães são admitidos nos palácios de Sintra?", "a": "Os cães com trela são bem-vindos em todos os espaços exteriores (parque da Pena, jardins da Regaleira, Monserrate, Capuchos, Peninha) mas não nos interiores dos palácios. Só os cães de assistência podem entrar nos edifícios."},
+        {"q": "Há zona sem trela em Sintra?", "a": "Não existe zona oficial sem trela na rede municipal; os trilhos amplos da Serra toleram a solta com bom chamamento fora de zonas de javalis."},
+        {"q": "Tenho de pagar suplemento para levar o meu cão ao Parque da Pena?", "a": "Não, o bilhete standard do parque (cerca de 10 €) cobre um cão com trela sem custo extra; o mesmo se aplica em Monserrate e Regaleira."}
+      ]
+    },
+    "transport": {
+      "titleEn": "Public Transport in Sintra with a Dog",
+      "titleFr": "Transports publics à Sintra avec un chien",
+      "titleEs": "Transporte público en Sintra con perro",
+      "titlePt": "Transportes públicos em Sintra com cão",
+      "introEn": "Sintra connects to Lisbon in 40 minutes via the CP Linha de Sintra suburban train and to Cascais via the Scotturb 403 coastal bus. Inside the village the Scotturb 434 hop-on circuit links the station, Vila Velha, Pena and Castelo dos Mouros. Portuguese rules let small dogs in carriers ride free and accept large muzzled leashed dogs at off-peak hours.",
+      "introFr": "Sintra est reliée à Lisbonne en 40 minutes par le train suburbain CP Linha de Sintra et à Cascais par le bus côtier Scotturb 403. Dans le village, la navette Scotturb 434 relie la gare, la Vila Velha, Pena et le Castelo dos Mouros. La réglementation portugaise permet aux petits chiens en sac de voyager gratuitement et accepte les grands chiens en laisse et muselière en heures creuses.",
+      "introEs": "Sintra conecta con Lisboa en 40 minutos vía el tren de cercanías CP Linha de Sintra y con Cascais vía el autobús costero Scotturb 403. Dentro del pueblo, la lanzadera Scotturb 434 enlaza estación, Vila Velha, Pena y Castelo dos Mouros. La normativa portuguesa permite a los perros pequeños en transportín viajar gratis y admite a los grandes con correa y bozal en horas valle.",
+      "introPt": "Sintra liga-se a Lisboa em 40 minutos pelo comboio suburbano CP Linha de Sintra e a Cascais pelo autocarro costeiro Scotturb 403. Dentro da vila, a circular Scotturb 434 liga estação, Vila Velha, Pena e Castelo dos Mouros. A regulamentação portuguesa permite aos cães pequenos em transportadora viajar grátis e aceita os grandes com trela e açaime em horas de menor afluência.",
+      "places": [
+        {
+          "name": "CP Linha de Sintra (suburban train)",
+          "address": "Estação de Sintra, Avenida Doutor Miguel Bombarda, 2710 Sintra",
+          "neighborhood": "Estefânia",
+          "photo": "/images/city-places/sintra-transport-cp-linha-sintra.jpg",
+          "website": "https://www.cp.pt/",
+          "description": "The CP Linha de Sintra connects Sintra to Lisboa-Rossio every 20 minutes for around EUR 2.30 each way. Small dogs in carriers travel free; larger leashed dogs need a muzzle and a half-fare ticket and are admitted outside the 07:30-09:30 and 18:00-20:00 peak windows.",
+          "descriptionFr": "La CP Linha de Sintra relie Sintra à Lisboa-Rossio toutes les 20 minutes pour environ 2,30 € l'aller. Les petits chiens en cage voyagent gratuitement ; les plus grands en laisse ont besoin d'une muselière et d'un billet demi-tarif et sont admis hors heures de pointe 7h30-9h30 et 18h-20h.",
+          "descriptionEs": "La CP Linha de Sintra conecta Sintra con Lisboa-Rossio cada 20 minutos por unos 2,30 € por trayecto. Los perros pequeños en transportín viajan gratis; los más grandes con correa necesitan bozal y billete a mitad de tarifa y se admiten fuera de las horas punta 7:30-9:30 y 18:00-20:00.",
+          "descriptionPt": "A CP Linha de Sintra liga Sintra a Lisboa-Rossio a cada 20 minutos por cerca de 2,30 € por viagem. Os cães pequenos em transportadora viajam grátis; os maiores com trela precisam de açaime e bilhete a meia tarifa e são admitidos fora das horas de ponta 7:30-9:30 e 18:00-20:00.",
+          "petPolicy": "Small dogs in carrier free; larger leashed dogs muzzled + half-fare, off-peak only",
+          "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens en laisse muselés + demi-tarif, heures creuses uniquement",
+          "petPolicyEs": "Perros pequeños en transportín gratis; grandes con correa con bozal + mitad de tarifa, solo horas valle",
+          "petPolicyPt": "Cães pequenos em transportadora grátis; grandes com trela com açaime + meia tarifa, apenas horas de menor afluência",
+          "googleMapsUrl": "https://maps.google.com/?q=Estacao+Sintra"
+        },
+        {
+          "name": "Scotturb 434 hop-on circuit",
+          "address": "Estação de Sintra, 2710 Sintra",
+          "neighborhood": "Vila Velha / Serra",
+          "photo": "/images/city-places/sintra-transport-scotturb-434.jpg",
+          "website": "https://www.scotturb.com/",
+          "description": "The Scotturb 434 hop-on bus loops between the train station, the Vila Velha (Palácio Nacional), the Castelo dos Mouros and the Palácio da Pena every 20 minutes. Small dogs in carriers ride free; large dogs are accepted at the driver's discretion when the bus is not full.",
+          "descriptionFr": "Le bus Scotturb 434 hop-on fait la boucle entre la gare, la Vila Velha (Palácio Nacional), le Castelo dos Mouros et le Palácio da Pena toutes les 20 minutes. Les petits chiens en cage voyagent gratuitement ; les grands sont acceptés à la discrétion du chauffeur quand le bus n'est pas plein.",
+          "descriptionEs": "El autobús Scotturb 434 hop-on hace un circuito entre la estación, la Vila Velha (Palácio Nacional), el Castelo dos Mouros y el Palácio da Pena cada 20 minutos. Los perros pequeños en transportín viajan gratis; los grandes se admiten a discreción del conductor cuando el bus no está lleno.",
+          "descriptionPt": "O autocarro Scotturb 434 hop-on faz o circuito entre a estação, a Vila Velha (Palácio Nacional), o Castelo dos Mouros e o Palácio da Pena a cada 20 minutos. Os cães pequenos em transportadora viajam grátis; os grandes são aceites à discrição do motorista quando o autocarro não está cheio.",
+          "petPolicy": "Small dogs in carrier free; large dogs at driver discretion when bus not full",
+          "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens à la discrétion du chauffeur quand le bus n'est pas plein",
+          "petPolicyEs": "Perros pequeños en transportín gratis; grandes a discreción del conductor cuando el bus no está lleno",
+          "petPolicyPt": "Cães pequenos em transportadora grátis; grandes à discrição do motorista quando o autocarro não está cheio",
+          "googleMapsUrl": "https://maps.google.com/?q=Scotturb+434+Sintra"
+        },
+        {
+          "name": "Scotturb 403 to Cascais (via Cabo da Roca)",
+          "address": "Estação de Sintra, 2710 Sintra",
+          "neighborhood": "Sintra-Cascais coast",
+          "photo": "/images/city-places/sintra-transport-scotturb-403.jpg",
+          "website": "https://www.scotturb.com/",
+          "description": "The Scotturb 403 coastal bus links Sintra to Cascais in 70 minutes via Cabo da Roca, the westernmost point of continental Europe, and the wild Praia da Adraga and Praia Grande dog-friendly beaches. Small dogs in carriers free; large leashed dogs accepted at driver discretion.",
+          "descriptionFr": "Le bus côtier Scotturb 403 relie Sintra à Cascais en 70 minutes via Cabo da Roca, point le plus à l'ouest de l'Europe continentale, et les plages sauvages dog-friendly de Praia da Adraga et Praia Grande. Petits chiens en cage gratuits ; grands chiens en laisse acceptés à la discrétion du chauffeur.",
+          "descriptionEs": "El autobús costero Scotturb 403 conecta Sintra con Cascais en 70 minutos vía Cabo da Roca, el punto más occidental de la Europa continental, y las playas salvajes pet-friendly de Praia da Adraga y Praia Grande. Perros pequeños en transportín gratis; grandes con correa admitidos a discreción del conductor.",
+          "descriptionPt": "O autocarro costeiro Scotturb 403 liga Sintra a Cascais em 70 minutos via Cabo da Roca, o ponto mais ocidental da Europa continental, e as praias selvagens pet-friendly da Praia da Adraga e Praia Grande. Cães pequenos em transportadora grátis; grandes com trela aceites à discrição do motorista.",
+          "petPolicy": "Small dogs in carrier free; large leashed dogs at driver discretion",
+          "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens en laisse à la discrétion du chauffeur",
+          "petPolicyEs": "Perros pequeños en transportín gratis; grandes con correa a discreción del conductor",
+          "petPolicyPt": "Cães pequenos em transportadora grátis; grandes com trela à discrição do motorista",
+          "googleMapsUrl": "https://maps.google.com/?q=Scotturb+403+Sintra+Cascais"
+        }
+      ],
+      "faqsEn": [
+        {"q": "Do I need a muzzle for my dog on the train to Lisbon?", "a": "Yes, larger dogs not in a carrier must wear a muzzle on CP Linha de Sintra trains. Small dogs in closed carriers are exempt and ride free."},
+        {"q": "Can I take my dog on the Scotturb 434 to Pena?", "a": "Yes, small dogs in carriers ride free; large dogs are accepted at the driver's discretion when the bus is not full. Walking up via the Vale dos Lagos gate is a quieter alternative for big dogs."},
+        {"q": "Is Lisbon airport LIS pet-friendly?", "a": "Yes, LIS accepts leashed dogs in the public terminal areas and TAP Portugal accepts cabin pets under 8 kg with advance booking."}
+      ],
+      "faqsFr": [
+        {"q": "Ai-je besoin d'une muselière dans le train pour Lisbonne ?", "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans les trains CP Linha de Sintra. Les petits chiens en cage fermée en sont exemptés et voyagent gratuitement."},
+        {"q": "Puis-je prendre le Scotturb 434 jusqu'à Pena avec mon chien ?", "a": "Oui, les petits chiens en cage voyagent gratuitement ; les grands sont acceptés à la discrétion du chauffeur quand le bus n'est pas plein. Monter à pied par la porte Vale dos Lagos est une alternative plus calme pour les grands chiens."},
+        {"q": "L'aéroport de Lisbonne LIS est-il pet-friendly ?", "a": "Oui, LIS accepte les chiens en laisse dans les zones publiques du terminal et TAP Portugal accepte les animaux en cabine sous 8 kg sur réservation préalable."}
+      ],
+      "faqsEs": [
+        {"q": "¿Necesito bozal para mi perro en el tren a Lisboa?", "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en los trenes CP Linha de Sintra. Los perros pequeños en transportín cerrado están exentos y viajan gratis."},
+        {"q": "¿Puedo coger el Scotturb 434 hasta Pena con mi perro?", "a": "Sí, los perros pequeños en transportín viajan gratis; los grandes se admiten a discreción del conductor cuando el bus no está lleno. Subir a pie por la puerta Vale dos Lagos es una alternativa más tranquila para perros grandes."},
+        {"q": "¿El aeropuerto de Lisboa LIS es pet-friendly?", "a": "Sí, LIS admite perros con correa en las zonas públicas del terminal y TAP Portugal acepta mascotas en cabina hasta 8 kg con reserva previa."}
+      ],
+      "faqsPt": [
+        {"q": "Preciso de açaime para o meu cão no comboio para Lisboa?", "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime nos comboios CP Linha de Sintra. Os cães pequenos em transportadora fechada estão isentos e viajam grátis."},
+        {"q": "Posso apanhar o Scotturb 434 até à Pena com o meu cão?", "a": "Sim, os cães pequenos em transportadora viajam grátis; os grandes são aceites à discrição do motorista quando o autocarro não está cheio. Subir a pé pela porta Vale dos Lagos é uma alternativa mais calma para cães grandes."},
+        {"q": "O aeroporto de Lisboa LIS é pet-friendly?", "a": "Sim, o LIS aceita cães com trela nas zonas públicas do terminal e a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia."}
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog Beaches near Sintra (Adraga, Magoito, Grande)",
+      "titleFr": "Plages canines près de Sintra (Adraga, Magoito, Grande)",
+      "titleEs": "Playas para perros cerca de Sintra (Adraga, Magoito, Grande)",
+      "titlePt": "Praias para cães perto de Sintra (Adraga, Magoito, Grande)",
+      "introEn": "The Atlantic coast of the Sintra-Cascais Natural Park is one of the wildest in mainland Portugal and dog-tolerant outside the official June-September bathing season. Praia da Adraga, Praia do Magoito and Praia Grande all allow leashed dogs in shoulder season and remain accessible year-round for off-peak walks. Water is cold (16-19°C) and currents are strong, supervise your dog at the shoreline.",
+      "introFr": "La côte atlantique du parc naturel de Sintra-Cascais est l'une des plus sauvages du Portugal continental et tolère les chiens hors saison de baignade officielle juin-septembre. Praia da Adraga, Praia do Magoito et Praia Grande acceptent les chiens en laisse en demi-saison et restent accessibles toute l'année pour des promenades hors pic. L'eau est froide (16-19°C) et les courants forts, surveillez votre chien au bord.",
+      "introEs": "La costa atlántica del parque natural de Sintra-Cascais es una de las más salvajes del Portugal continental y tolera a los perros fuera de la temporada de baño oficial junio-septiembre. Praia da Adraga, Praia do Magoito y Praia Grande admiten perros con correa en temporada baja y siguen accesibles todo el año para paseos fuera de pico. El agua es fría (16-19°C) y las corrientes fuertes, supervisa a tu perro en la orilla.",
+      "introPt": "A costa atlântica do parque natural de Sintra-Cascais é uma das mais selvagens de Portugal continental e tolera os cães fora da época balnear oficial junho-setembro. Praia da Adraga, Praia do Magoito e Praia Grande aceitam cães com trela na meia-estação e mantêm-se acessíveis o ano inteiro para passeios fora de pico. A água é fria (16-19°C) e as correntes fortes, supervisione o seu cão à beira-mar.",
+      "places": [
+        {
+          "name": "Praia da Adraga",
+          "distance": "10 km west of Sintra centre",
+          "description": "A wild cliff-backed Atlantic beach inside the Natural Park, framed by dramatic rock arches and accessible by a single narrow road. Dogs are tolerated leashed outside the June-September bathing season; the beachfront restaurant has a pet-friendly terrace year-round.",
+          "season": "Year-round access; bathing-season ban June-September",
+          "rules": "Leashed dogs allowed October-May; outside bathing season only",
+          "facilities": "Beachfront restaurant, free parking, lifeguard in summer",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Adraga",
+          "photo": "/images/city-places/sintra-beaches-praia-da-adraga.jpg"
+        },
+        {
+          "name": "Praia do Magoito",
+          "distance": "12 km northwest of Sintra centre",
+          "description": "A long fossil-dune Atlantic beach with a paved boardwalk above the sand, ideal for dog walks year-round. Dogs are tolerated leashed outside June-September; the elevated boardwalk welcomes them daily and offers shaded benches with ocean views.",
+          "season": "Year-round access; sand-zone ban June-September, boardwalk always open",
+          "rules": "Leashed dogs on the boardwalk daily; on the sand October-May only",
+          "facilities": "Boardwalk, kiosk café, free parking, lifeguard in summer",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+do+Magoito",
+          "photo": "/images/city-places/sintra-beaches-praia-do-magoito.jpg"
+        },
+        {
+          "name": "Praia Grande do Rodízio",
+          "distance": "13 km west of Sintra centre",
+          "description": "The largest open beach on the Sintra coast, popular with surfers, with a 1.5 km flat sandy stretch and dramatic ochre cliffs at the south end. Dogs are tolerated leashed outside June-September and the cliff-top boardwalk welcomes them year-round.",
+          "season": "Year-round access; bathing-season ban June-September",
+          "rules": "Leashed dogs October-May on sand; cliff-top boardwalk year-round",
+          "facilities": "Cafés, restaurants, large free parking, lifeguard in summer",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+Grande+Sintra",
+          "photo": "/images/city-places/sintra-beaches-praia-grande.jpg"
+        }
+      ],
+      "faqsEn": [
+        {"q": "Can my dog swim at Sintra beaches in summer?", "a": "Officially no, the bathing season June-September restricts dogs from the sand on most Sintra coastal beaches. Boardwalks, cafés and cliff paths remain dog-friendly year-round, and shoulder-season visits (October-May) are unrestricted."},
+        {"q": "Which Sintra beach is the most dog-tolerant year-round?", "a": "Praia do Magoito's elevated boardwalk is dog-friendly daily, even in summer. For sand access in summer, head to the dog-only Praia de São Pedro do Estoril 25 km east in Cascais."},
+        {"q": "Are the Atlantic currents safe for my dog?", "a": "Treat the Sintra coast like the wild ocean it is: strong currents, cold water and steep shore breaks. Keep your dog on a long line at the edge and never let them swim out in surf conditions."}
+      ],
+      "faqsFr": [
+        {"q": "Mon chien peut-il nager sur les plages de Sintra en été ?", "a": "Officiellement non, la saison de baignade juin-septembre interdit les chiens sur le sable de la plupart des plages côtières de Sintra. Promenades, cafés et sentiers de falaise restent dog-friendly toute l'année, et les visites en demi-saison (octobre-mai) sont sans restriction."},
+        {"q": "Quelle plage de Sintra est la plus dog-tolerant toute l'année ?", "a": "La promenade surélevée de Praia do Magoito est dog-friendly tous les jours, même en été. Pour un accès au sable en été, allez à la plage exclusivement canine de São Pedro do Estoril à 25 km à l'est, à Cascais."},
+        {"q": "Les courants atlantiques sont-ils sûrs pour mon chien ?", "a": "Traitez la côte de Sintra comme l'océan sauvage qu'elle est : courants forts, eau froide et rouleaux abrupts. Gardez votre chien en longe au bord et ne le laissez jamais nager au large dans les vagues."}
+      ],
+      "faqsEs": [
+        {"q": "¿Mi perro puede nadar en las playas de Sintra en verano?", "a": "Oficialmente no, la temporada de baño junio-septiembre prohíbe los perros en la arena de la mayoría de las playas costeras de Sintra. Paseos, cafés y senderos de acantilado siguen pet-friendly todo el año, y las visitas en temporada baja (octubre-mayo) son sin restricción."},
+        {"q": "¿Qué playa de Sintra es la más dog-tolerant todo el año?", "a": "El paseo elevado de Praia do Magoito es pet-friendly a diario, incluso en verano. Para acceso a la arena en verano, ve a la playa exclusivamente canina de São Pedro do Estoril a 25 km al este, en Cascais."},
+        {"q": "¿Las corrientes atlánticas son seguras para mi perro?", "a": "Trata la costa de Sintra como el océano salvaje que es: corrientes fuertes, agua fría y rompientes abruptas. Mantén a tu perro con correa larga en la orilla y nunca le dejes nadar mar adentro con olas."}
+      ],
+      "faqsPt": [
+        {"q": "O meu cão pode nadar nas praias de Sintra no verão?", "a": "Oficialmente não, a época balnear junho-setembro proíbe os cães na areia da maioria das praias costeiras de Sintra. Passeios, cafés e trilhos de falésia mantêm-se pet-friendly o ano inteiro, e as visitas em meia-estação (outubro-maio) são sem restrição."},
+        {"q": "Qual a praia de Sintra mais dog-tolerant o ano inteiro?", "a": "O passeio elevado da Praia do Magoito é pet-friendly diariamente, mesmo no verão. Para acesso à areia no verão, vá à praia exclusivamente canina de São Pedro do Estoril a 25 km a leste, em Cascais."},
+        {"q": "As correntes atlânticas são seguras para o meu cão?", "a": "Trate a costa de Sintra como o oceano selvagem que é: correntes fortes, água fria e rebentações abruptas. Mantenha o seu cão com trela longa à beira-mar e nunca o deixe nadar mar adentro nas ondas."}
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Sintra",
+      "titleFr": "Vétérinaires d'urgence à Sintra",
+      "titleEs": "Veterinarios de urgencias en Sintra",
+      "titlePt": "Veterinários de urgência em Sintra",
+      "introEn": "Sintra has several daytime general veterinary practices in the Vila Velha and Estefânia, and the 24/7 referral hospital Hospital Veterinário de Sintra (Algueirão) handles emergencies for the whole municipality. For overnight specialty cases, the Hospital Veterinário das Laranjeiras in Lisbon is 25 minutes away by car.",
+      "introFr": "Sintra dispose de plusieurs cabinets vétérinaires généralistes de jour en Vila Velha et Estefânia, et l'hôpital de référence 24h/24 Hospital Veterinário de Sintra (Algueirão) couvre les urgences de toute la municipalité. Pour les cas spécialisés de nuit, l'Hospital Veterinário das Laranjeiras à Lisbonne est à 25 minutes en voiture.",
+      "introEs": "Sintra cuenta con varias consultas veterinarias generalistas diurnas en Vila Velha y Estefânia, y el hospital de referencia 24/7 Hospital Veterinário de Sintra (Algueirão) cubre las urgencias de toda la municipalidad. Para casos especializados nocturnos, el Hospital Veterinário das Laranjeiras de Lisboa está a 25 minutos en coche.",
+      "introPt": "Sintra dispõe de várias clínicas veterinárias generalistas diurnas na Vila Velha e Estefânia, e o hospital de referência 24/7 Hospital Veterinário de Sintra (Algueirão) cobre as urgências de todo o concelho. Para casos especializados nocturnos, o Hospital Veterinário das Laranjeiras em Lisboa está a 25 minutos de carro.",
+      "entryRequirements": null,
+      "places": [
+        {
+          "name": "Hospital Veterinário de Sintra",
+          "type": "24h Emergency & Referral",
+          "address": "Rua Alfredo Costa 17, 2725-274 Algueirão",
+          "neighborhood": "Algueirão - Mem Martins",
+          "phone": "+351 219 162 030",
+          "hours": "24/7 emergency line; clinic Mon-Sat 9:00-20:00",
+          "hoursFr": "Ligne d'urgence 24h/24 ; clinique lun-sam 9h-20h",
+          "hoursEs": "Línea de urgencias 24/7; clínica lun-sáb 9:00-20:00",
+          "hoursPt": "Linha de urgência 24/7; clínica seg-sáb 9:00-20:00",
+          "englishSpeaking": true,
+          "website": "https://www.hospitalveterinariosintra.pt/",
+          "photo": "/images/city-places/sintra-vets-hospital-veterinario-sintra.jpg",
+          "description": "The principal 24/7 veterinary hospital for the Sintra municipality, with imaging, surgery, internal medicine and after-hours emergency cover. Located in Algueirão, 8 minutes by car from the Vila Velha or two stops on the CP Linha de Sintra train.",
+          "descriptionFr": "Le principal hôpital vétérinaire 24h/24 du concelho de Sintra, avec imagerie, chirurgie, médecine interne et couverture d'urgence hors heures. Situé à Algueirão, à 8 minutes en voiture de la Vila Velha ou deux stations sur la ligne CP Linha de Sintra.",
+          "descriptionEs": "El principal hospital veterinario 24/7 del concejo de Sintra, con imagen, cirugía, medicina interna y cobertura de urgencias fuera de horario. Situado en Algueirão, a 8 minutos en coche de la Vila Velha o dos paradas en la línea CP Linha de Sintra.",
+          "descriptionPt": "O principal hospital veterinário 24/7 do concelho de Sintra, com imagem, cirurgia, medicina interna e cobertura de urgência fora de horas. Situado em Algueirão, a 8 minutos de carro da Vila Velha ou duas paragens na linha CP Linha de Sintra.",
+          "petPolicy": "Walk-in emergencies always accepted; phone ahead for severe trauma",
+          "petPolicyFr": "Urgences sans rendez-vous toujours acceptées ; appeler avant pour traumatisme sévère",
+          "petPolicyEs": "Urgencias sin cita siempre admitidas; llama antes en trauma grave",
+          "petPolicyPt": "Urgências sem marcação sempre aceites; ligue antes em trauma grave",
+          "services": "Emergency, surgery, imaging, internal medicine, dentistry",
+          "servicesFr": "Urgences, chirurgie, imagerie, médecine interne, dentisterie",
+          "servicesEs": "Urgencias, cirugía, imagen, medicina interna, odontología",
+          "servicesPt": "Urgências, cirurgia, imagem, medicina interna, dentária",
+          "languages": ["Portuguese", "English"],
+          "openingHours": "24/7 emergency",
+          "tip": "Save the emergency number before climbing into the Serra; mobile coverage drops on the upper Pena and Capuchos trails and you may need to dial from the next viewpoint.",
+          "tipFr": "Enregistrez le numéro d'urgence avant de monter dans la Serra ; la couverture mobile chute sur les sentiers supérieurs de Pena et Capuchos et il faudra peut-être appeler depuis le belvédère suivant.",
+          "tipEs": "Guarda el número de urgencias antes de subir a la Serra; la cobertura móvil cae en los senderos superiores de Pena y Capuchos y puede que tengas que llamar desde el siguiente mirador.",
+          "tipPt": "Guarde o número de urgência antes de subir à Serra; a cobertura móvel cai nos trilhos superiores da Pena e dos Capuchos e pode ter de ligar do miradouro seguinte.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Sintra+Algueirao"
+        },
+        {
+          "name": "Clínica Veterinária de Sintra",
+          "type": "General Practice",
+          "address": "Avenida Heliodoro Salgado 38, 2710-572 Sintra",
+          "neighborhood": "Estefânia",
+          "phone": "+351 219 230 060",
+          "hours": "Mon-Fri 9:00-13:00 and 14:30-19:00; Sat 9:00-13:00; closed Sun",
+          "hoursFr": "Lun-ven 9h-13h et 14h30-19h ; sam 9h-13h ; fermé dim",
+          "hoursEs": "Lun-vie 9:00-13:00 y 14:30-19:00; sáb 9:00-13:00; cerrado dom",
+          "hoursPt": "Seg-sex 9:00-13:00 e 14:30-19:00; sáb 9:00-13:00; fechado dom",
+          "englishSpeaking": true,
+          "website": "https://www.clinicaveterinariasintra.pt/",
+          "photo": "/images/city-places/sintra-vets-clinica-veterinaria-sintra.jpg",
+          "description": "A central Estefânia general practice 5 minutes from the train station, ideal for vaccination top-ups, EU passport stamps and minor non-emergency consultations. Refers to the Hospital Veterinário de Sintra for after-hours and complex cases.",
+          "descriptionFr": "Cabinet généraliste central à Estefânia, à 5 minutes de la gare, idéal pour rappels de vaccin, tampons sur passeport européen et consultations mineures non urgentes. Renvoie sur l'Hospital Veterinário de Sintra pour hors heures et cas complexes.",
+          "descriptionEs": "Consulta generalista céntrica en Estefânia, a 5 minutos de la estación, ideal para refuerzos de vacuna, sellos de pasaporte europeo y consultas menores no urgentes. Deriva al Hospital Veterinário de Sintra para fuera de horario y casos complejos.",
+          "descriptionPt": "Clínica generalista central na Estefânia, a 5 minutos da estação, ideal para reforços de vacina, carimbos de passaporte europeu e consultas menores não urgentes. Encaminha para o Hospital Veterinário de Sintra fora de horas e em casos complexos.",
+          "petPolicy": "Appointments preferred; walk-ins seen between booked slots",
+          "petPolicyFr": "Rendez-vous préférés ; sans rendez-vous reçus entre créneaux réservés",
+          "petPolicyEs": "Cita previa preferida; sin cita atendidos entre huecos reservados",
+          "petPolicyPt": "Marcação preferida; sem marcação atendidos entre slots reservados",
+          "services": "Vaccinations, EU passport, general medicine, minor surgery",
+          "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie",
+          "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor",
+          "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia",
+          "languages": ["Portuguese", "English"],
+          "openingHours": "Mon-Fri 9:00-13:00 / 14:30-19:00; Sat 9:00-13:00",
+          "tip": "Book the first morning slot for same-day EU passport sign-off; afternoons fill with local consultations.",
+          "tipFr": "Réservez le premier créneau du matin pour une validation passeport européen le jour même ; les après-midis se remplissent de consultations locales.",
+          "tipEs": "Reserva el primer hueco de la mañana para validación de pasaporte UE el mismo día; las tardes se llenan de consultas locales.",
+          "tipPt": "Reserve o primeiro slot da manhã para validação de passaporte UE no mesmo dia; as tardes enchem-se com consultas locais.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Sintra"
+        },
+        {
+          "name": "Hospital Veterinário das Laranjeiras",
+          "type": "24h Specialty Referral (Lisbon)",
+          "address": "Avenida das Forças Armadas 38, 1600-082 Lisboa",
+          "neighborhood": "Lisbon (25 min by car)",
+          "phone": "+351 217 970 808",
+          "hours": "24/7 emergency and specialty",
+          "hoursFr": "Urgences et spécialités 24h/24",
+          "hoursEs": "Urgencias y especialidades 24/7",
+          "hoursPt": "Urgências e especialidades 24/7",
+          "englishSpeaking": true,
+          "website": "https://www.hvlaranjeiras.pt/",
+          "photo": "/images/city-places/sintra-vets-hospital-laranjeiras.jpg",
+          "description": "A specialty 24/7 referral hospital in central Lisbon, 25 minutes by car east of Sintra via the A37/IC19. Covers cardiology, oncology, neurology and complex surgery that the Sintra hospital may refer onwards for advanced workups.",
+          "descriptionFr": "Hôpital de référence spécialisé 24h/24 dans le centre de Lisbonne, à 25 minutes en voiture à l'est de Sintra via A37/IC19. Couvre cardiologie, oncologie, neurologie et chirurgie complexe que l'hôpital de Sintra peut adresser pour bilan avancé.",
+          "descriptionEs": "Hospital de referencia especializado 24/7 en el centro de Lisboa, a 25 minutos en coche al este de Sintra vía A37/IC19. Cubre cardiología, oncología, neurología y cirugía compleja que el hospital de Sintra puede derivar para estudios avanzados.",
+          "descriptionPt": "Hospital de referência especializado 24/7 no centro de Lisboa, a 25 minutos de carro a leste de Sintra pela A37/IC19. Cobre cardiologia, oncologia, neurologia e cirurgia complexa que o hospital de Sintra pode encaminhar para estudos avançados.",
+          "petPolicy": "Referral-based; walk-in emergencies accepted",
+          "petPolicyFr": "Sur référence ; urgences sans rendez-vous acceptées",
+          "petPolicyEs": "Por derivación; urgencias sin cita admitidas",
+          "petPolicyPt": "Por encaminhamento; urgências sem marcação aceites",
+          "services": "Cardiology, oncology, neurology, complex surgery, 24h ICU",
+          "servicesFr": "Cardiologie, oncologie, neurologie, chirurgie complexe, soins intensifs 24h",
+          "servicesEs": "Cardiología, oncología, neurología, cirugía compleja, UCI 24h",
+          "servicesPt": "Cardiologia, oncologia, neurologia, cirurgia complexa, UCI 24h",
+          "languages": ["Portuguese", "English"],
+          "openingHours": "24/7",
+          "tip": "Drive yourself rather than call a taxi if your dog is bleeding or seizing; the A37/IC19 transfer is quicker than waiting for a pet-taxi at night.",
+          "tipFr": "Conduisez-vous plutôt que d'appeler un taxi si votre chien saigne ou convulse ; le transfert A37/IC19 est plus rapide que d'attendre un pet-taxi la nuit.",
+          "tipEs": "Conduce tú mismo en vez de llamar a un taxi si tu perro sangra o convulsiona; el traslado A37/IC19 es más rápido que esperar un pet-taxi por la noche.",
+          "tipPt": "Conduza você mesmo em vez de chamar táxi se o seu cão sangrar ou convulsionar; a transferência A37/IC19 é mais rápida do que esperar por um pet-taxi à noite.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Laranjeiras+Lisboa"
+        }
+      ],
+      "faqsEn": [
+        {"q": "Where is the closest 24h vet in Sintra?", "a": "Hospital Veterinário de Sintra in Algueirão (+351 219 162 030) runs the 24/7 emergency line for the municipality, 8 minutes by car from the Vila Velha."},
+        {"q": "Do Sintra vets speak English?", "a": "Yes at the Hospital Veterinário de Sintra and the central Clínica Veterinária; senior vets are universally fluent thanks to the large expat and tourist clientele."},
+        {"q": "Can I get an EU pet passport stamp before flying out of Lisbon?", "a": "Yes, both listed Sintra clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs."}
+      ],
+      "faqsFr": [
+        {"q": "Où est le vétérinaire 24h le plus proche à Sintra ?", "a": "L'Hospital Veterinário de Sintra à Algueirão (+351 219 162 030) exploite la ligne d'urgence 24h/24 du concelho, à 8 minutes en voiture de la Vila Velha."},
+        {"q": "Les vétérinaires de Sintra parlent-ils anglais ?", "a": "Oui à l'Hospital Veterinário de Sintra et à la Clínica Veterinária centrale ; les vétérinaires seniors le parlent couramment grâce à la large clientèle expatriée et touristique."},
+        {"q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Lisbonne ?", "a": "Oui, les deux cliniques de Sintra listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles pour chiens en bonne santé."}
+      ],
+      "faqsEs": [
+        {"q": "¿Dónde está el veterinario 24h más cercano en Sintra?", "a": "El Hospital Veterinário de Sintra en Algueirão (+351 219 162 030) gestiona la línea de urgencias 24/7 del concejo, a 8 minutos en coche de la Vila Velha."},
+        {"q": "¿Los veterinarios de Sintra hablan inglés?", "a": "Sí en el Hospital Veterinário de Sintra y en la Clínica Veterinária central; los veterinarios senior son fluidos gracias a la amplia clientela expatriada y turística."},
+        {"q": "¿Puedo sellar un pasaporte UE antes de volar desde Lisboa?", "a": "Sí, las dos clínicas de Sintra listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles para perros sanos."}
+      ],
+      "faqsPt": [
+        {"q": "Onde fica o veterinário 24h mais próximo em Sintra?", "a": "O Hospital Veterinário de Sintra em Algueirão (+351 219 162 030) gere a linha de urgência 24/7 do concelho, a 8 minutos de carro da Vila Velha."},
+        {"q": "Os veterinários de Sintra falam inglês?", "a": "Sim no Hospital Veterinário de Sintra e na Clínica Veterinária central; os veterinários seniores são fluentes graças à ampla clientela expatriada e turística."},
+        {"q": "Posso carimbar um passaporte UE antes de voar de Lisboa?", "a": "Sim, as duas clínicas de Sintra listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."}
+      ]
+    },
+    "tips": {
+      "titleEn": "Pet-Friendly Tips for Visiting Sintra",
+      "titleFr": "Conseils pet-friendly pour visiter Sintra",
+      "titleEs": "Consejos pet-friendly para visitar Sintra",
+      "titlePt": "Dicas pet-friendly para visitar Sintra",
+      "introEn": "Sintra rewards pet travellers with mild Atlantic temperatures year-round, walkable Vila Velha, dog-welcoming Parques de Sintra grounds and a 30-minute train link to Lisbon. Plan your palace visits for first-entry or late-afternoon to avoid the midday tour-bus crush and book accommodation in Estefânia or São Pedro for quieter walks in the evening.",
+      "introFr": "Sintra récompense les voyageurs avec animaux par des températures atlantiques douces toute l'année, une Vila Velha à pied, des espaces Parques de Sintra accueillants et une liaison train de 30 minutes vers Lisbonne. Planifiez les visites de palais aux premiers créneaux ou en fin d'après-midi pour éviter la cohue des bus de midi et logez à Estefânia ou São Pedro pour des promenades plus calmes le soir.",
+      "introEs": "Sintra recompensa a los viajeros con mascotas con temperaturas atlánticas suaves todo el año, una Vila Velha a pie, recintos Parques de Sintra acogedores y una conexión de tren de 30 minutos con Lisboa. Planifica las visitas a los palacios para las primeras entradas o el final de la tarde para evitar la avalancha de buses turísticos del mediodía y alójate en Estefânia o São Pedro para paseos más tranquilos por la tarde.",
+      "introPt": "Sintra recompensa os viajantes com animais com temperaturas atlânticas suaves o ano inteiro, uma Vila Velha a pé, recintos Parques de Sintra acolhedores e uma ligação de comboio de 30 minutos a Lisboa. Planeie as visitas aos palácios para as primeiras entradas ou o fim da tarde para evitar a multidão de autocarros turísticos do meio-dia e fique alojado na Estefânia ou São Pedro para passeios mais calmos à noite.",
+      "places": [],
+      "tipsEn": [
+        "Portugal requires EU pet passport, ISO microchip and valid rabies vaccination; sufficient from any EU country, no tapeworm treatment required.",
+        "Portuguese law restricts breeds considered potentially dangerous (Pit Bull, Rottweiler, Staffordshire types) which need civil liability insurance and a muzzle in public; verify before travelling.",
+        "Vila Velha cobbled streets are dog-easy but slippery in winter rain; bring a non-slip harness if walking the steep Calçada da Pena.",
+        "Lisbon LIS airport is 30 minutes by car or 50 minutes by CP train; TAP Portugal accepts cabin pets under 8 kg with advance booking.",
+        "Peak season (June-September) and holiday weekends pack the Vila Velha; book first-entry tickets at Pena and Regaleira for 09:30 to avoid the worst crowds."
+      ],
+      "tipsFr": [
+        "Le Portugal exige passeport européen, puce ISO et vaccin antirabique valide ; suffisant depuis n'importe quel pays UE, pas de traitement antiparasitaire requis.",
+        "La loi portugaise restreint les races dites potentiellement dangereuses (Pit Bull, Rottweiler, types Staffordshire) qui exigent assurance responsabilité civile et muselière en public ; vérifiez avant de voyager.",
+        "Les rues pavées de la Vila Velha sont faciles en chien mais glissantes sous la pluie hivernale ; prévoyez un harnais antidérapant pour monter la Calçada da Pena en pente.",
+        "L'aéroport LIS de Lisbonne est à 30 minutes en voiture ou 50 minutes en train CP ; TAP Portugal accepte les animaux en cabine sous 8 kg sur réservation préalable.",
+        "Haute saison (juin-septembre) et week-ends fériés saturent la Vila Velha ; réservez des billets premier créneau à Pena et Regaleira pour 9h30 pour éviter le pic."
+      ],
+      "tipsEs": [
+        "Portugal exige pasaporte europeo, microchip ISO y vacunación antirrábica vigente; basta desde cualquier país UE, sin tratamiento antiparasitario requerido.",
+        "La ley portuguesa restringe las razas consideradas potencialmente peligrosas (Pit Bull, Rottweiler, tipos Staffordshire) que exigen seguro de responsabilidad civil y bozal en público; verifica antes de viajar.",
+        "Las calles adoquinadas de la Vila Velha son fáciles con perro pero resbaladizas con la lluvia invernal; lleva un arnés antideslizante para subir la empinada Calçada da Pena.",
+        "El aeropuerto LIS de Lisboa está a 30 minutos en coche o 50 minutos en tren CP; TAP Portugal acepta mascotas en cabina hasta 8 kg con reserva previa.",
+        "La temporada alta (junio-septiembre) y los fines de semana festivos saturan la Vila Velha; reserva entradas primera hora a Pena y Regaleira para las 9:30 para evitar el pico."
+      ],
+      "tipsPt": [
+        "Portugal exige passaporte europeu, microchip ISO e vacinação antirrábica válida; suficiente de qualquer país UE, sem tratamento antiparasitário exigido.",
+        "A lei portuguesa restringe as raças consideradas potencialmente perigosas (Pit Bull, Rottweiler, tipos Staffordshire) que exigem seguro de responsabilidade civil e açaime em público; verifique antes de viajar.",
+        "As ruas calcetadas da Vila Velha são fáceis com cão mas escorregadias com a chuva invernal; leve um arnês antiderrapante para subir a íngreme Calçada da Pena.",
+        "O aeroporto LIS de Lisboa está a 30 minutos de carro ou 50 minutos de comboio CP; a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia.",
+        "A época alta (junho-setembro) e os fins de semana feriados saturam a Vila Velha; reserve bilhetes da primeira hora para a Pena e Regaleira às 9:30 para evitar o pico."
+      ],
+      "faqsEn": [
+        {"q": "Is Sintra a good base for a pet-friendly Portuguese holiday?", "a": "Yes, the combination of mild Atlantic climate, dog-welcoming UNESCO parks, walkable Vila Velha and 30-minute Lisbon link makes it one of Portugal's most rewarding pet bases."},
+        {"q": "Do I need a muzzle in public in Sintra?", "a": "Only for breeds on the Portuguese restricted-breeds list; standard breeds need only a leash. Inside Parques de Sintra grounds, leashed dogs are universally accepted."},
+        {"q": "What is the best month for Sintra with a dog?", "a": "April-May and September-October: mild temperatures, lower humidity, lighter crowds and unrestricted beach access outside the bathing season."}
+      ],
+      "faqsFr": [
+        {"q": "Sintra est-elle une bonne base pour des vacances pet-friendly au Portugal ?", "a": "Oui, la combinaison de climat atlantique doux, parcs UNESCO accueillants, Vila Velha à pied et liaison Lisbonne en 30 minutes en fait l'une des bases les plus enrichissantes du Portugal pour voyager avec un animal."},
+        {"q": "Ai-je besoin d'une muselière en public à Sintra ?", "a": "Seulement pour les races figurant sur la liste portugaise des races restreintes ; les races standard n'ont besoin que d'une laisse. Dans les espaces Parques de Sintra, les chiens en laisse sont universellement acceptés."},
+        {"q": "Quel est le meilleur mois à Sintra avec un chien ?", "a": "Avril-mai et septembre-octobre : températures douces, humidité plus basse, moins de monde et accès libre aux plages hors saison de baignade."}
+      ],
+      "faqsEs": [
+        {"q": "¿Es Sintra una buena base para unas vacaciones pet-friendly en Portugal?", "a": "Sí, la combinación de clima atlántico suave, parques UNESCO acogedores, Vila Velha a pie y conexión con Lisboa en 30 minutos la convierte en una de las bases más gratificantes de Portugal para viajar con animal."},
+        {"q": "¿Necesito bozal en público en Sintra?", "a": "Solo para razas en la lista portuguesa de razas restringidas; las razas estándar solo necesitan correa. En los recintos Parques de Sintra, los perros con correa son universalmente admitidos."},
+        {"q": "¿Cuál es el mejor mes para Sintra con perro?", "a": "Abril-mayo y septiembre-octubre: temperaturas suaves, menor humedad, menos gente y acceso libre a las playas fuera de la temporada de baño."}
+      ],
+      "faqsPt": [
+        {"q": "Sintra é uma boa base para férias pet-friendly em Portugal?", "a": "Sim, a combinação de clima atlântico suave, parques UNESCO acolhedores, Vila Velha a pé e ligação a Lisboa em 30 minutos faz dela uma das bases mais gratificantes de Portugal para viajar com animal."},
+        {"q": "Preciso de açaime em público em Sintra?", "a": "Só para raças na lista portuguesa de raças restritas; as raças standard só precisam de trela. Nos recintos Parques de Sintra, os cães com trela são universalmente aceites."},
+        {"q": "Qual é o melhor mês para Sintra com cão?", "a": "Abril-maio e setembro-outubro: temperaturas suaves, menor humidade, menos gente e acesso livre às praias fora da época balnear."}
+      ]
+    },
+    "attractions": {
+      "titleEn": "Top Dog-Friendly Attractions in Sintra",
+      "titleFr": "Meilleures attractions pet-friendly à Sintra",
+      "titleEs": "Mejores atracciones pet-friendly en Sintra",
+      "titlePt": "Melhores atracções pet-friendly em Sintra",
+      "introEn": "Sintra's UNESCO-listed Cultural Landscape gathers an unusual density of dog-welcoming palace grounds: the polychrome Pena Palace exterior, the Romantic Quinta da Regaleira gardens with their Initiation Well, the botanic Monserrate park, the Moorish castle ramparts and the cork-lined Capuchos hermitage. All five major sites admit leashed dogs across the grounds; only the palace interiors are reserved for assistance dogs.",
+      "introFr": "Le paysage culturel UNESCO de Sintra rassemble une densité rare de domaines de palais accueillants : l'extérieur polychrome du Palais de Pena, les jardins romantiques de la Quinta da Regaleira avec son Puits Initiatique, le parc botanique de Monserrate, les remparts du château mauresque et l'ermitage tapissé de liège des Capuchos. Les cinq sites majeurs admettent les chiens en laisse dans les espaces extérieurs ; seuls les intérieurs des palais sont réservés aux chiens d'assistance.",
+      "introEs": "El paisaje cultural UNESCO de Sintra reúne una densidad rara de recintos palaciegos acogedores: el exterior polícromo del Palacio de Pena, los jardines románticos de la Quinta da Regaleira con su Pozo Iniciático, el parque botánico de Monserrate, las murallas del castillo morisco y el eremitorio forrado de corcho de los Capuchos. Los cinco sitios mayores admiten perros con correa en los espacios exteriores; solo los interiores de los palacios están reservados a perros de asistencia.",
+      "introPt": "A paisagem cultural UNESCO de Sintra reúne uma densidade rara de recintos palacianos acolhedores: o exterior policromo do Palácio da Pena, os jardins românticos da Quinta da Regaleira com o seu Poço Iniciático, o parque botânico de Monserrate, as muralhas do castelo mourisco e o eremitério forrado a cortiça dos Capuchos. Os cinco sítios maiores admitem cães com trela nos espaços exteriores; só os interiores dos palácios estão reservados a cães de assistência.",
+      "places": [
+        {
+          "name": "Palácio Nacional da Pena (exterior + park)",
+          "neighborhood": "Serra de Sintra",
+          "photo": "/images/city-places/sintra-attractions-palacio-da-pena.jpg",
+          "website": "https://www.parquesdesintra.pt/",
+          "description": "The 19th-century romantic Pena Palace crowns the Serra de Sintra at 528 m, a riot of yellow, red and azulejo-tiled towers built for King Ferdinand II. The surrounding 200-hectare park, all the outer terraces and the panoramic ramparts admit leashed dogs daily; the palace interior is restricted to assistance dogs.",
+          "descriptionFr": "Le palais romantique de Pena du XIXᵉ siècle couronne la Serra de Sintra à 528 m, débauche de tours jaunes, rouges et carrelées d'azulejos construite pour le roi Ferdinand II. Le parc de 200 hectares environnant, toutes les terrasses extérieures et les remparts panoramiques admettent les chiens en laisse chaque jour ; l'intérieur du palais est réservé aux chiens d'assistance.",
+          "descriptionEs": "El palacio romántico de Pena del siglo XIX corona la Serra de Sintra a 528 m, derroche de torres amarillas, rojas y aliceradas con azulejos construido para el rey Fernando II. El parque de 200 hectáreas circundante, todas las terrazas exteriores y las murallas panorámicas admiten perros con correa a diario; el interior del palacio está reservado a perros de asistencia.",
+          "descriptionPt": "O palácio romântico da Pena do século XIX coroa a Serra de Sintra aos 528 m, profusão de torres amarelas, vermelhas e revestidas a azulejos construído para o rei Fernando II. O parque de 200 hectares envolvente, todos os terraços exteriores e as muralhas panorâmicas admitem cães com trela diariamente; o interior do palácio está reservado a cães de assistência.",
+          "dogPolicy": "Leashed dogs welcome in park and exterior terraces; interior assistance dogs only",
+          "dogPolicyFr": "Chiens en laisse bienvenus dans parc et terrasses extérieures ; intérieur uniquement chiens d'assistance",
+          "dogPolicyEs": "Perros con correa bienvenidos en parque y terrazas exteriores; interior solo perros de asistencia",
+          "dogPolicyPt": "Cães com trela bem-vindos no parque e terraços exteriores; interior só cães de assistência",
+          "admissionFee": "Park EUR 10; park + palace terraces EUR 14.50",
+          "admissionFeeFr": "Parc 10 € ; parc + terrasses du palais 14,50 €",
+          "admissionFeeEs": "Parque 10 €; parque + terrazas del palacio 14,50 €",
+          "admissionFeePt": "Parque 10 €; parque + terraços do palácio 14,50 €",
+          "tip": "Book the 09:30 first-entry slot online; by 11:00 the tour-bus queue at the palace gate stretches 200 m and the upper terraces are packed.",
+          "tipFr": "Réservez en ligne le créneau premier accès 9h30 ; à 11h la file de bus au portail du palais s'étire sur 200 m et les terrasses supérieures sont bondées.",
+          "tipEs": "Reserva online la franja primer acceso 9:30; a las 11:00 la cola de buses turísticos en la puerta del palacio se extiende 200 m y las terrazas superiores están abarrotadas.",
+          "tipPt": "Reserve online o slot primeiro acesso 9:30; às 11:00 a fila de autocarros turísticos à porta do palácio estende-se 200 m e os terraços superiores estão à pinha.",
+          "googleMapsUrl": "https://maps.google.com/?q=Palacio+da+Pena+Sintra"
+        },
+        {
+          "name": "Castelo dos Mouros (Moorish Castle ramparts)",
+          "neighborhood": "Serra de Sintra",
+          "photo": "/images/city-places/sintra-attractions-castelo-dos-mouros.jpg",
+          "website": "https://www.parquesdesintra.pt/",
+          "description": "The 9th-century Moorish castle ramparts crown a granite ridge above Sintra and offer a 360° panorama from the Atlantic to the Tagus estuary. The 450 m of restored walls, watchtowers and Romanesque chapel grounds admit leashed dogs; bring sure-footed shoes for the uneven granite stairs.",
+          "descriptionFr": "Les remparts du château maure du IXᵉ siècle couronnent une crête granitique au-dessus de Sintra et offrent un panorama à 360° de l'Atlantique à l'estuaire du Tage. Les 450 m de murailles restaurées, les tours de guet et l'enceinte de la chapelle romane admettent les chiens en laisse ; prévoyez des chaussures stables pour les marches inégales en granit.",
+          "descriptionEs": "Las murallas del castillo morisco del siglo IX coronan una cresta granítica sobre Sintra y ofrecen una panorámica de 360° del Atlántico al estuario del Tajo. Los 450 m de muros restaurados, las torres de vigilancia y el recinto de la capilla románica admiten perros con correa; lleva calzado estable para las escaleras irregulares de granito.",
+          "descriptionPt": "As muralhas do castelo mouro do século IX coroam uma crista granítica sobre Sintra e oferecem uma panorâmica de 360° do Atlântico ao estuário do Tejo. Os 450 m de muralhas restauradas, as torres de vigia e o recinto da capela românica admitem cães com trela; leve calçado estável para os degraus irregulares de granito.",
+          "dogPolicy": "Leashed dogs welcome on all ramparts and grounds",
+          "dogPolicyFr": "Chiens en laisse bienvenus sur tous les remparts et l'enceinte",
+          "dogPolicyEs": "Perros con correa bienvenidos en todas las murallas y el recinto",
+          "dogPolicyPt": "Cães com trela bem-vindos em todas as muralhas e no recinto",
+          "admissionFee": "EUR 12 adult",
+          "admissionFeeFr": "12 € adulte",
+          "admissionFeeEs": "12 € adulto",
+          "admissionFeePt": "12 € adulto",
+          "tip": "Walk up the marked PR2 hiking trail from the Vila Velha rather than taking the Scotturb 434; the 30-minute climb through cork oak forest is the prettiest part of the visit.",
+          "tipFr": "Montez par le sentier balisé PR2 depuis la Vila Velha plutôt que prendre le Scotturb 434 ; les 30 minutes de montée dans la forêt de chênes-lièges sont la plus belle partie de la visite.",
+          "tipEs": "Sube por el sendero señalizado PR2 desde la Vila Velha en vez de coger el Scotturb 434; los 30 minutos de subida por el bosque de alcornoques son la parte más bonita de la visita.",
+          "tipPt": "Suba pelo trilho sinalizado PR2 desde a Vila Velha em vez de apanhar o Scotturb 434; os 30 minutos de subida pela floresta de sobreiros são a parte mais bonita da visita.",
+          "googleMapsUrl": "https://maps.google.com/?q=Castelo+dos+Mouros+Sintra"
+        },
+        {
+          "name": "Cabo da Roca",
+          "neighborhood": "Sintra-Cascais coast",
+          "photo": "/images/city-places/sintra-attractions-cabo-da-roca.jpg",
+          "website": "https://www.parquesdesintra.pt/",
+          "description": "The westernmost point of continental Europe, a 140 m granite cliff above the Atlantic with a Camões inscription and a working lighthouse. Leashed dogs are welcome across all the windswept clifftop paths and the visitor centre forecourt; the panoramic walks south toward Praia da Ursa are 100% dog-friendly.",
+          "descriptionFr": "Le point le plus à l'ouest de l'Europe continentale, falaise granitique de 140 m au-dessus de l'Atlantique avec une inscription de Camões et un phare en activité. Les chiens en laisse sont bienvenus sur tous les sentiers venteux du sommet et l'esplanade du centre des visiteurs ; les promenades panoramiques vers le sud jusqu'à Praia da Ursa sont 100 % dog-friendly.",
+          "descriptionEs": "El punto más occidental de la Europa continental, acantilado granítico de 140 m sobre el Atlántico con una inscripción de Camões y un faro en funcionamiento. Los perros con correa son bienvenidos en todos los senderos venteados de la cumbre y la explanada del centro de visitantes; los paseos panorámicos hacia el sur hasta Praia da Ursa son 100 % pet-friendly.",
+          "descriptionPt": "O ponto mais ocidental da Europa continental, falésia granítica de 140 m sobre o Atlântico com uma inscrição de Camões e um farol em funcionamento. Os cães com trela são bem-vindos em todos os trilhos ventosos do topo e a esplanada do centro de visitantes; os passeios panorâmicos para sul até à Praia da Ursa são 100 % pet-friendly.",
+          "dogPolicy": "Leashed dogs welcome on all clifftop paths",
+          "dogPolicyFr": "Chiens en laisse bienvenus sur tous les sentiers de falaise",
+          "dogPolicyEs": "Perros con correa bienvenidos en todos los senderos de acantilado",
+          "dogPolicyPt": "Cães com trela bem-vindos em todos os trilhos de falésia",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "admissionFeePt": "Grátis",
+          "tip": "Keep your dog on a short leash near the cliff edge and avoid windy days with a small dog; gusts can exceed 70 km/h at the lighthouse plinth.",
+          "tipFr": "Gardez votre chien en laisse courte près du bord et évitez les jours de vent fort avec un petit chien ; les rafales dépassent 70 km/h au pied du phare.",
+          "tipEs": "Mantén a tu perro con correa corta cerca del borde y evita los días de viento fuerte con un perro pequeño; las rachas superan los 70 km/h en la base del faro.",
+          "tipPt": "Mantenha o seu cão com trela curta junto à borda e evite os dias de vento forte com um cão pequeno; as rajadas ultrapassam os 70 km/h na base do farol.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cabo+da+Roca"
+        }
+      ],
+      "tipsEn": [
+        "Parques de Sintra (the public landscape operator) confirms a uniform dog-welcome policy across Pena, Regaleira, Monserrate, Capuchos and Peninha outdoor grounds.",
+        "Pena Palace queues peak at 11:00-15:00; first-entry 09:30 or last-entry 17:00 tickets give a much calmer dog visit.",
+        "Combine the Castelo dos Mouros with Parque da Pena in one half-day, both share a hilltop ridge and a leashed dog handles the 1.5 km transfer in 25 minutes."
+      ],
+      "tipsFr": [
+        "Parques de Sintra (l'opérateur public du paysage) confirme une politique d'accueil canin uniforme dans les espaces extérieurs de Pena, Regaleira, Monserrate, Capuchos et Peninha.",
+        "Les files au Palais de Pena culminent entre 11h et 15h ; les billets premier créneau 9h30 ou dernier créneau 17h offrent une visite bien plus calme pour le chien.",
+        "Combinez le Castelo dos Mouros avec le Parque da Pena en une demi-journée, tous deux sur la même crête, un chien en laisse fait le transfert d'1,5 km en 25 minutes."
+      ],
+      "tipsEs": [
+        "Parques de Sintra (el operador público del paisaje) confirma una política de acogida canina uniforme en los espacios exteriores de Pena, Regaleira, Monserrate, Capuchos y Peninha.",
+        "Las colas en el Palacio de Pena alcanzan su pico entre las 11:00 y 15:00; las entradas primera franja 9:30 o última franja 17:00 ofrecen una visita mucho más tranquila para el perro.",
+        "Combina el Castelo dos Mouros con el Parque da Pena en media jornada, ambos en la misma cresta, un perro con correa cubre el traslado de 1,5 km en 25 minutos."
+      ],
+      "tipsPt": [
+        "Parques de Sintra (o operador público da paisagem) confirma uma política de acolhimento canino uniforme nos espaços exteriores da Pena, Regaleira, Monserrate, Capuchos e Peninha.",
+        "As filas no Palácio da Pena atingem o pico entre as 11:00 e 15:00; os bilhetes primeiro slot 9:30 ou último slot 17:00 oferecem uma visita bem mais calma para o cão.",
+        "Combine o Castelo dos Mouros com o Parque da Pena numa meia-jornada, ambos na mesma crista, um cão com trela faz a transferência de 1,5 km em 25 minutos."
+      ],
+      "faqsEn": [
+        {"q": "Are dogs allowed inside the Sintra palaces?", "a": "Only assistance dogs may enter the Pena, Regaleira and Monserrate palace interiors; leashed pets are welcome across all the outdoor grounds and terraces."},
+        {"q": "Can I take my dog on the Sintra hop-on tourist bus?", "a": "Small dogs in carriers ride free on the Scotturb 434 circuit; large dogs are accepted at the driver's discretion when the bus is not full."},
+        {"q": "Is Cabo da Roca a long detour from Sintra?", "a": "No, the Scotturb 403 bus passes Cabo da Roca on its Sintra-Cascais run, and the 18 km drive from Sintra centre takes 30 minutes."}
+      ],
+      "faqsFr": [
+        {"q": "Les chiens sont-ils autorisés à l'intérieur des palais de Sintra ?", "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des palais de Pena, Regaleira et Monserrate ; les chiens en laisse sont bienvenus dans tous les espaces extérieurs et terrasses."},
+        {"q": "Puis-je prendre mon chien dans le bus touristique hop-on de Sintra ?", "a": "Les petits chiens en cage voyagent gratuitement sur le circuit Scotturb 434 ; les grands chiens sont acceptés à la discrétion du chauffeur quand le bus n'est pas plein."},
+        {"q": "Cabo da Roca est-il un long détour depuis Sintra ?", "a": "Non, le bus Scotturb 403 passe par Cabo da Roca sur sa ligne Sintra-Cascais, et les 18 km depuis le centre de Sintra prennent 30 minutes en voiture."}
+      ],
+      "faqsEs": [
+        {"q": "¿Se admiten perros dentro de los palacios de Sintra?", "a": "Solo los perros de asistencia pueden entrar en los interiores de los palacios de Pena, Regaleira y Monserrate; los perros con correa son bienvenidos en todos los espacios exteriores y terrazas."},
+        {"q": "¿Puedo subir a mi perro al bus turístico hop-on de Sintra?", "a": "Los perros pequeños en transportín viajan gratis en el circuito Scotturb 434; los grandes se admiten a discreción del conductor cuando el bus no está lleno."},
+        {"q": "¿Cabo da Roca es un desvío largo desde Sintra?", "a": "No, el bus Scotturb 403 pasa por Cabo da Roca en su línea Sintra-Cascais, y los 18 km desde el centro de Sintra requieren 30 minutos en coche."}
+      ],
+      "faqsPt": [
+        {"q": "Os cães são admitidos dentro dos palácios de Sintra?", "a": "Só os cães de assistência podem entrar nos interiores dos palácios da Pena, Regaleira e Monserrate; os cães com trela são bem-vindos em todos os espaços exteriores e terraços."},
+        {"q": "Posso levar o meu cão no autocarro turístico hop-on de Sintra?", "a": "Os cães pequenos em transportadora viajam grátis no circuito Scotturb 434; os grandes são aceites à discrição do motorista quando o autocarro não está cheio."},
+        {"q": "O Cabo da Roca é um desvio longo desde Sintra?", "a": "Não, o autocarro Scotturb 403 passa pelo Cabo da Roca na sua linha Sintra-Cascais, e os 18 km do centro de Sintra demoram 30 minutos de carro."}
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Boarding in Sintra",
+      "titleFr": "Garde et pension canine à Sintra",
+      "titleEs": "Cuidado y residencia canina en Sintra",
+      "titlePt": "Cuidados e creche canina em Sintra",
+      "introEn": "Sintra has a healthy pet-sitting network thanks to its expat residents and weekend visitor flow, mostly operating through Pawshake and DogHero plus several local boarding kennels in the rural outskirts. Most hosts speak Portuguese and English and offer short-notice bookings outside the summer peak.",
+      "introFr": "Sintra dispose d'un réseau de garde solide grâce à ses résidents expatriés et à son flux de visiteurs week-end, opérant principalement via Pawshake et DogHero plus plusieurs pensions locales en périphérie rurale. La plupart des hôtes parlent portugais et anglais et acceptent des réservations courtes hors pic estival.",
+      "introEs": "Sintra cuenta con una sólida red de cuidadores gracias a sus residentes expatriados y al flujo de visitantes de fin de semana, operando principalmente vía Pawshake y DogHero más varias residencias locales en la periferia rural. La mayoría de los anfitriones hablan portugués e inglés y aceptan reservas con poca antelación fuera del pico estival.",
+      "introPt": "Sintra dispõe de uma sólida rede de cuidadores graças aos seus residentes expatriados e ao fluxo de visitantes de fim de semana, operando principalmente via Pawshake e DogHero mais várias creches locais na periferia rural. A maioria dos anfitriões fala português e inglês e aceita reservas com pouca antecedência fora do pico estival.",
+      "places": [
+        {
+          "name": "Pawshake Sintra",
+          "address": "App-based, hosts across Sintra, Estefânia and Cascais coast",
+          "neighborhood": "Citywide",
+          "website": "https://www.pawshake.pt/",
+          "description": "The leading peer-to-peer pet sitting platform in Portugal, with verified Sintra hosts offering drop-in visits, day care and overnight boarding. Most hosts have ground-floor flats or small Serra gardens with quick outdoor access.",
+          "descriptionFr": "La plateforme de pet sitting pair à pair leader au Portugal, avec des hôtes vérifiés à Sintra offrant visites, garde de jour et pension de nuit. La plupart ont des appartements de plain-pied ou de petits jardins de la Serra avec accès extérieur rapide.",
+          "descriptionEs": "La plataforma líder de pet sitting entre particulares en Portugal, con anfitriones verificados en Sintra que ofrecen visitas, guardería diurna y alojamiento nocturno. La mayoría tiene pisos en planta baja o pequeños jardines de la Serra con acceso exterior rápido.",
+          "descriptionPt": "A plataforma líder de pet sitting entre particulares em Portugal, com anfitriões verificados em Sintra que oferecem visitas, creche diurna e alojamento nocturno. A maioria tem apartamentos no rés-do-chão ou pequenos jardins da Serra com acesso exterior rápido.",
+          "petPolicy": "Per-host policies; insured and reviewed bookings",
+          "petPolicyFr": "Politiques propres à chaque hôte ; réservations assurées et évaluées",
+          "petPolicyEs": "Políticas por anfitrión; reservas con seguro y reseñas",
+          "petPolicyPt": "Políticas por anfitrião; reservas com seguro e avaliações",
+          "services": "Drop-in visits, day care, overnight boarding",
+          "servicesFr": "Visites, garde de jour, pension de nuit",
+          "servicesEs": "Visitas, guardería diurna, alojamiento nocturno",
+          "servicesPt": "Visitas, creche diurna, alojamento nocturno",
+          "openingHours": "App available 24/7; sitters set own hours"
+        },
+        {
+          "name": "DogHero Sintra",
+          "address": "App-based, hosts across Sintra municipality",
+          "neighborhood": "Citywide",
+          "website": "https://www.doghero.com.pt/",
+          "description": "Brazilian-founded DogHero is the second-largest peer-to-peer pet sitting platform in Portugal, with a deep Sintra-Cascais coast roster including hosts in São Pedro, Estefânia and Mem Martins. Verified profiles, insured stays and in-app messaging in Portuguese and English.",
+          "descriptionFr": "DogHero, fondé au Brésil, est la deuxième plateforme de pet sitting pair à pair au Portugal, avec un réseau dense côte Sintra-Cascais incluant des hôtes à São Pedro, Estefânia et Mem Martins. Profils vérifiés, séjours assurés et messagerie in-app en portugais et anglais.",
+          "descriptionEs": "DogHero, fundada en Brasil, es la segunda plataforma de pet sitting entre particulares de Portugal, con un denso elenco en la costa Sintra-Cascais incluyendo anfitriones en São Pedro, Estefânia y Mem Martins. Perfiles verificados, estancias aseguradas y mensajería en la app en portugués e inglés.",
+          "descriptionPt": "A DogHero, fundada no Brasil, é a segunda plataforma de pet sitting entre particulares em Portugal, com uma densa rede na costa Sintra-Cascais incluindo anfitriões em São Pedro, Estefânia e Mem Martins. Perfis verificados, estadias asseguradas e mensagens in-app em português e inglês.",
+          "petPolicy": "Per-host policies; insured and reviewed bookings",
+          "petPolicyFr": "Politiques propres à chaque hôte ; réservations assurées et évaluées",
+          "petPolicyEs": "Políticas por anfitrión; reservas con seguro y reseñas",
+          "petPolicyPt": "Políticas por anfitrião; reservas com seguro e avaliações",
+          "services": "Drop-in visits, day care, overnight boarding, dog walks",
+          "servicesFr": "Visites, garde de jour, pension de nuit, balades",
+          "servicesEs": "Visitas, guardería diurna, alojamiento nocturno, paseos",
+          "servicesPt": "Visitas, creche diurna, alojamento nocturno, passeios",
+          "openingHours": "App available 24/7; sitters set own hours"
+        }
+      ],
+      "tipsEn": [
+        "Pawshake and DogHero rates in Sintra run EUR 18-28 per night for overnight boarding and EUR 10-15 per 30-minute walk; pricing visible inside the apps.",
+        "Most boarding kennels require proof of rabies and DHPPi vaccinations and an EU passport; bring originals not photocopies.",
+        "Book 2-3 weeks ahead for any stay overlapping the August Lisbon Festas dos Santos Populares week when locals also leave town with their dogs."
+      ],
+      "tipsFr": [
+        "Les tarifs Pawshake et DogHero à Sintra oscillent entre 18-28 € par nuit pour la pension et 10-15 € par balade de 30 minutes ; tarifs visibles dans les applis.",
+        "La plupart des pensions exigent preuves de vaccinations antirabique et DHPPi ainsi qu'un passeport européen ; apportez les originaux, pas de photocopies.",
+        "Réservez 2-3 semaines à l'avance pour tout séjour chevauchant la semaine d'août des Festas dos Santos Populares de Lisbonne quand les locaux partent aussi avec leurs chiens."
+      ],
+      "tipsEs": [
+        "Las tarifas Pawshake y DogHero en Sintra van de 18-28 € por noche para alojamiento y 10-15 € por paseo de 30 minutos; precios visibles en las apps.",
+        "La mayoría de residencias exigen pruebas de vacunación antirrábica y DHPPi además del pasaporte UE; lleva originales, no fotocopias.",
+        "Reserva con 2-3 semanas de antelación para cualquier estancia que coincida con la semana de agosto de las Festas dos Santos Populares de Lisboa cuando los locales también salen con sus perros."
+      ],
+      "tipsPt": [
+        "As tarifas Pawshake e DogHero em Sintra vão de 18-28 € por noite para alojamento e 10-15 € por passeio de 30 minutos; preços visíveis nas apps.",
+        "A maioria das pensões exige provas de vacinação antirrábica e DHPPi mais o passaporte UE; leve originais, não fotocópias.",
+        "Reserve com 2-3 semanas de antecedência para qualquer estadia que coincida com a semana de agosto das Festas dos Santos Populares de Lisboa quando os locais também saem com os seus cães."
+      ],
+      "faqsEn": [
+        {"q": "How much does pet sitting cost in Sintra?", "a": "Expect EUR 18-28 per night for boarding and EUR 10-15 per 30-minute walk via Pawshake or DogHero; local boarding kennels in Mem Martins charge from EUR 22 per day."},
+        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Sintra hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a Lisbon Fado dinner or a wine tasting in the Colares vineyards."},
+        {"q": "Do I need to bring my dog's food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."}
+      ],
+      "faqsFr": [
+        {"q": "Combien coûte la garde à Sintra ?", "a": "Comptez 18-28 € par nuit en pension et 10-15 € par balade de 30 minutes via Pawshake ou DogHero ; les pensions locales à Mem Martins facturent à partir de 22 € par jour."},
+        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Sintra gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour un dîner Fado à Lisbonne ou une dégustation dans les vignobles de Colares."},
+        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."}
+      ],
+      "faqsEs": [
+        {"q": "¿Cuánto cuesta el cuidado de mascotas en Sintra?", "a": "Cuenta 18-28 € por noche en residencia y 10-15 € por paseo de 30 minutos vía Pawshake o DogHero; las residencias locales en Mem Martins cobran desde 22 € por día."},
+        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Sintra guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una cena Fado en Lisboa o una cata en los viñedos de Colares."},
+        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."}
+      ],
+      "faqsPt": [
+        {"q": "Quanto custa o cuidado de animais em Sintra?", "a": "Conte 18-28 € por noite em creche e 10-15 € por passeio de 30 minutos via Pawshake ou DogHero; as creches locais em Mem Martins cobram desde 22 € por dia."},
+        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Sintra guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para um jantar de Fado em Lisboa ou uma prova nas vinhas de Colares."},
+        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."}
+      ]
+    }
+  }
+}

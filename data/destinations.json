@@ -11728,18 +11728,66 @@
     "lat": 48.2047,
     "lng": 15.6256,
     "weather": {
-      "jan": {"temp": 0, "desc": "Cold, snow possible", "icon": "❄️"},
-      "feb": {"temp": 2, "desc": "Cold, dry", "icon": "❄️"},
-      "mar": {"temp": 7, "desc": "Cool spring", "icon": "🌤️"},
-      "apr": {"temp": 12, "desc": "Mild spring", "icon": "🌸"},
-      "may": {"temp": 17, "desc": "Warm, ideal", "icon": "☀️"},
-      "jun": {"temp": 20, "desc": "Warm, wine valley", "icon": "🌤️"},
-      "jul": {"temp": 22, "desc": "Warm afternoons", "icon": "☀️"},
-      "aug": {"temp": 22, "desc": "Warm afternoons", "icon": "☀️"},
-      "sep": {"temp": 17, "desc": "Mild autumn", "icon": "🌤️"},
-      "oct": {"temp": 11, "desc": "Crisp autumn", "icon": "🍂"},
-      "nov": {"temp": 5, "desc": "Cool, foggy", "icon": "🌫️"},
-      "dec": {"temp": 1, "desc": "Cold, festive", "icon": "🎄"}
+      "jan": {
+        "temp": 0,
+        "desc": "Cold, snow possible",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold, dry",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Warm, wine valley",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool, foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold, festive",
+        "icon": "🎄"
+      }
     },
     "iata": "VIE"
   },
@@ -11892,6 +11940,81 @@
     },
     "iata": "SVQ",
     "tiqetsId": "65870"
+  },
+  {
+    "slug": "sintra",
+    "name": "Sintra",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/sintra.jpg",
+    "intro": "Sintra, the UNESCO Cultural Landscape 30 minutes from Lisbon, combines polychrome Romantic palaces in the Serra de Sintra, the botanical gardens of Pena, Regaleira and Monserrate, kilometres of leashy laurel-forest trails, the dramatic Atlantic cliffs of Cabo da Roca and a mild oceanic climate that stays pet-friendly year-round.",
+    "lat": 38.798,
+    "lng": -9.3878,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Cool & misty",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Cool & misty",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm & breezy",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Warm & breezy",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "LIS"
   },
   {
     "slug": "sofia",

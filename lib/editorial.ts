@@ -822,6 +822,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parque de María Luisa, the Alamillo park, and the Guadalquivir riverside promenade',
       area: 'Triana, Santa Cruz, and El Arenal',
     },
+    sintra: {
+      personality: `the UNESCO Cultural Landscape 30 minutes from Lisbon, with polychrome Romantic palaces in the Serra de Sintra, the dog-welcoming Parques de Sintra grounds at Pena, Regaleira, Monserrate and Capuchos, and a mild Atlantic climate that stays pet-friendly year-round`,
+      highlight: `the Parque da Pena and Quinta da Regaleira gardens, the Castelo dos Mouros ramparts, and the Cabo da Roca cliffs at the westernmost tip of continental Europe`,
+      area: `the Vila Velha around the Palácio Nacional, the residential Estefânia near the station, and the village square of São Pedro de Sintra`,
+    },
     sofia: {
       personality: 'one of the EU\'s most affordable capitals, with nearly 500 dog-friendly venues, two 24/7 emergency hospitals, and the 2 290-metre Vitosha mountain rising directly from the city',
       highlight: 'Borisova Gradina, Yuzhen Park, and the Vitosha Nature Park trails',
@@ -1818,6 +1823,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'l\'une des villes les plus dog-friendly d\'Andalousie. Où les chiens se promènent sous les orangers, rejoignent leurs propriétaires sur les terrasses de bars à tapas et explorent les parcs riverains',
       highlight: 'le Parque de María Luisa, le parc Alamillo et la promenade riveraine du Guadalquivir',
       area: 'Triana, Santa Cruz et El Arenal',
+    },
+    sintra: {
+      personality: `le Paysage Culturel UNESCO à 30 minutes de Lisbonne, avec ses palais romantiques polychromes dans la Serra de Sintra, les domaines accueillants Parques de Sintra à Pena, Regaleira, Monserrate et Capuchos, et un climat atlantique doux qui reste pet-friendly toute l'année`,
+      highlight: `les jardins du Parque da Pena et de la Quinta da Regaleira, les remparts du Castelo dos Mouros et les falaises de Cabo da Roca, pointe la plus à l'ouest de l'Europe continentale`,
+      area: `la Vila Velha autour du Palácio Nacional, le quartier résidentiel d'Estefânia près de la gare et la place villageoise de São Pedro de Sintra`,
     },
     sofia: {
       personality: 'l\'une des capitales européennes les plus abordables, avec près de 500 adresses dog-friendly, deux hôpitaux d\'urgence 24h/24 et le Vitosha à 2 290 mètres qui s\'élève directement depuis la ville',
@@ -2816,6 +2826,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque de María Luisa, el parque Alamillo y el paseo ribereño del Guadalquivir',
       area: 'Triana, Santa Cruz y El Arenal',
     },
+    sintra: {
+      personality: `el Paisaje Cultural UNESCO a 30 minutos de Lisboa, con palacios románticos polícromos en la Serra de Sintra, los recintos pet-friendly Parques de Sintra en Pena, Regaleira, Monserrate y Capuchos, y un clima atlántico suave que se mantiene pet-friendly todo el año`,
+      highlight: `los jardines del Parque da Pena y la Quinta da Regaleira, las murallas del Castelo dos Mouros y los acantilados de Cabo da Roca, punta más occidental de la Europa continental`,
+      area: `la Vila Velha en torno al Palácio Nacional, el barrio residencial de Estefânia junto a la estación y la plaza del pueblo de São Pedro de Sintra`,
+    },
     sofia: {
       personality: 'una de las capitales europeas más asequibles, con cerca de 500 direcciones dog-friendly, dos hospitales de urgencias 24/7 y el monte Vitosha de 2.290 metros elevándose directamente desde la ciudad',
       highlight: 'Borisova Gradina, el Yuzhen Park y los senderos del Parque Natural del Vitosha',
@@ -3812,6 +3827,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das cidades mais pet-friendly de Andalucía. Onde os cães pasean sob os naranjos, acompanhan aos seus duenhos nas esplanadas de bares de tapas e exploran os parques riberenhos',
       highlight: 'o Parque de María Luisa, o parque Alamillo e o passeio riberenho do Guadalquivir',
       area: 'Triana, Santa Cruz e O Arenal',
+    },
+    sintra: {
+      personality: `a Paisagem Cultural UNESCO a 30 minutos de Lisboa, com palácios românticos policromos na Serra de Sintra, os recintos pet-friendly Parques de Sintra na Pena, Regaleira, Monserrate e Capuchos, e um clima atlântico suave que se mantém pet-friendly o ano inteiro`,
+      highlight: `os jardins do Parque da Pena e da Quinta da Regaleira, as muralhas do Castelo dos Mouros e as falésias do Cabo da Roca, ponta mais ocidental da Europa continental`,
+      area: `a Vila Velha em torno do Palácio Nacional, o bairro residencial da Estefânia junto à estação e a praça da aldeia de São Pedro de Sintra`,
     },
     sofia: {
       personality: 'uma das capitales europeias mais asequibles, com perto de 500 direcciones pet-friendly, dos hospitales de urgências 24/7 e o monte Vitosha de 2.290 metros elevándose directamente a partir da cidade',

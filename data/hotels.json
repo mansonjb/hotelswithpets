@@ -23421,6 +23421,133 @@
     "slug": "b-and-b-hotel-trieste"
   },
   {
+    "id": "tromso-1",
+    "name": "Clarion Hotel The Edge",
+    "destinationSlug": "tromso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2901,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/the-edge.en-gb.html",
+    "petFee": 26,
+    "petPolicy": "Clarion Hotel The Edge is a 4-star waterfront hotel on Kaigata in central Tromso, beside the harbour and a short walk from the Polaria aquarium. Pets of any size are welcome in designated rooms for 300 NOK (about 26 EUR) per pet, per stay, and both dogs and cats are accepted. Keep pets leashed in lobbies; they are not allowed in the rooftop bar or breakfast area.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop bar with harbour view",
+      "Central waterfront location",
+      "Restaurant"
+    ],
+    "slug": "clarion-hotel-the-edge-tromso"
+  },
+  {
+    "id": "tromso-2",
+    "name": "Scandic Ishavshotel",
+    "destinationSlug": "tromso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 1769,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/scandic-ishavshotel.html",
+    "petFee": 17,
+    "petPolicy": "Scandic Ishavshotel is a 4-star hotel built like a ship's prow on the Tromso waterfront, steps from the harbour quay and the Hurtigruten terminal. Pets of any size are welcome for 200 NOK (about 17 EUR) per pet, per night, and both dogs and cats are accepted. Pets must be kept on a lead in public areas and are not permitted in the restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Waterfront views",
+      "Restaurant",
+      "Near harbour promenade"
+    ],
+    "slug": "scandic-ishavshotel-tromso"
+  },
+  {
+    "id": "tromso-3",
+    "name": "Radisson Blu Hotel, Tromso",
+    "destinationSlug": "tromso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3682,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/radisson-blu-hotel-tromso.html",
+    "petFee": 26,
+    "petPolicy": "Radisson Blu Hotel, Tromso is a 4-star hotel on the Sjogata waterfront in the city centre, near the Tromso Bridge and the cathedral. One pet of any size is welcome per room for 300 NOK (about 26 EUR) per night. Pets must be leashed in common areas and may not be left unattended in the room.",
+    "highlights": [
+      "Free WiFi",
+      "Central waterfront location",
+      "Restaurant",
+      "Bar"
+    ],
+    "slug": "radisson-blu-hotel-tromso"
+  },
+  {
+    "id": "tromso-4",
+    "name": "Thon Hotel Polar",
+    "destinationSlug": "tromso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1074,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/thon-polar.html",
+    "petFee": 35,
+    "petPolicy": "Thon Hotel Polar is a cosy 3-star hotel on Gronnegata in the heart of pedestrian Tromso, close to the Storgata shopping street. Dogs of any size are welcome in designated rooms for 400 NOK (about 35 EUR) per stay, and cats are also accepted. Well-behaved pets may be left briefly in the room, but housekeeping will not service it while a pet is inside.",
+    "highlights": [
+      "Free WiFi",
+      "Free breakfast buffet",
+      "City-centre location",
+      "24-hour reception"
+    ],
+    "slug": "thon-hotel-polar-tromso"
+  },
+  {
+    "id": "tromso-5",
+    "name": "Comfort Hotel Xpress Tromso",
+    "destinationSlug": "tromso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1407,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/comfort-xpress-tromso.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Comfort Hotel Xpress Tromso is a modern budget 3-star hotel on Kaigata near the harbour, with compact design rooms and a 24/7 self-service bar. Two pets of any size are welcome at no nightly fee, with a refundable deposit of 250 NOK (about 22 EUR) per stay; both dogs and cats are accepted. Pets must be kept leashed in shared areas.",
+    "highlights": [
+      "Free WiFi",
+      "Bar",
+      "Self check-in",
+      "Central location"
+    ],
+    "slug": "comfort-hotel-xpress-tromso"
+  },
+  {
     "id": "trondheim-1",
     "name": "Britannia Hotel",
     "destinationSlug": "trondheim",

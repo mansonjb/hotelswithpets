@@ -897,6 +897,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Piazza Unità d'Italia (Europe's largest seafront square), the Castello di Miramare park, and the Karst plateau trails and osmiza farmhouse wine bars above the city`,
       area: `the Borgo Teresiano grid around the Canal Grande, the Piazza Unità d'Italia waterfront, and the Barcola seafront promenade north of the centre`,
     },
+    tromso: {
+      personality: `the Arctic capital of Norway 350 km north of the Arctic Circle, a 77,000-person hub built around aurora chasing in winter and the midnight sun in summer, with mild 14 C July highs that suit brachycephalic and senior dogs, and Tromsdalen forest trails minutes from the city centre`,
+      highlight: `the Fjellheisen cable car to the 421 m Storsteinen viewpoint, the Arctic Cathedral plaza, and Telegrafbukta shore park at the south of the island`,
+      area: `Storgata and the central harbour, the Tromsdalen valley around the Arctic Cathedral, and the Folkeparken / Telegrafbukta southern shore`,
+    },
     trondheim: {
       personality: `Norway's third city and medieval capital, UNESCO Nidaros Cathedral (the world's northernmost Gothic cathedral), the colourful Bakklandet wooden quarter, free dog transport on buses, trams and trains, and 80 km² of Bymarka urban forest at the city edge`,
       highlight: `the Nidaros Cathedral and Gamle Bybro bridge, the iconic Gråkallbanen heritage tram to Bymarka forest, and Munkholmen island ferry`,
@@ -1878,6 +1883,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la capitale habsbourgeoise du Frioul-Vénétie Julienne sur l'Adriatique, environ 22 000 chiens enregistrés pour 200 000 habitants, des aires sans laisse municipales officielles, l'emblématique front de mer de Barcola de 4 km avec sa Bau Beach dédiée, et le Parco di Miramare littoral de 22 hectares`,
       highlight: `la Piazza Unità d'Italia (plus grande place littorale d'Europe), le parc du Castello di Miramare, et les sentiers du plateau karstique avec les osmize, bars à vin paysans au-dessus de la ville`,
       area: `la grille du Borgo Teresiano autour du Canal Grande, le front de mer de la Piazza Unità d'Italia, et la promenade de Barcola au nord du centre`,
+    },
+    tromso: {
+      personality: `la capitale arctique de la Norvège à 350 km au nord du cercle polaire, hub de 77 000 habitants articulé autour de la chasse aux aurores en hiver et du soleil de minuit en été, avec des maxima doux de 14 C en juillet adaptés aux chiens brachycéphales et seniors, et les sentiers forestiers de Tromsdalen à quelques minutes du centre`,
+      highlight: `le téléphérique Fjellheisen vers le belvédère de Storsteinen à 421 m, l'esplanade de la Cathédrale arctique, et le parc côtier de Telegrafbukta au sud de l'île`,
+      area: `Storgata et le port central, la vallée de Tromsdalen autour de la Cathédrale arctique, et la rive sud Folkeparken / Telegrafbukta`,
     },
     trondheim: {
       personality: `la troisième ville de Norvège et capitale médiévale, cathédrale Nidaros UNESCO (la cathédrale gothique la plus septentrionale du monde), quartier en bois coloré de Bakklandet, transport canin gratuit (bus, trams, trains), et 80 km² de forêt urbaine de Bymarka aux portes de la ville`,
@@ -2861,6 +2871,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la Piazza Unità d'Italia (la mayor plaza marítima de Europa), el parque del Castello di Miramare, y los senderos de la meseta cárstica con las osmize, bares de vino campesinos sobre la ciudad`,
       area: `la cuadrícula del Borgo Teresiano alrededor del Canal Grande, el frente marítimo de Piazza Unità d'Italia, y el paseo de Barcola al norte del centro`,
     },
+    tromso: {
+      personality: `la capital ártica de Noruega a 350 km al norte del Círculo Polar, núcleo de 77.000 habitantes en torno a la caza de auroras en invierno y el sol de medianoche en verano, con máximas suaves de 14 C en julio adecuadas para perros braquicéfalos y mayores, y senderos forestales de Tromsdalen a minutos del centro`,
+      highlight: `el teleférico Fjellheisen al mirador de Storsteinen a 421 m, la explanada de la Catedral del Ártico, y el parque costero de Telegrafbukta al sur de la isla`,
+      area: `Storgata y el puerto central, el valle de Tromsdalen alrededor de la Catedral del Ártico, y la orilla sur Folkeparken / Telegrafbukta`,
+    },
     trondheim: {
       personality: `la tercera ciudad de Noruega y capital medieval, catedral de Nidaros UNESCO (la catedral gótica más septentrional del mundo), barrio de madera colorido de Bakklandet, transporte canino gratis (buses, tranvías, trenes), y 80 km² de bosque urbano de Bymarka a las puertas de la ciudad`,
       highlight: `la catedral de Nidaros y el Puente Viejo (Gamle Bybro), el icónico tranvía histórico Gråkallbanen hacia el bosque de Bymarka, y el ferry a la isla Munkholmen`,
@@ -3842,6 +3857,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital habsbúrgica de Friuli-Venezia Giulia sobre o Adriático, com uns 22.000 cães registados sobre 200.000 habitantes, áreas municipales sem trela oficiales, o icónico passeio marítimo de Barcola de 4 km com a sua Bau Beach dedicada, e o Parco di Miramare litoral de 22 hectáreas`,
       highlight: `a Piazza Unità d'Italia (a mayor praça marítima de Europa), o parque do Castello di Miramare, e os trilhos da meseta cárstica com as osmize, bares de vinho campesinos sobre a cidade`,
       area: `a cuadrícula do Borgo Teresiano alrededor do Canal Grande, o frente marítimo da Piazza Unità d'Italia, e o passeio de Barcola al norte do centro`,
+    },
+    tromso: {
+      personality: `a capital árctica da Noruega a 350 km a norte do Círculo Polar, núcleo de 77.000 habitantes em torno da caça às auroras no inverno e do sol da meia-noite no verão, com máximas amenas de 14 C em julho adequadas a cães braquicéfalos e séniores, e trilhos florestais de Tromsdalen a minutos do centro`,
+      highlight: `o teleférico Fjellheisen até ao miradouro de Storsteinen a 421 m, a esplanada da Catedral do Árctico, e o parque costeiro de Telegrafbukta no sul da ilha`,
+      area: `Storgata e o porto central, o vale de Tromsdalen em volta da Catedral do Árctico, e a margem sul Folkeparken / Telegrafbukta`,
     },
     trondheim: {
       personality: `a tercera cidade de Noruega e capital medieval, catedral de Nidaros UNESCO (a catedral gótica mais septentrional do mundo), bairro de madera colorido de Bakklandet, transporte canino grátis (buses, elétricos, comboios), e 80 km² de floresta urbano de Bymarka a as puertas da cidade`,

@@ -13141,6 +13141,81 @@
     "iata": "TRS"
   },
   {
+    "slug": "tromso",
+    "name": "Tromso",
+    "country": "Norway",
+    "countryCode": "NO",
+    "flag": "🇳🇴",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/tromso.jpg",
+    "intro": "Tromso, the Arctic capital 350 km north of the Arctic Circle, is the gateway to the Northern Lights and the Midnight Sun. Mild summer highs of 14 C suit brachycephalic and senior dogs, the Fjellheisen cable car climbs to a 421 m city panorama, and the Norwegian leash law (1 April-20 August) protects nesting wildlife.",
+    "lat": 69.6492,
+    "lng": 18.9553,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Polar night, cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": -1,
+        "desc": "Cold, snowy, lengthening days",
+        "icon": "❄️"
+      },
+      "apr": {
+        "temp": 2,
+        "desc": "Cool, melting snow",
+        "icon": "🌨️"
+      },
+      "may": {
+        "temp": 7,
+        "desc": "Cool spring, midnight sun starts",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 12,
+        "desc": "Mild, midnight sun",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 14,
+        "desc": "Mild, midnight sun peak",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 13,
+        "desc": "Cool, midnight sun ends",
+        "icon": "⛅"
+      },
+      "sep": {
+        "temp": 8,
+        "desc": "Cool, first aurora",
+        "icon": "🌧️"
+      },
+      "oct": {
+        "temp": 3,
+        "desc": "Cold, wet, dark",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": -1,
+        "desc": "Polar night begins",
+        "icon": "❄️"
+      },
+      "dec": {
+        "temp": -3,
+        "desc": "Polar night, cold & snowy",
+        "icon": "❄️"
+      }
+    },
+    "iata": "TOS"
+  },
+  {
     "slug": "trondheim",
     "name": "Trondheim",
     "country": "Norway",

@@ -22437,6 +22437,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  tromso: {
+    history: {
+      fr: `Tromso, fondée en 1794 et surnommée la « Paris du Nord » par les explorateurs polaires du XIXe siècle, est la capitale arctique de la Norvège, à 350 km au nord du cercle polaire. Avec ses 77 000 habitants, elle est l'une des plus grandes villes au-dessus du cercle, point de départ historique des expéditions vers le Spitzberg et le pôle. Le climat est paradoxalement doux pour sa latitude grâce au Gulf Stream : maxima moyens de 14 C en juillet, -3 C en janvier, parfait pour les chiens brachycéphales et seniors qui souffrent dans la chaleur continentale. La ville est célèbre pour ses aurores boréales de septembre à mars et son soleil de minuit de mai à juillet. Les chiens y sont des compagnons quotidiens : la loi norvégienne de laisse (1er avril-20 août) protège les oiseaux nicheurs, hors saison les sentiers de Tromsdalen et la rive sud de Telegrafbukta sont des paradis sans laisse. Tromso est aussi la porte du ferry côtier Hurtigruten qui relie Bergen à Kirkenes avec des cabines animaux dédiées.`,
+      en: `Tromso, founded in 1794 and nicknamed the "Paris of the North" by 19th-century polar explorers, is Norway's Arctic capital, 350 km north of the Arctic Circle. With 77,000 inhabitants it is one of the largest cities above the Circle, the historic launching point for expeditions to Svalbard and the Pole. The climate is paradoxically mild for its latitude thanks to the Gulf Stream: July highs average 14 C and January around -3 C, perfect for brachycephalic and senior dogs who suffer in continental heat. The city is famous for the Northern Lights from September to March and the Midnight Sun from May to July. Dogs are everyday companions here: the Norwegian leash law (1 April-20 August) protects nesting birds, and outside that season the Tromsdalen forest trails and the southern shore of Telegrafbukta are off-leash havens. Tromso is also the gateway to the Hurtigruten coastal ferry linking Bergen to Kirkenes with dedicated pet cabins.`,
+      es: `Tromso, fundada en 1794 y apodada la "París del Norte" por los exploradores polares del siglo XIX, es la capital ártica de Noruega, a 350 km al norte del Círculo Polar. Con 77.000 habitantes es una de las mayores ciudades sobre el Círculo, punto de partida histórico de expediciones al Svalbard y al Polo. El clima es paradójicamente suave para su latitud gracias a la Corriente del Golfo: máximas medias de 14 C en julio y -3 C en enero, perfecto para perros braquicéfalos y mayores que sufren con el calor continental. La ciudad es famosa por las auroras boreales de septiembre a marzo y el sol de medianoche de mayo a julio. Los perros son compañeros cotidianos: la ley noruega de correa (1 abril-20 agosto) protege a las aves que anidan, y fuera de esa temporada los senderos forestales de Tromsdalen y la orilla sur de Telegrafbukta son refugios sin correa. Tromso es también la puerta del ferry costero Hurtigruten que une Bergen con Kirkenes con camarotes para mascotas dedicados.`,
+      pt: `Tromso, fundada em 1794 e apelidada de "Paris do Norte" pelos exploradores polares do século XIX, é a capital árctica da Noruega, a 350 km a norte do Círculo Polar. Com 77.000 habitantes é uma das maiores cidades acima do Círculo, ponto de partida histórico das expedições ao Svalbard e ao Pólo. O clima é paradoxalmente ameno para a sua latitude graças à Corrente do Golfo: máximas médias de 14 C em julho e -3 C em janeiro, perfeito para cães braquicéfalos e séniores que sofrem com o calor continental. A cidade é famosa pelas auroras boreais de setembro a março e pelo sol da meia-noite de maio a julho. Os cães são companheiros do quotidiano: a lei norueguesa da trela (1 abril-20 agosto) protege as aves que nidificam, e fora dessa temporada os trilhos florestais de Tromsdalen e a margem sul de Telegrafbukta são refúgios sem trela. Tromso é também a porta do ferry costeiro Hurtigruten que liga Bergen a Kirkenes com camarotes para animais dedicados.`,
+    },
+    sights: [
+      { name: 'Fjellheisen Cable Car', emoji: '🚠', petFriendly: true, desc: {
+        fr: `Téléphérique iconique vers Storsteinen à 421 m, panorama sur la ville arctique et les fjords. Petits chiens en cage gratuits, grands chiens muselés à la discrétion du personnel.`,
+        en: `Iconic cable car to Storsteinen at 421 m, panorama over the Arctic city and fjords. Small dogs in carriers free, large dogs muzzled at staff discretion.`,
+        es: `Icónico teleférico a Storsteinen a 421 m, panorámica sobre la ciudad ártica y los fiordos. Perros pequeños en transportín gratis, grandes con bozal a discreción del personal.`,
+        pt: `Icónico teleférico a Storsteinen a 421 m, panorama sobre a cidade árctica e os fiordes. Cães pequenos em transportadora grátis, grandes com açaime à discrição do pessoal.`,
+      }},
+      { name: 'Arctic Cathedral', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Iconique église blanche triangulaire de 1965 côté Tromsdalen. Esplanade extérieure ouverte 24h/24 aux chiens, seuls les chiens d'assistance entrent à l'intérieur.`,
+        en: `Iconic 1965 white triangular church on the Tromsdalen side. Outdoor plaza open 24/7 to dogs, only assistance dogs go inside.`,
+        es: `Icónica iglesia blanca triangular de 1965 en el lado Tromsdalen. Explanada exterior abierta 24/7 a perros, solo perros de asistencia entran dentro.`,
+        pt: `Icónica igreja branca triangular de 1965 do lado de Tromsdalen. Esplanada exterior aberta 24/7 a cães, só cães de assistência entram no interior.`,
+      }},
+      { name: 'Telegrafbukta Park', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Parc en crique exposé au sud, principale plage de la ville. Sans laisse hors saison de nidification (1er avril-20 août) avec un bon rappel.`,
+        en: `South-facing cove park, the city's main beach. Off-leash outside nesting season (1 April-20 August) with good recall.`,
+        es: `Parque en cala orientado al sur, playa principal de la ciudad. Sin correa fuera de nidificación (1 abril-20 agosto) con buena llamada.`,
+        pt: `Parque em enseada virado a sul, praia principal da cidade. Sem trela fora da nidificação (1 abril-20 agosto) com boa chamada.`,
+      }},
+      { name: 'Tromsdalen Forest Trails', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Contreforts boisés sur le continent, départ des Escaliers Sherpa. Sans laisse hors nidification, idéal pour ski-joëring de janvier à mars.`,
+        en: `Wooded foothills on the mainland, trailhead of the Sherpa Stairs. Off-leash outside nesting season, ideal for ski-joring from January to March.`,
+        es: `Faldas boscosas en tierra firme, inicio de las Escaleras Sherpa. Sin correa fuera de nidificación, ideal para ski-joring de enero a marzo.`,
+        pt: `Encostas arborizadas no continente, início das Escadas Sherpa. Sem trela fora da nidificação, ideal para ski-joring de janeiro a março.`,
+      }},
+      { name: 'Storgata Main Street', emoji: '🛍️', petFriendly: true, desc: {
+        fr: `Artère principale et place Stortorget, axe café et boutiques accessibles aux chiens en laisse. Banc et abri-vent à l'entrée de la plupart des cafés en hiver.`,
+        en: `Main artery and Stortorget square, the cafe and shop spine accessible to leashed dogs. Bench and wind-shelter at most cafe entrances in winter.`,
+        es: `Arteria principal y plaza Stortorget, eje de cafés y tiendas accesible a perros con correa. Banco y cortavientos en la mayoría de entradas de café en invierno.`,
+        pt: `Artéria principal e praça Stortorget, eixo de cafés e lojas acessível a cães com trela. Banco e para-vento na maioria das entradas de café no inverno.`,
+      }},
+      { name: 'Prestvannet Lake Loop', emoji: '🦢', petFriendly: true, desc: {
+        fr: `Boucle plate de 2 km autour du lac au point haut de l'île, éclairée toute l'année. Laisse stricte près de la rive (réserve ornithologique).`,
+        en: `Flat 2 km loop around the lake at the island's high point, lit year-round. Strict leash near the shore (bird reserve).`,
+        es: `Vuelta plana de 2 km al lago en el punto alto de la isla, iluminada todo el año. Correa estricta cerca de la orilla (reserva ornitológica).`,
+        pt: `Volta plana de 2 km ao lago no ponto alto da ilha, iluminada o ano inteiro. Trela estrita perto da margem (reserva ornitológica).`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Loi norvégienne de laisse stricte du 1er avril au 20 août partout hors parcs canins clôturés ; hors saison, sans laisse avec rappel sur les sentiers.`,
+        `Manteau et harnais réfléchissant indispensables entre octobre et avril ; la nuit polaire (27 nov-15 jan) plus le reflet de la neige rendent les chiens invisibles aux voitures.`,
+        `Bus Svipper ligne 42 vers l'aéroport Tromso (TOS) : chiens en laisse à la discrétion du chauffeur, petits chiens en cage gratuits.`,
+        `Vétérinaires d'urgence sur triage téléphonique : Tromso Dyrehospital (+47 77 60 04 70) et AniCura Tromso (+47 77 67 56 00) ; pas de 24h/24 sans rendez-vous.`,
+        `Tarifs vétérinaires norvégiens parmi les plus chers d'Europe : consultation d'urgence basique 1 800-2 500 NOK (155-215 EUR). Assurance recommandée.`,
+      ],
+      en: [
+        `Strict Norwegian leash law 1 April-20 August everywhere outside fenced dog parks; off-season, off-leash with recall on the trails.`,
+        `Reflective coat and harness essential between October and April; the polar night (27 Nov-15 Jan) plus snow glare make dogs invisible to drivers.`,
+        `Svipper bus line 42 to Tromso airport (TOS): leashed dogs at the driver's discretion, small dogs in carriers free.`,
+        `Emergency vets work on phone triage: Tromso Dyrehospital (+47 77 60 04 70) and AniCura Tromso (+47 77 67 56 00); no 24/7 walk-in.`,
+        `Norwegian vet fees are among Europe's highest: basic emergency consult 1,800-2,500 NOK (155-215 EUR). Insurance recommended.`,
+      ],
+      es: [
+        `Ley noruega de correa estricta del 1 abril al 20 agosto en todas partes fuera de parques caninos vallados; fuera de temporada, sin correa con llamada en los senderos.`,
+        `Abrigo y arnés reflectante imprescindibles entre octubre y abril; la noche polar (27 nov-15 ene) más el reflejo de la nieve hacen invisibles a los perros para los coches.`,
+        `Bus Svipper línea 42 al aeropuerto de Tromso (TOS): perros con correa a discreción del conductor, pequeños en transportín gratis.`,
+        `Veterinarios de urgencias con triaje telefónico: Tromso Dyrehospital (+47 77 60 04 70) y AniCura Tromso (+47 77 67 56 00); no hay 24/7 sin cita.`,
+        `Las tarifas veterinarias noruegas están entre las más caras de Europa: consulta de urgencia básica 1.800-2.500 NOK (155-215 EUR). Seguro recomendado.`,
+      ],
+      pt: [
+        `Lei norueguesa da trela estrita de 1 abril a 20 agosto em todo o lado fora de parques caninos vedados; fora da época, sem trela com chamada nos trilhos.`,
+        `Casaco e arnês reflector essenciais entre outubro e abril; a noite polar (27 nov-15 jan) mais o reflexo da neve tornam os cães invisíveis para os condutores.`,
+        `Autocarro Svipper linha 42 para o aeroporto de Tromso (TOS): cães com trela à discrição do condutor, pequenos em transportadora grátis.`,
+        `Veterinários de urgência com triagem telefónica: Tromso Dyrehospital (+47 77 60 04 70) e AniCura Tromso (+47 77 67 56 00); não há 24/7 sem marcação.`,
+        `As tarifas veterinárias norueguesas estão entre as mais caras da Europa: consulta de urgência básica 1.800-2.500 NOK (155-215 EUR). Seguro recomendado.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport de Tromso (TOS) à 10 min en bus 42 du centre ; aire animale extérieure à l'est du terminal.`,
+        `Ferry côtier Hurtigruten Bergen-Kirkenes : escale quotidienne, cabines animaux à réserver à l'avance, chiens en laisse sur les ponts extérieurs uniquement.`,
+        `Tours d'aurores boréales en minibus (Chasing Lights, Tromso Friluftsenter, Arctic Explorer) : certains opérateurs acceptent les chiens calmes en privé ou en petit groupe, demander à la réservation.`,
+        `Saison aurore mi-septembre à début avril ; soleil de minuit fin mai à fin juillet ; jamais de vraie obscurité de mi-mai à mi-août.`,
+        `Races interdites en Norvège : American Staffordshire Terrier, Pit Bull, Tosa Inu, Dogo Argentino, Fila Brasileiro, chien-loup tchécoslovaque.`,
+      ],
+      en: [
+        `Tromso Airport (TOS) is 10 min by bus 42 from the centre; outdoor pet relief area east of the terminal.`,
+        `Hurtigruten coastal ferry Bergen-Kirkenes: daily call, pet cabins must be pre-booked, dogs on leash on outer decks only.`,
+        `Northern Lights minibus tours (Chasing Lights, Tromso Friluftsenter, Arctic Explorer): some operators accept calm dogs on private or small-group tours, ask at booking.`,
+        `Aurora season mid-September to early April; midnight sun late May to late July; no true darkness from mid-May to mid-August.`,
+        `Banned breeds in Norway: American Staffordshire Terrier, Pit Bull, Tosa Inu, Dogo Argentino, Fila Brasileiro, Czechoslovakian Wolfdog.`,
+      ],
+      es: [
+        `Aeropuerto de Tromso (TOS) a 10 min en bus 42 del centro; zona exterior para mascotas al este de la terminal.`,
+        `Ferry costero Hurtigruten Bergen-Kirkenes: escala diaria, camarotes para mascotas con reserva previa, perros con correa solo en cubiertas exteriores.`,
+        `Tours de auroras boreales en minibús (Chasing Lights, Tromso Friluftsenter, Arctic Explorer): algunos operadores admiten perros tranquilos en privado o grupos pequeños, pregunta al reservar.`,
+        `Temporada de auroras de mediados de septiembre a principios de abril; sol de medianoche de finales de mayo a finales de julio; sin verdadera oscuridad de mediados de mayo a mediados de agosto.`,
+        `Razas prohibidas en Noruega: American Staffordshire Terrier, Pit Bull, Tosa Inu, Dogo Argentino, Fila Brasileiro, perro lobo checoslovaco.`,
+      ],
+      pt: [
+        `Aeroporto de Tromso (TOS) a 10 min de autocarro 42 do centro; zona exterior para animais a leste do terminal.`,
+        `Ferry costeiro Hurtigruten Bergen-Kirkenes: escala diária, camarotes para animais com reserva prévia, cães com trela apenas em conveses exteriores.`,
+        `Tours de auroras boreais em minibus (Chasing Lights, Tromso Friluftsenter, Arctic Explorer): alguns operadores aceitam cães calmos em privado ou grupos pequenos, perguntar na reserva.`,
+        `Época de auroras de meados de setembro ao início de abril; sol da meia-noite do final de maio ao final de julho; sem verdadeira escuridão de meados de maio a meados de agosto.`,
+        `Raças proibidas na Noruega: American Staffordshire Terrier, Pit Bull, Tosa Inu, Dogo Argentino, Fila Brasileiro, cão-lobo checoslovaco.`,
+      ],
+    },
+  },
+
   trondheim: {
     history: {
       fr: `Trondheim, fondée en 997 par le roi viking Olaf Tryggvason sous le nom de Kaupangen, fut la première capitale de la Norvège médiévale et le siège du puissant archevêché de Nidaros pendant tout le Moyen Âge. La cathédrale Nidaros, construite à partir de 1070 sur la tombe de saint Olaf (martyrisé en 1030), est la cathédrale gothique la plus septentrionale du monde et reste le lieu où sont couronnés les rois de Norvège. Détruite plusieurs fois par les feux et reconstruite à l'identique, la ville est aujourd'hui le quatrième centre universitaire de Scandinavie (NTNU, 40 000 étudiants) et la troisième ville de Norvège (210 000 habitants). Pour les voyageurs avec un chien, Trondheim combine héritage médiéval et nature accessible : Centre médiéval piéton en 20 min, 80 km² de forêt urbaine Bymarka aux portes, tramway Gråkallbanen historique de 1955 (le plus septentrional du monde), et fjord avec sentier côtier de 14 km le long de la péninsule de Lade.`,

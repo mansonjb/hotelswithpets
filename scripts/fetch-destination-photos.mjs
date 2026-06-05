@@ -176,6 +176,7 @@ const TARGETS = [
   { slug: 'frejus', query: 'Frejus France Roman amphitheatre Provencal old town Esterel red rocks Mediterranean panorama sunset' },
   { slug: 'brest', query: 'Brest France Tanguy Tower harbour Penfeld river drawbridge Atlantic Brittany panorama sunset' },
   { slug: 'vannes', query: 'Vannes France medieval walls ramparts half-timbered houses Gulf of Morbihan Brittany panorama sunset' },
+  { slug: 'tromso', query: 'Tromso Norway Arctic Cathedral Ishavskatedralen Tromsobrua bridge Fjellheisen cable car snowy mountains fjord panorama' },
 ]
 
 async function searchPhoto(query, apiKey) {

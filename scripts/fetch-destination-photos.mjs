@@ -177,6 +177,7 @@ const TARGETS = [
   { slug: 'brest', query: 'Brest France Tanguy Tower harbour Penfeld river drawbridge Atlantic Brittany panorama sunset' },
   { slug: 'vannes', query: 'Vannes France medieval walls ramparts half-timbered houses Gulf of Morbihan Brittany panorama sunset' },
   { slug: 'tromso', query: 'Tromso Norway Arctic Cathedral Ishavskatedralen Tromsobrua bridge Fjellheisen cable car snowy mountains fjord panorama' },
+  { slug: 'villach', query: 'Villach Austria Hauptplatz Drava river Faaker See lake Carinthia panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

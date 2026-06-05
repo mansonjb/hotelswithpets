@@ -957,6 +957,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Castro park citadel with Cíes Islands sunset views, the 24-hectare Parque de Castrelos, and the Rúa Pescadería oyster-stall culture in the Casco Vello',
       area: 'the Casco Vello around the cruise port, the residential Coruxo neighbourhood near the western beaches, and the leafy Castrelos park district',
     },
+    villach: {
+      personality: `a 62,000-resident Carinthian river city on the Drava with a Renaissance Hauptplatz, two of the warmest Alpine lakes (Faaker See and Ossiacher See) within 10 km, the Dobratsch nature park overhead and Italian and Slovenian borders 30 to 40 minutes away`,
+      highlight: `the Drauradweg towpath along the river, the Hundebadeplätze at Drobollach on the Faaker See and Sattendorf on the Ossiacher See, and the Villacher Alpenstraße panorama road climbing the Dobratsch`,
+      area: `the pedestrian Altstadt around the Hauptplatz, the residential Lind district near Tierklinik Villach, and the lake shores of Drobollach and Sattendorf`,
+    },
     vilnius: {
       personality: 'the EU\'s greenest capital and one of its most dog-welcoming, where pets travel free on every bus and nearly 500 pet-friendly venues sit inside the UNESCO Old Town',
       highlight: 'Vingis Park forest, Bernardinai Garden, and the Three Crosses hill',
@@ -1943,6 +1948,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la plus grande ville portuaire de Galice, qui grimpe à pic depuis un fjord atlantique profond, avec 18 espaces canins officiels sans laisse, un fort caractère de port de travail et le Parc National des îles Cíes visible (mais strictement interdit aux animaux) en travers de la ría',
       highlight: 'la citadelle du parc du Castro avec vues sur les îles Cíes au coucher du soleil, le Parque de Castrelos de 24 hectares et la culture des étals d\'huîtres de la Rúa Pescadería dans le Casco Vello',
       area: 'le Casco Vello autour du port de croisière, le quartier résidentiel de Coruxo près des plages occidentales et le secteur arboré du parc de Castrelos',
+    },
+    villach: {
+      personality: `ville fluviale carinthienne de 62 000 habitants sur la Drave, avec une Hauptplatz Renaissance, deux des lacs alpins les plus chauds (Faaker See et Ossiacher See) à moins de 10 km, le parc naturel du Dobratsch en surplomb et les frontières italienne et slovène à 30-40 minutes`,
+      highlight: `le halage de la Drauradweg le long de la rivière, les Hundebadeplätze de Drobollach sur le Faaker See et de Sattendorf sur l'Ossiacher See, et la Villacher Alpenstraße panoramique qui grimpe au Dobratsch`,
+      area: `l'Altstadt piétonne autour de la Hauptplatz, le quartier résidentiel de Lind près de la Tierklinik Villach, et les rives lacustres de Drobollach et Sattendorf`,
     },
     vilnius: {
       personality: 'la capitale la plus verte de l\'UE et l\'une des plus accueillantes pour les chiens, où les animaux voyagent gratuitement dans tous les bus et près de 500 adresses pet-friendly se concentrent dans la vieille ville UNESCO',
@@ -2931,6 +2941,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la ciudadela del parque del Castro con vistas a las islas Cíes al atardecer, el Parque de Castrelos de 24 hectáreas y la cultura de los puestos de ostras de la Rúa Pescadería en el Casco Vello',
       area: 'el Casco Vello en torno al puerto de cruceros, el barrio residencial de Coruxo cerca de las playas occidentales y el frondoso sector del parque de Castrelos',
     },
+    villach: {
+      personality: `ciudad fluvial carintia de 62.000 habitantes a orillas del Drava, con una Hauptplatz renacentista, dos de los lagos alpinos más cálidos (Faaker See y Ossiacher See) a menos de 10 km, el parque natural Dobratsch en lo alto y las fronteras italiana y eslovena a 30-40 minutos`,
+      highlight: `la sirga del Drauradweg a lo largo del río, las Hundebadeplätze de Drobollach en el Faaker See y de Sattendorf en el Ossiacher See, y la Villacher Alpenstraße panorámica que sube al Dobratsch`,
+      area: `el Altstadt peatonal en torno a la Hauptplatz, el barrio residencial de Lind cerca de la Tierklinik Villach, y las orillas lacustres de Drobollach y Sattendorf`,
+    },
     vilnius: {
       personality: 'la capital más verde de la UE y una de las más acogedoras con perros, donde las mascotas viajan gratis en todos los autobuses y casi 500 direcciones pet-friendly se concentran en el casco antiguo UNESCO',
       highlight: 'el bosque de Vingis, el Bernardine Garden y la colina de las Tres Cruces',
@@ -3917,6 +3932,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a maior cidade portuária da Galiza, que sobe a pique a partir de um fundo fiorde atlântico, com 18 áreas caninas oficiais sem trela, um forte carácter de porto trabalhador e o Parque Nacional das ilhas Cíes visível (mas estritamente vedado aos animais) a atravessar a ría',
       highlight: 'a cidadela do parque do Castro com vistas para as ilhas Cíes ao pôr do sol, o Parque de Castrelos de 24 hectares e a cultura dos postos de ostras da Rúa Pescadería no Casco Vello',
       area: 'o Casco Vello em redor do porto de cruzeiros, o bairro residencial de Coruxo perto das praias ocidentais e o arborizado sector do parque de Castrelos',
+    },
+    villach: {
+      personality: `cidade fluvial caríntia de 62.000 habitantes nas margens do Drava, com uma Hauptplatz renascentista, dois dos lagos alpinos mais quentes (Faaker See e Ossiacher See) a menos de 10 km, o parque natural Dobratsch no alto e as fronteiras italiana e eslovena a 30-40 minutos`,
+      highlight: `o caminho de sirga do Drauradweg ao longo do rio, as Hundebadeplätze de Drobollach no Faaker See e de Sattendorf no Ossiacher See, e a Villacher Alpenstraße panorâmica que sobe ao Dobratsch`,
+      area: `o Altstadt pedonal em redor da Hauptplatz, o bairro residencial de Lind perto da Tierklinik Villach, e as margens lacustres de Drobollach e Sattendorf`,
     },
     vilnius: {
       personality: 'a capital mais verde da UE e uma das mais acogedoras com cães, onde as animais viajan grátis en todos os autocarros e casi 500 direcciones pet-friendly se concentran no centro histórico UNESCO',

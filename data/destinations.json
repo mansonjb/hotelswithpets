@@ -14041,6 +14041,81 @@
     "iata": "VGO"
   },
   {
+    "slug": "villach",
+    "name": "Villach",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/villach.jpg",
+    "intro": "A 62,000-resident Carinthian river city on the Drava with a Renaissance Hauptplatz, two warm Alpine lakes within 10 km (Faaker See and Ossiacher See), the Dobratsch nature park and a working 24/7 vet. Italian and Slovenian borders are 30-40 minutes away.",
+    "lat": 46.6111,
+    "lng": 13.8558,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold, snow possible",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold, dry",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm, lake season",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cool, foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold, festive",
+        "icon": "🎄"
+      }
+    },
+    "iata": "KLU"
+  },
+  {
     "slug": "vilnius",
     "name": "Vilnius",
     "country": "Lithuania",

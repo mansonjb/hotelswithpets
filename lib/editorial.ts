@@ -451,6 +451,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Paseo de los Tristes below the Alhambra walls, the Albaicín UNESCO quarter, and the dog-friendly parks of the Arabial district',
       area: 'the Albaicín, the Realejo, and the historic centre around Plaza Nueva',
     },
+    guimaraes: {
+      personality: `the UNESCO-listed birthplace of Portugal, a fully pedestrianised granite old town wrapped around the 10th-century Castelo where the first King of Portugal was born, the 15th-century Paço dos Duques palace, the iconic medieval Largo da Oliveira, and the 617 m Penha mountain reached by Portugal's longest cable car that welcomes leashed dogs in every cabin`,
+      highlight: `the Castelo and Paço dos Duques on the castle hill, the Largo da Oliveira with the Gothic Padrão do Salado, and the Penha mountain trails reached by the dog-friendly Teleférico da Penha`,
+      area: `the UNESCO historic centre around Largo da Oliveira and Praça de Santiago, the castle hill, and the Costa district along the Penha cable car base`,
+    },
     hallstatt: {
       personality: 'the UNESCO World Heritage lakeside village of the Salzkammergut, a 750-resident Alpine icon where dogs ride the lake boat free, take the Salzberg funicular up to the Skywalk Welterbeblick, and explore the Echerntal valley and dog-swim-friendly Gosausee',
       highlight: 'the 1 km lakeside promenade, the Echerntal valley to the Waldbachstrub waterfall, and the Dachstein Krippenstein cable car to the Five Fingers viewpoint',
@@ -1459,6 +1464,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Paseo de los Tristes au pied des remparts de l\'Alhambra, le quartier UNESCO de l\'Albaicín et les parcs dog-friendly du quartier d\'Arabial',
       area: 'l\'Albaicín, le Realejo et le centre historique autour de la Plaza Nueva',
     },
+    guimaraes: {
+      personality: `berceau du Portugal classé à l'UNESCO, vieille ville en granit entièrement piétonne enroulée autour du Castelo du Xᵉ siècle où naquit le premier roi du Portugal, du palais Paço dos Duques du XVᵉ siècle, de l'emblématique Largo da Oliveira médiéval, et de la montagne de la Penha à 617 m accessible par le plus long téléphérique du Portugal qui accueille les chiens en laisse dans chaque cabine`,
+      highlight: `le Castelo et le Paço dos Duques sur la colline du château, le Largo da Oliveira avec le Padrão do Salado gothique, et les sentiers de la Penha accessibles par le Teleférico da Penha dog-friendly`,
+      area: `le centre historique UNESCO autour du Largo da Oliveira et de la Praça de Santiago, la colline du château, et le quartier Costa à la base du téléphérique de la Penha`,
+    },
     hallstatt: {
       personality: `le village UNESCO au bord du lac de Salzkammergut, icône alpine de 750 habitants où les chiens prennent gratuitement le bateau du lac, montent en funiculaire du Salzberg jusqu'au Skywalk Welterbeblick et explorent la vallée d'Echerntal et le Gosausee où la baignade canine est autorisée`,
       highlight: `la promenade de 1 km au bord du lac, la vallée d'Echerntal jusqu'à la cascade du Waldbachstrub et le téléphérique du Dachstein Krippenstein jusqu'au belvédère des Cinq Doigts`,
@@ -2466,6 +2476,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Paseo de los Tristes al pie de las murallas de la Alhambra, el barrio UNESCO del Albaicín y los parques dog-friendly del barrio de Arabial',
       area: 'el Albaicín, el Realejo y el centro histórico en torno a la Plaza Nueva',
     },
+    guimaraes: {
+      personality: `cuna de Portugal declarada Patrimonio de la UNESCO, casco antiguo de granito enteramente peatonal envuelto en torno al Castelo del siglo X donde nació el primer Rey de Portugal, el palacio Paço dos Duques del siglo XV, el emblemático Largo da Oliveira medieval, y la montaña da Penha de 617 m accesible por el teleférico más largo de Portugal que admite perros con correa en cada cabina`,
+      highlight: `el Castelo y el Paço dos Duques en la colina del castillo, el Largo da Oliveira con el Padrão do Salado gótico, y los senderos da Penha accesibles por el Teleférico da Penha pet-friendly`,
+      area: `el centro histórico UNESCO en torno al Largo da Oliveira y la Praça de Santiago, la colina del castillo, y el barrio Costa en la base del teleférico da Penha`,
+    },
     hallstatt: {
       personality: `la aldea UNESCO a orillas del lago en el Salzkammergut, icono alpino de 750 habitantes donde los perros viajan gratis en el barco del lago, suben en el funicular del Salzberg hasta el Skywalk Welterbeblick y exploran el valle del Echerntal y el Gosausee donde se permite el baño canino`,
       highlight: `el paseo lacustre de 1 km, el valle del Echerntal hasta la cascada del Waldbachstrub y el teleférico del Dachstein Krippenstein hasta el mirador Cinco Dedos`,
@@ -3472,6 +3487,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a cidade árabe mais atmosférica de Europa, onde a Alhambra vigila as callejuelas empedradas do Albaicín, a cultura da esplanada andaluza hace que os cães sean genuinamente bem-vindos e Sierra Nevada está a uma hora',
       highlight: 'o Passeio dos Tristes al pie das muralhas da Alhambra, o bairro UNESCO do Albaicín e os parques pet-friendly do bairro de Arabial',
       area: 'o Albaicín, o Realejo e o centro histórico en torno a a Praça Nueva',
+    },
+    guimaraes: {
+      personality: `berço de Portugal classificado pela UNESCO, cidade velha de granito inteiramente pedonal enrolada em torno do Castelo do século X onde nasceu o primeiro Rei de Portugal, o paço Paço dos Duques do século XV, o emblemático Largo da Oliveira medieval, e a montanha da Penha de 617 m acessível pelo teleférico mais longo de Portugal que aceita cães com trela em cada cabine`,
+      highlight: `o Castelo e o Paço dos Duques na colina do castelo, o Largo da Oliveira com o Padrão do Salado gótico, e os trilhos da Penha acessíveis pelo Teleférico da Penha pet-friendly`,
+      area: `o centro histórico UNESCO em torno do Largo da Oliveira e da Praça de Santiago, a colina do castelo, e o bairro Costa na base do teleférico da Penha`,
     },
     hallstatt: {
       personality: `a aldeia UNESCO à beira do lago no Salzkammergut, ícone alpino de 750 habitantes onde os cães viajam grátis no barco do lago, sobem no funicular do Salzberg até ao Skywalk Welterbeblick e exploram o vale do Echerntal e o Gosausee onde o banho de cães é permitido`,

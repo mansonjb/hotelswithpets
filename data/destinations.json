@@ -6462,6 +6462,33 @@
     "tiqetsId": "60360"
   },
   {
+    "slug": "guimaraes",
+    "name": "Guimarães",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/guimaraes.jpg",
+    "intro": "Guimarães, the UNESCO-listed birthplace of Portugal, packs a 10th-century granite castle, the 15th-century Paço dos Duques palace, the iconic Largo da Oliveira medieval square and the Penha mountain reached by Portugal's longest cable car into a compact, fully pedestrianised old town. The Minho climate stays pet-friendly from April through October and 24/7 vet cover anchors every itinerary.",
+    "lat": 41.4421,
+    "lng": -8.2954,
+    "weather": {
+      "jan": { "temp": 9, "desc": "Cool & rainy", "icon": "🌧️" },
+      "feb": { "temp": 10, "desc": "Cool & rainy", "icon": "🌧️" },
+      "mar": { "temp": 12, "desc": "Mild & showers", "icon": "🌦️" },
+      "apr": { "temp": 14, "desc": "Mild & pleasant", "icon": "⛅" },
+      "may": { "temp": 17, "desc": "Warm & sunny", "icon": "🌤️" },
+      "jun": { "temp": 21, "desc": "Warm & sunny", "icon": "☀️" },
+      "jul": { "temp": 23, "desc": "Warm & dry", "icon": "☀️" },
+      "aug": { "temp": 23, "desc": "Warm & dry", "icon": "☀️" },
+      "sep": { "temp": 20, "desc": "Warm & sunny", "icon": "☀️" },
+      "oct": { "temp": 16, "desc": "Mild & pleasant", "icon": "⛅" },
+      "nov": { "temp": 12, "desc": "Cool & rainy", "icon": "🌧️" },
+      "dec": { "temp": 9, "desc": "Cool & rainy", "icon": "🌧️" }
+    },
+    "iata": "OPO"
+  },
+  {
     "slug": "hallstatt",
     "name": "Hallstatt",
     "country": "Austria",

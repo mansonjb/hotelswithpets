@@ -832,6 +832,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parque de María Luisa, the Alamillo park, and the Guadalquivir riverside promenade',
       area: 'Triana, Santa Cruz, and El Arenal',
     },
+    setubal: {
+      personality: `a working Atlantic port wrapped around the Sado estuary, with translucent Arrábida limestone coves 15 minutes from the centre, a free year-round bottlenose dolphin show from the dog-friendly Tróia ferry, the 110 km² Serra da Arrábida Natural Park rising directly from the sea, and an underrated tasca culture built around choco frito and Moscatel`,
+      highlight: `the Arrábida coves at Figueirinha, Galapinhos and Portinho da Arrábida, the dog-friendly Atlantic Ferries crossing to the Tróia peninsula, and the Forte de São Filipe panorama over the Sado estuary`,
+      area: `the historic centre around Praça do Bocage and Avenida Luísa Todi, the Albarquel waterfront on the city's western edge, and the Arrábida cliff road towards Portinho`,
+    },
     sintra: {
       personality: `the UNESCO Cultural Landscape 30 minutes from Lisbon, with polychrome Romantic palaces in the Serra de Sintra, the dog-welcoming Parques de Sintra grounds at Pena, Regaleira, Monserrate and Capuchos, and a mild Atlantic climate that stays pet-friendly year-round`,
       highlight: `the Parque da Pena and Quinta da Regaleira gardens, the Castelo dos Mouros ramparts, and the Cabo da Roca cliffs at the westernmost tip of continental Europe`,
@@ -1843,6 +1848,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'l\'une des villes les plus dog-friendly d\'Andalousie. Où les chiens se promènent sous les orangers, rejoignent leurs propriétaires sur les terrasses de bars à tapas et explorent les parcs riverains',
       highlight: 'le Parque de María Luisa, le parc Alamillo et la promenade riveraine du Guadalquivir',
       area: 'Triana, Santa Cruz et El Arenal',
+    },
+    setubal: {
+      personality: `port atlantique de pêche enroulé autour de l'estuaire du Sado, avec des criques translucides en calcaire de l'Arrábida à 15 minutes du centre, un spectacle gratuit de grands dauphins toute l'année depuis le ferry dog-friendly de Tróia, le parc naturel de la Serra da Arrábida de 110 km² qui s'élève directement de la mer, et une culture de tascas sous-estimée bâtie autour du choco frito et du Moscatel`,
+      highlight: `les criques de l'Arrábida à Figueirinha, Galapinhos et Portinho da Arrábida, la traversée Atlantic Ferries dog-friendly vers la péninsule de Tróia, et le panorama du Forte de São Filipe sur l'estuaire du Sado`,
+      area: `le centre historique autour de la Praça do Bocage et de l'Avenida Luísa Todi, le front de mer d'Albarquel à la lisière ouest de la ville, et la route en haut de falaise de l'Arrábida vers Portinho`,
     },
     sintra: {
       personality: `le Paysage Culturel UNESCO à 30 minutes de Lisbonne, avec ses palais romantiques polychromes dans la Serra de Sintra, les domaines accueillants Parques de Sintra à Pena, Regaleira, Monserrate et Capuchos, et un climat atlantique doux qui reste pet-friendly toute l'année`,
@@ -2856,6 +2866,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque de María Luisa, el parque Alamillo y el paseo ribereño del Guadalquivir',
       area: 'Triana, Santa Cruz y El Arenal',
     },
+    setubal: {
+      personality: `puerto atlántico pesquero envuelto en torno al estuario del Sado, con calas translúcidas en caliza de la Arrábida a 15 minutos del centro, un espectáculo gratuito de delfines mulares todo el año desde el ferry pet-friendly de Tróia, el parque natural de la Serra da Arrábida de 110 km² que se eleva directamente desde el mar, y una cultura de tascas infravalorada construida en torno al choco frito y al Moscatel`,
+      highlight: `las calas da Arrábida en Figueirinha, Galapinhos y Portinho da Arrábida, la travesía Atlantic Ferries pet-friendly a la península de Tróia, y la panorámica del Forte de São Filipe sobre el estuario del Sado`,
+      area: `el centro histórico en torno a la Praça do Bocage y la Avenida Luísa Todi, el frente marítimo de Albarquel en el extremo oeste de la ciudad, y la carretera en lo alto del acantilado da Arrábida hacia Portinho`,
+    },
     sintra: {
       personality: `el Paisaje Cultural UNESCO a 30 minutos de Lisboa, con palacios románticos polícromos en la Serra de Sintra, los recintos pet-friendly Parques de Sintra en Pena, Regaleira, Monserrate y Capuchos, y un clima atlántico suave que se mantiene pet-friendly todo el año`,
       highlight: `los jardines del Parque da Pena y la Quinta da Regaleira, las murallas del Castelo dos Mouros y los acantilados de Cabo da Roca, punta más occidental de la Europa continental`,
@@ -3867,6 +3882,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das cidades mais pet-friendly de Andalucía. Onde os cães pasean sob os naranjos, acompanhan aos seus duenhos nas esplanadas de bares de tapas e exploran os parques riberenhos',
       highlight: 'o Parque de María Luisa, o parque Alamillo e o passeio riberenho do Guadalquivir',
       area: 'Triana, Santa Cruz e O Arenal',
+    },
+    setubal: {
+      personality: `porto atlântico piscatório enrolado em torno do estuário do Sado, com enseadas translúcidas em calcário da Arrábida a 15 minutos do centro, um espectáculo grátis de roazes o ano inteiro a partir do ferry pet-friendly de Tróia, o parque natural da Serra da Arrábida de 110 km² a erguer-se directamente do mar, e uma cultura de tascas subestimada construída em torno do choco frito e do Moscatel`,
+      highlight: `as enseadas da Arrábida na Figueirinha, Galapinhos e Portinho da Arrábida, a travessia Atlantic Ferries pet-friendly para a península de Tróia, e o panorama do Forte de São Filipe sobre o estuário do Sado`,
+      area: `o centro histórico em torno da Praça do Bocage e da Avenida Luísa Todi, a frente marítima de Albarquel no extremo oeste da cidade, e a estrada no topo da falésia da Arrábida em direcção a Portinho`,
     },
     sintra: {
       personality: `a Paisagem Cultural UNESCO a 30 minutos de Lisboa, com palácios românticos policromos na Serra de Sintra, os recintos pet-friendly Parques de Sintra na Pena, Regaleira, Monserrate e Capuchos, e um clima atlântico suave que se mantém pet-friendly o ano inteiro`,

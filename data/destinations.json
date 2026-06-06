@@ -11996,6 +11996,33 @@
     "tiqetsId": "65870"
   },
   {
+    "slug": "setubal",
+    "name": "Setúbal",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/setubal.jpg",
+    "intro": "Setúbal is a working Atlantic port wrapped around the Sado estuary, with translucent Arrábida coves 15 minutes from the centre, a year-round dolphin ferry to the Tróia peninsula, the 110 km² Serra da Arrábida Natural Park rising directly from the sea, and an underrated tasca culture built around choco frito and Moscatel. 24/7 vet cover and an easy 50-minute Fertagus train to central Lisbon anchor every itinerary.",
+    "lat": 38.5244,
+    "lng": -8.8882,
+    "weather": {
+      "jan": { "temp": 11, "desc": "Mild & rainy", "icon": "🌧️" },
+      "feb": { "temp": 12, "desc": "Mild & breezy", "icon": "🌦️" },
+      "mar": { "temp": 14, "desc": "Mild & pleasant", "icon": "🌤️" },
+      "apr": { "temp": 15, "desc": "Mild & sunny", "icon": "⛅" },
+      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "🌤️" },
+      "jun": { "temp": 21, "desc": "Warm & sunny", "icon": "☀️" },
+      "jul": { "temp": 23, "desc": "Warm & dry", "icon": "☀️" },
+      "aug": { "temp": 23, "desc": "Warm & dry", "icon": "☀️" },
+      "sep": { "temp": 21, "desc": "Warm & sunny", "icon": "☀️" },
+      "oct": { "temp": 18, "desc": "Mild & pleasant", "icon": "⛅" },
+      "nov": { "temp": 14, "desc": "Mild & rainy", "icon": "🌦️" },
+      "dec": { "temp": 11, "desc": "Mild & rainy", "icon": "🌧️" }
+    },
+    "iata": "LIS"
+  },
+  {
     "slug": "sintra",
     "name": "Sintra",
     "country": "Portugal",

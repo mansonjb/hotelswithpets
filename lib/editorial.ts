@@ -361,6 +361,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the coastal path to Sveti Jakov beach, the Lokrum island day trip ferry (dogs allowed), and the Lapad peninsula',
       area: 'Lapad, Gruž, and the Old Town surroundings',
     },
+    dunkerque: {
+      personality: `an 86 000-resident Nord Channel port (200 000 metro) that is France's third-largest port, gateway to the DFDS Dunkerque-Dover ferry, crowned by the UNESCO Beffroi Saint-Éloi (one of the Belfries of Belgium and France UNESCO ensemble), home to the Mémorial Operation Dynamo and Mémorial du Souvenir tracing the 1940 evacuation of 338 000 Allied troops, with the longest continuous coastal dune walk on the French Channel coast (12 km from Malo-les-Bains to Bray-Dunes at the Belgian border), the 100% free DK'Bus citywide network and the Carnaval de Dunkerque six weekends in February-March`,
+      highlight: `the 12 km Malo-les-Bains to Bray-Dunes Channel dune coast (longest continuous coastal dune walk on the French Channel coast), the 220-hectare Réserve Naturelle Dune Marchand with seasonal off-leash zones, the UNESCO Beffroi Saint-Éloi square, the Mémorial Operation Dynamo at Bastion 32 with the seafront walk to the Mole de Dunkerque, and the Quai de la Citadelle facing the historic three-masted Duchesse Anne sail-ship`,
+      area: `the centre around Place Jean Bart and the UNESCO Beffroi Saint-Éloi, the Bassin du Commerce with the Musée Portuaire and the Duchesse Anne, the Belle Epoque Digue de Mer at Malo-les-Bains 2 km north, and the Dune Marchand / Dune du Perroquet reserves east towards the Belgian border`,
+    },
     dusseldorf: {
       personality: `a Rhineland fashion and brewpub capital with 21 official fenced Hundewiesen, a 2 km Rheinuferpromenade through the centre, and Frank Gehry's Medienhafen waterfront a tram ride from the Altstadt's Altbier brewery cluster`,
       highlight: `the Hofgarten (Germany's first public park), the Medienhafen with the Gehry buildings and Rheinturm, and Unterbacher See's official dog-bathing zones 20 minutes south`,
@@ -1404,6 +1409,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le sentier côtier vers la plage de Sveti Jakov, le ferry de l\'île de Lokrum (chiens acceptés) et la péninsule de Lapad',
       area: 'Lapad, Gruž et les environs de la Vieille Ville',
     },
+    dunkerque: {
+      personality: `ville portuaire du Nord de 86 000 habitants (200 000 métropole) qui est le troisième port de France, porte d'entrée du ferry DFDS Dunkerque-Douvres, couronnée par le Beffroi Saint-Éloi UNESCO (l'un des Beffrois de Belgique et de France inscrits à l'UNESCO), abritant le Mémorial Operation Dynamo et le Mémorial du Souvenir qui retracent l'évacuation de 1940 de 338 000 soldats alliés, avec la plus longue balade dunaire côtière continue de la côte française de la Manche (12 km depuis Malo-les-Bains jusqu'à Bray-Dunes à la frontière belge), le réseau urbain DK'Bus 100% gratuit et le Carnaval de Dunkerque six week-ends de février-mars`,
+      highlight: `les 12 km de côte dunaire de la Manche Malo-les-Bains à Bray-Dunes (plus longue balade dunaire côtière continue de la côte française de la Manche), la Réserve Naturelle Dune Marchand de 220 hectares avec zones sans laisse saisonnières, la place du Beffroi Saint-Éloi UNESCO, le Mémorial Operation Dynamo au Bastion 32 avec la promenade en front de mer vers le Môle de Dunkerque, et le Quai de la Citadelle face au trois-mâts historique Duchesse Anne`,
+      area: `le centre autour de la Place Jean Bart et du Beffroi Saint-Éloi UNESCO, le Bassin du Commerce avec le Musée Portuaire et la Duchesse Anne, la Digue de Mer Belle Epoque à Malo-les-Bains à 2 km au nord, et les réserves de la Dune Marchand / Dune du Perroquet à l'est vers la frontière belge`,
+    },
     dusseldorf: {
       personality: `capitale rhénane de la mode et des brasseries, avec 21 Hundewiesen officielles clôturées, une Rheinuferpromenade de 2 km à travers le centre et le Medienhafen de Frank Gehry à un tram de distance du cluster d'Altbier de la Altstadt`,
       highlight: `le Hofgarten (premier parc public d'Allemagne), le Medienhafen avec les bâtiments de Gehry et la Rheinturm, et les zones de baignade canine officielles de l'Unterbacher See à 20 minutes au sud`,
@@ -2446,6 +2456,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el sendero costero hacia la playa de Sveti Jakov, el ferry a la isla de Lokrum (perros permitidos) y la península de Lapad',
       area: 'Lapad, Gruž y los alrededores del Casco Antiguo',
     },
+    dunkerque: {
+      personality: `ciudad portuaria del Nord de 86 000 habitantes (200 000 área metropolitana) que es el tercer puerto de Francia, puerta de entrada del ferry DFDS Dunkerque-Dover, coronada por el Beffroi Saint-Éloi UNESCO (uno de los Beffroi de Bélgica y Francia inscritos en la UNESCO), que alberga el Mémorial Operation Dynamo y el Mémorial du Souvenir que trazan la evacuación de 1940 de 338 000 soldados aliados, con el paseo dunar costero continuo más largo de la costa francesa del Canal (12 km desde Malo-les-Bains hasta Bray-Dunes en la frontera belga), la red urbana DK'Bus 100% gratis y el Carnaval de Dunkerque seis fines de semana de febrero-marzo`,
+      highlight: `los 12 km de costa dunar del Canal Malo-les-Bains a Bray-Dunes (paseo dunar costero continuo más largo de la costa francesa del Canal), la Réserve Naturelle Dune Marchand de 220 hectáreas con zonas sin correa estacionales, la plaza del Beffroi Saint-Éloi UNESCO, el Mémorial Operation Dynamo en el Bastion 32 con el paseo en frente marítimo hacia el Mole de Dunkerque, y el Quai de la Citadelle frente al velero histórico de tres mástiles Duchesse Anne`,
+      area: `el centro en torno a la Place Jean Bart y al Beffroi Saint-Éloi UNESCO, el Bassin du Commerce con el Musée Portuaire y la Duchesse Anne, la Digue de Mer Belle Epoque en Malo-les-Bains a 2 km al norte, y las reservas de la Dune Marchand / Dune du Perroquet al este hacia la frontera belga`,
+    },
     dusseldorf: {
       personality: `capital renana de la moda y la cerveza tradicional, con 21 Hundewiesen oficiales valladas, una Rheinuferpromenade de 2 km por el centro y el Medienhafen de Frank Gehry a un tranvía del cluster de Altbier de la Altstadt`,
       highlight: `el Hofgarten (primer parque público de Alemania), el Medienhafen con los edificios de Gehry y la Rheinturm, y las zonas de baño canino oficiales del Unterbacher See a 20 minutos al sur`,
@@ -3487,6 +3502,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade amurallada dramática onde os cães acompanhan aos seus duenhos en trilhos costeros, praias tranquilas en ilhas e esplanadas sombreadas por pinos fuera do centro histórico',
       highlight: 'o trilho costero hacia a praia de Sveti Jakov, o ferry a a ilha de Lokrum (cães permitidos) e a península de Lapad',
       area: 'Lapad, Gruž e os alrededores do centro histórico',
+    },
+    dunkerque: {
+      personality: `cidade portuária do Nord com 86 000 habitantes (200 000 área metropolitana) que é o terceiro porto de França, porta de entrada do ferry DFDS Dunkerque-Dover, coroada pelo Beffroi Saint-Éloi UNESCO (um dos Beffroi da Bélgica e da França inscritos na UNESCO), a albergar o Mémorial Operation Dynamo e o Mémorial du Souvenir que traçam a evacuação de 1940 de 338 000 soldados aliados, com o passeio dunar costeiro contínuo mais longo da costa francesa do Canal (12 km desde Malo-les-Bains até Bray-Dunes na fronteira belga), a rede urbana DK'Bus 100% grátis e o Carnaval de Dunkerque seis fins-de-semana de fevereiro-março`,
+      highlight: `os 12 km de costa dunar do Canal Malo-les-Bains a Bray-Dunes (passeio dunar costeiro contínuo mais longo da costa francesa do Canal), a Réserve Naturelle Dune Marchand de 220 hectares com zonas sem trela sazonais, a praça do Beffroi Saint-Éloi UNESCO, o Mémorial Operation Dynamo no Bastion 32 com o passeio em frente marítima para o Mole de Dunkerque, e o Quai de la Citadelle em frente ao veleiro histórico de três mastros Duchesse Anne`,
+      area: `o centro em torno da Place Jean Bart e do Beffroi Saint-Éloi UNESCO, o Bassin du Commerce com o Musée Portuaire e a Duchesse Anne, a Digue de Mer Belle Epoque em Malo-les-Bains a 2 km a norte, e as reservas da Dune Marchand / Dune du Perroquet a leste para a fronteira belga`,
     },
     dusseldorf: {
       personality: `capital renana da moda e a cerveza tradicional, com 21 Hundewiesen oficiais valladas, uma Rheinuferpromenade de 2 km pelo centro e o Medienhafen de Frank Gehry a um elétrico do cluster de Altbier da Altstadt`,

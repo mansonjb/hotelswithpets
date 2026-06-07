@@ -33,6 +33,7 @@ const TARGETS = [
   { slug: 'sete',          query: 'Sete France Venice of Languedoc canals Mont Saint-Clair Cimetiere Marin Pointe Courte Etang de Thau Mediterranean panorama sunset' },
   { slug: 'calais',        query: 'Calais France Channel ferry port Hotel de Ville belfry UNESCO Tour du Guet lighthouse Plage de Calais Cap Blanc-Nez chalk cliffs Dover white cliffs panorama sunset' },
   { slug: 'boulogne-sur-mer', query: 'Boulogne-sur-Mer France Pas-de-Calais Cote d Opale Haute-Ville ramparts medieval walls Cathedrale Notre-Dame dome Chateau Musee port de peche Nausicaa aquarium seafront Cap d Alprech lighthouse panorama sunset' },
+  { slug: 'dunkerque',     query: 'Dunkerque France Nord Cote d Opale Beffroi Saint-Eloi UNESCO belfry Place Jean Bart Bassin du Commerce Musee Portuaire Duchesse Anne three-masted ship Malo-les-Bains Digue de Mer beach Dune Marchand panorama sunset' },
   { slug: 'kaunas',        query: 'Kaunas Lithuania Old Town Town Hall Pažaislis Monastery Modernist UNESCO Laisvės Alėja panorama sunset' },
   { slug: 'regensburg',    query: 'Regensburg Germany Steinerne Brucke stone bridge Cathedral Danube UNESCO old town panorama sunset' },
   { slug: 'poznan',        query: 'Poznan Poland Stary Rynek Old Market Square Town Hall colorful tenements Renaissance panorama sunset' },

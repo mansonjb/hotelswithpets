@@ -5112,6 +5112,81 @@
     "iata": "DBV"
   },
   {
+    "slug": "dunkerque",
+    "name": "Dunkerque",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/dunkerque.jpg",
+    "intro": "Dunkerque is an 86 000-resident Nord Channel port (200 000 metro) that is France's third-largest port and the gateway to the DFDS Dunkerque-Dover ferry crossing. The UNESCO Beffroi Saint-Éloi crowns the centre, the Mémorial Operation Dynamo and Mémorial du Souvenir trace the 1940 evacuation of 338 000 Allied troops, the 12 km dune coast from Malo-les-Bains to Bray-Dunes at the Belgian border is the longest continuous coastal dune walk on the French Channel coast, the DK'Bus citywide network is 100% free for everyone since 2018, and the Carnaval de Dunkerque fills the city six weekends in February-March.",
+    "lat": 51.0344,
+    "lng": 2.3768,
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "DKK"
+  },
+  {
     "slug": "dusseldorf",
     "name": "Düsseldorf",
     "country": "Germany",

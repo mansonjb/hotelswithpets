@@ -181,6 +181,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parc Bordelais, the Garonne quaysides, and the Jardin Public',
       area: 'the Chartrons, Saint-Pierre, and the Triangle d\'Or',
     },
+    'boulogne-sur-mer': {
+      personality: `a 41 000-resident Pas-de-Calais Channel port (130 000 metro) that is France's largest fishing port by tonnage, home to Nausicaá (the largest aquarium in Europe), encircled by the best-preserved 13th-century ramparts in France with a 1.5 km elevated chemin de ronde, crowned by the 101 m Italianate dome of the Cathédrale Notre-Dame, with the Cap d'Alprech chalk cliffs and lighthouse 3 km south, the GR120 coastal path north to Wimereux and Cap Gris-Nez, and direct TGV inOui to Paris Gare du Nord in 2h25`,
+      highlight: `the 1.5 km chemin de ronde walk on top of the 13th-century Haute-Ville ramparts, the Cathédrale Notre-Dame de Boulogne dome and crypt, the Nausicaá seafront esplanade and port de pêche walk at France's largest fishing port, and the Cap d'Alprech lighthouse chalk cliffs and GR120 trail north to Wimereux`,
+      area: `the walled Haute-Ville around the Place Godefroy de Bouillon and the Cathédrale Notre-Dame, the lower town between Place Dalton and the Boulogne-Ville TGV station, the Boulevard Sainte-Beuve seafront opposite Nausicaá, and the Saint-Martin-Boulogne eastern suburb`,
+    },
     bournemouth: {
       personality: `the south-coast seaside resort with seven miles of golden sand, year-round dog beaches at Fisherman's Walk and the Hengistbury end, and the New Forest National Park 30 minutes north for off-leash hiking`,
       highlight: 'Hengistbury Head Nature Reserve, the Bournemouth Gardens 2 km linear park, and the Branksome/Durley/Alum Chines descending to the beach',
@@ -1219,6 +1224,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Bordelais, les quais de la Garonne et le Jardin Public',
       area: 'les Chartrons, Saint-Pierre et le Triangle d\'Or',
     },
+    'boulogne-sur-mer': {
+      personality: `ville portuaire du Pas-de-Calais de 41 000 habitants (130 000 métropole) qui est le premier port de pêche de France en tonnage, siège de Nausicaá (le plus grand aquarium d'Europe), entourée par les remparts du 13e siècle les mieux conservés de France avec une boucle de chemin de ronde surélevée de 1,5 km, couronnée par le dôme italianisant de 101 m de la Cathédrale Notre-Dame, avec les falaises crayeuses et le phare du Cap d'Alprech à 3 km au sud, le sentier côtier GR120 au nord vers Wimereux et le Cap Gris-Nez, et un TGV inOui direct vers Paris Gare du Nord en 2h25`,
+      highlight: `la boucle de chemin de ronde de 1,5 km sur le sommet des remparts du 13e siècle de la Haute-Ville, le dôme et la crypte de la Cathédrale Notre-Dame de Boulogne, l'esplanade côté mer de Nausicaá et la balade du port de pêche au premier port de pêche de France, et le phare du Cap d'Alprech, ses falaises crayeuses et le GR120 au nord vers Wimereux`,
+      area: `la Haute-Ville fortifiée autour de la Place Godefroy de Bouillon et de la Cathédrale Notre-Dame, la ville basse entre la Place Dalton et la gare TGV de Boulogne-Ville, le Boulevard Sainte-Beuve sur le front de mer face à Nausicaá, et le faubourg est de Saint-Martin-Boulogne`,
+    },
     bournemouth: {
       personality: `la station balnéaire de la côte sud anglaise avec onze kilomètres de sable doré, des plages canines ouvertes toute l'année à Fisherman's Walk et côté Hengistbury, et le parc national de la New Forest à 30 minutes au nord pour randonner sans laisse`,
       highlight: `la réserve naturelle de Hengistbury Head, les Bournemouth Gardens (2 km de parc linéaire) et les chines de Branksome, Durley et Alum qui descendent à la plage`,
@@ -2256,6 +2266,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque Bordelais, los muelles del Garona y el Jardín Público',
       area: 'los Chartrons, Saint-Pierre y el Triángulo de Oro',
     },
+    'boulogne-sur-mer': {
+      personality: `ciudad portuaria del Paso de Calais de 41 000 habitantes (130 000 área metropolitana) que es el primer puerto pesquero de Francia en tonelaje, sede de Nausicaá (el mayor acuario de Europa), rodeada por las murallas del siglo XIII mejor conservadas de Francia con un bucle de chemin de ronde elevado de 1,5 km, coronada por la cúpula italianizante de 101 m de la Cathédrale Notre-Dame, con los acantilados calizos y el faro del Cap d'Alprech a 3 km al sur, el sendero costero GR120 al norte hacia Wimereux y el Cap Gris-Nez, y un TGV inOui directo a París Gare du Nord en 2h25`,
+      highlight: `el bucle de chemin de ronde de 1,5 km sobre lo alto de las murallas del siglo XIII de la Haute-Ville, la cúpula y la cripta de la Cathédrale Notre-Dame de Boulogne, la explanada marítima de Nausicaá y el paseo del port de pêche en el primer puerto pesquero de Francia, y el faro del Cap d'Alprech, sus acantilados calizos y el GR120 al norte hacia Wimereux`,
+      area: `la Haute-Ville amurallada en torno a la Place Godefroy de Bouillon y la Cathédrale Notre-Dame, la ciudad baja entre la Place Dalton y la estación TGV de Boulogne-Ville, el Boulevard Sainte-Beuve en el frente marítimo frente a Nausicaá, y el suburbio este de Saint-Martin-Boulogne`,
+    },
     bournemouth: {
       personality: `la estación balnearia de la costa sur inglesa con once kilómetros de arena dorada, playas para perros abiertas todo el año en Fisherman's Walk y en el extremo de Hengistbury, y el parque nacional New Forest a 30 minutos al norte para senderismo sin correa`,
       highlight: `la reserva natural de Hengistbury Head, los Bournemouth Gardens (2 km de parque lineal) y los chines de Branksome, Durley y Alum que descienden a la playa`,
@@ -3292,6 +3307,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade onde os cães pasean pelas esplanadas dos bares de vino do bairro de Chartrons, exploran os muelles do Garona e são bem-vindos en a maioria dos hotéis boutique',
       highlight: 'o Parque Bordelais, os muelles do Garona e o Jardim Público',
       area: 'os Chartrons, Saint-Pierre e o Triángulo de Oro',
+    },
+    'boulogne-sur-mer': {
+      personality: `cidade portuária do Pas-de-Calais com 41 000 habitantes (130 000 área metropolitana) que é o primeiro porto de pesca de França em tonelagem, sede do Nausicaá (o maior aquário da Europa), rodeada pelas muralhas do século XIII melhor preservadas de França com um circuito de chemin de ronde elevado de 1,5 km, coroada pela cúpula italianizante de 101 m da Cathédrale Notre-Dame, com as falésias cretáceas e o farol do Cap d'Alprech a 3 km a sul, o trilho costeiro GR120 a norte para Wimereux e o Cap Gris-Nez, e um TGV inOui directo para Paris Gare du Nord em 2h25`,
+      highlight: `o circuito de chemin de ronde de 1,5 km no topo das muralhas do século XIII da Haute-Ville, a cúpula e a cripta da Cathédrale Notre-Dame de Boulogne, a esplanada marítima do Nausicaá e o passeio do port de pêche no primeiro porto de pesca de França, e o farol do Cap d'Alprech, as suas falésias cretáceas e o GR120 a norte para Wimereux`,
+      area: `a Haute-Ville amuralhada em torno da Place Godefroy de Bouillon e da Cathédrale Notre-Dame, a cidade baixa entre a Place Dalton e a estação TGV de Boulogne-Ville, o Boulevard Sainte-Beuve na frente marítima em frente ao Nausicaá, e o subúrbio leste de Saint-Martin-Boulogne`,
     },
     bournemouth: {
       personality: `a estación balnearia da costa sul inglesa com onze quilómetros de areia dourada, praias para cães abertas o ano inteiro en Fisherman's Walk e no extremo de Hengistbury, e o parque nacional New Forest a 30 minutos al norte para senderismo sem trela`,

@@ -2403,6 +2403,81 @@
     "tiqetsId": "67101"
   },
   {
+    "slug": "boulogne-sur-mer",
+    "name": "Boulogne-sur-Mer",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/boulogne-sur-mer.jpg",
+    "intro": "Boulogne-sur-Mer is a 41 000-resident Pas-de-Calais Channel port (130 000 metro) that is France's largest fishing port by tonnage and home to Nausicaá, the largest aquarium in Europe. The walled Haute-Ville is encircled by the best-preserved 13th-century ramparts in France (1.5 km elevated chemin de ronde), the Cathédrale Notre-Dame crowns the upper town with a 101 m Italianate dome, the Cap d'Alprech lighthouse and chalk cliffs sit 3 km south, the GR120 coastal path runs north to Wimereux and Cap Gris-Nez, and direct TGV inOui links Boulogne-Ville to Paris Gare du Nord in 2h25.",
+    "lat": 50.7264,
+    "lng": 1.6147,
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "LTQ"
+  },
+  {
     "slug": "bournemouth",
     "name": "Bournemouth",
     "country": "United Kingdom",

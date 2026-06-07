@@ -32,6 +32,7 @@ const TARGETS = [
   { slug: 'beziers',       query: 'Beziers France Cathedrale Saint-Nazaire hilltop Pont Vieux Orb Neuf Ecluses Fonserannes Canal du Midi UNESCO panorama sunset' },
   { slug: 'sete',          query: 'Sete France Venice of Languedoc canals Mont Saint-Clair Cimetiere Marin Pointe Courte Etang de Thau Mediterranean panorama sunset' },
   { slug: 'calais',        query: 'Calais France Channel ferry port Hotel de Ville belfry UNESCO Tour du Guet lighthouse Plage de Calais Cap Blanc-Nez chalk cliffs Dover white cliffs panorama sunset' },
+  { slug: 'boulogne-sur-mer', query: 'Boulogne-sur-Mer France Pas-de-Calais Cote d Opale Haute-Ville ramparts medieval walls Cathedrale Notre-Dame dome Chateau Musee port de peche Nausicaa aquarium seafront Cap d Alprech lighthouse panorama sunset' },
   { slug: 'kaunas',        query: 'Kaunas Lithuania Old Town Town Hall Pažaislis Monastery Modernist UNESCO Laisvės Alėja panorama sunset' },
   { slug: 'regensburg',    query: 'Regensburg Germany Steinerne Brucke stone bridge Cathedral Danube UNESCO old town panorama sunset' },
   { slug: 'poznan',        query: 'Poznan Poland Stary Rynek Old Market Square Town Hall colorful tenements Renaissance panorama sunset' },

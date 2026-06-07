@@ -266,6 +266,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Bastione di Saint Remy panorama, the Sella del Diavolo coastal trail above Calamosca, and the flat 7 km flamingo loop at Parco di Molentargius`,
       area: `the Marina quarter around Via Sardegna, the hilltop Castello district, and the Poetto seafront`,
     },
+    calais: {
+      personality: `a 67 000-resident Pas-de-Calais Channel ferry port directly facing the white cliffs of Dover, with the busiest cross-Channel passenger sea crossing in Europe (P&O, DFDS, Irish Ferries), the pet-perfect Eurotunnel Le Shuttle from Coquelles where dogs stay in the car the entire 35-minute crossing, the UNESCO Hôtel de Ville belfry and Rodin's bronze Burghers of Calais, a 12 km Plage de Calais and Sangatte sand corridor, and the Grand Site Cap Blanc-Nez / Cap Gris-Nez chalk cliffs 35 km west`,
+      highlight: `the UNESCO Hôtel de Ville belfry climbed for free, Rodin's Burghers of Calais on Place du Soldat Inconnu, and the Cap Blanc-Nez / Cap Gris-Nez Grand Site chalk cliff trails facing the Dover white cliffs across 35 km of Channel water`,
+      area: `the historic centre between Place d'Armes and the Hôtel de Ville along Boulevard Jacquard, the Calais-Nord seafront promenade along the Digue Gaston Berthe, and the Coquelles Eurotunnel Le Shuttle terminal 5 km west`,
+    },
     cambridge: {
       personality: `one of England's most reliably dog-friendly small cities, vast off-leash urban commons (Jesus Green, Midsummer, Coe Fen), historic pubs that welcome leashed dogs in the bar, and direct 50-min Greater Anglia trains from London King's Cross`,
       highlight: `the Backs riverside path, Grantchester Meadows and The Orchard tea garden, and the Iron Age hillfort trails of Wandlebury Country Park`,
@@ -1299,6 +1304,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le panorama du Bastione di Saint Remy, le sentier côtier de la Sella del Diavolo au-dessus de Calamosca, et la boucle plate de 7 km aux flamants du Parco di Molentargius`,
       area: `le quartier Marina autour de Via Sardegna, le quartier historique du Castello et le front de mer du Poetto`,
     },
+    calais: {
+      personality: `ville portuaire du Pas-de-Calais de 67 000 habitants directement face aux falaises blanches de Douvres, avec la traversée transmanche passagers la plus fréquentée d'Europe (P&O, DFDS, Irish Ferries), l'Eurotunnel Le Shuttle pet-parfait depuis Coquelles où les chiens restent dans la voiture toute la traversée de 35 minutes, le beffroi UNESCO de l'Hôtel de Ville et Les Bourgeois de Calais en bronze de Rodin, un corridor sableux de 12 km Plage de Calais et Sangatte, et les falaises crayeuses du Grand Site Cap Blanc-Nez / Cap Gris-Nez à 35 km à l'ouest`,
+      highlight: `le beffroi UNESCO de l'Hôtel de Ville à monter gratuitement, Les Bourgeois de Calais de Rodin sur la Place du Soldat Inconnu, et les sentiers de falaises crayeuses du Grand Site Cap Blanc-Nez / Cap Gris-Nez face aux falaises blanches de Douvres à travers 35 km de mer de la Manche`,
+      area: `le centre historique entre la Place d'Armes et l'Hôtel de Ville le long du Boulevard Jacquard, la promenade du front de mer de Calais-Nord sur la Digue Gaston Berthe, et le terminal Eurotunnel Le Shuttle de Coquelles à 5 km à l'ouest`,
+    },
     cambridge: {
       personality: `l'une des petites villes anglaises les plus fiablement dog-friendly, vastes communaux urbains sans laisse (Jesus Green, Midsummer, Coe Fen), pubs historiques qui accueillent les chiens en laisse au bar, et trains directs Greater Anglia depuis London King's Cross en 50 min`,
       highlight: `le sentier riverain des Backs, les prés de Grantchester et le tea garden de The Orchard, et les sentiers du fort de l'âge du fer de Wandlebury Country Park`,
@@ -2331,6 +2341,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el panorama del Bastione di Saint Remy, el sendero costero de la Sella del Diavolo sobre Calamosca, y el recorrido llano de 7 km de los flamencos en el Parco di Molentargius`,
       area: `el barrio Marina alrededor de Via Sardegna, el barrio histórico del Castello y el paseo marítimo de Poetto`,
     },
+    calais: {
+      personality: `ciudad portuaria del Paso de Calais de 67 000 habitantes directamente frente a los acantilados blancos de Dover, con la travesía marítima de pasajeros transmancha más concurrida de Europa (P&O, DFDS, Irish Ferries), el Eurotunnel Le Shuttle pet-perfecto desde Coquelles donde los perros permanecen en el coche toda la travesía de 35 minutos, el campanario UNESCO del Hôtel de Ville y Los Burgueses de Calais en bronce de Rodin, un corredor arenoso de 12 km Plage de Calais y Sangatte, y los acantilados calizos del Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km al oeste`,
+      highlight: `el campanario UNESCO del Hôtel de Ville para subir gratis, Los Burgueses de Calais de Rodin en la Place du Soldat Inconnu, y los senderos de acantilados calizos del Grand Site Cap Blanc-Nez / Cap Gris-Nez frente a los acantilados blancos de Dover a través de 35 km de mar del Canal`,
+      area: `el centro histórico entre la Place d'Armes y el Hôtel de Ville a lo largo del Boulevard Jacquard, el paseo marítimo de Calais-Nord sobre la Digue Gaston Berthe, y el terminal Eurotunnel Le Shuttle de Coquelles a 5 km al oeste`,
+    },
     cambridge: {
       personality: `una de las ciudades pequeñas inglesas más fiablemente dog-friendly, vastos comunales urbanos sin correa (Jesus Green, Midsummer, Coe Fen), pubs históricos que admiten perros con correa en la barra, y trenes directos Greater Anglia desde London King's Cross en 50 min`,
       highlight: `el sendero ribereño de los Backs, las praderas de Grantchester y el tea garden de The Orchard, y los senderos del fuerte de la Edad del Hierro de Wandlebury Country Park`,
@@ -3362,6 +3377,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital da Sardenha com 8 km de praia urbana no Poetto, um trecho canino municipal sazonal, a enseada canina de Calamosca o ano inteiro, a lagoa de flamingos rosas de Molentargius (1.600 ha) e um verdadeiro hospital veterinário de urgências 24/7`,
       highlight: `o panorama do Bastione di Saint Remy, o trilho costeiro da Sella del Diavolo acima de Calamosca, e o percurso plano de 7 km dos flamingos no Parco di Molentargius`,
       area: `o bairro Marina à volta da Via Sardegna, o bairro histórico do Castello e a marginal do Poetto`,
+    },
+    calais: {
+      personality: `cidade portuária do Pas-de-Calais com 67 000 habitantes directamente em frente às falésias brancas de Dover, com a travessia marítima de passageiros transmancha mais movimentada da Europa (P&O, DFDS, Irish Ferries), o Eurotunnel Le Shuttle pet-perfeito desde Coquelles onde os cães permanecem no carro toda a travessia de 35 minutos, o campanário UNESCO do Hôtel de Ville e Os Burgueses de Calais em bronze de Rodin, um corredor arenoso de 12 km Plage de Calais e Sangatte, e as falésias cretáceas do Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km a oeste`,
+      highlight: `o campanário UNESCO do Hôtel de Ville para subir grátis, Os Burgueses de Calais de Rodin na Place du Soldat Inconnu, e os trilhos de falésias cretáceas do Grand Site Cap Blanc-Nez / Cap Gris-Nez em frente às falésias brancas de Dover através de 35 km de mar do Canal`,
+      area: `o centro histórico entre a Place d'Armes e o Hôtel de Ville ao longo do Boulevard Jacquard, o passeio marítimo de Calais-Nord sobre a Digue Gaston Berthe, e o terminal Eurotunnel Le Shuttle de Coquelles a 5 km a oeste`,
     },
     cambridge: {
       personality: `uma das cidades pequenhas inglesas mais fiablemente pet-friendly, vastos comunales urbanos sem trela (Jesus Green, Midsummer, Coe Fen), pubs históricos que admiten cães com trela na barra, e comboios directos Greater Anglia a partir de London King's Cross en 50 min`,

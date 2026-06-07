@@ -1880,6 +1880,81 @@
     "iata": "BRN"
   },
   {
+    "slug": "beziers",
+    "name": "Béziers",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/beziers.jpg",
+    "intro": "Béziers is a 78 000-resident Hérault city with the hilltop Cathédrale Saint-Nazaire perched 60 m above the Orb, the medieval Pont Vieux, the UNESCO Canal du Midi running directly through town with the spectacular Neuf Écluses de Fonsérannes 9-lock staircase, the Plateau des Poètes English landscape garden, and a 25 km Mediterranean sand corridor 15 minutes south anchored by the year-round off-leash Valras-Plage plage canine.",
+    "lat": 43.3442,
+    "lng": 3.2197,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & breezy",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & dry",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "BZR"
+  },
+  {
     "slug": "biarritz",
     "name": "Biarritz",
     "country": "France",
@@ -12092,81 +12167,6 @@
     "iata": "SCQ"
   },
   {
-    "slug": "seville",
-    "name": "Seville",
-    "country": "Spain",
-    "flag": "🇪🇸",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/seville.jpg",
-    "intro": "Seville's orange-tree lined streets, riverside promenades, and vibrant terrace culture make it one of Andalusia's most dog-friendly cities.",
-    "lat": 37.3886,
-    "lng": -5.9823,
-    "weather": {
-      "jan": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "mar": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "jun": {
-        "temp": 31,
-        "desc": "Mediterranean heat",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 35,
-        "desc": "Mediterranean heat",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 35,
-        "desc": "Mediterranean heat",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 30,
-        "desc": "Mediterranean heat",
-        "icon": "☀️"
-      },
-      "oct": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "nov": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "dec": {
-        "temp": 14,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      }
-    },
-    "iata": "SVQ",
-    "tiqetsId": "65870"
-  },
-  {
     "slug": "setubal",
     "name": "Setúbal",
     "country": "Portugal",
@@ -12240,6 +12240,81 @@
       }
     },
     "iata": "LIS"
+  },
+  {
+    "slug": "seville",
+    "name": "Seville",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/seville.jpg",
+    "intro": "Seville's orange-tree lined streets, riverside promenades, and vibrant terrace culture make it one of Andalusia's most dog-friendly cities.",
+    "lat": 37.3886,
+    "lng": -5.9823,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 31,
+        "desc": "Mediterranean heat",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 35,
+        "desc": "Mediterranean heat",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 35,
+        "desc": "Mediterranean heat",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 30,
+        "desc": "Mediterranean heat",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "SVQ",
+    "tiqetsId": "65870"
   },
   {
     "slug": "sintra",

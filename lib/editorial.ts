@@ -146,6 +146,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Bremgartenwald off-leash forest, the 5 km Aare riverside promenade, and the BärenPark below the Old Town',
       area: 'the Altstadt UNESCO arcades, the Marzili and Matte riverside districts, and the Rosengarten viewpoint',
     },
+    beziers: {
+      personality: `a 78 000-resident Hérault city with a fortified Gothic cathedral perched 60 m above the Orb, the UNESCO Canal du Midi running directly through town, the spectacular Neuf Écluses de Fonsérannes 9-lock staircase, the 4.6-hectare Plateau des Poètes English garden, and a rare year-round off-leash Mediterranean plage canine at Valras-Plage 15 minutes south`,
+      highlight: `the Valras-Plage plage canine off-leash beach, the Neuf Écluses de Fonsérannes and the Pont-Canal de l'Orb aqueduct, and the Cathédrale Saint-Nazaire hilltop terrace overlooking the medieval Pont Vieux`,
+      area: `the pedestrian Allées Paul Riquet and the Plateau des Poètes, the Saint-Aphrodise old town below the cathedral, and the Fonsérannes canal quarter west of the centre`,
+    },
     biarritz: {
       personality: 'a Basque surf town with a deeply relaxed attitude toward dogs and outdoor life',
       highlight: 'the Grande Plage and the Côte Basque coastal path',
@@ -1169,6 +1174,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la forêt sans laisse du Bremgartenwald, la promenade fluviale de 5 km le long de l\'Aare et le BärenPark en contrebas de la Vieille-Ville',
       area: 'les arcades UNESCO de l\'Altstadt, les quartiers fluviaux de Marzili et de la Matte et le belvédère du Rosengarten',
     },
+    beziers: {
+      personality: `une ville héraultaise de 78 000 habitants avec une cathédrale gothique fortifiée perchée à 60 m au-dessus de l'Orb, le Canal du Midi UNESCO traversant la ville, les spectaculaires Neuf Écluses de Fonsérannes, le jardin paysager anglais Plateau des Poètes de 4,6 hectares, et une rare plage canine méditerranéenne sans laisse toute l'année à Valras-Plage à 15 minutes au sud`,
+      highlight: `la plage canine sans laisse de Valras-Plage, les Neuf Écluses de Fonsérannes et le Pont-Canal de l'Orb, et la terrasse en surplomb de la Cathédrale Saint-Nazaire dominant le Pont Vieux médiéval`,
+      area: `les Allées Paul Riquet piétonnes et le Plateau des Poètes, le vieux Béziers Saint-Aphrodise sous la cathédrale, et le quartier du canal de Fonsérannes à l'ouest du centre`,
+    },
     biarritz: {
       personality: 'une ville de surf basque avec une attitude profondément décontractée envers les chiens et la vie en plein air',
       highlight: 'la Grande Plage et le sentier côtier de la Côte Basque',
@@ -2191,6 +2201,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el bosque sin correa del Bremgartenwald, el paseo fluvial de 5 km a lo largo del Aar y el BärenPark bajo el Casco Antiguo',
       area: 'los soportales UNESCO del Altstadt, los barrios ribereños de Marzili y la Matte y el mirador del Rosengarten',
     },
+    beziers: {
+      personality: `una ciudad heraultiana de 78 000 habitantes con una catedral gótica fortificada encaramada a 60 m sobre el Orb, el Canal du Midi UNESCO atravesando la ciudad, las espectaculares Neuf Écluses de Fonsérannes, el jardín paisajístico inglés Plateau des Poètes de 4,6 hectáreas, y una rara playa canina mediterránea sin correa todo el año en Valras-Plage a 15 minutos al sur`,
+      highlight: `la playa canina sin correa de Valras-Plage, las Neuf Écluses de Fonsérannes y el Pont-Canal de l'Orb, y la terraza en alto de la Cathédrale Saint-Nazaire dominando el medieval Pont Vieux`,
+      area: `las Allées Paul Riquet peatonales y el Plateau des Poètes, el viejo Béziers Saint-Aphrodise bajo la catedral, y el barrio del canal de Fonsérannes al oeste del centro`,
+    },
     biarritz: {
       personality: 'una ciudad de surf vasca con una actitud profundamente relajada hacia los perros y la vida al aire libre',
       highlight: 'la Grande Plage y el sendero costero de la Costa Vasca',
@@ -3212,6 +3227,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das capitales mais acogedoras para animais de Europa, o Centro histórico UNESCO de Suiza tem 6 km de soportales Lauben cubiertos, tres florestas urbanos a distancia de elétrico e o principal hospital universitario veterinário do país',
       highlight: 'o floresta sem trela do Bremgartenwald, o passeio fluvial de 5 km a lo largo do Aar e o BärenPark sob o Centro histórico',
       area: 'os soportales UNESCO do Altstadt, os bairros riberenhos de Marzili e a Matte e o mirador do Rosengarten',
+    },
+    beziers: {
+      personality: `uma cidade heraultiana de 78 000 habitantes com uma catedral gótica fortificada empoleirada a 60 m sobre o Orb, o Canal du Midi UNESCO a atravessar a cidade, as espectaculares Neuf Écluses de Fonsérannes, o jardim paisagístico inglês Plateau des Poètes de 4,6 hectares, e uma rara praia canina mediterrânica sem trela o ano inteiro em Valras-Plage a 15 minutos a sul`,
+      highlight: `a praia canina sem trela de Valras-Plage, as Neuf Écluses de Fonsérannes e o Pont-Canal de l'Orb, e a esplanada elevada da Cathédrale Saint-Nazaire a dominar o Pont Vieux medieval`,
+      area: `as Allées Paul Riquet pedonais e o Plateau des Poètes, a velha Béziers Saint-Aphrodise sob a catedral, e o bairro do canal de Fonsérannes a oeste do centro`,
     },
     biarritz: {
       personality: 'uma cidade de surf vasca com uma actitud profundamente relajada hacia os cães e a vida al aire libre',

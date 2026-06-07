@@ -671,6 +671,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Lungomare Caracciolo, the Bosco di Capodimonte, and the Parco Virgiliano on Posillipo',
       area: 'Chiaia, Posillipo, and the historic centre around Spaccanapoli',
     },
+    narbonne: {
+      personality: `a 55 000-resident Languedoc-Roussillon city with an exposed Via Domitia Roman road in front of the Hôtel de Ville, the unfinished Gothic Cathédrale Saint-Just choir (41 m tall), the UNESCO Canal de la Robine through the centre, Les Halles covered market with dog-tolerant plancha counters, and a rare year-round off-leash Mediterranean plage canine at Saint-Pierre-la-Mer / Fleury-d'Aude (postal 11560) 15 minutes east`,
+      highlight: `the Saint-Pierre-la-Mer plage canine off-leash beach (Fleury-d'Aude postal 11560), the Massif de la Clape garrigue trails and Pech Redon panorama, and the Canal de la Robine towpath through the Cours Mirabeau`,
+      area: `the pedestrian centre around the Place de l'Hôtel de Ville and the Cours Mirabeau, the canalside Cours de la République esplanades, and the Saint-Pierre-la-Mer / Fleury-d'Aude coastal annex 15 minutes east`,
+    },
     neringa: {
       personality: `the UNESCO Curonian Spit resort municipality on a 52 km Baltic sand spit, four lagoon villages with a permanent population of 2,500, reached only by ferry from Klaipeda, where leashed dogs roam pine-forest trails, the Parnidis sundial dune and the Nida lagoon promenade`,
       highlight: `the Parnidis Dune sundial in Nida, the Hill of Witches sculpture trail in Juodkrante, and the Nida lagoon promenade with its colourful weathervane fisherman houses`,
@@ -1689,6 +1694,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Lungomare Caracciolo, le Bosco di Capodimonte et le Parco Virgiliano de Posillipo',
       area: 'Chiaia, Posillipo et le centre historique autour de Spaccanapoli',
     },
+    narbonne: {
+      personality: `une ville du Languedoc-Roussillon de 55 000 habitants avec une dalle de Via Domitia romaine exposée devant l'Hôtel de Ville, le chœur gothique inachevé de la Cathédrale Saint-Just (41 m de haut), le Canal de la Robine UNESCO à travers le centre, les Halles couvertes aux comptoirs à la plancha tolérants aux chiens, et une rare plage canine méditerranéenne sans laisse toute l'année à Saint-Pierre-la-Mer / Fleury-d'Aude (code postal 11560) à 15 minutes à l'est`,
+      highlight: `la plage canine sans laisse de Saint-Pierre-la-Mer (Fleury-d'Aude code postal 11560), les sentiers de garrigue du Massif de la Clape et le panorama du Pech Redon, et le chemin de halage du Canal de la Robine à travers le Cours Mirabeau`,
+      area: `le centre piéton autour de la Place de l'Hôtel de Ville et du Cours Mirabeau, les esplanades canalside du Cours de la République, et l'annexe littorale de Saint-Pierre-la-Mer / Fleury-d'Aude à 15 minutes à l'est`,
+    },
     neringa: {
       personality: `la commune balnéaire UNESCO du Cordon de Courlande sur un cordon sableux balte de 52 km, quatre villages de lagune comptant 2 500 habitants permanents, accessible uniquement par ferry depuis Klaipeda, où les chiens en laisse parcourent les sentiers de pinède, la dune au cadran solaire de Parnidis et la promenade de la lagune à Nida`,
       highlight: `le cadran solaire de la dune de Parnidis à Nida, le sentier des sculptures de la Colline des Sorcières à Juodkrante, et la promenade de la lagune de Nida avec ses maisons de pêcheurs aux girouettes vetrunge colorées`,
@@ -2706,6 +2716,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Lungomare Caracciolo, el Bosco di Capodimonte y el Parco Virgiliano de Posillipo',
       area: 'Chiaia, Posillipo y el centro histórico en torno a Spaccanapoli',
     },
+    narbonne: {
+      personality: `una ciudad del Languedoc-Roussillon de 55 000 habitantes con una losa de Vía Domicia romana expuesta frente al Hôtel de Ville, el coro gótico inacabado de la Cathédrale Saint-Just (41 m de alto), el Canal de la Robine UNESCO a través del centro, Les Halles cubiertas con barras a la plancha tolerantes con perros, y una rara playa canina mediterránea sin correa todo el año en Saint-Pierre-la-Mer / Fleury-d'Aude (código postal 11560) a 15 minutos al este`,
+      highlight: `la playa canina sin correa de Saint-Pierre-la-Mer (Fleury-d'Aude código postal 11560), los senderos de garriga del Massif de la Clape y la panorámica del Pech Redon, y el camino de sirga del Canal de la Robine por el Cours Mirabeau`,
+      area: `el centro peatonal en torno a la Place de l'Hôtel de Ville y al Cours Mirabeau, las esplanadas junto al canal del Cours de la République, y el anexo costero de Saint-Pierre-la-Mer / Fleury-d'Aude a 15 minutos al este`,
+    },
     neringa: {
       personality: `el municipio balneario UNESCO del Istmo de Curlandia sobre un cordón arenoso báltico de 52 km, cuatro pueblos lacustres con 2.500 habitantes permanentes, accesible solo en ferry desde Klaipeda, donde los perros con correa recorren los senderos del pinar, la duna del reloj de sol de Parnidis y el paseo de la laguna en Nida`,
       highlight: `el reloj de sol de la duna de Parnidis en Nida, el sendero de esculturas de la Colina de las Brujas en Juodkrante, y el paseo de la laguna de Nida con sus casas de pescadores con veletas vetrunge coloridas`,
@@ -3722,6 +3737,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital caótica e apasionada do sul de Italia, densos ruelas históricos, Lungomare peatonal de 2,5 km, Bosco di Capodimonte de 134 hectáreas e trattorie que tratan aos cães como miembros da familia',
       highlight: 'o Lungomare Caracciolo, o Bosco di Capodimonte e o Parco Virgiliano de Posillipo',
       area: 'Chiaia, Posillipo e o centro histórico en torno a Spaccanapoli',
+    },
+    narbonne: {
+      personality: `uma cidade do Languedoc-Roussillon com 55 000 habitantes com uma laje da Via Domitia romana exposta em frente ao Hôtel de Ville, o coro gótico inacabado da Cathédrale Saint-Just (41 m de altura), o Canal de la Robine UNESCO através do centro, Les Halles cobertas com balcões na chapa tolerantes a cães, e uma rara praia canina mediterrânica sem trela o ano inteiro em Saint-Pierre-la-Mer / Fleury-d'Aude (código postal 11560) a 15 minutos a leste`,
+      highlight: `a praia canina sem trela de Saint-Pierre-la-Mer (Fleury-d'Aude código postal 11560), os trilhos de garrigue do Massif de la Clape e o panorama do Pech Redon, e o caminho de sirga do Canal de la Robine pelo Cours Mirabeau`,
+      area: `o centro pedonal em torno da Place de l'Hôtel de Ville e do Cours Mirabeau, as esplanadas à beira do canal do Cours de la République, e o anexo costeiro de Saint-Pierre-la-Mer / Fleury-d'Aude a 15 minutos a leste`,
     },
     neringa: {
       personality: `o município balnear UNESCO do Istmo da Curlândia sobre um cordão arenoso báltico de 52 km, quatro aldeias lacustres com 2.500 habitantes permanentes, acessível só por ferry a partir de Klaipeda, onde os cães com trela percorrem os trilhos do pinhal, a duna do relógio de sol de Parnidis e o passeio da lagoa em Nida`,

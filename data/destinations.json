@@ -6473,18 +6473,66 @@
     "lat": 41.4421,
     "lng": -8.2954,
     "weather": {
-      "jan": { "temp": 9, "desc": "Cool & rainy", "icon": "🌧️" },
-      "feb": { "temp": 10, "desc": "Cool & rainy", "icon": "🌧️" },
-      "mar": { "temp": 12, "desc": "Mild & showers", "icon": "🌦️" },
-      "apr": { "temp": 14, "desc": "Mild & pleasant", "icon": "⛅" },
-      "may": { "temp": 17, "desc": "Warm & sunny", "icon": "🌤️" },
-      "jun": { "temp": 21, "desc": "Warm & sunny", "icon": "☀️" },
-      "jul": { "temp": 23, "desc": "Warm & dry", "icon": "☀️" },
-      "aug": { "temp": 23, "desc": "Warm & dry", "icon": "☀️" },
-      "sep": { "temp": 20, "desc": "Warm & sunny", "icon": "☀️" },
-      "oct": { "temp": 16, "desc": "Mild & pleasant", "icon": "⛅" },
-      "nov": { "temp": 12, "desc": "Cool & rainy", "icon": "🌧️" },
-      "dec": { "temp": 9, "desc": "Cool & rainy", "icon": "🌧️" }
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      }
     },
     "iata": "OPO"
   },
@@ -7550,18 +7598,66 @@
     "lat": 37.1028,
     "lng": -8.6736,
     "weather": {
-      "jan": { "temp": 15, "desc": "Mild & sunny", "icon": "⛅" },
-      "feb": { "temp": 16, "desc": "Mild & sunny", "icon": "⛅" },
-      "mar": { "temp": 17, "desc": "Mild & breezy", "icon": "☀️" },
-      "apr": { "temp": 19, "desc": "Warm & sunny", "icon": "☀️" },
-      "may": { "temp": 22, "desc": "Warm & sunny", "icon": "☀️" },
-      "jun": { "temp": 25, "desc": "Hot & sunny", "icon": "☀️" },
-      "jul": { "temp": 27, "desc": "Hot & dry", "icon": "☀️" },
-      "aug": { "temp": 27, "desc": "Hot & dry", "icon": "☀️" },
-      "sep": { "temp": 25, "desc": "Warm & sunny", "icon": "☀️" },
-      "oct": { "temp": 22, "desc": "Warm & pleasant", "icon": "☀️" },
-      "nov": { "temp": 18, "desc": "Mild & breezy", "icon": "⛅" },
-      "dec": { "temp": 15, "desc": "Mild & sunny", "icon": "⛅" }
+      "jan": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 17,
+        "desc": "Mild & breezy",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      }
     },
     "iata": "FAO"
   },
@@ -9667,6 +9763,81 @@
     },
     "iata": "NAP",
     "tiqetsId": "71720"
+  },
+  {
+    "slug": "narbonne",
+    "name": "Narbonne",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/narbonne.jpg",
+    "intro": "Narbonne is a 55 000-resident Languedoc-Roussillon city with the unfinished Gothic Cathédrale Saint-Just, the Via Domitia Roman road, the UNESCO Canal de la Robine through the historic centre, Les Halles covered market, the 17 000-hectare Massif de la Clape garrigue, and a 15 km Mediterranean sand corridor 15 minutes east anchored by the year-round off-leash Saint-Pierre-la-Mer plage canine at Fleury-d'Aude (postal 11560).",
+    "lat": 43.1839,
+    "lng": 3.0042,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & breezy",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & dry",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "BZR"
   },
   {
     "slug": "neringa",
@@ -12007,18 +12178,66 @@
     "lat": 38.5244,
     "lng": -8.8882,
     "weather": {
-      "jan": { "temp": 11, "desc": "Mild & rainy", "icon": "🌧️" },
-      "feb": { "temp": 12, "desc": "Mild & breezy", "icon": "🌦️" },
-      "mar": { "temp": 14, "desc": "Mild & pleasant", "icon": "🌤️" },
-      "apr": { "temp": 15, "desc": "Mild & sunny", "icon": "⛅" },
-      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "🌤️" },
-      "jun": { "temp": 21, "desc": "Warm & sunny", "icon": "☀️" },
-      "jul": { "temp": 23, "desc": "Warm & dry", "icon": "☀️" },
-      "aug": { "temp": 23, "desc": "Warm & dry", "icon": "☀️" },
-      "sep": { "temp": 21, "desc": "Warm & sunny", "icon": "☀️" },
-      "oct": { "temp": 18, "desc": "Mild & pleasant", "icon": "⛅" },
-      "nov": { "temp": 14, "desc": "Mild & rainy", "icon": "🌦️" },
-      "dec": { "temp": 11, "desc": "Mild & rainy", "icon": "🌧️" }
+      "jan": {
+        "temp": 11,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      }
     },
     "iata": "LIS"
   },

@@ -12768,6 +12768,81 @@
     "tiqetsId": "60914"
   },
   {
+    "slug": "sorrento",
+    "name": "Sorrento",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/sorrento.jpg",
+    "intro": "Sorrento is a 16 000-resident Campania cliff town in the Metropolitan City of Naples and the gateway hub for the Amalfi Coast, Capri, Ischia and Pompeii, hosting roughly 3 million tourists a year. The historic Piazza Tasso anchors the centro storico, the panoramic Villa Comunale gardens look 80 m down onto the Marina Grande old fishing port, the Marina Piccola ferry terminal runs 30+ daily SNAV/Caremar/NLG hydrofoils to Capri (25 min), Ischia (50 min) and Naples (35 min), the EAV Circumvesuviana uniquely accepts muzzled dogs free of charge for the direct 35 min trip to Pompei Scavi, and the SITA SUD Amalfi Coast bus links Positano (50 min), Amalfi (1h30) and the Path of the Gods trailhead at Bomerano.",
+    "lat": 40.6263,
+    "lng": 14.3758,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "NAP"
+  },
+  {
     "slug": "split",
     "name": "Split",
     "country": "Croatia",

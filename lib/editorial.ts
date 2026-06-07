@@ -877,6 +877,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Borisova Gradina, Yuzhen Park, and the Vitosha Nature Park trails',
       area: 'Vitosha Boulevard, Lozenets, and Boyana',
     },
+    sorrento: {
+      personality: `a 16 000-resident Campania cliff town in the Metropolitan City of Naples that serves as the gateway hub for the Amalfi Coast, Capri, Ischia and Pompeii (3 million tourists a year), with the historic Piazza Tasso, the panoramic Villa Comunale clifftop gardens 80 m above the Marina Grande old fishing port, the Marina Piccola hydrofoil hub (Capri 25 min, Ischia 50 min, Naples 35 min), the EAV Circumvesuviana that uniquely accepts muzzled dogs free of charge for the direct 35 min trip to Pompei Scavi, and the SITA SUD Amalfi Coast bus to Positano, Amalfi and the Path of the Gods trailhead`,
+      highlight: `the Villa Comunale clifftop gardens with the 180 degree panoramic terrace over the Bay of Naples to Vesuvius, the Marina Grande old fishing port with the De Gregorio family Bagni Delfino pontoon, the dramatic Vallone dei Mulini ravine viewpoint, the Bagni della Regina Giovanna natural sea pool at the Roman Villa of Pollio Felice 2 km west, and the Path of the Gods (Sentiero degli Dei) trailhead 12 km east at Bomerano`,
+      area: `the centro storico around Piazza Tasso and Corso Italia, the Villa Comunale clifftop and Chiostro di San Francesco above Marina Grande, the Marina Piccola ferry terminal at the foot of the cliff (lift access), and the inland villages of Sant'Agnello, Piano di Sorrento and Meta on the Circumvesuviana line`,
+    },
     split: {
       personality: 'a relaxed Croatian coastal city where the Adriatic waterfront, ancient Diocletian\'s Palace, and a laid-back local culture make it a standout destination for pet owners',
       highlight: 'the Marjan Hill forest park, the Bačvice beach dog zone, and the coastal path to Stobreč',
@@ -1923,6 +1928,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'l\'une des capitales européennes les plus abordables, avec près de 500 adresses dog-friendly, deux hôpitaux d\'urgence 24h/24 et le Vitosha à 2 290 mètres qui s\'élève directement depuis la ville',
       highlight: 'Borisova Gradina, le Yuzhen Park et les sentiers du parc naturel du Vitosha',
       area: 'le Vitosha Boulevard, Lozenets et Boyana',
+    },
+    sorrento: {
+      personality: `une ville de falaise campanienne de 16 000 habitants dans la Ville métropolitaine de Naples qui sert de hub d'accès à la Côte amalfitaine, à Capri, Ischia et Pompéi (3 millions de touristes par an), avec la Piazza Tasso historique, les jardins panoramiques de la Villa Comunale en haut de falaise 80 m au-dessus du vieux port de pêche Marina Grande, le hub hydrofoil Marina Piccola (Capri 25 min, Ischia 50 min, Naples 35 min), l'EAV Circumvesuviana qui accepte uniquement les chiens muselés gratuitement pour le trajet direct de 35 min vers Pompei Scavi, et le bus SITA SUD Côte amalfitaine vers Positano, Amalfi et le départ du Sentier des Dieux`,
+      highlight: `les jardins de la Villa Comunale en haut de falaise avec la terrasse panoramique à 180 degrés sur la Baie de Naples vers le Vésuve, le vieux port de pêche Marina Grande avec le ponton Bagni Delfino de la famille De Gregorio, le point de vue dramatique du Vallone dei Mulini, la piscine naturelle des Bagni della Regina Giovanna à la Villa romaine de Pollio Felice à 2 km à l'ouest, et le départ du Sentier des Dieux (Sentiero degli Dei) à 12 km à l'est à Bomerano`,
+      area: `le centre historique autour de la Piazza Tasso et du Corso Italia, la Villa Comunale en haut de falaise et le Chiostro di San Francesco au-dessus de Marina Grande, le terminal ferry Marina Piccola au pied de la falaise (accès par ascenseur), et les villages intérieurs de Sant'Agnello, Piano di Sorrento et Meta sur la ligne Circumvesuviana`,
     },
     split: {
       personality: 'une ville côtière croate décontractée où le front de mer adriatique, l\'ancien Palais de Dioclétien et une culture locale relax en font une destination remarquable pour les propriétaires d\'animaux',
@@ -2971,6 +2981,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Borisova Gradina, el Yuzhen Park y los senderos del Parque Natural del Vitosha',
       area: 'el Vitosha Boulevard, Lozenets y Boyana',
     },
+    sorrento: {
+      personality: `una ciudad de acantilado campaniana de 16 000 habitantes en la Ciudad Metropolitana de Nápoles que sirve de hub de acceso a la Costa Amalfitana, a Capri, Ischia y Pompeya (3 millones de turistas al año), con la Piazza Tasso histórica, los jardines panorámicos de la Villa Comunale en lo alto del acantilado 80 m sobre el viejo puerto pesquero Marina Grande, el hub hidrofoil Marina Piccola (Capri 25 min, Ischia 50 min, Nápoles 35 min), el EAV Circumvesuviana que admite únicamente perros con bozal gratis para el trayecto directo de 35 min a Pompei Scavi, y el bus SITA SUD Costa Amalfitana a Positano, Amalfi y el inicio del Sendero de los Dioses`,
+      highlight: `los jardines de la Villa Comunale en lo alto del acantilado con la terraza panorámica de 180 grados sobre la Bahía de Nápoles hacia el Vesubio, el viejo puerto pesquero Marina Grande con el pontón Bagni Delfino de la familia De Gregorio, el dramático mirador del Vallone dei Mulini, la piscina natural de los Bagni della Regina Giovanna en la Villa romana de Pollio Felice a 2 km al oeste, y el inicio del Sendero de los Dioses (Sentiero degli Dei) a 12 km al este en Bomerano`,
+      area: `el centro histórico en torno a la Piazza Tasso y al Corso Italia, la Villa Comunale en lo alto del acantilado y el Chiostro di San Francesco sobre Marina Grande, la terminal ferry Marina Piccola al pie del acantilado (acceso por ascensor), y los pueblos interiores de Sant'Agnello, Piano di Sorrento y Meta en la línea Circumvesuviana`,
+    },
     split: {
       personality: 'una relajada ciudad costera croata donde el paseo marítimo adriático, el antiguo Palacio de Diocleciano y una actitud local distendida la convierten en un destino destacado para los dueños de mascotas',
       highlight: 'el parque forestal de la colina Marjan, la zona para perros de la playa de Bačvice y el sendero costero hacia Stobreč',
@@ -4017,6 +4032,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das capitales europeias mais asequibles, com perto de 500 direcciones pet-friendly, dos hospitales de urgências 24/7 e o monte Vitosha de 2.290 metros elevándose directamente a partir da cidade',
       highlight: 'Borisova Gradina, o Yuzhen Park e os trilhos do Parque Natural do Vitosha',
       area: 'o Vitosha Boulevard, Lozenets e Boyana',
+    },
+    sorrento: {
+      personality: `uma cidade de falésia campaniana de 16 000 habitantes na Cidade Metropolitana de Nápoles que serve de hub de acesso à Costa Amalfitana, a Capri, Ischia e Pompeia (3 milhões de turistas por ano), com a Piazza Tasso histórica, os jardins panorâmicos da Villa Comunale no topo da falésia 80 m sobre o velho porto piscatório Marina Grande, o hub hidrofoil Marina Piccola (Capri 25 min, Ischia 50 min, Nápoles 35 min), o EAV Circumvesuviana que aceita unicamente cães com açaime grátis para a viagem directa de 35 min para Pompei Scavi, e o autocarro SITA SUD Costa Amalfitana para Positano, Amalfi e o início do Caminho dos Deuses`,
+      highlight: `os jardins da Villa Comunale no topo da falésia com o terraço panorâmico de 180 graus sobre a Baía de Nápoles para o Vesúvio, o velho porto piscatório Marina Grande com o pontão Bagni Delfino da família De Gregorio, o dramático miradouro do Vallone dei Mulini, a piscina natural dos Bagni della Regina Giovanna na Villa romana de Pollio Felice a 2 km a oeste, e o início do Caminho dos Deuses (Sentiero degli Dei) a 12 km a leste em Bomerano`,
+      area: `o centro histórico em torno da Piazza Tasso e do Corso Italia, a Villa Comunale no topo da falésia e o Chiostro di San Francesco sobre Marina Grande, o terminal ferry Marina Piccola ao pé da falésia (acesso por elevador), e as aldeias interiores de Sant'Agnello, Piano di Sorrento e Meta na linha Circumvesuviana`,
     },
     split: {
       personality: 'uma relajada cidade costera croata onde o passeio marítimo adriático, o antigo Palácio de Diocleciano e uma actitud local distendida a convierten num destino destacado para os duenhos de animais',

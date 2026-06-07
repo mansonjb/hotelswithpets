@@ -12167,6 +12167,81 @@
     "iata": "SCQ"
   },
   {
+    "slug": "sete",
+    "name": "Sète",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/sete.jpg",
+    "intro": "Sète is a 44 000-resident Hérault port city built on the slopes of Mont Saint-Clair between the Mediterranean and the Étang de Thau oyster lagoon, nicknamed the Venice of Languedoc for its working canal grid. Highlights include the 175 m Mont Saint-Clair panoramic terrace, the Cimetière Marin where Paul Valéry rests, the 12 km Plage de la Corniche with the year-round off-leash Lazaret plage canine, and the dog-friendly Sète-Mèze ferry across the Étang de Thau to the Bouzigues oyster villages.",
+    "lat": 43.4053,
+    "lng": 3.697,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & breezy",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & dry",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "MPL"
+  },
+  {
     "slug": "setubal",
     "name": "Setúbal",
     "country": "Portugal",

@@ -837,6 +837,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the four cathedral squares, the Alameda park with its Carballeira de Santa Susana off-leash zone, and the panoramic Parque de Bonaval',
       area: 'the casco antiguo around the cathedral, the leafy Alameda corridor, and the residential Conxo and Vista Alegre neighbourhoods',
     },
+    sete: {
+      personality: `a 44 000-resident Hérault port city built on the slopes of Mont Saint-Clair between the Mediterranean and the Étang de Thau oyster lagoon, nicknamed the Venice of Languedoc for its working canal grid, with a 175 m panoramic forest summit, Paul Valéry's Cimetière Marin, a 12 km Plage de la Corniche with the year-round off-leash Lazaret plage canine, and a dog-friendly passenger ferry across the lagoon to the Bouzigues oyster villages`,
+      highlight: `the year-round off-leash Lazaret plage canine on the Plage de la Corniche, the Mont Saint-Clair panoramic terrace at Notre-Dame de la Salette, and the Sète-Mèze passenger ferry across the Étang de Thau`,
+      area: `the Quai de la Résistance and Quai de la Marine esplanades along the Canal Royal, the historic Pointe Courte fishing quarter on the Étang de Thau, and the Mont Saint-Clair wooded slopes above the centre`,
+    },
     seville: {
       personality: 'one of Andalusia\'s most dog-friendly cities. Where dogs stroll under orange trees, join owners on tapas bar terraces, and explore riverside parks',
       highlight: 'the Parque de María Luisa, the Alamillo park, and the Guadalquivir riverside promenade',
@@ -1863,6 +1868,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la capitale galicienne du pèlerinage classée à l\'UNESCO, où le Chemin de Saint-Jacques a forgé une tradition millénaire d\'accueil des chiens dans la vieille ville pavée de granit',
       highlight: 'les quatre places de la cathédrale, le parc de l\'Alameda avec sa zone sans laisse de la Carballeira de Santa Susana et le parc panoramique de Bonaval',
       area: 'le casco antiguo autour de la cathédrale, l\'avenue ombragée de l\'Alameda et les quartiers résidentiels de Conxo et Vista Alegre',
+    },
+    sete: {
+      personality: `ville portuaire de l'Hérault de 44 000 habitants bâtie sur les pentes du Mont Saint-Clair entre la Méditerranée et l'étang de Thau, surnommée la Venise du Languedoc pour son maillage de canaux en activité, avec un sommet forestier panoramique à 175 m, le Cimetière Marin de Paul Valéry, une Plage de la Corniche de 12 km avec la plage canine sans laisse du Lazaret toute l'année, et un ferry voyageurs dog-friendly à travers le lagon jusqu'aux villages ostréicoles de Bouzigues`,
+      highlight: `la plage canine sans laisse du Lazaret toute l'année sur la Plage de la Corniche, la terrasse panoramique du Mont Saint-Clair à Notre-Dame de la Salette, et le ferry voyageurs Sète-Mèze à travers l'étang de Thau`,
+      area: `les esplanades du Quai de la Résistance et du Quai de la Marine le long du Canal Royal, le quartier historique de pêche de la Pointe Courte sur l'étang de Thau, et les pentes boisées du Mont Saint-Clair au-dessus du centre`,
     },
     seville: {
       personality: 'l\'une des villes les plus dog-friendly d\'Andalousie. Où les chiens se promènent sous les orangers, rejoignent leurs propriétaires sur les terrasses de bars à tapas et explorent les parcs riverains',
@@ -2891,6 +2901,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'las cuatro plazas de la catedral, el parque de la Alameda con su zona sin correa en la Carballeira de Santa Susana y el parque panorámico de Bonaval',
       area: 'el casco antiguo en torno a la catedral, la frondosa avenida de la Alameda y los barrios residenciales de Conxo y Vista Alegre',
     },
+    sete: {
+      personality: `ciudad portuaria del Hérault de 44 000 habitantes construida en las laderas del Mont Saint-Clair entre el Mediterráneo y el Étang de Thau, apodada la Venecia del Languedoc por su retícula de canales en activo, con una cima forestal panorámica a 175 m, el Cimetière Marin de Paul Valéry, una Plage de la Corniche de 12 km con la playa canina sin correa del Lazaret todo el año, y un ferry de pasajeros pet-friendly a través de la laguna hasta los pueblos ostrícolas de Bouzigues`,
+      highlight: `la playa canina sin correa del Lazaret todo el año en la Plage de la Corniche, la terraza panorámica del Mont Saint-Clair en Notre-Dame de la Salette, y el ferry de pasajeros Sète-Mèze a través del Étang de Thau`,
+      area: `las explanadas del Quai de la Résistance y Quai de la Marine a lo largo del Canal Royal, el barrio histórico pesquero de la Pointe Courte sobre el Étang de Thau, y las laderas boscosas del Mont Saint-Clair sobre el centro`,
+    },
     seville: {
       personality: 'una de las ciudades más dog-friendly de Andalucía. Donde los perros pasean bajo los naranjos, acompañan a sus dueños en las terrazas de bares de tapas y exploran los parques ribereños',
       highlight: 'el Parque de María Luisa, el parque Alamillo y el paseo ribereño del Guadalquivir',
@@ -3917,6 +3932,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital galega da peregrinação classificada pela UNESCO, onde o Caminho de Santiago forjou uma tradição milenar de acolher cães no casco antigo empedrado de granito',
       highlight: 'as quatro praças da catedral, o parque da Alameda com a sua zona sem trela na Carballeira de Santa Susana e o parque panorâmico de Bonaval',
       area: 'o casco antigo em torno à catedral, a arborizada avenida da Alameda e os bairros residenciais de Conxo e Vista Alegre',
+    },
+    sete: {
+      personality: `cidade portuária do Hérault com 44 000 habitantes construída nas encostas do Mont Saint-Clair entre o Mediterrâneo e o Étang de Thau, apelidada a Veneza do Languedoc pela sua malha de canais em actividade, com um cume florestal panorâmico a 175 m, o Cimetière Marin de Paul Valéry, uma Plage de la Corniche de 12 km com a praia canina sem trela do Lazaret o ano inteiro, e um ferry de passageiros pet-friendly através da lagoa até às aldeias ostreícolas de Bouzigues`,
+      highlight: `a praia canina sem trela do Lazaret o ano inteiro na Plage de la Corniche, a esplanada panorâmica do Mont Saint-Clair em Notre-Dame de la Salette, e o ferry de passageiros Sète-Mèze através do Étang de Thau`,
+      area: `as esplanadas do Quai de la Résistance e do Quai de la Marine ao longo do Canal Royal, o bairro histórico piscatório da Pointe Courte sobre o Étang de Thau, e as encostas arborizadas do Mont Saint-Clair sobre o centro`,
     },
     seville: {
       personality: 'uma das cidades mais pet-friendly de Andalucía. Onde os cães pasean sob os naranjos, acompanhan aos seus duenhos nas esplanadas de bares de tapas e exploran os parques riberenhos',

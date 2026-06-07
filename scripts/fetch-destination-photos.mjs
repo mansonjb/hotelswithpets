@@ -30,6 +30,7 @@ const TARGETS = [
   { slug: 'setubal',       query: 'Setubal Portugal Sado estuary Serra da Arrabida Praia da Figueirinha bottlenose dolphins Troia ferry panorama sunset' },
   { slug: 'narbonne',      query: 'Narbonne France Cathedrale Saint-Just Gothic Canal de la Robine Cours Mirabeau Les Halles Languedoc panorama sunset' },
   { slug: 'beziers',       query: 'Beziers France Cathedrale Saint-Nazaire hilltop Pont Vieux Orb Neuf Ecluses Fonserannes Canal du Midi UNESCO panorama sunset' },
+  { slug: 'sete',          query: 'Sete France Venice of Languedoc canals Mont Saint-Clair Cimetiere Marin Pointe Courte Etang de Thau Mediterranean panorama sunset' },
   { slug: 'kaunas',        query: 'Kaunas Lithuania Old Town Town Hall Pažaislis Monastery Modernist UNESCO Laisvės Alėja panorama sunset' },
   { slug: 'regensburg',    query: 'Regensburg Germany Steinerne Brucke stone bridge Cathedral Danube UNESCO old town panorama sunset' },
   { slug: 'poznan',        query: 'Poznan Poland Stary Rynek Old Market Square Town Hall colorful tenements Renaissance panorama sunset' },

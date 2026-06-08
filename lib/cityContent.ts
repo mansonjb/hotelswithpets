@@ -6134,6 +6134,139 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  calais: {
+    history: {
+      fr: `Port de pêche et de commerce sur la Manche, Calais entre dans l'histoire en 1347, lorsque le siège d'un an mené par Édouard III s'achève : six notables, les Bourgeois de Calais immortalisés plus tard par Rodin, s'offrent en sacrifice pour sauver la ville. Les Anglais tiendront Calais plus de deux siècles, jusqu'en 1558. La dentelle fait sa prospérité au XIXe siècle (Cité de la Dentelle). Rasée pendant la Seconde Guerre mondiale puis reconstruite autour de son beffroi classé à l'UNESCO, Calais est aujourd'hui la première porte transmanche d'Europe continentale, avec ses ferries vers Douvres et l'Eurotunnel Le Shuttle. C'est la première ou la dernière étape française d'innombrables voyageurs roulant entre le Royaume-Uni et le continent, chiens compris.`,
+      en: `A Channel fishing and trading port, Calais entered history in 1347, when Edward III's year-long siege ended as six leading citizens (the Burghers of Calais, later immortalised by Rodin) offered their lives to spare the town. The English held Calais for over two centuries, until 1558. Lace-making brought prosperity in the 19th century (the Cité de la Dentelle). Flattened in the Second World War and rebuilt around its UNESCO-listed belfry, Calais is today continental Europe's busiest cross-Channel gateway, with ferries to Dover and the Eurotunnel Le Shuttle. It is the first or last French stop for countless travellers driving between the UK and the continent, dogs included.`,
+      es: `Puerto pesquero y comercial del canal de la Mancha, Calais entró en la historia en 1347, cuando el asedio de un año de Eduardo III terminó: seis notables, los Burgueses de Calais inmortalizados más tarde por Rodin, se ofrecieron en sacrificio para salvar la ciudad. Los ingleses mantuvieron Calais más de dos siglos, hasta 1558. El encaje trajo prosperidad en el siglo XIX (la Cité de la Dentelle). Arrasada en la Segunda Guerra Mundial y reconstruida en torno a su campanario declarado Patrimonio de la Humanidad, Calais es hoy la principal puerta transmanche de la Europa continental, con ferries a Dover y el Eurotunnel Le Shuttle. Es la primera o la última parada francesa de innumerables viajeros que cruzan entre el Reino Unido y el continente, perros incluidos.`,
+      pt: `Porto piscatório e comercial do canal da Mancha, Calais entrou na história em 1347, quando o cerco de um ano de Eduardo III terminou: seis notáveis, os Burgueses de Calais mais tarde imortalizados por Rodin, ofereceram-se em sacrifício para salvar a cidade. Os ingleses mantiveram Calais mais de dois séculos, até 1558. A renda trouxe prosperidade no século XIX (a Cité de la Dentelle). Arrasada na Segunda Guerra Mundial e reconstruída em torno do seu campanário classificado pela UNESCO, Calais é hoje a principal porta transmancha da Europa continental, com ferries para Dover e o Eurotunnel Le Shuttle. É a primeira ou a última paragem francesa de inúmeros viajantes que atravessam entre o Reino Unido e o continente, cães incluídos.`,
+    },
+    sights: [
+      {
+        name: 'Beffroi de l\'Hôtel de Ville',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Ce beffroi de 75 mètres, classé au patrimoine mondial de l'UNESCO, domine la Place du Soldat Inconnu. Les chiens en laisse peuvent flâner sur la place et dans les jardins ; l'intérieur ne se visite pas avec un animal.`,
+          en: `This 75-metre belfry, listed by UNESCO, towers over Place du Soldat Inconnu. Leashed dogs can wander the square and gardens; the interior cannot be visited with a pet.`,
+          es: `Este campanario de 75 metros, declarado Patrimonio de la Humanidad, domina la Place du Soldat Inconnu. Los perros con correa pueden pasear por la plaza y los jardines; el interior no se visita con animales.`,
+          pt: `Este campanário de 75 metros, classificado pela UNESCO, domina a Place du Soldat Inconnu. Os cães com trela podem passear pela praça e jardins; o interior não se visita com animais.`,
+        },
+      },
+      {
+        name: 'Les Bourgeois de Calais',
+        emoji: '🗿',
+        petFriendly: true,
+        desc: {
+          fr: `Le célèbre bronze d'Auguste Rodin, devant l'Hôtel de Ville, commémore le sacrifice de 1347. Le monument se contemple en plein air avec un chien en laisse, un incontournable de toute visite.`,
+          en: `Auguste Rodin's famous bronze, in front of the Hôtel de Ville, commemorates the 1347 sacrifice. The monument is viewed outdoors with a dog on the lead, a must-see of any visit.`,
+          es: `El famoso bronce de Auguste Rodin, frente al Hôtel de Ville, conmemora el sacrificio de 1347. El monumento se contempla al aire libre con el perro con correa, una visita imprescindible.`,
+          pt: `O famoso bronze de Auguste Rodin, em frente ao Hôtel de Ville, comemora o sacrifício de 1347. O monumento contempla-se ao ar livre com o cão com trela, uma visita imprescindível.`,
+        },
+      },
+      {
+        name: 'Parc Saint-Pierre',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Ce parc central face à l'Hôtel de Ville, avec ses pelouses et son mémorial de la Première Guerre mondiale, est le poumon vert du centre. Les chiens en laisse y sont les bienvenus, idéal pour se dégourdir avant un ferry.`,
+          en: `This central park facing the Hôtel de Ville, with its lawns and First World War memorial, is the green lung of the centre. Leashed dogs are welcome, ideal for a stretch before a ferry.`,
+          es: `Este parque central frente al Hôtel de Ville, con sus céspedes y su memorial de la Primera Guerra Mundial, es el pulmón verde del centro. Los perros con correa son bienvenidos, ideal para estirar las patas antes de un ferry.`,
+          pt: `Este parque central em frente ao Hôtel de Ville, com os seus relvados e o memorial da Primeira Guerra Mundial, é o pulmão verde do centro. Os cães com trela são bem-vindos, ideal para esticar as pernas antes de um ferry.`,
+        },
+      },
+      {
+        name: 'Cap Blanc-Nez',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Ces falaises de craie du Grand Site des Deux Caps offrent des sentiers panoramiques sur la Manche, par temps clair on aperçoit l'Angleterre. Les chiens en laisse sont admis sur les chemins ; restez loin du bord et des oiseaux nicheurs.`,
+          en: `These chalk cliffs of the Grand Site des Deux Caps offer panoramic trails over the Channel; on a clear day you can see England. Leashed dogs are allowed on the paths; keep away from the edge and nesting birds.`,
+          es: `Estos acantilados de creta del Grand Site des Deux Caps ofrecen senderos panorámicos sobre el canal; en un día despejado se ve Inglaterra. Los perros con correa pueden ir por los caminos; mantente lejos del borde y de las aves nidificantes.`,
+          pt: `Estas falésias de greda do Grand Site des Deux Caps oferecem trilhos panorâmicos sobre o canal; num dia limpo vê-se Inglaterra. Os cães com trela são admitidos nos caminhos; mantenha-se longe da borda e das aves nidificantes.`,
+        },
+      },
+      {
+        name: 'Tour du Guet',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `Cette tour de guet médiévale, l'un des plus anciens monuments de Calais, se dresse sur la Place d'Armes au cœur du Calais-Nord. On la découvre lors d'une balade en laisse dans le quartier reconstruit.`,
+          en: `This medieval watchtower, one of Calais's oldest monuments, stands on Place d'Armes in the heart of Calais-Nord. Discover it on a leashed walk through the rebuilt quarter.`,
+          es: `Esta torre de vigilancia medieval, uno de los monumentos más antiguos de Calais, se alza en la Place d'Armes en el corazón de Calais-Nord. Se descubre en un paseo con correa por el barrio reconstruido.`,
+          pt: `Esta torre de vigia medieval, um dos monumentos mais antigos de Calais, ergue-se na Place d'Armes no coração de Calais-Nord. Descobre-se num passeio com trela pelo bairro reconstruído.`,
+        },
+      },
+      {
+        name: 'Plage de Calais',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Cette large plage de sable, prolongée par la digue et la promenade du front de mer, s'étend à l'ouest du centre sous le phare. Les chiens en laisse y sont admis hors des heures et zones réglementées en été, vérifiez l'arrêté municipal saisonnier.`,
+          en: `This wide sandy beach, extended by the seawall and seafront promenade, unwinds west of the centre below the lighthouse. Leashed dogs are allowed outside regulated summer hours and zones, check the seasonal municipal bylaw.`,
+          es: `Esta amplia playa de arena, prolongada por el dique y el paseo marítimo, se extiende al oeste del centro bajo el faro. Los perros con correa se admiten fuera de las horas y zonas reguladas en verano, consulta el bando municipal estacional.`,
+          pt: `Esta ampla praia de areia, prolongada pelo dique e pelo passeio marítimo, estende-se a oeste do centro sob o farol. Os cães com trela são admitidos fora das horas e zonas reguladas no verão, consulte o edital municipal sazonal.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `L'Eurotunnel Le Shuttle est la traversée la plus simple avec un chien : l'animal reste dans votre voiture pendant les 35 minutes, sans cage ni soute.`,
+        `Sur les ferries (DFDS, P&O, Irish Ferries) vers Douvres, les chiens voyagent en chenil de bord ou en cabine pet-friendly selon la compagnie : réservez l'option animal à l'avance.`,
+        `Retour vers le Royaume-Uni : un Animal Health Certificate (délivré au UK) ou un traitement anti-échinocoque 24 à 120 h avant l'arrivée est obligatoire ; pour le continent, le passeport européen suffit.`,
+        `Les documents de l'animal sont contrôlés à l'embarquement ferry et à l'Eurotunnel : un dossier non tamponné ou expiré et le chien ne peut pas embarquer.`,
+        `Beaucoup d'hôtels se concentrent près du terminal des ferries et de l'Eurotunnel pour les traversées matinales : réservez une chambre acceptant les animaux tôt en été.`,
+      ],
+      en: [
+        `The Eurotunnel Le Shuttle is the simplest crossing with a dog: your pet stays in your car for the 35 minutes, with no crate or hold.`,
+        `On ferries (DFDS, P&O, Irish Ferries) to Dover, dogs travel in onboard kennels or pet-friendly cabins depending on the operator: book the pet option in advance.`,
+        `Returning to the UK: an Animal Health Certificate (issued in the UK) or tapeworm treatment 24 to 120 hours before arrival is mandatory; for the continent, the EU pet passport is enough.`,
+        `Pet documents are checked at ferry and Eurotunnel boarding: an unstamped or expired record means the dog cannot board.`,
+        `Many hotels cluster near the ferry terminal and Eurotunnel for early crossings: book a pet-friendly room early in summer.`,
+      ],
+      es: [
+        `El Eurotunnel Le Shuttle es la travesía más sencilla con un perro: el animal permanece en tu coche durante los 35 minutos, sin transportín ni bodega.`,
+        `En los ferries (DFDS, P&O, Irish Ferries) a Dover, los perros viajan en perreras de a bordo o en camarotes pet-friendly según la compañía: reserva la opción mascota con antelación.`,
+        `Regreso al Reino Unido: es obligatorio un Animal Health Certificate (emitido en el UK) o un tratamiento antiequinococo de 24 a 120 h antes de la llegada; para el continente basta el pasaporte europeo.`,
+        `Los documentos del animal se controlan al embarcar en el ferry y en el Eurotunnel: un registro sin sellar o caducado y el perro no puede embarcar.`,
+        `Muchos hoteles se concentran cerca del terminal de ferries y del Eurotunnel para las travesías matinales: reserva una habitación que admita mascotas pronto en verano.`,
+      ],
+      pt: [
+        `O Eurotunnel Le Shuttle é a travessia mais simples com um cão: o animal permanece no seu carro durante os 35 minutos, sem transportadora nem porão.`,
+        `Nos ferries (DFDS, P&O, Irish Ferries) para Dover, os cães viajam em canis de bordo ou em camarotes pet-friendly conforme a companhia: reserve a opção animal com antecedência.`,
+        `Regresso ao Reino Unido: é obrigatório um Animal Health Certificate (emitido no UK) ou um tratamento antiequinococo 24 a 120 h antes da chegada; para o continente basta o passaporte europeu.`,
+        `Os documentos do animal são controlados no embarque do ferry e no Eurotunnel: um registo não carimbado ou expirado e o cão não pode embarcar.`,
+        `Muitos hotéis concentram-se perto do terminal dos ferries e do Eurotunnel para as travessias matinais: reserve um quarto que aceite animais cedo no verão.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire de jour : Clinique Vétérinaire des Salines, 11 place Crèvecoeur, +33 3 21 00 71 00`,
+        `Garde hors heures : Maison des Urgences Vétérinaires, +33 3 59 72 20 20 (ou le 3115, numéro national de garde)`,
+        `Hôpital de référence 24h/24 : CHV AniCura Nordvet, La Madeleine près de Lille (≈1h15 par l'A26), +33 3 20 51 00 66`,
+        `Retour UK : Animal Health Certificate obligatoire ; passeport européen pour le continent ; documents contrôlés à l'embarquement ferry / Eurotunnel`,
+      ],
+      en: [
+        `Daytime vet: Clinique Vétérinaire des Salines, 11 place Crèvecoeur, +33 3 21 00 71 00`,
+        `After-hours duty line: Maison des Urgences Vétérinaires, +33 3 59 72 20 20 (or 3115, the national duty number)`,
+        `24/7 referral hospital: CHV AniCura Nordvet, La Madeleine near Lille (~1h15 via the A26), +33 3 20 51 00 66`,
+        `UK return: Animal Health Certificate required; EU passport for the continent; documents checked at ferry / Eurotunnel boarding`,
+      ],
+      es: [
+        `Veterinario de día: Clinique Vétérinaire des Salines, 11 place Crèvecoeur, +33 3 21 00 71 00`,
+        `Guardia fuera de horario: Maison des Urgences Vétérinaires, +33 3 59 72 20 20 (o el 3115, número nacional de guardia)`,
+        `Hospital de referencia 24h: CHV AniCura Nordvet, La Madeleine cerca de Lille (~1h15 por la A26), +33 3 20 51 00 66`,
+        `Regreso UK: Animal Health Certificate obligatorio; pasaporte europeo para el continente; documentos controlados al embarcar ferry / Eurotunnel`,
+      ],
+      pt: [
+        `Veterinário de dia: Clinique Vétérinaire des Salines, 11 place Crèvecoeur, +33 3 21 00 71 00`,
+        `Urgência fora de horas: Maison des Urgences Vétérinaires, +33 3 59 72 20 20 (ou o 3115, número nacional de urgência)`,
+        `Hospital de referência 24h: CHV AniCura Nordvet, La Madeleine perto de Lille (~1h15 pela A26), +33 3 20 51 00 66`,
+        `Regresso UK: Animal Health Certificate obrigatório; passaporte europeu para o continente; documentos controlados no embarque ferry / Eurotunnel`,
+      ],
+    },
+  },
+
   cambridge: {
     history: {
       fr: `Cambridge, fondée vers le IXe siècle au gué (cam-bridge) sur la rivière Cam, doit sa célébrité mondiale à son université, fondée en 1209 par des clercs ayant fui Oxford. Au fil des siècles, 31 colleges se sont édifiés sur les Backs, les pelouses riveraines qui forment la vue signature de la ville, entre King's College Chapel (achevée en 1547, gothique perpendiculaire), Trinity College (où enseigna Newton) et St John's. Plus que sa rivale Oxford, Cambridge a conservé un cœur médiéval compact entouré de communaux ouverts (Jesus Green, Midsummer Common, Coe Fen, Sheep's Green) où le bétail pâture encore l'été. Pour les voyageurs avec un chien, c'est l'un des city-breaks britanniques les plus accessibles : centre marchable en 25 min, vastes prés sans laisse à 5 min des colleges, pubs et terrasses tolérants par défaut, et trains Greater Anglia directs depuis London King's Cross en 50 min.`,
@@ -20457,26 +20590,26 @@ const cityContent: Record<string, CityContent> = {
     },
     practicalInfo: {
       fr: [
-        `Vétérinaire en centre-ville : Clinica Veterinaria Sorrento, Via degli Aranci 158, +39 081 807 3245`,
-        `Urgences 24h/24 (référence régionale) : Ospedale Veterinario CMV, Naples (50 km par l'A3), +39 081 593 0640`,
+        `Vétérinaire en centre-ville : Ambulatorio Veterinario Gli Amici del Cuore, Via degli Aranci 31, +39 081 362 2147`,
+        `Urgences 24h/24 (référence régionale) : Ospedale Veterinario Universitario (Pronto Soccorso H24), Naples (50 km par l'A3), +39 081 253 6088`,
         `Passeport animalier européen accepté ; pas de quarantaine pour les animaux de l'UE`,
         `Accès : aéroport de Naples (NAP, 50 km) puis Circumvesuviana ou bus Curreri jusqu'à Sorrente`,
       ],
       en: [
-        `City-centre vet: Clinica Veterinaria Sorrento, Via degli Aranci 158, +39 081 807 3245`,
-        `24/7 emergency (regional referral): Ospedale Veterinario CMV, Naples (50 km via the A3), +39 081 593 0640`,
+        `City-centre vet: Ambulatorio Veterinario Gli Amici del Cuore, Via degli Aranci 31, +39 081 362 2147`,
+        `24/7 emergency (regional referral): Ospedale Veterinario Universitario (Pronto Soccorso H24), Naples (50 km via the A3), +39 081 253 6088`,
         `EU pet passport accepted; no quarantine for EU pets`,
         `Getting there: Naples airport (NAP, 50 km) then the Circumvesuviana railway or Curreri bus to Sorrento`,
       ],
       es: [
-        `Veterinario en el centro: Clinica Veterinaria Sorrento, Via degli Aranci 158, +39 081 807 3245`,
-        `Urgencias 24h (referencia regional): Ospedale Veterinario CMV, Nápoles (50 km por la A3), +39 081 593 0640`,
+        `Veterinario en el centro: Ambulatorio Veterinario Gli Amici del Cuore, Via degli Aranci 31, +39 081 362 2147`,
+        `Urgencias 24h (referencia regional): Ospedale Veterinario CMV, Nápoles (50 km por la A3), +39 081 253 6088`,
         `Pasaporte europeo de mascotas aceptado; sin cuarentena para animales de la UE`,
         `Cómo llegar: aeropuerto de Nápoles (NAP, 50 km) y luego el tren Circumvesuviana o el autobús Curreri hasta Sorrento`,
       ],
       pt: [
-        `Veterinário no centro: Clinica Veterinaria Sorrento, Via degli Aranci 158, +39 081 807 3245`,
-        `Urgências 24h (referência regional): Ospedale Veterinario CMV, Nápoles (50 km pela A3), +39 081 593 0640`,
+        `Veterinário no centro: Ambulatorio Veterinario Gli Amici del Cuore, Via degli Aranci 31, +39 081 362 2147`,
+        `Urgências 24h (referência regional): Ospedale Veterinario CMV, Nápoles (50 km pela A3), +39 081 253 6088`,
         `Passaporte europeu para animais aceite; sem quarentena para animais da UE`,
         `Como chegar: aeroporto de Nápoles (NAP, 50 km) e depois o comboio Circumvesuviana ou o autocarro Curreri até Sorrento`,
       ],

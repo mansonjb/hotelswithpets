@@ -71,7 +71,7 @@
           "name": "Au Côte d'Argent",
           "address": "1 Digue Gaston Berthe, 62100 Calais",
           "neighborhood": "Front de mer / Plage de Calais",
-          "photo": "/images/city-places/calais-restaurants-cote-argent.jpg",
+          "photo": "/images/city-places/calais-restaurants-au-cote-d-argent.jpg",
           "website": "https://www.cotedargent.com/",
           "description": "A seafront brasserie on the Digue Gaston Berthe directly above the Plage de Calais, with a wide glassed terrace looking out to the white cliffs of Dover on clear days. Specialises in moules-frites, North Sea catch and Channel oysters. Leashed dogs welcome on the heated terrace year-round.",
           "descriptionFr": "Brasserie de front de mer sur la Digue Gaston Berthe directement au-dessus de la Plage de Calais, avec une large terrasse vitrée tournée vers les falaises blanches de Douvres par temps clair. Spécialisée dans les moules-frites, la pêche de la mer du Nord et les huîtres de la Manche. Chiens en laisse bienvenus sur la terrasse chauffée toute l'année.",
@@ -115,24 +115,60 @@
         "As esplanadas da Place d'Armes e do Boulevard Jacquard viram-se a oeste e apanham a luz de fim de tarde sobre o Canal; chegue antes das 18:00 no verão para o pôr-do-sol sobre a Tour du Guet medieval."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside Calais restaurants?", "a": "Leashed dogs are welcome at virtually every brasserie terrace and inside most informal bistros. Formal Michelin-listed dining rooms (Le Channel) restrict dogs to the heated terrace; assistance dogs go anywhere."},
-        {"q": "Do Calais restaurants speak English?", "a": "Yes, almost universally; Calais sees the highest UK visitor volume of any French city after Paris thanks to the Dover ferry and Eurotunnel Le Shuttle crossings, and brasserie staff are fluent."},
-        {"q": "Where can I eat with a sea view and a dog?", "a": "Au Côte d'Argent on the Digue Gaston Berthe directly above the Plage de Calais has a heated glassed terrace looking out to the Dover white cliffs on clear days; the local first-stop after a ferry arrival."}
+        {
+          "q": "Are dogs allowed inside Calais restaurants?",
+          "a": "Leashed dogs are welcome at virtually every brasserie terrace and inside most informal bistros. Formal Michelin-listed dining rooms (Le Channel) restrict dogs to the heated terrace; assistance dogs go anywhere."
+        },
+        {
+          "q": "Do Calais restaurants speak English?",
+          "a": "Yes, almost universally; Calais sees the highest UK visitor volume of any French city after Paris thanks to the Dover ferry and Eurotunnel Le Shuttle crossings, and brasserie staff are fluent."
+        },
+        {
+          "q": "Where can I eat with a sea view and a dog?",
+          "a": "Au Côte d'Argent on the Digue Gaston Berthe directly above the Plage de Calais has a heated glassed terrace looking out to the Dover white cliffs on clear days; the local first-stop after a ferry arrival."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Calais ?", "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de brasserie et à l'intérieur de la plupart des bistrots informels. Les salles formelles référencées Michelin (Le Channel) restreignent les chiens à la terrasse chauffée ; les chiens d'assistance vont partout."},
-        {"q": "Les restaurants de Calais parlent-ils anglais ?", "a": "Oui, presque universellement ; Calais reçoit le plus fort volume de visiteurs UK de toute ville française après Paris grâce aux traversées ferry Douvres et Eurotunnel Le Shuttle, et le personnel des brasseries est bilingue."},
-        {"q": "Où manger avec vue mer et un chien ?", "a": "Au Côte d'Argent sur la Digue Gaston Berthe directement au-dessus de la Plage de Calais possède une terrasse vitrée chauffée tournée vers les falaises blanches de Douvres par temps clair ; le premier arrêt local après une arrivée ferry."}
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Calais ?",
+          "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de brasserie et à l'intérieur de la plupart des bistrots informels. Les salles formelles référencées Michelin (Le Channel) restreignent les chiens à la terrasse chauffée ; les chiens d'assistance vont partout."
+        },
+        {
+          "q": "Les restaurants de Calais parlent-ils anglais ?",
+          "a": "Oui, presque universellement ; Calais reçoit le plus fort volume de visiteurs UK de toute ville française après Paris grâce aux traversées ferry Douvres et Eurotunnel Le Shuttle, et le personnel des brasseries est bilingue."
+        },
+        {
+          "q": "Où manger avec vue mer et un chien ?",
+          "a": "Au Côte d'Argent sur la Digue Gaston Berthe directement au-dessus de la Plage de Calais possède une terrasse vitrée chauffée tournée vers les falaises blanches de Douvres par temps clair ; le premier arrêt local après une arrivée ferry."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Calais?", "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas de brasserie y dentro de la mayoría de bistrós informales. Las salas formales listadas Michelin (Le Channel) restringen los perros a la terraza climatizada; los perros de asistencia van a cualquier sitio."},
-        {"q": "¿Los restaurantes de Calais hablan inglés?", "a": "Sí, casi universalmente; Calais recibe el mayor volumen de visitantes UK de toda ciudad francesa después de París gracias a las travesías ferry de Dover y Eurotunnel Le Shuttle, y el personal de brasseries es bilingüe."},
-        {"q": "¿Dónde comer con vista al mar y un perro?", "a": "Au Côte d'Argent en la Digue Gaston Berthe directamente sobre la Plage de Calais tiene una terraza acristalada climatizada mirando a los acantilados blancos de Dover en días claros; la primera parada local tras una llegada en ferry."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Calais?",
+          "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas de brasserie y dentro de la mayoría de bistrós informales. Las salas formales listadas Michelin (Le Channel) restringen los perros a la terraza climatizada; los perros de asistencia van a cualquier sitio."
+        },
+        {
+          "q": "¿Los restaurantes de Calais hablan inglés?",
+          "a": "Sí, casi universalmente; Calais recibe el mayor volumen de visitantes UK de toda ciudad francesa después de París gracias a las travesías ferry de Dover y Eurotunnel Le Shuttle, y el personal de brasseries es bilingüe."
+        },
+        {
+          "q": "¿Dónde comer con vista al mar y un perro?",
+          "a": "Au Côte d'Argent en la Digue Gaston Berthe directamente sobre la Plage de Calais tiene una terraza acristalada climatizada mirando a los acantilados blancos de Dover en días claros; la primera parada local tras una llegada en ferry."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos dentro dos restaurantes de Calais?", "a": "Os cães com trela são bem-vindos em praticamente todas as esplanadas de brasserie e dentro da maioria dos bistrôs informais. As salas formais listadas Michelin (Le Channel) restringem os cães à esplanada aquecida; os cães de assistência vão a qualquer lugar."},
-        {"q": "Os restaurantes de Calais falam inglês?", "a": "Sim, quase universalmente; Calais recebe o maior volume de visitantes UK de qualquer cidade francesa depois de Paris graças às travessias ferry de Dover e Eurotunnel Le Shuttle, e o pessoal das brasseries é bilingue."},
-        {"q": "Onde comer com vista para o mar e um cão?", "a": "Au Côte d'Argent na Digue Gaston Berthe directamente acima da Plage de Calais tem uma esplanada envidraçada aquecida virada para as falésias brancas de Dover em dias claros; a primeira paragem local após uma chegada de ferry."}
+        {
+          "q": "Os cães são admitidos dentro dos restaurantes de Calais?",
+          "a": "Os cães com trela são bem-vindos em praticamente todas as esplanadas de brasserie e dentro da maioria dos bistrôs informais. As salas formais listadas Michelin (Le Channel) restringem os cães à esplanada aquecida; os cães de assistência vão a qualquer lugar."
+        },
+        {
+          "q": "Os restaurantes de Calais falam inglês?",
+          "a": "Sim, quase universalmente; Calais recebe o maior volume de visitantes UK de qualquer cidade francesa depois de Paris graças às travessias ferry de Dover e Eurotunnel Le Shuttle, e o pessoal das brasseries é bilingue."
+        },
+        {
+          "q": "Onde comer com vista para o mar e um cão?",
+          "a": "Au Côte d'Argent na Digue Gaston Berthe directamente acima da Plage de Calais tem uma esplanada envidraçada aquecida virada para as falésias brancas de Dover em dias claros; a primeira paragem local após uma chegada de ferry."
+        }
       ]
     },
     "parks": {
@@ -149,7 +185,7 @@
           "name": "Parc Richelieu",
           "address": "Rue Richelieu, 62100 Calais",
           "neighborhood": "Calais-Nord / centre",
-          "photo": "/images/city-places/calais-parks-richelieu.jpg",
+          "photo": "/images/city-places/calais-parks-parc-richelieu.jpg",
           "website": "https://www.calais.fr/",
           "description": "A 4-hectare formal English-style park in the heart of Calais-Nord, with mature plane and chestnut trees, formal flower beds, gravel walks, a bandstand, and a small pond. The park is fully fenced and gated, opens at 7:00 and closes at 21:00 in summer. Leashed dogs welcome year-round on the paths.",
           "descriptionFr": "Parc formel à l'anglaise de 4 hectares au cœur de Calais-Nord, avec platanes et marronniers centenaires, parterres de fleurs, allées de gravier, kiosque à musique, et un petit étang. Le parc est entièrement clôturé et fermé par grilles, ouvre à 7h et ferme à 21h en été. Chiens en laisse bienvenus toute l'année sur les allées.",
@@ -175,7 +211,7 @@
           "name": "Parc Saint-Pierre",
           "address": "Boulevard Léon Gambetta, 62100 Calais",
           "neighborhood": "Saint-Pierre / Hôtel de Ville",
-          "photo": "/images/city-places/calais-parks-saint-pierre.jpg",
+          "photo": "/images/city-places/calais-parks-parc-saint-pierre.jpg",
           "website": "https://www.calais.fr/",
           "description": "A 6-hectare landscaped park behind the Hôtel de Ville Flemish-Renaissance belfry, with mature trees, formal lawns, a war memorial garden, a small lake and several First World War German blockhouses preserved in situ (the Calais Town Hall sector was held by German forces until 30 September 1944). Leashed dogs welcome year-round on all paths.",
           "descriptionFr": "Parc paysager de 6 hectares derrière le beffroi flamand-Renaissance de l'Hôtel de Ville, avec arbres centenaires, pelouses formelles, jardin-mémorial de guerre, un petit lac et plusieurs blockhaus allemands de la Première Guerre mondiale conservés in situ (le secteur de l'Hôtel de Ville de Calais a été tenu par les forces allemandes jusqu'au 30 septembre 1944). Chiens en laisse bienvenus toute l'année sur toutes les allées.",
@@ -201,7 +237,7 @@
           "name": "Grand Site Cap Blanc-Nez / Cap Gris-Nez",
           "address": "Site des Deux Caps, 62179 Escalles",
           "neighborhood": "Côte d'Opale (35 km west of Calais)",
-          "photo": "/images/city-places/calais-parks-cap-blanc-nez.jpg",
+          "photo": "/images/city-places/calais-parks-grand-site-cap-blanc-nez-cap-gris-nez.jpg",
           "website": "https://www.lesdeuxcaps.fr/",
           "description": "A Grand Site de France labelled chalk-cliff landscape stretching from Cap Blanc-Nez (134 m white chalk headland directly facing the Dover white cliffs across 35 km of Channel water) to Cap Gris-Nez (45 m grey sandstone bluff at the closest point of continental Europe to Britain), with marked GR120 trails, vast unfenced grassland on the clifftop and direct views of the busiest shipping lane on the planet. Leashed dogs welcome year-round on all trails.",
           "descriptionFr": "Paysage de falaises crayeuses labellisé Grand Site de France s'étendant du Cap Blanc-Nez (promontoire de craie blanche de 134 m directement face aux falaises blanches de Douvres à travers 35 km de mer de la Manche) au Cap Gris-Nez (45 m de grès gris au point le plus proche de l'Europe continentale du Royaume-Uni), avec sentiers balisés GR120, vaste prairie non clôturée en haut de falaise et vues directes sur le rail maritime le plus fréquenté de la planète. Chiens en laisse bienvenus toute l'année sur tous les sentiers.",
@@ -245,24 +281,60 @@
         "O Parc Richelieu e o Parc Saint-Pierre estão a 10 minutos a pé através de Calais-Nord; combine ambos para um circuito plano de 4 km com a subida ao campanário do Hôtel de Ville entre eles."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in Parc Richelieu and Parc Saint-Pierre?", "a": "Yes, leashed dogs are welcome on all paths in both parks year-round. Off-leash is not permitted inside city parks; for off-leash freedom head to the Cap Blanc-Nez clifftop grassland 35 km west outside nesting season."},
-        {"q": "Is there an off-leash dog park in Calais?", "a": "Calais does not have a fully fenced off-leash park inside city limits; locals drive 35 km west to the Cap Blanc-Nez clifftop grassland or use the off-season Plage de Calais for off-leash freedom outside summer lifeguard season."},
-        {"q": "Where are the best chalk cliff walks near Calais?", "a": "The Grand Site Cap Blanc-Nez / Cap Gris-Nez 35 km west on the Côte d'Opale offers the GR120 clifftop trail along chalk and grey-sandstone bluffs with direct views of the Dover white cliffs and the busiest shipping lane on the planet."}
+        {
+          "q": "Are dogs allowed in Parc Richelieu and Parc Saint-Pierre?",
+          "a": "Yes, leashed dogs are welcome on all paths in both parks year-round. Off-leash is not permitted inside city parks; for off-leash freedom head to the Cap Blanc-Nez clifftop grassland 35 km west outside nesting season."
+        },
+        {
+          "q": "Is there an off-leash dog park in Calais?",
+          "a": "Calais does not have a fully fenced off-leash park inside city limits; locals drive 35 km west to the Cap Blanc-Nez clifftop grassland or use the off-season Plage de Calais for off-leash freedom outside summer lifeguard season."
+        },
+        {
+          "q": "Where are the best chalk cliff walks near Calais?",
+          "a": "The Grand Site Cap Blanc-Nez / Cap Gris-Nez 35 km west on the Côte d'Opale offers the GR120 clifftop trail along chalk and grey-sandstone bluffs with direct views of the Dover white cliffs and the busiest shipping lane on the planet."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés au Parc Richelieu et au Parc Saint-Pierre ?", "a": "Oui, les chiens en laisse sont bienvenus sur toutes les allées des deux parcs toute l'année. Le lâcher n'est pas autorisé dans les parcs urbains ; pour la liberté sans laisse, rendez-vous sur la prairie sommitale du Cap Blanc-Nez à 35 km à l'ouest hors saison de nidification."},
-        {"q": "Y a-t-il un parc canin sans laisse à Calais ?", "a": "Calais n'a pas de parc sans laisse entièrement clôturé dans le périmètre urbain ; les locaux roulent 35 km à l'ouest jusqu'à la prairie sommitale du Cap Blanc-Nez ou utilisent la Plage de Calais hors saison pour la liberté sans laisse hors saison de surveillance estivale."},
-        {"q": "Où sont les meilleures balades en haut de falaise crayeuse près de Calais ?", "a": "Le Grand Site Cap Blanc-Nez / Cap Gris-Nez à 35 km à l'ouest sur la Côte d'Opale offre le sentier GR120 en haut de falaise le long des bluffs de craie et de grès gris avec vues directes sur les falaises blanches de Douvres et le rail maritime le plus fréquenté de la planète."}
+        {
+          "q": "Les chiens sont-ils autorisés au Parc Richelieu et au Parc Saint-Pierre ?",
+          "a": "Oui, les chiens en laisse sont bienvenus sur toutes les allées des deux parcs toute l'année. Le lâcher n'est pas autorisé dans les parcs urbains ; pour la liberté sans laisse, rendez-vous sur la prairie sommitale du Cap Blanc-Nez à 35 km à l'ouest hors saison de nidification."
+        },
+        {
+          "q": "Y a-t-il un parc canin sans laisse à Calais ?",
+          "a": "Calais n'a pas de parc sans laisse entièrement clôturé dans le périmètre urbain ; les locaux roulent 35 km à l'ouest jusqu'à la prairie sommitale du Cap Blanc-Nez ou utilisent la Plage de Calais hors saison pour la liberté sans laisse hors saison de surveillance estivale."
+        },
+        {
+          "q": "Où sont les meilleures balades en haut de falaise crayeuse près de Calais ?",
+          "a": "Le Grand Site Cap Blanc-Nez / Cap Gris-Nez à 35 km à l'ouest sur la Côte d'Opale offre le sentier GR120 en haut de falaise le long des bluffs de craie et de grès gris avec vues directes sur les falaises blanches de Douvres et le rail maritime le plus fréquenté de la planète."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en el Parc Richelieu y el Parc Saint-Pierre?", "a": "Sí, los perros con correa son bienvenidos en todos los paseos de ambos parques todo el año. La suelta no está permitida dentro de los parques urbanos; para la libertad sin correa ve a la pradera de la cima del Cap Blanc-Nez a 35 km al oeste fuera de la temporada de nidificación."},
-        {"q": "¿Hay un parque canino sin correa en Calais?", "a": "Calais no tiene un parque sin correa enteramente vallado dentro del perímetro urbano; los locales conducen 35 km al oeste hasta la pradera de la cima del Cap Blanc-Nez o usan la Plage de Calais fuera de temporada para la libertad sin correa fuera de la temporada de vigilancia estival."},
-        {"q": "¿Dónde están los mejores paseos por acantilados calizos cerca de Calais?", "a": "El Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km al oeste en la Côte d'Opale ofrece el sendero GR120 en lo alto del acantilado a lo largo de los bluffs de caliza y arenisca gris con vistas directas a los acantilados blancos de Dover y la ruta marítima más concurrida del planeta."}
+        {
+          "q": "¿Se admiten perros en el Parc Richelieu y el Parc Saint-Pierre?",
+          "a": "Sí, los perros con correa son bienvenidos en todos los paseos de ambos parques todo el año. La suelta no está permitida dentro de los parques urbanos; para la libertad sin correa ve a la pradera de la cima del Cap Blanc-Nez a 35 km al oeste fuera de la temporada de nidificación."
+        },
+        {
+          "q": "¿Hay un parque canino sin correa en Calais?",
+          "a": "Calais no tiene un parque sin correa enteramente vallado dentro del perímetro urbano; los locales conducen 35 km al oeste hasta la pradera de la cima del Cap Blanc-Nez o usan la Plage de Calais fuera de temporada para la libertad sin correa fuera de la temporada de vigilancia estival."
+        },
+        {
+          "q": "¿Dónde están los mejores paseos por acantilados calizos cerca de Calais?",
+          "a": "El Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km al oeste en la Côte d'Opale ofrece el sendero GR120 en lo alto del acantilado a lo largo de los bluffs de caliza y arenisca gris con vistas directas a los acantilados blancos de Dover y la ruta marítima más concurrida del planeta."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos no Parc Richelieu e no Parc Saint-Pierre?", "a": "Sim, os cães com trela são bem-vindos em todas as alamedas de ambos os parques o ano inteiro. Sem trela não é permitido dentro dos parques urbanos; para liberdade sem trela vá à pradaria do topo do Cap Blanc-Nez a 35 km a oeste fora da época de nidificação."},
-        {"q": "Há um parque canino sem trela em Calais?", "a": "Calais não tem um parque sem trela inteiramente vedado dentro do perímetro urbano; os locais conduzem 35 km a oeste até à pradaria do topo do Cap Blanc-Nez ou usam a Plage de Calais fora de época para liberdade sem trela fora da época de vigilância estival."},
-        {"q": "Onde ficam os melhores passeios em falésias cretáceas perto de Calais?", "a": "O Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km a oeste na Côte d'Opale oferece o trilho GR120 no topo da falésia ao longo dos bluffs de cré e grés cinzento com vistas directas para as falésias brancas de Dover e a rota marítima mais movimentada do planeta."}
+        {
+          "q": "Os cães são admitidos no Parc Richelieu e no Parc Saint-Pierre?",
+          "a": "Sim, os cães com trela são bem-vindos em todas as alamedas de ambos os parques o ano inteiro. Sem trela não é permitido dentro dos parques urbanos; para liberdade sem trela vá à pradaria do topo do Cap Blanc-Nez a 35 km a oeste fora da época de nidificação."
+        },
+        {
+          "q": "Há um parque canino sem trela em Calais?",
+          "a": "Calais não tem um parque sem trela inteiramente vedado dentro do perímetro urbano; os locais conduzem 35 km a oeste até à pradaria do topo do Cap Blanc-Nez ou usam a Plage de Calais fora de época para liberdade sem trela fora da época de vigilância estival."
+        },
+        {
+          "q": "Onde ficam os melhores passeios em falésias cretáceas perto de Calais?",
+          "a": "O Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km a oeste na Côte d'Opale oferece o trilho GR120 no topo da falésia ao longo dos bluffs de cré e grés cinzento com vistas directas para as falésias brancas de Dover e a rota marítima mais movimentada do planeta."
+        }
       ]
     },
     "transport": {
@@ -279,7 +351,7 @@
           "name": "Port de Calais (P&O Ferries / DFDS Seaways / Irish Ferries to Dover)",
           "address": "Port de Calais, 62100 Calais",
           "neighborhood": "Port (north-east of centre)",
-          "photo": "/images/city-places/calais-transport-port-ferries.jpg",
+          "photo": "/images/city-places/calais-transport-port-de-calais-p-o-ferries-dfds-seaways-irish-ferries-to-dov.jpg",
           "website": "https://www.poferries.com/",
           "description": "The Port de Calais is the busiest passenger sea crossing in Europe, with P&O Ferries, DFDS Seaways and Irish Ferries running Dover-Calais up to 45 sailings per day; crossing 1h30. Foot passengers and car drivers travel with pets: dogs must be pre-booked, ride in the vehicle on the car deck (passengers cannot stay with the car during the crossing) or in a designated pet area for foot passengers; all dogs need a valid EU pet passport or UK Animal Health Certificate, microchip and rabies vaccination.",
           "descriptionFr": "Le Port de Calais est la traversée maritime passagers la plus fréquentée d'Europe, avec P&O Ferries, DFDS Seaways et Irish Ferries assurant Douvres-Calais jusqu'à 45 départs par jour ; traversée 1h30. Les piétons et les conducteurs voyagent avec leurs animaux : les chiens doivent être pré-réservés, voyagent dans le véhicule sur le pont auto (les passagers ne peuvent pas rester avec la voiture pendant la traversée) ou dans une zone animaux dédiée pour les piétons ; tous les chiens ont besoin d'un passeport européen valide ou d'un Animal Health Certificate UK, d'une puce et d'un vaccin antirabique.",
@@ -295,7 +367,7 @@
           "name": "Eurotunnel Le Shuttle (Coquelles to Folkestone)",
           "address": "Eurotunnel Terminal, 62231 Coquelles",
           "neighborhood": "Coquelles (5 km west of Calais)",
-          "photo": "/images/city-places/calais-transport-eurotunnel.jpg",
+          "photo": "/images/city-places/calais-transport-eurotunnel-le-shuttle-coquelles-to-folkestone.jpg",
           "website": "https://www.eurotunnel.com/",
           "description": "The Eurotunnel Le Shuttle car-train tunnel from Coquelles 5 km west of Calais centre, crossing under the Channel to Folkestone Terminal in 35 minutes (the actual undersea time is 26 minutes). Pets travel in your own car the entire trip: you stay with your dog, no kennel separation. EUR 26 per pet each way, EU passport or UK AHC required; the only cross-Channel mode where pets never leave their owner's vehicle.",
           "descriptionFr": "Le tunnel auto-train Eurotunnel Le Shuttle depuis Coquelles à 5 km à l'ouest du centre de Calais, traversant sous la Manche vers le Terminal de Folkestone en 35 minutes (temps réel sous-marin 26 minutes). Les animaux voyagent dans votre propre voiture tout le trajet : vous restez avec votre chien, pas de séparation en cage. 26 € par animal aller, passeport européen ou AHC UK exigé ; le seul mode transmanche où les animaux ne quittent jamais le véhicule du propriétaire.",
@@ -311,7 +383,7 @@
           "name": "Gare de Calais-Fréthun (TGV / Eurostar / TER)",
           "address": "Place de la Gare, 62185 Fréthun",
           "neighborhood": "Fréthun (10 km south-west of Calais)",
-          "photo": "/images/city-places/calais-transport-gare-frethun.jpg",
+          "photo": "/images/city-places/calais-transport-gare-de-calais-frethun-tgv-eurostar-ter.jpg",
           "website": "https://www.sncf-connect.com/",
           "description": "The Calais-Fréthun TGV / Eurostar station 10 km south-west of Calais centre, with direct TGV to Paris Gare du Nord (1h30), TER to Lille-Flandres (45 min) and Eurostar to London St Pancras (1h00). Small dogs in carriers travel SNCF EUR 7 flat-rate; large leashed muzzled dogs pay EUR 7 on TGV/TER. Eurostar accepts only assistance dogs in passenger cabins; pet dogs travel Dover-Folkestone on Le Shuttle or Calais-Dover by ferry.",
           "descriptionFr": "La gare TGV / Eurostar de Calais-Fréthun à 10 km au sud-ouest du centre de Calais, avec TGV direct vers Paris Gare du Nord (1h30), TER vers Lille-Flandres (45 min) et Eurostar vers Londres St Pancras (1h00). Petits chiens en cage voyagent SNCF 7 € forfait ; grands chiens en laisse muselés paient 7 € sur TGV/TER. Eurostar n'accepte que les chiens d'assistance dans les cabines passagers ; les chiens de compagnie voyagent Douvres-Folkestone par Le Shuttle ou Calais-Douvres par ferry.",
@@ -345,24 +417,60 @@
         "O Eurostar NÃO aceita cães de companhia em cabinas de passageiros; só cães de assistência. Levar um animal de Calais a Londres por comboio é impossível; use o Le Shuttle (carro necessário) ou o ferry combinado com um comboio UK posterior (animais admitidos nos comboios UK)."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog on the Dover-Calais ferry?", "a": "Yes, all three operators (P&O Ferries, DFDS Seaways, Irish Ferries) accept pre-booked pets. Foot passengers travel with their dog in a designated pet area; car passengers leave dogs in the vehicle on the car deck during the 90-minute crossing. EU passport or UK AHC required."},
-        {"q": "What documents does my dog need for Calais entry?", "a": "Coming from the UK post-Brexit: Animal Health Certificate (AHC) issued by a UK vet within 10 days of travel, ISO microchip and valid rabies vaccination. Coming from the EU: standard EU pet passport, ISO microchip and valid rabies vaccination."},
-        {"q": "Can I take my dog on the Eurostar to London?", "a": "No, Eurostar passenger cabins admit only assistance dogs. To take a pet dog from Calais to the UK, use Eurotunnel Le Shuttle (pets stay in your car the entire 35-minute crossing) or a ferry."}
+        {
+          "q": "Can I take my dog on the Dover-Calais ferry?",
+          "a": "Yes, all three operators (P&O Ferries, DFDS Seaways, Irish Ferries) accept pre-booked pets. Foot passengers travel with their dog in a designated pet area; car passengers leave dogs in the vehicle on the car deck during the 90-minute crossing. EU passport or UK AHC required."
+        },
+        {
+          "q": "What documents does my dog need for Calais entry?",
+          "a": "Coming from the UK post-Brexit: Animal Health Certificate (AHC) issued by a UK vet within 10 days of travel, ISO microchip and valid rabies vaccination. Coming from the EU: standard EU pet passport, ISO microchip and valid rabies vaccination."
+        },
+        {
+          "q": "Can I take my dog on the Eurostar to London?",
+          "a": "No, Eurostar passenger cabins admit only assistance dogs. To take a pet dog from Calais to the UK, use Eurotunnel Le Shuttle (pets stay in your car the entire 35-minute crossing) or a ferry."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je prendre le ferry Douvres-Calais avec mon chien ?", "a": "Oui, les trois opérateurs (P&O Ferries, DFDS Seaways, Irish Ferries) acceptent les animaux pré-réservés. Les piétons voyagent avec leur chien dans une zone animaux dédiée ; les passagers automobiles laissent les chiens dans le véhicule sur le pont auto pendant la traversée de 90 minutes. Passeport européen ou AHC UK exigé."},
-        {"q": "Quels documents mon chien doit-il avoir pour entrer à Calais ?", "a": "Depuis le Royaume-Uni post-Brexit : Animal Health Certificate (AHC) émis par un vétérinaire UK dans les 10 jours du voyage, puce ISO et vaccin antirabique valide. Depuis l'UE : passeport européen standard, puce ISO et vaccin antirabique valide."},
-        {"q": "Puis-je prendre l'Eurostar pour Londres avec mon chien ?", "a": "Non, les cabines passagers Eurostar n'admettent que les chiens d'assistance. Pour prendre un chien de compagnie de Calais au Royaume-Uni, utilisez Eurotunnel Le Shuttle (les animaux restent dans votre voiture toute la traversée de 35 minutes) ou un ferry."}
+        {
+          "q": "Puis-je prendre le ferry Douvres-Calais avec mon chien ?",
+          "a": "Oui, les trois opérateurs (P&O Ferries, DFDS Seaways, Irish Ferries) acceptent les animaux pré-réservés. Les piétons voyagent avec leur chien dans une zone animaux dédiée ; les passagers automobiles laissent les chiens dans le véhicule sur le pont auto pendant la traversée de 90 minutes. Passeport européen ou AHC UK exigé."
+        },
+        {
+          "q": "Quels documents mon chien doit-il avoir pour entrer à Calais ?",
+          "a": "Depuis le Royaume-Uni post-Brexit : Animal Health Certificate (AHC) émis par un vétérinaire UK dans les 10 jours du voyage, puce ISO et vaccin antirabique valide. Depuis l'UE : passeport européen standard, puce ISO et vaccin antirabique valide."
+        },
+        {
+          "q": "Puis-je prendre l'Eurostar pour Londres avec mon chien ?",
+          "a": "Non, les cabines passagers Eurostar n'admettent que les chiens d'assistance. Pour prendre un chien de compagnie de Calais au Royaume-Uni, utilisez Eurotunnel Le Shuttle (les animaux restent dans votre voiture toute la traversée de 35 minutes) ou un ferry."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo coger el ferry Dover-Calais con mi perro?", "a": "Sí, los tres operadores (P&O Ferries, DFDS Seaways, Irish Ferries) admiten mascotas pre-reservadas. Los peatones viajan con su perro en una zona animal dedicada; los pasajeros en coche dejan los perros en el vehículo en la cubierta auto durante la travesía de 90 minutos. Pasaporte UE o AHC UK exigido."},
-        {"q": "¿Qué documentos necesita mi perro para entrar en Calais?", "a": "Desde el Reino Unido post-Brexit: Animal Health Certificate (AHC) emitido por un veterinario UK dentro de los 10 días del viaje, microchip ISO y vacunación antirrábica vigente. Desde la UE: pasaporte UE estándar, microchip ISO y vacunación antirrábica vigente."},
-        {"q": "¿Puedo coger el Eurostar a Londres con mi perro?", "a": "No, las cabinas de pasajeros del Eurostar solo admiten perros de asistencia. Para llevar un perro de compañía de Calais al Reino Unido, usa Eurotunnel Le Shuttle (las mascotas permanecen en tu coche toda la travesía de 35 minutos) o un ferry."}
+        {
+          "q": "¿Puedo coger el ferry Dover-Calais con mi perro?",
+          "a": "Sí, los tres operadores (P&O Ferries, DFDS Seaways, Irish Ferries) admiten mascotas pre-reservadas. Los peatones viajan con su perro en una zona animal dedicada; los pasajeros en coche dejan los perros en el vehículo en la cubierta auto durante la travesía de 90 minutos. Pasaporte UE o AHC UK exigido."
+        },
+        {
+          "q": "¿Qué documentos necesita mi perro para entrar en Calais?",
+          "a": "Desde el Reino Unido post-Brexit: Animal Health Certificate (AHC) emitido por un veterinario UK dentro de los 10 días del viaje, microchip ISO y vacunación antirrábica vigente. Desde la UE: pasaporte UE estándar, microchip ISO y vacunación antirrábica vigente."
+        },
+        {
+          "q": "¿Puedo coger el Eurostar a Londres con mi perro?",
+          "a": "No, las cabinas de pasajeros del Eurostar solo admiten perros de asistencia. Para llevar un perro de compañía de Calais al Reino Unido, usa Eurotunnel Le Shuttle (las mascotas permanecen en tu coche toda la travesía de 35 minutos) o un ferry."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso apanhar o ferry Dover-Calais com o meu cão?", "a": "Sim, os três operadores (P&O Ferries, DFDS Seaways, Irish Ferries) aceitam animais pré-reservados. Os peões viajam com o seu cão numa zona animal dedicada; os passageiros em carro deixam os cães no veículo no convés auto durante a travessia de 90 minutos. Passaporte UE ou AHC UK exigido."},
-        {"q": "Que documentos precisa o meu cão para entrar em Calais?", "a": "Vindo do Reino Unido pós-Brexit: Animal Health Certificate (AHC) emitido por um veterinário UK nos 10 dias antes da viagem, microchip ISO e vacinação antirrábica válida. Vindo da UE: passaporte UE standard, microchip ISO e vacinação antirrábica válida."},
-        {"q": "Posso apanhar o Eurostar para Londres com o meu cão?", "a": "Não, as cabinas de passageiros do Eurostar só admitem cães de assistência. Para levar um cão de companhia de Calais ao Reino Unido, use o Eurotunnel Le Shuttle (os animais permanecem no seu carro toda a travessia de 35 minutos) ou um ferry."}
+        {
+          "q": "Posso apanhar o ferry Dover-Calais com o meu cão?",
+          "a": "Sim, os três operadores (P&O Ferries, DFDS Seaways, Irish Ferries) aceitam animais pré-reservados. Os peões viajam com o seu cão numa zona animal dedicada; os passageiros em carro deixam os cães no veículo no convés auto durante a travessia de 90 minutos. Passaporte UE ou AHC UK exigido."
+        },
+        {
+          "q": "Que documentos precisa o meu cão para entrar em Calais?",
+          "a": "Vindo do Reino Unido pós-Brexit: Animal Health Certificate (AHC) emitido por um veterinário UK nos 10 dias antes da viagem, microchip ISO e vacinação antirrábica válida. Vindo da UE: passaporte UE standard, microchip ISO e vacinação antirrábica válida."
+        },
+        {
+          "q": "Posso apanhar o Eurostar para Londres com o meu cão?",
+          "a": "Não, as cabinas de passageiros do Eurostar só admitem cães de assistência. Para levar um cão de companhia de Calais ao Reino Unido, use o Eurotunnel Le Shuttle (os animais permanecem no seu carro toda a travessia de 35 minutos) ou um ferry."
+        }
       ]
     },
     "beaches": {
@@ -383,7 +491,7 @@
           "rules": "Leashed dogs year-round at the ends; central summer lifeguard zone restricts pets June 15-September 5",
           "facilities": "Free parking, promenade benches, café-restaurants on the Digue, lighthouse climb, public toilets",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Calais",
-          "photo": "/images/city-places/calais-beaches-plage-calais.jpg"
+          "photo": "/images/city-places/calais-beaches-plage-de-calais-and-the-seafront-promenade.jpg"
         },
         {
           "name": "Plage de Sangatte and Blériot-Plage",
@@ -393,7 +501,7 @@
           "rules": "Leashed dogs year-round; small summer lifeguard zone at Blériot-Plage restricts pets",
           "facilities": "Free parking, Blériot 1909 monument, kite-surf school, café-restaurants seasonal, no permanent lifeguard outside Blériot core",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Sangatte+Bleriot",
-          "photo": "/images/city-places/calais-beaches-sangatte.jpg"
+          "photo": "/images/city-places/calais-beaches-plage-de-sangatte-and-bleriot-plage.jpg"
         },
         {
           "name": "Baie de Wissant (between Cap Blanc-Nez and Cap Gris-Nez)",
@@ -403,7 +511,7 @@
           "rules": "Leashed dogs year-round outside the small central Wissant village summer lifeguard zone",
           "facilities": "Free parking, kite-surf and sand-yacht schools, café-restaurants in Wissant village, public toilets seasonal",
           "googleMapsUrl": "https://maps.google.com/?q=Baie+de+Wissant",
-          "photo": "/images/city-places/calais-beaches-wissant.jpg"
+          "photo": "/images/city-places/calais-beaches-baie-de-wissant-between-cap-blanc-nez-and-cap-gris-nez.jpg"
         }
       ],
       "tipsEn": [
@@ -427,24 +535,60 @@
         "A Blériot-Plage é o sítio histórico de onde Louis Blériot descolou em 1909 para o primeiro voo transmancha; um pequeno monumento marca o local a 6 km a oeste do centro de Calais."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed on the Plage de Calais?", "a": "Leashed dogs are welcome year-round at the northern (towards the port) and southern (towards Sangatte) ends of the Plage de Calais. The central lifeguarded zone restricts pets mid-June to early September."},
-        {"q": "Where is the quietest dog-friendly beach near Calais?", "a": "The Baie de Wissant 25 km south-west between Cap Blanc-Nez and Cap Gris-Nez offers 12 km of clean sand with sand-yacht and kite-surf room and leashed dogs welcome year-round outside the small village lifeguard zone."},
-        {"q": "Can my dog swim in the Channel?", "a": "Yes year-round, though the water is cool (8-17 °C); most dogs paddle at the water's edge rather than swim long. The Plage de Calais and Plage de Sangatte have gentle gradients ideal for nervous swimmers."}
+        {
+          "q": "Are dogs allowed on the Plage de Calais?",
+          "a": "Leashed dogs are welcome year-round at the northern (towards the port) and southern (towards Sangatte) ends of the Plage de Calais. The central lifeguarded zone restricts pets mid-June to early September."
+        },
+        {
+          "q": "Where is the quietest dog-friendly beach near Calais?",
+          "a": "The Baie de Wissant 25 km south-west between Cap Blanc-Nez and Cap Gris-Nez offers 12 km of clean sand with sand-yacht and kite-surf room and leashed dogs welcome year-round outside the small village lifeguard zone."
+        },
+        {
+          "q": "Can my dog swim in the Channel?",
+          "a": "Yes year-round, though the water is cool (8-17 °C); most dogs paddle at the water's edge rather than swim long. The Plage de Calais and Plage de Sangatte have gentle gradients ideal for nervous swimmers."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés sur la Plage de Calais ?", "a": "Les chiens en laisse sont bienvenus toute l'année aux extrémités nord (vers le port) et sud (vers Sangatte) de la Plage de Calais. La zone surveillée centrale restreint les animaux de mi-juin à début septembre."},
-        {"q": "Où est la plage dog-friendly la plus calme près de Calais ?", "a": "La Baie de Wissant à 25 km au sud-ouest entre le Cap Blanc-Nez et le Cap Gris-Nez offre 12 km de sable propre avec de la place pour char à voile et kite-surf et des chiens en laisse bienvenus toute l'année hors de la petite zone de surveillance du village."},
-        {"q": "Mon chien peut-il nager dans la Manche ?", "a": "Oui toute l'année, bien que l'eau soit fraîche (8-17 °C) ; la plupart des chiens barbotent au bord plutôt que de nager longtemps. La Plage de Calais et la Plage de Sangatte ont des pentes douces idéales pour les nageurs nerveux."}
+        {
+          "q": "Les chiens sont-ils autorisés sur la Plage de Calais ?",
+          "a": "Les chiens en laisse sont bienvenus toute l'année aux extrémités nord (vers le port) et sud (vers Sangatte) de la Plage de Calais. La zone surveillée centrale restreint les animaux de mi-juin à début septembre."
+        },
+        {
+          "q": "Où est la plage dog-friendly la plus calme près de Calais ?",
+          "a": "La Baie de Wissant à 25 km au sud-ouest entre le Cap Blanc-Nez et le Cap Gris-Nez offre 12 km de sable propre avec de la place pour char à voile et kite-surf et des chiens en laisse bienvenus toute l'année hors de la petite zone de surveillance du village."
+        },
+        {
+          "q": "Mon chien peut-il nager dans la Manche ?",
+          "a": "Oui toute l'année, bien que l'eau soit fraîche (8-17 °C) ; la plupart des chiens barbotent au bord plutôt que de nager longtemps. La Plage de Calais et la Plage de Sangatte ont des pentes douces idéales pour les nageurs nerveux."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en la Plage de Calais?", "a": "Los perros con correa son bienvenidos todo el año en los extremos norte (hacia el puerto) y sur (hacia Sangatte) de la Plage de Calais. La zona vigilada central restringe a las mascotas de mediados de junio a principios de septiembre."},
-        {"q": "¿Dónde está la playa pet-friendly más tranquila cerca de Calais?", "a": "La Baie de Wissant a 25 km al suroeste entre el Cap Blanc-Nez y el Cap Gris-Nez ofrece 12 km de arena limpia con espacio para carros de vela y kite-surf y perros con correa bienvenidos todo el año fuera de la pequeña zona de vigilancia del pueblo."},
-        {"q": "¿Puede mi perro bañarse en el Canal?", "a": "Sí todo el año, aunque el agua sea fresca (8-17 °C); la mayoría de los perros chapotean al borde antes que nadar mucho rato. La Plage de Calais y la Plage de Sangatte tienen pendientes suaves ideales para nadadores nerviosos."}
+        {
+          "q": "¿Se admiten perros en la Plage de Calais?",
+          "a": "Los perros con correa son bienvenidos todo el año en los extremos norte (hacia el puerto) y sur (hacia Sangatte) de la Plage de Calais. La zona vigilada central restringe a las mascotas de mediados de junio a principios de septiembre."
+        },
+        {
+          "q": "¿Dónde está la playa pet-friendly más tranquila cerca de Calais?",
+          "a": "La Baie de Wissant a 25 km al suroeste entre el Cap Blanc-Nez y el Cap Gris-Nez ofrece 12 km de arena limpia con espacio para carros de vela y kite-surf y perros con correa bienvenidos todo el año fuera de la pequeña zona de vigilancia del pueblo."
+        },
+        {
+          "q": "¿Puede mi perro bañarse en el Canal?",
+          "a": "Sí todo el año, aunque el agua sea fresca (8-17 °C); la mayoría de los perros chapotean al borde antes que nadar mucho rato. La Plage de Calais y la Plage de Sangatte tienen pendientes suaves ideales para nadadores nerviosos."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos na Plage de Calais?", "a": "Os cães com trela são bem-vindos o ano inteiro nos extremos norte (para o porto) e sul (para Sangatte) da Plage de Calais. A zona vigiada central restringe os animais de meados de junho a início de setembro."},
-        {"q": "Onde fica a praia pet-friendly mais calma perto de Calais?", "a": "A Baie de Wissant a 25 km a sudoeste entre o Cap Blanc-Nez e o Cap Gris-Nez oferece 12 km de areia limpa com espaço para carros à vela e kite-surf e cães com trela bem-vindos o ano inteiro fora da pequena zona de vigilância da aldeia."},
-        {"q": "O meu cão pode banhar-se no Canal?", "a": "Sim o ano inteiro, embora a água seja fresca (8-17 °C); a maioria dos cães chapinha à beira em vez de nadar muito tempo. A Plage de Calais e a Plage de Sangatte têm declives suaves ideais para nadadores nervosos."}
+        {
+          "q": "Os cães são admitidos na Plage de Calais?",
+          "a": "Os cães com trela são bem-vindos o ano inteiro nos extremos norte (para o porto) e sul (para Sangatte) da Plage de Calais. A zona vigiada central restringe os animais de meados de junho a início de setembro."
+        },
+        {
+          "q": "Onde fica a praia pet-friendly mais calma perto de Calais?",
+          "a": "A Baie de Wissant a 25 km a sudoeste entre o Cap Blanc-Nez e o Cap Gris-Nez oferece 12 km de areia limpa com espaço para carros à vela e kite-surf e cães com trela bem-vindos o ano inteiro fora da pequena zona de vigilância da aldeia."
+        },
+        {
+          "q": "O meu cão pode banhar-se no Canal?",
+          "a": "Sim o ano inteiro, embora a água seja fresca (8-17 °C); a maioria dos cães chapinha à beira em vez de nadar muito tempo. A Plage de Calais e a Plage de Sangatte têm declives suaves ideais para nadadores nervosos."
+        }
       ]
     },
     "vets": {
@@ -452,151 +596,196 @@
       "titleFr": "Vétérinaires d'urgence à Calais",
       "titleEs": "Veterinarios de urgencias en Calais",
       "titlePt": "Veterinários de urgência em Calais",
-      "introEn": "Calais has several daytime general veterinary practices in the city centre and around the ferry port, and the CHV Nord in Lille (110 km south via the A26 motorway) provides 24/7 referral cover for the Hauts-de-France region. For local after-hours emergencies, Calais clinics operate a rotating night line; phone the main number of any participating clinic to be redirected to the duty clinic of the week. Most clinics are bilingual EN/FR thanks to the heavy UK ferry traffic and the British retiree community along the Côte d'Opale.",
-      "introFr": "Calais dispose de plusieurs cabinets vétérinaires généralistes de jour au centre-ville et autour du port des ferries, et le CHV Nord à Lille (110 km au sud par l'A26) assure la couverture de référence 24h/24 pour les Hauts-de-France. Pour les urgences locales hors heures, les cliniques de Calais gèrent une ligne de garde tournante ; appelez le numéro principal d'une clinique participante pour être redirigé vers la clinique de garde de la semaine. La plupart des cliniques sont bilingues EN/FR grâce au fort trafic ferry UK et à la communauté britannique retraitée le long de la Côte d'Opale.",
-      "introEs": "Calais cuenta con varias consultas veterinarias generalistas diurnas en el centro y alrededor del puerto de ferries, y el CHV Nord en Lille (110 km al sur por la A26) asegura la cobertura de referencia 24/7 para la región de Hauts-de-France. Para urgencias locales fuera de horario, las clínicas de Calais gestionan una línea de guardia rotativa; llama al número principal de una clínica participante para ser redirigido a la clínica de guardia de la semana. La mayoría de las clínicas son bilingües EN/FR gracias al fuerte tráfico ferry UK y a la comunidad británica jubilada a lo largo de la Côte d'Opale.",
-      "introPt": "Calais dispõe de várias clínicas veterinárias generalistas diurnas no centro e em redor do porto dos ferries, e o CHV Nord em Lille (110 km a sul pela A26) assegura a cobertura de referência 24/7 para a região de Hauts-de-France. Para urgências locais fora de horas, as clínicas de Calais gerem uma linha de urgência rotativa; ligue para o número principal de uma clínica participante para ser redirigido para a clínica de urgência da semana. A maioria das clínicas é bilingue EN/FR graças ao forte tráfego ferry UK e à comunidade britânica reformada ao longo da Côte d'Opale.",
+      "introEn": "Calais has daytime general veterinary clinics in the city centre, an after-hours regional duty line that routes you to the on-call vet, and the 24/7 CHV AniCura Nordvet referral hospital near Lille (about 1h15 via the A26). Many clinics are used to UK ferry traffic and the British community along the Côte d'Opale, so English is widely spoken. Remember that UK return paperwork (the Animal Health Certificate) is issued in the UK, not by a French vet.",
+      "introFr": "Calais dispose de cliniques vétérinaires généralistes de jour au centre-ville, d'une ligne de garde régionale hors heures qui vous oriente vers le vétérinaire d'astreinte, et de l'hôpital de référence 24h/24 CHV AniCura Nordvet près de Lille (environ 1h15 par l'A26). Beaucoup de cliniques sont habituées au trafic ferry britannique et à la communauté anglaise de la Côte d'Opale, l'anglais y est donc courant. Rappel : les papiers de retour UK (Animal Health Certificate) sont délivrés au Royaume-Uni, pas par un vétérinaire français.",
+      "introEs": "Calais cuenta con clínicas veterinarias generalistas diurnas en el centro, una línea de guardia regional fuera de horario que te dirige al veterinario de turno, y el hospital de referencia 24/7 CHV AniCura Nordvet cerca de Lille (alrededor de 1h15 por la A26). Muchas clínicas están acostumbradas al tráfico ferry británico y a la comunidad inglesa de la Côte d'Opale, así que el inglés es habitual. Recuerda que los papeles de regreso al UK (Animal Health Certificate) se emiten en el Reino Unido, no por un veterinario francés.",
+      "introPt": "Calais dispõe de clínicas veterinárias generalistas diurnas no centro, de uma linha de urgência regional fora de horas que o encaminha para o veterinário de serviço, e do hospital de referência 24/7 CHV AniCura Nordvet perto de Lille (cerca de 1h15 pela A26). Muitas clínicas estão habituadas ao tráfego ferry britânico e à comunidade inglesa da Côte d'Opale, pelo que o inglês é comum. Lembre-se de que os papéis de regresso ao UK (Animal Health Certificate) são emitidos no Reino Unido, não por um veterinário francês.",
       "entryRequirements": null,
       "places": [
         {
-          "name": "Clinique Vétérinaire du Calaisis",
-          "type": "General Practice + Rotating Night Line",
-          "address": "12 Avenue Roger Salengro, 62100 Calais",
-          "neighborhood": "Centre / Saint-Pierre",
-          "phone": "+33 3 21 96 12 34",
-          "hours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00; rotating night emergency line",
-          "hoursFr": "Lun-ven 8h30-19h ; sam 9h-12h ; ligne de garde tournante de nuit",
-          "hoursEs": "Lun-vie 8:30-19:00; sáb 9:00-12:00; línea de guardia nocturna rotativa",
-          "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; linha de urgência nocturna rotativa",
-          "englishSpeaking": true,
-          "website": "https://www.cliniquevetcalaisis.fr/",
-          "photo": "/images/city-places/calais-vets-calaisis.jpg",
-          "description": "A central Calais general practice on Avenue Roger Salengro 5 minutes from the Hôtel de Ville, with imaging, dentistry and minor surgery. Bilingual French and English staff handle UK ferry-arriving pets daily. Participates in the rotating night line for Calais Agglomération; phone the main number after hours to be redirected to the duty clinic of the week.",
-          "descriptionFr": "Cabinet généraliste central de Calais sur l'Avenue Roger Salengro à 5 minutes de l'Hôtel de Ville, avec imagerie, dentisterie et petite chirurgie. Personnel bilingue français-anglais qui gère quotidiennement les animaux arrivés par ferry UK. Participe à la garde tournante de nuit pour Calais Agglomération ; appelez le numéro principal hors heures pour être redirigé vers la clinique de garde de la semaine.",
-          "descriptionEs": "Consulta generalista céntrica de Calais en la Avenue Roger Salengro a 5 minutos del Hôtel de Ville, con imagen, odontología y cirugía menor. Personal bilingüe francés-inglés que atiende a diario a las mascotas llegadas por ferry UK. Participa en la guardia rotativa nocturna para Calais Agglomération; llama al número principal fuera de horario para ser redirigido a la clínica de guardia de la semana.",
-          "descriptionPt": "Clínica generalista central de Calais na Avenue Roger Salengro a 5 minutos do Hôtel de Ville, com imagem, dentária e pequena cirurgia. Pessoal bilingue francês-inglês que atende diariamente aos animais chegados por ferry UK. Participa na urgência rotativa nocturna para Calais Agglomération; ligue para o número principal fora de horas para ser redirigido para a clínica de urgência da semana.",
-          "petPolicy": "Appointments preferred; walk-ins seen between booked slots; after-hours via rotating line",
-          "petPolicyFr": "Rendez-vous préférés ; sans rendez-vous reçus entre créneaux ; hors heures via ligne tournante",
-          "petPolicyEs": "Cita previa preferida; sin cita atendidos entre huecos; fuera de horario vía línea rotativa",
-          "petPolicyPt": "Marcação preferida; sem marcação atendidos entre slots; fora de horas via linha rotativa",
-          "services": "Vaccinations, EU passport, UK AHC certificate signing, general medicine, minor surgery, dentistry",
-          "servicesFr": "Vaccinations, passeport européen, signature Animal Health Certificate UK, médecine générale, petite chirurgie, dentisterie",
-          "servicesEs": "Vacunaciones, pasaporte UE, firma Animal Health Certificate UK, medicina general, cirugía menor, odontología",
-          "servicesPt": "Vacinações, passaporte UE, assinatura Animal Health Certificate UK, medicina geral, pequena cirurgia, dentária",
-          "languages": ["French", "English"],
-          "openingHours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00",
-          "tip": "Save the main number (+33 3 21 96 12 34) before any Cap Blanc-Nez hike or pre-ferry departure; the rotating night line directs you to the duty clinic, useful if you need an emergency consultation before a UK return crossing.",
-          "tipFr": "Enregistrez le numéro principal (+33 3 21 96 12 34) avant toute rando au Cap Blanc-Nez ou avant un départ ferry ; la ligne tournante de nuit vous redirige vers la clinique de garde, utile pour une urgence avant un retour UK.",
-          "tipEs": "Guarda el número principal (+33 3 21 96 12 34) antes de cualquier ruta al Cap Blanc-Nez o salida ferry; la línea rotativa nocturna te redirige a la clínica de guardia, útil para una urgencia antes de un retorno UK.",
-          "tipPt": "Guarde o número principal (+33 3 21 96 12 34) antes de qualquer caminhada no Cap Blanc-Nez ou partida ferry; a linha rotativa nocturna redirige-o para a clínica de urgência, útil para uma urgência antes de um regresso UK.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Calaisis"
-        },
-        {
-          "name": "Clinique Vétérinaire de la Plage",
+          "name": "Clinique Vétérinaire des Salines",
           "type": "General Practice",
-          "address": "45 Boulevard Lafayette, 62100 Calais",
-          "neighborhood": "Calais-Nord / front de mer",
-          "phone": "+33 3 21 34 56 78",
-          "hours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00; closed Sun",
-          "hoursFr": "Lun-ven 8h30-19h ; sam 9h-12h ; fermé dim",
-          "hoursEs": "Lun-vie 8:30-19:00; sáb 9:00-12:00; cerrado dom",
-          "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; fechado dom",
+          "address": "11 place Crèvecoeur, 62100 Calais",
+          "neighborhood": "Centre",
+          "phone": "+33 3 21 00 71 00",
+          "hours": "Mon-Fri 8:30-12:00 & 14:00-19:00; Sat 8:30-12:00; closed Sun",
+          "hoursFr": "Lun-ven 8h30-12h & 14h-19h ; sam 8h30-12h ; fermé dim",
+          "hoursEs": "Lun-vie 8:30-12:00 y 14:00-19:00; sáb 8:30-12:00; cerrado dom",
+          "hoursPt": "Seg-sex 8:30-12:00 e 14:00-19:00; sáb 8:30-12:00; fechado dom",
           "englishSpeaking": true,
-          "website": "https://www.cliniqueveterinairecalais.fr/",
-          "photo": "/images/city-places/calais-vets-plage.jpg",
-          "description": "A general practice on Boulevard Lafayette 5 minutes from the Plage de Calais and the seafront promenade, ideal for vaccination top-ups, EU passport stamps and minor non-emergency consultations. Refers to CHV Nord Lille for advanced cases. The closest vet to the ferry terminal for pre-departure issues.",
-          "descriptionFr": "Cabinet généraliste sur le Boulevard Lafayette à 5 minutes de la Plage de Calais et de la promenade du front de mer, idéal pour rappels de vaccin, tampons sur passeport européen et consultations mineures non urgentes. Renvoie sur le CHV Nord Lille pour les cas avancés. Le vétérinaire le plus proche du terminal des ferries pour les problèmes pré-départ.",
-          "descriptionEs": "Consulta generalista en el Boulevard Lafayette a 5 minutos de la Plage de Calais y del paseo marítimo, ideal para refuerzos de vacuna, sellos de pasaporte europeo y consultas menores no urgentes. Deriva al CHV Nord Lille para casos avanzados. El veterinario más cercano al terminal de ferries para problemas pre-salida.",
-          "descriptionPt": "Clínica generalista no Boulevard Lafayette a 5 minutos da Plage de Calais e do passeio marítimo, ideal para reforços de vacina, carimbos de passaporte europeu e consultas menores não urgentes. Encaminha para o CHV Nord Lille em casos avançados. O veterinário mais próximo do terminal dos ferries para problemas pré-partida.",
+          "website": "https://vetosalines.com/",
+          "photo": "/images/city-places/calais-vets-clinique-veterinaire-des-salines.jpg",
+          "description": "A central Calais general practice on place Crèvecoeur with medicine, surgery, radiology, ultrasound, dentistry and an in-house pharmacy. Convenient for vaccination top-ups and EU passport checks before a crossing.",
+          "descriptionFr": "Cabinet généraliste central de Calais sur la place Crèvecoeur, avec médecine, chirurgie, radiologie, échographie, dentisterie et pharmacie interne. Pratique pour rappels de vaccin et vérification du passeport européen avant une traversée.",
+          "descriptionEs": "Consulta generalista céntrica de Calais en la place Crèvecoeur, con medicina, cirugía, radiología, ecografía, odontología y farmacia interna. Práctica para refuerzos de vacuna y revisión del pasaporte europeo antes de una travesía.",
+          "descriptionPt": "Clínica generalista central de Calais na place Crèvecoeur, com medicina, cirurgia, radiologia, ecografia, dentária e farmácia interna. Prática para reforços de vacina e verificação do passaporte europeu antes de uma travessia.",
           "petPolicy": "Appointments preferred; walk-ins seen between booked slots",
           "petPolicyFr": "Rendez-vous préférés ; sans rendez-vous reçus entre créneaux",
           "petPolicyEs": "Cita previa preferida; sin cita atendidos entre huecos",
           "petPolicyPt": "Marcação preferida; sem marcação atendidos entre slots",
-          "services": "Vaccinations, EU passport, UK AHC support, general medicine, minor surgery",
-          "servicesFr": "Vaccinations, passeport européen, soutien AHC UK, médecine générale, petite chirurgie",
-          "servicesEs": "Vacunaciones, pasaporte UE, soporte AHC UK, medicina general, cirugía menor",
-          "servicesPt": "Vacinações, passaporte UE, apoio AHC UK, medicina geral, pequena cirurgia",
-          "languages": ["French", "English"],
-          "openingHours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00",
-          "tip": "Book the first morning slot for same-day EU passport sign-off before an afternoon DFDS or P&O ferry departure to Dover; the clinic is 5 minutes by car from the ferry terminal check-in.",
-          "tipFr": "Réservez le premier créneau du matin pour validation passeport européen le jour même avant un départ ferry DFDS ou P&O l'après-midi pour Douvres ; la clinique est à 5 minutes en voiture de l'enregistrement du terminal des ferries.",
-          "tipEs": "Reserva el primer hueco de la mañana para validación de pasaporte UE el mismo día antes de una salida ferry DFDS o P&O por la tarde a Dover; la clínica está a 5 minutos en coche del check-in del terminal de ferries.",
-          "tipPt": "Reserve o primeiro slot da manhã para validação de passaporte UE no mesmo dia antes de uma partida ferry DFDS ou P&O à tarde para Dover; a clínica fica a 5 minutos de carro do check-in do terminal dos ferries.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Plage+Calais"
+          "services": "Vaccinations, EU passport checks, general medicine, surgery, radiology, ultrasound, dentistry",
+          "servicesFr": "Vaccinations, vérification passeport européen, médecine générale, chirurgie, radiologie, échographie, dentisterie",
+          "servicesEs": "Vacunaciones, revisión pasaporte UE, medicina general, cirugía, radiología, ecografía, odontología",
+          "servicesPt": "Vacinações, verificação passaporte UE, medicina geral, cirurgia, radiologia, ecografia, dentária",
+          "languages": [
+            "French",
+            "English"
+          ],
+          "openingHours": "Mon-Fri 8:30-12:00 & 14:00-19:00; Sat 8:30-12:00",
+          "tip": "Book the first morning slot for a same-day EU passport check before an afternoon ferry to Dover; the clinic is in the centre, minutes from the ring road to the terminal.",
+          "tipFr": "Réservez le premier créneau du matin pour une vérification passeport européen le jour même avant un ferry l'après-midi pour Douvres ; la clinique est au centre, à quelques minutes de la rocade vers le terminal.",
+          "tipEs": "Reserva el primer hueco de la mañana para una revisión de pasaporte UE el mismo día antes de un ferry por la tarde a Dover; la clínica está en el centro, a minutos de la ronda hacia el terminal.",
+          "tipPt": "Reserve o primeiro slot da manhã para uma verificação de passaporte UE no mesmo dia antes de um ferry à tarde para Dover; a clínica fica no centro, a minutos da circular para o terminal.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+des+Salines+Calais"
         },
         {
-          "name": "CHV Nord (Lille)",
+          "name": "Maison des Urgences Vétérinaires",
+          "type": "After-Hours Duty Line",
+          "address": "Regional duty service, Calais area",
+          "neighborhood": "Calais / Pas-de-Calais",
+          "phone": "+33 3 59 72 20 20",
+          "hours": "Evenings, nights, Sundays and public holidays",
+          "hoursFr": "Soirs, nuits, dimanches et jours fériés",
+          "hoursEs": "Tardes, noches, domingos y festivos",
+          "hoursPt": "Noites, fins de tarde, domingos e feriados",
+          "englishSpeaking": true,
+          "website": "https://www.maisondesurgences-calais.com/",
+          "photo": "/images/city-places/calais-vets-maison-des-urgences-veterinaires.jpg",
+          "description": "An after-hours veterinary regulation line for the Calais area: call first and the centre assesses your pet's condition and directs you to the on-call clinic. The national emergency number 3115 also routes you to the nearest duty vet 24/7.",
+          "descriptionFr": "Ligne de régulation vétérinaire hors heures pour le secteur de Calais : appelez d'abord, le centre évalue l'état de votre animal et vous oriente vers la clinique d'astreinte. Le numéro national d'urgence 3115 dirige aussi vers le vétérinaire de garde le plus proche 24h/24.",
+          "descriptionEs": "Línea de regulación veterinaria fuera de horario para la zona de Calais: llama primero, el centro evalúa el estado de tu mascota y te dirige a la clínica de guardia. El número nacional de urgencias 3115 también te dirige al veterinario de guardia más cercano 24/7.",
+          "descriptionPt": "Linha de regulação veterinária fora de horas para a zona de Calais: ligue primeiro, o centro avalia o estado do seu animal e encaminha-o para a clínica de serviço. O número nacional de urgência 3115 também o encaminha para o veterinário de serviço mais próximo 24/7.",
+          "petPolicy": "Phone first; the line directs you to the on-call clinic",
+          "petPolicyFr": "Appelez d'abord ; la ligne vous oriente vers la clinique d'astreinte",
+          "petPolicyEs": "Llama primero; la línea te dirige a la clínica de guardia",
+          "petPolicyPt": "Ligue primeiro; a linha encaminha-o para a clínica de serviço",
+          "services": "Emergency triage, referral to the on-call clinic",
+          "servicesFr": "Régulation des urgences, orientation vers la clinique d'astreinte",
+          "servicesEs": "Triaje de urgencias, derivación a la clínica de guardia",
+          "servicesPt": "Triagem de urgências, encaminhamento para a clínica de serviço",
+          "languages": [
+            "French",
+            "English"
+          ],
+          "openingHours": "Evenings, nights, weekends and holidays",
+          "tip": "Save both this number and 3115 before an early-morning crossing; if your dog falls ill overnight you reach a duty vet without driving the full hour to Lille.",
+          "tipFr": "Enregistrez ce numéro et le 3115 avant une traversée matinale ; si votre chien tombe malade la nuit, vous joignez un vétérinaire de garde sans rouler une heure jusqu'à Lille.",
+          "tipEs": "Guarda este número y el 3115 antes de una travesía matinal; si tu perro enferma de noche, contactas con un veterinario de guardia sin conducir una hora hasta Lille.",
+          "tipPt": "Guarde este número e o 3115 antes de uma travessia matinal; se o seu cão adoecer de noite, contacta um veterinário de serviço sem conduzir uma hora até Lille.",
+          "googleMapsUrl": "https://maps.google.com/?q=Maison+des+Urgences+Veterinaires+Calais"
+        },
+        {
+          "name": "CHV AniCura Nordvet",
           "type": "24h Specialty Referral",
-          "address": "104 Avenue Marx Dormoy, 59370 Mons-en-Baroeul",
-          "neighborhood": "Lille metropolitan area (110 km south of Calais)",
-          "phone": "+33 3 20 04 87 87",
+          "address": "1 rue Delesalle, 59110 La Madeleine (Lille)",
+          "neighborhood": "Lille metropolitan area (about 110 km / 1h15 from Calais)",
+          "phone": "+33 3 20 51 00 66",
           "hours": "24/7 emergency and specialty",
           "hoursFr": "Urgences et spécialités 24h/24",
           "hoursEs": "Urgencias y especialidades 24/7",
           "hoursPt": "Urgências e especialidades 24/7",
           "englishSpeaking": true,
-          "website": "https://www.chv-nord.fr/",
-          "photo": "/images/city-places/calais-vets-chv-nord.jpg",
-          "description": "The reference 24/7 specialty veterinary hospital for the Hauts-de-France region, with cardiology, oncology, neurology, intensive care and complex surgery; 1h15 from Calais via the A26 motorway, the regional escalation centre Calais clinics refer to for any after-hours emergency the local rotating line cannot handle.",
-          "descriptionFr": "L'hôpital vétérinaire de référence 24h/24 pour les Hauts-de-France, avec cardiologie, oncologie, neurologie, soins intensifs et chirurgie complexe ; à 1h15 de Calais par l'A26, le centre d'escalade régional vers lequel les cliniques calaisiennes adressent pour toute urgence hors heures que la ligne tournante locale ne peut gérer.",
-          "descriptionEs": "El hospital veterinario de referencia 24/7 para Hauts-de-France, con cardiología, oncología, neurología, cuidados intensivos y cirugía compleja; a 1h15 de Calais vía la A26, el centro de escalada regional al que las clínicas de Calais derivan para cualquier urgencia fuera de horario que la línea rotativa local no pueda gestionar.",
-          "descriptionPt": "O hospital veterinário de referência 24/7 para Hauts-de-France, com cardiologia, oncologia, neurologia, cuidados intensivos e cirurgia complexa; a 1h15 de Calais pela A26, o centro de escalonamento regional para o qual as clínicas de Calais encaminham para qualquer urgência fora de horas que a linha rotativa local não consiga gerir.",
-          "petPolicy": "Walk-in emergencies accepted; specialty referrals by appointment",
-          "petPolicyFr": "Urgences sans rendez-vous acceptées ; spécialités sur rendez-vous",
-          "petPolicyEs": "Urgencias sin cita admitidas; especialidades con cita",
-          "petPolicyPt": "Urgências sem marcação aceites; especialidades por marcação",
-          "services": "Emergency, ICU, cardiology, oncology, neurology, complex surgery, imaging",
-          "servicesFr": "Urgences, soins intensifs, cardiologie, oncologie, neurologie, chirurgie complexe, imagerie",
-          "servicesEs": "Urgencias, UCI, cardiología, oncología, neurología, cirugía compleja, imagen",
-          "servicesPt": "Urgências, UCI, cardiologia, oncologia, neurologia, cirurgia complexa, imagem",
-          "languages": ["French", "English"],
+          "website": "https://www.anicura.fr/cliniques/chv-nordvet/",
+          "photo": "/images/city-places/calais-vets-chv-anicura-nordvet.jpg",
+          "description": "The reference 24/7 veterinary hospital for the Lille metropolitan area and the wider Hauts-de-France region, with an emergency service open round the clock plus specialty departments. About 1h15 from Calais via the A26 motorway; phone ahead before arriving.",
+          "descriptionFr": "L'hôpital vétérinaire de référence 24h/24 pour la métropole lilloise et les Hauts-de-France, avec un service d'urgences ouvert en continu et des services de spécialité. À environ 1h15 de Calais par l'A26 ; appelez avant d'arriver.",
+          "descriptionEs": "El hospital veterinario de referencia 24/7 para la metrópoli de Lille y la región de Hauts-de-France, con un servicio de urgencias abierto las 24 horas y departamentos de especialidad. A unos 1h15 de Calais por la A26; llama antes de llegar.",
+          "descriptionPt": "O hospital veterinário de referência 24/7 para a metrópole de Lille e a região de Hauts-de-France, com um serviço de urgências aberto ininterruptamente e departamentos de especialidade. A cerca de 1h15 de Calais pela A26; ligue antes de chegar.",
+          "petPolicy": "Walk-in emergencies accepted; phone ahead; specialty referrals by appointment",
+          "petPolicyFr": "Urgences sans rendez-vous acceptées ; appelez avant ; spécialités sur rendez-vous",
+          "petPolicyEs": "Urgencias sin cita admitidas; llama antes; especialidades con cita",
+          "petPolicyPt": "Urgências sem marcação aceites; ligue antes; especialidades por marcação",
+          "services": "24h emergency, intensive care, imaging, specialty referral",
+          "servicesFr": "Urgences 24h, soins intensifs, imagerie, spécialités",
+          "servicesEs": "Urgencias 24h, cuidados intensivos, imagen, especialidades",
+          "servicesPt": "Urgências 24h, cuidados intensivos, imagem, especialidades",
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "24/7",
-          "tip": "Drive yourself on the A26 rather than wait for a pet-taxi at night; the 1h15 transfer to Lille is faster than any rural rotating-line ETA after midnight in the Calais-Boulogne corridor.",
-          "tipFr": "Conduisez-vous sur l'A26 plutôt que d'attendre un pet-taxi la nuit ; le transfert de 1h15 vers Lille est plus rapide que n'importe quelle estimation de la ligne tournante rurale après minuit dans le corridor Calais-Boulogne.",
-          "tipEs": "Conduce tú mismo por la A26 en vez de esperar un pet-taxi por la noche; el traslado de 1h15 a Lille es más rápido que cualquier estimación de la línea rotativa rural pasada la medianoche en el corredor Calais-Boulogne.",
-          "tipPt": "Conduza você mesmo pela A26 em vez de esperar um pet-taxi à noite; a transferência de 1h15 para Lille é mais rápida do que qualquer estimativa da linha rotativa rural depois da meia-noite no corredor Calais-Boulogne.",
-          "googleMapsUrl": "https://maps.google.com/?q=CHV+Nord+Lille"
+          "tip": "For a serious night emergency, phone ahead and drive yourself on the A26; the 1h15 transfer to La Madeleine is usually faster than waiting for a rural pet-taxi.",
+          "tipFr": "Pour une urgence nocturne grave, appelez avant et conduisez-vous sur l'A26 ; le transfert de 1h15 vers La Madeleine est souvent plus rapide que d'attendre un pet-taxi rural.",
+          "tipEs": "Para una urgencia nocturna grave, llama antes y conduce tú mismo por la A26; el traslado de 1h15 a La Madeleine suele ser más rápido que esperar un pet-taxi rural.",
+          "tipPt": "Para uma urgência nocturna grave, ligue antes e conduza você mesmo pela A26; a transferência de 1h15 para La Madeleine costuma ser mais rápida do que esperar um pet-taxi rural.",
+          "googleMapsUrl": "https://maps.google.com/?q=CHV+AniCura+Nordvet+La+Madeleine"
         }
       ],
       "tipsEn": [
-        "Save the Clinique du Calaisis number (+33 3 21 96 12 34) before any Cap Blanc-Nez hike or pre-ferry departure; the rotating night line routes you to the duty clinic of the week.",
-        "UK visitors returning home: the Animal Health Certificate (AHC) is issued in the UK before travel and valid 4 months for return; it is NOT a French vet document. If you need an emergency AHC equivalent for unscheduled return, only an Official Veterinarian (OV) UK or APHA-certified French vet can sign one.",
-        "Carry your EU pet passport or UK AHC in person to all vet visits and to the ferry / Eurotunnel check-in; documents are checked before boarding and unstamped or expired records mean the dog cannot board."
+        "Save the Maison des Urgences Vétérinaires line (+33 3 59 72 20 20) and the national 3115 before any crossing; both route you to the nearest on-call vet outside clinic hours.",
+        "UK visitors returning home: the Animal Health Certificate (AHC) is issued in the UK before travel and valid for one return trip; it is NOT a French vet document, so plan it in advance.",
+        "Carry your EU pet passport or UK AHC in person to every vet visit and to ferry / Eurotunnel check-in; documents are checked before boarding and unstamped or expired records mean the dog cannot board."
       ],
       "tipsFr": [
-        "Enregistrez le numéro de la Clinique du Calaisis (+33 3 21 96 12 34) avant toute rando au Cap Blanc-Nez ou avant un départ ferry ; la ligne tournante de nuit vous redirige vers la clinique de garde de la semaine.",
-        "Visiteurs UK rentrant chez eux : l'Animal Health Certificate (AHC) est délivré au UK avant le voyage et valide 4 mois pour le retour ; ce n'est PAS un document vétérinaire français. Si vous avez besoin d'un équivalent AHC d'urgence pour un retour imprévu, seul un Official Veterinarian (OV) UK ou un vétérinaire français certifié APHA peut le signer.",
-        "Apportez physiquement votre passeport européen ou AHC UK à toute visite vétérinaire et à l'enregistrement ferry / Eurotunnel ; les documents sont vérifiés avant l'embarquement et des dossiers non tamponnés ou expirés signifient que le chien ne peut pas embarquer."
+        "Enregistrez la ligne de la Maison des Urgences Vétérinaires (+33 3 59 72 20 20) et le 3115 national avant toute traversée ; les deux vous orientent vers le vétérinaire de garde le plus proche hors heures d'ouverture.",
+        "Visiteurs UK rentrant chez eux : l'Animal Health Certificate (AHC) est délivré au Royaume-Uni avant le voyage et valable pour un retour ; ce n'est PAS un document vétérinaire français, anticipez-le.",
+        "Apportez physiquement votre passeport européen ou AHC UK à toute visite vétérinaire et à l'enregistrement ferry / Eurotunnel ; les documents sont vérifiés avant l'embarquement et un dossier non tamponné ou expiré empêche le chien d'embarquer."
       ],
       "tipsEs": [
-        "Guarda el número de la Clinique du Calaisis (+33 3 21 96 12 34) antes de cualquier ruta al Cap Blanc-Nez o antes de una salida ferry; la línea rotativa nocturna te redirige a la clínica de guardia de la semana.",
-        "Visitantes UK regresando a casa: el Animal Health Certificate (AHC) se emite en el UK antes del viaje y es válido 4 meses para el retorno; NO es un documento veterinario francés. Si necesitas un equivalente AHC de urgencia para un retorno imprevisto, solo un Official Veterinarian (OV) UK o un veterinario francés certificado APHA puede firmarlo.",
-        "Lleva físicamente tu pasaporte europeo o AHC UK a toda visita veterinaria y al check-in ferry / Eurotunnel; los documentos se verifican antes del embarque y los registros sin sellar o caducados significan que el perro no puede embarcar."
+        "Guarda la línea de la Maison des Urgences Vétérinaires (+33 3 59 72 20 20) y el 3115 nacional antes de cualquier travesía; ambos te dirigen al veterinario de guardia más cercano fuera de horario.",
+        "Visitantes UK que regresan a casa: el Animal Health Certificate (AHC) se emite en el Reino Unido antes del viaje y es válido para un retorno; NO es un documento veterinario francés, anticípalo.",
+        "Lleva físicamente tu pasaporte europeo o AHC UK a toda visita veterinaria y al check-in ferry / Eurotunnel; los documentos se verifican antes del embarque y un registro sin sellar o caducado impide que el perro embarque."
       ],
       "tipsPt": [
-        "Guarde o número da Clinique du Calaisis (+33 3 21 96 12 34) antes de qualquer caminhada no Cap Blanc-Nez ou antes de uma partida ferry; a linha rotativa nocturna redirige-o para a clínica de urgência da semana.",
-        "Visitantes UK a regressar a casa: o Animal Health Certificate (AHC) é emitido no UK antes da viagem e válido 4 meses para o regresso; NÃO é um documento veterinário francês. Se precisar de um equivalente AHC de urgência para um regresso imprevisto, só um Official Veterinarian (OV) UK ou um veterinário francês certificado APHA o pode assinar.",
-        "Leve fisicamente o seu passaporte europeu ou AHC UK a toda a visita veterinária e ao check-in ferry / Eurotunnel; os documentos são verificados antes do embarque e os registos não carimbados ou expirados significam que o cão não pode embarcar."
+        "Guarde a linha da Maison des Urgences Vétérinaires (+33 3 59 72 20 20) e o 3115 nacional antes de qualquer travessia; ambos o encaminham para o veterinário de serviço mais próximo fora de horas.",
+        "Visitantes UK que regressam a casa: o Animal Health Certificate (AHC) é emitido no Reino Unido antes da viagem e válido para um regresso; NÃO é um documento veterinário francês, planeie-o com antecedência.",
+        "Leve fisicamente o seu passaporte europeu ou AHC UK a toda a visita veterinária e ao check-in ferry / Eurotunnel; os documentos são verificados antes do embarque e um registo não carimbado ou expirado impede o cão de embarcar."
       ],
       "faqsEn": [
-        {"q": "Where is the closest 24h vet to Calais?", "a": "The CHV Nord in Lille (+33 3 20 04 87 87, 1h15 via the A26 motorway) is the closest true 24/7 referral hospital; local after-hours is handled via the Calais rotating night line at the Clinique du Calaisis."},
-        {"q": "Do Calais vets speak English?", "a": "Yes at the Clinique du Calaisis and the Clinique de la Plage; staff are fluent thanks to the heavy UK ferry traffic and the British retiree clientele on the Côte d'Opale."},
-        {"q": "Can a French vet sign my dog's UK return paperwork?", "a": "Only an APHA-certified Official Veterinarian (OV) can sign UK return documents; most Calais clinics are not APHA-certified. Plan ahead: your AHC is issued in the UK before travel and is valid 4 months for return crossings."}
+        {
+          "q": "Where is the closest 24h vet to Calais?",
+          "a": "The CHV AniCura Nordvet in La Madeleine near Lille (+33 3 20 51 00 66, about 1h15 via the A26) is the closest true 24/7 referral hospital. For local after-hours, call the Maison des Urgences Vétérinaires (+33 3 59 72 20 20) or the national 3115 to reach the on-call vet."
+        },
+        {
+          "q": "Do Calais vets speak English?",
+          "a": "Generally yes; thanks to the heavy UK ferry traffic and the British community on the Côte d'Opale, English is widely spoken in Calais clinics."
+        },
+        {
+          "q": "Can a French vet sign my dog's UK return paperwork?",
+          "a": "No. The UK Animal Health Certificate is issued in the UK before you travel and most Calais clinics are not set up to sign UK return documents. Plan your AHC in advance; a French vet can handle EU passport checks and tapeworm treatment where required."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est le vétérinaire 24h le plus proche de Calais ?", "a": "Le CHV Nord à Lille (+33 3 20 04 87 87, 1h15 par l'A26) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne tournante de nuit calaisienne à la Clinique du Calaisis."},
-        {"q": "Les vétérinaires de Calais parlent-ils anglais ?", "a": "Oui à la Clinique du Calaisis et à la Clinique de la Plage ; le personnel est courant grâce au fort trafic ferry UK et à la clientèle britannique retraitée sur la Côte d'Opale."},
-        {"q": "Un vétérinaire français peut-il signer les papiers de retour UK de mon chien ?", "a": "Seul un Official Veterinarian (OV) certifié APHA peut signer les documents de retour UK ; la plupart des cliniques de Calais ne sont pas certifiées APHA. Planifiez à l'avance : votre AHC est émis au UK avant le voyage et valide 4 mois pour les traversées retour."}
+        {
+          "q": "Où est le vétérinaire 24h le plus proche de Calais ?",
+          "a": "Le CHV AniCura Nordvet à La Madeleine près de Lille (+33 3 20 51 00 66, environ 1h15 par l'A26) est le plus proche véritable hôpital de référence 24h/24. Pour le local hors heures, appelez la Maison des Urgences Vétérinaires (+33 3 59 72 20 20) ou le 3115 national pour joindre le vétérinaire de garde."
+        },
+        {
+          "q": "Les vétérinaires de Calais parlent-ils anglais ?",
+          "a": "En général oui ; grâce au fort trafic ferry britannique et à la communauté anglaise de la Côte d'Opale, l'anglais est largement parlé dans les cliniques calaisiennes."
+        },
+        {
+          "q": "Un vétérinaire français peut-il signer les papiers de retour UK de mon chien ?",
+          "a": "Non. L'Animal Health Certificate UK est délivré au Royaume-Uni avant le départ et la plupart des cliniques de Calais ne signent pas les documents de retour UK. Anticipez votre AHC ; un vétérinaire français gère la vérification du passeport européen et le traitement anti-échinocoque si requis."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el veterinario 24h más cercano de Calais?", "a": "El CHV Nord en Lille (+33 3 20 04 87 87, 1h15 vía la A26) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea rotativa nocturna de Calais en la Clinique du Calaisis."},
-        {"q": "¿Los veterinarios de Calais hablan inglés?", "a": "Sí en la Clinique du Calaisis y en la Clinique de la Plage; el personal es fluido gracias al fuerte tráfico ferry UK y a la clientela británica jubilada en la Côte d'Opale."},
-        {"q": "¿Un veterinario francés puede firmar los papeles de retorno UK de mi perro?", "a": "Solo un Official Veterinarian (OV) certificado APHA puede firmar los documentos de retorno UK; la mayoría de las clínicas de Calais no están certificadas APHA. Planifica con antelación: tu AHC se emite en el UK antes del viaje y es válido 4 meses para las travesías de retorno."}
+        {
+          "q": "¿Dónde está el veterinario 24h más cercano de Calais?",
+          "a": "El CHV AniCura Nordvet en La Madeleine cerca de Lille (+33 3 20 51 00 66, alrededor de 1h15 por la A26) es el verdadero hospital de referencia 24/7 más cercano. Para urgencias locales fuera de horario, llama a la Maison des Urgences Vétérinaires (+33 3 59 72 20 20) o al 3115 nacional para localizar al veterinario de guardia."
+        },
+        {
+          "q": "¿Los veterinarios de Calais hablan inglés?",
+          "a": "En general sí; gracias al fuerte tráfico ferry británico y a la comunidad inglesa de la Côte d'Opale, el inglés se habla ampliamente en las clínicas de Calais."
+        },
+        {
+          "q": "¿Un veterinario francés puede firmar los papeles de regreso UK de mi perro?",
+          "a": "No. El Animal Health Certificate UK se emite en el Reino Unido antes de viajar y la mayoría de las clínicas de Calais no firman documentos de regreso al UK. Anticipa tu AHC; un veterinario francés gestiona la revisión del pasaporte europeo y el tratamiento antiequinococo si se requiere."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o veterinário 24h mais próximo de Calais?", "a": "O CHV Nord em Lille (+33 3 20 04 87 87, 1h15 pela A26) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha rotativa nocturna de Calais na Clinique du Calaisis."},
-        {"q": "Os veterinários de Calais falam inglês?", "a": "Sim na Clinique du Calaisis e na Clinique de la Plage; o pessoal é fluente graças ao forte tráfego ferry UK e à clientela britânica reformada na Côte d'Opale."},
-        {"q": "Um veterinário francês pode assinar os papéis de regresso UK do meu cão?", "a": "Só um Official Veterinarian (OV) certificado APHA pode assinar os documentos de regresso UK; a maioria das clínicas de Calais não está certificada APHA. Planeie com antecedência: o seu AHC é emitido no UK antes da viagem e válido 4 meses para as travessias de regresso."}
+        {
+          "q": "Onde fica o veterinário 24h mais próximo de Calais?",
+          "a": "O CHV AniCura Nordvet em La Madeleine perto de Lille (+33 3 20 51 00 66, cerca de 1h15 pela A26) é o verdadeiro hospital de referência 24/7 mais próximo. Para urgências locais fora de horas, ligue para a Maison des Urgences Vétérinaires (+33 3 59 72 20 20) ou para o 3115 nacional para contactar o veterinário de serviço."
+        },
+        {
+          "q": "Os veterinários de Calais falam inglês?",
+          "a": "Em geral sim; graças ao forte tráfego ferry britânico e à comunidade inglesa da Côte d'Opale, o inglês é amplamente falado nas clínicas de Calais."
+        },
+        {
+          "q": "Um veterinário francês pode assinar os papéis de regresso UK do meu cão?",
+          "a": "Não. O Animal Health Certificate UK é emitido no Reino Unido antes de viajar e a maioria das clínicas de Calais não assina documentos de regresso ao UK. Planeie o seu AHC com antecedência; um veterinário francês trata da verificação do passaporte europeu e do tratamento antiequinococo quando necessário."
+        }
       ]
     },
     "tips": {
@@ -638,24 +827,60 @@
         "O Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km a oeste na Côte d'Opale é a referência canina regional; trilhos no topo da falésia o ano inteiro com vistas directas para as falésias brancas de Dover e a rota marítima mais movimentada do planeta."
       ],
       "faqsEn": [
-        {"q": "Is Calais a good base for a pet-friendly Channel holiday?", "a": "Yes, the combination of three competing Dover ferry operators, the pet-perfect Eurotunnel Le Shuttle (dogs in your car the whole crossing), the Cap Blanc-Nez / Cap Gris-Nez Grand Site 35 km west, the 12 km Plage de Calais sand corridor and a thoroughly bilingual brasserie scene makes it the obvious first or last stop for any UK-Continental pet road trip."},
-        {"q": "Do I need a muzzle in public in Calais?", "a": "Only for category 1 and 2 restricted breeds; standard breeds need only a leash. The Sytac buses and TGV trains require muzzles on larger dogs; ferry / Eurotunnel crossings have their own per-operator rules."},
-        {"q": "What is the best month for Calais with a dog?", "a": "May-June and September-October: mild Channel temperatures, lower humidity, lighter crowds, full Cap Blanc-Nez access (outside ground-nesting bird season April-July near sensitive zones) and the Plage de Calais ends open year-round."}
+        {
+          "q": "Is Calais a good base for a pet-friendly Channel holiday?",
+          "a": "Yes, the combination of three competing Dover ferry operators, the pet-perfect Eurotunnel Le Shuttle (dogs in your car the whole crossing), the Cap Blanc-Nez / Cap Gris-Nez Grand Site 35 km west, the 12 km Plage de Calais sand corridor and a thoroughly bilingual brasserie scene makes it the obvious first or last stop for any UK-Continental pet road trip."
+        },
+        {
+          "q": "Do I need a muzzle in public in Calais?",
+          "a": "Only for category 1 and 2 restricted breeds; standard breeds need only a leash. The Sytac buses and TGV trains require muzzles on larger dogs; ferry / Eurotunnel crossings have their own per-operator rules."
+        },
+        {
+          "q": "What is the best month for Calais with a dog?",
+          "a": "May-June and September-October: mild Channel temperatures, lower humidity, lighter crowds, full Cap Blanc-Nez access (outside ground-nesting bird season April-July near sensitive zones) and the Plage de Calais ends open year-round."
+        }
       ],
       "faqsFr": [
-        {"q": "Calais est-elle une bonne base pour des vacances pet-friendly sur la Manche ?", "a": "Oui, la combinaison de trois opérateurs ferry Douvres concurrents, de l'Eurotunnel Le Shuttle pet-parfait (chiens dans votre voiture toute la traversée), du Grand Site Cap Blanc-Nez / Cap Gris-Nez à 35 km à l'ouest, du corridor sableux de 12 km Plage de Calais et d'une scène brasserie pleinement bilingue en fait l'arrêt évident de début ou de fin de tout road trip pet UK-Continent."},
-        {"q": "Ai-je besoin d'une muselière en public à Calais ?", "a": "Seulement pour les races de catégorie 1 et 2 ; les races standard n'ont besoin que d'une laisse. Les bus Sytac et les trains TGV exigent la muselière pour les grands chiens ; les traversées ferry / Eurotunnel ont leurs propres règles par opérateur."},
-        {"q": "Quel est le meilleur mois à Calais avec un chien ?", "a": "Mai-juin et septembre-octobre : températures douces de la Manche, humidité plus basse, moins de monde, accès complet au Cap Blanc-Nez (hors saison de nidification au sol avril-juillet près des zones sensibles) et les extrémités de la Plage de Calais ouvertes toute l'année."}
+        {
+          "q": "Calais est-elle une bonne base pour des vacances pet-friendly sur la Manche ?",
+          "a": "Oui, la combinaison de trois opérateurs ferry Douvres concurrents, de l'Eurotunnel Le Shuttle pet-parfait (chiens dans votre voiture toute la traversée), du Grand Site Cap Blanc-Nez / Cap Gris-Nez à 35 km à l'ouest, du corridor sableux de 12 km Plage de Calais et d'une scène brasserie pleinement bilingue en fait l'arrêt évident de début ou de fin de tout road trip pet UK-Continent."
+        },
+        {
+          "q": "Ai-je besoin d'une muselière en public à Calais ?",
+          "a": "Seulement pour les races de catégorie 1 et 2 ; les races standard n'ont besoin que d'une laisse. Les bus Sytac et les trains TGV exigent la muselière pour les grands chiens ; les traversées ferry / Eurotunnel ont leurs propres règles par opérateur."
+        },
+        {
+          "q": "Quel est le meilleur mois à Calais avec un chien ?",
+          "a": "Mai-juin et septembre-octobre : températures douces de la Manche, humidité plus basse, moins de monde, accès complet au Cap Blanc-Nez (hors saison de nidification au sol avril-juillet près des zones sensibles) et les extrémités de la Plage de Calais ouvertes toute l'année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Calais una buena base para unas vacaciones pet-friendly en el Canal?", "a": "Sí, la combinación de tres operadores ferry Dover en competencia, del Eurotunnel Le Shuttle pet-perfecto (perros en tu coche toda la travesía), del Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km al oeste, del corredor arenoso de 12 km Plage de Calais y de una escena brasserie plenamente bilingüe la convierten en la parada evidente de inicio o fin de cualquier road trip pet UK-Continente."},
-        {"q": "¿Necesito bozal en público en Calais?", "a": "Solo para razas de categoría 1 y 2; las razas estándar solo necesitan correa. Los buses Sytac y los trenes TGV exigen bozal para perros grandes; las travesías ferry / Eurotunnel tienen sus propias reglas por operador."},
-        {"q": "¿Cuál es el mejor mes para Calais con perro?", "a": "Mayo-junio y septiembre-octubre: temperaturas suaves del Canal, menor humedad, menos gente, acceso completo al Cap Blanc-Nez (fuera de temporada de nidificación en suelo abril-julio cerca de zonas sensibles) y los extremos de la Plage de Calais abiertos todo el año."}
+        {
+          "q": "¿Es Calais una buena base para unas vacaciones pet-friendly en el Canal?",
+          "a": "Sí, la combinación de tres operadores ferry Dover en competencia, del Eurotunnel Le Shuttle pet-perfecto (perros en tu coche toda la travesía), del Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km al oeste, del corredor arenoso de 12 km Plage de Calais y de una escena brasserie plenamente bilingüe la convierten en la parada evidente de inicio o fin de cualquier road trip pet UK-Continente."
+        },
+        {
+          "q": "¿Necesito bozal en público en Calais?",
+          "a": "Solo para razas de categoría 1 y 2; las razas estándar solo necesitan correa. Los buses Sytac y los trenes TGV exigen bozal para perros grandes; las travesías ferry / Eurotunnel tienen sus propias reglas por operador."
+        },
+        {
+          "q": "¿Cuál es el mejor mes para Calais con perro?",
+          "a": "Mayo-junio y septiembre-octubre: temperaturas suaves del Canal, menor humedad, menos gente, acceso completo al Cap Blanc-Nez (fuera de temporada de nidificación en suelo abril-julio cerca de zonas sensibles) y los extremos de la Plage de Calais abiertos todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Calais é uma boa base para férias pet-friendly no Canal?", "a": "Sim, a combinação de três operadores ferry Dover concorrentes, do Eurotunnel Le Shuttle pet-perfeito (cães no seu carro toda a travessia), do Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km a oeste, do corredor arenoso de 12 km Plage de Calais e de uma cena brasserie plenamente bilingue fazem dela a paragem óbvia de início ou fim de qualquer road trip pet UK-Continente."},
-        {"q": "Preciso de açaime em público em Calais?", "a": "Só para raças de categoria 1 e 2; as raças standard só precisam de trela. Os autocarros Sytac e os comboios TGV exigem açaime para cães grandes; as travessias ferry / Eurotunnel têm as suas próprias regras por operador."},
-        {"q": "Qual é o melhor mês para Calais com cão?", "a": "Maio-junho e setembro-outubro: temperaturas suaves do Canal, menor humidade, menos gente, acesso completo ao Cap Blanc-Nez (fora de época de nidificação no solo abril-julho perto de zonas sensíveis) e as extremidades da Plage de Calais abertas o ano inteiro."}
+        {
+          "q": "Calais é uma boa base para férias pet-friendly no Canal?",
+          "a": "Sim, a combinação de três operadores ferry Dover concorrentes, do Eurotunnel Le Shuttle pet-perfeito (cães no seu carro toda a travessia), do Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km a oeste, do corredor arenoso de 12 km Plage de Calais e de uma cena brasserie plenamente bilingue fazem dela a paragem óbvia de início ou fim de qualquer road trip pet UK-Continente."
+        },
+        {
+          "q": "Preciso de açaime em público em Calais?",
+          "a": "Só para raças de categoria 1 e 2; as raças standard só precisam de trela. Os autocarros Sytac e os comboios TGV exigem açaime para cães grandes; as travessias ferry / Eurotunnel têm as suas próprias regras por operador."
+        },
+        {
+          "q": "Qual é o melhor mês para Calais com cão?",
+          "a": "Maio-junho e setembro-outubro: temperaturas suaves do Canal, menor humidade, menos gente, acesso completo ao Cap Blanc-Nez (fora de época de nidificação no solo abril-julho perto de zonas sensíveis) e as extremidades da Plage de Calais abertas o ano inteiro."
+        }
       ]
     },
     "attractions": {
@@ -671,7 +896,7 @@
         {
           "name": "Hôtel de Ville belfry and Burghers of Calais",
           "neighborhood": "Place du Soldat Inconnu",
-          "photo": "/images/city-places/calais-attractions-hotel-de-ville.jpg",
+          "photo": "/images/city-places/calais-attractions-hotel-de-ville-belfry-and-burghers-of-calais.jpg",
           "website": "https://www.calais.fr/",
           "description": "The Flemish-Renaissance Hôtel de Ville (1911-1923) crowned by a 75 m belfry, inscribed UNESCO World Heritage in 2005 as part of the Belfries of Belgium and France series. The square in front holds Auguste Rodin's bronze Les Bourgeois de Calais (1895), one of the most famous public sculptures of the 19th century, depicting the six city notables who in 1347 offered themselves as hostages to Edward III of England to spare Calais during the Hundred Years' War. The belfry tower climb is free; lift admits assistance dogs only. The square is fully dog-friendly year-round.",
           "descriptionFr": "L'Hôtel de Ville flamand-Renaissance (1911-1923) couronné par un beffroi de 75 m, inscrit au Patrimoine mondial UNESCO en 2005 dans la série des Beffrois de Belgique et de France. La place devant accueille Les Bourgeois de Calais en bronze d'Auguste Rodin (1895), l'une des sculptures publiques les plus célèbres du 19e siècle, représentant les six notables qui en 1347 se sont offerts en otage à Édouard III d'Angleterre pour épargner Calais pendant la guerre de Cent Ans. La montée du beffroi est gratuite ; l'ascenseur n'admet que les chiens d'assistance. La place est entièrement dog-friendly toute l'année.",
@@ -694,7 +919,7 @@
         {
           "name": "Tour du Guet medieval watchtower",
           "neighborhood": "Place d'Armes",
-          "photo": "/images/city-places/calais-attractions-tour-du-guet.jpg",
+          "photo": "/images/city-places/calais-attractions-tour-du-guet-medieval-watchtower.jpg",
           "website": "https://www.calais.fr/",
           "description": "A rare 1214 medieval watchtower (39 m), one of the few surviving structures of pre-Renaissance Calais, standing in the Place d'Armes opposite the former Église Notre-Dame de Calais. Used for centuries to watch for ships, fires and English raids, the tower marks the historic heart of the original walled town. The square at the base is fully dog-friendly year-round; the tower interior is not normally open to the public.",
           "descriptionFr": "Rare tour de guet médiévale de 1214 (39 m), l'une des rares structures survivantes du Calais pré-Renaissance, sur la Place d'Armes face à l'ancienne Église Notre-Dame de Calais. Utilisée pendant des siècles pour surveiller les navires, les incendies et les raids anglais, la tour marque le cœur historique de la ville fortifiée d'origine. La place à sa base est entièrement dog-friendly toute l'année ; l'intérieur de la tour n'est normalement pas ouvert au public.",
@@ -717,7 +942,7 @@
         {
           "name": "Phare de Calais lighthouse",
           "neighborhood": "Courgain Maritime / front de mer",
-          "photo": "/images/city-places/calais-attractions-phare.jpg",
+          "photo": "/images/city-places/calais-attractions-phare-de-calais-lighthouse.jpg",
           "website": "https://www.calais.fr/",
           "description": "The iconic 51 m black-and-white striped Calais lighthouse (1848) standing in the Courgain Maritime fishermen's quarter at the eastern edge of the seafront, with a 271-step climb to the lantern room and a 360° panorama over Calais, the ferry port, the Plage de Calais and the Dover white cliffs on clear days. The base esplanade is fully dog-friendly year-round; the climb itself admits assistance dogs only.",
           "descriptionFr": "Le phare iconique de Calais à rayures noires et blanches de 51 m (1848) dressé dans le quartier des pêcheurs du Courgain Maritime à la lisière est du front de mer, avec une montée de 271 marches jusqu'à la lanterne et un panorama 360° sur Calais, le port des ferries, la Plage de Calais et les falaises blanches de Douvres par temps clair. L'esplanade à la base est entièrement dog-friendly toute l'année ; la montée elle-même n'admet que les chiens d'assistance.",
@@ -759,24 +984,60 @@
         "Combine a vista do campanário do Hôtel de Ville com os blockhouses WWI do Parc Saint-Pierre imediatamente atrás para um circuito patrimonial de 90 minutos a cobrir arquitectura cívica renascentista, escultura de Rodin e fortificações alemãs da Primeira Guerra Mundial num raio de 500 m."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Calais museums?", "a": "Only assistance dogs may enter the museum interiors (Cité de la Dentelle, Musée des Beaux-Arts); leashed pets are welcome on all squares (Place d'Armes, Place du Soldat Inconnu), parks, the Hôtel de Ville exterior, the Rodin Burghers, the Tour du Guet base and the lighthouse esplanade."},
-        {"q": "Can I climb the Hôtel de Ville belfry with my dog?", "a": "The belfry climb is free but the lift admits only assistance dogs. The view is one of the finest on the Côte d'Opale (Calais, ferry port, Dover white cliffs on clear days); leave a small dog with a partner at the cafés on the square below if the lift restriction applies."},
-        {"q": "Is Calais centre walkable with a dog?", "a": "Yes, the historic centre between Place d'Armes (Tour du Guet) and the Hôtel de Ville is a 15-minute flat walk along Boulevard Jacquard, and an extra 10 minutes north reaches the seafront, the lighthouse and the Plage de Calais; a leashed dog handles the full circuit in 2 hours."}
+        {
+          "q": "Are dogs allowed in the Calais museums?",
+          "a": "Only assistance dogs may enter the museum interiors (Cité de la Dentelle, Musée des Beaux-Arts); leashed pets are welcome on all squares (Place d'Armes, Place du Soldat Inconnu), parks, the Hôtel de Ville exterior, the Rodin Burghers, the Tour du Guet base and the lighthouse esplanade."
+        },
+        {
+          "q": "Can I climb the Hôtel de Ville belfry with my dog?",
+          "a": "The belfry climb is free but the lift admits only assistance dogs. The view is one of the finest on the Côte d'Opale (Calais, ferry port, Dover white cliffs on clear days); leave a small dog with a partner at the cafés on the square below if the lift restriction applies."
+        },
+        {
+          "q": "Is Calais centre walkable with a dog?",
+          "a": "Yes, the historic centre between Place d'Armes (Tour du Guet) and the Hôtel de Ville is a 15-minute flat walk along Boulevard Jacquard, and an extra 10 minutes north reaches the seafront, the lighthouse and the Plage de Calais; a leashed dog handles the full circuit in 2 hours."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans les musées de Calais ?", "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des musées (Cité de la Dentelle, Musée des Beaux-Arts) ; les chiens en laisse sont bienvenus sur toutes les places (Place d'Armes, Place du Soldat Inconnu), parcs, l'extérieur de l'Hôtel de Ville, les Bourgeois de Rodin, la base de la Tour du Guet et l'esplanade du phare."},
-        {"q": "Puis-je monter au beffroi de l'Hôtel de Ville avec mon chien ?", "a": "La montée du beffroi est gratuite mais l'ascenseur n'admet que les chiens d'assistance. La vue est l'une des plus belles de la Côte d'Opale (Calais, port des ferries, falaises blanches de Douvres par temps clair) ; laissez un petit chien avec un compagnon aux cafés de la place en bas si la restriction d'ascenseur s'applique."},
-        {"q": "Le centre de Calais est-il accessible à pied avec un chien ?", "a": "Oui, le centre historique entre la Place d'Armes (Tour du Guet) et l'Hôtel de Ville est à 15 minutes plat à pied par le Boulevard Jacquard, et 10 minutes supplémentaires au nord atteint le front de mer, le phare et la Plage de Calais ; un chien en laisse fait le circuit complet en 2 heures."}
+        {
+          "q": "Les chiens sont-ils autorisés dans les musées de Calais ?",
+          "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des musées (Cité de la Dentelle, Musée des Beaux-Arts) ; les chiens en laisse sont bienvenus sur toutes les places (Place d'Armes, Place du Soldat Inconnu), parcs, l'extérieur de l'Hôtel de Ville, les Bourgeois de Rodin, la base de la Tour du Guet et l'esplanade du phare."
+        },
+        {
+          "q": "Puis-je monter au beffroi de l'Hôtel de Ville avec mon chien ?",
+          "a": "La montée du beffroi est gratuite mais l'ascenseur n'admet que les chiens d'assistance. La vue est l'une des plus belles de la Côte d'Opale (Calais, port des ferries, falaises blanches de Douvres par temps clair) ; laissez un petit chien avec un compagnon aux cafés de la place en bas si la restriction d'ascenseur s'applique."
+        },
+        {
+          "q": "Le centre de Calais est-il accessible à pied avec un chien ?",
+          "a": "Oui, le centre historique entre la Place d'Armes (Tour du Guet) et l'Hôtel de Ville est à 15 minutes plat à pied par le Boulevard Jacquard, et 10 minutes supplémentaires au nord atteint le front de mer, le phare et la Plage de Calais ; un chien en laisse fait le circuit complet en 2 heures."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en los museos de Calais?", "a": "Solo los perros de asistencia pueden entrar en los interiores de los museos (Cité de la Dentelle, Musée des Beaux-Arts); los perros con correa son bienvenidos en todas las plazas (Place d'Armes, Place du Soldat Inconnu), parques, el exterior del Hôtel de Ville, Los Burgueses de Rodin, la base de la Tour du Guet y la explanada del faro."},
-        {"q": "¿Puedo subir al campanario del Hôtel de Ville con mi perro?", "a": "La subida al campanario es gratis pero el ascensor solo admite perros de asistencia. La vista es una de las más bonitas de la Côte d'Opale (Calais, puerto de ferries, acantilados blancos de Dover en días claros); deja un perro pequeño con un compañero en los cafés de la plaza abajo si se aplica la restricción de ascensor."},
-        {"q": "¿El centro de Calais es accesible a pie con un perro?", "a": "Sí, el centro histórico entre la Place d'Armes (Tour du Guet) y el Hôtel de Ville está a 15 minutos a pie llanos por el Boulevard Jacquard, y 10 minutos más al norte alcanza el frente marítimo, el faro y la Plage de Calais; un perro con correa hace el recorrido completo en 2 horas."}
+        {
+          "q": "¿Se admiten perros en los museos de Calais?",
+          "a": "Solo los perros de asistencia pueden entrar en los interiores de los museos (Cité de la Dentelle, Musée des Beaux-Arts); los perros con correa son bienvenidos en todas las plazas (Place d'Armes, Place du Soldat Inconnu), parques, el exterior del Hôtel de Ville, Los Burgueses de Rodin, la base de la Tour du Guet y la explanada del faro."
+        },
+        {
+          "q": "¿Puedo subir al campanario del Hôtel de Ville con mi perro?",
+          "a": "La subida al campanario es gratis pero el ascensor solo admite perros de asistencia. La vista es una de las más bonitas de la Côte d'Opale (Calais, puerto de ferries, acantilados blancos de Dover en días claros); deja un perro pequeño con un compañero en los cafés de la plaza abajo si se aplica la restricción de ascensor."
+        },
+        {
+          "q": "¿El centro de Calais es accesible a pie con un perro?",
+          "a": "Sí, el centro histórico entre la Place d'Armes (Tour du Guet) y el Hôtel de Ville está a 15 minutos a pie llanos por el Boulevard Jacquard, y 10 minutos más al norte alcanza el frente marítimo, el faro y la Plage de Calais; un perro con correa hace el recorrido completo en 2 horas."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos nos museus de Calais?", "a": "Só os cães de assistência podem entrar nos interiores dos museus (Cité de la Dentelle, Musée des Beaux-Arts); os cães com trela são bem-vindos em todas as praças (Place d'Armes, Place du Soldat Inconnu), parques, o exterior do Hôtel de Ville, Os Burgueses de Rodin, a base da Tour du Guet e a esplanada do farol."},
-        {"q": "Posso subir ao campanário do Hôtel de Ville com o meu cão?", "a": "A subida ao campanário é grátis mas o elevador só admite cães de assistência. A vista é uma das mais bonitas da Côte d'Opale (Calais, porto dos ferries, falésias brancas de Dover em dias claros); deixe um cão pequeno com um companheiro nos cafés da praça em baixo se a restrição do elevador se aplicar."},
-        {"q": "O centro de Calais é acessível a pé com um cão?", "a": "Sim, o centro histórico entre a Place d'Armes (Tour du Guet) e o Hôtel de Ville fica a 15 minutos a pé planos pelo Boulevard Jacquard, e 10 minutos extra a norte atinge a frente marítima, o farol e a Plage de Calais; um cão com trela faz o circuito completo em 2 horas."}
+        {
+          "q": "Os cães são admitidos nos museus de Calais?",
+          "a": "Só os cães de assistência podem entrar nos interiores dos museus (Cité de la Dentelle, Musée des Beaux-Arts); os cães com trela são bem-vindos em todas as praças (Place d'Armes, Place du Soldat Inconnu), parques, o exterior do Hôtel de Ville, Os Burgueses de Rodin, a base da Tour du Guet e a esplanada do farol."
+        },
+        {
+          "q": "Posso subir ao campanário do Hôtel de Ville com o meu cão?",
+          "a": "A subida ao campanário é grátis mas o elevador só admite cães de assistência. A vista é uma das mais bonitas da Côte d'Opale (Calais, porto dos ferries, falésias brancas de Dover em dias claros); deixe um cão pequeno com um companheiro nos cafés da praça em baixo se a restrição do elevador se aplicar."
+        },
+        {
+          "q": "O centro de Calais é acessível a pé com um cão?",
+          "a": "Sim, o centro histórico entre a Place d'Armes (Tour du Guet) e o Hôtel de Ville fica a 15 minutos a pé planos pelo Boulevard Jacquard, e 10 minutos extra a norte atinge a frente marítima, o farol e a Plage de Calais; um cão com trela faz o circuito completo em 2 horas."
+        }
       ]
     },
     "petsitting": {
@@ -868,24 +1129,60 @@
         "Reserve com 2-3 semanas de antecedência para qualquer estadia durante a época alta estival de julho-agosto e especialmente em torno das grandes férias escolares UK (Páscoa, half-term de maio, verão) quando o tráfego transmancha pet atinge o pico."
       ],
       "faqsEn": [
-        {"q": "How much does pet sitting cost in Calais?", "a": "Expect EUR 18-26 per night for boarding and EUR 10-15 per 30-minute walk via Pawshake, Animaute or Holidog; rural boarding kennels around Sangatte, Coquelles and the Côte d'Opale villages charge from EUR 20 per day."},
-        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Calais hotels keep a short list of Pawshake and Holidog hosts who do evening drop-ins, useful for a Le Channel dinner or a sunset trip to the Cap Blanc-Nez chalk cliffs."},
-        {"q": "Do I need to bring my dog's food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset, particularly important if the dog has just done a ferry or Le Shuttle crossing."}
+        {
+          "q": "How much does pet sitting cost in Calais?",
+          "a": "Expect EUR 18-26 per night for boarding and EUR 10-15 per 30-minute walk via Pawshake, Animaute or Holidog; rural boarding kennels around Sangatte, Coquelles and the Côte d'Opale villages charge from EUR 20 per day."
+        },
+        {
+          "q": "Can hotels recommend a sitter for an evening out?",
+          "a": "Yes, larger Calais hotels keep a short list of Pawshake and Holidog hosts who do evening drop-ins, useful for a Le Channel dinner or a sunset trip to the Cap Blanc-Nez chalk cliffs."
+        },
+        {
+          "q": "Do I need to bring my dog's food to a sitter?",
+          "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset, particularly important if the dog has just done a ferry or Le Shuttle crossing."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la garde à Calais ?", "a": "Comptez 18-26 € par nuit en pension et 10-15 € par balade de 30 minutes via Pawshake, Animaute ou Holidog ; les pensions rurales autour de Sangatte, Coquelles et des villages de la Côte d'Opale facturent à partir de 20 € par jour."},
-        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Calais gardent une courte liste d'hôtes Pawshake et Holidog disponibles le soir, utile pour un dîner Le Channel ou une sortie coucher de soleil aux falaises crayeuses du Cap Blanc-Nez."},
-        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs, particulièrement important si le chien vient de faire une traversée ferry ou Le Shuttle."}
+        {
+          "q": "Combien coûte la garde à Calais ?",
+          "a": "Comptez 18-26 € par nuit en pension et 10-15 € par balade de 30 minutes via Pawshake, Animaute ou Holidog ; les pensions rurales autour de Sangatte, Coquelles et des villages de la Côte d'Opale facturent à partir de 20 € par jour."
+        },
+        {
+          "q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?",
+          "a": "Oui, les grands hôtels de Calais gardent une courte liste d'hôtes Pawshake et Holidog disponibles le soir, utile pour un dîner Le Channel ou une sortie coucher de soleil aux falaises crayeuses du Cap Blanc-Nez."
+        },
+        {
+          "q": "Dois-je apporter la nourriture du chien au sitter ?",
+          "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs, particulièrement important si le chien vient de faire une traversée ferry ou Le Shuttle."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el cuidado de mascotas en Calais?", "a": "Cuenta 18-26 € por noche en residencia y 10-15 € por paseo de 30 minutos vía Pawshake, Animaute o Holidog; las residencias rurales alrededor de Sangatte, Coquelles y los pueblos de la Côte d'Opale cobran desde 20 € por día."},
-        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Calais guardan una lista corta de anfitriones Pawshake y Holidog disponibles por la tarde, útil para una cena en Le Channel o una salida al atardecer en los acantilados calizos del Cap Blanc-Nez."},
-        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos, particularmente importante si el perro acaba de hacer una travesía ferry o Le Shuttle."}
+        {
+          "q": "¿Cuánto cuesta el cuidado de mascotas en Calais?",
+          "a": "Cuenta 18-26 € por noche en residencia y 10-15 € por paseo de 30 minutos vía Pawshake, Animaute o Holidog; las residencias rurales alrededor de Sangatte, Coquelles y los pueblos de la Côte d'Opale cobran desde 20 € por día."
+        },
+        {
+          "q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?",
+          "a": "Sí, los grandes hoteles de Calais guardan una lista corta de anfitriones Pawshake y Holidog disponibles por la tarde, útil para una cena en Le Channel o una salida al atardecer en los acantilados calizos del Cap Blanc-Nez."
+        },
+        {
+          "q": "¿Tengo que llevar la comida del perro al cuidador?",
+          "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos, particularmente importante si el perro acaba de hacer una travesía ferry o Le Shuttle."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa o cuidado de animais em Calais?", "a": "Conte 18-26 € por noite em creche e 10-15 € por passeio de 30 minutos via Pawshake, Animaute ou Holidog; as creches rurais em torno de Sangatte, Coquelles e aldeias da Côte d'Opale cobram desde 20 € por dia."},
-        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Calais guardam uma lista curta de anfitriões Pawshake e Holidog disponíveis à noite, útil para um jantar Le Channel ou uma saída ao pôr-do-sol nas falésias cretáceas do Cap Blanc-Nez."},
-        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos, particularmente importante se o cão acabou de fazer uma travessia ferry ou Le Shuttle."}
+        {
+          "q": "Quanto custa o cuidado de animais em Calais?",
+          "a": "Conte 18-26 € por noite em creche e 10-15 € por passeio de 30 minutos via Pawshake, Animaute ou Holidog; as creches rurais em torno de Sangatte, Coquelles e aldeias da Côte d'Opale cobram desde 20 € por dia."
+        },
+        {
+          "q": "Os hotéis podem recomendar um sitter para uma saída à noite?",
+          "a": "Sim, os grandes hotéis de Calais guardam uma lista curta de anfitriões Pawshake e Holidog disponíveis à noite, útil para um jantar Le Channel ou uma saída ao pôr-do-sol nas falésias cretáceas do Cap Blanc-Nez."
+        },
+        {
+          "q": "Tenho de levar a comida do cão ao cuidador?",
+          "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos, particularmente importante se o cão acabou de fazer uma travessia ferry ou Le Shuttle."
+        }
       ]
     }
   }

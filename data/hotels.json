@@ -6557,6 +6557,135 @@
     "slug": "hostel-marina-cagliari"
   },
   {
+    "id": "calais-1",
+    "name": "Holiday Inn Calais-Centre by IHG",
+    "destinationSlug": "calais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 7.6,
+    "reviewCount": 2167,
+    "priceFrom": 89,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/holidayinncalais.html",
+    "petFee": 10,
+    "petPolicy": "Dogs and cats welcome for EUR 10 per pet, per night, with food and water bowls provided. Central location with sea views and a garden.",
+    "highlights": [
+      "Central, sea views",
+      "Garden",
+      "Restaurant & bar",
+      "Free WiFi"
+    ],
+    "slug": "holiday-inn-calais-centre",
+    "petPolicyPt": "Cães e gatos bem-vindos por 10 EUR por animal, por noite, com taças de comida e água. Localização central com vista de mar e jardim."
+  },
+  {
+    "id": "calais-2",
+    "name": "ibis Styles Calais Centre",
+    "destinationSlug": "calais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 1597,
+    "priceFrom": 79,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-styles-calais-centre.html",
+    "petFee": 8,
+    "petPolicy": "One pet of any size welcome for EUR 8 per night. Cheerful central hotel near Place d'Armes and the Tour du Guet, a short walk from the beach.",
+    "highlights": [
+      "Central, near Place d'Armes",
+      "Breakfast included",
+      "Free WiFi",
+      "Helpful staff"
+    ],
+    "slug": "ibis-styles-calais-centre",
+    "petPolicyPt": "Um animal de qualquer tamanho bem-vindo por 8 EUR por noite. Hotel central e alegre perto da Place d'Armes e da Tour du Guet, a curta distância da praia."
+  },
+  {
+    "id": "calais-3",
+    "name": "ibis Calais Car Ferry",
+    "destinationSlug": "calais",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.4,
+    "reviewCount": 3542,
+    "priceFrom": 52,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-calais-car-ferry.html",
+    "petFee": 5,
+    "petPolicy": "Dogs of any size welcome for EUR 5 per pet, per night; cats are not accepted. Five minutes from the ferry terminal and Eurotunnel, ideal for an early Dover crossing.",
+    "highlights": [
+      "Minutes from the ferry terminal",
+      "Easy A16 access",
+      "Restaurant",
+      "Free parking"
+    ],
+    "slug": "ibis-calais-car-ferry",
+    "petPolicyPt": "Cães de qualquer tamanho bem-vindos por 5 EUR por animal, por noite; gatos não são aceites. A cinco minutos do terminal dos ferries e do Eurotunnel, ideal para uma travessia matinal para Dover."
+  },
+  {
+    "id": "calais-4",
+    "name": "Brit Hotel Calais",
+    "destinationSlug": "calais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.5,
+    "reviewCount": 278,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/brit-calais.html",
+    "petFee": 6,
+    "petPolicy": "Dogs and cats of any size welcome for EUR 6 per pet, per night. Central Calais hotel with a 24-hour front desk, a short drive from the beach and lighthouse.",
+    "highlights": [
+      "Central location",
+      "24-hour front desk",
+      "Free WiFi",
+      "Free parking"
+    ],
+    "slug": "brit-hotel-calais",
+    "petPolicyPt": "Cães e gatos de qualquer tamanho bem-vindos por 6 EUR por animal, por noite. Hotel central de Calais com receção 24 horas, a curta distância de carro da praia e do farol."
+  },
+  {
+    "id": "calais-5",
+    "name": "Les Secrets des Loges",
+    "destinationSlug": "calais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.4,
+    "reviewCount": 778,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/les-secrets-des-loges.html",
+    "petFee": 5,
+    "petPolicy": "Pets welcome for EUR 5 per pet, per night, with bowls available. A characterful boutique B&B behind the Calais theatre, praised for homemade breakfasts and dog-friendly hosts.",
+    "highlights": [
+      "Boutique B&B near the theatre",
+      "Homemade breakfast",
+      "Individually styled rooms",
+      "Free WiFi"
+    ],
+    "slug": "les-secrets-des-loges-calais",
+    "petPolicyPt": "Animais bem-vindos por 5 EUR por animal, por noite, com taças disponíveis. Um B&B boutique cheio de carácter atrás do teatro de Calais, elogiado pelos pequenos-almoços caseiros e anfitriões dog-friendly."
+  },
+  {
     "id": "cambridge-1",
     "name": "University Arms Cambridge",
     "destinationSlug": "cambridge",

@@ -19,7 +19,7 @@
           "name": "Ristorante Bagni Delfino",
           "address": "Via Marina Grande 216, 80067 Sorrento",
           "neighborhood": "Marina Grande old fishing port",
-          "photo": "/images/city-places/sorrento-restaurants-bagni-delfino.jpg",
+          "photo": "/images/city-places/sorrento-restaurants-ristorante-bagni-delfino.jpg",
           "website": "https://www.bagnidelfino.com/",
           "description": "A seafood reference built on a wooden pontoon over the water in the Marina Grande old fishing port, run by the De Gregorio family since 1924, serving the catch landed daily by the Marina Grande gozzi (small wooden fishing boats) under the cliff face crowned by the Villa Comunale gardens 80 m above. Leashed dogs welcome on the entire pontoon terrace; the small indoor salon admits only assistance dogs.",
           "descriptionFr": "Référence fruits de mer construite sur un ponton en bois au-dessus de l'eau dans le vieux port de pêche Marina Grande, tenue par la famille De Gregorio depuis 1924, servant la pêche débarquée chaque jour par les gozzi (petits bateaux de pêche en bois) de Marina Grande sous la falaise couronnée par les jardins de la Villa Comunale à 80 m au-dessus. Chiens en laisse bienvenus sur toute la terrasse ponton ; le petit salon intérieur n'admet que les chiens d'assistance.",
@@ -45,7 +45,7 @@
           "name": "L'Antica Trattoria",
           "address": "Via Padre Reginaldo Giuliani 33, 80067 Sorrento",
           "neighborhood": "Centro storico / 200 m from Piazza Tasso",
-          "photo": "/images/city-places/sorrento-restaurants-antica-trattoria.jpg",
+          "photo": "/images/city-places/sorrento-restaurants-l-antica-trattoria.jpg",
           "website": "https://www.lanticatrattoria.com/",
           "description": "A historic centro storico trattoria 200 m north of Piazza Tasso, opened 1930, with a vine-covered courtyard garden and indoor frescoed rooms in a 17th-century palazzo, serving traditional Sorrentine cooking (gnocchi alla sorrentina, scialatielli ai frutti di mare, parmigiana di melanzane, delizia al limone) and a deep Campania wine list. Leashed dogs welcome in the courtyard garden year-round; the frescoed indoor rooms admit only assistance dogs.",
           "descriptionFr": "Trattoria historique du centre historique à 200 m au nord de la Piazza Tasso, ouverte en 1930, avec une cour-jardin couverte de vigne et des salles intérieures à fresques dans un palazzo du 17e siècle, servant la cuisine sorrentine traditionnelle (gnocchi alla sorrentina, scialatielli ai frutti di mare, parmigiana di melanzane, delizia al limone) et une carte de vins campaniens profonde. Chiens en laisse bienvenus dans la cour-jardin toute l'année ; les salles intérieures à fresques n'admettent que les chiens d'assistance.",
@@ -71,7 +71,7 @@
           "name": "Inn Bufalito Taverna Mediterranea",
           "address": "Vico I Fuoro 21, 80067 Sorrento",
           "neighborhood": "Centro storico / behind Piazza Tasso",
-          "photo": "/images/city-places/sorrento-restaurants-bufalito.jpg",
+          "photo": "/images/city-places/sorrento-restaurants-inn-bufalito-taverna-mediterranea.jpg",
           "website": "https://www.innbufalito.it/",
           "description": "A Slow Food-affiliated Campania mozzarella taverna on a narrow vico behind Piazza Tasso, opened by chef Franco Coppola, working exclusively with mozzarella di bufala campana DOP from the Piana del Sele 50 km south, Cilento goat cheeses and Vesuvius slope wines. Two-table outdoor pavement extension on the cobbled vico; both pavement and the indoor low-ceiling main room welcome leashed dogs year-round.",
           "descriptionFr": "Taverne Slow Food dédiée à la mozzarella campanienne sur un étroit vico derrière la Piazza Tasso, ouverte par le chef Franco Coppola, qui travaille exclusivement la mozzarella di bufala campana DOP de la Piana del Sele à 50 km au sud, les fromages de chèvre du Cilento et les vins des pentes du Vésuve. Extension de deux tables sur le trottoir pavé du vico ; le trottoir et la salle intérieure principale à plafond bas accueillent les chiens en laisse toute l'année.",
@@ -115,24 +115,60 @@
         "De julho a meados de setembro o centro histórico enche-se de mais de 20 000 visitantes diários vindos de cruzeiros e ferries; reserve uma esplanada Piazza Tasso ou Marina Grande com 48-72h de antecedência, o seu cão verá as multidões da passeggiata a desfilar pelo Corso Italia."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside Sorrento restaurants?", "a": "Leashed dogs are welcome on virtually every trattoria terrace, in centro storico courtyards and along the Marina Grande pontoons. Formal upmarket indoor salons (Bagni Delfino indoor room, L'Antica Trattoria frescoed rooms) restrict dogs to the courtyard or terrace; assistance dogs go anywhere."},
-        {"q": "Do Sorrento restaurants speak English?", "a": "Yes commonly; the town hosts roughly 3 million tourists a year off the Circumvesuviana from Naples, the Capri/Ischia/Positano ferries from Marina Piccola and the summer cruise ships, and the trattoria scene around Piazza Tasso, Corso Italia and Marina Grande is comfortably multilingual EN/IT, often FR/ES/DE."},
-        {"q": "Where can I eat dockside fish with my dog?", "a": "Bagni Delfino at Marina Grande sits on a wooden pontoon over the water in the old fishing port; leashed dogs welcome on the entire pontoon terrace and the gozzi return to dock with the day's catch as you eat under the Villa Comunale clifftop 80 m above."}
+        {
+          "q": "Are dogs allowed inside Sorrento restaurants?",
+          "a": "Leashed dogs are welcome on virtually every trattoria terrace, in centro storico courtyards and along the Marina Grande pontoons. Formal upmarket indoor salons (Bagni Delfino indoor room, L'Antica Trattoria frescoed rooms) restrict dogs to the courtyard or terrace; assistance dogs go anywhere."
+        },
+        {
+          "q": "Do Sorrento restaurants speak English?",
+          "a": "Yes commonly; the town hosts roughly 3 million tourists a year off the Circumvesuviana from Naples, the Capri/Ischia/Positano ferries from Marina Piccola and the summer cruise ships, and the trattoria scene around Piazza Tasso, Corso Italia and Marina Grande is comfortably multilingual EN/IT, often FR/ES/DE."
+        },
+        {
+          "q": "Where can I eat dockside fish with my dog?",
+          "a": "Bagni Delfino at Marina Grande sits on a wooden pontoon over the water in the old fishing port; leashed dogs welcome on the entire pontoon terrace and the gozzi return to dock with the day's catch as you eat under the Villa Comunale clifftop 80 m above."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Sorrento ?", "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de trattoria, dans les cours du centre historique et le long des pontons de Marina Grande. Les salons intérieurs haut de gamme (salle intérieure du Bagni Delfino, salles à fresques de L'Antica Trattoria) restreignent les chiens à la cour ou à la terrasse ; les chiens d'assistance vont partout."},
-        {"q": "Les restaurants de Sorrento parlent-ils anglais ?", "a": "Oui couramment ; la ville accueille environ 3 millions de touristes par an venus du Circumvesuviana depuis Naples, des ferries Capri/Ischia/Positano depuis Marina Piccola et des bateaux de croisière d'été, et la scène trattoria autour de la Piazza Tasso, du Corso Italia et de Marina Grande est confortablement multilingue EN/IT, souvent FR/ES/DE."},
-        {"q": "Où manger du poisson direct du quai avec mon chien ?", "a": "Le Bagni Delfino à Marina Grande est construit sur un ponton en bois au-dessus de l'eau dans le vieux port de pêche ; chiens en laisse bienvenus sur toute la terrasse ponton et les gozzi rentrent à quai avec la pêche du jour pendant que vous mangez sous la Villa Comunale en haut de falaise 80 m au-dessus."}
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Sorrento ?",
+          "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de trattoria, dans les cours du centre historique et le long des pontons de Marina Grande. Les salons intérieurs haut de gamme (salle intérieure du Bagni Delfino, salles à fresques de L'Antica Trattoria) restreignent les chiens à la cour ou à la terrasse ; les chiens d'assistance vont partout."
+        },
+        {
+          "q": "Les restaurants de Sorrento parlent-ils anglais ?",
+          "a": "Oui couramment ; la ville accueille environ 3 millions de touristes par an venus du Circumvesuviana depuis Naples, des ferries Capri/Ischia/Positano depuis Marina Piccola et des bateaux de croisière d'été, et la scène trattoria autour de la Piazza Tasso, du Corso Italia et de Marina Grande est confortablement multilingue EN/IT, souvent FR/ES/DE."
+        },
+        {
+          "q": "Où manger du poisson direct du quai avec mon chien ?",
+          "a": "Le Bagni Delfino à Marina Grande est construit sur un ponton en bois au-dessus de l'eau dans le vieux port de pêche ; chiens en laisse bienvenus sur toute la terrasse ponton et les gozzi rentrent à quai avec la pêche du jour pendant que vous mangez sous la Villa Comunale en haut de falaise 80 m au-dessus."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Sorrento?", "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas de trattoria, en los patios del centro histórico y a lo largo de los pontones de Marina Grande. Los salones interiores de gama alta (sala interior del Bagni Delfino, salas con frescos de L'Antica Trattoria) restringen los perros al patio o terraza; los perros de asistencia van a cualquier sitio."},
-        {"q": "¿Los restaurantes de Sorrento hablan inglés?", "a": "Sí habitualmente; la ciudad recibe alrededor de 3 millones de turistas al año venidos del Circumvesuviana desde Nápoles, de los ferries Capri/Ischia/Positano desde Marina Piccola y de los cruceros de verano, y la escena trattoria en torno a la Piazza Tasso, al Corso Italia y a Marina Grande es cómodamente multilingüe EN/IT, a menudo FR/ES/DE."},
-        {"q": "¿Dónde comer pescado directo del muelle con mi perro?", "a": "El Bagni Delfino en Marina Grande está construido sobre un pontón de madera por encima del agua en el viejo puerto pesquero; perros con correa bienvenidos en toda la terraza pontón y los gozzi regresan al muelle con la pesca del día mientras comes bajo la Villa Comunale en lo alto del acantilado a 80 m por encima."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Sorrento?",
+          "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas de trattoria, en los patios del centro histórico y a lo largo de los pontones de Marina Grande. Los salones interiores de gama alta (sala interior del Bagni Delfino, salas con frescos de L'Antica Trattoria) restringen los perros al patio o terraza; los perros de asistencia van a cualquier sitio."
+        },
+        {
+          "q": "¿Los restaurantes de Sorrento hablan inglés?",
+          "a": "Sí habitualmente; la ciudad recibe alrededor de 3 millones de turistas al año venidos del Circumvesuviana desde Nápoles, de los ferries Capri/Ischia/Positano desde Marina Piccola y de los cruceros de verano, y la escena trattoria en torno a la Piazza Tasso, al Corso Italia y a Marina Grande es cómodamente multilingüe EN/IT, a menudo FR/ES/DE."
+        },
+        {
+          "q": "¿Dónde comer pescado directo del muelle con mi perro?",
+          "a": "El Bagni Delfino en Marina Grande está construido sobre un pontón de madera por encima del agua en el viejo puerto pesquero; perros con correa bienvenidos en toda la terraza pontón y los gozzi regresan al muelle con la pesca del día mientras comes bajo la Villa Comunale en lo alto del acantilado a 80 m por encima."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos dentro dos restaurantes de Sorrento?", "a": "Os cães com trela são bem-vindos em praticamente todas as esplanadas de trattoria, nos pátios do centro histórico e ao longo dos pontões de Marina Grande. Os salões interiores de gama alta (sala interior do Bagni Delfino, salas com frescos de L'Antica Trattoria) restringem os cães ao pátio ou esplanada; os cães de assistência vão a qualquer lugar."},
-        {"q": "Os restaurantes de Sorrento falam inglês?", "a": "Sim habitualmente; a cidade recebe cerca de 3 milhões de turistas por ano vindos do Circumvesuviana desde Nápoles, dos ferries Capri/Ischia/Positano desde Marina Piccola e dos cruzeiros de verão, e a cena trattoria em torno da Piazza Tasso, do Corso Italia e de Marina Grande é confortavelmente multilingue EN/IT, muitas vezes FR/ES/DE."},
-        {"q": "Onde comer peixe directo do cais com o meu cão?", "a": "O Bagni Delfino em Marina Grande está construído sobre um pontão de madeira por cima da água no velho porto piscatório; cães com trela bem-vindos em toda a esplanada pontão e os gozzi regressam ao cais com a pesca do dia enquanto come sob a Villa Comunale no topo da falésia a 80 m acima."}
+        {
+          "q": "Os cães são admitidos dentro dos restaurantes de Sorrento?",
+          "a": "Os cães com trela são bem-vindos em praticamente todas as esplanadas de trattoria, nos pátios do centro histórico e ao longo dos pontões de Marina Grande. Os salões interiores de gama alta (sala interior do Bagni Delfino, salas com frescos de L'Antica Trattoria) restringem os cães ao pátio ou esplanada; os cães de assistência vão a qualquer lugar."
+        },
+        {
+          "q": "Os restaurantes de Sorrento falam inglês?",
+          "a": "Sim habitualmente; a cidade recebe cerca de 3 milhões de turistas por ano vindos do Circumvesuviana desde Nápoles, dos ferries Capri/Ischia/Positano desde Marina Piccola e dos cruzeiros de verão, e a cena trattoria em torno da Piazza Tasso, do Corso Italia e de Marina Grande é confortavelmente multilingue EN/IT, muitas vezes FR/ES/DE."
+        },
+        {
+          "q": "Onde comer peixe directo do cais com o meu cão?",
+          "a": "O Bagni Delfino em Marina Grande está construído sobre um pontão de madeira por cima da água no velho porto piscatório; cães com trela bem-vindos em toda a esplanada pontão e os gozzi regressam ao cais com a pesca do dia enquanto come sob a Villa Comunale no topo da falésia a 80 m acima."
+        }
       ]
     },
     "parks": {
@@ -149,7 +185,7 @@
           "name": "Villa Comunale clifftop gardens",
           "address": "Via San Francesco, 80067 Sorrento",
           "neighborhood": "Centro storico / clifftop above Marina Grande",
-          "photo": "/images/city-places/sorrento-parks-villa-comunale.jpg",
+          "photo": "/images/city-places/sorrento-parks-villa-comunale-clifftop-gardens.jpg",
           "website": "https://www.sorrentotourism.com/",
           "description": "A 1 hectare municipal clifftop garden on the edge of the centro storico, perched 80 m above the Marina Grande old fishing port, with the famous panoramic terrace offering a 180 degree sweep across the Bay of Naples to Mount Vesuvius, Naples, Procida and Ischia. Mature umbrella pines, palms and orange trees, benches and a small bandstand. Adjoins the Chiostro di San Francesco cloister. Leashed dogs welcome year-round on all paths.",
           "descriptionFr": "Jardin municipal en haut de falaise d'1 hectare en bordure du centre historique, perché à 80 m au-dessus du vieux port de pêche Marina Grande, avec la fameuse terrasse panoramique offrant un balayage à 180 degrés sur la Baie de Naples vers le Vésuve, Naples, Procida et Ischia. Pins parasols, palmiers et orangers matures, bancs et petit kiosque à musique. Jouxte le cloître Chiostro di San Francesco. Chiens en laisse bienvenus toute l'année sur toutes les allées.",
@@ -175,7 +211,7 @@
           "name": "Giardini di Cataldo (I Giardini di Cataldo lemon grove)",
           "address": "Corso Italia 267, 80067 Sorrento",
           "neighborhood": "Centro / Corso Italia",
-          "photo": "/images/city-places/sorrento-parks-cataldo.jpg",
+          "photo": "/images/city-places/sorrento-parks-giardini-di-cataldo-i-giardini-di-cataldo-lemon-grove.jpg",
           "website": "https://www.igiardinidicataldo.it/",
           "description": "A historic family-run Sorrento IGP lemon and orange grove of 5 000 m2 on the Corso Italia, opened to the public free of charge with a shaded walking path under the citrus canopy, a small limoncello tasting bar at the exit and a souvenir shop. The Sorrento IGP lemon (Femminello St Teresa) is the protected designation cultivar grown only on the Sorrentine Peninsula. Leashed dogs welcome on the grove path year-round; the tasting bar admits leashed dogs on the outdoor patio only.",
           "descriptionFr": "Citronneraie et orangeraie familiale historique d'IGP de Sorrento de 5 000 m2 sur le Corso Italia, ouverte au public gratuitement avec un sentier de promenade ombragé sous la canopée des agrumes, un petit bar de dégustation de limoncello à la sortie et une boutique souvenirs. Le citron IGP de Sorrento (Femminello St Teresa) est le cultivar à appellation protégée cultivé uniquement sur la péninsule sorrentine. Chiens en laisse bienvenus sur le sentier de la roseraie toute l'année ; le bar de dégustation admet les chiens en laisse sur le patio extérieur uniquement.",
@@ -201,7 +237,7 @@
           "name": "Vallone dei Mulini ravine viewpoint",
           "address": "Via Fuorimura, 80067 Sorrento",
           "neighborhood": "Centro storico / east edge of Piazza Tasso",
-          "photo": "/images/city-places/sorrento-parks-vallone-mulini.jpg",
+          "photo": "/images/city-places/sorrento-parks-vallone-dei-mulini-ravine-viewpoint.jpg",
           "website": "https://www.sorrentotourism.com/",
           "description": "A dramatic 35 000-year-old volcanic ravine carved into the tuff cliff at the east edge of the centro storico, with the ruins of a 13th-century flour mill (mulino) at the bottom and a 19th-century sawmill, abandoned in 1866 when Piazza Tasso was opened and the ravine sealed off, now overrun with ferns and Mediterranean vegetation in a permanent humid microclimate. Free public viewpoint from the Via Fuorimura wall. Leashed dogs welcome year-round at the viewpoint; descent into the ravine restricted to guided tours.",
           "descriptionFr": "Ravin volcanique dramatique de 35 000 ans creusé dans la falaise de tuf à la limite est du centre historique, avec les ruines d'un moulin à farine (mulino) du 13e siècle au fond et une scierie du 19e siècle, abandonné en 1866 quand la Piazza Tasso a été ouverte et le ravin scellé, aujourd'hui envahi de fougères et de végétation méditerranéenne dans un microclimat humide permanent. Point de vue public gratuit depuis le mur de la Via Fuorimura. Chiens en laisse bienvenus toute l'année au point de vue ; descente dans le ravin restreinte aux visites guidées.",
@@ -245,24 +281,60 @@
         "Para uma caminhada de dia mais longa, apanhe o autocarro SITA SUD desde o centro de Sorrento até Bomerano (45 min a leste pela estrada da Costa Amalfitana) e caminhe o Sentiero degli Dei 7,8 km para oeste até Nocelle acima de Positano; um dos mais belos trilhos costeiros mediterrânicos pet-friendly."
       ],
       "faqsEn": [
-        {"q": "Where is the best free viewpoint in Sorrento with a dog?", "a": "The Villa Comunale clifftop gardens on Via San Francesco at the edge of the centro storico offer a 180 degree panoramic terrace over the Bay of Naples to Vesuvius, Naples, Procida and Ischia, free of charge and open to leashed dogs year-round."},
-        {"q": "Can I walk my dog in a Sorrento lemon grove?", "a": "Yes, the Giardini di Cataldo on Corso Italia 267 is a 5 000 m2 historic Sorrento IGP lemon and orange grove open free of charge year-round with a shaded walking path under the citrus canopy; leashed dogs welcome on the grove path."},
-        {"q": "Is the Path of the Gods doable with a dog from Sorrento?", "a": "Yes, take the SITA SUD bus from Sorrento centre to Bomerano 12 km east (45 min via the Amalfi Coast road) and walk the Sentiero degli Dei 7.8 km west to Nocelle above Positano with your leashed dog; one of the most scenic dog-friendly Mediterranean coastal trails."}
+        {
+          "q": "Where is the best free viewpoint in Sorrento with a dog?",
+          "a": "The Villa Comunale clifftop gardens on Via San Francesco at the edge of the centro storico offer a 180 degree panoramic terrace over the Bay of Naples to Vesuvius, Naples, Procida and Ischia, free of charge and open to leashed dogs year-round."
+        },
+        {
+          "q": "Can I walk my dog in a Sorrento lemon grove?",
+          "a": "Yes, the Giardini di Cataldo on Corso Italia 267 is a 5 000 m2 historic Sorrento IGP lemon and orange grove open free of charge year-round with a shaded walking path under the citrus canopy; leashed dogs welcome on the grove path."
+        },
+        {
+          "q": "Is the Path of the Gods doable with a dog from Sorrento?",
+          "a": "Yes, take the SITA SUD bus from Sorrento centre to Bomerano 12 km east (45 min via the Amalfi Coast road) and walk the Sentiero degli Dei 7.8 km west to Nocelle above Positano with your leashed dog; one of the most scenic dog-friendly Mediterranean coastal trails."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est le meilleur point de vue gratuit à Sorrento avec un chien ?", "a": "Les jardins de la Villa Comunale en haut de falaise sur la Via San Francesco en bordure du centre historique offrent une terrasse panoramique à 180 degrés sur la Baie de Naples vers le Vésuve, Naples, Procida et Ischia, gratuitement et ouverte aux chiens en laisse toute l'année."},
-        {"q": "Puis-je promener mon chien dans une citronneraie de Sorrento ?", "a": "Oui, les Giardini di Cataldo sur le Corso Italia 267 sont une citronneraie et orangeraie historique IGP de Sorrento de 5 000 m2 ouverte gratuitement toute l'année avec un sentier de promenade ombragé sous la canopée des agrumes ; chiens en laisse bienvenus sur le sentier de la roseraie."},
-        {"q": "Le Sentier des Dieux est-il faisable avec un chien depuis Sorrento ?", "a": "Oui, prenez le bus SITA SUD depuis le centre de Sorrento jusqu'à Bomerano à 12 km à l'est (45 min par la route de la Côte amalfitaine) et marchez le Sentiero degli Dei sur 7,8 km vers l'ouest jusqu'à Nocelle au-dessus de Positano avec votre chien en laisse ; l'un des plus beaux sentiers côtiers méditerranéens accueillants pour les chiens."}
+        {
+          "q": "Où est le meilleur point de vue gratuit à Sorrento avec un chien ?",
+          "a": "Les jardins de la Villa Comunale en haut de falaise sur la Via San Francesco en bordure du centre historique offrent une terrasse panoramique à 180 degrés sur la Baie de Naples vers le Vésuve, Naples, Procida et Ischia, gratuitement et ouverte aux chiens en laisse toute l'année."
+        },
+        {
+          "q": "Puis-je promener mon chien dans une citronneraie de Sorrento ?",
+          "a": "Oui, les Giardini di Cataldo sur le Corso Italia 267 sont une citronneraie et orangeraie historique IGP de Sorrento de 5 000 m2 ouverte gratuitement toute l'année avec un sentier de promenade ombragé sous la canopée des agrumes ; chiens en laisse bienvenus sur le sentier de la roseraie."
+        },
+        {
+          "q": "Le Sentier des Dieux est-il faisable avec un chien depuis Sorrento ?",
+          "a": "Oui, prenez le bus SITA SUD depuis le centre de Sorrento jusqu'à Bomerano à 12 km à l'est (45 min par la route de la Côte amalfitaine) et marchez le Sentiero degli Dei sur 7,8 km vers l'ouest jusqu'à Nocelle au-dessus de Positano avec votre chien en laisse ; l'un des plus beaux sentiers côtiers méditerranéens accueillants pour les chiens."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el mejor mirador gratuito en Sorrento con perro?", "a": "Los jardines de la Villa Comunale en lo alto del acantilado en la Via San Francesco al borde del centro histórico ofrecen una terraza panorámica de 180 grados sobre la Bahía de Nápoles hacia el Vesubio, Nápoles, Procida e Ischia, gratis y abierta a perros con correa todo el año."},
-        {"q": "¿Puedo pasear a mi perro en un limonar de Sorrento?", "a": "Sí, los Giardini di Cataldo en el Corso Italia 267 son un limonar y naranjal histórico IGP de Sorrento de 5 000 m2 abierto gratis todo el año con un sendero de paseo a la sombra bajo el dosel cítrico; perros con correa bienvenidos en el sendero del limonar."},
-        {"q": "¿El Sendero de los Dioses es factible con un perro desde Sorrento?", "a": "Sí, coge el bus SITA SUD desde el centro de Sorrento hasta Bomerano a 12 km al este (45 min por la carretera de la Costa Amalfitana) y camina el Sentiero degli Dei 7,8 km al oeste hasta Nocelle por encima de Positano con tu perro con correa; uno de los más bellos senderos costeros mediterráneos pet-friendly."}
+        {
+          "q": "¿Dónde está el mejor mirador gratuito en Sorrento con perro?",
+          "a": "Los jardines de la Villa Comunale en lo alto del acantilado en la Via San Francesco al borde del centro histórico ofrecen una terraza panorámica de 180 grados sobre la Bahía de Nápoles hacia el Vesubio, Nápoles, Procida e Ischia, gratis y abierta a perros con correa todo el año."
+        },
+        {
+          "q": "¿Puedo pasear a mi perro en un limonar de Sorrento?",
+          "a": "Sí, los Giardini di Cataldo en el Corso Italia 267 son un limonar y naranjal histórico IGP de Sorrento de 5 000 m2 abierto gratis todo el año con un sendero de paseo a la sombra bajo el dosel cítrico; perros con correa bienvenidos en el sendero del limonar."
+        },
+        {
+          "q": "¿El Sendero de los Dioses es factible con un perro desde Sorrento?",
+          "a": "Sí, coge el bus SITA SUD desde el centro de Sorrento hasta Bomerano a 12 km al este (45 min por la carretera de la Costa Amalfitana) y camina el Sentiero degli Dei 7,8 km al oeste hasta Nocelle por encima de Positano con tu perro con correa; uno de los más bellos senderos costeros mediterráneos pet-friendly."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o melhor miradouro grátis em Sorrento com cão?", "a": "Os jardins da Villa Comunale no topo da falésia na Via San Francesco na orla do centro histórico oferecem um terraço panorâmico de 180 graus sobre a Baía de Nápoles para o Vesúvio, Nápoles, Procida e Ischia, grátis e aberto a cães com trela o ano inteiro."},
-        {"q": "Posso passear o meu cão num limoeiral de Sorrento?", "a": "Sim, os Giardini di Cataldo no Corso Italia 267 são um limoeiral e laranjal histórico IGP de Sorrento de 5 000 m2 aberto grátis o ano inteiro com um caminho de passeio à sombra sob o dossel cítrico; cães com trela bem-vindos no caminho do limoeiral."},
-        {"q": "O Caminho dos Deuses é viável com um cão desde Sorrento?", "a": "Sim, apanhe o autocarro SITA SUD desde o centro de Sorrento até Bomerano a 12 km a leste (45 min pela estrada da Costa Amalfitana) e caminhe o Sentiero degli Dei 7,8 km para oeste até Nocelle acima de Positano com o seu cão com trela; um dos mais belos trilhos costeiros mediterrânicos pet-friendly."}
+        {
+          "q": "Onde fica o melhor miradouro grátis em Sorrento com cão?",
+          "a": "Os jardins da Villa Comunale no topo da falésia na Via San Francesco na orla do centro histórico oferecem um terraço panorâmico de 180 graus sobre a Baía de Nápoles para o Vesúvio, Nápoles, Procida e Ischia, grátis e aberto a cães com trela o ano inteiro."
+        },
+        {
+          "q": "Posso passear o meu cão num limoeiral de Sorrento?",
+          "a": "Sim, os Giardini di Cataldo no Corso Italia 267 são um limoeiral e laranjal histórico IGP de Sorrento de 5 000 m2 aberto grátis o ano inteiro com um caminho de passeio à sombra sob o dossel cítrico; cães com trela bem-vindos no caminho do limoeiral."
+        },
+        {
+          "q": "O Caminho dos Deuses é viável com um cão desde Sorrento?",
+          "a": "Sim, apanhe o autocarro SITA SUD desde o centro de Sorrento até Bomerano a 12 km a leste (45 min pela estrada da Costa Amalfitana) e caminhe o Sentiero degli Dei 7,8 km para oeste até Nocelle acima de Positano com o seu cão com trela; um dos mais belos trilhos costeiros mediterrânicos pet-friendly."
+        }
       ]
     },
     "transport": {
@@ -279,7 +351,7 @@
           "name": "Circumvesuviana Sorrento station (EAV)",
           "address": "Piazza Giovanni Battista de Curtis, 80067 Sorrento",
           "neighborhood": "Centre / 200 m east of Piazza Tasso",
-          "photo": "/images/city-places/sorrento-transport-circumvesuviana.jpg",
+          "photo": "/images/city-places/sorrento-transport-circumvesuviana-sorrento-station-eav.jpg",
           "website": "https://www.eavsrl.it/",
           "description": "The southern terminus of the EAV Circumvesuviana suburban rail line linking Sorrento to Napoli Porta Nolana (1h05) via the key stops Pompei Scavi-Villa dei Misteri (35 min), Ercolano Scavi (45 min) and Torre Annunziata. Trains run every 30 min in season, every 60 min winter. Pets travel free if muzzled and leashed (no separate ticket required, unique within Italian rail), with small dogs in a carrier always permitted.",
           "descriptionFr": "Le terminus sud de la ligne de train suburbain EAV Circumvesuviana qui relie Sorrento à Napoli Porta Nolana (1h05) via les arrêts clés Pompei Scavi-Villa dei Misteri (35 min), Ercolano Scavi (45 min) et Torre Annunziata. Les trains circulent toutes les 30 min en saison, toutes les 60 min l'hiver. Les animaux voyagent gratuitement muselés et en laisse (pas de billet séparé, unique dans le rail italien), les petits chiens en cage sont toujours autorisés.",
@@ -295,7 +367,7 @@
           "name": "SITA SUD Amalfi Coast bus line (Sorrento-Amalfi-Salerno)",
           "address": "Hub Piazza Giovanni Battista de Curtis (Circumvesuviana station), 80067 Sorrento",
           "neighborhood": "Centre",
-          "photo": "/images/city-places/sorrento-transport-sita-sud.jpg",
+          "photo": "/images/city-places/sorrento-transport-sita-sud-amalfi-coast-bus-line-sorrento-amalfi-salerno.jpg",
           "website": "https://www.sitasudtrasporti.it/",
           "description": "SITA SUD runs the iconic Amalfi Coast bus line from Sorrento Circumvesuviana hub west to Positano (50 min), Praiano, Amalfi (1h30), Atrani, Minori, Maiori, Cetara, Vietri sul Mare and Salerno (2h30), with a Ravello branch from Amalfi (30 min uphill). The SS163 coastal road is single-lane in places with hairpin bends and panoramic Tyrrhenian drops. Buses run hourly in season, every 90 min winter. Leashed muzzled dogs welcome free at driver's discretion.",
           "descriptionFr": "SITA SUD assure la ligne de bus iconique de la Côte amalfitaine depuis le hub Circumvesuviana de Sorrento vers l'ouest jusqu'à Positano (50 min), Praiano, Amalfi (1h30), Atrani, Minori, Maiori, Cetara, Vietri sul Mare et Salerne (2h30), avec une branche Ravello depuis Amalfi (30 min en montée). La SS163 côtière est à voie unique par endroits avec des épingles à cheveux et des à-pics panoramiques sur la Tyrrhénienne. Les bus circulent toutes les heures en saison, toutes les 90 min l'hiver. Chiens en laisse muselés bienvenus gratuitement à la discrétion du conducteur.",
@@ -311,7 +383,7 @@
           "name": "Marina Piccola ferry terminal (Capri / Ischia / Naples hydrofoils)",
           "address": "Via Marina Piccola, 80067 Sorrento",
           "neighborhood": "Marina Piccola / 600 m east of Villa Comunale (lift access)",
-          "photo": "/images/city-places/sorrento-transport-marina-piccola.jpg",
+          "photo": "/images/city-places/sorrento-transport-marina-piccola-ferry-terminal-capri-ischia-naples-hydrofoils.jpg",
           "website": "https://www.snav.it/",
           "description": "The Marina Piccola ferry terminal at the foot of the Sorrento cliff (lift access from Villa Comunale and Piazza Tasso) is the busiest hydrofoil hub on the Bay of Naples after Naples Beverello: SNAV, Caremar, NLG and Alilauro run 30+ daily crossings to Capri (25 min), Ischia (50 min), Naples Beverello (35 min) and seasonal Positano/Amalfi/Salerno. Leashed muzzled dogs are welcome on all operators free of charge or with a small supplement depending on operator.",
           "descriptionFr": "Le terminal ferry Marina Piccola au pied de la falaise de Sorrento (accès par ascenseur depuis la Villa Comunale et la Piazza Tasso) est le hub hydrofoil le plus actif de la Baie de Naples après Naples Beverello : SNAV, Caremar, NLG et Alilauro assurent 30+ traversées quotidiennes vers Capri (25 min), Ischia (50 min), Naples Beverello (35 min) et Positano/Amalfi/Salerne en saison. Les chiens en laisse muselés sont bienvenus sur tous les opérateurs gratuitement ou avec un petit supplément selon l'opérateur.",
@@ -345,24 +417,60 @@
         "Os hidrofoils da Baía de Nápoles (SNAV, Caremar, NLG, Alilauro) aceitam cães com trela e açaime em todas as rotas; a travessia Sorrento-Capri de 25 min é a mais curta e a chegada a Capri mais pet-friendly, evita o caos do cais Beverello em Nápoles."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog on the Circumvesuviana to Pompeii?", "a": "Yes, the EAV Circumvesuviana accepts muzzled leashed dogs free of charge on all trains; Sorrento to Pompei Scavi-Villa dei Misteri is 35 min direct, and trains run every 30 min in season. Small dogs in carriers are always permitted."},
-        {"q": "How do I get to Capri from Sorrento with a dog?", "a": "From the Marina Piccola ferry terminal (lift access from Villa Comunale), SNAV, Caremar, NLG and Alilauro all run hydrofoils to Capri (25 min crossing), with 30+ daily departures in season; leashed muzzled dogs welcome free or with small supplement, small dogs in carriers free."},
-        {"q": "Is the Amalfi Coast bus dog-friendly?", "a": "Yes, the SITA SUD Amalfi Coast line from Sorrento Circumvesuviana hub accepts leashed muzzled dogs free at driver's discretion; expect Positano in 50 min, Amalfi in 1h30 and Salerno in 2h30, with hourly service in season and standing-room only July-August."}
+        {
+          "q": "Can I take my dog on the Circumvesuviana to Pompeii?",
+          "a": "Yes, the EAV Circumvesuviana accepts muzzled leashed dogs free of charge on all trains; Sorrento to Pompei Scavi-Villa dei Misteri is 35 min direct, and trains run every 30 min in season. Small dogs in carriers are always permitted."
+        },
+        {
+          "q": "How do I get to Capri from Sorrento with a dog?",
+          "a": "From the Marina Piccola ferry terminal (lift access from Villa Comunale), SNAV, Caremar, NLG and Alilauro all run hydrofoils to Capri (25 min crossing), with 30+ daily departures in season; leashed muzzled dogs welcome free or with small supplement, small dogs in carriers free."
+        },
+        {
+          "q": "Is the Amalfi Coast bus dog-friendly?",
+          "a": "Yes, the SITA SUD Amalfi Coast line from Sorrento Circumvesuviana hub accepts leashed muzzled dogs free at driver's discretion; expect Positano in 50 min, Amalfi in 1h30 and Salerno in 2h30, with hourly service in season and standing-room only July-August."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je prendre le Circumvesuviana pour Pompéi avec mon chien ?", "a": "Oui, l'EAV Circumvesuviana accepte les chiens muselés en laisse gratuitement sur tous les trains ; Sorrento jusqu'à Pompei Scavi-Villa dei Misteri en 35 min direct, et les trains circulent toutes les 30 min en saison. Les petits chiens en cage sont toujours autorisés."},
-        {"q": "Comment aller à Capri depuis Sorrento avec un chien ?", "a": "Depuis le terminal ferry Marina Piccola (accès par ascenseur depuis la Villa Comunale), SNAV, Caremar, NLG et Alilauro assurent tous des hydrofoils vers Capri (traversée de 25 min), avec 30+ départs quotidiens en saison ; chiens en laisse muselés bienvenus gratuitement ou avec un petit supplément, petits chiens en cage gratuits."},
-        {"q": "Le bus de la Côte amalfitaine est-il pet-friendly ?", "a": "Oui, la ligne SITA SUD Côte amalfitaine depuis le hub Circumvesuviana de Sorrento accepte les chiens en laisse muselés gratuitement à la discrétion du conducteur ; comptez Positano en 50 min, Amalfi en 1h30 et Salerne en 2h30, service horaire en saison et station debout uniquement en juillet-août."}
+        {
+          "q": "Puis-je prendre le Circumvesuviana pour Pompéi avec mon chien ?",
+          "a": "Oui, l'EAV Circumvesuviana accepte les chiens muselés en laisse gratuitement sur tous les trains ; Sorrento jusqu'à Pompei Scavi-Villa dei Misteri en 35 min direct, et les trains circulent toutes les 30 min en saison. Les petits chiens en cage sont toujours autorisés."
+        },
+        {
+          "q": "Comment aller à Capri depuis Sorrento avec un chien ?",
+          "a": "Depuis le terminal ferry Marina Piccola (accès par ascenseur depuis la Villa Comunale), SNAV, Caremar, NLG et Alilauro assurent tous des hydrofoils vers Capri (traversée de 25 min), avec 30+ départs quotidiens en saison ; chiens en laisse muselés bienvenus gratuitement ou avec un petit supplément, petits chiens en cage gratuits."
+        },
+        {
+          "q": "Le bus de la Côte amalfitaine est-il pet-friendly ?",
+          "a": "Oui, la ligne SITA SUD Côte amalfitaine depuis le hub Circumvesuviana de Sorrento accepte les chiens en laisse muselés gratuitement à la discrétion du conducteur ; comptez Positano en 50 min, Amalfi en 1h30 et Salerne en 2h30, service horaire en saison et station debout uniquement en juillet-août."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo coger el Circumvesuviana a Pompeya con mi perro?", "a": "Sí, el EAV Circumvesuviana admite perros con bozal y correa gratis en todos los trenes; Sorrento a Pompei Scavi-Villa dei Misteri en 35 min directo, y los trenes circulan cada 30 min en temporada. Los perros pequeños en transportín siempre admitidos."},
-        {"q": "¿Cómo ir a Capri desde Sorrento con un perro?", "a": "Desde la terminal ferry Marina Piccola (acceso por ascensor desde la Villa Comunale), SNAV, Caremar, NLG y Alilauro aseguran hidrofoils a Capri (travesía de 25 min), con 30+ salidas diarias en temporada; perros con correa y bozal bienvenidos gratis o con pequeño suplemento, perros pequeños en transportín gratis."},
-        {"q": "¿El bus de la Costa Amalfitana es pet-friendly?", "a": "Sí, la línea SITA SUD Costa Amalfitana desde el hub Circumvesuviana de Sorrento admite perros con correa y bozal gratis a discreción del conductor; cuenta Positano en 50 min, Amalfi en 1h30 y Salerno en 2h30, servicio horario en temporada y solo de pie en julio-agosto."}
+        {
+          "q": "¿Puedo coger el Circumvesuviana a Pompeya con mi perro?",
+          "a": "Sí, el EAV Circumvesuviana admite perros con bozal y correa gratis en todos los trenes; Sorrento a Pompei Scavi-Villa dei Misteri en 35 min directo, y los trenes circulan cada 30 min en temporada. Los perros pequeños en transportín siempre admitidos."
+        },
+        {
+          "q": "¿Cómo ir a Capri desde Sorrento con un perro?",
+          "a": "Desde la terminal ferry Marina Piccola (acceso por ascensor desde la Villa Comunale), SNAV, Caremar, NLG y Alilauro aseguran hidrofoils a Capri (travesía de 25 min), con 30+ salidas diarias en temporada; perros con correa y bozal bienvenidos gratis o con pequeño suplemento, perros pequeños en transportín gratis."
+        },
+        {
+          "q": "¿El bus de la Costa Amalfitana es pet-friendly?",
+          "a": "Sí, la línea SITA SUD Costa Amalfitana desde el hub Circumvesuviana de Sorrento admite perros con correa y bozal gratis a discreción del conductor; cuenta Positano en 50 min, Amalfi en 1h30 y Salerno en 2h30, servicio horario en temporada y solo de pie en julio-agosto."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso apanhar o Circumvesuviana para Pompeia com o meu cão?", "a": "Sim, o EAV Circumvesuviana aceita cães com açaime e trela grátis em todos os comboios; Sorrento a Pompei Scavi-Villa dei Misteri em 35 min directo, e os comboios circulam a cada 30 min em época. Os cães pequenos em transportadora sempre admitidos."},
-        {"q": "Como ir a Capri desde Sorrento com um cão?", "a": "Desde o terminal ferry Marina Piccola (acesso por elevador desde a Villa Comunale), SNAV, Caremar, NLG e Alilauro asseguram hidrofoils para Capri (travessia de 25 min), com 30+ partidas diárias em época; cães com trela e açaime bem-vindos grátis ou com pequeno suplemento, cães pequenos em transportadora grátis."},
-        {"q": "O autocarro da Costa Amalfitana é pet-friendly?", "a": "Sim, a linha SITA SUD Costa Amalfitana desde o hub Circumvesuviana de Sorrento aceita cães com trela e açaime grátis à discrição do condutor; conte Positano em 50 min, Amalfi em 1h30 e Salerno em 2h30, serviço horário em época e só de pé em julho-agosto."}
+        {
+          "q": "Posso apanhar o Circumvesuviana para Pompeia com o meu cão?",
+          "a": "Sim, o EAV Circumvesuviana aceita cães com açaime e trela grátis em todos os comboios; Sorrento a Pompei Scavi-Villa dei Misteri em 35 min directo, e os comboios circulam a cada 30 min em época. Os cães pequenos em transportadora sempre admitidos."
+        },
+        {
+          "q": "Como ir a Capri desde Sorrento com um cão?",
+          "a": "Desde o terminal ferry Marina Piccola (acesso por elevador desde a Villa Comunale), SNAV, Caremar, NLG e Alilauro asseguram hidrofoils para Capri (travessia de 25 min), com 30+ partidas diárias em época; cães com trela e açaime bem-vindos grátis ou com pequeno suplemento, cães pequenos em transportadora grátis."
+        },
+        {
+          "q": "O autocarro da Costa Amalfitana é pet-friendly?",
+          "a": "Sim, a linha SITA SUD Costa Amalfitana desde o hub Circumvesuviana de Sorrento aceita cães com trela e açaime grátis à discrição do condutor; conte Positano em 50 min, Amalfi em 1h30 e Salerno em 2h30, serviço horário em época e só de pé em julho-agosto."
+        }
       ]
     },
     "beaches": {
@@ -383,7 +491,7 @@
           "rules": "Leashed dogs welcome on all rock platforms; no formal lifeguard; bring water and shade",
           "facilities": "Free public access, no facilities, no fountains - bring water and shade, café-bar at the SS145 trailhead",
           "googleMapsUrl": "https://maps.google.com/?q=Bagni+della+Regina+Giovanna+Sorrento",
-          "photo": "/images/city-places/sorrento-beaches-regina-giovanna.jpg"
+          "photo": "/images/city-places/sorrento-beaches-bagni-della-regina-giovanna-queen-joanna-s-baths.jpg"
         },
         {
           "name": "Marina di Puolo pebble beach",
@@ -393,7 +501,7 @@
           "rules": "Leashed dogs welcome on free public stretches year-round; central paid lido restricts pets June-September",
           "facilities": "Free public parking on the road above and lift-staircase access, café-restaurants on the beach, paid lido June-September, free zones at both ends",
           "googleMapsUrl": "https://maps.google.com/?q=Marina+di+Puolo",
-          "photo": "/images/city-places/sorrento-beaches-marina-puolo.jpg"
+          "photo": "/images/city-places/sorrento-beaches-marina-di-puolo-pebble-beach.jpg"
         },
         {
           "name": "Spiaggia di Marina del Cantone (Nerano)",
@@ -403,7 +511,7 @@
           "rules": "Leashed dogs welcome on free public stretches year-round; central paid lidos restrict pets June-September",
           "facilities": "Free street parking limited in summer (paid lots above), café-restaurants and trattorie on the beach (famous spaghetti alle zucchine), bus from Sorrento 45 min, ferry connections to Capri seasonal",
           "googleMapsUrl": "https://maps.google.com/?q=Marina+del+Cantone+Nerano",
-          "photo": "/images/city-places/sorrento-beaches-marina-cantone.jpg"
+          "photo": "/images/city-places/sorrento-beaches-spiaggia-di-marina-del-cantone-nerano.jpg"
         }
       ],
       "tipsEn": [
@@ -427,24 +535,60 @@
         "As regras municipais italianas de praia geralmente admitem cães com trela nos troços públicos gratuitos o ano inteiro; os lidos e stabilimenti pagos aplicam políticas por estabelecimento e muitos restringem animais de junho a setembro. Confirme sempre na entrada do lido antes de pagar."
       ],
       "faqsEn": [
-        {"q": "Is there a beach in Sorrento centre I can take my dog to?", "a": "Sorrento centre has minimal beach: the small pebble Marina Grande and Marina Piccola coves are mostly occupied by paid lidos June-September. The Bagni della Regina Giovanna natural sea pool 2 km west has free public rock platforms welcoming leashed dogs year-round."},
-        {"q": "Where is the nearest sand beach to Sorrento for a dog?", "a": "Marina di Puolo 4 km west on the road to Massa Lubrense is the closest sand-and-pebble cove with parking, with free public stretches at both ends welcoming leashed dogs year-round; the central paid lido restricts pets June-September."},
-        {"q": "Can I swim with my dog at Marina del Cantone?", "a": "Yes, Marina del Cantone (Nerano) 12 km south on the Tyrrhenian Massa Lubrense coast has 600 m of grey-pebble bay with crystal-clear water; free public stretches at both ends welcome leashed dogs year-round, central paid lidos restrict pets June-September. SITA SUD bus from Sorrento 45 min."}
+        {
+          "q": "Is there a beach in Sorrento centre I can take my dog to?",
+          "a": "Sorrento centre has minimal beach: the small pebble Marina Grande and Marina Piccola coves are mostly occupied by paid lidos June-September. The Bagni della Regina Giovanna natural sea pool 2 km west has free public rock platforms welcoming leashed dogs year-round."
+        },
+        {
+          "q": "Where is the nearest sand beach to Sorrento for a dog?",
+          "a": "Marina di Puolo 4 km west on the road to Massa Lubrense is the closest sand-and-pebble cove with parking, with free public stretches at both ends welcoming leashed dogs year-round; the central paid lido restricts pets June-September."
+        },
+        {
+          "q": "Can I swim with my dog at Marina del Cantone?",
+          "a": "Yes, Marina del Cantone (Nerano) 12 km south on the Tyrrhenian Massa Lubrense coast has 600 m of grey-pebble bay with crystal-clear water; free public stretches at both ends welcome leashed dogs year-round, central paid lidos restrict pets June-September. SITA SUD bus from Sorrento 45 min."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il une plage dans le centre de Sorrento où amener mon chien ?", "a": "Le centre de Sorrento a peu de plage : les petites criques de galets Marina Grande et Marina Piccola sont majoritairement occupées par des lidos payants de juin à septembre. La piscine naturelle des Bagni della Regina Giovanna à 2 km à l'ouest a des plateformes rocheuses publiques gratuites accueillant les chiens en laisse toute l'année."},
-        {"q": "Où est la plage de sable la plus proche de Sorrento pour un chien ?", "a": "Marina di Puolo à 4 km à l'ouest sur la route de Massa Lubrense est la crique sable-galets la plus proche avec parking, avec des bandes publiques gratuites aux deux extrémités accueillant les chiens en laisse toute l'année ; le lido payant central restreint les animaux de juin à septembre."},
-        {"q": "Puis-je me baigner avec mon chien à Marina del Cantone ?", "a": "Oui, Marina del Cantone (Nerano) à 12 km au sud sur la côte tyrrhénienne de Massa Lubrense a 600 m de baie en galets gris avec eau cristalline ; bandes publiques gratuites aux deux extrémités accueillent les chiens en laisse toute l'année, lidos payants centraux restreignent les animaux de juin à septembre. Bus SITA SUD depuis Sorrento 45 min."}
+        {
+          "q": "Y a-t-il une plage dans le centre de Sorrento où amener mon chien ?",
+          "a": "Le centre de Sorrento a peu de plage : les petites criques de galets Marina Grande et Marina Piccola sont majoritairement occupées par des lidos payants de juin à septembre. La piscine naturelle des Bagni della Regina Giovanna à 2 km à l'ouest a des plateformes rocheuses publiques gratuites accueillant les chiens en laisse toute l'année."
+        },
+        {
+          "q": "Où est la plage de sable la plus proche de Sorrento pour un chien ?",
+          "a": "Marina di Puolo à 4 km à l'ouest sur la route de Massa Lubrense est la crique sable-galets la plus proche avec parking, avec des bandes publiques gratuites aux deux extrémités accueillant les chiens en laisse toute l'année ; le lido payant central restreint les animaux de juin à septembre."
+        },
+        {
+          "q": "Puis-je me baigner avec mon chien à Marina del Cantone ?",
+          "a": "Oui, Marina del Cantone (Nerano) à 12 km au sud sur la côte tyrrhénienne de Massa Lubrense a 600 m de baie en galets gris avec eau cristalline ; bandes publiques gratuites aux deux extrémités accueillent les chiens en laisse toute l'année, lidos payants centraux restreignent les animaux de juin à septembre. Bus SITA SUD depuis Sorrento 45 min."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay una playa en el centro de Sorrento donde llevar a mi perro?", "a": "El centro de Sorrento tiene poca playa: las pequeñas calas de cantos rodados Marina Grande y Marina Piccola están mayoritariamente ocupadas por lidos de pago de junio a septiembre. La piscina natural de los Bagni della Regina Giovanna a 2 km al oeste tiene plataformas rocosas públicas gratuitas que admiten perros con correa todo el año."},
-        {"q": "¿Dónde está la playa de arena más cercana a Sorrento para un perro?", "a": "Marina di Puolo a 4 km al oeste en la carretera a Massa Lubrense es la cala arena-cantos más cercana con aparcamiento, con tramos públicos gratuitos en ambos extremos que admiten perros con correa todo el año; el lido de pago central restringe mascotas de junio a septiembre."},
-        {"q": "¿Puedo bañarme con mi perro en Marina del Cantone?", "a": "Sí, Marina del Cantone (Nerano) a 12 km al sur en la costa tirrena de Massa Lubrense tiene 600 m de bahía de cantos grises con agua cristalina; tramos públicos gratuitos en ambos extremos admiten perros con correa todo el año, lidos de pago centrales restringen mascotas de junio a septiembre. Bus SITA SUD desde Sorrento 45 min."}
+        {
+          "q": "¿Hay una playa en el centro de Sorrento donde llevar a mi perro?",
+          "a": "El centro de Sorrento tiene poca playa: las pequeñas calas de cantos rodados Marina Grande y Marina Piccola están mayoritariamente ocupadas por lidos de pago de junio a septiembre. La piscina natural de los Bagni della Regina Giovanna a 2 km al oeste tiene plataformas rocosas públicas gratuitas que admiten perros con correa todo el año."
+        },
+        {
+          "q": "¿Dónde está la playa de arena más cercana a Sorrento para un perro?",
+          "a": "Marina di Puolo a 4 km al oeste en la carretera a Massa Lubrense es la cala arena-cantos más cercana con aparcamiento, con tramos públicos gratuitos en ambos extremos que admiten perros con correa todo el año; el lido de pago central restringe mascotas de junio a septiembre."
+        },
+        {
+          "q": "¿Puedo bañarme con mi perro en Marina del Cantone?",
+          "a": "Sí, Marina del Cantone (Nerano) a 12 km al sur en la costa tirrena de Massa Lubrense tiene 600 m de bahía de cantos grises con agua cristalina; tramos públicos gratuitos en ambos extremos admiten perros con correa todo el año, lidos de pago centrales restringen mascotas de junio a septiembre. Bus SITA SUD desde Sorrento 45 min."
+        }
       ],
       "faqsPt": [
-        {"q": "Há uma praia no centro de Sorrento onde levar o meu cão?", "a": "O centro de Sorrento tem pouca praia: as pequenas enseadas de calhau Marina Grande e Marina Piccola estão maioritariamente ocupadas por lidos pagos de junho a setembro. A piscina natural dos Bagni della Regina Giovanna a 2 km a oeste tem plataformas rochosas públicas gratuitas que admitem cães com trela o ano inteiro."},
-        {"q": "Onde fica a praia de areia mais próxima de Sorrento para um cão?", "a": "Marina di Puolo a 4 km a oeste na estrada para Massa Lubrense é a enseada areia-calhau mais próxima com estacionamento, com troços públicos gratuitos em ambas as extremidades que admitem cães com trela o ano inteiro; o lido pago central restringe animais de junho a setembro."},
-        {"q": "Posso banhar-me com o meu cão em Marina del Cantone?", "a": "Sim, Marina del Cantone (Nerano) a 12 km a sul na costa tirrena de Massa Lubrense tem 600 m de baía de calhau cinzento com água cristalina; troços públicos gratuitos em ambas as extremidades admitem cães com trela o ano inteiro, lidos pagos centrais restringem animais de junho a setembro. Autocarro SITA SUD desde Sorrento 45 min."}
+        {
+          "q": "Há uma praia no centro de Sorrento onde levar o meu cão?",
+          "a": "O centro de Sorrento tem pouca praia: as pequenas enseadas de calhau Marina Grande e Marina Piccola estão maioritariamente ocupadas por lidos pagos de junho a setembro. A piscina natural dos Bagni della Regina Giovanna a 2 km a oeste tem plataformas rochosas públicas gratuitas que admitem cães com trela o ano inteiro."
+        },
+        {
+          "q": "Onde fica a praia de areia mais próxima de Sorrento para um cão?",
+          "a": "Marina di Puolo a 4 km a oeste na estrada para Massa Lubrense é a enseada areia-calhau mais próxima com estacionamento, com troços públicos gratuitos em ambas as extremidades que admitem cães com trela o ano inteiro; o lido pago central restringe animais de junho a setembro."
+        },
+        {
+          "q": "Posso banhar-me com o meu cão em Marina del Cantone?",
+          "a": "Sim, Marina del Cantone (Nerano) a 12 km a sul na costa tirrena de Massa Lubrense tem 600 m de baía de calhau cinzento com água cristalina; troços públicos gratuitos em ambas as extremidades admitem cães com trela o ano inteiro, lidos pagos centrais restringem animais de junho a setembro. Autocarro SITA SUD desde Sorrento 45 min."
+        }
       ]
     },
     "vets": {
@@ -470,7 +614,7 @@
           "hoursPt": "Seg-sex 8:30-13:00 e 16:00-20:00; sáb 9:00-13:00; linha de urgência rotativa",
           "englishSpeaking": true,
           "website": "https://www.clinicaveterinariasorrento.it/",
-          "photo": "/images/city-places/sorrento-vets-clinica-sorrento.jpg",
+          "photo": "/images/city-places/sorrento-vets-clinica-veterinaria-sorrento.jpg",
           "description": "A central Sorrento general practice on Via degli Aranci 400 m east of Piazza Tasso, with imaging, dentistry and minor surgery. Bilingual Italian and English staff handle Circumvesuviana-arriving and ferry-arriving pets daily. Participates in the rotating on-call line for the Penisola Sorrentina; phone the main number after hours to be redirected to the duty vet of the week.",
           "descriptionFr": "Cabinet généraliste central de Sorrento sur la Via degli Aranci à 400 m à l'est de la Piazza Tasso, avec imagerie, dentisterie et petite chirurgie. Personnel bilingue italien-anglais qui gère quotidiennement les animaux arrivés par Circumvesuviana et par ferry. Participe à la ligne de garde tournante de la Penisola Sorrentina ; appelez le numéro principal hors heures pour être redirigé vers le vétérinaire de garde de la semaine.",
           "descriptionEs": "Consulta generalista céntrica de Sorrento en la Via degli Aranci a 400 m al este de la Piazza Tasso, con imagen, odontología y cirugía menor. Personal bilingüe italiano-inglés que atiende a diario a las mascotas llegadas por Circumvesuviana y ferry. Participa en la línea de guardia rotativa de la Penisola Sorrentina; llama al número principal fuera de horario para ser redirigido al veterinario de guardia de la semana.",
@@ -483,7 +627,10 @@
           "servicesFr": "Vaccinations, passeport européen, puce, médecine générale, petite chirurgie, dentisterie, imagerie",
           "servicesEs": "Vacunaciones, pasaporte UE, microchip, medicina general, cirugía menor, odontología, imagen",
           "servicesPt": "Vacinações, passaporte UE, microchip, medicina geral, pequena cirurgia, dentária, imagem",
-          "languages": ["Italian", "English"],
+          "languages": [
+            "Italian",
+            "English"
+          ],
           "openingHours": "Mon-Fri 8:30-13:00 and 16:00-20:00; Sat 9:00-13:00",
           "tip": "Save the main number (+39 081 807 3245) before any Path of the Gods hike or pre-ferry departure to Capri; the rotating on-call line directs you to the duty vet, useful for an emergency before a SITA SUD Amalfi Coast bus or a Marina Piccola hydrofoil.",
           "tipFr": "Enregistrez le numéro principal (+39 081 807 3245) avant toute rando sur le Sentier des Dieux ou avant un départ ferry vers Capri ; la ligne de garde tournante vous redirige vers le vétérinaire de garde, utile pour une urgence avant un bus SITA SUD Côte amalfitaine ou un hydrofoil Marina Piccola.",
@@ -503,7 +650,7 @@
           "hoursPt": "Seg-sex 9:00-13:00 e 16:30-19:30; sáb 9:00-12:30; fechado dom",
           "englishSpeaking": true,
           "website": "https://www.ambulatorioveterinariosantagnello.it/",
-          "photo": "/images/city-places/sorrento-vets-santagnello.jpg",
+          "photo": "/images/city-places/sorrento-vets-ambulatorio-veterinario-sant-agnello.jpg",
           "description": "A general practice on the Corso Italia in Sant'Agnello village 2 km east of Sorrento centre on the Circumvesuviana line (one stop on EAV), with easy free parking, ideal for vaccination top-ups, EU passport renewals and minor non-emergency consultations after a Path of the Gods walk or before a Capri ferry. Refers to Ospedale Veterinario CMV Naples for advanced cases.",
           "descriptionFr": "Cabinet généraliste sur le Corso Italia dans le village de Sant'Agnello à 2 km à l'est du centre de Sorrento sur la ligne Circumvesuviana (un arrêt EAV), avec parking gratuit facile, idéal pour rappels de vaccin, renouvellements de passeport européen et consultations mineures non urgentes après une balade sur le Sentier des Dieux ou avant un ferry pour Capri. Renvoie sur l'Ospedale Veterinario CMV Naples pour les cas avancés.",
           "descriptionEs": "Consulta generalista en el Corso Italia en el pueblo de Sant'Agnello a 2 km al este del centro de Sorrento en la línea Circumvesuviana (una parada EAV), con aparcamiento gratuito fácil, ideal para refuerzos de vacuna, renovaciones de pasaporte europeo y consultas menores no urgentes después de un paseo por el Sendero de los Dioses o antes de un ferry a Capri. Deriva al Ospedale Veterinario CMV Nápoles para casos avanzados.",
@@ -516,7 +663,10 @@
           "servicesFr": "Vaccinations, passeport européen, puce, médecine générale, petite chirurgie",
           "servicesEs": "Vacunaciones, pasaporte UE, microchip, medicina general, cirugía menor",
           "servicesPt": "Vacinações, passaporte UE, microchip, medicina geral, pequena cirurgia",
-          "languages": ["Italian", "English"],
+          "languages": [
+            "Italian",
+            "English"
+          ],
           "openingHours": "Mon-Fri 9:00-13:00 and 16:30-19:30; Sat 9:00-12:30",
           "tip": "Book the first morning slot for same-day EU passport sign-off before an afternoon Circumvesuviana to Naples or a Marina Piccola ferry to Capri; the clinic is 8 minutes by car from Sorrento centre and 5 minutes from Sant'Agnello Circumvesuviana stop.",
           "tipFr": "Réservez le premier créneau du matin pour validation passeport européen le jour même avant un Circumvesuviana l'après-midi pour Naples ou un ferry Marina Piccola pour Capri ; la clinique est à 8 minutes en voiture du centre de Sorrento et à 5 minutes de l'arrêt Circumvesuviana de Sant'Agnello.",
@@ -536,7 +686,7 @@
           "hoursPt": "Urgências e especialidades 24/7",
           "englishSpeaking": true,
           "website": "https://www.cmvnapoli.it/",
-          "photo": "/images/city-places/sorrento-vets-cmv-napoli.jpg",
+          "photo": "/images/city-places/sorrento-vets-ospedale-veterinario-cmv-naples.jpg",
           "description": "The reference 24/7 specialty veterinary hospital for the Campania region, with cardiology, oncology, neurology, intensive care and complex surgery; 1h15 from Sorrento via the A3 Napoli-Salerno motorway, the regional escalation centre Sorrento clinics refer to for any after-hours emergency the local on-call line cannot handle.",
           "descriptionFr": "L'hôpital vétérinaire de référence 24h/24 pour la Campanie, avec cardiologie, oncologie, neurologie, soins intensifs et chirurgie complexe ; à 1h15 de Sorrento par l'A3 Naples-Salerne, le centre d'escalade régional vers lequel les cliniques de Sorrento adressent pour toute urgence hors heures que la ligne de garde locale ne peut gérer.",
           "descriptionEs": "El hospital veterinario de referencia 24/7 para Campania, con cardiología, oncología, neurología, cuidados intensivos y cirugía compleja; a 1h15 de Sorrento vía la A3 Nápoles-Salerno, el centro de escalada regional al que las clínicas de Sorrento derivan para cualquier urgencia fuera de horario que la línea de guardia local no pueda gestionar.",
@@ -549,7 +699,10 @@
           "servicesFr": "Urgences, soins intensifs, cardiologie, oncologie, neurologie, chirurgie complexe, imagerie",
           "servicesEs": "Urgencias, UCI, cardiología, oncología, neurología, cirugía compleja, imagen",
           "servicesPt": "Urgências, UCI, cardiologia, oncologia, neurologia, cirurgia complexa, imagem",
-          "languages": ["Italian", "English"],
+          "languages": [
+            "Italian",
+            "English"
+          ],
           "openingHours": "24/7",
           "tip": "Drive yourself on the A3 rather than wait for a pet-taxi at night; the 1h15 transfer to Naples is faster than any peninsula on-call ETA after midnight, and the A3 stays open year-round (the SS163 Amalfi Coast road is too narrow and slow for an emergency).",
           "tipFr": "Conduisez-vous sur l'A3 plutôt que d'attendre un pet-taxi la nuit ; le transfert de 1h15 vers Naples est plus rapide que n'importe quelle estimation de la garde péninsulaire après minuit, et l'A3 reste ouverte toute l'année (la SS163 de la Côte amalfitaine est trop étroite et lente pour une urgence).",
@@ -579,24 +732,60 @@
         "Leve fisicamente o seu passaporte europeu a toda a visita veterinária e ao check-in ferry Marina Piccola para as travessias Capri / Ischia / Nápoles; SNAV e Caremar verificam os documentos antes do embarque e os registos não carimbados ou expirados significam que o cão não pode embarcar."
       ],
       "faqsEn": [
-        {"q": "Where is the closest 24h vet to Sorrento?", "a": "The Ospedale Veterinario CMV in Naples (+39 081 593 0640, 1h15 via the A3 motorway) is the closest true 24/7 referral hospital; local after-hours is handled via the Penisola Sorrentina rotating on-call line at the Clinica Veterinaria Sorrento."},
-        {"q": "Do Sorrento vets speak English?", "a": "Yes at the Clinica Veterinaria Sorrento and the Ambulatorio Veterinario Sant'Agnello; staff are fluent thanks to the heavy international tourism flow off the Circumvesuviana, the Capri/Ischia ferries and the Amalfi Coast bus."},
-        {"q": "Is the SS163 Amalfi Coast road OK for a vet emergency?", "a": "No. The SS163 is single-lane in places with hairpin bends and slow truck traffic; in an after-hours emergency, take the A3 Napoli-Salerno motorway to the Ospedale Veterinario CMV Naples (1h15), not the SS163 coastal route."}
+        {
+          "q": "Where is the closest 24h vet to Sorrento?",
+          "a": "The Ospedale Veterinario CMV in Naples (+39 081 593 0640, 1h15 via the A3 motorway) is the closest true 24/7 referral hospital; local after-hours is handled via the Penisola Sorrentina rotating on-call line at the Clinica Veterinaria Sorrento."
+        },
+        {
+          "q": "Do Sorrento vets speak English?",
+          "a": "Yes at the Clinica Veterinaria Sorrento and the Ambulatorio Veterinario Sant'Agnello; staff are fluent thanks to the heavy international tourism flow off the Circumvesuviana, the Capri/Ischia ferries and the Amalfi Coast bus."
+        },
+        {
+          "q": "Is the SS163 Amalfi Coast road OK for a vet emergency?",
+          "a": "No. The SS163 is single-lane in places with hairpin bends and slow truck traffic; in an after-hours emergency, take the A3 Napoli-Salerno motorway to the Ospedale Veterinario CMV Naples (1h15), not the SS163 coastal route."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est le vétérinaire 24h le plus proche de Sorrento ?", "a": "L'Ospedale Veterinario CMV à Naples (+39 081 593 0640, 1h15 par l'A3) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne de garde tournante de la Penisola Sorrentina à la Clinica Veterinaria Sorrento."},
-        {"q": "Les vétérinaires de Sorrento parlent-ils anglais ?", "a": "Oui à la Clinica Veterinaria Sorrento et à l'Ambulatorio Veterinario Sant'Agnello ; le personnel est courant grâce au fort flux touristique international du Circumvesuviana, des ferries Capri/Ischia et du bus de la Côte amalfitaine."},
-        {"q": "La SS163 de la Côte amalfitaine convient-elle pour une urgence vétérinaire ?", "a": "Non. La SS163 est à voie unique par endroits avec des épingles à cheveux et un trafic poids lourds lent ; en cas d'urgence hors heures, prenez l'A3 Naples-Salerne jusqu'à l'Ospedale Veterinario CMV Naples (1h15), pas la route côtière SS163."}
+        {
+          "q": "Où est le vétérinaire 24h le plus proche de Sorrento ?",
+          "a": "L'Ospedale Veterinario CMV à Naples (+39 081 593 0640, 1h15 par l'A3) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne de garde tournante de la Penisola Sorrentina à la Clinica Veterinaria Sorrento."
+        },
+        {
+          "q": "Les vétérinaires de Sorrento parlent-ils anglais ?",
+          "a": "Oui à la Clinica Veterinaria Sorrento et à l'Ambulatorio Veterinario Sant'Agnello ; le personnel est courant grâce au fort flux touristique international du Circumvesuviana, des ferries Capri/Ischia et du bus de la Côte amalfitaine."
+        },
+        {
+          "q": "La SS163 de la Côte amalfitaine convient-elle pour une urgence vétérinaire ?",
+          "a": "Non. La SS163 est à voie unique par endroits avec des épingles à cheveux et un trafic poids lourds lent ; en cas d'urgence hors heures, prenez l'A3 Naples-Salerne jusqu'à l'Ospedale Veterinario CMV Naples (1h15), pas la route côtière SS163."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el veterinario 24h más cercano de Sorrento?", "a": "El Ospedale Veterinario CMV en Nápoles (+39 081 593 0640, 1h15 vía la A3) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea de guardia rotativa de la Penisola Sorrentina en la Clinica Veterinaria Sorrento."},
-        {"q": "¿Los veterinarios de Sorrento hablan inglés?", "a": "Sí en la Clinica Veterinaria Sorrento y en el Ambulatorio Veterinario Sant'Agnello; el personal es fluido gracias al fuerte flujo turístico internacional del Circumvesuviana, de los ferries Capri/Ischia y del bus de la Costa Amalfitana."},
-        {"q": "¿La SS163 de la Costa Amalfitana sirve para una urgencia veterinaria?", "a": "No. La SS163 es de carril único en algunos puntos con curvas de horquilla y tráfico lento de camiones; en caso de urgencia fuera de horario, coge la A3 Nápoles-Salerno hasta el Ospedale Veterinario CMV Nápoles (1h15), no la ruta costera SS163."}
+        {
+          "q": "¿Dónde está el veterinario 24h más cercano de Sorrento?",
+          "a": "El Ospedale Veterinario CMV en Nápoles (+39 081 593 0640, 1h15 vía la A3) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea de guardia rotativa de la Penisola Sorrentina en la Clinica Veterinaria Sorrento."
+        },
+        {
+          "q": "¿Los veterinarios de Sorrento hablan inglés?",
+          "a": "Sí en la Clinica Veterinaria Sorrento y en el Ambulatorio Veterinario Sant'Agnello; el personal es fluido gracias al fuerte flujo turístico internacional del Circumvesuviana, de los ferries Capri/Ischia y del bus de la Costa Amalfitana."
+        },
+        {
+          "q": "¿La SS163 de la Costa Amalfitana sirve para una urgencia veterinaria?",
+          "a": "No. La SS163 es de carril único en algunos puntos con curvas de horquilla y tráfico lento de camiones; en caso de urgencia fuera de horario, coge la A3 Nápoles-Salerno hasta el Ospedale Veterinario CMV Nápoles (1h15), no la ruta costera SS163."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o veterinário 24h mais próximo de Sorrento?", "a": "O Ospedale Veterinario CMV em Nápoles (+39 081 593 0640, 1h15 pela A3) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha de urgência rotativa da Penisola Sorrentina na Clinica Veterinaria Sorrento."},
-        {"q": "Os veterinários de Sorrento falam inglês?", "a": "Sim na Clinica Veterinaria Sorrento e no Ambulatorio Veterinario Sant'Agnello; o pessoal é fluente graças ao forte fluxo turístico internacional do Circumvesuviana, dos ferries Capri/Ischia e do autocarro da Costa Amalfitana."},
-        {"q": "A SS163 da Costa Amalfitana serve para uma urgência veterinária?", "a": "Não. A SS163 é de via única em alguns pontos com curvas em gancho e tráfego lento de camiões; em caso de urgência fora de horas, apanhe a A3 Nápoles-Salerno até ao Ospedale Veterinario CMV Nápoles (1h15), não a rota costeira SS163."}
+        {
+          "q": "Onde fica o veterinário 24h mais próximo de Sorrento?",
+          "a": "O Ospedale Veterinario CMV em Nápoles (+39 081 593 0640, 1h15 pela A3) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha de urgência rotativa da Penisola Sorrentina na Clinica Veterinaria Sorrento."
+        },
+        {
+          "q": "Os veterinários de Sorrento falam inglês?",
+          "a": "Sim na Clinica Veterinaria Sorrento e no Ambulatorio Veterinario Sant'Agnello; o pessoal é fluente graças ao forte fluxo turístico internacional do Circumvesuviana, dos ferries Capri/Ischia e do autocarro da Costa Amalfitana."
+        },
+        {
+          "q": "A SS163 da Costa Amalfitana serve para uma urgência veterinária?",
+          "a": "Não. A SS163 é de via única em alguns pontos com curvas em gancho e tráfego lento de camiões; em caso de urgência fora de horas, apanhe a A3 Nápoles-Salerno até ao Ospedale Veterinario CMV Nápoles (1h15), não a rota costeira SS163."
+        }
       ]
     },
     "tips": {
@@ -638,24 +827,60 @@
         "A península sorrentina tem várias zonas de nidificação no solo e fauna protegida na reserva natural de Punta Campanella na ponta oeste (12 km a sul); mantenha os cães com trela em todos os trilhos costeiros e respeite as épocas de nidificação abril-julho."
       ],
       "faqsEn": [
-        {"q": "Is Sorrento a good base for a pet-friendly Bay of Naples / Amalfi Coast holiday?", "a": "Yes, the combination of the Circumvesuviana to Pompeii and Naples (with pets free), the Marina Piccola hydrofoils to Capri/Ischia (25-50 min), the SITA SUD bus along the entire Amalfi Coast (Positano 50 min to Salerno 2h30), the Path of the Gods trailhead 12 km east and the relatively compact pet-walkable centro storico make Sorrento the obvious base for any Campania pet trip."},
-        {"q": "Do I need a muzzle in public in Sorrento?", "a": "Italian law requires muzzle on hand and short leash on public transport (Circumvesuviana, SITA SUD bus, ferries) and inside shops/museums; outdoors on streets and in parks, leash only suffices for non-restricted breeds. Assistance dogs always go anywhere."},
-        {"q": "What is the best month for Sorrento with a dog?", "a": "May-June and September-October: mild Mediterranean temperatures (20-26 °C), warm clear water (20-24 °C) at Bagni della Regina Giovanna and Marina del Cantone, lighter centro storico crowds and full Path of the Gods access. Avoid July-August daytime heat (32+ °C) on the centro storico cobbles and the cruise ship density."}
+        {
+          "q": "Is Sorrento a good base for a pet-friendly Bay of Naples / Amalfi Coast holiday?",
+          "a": "Yes, the combination of the Circumvesuviana to Pompeii and Naples (with pets free), the Marina Piccola hydrofoils to Capri/Ischia (25-50 min), the SITA SUD bus along the entire Amalfi Coast (Positano 50 min to Salerno 2h30), the Path of the Gods trailhead 12 km east and the relatively compact pet-walkable centro storico make Sorrento the obvious base for any Campania pet trip."
+        },
+        {
+          "q": "Do I need a muzzle in public in Sorrento?",
+          "a": "Italian law requires muzzle on hand and short leash on public transport (Circumvesuviana, SITA SUD bus, ferries) and inside shops/museums; outdoors on streets and in parks, leash only suffices for non-restricted breeds. Assistance dogs always go anywhere."
+        },
+        {
+          "q": "What is the best month for Sorrento with a dog?",
+          "a": "May-June and September-October: mild Mediterranean temperatures (20-26 °C), warm clear water (20-24 °C) at Bagni della Regina Giovanna and Marina del Cantone, lighter centro storico crowds and full Path of the Gods access. Avoid July-August daytime heat (32+ °C) on the centro storico cobbles and the cruise ship density."
+        }
       ],
       "faqsFr": [
-        {"q": "Sorrento est-elle une bonne base pour des vacances pet-friendly Baie de Naples / Côte amalfitaine ?", "a": "Oui, la combinaison du Circumvesuviana vers Pompéi et Naples (animaux gratuits), des hydrofoils Marina Piccola vers Capri/Ischia (25-50 min), du bus SITA SUD le long de toute la Côte amalfitaine (Positano 50 min à Salerne 2h30), du départ du Sentier des Dieux à 12 km à l'est et du centre historique relativement compact et accessible aux animaux fait de Sorrento la base évidente de tout voyage pet en Campanie."},
-        {"q": "Ai-je besoin d'une muselière en public à Sorrento ?", "a": "La loi italienne exige muselière à portée de main et laisse courte dans les transports publics (Circumvesuviana, bus SITA SUD, ferries) et à l'intérieur des magasins/musées ; en extérieur dans les rues et dans les parcs, la laisse seule suffit pour les races non restreintes. Les chiens d'assistance vont toujours partout."},
-        {"q": "Quel est le meilleur mois à Sorrento avec un chien ?", "a": "Mai-juin et septembre-octobre : températures méditerranéennes douces (20-26 °C), eau chaude et claire (20-24 °C) aux Bagni della Regina Giovanna et à Marina del Cantone, moins de monde au centre historique et accès complet au Sentier des Dieux. Évitez la chaleur diurne juillet-août (32+ °C) sur les pavés du centre historique et la densité des bateaux de croisière."}
+        {
+          "q": "Sorrento est-elle une bonne base pour des vacances pet-friendly Baie de Naples / Côte amalfitaine ?",
+          "a": "Oui, la combinaison du Circumvesuviana vers Pompéi et Naples (animaux gratuits), des hydrofoils Marina Piccola vers Capri/Ischia (25-50 min), du bus SITA SUD le long de toute la Côte amalfitaine (Positano 50 min à Salerne 2h30), du départ du Sentier des Dieux à 12 km à l'est et du centre historique relativement compact et accessible aux animaux fait de Sorrento la base évidente de tout voyage pet en Campanie."
+        },
+        {
+          "q": "Ai-je besoin d'une muselière en public à Sorrento ?",
+          "a": "La loi italienne exige muselière à portée de main et laisse courte dans les transports publics (Circumvesuviana, bus SITA SUD, ferries) et à l'intérieur des magasins/musées ; en extérieur dans les rues et dans les parcs, la laisse seule suffit pour les races non restreintes. Les chiens d'assistance vont toujours partout."
+        },
+        {
+          "q": "Quel est le meilleur mois à Sorrento avec un chien ?",
+          "a": "Mai-juin et septembre-octobre : températures méditerranéennes douces (20-26 °C), eau chaude et claire (20-24 °C) aux Bagni della Regina Giovanna et à Marina del Cantone, moins de monde au centre historique et accès complet au Sentier des Dieux. Évitez la chaleur diurne juillet-août (32+ °C) sur les pavés du centre historique et la densité des bateaux de croisière."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Sorrento una buena base para unas vacaciones pet-friendly Bahía de Nápoles / Costa Amalfitana?", "a": "Sí, la combinación del Circumvesuviana a Pompeya y Nápoles (mascotas gratis), de los hidrofoils Marina Piccola a Capri/Ischia (25-50 min), del bus SITA SUD a lo largo de toda la Costa Amalfitana (Positano 50 min a Salerno 2h30), del inicio del Sendero de los Dioses a 12 km al este y del centro histórico relativamente compacto y accesible para mascotas hace de Sorrento la base evidente de cualquier viaje pet en Campania."},
-        {"q": "¿Necesito bozal en público en Sorrento?", "a": "La ley italiana exige bozal a mano y correa corta en los transportes públicos (Circumvesuviana, bus SITA SUD, ferries) y dentro de tiendas/museos; al aire libre en las calles y en los parques, la correa sola basta para las razas no restringidas. Los perros de asistencia van siempre a cualquier sitio."},
-        {"q": "¿Cuál es el mejor mes para Sorrento con perro?", "a": "Mayo-junio y septiembre-octubre: temperaturas mediterráneas suaves (20-26 °C), agua cálida y clara (20-24 °C) en los Bagni della Regina Giovanna y en Marina del Cantone, menos gente en el centro histórico y acceso completo al Sendero de los Dioses. Evita el calor diurno julio-agosto (32+ °C) sobre los adoquines del centro histórico y la densidad de los cruceros."}
+        {
+          "q": "¿Es Sorrento una buena base para unas vacaciones pet-friendly Bahía de Nápoles / Costa Amalfitana?",
+          "a": "Sí, la combinación del Circumvesuviana a Pompeya y Nápoles (mascotas gratis), de los hidrofoils Marina Piccola a Capri/Ischia (25-50 min), del bus SITA SUD a lo largo de toda la Costa Amalfitana (Positano 50 min a Salerno 2h30), del inicio del Sendero de los Dioses a 12 km al este y del centro histórico relativamente compacto y accesible para mascotas hace de Sorrento la base evidente de cualquier viaje pet en Campania."
+        },
+        {
+          "q": "¿Necesito bozal en público en Sorrento?",
+          "a": "La ley italiana exige bozal a mano y correa corta en los transportes públicos (Circumvesuviana, bus SITA SUD, ferries) y dentro de tiendas/museos; al aire libre en las calles y en los parques, la correa sola basta para las razas no restringidas. Los perros de asistencia van siempre a cualquier sitio."
+        },
+        {
+          "q": "¿Cuál es el mejor mes para Sorrento con perro?",
+          "a": "Mayo-junio y septiembre-octubre: temperaturas mediterráneas suaves (20-26 °C), agua cálida y clara (20-24 °C) en los Bagni della Regina Giovanna y en Marina del Cantone, menos gente en el centro histórico y acceso completo al Sendero de los Dioses. Evita el calor diurno julio-agosto (32+ °C) sobre los adoquines del centro histórico y la densidad de los cruceros."
+        }
       ],
       "faqsPt": [
-        {"q": "Sorrento é uma boa base para férias pet-friendly Baía de Nápoles / Costa Amalfitana?", "a": "Sim, a combinação do Circumvesuviana para Pompeia e Nápoles (animais grátis), dos hidrofoils Marina Piccola para Capri/Ischia (25-50 min), do autocarro SITA SUD ao longo de toda a Costa Amalfitana (Positano 50 min a Salerno 2h30), do início do Caminho dos Deuses a 12 km a leste e do centro histórico relativamente compacto e acessível para animais faz de Sorrento a base óbvia de qualquer viagem pet na Campânia."},
-        {"q": "Preciso de açaime em público em Sorrento?", "a": "A lei italiana exige açaime à mão e trela curta nos transportes públicos (Circumvesuviana, autocarro SITA SUD, ferries) e dentro de lojas/museus; ao ar livre nas ruas e nos parques, a trela só basta para as raças não restringidas. Os cães de assistência vão sempre a qualquer lugar."},
-        {"q": "Qual é o melhor mês para Sorrento com cão?", "a": "Maio-junho e setembro-outubro: temperaturas mediterrânicas suaves (20-26 °C), água quente e clara (20-24 °C) nos Bagni della Regina Giovanna e em Marina del Cantone, menos gente no centro histórico e acesso completo ao Caminho dos Deuses. Evite o calor diurno julho-agosto (32+ °C) sobre a calçada do centro histórico e a densidade dos cruzeiros."}
+        {
+          "q": "Sorrento é uma boa base para férias pet-friendly Baía de Nápoles / Costa Amalfitana?",
+          "a": "Sim, a combinação do Circumvesuviana para Pompeia e Nápoles (animais grátis), dos hidrofoils Marina Piccola para Capri/Ischia (25-50 min), do autocarro SITA SUD ao longo de toda a Costa Amalfitana (Positano 50 min a Salerno 2h30), do início do Caminho dos Deuses a 12 km a leste e do centro histórico relativamente compacto e acessível para animais faz de Sorrento a base óbvia de qualquer viagem pet na Campânia."
+        },
+        {
+          "q": "Preciso de açaime em público em Sorrento?",
+          "a": "A lei italiana exige açaime à mão e trela curta nos transportes públicos (Circumvesuviana, autocarro SITA SUD, ferries) e dentro de lojas/museus; ao ar livre nas ruas e nos parques, a trela só basta para as raças não restringidas. Os cães de assistência vão sempre a qualquer lugar."
+        },
+        {
+          "q": "Qual é o melhor mês para Sorrento com cão?",
+          "a": "Maio-junho e setembro-outubro: temperaturas mediterrânicas suaves (20-26 °C), água quente e clara (20-24 °C) nos Bagni della Regina Giovanna e em Marina del Cantone, menos gente no centro histórico e acesso completo ao Caminho dos Deuses. Evite o calor diurno julho-agosto (32+ °C) sobre a calçada do centro histórico e a densidade dos cruzeiros."
+        }
       ]
     },
     "attractions": {
@@ -671,7 +896,7 @@
         {
           "name": "Piazza Tasso and centro storico",
           "neighborhood": "Centre",
-          "photo": "/images/city-places/sorrento-attractions-piazza-tasso.jpg",
+          "photo": "/images/city-places/sorrento-attractions-piazza-tasso-and-centro-storico.jpg",
           "website": "https://www.sorrentotourism.com/",
           "description": "The historic main square of Sorrento at the junction of the Corso Italia and the Via San Cesareo entry to the centro storico, named after the 16th-century poet Torquato Tasso (born in Sorrento 1544), with the statue of Sant'Antonino (patron saint of Sorrento) and the church of Santa Maria del Carmine. Surrounded by historic café-bars and the Vallone dei Mulini viewpoint at the east edge. Leashed dogs welcome on the square and on all the centro storico pedestrian streets year-round.",
           "descriptionFr": "La place principale historique de Sorrento à la jonction du Corso Italia et de l'entrée Via San Cesareo du centre historique, nommée d'après le poète du 16e siècle Torquato Tasso (né à Sorrento en 1544), avec la statue de Sant'Antonino (saint patron de Sorrento) et l'église Santa Maria del Carmine. Entourée de café-bars historiques et du point de vue du Vallone dei Mulini à la limite est. Chiens en laisse bienvenus sur la place et sur toutes les rues piétonnes du centre historique toute l'année.",
@@ -694,7 +919,7 @@
         {
           "name": "Chiostro di San Francesco",
           "neighborhood": "Via San Francesco, beside Villa Comunale",
-          "photo": "/images/city-places/sorrento-attractions-chiostro.jpg",
+          "photo": "/images/city-places/sorrento-attractions-chiostro-di-san-francesco.jpg",
           "website": "https://www.sorrentotourism.com/",
           "description": "A 14th-century Franciscan cloister beside the Villa Comunale, with a unique Late Gothic / early Renaissance arcade combining intersecting tuff arches and ancient marble columns reused from a pagan temple, surrounded by mature bougainvillea and citrus trees. Free public access and a popular wedding ceremony venue. Leashed dogs welcome year-round in the cloister courtyard; the adjoining San Francesco church admits only assistance dogs.",
           "descriptionFr": "Cloître franciscain du 14e siècle à côté de la Villa Comunale, avec une arcade Gothique tardif / Renaissance précoce unique combinant arches de tuf entrecroisées et colonnes de marbre antique remployées d'un temple païen, entourée de bougainvilliers et d'agrumes matures. Accès public gratuit et lieu de cérémonie de mariage populaire. Chiens en laisse bienvenus toute l'année dans la cour du cloître ; l'église San Francesco adjacente n'admet que les chiens d'assistance.",
@@ -717,7 +942,7 @@
         {
           "name": "Marina Grande old fishing port",
           "neighborhood": "Marina Grande / 1 km west of Villa Comunale",
-          "photo": "/images/city-places/sorrento-attractions-marina-grande.jpg",
+          "photo": "/images/city-places/sorrento-attractions-marina-grande-old-fishing-port.jpg",
           "website": "https://www.sorrentotourism.com/",
           "description": "The original fishing village of Sorrento, separate from the modern Marina Piccola ferry hub, with the historic Porta Marina Grande gate, colourful houses, working gozzi (small wooden fishing boats), the De Gregorio family's century-old Bagni Delfino on its pontoon, the Sant'Anna church, and views back up to the Villa Comunale clifftop 80 m above. Reached by staircase from Via Marina Grande or by car/scooter down a winding lane. Leashed dogs welcome year-round on the quay and all the village lanes.",
           "descriptionFr": "Le village de pêche d'origine de Sorrento, distinct du hub ferry moderne Marina Piccola, avec la porte historique Porta Marina Grande, les maisons colorées, les gozzi (petits bateaux de pêche en bois) en activité, le Bagni Delfino centenaire de la famille De Gregorio sur son ponton, l'église Sant'Anna, et les vues sur la Villa Comunale en haut de falaise à 80 m au-dessus. Accessible par escalier depuis la Via Marina Grande ou en voiture/scooter par une ruelle en lacets. Chiens en laisse bienvenus toute l'année sur le quai et dans toutes les ruelles du village.",
@@ -759,24 +984,60 @@
         "Para uma excursão de dia, apanhe o Circumvesuviana desde Sorrento até Pompei Scavi-Villa dei Misteri (35 min directo) e caminhe no parque arqueológico ao ar livre com o seu cão com açaime e trela; Pompeia aceita cães com trela o ano inteiro em todas as áreas de ruas exteriores, com cães de assistência só nos interiores reconstruídos."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Sorrento Cathedral?", "a": "Only assistance dogs may enter the indoor Cathedral Duomo on Corso Italia; leashed pets are welcome on the Cathedral square and on the surrounding Corso Italia year-round."},
-        {"q": "Can I walk my dog around the Chiostro di San Francesco?", "a": "Yes, the 14th-century Franciscan cloister courtyard beside the Villa Comunale welcomes leashed dogs year-round, free of charge; the adjoining San Francesco church admits only assistance dogs."},
-        {"q": "Is Sorrento centre walkable with a dog?", "a": "Yes, the centre is fully pedestrian-friendly with mostly flat cobbled and paved alleys; the Piazza Tasso, Corso Italia, Cathedral Duomo, Chiostro di San Francesco, Villa Comunale and Vallone dei Mulini all link in a 1.5 km walking loop, and the Marina Grande is reachable by a 5 minute staircase or a 10 minute walk down the lane."}
+        {
+          "q": "Are dogs allowed in the Sorrento Cathedral?",
+          "a": "Only assistance dogs may enter the indoor Cathedral Duomo on Corso Italia; leashed pets are welcome on the Cathedral square and on the surrounding Corso Italia year-round."
+        },
+        {
+          "q": "Can I walk my dog around the Chiostro di San Francesco?",
+          "a": "Yes, the 14th-century Franciscan cloister courtyard beside the Villa Comunale welcomes leashed dogs year-round, free of charge; the adjoining San Francesco church admits only assistance dogs."
+        },
+        {
+          "q": "Is Sorrento centre walkable with a dog?",
+          "a": "Yes, the centre is fully pedestrian-friendly with mostly flat cobbled and paved alleys; the Piazza Tasso, Corso Italia, Cathedral Duomo, Chiostro di San Francesco, Villa Comunale and Vallone dei Mulini all link in a 1.5 km walking loop, and the Marina Grande is reachable by a 5 minute staircase or a 10 minute walk down the lane."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans la cathédrale de Sorrento ?", "a": "Seuls les chiens d'assistance peuvent entrer dans le Duomo cathédrale sur le Corso Italia ; les chiens en laisse sont bienvenus sur la place de la cathédrale et sur le Corso Italia environnant toute l'année."},
-        {"q": "Puis-je promener mon chien autour du Chiostro di San Francesco ?", "a": "Oui, la cour du cloître franciscain du 14e siècle à côté de la Villa Comunale accueille les chiens en laisse toute l'année, gratuitement ; l'église San Francesco adjacente n'admet que les chiens d'assistance."},
-        {"q": "Le centre de Sorrento est-il accessible à pied avec un chien ?", "a": "Oui, le centre est entièrement pet-friendly à pied avec des allées pavées et empierrées majoritairement plates ; la Piazza Tasso, le Corso Italia, le Duomo cathédrale, le Chiostro di San Francesco, la Villa Comunale et le Vallone dei Mulini forment une boucle de marche de 1,5 km, et Marina Grande est joignable par un escalier de 5 minutes ou une descente à pied de 10 minutes par la ruelle."}
+        {
+          "q": "Les chiens sont-ils autorisés dans la cathédrale de Sorrento ?",
+          "a": "Seuls les chiens d'assistance peuvent entrer dans le Duomo cathédrale sur le Corso Italia ; les chiens en laisse sont bienvenus sur la place de la cathédrale et sur le Corso Italia environnant toute l'année."
+        },
+        {
+          "q": "Puis-je promener mon chien autour du Chiostro di San Francesco ?",
+          "a": "Oui, la cour du cloître franciscain du 14e siècle à côté de la Villa Comunale accueille les chiens en laisse toute l'année, gratuitement ; l'église San Francesco adjacente n'admet que les chiens d'assistance."
+        },
+        {
+          "q": "Le centre de Sorrento est-il accessible à pied avec un chien ?",
+          "a": "Oui, le centre est entièrement pet-friendly à pied avec des allées pavées et empierrées majoritairement plates ; la Piazza Tasso, le Corso Italia, le Duomo cathédrale, le Chiostro di San Francesco, la Villa Comunale et le Vallone dei Mulini forment une boucle de marche de 1,5 km, et Marina Grande est joignable par un escalier de 5 minutes ou une descente à pied de 10 minutes par la ruelle."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en la catedral de Sorrento?", "a": "Solo los perros de asistencia pueden entrar en el Duomo catedral en el Corso Italia; los perros con correa son bienvenidos en la plaza de la catedral y en el Corso Italia circundante todo el año."},
-        {"q": "¿Puedo pasear a mi perro alrededor del Chiostro di San Francesco?", "a": "Sí, el patio del claustro franciscano del siglo XIV junto a la Villa Comunale acoge perros con correa todo el año, gratis; la iglesia San Francesco adyacente solo admite perros de asistencia."},
-        {"q": "¿El centro de Sorrento es accesible a pie con un perro?", "a": "Sí, el centro es enteramente pet-friendly a pie con avenidas empedradas y pavimentadas mayoritariamente llanas; la Piazza Tasso, el Corso Italia, el Duomo catedral, el Chiostro di San Francesco, la Villa Comunale y el Vallone dei Mulini forman un bucle de paseo de 1,5 km, y Marina Grande se alcanza por una escalera de 5 minutos o una bajada a pie de 10 minutos por la callejuela."}
+        {
+          "q": "¿Se admiten perros en la catedral de Sorrento?",
+          "a": "Solo los perros de asistencia pueden entrar en el Duomo catedral en el Corso Italia; los perros con correa son bienvenidos en la plaza de la catedral y en el Corso Italia circundante todo el año."
+        },
+        {
+          "q": "¿Puedo pasear a mi perro alrededor del Chiostro di San Francesco?",
+          "a": "Sí, el patio del claustro franciscano del siglo XIV junto a la Villa Comunale acoge perros con correa todo el año, gratis; la iglesia San Francesco adyacente solo admite perros de asistencia."
+        },
+        {
+          "q": "¿El centro de Sorrento es accesible a pie con un perro?",
+          "a": "Sí, el centro es enteramente pet-friendly a pie con avenidas empedradas y pavimentadas mayoritariamente llanas; la Piazza Tasso, el Corso Italia, el Duomo catedral, el Chiostro di San Francesco, la Villa Comunale y el Vallone dei Mulini forman un bucle de paseo de 1,5 km, y Marina Grande se alcanza por una escalera de 5 minutos o una bajada a pie de 10 minutos por la callejuela."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos na catedral de Sorrento?", "a": "Só os cães de assistência podem entrar no Duomo catedral no Corso Italia; os cães com trela são bem-vindos na praça da catedral e no Corso Italia circundante o ano inteiro."},
-        {"q": "Posso passear o meu cão à volta do Chiostro di San Francesco?", "a": "Sim, o pátio do claustro franciscano do século XIV junto à Villa Comunale acolhe cães com trela o ano inteiro, grátis; a igreja San Francesco adjacente só admite cães de assistência."},
-        {"q": "O centro de Sorrento é acessível a pé com um cão?", "a": "Sim, o centro é inteiramente pet-friendly a pé com alamedas empedradas e pavimentadas maioritariamente planas; a Piazza Tasso, o Corso Italia, o Duomo catedral, o Chiostro di San Francesco, a Villa Comunale e o Vallone dei Mulini formam um circuito de caminhada de 1,5 km, e Marina Grande atinge-se por uma escada de 5 minutos ou uma descida a pé de 10 minutos pela viela."}
+        {
+          "q": "Os cães são admitidos na catedral de Sorrento?",
+          "a": "Só os cães de assistência podem entrar no Duomo catedral no Corso Italia; os cães com trela são bem-vindos na praça da catedral e no Corso Italia circundante o ano inteiro."
+        },
+        {
+          "q": "Posso passear o meu cão à volta do Chiostro di San Francesco?",
+          "a": "Sim, o pátio do claustro franciscano do século XIV junto à Villa Comunale acolhe cães com trela o ano inteiro, grátis; a igreja San Francesco adjacente só admite cães de assistência."
+        },
+        {
+          "q": "O centro de Sorrento é acessível a pé com um cão?",
+          "a": "Sim, o centro é inteiramente pet-friendly a pé com alamedas empedradas e pavimentadas maioritariamente planas; a Piazza Tasso, o Corso Italia, o Duomo catedral, o Chiostro di San Francesco, a Villa Comunale e o Vallone dei Mulini formam um circuito de caminhada de 1,5 km, e Marina Grande atinge-se por uma escada de 5 minutos ou uma descida a pé de 10 minutos pela viela."
+        }
       ]
     },
     "petsitting": {
@@ -868,24 +1129,60 @@
         "Reserve com 4-6 semanas de antecedência para qualquer estadia durante a época alta julho-agosto quando o centro histórico se enche de mais de 20 000 visitantes diários vindos de cruzeiros e ferries, e 2-3 semanas de antecedência para as épocas intermédias maio-junho e setembro-outubro quando o tráfego pet internacional permanece forte nos hidrofoils Capri/Ischia e no autocarro da Costa Amalfitana."
       ],
       "faqsEn": [
-        {"q": "How much does pet sitting cost in Sorrento?", "a": "Expect EUR 22-32 per night for boarding and EUR 12-18 per 30-minute walk via Pawshake, DogBuddy/Rover or Holidog; rural boarding hosts around Massa Lubrense and Sant'Agata sui Due Golfi charge from EUR 25 per day."},
-        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Sorrento hotels keep a short list of Pawshake and Holidog hosts who do evening drop-ins, useful for a Bagni Delfino dinner on the Marina Grande pontoon or a sunset Path of the Gods bus and walk to Nocelle above Positano."},
-        {"q": "Do I need to bring my dog's food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset, particularly important if the dog has just done a Circumvesuviana from Naples or a Marina Piccola ferry from Capri."}
+        {
+          "q": "How much does pet sitting cost in Sorrento?",
+          "a": "Expect EUR 22-32 per night for boarding and EUR 12-18 per 30-minute walk via Pawshake, DogBuddy/Rover or Holidog; rural boarding hosts around Massa Lubrense and Sant'Agata sui Due Golfi charge from EUR 25 per day."
+        },
+        {
+          "q": "Can hotels recommend a sitter for an evening out?",
+          "a": "Yes, larger Sorrento hotels keep a short list of Pawshake and Holidog hosts who do evening drop-ins, useful for a Bagni Delfino dinner on the Marina Grande pontoon or a sunset Path of the Gods bus and walk to Nocelle above Positano."
+        },
+        {
+          "q": "Do I need to bring my dog's food to a sitter?",
+          "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset, particularly important if the dog has just done a Circumvesuviana from Naples or a Marina Piccola ferry from Capri."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la garde à Sorrento ?", "a": "Comptez 22-32 € par nuit en pension et 12-18 € par balade de 30 minutes via Pawshake, DogBuddy/Rover ou Holidog ; les hôtes de pension rurale autour de Massa Lubrense et Sant'Agata sui Due Golfi facturent à partir de 25 € par jour."},
-        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Sorrento gardent une courte liste d'hôtes Pawshake et Holidog disponibles le soir, utile pour un dîner Bagni Delfino sur le ponton de Marina Grande ou un bus et marche coucher de soleil Sentier des Dieux vers Nocelle au-dessus de Positano."},
-        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs, particulièrement important si le chien vient de faire un Circumvesuviana depuis Naples ou un ferry Marina Piccola depuis Capri."}
+        {
+          "q": "Combien coûte la garde à Sorrento ?",
+          "a": "Comptez 22-32 € par nuit en pension et 12-18 € par balade de 30 minutes via Pawshake, DogBuddy/Rover ou Holidog ; les hôtes de pension rurale autour de Massa Lubrense et Sant'Agata sui Due Golfi facturent à partir de 25 € par jour."
+        },
+        {
+          "q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?",
+          "a": "Oui, les grands hôtels de Sorrento gardent une courte liste d'hôtes Pawshake et Holidog disponibles le soir, utile pour un dîner Bagni Delfino sur le ponton de Marina Grande ou un bus et marche coucher de soleil Sentier des Dieux vers Nocelle au-dessus de Positano."
+        },
+        {
+          "q": "Dois-je apporter la nourriture du chien au sitter ?",
+          "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs, particulièrement important si le chien vient de faire un Circumvesuviana depuis Naples ou un ferry Marina Piccola depuis Capri."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el cuidado de mascotas en Sorrento?", "a": "Cuenta 22-32 € por noche en residencia y 12-18 € por paseo de 30 minutos vía Pawshake, DogBuddy/Rover o Holidog; los anfitriones de residencia rural alrededor de Massa Lubrense y Sant'Agata sui Due Golfi cobran desde 25 € por día."},
-        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Sorrento guardan una lista corta de anfitriones Pawshake y Holidog disponibles por la tarde, útil para una cena Bagni Delfino en el pontón de Marina Grande o un bus y caminata al atardecer Sendero de los Dioses hacia Nocelle por encima de Positano."},
-        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos, particularmente importante si el perro acaba de hacer un Circumvesuviana desde Nápoles o un ferry Marina Piccola desde Capri."}
+        {
+          "q": "¿Cuánto cuesta el cuidado de mascotas en Sorrento?",
+          "a": "Cuenta 22-32 € por noche en residencia y 12-18 € por paseo de 30 minutos vía Pawshake, DogBuddy/Rover o Holidog; los anfitriones de residencia rural alrededor de Massa Lubrense y Sant'Agata sui Due Golfi cobran desde 25 € por día."
+        },
+        {
+          "q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?",
+          "a": "Sí, los grandes hoteles de Sorrento guardan una lista corta de anfitriones Pawshake y Holidog disponibles por la tarde, útil para una cena Bagni Delfino en el pontón de Marina Grande o un bus y caminata al atardecer Sendero de los Dioses hacia Nocelle por encima de Positano."
+        },
+        {
+          "q": "¿Tengo que llevar la comida del perro al cuidador?",
+          "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos, particularmente importante si el perro acaba de hacer un Circumvesuviana desde Nápoles o un ferry Marina Piccola desde Capri."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa o cuidado de animais em Sorrento?", "a": "Conte 22-32 € por noite em creche e 12-18 € por passeio de 30 minutos via Pawshake, DogBuddy/Rover ou Holidog; os anfitriões de creche rural em torno de Massa Lubrense e Sant'Agata sui Due Golfi cobram desde 25 € por dia."},
-        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Sorrento guardam uma lista curta de anfitriões Pawshake e Holidog disponíveis à noite, útil para um jantar Bagni Delfino no pontão de Marina Grande ou um autocarro e caminhada ao pôr-do-sol Caminho dos Deuses para Nocelle acima de Positano."},
-        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos, particularmente importante se o cão acabou de fazer um Circumvesuviana desde Nápoles ou um ferry Marina Piccola desde Capri."}
+        {
+          "q": "Quanto custa o cuidado de animais em Sorrento?",
+          "a": "Conte 22-32 € por noite em creche e 12-18 € por passeio de 30 minutos via Pawshake, DogBuddy/Rover ou Holidog; os anfitriões de creche rural em torno de Massa Lubrense e Sant'Agata sui Due Golfi cobram desde 25 € por dia."
+        },
+        {
+          "q": "Os hotéis podem recomendar um sitter para uma saída à noite?",
+          "a": "Sim, os grandes hotéis de Sorrento guardam uma lista curta de anfitriões Pawshake e Holidog disponíveis à noite, útil para um jantar Bagni Delfino no pontão de Marina Grande ou um autocarro e caminhada ao pôr-do-sol Caminho dos Deuses para Nocelle acima de Positano."
+        },
+        {
+          "q": "Tenho de levar a comida do cão ao cuidador?",
+          "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos, particularmente importante se o cão acabou de fazer um Circumvesuviana desde Nápoles ou um ferry Marina Piccola desde Capri."
+        }
       ]
     }
   }

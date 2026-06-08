@@ -21279,6 +21279,139 @@
     "petPolicyPt": "Best Western Plus Bristol welcomes cães até 15 kg por 20 EUR por animal por noite. gatos são não aceites. animais são restricted para designated quartos (book com antecedência)."
   },
   {
+    "id": "sorrento-1",
+    "name": "Grand Hotel Excelsior Vittoria",
+    "destinationSlug": "sorrento",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.8,
+    "reviewCount": 135,
+    "priceFrom": 595,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/grande-albergo-excelsior-vittoria.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome at no extra charge; small pets allowed in guestrooms only (not in restaurants, bars, pools or terraces). Notify the hotel in advance.",
+    "highlights": [
+      "Clifftop garden over the Bay of Naples",
+      "Outdoor pool",
+      "Free WiFi",
+      "Private parking"
+    ],
+    "slug": "grand-hotel-excelsior-vittoria-sorrento",
+    "petPolicyPt": "Cães e gatos bem-vindos sem custo adicional; pequenos animais apenas nos quartos (não em restaurantes, bares, piscinas ou terraços). Avise o hotel com antecedência."
+  },
+  {
+    "id": "sorrento-2",
+    "name": "Grand Hotel Cesare Augusto",
+    "destinationSlug": "sorrento",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 1244,
+    "priceFrom": 189,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/grand-cesare-augusto.html",
+    "petFee": 20,
+    "petPolicy": "Pets welcome on request for EUR 20 per pet, per night. Central location a short walk from Piazza Tasso, with a rooftop terrace and pool.",
+    "highlights": [
+      "Rooftop terrace & pool",
+      "Central location",
+      "Restaurant",
+      "Free WiFi"
+    ],
+    "slug": "grand-hotel-cesare-augusto-sorrento",
+    "petPolicyPt": "Animais bem-vindos a pedido por 20 EUR por animal, por noite. Localização central a curta distância da Piazza Tasso, com terraço panorâmico e piscina."
+  },
+  {
+    "id": "sorrento-3",
+    "name": "Hotel La Tonnarella",
+    "destinationSlug": "sorrento",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 612,
+    "priceFrom": 186,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/la-tonnarella.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats stay free; clifftop hotel with a private beach reached by lift. Size limits may apply, confirm at booking.",
+    "highlights": [
+      "Private beach via lift",
+      "Rooftop terrace & Jacuzzi",
+      "Sea views",
+      "Restaurant"
+    ],
+    "slug": "hotel-la-tonnarella-sorrento",
+    "petPolicyPt": "Cães e gatos ficam grátis; hotel sobre a falésia com praia privada acessível por elevador. Podem aplicar-se limites de tamanho, confirme na reserva."
+  },
+  {
+    "id": "sorrento-4",
+    "name": "Hotel Cristina",
+    "destinationSlug": "sorrento",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1223,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/hotelcristina.html",
+    "petFee": 15,
+    "petPolicy": "Pets welcome for EUR 15 per room, per night (state size at booking). Panoramic hilltop in Sant'Agnello with Bay of Naples views, a pool and a free shuttle to Sorrento centre.",
+    "highlights": [
+      "Bay of Naples & Vesuvius views",
+      "Outdoor pool (May-Sept)",
+      "Free shuttle to centre",
+      "Restaurant"
+    ],
+    "slug": "hotel-cristina-sorrento",
+    "petPolicyPt": "Animais bem-vindos por 15 EUR por quarto, por noite (indique o tamanho na reserva). Localização panorâmica em Sant'Agnello com vista para a baía de Nápoles, piscina e transfer gratuito para o centro de Sorrento."
+  },
+  {
+    "id": "sorrento-5",
+    "name": "Surriento Suites",
+    "destinationSlug": "sorrento",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.8,
+    "reviewCount": 256,
+    "priceFrom": 219,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/surriento-suites.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size stay free (one per room); cats by request. Central boutique B&B near Piazza Tasso with sea views. Notify the property at booking.",
+    "highlights": [
+      "Central, near Piazza Tasso",
+      "Sea views",
+      "Free WiFi",
+      "Boutique B&B"
+    ],
+    "slug": "surriento-suites-sorrento",
+    "petPolicyPt": "Cães de qualquer tamanho ficam grátis (um por quarto); gatos a pedido. B&B boutique central perto da Piazza Tasso com vista de mar. Avise a propriedade na reserva."
+  },
+  {
     "id": "split-1",
     "name": "Hotel Marjan Split",
     "destinationSlug": "split",

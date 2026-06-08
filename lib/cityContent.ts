@@ -20350,6 +20350,139 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  sorrento: {
+    history: {
+      fr: `Perchée sur des falaises de tuf de 80 mètres au-dessus de la baie de Naples, Sorrente est l'antique Surrentum romaine, déjà station balnéaire prisée des patriciens de l'Empire. Ville natale du poète Torquato Tasso, elle a gardé un centre historique compact de ruelles pavées, de citronniers en terrasses et de boutiques de limoncello. Avec à peine 16 000 habitants, elle sert de porte d'entrée à toute la baie : Capri à 25 minutes de ferry, Pompéi à 35 minutes de Circumvesuviana et la côte amalfitaine par la ligne de bus SITA SUD. Les Sorrentins sont accueillants envers les chiens, bienvenus en laisse sur les terrasses, dans les jardins de la Villa Comunale et le long du port de pêche de Marina Grande.`,
+      en: `Perched on 80-metre tuff cliffs above the Bay of Naples, Sorrento is Roman Surrentum, already a seaside resort favoured by the patricians of the Empire. The birthplace of the poet Torquato Tasso, it has kept a compact historic centre of cobbled lanes, terraced lemon groves and limoncello shops. With barely 16,000 residents, it serves as the gateway to the whole bay: Capri 25 minutes away by ferry, Pompeii 35 minutes by the Circumvesuviana railway and the Amalfi Coast along the SITA SUD bus line. Sorrentines are welcoming to dogs, who are happy on leads on café terraces, in the Villa Comunale gardens and along the Marina Grande fishing port.`,
+      es: `Encaramada en acantilados de toba de 80 metros sobre la bahía de Nápoles, Sorrento es la antigua Surrentum romana, ya entonces un balneario apreciado por los patricios del Imperio. Cuna del poeta Torquato Tasso, conserva un centro histórico compacto de callejuelas adoquinadas, limonares en terrazas y tiendas de limoncello. Con apenas 16 000 habitantes, sirve de puerta de entrada a toda la bahía: Capri a 25 minutos en ferry, Pompeya a 35 minutos en el tren Circumvesuviana y la costa de Amalfi por la línea de autobús SITA SUD. Los sorrentinos acogen bien a los perros, bienvenidos con correa en las terrazas, en los jardines de la Villa Comunale y a lo largo del puerto pesquero de Marina Grande.`,
+      pt: `Empoleirada em falésias de tufo de 80 metros sobre a baía de Nápoles, Sorrento é a antiga Surrentum romana, já então um balneário apreciado pelos patrícios do Império. Berço do poeta Torquato Tasso, conserva um centro histórico compacto de ruelas calcetadas, limoeiros em socalcos e lojas de limoncello. Com apenas 16 000 habitantes, serve de porta de entrada para toda a baía: Capri a 25 minutos de ferry, Pompeia a 35 minutos no comboio Circumvesuviana e a costa amalfitana pela linha de autocarro SITA SUD. Os sorrentinos acolhem bem os cães, bem-vindos com trela nas esplanadas, nos jardins da Villa Comunale e ao longo do porto piscatório de Marina Grande.`,
+    },
+    sights: [
+      {
+        name: 'Piazza Tasso',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La place centrale, en grande partie piétonne et bordée de cafés, est le cœur battant du centre historique. Idéale pour une promenade du soir avec un chien en laisse, avant de descendre vers Marina Grande.`,
+          en: `The largely pedestrian central square, lined with cafés, is the beating heart of the historic centre. Ideal for an evening stroll with a dog on the lead before heading down to Marina Grande.`,
+          es: `La plaza central, en gran parte peatonal y rodeada de cafés, es el corazón del centro histórico. Ideal para un paseo nocturno con el perro con correa antes de bajar a Marina Grande.`,
+          pt: `A praça central, em grande parte pedonal e rodeada de cafés, é o coração do centro histórico. Ideal para um passeio ao fim do dia com o cão com trela antes de descer à Marina Grande.`,
+        },
+      },
+      {
+        name: 'Villa Comunale',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Ces jardins publics au sommet de la falaise offrent un panorama sur la baie de Naples et le Vésuve. Les chiens tenus en laisse y sont les bienvenus ; un ascenseur public relie le parc au port de Marina Grande en contrebas.`,
+          en: `These clifftop public gardens offer a sweeping view over the Bay of Naples and Vesuvius. Leashed dogs are welcome; a public lift connects the park to Marina Grande harbour below.`,
+          es: `Estos jardines públicos en lo alto del acantilado ofrecen una vista panorámica de la bahía de Nápoles y el Vesubio. Los perros con correa son bienvenidos; un ascensor público conecta el parque con el puerto de Marina Grande.`,
+          pt: `Estes jardins públicos no alto da falésia oferecem uma vista panorâmica sobre a baía de Nápoles e o Vesúvio. Os cães com trela são bem-vindos; um elevador público liga o parque ao porto de Marina Grande, em baixo.`,
+        },
+      },
+      {
+        name: 'Chiostro di San Francesco',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Ce cloître du XIVe siècle, aux arcades entrelacées et au jardin de bougainvilliers, jouxte la Villa Comunale. Les chiens en laisse sont admis dans la cour ; l'entrée est gratuite et l'ombre y est précieuse l'été.`,
+          en: `This 14th-century cloister, with its interlaced arches and bougainvillea garden, adjoins the Villa Comunale. Leashed dogs are allowed in the courtyard; entry is free and the shade is welcome in summer.`,
+          es: `Este claustro del siglo XIV, de arcos entrelazados y jardín de buganvillas, linda con la Villa Comunale. Se admiten perros con correa en el patio; la entrada es gratuita y la sombra se agradece en verano.`,
+          pt: `Este claustro do século XIV, de arcos entrelaçados e jardim de buganvílias, fica junto à Villa Comunale. São admitidos cães com trela no pátio; a entrada é gratuita e a sombra é bem-vinda no verão.`,
+        },
+      },
+      {
+        name: 'Marina Grande',
+        emoji: '🛥️',
+        petFriendly: true,
+        desc: {
+          fr: `L'ancien village de pêcheurs, avec ses barques colorées et ses restaurants de poisson, est l'endroit le plus authentique de Sorrente. La promenade du front de mer se fait facilement avec un chien ; plusieurs terrasses acceptent les animaux.`,
+          en: `The old fishing village, with its colourful boats and seafood restaurants, is the most authentic corner of Sorrento. The waterfront walk is easy with a dog; several terraces accept pets.`,
+          es: `El antiguo pueblo de pescadores, con sus barcas de colores y restaurantes de pescado, es el rincón más auténtico de Sorrento. El paseo marítimo se hace fácilmente con un perro; varias terrazas aceptan mascotas.`,
+          pt: `A antiga aldeia piscatória, com os seus barcos coloridos e restaurantes de peixe, é o recanto mais autêntico de Sorrento. O passeio à beira-mar faz-se facilmente com um cão; várias esplanadas aceitam animais.`,
+        },
+      },
+      {
+        name: 'Giardini di Cataldo',
+        emoji: '🍋',
+        petFriendly: true,
+        desc: {
+          fr: `Cette citronneraie historique en plein centre-ville produit les célèbres citrons de Sorrente et le limoncello. La visite de la roseraie ombragée se fait avec un chien tenu en laisse ; dégustation gratuite à la sortie.`,
+          en: `This historic lemon grove in the heart of town produces Sorrento's famous lemons and limoncello. The shaded grove can be visited with a dog on the lead; free tasting at the exit.`,
+          es: `Este limonar histórico en pleno centro produce los famosos limones de Sorrento y el limoncello. El recorrido por la arboleda sombreada se hace con el perro con correa; degustación gratuita a la salida.`,
+          pt: `Este limoeiral histórico em pleno centro produz os famosos limões de Sorrento e o limoncello. O percurso pelo arvoredo sombreado faz-se com o cão com trela; prova gratuita à saída.`,
+        },
+      },
+      {
+        name: 'Vallone dei Mulini',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Ce ravin verdoyant creusé dans le tuf, avec les ruines d'un ancien moulin envahies par la fougère, s'observe depuis un belvédère près de la Piazza Tasso. Point de vue rapide et gratuit, parfait avec un chien.`,
+          en: `This green ravine carved into the tuff, with the fern-covered ruins of an old mill, is viewed from a belvedere near Piazza Tasso. A quick, free viewpoint, perfect with a dog.`,
+          es: `Este barranco verde excavado en la toba, con las ruinas de un antiguo molino cubiertas de helechos, se contempla desde un mirador junto a la Piazza Tasso. Un mirador rápido y gratuito, perfecto con un perro.`,
+          pt: `Esta ravina verdejante escavada no tufo, com as ruínas de um antigo moinho cobertas de fetos, observa-se a partir de um miradouro junto à Piazza Tasso. Um miradouro rápido e gratuito, perfeito com um cão.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Sur la Circumvesuviana (EAV) vers Pompéi et Naples, les petits chiens en sac voyagent gratuitement ; les grands chiens muselés et en laisse nécessitent un billet à tarif réduit.`,
+        `Les bus SITA SUD de la côte amalfitaine acceptent les chiens muselés et tenus en laisse, mais ils sont souvent bondés l'été : voyagez tôt le matin.`,
+        `L'été, les marches en tuf et l'asphalte deviennent brûlants : promenez votre chien avant 10h ou après 18h et emportez de l'eau.`,
+        `La plupart des plages de Sorrente sont des lidos privés interdits aux chiens ; Marina di Puolo et Marina del Cantone (Nerano) sont plus tolérantes.`,
+        `Sur les ferries vers Capri et Ischia (Caremar, NLG, Gescab), les chiens sont généralement admis muselés et en laisse : confirmez la politique avec la compagnie avant d'embarquer.`,
+      ],
+      en: [
+        `On the Circumvesuviana (EAV) to Pompeii and Naples, small dogs in a carrier travel free; large dogs muzzled and on a lead need a reduced-fare ticket.`,
+        `SITA SUD Amalfi Coast buses accept dogs that are muzzled and leashed, but they are often packed in summer: travel early in the morning.`,
+        `In summer, the tuff steps and asphalt become scorching: walk your dog before 10am or after 6pm and carry water.`,
+        `Most Sorrento beaches are private lidos that ban dogs; Marina di Puolo and Marina del Cantone (Nerano) are more dog-tolerant.`,
+        `On ferries to Capri and Ischia (Caremar, NLG, Gescab), dogs are generally allowed muzzled and leashed: confirm the policy with the operator before boarding.`,
+      ],
+      es: [
+        `En la Circumvesuviana (EAV) hacia Pompeya y Nápoles, los perros pequeños en transportín viajan gratis; los perros grandes con bozal y correa necesitan un billete de tarifa reducida.`,
+        `Los autobuses SITA SUD de la costa de Amalfi aceptan perros con bozal y correa, pero suelen ir llenos en verano: viaja temprano por la mañana.`,
+        `En verano, los escalones de toba y el asfalto se vuelven ardientes: pasea a tu perro antes de las 10h o después de las 18h y lleva agua.`,
+        `La mayoría de las playas de Sorrento son lidos privados que prohíben los perros; Marina di Puolo y Marina del Cantone (Nerano) son más tolerantes.`,
+        `En los ferries a Capri e Ischia (Caremar, NLG, Gescab), los perros suelen admitirse con bozal y correa: confirma la política con la compañía antes de embarcar.`,
+      ],
+      pt: [
+        `Na Circumvesuviana (EAV) para Pompeia e Nápoles, os cães pequenos em transportadora viajam grátis; os cães grandes com açaime e trela precisam de um bilhete de tarifa reduzida.`,
+        `Os autocarros SITA SUD da costa amalfitana aceitam cães com açaime e trela, mas costumam ir cheios no verão: viaje de manhã cedo.`,
+        `No verão, os degraus de tufo e o asfalto ficam escaldantes: passeie o cão antes das 10h ou depois das 18h e leve água.`,
+        `A maioria das praias de Sorrento são lidos privados que proíbem cães; Marina di Puolo e Marina del Cantone (Nerano) são mais tolerantes.`,
+        `Nos ferries para Capri e Ischia (Caremar, NLG, Gescab), os cães são geralmente admitidos com açaime e trela: confirme a política com a companhia antes de embarcar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire en centre-ville : Clinica Veterinaria Sorrento, Via degli Aranci 158, +39 081 807 3245`,
+        `Urgences 24h/24 (référence régionale) : Ospedale Veterinario CMV, Naples (50 km par l'A3), +39 081 593 0640`,
+        `Passeport animalier européen accepté ; pas de quarantaine pour les animaux de l'UE`,
+        `Accès : aéroport de Naples (NAP, 50 km) puis Circumvesuviana ou bus Curreri jusqu'à Sorrente`,
+      ],
+      en: [
+        `City-centre vet: Clinica Veterinaria Sorrento, Via degli Aranci 158, +39 081 807 3245`,
+        `24/7 emergency (regional referral): Ospedale Veterinario CMV, Naples (50 km via the A3), +39 081 593 0640`,
+        `EU pet passport accepted; no quarantine for EU pets`,
+        `Getting there: Naples airport (NAP, 50 km) then the Circumvesuviana railway or Curreri bus to Sorrento`,
+      ],
+      es: [
+        `Veterinario en el centro: Clinica Veterinaria Sorrento, Via degli Aranci 158, +39 081 807 3245`,
+        `Urgencias 24h (referencia regional): Ospedale Veterinario CMV, Nápoles (50 km por la A3), +39 081 593 0640`,
+        `Pasaporte europeo de mascotas aceptado; sin cuarentena para animales de la UE`,
+        `Cómo llegar: aeropuerto de Nápoles (NAP, 50 km) y luego el tren Circumvesuviana o el autobús Curreri hasta Sorrento`,
+      ],
+      pt: [
+        `Veterinário no centro: Clinica Veterinaria Sorrento, Via degli Aranci 158, +39 081 807 3245`,
+        `Urgências 24h (referência regional): Ospedale Veterinario CMV, Nápoles (50 km pela A3), +39 081 593 0640`,
+        `Passaporte europeu para animais aceite; sem quarentena para animais da UE`,
+        `Como chegar: aeroporto de Nápoles (NAP, 50 km) e depois o comboio Circumvesuviana ou o autocarro Curreri até Sorrento`,
+      ],
+    },
+  },
+
   split: {
     history: {
       fr: `Split a grandi à l'intérieur d'un palais. Lorsque l'empereur romain Dioclétien s'y retira en 305 ap. J.-C., il bâtit une résidence-forteresse em bord de mer que des réfugiés transformèrent plus tard em cœur vivant d'une ville, 3 000 personnes y dorment encore dans les murs de calcaire. Le résultat est un chaos UNESCO : colonnes romaines soutenant des appartements médiévaux, autels baroques encastrés dans des maisons marchandes vénitiennes, le tout face à une Adriatique plus bleue qu'une carte postale. Split s'élève entre la pinède de la colline du Marjan et la Riva bordée de palmiers, avec les îles dalmates à une traversée de ferry. Les Croates adorent les chiens, em particulier le dalmatien, sélectionné sur cette côte, et la plupart des cafés laissent des gamelles dehors.`,

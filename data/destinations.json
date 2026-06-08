@@ -12617,6 +12617,81 @@
     "tiqetsId": "65870"
   },
   {
+    "slug": "siena",
+    "name": "Siena",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/siena.jpg",
+    "intro": "Siena is a 53 000-resident UNESCO World Heritage hilltop city in southern Tuscany, built around the shell-shaped Piazza del Campo and divided into 17 contrade (medieval neighborhoods) that compete in the Palio horse race on 2 July and 16 August. The white-and-black marble striped Duomo Cathedral, the 14th-century Palazzo Pubblico, the 102 m Torre del Mangia, the Fortezza Medicea panoramic ramparts, the Orto de' Pecci medieval valley garden and the Via Francigena pilgrim route through Porta Camollia and Porta Romana anchor the walled centre. Trenitalia regional Florence-Siena (1h15-1h45) accepts muzzled dogs, Tiemme/Sena buses link San Gimignano, Volterra, Montepulciano and the Crete Senesi rolling hills, and Florence FLR airport is 70 km north via direct 90 min Autostradale coach.",
+    "lat": 43.3188,
+    "lng": 11.3308,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "FLR"
+  },
+  {
     "slug": "sintra",
     "name": "Sintra",
     "country": "Portugal",

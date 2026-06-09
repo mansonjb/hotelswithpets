@@ -12419,6 +12419,33 @@
     "tiqetsId": "60346"
   },
   {
+    "slug": "saint-tropez",
+    "name": "Saint-Tropez",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/saint-tropez.jpg",
+    "intro": "Saint-Tropez is a 4,000-resident Provençal harbour town on the western Côte d'Azur, defined by its working Vieux Port, the 16th-century Citadelle, the plane-tree-shaded Place des Lices market (Tuesday and Saturday), the 5 km Pampelonne beach sweep in neighbouring Ramatuelle, and the 35 km Sentier du Littoral coastal path around the peninsula. The town has no SNCF station: the nearest rail head is Saint-Raphaël-Valescure 45 km away, linked year-round by Var-Lib bus 7601 (90 min) or seasonally by Bateaux de Saint-Raphaël ferry (50 min); the Bateaux Verts crossing from Sainte-Maxime takes 15 minutes. The two regional airports are Toulon-Hyères (TLN, 1 h) and Nice Côte d'Azur (NCE, 1 h 15). Beach access for dogs runs October to mid-May; rosé-fuelled terrace dining is reliable from May to October.",
+    "lat": 43.2675,
+    "lng": 6.6406,
+    "weather": {
+      "jan": { "temp": 9, "desc": "Mild & sunny", "icon": "🌤️" },
+      "feb": { "temp": 10, "desc": "Mild & sunny", "icon": "🌤️" },
+      "mar": { "temp": 12, "desc": "Mild & pleasant", "icon": "⛅" },
+      "apr": { "temp": 14, "desc": "Mild & pleasant", "icon": "⛅" },
+      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "🌤️" },
+      "jun": { "temp": 22, "desc": "Warm & sunny", "icon": "🌤️" },
+      "jul": { "temp": 25, "desc": "Hot & sunny", "icon": "☀️" },
+      "aug": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
+      "sep": { "temp": 22, "desc": "Warm & sunny", "icon": "🌤️" },
+      "oct": { "temp": 18, "desc": "Mild & pleasant", "icon": "⛅" },
+      "nov": { "temp": 13, "desc": "Mild with rain", "icon": "🌦️" },
+      "dec": { "temp": 10, "desc": "Mild with rain", "icon": "🌦️" }
+    },
+    "iata": "TLN"
+  },
+  {
     "slug": "san-sebastian",
     "name": "San Sebastián",
     "country": "Spain",

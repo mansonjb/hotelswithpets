@@ -857,6 +857,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Hellbrunn park, the Salzach riverside path, and the Kapuzinerberg hill trails',
       area: 'the Old Town (Altstadt), Schallmoos, and Mülln',
     },
+    'saint-tropez': {
+      personality: `a 4,000-resident Provençal harbour town on the western Côte d'Azur defined by its working Vieux Port lined with red-awning cafés, the 16th-century Citadelle and its maritime museum esplanade, the plane-tree-shaded Place des Lices market on Tuesdays and Saturdays, the 5 km Pampelonne sweep just over the hill in Ramatuelle, and the 35 km Sentier du Littoral coastal footpath around the whole peninsula`,
+      highlight: `the Vieux Port quay and La Ponche old fishermen's district, the Citadelle esplanade with its panoramic view over the gulf, the Place des Lices market and pétanque pitch, and the Sentier du Littoral from Plage des Salins around the Cap de Saint-Tropez`,
+      area: `the Vieux Port and La Ponche, the centre around Place des Lices, the Route des Plages corridor towards Pampelonne, and the Salins / Cap de Saint-Tropez eastern peninsula`,
+    },
     'san-sebastian': {
       personality: 'a Basque seaside city where dogs outnumber children in some districts and beaches open to them from October to May',
       highlight: 'La Concha and Zurriola beaches (October–May), Monte Urgull\'s hill trails, and the Paseo Nuevo coastal path',
@@ -1933,6 +1938,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une ville alpine compacte où l\'architecture de l\'époque Mozart, les prairies vallonnées et les montagnes du Salzkammergut environnantes créent un cadre magique pour les voyages avec animaux',
       highlight: 'le parc de Hellbrunn, le chemin riverain de la Salzach et les sentiers de la colline du Kapuzinerberg',
       area: 'la Vieille Ville (Altstadt), Schallmoos et Mülln',
+    },
+    'saint-tropez': {
+      personality: `une ville portuaire provençale de 4 000 habitants sur la Côte d'Azur ouest, définie par son Vieux Port en activité bordé de cafés aux stores rouges, la Citadelle du XVIᵉ siècle et l'esplanade de son musée maritime, le marché provençal de la Place des Lices ombragée de platanes le mardi et le samedi, l'étendue de 5 km de Pampelonne juste derrière la colline à Ramatuelle, et le Sentier du Littoral de 35 km tout autour de la presqu'île`,
+      highlight: `le quai du Vieux Port et le quartier des pêcheurs de La Ponche, l'esplanade de la Citadelle avec sa vue panoramique sur le golfe, le marché et le terrain de pétanque de la Place des Lices, et le Sentier du Littoral depuis la Plage des Salins en contournant le Cap de Saint-Tropez`,
+      area: `le Vieux Port et La Ponche, le centre autour de la Place des Lices, le corridor de la Route des Plages vers Pampelonne, et la presqu'île orientale autour des Salins et du Cap de Saint-Tropez`,
     },
     'san-sebastian': {
       personality: 'une ville balnéaire basque où les chiens sont parfois plus nombreux que les enfants et où les plages leur ouvrent d\'octobre à mai',
@@ -3011,6 +3021,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el parque de Hellbrunn, el sendero ribereño del Salzach y los senderos de la colina del Kapuzinerberg',
       area: 'el Casco Antiguo (Altstadt), Schallmoos y Mülln',
     },
+    'saint-tropez': {
+      personality: `una ciudad portuaria provenzal de 4 000 habitantes en la Costa Azul occidental, definida por su Puerto Viejo en actividad bordeado de cafés con toldos rojos, la Ciudadela del siglo XVI y la esplanada de su museo marítimo, el mercado provenzal de la Place des Lices sombreada por plátanos los martes y sábados, la franja de 5 km de Pampelonne justo detrás de la colina en Ramatuelle, y el Sentier du Littoral de 35 km alrededor de toda la península`,
+      highlight: `el muelle del Puerto Viejo y el barrio de pescadores de La Ponche, la esplanada de la Ciudadela con su vista panorámica sobre el golfo, el mercado y el terreno de petanca de la Place des Lices, y el Sentier du Littoral desde la Plage des Salins rodeando el Cap de Saint-Tropez`,
+      area: `el Puerto Viejo y La Ponche, el centro alrededor de la Place des Lices, el corredor de la Route des Plages hacia Pampelonne, y la península oriental alrededor de los Salins y el Cap de Saint-Tropez`,
+    },
     'san-sebastian': {
       personality: 'una ciudad costera vasca donde los perros llegan a ser más numerosos que los niños en algunos barrios y cuyas playas se les abren de octubre a mayo',
       highlight: 'las playas de La Concha y Zurriola (octubre–mayo), los senderos del Monte Urgull y el Paseo Nuevo junto al mar',
@@ -4087,6 +4102,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma compacta cidade alpina onde a arquitetura da época de Mozart, os prados ondulados e as montanhas do Salzkammergut circundante crean um escenario mágico para viajar com animais',
       highlight: 'o parque de Hellbrunn, o trilho riberenho do Salzach e os trilhos da colina do Kapuzinerberg',
       area: 'o Centro histórico (Altstadt), Schallmoos e Mülln',
+    },
+    'saint-tropez': {
+      personality: `uma cidade portuária provençal de 4 000 habitantes na Côte d'Azur ocidental, definida pelo seu Porto Velho em atividade orlado por cafés com toldos vermelhos, a Cidadela do século XVI e a esplanada do seu museu marítimo, o mercado provençal da Place des Lices sombreada por plátanos às terças e sábados, a extensão de 5 km de Pampelonne mesmo atrás da colina em Ramatuelle, e o Sentier du Littoral de 35 km à volta de toda a península`,
+      highlight: `o cais do Porto Velho e o bairro dos pescadores de La Ponche, a esplanada da Cidadela com a sua vista panorâmica sobre o golfo, o mercado e o terreno de pétanque da Place des Lices, e o Sentier du Littoral desde a Plage des Salins contornando o Cap de Saint-Tropez`,
+      area: `o Porto Velho e La Ponche, o centro à volta da Place des Lices, o corredor da Route des Plages em direção a Pampelonne, e a península oriental em torno dos Salins e do Cap de Saint-Tropez`,
     },
     'san-sebastian': {
       personality: 'uma cidade costera vasca onde os cães llegan a ser mais numerosos que os ninhos en algunos bairros e cuyas praias se les abren de outubro a maio',

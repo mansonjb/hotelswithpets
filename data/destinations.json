@@ -9687,6 +9687,81 @@
     "iata": "BRI"
   },
   {
+    "slug": "miami",
+    "name": "Miami",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/miami.jpg",
+    "intro": "Miami is Florida's South Beach Art Deco capital, where Ocean Drive's pastel hotel facades, the Lincoln Road pedestrian mall, the Wynwood Walls outdoor mural district, Brickell's waterfront skyline, Little Havana's Calle Ocho, Coconut Grove's bayfront promenade, Coral Gables' Mediterranean Revival villas and the Vizcaya gardens anchor a year-round outdoor lifestyle uniquely friendly to dogs. Two designated off-leash beaches (Hobie Island on the Rickenbacker Causeway and Haulover Dog Beach in Sunny Isles) plus large fenced dog parks at South Pointe, Margaret Pace, Tropical Park and Amelia Earhart give travellers genuine off-leash options. The Brightline intercity rail accepts pets up to 25 lb on every train, MIA airport is a CDC-approved dog-import gateway with two indoor pet relief areas, the Metromover and Metrobus admit small pets in carriers, and 24/7 emergency vet care is available across the metro. Peak season runs November to April; May to October brings 50-55 °C asphalt heat that limits midday walking.",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "weather": {
+      "jan": {
+        "temp": 21,
+        "desc": "Mild & dry",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 22,
+        "desc": "Mild & dry",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 27,
+        "desc": "Hot & humid",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 29,
+        "desc": "Hot & stormy",
+        "icon": "⛈️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Hot & stormy",
+        "icon": "⛈️"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Hot & stormy",
+        "icon": "⛈️"
+      },
+      "sep": {
+        "temp": 29,
+        "desc": "Hot & stormy",
+        "icon": "⛈️"
+      },
+      "oct": {
+        "temp": 27,
+        "desc": "Warm & humid",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 24,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "dec": {
+        "temp": 22,
+        "desc": "Mild & dry",
+        "icon": "☀️"
+      }
+    },
+    "iata": "MIA"
+  },
+  {
     "slug": "milan",
     "name": "Milan",
     "country": "Italy",

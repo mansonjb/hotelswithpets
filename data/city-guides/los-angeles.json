@@ -1,0 +1,775 @@
+{
+  "slug": "los-angeles",
+  "name": "Los Angeles",
+  "country": "United States",
+  "flag": "🇺🇸",
+  "lastUpdated": "2026-06-09",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Los Angeles",
+      "titleFr": "Restaurants acceptant les animaux à Los Angeles",
+      "titleEs": "Restaurantes que admiten mascotas en Los Angeles",
+      "titlePt": "Restaurantes que admitem animais em Los Angeles",
+      "introEn": "Los Angeles is built for dog-friendly outdoor dining: a sprawling year-round Mediterranean climate, sidewalk patios on almost every block from Abbot Kinney to West Hollywood, and a 2018 California state law (AB 1681) that explicitly allows dogs on restaurant patios provided the operator has approved it and the patio has its own outside entrance. West Hollywood, Venice, Santa Monica, Silver Lake, Echo Park and the Downtown Arts District concentrate the highest density of dog-welcoming venues, often with water bowls, treat jars and shaded misters in summer. Indoor dining is service animals only. Heat is the main constraint from June to September: skip midday patios when the asphalt sears, and aim for breakfast, early dinner or one of the many heavily shaded courtyards.",
+      "introFr": "Los Angeles est taillée pour la restauration en terrasse avec un chien : climat méditerranéen toute l'année, terrasses trottoir à chaque pâté de maisons d'Abbot Kinney à West Hollywood, et une loi californienne de 2018 (AB 1681) qui autorise explicitement les chiens sur les patios de restaurant à condition que l'exploitant l'ait approuvé et que la terrasse ait une entrée extérieure indépendante. West Hollywood, Venice, Santa Monica, Silver Lake, Echo Park et le Downtown Arts District concentrent la plus forte densité d'adresses pet-friendly, souvent avec gamelles d'eau, pots à friandises et brumisateurs en été. À l'intérieur, seuls les chiens d'assistance sont admis. La chaleur est la principale contrainte de juin à septembre : évitez les terrasses en plein midi quand l'asphalte brûle et préférez le petit-déjeuner, le dîner précoce ou l'une des nombreuses cours très ombragées.",
+      "introEs": "Los Angeles está hecha para comer al aire libre con perro: clima mediterráneo todo el año, terrazas en la acera en casi cada manzana de Abbot Kinney a West Hollywood, y una ley estatal de California de 2018 (AB 1681) que autoriza explícitamente perros en terrazas de restaurante siempre que el operador lo apruebe y la terraza tenga entrada exterior propia. West Hollywood, Venice, Santa Monica, Silver Lake, Echo Park y el Downtown Arts District concentran la mayor densidad de locales pet-friendly, a menudo con cuencos de agua, botes de premios y nebulizadores en verano. Dentro solo se admiten perros de servicio. El calor es la principal limitación de junio a septiembre: evita terrazas a mediodía cuando el asfalto quema y mejor desayuno, cena temprana o uno de los muchos patios muy sombreados.",
+      "introPt": "Los Angeles foi feita para comer ao ar livre com cão: clima mediterrânico o ano inteiro, esplanadas no passeio em quase cada quarteirão de Abbot Kinney a West Hollywood, e uma lei estadual da Califórnia de 2018 (AB 1681) que autoriza explicitamente cães em esplanadas de restaurante desde que o operador o aprove e a esplanada tenha entrada exterior própria. West Hollywood, Venice, Santa Monica, Silver Lake, Echo Park e o Downtown Arts District concentram a maior densidade de locais pet-friendly, muitas vezes com tigelas de água, frascos de petiscos e nebulizadores no verão. No interior só se admitem cães de serviço. O calor é a principal limitação de junho a setembro: evite esplanadas ao meio-dia quando o asfalto queima e prefira o pequeno-almoço, o jantar cedo ou um dos muitos pátios muito sombreados.",
+      "places": [
+        {
+          "name": "Urth Caffé Melrose",
+          "address": "8565 Melrose Avenue, West Hollywood, CA 90069",
+          "neighborhood": "West Hollywood / Melrose",
+          "photo": "/images/city-places/los-angeles-restaurants-urth-caffe-melrose.jpg",
+          "website": "https://www.urthcaffe.com",
+          "description": "The original 1991 Urth Caffé on Melrose, with a vast tree-shaded sidewalk patio that has been one of LA's most consistently dog-friendly tables for three decades. Organic espresso, all-day breakfast, big salads, sandwiches and house-made pastries. The patio runs the full length of the corner lot, water bowls are produced the moment a dog sits down, and it is a fixture of WeHo dog-walking life from breakfast through late night.",
+          "descriptionFr": "Le Urth Caffé original de 1991 sur Melrose, avec une vaste terrasse trottoir ombragée par les arbres, l'une des tables dog-friendly les plus régulières de LA depuis trente ans. Espresso bio, petit-déjeuner toute la journée, grandes salades, sandwichs et pâtisseries maison. La terrasse occupe tout l'angle, les gamelles d'eau arrivent dès qu'un chien s'assoit, et c'est un repère de la vie canine de WeHo du petit-déjeuner jusque tard le soir.",
+          "descriptionEs": "El Urth Caffé original de 1991 en Melrose, con una amplia terraza en la acera a la sombra de los árboles, una de las mesas dog-friendly más constantes de LA desde hace tres décadas. Espresso bio, desayuno todo el día, grandes ensaladas, sándwiches y bollería casera. La terraza ocupa toda la esquina, los cuencos de agua llegan en cuanto el perro se sienta, y es un punto fijo de la vida canina de WeHo desde el desayuno hasta bien entrada la noche.",
+          "descriptionPt": "O Urth Caffé original de 1991 em Melrose, com uma vasta esplanada no passeio à sombra das árvores, uma das mesas pet-friendly mais constantes de LA há três décadas. Espresso biológico, pequeno-almoço todo o dia, grandes saladas, sanduíches e pastelaria caseira. A esplanada ocupa toda a esquina, as tigelas de água chegam assim que o cão se senta, e é um ponto fixo da vida canina de WeHo do pequeno-almoço até tarde na noite.",
+          "petPolicy": "Leashed dogs welcome on the full sidewalk patio (per California AB 1681). No indoor dining for non-service dogs.",
+          "petPolicyFr": "Chiens en laisse admis sur toute la terrasse trottoir (loi californienne AB 1681). Pas de salle pour les chiens non d'assistance.",
+          "petPolicyEs": "Perros con correa admitidos en toda la terraza en la acera (ley californiana AB 1681). Sin acceso al interior para perros que no sean de servicio.",
+          "petPolicyPt": "Cães com trela admitidos em toda a esplanada do passeio (lei californiana AB 1681). Sem acesso ao interior para cães que não sejam de serviço.",
+          "priceRange": "$$",
+          "mustTry": "Spanish latte, Urth granola bowl, organic eggs Benedict",
+          "mustTryFr": "Spanish latte, bol granola Urth, œufs Bénédicte bio",
+          "mustTryEs": "Spanish latte, bowl de granola Urth, huevos Benedict bio",
+          "mustTryPt": "Spanish latte, taça de granola Urth, ovos Benedict biológicos",
+          "openingHours": "Daily 06:30–23:00",
+          "tip": "Arrive before 09:00 on weekends to skip the 45-minute brunch queue; the patio fills first because of the dog crowd.",
+          "tipFr": "Arrivez avant 9h le week-end pour éviter 45 minutes de file pour le brunch ; la terrasse se remplit en premier à cause des chiens.",
+          "tipEs": "Llega antes de las 09:00 los fines de semana para evitar 45 minutos de cola del brunch; la terraza se llena primero por el ambiente canino.",
+          "tipPt": "Chega antes das 09:00 ao fim-de-semana para evitar 45 minutos de fila do brunch; a esplanada enche primeiro por causa do ambiente canino.",
+          "googleMapsUrl": "https://maps.google.com/?q=Urth+Caffe+8565+Melrose+Avenue+West+Hollywood"
+        },
+        {
+          "name": "Lazy Dog Restaurant & Bar Westwood",
+          "address": "1086 Glendon Avenue, Los Angeles, CA 90024",
+          "neighborhood": "Westwood Village",
+          "photo": "/images/city-places/los-angeles-restaurants-lazy-dog-restaurant-bar-westwood.jpg",
+          "website": "https://www.lazydogrestaurants.com",
+          "description": "A Californian chain that takes the name literally: every Lazy Dog patio has a dedicated dog menu (grilled chicken, brown rice, vegetables, all under 6 $) and free water bowls, and the staff are trained to greet dogs by name on return visits. The Westwood Village location near UCLA has one of the largest covered patios in the chain, with overhead heaters for winter evenings and ceiling fans for August afternoons. Burgers, salads, big plates and a craft-beer list.",
+          "descriptionFr": "Une chaîne californienne qui prend son nom au pied de la lettre : chaque terrasse Lazy Dog a un menu chien dédié (poulet grillé, riz brun, légumes, moins de 6 $) et des gamelles d'eau gratuites, et le personnel est formé à appeler les chiens par leur prénom lors des visites suivantes. Le Westwood Village près d'UCLA dispose de l'une des plus grandes terrasses couvertes de l'enseigne, avec chauffages d'appoint l'hiver et ventilateurs de plafond pour les après-midis d'août. Burgers, salades, grandes assiettes et carte de bières artisanales.",
+          "descriptionEs": "Una cadena californiana que se toma el nombre literalmente: cada terraza Lazy Dog tiene un menú canino propio (pollo a la plancha, arroz integral, verduras, menos de 6 $) y cuencos de agua gratis, y el personal está formado para saludar a los perros por su nombre en las visitas siguientes. El local de Westwood Village junto a UCLA tiene una de las terrazas cubiertas más grandes de la cadena, con estufas para las noches de invierno y ventiladores de techo para las tardes de agosto. Hamburguesas, ensaladas, platos grandes y carta de cervezas artesanas.",
+          "descriptionPt": "Uma cadeia californiana que leva o nome à letra: cada esplanada Lazy Dog tem um menu canino próprio (frango grelhado, arroz integral, legumes, menos de 6 $) e tigelas de água grátis, e o pessoal está treinado para cumprimentar os cães pelo nome nas visitas seguintes. A casa de Westwood Village junto à UCLA tem uma das maiores esplanadas cobertas da cadeia, com aquecedores para as noites de inverno e ventoinhas de teto para as tardes de agosto. Hambúrgueres, saladas, pratos grandes e carta de cervejas artesanais.",
+          "petPolicy": "Leashed dogs welcome on the entire outdoor patio, dedicated dog menu printed. No indoor seating for non-service dogs.",
+          "petPolicyFr": "Chiens en laisse admis sur toute la terrasse extérieure, menu chien dédié imprimé. Pas de salle pour les chiens non d'assistance.",
+          "petPolicyEs": "Perros con correa admitidos en toda la terraza exterior, menú canino impreso. Sin sala para perros que no sean de servicio.",
+          "petPolicyPt": "Cães com trela admitidos em toda a esplanada exterior, menu canino impresso. Sem sala para cães que não sejam de serviço.",
+          "priceRange": "$$",
+          "mustTry": "Bison meatloaf, TV dinner, dog-menu grilled chicken bowl",
+          "mustTryFr": "Pain de viande au bison, TV dinner, bol poulet grillé du menu chien",
+          "mustTryEs": "Pastel de carne de bisonte, TV dinner, bowl de pollo a la plancha del menú canino",
+          "mustTryPt": "Bolo de carne de bisonte, TV dinner, taça de frango grelhado do menu canino",
+          "openingHours": "Sun–Thu 11:00–22:00, Fri–Sat 11:00–23:00",
+          "tip": "Ask for the dog menu when you sit; it is not on the main card. Grilled chicken with brown rice is 5 $ and most dogs finish it.",
+          "tipFr": "Demandez le menu chien à l'arrivée ; il n'est pas sur la carte principale. Poulet grillé riz brun à 5 $, la plupart des chiens le finissent.",
+          "tipEs": "Pide la carta canina al sentarte; no está en la principal. Pollo a la plancha con arroz integral por 5 $, la mayoría de perros lo terminan.",
+          "tipPt": "Peça a carta canina ao sentar-se; não está na principal. Frango grelhado com arroz integral por 5 $, a maioria dos cães acaba-o.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lazy+Dog+Westwood+1086+Glendon+Avenue+Los+Angeles"
+        },
+        {
+          "name": "Mendocino Farms Downtown",
+          "address": "444 S Flower Street, Los Angeles, CA 90071",
+          "neighborhood": "Downtown LA / Bunker Hill",
+          "photo": "/images/city-places/los-angeles-restaurants-mendocino-farms-downtown.jpg",
+          "website": "https://www.mendocinofarms.com",
+          "description": "A California sandwich and salad chain founded in 2005 with a Downtown LA flagship on Flower Street that runs a generous outdoor plaza facing the Bunker Hill skyscrapers. Every Mendo Farms patio in LA welcomes leashed dogs, water bowls are kept by the door, and the staff are explicitly trained on the AB 1681 patio rules. Sustainably sourced sandwiches, big composed salads, soups; the Pork Belly Banh Mi and the Not So Fried Chicken sandwich are signatures.",
+          "descriptionFr": "Une chaîne californienne de sandwichs et salades fondée en 2005 dont le vaisseau amiral de Downtown LA, sur Flower Street, exploite une généreuse esplanade face aux gratte-ciel de Bunker Hill. Toutes les terrasses Mendo Farms à LA acceptent les chiens en laisse, gamelles d'eau près de l'entrée, et le personnel est explicitement formé aux règles de la loi AB 1681. Sandwichs aux ingrédients responsables, grandes salades composées, soupes ; le Pork Belly Banh Mi et le Not So Fried Chicken sont les signatures.",
+          "descriptionEs": "Una cadena californiana de bocadillos y ensaladas fundada en 2005 cuyo buque insignia de Downtown LA, en Flower Street, gestiona una generosa plaza exterior frente a los rascacielos de Bunker Hill. Todas las terrazas Mendo Farms en LA admiten perros con correa, cuencos de agua junto a la puerta, y el personal está formado explícitamente en las reglas de la ley AB 1681. Bocadillos de ingredientes responsables, grandes ensaladas compuestas, sopas; el Pork Belly Banh Mi y el Not So Fried Chicken son los emblemas.",
+          "descriptionPt": "Uma cadeia californiana de sanduíches e saladas fundada em 2005 cujo carro-chefe em Downtown LA, na Flower Street, gere uma generosa praça exterior em frente aos arranha-céus de Bunker Hill. Todas as esplanadas Mendo Farms em LA admitem cães com trela, tigelas de água junto à porta, e o pessoal está treinado explicitamente nas regras da lei AB 1681. Sanduíches de ingredientes responsáveis, grandes saladas compostas, sopas; o Pork Belly Banh Mi e o Not So Fried Chicken são os emblemas.",
+          "petPolicy": "Leashed dogs welcome on the plaza patio. Order at the counter, food brought to the outdoor table.",
+          "petPolicyFr": "Chiens en laisse admis sur l'esplanade. Commande au comptoir, plats apportés à la table extérieure.",
+          "petPolicyEs": "Perros con correa admitidos en la plaza exterior. Pedido en barra, comida llevada a la mesa exterior.",
+          "petPolicyPt": "Cães com trela admitidos na praça exterior. Pedido ao balcão, comida levada à mesa exterior.",
+          "priceRange": "$$",
+          "mustTry": "Pork Belly Banh Mi, Not So Fried Chicken, Modern Caesar",
+          "mustTryFr": "Pork Belly Banh Mi, Not So Fried Chicken, Modern Caesar",
+          "mustTryEs": "Pork Belly Banh Mi, Not So Fried Chicken, Modern Caesar",
+          "mustTryPt": "Pork Belly Banh Mi, Not So Fried Chicken, Modern Caesar",
+          "openingHours": "Mon–Fri 10:30–21:00, Sat–Sun 11:00–20:00",
+          "tip": "The plaza is uncovered: bring water and a cool spot for the dog if you visit between 12:00 and 15:00 from June to September.",
+          "tipFr": "L'esplanade est à découvert : prévoyez de l'eau et un coin frais pour le chien si vous venez entre 12h et 15h de juin à septembre.",
+          "tipEs": "La plaza es al descubierto: lleva agua y un sitio fresco para el perro si vienes entre las 12:00 y las 15:00 de junio a septiembre.",
+          "tipPt": "A praça é a descoberto: leve água e um cantinho fresco para o cão se vier entre as 12:00 e as 15:00 de junho a setembro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Mendocino+Farms+444+S+Flower+Street+Los+Angeles"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog come inside a Los Angeles restaurant?",
+          "a": "Almost never. California Retail Food Code allows dogs only on outdoor patios with their own outside entrance, and the operator must have approved them; only service animals can enter the indoor dining area or any zone adjacent to the kitchen. The good news: LA's year-round outdoor dining culture means patio seating is available everywhere from Venice to Pasadena, and the AB 1681 framework is well known to local operators."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il entrer dans un restaurant à Los Angeles ?",
+          "a": "Quasiment jamais. Le California Retail Food Code n'autorise les chiens qu'en terrasse extérieure avec entrée indépendante, et avec l'accord de l'exploitant ; seuls les chiens d'assistance peuvent entrer dans la salle ou dans toute zone adjacente à la cuisine. La bonne nouvelle : la culture des terrasses toute l'année à LA fait que la restauration extérieure est disponible partout, de Venice à Pasadena, et la loi AB 1681 est bien connue des opérateurs locaux."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Mi perro puede entrar en un restaurante de Los Angeles?",
+          "a": "Casi nunca. El California Retail Food Code solo admite perros en terrazas exteriores con entrada propia, y con la aprobación del operador; solo los perros de servicio pueden acceder al interior o a zonas anexas a la cocina. Lo bueno: la cultura de terrazas todo el año en LA hace que comer al aire libre esté disponible en todas partes, de Venice a Pasadena, y la ley AB 1681 es bien conocida por los operadores locales."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "O meu cão pode entrar num restaurante em Los Angeles?",
+          "a": "Quase nunca. O California Retail Food Code só admite cães em esplanadas exteriores com entrada própria, e com a aprovação do operador; só os cães de serviço podem entrar na sala ou em zonas próximas à cozinha. A boa notícia: a cultura de esplanadas o ano inteiro em LA faz com que comer ao ar livre esteja disponível em todo o lado, de Venice a Pasadena, e a lei AB 1681 é bem conhecida pelos operadores locais."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks and Green Spaces in Los Angeles",
+      "titleFr": "Parcs canins et espaces verts à Los Angeles",
+      "titleEs": "Parques caninos y espacios verdes en Los Angeles",
+      "titlePt": "Parques caninos e espaços verdes em Los Angeles",
+      "introEn": "Los Angeles runs one of the largest urban park systems in the US, anchored by 1700-hectare Griffith Park, and a dense network of fenced and off-leash dog runs from Runyon Canyon in the Hollywood Hills to the Silver Lake Reservoir Dog Park east of downtown. Most of the city's hill trails (Griffith, Runyon, Elysian, Lake Hollywood) allow leashed dogs year-round, with marked off-leash sections at Runyon and a few neighbourhood parks. Park hours generally run sunrise to sunset; many fenced runs are open until 22:00 with lighting. Heat is the major constraint June through September, when even hill-trail asphalt can hit 50 °C: walk before 09:00 or after 19:00.",
+      "introFr": "Los Angeles dispose de l'un des plus grands réseaux de parcs urbains des États-Unis, ancré par les 1 700 hectares de Griffith Park, et d'un réseau dense d'enclos canins et de zones sans laisse de Runyon Canyon dans les Hollywood Hills au Silver Lake Reservoir Dog Park à l'est de downtown. La plupart des sentiers de collines (Griffith, Runyon, Elysian, Lake Hollywood) acceptent les chiens en laisse toute l'année, avec des sections sans laisse balisées à Runyon et dans quelques parcs de quartier. Les horaires vont en général du lever au coucher du soleil ; beaucoup d'enclos clôturés restent ouverts jusqu'à 22h avec éclairage. La chaleur est la contrainte majeure de juin à septembre, lorsque même l'asphalte des sentiers peut atteindre 50 °C : promenez avant 9h ou après 19h.",
+      "introEs": "Los Angeles cuenta con uno de los mayores sistemas de parques urbanos de EE. UU., con los 1 700 hectáreas de Griffith Park como ancla, y una red densa de recintos vallados y zonas sin correa desde Runyon Canyon en los Hollywood Hills hasta el Silver Lake Reservoir Dog Park al este de downtown. La mayoría de senderos de las colinas (Griffith, Runyon, Elysian, Lake Hollywood) admiten perros con correa todo el año, con tramos sin correa señalizados en Runyon y en algunos parques de barrio. El horario suele ser de amanecer a anochecer; muchos recintos vallados permanecen abiertos hasta las 22:00 con alumbrado. El calor es la principal limitación de junio a septiembre, cuando incluso el asfalto de los senderos puede alcanzar 50 °C: pasea antes de las 09:00 o después de las 19:00.",
+      "introPt": "Los Angeles dispõe de um dos maiores sistemas de parques urbanos dos EUA, ancorado nos 1 700 hectares de Griffith Park, e numa rede densa de recintos vedados e zonas sem trela desde Runyon Canyon nos Hollywood Hills até ao Silver Lake Reservoir Dog Park a leste do downtown. A maioria dos trilhos das colinas (Griffith, Runyon, Elysian, Lake Hollywood) admite cães com trela o ano inteiro, com troços sem trela sinalizados em Runyon e em alguns parques de bairro. O horário costuma ser do amanhecer ao anoitecer; muitos recintos vedados ficam abertos até às 22:00 com iluminação. O calor é a principal limitação de junho a setembro, quando até o asfalto dos trilhos pode chegar aos 50 °C: passeie antes das 09:00 ou depois das 19:00.",
+      "places": [
+        {
+          "name": "Griffith Park & Observatory trails",
+          "type": "1700-hectare urban wilderness park with leashed hiking trails",
+          "photo": "/images/city-places/los-angeles-parks-griffith-park-observatory-trails.jpg",
+          "website": "https://www.laparks.org/griffithpark",
+          "description": "The largest municipal park with urban wilderness in the US: 1700 hectares of chaparral hills above Hollywood and Los Feliz, with more than 80 km of trails open to leashed dogs from sunrise to sunset. The classic 5 km loop from the Greek Theatre via the Charlie Turner Trail to the Griffith Observatory terrace gives the iconic Hollywood Sign view from above, with the observatory's exterior plaza fully dog-friendly (interior galleries are service animals only). The park also has fenced dog runs in the Wonder View and Travel Town sectors.",
+          "descriptionFr": "Le plus grand parc municipal avec nature sauvage urbaine des États-Unis : 1 700 hectares de collines de chaparral au-dessus de Hollywood et Los Feliz, avec plus de 80 km de sentiers ouverts aux chiens en laisse de l'aube au crépuscule. La boucle classique de 5 km depuis le Greek Theatre via le Charlie Turner Trail jusqu'à la terrasse de l'Observatoire Griffith offre la vue iconique sur le panneau Hollywood d'en haut, l'esplanade extérieure de l'observatoire est entièrement dog-friendly (galeries intérieures réservées aux chiens d'assistance). Le parc comprend aussi des enclos canins clôturés dans les secteurs Wonder View et Travel Town.",
+          "descriptionEs": "El mayor parque municipal con naturaleza salvaje urbana de EE. UU.: 1 700 hectáreas de colinas de chaparral sobre Hollywood y Los Feliz, con más de 80 km de senderos abiertos a perros con correa del amanecer al anochecer. El bucle clásico de 5 km desde el Greek Theatre por el Charlie Turner Trail hasta la terraza del Observatorio Griffith ofrece la vista icónica del cartel de Hollywood desde arriba, con la explanada exterior del observatorio totalmente dog-friendly (galerías interiores solo para perros de servicio). El parque también tiene recintos caninos vallados en los sectores Wonder View y Travel Town.",
+          "descriptionPt": "O maior parque municipal com natureza selvagem urbana dos EUA: 1 700 hectares de colinas de chaparral sobre Hollywood e Los Feliz, com mais de 80 km de trilhos abertos a cães com trela do amanhecer ao anoitecer. O circuito clássico de 5 km do Greek Theatre pelo Charlie Turner Trail até ao terraço do Observatório Griffith oferece a vista icónica do letreiro de Hollywood do alto, com a esplanada exterior do observatório totalmente pet-friendly (galerias interiores só para cães de serviço). O parque tem ainda recintos caninos vedados nos setores Wonder View e Travel Town.",
+          "offLeash": true,
+          "offLeashArea": "Fenced dog runs in Wonder View (3151 Wonder View Drive) and the Silver Lake-adjacent Travel Town area. Main trails require a leash.",
+          "offLeashAreaFr": "Enclos clôturés à Wonder View (3151 Wonder View Drive) et dans le secteur Travel Town côté Silver Lake. Les sentiers principaux imposent la laisse.",
+          "offLeashAreaEs": "Recintos vallados en Wonder View (3151 Wonder View Drive) y en la zona Travel Town junto a Silver Lake. Los senderos principales exigen correa.",
+          "offLeashAreaPt": "Recintos vedados em Wonder View (3151 Wonder View Drive) e na zona Travel Town junto a Silver Lake. Os trilhos principais exigem trela.",
+          "tip": "Park at the free Greek Theatre lot before 08:00 in summer; the observatory upper lots fill by 09:30 and the Charlie Turner Trail bakes after 10:00.",
+          "tipFr": "Stationnez au parking gratuit du Greek Theatre avant 8h en été ; les parkings hauts de l'observatoire sont pleins dès 9h30 et le Charlie Turner Trail surchauffe après 10h.",
+          "tipEs": "Aparca en el parking gratuito del Greek Theatre antes de las 08:00 en verano; los aparcamientos altos del observatorio se llenan a las 09:30 y el Charlie Turner Trail abrasa después de las 10:00.",
+          "tipPt": "Estacione no parque gratuito do Greek Theatre antes das 08:00 no verão; os estacionamentos altos do observatório enchem às 09:30 e o Charlie Turner Trail ferve depois das 10:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Griffith+Observatory+Los+Angeles"
+        },
+        {
+          "name": "Runyon Canyon Park",
+          "type": "Hollywood Hills hiking park with marked off-leash sections",
+          "photo": "/images/city-places/los-angeles-parks-runyon-canyon-park.jpg",
+          "website": "https://www.laparks.org/park/runyon-canyon",
+          "description": "A 65-hectare canyon park rising straight out of Hollywood with three marked off-leash sections covering most of the central trail spine. The 4.7 km loop from the Fuller Avenue gate climbs to two ridgeline panoramas over Hollywood, downtown LA on a clear day and the Pacific to the west at sunset. Runyon is the spiritual home of the LA dog-walking scene; mornings on weekends are a who's-who of off-leash dogs from Laurel Canyon and West Hollywood.",
+          "descriptionFr": "Un parc-canyon de 65 hectares qui s'élève directement depuis Hollywood, avec trois sections sans laisse balisées couvrant l'essentiel de l'épine dorsale du sentier. La boucle de 4,7 km depuis l'entrée Fuller Avenue grimpe jusqu'à deux panoramas de crête sur Hollywood, downtown LA par temps clair et le Pacifique à l'ouest au coucher du soleil. Runyon est la maison spirituelle de la scène canine de LA ; les matins de week-end y rassemblent tout le gratin off-leash de Laurel Canyon et West Hollywood.",
+          "descriptionEs": "Un parque-cañón de 65 hectáreas que asciende directamente desde Hollywood, con tres tramos sin correa señalizados que cubren casi toda la espina dorsal del sendero. El bucle de 4,7 km desde la entrada de Fuller Avenue sube a dos panorámicas de cresta sobre Hollywood, downtown LA en días despejados y el Pacífico al oeste al atardecer. Runyon es la casa espiritual del mundillo canino de LA; las mañanas de fin de semana reúnen a toda la flor y nata off-leash de Laurel Canyon y West Hollywood.",
+          "descriptionPt": "Um parque-canyon de 65 hectares que sobe diretamente de Hollywood, com três troços sem trela sinalizados a cobrir quase toda a espinha dorsal do trilho. O circuito de 4,7 km a partir da entrada Fuller Avenue sobe a dois panoramas de crista sobre Hollywood, downtown LA em dias limpos e o Pacífico a oeste ao pôr-do-sol. Runyon é a casa espiritual do meio canino de LA; as manhãs de fim-de-semana juntam toda a fina-flor off-leash de Laurel Canyon e West Hollywood.",
+          "offLeash": true,
+          "offLeashArea": "Three marked off-leash sections from the Fuller Avenue, Mulholland and Vista Street entrances, covering roughly 60% of the central trail. Voice control required.",
+          "offLeashAreaFr": "Trois sections sans laisse balisées depuis les entrées Fuller Avenue, Mulholland et Vista Street, couvrant environ 60 % du sentier central. Contrôle vocal exigé.",
+          "offLeashAreaEs": "Tres tramos sin correa señalizados desde las entradas de Fuller Avenue, Mulholland y Vista Street, que cubren aproximadamente el 60 % del sendero central. Se exige control por voz.",
+          "offLeashAreaPt": "Três troços sem trela sinalizados a partir das entradas Fuller Avenue, Mulholland e Vista Street, a cobrir cerca de 60 % do trilho central. Exige-se controlo por voz.",
+          "tip": "Enter from Fuller Avenue (free street parking before 07:30) and bring more water than you think you need; there is no public water fountain on the upper trail.",
+          "tipFr": "Entrez par Fuller Avenue (stationnement gratuit dans la rue avant 7h30) et prévoyez plus d'eau que vous ne pensez ; il n'y a aucune fontaine sur le sentier haut.",
+          "tipEs": "Entra por Fuller Avenue (aparcamiento gratuito en la calle antes de las 07:30) y lleva más agua de la que crees necesitar; no hay fuente pública en el sendero alto.",
+          "tipPt": "Entre pela Fuller Avenue (estacionamento gratuito na rua antes das 07:30) e leve mais água do que pensa precisar; não há fonte pública no trilho de cima.",
+          "googleMapsUrl": "https://maps.google.com/?q=Runyon+Canyon+Park+Fuller+Avenue+Los+Angeles"
+        },
+        {
+          "name": "Silver Lake Reservoir Dog Park",
+          "type": "Fenced off-leash dog park",
+          "photo": "/images/city-places/los-angeles-parks-silver-lake-reservoir-dog-park.jpg",
+          "website": "https://www.laparks.org/dogpark/silverlake",
+          "description": "A 0.8-hectare fenced dog park on the south shore of the Silver Lake Reservoir, with separate small and large dog sections, shaded picnic tables, water fountains for dogs and pavers (no muddy bare ground). The reservoir loop right outside the fence is a popular 4 km leashed walk with downtown LA views. The park is community-managed and famously social; weekday evenings 18:00–20:00 are the locals' peak hour.",
+          "descriptionFr": "Un parc canin clôturé de 0,8 hectare sur la rive sud du réservoir de Silver Lake, avec sections séparées petits et grands chiens, tables de pique-nique ombragées, fontaines pour chiens et pavés (pas de terre boueuse). La boucle du réservoir juste à l'extérieur est une balade en laisse populaire de 4 km avec vue sur downtown LA. Le parc est géré par la communauté et notoirement convivial ; les soirs de semaine 18h-20h sont le pic des locaux.",
+          "descriptionEs": "Un parque canino vallado de 0,8 hectáreas en la orilla sur del embalse de Silver Lake, con secciones separadas para perros pequeños y grandes, mesas de pícnic a la sombra, fuentes para perros y adoquines (sin barro). El bucle del embalse justo fuera del recinto es un paseo con correa muy popular de 4 km con vistas a downtown LA. El parque está gestionado por la comunidad y es muy sociable; las tardes de entre semana 18:00-20:00 son la hora punta de los vecinos.",
+          "descriptionPt": "Um parque canino vedado de 0,8 hectares na margem sul do reservatório de Silver Lake, com secções separadas para cães pequenos e grandes, mesas de piquenique à sombra, fontes para cães e pavé (sem chão lamacento). O circuito do reservatório mesmo no exterior é um passeio com trela muito popular de 4 km com vista para downtown LA. O parque é gerido pela comunidade e é notoriamente sociável; as tardes de dias úteis 18:00-20:00 são a hora de ponta dos locais.",
+          "offLeash": true,
+          "offLeashArea": "Entire fenced enclosure with separate small (under 30 lb) and large dog sections. Open daily 06:00–22:00.",
+          "offLeashAreaFr": "Tout l'enclos clôturé avec sections séparées petits chiens (moins de 30 lb) et grands chiens. Ouvert tous les jours 6h-22h.",
+          "offLeashAreaEs": "Todo el recinto vallado con secciones separadas para perros pequeños (menos de 30 lb) y grandes. Abierto todos los días 06:00-22:00.",
+          "offLeashAreaPt": "Todo o recinto vedado com secções separadas para cães pequenos (menos de 30 lb) e grandes. Aberto todos os dias 06:00-22:00.",
+          "tip": "Street parking on West Silver Lake Drive only; the dedicated lot fills by 18:30 on Friday evenings.",
+          "tipFr": "Stationnement uniquement en rue sur West Silver Lake Drive ; le parking dédié est plein dès 18h30 le vendredi soir.",
+          "tipEs": "Aparcamiento solo en la calle de West Silver Lake Drive; el parking dedicado se llena a las 18:30 el viernes por la tarde.",
+          "tipPt": "Estacionamento só na rua de West Silver Lake Drive; o estacionamento dedicado enche às 18:30 à sexta-feira à tarde.",
+          "googleMapsUrl": "https://maps.google.com/?q=Silver+Lake+Reservoir+Dog+Park+Los+Angeles"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I actually let my dog off leash in Los Angeles?",
+          "a": "Inside city limits the legal off-leash areas are the fenced dog parks (Silver Lake Reservoir, Sepulveda Basin, Westminster Avenue, Hermon, Whitnall Highway, Laurel Canyon and a dozen more) plus the marked off-leash sections of Runyon Canyon. Everywhere else, including the rest of Griffith Park, all beaches except Rosie's Dog Beach in Long Beach, and every other city park, dogs must be leashed under LAMC 53.06.2; fines start at $100 for a first offense and climb to $500 for repeats."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où puis-je réellement lâcher mon chien à Los Angeles ?",
+          "a": "Dans les limites de la ville, les zones légales sans laisse sont les parcs canins clôturés (Silver Lake Reservoir, Sepulveda Basin, Westminster Avenue, Hermon, Whitnall Highway, Laurel Canyon et une douzaine d'autres) ainsi que les sections balisées sans laisse de Runyon Canyon. Partout ailleurs, y compris le reste de Griffith Park, toutes les plages sauf Rosie's Dog Beach à Long Beach et tous les autres parcs municipaux, les chiens doivent être en laisse selon le LAMC 53.06.2 ; amendes à partir de 100 $ pour une première infraction, jusqu'à 500 $ en cas de récidive."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo soltar realmente al perro en Los Angeles?",
+          "a": "Dentro de los límites de la ciudad, las zonas legales sin correa son los parques caninos vallados (Silver Lake Reservoir, Sepulveda Basin, Westminster Avenue, Hermon, Whitnall Highway, Laurel Canyon y una docena más) y los tramos señalizados sin correa de Runyon Canyon. En todos los demás sitios, incluido el resto de Griffith Park, todas las playas salvo Rosie's Dog Beach en Long Beach y cualquier otro parque municipal, los perros deben ir con correa según el LAMC 53.06.2; multas desde 100 $ por una primera infracción y hasta 500 $ por reincidencia."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Onde posso realmente largar o cão em Los Angeles?",
+          "a": "Dentro dos limites da cidade, as zonas legais sem trela são os parques caninos vedados (Silver Lake Reservoir, Sepulveda Basin, Westminster Avenue, Hermon, Whitnall Highway, Laurel Canyon e uma dúzia de outros) e os troços sinalizados sem trela de Runyon Canyon. Em todos os outros sítios, incluindo o resto de Griffith Park, todas as praias exceto Rosie's Dog Beach em Long Beach e qualquer outro parque municipal, os cães devem ir com trela segundo o LAMC 53.06.2; multas a partir de 100 $ por uma primeira infração e até 500 $ por reincidência."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Los Angeles with Your Pet",
+      "titleFr": "Se déplacer à Los Angeles avec son animal",
+      "titleEs": "Moverse por Los Angeles con tu mascota",
+      "titlePt": "Mover-se por Los Angeles com o seu animal",
+      "introEn": "Los Angeles is the quintessential American car city and the simplest way to move a dog is your rental car or Uber Pet / Lyft Pet, available across the metro for a $3-5 surcharge above the standard fare. Public transit works for small pets in carriers: LA Metro Rail and Metro Bus accept pets in fully enclosed carriers free of charge, and service animals ride free without a carrier. Amtrak's Pacific Surfliner along the coast accepts pets up to 20 lb (9 kg) for $26 per leg, an unusual luxury in the US for an intercity train. LAX, Burbank and Long Beach airports all have indoor pet relief areas post-security; LAX's FlyAway bus to/from downtown Union Station accepts pets in carriers only.",
+      "introFr": "Los Angeles est la ville américaine voiture par excellence et le moyen le plus simple de déplacer un chien est votre voiture de location ou Uber Pet / Lyft Pet, disponibles dans toute la métropole moyennant un supplément de 3 à 5 $ sur la course standard. Les transports publics fonctionnent pour les petits animaux en sac : LA Metro Rail et Metro Bus acceptent les animaux gratuitement dans un sac entièrement fermé, et les chiens d'assistance voyagent gratuitement sans sac. Le Pacific Surfliner d'Amtrak le long de la côte accepte les animaux jusqu'à 9 kg (20 lb) moyennant 26 $ par tronçon, un luxe inhabituel aux États-Unis pour un train intercity. Les aéroports LAX, Burbank et Long Beach disposent tous de zones de soulagement animal en salle après les contrôles ; la navette FlyAway de LAX vers Union Station n'accepte les animaux qu'en sac.",
+      "introEs": "Los Angeles es la ciudad estadounidense del coche por excelencia y la forma más simple de mover a un perro es tu coche de alquiler o Uber Pet / Lyft Pet, disponibles en toda la metrópolis con un suplemento de 3-5 $ sobre la tarifa estándar. El transporte público funciona para mascotas pequeñas en transportín: LA Metro Rail y Metro Bus admiten mascotas en transportín totalmente cerrado gratis, y los perros de servicio viajan gratis sin transportín. El Pacific Surfliner de Amtrak por la costa admite mascotas hasta 20 lb (9 kg) por 26 $ por trayecto, un lujo poco frecuente en EE. UU. para un tren intercity. Los aeropuertos LAX, Burbank y Long Beach tienen zonas interiores de alivio para mascotas tras el control; la lanzadera FlyAway de LAX a Union Station solo admite mascotas en transportín.",
+      "introPt": "Los Angeles é a cidade norte-americana do carro por excelência e a forma mais simples de mover um cão é o seu carro de aluguer ou Uber Pet / Lyft Pet, disponíveis em toda a metrópole mediante um suplemento de 3-5 $ sobre a tarifa padrão. O transporte público funciona para animais pequenos em transportadora: LA Metro Rail e Metro Bus aceitam animais em transportadora totalmente fechada grátis, e os cães de serviço viajam grátis sem transportadora. O Pacific Surfliner da Amtrak pela costa aceita animais até 20 lb (9 kg) por 26 $ por percurso, um luxo pouco frequente nos EUA para um comboio intercidades. Os aeroportos LAX, Burbank e Long Beach têm zonas interiores de alívio para animais após o controlo; a carrinha FlyAway de LAX para Union Station só aceita animais em transportadora.",
+      "rules": [
+        {
+          "mode": "LA Metro Rail & Metro Bus",
+          "modeFr": "LA Metro Rail et Metro Bus",
+          "modeEs": "LA Metro Rail y Metro Bus",
+          "modePt": "LA Metro Rail e Metro Bus",
+          "allowed": true,
+          "free": true,
+          "carrierRequired": true,
+          "details": "LA Metro allows small pets free of charge if fully enclosed in a carrier that the owner can hold on the lap. Service animals ride free without a carrier, leashed.",
+          "detailsFr": "LA Metro accepte les petits animaux gratuitement s'ils sont entièrement enfermés dans un sac que le propriétaire peut tenir sur les genoux. Les chiens d'assistance voyagent gratuitement, en laisse, sans sac.",
+          "detailsEs": "LA Metro admite mascotas pequeñas gratis si van completamente cerradas en un transportín que el dueño puede llevar en el regazo. Los perros de servicio viajan gratis, con correa, sin transportín.",
+          "detailsPt": "LA Metro aceita animais pequenos grátis se forem totalmente fechados numa transportadora que o dono possa segurar ao colo. Os cães de serviço viajam grátis, com trela, sem transportadora.",
+          "restrictions": "No large dogs, even leashed and well-behaved; the carrier rule is strict. Operators can refuse boarding.",
+          "restrictionsFr": "Pas de grands chiens, même en laisse et calmes ; la règle du sac est stricte. Les conducteurs peuvent refuser l'embarquement.",
+          "restrictionsEs": "No se admiten perros grandes, ni siquiera con correa y tranquilos; la regla del transportín es estricta. Los operadores pueden denegar el acceso.",
+          "restrictionsPt": "Sem cães grandes, mesmo com trela e calmos; a regra da transportadora é estrita. Os operadores podem recusar o embarque.",
+          "website": "https://www.metro.net/riding/riding-with-pets/"
+        },
+        {
+          "mode": "Uber Pet & Lyft Pet",
+          "modeFr": "Uber Pet et Lyft Pet",
+          "modeEs": "Uber Pet y Lyft Pet",
+          "modePt": "Uber Pet e Lyft Pet",
+          "allowed": true,
+          "free": false,
+          "carrierRequired": false,
+          "details": "Both Uber Pet and Lyft Pet are available across LA County and Orange County. Surcharge $3-5 above the standard fare, no carrier required, one pet per ride (additional pets at driver discretion). Book the Pet tier in the app.",
+          "detailsFr": "Uber Pet et Lyft Pet sont disponibles sur tout LA County et Orange County. Supplément 3 à 5 $ par-dessus la course standard, sans sac obligatoire, un animal par course (animaux supplémentaires à la discrétion du chauffeur). Sélectionnez le tier Pet dans l'app.",
+          "detailsEs": "Tanto Uber Pet como Lyft Pet están disponibles en todo el condado de LA y Orange County. Suplemento 3-5 $ sobre la tarifa estándar, sin transportín obligatorio, una mascota por viaje (mascotas adicionales a discreción del conductor). Reserva el nivel Pet en la app.",
+          "detailsPt": "Tanto Uber Pet como Lyft Pet estão disponíveis em todo o condado de LA e Orange County. Suplemento 3-5 $ sobre a tarifa padrão, sem transportadora obrigatória, um animal por viagem (animais adicionais à discrição do condutor). Reserva o nível Pet na app.",
+          "restrictions": "Service animals cannot be refused by any rideshare driver under federal ADA law. For non-service pets, the driver may refuse before the trip starts.",
+          "restrictionsFr": "Aucun chauffeur VTC ne peut refuser un chien d'assistance selon la loi fédérale ADA. Pour les autres animaux, le chauffeur peut refuser avant le début de la course.",
+          "restrictionsEs": "Ningún conductor de VTC puede rechazar a un perro de servicio según la ley federal ADA. Para el resto de mascotas, el conductor puede rechazar antes de iniciar el viaje.",
+          "restrictionsPt": "Nenhum motorista de TVDE pode recusar um cão de serviço segundo a lei federal ADA. Para os restantes animais, o motorista pode recusar antes do início da viagem.",
+          "website": "https://www.uber.com/us/en/ride/uber-pet/"
+        },
+        {
+          "mode": "Amtrak Pacific Surfliner",
+          "modeFr": "Amtrak Pacific Surfliner",
+          "modeEs": "Amtrak Pacific Surfliner",
+          "modePt": "Amtrak Pacific Surfliner",
+          "allowed": true,
+          "free": false,
+          "carrierRequired": true,
+          "details": "The Pacific Surfliner along the coast (San Diego-LA-San Luis Obispo) accepts dogs and cats up to 20 lb (9 kg) combined with carrier, for $26 per leg, one pet per passenger, advance reservation required. Service animals ride free without a carrier.",
+          "detailsFr": "Le Pacific Surfliner le long de la côte (San Diego-LA-San Luis Obispo) accepte les chiens et chats jusqu'à 9 kg (20 lb) avec sac inclus, pour 26 $ par tronçon, un animal par passager, réservation à l'avance obligatoire. Chiens d'assistance gratuits sans sac.",
+          "detailsEs": "El Pacific Surfliner por la costa (San Diego-LA-San Luis Obispo) admite perros y gatos hasta 20 lb (9 kg) con transportín incluido, por 26 $ por trayecto, una mascota por pasajero, reserva previa obligatoria. Perros de servicio gratis sin transportín.",
+          "detailsPt": "O Pacific Surfliner pela costa (San Diego-LA-San Luis Obispo) aceita cães e gatos até 20 lb (9 kg) com transportadora incluída, por 26 $ por percurso, um animal por passageiro, reserva prévia obrigatória. Cães de serviço grátis sem transportadora.",
+          "restrictions": "Hard limit 20 lb (9 kg) including carrier; larger non-service dogs are not accepted on any Amtrak Surfliner.",
+          "restrictionsFr": "Limite stricte 9 kg (20 lb) sac inclus ; les chiens non d'assistance plus lourds ne sont pas admis sur le Surfliner.",
+          "restrictionsEs": "Límite estricto 20 lb (9 kg) con transportín; los perros que no son de servicio y pesan más no se admiten en el Surfliner.",
+          "restrictionsPt": "Limite estrito 20 lb (9 kg) com transportadora; os cães que não são de serviço e pesam mais não são aceites no Surfliner.",
+          "website": "https://www.amtrak.com/pets"
+        },
+        {
+          "mode": "Los Angeles International Airport (LAX)",
+          "modeFr": "Aéroport international de Los Angeles (LAX)",
+          "modeEs": "Aeropuerto Internacional de Los Angeles (LAX)",
+          "modePt": "Aeroporto Internacional de Los Angeles (LAX)",
+          "allowed": true,
+          "free": true,
+          "carrierRequired": false,
+          "details": "LAX has eight indoor pet relief areas across the terminals (one in each of Terminals 1-7 and Tom Bradley International), plus exterior relief areas at every curbside arrivals zone. Pets in carriers move freely through the terminal; TSA requires the pet to be removed from the carrier briefly and walked through the metal detector on a leash. American, Delta and United all accept small pets in cabin on LAX flights for $95-150 per segment.",
+          "detailsFr": "LAX dispose de huit zones de soulagement animal en salle réparties sur les terminaux (une dans chaque Terminal 1 à 7 et au Tom Bradley International), plus des zones extérieures à chaque dépose-minute arrivées. Les animaux en sac circulent librement dans le terminal ; la TSA exige de sortir brièvement l'animal du sac et de le faire passer en laisse au détecteur. American, Delta et United acceptent tous les petits animaux en cabine sur les vols LAX moyennant 95 à 150 $ par segment.",
+          "detailsEs": "LAX tiene ocho zonas interiores de alivio para mascotas repartidas por las terminales (una en cada Terminal 1 a 7 y en la Tom Bradley International), además de zonas exteriores en cada acera de llegadas. Las mascotas en transportín circulan libremente por la terminal; la TSA exige sacar brevemente al animal del transportín y pasarlo con correa por el detector. American, Delta y United admiten mascotas pequeñas en cabina en vuelos de LAX por 95-150 $ por segmento.",
+          "detailsPt": "LAX tem oito zonas interiores de alívio para animais pelos terminais (uma em cada Terminal 1 a 7 e no Tom Bradley International), além de zonas exteriores em cada passeio de chegadas. Os animais em transportadora circulam livremente pelo terminal; a TSA exige tirar brevemente o animal da transportadora e passá-lo com trela pelo detetor. American, Delta e United aceitam animais pequenos em cabine nos voos de LAX por 95-150 $ por segmento.",
+          "restrictions": "Service animals fly with their handler in the cabin free; non-service pets are subject to each airline's policy (size, fees, breed bans). The LAX FlyAway bus accepts pets in carriers only, no large dogs.",
+          "restrictionsFr": "Les chiens d'assistance voyagent gratuitement en cabine ; les autres animaux dépendent de la politique de chaque compagnie (taille, frais, races interdites). La navette FlyAway n'accepte les animaux qu'en sac, pas de grands chiens.",
+          "restrictionsEs": "Los perros de servicio vuelan gratis en cabina; el resto de mascotas dependen de la política de cada aerolínea (tamaño, tarifas, razas prohibidas). La lanzadera FlyAway solo admite mascotas en transportín, nada de perros grandes.",
+          "restrictionsPt": "Os cães de serviço voam grátis na cabine; os restantes animais dependem da política de cada companhia (tamanho, taxas, raças proibidas). A carrinha FlyAway só aceita animais em transportadora, nada de cães grandes.",
+          "website": "https://www.flylax.com/at-lax/lax-pet-relief-areas"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take a large dog on LA public transit?",
+          "a": "Officially no, the carrier rule is absolute on Metro Rail and Metro Bus. For a dog over the carrier-size limit, your only options are Uber Pet or Lyft Pet (both $3-5 surcharge over standard, no size limit) or your own car. Service dogs ride free everywhere, leashed, no carrier needed."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre un grand chien dans les transports publics à Los Angeles ?",
+          "a": "Officiellement non, la règle du sac est absolue sur Metro Rail et Metro Bus. Pour un chien trop gros pour entrer dans un sac, vos seules options sont Uber Pet ou Lyft Pet (supplément 3 à 5 $, sans limite de taille) ou votre propre voiture. Les chiens d'assistance voyagent gratuitement partout, en laisse, sans sac."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar un perro grande en el transporte público de Los Angeles?",
+          "a": "Oficialmente no, la regla del transportín es absoluta en Metro Rail y Metro Bus. Para un perro demasiado grande para caber en un transportín, las únicas opciones son Uber Pet o Lyft Pet (suplemento 3-5 $, sin límite de tamaño) o tu propio coche. Los perros de servicio viajan gratis en todas partes, con correa, sin transportín."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar um cão grande no transporte público de Los Angeles?",
+          "a": "Oficialmente não, a regra da transportadora é absoluta no Metro Rail e Metro Bus. Para um cão grande demais para caber numa transportadora, as únicas opções são Uber Pet ou Lyft Pet (suplemento 3-5 $, sem limite de tamanho) ou o seu próprio carro. Os cães de serviço viajam grátis em todo o lado, com trela, sem transportadora."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Los Angeles",
+      "titleFr": "Plages acceptant les chiens à Los Angeles",
+      "titleEs": "Playas que admiten perros en Los Angeles",
+      "titlePt": "Praias que admitem cães em Los Angeles",
+      "introEn": "Los Angeles County has exactly one off-leash dog beach: Rosie's Dog Beach in Long Beach, a 1 km stretch of fenced sand at Belmont Shore. Inside LA County proper, Santa Monica, Venice and Manhattan Beach all ban dogs on the sand year-round, with fines starting at $100. Two excellent alternatives are within a 30-60 minute drive: Leo Carrillo State Beach in Malibu allows leashed dogs on the north end (Beach 1 only), and Huntington Dog Beach in Orange County runs 2.5 km of off-leash Pacific surf 30 minutes south of Long Beach. Heat and asphalt are the main June-September concerns; bring fresh water and check paw pads.",
+      "introFr": "Le comté de Los Angeles compte exactement une plage off-leash : Rosie's Dog Beach à Long Beach, un kilomètre de sable clôturé à Belmont Shore. Dans LA County proprement dit, Santa Monica, Venice et Manhattan Beach interdisent les chiens sur le sable toute l'année, avec des amendes à partir de 100 $. Deux excellentes alternatives sont à 30-60 minutes en voiture : Leo Carrillo State Beach à Malibu accepte les chiens en laisse sur l'extrémité nord (Beach 1 uniquement), et Huntington Dog Beach dans Orange County offre 2,5 km de surf Pacifique sans laisse à 30 minutes au sud de Long Beach. La chaleur et l'asphalte sont les contraintes principales de juin à septembre ; apportez de l'eau fraîche et vérifiez les coussinets.",
+      "introEs": "El condado de Los Angeles tiene exactamente una playa off-leash: Rosie's Dog Beach en Long Beach, un kilómetro de arena vallada en Belmont Shore. En LA County propiamente dicho, Santa Monica, Venice y Manhattan Beach prohíben los perros en la arena todo el año, con multas desde 100 $. Dos excelentes alternativas están a 30-60 minutos en coche: Leo Carrillo State Beach en Malibu admite perros con correa en el extremo norte (solo Beach 1), y Huntington Dog Beach en Orange County ofrece 2,5 km de surf del Pacífico sin correa a 30 minutos al sur de Long Beach. El calor y el asfalto son las principales pegas de junio a septiembre; lleva agua fresca y vigila las almohadillas.",
+      "introPt": "O condado de Los Angeles tem exatamente uma praia off-leash: Rosie's Dog Beach em Long Beach, um quilómetro de areia vedada em Belmont Shore. Em LA County propriamente dito, Santa Monica, Venice e Manhattan Beach proíbem os cães na areia o ano inteiro, com multas a partir de 100 $. Duas excelentes alternativas estão a 30-60 minutos de carro: Leo Carrillo State Beach em Malibu admite cães com trela na ponta norte (só Beach 1), e Huntington Dog Beach em Orange County oferece 2,5 km de surf do Pacífico sem trela a 30 minutos a sul de Long Beach. O calor e o asfalto são as principais limitações de junho a setembro; leve água fresca e vigie as almofadas das patas.",
+      "places": [
+        {
+          "name": "Rosie's Dog Beach (Long Beach)",
+          "distance": "35 min by car from Downtown LA via I-710 south",
+          "description": "The only legal off-leash dog beach in Los Angeles County: 1 km of soft Pacific sand on Belmont Shore, between Roycroft and Argonne Avenues, run by the City of Long Beach. The fenced zone is bounded north by Ocean Boulevard and south by the surf line; dogs can swim in the shallow Long Beach surf year-round. Open 06:00 to 20:00 daily. Free admission, paid parking on Ocean Boulevard ($2/hour metered).",
+          "season": "Year-round, 06:00 to 20:00. Off-leash allowed under voice control.",
+          "rules": "Dogs must be under voice control, vaccinated and licensed. Pick-up bags mandatory. Aggressive dogs excluded. No glass.",
+          "facilities": "Paid metered parking on Ocean Boulevard, public toilets and outdoor showers at Granada Beach next door, picnic tables and a snack shack within walking distance.",
+          "googleMapsUrl": "https://maps.google.com/?q=Rosie%27s+Dog+Beach+Long+Beach+Belmont+Shore",
+          "photo": "/images/city-places/los-angeles-beaches-rosies-dog-beach-long-beach.jpg"
+        },
+        {
+          "name": "Leo Carrillo State Beach (Beach 1, Malibu)",
+          "distance": "60 min by car from Santa Monica via Pacific Coast Highway",
+          "description": "A Pacific state beach 45 km west of Santa Monica with one rare exception to the California state-park no-dogs rule: Beach 1 at the north end allows leashed dogs on the sand year-round. Soft sand, gentle to moderate surf, dramatic tide pools and sea caves at low tide. Day-use vehicle fee $12. The rest of Leo Carrillo (Beaches 2 and 3) is off-limits to dogs, including the famous sea caves at the south end.",
+          "season": "Year-round, 08:00 to sunset. Leash required at all times (6-foot maximum).",
+          "rules": "Dogs allowed on Beach 1 sand only (the northern half), never on the southern Beaches 2-3 or any state park trail. 6-foot leash mandatory. Pick-up bags required.",
+          "facilities": "Paid day-use lot ($12 per vehicle), public toilets and outdoor showers, picnic tables, lifeguard in summer only. No services on the trail side.",
+          "googleMapsUrl": "https://maps.google.com/?q=Leo+Carrillo+State+Beach+Malibu",
+          "photo": "/images/city-places/los-angeles-beaches-leo-carrillo-state-beach-beach-1-malibu.jpg"
+        },
+        {
+          "name": "Huntington Dog Beach (Orange County)",
+          "distance": "45 min by car from Long Beach via Pacific Coast Highway",
+          "description": "A 2.5 km off-leash dog beach on the open Pacific in Huntington Beach, just south of the Orange County line: the longest off-leash Pacific-surf dog beach in Southern California. Run by a non-profit foundation, free dog admission, paid vehicle parking ($1/hour with a 4-hour max in the lot). Dogs swim in real surf, often run in packs along the wet sand for a kilometre at a time. Open 05:00 to 22:00 year-round.",
+          "season": "Year-round, 05:00 to 22:00. Off-leash allowed under voice control.",
+          "rules": "Dogs must be under voice control, vaccinated and licensed. Pick-up bags mandatory and stations every 50 m. Aggressive dogs excluded.",
+          "facilities": "Paid parking ($1/hour, 4-hour max), public toilets, outdoor showers, water fountains, dog-pick-up stations, foundation kiosk selling water and merchandise.",
+          "googleMapsUrl": "https://maps.google.com/?q=Huntington+Dog+Beach+Huntington+Beach",
+          "photo": "/images/city-places/los-angeles-beaches-huntington-dog-beach-orange-county.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Santa Monica or Venice beach?",
+          "a": "No, dogs are strictly banned from the sand on every Santa Monica and Venice public beach year-round, 24/7, fine $100-500. The closest off-leash sand option is Rosie's Dog Beach in Long Beach (35-50 min south of Santa Monica by car). The Venice Boardwalk itself, the Santa Monica Pier promenade and the bike path are fine for a leashed walk; the ban is sand-only."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien sur le sable de Santa Monica ou Venice ?",
+          "a": "Non, les chiens sont strictement interdits sur le sable de toutes les plages publiques de Santa Monica et Venice, toute l'année, 24h/24, amende 100 à 500 $. L'option off-leash la plus proche est Rosie's Dog Beach à Long Beach (35 à 50 min au sud de Santa Monica en voiture). Le boardwalk de Venice, la promenade du Santa Monica Pier et la piste cyclable conviennent en revanche très bien à une balade en laisse ; l'interdiction ne concerne que le sable."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a la arena de Santa Monica o Venice?",
+          "a": "No, los perros están estrictamente prohibidos en la arena de todas las playas públicas de Santa Monica y Venice, todo el año, 24/7, multa 100-500 $. La opción off-leash más cercana es Rosie's Dog Beach en Long Beach (35-50 min al sur de Santa Monica en coche). El boardwalk de Venice, el paseo del Santa Monica Pier y el carril bici en sí van perfectamente para un paseo con correa; la prohibición es solo en la arena."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão para a areia de Santa Monica ou Venice?",
+          "a": "Não, os cães estão rigorosamente proibidos na areia de todas as praias públicas de Santa Monica e Venice, o ano inteiro, 24/7, multa 100-500 $. A opção off-leash mais próxima é Rosie's Dog Beach em Long Beach (35-50 min a sul de Santa Monica de carro). O boardwalk de Venice, o passeio do Santa Monica Pier e a ciclovia funcionam perfeitamente para um passeio com trela; a proibição é só na areia."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Los Angeles",
+      "titleFr": "Vétérinaires d'urgence à Los Angeles",
+      "titleEs": "Veterinarios de urgencias en Los Angeles",
+      "titlePt": "Veterinários de urgência em Los Angeles",
+      "introEn": "Los Angeles has one of the densest 24/7 veterinary emergency networks in the US: VCA West Los Angeles Animal Hospital on Sepulveda Boulevard handles primary care and full ER under one roof, ACCESS Specialty Animal Hospital in Culver City is a referral-grade critical-care centre open round the clock, and VCA Animal Specialty Group on Colorado Boulevard near Glendale covers the eastside and the Valley. All three accept walk-in foreign visitors with passport and credit card; expect an emergency consultation fee of $200-400 before treatment. English is universal in clinic; Spanish bilingual staff are common given LA demographics.",
+      "introFr": "Los Angeles dispose de l'un des réseaux d'urgences vétérinaires 24h/24 les plus denses des États-Unis : VCA West Los Angeles Animal Hospital sur Sepulveda Boulevard combine médecine de ville et urgences sous le même toit, ACCESS Specialty Animal Hospital à Culver City est un centre de soins critiques de niveau référence ouvert sans interruption, et VCA Animal Specialty Group sur Colorado Boulevard près de Glendale couvre l'est et la Valley. Les trois acceptent les visiteurs étrangers sans rendez-vous avec passeport et carte de crédit ; prévoyez 200 à 400 $ de consultation d'urgence avant tout soin. L'anglais est universel en clinique ; le personnel bilingue espagnol est fréquent vu la démographie de LA.",
+      "introEs": "Los Angeles tiene una de las redes de urgencias veterinarias 24/7 más densas de EE. UU.: VCA West Los Angeles Animal Hospital en Sepulveda Boulevard combina medicina general y urgencias bajo el mismo techo, ACCESS Specialty Animal Hospital en Culver City es un centro de cuidados críticos de nivel de referencia abierto sin interrupción, y VCA Animal Specialty Group en Colorado Boulevard junto a Glendale cubre el este y la Valley. Los tres aceptan visitantes extranjeros sin cita con pasaporte y tarjeta de crédito; cuenta con 200-400 $ de consulta de urgencia antes de cualquier tratamiento. El inglés es universal en clínica; el personal bilingüe español es habitual dada la demografía de LA.",
+      "introPt": "Los Angeles tem uma das redes de urgências veterinárias 24/7 mais densas dos EUA: VCA West Los Angeles Animal Hospital em Sepulveda Boulevard combina medicina geral e urgências debaixo do mesmo teto, ACCESS Specialty Animal Hospital em Culver City é um centro de cuidados críticos de nível de referência aberto sem interrupção, e VCA Animal Specialty Group em Colorado Boulevard junto a Glendale cobre o leste e a Valley. Os três aceitam visitantes estrangeiros sem marcação com passaporte e cartão de crédito; conte com 200-400 $ de consulta de urgência antes de qualquer tratamento. O inglês é universal em clínica; o pessoal bilingue espanhol é comum dada a demografia de LA.",
+      "places": [
+        {
+          "name": "VCA West Los Angeles Animal Hospital",
+          "type": "24/7 emergency + multi-specialty + primary care",
+          "address": "1900 S Sepulveda Boulevard, Los Angeles, CA 90025",
+          "phone": "+1 310 473 2951",
+          "hours": "Open 24/7 every day",
+          "hoursFr": "Ouvert 24h/24, 7j/7",
+          "hoursEs": "Abierto 24/7 todos los días",
+          "hoursPt": "Aberto 24/7 todos os dias",
+          "englishSpeaking": true,
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "website": "https://vcahospitals.com/west-los-angeles",
+          "description": "The largest VCA on the Westside, with full primary care and a 24/7 emergency room under the same roof, plus board-certified specialists in cardiology, dentistry, internal medicine, neurology, oncology and surgery. Particularly convenient if you are staying in Santa Monica, Venice, Brentwood, Westwood or Beverly Hills: 10-15 minutes from any Westside hotel even in traffic.",
+          "descriptionFr": "Le plus grand VCA du Westside, avec médecine générale et urgences 24h/24 sous le même toit, plus des spécialistes certifiés en cardiologie, dentisterie, médecine interne, neurologie, oncologie et chirurgie. Particulièrement pratique si vous séjournez à Santa Monica, Venice, Brentwood, Westwood ou Beverly Hills : 10 à 15 minutes depuis tout hôtel du Westside même dans la circulation.",
+          "descriptionEs": "El mayor VCA del Westside, con medicina general y urgencias 24/7 bajo el mismo techo, además de especialistas certificados en cardiología, odontología, medicina interna, neurología, oncología y cirugía. Especialmente práctico si te alojas en Santa Monica, Venice, Brentwood, Westwood o Beverly Hills: 10-15 minutos desde cualquier hotel del Westside incluso con tráfico.",
+          "descriptionPt": "O maior VCA do Westside, com medicina geral e urgência 24/7 debaixo do mesmo teto, além de especialistas certificados em cardiologia, dentária, medicina interna, neurologia, oncologia e cirurgia. Especialmente prático se ficar em Santa Monica, Venice, Brentwood, Westwood ou Beverly Hills: 10-15 minutos desde qualquer hotel do Westside mesmo com trânsito.",
+          "tip": "Walk-ins triaged by severity. Call ahead on +1 310 473 2951 if you are more than 10 minutes away so they can prep an exam room.",
+          "tipFr": "Sans rendez-vous, triage par gravité. Appelez le +1 310 473 2951 si vous êtes à plus de 10 min pour qu'ils préparent une salle d'examen.",
+          "tipEs": "Sin cita, triaje por gravedad. Llama al +1 310 473 2951 si estás a más de 10 min para que preparen una sala de exploración.",
+          "tipPt": "Sem marcação, triagem por gravidade. Liga para +1 310 473 2951 se estiver a mais de 10 min para prepararem uma sala de exames.",
+          "googleMapsUrl": "https://maps.google.com/?q=VCA+West+Los+Angeles+Animal+Hospital+1900+Sepulveda+Boulevard",
+          "photo": "/images/city-places/los-angeles-vets-vca-west-los-angeles-animal-hospital.jpg"
+        },
+        {
+          "name": "ACCESS Specialty Animal Hospital - Los Angeles",
+          "type": "24/7 emergency + critical care + specialty referral",
+          "address": "9599 Jefferson Boulevard, Culver City, CA 90232",
+          "phone": "+1 310 558 6100",
+          "hours": "Open 24/7 every day",
+          "hoursFr": "Ouvert 24h/24, 7j/7",
+          "hoursEs": "Abierto 24/7 todos los días",
+          "hoursPt": "Aberto 24/7 todos os dias",
+          "englishSpeaking": true,
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "website": "https://accessanimalhospitals.com",
+          "description": "A referral-grade 24/7 emergency and critical-care hospital in Culver City, equidistant from Santa Monica, Venice, Beverly Hills and Downtown LA. Walk-in 24/7, no appointments. Departments include advanced critical care, emergency, surgery, neurology, cardiology, oncology and diagnostic imaging (CT and MRI on site). Particularly strong on poly-trauma and post-surgical referrals.",
+          "descriptionFr": "Un hôpital d'urgences et soins critiques 24h/24 de niveau référence à Culver City, équidistant de Santa Monica, Venice, Beverly Hills et Downtown LA. Sans rendez-vous 24h/24. Services : soins critiques avancés, urgences, chirurgie, neurologie, cardiologie, oncologie et imagerie diagnostique (scanner et IRM sur place). Particulièrement fort sur le poly-traumatisme et les suites chirurgicales.",
+          "descriptionEs": "Un hospital de urgencias y cuidados críticos 24/7 de nivel de referencia en Culver City, equidistante de Santa Monica, Venice, Beverly Hills y Downtown LA. Sin cita 24/7. Servicios: cuidados críticos avanzados, urgencias, cirugía, neurología, cardiología, oncología e imagen diagnóstica (TAC y RMN en planta). Especialmente fuerte en politraumatismo y postoperatorio derivado.",
+          "descriptionPt": "Um hospital de urgência e cuidados críticos 24/7 de nível de referência em Culver City, equidistante de Santa Monica, Venice, Beverly Hills e Downtown LA. Sem marcação 24/7. Serviços: cuidados críticos avançados, urgência, cirurgia, neurologia, cardiologia, oncologia e imagem diagnóstica (TAC e RMN no local). Particularmente forte em politraumatismo e pós-operatório referenciado.",
+          "tip": "Entrance and patient drop-off on Jefferson Boulevard side. Bring any existing medical records on a phone or USB; transfer of imaging is fast on site.",
+          "tipFr": "Entrée et dépose patient côté Jefferson Boulevard. Apportez les dossiers médicaux existants sur téléphone ou clé USB ; le transfert d'imagerie est rapide sur place.",
+          "tipEs": "Entrada y zona de descarga de pacientes en el lado de Jefferson Boulevard. Lleva los informes médicos existentes en el móvil o un USB; la transferencia de imagen es rápida en planta.",
+          "tipPt": "Entrada e zona de desembarque de pacientes do lado da Jefferson Boulevard. Leve os relatórios médicos existentes no telemóvel ou numa pen; a transferência de imagem é rápida no local.",
+          "googleMapsUrl": "https://maps.google.com/?q=ACCESS+Specialty+Animal+Hospitals+9599+Jefferson+Boulevard+Culver+City",
+          "photo": "/images/city-places/los-angeles-vets-access-specialty-animal-hospital-los-angeles.jpg"
+        },
+        {
+          "name": "VCA Animal Specialty Group",
+          "type": "24/7 emergency + multi-specialty",
+          "address": "4641 Colorado Boulevard, Los Angeles, CA 90039",
+          "phone": "+1 818 244 7977",
+          "hours": "Open 24/7 every day",
+          "hoursFr": "Ouvert 24h/24, 7j/7",
+          "hoursEs": "Abierto 24/7 todos los días",
+          "hoursPt": "Aberto 24/7 todos os dias",
+          "englishSpeaking": true,
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "website": "https://vcahospitals.com/animal-specialty-group-los-angeles",
+          "description": "A 24/7 multi-specialty hospital on Colorado Boulevard between Atwater Village, Glendale and Silver Lake, the most convenient ER for eastside neighbourhoods (Los Feliz, Silver Lake, Echo Park, Highland Park, Pasadena) and the southeast San Fernando Valley. Departments include emergency, surgery, internal medicine, oncology, cardiology and radiology. Bilingual reception, and several clinicians speak Spanish.",
+          "descriptionFr": "Un hôpital multi-spécialités 24h/24 sur Colorado Boulevard entre Atwater Village, Glendale et Silver Lake, l'urgence la plus pratique pour les quartiers est (Los Feliz, Silver Lake, Echo Park, Highland Park, Pasadena) et le sud-est de la San Fernando Valley. Services : urgences, chirurgie, médecine interne, oncologie, cardiologie et radiologie. Accueil bilingue, plusieurs cliniciens parlent espagnol.",
+          "descriptionEs": "Un hospital multiespecialidad 24/7 en Colorado Boulevard entre Atwater Village, Glendale y Silver Lake, las urgencias más prácticas para los barrios del este (Los Feliz, Silver Lake, Echo Park, Highland Park, Pasadena) y el sureste de la San Fernando Valley. Servicios: urgencias, cirugía, medicina interna, oncología, cardiología y radiología. Recepción bilingüe, varios clínicos hablan español.",
+          "descriptionPt": "Um hospital multiespecialidade 24/7 em Colorado Boulevard entre Atwater Village, Glendale e Silver Lake, a urgência mais prática para os bairros leste (Los Feliz, Silver Lake, Echo Park, Highland Park, Pasadena) e o sudeste da San Fernando Valley. Serviços: urgência, cirurgia, medicina interna, oncologia, cardiologia e radiologia. Receção bilingue, vários clínicos falam espanhol.",
+          "tip": "Free parking lot on the south side of the building. Take the I-5 exit at Los Feliz Boulevard for the fastest access from downtown.",
+          "tipFr": "Parking gratuit côté sud du bâtiment. Sortie I-5 à Los Feliz Boulevard pour l'accès le plus rapide depuis downtown.",
+          "tipEs": "Aparcamiento gratuito en el lado sur del edificio. Salida I-5 en Los Feliz Boulevard para el acceso más rápido desde downtown.",
+          "tipPt": "Estacionamento gratuito do lado sul do edifício. Saída I-5 em Los Feliz Boulevard para o acesso mais rápido a partir do downtown.",
+          "googleMapsUrl": "https://maps.google.com/?q=VCA+Animal+Specialty+Group+4641+Colorado+Boulevard+Los+Angeles",
+          "photo": "/images/city-places/los-angeles-vets-vca-animal-specialty-group.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Will a Los Angeles emergency vet treat my dog without prior records?",
+          "a": "Yes. VCA West LA, ACCESS Culver City and VCA Animal Specialty Group all accept walk-in foreign visitors with a credit card and your pet's basic info. Vaccination records help with intake speed but are not strictly required. Expect a $200-400 emergency-exam fee before any treatment, paid upfront. All three operate 24/7, 365 days."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Un vétérinaire d'urgence à Los Angeles soignera-t-il mon chien sans dossier préalable ?",
+          "a": "Oui. VCA West LA, ACCESS Culver City et VCA Animal Specialty Group acceptent tous les visiteurs étrangers sans rendez-vous avec une carte de crédit et les infos de base de votre animal. Le carnet de vaccination accélère l'admission mais n'est pas strictement exigé. Comptez 200 à 400 $ de consultation d'urgence avant tout soin, à régler d'avance. Les trois fonctionnent 24h/24, 365 jours par an."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Un veterinario de urgencias en Los Angeles atenderá a mi perro sin historial previo?",
+          "a": "Sí. VCA West LA, ACCESS Culver City y VCA Animal Specialty Group aceptan a visitantes extranjeros sin cita con tarjeta de crédito y los datos básicos de tu mascota. La cartilla de vacunación agiliza el ingreso pero no es estrictamente obligatoria. Cuenta con 200-400 $ de tarifa de urgencia antes de cualquier tratamiento, a pagar por adelantado. Los tres funcionan 24/7, 365 días al año."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Um veterinário de urgência em Los Angeles trata o meu cão sem historial prévio?",
+          "a": "Sim. VCA West LA, ACCESS Culver City e VCA Animal Specialty Group aceitam visitantes estrangeiros sem marcação com cartão de crédito e os dados básicos do seu animal. A cartilha de vacinação acelera a admissão mas não é estritamente obrigatória. Conte com 200-400 $ de taxa de urgência antes de qualquer tratamento, a pagar antecipadamente. Os três funcionam 24/7, 365 dias por ano."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Los Angeles Pet Travel Tips",
+      "titleFr": "Conseils pratiques pour voyager à Los Angeles avec son animal",
+      "titleEs": "Consejos para viajar a Los Angeles con tu mascota",
+      "titlePt": "Dicas para viajar a Los Angeles com o seu animal",
+      "introEn": "Los Angeles is one of the easiest US cities to travel with a pet from October through May: Mediterranean climate, dense network of dog parks and off-leash sections, marquee hill trails open year-round, a 1700-hectare urban wilderness in Griffith Park, and 24/7 vet care across the metro. The main friction points are summer heat from June to September (Valley asphalt regularly hits 50-55 °C on July and August afternoons), strict no-dogs rules on every LA County beach except Rosie's Dog Beach, and the carrier-only public transit rule for non-service dogs. All prices on this page are in approximate USD-equivalent; the site renders € for legacy reasons (read €1 ≈ $1 for Los Angeles).",
+      "introFr": "Los Angeles est l'une des villes américaines les plus faciles pour voyager avec un animal d'octobre à mai : climat méditerranéen, réseau dense de parcs canins et de zones sans laisse, sentiers de collines ouverts toute l'année, 1 700 hectares de nature urbaine à Griffith Park, et urgences vétérinaires 24h/24 sur toute la métropole. Les contraintes principales : chaleur estivale de juin à septembre (l'asphalte de la Valley atteint régulièrement 50-55 °C les après-midis de juillet-août), interdiction stricte des chiens sur toutes les plages du comté de LA sauf Rosie's Dog Beach, et règle du sac obligatoire dans les transports publics pour les chiens non d'assistance. Tous les prix sont en équivalent USD approximatif ; le site affiche € pour raisons historiques (lire 1 € ≈ 1 $ pour Los Angeles).",
+      "introEs": "Los Angeles es una de las ciudades de EE. UU. más fáciles para viajar con mascota de octubre a mayo: clima mediterráneo, red densa de parques caninos y zonas sin correa, senderos de colinas abiertos todo el año, 1 700 hectáreas de naturaleza urbana en Griffith Park, y urgencias veterinarias 24/7 en toda la metrópolis. Los puntos de fricción: calor de verano de junio a septiembre (el asfalto de la Valley alcanza con frecuencia 50-55 °C en las tardes de julio-agosto), prohibición estricta de perros en todas las playas del condado de LA salvo Rosie's Dog Beach, y regla del transportín obligatorio en el transporte público para perros que no son de servicio. Todos los precios están en equivalente USD aproximado; la web muestra € por motivos heredados (leer 1 € ≈ 1 $ para Los Angeles).",
+      "introPt": "Los Angeles é uma das cidades dos EUA mais fáceis para viajar com animal de outubro a maio: clima mediterrânico, rede densa de parques caninos e zonas sem trela, trilhos de colinas abertos o ano inteiro, 1 700 hectares de natureza urbana em Griffith Park, e urgências veterinárias 24/7 em toda a metrópole. Os pontos de fricção: calor de verão de junho a setembro (o asfalto da Valley atinge com frequência 50-55 °C nas tardes de julho-agosto), proibição estrita de cães em todas as praias do condado de LA exceto Rosie's Dog Beach, e regra da transportadora obrigatória no transporte público para cães que não são de serviço. Todos os preços estão em equivalente USD aproximado; o site mostra € por motivos herdados (ler 1 € ≈ 1 $ para Los Angeles).",
+      "sections": [
+        {
+          "titleEn": "Entry requirements (international visitors)",
+          "titleFr": "Conditions d'entrée (visiteurs internationaux)",
+          "titleEs": "Requisitos de entrada (visitantes internacionales)",
+          "titlePt": "Requisitos de entrada (visitantes internacionais)",
+          "contentEn": "Dogs entering the US from rabies-free or low-risk countries (EU, UK, etc.) need a valid rabies vaccination, a microchip, and a CDC Dog Import Form completed online before travel (cdc.gov/importation/dogs). Rules tightened in August 2024: all dogs must arrive at one of 18 approved airports (LAX is one), be at least 6 months old, and be accompanied by the CDC form receipt. Cats currently have no federal vaccination requirement on entry, though airlines often require one.",
+          "contentFr": "Les chiens entrant aux États-Unis depuis des pays sans rage ou à faible risque (UE, Royaume-Uni, etc.) doivent avoir une vaccination antirabique valide, une puce électronique et un formulaire CDC Dog Import rempli en ligne avant le voyage (cdc.gov/importation/dogs). Règles durcies en août 2024 : tous les chiens doivent arriver dans l'un des 18 aéroports approuvés (LAX en fait partie), avoir au moins 6 mois, et présenter le récépissé CDC. Les chats n'ont actuellement aucune exigence fédérale de vaccination à l'entrée, mais les compagnies aériennes en imposent souvent une.",
+          "contentEs": "Los perros que entran a EE. UU. desde países sin rabia o de bajo riesgo (UE, Reino Unido, etc.) necesitan vacuna antirrábica vigente, microchip y el formulario CDC Dog Import cumplimentado online antes del viaje (cdc.gov/importation/dogs). Reglas endurecidas en agosto de 2024: todos los perros deben llegar a uno de los 18 aeropuertos aprobados (LAX es uno), tener al menos 6 meses y presentar el justificante del formulario CDC. Los gatos no tienen actualmente requisito federal de vacunación a la entrada, aunque las aerolíneas suelen exigir uno.",
+          "contentPt": "Os cães que entram nos EUA a partir de países sem raiva ou de baixo risco (UE, Reino Unido, etc.) precisam de vacina antirrábica válida, microchip e o formulário CDC Dog Import preenchido online antes da viagem (cdc.gov/importation/dogs). Regras endurecidas em agosto de 2024: todos os cães devem chegar a um dos 18 aeroportos aprovados (LAX é um), ter pelo menos 6 meses e apresentar o comprovativo do formulário CDC. Os gatos não têm atualmente requisito federal de vacinação à entrada, embora as companhias aéreas costumem exigir uma."
+        },
+        {
+          "titleEn": "Heat, asphalt and wildfire smoke",
+          "titleFr": "Chaleur, asphalte et fumée des incendies",
+          "titleEs": "Calor, asfalto y humo de incendios",
+          "titlePt": "Calor, asfalto e fumo dos incêndios",
+          "contentEn": "Los Angeles asphalt routinely reaches 50-55 °C on July and August afternoons in the Valleys and inland basins (Burbank, Pasadena, downtown), while Westside coastal neighbourhoods stay 10 °C cooler thanks to the marine layer. The 5-7-second back-of-hand pavement test is mandatory practice: walk before 09:00 or after 19:00. Wildfire season runs June to November; check AirNow.gov before any hill hike, and skip Runyon and Griffith if AQI is above 150 (dogs are more sensitive than humans to PM2.5 smoke).",
+          "contentFr": "L'asphalte de Los Angeles atteint régulièrement 50-55 °C les après-midis de juillet-août dans les vallées et bassins intérieurs (Burbank, Pasadena, downtown), tandis que les quartiers côtiers du Westside restent 10 °C plus frais grâce à la couche marine. Le test main-au-sol 5-7 secondes est obligatoire : promenez avant 9h ou après 19h. La saison des incendies court de juin à novembre ; vérifiez AirNow.gov avant toute randonnée de collines et évitez Runyon et Griffith si l'AQI dépasse 150 (les chiens sont plus sensibles que les humains aux PM2.5).",
+          "contentEs": "El asfalto de Los Angeles alcanza con frecuencia 50-55 °C en las tardes de julio-agosto en los Valleys y cuencas interiores (Burbank, Pasadena, downtown), mientras que los barrios costeros del Westside se mantienen 10 °C más frescos por la capa marina. El test mano-en-suelo de 5-7 segundos es obligado: pasea antes de las 09:00 o después de las 19:00. La temporada de incendios va de junio a noviembre; consulta AirNow.gov antes de cualquier ruta de colinas y evita Runyon y Griffith si el AQI supera 150 (los perros son más sensibles que los humanos a las PM2,5).",
+          "contentPt": "O asfalto de Los Angeles atinge com frequência 50-55 °C nas tardes de julho-agosto nas Valleys e bacias interiores (Burbank, Pasadena, downtown), enquanto os bairros costeiros do Westside ficam 10 °C mais frescos pela camada marítima. O teste mão-no-chão de 5-7 segundos é obrigatório: passeie antes das 09:00 ou depois das 19:00. A época de incêndios vai de junho a novembro; consulte AirNow.gov antes de qualquer caminhada de colinas e evite Runyon e Griffith se o AQI passar de 150 (os cães são mais sensíveis do que os humanos às PM2,5)."
+        },
+        {
+          "titleEn": "Leash, waste and breed rules",
+          "titleFr": "Règles de laisse, déjections et races",
+          "titleEs": "Reglas de correa, excrementos y razas",
+          "titlePt": "Regras de trela, dejetos e raças",
+          "contentEn": "Los Angeles Municipal Code 53.06.2 requires dogs on a leash no longer than 6 feet on all public streets, sidewalks and parks except inside fenced dog runs and the marked off-leash sections of Runyon Canyon. Owners must pick up waste (fine $100-500). California has no statewide breed-specific legislation, but individual buildings, hotels and HOAs may apply their own restrictions: always confirm with your hotel before booking. Mandatory rabies vaccination and county dog license apply to all resident and visiting dogs staying more than 30 days.",
+          "contentFr": "Le code municipal de Los Angeles 53.06.2 impose une laisse d'au maximum 1,80 m sur toutes les rues, trottoirs et parcs publics, sauf dans les enclos canins clôturés et les sections sans laisse balisées de Runyon Canyon. Le ramassage des déjections est obligatoire (amende 100 à 500 $). La Californie n'a pas de législation de race au niveau de l'État, mais les immeubles, hôtels et HOA peuvent appliquer leurs propres restrictions : vérifiez toujours auprès de votre hôtel avant réservation. Vaccination antirabique obligatoire et licence canine du comté pour tout chien résident ou visiteur restant plus de 30 jours.",
+          "contentEs": "El código municipal de Los Angeles 53.06.2 exige correa de máximo 1,80 m en todas las calles, aceras y parques públicos salvo dentro de los recintos vallados para perros y los tramos sin correa señalizados de Runyon Canyon. Recoger los excrementos es obligatorio (multa 100-500 $). California no tiene legislación de raza a nivel estatal, pero los edificios, hoteles y HOA pueden aplicar sus propias restricciones: confirma siempre con tu hotel antes de reservar. Vacunación antirrábica obligatoria y licencia canina del condado para todo perro residente o visitante que se quede más de 30 días.",
+          "contentPt": "O código municipal de Los Angeles 53.06.2 exige trela de no máximo 1,80 m em todas as ruas, passeios e parques públicos exceto dentro dos recintos vedados para cães e dos troços sem trela sinalizados de Runyon Canyon. Apanhar os dejetos é obrigatório (multa 100-500 $). A Califórnia não tem legislação de raça ao nível do estado, mas os edifícios, hotéis e HOA podem aplicar as suas próprias restrições: confirme sempre com o seu hotel antes de reservar. Vacinação antirrábica obrigatória e licença canina do condado para qualquer cão residente ou visitante que fique mais de 30 dias."
+        }
+      ],
+      "places": [],
+      "tipsEn": [],
+      "tipsFr": [],
+      "tipsEs": [],
+      "tipsPt": [],
+      "faqsEn": [
+        {
+          "q": "Is Los Angeles a good destination with a dog?",
+          "a": "Yes, especially October through May. Mediterranean climate, marquee hill trails (Griffith, Runyon, Elysian), dense fenced dog parks, one true off-leash beach (Rosie's in Long Beach), two more within an hour (Leo Carrillo, Huntington), 24/7 vet care, and an airport (LAX) approved by the CDC for international dog arrivals make it one of the most pet-friendly US gateways. The two real constraints are summer heat in the Valleys and the public-transit carrier rule for non-small dogs."
+        },
+        {
+          "q": "Are LA hotels really pet-friendly or just tolerant?",
+          "a": "Many of the city's luxury and boutique hotels actively welcome pets with beds, bowls, treats and concierge dog services: Kimpton brand citywide, The London West Hollywood, Hotel Bel-Air, Beverly Hills Hotel, Shutters on the Beach in Santa Monica and Loews Hollywood. Mid-range and corporate hotels are more variable and usually charge $50-150 per stay. Confirm policy on the hotel's own website; OTA listings are often out of date."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Los Angeles est-elle une bonne destination avec un chien ?",
+          "a": "Oui, surtout d'octobre à mai. Climat méditerranéen, sentiers de collines emblématiques (Griffith, Runyon, Elysian), parcs canins clôturés denses, une vraie plage off-leash (Rosie's à Long Beach), deux autres à une heure (Leo Carrillo, Huntington), urgences vétérinaires 24h/24 et un aéroport (LAX) approuvé par le CDC pour les arrivées internationales de chiens en font l'une des portes d'entrée américaines les plus pet-friendly. Les seules vraies contraintes sont la chaleur estivale dans les vallées et la règle du sac dans les transports publics pour les chiens autres que petits."
+        },
+        {
+          "q": "Les hôtels de Los Angeles sont-ils vraiment dog-friendly ou simplement tolérants ?",
+          "a": "Beaucoup des hôtels luxe et boutique de la ville accueillent activement les animaux avec lits, gamelles, friandises et services de concierge canin : la marque Kimpton, The London West Hollywood, Hotel Bel-Air, Beverly Hills Hotel, Shutters on the Beach à Santa Monica et Loews Hollywood. Les hôtels milieu de gamme et corporate sont plus variables, généralement 50 à 150 $ par séjour. Vérifiez la politique sur le site officiel de l'hôtel ; les fiches OTA sont souvent obsolètes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Los Angeles un buen destino con perro?",
+          "a": "Sí, sobre todo de octubre a mayo. Clima mediterráneo, senderos de colinas emblemáticos (Griffith, Runyon, Elysian), red densa de parques caninos vallados, una verdadera playa off-leash (Rosie's en Long Beach), dos más a una hora (Leo Carrillo, Huntington), urgencias veterinarias 24/7 y un aeropuerto (LAX) aprobado por el CDC para llegadas internacionales de perros la convierten en una de las puertas de entrada de EE. UU. más pet-friendly. Las únicas trabas reales son el calor de verano en los Valleys y la regla del transportín en el transporte público para perros que no son pequeños."
+        },
+        {
+          "q": "¿Los hoteles de Los Angeles son realmente pet-friendly o solo tolerantes?",
+          "a": "Muchos hoteles de lujo y boutique de la ciudad acogen activamente a las mascotas con camas, cuencos, golosinas y servicios de conserjería canina: la marca Kimpton, The London West Hollywood, Hotel Bel-Air, Beverly Hills Hotel, Shutters on the Beach en Santa Monica y Loews Hollywood. Los hoteles de gama media y corporativos son más variables, normalmente 50-150 $ por estancia. Confirma la política en la web oficial del hotel; las fichas de OTA suelen estar desactualizadas."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Los Angeles é um bom destino com cão?",
+          "a": "Sim, sobretudo de outubro a maio. Clima mediterrânico, trilhos de colinas emblemáticos (Griffith, Runyon, Elysian), rede densa de parques caninos vedados, uma verdadeira praia off-leash (Rosie's em Long Beach), mais duas a uma hora (Leo Carrillo, Huntington), urgências veterinárias 24/7 e um aeroporto (LAX) aprovado pelo CDC para chegadas internacionais de cães fazem dela uma das portas de entrada nos EUA mais pet-friendly. As únicas verdadeiras restrições são o calor de verão nas Valleys e a regra da transportadora no transporte público para cães que não são pequenos."
+        },
+        {
+          "q": "Os hotéis de Los Angeles são realmente pet-friendly ou apenas tolerantes?",
+          "a": "Muitos dos hotéis de luxo e boutique da cidade acolhem ativamente os animais com camas, tigelas, guloseimas e serviços de concierge canino: marca Kimpton, The London West Hollywood, Hotel Bel-Air, Beverly Hills Hotel, Shutters on the Beach em Santa Monica e Loews Hollywood. Os hotéis de gama média e corporativos são mais variáveis, normalmente 50-150 $ por estadia. Confirme a política no site oficial do hotel; as fichas dos OTA costumam estar desatualizadas."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Los Angeles",
+      "titleFr": "Sites touristiques acceptant les chiens à Los Angeles",
+      "titleEs": "Atracciones que admiten perros en Los Angeles",
+      "titlePt": "Atrações que admitem cães em Los Angeles",
+      "introEn": "Most LA indoor attractions (LACMA, the Getty Center interiors, the Broad, the Academy Museum) do not admit pets except service animals. But many signature outdoor experiences do: walking the Hollywood Boulevard Walk of Fame with the TCL Chinese Theatre forecourt, climbing to the Griffith Observatory terrace for the Hollywood Sign view, strolling the Venice Boardwalk and the Santa Monica Pier promenade, the Getty Center exterior gardens on a paid timed ticket, the Olvera Street historic plaza, and the Abbot Kinney design boulevard.",
+      "introFr": "La plupart des attractions intérieures de LA (LACMA, intérieurs du Getty Center, le Broad, l'Academy Museum) refusent les animaux hors chiens d'assistance. Mais beaucoup des grandes expériences extérieures sont accessibles : parcourir le Walk of Fame de Hollywood Boulevard avec le forecourt du TCL Chinese Theatre, monter à la terrasse du Griffith Observatory pour la vue sur le Hollywood Sign, flâner sur le Venice Boardwalk et la promenade du Santa Monica Pier, les jardins extérieurs du Getty Center avec billet horodaté payant, la place historique d'Olvera Street, et l'avenue design d'Abbot Kinney.",
+      "introEs": "La mayoría de atracciones interiores de LA (LACMA, interiores del Getty Center, el Broad, el Academy Museum) no admiten mascotas salvo perros de servicio. Pero muchas de las grandes experiencias exteriores sí: recorrer el Walk of Fame de Hollywood Boulevard con el forecourt del TCL Chinese Theatre, subir a la terraza del Griffith Observatory para la vista del Hollywood Sign, pasear por el Venice Boardwalk y por el paseo del Santa Monica Pier, los jardines exteriores del Getty Center con entrada horaria de pago, la plaza histórica de Olvera Street y la avenida de diseño de Abbot Kinney.",
+      "introPt": "A maioria das atrações interiores de LA (LACMA, interiores do Getty Center, o Broad, o Academy Museum) não admite animais exceto cães de serviço. Mas muitas das grandes experiências exteriores admitem: percorrer o Walk of Fame da Hollywood Boulevard com o forecourt do TCL Chinese Theatre, subir ao terraço do Griffith Observatory para a vista do Hollywood Sign, passear no Venice Boardwalk e no passeio do Santa Monica Pier, os jardins exteriores do Getty Center com bilhete horário pago, a praça histórica de Olvera Street e a avenida de design de Abbot Kinney.",
+      "places": [
+        {
+          "name": "Griffith Observatory terrace & Hollywood Sign view",
+          "neighborhood": "Griffith Park, Los Feliz",
+          "photo": "/images/city-places/los-angeles-attractions-griffith-observatory-terrace-hollywood-sign-view.jpg",
+          "website": "https://griffithobservatory.org",
+          "description": "The 1935 Art Deco Griffith Observatory sits at 350 m above Los Angeles on the south slope of Mount Hollywood, with the iconic Hollywood Sign visible three kilometres west. The entire outdoor terrace, the roof balcony with the Foucault pendulum view, the front lawn and all approach trails accept leashed dogs free of charge (interior galleries are service animals only). One of the most photographed dog-friendly viewpoints in the United States, especially at sunset.",
+          "descriptionFr": "L'observatoire Griffith de 1935, style Art déco, est posé à 350 m au-dessus de Los Angeles sur le versant sud du Mount Hollywood, avec le panneau Hollywood iconique visible à trois kilomètres à l'ouest. Toute la terrasse extérieure, le balcon du toit avec la vue sur le pendule de Foucault, la pelouse avant et tous les sentiers d'accès acceptent les chiens en laisse gratuitement (galeries intérieures réservées aux chiens d'assistance). L'un des points de vue dog-friendly les plus photographiés des États-Unis, surtout au coucher du soleil.",
+          "descriptionEs": "El Observatorio Griffith de 1935, estilo Art Déco, se asienta a 350 m sobre Los Angeles en la ladera sur del Mount Hollywood, con el icónico cartel de Hollywood visible a tres kilómetros al oeste. Toda la terraza exterior, el balcón del techo con la vista del péndulo de Foucault, el césped delantero y todos los senderos de acceso admiten perros con correa gratis (galerías interiores solo para perros de servicio). Uno de los miradores dog-friendly más fotografiados de EE. UU., sobre todo al atardecer.",
+          "descriptionPt": "O Observatório Griffith de 1935, estilo Art Déco, está a 350 m acima de Los Angeles na encosta sul do Mount Hollywood, com o icónico letreiro de Hollywood visível a três quilómetros a oeste. Todo o terraço exterior, a varanda do telhado com a vista do pêndulo de Foucault, o relvado da frente e todos os trilhos de acesso aceitam cães com trela grátis (galerias interiores só para cães de serviço). Um dos miradouros pet-friendly mais fotografados dos EUA, sobretudo ao pôr-do-sol.",
+          "dogPolicy": "Leashed dogs welcome on the entire exterior terrace, lawns and access trails anytime, free of charge. No dogs in the interior galleries or planetarium.",
+          "dogPolicyFr": "Chiens en laisse admis sur toute la terrasse extérieure, les pelouses et les sentiers d'accès à toute heure, gratuitement. Interdits dans les galeries intérieures et le planétarium.",
+          "dogPolicyEs": "Perros con correa admitidos en toda la terraza exterior, los céspedes y los senderos de acceso a toda hora, gratis. No se admiten en las galerías interiores ni en el planetario.",
+          "dogPolicyPt": "Cães com trela admitidos em todo o terraço exterior, relvados e trilhos de acesso a toda a hora, grátis. Proibidos nas galerias interiores e no planetário.",
+          "admissionFee": "Free (planetarium ticket $10, dogs not admitted to that show)",
+          "admissionFeeFr": "Gratuit (billet planétarium 10 $, chiens non admis au spectacle)",
+          "admissionFeeEs": "Gratis (entrada al planetario 10 $, perros no admitidos al show)",
+          "admissionFeePt": "Grátis (bilhete do planetário 10 $, cães não admitidos no espetáculo)",
+          "tip": "Walk up from the Greek Theatre lot via the Charlie Turner Trail (5 km round-trip) instead of driving; the upper lots are full by 09:30 and the trail is the better experience.",
+          "tipFr": "Montez à pied depuis le parking du Greek Theatre via le Charlie Turner Trail (5 km aller-retour) plutôt qu'en voiture ; les parkings hauts sont pleins dès 9h30 et le sentier est meilleur.",
+          "tipEs": "Sube andando desde el parking del Greek Theatre por el Charlie Turner Trail (5 km ida y vuelta) en vez de en coche; los aparcamientos altos se llenan a las 09:30 y el sendero es mejor.",
+          "tipPt": "Suba a pé desde o estacionamento do Greek Theatre pelo Charlie Turner Trail (5 km ida e volta) em vez de carro; os estacionamentos altos enchem às 09:30 e o trilho é melhor.",
+          "googleMapsUrl": "https://maps.google.com/?q=Griffith+Observatory+Los+Angeles"
+        },
+        {
+          "name": "Venice Boardwalk & Abbot Kinney",
+          "neighborhood": "Venice",
+          "photo": "/images/city-places/los-angeles-attractions-venice-boardwalk-abbot-kinney.jpg",
+          "website": "https://www.venicebeach.com",
+          "description": "The 4 km Venice Boardwalk between Washington Boulevard and Rose Avenue is one of LA's signature open-air street scenes: skateboard plaza, Muscle Beach gym, street performers, mural-covered walls, and a constant parade of dogs on leash from breakfast through midnight. Six blocks inland, Abbot Kinney Boulevard runs a kilometre of independent design shops, dog-friendly cafés and patio restaurants. The sand itself is off-limits to dogs; the boardwalk is the dog highway.",
+          "descriptionFr": "Les 4 km du Venice Boardwalk entre Washington Boulevard et Rose Avenue forment l'une des scènes de rue à ciel ouvert emblématiques de LA : plaza de skate, gym Muscle Beach, performeurs de rue, murs couverts de fresques, et un défilé permanent de chiens en laisse du petit-déjeuner jusque tard le soir. Six blocs en retrait, Abbot Kinney Boulevard aligne un kilomètre de boutiques de design indépendantes, de cafés pet-friendly et de terrasses. Le sable est interdit aux chiens ; le boardwalk est l'autoroute canine.",
+          "descriptionEs": "Los 4 km del Venice Boardwalk entre Washington Boulevard y Rose Avenue son una de las escenas de calle al aire libre emblemáticas de LA: plaza de skate, gimnasio Muscle Beach, artistas callejeros, paredes con murales y un desfile constante de perros con correa desde el desayuno hasta medianoche. Seis manzanas tierra adentro, Abbot Kinney Boulevard alinea un kilómetro de tiendas de diseño independientes, cafés pet-friendly y terrazas de restaurante. La arena está prohibida a los perros; el boardwalk es la autopista canina.",
+          "descriptionPt": "Os 4 km do Venice Boardwalk entre Washington Boulevard e Rose Avenue são uma das cenas de rua ao ar livre emblemáticas de LA: praça de skate, ginásio Muscle Beach, artistas de rua, paredes cobertas de murais e um desfile constante de cães com trela do pequeno-almoço até à meia-noite. Seis quarteirões para o interior, Abbot Kinney Boulevard alinha um quilómetro de lojas de design independentes, cafés pet-friendly e esplanadas de restaurante. A areia está proibida a cães; o boardwalk é a autoestrada canina.",
+          "dogPolicy": "Leashed dogs welcome on the entire 4 km boardwalk and on Abbot Kinney Boulevard sidewalks and patios. No dogs on the sand.",
+          "dogPolicyFr": "Chiens en laisse admis sur tout le boardwalk de 4 km et sur les trottoirs et terrasses d'Abbot Kinney Boulevard. Interdits sur le sable.",
+          "dogPolicyEs": "Perros con correa admitidos en todo el boardwalk de 4 km y en las aceras y terrazas de Abbot Kinney Boulevard. No se admiten en la arena.",
+          "dogPolicyPt": "Cães com trela admitidos em todo o boardwalk de 4 km e nos passeios e esplanadas de Abbot Kinney Boulevard. Proibidos na areia.",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "admissionFeePt": "Grátis",
+          "tip": "Park at the Rose Avenue lot ($2/hour) and walk south; weekends from 11:00 to 17:00 are the most crowded, mornings are calmer for skittish dogs.",
+          "tipFr": "Stationnez sur le parking de Rose Avenue (2 $/heure) et marchez vers le sud ; le week-end de 11h à 17h est le plus bondé, le matin est plus calme pour les chiens timides.",
+          "tipEs": "Aparca en el parking de Rose Avenue (2 $/hora) y camina al sur; los fines de semana de 11:00 a 17:00 son los más concurridos, la mañana es más tranquila para perros tímidos.",
+          "tipPt": "Estacione no parque de Rose Avenue (2 $/hora) e ande para sul; os fins-de-semana das 11:00 às 17:00 são os mais cheios, a manhã é mais calma para cães tímidos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Venice+Boardwalk+Venice+Beach"
+        },
+        {
+          "name": "Getty Center exterior gardens",
+          "neighborhood": "Brentwood",
+          "photo": "/images/city-places/los-angeles-attractions-getty-center-exterior-gardens.jpg",
+          "website": "https://www.getty.edu/visit/center/",
+          "description": "Richard Meier's travertine campus on a Brentwood ridgeline 270 m above the 405 freeway, with Robert Irwin's Central Garden, fountain courts and panoramic terraces from downtown to the Pacific. The exterior gardens, the famous tram approach and the entry plaza accept leashed dogs free of charge; only the interior galleries are off-limits to non-service dogs. Admission is free but timed-entry parking is $25. A rare big-museum experience LA visitors can share with a dog.",
+          "descriptionFr": "Le campus de travertin de Richard Meier sur une crête de Brentwood à 270 m au-dessus de l'autoroute 405, avec le Central Garden de Robert Irwin, les cours de fontaines et des terrasses panoramiques de downtown jusqu'au Pacifique. Les jardins extérieurs, le célèbre tram d'accès et l'esplanade d'entrée acceptent les chiens en laisse gratuitement ; seules les galeries intérieures sont interdites aux chiens non d'assistance. Entrée gratuite mais stationnement horodaté à 25 $. Une rare expérience grand musée que les visiteurs de LA peuvent partager avec leur chien.",
+          "descriptionEs": "El campus de travertino de Richard Meier sobre una cresta de Brentwood a 270 m sobre la autopista 405, con el Central Garden de Robert Irwin, los patios de fuentes y terrazas panorámicas desde downtown hasta el Pacífico. Los jardines exteriores, el famoso tranvía de acceso y la explanada de entrada admiten perros con correa gratis; solo las galerías interiores están prohibidas a los perros que no sean de servicio. Entrada gratis pero aparcamiento con cita horaria a 25 $. Una rara experiencia de gran museo que los visitantes de LA pueden compartir con su perro.",
+          "descriptionPt": "O campus de travertino de Richard Meier sobre uma crista de Brentwood a 270 m acima da autoestrada 405, com o Central Garden de Robert Irwin, os pátios de fontes e os terraços panorâmicos do downtown até ao Pacífico. Os jardins exteriores, o famoso elétrico de acesso e a esplanada de entrada admitem cães com trela grátis; só as galerias interiores estão proibidas a cães que não sejam de serviço. Entrada grátis mas estacionamento com hora marcada a 25 $. Uma rara experiência de grande museu que os visitantes de LA podem partilhar com o seu cão.",
+          "dogPolicy": "Leashed dogs welcome on the tram, entry plaza, Central Garden and all exterior terraces. No dogs in the interior galleries or auditorium.",
+          "dogPolicyFr": "Chiens en laisse admis dans le tram, sur l'esplanade d'entrée, dans le Central Garden et sur toutes les terrasses extérieures. Interdits dans les galeries intérieures et l'auditorium.",
+          "dogPolicyEs": "Perros con correa admitidos en el tranvía, en la explanada de entrada, en el Central Garden y en todas las terrazas exteriores. No se admiten en las galerías interiores ni en el auditorio.",
+          "dogPolicyPt": "Cães com trela admitidos no elétrico, na esplanada de entrada, no Central Garden e em todos os terraços exteriores. Proibidos nas galerias interiores e no auditório.",
+          "admissionFee": "Free (parking $25 timed)",
+          "admissionFeeFr": "Gratuit (parking 25 $ horodaté)",
+          "admissionFeeEs": "Gratis (aparcamiento 25 $ con hora)",
+          "admissionFeePt": "Grátis (estacionamento 25 $ com hora)",
+          "tip": "Reserve the parking slot online for late afternoon (15:00 or later); the tram queue is shorter and the gardens golden at sunset.",
+          "tipFr": "Réservez le créneau parking en ligne pour la fin d'après-midi (15h ou plus tard) ; la file du tram est plus courte et les jardins sont dorés au coucher du soleil.",
+          "tipEs": "Reserva el hueco de aparcamiento en línea para la última hora de la tarde (15:00 o más tarde); la cola del tranvía es más corta y los jardines están dorados al atardecer.",
+          "tipPt": "Reserve o lugar de estacionamento online para fim de tarde (15:00 ou mais tarde); a fila do elétrico é mais curta e os jardins ficam dourados ao pôr-do-sol.",
+          "googleMapsUrl": "https://maps.google.com/?q=Getty+Center+Los+Angeles"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog to Universal Studios or Disneyland?",
+          "a": "No, neither Universal Studios Hollywood nor Disneyland Anaheim admit non-service pets inside the parks. Both run on-site kennels for the day (Universal $20/day, Disneyland $35/day) where you must visit, feed and walk your dog yourself between rides. Service animals are welcome on most rides except those with high speed, drops or motion. The Getty Center exterior gardens and the Griffith Observatory terrace are the two big-name attractions you can fully share with a dog."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à Universal Studios ou Disneyland ?",
+          "a": "Non, ni Universal Studios Hollywood ni Disneyland Anaheim n'admettent les animaux non d'assistance dans les parcs. Tous deux disposent de chenils sur site à la journée (Universal 20 $/jour, Disneyland 35 $/jour) où vous devez vous-même venir nourrir et promener votre chien entre les attractions. Les chiens d'assistance sont admis sur la plupart des attractions sauf celles à grande vitesse, chutes ou mouvements. Les jardins extérieurs du Getty Center et la terrasse du Griffith Observatory sont les deux grandes attractions que vous pouvez pleinement partager avec un chien."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo entrar con mi perro a Universal Studios o Disneyland?",
+          "a": "No, ni Universal Studios Hollywood ni Disneyland Anaheim admiten mascotas que no sean de servicio dentro de los parques. Ambos tienen residencias caninas en planta para el día (Universal 20 $/día, Disneyland 35 $/día) donde tienes que ir tú mismo a dar de comer y pasear al perro entre atracciones. Los perros de servicio se admiten en la mayoría de atracciones salvo las de alta velocidad, caídas o movimientos. Los jardines exteriores del Getty Center y la terraza del Griffith Observatory son las dos grandes atracciones que puedes compartir plenamente con un perro."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso entrar com o meu cão na Universal Studios ou Disneyland?",
+          "a": "Não, nem a Universal Studios Hollywood nem a Disneyland Anaheim admitem animais que não sejam de serviço dentro dos parques. Ambos têm canis no local para o dia (Universal 20 $/dia, Disneyland 35 $/dia) onde tem de ir você mesmo dar de comer e passear ao cão entre atrações. Os cães de serviço são admitidos na maioria das atrações exceto as de alta velocidade, quedas ou movimentos. Os jardins exteriores do Getty Center e o terraço do Griffith Observatory são as duas grandes atrações que pode partilhar plenamente com um cão."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting and Dog-Walking in Los Angeles",
+      "titleFr": "Pet-sitting et promeneurs de chiens à Los Angeles",
+      "titleEs": "Cuidadores y paseadores de perros en Los Angeles",
+      "titlePt": "Pet-sitting e passeadores de cães em Los Angeles",
+      "introEn": "Los Angeles has the deepest pool of professional dog-walkers and pet-sitters in the western United States. Rover and Wag dominate the on-demand app side, with thousands of sitters across LA County; rates run $25-40 per walk and $60-130 per overnight stay. Several LA-specific premium agencies (The Dog Father LA, Dog Days Pet Care, LA Dog Works) offer fully insured, employee-based service for guests who prefer a vetted operator over a marketplace platform. Many sitters are bilingual English-Spanish.",
+      "introFr": "Los Angeles dispose du plus grand vivier de pet-sitters et promeneurs professionnels de l'ouest des États-Unis. Rover et Wag dominent le créneau des apps à la demande, avec des milliers de sitters dans tout LA County ; comptez 25 à 40 $ la promenade et 60 à 130 $ la nuit. Plusieurs agences premium spécifiques à LA (The Dog Father LA, Dog Days Pet Care, LA Dog Works) proposent un service entièrement assuré avec employés salariés pour les voyageurs préférant un opérateur vérifié à une marketplace. De nombreux sitters sont bilingues anglais-espagnol.",
+      "introEs": "Los Angeles tiene el vivero más amplio de paseadores y cuidadores profesionales del oeste de EE. UU. Rover y Wag dominan el segmento de apps a demanda, con miles de cuidadores en todo LA County; las tarifas van de 25 a 40 $ por paseo y de 60 a 130 $ por noche. Varias agencias premium específicas de LA (The Dog Father LA, Dog Days Pet Care, LA Dog Works) ofrecen servicio totalmente asegurado con empleados en plantilla para viajeros que prefieren un operador verificado a un marketplace. Muchos cuidadores son bilingües inglés-español.",
+      "introPt": "Los Angeles tem o maior leque de passeadores e cuidadores profissionais do oeste dos EUA. Rover e Wag dominam o segmento de apps a pedido, com milhares de cuidadores em todo LA County; as tarifas vão de 25 a 40 $ por passeio e de 60 a 130 $ por noite. Várias agências premium específicas de LA (The Dog Father LA, Dog Days Pet Care, LA Dog Works) oferecem serviço totalmente seguro com empregados em quadro para viajantes que preferem um operador verificado a um marketplace. Muitos cuidadores são bilingues inglês-espanhol.",
+      "places": [
+        {
+          "name": "The Dog Father LA",
+          "website": "https://thedogfatherla.com",
+          "description": "A boutique LA dog-walking and pet-sitting service operating since 2008, employee-based, fully insured and bonded, with coverage across the Westside (Santa Monica, Venice, Brentwood, Westwood), Hollywood, West Hollywood and the eastside (Silver Lake, Los Feliz, Echo Park). Specializes in hotel-stay arrangements for international travellers: walkers come directly to your room or meet at the lobby with vehicle if needed.",
+          "descriptionFr": "Un service boutique de promenade et pet-sitting à LA fondé en 2008, employés salariés, entièrement assuré, couvrant le Westside (Santa Monica, Venice, Brentwood, Westwood), Hollywood, West Hollywood et l'eastside (Silver Lake, Los Feliz, Echo Park). Spécialisé dans les prestations hôtelières pour voyageurs internationaux : les promeneurs viennent directement à votre chambre ou se présentent au lobby avec véhicule si besoin.",
+          "descriptionEs": "Servicio boutique de paseo y cuidado de perros en LA fundado en 2008, con empleados en plantilla, totalmente asegurado, con cobertura en el Westside (Santa Monica, Venice, Brentwood, Westwood), Hollywood, West Hollywood y el eastside (Silver Lake, Los Feliz, Echo Park). Especializado en clientes de hotel internacionales: los paseadores van directamente a tu habitación o quedan en el lobby con vehículo si hace falta.",
+          "descriptionPt": "Serviço boutique de passeio e cuidado de cães em LA fundado em 2008, com empregados em quadro, totalmente segurado, com cobertura no Westside (Santa Monica, Venice, Brentwood, Westwood), Hollywood, West Hollywood e no eastside (Silver Lake, Los Feliz, Echo Park). Especializado em clientes de hotel internacionais: os passeadores vão diretamente ao seu quarto ou encontram-se no lobby com veículo se necessário.",
+          "serviceType": "Dog walking, in-home pet-sitting, hotel-room visits",
+          "serviceTypeFr": "Promenade de chiens, garde à domicile, visites en chambre d'hôtel",
+          "serviceTypeEs": "Paseos, cuidados a domicilio, visitas en habitación de hotel",
+          "serviceTypePt": "Passeios, cuidados ao domicílio, visitas no quarto de hotel",
+          "pricePerDay": "$30-$50 per walk (30 min), $90-$140 overnight",
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "tip": "Book at least 48-72 hours ahead for first-time clients; weekends spring break (Mar) and summer (Jul-Aug) fill up early.",
+          "tipFr": "Réservez 48 à 72 h à l'avance pour une première fois ; les week-ends de spring break (mars) et d'été (juil-août) se remplissent tôt.",
+          "tipEs": "Reserva con 48-72 h de antelación si es tu primera vez; los fines de semana de spring break (mar) y verano (jul-ago) se llenan pronto.",
+          "tipPt": "Reserve com 48 a 72 h de antecedência da primeira vez; os fins-de-semana de spring break (mar) e verão (jul-ago) enchem cedo."
+        },
+        {
+          "name": "Rover (Los Angeles sitters)",
+          "website": "https://www.rover.com/search/?location=Los+Angeles%2C+CA",
+          "description": "Rover is the largest US peer-to-peer platform for dog walkers and pet sitters, with thousands of verified sitters across LA County. You can book hour-long walks, drop-ins, daycare or overnight boarding. Read sitter reviews carefully - quality varies; the top 5-star sitters in Santa Monica, West Hollywood and Silver Lake often book out 1-2 weeks ahead in high season.",
+          "descriptionFr": "Rover est la plus grande plateforme américaine peer-to-peer de promeneurs et pet-sitters, avec des milliers de sitters vérifiés dans tout LA County. Réservez une promenade d'une heure, des visites, de la garderie ou de la pension de nuit. Lisez attentivement les avis - la qualité varie ; les meilleurs sitters 5 étoiles à Santa Monica, West Hollywood et Silver Lake sont souvent complets 1 à 2 semaines à l'avance en haute saison.",
+          "descriptionEs": "Rover es la mayor plataforma peer-to-peer de EE. UU. para paseadores y cuidadores, con miles de cuidadores verificados en todo LA County. Puedes reservar paseos de una hora, visitas, guardería diurna o pernoctación. Lee con atención las reseñas - la calidad varía; los mejores cuidadores 5 estrellas en Santa Monica, West Hollywood y Silver Lake suelen reservarse con 1-2 semanas de antelación en temporada alta.",
+          "descriptionPt": "Rover é a maior plataforma peer-to-peer dos EUA para passeadores e cuidadores, com milhares de cuidadores verificados em todo LA County. Pode reservar passeios de uma hora, visitas, creche ou estadia noturna. Leia com atenção as avaliações - a qualidade varia; os melhores cuidadores 5 estrelas em Santa Monica, West Hollywood e Silver Lake costumam estar reservados com 1-2 semanas de antecedência em época alta.",
+          "serviceType": "Walks, drop-ins, daycare, boarding (marketplace)",
+          "serviceTypeFr": "Promenades, visites, garderie, pension (marketplace)",
+          "serviceTypeEs": "Paseos, visitas, guardería, pernoctación (marketplace)",
+          "serviceTypePt": "Passeios, visitas, creche, estadia noturna (marketplace)",
+          "pricePerDay": "$25-$40 walk, $45-$85 daycare, $60-$130 overnight",
+          "languages": [
+            "English",
+            "Spanish",
+            "Korean"
+          ],
+          "tip": "Filter by 'Star Sitter' status and read at least 5 recent reviews; the Korean-speaking sitter pool in Koreatown is unusually strong for travellers from Seoul.",
+          "tipFr": "Filtrez par statut « Star Sitter » et lisez au moins 5 avis récents ; le vivier de sitters coréanophones à Koreatown est particulièrement fort pour les voyageurs venant de Séoul.",
+          "tipEs": "Filtra por estatus 'Star Sitter' y lee al menos 5 reseñas recientes; el vivero de cuidadores coreanoparlantes en Koreatown es muy fuerte para viajeros que vienen de Seúl.",
+          "tipPt": "Filtre por estatuto 'Star Sitter' e leia pelo menos 5 avaliações recentes; o conjunto de cuidadores coreanos em Koreatown é particularmente forte para viajantes vindos de Seul."
+        },
+        {
+          "name": "Dog Days Pet Care LA",
+          "website": "https://www.dogdayspetcare.com",
+          "description": "A West LA dog-walking and pet-sitting company operating since 2010, employee-based and fully insured, focused on the Westside (Santa Monica, Venice, Brentwood, Mar Vista, Culver City, Marina del Rey). Offers structured 30 or 60 minute neighbourhood walks, mid-day check-ins for hotel guests and overnight sitting in their own home or yours.",
+          "descriptionFr": "Une société de promenade et pet-sitting basée à West LA, fondée en 2010, employés salariés et entièrement assurée, centrée sur le Westside (Santa Monica, Venice, Brentwood, Mar Vista, Culver City, Marina del Rey). Propose des promenades structurées de 30 ou 60 minutes, des visites en milieu de journée pour les clients d'hôtel et de la garde de nuit chez eux ou chez vous.",
+          "descriptionEs": "Empresa de paseo y cuidado de perros con sede en West LA, fundada en 2010, con empleados en plantilla y totalmente asegurada, centrada en el Westside (Santa Monica, Venice, Brentwood, Mar Vista, Culver City, Marina del Rey). Ofrece paseos estructurados de 30 o 60 minutos, visitas a mediodía para clientes de hotel y cuidado nocturno en su casa o en la tuya.",
+          "descriptionPt": "Empresa de passeio e cuidado de cães com sede em West LA, fundada em 2010, com empregados em quadro e totalmente segurada, centrada no Westside (Santa Monica, Venice, Brentwood, Mar Vista, Culver City, Marina del Rey). Oferece passeios estruturados de 30 ou 60 minutos, visitas ao meio-dia para clientes de hotel e cuidado noturno em casa deles ou sua.",
+          "serviceType": "Walks, drop-ins, in-home overnight sitting",
+          "serviceTypeFr": "Promenades, visites, garde de nuit à domicile",
+          "serviceTypeEs": "Paseos, visitas, cuidado nocturno a domicilio",
+          "serviceTypePt": "Passeios, visitas, cuidado noturno ao domicílio",
+          "pricePerDay": "$28-$45 walk, $35-$50 mid-day check-in, $85-$120 overnight",
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "tip": "Westside-only coverage; for Hollywood or eastside neighbourhoods, use The Dog Father LA or Rover instead.",
+          "tipFr": "Couverture Westside uniquement ; pour Hollywood ou les quartiers est, prenez plutôt The Dog Father LA ou Rover.",
+          "tipEs": "Cobertura solo Westside; para Hollywood o barrios del este, mejor The Dog Father LA o Rover.",
+          "tipPt": "Cobertura só Westside; para Hollywood ou bairros do leste, melhor The Dog Father LA ou Rover."
+        }
+      ]
+    }
+  }
+}

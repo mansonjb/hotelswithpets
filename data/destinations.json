@@ -8712,6 +8712,81 @@
     "tiqetsId": "67458"
   },
   {
+    "slug": "los-angeles",
+    "name": "Los Angeles",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/los-angeles.jpg",
+    "intro": "Los Angeles is California's Pacific entertainment capital, where Griffith Park's 1700-hectare urban wilderness with the Observatory terrace, Runyon Canyon's off-leash Hollywood Hills trails, the Silver Lake Reservoir Dog Park, the Venice Boardwalk and Abbot Kinney, the Santa Monica Pier and the Getty Center exterior gardens anchor a year-round Mediterranean outdoor lifestyle uniquely friendly to dogs. Rosie's Dog Beach in Long Beach is the only legal off-leash beach in LA County; Leo Carrillo in Malibu (leashed) and Huntington Dog Beach in Orange County (off-leash) sit within an hour. LA Metro Rail and Metro Bus admit small pets in carriers, the Amtrak Pacific Surfliner accepts pets up to 20 lb along the coast, LAX is a CDC-approved dog-import gateway with eight indoor pet relief areas, and 24/7 emergency vet care is dense across the metro. Peak season runs October to May; June to September brings 50-55 °C asphalt heat in the inland valleys that limits midday walking.",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "weather": {
+      "jan": {
+        "temp": 15,
+        "desc": "Mild & dry",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 15,
+        "desc": "Mild & dry",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 17,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & coastal fog",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild & dry",
+        "icon": "☀️"
+      },
+      "dec": {
+        "temp": 15,
+        "desc": "Mild & dry",
+        "icon": "☀️"
+      }
+    },
+    "iata": "LAX"
+  },
+  {
     "slug": "lucca",
     "name": "Lucca",
     "country": "Italy",

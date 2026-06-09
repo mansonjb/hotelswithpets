@@ -601,6 +601,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Hyde Park\'s off-leash areas, Hampstead Heath, and the dog-friendly Thames riverside path',
       area: 'Islington, Notting Hill, and Bermondsey',
     },
+    'los-angeles': {
+      personality: `California's Pacific entertainment capital, with a Mediterranean year-round outdoor lifestyle, the 1700-hectare Griffith Park urban wilderness with the Art Deco Observatory terrace and Hollywood Sign view, Runyon Canyon's marked off-leash sections in the Hollywood Hills, the Silver Lake Reservoir fenced dog park, AB 1681 patio rules at thousands of West Hollywood, Venice, Santa Monica and Silver Lake restaurants, Rosie's Dog Beach in Long Beach as the only off-leash beach in LA County, the Amtrak Pacific Surfliner accepting pets up to 20 lb along the coast, and 24/7 emergency vet care across the metro`,
+      highlight: `the Griffith Observatory terrace with the Hollywood Sign view, the 4.7 km Runyon Canyon off-leash loop above Hollywood, the Venice Boardwalk and Abbot Kinney design strip, the Getty Center exterior travertine gardens in Brentwood, Rosie's Dog Beach in Long Beach (LA County's only off-leash beach), and the Silver Lake Reservoir Dog Park`,
+      area: `West Hollywood and Hollywood around Runyon Canyon and the Walk of Fame, the Westside (Santa Monica, Venice, Brentwood, Westwood) along the Pacific, Downtown LA and the Arts District around Bunker Hill, Silver Lake and Echo Park on the eastside reservoirs, Los Feliz at the Griffith Park gate, and Long Beach to the south for Rosie's Dog Beach`,
+    },
     lucca: {
       personality: `Tuscany's perfectly preserved walled city, where 4.2 km of Renaissance ramparts (1545-1650) form a flat grassy dog-walking loop on top of the walls, arguably Italy's most dog-friendly major town`,
       highlight: 'the 4.2 km wall walk, the Piazza dell\'Anfiteatro oval and the Serchio riverside dog-bathing zone',
@@ -1669,6 +1674,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les zones sans laisse de Hyde Park, Hampstead Heath et le sentier dog-friendly le long de la Tamise',
       area: 'Islington, Notting Hill et Bermondsey',
     },
+    'los-angeles': {
+      personality: `la capitale pacifique du divertissement en Californie, avec un mode de vie méditerranéen extérieur toute l'année, les 1 700 hectares de nature urbaine de Griffith Park et la terrasse Art déco de l'observatoire avec vue sur le Hollywood Sign, les sections sans laisse balisées de Runyon Canyon dans les Hollywood Hills, l'enclos canin clôturé du Silver Lake Reservoir, les règles de terrasse AB 1681 dans des milliers d'adresses à West Hollywood, Venice, Santa Monica et Silver Lake, Rosie's Dog Beach à Long Beach comme unique plage off-leash du comté de LA, le train Amtrak Pacific Surfliner qui accepte les animaux jusqu'à 9 kg le long de la côte, et des urgences vétérinaires 24h/24 sur toute la métropole`,
+      highlight: `la terrasse du Griffith Observatory avec la vue sur le Hollywood Sign, la boucle off-leash de 4,7 km de Runyon Canyon au-dessus de Hollywood, le Venice Boardwalk et l'avenue design d'Abbot Kinney, les jardins extérieurs en travertin du Getty Center à Brentwood, Rosie's Dog Beach à Long Beach (seule plage off-leash du comté de LA), et le Silver Lake Reservoir Dog Park`,
+      area: `West Hollywood et Hollywood autour de Runyon Canyon et du Walk of Fame, le Westside (Santa Monica, Venice, Brentwood, Westwood) le long du Pacifique, Downtown LA et le Arts District autour de Bunker Hill, Silver Lake et Echo Park sur les réservoirs est, Los Feliz à l'entrée de Griffith Park, et Long Beach au sud pour Rosie's Dog Beach`,
+    },
     lucca: {
       personality: `la ville fortifiée toscane parfaitement préservée, où 4,2 km de remparts Renaissance (1545-1650) forment une boucle de promenade canine plate et herbeuse au sommet des murailles, sans doute la grande ville italienne la plus dog-friendly`,
       highlight: 'la boucle de 4,2 km sur les murailles, l\'ovale de la Piazza dell\'Anfiteatro et la zone canine du Serchio',
@@ -2736,6 +2746,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'las zonas sin correa de Hyde Park, Hampstead Heath y el sendero dog-friendly a orillas del Támesis',
       area: 'Islington, Notting Hill y Bermondsey',
     },
+    'los-angeles': {
+      personality: `la capital pacífica del entretenimiento de California, con un estilo de vida mediterráneo al aire libre todo el año, las 1 700 hectáreas de naturaleza urbana de Griffith Park y la terraza Art Déco del observatorio con vista al Hollywood Sign, los tramos sin correa señalizados de Runyon Canyon en los Hollywood Hills, el recinto canino vallado del Silver Lake Reservoir, las reglas de terraza AB 1681 en miles de locales de West Hollywood, Venice, Santa Monica y Silver Lake, Rosie's Dog Beach en Long Beach como única playa off-leash del condado de LA, el tren Amtrak Pacific Surfliner que admite mascotas hasta 9 kg por la costa, y urgencias veterinarias 24/7 en toda la metrópolis`,
+      highlight: `la terraza del Griffith Observatory con vista al Hollywood Sign, el bucle off-leash de 4,7 km de Runyon Canyon sobre Hollywood, el Venice Boardwalk y la avenida de diseño Abbot Kinney, los jardines exteriores de travertino del Getty Center en Brentwood, Rosie's Dog Beach en Long Beach (única playa off-leash del condado de LA), y el Silver Lake Reservoir Dog Park`,
+      area: `West Hollywood y Hollywood en torno a Runyon Canyon y el Walk of Fame, el Westside (Santa Monica, Venice, Brentwood, Westwood) a lo largo del Pacífico, Downtown LA y el Arts District en torno a Bunker Hill, Silver Lake y Echo Park sobre los embalses del este, Los Feliz en la entrada de Griffith Park, y Long Beach al sur para Rosie's Dog Beach`,
+    },
     lucca: {
       personality: 'la ciudad amurallada toscana perfectamente conservada, donde 4,2 km de murallas renacentistas (1545-1650) forman un circuito de paseo canino llano y con hierba sobre las murallas, sin duda la gran ciudad italiana más pet-friendly',
       highlight: 'el circuito de 4,2 km sobre las murallas, el óvalo de la Piazza dell\'Anfiteatro y la zona canina del Serchio',
@@ -3802,6 +3817,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das capitales mais naturalmente acogedoras com animais de Europa, onde os cães acompanhan aos seus duenhos en pubs, cafés e a través de vastos parques reales durante o ano inteiro',
       highlight: 'as zonas sem trela de Hyde Park, Hampstead Heath e o trilho pet-friendly a margens do Támesis',
       area: 'Islington, Notting Hill e Bermondsey',
+    },
+    'los-angeles': {
+      personality: `a capital pacífica do entretenimento na Califórnia, com um estilo de vida mediterrânico ao ar livre o ano inteiro, os 1 700 hectares de natureza urbana de Griffith Park e o terraço Art Déco do observatório com vista para o Hollywood Sign, os troços sem trela sinalizados de Runyon Canyon nos Hollywood Hills, o recinto canino vedado do Silver Lake Reservoir, as regras de esplanada AB 1681 em milhares de locais em West Hollywood, Venice, Santa Monica e Silver Lake, Rosie's Dog Beach em Long Beach como única praia off-leash do condado de LA, o comboio Amtrak Pacific Surfliner que admite animais até 9 kg pela costa, e urgências veterinárias 24/7 em toda a metrópole`,
+      highlight: `o terraço do Griffith Observatory com vista para o Hollywood Sign, o circuito off-leash de 4,7 km de Runyon Canyon sobre Hollywood, o Venice Boardwalk e a avenida de design Abbot Kinney, os jardins exteriores de travertino do Getty Center em Brentwood, Rosie's Dog Beach em Long Beach (única praia off-leash do condado de LA), e o Silver Lake Reservoir Dog Park`,
+      area: `West Hollywood e Hollywood em torno de Runyon Canyon e do Walk of Fame, o Westside (Santa Monica, Venice, Brentwood, Westwood) ao longo do Pacífico, Downtown LA e o Arts District em torno de Bunker Hill, Silver Lake e Echo Park sobre os reservatórios leste, Los Feliz à entrada de Griffith Park, e Long Beach a sul para Rosie's Dog Beach`,
     },
     lucca: {
       personality: 'a cidade amurallada toscana perfeitamente conservada, onde 4,2 km de muralhas renacentistas (1545-1650) forman um circuito de passeio canino llano e com hierba sobre as muralhas, sem duda a gran cidade italiana mais pet-friendly',

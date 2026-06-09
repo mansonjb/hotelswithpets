@@ -1052,6 +1052,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Drauradweg towpath along the river, the Hundebadeplätze at Drobollach on the Faaker See and Sattendorf on the Ossiacher See, and the Villacher Alpenstraße panorama road climbing the Dobratsch`,
       area: `the pedestrian Altstadt around the Hauptplatz, the residential Lind district near Tierklinik Villach, and the lake shores of Drobollach and Sattendorf`,
     },
+    'villefranche-sur-mer': {
+      personality: `a 5,000-resident Côte d'Azur harbour town between Nice and Monaco, built into a steep ochre amphitheatre above one of the deepest natural harbours of the western Mediterranean, with a working Port de la Santé, the 13th-century covered Rue Obscure, the Citadelle Saint-Elme gardens and the Chapelle Saint-Pierre des Pêcheurs frescoed by Jean Cocteau in 1957`,
+      highlight: `the Port de la Santé quay and Chapelle Saint-Pierre, the Vieille Ville and the medieval Rue Obscure, the 1 km Plage des Marinières (the longest beach on the Côte d'Azur), and the Cap Ferrat Sentier du Littoral around Pointe Saint-Hospice and Plage de Passable`,
+      area: `the Port de la Santé and Vieille Ville, the Citadelle and Port de la Darse, the Plage des Marinières and SNCF station corridor, and the neighbouring Cap Ferrat peninsula`,
+    },
     vilnius: {
       personality: 'the EU\'s greenest capital and one of its most dog-welcoming, where pets travel free on every bus and nearly 500 pet-friendly venues sit inside the UNESCO Old Town',
       highlight: 'Vingis Park forest, Bernardinai Garden, and the Three Crosses hill',
@@ -2133,6 +2138,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `ville fluviale carinthienne de 62 000 habitants sur la Drave, avec une Hauptplatz Renaissance, deux des lacs alpins les plus chauds (Faaker See et Ossiacher See) à moins de 10 km, le parc naturel du Dobratsch en surplomb et les frontières italienne et slovène à 30-40 minutes`,
       highlight: `le halage de la Drauradweg le long de la rivière, les Hundebadeplätze de Drobollach sur le Faaker See et de Sattendorf sur l'Ossiacher See, et la Villacher Alpenstraße panoramique qui grimpe au Dobratsch`,
       area: `l'Altstadt piétonne autour de la Hauptplatz, le quartier résidentiel de Lind près de la Tierklinik Villach, et les rives lacustres de Drobollach et Sattendorf`,
+    },
+    'villefranche-sur-mer': {
+      personality: `une ville portuaire de la Côte d'Azur de 5 000 habitants entre Nice et Monaco, bâtie dans un raide amphithéâtre ocre au-dessus de l'une des rades naturelles les plus profondes de la Méditerranée occidentale, avec un Port de la Santé en activité, la Rue Obscure couverte du XIIIᵉ siècle, les jardins de la Citadelle Saint-Elme et la Chapelle Saint-Pierre des Pêcheurs ornée de fresques de Jean Cocteau en 1957`,
+      highlight: `le quai du Port de la Santé et la Chapelle Saint-Pierre, la Vieille Ville et la Rue Obscure médiévale, le kilomètre de la Plage des Marinières (la plus longue plage de la Côte d'Azur), et le Sentier du Littoral du Cap Ferrat autour de la Pointe Saint-Hospice et de la Plage de Passable`,
+      area: `le Port de la Santé et la Vieille Ville, la Citadelle et le Port de la Darse, la Plage des Marinières et le corridor de la gare SNCF, et la presqu'île voisine du Cap Ferrat`,
     },
     vilnius: {
       personality: 'la capitale la plus verte de l\'UE et l\'une des plus accueillantes pour les chiens, où les animaux voyagent gratuitement dans tous les bus et près de 500 adresses pet-friendly se concentrent dans la vieille ville UNESCO',
@@ -3216,6 +3226,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la sirga del Drauradweg a lo largo del río, las Hundebadeplätze de Drobollach en el Faaker See y de Sattendorf en el Ossiacher See, y la Villacher Alpenstraße panorámica que sube al Dobratsch`,
       area: `el Altstadt peatonal en torno a la Hauptplatz, el barrio residencial de Lind cerca de la Tierklinik Villach, y las orillas lacustres de Drobollach y Sattendorf`,
     },
+    'villefranche-sur-mer': {
+      personality: `una ciudad portuaria de la Costa Azul de 5.000 habitantes entre Niza y Mónaco, construida en un escarpado anfiteatro ocre sobre una de las radas naturales más profundas del Mediterráneo occidental, con un Port de la Santé en actividad, la Rue Obscure cubierta del siglo XIII, los jardines de la Ciudadela Saint-Elme y la Chapelle Saint-Pierre des Pêcheurs decorada con frescos de Jean Cocteau en 1957`,
+      highlight: `el muelle del Port de la Santé y la Chapelle Saint-Pierre, la Vieille Ville y la Rue Obscure medieval, el kilómetro de la Plage des Marinières (la playa más larga de la Costa Azul), y el Sentier du Littoral del Cap Ferrat alrededor de la Pointe Saint-Hospice y la Plage de Passable`,
+      area: `el Port de la Santé y la Vieille Ville, la Ciudadela y el Port de la Darse, la Plage des Marinières y el corredor de la estación SNCF, y la vecina península del Cap Ferrat`,
+    },
     vilnius: {
       personality: 'la capital más verde de la UE y una de las más acogedoras con perros, donde las mascotas viajan gratis en todos los autobuses y casi 500 direcciones pet-friendly se concentran en el casco antiguo UNESCO',
       highlight: 'el bosque de Vingis, el Bernardine Garden y la colina de las Tres Cruces',
@@ -4297,6 +4312,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `cidade fluvial caríntia de 62.000 habitantes nas margens do Drava, com uma Hauptplatz renascentista, dois dos lagos alpinos mais quentes (Faaker See e Ossiacher See) a menos de 10 km, o parque natural Dobratsch no alto e as fronteiras italiana e eslovena a 30-40 minutos`,
       highlight: `o caminho de sirga do Drauradweg ao longo do rio, as Hundebadeplätze de Drobollach no Faaker See e de Sattendorf no Ossiacher See, e a Villacher Alpenstraße panorâmica que sobe ao Dobratsch`,
       area: `o Altstadt pedonal em redor da Hauptplatz, o bairro residencial de Lind perto da Tierklinik Villach, e as margens lacustres de Drobollach e Sattendorf`,
+    },
+    'villefranche-sur-mer': {
+      personality: `uma cidade portuária da Côte d'Azur de 5 000 habitantes entre Nice e Mónaco, construída num íngreme anfiteatro ocre acima de uma das radas naturais mais profundas do Mediterrâneo ocidental, com um Port de la Santé em atividade, a Rue Obscure coberta do século XIII, os jardins da Cidadela Saint-Elme e a Chapelle Saint-Pierre des Pêcheurs decorada com frescos de Jean Cocteau em 1957`,
+      highlight: `o cais do Port de la Santé e a Chapelle Saint-Pierre, a Vieille Ville e a Rue Obscure medieval, o quilómetro da Plage des Marinières (a praia mais longa da Côte d'Azur), e o Sentier du Littoral do Cap Ferrat em torno da Pointe Saint-Hospice e da Plage de Passable`,
+      area: `o Port de la Santé e a Vieille Ville, a Cidadela e o Port de la Darse, a Plage des Marinières e o corredor da estação SNCF, e a vizinha península do Cap Ferrat`,
     },
     vilnius: {
       personality: 'a capital mais verde da UE e uma das mais acogedoras com cães, onde as animais viajan grátis en todos os autocarros e casi 500 direcciones pet-friendly se concentran no centro histórico UNESCO',

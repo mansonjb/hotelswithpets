@@ -15370,6 +15370,33 @@
     "iata": "KLU"
   },
   {
+    "slug": "villefranche-sur-mer",
+    "name": "Villefranche-sur-Mer",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/villefranche-sur-mer.jpg",
+    "intro": "Villefranche-sur-Mer is a 5,000-resident Côte d'Azur harbour town between Nice and Monaco, built into a steep ochre amphitheatre above one of the deepest natural harbours in the western Mediterranean. Headlines include the working Port de la Santé quays, the 13th-century covered Rue Obscure, the 16th-century Citadelle Saint-Elme (Musée Volti + chapels), the Chapelle Saint-Pierre des Pêcheurs frescoed by Jean Cocteau in 1957, the 1 km Plage des Marinières (the longest beach on the Côte d'Azur) and the neighbouring Cap Ferrat 10 km Sentier du Littoral around Pointe Saint-Hospice and Plage de Passable. The Gare SNCF de Villefranche-sur-Mer sits on the TER Marseille–Vintimille line (6 minutes from Nice-Ville, 15 from Monaco); Lignes d'Azur bus 100 runs Nice–Menton every 15 minutes, the Ligne 80 climbs onto Cap Ferrat. The nearest airport is Nice Côte d'Azur (NCE), 15 minutes by car or TER. Beach access for dogs runs October to end-April; harbour terrace dining is reliable nearly year-round.",
+    "lat": 43.7042,
+    "lng": 7.3115,
+    "weather": {
+      "jan": { "temp": 10, "desc": "Mild & sunny", "icon": "🌤️" },
+      "feb": { "temp": 11, "desc": "Mild & sunny", "icon": "🌤️" },
+      "mar": { "temp": 13, "desc": "Mild & pleasant", "icon": "⛅" },
+      "apr": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
+      "may": { "temp": 19, "desc": "Warm & sunny", "icon": "🌤️" },
+      "jun": { "temp": 23, "desc": "Warm & sunny", "icon": "🌤️" },
+      "jul": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
+      "aug": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
+      "sep": { "temp": 23, "desc": "Warm & sunny", "icon": "🌤️" },
+      "oct": { "temp": 19, "desc": "Mild & pleasant", "icon": "⛅" },
+      "nov": { "temp": 14, "desc": "Mild with rain", "icon": "🌦️" },
+      "dec": { "temp": 11, "desc": "Mild with rain", "icon": "🌦️" }
+    },
+    "iata": "NCE"
+  },
+  {
     "slug": "vilnius",
     "name": "Vilnius",
     "country": "Lithuania",

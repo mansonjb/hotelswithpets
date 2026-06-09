@@ -10515,6 +10515,33 @@
     "tiqetsId": "260932"
   },
   {
+    "slug": "menton",
+    "name": "Menton",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/menton.jpg",
+    "intro": "Menton is the easternmost town on the French Côte d'Azur, ten minutes from the Italian border, with the warmest microclimate on mainland France, a Baroque old town climbing to the Basilique Saint-Michel-Archange, the historic Jardin Serre de la Madone and Jardin du Val Rahmeh which both admit leashed dogs, the Sentier Le Corbusier coastal path around Cap Martin, and a year-round IGP Citron de Menton lemon culture culminating in the February Fête du Citron. Direct TER trains connect to Nice (35 min), Monaco (10 min), and Ventimiglia in Italy (10 min); the nearest airport is Nice Côte d'Azur (NCE), 30 minutes by car or TER. Beach access for dogs runs October to mid-May; outdoor terrace dining is viable nearly year-round.",
+    "lat": 43.7765,
+    "lng": 7.5037,
+    "weather": {
+      "jan": { "temp": 10, "desc": "Mild & sunny", "icon": "🌤️" },
+      "feb": { "temp": 11, "desc": "Mild & sunny", "icon": "🌤️" },
+      "mar": { "temp": 13, "desc": "Mild & pleasant", "icon": "⛅" },
+      "apr": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
+      "may": { "temp": 19, "desc": "Warm & sunny", "icon": "🌤️" },
+      "jun": { "temp": 23, "desc": "Warm & sunny", "icon": "🌤️" },
+      "jul": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
+      "aug": { "temp": 27, "desc": "Hot & sunny", "icon": "☀️" },
+      "sep": { "temp": 23, "desc": "Warm & sunny", "icon": "🌤️" },
+      "oct": { "temp": 19, "desc": "Mild & pleasant", "icon": "⛅" },
+      "nov": { "temp": 14, "desc": "Mild with rain", "icon": "🌦️" },
+      "dec": { "temp": 11, "desc": "Mild with rain", "icon": "🌦️" }
+    },
+    "iata": "NCE"
+  },
+  {
     "slug": "nice",
     "name": "Nice",
     "country": "France",

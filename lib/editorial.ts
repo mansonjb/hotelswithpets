@@ -721,6 +721,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Central Park off-leash hours, Prospect Park Dog Beach, and the Hudson River Park dog runs',
       area: 'the West Village, the East Village, and Park Slope in Brooklyn',
     },
+    menton: {
+      personality: `the easternmost town on the French Côte d'Azur ten minutes from the Italian border, with the warmest microclimate on mainland France, a Baroque old town climbing to the Basilique Saint-Michel-Archange, historic gardens (Jardin Serre de la Madone and Val Rahmeh) that admit leashed dogs, the Sentier Le Corbusier coastal path around Cap Martin, and a year-round IGP Citron de Menton culture culminating in the February Fête du Citron`,
+      highlight: `the Vieille Ville and the Basilique Saint-Michel-Archange parvis, the Promenade du Soleil along the seafront, the Jardin Serre de la Madone and Val Rahmeh (both leashed-dog friendly), and the Sentier Le Corbusier coastal walk around Cap Martin`,
+      area: `the Vieille Ville climbing to Saint-Michel, the Centre around the Jardins Biovès and Avenue Boyer, Garavan on the Italian-border side, and the seafront along the Promenade du Soleil`,
+    },
     nice: {
       personality: 'a sun-drenched Mediterranean city where dogs join their owners on terrace restaurants, in the old town market, and along the famous waterfront',
       highlight: 'the Promenade des Anglais, Parc du Mont Boron, and the Colline du Château',
@@ -1794,6 +1799,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `les heures sans laisse de Central Park, la Dog Beach de Prospect Park et les enclos du Hudson River Park`,
       area: 'le West Village, l\'East Village et Park Slope à Brooklyn',
     },
+    menton: {
+      personality: `la ville la plus orientale de la Côte d'Azur à dix minutes de la frontière italienne, avec le microclimat le plus chaud de France métropolitaine, une vieille ville baroque grimpant vers la Basilique Saint-Michel-Archange, des jardins historiques (Jardin Serre de la Madone et Val Rahmeh) qui admettent les chiens en laisse, le Sentier Le Corbusier autour du Cap Martin, et une culture du Citron de Menton IGP toute l'année culminant lors de la Fête du Citron en février`,
+      highlight: `la Vieille Ville et le parvis de la Basilique Saint-Michel-Archange, la Promenade du Soleil le long du front de mer, le Jardin Serre de la Madone et Val Rahmeh (chiens en laisse acceptés), et le Sentier Le Corbusier autour du Cap Martin`,
+      area: `la Vieille Ville montant vers Saint-Michel, le Centre autour des Jardins Biovès et de l'Avenue Boyer, Garavan côté frontière italienne, et le front de mer le long de la Promenade du Soleil`,
+    },
     nice: {
       personality: 'une ville méditerranéenne ensoleillée où les chiens rejoignent leurs propriétaires dans les restaurants en terrasse, au marché du vieux-Nice et le long du célèbre front de mer',
       highlight: 'la Promenade des Anglais, le Parc du Mont Boron et la Colline du Château',
@@ -2866,6 +2876,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `las horas sin correa de Central Park, la Dog Beach de Prospect Park y los dog runs del Hudson River Park`,
       area: 'el West Village, el East Village y Park Slope en Brooklyn',
     },
+    menton: {
+      personality: `la ciudad más oriental de la Côte d'Azur a diez minutos de la frontera italiana, con el microclima más cálido de la Francia continental, un casco antiguo barroco que trepa hacia la Basílica Saint-Michel-Archange, jardines históricos (Jardin Serre de la Madone y Val Rahmeh) que admiten perros con correa, el Sendero Le Corbusier alrededor del Cap Martin, y una cultura del Limón de Menton IGP durante todo el año que culmina en la Fiesta del Limón en febrero`,
+      highlight: `el Casco Antiguo y el parvis de la Basílica Saint-Michel-Archange, la Promenade du Soleil a lo largo del frente marítimo, el Jardin Serre de la Madone y Val Rahmeh (admiten perros con correa), y el Sendero Le Corbusier alrededor del Cap Martin`,
+      area: `el Casco Antiguo subiendo hacia Saint-Michel, el Centro en torno a los Jardines Biovès y la Avenue Boyer, Garavan junto a la frontera italiana, y el frente marítimo a lo largo de la Promenade du Soleil`,
+    },
     nice: {
       personality: 'una ciudad mediterránea bañada por el sol donde los perros acompañan a sus dueños en restaurantes de terraza, en el mercado del casco antiguo y a lo largo del famoso paseo marítimo',
       highlight: 'el Paseo de los Ingleses, el Parque del Mont Boron y la Colina del Castillo',
@@ -3937,6 +3952,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a grande cidade mais pet-aware dos EUA, com mais de 70 dog runs, os horários sem trela urbanos mais generosos do país (5:00–9:00 e 21:00–1:00 em Central Park e Prospect Park), e uma rede de urgências veterinárias 24/7 liderada pelo Animal Medical Center`,
       highlight: `as horas sem trela de Central Park, a Dog Beach de Prospect Park e os dog runs do Hudson River Park`,
       area: 'o West Village, o East Village e Park Slope em Brooklyn',
+    },
+    menton: {
+      personality: `a cidade mais oriental da Côte d'Azur a dez minutos da fronteira italiana, com o microclima mais quente da França continental, um centro histórico barroco a subir para a Basílica Saint-Michel-Archange, jardins históricos (Jardin Serre de la Madone e Val Rahmeh) que admitem cães com trela, o Sentier Le Corbusier em torno do Cap Martin, e uma cultura do Limão de Menton IGP durante todo o ano que culmina na Festa do Limão em fevereiro`,
+      highlight: `o Centro Histórico e o parvis da Basílica Saint-Michel-Archange, a Promenade du Soleil ao longo do passeio marítimo, o Jardin Serre de la Madone e Val Rahmeh (admitem cães com trela), e o Sentier Le Corbusier em torno do Cap Martin`,
+      area: `o Centro Histórico a subir para Saint-Michel, o Centro em torno dos Jardins Biovès e da Avenue Boyer, Garavan junto à fronteira italiana, e o passeio marítimo ao longo da Promenade du Soleil`,
     },
     nice: {
       personality: 'uma cidade mediterrânea banhada pelo sol onde os cães acompanhan aos seus duenhos en restaurantes de esplanada, no mercado do centro histórico e a lo largo do famoso passeio marítimo',

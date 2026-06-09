@@ -9612,6 +9612,81 @@
     "tiqetsId": "66825"
   },
   {
+    "slug": "matera",
+    "name": "Matera",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/matera.jpg",
+    "intro": "Matera is a 60 000-resident UNESCO World Heritage city in Basilicata, southern Italy, built into the limestone ravine of the Gravina river around the Sassi cave dwellings of Sasso Caveoso and Sasso Barisano, inhabited continuously since the Paleolithic and named European Capital of Culture 2019. The rupestrian rock churches of Madonna de Idris, Santa Lucia alle Malve and San Pietro Caveoso, the Cattedrale on the highest tufa spur, the Piano upper town with Piazza Vittorio Veneto and the underground Palombaro Lungo cistern, and the 8 000 hectare Parco della Murgia Materana across the Gravina with 150+ rupestrian chapels and the Belvedere Murgia Timone film panorama (The Passion of the Christ, No Time to Die) anchor the dog-walkable heritage core. The FAL train from Bari Centrale (1h15-1h30) accepts dogs free of charge, the Pugliairbus shuttle links Bari BRI airport in 1h15, and Marozzi coaches reach Rome and Naples.",
+    "lat": 40.6664,
+    "lng": 16.6043,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "BRI"
+  },
+  {
     "slug": "milan",
     "name": "Milan",
     "country": "Italy",

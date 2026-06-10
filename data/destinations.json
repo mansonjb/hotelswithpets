@@ -1,5 +1,32 @@
 [
   {
+    "slug": "a-coruna",
+    "name": "A Coruña",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/a-coruna.jpg",
+    "intro": "Galicia's Atlantic port wraps around the UNESCO Torre de Hércules, the only Roman lighthouse still in service, with the world's longest urban seafront promenade (13 km), the wild Monte San Pedro overlooking the ocean, the Riazor and Orzán city beaches open to dogs October to May, and a 24/7 veterinary hospital on Calle Marqués de Amboage, one of Spain's most genuinely dog-friendly Atlantic bases.",
+    "lat": 43.3623,
+    "lng": -8.4115,
+    "weather": {
+      "jan": { "temp": 10, "desc": "Cool & rainy", "icon": "🌧️" },
+      "feb": { "temp": 10, "desc": "Cool & breezy", "icon": "🌥️" },
+      "mar": { "temp": 12, "desc": "Mild & showery", "icon": "🌦️" },
+      "apr": { "temp": 13, "desc": "Mild with showers", "icon": "🌦️" },
+      "may": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
+      "jun": { "temp": 18, "desc": "Warm & sunny", "icon": "🌤️" },
+      "jul": { "temp": 20, "desc": "Warmest month", "icon": "☀️" },
+      "aug": { "temp": 21, "desc": "Warm & sunny", "icon": "☀️" },
+      "sep": { "temp": 19, "desc": "Warm & mild", "icon": "🌤️" },
+      "oct": { "temp": 16, "desc": "Mild & rainy", "icon": "🌦️" },
+      "nov": { "temp": 13, "desc": "Cool & rainy", "icon": "🌧️" },
+      "dec": { "temp": 11, "desc": "Cool & grey", "icon": "🌧️" }
+    },
+    "iata": "LCG"
+  },
+  {
     "slug": "aarhus",
     "name": "Aarhus",
     "country": "Denmark",

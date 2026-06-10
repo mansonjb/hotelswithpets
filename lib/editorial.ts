@@ -21,6 +21,11 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    'a-coruna': {
+      personality: `Galicia's Atlantic port city wrapped around the UNESCO-listed Torre de Hércules (the only Roman lighthouse still in service), with the world's longest urban seafront promenade at 13 km, a designated off-leash zone at Parque de Santa Margarita and a 24/7 veterinary hospital on Calle Marqués de Amboage`,
+      highlight: `the 13 km Paseo Marítimo from the Marina galleries around the Torre de Hércules clifftop park to the Castillo de San Antón, plus the off-season Riazor and Orzán beaches (Oct–May) and the Monte San Pedro Atlantic viewpoint`,
+      area: `the Ciudad Vieja around Plaza de María Pita and Calle Estrella, the glass-gallery Marina, and the residential Pescadería and Cuatro Caminos districts inland`,
+    },
     aarhus: {
       personality: 'Denmark\'s second city, Scandinavia\'s most pet-tolerant café culture after Copenhagen, with free public transport for dogs and 8 official off-leash forests',
       highlight: 'Marselisborg Hundeskov, Bellevue Strand year-round dog beach, and the Den Gamle By open-air museum',
@@ -1129,6 +1134,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    'a-coruna': {
+      personality: `port atlantique galicien enroulé autour de la Torre de Hércules classée UNESCO (seul phare romain encore en service), avec la plus longue promenade littorale urbaine du monde sur 13 km, une zone canine sans laisse au Parque de Santa Margarita et un hôpital vétérinaire 24h/24 sur la Calle Marqués de Amboage`,
+      highlight: `les 13 km du Paseo Marítimo depuis les galeries de la Marina autour du parc des falaises de la Torre de Hércules jusqu'au Castillo de San Antón, plus les plages hors saison de Riazor et Orzán (oct.–mai) et le belvédère atlantique du Monte San Pedro`,
+      area: `la Ciudad Vieja autour de la Plaza de María Pita et de la Calle Estrella, la Marina aux galeries vitrées, et les quartiers résidentiels Pescadería et Cuatro Caminos vers l'intérieur`,
+    },
     aarhus: {
       personality: 'la deuxième ville du Danemark, culture café la plus tolérante de Scandinavie après Copenhague, transports publics gratuits pour chiens et 8 forêts sans laisse officielles',
       highlight: 'le Marselisborg Hundeskov, la plage canine toute l\'année de Bellevue Strand, et le musée en plein air Den Gamle By',
@@ -2236,6 +2246,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    'a-coruna': {
+      personality: `puerto atlántico gallego envuelto en torno a la Torre de Hércules declarada Patrimonio de la Humanidad por la UNESCO (único faro romano aún en servicio), con el paseo marítimo urbano más largo del mundo con 13 km, una zona canina sin correa en el Parque de Santa Margarita y un hospital veterinario 24/7 en la Calle Marqués de Amboage`,
+      highlight: `los 13 km del Paseo Marítimo desde las galerías de la Marina alrededor del parque acantilado de la Torre de Hércules hasta el Castillo de San Antón, además de las playas fuera de temporada de Riazor y Orzán (oct.–may.) y el mirador atlántico del Monte San Pedro`,
+      area: `la Ciudad Vieja en torno a la Plaza de María Pita y la Calle Estrella, la Marina con sus galerías acristaladas, y los barrios residenciales de la Pescadería y Cuatro Caminos hacia el interior`,
+    },
     aarhus: {
       personality: 'la segunda ciudad de Dinamarca, la cultura del café más tolerante de Escandinavia después de Copenhague, transporte público gratis para perros y 8 bosques sin correa oficiales',
       highlight: 'el Marselisborg Hundeskov, la playa canina todo el año de Bellevue Strand y el museo al aire libre Den Gamle By',
@@ -3343,6 +3358,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    'a-coruna': {
+      personality: `porto atlântico galego envolvido em torno da Torre de Hércules classificada Património Mundial pela UNESCO (único farol romano ainda em serviço), com o passeio marítimo urbano mais longo do mundo com 13 km, uma zona canina sem trela no Parque de Santa Margarita e um hospital veterinário 24/7 na Calle Marqués de Amboage`,
+      highlight: `os 13 km do Paseo Marítimo desde as galerias da Marina em torno do parque de falésias da Torre de Hércules até ao Castillo de San Antón, além das praias fora de época de Riazor e Orzán (out.–maio) e do miradouro atlântico do Monte San Pedro`,
+      area: `a Ciudad Vieja em torno da Plaza de María Pita e da Calle Estrella, a Marina com as suas galerias envidraçadas, e os bairros residenciais da Pescadería e Cuatro Caminos para o interior`,
+    },
     aarhus: {
       personality: 'a segunda cidade de Dinamarca, a cultura do café mais tolerante de Escandinavia después de Copenhaga, transporte público grátis para cães e 8 florestas sem trela oficiais',
       highlight: 'o Marselisborg Hundeskov, a praia canina o ano inteiro de Bellevue Strand e o museu al aire libre Den Gamle By',

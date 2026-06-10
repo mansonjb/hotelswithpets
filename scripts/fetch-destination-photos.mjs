@@ -75,6 +75,7 @@ const TARGETS = [
   { slug: 'cologne',       query: 'Cologne Cathedral Rhine river' },
   { slug: 'san-sebastian', query: 'La Concha beach San Sebastian' },
   { slug: 'santander',    query: 'Santander Spain Cantabria Playa del Sardinero Magdalena peninsula bay panorama sunset' },
+  { slug: 'a-coruna',     query: 'A Coruna Spain Galicia Torre de Hercules Roman lighthouse UNESCO Atlantic Paseo Maritimo Riazor Orzan Monte San Pedro Marina galleries panorama sunset' },
   { slug: 'toulouse',      query: 'Place du Capitole Toulouse' },
   { slug: 'torun',         query: 'Torun Poland UNESCO Old Town brick Gothic Town Hall Leaning Tower Vistula panorama sunset' },
   { slug: 'bilbao',        query: 'Guggenheim Museum Bilbao titanium exterior' },

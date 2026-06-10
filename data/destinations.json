@@ -4435,6 +4435,33 @@
     "tiqetsId": "90598"
   },
   {
+    "slug": "chicago",
+    "name": "Chicago",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/chicago.jpg",
+    "intro": "Chicago is the Midwest's lakefront capital, where one of the largest US Dog Friendly Area (DFA) networks (25+ fenced off-leash parks plus the dedicated Montrose Dog Beach, the only off-leash beach in the city) combines with a flat 29 km Lakefront Trail along Lake Michigan, the 485-hectare Lincoln Park anchoring the North Side, and the free Lincoln Park Zoo's perimeter paths. Millennium Park's Cloud Gate ('The Bean') and Crown Fountain, the 2 km Chicago Riverwalk, Maggie Daley Park and Grant Park welcome leashed dogs free of charge; Wrigleyville's game-day bar patios run on the Illinois patio law (Public Act 99-0937). CTA 'L' trains, buses and Metra commuter rail all accept small pets in carriers free; O'Hare (ORD) is a CDC-approved international dog-arrival airport with indoor pet relief areas in every terminal. Two solid in-city 24/7 emergency vets (MedVet Chicago, Premier Veterinary Group) cover the metro. Hot humid summers (June-August, 25-32 °C) and crisp falls are the prime dog seasons; brutal winters (December-March, -10 to -20 °C windchill with lake-effect snow) demand paw protection and short walks.",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "weather": {
+      "jan": { "temp": -4, "desc": "Cold & snowy", "icon": "❄️" },
+      "feb": { "temp": -2, "desc": "Cold & windy", "icon": "❄️" },
+      "mar": { "temp": 4, "desc": "Cool & breezy", "icon": "🌤️" },
+      "apr": { "temp": 10, "desc": "Mild & showery", "icon": "🌦️" },
+      "may": { "temp": 16, "desc": "Mild & sunny", "icon": "🌤️" },
+      "jun": { "temp": 22, "desc": "Warm & humid", "icon": "☀️" },
+      "jul": { "temp": 25, "desc": "Hot & humid", "icon": "☀️" },
+      "aug": { "temp": 24, "desc": "Hot & humid", "icon": "☀️" },
+      "sep": { "temp": 20, "desc": "Warm & breezy", "icon": "🌤️" },
+      "oct": { "temp": 13, "desc": "Cool & crisp", "icon": "🍂" },
+      "nov": { "temp": 5, "desc": "Cold & windy", "icon": "🌥️" },
+      "dec": { "temp": -2, "desc": "Cold & snowy", "icon": "❄️" }
+    },
+    "iata": "ORD"
+  },
+  {
     "slug": "coimbra",
     "name": "Coimbra",
     "country": "Portugal",

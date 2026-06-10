@@ -198,6 +198,7 @@ const TARGETS = [
   { slug: 'villach', query: 'Villach Austria Hauptplatz Drava river Faaker See lake Carinthia panorama sunset' },
   { slug: 'sankt-polten', query: 'Sankt Polten Austria Rathausplatz Baroque Altstadt Lower Austria Traisen Klangturm panorama sunset' },
   { slug: 'san-francisco', query: 'San Francisco California Golden Gate Bridge skyline Pacific bay Crissy Field panorama sunset' },
+  { slug: 'chicago', query: 'Chicago Illinois skyline Lake Michigan lakefront Cloud Gate Bean Millennium Park Riverwalk panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

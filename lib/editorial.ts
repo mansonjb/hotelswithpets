@@ -316,6 +316,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Český Krumlov Castle's five outer courtyards and the three-tiered Cloak Bridge, the Baroque Zámecká zahrada garden above the Vltava bend, and the riverside dog-walking strip at the Jelení zahrada city park`,
       area: `the cobbled Vnitřní Město around Náměstí Svornosti, the riverside Parkán lane below the castle, and the Latrán quarter at the foot of the castle hill`,
     },
+    chicago: {
+      personality: `the Midwest's lakefront capital with one of the largest US Dog Friendly Area networks (25+ fenced off-leash DFAs plus the dedicated Montrose Dog Beach, the only off-leash beach in the city), a flat 29 km Lakefront Trail along Lake Michigan, 485-hectare Lincoln Park, and brutal winters that turn dog dining into a heated-patio circuit (Kaiser Tiger, Big Star) from December to March`,
+      highlight: `Montrose Dog Beach in Uptown, the Wiggly Field DFA in Lincoln Park, the Lakefront Trail and free Lincoln Park Zoo perimeter, the Chicago Riverwalk, and the leashed-dog lap of Cloud Gate ('The Bean') at Millennium Park`,
+      area: `Lincoln Park and Lakeview for hotels close to the dog parks and Wrigley Field patios, Wicker Park and Logan Square for restaurant patios, the West Loop and River North for the Chicago Riverwalk and Fulton Market dining scene`,
+    },
     cologne: {
       personality: 'a pragmatic Rhineland city where dogs ride trains on a child ticket, drink water at pub troughs, and follow owners along the riverside',
       highlight: 'the Rhine riverbank path, Stadtwald forest park, and the off-leash meadow at Beethovenpark',
@@ -1409,6 +1414,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `les cinq cours extérieures du château de Český Krumlov et le Pont au manteau à trois étages, le Jardin baroque Zámecká zahrada surplombant le méandre de la Vltava, et la bande de promenade en bord de rivière au parc municipal Jelení zahrada`,
       area: `la Vnitřní Město pavée autour de la place Náměstí Svornosti, la ruelle Parkán en bord de rivière sous le château, et le quartier Latrán au pied de la colline du château`,
     },
+    chicago: {
+      personality: `la capitale du Midwest sur le lac Michigan, avec l'un des plus grands réseaux de Dog Friendly Areas des États-Unis (plus de 25 DFA off-leash clôturées et la Montrose Dog Beach dédiée, seule plage off-leash de la ville), un Lakefront Trail plat de 29 km, le Lincoln Park de 485 hectares, et des hivers rigoureux qui ramènent le repas avec chien à un circuit de terrasses chauffées (Kaiser Tiger, Big Star) de décembre à mars`,
+      highlight: `la Montrose Dog Beach à Uptown, le DFA Wiggly Field à Lincoln Park, le Lakefront Trail et le pourtour gratuit du Lincoln Park Zoo, le Chicago Riverwalk, et le tour en laisse autour de Cloud Gate (« The Bean ») à Millennium Park`,
+      area: `Lincoln Park et Lakeview pour les hôtels proches des DFA et des terrasses de Wrigley Field, Wicker Park et Logan Square pour les terrasses de restaurants, le West Loop et River North pour le Chicago Riverwalk et la scène de Fulton Market`,
+    },
     cologne: {
       personality: 'une ville rhénane pragmatique où les chiens prennent le train avec un billet enfant, boivent dans des abreuvoirs de pubs et suivent leurs maîtres le long du fleuve',
       highlight: 'la promenade du Rhin, le parc forestier du Stadtwald et la prairie sans laisse du Beethovenpark',
@@ -2501,6 +2511,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `los cinco patios exteriores del castillo de Český Krumlov y el Puente de la Capa de tres niveles, el Jardín barroco Zámecká zahrada sobre el meandro del Vltava, y la franja de paseo junto al río en el parque municipal Jelení zahrada`,
       area: `la Vnitřní Město empedrada en torno a Náměstí Svornosti, la callejuela Parkán junto al río bajo el castillo, y el barrio Latrán al pie de la colina del castillo`,
     },
+    chicago: {
+      personality: `la capital del Medio Oeste a orillas del lago Michigan, con una de las mayores redes de Dog Friendly Areas de EE. UU. (más de 25 DFA off-leash valladas y la Montrose Dog Beach dedicada, única playa off-leash de la ciudad), un Lakefront Trail llano de 29 km, el Lincoln Park de 485 hectáreas, e inviernos duros que reducen la comida con perro a un circuito de terrazas calefactadas (Kaiser Tiger, Big Star) de diciembre a marzo`,
+      highlight: `Montrose Dog Beach en Uptown, el DFA Wiggly Field en Lincoln Park, el Lakefront Trail y el perímetro gratuito del Lincoln Park Zoo, el Chicago Riverwalk, y la vuelta con correa alrededor de Cloud Gate ('The Bean') en Millennium Park`,
+      area: `Lincoln Park y Lakeview para hoteles cerca de los DFA y de las terrazas de Wrigley Field, Wicker Park y Logan Square para terrazas de restaurantes, el West Loop y River North para el Chicago Riverwalk y la escena de Fulton Market`,
+    },
     cologne: {
       personality: 'una ciudad renana pragmática donde los perros viajan en tren con billete infantil, beben en abrevaderos de pubs y acompañan a sus dueños por la ribera',
       highlight: 'el paseo del Rin, el parque forestal de Stadtwald y la pradera sin correa del Beethovenpark',
@@ -3592,6 +3607,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `um centro histórico Património UNESCO de 13 000 habitantes ao pé de um vasto castelo renascentista sobre um meandro apertado do Vltava, na Boémia, onde os cães com trela são bem-vindos nos pátios pintados do castelo, na Ponte do Manto e no Jardim barroco, mas as jangadas do rio e as salas museológicas interiores permanecem interditas`,
       highlight: `os cinco pátios exteriores do castelo de Český Krumlov e a Ponte do Manto de três níveis, o Jardim barroco Zámecká zahrada sobre o meandro do Vltava, e a faixa de passeio à beira-rio no parque municipal Jelení zahrada`,
       area: `a Vnitřní Město empedrada em torno de Náměstí Svornosti, a viela Parkán à beira-rio sob o castelo, e o bairro Latrán ao pé da colina do castelo`,
+    },
+    chicago: {
+      personality: `a capital do Midwest à beira do lago Michigan, com uma das maiores redes de Dog Friendly Areas dos EUA (mais de 25 DFA off-leash vedadas e a Montrose Dog Beach dedicada, única praia off-leash da cidade), um Lakefront Trail plano de 29 km, o Lincoln Park de 485 hectares, e invernos rigorosos que reduzem a refeição com cão a um circuito de esplanadas aquecidas (Kaiser Tiger, Big Star) de dezembro a março`,
+      highlight: `a Montrose Dog Beach em Uptown, o DFA Wiggly Field em Lincoln Park, o Lakefront Trail e o perímetro gratuito do Lincoln Park Zoo, o Chicago Riverwalk, e a volta com trela à volta do Cloud Gate ('The Bean') em Millennium Park`,
+      area: `Lincoln Park e Lakeview para hotéis perto dos DFA e das esplanadas de Wrigley Field, Wicker Park e Logan Square para esplanadas de restaurantes, o West Loop e River North para o Chicago Riverwalk e a cena de Fulton Market`,
     },
     cologne: {
       personality: 'uma cidade renana pragmática onde os cães viajan de comboio com bilhete infantil, beben en abrevaderos de pubs e acompanhan aos seus duenhos pela ribera',

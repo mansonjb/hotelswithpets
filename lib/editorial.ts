@@ -391,6 +391,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Arthur\'s Seat (off-leash), Holyrood Park, and the Water of Leith walkway',
       area: 'Stockbridge, Leith, and the New Town',
     },
+    ericeira: {
+      personality: `a 10,000-resident Atlantic fishing town 40 km north of Lisboa, designated Europe's only World Surfing Reserve in 2011, with seven world-class breaks including the Ribeira d'Ilhas WSL Championship Tour venue and the heavy Coxos reef, a clifftop old town of whitewashed tasca terraces above Praia dos Pescadores, and the monumental UNESCO Palácio Nacional de Mafra with its 800-hectare Tapada royal forest 10 km inland`,
+      highlight: `the Ribeira d'Ilhas WSL Championship Tour break and World Surfing Reserve clifftop viewpoint, the heavy Coxos right-hand reef and the Praia dos Pescadores fishermen's harbour, and the UNESCO Palácio Nacional de Mafra with the 800-hectare Tapada royal forest 10 km inland`,
+      area: `the clifftop old town around the Largo das Ribas and Praça da República, the seafront promenade above Praia dos Pescadores and Praia do Sul, and the surf-spot coast north to Ribeira d'Ilhas and Coxos`,
+    },
     evora: {
       personality: `the Alentejano UNESCO capital and former Roman, Visigoth and Moorish town, a 2,000-year-old Roman Temple, the eerie Capela dos Ossos, one of Iberia's largest medieval city wall circuits, and direct CP rail access from Lisbon in 1h30`,
       highlight: `the Roman Temple of Évora, the Cromeleque dos Almendres megalithic site (7,000 years older than Stonehenge), and the Lago Alqueva dog beaches at Monsaraz`,
@@ -1514,6 +1519,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Arthur\'s Seat (sans laisse), le Holyrood Park et le sentier riverain Water of Leith',
       area: 'Stockbridge, Leith et le New Town',
     },
+    ericeira: {
+      personality: `une ville de pêcheurs atlantique de 10 000 habitants à 40 km au nord de Lisbonne, désignée en 2011 seule World Surfing Reserve d'Europe, avec sept spots de classe mondiale dont le break WSL Championship Tour de Ribeira d'Ilhas et le lourd reef de Coxos, une vieille ville de falaise aux terrasses de tasca blanchies au-dessus de la Praia dos Pescadores, et le monumental Palácio Nacional de Mafra UNESCO avec sa Tapada royale de 800 hectares à 10 km à l'intérieur`,
+      highlight: `le break WSL Championship Tour de Ribeira d'Ilhas et le belvédère de falaise de la World Surfing Reserve, le lourd reef droitier de Coxos et le port de pêcheurs de la Praia dos Pescadores, et le Palácio Nacional de Mafra UNESCO avec la Tapada royale de 800 hectares à 10 km à l'intérieur`,
+      area: `la vieille ville de falaise autour du Largo das Ribas et de la Praça da República, la promenade de bord de mer au-dessus de la Praia dos Pescadores et de la Praia do Sul, et la côte des spots de surf vers le nord jusqu'à Ribeira d'Ilhas et Coxos`,
+    },
     evora: {
       personality: `la capitale UNESCO alentejane et ancienne ville romaine, wisigothique et mauresque, Temple romain de 2 000 ans, l'inquiétante Capela dos Ossos, l'un des plus grands circuits de remparts médiévaux d'Ibérie, et un accès direct CP depuis Lisbonne en 1h30`,
       highlight: `le Temple romain d'Évora, le site mégalithique du Cromeleque dos Almendres (7 000 ans plus ancien que Stonehenge), et les plages canines du lac Alqueva à Monsaraz`,
@@ -2636,6 +2646,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Arthur\'s Seat (sin correa), el Holyrood Park y el sendero ribereño Water of Leith',
       area: 'Stockbridge, Leith y el New Town',
     },
+    ericeira: {
+      personality: `una localidad pesquera atlántica de 10.000 habitantes a 40 km al norte de Lisboa, designada en 2011 única World Surfing Reserve de Europa, con siete spots de clase mundial entre ellos la rompiente WSL Championship Tour de Ribeira d'Ilhas y el pesado reef de Coxos, un casco antiguo en acantilado con terrazas de tasca encaladas sobre Praia dos Pescadores, y el monumental Palácio Nacional de Mafra UNESCO con su Tapada real de 800 hectáreas a 10 km tierra adentro`,
+      highlight: `la rompiente WSL Championship Tour de Ribeira d'Ilhas y el mirador de acantilado de la World Surfing Reserve, el pesado reef diestro de Coxos y el puerto pesquero de Praia dos Pescadores, y el Palácio Nacional de Mafra UNESCO con la Tapada real de 800 hectáreas a 10 km tierra adentro`,
+      area: `el casco antiguo en acantilado en torno al Largo das Ribas y la Praça da República, el paseo marítimo sobre Praia dos Pescadores y Praia do Sul, y la costa de spots de surf al norte hasta Ribeira d'Ilhas y Coxos`,
+    },
     evora: {
       personality: `la capital UNESCO alentejana y antigua ciudad romana, visigoda y morisca, Templo romano de 2 000 años, la inquietante Capela dos Ossos, uno de los mayores circuitos de murallas medievales de Iberia, y acceso directo CP desde Lisboa en 1h30`,
       highlight: `el Templo romano de Évora, el sitio megalítico del Cromeleque dos Almendres (7 000 años más antiguo que Stonehenge), y las playas caninas del lago Alqueva en Monsaraz`,
@@ -3757,6 +3772,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das cidades mais pet-friendly de Gran Bretanha. Com colinas sem trela, pubs que admiten cães en cada rua e uma cultura que trata aos cães como miembros plenos da familia',
       highlight: 'Arthur\'s Seat (sem trela), o Holyrood Park e o trilho riberenho Water of Leith',
       area: 'Stockbridge, Leith e o New Town',
+    },
+    ericeira: {
+      personality: `uma vila piscatória atlântica de 10 000 habitantes a 40 km a norte de Lisboa, designada em 2011 a única World Surfing Reserve da Europa, com sete spots de classe mundial incluindo a rebentação do WSL Championship Tour da Ribeira d'Ilhas e o pesado reef dos Coxos, uma vila velha de falésia com esplanadas de tasca caiadas sobre a Praia dos Pescadores, e o monumental Palácio Nacional de Mafra UNESCO com a sua Tapada real de 800 hectares a 10 km para o interior`,
+      highlight: `a rebentação do WSL Championship Tour da Ribeira d'Ilhas e o miradouro de falésia da World Surfing Reserve, o pesado reef direito dos Coxos e o porto piscatório da Praia dos Pescadores, e o Palácio Nacional de Mafra UNESCO com a Tapada real de 800 hectares a 10 km no interior`,
+      area: `a vila velha de falésia em torno do Largo das Ribas e da Praça da República, a marginal sobre a Praia dos Pescadores e a Praia do Sul, e a costa de spots de surf para norte até à Ribeira d'Ilhas e aos Coxos`,
     },
     evora: {
       personality: `a capital UNESCO alentejana e antiga cidade romana, visigoda e morisca, Templo romano de 2 000 anos, a inquietante Capela dos Ossos, uno dos mayores circuitos de muralhas medievais de Iberia, e acesso directo CP a partir de Lisboa en 1h30`,

@@ -5419,6 +5419,81 @@
     "tiqetsId": "21"
   },
   {
+    "slug": "ericeira",
+    "name": "Ericeira",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/ericeira.jpg",
+    "intro": "Ericeira, Europe's only World Surfing Reserve 40 km north of Lisboa, pairs a clifftop old town above Praia dos Pescadores with the Ribeira d`Ilhas WSL Championship Tour break, the Coxos right-hand reef, dog-tolerant marisqueira terraces and the monumental Palácio Nacional de Mafra and 800-hectare Tapada royal forest 10 km inland.",
+    "lat": 38.9636,
+    "lng": -9.4147,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      }
+    },
+    "iata": "LIS"
+  },
+  {
     "slug": "evora",
     "name": "Évora",
     "country": "Portugal",

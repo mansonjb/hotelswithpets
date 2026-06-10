@@ -74,6 +74,7 @@ const TARGETS = [
   { slug: 'burgos',        query: 'Burgos Spain Cathedral Catedral Santa Maria Gothic spires Arlanzon river Castilla panorama sunset' },
   { slug: 'cologne',       query: 'Cologne Cathedral Rhine river' },
   { slug: 'san-sebastian', query: 'La Concha beach San Sebastian' },
+  { slug: 'santander',    query: 'Santander Spain Cantabria Playa del Sardinero Magdalena peninsula bay panorama sunset' },
   { slug: 'toulouse',      query: 'Place du Capitole Toulouse' },
   { slug: 'torun',         query: 'Torun Poland UNESCO Old Town brick Gothic Town Hall Leaning Tower Vistula panorama sunset' },
   { slug: 'bilbao',        query: 'Guggenheim Museum Bilbao titanium exterior' },

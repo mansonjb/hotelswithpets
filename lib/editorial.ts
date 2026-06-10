@@ -887,6 +887,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Traisen riverside path through the Traisenpark corridor, the Klangturm rooftop in the Government Quarter, and a Wachau day trip to Dürnstein and Spitz`,
       area: `the pedestrian Altstadt around the Rathausplatz, the modernist Regierungsviertel on the Traisen, and the Viehofen lake district north of the centre`,
     },
+    santander: {
+      personality: `the bayside capital of Cantabria with a Belle Époque seafront, the royal Magdalena peninsula, a designated off-leash zone at Parque de las Llamas and Brittany Ferries sailings to Plymouth and Portsmouth from the Estación Marítima`,
+      highlight: `the 8 km seafront walk from the Estación Marítima through the Paseo Pereda and Península de la Magdalena to the Faro de Cabo Mayor, plus the off-season Playa del Sardinero (Oct–Apr)`,
+      area: `the Casco Antiguo around the cathedral and Mercado de la Esperanza, the Sardinero hotel district, and the Magdalena peninsula closing the bay to the east`,
+    },
     'santiago-de-compostela': {
       personality: 'a UNESCO-listed pilgrim capital where the Camino de Santiago has shaped a thousand-year tradition of welcoming dogs through the granite-paved old town',
       highlight: 'the four cathedral squares, the Alameda park with its Carballeira de Santa Susana off-leash zone, and the panoramic Parque de Bonaval',
@@ -1988,6 +1993,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la discrète capitale de Basse-Autriche, 56 000 habitants au bord de la Traisen, avec un Altstadt baroque piéton, le quartier gouvernemental moderniste et sa tour Klangturm, et les villages viticoles de la Wachau (Dürnstein, Spitz et Krems) tous accessibles en 45 minutes`,
       highlight: `le sentier en bord de Traisen à travers le corridor du Traisenpark, le toit du Klangturm dans le quartier gouvernemental, et une journée dans la Wachau à Dürnstein et Spitz`,
       area: `l'Altstadt piéton autour de la Rathausplatz, le Regierungsviertel moderniste sur la Traisen, et le quartier des lacs de Viehofen au nord du centre`,
+    },
+    santander: {
+      personality: `la capitale balnéaire de la Cantabrie avec son front de mer Belle Époque, la péninsule royale de la Magdalena, une zone canine sans laisse au Parque de las Llamas et les ferries Brittany Ferries vers Plymouth et Portsmouth depuis l'Estación Marítima`,
+      highlight: `la promenade de 8 km en bord de mer depuis l'Estación Marítima par le Paseo Pereda et la Península de la Magdalena jusqu'au Faro de Cabo Mayor, plus la Playa del Sardinero hors saison (oct.–avr.)`,
+      area: `le Casco Antiguo autour de la cathédrale et du Mercado de la Esperanza, le quartier hôtelier du Sardinero, et la péninsule de la Magdalena qui ferme la baie à l'est`,
     },
     'santiago-de-compostela': {
       personality: 'la capitale galicienne du pèlerinage classée à l\'UNESCO, où le Chemin de Saint-Jacques a forgé une tradition millénaire d\'accueil des chiens dans la vieille ville pavée de granit',
@@ -3091,6 +3101,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el sendero junto al Traisen por el corredor del Traisenpark, la azotea del Klangturm en el barrio gubernamental, y una jornada por la Wachau en Dürnstein y Spitz`,
       area: `el Altstadt peatonal en torno a la Rathausplatz, el Regierungsviertel modernista junto al Traisen, y el distrito de los lagos de Viehofen al norte del centro`,
     },
+    santander: {
+      personality: `la capital cántabra asomada a su bahía con paseo marítimo Belle Époque, la península real de la Magdalena, una zona canina sin correa en el Parque de las Llamas y los ferries de Brittany Ferries hacia Plymouth y Portsmouth desde la Estación Marítima`,
+      highlight: `el paseo marítimo de 8 km desde la Estación Marítima por el Paseo Pereda y la Península de la Magdalena hasta el Faro de Cabo Mayor, además de la Playa del Sardinero fuera de temporada (oct.–abr.)`,
+      area: `el Casco Antiguo en torno a la catedral y el Mercado de la Esperanza, la zona hotelera del Sardinero, y la península de la Magdalena que cierra la bahía por el este`,
+    },
     'santiago-de-compostela': {
       personality: 'la capital gallega del peregrinaje declarada Patrimonio de la UNESCO, donde el Camino de Santiago ha forjado una tradición milenaria de acoger a los perros en el casco antiguo empedrado de granito',
       highlight: 'las cuatro plazas de la catedral, el parque de la Alameda con su zona sin correa en la Carballeira de Santa Susana y el parque panorámico de Bonaval',
@@ -4192,6 +4207,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a discreta capital da Baixa Áustria, 56.000 habitantes junto ao rio Traisen, com um Altstadt barroco pedonal, o bairro governamental modernista e a sua torre Klangturm, e as aldeias vinícolas da Wachau (Dürnstein, Spitz e Krems) todas acessíveis em 45 minutos`,
       highlight: `o trilho junto ao Traisen pelo corredor do Traisenpark, o terraço do Klangturm no bairro governamental, e um dia pela Wachau em Dürnstein e Spitz`,
       area: `o Altstadt pedonal em torno da Rathausplatz, o Regierungsviertel modernista junto ao Traisen, e o distrito dos lagos de Viehofen a norte do centro`,
+    },
+    santander: {
+      personality: `a capital cantábrica debruçada sobre a sua baía com passeio marítimo Belle Époque, a península real da Magdalena, uma zona canina sem trela no Parque de las Llamas e os ferries da Brittany Ferries para Plymouth e Portsmouth a partir da Estación Marítima`,
+      highlight: `o passeio marítimo de 8 km desde a Estación Marítima pelo Paseo Pereda e pela Península de la Magdalena até ao Faro de Cabo Mayor, além da Playa del Sardinero fora de época (out.–abr.)`,
+      area: `o Casco Antiguo em torno da catedral e do Mercado de la Esperanza, a zona hoteleira do Sardinero, e a península da Magdalena que fecha a baía a leste`,
     },
     'santiago-de-compostela': {
       personality: 'a capital galega da peregrinação classificada pela UNESCO, onde o Caminho de Santiago forjou uma tradição milenar de acolher cães no casco antigo empedrado de granito',

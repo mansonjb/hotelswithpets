@@ -12677,6 +12677,33 @@
     "iata": "VIE"
   },
   {
+    "slug": "santander",
+    "name": "Santander",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/santander.jpg",
+    "intro": "Cantabria's bayside capital pairs the Belle Époque crescent of El Sardinero and the royal Magdalena peninsula with a year-round Brittany Ferries link to Plymouth and Portsmouth, a dedicated off-leash zone at Parque de las Llamas and a 24/7 veterinary hospital on Avenida de los Castros, the most practical Cantabrian Sea city for a dog-inclusive trip.",
+    "lat": 43.4623,
+    "lng": -3.8099,
+    "weather": {
+      "jan": { "temp": 9, "desc": "Cool & rainy", "icon": "🌧️" },
+      "feb": { "temp": 9, "desc": "Cool & breezy", "icon": "🌥️" },
+      "mar": { "temp": 11, "desc": "Mild & showery", "icon": "🌦️" },
+      "apr": { "temp": 13, "desc": "Mild with showers", "icon": "🌦️" },
+      "may": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
+      "jun": { "temp": 18, "desc": "Warm & sunny", "icon": "🌤️" },
+      "jul": { "temp": 21, "desc": "Warmest month", "icon": "☀️" },
+      "aug": { "temp": 22, "desc": "Warm & sunny", "icon": "☀️" },
+      "sep": { "temp": 19, "desc": "Warm & mild", "icon": "🌤️" },
+      "oct": { "temp": 16, "desc": "Mild & rainy", "icon": "🌦️" },
+      "nov": { "temp": 12, "desc": "Cool & rainy", "icon": "🌧️" },
+      "dec": { "temp": 10, "desc": "Cool & grey", "icon": "🌧️" }
+    },
+    "iata": "SDR"
+  },
+  {
     "slug": "santiago-de-compostela",
     "name": "Santiago de Compostela",
     "country": "Spain",

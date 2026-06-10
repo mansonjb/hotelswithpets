@@ -175,6 +175,7 @@ const TARGETS = [
   { slug: 'tarifa', query: 'Tarifa Spain Cadiz Strait of Gibraltar Castillo Guzman el Bueno casco antiguo Playa Los Lances kitesurf Morocco coast panorama sunset' },
   { slug: 'nazare', query: 'Nazaré Praia do Norte cliffs big wave Portugal Forte São Miguel Arcanjo lighthouse Sítio funicular Atlantic panorama sunset' },
   { slug: 'ericeira', query: 'Ericeira Portugal World Surfing Reserve Ribeira d Ilhas WSL clifftop old town Praia dos Pescadores fishermen harbour Atlantic sunset panorama' },
+  { slug: 'tavira', query: 'Tavira Portugal eastern Algarve Ponte Romana seven arches Rio Gilao whitewashed centro historico Castelo de Tavira Igreja Santa Maria do Castelo Praca da Republica Mercado Municipal Ria Formosa salinas flamingos Ilha de Tavira ferry Quatro Aguas Atlantic barrier island panorama sunset' },
   { slug: 'cardiff', query: 'Cardiff Castle Wales city centre Bute Park River Taff panorama' },
   { slug: 'carcassonne', query: 'Carcassonne France medieval citadel ramparts UNESCO walled city sunset' },
   { slug: 'bonn', query: 'Bonn Germany Altes Rathaus Markt square Rhine river Beethoven city panorama sunset' },

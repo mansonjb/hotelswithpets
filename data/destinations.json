@@ -14107,6 +14107,33 @@
     "tiqetsId": "66154"
   },
   {
+    "slug": "tavira",
+    "name": "Tavira",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/tavira.jpg",
+    "intro": "Tavira, the quieter eastern Algarve town split by the Rio Gilão and its seven-arch Ponte Romana, opens onto the Parque Natural da Ria Formosa, the year-round Ilha de Tavira ferry from Quatro Águas (5-min crossing), the Praia do Barril mini-train and anchor cemetery, the Cabanas de Tavira sandbar, and the Cacela Velha clifftop village. The CP Linha do Algarve and Vamus EVA coastal buses run east to the Vila Real de Santo António ferry crossing the Rio Guadiana to Ayamonte in Spain.",
+    "lat": 37.1273,
+    "lng": -7.6483,
+    "weather": {
+      "jan": { "temp": 12, "desc": "Mild & sunny", "icon": "🌤️" },
+      "feb": { "temp": 13, "desc": "Mild & dry", "icon": "🌤️" },
+      "mar": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
+      "apr": { "temp": 17, "desc": "Warm & sunny", "icon": "🌤️" },
+      "may": { "temp": 19, "desc": "Warm & sunny", "icon": "☀️" },
+      "jun": { "temp": 23, "desc": "Hot & dry", "icon": "☀️" },
+      "jul": { "temp": 26, "desc": "Hot & dry", "icon": "☀️" },
+      "aug": { "temp": 26, "desc": "Hot & dry", "icon": "☀️" },
+      "sep": { "temp": 24, "desc": "Warm & sunny", "icon": "☀️" },
+      "oct": { "temp": 20, "desc": "Mild & pleasant", "icon": "🌤️" },
+      "nov": { "temp": 16, "desc": "Mild & breezy", "icon": "⛅" },
+      "dec": { "temp": 13, "desc": "Mild & sunny", "icon": "🌤️" }
+    },
+    "iata": "FAO"
+  },
+  {
     "slug": "the-hague",
     "name": "The Hague",
     "country": "Netherlands",

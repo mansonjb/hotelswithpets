@@ -992,6 +992,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Roman amphitheatre and its seafront viewpoint, the dog area at Platja Llarga and the secluded Cala Fonda cove through the Bosc de la Marquesa pine forest, and the Passeig Arqueològic around the Roman walls`,
       area: `the medieval Part Alta and Roman walls, the Rambla Nova ending at the Balcó del Mediterrani, and the seafront Platja del Miracle`,
     },
+    tavira: {
+      personality: `the quieter eastern Algarve town split by the Rio Gilão and its seven-arch Ponte Romana, where whitewashed lanes lead from the Praça da República to ~37 churches and the hilltop Castelo, with the Parque Natural da Ria Formosa lagoon on the doorstep and ferry-only barrier-island beaches keeping crowds away`,
+      highlight: `the Ilha de Tavira ferry from Quatro Águas, the Praia do Barril mini-train and anchor cemetery, the Salinas de Tavira dyke walks with flamingos, and the Cacela Velha clifftop village 10 km east`,
+      area: `the centro histórico around the Praça da República and Castelo, the Rio Gilão east-bank esplanadas, and the Santa Luzia octopus-fishing village and Cabanas de Tavira sandbar village`,
+    },
     'the-hague': {
       personality: 'a stately Dutch capital where 11 km of North Sea coast, off-leash dunes, and dog-friendly cafés sit a tram ride from the centre',
       highlight: 'Westduinpark and Bosjes van Poot, the Haagse Bos forest, and Landgoed Clingendael',
@@ -2118,6 +2123,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `le port romain catalan classé à l'UNESCO sur la Costa Daurada, avec trois plages canines désignées, un amphithéâtre du IIᵉ siècle en plein air qui sert de plus belle balade en laisse de la ville, et un hôpital vétérinaire de référence 24h/24 à La Canonja`,
       highlight: `l'amphithéâtre romain et son belvédère en bord de mer, la zone canine de la Platja Llarga et la crique discrète de Cala Fonda à travers la pinède du Bosc de la Marquesa, et le Passeig Arqueològic autour des murailles romaines`,
       area: `la Part Alta médiévale et les murailles romaines, la Rambla Nova jusqu'au Balcó del Mediterrani, et la Platja del Miracle en bord de mer`,
+    },
+    tavira: {
+      personality: `la ville plus calme de l'est de l'Algarve coupée par le Rio Gilão et son pont romain à sept arches, où des ruelles blanchies à la chaux mènent de la Praça da República à ~37 églises et au Castelo perché, avec le Parque Natural da Ria Formosa à la porte et des plages d'îles-barrières accessibles uniquement par bac qui filtrent la foule`,
+      highlight: `le bac vers l'Ilha de Tavira depuis Quatro Águas, le mini-train et le cimetière des ancres de la Praia do Barril, les chemins de digue des Salinas de Tavira avec flamants roses, et le village perché de Cacela Velha à 10 km à l'est`,
+      area: `le centro histórico autour de la Praça da República et du Castelo, les esplanades de la rive est du Rio Gilão, et le village de pêche au poulpe de Santa Luzia et le village du banc de sable de Cabanas de Tavira`,
     },
     'the-hague': {
       personality: 'une capitale néerlandaise élégante où 11 km de côte de la mer du Nord, des dunes sans laisse et des cafés dog-friendly sont à un tram du centre',
@@ -3246,6 +3256,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el anfiteatro romano y su mirador junto al mar, la zona canina de Platja Llarga y la cala discreta de Cala Fonda a través del pinar Bosc de la Marquesa, y el Passeig Arqueològic en torno a las murallas romanas`,
       area: `la Part Alta medieval y las murallas romanas, la Rambla Nova hasta el Balcó del Mediterrani, y la Platja del Miracle frente al mar`,
     },
+    tavira: {
+      personality: `la ciudad más tranquila del este del Algarve cortada por el Rio Gilão y su puente romano de siete arcos, donde callejones encalados llevan desde la Praça da República a ~37 iglesias y al Castelo en lo alto, con el Parque Natural da Ria Formosa a la puerta y playas de islas barrera accesibles solo por ferry que filtran a la multitud`,
+      highlight: `el ferry a la Ilha de Tavira desde Quatro Águas, el mini-tren y el cementerio de anclas de la Praia do Barril, los caminos de dique de las Salinas de Tavira con flamencos, y el pueblo en lo alto de Cacela Velha a 10 km al este`,
+      area: `el centro histórico en torno a la Praça da República y el Castelo, las esplanadas de la ribera este del Rio Gilão, y el pueblo de pesca de pulpo de Santa Luzia y el pueblo del banco de arena de Cabanas de Tavira`,
+    },
     'the-hague': {
       personality: 'una capital neerlandesa elegante donde 11 km de costa del Mar del Norte, dunas sin correa y cafés dog-friendly están a un tranvía del centro',
       highlight: 'Westduinpark y Bosjes van Poot, el bosque Haagse Bos y la finca Clingendael',
@@ -4372,6 +4387,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `o porto romano catalão Património da UNESCO na Costa Daurada, com três praias caninas designadas, um anfiteatro do século II ao ar livre que é o passeio com trela mais bonito da cidade, e um hospital veterinário de referência 24h/24 em La Canonja`,
       highlight: `o anfiteatro romano e o seu miradouro junto ao mar, a zona canina da Platja Llarga e a cala discreta de Cala Fonda através do pinhal Bosc de la Marquesa, e o Passeig Arqueològic em torno das muralhas romanas`,
       area: `a Part Alta medieval e as muralhas romanas, a Rambla Nova até ao Balcó del Mediterrani, e a Platja del Miracle em frente ao mar`,
+    },
+    tavira: {
+      personality: `a cidade mais calma do leste do Algarve cortada pelo Rio Gilão e a sua ponte romana de sete arcos, onde ruelas caiadas levam da Praça da República a ~37 igrejas e ao Castelo no alto, com o Parque Natural da Ria Formosa à porta e praias de ilhas-barreira acessíveis apenas por ferry que filtram a multidão`,
+      highlight: `o ferry para a Ilha de Tavira a partir de Quatro Águas, o mini-comboio e o cemitério das âncoras da Praia do Barril, os caminhos de dique das Salinas de Tavira com flamingos, e a aldeia no alto de Cacela Velha a 10 km a leste`,
+      area: `o centro histórico em torno da Praça da República e do Castelo, as esplanadas da margem leste do Rio Gilão, e a aldeia de pesca de polvo de Santa Luzia e a aldeia do banco de areia de Cabanas de Tavira`,
     },
     'the-hague': {
       personality: 'uma capital neerlandesa elegante onde 11 km de costa do mar do norte, dunas sem trela e cafés pet-friendly estão a um elétrico do centro',

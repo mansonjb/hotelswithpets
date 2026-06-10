@@ -972,6 +972,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Pyynikki ridge and observation tower café, the Pyynikki and Niihama dog beaches on the two lakes, and the Tammerkoski rapids walkway through the centre`,
       area: `the centre between the Tammerkoski rapids and Hämeenkatu, the Finlayson creative quarter, and the lakeside Pyynikki ridge`,
     },
+    tarifa: {
+      personality: `the southernmost town on mainland Europe and the world capital of kitesurf and windsurf, a tiny whitewashed medieval old town wrapped in 10 km of flat-sand beach where leashed dogs walk under the Levante wind out of bathing season and a 35-minute ferry crosses to Tangier`,
+      highlight: `the casco antiguo around the Castillo de Guzmán el Bueno, the 10 km Playa de Los Lances at sunrise, and the Roman ruins of Baelo Claudia behind the dog-friendly Bolonia beach`,
+      area: `the walled casco antiguo, the port and Alameda promenade, and the dune-backed Los Lances and Valdevaqueros beaches north-west of town`,
+    },
     tarragona: {
       personality: `Catalonia's UNESCO Roman seaport on the Costa Daurada, with three designated dog beaches, an open-air 2nd-century amphitheatre that doubles as the prettiest leashed walk in the city, and a 24/7 reference vet hospital at La Canonja`,
       highlight: `the Roman amphitheatre and its seafront viewpoint, the dog area at Platja Llarga and the secluded Cala Fonda cove through the Bosc de la Marquesa pine forest, and the Passeig Arqueològic around the Roman walls`,
@@ -2083,6 +2088,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la troisième ville de Finlande et la capitale officieuse du sauna, transports exceptionnellement dog-friendly (trams et trains gratuits), 22 koira-aitaus clôturés, deux plages canines en bord de lac à distance de marche du centre, et l'iconique crête de Pyynikki avec promenade canine toute l'année`,
       highlight: `la crête de Pyynikki et son café-tour d'observation, les plages canines de Pyynikki et Niihama sur les deux lacs, et la promenade des rapides du Tammerkoski à travers le centre`,
       area: `le centre entre les rapides du Tammerkoski et Hämeenkatu, le quartier créatif Finlayson et la crête lacustre de Pyynikki`,
+    },
+    tarifa: {
+      personality: `la ville la plus au sud d'Europe continentale et la capitale mondiale du kitesurf et du windsurf, un petit casco antiguo médiéval blanchi enveloppé de 10 km de plage de sable plat où les chiens en laisse marchent sous le Levante hors saison, et un ferry de 35 minutes file vers Tanger`,
+      highlight: `le casco antiguo autour du Castillo de Guzmán el Bueno, les 10 km de la Playa de Los Lances au lever du soleil, et les ruines romaines de Baelo Claudia derrière la plage dog-friendly de Bolonia`,
+      area: `le casco antiguo fortifié, le port et la promenade de l'Alameda, et les plages de Los Lances et Valdevaqueros adossées aux dunes au nord-ouest`,
     },
     tarragona: {
       personality: `le port romain catalan classé à l'UNESCO sur la Costa Daurada, avec trois plages canines désignées, un amphithéâtre du IIᵉ siècle en plein air qui sert de plus belle balade en laisse de la ville, et un hôpital vétérinaire de référence 24h/24 à La Canonja`,
@@ -3196,6 +3206,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la cresta de Pyynikki y su café-torre de observación, las playas caninas de Pyynikki y Niihama en los dos lagos, y el paseo de los rápidos del Tammerkoski a través del centro`,
       area: `el centro entre los rápidos del Tammerkoski y Hämeenkatu, el barrio creativo Finlayson y la cresta lacustre de Pyynikki`,
     },
+    tarifa: {
+      personality: `la ciudad más al sur de Europa continental y capital mundial del kitesurf y el windsurf, un pequeño casco antiguo medieval blanco envuelto por 10 km de playa de arena plana donde los perros con correa pasean bajo el Levante fuera de temporada, y un ferry de 35 minutos cruza a Tánger`,
+      highlight: `el casco antiguo en torno al Castillo de Guzmán el Bueno, los 10 km de la Playa de Los Lances al amanecer, y las ruinas romanas de Baelo Claudia detrás de la playa pet-friendly de Bolonia`,
+      area: `el casco antiguo amurallado, el puerto y el paseo de la Alameda, y las playas de Los Lances y Valdevaqueros con dunas al noroeste`,
+    },
     tarragona: {
       personality: `el puerto romano catalán Patrimonio de la UNESCO en la Costa Daurada, con tres playas caninas señalizadas, un anfiteatro del siglo II al aire libre que es el paseo con correa más bonito de la ciudad, y un hospital veterinario de referencia 24h/24 en La Canonja`,
       highlight: `el anfiteatro romano y su mirador junto al mar, la zona canina de Platja Llarga y la cala discreta de Cala Fonda a través del pinar Bosc de la Marquesa, y el Passeig Arqueològic en torno a las murallas romanas`,
@@ -4307,6 +4322,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a tercera cidade de Finlândia e capital oficiosa do sauna, transporte excepcionalmente pet-friendly (elétricos e comboios grátis), 22 koira-aitaus valladas, dos praias caninas junto al lago a distancia pedonal do centro, e a icónica cresta de Pyynikki com passeio canino o ano inteiro`,
       highlight: `a cresta de Pyynikki e o seu café-torre de observación, as praias caninas de Pyynikki e Niihama nos dos lagos, e o passeio dos rápidos do Tammerkoski a través do centro`,
       area: `o centro entre os rápidos do Tammerkoski e Hämeenkatu, o bairro creativo Finlayson e a cresta lacustre de Pyynikki`,
+    },
+    tarifa: {
+      personality: `a cidade mais a sul da Europa continental e capital mundial do kitesurf e do windsurf, um pequeno casco antiguo medieval branco envolto por 10 km de praia de areia plana onde os cães à trela passeiam sob o Levante fora de época, e um ferry de 35 minutos atravessa para Tânger`,
+      highlight: `o casco antiguo em torno do Castillo de Guzmán el Bueno, os 10 km da Playa de Los Lances ao amanhecer, e as ruínas romanas de Baelo Claudia atrás da praia pet-friendly de Bolonia`,
+      area: `o casco antiguo amuralhado, o porto e o passeio da Alameda, e as praias de Los Lances e Valdevaqueros com dunas a noroeste`,
     },
     tarragona: {
       personality: `o porto romano catalão Património da UNESCO na Costa Daurada, com três praias caninas designadas, um anfiteatro do século II ao ar livre que é o passeio com trela mais bonito da cidade, e um hospital veterinário de referência 24h/24 em La Canonja`,

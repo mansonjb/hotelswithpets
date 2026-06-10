@@ -13854,6 +13854,33 @@
     "iata": "TMP"
   },
   {
+    "slug": "tarifa",
+    "name": "Tarifa",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/tarifa.jpg",
+    "intro": "Tarifa, the southernmost point of mainland Europe on the Strait of Gibraltar, is a tiny medieval town that doubles as the kitesurf and windsurf capital of the world. Ten kilometres of flat-sand Playa de Los Lances open to leashed dogs out of season, the Roman ruins of Baelo Claudia behind dog-friendly Bolonia beach, a 35-minute FRS ferry to Tangier, and a 24-hour vet on-call line make it one of southern Spain`s most distinctive small-town bases for pet travel.",
+    "lat": 36.0143,
+    "lng": -5.6044,
+    "weather": {
+      "jan": { "temp": 13, "desc": "Mild & windy", "icon": "🌤️" },
+      "feb": { "temp": 14, "desc": "Mild & breezy", "icon": "🌤️" },
+      "mar": { "temp": 15, "desc": "Mild & windy", "icon": "🌤️" },
+      "apr": { "temp": 16, "desc": "Mild & windy", "icon": "🌤️" },
+      "may": { "temp": 18, "desc": "Warm & breezy", "icon": "☀️" },
+      "jun": { "temp": 21, "desc": "Warm & windy", "icon": "☀️" },
+      "jul": { "temp": 24, "desc": "Warm & windy", "icon": "☀️" },
+      "aug": { "temp": 24, "desc": "Warm & windy", "icon": "☀️" },
+      "sep": { "temp": 22, "desc": "Warm & breezy", "icon": "☀️" },
+      "oct": { "temp": 19, "desc": "Mild & breezy", "icon": "🌤️" },
+      "nov": { "temp": 16, "desc": "Mild & windy", "icon": "🌦️" },
+      "dec": { "temp": 14, "desc": "Mild & windy", "icon": "🌦️" }
+    },
+    "iata": "AGP"
+  },
+  {
     "slug": "tarragona",
     "name": "Tarragona",
     "country": "Spain",

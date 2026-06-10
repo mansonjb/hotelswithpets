@@ -1,0 +1,970 @@
+{
+  "slug": "tarifa",
+  "name": "Tarifa",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "lastUpdated": "2026-06-10",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Tarifa",
+      "titleFr": "Restaurants qui acceptent les chiens à Tarifa",
+      "titleEs": "Restaurantes que admiten perros en Tarifa",
+      "titlePt": "Restaurantes que aceitam cães em Tarifa",
+      "introEn": "Tarifa is one of the easiest small towns in Spain to eat out with a dog. The casco antiguo`s tight whitewashed streets are full of tapas terraces, kitesurf-crowd cafés and beachfront chiringuitos along Los Lances that welcome leashed dogs on the terrace. The Levante wind shapes the pace: when it howls, head inside Calle San Francisco or the port side.",
+      "introFr": "Tarifa est l`une des petites villes d`Espagne les plus faciles pour manger dehors avec un chien. Les ruelles blanchies du casco antiguo regorgent de terrasses à tapas, de cafés de kitesurfeurs et de chiringuitos en bord de Los Lances qui accueillent les chiens en laisse en terrasse. Le vent de Levante donne le rythme : quand il souffle fort, repliez-vous sur Calle San Francisco ou côté port.",
+      "introEs": "Tarifa es uno de los pueblos más fáciles de España para comer fuera con perro. Las callejuelas blancas del casco antiguo están llenas de terrazas de tapas, cafés de kitesurfistas y chiringuitos junto a Los Lances que admiten perros con correa en la terraza. El Levante marca el ritmo: cuando aprieta, refúgiate en la calle San Francisco o en la zona del puerto.",
+      "introPt": "Tarifa é uma das pequenas vilas mais fáceis de Espanha para comer fora com cão. As ruelas brancas do casco antiguo estão cheias de esplanadas de tapas, cafés de kitesurfistas e chiringuitos junto a Los Lances que aceitam cães à trela na esplanada. O vento Levante marca o ritmo: quando sopra forte, refugie-se na calle San Francisco ou na zona do porto.",
+      "places": [
+        {
+          "name": "Café Azul",
+          "address": "Calle Batalla del Salado, 8, Tarifa",
+          "neighborhood": "Casco antiguo",
+          "photo": "/images/city-places/tarifa-restaurants-cafe-azul.jpg",
+          "website": "",
+          "description": "A bright Italian-run breakfast café famous for fresh fruit bowls, eggs Benedict and strong coffee, on the edge of the old town. Leashed dogs are welcome on the outdoor tables that line the pedestrian street.",
+          "descriptionFr": "Un café petit-déjeuner tenu par un Italien, célèbre pour ses bowls de fruits frais, ses œufs Benedict et son café serré, à la lisière de la vieille ville. Les chiens en laisse sont les bienvenus aux tables en terrasse de la rue piétonne.",
+          "descriptionEs": "Un luminoso café de desayunos llevado por un italiano, famoso por sus bowls de fruta fresca, sus huevos Benedict y su café fuerte, en el borde del casco antiguo. Los perros con correa son bienvenidos en las mesas exteriores de la calle peatonal.",
+          "descriptionPt": "Um luminoso café de pequenos-almoços gerido por um italiano, famoso pelas suas taças de fruta fresca, ovos Benedict e café forte, à beira do casco antiguo. Os cães à trela são bem-vindos nas mesas exteriores da rua pedonal.",
+          "petPolicy": "Leashed dogs welcome on the terrace.",
+          "petPolicyFr": "Chiens en laisse bienvenus en terrasse.",
+          "petPolicyEs": "Perros con correa bienvenidos en la terraza.",
+          "petPolicyPt": "Cães à trela bem-vindos na esplanada.",
+          "priceRange": "€-€€",
+          "mustTry": "Tropical fruit bowl and the Tarifa-style French toast.",
+          "mustTryFr": "Bowl de fruits tropicaux et le pain perdu façon Tarifa.",
+          "mustTryEs": "Bowl de fruta tropical y la torrija estilo Tarifa.",
+          "mustTryPt": "Taça de fruta tropical e a rabanada estilo Tarifa.",
+          "openingHours": "Check current hours before visiting.",
+          "tip": "Arrive before 11:00 in summer; the terrace fills fast with the kite crowd.",
+          "tipFr": "Arrivez avant 11h en été ; la terrasse se remplit vite avec les kitesurfeurs.",
+          "tipEs": "Llega antes de las 11:00 en verano; la terraza se llena rápido con los kitesurfistas.",
+          "tipPt": "Chegue antes das 11:00 no verão; a esplanada enche depressa com os kitesurfistas.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Cafe+Azul+Tarifa"
+        },
+        {
+          "name": "El Pasillo",
+          "address": "Calle Guzmán el Bueno, 8, Tarifa",
+          "neighborhood": "Casco antiguo",
+          "photo": "/images/city-places/tarifa-restaurants-el-pasillo.jpg",
+          "website": "",
+          "description": "A tiny, much-loved old-town tapas bar serving classic gaditano dishes with a focus on local atún rojo de almadraba (red tuna) and retinto beef. Well-behaved leashed dogs are welcome at the outdoor tables on the narrow whitewashed street.",
+          "descriptionFr": "Un minuscule bar à tapas très apprécié de la vieille ville, servant des plats gaditans classiques autour du thon rouge d`almadraba et du bœuf retinto. Les chiens sages en laisse sont bienvenus aux tables extérieures de la ruelle blanchie.",
+          "descriptionEs": "Un pequeño y muy querido bar de tapas del casco antiguo, con clásicos gaditanos centrados en el atún rojo de almadraba y la carne de retinto. Los perros tranquilos con correa son bienvenidos en las mesas de la callejuela blanca.",
+          "descriptionPt": "Um pequeno e adorado bar de tapas do casco antiguo, com clássicos gaditanos centrados no atum vermelho de almadraba e na carne de retinto. Os cães calmos à trela são bem-vindos nas mesas da ruela branca.",
+          "petPolicy": "Leashed dogs welcome at the outdoor tables.",
+          "petPolicyFr": "Chiens en laisse bienvenus aux tables en terrasse.",
+          "petPolicyEs": "Perros con correa bienvenidos en las mesas exteriores.",
+          "petPolicyPt": "Cães à trela bem-vindos nas mesas exteriores.",
+          "priceRange": "€€",
+          "mustTry": "Tataki de atún rojo and grilled retinto sirloin.",
+          "mustTryFr": "Tataki de thon rouge et entrecôte de retinto grillée.",
+          "mustTryEs": "Tataki de atún rojo y entrecot de retinto a la brasa.",
+          "mustTryPt": "Tataki de atum vermelho e entrecosto de retinto na brasa.",
+          "openingHours": "Check current hours before visiting.",
+          "tip": "The street is very narrow; pull your dog`s leash short so passers-by can squeeze through.",
+          "tipFr": "La rue est très étroite ; raccourcissez la laisse pour laisser passer les piétons.",
+          "tipEs": "La calle es muy estrecha; recoge la correa para que pase la gente.",
+          "tipPt": "A rua é muito estreita; encurte a trela para deixar passar quem caminha.",
+          "googleMapsUrl": "https://www.google.com/maps/search/El+Pasillo+Tarifa"
+        },
+        {
+          "name": "Surla Café",
+          "address": "Calle Mar Tirreno, Tarifa",
+          "neighborhood": "Playa de Los Lances",
+          "photo": "/images/city-places/tarifa-restaurants-surla-cafe.jpg",
+          "website": "",
+          "description": "A relaxed beachfront café-restaurant just behind Los Lances, popular with kitesurfers for big breakfasts, healthy bowls and burgers, with a wide outdoor terrace facing the dunes. Dogs are welcome on the terrace and on the path that runs to the sand.",
+          "descriptionFr": "Un café-restaurant détendu en bord de plage, juste derrière Los Lances, prisé des kitesurfeurs pour ses gros petits-déjeuners, bowls santé et burgers, avec une grande terrasse face aux dunes. Les chiens sont bienvenus en terrasse et sur le sentier qui mène au sable.",
+          "descriptionEs": "Un café-restaurante tranquilo junto a la playa, detrás de Los Lances, popular entre kitesurfistas por sus desayunos abundantes, bowls saludables y burgers, con amplia terraza frente a las dunas. Los perros son bienvenidos en la terraza y en el sendero hacia la arena.",
+          "descriptionPt": "Um café-restaurante descontraído junto à praia, atrás de Los Lances, popular entre kitesurfistas pelos pequenos-almoços fartos, taças saudáveis e hambúrgueres, com ampla esplanada frente às dunas. Os cães são bem-vindos na esplanada e no caminho até à areia.",
+          "petPolicy": "Leashed dogs welcome on the terrace.",
+          "petPolicyFr": "Chiens en laisse bienvenus en terrasse.",
+          "petPolicyEs": "Perros con correa bienvenidos en la terraza.",
+          "petPolicyPt": "Cães à trela bem-vindos na esplanada.",
+          "priceRange": "€€",
+          "mustTry": "Açai bowl and tuna burger with avocado.",
+          "mustTryFr": "Bowl açaï et burger de thon à l`avocat.",
+          "mustTryEs": "Bowl de açaí y burger de atún con aguacate.",
+          "mustTryPt": "Taça de açaí e hambúrguer de atum com abacate.",
+          "openingHours": "Check current hours before visiting.",
+          "tip": "Perfect post-beach stop; ask for a water bowl while you order.",
+          "tipFr": "Halte idéale après la plage ; demandez une gamelle d`eau en commandant.",
+          "tipEs": "Parada perfecta tras la playa; pide un cuenco de agua al pedir.",
+          "tipPt": "Paragem perfeita depois da praia; peça uma tigela de água ao encomendar.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Surla+Tarifa"
+        }
+      ],
+      "tipsEn": [
+        "The old town between Calle San Francisco, Calle Sancho IV el Bravo and Plaza San Mateo concentrates the most dog-welcoming terraces.",
+        "Ask for `agua para el perro`; almost every Tarifa terrace will bring a bowl.",
+        "On strong Levante days, ask whether dogs can sit just inside the doorway out of the wind."
+      ],
+      "tipsFr": [
+        "La vieille ville entre Calle San Francisco, Sancho IV el Bravo et Plaza San Mateo concentre les terrasses les plus accueillantes pour les chiens.",
+        "Demandez `agua para el perro` ; presque toutes les terrasses de Tarifa apportent une gamelle.",
+        "Les jours de fort Levante, demandez si les chiens peuvent rester juste à l`entrée, à l`abri du vent."
+      ],
+      "tipsEs": [
+        "El casco antiguo entre Calle San Francisco, Sancho IV el Bravo y Plaza San Mateo concentra las terrazas más perrunas.",
+        "Pide `agua para el perro`; casi toda terraza de Tarifa trae un cuenco.",
+        "Con Levante fuerte, pregunta si el perro puede quedarse justo en la entrada, al abrigo del viento."
+      ],
+      "tipsPt": [
+        "O casco antiguo entre Calle San Francisco, Sancho IV el Bravo e Plaza San Mateo concentra as esplanadas mais acolhedoras para cães.",
+        "Peça `agua para el perro`; quase toda esplanada de Tarifa traz uma tigela.",
+        "Com Levante forte, pergunte se o cão pode ficar logo à entrada, ao abrigo do vento."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Tarifa restaurants?",
+          "a": "On terraces, yes, almost everywhere in the old town and along Los Lances for leashed dogs. Inside depends on each owner; in summer most people eat outside anyway."
+        },
+        {
+          "q": "Do I need to muzzle my dog at the table?",
+          "a": "No, but Andalusian rules require dogs over 20 kg or classed as potentially dangerous to be muzzled in the street. Keep the muzzle handy in your bag."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les restaurants de Tarifa ?",
+          "a": "En terrasse, oui, presque partout dans la vieille ville et le long de Los Lances pour les chiens en laisse. À l`intérieur, cela dépend de chaque établissement ; en été, la plupart des gens mangent dehors de toute façon."
+        },
+        {
+          "q": "Dois-je museler mon chien à table ?",
+          "a": "Non, mais la réglementation andalouse impose la muselière dans la rue pour les chiens de plus de 20 kg ou classés potentiellement dangereux. Gardez la muselière à portée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Tarifa?",
+          "a": "En las terrazas, sí, casi en todo el casco antiguo y en Los Lances con perro atado. En el interior depende de cada local; en verano casi todo el mundo come fuera."
+        },
+        {
+          "q": "¿Tengo que ponerle bozal al perro en la mesa?",
+          "a": "No, pero la normativa andaluza exige bozal en la calle a perros de más de 20 kg o clasificados como potencialmente peligrosos. Lleva el bozal a mano."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são aceites nos restaurantes de Tarifa?",
+          "a": "Nas esplanadas, sim, quase em todo o casco antiguo e em Los Lances com cão à trela. No interior depende de cada local; no verão quase toda a gente come fora de qualquer forma."
+        },
+        {
+          "q": "Preciso de pôr açaime no cão à mesa?",
+          "a": "Não, mas as regras andaluzas exigem açaime na rua para cães de mais de 20 kg ou classificados como potencialmente perigosos. Leve o açaime à mão."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Parks & Green Spaces in Tarifa",
+      "titleFr": "Parcs et espaces verts pour chiens à Tarifa",
+      "titleEs": "Parques y zonas verdes para perros en Tarifa",
+      "titlePt": "Parques e zonas verdes para cães em Tarifa",
+      "introEn": "Tarifa itself is too small for big urban parks, but it sits inside the Parque Natural del Estrecho, with pine-covered hills, dune systems and clifftop trails just a few minutes from the casco antiguo. For day-to-day walks, locals use the seafront paseo and a handful of small green areas near Playa Chica and the bullring.",
+      "introFr": "Tarifa est trop petite pour de grands parcs urbains, mais elle se trouve à l`intérieur du Parque Natural del Estrecho, avec collines couvertes de pins, dunes et sentiers de falaise à quelques minutes du casco antiguo. Pour le quotidien, les habitants utilisent le paseo en bord de mer et quelques petits espaces verts près de Playa Chica et des arènes.",
+      "introEs": "Tarifa es demasiado pequeña para grandes parques urbanos, pero está dentro del Parque Natural del Estrecho, con cerros de pino, sistemas dunares y senderos de acantilado a pocos minutos del casco antiguo. Para el día a día, los vecinos usan el paseo marítimo y algunas zonas verdes pequeñas cerca de Playa Chica y la plaza de toros.",
+      "introPt": "Tarifa é demasiado pequena para grandes parques urbanos, mas fica dentro do Parque Natural del Estrecho, com colinas de pinheiros, dunas e trilhos de falésia a poucos minutos do casco antiguo. Para o dia a dia, os habitantes usam o passeio marítimo e algumas zonas verdes pequenas perto de Playa Chica e da praça de touros.",
+      "places": [
+        {
+          "name": "Parque Natural del Estrecho - Sendero del Cerro de la Peña",
+          "type": "Coastal natural park trail",
+          "photo": "/images/city-places/tarifa-parks-parque-natural-del-estrecho.jpg",
+          "website": "",
+          "description": "A short clifftop trail inside the Parque Natural del Estrecho, with sweeping views over the Strait of Gibraltar to the Rif mountains of Morocco. Leashed dogs are welcome on the marked tracks; the park protects nesting birds and grazing retinto cattle.",
+          "descriptionFr": "Un court sentier de falaise dans le Parque Natural del Estrecho, offrant des vues plongeantes sur le détroit de Gibraltar et le Rif marocain. Les chiens en laisse sont admis sur les pistes balisées ; le parc protège des oiseaux nicheurs et des vaches retintes en pâture.",
+          "descriptionEs": "Un corto sendero de acantilado dentro del Parque Natural del Estrecho, con vistas amplias sobre el Estrecho de Gibraltar hasta el Rif marroquí. Los perros con correa son bienvenidos en los caminos señalizados; el parque protege aves nidificantes y vacas retintas en pasto.",
+          "descriptionPt": "Um curto trilho de falésia dentro do Parque Natural del Estrecho, com vistas amplas sobre o Estreito de Gibraltar até ao Rif marroquino. Os cães à trela são bem-vindos nos caminhos sinalizados; o parque protege aves nidificantes e vacas retintas em pasto.",
+          "offLeash": false,
+          "offLeashArea": "Dogs must be kept on a leash throughout the natural park.",
+          "offLeashAreaFr": "Les chiens doivent rester en laisse dans tout le parc naturel.",
+          "offLeashAreaEs": "Los perros deben ir con correa en todo el parque natural.",
+          "offLeashAreaPt": "Os cães devem ir à trela em todo o parque natural.",
+          "tip": "Watch for free-roaming retinto cows; keep the leash short and give them a wide berth.",
+          "tipFr": "Attention aux vaches retintes en liberté ; gardez la laisse courte et contournez-les largement.",
+          "tipEs": "Cuidado con las vacas retintas sueltas; mantén la correa corta y dales un buen rodeo.",
+          "tipPt": "Atenção às vacas retintas soltas; mantenha a trela curta e dê-lhes uma volta larga.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Parque+Natural+del+Estrecho+Tarifa"
+        },
+        {
+          "name": "Paseo de la Alameda",
+          "type": "Tree-shaded promenade",
+          "photo": "/images/city-places/tarifa-parks-paseo-de-la-alameda.jpg",
+          "website": "",
+          "description": "The historic palm-lined promenade running from the old-town walls down to the port, with shaded benches, kiosks and a children`s play area. The most central spot for a calm leashed loop, especially in the evening.",
+          "descriptionFr": "La promenade historique bordée de palmiers qui descend des remparts au port, avec bancs ombragés, kiosques et aire de jeux. L`endroit le plus central pour une boucle tranquille en laisse, surtout en soirée.",
+          "descriptionEs": "El histórico paseo con palmeras que baja desde las murallas al puerto, con bancos a la sombra, quioscos y zona infantil. El sitio más céntrico para una vuelta tranquila con correa, sobre todo al atardecer.",
+          "descriptionPt": "O histórico passeio com palmeiras que desce das muralhas ao porto, com bancos à sombra, quiosques e zona infantil. O sítio mais central para uma volta tranquila à trela, sobretudo ao fim do dia.",
+          "offLeash": false,
+          "offLeashArea": "Leash required throughout the promenade.",
+          "offLeashAreaFr": "Laisse obligatoire sur toute la promenade.",
+          "offLeashAreaEs": "Correa obligatoria en todo el paseo.",
+          "offLeashAreaPt": "Trela obrigatória em todo o passeio.",
+          "tip": "Best at sunset when the heat drops and the tarifeños come out for their paseo.",
+          "tipFr": "Idéal au coucher du soleil, quand la chaleur tombe et que les tarifeños sortent pour leur paseo.",
+          "tipEs": "Mejor al atardecer, cuando baja el calor y los tarifeños salen al paseo.",
+          "tipPt": "Melhor ao pôr do sol, quando o calor desce e os tarifeños saem para o seu paseo.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Paseo+Alameda+Tarifa"
+        },
+        {
+          "name": "Pinar del Bujeo",
+          "type": "Pine forest recreation area",
+          "photo": "/images/city-places/tarifa-parks-pinar-del-bujeo.jpg",
+          "website": "",
+          "description": "A pine forest recreation area on the N-340 between Tarifa and Algeciras, with shaded picnic tables, fire pits, and gentle forest tracks. A favourite cooler-weather destination when the Levante howls on the beach; leashed dogs are welcome.",
+          "descriptionFr": "Une aire de loisirs en pinède sur la N-340 entre Tarifa et Algeciras, avec tables de pique-nique ombragées, foyers et pistes forestières faciles. Une destination prisée quand le Levante hurle sur la plage ; chiens en laisse bienvenus.",
+          "descriptionEs": "Una zona recreativa en pinar en la N-340 entre Tarifa y Algeciras, con mesas de pícnic a la sombra, fogones y pistas forestales suaves. Un destino favorito cuando el Levante aúlla en la playa; perros con correa bienvenidos.",
+          "descriptionPt": "Uma zona de lazer em pinhal na N-340 entre Tarifa e Algeciras, com mesas de piquenique à sombra, fogões e trilhos florestais suaves. Um destino favorito quando o Levante uiva na praia; cães à trela bem-vindos.",
+          "offLeash": false,
+          "offLeashArea": "Leash required; cattle and wildlife graze nearby.",
+          "offLeashAreaFr": "Laisse obligatoire ; bétail et faune sauvage paissent à proximité.",
+          "offLeashAreaEs": "Correa obligatoria; pastan ganado y fauna silvestre cerca.",
+          "offLeashAreaPt": "Trela obrigatória; gado e fauna silvestre pastam por perto.",
+          "tip": "Bring water; there are taps but they can run dry mid-summer.",
+          "tipFr": "Apportez de l`eau ; les robinets existent mais peuvent être à sec en plein été.",
+          "tipEs": "Lleva agua; hay grifos pero pueden estar secos en pleno verano.",
+          "tipPt": "Leve água; há torneiras mas podem estar secas em pleno verão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Pinar+del+Bujeo+Tarifa"
+        }
+      ],
+      "tipsEn": [
+        "There is no fenced municipal dog area in Tarifa town; the closest off-leash run is the Pinar del Bujeo forest paths.",
+        "The Parque Natural del Estrecho rules require dogs on a leash year-round to protect grazing cattle and ground-nesting birds.",
+        "Always carry waste bags; Tarifa enforces municipal fines for not picking up."
+      ],
+      "tipsFr": [
+        "Il n`y a pas d`aire canine clôturée municipale à Tarifa ; la course sans laisse la plus proche se fait sur les pistes du Pinar del Bujeo.",
+        "Les règles du Parque Natural del Estrecho imposent la laisse toute l`année pour protéger le bétail et les oiseaux nichant au sol.",
+        "Emportez toujours des sacs ; Tarifa applique des amendes municipales si vous ne ramassez pas."
+      ],
+      "tipsEs": [
+        "No hay área canina vallada municipal en Tarifa; el sitio más cercano para correr sin correa son los caminos del Pinar del Bujeo.",
+        "Las normas del Parque Natural del Estrecho exigen correa todo el año para proteger el ganado y las aves que nidifican en el suelo.",
+        "Lleva siempre bolsas; Tarifa aplica multas municipales por no recoger."
+      ],
+      "tipsPt": [
+        "Não há área canina vedada municipal em Tarifa; o sítio mais próximo para correr sem trela são os trilhos do Pinar del Bujeo.",
+        "As regras do Parque Natural del Estrecho exigem trela o ano inteiro para proteger o gado e as aves que nidificam no chão.",
+        "Leve sempre sacos; Tarifa aplica multas municipais por não apanhar."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there an off-leash dog park in Tarifa?",
+          "a": "No fenced municipal dog area in town. Locals use the Pinar del Bujeo pine forest tracks on the N-340 or the wide section of Los Lances beach out of season for off-leash time, both at the owner`s judgement."
+        },
+        {
+          "q": "Can my dog walk in the Parque Natural del Estrecho?",
+          "a": "Yes, on a leash year-round. The park protects grazing retinto cattle, ground-nesting birds and migratory raptors crossing the strait, so off-leash dogs are not allowed."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un parc canin sans laisse à Tarifa ?",
+          "a": "Pas d`aire canine clôturée municipale en ville. Les habitants utilisent les pistes du Pinar del Bujeo sur la N-340 ou la large section de Los Lances hors saison pour laisser courir leur chien, sous leur responsabilité."
+        },
+        {
+          "q": "Puis-je marcher avec mon chien dans le Parque Natural del Estrecho ?",
+          "a": "Oui, en laisse toute l`année. Le parc protège les vaches retintes en pâture, les oiseaux nichant au sol et les rapaces migrateurs qui traversent le détroit, donc pas de chien lâché."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un parque canino sin correa en Tarifa?",
+          "a": "No hay un área canina vallada municipal en el pueblo. Los locales usan los caminos del Pinar del Bujeo en la N-340 o la zona ancha de Los Lances fuera de temporada para soltar al perro, bajo su responsabilidad."
+        },
+        {
+          "q": "¿Puedo pasear con mi perro en el Parque Natural del Estrecho?",
+          "a": "Sí, con correa todo el año. El parque protege vacas retintas en pasto, aves que nidifican en el suelo y rapaces migratorias que cruzan el estrecho, por lo que no se permite soltarlos."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há um parque canino sem trela em Tarifa?",
+          "a": "Não há área canina vedada municipal na vila. Os habitantes usam os trilhos do Pinar del Bujeo na N-340 ou a zona larga de Los Lances fora de época para soltar o cão, sob responsabilidade própria."
+        },
+        {
+          "q": "Posso passear com o meu cão no Parque Natural del Estrecho?",
+          "a": "Sim, à trela o ano inteiro. O parque protege vacas retintas em pasto, aves que nidificam no chão e aves de rapina migratórias que atravessam o estreito, por isso não se permite soltá-los."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Tarifa with a Dog",
+      "titleFr": "Se déplacer à Tarifa avec un chien",
+      "titleEs": "Moverse por Tarifa con perro",
+      "titlePt": "Deslocar-se em Tarifa com um cão",
+      "introEn": "Tarifa is tiny: the casco antiguo, port, Alameda and the start of Playa de Los Lances are all walkable. The town has no airport and no train station, so reaching it means a car, a Comes/Avanza intercity bus from Algeciras, Cádiz or Sevilla, or a FRS/Inter Shipping fast ferry from Tangier MED across the strait. Each option has its own pet rules.",
+      "introFr": "Tarifa est minuscule : le casco antiguo, le port, l`Alameda et le début de la Playa de Los Lances se font à pied. La ville n`a ni aéroport ni gare, on y arrive donc en voiture, en bus interurbain Comes/Avanza depuis Algeciras, Cadix ou Séville, ou en ferry rapide FRS/Inter Shipping depuis Tanger MED de l`autre côté du détroit. Chaque mode a ses règles pour les animaux.",
+      "introEs": "Tarifa es minúscula: el casco antiguo, el puerto, la Alameda y el inicio de la Playa de Los Lances se hacen a pie. El pueblo no tiene aeropuerto ni estación de tren, así que se llega en coche, en autobús interurbano Comes/Avanza desde Algeciras, Cádiz o Sevilla, o en ferry rápido FRS/Inter Shipping desde Tánger MED al otro lado del estrecho. Cada opción tiene sus normas para mascotas.",
+      "introPt": "Tarifa é minúscula: o casco antiguo, o porto, a Alameda e o início da Playa de Los Lances fazem-se a pé. A vila não tem aeroporto nem estação de comboios, por isso chega-se de carro, de autocarro interurbano Comes/Avanza a partir de Algeciras, Cádiz ou Sevilha, ou de ferry rápido FRS/Inter Shipping desde Tânger MED do outro lado do estreito. Cada opção tem as suas regras para animais.",
+      "rules": [
+        {
+          "mode": "FRS / Inter Shipping ferry (Tarifa - Tangier MED)",
+          "modeFr": "Ferry FRS / Inter Shipping (Tarifa - Tanger MED)",
+          "modeEs": "Ferry FRS / Inter Shipping (Tarifa - Tánger MED)",
+          "modePt": "Ferry FRS / Inter Shipping (Tarifa - Tânger MED)",
+          "policy": "The 35-minute fast ferry across the Strait of Gibraltar takes pets, normally inside a carrier or in your vehicle on the car deck; foot passengers must keep the carrier with them. Crossing the strait means leaving the Schengen area: bring the EU pet passport, an up-to-date rabies vaccination and the ISO microchip. Confirm exact rules with the operator at booking.",
+          "policyFr": "Le ferry rapide de 35 minutes à travers le détroit de Gibraltar accepte les animaux, en général en cage de transport ou dans votre véhicule sur le pont auto ; à pied, la cage reste avec vous. Traverser le détroit, c`est sortir de l`espace Schengen : prévoyez passeport européen, vaccin antirabique à jour et puce ISO. Confirmez les conditions exactes à la réservation.",
+          "policyEs": "El ferry rápido de 35 minutos a través del Estrecho de Gibraltar admite mascotas, normalmente en transportín o en tu vehículo en la cubierta de coches; a pie, el transportín se queda contigo. Cruzar el estrecho es salir del espacio Schengen: lleva pasaporte europeo, vacuna antirrábica al día y microchip ISO. Confirma las condiciones exactas al reservar.",
+          "policyPt": "O ferry rápido de 35 minutos através do Estreito de Gibraltar aceita animais, normalmente em transportadora ou no seu veículo no convés de carros; a pé, a transportadora fica consigo. Atravessar o estreito é sair do espaço Schengen: leve passaporte europeu, vacina antirrábica em dia e microchip ISO. Confirme as condições exactas ao reservar.",
+          "tip": "Going on to mainland Morocco requires Moroccan entry rules (health certificate within 10 days, rabies vaccine); a Tangier day trip with dog left at the hotel is usually simpler.",
+          "tipFr": "Continuer dans le Maroc continental implique les règles marocaines (certificat sanitaire de moins de 10 jours, vaccin antirabique) ; une journée à Tanger en laissant le chien à l`hôtel est souvent plus simple.",
+          "tipEs": "Seguir al interior de Marruecos exige las normas marroquíes (certificado sanitario emitido en los 10 días previos, vacuna antirrábica); a menudo es más sencillo una jornada en Tánger dejando al perro en el hotel.",
+          "tipPt": "Continuar para o interior de Marrocos exige as regras marroquinas (certificado sanitário emitido nos 10 dias anteriores, vacina antirrábica); é muitas vezes mais simples um dia em Tânger deixando o cão no hotel."
+        },
+        {
+          "mode": "Comes / Avanza intercity bus",
+          "modeFr": "Bus interurbain Comes / Avanza",
+          "modeEs": "Autobús interurbano Comes / Avanza",
+          "modePt": "Autocarro interurbano Comes / Avanza",
+          "policy": "Buses from Algeciras, Cádiz, Sevilla, Málaga and Jerez serve Tarifa`s small bus station. Small pets up to about 10 kg are accepted in a closed carrier; larger dogs are at the driver`s discretion and usually require a muzzle and a separate seat, with limited availability in summer.",
+          "policyFr": "Les bus depuis Algeciras, Cadix, Séville, Malaga et Jerez desservent la petite gare routière de Tarifa. Les petits animaux jusqu`à environ 10 kg sont admis en cage fermée ; les plus grands chiens dépendent du conducteur et exigent en général muselière et siège séparé, avec disponibilité limitée en été.",
+          "policyEs": "Los autobuses desde Algeciras, Cádiz, Sevilla, Málaga y Jerez sirven la pequeña estación de Tarifa. Las mascotas pequeñas hasta unos 10 kg se admiten en transportín cerrado; los perros más grandes dependen del conductor y suelen requerir bozal y asiento separado, con disponibilidad limitada en verano.",
+          "policyPt": "Os autocarros a partir de Algeciras, Cádiz, Sevilha, Málaga e Jerez servem a pequena estação de Tarifa. Os animais pequenos até cerca de 10 kg são aceites em transportadora fechada; os cães maiores dependem do condutor e geralmente exigem açaime e lugar separado, com disponibilidade limitada no verão.",
+          "tip": "Book the dog ticket on the phone the day before; some drivers will refuse on the spot if the bus is full.",
+          "tipFr": "Réservez le billet chien par téléphone la veille ; certains chauffeurs refusent sur place si le bus est plein.",
+          "tipEs": "Reserva el billete del perro por teléfono el día antes; algunos conductores rechazan en el momento si el bus va lleno.",
+          "tipPt": "Reserve o bilhete do cão por telefone na véspera; alguns condutores recusam no momento se o autocarro estiver cheio."
+        },
+        {
+          "mode": "Car & airport transfers",
+          "modeFr": "Voiture et transferts aéroport",
+          "modeEs": "Coche y traslados de aeropuerto",
+          "modePt": "Carro e transferências de aeroporto",
+          "policy": "There is no airport in Tarifa: Málaga (AGP) is about 1h45 by car, Gibraltar (GIB) about 30 minutes plus a UK-Spain border crossing on foot or by car. Most car rentals accept dogs if transported in a crate or with a harness; transfer drivers must agree in advance. The border with Gibraltar treats pets as a third-country entry: EU pet passport works for the return.",
+          "policyFr": "Il n`y a pas d`aéroport à Tarifa : Málaga (AGP) est à environ 1h45 en voiture, Gibraltar (GIB) à environ 30 minutes plus le passage de frontière Royaume-Uni/Espagne à pied ou en voiture. La plupart des loueurs acceptent les chiens en cage ou avec harnais ; les chauffeurs de transfert doivent valider à l`avance. La frontière de Gibraltar traite l`animal comme une entrée pays tiers : le passeport européen suffit au retour.",
+          "policyEs": "No hay aeropuerto en Tarifa: Málaga (AGP) está a unas 1h45 en coche, Gibraltar (GIB) a unos 30 minutos más el paso de frontera Reino Unido/España a pie o en coche. La mayoría de alquileres aceptan perros en transportín o con arnés; los conductores de traslado deben acordarlo antes. La frontera con Gibraltar trata a la mascota como entrada de tercer país: el pasaporte europeo basta para volver.",
+          "policyPt": "Não há aeroporto em Tarifa: Málaga (AGP) fica a cerca de 1h45 de carro, Gibraltar (GIB) a cerca de 30 minutos mais a passagem de fronteira Reino Unido/Espanha a pé ou de carro. A maioria das rent-a-car aceita cães em transportadora ou com arnês; os condutores de transferência devem acordar antes. A fronteira com Gibraltar trata o animal como entrada de país terceiro: o passaporte europeu basta para regressar.",
+          "tip": "If you fly into Gibraltar, plan extra time for the border; if you fly into Málaga, a private dog-friendly transfer makes the 1h45 drive simpler than the Comes bus chain.",
+          "tipFr": "Si vous arrivez à Gibraltar, prévoyez du temps pour la frontière ; si vous arrivez à Málaga, un transfert privé dog-friendly est plus simple que la chaîne de bus Comes pour 1h45 de route.",
+          "tipEs": "Si vuelas a Gibraltar, calcula tiempo extra para la frontera; si vuelas a Málaga, un traslado privado dog-friendly es más sencillo que la cadena de buses Comes para 1h45 de carretera.",
+          "tipPt": "Se aterrar em Gibraltar, conte tempo extra para a fronteira; se aterrar em Málaga, uma transferência privada dog-friendly é mais simples que a cadeia de autocarros Comes para 1h45 de estrada."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Useful transport links",
+          "titleFr": "Liens transport utiles",
+          "titleEs": "Enlaces de transporte útiles",
+          "titlePt": "Ligações de transporte úteis",
+          "contentEn": "FRS Iberia Tarifa-Tangier MED fast ferry: frs.es. Inter Shipping: intershipping.es. Comes intercity buses (Cádiz province): tgcomes.es. Avanza buses (Sevilla / Jerez): avanzabus.com. There is no train station in Tarifa; the nearest is Algeciras (35 km).",
+          "contentFr": "Ferry rapide FRS Iberia Tarifa-Tanger MED : frs.es. Inter Shipping : intershipping.es. Bus interurbains Comes (province de Cadix) : tgcomes.es. Bus Avanza (Séville / Jerez) : avanzabus.com. Pas de gare à Tarifa ; la plus proche est Algeciras (35 km).",
+          "contentEs": "Ferry rápido FRS Iberia Tarifa-Tánger MED: frs.es. Inter Shipping: intershipping.es. Autobuses interurbanos Comes (provincia de Cádiz): tgcomes.es. Autobuses Avanza (Sevilla / Jerez): avanzabus.com. No hay estación de tren en Tarifa; la más cercana es Algeciras (35 km).",
+          "contentPt": "Ferry rápido FRS Iberia Tarifa-Tânger MED: frs.es. Inter Shipping: intershipping.es. Autocarros interurbanos Comes (província de Cádiz): tgcomes.es. Autocarros Avanza (Sevilha / Jerez): avanzabus.com. Não há estação de comboios em Tarifa; a mais próxima é Algeciras (35 km)."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the ferry to Tangier?",
+          "a": "Yes. FRS and Inter Shipping accept pets in a carrier or in your vehicle on the car deck. Remember it is a Schengen exit: bring the EU pet passport, microchip and current rabies vaccination; for entering mainland Morocco, add a health certificate."
+        },
+        {
+          "q": "Is there a train to Tarifa?",
+          "a": "No. The nearest train station is Algeciras, 35 km away; from there take a Comes bus to Tarifa. From Málaga or Sevilla, intercity buses are the most direct public option."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre mon chien sur le ferry pour Tanger ?",
+          "a": "Oui. FRS et Inter Shipping acceptent les animaux en cage ou dans votre véhicule sur le pont auto. C`est une sortie de Schengen : passeport européen, puce et vaccin antirabique à jour ; pour entrer dans le Maroc continental, ajoutez un certificat sanitaire."
+        },
+        {
+          "q": "Y a-t-il un train pour Tarifa ?",
+          "a": "Non. La gare la plus proche est Algeciras, à 35 km ; de là, prenez un bus Comes pour Tarifa. Depuis Málaga ou Séville, les bus interurbains sont l`option publique la plus directe."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el ferry a Tánger?",
+          "a": "Sí. FRS e Inter Shipping admiten mascotas en transportín o en tu vehículo en la cubierta de coches. Es salida de Schengen: pasaporte europeo, microchip y vacuna antirrábica al día; para entrar al Marruecos continental, añade certificado sanitario."
+        },
+        {
+          "q": "¿Hay tren a Tarifa?",
+          "a": "No. La estación más cercana es Algeciras, a 35 km; desde ahí, autobús Comes a Tarifa. Desde Málaga o Sevilla, los autobuses interurbanos son la opción pública más directa."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão no ferry para Tânger?",
+          "a": "Sim. FRS e Inter Shipping aceitam animais em transportadora ou no seu veículo no convés de carros. É saída de Schengen: passaporte europeu, microchip e vacina antirrábica em dia; para entrar no Marrocos continental, junte certificado sanitário."
+        },
+        {
+          "q": "Há comboio para Tarifa?",
+          "a": "Não. A estação mais próxima é Algeciras, a 35 km; daí, autocarro Comes para Tarifa. A partir de Málaga ou Sevilha, os autocarros interurbanos são a opção pública mais direta."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Tarifa",
+      "titleFr": "Plages qui acceptent les chiens à Tarifa",
+      "titleEs": "Playas que admiten perros en Tarifa",
+      "titlePt": "Praias que aceitam cães em Tarifa",
+      "introEn": "Tarifa`s coastline is built for dogs in the shoulder season. The huge Playa de Los Lances and the kitesurf strand of Valdevaqueros are open to leashed dogs out of official bathing season (roughly October through May), and the Roman-ruins beach at Bolonia welcomes them year-round outside the central supervised stretch. In high summer (June to September), dogs are banned from the supervised bathing zones, but the early-morning and late-evening windows still work.",
+      "introFr": "Le littoral de Tarifa est taillé pour les chiens en demi-saison. L`immense Playa de Los Lances et la plage de kitesurf de Valdevaqueros sont ouvertes aux chiens en laisse hors saison de baignade officielle (en gros d`octobre à mai), et la plage des ruines romaines de Bolonia les accueille toute l`année hors de la zone surveillée centrale. En plein été (juin à septembre), les chiens sont interdits sur les zones surveillées, mais les créneaux tôt le matin et tard le soir restent jouables.",
+      "introEs": "El litoral de Tarifa está hecho para perros en temporada baja. La enorme Playa de Los Lances y la playa kite de Valdevaqueros admiten perros con correa fuera de temporada de baño oficial (más o menos de octubre a mayo), y la playa de las ruinas romanas de Bolonia los acepta todo el año fuera del tramo central vigilado. En pleno verano (junio a septiembre), los perros no pueden entrar en las zonas vigiladas, pero las franjas a primera hora y a última siguen funcionando.",
+      "introPt": "O litoral de Tarifa é feito para cães na época intermédia. A enorme Playa de Los Lances e a praia de kite de Valdevaqueros aceitam cães à trela fora da época balnear oficial (mais ou menos de outubro a maio), e a praia das ruínas romanas de Bolonia aceita-os o ano inteiro fora do troço central vigiado. Em pleno verão (junho a setembro), os cães não podem entrar nas zonas vigiadas, mas as faixas ao início da manhã e ao fim do dia continuam a funcionar.",
+      "places": [
+        {
+          "name": "Playa de Los Lances",
+          "distance": "Starts at the edge of the casco antiguo and runs 10 km north",
+          "description": "Tarifa`s vast 10 km flat-sand beach, backed by dunes and the Punta Paloma headland in the distance. Out of bathing season the wide sand is one of Spain`s best places to walk a dog at sunrise; in summer, dogs are restricted to the unsupervised northern stretches well away from the bathing flags.",
+          "season": "Best for dogs October to May (out of bathing season); restricted to non-supervised stretches in summer.",
+          "rules": "Leash required; dogs over 20 kg need a muzzle in public. No dogs in the central supervised bathing zone during summer. Always pick up waste.",
+          "facilities": "Vast open beach, shower stations, beach bars (chiringuitos) seasonal, kite & wind schools.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Playa+de+Los+Lances+Tarifa",
+          "photo": "/images/city-places/tarifa-beaches-playa-de-los-lances.jpg"
+        },
+        {
+          "name": "Playa de Valdevaqueros",
+          "distance": "10 km north-west of Tarifa centre via N-340",
+          "description": "The legendary kitesurf and windsurf beach below the Punta Paloma dune, with shallow turquoise water, the famous Tumbao chiringuito and a wide sand expanse that absorbs even busy days. Dogs are welcome out of bathing season at the owner`s judgement; in summer keep them well clear of the kite launch zones.",
+          "season": "Best for dogs October to May; allowed at the owner`s judgement away from kite zones in summer.",
+          "rules": "Leash required; muzzle for dogs over 20 kg. Keep clear of kite launch and landing corridors. Pick up waste.",
+          "facilities": "Wide sand and dune, kite schools, beach bars, parking off the N-340.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Playa+de+Valdevaqueros+Tarifa",
+          "photo": "/images/city-places/tarifa-beaches-playa-de-valdevaqueros.jpg"
+        },
+        {
+          "name": "Playa de Bolonia",
+          "distance": "About 20 km north-west of Tarifa, off the N-340",
+          "description": "A wide white-sand bay backed by the giant Bolonia dune and the Roman ruins of Baelo Claudia, in a protected natural setting. Dogs are accepted on a leash out of bathing season along the whole beach and year-round on the quieter ends away from the central supervised zone.",
+          "season": "Dogs allowed year-round outside the central supervised section; whole beach off-season.",
+          "rules": "Leash required; dogs not allowed inside the Baelo Claudia archaeological enclosure. Stay off the protected dune crest.",
+          "facilities": "Beach bars seasonal, parking, walking access to Baelo Claudia exterior.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Playa+de+Bolonia+Tarifa",
+          "photo": "/images/city-places/tarifa-beaches-playa-de-bolonia.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Playa de Los Lances?",
+          "a": "Yes, on a leash out of bathing season (roughly October through May), along most of the 10 km strand. In summer dogs are not allowed in the central supervised bathing zone; head to the quieter northern stretches early morning or late evening."
+        },
+        {
+          "q": "Are there year-round dog beaches near Tarifa?",
+          "a": "Bolonia (about 20 km north-west) accepts leashed dogs year-round on the quieter ends of the bay. In town, Los Lances and Valdevaqueros only work fully off-season."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à la Playa de Los Lances ?",
+          "a": "Oui, en laisse hors saison de baignade (en gros d`octobre à mai), sur la majorité des 10 km de plage. En été, les chiens sont interdits dans la zone surveillée centrale ; ralliez les sections nord plus calmes tôt le matin ou en soirée."
+        },
+        {
+          "q": "Existe-t-il des plages canines toute l`année près de Tarifa ?",
+          "a": "Bolonia (à environ 20 km au nord-ouest) accepte les chiens en laisse toute l`année sur les extrémités plus calmes de la baie. En ville, Los Lances et Valdevaqueros ne fonctionnent pleinement qu`hors saison."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a la Playa de Los Lances?",
+          "a": "Sí, con correa fuera de temporada de baño (más o menos de octubre a mayo), en la mayoría de los 10 km de arena. En verano los perros no pueden entrar en la zona vigilada central; busca los tramos del norte a primera hora o al atardecer."
+        },
+        {
+          "q": "¿Hay playas caninas todo el año cerca de Tarifa?",
+          "a": "Bolonia (a unos 20 km al noroeste) admite perros con correa todo el año en los extremos más tranquilos de la bahía. En el pueblo, Los Lances y Valdevaqueros solo funcionan plenamente fuera de temporada."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão à Playa de Los Lances?",
+          "a": "Sim, à trela fora da época balnear (mais ou menos de outubro a maio), na maior parte dos 10 km de areia. No verão os cães não podem entrar na zona vigiada central; procure os trechos a norte ao início da manhã ou ao fim do dia."
+        },
+        {
+          "q": "Há praias caninas o ano inteiro perto de Tarifa?",
+          "a": "Bolonia (a cerca de 20 km a noroeste) aceita cães à trela o ano inteiro nas extremidades mais calmas da baía. Na vila, Los Lances e Valdevaqueros só funcionam plenamente fora de época."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Care in Tarifa",
+      "titleFr": "Vétérinaires et urgences à Tarifa",
+      "titleEs": "Veterinarios y urgencias en Tarifa",
+      "titlePt": "Veterinários e urgências em Tarifa",
+      "introEn": "Tarifa is a town of 18,000 with one main veterinary clinic that runs a 24-hour on-call service, and escalation to the larger veterinary hospitals in Algeciras (35 km) for serious emergencies. As Spain is in the EU, an EU pet passport with up-to-date rabies vaccination and a microchip is all most European travellers need.",
+      "introFr": "Tarifa est une ville de 18 000 habitants avec une clinique vétérinaire principale assurant une garde 24h/24, et un relais vers les plus grands hôpitaux vétérinaires d`Algeciras (35 km) pour les urgences sérieuses. L`Espagne étant dans l`UE, un passeport européen pour animaux avec vaccin antirabique à jour et puce électronique suffit à la plupart des voyageurs européens.",
+      "introEs": "Tarifa es un pueblo de 18.000 habitantes con una clínica veterinaria principal con guardia 24 horas, y derivación a los hospitales veterinarios más grandes de Algeciras (35 km) para urgencias serias. Como España está en la UE, a la mayoría de los viajeros europeos les basta con pasaporte europeo de mascotas, vacuna antirrábica al día y microchip.",
+      "introPt": "Tarifa é uma vila de 18.000 habitantes com uma clínica veterinária principal com serviço 24 horas, e encaminhamento para os hospitais veterinários maiores em Algeciras (35 km) para urgências graves. Como a Espanha está na UE, a maioria dos viajantes europeus só precisa de passaporte europeu para animais, vacina antirrábica em dia e microchip.",
+      "entryRequirements": {
+        "euPets": "Valid EU pet passport, microchip, and up-to-date rabies vaccination. No quarantine for pets registered in the EU.",
+        "euPetsFr": "Passeport européen pour animaux valide, puce électronique et vaccination antirabique à jour. Aucune quarantaine pour les animaux enregistrés dans l`UE.",
+        "euPetsEs": "Pasaporte europeo de mascotas válido, microchip y vacuna antirrábica al día. Sin cuarentena para mascotas registradas en la UE.",
+        "euPetsPt": "Passaporte europeu para animais válido, microchip e vacina antirrábica em dia. Sem quarentena para animais registados na UE.",
+        "nonEuPets": "EU health certificate, microchip, rabies vaccination, and possibly a rabies titer test depending on the country of origin. Check Spain`s official rules before travelling.",
+        "nonEuPetsFr": "Certificat sanitaire UE, puce électronique, vaccination antirabique et éventuellement un test sérologique antirabique selon le pays d`origine. Vérifiez les règles officielles espagnoles avant de voyager.",
+        "nonEuPetsEs": "Certificado sanitario UE, microchip, vacuna antirrábica y, según el país de origen, posible test serológico de rabia. Consulta las normas oficiales españolas antes de viajar.",
+        "nonEuPetsPt": "Certificado sanitário UE, microchip, vacina antirrábica e, conforme o país de origem, possível teste serológico da raiva. Consulte as regras oficiais espanholas antes de viajar.",
+        "emergencyContacts": [
+          "Clínica Veterinaria Europa Tarifa (24h on-call): +34 956 68 53 43",
+          "Hospital Veterinario Alba Algeciras (24h): +34 956 667 352 / 648 119 512",
+          "General emergencies (police, ambulance, fire): 112"
+        ]
+      },
+      "places": [
+        {
+          "name": "Clínica Veterinaria Europa Tarifa",
+          "type": "Veterinary clinic with 24h emergency on-call",
+          "address": "La Vega, 221, 11380 Tarifa, Cádiz",
+          "phone": "+34 956 68 53 43",
+          "hours": "Mon 09:00-18:00, Tue-Thu 10:00-17:30, Fri 09:00-18:00, Sat 11:00-14:00; 24h emergency on-call.",
+          "hoursFr": "Lun 09h00-18h00, Mar-Jeu 10h00-17h30, Ven 09h00-18h00, Sam 11h00-14h00 ; urgences 24h/24 sur appel.",
+          "hoursEs": "Lun 09:00-18:00, Mar-Jue 10:00-17:30, Vie 09:00-18:00, Sáb 11:00-14:00; urgencias 24h por aviso.",
+          "hoursPt": "Seg 09:00-18:00, Ter-Qui 10:00-17:30, Sex 09:00-18:00, Sáb 11:00-14:00; urgências 24h por chamada.",
+          "englishSpeaking": true,
+          "website": "https://www.veterinario-tarifa.com",
+          "description": "Tarifa`s reference clinic since 2002, with a team of four vets, three assistants and a groomer. Full clinical services including laboratory, surgery, internal medicine, hospitalisation, ultrasound, X-ray and a 24-hour emergency on-call line.",
+          "descriptionFr": "La clinique de référence de Tarifa depuis 2002, avec quatre vétérinaires, trois assistantes et un toiletteur. Services cliniques complets incluant laboratoire, chirurgie, médecine interne, hospitalisation, échographie, radiographie et ligne de garde 24h/24.",
+          "descriptionEs": "La clínica de referencia de Tarifa desde 2002, con cuatro veterinarios, tres asistentes y un peluquero. Servicios clínicos completos incluyendo laboratorio, cirugía, medicina interna, hospitalización, ecografía, radiografía y línea de urgencias 24 horas.",
+          "descriptionPt": "A clínica de referência de Tarifa desde 2002, com quatro veterinários, três assistentes e um tratador. Serviços clínicos completos incluindo laboratório, cirurgia, medicina interna, hospitalização, ecografia, radiografia e linha de urgência 24 horas.",
+          "tip": "Save the number before you arrive; it is the only in-town option for after-hours emergencies.",
+          "tipFr": "Enregistrez le numéro avant d`arriver ; c`est la seule option en ville pour les urgences en dehors des horaires.",
+          "tipEs": "Guarda el número antes de llegar; es la única opción en el pueblo para urgencias fuera de horario.",
+          "tipPt": "Guarde o número antes de chegar; é a única opção na vila para urgências fora de horário.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Clinica+Veterinaria+Europa+Tarifa+La+Vega",
+          "photo": "/images/city-places/tarifa-vets-clinica-veterinaria-europa-tarifa.jpg"
+        },
+        {
+          "name": "Hospital Veterinario Alba",
+          "type": "24h veterinary hospital (Algeciras, 35 km)",
+          "address": "Avda. Bélgica, Bq. 8 local 11, Algeciras",
+          "phone": "+34 956 667 352",
+          "hours": "24h emergency hospital, every day of the year.",
+          "hoursFr": "Hôpital d`urgence 24h/24, tous les jours de l`année.",
+          "hoursEs": "Hospital de urgencias 24h, todos los días del año.",
+          "hoursPt": "Hospital de urgências 24h, todos os dias do ano.",
+          "englishSpeaking": true,
+          "website": "https://www.hospitalveterinarioalba.es",
+          "description": "The closest full 24-hour veterinary hospital, in Algeciras 35 km from Tarifa, with intensive care, surgery and imaging. The reference centre when Tarifa`s on-call service refers serious cases out of town.",
+          "descriptionFr": "L`hôpital vétérinaire 24h/24 complet le plus proche, à Algeciras à 35 km de Tarifa, avec soins intensifs, chirurgie et imagerie. Le centre de référence lorsque la garde de Tarifa oriente les cas sérieux hors de la ville.",
+          "descriptionEs": "El hospital veterinario 24 horas completo más cercano, en Algeciras a 35 km de Tarifa, con cuidados intensivos, cirugía e imagen. El centro de referencia cuando la guardia de Tarifa deriva casos serios fuera del pueblo.",
+          "descriptionPt": "O hospital veterinário 24 horas completo mais próximo, em Algeciras a 35 km de Tarifa, com cuidados intensivos, cirurgia e imagem. O centro de referência quando o serviço de Tarifa encaminha casos graves para fora da vila.",
+          "tip": "Emergency line +34 648 119 512 if the main number is busy; allow 45 minutes to drive from Tarifa.",
+          "tipFr": "Ligne d`urgence +34 648 119 512 si le numéro principal est occupé ; comptez 45 minutes de route depuis Tarifa.",
+          "tipEs": "Línea de urgencias +34 648 119 512 si el principal está ocupado; calcula 45 minutos en coche desde Tarifa.",
+          "tipPt": "Linha de urgência +34 648 119 512 se o principal estiver ocupado; conte 45 minutos de carro desde Tarifa.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Hospital+Veterinario+Alba+Algeciras",
+          "photo": "/images/city-places/tarifa-vets-hospital-veterinario-alba.jpg"
+        },
+        {
+          "name": "Clínica Veterinaria La Huella (UNAVETS)",
+          "type": "24h intensive care veterinary clinic (Algeciras)",
+          "address": "Prolongación Virgen del Carmen, Urbanización El Rosario Bloque 1, Algeciras",
+          "phone": "+34 956 654 019",
+          "hours": "24h intensive care and emergency line.",
+          "hoursFr": "Soins intensifs 24h/24 et ligne d`urgence.",
+          "hoursEs": "Cuidados intensivos 24h y línea de urgencias.",
+          "hoursPt": "Cuidados intensivos 24h e linha de urgência.",
+          "englishSpeaking": true,
+          "website": "https://www.unavets.com/lahuella",
+          "description": "An alternative 24-hour veterinary centre in Algeciras, part of the UNAVETS network, with intensive care, internal medicine and surgery. Useful backup if Hospital Alba is at capacity.",
+          "descriptionFr": "Un centre vétérinaire alternatif 24h/24 à Algeciras, faisant partie du réseau UNAVETS, avec soins intensifs, médecine interne et chirurgie. Solution de secours utile si l`Hospital Alba est saturé.",
+          "descriptionEs": "Un centro veterinario alternativo 24 horas en Algeciras, parte de la red UNAVETS, con cuidados intensivos, medicina interna y cirugía. Apoyo útil si el Hospital Alba está saturado.",
+          "descriptionPt": "Um centro veterinário alternativo 24 horas em Algeciras, parte da rede UNAVETS, com cuidados intensivos, medicina interna e cirurgia. Apoio útil se o Hospital Alba estiver saturado.",
+          "tip": "Phone first to confirm the on-call vet on duty before driving from Tarifa.",
+          "tipFr": "Téléphonez d`abord pour confirmer le vétérinaire de garde avant de prendre la route depuis Tarifa.",
+          "tipEs": "Llama primero para confirmar el veterinario de guardia antes de conducir desde Tarifa.",
+          "tipPt": "Telefone primeiro para confirmar o veterinário de serviço antes de conduzir desde Tarifa.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Clinica+Veterinaria+La+Huella+Algeciras",
+          "photo": "/images/city-places/tarifa-vets-clinica-veterinaria-la-huella.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Tarifa?",
+          "a": "Yes. Clínica Veterinaria Europa Tarifa runs a 24-hour on-call service (+34 956 68 53 43). For full intensive-care emergencies, the reference centres are Hospital Veterinario Alba and Clínica La Huella in Algeciras, 35 km away."
+        },
+        {
+          "q": "What if I am crossing to Tangier with my dog?",
+          "a": "Crossing the strait is a Schengen exit. Bring the EU pet passport, microchip, and an in-date rabies vaccination; for entering mainland Morocco add a vet health certificate dated within 10 days of travel."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Tarifa ?",
+          "a": "Oui. La Clínica Veterinaria Europa Tarifa assure une garde 24h/24 (+34 956 68 53 43). Pour les urgences avec soins intensifs complets, les centres de référence sont l`Hospital Veterinario Alba et la Clínica La Huella à Algeciras, à 35 km."
+        },
+        {
+          "q": "Et si je traverse à Tanger avec mon chien ?",
+          "a": "Traverser le détroit est une sortie de Schengen. Prévoyez passeport européen, puce et vaccin antirabique à jour ; pour entrer dans le Maroc continental, ajoutez un certificat sanitaire vétérinaire daté de moins de 10 jours."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un veterinario 24 horas en Tarifa?",
+          "a": "Sí. La Clínica Veterinaria Europa Tarifa tiene guardia 24 horas (+34 956 68 53 43). Para urgencias con cuidados intensivos completos, los centros de referencia son el Hospital Veterinario Alba y la Clínica La Huella en Algeciras, a 35 km."
+        },
+        {
+          "q": "¿Y si cruzo a Tánger con mi perro?",
+          "a": "Cruzar el estrecho es salida de Schengen. Lleva pasaporte europeo, microchip y vacuna antirrábica al día; para entrar al Marruecos continental, añade un certificado sanitario veterinario emitido en los 10 días previos."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há um veterinário 24 horas em Tarifa?",
+          "a": "Sim. A Clínica Veterinaria Europa Tarifa tem serviço 24 horas (+34 956 68 53 43). Para urgências com cuidados intensivos completos, os centros de referência são o Hospital Veterinario Alba e a Clínica La Huella em Algeciras, a 35 km."
+        },
+        {
+          "q": "E se atravessar para Tânger com o meu cão?",
+          "a": "Atravessar o estreito é saída de Schengen. Leve passaporte europeu, microchip e vacina antirrábica em dia; para entrar no Marrocos continental, junte um certificado sanitário veterinário emitido nos 10 dias anteriores."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Tarifa with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Tarifa avec un chien",
+      "titleEs": "Consejos prácticos para visitar Tarifa con perro",
+      "titlePt": "Dicas práticas para visitar Tarifa com um cão",
+      "introEn": "Tarifa, the southernmost point of mainland Europe, is shaped by two things travellers with dogs feel immediately: the wind (Levante from the east, Poniente from the west) and the proximity of Morocco across the Strait of Gibraltar. Plan around the beach season, the wind, and the fact that you may want to use Tarifa as a launch pad for a Tangier day.",
+      "introFr": "Tarifa, point le plus au sud de l`Europe continentale, est façonnée par deux choses que tout voyageur avec chien ressent vite : le vent (Levante d`est, Poniente d`ouest) et la proximité du Maroc de l`autre côté du détroit de Gibraltar. Planifiez autour de la saison de plage, du vent, et du fait que vous pourriez vouloir utiliser Tarifa comme tremplin vers une journée à Tanger.",
+      "introEs": "Tarifa, punto más al sur de Europa continental, está marcada por dos cosas que cualquier viajero con perro nota de inmediato: el viento (Levante del este, Poniente del oeste) y la proximidad de Marruecos al otro lado del Estrecho de Gibraltar. Planifica según la temporada de playa, el viento, y la posibilidad de usar Tarifa como base para una jornada en Tánger.",
+      "introPt": "Tarifa, ponto mais a sul da Europa continental, é marcada por duas coisas que qualquer viajante com cão nota de imediato: o vento (Levante de leste, Poniente de oeste) e a proximidade de Marrocos do outro lado do Estreito de Gibraltar. Planeie pela época balnear, pelo vento, e pela hipótese de usar Tarifa como base para um dia em Tânger.",
+      "sections": [
+        {
+          "titleEn": "Wind, heat & paw safety",
+          "titleFr": "Vent, chaleur et coussinets",
+          "titleEs": "Viento, calor y almohadillas",
+          "titlePt": "Vento, calor e almofadas",
+          "contentEn": "Tarifa is mild year-round but the wind is famous: the Levante (east) is dry, hot and gusting 50-80 km/h, the Poniente (west) cooler and wetter. In a strong Levante the sand of Los Lances stings even human skin; choose Bolonia (more sheltered) or wait it out in the casco antiguo. From June to September, asphalt in the casco antiguo can reach 50 C between 12:00 and 18:00, hot enough to burn paw pads in seconds. Walk early or after sunset.",
+          "contentFr": "Tarifa est douce toute l`année mais son vent est célèbre : le Levante (est) est sec, chaud et soufflant à 50-80 km/h, le Poniente (ouest) plus frais et plus humide. En cas de fort Levante, le sable de Los Lances pique même la peau humaine ; préférez Bolonia (plus abritée) ou attendez dans le casco antiguo. De juin à septembre, l`asphalte du casco antiguo atteint 50 °C entre 12h et 18h, assez pour brûler les coussinets en quelques secondes. Promenez tôt ou après le coucher du soleil.",
+          "contentEs": "Tarifa es suave todo el año pero su viento es famoso: el Levante (este) es seco, caliente y sopla a 50-80 km/h, el Poniente (oeste) más fresco y húmedo. Con Levante fuerte, la arena de Los Lances pica incluso la piel humana; mejor Bolonia (más resguardada) o quédate en el casco antiguo. De junio a septiembre, el asfalto del casco antiguo alcanza 50 °C entre las 12:00 y las 18:00, suficiente para quemar almohadillas en segundos. Pasea temprano o tras la puesta de sol.",
+          "contentPt": "Tarifa é suave o ano inteiro mas o seu vento é famoso: o Levante (leste) é seco, quente e sopra a 50-80 km/h, o Poniente (oeste) mais fresco e húmido. Com Levante forte, a areia de Los Lances pica até a pele humana; prefira Bolonia (mais abrigada) ou aguarde no casco antiguo. De junho a setembro, o asfalto do casco antiguo atinge 50 °C entre as 12:00 e as 18:00, suficiente para queimar as almofadas em segundos. Passeie cedo ou após o pôr do sol."
+        },
+        {
+          "titleEn": "Crossing to Tangier with (or without) the dog",
+          "titleFr": "Traverser à Tanger avec (ou sans) le chien",
+          "titleEs": "Cruzar a Tánger con (o sin) el perro",
+          "titlePt": "Atravessar para Tânger com (ou sem) o cão",
+          "contentEn": "The 35-minute FRS or Inter Shipping ferry to Tangier MED is one of Tarifa`s most distinctive day-trip options. Bringing the dog is possible but it is a Schengen exit: bring EU pet passport, microchip and current rabies vaccination, and for entering mainland Morocco a vet health certificate dated within 10 days. The simpler choice is often to leave the dog with a Tarifa sitter for the day and travel light; both options work.",
+          "contentFr": "Le ferry rapide FRS ou Inter Shipping de 35 minutes pour Tanger MED est l`une des excursions les plus marquantes de Tarifa. Emmener le chien est possible mais c`est une sortie de Schengen : passeport européen, puce et vaccin antirabique à jour, et pour entrer dans le Maroc continental un certificat sanitaire vétérinaire de moins de 10 jours. Souvent plus simple : laisser le chien à un sitter de Tarifa pour la journée et voyager léger ; les deux fonctionnent.",
+          "contentEs": "El ferry rápido FRS o Inter Shipping de 35 minutos a Tánger MED es una de las excursiones más distintivas de Tarifa. Llevar al perro es posible pero es salida de Schengen: pasaporte europeo, microchip y vacuna antirrábica al día, y para entrar al Marruecos continental un certificado sanitario veterinario emitido en los 10 días previos. A menudo es más sencillo dejar al perro con un cuidador de Tarifa por el día y viajar ligero; ambas opciones funcionan.",
+          "contentPt": "O ferry rápido FRS ou Inter Shipping de 35 minutos para Tânger MED é uma das excursões mais distintivas de Tarifa. Levar o cão é possível mas é saída de Schengen: passaporte europeu, microchip e vacina antirrábica em dia, e para entrar no Marrocos continental um certificado sanitário veterinário emitido nos 10 dias anteriores. É muitas vezes mais simples deixar o cão com um cuidador de Tarifa pelo dia e viajar leve; ambas as opções funcionam."
+        },
+        {
+          "titleEn": "Leash, muzzle & beach calendar",
+          "titleFr": "Laisse, muselière et calendrier des plages",
+          "titleEs": "Correa, bozal y calendario de playas",
+          "titlePt": "Trela, açaime e calendário das praias",
+          "contentEn": "Dogs must be leashed in every public space in Tarifa, and dogs over 20 kg or classed as potentially dangerous must wear a muzzle in the street. Off-leash running is at the owner`s judgement on remote stretches of Los Lances out of season or in the Pinar del Bujeo forest. City beaches close to dogs in the central supervised zones from June to September; Bolonia stays workable year-round on the quieter ends.",
+          "contentFr": "Les chiens doivent être tenus en laisse dans tous les espaces publics de Tarifa, et les chiens de plus de 20 kg ou classés potentiellement dangereux doivent porter une muselière dans la rue. La course sans laisse se fait sous responsabilité du maître sur les sections reculées de Los Lances hors saison ou dans la pinède du Bujeo. Les plages urbaines ferment aux chiens dans les zones surveillées centrales de juin à septembre ; Bolonia reste jouable toute l`année sur les extrémités calmes.",
+          "contentEs": "Los perros deben ir con correa en todos los espacios públicos de Tarifa, y los perros de más de 20 kg o clasificados como potencialmente peligrosos deben llevar bozal en la calle. Soltarlos depende del dueño en los tramos remotos de Los Lances fuera de temporada o en el Pinar del Bujeo. Las playas urbanas cierran a perros en las zonas vigiladas centrales de junio a septiembre; Bolonia sigue funcionando todo el año en los extremos tranquilos.",
+          "contentPt": "Os cães devem ir à trela em todos os espaços públicos de Tarifa, e os cães com mais de 20 kg ou classificados como potencialmente perigosos devem usar açaime na rua. Soltá-los depende do dono nos trechos remotos de Los Lances fora de época ou no Pinar del Bujeo. As praias urbanas fecham a cães nas zonas vigiadas centrais de junho a setembro; Bolonia continua a funcionar o ano inteiro nas pontas tranquilas."
+        }
+      ],
+      "places": [],
+      "tipsEn": [
+        "Best months with a dog: April-June and September-October, when the Levante eases and beaches are open.",
+        "Carry water everywhere; the wind is dehydrating even on cool days.",
+        "If a Tangier day trip is on the cards, line up a sitter early; Tarifa has only a handful and they fill in summer."
+      ],
+      "tipsFr": [
+        "Meilleurs mois avec un chien : avril-juin et septembre-octobre, quand le Levante faiblit et que les plages sont ouvertes.",
+        "Emportez de l`eau partout ; le vent déshydrate même par temps frais.",
+        "Si une journée à Tanger est dans les plans, réservez un sitter tôt ; Tarifa en compte peu et ils sont vite pleins en été."
+      ],
+      "tipsEs": [
+        "Mejores meses con perro: abril-junio y septiembre-octubre, cuando el Levante afloja y las playas están abiertas.",
+        "Lleva agua a todas partes; el viento deshidrata incluso con temperaturas frescas.",
+        "Si planeas una jornada en Tánger, reserva cuidador con antelación; Tarifa tiene pocos y se llenan en verano."
+      ],
+      "tipsPt": [
+        "Melhores meses com cão: abril-junho e setembro-outubro, quando o Levante afrouxa e as praias estão abertas.",
+        "Leve água para todo o lado; o vento desidrata mesmo com temperaturas frescas.",
+        "Se planeia um dia em Tânger, reserve cuidador com antecedência; Tarifa tem poucos e enchem no verão."
+      ],
+      "faqsEn": [
+        {
+          "q": "When is the best time to visit Tarifa with a dog?",
+          "a": "April to June and September to October. Temperatures are mild, the Levante is less frequent, beaches are open to leashed dogs out of bathing season, and the town is calmer than in July-August."
+        },
+        {
+          "q": "Do dogs need a muzzle in Tarifa?",
+          "a": "Dogs over 20 kg or classed as potentially dangerous must wear a muzzle in public streets, and all dogs must be on a leash in public spaces. Keep the muzzle in your bag even if your dog rarely needs it."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle est la meilleure période pour visiter Tarifa avec un chien ?",
+          "a": "D`avril à juin et de septembre à octobre. Les températures sont douces, le Levante est moins fréquent, les plages sont ouvertes aux chiens en laisse hors saison de baignade, et la ville est plus calme qu`en juillet-août."
+        },
+        {
+          "q": "Les chiens doivent-ils porter une muselière à Tarifa ?",
+          "a": "Les chiens de plus de 20 kg ou classés potentiellement dangereux doivent porter une muselière dans la rue, et tous les chiens doivent être tenus en laisse dans les espaces publics. Gardez la muselière dans le sac même si votre chien n`en a pas l`usage."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuál es la mejor época para visitar Tarifa con perro?",
+          "a": "De abril a junio y de septiembre a octubre. Temperaturas suaves, menos Levante, playas abiertas a perros con correa fuera de temporada de baño, y el pueblo más tranquilo que en julio-agosto."
+        },
+        {
+          "q": "¿Necesitan bozal los perros en Tarifa?",
+          "a": "Los perros de más de 20 kg o clasificados como potencialmente peligrosos deben llevar bozal en la calle, y todos los perros deben ir con correa en los espacios públicos. Lleva el bozal en la bolsa aunque tu perro no lo use a diario."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Qual é a melhor altura para visitar Tarifa com cão?",
+          "a": "De abril a junho e de setembro a outubro. Temperaturas suaves, menos Levante, praias abertas a cães à trela fora da época balnear, e a vila mais calma do que em julho-agosto."
+        },
+        {
+          "q": "Os cães precisam de açaime em Tarifa?",
+          "a": "Os cães com mais de 20 kg ou classificados como potencialmente perigosos devem usar açaime na rua, e todos os cães devem ir à trela nos espaços públicos. Leve o açaime no saco mesmo se o seu cão não o use no dia a dia."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Tarifa",
+      "titleFr": "Sites à visiter avec un chien à Tarifa",
+      "titleEs": "Atracciones que admiten perros en Tarifa",
+      "titlePt": "Atrações que aceitam cães em Tarifa",
+      "introEn": "Tarifa`s appeal is mostly outdoor: a Moorish-era castle, a medieval casco antiguo of whitewashed alleys, and the Roman ruins of Baelo Claudia behind Bolonia beach. Almost everything that matters can be walked with a leashed dog, and a few unique experiences (whale-watching boats, kite school bases) explicitly welcome dogs.",
+      "introFr": "L`intérêt de Tarifa est surtout en plein air : un château d`époque mauresque, un casco antiguo médiéval de ruelles blanchies, et les ruines romaines de Baelo Claudia derrière la plage de Bolonia. Presque tout l`essentiel se parcourt avec un chien en laisse, et quelques expériences uniques (bateaux d`observation des cétacés, bases de kitesurf) acceptent explicitement les chiens.",
+      "introEs": "El atractivo de Tarifa es sobre todo al aire libre: un castillo de época musulmana, un casco antiguo medieval de callejuelas blancas, y las ruinas romanas de Baelo Claudia detrás de la playa de Bolonia. Casi todo lo importante se recorre con un perro atado, y algunas experiencias únicas (barcos de avistamiento de cetáceos, bases de kitesurf) admiten perros de forma explícita.",
+      "introPt": "O atrativo de Tarifa é sobretudo ao ar livre: um castelo de época moura, um casco antiguo medieval de ruelas brancas, e as ruínas romanas de Baelo Claudia atrás da praia de Bolonia. Quase tudo o que importa percorre-se com um cão à trela, e algumas experiências únicas (barcos de observação de cetáceos, bases de kitesurf) aceitam cães de forma explícita.",
+      "places": [
+        {
+          "name": "Castillo de Guzmán el Bueno",
+          "neighborhood": "Casco antiguo",
+          "photo": "/images/city-places/tarifa-attractions-castillo-de-guzman-el-bueno.jpg",
+          "website": "",
+          "description": "The 10th-century Moorish-built fortress that became famous in 1294 when Alonso Pérez de Guzmán refused to surrender even as his son was killed below the walls. The outdoor ramparts and courtyards face the Strait of Gibraltar; leashed dogs are welcome in the open-air sections, though smaller interior rooms can be restricted.",
+          "descriptionFr": "La forteresse mauresque du Xᵉ siècle devenue célèbre en 1294 quand Alonso Pérez de Guzmán refusa de se rendre alors même que son fils était tué sous les murailles. Remparts et cours en plein air donnent sur le détroit de Gibraltar ; les chiens en laisse sont admis dans les sections à ciel ouvert, certaines salles intérieures pouvant être restreintes.",
+          "descriptionEs": "La fortaleza musulmana del siglo X que se hizo famosa en 1294 cuando Alonso Pérez de Guzmán se negó a rendirse aunque su hijo fue ejecutado bajo las murallas. Las murallas y patios al aire libre miran al Estrecho de Gibraltar; los perros con correa son bienvenidos en las zonas abiertas, aunque algunas salas interiores pueden estar restringidas.",
+          "descriptionPt": "A fortaleza moura do século X que ficou famosa em 1294 quando Alonso Pérez de Guzmán recusou render-se mesmo com o filho a ser morto debaixo das muralhas. Muralhas e pátios ao ar livre dão para o Estreito de Gibraltar; os cães à trela são bem-vindos nas zonas abertas, embora algumas salas interiores possam ser restritas.",
+          "dogPolicy": "Leashed dogs welcome in the open-air ramparts; ask at the entrance about interior rooms.",
+          "dogPolicyFr": "Chiens en laisse bienvenus sur les remparts à ciel ouvert ; renseignez-vous à l`entrée pour les salles intérieures.",
+          "dogPolicyEs": "Perros con correa bienvenidos en las murallas al aire libre; pregunta en la entrada por las salas interiores.",
+          "dogPolicyPt": "Cães à trela bem-vindos nas muralhas ao ar livre; pergunte à entrada sobre as salas interiores.",
+          "admissionFee": "Paid admission (check current price).",
+          "admissionFeeFr": "Entrée payante (vérifiez le tarif actuel).",
+          "admissionFeeEs": "Entrada de pago (consulta el precio actual).",
+          "admissionFeePt": "Entrada paga (consulte o preço atual).",
+          "tip": "Best at golden hour; the view across to Morocco is unbeatable.",
+          "tipFr": "Idéal à l`heure dorée ; la vue sur le Maroc est imbattable.",
+          "tipEs": "Ideal a la hora dorada; las vistas a Marruecos son inmejorables.",
+          "tipPt": "Ideal à hora dourada; as vistas para Marrocos são imbatíveis.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Castillo+de+Guzman+el+Bueno+Tarifa"
+        },
+        {
+          "name": "Casco antiguo & Puerta de Jerez",
+          "neighborhood": "Old town",
+          "photo": "/images/city-places/tarifa-attractions-casco-antiguo.jpg",
+          "website": "",
+          "description": "Tarifa`s walled medieval old town, entered through the 13th-century Puerta de Jerez (the only surviving city gate of its kind in Spain). A free, all-outdoor maze of whitewashed alleys, plazas and the Iglesia de San Mateo. Made for a leashed-dog walking tour.",
+          "descriptionFr": "La vieille ville fortifiée de Tarifa, à laquelle on accède par la Puerta de Jerez du XIIIᵉ siècle (la seule porte de ville de ce type encore debout en Espagne). Un dédale gratuit, en plein air, de ruelles blanchies, de places et de l`église de San Mateo. Parfait pour une promenade en laisse.",
+          "descriptionEs": "El casco antiguo amurallado de Tarifa, al que se entra por la Puerta de Jerez del siglo XIII (la única puerta de ciudad de este tipo que se conserva en España). Un laberinto gratuito al aire libre de callejuelas blancas, plazas y la Iglesia de San Mateo. Hecho para un paseo con perro atado.",
+          "descriptionPt": "O casco antiguo amuralhado de Tarifa, em que se entra pela Puerta de Jerez do século XIII (a única porta de cidade deste tipo que ainda existe em Espanha). Um labirinto gratuito ao ar livre de ruelas brancas, praças e a Igreja de San Mateo. Feito para um passeio com cão à trela.",
+          "dogPolicy": "Leashed dogs welcome on all streets and plazas.",
+          "dogPolicyFr": "Chiens en laisse bienvenus dans toutes les rues et places.",
+          "dogPolicyEs": "Perros con correa bienvenidos en todas las calles y plazas.",
+          "dogPolicyPt": "Cães à trela bem-vindos em todas as ruas e praças.",
+          "admissionFee": "Free.",
+          "admissionFeeFr": "Gratuit.",
+          "admissionFeeEs": "Gratis.",
+          "admissionFeePt": "Grátis.",
+          "tip": "Combine with the Castillo de Guzmán and the Mirador del Estrecho for a perfect leashed afternoon.",
+          "tipFr": "À combiner avec le Castillo de Guzmán et le Mirador del Estrecho pour un parfait après-midi en laisse.",
+          "tipEs": "Combínalo con el Castillo de Guzmán y el Mirador del Estrecho para una tarde perfecta con perro.",
+          "tipPt": "Combine com o Castillo de Guzmán e o Mirador del Estrecho para uma tarde perfeita à trela.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Casco+Antiguo+Tarifa"
+        },
+        {
+          "name": "Conjunto Arqueológico de Baelo Claudia",
+          "neighborhood": "Bolonia (20 km north-west)",
+          "photo": "/images/city-places/tarifa-attractions-baelo-claudia.jpg",
+          "website": "",
+          "description": "The remarkably complete 2nd-century BC Roman town behind Bolonia beach, with forum, basilica, theatre and fish-salting plant intact. Dogs are not allowed inside the archaeological enclosure, but the beach in front and the dune trail above the ruins are leash-accessible and give the best free perspective.",
+          "descriptionFr": "La remarquable cité romaine du IIᵉ siècle av. J.-C. derrière la plage de Bolonia, avec forum, basilique, théâtre et atelier de salaison de poisson intacts. Les chiens ne sont pas admis dans l`enceinte archéologique, mais la plage devant et le sentier des dunes au-dessus des ruines sont accessibles en laisse et offrent la meilleure vue gratuite.",
+          "descriptionEs": "La notable ciudad romana del siglo II a.C. detrás de la playa de Bolonia, con foro, basílica, teatro y factoría de salazones intactos. Los perros no pueden entrar al recinto arqueológico, pero la playa enfrente y el sendero de las dunas sobre las ruinas son accesibles con correa y ofrecen la mejor vista gratis.",
+          "descriptionPt": "A notável cidade romana do século II a.C. atrás da praia de Bolonia, com fórum, basílica, teatro e fábrica de salgas intactos. Os cães não podem entrar no recinto arqueológico, mas a praia em frente e o trilho das dunas acima das ruínas são acessíveis à trela e oferecem a melhor vista gratuita.",
+          "dogPolicy": "Dogs not allowed inside the archaeological enclosure; leashed dogs welcome on the surrounding beach and dune.",
+          "dogPolicyFr": "Chiens interdits dans l`enceinte archéologique ; chiens en laisse bienvenus sur la plage et la dune alentour.",
+          "dogPolicyEs": "Perros no admitidos dentro del recinto arqueológico; perros con correa bienvenidos en la playa y la duna del entorno.",
+          "dogPolicyPt": "Cães não admitidos dentro do recinto arqueológico; cães à trela bem-vindos na praia e na duna do entorno.",
+          "admissionFee": "Free for EU citizens, paid for non-EU (check current price).",
+          "admissionFeeFr": "Gratuit pour les citoyens UE, payant hors UE (vérifiez le tarif actuel).",
+          "admissionFeeEs": "Gratis para ciudadanos UE, de pago fuera de UE (consulta el precio actual).",
+          "admissionFeePt": "Grátis para cidadãos UE, pago fora da UE (consulte o preço atual).",
+          "tip": "Take turns visiting the ruins while your partner walks the dog on the beach; the view over the site from the sand is half the experience.",
+          "tipFr": "Visitez les ruines à tour de rôle pendant que votre partenaire promène le chien sur la plage ; la vue sur le site depuis le sable vaut la moitié de l`expérience.",
+          "tipEs": "Visiten las ruinas por turnos mientras la pareja pasea al perro por la playa; las vistas al yacimiento desde la arena son la mitad de la experiencia.",
+          "tipPt": "Visitem as ruínas à vez enquanto o parceiro passeia o cão na praia; a vista para o sítio a partir da areia vale metade da experiência.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Baelo+Claudia+Bolonia"
+        }
+      ],
+      "tipsEn": [
+        "The Mirador del Estrecho on the N-340 toward Algeciras has free parking and a leashed-dog viewpoint on Morocco.",
+        "Whale-watching boats run from Tarifa port: Foundation FIRMM allows leashed (and where required, muzzled) dogs on deck; confirm at booking.",
+        "Carry water; the casco antiguo has limited public fountains and Levante days are dehydrating."
+      ],
+      "tipsFr": [
+        "Le Mirador del Estrecho sur la N-340 vers Algeciras dispose d`un parking gratuit et d`un belvédère sur le Maroc accessible en laisse.",
+        "Les bateaux d`observation des cétacés partent du port de Tarifa : la Fondation FIRMM accepte les chiens en laisse (et muselés si demandé) sur le pont ; à confirmer à la réservation.",
+        "Emportez de l`eau ; le casco antiguo a peu de fontaines publiques et les jours de Levante déshydratent."
+      ],
+      "tipsEs": [
+        "El Mirador del Estrecho en la N-340 hacia Algeciras tiene aparcamiento gratis y un mirador a Marruecos accesible con perro atado.",
+        "Los barcos de avistamiento de cetáceos salen del puerto de Tarifa: la Fundación FIRMM admite perros con correa (y bozal si lo piden) en cubierta; confirma al reservar.",
+        "Lleva agua; el casco antiguo tiene pocas fuentes públicas y los días de Levante deshidratan."
+      ],
+      "tipsPt": [
+        "O Mirador del Estrecho na N-340 em direção a Algeciras tem estacionamento grátis e um miradouro sobre Marrocos acessível com cão à trela.",
+        "Os barcos de observação de cetáceos saem do porto de Tarifa: a Fundação FIRMM aceita cães à trela (e com açaime se pedido) no convés; confirme ao reservar.",
+        "Leve água; o casco antiguo tem poucas fontes públicas e os dias de Levante desidratam."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog inside the Baelo Claudia Roman ruins?",
+          "a": "No, the archaeological enclosure does not allow pets. You can still enjoy the site from the surrounding Bolonia beach and from the dune trail above, both leashed-dog accessible."
+        },
+        {
+          "q": "Which Tarifa attractions are dog-friendly?",
+          "a": "The whole walled casco antiguo and the outdoor sections of the Castillo de Guzmán el Bueno welcome leashed dogs, and the Mirador del Estrecho viewpoint is free and outdoor. FIRMM whale-watching boats allow leashed dogs on deck when booked in advance."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je entrer avec mon chien dans les ruines romaines de Baelo Claudia ?",
+          "a": "Non, l`enceinte archéologique n`admet pas les animaux. Vous pouvez toutefois profiter du site depuis la plage de Bolonia voisine et le sentier des dunes au-dessus, accessibles en laisse."
+        },
+        {
+          "q": "Quels sites de Tarifa acceptent les chiens ?",
+          "a": "Tout le casco antiguo fortifié et les sections extérieures du Castillo de Guzmán el Bueno accueillent les chiens en laisse, et le Mirador del Estrecho est gratuit et en plein air. Les bateaux FIRMM acceptent les chiens en laisse sur le pont sur réservation."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo entrar con mi perro en las ruinas romanas de Baelo Claudia?",
+          "a": "No, el recinto arqueológico no admite mascotas. Aun así puedes disfrutar del yacimiento desde la playa de Bolonia y desde el sendero de las dunas, accesibles con perro atado."
+        },
+        {
+          "q": "¿Qué atracciones de Tarifa admiten perros?",
+          "a": "Todo el casco antiguo amurallado y las secciones exteriores del Castillo de Guzmán el Bueno admiten perros con correa, y el Mirador del Estrecho es gratis y al aire libre. Los barcos de FIRMM admiten perros con correa en cubierta con reserva."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso entrar com o meu cão nas ruínas romanas de Baelo Claudia?",
+          "a": "Não, o recinto arqueológico não aceita animais. Ainda assim pode aproveitar o sítio desde a praia de Bolonia e desde o trilho das dunas, acessíveis com cão à trela."
+        },
+        {
+          "q": "Que atrações de Tarifa aceitam cães?",
+          "a": "Todo o casco antiguo amuralhado e as secções exteriores do Castillo de Guzmán el Bueno aceitam cães à trela, e o Mirador del Estrecho é grátis e ao ar livre. Os barcos da FIRMM aceitam cães à trela no convés com reserva."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Tarifa",
+      "titleFr": "Garde et promenade de chiens à Tarifa",
+      "titleEs": "Cuidado y paseo de perros en Tarifa",
+      "titlePt": "Cuidado e passeio de cães em Tarifa",
+      "introEn": "Tarifa`s pet-care market is small but real: a handful of independent sitters and the major online platforms (Gudog, Rover) cover the town and the Costa de la Luz villages around it. Booking ahead matters in July-August (kite season peak), at Easter and during the windsurf world cup events.",
+      "introFr": "Le marché de la garde animale à Tarifa est petit mais réel : quelques sitters indépendants et les grandes plateformes en ligne (Gudog, Rover) couvrent la ville et les villages de la Costa de la Luz autour. Réserver à l`avance compte en juillet-août (pic kitesurf), à Pâques et lors des étapes de coupe du monde de windsurf.",
+      "introEs": "El mercado del cuidado de mascotas en Tarifa es pequeño pero real: algunos cuidadores independientes y las grandes plataformas online (Gudog, Rover) cubren el pueblo y los pueblos de la Costa de la Luz alrededor. Reservar con antelación importa en julio-agosto (pico del kite), en Semana Santa y durante las pruebas de la Copa del Mundo de windsurf.",
+      "introPt": "O mercado de cuidado de animais em Tarifa é pequeno mas real: alguns cuidadores independentes e as grandes plataformas online (Gudog, Rover) cobrem a vila e as aldeias da Costa de la Luz à volta. Reservar com antecedência importa em julho-agosto (pico do kite), na Páscoa e durante as etapas da Taça do Mundo de windsurf.",
+      "places": [
+        {
+          "name": "Gudog",
+          "website": "https://gudog.com/cuidadores-de-perros-tarifa",
+          "description": "An online platform connecting dog owners with vetted local sitters and walkers in Tarifa, with boarding, daycare and walks. Only a small share of applicant sitters are approved, and every booking is backed by veterinary insurance.",
+          "descriptionFr": "Une plateforme en ligne qui met en relation les propriétaires avec des pet-sitters et promeneurs locaux vérifiés à Tarifa, avec hébergement, garde de jour et promenades. Seule une petite part des candidats est acceptée, et chaque réservation est couverte par une assurance vétérinaire.",
+          "descriptionEs": "Una plataforma online que conecta a los dueños con cuidadores y paseadores locales verificados en Tarifa, con alojamiento, guardería de día y paseos. Solo se aprueba a una pequeña parte de los aspirantes, y cada reserva cuenta con seguro veterinario.",
+          "descriptionPt": "Uma plataforma online que liga os donos a cuidadores e passeadores locais verificados em Tarifa, com alojamento, creche de dia e passeios. Só uma pequena parte dos candidatos é aprovada, e cada reserva tem seguro veterinário.",
+          "serviceType": "Boarding, daycare and dog walking",
+          "serviceTypeFr": "Hébergement, garde de jour et promenade",
+          "serviceTypeEs": "Alojamiento, guardería de día y paseo",
+          "serviceTypePt": "Alojamento, creche de dia e passeio",
+          "pricePerDay": "From around €20-25/night",
+          "languages": [
+            "Spanish",
+            "English"
+          ],
+          "tip": "Read recent reviews and message the sitter first; Tarifa`s small pool means availability tightens fast in July-August.",
+          "tipFr": "Lisez les avis récents et contactez d`abord le sitter ; le petit vivier de Tarifa se remplit vite en juillet-août.",
+          "tipEs": "Lee las opiniones recientes y escribe primero al cuidador; el pequeño grupo de Tarifa se llena rápido en julio-agosto.",
+          "tipPt": "Leia as avaliações recentes e contacte primeiro o cuidador; o pequeno grupo de Tarifa enche depressa em julho-agosto."
+        },
+        {
+          "name": "Rover",
+          "website": "https://www.rover.com/es/tarifa--andalucia--cuidado-de-mascotas/",
+          "description": "A large international network of pet sitters and dog walkers with caregivers listed in Tarifa and around the Estrecho, offering boarding, house sitting, drop-in visits and walks. Profiles, reviews and secure in-app payment make it easy to book for a Tangier day trip or longer.",
+          "descriptionFr": "Un vaste réseau international de pet-sitters et promeneurs avec des prestataires à Tarifa et autour du détroit, proposant hébergement, garde à domicile, visites et promenades. Profils, avis et paiement sécurisé dans l`application facilitent la réservation pour une journée à Tanger ou plus.",
+          "descriptionEs": "Una gran red internacional de cuidadores y paseadores con profesionales en Tarifa y alrededor del estrecho, con alojamiento, cuidado a domicilio, visitas y paseos. Perfiles, opiniones y pago seguro en la app facilitan reservar para una jornada en Tánger o estancias más largas.",
+          "descriptionPt": "Uma grande rede internacional de cuidadores e passeadores com profissionais em Tarifa e à volta do estreito, com alojamento, cuidado ao domicílio, visitas e passeios. Perfis, avaliações e pagamento seguro na app facilitam reservar para um dia em Tânger ou estadias mais longas.",
+          "serviceType": "Boarding, house sitting, visits and walks",
+          "serviceTypeFr": "Hébergement, garde à domicile, visites et promenades",
+          "serviceTypeEs": "Alojamiento, cuidado a domicilio, visitas y paseos",
+          "serviceTypePt": "Alojamento, cuidado ao domicílio, visitas e passeios",
+          "pricePerDay": "Varies by sitter (from around €15/walk)",
+          "languages": [
+            "Spanish",
+            "English"
+          ],
+          "tip": "Filter by sitters who accept your dog`s size and arrange a short meet-and-greet on your arrival day.",
+          "tipFr": "Filtrez les sitters acceptant la taille de votre chien et organisez une courte rencontre le jour de votre arrivée.",
+          "tipEs": "Filtra por cuidadores que acepten el tamaño de tu perro y organiza un breve encuentro el día de tu llegada.",
+          "tipPt": "Filtre por cuidadores que aceitem o tamanho do seu cão e marque um breve encontro no dia da chegada."
+        }
+      ],
+      "tipsEn": [
+        "Book sitters well ahead for July-August, Easter and windsurf world cup weekends.",
+        "Always do a short meet-and-greet so your dog is comfortable with the sitter before a full day away.",
+        "Leave the Clínica Veterinaria Europa Tarifa number (+34 956 68 53 43) with your sitter for emergencies."
+      ],
+      "tipsFr": [
+        "Réservez les sitters bien à l`avance pour juillet-août, Pâques et les week-ends de coupe du monde de windsurf.",
+        "Organisez toujours une courte rencontre pour que votre chien soit à l`aise avec le sitter avant une journée complète d`absence.",
+        "Laissez le numéro de la Clínica Veterinaria Europa Tarifa (+34 956 68 53 43) à votre sitter en cas d`urgence."
+      ],
+      "tipsEs": [
+        "Reserva cuidadores con mucha antelación para julio-agosto, Semana Santa y los fines de semana de Copa del Mundo de windsurf.",
+        "Haz siempre un breve encuentro previo para que tu perro esté cómodo con el cuidador antes de una jornada completa fuera.",
+        "Deja a tu cuidador el número de la Clínica Veterinaria Europa Tarifa (+34 956 68 53 43) por si hay urgencias."
+      ],
+      "tipsPt": [
+        "Reserve cuidadores com muita antecedência para julho-agosto, Páscoa e os fins de semana da Taça do Mundo de windsurf.",
+        "Faça sempre um breve encontro prévio para que o seu cão fique à vontade com o cuidador antes de um dia inteiro fora.",
+        "Deixe ao cuidador o número da Clínica Veterinaria Europa Tarifa (+34 956 68 53 43) em caso de urgência."
+      ],
+      "faqsEn": [
+        {
+          "q": "How do I find a dog sitter in Tarifa?",
+          "a": "Use online platforms like Gudog or Rover, which list vetted local sitters and walkers in Tarifa with reviews and secure payment. The pool is small (Tarifa is a town of 18,000) so book at least 2-3 weeks ahead in summer."
+        },
+        {
+          "q": "Should I book pet care in advance?",
+          "a": "Yes, especially July-August when Tarifa`s population swells with kite and wind season, and on world cup event weekends. Arrange a short meet-and-greet first so your dog is comfortable with the sitter."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Comment trouver un pet-sitter à Tarifa ?",
+          "a": "Utilisez des plateformes en ligne comme Gudog ou Rover, qui référencent des sitters et promeneurs locaux vérifiés à Tarifa avec avis et paiement sécurisé. Le vivier est petit (Tarifa compte 18 000 habitants), réservez au moins 2-3 semaines à l`avance en été."
+        },
+        {
+          "q": "Faut-il réserver la garde à l`avance ?",
+          "a": "Oui, surtout en juillet-août quand la population de Tarifa double avec la saison du kite et du wind, et lors des week-ends de coupe du monde. Organisez d`abord une courte rencontre pour que votre chien soit à l`aise avec le sitter."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cómo encuentro un cuidador de perros en Tarifa?",
+          "a": "Usa plataformas online como Gudog o Rover, que listan cuidadores y paseadores locales verificados en Tarifa con opiniones y pago seguro. El grupo es pequeño (Tarifa tiene 18.000 habitantes), reserva al menos 2-3 semanas antes en verano."
+        },
+        {
+          "q": "¿Conviene reservar el cuidado con antelación?",
+          "a": "Sí, sobre todo en julio-agosto cuando la población de Tarifa se dispara con la temporada de kite y wind, y en fines de semana de Copa del Mundo. Haz primero un breve encuentro para que tu perro esté cómodo con el cuidador."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Como encontro um cuidador de cães em Tarifa?",
+          "a": "Use plataformas online como Gudog ou Rover, que listam cuidadores e passeadores locais verificados em Tarifa com avaliações e pagamento seguro. O grupo é pequeno (Tarifa tem 18.000 habitantes), reserve pelo menos 2-3 semanas antes no verão."
+        },
+        {
+          "q": "Convém reservar o cuidado com antecedência?",
+          "a": "Sim, sobretudo em julho-agosto quando a população de Tarifa dispara com a época de kite e wind, e nos fins de semana de Taça do Mundo. Faça primeiro um breve encontro para que o seu cão fique à vontade com o cuidador."
+        }
+      ]
+    }
+  }
+}

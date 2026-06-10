@@ -726,6 +726,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Saint-Pierre-la-Mer plage canine off-leash beach (Fleury-d'Aude postal 11560), the Massif de la Clape garrigue trails and Pech Redon panorama, and the Canal de la Robine towpath through the Cours Mirabeau`,
       area: `the pedestrian centre around the Place de l'Hôtel de Ville and the Cours Mirabeau, the canalside Cours de la République esplanades, and the Saint-Pierre-la-Mer / Fleury-d'Aude coastal annex 15 minutes east`,
     },
+    nazare: {
+      personality: `a 10 000-resident Atlantic fishing town on Portugal's Costa de Prata that became a global big-wave destination after the Praia do Norte canyon swell broke world records, with a clifftop Sítio quarter linked to the lower beach by a vintage 1889 funicular, the Forte de São Miguel Arcanjo lighthouse housing the surfing museum, and a wide sandy Praia da Nazaré where dogs are welcome outside the lifeguarded zone in summer`,
+      highlight: `the Praia do Norte big-wave cliffs and the WSL Big Wave Tour viewing platforms at the Forte de São Miguel Arcanjo lighthouse, the Sítio funicular ride and the Nossa Senhora da Nazaré sanctuary clifftop esplanade, and the Pederneira hilltop village with its whitewashed houses 2 km inland`,
+      area: `the lower Praia beachfront promenade, the clifftop Sítio quarter reached by the funicular or the steep Ladeira do Sítio, and the Pederneira historic upper village`,
+    },
     neringa: {
       personality: `the UNESCO Curonian Spit resort municipality on a 52 km Baltic sand spit, four lagoon villages with a permanent population of 2,500, reached only by ferry from Klaipeda, where leashed dogs roam pine-forest trails, the Parnidis sundial dune and the Nida lagoon promenade`,
       highlight: `the Parnidis Dune sundial in Nida, the Hill of Witches sculpture trail in Juodkrante, and the Nida lagoon promenade with its colourful weathervane fisherman houses`,
@@ -1844,6 +1849,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la plage canine sans laisse de Saint-Pierre-la-Mer (Fleury-d'Aude code postal 11560), les sentiers de garrigue du Massif de la Clape et le panorama du Pech Redon, et le chemin de halage du Canal de la Robine à travers le Cours Mirabeau`,
       area: `le centre piéton autour de la Place de l'Hôtel de Ville et du Cours Mirabeau, les esplanades canalside du Cours de la République, et l'annexe littorale de Saint-Pierre-la-Mer / Fleury-d'Aude à 15 minutes à l'est`,
     },
+    nazare: {
+      personality: `une ville de pêcheurs atlantique de 10 000 habitants sur la Costa de Prata portugaise devenue capitale mondiale du big-wave après que la houle du canyon de Praia do Norte a battu des records, avec un quartier en falaise du Sítio relié à la plage basse par un funiculaire de 1889, le Forte de São Miguel Arcanjo abritant le musée du surf, et une large Praia da Nazaré sableuse où les chiens sont admis hors de la zone surveillée en été`,
+      highlight: `les falaises big-wave de Praia do Norte et les plateformes d'observation du WSL Big Wave Tour au phare du Forte de São Miguel Arcanjo, la montée en funiculaire au Sítio et l'esplanade du sanctuaire Nossa Senhora da Nazaré, et le village perché de Pederneira aux maisons blanchies à 2 km à l'intérieur`,
+      area: `le front de mer bas de la Praia, le quartier en falaise du Sítio accessible par le funiculaire ou la Ladeira do Sítio en pente raide, et le village haut historique de Pederneira`,
+    },
     neringa: {
       personality: `la commune balnéaire UNESCO du Cordon de Courlande sur un cordon sableux balte de 52 km, quatre villages de lagune comptant 2 500 habitants permanents, accessible uniquement par ferry depuis Klaipeda, où les chiens en laisse parcourent les sentiers de pinède, la dune au cadran solaire de Parnidis et la promenade de la lagune à Nida`,
       highlight: `le cadran solaire de la dune de Parnidis à Nida, le sentier des sculptures de la Colline des Sorcières à Juodkrante, et la promenade de la lagune de Nida avec ses maisons de pêcheurs aux girouettes vetrunge colorées`,
@@ -2961,6 +2971,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la playa canina sin correa de Saint-Pierre-la-Mer (Fleury-d'Aude código postal 11560), los senderos de garriga del Massif de la Clape y la panorámica del Pech Redon, y el camino de sirga del Canal de la Robine por el Cours Mirabeau`,
       area: `el centro peatonal en torno a la Place de l'Hôtel de Ville y al Cours Mirabeau, las esplanadas junto al canal del Cours de la République, y el anexo costero de Saint-Pierre-la-Mer / Fleury-d'Aude a 15 minutos al este`,
     },
+    nazare: {
+      personality: `una localidad pesquera atlántica de 10.000 habitantes en la Costa de Prata portuguesa convertida en capital mundial del big-wave tras los récords de oleaje del cañón de Praia do Norte, con un barrio en acantilado del Sítio unido a la playa baja por un funicular de 1889, el Forte de São Miguel Arcanjo que alberga el museo del surf, y una amplia Praia da Nazaré arenosa donde se admiten perros fuera de la zona vigilada en verano`,
+      highlight: `los acantilados big-wave de Praia do Norte y las plataformas de observación del WSL Big Wave Tour en el faro del Forte de São Miguel Arcanjo, la subida en funicular al Sítio y la explanada del santuario Nossa Senhora da Nazaré, y el pueblo encaramado de Pederneira con sus casas encaladas a 2 km al interior`,
+      area: `el paseo marítimo bajo de la Praia, el barrio en acantilado del Sítio al que se accede por funicular o por la empinada Ladeira do Sítio, y el pueblo alto histórico de Pederneira`,
+    },
     neringa: {
       personality: `el municipio balneario UNESCO del Istmo de Curlandia sobre un cordón arenoso báltico de 52 km, cuatro pueblos lacustres con 2.500 habitantes permanentes, accesible solo en ferry desde Klaipeda, donde los perros con correa recorren los senderos del pinar, la duna del reloj de sol de Parnidis y el paseo de la laguna en Nida`,
       highlight: `el reloj de sol de la duna de Parnidis en Nida, el sendero de esculturas de la Colina de las Brujas en Juodkrante, y el paseo de la laguna de Nida con sus casas de pescadores con veletas vetrunge coloridas`,
@@ -4077,6 +4092,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma cidade do Languedoc-Roussillon com 55 000 habitantes com uma laje da Via Domitia romana exposta em frente ao Hôtel de Ville, o coro gótico inacabado da Cathédrale Saint-Just (41 m de altura), o Canal de la Robine UNESCO através do centro, Les Halles cobertas com balcões na chapa tolerantes a cães, e uma rara praia canina mediterrânica sem trela o ano inteiro em Saint-Pierre-la-Mer / Fleury-d'Aude (código postal 11560) a 15 minutos a leste`,
       highlight: `a praia canina sem trela de Saint-Pierre-la-Mer (Fleury-d'Aude código postal 11560), os trilhos de garrigue do Massif de la Clape e o panorama do Pech Redon, e o caminho de sirga do Canal de la Robine pelo Cours Mirabeau`,
       area: `o centro pedonal em torno da Place de l'Hôtel de Ville e do Cours Mirabeau, as esplanadas à beira do canal do Cours de la République, e o anexo costeiro de Saint-Pierre-la-Mer / Fleury-d'Aude a 15 minutos a leste`,
+    },
+    nazare: {
+      personality: `uma vila piscatória atlântica de 10 000 habitantes na Costa de Prata portuguesa que se tornou capital mundial das ondas grandes depois de a ondulação do canhão da Praia do Norte ter batido recordes mundiais, com o bairro do Sítio no cimo da arriba ligado à praia baixa por um funicular de 1889, o Forte de São Miguel Arcanjo que alberga o museu do surf, e o vasto areal da Praia da Nazaré onde os cães são bem-vindos fora da zona vigiada no verão`,
+      highlight: `as arribas das ondas grandes da Praia do Norte e as plataformas panorâmicas do WSL Big Wave Tour no farol do Forte de São Miguel Arcanjo, o funicular para o Sítio e a esplanada do Santuário de Nossa Senhora da Nazaré, e a aldeia alcandorada de Pederneira com as suas casas caiadas a 2 km para o interior`,
+      area: `a frente de mar baixa da Praia, o bairro do Sítio no cimo da arriba acessível por funicular ou pela íngreme Ladeira do Sítio, e a aldeia alta histórica de Pederneira`,
     },
     neringa: {
       personality: `o município balnear UNESCO do Istmo da Curlândia sobre um cordão arenoso báltico de 52 km, quatro aldeias lacustres com 2.500 habitantes permanentes, acessível só por ferry a partir de Klaipeda, onde os cães com trela percorrem os trilhos do pinhal, a duna do relógio de sol de Parnidis e o passeio da lagoa em Nida`,

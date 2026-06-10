@@ -10446,6 +10446,81 @@
     "iata": "BZR"
   },
   {
+    "slug": "nazare",
+    "name": "Nazaré",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/nazare.jpg",
+    "intro": "Nazaré, Portugal's Atlantic fishing town turned big-wave capital, pairs the clifftop Sítio quarter and Forte de São Miguel Arcanjo with the world-famous Praia do Norte canyon swells, a vintage funicular linking upper and lower town, and a long sandy beach where dogs are welcome outside the lifeguarded zone in summer.",
+    "lat": 39.601,
+    "lng": -9.0703,
+    "weather": {
+      "jan": {
+        "temp": 14,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Warm & breezy",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Warm & breezy",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 15,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "LIS"
+  },
+  {
     "slug": "neringa",
     "name": "Neringa",
     "country": "Lithuania",

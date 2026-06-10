@@ -1,0 +1,994 @@
+{
+  "slug": "nazare",
+  "name": "Nazaré",
+  "country": "Portugal",
+  "flag": "🇵🇹",
+  "lastUpdated": "2026-06-10",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Nazaré, Seafront Marisqueiras & Sítio Tascas",
+      "titleFr": "Restaurants dog-friendly à Nazaré, Marisqueiras du front de mer et tascas du Sítio",
+      "titleEs": "Restaurantes pet-friendly en Nazaré, Marisquerías del paseo y tascas del Sítio",
+      "titlePt": "Restaurantes pet-friendly na Nazaré, Marisqueiras da marginal e tascas do Sítio",
+      "introEn": "Nazaré is a fishing town first, surf town second, and its restaurant scene reflects both: long marisqueira terraces facing Praia da Nazaré, cliff-top viewpoint tables in the Sítio above Praia do Norte and tiny family tascas serving caldeirada inland. Leashed dogs are the unwritten norm on every outdoor terrace from October to April, and most marginal venues keep welcoming them through the summer once the lunch rush clears.",
+      "introFr": "Nazaré est d`abord un port de pêche, ensuite un spot de surf, et la scène gastronomique reflète les deux: longues terrasses de marisqueira face à la Praia da Nazaré, tables panoramiques du Sítio au-dessus de la Praia do Norte et minuscules tascas familiales servant la caldeirada dans les terres. Les chiens en laisse sont la règle tacite sur toutes les terrasses extérieures d`octobre à avril, et la plupart des adresses de la marginal continuent à les accueillir en été une fois le rush du déjeuner passé.",
+      "introEs": "Nazaré es ante todo un pueblo de pescadores, después de surfistas, y su escena gastronómica refleja ambas cosas: largas terrazas de marisquería frente a Praia da Nazaré, mesas panorámicas en el Sítio sobre Praia do Norte y pequeñas tascas familiares que sirven caldeirada tierra adentro. Los perros con correa son la norma tácita en toda terraza exterior de octubre a abril, y la mayoría de los locales del paseo siguen aceptándolos en verano una vez pasa el ajetreo del almuerzo.",
+      "introPt": "Nazaré é primeiro uma vila piscatória, depois um spot de surf, e a sua cena gastronómica reflete ambas: longas esplanadas de marisqueira frente à Praia da Nazaré, mesas panorâmicas no Sítio por cima da Praia do Norte e pequenas tascas familiares que servem caldeirada para o interior. Os cães com trela são a regra tácita em todas as esplanadas exteriores de outubro a abril, e a maioria dos locais da marginal continua a aceitá-los no verão depois do rush do almoço.",
+      "places": [
+        {
+          "name": "A Tasquinha",
+          "address": "Rua Adrião Batalha 54, 2450-103 Nazaré",
+          "neighborhood": "Praia",
+          "photo": "/images/city-places/nazare-restaurants-a-tasquinha.jpg",
+          "website": "https://www.atasquinha.com/",
+          "description": "Long-running family marisqueira two blocks back from the Avenida da República, with a tiled dining room and a small pavement terrace under a striped awning. Grilled sardines, arroz de marisco and the daily caldeirada are the local benchmarks.",
+          "descriptionFr": "Marisqueira familiale historique à deux rues de l`Avenida da República, avec une salle carrelée et une petite terrasse de trottoir sous store rayé. Sardines grillées, arroz de marisco et caldeirada du jour sont les références locales.",
+          "descriptionEs": "Marisquería familiar histórica a dos calles de la Avenida da República, con un comedor de azulejos y una pequeña terraza de acera bajo toldo a rayas. Sardinas a la brasa, arroz de marisco y caldeirada del día son la referencia local.",
+          "descriptionPt": "Marisqueira familiar histórica a duas ruas da Avenida da República, com sala de azulejos e pequena esplanada de passeio sob toldo às riscas. Sardinhas grelhadas, arroz de marisco e caldeirada do dia são a referência local.",
+          "petPolicy": "Leashed dogs welcome on the pavement terrace; small dogs accepted in the back dining room outside lunch peak",
+          "petPolicyFr": "Chiens en laisse acceptés en terrasse de trottoir; petits chiens admis dans la salle du fond hors pic du déjeuner",
+          "petPolicyEs": "Perros con correa admitidos en la terraza de acera; perros pequeños aceptados en el comedor del fondo fuera del pico del almuerzo",
+          "petPolicyPt": "Cães com trela aceites na esplanada de passeio; cães pequenos aceites na sala do fundo fora do pico do almoço",
+          "priceRange": "€€",
+          "mustTry": "Caldeirada à pescador, arroz de marisco, sardinhas assadas",
+          "mustTryFr": "Caldeirada à pescador, arroz de marisco, sardines grillées",
+          "mustTryEs": "Caldeirada à pescador, arroz de marisco, sardinas asadas",
+          "mustTryPt": "Caldeirada à pescador, arroz de marisco, sardinhas assadas",
+          "openingHours": "Tue–Sun 12:00–15:00, 19:00–22:30",
+          "tip": "Reserve before 12:30 on weekends, the pavement terrace has only four tables and locals book the front-row spot facing the awning.",
+          "tipFr": "Réservez avant 12h30 le week-end, la terrasse de trottoir ne compte que quatre tables et les locaux prennent celle du premier rang face au store.",
+          "tipEs": "Reserva antes de las 12:30 los fines de semana, la terraza de acera solo tiene cuatro mesas y los locales reservan la del primer rango frente al toldo.",
+          "tipPt": "Reserva antes das 12:30 ao fim de semana, a esplanada só tem quatro mesas e os locais reservam a da primeira fila frente ao toldo.",
+          "googleMapsUrl": "https://maps.google.com/?q=A+Tasquinha+Nazare"
+        },
+        {
+          "name": "Restaurante Rosa dos Ventos",
+          "address": "Largo do Elevador 6, 2450-065 Nazaré (Sítio)",
+          "neighborhood": "Sítio",
+          "photo": "/images/city-places/nazare-restaurants-rosa-dos-ventos.jpg",
+          "website": "https://www.facebook.com/RosaDosVentosNazare/",
+          "description": "Cliff-top tasca a few metres from the upper funicular station and the Suberco viewpoint over Praia do Norte. Small wooden terrace facing the Atlantic, simple grilled fish menu and a daily caldeirada that locals order without looking at the card.",
+          "descriptionFr": "Tasca de bord de falaise à quelques mètres de la station haute du funiculaire et du belvédère du Suberco au-dessus de la Praia do Norte. Petite terrasse en bois face à l`Atlantique, carte simple de poissons grillés et caldeirada du jour que les locaux commandent sans regarder la carte.",
+          "descriptionEs": "Tasca al borde del acantilado a unos metros de la estación alta del funicular y del mirador del Suberco sobre Praia do Norte. Pequeña terraza de madera frente al Atlántico, carta sencilla de pescados a la brasa y caldeirada del día que los locales piden sin mirar la carta.",
+          "descriptionPt": "Tasca no topo da falésia a poucos metros da estação alta do funicular e do miradouro do Suberco sobre a Praia do Norte. Pequena esplanada de madeira frente ao Atlântico, carta simples de peixes grelhados e caldeirada do dia que os locais pedem sem olhar para a carta.",
+          "petPolicy": "Leashed dogs welcome on the wooden cliff-top terrace; interior table by the door for very small dogs in winter",
+          "petPolicyFr": "Chiens en laisse acceptés sur la terrasse en bois de la falaise; table d`entrée à l`intérieur pour très petits chiens en hiver",
+          "petPolicyEs": "Perros con correa admitidos en la terraza de madera del acantilado; mesa de entrada interior para perros muy pequeños en invierno",
+          "petPolicyPt": "Cães com trela aceites na esplanada de madeira; mesa de entrada interior para cães muito pequenos no inverno",
+          "priceRange": "€€",
+          "mustTry": "Peixe seco al sol grelhado, polvo à lagareiro, vinho regional Estremadura",
+          "mustTryFr": "Peixe seco al sol grillé, polvo à lagareiro, vin régional Estremadura",
+          "mustTryEs": "Pescado secado al sol a la brasa, pulpo à lagareiro, vino regional Estremadura",
+          "mustTryPt": "Peixe seco ao sol grelhado, polvo à lagareiro, vinho regional Estremadura",
+          "openingHours": "Daily 12:00–22:00",
+          "tip": "Big-wave winter days the wind hits hard on the terrace, ask for the corner table sheltered by the stone wall on the lighthouse side.",
+          "tipFr": "Les jours de grosses vagues d`hiver le vent frappe fort en terrasse, demandez la table d`angle abritée par le mur de pierre côté phare.",
+          "tipEs": "Los días de olas grandes en invierno el viento azota la terraza, pide la mesa de la esquina protegida por el muro de piedra del lado del faro.",
+          "tipPt": "Nos dias de ondas grandes de inverno o vento bate forte na esplanada, peça a mesa de canto abrigada pelo muro de pedra do lado do farol.",
+          "googleMapsUrl": "https://maps.google.com/?q=Rosa+dos+Ventos+Sitio+Nazare"
+        },
+        {
+          "name": "Taberna do 8 ó 80",
+          "address": "Rua Adrião Batalha 24, 2450-101 Nazaré",
+          "neighborhood": "Praia",
+          "photo": "/images/city-places/nazare-restaurants-taberna-8-o-80.jpg",
+          "website": "https://www.facebook.com/Tabernado8o80/",
+          "description": "Modern petisco bar a block back from the beachfront, with wide pavement seating under canopy umbrellas and a tiled bar inside. Codfish croquettes, octopus salad and a serious by-the-glass list of small Lisbon-region producers.",
+          "descriptionFr": "Bar à petiscos moderne à une rue du front de mer, avec un large mobilier de trottoir sous parasols et un bar carrelé à l`intérieur. Croquettes de morue, salade de poulpe et belle carte au verre de petits producteurs de la région de Lisbonne.",
+          "descriptionEs": "Bar de petiscos moderno a una calle del paseo marítimo, con amplio mobiliario de acera bajo sombrillas y una barra de azulejos dentro. Croquetas de bacalao, ensalada de pulpo y buena carta por copas de pequeños productores de la región de Lisboa.",
+          "descriptionPt": "Bar de petiscos moderno a uma rua da marginal, com amplo mobiliário de passeio sob chapéus e um balcão de azulejos no interior. Pastéis de bacalhau, salada de polvo e uma boa carta a copo de pequenos produtores da região de Lisboa.",
+          "petPolicy": "Leashed dogs welcome on the pavement seating; small dogs allowed at the bar counter outside service peaks",
+          "petPolicyFr": "Chiens en laisse acceptés en mobilier de trottoir; petits chiens admis au comptoir hors pics de service",
+          "petPolicyEs": "Perros con correa admitidos en el mobiliario de acera; perros pequeños permitidos en la barra fuera de los picos de servicio",
+          "petPolicyPt": "Cães com trela aceites no mobiliário de passeio; cães pequenos aceites ao balcão fora dos picos de serviço",
+          "priceRange": "€€",
+          "mustTry": "Pataniscas de bacalhau, polvo à lagareiro, percebes em época",
+          "mustTryFr": "Pataniscas de bacalhau, polvo à lagareiro, pouce-pieds en saison",
+          "mustTryEs": "Pataniscas de bacalao, pulpo à lagareiro, percebes en temporada",
+          "mustTryPt": "Pataniscas de bacalhau, polvo à lagareiro, percebes em época",
+          "openingHours": "Wed–Mon 12:00–23:00",
+          "tip": "Order the percebes only when posted on the chalkboard, the kitchen sources from the Sítio cliffs and stops serving once the morning catch sells out.",
+          "tipFr": "Ne commandez les percebes que lorsqu`ils sont au tableau, la cuisine s`approvisionne aux falaises du Sítio et cesse le service dès que la pêche du matin est épuisée.",
+          "tipEs": "Pide los percebes solo cuando estén en la pizarra, la cocina los compra en los acantilados del Sítio y deja de servir cuando se acaba la pesca de la mañana.",
+          "tipPt": "Peça os percebes apenas quando estiverem no quadro, a cozinha abastece-se nas falésias do Sítio e deixa de servir quando se esgota a pesca da manhã.",
+          "googleMapsUrl": "https://maps.google.com/?q=Taberna+8+o+80+Nazare"
+        }
+      ],
+      "tipsEn": [
+        "Most Nazaré restaurants follow the unwritten Portuguese rule: leashed dogs are welcome on terraces and rarely refused unless a sign says otherwise. The phrase to use at the door is `Posso entrar com o cão?`.",
+        "Avenida Manuel Remígio terraces facing the beach are the most reliably dog-friendly; the narrow tascas of Rua Adrião Batalha mostly fit small dogs inside.",
+        "Tap water is free everywhere, ask for `uma taça de água para o cão` and a bowl normally appears within a minute."
+      ],
+      "tipsFr": [
+        "La plupart des restaurants de Nazaré suivent la règle tacite portugaise: chiens en laisse acceptés en terrasse, rarement refusés sauf panneau explicite. La phrase à utiliser: « Posso entrar com o cão ? ».",
+        "Les terrasses de l`Avenida Manuel Remígio face à la plage sont les plus systématiquement dog-friendly; les tascas étroites de la Rua Adrião Batalha n`acceptent en salle que les petits chiens.",
+        "L`eau du robinet est gratuite partout, demandez « uma taça de água para o cão » et la gamelle arrive en général en une minute."
+      ],
+      "tipsEs": [
+        "La mayoría de los restaurantes de Nazaré siguen la regla tácita portuguesa: perros con correa admitidos en terraza, rara vez rechazados salvo cartel explícito. La frase para usar: «Posso entrar com o cão?».",
+        "Las terrazas de la Avenida Manuel Remígio frente a la playa son las más sistemáticamente pet-friendly; las tascas estrechas de Rua Adrião Batalha solo aceptan perros pequeños dentro.",
+        "El agua del grifo es gratis en todas partes, pide «uma taça de água para o cão» y el cuenco suele llegar en un minuto."
+      ],
+      "tipsPt": [
+        "A maioria dos restaurantes da Nazaré segue a regra tácita portuguesa: cães com trela aceites na esplanada, raramente recusados salvo placa explícita. A frase para usar: «Posso entrar com o cão?».",
+        "As esplanadas da Avenida Manuel Remígio frente à praia são as mais sistematicamente pet-friendly; as tascas estreitas da Rua Adrião Batalha só aceitam cães pequenos no interior.",
+        "A água da torneira é grátis em todo o lado, peça «uma taça de água para o cão» e a taça costuma chegar num minuto."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside restaurants in Nazaré or only on terraces?",
+          "a": "Almost every Nazaré marginal terrace welcomes leashed dogs year-round, and a meaningful minority of tascas, including A Tasquinha and Taberna do 8 ó 80, admit small dogs indoors outside the lunch and dinner peaks."
+        },
+        {
+          "q": "Do I need to book ahead to bring a dog?",
+          "a": "Reservations are not required to bring a dog but they help: a corner or end-of-terrace table gives you more space to settle a medium-to-large breed comfortably, especially on winter big-wave weekends when the Sítio fills up."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés en salle à Nazaré ou uniquement en terrasse ?",
+          "a": "Presque toutes les terrasses de la marginal acceptent les chiens en laisse toute l`année, et plusieurs tascas, A Tasquinha et Taberna do 8 ó 80 en tête, admettent les petits chiens en salle hors pics du déjeuner et du dîner."
+        },
+        {
+          "q": "Faut-il réserver pour venir avec un chien ?",
+          "a": "Ce n`est pas obligatoire mais c`est utile: une table d`angle ou en bout de terrasse donne plus d`espace pour installer confortablement un chien moyen ou grand, surtout les week-ends d`hiver à grosses vagues quand le Sítio se remplit."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en el interior de los restaurantes de Nazaré o solo en terraza?",
+          "a": "Casi todas las terrazas del paseo aceptan perros con correa todo el año, y un grupo significativo de tascas, con A Tasquinha y Taberna do 8 ó 80 a la cabeza, admite perros pequeños dentro fuera de los picos de almuerzo y cena."
+        },
+        {
+          "q": "¿Hay que reservar para venir con perro?",
+          "a": "No es obligatorio pero ayuda: una mesa de esquina o al final de la terraza da más espacio para acomodar a un perro mediano o grande, sobre todo en los fines de semana de olas grandes en invierno cuando se llena el Sítio."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Aceitam cães no interior dos restaurantes da Nazaré ou só na esplanada?",
+          "a": "Quase todas as esplanadas da marginal aceitam cães com trela o ano inteiro, e um grupo significativo de tascas, com A Tasquinha e Taberna do 8 ó 80 à cabeça, aceita cães pequenos no interior fora dos picos do almoço e do jantar."
+        },
+        {
+          "q": "É preciso reservar para vir com cão?",
+          "a": "Não é obrigatório mas ajuda: uma mesa de canto ou no fim da esplanada dá mais espaço para acomodar um cão médio ou grande, sobretudo aos fins de semana de inverno com ondas grandes em que o Sítio enche."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Parks & Green Spaces for Dogs in Nazaré",
+      "titleFr": "Meilleurs parcs et espaces verts pour chiens à Nazaré",
+      "titleEs": "Mejores parques y espacios verdes para perros en Nazaré",
+      "titlePt": "Melhores parques e espaços verdes para cães na Nazaré",
+      "introEn": "Nazaré is small but green spaces extend well beyond the urban grid: the cliff-top promontory of the Sítio doubles as the town`s aerial park, the Promontório do Sítio cliff path runs unbroken from the Forte de São Miguel Arcanjo lighthouse out to the Suberco viewpoint, and the pine-and-eucalyptus forest of the Mata Nacional do Valado climbs inland behind Pederneira. Leashes are expected throughout, but the wild cliff trail above Praia do Norte is where Nazaré dogs do their serious sniffing.",
+      "introFr": "Nazaré est petite mais les espaces verts dépassent largement le maillage urbain: le promontoire du Sítio fait office de parc aérien, le sentier de falaise du Promontório do Sítio court d`un trait du phare du Forte de São Miguel Arcanjo jusqu`au belvédère du Suberco, et la forêt de pins et d`eucalyptus de la Mata Nacional do Valado monte à l`intérieur derrière Pederneira. La laisse est attendue partout, mais le sentier sauvage de falaise au-dessus de la Praia do Norte est l`endroit où les chiens de Nazaré reniflent vraiment.",
+      "introEs": "Nazaré es pequeña pero los espacios verdes se extienden más allá del trazado urbano: el promontorio del Sítio funciona como parque aéreo, el sendero del acantilado del Promontório do Sítio corre sin cortes desde el faro del Forte de São Miguel Arcanjo hasta el mirador del Suberco, y el pinar y eucaliptal de la Mata Nacional do Valado sube tierra adentro detrás de Pederneira. Se espera correa por todas partes, pero el sendero salvaje del acantilado sobre Praia do Norte es donde los perros de Nazaré olfatean de verdad.",
+      "introPt": "A Nazaré é pequena mas os espaços verdes vão muito além da malha urbana: o promontório do Sítio funciona como parque aéreo, o trilho da falésia do Promontório do Sítio corre sem cortes do farol do Forte de São Miguel Arcanjo até ao miradouro do Suberco, e o pinhal e eucaliptal da Mata Nacional do Valado sobe para o interior atrás da Pederneira. A trela é esperada em todo o lado, mas o trilho selvagem da falésia sobre a Praia do Norte é onde os cães da Nazaré farejam a sério.",
+      "places": [
+        {
+          "name": "Promontório do Sítio cliff path",
+          "type": "Cliff-top promenade",
+          "photo": "/images/city-places/nazare-parks-promontorio-do-sitio.jpg",
+          "website": "https://cm-nazare.pt/",
+          "description": "Two-kilometre cliff-top walk from the Forte de São Miguel Arcanjo lighthouse along the edge of the Promontório do Sítio to the Suberco viewpoint, with the world-record big-wave break of Praia do Norte 100 metres below. Mostly flat, partially paved and the single most spectacular urban walk on the Portuguese coast.",
+          "descriptionFr": "Promenade de falaise de deux kilomètres du phare du Forte de São Miguel Arcanjo au belvédère du Suberco, le long du Promontório do Sítio, avec la vague record de la Praia do Norte 100 mètres en contrebas. Essentiellement plate, partiellement asphaltée, c`est la balade urbaine la plus spectaculaire de la côte portugaise.",
+          "descriptionEs": "Paseo por el acantilado de dos kilómetros desde el faro del Forte de São Miguel Arcanjo hasta el mirador del Suberco, bordeando el Promontório do Sítio, con la ola récord mundial de Praia do Norte 100 metros más abajo. Prácticamente llano, parcialmente asfaltado, es el paseo urbano más espectacular de la costa portuguesa.",
+          "descriptionPt": "Passeio na falésia de dois quilómetros desde o farol do Forte de São Miguel Arcanjo até ao miradouro do Suberco, ao longo do Promontório do Sítio, com a onda recorde mundial da Praia do Norte 100 metros abaixo. Quase plano, parcialmente asfaltado, é o passeio urbano mais espectacular da costa portuguesa.",
+          "offLeash": false,
+          "offLeashArea": "Leash required throughout; the cliffs are unfenced for long stretches and the wind can knock a small dog over on big-wave days",
+          "offLeashAreaFr": "Laisse obligatoire partout; les falaises ne sont pas protégées sur de longs tronçons et le vent peut renverser un petit chien les jours de grosses vagues",
+          "offLeashAreaEs": "Correa obligatoria en todo el recorrido; los acantilados no están vallados en largos tramos y el viento puede tirar a un perro pequeño los días de olas grandes",
+          "offLeashAreaPt": "Trela obrigatória em todo o percurso; as falésias não estão vedadas em longos troços e o vento pode derrubar um cão pequeno nos dias de ondas grandes",
+          "tip": "Start at the lighthouse and walk south to the Suberco, the sun stays at your back all morning and the dogs face the ocean breeze rather than the cliff face.",
+          "tipFr": "Démarrez au phare et marchez sud vers le Suberco, le soleil reste dans le dos toute la matinée et les chiens font face à la brise océanique plutôt qu`à la falaise.",
+          "tipEs": "Empieza en el faro y camina al sur hacia el Suberco, el sol queda a la espalda toda la mañana y los perros miran a la brisa oceánica en vez de a la cara del acantilado.",
+          "tipPt": "Comece no farol e caminhe para sul até ao Suberco, o sol fica nas costas toda a manhã e os cães ficam virados para a brisa oceânica em vez de para a falésia.",
+          "googleMapsUrl": "https://maps.google.com/?q=Forte+de+Sao+Miguel+Arcanjo+Nazare"
+        },
+        {
+          "name": "Avenida Manuel Remígio seafront",
+          "type": "Seafront promenade",
+          "photo": "/images/city-places/nazare-parks-avenida-manuel-remigio.jpg",
+          "website": "https://cm-nazare.pt/",
+          "description": "One-and-a-half kilometre promenade along Praia da Nazaré, from the funicular base south to the harbour. Wide tiled pavement, palm-tree shade on the inland side and a steady evening stream of local dog owners between November and April.",
+          "descriptionFr": "Promenade d`un kilomètre et demi le long de la Praia da Nazaré, de la base du funiculaire au sud jusqu`au port. Large dallage, ombre des palmiers côté terre et flux régulier de propriétaires locaux le soir entre novembre et avril.",
+          "descriptionEs": "Paseo de kilómetro y medio a lo largo de Praia da Nazaré, desde la base del funicular al sur hasta el puerto. Ancho enlosado, sombra de palmeras del lado de tierra y flujo constante de dueños locales al atardecer entre noviembre y abril.",
+          "descriptionPt": "Passeio de quilómetro e meio ao longo da Praia da Nazaré, da base do funicular a sul até ao porto. Largo pavimento, sombra das palmeiras do lado de terra e fluxo constante de donos locais ao fim do dia entre novembro e abril.",
+          "offLeash": false,
+          "offLeashArea": "Leash required by municipal regulamento; benches are spaced every 30 metres and the tile is cooler on paws than the inland streets in summer",
+          "offLeashAreaFr": "Laisse obligatoire par regulamento municipal; bancs espacés de 30 mètres et dallage plus frais sous les pattes que les rues de l`intérieur en été",
+          "offLeashAreaEs": "Correa obligatoria por regulamento municipal; bancos cada 30 metros y enlosado más fresco para las patas que las calles de tierra adentro en verano",
+          "offLeashAreaPt": "Trela obrigatória por regulamento municipal; bancos a cada 30 metros e pavimento mais fresco para as patas que as ruas do interior no verão",
+          "tip": "After 19:00 from October to April the whole promenade fills with leashed local dogs and pups, the easiest place in town to socialise a young dog.",
+          "tipFr": "Après 19h d`octobre à avril, toute la promenade se remplit de chiens locaux en laisse et de chiots, l`endroit le plus simple pour socialiser un jeune chien.",
+          "tipEs": "Después de las 19:00 de octubre a abril, todo el paseo se llena de perros locales con correa y cachorros, el sitio más fácil para socializar a un perro joven.",
+          "tipPt": "Depois das 19:00 de outubro a abril, todo o passeio enche de cães locais com trela e cachorros, o sítio mais fácil para socializar um cão jovem.",
+          "googleMapsUrl": "https://maps.google.com/?q=Avenida+Manuel+Remigio+Nazare"
+        },
+        {
+          "name": "Mata Nacional do Valado",
+          "type": "Forest park",
+          "photo": "/images/city-places/nazare-parks-mata-nacional-do-valado.jpg",
+          "website": "https://www2.icnf.pt/",
+          "description": "Pine and eucalyptus state forest inland from Valado dos Frades, 5 km from central Nazaré on the N242. Wide forestry tracks, plenty of shade and very few visitors outside summer, the practical option for letting a large dog stretch on a 5 km loop.",
+          "descriptionFr": "Forêt domaniale de pins et d`eucalyptus à l`intérieur depuis Valado dos Frades, à 5 km du centre de Nazaré sur la N242. Larges pistes forestières, beaucoup d`ombre et très peu de visiteurs hors été, l`option pratique pour faire courir un grand chien sur une boucle de 5 km.",
+          "descriptionEs": "Bosque estatal de pinos y eucaliptos tierra adentro desde Valado dos Frades, a 5 km del centro de Nazaré por la N242. Anchas pistas forestales, mucha sombra y muy pocos visitantes fuera de verano, la opción práctica para que un perro grande corra en un bucle de 5 km.",
+          "descriptionPt": "Mata estatal de pinheiros e eucaliptos para o interior a partir do Valado dos Frades, a 5 km do centro da Nazaré pela N242. Largos caminhos florestais, muita sombra e muito poucos visitantes fora do verão, a opção prática para um cão grande correr num circuito de 5 km.",
+          "offLeash": false,
+          "offLeashArea": "Leash required on marked tracks during fire season (Jul–Sep); locals walk dogs more loosely on the inner trails outside fire season",
+          "offLeashAreaFr": "Laisse obligatoire sur les pistes balisées en saison feu (juil–sep); les habitants relâchent les chiens sur les sentiers intérieurs hors saison feu",
+          "offLeashAreaEs": "Correa obligatoria en las pistas marcadas en época de incendios (jul–sep); los vecinos sueltan a los perros en los senderos interiores fuera de la época",
+          "offLeashAreaPt": "Trela obrigatória nos trilhos marcados em época de incêndios (jul–set); os locais soltam os cães nos trilhos interiores fora da época",
+          "tip": "Park at the Valado dos Frades chapel car park, the southern trailhead is shaded by 09:00 and the boar tracks west are the most interesting for sniffing dogs.",
+          "tipFr": "Stationnez au parking de la chapelle de Valado dos Frades, le départ sud est ombragé dès 9h et les pistes à sangliers à l`ouest sont les plus intéressantes pour les chiens fouineurs.",
+          "tipEs": "Aparca en el parking de la capilla de Valado dos Frades, el inicio sur queda a la sombra desde las 09:00 y las pistas de jabalí al oeste son las más interesantes para perros olfateadores.",
+          "tipPt": "Estacione no parque da capela do Valado dos Frades, o início sul fica à sombra a partir das 09:00 e os trilhos de javali a oeste são os mais interessantes para cães farejadores.",
+          "googleMapsUrl": "https://maps.google.com/?q=Mata+Nacional+do+Valado+Nazare"
+        }
+      ],
+      "tipsEn": [
+        "Nazaré municipal rule: dogs must be leashed in every urban park, on the Avenida Manuel Remígio and on the Sítio cliff path; standard leash up to 2 metres.",
+        "Dog poo bag dispensers are at the funicular base, the Suberco viewpoint and the harbour end of the marginal, but they empty out by midday on summer weekends, carry your own.",
+        "Big-wave winter days (Oct–Feb) the cliff path is windy enough to spray salt at face height, dogs with sensitive eyes are happier on the marginal those days."
+      ],
+      "tipsFr": [
+        "Règlement municipal de Nazaré: chiens en laisse dans tous les parcs urbains, sur l`Avenida Manuel Remígio et sur le sentier de falaise du Sítio; laisse standard de 2 mètres maximum.",
+        "Des distributeurs de sacs à déjections existent à la base du funiculaire, au Suberco et côté port de la marginal, mais ils se vident à midi le week-end l`été, emportez les vôtres.",
+        "Les jours d`hiver à grosses vagues (oct–fév), le sentier de falaise est assez venté pour projeter du sel à hauteur de visage, les chiens aux yeux sensibles préfèrent la marginal ces jours-là."
+      ],
+      "tipsEs": [
+        "Norma municipal de Nazaré: los perros deben llevar correa en todos los parques urbanos, en la Avenida Manuel Remígio y en el sendero del acantilado del Sítio; correa estándar de hasta 2 metros.",
+        "Hay dispensadores de bolsas en la base del funicular, en el Suberco y en el extremo del puerto del paseo, pero se vacían a mediodía los fines de semana de verano, lleva las tuyas.",
+        "Los días de olas grandes en invierno (oct–feb) el sendero del acantilado tiene viento suficiente para proyectar sal a la altura de la cara, los perros con ojos sensibles prefieren el paseo esos días."
+      ],
+      "tipsPt": [
+        "Regulamento municipal da Nazaré: os cães devem estar com trela em todos os parques urbanos, na Avenida Manuel Remígio e no trilho da falésia do Sítio; trela padrão até 2 metros.",
+        "Há dispensadores de sacos na base do funicular, no Suberco e no extremo do porto da marginal, mas esvaziam-se ao meio-dia aos fins de semana de verão, leve os seus.",
+        "Nos dias de inverno com ondas grandes (out–fev) o trilho da falésia tem vento suficiente para projetar sal à altura do rosto, os cães com olhos sensíveis preferem a marginal nesses dias."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there any off-leash dog parks in Nazaré?",
+          "a": "There is no dedicated municipal off-leash dog park inside Nazaré itself. For proper running, head to the inner trails of the Mata Nacional do Valado outside the July–September fire season, where local owners typically let dogs off-leash on the boar tracks."
+        },
+        {
+          "q": "Is the Sítio cliff path safe for dogs?",
+          "a": "Yes for leashed dogs of any size, but the cliff edge is unfenced over long stretches and the wind on big-wave days is strong enough to push a small dog off balance, keep the leash short within 5 metres of the cliff edge."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des parcs canins sans laisse à Nazaré ?",
+          "a": "Aucun parc municipal sans laisse dans Nazaré même. Pour vraiment courir, direction les sentiers intérieurs de la Mata Nacional do Valado hors saison feu (juillet–septembre), où les propriétaires locaux laissent en général les chiens libres sur les pistes à sangliers."
+        },
+        {
+          "q": "Le sentier de falaise du Sítio est-il sûr pour un chien ?",
+          "a": "Oui pour tout chien en laisse, mais le bord de falaise n`est pas protégé sur de longs tronçons et le vent les jours de grosses vagues suffit à déséquilibrer un petit chien, gardez une laisse courte à moins de 5 mètres du bord."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay parques caninos sin correa en Nazaré?",
+          "a": "No hay parque municipal sin correa en la propia Nazaré. Para correr de verdad, ve a los senderos interiores de la Mata Nacional do Valado fuera de la época de incendios (julio–septiembre), donde los dueños locales suelen soltar a los perros en las pistas de jabalí."
+        },
+        {
+          "q": "¿Es seguro el sendero del acantilado del Sítio para un perro?",
+          "a": "Sí para cualquier perro con correa, pero el borde del acantilado no está vallado en largos tramos y el viento los días de olas grandes basta para desequilibrar a un perro pequeño, mantén la correa corta a menos de 5 metros del borde."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há parques caninos sem trela na Nazaré?",
+          "a": "Não existe parque municipal sem trela dentro da própria Nazaré. Para correr a sério, vá aos trilhos interiores da Mata Nacional do Valado fora da época de incêndios (julho–setembro), onde os donos locais costumam soltar os cães nos trilhos de javali."
+        },
+        {
+          "q": "O trilho da falésia do Sítio é seguro para um cão?",
+          "a": "Sim para qualquer cão com trela, mas a borda da falésia não está vedada em longos troços e o vento nos dias de ondas grandes chega para desequilibrar um cão pequeno, mantenha a trela curta a menos de 5 metros da borda."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Public Transport with Pets in Nazaré, Buses, Funicular & Regional Trains",
+      "titleFr": "Transports en commun avec animaux à Nazaré, Bus, funiculaire et trains régionaux",
+      "titleEs": "Transporte público con mascotas en Nazaré, Autobuses, funicular y trenes regionales",
+      "titlePt": "Transporte público com animais na Nazaré, Autocarros, funicular e comboios regionais",
+      "introEn": "Nazaré has no train station inside the town itself: the closest CP stop is Valado dos Frades 5 km inland on the Linha do Oeste between Lisboa and Figueira da Foz. Inside town, the Funicular da Nazaré links the seafront Praia to the cliff-top Sítio and accepts pets in a carrier; Rede Expressos and Flixbus coaches run direct from Lisboa Sete Rios and Porto Campanhã. Bolt operates with a Pet filter in the region and is by far the most flexible option for a medium-to-large dog.",
+      "introFr": "Nazaré n`a pas de gare ferroviaire dans la ville même: l`arrêt CP le plus proche est Valado dos Frades à 5 km dans les terres sur la Linha do Oeste entre Lisbonne et Figueira da Foz. En ville, le Funicular da Nazaré relie la marginal de la Praia au Sítio en haut de falaise et accepte les animaux en cage; Rede Expressos et Flixbus assurent des liaisons directes depuis Lisboa Sete Rios et Porto Campanhã. Bolt propose un filtre Pet dans la région et reste de loin l`option la plus souple pour un chien moyen ou grand.",
+      "introEs": "Nazaré no tiene estación de tren en la propia ciudad: la parada CP más cercana es Valado dos Frades, a 5 km tierra adentro, en la Linha do Oeste entre Lisboa y Figueira da Foz. Dentro de la ciudad, el Funicular da Nazaré une la marginal de la Praia con el Sítio en lo alto del acantilado y acepta mascotas en transportín; Rede Expressos y Flixbus operan directos desde Lisboa Sete Rios y Porto Campanhã. Bolt tiene filtro Pet en la región y es de lejos la opción más flexible para un perro mediano o grande.",
+      "introPt": "A Nazaré não tem estação ferroviária dentro da própria vila: a paragem CP mais próxima é Valado dos Frades a 5 km no interior, na Linha do Oeste entre Lisboa e Figueira da Foz. Dentro da vila, o Funicular da Nazaré liga a marginal da Praia ao Sítio no topo da falésia e aceita animais em transportadora; a Rede Expressos e a Flixbus fazem ligações directas a partir de Lisboa Sete Rios e Porto Campanhã. A Bolt tem filtro Pet na região e é de longe a opção mais flexível para um cão médio ou grande.",
+      "rules": [
+        {
+          "transport": "CP regional train (Linha do Oeste, Valado dos Frades stop)",
+          "transportFr": "Train régional CP (Linha do Oeste, arrêt Valado dos Frades)",
+          "transportEs": "Tren regional CP (Linha do Oeste, parada Valado dos Frades)",
+          "transportPt": "Comboio regional CP (Linha do Oeste, paragem Valado dos Frades)",
+          "policy": "Pets up to 6 kg free in a closed carrier; larger dogs with muzzle and short leash for a €25 supplement, valid vaccination booklet required",
+          "policyFr": "Animaux jusqu`à 6 kg gratuits en cage fermée; chiens plus grands avec muselière et laisse courte moyennant 25 € de supplément, carnet de vaccination valide exigé",
+          "policyEs": "Mascotas hasta 6 kg gratis en transportín cerrado; perros más grandes con bozal y correa corta con suplemento de 25 €, cartilla de vacunación válida obligatoria",
+          "policyPt": "Animais até 6 kg grátis em transportadora fechada; cães maiores com açaime e trela curta mediante suplemento de 25 €, boletim de vacinação válido obrigatório"
+        },
+        {
+          "transport": "Funicular da Nazaré (Praia ↔ Sítio)",
+          "transportFr": "Funicular da Nazaré (Praia ↔ Sítio)",
+          "transportEs": "Funicular da Nazaré (Praia ↔ Sítio)",
+          "transportPt": "Funicular da Nazaré (Praia ↔ Sítio)",
+          "policy": "Pets in a closed carrier travel free; loose dogs only at the operator`s discretion, generally outside peak hours and never on a fully-loaded cabin",
+          "policyFr": "Animaux en cage fermée gratuits; chiens en liberté uniquement à la discrétion de l`opérateur, en général hors heures de pointe et jamais en cabine pleine",
+          "policyEs": "Mascotas en transportín cerrado gratis; perros sueltos solo a discreción del operador, generalmente fuera de horas punta y nunca en cabina completa",
+          "policyPt": "Animais em transportadora fechada grátis; cães soltos só a critério do operador, geralmente fora das horas de ponta e nunca em cabina cheia"
+        },
+        {
+          "transport": "Rede Expressos / Flixbus coach (Lisboa, Porto, Leiria)",
+          "transportFr": "Autocar Rede Expressos / Flixbus (Lisbonne, Porto, Leiria)",
+          "transportEs": "Autobús Rede Expressos / Flixbus (Lisboa, Oporto, Leiria)",
+          "transportPt": "Autocarro Rede Expressos / Flixbus (Lisboa, Porto, Leiria)",
+          "policy": "Small pets in a closed carrier accepted in the cabin (max 8 kg combined); larger dogs only in the hold in an IATA-spec crate, advance booking required",
+          "policyFr": "Petits animaux en cage fermée acceptés en cabine (max 8 kg combiné); chiens plus grands uniquement en soute en caisse aux normes IATA, réservation à l`avance obligatoire",
+          "policyEs": "Mascotas pequeñas en transportín cerrado aceptadas en cabina (máx 8 kg combinado); perros más grandes solo en bodega en caja conforme IATA, reserva previa obligatoria",
+          "policyPt": "Animais pequenos em transportadora fechada aceites na cabina (máx 8 kg combinado); cães maiores só no porão em caixa de norma IATA, reserva prévia obrigatória"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Regional trains via Valado dos Frades",
+          "titleFr": "Trains régionaux par Valado dos Frades",
+          "titleEs": "Trenes regionales por Valado dos Frades",
+          "titlePt": "Comboios regionais por Valado dos Frades",
+          "content": "The CP Linha do Oeste connects Lisboa Santa Apolónia to Figueira da Foz via Caldas da Rainha, Valado dos Frades (Nazaré stop) and Leiria. From Valado, a 5 km taxi or Bolt ride brings you down to the seafront. The eight categories of `dangerous dogs` defined by Portuguese law, Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier and Tosa Inu, are not permitted on the network.",
+          "contentFr": "La Linha do Oeste de CP relie Lisboa Santa Apolónia à Figueira da Foz via Caldas da Rainha, Valado dos Frades (arrêt Nazaré) et Leiria. Depuis Valado, 5 km en taxi ou Bolt vous amènent au front de mer. Les huit catégories de « chiens dangereux » définies par la loi portugaise, Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier et Tosa Inu, ne sont pas admises sur le réseau.",
+          "contentEs": "La Linha do Oeste de CP conecta Lisboa Santa Apolónia con Figueira da Foz por Caldas da Rainha, Valado dos Frades (parada Nazaré) y Leiria. Desde Valado, 5 km en taxi o Bolt te llevan al paseo marítimo. Las ocho categorías de «perros peligrosos» definidas por la ley portuguesa, Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier y Tosa Inu, no se admiten en la red.",
+          "contentPt": "A Linha do Oeste da CP liga Lisboa Santa Apolónia a Figueira da Foz por Caldas da Rainha, Valado dos Frades (paragem Nazaré) e Leiria. A partir do Valado, 5 km de táxi ou Bolt levam-no à marginal. As oito categorias de «cães perigosos» definidas pela lei portuguesa, Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier e Tosa Inu, não são admitidas na rede."
+        },
+        {
+          "title": "Funicular da Nazaré with a pet",
+          "titleFr": "Le Funicular da Nazaré avec un animal",
+          "titleEs": "El Funicular da Nazaré con una mascota",
+          "titlePt": "O Funicular da Nazaré com um animal",
+          "content": "The historic Funicular da Nazaré (opened 1889) climbs the 318 metre incline from the Praia base on Rua do Elevador to the Sítio in three minutes. Pets in a closed carrier travel free; loose small dogs are routinely accepted on quieter departures outside summer weekends. Cabins are tight on big-wave Saturdays, time the trip for the off-hour 10:30 or 15:30 departures and you will share with one or two other passengers at most.",
+          "contentFr": "Le Funicular da Nazaré historique (1889) gravit les 318 m d`inclinaison depuis la base de la Praia, sur la Rua do Elevador, jusqu`au Sítio en trois minutes. Animaux en cage fermée gratuits; petits chiens en liberté régulièrement admis sur les départs calmes hors week-ends d`été. Les cabines sont étroites les samedis à grosses vagues, calez le trajet sur les départs creux de 10h30 ou 15h30 et vous partagerez avec un ou deux autres passagers au maximum.",
+          "contentEs": "El histórico Funicular da Nazaré (1889) sube los 318 metros de inclinación desde la base de la Praia, en la Rua do Elevador, hasta el Sítio en tres minutos. Mascotas en transportín cerrado gratis; perros pequeños sueltos aceptados con frecuencia en salidas tranquilas fuera de fines de semana de verano. Las cabinas son estrechas los sábados de olas grandes, programa el viaje en las salidas valle de las 10:30 o 15:30 y compartirás con uno o dos pasajeros como mucho.",
+          "contentPt": "O histórico Funicular da Nazaré (1889) sobe os 318 metros de inclinação desde a base da Praia, na Rua do Elevador, até ao Sítio em três minutos. Animais em transportadora fechada grátis; cães pequenos soltos aceites com frequência em partidas calmas fora dos fins de semana de verão. As cabinas ficam apertadas aos sábados de ondas grandes, programe a viagem para as partidas de vazio das 10:30 ou 15:30 e partilhará com um ou dois passageiros no máximo."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog ride the Funicular da Nazaré?",
+          "a": "Yes. Pets in a closed carrier ride free at any departure. Small loose dogs are accepted at the operator`s discretion outside summer weekends; medium and large dogs should be carried inside a soft crate or wait for an off-peak run."
+        },
+        {
+          "q": "What is the easiest way to reach Nazaré by train with a dog?",
+          "a": "Take the CP regional train on the Linha do Oeste from Lisboa Santa Apolónia or Caldas da Rainha to Valado dos Frades (the official Nazaré stop), then a 5 km Bolt or taxi to the seafront. Pets under 6 kg travel free in a carrier."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il prendre le Funicular da Nazaré ?",
+          "a": "Oui. Animaux en cage fermée gratuits à tout départ. Les petits chiens en liberté sont admis à la discrétion de l`opérateur hors week-ends d`été; les chiens moyens et grands doivent être transportés en sac souple ou attendre un départ creux."
+        },
+        {
+          "q": "Quel est le moyen le plus simple d`arriver à Nazaré en train avec un chien ?",
+          "a": "Prenez le train régional CP de la Linha do Oeste depuis Lisboa Santa Apolónia ou Caldas da Rainha jusqu`à Valado dos Frades (arrêt officiel Nazaré), puis 5 km en Bolt ou taxi vers la marginal. Animaux de moins de 6 kg gratuits en cage."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Mi perro puede subir al Funicular da Nazaré?",
+          "a": "Sí. Mascotas en transportín cerrado viajan gratis en cualquier salida. Los perros pequeños sueltos se aceptan a discreción del operador fuera de fines de semana de verano; los perros medianos y grandes deben ir en mochila blanda o esperar a una salida valle."
+        },
+        {
+          "q": "¿Cuál es la forma más fácil de llegar a Nazaré en tren con un perro?",
+          "a": "Toma el tren regional CP de la Linha do Oeste desde Lisboa Santa Apolónia o Caldas da Rainha hasta Valado dos Frades (la parada oficial de Nazaré) y luego 5 km en Bolt o taxi hasta el paseo marítimo. Mascotas de menos de 6 kg gratis en transportín."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "O meu cão pode andar no Funicular da Nazaré?",
+          "a": "Sim. Animais em transportadora fechada viajam grátis em qualquer partida. Os cães pequenos soltos são aceites a critério do operador fora dos fins de semana de verão; os cães médios e grandes devem ir em mochila mole ou esperar uma partida de vazio."
+        },
+        {
+          "q": "Qual é a forma mais fácil de chegar à Nazaré de comboio com um cão?",
+          "a": "Apanhe o comboio regional CP da Linha do Oeste em Lisboa Santa Apolónia ou Caldas da Rainha até ao Valado dos Frades (a paragem oficial da Nazaré) e depois 5 km de Bolt ou táxi até à marginal. Animais com menos de 6 kg grátis em transportadora."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Nazaré, Where & When You Can Bring Your Dog",
+      "titleFr": "Plages dog-friendly à Nazaré, Où et quand emmener son chien",
+      "titleEs": "Playas pet-friendly en Nazaré, Dónde y cuándo llevar a tu perro",
+      "titlePt": "Praias pet-friendly na Nazaré, Onde e quando levar o cão",
+      "introEn": "Portuguese beach rules are clear but easy to misread: concessioned beaches with lifeguards and rented sunbeds ban dogs during the bathing season, in Nazaré, 1 June to 30 September 2026, while non-concessioned stretches stay dog-friendly all year. Praia da Nazaré is the busiest beach and a strict concession in summer; Praia do Norte and Praia do Salgado remain far more tolerant outside the bathing season.",
+      "introFr": "Les règles plagistes portugaises sont claires mais faciles à mal lire: les plages concédées (maîtres-nageurs et transats de location) interdisent les chiens pendant la saison balnéaire, à Nazaré, du 1ᵉʳ juin au 30 septembre 2026, tandis que les bouts non concédés restent dog-friendly toute l`année. La Praia da Nazaré est la plage la plus fréquentée et strictement concédée en été; la Praia do Norte et la Praia do Salgado restent beaucoup plus tolérantes hors saison balnéaire.",
+      "introEs": "Las normas de playa portuguesas son claras pero fáciles de malinterpretar: las playas concesionadas (con socorristas y hamacas de alquiler) prohíben perros durante la temporada de baño, en Nazaré, del 1 de junio al 30 de septiembre de 2026, mientras que los tramos no concesionados siguen siendo pet-friendly todo el año. Praia da Nazaré es la playa más concurrida y concesión estricta en verano; Praia do Norte y Praia do Salgado siguen mucho más tolerantes fuera de la temporada de baño.",
+      "introPt": "As regras de praia portuguesas são claras mas fáceis de interpretar mal: as praias concessionadas com nadadores-salvadores e chapéus de aluguer proíbem cães durante a época balnear, na Nazaré, de 1 de junho a 30 de setembro de 2026, enquanto os troços não concessionados continuam pet-friendly o ano inteiro. A Praia da Nazaré é a praia mais movimentada e concessão estrita no verão; a Praia do Norte e a Praia do Salgado continuam muito mais tolerantes fora da época balnear.",
+      "places": [
+        {
+          "name": "Praia da Nazaré",
+          "distance": "Town centre, in front of the Avenida Manuel Remígio",
+          "description": "Wide kilometre-long urban beach with the traditional fishermen`s tents drying peixe seco al sol on the northern end. Strict concession during summer, but the dry sand becomes openly dog-tolerant from October once the lifeguards leave and the bandeiras are removed.",
+          "season": "Off-season (1 Oct to 31 May) leashed dogs on the dry sand; in season dogs forbidden across the whole concession",
+          "rules": "Leash required at all times; pick-up bags mandatory; respect the drying fish tents on the northern end",
+          "facilities": "Showers, ramps, lifeguards in season only, fishermen`s tents on the northern end",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Nazare",
+          "photo": "/images/city-places/nazare-beaches-praia-da-nazare.jpg"
+        },
+        {
+          "name": "Praia do Norte",
+          "distance": "2 km north of town below the Forte de São Miguel Arcanjo lighthouse",
+          "description": "The world-record big-wave beach where Garrett McNamara surfed a 23.8 m wave in 2011 and the WSL Big Wave Tour now visits every winter. Mostly non-concessioned, fully dog-tolerant year-round on the dry sand, but the sea itself is dangerous in any swell and dogs should never enter the water.",
+          "season": "Year-round, leashed dogs welcome on the dry sand; sea entry strictly not recommended at any time",
+          "rules": "Short leash mandatory; the rip currents are lethal even for humans on a calm day, never let a dog into the water",
+          "facilities": "Parking, single kiosk café, no lifeguards, viewing platform on the cliff above",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+do+Norte+Nazare",
+          "photo": "/images/city-places/nazare-beaches-praia-do-norte.jpg"
+        },
+        {
+          "name": "Praia do Salgado",
+          "distance": "5 km south of Nazaré by car or local 805 bus",
+          "description": "Quieter Atlantic surf beach between Nazaré and São Martinho do Porto, ringed by cliffs and dunes. Non-concessioned over most of its length, the most reliable beach in the area for a real walk and a sea swim with a dog outside the July–August peak.",
+          "season": "Year-round, leashed dogs welcome on the sand; in season concessioned only over a 300 m central section",
+          "rules": "Leashes recommended near the central kiosk; dunes are protected, stick to marked paths",
+          "facilities": "Kiosk, showers, parking, lifeguards in bathing season only on the central concession",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+do+Salgado+Nazare",
+          "photo": "/images/city-places/nazare-beaches-praia-do-salgado.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "When is the bathing season in Nazaré and what does it mean for dogs?",
+          "a": "1 June to 30 September 2026. During those months, the concessioned Praia da Nazaré bans dogs across its full length; Praia do Norte and the non-concessioned ends of Praia do Salgado remain open year-round. Outside the season, almost every beach in Nazaré welcomes leashed dogs."
+        },
+        {
+          "q": "Can my dog swim at Praia do Norte?",
+          "a": "No. Praia do Norte is the world`s heaviest big-wave break and the rip currents are lethal even for experienced human swimmers on a calm day. Dogs are welcome on the dry sand year-round but should never enter the water under any conditions."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle est la saison balnéaire à Nazaré et quel impact pour un chien ?",
+          "a": "Du 1ᵉʳ juin au 30 septembre 2026. Pendant ces mois, la Praia da Nazaré concédée interdit les chiens sur toute sa longueur; la Praia do Norte et les bouts non concédés de la Praia do Salgado restent ouverts toute l`année. Hors saison, presque toutes les plages de Nazaré acceptent les chiens en laisse."
+        },
+        {
+          "q": "Mon chien peut-il se baigner à la Praia do Norte ?",
+          "a": "Non. La Praia do Norte est la vague la plus lourde au monde et les courants d`arrachement sont mortels même pour des nageurs expérimentés par jour calme. Les chiens sont admis sur le sable sec toute l`année mais ne doivent jamais entrer dans l`eau quelles que soient les conditions."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuándo es la temporada de baño en Nazaré y qué implica para un perro?",
+          "a": "Del 1 de junio al 30 de septiembre de 2026. Durante esos meses, la concesionada Praia da Nazaré prohíbe perros en toda su extensión; Praia do Norte y los extremos no concesionados de Praia do Salgado siguen abiertos todo el año. Fuera de temporada, casi todas las playas de Nazaré admiten perros con correa."
+        },
+        {
+          "q": "¿Puede bañarse mi perro en Praia do Norte?",
+          "a": "No. Praia do Norte es la rompiente de gran ola más pesada del mundo y las corrientes de resaca son letales incluso para nadadores humanos experimentados en día calmado. Los perros pueden estar en la arena seca todo el año pero nunca deben entrar al agua bajo ninguna condición."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Quando é a época balnear na Nazaré e o que significa para um cão?",
+          "a": "De 1 de junho a 30 de setembro de 2026. Durante esses meses, a concessionada Praia da Nazaré proíbe cães em toda a sua extensão; a Praia do Norte e os extremos não concessionados da Praia do Salgado continuam abertos o ano inteiro. Fora de época, quase todas as praias da Nazaré aceitam cães com trela."
+        },
+        {
+          "q": "O meu cão pode banhar-se na Praia do Norte?",
+          "a": "Não. A Praia do Norte é a rebentação de onda gigante mais pesada do mundo e as correntes de retorno são letais mesmo para nadadores humanos experientes em dia calmo. Os cães são aceites na areia seca o ano inteiro mas nunca devem entrar na água em condição alguma."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Nazaré, 24-Hour Clinics & English-Speaking Vets",
+      "titleFr": "Vétérinaires d`urgence à Nazaré, Cliniques 24h/24 et vétérinaires anglophones",
+      "titleEs": "Veterinarios de urgencias en Nazaré, Clínicas 24h y veterinarios que hablan inglés",
+      "titlePt": "Veterinários de urgência na Nazaré, Clínicas 24h e veterinários que falam inglês",
+      "introEn": "Nazaré itself has two day clinics serving the local fishing and surf community, Consultório Veterinário da Nazaré and Polivet Nazaré. Neither runs a 24-hour service in town, so the established escalation route is the Hospital Veterinário Central Cão de Ló in Caldas da Rainha (15 km, 20 minutes by car, open 24/7) and the Hospital Veterinário de Leiria (40 km north, 35 minutes by car, 24h emergency line). All three are used to international clients and English is generally spoken on day shifts.",
+      "introFr": "Nazaré dispose de deux cliniques de jour au service de la communauté locale de pêcheurs et surfeurs, le Consultório Veterinário da Nazaré et Polivet Nazaré. Aucune n`assure de service 24h/24 en ville, donc le circuit d`escalade établi est l`Hospital Veterinário Central Cão de Ló à Caldas da Rainha (15 km, 20 minutes en voiture, ouvert 24h/24) et l`Hospital Veterinário de Leiria (40 km au nord, 35 minutes en voiture, ligne d`urgence 24h). Les trois ont l`habitude de la clientèle internationale et l`anglais est généralement parlé en journée.",
+      "introEs": "Nazaré tiene dos clínicas diurnas al servicio de la comunidad local de pescadores y surfistas, Consultório Veterinário da Nazaré y Polivet Nazaré. Ninguna ofrece servicio 24 horas en la propia ciudad, por lo que la ruta de escalada establecida es el Hospital Veterinário Central Cão de Ló en Caldas da Rainha (15 km, 20 minutos en coche, abierto 24/7) y el Hospital Veterinário de Leiria (40 km al norte, 35 minutos en coche, línea de urgencias 24 h). Los tres están acostumbrados a la clientela internacional y el inglés se habla generalmente en horario diurno.",
+      "introPt": "A Nazaré tem duas clínicas de dia ao serviço da comunidade local de pescadores e surfistas, o Consultório Veterinário da Nazaré e a Polivet Nazaré. Nenhuma oferece serviço 24 horas na própria vila, pelo que a rota de escalonamento estabelecida é o Hospital Veterinário Central Cão de Ló em Caldas da Rainha (15 km, 20 minutos de carro, aberto 24/7) e o Hospital Veterinário de Leiria (40 km a norte, 35 minutos de carro, linha de urgência 24h). Os três estão habituados a clientela internacional e o inglês é geralmente falado em horário diurno.",
+      "tipsEn": [
+        "Portugal follows the EU Pet Travel Scheme: EU pet passport, ISO microchip and current rabies vaccination (given at least 21 days before travel) are sufficient. Non-EU visitors (UK included post-Brexit) need an Animal Health Certificate issued within 10 days of arrival.",
+        "Tick and flea pressure on the Sítio cliff trails and the Mata do Valado is real from April to October, ask any Nazaré or Caldas da Rainha vet to top-up your dog`s preventive treatment if you stay more than a week.",
+        "The national veterinary emergency line for Portugal is +351 707 200 188, use it as a fallback when Cão de Ló and Hospital Veterinário de Leiria lines are both engaged."
+      ],
+      "tipsFr": [
+        "Le Portugal applique le régime UE de voyage des animaux: passeport européen, puce ISO et vaccination antirabique en cours (administrée au moins 21 jours avant le voyage) suffisent. Les visiteurs hors UE (Royaume-Uni inclus depuis le Brexit) doivent obtenir un Animal Health Certificate moins de 10 jours avant l`arrivée.",
+        "La pression des tiques et puces sur les sentiers de falaise du Sítio et la Mata do Valado est réelle d`avril à octobre, demandez à tout vétérinaire de Nazaré ou Caldas da Rainha de renouveler le traitement préventif si vous restez plus d`une semaine.",
+        "Le numéro national d`urgence vétérinaire au Portugal est le +351 707 200 188, à utiliser en repli quand les lignes de Cão de Ló et de l`Hospital Veterinário de Leiria sont toutes deux occupées."
+      ],
+      "tipsEs": [
+        "Portugal aplica el régimen UE de viaje con animales: pasaporte europeo, microchip ISO y vacuna antirrábica en vigor (administrada al menos 21 días antes del viaje) son suficientes. Los visitantes de fuera de la UE (Reino Unido incluido tras el Brexit) necesitan un Animal Health Certificate emitido en los 10 días previos a la llegada.",
+        "La presión de garrapatas y pulgas en los senderos del acantilado del Sítio y la Mata do Valado es real de abril a octubre, pide a cualquier veterinario de Nazaré o Caldas da Rainha que renueve el tratamiento preventivo si te quedas más de una semana.",
+        "El número nacional de urgencias veterinarias en Portugal es el +351 707 200 188, úsalo como alternativa cuando las líneas de Cão de Ló y Hospital Veterinário de Leiria estén ocupadas."
+      ],
+      "tipsPt": [
+        "Portugal aplica o regime UE de viagem com animais: passaporte europeu, microchip ISO e vacina antirrábica em vigor (administrada pelo menos 21 dias antes da viagem) bastam. Os visitantes de fora da UE (Reino Unido incluído após o Brexit) precisam de um Animal Health Certificate emitido nos 10 dias anteriores à chegada.",
+        "A pressão de carraças e pulgas nos trilhos da falésia do Sítio e na Mata do Valado é real de abril a outubro, peça a qualquer veterinário da Nazaré ou Caldas da Rainha para renovar o tratamento preventivo se ficar mais de uma semana.",
+        "O número nacional de urgência veterinária em Portugal é o +351 707 200 188, use-o como alternativa quando as linhas do Cão de Ló e do Hospital Veterinário de Leiria estiverem ocupadas."
+      ],
+      "places": [
+        {
+          "name": "Consultório Veterinário da Nazaré",
+          "type": "Day clinic",
+          "address": "Rua Forno do Tijolo, 2450-060 Nazaré",
+          "phone": "+351 262 553 050",
+          "hours": "Mon–Fri 09:00–13:00, 15:00–19:00, Sat 09:00–13:00",
+          "hoursFr": "Lun–ven 9h–13h, 15h–19h, sam 9h–13h",
+          "hoursEs": "Lun–vie 09:00–13:00, 15:00–19:00, sáb 09:00–13:00",
+          "hoursPt": "Seg–sex 09:00–13:00, 15:00–19:00, sáb 09:00–13:00",
+          "englishSpeaking": true,
+          "website": "https://clinicasaocosme.pt/consultorio-veterinario-da-nazare-nazare/",
+          "description": "Long-running day clinic in central Nazaré, two blocks from the marginal, used to the local fishing families and the year-round surf community. Day consultations, vaccinations and minor surgery, after-hours cases are referred north to Caldas da Rainha or Leiria.",
+          "descriptionFr": "Clinique de jour historique au centre de Nazaré, à deux rues de la marginal, habituée aux familles de pêcheurs locales et à la communauté surf à l`année. Consultations diurnes, vaccinations et petite chirurgie, les cas hors horaires sont orientés vers Caldas da Rainha ou Leiria au nord.",
+          "descriptionEs": "Clínica diurna histórica en el centro de Nazaré, a dos calles de la marginal, acostumbrada a las familias pesqueras locales y a la comunidad surf todo el año. Consultas diurnas, vacunaciones y cirugía menor, los casos fuera de horario se derivan al norte a Caldas da Rainha o Leiria.",
+          "descriptionPt": "Consultório de dia histórico no centro da Nazaré, a duas ruas da marginal, habituado às famílias piscatórias locais e à comunidade de surf o ano inteiro. Consultas diurnas, vacinações e pequena cirurgia, os casos fora de horário são encaminhados a norte para Caldas da Rainha ou Leiria.",
+          "tip": "Call ahead even for routine consultations, the clinic is single-vet and the morning slot fills up fast on summer Mondays.",
+          "tipFr": "Appelez avant de venir même pour une consultation de routine, la clinique fonctionne avec un seul vétérinaire et le créneau du matin se remplit vite les lundis d`été.",
+          "tipEs": "Llama antes de ir incluso para consultas rutinarias, la clínica funciona con un solo veterinario y la franja de la mañana se llena rápido los lunes de verano.",
+          "tipPt": "Ligue antes de ir mesmo para consultas de rotina, o consultório funciona com um único veterinário e a franja da manhã enche rápido às segundas-feiras de verão.",
+          "googleMapsUrl": "https://maps.google.com/?q=Consultorio+Veterinario+da+Nazare",
+          "photo": "/images/city-places/nazare-vets-consultorio-veterinario-da-nazare.jpg"
+        },
+        {
+          "name": "Hospital Veterinário Central Cão de Ló (Caldas da Rainha)",
+          "type": "24h emergency hospital, 15 km from Nazaré",
+          "address": "Rua Capitão José Ferreira Mendes Nazareth 5 e 5A, 2500-281 Caldas da Rainha",
+          "phone": "+351 262 824 057",
+          "emergencyPhone": "+351 911 010 994",
+          "hours": "24h every day, 365 days a year",
+          "hoursFr": "24h/24, tous les jours, 365 jours par an",
+          "hoursEs": "24 h todos los días, 365 días al año",
+          "hoursPt": "24h todos os dias, 365 dias por ano",
+          "englishSpeaking": true,
+          "website": "https://www.caodelo.pt/",
+          "description": "Full-service 24h emergency hospital in Caldas da Rainha, 15 km south of Nazaré on the IC9, the official escalation route for Nazaré day clinics after hours. Imaging, surgery, intensive care and a dedicated 24h emergency mobile line (+351 911 010 994).",
+          "descriptionFr": "Hôpital d`urgence 24h/24 complet à Caldas da Rainha, à 15 km au sud de Nazaré sur l`IC9, le circuit officiel d`escalade des cliniques de jour de Nazaré en dehors des horaires. Imagerie, chirurgie, soins intensifs et ligne mobile d`urgence 24h dédiée (+351 911 010 994).",
+          "descriptionEs": "Hospital de urgencias 24 horas completo en Caldas da Rainha, a 15 km al sur de Nazaré por la IC9, la ruta oficial de escalada de las clínicas de día de Nazaré fuera de horario. Diagnóstico por imagen, cirugía, cuidados intensivos y una línea móvil de urgencias 24 h dedicada (+351 911 010 994).",
+          "descriptionPt": "Hospital de urgência 24 horas completo em Caldas da Rainha, a 15 km a sul da Nazaré pela IC9, a rota oficial de escalonamento dos consultórios de dia da Nazaré fora de horário. Imagiologia, cirurgia, cuidados intensivos e uma linha móvel de urgência 24h dedicada (+351 911 010 994).",
+          "tip": "Save both numbers in your phone before arriving in Nazaré, on a Sunday night the day clinics in town won`t pick up but Cão de Ló answers within three rings.",
+          "tipFr": "Enregistrez les deux numéros dans votre téléphone avant d`arriver à Nazaré, un dimanche soir les cliniques de jour en ville ne décrochent pas mais Cão de Ló répond en trois sonneries.",
+          "tipEs": "Guarda los dos números en el móvil antes de llegar a Nazaré, un domingo por la noche las clínicas diurnas de la ciudad no responden pero Cão de Ló contesta en tres tonos.",
+          "tipPt": "Guarde os dois números no telemóvel antes de chegar à Nazaré, ao domingo à noite os consultórios de dia da vila não atendem mas o Cão de Ló responde em três toques.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Central+Cao+de+Lo+Caldas+da+Rainha",
+          "photo": "/images/city-places/nazare-vets-hospital-veterinario-central-cao-de-lo.jpg"
+        },
+        {
+          "name": "Hospital Veterinário de Leiria",
+          "type": "24h emergency hospital, 40 km from Nazaré",
+          "address": "Travessa Cidade de Rheine (em frente ao cemitério de Leiria), 2410-270 Leiria",
+          "phone": "+351 244 833 073",
+          "emergencyPhone": "+351 968 151 166",
+          "hours": "Mon–Fri 09:00–22:00, Sat–Sun 09:00–21:00; 24h emergency line",
+          "hoursFr": "Lun–ven 9h–22h, sam–dim 9h–21h; ligne d`urgence 24h",
+          "hoursEs": "Lun–vie 09:00–22:00, sáb–dom 09:00–21:00; línea de urgencias 24 h",
+          "hoursPt": "Seg–sex 09:00–22:00, sáb–dom 09:00–21:00; linha de urgência 24h",
+          "englishSpeaking": true,
+          "website": "https://www.hvleiria.pt/",
+          "description": "Full-service regional reference hospital 40 km north of Nazaré in Leiria, with a permanent 24h on-call vet line (+351 968 151 166). Strong in orthopaedic surgery and the natural escalation route if you are travelling north from Nazaré toward Porto.",
+          "descriptionFr": "Hôpital de référence régional complet à 40 km au nord de Nazaré à Leiria, avec une ligne de garde 24h permanente (+351 968 151 166). Spécialisé en chirurgie orthopédique et le circuit d`escalade naturel si vous voyagez vers Porto.",
+          "descriptionEs": "Hospital de referencia regional completo a 40 km al norte de Nazaré en Leiria, con línea de guardia 24 h permanente (+351 968 151 166). Fuerte en cirugía ortopédica y ruta de escalada natural si viajas hacia Oporto.",
+          "descriptionPt": "Hospital de referência regional completo a 40 km a norte da Nazaré em Leiria, com linha de urgência permanente 24h (+351 968 151 166). Forte em cirurgia ortopédica e a rota de escalonamento natural se viajar para norte em direção ao Porto.",
+          "tip": "From Nazaré take the A8 south to Caldas (Cão de Ló) for shorter access; only choose Leiria when you are already inland or when the case clearly needs orthopaedic specialisation.",
+          "tipFr": "Depuis Nazaré, prenez l`A8 sud vers Caldas (Cão de Ló) pour le trajet le plus court; ne choisissez Leiria que si vous êtes déjà à l`intérieur ou si le cas exige clairement une spécialisation orthopédique.",
+          "tipEs": "Desde Nazaré toma la A8 sur hacia Caldas (Cão de Ló) para el acceso más corto; elige Leiria solo cuando ya estés tierra adentro o cuando el caso requiera claramente especialización ortopédica.",
+          "tipPt": "Desde a Nazaré apanhe a A8 a sul para Caldas (Cão de Ló) para o acesso mais curto; escolha Leiria apenas quando já estiver no interior ou quando o caso exigir claramente especialização ortopédica.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+de+Leiria",
+          "photo": "/images/city-places/nazare-vets-hospital-veterinario-de-leiria.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet inside Nazaré itself?",
+          "a": "No. The two clinics inside Nazaré are daytime only. The official 24h escalation is Hospital Veterinário Central Cão de Ló in Caldas da Rainha (15 km, +351 911 010 994) and the Hospital Veterinário de Leiria (40 km, +351 968 151 166). Both are reachable in under 35 minutes by car."
+        },
+        {
+          "q": "Do I need to register my dog locally if I stay a few weeks?",
+          "a": "No, tourist stays do not require local registration. EU residents simply present the pet passport; non-EU visitors carry the AHC issued within 10 days of arrival."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 dans Nazaré même ?",
+          "a": "Non. Les deux cliniques de Nazaré sont uniquement de jour. L`escalade officielle 24h passe par l`Hospital Veterinário Central Cão de Ló à Caldas da Rainha (15 km, +351 911 010 994) et l`Hospital Veterinário de Leiria (40 km, +351 968 151 166). Les deux sont accessibles en moins de 35 minutes en voiture."
+        },
+        {
+          "q": "Faut-il enregistrer son chien localement pour un séjour de quelques semaines ?",
+          "a": "Non, les séjours touristiques ne nécessitent aucune inscription locale. Les résidents UE présentent simplement le passeport européen; les visiteurs hors UE conservent l`AHC émis moins de 10 jours avant l`arrivée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un veterinario 24 horas dentro de la propia Nazaré?",
+          "a": "No. Las dos clínicas de Nazaré son solo diurnas. La escalada oficial 24 h pasa por el Hospital Veterinário Central Cão de Ló en Caldas da Rainha (15 km, +351 911 010 994) y el Hospital Veterinário de Leiria (40 km, +351 968 151 166). Ambas se alcanzan en menos de 35 minutos en coche."
+        },
+        {
+          "q": "¿Hace falta registrar al perro localmente para una estancia de varias semanas?",
+          "a": "No, las estancias turísticas no requieren registro local. Los residentes UE solo presentan el pasaporte europeo; los visitantes de fuera de la UE conservan el AHC emitido en los 10 días previos a la llegada."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há um veterinário 24 horas dentro da própria Nazaré?",
+          "a": "Não. As duas clínicas da Nazaré são apenas diurnas. O escalonamento oficial 24h passa pelo Hospital Veterinário Central Cão de Ló em Caldas da Rainha (15 km, +351 911 010 994) e pelo Hospital Veterinário de Leiria (40 km, +351 968 151 166). Ambos são alcançáveis em menos de 35 minutos de carro."
+        },
+        {
+          "q": "É preciso registar o cão localmente para uma estadia de várias semanas?",
+          "a": "Não, as estadias turísticas não exigem registo local. Os residentes UE apresentam apenas o passaporte europeu; os visitantes de fora da UE conservam o AHC emitido nos 10 dias anteriores à chegada."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Nazaré, Landmarks Your Dog Can Visit",
+      "titleFr": "Attractions dog-friendly à Nazaré, Sites que vous pouvez visiter avec un chien",
+      "titleEs": "Atracciones pet-friendly en Nazaré, Lugares que puedes visitar con tu perro",
+      "titlePt": "Atrações pet-friendly na Nazaré, Locais que pode visitar com o cão",
+      "introEn": "Nazaré`s headline sights are almost all outdoors: the Forte de São Miguel Arcanjo lighthouse over the world-record big-wave break, the Igreja da Nossa Senhora da Nazaré square in the Sítio, the Promontório do Sítio cliff with its surfboard memorial wall and the medieval inland village of Pederneira are all freely walkable with a leashed dog. Only the small museum interiors stay off-limits.",
+      "introFr": "Les sites phares de Nazaré sont presque tous en plein air: le phare du Forte de São Miguel Arcanjo au-dessus de la vague record du monde, la place de l`Igreja da Nossa Senhora da Nazaré au Sítio, le promontoire du Sítio avec son mur mémorial de planches de surf et le village médiéval de Pederneira à l`intérieur sont tous librement accessibles avec un chien en laisse. Seuls les intérieurs des petits musées restent interdits.",
+      "introEs": "Las atracciones principales de Nazaré son casi todas al aire libre: el faro del Forte de São Miguel Arcanjo sobre la ola récord mundial, la plaza de la Igreja da Nossa Senhora da Nazaré en el Sítio, el promontorio del Sítio con su muro memorial de tablas de surf y el pueblo medieval de Pederneira tierra adentro son todos accesibles libremente con un perro con correa. Solo los interiores de los pequeños museos quedan vetados.",
+      "introPt": "As atrações principais da Nazaré são quase todas ao ar livre: o farol do Forte de São Miguel Arcanjo sobre a onda recorde mundial, o largo da Igreja da Nossa Senhora da Nazaré no Sítio, o promontório do Sítio com o seu muro memorial de pranchas de surf e a aldeia medieval da Pederneira no interior são todos livremente percorríveis com um cão à trela. Apenas os interiores dos pequenos museus permanecem vedados.",
+      "places": [
+        {
+          "name": "Forte de São Miguel Arcanjo lighthouse",
+          "neighborhood": "Sítio / Promontório",
+          "photo": "/images/city-places/nazare-attractions-forte-sao-miguel-arcanjo.jpg",
+          "website": "https://cm-nazare.pt/",
+          "description": "17th-century coastal fort restored as the lighthouse that watches over Praia do Norte, the world-record big-wave break. The outer parade ground, ramparts and surfboard memorial wall are freely accessible; the small interior museum charges €2 and stays off-limits to dogs.",
+          "descriptionFr": "Fort côtier du XVIIᵉ siècle restauré en phare qui veille sur la Praia do Norte, vague record du monde. La place d`armes extérieure, les remparts et le mur mémorial de planches de surf sont librement accessibles; le petit musée intérieur coûte 2 € et reste interdit aux chiens.",
+          "descriptionEs": "Fortaleza costera del siglo XVII restaurada como el faro que vigila Praia do Norte, la ola récord mundial. El patio de armas exterior, las murallas y el muro memorial de tablas de surf son de libre acceso; el pequeño museo interior cuesta 2 € y queda vetado a los perros.",
+          "descriptionPt": "Forte costeiro do século XVII restaurado como o farol que vigia a Praia do Norte, onda recorde mundial. O terreiro exterior, as muralhas e o muro memorial de pranchas de surf são de livre acesso; o pequeno museu interior custa 2 € e permanece vedado aos cães.",
+          "dogPolicy": "Free outdoor access to ramparts and parade ground on a leash; interior lighthouse museum not permitted",
+          "dogPolicyFr": "Accès libre en laisse aux remparts et à la place d`armes; intérieur du musée du phare non admis",
+          "dogPolicyEs": "Acceso libre con correa a murallas y patio de armas; interior del museo del faro no permitido",
+          "dogPolicyPt": "Acesso livre com trela às muralhas e ao terreiro; interior do museu do farol não permitido",
+          "admissionFee": "Free outdoor areas; interior museum €2",
+          "admissionFeeFr": "Espaces extérieurs gratuits; musée intérieur 2 €",
+          "admissionFeeEs": "Espacios exteriores gratuitos; museo interior 2 €",
+          "admissionFeePt": "Espaços exteriores gratuitos; museu interior 2 €",
+          "tip": "Sunset on the seaward rampart over Praia do Norte is the single best photo spot in town, the surfboard memorial wall behind catches afternoon light by 17:00.",
+          "tipFr": "Le coucher de soleil sur le rempart côté mer au-dessus de la Praia do Norte est le meilleur spot photo de la ville, le mur mémorial de planches derrière capte la lumière d`après-midi vers 17h.",
+          "tipEs": "El atardecer en la muralla del lado del mar sobre Praia do Norte es el mejor rincón fotográfico de la ciudad, el muro memorial de tablas detrás capta la luz de la tarde sobre las 17:00.",
+          "tipPt": "O pôr do sol na muralha do lado do mar sobre a Praia do Norte é o melhor spot fotográfico da vila, o muro memorial de pranchas atrás capta a luz da tarde por volta das 17:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Forte+de+Sao+Miguel+Arcanjo+Nazare"
+        },
+        {
+          "name": "Igreja da Nossa Senhora da Nazaré",
+          "neighborhood": "Sítio",
+          "photo": "/images/city-places/nazare-attractions-igreja-nossa-senhora.jpg",
+          "website": "https://cm-nazare.pt/",
+          "description": "Pilgrimage church in the heart of the Sítio, baroque facade and tiled square that the whole town crosses on the September feast of Nossa Senhora da Nazaré. The square and tiled benches are openly dog-friendly; the church interior, like every active Portuguese parish church, is off-limits to dogs.",
+          "descriptionFr": "Église de pèlerinage au cœur du Sítio, façade baroque et place carrelée que toute la ville traverse lors de la fête de septembre de Nossa Senhora da Nazaré. La place et les bancs carrelés sont ouvertement dog-friendly; l`intérieur de l`église, comme toute paroisse portugaise active, est interdit aux chiens.",
+          "descriptionEs": "Iglesia de peregrinación en el corazón del Sítio, fachada barroca y plaza de azulejos que cruza toda la ciudad en la fiesta de septiembre de Nossa Senhora da Nazaré. La plaza y los bancos de azulejos son abiertamente pet-friendly; el interior de la iglesia, como toda parroquia portuguesa activa, queda vetado a los perros.",
+          "descriptionPt": "Igreja de peregrinação no coração do Sítio, fachada barroca e largo de azulejos que toda a vila atravessa na festa de setembro de Nossa Senhora da Nazaré. O largo e os bancos de azulejos são abertamente pet-friendly; o interior da igreja, como toda paróquia portuguesa ativa, fica vedado aos cães.",
+          "dogPolicy": "Leashed dogs welcome on the square and along the tiled benches; church interior off-limits",
+          "dogPolicyFr": "Chiens en laisse acceptés sur la place et le long des bancs carrelés; intérieur de l`église interdit",
+          "dogPolicyEs": "Perros con correa admitidos en la plaza y a lo largo de los bancos de azulejos; interior de la iglesia vetado",
+          "dogPolicyPt": "Cães com trela aceites no largo e ao longo dos bancos de azulejos; interior da igreja vedado",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "admissionFeePt": "Grátis",
+          "tip": "Outside the September festa the square is one of the quietest spots in town from 14:00 to 16:00, ideal for a shaded dog nap before the cliff walk.",
+          "tipFr": "Hors festa de septembre, la place est l`un des endroits les plus calmes de la ville entre 14h et 16h, idéal pour une sieste de chien à l`ombre avant la balade de falaise.",
+          "tipEs": "Fuera de la festa de septiembre, la plaza es uno de los rincones más tranquilos de la ciudad entre las 14:00 y las 16:00, ideal para una siesta del perro a la sombra antes del paseo del acantilado.",
+          "tipPt": "Fora da festa de setembro, o largo é um dos sítios mais calmos da vila entre as 14:00 e as 16:00, ideal para uma sesta do cão à sombra antes do passeio na falésia.",
+          "googleMapsUrl": "https://maps.google.com/?q=Igreja+Nossa+Senhora+da+Nazare+Sitio"
+        },
+        {
+          "name": "Pederneira medieval village",
+          "neighborhood": "Pederneira / inland",
+          "photo": "/images/city-places/nazare-attractions-pederneira.jpg",
+          "website": "https://cm-nazare.pt/",
+          "description": "Original medieval Nazaré on a hilltop 2 km inland, predating the move down to the beach. Whitewashed lanes, the 14th-century Misericórdia church, two miradouros over Praia da Nazaré and the most authentic 7-saias costume-tradition households in the municipality.",
+          "descriptionFr": "Nazaré médiévale originelle sur une colline à 2 km dans les terres, antérieure à la descente vers la plage. Ruelles blanchies à la chaux, église de la Misericórdia du XIVᵉ siècle, deux miradouros sur la Praia da Nazaré et les foyers les plus authentiques du municipe sur la tradition des 7 saias.",
+          "descriptionEs": "Nazaré medieval original en una colina a 2 km tierra adentro, anterior al traslado a la playa. Callejones encalados, iglesia de la Misericórdia del siglo XIV, dos miradouros sobre Praia da Nazaré y los hogares más auténticos del municipio en la tradición de las 7 saias.",
+          "descriptionPt": "Nazaré medieval original numa colina a 2 km no interior, anterior à descida para a praia. Ruelas caiadas, igreja da Misericórdia do século XIV, dois miradouros sobre a Praia da Nazaré e os lares mais autênticos do município na tradição das 7 saias.",
+          "dogPolicy": "Leashed dogs welcome throughout the village and on both miradouros; church interior off-limits",
+          "dogPolicyFr": "Chiens en laisse acceptés dans tout le village et sur les deux miradouros; intérieur de l`église interdit",
+          "dogPolicyEs": "Perros con correa admitidos en todo el pueblo y en los dos miradouros; interior de la iglesia vetado",
+          "dogPolicyPt": "Cães com trela aceites em toda a aldeia e nos dois miradouros; interior da igreja vedado",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "admissionFeePt": "Grátis",
+          "tip": "Walk up from the marginal via the old footpath behind the bus station (30 minutes uphill), or take a Bolt for €5 if your dog struggles with stairs.",
+          "tipFr": "Montez depuis la marginal par le vieux sentier derrière la gare routière (30 minutes en côte), ou prenez un Bolt pour 5 € si votre chien peine dans les escaliers.",
+          "tipEs": "Sube desde la marginal por el viejo sendero detrás de la estación de autobuses (30 minutos en cuesta), o coge un Bolt por 5 € si tu perro tiene problemas con escaleras.",
+          "tipPt": "Suba desde a marginal pelo velho atalho atrás da rodoviária (30 minutos a subir), ou apanhe um Bolt por 5 € se o seu cão tiver dificuldade com escadas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Pederneira+Nazare"
+        }
+      ],
+      "tipsEn": [
+        "The Suberco viewpoint above Praia do Norte is the iconic dog-photo spot in town, leashed dogs are welcome and the WSL Big Wave Tour visiting platform sits next door from October to February.",
+        "Most Nazaré museum interiors are too small to host dogs even outside peak hours, the outdoor cliff-top circuit alone gives a full afternoon of pet-friendly visits.",
+        "On big-wave WSL contest days the Suberco platform is rope-restricted and dogs are temporarily refused, check the WSL schedule before walking up."
+      ],
+      "tipsFr": [
+        "Le belvédère du Suberco au-dessus de la Praia do Norte est le spot photo canin emblématique de la ville, chiens en laisse acceptés et plateforme du WSL Big Wave Tour à côté d`octobre à février.",
+        "Les intérieurs des musées de Nazaré sont trop petits pour accueillir des chiens même hors pic, le circuit extérieur de falaise donne à lui seul un après-midi complet de visites pet-friendly.",
+        "Les jours de contest WSL à grosses vagues, la plateforme du Suberco est délimitée par des cordes et les chiens sont temporairement refusés, vérifiez le calendrier WSL avant de monter."
+      ],
+      "tipsEs": [
+        "El mirador del Suberco sobre Praia do Norte es el rincón fotográfico canino icónico de la ciudad, perros con correa admitidos y plataforma del WSL Big Wave Tour al lado de octubre a febrero.",
+        "Los interiores de los museos de Nazaré son demasiado pequeños para acoger perros incluso fuera de hora punta, el circuito exterior del acantilado da por sí solo una tarde completa de visitas pet-friendly.",
+        "Los días de competición WSL de olas grandes, la plataforma del Suberco está acordonada y los perros se rechazan temporalmente, comprueba el calendario WSL antes de subir."
+      ],
+      "tipsPt": [
+        "O miradouro do Suberco sobre a Praia do Norte é o spot fotográfico canino icónico da vila, cães com trela aceites e plataforma do WSL Big Wave Tour ao lado de outubro a fevereiro.",
+        "Os interiores dos museus da Nazaré são demasiado pequenos para acolher cães mesmo fora dos picos, o circuito exterior da falésia dá por si só uma tarde inteira de visitas pet-friendly.",
+        "Nos dias de competição WSL com ondas grandes, a plataforma do Suberco fica vedada por cordas e os cães são temporariamente recusados, verifique o calendário WSL antes de subir."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog inside any Nazaré museum or church?",
+          "a": "Only service dogs enter church or museum interiors. The fishermen museum on the Avenida Manuel Remígio, the lighthouse museum at the Forte de São Miguel Arcanjo and every Sítio parish church are dogs-out; the outdoor square, ramparts and miradouros remain open."
+        },
+        {
+          "q": "Is the Forte de São Miguel Arcanjo free with a dog?",
+          "a": "Yes, the outer parade ground, ramparts and surfboard memorial wall are publicly accessible at no charge year-round. Only the small interior lighthouse museum (€2) is off-limits to dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je entrer dans un musée ou une église de Nazaré avec mon chien ?",
+          "a": "Seuls les chiens d`assistance accèdent aux intérieurs. Le musée des pêcheurs sur l`Avenida Manuel Remígio, le musée du phare au Forte de São Miguel Arcanjo et toutes les églises paroissiales du Sítio refusent les chiens; la place extérieure, les remparts et les miradouros restent ouverts."
+        },
+        {
+          "q": "Le Forte de São Miguel Arcanjo est-il gratuit avec un chien ?",
+          "a": "Oui, la place d`armes extérieure, les remparts et le mur mémorial de planches sont accessibles librement et gratuitement toute l`année. Seul le petit musée intérieur du phare (2 €) est interdit aux chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo entrar en algún museo o iglesia de Nazaré con mi perro?",
+          "a": "Solo los perros de asistencia acceden a los interiores. El museo de los pescadores en la Avenida Manuel Remígio, el museo del faro en el Forte de São Miguel Arcanjo y todas las iglesias parroquiales del Sítio rechazan a los perros; la plaza exterior, las murallas y los miradouros siguen abiertos."
+        },
+        {
+          "q": "¿El Forte de São Miguel Arcanjo es gratis con un perro?",
+          "a": "Sí, el patio de armas exterior, las murallas y el muro memorial de tablas son de libre acceso y gratuitos todo el año. Solo el pequeño museo interior del faro (2 €) queda vetado a los perros."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso entrar em algum museu ou igreja da Nazaré com o meu cão?",
+          "a": "Apenas os cães de assistência acedem aos interiores. O museu dos pescadores na Avenida Manuel Remígio, o museu do farol no Forte de São Miguel Arcanjo e todas as igrejas paroquiais do Sítio recusam cães; o largo exterior, as muralhas e os miradouros continuam abertos."
+        },
+        {
+          "q": "O Forte de São Miguel Arcanjo é grátis com um cão?",
+          "a": "Sim, o terreiro exterior, as muralhas e o muro memorial de pranchas são de livre acesso e gratuitos o ano inteiro. Apenas o pequeno museu interior do farol (2 €) está vedado aos cães."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting & Dog-Walking Services in Nazaré",
+      "titleFr": "Pet-sitting et promenade de chien à Nazaré",
+      "titleEs": "Pet-sitting y paseo de perros en Nazaré",
+      "titlePt": "Pet-sitting e passeio de cães na Nazaré",
+      "introEn": "Nazaré has a smaller but reliable pool of pet-sitters serving the year-round surf community and seasonal visitors, available through the main European platforms, Pawshake, PetBacker and TrustedHousesitters. Rates run from €12–20 per visit and €20–35 per day of full care; English is the working language for most sitters listed in the Nazaré–Caldas da Rainha corridor.",
+      "introFr": "Nazaré dispose d`un vivier plus petit mais fiable de pet-sitters au service de la communauté surf à l`année et des visiteurs saisonniers, joignables via les principales plateformes européennes, Pawshake, PetBacker et TrustedHousesitters. Tarifs entre 12–20 € par visite et 20–35 € par journée de garde complète; l`anglais est la langue de travail de la plupart des sitters référencés sur le corridor Nazaré–Caldas da Rainha.",
+      "introEs": "Nazaré cuenta con un grupo más reducido pero fiable de pet-sitters al servicio de la comunidad surf todo el año y de los visitantes estacionales, disponibles a través de las principales plataformas europeas, Pawshake, PetBacker y TrustedHousesitters. Tarifas entre 12–20 € por visita y 20–35 € por día de cuidado completo; el inglés es la lengua de trabajo de la mayoría de los sitters listados en el corredor Nazaré–Caldas da Rainha.",
+      "introPt": "A Nazaré tem um grupo mais pequeno mas fiável de pet-sitters ao serviço da comunidade de surf o ano inteiro e dos visitantes sazonais, disponíveis através das principais plataformas europeias, Pawshake, PetBacker e TrustedHousesitters. Tarifas entre 12–20 € por visita e 20–35 € por dia de cuidado completo; o inglês é a língua de trabalho da maioria dos sitters listados no corredor Nazaré–Caldas da Rainha.",
+      "places": [
+        {
+          "name": "Pawshake Nazaré",
+          "website": "https://www.pawshake.pt/dog-sitting/nazare",
+          "description": "European pet-sitter marketplace with the deepest pool of vetted sitters in the Nazaré–Caldas da Rainha corridor, home boarding, day care, dog walking and drop-in visits. Premium Insurance up to €1 million is included on every booking and reviews are public.",
+          "descriptionFr": "Marketplace européenne de pet-sitters avec le plus grand vivier vérifié sur le corridor Nazaré–Caldas da Rainha, pension à domicile, garderie de jour, promenade et visites. L`assurance Premium jusqu`à 1 million d`euros est incluse pour chaque réservation et les avis sont publics.",
+          "descriptionEs": "Marketplace europeo de pet-sitters con el mayor grupo verificado en el corredor Nazaré–Caldas da Rainha, alojamiento en casa del sitter, guardería de día, paseo y visitas. El Seguro Premium de hasta 1 millón de euros está incluido en cada reserva y las opiniones son públicas.",
+          "descriptionPt": "Marketplace europeu de pet-sitters com o maior grupo verificado no corredor Nazaré–Caldas da Rainha, alojamento em casa do sitter, creche de dia, passeio e visitas. O Seguro Premium até 1 milhão de euros está incluído em cada reserva e as opiniões são públicas.",
+          "serviceType": "Home boarding, dog walking, drop-in visits, day care",
+          "serviceTypeFr": "Pension à domicile, promenade, visites à domicile, garderie de jour",
+          "serviceTypeEs": "Alojamiento en casa del sitter, paseo, visitas a domicilio, guardería de día",
+          "serviceTypePt": "Alojamento em casa do sitter, passeio, visitas ao domicílio, creche de dia",
+          "pricePerDay": "From €12–20 per visit; €20–35 per full day",
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
+          "tip": "Book 7+ days in advance for July–August and for the September feast of Nossa Senhora da Nazaré, when local sitters travel and the best-reviewed profiles fill first.",
+          "tipFr": "Réservez 7 jours à l`avance pour juillet–août et la fête de septembre de Nossa Senhora da Nazaré, quand les sitters locaux voyagent et que les meilleurs profils sont les premiers complets.",
+          "tipEs": "Reserva con 7+ días de antelación para julio–agosto y para la festa de septiembre de Nossa Senhora da Nazaré, cuando los sitters locales viajan y los perfiles mejor valorados se llenan primero.",
+          "tipPt": "Reserve com 7+ dias de antecedência para julho–agosto e para a festa de setembro de Nossa Senhora da Nazaré, quando os sitters locais viajam e os perfis mais bem avaliados enchem primeiro.",
+          "googleMapsUrl": "https://www.pawshake.pt/dog-sitting/nazare"
+        },
+        {
+          "name": "PetBacker Nazaré",
+          "website": "https://www.petbacker.com/s/pet-sitters/nazare--leiria--portugal",
+          "description": "Global pet-sitter platform with a growing Nazaré–Leiria network. All sitters are background-checked and PetBacker Protection covers vet bills up to USD 10,000 in case of an injury during the booking.",
+          "descriptionFr": "Plateforme mondiale de pet-sitters avec un réseau Nazaré–Leiria en croissance. Tous les sitters sont vérifiés et PetBacker Protection couvre les frais vétérinaires jusqu`à 10 000 USD en cas de blessure pendant la réservation.",
+          "descriptionEs": "Plataforma mundial de pet-sitters con una red Nazaré–Leiria en crecimiento. Todos los sitters están verificados y PetBacker Protection cubre facturas veterinarias de hasta 10 000 USD en caso de lesión durante la reserva.",
+          "descriptionPt": "Plataforma mundial de pet-sitters com uma rede Nazaré–Leiria em crescimento. Todos os sitters são verificados e a PetBacker Protection cobre faturas veterinárias até 10 000 USD em caso de lesão durante a reserva.",
+          "serviceType": "Home boarding, dog walking, grooming, taxi rides",
+          "serviceTypeFr": "Pension à domicile, promenade, toilettage, taxi animal",
+          "serviceTypeEs": "Alojamiento en casa del sitter, paseo, peluquería, taxi para mascotas",
+          "serviceTypePt": "Alojamento em casa do sitter, passeio, banhos e tosquias, táxi animal",
+          "pricePerDay": "From €12 per walk; €18–30 per full day",
+          "languages": [
+            "Portuguese",
+            "English",
+            "Spanish"
+          ],
+          "tip": "Use the in-app chat to ask whether the sitter actually walks dogs on the Sítio cliff path, the answer tells you whether they have local big-wave-day experience or just the inland routes.",
+          "tipFr": "Utilisez la messagerie pour demander si le sitter promène vraiment les chiens sur le sentier de falaise du Sítio, la réponse révèle son expérience des jours de grosses vagues ou seulement des itinéraires intérieurs.",
+          "tipEs": "Usa el chat de la app para preguntar si el sitter realmente pasea por el sendero del acantilado del Sítio, la respuesta te dice si tiene experiencia local en días de olas grandes o solo en rutas tierra adentro.",
+          "tipPt": "Use o chat da app para perguntar se o sitter passeia mesmo no trilho da falésia do Sítio, a resposta diz-lhe se tem experiência local em dias de ondas grandes ou apenas em rotas do interior.",
+          "googleMapsUrl": "https://www.petbacker.com/s/pet-sitters/nazare--leiria--portugal"
+        },
+        {
+          "name": "TrustedHousesitters Nazaré",
+          "website": "https://www.trustedhousesitters.com/house-and-pet-sitters/portugal/leiria/nazare/",
+          "description": "Membership-based platform for in-home pet-sitting in exchange for free accommodation, best for owners who want their pet cared for at home rather than at the sitter`s place. Verified sitters and ID checks.",
+          "descriptionFr": "Plateforme par abonnement pour la garde à domicile en échange du logement gratuit, idéale pour les propriétaires qui veulent que leur animal soit gardé à la maison plutôt que chez le sitter. Sitters vérifiés et contrôles d`identité.",
+          "descriptionEs": "Plataforma por suscripción para el cuidado en el propio domicilio a cambio de alojamiento gratuito, ideal para quien quiere que su mascota se quede en casa en lugar de en la del sitter. Sitters verificados y controles de identidad.",
+          "descriptionPt": "Plataforma por subscrição para cuidado no próprio domicílio em troca de alojamento grátis, ideal para quem quer que o animal fique em casa em vez de em casa do sitter. Sitters verificados e controlo de identidade.",
+          "serviceType": "In-home overnight sitting (no per-day fee, annual membership)",
+          "serviceTypeFr": "Garde en résidence avec nuitées (pas de tarif journalier, abonnement annuel)",
+          "serviceTypeEs": "Cuidado en casa con pernocta (sin tarifa diaria, suscripción anual)",
+          "serviceTypePt": "Cuidado em casa com pernoita (sem tarifa diária, subscrição anual)",
+          "pricePerDay": "Annual membership €149+, no per-day fees",
+          "languages": [
+            "English",
+            "Portuguese"
+          ],
+          "tip": "Listings fill up months in advance for the September feast and Christmas big-wave window, post a sit request at least 8 weeks before travel for the best applications.",
+          "tipFr": "Les annonces se remplissent des mois à l`avance pour la fête de septembre et la fenêtre de Noël à grosses vagues, publiez votre demande au moins 8 semaines avant le départ pour recevoir les meilleures candidatures.",
+          "tipEs": "Los anuncios se llenan con meses de antelación para la festa de septiembre y la ventana navideña de olas grandes, publica tu solicitud al menos 8 semanas antes del viaje para recibir las mejores candidaturas.",
+          "tipPt": "Os anúncios enchem-se com meses de antecedência para a festa de setembro e a janela de Natal com ondas grandes, publique o seu pedido com pelo menos 8 semanas antes da viagem para receber as melhores candidaturas.",
+          "googleMapsUrl": "https://www.trustedhousesitters.com/house-and-pet-sitters/portugal/leiria/nazare/"
+        }
+      ],
+      "tipsEn": [
+        "Always ask sitters which beaches and paths they actually walk, a sitter who covers the Sítio cliff path or Praia do Salgado has more local experience than one who only stays at home.",
+        "Mid-July to late August and the September feast week are peak demand and rates rise by 20–30%; book early and lock in a specific sitter rather than auto-matching.",
+        "Always meet the sitter in person before the first booking, the platforms make this easy with a free meet-and-greet visit."
+      ],
+      "tipsFr": [
+        "Demandez toujours aux sitters quelles plages et quels sentiers ils fréquentent, un sitter qui couvre le sentier de falaise du Sítio ou la Praia do Salgado a plus d`expérience locale que celui qui reste à la maison.",
+        "De mi-juillet à fin août et la semaine de la fête de septembre sont la haute saison avec des tarifs en hausse de 20–30 %; réservez tôt et choisissez un sitter précis plutôt que d`utiliser l`auto-matching.",
+        "Rencontrez toujours le sitter en personne avant la première réservation, les plateformes facilitent une visite « meet & greet » gratuite."
+      ],
+      "tipsEs": [
+        "Pregunta siempre a los sitters qué playas y senderos frecuentan, un sitter que cubre el sendero del acantilado del Sítio o Praia do Salgado tiene más experiencia local que uno que se queda en casa.",
+        "De mediados de julio a finales de agosto y la semana de la festa de septiembre es la temporada alta con tarifas un 20–30 % más altas; reserva pronto y fija un sitter concreto en lugar de usar el auto-matching.",
+        "Conoce siempre al sitter en persona antes de la primera reserva, las plataformas facilitan una visita «meet & greet» gratuita."
+      ],
+      "tipsPt": [
+        "Pergunte sempre aos sitters que praias e trilhos frequentam, um sitter que cobre o trilho da falésia do Sítio ou a Praia do Salgado tem mais experiência local do que um que fica em casa.",
+        "De meados de julho a finais de agosto e a semana da festa de setembro é a época alta com tarifas 20–30 % mais elevadas; reserve cedo e fixe um sitter concreto em vez de usar o auto-matching.",
+        "Conheça sempre o sitter em pessoa antes da primeira reserva, as plataformas facilitam uma visita «meet & greet» grátis."
+      ],
+      "faqsEn": [
+        {
+          "q": "What`s the going rate for a dog walk in Nazaré?",
+          "a": "Single 60-minute walks run €10–15, group walks €8–12 per dog, and full day care between €20 and €35 depending on the sitter`s experience and whether they have a garden."
+        },
+        {
+          "q": "Can a pet-sitter pick up my dog from my hotel?",
+          "a": "Yes, every sitter on Pawshake and PetBacker can be filtered by `drop-in visit` service. Most charge a small €3–5 surcharge for hotel pickup vs. apartment pickup."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quel est le tarif courant pour une promenade à Nazaré ?",
+          "a": "Une promenade individuelle de 60 minutes coûte 10–15 €, en groupe 8–12 € par chien, et la garde journée entre 20 et 35 € selon l`expérience du sitter et la présence d`un jardin."
+        },
+        {
+          "q": "Un pet-sitter peut-il venir chercher mon chien à l`hôtel ?",
+          "a": "Oui, tous les sitters Pawshake et PetBacker peuvent être filtrés par service « visite à domicile ». La plupart facturent un supplément de 3–5 € pour un ramassage à l`hôtel par rapport à un appartement."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuál es la tarifa habitual de un paseo en Nazaré?",
+          "a": "Un paseo individual de 60 minutos cuesta 10–15 €, en grupo 8–12 € por perro, y el cuidado de día entre 20 y 35 € según la experiencia del sitter y si tiene jardín."
+        },
+        {
+          "q": "¿Un pet-sitter puede recoger a mi perro en el hotel?",
+          "a": "Sí, todos los sitters de Pawshake y PetBacker pueden filtrarse por servicio «visita a domicilio». La mayoría cobran un suplemento de 3–5 € por una recogida en hotel frente a la de un piso."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Qual é a tarifa habitual de um passeio na Nazaré?",
+          "a": "Um passeio individual de 60 minutos custa 10–15 €, em grupo 8–12 € por cão, e o cuidado de dia entre 20 e 35 € consoante a experiência do sitter e se tem jardim."
+        },
+        {
+          "q": "Um pet-sitter pode recolher o meu cão no hotel?",
+          "a": "Sim, todos os sitters da Pawshake e da PetBacker podem ser filtrados por serviço «visita ao domicílio». A maioria cobra um suplemento de 3–5 € por uma recolha em hotel face à de um apartamento."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Nazaré with Your Pet",
+      "titleFr": "Conseils pratiques pour visiter Nazaré avec votre animal",
+      "titleEs": "Consejos prácticos para visitar Nazaré con tu mascota",
+      "titlePt": "Conselhos práticos para visitar a Nazaré com o seu animal",
+      "introEn": "Nazaré is one of the easier small Portuguese towns for a pet visit: compact lower town along the marginal, flat 1.5 km seafront, a historic funicular up to the Sítio that accepts dogs in a carrier, and a strong tradition of dog-friendly tasca terraces. The few hard rules, leashes everywhere in town, no concessioned beaches in season, dangerous-breed list on CP trains, are well-signed and well-enforced, so reading the signs once at the start of your stay saves any awkward conversations later.",
+      "introFr": "Nazaré est l`une des petites villes portugaises les plus simples pour une visite avec animal: ville basse compacte le long de la marginal, 1,5 km de front de mer plat, un funiculaire historique qui monte au Sítio en acceptant les chiens en cage et une vraie tradition de terrasses de tasca dog-friendly. Les rares règles strictes, laisse partout en ville, plages concédées interdites en saison, liste des races dangereuses dans les trains CP, sont bien signalées et bien appliquées, donc lire les panneaux une fois en arrivant épargne des discussions plus tard.",
+      "introEs": "Nazaré es una de las pequeñas ciudades portuguesas más fáciles para una visita con mascota: parte baja compacta a lo largo de la marginal, 1,5 km de paseo marítimo llano, un funicular histórico que sube al Sítio aceptando perros en transportín y una verdadera tradición de terrazas de tasca pet-friendly. Las pocas reglas estrictas, correa en toda la ciudad, prohibición de playas concesionadas en temporada, lista de razas peligrosas en trenes CP, están bien señalizadas y se aplican, así que leer los carteles una vez al llegar evita conversaciones incómodas después.",
+      "introPt": "A Nazaré é uma das pequenas vilas portuguesas mais fáceis para uma visita com animal: parte baixa compacta ao longo da marginal, 1,5 km de marginal plana, um funicular histórico que sobe ao Sítio aceitando cães em transportadora e uma verdadeira tradição de esplanadas de tasca pet-friendly. As poucas regras estritas, trela em toda a vila, proibição de praias concessionadas em época, lista de raças perigosas em comboios CP, estão bem sinalizadas e aplicadas, por isso ler as placas uma vez à chegada evita conversas incómodas depois.",
+      "sections": [
+        {
+          "title": "Big-wave winds & paw safety",
+          "titleFr": "Vents de grosses vagues et sécurité des coussinets",
+          "titleEs": "Vientos de olas grandes y seguridad de almohadillas",
+          "titlePt": "Ventos de ondas grandes e segurança das patas",
+          "content": "Big-wave season (Oct–Feb) brings sustained 40–60 km/h Atlantic winds that throw salt spray to face height on the Sítio cliff path. Wipe down a dog`s paws and eyes after every cliff walk, and avoid the Suberco viewpoint in red-alert WSL conditions when the rope barrier is up.",
+          "contentFr": "La saison des grosses vagues (oct–fév) apporte des vents atlantiques soutenus de 40–60 km/h qui projettent du sel à hauteur de visage sur le sentier de falaise du Sítio. Essuyez les coussinets et les yeux du chien après chaque balade de falaise, et évitez le belvédère du Suberco en alerte rouge WSL quand la barrière de corde est levée.",
+          "contentEs": "La temporada de olas grandes (oct–feb) trae vientos atlánticos sostenidos de 40–60 km/h que proyectan sal a la altura de la cara en el sendero del acantilado del Sítio. Limpia las almohadillas y los ojos del perro tras cada paseo del acantilado y evita el mirador del Suberco en alerta roja WSL cuando la barrera de cuerda está puesta.",
+          "contentPt": "A época das ondas grandes (out–fev) traz ventos atlânticos sustentados de 40–60 km/h que projetam sal à altura do rosto no trilho da falésia do Sítio. Limpe as patas e os olhos do cão depois de cada passeio na falésia e evite o miradouro do Suberco em alerta vermelho WSL quando a barreira de corda está colocada."
+        },
+        {
+          "title": "Dangerous-breed paperwork",
+          "titleFr": "Démarches pour races dangereuses",
+          "titleEs": "Documentación para razas peligrosas",
+          "titlePt": "Documentação para raças perigosas",
+          "content": "Portuguese law lists Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier and Tosa Inu as restricted. They cannot board CP trains, must be muzzled in public, and visitors should travel with the rabies certificate and ideally a sterilisation declaration.",
+          "contentFr": "La loi portugaise classe Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier et Tosa Inu en races à restrictions. Interdites dans les trains CP, muselière obligatoire en public, et il est conseillé de voyager avec le certificat antirabique et idéalement une déclaration de stérilisation.",
+          "contentEs": "La ley portuguesa clasifica Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier y Tosa Inu como razas con restricciones. No pueden subir a trenes CP, bozal obligatorio en público, y se recomienda viajar con el certificado antirrábico y a ser posible una declaración de esterilización.",
+          "contentPt": "A lei portuguesa classifica Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier e Tosa Inu como raças com restrições. Não podem entrar em comboios CP, açaime obrigatório em público, e recomenda-se viajar com o certificado antirrábico e idealmente uma declaração de esterilização."
+        }
+      ],
+      "places": [],
+      "tipsEn": [
+        "Carry a foldable silicone water bowl: the Sítio cliff path has no fountains and the Avenida Manuel Remígio dries up between November and March.",
+        "Bolt operates with a `Pet` filter in the Nazaré–Caldas da Rainha corridor; expect a €1–2 cleaning surcharge but no refusal at the curb.",
+        "Print the Hospital Veterinário Central Cão de Ló emergency mobile (+351 911 010 994) and pin it inside your hotel room, it is the official after-hours escalation for every Nazaré day clinic.",
+        "Praia do Norte is dog-friendly on the dry sand year-round but never let a dog into the water, the rip currents are lethal even on calm days."
+      ],
+      "tipsFr": [
+        "Emportez une gamelle pliable en silicone: le sentier de falaise du Sítio n`a pas de fontaine et l`Avenida Manuel Remígio s`assèche entre novembre et mars.",
+        "Bolt propose un filtre « Pet » sur le corridor Nazaré–Caldas da Rainha; comptez un supplément nettoyage de 1–2 € mais pas de refus au moment de monter.",
+        "Imprimez le mobile d`urgence du Hospital Veterinário Central Cão de Ló (+351 911 010 994) et collez-le dans la chambre d`hôtel, c`est l`escalade officielle hors horaires pour toute clinique de jour de Nazaré.",
+        "La Praia do Norte est dog-friendly sur le sable sec toute l`année mais ne laissez jamais un chien entrer dans l`eau, les courants d`arrachement sont mortels même par jour calme."
+      ],
+      "tipsEs": [
+        "Lleva un cuenco plegable de silicona: el sendero del acantilado del Sítio no tiene fuente y la Avenida Manuel Remígio se seca entre noviembre y marzo.",
+        "Bolt opera con filtro «Pet» en el corredor Nazaré–Caldas da Rainha; cuenta con un suplemento de limpieza de 1–2 € pero ningún rechazo al subir.",
+        "Imprime el móvil de urgencias del Hospital Veterinário Central Cão de Ló (+351 911 010 994) y pégalo en la habitación del hotel, es la escalada oficial fuera de horario para toda clínica diurna de Nazaré.",
+        "Praia do Norte es pet-friendly en la arena seca todo el año pero nunca dejes a un perro entrar al agua, las corrientes de resaca son letales incluso en día calmado."
+      ],
+      "tipsPt": [
+        "Leve uma taça dobrável de silicone: o trilho da falésia do Sítio não tem fontes e a Avenida Manuel Remígio seca entre novembro e março.",
+        "A Bolt opera com filtro «Pet» no corredor Nazaré–Caldas da Rainha; conte com um suplemento de limpeza de 1–2 € mas sem recusa à entrada.",
+        "Imprima o telemóvel de urgência do Hospital Veterinário Central Cão de Ló (+351 911 010 994) e cole-o no quarto de hotel, é o escalonamento oficial fora de horário para qualquer consultório de dia da Nazaré.",
+        "A Praia do Norte é pet-friendly na areia seca o ano inteiro mas nunca deixe um cão entrar na água, as correntes de retorno são letais mesmo em dia calmo."
+      ],
+      "faqsEn": [
+        {
+          "q": "What is the single most useful Portuguese phrase to know with a dog?",
+          "a": "`Posso entrar com o cão?` (May I come in with the dog?). It works everywhere and the answer is almost always `sim, claro` on a Nazaré terrace."
+        },
+        {
+          "q": "Are muzzles compulsory in Nazaré?",
+          "a": "Only for the eight legally-defined dangerous breeds in public spaces, and for any dog on CP trains. On the street, on the marginal and on terraces no muzzle is required if your dog is leashed and calm."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle phrase portugaise est la plus utile avec un chien ?",
+          "a": "« Posso entrar com o cão ? » (Puis-je entrer avec le chien ?). Elle marche partout et la réponse est presque toujours « sim, claro » sur une terrasse de Nazaré."
+        },
+        {
+          "q": "La muselière est-elle obligatoire à Nazaré ?",
+          "a": "Uniquement pour les huit races légalement classées dangereuses dans l`espace public, et pour tout chien dans les trains CP. Dans la rue, sur la marginal et sur les terrasses, aucune muselière n`est requise si le chien est en laisse et calme."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuál es la frase portuguesa más útil con un perro?",
+          "a": "«Posso entrar com o cão?» (¿Puedo entrar con el perro?). Funciona en todas partes y la respuesta casi siempre es «sim, claro» en una terraza de Nazaré."
+        },
+        {
+          "q": "¿El bozal es obligatorio en Nazaré?",
+          "a": "Solo para las ocho razas clasificadas como peligrosas por ley en espacios públicos, y para cualquier perro en trenes CP. En la calle, en la marginal y en terrazas no se exige bozal si el perro va con correa y tranquilo."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Qual é a frase portuguesa mais útil com um cão?",
+          "a": "«Posso entrar com o cão?». Funciona em todo o lado e a resposta é quase sempre «sim, claro» numa esplanada da Nazaré."
+        },
+        {
+          "q": "O açaime é obrigatório na Nazaré?",
+          "a": "Apenas para as oito raças legalmente classificadas como perigosas em espaços públicos, e para qualquer cão em comboios CP. Na rua, na marginal e nas esplanadas não é exigido açaime se o cão estiver com trela e calmo."
+        }
+      ]
+    }
+  }
+}

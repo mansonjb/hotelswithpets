@@ -1,0 +1,775 @@
+{
+  "slug": "boston",
+  "name": "Boston",
+  "country": "United States",
+  "flag": "🇺🇸",
+  "lastUpdated": "2026-06-10",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Boston",
+      "titleFr": "Restaurants acceptant les animaux à Boston",
+      "titleEs": "Restaurantes que admiten mascotas en Boston",
+      "titlePt": "Restaurantes que admitem animais em Boston",
+      "introEn": "Boston is one of New England's strongest patio cities for dogs from May to October, thanks to Massachusetts 105 CMR 590.012 (2014) which allows dogs on restaurant patios with operator approval and an exterior entrance. The South End, Seaport, Back Bay, Cambridge (Harvard Square, Kendall) and Jamaica Plain concentrate the densest patio scenes, with water bowls produced on arrival. The cool springs and crisp autumns (April-May and September-October, 12-22 °C) are the prime patio seasons; harsh winters (December-March, often below -5 °C with nor'easter snow) push dog dining to a small heated-patio circuit. Indoor dining is service animals only.",
+      "introFr": "Boston est l'une des villes les plus solides de Nouvelle-Angleterre pour les terrasses canines de mai à octobre, grâce au Massachusetts 105 CMR 590.012 (2014) qui autorise les chiens sur les terrasses de restaurant avec accord de l'exploitant et une entrée extérieure indépendante. Le South End, le Seaport, Back Bay, Cambridge (Harvard Square, Kendall) et Jamaica Plain concentrent les terrasses les plus denses, avec gamelles d'eau dès l'arrivée. Les printemps frais et les automnes vifs (avril-mai et septembre-octobre, 12 à 22 °C) sont les meilleures saisons terrasse ; les hivers rudes (décembre-mars, souvent sous -5 °C avec tempêtes nor'easter) ramènent le repas avec chien à un petit circuit de terrasses chauffées. À l'intérieur, seuls les chiens d'assistance sont admis.",
+      "introEs": "Boston es una de las ciudades más sólidas de Nueva Inglaterra para terrazas caninas de mayo a octubre, gracias al Massachusetts 105 CMR 590.012 (2014) que autoriza perros en terrazas con aprobación del operador y entrada exterior propia. El South End, Seaport, Back Bay, Cambridge (Harvard Square, Kendall) y Jamaica Plain concentran las terrazas más densas, con cuencos de agua a la llegada. Las primaveras frescas y los otoños vivos (abril-mayo y septiembre-octubre, 12-22 °C) son las mejores temporadas de terraza; los inviernos duros (diciembre-marzo, a menudo bajo -5 °C con tormentas nor'easter) reducen las comidas con perro a un pequeño circuito de terrazas calefactadas. En el interior solo se admiten perros de servicio.",
+      "introPt": "Boston é uma das cidades mais sólidas da Nova Inglaterra para esplanadas caninas de maio a outubro, graças ao Massachusetts 105 CMR 590.012 (2014) que autoriza cães em esplanadas com aprovação do operador e entrada exterior própria. O South End, Seaport, Back Bay, Cambridge (Harvard Square, Kendall) e Jamaica Plain concentram as esplanadas mais densas, com tigelas de água à chegada. As primaveras frescas e os outonos vivos (abril-maio e setembro-outubro, 12-22 °C) são as melhores épocas de esplanada; os invernos rigorosos (dezembro-março, frequentemente abaixo de -5 °C com tempestades nor'easter) reduzem as refeições com cão a um pequeno circuito de esplanadas aquecidas. No interior só se admitem cães de serviço.",
+      "places": [
+        {
+          "name": "The Lower Depths Tap Room (Kenmore)",
+          "address": "476 Commonwealth Avenue, Boston, MA 02215",
+          "neighborhood": "Kenmore Square / Fenway",
+          "photo": "/images/city-places/boston-restaurants-lower-depths-tap-room.jpg",
+          "website": "https://lowerdepthsboston.com",
+          "description": "A Commonwealth Avenue basement-and-patio tap room facing Kenmore Square, with one of Boston's most consistently dog-friendly fenced sidewalk patios in the Fenway/Kenmore corridor. 30+ taps of New England craft beer, $1 hot dogs and a full burger menu. Water bowls produced on arrival and the patio takes leashed dogs by default, no questions asked. Walking distance from Fenway Park and the Charles River Esplanade.",
+          "descriptionFr": "Un tap room en sous-sol avec terrasse sur Commonwealth Avenue face à Kenmore Square, avec l'une des terrasses de trottoir clôturées les plus régulièrement dog-friendly du corridor Fenway/Kenmore à Boston. Plus de 30 bières craft de Nouvelle-Angleterre à la pression, hot-dogs à 1 $ et carte burgers complète. Gamelles d'eau dès l'arrivée et la terrasse accepte les chiens en laisse par défaut, sans poser de question. À pied de Fenway Park et de l'esplanade Charles River.",
+          "descriptionEs": "Un tap room en sótano con terraza en Commonwealth Avenue frente a Kenmore Square, con una de las terrazas de acera valladas más constantemente dog-friendly del corredor Fenway/Kenmore en Boston. Más de 30 cervezas craft de Nueva Inglaterra de tirador, hot dogs a 1 $ y carta completa de hamburguesas. Cuencos de agua a la llegada y la terraza admite perros con correa por defecto, sin preguntas. A pie de Fenway Park y de la Charles River Esplanade.",
+          "descriptionPt": "Um tap room em cave com esplanada na Commonwealth Avenue em frente a Kenmore Square, com uma das esplanadas de passeio vedadas mais constantemente pet-friendly do corredor Fenway/Kenmore em Boston. Mais de 30 cervejas craft da Nova Inglaterra a pressão, cachorros-quentes a 1 $ e ementa completa de hambúrgueres. Tigelas de água à chegada e a esplanada admite cães com trela por defeito, sem perguntas. A pé do Fenway Park e da Charles River Esplanade.",
+          "petPolicy": "Leashed dogs welcome across the entire fenced sidewalk patio (per Massachusetts 105 CMR 590.012). Service animals only inside.",
+          "petPolicyFr": "Chiens en laisse admis sur toute la terrasse de trottoir clôturée (Massachusetts 105 CMR 590.012). Chiens d'assistance uniquement en salle.",
+          "petPolicyEs": "Perros con correa admitidos en toda la terraza de acera vallada (Massachusetts 105 CMR 590.012). Solo perros de servicio en el interior.",
+          "petPolicyPt": "Cães com trela admitidos em toda a esplanada de passeio vedada (Massachusetts 105 CMR 590.012). Só cães de serviço no interior.",
+          "priceRange": "$$",
+          "mustTry": "Burger of the Day, $1 hot dog, draft New England IPA",
+          "mustTryFr": "Burger du jour, hot-dog à 1 $, IPA de Nouvelle-Angleterre à la pression",
+          "mustTryEs": "Burger del día, hot dog a 1 $, IPA de Nueva Inglaterra de tirador",
+          "mustTryPt": "Hambúrguer do dia, cachorro-quente a 1 $, IPA da Nova Inglaterra a pressão",
+          "openingHours": "Daily 11:30–01:00",
+          "tip": "Avoid Red Sox game evenings unless you want the full Fenway crush; the patio fills out an hour before first pitch. Come on a weekday afternoon for a quiet table with the dog.",
+          "tipFr": "Évitez les soirs de match des Red Sox sauf si vous voulez la cohue Fenway complète ; la terrasse se remplit une heure avant le coup d'envoi. Venez un après-midi en semaine pour une table calme avec le chien.",
+          "tipEs": "Evita las noches de partido de los Red Sox salvo que quieras el lleno completo de Fenway; la terraza se llena una hora antes del primer lanzamiento. Ven una tarde de entre semana para una mesa tranquila con el perro.",
+          "tipPt": "Evite as noites de jogo dos Red Sox a menos que queira a multidão completa do Fenway; a esplanada enche uma hora antes do primeiro lançamento. Venha numa tarde de semana para uma mesa calma com o cão.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lower+Depths+Tap+Room+476+Commonwealth+Avenue+Boston"
+        },
+        {
+          "name": "Trillium Brewing Fort Point",
+          "address": "50 Thomson Place, Boston, MA 02210",
+          "neighborhood": "Fort Point / Seaport",
+          "photo": "/images/city-places/boston-restaurants-trillium-brewing-fort-point.jpg",
+          "website": "https://www.trilliumbrewing.com",
+          "description": "A Fort Point/Seaport brewery taproom with a large fenced beer garden patio overlooking the Fort Point Channel, one of the most consistently dog-friendly outdoor drinking spaces in the Seaport district. House-brewed IPAs and stouts (Trillium is one of New England's most acclaimed breweries), wood-fired pizzas and a heated-tent setup that extends the season into late November. Water bowls produced on arrival.",
+          "descriptionFr": "Un taproom de brasserie à Fort Point/Seaport avec une grande terrasse beer garden clôturée surplombant le Fort Point Channel, l'un des espaces extérieurs de boisson les plus régulièrement dog-friendly du quartier Seaport. IPA et stouts brassés sur place (Trillium est l'une des brasseries les plus acclamées de Nouvelle-Angleterre), pizzas au feu de bois et tente chauffée qui prolonge la saison jusqu'à fin novembre. Gamelles d'eau dès l'arrivée.",
+          "descriptionEs": "Un taproom de cervecería en Fort Point/Seaport con una gran terraza beer garden vallada sobre el Fort Point Channel, uno de los espacios exteriores de bebida más constantemente dog-friendly del distrito Seaport. IPA y stouts elaborados en casa (Trillium es una de las cervecerías más aclamadas de Nueva Inglaterra), pizzas al horno de leña y carpa calefactada que extiende la temporada hasta finales de noviembre. Cuencos de agua a la llegada.",
+          "descriptionPt": "Um taproom de cervejaria em Fort Point/Seaport com uma grande esplanada beer garden vedada sobre o Fort Point Channel, um dos espaços exteriores de bebida mais constantemente pet-friendly do distrito Seaport. IPA e stouts produzidas na casa (Trillium é uma das cervejarias mais aclamadas da Nova Inglaterra), pizzas em forno a lenha e tenda aquecida que prolonga a época até final de novembro. Tigelas de água à chegada.",
+          "petPolicy": "Leashed dogs welcome across the entire fenced outdoor beer garden (per Massachusetts 105 CMR 590.012). Service animals only inside the taproom.",
+          "petPolicyFr": "Chiens en laisse admis sur tout le beer garden extérieur clôturé (Massachusetts 105 CMR 590.012). Chiens d'assistance uniquement dans le taproom.",
+          "petPolicyEs": "Perros con correa admitidos en todo el beer garden exterior vallado (Massachusetts 105 CMR 590.012). Solo perros de servicio en el taproom.",
+          "petPolicyPt": "Cães com trela admitidos em todo o beer garden exterior vedado (Massachusetts 105 CMR 590.012). Só cães de serviço no taproom.",
+          "priceRange": "$$",
+          "mustTry": "Fort Point Pale Ale, Congress Street IPA, wood-fired Margherita pizza",
+          "mustTryFr": "Fort Point Pale Ale, Congress Street IPA, pizza Margherita au feu de bois",
+          "mustTryEs": "Fort Point Pale Ale, Congress Street IPA, pizza Margherita al horno de leña",
+          "mustTryPt": "Fort Point Pale Ale, Congress Street IPA, pizza Margherita em forno a lenha",
+          "openingHours": "Mon–Thu 11:00–22:00, Fri–Sat 11:00–23:00, Sun 11:00–21:00",
+          "tip": "Walk the dog the 800 m along the Harborwalk from the Boston Tea Party Ships to Trillium for the classic Seaport waterfront approach. Weekend afternoons fill out by 14:00.",
+          "tipFr": "Promenez le chien 800 m le long du Harborwalk depuis les Boston Tea Party Ships jusqu'à Trillium pour l'approche bord de mer Seaport classique. Les après-midis de week-end se remplissent dès 14h.",
+          "tipEs": "Pasea al perro los 800 m por el Harborwalk desde los Boston Tea Party Ships hasta Trillium para la aproximación frente al mar Seaport clásica. Las tardes de fin de semana se llenan hacia las 14:00.",
+          "tipPt": "Passeie o cão os 800 m pelo Harborwalk desde os Boston Tea Party Ships até ao Trillium para a abordagem à beira-mar Seaport clássica. As tardes de fim-de-semana enchem pelas 14:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Trillium+Brewing+50+Thomson+Place+Boston"
+        },
+        {
+          "name": "The Beehive (South End)",
+          "address": "541 Tremont Street, Boston, MA 02116",
+          "neighborhood": "South End",
+          "photo": "/images/city-places/boston-restaurants-beehive-south-end.jpg",
+          "website": "https://www.beehiveboston.com",
+          "description": "A South End jazz cabaret and Mediterranean bistro on Tremont Street in the Boston Center for the Arts complex, with a fenced sidewalk patio that takes leashed dogs whenever the weather is above 5 °C. Live jazz nightly inside (service animals only there), but the patio gets the music spillover. Steak frites, mezze platters and an extensive cocktail list. Walking distance from Peters Park (one of the South End's busiest off-leash hours) and the Southwest Corridor Park linear trail.",
+          "descriptionFr": "Un cabaret jazz et bistrot méditerranéen du South End sur Tremont Street dans le complexe Boston Center for the Arts, avec une terrasse de trottoir clôturée qui accepte les chiens en laisse dès que la météo dépasse 5 °C. Jazz live tous les soirs en salle (chiens d'assistance uniquement), mais la terrasse profite du débordement musical. Steak-frites, plateaux de mezzés et longue carte de cocktails. À pied de Peters Park (l'une des heures off-leash les plus animées du South End) et du sentier linéaire du Southwest Corridor Park.",
+          "descriptionEs": "Un cabaret de jazz y bistró mediterráneo del South End en Tremont Street en el complejo Boston Center for the Arts, con una terraza de acera vallada que admite perros con correa siempre que el tiempo supere 5 °C. Jazz en directo cada noche en sala (solo perros de servicio), pero la terraza disfruta del desbordamiento musical. Steak frites, mezze y larga carta de cócteles. A pie de Peters Park (una de las horas off-leash más animadas del South End) y del sendero lineal Southwest Corridor Park.",
+          "descriptionPt": "Um cabaret de jazz e bistrô mediterrânico do South End na Tremont Street no complexo Boston Center for the Arts, com uma esplanada de passeio vedada que admite cães com trela sempre que o tempo passe dos 5 °C. Jazz ao vivo todas as noites na sala (só cães de serviço), mas a esplanada aproveita o transbordo musical. Steak frites, mezze e longa carta de cocktails. A pé do Peters Park (uma das horas off-leash mais animadas do South End) e do trilho linear Southwest Corridor Park.",
+          "petPolicy": "Leashed dogs welcome on the fenced sidewalk patio (per Massachusetts 105 CMR 590.012). Service animals only inside the jazz room.",
+          "petPolicyFr": "Chiens en laisse admis sur la terrasse de trottoir clôturée (Massachusetts 105 CMR 590.012). Chiens d'assistance uniquement dans la salle jazz.",
+          "petPolicyEs": "Perros con correa admitidos en la terraza de acera vallada (Massachusetts 105 CMR 590.012). Solo perros de servicio dentro de la sala de jazz.",
+          "petPolicyPt": "Cães com trela admitidos na esplanada de passeio vedada (Massachusetts 105 CMR 590.012). Só cães de serviço dentro da sala de jazz.",
+          "priceRange": "$$$",
+          "mustTry": "Steak frites, beet hummus mezze, Beehive cocktail",
+          "mustTryFr": "Steak-frites, houmous de betterave en mezzé, cocktail Beehive",
+          "mustTryEs": "Steak frites, hummus de remolacha mezze, cóctel Beehive",
+          "mustTryPt": "Steak frites, hummus de beterraba mezze, cocktail Beehive",
+          "openingHours": "Mon–Wed 17:00–24:00, Thu–Fri 17:00–01:00, Sat 11:00–01:00, Sun 11:00–24:00",
+          "tip": "Reserve the patio in advance for Saturday brunch (10:30–14:00); the sidewalk seats fill out and the jazz spillover is best heard from the corner two-tops.",
+          "tipFr": "Réservez la terrasse à l'avance pour le brunch du samedi (10h30-14h) ; les places trottoir se remplissent et le débordement jazz s'entend le mieux des deux-places d'angle.",
+          "tipEs": "Reserva la terraza por adelantado para el brunch del sábado (10:30-14:00); las plazas de acera se llenan y el desbordamiento de jazz se oye mejor desde las mesas de dos en la esquina.",
+          "tipPt": "Reserve a esplanada com antecedência para o brunch de sábado (10:30-14:00); os lugares de passeio enchem e o transbordo de jazz ouve-se melhor das mesas de dois ao canto.",
+          "googleMapsUrl": "https://maps.google.com/?q=The+Beehive+541+Tremont+Street+Boston"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog come inside a Boston restaurant?",
+          "a": "Almost never. The Massachusetts Food Code (105 CMR 590.012) allows dogs only on outdoor patios with an exterior entrance and operator approval; only service animals enter the indoor dining area. The upside is Boston's strong patio culture from May to October, especially in the South End, Seaport, Back Bay, Cambridge and Jamaica Plain, and a small heated-patio circuit (Trillium Fort Point, Lower Depths, several Seaport beer halls) keeps dog dining alive through the harsh Boston winter."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il entrer dans un restaurant à Boston ?",
+          "a": "Quasiment jamais. Le Massachusetts Food Code (105 CMR 590.012) n'autorise les chiens qu'en terrasse extérieure avec entrée indépendante et accord de l'exploitant ; seuls les chiens d'assistance entrent en salle. L'avantage : la culture des terrasses est forte de mai à octobre à Boston, notamment au South End, Seaport, Back Bay, Cambridge et Jamaica Plain, et un petit circuit de terrasses chauffées (Trillium Fort Point, Lower Depths, plusieurs beer halls du Seaport) maintient le repas avec chien tout l'hiver rigoureux de Boston."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Mi perro puede entrar en un restaurante de Boston?",
+          "a": "Casi nunca. El Massachusetts Food Code (105 CMR 590.012) solo admite perros en terrazas exteriores con entrada propia y aprobación del operador; solo los perros de servicio entran a la sala. Lo bueno: la cultura de terrazas es fuerte de mayo a octubre en Boston, sobre todo en el South End, Seaport, Back Bay, Cambridge y Jamaica Plain, y un pequeño circuito de terrazas calefactadas (Trillium Fort Point, Lower Depths, varios beer halls del Seaport) mantiene la comida con perro todo el duro invierno de Boston."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "O meu cão pode entrar num restaurante em Boston?",
+          "a": "Quase nunca. O Massachusetts Food Code (105 CMR 590.012) só admite cães em esplanadas exteriores com entrada própria e aprovação do operador; só os cães de serviço entram na sala. O lado bom: a cultura de esplanadas é forte de maio a outubro em Boston, sobretudo no South End, Seaport, Back Bay, Cambridge e Jamaica Plain, e um pequeno circuito de esplanadas aquecidas (Trillium Fort Point, Lower Depths, várias beer halls do Seaport) mantém a refeição com cão todo o duro inverno de Boston."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks and Green Spaces in Boston",
+      "titleFr": "Parcs canins et espaces verts à Boston",
+      "titleEs": "Parques caninos y espacios verdes en Boston",
+      "titlePt": "Parques caninos e espaços verdes em Boston",
+      "introEn": "Boston runs one of the most distinctive off-leash systems in the US: rather than fenced dog parks, the city operates an Off-Leash Hours (OLH) program in 20+ public parks where dogs can run off-leash dawn-to-09:00 and after sunset. Boston Common (the country's oldest public park, 1634) has OLH hours; the Public Garden does not (leashed only). Peters Park (South End) is the city's only fully fenced off-leash dog park. Cambridge, Brookline and Somerville run their own fenced dog parks (Danehy, Amory Playground, Powderhouse). The 27 km Charles River Esplanade and the Emerald Necklace are leashed but provide the city's signature dog walking. New England seasons matter: humid 25-30 °C summers, snowy -5 to -15 °C winters that demand paw protection.",
+      "introFr": "Boston exploite l'un des systèmes off-leash les plus distinctifs des États-Unis : plutôt que des parcs canins clôturés, la ville fonctionne en Off-Leash Hours (OLH) dans plus de 20 parcs publics où les chiens peuvent courir sans laisse de l'aube à 9h et après le coucher du soleil. Boston Common (le plus ancien parc public du pays, 1634) a des heures OLH ; le Public Garden non (en laisse uniquement). Peters Park (South End) est le seul parc canin entièrement clôturé de la ville. Cambridge, Brookline et Somerville gèrent leurs propres parcs canins clôturés (Danehy, Amory Playground, Powderhouse). Les 27 km de la Charles River Esplanade et de l'Emerald Necklace sont en laisse mais offrent la promenade canine signature de la ville. Les saisons de Nouvelle-Angleterre comptent : étés humides à 25-30 °C, hivers neigeux à -5 à -15 °C qui imposent une protection des coussinets.",
+      "introEs": "Boston gestiona uno de los sistemas off-leash más distintivos de EE. UU.: en lugar de parques caninos vallados, la ciudad opera un programa Off-Leash Hours (OLH) en más de 20 parques públicos donde los perros pueden correr sin correa del alba a las 09:00 y tras la puesta de sol. Boston Common (el parque público más antiguo del país, 1634) tiene horas OLH; el Public Garden no (con correa solamente). Peters Park (South End) es el único parque canino totalmente vallado de la ciudad. Cambridge, Brookline y Somerville gestionan sus propios parques caninos vallados (Danehy, Amory Playground, Powderhouse). Los 27 km de la Charles River Esplanade y del Emerald Necklace son con correa pero ofrecen el paseo canino emblemático de la ciudad. Las estaciones de Nueva Inglaterra cuentan: veranos húmedos a 25-30 °C, inviernos nevados de -5 a -15 °C que obligan a proteger las almohadillas.",
+      "introPt": "Boston opera um dos sistemas off-leash mais distintivos dos EUA: em vez de parques caninos vedados, a cidade funciona com um programa Off-Leash Hours (OLH) em mais de 20 parques públicos onde os cães podem correr sem trela do amanhecer às 09:00 e após o pôr do sol. Boston Common (o parque público mais antigo do país, 1634) tem horas OLH; o Public Garden não (só com trela). Peters Park (South End) é o único parque canino totalmente vedado da cidade. Cambridge, Brookline e Somerville gerem os seus próprios parques caninos vedados (Danehy, Amory Playground, Powderhouse). Os 27 km da Charles River Esplanade e do Emerald Necklace são com trela mas oferecem o passeio canino emblemático da cidade. As estações da Nova Inglaterra contam: verões húmidos a 25-30 °C, invernos nevados de -5 a -15 °C que obrigam a proteger as almofadas.",
+      "places": [
+        {
+          "name": "Boston Common (Off-Leash Hours)",
+          "type": "America's oldest public park (1634) with Off-Leash Hours program",
+          "photo": "/images/city-places/boston-parks-boston-common.jpg",
+          "website": "https://www.boston.gov/parks/boston-common",
+          "description": "Boston Common is the oldest public park in the United States, founded in 1634 as a common grazing ground, and the historic head of the Freedom Trail. Under the Boston Parks and Recreation Off-Leash Hours program, dogs can run off-leash from sunrise to 09:00 and from sunset to sunrise on the lawns (not the Frog Pond or the Public Garden side). The morning OLH pack on the Common is one of the city's most reliable dog social scenes, with views to the gold-domed State House and the Granary Burying Ground.",
+          "descriptionFr": "Boston Common est le plus ancien parc public des États-Unis, fondé en 1634 comme pâturage commun, et le départ historique du Freedom Trail. Dans le cadre du programme Off-Leash Hours du Boston Parks and Recreation, les chiens peuvent courir sans laisse du lever du soleil à 9h et du coucher du soleil au lever sur les pelouses (pas la Frog Pond ni le côté Public Garden). La meute matinale OLH du Common est l'une des scènes canines sociales les plus fiables de la ville, avec vue sur le dôme doré du State House et le Granary Burying Ground.",
+          "descriptionEs": "Boston Common es el parque público más antiguo de Estados Unidos, fundado en 1634 como pastizal común, y el inicio histórico del Freedom Trail. Bajo el programa Off-Leash Hours del Boston Parks and Recreation, los perros pueden correr sin correa desde el amanecer hasta las 09:00 y desde la puesta de sol hasta el amanecer en los céspedes (no la Frog Pond ni el lado del Public Garden). La manada matinal OLH del Common es una de las escenas caninas sociales más fiables de la ciudad, con vistas a la cúpula dorada del State House y al Granary Burying Ground.",
+          "descriptionPt": "Boston Common é o parque público mais antigo dos Estados Unidos, fundado em 1634 como pastagem comum, e o início histórico do Freedom Trail. Ao abrigo do programa Off-Leash Hours do Boston Parks and Recreation, os cães podem correr sem trela desde o nascer do sol até às 09:00 e do pôr do sol ao nascer nos relvados (não na Frog Pond nem no lado do Public Garden). A alcateia matinal OLH do Common é uma das cenas caninas sociais mais fiáveis da cidade, com vista para a cúpula dourada do State House e para o Granary Burying Ground.",
+          "offLeash": true,
+          "offLeashArea": "All lawn areas during Off-Leash Hours: sunrise to 09:00 daily, and sunset to sunrise. Not the Frog Pond, not the Public Garden across Charles Street. Outside OLH the Common is leash-required.",
+          "offLeashAreaFr": "Toutes les pelouses pendant les Off-Leash Hours : du lever du soleil à 9h tous les jours, et du coucher au lever du soleil. Pas la Frog Pond, pas le Public Garden de l'autre côté de Charles Street. Hors OLH, le Common impose la laisse.",
+          "offLeashAreaEs": "Todas las zonas de césped durante las Off-Leash Hours: del amanecer a las 09:00 a diario, y de la puesta al amanecer. No la Frog Pond, no el Public Garden al otro lado de Charles Street. Fuera de OLH el Common exige correa.",
+          "offLeashAreaPt": "Todas as zonas de relva durante as Off-Leash Hours: do nascer do sol às 09:00 diariamente, e do pôr do sol ao nascer. Não na Frog Pond, não no Public Garden do outro lado de Charles Street. Fora de OLH o Common exige trela.",
+          "tip": "Come at sunrise on a weekday for the most active OLH pack and the empty Freedom Trail backdrop; the Park Street T stop (Red/Green lines) is at the southeast corner. After 09:00 leash up immediately - the Boston Animal Control patrols the Common at lunch hour.",
+          "tipFr": "Venez au lever du soleil en semaine pour la meute OLH la plus active et le Freedom Trail vide en arrière-plan ; l'arrêt T Park Street (lignes rouge/verte) est à l'angle sud-est. Après 9h, attachez immédiatement - l'Animal Control de Boston patrouille sur le Common à l'heure du déjeuner.",
+          "tipEs": "Ven al amanecer entre semana para la manada OLH más activa y el Freedom Trail vacío de fondo; la parada T Park Street (líneas roja/verde) está en la esquina sureste. Después de las 09:00 ata inmediatamente - el Animal Control de Boston patrulla el Common a la hora del almuerzo.",
+          "tipPt": "Venha ao nascer do sol num dia útil para a alcateia OLH mais ativa e o Freedom Trail vazio de fundo; a paragem T Park Street (linhas vermelha/verde) fica no canto sudeste. Depois das 09:00 prenda imediatamente - o Animal Control de Boston patrulha o Common à hora do almoço.",
+          "googleMapsUrl": "https://maps.google.com/?q=Boston+Common"
+        },
+        {
+          "name": "Charles River Esplanade",
+          "type": "27 km linear riverside park with leashed walking and Hatch Shell",
+          "photo": "/images/city-places/boston-parks-charles-river-esplanade.jpg",
+          "website": "https://esplanade.org",
+          "description": "The Charles River Esplanade is a 27 km riverside park system running from the Museum of Science dam to Watertown, with the Hatch Shell outdoor concert venue (Boston Pops 4th of July), sailing pavilions, and the Storrow Drive corridor lined with willows. Leashed dogs welcome the entire length; the path is paved and flat. The reflecting lagoons, the Fiedler footbridge to the Back Bay and the upstream Magazine Beach (Cambridge) make this the city's signature dog walk. Combine with a Back Bay or Beacon Hill hotel for a doorstep sunrise loop.",
+          "descriptionFr": "La Charles River Esplanade est un système de parcs en bord de rivière de 27 km allant du barrage du Museum of Science à Watertown, avec la salle de concert extérieure Hatch Shell (Boston Pops du 4 juillet), pavillons de voile et le corridor Storrow Drive bordé de saules. Chiens en laisse admis sur toute la longueur ; le chemin est goudronné et plat. Les lagunes-miroirs, la passerelle Fiedler vers le Back Bay et la Magazine Beach en amont (Cambridge) en font la promenade canine signature de la ville. Combinez avec un hôtel Back Bay ou Beacon Hill pour une boucle lever de soleil au pas de la porte.",
+          "descriptionEs": "La Charles River Esplanade es un sistema de parques junto al río de 27 km desde la presa del Museum of Science hasta Watertown, con la sala de conciertos al aire libre Hatch Shell (Boston Pops del 4 de julio), pabellones de vela y el corredor Storrow Drive bordeado de sauces. Perros con correa admitidos en todo el recorrido; el camino es asfaltado y llano. Las lagunas reflectantes, la pasarela Fiedler hacia Back Bay y la Magazine Beach río arriba (Cambridge) hacen de esto el paseo canino emblemático de la ciudad. Combina con un hotel de Back Bay o Beacon Hill para un bucle al amanecer al pie de la puerta.",
+          "descriptionPt": "A Charles River Esplanade é um sistema de parques à beira-rio de 27 km que vai da barragem do Museum of Science a Watertown, com a sala de concertos ao ar livre Hatch Shell (Boston Pops do 4 de julho), pavilhões de vela e o corredor Storrow Drive ladeado de salgueiros. Cães com trela admitidos em todo o percurso; o caminho é asfaltado e plano. As lagoas-espelho, a passarela Fiedler para Back Bay e a Magazine Beach a montante (Cambridge) fazem dele o passeio canino emblemático da cidade. Combine com um hotel de Back Bay ou Beacon Hill para um circuito ao nascer do sol à porta.",
+          "offLeash": false,
+          "offLeashArea": "Leash-required at all times along the entire Esplanade. For off-leash running, cross the river to Magazine Beach (Cambridge, off-leash fenced area) or head to Peters Park (South End).",
+          "offLeashAreaFr": "Laisse obligatoire à toute heure sur toute l'Esplanade. Pour la course sans laisse, traversez la rivière jusqu'à Magazine Beach (Cambridge, zone off-leash clôturée) ou allez à Peters Park (South End).",
+          "offLeashAreaEs": "Correa obligatoria a toda hora en toda la Esplanade. Para correr sin correa, cruza el río hasta Magazine Beach (Cambridge, zona off-leash vallada) o ve a Peters Park (South End).",
+          "offLeashAreaPt": "Trela obrigatória a qualquer hora em toda a Esplanade. Para correr sem trela, atravesse o rio até Magazine Beach (Cambridge, zona off-leash vedada) ou vá ao Peters Park (South End).",
+          "tip": "The 5 km loop from the Hatch Shell to the Harvard Bridge and back (crossing at the BU Bridge or the Mass Ave Bridge) is the classic Back Bay dog circuit; come at sunrise for empty paths and the gold-dome reflection in the river basin.",
+          "tipFr": "La boucle de 5 km du Hatch Shell au Harvard Bridge et retour (en traversant au BU Bridge ou au Mass Ave Bridge) est le circuit canin classique de Back Bay ; venez au lever du soleil pour des chemins vides et le reflet du dôme doré dans le bassin.",
+          "tipEs": "El bucle de 5 km del Hatch Shell al Harvard Bridge y vuelta (cruzando por el BU Bridge o el Mass Ave Bridge) es el circuito canino clásico de Back Bay; ven al amanecer para caminos vacíos y el reflejo de la cúpula dorada en la dársena.",
+          "tipPt": "O circuito de 5 km do Hatch Shell ao Harvard Bridge e volta (atravessando na BU Bridge ou na Mass Ave Bridge) é o circuito canino clássico de Back Bay; venha ao nascer do sol para caminhos vazios e o reflexo da cúpula dourada na bacia.",
+          "googleMapsUrl": "https://maps.google.com/?q=Charles+River+Esplanade+Boston"
+        },
+        {
+          "name": "Peters Park Dog Park (South End)",
+          "type": "Boston's only fully fenced off-leash dog park",
+          "photo": "/images/city-places/boston-parks-peters-park-dog-park.jpg",
+          "website": "https://www.boston.gov/parks/peters-park",
+          "description": "Peters Park on Washington Street in the South End is Boston's only fully fenced off-leash dog park, opened in 2009 by the South End Dog Owners Group (SEDOG). Two enclosed gravel-and-paving runs (small dog and big dog), double-gated entry, water spigots in summer, benches and a strong daily social pack from the surrounding brownstone blocks. Free, no permit required, open dawn to dusk. The South End Open Studios weekend (September) brings the loudest crowds; weekday mornings 07:00-09:00 are the prime SEDOG meetup.",
+          "descriptionFr": "Peters Park sur Washington Street au South End est le seul parc canin entièrement clôturé off-leash de Boston, ouvert en 2009 par le South End Dog Owners Group (SEDOG). Deux enclos gravier-et-pavés (petits chiens et grands chiens), sas double porte, robinets l'été, bancs et une meute quotidienne soudée issue des brownstones environnants. Gratuit, sans permis, ouvert de l'aube à la tombée du jour. Le week-end South End Open Studios (septembre) attire les foules les plus bruyantes ; les matinées en semaine 7h-9h sont le rendez-vous SEDOG principal.",
+          "descriptionEs": "Peters Park en Washington Street en el South End es el único parque canino totalmente vallado off-leash de Boston, inaugurado en 2009 por el South End Dog Owners Group (SEDOG). Dos recintos de grava y adoquines (perros pequeños y grandes), entrada de doble puerta, grifos en verano, bancos y una manada diaria cohesionada de los brownstones vecinos. Gratis, sin permiso, abierto del alba al ocaso. El fin de semana South End Open Studios (septiembre) atrae las multitudes más ruidosas; las mañanas entre semana de 07:00 a 09:00 son el principal encuentro SEDOG.",
+          "descriptionPt": "Peters Park na Washington Street no South End é o único parque canino totalmente vedado off-leash de Boston, inaugurado em 2009 pelo South End Dog Owners Group (SEDOG). Dois recintos em gravilha e calçada (cães pequenos e grandes), entrada de porta dupla, torneiras no verão, bancos e uma alcateia diária coesa dos brownstones vizinhos. Grátis, sem licença, aberto do amanhecer ao anoitecer. O fim-de-semana South End Open Studios (setembro) atrai as multidões mais ruidosas; as manhãs de semana das 07:00 às 09:00 são o principal encontro SEDOG.",
+          "offLeash": true,
+          "offLeashArea": "Entire fenced dog-park area, both small-dog and big-dog runs. Open dawn to dusk, no permit, free.",
+          "offLeashAreaFr": "Toute la zone clôturée du parc canin, parcs petits et grands chiens. Ouvert de l'aube à la tombée du jour, sans permis, gratuit.",
+          "offLeashAreaEs": "Toda la zona vallada del parque canino, áreas para perros pequeños y grandes. Abierto del alba al ocaso, sin permiso, gratis.",
+          "offLeashAreaPt": "Toda a zona vedada do parque canino, áreas para cães pequenos e grandes. Aberto do amanhecer ao anoitecer, sem licença, grátis.",
+          "tip": "Combine with a Beehive patio dinner at 541 Tremont (700 m east) for the classic South End dog afternoon. Street parking is metered on Washington; the Silver Line bus stop at East Berkeley Street is at the door.",
+          "tipFr": "Combinez avec un dîner en terrasse au Beehive, 541 Tremont (700 m à l'est), pour l'après-midi canin classique au South End. Stationnement payant sur Washington ; l'arrêt de bus Silver Line à East Berkeley Street est à la porte.",
+          "tipEs": "Combina con una cena en la terraza del Beehive, 541 Tremont (700 m al este), para la tarde canina clásica del South End. Aparcamiento de pago en Washington; la parada de bus Silver Line en East Berkeley Street está en la puerta.",
+          "tipPt": "Combine com um jantar na esplanada do Beehive, 541 Tremont (700 m a leste), para a tarde canina clássica do South End. Estacionamento pago na Washington; a paragem de autocarro Silver Line em East Berkeley Street fica à porta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Peters+Park+Dog+Park+Boston"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I actually let my dog off leash in Boston?",
+          "a": "Two options. First, the Boston Parks and Recreation Off-Leash Hours (OLH) program: 20+ public parks including Boston Common, the Public Garden's neighbour parks, Franklin Park and Jamaica Pond allow off-leash running from sunrise to 09:00 and from sunset to sunrise. Second, the only fully fenced 24/7 off-leash dog park inside Boston city limits is Peters Park in the South End. Cambridge (Danehy, Fresh Pond), Brookline (Amory Playground) and Somerville (Powderhouse) run their own fenced dog parks. Outside OLH the Boston leash law (City Ordinance 16-1.10) is enforced; fines start at $50."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où puis-je réellement lâcher mon chien à Boston ?",
+          "a": "Deux options. D'abord, le programme Off-Leash Hours (OLH) du Boston Parks and Recreation : plus de 20 parcs publics dont Boston Common, les parcs voisins du Public Garden, Franklin Park et Jamaica Pond autorisent la course sans laisse du lever du soleil à 9h et du coucher au lever du soleil. Ensuite, le seul parc canin entièrement clôturé 24h/24 dans la ville de Boston est Peters Park au South End. Cambridge (Danehy, Fresh Pond), Brookline (Amory Playground) et Somerville (Powderhouse) gèrent leurs propres parcs canins clôturés. Hors OLH, la loi de la laisse de Boston (City Ordinance 16-1.10) est appliquée ; amende dès 50 $."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo soltar realmente al perro en Boston?",
+          "a": "Dos opciones. Primero, el programa Off-Leash Hours (OLH) del Boston Parks and Recreation: más de 20 parques públicos incluidos Boston Common, los parques vecinos del Public Garden, Franklin Park y Jamaica Pond permiten correr sin correa del amanecer a las 09:00 y de la puesta al amanecer. Segundo, el único parque canino totalmente vallado 24/7 dentro de los límites de Boston es Peters Park en el South End. Cambridge (Danehy, Fresh Pond), Brookline (Amory Playground) y Somerville (Powderhouse) gestionan sus propios parques caninos vallados. Fuera de OLH se aplica la ley de correa de Boston (City Ordinance 16-1.10); multas desde 50 $."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Onde posso realmente largar o cão em Boston?",
+          "a": "Duas opções. Primeiro, o programa Off-Leash Hours (OLH) do Boston Parks and Recreation: mais de 20 parques públicos incluindo Boston Common, os parques vizinhos do Public Garden, Franklin Park e Jamaica Pond permitem correr sem trela do nascer do sol às 09:00 e do pôr do sol ao nascer. Segundo, o único parque canino totalmente vedado 24/7 dentro dos limites de Boston é Peters Park no South End. Cambridge (Danehy, Fresh Pond), Brookline (Amory Playground) e Somerville (Powderhouse) gerem os seus próprios parques caninos vedados. Fora de OLH aplica-se a lei da trela de Boston (City Ordinance 16-1.10); multas a partir de 50 $."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Boston with Your Pet",
+      "titleFr": "Se déplacer à Boston avec son animal",
+      "titleEs": "Moverse por Boston con tu mascota",
+      "titlePt": "Mover-se por Boston com o seu animal",
+      "introEn": "Boston has one international airport (Logan BOS) on a peninsula a 10-minute Silver Line ride from Downtown, the MBTA 'T' subway network (the oldest in the US, 1897), the MBTA commuter rail, MBTA buses, the Bluebikes bikeshare and Amtrak's Northeast Corridor (including the Acela) at South Station and Back Bay Station. The T and the commuter rail both accept small pets in fully enclosed carriers free of charge, with off-peak restrictions on commuter rail. Larger dogs are welcomed at the conductor's discretion on the T off-peak. Uber Pet and Lyft Pet cover the entire metro for a $3-5 surcharge. Logan BOS has indoor pet relief areas in every terminal, and JetBlue, Delta, American and United accept small pets in cabin for $95-150 per segment. The Charles River Esplanade and Harborwalk are pedestrian-and-leashed-dog corridors that link most downtown sights without a car.",
+      "introFr": "Boston compte un aéroport international (Logan BOS) sur une presqu'île à 10 minutes de Silver Line du centre-ville, le réseau de métro MBTA 'T' (le plus ancien des États-Unis, 1897), le train de banlieue MBTA commuter rail, les bus MBTA, le vélo en libre-service Bluebikes et Amtrak Northeast Corridor (Acela compris) à South Station et Back Bay Station. Le T et le commuter rail acceptent les petits animaux gratuitement en sac entièrement fermé, avec restrictions hors heures de pointe sur le commuter rail. Les plus grands chiens sont admis à la discrétion du contrôleur sur le T hors pointe. Uber Pet et Lyft Pet couvrent toute la métropole moyennant 3 à 5 $ de supplément. Logan BOS dispose de zones de soulagement intérieures dans chaque terminal, et JetBlue, Delta, American et United acceptent les petits animaux en cabine moyennant 95 à 150 $ par segment. La Charles River Esplanade et le Harborwalk sont des corridors piétons et chiens en laisse qui relient la plupart des sites du centre sans voiture.",
+      "introEs": "Boston tiene un aeropuerto internacional (Logan BOS) en una península a 10 minutos de Silver Line del centro, la red de metro MBTA 'T' (la más antigua de EE. UU., 1897), el tren de cercanías MBTA commuter rail, autobuses MBTA, las bicis públicas Bluebikes y Amtrak Northeast Corridor (incluido el Acela) en South Station y Back Bay Station. El T y el commuter rail admiten mascotas pequeñas gratis en transportín totalmente cerrado, con restricciones fuera de horas punta en el commuter rail. Los perros más grandes se admiten a discreción del revisor en el T fuera de horas punta. Uber Pet y Lyft Pet cubren toda la metrópoli por 3-5 $ de suplemento. Logan BOS tiene zonas interiores de alivio en cada terminal, y JetBlue, Delta, American y United admiten mascotas pequeñas en cabina por 95-150 $ por segmento. La Charles River Esplanade y el Harborwalk son corredores peatonales y de perros con correa que conectan la mayoría de los puntos del centro sin coche.",
+      "introPt": "Boston tem um aeroporto internacional (Logan BOS) numa península a 10 minutos de Silver Line do centro, a rede de metro MBTA 'T' (a mais antiga dos EUA, 1897), o comboio suburbano MBTA commuter rail, autocarros MBTA, as bicicletas partilhadas Bluebikes e Amtrak Northeast Corridor (incluindo o Acela) em South Station e Back Bay Station. O T e o commuter rail aceitam animais pequenos grátis em transportadora totalmente fechada, com restrições fora das horas de ponta no commuter rail. Os cães maiores são aceites à discrição do revisor no T fora das horas de ponta. Uber Pet e Lyft Pet cobrem toda a metrópole por 3-5 $ de suplemento. Logan BOS tem zonas interiores de alívio em cada terminal, e JetBlue, Delta, American e United aceitam animais pequenos em cabine por 95-150 $ por segmento. A Charles River Esplanade e o Harborwalk são corredores pedonais e de cães com trela que ligam a maioria dos pontos do centro sem carro.",
+      "rules": [
+        {
+          "mode": "MBTA 'T' Subway (Red, Green, Blue, Orange, Silver lines)",
+          "modeFr": "MBTA 'T' (lignes rouge, verte, bleue, orange, argentée)",
+          "modeEs": "MBTA 'T' Metro (líneas roja, verde, azul, naranja, plateada)",
+          "modePt": "MBTA 'T' Metro (linhas vermelha, verde, azul, laranja, prateada)",
+          "allowed": true,
+          "free": true,
+          "carrierRequired": true,
+          "details": "MBTA allows small pets free of charge on the T at all times if fully enclosed in a carrier the owner can hold. Larger non-service dogs are permitted off-peak (after 09:00 and before 16:00 weekdays, all day weekends) at the operator's discretion, leashed. Service animals ride free without a carrier, leashed, anytime.",
+          "detailsFr": "MBTA accepte les petits animaux gratuitement sur le T à toute heure s'ils sont entièrement enfermés dans un sac que le propriétaire peut tenir. Les chiens plus grands non d'assistance sont admis hors heures de pointe (après 9h et avant 16h en semaine, toute la journée le week-end) à la discrétion de l'agent, en laisse. Les chiens d'assistance voyagent gratuitement, en laisse, sans sac, à toute heure.",
+          "detailsEs": "MBTA admite mascotas pequeñas gratis en el T a cualquier hora si van completamente cerradas en un transportín que el dueño puede sostener. Los perros más grandes que no son de servicio se admiten fuera de horas punta (después de las 09:00 y antes de las 16:00 entre semana, todo el día los fines de semana) a discreción del operador, con correa. Los perros de servicio viajan gratis, con correa, sin transportín, a cualquier hora.",
+          "detailsPt": "MBTA aceita animais pequenos grátis no T a qualquer hora se estiverem totalmente fechados numa transportadora que o dono possa segurar. Os cães maiores que não sejam de serviço são aceites fora das horas de ponta (depois das 09:00 e antes das 16:00 nos dias úteis, todo o dia ao fim-de-semana) à discrição do operador, com trela. Os cães de serviço viajam grátis, com trela, sem transportadora, a qualquer hora.",
+          "restrictions": "Operator has final say. Crowded peak trains often refuse non-service dogs over carrier size. Carrier rule is strict at peak.",
+          "restrictionsFr": "Le conducteur a le dernier mot. Les rames bondées en pointe refusent souvent les chiens non d'assistance dépassant la taille du sac. La règle du sac est stricte en pointe.",
+          "restrictionsEs": "El operador tiene la última palabra. Los trenes llenos en hora punta a menudo rechazan perros que no son de servicio por encima del tamaño de transportín. La regla del transportín es estricta en hora punta.",
+          "restrictionsPt": "O operador tem a última palavra. Os comboios cheios em hora de ponta recusam frequentemente cães que não sejam de serviço acima do tamanho de transportadora. A regra da transportadora é estrita em hora de ponta.",
+          "website": "https://www.mbta.com/policies/policy-on-pets"
+        },
+        {
+          "mode": "MBTA Bus & Silver Line",
+          "modeFr": "Bus MBTA et Silver Line",
+          "modeEs": "Autobús MBTA y Silver Line",
+          "modePt": "Autocarro MBTA e Silver Line",
+          "allowed": true,
+          "free": true,
+          "carrierRequired": true,
+          "details": "MBTA buses and the Silver Line BRT accept small pets free of charge in a fully enclosed carrier the owner can hold on their lap. Service animals ride free, leashed, without a carrier. Larger dogs are permitted off-peak at the driver's discretion.",
+          "detailsFr": "Les bus MBTA et le BRT Silver Line acceptent les petits animaux gratuitement en sac entièrement fermé tenu sur les genoux. Les chiens d'assistance voyagent gratuitement, en laisse, sans sac. Les chiens plus grands sont admis hors pointe à la discrétion du conducteur.",
+          "detailsEs": "Los autobuses MBTA y el BRT Silver Line admiten mascotas pequeñas gratis en transportín totalmente cerrado en el regazo. Los perros de servicio viajan gratis, con correa, sin transportín. Los perros más grandes se admiten fuera de horas punta a discreción del conductor.",
+          "detailsPt": "Os autocarros MBTA e o BRT Silver Line aceitam animais pequenos grátis em transportadora totalmente fechada ao colo. Os cães de serviço viajam grátis, com trela, sem transportadora. Os cães maiores são aceites fora das horas de ponta à discrição do motorista.",
+          "restrictions": "Driver has final say on larger dogs. Crowded buses may refuse boarding.",
+          "restrictionsFr": "Le conducteur a le dernier mot pour les chiens plus grands. Les bus bondés peuvent refuser l'embarquement.",
+          "restrictionsEs": "El conductor tiene la última palabra sobre perros más grandes. Los autobuses llenos pueden denegar el acceso.",
+          "restrictionsPt": "O motorista tem a última palavra sobre cães maiores. Os autocarros cheios podem recusar o embarque.",
+          "website": "https://www.mbta.com/policies/policy-on-pets"
+        },
+        {
+          "mode": "MBTA Commuter Rail & Amtrak Acela",
+          "modeFr": "Train de banlieue MBTA et Amtrak Acela",
+          "modeEs": "Tren de cercanías MBTA y Amtrak Acela",
+          "modePt": "Comboio suburbano MBTA e Amtrak Acela",
+          "allowed": true,
+          "free": true,
+          "carrierRequired": true,
+          "details": "MBTA Commuter Rail accepts small pets free of charge in a fully enclosed carrier off-peak (after 09:30 and before 16:00 weekdays, all day weekends). Amtrak's Acela and Northeast Regional out of South Station accept small pets (under 20 lb / 9 kg in carrier) for a $26 fee on trips up to 7 hours, advance booking required (pet quota per train). Service animals ride free on both, leashed, anytime, no carrier.",
+          "detailsFr": "Le MBTA Commuter Rail accepte les petits animaux gratuitement en sac entièrement fermé hors heures de pointe (après 9h30 et avant 16h en semaine, toute la journée le week-end). L'Acela et le Northeast Regional d'Amtrak au départ de South Station acceptent les petits animaux (moins de 9 kg en sac) moyennant 26 $ pour les trajets jusqu'à 7h, réservation à l'avance obligatoire (quota d'animaux par train). Les chiens d'assistance voyagent gratuitement sur les deux, en laisse, sans sac, à toute heure.",
+          "detailsEs": "El MBTA Commuter Rail admite mascotas pequeñas gratis en transportín totalmente cerrado fuera de horas punta (después de las 09:30 y antes de las 16:00 entre semana, todo el día los fines de semana). El Acela y el Northeast Regional de Amtrak desde South Station admiten mascotas pequeñas (menos de 9 kg en transportín) por 26 $ en viajes de hasta 7 h, reserva previa obligatoria (cuota de animales por tren). Los perros de servicio viajan gratis en ambos, con correa, sin transportín, a cualquier hora.",
+          "detailsPt": "O MBTA Commuter Rail aceita animais pequenos grátis em transportadora totalmente fechada fora das horas de ponta (depois das 09:30 e antes das 16:00 nos dias úteis, todo o dia ao fim-de-semana). O Acela e o Northeast Regional da Amtrak a partir de South Station aceitam animais pequenos (menos de 9 kg em transportadora) por 26 $ em viagens até 7h, marcação prévia obrigatória (quota de animais por comboio). Os cães de serviço viajam grátis nos dois, com trela, sem transportadora, a qualquer hora.",
+          "restrictions": "No pets permitted on Commuter Rail weekday peak trains (06:00-09:30 inbound, 16:00-18:30 outbound). Acela pet quota fills out 1-2 weeks ahead in summer.",
+          "restrictionsFr": "Animaux interdits sur les trains de pointe en semaine du Commuter Rail (6h-9h30 entrant, 16h-18h30 sortant). Le quota animal Acela est complet 1 à 2 semaines à l'avance l'été.",
+          "restrictionsEs": "Mascotas no permitidas en trenes en hora punta entre semana del Commuter Rail (06:00-09:30 entrantes, 16:00-18:30 salientes). La cuota de mascotas del Acela se llena 1-2 semanas antes en verano.",
+          "restrictionsPt": "Animais não permitidos nos comboios de hora de ponta nos dias úteis do Commuter Rail (06:00-09:30 entrada, 16:00-18:30 saída). A quota de animais do Acela enche 1-2 semanas antes no verão.",
+          "website": "https://www.amtrak.com/pets"
+        },
+        {
+          "mode": "Boston Logan International Airport (BOS)",
+          "modeFr": "Aéroport international Boston Logan (BOS)",
+          "modeEs": "Aeropuerto Internacional Logan de Boston (BOS)",
+          "modePt": "Aeroporto Internacional Logan de Boston (BOS)",
+          "allowed": true,
+          "free": true,
+          "carrierRequired": false,
+          "details": "Logan BOS has indoor pet relief areas in every terminal (A, B, C, E) plus exterior relief zones at every arrivals curb; the largest is in Terminal C post-security. Pets in carriers move freely through the terminals; TSA requires the pet to be removed from the carrier briefly and walked through the metal detector on a leash. JetBlue, Delta, American, United and Cape Air all accept small pets in cabin on BOS flights for $95-150 per segment.",
+          "detailsFr": "Logan BOS dispose de zones de soulagement intérieures dans chaque terminal (A, B, C, E) plus des zones extérieures à chaque dépose-minute arrivées ; la plus grande est au Terminal C après les contrôles. Les animaux en sac circulent librement dans les terminaux ; la TSA exige de sortir brièvement l'animal et de le faire passer en laisse au détecteur. JetBlue, Delta, American, United et Cape Air acceptent les petits animaux en cabine sur les vols BOS moyennant 95 à 150 $ par segment.",
+          "detailsEs": "Logan BOS tiene zonas interiores de alivio en cada terminal (A, B, C, E) además de zonas exteriores en cada acera de llegadas; la mayor está en el Terminal C tras los controles. Las mascotas en transportín circulan libremente por las terminales; la TSA exige sacar brevemente al animal y pasarlo con correa por el detector. JetBlue, Delta, American, United y Cape Air admiten mascotas pequeñas en cabina en vuelos BOS por 95-150 $ por segmento.",
+          "detailsPt": "Logan BOS tem zonas interiores de alívio em cada terminal (A, B, C, E) além de zonas exteriores em cada passeio de chegadas; a maior fica no Terminal C após o controlo. Os animais em transportadora circulam livremente pelos terminais; a TSA exige tirar brevemente o animal e passá-lo com trela pelo detetor. JetBlue, Delta, American, United e Cape Air aceitam animais pequenos em cabine nos voos BOS por 95-150 $ por segmento.",
+          "restrictions": "Service animals fly with their handler in the cabin free; non-service pets are subject to each airline's policy (size, fees, breed bans). Since August 2024 CDC rule, dogs entering the US must arrive at an approved airport (Logan BOS is one), be at least 6 months old, microchipped and have a completed CDC Dog Import Form.",
+          "restrictionsFr": "Les chiens d'assistance voyagent gratuitement en cabine ; les autres animaux dépendent de la politique de chaque compagnie (taille, frais, races interdites). Depuis la règle CDC d'août 2024, les chiens entrant aux États-Unis doivent arriver dans un aéroport approuvé (Logan BOS en fait partie), avoir au moins 6 mois, être pucés et présenter un formulaire CDC Dog Import.",
+          "restrictionsEs": "Los perros de servicio vuelan gratis en cabina; el resto de mascotas dependen de la política de cada aerolínea (tamaño, tarifas, razas prohibidas). Desde la regla del CDC de agosto de 2024, los perros que entran a EE. UU. deben llegar a un aeropuerto aprobado (Logan BOS es uno), tener al menos 6 meses, microchip y formulario CDC Dog Import.",
+          "restrictionsPt": "Os cães de serviço voam grátis na cabine; os restantes animais dependem da política de cada companhia (tamanho, taxas, raças proibidas). Desde a regra do CDC de agosto de 2024, os cães que entram nos EUA têm de chegar a um aeroporto aprovado (Logan BOS é um), ter pelo menos 6 meses, microchip e formulário CDC Dog Import.",
+          "website": "https://www.massport.com/logan-airport/at-the-airport/airport-services/service-animal-relief-areas"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take a large dog on Boston public transit?",
+          "a": "Partially. The MBTA T allows larger non-service dogs off-peak (after 09:00 and before 16:00 weekdays, all day weekends) at the operator's discretion, leashed - this is unusual for a US transit system and a real Boston perk. At peak the carrier rule is strict. Service animals ride free everywhere, leashed, no carrier needed, anytime. For Acela trips out of South Station, only small dogs in carriers under 20 lb / 9 kg are accepted for $26 per trip, advance booking required. For door-to-door with a larger dog, Uber Pet and Lyft Pet cover the entire metro area with no size limit for $3-5 over the standard fare; the Charles River Esplanade and the Harborwalk also let you walk most downtown routes with a leashed dog without taking transit at all."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre un grand chien dans les transports publics à Boston ?",
+          "a": "En partie. Le T MBTA accepte les chiens non d'assistance plus grands hors pointe (après 9h et avant 16h en semaine, toute la journée le week-end) à la discrétion du conducteur, en laisse - c'est inhabituel pour un système de transport américain et un vrai plus à Boston. En pointe, la règle du sac est stricte. Les chiens d'assistance voyagent gratuitement partout, en laisse, sans sac, à toute heure. Pour les trajets Acela au départ de South Station, seuls les petits chiens en sac de moins de 9 kg sont acceptés moyennant 26 $ par trajet, réservation à l'avance obligatoire. Pour du porte-à-porte avec un plus grand chien, Uber Pet et Lyft Pet couvrent toute la métropole sans limite de taille moyennant 3 à 5 $ de supplément ; la Charles River Esplanade et le Harborwalk permettent aussi de parcourir la plupart des trajets du centre avec un chien en laisse sans prendre les transports."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar un perro grande en el transporte público de Boston?",
+          "a": "En parte. El T MBTA admite perros más grandes no de servicio fuera de horas punta (después de las 09:00 y antes de las 16:00 entre semana, todo el día los fines de semana) a discreción del operador, con correa - es inusual para un sistema de transporte de EE. UU. y un plus real en Boston. En hora punta la regla del transportín es estricta. Los perros de servicio viajan gratis en todas partes, con correa, sin transportín, a cualquier hora. Para viajes en Acela desde South Station, solo se admiten perros pequeños en transportín de menos de 9 kg por 26 $ por viaje, reserva previa obligatoria. Para puerta a puerta con un perro mayor, Uber Pet y Lyft Pet cubren toda el área metropolitana sin límite de tamaño por 3-5 $ sobre la tarifa estándar; la Charles River Esplanade y el Harborwalk también permiten recorrer la mayoría de las rutas del centro con un perro con correa sin usar el transporte."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar um cão grande no transporte público de Boston?",
+          "a": "Em parte. O T MBTA aceita cães maiores que não sejam de serviço fora das horas de ponta (depois das 09:00 e antes das 16:00 nos dias úteis, todo o dia ao fim-de-semana) à discrição do operador, com trela - é invulgar para um sistema de transporte dos EUA e uma vantagem real em Boston. Em hora de ponta a regra da transportadora é estrita. Os cães de serviço viajam grátis em todo o lado, com trela, sem transportadora, a qualquer hora. Para viagens de Acela a partir de South Station, só são aceites cães pequenos em transportadora de menos de 9 kg por 26 $ por viagem, marcação prévia obrigatória. Para porta-a-porta com um cão maior, Uber Pet e Lyft Pet cobrem toda a área metropolitana sem limite de tamanho por 3-5 $ sobre a tarifa padrão; a Charles River Esplanade e o Harborwalk também permitem percorrer a maioria dos trajetos do centro com um cão com trela sem usar o transporte."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Boston",
+      "titleFr": "Plages acceptant les chiens à Boston",
+      "titleEs": "Playas que admiten perros en Boston",
+      "titlePt": "Praias que admitem cães em Boston",
+      "introEn": "Boston has 80 km of harbour shoreline and a string of public beaches managed by the Department of Conservation and Recreation (DCR). The DCR rule is consistent: dogs are banned from beaches during the swim season (April 1 to September 30) but are welcome leashed (and off-leash on many) from October 1 to March 31. Castle Island/Pleasure Bay in South Boston is the off-season classic with a 4 km flat seawall loop; Constitution Beach in East Boston (under the Logan flight path) and Revere Beach (the country's first public beach, 1896) are leashed off-season. The only year-round off-leash dog beach in Greater Boston is Crane Beach (Ipswich, 50 minutes north) which has dedicated dog hours October-March. Atlantic water is cold (4-20 °C peaking in August); the protected Boston Harbor coves are the calmest dog swims.",
+      "introFr": "Boston compte 80 km de rives portuaires et un chapelet de plages publiques gérées par le Department of Conservation and Recreation (DCR). La règle DCR est constante : chiens interdits sur les plages pendant la saison de baignade (du 1er avril au 30 septembre) mais bienvenus en laisse (et sans laisse sur beaucoup) du 1er octobre au 31 mars. Castle Island/Pleasure Bay au South Boston est le classique hors saison avec sa boucle de digue plate de 4 km ; Constitution Beach à East Boston (sous le couloir d'approche de Logan) et Revere Beach (la première plage publique du pays, 1896) sont en laisse hors saison. La seule plage canine off-leash toute l'année du Grand Boston est Crane Beach (Ipswich, 50 minutes au nord) qui a des heures canines dédiées d'octobre à mars. L'eau de l'Atlantique est froide (4 à 20 °C avec pic en août) ; les criques protégées de Boston Harbor sont les baignades canines les plus calmes.",
+      "introEs": "Boston tiene 80 km de costa portuaria y una cadena de playas públicas gestionadas por el Department of Conservation and Recreation (DCR). La regla del DCR es constante: perros prohibidos en las playas durante la temporada de baño (del 1 de abril al 30 de septiembre) pero bienvenidos con correa (y sin correa en muchas) del 1 de octubre al 31 de marzo. Castle Island/Pleasure Bay en South Boston es el clásico fuera de temporada con su bucle llano de dique de 4 km; Constitution Beach en East Boston (bajo el corredor de aproximación de Logan) y Revere Beach (la primera playa pública del país, 1896) son con correa fuera de temporada. La única playa canina off-leash todo el año del Gran Boston es Crane Beach (Ipswich, 50 minutos al norte) que tiene horas caninas dedicadas de octubre a marzo. El agua del Atlántico es fría (4-20 °C con máximo en agosto); las calas protegidas del Boston Harbor son los baños caninos más tranquilos.",
+      "introPt": "Boston tem 80 km de costa portuária e um colar de praias públicas geridas pelo Department of Conservation and Recreation (DCR). A regra do DCR é constante: cães proibidos nas praias durante a época balnear (de 1 de abril a 30 de setembro) mas bem-vindos com trela (e sem trela em muitas) de 1 de outubro a 31 de março. Castle Island/Pleasure Bay no South Boston é o clássico fora de época com o seu circuito plano de paredão de 4 km; Constitution Beach em East Boston (sob o corredor de aproximação de Logan) e Revere Beach (a primeira praia pública do país, 1896) são com trela fora de época. A única praia canina off-leash todo o ano da Grande Boston é Crane Beach (Ipswich, 50 minutos a norte) que tem horas caninas dedicadas de outubro a março. A água do Atlântico é fria (4-20 °C com pico em agosto); as enseadas protegidas do Boston Harbor são os banhos caninos mais calmos.",
+      "places": [
+        {
+          "name": "Castle Island & Pleasure Bay (off-season)",
+          "distance": "15 min by car from Downtown Boston, 20 min on the MBTA Silver Line + 10 min walk",
+          "description": "Castle Island in South Boston is a peninsula crowned by Fort Independence (1851) with a 4 km flat seawall loop around Pleasure Bay, one of Boston's most beloved walks. Year-round, leashed dogs are welcome on the seawall, the fort exterior and the grass lawns; from October 1 to March 31 they are also welcome on the beach itself. The protected Pleasure Bay water is calm and the seawall faces Logan Airport runways - one of the city's signature dog-and-plane-spotting walks. Sullivan's at the entrance does fried clams and is a leashed-dog patio (off-season tables).",
+          "season": "Seawall loop and fort exterior year-round; beach itself October 1 to March 31 (leashed off-season).",
+          "rules": "Leash required year-round on the seawall and fort exterior; beach is no-dogs April 1 to September 30. Pick-up bags mandatory. The Fort Independence interior tours do not admit pets, only service animals.",
+          "facilities": "Free parking lots at Day Boulevard and at the fort, public toilets at the fort gatehouse, Sullivan's takeaway and patio, no lifeguard off-season.",
+          "googleMapsUrl": "https://maps.google.com/?q=Castle+Island+Boston",
+          "photo": "/images/city-places/boston-beaches-castle-island-pleasure-bay.jpg"
+        },
+        {
+          "name": "Revere Beach (off-season)",
+          "distance": "20 min by car from Downtown Boston, 25 min on the MBTA Blue Line to Revere Beach stop",
+          "description": "Revere Beach in Revere is the oldest public beach in the United States (designated 1896), a 5 km crescent of Atlantic sand with the famous striped art deco bath house. From October 1 to March 31, leashed dogs are welcome on the entire sand strip and the boulevard promenade. The protected south end at the Lynn Marsh is the calmest dog swim. Direct MBTA Blue Line access (Revere Beach stop is at the boulevard) makes this the easiest leashed-dog winter beach walk from a Boston hotel.",
+          "season": "October 1 to March 31 only, dawn to dusk. Leashed at all times. No dogs April 1 to September 30.",
+          "rules": "Leashed at all times; pick-up bags required. No-dogs from April 1 to September 30 inclusive, both on the sand and on the boulevard promenade boardwalk.",
+          "facilities": "Free metered parking on Revere Beach Boulevard, public toilets at the Markey footbridge, DCR water fountains in season, no lifeguard off-season.",
+          "googleMapsUrl": "https://maps.google.com/?q=Revere+Beach+Boston",
+          "photo": "/images/city-places/boston-beaches-revere-beach.jpg"
+        },
+        {
+          "name": "Crane Beach (Ipswich, year-round dog hours)",
+          "distance": "50 min by car from Downtown Boston (no MBTA access; rental car or Uber required)",
+          "description": "Crane Beach in Ipswich, 50 minutes north of Boston, is a 6 km Atlantic sand strip with dunes managed by The Trustees of Reservations, and is Greater Boston's only year-round dog-friendly beach. From October 1 to March 31, leashed dogs are welcome at all hours; April 1 to September 30 the beach is no-dogs during the day but allows leashed dogs before 09:00 only. The water is colder than Boston Harbor (Atlantic open coast) but the protected end at the Castle Hill bluff is calmer. Day-use fee applies ($30-35 per vehicle, less off-season).",
+          "season": "Year-round. Leashed all hours October 1 to March 31; leashed before 09:00 only April 1 to September 30.",
+          "rules": "Leashed at all times; pick-up bags mandatory. The Trustees enforce the 09:00 cutoff strictly in summer with a $50 fine. Day-use parking fee required.",
+          "facilities": "Paid parking lot at the gatehouse, public toilets and outdoor showers at the beachfront pavilion, snack bar in season, lifeguards in season only, dune boardwalks.",
+          "googleMapsUrl": "https://maps.google.com/?q=Crane+Beach+Ipswich+Massachusetts",
+          "photo": "/images/city-places/boston-beaches-crane-beach-ipswich.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to a Boston-area beach in July?",
+          "a": "Not the DCR beaches inside Boston. From April 1 to September 30, all DCR public beaches (Castle Island/Pleasure Bay sand, Revere Beach, Constitution Beach, Carson Beach, Wollaston Beach) are no-dogs. Out of season (October 1 to March 31) leashed dogs are welcome on the entire sand strip of those beaches. For a year-round dog beach option in July, Crane Beach (Ipswich, 50 minutes north) allows leashed dogs before 09:00 daily. The seawall loop around Castle Island/Pleasure Bay is leashed-dog accessible year-round - just not the beach sand in swim season."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien sur une plage de la région de Boston en juillet ?",
+          "a": "Pas sur les plages DCR intra-muros de Boston. Du 1er avril au 30 septembre, toutes les plages publiques DCR (sable de Castle Island/Pleasure Bay, Revere Beach, Constitution Beach, Carson Beach, Wollaston Beach) interdisent les chiens. Hors saison (1er octobre au 31 mars), les chiens en laisse sont admis sur toute la bande de sable de ces plages. Pour une option canine toute l'année en juillet, Crane Beach (Ipswich, 50 minutes au nord) accepte les chiens en laisse avant 9h tous les jours. La boucle de digue autour de Castle Island/Pleasure Bay reste accessible aux chiens en laisse toute l'année - seul le sable est interdit en saison."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a una playa del área de Boston en julio?",
+          "a": "No en las playas DCR dentro de Boston. Del 1 de abril al 30 de septiembre, todas las playas públicas DCR (arena de Castle Island/Pleasure Bay, Revere Beach, Constitution Beach, Carson Beach, Wollaston Beach) prohíben perros. Fuera de temporada (1 de octubre a 31 de marzo), los perros con correa se admiten en toda la franja de arena de esas playas. Para una opción canina todo el año en julio, Crane Beach (Ipswich, 50 minutos al norte) admite perros con correa antes de las 09:00 a diario. El bucle de dique alrededor de Castle Island/Pleasure Bay es accesible para perros con correa todo el año - solo la arena está prohibida en temporada."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão a uma praia da área de Boston em julho?",
+          "a": "Não nas praias DCR dentro de Boston. De 1 de abril a 30 de setembro, todas as praias públicas DCR (areia de Castle Island/Pleasure Bay, Revere Beach, Constitution Beach, Carson Beach, Wollaston Beach) proíbem cães. Fora de época (1 de outubro a 31 de março), os cães com trela são admitidos em toda a faixa de areia dessas praias. Para uma opção canina todo o ano em julho, Crane Beach (Ipswich, 50 minutos a norte) admite cães com trela antes das 09:00 diariamente. O circuito de paredão à volta de Castle Island/Pleasure Bay é acessível para cães com trela todo o ano - só a areia é proibida em época."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Boston",
+      "titleFr": "Vétérinaires d'urgence à Boston",
+      "titleEs": "Veterinarios de urgencias en Boston",
+      "titlePt": "Veterinários de urgência em Boston",
+      "introEn": "Boston has a strong 24/7 emergency veterinary network anchored by Angell Animal Medical Center (MSPCA-Angell) on South Huntington Avenue in Jamaica Plain, one of the largest non-academic veterinary hospitals in the US, and Boston West Veterinary Emergency & Specialty in Natick, the largest 24/7 ER serving the western suburbs. South Boston Animal Hospital on West Broadway provides convenient daytime primary care for the Seaport/South Boston hotel corridor with after-hours referrals. All accept walk-in foreign visitors with passport and credit card; expect an emergency consultation fee of $200-400 before treatment. English is universal; Spanish bilingual staff is common.",
+      "introFr": "Boston dispose d'un solide réseau d'urgences vétérinaires 24h/24 ancré par l'Angell Animal Medical Center (MSPCA-Angell) sur South Huntington Avenue à Jamaica Plain, l'un des plus grands hôpitaux vétérinaires non universitaires des États-Unis, et le Boston West Veterinary Emergency & Specialty à Natick, plus grandes urgences 24h/24 desservant la banlieue ouest. Le South Boston Animal Hospital sur West Broadway offre une médecine générale de jour pratique pour le corridor hôtelier Seaport/South Boston avec orientation hors heures. Tous acceptent les visiteurs étrangers sans rendez-vous avec passeport et carte de crédit ; prévoyez 200 à 400 $ de consultation d'urgence avant tout soin. L'anglais est universel ; personnel bilingue espagnol fréquent.",
+      "introEs": "Boston tiene una sólida red de urgencias veterinarias 24/7 anclada por el Angell Animal Medical Center (MSPCA-Angell) en South Huntington Avenue en Jamaica Plain, uno de los mayores hospitales veterinarios no universitarios de EE. UU., y el Boston West Veterinary Emergency & Specialty en Natick, las mayores urgencias 24/7 que cubren los suburbios oeste. El South Boston Animal Hospital en West Broadway aporta medicina general diurna práctica para el corredor hotelero Seaport/South Boston con derivación fuera de horas. Todos aceptan visitantes extranjeros sin cita con pasaporte y tarjeta de crédito; cuenta con 200-400 $ de consulta de urgencia antes de cualquier tratamiento. El inglés es universal; personal bilingüe español frecuente.",
+      "introPt": "Boston tem uma sólida rede de urgências veterinárias 24/7 ancorada pelo Angell Animal Medical Center (MSPCA-Angell) na South Huntington Avenue em Jamaica Plain, um dos maiores hospitais veterinários não universitários dos EUA, e pelo Boston West Veterinary Emergency & Specialty em Natick, as maiores urgências 24/7 a servir os subúrbios oeste. O South Boston Animal Hospital na West Broadway oferece medicina geral diurna prática para o corredor hoteleiro Seaport/South Boston com encaminhamento fora de horas. Todos aceitam visitantes estrangeiros sem marcação com passaporte e cartão de crédito; conte com 200-400 $ de consulta de urgência antes de qualquer tratamento. O inglês é universal; pessoal bilingue espanhol frequente.",
+      "places": [
+        {
+          "name": "Angell Animal Medical Center (MSPCA-Angell)",
+          "type": "24/7 emergency + multi-specialty referral hospital",
+          "address": "350 South Huntington Avenue, Boston, MA 02130",
+          "phone": "+1 617 522 7400",
+          "hours": "Open 24/7 every day",
+          "hoursFr": "Ouvert 24h/24, 7j/7",
+          "hoursEs": "Abierto 24/7 todos los días",
+          "hoursPt": "Aberto 24/7 todos os dias",
+          "englishSpeaking": true,
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "website": "https://www.mspca.org/angell_services/",
+          "description": "Angell Animal Medical Center (run by the MSPCA-Angell, founded 1915) on South Huntington Avenue in Jamaica Plain is one of the largest non-academic veterinary hospitals in the United States, with board-certified specialists in critical care, surgery, internal medicine, oncology, neurology, cardiology, ophthalmology and dermatology, plus full diagnostic imaging (CT and MRI) on site. Walk-in 24/7, no appointment for emergencies. Convenient from Jamaica Plain, Brookline, Back Bay, South End and Mission Hill hotels in 10-20 minutes by car.",
+          "descriptionFr": "L'Angell Animal Medical Center (géré par le MSPCA-Angell, fondé en 1915) sur South Huntington Avenue à Jamaica Plain est l'un des plus grands hôpitaux vétérinaires non universitaires des États-Unis, avec spécialistes certifiés en soins critiques, chirurgie, médecine interne, oncologie, neurologie, cardiologie, ophtalmologie et dermatologie, plus imagerie complète (scanner et IRM) sur place. Sans rendez-vous 24h/24 pour les urgences. Pratique depuis les hôtels de Jamaica Plain, Brookline, Back Bay, South End et Mission Hill en 10 à 20 minutes en voiture.",
+          "descriptionEs": "El Angell Animal Medical Center (gestionado por el MSPCA-Angell, fundado en 1915) en South Huntington Avenue en Jamaica Plain es uno de los mayores hospitales veterinarios no universitarios de Estados Unidos, con especialistas certificados en cuidados críticos, cirugía, medicina interna, oncología, neurología, cardiología, oftalmología y dermatología, además de imagen completa (TAC y RMN) en planta. Sin cita 24/7 para urgencias. Práctico desde los hoteles de Jamaica Plain, Brookline, Back Bay, South End y Mission Hill en 10-20 minutos en coche.",
+          "descriptionPt": "O Angell Animal Medical Center (gerido pelo MSPCA-Angell, fundado em 1915) na South Huntington Avenue em Jamaica Plain é um dos maiores hospitais veterinários não universitários dos Estados Unidos, com especialistas certificados em cuidados críticos, cirurgia, medicina interna, oncologia, neurologia, cardiologia, oftalmologia e dermatologia, além de imagem completa (TAC e RMN) no local. Sem marcação 24/7 para urgências. Prático a partir dos hotéis de Jamaica Plain, Brookline, Back Bay, South End e Mission Hill em 10-20 minutos de carro.",
+          "tip": "Call ahead on +1 617 522 7400 even for walk-ins; triage is by severity and they will prep a room while you drive. Free parking lot on site behind the main entrance.",
+          "tipFr": "Appelez le +1 617 522 7400 avant même de partir ; le triage est par gravité et ils préparent une salle pendant que vous roulez. Parking gratuit sur place derrière l'entrée principale.",
+          "tipEs": "Llama al +1 617 522 7400 antes incluso de salir; el triaje es por gravedad y preparan una sala mientras conduces. Parking gratuito en el sitio detrás de la entrada principal.",
+          "tipPt": "Ligue para +1 617 522 7400 antes mesmo de sair; a triagem é por gravidade e preparam uma sala enquanto conduz. Estacionamento gratuito no local atrás da entrada principal.",
+          "googleMapsUrl": "https://maps.google.com/?q=Angell+Animal+Medical+Center+350+South+Huntington+Avenue+Boston",
+          "photo": "/images/city-places/boston-vets-angell-animal-medical-center.jpg"
+        },
+        {
+          "name": "Boston West Veterinary Emergency & Specialty",
+          "type": "24/7 emergency + critical care + specialty",
+          "address": "5 Strathmore Road, Natick, MA 01760",
+          "phone": "+1 508 319 2117",
+          "hours": "Open 24/7 every day",
+          "hoursFr": "Ouvert 24h/24, 7j/7",
+          "hoursEs": "Abierto 24/7 todos los días",
+          "hoursPt": "Aberto 24/7 todos os dias",
+          "englishSpeaking": true,
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "website": "https://www.bostonwestvet.com",
+          "description": "A full-service 24/7 emergency and specialty veterinary hospital on Strathmore Road in Natick, 30 minutes west of Downtown Boston via the Mass Pike, with critical care, surgery, internal medicine, cardiology and ophthalmology specialists on staff. Open-floor-plan ER, walk-ins accepted around the clock with no appointment for emergencies. Particularly convenient from Cambridge, Brookline, Newton and the western suburbs in 15-30 minutes by car when Angell in Jamaica Plain is congested.",
+          "descriptionFr": "Un hôpital vétérinaire 24h/24 d'urgences et de spécialités complet sur Strathmore Road à Natick, à 30 minutes à l'ouest du centre de Boston via la Mass Pike, avec spécialistes en soins critiques, chirurgie, médecine interne, cardiologie et ophtalmologie sur place. Urgences ouvertes, sans rendez-vous accepté 24h/24 pour les urgences. Particulièrement pratique depuis Cambridge, Brookline, Newton et la banlieue ouest en 15 à 30 minutes en voiture quand l'Angell de Jamaica Plain est saturé.",
+          "descriptionEs": "Un hospital veterinario 24/7 de urgencias y especialidades completo en Strathmore Road en Natick, a 30 minutos al oeste del centro de Boston por la Mass Pike, con especialistas en cuidados críticos, cirugía, medicina interna, cardiología y oftalmología en plantilla. Urgencias abiertas, sin cita aceptado 24/7 para urgencias. Especialmente práctico desde Cambridge, Brookline, Newton y los suburbios oeste en 15-30 minutos en coche cuando el Angell de Jamaica Plain está saturado.",
+          "descriptionPt": "Um hospital veterinário 24/7 de urgências e especialidades completo na Strathmore Road em Natick, a 30 minutos a oeste do centro de Boston pela Mass Pike, com especialistas em cuidados críticos, cirurgia, medicina interna, cardiologia e oftalmologia em quadro. Urgências abertas, sem marcação aceite 24/7 para urgências. Particularmente prático a partir de Cambridge, Brookline, Newton e dos subúrbios oeste em 15-30 minutos de carro quando o Angell de Jamaica Plain está saturado.",
+          "tip": "Call +1 508 319 2117 on the way in so they can triage you ahead of arrival. Free parking lot on site, exit 13 from the Mass Pike (I-90).",
+          "tipFr": "Appelez le +1 508 319 2117 en chemin pour qu'ils trient avant votre arrivée. Parking gratuit sur place, sortie 13 de la Mass Pike (I-90).",
+          "tipEs": "Llama al +1 508 319 2117 de camino para que hagan triaje antes de tu llegada. Parking gratuito en el sitio, salida 13 de la Mass Pike (I-90).",
+          "tipPt": "Ligue para +1 508 319 2117 a caminho para fazerem a triagem antes da sua chegada. Estacionamento gratuito no local, saída 13 da Mass Pike (I-90).",
+          "googleMapsUrl": "https://maps.google.com/?q=Boston+West+Veterinary+Emergency+5+Strathmore+Road+Natick",
+          "photo": "/images/city-places/boston-vets-boston-west-veterinary-emergency.jpg"
+        },
+        {
+          "name": "South Boston Animal Hospital",
+          "type": "Daytime primary care + after-hours referral",
+          "address": "9 West Broadway, South Boston, MA 02127",
+          "phone": "+1 617 269 0610",
+          "hours": "Mon–Fri 08:00–18:00, Sat 09:00–16:00, closed Sun",
+          "hoursFr": "Lun–ven 8h–18h, sam 9h–16h, fermé dim",
+          "hoursEs": "Lun–vie 08:00–18:00, sáb 09:00–16:00, cerrado dom",
+          "hoursPt": "Seg–sex 08:00–18:00, sáb 09:00–16:00, fechado dom",
+          "englishSpeaking": true,
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "website": "https://southbostonanimalhospital.com",
+          "description": "A full-service primary-care veterinary clinic on West Broadway in South Boston, walking distance from the Seaport hotels and a short Silver Line ride from Downtown. Useful for non-emergency issues during the trip: vaccinations, ear infections, minor wounds, travel certificates. Same-day appointments often available; after-hours emergencies are referred to Angell Animal Medical Center or Boston West Veterinary Emergency.",
+          "descriptionFr": "Une clinique vétérinaire de médecine générale complète sur West Broadway au South Boston, à pied des hôtels du Seaport et à un court trajet Silver Line du centre. Utile pour les problèmes non urgents pendant le séjour : vaccinations, otites, petites plaies, certificats de voyage. Rendez-vous le jour même souvent disponibles ; les urgences hors heures sont orientées vers l'Angell Animal Medical Center ou Boston West Veterinary Emergency.",
+          "descriptionEs": "Una clínica veterinaria de medicina general completa en West Broadway en South Boston, a pie de los hoteles del Seaport y a un corto trayecto en Silver Line del centro. Útil para problemas no urgentes durante el viaje: vacunación, otitis, heridas leves, certificados de viaje. Cita el mismo día a menudo disponible; las urgencias fuera de horas se derivan al Angell Animal Medical Center o al Boston West Veterinary Emergency.",
+          "descriptionPt": "Uma clínica veterinária de medicina geral completa na West Broadway no South Boston, a pé dos hotéis do Seaport e a um curto trajeto de Silver Line do centro. Útil para problemas não urgentes durante a viagem: vacinação, otites, pequenas feridas, certificados de viagem. Marcação no próprio dia frequentemente disponível; as urgências fora de horas são encaminhadas para o Angell Animal Medical Center ou o Boston West Veterinary Emergency.",
+          "tip": "Call +1 617 269 0610 the morning of your visit for same-day availability; the team handles travel paperwork (USDA/APHIS export certificates) on request if you need it before flying home.",
+          "tipFr": "Appelez le +1 617 269 0610 le matin de votre visite pour la disponibilité du jour ; l'équipe prend en charge les démarches voyage (certificats USDA/APHIS) sur demande si vous en avez besoin avant le retour.",
+          "tipEs": "Llama al +1 617 269 0610 la mañana de tu visita para la disponibilidad del día; el equipo gestiona el papeleo de viaje (certificados USDA/APHIS) bajo petición si lo necesitas antes de volver.",
+          "tipPt": "Ligue para +1 617 269 0610 na manhã da sua visita para a disponibilidade do dia; a equipa trata da papelada de viagem (certificados USDA/APHIS) a pedido se precisar antes do regresso.",
+          "googleMapsUrl": "https://maps.google.com/?q=South+Boston+Animal+Hospital+9+West+Broadway+Boston",
+          "photo": "/images/city-places/boston-vets-south-boston-animal-hospital.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Will a Boston emergency vet treat my dog without prior records?",
+          "a": "Yes. Angell Animal Medical Center (MSPCA-Angell) and Boston West Veterinary Emergency & Specialty both accept walk-in foreign visitors with a credit card and your pet's basic info. Vaccination records help with intake speed but are not strictly required. Expect a $200-400 emergency-exam fee before any treatment, paid upfront. Both operate 24/7, 365 days, including weekends and holidays. For non-emergency daytime care during your stay, South Boston Animal Hospital offers same-day appointments Monday-Saturday."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Un vétérinaire d'urgence à Boston soignera-t-il mon chien sans dossier préalable ?",
+          "a": "Oui. L'Angell Animal Medical Center (MSPCA-Angell) et le Boston West Veterinary Emergency & Specialty acceptent tous deux les visiteurs étrangers sans rendez-vous avec une carte de crédit et les infos de base de votre animal. Le carnet de vaccination accélère l'admission mais n'est pas strictement exigé. Comptez 200 à 400 $ de consultation d'urgence avant tout soin, à régler d'avance. Les deux fonctionnent 24h/24, 365 jours par an, week-ends et jours fériés compris. Pour les soins non urgents en journée pendant le séjour, le South Boston Animal Hospital propose des rendez-vous le jour même du lundi au samedi."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Un veterinario de urgencias en Boston atenderá a mi perro sin historial previo?",
+          "a": "Sí. El Angell Animal Medical Center (MSPCA-Angell) y el Boston West Veterinary Emergency & Specialty aceptan a visitantes extranjeros sin cita con tarjeta de crédito y los datos básicos de tu mascota. La cartilla de vacunación agiliza el ingreso pero no es estrictamente obligatoria. Cuenta con 200-400 $ de tarifa de urgencia antes de cualquier tratamiento, a pagar por adelantado. Ambos funcionan 24/7, 365 días al año, fines de semana y festivos incluidos. Para atención no urgente diurna durante tu estancia, el South Boston Animal Hospital ofrece cita el mismo día de lunes a sábado."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Um veterinário de urgência em Boston trata o meu cão sem historial prévio?",
+          "a": "Sim. O Angell Animal Medical Center (MSPCA-Angell) e o Boston West Veterinary Emergency & Specialty aceitam visitantes estrangeiros sem marcação com cartão de crédito e os dados básicos do seu animal. A cartilha de vacinação acelera a admissão mas não é estritamente obrigatória. Conte com 200-400 $ de taxa de urgência antes de qualquer tratamento, a pagar antecipadamente. Ambos funcionam 24/7, 365 dias por ano, fins-de-semana e feriados incluídos. Para cuidados não urgentes durante o dia na sua estadia, o South Boston Animal Hospital oferece marcação no próprio dia de segunda a sábado."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Boston Pet Travel Tips",
+      "titleFr": "Conseils pratiques pour voyager à Boston avec son animal",
+      "titleEs": "Consejos para viajar a Boston con tu mascota",
+      "titlePt": "Dicas para viajar a Boston com o seu animal",
+      "introEn": "Boston is a strong shoulder-season city to travel with a pet (April-June and September-November), with the distinctive Off-Leash Hours program in 20+ public parks (Boston Common at the head), the 27 km Charles River Esplanade, the historic Freedom Trail entirely walkable on leash, free public transit for small pets in carriers (and larger dogs off-peak at the T's discretion), the Massachusetts patio law (105 CMR 590.012), CDC-approved Logan BOS for international dog arrivals, and Angell Animal Medical Center, one of the largest non-academic veterinary hospitals in the US. The main constraints are the harsh winter (December-March, often -10 to -15 °C with nor'easter snow and salted sidewalks that demand paw protection) and the strict DCR beach ban April 1-September 30.",
+      "introFr": "Boston est une ville forte en intersaison pour voyager avec un animal (avril-juin et septembre-novembre), avec le programme distinctif Off-Leash Hours dans plus de 20 parcs publics (Boston Common en tête), les 27 km de la Charles River Esplanade, le Freedom Trail historique entièrement parcourable en laisse, des transports gratuits pour les petits animaux en sac (et les plus grands hors pointe à la discrétion du T), la loi terrasse du Massachusetts (105 CMR 590.012), Logan BOS approuvé CDC pour les arrivées internationales de chiens, et l'Angell Animal Medical Center, l'un des plus grands hôpitaux vétérinaires non universitaires des États-Unis. Les contraintes principales sont l'hiver rigoureux (décembre-mars, souvent -10 à -15 °C avec tempêtes nor'easter et trottoirs salés qui imposent la protection des coussinets) et l'interdiction stricte DCR des plages du 1er avril au 30 septembre.",
+      "introEs": "Boston es una ciudad fuerte en temporada media para viajar con mascota (abril-junio y septiembre-noviembre), con el distintivo programa Off-Leash Hours en más de 20 parques públicos (Boston Common a la cabeza), los 27 km de la Charles River Esplanade, el Freedom Trail histórico totalmente recorrible con correa, transporte público gratis para mascotas pequeñas en transportín (y perros más grandes fuera de horas punta a discreción del T), la ley de terrazas de Massachusetts (105 CMR 590.012), Logan BOS aprobado por el CDC para llegadas internacionales de perros, y el Angell Animal Medical Center, uno de los mayores hospitales veterinarios no universitarios de EE. UU. Las principales limitaciones son el invierno duro (diciembre-marzo, a menudo de -10 a -15 °C con tormentas nor'easter y aceras saladas que obligan a proteger las almohadillas) y la prohibición estricta DCR de playas del 1 de abril al 30 de septiembre.",
+      "introPt": "Boston é uma cidade forte em meia época para viajar com animal (abril-junho e setembro-novembro), com o distinto programa Off-Leash Hours em mais de 20 parques públicos (Boston Common à frente), os 27 km da Charles River Esplanade, o Freedom Trail histórico totalmente percorrível com trela, transportes públicos grátis para animais pequenos em transportadora (e cães maiores fora das horas de ponta à discrição do T), a lei de esplanadas do Massachusetts (105 CMR 590.012), Logan BOS aprovado pelo CDC para chegadas internacionais de cães, e o Angell Animal Medical Center, um dos maiores hospitais veterinários não universitários dos EUA. As principais limitações são o inverno rigoroso (dezembro-março, frequentemente de -10 a -15 °C com tempestades nor'easter e passeios salgados que obrigam a proteção das almofadas) e a proibição estrita do DCR de praias de 1 de abril a 30 de setembro.",
+      "sections": [
+        {
+          "titleEn": "Entry requirements (international visitors)",
+          "titleFr": "Conditions d'entrée (visiteurs internationaux)",
+          "titleEs": "Requisitos de entrada (visitantes internacionales)",
+          "titlePt": "Requisitos de entrada (visitantes internacionais)",
+          "contentEn": "Dogs entering the US from rabies-free or low-risk countries (EU, UK, Canada) need a valid rabies vaccination, a microchip, and a CDC Dog Import Form completed online before travel (cdc.gov/importation/dogs). Rules tightened in August 2024: all dogs must arrive at one of 18 CDC-approved airports (Logan BOS is one), be at least 6 months old, and be accompanied by the CDC form receipt. Cats currently have no federal vaccination requirement on entry, though airlines often require one.",
+          "contentFr": "Les chiens entrant aux États-Unis depuis des pays sans rage ou à faible risque (UE, Royaume-Uni, Canada) doivent avoir une vaccination antirabique valide, une puce électronique et un formulaire CDC Dog Import rempli en ligne avant le voyage (cdc.gov/importation/dogs). Règles durcies en août 2024 : tous les chiens doivent arriver dans l'un des 18 aéroports approuvés par le CDC (Logan BOS en fait partie), avoir au moins 6 mois, et présenter le récépissé CDC. Les chats n'ont actuellement aucune exigence fédérale de vaccination à l'entrée, mais les compagnies aériennes en imposent souvent une.",
+          "contentEs": "Los perros que entran a EE. UU. desde países sin rabia o de bajo riesgo (UE, Reino Unido, Canadá) necesitan vacuna antirrábica vigente, microchip y el formulario CDC Dog Import cumplimentado online antes del viaje (cdc.gov/importation/dogs). Reglas endurecidas en agosto de 2024: todos los perros deben llegar a uno de los 18 aeropuertos aprobados por el CDC (Logan BOS es uno), tener al menos 6 meses y presentar el justificante del formulario CDC. Los gatos no tienen actualmente requisito federal de vacunación a la entrada, aunque las aerolíneas suelen exigir uno.",
+          "contentPt": "Os cães que entram nos EUA a partir de países sem raiva ou de baixo risco (UE, Reino Unido, Canadá) precisam de vacina antirrábica válida, microchip e o formulário CDC Dog Import preenchido online antes da viagem (cdc.gov/importation/dogs). Regras endurecidas em agosto de 2024: todos os cães devem chegar a um dos 18 aeroportos aprovados pelo CDC (Logan BOS é um), ter pelo menos 6 meses e apresentar o comprovativo do formulário CDC. Os gatos não têm atualmente requisito federal de vacinação à entrada, embora as companhias aéreas costumem exigir uma."
+        },
+        {
+          "titleEn": "Nor'easters, hot humid summers and paw protection",
+          "titleFr": "Tempêtes nor'easter, étés chauds et humides, et protection des coussinets",
+          "titleEs": "Tormentas nor'easter, veranos cálidos y húmedos y protección de almohadillas",
+          "titlePt": "Tempestades nor'easter, verões quentes e húmidos e proteção das almofadas",
+          "contentEn": "Boston winters (December-March) regularly drop to -10 to -15 °C with nor'easter blizzards depositing 30-50 cm of snow at a time, and the city salts pavements heavily; paw protection (boots or paw balm) is genuinely needed and walks should be kept short during storms. Summers (June-August) are hot and humid, often 25-32 °C with high dew points; avoid mid-day pavement (use the Esplanade grass or the Boston Common shade) and bring water. The Atlantic breeze can drop temperatures 5-8 °C from inland to waterfront on summer afternoons, which is a real plus for dogs.",
+          "contentFr": "Les hivers de Boston (décembre-mars) descendent régulièrement à -10 à -15 °C avec des blizzards nor'easter qui déposent 30 à 50 cm de neige d'un coup, et la ville sale beaucoup les trottoirs ; la protection des coussinets (bottes ou baume) est réellement nécessaire et les sorties doivent rester courtes pendant les tempêtes. Les étés (juin-août) sont chauds et humides, souvent 25 à 32 °C avec point de rosée élevé ; évitez le bitume en pleine journée (passez par l'herbe de l'Esplanade ou l'ombre de Boston Common) et emportez de l'eau. La brise atlantique peut faire baisser la température de 5 à 8 °C entre l'intérieur et le bord de mer l'après-midi en été, un vrai plus pour les chiens.",
+          "contentEs": "Los inviernos de Boston (diciembre-marzo) bajan habitualmente a -10 a -15 °C con ventiscas nor'easter que depositan 30-50 cm de nieve de golpe, y la ciudad echa mucha sal en las aceras; la protección de almohadillas (botas o bálsamo) es realmente necesaria y los paseos deben ser cortos durante las tormentas. Los veranos (junio-agosto) son cálidos y húmedos, a menudo 25-32 °C con punto de rocío alto; evita el asfalto a mediodía (usa el césped de la Esplanade o la sombra de Boston Common) y lleva agua. La brisa atlántica puede bajar la temperatura 5-8 °C del interior al frente marítimo en las tardes de verano, un plus real para los perros.",
+          "contentPt": "Os invernos de Boston (dezembro-março) descem regularmente a -10 a -15 °C com ventos nor'easter que depositam 30-50 cm de neve de uma vez, e a cidade espalha muito sal nos passeios; a proteção das almofadas (botas ou bálsamo) é realmente necessária e os passeios devem ser curtos durante as tempestades. Os verões (junho-agosto) são quentes e húmidos, frequentemente 25-32 °C com ponto de orvalho alto; evite o asfalto ao meio-dia (use a relva da Esplanade ou a sombra de Boston Common) e leve água. A brisa atlântica pode baixar a temperatura 5-8 °C do interior à beira-mar nas tardes de verão, uma vantagem real para os cães."
+        },
+        {
+          "titleEn": "Leash, waste, OLH rules and T carrier policy",
+          "titleFr": "Règles de laisse, déjections, OLH et politique de sac sur le T",
+          "titleEs": "Reglas de correa, excrementos, OLH y política de transportín en el T",
+          "titlePt": "Regras de trela, dejetos, OLH e política de transportadora no T",
+          "contentEn": "Boston City Ordinance 16-1.10 requires dogs on a leash no longer than 7 feet on all public streets, sidewalks and parks except inside Peters Park (the only fenced off-leash dog park) and during the Off-Leash Hours (OLH) at participating parks (sunrise to 09:00 and sunset to sunrise). Owners must pick up waste (fine starts at $50). Massachusetts has no statewide breed-specific legislation, and a 2012 state law actually prohibits BSL at the municipal level, but individual buildings, hotels and condo associations may apply their own restrictions. On the MBTA T, the carrier rule is strict at peak; off-peak larger dogs are admitted at the operator's discretion. The Massachusetts patio law (105 CMR 590.012) only applies to restaurants that opt in - look for a posted notice or ask the host.",
+          "contentFr": "Le Boston City Ordinance 16-1.10 impose une laisse d'au maximum 2,10 m sur toutes les rues, trottoirs et parcs publics, sauf à Peters Park (seul parc canin clôturé) et pendant les Off-Leash Hours (OLH) dans les parcs participants (du lever du soleil à 9h et du coucher au lever du soleil). Le ramassage des déjections est obligatoire (amende dès 50 $). Le Massachusetts n'a pas de législation de race au niveau de l'État, et une loi de 2012 interdit même la BSL au niveau municipal, mais les immeubles, hôtels et copropriétés peuvent appliquer leurs propres restrictions. Sur le T MBTA, la règle du sac est stricte en pointe ; hors pointe, les chiens plus grands sont admis à la discrétion du conducteur. La loi terrasse du Massachusetts (105 CMR 590.012) ne s'applique qu'aux restaurants qui adhèrent - cherchez un avis affiché ou demandez à l'hôte.",
+          "contentEs": "El Boston City Ordinance 16-1.10 exige correa de máximo 2,10 m en todas las calles, aceras y parques públicos salvo en Peters Park (único parque canino vallado) y durante las Off-Leash Hours (OLH) en los parques participantes (del amanecer a las 09:00 y de la puesta al amanecer). Recoger los excrementos es obligatorio (multa desde 50 $). Massachusetts no tiene legislación de raza a nivel estatal, y una ley de 2012 incluso prohíbe la BSL a nivel municipal, pero los edificios, hoteles y comunidades de propietarios pueden aplicar sus propias restricciones. En el T MBTA, la regla del transportín es estricta en hora punta; fuera de horas punta los perros más grandes se admiten a discreción del operador. La ley de terrazas de Massachusetts (105 CMR 590.012) solo se aplica a los restaurantes que se adhieren - busca un aviso colocado o pregunta al recepcionista.",
+          "contentPt": "O Boston City Ordinance 16-1.10 exige trela de no máximo 2,10 m em todas as ruas, passeios e parques públicos exceto em Peters Park (único parque canino vedado) e durante as Off-Leash Hours (OLH) nos parques participantes (do nascer do sol às 09:00 e do pôr do sol ao nascer). Apanhar os dejetos é obrigatório (multa a partir de 50 $). O Massachusetts não tem legislação de raça ao nível do estado, e uma lei de 2012 chega a proibir a BSL ao nível municipal, mas os edifícios, hotéis e condomínios podem aplicar as suas próprias restrições. No T MBTA, a regra da transportadora é estrita em hora de ponta; fora das horas de ponta os cães maiores são aceites à discrição do operador. A lei de esplanadas do Massachusetts (105 CMR 590.012) só se aplica aos restaurantes que aderem - procure um aviso afixado ou pergunte ao recepcionista."
+        }
+      ],
+      "places": [],
+      "tipsEn": [],
+      "tipsFr": [],
+      "tipsEs": [],
+      "tipsPt": [],
+      "faqsEn": [
+        {
+          "q": "Is Boston a good destination with a dog?",
+          "a": "Yes, especially April-June and September-November, and tougher in winter and at the peak of summer humidity. Shoulder-season strengths: the unique Off-Leash Hours program in 20+ public parks (Boston Common at the head), the 27 km flat Charles River Esplanade, the entire Freedom Trail walkable on leash, the Massachusetts patio law (105 CMR 590.012) for restaurant dining, CDC-approved Logan BOS for international dog arrivals, larger dogs admitted off-peak on the MBTA T at the operator's discretion (rare in the US), and Angell Animal Medical Center, one of the largest non-academic veterinary hospitals in the US. Winter constraints: -10 to -15 °C nor'easter blizzards December-March with heavy pavement salt that demand paw protection."
+        },
+        {
+          "q": "Are Boston hotels really pet-friendly or just tolerant?",
+          "a": "Several Boston brands actively welcome pets with beds, bowls, treats and concierge dog services: the entire Kimpton portfolio (Nine Zero, Onyx, Marlowe in Cambridge), the Liberty Hotel (the former Charles Street Jail), the Loews Boston, the Fairmont Copley Plaza (with its resident canine ambassador), the W Boston and the Verb Hotel in Fenway. Most charge no pet fee or $50-100 per stay. Mid-range and budget hotels are more variable. Confirm policy on the hotel's own website; OTA listings are often out of date."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Boston est-elle une bonne destination avec un chien ?",
+          "a": "Oui, surtout d'avril à juin et de septembre à novembre, plus dur en hiver et au pic de l'humidité estivale. Atouts en intersaison : le programme unique Off-Leash Hours dans plus de 20 parcs publics (Boston Common en tête), les 27 km plats de la Charles River Esplanade, tout le Freedom Trail parcourable en laisse, la loi terrasse du Massachusetts (105 CMR 590.012) pour le restaurant, Logan BOS approuvé CDC pour les arrivées internationales de chiens, les chiens plus grands admis hors pointe sur le T MBTA à la discrétion du conducteur (rare aux États-Unis), et l'Angell Animal Medical Center, l'un des plus grands hôpitaux vétérinaires non universitaires des États-Unis. Contraintes hivernales : -10 à -15 °C avec blizzards nor'easter de décembre à mars et sel abondant qui imposent la protection des coussinets."
+        },
+        {
+          "q": "Les hôtels de Boston sont-ils vraiment dog-friendly ou simplement tolérants ?",
+          "a": "Plusieurs enseignes de Boston accueillent activement les animaux avec lits, gamelles, friandises et services de concierge canin : tout le portefeuille Kimpton (Nine Zero, Onyx, Marlowe à Cambridge), le Liberty Hotel (ancien Charles Street Jail), le Loews Boston, le Fairmont Copley Plaza (avec son ambassadeur canin résident), le W Boston et le Verb Hotel à Fenway. La plupart ne facturent aucun frais animal ou 50 à 100 $ par séjour. Les hôtels milieu de gamme et budget sont plus variables. Vérifiez la politique sur le site officiel de l'hôtel ; les fiches OTA sont souvent obsolètes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Boston un buen destino con perro?",
+          "a": "Sí, sobre todo de abril a junio y de septiembre a noviembre, más duro en invierno y en el pico de humedad estival. Puntos fuertes de temporada media: el programa único Off-Leash Hours en más de 20 parques públicos (Boston Common a la cabeza), los 27 km llanos de la Charles River Esplanade, todo el Freedom Trail recorrible con correa, la ley de terrazas de Massachusetts (105 CMR 590.012) para el restaurante, Logan BOS aprobado por el CDC para llegadas internacionales de perros, los perros más grandes admitidos fuera de horas punta en el T MBTA a discreción del operador (raro en EE. UU.), y el Angell Animal Medical Center, uno de los mayores hospitales veterinarios no universitarios de EE. UU. Limitaciones invernales: -10 a -15 °C con ventiscas nor'easter de diciembre a marzo y mucha sal en aceras que obligan a proteger las almohadillas."
+        },
+        {
+          "q": "¿Los hoteles de Boston son realmente pet-friendly o solo tolerantes?",
+          "a": "Varias enseñas de Boston acogen activamente a las mascotas con camas, cuencos, golosinas y servicios de conserjería canina: toda la cartera Kimpton (Nine Zero, Onyx, Marlowe en Cambridge), el Liberty Hotel (antigua Charles Street Jail), el Loews Boston, el Fairmont Copley Plaza (con su embajador canino residente), el W Boston y el Verb Hotel en Fenway. La mayoría no cobra ningún suplemento por mascota o cobra 50-100 $ por estancia. Los hoteles de gama media y económicos son más variables. Confirma la política en la web oficial del hotel; las fichas de OTA suelen estar desactualizadas."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Boston é um bom destino com cão?",
+          "a": "Sim, sobretudo de abril a junho e de setembro a novembro, mais difícil no inverno e no pico da humidade estival. Pontos fortes de meia época: o programa único Off-Leash Hours em mais de 20 parques públicos (Boston Common à frente), os 27 km planos da Charles River Esplanade, todo o Freedom Trail percorrível com trela, a lei de esplanadas do Massachusetts (105 CMR 590.012) para o restaurante, Logan BOS aprovado pelo CDC para chegadas internacionais de cães, os cães maiores aceites fora das horas de ponta no T MBTA à discrição do operador (raro nos EUA), e o Angell Animal Medical Center, um dos maiores hospitais veterinários não universitários dos EUA. Limitações invernais: -10 a -15 °C com tempestades nor'easter de dezembro a março e muito sal nos passeios que obrigam a proteger as almofadas."
+        },
+        {
+          "q": "Os hotéis de Boston são realmente pet-friendly ou apenas tolerantes?",
+          "a": "Várias marcas de Boston acolhem ativamente os animais com camas, tigelas, guloseimas e serviços de concierge canino: todo o portefólio Kimpton (Nine Zero, Onyx, Marlowe em Cambridge), o Liberty Hotel (antiga Charles Street Jail), o Loews Boston, o Fairmont Copley Plaza (com o seu embaixador canino residente), o W Boston e o Verb Hotel em Fenway. A maioria não cobra qualquer suplemento por animal ou cobra 50-100 $ por estadia. Os hotéis de gama média e económicos são mais variáveis. Confirme a política no site oficial do hotel; as fichas dos OTA costumam estar desatualizadas."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Boston",
+      "titleFr": "Sites touristiques acceptant les chiens à Boston",
+      "titleEs": "Atracciones que admiten perros en Boston",
+      "titlePt": "Atrações que admitem cães em Boston",
+      "introEn": "Most Boston indoor museums (Museum of Fine Arts, Isabella Stewart Gardner, MIT Museum, Harvard Art Museums, the New England Aquarium) do not admit pets except service animals, and Fenway Park and the TD Garden are service-animals-only inside. But many of the city's signature outdoor experiences welcome leashed dogs: the entire 4 km Freedom Trail from Boston Common to the USS Constitution in the Charlestown Navy Yard, the Charles River Esplanade and Harborwalk, Faneuil Hall Marketplace and Quincy Market's outdoor plaza, the Arnold Arboretum (Harvard's free 110-hectare living tree museum in Jamaica Plain), and the Bunker Hill Monument grounds in Charlestown.",
+      "introFr": "La plupart des musées intérieurs de Boston (Museum of Fine Arts, Isabella Stewart Gardner, MIT Museum, Harvard Art Museums, New England Aquarium) refusent les animaux hors chiens d'assistance, et le Fenway Park et le TD Garden sont réservés aux chiens d'assistance à l'intérieur. Mais beaucoup des grandes expériences extérieures sont accessibles aux chiens en laisse : les 4 km complets du Freedom Trail depuis Boston Common jusqu'à l'USS Constitution au Charlestown Navy Yard, la Charles River Esplanade et le Harborwalk, la place extérieure du Faneuil Hall Marketplace et du Quincy Market, l'Arnold Arboretum (musée vivant d'arbres de 110 hectares géré gratuitement par Harvard à Jamaica Plain), et l'esplanade du Bunker Hill Monument à Charlestown.",
+      "introEs": "La mayoría de museos interiores de Boston (Museum of Fine Arts, Isabella Stewart Gardner, MIT Museum, Harvard Art Museums, New England Aquarium) no admiten mascotas salvo perros de servicio, y Fenway Park y el TD Garden son solo para perros de servicio en el interior. Pero muchas de las grandes experiencias exteriores admiten perros con correa: los 4 km completos del Freedom Trail desde Boston Common hasta el USS Constitution en el Charlestown Navy Yard, la Charles River Esplanade y el Harborwalk, la plaza exterior del Faneuil Hall Marketplace y del Quincy Market, el Arnold Arboretum (museo vivo de árboles de 110 hectáreas gestionado gratis por Harvard en Jamaica Plain), y la explanada del Bunker Hill Monument en Charlestown.",
+      "introPt": "A maioria dos museus interiores de Boston (Museum of Fine Arts, Isabella Stewart Gardner, MIT Museum, Harvard Art Museums, New England Aquarium) não admite animais exceto cães de serviço, e o Fenway Park e o TD Garden são só para cães de serviço no interior. Mas muitas das grandes experiências exteriores admitem cães com trela: os 4 km completos do Freedom Trail desde Boston Common até ao USS Constitution no Charlestown Navy Yard, a Charles River Esplanade e o Harborwalk, a praça exterior do Faneuil Hall Marketplace e do Quincy Market, o Arnold Arboretum (museu vivo de árvores de 110 hectares gerido gratuitamente por Harvard em Jamaica Plain), e a esplanada do Bunker Hill Monument em Charlestown.",
+      "places": [
+        {
+          "name": "Freedom Trail (full 4 km, Boston Common to USS Constitution)",
+          "neighborhood": "Downtown / North End / Charlestown",
+          "photo": "/images/city-places/boston-attractions-freedom-trail.jpg",
+          "website": "https://www.thefreedomtrail.org",
+          "description": "Boston's signature 4 km red-brick line painted on the sidewalk links 16 American Revolution sites from Boston Common to the USS Constitution in the Charlestown Navy Yard, crossing the Granary Burying Ground, the Old State House, Faneuil Hall, the Paul Revere House (exterior), the Old North Church (exterior), Copp's Hill Burying Ground and the Bunker Hill Monument. The entire outdoor trail is leashed-dog accessible free of charge; the interior of the historic buildings, the Constitution Museum and the ship itself are service-animals-only. One of the world's great walkable history routes for a leashed dog.",
+          "descriptionFr": "La ligne signature de 4 km en briques rouges peinte sur le trottoir relie 16 sites de la Révolution américaine depuis Boston Common jusqu'à l'USS Constitution au Charlestown Navy Yard, en traversant le Granary Burying Ground, l'Old State House, Faneuil Hall, la Paul Revere House (extérieur), l'Old North Church (extérieur), le Copp's Hill Burying Ground et le Bunker Hill Monument. Tout le parcours extérieur est accessible aux chiens en laisse gratuitement ; l'intérieur des bâtiments historiques, le Constitution Museum et le navire lui-même sont réservés aux chiens d'assistance. L'un des grands itinéraires historiques piétons du monde pour un chien en laisse.",
+          "descriptionEs": "La línea emblemática de 4 km de ladrillo rojo pintada en la acera enlaza 16 sitios de la Revolución Americana desde Boston Common hasta el USS Constitution en el Charlestown Navy Yard, atravesando el Granary Burying Ground, la Old State House, Faneuil Hall, la Paul Revere House (exterior), la Old North Church (exterior), el Copp's Hill Burying Ground y el Bunker Hill Monument. Todo el recorrido exterior es accesible para perros con correa gratis; el interior de los edificios históricos, el Constitution Museum y el propio barco son solo para perros de servicio. Una de las grandes rutas históricas peatonales del mundo para un perro con correa.",
+          "descriptionPt": "A linha emblemática de 4 km em tijolo vermelho pintada no passeio liga 16 sítios da Revolução Americana desde Boston Common até ao USS Constitution no Charlestown Navy Yard, atravessando o Granary Burying Ground, a Old State House, Faneuil Hall, a Paul Revere House (exterior), a Old North Church (exterior), o Copp's Hill Burying Ground e o Bunker Hill Monument. Todo o percurso exterior é acessível para cães com trela grátis; o interior dos edifícios históricos, o Constitution Museum e o próprio navio são só para cães de serviço. Uma das grandes rotas históricas pedonais do mundo para um cão com trela.",
+          "dogPolicy": "Leashed dogs welcome free of charge along the entire 4 km outdoor trail. Service animals welcome inside historic buildings; all other dogs must stay outside.",
+          "dogPolicyFr": "Chiens en laisse admis gratuitement sur tout le parcours extérieur de 4 km. Chiens d'assistance admis à l'intérieur des bâtiments historiques ; tous les autres chiens doivent rester dehors.",
+          "dogPolicyEs": "Perros con correa admitidos gratis en todo el recorrido exterior de 4 km. Perros de servicio admitidos dentro de los edificios históricos; el resto de perros debe quedarse fuera.",
+          "dogPolicyPt": "Cães com trela admitidos grátis em todo o percurso exterior de 4 km. Cães de serviço admitidos dentro dos edifícios históricos; os restantes cães têm de ficar fora.",
+          "admissionFee": "Free (self-guided)",
+          "admissionFeeFr": "Gratuit (en autonomie)",
+          "admissionFeeEs": "Gratis (autoguiado)",
+          "admissionFeePt": "Grátis (autoguiado)",
+          "tip": "Start at Boston Common Visitor Center (Park Street T) at sunrise for an empty trail; the full 4 km takes 2-3 hours at a dog pace. Cross the Charlestown Bridge for the dramatic harbour view of the USS Constitution's masts.",
+          "tipFr": "Commencez au Boston Common Visitor Center (T Park Street) au lever du soleil pour un parcours vide ; les 4 km complets prennent 2 à 3h au rythme du chien. Traversez le Charlestown Bridge pour la vue spectaculaire sur le port et les mâts de l'USS Constitution.",
+          "tipEs": "Empieza en el Boston Common Visitor Center (T Park Street) al amanecer para un recorrido vacío; los 4 km completos llevan 2-3 horas al ritmo del perro. Cruza el Charlestown Bridge para la vista espectacular del puerto y los mástiles del USS Constitution.",
+          "tipPt": "Comece no Boston Common Visitor Center (T Park Street) ao nascer do sol para um percurso vazio; os 4 km completos levam 2-3 horas ao ritmo do cão. Atravesse a Charlestown Bridge para a vista espetacular do porto e dos mastros do USS Constitution.",
+          "googleMapsUrl": "https://maps.google.com/?q=Freedom+Trail+Boston"
+        },
+        {
+          "name": "Arnold Arboretum (Harvard, Jamaica Plain)",
+          "neighborhood": "Jamaica Plain",
+          "photo": "/images/city-places/boston-attractions-arnold-arboretum.jpg",
+          "website": "https://www.arboretum.harvard.edu",
+          "description": "Harvard's Arnold Arboretum is a free 110-hectare living museum of trees on Arborway in Jamaica Plain, founded in 1872 as part of Frederick Law Olmsted's Emerald Necklace, the world's oldest public arboretum. Leashed dogs are welcome free of charge on all paved paths and lawns; the famous Lilac Sunday in May (the only day the lilacs all bloom together) is one of the best dog photo days in Boston. Walking distance from the Forest Hills Orange Line T stop and from the Angell Animal Medical Center.",
+          "descriptionFr": "L'Arnold Arboretum de Harvard est un musée vivant gratuit d'arbres de 110 hectares sur l'Arborway à Jamaica Plain, fondé en 1872 comme partie de l'Emerald Necklace de Frederick Law Olmsted, le plus ancien arboretum public au monde. Chiens en laisse admis gratuitement sur toutes les allées goudronnées et les pelouses ; le célèbre Lilac Sunday de mai (seul jour où les lilas fleurissent tous ensemble) est l'un des meilleurs jours photo canine à Boston. À pied de l'arrêt Forest Hills Orange Line et de l'Angell Animal Medical Center.",
+          "descriptionEs": "El Arnold Arboretum de Harvard es un museo vivo gratuito de árboles de 110 hectáreas en Arborway en Jamaica Plain, fundado en 1872 como parte del Emerald Necklace de Frederick Law Olmsted, el arboreto público más antiguo del mundo. Perros con correa admitidos gratis en todos los paseos asfaltados y los céspedes; el famoso Lilac Sunday de mayo (único día en que florecen todos los lilos a la vez) es uno de los mejores días foto canina en Boston. A pie de la parada Forest Hills Orange Line y del Angell Animal Medical Center.",
+          "descriptionPt": "O Arnold Arboretum de Harvard é um museu vivo gratuito de árvores de 110 hectares na Arborway em Jamaica Plain, fundado em 1872 como parte do Emerald Necklace de Frederick Law Olmsted, o mais antigo arboreto público do mundo. Cães com trela admitidos grátis em todos os passeios asfaltados e relvados; o famoso Lilac Sunday de maio (único dia em que florescem todos os lilases ao mesmo tempo) é um dos melhores dias para fotografia canina em Boston. A pé da paragem Forest Hills Orange Line e do Angell Animal Medical Center.",
+          "dogPolicy": "Leashed dogs welcome free of charge on all paved paths and lawns. Service animals welcome anywhere.",
+          "dogPolicyFr": "Chiens en laisse admis gratuitement sur toutes les allées goudronnées et les pelouses. Chiens d'assistance bienvenus partout.",
+          "dogPolicyEs": "Perros con correa admitidos gratis en todos los paseos asfaltados y los céspedes. Perros de servicio bienvenidos en cualquier zona.",
+          "dogPolicyPt": "Cães com trela admitidos grátis em todos os passeios asfaltados e relvados. Cães de serviço bem-vindos em qualquer zona.",
+          "admissionFee": "Free (open dawn to dusk year-round)",
+          "admissionFeeFr": "Gratuit (ouvert de l'aube à la tombée du jour toute l'année)",
+          "admissionFeeEs": "Gratis (abierto del alba al ocaso todo el año)",
+          "admissionFeePt": "Grátis (aberto do amanhecer ao anoitecer todo o ano)",
+          "tip": "Park at the Arborway Gate (free) and take the Meadow Road loop (3 km) for the easiest dog circuit; the Peters Hill summit gives a Boston skyline panorama. Avoid Lilac Sunday with a reactive dog - it is the busiest day of the year.",
+          "tipFr": "Stationnez à l'Arborway Gate (gratuit) et prenez la boucle Meadow Road (3 km) pour le circuit canin le plus facile ; le sommet de Peters Hill offre un panorama sur la skyline de Boston. Évitez le Lilac Sunday avec un chien réactif - c'est le jour le plus fréquenté de l'année.",
+          "tipEs": "Aparca en el Arborway Gate (gratis) y toma el bucle Meadow Road (3 km) para el circuito canino más fácil; la cima de Peters Hill da un panorama del horizonte de Boston. Evita el Lilac Sunday con un perro reactivo - es el día más concurrido del año.",
+          "tipPt": "Estacione no Arborway Gate (grátis) e faça o circuito Meadow Road (3 km) para o circuito canino mais fácil; o cume de Peters Hill dá um panorama do skyline de Boston. Evite o Lilac Sunday com um cão reativo - é o dia mais movimentado do ano.",
+          "googleMapsUrl": "https://maps.google.com/?q=Arnold+Arboretum+Boston"
+        },
+        {
+          "name": "Faneuil Hall Marketplace & Quincy Market plaza",
+          "neighborhood": "Downtown / Government Center",
+          "photo": "/images/city-places/boston-attractions-faneuil-hall-quincy-market.jpg",
+          "website": "https://faneuilhallmarketplace.com",
+          "description": "Faneuil Hall (1742, 'Cradle of Liberty') and the adjacent Quincy Market (1826) anchor a pedestrian plaza of street performers, food vendors and outdoor seating between Government Center and the North End. Leashed dogs welcome free of charge across the entire outdoor plaza and the Quincy Market exterior arcade; the interior food halls and Faneuil Hall historic chamber are service-animals-only. The plaza is on the Freedom Trail and the street-performer crowd makes it one of the best Boston dog people-watching spots.",
+          "descriptionFr": "Faneuil Hall (1742, « berceau de la Liberté ») et le Quincy Market adjacent (1826) ancrent une place piétonne d'artistes de rue, de stands alimentaires et de terrasses entre Government Center et le North End. Chiens en laisse admis gratuitement sur toute la place extérieure et sous l'arcade extérieure du Quincy Market ; les halles alimentaires intérieures et la salle historique de Faneuil Hall sont réservées aux chiens d'assistance. La place est sur le Freedom Trail et la foule des artistes de rue en fait l'un des meilleurs spots canins d'observation des gens à Boston.",
+          "descriptionEs": "Faneuil Hall (1742, 'Cuna de la Libertad') y el Quincy Market adyacente (1826) anclan una plaza peatonal de artistas callejeros, puestos de comida y mesas exteriores entre Government Center y el North End. Perros con correa admitidos gratis en toda la plaza exterior y bajo la arcada exterior del Quincy Market; las salas de comidas interiores y la sala histórica de Faneuil Hall son solo para perros de servicio. La plaza está en el Freedom Trail y la multitud de artistas callejeros la hace uno de los mejores spots caninos de observación de gente en Boston.",
+          "descriptionPt": "Faneuil Hall (1742, 'Berço da Liberdade') e o Quincy Market adjacente (1826) ancoram uma praça pedonal de artistas de rua, bancas de comida e esplanadas entre Government Center e o North End. Cães com trela admitidos grátis em toda a praça exterior e sob a arcada exterior do Quincy Market; as salas de comida interiores e a sala histórica do Faneuil Hall são só para cães de serviço. A praça fica no Freedom Trail e a multidão de artistas de rua faz dela um dos melhores locais caninos de observação de pessoas em Boston.",
+          "dogPolicy": "Leashed dogs welcome free of charge across the entire outdoor plaza and Quincy Market exterior arcade. Service animals welcome inside.",
+          "dogPolicyFr": "Chiens en laisse admis gratuitement sur toute la place extérieure et l'arcade extérieure du Quincy Market. Chiens d'assistance bienvenus à l'intérieur.",
+          "dogPolicyEs": "Perros con correa admitidos gratis en toda la plaza exterior y la arcada exterior del Quincy Market. Perros de servicio bienvenidos en el interior.",
+          "dogPolicyPt": "Cães com trela admitidos grátis em toda a praça exterior e na arcada exterior do Quincy Market. Cães de serviço bem-vindos no interior.",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "admissionFeePt": "Grátis",
+          "tip": "Come 14:00-16:00 on a weekday to catch the street performers without the lunch-hour crush; the Sam Adams statue at the South Market entrance is the most photographed Boston dog photo spot after Boston Common's gold-dome view.",
+          "tipFr": "Venez de 14h à 16h en semaine pour profiter des artistes de rue sans la cohue du déjeuner ; la statue de Sam Adams à l'entrée du South Market est le spot photo canine le plus photographié de Boston après la vue dôme-doré de Boston Common.",
+          "tipEs": "Ven de 14:00 a 16:00 entre semana para disfrutar los artistas callejeros sin el lleno del almuerzo; la estatua de Sam Adams en la entrada del South Market es el spot foto canina más fotografiado de Boston después de la vista de la cúpula dorada del Boston Common.",
+          "tipPt": "Venha das 14:00 às 16:00 num dia útil para apanhar os artistas de rua sem a multidão do almoço; a estátua de Sam Adams à entrada do South Market é o local de fotografia canina mais fotografado de Boston a seguir à vista da cúpula dourada do Boston Common.",
+          "googleMapsUrl": "https://maps.google.com/?q=Faneuil+Hall+Marketplace+Boston"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog to a Red Sox game at Fenway Park or to the New England Aquarium?",
+          "a": "No. Fenway Park admits only service animals (with the exception of the annual 'Dog Day at Fenway' charity game, usually in late summer, where leashed dogs are welcomed in a specific section by ticket), and the New England Aquarium is service-animals-only. However, the streets of Fenway/Kenmore around the ballpark have many dog-welcoming patio bars on game days (Lower Depths, Cornwall's), the Harborwalk passes the Aquarium exterior with leashed dogs welcome free of charge, the Freedom Trail, Boston Common, the Arnold Arboretum and the Faneuil Hall plaza are all leashed-dog friendly free of charge."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je amener mon chien à un match des Red Sox au Fenway Park ou au New England Aquarium ?",
+          "a": "Non. Le Fenway Park n'admet que les chiens d'assistance (à l'exception du « Dog Day at Fenway » annuel de charité, en général fin d'été, où les chiens en laisse sont admis dans une section spécifique sur billet), et le New England Aquarium est réservé aux chiens d'assistance. En revanche, les rues de Fenway/Kenmore autour du stade comptent de nombreux bars-terrasse dog-friendly les jours de match (Lower Depths, Cornwall's), le Harborwalk passe devant l'extérieur de l'Aquarium avec chiens en laisse admis gratuitement, et le Freedom Trail, Boston Common, l'Arnold Arboretum et la place de Faneuil Hall accueillent gratuitement les chiens en laisse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a un partido de los Red Sox en Fenway Park o al New England Aquarium?",
+          "a": "No. El Fenway Park solo admite perros de servicio (con la excepción del 'Dog Day at Fenway' anual de caridad, normalmente a finales de verano, donde se admiten perros con correa en una sección específica con entrada), y el New England Aquarium es solo para perros de servicio. En cambio, las calles de Fenway/Kenmore alrededor del estadio tienen muchos bares con terraza pet-friendly los días de partido (Lower Depths, Cornwall's), el Harborwalk pasa por el exterior del Aquarium con perros con correa admitidos gratis, y el Freedom Trail, Boston Common, el Arnold Arboretum y la plaza de Faneuil Hall admiten perros con correa gratis."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão a um jogo dos Red Sox no Fenway Park ou ao New England Aquarium?",
+          "a": "Não. O Fenway Park só admite cães de serviço (com a exceção do 'Dog Day at Fenway' anual de caridade, normalmente no fim do verão, onde se admitem cães com trela numa secção específica com bilhete), e o New England Aquarium é só para cães de serviço. Em contrapartida, as ruas de Fenway/Kenmore à volta do estádio têm muitos bares com esplanada pet-friendly nos dias de jogo (Lower Depths, Cornwall's), o Harborwalk passa pelo exterior do Aquarium com cães com trela admitidos grátis, e o Freedom Trail, Boston Common, o Arnold Arboretum e a praça do Faneuil Hall admitem cães com trela grátis."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting and Dog-Walking in Boston",
+      "titleFr": "Pet-sitting et promeneurs de chiens à Boston",
+      "titleEs": "Cuidadores y paseadores de perros en Boston",
+      "titlePt": "Pet-sitting e passeadores de cães em Boston",
+      "introEn": "Boston has one of the deepest pools of professional dog-walkers and pet-sitters in New England. Rover and Wag dominate the on-demand app side, with thousands of sitters across the metro; rates run $20-40 per walk and $55-130 per overnight stay. Several Boston-specific premium agencies (Pet Project, City Dog Country Dog, Sniffr) offer fully insured, employee-based service for guests who prefer a vetted operator. Most sitters are bilingual English-Spanish; Portuguese-speaking sitters are common in the Cambridge/Somerville Portuguese community and East Boston.",
+      "introFr": "Boston dispose de l'un des plus grands viviers de pet-sitters et promeneurs professionnels de Nouvelle-Angleterre. Rover et Wag dominent le créneau des apps à la demande, avec des milliers de sitters dans toute la métropole ; comptez 20 à 40 $ la promenade et 55 à 130 $ la nuit. Plusieurs agences premium spécifiques à Boston (Pet Project, City Dog Country Dog, Sniffr) proposent un service entièrement assuré avec employés salariés pour les voyageurs préférant un opérateur vérifié. La plupart des sitters sont bilingues anglais-espagnol ; les sitters portugais sont fréquents dans la communauté portugaise de Cambridge/Somerville et à East Boston.",
+      "introEs": "Boston tiene uno de los viveros más amplios de paseadores y cuidadores profesionales de Nueva Inglaterra. Rover y Wag dominan el segmento de apps a demanda, con miles de cuidadores en toda la metrópoli; las tarifas van de 20 a 40 $ por paseo y de 55 a 130 $ por noche. Varias agencias premium específicas de Boston (Pet Project, City Dog Country Dog, Sniffr) ofrecen servicio totalmente asegurado con empleados en plantilla para viajeros que prefieren un operador verificado. La mayoría de cuidadores son bilingües inglés-español; los cuidadores portugueses son frecuentes en la comunidad portuguesa de Cambridge/Somerville y en East Boston.",
+      "introPt": "Boston tem um dos maiores leques de passeadores e cuidadores profissionais da Nova Inglaterra. Rover e Wag dominam o segmento de apps a pedido, com milhares de cuidadores em toda a metrópole; as tarifas vão de 20 a 40 $ por passeio e de 55 a 130 $ por noite. Várias agências premium específicas de Boston (Pet Project, City Dog Country Dog, Sniffr) oferecem serviço totalmente seguro com empregados em quadro para viajantes que preferem um operador verificado. A maioria dos cuidadores são bilingues inglês-espanhol; os cuidadores portugueses são frequentes na comunidade portuguesa de Cambridge/Somerville e em East Boston.",
+      "places": [
+        {
+          "name": "Pet Project (Boston)",
+          "website": "https://www.petprojectboston.com",
+          "description": "An employee-based Boston dog-walking and pet-sitting company, fully insured and bonded, with W-2 employees rather than gig contractors. Coverage across most downtown and inner-suburb neighbourhoods (Back Bay, South End, Beacon Hill, North End, Seaport, Jamaica Plain, Brookline, Cambridge). Particularly useful for hotel-stay clients: midday walks, drop-in visits, vacation pet-sitting, and on-call schedules during a long trip.",
+          "descriptionFr": "Une société bostonienne de promenade et de pet-sitting avec employés salariés, entièrement assurée et cautionnée, avec des W-2 plutôt que des contractuels à la tâche. Couverture sur la plupart des quartiers du centre et des banlieues intérieures (Back Bay, South End, Beacon Hill, North End, Seaport, Jamaica Plain, Brookline, Cambridge). Particulièrement utile pour les voyageurs en hôtel : promenades de midi, visites express, garde pendant les vacances et plannings à la demande sur un long séjour.",
+          "descriptionEs": "Una empresa bostoniana de paseo y cuidado con empleados en plantilla, totalmente asegurada y avalada, con W-2 y no autónomos a destajo. Cobertura en la mayoría de los barrios del centro y de los suburbios interiores (Back Bay, South End, Beacon Hill, North End, Seaport, Jamaica Plain, Brookline, Cambridge). Especialmente útil para clientes de hotel: paseos de mediodía, visitas drop-in, cuidado vacacional y horarios a demanda en un viaje largo.",
+          "descriptionPt": "Uma empresa bostoniana de passeio e cuidado com empregados em quadro, totalmente segurada e caucionada, com W-2 e não freelancers à peça. Cobertura na maioria dos bairros do centro e dos subúrbios interiores (Back Bay, South End, Beacon Hill, North End, Seaport, Jamaica Plain, Brookline, Cambridge). Particularmente útil para clientes de hotel: passeios ao meio-dia, visitas drop-in, cuidado em férias e horários a pedido numa viagem longa.",
+          "serviceType": "Dog walks, drop-in visits, vacation pet-sitting, hotel-room visits",
+          "serviceTypeFr": "Promenades, visites express, garde pendant les vacances, visites en chambre d'hôtel",
+          "serviceTypeEs": "Paseos, visitas drop-in, cuidado vacacional, visitas en habitación de hotel",
+          "serviceTypePt": "Passeios, visitas drop-in, cuidado em férias, visitas no quarto de hotel",
+          "pricePerDay": "$25-$40 per walk, $30-$45 per drop-in, $75-$110 overnight in-home sitting",
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "tip": "Book the meet-and-greet at least 48 hours before your first service so the walker has a building entry plan; the dispatcher matches a regular walker to your stay window if you book 3+ services.",
+          "tipFr": "Réservez le meet-and-greet au moins 48h avant la première prestation pour que le promeneur ait un plan d'entrée d'immeuble ; le dispatcher attribue un promeneur régulier sur votre fenêtre de séjour si vous réservez au moins 3 prestations.",
+          "tipEs": "Reserva el meet-and-greet al menos 48 h antes del primer servicio para que el paseador tenga un plan de acceso al edificio; el dispatcher asigna un paseador fijo a tu ventana de estancia si reservas 3 o más servicios.",
+          "tipPt": "Reserve o meet-and-greet pelo menos 48h antes do primeiro serviço para que o passeador tenha um plano de entrada no edifício; o dispatcher atribui um passeador fixo à sua janela de estadia se reservar 3 ou mais serviços."
+        },
+        {
+          "name": "Rover (Boston sitters)",
+          "website": "https://www.rover.com/search/?location=Boston%2C+MA",
+          "description": "Rover is the largest US peer-to-peer platform for dog walkers and pet sitters, with thousands of verified sitters across Boston and the metro. You can book hour-long walks, drop-ins, daycare or overnight boarding. Read sitter reviews carefully - quality varies; the top 5-star sitters in Back Bay, South End, Cambridge, Jamaica Plain and Somerville often book out 1-2 weeks ahead in high season (summer and the Red Sox season).",
+          "descriptionFr": "Rover est la plus grande plateforme américaine peer-to-peer de promeneurs et pet-sitters, avec des milliers de sitters vérifiés à Boston et dans la métropole. Réservez une promenade d'une heure, des visites, de la garderie ou de la pension de nuit. Lisez attentivement les avis - la qualité varie ; les meilleurs sitters 5 étoiles à Back Bay, South End, Cambridge, Jamaica Plain et Somerville sont souvent complets 1 à 2 semaines à l'avance en haute saison (été et saison des Red Sox).",
+          "descriptionEs": "Rover es la mayor plataforma peer-to-peer de EE. UU. para paseadores y cuidadores, con miles de cuidadores verificados en Boston y la metrópoli. Puedes reservar paseos de una hora, visitas, guardería diurna o pernoctación. Lee con atención las reseñas - la calidad varía; los mejores cuidadores 5 estrellas en Back Bay, South End, Cambridge, Jamaica Plain y Somerville suelen reservarse con 1-2 semanas de antelación en temporada alta (verano y temporada de los Red Sox).",
+          "descriptionPt": "Rover é a maior plataforma peer-to-peer dos EUA para passeadores e cuidadores, com milhares de cuidadores verificados em Boston e na metrópole. Pode reservar passeios de uma hora, visitas, creche ou estadia noturna. Leia com atenção as avaliações - a qualidade varia; os melhores cuidadores 5 estrelas em Back Bay, South End, Cambridge, Jamaica Plain e Somerville costumam estar reservados com 1-2 semanas de antecedência em época alta (verão e época dos Red Sox).",
+          "serviceType": "Walks, drop-ins, daycare, boarding (marketplace)",
+          "serviceTypeFr": "Promenades, visites, garderie, pension (marketplace)",
+          "serviceTypeEs": "Paseos, visitas, guardería, pernoctación (marketplace)",
+          "serviceTypePt": "Passeios, visitas, creche, estadia noturna (marketplace)",
+          "pricePerDay": "$20-$40 walk, $45-$80 daycare, $55-$130 overnight",
+          "languages": [
+            "English",
+            "Spanish",
+            "Portuguese"
+          ],
+          "tip": "Filter by 'Star Sitter' status and read at least 5 recent reviews; the Portuguese-speaking sitter pool in Cambridge/Somerville and East Boston is especially strong if you are travelling from Lisbon, Porto or Brazil.",
+          "tipFr": "Filtrez par statut « Star Sitter » et lisez au moins 5 avis récents ; le vivier de sitters portugais à Cambridge/Somerville et East Boston est particulièrement fort si vous venez de Lisbonne, Porto ou du Brésil.",
+          "tipEs": "Filtra por estatus 'Star Sitter' y lee al menos 5 reseñas recientes; el vivero de cuidadores portugueses en Cambridge/Somerville y East Boston es especialmente fuerte si vienes de Lisboa, Oporto o Brasil.",
+          "tipPt": "Filtre por estatuto 'Star Sitter' e leia pelo menos 5 avaliações recentes; o conjunto de cuidadores portugueses em Cambridge/Somerville e em East Boston é especialmente forte se vier de Lisboa, Porto ou Brasil."
+        },
+        {
+          "name": "City Dog Country Dog (Cambridge)",
+          "website": "https://www.citydogcountrydog.com",
+          "description": "A premium dog daycare and boarding facility on Hampshire Street in Cambridge, employee-based and fully insured, with structured cage-free play, climate-controlled overnight suites and a positive-reinforcement approach. Particularly useful for Boston hotel guests with larger or higher-energy dogs that need real exercise during the day while you visit indoor sites that do not admit pets.",
+          "descriptionFr": "Une garderie et pension canine premium sur Hampshire Street à Cambridge, employés salariés et entièrement assurée, avec jeu structuré sans cage, suites de nuit à climat contrôlé et approche en renforcement positif. Particulièrement utile pour les voyageurs en hôtel à Boston avec chiens plus grands ou énergiques qui ont besoin de vraie dépense en journée pendant que vous visitez des sites intérieurs sans animaux.",
+          "descriptionEs": "Una guardería y residencia canina premium en Hampshire Street en Cambridge, con empleados en plantilla y totalmente asegurada, con juego estructurado sin jaula, suites nocturnas con clima controlado y enfoque de refuerzo positivo. Especialmente útil para huéspedes de hotel en Boston con perros grandes o enérgicos que necesitan ejercicio real durante el día mientras tú visitas sitios interiores sin mascotas.",
+          "descriptionPt": "Uma creche e pensão canina premium na Hampshire Street em Cambridge, com empregados em quadro e totalmente segurada, com jogo estruturado sem jaula, suítes noturnas com clima controlado e abordagem de reforço positivo. Particularmente útil para hóspedes de hotel em Boston com cães maiores ou enérgicos que precisam de exercício real durante o dia enquanto visita sítios interiores sem animais.",
+          "serviceType": "Daycare, overnight boarding, grooming",
+          "serviceTypeFr": "Garderie, pension de nuit, toilettage",
+          "serviceTypeEs": "Guardería, pernoctación, peluquería",
+          "serviceTypePt": "Creche, estadia noturna, banhos e tosquias",
+          "pricePerDay": "$45-$70 daycare, $75-$120 overnight boarding",
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "tip": "Book daycare 24-72 hours ahead; overnight boarding fills out by Wednesday for the following weekend. Vaccinations (rabies, DHPP, Bordetella) and a free meet-and-greet evaluation required on first visit.",
+          "tipFr": "Réservez la garderie 24 à 72h à l'avance ; la pension de nuit est complète dès le mercredi pour le week-end suivant. Vaccins (rage, DHPP, Bordetella) et meet-and-greet d'évaluation gratuit requis à la première visite.",
+          "tipEs": "Reserva la guardería con 24-72 h de antelación; la pernoctación se llena el miércoles para el fin de semana siguiente. Vacunas (rabia, DHPP, Bordetella) y meet-and-greet de evaluación gratuito obligatorios en la primera visita.",
+          "tipPt": "Reserve a creche com 24 a 72h de antecedência; a estadia noturna enche à quarta para o fim-de-semana seguinte. Vacinas (raiva, DHPP, Bordetella) e meet-and-greet de avaliação gratuito obrigatórios na primeira visita."
+        }
+      ]
+    }
+  }
+}

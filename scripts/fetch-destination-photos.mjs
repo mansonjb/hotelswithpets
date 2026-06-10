@@ -199,6 +199,7 @@ const TARGETS = [
   { slug: 'sankt-polten', query: 'Sankt Polten Austria Rathausplatz Baroque Altstadt Lower Austria Traisen Klangturm panorama sunset' },
   { slug: 'san-francisco', query: 'San Francisco California Golden Gate Bridge skyline Pacific bay Crissy Field panorama sunset' },
   { slug: 'chicago', query: 'Chicago Illinois skyline Lake Michigan lakefront Cloud Gate Bean Millennium Park Riverwalk panorama sunset' },
+  { slug: 'boston', query: 'Boston Massachusetts New England historic skyline State House gold dome Beacon Hill Boston Common Public Garden swan boats Charles River Esplanade Hatch Shell Back Bay brownstones Freedom Trail red brick Faneuil Hall Quincy Market North End Old North Church Acorn Street cobblestone Harborwalk Seaport panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

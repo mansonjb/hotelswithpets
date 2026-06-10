@@ -2403,6 +2403,33 @@
     "tiqetsId": "67101"
   },
   {
+    "slug": "boston",
+    "name": "Boston",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/boston.jpg",
+    "intro": "Boston is New England's lakefront-and-harbour capital and the United States' oldest walkable city, where the distinctive Off-Leash Hours (OLH) program lets dogs run free dawn-to-09:00 in 20+ public parks (Boston Common at the head, the country's oldest public park, 1634), the 27 km Charles River Esplanade and the 4 km Freedom Trail provide the city's signature dog walking, and Peters Park in the South End is the only fully fenced off-leash dog park inside city limits. Castle Island/Pleasure Bay (off-season), the Arnold Arboretum and the Harborwalk welcome leashed dogs free of charge; the Seaport and Fort Point waterfronts run on the Massachusetts patio law (105 CMR 590.012). The MBTA T accepts small pets in carriers free and larger dogs off-peak at the operator's discretion (rare in the US); Amtrak's Acela out of South Station accepts small dogs for $26 per trip. Logan BOS is a CDC-approved international dog-arrival airport with indoor pet relief areas in every terminal. Angell Animal Medical Center in Jamaica Plain is one of the largest non-academic veterinary hospitals in the US. Mild springs and crisp autumns (April-June and September-November, 12-22 °C) are the prime dog seasons; harsh nor'easter winters (December-March, -10 to -15 °C with heavy pavement salt) demand paw protection.",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "weather": {
+      "jan": { "temp": -2, "desc": "Cold & snowy", "icon": "❄️" },
+      "feb": { "temp": -1, "desc": "Cold & windy", "icon": "❄️" },
+      "mar": { "temp": 4, "desc": "Cool & breezy", "icon": "🌤️" },
+      "apr": { "temp": 10, "desc": "Mild & showery", "icon": "🌦️" },
+      "may": { "temp": 16, "desc": "Mild & sunny", "icon": "🌤️" },
+      "jun": { "temp": 21, "desc": "Warm & humid", "icon": "☀️" },
+      "jul": { "temp": 25, "desc": "Hot & humid", "icon": "☀️" },
+      "aug": { "temp": 24, "desc": "Hot & humid", "icon": "☀️" },
+      "sep": { "temp": 20, "desc": "Warm & breezy", "icon": "🌤️" },
+      "oct": { "temp": 13, "desc": "Cool & crisp", "icon": "🍂" },
+      "nov": { "temp": 7, "desc": "Cold & windy", "icon": "🌥️" },
+      "dec": { "temp": 1, "desc": "Cold & snowy", "icon": "❄️" }
+    },
+    "iata": "BOS"
+  },
+  {
     "slug": "boulogne-sur-mer",
     "name": "Boulogne-sur-Mer",
     "country": "France",

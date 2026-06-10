@@ -862,6 +862,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Vieux Port quay and La Ponche old fishermen's district, the Citadelle esplanade with its panoramic view over the gulf, the Place des Lices market and pétanque pitch, and the Sentier du Littoral from Plage des Salins around the Cap de Saint-Tropez`,
       area: `the Vieux Port and La Ponche, the centre around Place des Lices, the Route des Plages corridor towards Pampelonne, and the Salins / Cap de Saint-Tropez eastern peninsula`,
     },
+    'san-francisco': {
+      personality: `the cool, foggy Pacific gateway to the Bay Area, with one of the densest off-leash networks in the US combining around 30 fenced Rec & Park Dog Play Areas and the federal GGNRA voice-control sections (Crissy Field East Beach with the Golden Gate Bridge view, Fort Funston bluffs and beach, Ocean Beach north of Stairwell 21)`,
+      highlight: `Crissy Field East Beach facing the Golden Gate Bridge, Fort Funston's Sunset Trail and beach, Golden Gate Park's Hellman Hollow and Speedway Meadow DPAs, and the Lands End coastal trail to the Sutro Baths ruins`,
+      area: 'the Marina and Pacific Heights for hotel patios, Hayes Valley and the Mission for dog-welcoming restaurants, the Sunset and Richmond for proximity to Golden Gate Park and Ocean Beach',
+    },
     'san-sebastian': {
       personality: 'a Basque seaside city where dogs outnumber children in some districts and beaches open to them from October to May',
       highlight: 'La Concha and Zurriola beaches (October–May), Monte Urgull\'s hill trails, and the Paseo Nuevo coastal path',
@@ -1948,6 +1953,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `une ville portuaire provençale de 4 000 habitants sur la Côte d'Azur ouest, définie par son Vieux Port en activité bordé de cafés aux stores rouges, la Citadelle du XVIᵉ siècle et l'esplanade de son musée maritime, le marché provençal de la Place des Lices ombragée de platanes le mardi et le samedi, l'étendue de 5 km de Pampelonne juste derrière la colline à Ramatuelle, et le Sentier du Littoral de 35 km tout autour de la presqu'île`,
       highlight: `le quai du Vieux Port et le quartier des pêcheurs de La Ponche, l'esplanade de la Citadelle avec sa vue panoramique sur le golfe, le marché et le terrain de pétanque de la Place des Lices, et le Sentier du Littoral depuis la Plage des Salins en contournant le Cap de Saint-Tropez`,
       area: `le Vieux Port et La Ponche, le centre autour de la Place des Lices, le corridor de la Route des Plages vers Pampelonne, et la presqu'île orientale autour des Salins et du Cap de Saint-Tropez`,
+    },
+    'san-francisco': {
+      personality: `la porte d'entrée fraîche et brumeuse du Pacifique sur la Bay Area, avec l'un des réseaux off-leash les plus denses des États-Unis combinant une trentaine de Dog Play Areas clôturées de Rec & Park et les sections sous contrôle vocal du GGNRA fédéral (East Beach de Crissy Field face au Golden Gate Bridge, falaises et plage de Fort Funston, Ocean Beach au nord de Stairwell 21)`,
+      highlight: `l'East Beach de Crissy Field face au Golden Gate Bridge, le Sunset Trail et la plage de Fort Funston, les DPA Hellman Hollow et Speedway Meadow de Golden Gate Park, et le sentier côtier de Lands End vers les ruines des Sutro Baths`,
+      area: `la Marina et Pacific Heights pour les terrasses d'hôtels, Hayes Valley et la Mission pour les restaurants dog-friendly, le Sunset et le Richmond pour la proximité de Golden Gate Park et d'Ocean Beach`,
     },
     'san-sebastian': {
       personality: 'une ville balnéaire basque où les chiens sont parfois plus nombreux que les enfants et où les plages leur ouvrent d\'octobre à mai',
@@ -3036,6 +3046,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el muelle del Puerto Viejo y el barrio de pescadores de La Ponche, la esplanada de la Ciudadela con su vista panorámica sobre el golfo, el mercado y el terreno de petanca de la Place des Lices, y el Sentier du Littoral desde la Plage des Salins rodeando el Cap de Saint-Tropez`,
       area: `el Puerto Viejo y La Ponche, el centro alrededor de la Place des Lices, el corredor de la Route des Plages hacia Pampelonne, y la península oriental alrededor de los Salins y el Cap de Saint-Tropez`,
     },
+    'san-francisco': {
+      personality: `la fresca y brumosa puerta del Pacífico a la Bay Area, con una de las redes off-leash más densas de EE. UU. que combina una treintena de Dog Play Areas valladas de Rec & Park y las secciones bajo control por voz del GGNRA federal (East Beach de Crissy Field frente al Golden Gate Bridge, acantilados y playa de Fort Funston, Ocean Beach al norte del Stairwell 21)`,
+      highlight: `el East Beach de Crissy Field frente al Golden Gate Bridge, el Sunset Trail y la playa de Fort Funston, las DPA Hellman Hollow y Speedway Meadow de Golden Gate Park, y el sendero costero de Lands End hasta las ruinas de los Sutro Baths`,
+      area: 'la Marina y Pacific Heights para las terrazas de hoteles, Hayes Valley y la Mission para los restaurantes dog-friendly, el Sunset y el Richmond por la cercanía a Golden Gate Park y Ocean Beach',
+    },
     'san-sebastian': {
       personality: 'una ciudad costera vasca donde los perros llegan a ser más numerosos que los niños en algunos barrios y cuyas playas se les abren de octubre a mayo',
       highlight: 'las playas de La Concha y Zurriola (octubre–mayo), los senderos del Monte Urgull y el Paseo Nuevo junto al mar',
@@ -4122,6 +4137,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma cidade portuária provençal de 4 000 habitantes na Côte d'Azur ocidental, definida pelo seu Porto Velho em atividade orlado por cafés com toldos vermelhos, a Cidadela do século XVI e a esplanada do seu museu marítimo, o mercado provençal da Place des Lices sombreada por plátanos às terças e sábados, a extensão de 5 km de Pampelonne mesmo atrás da colina em Ramatuelle, e o Sentier du Littoral de 35 km à volta de toda a península`,
       highlight: `o cais do Porto Velho e o bairro dos pescadores de La Ponche, a esplanada da Cidadela com a sua vista panorâmica sobre o golfo, o mercado e o terreno de pétanque da Place des Lices, e o Sentier du Littoral desde a Plage des Salins contornando o Cap de Saint-Tropez`,
       area: `o Porto Velho e La Ponche, o centro à volta da Place des Lices, o corredor da Route des Plages em direção a Pampelonne, e a península oriental em torno dos Salins e do Cap de Saint-Tropez`,
+    },
+    'san-francisco': {
+      personality: `a fresca e nevoenta porta do Pacífico para a Bay Area, com uma das redes off-leash mais densas dos EUA que combina cerca de trinta Dog Play Areas vedadas da Rec & Park e as secções sob controlo por voz do GGNRA federal (East Beach de Crissy Field em frente ao Golden Gate Bridge, falésias e praia de Fort Funston, Ocean Beach a norte do Stairwell 21)`,
+      highlight: `o East Beach de Crissy Field em frente ao Golden Gate Bridge, o Sunset Trail e a praia de Fort Funston, as DPA Hellman Hollow e Speedway Meadow do Golden Gate Park, e o trilho costeiro de Lands End até às ruínas dos Sutro Baths`,
+      area: 'a Marina e Pacific Heights para as esplanadas dos hotéis, Hayes Valley e a Mission para os restaurantes pet-friendly, o Sunset e o Richmond pela proximidade do Golden Gate Park e da Ocean Beach',
     },
     'san-sebastian': {
       personality: 'uma cidade costera vasca onde os cães llegan a ser mais numerosos que os ninhos en algunos bairros e cuyas praias se les abren de outubro a maio',

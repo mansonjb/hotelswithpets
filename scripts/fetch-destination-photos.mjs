@@ -197,6 +197,7 @@ const TARGETS = [
   { slug: 'tromso', query: 'Tromso Norway Arctic Cathedral Ishavskatedralen Tromsobrua bridge Fjellheisen cable car snowy mountains fjord panorama' },
   { slug: 'villach', query: 'Villach Austria Hauptplatz Drava river Faaker See lake Carinthia panorama sunset' },
   { slug: 'sankt-polten', query: 'Sankt Polten Austria Rathausplatz Baroque Altstadt Lower Austria Traisen Klangturm panorama sunset' },
+  { slug: 'san-francisco', query: 'San Francisco California Golden Gate Bridge skyline Pacific bay Crissy Field panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

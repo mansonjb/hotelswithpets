@@ -12446,6 +12446,33 @@
     "iata": "TLN"
   },
   {
+    "slug": "san-francisco",
+    "name": "San Francisco",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/san-francisco.jpg",
+    "intro": "San Francisco is the cool, foggy Pacific gateway to the Bay Area, where ~30 fenced Rec & Park Dog Play Areas plus the federal GGNRA off-leash sections (Crissy Field East Beach with the Golden Gate Bridge view, Fort Funston bluffs and beach, Ocean Beach north of Stairwell 21) make it one of the densest off-leash networks in the US. Golden Gate Park's Hellman Hollow and Speedway Meadow DPAs anchor the 412-hectare flagship park, Lands End coastal trail leads to the Sutro Baths ruins, and the Presidio's forest paths overlook the Bay. BART, Muni Metro/bus and cable car all accept small pets in carriers free; the Golden Gate Ferry to Sausalito takes leashed dogs free on the outer deck; SFO is a CDC-approved international dog-arrival airport with indoor pet relief areas. Three 24/7 emergency vets (SAGE Mission, SFAMC Fillmore, VEG Greenbrae) cover the metro. Cool fog summers (10-15 °C) and dry sunny fall make it walkable year-round; the only constraints are the hilly streets and the cold Pacific rip currents on the ocean side.",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "weather": {
+      "jan": { "temp": 11, "desc": "Cool & rainy", "icon": "🌧️" },
+      "feb": { "temp": 12, "desc": "Cool & rainy", "icon": "🌧️" },
+      "mar": { "temp": 13, "desc": "Mild & breezy", "icon": "⛅" },
+      "apr": { "temp": 14, "desc": "Mild & sunny", "icon": "🌤️" },
+      "may": { "temp": 15, "desc": "Mild & foggy", "icon": "🌤️" },
+      "jun": { "temp": 16, "desc": "Cool & foggy", "icon": "🌫️" },
+      "jul": { "temp": 17, "desc": "Cool & foggy", "icon": "🌫️" },
+      "aug": { "temp": 17, "desc": "Cool & foggy", "icon": "🌫️" },
+      "sep": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
+      "oct": { "temp": 17, "desc": "Warm & sunny", "icon": "☀️" },
+      "nov": { "temp": 14, "desc": "Mild & rainy", "icon": "🌦️" },
+      "dec": { "temp": 11, "desc": "Cool & rainy", "icon": "🌧️" }
+    },
+    "iata": "SFO"
+  },
+  {
     "slug": "san-sebastian",
     "name": "San Sebastián",
     "country": "Spain",

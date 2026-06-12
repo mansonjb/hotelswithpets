@@ -11,18 +11,66 @@
     "lat": 43.3623,
     "lng": -8.4115,
     "weather": {
-      "jan": { "temp": 10, "desc": "Cool & rainy", "icon": "🌧️" },
-      "feb": { "temp": 10, "desc": "Cool & breezy", "icon": "🌥️" },
-      "mar": { "temp": 12, "desc": "Mild & showery", "icon": "🌦️" },
-      "apr": { "temp": 13, "desc": "Mild with showers", "icon": "🌦️" },
-      "may": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
-      "jun": { "temp": 18, "desc": "Warm & sunny", "icon": "🌤️" },
-      "jul": { "temp": 20, "desc": "Warmest month", "icon": "☀️" },
-      "aug": { "temp": 21, "desc": "Warm & sunny", "icon": "☀️" },
-      "sep": { "temp": 19, "desc": "Warm & mild", "icon": "🌤️" },
-      "oct": { "temp": 16, "desc": "Mild & rainy", "icon": "🌦️" },
-      "nov": { "temp": 13, "desc": "Cool & rainy", "icon": "🌧️" },
-      "dec": { "temp": 11, "desc": "Cool & grey", "icon": "🌧️" }
+      "jan": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warmest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Warm & mild",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Cool & grey",
+        "icon": "🌧️"
+      }
     },
     "iata": "LCG"
   },
@@ -2441,18 +2489,66 @@
     "lat": 42.3601,
     "lng": -71.0589,
     "weather": {
-      "jan": { "temp": -2, "desc": "Cold & snowy", "icon": "❄️" },
-      "feb": { "temp": -1, "desc": "Cold & windy", "icon": "❄️" },
-      "mar": { "temp": 4, "desc": "Cool & breezy", "icon": "🌤️" },
-      "apr": { "temp": 10, "desc": "Mild & showery", "icon": "🌦️" },
-      "may": { "temp": 16, "desc": "Mild & sunny", "icon": "🌤️" },
-      "jun": { "temp": 21, "desc": "Warm & humid", "icon": "☀️" },
-      "jul": { "temp": 25, "desc": "Hot & humid", "icon": "☀️" },
-      "aug": { "temp": 24, "desc": "Hot & humid", "icon": "☀️" },
-      "sep": { "temp": 20, "desc": "Warm & breezy", "icon": "🌤️" },
-      "oct": { "temp": 13, "desc": "Cool & crisp", "icon": "🍂" },
-      "nov": { "temp": 7, "desc": "Cold & windy", "icon": "🌥️" },
-      "dec": { "temp": 1, "desc": "Cold & snowy", "icon": "❄️" }
+      "jan": {
+        "temp": -2,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold & windy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & humid",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & crisp",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cold & windy",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
     },
     "iata": "BOS"
   },
@@ -3585,6 +3681,81 @@
     "iata": "RGS"
   },
   {
+    "slug": "cadaques",
+    "name": "Cadaqués",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/cadaques.jpg",
+    "intro": "Cadaqués is a 2,800-resident pueblo blanco at the dead end of the GI-614 mountain road on the Cap de Creus headland, with a slate-paved old quarter piling up to the baroque Església de Santa Maria, the Casa-Museu Salvador Dalí complex in Port Lligat 1.5 km north of the centre (interior off-limits to pets, harbour and GR-92 path fine on a leash), Spain`s first marine-terrestrial Parc Natural at Cap de Creus, the easternmost mainland lighthouse Faro de Cap de Creus, and pebble coves at Cala Nans, Cala Jugadora, Cala Culip and Cala Sa Sabolla. There is no train station; access is by Sarfa/Moventis bus from Figueres (50 min) or by car on the GI-614, with the AVE high-speed rail terminating at Figueres-Vilafant 1 h west. The single in-village vet (Clínica Veterinària Cadaqués) refers overnight emergencies to Canis Hospital Veterinari in Figueres 35 km away. The tramuntana wind shapes the climate and the village`s identity.",
+    "lat": 42.2882,
+    "lng": 3.2773,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Cool & windy",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Cool & windy",
+        "icon": "⛅"
+      }
+    },
+    "iata": "GRO"
+  },
+  {
     "slug": "cadiz",
     "name": "Cadiz",
     "country": "Spain",
@@ -3657,33 +3828,6 @@
       }
     },
     "iata": "XRY"
-  },
-  {
-    "slug": "cadaques",
-    "name": "Cadaqués",
-    "country": "Spain",
-    "countryCode": "ES",
-    "flag": "🇪🇸",
-    "categoryCount": 8,
-    "heroImage": "/images/destinations/cadaques.jpg",
-    "intro": "Cadaqués is a 2,800-resident pueblo blanco at the dead end of the GI-614 mountain road on the Cap de Creus headland, with a slate-paved old quarter piling up to the baroque Església de Santa Maria, the Casa-Museu Salvador Dalí complex in Port Lligat 1.5 km north of the centre (interior off-limits to pets, harbour and GR-92 path fine on a leash), Spain`s first marine-terrestrial Parc Natural at Cap de Creus, the easternmost mainland lighthouse Faro de Cap de Creus, and pebble coves at Cala Nans, Cala Jugadora, Cala Culip and Cala Sa Sabolla. There is no train station; access is by Sarfa/Moventis bus from Figueres (50 min) or by car on the GI-614, with the AVE high-speed rail terminating at Figueres-Vilafant 1 h west. The single in-village vet (Clínica Veterinària Cadaqués) refers overnight emergencies to Canis Hospital Veterinari in Figueres 35 km away. The tramuntana wind shapes the climate and the village`s identity.",
-    "lat": 42.2882,
-    "lng": 3.2773,
-    "weather": {
-      "jan": { "temp": 10, "desc": "Cool & windy", "icon": "⛅" },
-      "feb": { "temp": 11, "desc": "Cool & breezy", "icon": "⛅" },
-      "mar": { "temp": 13, "desc": "Mild & sunny", "icon": "🌤️" },
-      "apr": { "temp": 15, "desc": "Mild & sunny", "icon": "🌤️" },
-      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
-      "jun": { "temp": 22, "desc": "Warm & sunny", "icon": "☀️" },
-      "jul": { "temp": 25, "desc": "Hot & sunny", "icon": "☀️" },
-      "aug": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
-      "sep": { "temp": 23, "desc": "Warm & pleasant", "icon": "☀️" },
-      "oct": { "temp": 19, "desc": "Mild & sunny", "icon": "🌤️" },
-      "nov": { "temp": 14, "desc": "Mild with showers", "icon": "🌦️" },
-      "dec": { "temp": 11, "desc": "Cool & windy", "icon": "⛅" }
-    },
-    "iata": "GRO"
   },
   {
     "slug": "caen",
@@ -4516,6 +4660,81 @@
     "tiqetsId": "90598"
   },
   {
+    "slug": "chania",
+    "name": "Chania",
+    "country": "Greece",
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/chania.jpg",
+    "intro": "Crete's western capital (~110k), gateway to the Venetian Old Town, Souda port ferries and the most spectacular beaches in Greece (Falassarna, Elafonissi, Balos). A Venetian-Ottoman harbour ringed by Splantzia alleys, the Egyptian Lighthouse breakwater, and the Firkas Fortress. Arguably the most dog-friendly Greek city, with year-round mild climate, off-season dog beach at Nea Chora, and bilingual EL/EN vets. 1h flight from Athens; direct from most EU hubs in summer; 9h overnight ferry from Piraeus.",
+    "lat": 35.5138,
+    "lng": 24.018,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild, rainy spells",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild, sunny breaks",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Spring begins",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot afternoons",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot afternoons",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild, ideal",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild, occasional rain",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild, festive",
+        "icon": "🎄"
+      }
+    },
+    "iata": "CHQ"
+  },
+  {
     "slug": "chicago",
     "name": "Chicago",
     "country": "United States",
@@ -4527,18 +4746,66 @@
     "lat": 41.8781,
     "lng": -87.6298,
     "weather": {
-      "jan": { "temp": -4, "desc": "Cold & snowy", "icon": "❄️" },
-      "feb": { "temp": -2, "desc": "Cold & windy", "icon": "❄️" },
-      "mar": { "temp": 4, "desc": "Cool & breezy", "icon": "🌤️" },
-      "apr": { "temp": 10, "desc": "Mild & showery", "icon": "🌦️" },
-      "may": { "temp": 16, "desc": "Mild & sunny", "icon": "🌤️" },
-      "jun": { "temp": 22, "desc": "Warm & humid", "icon": "☀️" },
-      "jul": { "temp": 25, "desc": "Hot & humid", "icon": "☀️" },
-      "aug": { "temp": 24, "desc": "Hot & humid", "icon": "☀️" },
-      "sep": { "temp": 20, "desc": "Warm & breezy", "icon": "🌤️" },
-      "oct": { "temp": 13, "desc": "Cool & crisp", "icon": "🍂" },
-      "nov": { "temp": 5, "desc": "Cold & windy", "icon": "🌥️" },
-      "dec": { "temp": -2, "desc": "Cold & snowy", "icon": "❄️" }
+      "jan": {
+        "temp": -4,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -2,
+        "desc": "Cold & windy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & humid",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & crisp",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold & windy",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": -2,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
     },
     "iata": "ORD"
   },
@@ -9945,6 +10212,81 @@
     "iata": "BRI"
   },
   {
+    "slug": "menton",
+    "name": "Menton",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/menton.jpg",
+    "intro": "Menton is the easternmost town on the French Côte d'Azur, ten minutes from the Italian border, with the warmest microclimate on mainland France, a Baroque old town climbing to the Basilique Saint-Michel-Archange, the historic Jardin Serre de la Madone and Jardin du Val Rahmeh which both admit leashed dogs, the Sentier Le Corbusier coastal path around Cap Martin, and a year-round IGP Citron de Menton lemon culture culminating in the February Fête du Citron. Direct TER trains connect to Nice (35 min), Monaco (10 min), and Ventimiglia in Italy (10 min); the nearest airport is Nice Côte d'Azur (NCE), 30 minutes by car or TER. Beach access for dogs runs October to mid-May; outdoor terrace dining is viable nearly year-round.",
+    "lat": 43.7765,
+    "lng": 7.5037,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "NCE"
+  },
+  {
     "slug": "miami",
     "name": "Miami",
     "country": "United States",
@@ -10771,33 +11113,6 @@
     },
     "iata": "JFK",
     "tiqetsId": "260932"
-  },
-  {
-    "slug": "menton",
-    "name": "Menton",
-    "country": "France",
-    "countryCode": "FR",
-    "flag": "🇫🇷",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/menton.jpg",
-    "intro": "Menton is the easternmost town on the French Côte d'Azur, ten minutes from the Italian border, with the warmest microclimate on mainland France, a Baroque old town climbing to the Basilique Saint-Michel-Archange, the historic Jardin Serre de la Madone and Jardin du Val Rahmeh which both admit leashed dogs, the Sentier Le Corbusier coastal path around Cap Martin, and a year-round IGP Citron de Menton lemon culture culminating in the February Fête du Citron. Direct TER trains connect to Nice (35 min), Monaco (10 min), and Ventimiglia in Italy (10 min); the nearest airport is Nice Côte d'Azur (NCE), 30 minutes by car or TER. Beach access for dogs runs October to mid-May; outdoor terrace dining is viable nearly year-round.",
-    "lat": 43.7765,
-    "lng": 7.5037,
-    "weather": {
-      "jan": { "temp": 10, "desc": "Mild & sunny", "icon": "🌤️" },
-      "feb": { "temp": 11, "desc": "Mild & sunny", "icon": "🌤️" },
-      "mar": { "temp": 13, "desc": "Mild & pleasant", "icon": "⛅" },
-      "apr": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
-      "may": { "temp": 19, "desc": "Warm & sunny", "icon": "🌤️" },
-      "jun": { "temp": 23, "desc": "Warm & sunny", "icon": "🌤️" },
-      "jul": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
-      "aug": { "temp": 27, "desc": "Hot & sunny", "icon": "☀️" },
-      "sep": { "temp": 23, "desc": "Warm & sunny", "icon": "🌤️" },
-      "oct": { "temp": 19, "desc": "Mild & pleasant", "icon": "⛅" },
-      "nov": { "temp": 14, "desc": "Mild with rain", "icon": "🌦️" },
-      "dec": { "temp": 11, "desc": "Mild with rain", "icon": "🌦️" }
-    },
-    "iata": "NCE"
   },
   {
     "slug": "nice",
@@ -12538,20 +12853,143 @@
     "lat": 45.0811,
     "lng": 13.6387,
     "weather": {
-      "jan": { "temp": 8, "desc": "Cool & breezy", "icon": "🌥️" },
-      "feb": { "temp": 9, "desc": "Cool & breezy", "icon": "🌥️" },
-      "mar": { "temp": 11, "desc": "Mild & windy", "icon": "🌤️" },
-      "apr": { "temp": 14, "desc": "Mild & pleasant", "icon": "⛅" },
-      "may": { "temp": 19, "desc": "Warm shoulder", "icon": "🌤️" },
-      "jun": { "temp": 23, "desc": "Warm & sunny", "icon": "☀️" },
-      "jul": { "temp": 26, "desc": "Hot, peak season", "icon": "☀️" },
-      "aug": { "temp": 26, "desc": "Hot, peak season", "icon": "☀️" },
-      "sep": { "temp": 22, "desc": "Warm shoulder", "icon": "🌤️" },
-      "oct": { "temp": 17, "desc": "Mild & breezy", "icon": "⛅" },
-      "nov": { "temp": 12, "desc": "Cool & rainy", "icon": "🌦️" },
-      "dec": { "temp": 9, "desc": "Cool & damp", "icon": "🌧️" }
+      "jan": {
+        "temp": 8,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild & windy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm shoulder",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot, peak season",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot, peak season",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm shoulder",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Cool & damp",
+        "icon": "🌧️"
+      }
     },
     "iata": "PUY"
+  },
+  {
+    "slug": "saint-tropez",
+    "name": "Saint-Tropez",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/saint-tropez.jpg",
+    "intro": "Saint-Tropez is a 4,000-resident Provençal harbour town on the western Côte d'Azur, defined by its working Vieux Port, the 16th-century Citadelle, the plane-tree-shaded Place des Lices market (Tuesday and Saturday), the 5 km Pampelonne beach sweep in neighbouring Ramatuelle, and the 35 km Sentier du Littoral coastal path around the peninsula. The town has no SNCF station: the nearest rail head is Saint-Raphaël-Valescure 45 km away, linked year-round by Var-Lib bus 7601 (90 min) or seasonally by Bateaux de Saint-Raphaël ferry (50 min); the Bateaux Verts crossing from Sainte-Maxime takes 15 minutes. The two regional airports are Toulon-Hyères (TLN, 1 h) and Nice Côte d'Azur (NCE, 1 h 15). Beach access for dogs runs October to mid-May; rosé-fuelled terrace dining is reliable from May to October.",
+    "lat": 43.2675,
+    "lng": 6.6406,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "TLN"
   },
   {
     "slug": "salamanca",
@@ -12704,33 +13142,6 @@
     "tiqetsId": "60346"
   },
   {
-    "slug": "saint-tropez",
-    "name": "Saint-Tropez",
-    "country": "France",
-    "countryCode": "FR",
-    "flag": "🇫🇷",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/saint-tropez.jpg",
-    "intro": "Saint-Tropez is a 4,000-resident Provençal harbour town on the western Côte d'Azur, defined by its working Vieux Port, the 16th-century Citadelle, the plane-tree-shaded Place des Lices market (Tuesday and Saturday), the 5 km Pampelonne beach sweep in neighbouring Ramatuelle, and the 35 km Sentier du Littoral coastal path around the peninsula. The town has no SNCF station: the nearest rail head is Saint-Raphaël-Valescure 45 km away, linked year-round by Var-Lib bus 7601 (90 min) or seasonally by Bateaux de Saint-Raphaël ferry (50 min); the Bateaux Verts crossing from Sainte-Maxime takes 15 minutes. The two regional airports are Toulon-Hyères (TLN, 1 h) and Nice Côte d'Azur (NCE, 1 h 15). Beach access for dogs runs October to mid-May; rosé-fuelled terrace dining is reliable from May to October.",
-    "lat": 43.2675,
-    "lng": 6.6406,
-    "weather": {
-      "jan": { "temp": 9, "desc": "Mild & sunny", "icon": "🌤️" },
-      "feb": { "temp": 10, "desc": "Mild & sunny", "icon": "🌤️" },
-      "mar": { "temp": 12, "desc": "Mild & pleasant", "icon": "⛅" },
-      "apr": { "temp": 14, "desc": "Mild & pleasant", "icon": "⛅" },
-      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "🌤️" },
-      "jun": { "temp": 22, "desc": "Warm & sunny", "icon": "🌤️" },
-      "jul": { "temp": 25, "desc": "Hot & sunny", "icon": "☀️" },
-      "aug": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
-      "sep": { "temp": 22, "desc": "Warm & sunny", "icon": "🌤️" },
-      "oct": { "temp": 18, "desc": "Mild & pleasant", "icon": "⛅" },
-      "nov": { "temp": 13, "desc": "Mild with rain", "icon": "🌦️" },
-      "dec": { "temp": 10, "desc": "Mild with rain", "icon": "🌦️" }
-    },
-    "iata": "TLN"
-  },
-  {
     "slug": "san-francisco",
     "name": "San Francisco",
     "country": "United States",
@@ -12742,18 +13153,66 @@
     "lat": 37.7749,
     "lng": -122.4194,
     "weather": {
-      "jan": { "temp": 11, "desc": "Cool & rainy", "icon": "🌧️" },
-      "feb": { "temp": 12, "desc": "Cool & rainy", "icon": "🌧️" },
-      "mar": { "temp": 13, "desc": "Mild & breezy", "icon": "⛅" },
-      "apr": { "temp": 14, "desc": "Mild & sunny", "icon": "🌤️" },
-      "may": { "temp": 15, "desc": "Mild & foggy", "icon": "🌤️" },
-      "jun": { "temp": 16, "desc": "Cool & foggy", "icon": "🌫️" },
-      "jul": { "temp": 17, "desc": "Cool & foggy", "icon": "🌫️" },
-      "aug": { "temp": 17, "desc": "Cool & foggy", "icon": "🌫️" },
-      "sep": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
-      "oct": { "temp": 17, "desc": "Warm & sunny", "icon": "☀️" },
-      "nov": { "temp": 14, "desc": "Mild & rainy", "icon": "🌦️" },
-      "dec": { "temp": 11, "desc": "Cool & rainy", "icon": "🌧️" }
+      "jan": {
+        "temp": 11,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & foggy",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Cool & foggy",
+        "icon": "🌫️"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Cool & foggy",
+        "icon": "🌫️"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Cool & foggy",
+        "icon": "🌫️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      }
     },
     "iata": "SFO"
   },
@@ -12919,18 +13378,66 @@
     "lat": 43.4623,
     "lng": -3.8099,
     "weather": {
-      "jan": { "temp": 9, "desc": "Cool & rainy", "icon": "🌧️" },
-      "feb": { "temp": 9, "desc": "Cool & breezy", "icon": "🌥️" },
-      "mar": { "temp": 11, "desc": "Mild & showery", "icon": "🌦️" },
-      "apr": { "temp": 13, "desc": "Mild with showers", "icon": "🌦️" },
-      "may": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
-      "jun": { "temp": 18, "desc": "Warm & sunny", "icon": "🌤️" },
-      "jul": { "temp": 21, "desc": "Warmest month", "icon": "☀️" },
-      "aug": { "temp": 22, "desc": "Warm & sunny", "icon": "☀️" },
-      "sep": { "temp": 19, "desc": "Warm & mild", "icon": "🌤️" },
-      "oct": { "temp": 16, "desc": "Mild & rainy", "icon": "🌦️" },
-      "nov": { "temp": 12, "desc": "Cool & rainy", "icon": "🌧️" },
-      "dec": { "temp": 10, "desc": "Cool & grey", "icon": "🌧️" }
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warmest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Warm & mild",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & grey",
+        "icon": "🌧️"
+      }
     },
     "iata": "SDR"
   },
@@ -13310,33 +13817,6 @@
     "iata": "FLR"
   },
   {
-    "slug": "sitges",
-    "name": "Sitges",
-    "country": "Spain",
-    "countryCode": "ES",
-    "flag": "🇪🇸",
-    "categoryCount": 8,
-    "heroImage": "/images/destinations/sitges.jpg",
-    "intro": "Sitges is a 30,000-resident Catalan seaside town 35 km south-west of Barcelona, with 17 beaches stretched over 3.5 km of the Costa del Garraf, a designated dog beach at Platja de la Bassa Rodona during the August-September window, the traditionally tolerant Platja dels Balmins cove, the cliff-top Església de Sant Bartomeu i Santa Tecla baroque silhouette, the Casc Antic cobbles around the Palau Maricel and Museu del Cau Ferrat, the Parc de Terramar gardens, the Parc Natural del Garraf hinterland, and a 24/7 reference vet hospital on Ctra. de Pruelles. Rodalies R2 Sud from Barcelona-Sants reaches Sitges in 35 minutes, Mon-Bus runs a 30-minute shuttle from Barcelona-El Prat (BCN) airport, and the city anchors one of Europe`s most settled LGBT travel scenes around Carnaval (February), Bears Sitges Week (September) and the Fantastic Film Festival (October).",
-    "lat": 41.2351,
-    "lng": 1.8112,
-    "weather": {
-      "jan": { "temp": 11, "desc": "Cool & sunny", "icon": "⛅" },
-      "feb": { "temp": 11, "desc": "Cool & breezy", "icon": "⛅" },
-      "mar": { "temp": 13, "desc": "Mild & pleasant", "icon": "🌤️" },
-      "apr": { "temp": 15, "desc": "Mild & sunny", "icon": "🌤️" },
-      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
-      "jun": { "temp": 22, "desc": "Warm & sunny", "icon": "☀️" },
-      "jul": { "temp": 25, "desc": "Hot & sunny", "icon": "☀️" },
-      "aug": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
-      "sep": { "temp": 23, "desc": "Warm & pleasant", "icon": "☀️" },
-      "oct": { "temp": 19, "desc": "Mild & sunny", "icon": "🌤️" },
-      "nov": { "temp": 15, "desc": "Mild with showers", "icon": "🌦️" },
-      "dec": { "temp": 12, "desc": "Cool & mild", "icon": "⛅" }
-    },
-    "iata": "BCN"
-  },
-  {
     "slug": "sintra",
     "name": "Sintra",
     "country": "Portugal",
@@ -13410,6 +13890,81 @@
       }
     },
     "iata": "LIS"
+  },
+  {
+    "slug": "sitges",
+    "name": "Sitges",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/sitges.jpg",
+    "intro": "Sitges is a 30,000-resident Catalan seaside town 35 km south-west of Barcelona, with 17 beaches stretched over 3.5 km of the Costa del Garraf, a designated dog beach at Platja de la Bassa Rodona during the August-September window, the traditionally tolerant Platja dels Balmins cove, the cliff-top Església de Sant Bartomeu i Santa Tecla baroque silhouette, the Casc Antic cobbles around the Palau Maricel and Museu del Cau Ferrat, the Parc de Terramar gardens, the Parc Natural del Garraf hinterland, and a 24/7 reference vet hospital on Ctra. de Pruelles. Rodalies R2 Sud from Barcelona-Sants reaches Sitges in 35 minutes, Mon-Bus runs a 30-minute shuttle from Barcelona-El Prat (BCN) airport, and the city anchors one of Europe`s most settled LGBT travel scenes around Carnaval (February), Bears Sitges Week (September) and the Fantastic Film Festival (October).",
+    "lat": 41.2351,
+    "lng": 1.8112,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Cool & sunny",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      }
+    },
+    "iata": "BCN"
   },
   {
     "slug": "sofia",
@@ -14096,18 +14651,66 @@
     "lat": 36.0143,
     "lng": -5.6044,
     "weather": {
-      "jan": { "temp": 13, "desc": "Mild & windy", "icon": "🌤️" },
-      "feb": { "temp": 14, "desc": "Mild & breezy", "icon": "🌤️" },
-      "mar": { "temp": 15, "desc": "Mild & windy", "icon": "🌤️" },
-      "apr": { "temp": 16, "desc": "Mild & windy", "icon": "🌤️" },
-      "may": { "temp": 18, "desc": "Warm & breezy", "icon": "☀️" },
-      "jun": { "temp": 21, "desc": "Warm & windy", "icon": "☀️" },
-      "jul": { "temp": 24, "desc": "Warm & windy", "icon": "☀️" },
-      "aug": { "temp": 24, "desc": "Warm & windy", "icon": "☀️" },
-      "sep": { "temp": 22, "desc": "Warm & breezy", "icon": "☀️" },
-      "oct": { "temp": 19, "desc": "Mild & breezy", "icon": "🌤️" },
-      "nov": { "temp": 16, "desc": "Mild & windy", "icon": "🌦️" },
-      "dec": { "temp": 14, "desc": "Mild & windy", "icon": "🌦️" }
+      "jan": {
+        "temp": 13,
+        "desc": "Mild & windy",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild & windy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & windy",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & breezy",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & windy",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Warm & windy",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Warm & windy",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & breezy",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild & windy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild & windy",
+        "icon": "🌦️"
+      }
     },
     "iata": "AGP"
   },
@@ -14199,18 +14802,66 @@
     "lat": 37.1273,
     "lng": -7.6483,
     "weather": {
-      "jan": { "temp": 12, "desc": "Mild & sunny", "icon": "🌤️" },
-      "feb": { "temp": 13, "desc": "Mild & dry", "icon": "🌤️" },
-      "mar": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
-      "apr": { "temp": 17, "desc": "Warm & sunny", "icon": "🌤️" },
-      "may": { "temp": 19, "desc": "Warm & sunny", "icon": "☀️" },
-      "jun": { "temp": 23, "desc": "Hot & dry", "icon": "☀️" },
-      "jul": { "temp": 26, "desc": "Hot & dry", "icon": "☀️" },
-      "aug": { "temp": 26, "desc": "Hot & dry", "icon": "☀️" },
-      "sep": { "temp": 24, "desc": "Warm & sunny", "icon": "☀️" },
-      "oct": { "temp": 20, "desc": "Mild & pleasant", "icon": "🌤️" },
-      "nov": { "temp": 16, "desc": "Mild & breezy", "icon": "⛅" },
-      "dec": { "temp": 13, "desc": "Mild & sunny", "icon": "🌤️" }
+      "jan": {
+        "temp": 12,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild & dry",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      }
     },
     "iata": "FAO"
   },
@@ -15801,18 +16452,66 @@
     "lat": 43.7042,
     "lng": 7.3115,
     "weather": {
-      "jan": { "temp": 10, "desc": "Mild & sunny", "icon": "🌤️" },
-      "feb": { "temp": 11, "desc": "Mild & sunny", "icon": "🌤️" },
-      "mar": { "temp": 13, "desc": "Mild & pleasant", "icon": "⛅" },
-      "apr": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
-      "may": { "temp": 19, "desc": "Warm & sunny", "icon": "🌤️" },
-      "jun": { "temp": 23, "desc": "Warm & sunny", "icon": "🌤️" },
-      "jul": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
-      "aug": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
-      "sep": { "temp": 23, "desc": "Warm & sunny", "icon": "🌤️" },
-      "oct": { "temp": 19, "desc": "Mild & pleasant", "icon": "⛅" },
-      "nov": { "temp": 14, "desc": "Mild with rain", "icon": "🌦️" },
-      "dec": { "temp": 11, "desc": "Mild with rain", "icon": "🌦️" }
+      "jan": {
+        "temp": 10,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
     },
     "iata": "NCE"
   },

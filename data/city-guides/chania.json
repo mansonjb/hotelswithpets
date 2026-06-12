@@ -1,0 +1,1202 @@
+{
+  "slug": "chania",
+  "name": "Chania",
+  "country": "Greece",
+  "flag": "🇬🇷",
+  "lastUpdated": "2026-06-12",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Chania, Venetian Harbour & Splantzia Tavernas",
+      "titleFr": "Restaurants dog-friendly à La Canée, Tavernes du port vénitien et Splantzia",
+      "titleEs": "Restaurantes pet-friendly en Chania, Tabernas del puerto veneciano y Splantzia",
+      "introEn": "Chania's taverna scene splits between the photogenic Venetian Harbour (mostly tourist tavernas, dog-tolerant terraces), the atmospheric Splantzia alleys (locals, calm, dog-welcoming), and a handful of slow-food addresses in the Old Town. Most outdoor seating accepts leashed dogs by default.",
+      "introFr": "La scène taverne de La Canée se partage entre le port vénitien photogénique (tavernes touristiques aux terrasses tolérantes aux chiens), les ruelles atmosphériques de Splantzia (locaux, calmes, accueillants pour les chiens) et quelques adresses Slow Food dans la vieille ville. La plupart des terrasses extérieures admettent les chiens en laisse par défaut.",
+      "introEs": "La escena de tabernas de Chania se reparte entre el fotogénico Puerto Veneciano (tabernas turísticas con terrazas tolerantes con perros), las atmosféricas callejuelas de Splantzia (locales, tranquilas, acogedoras con perros) y unas pocas direcciones Slow Food en el casco antiguo. La mayoría de las terrazas exteriores admiten perros con correa por defecto.",
+      "places": [
+        {
+          "name": "Tamam",
+          "address": "Zampeliou 49, 73100 Chania",
+          "neighborhood": "Old Town",
+          "photo": "/images/city-places/chania-restaurants-tamam.jpg",
+          "website": "https://tamamchania.com/",
+          "description": "Iconic Cretan restaurant in a converted Turkish hammam, vine-shaded courtyard tables in summer. Wide menu mixing Cretan, eastern Mediterranean and vegetarian dishes. Stamnagathi, kid in lemon sauce, boureki.",
+          "descriptionFr": "Restaurant crétois iconique dans un ancien hammam turc, tables en cour ombragée de vigne en été. Carte large mêlant cuisine crétoise, méditerranée orientale et plats végétariens. Stamnagathi, chevreau au citron, boureki.",
+          "descriptionEs": "Restaurante cretense icónico en un antiguo hammam turco, mesas en patio sombreado por vid en verano. Carta amplia que mezcla cocina cretense, mediterránea oriental y platos vegetarianos. Stamnagathi, cabrito al limón, boureki.",
+          "petPolicy": "Calm leashed dogs welcome on the outdoor street tables",
+          "petPolicyFr": "Chiens calmes en laisse admis aux tables extérieures sur rue",
+          "petPolicyEs": "Perros tranquilos con correa admitidos en las mesas exteriores en la calle",
+          "priceRange": "€€",
+          "mustTry": "Boureki (Chania zucchini-potato pie), stamnagathi greens, kid in lemon",
+          "mustTryFr": "Boureki (tourte de courgettes-pommes de terre de La Canée), herbes stamnagathi, chevreau au citron",
+          "mustTryEs": "Boureki (tarta de calabacín-patata de Chania), hierbas stamnagathi, cabrito al limón",
+          "openingHours": "Daily 12:30–24:00",
+          "tip": "No reservations, arrive before 20:00 in summer. The boureki is a Chania specialty, not found elsewhere in Crete.",
+          "tipFr": "Pas de réservations, arrivez avant 20h en été. Le boureki est une spécialité de La Canée, introuvable ailleurs en Crète.",
+          "tipEs": "Sin reservas, llega antes de las 20:00 en verano. El boureki es una especialidad de Chania, no se encuentra en otros lugares de Creta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tamam+Chania",
+          "descriptionPt": "Restaurante cretense icónico num antigo hammam turco, mesas em pátio sombreado por vinha no verão. Carta ampla que mistura cozinha cretense, mediterrânica oriental e pratos vegetarianos. Stamnagathi, cabrito al limão, boureki.",
+          "petPolicyPt": "Cães tranquilos com trela admitidos nas mesas exteriores na rua",
+          "mustTryPt": "Boureki (tarte de courgette-batata de Chania), ervas stamnagathi, cabrito al limão",
+          "tipPt": "Sem reservas, chega antes das 20:00 no verão. O boureki é uma especialidade de Chania, não se encontra noutros locais de Creta."
+        },
+        {
+          "name": "To Maridaki",
+          "address": "Daskalogianni 33, 73100 Chania",
+          "neighborhood": "Splantzia",
+          "photo": "/images/city-places/chania-restaurants-to-maridaki.jpg",
+          "website": "",
+          "description": "Family-run mezedopolio on the Splantzia edge, the local favourite for fresh fish mezedes since 1996. Tiny outdoor terrace facing a quiet pedestrian street. Daily catch chalked on the board.",
+          "descriptionFr": "Mezedopolio familial en bordure de Splantzia, l'adresse préférée des locaux pour les mezedes de poisson frais depuis 1996. Petite terrasse extérieure face à une rue piétonne calme. Pêche du jour à l'ardoise.",
+          "descriptionEs": "Mezedopolio familiar al borde de Splantzia, la dirección favorita de los locales para mezedes de pescado fresco desde 1996. Pequeña terraza exterior frente a una calle peatonal tranquila. Captura del día en la pizarra.",
+          "petPolicy": "Dogs welcome on the street terrace",
+          "petPolicyFr": "Chiens admis sur la terrasse rue",
+          "petPolicyEs": "Perros admitidos en la terraza de la calle",
+          "priceRange": "€€",
+          "mustTry": "Maridaki (fried picarel), grilled octopus, fava purée",
+          "mustTryFr": "Maridaki (picarel frit), poulpe grillé, purée de fava",
+          "mustTryEs": "Maridaki (picarel frito), pulpo a la parrilla, puré de fava",
+          "openingHours": "Mon–Sat 12:00–24:00, closed Sun",
+          "tip": "Cash only. Order the maridaki and let the waiter pick the rest, the family knows what arrived that morning.",
+          "tipFr": "Espèces uniquement. Commandez le maridaki et laissez le serveur choisir le reste, la famille sait ce qui est arrivé le matin.",
+          "tipEs": "Solo efectivo. Pide el maridaki y deja que el camarero elija el resto, la familia sabe qué llegó esa mañana.",
+          "googleMapsUrl": "https://maps.google.com/?q=To+Maridaki+Chania",
+          "descriptionPt": "Mezedopolio familiar na borda de Splantzia, o endereço preferido dos locais para mezedes de peixe fresco a partir de 1996. Pequena esplanada exterior em frente a uma rua pedonal tranquila. Pesca do dia no quadro.",
+          "petPolicyPt": "Cães admitidos na esplanada da rua",
+          "mustTryPt": "Maridaki (picarel frito), polvo grelhado, puré de fava",
+          "tipPt": "Só efectivo. Pede o maridaki e deja o empregado escolher o resto, a família sabe o que chegou nessa manhã."
+        },
+        {
+          "name": "Well of the Turk",
+          "address": "Sarpaki 1-3, 73100 Chania",
+          "neighborhood": "Splantzia",
+          "photo": "/images/city-places/chania-restaurants-well-of-the-turk.jpg",
+          "website": "https://welloftheturk.com/",
+          "description": "Long-standing eastern Mediterranean restaurant in a restored Ottoman-era house with a vine-covered courtyard around the original well. Levantine and Cretan crossover menu, mezze, slow-cooked tagines, vegetarian-friendly.",
+          "descriptionFr": "Restaurant méditerranéen oriental de longue date dans une maison ottomane restaurée avec une cour ombragée de vigne autour du puits d'origine. Carte croisée Levant-Crète, mezze, tajines mijotés, friendly végétarien.",
+          "descriptionEs": "Restaurante mediterráneo oriental de larga trayectoria en una casa otomana restaurada con un patio cubierto de vid en torno al pozo original. Carta cruzada Levante-Creta, mezze, tajines a fuego lento, amigable vegetariano.",
+          "petPolicy": "Leashed dogs welcome in the courtyard",
+          "petPolicyFr": "Chiens en laisse admis dans la cour",
+          "petPolicyEs": "Perros con correa admitidos en el patio",
+          "priceRange": "€€€",
+          "mustTry": "Lamb tagine, mezze platter, baklava with kaymak",
+          "mustTryFr": "Tajine d'agneau, plateau de mezze, baklava au kaymak",
+          "mustTryEs": "Tajín de cordero, plato de mezze, baklava con kaymak",
+          "openingHours": "Tue–Sat 18:30–24:00",
+          "tip": "Book the courtyard 48h ahead in summer, only 8 outdoor tables. Closed Sun/Mon.",
+          "tipFr": "Réservez la cour 48h à l'avance en été, seulement 8 tables extérieures. Fermé dim/lun.",
+          "tipEs": "Reserva el patio con 48h en verano, solo 8 mesas exteriores. Cerrado dom/lun.",
+          "googleMapsUrl": "https://maps.google.com/?q=Well+of+the+Turk+Chania",
+          "descriptionPt": "Restaurante mediterrânico oriental de longa trajectória numa casa otomana restaurada com um pátio coberto de vinha em torno do poço original. Carta cruzada Levante-Creta, mezze, tagines a fogo lento, amigável vegetariano.",
+          "petPolicyPt": "Cães com trela admitidos no pátio",
+          "mustTryPt": "Tagine de cordeiro, prato de mezze, baklava com kaymak",
+          "tipPt": "Reserva o pátio 48h antes no verão, só 8 mesas exteriores. Fechado dom/seg."
+        }
+      ],
+      "tipsEn": [
+        "Splantzia alleys (north-east of the Cathedral) are the calmest dinner zone with dogs, fewer crowds than the harbour.",
+        "Boureki (zucchini-potato-myzithra pie) is the local Chania specialty, ask for it as 'boureki Chanion'.",
+        "Free raki at the end of the meal is universal in Chania tavernas, your dog should pass on it."
+      ],
+      "tipsFr": [
+        "Les ruelles de Splantzia (au nord-est de la cathédrale) sont la zone dîner la plus calme avec un chien, moins de foule qu'au port.",
+        "Le boureki (tourte courgettes-pommes de terre-myzithra) est la spécialité locale de La Canée, demandez « boureki Chanion ».",
+        "Le raki offert en fin de repas est universel à La Canée, votre chien doit s'abstenir."
+      ],
+      "tipsEs": [
+        "Las callejuelas de Splantzia (al noreste de la Catedral) son la zona de cena más tranquila con perro, menos gente que en el puerto.",
+        "El boureki (tarta de calabacín-patata-mizithra) es la especialidad local de Chania, pídelo como «boureki Chanion».",
+        "El raki gratis al final de la comida es universal en Chania, tu perro debe abstenerse."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Chania tavernas?",
+          "a": "Yes on almost all outdoor terraces, Cretan taverna culture is relaxed about leashed dogs outside. The Venetian Harbour terraces are open-air by definition and welcome dogs by default. Splantzia alleys are quieter and equally dog-welcoming."
+        },
+        {
+          "q": "What is boureki and where is the best in Chania?",
+          "a": "Boureki is a layered pie of sliced zucchini, potato and myzithra cheese in a thin crust, baked golden. It's a Chania specialty (not Heraklion's). Tamam and most Splantzia tavernas serve it well; portion is large, share for two."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les tavernes de La Canée ?",
+          "a": "Oui sur presque toutes les terrasses extérieures, la culture taverne crétoise est détendue avec les chiens en laisse en extérieur. Les terrasses du port vénitien sont par définition en plein air et accueillent les chiens par défaut. Les ruelles de Splantzia sont plus calmes et tout aussi accueillantes."
+        },
+        {
+          "q": "Qu'est-ce que le boureki et où est le meilleur à La Canée ?",
+          "a": "Le boureki est une tourte de tranches de courgettes, pommes de terre et myzithra dans une pâte fine, cuite dorée. C'est une spécialité de La Canée (pas d'Héraklion). Tamam et la plupart des tavernes de Splantzia le servent bien ; portion généreuse, à partager."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en las tabernas de Chania?",
+          "a": "Sí en casi todas las terrazas exteriores, la cultura de tabernas cretenses es relajada con perros con correa fuera. Las terrazas del Puerto Veneciano son al aire libre por definición y admiten perros por defecto. Las callejuelas de Splantzia son más tranquilas e igualmente acogedoras."
+        },
+        {
+          "q": "¿Qué es el boureki y dónde es el mejor en Chania?",
+          "a": "El boureki es una tarta de capas de calabacín, patata y mizithra en una masa fina, horneada dorada. Es una especialidad de Chania (no de Heraklion). Tamam y la mayoría de tabernas de Splantzia lo sirven bien; ración grande, para compartir."
+        }
+      ],
+      "titlePt": "Restaurantes pet-friendly em Chania, Tabernas do porto veneciano e Splantzia",
+      "introPt": "A cena de tabernas de Chania reparte-se entre o fotogénico Porto Veneciano (tabernas turísticas com esplanadas tolerantes a cães), as atmosféricas viélas de Splantzia (locais, calmas, acolhedoras com cães) e uns poucos endereços Slow Food no centro histórico. A maioria das esplanadas exteriores admite cães com trela por defeito.",
+      "tipsPt": [
+        "As viélas de Splantzia (a nordeste da Catedral) são a zona de jantar mais calma com cão, menos gente que no porto.",
+        "O boureki (tarte de courgette-batata-mizithra) é a especialidade local de Chania, pede como «boureki Chanion».",
+        "O raki grátis no final da refeição é universal em Chania, o teu cão deve abster-se."
+      ],
+      "faqsPt": [
+        {
+          "q": "Admitem-se cães nas tabernas de Chania?",
+          "a": "Sim em quase todas as esplanadas exteriores, a cultura de tabernas cretenses é relaxada com cães com trela. As esplanadas do Porto Veneciano são ao ar livre por definição e admitem cães por defeito. As viélas de Splantzia são mais calmas e igualmente acolhedoras."
+        },
+        {
+          "q": "O que é o boureki e onde é o melhor em Chania?",
+          "a": "O boureki é uma tarte de camadas de courgette, batata e mizithra numa massa fina, cozida dourada. É uma especialidade de Chania (não de Heraklion). Tamam e a maioria das tabernas de Splantzia servem-no bem; porção grande, para partilhar."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog Parks & Walks in Chania, Venetian Harbour & Old Town Paths",
+      "titleFr": "Meilleurs parcs et promenades pour chiens à La Canée, Port vénitien et vieille ville",
+      "titleEs": "Mejores parques y paseos para perros en Chania, Puerto Veneciano y casco antiguo",
+      "introEn": "Chania has limited green space inside the walls, but the 1.6 km Venetian Harbour promenade out to the Egyptian Lighthouse, the leafy Public Garden behind the cathedral, and the Nea Chora coastal path give a comfortable daily dog rotation year-round.",
+      "introFr": "La Canée dispose d'espaces verts limités intra-muros, mais la promenade de 1,6 km du port vénitien jusqu'au phare égyptien, le Jardin Public ombragé derrière la cathédrale et le chemin côtier de Nea Chora offrent une rotation canine confortable toute l'année.",
+      "introEs": "Chania tiene espacios verdes limitados intramuros, pero el paseo de 1,6 km del puerto veneciano hasta el faro egipcio, el Jardín Público frondoso detrás de la catedral y el sendero costero de Nea Chora ofrecen una rotación canina cómoda todo el año.",
+      "places": [
+        {
+          "name": "Venetian Harbour Promenade & Egyptian Lighthouse",
+          "address": "Akti Tompazi, 73100 Chania",
+          "neighborhood": "Old Town waterfront",
+          "photo": "/images/city-places/chania-parks-venetian-harbour-promenade.jpg",
+          "size": "Linear, 1.6 km out-and-back",
+          "leashRule": "Leash required",
+          "leashRuleFr": "Laisse obligatoire",
+          "leashRuleEs": "Correa obligatoria",
+          "description": "The most iconic dog walk in Chania: an 800 m stone breakwater curving out to the 19th-century Egyptian Lighthouse (one of the oldest in the Mediterranean). Flat, sea breeze, panoramic views of the Venetian Harbour and the White Mountains behind.",
+          "descriptionFr": "La promenade canine la plus iconique de La Canée : une jetée de pierre de 800 m courbée vers le phare égyptien du XIXe siècle (l'un des plus anciens de Méditerranée). Plate, brise marine, vues panoramiques sur le port vénitien et les Montagnes Blanches en fond.",
+          "descriptionEs": "El paseo canino más icónico de Chania: un dique de piedra de 800 m curvado hacia el faro egipcio del s. XIX (uno de los más antiguos del Mediterráneo). Llano, brisa marina, vistas panorámicas del puerto veneciano y las Montañas Blancas al fondo.",
+          "amenities": [
+            "Sea breeze",
+            "Flat stone surface",
+            "Panoramic views",
+            "Benches near base"
+          ],
+          "amenitiesFr": [
+            "Brise marine",
+            "Surface de pierre plate",
+            "Vues panoramiques",
+            "Bancs près de la base"
+          ],
+          "amenitiesEs": [
+            "Brisa marina",
+            "Superficie de piedra llana",
+            "Vistas panorámicas",
+            "Bancos cerca de la base"
+          ],
+          "tip": "Best at sunset, the lighthouse glows orange and the White Mountains turn pink. Avoid midday in summer, the stone gets blistering hot for paws.",
+          "tipFr": "Idéal au coucher du soleil, le phare devient orange et les Montagnes Blanches roses. Évitez midi en été, la pierre brûle les coussinets.",
+          "tipEs": "Mejor al atardecer, el faro brilla naranja y las Montañas Blancas se vuelven rosas. Evita el mediodía en verano, la piedra quema las almohadillas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Egyptian+Lighthouse+Chania",
+          "leashRulePt": "Trela obrigatória",
+          "descriptionPt": "O passeio canino mais icónico de Chania: um molhe de pedra de 800 m curvado até ao farol egípcio do séc. XIX (um dos mais antigos do Mediterrâneo). Plano, brisa marítima, vistas panorâmicas do porto veneciano e das Montanhas Brancas ao fundo.",
+          "amenitiesPt": [
+            "Brisa marítima",
+            "Superfície de pedra plana",
+            "Vistas panorâmicas",
+            "Bancos perto da base"
+          ],
+          "tipPt": "Melhor ao pôr do sol, o farol brilha laranja e as Montanhas Brancas tornam-se rosas. Evita o meio-dia no verão, a pedra queima as almofadinhas."
+        },
+        {
+          "name": "Chania Public Garden (Dimotikos Kipos)",
+          "address": "Tzanakaki, 73100 Chania",
+          "neighborhood": "Behind the cathedral",
+          "photo": "/images/city-places/chania-parks-chania-public-garden.jpg",
+          "size": "3 ha",
+          "leashRule": "Leash required",
+          "leashRuleFr": "Laisse obligatoire",
+          "leashRuleEs": "Correa obligatoria",
+          "description": "Founded in 1870 by the Ottoman governor Reouf Pasha, this is the only proper green park inside Chania. Mature plane and palm trees, a small clock tower, a tiny zoo (closed to pets), and shaded paths. The locals' afternoon dog rotation.",
+          "descriptionFr": "Fondé en 1870 par le gouverneur ottoman Reouf Pacha, c'est le seul vrai parc vert intra-muros de La Canée. Platanes et palmiers matures, une petite tour de l'horloge, un mini-zoo (interdit aux chiens) et des allées ombragées. La rotation canine de l'après-midi des locaux.",
+          "descriptionEs": "Fundado en 1870 por el gobernador otomano Reouf Pachá, es el único parque verde de verdad intramuros de Chania. Plátanos y palmeras maduros, una pequeña torre del reloj, un mini-zoo (cerrado a perros) y senderos sombreados. La rotación canina vespertina de los locales.",
+          "amenities": [
+            "Plane tree shade",
+            "Benches",
+            "Drinking fountain",
+            "Café in centre"
+          ],
+          "amenitiesFr": [
+            "Ombre des platanes",
+            "Bancs",
+            "Fontaine à eau",
+            "Café au centre"
+          ],
+          "amenitiesEs": [
+            "Sombra de plátanos",
+            "Bancos",
+            "Fuente de agua",
+            "Café en el centro"
+          ],
+          "tip": "Useful for the July–August afternoon heat (32 °C in town, 28 °C in the shade here). The small zoo at the centre is the only zone where dogs are banned, stay on the outer ring paths.",
+          "tipFr": "Utile pour la chaleur d'après-midi juillet–août (32 °C en ville, 28 °C à l'ombre ici). Le petit zoo central est la seule zone interdite aux chiens, restez sur les allées extérieures.",
+          "tipEs": "Útil para el calor vespertino de julio–agosto (32 °C en la ciudad, 28 °C a la sombra aquí). El pequeño zoo central es la única zona prohibida a perros, mantente en los senderos exteriores.",
+          "googleMapsUrl": "https://maps.google.com/?q=Chania+Public+Garden",
+          "leashRulePt": "Trela obrigatória",
+          "descriptionPt": "Fundado em 1870 pelo governador otomano Reouf Paxá, é o único parque verde a sério intramuros de Chania. Plátanos e palmeiras maduros, uma pequena torre do relógio, um mini-zoo (fechado a cães) e trilhos sombreados. A rotação canina vespertina dos locais.",
+          "amenitiesPt": [
+            "Sombra de plátanos",
+            "Bancos",
+            "Fonte de água",
+            "Café no centro"
+          ],
+          "tipPt": "Útil para o calor vespertino de julho–agosto (32 °C na cidade, 28 °C à sombra aqui). O pequeno zoo central é a única zona proibida a cães, fica nos trilhos exteriores."
+        },
+        {
+          "name": "Nea Chora Coastal Path",
+          "address": "Nea Chora, 73100 Chania",
+          "neighborhood": "West of the old town",
+          "photo": "/images/city-places/chania-parks-nea-chora-coastal-path.jpg",
+          "size": "Linear, 2.5 km",
+          "leashRule": "Leash required on path; off-leash on Nea Chora dog beach off-season",
+          "leashRuleFr": "Laisse sur le chemin ; sans laisse sur la plage canine de Nea Chora hors-saison",
+          "leashRuleEs": "Correa en el sendero; sin correa en la playa canina de Nea Chora fuera de temporada",
+          "description": "Flat 2.5 km seafront path starting just west of the Firkas Fortress, running along Nea Chora and Aghioi Apostoloi beaches. A continuous succession of cafés, tavernas and small bays. The local dog social hub at sunset.",
+          "descriptionFr": "Chemin côtier plat de 2,5 km démarrant juste à l'ouest de la forteresse Firkas, longeant les plages de Nea Chora et Aghioi Apostoloi. Succession continue de cafés, tavernes et petites baies. Le hub social canin local au coucher du soleil.",
+          "descriptionEs": "Sendero costero llano de 2,5 km que arranca justo al oeste de la fortaleza Firkas, recorriendo las playas de Nea Chora y Aghioi Apostoloi. Sucesión continua de cafés, tabernas y pequeñas calas. El hub social canino local al atardecer.",
+          "amenities": [
+            "Flat paved path",
+            "Sea breeze",
+            "Cafés along route",
+            "Beach access points"
+          ],
+          "amenitiesFr": [
+            "Chemin pavé plat",
+            "Brise marine",
+            "Cafés sur le parcours",
+            "Accès plages"
+          ],
+          "amenitiesEs": [
+            "Sendero pavimentado llano",
+            "Brisa marina",
+            "Cafés en el recorrido",
+            "Accesos a la playa"
+          ],
+          "tip": "Walk from Firkas to Aghioi Apostoloi in about 35 min, stop at the small Lazaretto cove for a shaded sea view. Bus 21 runs back to the centre every 20 min.",
+          "tipFr": "Marche de Firkas à Aghioi Apostoloi en 35 min environ, halte à la petite crique de Lazaretto pour une vue mer ombragée. Bus 21 ramène au centre toutes les 20 min.",
+          "tipEs": "Camina de Firkas a Aghioi Apostoloi en unos 35 min, parada en la pequeña cala de Lazaretto para una vista marina sombreada. Bus 21 vuelve al centro cada 20 min.",
+          "googleMapsUrl": "https://maps.google.com/?q=Nea+Chora+beach+Chania",
+          "leashRulePt": "Trela no trilho; sem trela na praia canina de Nea Chora fora de época",
+          "descriptionPt": "Trilho costeiro plano de 2,5 km que começa logo a oeste do Forte Firkas, ao longo das praias de Nea Chora e Aghioi Apostoloi. Sucessão contínua de cafés, tabernas e pequenas baías. O hub social canino local ao pôr do sol.",
+          "amenitiesPt": [
+            "Trilho pavimentado plano",
+            "Brisa marítima",
+            "Cafés no percurso",
+            "Acessos à praia"
+          ],
+          "tipPt": "Caminha de Firkas a Aghioi Apostoloi em cerca de 35 min, paragem na pequena enseada de Lazaretto para uma vista marítima sombreada. Autocarro 21 volta ao centro a cada 20 min."
+        }
+      ],
+      "tipsEn": [
+        "Greek municipal rules: dogs must be leashed in all urban public spaces; muzzle required for breeds on the dangerous-dogs list.",
+        "Dog waste bags are mandatory in Chania; the municipality fines up to 200 EUR for non-removal, increasingly enforced in the harbour zone.",
+        "Summer heat is brutal (32 °C average July afternoon), walk dogs before 09:00 or after 19:00 from June to early October."
+      ],
+      "tipsFr": [
+        "Règles municipales grecques : laisse obligatoire dans tous les espaces publics urbains ; muselière pour races sur la liste des chiens dangereux.",
+        "Sacs à déjections obligatoires à La Canée ; la commune verbalise jusqu'à 200 € pour non-ramassage, de plus en plus appliqué dans la zone du port.",
+        "Chaleur estivale brutale (32 °C moyenne après-midi juillet), promenez les chiens avant 9h ou après 19h de juin à début octobre."
+      ],
+      "tipsEs": [
+        "Normas municipales griegas: correa obligatoria en todos los espacios públicos urbanos; bozal para razas en la lista de perros peligrosos.",
+        "Bolsas para residuos caninos obligatorias en Chania; el municipio multa hasta 200 € por no recogerlas, cada vez más aplicado en la zona del puerto.",
+        "Calor estival brutal (32 °C de media tarde en julio), pasea a los perros antes de las 09:00 o después de las 19:00 de junio a principios de octubre."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can my dog run off-leash in Chania?",
+          "a": "Nea Chora beach allows off-leash dogs off-season (roughly October to May) on the western half. Inside the walls, no fenced dog parks exist; the Venetian harbour pier and the Public Garden are leashed-only."
+        },
+        {
+          "q": "Can I walk to the Egyptian Lighthouse with my dog?",
+          "a": "Yes, the 800 m breakwater is open 24/7, free, leashed-dogs welcome. It's the city's flagship walk, especially at sunset. The lighthouse interior itself is closed to visitors and to dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où mon chien peut-il courir sans laisse à La Canée ?",
+          "a": "La plage de Nea Chora autorise les chiens sans laisse hors-saison (environ octobre à mai) sur la moitié ouest. Intra-muros, pas de parcs canins clôturés ; la jetée du port vénitien et le Jardin Public sont en laisse uniquement."
+        },
+        {
+          "q": "Puis-je marcher jusqu'au phare égyptien avec mon chien ?",
+          "a": "Oui, la jetée de 800 m est ouverte 24h/24, gratuite, chiens en laisse admis. C'est la promenade phare de la ville, surtout au coucher du soleil. L'intérieur du phare est fermé aux visiteurs et aux chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Chania?",
+          "a": "La playa de Nea Chora permite perros sin correa fuera de temporada (aprox. octubre a mayo) en la mitad oeste. Intramuros no hay parques caninos vallados; el dique del puerto veneciano y el Jardín Público son con correa solamente."
+        },
+        {
+          "q": "¿Puedo caminar hasta el faro egipcio con mi perro?",
+          "a": "Sí, el dique de 800 m está abierto 24/7, gratuito, perros con correa admitidos. Es el paseo estrella de la ciudad, sobre todo al atardecer. El interior del faro está cerrado a visitantes y perros."
+        }
+      ],
+      "titlePt": "Melhores parques e passeios para cães em Chania, Porto Veneciano e centro histórico",
+      "introPt": "Chania tem espaço verde limitado intramuros, mas o passeio de 1,6 km do porto veneciano até ao farol egípcio, o Jardim Público frondoso atrás da catedral e o trilho costeiro de Nea Chora oferecem uma rotação canina confortável o ano inteiro.",
+      "tipsPt": [
+        "Normas municipais gregas: trela obrigatória em todos os espaços públicos urbanos; açaime para raças na lista de cães perigosos.",
+        "Sacos para dejetos caninos obrigatórios em Chania; o município multa até 200 € por não recolher, cada vez mais aplicado na zona do porto.",
+        "Calor estival brutal (32 °C de média à tarde em julho), passeia os cães antes das 09:00 ou depois das 19:00 de junho a inícios de outubro."
+      ],
+      "faqsPt": [
+        {
+          "q": "Onde pode o meu cão correr sem trela em Chania?",
+          "a": "A praia de Nea Chora permite cães sem trela fora de época (aprox. outubro a maio) na metade oeste. Intramuros não há parques caninos vedados; o molhe do porto veneciano e o Jardim Público são só com trela."
+        },
+        {
+          "q": "Posso caminhar até ao farol egípcio com o meu cão?",
+          "a": "Sim, o molhe de 800 m está aberto 24/7, gratuito, cães com trela admitidos. É o passeio estrela da cidade, sobretudo ao pôr do sol. O interior do farol está fechado a visitantes e a cães."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Chania, Bus, Ferry & KTEL",
+      "titleFr": "Transport pet-friendly à La Canée, Bus, ferry et KTEL",
+      "titleEs": "Transporte pet-friendly en Chania, Autobús, ferry y KTEL",
+      "introEn": "Chania's walled old town walks in 15 minutes. Beyond, the Souda port (7 km east) handles the overnight ANEK/Minoan ferry to Piraeus, the KTEL bus network reaches every west-Crete village, and Chania airport (CHQ) on the Akrotiri peninsula is 14 km north-east.",
+      "introFr": "La vieille ville fortifiée de La Canée se parcourt en 15 minutes. Au-delà, le port de Souda (7 km à l'est) gère le ferry de nuit ANEK/Minoan vers Le Pirée, le réseau KTEL dessert chaque village de Crète occidentale, et l'aéroport de La Canée (CHQ) sur la péninsule d'Akrotiri est à 14 km au nord-est.",
+      "introEs": "El casco antiguo amurallado de Chania se cruza a pie en 15 minutos. Más allá, el puerto de Souda (7 km al este) gestiona el ferry nocturno ANEK/Minoan a El Pireo, la red KTEL llega a cada pueblo del oeste de Creta, y el aeropuerto de Chania (CHQ) en la península de Akrotiri está a 14 km al noreste.",
+      "places": [
+        {
+          "name": "ANEK / Minoan Lines Ferry (Souda)",
+          "type": "Ferry",
+          "photo": "/images/city-places/chania-transport-anek-minoan-lines-ferry.jpg",
+          "website": "https://www.anek.gr/",
+          "description": "Overnight ferry Souda (Chania), Piraeus (Athens), departing 21:00, arriving 06:00. 9-hour crossing. Pet-friendly cabins available on request. The most relaxed way to bring a dog from mainland Greece.",
+          "descriptionFr": "Ferry de nuit Souda (La Canée), Le Pirée (Athènes), départ 21h, arrivée 6h. Traversée de 9 heures. Cabines pet-friendly sur demande. Le moyen le plus détendu d'amener un chien depuis la Grèce continentale.",
+          "descriptionEs": "Ferry nocturno Souda (Chania), El Pireo (Atenas), salida 21:00, llegada 06:00. Travesía de 9 horas. Camarotes pet-friendly bajo petición. La forma más relajada de llevar un perro desde Grecia continental.",
+          "petPolicy": "Pet-friendly cabins ~30 to 50 EUR supplement. Dogs must be leashed in public areas, kennel cage available on deck (free) for those without cabin.",
+          "petPolicyFr": "Cabines pet-friendly ~30 à 50 € de supplément. Chiens en laisse dans les espaces publics, cage chenil disponible sur le pont (gratuite) sans cabine.",
+          "petPolicyEs": "Camarotes pet-friendly ~30 a 50 € de suplemento. Perros con correa en zonas comunes, jaula disponible en cubierta (gratis) sin camarote.",
+          "tip": "Book the pet-cabin at the same time as your ticket, only 8 per ship, sell out in summer. Bring familiar bedding for the dog. Souda port is 7 km east of Chania, bus 11 from the centre 1.80 EUR.",
+          "tipFr": "Réservez la cabine animaux en même temps que le billet, seulement 8 par bateau, complètes en été. Apportez une couverture familière au chien. Souda est à 7 km à l'est de La Canée, bus 11 depuis le centre 1,80 €.",
+          "tipEs": "Reserva el camarote mascota a la vez que el billete, solo 8 por barco, se llenan en verano. Lleva una manta familiar para el perro. El puerto de Souda está a 7 km al este de Chania, bus 11 desde el centro 1,80 €.",
+          "googleMapsUrl": "https://maps.google.com/?q=Souda+Port+Chania",
+          "descriptionPt": "Ferry nocturno Souda (Chania), O Pireu (Atenas), saída 21:00, chegada 06:00. Travessia de 9 horas. Camarotes pet-friendly a pedido. A forma mais relaxada de levar um cão a partir da Grécia continental.",
+          "petPolicyPt": "Camarotes pet-friendly ~30 a 50 € de suplemento. Cães com trela em zonas comuns, jaula disponível no convés (grátis) sem camarote.",
+          "tipPt": "Reserva o camarote animal ao mesmo tempo que o bilhete, só 8 por barco, esgotam no verão. Leva uma manta familiar para o cão. O porto de Souda está a 7 km a leste de Chania, autocarro 11 do centro 1,80 €."
+        },
+        {
+          "name": "KTEL West Crete Buses",
+          "type": "Regional bus",
+          "photo": "/images/city-places/chania-transport-ktel-west-crete-buses.jpg",
+          "website": "https://www.e-ktel.com/",
+          "description": "West-Cretan inter-city and village bus network. Direct lines to Heraklion (3h), Rethymno (1h), Kissamos (45 min, gateway to Balos and Falassarna), and Sougia/Paleochora on the south coast. Departures from the main Chania bus station on Kydonias street.",
+          "descriptionFr": "Réseau inter-cités et villages de Crète occidentale. Lignes directes vers Héraklion (3h), Rethymnon (1h), Kissamos (45 min, porte d'entrée pour Balos et Falassarna) et Sougia/Paleochora sur la côte sud. Départs depuis la gare routière principale rue Kydonias.",
+          "descriptionEs": "Red de autobuses inter-ciudades y pueblos del oeste cretense. Líneas directas a Heraklion (3h), Rethymno (1h), Kissamos (45 min, entrada a Balos y Falassarna) y Sougia/Paleochora en la costa sur. Salidas desde la estación principal en la calle Kydonias.",
+          "petPolicy": "Small dogs in carriers travel free. Larger dogs at driver's discretion (some refuse on long lines).",
+          "petPolicyFr": "Petits chiens en sac gratuits. Chiens plus grands à la discrétion du chauffeur (certains refusent sur les longues lignes).",
+          "petPolicyEs": "Perros pequeños en transportín gratis. Perros más grandes a discreción del conductor (algunos rechazan en líneas largas).",
+          "tip": "Bus to Elafonissi runs once daily in summer (departs 09:00 from Chania, returns 17:00), the cheapest no-car day trip with a small dog in carrier.",
+          "tipFr": "Bus pour Elafonissi une fois par jour en été (départ 9h de La Canée, retour 17h), la sortie sans voiture la moins chère avec un petit chien en sac.",
+          "tipEs": "Bus a Elafonissi una vez al día en verano (sale 09:00 desde Chania, vuelve 17:00), la excursión sin coche más barata con un perro pequeño en transportín.",
+          "googleMapsUrl": "https://maps.google.com/?q=KTEL+Chania+bus+station",
+          "descriptionPt": "Rede de autocarros inter-cidades e aldeias do oeste cretense. Linhas directas para Heraklion (3h), Rethymno (1h), Kissamos (45 min, porta de entrada para Balos e Falassarna) e Sougia/Paleochora na costa sul. Saídas da estação principal na rua Kydonias.",
+          "petPolicyPt": "Cães pequenos em transportadora grátis. Cães maiores ao critério do condutor (alguns recusam em linhas longas).",
+          "tipPt": "Autocarro para Elafonissi uma vez por dia no verão (sai às 09:00 de Chania, regressa às 17:00), a excursão sem carro mais barata com um cão pequeno em transportadora."
+        },
+        {
+          "name": "Chania Airport (CHQ) Aegean / SKY Express",
+          "type": "Air",
+          "photo": "/images/city-places/chania-transport-chania-airport.jpg",
+          "website": "https://www.chq-airport.gr/",
+          "description": "Chania International Airport Ioannis Daskalogiannis on the Akrotiri peninsula, 14 km north-east of the centre. Year-round Aegean and SKY Express flights to Athens; summer charter and low-cost flights to all major EU hubs.",
+          "descriptionFr": "Aéroport international Ioannis Daskalogiannis de La Canée sur la péninsule d'Akrotiri, à 14 km au nord-est du centre. Vols Aegean et SKY Express toute l'année vers Athènes ; vols charter et low-cost saisonniers vers tous les hubs UE.",
+          "descriptionEs": "Aeropuerto Internacional Ioannis Daskalogiannis de Chania en la península de Akrotiri, a 14 km al noreste del centro. Vuelos Aegean y SKY Express todo el año a Atenas; vuelos chárter y low-cost de verano a todos los hubs UE.",
+          "petPolicy": "Aegean and SKY Express accept dogs in cabin under 8 kg (carrier included) for a fixed fee around 50 EUR per leg. Larger dogs travel in hold; book at least 48h ahead.",
+          "petPolicyFr": "Aegean et SKY Express acceptent les chiens en cabine sous 8 kg (sac inclus) pour un forfait d'environ 50 € par segment. Chiens plus grands en soute ; à réserver au moins 48h à l'avance.",
+          "petPolicyEs": "Aegean y SKY Express admiten perros en cabina hasta 8 kg (transportín incluido) por una tarifa fija de unos 50 € por trayecto. Perros más grandes en bodega; reserva con al menos 48h.",
+          "tip": "Bus E from the airport to central Chania runs every 60–90 min (2.50 EUR, small dogs in carrier free), or taxi 35 EUR fixed fare.",
+          "tipFr": "Bus E de l'aéroport au centre de La Canée toutes les 60–90 min (2,50 €, petits chiens en sac gratuits), ou taxi 35 € tarif fixe.",
+          "tipEs": "Bus E del aeropuerto al centro de Chania cada 60–90 min (2,50 €, perros pequeños en transportín gratis), o taxi 35 € tarifa fija.",
+          "googleMapsUrl": "https://maps.google.com/?q=Chania+Airport+CHQ",
+          "descriptionPt": "Aeroporto Internacional Ioannis Daskalogiannis de Chania na península de Akrotiri, a 14 km a nordeste do centro. Voos Aegean e SKY Express o ano inteiro para Atenas; voos charter e low-cost de verão para todos os hubs UE.",
+          "petPolicyPt": "Aegean e SKY Express aceitam cães em cabine até 8 kg (transportadora incluída) por uma taxa fixa de cerca de 50 € por trecho. Cães maiores em porão; reserva com pelo menos 48h.",
+          "tipPt": "Autocarro E do aeroporto ao centro de Chania a cada 60–90 min (2,50 €, cães pequenos em transportadora grátis), ou táxi 35 € tarifa fixa."
+        }
+      ],
+      "tipsEn": [
+        "Chania has no metro or tram, urban buses and taxis cover transit. The walled centre is fully walkable.",
+        "Chania CHQ airport is 14 km north-east on the Akrotiri peninsula, bus E (2.50 EUR) or taxi 35 EUR fixed.",
+        "Athens (Piraeus) overnight ferry from Souda is far easier than flying with a medium or large dog, cabin + sleep + arrive rested."
+      ],
+      "tipsFr": [
+        "La Canée n'a ni métro ni tram, bus urbains et taxis couvrent les déplacements. Le centre fortifié se parcourt entièrement à pied.",
+        "L'aéroport CHQ est à 14 km au nord-est sur la péninsule d'Akrotiri, bus E (2,50 €) ou taxi 35 € forfaitaire.",
+        "Le ferry de nuit Athènes (Pirée) depuis Souda est bien plus simple que l'avion avec un chien moyen ou grand, cabine + sommeil + arrivée reposé."
+      ],
+      "tipsEs": [
+        "Chania no tiene metro ni tranvía, autobuses urbanos y taxis cubren el transporte. El centro amurallado se cruza entero a pie.",
+        "El aeropuerto CHQ está a 14 km al noreste en la península de Akrotiri, bus E (2,50 €) o taxi 35 € fijo.",
+        "El ferry nocturno desde Atenas (Pireo) desde Souda es mucho más fácil que volar con perro mediano o grande, camarote + sueño + llegada descansados."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog on the Athens–Chania ferry?",
+          "a": "Yes. ANEK Lines and Minoan Lines (joint code-share on the Souda–Piraeus line) both offer pet-friendly cabins for ~30–50 EUR supplement, with 8 per ship. Outside cabin, dogs travel in deck kennel cages (free). Book early in summer."
+        },
+        {
+          "q": "How do I get from Chania airport to the centre with a dog?",
+          "a": "Bus E runs every 60–90 min from outside the terminal to the KTEL station (2.50 EUR, small dogs in carrier free). Taxi is 35 EUR fixed fare to the Old Town; call ahead for a large dog."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien sur le ferry Athènes–La Canée ?",
+          "a": "Oui. ANEK Lines et Minoan Lines (code-share commun sur la ligne Souda–Le Pirée) proposent des cabines pet-friendly pour ~30–50 € de supplément, 8 par bateau. Hors cabine, les chiens voyagent en cage sur le pont (gratuit). Réservez tôt en été."
+        },
+        {
+          "q": "Comment aller de l'aéroport de La Canée au centre avec un chien ?",
+          "a": "Bus E toutes les 60–90 min depuis devant le terminal jusqu'à la gare KTEL (2,50 €, petits chiens en sac gratuits). Taxi à tarif fixe 35 € jusqu'à la vieille ville ; appelez avant pour un grand chien."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el ferry Atenas–Chania?",
+          "a": "Sí. ANEK Lines y Minoan Lines (código compartido en la línea Souda–Pireo) ofrecen camarotes pet-friendly por ~30–50 € de suplemento, 8 por barco. Fuera del camarote, los perros viajan en jaula en cubierta (gratis). Reserva pronto en verano."
+        },
+        {
+          "q": "¿Cómo voy del aeropuerto de Chania al centro con perro?",
+          "a": "Bus E cada 60–90 min desde la terminal hasta la estación KTEL (2,50 €, perros pequeños en transportín gratis). Taxi a tarifa fija 35 € al casco antiguo; llama antes para perro grande."
+        }
+      ],
+      "titlePt": "Transporte pet-friendly em Chania, Autocarro, ferry e KTEL",
+      "introPt": "O centro histórico amuralhado de Chania percorre-se a pé em 15 minutos. Para além disso, o porto de Souda (7 km a leste) gere o ferry nocturno ANEK/Minoan para O Pireu, a rede KTEL chega a cada aldeia do oeste de Creta, e o aeroporto de Chania (CHQ) na península de Akrotiri está a 14 km a nordeste.",
+      "tipsPt": [
+        "Chania não tem metro nem elétrico, autocarros urbanos e táxis cobrem o transporte. O centro amuralhado percorre-se inteiramente a pé.",
+        "O aeroporto CHQ está a 14 km a nordeste na península de Akrotiri, autocarro E (2,50 €) ou táxi 35 € fixo.",
+        "O ferry nocturno a partir de Atenas (Pireu) desde Souda é muito mais fácil que voar com cão médio ou grande, camarote + sono + chegada descansado."
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão no ferry Atenas–Chania?",
+          "a": "Sim. ANEK Lines e Minoan Lines (código partilhado na linha Souda–Pireu) oferecem camarotes pet-friendly por ~30–50 € de suplemento, 8 por barco. Fora do camarote, os cães viajam em jaula no convés (grátis). Reserva cedo no verão."
+        },
+        {
+          "q": "Como vou do aeroporto de Chania ao centro com cão?",
+          "a": "Autocarro E a cada 60–90 min desde a terminal até à estação KTEL (2,50 €, cães pequenos em transportadora grátis). Táxi a tarifa fixa 35 € ao centro histórico; liga antes para cão grande."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Chania, Nea Chora, Falassarna, Elafonissi & Balos",
+      "titleFr": "Plages dog-friendly près de La Canée, Nea Chora, Falassarna, Elafonissi et Balos",
+      "titleEs": "Playas pet-friendly cerca de Chania, Nea Chora, Falassarna, Elafonissi y Balos",
+      "introEn": "Chania is the gateway to the most spectacular beaches in Crete: the urban Nea Chora (leashed dogs off-season), the long sandy Falassarna 30 km west, the pink-sand NATURA 2000 Elafonissi 75 km south-west (leashed only), and the lagoon of Balos 55 km north-west (boat from Kissamos).",
+      "introFr": "La Canée est la porte d'entrée des plus belles plages de Crète : la plage urbaine de Nea Chora (chiens en laisse hors-saison), la longue plage de sable de Falassarna à 30 km à l'ouest, la plage de sable rose NATURA 2000 d'Elafonissi à 75 km au sud-ouest (en laisse uniquement) et la lagune de Balos à 55 km au nord-ouest (bateau depuis Kissamos).",
+      "introEs": "Chania es la puerta de entrada a las playas más espectaculares de Creta: la urbana Nea Chora (perros con correa fuera de temporada), la larga playa de arena de Falassarna a 30 km al oeste, la playa de arena rosa NATURA 2000 de Elafonissi a 75 km al suroeste (con correa solamente) y la laguna de Balos a 55 km al noroeste (barco desde Kissamos).",
+      "places": [
+        {
+          "name": "Nea Chora Beach",
+          "address": "Nea Chora, 73100 Chania",
+          "photo": "/images/city-places/chania-beaches-nea-chora-beach.jpg",
+          "leashRule": "Leashed only in high season; off-leash on western half off-season (Oct–May)",
+          "leashRuleFr": "Laisse en haute saison ; sans laisse moitié ouest hors-saison (oct–mai)",
+          "leashRuleEs": "Con correa en alta temporada; sin correa mitad oeste fuera de temporada (oct–mayo)",
+          "description": "The closest beach to the Old Town, 800 m west of the Firkas Fortress. Sandy with a gentle slope, family-friendly. In high season (Jun–Sep) dogs allowed only on lead; off-season the western end becomes a de facto dog beach.",
+          "descriptionFr": "La plage la plus proche de la vieille ville, à 800 m à l'ouest de la forteresse Firkas. Sable à pente douce, familiale. En haute saison (juin–sept) chiens en laisse uniquement ; hors-saison, l'extrémité ouest devient une plage canine de facto.",
+          "descriptionEs": "La playa más cercana al casco antiguo, a 800 m al oeste de la fortaleza Firkas. Arena con pendiente suave, familiar. En alta temporada (jun–sept) perros con correa solamente; fuera de temporada, el extremo oeste se convierte en una playa canina de facto.",
+          "amenities": [
+            "Sandy entry",
+            "Cafés and tavernas",
+            "Showers",
+            "Walking distance from Old Town"
+          ],
+          "amenitiesFr": [
+            "Accès sable",
+            "Cafés et tavernes",
+            "Douches",
+            "À pied depuis la vieille ville"
+          ],
+          "amenitiesEs": [
+            "Acceso de arena",
+            "Cafés y tabernas",
+            "Duchas",
+            "A pie desde el casco antiguo"
+          ],
+          "tip": "Walk 15 min from the Venetian Harbour to reach it. From November to April the western end is empty and effectively a free off-leash beach.",
+          "tipFr": "15 min à pied depuis le port vénitien. De novembre à avril, l'extrémité ouest est vide et fonctionne comme plage canine libre.",
+          "tipEs": "15 min andando desde el puerto veneciano. De noviembre a abril el extremo oeste está vacío y funciona como playa canina libre.",
+          "googleMapsUrl": "https://maps.google.com/?q=Nea+Chora+beach+Chania",
+          "leashRulePt": "Com trela em alta época; sem trela na metade oeste fora de época (out–mai)",
+          "descriptionPt": "A praia mais próxima do centro histórico, a 800 m a oeste do Forte Firkas. Areia com inclinação suave, familiar. Em alta época (jun–set) cães com trela apenas; fora de época, a extremidade oeste torna-se uma praia canina de facto.",
+          "amenitiesPt": [
+            "Acesso de areia",
+            "Cafés e tabernas",
+            "Duches",
+            "A pé desde o centro histórico"
+          ],
+          "tipPt": "Caminha 15 min do Porto Veneciano para a alcançar. De novembro a abril a extremidade oeste está vazia e funciona como praia canina livre."
+        },
+        {
+          "name": "Falassarna Beach",
+          "address": "Falassarna, 73400 Kissamos",
+          "photo": "/images/city-places/chania-beaches-falassarna-beach.jpg",
+          "leashRule": "Leashed only; quiet north end is the local dog spot",
+          "leashRuleFr": "En laisse uniquement ; extrémité nord calme est le coin canin local",
+          "leashRuleEs": "Con correa solamente; el extremo norte tranquilo es la zona canina local",
+          "description": "1 km long sandy beach 30 km west of Chania, the second-best sunset in Greece per Greek media polls. Five distinct coves; the northernmost (Pachia Ammos) is the quietest and the local dog spot.",
+          "descriptionFr": "Plage de sable de 1 km à 30 km à l'ouest de La Canée, deuxième meilleur coucher de soleil de Grèce selon les sondages des médias grecs. Cinq criques distinctes ; la plus au nord (Pachia Ammos) est la plus calme et le spot canin local.",
+          "descriptionEs": "Playa de arena de 1 km a 30 km al oeste de Chania, segundo mejor atardecer de Grecia según las encuestas de los medios griegos. Cinco calas distintas; la más al norte (Pachia Ammos) es la más tranquila y la zona canina local.",
+          "amenities": [
+            "Fine pink-tinted sand",
+            "Crystal water",
+            "Tavernas at the south end",
+            "Free parking"
+          ],
+          "amenitiesFr": [
+            "Sable fin teinté rose",
+            "Eau cristalline",
+            "Tavernes à l'extrémité sud",
+            "Parking gratuit"
+          ],
+          "amenitiesEs": [
+            "Arena fina con tono rosa",
+            "Agua cristalina",
+            "Tabernas en el extremo sur",
+            "Aparcamiento gratuito"
+          ],
+          "tip": "Park at the northern lot to skip the sunbed-rented main beach. KTEL bus from Chania runs twice daily in summer (45 min).",
+          "tipFr": "Garez-vous au parking nord pour éviter la plage centrale louée de transats. Bus KTEL depuis La Canée deux fois par jour en été (45 min).",
+          "tipEs": "Aparca en el parking norte para evitar la playa central de hamacas alquiladas. Bus KTEL desde Chania dos veces al día en verano (45 min).",
+          "googleMapsUrl": "https://maps.google.com/?q=Falassarna+beach",
+          "leashRulePt": "Com trela apenas; extremidade norte calma é o local canino",
+          "descriptionPt": "Praia de areia de 1 km a 30 km a oeste de Chania, segundo melhor pôr do sol da Grécia segundo as sondagens dos meios gregos. Cinco enseadas distintas; a mais a norte (Pachia Ammos) é a mais calma e o local canino local.",
+          "amenitiesPt": [
+            "Areia fina com tom rosa",
+            "Água cristalina",
+            "Tabernas na extremidade sul",
+            "Estacionamento gratuito"
+          ],
+          "tipPt": "Estaciona no parque norte para evitar a praia central com espreguiçadeiras alugadas. Autocarro KTEL de Chania duas vezes por dia no verão (45 min)."
+        },
+        {
+          "name": "Elafonissi (NATURA 2000)",
+          "address": "Elafonissi, 73001 Chania",
+          "photo": "/images/city-places/chania-beaches-elafonissi.jpg",
+          "leashRule": "Leashed only year-round (NATURA 2000 protected zone)",
+          "leashRuleFr": "En laisse toute l'année (zone NATURA 2000 protégée)",
+          "leashRuleEs": "Con correa todo el año (zona NATURA 2000 protegida)",
+          "description": "World-famous pink-sand lagoon 75 km south-west of Chania, separated from the islet by a knee-deep crossing. NATURA 2000 protected dune ecosystem; dogs must stay leashed and on the wet sand at all times.",
+          "descriptionFr": "Lagune de sable rose mondialement célèbre à 75 km au sud-ouest de La Canée, séparée de l'îlot par une traversée à hauteur de genou. Écosystème dunaire protégé NATURA 2000 ; chiens en laisse en permanence et sur sable mouillé uniquement.",
+          "descriptionEs": "Laguna de arena rosa mundialmente famosa a 75 km al suroeste de Chania, separada del islote por un cruce hasta la rodilla. Ecosistema dunar protegido NATURA 2000; perros con correa siempre y sobre arena mojada únicamente.",
+          "amenities": [
+            "Pink-shell sand",
+            "Shallow lagoon ideal for swimming",
+            "Bus access from Chania",
+            "Tavernas at the entry"
+          ],
+          "amenitiesFr": [
+            "Sable de coquillages roses",
+            "Lagune peu profonde idéale pour la baignade",
+            "Accès bus depuis La Canée",
+            "Tavernes à l'entrée"
+          ],
+          "amenitiesEs": [
+            "Arena de conchas rosas",
+            "Laguna poco profunda ideal para nadar",
+            "Acceso en bus desde Chania",
+            "Tabernas en la entrada"
+          ],
+          "tip": "Arrive before 10:00 or after 17:00 to avoid both crowds and the burning midday sand. Wardens enforce the NATURA 2000 rules strictly, do not let your dog dig in the dunes.",
+          "tipFr": "Arrivez avant 10h ou après 17h pour éviter foule et sable brûlant de midi. Les gardes-NATURA font appliquer strictement les règles, ne laissez pas votre chien creuser dans les dunes.",
+          "tipEs": "Llega antes de las 10:00 o después de las 17:00 para evitar multitudes y arena ardiente del mediodía. Los guardas NATURA aplican las reglas estrictamente, no dejes a tu perro cavar en las dunas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Elafonissi+beach",
+          "leashRulePt": "Com trela o ano inteiro (zona NATURA 2000 protegida)",
+          "descriptionPt": "Lagoa de areia rosa mundialmente famosa a 75 km a sudoeste de Chania, separada da ilhota por uma travessia à altura do joelho. Ecossistema dunar protegido NATURA 2000; cães com trela permanentemente e em areia molhada apenas.",
+          "amenitiesPt": [
+            "Areia de conchas rosas",
+            "Lagoa pouco profunda ideal para nadar",
+            "Acesso de autocarro desde Chania",
+            "Tabernas na entrada"
+          ],
+          "tipPt": "Chega antes das 10:00 ou depois das 17:00 para evitar multidões e areia escaldante do meio-dia. Os guardas NATURA aplicam as regras estritamente, não deixes o teu cão escavar nas dunas."
+        },
+        {
+          "name": "Balos Lagoon (boat from Kissamos)",
+          "address": "Gramvousa peninsula, 73400 Chania",
+          "photo": "/images/city-places/chania-beaches-balos-lagoon.jpg",
+          "leashRule": "Leashed only; dogs accepted on the daily cruise boat",
+          "leashRuleFr": "En laisse uniquement ; chiens admis sur le bateau de croisière quotidien",
+          "leashRuleEs": "Con correa solamente; perros admitidos en el barco de crucero diario",
+          "description": "Turquoise-and-white lagoon on the Gramvousa peninsula 55 km north-west, reached by the daily Kissamos cruise (2h round-trip, dogs welcome on deck) or a rough 7 km gravel road plus 1.2 km steep walk down. Iconic Crete postcard.",
+          "descriptionFr": "Lagune turquoise-et-blanche sur la péninsule de Gramvousa à 55 km au nord-ouest, accessible par la croisière quotidienne de Kissamos (2h aller-retour, chiens admis sur le pont) ou par une route de gravier rude de 7 km plus 1,2 km de descente à pied. Carte postale iconique de Crète.",
+          "descriptionEs": "Laguna turquesa-y-blanca en la península de Gramvousa a 55 km al noroeste, accesible por el crucero diario de Kissamos (2h ida y vuelta, perros admitidos en cubierta) o por una pista de grava brusca de 7 km más 1,2 km de bajada a pie. Postal icónica de Creta.",
+          "amenities": [
+            "White-sand and turquoise shallows",
+            "Boat or jeep access",
+            "Minimal shade",
+            "No tavernas on beach"
+          ],
+          "amenitiesFr": [
+            "Sable blanc et eaux turquoise peu profondes",
+            "Accès bateau ou 4x4",
+            "Ombre minimale",
+            "Pas de taverne sur la plage"
+          ],
+          "amenitiesEs": [
+            "Arena blanca y aguas turquesas poco profundas",
+            "Acceso en barco o 4x4",
+            "Sombra mínima",
+            "Sin tabernas en la playa"
+          ],
+          "tip": "The Gramvousa-Balos cruise from Kissamos accepts leashed dogs on the open deck (free); confirm at the ticket office. Bring water, the lagoon has no fresh water and 1 hour of shade total.",
+          "tipFr": "La croisière Gramvousa-Balos depuis Kissamos accepte les chiens en laisse sur le pont ouvert (gratuit) ; confirmez au guichet. Apportez de l'eau, la lagune n'a pas d'eau douce et seulement 1h d'ombre au total.",
+          "tipEs": "El crucero Gramvousa-Balos desde Kissamos admite perros con correa en la cubierta abierta (gratis); confirma en la taquilla. Lleva agua, la laguna no tiene agua dulce y solo 1h de sombra en total.",
+          "googleMapsUrl": "https://maps.google.com/?q=Balos+lagoon+Crete",
+          "leashRulePt": "Com trela apenas; cães aceites no barco de cruzeiro diário",
+          "descriptionPt": "Lagoa turquesa-e-branca na península de Gramvousa a 55 km a noroeste, alcançada pelo cruzeiro diário de Kissamos (2h ida e volta, cães admitidos no convés) ou por uma pista de gravilha rude de 7 km mais 1,2 km de descida a pé. Postal icónico de Creta.",
+          "amenitiesPt": [
+            "Areia branca e águas turquesas pouco profundas",
+            "Acesso de barco ou jipe",
+            "Sombra mínima",
+            "Sem tabernas na praia"
+          ],
+          "tipPt": "O cruzeiro Gramvousa-Balos de Kissamos aceita cães com trela no convés aberto (grátis); confirma na bilheteira. Leva água, a lagoa não tem água doce e só 1h de sombra no total."
+        }
+      ],
+      "tipsEn": [
+        "Greek law (since 2020): municipalities must designate dog-beach zones; Chania has yet to officially sign one, but Nea Chora west end works in practice off-season.",
+        "Elafonissi and Balos are NATURA 2000 protected, dogs must stay on the wet sand and on lead; do not enter the dunes.",
+        "Mediterranean sun is fierce, paw burns are real. Walk on wet sand, not dry, between 11:00 and 17:00 in summer."
+      ],
+      "tipsFr": [
+        "Loi grecque (depuis 2020) : les communes doivent désigner des zones de plage canine ; La Canée n'en a pas encore officialisé, mais l'extrémité ouest de Nea Chora fonctionne en pratique hors-saison.",
+        "Elafonissi et Balos sont protégées NATURA 2000, chiens sur sable mouillé et en laisse ; n'entrez pas dans les dunes.",
+        "Soleil méditerranéen féroce, brûlures de coussinets réelles. Marchez sur sable mouillé, pas sec, entre 11h et 17h en été."
+      ],
+      "tipsEs": [
+        "Ley griega (desde 2020): los municipios deben designar zonas de playa canina; Chania aún no ha oficializado ninguna, pero el extremo oeste de Nea Chora funciona en la práctica fuera de temporada.",
+        "Elafonissi y Balos son NATURA 2000 protegidas, perros sobre arena mojada y con correa; no entres en las dunas.",
+        "Sol mediterráneo feroz, quemaduras de almohadillas reales. Camina sobre arena mojada, no seca, entre 11:00 y 17:00 en verano."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Elafonissi?",
+          "a": "Yes, but on lead only and on the wet sand. Elafonissi is a NATURA 2000 protected zone, the dunes and lagoon shallows are off-limits to dogs to protect nesting birds. KTEL bus from Chania runs once daily in summer."
+        },
+        {
+          "q": "Are there official dog beaches in Chania?",
+          "a": "Not officially signed yet by the municipality (as of 2026). Practically, the western end of Nea Chora functions as a leashed dog beach in season and off-leash off-season. Falassarna's quiet north end is the local large-beach favourite with dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à Elafonissi ?",
+          "a": "Oui, mais en laisse uniquement et sur sable mouillé. Elafonissi est zone protégée NATURA 2000, les dunes et les hauts-fonds de la lagune sont interdits aux chiens pour protéger les oiseaux nicheurs. Bus KTEL depuis La Canée une fois par jour en été."
+        },
+        {
+          "q": "Y a-t-il des plages canines officielles à La Canée ?",
+          "a": "Pas encore officiellement signalées par la commune (en 2026). En pratique, l'extrémité ouest de Nea Chora fonctionne comme plage canine en laisse en saison et sans laisse hors-saison. L'extrémité nord calme de Falassarna est le favori local des grandes plages avec chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a Elafonissi?",
+          "a": "Sí, pero con correa solamente y sobre arena mojada. Elafonissi es zona protegida NATURA 2000, las dunas y los bajíos de la laguna están prohibidos a perros para proteger las aves nidificantes. Bus KTEL desde Chania una vez al día en verano."
+        },
+        {
+          "q": "¿Hay playas caninas oficiales en Chania?",
+          "a": "Aún no señalizadas oficialmente por el municipio (en 2026). En la práctica, el extremo oeste de Nea Chora funciona como playa canina con correa en temporada y sin correa fuera de temporada. El extremo norte tranquilo de Falassarna es el favorito local de las grandes playas con perros."
+        }
+      ],
+      "titlePt": "Praias pet-friendly perto de Chania, Nea Chora, Falassarna, Elafonissi e Balos",
+      "introPt": "Chania é a porta de entrada para as praias mais espectaculares de Creta: a urbana Nea Chora (cães com trela fora de época), a longa praia de areia de Falassarna a 30 km a oeste, a praia de areia rosa NATURA 2000 de Elafonissi a 75 km a sudoeste (com trela apenas) e a lagoa de Balos a 55 km a noroeste (barco de Kissamos).",
+      "tipsPt": [
+        "Lei grega (a partir de 2020): os municípios devem designar zonas de praia canina; Chania ainda não oficializou nenhuma, mas a extremidade oeste de Nea Chora funciona na prática fora de época.",
+        "Elafonissi e Balos são NATURA 2000 protegidas, cães em areia molhada e com trela; não entres nas dunas.",
+        "Sol mediterrânico feroz, queimaduras de almofadinhas reais. Caminha em areia molhada, não seca, entre as 11:00 e as 17:00 no verão."
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão a Elafonissi?",
+          "a": "Sim, mas com trela apenas e em areia molhada. Elafonissi é zona protegida NATURA 2000, as dunas e os baixios da lagoa estão proibidos a cães para proteger as aves nidificantes. Autocarro KTEL de Chania uma vez por dia no verão."
+        },
+        {
+          "q": "Há praias caninas oficiais em Chania?",
+          "a": "Ainda não sinalizadas oficialmente pelo município (em 2026). Na prática, a extremidade oeste de Nea Chora funciona como praia canina com trela em época e sem trela fora de época. A extremidade norte calma de Falassarna é o favorito local das grandes praias com cães."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Chania, Veterinary Clinics & Pet Care",
+      "titleFr": "Vétérinaire d'urgence à La Canée, Cliniques et soins animaliers",
+      "titleEs": "Veterinario de urgencias en Chania, Hospitales y clínicas veterinarias",
+      "introEn": "Chania has solid veterinary coverage thanks to its 110,000 population and large tourist inflow. No single 24/7 hospital matches Heraklion's, but a rotating Vet on Duty system and several daytime clinics cover most needs; for full overnight emergencies, the Heraklion 24h hospital is 2h drive east.",
+      "introFr": "La Canée dispose d'une bonne couverture vétérinaire grâce à ses 110 000 habitants et à un afflux touristique important. Pas d'hôpital 24h/24 unique comme à Héraklion, mais un système de vétérinaire de garde tournant et plusieurs cabinets de jour couvrent l'essentiel ; pour les urgences nocturnes complètes, l'hôpital 24h d'Héraklion est à 2h de route à l'est.",
+      "introEs": "Chania tiene una cobertura veterinaria sólida gracias a sus 110.000 habitantes y a la gran afluencia turística. No hay un único hospital 24h como en Heraklion, pero un sistema rotatorio de veterinario de guardia y varias clínicas diurnas cubren la mayoría de necesidades; para urgencias nocturnas completas, el hospital 24h de Heraklion está a 2h de coche al este.",
+      "places": [
+        {
+          "name": "ChaniaVet (Vizyrakis Georgios)",
+          "address": "Souda, 73200 Chania",
+          "photo": "/images/city-places/chania-vets-chaniavet.jpg",
+          "phone": "+30 28210 23505",
+          "emergency24h": false,
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "website": "https://www.chaniavet.gr/",
+          "description": "Established Chania veterinary clinic on the Souda side, run by Dr Georgios Vizyrakis. Surgery, vaccinations, microchipping, pre-travel certificates, ultrasound. Bilingual EL/EN, accustomed to tourist clients.",
+          "descriptionFr": "Clinique vétérinaire établie de La Canée côté Souda, dirigée par le Dr Georgios Vizyrakis. Chirurgie, vaccins, puçage, certificats de voyage, échographie. Bilingue EL/EN, habituée aux clients touristes.",
+          "descriptionEs": "Clínica veterinaria establecida de Chania en el lado de Souda, dirigida por el Dr Georgios Vizyrakis. Cirugía, vacunas, microchip, certificados de viaje, ecografía. Bilingüe EL/EN, acostumbrada a clientes turistas.",
+          "openingHours": "Mon–Fri 09:00–13:00, 17:30–20:30; Sat 09:00–13:00",
+          "tip": "Call ahead, Dr Vizyrakis often issues EU pet passports for travellers leaving Crete. Greek vets close 13:00–17:30, plan accordingly.",
+          "tipFr": "Appelez avant, le Dr Vizyrakis délivre souvent les passeports européens aux voyageurs quittant la Crète. Les vétérinaires grecs ferment 13h–17h30, anticipez.",
+          "tipEs": "Llama antes, el Dr Vizyrakis emite a menudo pasaportes europeos a viajeros que dejan Creta. Los veterinarios griegos cierran 13:00–17:30, anticípate.",
+          "googleMapsUrl": "https://maps.google.com/?q=ChaniaVet+Souda",
+          "descriptionPt": "Clínica veterinária estabelecida de Chania do lado de Souda, dirigida pelo Dr Georgios Vizyrakis. Cirurgia, vacinas, microchip, certificados de viagem, ecografia. Bilingue EL/EN, habituada a clientes turistas.",
+          "tipPt": "Liga antes, o Dr Vizyrakis emite frequentemente passaportes europeus a viajantes que deixam Creta. Os veterinários gregos fecham 13:00–17:30, antecipa."
+        },
+        {
+          "name": "Animalia Veterinary Clinic (Markantonakis)",
+          "address": "Perivolion 107, 73100 Chania",
+          "photo": "/images/city-places/chania-vets-animalia-veterinary-clinic.jpg",
+          "phone": "+30 28210 73375",
+          "emergency24h": false,
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "website": "",
+          "description": "Daytime clinic run by Dr Ioannis Markantonakis on the south-west edge of Chania toward the Perivolia suburb. Routine care, vaccinations, dermatology, minor surgery. Frequently recommended by Pawshake sitters.",
+          "descriptionFr": "Cabinet de jour dirigé par le Dr Ioannis Markantonakis en bordure sud-ouest de La Canée vers le faubourg de Perivolia. Soins courants, vaccins, dermatologie, petite chirurgie. Souvent recommandé par les sitters Pawshake.",
+          "descriptionEs": "Clínica diurna dirigida por el Dr Ioannis Markantonakis en el borde suroeste de Chania hacia el suburbio de Perivolia. Atención rutinaria, vacunas, dermatología, cirugía menor. Recomendado a menudo por los cuidadores de Pawshake.",
+          "openingHours": "Mon–Fri 09:00–13:30, 17:30–20:30; Sat 09:30–13:00",
+          "tip": "Walk-ins accepted for vaccinations and microchipping. Cash and card accepted.",
+          "tipFr": "Sans rdv accepté pour vaccinations et puçage. Espèces et carte acceptées.",
+          "tipEs": "Sin cita para vacunaciones y microchip. Efectivo y tarjeta admitidos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Animalia+Veterinary+Chania",
+          "descriptionPt": "Clínica diurna dirigida pelo Dr Ioannis Markantonakis na borda sudoeste de Chania para o subúrbio de Perivolia. Cuidados de rotina, vacinas, dermatologia, pequena cirurgia. Frequentemente recomendada pelos cuidadores Pawshake.",
+          "tipPt": "Sem marcação aceite para vacinas e microchip. Dinheiro e cartão aceites."
+        },
+        {
+          "name": "Lefteris Hatzidakis Veterinary",
+          "address": "Markou Botsari 57, 73100 Chania",
+          "photo": "/images/city-places/chania-vets-lefteris-hatzidakis-veterinary.jpg",
+          "phone": "+30 28210 94213",
+          "emergency24h": false,
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "website": "",
+          "description": "Central daytime clinic by Dr Lefteris Hatzidakis, 10 min walk south of the Public Garden. Vaccinations, dental care, X-ray. Convenient for Old Town tourists.",
+          "descriptionFr": "Cabinet central de jour du Dr Lefteris Hatzidakis, à 10 min à pied au sud du Jardin Public. Vaccins, soins dentaires, radio. Pratique pour les touristes de la vieille ville.",
+          "descriptionEs": "Clínica céntrica diurna del Dr Lefteris Hatzidakis, a 10 min a pie al sur del Jardín Público. Vacunas, atención dental, rayos X. Cómoda para turistas del casco antiguo.",
+          "openingHours": "Mon–Fri 09:00–13:00, 17:00–20:30; Sat 09:00–13:00",
+          "tip": "Most central vet in Chania, useful if you're staying in the Old Town. Call ahead for non-vaccination visits.",
+          "tipFr": "Vétérinaire le plus central de La Canée, utile si vous logez en vieille ville. Appelez avant pour les visites hors vaccination.",
+          "tipEs": "El veterinario más céntrico de Chania, útil si te alojas en el casco antiguo. Llama antes para visitas que no sean de vacunación.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hatzidakis+veterinary+Chania",
+          "descriptionPt": "Clínica central diurna do Dr Lefteris Hatzidakis, a 10 min a pé a sul do Jardim Público. Vacinas, cuidados dentários, raio X. Conveniente para turistas do centro histórico.",
+          "tipPt": "Veterinário mais central de Chania, útil se ficar no centro histórico. Liga antes para visitas que não sejam de vacinação."
+        }
+      ],
+      "tipsEn": [
+        "Greece requires an EU pet passport (or AHC) plus microchip and rabies vaccination at least 21 days old for cross-border travel.",
+        "Leishmaniasis is endemic in Crete, annual blood test recommended for visiting dogs from non-endemic areas.",
+        "Chania has a rotating 'Vet on Duty' weekend system; emergency number +30 6973 272 282 (Sat 17:30–20:30, Sun 10:30–13:30 and 17:30–20:30)."
+      ],
+      "tipsFr": [
+        "La Grèce exige un passeport européen (ou AHC) + puce + vaccin rage au moins 21 jours pour les voyages transfrontaliers.",
+        "La leishmaniose est endémique en Crète, test sanguin annuel recommandé pour les chiens visiteurs venant de zones non endémiques.",
+        "La Canée a un système « vétérinaire de garde » tournant le week-end ; numéro d'urgence +30 6973 272 282 (sam 17h30–20h30, dim 10h30–13h30 et 17h30–20h30)."
+      ],
+      "tipsEs": [
+        "Grecia exige pasaporte europeo (o AHC) + microchip + vacuna rabia al menos 21 días para viajes transfronterizos.",
+        "La leishmaniosis es endémica en Creta, análisis de sangre anual recomendado para perros visitantes de zonas no endémicas.",
+        "Chania tiene un sistema «veterinario de guardia» rotatorio en fin de semana; número de urgencia +30 6973 272 282 (sáb 17:30–20:30, dom 10:30–13:30 y 17:30–20:30)."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Chania?",
+          "a": "Not a single permanent 24h hospital like Heraklion. Instead, Chania runs a 'Vet on Duty' weekend rotation (+30 6973 272 282) and weekday daytime clinics. For overnight ICU emergencies, drive 2h east to Heraklion Veterinary Hospital."
+        },
+        {
+          "q": "How much does a vet visit cost in Chania?",
+          "a": "Greek vet fees are among Europe's most affordable: routine consultation 25–40 EUR, emergency visit 60–110 EUR plus diagnostics. Major surgeries 400–1500 EUR. EU pet insurance accepted at all listed clinics."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à La Canée ?",
+          "a": "Pas d'hôpital permanent 24h comme à Héraklion. À la place, La Canée a une rotation « vétérinaire de garde » le week-end (+30 6973 272 282) et des cabinets de jour en semaine. Pour les urgences nocturnes en soins intensifs, comptez 2h de route à l'est jusqu'à l'hôpital vétérinaire d'Héraklion."
+        },
+        {
+          "q": "Combien coûte une visite vétérinaire à La Canée ?",
+          "a": "Les tarifs vétérinaires grecs sont parmi les plus abordables d'Europe : consultation classique 25–40 €, urgence 60–110 € + diagnostic. Chirurgies majeures 400–1500 €. Assurances animales européennes acceptées dans toutes les cliniques listées."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario 24h en Chania?",
+          "a": "No hay un único hospital permanente 24h como en Heraklion. En cambio, Chania tiene una rotación de «veterinario de guardia» en fin de semana (+30 6973 272 282) y clínicas diurnas entre semana. Para urgencias nocturnas en UCI, 2h de coche al este hasta el Hospital Veterinario de Heraklion."
+        },
+        {
+          "q": "¿Cuánto cuesta una visita veterinaria en Chania?",
+          "a": "Las tarifas veterinarias griegas están entre las más asequibles de Europa: consulta rutinaria 25–40 €, urgencia 60–110 € + diagnósticos. Cirugías mayores 400–1500 €. Seguros de mascotas de la UE aceptados en todas las clínicas listadas."
+        }
+      ],
+      "titlePt": "Veterinário de urgências em Chania, Hospitais e clínicas veterinárias",
+      "introPt": "Chania tem uma cobertura veterinária sólida graças aos seus 110.000 habitantes e ao grande afluxo turístico. Não há um único hospital 24h como em Heraklion, mas um sistema rotativo de veterinário de serviço e várias clínicas diurnas cobrem a maioria das necessidades; para urgências nocturnas completas, o hospital 24h de Heraklion está a 2h de carro a leste.",
+      "tipsPt": [
+        "A Grécia exige um passaporte europeu (ou AHC) + microchip + vacina antirrábica com pelo menos 21 dias para viagens transfronteiriças.",
+        "A leishmaniose é endémica em Creta, análise de sangue anual recomendada para cães visitantes vindos de zonas não endémicas.",
+        "Chania tem um sistema rotativo de «veterinário de serviço» ao fim de semana; número de emergência +30 6973 272 282 (sáb 17:30–20:30, dom 10:30–13:30 e 17:30–20:30)."
+      ],
+      "faqsPt": [
+        {
+          "q": "Há veterinário 24h em Chania?",
+          "a": "Não há um único hospital permanente 24h como em Heraklion. Em vez disso, Chania tem uma rotação de «veterinário de serviço» ao fim de semana (+30 6973 272 282) e clínicas diurnas durante a semana. Para urgências nocturnas em UCI, 2h de carro a leste até ao Hospital Veterinário de Heraklion."
+        },
+        {
+          "q": "Quanto custa uma visita veterinária em Chania?",
+          "a": "As taxas veterinárias gregas estão entre as mais acessíveis da Europa: consulta de rotina 25–40 €, urgência 60–110 € + diagnósticos. Cirurgias maiores 400–1500 €. Seguros de animais da UE aceites em todas as clínicas listadas."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Travel Tips for Chania with Your Dog",
+      "titleFr": "Conseils de voyage à La Canée avec votre chien",
+      "titleEs": "Consejos de viaje a Chania con tu perro",
+      "introEn": "Chania is arguably the most beautiful and most dog-friendly city in Greece: a walkable Venetian Old Town, year-round mild climate, the Egyptian Lighthouse walk, and gateway access to Falassarna, Elafonissi and Balos. Main constraints are summer heat (32 °C in July) and the absence of a permanent 24h vet hospital.",
+      "introFr": "La Canée est sans doute la ville la plus belle et la plus dog-friendly de Grèce : vieille ville vénitienne marchable, climat doux toute l'année, promenade du phare égyptien et porte d'entrée vers Falassarna, Elafonissi et Balos. Les contraintes principales sont la chaleur estivale (32 °C en juillet) et l'absence d'hôpital vétérinaire 24h permanent.",
+      "introEs": "Chania es probablemente la ciudad más bonita y más pet-friendly de Grecia: casco antiguo veneciano caminable, clima suave todo el año, paseo del faro egipcio y puerta de entrada a Falassarna, Elafonissi y Balos. Las principales limitaciones son el calor estival (32 °C en julio) y la ausencia de un hospital veterinario 24h permanente.",
+      "places": [
+        {
+          "name": "Best season",
+          "photo": "/images/city-places/chania-tips-best-season.jpg",
+          "description": "April–June and September–October are ideal: 18–26 °C, dry, sea at swimmable temperature, dog-tolerant beaches less crowded. Avoid July–August (28–32 °C, peak crowds, Elafonissi packed) and December–January (rainy, some tavernas seasonally closed).",
+          "descriptionFr": "Avril–juin et septembre–octobre sont idéaux : 18–26 °C, sec, mer à température de baignade, plages tolérantes aux chiens moins fréquentées. Évitez juillet–août (28–32 °C, pic de foule, Elafonissi bondée) et décembre–janvier (pluvieux, certaines tavernes fermées saisonnièrement).",
+          "descriptionEs": "Abril–junio y septiembre–octubre son ideales: 18–26 °C, seco, mar a temperatura de baño, playas tolerantes con perros menos concurridas. Evita julio–agosto (28–32 °C, pico de gente, Elafonissi llena) y diciembre–enero (lluvioso, algunas tabernas cerradas por temporada).",
+          "descriptionPt": "Abril–junho e setembro–outubro são ideais: 18–26 °C, seco, mar a temperatura de banho, praias tolerantes a cães menos concorridas. Evita julho–agosto (28–32 °C, pico de gente, Elafonissi cheia) e dezembro–janeiro (chuvoso, algumas tabernas fechadas por época)."
+        },
+        {
+          "name": "Elafonissi & Balos with a dog",
+          "photo": "/images/city-places/chania-tips-elafonissi-balos-with-a-dog.jpg",
+          "description": "The two Crete-postcard beaches are both reachable with a dog but require planning: Elafonissi (75 km SW) needs leash on the wet sand only (NATURA 2000 dunes are forbidden); Balos (55 km NW) is easiest via the Kissamos cruise (dogs free on open deck). Bring 2 litres of water per dog, neither beach has fresh water.",
+          "descriptionFr": "Les deux plages cartes postales de Crète sont accessibles avec un chien mais demandent du planning : Elafonissi (75 km SO) impose la laisse sur sable mouillé uniquement (dunes NATURA 2000 interdites) ; Balos (55 km NO) est plus simple via la croisière Kissamos (chiens gratuits sur le pont ouvert). Prévoyez 2 litres d'eau par chien, aucune des deux plages n'a d'eau douce.",
+          "descriptionEs": "Las dos playas-postal de Creta son accesibles con perro pero requieren planificación: Elafonissi (75 km SO) exige correa sobre arena mojada solamente (dunas NATURA 2000 prohibidas); Balos (55 km NO) es más fácil vía el crucero de Kissamos (perros gratis en cubierta abierta). Lleva 2 litros de agua por perro, ninguna playa tiene agua dulce.",
+          "descriptionPt": "As duas praias-postal de Creta são acessíveis com cão mas requerem planeamento: Elafonissi (75 km SO) exige trela em areia molhada apenas (dunas NATURA 2000 proibidas); Balos (55 km NO) é mais fácil via o cruzeiro de Kissamos (cães grátis no convés aberto). Leva 2 litros de água por cão, nenhuma das praias tem água doce."
+        },
+        {
+          "name": "Currency & cost",
+          "photo": "/images/city-places/chania-tips-currency-cost.jpg",
+          "description": "Greece uses the euro. Chania is mid-priced among Greek cities (slightly above Heraklion): meal 16–28 EUR, taverna mezedes 4–9 EUR/plate, mid-range pet-friendly hotel 90–160 EUR/night, taxi airport to centre 35 EUR fixed fare.",
+          "descriptionFr": "La Grèce utilise l'euro. La Canée est à prix moyens parmi les villes grecques (légèrement au-dessus d'Héraklion) : repas 16–28 €, mezedes 4–9 €/plat, hôtel pet-friendly milieu de gamme 90–160 €/nuit, taxi aéroport-centre 35 € tarif fixe.",
+          "descriptionEs": "Grecia usa el euro. Chania tiene precios medios entre las ciudades griegas (ligeramente por encima de Heraklion): comida 16–28 €, mezedes 4–9 €/plato, hotel pet-friendly de gama media 90–160 €/noche, taxi aeropuerto–centro 35 € tarifa fija.",
+          "descriptionPt": "A Grécia usa o euro. Chania tem preços médios entre as cidades gregas (ligeiramente acima de Heraklion): refeição 16–28 €, mezedes 4–9 €/prato, hotel pet-friendly de gama média 90–160 €/noite, táxi aeroporto–centro 35 € tarifa fixa."
+        }
+      ],
+      "tipsEn": [
+        "The Venetian Harbour and the Egyptian Lighthouse breakwater are the navigational anchors; most pet-friendly hotels are within 10 min walk.",
+        "Greek dinner times are late (21:00–23:00); aperitivo-style meze at 19:00 is the dog-friendly alternative before the harbour terraces fill.",
+        "Always carry water, Cretan summer heat kills dogs every year; refill at any taverna for free."
+      ],
+      "tipsFr": [
+        "Le port vénitien et la jetée du phare égyptien sont les repères de navigation ; la plupart des hôtels pet-friendly sont à moins de 10 min à pied.",
+        "Les horaires de dîner grecs sont tardifs (21h–23h) ; meze à 19h est l'alternative dog-friendly avant que les terrasses du port ne se remplissent.",
+        "Apportez toujours de l'eau, la chaleur estivale crétoise tue des chiens chaque année ; remplissez gratuitement à toute taverne."
+      ],
+      "tipsEs": [
+        "El Puerto Veneciano y el dique del faro egipcio son las referencias de navegación; la mayoría de hoteles pet-friendly están a menos de 10 min a pie.",
+        "Los horarios de cena griegos son tardíos (21:00–23:00); meze a las 19:00 es la alternativa dog-friendly antes de que se llenen las terrazas del puerto.",
+        "Lleva siempre agua, el calor estival cretense mata perros cada año; rellena gratis en cualquier taberna."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Chania dog-friendly overall?",
+          "a": "Yes, arguably the most dog-friendly Greek city. The walled Old Town walks in 15 min, the Egyptian Lighthouse breakwater is the flagship sunset dog walk, four spectacular dog-accessible beaches surround the city, and Cretan taverna culture welcomes dogs on terraces by default. Summer heat is the only real constraint."
+        },
+        {
+          "q": "Can I do Elafonissi and Balos as day trips with my dog?",
+          "a": "Yes, both as day trips. Elafonissi by car (1h45 each way) or daily KTEL bus in summer; leashed on wet sand only. Balos by Kissamos cruise (dogs free on open deck, 2h round trip plus 3h on the beach) or rough jeep track. Bring water, neither has fresh water on site."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "La Canée est-elle dog-friendly globalement ?",
+          "a": "Oui, sans doute la ville grecque la plus dog-friendly. La vieille ville fortifiée se parcourt en 15 min, la jetée du phare égyptien est la promenade canine phare au coucher du soleil, quatre plages spectaculaires accessibles aux chiens entourent la ville, et la culture taverne crétoise accueille les chiens en terrasse par défaut. La chaleur estivale est la seule vraie contrainte."
+        },
+        {
+          "q": "Puis-je faire Elafonissi et Balos en excursions avec mon chien ?",
+          "a": "Oui, les deux en excursions à la journée. Elafonissi en voiture (1h45 par trajet) ou bus KTEL quotidien en été ; en laisse sur sable mouillé uniquement. Balos en croisière depuis Kissamos (chiens gratuits sur le pont ouvert, 2h aller-retour plus 3h sur la plage) ou piste 4x4 rude. Apportez de l'eau, aucune des deux n'a d'eau douce sur place."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Chania pet-friendly en general?",
+          "a": "Sí, probablemente la ciudad griega más pet-friendly. El casco antiguo amurallado se cruza en 15 min, el dique del faro egipcio es el paseo canino estrella al atardecer, cuatro playas espectaculares accesibles a perros rodean la ciudad, y la cultura de tabernas cretenses admite perros en terraza por defecto. El calor estival es la única limitación real."
+        },
+        {
+          "q": "¿Puedo hacer Elafonissi y Balos como excursiones con mi perro?",
+          "a": "Sí, las dos como excursiones de un día. Elafonissi en coche (1h45 por trayecto) o bus KTEL diario en verano; con correa sobre arena mojada solamente. Balos en crucero desde Kissamos (perros gratis en cubierta abierta, 2h ida y vuelta más 3h en la playa) o pista 4x4 brusca. Lleva agua, ninguna tiene agua dulce in situ."
+        }
+      ],
+      "titlePt": "Conselhos de viagem a Chania com o seu cão",
+      "introPt": "Chania é provavelmente a cidade mais bonita e mais pet-friendly da Grécia: centro histórico veneciano pedonal, clima suave o ano inteiro, passeio do farol egípcio e porta de entrada para Falassarna, Elafonissi e Balos. As principais limitações são o calor estival (32 °C em julho) e a ausência de um hospital veterinário 24h permanente.",
+      "tipsPt": [
+        "O Porto Veneciano e o molhe do farol egípcio são as referências de navegação; a maioria dos hotéis pet-friendly fica a menos de 10 min a pé.",
+        "Os horários de jantar gregos são tardios (21:00–23:00); meze às 19:00 é a alternativa pet-friendly antes que as esplanadas do porto encham.",
+        "Leva sempre água, o calor estival cretense mata cães todos os anos; reabastece gratuitamente em qualquer taberna."
+      ],
+      "faqsPt": [
+        {
+          "q": "É Chania pet-friendly no geral?",
+          "a": "Sim, provavelmente a cidade grega mais pet-friendly. O centro histórico amuralhado percorre-se em 15 min, o molhe do farol egípcio é o passeio canino estrela ao pôr do sol, quatro praias espectaculares acessíveis a cães rodeiam a cidade, e a cultura de tabernas cretenses admite cães em esplanada por defeito. O calor estival é a única limitação real."
+        },
+        {
+          "q": "Posso fazer Elafonissi e Balos como excursões com o meu cão?",
+          "a": "Sim, ambas como excursões de um dia. Elafonissi de carro (1h45 por trajecto) ou autocarro KTEL diário no verão; com trela em areia molhada apenas. Balos no cruzeiro de Kissamos (cães grátis no convés aberto, 2h ida e volta mais 3h na praia) ou pista 4x4 rude. Leva água, nenhuma tem água doce no local."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Top Pet-Friendly Attractions in Chania, Venetian Harbour, Splantzia & Firkas",
+      "titleFr": "Meilleures attractions pet-friendly à La Canée, Port vénitien, Splantzia et Firkas",
+      "titleEs": "Mejores atracciones pet-friendly en Chania, Puerto Veneciano, Splantzia y Firkas",
+      "introEn": "Chania's Old Town is best experienced as an outdoor architectural walk, perfect with a leashed dog. The Venetian Harbour, the Firkas Fortress ramparts, the Yiali Tzami mosque exterior, the Municipal Market and the Splantzia alleys are all dog-accessible; only the Archaeological Museum interior prohibits pets.",
+      "introFr": "La vieille ville de La Canée se découvre en promenade architecturale extérieure, parfait avec un chien en laisse. Le port vénitien, les remparts de la forteresse Firkas, l'extérieur du Yiali Tzami, la halle municipale et les ruelles de Splantzia sont accessibles aux chiens ; seul l'intérieur du Musée Archéologique interdit les animaux.",
+      "introEs": "El casco antiguo de Chania se disfruta como paseo arquitectónico al aire libre, perfecto con perro con correa. El Puerto Veneciano, las murallas de la fortaleza Firkas, el exterior del Yiali Tzami, el Mercado Municipal y las callejuelas de Splantzia son accesibles a perros; solo el interior del Museo Arqueológico prohíbe mascotas.",
+      "places": [
+        {
+          "name": "Firkas Fortress",
+          "address": "Akti Kountourioti, 73100 Chania",
+          "photo": "/images/city-places/chania-attractions-firkas-fortress.jpg",
+          "petFriendly": true,
+          "description": "16th-century Venetian fortress at the western entrance of the harbour, where the Greek flag was raised in 1913 to mark the union with Crete. The outer ramparts and courtyard are dog-accessible; the small Maritime Museum inside is not.",
+          "descriptionFr": "Forteresse vénitienne du XVIe siècle à l'entrée ouest du port, où le drapeau grec fut hissé en 1913 pour marquer l'union avec la Crète. Les remparts extérieurs et la cour sont accessibles aux chiens ; le petit Musée Maritime à l'intérieur ne l'est pas.",
+          "descriptionEs": "Fortaleza veneciana del s. XVI en la entrada oeste del puerto, donde la bandera griega fue izada en 1913 para marcar la unión con Creta. Las murallas exteriores y el patio son accesibles a perros; el pequeño Museo Marítimo del interior no lo es.",
+          "petPolicy": "Dogs welcome on outer ramparts and courtyard; not inside Maritime Museum",
+          "petPolicyFr": "Chiens admis sur les remparts extérieurs et la cour ; pas dans le Musée Maritime",
+          "petPolicyEs": "Perros admitidos en las murallas exteriores y el patio; no dentro del Museo Marítimo",
+          "openingHours": "Outdoor area open 24/7; Maritime Museum Tue–Sun 09:00–16:00",
+          "tip": "Climb to the upper rampart for the best panorama of the Venetian Harbour and Egyptian Lighthouse. Sunset light hits the harbour around 19:45 in summer.",
+          "tipFr": "Montez au rempart supérieur pour le meilleur panorama du port vénitien et du phare égyptien. La lumière du couchant frappe le port vers 19h45 en été.",
+          "tipEs": "Sube a la muralla superior para el mejor panorama del Puerto Veneciano y el faro egipcio. La luz del atardecer alcanza el puerto hacia las 19:45 en verano.",
+          "googleMapsUrl": "https://maps.google.com/?q=Firkas+Fortress+Chania",
+          "descriptionPt": "Fortaleza veneciana do séc. XVI na entrada oeste do porto, onde a bandeira grega foi içada em 1913 para marcar a união com Creta. As muralhas exteriores e o pátio são acessíveis a cães; o pequeno Museu Marítimo no interior não é.",
+          "petPolicyPt": "Cães admitidos nas muralhas exteriores e no pátio; não dentro do Museu Marítimo",
+          "tipPt": "Sobe à muralha superior para o melhor panorama do Porto Veneciano e do farol egípcio. A luz do pôr do sol atinge o porto pelas 19:45 no verão."
+        },
+        {
+          "name": "Splantzia (Plateia 1821)",
+          "address": "Plateia 1821, 73100 Chania",
+          "photo": "/images/city-places/chania-attractions-splantzia-plateia-1821.jpg",
+          "petFriendly": true,
+          "description": "The Ottoman-era quarter north-east of the cathedral, organised around the shaded Plateia 1821 with its giant plane tree. The most atmospheric and least touristy part of the Old Town, dog-welcoming cafés on the square year-round.",
+          "descriptionFr": "Le quartier ottoman au nord-est de la cathédrale, organisé autour de la Plateia 1821 ombragée par son immense platane. La partie la plus atmosphérique et la moins touristique de la vieille ville, cafés accueillants pour chiens sur la place toute l'année.",
+          "descriptionEs": "El barrio otomano al noreste de la catedral, organizado en torno a la Plateia 1821 sombreada por su gigantesco plátano. La parte más atmosférica y menos turística del casco antiguo, cafés acogedores para perros en la plaza todo el año.",
+          "petPolicy": "Open public square; dogs welcome on lead on cafés terraces",
+          "petPolicyFr": "Place publique ouverte ; chiens admis en laisse en terrasses des cafés",
+          "petPolicyEs": "Plaza pública abierta; perros admitidos con correa en terrazas de cafés",
+          "openingHours": "Open 24/7",
+          "tip": "The 17th-century Agios Nikolaos church on the square has a unique double bell-tower-and-minaret arrangement, signalling its Christian-then-Ottoman-then-Christian history. Best photographed from a café table with your dog.",
+          "tipFr": "L'église Agios Nikolaos du XVIIe siècle sur la place a un arrangement unique clocher-minaret double, marquant son histoire chrétienne-puis-ottomane-puis-chrétienne. Mieux photographiée depuis une table de café avec votre chien.",
+          "tipEs": "La iglesia de Agios Nikolaos del s. XVII en la plaza tiene una disposición única de campanario y minarete dobles, marcando su historia cristiana-luego-otomana-luego-cristiana. Mejor fotografiada desde una mesa de café con tu perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Splantzia+Chania",
+          "descriptionPt": "O bairro otomano a nordeste da catedral, organizado em torno da Plateia 1821 sombreada pelo seu gigantesco plátano. A parte mais atmosférica e menos turística do centro histórico, cafés acolhedores para cães na praça o ano inteiro.",
+          "petPolicyPt": "Praça pública aberta; cães admitidos com trela nas esplanadas dos cafés",
+          "tipPt": "A igreja de Agios Nikolaos do séc. XVII na praça tem uma disposição única de campanário e minarete duplos, marcando a sua história cristã-depois-otomana-depois-cristã. Melhor fotografada de uma mesa de café com o seu cão."
+        },
+        {
+          "name": "Municipal Market (Agora) 1913",
+          "address": "Chatzimichali Giannari, 73100 Chania",
+          "photo": "/images/city-places/chania-attractions-municipal-market.jpg",
+          "petFriendly": false,
+          "description": "Cruciform covered market hall built in 1913 to celebrate Crete's union with Greece, modelled on the Marseille market. 76 stalls of fish, meat, cheese, herbs and souvenirs. Dogs not allowed in the food-stall corridors but the outer courtyard is fine.",
+          "descriptionFr": "Halle couverte cruciforme construite en 1913 pour célébrer l'union de la Crète avec la Grèce, sur le modèle du marché de Marseille. 76 étals de poisson, viande, fromage, herbes et souvenirs. Chiens interdits dans les couloirs alimentaires mais la cour extérieure est ok.",
+          "descriptionEs": "Mercado cubierto cruciforme construido en 1913 para celebrar la unión de Creta con Grecia, modelado sobre el mercado de Marsella. 76 puestos de pescado, carne, queso, hierbas y souvenirs. Perros no admitidos en los pasillos alimentarios pero el patio exterior está bien.",
+          "petPolicy": "No dogs inside food corridors; outer courtyard accessible",
+          "petPolicyFr": "Chiens interdits dans les couloirs alimentaires ; cour extérieure accessible",
+          "petPolicyEs": "Sin perros en pasillos alimentarios; patio exterior accesible",
+          "openingHours": "Mon–Sat 08:00–14:00; Tue/Thu/Fri also 17:30–20:30",
+          "tip": "Pick up Cretan graviera cheese, dakos rusks and thyme honey at the herb stalls. Tie the dog at the courtyard rail (under your eye) for 5 min while shopping.",
+          "tipFr": "Achetez du fromage graviera crétois, des dakos et du miel de thym aux étals d'herbes. Attachez le chien à la rambarde de la cour (sous votre œil) 5 min le temps des courses.",
+          "tipEs": "Compra queso graviera cretense, dakos y miel de tomillo en los puestos de hierbas. Ata al perro a la barandilla del patio (bajo tu vista) 5 min mientras compras.",
+          "googleMapsUrl": "https://maps.google.com/?q=Chania+Municipal+Market",
+          "descriptionPt": "Mercado coberto cruciforme construído em 1913 para celebrar a união de Creta com a Grécia, modelado no mercado de Marselha. 76 bancas de peixe, carne, queijo, ervas e souvenirs. Cães não admitidos nos corredores alimentares mas o pátio exterior está bem.",
+          "petPolicyPt": "Sem cães nos corredores alimentares; pátio exterior acessível",
+          "tipPt": "Compra queijo graviera cretense, dakos e mel de tomilho nas bancas de ervas. Amarra o cão à corrimão do pátio (sob a tua vista) 5 min enquanto fazes compras."
+        }
+      ],
+      "tipsEn": [
+        "All major outdoor sights in Chania are within a 10-min walking radius from the Venetian Harbour.",
+        "Archaeological Museum, Maritime Museum and the Yiali Tzami exhibitions all prohibit dogs; the buildings' exteriors are fully accessible.",
+        "The 800 m breakwater out to the Egyptian Lighthouse is the city's flagship walk, especially at sunset."
+      ],
+      "tipsFr": [
+        "Tous les grands sites extérieurs de La Canée sont à moins de 10 min à pied du port vénitien.",
+        "Musée Archéologique, Musée Maritime et expositions du Yiali Tzami interdisent tous les chiens ; les extérieurs des bâtiments sont entièrement accessibles.",
+        "La jetée de 800 m vers le phare égyptien est la promenade phare de la ville, surtout au coucher du soleil."
+      ],
+      "tipsEs": [
+        "Todos los grandes monumentos exteriores de Chania están a menos de 10 min a pie del Puerto Veneciano.",
+        "Museo Arqueológico, Museo Marítimo y exposiciones del Yiali Tzami prohíben todos los perros; los exteriores de los edificios son totalmente accesibles.",
+        "El dique de 800 m hasta el faro egipcio es el paseo estrella de la ciudad, sobre todo al atardecer."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog to the Firkas Fortress?",
+          "a": "Yes to the outer ramparts and the courtyard, these are open public spaces. No to the Maritime Museum inside, which prohibits pets. The upper rampart panorama is the best harbour view in Chania and dog-accessible."
+        },
+        {
+          "q": "Is Splantzia worth a visit with a dog?",
+          "a": "Absolutely. Splantzia is the most atmospheric quarter of Chania, less touristy than the harbour, with dog-friendly cafés on Plateia 1821 under a giant plane tree, and quieter alleys to explore. It's also the calmest dinner zone."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à la forteresse Firkas ?",
+          "a": "Oui pour les remparts extérieurs et la cour, espaces publics ouverts. Non pour le Musée Maritime à l'intérieur, qui interdit les animaux. Le panorama du rempart supérieur est la meilleure vue sur le port de La Canée et accessible aux chiens."
+        },
+        {
+          "q": "Splantzia vaut-elle une visite avec un chien ?",
+          "a": "Absolument. Splantzia est le quartier le plus atmosphérique de La Canée, moins touristique que le port, avec des cafés accueillants pour chiens sur la Plateia 1821 sous un immense platane, et des ruelles plus calmes à explorer. C'est aussi la zone dîner la plus calme."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a la fortaleza Firkas?",
+          "a": "Sí a las murallas exteriores y el patio, espacios públicos abiertos. No al Museo Marítimo del interior, que prohíbe mascotas. El panorama de la muralla superior es la mejor vista al puerto de Chania y accesible a perros."
+        },
+        {
+          "q": "¿Merece la pena Splantzia con perro?",
+          "a": "Absolutamente. Splantzia es el barrio más atmosférico de Chania, menos turístico que el puerto, con cafés acogedores para perros en la Plateia 1821 bajo un gigantesco plátano, y callejuelas más tranquilas que explorar. Es también la zona de cena más tranquila."
+        }
+      ],
+      "titlePt": "Melhores atracções pet-friendly em Chania, Porto Veneciano, Splantzia e Firkas",
+      "introPt": "O centro histórico de Chania descobre-se como passeio arquitectónico ao ar livre, perfeito com cão com trela. O Porto Veneciano, as muralhas do Forte Firkas, o exterior do Yiali Tzami, o Mercado Municipal e as viélas de Splantzia são acessíveis a cães; só o interior do Museu Arqueológico proíbe animais.",
+      "tipsPt": [
+        "Todos os grandes monumentos exteriores de Chania estão a menos de 10 min a pé do Porto Veneciano.",
+        "Museu Arqueológico, Museu Marítimo e exposições do Yiali Tzami proíbem todos os cães; os exteriores dos edifícios são totalmente acessíveis.",
+        "O molhe de 800 m até ao farol egípcio é o passeio estrela da cidade, sobretudo ao pôr do sol."
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão ao Forte Firkas?",
+          "a": "Sim para as muralhas exteriores e para o pátio, espaços públicos abertos. Não para o Museu Marítimo no interior, que proíbe animais. O panorama da muralha superior é a melhor vista para o porto de Chania e acessível a cães."
+        },
+        {
+          "q": "Splantzia vale uma visita com cão?",
+          "a": "Absolutamente. Splantzia é o bairro mais atmosférico de Chania, menos turístico que o porto, com cafés acolhedores para cães na Plateia 1821 sob um gigantesco plátano, e viélas mais calmas para explorar. É também a zona de jantar mais calma."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog-Sitting & Daycare in Chania, Verified Platforms",
+      "titleFr": "Garde de chiens et crèche canine à La Canée, Plateformes vérifiées",
+      "titleEs": "Cuidado de perros y guardería canina en Chania, Plataformas verificadas",
+      "introEn": "Long lunches at the Venetian Harbour, the Maritime Museum visit, the Elafonissi day trip if your dog can't take the heat, all sometimes require leaving your dog. Pawshake and DogBuddy/Rover operate in Chania with around 10 verified local sitters, plus an informal Cretan dog-walker network.",
+      "introFr": "Les longs déjeuners au port vénitien, la visite du Musée Maritime, l'excursion à Elafonissi si votre chien ne supporte pas la chaleur, tout cela impose parfois de laisser son chien. Pawshake et DogBuddy/Rover opèrent à La Canée avec environ 10 sitters locaux vérifiés, plus un réseau informel crétois de promeneurs de chiens.",
+      "introEs": "Las comidas largas en el Puerto Veneciano, la visita al Museo Marítimo, la excursión a Elafonissi si tu perro no soporta el calor, todo eso obliga a veces a dejar al perro. Pawshake y DogBuddy/Rover operan en Chania con unos 10 cuidadores locales verificados, más una red informal cretense de paseadores de perros.",
+      "places": [
+        {
+          "name": "Pawshake Chania",
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "description": "International platform with ~7 verified sitters in Chania and west Crete. Drop-in visits, daycare, overnight boarding. Insurance included, reviewed sitters.",
+          "descriptionFr": "Plateforme internationale avec ~7 sitters vérifiés à La Canée et en Crète occidentale. Visites à domicile, crèche, hébergement de nuit. Assurance incluse, sitters notés.",
+          "descriptionEs": "Plataforma internacional con ~7 cuidadores verificados en Chania y oeste de Creta. Visitas a domicilio, guardería, alojamiento. Seguro incluido, cuidadores con reseñas.",
+          "website": "https://www.pawshake.gr/dog-sitting/chania",
+          "tip": "~75% of Chania sitters are bilingual EL/EN thanks to the tourism economy; specify the language when filtering.",
+          "tipFr": "~75% des sitters de La Canée sont bilingues EL/EN grâce à l'économie touristique ; précisez la langue dans le filtre.",
+          "tipEs": "~75% de los cuidadores de Chania son bilingües EL/EN gracias a la economía turística; especifica el idioma al filtrar.",
+          "descriptionPt": "Plataforma internacional com ~7 cuidadores verificados em Chania e oeste de Creta. Visitas ao domicílio, creche, alojamento nocturno. Seguro incluído, cuidadores avaliados.",
+          "tipPt": "~75% dos cuidadores de Chania são bilingues EL/EN graças à economia turística; especifica o idioma ao filtrar."
+        },
+        {
+          "name": "Noah's Little Ark Network",
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "description": "Local Chania animal welfare NGO that coordinates an informal network of trusted dog-walkers and short-stay sitters. Lower prices than international platforms, more local feel, supports local animal welfare.",
+          "descriptionFr": "ONG locale de protection animale à La Canée qui coordonne un réseau informel de promeneurs de chiens et sitters de courte durée de confiance. Prix plus bas que les plateformes internationales, ambiance plus locale, soutient la cause animale locale.",
+          "descriptionEs": "ONG local de bienestar animal en Chania que coordina una red informal de paseadores y cuidadores de corta estancia de confianza. Precios más bajos que las plataformas internacionales, ambiente más local, apoya el bienestar animal local.",
+          "website": "https://noahslittlearkchania.org/",
+          "tip": "Email through their website to request a recommended dog-walker, they know who's reliable. A small donation to the shelter is the polite way to thank.",
+          "tipFr": "Écrivez via leur site pour demander un promeneur recommandé, ils savent qui est fiable. Un petit don au refuge est la façon polie de remercier.",
+          "tipEs": "Escribe a través de su web para pedir un paseador recomendado, saben quién es de fiar. Una pequeña donación al refugio es la forma educada de agradecer.",
+          "descriptionPt": "ONG local de bem-estar animal em Chania que coordena uma rede informal de passeadores de cães e cuidadores de curta duração de confiança. Preços mais baixos que as plataformas internacionais, ambiente mais local, apoia o bem-estar animal local.",
+          "tipPt": "Escreve através do site para pedir um passeador recomendado, sabem quem é de confiança. Uma pequena doação ao abrigo é a forma educada de agradecer."
+        }
+      ],
+      "tipsEn": [
+        "Chania rates: drop-in visit 13–20 EUR, day-care 20–30 EUR (slightly above Heraklion), overnight boarding 25–38 EUR.",
+        "Most sitters live in central or near-central neighbourhoods (Old Town, Halepa, Nea Chora) within 2 km of the Venetian Harbour.",
+        "Pet hotels exist on the Akrotiri peninsula near the airport, useful for multi-day west-Cretan road trips."
+      ],
+      "tipsFr": [
+        "Tarifs La Canée : visite à domicile 13–20 €, crèche journée 20–30 € (légèrement au-dessus d'Héraklion), hébergement nuit 25–38 €.",
+        "La plupart des sitters habitent les quartiers centraux ou proches (vieille ville, Halepa, Nea Chora) à moins de 2 km du port vénitien.",
+        "Des pensions canines existent sur la péninsule d'Akrotiri près de l'aéroport, utiles pour les road trips ouest-crétois de plusieurs jours."
+      ],
+      "tipsEs": [
+        "Tarifas en Chania: visita a domicilio 13–20 €, guardería de día 20–30 € (ligeramente por encima de Heraklion), alojamiento de noche 25–38 €.",
+        "La mayoría de los cuidadores vive en barrios céntricos o casi céntricos (casco antiguo, Halepa, Nea Chora) a menos de 2 km del Puerto Veneciano.",
+        "Existen residencias caninas en la península de Akrotiri cerca del aeropuerto, útiles para road trips oeste-cretenses de varios días."
+      ],
+      "faqsEn": [
+        {
+          "q": "How do I find a dog-sitter for the Elafonissi day trip from Chania?",
+          "a": "Pawshake.gr lets you book a full-day sit (8–10 hours) with a verified local sitter, exactly what an Elafonissi round trip requires (1h45 each way plus 4–5h on the beach). Most Chania sitters offer this 'Elafonissi-while-you-go' service specifically in summer."
+        },
+        {
+          "q": "Can I leave my dog at my Chania hotel during the day?",
+          "a": "Most pet-friendly Chania hotels (Casa Delfino, Domus Renier, Serenissima) allow dogs in the room during your absence if they're calm and don't bark. Confirm at check-in. AC running is essential in summer (32 °C July afternoons)."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Comment trouver un dog-sitter pour l'excursion à Elafonissi depuis La Canée ?",
+          "a": "Pawshake.gr permet de réserver une garde journée complète (8–10h) avec un sitter local vérifié, exactement ce que demande un aller-retour Elafonissi (1h45 par trajet plus 4–5h sur la plage). La plupart des sitters de La Canée proposent ce service « Elafonissi pendant que vous y allez » en été."
+        },
+        {
+          "q": "Puis-je laisser mon chien à l'hôtel pendant la journée à La Canée ?",
+          "a": "La plupart des hôtels pet-friendly de La Canée (Casa Delfino, Domus Renier, Serenissima) autorisent les chiens en chambre pendant vos sorties s'ils sont calmes et n'aboient pas. Confirmez au check-in. Climatisation indispensable en été (32 °C l'après-midi en juillet)."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cómo encuentro un cuidador para la excursión a Elafonissi desde Chania?",
+          "a": "Pawshake.gr permite reservar un cuidado de día completo (8–10h) con un cuidador local verificado, exactamente lo que requiere un ida y vuelta a Elafonissi (1h45 por trayecto más 4–5h en la playa). La mayoría de cuidadores de Chania ofrecen este servicio «Elafonissi mientras vas» específicamente en verano."
+        },
+        {
+          "q": "¿Puedo dejar a mi perro en el hotel durante el día en Chania?",
+          "a": "La mayoría de hoteles pet-friendly de Chania (Casa Delfino, Domus Renier, Serenissima) admiten perros en la habitación durante tus salidas si son tranquilos y no ladran. Confírmalo al check-in. AC esencial en verano (32 °C tardes de julio)."
+        }
+      ],
+      "titlePt": "Cuidado de cães e creche canina em Chania, Plataformas verificadas",
+      "introPt": "Os longos almoços no Porto Veneciano, a visita ao Museu Marítimo, a excursão a Elafonissi se o seu cão não suporta o calor, tudo isto obriga por vezes a deixar o cão. Pawshake e DogBuddy/Rover operam em Chania com cerca de 10 cuidadores locais verificados, mais uma rede informal cretense de passeadores de cães.",
+      "tipsPt": [
+        "Tarifas Chania: visita ao domicílio 13–20 €, creche de dia 20–30 € (ligeiramente acima de Heraklion), alojamento de noite 25–38 €.",
+        "A maioria dos cuidadores vive em bairros centrais ou perto do centro (centro histórico, Halepa, Nea Chora) a menos de 2 km do Porto Veneciano.",
+        "Existem residências caninas na península de Akrotiri perto do aeroporto, úteis para road trips oeste-cretenses de vários dias."
+      ],
+      "faqsPt": [
+        {
+          "q": "Como encontro um cuidador para a excursão a Elafonissi a partir de Chania?",
+          "a": "Pawshake.gr permite reservar um cuidado de dia completo (8–10h) com um cuidador local verificado, exactamente o que requer uma ida e volta a Elafonissi (1h45 por trecho mais 4–5h na praia). A maioria dos cuidadores de Chania oferece este serviço «Elafonissi enquanto vais» especificamente no verão."
+        },
+        {
+          "q": "Posso deixar o meu cão no hotel durante o dia em Chania?",
+          "a": "A maioria dos hotéis pet-friendly de Chania (Casa Delfino, Domus Renier, Serenissima) admite cães no quarto durante as suas saídas se forem calmos e não ladrarem. Confirma no check-in. AC essencial no verão (32 °C tardes de julho)."
+        }
+      ]
+    }
+  }
+}

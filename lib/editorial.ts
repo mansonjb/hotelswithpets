@@ -516,6 +516,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Schloss terraces, the Philosophenweg with its Heiligenberg forest, and the Königstuhl funicular up to 70 km of off-leash forest trails`,
       area: `the Altstadt around the Hauptstraße, Bergheim near the train station, and the leafy Neuenheim across the Neckar`,
     },
+    chania: {
+      personality: `Crete's western capital, where a Venetian-Ottoman Old Town wraps the most photogenic harbour in Greece, the 800 m Egyptian Lighthouse breakwater is the flagship dog walk, and Falassarna, Elafonissi and Balos are all within day-trip distance`,
+      highlight: 'the Venetian Harbour and Egyptian Lighthouse breakwater, the Firkas Fortress ramparts, and the Splantzia alleys with their plane-tree square',
+      area: 'the walled Old Town around the Venetian Harbour and Plateia 1821 in Splantzia, the Nea Chora seafront west of the Firkas Fortress, and the Halepa residential quarter east of the centre',
+    },
     heraklion: {
       personality: `Crete's capital, where 4 km of Venetian walls ringing the old town, year-round mild climate, and two official Bau-Beach zones make it one of Greece's easiest cities for travel with a dog`,
       highlight: 'the 4 km Venetian Walls walkway, the Koules harbour fortress pier, and the Amoudara Bau-Beach 5 km west',
@@ -1664,6 +1669,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `les terrasses du Schloss, le Philosophenweg avec sa forêt du Heiligenberg, et le funiculaire du Königstuhl vers 70 km de sentiers forestiers sans laisse`,
       area: `l'Altstadt autour de la Hauptstraße, Bergheim près de la gare et le verdoyant Neuenheim de l'autre côté du Neckar`,
     },
+    chania: {
+      personality: `la capitale de l'ouest de la Crète, où la vieille ville vénéto-ottomane enveloppe le port le plus photogénique de Grèce, la jetée de 800 m vers le phare égyptien est la promenade canine phare, et Falassarna, Elafonissi et Balos sont tous à portée d'excursion`,
+      highlight: `le port vénitien et la jetée du phare égyptien, les remparts de la forteresse Firkas, et les ruelles de Splantzia avec leur place ombragée d'un platane`,
+      area: `la vieille ville fortifiée autour du port vénitien et de la Plateia 1821 à Splantzia, le front de mer de Nea Chora à l'ouest de la forteresse Firkas, et le quartier résidentiel de Halepa à l'est du centre`,
+    },
     heraklion: {
       personality: `la capitale crétoise, où 4 km de murailles vénitiennes ceignent le centre historique, le climat doux toute l'année et deux zones Bau-Beach officielles en font l'une des villes grecques les plus faciles à parcourir avec un chien`,
       highlight: `la boucle de 4 km sur les murailles vénitiennes, la jetée de la forteresse portuaire Koules et la Bau-Beach d'Amoudara à 5 km à l'ouest`,
@@ -2811,6 +2821,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `las terrazas del Schloss, el Philosophenweg con su bosque del Heiligenberg, y el funicular del Königstuhl hacia 70 km de senderos forestales sin correa`,
       area: `la Altstadt alrededor de la Hauptstraße, Bergheim cerca de la estación, y el frondoso Neuenheim al otro lado del Neckar`,
     },
+    chania: {
+      personality: 'la capital del oeste de Creta, donde el casco antiguo véneto-otomano envuelve el puerto más fotogénico de Grecia, el dique de 800 m hacia el faro egipcio es el paseo canino estrella, y Falassarna, Elafonissi y Balos están todos al alcance de una excursión',
+      highlight: 'el Puerto Veneciano y el dique del faro egipcio, las murallas de la fortaleza Firkas, y las callejuelas de Splantzia con su plaza sombreada por un plátano',
+      area: 'el casco antiguo amurallado en torno al Puerto Veneciano y la Plateia 1821 en Splantzia, el frente marítimo de Nea Chora al oeste de la fortaleza Firkas, y el barrio residencial de Halepa al este del centro',
+    },
     heraklion: {
       personality: 'la capital cretense, donde 4 km de murallas venecianas rodean el casco antiguo, el clima suave todo el año y dos zonas Bau-Beach oficiales la convierten en una de las ciudades griegas más fáciles para viajar con perro',
       highlight: 'el circuito de 4 km sobre las murallas venecianas, el muelle de la fortaleza portuaria Koules y la Bau-Beach de Amoudara a 5 km al oeste',
@@ -3957,6 +3972,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a cidade universitaria mais romántica de Alemania, Altstadt barroca sob o castelo renascentista en ruinas, o icónico trilho panorámico do Philosophenweg, o floresta do Königstuhl com 70 km de trilhos sem trela, e comboios ICE directos a partir do aeroporto de Frankfurt en 50 min`,
       highlight: `as esplanadas do Schloss, o Philosophenweg com o seu floresta do Heiligenberg, e o funicular do Königstuhl hacia 70 km de trilhos forestales sem trela`,
       area: `a Altstadt alrededor da Hauptstraße, Bergheim perto da estação, e o frondoso Neuenheim al otro lado do Neckar`,
+    },
+    chania: {
+      personality: 'a capital do oeste de Creta, onde o centro histórico véneto-otomano envolve o porto mais fotogénico da Grécia, o molhe de 800 m até ao farol egípcio é o passeio canino estrela, e Falassarna, Elafonissi e Balos estão todos ao alcance de uma excursão',
+      highlight: 'o Porto Veneciano e o molhe do farol egípcio, as muralhas do Forte Firkas, e as viélas de Splantzia com a sua praça sombreada por um plátano',
+      area: 'o centro histórico amuralhado em torno do Porto Veneciano e da Plateia 1821 em Splantzia, a frente marítima de Nea Chora a oeste do Forte Firkas, e o bairro residencial de Halepa a leste do centro',
     },
     heraklion: {
       personality: 'a capital cretense, onde 4 km de muralhas venecianas rodean o centro histórico, o clima suave o ano inteiro e dos zonas Bau-Beach oficiais a convierten numa das cidades griegas mais fáciles para viajar com cão',

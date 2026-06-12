@@ -571,67 +571,67 @@
       "titleFr": "Vétérinaire d'urgence [24h/24] à Fribourg, Cliniques et soins animaliers",
       "titleEs": "Veterinario de urgencias [24h] en Friburgo, Hospitales y clínicas veterinarias",
       "titlePt": "Veterinário de urgência [24h] em Friburgo, Hospitais e clínicas veterinárias",
-      "introEn": "Freiburg has strong veterinary coverage including a 24/7 emergency hospital plus several daytime practices. The Tierklinik Freiburg in the western district is the regional referral centre.",
-      "introFr": "Fribourg dispose d'une bonne couverture vétérinaire avec un hôpital d'urgences 24h/24 et plusieurs cabinets de jour. La Tierklinik Freiburg dans le quartier ouest est le centre de référence régional.",
-      "introEs": "Friburgo cuenta con buena cobertura veterinaria, con un hospital de urgencias 24h y varias consultas diurnas. La Tierklinik Freiburg en el barrio oeste es el centro de referencia regional.",
-      "introPt": "Friburgo conta com boa cobertura veterinária, com um hospital de urgência 24h e várias consultas diurnas. A Tierklinik Freiburg no bairro oeste é o centro de referência regional.",
+      "introEn": "Freiburg has solid veterinary coverage anchored by Kleintierklinik Frank in the Mooswald district, staffed around the clock all year. Two further clinics cover daytime and extended-hours emergencies.",
+      "introFr": "Fribourg dispose d'une bonne couverture vétérinaire avec, comme pilier, la Kleintierklinik Frank dans le quartier de Mooswald, ouverte 24h/24 toute l'année. Deux autres cliniques couvrent la journée et les urgences en horaires élargis.",
+      "introEs": "Friburgo cuenta con buena cobertura veterinaria, con la Kleintierklinik Frank en el barrio de Mooswald como pilar, abierta las 24 horas todo el año. Otras dos clínicas cubren el día y las urgencias en horario ampliado.",
+      "introPt": "Friburgo conta com boa cobertura veterinária, tendo como pilar a Kleintierklinik Frank no bairro de Mooswald, aberta 24 horas todo o ano. Outras duas clínicas cobrem o dia e as urgências em horário alargado.",
       "places": [
         {
-          "name": "Tierklinik Freiburg (24h)",
-          "address": "Eschholzstraße 109, 79115 Freiburg im Breisgau",
-          "photo": "/images/city-places/freiburg-vets-tierklinik-freiburg.jpg",
-          "phone": "+49 761 491110",
+          "name": "Kleintierklinik Frank",
+          "address": "Mooswaldallee 10i, 79108 Freiburg im Breisgau",
+          "photo": "",
+          "phone": "+49 761 5036660",
           "emergency24h": true,
           "languages": ["German", "English"],
-          "website": "https://www.tierklinik-freiburg.de/",
-          "description": "The reference 24/7 emergency hospital for southern Baden, in the Stühlinger district west of the Hbf. Surgery, ICU, CT, ultrasound, endoscopy. Owners can call ahead for triage.",
-          "descriptionFr": "L'hôpital d'urgences 24h/24 de référence pour le sud du Bade, dans le quartier de Stühlinger à l'ouest de la Hbf. Chirurgie, USI, scanner, écho, endoscopie. Les propriétaires peuvent appeler avant pour le triage.",
-          "descriptionEs": "Hospital de urgencias 24h de referencia para el sur de Baden, en el barrio de Stühlinger al oeste de la Hbf. Cirugía, UCI, TAC, ecografía, endoscopia. Los dueños pueden llamar antes para el triage.",
-          "descriptionPt": "Hospital de urgência 24h de referência para o sul de Baden, no bairro de Stühlinger a oeste da Hbf. Cirurgia, UCI, TAC, ecografia, endoscopia. Os donos podem ligar antes para a triagem.",
-          "openingHours": "24/7 emergency",
-          "tip": "Call ahead, English-speaking staff available. They will prep the right team for your case before you arrive.",
-          "tipFr": "Appelez avant, le personnel parle anglais. Ils prépareront l'équipe adaptée à votre cas avant votre arrivée.",
-          "tipEs": "Llama antes, hay personal que habla inglés. Prepararán el equipo adecuado antes de tu llegada.",
-          "tipPt": "Ligue antes, há pessoal que fala inglês. Vão preparar a equipa adequada antes da sua chegada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Freiburg+Eschholzstrasse"
+          "website": "https://kleintierklinik-frank.de/",
+          "description": "Freiburg's round-the-clock small-animal hospital in the Mooswald district north of the centre, staffed 24 hours every day of the year. Surgery, internal medicine, imaging and intensive care. Owners should phone ahead for triage.",
+          "descriptionFr": "L'hôpital pour petits animaux ouvert 24h/24 de Fribourg, dans le quartier de Mooswald au nord du centre, occupé 24 heures sur 24 tous les jours de l'année. Chirurgie, médecine interne, imagerie et soins intensifs. Appelez avant pour le triage.",
+          "descriptionEs": "El hospital de pequeños animales abierto las 24 horas de Friburgo, en el barrio de Mooswald al norte del centro, con personal las 24 horas todos los días del año. Cirugía, medicina interna, diagnóstico por imagen y cuidados intensivos. Llama antes para el triage.",
+          "descriptionPt": "O hospital de pequenos animais aberto 24 horas de Friburgo, no bairro de Mooswald a norte do centro, com pessoal 24 horas todos os dias do ano. Cirurgia, medicina interna, imagiologia e cuidados intensivos. Ligue antes para a triagem.",
+          "openingHours": "24/7 emergency, appointments required",
+          "tip": "Staffed around the clock; phone first so the right team is ready when you arrive. English-speaking staff available.",
+          "tipFr": "Occupé 24h/24 ; appelez d'abord pour que la bonne équipe soit prête à votre arrivée. Personnel anglophone disponible.",
+          "tipEs": "Con personal las 24 horas; llama primero para que el equipo adecuado esté listo a tu llegada. Personal que habla inglés.",
+          "tipPt": "Com pessoal 24 horas; ligue primeiro para que a equipa certa esteja pronta à sua chegada. Pessoal que fala inglês.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kleintierklinik+Frank+Freiburg"
         },
         {
-          "name": "Tierärztliche Klinik für Kleintiere am Lorettoberg",
-          "address": "Wonnhaldestraße 15, 79100 Freiburg im Breisgau",
-          "photo": "/images/city-places/freiburg-vets-lorettoberg.jpg",
-          "phone": "+49 761 7045555",
+          "name": "Kleintierzentrum Landwasser",
+          "address": "Am Moosweiher 2, 79108 Freiburg im Breisgau",
+          "photo": "",
+          "phone": "+49 761 16808",
           "emergency24h": false,
           "languages": ["German", "English"],
-          "website": "https://www.tierklinik-lorettoberg.de/",
-          "description": "Daytime small-animal clinic on the slopes of the Lorettoberg south of the Altstadt. Specialties in internal medicine, dermatology, surgery. The closest serious daytime clinic to the centre.",
-          "descriptionFr": "Clinique petits animaux en journée sur les pentes du Lorettoberg au sud de l'Altstadt. Spécialités en médecine interne, dermatologie, chirurgie. La clinique de jour la plus proche du centre.",
-          "descriptionEs": "Clínica de pequeños animales diurna en las laderas del Lorettoberg al sur del Altstadt. Especialidades en medicina interna, dermatología, cirugía. La clínica diurna seria más cercana al centro.",
-          "descriptionPt": "Clínica de pequenos animais diurna nas encostas do Lorettoberg a sul do Altstadt. Especialidades em medicina interna, dermatologia, cirurgia. A clínica diurna séria mais próxima do centro.",
-          "openingHours": "Mon to Fri 08:00 to 18:00, Sat 09:00 to 12:00",
-          "tip": "Easy walk-in for pet passport sign-offs and pre-travel checks. Book ahead for full check-ups.",
-          "tipFr": "Sans rdv possible pour signatures de passeport et bilans pré-voyage. Rdv pour bilan complet.",
-          "tipEs": "Sin cita posible para firmas de pasaporte y revisiones previas. Con cita para revisión completa.",
-          "tipPt": "Sem marcação possível para assinaturas de passaporte e revisões prévias. Com marcação para check-up completo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Lorettoberg+Freiburg"
+          "website": "https://kleintierzentrum-landwasser.de/",
+          "description": "Well-equipped small-animal clinic in the Landwasser district northwest of the centre, with daily emergency cover Mon to Fri until 22:00 and weekends and holidays until 20:00. Surgery, dentistry, imaging and routine care.",
+          "descriptionFr": "Clinique pour petits animaux bien équipée dans le quartier de Landwasser au nord-ouest du centre, avec service d'urgence quotidien du lundi au vendredi jusqu'à 22h et les week-ends et jours fériés jusqu'à 20h. Chirurgie, dentisterie, imagerie et soins courants.",
+          "descriptionEs": "Clínica de pequeños animales bien equipada en el barrio de Landwasser al noroeste del centro, con cobertura de urgencias diaria de lunes a viernes hasta las 22:00 y fines de semana y festivos hasta las 20:00. Cirugía, odontología, imagen y atención rutinaria.",
+          "descriptionPt": "Clínica de pequenos animais bem equipada no bairro de Landwasser a noroeste do centro, com cobertura de urgência diária de segunda a sexta até às 22:00 e fins de semana e feriados até às 20:00. Cirurgia, dentária, imagiologia e cuidados de rotina.",
+          "openingHours": "Daily emergency Mon to Fri 08:00 to 22:00, weekends and holidays 08:00 to 20:00",
+          "tip": "Phone before going outside normal hours to confirm a vet is on site for your case.",
+          "tipFr": "Téléphonez avant de venir hors horaires normaux pour confirmer qu'un vétérinaire est présent pour votre cas.",
+          "tipEs": "Llama antes de ir fuera del horario normal para confirmar que hay un veterinario disponible para tu caso.",
+          "tipPt": "Ligue antes de ir fora do horário normal para confirmar que há um veterinário disponível para o seu caso.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kleintierzentrum+Landwasser+Freiburg"
         },
         {
-          "name": "Tierarztpraxis am Stadtgarten",
-          "address": "Hermann-Herder-Straße 8, 79104 Freiburg im Breisgau",
-          "photo": "/images/city-places/freiburg-vets-stadtgarten.jpg",
-          "phone": "+49 761 26155",
+          "name": "Kleintierchirurgie Dr. Morich",
+          "address": "Tulpenbaumallee 16b, 79189 Bad Krozingen",
+          "photo": "",
+          "phone": "+49 7633 9242788",
           "emergency24h": false,
           "languages": ["German", "English"],
-          "website": "",
-          "description": "Centrally located daytime practice 5 minutes walk from the Stadtgarten and the Altstadt. Vaccinations, microchipping, routine care, pre-travel checks. The convenient option for tourists.",
-          "descriptionFr": "Cabinet de jour central à 5 minutes à pied du Stadtgarten et de l'Altstadt. Vaccins, puçage, soins courants, contrôles avant voyage. L'option pratique pour les touristes.",
-          "descriptionEs": "Consulta diurna céntrica a 5 minutos a pie del Stadtgarten y del Altstadt. Vacunas, microchip, atención rutinaria, revisiones previas al viaje. La opción cómoda para turistas.",
-          "descriptionPt": "Consulta diurna central a 5 minutos a pé do Stadtgarten e do Altstadt. Vacinas, microchip, cuidados de rotina, revisões prévias à viagem. A opção prática para turistas.",
-          "openingHours": "Mon to Fri 09:00 to 13:00, 15:00 to 19:00; Sat 09:00 to 12:00",
-          "tip": "Walk-ins accepted for vaccinations and routine matters; book ahead for full check-ups.",
-          "tipFr": "Sans rdv accepté pour vaccinations et soins courants ; rdv pour bilan complet.",
-          "tipEs": "Aceptan sin cita para vacunaciones y atenciones rutinarias; con cita para revisión completa.",
-          "tipPt": "Aceitam sem marcação para vacinações e cuidados de rotina; com marcação para check-up completo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierarztpraxis+Stadtgarten+Freiburg"
+          "website": "https://kleintierchirurgie.com/",
+          "description": "Surgical small-animal referral clinic in Bad Krozingen, around 15 km south of Freiburg, with on-call cover Mon to Fri until 22:00 and weekends 10:00 to 20:00. A useful option for the southern Markgräflerland and orthopaedic cases.",
+          "descriptionFr": "Clinique chirurgicale de référence pour petits animaux à Bad Krozingen, à environ 15 km au sud de Fribourg, avec garde du lundi au vendredi jusqu'à 22h et les week-ends de 10h à 20h. Une bonne option pour le sud du Markgräflerland et les cas orthopédiques.",
+          "descriptionEs": "Clínica quirúrgica de referencia para pequeños animales en Bad Krozingen, a unos 15 km al sur de Friburgo, con guardia de lunes a viernes hasta las 22:00 y fines de semana de 10:00 a 20:00. Una opción útil para el sur del Markgräflerland y casos ortopédicos.",
+          "descriptionPt": "Clínica cirúrgica de referência para pequenos animais em Bad Krozingen, a cerca de 15 km a sul de Friburgo, com urgência de segunda a sexta até às 22:00 e fins de semana das 10:00 às 20:00. Uma opção útil para o sul do Markgräflerland e casos ortopédicos.",
+          "openingHours": "Mon to Fri 08:30 to 18:00, on-call to 22:00; weekends 10:00 to 20:00",
+          "tip": "About 20 minutes by car south of Freiburg; phone ahead, especially for weekend or surgical cases.",
+          "tipFr": "À environ 20 minutes en voiture au sud de Fribourg ; appelez avant, surtout pour les week-ends ou les cas chirurgicaux.",
+          "tipEs": "A unos 20 minutos en coche al sur de Friburgo; llama antes, sobre todo para fines de semana o casos quirúrgicos.",
+          "tipPt": "A cerca de 20 minutos de carro a sul de Friburgo; ligue antes, sobretudo para fins de semana ou casos cirúrgicos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kleintierchirurgie+Dr+Morich+Bad+Krozingen"
         }
       ],
       "tipsEn": [
@@ -657,7 +657,7 @@
       "faqsEn": [
         {
           "q": "Is there a 24-hour vet in Freiburg?",
-          "a": "Yes, the Tierklinik Freiburg on Eschholzstraße west of the Hbf operates 24/7 with full surgical and intensive care. Call +49 761 491110 before driving in for triage."
+          "a": "Yes. Kleintierklinik Frank on Mooswaldallee in the Mooswald district north of the centre is staffed 24 hours every day of the year, with full surgical and intensive care. Call +49 761 5036660 before driving in for triage."
         },
         {
           "q": "How much does a vet visit cost in Freiburg?",
@@ -667,7 +667,7 @@
       "faqsFr": [
         {
           "q": "Y a-t-il un vétérinaire 24h/24 à Fribourg ?",
-          "a": "Oui, la Tierklinik Freiburg sur l'Eschholzstraße à l'ouest de la Hbf fonctionne 24h/24 avec chirurgie complète et soins intensifs. Appelez le +49 761 491110 avant de venir pour le triage."
+          "a": "Oui. La Kleintierklinik Frank sur la Mooswaldallee, dans le quartier de Mooswald au nord du centre, est occupée 24h/24 tous les jours de l'année, avec chirurgie complète et soins intensifs. Appelez le +49 761 5036660 avant de venir pour le triage."
         },
         {
           "q": "Combien coûte une visite vétérinaire à Fribourg ?",
@@ -677,7 +677,7 @@
       "faqsEs": [
         {
           "q": "¿Hay veterinario 24 horas en Friburgo?",
-          "a": "Sí, la Tierklinik Freiburg en Eschholzstraße al oeste de la Hbf funciona 24h con cirugía completa y cuidados intensivos. Llama al +49 761 491110 antes de ir para el triage."
+          "a": "Sí. La Kleintierklinik Frank en Mooswaldallee, en el barrio de Mooswald al norte del centro, tiene personal las 24 horas todos los días del año, con cirugía completa y cuidados intensivos. Llama al +49 761 5036660 antes de ir para el triage."
         },
         {
           "q": "¿Cuánto cuesta una visita al veterinario en Friburgo?",
@@ -687,7 +687,7 @@
       "faqsPt": [
         {
           "q": "Há veterinário 24 horas em Friburgo?",
-          "a": "Sim, a Tierklinik Freiburg na Eschholzstraße a oeste da Hbf funciona 24h com cirurgia completa e cuidados intensivos. Ligue para +49 761 491110 antes de ir para a triagem."
+          "a": "Sim. A Kleintierklinik Frank na Mooswaldallee, no bairro de Mooswald a norte do centro, tem pessoal 24 horas todos os dias do ano, com cirurgia completa e cuidados intensivos. Ligue para +49 761 5036660 antes de ir para a triagem."
         },
         {
           "q": "Quanto custa uma visita ao veterinário em Friburgo?",
@@ -709,28 +709,28 @@
         "The Bächle are small water channels in the cobbled streets of the Altstadt; many dogs love drinking from them in summer, which is welcomed by locals.",
         "Schauinslandbahn cable car accepts dogs for around 3 EUR; the 1,284 m summit is 8 to 10 degrees cooler, essential for thick-coated dogs in heatwaves.",
         "Sunny city climate: July and August afternoons reach 27 to 30 degrees, walk early or after 19:00 and avoid south-facing cobblestones at midday.",
-        "Best emergency phone numbers to save: Tierklinik Freiburg 24h +49 761 491110; general police 110; medical emergency 112.",
+        "Best emergency phone numbers to save: Kleintierklinik Frank (24h) +49 761 5036660; general police 110; medical emergency 112.",
         "Currency: euro. Daily dog-friendly budget: 65 to 95 EUR per day excluding accommodation, around 20 percent below Munich."
       ],
       "tipsFr": [
         "Les Bächle sont des petits canaux d'eau dans les rues pavées de l'Altstadt ; beaucoup de chiens adorent y boire en été, ce qui est accepté par les locaux.",
         "Le Schauinslandbahn accepte les chiens pour environ 3 € ; le sommet à 1 284 m est 8 à 10 degrés plus frais, indispensable pour les chiens à poil épais en canicule.",
         "Climat très ensoleillé : juillet et août après-midi 27 à 30 degrés, promenez tôt ou après 19h et évitez les pavés exposés sud à midi.",
-        "Meilleurs numéros d'urgence : Tierklinik Freiburg 24h +49 761 491110 ; police générale 110 ; urgence médicale 112.",
+        "Meilleurs numéros d'urgence : Kleintierklinik Frank (24h) +49 761 5036660 ; police générale 110 ; urgence médicale 112.",
         "Devise : euro. Budget journalier dog-friendly : 65 à 95 € par jour hors hébergement, environ 20 % en dessous de Munich."
       ],
       "tipsEs": [
         "Los Bächle son pequeños canales de agua en las calles empedradas del Altstadt; a muchos perros les encanta beber en verano y los locales lo aceptan.",
         "El Schauinslandbahn admite perros por unos 3 €; la cumbre a 1.284 m está 8 a 10 grados más fresca, imprescindible para perros de pelo grueso en olas de calor.",
         "Clima muy soleado: julio y agosto tarde 27 a 30 grados, pasea temprano o tras las 19:00 y evita los adoquines orientados al sur al mediodía.",
-        "Mejores números de emergencia: Tierklinik Freiburg 24h +49 761 491110; policía general 110; emergencia médica 112.",
+        "Mejores números de emergencia: Kleintierklinik Frank (24h) +49 761 5036660; policía general 110; emergencia médica 112.",
         "Moneda: euro. Presupuesto diario dog-friendly: 65 a 95 € al día sin alojamiento, alrededor del 20 % por debajo de Múnich."
       ],
       "tipsPt": [
         "Os Bächle são pequenos canais de água nas ruas empedradas do Altstadt; muitos cães adoram beber lá no verão e os locais aceitam-no.",
         "O Schauinslandbahn admite cães por cerca de 3 €; o cume a 1.284 m está 8 a 10 graus mais fresco, indispensável para cães de pêlo grosso em ondas de calor.",
         "Clima muito soalheiro: julho e agosto tarde 27 a 30 graus, passeie cedo ou depois das 19:00 e evite as pedras viradas a sul ao meio-dia.",
-        "Melhores números de emergência: Tierklinik Freiburg 24h +49 761 491110; polícia geral 110; emergência médica 112.",
+        "Melhores números de emergência: Kleintierklinik Frank (24h) +49 761 5036660; polícia geral 110; emergência médica 112.",
         "Moeda: euro. Orçamento diário pet-friendly: 65 a 95 € por dia sem alojamento, cerca de 20 % abaixo de Munique."
       ],
       "faqsEn": [

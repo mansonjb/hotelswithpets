@@ -1137,6 +1137,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the dog-friendly city walls circuit, the riverside Museum Gardens, and the year-round dog beach at Filey one hour east on the LNER line`,
       area: `the historic centre inside the walls, the Fossgate quarter, and the Bishopthorpe Road / Knavesmire neighbourhood`,
     },
+    rovinj: {
+      personality: `Istria's Venetian-Italianate harbour town, a former islet of pastel facades tumbling down to a working fishing port under the 60 m belltower of sv. Eufemije, with the 300-acre Punta Corrente seafront forest park, four signposted dog beaches, a bilingual Croatian-Italian Stari Grad and the seasonal Venezia Lines fast catamaran to Venezia`,
+      highlight: `the 300-acre Punta Corrente forest park with three dog beaches inside, the sv. Eufemije hilltop belltower modelled on San Marco, the Grisia artist colony lane, and the Rovinj Archipelago ferry tenders to Sv. Katarina and Crveni otok`,
+      area: `the Stari Grad peninsula around sv. Eufemije and the Balbi Arch, the harbour promenade and bus station edge, and the Monsena/Borik resort coast north of town`,
+    },
     zadar: {
       personality: `the Dalmatian coast's most under-rated city - Roman forum, pre-Romanesque Saint Donatus rotunda, the wave-powered Sea Organ and the LED Greeting to the Sun, all on a compact dog-friendly Old Town peninsula with year-round Adriatic dog beaches a short drive away`,
       highlight: `the 2 km Riva seafront promenade, the Sea Organ and Greeting to the Sun installations, and the officially designated Kažin dog beach near the Vir bridge`,
@@ -2278,6 +2283,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `l'une des villes anglaises les plus fiablement dog-friendly, un cœur médiéval compact où 80 % des pubs accueillent les chiens en laisse, le circuit de 5 km des remparts est gratuit avec un animal, et les trains LNER directs desservent les plages canines de Filey, Sandsend et Bridlington pour la journée`,
       highlight: `le circuit dog-friendly des remparts, les Museum Gardens en bord de rivière, et la plage canine ouverte toute l'année à Filey, à une heure à l'est sur la ligne LNER`,
       area: `le centre historique à l'intérieur des remparts, le quartier de Fossgate et le secteur de Bishopthorpe Road / Knavesmire`,
+    },
+    rovinj: {
+      personality: `la ville-port vénitiano-italianisante d'Istrie, ancien îlot aux façades pastel descendant en cascade vers un port de pêche en activité sous le campanile de 60 m de sv. Eufemije, avec le parc forestier en front de mer de 300 acres Punta Corrente, quatre plages canines signalées, un Stari Grad bilingue croate-italien et le catamaran rapide saisonnier Venezia Lines vers Venise`,
+      highlight: `le parc forestier de Punta Corrente de 300 acres avec trois plages canines à l'intérieur, le campanile de sv. Eufemije modelé sur San Marco, la ruelle de la colonie d'artistes Grisia et les bateaux navettes de l'archipel de Rovinj vers Sv. Katarina et Crveni otok`,
+      area: `la péninsule du Stari Grad autour de sv. Eufemije et de l'Arc de Balbi, la promenade du port et l'orée de la gare routière, et la côte des stations balnéaires de Monsena/Borik au nord`,
     },
     zadar: {
       personality: `la ville la plus sous-estimée de la côte dalmate - forum romain, rotonde pré-romane Saint-Donat, Orgue de la Mer alimenté par les vagues et Salut au Soleil LED, le tout sur une compacte péninsule de vieille ville dog-friendly avec des plages canines adriatiques ouvertes toute l'année à courte distance`,
@@ -3421,6 +3431,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el circuito dog-friendly de las murallas, los Museum Gardens junto al río, y la playa canina abierta todo el año en Filey, a una hora al este por la línea LNER`,
       area: `el centro histórico dentro de las murallas, el barrio de Fossgate y la zona de Bishopthorpe Road / Knavesmire`,
     },
+    rovinj: {
+      personality: `la ciudad-puerto veneciano-italianizante de Istria, antiguo islote de fachadas pastel que caen en cascada sobre un puerto pesquero en activo bajo el campanario de 60 m de sv. Eufemije, con el parque forestal litoral de 300 acres Punta Corrente, cuatro playas caninas señalizadas, un Stari Grad bilingüe croata-italiano y el catamarán rápido estacional Venezia Lines a Venecia`,
+      highlight: `el parque forestal de Punta Corrente de 300 acres con tres playas caninas dentro, el campanario de sv. Eufemije modelado sobre San Marcos, la callejuela de la colonia de artistas Grisia y las lanzaderas del archipiélago de Rovinj a Sv. Katarina y Crveni otok`,
+      area: `la península del Stari Grad alrededor de sv. Eufemije y el Arco de Balbi, el paseo del puerto y el borde de la estación de autobuses, y la costa de las urbanizaciones de Monsena/Borik al norte`,
+    },
     zadar: {
       personality: `la ciudad más infravalorada de la costa dálmata: foro romano, rotonda prerrománica de San Donato, el Órgano del Mar accionado por las olas y el Saludo al Sol LED, todo en una compacta península de casco antiguo dog-friendly con playas caninas adriáticas todo el año a poca distancia`,
       highlight: `el paseo Riva de 2 km junto al mar, las instalaciones del Órgano del Mar y el Saludo al Sol, y la playa canina oficial de Kažin junto al puente de Vir`,
@@ -4562,6 +4577,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma das cidades inglesas mais fiablemente pet-friendly, um núcleo medieval compacto onde o 80 % dos pubs admite cães com trela, o circuito de 5 km das muralhas é grátis com animal, e os comboios directos LNER conectan com as praias caninas de Filey, Sandsend e Bridlington para excursiones de um dia`,
       highlight: `o circuito pet-friendly das muralhas, os Museum Gardens junto al rio, e a praia canina abierta o ano inteiro en Filey, a uma hora al este pela línea LNER`,
       area: `o centro histórico dentro das muralhas, o bairro de Fossgate e a zona de Bishopthorpe Road / Knavesmire`,
+    },
+    rovinj: {
+      personality: `a cidade-porto veneciano-italianizante de Istria, antigo islote de fachadas pastel que caen en cascata sobre um porto pesquero en activo sob o campanario de 60 m de sv. Eufemije, com o parque florestal litoral de 300 acres Punta Corrente, quatro praias caninas senhalizadas, um Stari Grad bilingue croata-italiano e o catamarán rápido estacional Venezia Lines a Venecia`,
+      highlight: `o parque florestal de Punta Corrente de 300 acres com três praias caninas dentro, o campanario de sv. Eufemije modelado sobre San Marcos, a callejuela da colónia de artistas Grisia e as lanzaderas do arquipélago de Rovinj a Sv. Katarina e Crveni otok`,
+      area: `a península do Stari Grad alrededor de sv. Eufemije e o Arco de Balbi, o passeio do porto e o borde da estação de autocarros, e a costa das urbanizações de Monsena/Borik al norte`,
     },
     zadar: {
       personality: `a cidade mais subvalorizada da costa dálmata - fórum romano, rotunda pré-românica de São Donato, o Órgão do Mar movido pelas ondas e a Saudação ao Sol LED, tudo numa compacta península do centro histórico pet-friendly com praias caninas adriáticas todo o ano a curta distância`,

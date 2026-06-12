@@ -171,6 +171,7 @@ const TARGETS = [
   { slug: 'bari', query: 'Bari Italy Old Town Bari Vecchia Basilica San Nicola Lungomare Adriatic sea harbour panorama sunset' },
   { slug: 'catania', query: 'Catania Sicily Italy Piazza Duomo Fontana dell Elefante cathedral Mount Etna panorama sunset' },
   { slug: 'cesky-krumlov', query: 'Cesky Krumlov Czech Republic castle Vltava river bend old town UNESCO panorama' },
+  { slug: 'rovinj', query: 'Rovinj Croatia Istria Adriatic Venetian Stari Grad peninsula pastel houses harbour fishing port sv. Eufemije church 60m belltower San Marco Balbi Arch Grisia artist colony Punta Corrente forest park panorama sunset' },
   { slug: 'sitges', query: 'Sitges Spain Catalan seaside Sant Bartomeu cliff church Passeig Maritim Costa del Garraf sunset' },
   { slug: 'cadaques', query: 'Cadaques Spain Catalan Costa Brava pueblo blanco whitewashed houses Esglesia Santa Maria baroque church Cap de Creus headland Port Lligat Dali house bay sunset panorama' },
   { slug: 'tarragona', query: 'Tarragona Spain Roman amphitheatre Costa Daurada Mediterranean Balco del Mediterrani panorama sunset' },

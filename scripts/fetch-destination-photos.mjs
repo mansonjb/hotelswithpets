@@ -172,6 +172,7 @@ const TARGETS = [
   { slug: 'catania', query: 'Catania Sicily Italy Piazza Duomo Fontana dell Elefante cathedral Mount Etna panorama sunset' },
   { slug: 'cesky-krumlov', query: 'Cesky Krumlov Czech Republic castle Vltava river bend old town UNESCO panorama' },
   { slug: 'sitges', query: 'Sitges Spain Catalan seaside Sant Bartomeu cliff church Passeig Maritim Costa del Garraf sunset' },
+  { slug: 'cadaques', query: 'Cadaques Spain Catalan Costa Brava pueblo blanco whitewashed houses Esglesia Santa Maria baroque church Cap de Creus headland Port Lligat Dali house bay sunset panorama' },
   { slug: 'tarragona', query: 'Tarragona Spain Roman amphitheatre Costa Daurada Mediterranean Balco del Mediterrani panorama sunset' },
   { slug: 'tarifa', query: 'Tarifa Spain Cadiz Strait of Gibraltar Castillo Guzman el Bueno casco antiguo Playa Los Lances kitesurf Morocco coast panorama sunset' },
   { slug: 'nazare', query: 'Nazaré Praia do Norte cliffs big wave Portugal Forte São Miguel Arcanjo lighthouse Sítio funicular Atlantic panorama sunset' },

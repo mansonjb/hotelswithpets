@@ -927,6 +927,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Platja de la Bassa Rodona dog window and Platja dels Balmins out-of-season cove, the Sant Bartomeu cliff church silhouette over the Passeig Marítim, and the Parc Natural del Garraf trails inland`,
       area: `the Casc Antic around the Sant Bartomeu church, the 2 km Passeig Marítim from Aiguadolç port to Terramar, and the LGBT village around Carrer del Primer de Maig`,
     },
+    cadaques: {
+      personality: `the 2,800-resident pueblo blanco at the dead end of the GI-614 mountain road on the Cap de Creus headland, with a whitewashed old quarter piling up to the baroque Església de Santa Maria, Salvador Dalí's family home in Port Lligat, Spain's first marine-terrestrial Parc Natural, the easternmost mainland lighthouse Faro de Cap de Creus, and a tramuntana wind that shapes both the landscape and the local rhythm`,
+      highlight: `the GR-92 coastal path from the Riba Pianc to Port Lligat past the Casa-Museu Salvador Dalí, the Parc Natural de Cap de Creus slate trails to the Faro and the Cala Jugadora cove, and the Plaça Frederic Rahola village living room around the 19:00 ronda`,
+      area: `the harbour-front Riba between Es Baluard and Plaça Frederic Rahola, the slate alleys of the Carrer des Call old quarter up to Santa Maria, and the Port Lligat cove 1.5 km north around the Dalí house`,
+    },
     siena: {
       personality: `a 53 000-resident UNESCO World Heritage hilltop city in southern Tuscany built around the shell-shaped Piazza del Campo and divided into 17 contrade (medieval neighborhoods) that compete in the Palio horse race on 2 July and 16 August, with the white-and-black marble striped Duomo Cathedral, the 102 m Torre del Mangia, the 14th-century Palazzo Pubblico, the Fortezza Medicea panoramic ramparts, the Via Francigena pilgrim route through Porta Camollia and Porta Romana, the Trenitalia regional to Florence that accepts muzzled dogs at half-fare, and the Tiemme bus to San Gimignano, Volterra, Montepulciano and Florence FLR airport`,
       highlight: `the shell-shaped Piazza del Campo with the Torre del Mangia and the Fonte Gaia fountain, the Fortezza Medicea 1.2 km panoramic rampart loop with its south-east bastion off-leash zone, the Orto de' Pecci medieval valley garden in the hollow below the Campo, the 17 contrade contrada fountains and museums, and the Via Francigena pilgrim stages 31 to Monteriggioni (20 km north) and 32 to Ponte d'Arbia (24 km south) through Crete Senesi rolling hills`,
@@ -2124,6 +2129,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la fenêtre canine de la Platja de la Bassa Rodona et la crique hors saison de la Platja dels Balmins, la silhouette de l'église falaise de Sant Bartomeu au-dessus du Passeig Marítim, et les sentiers du Parc Natural del Garraf en arrière-pays`,
       area: `le Casc Antic autour de l'église de Sant Bartomeu, les 2 km du Passeig Marítim entre le port d'Aiguadolç et Terramar, et le village LGBT autour de la Carrer del Primer de Maig`,
     },
+    cadaques: {
+      personality: `le pueblo blanco de 2 800 habitants au bout de la route de montagne GI-614 sur la presqu'île du Cap de Creus, avec un vieux quartier blanchi à la chaux qui s'empile jusqu'à l'Església de Santa Maria baroque, la maison familiale de Salvador Dalí à Port Lligat, le premier Parc Natural marin-terrestre d'Espagne, le phare le plus oriental d'Espagne continentale au Faro de Cap de Creus, et une tramuntana qui sculpte autant le paysage que le rythme local`,
+      highlight: `le sentier côtier GR-92 de la Riba Pianc à Port Lligat en passant par la Casa-Museu Salvador Dalí, les sentiers d'ardoise du Parc Natural de Cap de Creus jusqu'au Faro et la Cala Jugadora, et la Plaça Frederic Rahola salon du village à la ronda de 19h`,
+      area: `la Riba en bord de port entre Es Baluard et la Plaça Frederic Rahola, les ruelles d'ardoise du vieux quartier de la Carrer des Call jusqu'à Santa Maria, et la crique de Port Lligat à 1,5 km au nord autour de la maison Dalí`,
+    },
     tarifa: {
       personality: `la ville la plus au sud d'Europe continentale et la capitale mondiale du kitesurf et du windsurf, un petit casco antiguo médiéval blanchi enveloppé de 10 km de plage de sable plat où les chiens en laisse marchent sous le Levante hors saison, et un ferry de 35 minutes file vers Tanger`,
       highlight: `le casco antiguo autour du Castillo de Guzmán el Bueno, les 10 km de la Playa de Los Lances au lever du soleil, et les ruines romaines de Baelo Claudia derrière la plage dog-friendly de Bolonia`,
@@ -3261,6 +3271,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la ventana canina de la Platja de la Bassa Rodona y la cala fuera de temporada de la Platja dels Balmins, la silueta de la iglesia de Sant Bartomeu sobre el Passeig Marítim, y los senderos del Parc Natural del Garraf en el interior`,
       area: `el Casc Antic en torno a la iglesia de Sant Bartomeu, los 2 km del Passeig Marítim entre el puerto de Aiguadolç y Terramar, y el village LGBT en torno a la Carrer del Primer de Maig`,
     },
+    cadaques: {
+      personality: `el pueblo blanco de 2.800 habitantes al final de la carretera de montaña GI-614 en la península del Cap de Creus, con un casco viejo encalado que se apila hasta la Església de Santa Maria barroca, la casa familiar de Salvador Dalí en Port Lligat, el primer Parc Natural marino-terrestre de España, el faro más oriental de la España continental en el Faro de Cap de Creus, y una tramontana que esculpe tanto el paisaje como el ritmo local`,
+      highlight: `el sendero costero GR-92 desde la Riba Pianc hasta Port Lligat pasando por la Casa-Museu Salvador Dalí, los caminos de pizarra del Parc Natural de Cap de Creus hasta el Faro y la Cala Jugadora, y la Plaça Frederic Rahola salón del pueblo en la ronda de las 19:00`,
+      area: `la Riba frente al puerto entre Es Baluard y la Plaça Frederic Rahola, los callejones de pizarra del casco viejo del Carrer des Call hasta Santa Maria, y la cala de Port Lligat a 1,5 km al norte en torno a la casa Dalí`,
+    },
     tarifa: {
       personality: `la ciudad más al sur de Europa continental y capital mundial del kitesurf y el windsurf, un pequeño casco antiguo medieval blanco envuelto por 10 km de playa de arena plana donde los perros con correa pasean bajo el Levante fuera de temporada, y un ferry de 35 minutos cruza a Tánger`,
       highlight: `el casco antiguo en torno al Castillo de Guzmán el Bueno, los 10 km de la Playa de Los Lances al amanecer, y las ruinas romanas de Baelo Claudia detrás de la playa pet-friendly de Bolonia`,
@@ -4397,6 +4412,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a vila costeira catalã a 35 km a sudoeste de Barcelona com 17 praias em 3,5 km de Costa del Garraf, a Platja de la Bassa Rodona designada praia canina durante a janela agosto-setembro, o Casc Antic empedrado em torno da igreja de Sant Bartomeu sobre a falésia e do Palau Maricel, e uma das cenas de viajante LGBT mais assentes da Europa em torno do Carnaval e do Festival de Cinema Fantástico`,
       highlight: `a janela canina da Platja de la Bassa Rodona e a cala fora de época da Platja dels Balmins, a silhueta da igreja de Sant Bartomeu sobre o Passeig Marítim, e os trilhos do Parc Natural del Garraf no interior`,
       area: `o Casc Antic em torno da igreja de Sant Bartomeu, os 2 km do Passeig Marítim entre o porto de Aiguadolç e Terramar, e a aldeia LGBT em torno da Carrer del Primer de Maig`,
+    },
+    cadaques: {
+      personality: `o pueblo blanco de 2.800 habitantes no fim da estrada de montanha GI-614 na península do Cap de Creus, com um bairro velho caiado que se empilha até à Església de Santa Maria barroca, a casa familiar de Salvador Dalí em Port Lligat, o primeiro Parc Natural marítimo-terrestre de Espanha, o farol mais oriental da Espanha continental no Faro de Cap de Creus, e uma tramuntana que esculpe tanto a paisagem como o ritmo local`,
+      highlight: `o trilho costeiro GR-92 desde a Riba Pianc até Port Lligat passando pela Casa-Museu Salvador Dalí, os caminhos de ardósia do Parc Natural de Cap de Creus até ao Faro e a Cala Jugadora, e a Plaça Frederic Rahola sala da vila na ronda das 19:00`,
+      area: `a Riba em frente ao porto entre Es Baluard e a Plaça Frederic Rahola, os becos de ardósia do bairro velho do Carrer des Call até Santa Maria, e a cala de Port Lligat a 1,5 km a norte em torno da casa Dalí`,
     },
     tarifa: {
       personality: `a cidade mais a sul da Europa continental e capital mundial do kitesurf e do windsurf, um pequeno casco antiguo medieval branco envolto por 10 km de praia de areia plana onde os cães à trela passeiam sob o Levante fora de época, e um ferry de 35 minutos atravessa para Tânger`,

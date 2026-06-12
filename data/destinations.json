@@ -3659,6 +3659,33 @@
     "iata": "XRY"
   },
   {
+    "slug": "cadaques",
+    "name": "Cadaqués",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/cadaques.jpg",
+    "intro": "Cadaqués is a 2,800-resident pueblo blanco at the dead end of the GI-614 mountain road on the Cap de Creus headland, with a slate-paved old quarter piling up to the baroque Església de Santa Maria, the Casa-Museu Salvador Dalí complex in Port Lligat 1.5 km north of the centre (interior off-limits to pets, harbour and GR-92 path fine on a leash), Spain`s first marine-terrestrial Parc Natural at Cap de Creus, the easternmost mainland lighthouse Faro de Cap de Creus, and pebble coves at Cala Nans, Cala Jugadora, Cala Culip and Cala Sa Sabolla. There is no train station; access is by Sarfa/Moventis bus from Figueres (50 min) or by car on the GI-614, with the AVE high-speed rail terminating at Figueres-Vilafant 1 h west. The single in-village vet (Clínica Veterinària Cadaqués) refers overnight emergencies to Canis Hospital Veterinari in Figueres 35 km away. The tramuntana wind shapes the climate and the village`s identity.",
+    "lat": 42.2882,
+    "lng": 3.2773,
+    "weather": {
+      "jan": { "temp": 10, "desc": "Cool & windy", "icon": "⛅" },
+      "feb": { "temp": 11, "desc": "Cool & breezy", "icon": "⛅" },
+      "mar": { "temp": 13, "desc": "Mild & sunny", "icon": "🌤️" },
+      "apr": { "temp": 15, "desc": "Mild & sunny", "icon": "🌤️" },
+      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
+      "jun": { "temp": 22, "desc": "Warm & sunny", "icon": "☀️" },
+      "jul": { "temp": 25, "desc": "Hot & sunny", "icon": "☀️" },
+      "aug": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
+      "sep": { "temp": 23, "desc": "Warm & pleasant", "icon": "☀️" },
+      "oct": { "temp": 19, "desc": "Mild & sunny", "icon": "🌤️" },
+      "nov": { "temp": 14, "desc": "Mild with showers", "icon": "🌦️" },
+      "dec": { "temp": 11, "desc": "Cool & windy", "icon": "⛅" }
+    },
+    "iata": "GRO"
+  },
+  {
     "slug": "caen",
     "name": "Caen",
     "country": "France",

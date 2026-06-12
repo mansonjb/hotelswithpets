@@ -13256,6 +13256,33 @@
     "iata": "FLR"
   },
   {
+    "slug": "sitges",
+    "name": "Sitges",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/sitges.jpg",
+    "intro": "Sitges is a 30,000-resident Catalan seaside town 35 km south-west of Barcelona, with 17 beaches stretched over 3.5 km of the Costa del Garraf, a designated dog beach at Platja de la Bassa Rodona during the August-September window, the traditionally tolerant Platja dels Balmins cove, the cliff-top Església de Sant Bartomeu i Santa Tecla baroque silhouette, the Casc Antic cobbles around the Palau Maricel and Museu del Cau Ferrat, the Parc de Terramar gardens, the Parc Natural del Garraf hinterland, and a 24/7 reference vet hospital on Ctra. de Pruelles. Rodalies R2 Sud from Barcelona-Sants reaches Sitges in 35 minutes, Mon-Bus runs a 30-minute shuttle from Barcelona-El Prat (BCN) airport, and the city anchors one of Europe`s most settled LGBT travel scenes around Carnaval (February), Bears Sitges Week (September) and the Fantastic Film Festival (October).",
+    "lat": 41.2351,
+    "lng": 1.8112,
+    "weather": {
+      "jan": { "temp": 11, "desc": "Cool & sunny", "icon": "⛅" },
+      "feb": { "temp": 11, "desc": "Cool & breezy", "icon": "⛅" },
+      "mar": { "temp": 13, "desc": "Mild & pleasant", "icon": "🌤️" },
+      "apr": { "temp": 15, "desc": "Mild & sunny", "icon": "🌤️" },
+      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
+      "jun": { "temp": 22, "desc": "Warm & sunny", "icon": "☀️" },
+      "jul": { "temp": 25, "desc": "Hot & sunny", "icon": "☀️" },
+      "aug": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
+      "sep": { "temp": 23, "desc": "Warm & pleasant", "icon": "☀️" },
+      "oct": { "temp": 19, "desc": "Mild & sunny", "icon": "🌤️" },
+      "nov": { "temp": 15, "desc": "Mild with showers", "icon": "🌦️" },
+      "dec": { "temp": 12, "desc": "Cool & mild", "icon": "⛅" }
+    },
+    "iata": "BCN"
+  },
+  {
     "slug": "sintra",
     "name": "Sintra",
     "country": "Portugal",

@@ -1017,6 +1017,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Ilha de Tavira ferry from Quatro Águas, the Praia do Barril mini-train and anchor cemetery, the Salinas de Tavira dyke walks with flamingos, and the Cacela Velha clifftop village 10 km east`,
       area: `the centro histórico around the Praça da República and Castelo, the Rio Gilão east-bank esplanadas, and the Santa Luzia octopus-fishing village and Cabanas de Tavira sandbar village`,
     },
+    texel: {
+      personality: `the Netherlands' most painlessly dog-friendly Wadden island, a 24 km North Sea spit 20 minutes by free-for-dogs TESO ferry from Den Helder with five year-round off-leash dog beaches (Paal 8, 9, 17, 28, 31), the 4,300-hectare Nationaal Park Duinen van Texel along the western dune belt, the 850-hectare De Dennen pine forest with year-round off-leash loops, seven distinct villages (Den Burg the cobbled capital, De Koog beside the beach pavilions, Oudeschild with the Texelse Bierbrouwerij, Den Hoorn the smallest, De Cocksdorp at the Eierland lighthouse), and the De Slufter NATURA 2000 salt marsh on the northwest coast`,
+      highlight: `the five year-round off-leash dog beaches at Paal 8, 9, 17, 28 and 31, the De Dennen pine-forest off-leash loops, and the EcoMare seal sanctuary plus the red Eierland lighthouse climb with a leashed dog`,
+      area: `Den Burg around the cobbled Groeneplaats and 1517 Hervormde Kerk, the De Koog beach-pavilion strip beside Paal 17, the Den Hoorn village square, the Oudeschild harbour and brewery, and the De Cocksdorp lighthouse cluster at the northern tip`,
+    },
     'the-hague': {
       personality: 'a stately Dutch capital where 11 km of North Sea coast, off-leash dunes, and dog-friendly cafés sit a tram ride from the centre',
       highlight: 'Westduinpark and Bosjes van Poot, the Haagse Bos forest, and Landgoed Clingendael',
@@ -2173,6 +2178,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la ville plus calme de l'est de l'Algarve coupée par le Rio Gilão et son pont romain à sept arches, où des ruelles blanchies à la chaux mènent de la Praça da República à ~37 églises et au Castelo perché, avec le Parque Natural da Ria Formosa à la porte et des plages d'îles-barrières accessibles uniquement par bac qui filtrent la foule`,
       highlight: `le bac vers l'Ilha de Tavira depuis Quatro Águas, le mini-train et le cimetière des ancres de la Praia do Barril, les chemins de digue des Salinas de Tavira avec flamants roses, et le village perché de Cacela Velha à 10 km à l'est`,
       area: `le centro histórico autour de la Praça da República et du Castelo, les esplanades de la rive est du Rio Gilão, et le village de pêche au poulpe de Santa Luzia et le village du banc de sable de Cabanas de Tavira`,
+    },
+    texel: {
+      personality: `l'île néerlandaise des Wadden la plus simple côté chien, bande de 24 km en mer du Nord à 20 minutes en ferry TESO depuis Den Helder (chiens gratuits), avec cinq plages chiens sans laisse permanentes (Paal 8, 9, 17, 28, 31), les 4 300 hectares du parc national des dunes de Texel le long de la ceinture dunaire ouest, la pinède De Dennen de 850 hectares avec boucles sans laisse toute l'année, sept villages distincts (Den Burg la capitale pavée, De Koog le long des paillotes de plage, Oudeschild avec la Bierbrouwerij Texel, Den Hoorn le plus petit, De Cocksdorp au phare Eierland) et la salière NATURA 2000 de De Slufter au nord-ouest`,
+      highlight: `les cinq plages chiens sans laisse permanentes aux Paal 8, 9, 17, 28 et 31, les boucles sans laisse de la pinède De Dennen, et le sanctuaire de phoques EcoMare plus la montée du phare rouge Eierland avec un chien en laisse`,
+      area: `Den Burg autour de la Groeneplaats pavée et de la Hervormde Kerk de 1517, la bande de paillotes de De Koog à côté de Paal 17, la place du village de Den Hoorn, le port et la brasserie d'Oudeschild, et le groupement du phare à De Cocksdorp à la pointe nord`,
     },
     'the-hague': {
       personality: 'une capitale néerlandaise élégante où 11 km de côte de la mer du Nord, des dunes sans laisse et des cafés dog-friendly sont à un tram du centre',
@@ -3331,6 +3341,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el ferry a la Ilha de Tavira desde Quatro Águas, el mini-tren y el cementerio de anclas de la Praia do Barril, los caminos de dique de las Salinas de Tavira con flamencos, y el pueblo en lo alto de Cacela Velha a 10 km al este`,
       area: `el centro histórico en torno a la Praça da República y el Castelo, las esplanadas de la ribera este del Rio Gilão, y el pueblo de pesca de pulpo de Santa Luzia y el pueblo del banco de arena de Cabanas de Tavira`,
     },
+    texel: {
+      personality: `la isla neerlandesa de Wadden más fácil con perro, una franja de 24 km en el Mar del Norte a 20 minutos en ferri TESO desde Den Helder (perros gratis), con cinco playas para perros sin correa permanentes (Paal 8, 9, 17, 28, 31), las 4.300 hectáreas del Parque Nacional de las dunas de Texel a lo largo del cinturón dunar oeste, el pinar De Dennen de 850 hectáreas con vueltas sin correa todo el año, siete aldeas distintas (Den Burg la capital adoquinada, De Koog junto a los chiringuitos de playa, Oudeschild con la Bierbrouwerij Texel, Den Hoorn la más pequeña, De Cocksdorp en el faro Eierland) y la marisma NATURA 2000 de De Slufter en el noroeste`,
+      highlight: `las cinco playas para perros sin correa permanentes en Paal 8, 9, 17, 28 y 31, las vueltas sin correa del pinar De Dennen, y el santuario de focas EcoMare más la subida al faro rojo Eierland con perro con correa`,
+      area: `Den Burg en torno a la Groeneplaats adoquinada y la Hervormde Kerk de 1517, la franja de chiringuitos de De Koog junto a Paal 17, la plaza de la aldea de Den Hoorn, el puerto y la cervecería de Oudeschild, y el conjunto del faro en De Cocksdorp en la punta norte`,
+    },
     'the-hague': {
       personality: 'una capital neerlandesa elegante donde 11 km de costa del Mar del Norte, dunas sin correa y cafés dog-friendly están a un tranvía del centro',
       highlight: 'Westduinpark y Bosjes van Poot, el bosque Haagse Bos y la finca Clingendael',
@@ -4487,6 +4502,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a cidade mais calma do leste do Algarve cortada pelo Rio Gilão e a sua ponte romana de sete arcos, onde ruelas caiadas levam da Praça da República a ~37 igrejas e ao Castelo no alto, com o Parque Natural da Ria Formosa à porta e praias de ilhas-barreira acessíveis apenas por ferry que filtram a multidão`,
       highlight: `o ferry para a Ilha de Tavira a partir de Quatro Águas, o mini-comboio e o cemitério das âncoras da Praia do Barril, os caminhos de dique das Salinas de Tavira com flamingos, e a aldeia no alto de Cacela Velha a 10 km a leste`,
       area: `o centro histórico em torno da Praça da República e do Castelo, as esplanadas da margem leste do Rio Gilão, e a aldeia de pesca de polvo de Santa Luzia e a aldeia do banco de areia de Cabanas de Tavira`,
+    },
+    texel: {
+      personality: `a ilha neerlandesa de Wadden mais simples para cães, uma faixa de 24 km no Mar do Norte a 20 minutos de ferry TESO desde Den Helder (cães grátis), com cinco praias para cães sem trela permanentes (Paal 8, 9, 17, 28, 31), os 4.300 hectares do Parque Nacional das dunas de Texel ao longo do cinturão dunar oeste, o pinhal De Dennen de 850 hectares com circuitos sem trela o ano inteiro, sete aldeias distintas (Den Burg a capital empedrada, De Koog junto aos quiosques de praia, Oudeschild com a Bierbrouwerij Texel, Den Hoorn a mais pequena, De Cocksdorp no farol Eierland) e o sapal NATURA 2000 de De Slufter no noroeste`,
+      highlight: `as cinco praias para cães sem trela permanentes em Paal 8, 9, 17, 28 e 31, os circuitos sem trela do pinhal De Dennen, e o santuário de focas EcoMare mais a subida ao farol vermelho Eierland com cão com trela`,
+      area: `Den Burg em torno da Groeneplaats empedrada e da Hervormde Kerk de 1517, a faixa de quiosques de De Koog junto a Paal 17, a praça da aldeia de Den Hoorn, o porto e a cervejaria de Oudeschild, e o conjunto do farol em De Cocksdorp na ponta norte`,
     },
     'the-hague': {
       personality: 'uma capital neerlandesa elegante onde 11 km de costa do mar do norte, dunas sem trela e cafés pet-friendly estão a um elétrico do centro',

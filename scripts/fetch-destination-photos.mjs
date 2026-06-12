@@ -25,6 +25,7 @@ async function loadApiKey() {
 // Slug → query targeting a photogenic, pet-relevant landmark
 const TARGETS = [
   { slug: 'haarlem',       query: 'Haarlem Netherlands Grote Markt Grote Sint-Bavokerk cathedral Frans Hals tomb Mozart Muller organ Spaarne river De Adriaan windmill hofjes Haarlemmerhout panorama sunset' },
+  { slug: 'texel',         query: 'Texel Netherlands Wadden island North Sea dunes Eierland lighthouse red Vuurtoren De Koog beach Paal 17 De Slufter salt marsh Den Burg cobbled square Duinen van Texel National Park panorama sunset' },
   { slug: 'sintra',        query: 'Sintra Portugal Palacio da Pena polychrome romantic palace Serra de Sintra UNESCO panorama sunset' },
   { slug: 'lagos',         query: 'Lagos Portugal Algarve Ponta da Piedade cliffs Atlantic golden coast panorama sunset' },
   { slug: 'guimaraes',     query: 'Guimaraes Portugal medieval castle Largo da Oliveira Paco dos Duques UNESCO birthplace panorama sunset' },

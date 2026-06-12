@@ -14941,6 +14941,81 @@
     "iata": "FAO"
   },
   {
+    "slug": "texel",
+    "name": "Texel",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "flag": "🇳🇱",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/texel.jpg",
+    "intro": "Texel is the Netherlands' most painlessly dog-friendly Wadden island: a 24 km long North Sea spit 20 minutes by TESO ferry from Den Helder (dogs cross free), with five year-round off-leash dog beaches (Paal 8 Mokbaai, Paal 9 Den Hoorn, Paal 17 De Koog, Paal 28 and Paal 31 at the Eierland lighthouse), the 4,300-hectare Nationaal Park Duinen van Texel running almost the full western dune belt, and the 850-hectare De Dennen pine forest in the centre with year-round off-leash loops. Seven villages share the island culture (Den Burg as the cobbled capital, De Koog beside the dog beach pavilions, Oudeschild with the working fishing harbour and the Texelse Bierbrouwerij, Den Hoorn around its 1,500-resident square, De Cocksdorp at the lighthouse, plus Oosterend and De Waal). The De Slufter salt marsh and Wagejot mudflats on the east coast are NATURA 2000 reserves (eastern Wadden Sea coast closed to dogs year-round for bird protection). Texelhopper buses serve every village and dune entry, dogs ride free. From Schiphol Airport the door-to-ferry trip is about 1h45 by car.",
+    "lat": 53.0533,
+    "lng": 4.7956,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "AMS"
+  },
+  {
     "slug": "the-hague",
     "name": "The Hague",
     "country": "Netherlands",

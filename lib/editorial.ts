@@ -496,6 +496,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Castelo and Paço dos Duques on the castle hill, the Largo da Oliveira with the Gothic Padrão do Salado, and the Penha mountain trails reached by the dog-friendly Teleférico da Penha`,
       area: `the UNESCO historic centre around Largo da Oliveira and Praça de Santiago, the castle hill, and the Costa district along the Penha cable car base`,
     },
+    haarlem: {
+      personality: `the most painlessly dog-friendly base for the Amsterdam region, a compact medieval Dutch city 20 km west of Amsterdam where the Grote Markt under the Grote Sint-Bavokerk (Frans Hals's tomb, the Mozart Müller organ), the Spaarne river with the De Adriaan windmill, sixteen historic hofjes courtyards and the oldest public park in the Netherlands (Haarlemmerhout, 1583) sit only 15 minutes by NS train from Amsterdam Centraal and 10 minutes from the year-round Zandvoort dog beach`,
+      highlight: `the Grote Markt and Klokhuisplein under the Grote Sint-Bavokerk, the Schoterbos off-leash meadows north of the Spaarne, and the Zandvoort Zuid hondenstrand year-round plus the full 9 km Zandvoort beach off-leash October to May`,
+      area: `the Centrum inside the singels around the Grote Markt and the Spaarne wharves, Haarlem-Noord around the Schoterbos, and the coastal strip from Zandvoort aan Zee through Bloemendaal aan Zee`,
+    },
     hallstatt: {
       personality: 'the UNESCO World Heritage lakeside village of the Salzkammergut, a 750-resident Alpine icon where dogs ride the lake boat free, take the Salzberg funicular up to the Skywalk Welterbeblick, and explore the Echerntal valley and dog-swim-friendly Gosausee',
       highlight: 'the 1 km lakeside promenade, the Echerntal valley to the Waldbachstrub waterfall, and the Dachstein Krippenstein cable car to the Five Fingers viewpoint',
@@ -1649,6 +1654,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Castelo et le Paço dos Duques sur la colline du château, le Largo da Oliveira avec le Padrão do Salado gothique, et les sentiers de la Penha accessibles par le Teleférico da Penha dog-friendly`,
       area: `le centre historique UNESCO autour du Largo da Oliveira et de la Praça de Santiago, la colline du château, et le quartier Costa à la base du téléphérique de la Penha`,
     },
+    haarlem: {
+      personality: `la base la plus simple côté chien pour visiter la région d'Amsterdam, ville médiévale néerlandaise compacte à 20 km à l'ouest d'Amsterdam où le Grote Markt sous la Grote Sint-Bavokerk (tombe de Frans Hals, orgue Müller joué par Mozart en 1766), le Spaarne et le moulin De Adriaan, seize hofjes historiques et le plus ancien parc public des Pays-Bas (Haarlemmerhout, 1583) sont à 15 minutes en train NS d'Amsterdam Centraal et à 10 minutes de la plage chiens permanente de Zandvoort`,
+      highlight: `le Grote Markt et le Klokhuisplein sous la Grote Sint-Bavokerk, les prairies sans laisse du Schoterbos au nord du Spaarne, et le hondenstrand Zandvoort Zuid toute l'année plus les 9 km de plage de Zandvoort sans laisse d'octobre à mai`,
+      area: `le Centrum à l'intérieur des singels autour du Grote Markt et des quais du Spaarne, Haarlem-Noord autour du Schoterbos, et la bande côtière de Zandvoort aan Zee à Bloemendaal aan Zee`,
+    },
     hallstatt: {
       personality: `le village UNESCO au bord du lac de Salzkammergut, icône alpine de 750 habitants où les chiens prennent gratuitement le bateau du lac, montent en funiculaire du Salzberg jusqu'au Skywalk Welterbeblick et explorent la vallée d'Echerntal et le Gosausee où la baignade canine est autorisée`,
       highlight: `la promenade de 1 km au bord du lac, la vallée d'Echerntal jusqu'à la cascade du Waldbachstrub et le téléphérique du Dachstein Krippenstein jusqu'au belvédère des Cinq Doigts`,
@@ -2801,6 +2811,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Castelo y el Paço dos Duques en la colina del castillo, el Largo da Oliveira con el Padrão do Salado gótico, y los senderos da Penha accesibles por el Teleférico da Penha pet-friendly`,
       area: `el centro histórico UNESCO en torno al Largo da Oliveira y la Praça de Santiago, la colina del castillo, y el barrio Costa en la base del teleférico da Penha`,
     },
+    haarlem: {
+      personality: `la base más fácil con perro para visitar la región de Ámsterdam, una compacta ciudad medieval neerlandesa a 20 km al oeste de Ámsterdam donde la Grote Markt bajo la Grote Sint-Bavokerk (tumba de Frans Hals, órgano Müller tocado por Mozart en 1766), el Spaarne con el molino De Adriaan, dieciséis hofjes históricos y el parque público más antiguo de los Países Bajos (Haarlemmerhout, 1583) están a 15 minutos en tren NS de Ámsterdam Centraal y a 10 minutos de la playa para perros permanente de Zandvoort`,
+      highlight: `la Grote Markt y el Klokhuisplein bajo la Grote Sint-Bavokerk, las praderas sin correa del Schoterbos al norte del Spaarne, y el hondenstrand de Zandvoort Zuid todo el año más los 9 km de playa de Zandvoort sin correa de octubre a mayo`,
+      area: `el Centrum dentro de los singels en torno a la Grote Markt y los muelles del Spaarne, Haarlem-Noord en torno al Schoterbos, y la franja costera de Zandvoort aan Zee a Bloemendaal aan Zee`,
+    },
     hallstatt: {
       personality: `la aldea UNESCO a orillas del lago en el Salzkammergut, icono alpino de 750 habitantes donde los perros viajan gratis en el barco del lago, suben en el funicular del Salzberg hasta el Skywalk Welterbeblick y exploran el valle del Echerntal y el Gosausee donde se permite el baño canino`,
       highlight: `el paseo lacustre de 1 km, el valle del Echerntal hasta la cascada del Waldbachstrub y el teleférico del Dachstein Krippenstein hasta el mirador Cinco Dedos`,
@@ -3952,6 +3967,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `berço de Portugal classificado pela UNESCO, cidade velha de granito inteiramente pedonal enrolada em torno do Castelo do século X onde nasceu o primeiro Rei de Portugal, o paço Paço dos Duques do século XV, o emblemático Largo da Oliveira medieval, e a montanha da Penha de 617 m acessível pelo teleférico mais longo de Portugal que aceita cães com trela em cada cabine`,
       highlight: `o Castelo e o Paço dos Duques na colina do castelo, o Largo da Oliveira com o Padrão do Salado gótico, e os trilhos da Penha acessíveis pelo Teleférico da Penha pet-friendly`,
       area: `o centro histórico UNESCO em torno do Largo da Oliveira e da Praça de Santiago, a colina do castelo, e o bairro Costa na base do teleférico da Penha`,
+    },
+    haarlem: {
+      personality: `a base mais simples para visitar a região de Amesterdão com um cão, uma compacta cidade medieval neerlandesa a 20 km a oeste de Amesterdão onde a Grote Markt sob a Grote Sint-Bavokerk (túmulo de Frans Hals, órgão Müller tocado por Mozart em 1766), o Spaarne com o moinho De Adriaan, dezasseis hofjes históricos e o parque público mais antigo dos Países Baixos (Haarlemmerhout, 1583) ficam a 15 minutos de comboio NS de Amesterdão Centraal e a 10 minutos da praia para cães permanente de Zandvoort`,
+      highlight: `a Grote Markt e o Klokhuisplein sob a Grote Sint-Bavokerk, os prados sem trela do Schoterbos a norte do Spaarne, e o hondenstrand de Zandvoort Zuid o ano inteiro mais os 9 km de praia de Zandvoort sem trela de outubro a maio`,
+      area: `o Centrum dentro dos singels em torno da Grote Markt e do cais do Spaarne, Haarlem-Noord em torno do Schoterbos, e a faixa costeira de Zandvoort aan Zee a Bloemendaal aan Zee`,
     },
     hallstatt: {
       personality: `a aldeia UNESCO à beira do lago no Salzkammergut, ícone alpino de 750 habitantes onde os cães viajam grátis no barco do lago, sobem no funicular do Salzberg até ao Skywalk Welterbeblick e exploram o vale do Echerntal e o Gosausee onde o banho de cães é permitido`,

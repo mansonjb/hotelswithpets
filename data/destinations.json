@@ -7287,6 +7287,81 @@
     "iata": "OPO"
   },
   {
+    "slug": "haarlem",
+    "name": "Haarlem",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "flag": "🇳🇱",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/haarlem.jpg",
+    "intro": "Haarlem is the Netherlands' most painlessly dog-friendly base for the Amsterdam region: a compact medieval city 20 km west of Amsterdam where the Grote Markt under the Grote Sint-Bavokerk (Frans Hals's tomb, the 1766 Mozart Müller organ), the Frans Hals Museum, the Teylers Museum (the oldest in the country), the Spaarne river with the De Adriaan windmill, and a network of sixteen historic almshouse courtyards (hofjes) cluster inside the singel canals. Haarlemmerhout is the oldest public park in the Netherlands (1583); the Schoterbos has two off-leash dog meadows. The Zandvoort dog beach is 10 minutes by NS train (year-round at Zandvoort Zuid hondenstrand, off-leash on the full 9 km from October 1 to May 1), Bloemendaal aan Zee 15 minutes by bus, and the 38 km² Nationaal Park Zuid-Kennemerland 6 km west. NS IC trains reach Amsterdam Centraal in 15 minutes every 10 minutes (dogs in carrier free, larger dogs €3.30 Dagkaart Hond); Schiphol Airport is a 20-minute direct Sprinter; Connexxion R-Net buses serve the dunes and beach.",
+    "lat": 52.3874,
+    "lng": 4.6462,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "AMS"
+  },
+  {
     "slug": "hallstatt",
     "name": "Hallstatt",
     "country": "Austria",

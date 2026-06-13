@@ -15094,6 +15094,33 @@
     "tiqetsId": "60914"
   },
   {
+    "slug": "soller",
+    "name": "Sóller",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/soller.jpg",
+    "intro": "Sóller is a 14k orange-valley town in Mallorca's UNESCO Serra de Tramuntana, reached from Palma by the 1912 wooden Ferrocarril and from the natural horseshoe Port de Sóller by the 1913 open-air Tranvía vintage tram. Modernist Plaça d'Espanya, the GR-221 Ruta de Pedra en Sec dry-stone trail, the Pinos boat to Sa Calobra, Cap Gros lighthouse views, and naranjas + oli Sóller PDO make it Mallorca's most genuinely pet-friendly mountain base.",
+    "lat": 39.7656,
+    "lng": 2.7150,
+    "weather": {
+      "jan": { "temp": 11, "desc": "Mild valley winter", "icon": "⛅" },
+      "feb": { "temp": 11, "desc": "Cool & sunny", "icon": "🌤️" },
+      "mar": { "temp": 13, "desc": "Mild & breezy", "icon": "🌤️" },
+      "apr": { "temp": 15, "desc": "Warm & pleasant", "icon": "☀️" },
+      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
+      "jun": { "temp": 22, "desc": "Hot & dry", "icon": "☀️" },
+      "jul": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
+      "aug": { "temp": 28, "desc": "Very hot & sunny", "icon": "☀️" },
+      "sep": { "temp": 24, "desc": "Warm & sunny", "icon": "🌤️" },
+      "oct": { "temp": 19, "desc": "Mild & some rain", "icon": "🌦️" },
+      "nov": { "temp": 14, "desc": "Cool & rainy", "icon": "🌧️" },
+      "dec": { "temp": 12, "desc": "Cool & overcast", "icon": "⛅" }
+    },
+    "iata": "PMI"
+  },
+  {
     "slug": "sorrento",
     "name": "Sorrento",
     "country": "Italy",

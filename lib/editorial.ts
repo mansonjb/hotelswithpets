@@ -831,6 +831,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Es Carnatge year-round dog beach, Parc de sa Riera, and the Castell de Bellver hilltop grounds',
       area: 'Santa Catalina, the Old Town (Casc Antic), and Portixol',
     },
+    soller: {
+      personality: 'a UNESCO Serra de Tramuntana orange-valley town in NW Mallorca reached by a 1912 wooden train and a 1913 open-air vintage tram, where leashed dogs walk the GR-221 dry-stone trail and the natural horseshoe Port de Sóller bay below',
+      highlight: 'the Modernist Plaça d\'Espanya, the 4 km Camí des Faros lighthouse loop above Port de Sóller, and the GR-221 Ruta de Pedra en Sec dry-stone trail through Biniaraix',
+      area: 'the historic centre around Plaça d\'Espanya and Gran Via, the Port de Sóller seafront, and the Biniaraix–Fornalutx hamlets above the valley',
+    },
     palermo: {
       personality: `Sicily's chaotic-baroque capital, where the UNESCO Arab-Norman old town, year-round Mondello Bau-Beach 11 km north, and the 400-ha Parco della Favorita make it Italy's most generous southern dog destination`,
       highlight: 'the Quattro Canti baroque crossroads, Mondello Bau-Beach 11 km north, and the 400 ha Parco della Favorita at the foot of Monte Pellegrino',
@@ -2059,6 +2064,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la plage canine toute l\'année d\'Es Carnatge, le Parc de sa Riera et les jardins du Castell de Bellver',
       area: 'Santa Catalina, le Vieux-Ville (Casc Antic) et Portixol',
     },
+    soller: {
+      personality: 'une ville de vallée d\'orangers de la Serra de Tramuntana UNESCO au nord-ouest de Majorque, desservie par un train en bois de 1912 et un tramway vintage à ciel ouvert de 1913, où les chiens en laisse parcourent le sentier en pierre sèche GR-221 et la baie en fer à cheval naturelle du Port de Sóller',
+      highlight: 'la Plaça d\'Espanya moderniste, la boucle des phares Camí des Faros de 4 km au-dessus du Port de Sóller et le GR-221 Ruta de Pedra en Sec via Biniaraix',
+      area: 'le centre historique autour de la Plaça d\'Espanya et de la Gran Via, le front de mer du Port de Sóller et les hameaux de Biniaraix et Fornalutx au-dessus de la vallée',
+    },
     palermo: {
       personality: `la capitale chaotique-baroque de la Sicile, où le centre arabe-normand UNESCO, la Bau-Beach de Mondello toute l'année à 11 km au nord et le Parco della Favorita de 400 ha en font la destination canine la plus généreuse du sud de l'Italie`,
       highlight: 'le carrefour baroque du Quattro Canti, la Bau-Beach de Mondello à 11 km au nord et les 400 ha du Parco della Favorita au pied du Monte Pellegrino',
@@ -3286,6 +3296,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la playa canina todo el año de Es Carnatge, el Parc de sa Riera y los jardines del Castell de Bellver',
       area: 'Santa Catalina, el Casco Antiguo (Casc Antic) y Portixol',
     },
+    soller: {
+      personality: 'un pueblo del valle de los naranjos en la Serra de Tramuntana UNESCO al noroeste de Mallorca, al que llegan un tren de madera de 1912 y un tranvía vintage al aire libre de 1913, donde los perros con correa recorren el sendero de piedra seca GR-221 y la bahía natural en herradura del Port de Sóller',
+      highlight: 'la Plaça d\'Espanya modernista, el circuito de los faros Camí des Faros de 4 km sobre el Port de Sóller y el GR-221 Ruta de Pedra en Sec por Biniaraix',
+      area: 'el centro histórico en torno a la Plaça d\'Espanya y la Gran Via, el paseo marítimo del Port de Sóller y las aldeas de Biniaraix y Fornalutx sobre el valle',
+    },
     palermo: {
       personality: 'la caótica-barroca capital de Sicilia, donde el casco antiguo árabo-normando UNESCO, la Bau-Beach de Mondello todo el año a 11 km al norte y el Parco della Favorita de 400 ha la convierten en el destino canino más generoso del sur de Italia',
       highlight: 'el cruce barroco de Quattro Canti, la Bau-Beach de Mondello a 11 km al norte y las 400 ha del Parco della Favorita al pie del Monte Pellegrino',
@@ -4512,6 +4527,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital insular mediterrânea banhada pelo sol onde as esplanadas, as praias e o clima cálido durante o ano inteiro a convierten numa das cidades mais pet-friendly de Espanha',
       highlight: 'a praia canina o ano inteiro de É Carnatge, o Parc de sa Riera e os jardins do Castell de Bellver',
       area: 'Santa Catalina, o Centro histórico (Casc Antic) e Portixol',
+    },
+    soller: {
+      personality: 'um pueblo do vale dos laranjais na Serra de Tramuntana UNESCO a noroeste de Mallorca, servido por um comboio de madeira de 1912 e um elétrico vintage ao ar livre de 1913, onde os cães com trela percorrem o trilho de pedra seca GR-221 e a baía natural em ferradura do Port de Sóller',
+      highlight: 'a Plaça d\'Espanya modernista, o circuito dos faróis Camí des Faros de 4 km sobre o Port de Sóller e o GR-221 Ruta de Pedra en Sec por Biniaraix',
+      area: 'o centro histórico em torno da Plaça d\'Espanya e da Gran Via, a marginal do Port de Sóller e as aldeias de Biniaraix e Fornalutx sobre o vale',
     },
     palermo: {
       personality: 'a caótica-barroca capital de Sicilia, onde o centro histórico árabo-normando UNESCO, a Bau-Beach de Mondello o ano inteiro a 11 km al norte e o Parco della Favorita de 400 ha a convierten no destino canino mais generoso do sul de Italia',

@@ -477,9 +477,9 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'the Puerto Viejo de Algorta, the Romantic-era Neguri mansion district, and the Las Arenas waterfront at the Nervión estuary',
     },
     ghent: {
-      personality: 'a progressive, cycling-first Belgian city where dogs are part of daily life. On trams, in coffee bars, and along the beautiful Leie and Schelde rivers',
-      highlight: 'the Citadelpark, the Bourgoyen-Ossemeersen nature reserve, and the Leie riverside towpaths',
-      area: 'the Patershol, Sint-Pieters, and Portus Ganda',
+      personality: `a progressive Flemish university city with Europe's largest car-free historic centre, the Counts of Flanders' Gravensteen castle on its moat, Van Eyck's Mystic Lamb at Saint Bavo's Cathedral, an in-city dog-swim beach at Blaarmeersen and free NMBS trains for dogs to Bruges in 25 minutes`,
+      highlight: 'the 13-hectare Citadelpark with its fenced off-leash zone, the 300-hectare Bourgoyen-Ossemeersen NATURA 2000 reserve, and the Blaarmeersen dog beach 4 km from the centre',
+      area: 'the Korenmarkt-Graslei-Korenlei medieval waterfront, the oldest quarter of Patershol around the Gravensteen, and the Vrijdagmarkt cuberdon-vendor square',
     },
     glasgow: {
       personality: 'one of the UK\'s most reliably dog-friendly cities, with free pets on every ScotRail train, dog-welcoming pubs in every neighbourhood, and the 146-hectare Pollok Country Park inside the city',
@@ -1670,9 +1670,9 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'le Puerto Viejo de Algorta, le quartier romantique des villas de Neguri et le front de mer de Las Arenas à l\'embouchure du Nervión',
     },
     ghent: {
-      personality: 'une ville belge progressiste axée sur le vélo où les chiens font partie de la vie quotidienne. Dans les tramways, dans les coffee bars et le long des belles rivières Leie et Schelde',
-      highlight: 'le Citadelpark, la réserve naturelle de Bourgoyen-Ossemeersen et les chemins de halage riverains de la Leie',
-      area: 'le Patershol, Sint-Pieters et Portus Ganda',
+      personality: `ville universitaire flamande progressiste dotée du plus grand centre historique sans voiture d'Europe, du château Gravensteen des comtes de Flandre sur ses douves, de l'Agneau mystique de Van Eyck à la cathédrale Saint-Bavon, d'une plage de baignade canine intra-urbaine à Blaarmeersen et de trains NMBS gratuits pour les chiens vers Bruges en 25 minutes`,
+      highlight: 'le Citadelpark de 13 hectares avec sa zone canine clôturée, la réserve NATURA 2000 du Bourgoyen-Ossemeersen (300 ha) et la plage canine de Blaarmeersen à 4 km du centre',
+      area: 'le front d\'eau médiéval Korenmarkt-Graslei-Korenlei, le Patershol (plus ancien quartier) autour du Gravensteen, et le Vrijdagmarkt des vendeurs de cuberdons',
     },
     glasgow: {
       personality: 'l\'une des villes britanniques les plus fiables côté chiens, avec animaux gratuits dans chaque train ScotRail, pubs dog-friendly dans chaque quartier et les 146 hectares de Pollok Country Park dans la ville',
@@ -2862,9 +2862,9 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'el Puerto Viejo de Algorta, el distrito romántico de villas de Neguri y el frente marítimo de Las Arenas en la desembocadura del Nervión',
     },
     ghent: {
-      personality: 'una progresista ciudad belga orientada a la bicicleta donde los perros forman parte de la vida cotidiana. En tranvías, en cafeterías y a lo largo de los bellos ríos Leie y Schelde',
-      highlight: 'el Citadelpark, la reserva natural de Bourgoyen-Ossemeersen y los caminos de sirga ribereños del Leie',
-      area: 'el Patershol, Sint-Pieters y Portus Ganda',
+      personality: `progresista ciudad universitaria flamenca con el mayor centro histórico peatonal de Europa, el castillo Gravensteen de los condes de Flandes sobre su foso, el Cordero Místico de Van Eyck en la catedral de San Bavón, una playa de baño canino intraurbana en Blaarmeersen y trenes NMBS gratis para perros a Brujas en 25 minutos`,
+      highlight: 'el Citadelpark de 13 hectáreas con su zona canina vallada, la reserva NATURA 2000 de Bourgoyen-Ossemeersen (300 ha) y la playa canina de Blaarmeersen a 4 km del centro',
+      area: 'el frente de agua medieval Korenmarkt-Graslei-Korenlei, el Patershol (barrio más antiguo) alrededor del Gravensteen, y el Vrijdagmarkt de los vendedores de cuberdones',
     },
     glasgow: {
       personality: 'una de las ciudades del Reino Unido más fiables con perros, con mascotas gratis en cada tren ScotRail, pubs dog-friendly en cada barrio y las 146 hectáreas de Pollok Country Park dentro de la ciudad',
@@ -4054,9 +4054,9 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'o Puerto Viejo de Algorta, o distrito romântico das vilas de Neguri e a frente marítima de Las Arenas na foz do Nervión',
     },
     ghent: {
-      personality: 'uma progresista cidade belga orientada a a bicicleta onde os cães forman parte da vida cotidiana. En elétricos, en cafeterías e a lo largo dos bellos rios Leie e Schelde',
-      highlight: 'o Citadelpark, a reserva natural de Bourgoyen-Ossemeersen e os caminos de sirga riberenhos do Leie',
-      area: 'o Patershol, Sint-Pieters e Portus Ganda',
+      personality: `cidade universitária flamenga progressista com o maior centro histórico sem carros da Europa, o castelo Gravensteen dos condes da Flandres sobre o seu fosso, o Cordeiro Místico de Van Eyck na catedral de São Bavão, uma praia de banho canino intraurbana em Blaarmeersen e comboios NMBS grátis para cães até Bruges em 25 minutos`,
+      highlight: 'o Citadelpark de 13 hectares com a sua zona canina vedada, a reserva NATURA 2000 do Bourgoyen-Ossemeersen (300 ha) e a praia canina de Blaarmeersen a 4 km do centro',
+      area: 'a frente de água medieval Korenmarkt-Graslei-Korenlei, o Patershol (bairro mais antigo) em torno do Gravensteen, e o Vrijdagmarkt dos vendedores de cuberdons',
     },
     glasgow: {
       personality: 'uma das cidades do Reino Unido mais fiables com cães, com animais grátis en cada comboio ScotRail, pubs pet-friendly en cada bairro e as 146 hectáreas de Pollok Country Park dentro da cidade',

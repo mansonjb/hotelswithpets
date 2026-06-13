@@ -6988,12 +6988,13 @@
     "slug": "ghent",
     "name": "Ghent",
     "country": "Belgium",
+    "countryCode": "BE",
     "flag": "🇧🇪",
     "categoryCount": 5,
     "heroImage": "/images/destinations/ghent.jpg",
-    "intro": "Ghent is one of Belgium's most progressive cities: a strong cycling and pet culture, compact centre, and excellent hotels make it ideal for dog owners.",
-    "lat": 51.0543,
-    "lng": 3.7174,
+    "intro": "Ghent, the UNESCO-listed Flemish university capital of East Flanders, combines Europe's largest car-free historic centre, the 12th-century Gravensteen castle of the Counts of Flanders, Van Eyck's Mystic Lamb at Saint Bavo's Cathedral, the medieval Graslei-Korenlei quays on the Leie, the Citadelpark with a fenced off-leash zone, the Blaarmeersen in-city dog beach, and NMBS trains that carry dogs free to Bruges in 25 min and Brussels in 30 min.",
+    "lat": 51.05,
+    "lng": 3.7167,
     "weather": {
       "jan": {
         "temp": 4,

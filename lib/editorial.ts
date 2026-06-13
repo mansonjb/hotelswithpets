@@ -341,6 +341,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Montrose Dog Beach in Uptown, the Wiggly Field DFA in Lincoln Park, the Lakefront Trail and free Lincoln Park Zoo perimeter, the Chicago Riverwalk, and the leashed-dog lap of Cloud Gate ('The Bean') at Millennium Park`,
       area: `Lincoln Park and Lakeview for hotels close to the dog parks and Wrigley Field patios, Wicker Park and Logan Square for restaurant patios, the West Loop and River North for the Chicago Riverwalk and Fulton Market dining scene`,
     },
+    ciutadella: {
+      personality: `Menorca's former capital on the wild west coast of the island, an Italianate honey-coloured old town around the Plaça d'es Born and the 14th-century Gothic cathedral, where the 185 km Camí de Cavalls GR-223 starts from the Castell de Sant Nicolau lighthouse, the UNESCO Talaiotic Naveta des Tudons megalith sits 4 km east, and the most photographed coves of Menorca (Cala Macarella, Cala Macarelleta, Cala en Turqueta) reopen to leashed dogs from November to March`,
+      highlight: `the Plaça d'es Born and the Catedral de Menorca, the Naveta des Tudons UNESCO megalith, the south-west coves at Cala Macarella, Cala en Turqueta and Cala Galdana, and the Camí de Cavalls GR-223 starting from the Castell de Sant Nicolau lighthouse`,
+      area: `the old town around the Plaça d'es Born and the cathedral, the Port de Ciutadella quays at Pla de Sant Joan, and the south-west coves between Cala Galdana and Cap d'Artrutx`,
+    },
     cologne: {
       personality: 'a pragmatic Rhineland city where dogs ride trains on a child ticket, drink water at pub troughs, and follow owners along the riverside',
       highlight: 'the Rhine riverbank path, Stadtwald forest park, and the off-leash meadow at Beethovenpark',
@@ -1564,6 +1569,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la Montrose Dog Beach à Uptown, le DFA Wiggly Field à Lincoln Park, le Lakefront Trail et le pourtour gratuit du Lincoln Park Zoo, le Chicago Riverwalk, et le tour en laisse autour de Cloud Gate (« The Bean ») à Millennium Park`,
       area: `Lincoln Park et Lakeview pour les hôtels proches des DFA et des terrasses de Wrigley Field, Wicker Park et Logan Square pour les terrasses de restaurants, le West Loop et River North pour le Chicago Riverwalk et la scène de Fulton Market`,
     },
+    ciutadella: {
+      personality: `l'ancienne capitale de Menorca sur la côte ouest sauvage de l'île, une vieille ville italianisante en pierre dorée autour de la Plaça d'es Born et de la cathédrale gothique du XIVe siècle, où le Camí de Cavalls GR-223 de 185 km démarre du phare du Castell de Sant Nicolau, le mégalithe UNESCO Talaiotic Naveta des Tudons se trouve à 4 km à l'est, et les criques les plus photographiées de Menorca (Cala Macarella, Cala Macarelleta, Cala en Turqueta) rouvrent aux chiens en laisse de novembre à mars`,
+      highlight: `la Plaça d'es Born et la Catedral de Menorca, le mégalithe UNESCO de la Naveta des Tudons, les criques du sud-ouest à Cala Macarella, Cala en Turqueta et Cala Galdana, et le Camí de Cavalls GR-223 partant du phare du Castell de Sant Nicolau`,
+      area: `la vieille ville autour de la Plaça d'es Born et de la cathédrale, les quais du Port de Ciutadella au Pla de Sant Joan, et les criques du sud-ouest entre Cala Galdana et Cap d'Artrutx`,
+    },
     cologne: {
       personality: 'une ville rhénane pragmatique où les chiens prennent le train avec un billet enfant, boivent dans des abreuvoirs de pubs et suivent leurs maîtres le long du fleuve',
       highlight: 'la promenade du Rhin, le parc forestier du Stadtwald et la prairie sans laisse du Beethovenpark',
@@ -2786,6 +2796,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Montrose Dog Beach en Uptown, el DFA Wiggly Field en Lincoln Park, el Lakefront Trail y el perímetro gratuito del Lincoln Park Zoo, el Chicago Riverwalk, y la vuelta con correa alrededor de Cloud Gate ('The Bean') en Millennium Park`,
       area: `Lincoln Park y Lakeview para hoteles cerca de los DFA y de las terrazas de Wrigley Field, Wicker Park y Logan Square para terrazas de restaurantes, el West Loop y River North para el Chicago Riverwalk y la escena de Fulton Market`,
     },
+    ciutadella: {
+      personality: `la antigua capital de Menorca en la costa oeste salvaje de la isla, un casco antiguo italianizante en piedra dorada en torno a la Plaça d'es Born y a la catedral gótica del siglo XIV, donde el Camí de Cavalls GR-223 de 185 km arranca del faro del Castell de Sant Nicolau, el megalito UNESCO Talaiotic Naveta des Tudons se encuentra a 4 km al este, y las calas más fotografiadas de Menorca (Cala Macarella, Cala Macarelleta, Cala en Turqueta) vuelven a admitir perros con correa de noviembre a marzo`,
+      highlight: `la Plaça d'es Born y la Catedral de Menorca, el megalito UNESCO de la Naveta des Tudons, las calas del suroeste en Cala Macarella, Cala en Turqueta y Cala Galdana, y el Camí de Cavalls GR-223 que sale del faro del Castell de Sant Nicolau`,
+      area: `el casco antiguo en torno a la Plaça d'es Born y a la catedral, los muelles del Port de Ciutadella en el Pla de Sant Joan, y las calas del suroeste entre Cala Galdana y Cap d'Artrutx`,
+    },
     cologne: {
       personality: 'una ciudad renana pragmática donde los perros viajan en tren con billete infantil, beben en abrevaderos de pubs y acompañan a sus dueños por la ribera',
       highlight: 'el paseo del Rin, el parque forestal de Stadtwald y la pradera sin correa del Beethovenpark',
@@ -4007,6 +4022,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital do Midwest à beira do lago Michigan, com uma das maiores redes de Dog Friendly Areas dos EUA (mais de 25 DFA off-leash vedadas e a Montrose Dog Beach dedicada, única praia off-leash da cidade), um Lakefront Trail plano de 29 km, o Lincoln Park de 485 hectares, e invernos rigorosos que reduzem a refeição com cão a um circuito de esplanadas aquecidas (Kaiser Tiger, Big Star) de dezembro a março`,
       highlight: `a Montrose Dog Beach em Uptown, o DFA Wiggly Field em Lincoln Park, o Lakefront Trail e o perímetro gratuito do Lincoln Park Zoo, o Chicago Riverwalk, e a volta com trela à volta do Cloud Gate ('The Bean') em Millennium Park`,
       area: `Lincoln Park e Lakeview para hotéis perto dos DFA e das esplanadas de Wrigley Field, Wicker Park e Logan Square para esplanadas de restaurantes, o West Loop e River North para o Chicago Riverwalk e a cena de Fulton Market`,
+    },
+    ciutadella: {
+      personality: `a antiga capital de Menorca na costa oeste selvagem da ilha, um centro histórico italianizante em pedra dourada à volta da Plaça d'es Born e da catedral gótica do século XIV, onde o Camí de Cavalls GR-223 de 185 km começa no farol do Castell de Sant Nicolau, o megálito UNESCO Talaiotic Naveta des Tudons fica a 4 km a leste, e as enseadas mais fotografadas de Menorca (Cala Macarella, Cala Macarelleta, Cala en Turqueta) voltam a admitir cães com trela de novembro a março`,
+      highlight: `a Plaça d'es Born e a Catedral de Menorca, o megálito UNESCO da Naveta des Tudons, as enseadas do sudoeste em Cala Macarella, Cala en Turqueta e Cala Galdana, e o Camí de Cavalls GR-223 a partir do farol do Castell de Sant Nicolau`,
+      area: `o centro histórico à volta da Plaça d'es Born e da catedral, os cais do Port de Ciutadella no Pla de Sant Joan, e as enseadas do sudoeste entre Cala Galdana e Cap d'Artrutx`,
     },
     cologne: {
       personality: 'uma cidade renana pragmática onde os cães viajan de comboio com bilhete infantil, beben en abrevaderos de pubs e acompanhan aos seus duenhos pela ribera',

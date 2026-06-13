@@ -102,6 +102,7 @@ const TARGETS = [
   { slug: 'hannover', query: 'Neues Rathaus Hannover Maschsee reflection' },
   { slug: 'palma', query: 'La Seu Cathedral Palma de Mallorca waterfront' },
   { slug: 'mahon', query: 'Port de Mao Mahon Menorca harbour whitewashed townhouses panorama sunset' },
+  { slug: 'ciutadella', query: 'Ciutadella de Menorca Placa des Born Ajuntament Catedral honey-coloured port cliffs sunset Mediterranean panorama' },
   { slug: 'thessaloniki', query: 'White Tower Thessaloniki waterfront promenade' },
   { slug: 'cannes', query: 'Cannes La Croisette seafront promenade' },
   { slug: 'capri', query: 'Capri Italy Faraglioni rocks Marina Piccola Mediterranean panorama' },

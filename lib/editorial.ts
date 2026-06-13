@@ -836,6 +836,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Modernist Plaça d\'Espanya, the 4 km Camí des Faros lighthouse loop above Port de Sóller, and the GR-221 Ruta de Pedra en Sec dry-stone trail through Biniaraix',
       area: 'the historic centre around Plaça d\'Espanya and Gran Via, the Port de Sóller seafront, and the Biniaraix–Fornalutx hamlets above the valley',
     },
+    valldemossa: {
+      personality: 'a 2,000-resident UNESCO Serra de Tramuntana village 17 km north of Palma defined by the 14th-century Real Cartuja monastery where Chopin and George Sand wintered in 1838-39, the cobbled flower-lined casc antic and the GR-221 dry-stone trail that passes through the village',
+      highlight: 'the Real Cartuja cloister and gardens (Chopin + George Sand cell 4), the Plaça pública and Casa Natal de Santa Catalina Tomàs in the casc antic, and the Mirador des Pi des Català sunset view over the village rooftops',
+      area: 'the casc antic around Plaça pública and the Real Cartuja, the upper miradors toward the Pla des Pouet, and the Port de Valldemossa fishing cove 7 km below the village',
+    },
     palermo: {
       personality: `Sicily's chaotic-baroque capital, where the UNESCO Arab-Norman old town, year-round Mondello Bau-Beach 11 km north, and the 400-ha Parco della Favorita make it Italy's most generous southern dog destination`,
       highlight: 'the Quattro Canti baroque crossroads, Mondello Bau-Beach 11 km north, and the 400 ha Parco della Favorita at the foot of Monte Pellegrino',
@@ -2069,6 +2074,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Plaça d\'Espanya moderniste, la boucle des phares Camí des Faros de 4 km au-dessus du Port de Sóller et le GR-221 Ruta de Pedra en Sec via Biniaraix',
       area: 'le centre historique autour de la Plaça d\'Espanya et de la Gran Via, le front de mer du Port de Sóller et les hameaux de Biniaraix et Fornalutx au-dessus de la vallée',
     },
+    valldemossa: {
+      personality: 'un village de 2 000 habitants perché dans la Serra de Tramuntana UNESCO à 17 km au nord de Palma, défini par le monastère de la Real Cartuja du XIVe siècle où Chopin et George Sand passèrent l\'hiver 1838-39, le casc antic pavé aux balcons fleuris et le GR-221 en pierre sèche qui traverse le village',
+      highlight: 'le cloître et les jardins de la Real Cartuja (cellule 4 de Chopin et George Sand), la Plaça pública et la Casa Natal de Santa Catalina Tomàs dans le casc antic, et la vue coucher de soleil du Mirador des Pi des Català sur les toits du village',
+      area: 'le casc antic autour de la Plaça pública et de la Real Cartuja, les miradors hauts vers le Pla des Pouet et la crique du Port de Valldemossa à 7 km en contrebas',
+    },
     palermo: {
       personality: `la capitale chaotique-baroque de la Sicile, où le centre arabe-normand UNESCO, la Bau-Beach de Mondello toute l'année à 11 km au nord et le Parco della Favorita de 400 ha en font la destination canine la plus généreuse du sud de l'Italie`,
       highlight: 'le carrefour baroque du Quattro Canti, la Bau-Beach de Mondello à 11 km au nord et les 400 ha du Parco della Favorita au pied du Monte Pellegrino',
@@ -3301,6 +3311,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Plaça d\'Espanya modernista, el circuito de los faros Camí des Faros de 4 km sobre el Port de Sóller y el GR-221 Ruta de Pedra en Sec por Biniaraix',
       area: 'el centro histórico en torno a la Plaça d\'Espanya y la Gran Via, el paseo marítimo del Port de Sóller y las aldeas de Biniaraix y Fornalutx sobre el valle',
     },
+    valldemossa: {
+      personality: 'un pueblo de 2.000 habitantes encaramado en la Serra de Tramuntana UNESCO a 17 km al norte de Palma, definido por el monasterio de la Real Cartuja del siglo XIV donde Chopin y George Sand pasaron el invierno 1838-39, el casc antic empedrado con balcones floridos y el GR-221 de piedra seca que cruza el pueblo',
+      highlight: 'el claustro y los jardines de la Real Cartuja (celda 4 de Chopin y George Sand), la Plaça pública y la Casa Natal de Santa Catalina Tomàs en el casc antic, y la vista al atardecer del Mirador des Pi des Català sobre los tejados del pueblo',
+      area: 'el casc antic en torno a la Plaça pública y la Real Cartuja, los miradores altos hacia el Pla des Pouet y la cala del Port de Valldemossa a 7 km bajo el pueblo',
+    },
     palermo: {
       personality: 'la caótica-barroca capital de Sicilia, donde el casco antiguo árabo-normando UNESCO, la Bau-Beach de Mondello todo el año a 11 km al norte y el Parco della Favorita de 400 ha la convierten en el destino canino más generoso del sur de Italia',
       highlight: 'el cruce barroco de Quattro Canti, la Bau-Beach de Mondello a 11 km al norte y las 400 ha del Parco della Favorita al pie del Monte Pellegrino',
@@ -4532,6 +4547,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'um pueblo do vale dos laranjais na Serra de Tramuntana UNESCO a noroeste de Mallorca, servido por um comboio de madeira de 1912 e um elétrico vintage ao ar livre de 1913, onde os cães com trela percorrem o trilho de pedra seca GR-221 e a baía natural em ferradura do Port de Sóller',
       highlight: 'a Plaça d\'Espanya modernista, o circuito dos faróis Camí des Faros de 4 km sobre o Port de Sóller e o GR-221 Ruta de Pedra en Sec por Biniaraix',
       area: 'o centro histórico em torno da Plaça d\'Espanya e da Gran Via, a marginal do Port de Sóller e as aldeias de Biniaraix e Fornalutx sobre o vale',
+    },
+    valldemossa: {
+      personality: 'uma aldeia de 2.000 habitantes empoleirada na Serra de Tramuntana UNESCO a 17 km a norte de Palma, definida pelo mosteiro da Real Cartuja do século XIV onde Chopin e George Sand passaram o inverno 1838-39, o casc antic empedrado com varandas floridas e o GR-221 de pedra seca que atravessa a aldeia',
+      highlight: 'o claustro e os jardins da Real Cartuja (cela 4 de Chopin e George Sand), a Plaça pública e a Casa Natal de Santa Catalina Tomàs no casc antic, e a vista ao pôr-do-sol do Mirador des Pi des Català sobre os telhados da aldeia',
+      area: 'o casc antic em torno da Plaça pública e da Real Cartuja, os miradouros altos em direcção ao Pla des Pouet e a enseada do Port de Valldemossa a 7 km abaixo da aldeia',
     },
     palermo: {
       personality: 'a caótica-barroca capital de Sicilia, onde o centro histórico árabo-normando UNESCO, a Bau-Beach de Mondello o ano inteiro a 11 km al norte e o Parco della Favorita de 400 ha a convierten no destino canino mais generoso do sul de Italia',

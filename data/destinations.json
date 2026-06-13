@@ -17068,6 +17068,33 @@
     "tiqetsId": "65847"
   },
   {
+    "slug": "valldemossa",
+    "name": "Valldemossa",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/valldemossa.jpg",
+    "intro": "Valldemossa is a 2,000-resident village perched in the UNESCO Serra de Tramuntana 17 km north of Palma, defined by the 14th-century Real Cartuja monastery where Chopin and George Sand wintered in 1838-39 (cell 4), the cobbled lanes and flower-lined balconies of the casc antic, the Plaça pública and Església Parroquial de Sant Bartomeu, the Casa Natal de Santa Catalina Tomàs (Mallorca's only Catholic saint, born here 1531), the Mirador des Pi des Català and Mirador de Valldemossa Tramuntana views, the GR-221 Ruta de Pedra en Sec dry-stone trail passing through the village, the twisty road down to Cala Valldemossa and the Port de Valldemossa fishing port, and coca de patata Valldemossa as the signature local pastry.",
+    "lat": 39.7106,
+    "lng": 2.6225,
+    "weather": {
+      "jan": { "temp": 9, "desc": "Cool Tramuntana winter", "icon": "🌧️" },
+      "feb": { "temp": 9, "desc": "Cool & changeable", "icon": "🌦️" },
+      "mar": { "temp": 11, "desc": "Mild & breezy", "icon": "⛅" },
+      "apr": { "temp": 13, "desc": "Mild & pleasant", "icon": "🌤️" },
+      "may": { "temp": 17, "desc": "Warm & sunny", "icon": "☀️" },
+      "jun": { "temp": 21, "desc": "Warm & dry", "icon": "☀️" },
+      "jul": { "temp": 25, "desc": "Hot & sunny", "icon": "☀️" },
+      "aug": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
+      "sep": { "temp": 22, "desc": "Warm & sunny", "icon": "🌤️" },
+      "oct": { "temp": 17, "desc": "Mild & some rain", "icon": "🌦️" },
+      "nov": { "temp": 12, "desc": "Cool & rainy", "icon": "🌧️" },
+      "dec": { "temp": 10, "desc": "Cool & overcast", "icon": "⛅" }
+    },
+    "iata": "PMI"
+  },
+  {
     "slug": "valletta",
     "name": "Valletta",
     "country": "Malta",

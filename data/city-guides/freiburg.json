@@ -19,7 +19,7 @@
           "name": "Hausbrauerei Feierling",
           "address": "Gerberau 46, 79098 Freiburg im Breisgau",
           "neighborhood": "Gerberau, Altstadt",
-          "photo": "/images/city-places/freiburg-restaurants-feierling.jpg",
+          "photo": "/images/city-places/freiburg-restaurants-hausbrauerei-feierling.jpg",
           "website": "https://www.feierling.de/",
           "description": "Independent house brewery in a 19th-century building on the historic Gerberau canal. Vaulted stube indoors, large shaded beer garden across the street under chestnut trees, both dog-friendly. Brews unfiltered Inselhopf Pils on site.",
           "descriptionFr": "Brasserie maison indépendante dans un bâtiment du XIXe siècle sur le canal historique de la Gerberau. Stube voûtée à l'intérieur, grand biergarten ombragé sous des châtaigniers en face, les deux dog-friendly. Brasse une Inselhopf Pils non filtrée sur place.",
@@ -45,7 +45,7 @@
           "name": "Großer Meyerhof",
           "address": "Grünwälderstraße 7, 79098 Freiburg im Breisgau",
           "neighborhood": "Altstadt, near Münster",
-          "photo": "/images/city-places/freiburg-restaurants-meyerhof.jpg",
+          "photo": "/images/city-places/freiburg-restaurants-gro-er-meyerhof.jpg",
           "website": "https://www.grosser-meyerhof.de/",
           "description": "Classic Badische Gaststätte two minutes from the Münster, in a building that dates to 1276. Vaulted ground-floor stube and a cobbled courtyard, both popular with locals bringing dogs. Regional Baden cuisine.",
           "descriptionFr": "Gaststätte badoise classique à deux minutes du Münster, dans un bâtiment qui date de 1276. Stube voûtée au rez-de-chaussée et cour pavée, populaires auprès des locaux qui amènent leur chien. Cuisine régionale de Bade.",
@@ -179,10 +179,30 @@
           "descriptionFr": "La colline boisée de 456 m qui s'élève directement depuis l'Altstadt. Sentiers de hêtres et de sapins, tour panoramique au sommet, vigne sur le versant sud. La promenade canine par défaut des locaux après le travail.",
           "descriptionEs": "La colina boscosa de 456 m que se eleva directamente desde el Altstadt. Senderos de hayas y abetos, torre panorámica en lo alto, viña en la ladera sur. El paseo canino por defecto de los locales tras el trabajo.",
           "descriptionPt": "A colina arborizada de 456 m que se eleva directamente a partir do Altstadt. Trilhos de faias e abetos, torre panorâmica no topo, vinha na encosta sul. O passeio canino por defeito dos locais depois do trabalho.",
-          "amenities": ["Forest paths", "Panorama tower", "Benches", "Shade"],
-          "amenitiesFr": ["Sentiers forestiers", "Tour panoramique", "Bancs", "Ombre"],
-          "amenitiesEs": ["Senderos forestales", "Torre panorámica", "Bancos", "Sombra"],
-          "amenitiesPt": ["Trilhos florestais", "Torre panorâmica", "Bancos", "Sombra"],
+          "amenities": [
+            "Forest paths",
+            "Panorama tower",
+            "Benches",
+            "Shade"
+          ],
+          "amenitiesFr": [
+            "Sentiers forestiers",
+            "Tour panoramique",
+            "Bancs",
+            "Ombre"
+          ],
+          "amenitiesEs": [
+            "Senderos forestales",
+            "Torre panorámica",
+            "Bancos",
+            "Sombra"
+          ],
+          "amenitiesPt": [
+            "Trilhos florestais",
+            "Torre panorâmica",
+            "Bancos",
+            "Sombra"
+          ],
           "tip": "Reach the top via the historic Schlossberg cable car (dogs accepted, around 3 EUR) or via the steep Schlossbergsteig path in 25 minutes. Sunset views over the Münster are the best in town.",
           "tipFr": "Montez par le funiculaire historique du Schlossberg (chiens admis, environ 3 €) ou par le sentier raide Schlossbergsteig en 25 minutes. Le coucher du soleil sur le Münster est le meilleur de la ville.",
           "tipEs": "Sube en el funicular histórico del Schlossberg (perros admitidos, unos 3 €) o por el empinado sendero Schlossbergsteig en 25 minutos. La puesta de sol sobre el Münster es la mejor de la ciudad.",
@@ -193,7 +213,7 @@
           "name": "Stadtgarten & Colombipark",
           "address": "Eisenbahnstraße, 79098 Freiburg im Breisgau",
           "neighborhood": "North of Altstadt",
-          "photo": "/images/city-places/freiburg-parks-stadtgarten.jpg",
+          "photo": "/images/city-places/freiburg-parks-stadtgarten-colombipark.jpg",
           "size": "10 ha combined",
           "leashRule": "Leash required throughout",
           "leashRuleFr": "Laisse obligatoire partout",
@@ -203,10 +223,30 @@
           "descriptionFr": "Deux parcs centraux contigus entre la gare et l'Altstadt. Platanes, kiosque à musique, petit zoo aux cerfs et station du funiculaire du Schlossberg. L'espace vert le plus accessible depuis n'importe quel hôtel central.",
           "descriptionEs": "Dos parques centrales contiguos entre la estación y el Altstadt. Plátanos, quiosco de música, pequeño zoo con ciervos y estación del funicular del Schlossberg. El espacio verde más accesible desde cualquier hotel céntrico.",
           "descriptionPt": "Dois parques centrais contíguos entre a estação e o Altstadt. Plátanos, coreto, pequeno zoo com veados e estação do funicular do Schlossberg. O espaço verde mais acessível a partir de qualquer hotel central.",
-          "amenities": ["Music pavilion", "Benches", "Café", "Water fountains"],
-          "amenitiesFr": ["Kiosque à musique", "Bancs", "Café", "Fontaines"],
-          "amenitiesEs": ["Quiosco de música", "Bancos", "Café", "Fuentes"],
-          "amenitiesPt": ["Coreto", "Bancos", "Café", "Fontes"],
+          "amenities": [
+            "Music pavilion",
+            "Benches",
+            "Café",
+            "Water fountains"
+          ],
+          "amenitiesFr": [
+            "Kiosque à musique",
+            "Bancs",
+            "Café",
+            "Fontaines"
+          ],
+          "amenitiesEs": [
+            "Quiosco de música",
+            "Bancos",
+            "Café",
+            "Fuentes"
+          ],
+          "amenitiesPt": [
+            "Coreto",
+            "Bancos",
+            "Café",
+            "Fontes"
+          ],
           "tip": "Free Sunday concerts from June to August at the music pavilion, dogs sit happily on the grass at the back.",
           "tipFr": "Concerts gratuits du dimanche de juin à août au kiosque, les chiens s'installent volontiers sur l'herbe à l'arrière.",
           "tipEs": "Conciertos gratis los domingos de junio a agosto en el quiosco, los perros se sientan tranquilamente en la hierba al fondo.",
@@ -227,10 +267,30 @@
           "descriptionFr": "Vaste forêt humide de chênes et de hêtres à l'ouest de la ville, alimentée par la Dreisam. Sentiers de gravier plats, étangs et prairies, la plus grande promenade canine sans laisse de Fribourg. Accessible en tram 3 en 15 minutes.",
           "descriptionEs": "Vasto bosque húmedo de robles y hayas al oeste de la ciudad, alimentado por el Dreisam. Senderos llanos de grava, estanques y praderas, el mayor paseo canino sin correa de Friburgo. Accesible en tranvía 3 en 15 minutos.",
           "descriptionPt": "Vasta floresta húmida de carvalhos e faias a oeste da cidade, alimentada pelo Dreisam. Trilhos planos de gravilha, lagos e prados, o maior passeio canino sem trela de Friburgo. Acessível em elétrico 3 em 15 minutos.",
-          "amenities": ["Forest paths", "Ponds", "Shade", "Wildlife"],
-          "amenitiesFr": ["Sentiers forestiers", "Étangs", "Ombre", "Faune"],
-          "amenitiesEs": ["Senderos forestales", "Estanques", "Sombra", "Fauna"],
-          "amenitiesPt": ["Trilhos florestais", "Lagos", "Sombra", "Fauna"],
+          "amenities": [
+            "Forest paths",
+            "Ponds",
+            "Shade",
+            "Wildlife"
+          ],
+          "amenitiesFr": [
+            "Sentiers forestiers",
+            "Étangs",
+            "Ombre",
+            "Faune"
+          ],
+          "amenitiesEs": [
+            "Senderos forestales",
+            "Estanques",
+            "Sombra",
+            "Fauna"
+          ],
+          "amenitiesPt": [
+            "Trilhos florestais",
+            "Lagos",
+            "Sombra",
+            "Fauna"
+          ],
           "tip": "Take tram 3 to Munzinger Straße then a 10-minute walk west. Wear waterproof shoes, the lowland paths can be wet outside July and August.",
           "tipFr": "Tram 3 jusqu'à Munzinger Straße puis 10 minutes à pied à l'ouest. Chaussures imperméables, les sentiers de la zone basse peuvent être humides en dehors de juillet et août.",
           "tipEs": "Tranvía 3 hasta Munzinger Straße y 10 minutos a pie al oeste. Zapatos impermeables, los senderos de la zona baja pueden estar húmedos fuera de julio y agosto.",
@@ -331,7 +391,7 @@
         {
           "name": "VAG Freiburg Tram & Bus",
           "type": "City transit",
-          "photo": "/images/city-places/freiburg-transport-vag-tram.jpg",
+          "photo": "/images/city-places/freiburg-transport-vag-freiburg-tram-bus.jpg",
           "website": "https://www.vag-freiburg.de/",
           "description": "Five tram lines and 30+ bus routes covering the city and inner suburbs. Tram 1 runs through the Altstadt, tram 2 climbs to Günterstal at the Schauinsland base. Dog-friendly with a simple ticket rule.",
           "descriptionFr": "Cinq lignes de tram et plus de 30 lignes de bus couvrent la ville et la proche banlieue. Le tram 1 traverse l'Altstadt, le tram 2 monte à Günterstal au pied du Schauinsland. Dog-friendly avec une règle de billet simple.",
@@ -350,7 +410,7 @@
         {
           "name": "Schauinslandbahn cable car",
           "type": "Mountain cable car",
-          "photo": "/images/city-places/freiburg-transport-schauinslandbahn.jpg",
+          "photo": "/images/city-places/freiburg-transport-schauinslandbahn-cable-car.jpg",
           "website": "https://www.schauinslandbahn.de/",
           "description": "Germany's longest continuous cable car, 3.6 km from Horben (tram 2 terminus) to the 1,284 m Schauinsland summit. Built 1930, dog-friendly with a small extra fee.",
           "descriptionFr": "Le téléphérique continu le plus long d'Allemagne, 3,6 km depuis Horben (terminus du tram 2) jusqu'au sommet du Schauinsland à 1 284 m. Construit en 1930, dog-friendly avec un petit supplément.",
@@ -441,7 +501,7 @@
         {
           "name": "Opfinger See Hundebadeplatz",
           "address": "Opfinger See, 79112 Freiburg im Breisgau",
-          "photo": "/images/city-places/freiburg-beaches-opfinger-see.jpg",
+          "photo": "/images/city-places/freiburg-beaches-opfinger-see-hundebadeplatz.jpg",
           "leashRule": "Off-leash inside the marked Hundebadeplatz on the north shore",
           "leashRuleFr": "Sans laisse dans la Hundebadeplatz signalée sur la rive nord",
           "leashRuleEs": "Sin correa en la Hundebadeplatz señalizada en la orilla norte",
@@ -450,10 +510,30 @@
           "descriptionFr": "Ancienne gravière en bordure ouest de la ville, devenue lac de baignade propre. Une Hundebadeplatz signalée sur la rive nord offre 150 m d'accès herbe et gravier en eau peu profonde, l'option de baignade canine en ville la plus facile.",
           "descriptionEs": "Antigua gravera en el borde oeste de la ciudad, hoy lago de baño limpio. Una Hundebadeplatz señalizada en la orilla norte ofrece 150 m de acceso de hierba y grava en agua poco profunda, la opción más fácil para baño canino en la ciudad.",
           "descriptionPt": "Antiga saibreira no extremo oeste da cidade, hoje lago de banho limpo. Uma Hundebadeplatz sinalizada na margem norte oferece 150 m de acesso de relva e gravilha em água pouco profunda, a opção mais fácil para banho canino na cidade.",
-          "amenities": ["Designated dog zone", "Shallow water", "Trash bins", "Parking"],
-          "amenitiesFr": ["Zone canine désignée", "Eau peu profonde", "Poubelles", "Parking"],
-          "amenitiesEs": ["Zona canina designada", "Agua poco profunda", "Papeleras", "Aparcamiento"],
-          "amenitiesPt": ["Zona canina designada", "Água pouco profunda", "Caixotes", "Estacionamento"],
+          "amenities": [
+            "Designated dog zone",
+            "Shallow water",
+            "Trash bins",
+            "Parking"
+          ],
+          "amenitiesFr": [
+            "Zone canine désignée",
+            "Eau peu profonde",
+            "Poubelles",
+            "Parking"
+          ],
+          "amenitiesEs": [
+            "Zona canina designada",
+            "Agua poco profunda",
+            "Papeleras",
+            "Aparcamiento"
+          ],
+          "amenitiesPt": [
+            "Zona canina designada",
+            "Água pouco profunda",
+            "Caixotes",
+            "Estacionamento"
+          ],
           "tip": "Bus 33 from Freiburg Hbf to Opfingen, then a 10-minute walk. Water heats to 22 to 24 degrees in July and August.",
           "tipFr": "Bus 33 de la Hbf jusqu'à Opfingen puis 10 minutes à pied. L'eau atteint 22 à 24 degrés en juillet et août.",
           "tipEs": "Bus 33 desde la Hbf hasta Opfingen y 10 minutos a pie. El agua alcanza 22 a 24 grados en julio y agosto.",
@@ -472,10 +552,30 @@
           "descriptionFr": "Le plus grand lac de la Forêt-Noire, à 930 m d'altitude et à 45 minutes à l'est de Fribourg en voiture. Deux Hundestrand signalées à Aha et au sud à Wolfsgrund offrent des berges herbeuses et une baignade claire et peu profonde.",
           "descriptionEs": "El mayor lago de la Selva Negra, a 930 m sobre el nivel del mar y a 45 minutos al este de Friburgo en coche. Dos Hundestrand señalizadas en Aha y al sur en Wolfsgrund ofrecen orillas con hierba y baño claro y poco profundo.",
           "descriptionPt": "O maior lago da Floresta Negra, a 930 m acima do nível do mar e a 45 minutos a leste de Friburgo de carro. Duas Hundestrand sinalizadas em Aha e a sul em Wolfsgrund oferecem margens com relva e banho claro e pouco profundo.",
-          "amenities": ["Two Hundestrand zones", "Grass banks", "Parking", "Café"],
-          "amenitiesFr": ["Deux zones Hundestrand", "Berges herbeuses", "Parking", "Café"],
-          "amenitiesEs": ["Dos zonas Hundestrand", "Orillas con hierba", "Aparcamiento", "Café"],
-          "amenitiesPt": ["Duas zonas Hundestrand", "Margens com relva", "Estacionamento", "Café"],
+          "amenities": [
+            "Two Hundestrand zones",
+            "Grass banks",
+            "Parking",
+            "Café"
+          ],
+          "amenitiesFr": [
+            "Deux zones Hundestrand",
+            "Berges herbeuses",
+            "Parking",
+            "Café"
+          ],
+          "amenitiesEs": [
+            "Dos zonas Hundestrand",
+            "Orillas con hierba",
+            "Aparcamiento",
+            "Café"
+          ],
+          "amenitiesPt": [
+            "Duas zonas Hundestrand",
+            "Margens com relva",
+            "Estacionamento",
+            "Café"
+          ],
           "tip": "Direct regional train (Höllentalbahn) from Freiburg Hbf to Schluchsee in 1h15. Stays cool (16 to 22 degrees) all summer, ideal for thick-coated dogs.",
           "tipFr": "Train régional direct (Höllentalbahn) de la Hbf à Schluchsee en 1h15. Reste frais (16 à 22 degrés) tout l'été, idéal pour les chiens à poil épais.",
           "tipEs": "Tren regional directo (Höllentalbahn) desde la Hbf hasta Schluchsee en 1h15. Se mantiene fresco (16 a 22 grados) todo el verano, ideal para perros de pelo grueso.",
@@ -494,10 +594,30 @@
           "descriptionFr": "Le lac carte postale le plus célèbre de la Forêt-Noire, à 30 minutes à l'est de Fribourg en train régional. Une petite Hundestrand bien signalée sur la rive est à Bärenhof offre baignade peu profonde avec décor de montagne.",
           "descriptionEs": "El lago postal más famoso de la Selva Negra, a 30 minutos al este de Friburgo en tren regional. Una pequeña Hundestrand bien señalizada en la orilla este en Bärenhof ofrece baño poco profundo con telón montañoso.",
           "descriptionPt": "O lago postal mais famoso da Floresta Negra, a 30 minutos a leste de Friburgo de comboio regional. Uma pequena Hundestrand bem sinalizada na margem leste em Bärenhof oferece banho pouco profundo com cenário de montanha.",
-          "amenities": ["Hundestrand zone", "Mountain views", "Parking", "Café"],
-          "amenitiesFr": ["Zone Hundestrand", "Vue montagne", "Parking", "Café"],
-          "amenitiesEs": ["Zona Hundestrand", "Vistas a la montaña", "Aparcamiento", "Café"],
-          "amenitiesPt": ["Zona Hundestrand", "Vistas para a montanha", "Estacionamento", "Café"],
+          "amenities": [
+            "Hundestrand zone",
+            "Mountain views",
+            "Parking",
+            "Café"
+          ],
+          "amenitiesFr": [
+            "Zone Hundestrand",
+            "Vue montagne",
+            "Parking",
+            "Café"
+          ],
+          "amenitiesEs": [
+            "Zona Hundestrand",
+            "Vistas a la montaña",
+            "Aparcamiento",
+            "Café"
+          ],
+          "amenitiesPt": [
+            "Zona Hundestrand",
+            "Vistas para a montanha",
+            "Estacionamento",
+            "Café"
+          ],
           "tip": "Titisee fills with tourists from June to August; arrive before 10:00 or after 17:00 for a calm dog swim.",
           "tipFr": "Le Titisee est saturé de touristes de juin à août ; venez avant 10h ou après 17h pour une baignade canine calme.",
           "tipEs": "El Titisee se llena de turistas de junio a agosto; llega antes de las 10:00 o después de las 17:00 para un baño canino tranquilo.",
@@ -579,10 +699,13 @@
         {
           "name": "Kleintierklinik Frank",
           "address": "Mooswaldallee 10i, 79108 Freiburg im Breisgau",
-          "photo": "",
+          "photo": "/images/city-places/freiburg-vets-kleintierklinik-frank.jpg",
           "phone": "+49 761 5036660",
           "emergency24h": true,
-          "languages": ["German", "English"],
+          "languages": [
+            "German",
+            "English"
+          ],
           "website": "https://kleintierklinik-frank.de/",
           "description": "Freiburg's round-the-clock small-animal hospital in the Mooswald district north of the centre, staffed 24 hours every day of the year. Surgery, internal medicine, imaging and intensive care. Owners should phone ahead for triage.",
           "descriptionFr": "L'hôpital pour petits animaux ouvert 24h/24 de Fribourg, dans le quartier de Mooswald au nord du centre, occupé 24 heures sur 24 tous les jours de l'année. Chirurgie, médecine interne, imagerie et soins intensifs. Appelez avant pour le triage.",
@@ -598,10 +721,13 @@
         {
           "name": "Kleintierzentrum Landwasser",
           "address": "Am Moosweiher 2, 79108 Freiburg im Breisgau",
-          "photo": "",
+          "photo": "/images/city-places/freiburg-vets-kleintierzentrum-landwasser.jpg",
           "phone": "+49 761 16808",
           "emergency24h": false,
-          "languages": ["German", "English"],
+          "languages": [
+            "German",
+            "English"
+          ],
           "website": "https://kleintierzentrum-landwasser.de/",
           "description": "Well-equipped small-animal clinic in the Landwasser district northwest of the centre, with daily emergency cover Mon to Fri until 22:00 and weekends and holidays until 20:00. Surgery, dentistry, imaging and routine care.",
           "descriptionFr": "Clinique pour petits animaux bien équipée dans le quartier de Landwasser au nord-ouest du centre, avec service d'urgence quotidien du lundi au vendredi jusqu'à 22h et les week-ends et jours fériés jusqu'à 20h. Chirurgie, dentisterie, imagerie et soins courants.",
@@ -617,10 +743,13 @@
         {
           "name": "Kleintierchirurgie Dr. Morich",
           "address": "Tulpenbaumallee 16b, 79189 Bad Krozingen",
-          "photo": "",
+          "photo": "/images/city-places/freiburg-vets-kleintierchirurgie-dr-morich.jpg",
           "phone": "+49 7633 9242788",
           "emergency24h": false,
-          "languages": ["German", "English"],
+          "languages": [
+            "German",
+            "English"
+          ],
           "website": "https://kleintierchirurgie.com/",
           "description": "Surgical small-animal referral clinic in Bad Krozingen, around 15 km south of Freiburg, with on-call cover Mon to Fri until 22:00 and weekends 10:00 to 20:00. A useful option for the southern Markgräflerland and orthopaedic cases.",
           "descriptionFr": "Clinique chirurgicale de référence pour petits animaux à Bad Krozingen, à environ 15 km au sud de Fribourg, avec garde du lundi au vendredi jusqu'à 22h et les week-ends de 10h à 20h. Une bonne option pour le sud du Markgräflerland et les cas orthopédiques.",
@@ -788,7 +917,7 @@
           "name": "Münsterplatz & cathedral exterior",
           "address": "Münsterplatz, 79098 Freiburg im Breisgau",
           "neighborhood": "Altstadt centre",
-          "photo": "/images/city-places/freiburg-attractions-munsterplatz.jpg",
+          "photo": "/images/city-places/freiburg-attractions-munsterplatz-cathedral-exterior.jpg",
           "website": "https://www.freiburgermuenster.info/",
           "description": "The Gothic Freiburg Münster cathedral (1200 to 1513), one of Germany's most complete Gothic churches, with a single 116 m spire. The square hosts a farmers' market Mon to Sat 07:30 to 13:30. Interior closed to dogs except assistance dogs.",
           "descriptionFr": "La cathédrale gothique du Münster de Fribourg (1200 à 1513), l'une des églises gothiques les plus complètes d'Allemagne, avec une flèche unique de 116 m. La place accueille un marché du lundi au samedi 7h30-13h30. Intérieur fermé aux chiens sauf chiens d'assistance.",
@@ -809,7 +938,7 @@
           "name": "Schwabentor & Augustinerplatz",
           "address": "Schwabentor, 79098 Freiburg im Breisgau",
           "neighborhood": "Altstadt east",
-          "photo": "/images/city-places/freiburg-attractions-schwabentor.jpg",
+          "photo": "/images/city-places/freiburg-attractions-schwabentor-augustinerplatz.jpg",
           "website": "",
           "description": "The 13th-century Schwabentor city gate, one of the two surviving Altstadt gates. Just behind it, the Augustinerplatz is the favourite hangout of locals and students on warm evenings, sitting on the steps with dogs and beers.",
           "descriptionFr": "La Schwabentor du XIIIe siècle, l'une des deux portes survivantes de l'Altstadt. Derrière, l'Augustinerplatz est le rendez-vous préféré des locaux et des étudiants les soirs chauds, assis sur les marches avec chiens et bières.",
@@ -830,7 +959,7 @@
           "name": "Schauinsland summit & cable car",
           "address": "Bohrerstraße 11, 79289 Horben",
           "neighborhood": "Schauinsland, 15 km south",
-          "photo": "/images/city-places/freiburg-attractions-schauinsland.jpg",
+          "photo": "/images/city-places/freiburg-attractions-schauinsland-summit-cable-car.jpg",
           "website": "https://www.schauinslandbahn.de/",
           "description": "The 1,284 m mountain south of Freiburg with marked off-leash hiking trails, panoramic views over the Rhine valley and the Vosges. Reached by Germany's longest continuous cable car (3.6 km) from Horben. Dog-friendly entire experience.",
           "descriptionFr": "La montagne à 1 284 m au sud de Fribourg avec sentiers de randonnée sans laisse balisés, vues panoramiques sur la vallée du Rhin et les Vosges. Accès par le téléphérique continu le plus long d'Allemagne (3,6 km) depuis Horben. Expérience entièrement dog-friendly.",
@@ -922,7 +1051,7 @@
         {
           "name": "Rover.de Freiburg sitters",
           "address": "City-wide, online platform",
-          "photo": "/images/city-places/freiburg-petsitting-rover.jpg",
+          "photo": "",
           "website": "https://www.rover.com/de/dog-sitting/freiburg-im-breisgau-de/",
           "description": "Largest dog-sitter and dog-walker marketplace in Germany. Daily rates in Freiburg around 22 to 38 EUR; overnight boarding 28 to 50 EUR. Insured through Rover.",
           "descriptionFr": "Plus grand marketplace de pet-sitters et promeneurs en Allemagne. Tarifs journaliers à Fribourg autour de 22 à 38 € ; garde de nuit 28 à 50 €. Assuré par Rover.",
@@ -941,7 +1070,7 @@
         {
           "name": "Pawshake Freiburg",
           "address": "City-wide, online platform",
-          "photo": "/images/city-places/freiburg-petsitting-pawshake.jpg",
+          "photo": "",
           "website": "https://www.pawshake.de/dog-boarding/freiburg-im-breisgau",
           "description": "European pet-sitting platform with a smaller but selective Freiburg roster. Day-care and overnight boarding, focus on home environment rather than kennels.",
           "descriptionFr": "Plateforme européenne de pet-sitting avec un réseau plus restreint mais sélectif à Fribourg. Daycare et garde de nuit, en milieu familial plutôt qu'en chenil.",

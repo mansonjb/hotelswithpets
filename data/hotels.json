@@ -10008,6 +10008,129 @@
     "petPolicyPt": "Animais permitidos por 20 EUR por estadia. Water bowls e um animal bem-vindos kit fornecido. All sizes bem-vindos."
   },
   {
+    "id": "freiburg-1",
+    "name": "Motel One Freiburg",
+    "destinationSlug": "freiburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 4184,
+    "priceFrom": 89,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/motel-one-freiburg.html",
+    "petFee": 15,
+    "petPolicy": "Motel One Freiburg is a pet-friendly property that welcomes both dogs and cats. One pet of any size is accepted for an additional fee of €15 per night. The hotel sits a short walk from the Stadtgarten park and the pedestrian Altstadt, so green space for walks is close by. Pets may not be left unattended in the rooms, and should be kept on a lead in the lobby and common areas. Please mention your pet when booking.",
+    "highlights": [
+      "Central location near the Altstadt",
+      "Free WiFi",
+      "24-hour bar and lounge"
+    ],
+    "slug": "motel-one-freiburg"
+  },
+  {
+    "id": "freiburg-2",
+    "name": "Hotel Victoria, BW Signature Collection",
+    "destinationSlug": "freiburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 2463,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/best-western-premier-victoria.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Victoria, BW Signature Collection is a four-star eco-hotel in central Freiburg that welcomes pets for a fee of €15 per pet, per night. Dogs are allowed in the rooms and may also join guests in the breakfast room and bar, where food and water bowls are provided. The hotel is a few minutes' walk from the railway station and the Stadtgarten green space for walks. Pets should be kept on a lead in common areas. Please declare your pet at the time of booking.",
+    "highlights": [
+      "Award-winning sustainable hotel",
+      "Rooftop terrace",
+      "Sauna and wellness area"
+    ],
+    "slug": "hotel-victoria-bw-signature-collection"
+  },
+  {
+    "id": "freiburg-3",
+    "name": "Novotel Freiburg am Konzerthaus",
+    "destinationSlug": "freiburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 1900,
+    "priceFrom": 89,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/freiburg-am-konzerthaus.html",
+    "petFee": 0,
+    "petPolicy": "Novotel Freiburg am Konzerthaus accepts dogs and cats in its guestrooms on request; pet charges may apply and are confirmed upon request, so declare your pet when booking. The hotel is next to the Konzerthaus and the Stadtgarten park, with the pedestrian old town a short walk away for easy dog walks. Size limitations may apply. Pets must be kept on a lead in public areas and should not be left alone in the room.",
+    "highlights": [
+      "Beside the Konzerthaus",
+      "Indoor pool and fitness centre",
+      "On-site restaurant"
+    ],
+    "slug": "novotel-freiburg-am-konzerthaus"
+  },
+  {
+    "id": "freiburg-4",
+    "name": "Green City Hotel Vauban",
+    "destinationSlug": "freiburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 680,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/green-city-vauban.html",
+    "petFee": 5,
+    "petPolicy": "Green City Hotel Vauban is a sustainable design hotel in Freiburg's green Vauban district that welcomes both dogs and cats for a small fee of €5 per pet, per night. The eco-friendly, wood-built property sits beside a tram stop with quick links to the centre and is surrounded by the leafy car-light streets and green spaces of Vauban, ideal for walks. Pets of any size are accepted on request. Please keep pets on a lead in shared areas and mention your pet when booking.",
+    "highlights": [
+      "Sustainable eco-architecture",
+      "Organic breakfast",
+      "Tram stop outside the door"
+    ],
+    "slug": "green-city-hotel-vauban"
+  },
+  {
+    "id": "freiburg-5",
+    "name": "Designhotel am Stadtgarten",
+    "destinationSlug": "freiburg",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 2325,
+    "priceFrom": 99,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/am-stadtgarten-designhotel.html",
+    "petFee": 10,
+    "petPolicy": "Designhotel am Stadtgarten is a four-star design hotel beside Freiburg's Stadtgarten park that welcomes dogs for an additional fee of €10 per pet, per night; cats are not accepted at this property. The location directly on the city garden gives easy access to green space, and the pedestrian Altstadt is a few minutes' walk away. Dogs should be kept on a lead in common areas and not left unattended in the room. Please declare your dog at the time of booking.",
+    "highlights": [
+      "Directly on the Stadtgarten park",
+      "Contemporary design rooms",
+      "Walking distance to the old town"
+    ],
+    "slug": "designhotel-am-stadtgarten"
+  },
+  {
     "id": "frejus-1",
     "name": "Hôtel l'Aréna",
     "destinationSlug": "frejus",

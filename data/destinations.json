@@ -13667,6 +13667,81 @@
     "iata": "SCQ"
   },
   {
+    "slug": "santorini",
+    "name": "Santorini",
+    "country": "Greece",
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/santorini.jpg",
+    "intro": "Santorini (Thira, ~15k year-round residents, 76 km² Cycladic volcanic island) is a crescent-shaped caldera with the whitewashed cliff-top villages of Fira (capital), Firostefani, Imerovigli and Oia draped along the 300 m caldera rim. The 10 km clifftop caldera path from Fira to Oia is the signature dog walk (dawn or after 17:00, paws burn at midday), the hilltop villages of Pyrgos and Megalochori offer calmer Cycladic atmosphere away from the summer crush, and the Akrotiri Bronze Age Minoan site under its bioclimatic roof is the headline archaeology. Beaches are volcanic: Red Beach (Akrotiri), 7 km Black Beach Perissa/Perivolos, Vlychada under lunar bluffs, the boat-access White Beach. JTR airport sits 6 km southeast of Fira (year-round Aegean/SKY Express to Athens, summer EU charters), Athinios port runs Blue Star and Sea Jets ferries from Piraeus (5-8h) plus inter-island catamarans. Not a budget pet destination: hotels charge 20-40 EUR/night pet supplement, July-August sees 50k+ daily tourists and asphalt hits 50-60 °C. Apr-May and October are the dog-friendly windows.",
+    "lat": 36.4167,
+    "lng": 25.4333,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild, breezy",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild, some rain",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Warm spring, ideal",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm, dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot, meltemi winds",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot, peak crowds",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild, ideal",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild, first rains",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild, rainy spells",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "JTR"
+  },
+  {
     "slug": "sete",
     "name": "Sète",
     "country": "France",

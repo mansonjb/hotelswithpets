@@ -1,0 +1,1228 @@
+{
+  "slug": "santorini",
+  "name": "Santorini",
+  "country": "Greece",
+  "flag": "🇬🇷",
+  "lastUpdated": "2026-06-13",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Santorini, Fira Caldera Terraces & Pyrgos Tavernas",
+      "titleFr": "Restaurants dog-friendly à Santorin, terrasses caldera de Fira et tavernes de Pyrgos",
+      "titleEs": "Restaurantes pet-friendly en Santorini, terrazas caldera de Fira y tabernas de Pyrgos",
+      "titlePt": "Restaurantes pet-friendly em Santorini, esplanadas caldera de Fira e tabernas de Pyrgos",
+      "introEn": "Santorini's dining scene splits between the caldera-edge cocktail terraces of Fira and Oia (busy, polished, often not dog-welcoming in Jul–Aug peak) and the inland village tavernas of Pyrgos, Megalochori and Exo Gonia (calmer, family-run, leashed dogs welcome on outdoor courtyards). Santorinian cuisine is volcanic-island specific: tomatokeftedes, white aubergine, fava (yellow split pea purée), brusko cherry tomato, paired with Assyrtiko PDO whites and sweet Vinsanto.",
+      "introFr": "La scène gastronomique de Santorin se partage entre les terrasses cocktail en bord de caldera de Fira et Oia (animées, léchées, souvent peu dog-friendly au pic juillet-août) et les tavernes villageoises de l'intérieur à Pyrgos, Megalochori et Exo Gonia (plus calmes, familiales, chiens en laisse admis dans les cours extérieures). La cuisine santorinienne est spécifique à l'île volcanique : tomatokeftedes, aubergine blanche, fava (purée de pois cassés jaunes), brusko (tomate cerise), accompagnés d'Assyrtiko PDO blanc et de Vinsanto doux.",
+      "introEs": "La escena gastronómica de Santorini se divide entre las terrazas cóctel al borde de la caldera de Fira y Oía (animadas, pulidas, a menudo poco pet-friendly en el pico julio-agosto) y las tabernas de pueblo del interior en Pyrgos, Megalochori y Exo Gonia (más tranquilas, familiares, perros con correa admitidos en los patios exteriores). La cocina santoriniana es específica de la isla volcánica: tomatokeftedes, berenjena blanca, fava (puré de guisantes amarillos), brusko (tomate cherry), acompañados de Assyrtiko PDO blanco y Vinsanto dulce.",
+      "introPt": "A cena gastronómica de Santorini divide-se entre as esplanadas cocktail à beira da caldera de Fira e Oía (animadas, polidas, frequentemente pouco pet-friendly no pico julho-agosto) e as tabernas de aldeia do interior em Pyrgos, Megalochori e Exo Gonia (mais calmas, familiares, cães com trela admitidos nos pátios exteriores). A cozinha santoriniana é específica da ilha vulcânica: tomatokeftedes, beringela branca, fava (puré de ervilhas amarelas), brusko (tomate cereja), acompanhados de Assyrtiko PDO branco e Vinsanto doce.",
+      "places": [
+        {
+          "name": "Metaxi Mas",
+          "address": "Exo Gonia, 84700 Santorini",
+          "neighborhood": "Exo Gonia village",
+          "photo": "/images/city-places/santorini-restaurants-metaxi-mas.jpg",
+          "website": "https://www.santorini-metaximas.gr/",
+          "description": "The most beloved village taverna on Santorini, on the side of Exo Gonia hill behind the Agios Charalambos church, with a stone terrace overlooking Kamari and the Aegean. Cretan-Santorinian crossover menu, exceptional fava and slow-braised meats, fair prices for the island, run by chef Spiros Pamboukas since 2003.",
+          "descriptionFr": "La taverne villageoise la plus aimée de Santorin, sur le flanc de la colline d'Exo Gonia derrière l'église d'Agios Charalambos, avec une terrasse en pierre dominant Kamari et l'Égée. Carte croisée crétoise-santorinienne, fava exceptionnelle et viandes braisées lentement, prix corrects pour l'île, tenue par le chef Spiros Pamboukas depuis 2003.",
+          "descriptionEs": "La taberna de pueblo más querida de Santorini, en la ladera de la colina de Exo Gonia detrás de la iglesia de Agios Charalambos, con terraza de piedra que domina Kamari y el Egeo. Carta cruzada cretense-santoriniana, fava excepcional y carnes braseadas lentamente, precios justos para la isla, dirigida por el chef Spiros Pamboukas desde 2003.",
+          "descriptionPt": "A taberna de aldeia mais amada de Santorini, na encosta da colina de Exo Gonia atrás da igreja de Agios Charalambos, com esplanada de pedra a dominar Kamari e o Egeu. Carta cruzada cretense-santoriniana, fava excepcional e carnes braseadas lentamente, preços justos para a ilha, gerida pelo chef Spiros Pamboukas desde 2003.",
+          "petPolicy": "Leashed dogs welcome on the outdoor stone terrace",
+          "petPolicyFr": "Chiens en laisse admis sur la terrasse de pierre extérieure",
+          "petPolicyEs": "Perros con correa admitidos en la terraza de piedra exterior",
+          "petPolicyPt": "Cães com trela admitidos na esplanada de pedra exterior",
+          "priceRange": "€€€",
+          "mustTry": "Fava with caramelised onions and capers, slow-cooked lamb in lemon-egg sauce, white aubergine salad, Assyrtiko Sigalas wine",
+          "mustTryFr": "Fava aux oignons caramélisés et câpres, agneau mijoté à la sauce œuf-citron, salade d'aubergine blanche, vin Assyrtiko Sigalas",
+          "mustTryEs": "Fava con cebolla caramelizada y alcaparras, cordero cocinado lento en salsa huevo-limón, ensalada de berenjena blanca, vino Assyrtiko Sigalas",
+          "mustTryPt": "Fava com cebola caramelizada e alcaparras, borrego cozinhado lento em molho ovo-limão, salada de beringela branca, vinho Assyrtiko Sigalas",
+          "openingHours": "Daily 13:00–23:00; closed Nov–Mar",
+          "tip": "Reservation essential (book 1 week ahead in summer). Mention your dog so they assign the lower terrace away from the main service path. Sunset slot fills first.",
+          "tipFr": "Réservation indispensable (1 semaine à l'avance en été). Précisez le chien pour qu'on vous place à la terrasse basse, hors du flux de service. Le créneau coucher de soleil part en premier.",
+          "tipEs": "Reserva imprescindible (1 semana en verano). Indica el perro para que te coloquen en la terraza baja, fuera del flujo de servicio. La franja del atardecer se llena primero.",
+          "tipPt": "Reserva indispensável (1 semana de antecedência no verão). Indica o cão para te colocarem na esplanada baixa, fora do fluxo de serviço. A faixa do pôr do sol esgota primeiro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Metaxi+Mas+Exo+Gonia+Santorini"
+        },
+        {
+          "name": "Selene",
+          "address": "Pyrgos Kallistis, 84700 Santorini",
+          "neighborhood": "Pyrgos hilltop village",
+          "photo": "/images/city-places/santorini-restaurants-selene.jpg",
+          "website": "https://www.selene.gr/",
+          "description": "The island's flagship fine-dining house since 1986, relocated to a restored mansion in Pyrgos hilltop village. Modern Cycladic tasting menus by chef Ettore Botrini using island producers, candlelit courtyard, panoramic Pyrgos rooftop view. The most refined dog-friendly outdoor table on Santorini.",
+          "descriptionFr": "La table gastronomique phare de l'île depuis 1986, transférée dans une demeure restaurée du village perché de Pyrgos. Menus dégustation cycladiques modernes du chef Ettore Botrini avec producteurs insulaires, cour aux chandelles, vue panoramique sur les toits de Pyrgos. La table dog-friendly extérieure la plus raffinée de Santorin.",
+          "descriptionEs": "La mesa gastronómica estrella de la isla desde 1986, trasladada a una mansión restaurada en el pueblo encaramado de Pyrgos. Menús degustación cicládicos modernos del chef Ettore Botrini con productores isleños, patio a la luz de velas, vista panorámica sobre los tejados de Pyrgos. La mesa pet-friendly exterior más refinada de Santorini.",
+          "descriptionPt": "A mesa gastronómica de referência da ilha desde 1986, transferida para uma mansão restaurada na aldeia empoleirada de Pyrgos. Menus de degustação cicládicos modernos do chef Ettore Botrini com produtores insulares, pátio à luz de velas, vista panorâmica sobre os telhados de Pyrgos. A mesa pet-friendly exterior mais refinada de Santorini.",
+          "petPolicy": "Calm leashed dogs welcome on the courtyard terrace, reservation recommended",
+          "petPolicyFr": "Chiens calmes en laisse admis sur la terrasse de la cour, réservation recommandée",
+          "petPolicyEs": "Perros tranquilos con correa admitidos en la terraza del patio, reserva recomendada",
+          "petPolicyPt": "Cães tranquilos com trela admitidos na esplanada do pátio, reserva recomendada",
+          "priceRange": "€€€€",
+          "mustTry": "Santorini fava with sea urchin, Vinsanto-glazed pork cheeks, brusko tomato gazpacho",
+          "mustTryFr": "Fava de Santorin à l'oursin, joues de porc glacées au Vinsanto, gaspacho de tomate brusko",
+          "mustTryEs": "Fava de Santorini con erizo de mar, carrilleras de cerdo glaseadas al Vinsanto, gazpacho de tomate brusko",
+          "mustTryPt": "Fava de Santorini com ouriço-do-mar, bochechas de porco glaceadas em Vinsanto, gaspacho de tomate brusko",
+          "openingHours": "Daily 19:00–23:00; closed Nov–Apr",
+          "tip": "Tasting menu only in high season. The covered courtyard tables are the dog spots, the rooftop view tables are reserved for non-dog parties. Pair with a Pyrgos castle walk before service.",
+          "tipFr": "Menu dégustation uniquement en haute saison. Les tables de la cour couverte sont les spots chien, les tables rooftop vue panoramique sont réservées aux tables sans chien. À combiner avec une balade au château de Pyrgos avant le service.",
+          "tipEs": "Solo menú degustación en alta temporada. Las mesas del patio cubierto son los puntos pet-friendly, las mesas de la azotea con vista están reservadas a mesas sin perro. Combina con un paseo al castillo de Pyrgos antes del servicio.",
+          "tipPt": "Só menu de degustação em alta época. As mesas do pátio coberto são os pontos pet-friendly, as mesas do terraço com vista estão reservadas a mesas sem cão. Combina com um passeio ao castelo de Pyrgos antes do serviço.",
+          "googleMapsUrl": "https://maps.google.com/?q=Selene+Pyrgos+Santorini"
+        },
+        {
+          "name": "To Psaraki",
+          "address": "Vlychada Marina, 84700 Santorini",
+          "neighborhood": "Vlychada south coast",
+          "photo": "/images/city-places/santorini-restaurants-to-psaraki.jpg",
+          "website": "https://topsaraki.gr/",
+          "description": "Fishermen's port fish taverna on the Vlychada marina pier, southern Santorini, away from the caldera tourist crush. Daily catch from the small fleet moored 20 m away, simple grills, white tablecloths on the open wooden deck above the water. Salty, breezy, dog-welcoming.",
+          "descriptionFr": "Taverne de poisson dans le port de pêcheurs sur la jetée de la marina de Vlychada, dans le sud de Santorin, loin de la foule touristique de la caldera. Pêche du jour de la petite flotte amarrée à 20 m, grillades simples, nappes blanches sur le ponton de bois ouvert au-dessus de l'eau. Salé, venté, dog-friendly.",
+          "descriptionEs": "Taberna de pescado del puerto pesquero en el muelle de la marina de Vlychada, sur de Santorini, lejos del bullicio turístico de la caldera. Captura diaria de la pequeña flota amarrada a 20 m, parrillas sencillas, manteles blancos en la cubierta de madera abierta sobre el agua. Salado, ventoso, pet-friendly.",
+          "descriptionPt": "Taberna de peixe do porto piscatório no molhe da marina de Vlychada, sul de Santorini, longe do bulício turístico da caldera. Pesca do dia da pequena frota ancorada a 20 m, grelhados simples, toalhas brancas no pavimento de madeira aberto sobre a água. Salgado, ventoso, pet-friendly.",
+          "petPolicy": "Dogs welcome on the wooden marina deck",
+          "petPolicyFr": "Chiens admis sur le ponton bois de la marina",
+          "petPolicyEs": "Perros admitidos en la cubierta de madera de la marina",
+          "petPolicyPt": "Cães admitidos no pavimento de madeira da marina",
+          "priceRange": "€€€",
+          "mustTry": "Grilled catch of the day by weight, marinated anchovies, sea urchin pasta, ouzo Plomariou",
+          "mustTryFr": "Poisson du jour grillé au poids, anchois marinés, pâtes à l'oursin, ouzo Plomariou",
+          "mustTryEs": "Pescado del día a la parrilla al peso, anchoas marinadas, pasta de erizo de mar, ouzo Plomariou",
+          "mustTryPt": "Peixe do dia grelhado ao peso, anchovas marinadas, massa de ouriço-do-mar, ouzo Plomariou",
+          "openingHours": "Daily 12:00–23:00; closed Nov–Mar",
+          "tip": "Vlychada is 15 min by car or KTEL bus south of Fira. Pair with a sunset walk on the lunar Vlychada beach right next door, the strangest landscape on the island. Cash preferred.",
+          "tipFr": "Vlychada est à 15 min en voiture ou bus KTEL au sud de Fira. À combiner avec une promenade au coucher du soleil sur la plage lunaire de Vlychada juste à côté, le paysage le plus étrange de l'île. Espèces préférées.",
+          "tipEs": "Vlychada está a 15 min en coche o bus KTEL al sur de Fira. Combina con un paseo al atardecer por la playa lunar de Vlychada justo al lado, el paisaje más extraño de la isla. Efectivo preferido.",
+          "tipPt": "Vlychada está a 15 min de carro ou autocarro KTEL a sul de Fira. Combina com um passeio ao pôr do sol pela praia lunar de Vlychada mesmo ao lado, a paisagem mais estranha da ilha. Dinheiro preferido.",
+          "googleMapsUrl": "https://maps.google.com/?q=To+Psaraki+Vlychada+Santorini"
+        }
+      ],
+      "tipsEn": [
+        "Fira and Oia caldera-edge restaurants are crowded and often refuse dogs Jul–Aug; head inland to Pyrgos, Megalochori, Exo Gonia and the south coast for the dog-welcoming tables.",
+        "Santorini signature dishes are tomatokeftedes (cherry tomato fritters), fava (yellow split pea purée), white aubergine salad, brusko salad, and Vinsanto + Assyrtiko PDO wines.",
+        "Most tasting wineries (Santo Wines, Venetsanos, Estate Argyros) do not allow dogs inside the tasting rooms; book a tour with outdoor terrace seating instead."
+      ],
+      "tipsFr": [
+        "Les restaurants en bord de caldera à Fira et Oia sont bondés et refusent souvent les chiens en juillet-août ; partez à l'intérieur vers Pyrgos, Megalochori, Exo Gonia et la côte sud pour les tables dog-friendly.",
+        "Les plats signature de Santorin sont les tomatokeftedes (beignets de tomate cerise), la fava (purée de pois cassés jaunes), la salade d'aubergine blanche, la salade brusko, et les vins Vinsanto et Assyrtiko PDO.",
+        "La plupart des caves de dégustation (Santo Wines, Venetsanos, Estate Argyros) n'admettent pas les chiens en salle ; réservez une visite avec dégustation en terrasse extérieure."
+      ],
+      "tipsEs": [
+        "Los restaurantes al borde de la caldera en Fira y Oía están abarrotados y a menudo rechazan perros en julio-agosto; ve al interior a Pyrgos, Megalochori, Exo Gonia y la costa sur para las mesas pet-friendly.",
+        "Los platos distintivos de Santorini son los tomatokeftedes (buñuelos de tomate cherry), la fava (puré de guisantes amarillos), la ensalada de berenjena blanca, la ensalada brusko, y los vinos Vinsanto y Assyrtiko PDO.",
+        "La mayoría de bodegas de cata (Santo Wines, Venetsanos, Estate Argyros) no admiten perros en sala; reserva una visita con cata en terraza exterior."
+      ],
+      "tipsPt": [
+        "Os restaurantes à beira da caldera em Fira e Oía estão lotados e frequentemente recusam cães em julho-agosto; vai para o interior em Pyrgos, Megalochori, Exo Gonia e costa sul para as mesas pet-friendly.",
+        "Os pratos distintivos de Santorini são os tomatokeftedes (bolinhos de tomate cereja), a fava (puré de ervilhas amarelas), a salada de beringela branca, a salada brusko, e os vinhos Vinsanto e Assyrtiko PDO.",
+        "A maioria das adegas de prova (Santo Wines, Venetsanos, Estate Argyros) não admite cães na sala; reserva uma visita com prova em esplanada exterior."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to a caldera-view restaurant in Fira or Oia?",
+          "a": "Mostly no in high season (Jul–Aug). The narrow cliff terraces fill with 50k+ daily visitors and many restaurants tightly refuse dogs to keep service flowing. Shoulder season (Apr–Jun, Sep–Oct) is easier on quieter terraces. The inland villages (Pyrgos, Megalochori, Exo Gonia) are the reliable dog-friendly choice year-round."
+        },
+        {
+          "q": "What is fava and where is the best on Santorini?",
+          "a": "Fava is the island's signature dish: yellow split peas (Lathyrus clymenum, a Santorini PDO crop) slow-cooked into a smooth purée, drizzled with olive oil, capers and raw onion. Metaxi Mas, Selene and Roka serve textbook versions; almost every taverna on the island has it on the menu."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans un restaurant vue caldera à Fira ou Oia ?",
+          "a": "Surtout non en haute saison (juillet-août). Les étroites terrasses en bord de falaise se remplissent avec 50 000+ visiteurs par jour et beaucoup de restaurants refusent strictement les chiens pour fluidifier le service. La basse saison (avril-juin, septembre-octobre) est plus simple sur des terrasses moins denses. Les villages de l'intérieur (Pyrgos, Megalochori, Exo Gonia) sont le choix dog-friendly fiable toute l'année."
+        },
+        {
+          "q": "Qu'est-ce que la fava et où la déguster à Santorin ?",
+          "a": "La fava est le plat signature de l'île : des pois cassés jaunes (Lathyrus clymenum, culture PDO de Santorin) mijotés en purée onctueuse, arrosés d'huile d'olive, câpres et oignon cru. Metaxi Mas, Selene et Roka en servent des versions de référence ; presque toutes les tavernes de l'île l'ont à la carte."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a un restaurante con vista caldera en Fira u Oía?",
+          "a": "Mayormente no en alta temporada (julio-agosto). Las estrechas terrazas al borde del acantilado se llenan con 50 000+ visitantes diarios y muchos restaurantes rechazan estrictamente perros para fluidificar el servicio. La temporada media (abril-junio, septiembre-octubre) es más fácil en terrazas menos densas. Los pueblos del interior (Pyrgos, Megalochori, Exo Gonia) son la elección pet-friendly fiable todo el año."
+        },
+        {
+          "q": "¿Qué es la fava y dónde es la mejor en Santorini?",
+          "a": "La fava es el plato distintivo de la isla: guisantes amarillos (Lathyrus clymenum, cultivo PDO de Santorini) cocinados lentamente en puré untuoso, rociados de aceite de oliva, alcaparras y cebolla cruda. Metaxi Mas, Selene y Roka sirven versiones de referencia; casi todas las tabernas de la isla la tienen en la carta."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão a um restaurante com vista caldera em Fira ou Oía?",
+          "a": "Maioritariamente não em alta época (julho-agosto). As estreitas esplanadas à beira da falésia enchem com 50 000+ visitantes diários e muitos restaurantes recusam estritamente cães para fluidificar o serviço. A época média (abril-junho, setembro-outubro) é mais fácil em esplanadas menos densas. As aldeias do interior (Pyrgos, Megalochori, Exo Gonia) são a escolha pet-friendly fiável o ano inteiro."
+        },
+        {
+          "q": "O que é a fava e onde é a melhor em Santorini?",
+          "a": "A fava é o prato distintivo da ilha: ervilhas amarelas (Lathyrus clymenum, cultura PDO de Santorini) cozinhadas lentamente em puré aveludado, regadas com azeite, alcaparras e cebola crua. Metaxi Mas, Selene e Roka servem versões de referência; quase todas as tabernas da ilha a têm na carta."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog Walks on Santorini, Caldera Path, Pyrgos Castle Hill & Vlychada Bluffs",
+      "titleFr": "Meilleures promenades pour chiens à Santorin, sentier de la caldera, colline du château de Pyrgos et falaises de Vlychada",
+      "titleEs": "Mejores paseos para perros en Santorini, sendero de la caldera, colina del castillo de Pyrgos y acantilados de Vlychada",
+      "titlePt": "Melhores passeios para cães em Santorini, trilho da caldera, colina do castelo de Pyrgos e falésias de Vlychada",
+      "introEn": "Santorini has no urban parks, the volcanic terrain leaves almost no green space inside Fira or Oia. The real dog walks are the clifftop caldera footpath from Fira via Imerovigli to Oia (10 km, the island's signature hike), the Pyrgos castle hilltop loop with 360 degree views, and the wild Vlychada bluffs above the lunar beach on the south coast. All are open access, leash recommended.",
+      "introFr": "Santorin n'a pas de parcs urbains, le terrain volcanique laisse presque aucun espace vert dans Fira ou Oia. Les vraies promenades canines sont le sentier de la caldera en sommet de falaise de Fira via Imerovigli à Oia (10 km, la randonnée signature de l'île), la boucle au sommet de la colline du château de Pyrgos avec vues à 360 degrés, et les falaises sauvages de Vlychada au-dessus de la plage lunaire sur la côte sud. Tous en accès libre, laisse recommandée.",
+      "introEs": "Santorini no tiene parques urbanos, el terreno volcánico no deja casi espacio verde dentro de Fira u Oía. Los verdaderos paseos caninos son el sendero de la caldera en lo alto del acantilado de Fira vía Imerovigli a Oía (10 km, la caminata estrella de la isla), el bucle en lo alto de la colina del castillo de Pyrgos con vistas de 360 grados, y los acantilados salvajes de Vlychada sobre la playa lunar de la costa sur. Todos de acceso libre, correa recomendada.",
+      "introPt": "Santorini não tem parques urbanos, o terreno vulcânico quase não deixa espaço verde dentro de Fira ou Oía. Os verdadeiros passeios caninos são o trilho da caldera no topo da falésia de Fira via Imerovigli a Oía (10 km, a caminhada de referência da ilha), o circuito no topo da colina do castelo de Pyrgos com vistas de 360 graus, e as falésias selvagens de Vlychada sobre a praia lunar da costa sul. Todos de acesso livre, trela recomendada.",
+      "places": [
+        {
+          "name": "Caldera Path Fira–Imerovigli–Oia",
+          "address": "Fira to Oia clifftop, 84700 Santorini",
+          "neighborhood": "Caldera rim",
+          "photo": "/images/city-places/santorini-parks-caldera-path.jpg",
+          "size": "10 km linear, 200–300 m elevation",
+          "leashRule": "Leash recommended, exposed cliff edges",
+          "leashRuleFr": "Laisse recommandée, bords de falaise exposés",
+          "leashRuleEs": "Correa recomendada, bordes de acantilado expuestos",
+          "leashRulePt": "Trela recomendada, bordas de falésia expostas",
+          "description": "The signature Santorini hike: 10 km clifftop footpath following the caldera rim from Fira through Firostefani and Imerovigli to Skaros Rock, then up to Oia. White-blue village mazes, donkey-track cobbles, sea on the left at 300 m below. Best 3–5 h with a fit dog in cool hours.",
+          "descriptionFr": "La randonnée signature de Santorin : sentier en sommet de falaise de 10 km suivant le bord de la caldera de Fira via Firostefani et Imerovigli jusqu'au rocher de Skaros, puis monte à Oia. Dédales de villages blanc-bleu, pavés de chemin muletier, mer à gauche 300 m en contrebas. 3 à 5 h avec un chien en forme aux heures fraîches.",
+          "descriptionEs": "La caminata estrella de Santorini: sendero en lo alto del acantilado de 10 km que sigue el borde de la caldera desde Fira por Firostefani e Imerovigli hasta la Roca de Skaros, luego sube a Oía. Laberintos de pueblos blanco-azul, adoquines de camino de mulas, mar a la izquierda 300 m abajo. 3–5 h con perro en forma en horas frescas.",
+          "descriptionPt": "A caminhada de referência de Santorini: trilho no topo da falésia de 10 km a seguir a borda da caldera de Fira por Firostefani e Imerovigli até à Rocha de Skaros, depois sobe a Oía. Labirintos de aldeias branco-azul, paralelepípedos de caminho de muares, mar à esquerda 300 m abaixo. 3–5 h com cão em forma em horas frescas.",
+          "amenities": [
+            "Cobbled and dirt path",
+            "Caldera panoramas",
+            "Village cafés en route",
+            "Public toilets at Imerovigli",
+            "KTEL bus return from Oia"
+          ],
+          "amenitiesFr": [
+            "Sentier pavé et terre",
+            "Panoramas caldera",
+            "Cafés villageois en chemin",
+            "Toilettes publiques à Imerovigli",
+            "Retour bus KTEL depuis Oia"
+          ],
+          "amenitiesEs": [
+            "Sendero empedrado y de tierra",
+            "Panoramas caldera",
+            "Cafés de pueblo en el camino",
+            "Aseos públicos en Imerovigli",
+            "Vuelta en bus KTEL desde Oía"
+          ],
+          "amenitiesPt": [
+            "Trilho empedrado e de terra",
+            "Panoramas caldera",
+            "Cafés de aldeia no caminho",
+            "Sanitários públicos em Imerovigli",
+            "Regresso em autocarro KTEL de Oía"
+          ],
+          "tip": "Walk at dawn (06:00–10:00) or after 17:00 in summer, the white cobbles reflect heat brutally at midday. Carry 2 L water per dog, no fountains en route. Return by KTEL bus from Oia to Fira (1.80 EUR, 25 min, dogs in carrier free).",
+          "tipFr": "Marchez à l'aube (6h-10h) ou après 17h en été, les pavés blancs renvoient brutalement la chaleur à midi. Emportez 2 L d'eau par chien, pas de fontaines en chemin. Retour en bus KTEL depuis Oia vers Fira (1,80 €, 25 min, chiens en sac gratuits).",
+          "tipEs": "Camina al amanecer (06:00-10:00) o después de las 17:00 en verano, los adoquines blancos reflejan brutalmente el calor al mediodía. Lleva 2 L de agua por perro, sin fuentes en el camino. Vuelta en bus KTEL desde Oía a Fira (1,80 €, 25 min, perros en transportín gratis).",
+          "tipPt": "Caminha ao amanhecer (06:00-10:00) ou depois das 17:00 no verão, os paralelepípedos brancos refletem brutalmente o calor ao meio-dia. Leva 2 L de água por cão, sem fontes no caminho. Regresso em autocarro KTEL de Oía a Fira (1,80 €, 25 min, cães em transportadora grátis).",
+          "googleMapsUrl": "https://maps.google.com/?q=Caldera+path+Fira+Oia+Santorini"
+        },
+        {
+          "name": "Pyrgos Castle Hilltop",
+          "address": "Pyrgos Kallistis, 84700 Santorini",
+          "neighborhood": "Pyrgos village",
+          "photo": "/images/city-places/santorini-parks-pyrgos.jpg",
+          "size": "1.5 km loop, 50 m elevation",
+          "leashRule": "Leash recommended",
+          "leashRuleFr": "Laisse recommandée",
+          "leashRuleEs": "Correa recomendada",
+          "leashRulePt": "Trela recomendada",
+          "description": "The highest village on Santorini at 304 m, capped by the ruined Kasteli (Venetian castle) with 360 degree views from caldera to Aegean. Whitewashed lanes wind up through traditional houses and the church of Theotokaki. The most authentic Santorinian village walk, far calmer than Fira or Oia.",
+          "descriptionFr": "Le village le plus élevé de Santorin à 304 m, couronné par les ruines du Kasteli (château vénitien) avec vues à 360 degrés de la caldera à l'Égée. Ruelles blanchies serpentant à travers les maisons traditionnelles et l'église de Theotokaki. La promenade villageoise la plus authentique de Santorin, bien plus calme que Fira ou Oia.",
+          "descriptionEs": "El pueblo más elevado de Santorini a 304 m, coronado por las ruinas del Kasteli (castillo veneciano) con vistas de 360 grados de la caldera al Egeo. Callejuelas encaladas serpenteando por las casas tradicionales y la iglesia de Theotokaki. El paseo de pueblo más auténtico de Santorini, mucho más tranquilo que Fira u Oía.",
+          "descriptionPt": "A aldeia mais elevada de Santorini a 304 m, coroada pelas ruínas do Kasteli (castelo veneziano) com vistas de 360 graus da caldera ao Egeu. Viélas caiadas serpenteando por casas tradicionais e a igreja de Theotokaki. O passeio de aldeia mais autêntico de Santorini, muito mais calmo que Fira ou Oía.",
+          "amenities": [
+            "Stone-paved alleys",
+            "360 degree panorama",
+            "Village cafés",
+            "Free parking at base",
+            "Less crowded than Oia"
+          ],
+          "amenitiesFr": [
+            "Ruelles pavées",
+            "Panorama 360 degrés",
+            "Cafés villageois",
+            "Parking gratuit à la base",
+            "Moins fréquenté qu'Oia"
+          ],
+          "amenitiesEs": [
+            "Callejuelas empedradas",
+            "Panorama 360 grados",
+            "Cafés de pueblo",
+            "Aparcamiento gratuito en la base",
+            "Menos concurrido que Oía"
+          ],
+          "amenitiesPt": [
+            "Viélas empedradas",
+            "Panorama 360 graus",
+            "Cafés de aldeia",
+            "Estacionamento gratuito na base",
+            "Menos concorrido que Oía"
+          ],
+          "tip": "KTEL bus from Fira to Pyrgos (1.80 EUR, 20 min, dogs in carrier free). Best at sunset, the highest sunset point on the island after Oia and without the crowd. Combine with dinner at Selene or Cava Alta.",
+          "tipFr": "Bus KTEL de Fira à Pyrgos (1,80 €, 20 min, chiens en sac gratuits). Magnifique au coucher du soleil, le point de coucher de soleil le plus haut de l'île après Oia et sans la foule. À combiner avec un dîner chez Selene ou Cava Alta.",
+          "tipEs": "Bus KTEL de Fira a Pyrgos (1,80 €, 20 min, perros en transportín gratis). Mejor al atardecer, el punto de atardecer más alto de la isla después de Oía y sin la multitud. Combina con cena en Selene o Cava Alta.",
+          "tipPt": "Autocarro KTEL de Fira a Pyrgos (1,80 €, 20 min, cães em transportadora grátis). Melhor ao pôr do sol, o ponto de pôr do sol mais alto da ilha depois de Oía e sem a multidão. Combina com jantar em Selene ou Cava Alta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Pyrgos+Kasteli+Santorini"
+        },
+        {
+          "name": "Vlychada Bluffs",
+          "address": "Vlychada, 84700 Santorini",
+          "neighborhood": "South coast",
+          "photo": "/images/city-places/santorini-parks-vlychada.jpg",
+          "size": "2 km linear bluff walk",
+          "leashRule": "Leash recommended on the bluff edge",
+          "leashRuleFr": "Laisse recommandée au bord de la falaise",
+          "leashRuleEs": "Correa recomendada al borde del acantilado",
+          "leashRulePt": "Trela recomendada na borda da falésia",
+          "description": "Wind-eroded volcanic ash bluffs on the south coast above Vlychada beach, sculpted into surreal curves and grooves the locals call 'the Moonscape'. Open dirt trail along the bluff top from the marina to Cape Exomytis, 2 km return, Aegean panorama. The wildest dog walk on the island.",
+          "descriptionFr": "Falaises de cendres volcaniques érodées par le vent sur la côte sud au-dessus de la plage de Vlychada, sculptées en courbes et rainures surréelles que les locaux appellent « le Paysage Lunaire ». Sentier de terre ouvert le long du sommet de la falaise de la marina au cap Exomytis, 2 km aller-retour, panorama Égée. La promenade canine la plus sauvage de l'île.",
+          "descriptionEs": "Acantilados de cenizas volcánicas erosionados por el viento en la costa sur sobre la playa de Vlychada, esculpidos en curvas y surcos surrealistas que los locales llaman «el Paisaje Lunar». Sendero de tierra abierto a lo largo de lo alto del acantilado desde la marina al cabo Exomytis, 2 km ida y vuelta, panorama Egeo. El paseo canino más salvaje de la isla.",
+          "descriptionPt": "Falésias de cinzas vulcânicas erodidas pelo vento na costa sul sobre a praia de Vlychada, esculpidas em curvas e ranhuras surreais que os locais chamam «a Paisagem Lunar». Trilho de terra aberto ao longo do topo da falésia da marina ao cabo Exomytis, 2 km ida e volta, panorama Egeu. O passeio canino mais selvagem da ilha.",
+          "amenities": [
+            "Open dirt trail",
+            "Surreal lunar landscape",
+            "Free parking at Vlychada marina",
+            "Beach access at trail base"
+          ],
+          "amenitiesFr": [
+            "Sentier de terre ouvert",
+            "Paysage lunaire surréel",
+            "Parking gratuit à la marina de Vlychada",
+            "Accès plage en bas du sentier"
+          ],
+          "amenitiesEs": [
+            "Sendero de tierra abierto",
+            "Paisaje lunar surrealista",
+            "Aparcamiento gratuito en la marina de Vlychada",
+            "Acceso a la playa al pie del sendero"
+          ],
+          "amenitiesPt": [
+            "Trilho de terra aberto",
+            "Paisagem lunar surreal",
+            "Estacionamento gratuito na marina de Vlychada",
+            "Acesso à praia no início do trilho"
+          ],
+          "tip": "No shade at all, walk early morning or late afternoon. The wind here is fierce, August meltemi gusts can reach 60 km/h. Pair with lunch at To Psaraki on the marina pier.",
+          "tipFr": "Aucun ombrage, marchez tôt le matin ou en fin d'après-midi. Le vent ici est féroce, les rafales de meltemi en août peuvent atteindre 60 km/h. À combiner avec un déjeuner chez To Psaraki sur la jetée de la marina.",
+          "tipEs": "Sin sombra alguna, camina temprano por la mañana o al final de la tarde. El viento aquí es feroz, las rachas de meltemi en agosto pueden alcanzar 60 km/h. Combina con almuerzo en To Psaraki en el muelle de la marina.",
+          "tipPt": "Sem sombra nenhuma, caminha de manhã cedo ou ao fim da tarde. O vento aqui é feroz, as rajadas de meltemi em agosto podem atingir 60 km/h. Combina com almoço no To Psaraki no molhe da marina.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vlychada+beach+Santorini"
+        }
+      ],
+      "tipsEn": [
+        "Santorini has no fenced dog parks, none at all. The cliff paths, the inland villages and the south coast bluffs are the substitute. Leash strongly recommended on caldera edges.",
+        "Greek municipal rules: dogs must be leashed in all public spaces; muzzle required for breeds on the dangerous-dogs list. The Thira municipality enforces dog waste bag fines up to 200 EUR on the Fira–Oia path.",
+        "Volcanic ash and white cobbled paths get extremely hot in summer; surface temperatures hit 50–60 °C at noon. Walk before 09:00 or after 19:00 from June to September, dog boots are a serious option."
+      ],
+      "tipsFr": [
+        "Santorin n'a aucun parc canin clôturé, pas un seul. Les sentiers de falaise, les villages de l'intérieur et les falaises de la côte sud sont le substitut. Laisse fortement recommandée au bord de la caldera.",
+        "Règles municipales grecques : laisse obligatoire dans tous les espaces publics ; muselière pour races sur la liste des chiens dangereux. La municipalité de Thira verbalise jusqu'à 200 € pour non-ramassage sur le sentier Fira-Oia.",
+        "Les cendres volcaniques et les pavés blancs deviennent brûlants en été ; les températures de surface atteignent 50-60 °C à midi. Promenez avant 9h ou après 19h de juin à septembre, les bottines pour chien sont une option sérieuse."
+      ],
+      "tipsEs": [
+        "Santorini no tiene ningún parque canino vallado, ninguno. Los senderos de acantilado, los pueblos del interior y los acantilados de la costa sur son el sustituto. Correa muy recomendada al borde de la caldera.",
+        "Normas municipales griegas: correa obligatoria en todos los espacios públicos; bozal para razas en la lista de perros peligrosos. El municipio de Thira multa hasta 200 € por no recoger en el sendero Fira-Oía.",
+        "Las cenizas volcánicas y los adoquines blancos se calientan mucho en verano; las temperaturas de superficie alcanzan 50-60 °C al mediodía. Pasea antes de las 09:00 o después de las 19:00 de junio a septiembre, las botitas para perro son una opción seria."
+      ],
+      "tipsPt": [
+        "Santorini não tem nenhum parque canino vedado, nenhum. Os trilhos de falésia, as aldeias do interior e as falésias da costa sul são o substituto. Trela muito recomendada na borda da caldera.",
+        "Normas municipais gregas: trela obrigatória em todos os espaços públicos; açaime para raças na lista de cães perigosos. O município de Thira multa até 200 € por não recolher no trilho Fira-Oía.",
+        "As cinzas vulcânicas e os paralelepípedos brancos ficam muito quentes no verão; as temperaturas de superfície atingem 50-60 °C ao meio-dia. Passeia antes das 09:00 ou depois das 19:00 de junho a setembro, as botas para cão são uma opção séria."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I do the Fira–Oia caldera hike with my dog?",
+          "a": "Yes, with conditions. The 10 km path is open access, dog-friendly in principle, but the white cobbles and volcanic ash surface burn paws in summer midday. Walk dawn or after 17:00 (Jun–Sep), carry 2 L water per dog. Return by KTEL bus from Oia (dogs in carrier free)."
+        },
+        {
+          "q": "Where can my dog run off-leash on Santorini?",
+          "a": "There are no fenced off-leash dog parks on the island. The Vlychada bluffs and the lower trails of Megalochori valley off-season tolerate relaxed off-lead behaviour in practice, but the official rule remains leashed. No urban off-leash zone exists."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je faire la randonnée caldera Fira-Oia avec mon chien ?",
+          "a": "Oui, sous conditions. Le sentier de 10 km est en accès libre, dog-friendly en principe, mais les pavés blancs et les cendres volcaniques brûlent les coussinets en plein midi d'été. Marchez à l'aube ou après 17h (juin-septembre), emportez 2 L d'eau par chien. Retour en bus KTEL depuis Oia (chiens en sac gratuits)."
+        },
+        {
+          "q": "Où mon chien peut-il courir sans laisse à Santorin ?",
+          "a": "Il n'y a aucun parc canin clôturé sans laisse sur l'île. Les falaises de Vlychada et les sentiers bas de la vallée de Megalochori hors-saison tolèrent en pratique un comportement détendu sans laisse, mais la règle officielle reste la laisse. Aucune zone urbaine sans laisse n'existe."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo hacer la caminata caldera Fira-Oía con mi perro?",
+          "a": "Sí, con condiciones. El sendero de 10 km es de acceso libre, pet-friendly en principio, pero los adoquines blancos y las cenizas volcánicas queman las almohadillas en pleno mediodía de verano. Camina al amanecer o después de las 17:00 (jun-sept), lleva 2 L de agua por perro. Vuelta en bus KTEL desde Oía (perros en transportín gratis)."
+        },
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Santorini?",
+          "a": "No hay ningún parque canino vallado sin correa en la isla. Los acantilados de Vlychada y los senderos bajos del valle de Megalochori fuera de temporada toleran en la práctica un comportamiento relajado sin correa, pero la norma oficial sigue siendo con correa. No existe ninguna zona urbana sin correa."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso fazer a caminhada caldera Fira-Oía com o meu cão?",
+          "a": "Sim, com condições. O trilho de 10 km é de acesso livre, pet-friendly em princípio, mas os paralelepípedos brancos e as cinzas vulcânicas queimam as almofadinhas em pleno meio-dia de verão. Caminha ao amanhecer ou depois das 17:00 (jun-set), leva 2 L de água por cão. Regresso em autocarro KTEL de Oía (cães em transportadora grátis)."
+        },
+        {
+          "q": "Onde pode o meu cão correr sem trela em Santorini?",
+          "a": "Não há nenhum parque canino vedado sem trela na ilha. As falésias de Vlychada e os trilhos baixos do vale de Megalochori fora de época toleram na prática um comportamento relaxado sem trela, mas a norma oficial mantém-se com trela. Não existe nenhuma zona urbana sem trela."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport on Santorini, KTEL Bus, Ferry & JTR Airport",
+      "titleFr": "Transport pet-friendly à Santorin, Bus KTEL, ferry et aéroport JTR",
+      "titleEs": "Transporte pet-friendly en Santorini, Autobús KTEL, ferry y aeropuerto JTR",
+      "titlePt": "Transporte pet-friendly em Santorini, Autocarro KTEL, ferry e aeroporto JTR",
+      "introEn": "Santorini transport hubs on Fira (KTEL bus station to all villages) and Athinios port (ferry from Piraeus, 5–8h, plus inter-island Sea Jets catamarans to Mykonos, Naxos, Paros, Crete). Santorini Thira Airport (JTR) sits 6 km southeast of Fira with year-round Aegean and SKY Express flights to Athens plus summer European low-cost charters. Pet logistics here are sharp: book Aegean cabin pet slots months ahead, ferry pet cabins sell out by April for summer.",
+      "introFr": "Les hubs de transport de Santorin sont à Fira (gare routière KTEL vers tous les villages) et au port d'Athinios (ferry depuis Le Pirée, 5-8h, plus catamarans inter-îles Sea Jets vers Mykonos, Naxos, Paros, Crète). L'aéroport Thira de Santorin (JTR) est à 6 km au sud-est de Fira avec vols Aegean et SKY Express toute l'année vers Athènes et charters low-cost européens estivaux. La logistique animaux ici est tendue : réservez les places cabine animaux d'Aegean des mois à l'avance, les cabines animaux ferry partent dès avril pour l'été.",
+      "introEs": "Los hubs de transporte de Santorini están en Fira (estación de autobuses KTEL a todos los pueblos) y en el puerto de Athinios (ferry desde Pireo, 5-8h, más catamaranes inter-islas Sea Jets a Mykonos, Naxos, Paros, Creta). El aeropuerto Thira de Santorini (JTR) está a 6 km al sureste de Fira con vuelos Aegean y SKY Express todo el año a Atenas y chárteres low-cost europeos de verano. La logística para mascotas aquí es tensa: reserva las plazas cabina mascota de Aegean con meses de antelación, los camarotes mascota del ferry se agotan en abril para el verano.",
+      "introPt": "Os hubs de transporte de Santorini estão em Fira (estação de autocarros KTEL para todas as aldeias) e no porto de Athinios (ferry do Pireu, 5-8h, mais catamarãs inter-ilhas Sea Jets para Mykonos, Naxos, Paros, Creta). O aeroporto Thira de Santorini (JTR) está a 6 km a sudeste de Fira com voos Aegean e SKY Express o ano inteiro para Atenas e charters low-cost europeus de verão. A logística para animais aqui é tensa: reserva os lugares cabine animal da Aegean com meses de antecedência, os camarotes animais do ferry esgotam em abril para o verão.",
+      "places": [
+        {
+          "name": "Santorini Thira Airport (JTR)",
+          "type": "Air",
+          "photo": "/images/city-places/santorini-transport-jtr-airport.jpg",
+          "website": "https://santoriniairport.com/",
+          "description": "Santorini Thira International Airport, 6 km southeast of Fira on a single runway shared with the Hellenic Air Force. Year-round Aegean and SKY Express flights to Athens (45 min); summer charter and low-cost flights from most major EU hubs (London, Paris, Rome, Berlin, Vienna). One of the busiest summer-season airports in the Cyclades.",
+          "descriptionFr": "Aéroport international Thira de Santorin, à 6 km au sud-est de Fira sur une piste unique partagée avec l'armée de l'air hellénique. Vols Aegean et SKY Express toute l'année vers Athènes (45 min) ; vols charter et low-cost saisonniers depuis la plupart des hubs UE majeurs (Londres, Paris, Rome, Berlin, Vienne). L'un des aéroports les plus chargés des Cyclades en saison.",
+          "descriptionEs": "Aeropuerto Internacional Thira de Santorini, a 6 km al sureste de Fira sobre una pista única compartida con la Fuerza Aérea Helénica. Vuelos Aegean y SKY Express todo el año a Atenas (45 min); vuelos chárter y low-cost de verano desde la mayoría de hubs UE importantes (Londres, París, Roma, Berlín, Viena). Uno de los aeropuertos más cargados de las Cícladas en temporada.",
+          "descriptionPt": "Aeroporto Internacional Thira de Santorini, a 6 km a sudeste de Fira sobre uma pista única partilhada com a Força Aérea Helénica. Voos Aegean e SKY Express o ano inteiro para Atenas (45 min); voos charter e low-cost de verão da maioria dos hubs UE principais (Londres, Paris, Roma, Berlim, Viena). Um dos aeroportos mais carregados das Cíclades em época.",
+          "petPolicy": "Aegean and SKY Express accept dogs in cabin under 8 kg (carrier included) for ~50 EUR per leg, hold for larger. Cabin slots scarce on JTR–ATH in summer, book at least 2 months ahead.",
+          "petPolicyFr": "Aegean et SKY Express acceptent les chiens en cabine sous 8 kg (sac inclus) pour ~50 € par segment, en soute pour les plus grands. Places cabine rares sur JTR-ATH en été, réservez au moins 2 mois à l'avance.",
+          "petPolicyEs": "Aegean y SKY Express admiten perros en cabina hasta 8 kg (transportín incluido) por ~50 € por trayecto, en bodega para perros más grandes. Plazas cabina escasas en JTR-ATH en verano, reserva con al menos 2 meses de antelación.",
+          "petPolicyPt": "Aegean e SKY Express aceitam cães em cabine até 8 kg (transportadora incluída) por ~50 € por trecho, em porão para cães maiores. Lugares cabine escassos em JTR-ATH no verão, reserva com pelo menos 2 meses de antecedência.",
+          "tip": "KTEL Express bus airport to Fira (1.80 EUR, 10 min, small dogs in carrier free) or taxi 20–25 EUR fixed. Avoid driving the JTR road at peak arrival/departure waves (16:00–20:00 in summer), single lane chaos.",
+          "tipFr": "Bus KTEL Express aéroport-Fira (1,80 €, 10 min, petits chiens en sac gratuits) ou taxi 20-25 € forfaitaire. Évitez de conduire la route JTR aux pics arrivée/départ (16h-20h en été), chaos sur voie unique.",
+          "tipEs": "Bus KTEL Express aeropuerto-Fira (1,80 €, 10 min, perros pequeños en transportín gratis) o taxi 20-25 € fijo. Evita conducir la carretera JTR en los picos de llegada/salida (16:00-20:00 en verano), caos en vía única.",
+          "tipPt": "Autocarro KTEL Express aeroporto-Fira (1,80 €, 10 min, cães pequenos em transportadora grátis) ou táxi 20-25 € fixo. Evita conduzir a estrada JTR nos picos de chegada/partida (16:00-20:00 no verão), caos em via única.",
+          "googleMapsUrl": "https://maps.google.com/?q=Santorini+Thira+Airport+JTR"
+        },
+        {
+          "name": "Athinios Port Ferry (Blue Star, Hellenic Seaways)",
+          "type": "Ferry",
+          "photo": "/images/city-places/santorini-transport-athinios-ferry.jpg",
+          "website": "https://www.bluestarferries.com/",
+          "description": "Athinios is Santorini's main commercial port, 10 km south of Fira at the foot of the caldera cliff, served by Blue Star Ferries and Hellenic Seaways conventional ferries from Piraeus (5–8h, daily) and Sea Jets high-speed catamarans (4–5h). Carries cars, motorhomes and foot passengers, plus all Cyclades inter-island traffic.",
+          "descriptionFr": "Athinios est le port commercial principal de Santorin, à 10 km au sud de Fira au pied de la falaise de la caldera, desservi par les ferries conventionnels Blue Star et Hellenic Seaways depuis Le Pirée (5-8h, quotidien) et les catamarans rapides Sea Jets (4-5h). Transporte voitures, camping-cars et piétons, plus tout le trafic inter-îles des Cyclades.",
+          "descriptionEs": "Athinios es el puerto comercial principal de Santorini, a 10 km al sur de Fira al pie del acantilado de la caldera, servido por los ferries convencionales Blue Star y Hellenic Seaways desde Pireo (5-8h, diario) y los catamaranes rápidos Sea Jets (4-5h). Lleva coches, autocaravanas y peatones, más todo el tráfico inter-islas de las Cícladas.",
+          "descriptionPt": "Athinios é o porto comercial principal de Santorini, a 10 km a sul de Fira ao pé da falésia da caldera, servido pelos ferries convencionais Blue Star e Hellenic Seaways do Pireu (5-8h, diário) e pelos catamarãs rápidos Sea Jets (4-5h). Transporta carros, autocaravanas e peões, mais todo o tráfego inter-ilhas das Cíclades.",
+          "petPolicy": "Blue Star allows dogs on outdoor decks (free or 10 EUR) and in pet cabins (30–50 EUR supplement, 6–8 per ship, sells out April for summer). Sea Jets fast cats accept dogs in carrier only on outdoor decks.",
+          "petPolicyFr": "Blue Star admet les chiens sur les ponts extérieurs (gratuit ou 10 €) et dans les cabines animaux (supplément 30-50 €, 6-8 par bateau, partent en avril pour l'été). Les catamarans rapides Sea Jets acceptent les chiens en sac uniquement sur les ponts extérieurs.",
+          "petPolicyEs": "Blue Star admite perros en cubiertas exteriores (gratis o 10 €) y en camarotes mascota (suplemento 30-50 €, 6-8 por barco, se agotan en abril para el verano). Los catamaranes rápidos Sea Jets admiten perros en transportín solo en cubiertas exteriores.",
+          "petPolicyPt": "Blue Star admite cães em conveses exteriores (grátis ou 10 €) e em camarotes animal (suplemento 30-50 €, 6-8 por barco, esgotam em abril para o verão). Os catamarãs rápidos Sea Jets aceitam cães em transportadora apenas em conveses exteriores.",
+          "tip": "Foot passenger Piraeus–Santorini Blue Star 35-55 EUR, car 80-130 EUR. Book pet cabin on bluestarferries.com at the same time as the ticket. KTEL Express bus connects Athinios to Fira (1.80 EUR, every ferry).",
+          "tipFr": "Piéton Le Pirée-Santorin Blue Star 35-55 €, voiture 80-130 €. Réservez la cabine animaux sur bluestarferries.com en même temps que le billet. Bus KTEL Express connecte Athinios à Fira (1,80 €, chaque ferry).",
+          "tipEs": "Peatón Pireo-Santorini Blue Star 35-55 €, coche 80-130 €. Reserva el camarote mascota en bluestarferries.com a la vez que el billete. Bus KTEL Express conecta Athinios con Fira (1,80 €, cada ferry).",
+          "tipPt": "Peão Pireu-Santorini Blue Star 35-55 €, carro 80-130 €. Reserva o camarote animal em bluestarferries.com ao mesmo tempo que o bilhete. Autocarro KTEL Express liga Athinios a Fira (1,80 €, cada ferry).",
+          "googleMapsUrl": "https://maps.google.com/?q=Athinios+port+Santorini"
+        },
+        {
+          "name": "KTEL Fira Bus Station",
+          "type": "Bus",
+          "photo": "/images/city-places/santorini-transport-ktel-fira.jpg",
+          "website": "https://ktel-santorini.gr/",
+          "description": "Central bus hub on Mitropoleos street in Fira, single station serving all KTEL routes across the island: Oia, Pyrgos, Akrotiri, Kamari, Perissa, Vlychada, Athinios port, JTR airport. Modern coaches, 1.80 EUR flat fare to any village, half-hourly to hourly frequency in summer.",
+          "descriptionFr": "Hub de bus central sur la rue Mitropoleos à Fira, gare unique desservant toutes les lignes KTEL de l'île : Oia, Pyrgos, Akrotiri, Kamari, Perissa, Vlychada, port d'Athinios, aéroport JTR. Cars modernes, tarif unique 1,80 € vers tout village, fréquence demi-horaire à horaire en été.",
+          "descriptionEs": "Hub de autobuses central en la calle Mitropoleos en Fira, estación única que sirve todas las líneas KTEL de la isla: Oía, Pyrgos, Akrotiri, Kamari, Perissa, Vlychada, puerto de Athinios, aeropuerto JTR. Autocares modernos, tarifa única 1,80 € a cualquier pueblo, frecuencia media-horaria a horaria en verano.",
+          "descriptionPt": "Hub de autocarros central na rua Mitropoleos em Fira, estação única a servir todas as linhas KTEL da ilha: Oía, Pyrgos, Akrotiri, Kamari, Perissa, Vlychada, porto de Athinios, aeroporto JTR. Autocarros modernos, tarifa única 1,80 € para qualquer aldeia, frequência meia-horária a horária no verão.",
+          "petPolicy": "Small dogs in carrier travel free; larger dogs at driver's discretion (often refused in peak season). Muzzle required for breeds on dangerous-dogs list.",
+          "petPolicyFr": "Petits chiens en sac voyagent gratuitement ; chiens plus grands à la discrétion du chauffeur (souvent refusés en haute saison). Muselière obligatoire pour races sur la liste des chiens dangereux.",
+          "petPolicyEs": "Perros pequeños en transportín viajan gratis; perros más grandes a discreción del conductor (a menudo rechazados en alta temporada). Bozal obligatorio para razas en la lista de perros peligrosos.",
+          "petPolicyPt": "Cães pequenos em transportadora viajam grátis; cães maiores ao critério do condutor (frequentemente recusados em alta época). Açaime obrigatório para raças na lista de cães perigosos.",
+          "tip": "Buy tickets on the bus, exact change preferred. Buses are crammed 10:00–18:00 in July–August, target off-peak (early morning or after 19:00). Tap-and-go cards are not yet deployed on KTEL Santorini.",
+          "tipFr": "Achetez les billets dans le bus, appoint préféré. Les bus sont bondés 10h-18h en juillet-août, visez hors heure de pointe (tôt le matin ou après 19h). Les cartes sans contact ne sont pas encore déployées sur KTEL Santorin.",
+          "tipEs": "Compra los billetes en el bus, importe exacto preferido. Los autobuses están abarrotados 10:00-18:00 en julio-agosto, apunta a horas valle (temprano por la mañana o después de las 19:00). Las tarjetas sin contacto aún no están desplegadas en KTEL Santorini.",
+          "tipPt": "Compra os bilhetes no autocarro, troco exato preferido. Os autocarros estão lotados 10:00-18:00 em julho-agosto, aponta a horas vazias (cedo de manhã ou depois das 19:00). Os cartões sem contacto ainda não estão implementados na KTEL Santorini.",
+          "googleMapsUrl": "https://maps.google.com/?q=KTEL+bus+station+Fira+Santorini"
+        }
+      ],
+      "tipsEn": [
+        "Santorini has no metro, no tram, no train. KTEL buses hub at Fira and reach every village; Athinios port is the ferry gateway; JTR airport handles flights.",
+        "Cabin pet slots on Aegean JTR–ATH are scarce in summer, book at least 2 months ahead; Sea Jets fast catamarans only accept dogs in carrier on outdoor decks.",
+        "Inter-island catamarans (Sea Jets, Minoan) connect Santorini to Mykonos (2h), Naxos (1h30), Paros (2h), Crete Heraklion (2h), and Ios (45 min); dogs in carrier only, ~10 EUR pet supplement."
+      ],
+      "tipsFr": [
+        "Santorin n'a ni métro, ni tram, ni train. Les bus KTEL ont leur hub à Fira et desservent chaque village ; le port d'Athinios est la porte ferry ; l'aéroport JTR gère les vols.",
+        "Les places cabine animaux Aegean JTR-ATH sont rares en été, réservez au moins 2 mois à l'avance ; les catamarans rapides Sea Jets n'acceptent les chiens qu'en sac sur les ponts extérieurs.",
+        "Les catamarans inter-îles (Sea Jets, Minoan) relient Santorin à Mykonos (2h), Naxos (1h30), Paros (2h), Crète Héraklion (2h) et Ios (45 min) ; chiens en sac uniquement, supplément animal ~10 €."
+      ],
+      "tipsEs": [
+        "Santorini no tiene metro, ni tranvía, ni tren. Los autobuses KTEL tienen su hub en Fira y llegan a cada pueblo; el puerto de Athinios es la puerta ferry; el aeropuerto JTR maneja los vuelos.",
+        "Las plazas cabina mascota Aegean JTR-ATH son escasas en verano, reserva con al menos 2 meses de antelación; los catamaranes rápidos Sea Jets solo admiten perros en transportín en cubiertas exteriores.",
+        "Los catamaranes inter-islas (Sea Jets, Minoan) conectan Santorini con Mykonos (2h), Naxos (1h30), Paros (2h), Creta Heraklion (2h) e Ios (45 min); perros en transportín solamente, suplemento mascota ~10 €."
+      ],
+      "tipsPt": [
+        "Santorini não tem metro, nem elétrico, nem comboio. Os autocarros KTEL têm o seu hub em Fira e chegam a cada aldeia; o porto de Athinios é a porta ferry; o aeroporto JTR gere os voos.",
+        "Os lugares cabine animal Aegean JTR-ATH são escassos no verão, reserva com pelo menos 2 meses de antecedência; os catamarãs rápidos Sea Jets só aceitam cães em transportadora em conveses exteriores.",
+        "Os catamarãs inter-ilhas (Sea Jets, Minoan) ligam Santorini a Mykonos (2h), Naxos (1h30), Paros (2h), Creta Heraklion (2h) e Ios (45 min); cães em transportadora apenas, suplemento animal ~10 €."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my large dog on Aegean Athens–Santorini flight in summer?",
+          "a": "Yes in hold (under 50 kg total carrier weight, 75 EUR), but cabin under 8 kg slots are tight. Book on aegeanair.com at least 2 months ahead, specify pet at booking. Hold pets are loaded last, picked up first at JTR baggage claim."
+        },
+        {
+          "q": "How do I get from Athinios port to Fira with a dog?",
+          "a": "KTEL Express bus meets every Blue Star ferry arrival at Athinios and goes direct to Fira KTEL station (1.80 EUR, 25 min, small dogs in carrier free). Taxi 25-35 EUR fixed. Do not try walking up the cliff road, no pedestrian path, dangerous."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon grand chien sur le vol Aegean Athènes-Santorin en été ?",
+          "a": "Oui en soute (sac total sous 50 kg, 75 €), mais les places cabine sous 8 kg sont serrées. Réservez sur aegeanair.com au moins 2 mois à l'avance, précisez l'animal à la réservation. Les animaux en soute sont chargés en dernier, récupérés en premier au tapis bagages de JTR."
+        },
+        {
+          "q": "Comment aller du port d'Athinios à Fira avec un chien ?",
+          "a": "Le bus KTEL Express attend chaque arrivée de ferry Blue Star à Athinios et part directement vers la gare KTEL de Fira (1,80 €, 25 min, petits chiens en sac gratuits). Taxi 25-35 € forfaitaire. N'essayez pas de monter à pied la route de la falaise, aucun sentier piéton, dangereux."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro grande en el vuelo Aegean Atenas-Santorini en verano?",
+          "a": "Sí en bodega (peso total transportín bajo 50 kg, 75 €), pero las plazas cabina bajo 8 kg están justas. Reserva en aegeanair.com con al menos 2 meses de antelación, especifica mascota al reservar. Las mascotas en bodega se cargan al final, se recogen primero en la cinta de equipajes de JTR."
+        },
+        {
+          "q": "¿Cómo voy del puerto de Athinios a Fira con perro?",
+          "a": "El bus KTEL Express espera cada llegada de ferry Blue Star en Athinios y va directo a la estación KTEL de Fira (1,80 €, 25 min, perros pequeños en transportín gratis). Taxi 25-35 € fijo. No intentes subir a pie la carretera del acantilado, ningún sendero peatonal, peligroso."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão grande no voo Aegean Atenas-Santorini no verão?",
+          "a": "Sim em porão (peso total transportadora abaixo de 50 kg, 75 €), mas os lugares cabine abaixo de 8 kg estão apertados. Reserva em aegeanair.com com pelo menos 2 meses de antecedência, especifica animal ao reservar. Os animais em porão são carregados em último, recolhidos em primeiro na esteira de bagagens de JTR."
+        },
+        {
+          "q": "Como vou do porto de Athinios a Fira com cão?",
+          "a": "O autocarro KTEL Express espera cada chegada de ferry Blue Star em Athinios e vai direto à estação KTEL de Fira (1,80 €, 25 min, cães pequenos em transportadora grátis). Táxi 25-35 € fixo. Não tentes subir a pé a estrada da falésia, nenhum trilho pedonal, perigoso."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches on Santorini, Red Beach Akrotiri, Black Beach Perissa, White Beach & Vlychada",
+      "titleFr": "Plages dog-friendly à Santorin, Plage Rouge d'Akrotiri, Plage Noire de Perissa, Plage Blanche et Vlychada",
+      "titleEs": "Playas pet-friendly en Santorini, Playa Roja de Akrotiri, Playa Negra de Perissa, Playa Blanca y Vlychada",
+      "titlePt": "Praias pet-friendly em Santorini, Praia Vermelha de Akrotiri, Praia Negra de Perissa, Praia Branca e Vlychada",
+      "introEn": "Santorini's beaches are volcanic: black sand, red cliffs, white pumice, no green palms. The major beaches are Red Beach (Akrotiri, dramatic but tiny), Black Beach Perissa/Perivolos (longest volcanic sand strip on the island), Kamari (busy resort, family beach), Vlychada (lunar landscape, calm and dog-welcoming) and the boat-access White Beach. Dogs are tolerated on most beaches off-season (Oct–Apr); high season (Jun–Sep) confines them to the unmanaged ends.",
+      "introFr": "Les plages de Santorin sont volcaniques : sable noir, falaises rouges, pierre ponce blanche, pas de palmiers. Les plages majeures sont la Plage Rouge (Akrotiri, spectaculaire mais minuscule), la Plage Noire Perissa/Perivolos (la plus longue bande de sable volcanique de l'île), Kamari (station animée, plage familiale), Vlychada (paysage lunaire, calme et dog-friendly) et la Plage Blanche accessible en bateau. Les chiens sont tolérés sur la plupart des plages hors-saison (oct-avril) ; en haute saison (juin-sept), ils sont confinés aux extrémités non gérées.",
+      "introEs": "Las playas de Santorini son volcánicas: arena negra, acantilados rojos, piedra pómez blanca, sin palmeras. Las playas principales son la Playa Roja (Akrotiri, espectacular pero diminuta), la Playa Negra Perissa/Perivolos (la franja de arena volcánica más larga de la isla), Kamari (resort animado, playa familiar), Vlychada (paisaje lunar, tranquilo y pet-friendly) y la Playa Blanca accesible en barco. Los perros se toleran en la mayoría de playas fuera de temporada (oct-abril); en alta temporada (jun-sept), quedan confinados a los extremos no gestionados.",
+      "introPt": "As praias de Santorini são vulcânicas: areia preta, falésias vermelhas, pedra-pomes branca, sem palmeiras. As praias principais são a Praia Vermelha (Akrotiri, espetacular mas minúscula), a Praia Negra Perissa/Perivolos (a faixa de areia vulcânica mais longa da ilha), Kamari (resort animado, praia familiar), Vlychada (paisagem lunar, calma e pet-friendly) e a Praia Branca acessível de barco. Os cães são tolerados na maioria das praias fora de época (out-abril); em alta época (jun-set), ficam confinados às extremidades não geridas.",
+      "places": [
+        {
+          "name": "Black Beach Perissa & Perivolos",
+          "address": "Perissa-Perivolos, 84703 Santorini",
+          "photo": "/images/city-places/santorini-beaches-perissa.jpg",
+          "leashRule": "Leashed only on managed central sections; quieter ends tolerate off-leash off-season",
+          "leashRuleFr": "Laisse sur les sections centrales gérées ; extrémités calmes tolèrent sans laisse hors-saison",
+          "leashRuleEs": "Con correa en las secciones centrales gestionadas; extremos tranquilos toleran sin correa fuera de temporada",
+          "leashRulePt": "Com trela nas secções centrais geridas; extremidades calmas toleram sem trela fora de época",
+          "description": "The 7 km black volcanic sand strip on the south-east coast under the looming Mesa Vouno cliff, divided into Perissa (north end), Perivolos (middle) and Vlychada (south). The longest beach on Santorini, flat shallow entry, full beach club row in the centre, wild quiet ends. The main dog-tolerant beach in season.",
+          "descriptionFr": "La bande de 7 km de sable volcanique noir sur la côte sud-est sous la falaise dominante de Mesa Vouno, divisée en Perissa (extrémité nord), Perivolos (centre) et Vlychada (sud). La plus longue plage de Santorin, entrée plate et peu profonde, rangée complète de beach clubs au centre, extrémités sauvages calmes. La plage principale tolérante aux chiens en saison.",
+          "descriptionEs": "La franja de 7 km de arena volcánica negra en la costa sureste bajo el imponente acantilado de Mesa Vouno, dividida en Perissa (extremo norte), Perivolos (centro) y Vlychada (sur). La playa más larga de Santorini, entrada plana y poco profunda, fila completa de beach clubs en el centro, extremos salvajes tranquilos. La playa principal tolerante con perros en temporada.",
+          "descriptionPt": "A faixa de 7 km de areia vulcânica preta na costa sudeste sob a imponente falésia de Mesa Vouno, dividida em Perissa (extremidade norte), Perivolos (centro) e Vlychada (sul). A praia mais longa de Santorini, entrada plana e pouco funda, fila completa de beach clubs no centro, extremidades selvagens calmas. A praia principal tolerante a cães em época.",
+          "amenities": [
+            "7 km black sand",
+            "Flat entry",
+            "Beach club row at centre",
+            "Free parking at both ends",
+            "Tavernas on the promenade"
+          ],
+          "amenitiesFr": [
+            "7 km de sable noir",
+            "Entrée plate",
+            "Rangée de beach clubs au centre",
+            "Parking gratuit aux deux extrémités",
+            "Tavernes sur la promenade"
+          ],
+          "amenitiesEs": [
+            "7 km de arena negra",
+            "Entrada plana",
+            "Fila de beach clubs en el centro",
+            "Aparcamiento gratuito en ambos extremos",
+            "Tabernas en el paseo"
+          ],
+          "amenitiesPt": [
+            "7 km de areia preta",
+            "Entrada plana",
+            "Fila de beach clubs no centro",
+            "Estacionamento gratuito em ambas extremidades",
+            "Tabernas no passeio"
+          ],
+          "tip": "Black sand reaches 50–60 °C at noon in summer, brutal for paws. Walk on the wet sand only, or visit before 10:00 / after 17:00. The southern Vlychada end is the dog-tolerant stretch year-round.",
+          "tipFr": "Le sable noir atteint 50-60 °C à midi en été, brutal pour les coussinets. Marchez uniquement sur sable mouillé, ou visitez avant 10h / après 17h. L'extrémité sud Vlychada est le tronçon toléré aux chiens toute l'année.",
+          "tipEs": "La arena negra alcanza 50-60 °C al mediodía en verano, brutal para almohadillas. Camina solo sobre arena mojada, o visita antes de las 10:00 / después de las 17:00. El extremo sur Vlychada es el tramo tolerado a perros todo el año.",
+          "tipPt": "A areia preta atinge 50-60 °C ao meio-dia no verão, brutal para almofadinhas. Caminha só em areia molhada, ou visita antes das 10:00 / depois das 17:00. A extremidade sul Vlychada é o trecho tolerado a cães o ano inteiro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Perissa+beach+Santorini"
+        },
+        {
+          "name": "Red Beach Akrotiri",
+          "address": "Akrotiri, 84700 Santorini",
+          "photo": "/images/city-places/santorini-beaches-red-beach.jpg",
+          "leashRule": "Leashed only, narrow scramble access",
+          "leashRuleFr": "Laisse uniquement, accès en désescalade étroit",
+          "leashRuleEs": "Con correa solamente, acceso de escalada estrecho",
+          "leashRulePt": "Com trela apenas, acesso de escalada estreito",
+          "description": "Dramatic cove under towering iron-oxide red cliffs near the Akrotiri archaeological site on the southern tip. 150 m of red pebble and dark sand, turquoise water, accessed by a 5 min cliff scramble. Iconic photo spot but tiny and shadeless. Best at dawn or as an aperitivo swim.",
+          "descriptionFr": "Crique spectaculaire sous d'immenses falaises rouges d'oxyde de fer près du site archéologique d'Akrotiri à la pointe sud. 150 m de galets rouges et sable sombre, eau turquoise, accès par une désescalade de falaise de 5 min. Spot photo iconique mais minuscule et sans ombre. Idéal à l'aube ou en bain aperitivo.",
+          "descriptionEs": "Cala espectacular bajo enormes acantilados rojos de óxido de hierro cerca del sitio arqueológico de Akrotiri en la punta sur. 150 m de guijarros rojos y arena oscura, agua turquesa, acceso por escalada de acantilado de 5 min. Spot fotográfico icónico pero diminuto y sin sombra. Mejor al amanecer o como baño aperitivo.",
+          "descriptionPt": "Enseada espetacular sob enormes falésias vermelhas de óxido de ferro perto do sítio arqueológico de Akrotiri na ponta sul. 150 m de calhau vermelho e areia escura, água turquesa, acesso por escalada de falésia de 5 min. Local fotográfico icónico mas minúsculo e sem sombra. Melhor ao amanhecer ou como banho aperitivo.",
+          "amenities": [
+            "Iconic red cliffs",
+            "Turquoise water",
+            "Pebble entry",
+            "Cliff scramble access only",
+            "Akrotiri site 1 km"
+          ],
+          "amenitiesFr": [
+            "Falaises rouges iconiques",
+            "Eau turquoise",
+            "Entrée galets",
+            "Accès uniquement par désescalade",
+            "Site d'Akrotiri à 1 km"
+          ],
+          "amenitiesEs": [
+            "Acantilados rojos icónicos",
+            "Agua turquesa",
+            "Entrada de guijarros",
+            "Acceso solo por escalada",
+            "Sitio de Akrotiri a 1 km"
+          ],
+          "amenitiesPt": [
+            "Falésias vermelhas icónicas",
+            "Água turquesa",
+            "Entrada de calhau",
+            "Acesso só por escalada",
+            "Sítio de Akrotiri a 1 km"
+          ],
+          "tip": "Access via the cliff scramble from the small parking; sturdy paws or boots only, the path is loose volcanic rock. Wear-out warning, falling rocks have closed the beach repeatedly. Combine with the Akrotiri archaeological site visit (no dogs inside the covered roof structure).",
+          "tipFr": "Accès par la désescalade de falaise depuis le petit parking ; coussinets solides ou bottines uniquement, le sentier est en roche volcanique meuble. Avertissement, des chutes de pierres ont fermé la plage à plusieurs reprises. À combiner avec la visite du site archéologique d'Akrotiri (chiens interdits sous la couverture).",
+          "tipEs": "Acceso por la escalada del acantilado desde el pequeño aparcamiento; almohadillas sólidas o botitas solo, el sendero es roca volcánica suelta. Aviso, desprendimientos han cerrado la playa repetidamente. Combina con la visita al sitio arqueológico de Akrotiri (perros prohibidos bajo la cubierta).",
+          "tipPt": "Acesso pela escalada da falésia desde o pequeno estacionamento; almofadinhas sólidas ou botas apenas, o trilho é rocha vulcânica solta. Aviso, quedas de pedras fecharam a praia repetidamente. Combina com a visita ao sítio arqueológico de Akrotiri (cães proibidos sob a cobertura).",
+          "googleMapsUrl": "https://maps.google.com/?q=Red+Beach+Akrotiri+Santorini"
+        },
+        {
+          "name": "White Beach",
+          "address": "Akrotiri area, 84700 Santorini",
+          "photo": "/images/city-places/santorini-beaches-white-beach.jpg",
+          "leashRule": "Leashed only; boat-access cove tolerates dogs off-season",
+          "leashRuleFr": "Laisse uniquement ; crique accessible en bateau tolère les chiens hors-saison",
+          "leashRuleEs": "Con correa solamente; cala accesible en barco tolera perros fuera de temporada",
+          "leashRulePt": "Com trela apenas; enseada acessível de barco tolera cães fora de época",
+          "description": "Pale pumice and pebble cove between Red Beach and Mesa Pigadia, framed by white-grey pumice cliffs, reached only by small boat-taxi from Akrotiri pier (5 min) or a long scramble. Quiet, crystal water, ~100 m. The closest thing to a private dog cove on the island.",
+          "descriptionFr": "Crique de pierre ponce claire et galets entre la Plage Rouge et Mesa Pigadia, encadrée par les falaises de pierre ponce blanc-gris, accessible uniquement par bateau-taxi depuis la jetée d'Akrotiri (5 min) ou par une longue désescalade. Calme, eau cristalline, ~100 m. Ce qui ressemble le plus à une crique canine privée sur l'île.",
+          "descriptionEs": "Cala de piedra pómez clara y guijarros entre la Playa Roja y Mesa Pigadia, enmarcada por acantilados de piedra pómez blanco-grises, accesible solo en barco-taxi desde el muelle de Akrotiri (5 min) o por larga escalada. Tranquila, agua cristalina, ~100 m. Lo más parecido a una cala canina privada en la isla.",
+          "descriptionPt": "Enseada de pedra-pomes clara e calhau entre a Praia Vermelha e Mesa Pigadia, emoldurada por falésias de pedra-pomes branco-cinzentas, acessível só de barco-táxi do molhe de Akrotiri (5 min) ou por longa escalada. Calma, água cristalina, ~100 m. O mais próximo de uma enseada canina privada na ilha.",
+          "amenities": [
+            "Pale pumice cliffs",
+            "Crystal water",
+            "Boat-taxi access",
+            "Quiet cove",
+            "No facilities (carry water)"
+          ],
+          "amenitiesFr": [
+            "Falaises de pierre ponce pâle",
+            "Eau cristalline",
+            "Accès bateau-taxi",
+            "Crique calme",
+            "Aucun équipement (apportez eau)"
+          ],
+          "amenitiesEs": [
+            "Acantilados de piedra pómez clara",
+            "Agua cristalina",
+            "Acceso en barco-taxi",
+            "Cala tranquila",
+            "Sin servicios (lleva agua)"
+          ],
+          "amenitiesPt": [
+            "Falésias de pedra-pomes clara",
+            "Água cristalina",
+            "Acesso de barco-táxi",
+            "Enseada calma",
+            "Sem serviços (leva água)"
+          ],
+          "tip": "Boat-taxi from Akrotiri jetty 10 EUR return per person, dogs in carrier free. Bring 2 L water per dog and a sun parasol, the white cliffs amplify the sun. Best 09:00–11:00 before the boats fill.",
+          "tipFr": "Bateau-taxi depuis la jetée d'Akrotiri 10 € aller-retour par personne, chiens en sac gratuits. Apportez 2 L d'eau par chien et un parasol, les falaises blanches amplifient le soleil. Idéal 9h-11h avant que les bateaux ne se remplissent.",
+          "tipEs": "Barco-taxi desde el muelle de Akrotiri 10 € ida y vuelta por persona, perros en transportín gratis. Lleva 2 L de agua por perro y una sombrilla, los acantilados blancos amplifican el sol. Mejor 09:00-11:00 antes de que se llenen los barcos.",
+          "tipPt": "Barco-táxi do molhe de Akrotiri 10 € ida e volta por pessoa, cães em transportadora grátis. Leva 2 L de água por cão e um chapéu-de-sol, as falésias brancas amplificam o sol. Melhor 09:00-11:00 antes de os barcos encherem.",
+          "googleMapsUrl": "https://maps.google.com/?q=White+Beach+Santorini"
+        },
+        {
+          "name": "Vlychada Beach",
+          "address": "Vlychada, 84700 Santorini",
+          "photo": "/images/city-places/santorini-beaches-vlychada.jpg",
+          "leashRule": "Leashed only on managed end; off-leash tolerated off-season on the wild stretch",
+          "leashRuleFr": "Laisse sur l'extrémité gérée ; sans laisse toléré hors-saison sur la portion sauvage",
+          "leashRuleEs": "Con correa en el extremo gestionado; sin correa tolerado fuera de temporada en el tramo salvaje",
+          "leashRulePt": "Com trela na extremidade gerida; sem trela tolerado fora de época no troço selvagem",
+          "description": "The southern end of the long black-sand strip below the surreal wind-eroded volcanic ash bluffs (the 'Moonscape'). Dark sand, blue water, a small marina with the To Psaraki fish taverna, and the calmest, most dog-welcoming beach on Santorini. The local choice over Perissa for a quiet swim.",
+          "descriptionFr": "L'extrémité sud de la longue bande de sable noir sous les surréelles falaises de cendres volcaniques érodées par le vent (« le Paysage Lunaire »). Sable sombre, eau bleue, petite marina avec la taverne de poisson To Psaraki, et la plage la plus calme et la plus dog-friendly de Santorin. Le choix local face à Perissa pour une baignade tranquille.",
+          "descriptionEs": "El extremo sur de la larga franja de arena negra bajo los surrealistas acantilados de cenizas volcánicas erosionados por el viento (el «Paisaje Lunar»). Arena oscura, agua azul, una pequeña marina con la taberna de pescado To Psaraki, y la playa más tranquila y pet-friendly de Santorini. La elección local frente a Perissa para un baño tranquilo.",
+          "descriptionPt": "A extremidade sul da longa faixa de areia preta sob as surreais falésias de cinzas vulcânicas erodidas pelo vento (a «Paisagem Lunar»). Areia escura, água azul, uma pequena marina com a taberna de peixe To Psaraki, e a praia mais calma e pet-friendly de Santorini. A escolha local face a Perissa para um banho tranquilo.",
+          "amenities": [
+            "Dark volcanic sand",
+            "Lunar bluff backdrop",
+            "Vlychada marina",
+            "To Psaraki taverna",
+            "Free parking"
+          ],
+          "amenitiesFr": [
+            "Sable volcanique sombre",
+            "Toile de fond falaises lunaires",
+            "Marina de Vlychada",
+            "Taverne To Psaraki",
+            "Parking gratuit"
+          ],
+          "amenitiesEs": [
+            "Arena volcánica oscura",
+            "Telón de fondo de acantilados lunares",
+            "Marina de Vlychada",
+            "Taberna To Psaraki",
+            "Aparcamiento gratuito"
+          ],
+          "amenitiesPt": [
+            "Areia vulcânica escura",
+            "Pano de fundo de falésias lunares",
+            "Marina de Vlychada",
+            "Taberna To Psaraki",
+            "Estacionamento gratuito"
+          ],
+          "tip": "KTEL bus from Fira to Vlychada (1.80 EUR, 20 min). Park at the marina, walk south along the bluff for 500 m to reach the wild wide stretch where dogs are most welcome. Lunch at To Psaraki on the pier.",
+          "tipFr": "Bus KTEL de Fira à Vlychada (1,80 €, 20 min). Garez-vous à la marina, marchez 500 m vers le sud le long de la falaise pour atteindre la large portion sauvage où les chiens sont les plus bienvenus. Déjeunez chez To Psaraki sur la jetée.",
+          "tipEs": "Bus KTEL de Fira a Vlychada (1,80 €, 20 min). Aparca en la marina, camina 500 m al sur por el acantilado para alcanzar el ancho tramo salvaje donde los perros son más bienvenidos. Almuerzo en To Psaraki en el muelle.",
+          "tipPt": "Autocarro KTEL de Fira a Vlychada (1,80 €, 20 min). Estaciona na marina, caminha 500 m para sul ao longo da falésia para alcançar o largo troço selvagem onde os cães são mais bem-vindos. Almoço no To Psaraki no molhe.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vlychada+beach+Santorini"
+        }
+      ],
+      "tipsEn": [
+        "Greek law (since 2020) requires municipalities to designate dog-beach zones; the Thira municipality has not yet officially signed one, but Vlychada's south end and Perissa's far north end function as dog beaches in practice off-season.",
+        "Volcanic black and red sand reaches 50–60 °C at noon, paw burns are a real risk. Walk on wet sand only between 11:00 and 17:00 in summer, dog boots are not a joke here.",
+        "Caldera-facing villages (Fira, Imerovigli, Oia) have no swimmable beach access at all, the cliffs drop 300 m vertically. All beach swimming is on the south and east coasts."
+      ],
+      "tipsFr": [
+        "Loi grecque (depuis 2020) : les communes doivent désigner des zones de plage canine ; la commune de Thira n'en a pas encore officialisé, mais l'extrémité sud de Vlychada et l'extrémité nord de Perissa fonctionnent en pratique comme plages canines hors-saison.",
+        "Le sable volcanique noir et rouge atteint 50-60 °C à midi, les brûlures de coussinets sont un risque réel. Marchez uniquement sur sable mouillé entre 11h et 17h en été, les bottines pour chien ne sont pas une blague ici.",
+        "Les villages face à la caldera (Fira, Imerovigli, Oia) n'ont aucun accès baignade, les falaises descendent verticalement de 300 m. Toute la baignade se fait sur les côtes sud et est."
+      ],
+      "tipsEs": [
+        "Ley griega (desde 2020): los municipios deben designar zonas de playa canina; el municipio de Thira aún no ha oficializado ninguna, pero el extremo sur de Vlychada y el extremo norte de Perissa funcionan en la práctica como playas caninas fuera de temporada.",
+        "La arena volcánica negra y roja alcanza 50-60 °C al mediodía, las quemaduras de almohadillas son un riesgo real. Camina solo sobre arena mojada entre 11:00 y 17:00 en verano, las botitas para perro no son una broma aquí.",
+        "Los pueblos frente a la caldera (Fira, Imerovigli, Oía) no tienen ningún acceso al baño, los acantilados caen verticalmente 300 m. Todo el baño se hace en las costas sur y este."
+      ],
+      "tipsPt": [
+        "Lei grega (a partir de 2020): os municípios devem designar zonas de praia canina; o município de Thira ainda não oficializou nenhuma, mas a extremidade sul de Vlychada e a extremidade norte de Perissa funcionam na prática como praias caninas fora de época.",
+        "A areia vulcânica preta e vermelha atinge 50-60 °C ao meio-dia, as queimaduras de almofadinhas são um risco real. Caminha só em areia molhada entre as 11:00 e as 17:00 no verão, as botas para cão não são piada aqui.",
+        "As aldeias em frente à caldera (Fira, Imerovigli, Oía) não têm nenhum acesso a banho, as falésias caem verticalmente 300 m. Todo o banho é nas costas sul e este."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Red Beach Akrotiri?",
+          "a": "Yes in principle, in practice it is hard. Access is a 5 min cliff scramble on loose volcanic rock, the beach is only 150 m long with no shade, falling rocks have closed the path repeatedly. Go at dawn off-season, skip July–August. Vlychada and southern Perissa are far better dog beach choices."
+        },
+        {
+          "q": "Are there official dog beaches on Santorini?",
+          "a": "Not officially signed yet by Thira municipality (as of 2026). In practice, the southern end of Vlychada (under the lunar bluffs) and the northern wild end of Perissa function as leashed dog beaches in season and off-leash off-season. No fenced dog-only beach exists."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à la Plage Rouge d'Akrotiri ?",
+          "a": "Oui en principe, en pratique c'est difficile. L'accès est une désescalade de falaise de 5 min sur roche volcanique meuble, la plage ne fait que 150 m sans ombre, des chutes de pierres ont fermé le sentier à plusieurs reprises. Allez à l'aube hors-saison, évitez juillet-août. Vlychada et le sud de Perissa sont des plages canines bien meilleures."
+        },
+        {
+          "q": "Y a-t-il des plages canines officielles à Santorin ?",
+          "a": "Pas encore officiellement signalées par la commune de Thira (en 2026). En pratique, l'extrémité sud de Vlychada (sous les falaises lunaires) et l'extrémité nord sauvage de Perissa fonctionnent comme plages canines en laisse en saison et sans laisse hors-saison. Pas de plage exclusivement canine clôturée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a la Playa Roja de Akrotiri?",
+          "a": "Sí en principio, en la práctica es difícil. El acceso es una escalada de acantilado de 5 min sobre roca volcánica suelta, la playa solo mide 150 m sin sombra, desprendimientos han cerrado el sendero repetidamente. Ve al amanecer fuera de temporada, evita julio-agosto. Vlychada y el sur de Perissa son playas caninas mucho mejores."
+        },
+        {
+          "q": "¿Hay playas caninas oficiales en Santorini?",
+          "a": "Aún no señalizadas oficialmente por el municipio de Thira (en 2026). En la práctica, el extremo sur de Vlychada (bajo los acantilados lunares) y el extremo norte salvaje de Perissa funcionan como playas caninas con correa en temporada y sin correa fuera de temporada. No hay playa exclusiva canina vallada."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão à Praia Vermelha de Akrotiri?",
+          "a": "Sim em princípio, na prática é difícil. O acesso é uma escalada de falésia de 5 min em rocha vulcânica solta, a praia só mede 150 m sem sombra, quedas de pedras fecharam o trilho repetidamente. Vai ao amanhecer fora de época, evita julho-agosto. Vlychada e o sul de Perissa são praias caninas muito melhores."
+        },
+        {
+          "q": "Há praias caninas oficiais em Santorini?",
+          "a": "Ainda não sinalizadas oficialmente pelo município de Thira (em 2026). Na prática, a extremidade sul de Vlychada (sob as falésias lunares) e a extremidade norte selvagem de Perissa funcionam como praias caninas com trela em época e sem trela fora de época. Não existe praia exclusivamente canina vedada."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets on Santorini, Veterinary Clinics & Pet Care",
+      "titleFr": "Vétérinaire d'urgence à Santorin, Cliniques et soins animaliers",
+      "titleEs": "Veterinario de urgencias en Santorini, Hospitales y clínicas veterinarias",
+      "titlePt": "Veterinário de urgências em Santorini, Hospitais e clínicas veterinárias",
+      "introEn": "Santorini's 15,000 year-round residents and ~2 million annual visitors are served by a handful of daytime veterinary clinics centred on the Fira-Mesaria-Megalochori belt. No 24/7 hospital exists on the island; for overnight ICU emergencies the nearest option is Heraklion (Crete) by Sea Jets catamaran (2h) or Athens by Aegean flight (45 min). The SAWA (Santorini Animal Welfare Association) network and the Thira municipal vet handle most after-hours referrals.",
+      "introFr": "Les 15 000 habitants annuels de Santorin et ses ~2 millions de visiteurs sont desservis par une poignée de cabinets vétérinaires de jour concentrés sur l'axe Fira-Mesaria-Megalochori. Aucun hôpital 24h/24 n'existe sur l'île ; pour les urgences nocturnes en soins intensifs, l'option la plus proche est Héraklion (Crète) en catamaran Sea Jets (2h) ou Athènes en vol Aegean (45 min). Le réseau SAWA (Santorini Animal Welfare Association) et le vétérinaire municipal de Thira gèrent la plupart des références hors heures.",
+      "introEs": "Los 15.000 residentes anuales de Santorini y sus ~2 millones de visitantes son atendidos por un puñado de clínicas veterinarias diurnas concentradas en el eje Fira-Mesaria-Megalochori. No existe un hospital 24/7 en la isla; para urgencias nocturnas en UCI, la opción más cercana es Heraklion (Creta) en catamarán Sea Jets (2h) o Atenas en vuelo Aegean (45 min). La red SAWA (Santorini Animal Welfare Association) y el veterinario municipal de Thira manejan la mayoría de las referencias fuera de horario.",
+      "introPt": "Os 15.000 residentes anuais de Santorini e os seus ~2 milhões de visitantes são atendidos por um punhado de clínicas veterinárias diurnas concentradas no eixo Fira-Mesaria-Megalochori. Não existe hospital 24/7 na ilha; para urgências nocturnas em UCI, a opção mais próxima é Heraklion (Creta) em catamarã Sea Jets (2h) ou Atenas em voo Aegean (45 min). A rede SAWA (Santorini Animal Welfare Association) e o veterinário municipal de Thira gerem a maioria das referências fora de horário.",
+      "places": [
+        {
+          "name": "Santorini Vet Clinic (Margarita Valvi)",
+          "address": "Mesaria, 84700 Santorini",
+          "photo": "/images/city-places/santorini-vets-santorini-vet.jpg",
+          "phone": "+30 22860 31482",
+          "emergency24h": false,
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "website": "https://santorinivet.com/",
+          "description": "The island's reference veterinary clinic in Mesaria (5 km southeast of Fira), founded in 1991 by veterinarian Margarita Valvi. Surgery, vaccinations, microchipping, pre-travel EU pet passports, dermatology, ultrasound. Bilingual EL/EN, frequently recommended by SAWA and by pet-friendly hotels across the island.",
+          "descriptionFr": "Le cabinet vétérinaire de référence de l'île à Mesaria (5 km au sud-est de Fira), fondé en 1991 par la vétérinaire Margarita Valvi. Chirurgie, vaccins, puçage, passeports européens, dermatologie, échographie. Bilingue EL/EN, fréquemment recommandé par SAWA et par les hôtels pet-friendly de l'île.",
+          "descriptionEs": "La clínica veterinaria de referencia de la isla en Mesaria (5 km al sureste de Fira), fundada en 1991 por la veterinaria Margarita Valvi. Cirugía, vacunas, microchip, pasaportes europeos, dermatología, ecografía. Bilingüe EL/EN, recomendada con frecuencia por SAWA y por los hoteles pet-friendly de la isla.",
+          "descriptionPt": "A clínica veterinária de referência da ilha em Mesaria (5 km a sudeste de Fira), fundada em 1991 pela veterinária Margarita Valvi. Cirurgia, vacinas, microchip, passaportes europeus, dermatologia, ecografia. Bilingue EL/EN, recomendada com frequência por SAWA e pelos hotéis pet-friendly da ilha.",
+          "openingHours": "Mon–Fri 10:00–14:00, 18:00–20:30; Sat 10:00–13:30",
+          "tip": "Visits by appointment; email santorinivet@gmail.com or WhatsApp +30 6977 003996 for fastest response. Greek vets close 14:00–18:00, plan accordingly. The clinic issues EU pet passports for travellers leaving Santorini by ferry or air.",
+          "tipFr": "Visites sur rendez-vous ; e-mail santorinivet@gmail.com ou WhatsApp +30 6977 003996 pour la réponse la plus rapide. Les vétérinaires grecs ferment 14h-18h, anticipez. Le cabinet délivre des passeports européens pour les voyageurs quittant Santorin en ferry ou en avion.",
+          "tipEs": "Visitas con cita; correo santorinivet@gmail.com o WhatsApp +30 6977 003996 para la respuesta más rápida. Los veterinarios griegos cierran 14:00-18:00, anticípate. La clínica emite pasaportes europeos para viajeros que dejan Santorini en ferry o avión.",
+          "tipPt": "Visitas com marcação; e-mail santorinivet@gmail.com ou WhatsApp +30 6977 003996 para resposta mais rápida. Os veterinários gregos fecham 14:00-18:00, antecipa. A clínica emite passaportes europeus para viajantes que deixam Santorini em ferry ou avião.",
+          "googleMapsUrl": "https://maps.google.com/?q=Santorini+Vet+Mesaria"
+        },
+        {
+          "name": "Veterinary Clinic Megalochori (Mavromichalis)",
+          "address": "Megalochori, 84700 Santorini",
+          "photo": "/images/city-places/santorini-vets-megalochori.jpg",
+          "phone": "+30 22860 85069",
+          "emergency24h": false,
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "website": "",
+          "description": "Daytime veterinary clinic in Megalochori village (10 km south of Fira on the Akrotiri road), serving the southern half of the island. Routine care, vaccinations, microchipping, minor surgery. Convenient for travellers staying in Pyrgos, Megalochori, Akrotiri or the south coast resorts (Perissa, Perivolos).",
+          "descriptionFr": "Cabinet vétérinaire de jour au village de Megalochori (10 km au sud de Fira sur la route d'Akrotiri), desservant la moitié sud de l'île. Soins courants, vaccins, puçage, petite chirurgie. Pratique pour les voyageurs logeant à Pyrgos, Megalochori, Akrotiri ou les stations de la côte sud (Perissa, Perivolos).",
+          "descriptionEs": "Clínica veterinaria diurna en el pueblo de Megalochori (10 km al sur de Fira en la carretera de Akrotiri), atendiendo la mitad sur de la isla. Atención rutinaria, vacunas, microchip, cirugía menor. Cómodo para viajeros que se alojan en Pyrgos, Megalochori, Akrotiri o los resorts de la costa sur (Perissa, Perivolos).",
+          "descriptionPt": "Clínica veterinária diurna na aldeia de Megalochori (10 km a sul de Fira na estrada de Akrotiri), a servir a metade sul da ilha. Cuidados de rotina, vacinas, microchip, pequena cirurgia. Conveniente para viajantes alojados em Pyrgos, Megalochori, Akrotiri ou nos resorts da costa sul (Perissa, Perivolos).",
+          "openingHours": "Mon–Fri 10:00–14:00, 18:00–20:30; Sat 10:00–13:30",
+          "tip": "Call ahead for non-vaccination visits, no fixed walk-in hours. Cash and card accepted. The closest vet to Akrotiri archaeological site if a beach incident occurs on Red Beach.",
+          "tipFr": "Appelez avant pour les visites hors vaccination, pas de plage sans rdv fixe. Espèces et carte acceptées. Le vétérinaire le plus proche du site archéologique d'Akrotiri en cas d'incident sur la Plage Rouge.",
+          "tipEs": "Llama antes para visitas que no sean de vacunación, sin franja sin cita fija. Efectivo y tarjeta admitidos. El veterinario más cercano al sitio arqueológico de Akrotiri si ocurre un incidente en la Playa Roja.",
+          "tipPt": "Liga antes para visitas que não sejam de vacinação, sem janela sem marcação fixa. Dinheiro e cartão aceites. O veterinário mais próximo do sítio arqueológico de Akrotiri se ocorrer um incidente na Praia Vermelha.",
+          "googleMapsUrl": "https://maps.google.com/?q=Veterinary+clinic+Megalochori+Santorini"
+        },
+        {
+          "name": "SAWA (Santorini Animal Welfare Association)",
+          "address": "Karterados, 84700 Santorini",
+          "photo": "/images/city-places/santorini-vets-sawa.jpg",
+          "phone": "+30 22860 31482",
+          "emergency24h": false,
+          "languages": [
+            "Greek",
+            "English",
+            "German"
+          ],
+          "website": "https://www.sawasantorini.com/",
+          "description": "Founded in 1992, SAWA is Santorini's long-standing animal welfare NGO, headquartered in Karterados (3 km south of Fira), working in cooperation with the Municipality of Thira and the contracted municipal vet. Stray rescue, neutering, vaccination, rehoming, and a referral network for visiting pet owners needing help out of hours.",
+          "descriptionFr": "Fondée en 1992, SAWA est l'ONG de protection animale historique de Santorin, basée à Karterados (3 km au sud de Fira), travaillant en coopération avec la commune de Thira et le vétérinaire municipal sous contrat. Sauvetage d'errants, stérilisations, vaccins, replacement, et réseau de référence pour les voyageurs avec animaux ayant besoin d'aide hors heures.",
+          "descriptionEs": "Fundada en 1992, SAWA es la ONG histórica de bienestar animal de Santorini, con sede en Karterados (3 km al sur de Fira), trabajando en cooperación con el municipio de Thira y el veterinario municipal contratado. Rescate de callejeros, esterilizaciones, vacunas, recolocación, y red de referencia para viajeros con animales que necesitan ayuda fuera de horario.",
+          "descriptionPt": "Fundada em 1992, SAWA é a ONG histórica de bem-estar animal de Santorini, com sede em Karterados (3 km a sul de Fira), a trabalhar em cooperação com o município de Thira e o veterinário municipal contratado. Resgate de errantes, esterilizações, vacinas, recolocação, e rede de referência para viajantes com animais que precisam de ajuda fora de horário.",
+          "openingHours": "Mon–Fri 09:00–13:00 (volunteer-run, check website)",
+          "tip": "Email through sawasantorini.com to request an out-of-hours vet referral or a recommended pet-sitter. SAWA coordinates with the municipal vet for after-hours emergencies. A small donation to support stray rescue is the standard thank-you.",
+          "tipFr": "Écrivez via sawasantorini.com pour demander une référence vétérinaire hors heures ou un pet-sitter recommandé. SAWA coordonne avec le vétérinaire municipal pour les urgences hors heures. Un petit don au sauvetage d'errants est le remerciement standard.",
+          "tipEs": "Escribe a través de sawasantorini.com para pedir una referencia veterinaria fuera de horario o un pet-sitter recomendado. SAWA coordina con el veterinario municipal para urgencias fuera de horario. Una pequeña donación al rescate de callejeros es el agradecimiento estándar.",
+          "tipPt": "Escreve através de sawasantorini.com para pedir uma referência veterinária fora de horário ou um pet-sitter recomendado. A SAWA coordena com o veterinário municipal para urgências fora de horário. Uma pequena doação ao resgate de errantes é o agradecimento padrão.",
+          "googleMapsUrl": "https://maps.google.com/?q=SAWA+Karterados+Santorini"
+        }
+      ],
+      "tipsEn": [
+        "Greece requires an EU pet passport (or AHC) plus microchip and rabies vaccination at least 21 days old for cross-border travel; essential when leaving Santorini by ferry to Italy or flying to non-EU.",
+        "Leishmaniasis is endemic in the Cyclades, annual blood test recommended for visiting dogs from non-endemic areas; year-round repellent collars and spot-on essential.",
+        "For overnight ICU emergencies, the nearest 24h vet hospital is Heraklion on Crete (2h Sea Jets catamaran from Athinios) or Athens (45 min Aegean flight from JTR)."
+      ],
+      "tipsFr": [
+        "La Grèce exige un passeport européen (ou AHC) + puce + vaccin rage au moins 21 jours pour les voyages transfrontaliers ; essentiel pour quitter Santorin en ferry vers l'Italie ou en vol vers hors-UE.",
+        "La leishmaniose est endémique dans les Cyclades, test sanguin annuel recommandé pour les chiens visiteurs venant de zones non endémiques ; colliers répulsifs et pipettes spot-on indispensables toute l'année.",
+        "Pour les urgences nocturnes en soins intensifs, l'hôpital vétérinaire 24h le plus proche est Héraklion en Crète (2h en catamaran Sea Jets depuis Athinios) ou Athènes (45 min en vol Aegean depuis JTR)."
+      ],
+      "tipsEs": [
+        "Grecia exige pasaporte europeo (o AHC) + microchip + vacuna rabia al menos 21 días para viajes transfronterizos; esencial al dejar Santorini en ferry hacia Italia o vuelo fuera de la UE.",
+        "La leishmaniosis es endémica en las Cícladas, análisis de sangre anual recomendado para perros visitantes de zonas no endémicas; collares repelentes y pipetas spot-on imprescindibles todo el año.",
+        "Para urgencias nocturnas en UCI, el hospital veterinario 24h más cercano es Heraklion en Creta (2h en catamarán Sea Jets desde Athinios) o Atenas (45 min en vuelo Aegean desde JTR)."
+      ],
+      "tipsPt": [
+        "A Grécia exige um passaporte europeu (ou AHC) + microchip + vacina antirrábica com pelo menos 21 dias para viagens transfronteiriças; essencial ao deixar Santorini em ferry para Itália ou voo para fora da UE.",
+        "A leishmaniose é endémica nas Cíclades, análise de sangue anual recomendada para cães visitantes vindos de zonas não endémicas; coleiras repelentes e pipetas spot-on indispensáveis o ano inteiro.",
+        "Para urgências nocturnas em UCI, o hospital veterinário 24h mais próximo é Heraklion em Creta (2h em catamarã Sea Jets de Athinios) ou Atenas (45 min em voo Aegean de JTR)."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet on Santorini?",
+          "a": "No permanent 24h hospital exists on the island. Daytime clinics (Santorini Vet in Mesaria, Megalochori clinic) handle most needs; SAWA coordinates with the municipal vet as the de facto out-of-hours contact through sawasantorini.com. For overnight ICU, the nearest hospitals are Heraklion (Crete, 2h Sea Jets) or Athens (45 min Aegean flight)."
+        },
+        {
+          "q": "How much does a vet visit cost on Santorini?",
+          "a": "Greek vet fees are among Europe's most affordable: routine consultation 30–50 EUR, emergency visit 70–120 EUR plus diagnostics. Major surgeries 450–1600 EUR. EU pet insurance accepted at the listed clinics."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Santorin ?",
+          "a": "Pas d'hôpital permanent 24h sur l'île. Les cabinets de jour (Santorini Vet à Mesaria, cabinet de Megalochori) couvrent l'essentiel ; SAWA coordonne avec le vétérinaire municipal comme contact de facto hors heures via sawasantorini.com. Pour les urgences nocturnes en soins intensifs, les hôpitaux les plus proches sont Héraklion (Crète, 2h Sea Jets) ou Athènes (45 min vol Aegean)."
+        },
+        {
+          "q": "Combien coûte une visite vétérinaire à Santorin ?",
+          "a": "Les tarifs vétérinaires grecs sont parmi les plus abordables d'Europe : consultation classique 30-50 €, urgence 70-120 € + diagnostic. Chirurgies majeures 450-1600 €. Assurances animales européennes acceptées dans les cliniques listées."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario 24h en Santorini?",
+          "a": "No hay un hospital permanente 24h en la isla. Las clínicas diurnas (Santorini Vet en Mesaria, clínica de Megalochori) cubren la mayoría de necesidades; SAWA coordina con el veterinario municipal como contacto de facto fuera de horario vía sawasantorini.com. Para urgencias nocturnas en UCI, los hospitales más cercanos son Heraklion (Creta, 2h Sea Jets) o Atenas (45 min vuelo Aegean)."
+        },
+        {
+          "q": "¿Cuánto cuesta una visita veterinaria en Santorini?",
+          "a": "Las tarifas veterinarias griegas están entre las más asequibles de Europa: consulta rutinaria 30-50 €, urgencia 70-120 € + diagnósticos. Cirugías mayores 450-1600 €. Seguros de mascotas de la UE aceptados en las clínicas listadas."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há veterinário 24h em Santorini?",
+          "a": "Não há hospital permanente 24h na ilha. As clínicas diurnas (Santorini Vet em Mesaria, clínica de Megalochori) cobrem a maioria das necessidades; a SAWA coordena com o veterinário municipal como contacto de facto fora de horário via sawasantorini.com. Para urgências nocturnas em UCI, os hospitais mais próximos são Heraklion (Creta, 2h Sea Jets) ou Atenas (45 min voo Aegean)."
+        },
+        {
+          "q": "Quanto custa uma visita veterinária em Santorini?",
+          "a": "As taxas veterinárias gregas estão entre as mais acessíveis da Europa: consulta de rotina 30-50 €, urgência 70-120 € + diagnósticos. Cirurgias maiores 450-1600 €. Seguros de animais da UE aceites nas clínicas listadas."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Travel Tips for Santorini with Your Dog",
+      "titleFr": "Conseils de voyage à Santorin avec votre chien",
+      "titleEs": "Consejos de viaje a Santorini con tu perro",
+      "titlePt": "Conselhos de viagem a Santorini com o seu cão",
+      "introEn": "Santorini is one of the hardest Greek islands to do well with a dog: caldera villages are saturated by 50k+ tourists/day in summer, asphalt and volcanic sand hit 50–60 °C, hotels often charge 20–40 EUR/night pet supplement, and JTR airport cabin pet slots are tight. Done right (shoulder season, inland villages, south-coast beaches, early mornings) it remains a unique experience: volcanic caldera, Cycladic villages, Minoan archaeology and PDO wines on a 76 km² island.",
+      "introFr": "Santorin est l'une des îles grecques les plus difficiles à bien faire avec un chien : les villages de la caldera sont saturés par 50 000+ touristes/jour en été, l'asphalte et les cendres volcaniques atteignent 50-60 °C, les hôtels facturent souvent 20-40 €/nuit de supplément animal, et les places cabine animaux JTR sont serrées. Bien fait (basse saison, villages de l'intérieur, plages côte sud, tôt le matin), cela reste une expérience unique : caldera volcanique, villages cycladiques, archéologie minoenne et vins PDO sur une île de 76 km².",
+      "introEs": "Santorini es una de las islas griegas más difíciles de hacer bien con perro: los pueblos de la caldera están saturados con 50.000+ turistas/día en verano, el asfalto y las cenizas volcánicas alcanzan 50-60 °C, los hoteles a menudo cobran 20-40 €/noche de suplemento mascota, y las plazas cabina mascota JTR están justas. Bien hecho (temporada baja, pueblos del interior, playas costa sur, temprano por la mañana), sigue siendo una experiencia única: caldera volcánica, pueblos cicládicos, arqueología minoica y vinos PDO en una isla de 76 km².",
+      "introPt": "Santorini é uma das ilhas gregas mais difíceis de fazer bem com cão: as aldeias da caldera estão saturadas com 50.000+ turistas/dia no verão, o asfalto e as cinzas vulcânicas atingem 50-60 °C, os hotéis frequentemente cobram 20-40 €/noite de suplemento animal, e os lugares cabine animal JTR estão apertados. Bem feito (época baixa, aldeias do interior, praias costa sul, cedo de manhã), continua a ser uma experiência única: caldera vulcânica, aldeias cicládicas, arqueologia minóica e vinhos PDO numa ilha de 76 km².",
+      "places": [
+        {
+          "name": "Best season",
+          "photo": "/images/city-places/santorini-tips-best-season.jpg",
+          "description": "April–May and October are ideal: 18–24 °C, dry, sea swimmable from late May, dog-tolerant beaches uncrowded, caldera villages breathing again. Avoid July–August absolutely (30–35 °C, 50k+ daily tourists, asphalt 60 °C, dogs banned from most caldera-edge restaurants). November–March is mild but many tavernas and hotels close.",
+          "descriptionFr": "Avril-mai et octobre sont idéaux : 18-24 °C, sec, mer baignable dès fin mai, plages tolérantes aux chiens peu fréquentées, villages de la caldera qui respirent à nouveau. Évitez absolument juillet-août (30-35 °C, 50 000+ touristes par jour, asphalte 60 °C, chiens interdits dans la plupart des restaurants bord caldera). Novembre-mars est doux mais beaucoup de tavernes et hôtels ferment.",
+          "descriptionEs": "Abril-mayo y octubre son ideales: 18-24 °C, seco, mar bañable desde finales de mayo, playas tolerantes con perros poco concurridas, pueblos de la caldera que respiran de nuevo. Evita absolutamente julio-agosto (30-35 °C, 50.000+ turistas diarios, asfalto 60 °C, perros prohibidos en la mayoría de restaurantes al borde de la caldera). Noviembre-marzo es suave pero muchas tabernas y hoteles cierran.",
+          "descriptionPt": "Abril-maio e outubro são ideais: 18-24 °C, seco, mar a temperatura de banho desde finais de maio, praias tolerantes a cães pouco concorridas, aldeias da caldera a respirar de novo. Evita absolutamente julho-agosto (30-35 °C, 50.000+ turistas diários, asfalto 60 °C, cães proibidos na maioria dos restaurantes à beira da caldera). Novembro-março é ameno mas muitas tabernas e hotéis fecham."
+        },
+        {
+          "name": "Akrotiri Minoan archaeological site",
+          "photo": "/images/city-places/santorini-tips-akrotiri.jpg",
+          "description": "The Bronze Age Minoan town of Akrotiri buried under volcanic ash by the 1620 BC eruption, the 'Cycladic Pompeii', preserved under a protective roof since 2012. The covered exhibition interior bans dogs but the outdoor approach paths, the Red Beach cliff above and the nearby cliffs are all dog-accessible. KTEL bus from Fira (1.80 EUR, 25 min).",
+          "descriptionFr": "La ville minoenne de l'âge du bronze d'Akrotiri ensevelie sous les cendres volcaniques par l'éruption de 1620 av. J.-C., la « Pompéi cycladique », préservée sous un toit protecteur depuis 2012. L'intérieur couvert de l'exposition interdit les chiens mais les sentiers d'approche extérieurs, la falaise de la Plage Rouge au-dessus et les falaises voisines sont tous accessibles. Bus KTEL depuis Fira (1,80 €, 25 min).",
+          "descriptionEs": "La ciudad minoica de la Edad de Bronce de Akrotiri enterrada bajo las cenizas volcánicas por la erupción de 1620 a.C., la «Pompeya cicládica», preservada bajo un techo protector desde 2012. El interior cubierto de la exposición prohíbe perros pero los senderos de aproximación exteriores, el acantilado de la Playa Roja arriba y los acantilados cercanos son todos accesibles. Bus KTEL desde Fira (1,80 €, 25 min).",
+          "descriptionPt": "A cidade minóica da Idade do Bronze de Akrotiri enterrada sob as cinzas vulcânicas pela erupção de 1620 a.C., a «Pompeia cicládica», preservada sob um telhado protetor desde 2012. O interior coberto da exposição proíbe cães mas os trilhos de aproximação exteriores, a falésia da Praia Vermelha acima e as falésias vizinhas são todos acessíveis. Autocarro KTEL de Fira (1,80 €, 25 min)."
+        },
+        {
+          "name": "Currency & cost",
+          "photo": "/images/city-places/santorini-tips-currency-cost.jpg",
+          "description": "Greece uses the euro. Santorini is the most expensive Greek island (above Mykonos in some categories): meal 25–45 EUR, caldera-view dinner 60–110 EUR/person, mid-range pet-friendly hotel 180–350 EUR/night plus 20-40 EUR pet supplement, taxi airport to centre 20–25 EUR fixed. Pet ferry cabin Piraeus 30–50 EUR supplement, Aegean cabin pet 50 EUR per leg.",
+          "descriptionFr": "La Grèce utilise l'euro. Santorin est l'île grecque la plus chère (au-dessus de Mykonos sur certaines lignes) : repas 25-45 €, dîner vue caldera 60-110 €/personne, hôtel pet-friendly milieu de gamme 180-350 €/nuit plus supplément animal 20-40 €, taxi aéroport-centre 20-25 € forfaitaire. Cabine animaux ferry Pirée 30-50 € de supplément, cabine animaux Aegean 50 € par segment.",
+          "descriptionEs": "Grecia usa el euro. Santorini es la isla griega más cara (por encima de Mykonos en algunas categorías): comida 25-45 €, cena con vista a la caldera 60-110 €/persona, hotel pet-friendly de gama media 180-350 €/noche más suplemento mascota 20-40 €, taxi aeropuerto-centro 20-25 € fijo. Camarote mascota ferry Pireo 30-50 € de suplemento, cabina mascota Aegean 50 € por trayecto.",
+          "descriptionPt": "A Grécia usa o euro. Santorini é a ilha grega mais cara (acima de Mykonos em algumas categorias): refeição 25-45 €, jantar com vista caldera 60-110 €/pessoa, hotel pet-friendly de gama média 180-350 €/noite mais suplemento animal 20-40 €, táxi aeroporto-centro 20-25 € fixo. Camarote animal ferry Pireu 30-50 € de suplemento, cabine animal Aegean 50 € por trecho."
+        }
+      ],
+      "tipsEn": [
+        "Fira is the central hub and the KTEL bus network's centre; most pet-friendly hotels and rentals work better in the inland villages (Pyrgos, Megalochori, Karterados, Mesaria) than on the caldera edge.",
+        "Greek dinner times are late (21:00–23:00); aperitivo at 19:00 on a Pyrgos terrace is the dog-friendly alternative before crowds peak.",
+        "Always carry 2 L water per dog and a folding bowl, fountains are rare on the island; refill at any taverna for free."
+      ],
+      "tipsFr": [
+        "Fira est le hub central et le centre du réseau KTEL ; la plupart des hôtels et locations pet-friendly fonctionnent mieux dans les villages de l'intérieur (Pyrgos, Megalochori, Karterados, Mesaria) que sur le bord de la caldera.",
+        "Les horaires de dîner grecs sont tardifs (21h-23h) ; aperitivo à 19h sur une terrasse de Pyrgos est l'alternative dog-friendly avant le pic de foule.",
+        "Apportez toujours 2 L d'eau par chien et une gamelle pliable, les fontaines sont rares sur l'île ; remplissez gratuitement à toute taverne."
+      ],
+      "tipsEs": [
+        "Fira es el hub central y el centro de la red KTEL; la mayoría de los hoteles y alquileres pet-friendly funcionan mejor en los pueblos del interior (Pyrgos, Megalochori, Karterados, Mesaria) que al borde de la caldera.",
+        "Los horarios de cena griegos son tardíos (21:00-23:00); aperitivo a las 19:00 en una terraza de Pyrgos es la alternativa pet-friendly antes del pico de gente.",
+        "Lleva siempre 2 L de agua por perro y un cuenco plegable, las fuentes son raras en la isla; rellena gratis en cualquier taberna."
+      ],
+      "tipsPt": [
+        "Fira é o hub central e o centro da rede KTEL; a maioria dos hotéis e alugueres pet-friendly funcionam melhor nas aldeias do interior (Pyrgos, Megalochori, Karterados, Mesaria) do que à beira da caldera.",
+        "Os horários de jantar gregos são tardios (21:00-23:00); aperitivo às 19:00 numa esplanada de Pyrgos é a alternativa pet-friendly antes do pico de gente.",
+        "Leva sempre 2 L de água por cão e uma tigela dobrável, as fontes são raras na ilha; reabastece gratuitamente em qualquer taberna."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Santorini dog-friendly overall?",
+          "a": "Mixed. Not a budget pet destination: hotels charge 20-40 EUR/night pet supplement, caldera restaurants often refuse dogs in summer, asphalt and volcanic sand hit 50-60 °C, and no fenced dog park exists. But the inland villages (Pyrgos, Megalochori), the south-coast beaches (Vlychada), the caldera hiking path off-peak, and the Akrotiri archaeology are all dog-accessible. Shoulder season is non-negotiable."
+        },
+        {
+          "q": "Can I do a day trip to the Nea Kameni volcano or wineries with my dog?",
+          "a": "Volcano boat tours land on Nea Kameni where dogs are not allowed ashore (active volcanic crater, sulphurous gases). Wine tastings: most Santo Wines, Venetsanos and Estate Argyros tasting rooms ban dogs inside; book a terrace tasting where possible, or use SAWA's pet-sitter network for the day."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Santorin est-elle dog-friendly globalement ?",
+          "a": "Mitigé. Pas une destination animaux à petit budget : les hôtels facturent 20-40 €/nuit de supplément animal, les restaurants caldera refusent souvent les chiens en été, l'asphalte et les cendres volcaniques atteignent 50-60 °C, et aucun parc canin clôturé n'existe. Mais les villages de l'intérieur (Pyrgos, Megalochori), les plages de la côte sud (Vlychada), le sentier de randonnée caldera hors-pic, et l'archéologie d'Akrotiri sont tous accessibles. La basse saison est non négociable."
+        },
+        {
+          "q": "Puis-je faire une excursion au volcan Nea Kameni ou aux caves avec mon chien ?",
+          "a": "Les tours en bateau au volcan débarquent sur Nea Kameni où les chiens ne sont pas admis à terre (cratère volcanique actif, gaz sulfureux). Dégustations de vin : la plupart des salles de Santo Wines, Venetsanos et Estate Argyros interdisent les chiens en salle ; réservez une dégustation en terrasse si possible, ou utilisez le réseau pet-sitter de SAWA pour la journée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Santorini pet-friendly en general?",
+          "a": "Mixto. No es un destino de mascotas de bajo presupuesto: los hoteles cobran 20-40 €/noche de suplemento mascota, los restaurantes de la caldera a menudo rechazan perros en verano, el asfalto y las cenizas volcánicas alcanzan 50-60 °C, y no existe parque canino vallado. Pero los pueblos del interior (Pyrgos, Megalochori), las playas de la costa sur (Vlychada), el sendero de senderismo caldera fuera de pico, y la arqueología de Akrotiri son todos accesibles. La temporada baja es innegociable."
+        },
+        {
+          "q": "¿Puedo hacer una excursión al volcán Nea Kameni o a bodegas con mi perro?",
+          "a": "Los tours en barco al volcán desembarcan en Nea Kameni donde no se admiten perros en tierra (cráter volcánico activo, gases sulfurosos). Catas de vino: la mayoría de salas de Santo Wines, Venetsanos y Estate Argyros prohíben perros en sala; reserva una cata en terraza si es posible, o usa la red pet-sitter de SAWA para el día."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "É Santorini pet-friendly no geral?",
+          "a": "Misto. Não é um destino animal de baixo orçamento: os hotéis cobram 20-40 €/noite de suplemento animal, os restaurantes da caldera frequentemente recusam cães no verão, o asfalto e as cinzas vulcânicas atingem 50-60 °C, e não existe parque canino vedado. Mas as aldeias do interior (Pyrgos, Megalochori), as praias da costa sul (Vlychada), o trilho de caminhada caldera fora de pico, e a arqueologia de Akrotiri são todos acessíveis. A época baixa é inegociável."
+        },
+        {
+          "q": "Posso fazer uma excursão ao vulcão Nea Kameni ou às adegas com o meu cão?",
+          "a": "Os tours de barco ao vulcão desembarcam em Nea Kameni onde não se admitem cães em terra (cratera vulcânica activa, gases sulfurosos). Provas de vinho: a maioria das salas de Santo Wines, Venetsanos e Estate Argyros proíbem cães na sala; reserva uma prova em esplanada se possível, ou usa a rede pet-sitter da SAWA para o dia."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Top Pet-Friendly Attractions on Santorini, Oia, Pyrgos, Akrotiri & Ancient Thera",
+      "titleFr": "Meilleures attractions pet-friendly à Santorin, Oia, Pyrgos, Akrotiri et Ancienne Théra",
+      "titleEs": "Mejores atracciones pet-friendly en Santorini, Oía, Pyrgos, Akrotiri y Antigua Tera",
+      "titlePt": "Melhores atracções pet-friendly em Santorini, Oía, Pyrgos, Akrotiri e Antiga Tera",
+      "introEn": "Santorini's sights are best done as an outdoor village-and-archaeology walk on leashed dog terms. Oia for the sunset (off-peak only), Pyrgos hilltop for the panoramic Kasteli, Megalochori for the wine-village atmosphere, Akrotiri Minoan site for the Bronze Age frescoes (interior bans dogs, outdoor approach is open), and Ancient Thera on Mesa Vouno's rocky spur 369 m above Kamari for the ruined Hellenistic city. All village exteriors and outdoor archaeology paths are dog-accessible.",
+      "introFr": "Les sites de Santorin se font au mieux en promenade extérieure villages-archéologie avec un chien en laisse. Oia pour le coucher du soleil (hors-pic seulement), Pyrgos perché pour le Kasteli panoramique, Megalochori pour l'atmosphère de village vigneron, le site minoen d'Akrotiri pour les fresques de l'âge du bronze (intérieur interdit aux chiens, approche extérieure ouverte), et l'Ancienne Théra sur l'éperon rocheux de Mesa Vouno à 369 m au-dessus de Kamari pour la cité hellénistique en ruines. Tous les extérieurs villageois et sentiers archéologiques extérieurs sont accessibles aux chiens.",
+      "introEs": "Los sitios de Santorini se hacen mejor como paseo exterior pueblos-arqueología con perro con correa. Oía para el atardecer (solo fuera de pico), Pyrgos en lo alto para el Kasteli panorámico, Megalochori para el ambiente de pueblo vinatero, el sitio minoico de Akrotiri para los frescos de la Edad de Bronce (interior prohibido a perros, aproximación exterior abierta), y la Antigua Tera en el espolón rocoso de Mesa Vouno a 369 m sobre Kamari para la ciudad helenística en ruinas. Todos los exteriores de pueblo y senderos arqueológicos exteriores son accesibles a perros.",
+      "introPt": "Os sítios de Santorini fazem-se melhor como passeio exterior aldeias-arqueologia com cão com trela. Oía para o pôr do sol (só fora de pico), Pyrgos no alto para o Kasteli panorâmico, Megalochori para a atmosfera de aldeia vinhateira, o sítio minóico de Akrotiri para os frescos da Idade do Bronze (interior proibido a cães, aproximação exterior aberta), e a Antiga Tera no esporão rochoso de Mesa Vouno a 369 m acima de Kamari para a cidade helenística em ruínas. Todos os exteriores de aldeia e trilhos arqueológicos exteriores são acessíveis a cães.",
+      "places": [
+        {
+          "name": "Oia Village & Sunset",
+          "address": "Oia, 84702 Santorini",
+          "photo": "/images/city-places/santorini-attractions-oia.jpg",
+          "petFriendly": true,
+          "description": "The whitewashed cliff-top village at the northern tip of Santorini, 11 km from Fira, with the iconic blue-domed Anastasi and Agios Spyridon churches and the ruined Byzantine castle (Kasteli Agiou Nikolaou) as the most photographed sunset point in Greece. Pedestrian-only marble lanes, leashed dogs on the open paths and at most café terraces off-peak.",
+          "descriptionFr": "Village blanchi en sommet de falaise à la pointe nord de Santorin, à 11 km de Fira, avec les iconiques églises à coupole bleue Anastasi et Agios Spyridon et les ruines du château byzantin (Kasteli Agiou Nikolaou) comme point de coucher de soleil le plus photographié de Grèce. Ruelles de marbre piétonnes uniquement, chiens en laisse sur les sentiers ouverts et à la plupart des terrasses de café hors-pic.",
+          "descriptionEs": "Pueblo encalado en lo alto del acantilado en la punta norte de Santorini, a 11 km de Fira, con las icónicas iglesias de cúpula azul Anastasi y Agios Spyridon y las ruinas del castillo bizantino (Kasteli Agiou Nikolaou) como el punto de atardecer más fotografiado de Grecia. Callejuelas de mármol solo peatonales, perros con correa en los senderos abiertos y en la mayoría de las terrazas de café fuera de pico.",
+          "descriptionPt": "Aldeia caiada no topo da falésia na ponta norte de Santorini, a 11 km de Fira, com as icónicas igrejas de cúpula azul Anastasi e Agios Spyridon e as ruínas do castelo bizantino (Kasteli Agiou Nikolaou) como o ponto de pôr do sol mais fotografado da Grécia. Viélas de mármore apenas pedonais, cães com trela nos trilhos abertos e na maioria das esplanadas de café fora de pico.",
+          "petPolicy": "Open pedestrian village; dogs welcome on most café terraces off-peak; high season (Jul–Aug) crowds make dog visits impractical at sunset",
+          "petPolicyFr": "Village piéton ouvert ; chiens admis sur la plupart des terrasses de café hors-pic ; la foule en haute saison (juillet-août) rend les visites canines impraticables au coucher du soleil",
+          "petPolicyEs": "Pueblo peatonal abierto; perros admitidos en la mayoría de las terrazas de café fuera de pico; la multitud en alta temporada (julio-agosto) hace impracticables las visitas con perro al atardecer",
+          "petPolicyPt": "Aldeia pedonal aberta; cães admitidos na maioria das esplanadas de café fora de pico; a multidão em alta época (julho-agosto) torna impraticáveis as visitas com cão ao pôr do sol",
+          "openingHours": "Open 24/7",
+          "tip": "KTEL bus Fira-Oia (1.80 EUR, 25 min, dogs in carrier free). Visit at sunrise (06:00-08:00) or in shoulder season for the photo without the 5 000 person sunset crush. The Ammoudi Bay 235 step descent below Oia is dog-accessible but steep.",
+          "tipFr": "Bus KTEL Fira-Oia (1,80 €, 25 min, chiens en sac gratuits). Visitez au lever du soleil (6h-8h) ou en basse saison pour la photo sans la cohue de 5 000 personnes au coucher. La descente de 235 marches vers la baie d'Ammoudi sous Oia est accessible aux chiens mais raide.",
+          "tipEs": "Bus KTEL Fira-Oía (1,80 €, 25 min, perros en transportín gratis). Visita al amanecer (06:00-08:00) o en temporada baja para la foto sin la aglomeración de 5.000 personas del atardecer. La bajada de 235 escalones a la bahía de Ammoudi bajo Oía es accesible a perros pero empinada.",
+          "tipPt": "Autocarro KTEL Fira-Oía (1,80 €, 25 min, cães em transportadora grátis). Visita ao amanhecer (06:00-08:00) ou em época baixa para a foto sem o aperto de 5.000 pessoas do pôr do sol. A descida de 235 degraus para a baía de Ammoudi sob Oía é acessível a cães mas íngreme.",
+          "googleMapsUrl": "https://maps.google.com/?q=Oia+Santorini"
+        },
+        {
+          "name": "Akrotiri Archaeological Site",
+          "address": "Akrotiri, 84700 Santorini",
+          "photo": "/images/city-places/santorini-attractions-akrotiri.jpg",
+          "petFriendly": false,
+          "description": "Bronze Age Minoan town buried by the catastrophic 1620 BC Thera eruption, preserved nearly intact under volcanic ash for 3,600 years, now sheltered under a 14,000 m² protective bioclimatic roof. Multi-storey houses, frescoes, drainage and pottery in situ. The 'Cycladic Pompeii', one of the most important Aegean Bronze Age sites.",
+          "descriptionFr": "Ville minoenne de l'âge du bronze ensevelie par l'éruption catastrophique de Théra en 1620 av. J.-C., préservée presque intacte sous les cendres volcaniques pendant 3 600 ans, désormais abritée sous un toit bioclimatique protecteur de 14 000 m². Maisons à étages, fresques, drainage et poteries in situ. La « Pompéi cycladique », l'un des sites les plus importants de l'âge du bronze égéen.",
+          "descriptionEs": "Ciudad minoica de la Edad de Bronce enterrada por la erupción catastrófica de Tera en 1620 a.C., preservada casi intacta bajo las cenizas volcánicas durante 3.600 años, ahora albergada bajo un techo bioclimático protector de 14.000 m². Casas de varias plantas, frescos, drenaje y cerámica in situ. La «Pompeya cicládica», uno de los sitios más importantes de la Edad de Bronce egea.",
+          "descriptionPt": "Cidade minóica da Idade do Bronze enterrada pela erupção catastrófica de Tera em 1620 a.C., preservada quase intacta sob as cinzas vulcânicas durante 3.600 anos, agora abrigada sob um telhado bioclimático protetor de 14.000 m². Casas de vários andares, frescos, drenagem e cerâmica in situ. A «Pompeia cicládica», um dos sítios mais importantes da Idade do Bronze egeia.",
+          "petPolicy": "No dogs inside the covered exhibition; outdoor approach paths and surrounding cliffs (Red Beach, Mesa Pigadia) are dog-accessible",
+          "petPolicyFr": "Chiens interdits dans l'exposition couverte ; sentiers d'approche extérieurs et falaises environnantes (Plage Rouge, Mesa Pigadia) accessibles aux chiens",
+          "petPolicyEs": "Sin perros en la exposición cubierta; senderos de aproximación exteriores y acantilados circundantes (Playa Roja, Mesa Pigadia) accesibles a perros",
+          "petPolicyPt": "Sem cães na exposição coberta; trilhos de aproximação exteriores e falésias circundantes (Praia Vermelha, Mesa Pigadia) acessíveis a cães",
+          "openingHours": "Tue–Sun 08:30–15:30 winter, 08:00–20:00 summer; closed Mon",
+          "tip": "Entry 12 EUR (dog free, but covered exhibition off-limits). The site is enormous covered, plan 1h30 for the visit, ideally with one adult walking the dog outside while another visits. Pair with Red Beach (1 km) and lunch in Akrotiri village.",
+          "tipFr": "Entrée 12 € (chien gratuit, mais exposition couverte interdite). Le site couvert est immense, prévoyez 1h30 pour la visite, idéalement avec un adulte qui promène le chien dehors pendant que l'autre visite. À combiner avec la Plage Rouge (1 km) et un déjeuner dans le village d'Akrotiri.",
+          "tipEs": "Entrada 12 € (perro gratis, pero exposición cubierta prohibida). El sitio cubierto es enorme, prevé 1h30 para la visita, idealmente con un adulto paseando al perro fuera mientras el otro visita. Combina con la Playa Roja (1 km) y almuerzo en el pueblo de Akrotiri.",
+          "tipPt": "Entrada 12 € (cão grátis, mas exposição coberta proibida). O sítio coberto é enorme, prevê 1h30 para a visita, idealmente com um adulto a passear o cão lá fora enquanto o outro visita. Combina com a Praia Vermelha (1 km) e almoço na aldeia de Akrotiri.",
+          "googleMapsUrl": "https://maps.google.com/?q=Akrotiri+archaeological+site+Santorini"
+        },
+        {
+          "name": "Ancient Thera (Mesa Vouno)",
+          "address": "Mesa Vouno, 84703 Santorini",
+          "photo": "/images/city-places/santorini-attractions-ancient-thera.jpg",
+          "petFriendly": true,
+          "description": "Hellenistic, Roman and Byzantine ruined city on the rocky Mesa Vouno spur 369 m above Kamari beach, founded by Spartans in the 9th century BC. Open-air archaeological site with the agora, theatre, basilica and temples, reached by a 4 km zigzag dirt road or a steep footpath from Kamari. Full panorama over the south-east coast.",
+          "descriptionFr": "Cité hellénistique, romaine et byzantine en ruines sur l'éperon rocheux de Mesa Vouno à 369 m au-dessus de la plage de Kamari, fondée par les Spartiates au IXe siècle av. J.-C. Site archéologique en plein air avec l'agora, le théâtre, la basilique et les temples, accessible par une route de terre en zigzag de 4 km ou un sentier raide depuis Kamari. Panorama complet sur la côte sud-est.",
+          "descriptionEs": "Ciudad helenística, romana y bizantina en ruinas sobre el espolón rocoso de Mesa Vouno a 369 m sobre la playa de Kamari, fundada por espartanos en el siglo IX a.C. Sitio arqueológico al aire libre con el ágora, el teatro, la basílica y los templos, accesible por una pista de tierra en zigzag de 4 km o un sendero empinado desde Kamari. Panorama completo sobre la costa sureste.",
+          "descriptionPt": "Cidade helenística, romana e bizantina em ruínas sobre o esporão rochoso de Mesa Vouno a 369 m sobre a praia de Kamari, fundada por espartanos no século IX a.C. Sítio arqueológico ao ar livre com a ágora, o teatro, a basílica e os templos, acessível por uma pista de terra em ziguezague de 4 km ou um trilho íngreme de Kamari. Panorama completo sobre a costa sudeste.",
+          "petPolicy": "Open-air site; leashed dogs welcome on all paths and ruins",
+          "petPolicyFr": "Site en plein air ; chiens en laisse admis sur tous les sentiers et ruines",
+          "petPolicyEs": "Sitio al aire libre; perros con correa admitidos en todos los senderos y ruinas",
+          "petPolicyPt": "Sítio ao ar livre; cães com trela admitidos em todos os trilhos e ruínas",
+          "openingHours": "Tue–Sun 08:00–15:00; closed Mon and Tue afternoons",
+          "tip": "Entry 4 EUR (dog free). The 4 km road from Kamari to the summit parking is unpaved and steep; do not attempt with a low-clearance rental car. Drive early or late, no shade on the spur, hike up early morning.",
+          "tipFr": "Entrée 4 € (chien gratuit). La route de 4 km depuis Kamari jusqu'au parking sommital est non pavée et raide ; ne tentez pas avec une voiture de location basse. Conduisez tôt ou tard, aucune ombre sur l'éperon, montez tôt le matin.",
+          "tipEs": "Entrada 4 € (perro gratis). La pista de 4 km desde Kamari hasta el aparcamiento de la cima no está pavimentada y es empinada; no lo intentes con un coche de alquiler bajo. Conduce temprano o tarde, sin sombra en el espolón, sube por la mañana temprano.",
+          "tipPt": "Entrada 4 € (cão grátis). A pista de 4 km de Kamari até ao estacionamento do cume não está pavimentada e é íngreme; não tentes com um carro de aluguer baixo. Conduz cedo ou tarde, sem sombra no esporão, sobe de manhã cedo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ancient+Thera+Mesa+Vouno+Santorini"
+        }
+      ],
+      "tipsEn": [
+        "All major outdoor village and archaeology sights are 10–30 min apart by KTEL bus from the Fira hub.",
+        "Akrotiri Minoan site, the Archaeological Museum in Fira and the Museum of Prehistoric Thera all prohibit dogs; the open-air Ancient Thera site allows leashed dogs.",
+        "Skaros Rock at Imerovigli is the lesser-known dog-accessible viewpoint, 15 min walk from the village, with views as good as Oia but without the crowd."
+      ],
+      "tipsFr": [
+        "Tous les grands sites villageois et archéologiques extérieurs sont à 10-30 min en bus KTEL depuis le hub de Fira.",
+        "Le site minoen d'Akrotiri, le Musée Archéologique de Fira et le Musée de Théra Préhistorique interdisent tous les chiens ; le site en plein air de l'Ancienne Théra admet les chiens en laisse.",
+        "Le rocher de Skaros à Imerovigli est le belvédère accessible aux chiens le moins connu, à 15 min à pied du village, avec une vue aussi belle qu'Oia sans la foule."
+      ],
+      "tipsEs": [
+        "Todos los grandes sitios de pueblo y arqueología exteriores están a 10-30 min en bus KTEL desde el hub de Fira.",
+        "El sitio minoico de Akrotiri, el Museo Arqueológico de Fira y el Museo de Tera Prehistórica prohíben todos los perros; el sitio al aire libre de la Antigua Tera admite perros con correa.",
+        "La Roca de Skaros en Imerovigli es el mirador accesible a perros menos conocido, a 15 min a pie del pueblo, con vistas tan buenas como Oía sin la multitud."
+      ],
+      "tipsPt": [
+        "Todos os grandes sítios de aldeia e arqueologia exteriores estão a 10-30 min em autocarro KTEL desde o hub de Fira.",
+        "O sítio minóico de Akrotiri, o Museu Arqueológico de Fira e o Museu de Tera Pré-Histórica proíbem todos os cães; o sítio ao ar livre da Antiga Tera admite cães com trela.",
+        "A Rocha de Skaros em Imerovigli é o miradouro acessível a cães menos conhecido, a 15 min a pé da aldeia, com vistas tão belas como Oía sem a multidão."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Oia for the sunset?",
+          "a": "Off-peak yes (Apr–May, Oct), high season (Jul–Aug) effectively no. The marble lanes pack with 5 000 sunset-watchers at peak, dogs cannot move safely. Shoulder-season visits at sunset or sunrise are the dog-friendly window. Skaros Rock at Imerovigli is the calm alternative."
+        },
+        {
+          "q": "Is Akrotiri worth a visit with a dog?",
+          "a": "Yes for the outdoor approach and Red Beach cliff, no for the covered exhibition (dogs banned inside the 14 000 m² roof). Best with two adults: one rotates outside with the dog while the other visits. The Ancient Thera open-air site on Mesa Vouno is the alternative fully dog-accessible Greek archaeology."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à Oia pour le coucher du soleil ?",
+          "a": "Hors-pic oui (avril-mai, octobre), en haute saison (juillet-août) en pratique non. Les ruelles de marbre se remplissent de 5 000 spectateurs au coucher du soleil au pic, les chiens ne peuvent pas évoluer en sécurité. Les visites en basse saison au coucher ou au lever sont la fenêtre dog-friendly. Le rocher de Skaros à Imerovigli est l'alternative calme."
+        },
+        {
+          "q": "Akrotiri vaut-il une visite avec un chien ?",
+          "a": "Oui pour l'approche extérieure et la falaise de la Plage Rouge, non pour l'exposition couverte (chiens interdits sous le toit de 14 000 m²). Idéal à deux adultes : l'un alterne dehors avec le chien pendant que l'autre visite. Le site en plein air de l'Ancienne Théra sur Mesa Vouno est l'alternative archéologie grecque entièrement accessible aux chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a Oía para el atardecer?",
+          "a": "Fuera de pico sí (abril-mayo, octubre), en alta temporada (julio-agosto) en la práctica no. Las callejuelas de mármol se llenan con 5.000 espectadores del atardecer en el pico, los perros no pueden moverse con seguridad. Las visitas en temporada baja al atardecer o al amanecer son la ventana pet-friendly. La Roca de Skaros en Imerovigli es la alternativa tranquila."
+        },
+        {
+          "q": "¿Merece la pena Akrotiri con perro?",
+          "a": "Sí para la aproximación exterior y el acantilado de la Playa Roja, no para la exposición cubierta (perros prohibidos bajo el techo de 14.000 m²). Ideal con dos adultos: uno se turna fuera con el perro mientras el otro visita. El sitio al aire libre de la Antigua Tera sobre Mesa Vouno es la alternativa de arqueología griega totalmente accesible a perros."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão a Oía para o pôr do sol?",
+          "a": "Fora de pico sim (abril-maio, outubro), em alta época (julho-agosto) na prática não. As viélas de mármore enchem com 5.000 espectadores do pôr do sol no pico, os cães não conseguem mover-se em segurança. As visitas em época baixa ao pôr do sol ou ao amanhecer são a janela pet-friendly. A Rocha de Skaros em Imerovigli é a alternativa calma."
+        },
+        {
+          "q": "Vale a pena Akrotiri com cão?",
+          "a": "Sim para a aproximação exterior e a falésia da Praia Vermelha, não para a exposição coberta (cães proibidos sob o telhado de 14.000 m²). Ideal com dois adultos: um alterna fora com o cão enquanto o outro visita. O sítio ao ar livre da Antiga Tera sobre Mesa Vouno é a alternativa de arqueologia grega totalmente acessível a cães."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog-Sitting & Daycare on Santorini, Verified Platforms",
+      "titleFr": "Garde de chiens et crèche canine à Santorin, Plateformes vérifiées",
+      "titleEs": "Cuidado de perros y guardería canina en Santorini, Plataformas verificadas",
+      "titlePt": "Cuidado de cães e creche canina em Santorini, Plataformas verificadas",
+      "introEn": "The Akrotiri archaeological exhibition, the Nea Kameni volcano boat, the wine-tasting rooms, and the high-summer Fira lunch all sometimes require leaving your dog. Pawshake operates with a small but real Santorini network, the SAWA referral list provides locally vetted sitters, and a few inland village hotels in Pyrgos and Megalochori arrange in-room sits with their housekeeping staff for guests.",
+      "introFr": "L'exposition archéologique d'Akrotiri, le bateau du volcan Nea Kameni, les salles de dégustation et le déjeuner Fira en plein été imposent parfois de laisser son chien. Pawshake opère avec un réseau santorinien petit mais réel, la liste de référence SAWA fournit des sitters localement validés, et quelques hôtels de village dans l'intérieur à Pyrgos et Megalochori organisent des gardes en chambre avec leur personnel pour les clients.",
+      "introEs": "La exposición arqueológica de Akrotiri, el barco al volcán Nea Kameni, las salas de cata y la comida en Fira en pleno verano obligan a veces a dejar al perro. Pawshake opera con una red santoriniana pequeña pero real, la lista de referencia SAWA proporciona cuidadores validados localmente, y algunos hoteles de pueblo en el interior en Pyrgos y Megalochori organizan cuidados en habitación con su personal para los clientes.",
+      "introPt": "A exposição arqueológica de Akrotiri, o barco para o vulcão Nea Kameni, as salas de prova e o almoço Fira em pleno verão obrigam por vezes a deixar o cão. A Pawshake opera com uma rede santoriniana pequena mas real, a lista de referência SAWA fornece cuidadores validados localmente, e alguns hotéis de aldeia no interior em Pyrgos e Megalochori organizam cuidados em quarto com o seu pessoal para os hóspedes.",
+      "places": [
+        {
+          "name": "Pawshake Santorini",
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "description": "International platform with ~4 verified sitters in the Fira-Karterados-Pyrgos belt. Drop-in visits, daycare, overnight boarding. Insurance included, reviewed sitters, useful for an Akrotiri or Nea Kameni day.",
+          "descriptionFr": "Plateforme internationale avec ~4 sitters vérifiés sur l'axe Fira-Karterados-Pyrgos. Visites à domicile, crèche, hébergement de nuit. Assurance incluse, sitters notés, utile pour une journée Akrotiri ou Nea Kameni.",
+          "descriptionEs": "Plataforma internacional con ~4 cuidadores verificados en el eje Fira-Karterados-Pyrgos. Visitas a domicilio, guardería, alojamiento. Seguro incluido, cuidadores con reseñas, útil para un día Akrotiri o Nea Kameni.",
+          "descriptionPt": "Plataforma internacional com ~4 cuidadores verificados no eixo Fira-Karterados-Pyrgos. Visitas ao domicílio, creche, alojamento nocturno. Seguro incluído, cuidadores avaliados, útil para um dia Akrotiri ou Nea Kameni.",
+          "website": "https://www.pawshake.gr/dog-sitting/santorini",
+          "tip": "Santorini has fewer sitters than Corfu or Chania, book at least 2 weeks ahead in summer; most sitters are bilingual EL/EN thanks to the tourism economy.",
+          "tipFr": "Santorin a moins de sitters que Corfou ou La Canée, réservez au moins 2 semaines à l'avance en été ; la plupart des sitters sont bilingues EL/EN grâce à l'économie touristique.",
+          "tipEs": "Santorini tiene menos cuidadores que Corfú o Chania, reserva con al menos 2 semanas en verano; la mayoría de los cuidadores son bilingües EL/EN gracias a la economía turística.",
+          "tipPt": "Santorini tem menos cuidadores que Corfu ou Chania, reserva com pelo menos 2 semanas no verão; a maioria dos cuidadores é bilingue EL/EN graças à economia turística."
+        },
+        {
+          "name": "SAWA Pet-Sitter Referral",
+          "languages": [
+            "Greek",
+            "English",
+            "German"
+          ],
+          "description": "The Santorini Animal Welfare Association maintains an informal referral list of trusted local sitters and dog-walkers, mostly volunteers and SAWA-affiliated locals. Lower prices than Pawshake, more local, supports the stray rescue programme.",
+          "descriptionFr": "La Santorini Animal Welfare Association tient une liste de référence informelle de sitters et promeneurs locaux de confiance, en majorité bénévoles et locaux affiliés SAWA. Prix plus bas que Pawshake, plus local, soutient le programme de sauvetage d'errants.",
+          "descriptionEs": "La Santorini Animal Welfare Association mantiene una lista de referencia informal de cuidadores y paseadores locales de confianza, mayoritariamente voluntarios y locales afiliados a SAWA. Precios más bajos que Pawshake, más local, apoya el programa de rescate de callejeros.",
+          "descriptionPt": "A Santorini Animal Welfare Association mantém uma lista de referência informal de cuidadores e passeadores locais de confiança, na maioria voluntários e locais afiliados à SAWA. Preços mais baixos que a Pawshake, mais local, apoia o programa de resgate de errantes.",
+          "website": "https://www.sawasantorini.com/",
+          "tip": "Email through sawasantorini.com to request a sitter, they know who is reliable on the island. A donation to support the stray programme is the polite way to thank.",
+          "tipFr": "Écrivez via sawasantorini.com pour demander un sitter, ils savent qui est fiable sur l'île. Un don au programme d'errants est la façon polie de remercier.",
+          "tipEs": "Escribe a través de sawasantorini.com para pedir un cuidador, saben quién es de fiar en la isla. Una donación al programa de callejeros es la forma educada de agradecer.",
+          "tipPt": "Escreve através de sawasantorini.com para pedir um cuidador, sabem quem é de confiança na ilha. Uma doação ao programa de errantes é a forma educada de agradecer."
+        }
+      ],
+      "tipsEn": [
+        "Santorini rates: drop-in visit 18–28 EUR, daycare 30–45 EUR (above Corfu and Chania), overnight boarding 40–60 EUR; expect a peak-season surcharge in July–August.",
+        "Most sitters live in the inland belt (Karterados, Mesaria, Pyrgos, Megalochori) within 5 km of Fira.",
+        "Pet hotels are scarce on the island; for multi-day Crete or mainland trips, consider boarding on Crete (Heraklion has multiple options) reached by Sea Jets in 2h."
+      ],
+      "tipsFr": [
+        "Tarifs Santorin : visite à domicile 18-28 €, crèche journée 30-45 € (au-dessus de Corfou et La Canée), hébergement nuit 40-60 € ; supplément haute saison juillet-août à prévoir.",
+        "La plupart des sitters habitent dans la ceinture intérieure (Karterados, Mesaria, Pyrgos, Megalochori) à moins de 5 km de Fira.",
+        "Les pensions canines sont rares sur l'île ; pour les road trips Crète ou continent sur plusieurs jours, envisagez une pension en Crète (Héraklion a plusieurs options) à 2h en Sea Jets."
+      ],
+      "tipsEs": [
+        "Tarifas en Santorini: visita a domicilio 18-28 €, guardería de día 30-45 € (por encima de Corfú y Chania), alojamiento de noche 40-60 €; recargo de alta temporada en julio-agosto previsible.",
+        "La mayoría de los cuidadores vive en el cinturón interior (Karterados, Mesaria, Pyrgos, Megalochori) a menos de 5 km de Fira.",
+        "Las residencias caninas son escasas en la isla; para road trips de varios días por Creta o el continente, considera una residencia en Creta (Heraklion tiene varias opciones) a 2h en Sea Jets."
+      ],
+      "tipsPt": [
+        "Tarifas Santorini: visita ao domicílio 18-28 €, creche de dia 30-45 € (acima de Corfu e Chania), alojamento de noite 40-60 €; sobretaxa de alta época em julho-agosto a prever.",
+        "A maioria dos cuidadores vive no cinturão interior (Karterados, Mesaria, Pyrgos, Megalochori) a menos de 5 km de Fira.",
+        "As residências caninas são escassas na ilha; para road trips de vários dias por Creta ou pelo continente, considera uma residência em Creta (Heraklion tem várias opções) a 2h em Sea Jets."
+      ],
+      "faqsEn": [
+        {
+          "q": "How do I find a dog-sitter for the Akrotiri or Nea Kameni day trip?",
+          "a": "Pawshake.gr lets you book a full-day sit (6–8 hours) with a verified local sitter in Karterados or Pyrgos, exactly what an Akrotiri site visit or a volcano boat tour requires (the volcano landing bans dogs ashore). Book at least 2 weeks ahead in summer."
+        },
+        {
+          "q": "Can I leave my dog at my Santorini hotel during the day?",
+          "a": "Inland village hotels (Pyrgos, Megalochori) are generally relaxed about leaving a calm dog in the room with AC running for a few hours; caldera-edge cliff hotels (Fira, Oia, Imerovigli) are stricter and often impose a daytime supervision rule. Confirm at check-in. AC essential in summer (32–35 °C July afternoons)."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Comment trouver un dog-sitter pour l'excursion à Akrotiri ou Nea Kameni ?",
+          "a": "Pawshake.gr permet de réserver une garde journée complète (6-8h) avec un sitter local vérifié à Karterados ou Pyrgos, exactement ce que demande une visite du site d'Akrotiri ou un tour en bateau au volcan (le débarquement au volcan interdit les chiens). Réservez au moins 2 semaines à l'avance en été."
+        },
+        {
+          "q": "Puis-je laisser mon chien à l'hôtel pendant la journée à Santorin ?",
+          "a": "Les hôtels de village de l'intérieur (Pyrgos, Megalochori) sont généralement détendus avec un chien calme laissé en chambre avec climatisation pendant quelques heures ; les hôtels de falaise en bord de caldera (Fira, Oia, Imerovigli) sont plus stricts et imposent souvent une règle de surveillance diurne. Confirmez au check-in. Climatisation indispensable en été (32-35 °C l'après-midi en juillet)."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cómo encuentro un cuidador para la excursión a Akrotiri o Nea Kameni?",
+          "a": "Pawshake.gr permite reservar un cuidado de día completo (6-8h) con un cuidador local verificado en Karterados o Pyrgos, exactamente lo que requiere una visita al sitio de Akrotiri o un tour en barco al volcán (el desembarco en el volcán prohíbe perros). Reserva con al menos 2 semanas en verano."
+        },
+        {
+          "q": "¿Puedo dejar a mi perro en el hotel durante el día en Santorini?",
+          "a": "Los hoteles de pueblo del interior (Pyrgos, Megalochori) son generalmente relajados con un perro tranquilo dejado en la habitación con aire acondicionado durante unas horas; los hoteles al borde del acantilado de la caldera (Fira, Oía, Imerovigli) son más estrictos y a menudo imponen una norma de supervisión diurna. Confirma al check-in. AC esencial en verano (32-35 °C tardes de julio)."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Como encontro um cuidador para a excursão a Akrotiri ou Nea Kameni?",
+          "a": "Pawshake.gr permite reservar um cuidado de dia completo (6-8h) com um cuidador local verificado em Karterados ou Pyrgos, exactamente o que requer uma visita ao sítio de Akrotiri ou um tour de barco ao vulcão (o desembarque no vulcão proíbe cães). Reserva com pelo menos 2 semanas no verão."
+        },
+        {
+          "q": "Posso deixar o meu cão no hotel durante o dia em Santorini?",
+          "a": "Os hotéis de aldeia do interior (Pyrgos, Megalochori) são geralmente descontraídos com um cão calmo deixado no quarto com ar condicionado durante algumas horas; os hotéis à beira da falésia da caldera (Fira, Oía, Imerovigli) são mais rígidos e frequentemente impõem uma regra de supervisão diurna. Confirma no check-in. AC essencial no verão (32-35 °C tardes de julho)."
+        }
+      ]
+    }
+  }
+}

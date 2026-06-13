@@ -927,6 +927,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the four cathedral squares, the Alameda park with its Carballeira de Santa Susana off-leash zone, and the panoramic Parque de Bonaval',
       area: 'the casco antiguo around the cathedral, the leafy Alameda corridor, and the residential Conxo and Vista Alegre neighbourhoods',
     },
+    santorini: {
+      personality: `the crescent-shaped Cycladic volcanic island where whitewashed cliff-top villages drape along a 300 m caldera rim, the 10 km Fira-Imerovigli-Oia clifftop path is the signature dog hike (dawn or after 17:00, paws burn at midday), the inland hilltop villages of Pyrgos and Megalochori offer calm authentic Cyclades, and the Akrotiri Minoan Bronze Age archaeology sits under a bioclimatic roof on the southern tip`,
+      highlight: `the Fira-Oia caldera clifftop path, the Pyrgos hilltop Kasteli with 360 degree panorama, and the Vlychada lunar bluffs above the long black-sand beach`,
+      area: `Fira (capital and KTEL bus hub) on the caldera rim, the inland villages of Pyrgos, Megalochori and Karterados for calmer pet-friendly stays, and the south-coast resorts of Perissa, Perivolos and Vlychada`,
+    },
     sete: {
       personality: `a 44 000-resident Hérault port city built on the slopes of Mont Saint-Clair between the Mediterranean and the Étang de Thau oyster lagoon, nicknamed the Venice of Languedoc for its working canal grid, with a 175 m panoramic forest summit, Paul Valéry's Cimetière Marin, a 12 km Plage de la Corniche with the year-round off-leash Lazaret plage canine, and a dog-friendly passenger ferry across the lagoon to the Bouzigues oyster villages`,
       highlight: `the year-round off-leash Lazaret plage canine on the Plage de la Corniche, the Mont Saint-Clair panoramic terrace at Notre-Dame de la Salette, and the Sète-Mèze passenger ferry across the Étang de Thau`,
@@ -2093,6 +2098,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la capitale galicienne du pèlerinage classée à l\'UNESCO, où le Chemin de Saint-Jacques a forgé une tradition millénaire d\'accueil des chiens dans la vieille ville pavée de granit',
       highlight: 'les quatre places de la cathédrale, le parc de l\'Alameda avec sa zone sans laisse de la Carballeira de Santa Susana et le parc panoramique de Bonaval',
       area: 'le casco antiguo autour de la cathédrale, l\'avenue ombragée de l\'Alameda et les quartiers résidentiels de Conxo et Vista Alegre',
+    },
+    santorini: {
+      personality: `l'île volcanique cycladique en croissant où les villages blanchis en sommet de falaise s'égrènent sur 300 m de bord de caldera, où le sentier de falaise de 10 km Fira-Imerovigli-Oia est la randonnée canine signature (à l'aube ou après 17h, les coussinets brûlent à midi), où les villages perchés de l'intérieur Pyrgos et Megalochori offrent les vraies Cyclades calmes, et où l'archéologie minoenne d'Akrotiri se visite sous un toit bioclimatique à la pointe sud`,
+      highlight: `le sentier de falaise caldera Fira-Oia, le Kasteli perché de Pyrgos au panorama 360 degrés, et les falaises lunaires de Vlychada au-dessus de la longue plage de sable noir`,
+      area: `Fira (capitale et hub bus KTEL) sur le bord de la caldera, les villages de l'intérieur Pyrgos, Megalochori et Karterados pour des séjours pet-friendly plus calmes, et les stations de la côte sud Perissa, Perivolos et Vlychada`,
     },
     sete: {
       personality: `ville portuaire de l'Hérault de 44 000 habitants bâtie sur les pentes du Mont Saint-Clair entre la Méditerranée et l'étang de Thau, surnommée la Venise du Languedoc pour son maillage de canaux en activité, avec un sommet forestier panoramique à 175 m, le Cimetière Marin de Paul Valéry, une Plage de la Corniche de 12 km avec la plage canine sans laisse du Lazaret toute l'année, et un ferry voyageurs dog-friendly à travers le lagon jusqu'aux villages ostréicoles de Bouzigues`,
@@ -3261,6 +3271,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'las cuatro plazas de la catedral, el parque de la Alameda con su zona sin correa en la Carballeira de Santa Susana y el parque panorámico de Bonaval',
       area: 'el casco antiguo en torno a la catedral, la frondosa avenida de la Alameda y los barrios residenciales de Conxo y Vista Alegre',
     },
+    santorini: {
+      personality: `la isla volcánica cicládica en forma de medialuna donde los pueblos encalados en lo alto del acantilado se despliegan sobre 300 m de borde de caldera, donde el sendero de acantilado de 10 km Fira-Imerovigli-Oía es la caminata canina estrella (al amanecer o después de las 17:00, las almohadillas se queman al mediodía), donde los pueblos encaramados del interior Pyrgos y Megalochori ofrecen las Cícladas calmas auténticas, y donde la arqueología minoica de Akrotiri se visita bajo un techo bioclimático en la punta sur`,
+      highlight: `el sendero de acantilado caldera Fira-Oía, el Kasteli encaramado de Pyrgos con panorama de 360 grados, y los acantilados lunares de Vlychada sobre la larga playa de arena negra`,
+      area: `Fira (capital y hub de autobuses KTEL) en el borde de la caldera, los pueblos del interior Pyrgos, Megalochori y Karterados para estancias pet-friendly más tranquilas, y los resorts de la costa sur Perissa, Perivolos y Vlychada`,
+    },
     sete: {
       personality: `ciudad portuaria del Hérault de 44 000 habitantes construida en las laderas del Mont Saint-Clair entre el Mediterráneo y el Étang de Thau, apodada la Venecia del Languedoc por su retícula de canales en activo, con una cima forestal panorámica a 175 m, el Cimetière Marin de Paul Valéry, una Plage de la Corniche de 12 km con la playa canina sin correa del Lazaret todo el año, y un ferry de pasajeros pet-friendly a través de la laguna hasta los pueblos ostrícolas de Bouzigues`,
       highlight: `la playa canina sin correa del Lazaret todo el año en la Plage de la Corniche, la terraza panorámica del Mont Saint-Clair en Notre-Dame de la Salette, y el ferry de pasajeros Sète-Mèze a través del Étang de Thau`,
@@ -4427,6 +4442,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital galega da peregrinação classificada pela UNESCO, onde o Caminho de Santiago forjou uma tradição milenar de acolher cães no casco antigo empedrado de granito',
       highlight: 'as quatro praças da catedral, o parque da Alameda com a sua zona sem trela na Carballeira de Santa Susana e o parque panorâmico de Bonaval',
       area: 'o casco antigo em torno à catedral, a arborizada avenida da Alameda e os bairros residenciais de Conxo e Vista Alegre',
+    },
+    santorini: {
+      personality: `a ilha vulcânica cicládica em forma de meia-lua onde as aldeias caiadas no topo da falésia se estendem sobre 300 m de borda de caldera, onde o trilho de falésia de 10 km Fira-Imerovigli-Oía é a caminhada canina de referência (ao amanhecer ou depois das 17:00, as almofadinhas queimam ao meio-dia), onde as aldeias empoleiradas do interior Pyrgos e Megalochori oferecem as Cíclades calmas autênticas, e onde a arqueologia minóica de Akrotiri se visita sob um telhado bioclimático na ponta sul`,
+      highlight: `o trilho de falésia caldera Fira-Oía, o Kasteli empoleirado de Pyrgos com panorama de 360 graus, e as falésias lunares de Vlychada sobre a longa praia de areia preta`,
+      area: `Fira (capital e hub de autocarros KTEL) na borda da caldera, as aldeias do interior Pyrgos, Megalochori e Karterados para estadias pet-friendly mais calmas, e os resorts da costa sul Perissa, Perivolos e Vlychada`,
     },
     sete: {
       personality: `cidade portuária do Hérault com 44 000 habitantes construída nas encostas do Mont Saint-Clair entre o Mediterrâneo e o Étang de Thau, apelidada a Veneza do Languedoc pela sua malha de canais em actividade, com um cume florestal panorâmico a 175 m, o Cimetière Marin de Paul Valéry, uma Plage de la Corniche de 12 km com a praia canina sem trela do Lazaret o ano inteiro, e um ferry de passageiros pet-friendly através da lagoa até às aldeias ostreícolas de Bouzigues`,

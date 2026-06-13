@@ -541,6 +541,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Central Park (Keskuspuisto), the Seurasaari island nature reserve, and the sea fortress island of Suomenlinna',
       area: 'Kallio, Töölö, and the Design District',
     },
+    hvar: {
+      personality: `Dalmatia's sun island (2,718 sun hours a year, the most in Croatia), 11,000 residents island-wide and just 3,700 in tiny Hvar Town - clustered around Saint Stephen Square (the largest piazza in Dalmatia), the 16th-century cathedral, the 1612 Arsenal theatre, the Franciscan Monastery on the harbour cliff and the Fortica Španjola fortress on the hill behind, with the Pakleni Islands archipelago a 15-min water-taxi off the western tip, Stari Grad 20 km east (the oldest town in Croatia, Greek Pharos 384 BC) and the UNESCO Stari Grad Plain, lavender ridges around Velo Grablje and Plavac Mali vineyards at Sveta Nedjelja - reached only by Jadrolinija catamaran or car ferry from Split (SPU)`,
+      highlight: `Saint Stephen Square and the 1612 Arsenal theatre, the Fortica Španjola panorama over the Pakleni Islands, the Franciscan Monastery harbour cliffside walk, the dog-friendly Palmižana and Mlini bays on Sveti Klement, and Stari Grad UNESCO agricultural plain with 16 km of dry-stone-walled vineyard lanes`,
+      area: `Hvar Town around Saint Stephen Square and the Fortica hill, the Pakleni Islands archipelago off the western tip, Stari Grad and the UNESCO plain 20 km east, and Jelsa/Vrboska "Little Venice" on the central north coast`,
+    },
     hyeres: {
       personality: `a Var coast resort with the only officially designated year-round dog beach on the French Riviera (Plage du Mérou cani-plage), a 24/7 on-site veterinary clinic in the centre, and free dog access on the TLV-TVM ferries to Porquerolles and Port-Cros`,
       highlight: `the Plage du Mérou cani-plage between L'Ayguade and Les Salins, the Giens double-tombolo Route du Sel walk, and the Vieux Salins wetland with its flamingos`,
@@ -1719,6 +1724,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Central (Keskuspuisto), la réserve naturelle insulaire de Seurasaari et la forteresse maritime de Suomenlinna',
       area: 'Kallio, Töölö et le Quartier du Design',
     },
+    hvar: {
+      personality: `l'île du soleil de Dalmatie (2 718 heures de soleil par an, le maximum croate), 11 000 habitants à l'échelle de l'île et seulement 3 700 dans la minuscule Hvar Town - serrée autour de la place Saint-Étienne (la plus grande piazza de Dalmatie), de la cathédrale du XVIᵉ siècle, du théâtre de l'Arsenal de 1612, du monastère franciscain sur la falaise du port et du fort Fortica Španjola sur la colline derrière, avec l'archipel des îles Pakleni à 15 min de bateau-taxi au large de la pointe ouest, Stari Grad à 20 km à l'est (la plus ancienne ville de Croatie, Pharos grecque 384 av. J.-C.) et sa plaine UNESCO, les crêtes de lavande de Velo Grablje et les vignobles de Plavac Mali à Sveta Nedjelja - accessible uniquement par catamaran ou car-ferry Jadrolinija depuis Split (SPU)`,
+      highlight: `la place Saint-Étienne et le théâtre de l'Arsenal de 1612, le panorama de Fortica Španjola sur les îles Pakleni, la promenade du monastère franciscain le long de la falaise du port, les baies dog-friendly de Palmižana et Mlini sur Sveti Klement, et la plaine agricole UNESCO de Stari Grad avec 16 km de chemins de vignes aux murs en pierre sèche`,
+      area: `Hvar Town autour de la place Saint-Étienne et de la colline de Fortica, l'archipel des îles Pakleni au large de la pointe ouest, Stari Grad et la plaine UNESCO à 20 km à l'est, et Jelsa/Vrboska la « petite Venise » sur la côte nord centrale`,
+    },
     hyeres: {
       personality: `une station de la côte varoise avec la seule plage canine officielle ouverte toute l'année sur la Riviera française (la cani-plage du Mérou), une clinique vétérinaire 24h/24 sur place au centre-ville, et des chiens admis gratuitement sur les navettes TLV-TVM vers Porquerolles et Port-Cros`,
       highlight: `la cani-plage du Mérou entre L'Ayguade et Les Salins, la Route du Sel du double tombolo de Giens, et la zone humide des Vieux Salins avec ses flamants roses`,
@@ -2896,6 +2906,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque Central (Keskuspuisto), la reserva natural insular de Seurasaari y la fortaleza marítima de Suomenlinna',
       area: 'Kallio, Töölö y el Barrio del Diseño',
     },
+    hvar: {
+      personality: `la isla del sol de Dalmacia (2 718 horas de sol al año, el máximo croata), 11 000 habitantes a escala de la isla y solo 3 700 en la minúscula Hvar Town: agrupada en torno a la plaza de San Esteban (la mayor piazza de Dalmacia), la catedral del siglo XVI, el teatro del Arsenal de 1612, el monasterio franciscano en el acantilado del puerto y el fuerte Fortica Španjola en el cerro detrás, con el archipiélago de las islas Pakleni a 15 min en barco-taxi frente a la punta oeste, Stari Grad a 20 km al este (la ciudad más antigua de Croacia, Pharos griega 384 a.C.) y su llanura UNESCO, las crestas de lavanda de Velo Grablje y los viñedos de Plavac Mali en Sveta Nedjelja: accesible solo por catamarán o ferri de coches Jadrolinija desde Split (SPU)`,
+      highlight: `la plaza de San Esteban y el teatro del Arsenal de 1612, el panorama de Fortica Španjola sobre las islas Pakleni, el paseo del monasterio franciscano por el acantilado del puerto, las bahías dog-friendly de Palmižana y Mlini en Sveti Klement, y la llanura agrícola UNESCO de Stari Grad con 16 km de caminos de viña con muros de piedra seca`,
+      area: `Hvar Town en torno a la plaza de San Esteban y el cerro de Fortica, el archipiélago de las islas Pakleni frente a la punta oeste, Stari Grad y la llanura UNESCO a 20 km al este, y Jelsa/Vrboska la «pequeña Venecia» en la costa norte central`,
+    },
     hyeres: {
       personality: `una estación de la costa del Var con la única playa canina oficial abierta todo el año en la Riviera francesa (la cani-plage del Mérou), una clínica veterinaria 24/7 en el sitio en el centro, y perros admitidos gratis en los ferries TLV-TVM a Porquerolles y Port-Cros`,
       highlight: `la cani-plage del Mérou entre L'Ayguade y Les Salins, la Route du Sel del doble tombolo de Giens, y la zona húmeda de los Vieux Salins con sus flamencos`,
@@ -4072,6 +4087,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital nórdica onde o archipiélago islenho, os florestas de pinos e uma cultura profundamente orientada al aire libre a hacen excepcionalmente acogedora para os cães e os seus duenhos',
       highlight: 'o Parque Central (Keskuspuisto), a reserva natural insular de Seurasaari e a fortaleza marítima de Suomenlinna',
       area: 'Kallio, Töölö e o Bairro do Disenho',
+    },
+    hvar: {
+      personality: `a ilha do sol da Dalmácia (2 718 horas de sol por ano, o máximo croata), 11 000 habitantes à escala da ilha e apenas 3 700 na minúscula Hvar Town: agrupada em torno da praça de Santo Estêvão (a maior piazza da Dalmácia), da catedral do século XVI, do teatro do Arsenal de 1612, do mosteiro franciscano na falésia do porto e do forte Fortica Španjola no cerro detrás, com o arquipélago das ilhas Pakleni a 15 min de barco-táxi em frente da ponta oeste, Stari Grad a 20 km a este (a cidade mais antiga de Croácia, Pharos grega 384 a.C.) e a sua planície UNESCO, as cristas de alfazema de Velo Grablje e os vinhedos de Plavac Mali em Sveta Nedjelja: accessível só por catamarán ou car-ferry Jadrolinija a partir de Split (SPU)`,
+      highlight: `a praça de Santo Estêvão e o teatro do Arsenal de 1612, o panorama de Fortica Španjola sobre as ilhas Pakleni, o passeio do mosteiro franciscano pela falésia do porto, as baías pet-friendly de Palmižana e Mlini em Sveti Klement, e a planície agrícola UNESCO de Stari Grad com 16 km de caminhos de vinha com muros de pedra seca`,
+      area: `Hvar Town em torno da praça de Santo Estêvão e do cerro de Fortica, o arquipélago das ilhas Pakleni em frente da ponta oeste, Stari Grad e a planície UNESCO a 20 km a este, e Jelsa/Vrboska a «pequena Veneza» na costa norte central`,
     },
     hyeres: {
       personality: `uma estação da costa do Var com a única praia canina oficial aberta todo o ano na Riviera francesa (a cani-plage do Mérou), uma clínica veterinária 24/7 no local no centro, e cães admitidos grátis nos ferries TLV-TVM para Porquerolles e Port-Cros`,

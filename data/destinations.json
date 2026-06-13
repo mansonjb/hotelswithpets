@@ -7886,6 +7886,81 @@
     "iata": "HER"
   },
   {
+    "slug": "hvar",
+    "name": "Hvar",
+    "country": "Croatia",
+    "countryCode": "HR",
+    "flag": "🇭🇷",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/hvar.jpg",
+    "intro": "Hvar is the Dalmatian `sun island` (2,718 sun hours a year, the most in Croatia) - 11,000 residents island-wide, 3,700 in tiny Hvar Town clustered around Saint Stephen`s Square (the largest piazza in Dalmatia), the 16th-century cathedral, the 1612 Arsenal theatre, the cliff-clinging Franciscan Monastery and the Fortica Španjola fortress on the hill behind, with the Pakleni Islands archipelago strung off the western tip (water-taxis from the harbour year-round, dogs welcome on most boats and on Palmižana/Mlini bays), Stari Grad 20 km east (the oldest town in Croatia, founded as Greek Pharos 384 BC, with its UNESCO-listed agricultural plain), lavender ridges around Velo Grablje, and Plavac Mali vineyards on the steep south coast at Sveta Nedjelja. No airport on Hvar: access is by Jadrolinija fast catamaran from Split (SPU 2 h door-to-door) to Hvar Town in 1 h, or by Jadrolinija/Krilo car ferry from Split to Stari Grad in 1 h 45.",
+    "lat": 43.1729,
+    "lng": 16.4413,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild & breezy",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild & breezy",
+        "icon": "🌥️"
+      }
+    },
+    "iata": "SPU"
+  },
+  {
     "slug": "hyeres",
     "name": "Hyères",
     "country": "France",

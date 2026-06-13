@@ -12242,6 +12242,81 @@
     "iata": "PGF"
   },
   {
+    "slug": "piran",
+    "name": "Piran",
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "flag": "🇸🇮",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/piran.jpg",
+    "intro": "Piran, Slovenia's Venetian jewel on the Adriatic Riviera, packs Tartini Square, the San Giorgio bell tower, the medieval Walls of Piran and a car-free old town into a stone peninsula ringed by pet-friendly seafront terraces, with Monty's Dog Beach at Lucija, the Strunjan flysch cliffs and the Sečovlje salt pans within easy reach.",
+    "lat": 45.5283,
+    "lng": 13.5683,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cool with Bora wind",
+        "icon": "🌬️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cool with Bora wind",
+        "icon": "🌬️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool with rain",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool with Bora wind",
+        "icon": "🌬️"
+      }
+    },
+    "iata": "TRS"
+  },
+  {
     "slug": "pisa",
     "name": "Pisa",
     "country": "Italy",

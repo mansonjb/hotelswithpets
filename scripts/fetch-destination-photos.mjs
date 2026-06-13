@@ -110,6 +110,7 @@ const TARGETS = [
   { slug: 'bratislava', query: 'Bratislava Castle Danube sunset panorama Old Town' },
   { slug: 'vilnius', query: 'Vilnius Old Town panorama Gediminas Tower Cathedral sunset' },
   { slug: 'pisa', query: 'Pisa Leaning Tower Cathedral Piazza dei Miracoli sunset' },
+  { slug: 'piran', query: 'Piran Slovenia Tartini Square Adriatic sunset' },
   { slug: 'sofia', query: 'Sofia Alexander Nevsky Cathedral Vitosha mountain panorama sunset' },
   { slug: 'bucharest', query: 'Bucharest Romanian Athenaeum Calea Victoriei panorama sunset' },
   { slug: 'belgrade', query: 'Belgrade Kalemegdan fortress Sava Danube confluence sunset panorama' },

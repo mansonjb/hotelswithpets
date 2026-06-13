@@ -831,6 +831,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Le Castillet and the old town, the Palais des Rois de Majorque ramparts, and the year-round dog section of Canet-en-Roussillon's Lido beach`,
       area: `the historic centre around Le Castillet and Place de Verdun, the Têt riverbanks, and the Roussillon coast at Canet and Torreilles`,
     },
+    piran: {
+      personality: `Slovenia's Venetian jewel on the Adriatic Riviera, a car-free stone peninsula of pastel houses, Tartini Square and the San Giorgio bell tower, with pet-friendly seafront terraces, Monty's Dog Beach at Lucija and the Sečovlje salt pans and Strunjan flysch cliffs within easy reach`,
+      highlight: `Tartini Square and the seafront promenade, the Walls of Piran panoramic ridge walk, and Monty's Dog Beach at Lucija`,
+      area: `the medieval old town around Tartini Square, the Prešernovo nabrežje quay, and the Punta lighthouse headland`,
+    },
     pisa: {
       personality: 'a compact Tuscan UNESCO city paired with the 23 000-hectare San Rossore park and a year-round dog beach at Marina di Pisa, all within twenty minutes of the centre',
       highlight: 'the Field of Miracles lawn, San Rossore pine forest, and the Marina di Pisa dog beach',
@@ -2019,6 +2024,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Castillet et la vieille ville, les remparts du Palais des Rois de Majorque et la section canine à l'année du Lido de Canet-en-Roussillon`,
       area: `le centre historique autour du Castillet et de la Place de Verdun, les berges de la Têt et la côte du Roussillon à Canet et Torreilles`,
     },
+    piran: {
+      personality: `le joyau vénitien de la Slovénie sur la Riviera adriatique, une péninsule de pierre sans voiture aux maisons pastel, place Tartini et campanile San Giorgio, avec des terrasses en bord de mer dog-friendly, la plage canine Monty's à Lucija et les salines de Sečovlje et falaises de flysch de Strunjan à portée immédiate`,
+      highlight: `la place Tartini et la promenade en bord de mer, la balade panoramique sur les Murailles de Piran et Monty's Dog Beach à Lucija`,
+      area: `la vieille ville médiévale autour de la place Tartini, le quai Prešernovo nabrežje et le promontoire du phare de Punta`,
+    },
     pisa: {
       personality: 'une ville UNESCO toscane compacte associée aux 23 000 hectares du parc de San Rossore et à une plage canine ouverte toute l\'année à Marina di Pisa, le tout à vingt minutes du centre',
       highlight: 'la pelouse du Champ des Miracles, la pinède de San Rossore et la plage canine de Marina di Pisa',
@@ -3206,6 +3216,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Le Castillet y el casco antiguo, las murallas del Palais des Rois de Majorque y la sección canina todo el año del Lido de Canet-en-Roussillon`,
       area: `el centro histórico en torno a Le Castillet y la Place de Verdun, las orillas del Têt y la costa del Rosellón en Canet y Torreilles`,
     },
+    piran: {
+      personality: `la joya veneciana de Eslovenia en la Riviera adriática, una península de piedra peatonal con casas en tonos pastel, la plaza Tartini y el campanario de San Giorgio, con terrazas marítimas pet-friendly, la playa canina Monty's en Lucija y las salinas de Sečovlje y los acantilados de flysch de Strunjan a un paso`,
+      highlight: `la plaza Tartini y el paseo marítimo, la ruta panorámica por las Murallas de Piran y Monty's Dog Beach en Lucija`,
+      area: `el casco viejo medieval en torno a la plaza Tartini, el muelle Prešernovo nabrežje y el promontorio del faro de Punta`,
+    },
     pisa: {
       personality: 'una ciudad UNESCO toscana compacta unida a las 23.000 hectáreas del parque de San Rossore y a una playa canina abierta todo el año en Marina di Pisa, todo a veinte minutos del centro',
       highlight: 'el césped del Campo de los Milagros, el pinar de San Rossore y la playa canina de Marina di Pisa',
@@ -4392,6 +4407,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a soalheira capital catalã do sul de França, uma cidade compacta e pet-friendly com cerca de 37 áreas caninas sinalizadas, uma cultura de esplanada tolerante e fácil acesso às praias pet-friendly do Rossilhão`,
       highlight: `Le Castillet e o centro histórico, as muralhas do Palais des Rois de Majorque e a secção canina o ano inteiro do Lido de Canet-en-Roussillon`,
       area: `o centro histórico em torno de Le Castillet e da Place de Verdun, as margens do Têt e a costa do Rossilhão em Canet e Torreilles`,
+    },
+    piran: {
+      personality: `a joia veneziana da Eslovénia na Riviera adriática, uma península de pedra pedonal com casas em tons pastel, a praça Tartini e o campanário de San Giorgio, com esplanadas marítimas pet-friendly, a praia canina Monty's em Lucija e as salinas de Sečovlje e as falésias de flysch de Strunjan a um passo`,
+      highlight: `a praça Tartini e o passeio marítimo, o trilho panorâmico pelas Muralhas de Piran e Monty's Dog Beach em Lucija`,
+      area: `o casco antigo medieval em torno da praça Tartini, o cais Prešernovo nabrežje e o promontório do farol de Punta`,
     },
     pisa: {
       personality: 'uma cidade UNESCO toscana compacta unida a as 23.000 hectáreas do parque de San Rossore e a uma praia canina abierta o ano inteiro en Marina di Pisa, todo a veinte minutos do centro',

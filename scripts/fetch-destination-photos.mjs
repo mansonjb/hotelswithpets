@@ -67,6 +67,7 @@ const TARGETS = [
   { slug: 'cadiz',         query: 'Cadiz Spain old town cathedral Atlantic ramparts La Caleta panorama' },
   { slug: 'albufeira',     query: 'Albufeira Portugal Algarve cliffs old town beach Atlantic panorama' },
   { slug: 'alicante',      query: 'Alicante Spain Santa Bárbara castle Mediterranean Explanada palm trees panorama' },
+  { slug: 'denia',         query: 'Denia Spain Costa Blanca Castillo Moorish fortress Montgo Natural Park port Marina Alta panorama sunset' },
   { slug: 'bergamo',       query: 'Bergamo Italy Citta Alta Piazza Vecchia Venetian walls Lombardy panorama' },
   { slug: 'brasov',        query: 'Brasov Romania Council Square Black Church Carpathian mountains panorama' },
   { slug: 'marseille',     query: 'Vieux Port Marseille waterfront' },

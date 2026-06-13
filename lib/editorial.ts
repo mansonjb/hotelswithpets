@@ -371,6 +371,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Fitzgerald's Park and the Mardyke walkway, Ballincollig Regional Park's off-leash zone, and the 25-min train to dog-friendly Cobh waterfront`,
       area: `the Latin Quarter, the Marina riverside, and Blackrock`,
     },
+    denia: {
+      personality: `Costa Blanca north's port city and UNESCO Creative City of Gastronomy, with the 11th-century Moorish Castillo above the whitewashed casco antiguo, the 753 m Montgó Natural Park rising directly behind town, daily Baleària ferries to Ibiza, and the rare year-round Platja Canina de Les Deveses dog beach`,
+      highlight: `the Castillo de Dénia outdoor ramparts, the Cap de Sant Antoni cliff trail above the Reserva Marina, and the Platja Canina de Les Deveses (year-round dog beach)`,
+      area: `the casco antiguo of Les Roques under the castle, the Baix la Mar fishermen quarter by the port, and the Les Marines seafront paseo north of town`,
+    },
     dresden: {
       personality: 'a compact baroque capital on the Elbe with kilometres of off-leash river meadows, a 5,800-hectare municipal forest on the northern edge, and a historic paddle-steamer fleet that welcomes dogs at no extra charge',
       highlight: 'the Elbwiesen river meadows through the centre, the Dresdner Heide forest, and the Schlosspark Pillnitz palace gardens',
@@ -1564,6 +1569,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Fitzgerald's Park et la promenade Mardyke, la zone sans laisse du Ballincollig Regional Park et le train de 25 min vers le front de mer dog-friendly de Cobh`,
       area: `le Latin Quarter, la Marina fluviale et Blackrock`,
     },
+    denia: {
+      personality: `port du nord de la Costa Blanca et Ville Créative UNESCO de la Gastronomie, avec le Castillo maure du XIe siècle au-dessus du casco antiguo blanchi à la chaux, le Parc Naturel du Montgó de 753 m qui s'élève juste derrière la ville, des ferries Baleària quotidiens vers Ibiza et la rare Platja Canina de Les Deveses ouverte aux chiens à l'année`,
+      highlight: `les remparts extérieurs du Castillo de Dénia, le sentier de falaise du Cap de Sant Antoni au-dessus de la Réserve Marine, et la Platja Canina de Les Deveses (plage canine à l'année)`,
+      area: `le casco antiguo de Les Roques sous le château, le quartier des pêcheurs de Baix la Mar côté port, et la promenade de Les Marines au nord de la ville`,
+    },
     dresden: {
       personality: 'capitale baroque compacte sur l\'Elbe, avec des kilomètres de prairies fluviales sans laisse, une forêt urbaine de 5 800 hectares à la lisière nord et une flotte historique de bateaux à aubes qui accueille les chiens sans supplément',
       highlight: 'les Elbwiesen qui traversent le centre, la forêt de la Dresdner Heide et les jardins du château de Pillnitz',
@@ -2756,6 +2766,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Fitzgerald's Park y el paseo Mardyke, la zona sin correa del Ballincollig Regional Park y el tren de 25 min al frente marítimo dog-friendly de Cobh`,
       area: `el Latin Quarter, la Marina fluvial y Blackrock`,
     },
+    denia: {
+      personality: `puerto del norte de la Costa Blanca y Ciudad Creativa UNESCO de la Gastronomía, con el Castillo musulmán del siglo XI sobre el casco antiguo encalado, el Parque Natural del Montgó de 753 m que se eleva justo detrás del pueblo, ferris Baleària diarios a Ibiza y la rara Platja Canina de Les Deveses abierta a perros todo el año`,
+      highlight: `las murallas exteriores del Castillo de Dénia, el sendero del acantilado del Cap de Sant Antoni sobre la Reserva Marina, y la Platja Canina de Les Deveses (playa canina todo el año)`,
+      area: `el casco antiguo de Les Roques al pie del castillo, el barrio marinero de Baix la Mar junto al puerto, y el paseo de Les Marines al norte del pueblo`,
+    },
     dresden: {
       personality: 'capital barroca compacta sobre el Elba, con kilómetros de praderas fluviales sin correa, un bosque urbano de 5.800 hectáreas en el borde norte y una flota histórica de vapores de paletas que admite perros sin coste extra',
       highlight: 'las Elbwiesen que atraviesan el centro, el bosque de la Dresdner Heide y los jardines del palacio de Pillnitz',
@@ -3947,6 +3962,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a rebel city irlandesa dos gourmets sobre o Lee, ruas georgianas, pubs tradicionales com snugs, o emblemático English Market e o Ballincollig Regional Park sem trela de 200 hectáreas a 8 km al oeste, com as praias do West Cork a corta distancia al sur`,
       highlight: `Fitzgerald's Park e o passeio Mardyke, a zona sem trela do Ballincollig Regional Park e o comboio de 25 min al frente marítimo pet-friendly de Cobh`,
       area: `o Latin Quarter, a Marina fluvial e Blackrock`,
+    },
+    denia: {
+      personality: `porto do norte da Costa Blanca e Cidade Criativa UNESCO da Gastronomia, com o Castelo mouro do século XI sobre o casco antiguo caiado, o Parque Natural do Montgó de 753 m que se eleva mesmo atrás da cidade, ferries Baleària diários para Ibiza e a rara Platja Canina de Les Deveses aberta a cães o ano inteiro`,
+      highlight: `as muralhas exteriores do Castelo de Dénia, o trilho da falésia do Cap de Sant Antoni acima da Reserva Marinha, e a Platja Canina de Les Deveses (praia canina o ano inteiro)`,
+      area: `o casco antiguo de Les Roques ao pé do castelo, o bairro piscatório de Baix la Mar junto ao porto, e o passeio de Les Marines a norte da cidade`,
     },
     dresden: {
       personality: 'capital barroca compacta sobre o Elba, com kilómetros de pradarias fluviales sem trela, um floresta urbano de 5.800 hectáreas no borde norte e uma flota histórica de vapores de paletas que admite cães sem coste extra',

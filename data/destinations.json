@@ -5413,6 +5413,81 @@
     "tiqetsId": "1841"
   },
   {
+    "slug": "denia",
+    "name": "Dénia",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 7,
+    "heroImage": "/images/destinations/denia.jpg",
+    "intro": "Costa Blanca north port city, UNESCO Creative City of Gastronomy, 11th-century Moorish Castillo above the casco antiguo, the 753 m Montgó Natural Park rising directly behind town, and the Platja Canina de Les Deveses year-round dog beach. Daily Baleària ferries to Ibiza, Mallorca and Formentera. 320 sunny days a year.",
+    "lat": 38.8408,
+    "lng": 0.1057,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild, springlike",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Warm spring, Fallas",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot, Bous a la Mar",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot, peak season",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Hot, easing",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Warm, ideal",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild, festive",
+        "icon": "🎄"
+      }
+    },
+    "iata": "ALC"
+  },
+  {
     "slug": "dresden",
     "name": "Dresden",
     "country": "Germany",

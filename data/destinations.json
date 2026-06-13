@@ -13968,6 +13968,81 @@
     "iata": "VIE"
   },
   {
+    "slug": "sant-antoni",
+    "name": "Sant Antoni de Portmany",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 7,
+    "heroImage": "/images/destinations/sant-antoni.jpg",
+    "intro": "The 28,000-resident western capital of Ibiza, world-famous for the Sunset Strip clifftop bars and the Cafe del Mar mixtape tradition since 1980, the 14th-century Església de Sant Antoni de Portmany (the oldest church on Ibiza), Hostal La Torre and Punta Galera for quieter sunsets, white-sand Cala Bassa, sunset-facing Cala Conta and family-friendly Cala Tarida on the west coast, Es Vedrà boat excursions, and a Baleària fast ferry from the Port Deportiu to Dénia on the Spanish mainland (2h45) with pet cabins on the Eleanor Roosevelt. Ibiza Airport (IBZ) 15 km south-east by taxi or TIB L8 bus.",
+    "lat": 38.9817,
+    "lng": 1.3019,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Mild Mediterranean winter",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Warming, dry",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Pleasant spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot, beach season",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Very hot afternoons",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild, occasional rain",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild, festive",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "IBZ"
+  },
+  {
     "slug": "santa-eulalia",
     "name": "Santa Eulària des Riu",
     "country": "Spain",

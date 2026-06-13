@@ -223,6 +223,7 @@ const TARGETS = [
   { slug: 'chicago', query: 'Chicago Illinois skyline Lake Michigan lakefront Cloud Gate Bean Millennium Park Riverwalk panorama sunset' },
   { slug: 'boston', query: 'Boston Massachusetts New England historic skyline State House gold dome Beacon Hill Boston Common Public Garden swan boats Charles River Esplanade Hatch Shell Back Bay brownstones Freedom Trail red brick Faneuil Hall Quincy Market North End Old North Church Acorn Street cobblestone Harborwalk Seaport panorama sunset' },
   { slug: 'chania', query: 'Chania Crete Greece Venetian Harbour Egyptian Lighthouse Firkas Fortress Old Town Splantzia Yiali Tzami mosque White Mountains panorama sunset' },
+  { slug: 'sant-antoni', query: 'Sant Antoni de Portmany Ibiza Spain Sunset Strip Cafe del Mar Hostal La Torre Cap Negret clifftop bars Port Deportiu Marina Passeig Maritim Esglesia Sant Antoni 14th century oldest church Egg sculpture roundabout Cala Bassa Cala Conta Cala Tarida Cala Salada Punta Galera Sa Talaia 475m highest peak panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

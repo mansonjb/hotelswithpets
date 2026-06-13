@@ -942,6 +942,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Traisen riverside path through the Traisenpark corridor, the Klangturm rooftop in the Government Quarter, and a Wachau day trip to Dürnstein and Spitz`,
       area: `the pedestrian Altstadt around the Rathausplatz, the modernist Regierungsviertel on the Traisen, and the Viehofen lake district north of the centre`,
     },
+    'sant-antoni': {
+      personality: `the 28,000-resident western capital of Ibiza, world-famous for the Sunset Strip clifftop bars and the Cafe del Mar mixtape tradition since 1980, the 14th-century Església de Sant Antoni de Portmany (the oldest church on Ibiza), Hostal La Torre and Punta Galera for quieter sunsets, and the Baleària fast ferry to Dénia from the Port Deportiu Marina`,
+      highlight: `sunset at Cafe del Mar or Hostal La Torre, the Sa Talaia summit trail (475 m, highest peak on Ibiza), off-season Cala Bassa and Cala Conta clifftop walks, and Es Vedrà boat excursions from the Port Deportiu`,
+      area: `the Passeig Marítim and Port Deportiu Marina, the old-town square around the Església de Sant Antoni, the Sunset Strip from Cafe del Mar to Cap Negret, and the west-coast coves of Cala Bassa, Cala Conta, Cala Tarida and Cala Salada`,
+    },
     'santa-eulalia': {
       personality: `the calmer family resort of Ibiza's east coast, a 38,000-resident municipality wrapped around the whitewashed 16th-century church-fortress of Puig de Missa, the only year-round river in the Pitiüses with its Pont Vell Roman bridge and mil de baix windmill, a long Paseo Marítimo and Marina, and the Saturday Las Dalias hippie market in Sant Carles`,
       highlight: `the Puig de Missa hilltop church-fortress panorama, the Riu de Santa Eulària valley walk to the Pont Vell and mil de baix windmill, the year-round Cala Nova dog beach north of Es Canar, and Las Dalias hippie market at Sant Carles every Saturday`,
@@ -2148,6 +2153,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la discrète capitale de Basse-Autriche, 56 000 habitants au bord de la Traisen, avec un Altstadt baroque piéton, le quartier gouvernemental moderniste et sa tour Klangturm, et les villages viticoles de la Wachau (Dürnstein, Spitz et Krems) tous accessibles en 45 minutes`,
       highlight: `le sentier en bord de Traisen à travers le corridor du Traisenpark, le toit du Klangturm dans le quartier gouvernemental, et une journée dans la Wachau à Dürnstein et Spitz`,
       area: `l'Altstadt piéton autour de la Rathausplatz, le Regierungsviertel moderniste sur la Traisen, et le quartier des lacs de Viehofen au nord du centre`,
+    },
+    'sant-antoni': {
+      personality: `la capitale ouest d'Ibiza, 28 000 habitants, mondialement connue pour les bars de falaise du Sunset Strip et la tradition de mixtapes du Cafe del Mar depuis 1980, l'Església de Sant Antoni de Portmany du XIVe siècle (la plus ancienne église d'Ibiza), l'Hostal La Torre et Punta Galera pour des couchers de soleil plus calmes, et le ferry rapide Baleària vers Dénia depuis le Port Deportiu Marina`,
+      highlight: `le coucher de soleil au Cafe del Mar ou à l'Hostal La Torre, le sentier du sommet de Sa Talaia (475 m, point culminant d'Ibiza), les balades de falaise hors saison à Cala Bassa et Cala Conta, et les excursions en bateau à Es Vedrà depuis le Port Deportiu`,
+      area: `le Passeig Marítim et le Port Deportiu Marina, la place du vieux quartier autour de l'Església de Sant Antoni, le Sunset Strip du Cafe del Mar à Cap Negret, et les criques de la côte ouest Cala Bassa, Cala Conta, Cala Tarida et Cala Salada`,
     },
     'santa-eulalia': {
       personality: `la station familiale plus calme de la côte est d'Ibiza, commune de 38 000 habitants à l'année blottie autour de l'église-forteresse blanchie du XVIe siècle du Puig de Missa, du seul fleuve permanent des Pitiüses avec son Pont Vell romain et son moulin mil de baix, d'un long Paseo Marítimo et de sa marina, et du marché hippie Las Dalias à Sant Carles le samedi`,
@@ -3356,6 +3366,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el sendero junto al Traisen por el corredor del Traisenpark, la azotea del Klangturm en el barrio gubernamental, y una jornada por la Wachau en Dürnstein y Spitz`,
       area: `el Altstadt peatonal en torno a la Rathausplatz, el Regierungsviertel modernista junto al Traisen, y el distrito de los lagos de Viehofen al norte del centro`,
     },
+    'sant-antoni': {
+      personality: `la capital occidental de Ibiza, 28.000 habitantes, mundialmente conocida por los bares de acantilado del Sunset Strip y la tradición de mixtapes del Cafe del Mar desde 1980, la Església de Sant Antoni de Portmany del siglo XIV (la iglesia más antigua de Ibiza), el Hostal La Torre y Punta Galera para ocasos más tranquilos, y el ferry rápido Baleària a Dénia desde el Port Deportiu Marina`,
+      highlight: `el ocaso en Cafe del Mar o en Hostal La Torre, el sendero a la cima de Sa Talaia (475 m, la cima más alta de Ibiza), los paseos de acantilado fuera de temporada en Cala Bassa y Cala Conta, y las excursiones en barco a Es Vedrà desde el Port Deportiu`,
+      area: `el Passeig Marítim y el Port Deportiu Marina, la plaza del casco antiguo en torno a la Església de Sant Antoni, el Sunset Strip desde Cafe del Mar hasta Cap Negret, y las calas de la costa oeste Cala Bassa, Cala Conta, Cala Tarida y Cala Salada`,
+    },
     'santa-eulalia': {
       personality: `la estación familiar más tranquila de la costa este de Ibiza, municipio de 38.000 habitantes anuales arropado en torno a la iglesia-fortaleza blanqueada del siglo XVI del Puig de Missa, al único río permanente de las Pitiüses con su Pont Vell romano y su molino mil de baix, a un largo Paseo Marítimo y su marina, y al mercado hippie Las Dalias en Sant Carles los sábados`,
       highlight: `el panorama de la iglesia-fortaleza del Puig de Missa, el paseo del valle del Riu de Santa Eulària hasta el Pont Vell y el molino mil de baix, la playa canina todo el año de Cala Nova al norte de Es Canar, y el mercado hippie Las Dalias en Sant Carles cada sábado`,
@@ -4562,6 +4577,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a discreta capital da Baixa Áustria, 56.000 habitantes junto ao rio Traisen, com um Altstadt barroco pedonal, o bairro governamental modernista e a sua torre Klangturm, e as aldeias vinícolas da Wachau (Dürnstein, Spitz e Krems) todas acessíveis em 45 minutos`,
       highlight: `o trilho junto ao Traisen pelo corredor do Traisenpark, o terraço do Klangturm no bairro governamental, e um dia pela Wachau em Dürnstein e Spitz`,
       area: `o Altstadt pedonal em torno da Rathausplatz, o Regierungsviertel modernista junto ao Traisen, e o distrito dos lagos de Viehofen a norte do centro`,
+    },
+    'sant-antoni': {
+      personality: `a capital ocidental de Ibiza, 28.000 habitantes, mundialmente conhecida pelos bares de falésia do Sunset Strip e pela tradição de mixtapes do Cafe del Mar desde 1980, a Església de Sant Antoni de Portmany do século XIV (a igreja mais antiga de Ibiza), o Hostal La Torre e Punta Galera para pôres do sol mais tranquilos, e o ferry rápido Baleària para Dénia desde o Port Deportiu Marina`,
+      highlight: `o pôr do sol no Cafe del Mar ou no Hostal La Torre, o trilho do cume de Sa Talaia (475 m, o ponto mais alto de Ibiza), os passeios de falésia fora de época em Cala Bassa e Cala Conta, e as excursões de barco a Es Vedrà desde o Port Deportiu`,
+      area: `o Passeig Marítim e o Port Deportiu Marina, a praça do casco antigo em torno da Església de Sant Antoni, o Sunset Strip desde Cafe del Mar até Cap Negret, e as enseadas da costa oeste Cala Bassa, Cala Conta, Cala Tarida e Cala Salada`,
     },
     'santa-eulalia': {
       personality: `a estação familiar mais tranquila da costa leste de Ibiza, município de 38.000 habitantes anuais aconchegado em torno da igreja-fortaleza branqueada do século XVI do Puig de Missa, do único rio permanente das Pitiüses com a sua Pont Vell romana e o seu moinho mil de baix, de um longo Paseo Marítimo e da sua marina, e do mercado hippie Las Dalias em Sant Carles aos sábados`,

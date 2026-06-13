@@ -1167,6 +1167,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the 300-acre Punta Corrente forest park with three dog beaches inside, the sv. Eufemije hilltop belltower modelled on San Marco, the Grisia artist colony lane, and the Rovinj Archipelago ferry tenders to Sv. Katarina and Crveni otok`,
       area: `the Stari Grad peninsula around sv. Eufemije and the Balbi Arch, the harbour promenade and bus station edge, and the Monsena/Borik resort coast north of town`,
     },
+    pula: {
+      personality: `Istria's 53,000-resident former Roman capital on the southern tip of the peninsula, anchored by the 1st-century Arena (one of the six best-preserved Roman amphitheatres in the world), the Forum with its Augustan Temple of Augustus, the Arch of the Sergii and the Kaštel fortress hilltop, with the Punta Verudela peninsula 4 km south, the off-leash Cape Kamenjak nature park 10 km further on, PUY airport 7 km out and a seasonal Venezia Lines catamaran to Italy`,
+      highlight: `the Pula Arena exterior loop (free, 24/7, leashed-dog-friendly), the Forum-Augustus-Sergii pedestrian spine, the Kaštel hilltop 360° panorama, the Lungomare coastal walk to Stoja and the Cape Kamenjak nature park with off-leash dog coves`,
+      area: `the Roman-grid Old Town between the Arena and the Forum, the Verudela peninsula south of town with its resort hotels and dog beaches, and the Premantura/Cape Kamenjak nature park 10 km south for off-leash coastal walks`,
+    },
     zadar: {
       personality: `the Dalmatian coast's most under-rated city - Roman forum, pre-Romanesque Saint Donatus rotunda, the wave-powered Sea Organ and the LED Greeting to the Sun, all on a compact dog-friendly Old Town peninsula with year-round Adriatic dog beaches a short drive away`,
       highlight: `the 2 km Riva seafront promenade, the Sea Organ and Greeting to the Sun installations, and the officially designated Kažin dog beach near the Vir bridge`,
@@ -2338,6 +2343,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la ville-port vénitiano-italianisante d'Istrie, ancien îlot aux façades pastel descendant en cascade vers un port de pêche en activité sous le campanile de 60 m de sv. Eufemije, avec le parc forestier en front de mer de 300 acres Punta Corrente, quatre plages canines signalées, un Stari Grad bilingue croate-italien et le catamaran rapide saisonnier Venezia Lines vers Venise`,
       highlight: `le parc forestier de Punta Corrente de 300 acres avec trois plages canines à l'intérieur, le campanile de sv. Eufemije modelé sur San Marco, la ruelle de la colonie d'artistes Grisia et les bateaux navettes de l'archipel de Rovinj vers Sv. Katarina et Crveni otok`,
       area: `la péninsule du Stari Grad autour de sv. Eufemije et de l'Arc de Balbi, la promenade du port et l'orée de la gare routière, et la côte des stations balnéaires de Monsena/Borik au nord`,
+    },
+    pula: {
+      personality: `l'ancienne capitale romaine d'Istrie de 53 000 habitants à la pointe sud de la péninsule, ancrée par l'Arène du Ier siècle (l'un des six amphithéâtres romains les mieux conservés au monde), le Forum avec son Temple d'Auguste augustéen, l'Arc des Sergii et la colline du fort Kaštel, avec la péninsule de Punta Verudela à 4 km au sud, le parc naturel du cap Kamenjak en partie sans laisse 10 km plus loin, l'aéroport PUY à 7 km et un catamaran saisonnier Venezia Lines vers l'Italie`,
+      highlight: `la boucle extérieure de l'Arène de Pula (gratuite, 24h/24, dog-friendly en laisse), l'épine piétonne Forum-Temple d'Auguste-Sergii, le panorama 360° de la colline Kaštel, la promenade côtière Lungomare vers Stoja et le parc naturel du cap Kamenjak avec ses criques canines sans laisse`,
+      area: `la vieille ville en grille romaine entre l'Arène et le Forum, la péninsule de Verudela au sud avec ses hôtels-resorts et plages canines, et le parc naturel de Premantura/cap Kamenjak à 10 km au sud pour les promenades côtières sans laisse`,
     },
     zadar: {
       personality: `la ville la plus sous-estimée de la côte dalmate - forum romain, rotonde pré-romane Saint-Donat, Orgue de la Mer alimenté par les vagues et Salut au Soleil LED, le tout sur une compacte péninsule de vieille ville dog-friendly avec des plages canines adriatiques ouvertes toute l'année à courte distance`,
@@ -3511,6 +3521,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el parque forestal de Punta Corrente de 300 acres con tres playas caninas dentro, el campanario de sv. Eufemije modelado sobre San Marcos, la callejuela de la colonia de artistas Grisia y las lanzaderas del archipiélago de Rovinj a Sv. Katarina y Crveni otok`,
       area: `la península del Stari Grad alrededor de sv. Eufemije y el Arco de Balbi, el paseo del puerto y el borde de la estación de autobuses, y la costa de las urbanizaciones de Monsena/Borik al norte`,
     },
+    pula: {
+      personality: `la antigua capital romana de Istria de 53 000 habitantes en la punta sur de la península, anclada por el Arena del siglo I (uno de los seis anfiteatros romanos mejor conservados del mundo), el Foro con su Templo de Augusto augústeo, el Arco de los Sergios y la colina del fuerte Kaštel, con la península de Punta Verudela a 4 km al sur, el parque natural del cabo Kamenjak en parte sin correa 10 km más al sur, el aeropuerto PUY a 7 km y un catamarán estacional Venezia Lines a Italia`,
+      highlight: `el bucle exterior del Arena de Pula (gratis, 24/7, dog-friendly con correa), el espinazo peatonal Foro-Templo de Augusto-Sergios, el panorama de 360° del cerro Kaštel, el paseo costero Lungomare a Stoja y el parque natural del cabo Kamenjak con sus calas caninas sin correa`,
+      area: `el casco antiguo en retícula romana entre el Arena y el Foro, la península de Verudela al sur con sus hoteles-resort y playas caninas, y el parque natural de Premantura/cabo Kamenjak a 10 km al sur para paseos costeros sin correa`,
+    },
     zadar: {
       personality: `la ciudad más infravalorada de la costa dálmata: foro romano, rotonda prerrománica de San Donato, el Órgano del Mar accionado por las olas y el Saludo al Sol LED, todo en una compacta península de casco antiguo dog-friendly con playas caninas adriáticas todo el año a poca distancia`,
       highlight: `el paseo Riva de 2 km junto al mar, las instalaciones del Órgano del Mar y el Saludo al Sol, y la playa canina oficial de Kažin junto al puente de Vir`,
@@ -4682,6 +4697,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a cidade-porto veneciano-italianizante de Istria, antigo islote de fachadas pastel que caen en cascata sobre um porto pesquero en activo sob o campanario de 60 m de sv. Eufemije, com o parque florestal litoral de 300 acres Punta Corrente, quatro praias caninas senhalizadas, um Stari Grad bilingue croata-italiano e o catamarán rápido estacional Venezia Lines a Venecia`,
       highlight: `o parque florestal de Punta Corrente de 300 acres com três praias caninas dentro, o campanario de sv. Eufemije modelado sobre San Marcos, a callejuela da colónia de artistas Grisia e as lanzaderas do arquipélago de Rovinj a Sv. Katarina e Crveni otok`,
       area: `a península do Stari Grad alrededor de sv. Eufemije e o Arco de Balbi, o passeio do porto e o borde da estação de autocarros, e a costa das urbanizações de Monsena/Borik al norte`,
+    },
+    pula: {
+      personality: `a antiga capital romana de Istria com 53 000 habitantes na ponta sur da península, ancorada pelo Arena do século I (um dois seis anfiteatros romanos melhor preservados do mundo), o Fórum com o seu Templo de Augusto augústeo, o Arco dos Sérgios e a colina do forte Kaštel, com a península de Punta Verudela a 4 km a sul, o parque natural do cabo Kamenjak em parte sem trela 10 km mais a sul, o aeroporto PUY a 7 km e um catamarán estacional Venezia Lines a Itália`,
+      highlight: `o circuito exterior do Arena de Pula (grátis, 24/7, pet-friendly com trela), o espinazo peatonal Fórum-Templo de Augusto-Sérgios, o panorama de 360° do cerro Kaštel, o passeio costero Lungomare a Stoja e o parque natural do cabo Kamenjak com as suas calas caninas sem trela`,
+      area: `o centro histórico en retícula romana entre o Arena e o Fórum, a península de Verudela a sul com os seus hotéis-resort e praias caninas, e o parque natural de Premantura/cabo Kamenjak a 10 km a sul para passeios costeros sem trela`,
     },
     zadar: {
       personality: `a cidade mais subvalorizada da costa dálmata - fórum romano, rotunda pré-românica de São Donato, o Órgão do Mar movido pelas ondas e a Saudação ao Sol LED, tudo numa compacta península do centro histórico pet-friendly com praias caninas adriáticas todo o ano a curta distância`,

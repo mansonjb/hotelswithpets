@@ -14043,6 +14043,81 @@
     "iata": "IBZ"
   },
   {
+    "slug": "sant-josep",
+    "name": "Sant Josep de sa Talaia",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 7,
+    "heroImage": "/images/destinations/sant-josep.jpg",
+    "intro": "Largest municipality on Ibiza by area, 28,000 residents covering the entire south of the island: Es Vedrà (the 382 m vertical limestone monolith offshore from Cala d'Hort, with its 'third most magnetic place on Earth' lore), Sa Talaia (the island's 475 m highest peak, 2 h round-trip hike from the village), the 18th-century Església de Sant Josep in the casco antiguo plaza, the Parque Natural de Ses Salines d'Eivissa i Formentera (UNESCO Biosphere with salt pans, flamingos and Posidonia seagrass meadow), and the Sa Pedrera (Atlantis) quarry-cove descent. Beaches from Cala d'Hort, Cala Vadella, Cala Tarida, Cala Molí and Cala Carbó on the south-west to Cala Jondal, Sa Caleta, Es Codolar and the 2.7 km Platja d'en Bossa club strip on the south. Ibiza Airport (IBZ) sits inside the municipality 2 km from Platja d'en Bossa; TIB buses L24/L21/L25/L26 cover the area, no rail or ferry port, Aquabus seasonal coastal boats for summer cove-hopping, Es Vedrà boat tours from Cala d'Hort.",
+    "lat": 38.9214,
+    "lng": 1.2933,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Mild Mediterranean winter",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Warming, dry",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Pleasant spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot, beach season",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Very hot afternoons",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild, occasional rain",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild, festive",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "IBZ"
+  },
+  {
     "slug": "santa-eulalia",
     "name": "Santa Eulària des Riu",
     "country": "Spain",

@@ -166,6 +166,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parque Doña Casilda off-leash zone, the Artxanda funicular dog compartment, and the Nervión riverside walk to the Guggenheim',
       area: 'the Abando and Indautxu districts, the Casco Viejo seven streets, and the Abandoibarra waterfront',
     },
+    bled: {
+      personality: `Slovenia's postcard alpine village wrapped around an emerald glacial lake, where the 6 km lakeshore circuit is a famous urban dog walk, the clifftop castle explicitly welcomes leashed dogs on its outdoor terraces, and the Triglav National Park gateway runs from the village edge`,
+      highlight: 'the 6 km lake circuit with views of Bled Island and the church, the outdoor terraces and ramparts of Bled Castle, and the wooden walkways of Vintgar Gorge',
+      area: 'the eastern village lakeshore around Cesta svobode, the castle hill above the lake, and the Bled Jezero/Mlino quiet end',
+    },
     bologna: {
       personality: 'a medieval Italian city of porticoes and food markets that welcomes dogs into its cafés, piazzas and surrounding hills',
       highlight: 'the Giardini Margherita park, the porticoed San Luca trail (3.8 km), and the hills above the Bolognina district',
@@ -1349,6 +1354,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la zone hors laisse du Parc Doña Casilda, le compartiment dog-friendly du funiculaire d\'Artxanda et la promenade en bord de Nervión jusqu\'au Guggenheim',
       area: 'les quartiers Abando et Indautxu, les Sept Rues du Casco Viejo et le front de mer d\'Abandoibarra',
     },
+    bled: {
+      personality: `le village alpin carte postale de Slovénie blotti autour d'un lac glaciaire émeraude, où le circuit de 6 km autour du lac est une balade canine urbaine célèbre, le château perché sur sa falaise accueille explicitement les chiens en laisse sur ses terrasses extérieures et l'entrée du Parc national du Triglav démarre depuis le village`,
+      highlight: 'le circuit du lac de 6 km avec vue sur l\'île de Bled et son église, les terrasses extérieures et les remparts du château de Bled, et les passerelles en bois des gorges de Vintgar',
+      area: 'la rive est du village autour de Cesta svobode, la colline du château au-dessus du lac, et le bout calme Bled Jezero/Mlino',
+    },
     bologna: {
       personality: 'une ville médiévale italienne de portiques et de marchés qui accueille les chiens dans ses cafés, ses piazzas et ses collines environnantes',
       highlight: 'les Giardini Margherita, le sentier à portiques de San Luca (3,8 km) et les collines au-dessus du quartier de la Bolognina',
@@ -2531,6 +2541,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la zona de suelta del Parque Doña Casilda, el vagón dog-friendly del Funicular de Artxanda y el paseo fluvial del Nervión hasta el Guggenheim',
       area: 'los barrios de Abando e Indautxu, las Siete Calles del Casco Viejo y el paseo marítimo de Abandoibarra',
     },
+    bled: {
+      personality: `el pueblo alpino de postal de Eslovenia acurrucado en torno a un lago glaciar esmeralda, donde el circuito del lago de 6 km es un famoso paseo canino urbano, el castillo encaramado en su acantilado da explícitamente la bienvenida a los perros con correa en sus terrazas exteriores, y la puerta de entrada al Parque Nacional del Triglav arranca desde el propio pueblo`,
+      highlight: 'el circuito del lago de 6 km con vistas a la isla de Bled y a su iglesia, las terrazas exteriores y las murallas del castillo de Bled, y las pasarelas de madera de la Garganta de Vintgar',
+      area: 'la orilla este del pueblo en torno a Cesta svobode, la colina del castillo sobre el lago, y el tramo tranquilo de Bled Jezero/Mlino',
+    },
     bologna: {
       personality: 'una ciudad medieval italiana de pórticos y mercados gastronómicos que acoge a los perros en sus cafés, plazas y las colinas circundantes',
       highlight: 'los Giardini Margherita, el sendero con pórticos de San Luca (3,8 km) y las colinas sobre el barrio de la Bolognina',
@@ -3712,6 +3727,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das cidades mais pet-friendly de Espanha, onde o elétrico admite todas as tallas, os bares de pintxos aceitam oficialmente cães en interior e a escultura \'Puppy\' do Guggenheim hace sentir a cada cão como en casa',
       highlight: 'a zona de suelta do Parque Donha Casilda, o vagón pet-friendly do Funicular de Artxanda e o passeio fluvial do Nervión até o Guggenheim',
       area: 'os bairros de Abando e Indautxu, as Siete Ruas do Casco Viejo e o passeio marítimo de Abandoibarra',
+    },
+    bled: {
+      personality: `a aldeia alpina de postal da Eslovénia aconchegada à volta de um lago glaciar esmeralda, onde o circuito do lago de 6 km é um famoso passeio canino urbano, o castelo empoleirado na sua falésia aceita explicitamente cães com trela nas suas esplanadas exteriores, e a porta de entrada do Parque Nacional do Triglav arranca a partir da própria aldeia`,
+      highlight: 'o circuito do lago de 6 km com vista para a ilha de Bled e a sua igreja, as esplanadas exteriores e as muralhas do castelo de Bled, e as passadeiras de madeira do Desfiladeiro de Vintgar',
+      area: 'a margem leste da aldeia em torno de Cesta svobode, a colina do castelo sobre o lago, e o troço tranquilo de Bled Jezero/Mlino',
     },
     bologna: {
       personality: 'uma cidade medieval italiana de pórticos e mercados gastronómicos que acoge aos cães en os seus cafés, praças e as colinas circundantes',

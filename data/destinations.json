@@ -2180,6 +2180,81 @@
     "tiqetsId": "66335"
   },
   {
+    "slug": "bled",
+    "name": "Bled",
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "flag": "🇸🇮",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bled.jpg",
+    "intro": "Bled wraps a tiny alpine village around an emerald glacial lake with a 6 km dog-friendly shore circuit, the only island in Slovenia crowned by the Pilgrimage Church of the Assumption (reached by traditional pletna boats), an 11th-century clifftop castle that explicitly welcomes leashed dogs on its outdoor terraces, the wooden walkways of Vintgar Gorge, and direct gateway access to Triglav National Park, one of Europe's most naturally pet-friendly alpine bases.",
+    "lat": 46.3683,
+    "lng": 14.1146,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold, snow likely",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold, snow likely",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Spring melt",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild, fresh",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Warm, green peaks",
+        "icon": "🌿"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm, swims start",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm, lake season",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm, lake season",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild, golden light",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool, autumn colour",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold, first snow",
+        "icon": "🎄"
+      }
+    },
+    "iata": "LJU"
+  },
+  {
     "slug": "bologna",
     "name": "Bologna",
     "country": "Italy",
@@ -5112,81 +5187,6 @@
     "tiqetsId": "113"
   },
   {
-    "slug": "corfu",
-    "name": "Corfu",
-    "country": "Greece",
-    "countryCode": "GR",
-    "flag": "🇬🇷",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/corfu.jpg",
-    "intro": "Corfu (Kerkyra, ~25k in the capital, ~100k island-wide) is the Ionian gateway where a UNESCO-listed Venetian Old Town layers 400 years of Venetian rule, French Napoleonic arcades (the Liston) and British neoclassical palaces (St Michael and St George). The 8-hectare Spianada is the largest public square in Greece, the Old Fortress promontory offers a 360 degree harbour panorama, the Mon Repos villa park (Prince Philip's birthplace) gives the shadiest in-town dog walk, and Kanoni's Pontikonisi Mouse Island view is the island's iconic postcard. Beaches range from the urban Garitsa Bay (10 min walk) to Glyfada 17 km west, the cove cluster of Paleokastritsa 25 km NW, and the sandstone Canal d'Amour at Sidari. Lush green and milder than the Aegean thanks to the Ionian climate; ideal Apr–Jun and Sep–Oct. CFU airport is only 2 km south of the centre; the New Port runs hourly Igoumenitsa ferries (1h30) and overnight Brindisi/Bari ferries to Italy.",
-    "lat": 39.6243,
-    "lng": 19.9217,
-    "weather": {
-      "jan": {
-        "temp": 11,
-        "desc": "Mild, wettest month",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 11,
-        "desc": "Mild, rainy spells",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 13,
-        "desc": "Spring begins",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 16,
-        "desc": "Lush green spring",
-        "icon": "🌸"
-      },
-      "may": {
-        "temp": 20,
-        "desc": "Warm, ideal",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 24,
-        "desc": "Warm, dry",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 27,
-        "desc": "Hot & humid",
-        "icon": "🔥"
-      },
-      "aug": {
-        "temp": 27,
-        "desc": "Hot & humid",
-        "icon": "🔥"
-      },
-      "sep": {
-        "temp": 24,
-        "desc": "Warm, ideal",
-        "icon": "☀️"
-      },
-      "oct": {
-        "temp": 20,
-        "desc": "Mild, first rains",
-        "icon": "🌤️"
-      },
-      "nov": {
-        "temp": 16,
-        "desc": "Mild, wet",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 13,
-        "desc": "Mild, festive",
-        "icon": "🎄"
-      }
-    },
-    "iata": "CFU"
-  },
-  {
     "slug": "cordoba",
     "name": "Cordoba",
     "country": "Spain",
@@ -5261,6 +5261,81 @@
     },
     "iata": "SVQ",
     "tiqetsId": "27"
+  },
+  {
+    "slug": "corfu",
+    "name": "Corfu",
+    "country": "Greece",
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/corfu.jpg",
+    "intro": "Corfu (Kerkyra, ~25k in the capital, ~100k island-wide) is the Ionian gateway where a UNESCO-listed Venetian Old Town layers 400 years of Venetian rule, French Napoleonic arcades (the Liston) and British neoclassical palaces (St Michael and St George). The 8-hectare Spianada is the largest public square in Greece, the Old Fortress promontory offers a 360 degree harbour panorama, the Mon Repos villa park (Prince Philip's birthplace) gives the shadiest in-town dog walk, and Kanoni's Pontikonisi Mouse Island view is the island's iconic postcard. Beaches range from the urban Garitsa Bay (10 min walk) to Glyfada 17 km west, the cove cluster of Paleokastritsa 25 km NW, and the sandstone Canal d'Amour at Sidari. Lush green and milder than the Aegean thanks to the Ionian climate; ideal Apr–Jun and Sep–Oct. CFU airport is only 2 km south of the centre; the New Port runs hourly Igoumenitsa ferries (1h30) and overnight Brindisi/Bari ferries to Italy.",
+    "lat": 39.6243,
+    "lng": 19.9217,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild, wettest month",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild, rainy spells",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Spring begins",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Lush green spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & humid",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & humid",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild, first rains",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild, wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild, festive",
+        "icon": "🎄"
+      }
+    },
+    "iata": "CFU"
   },
   {
     "slug": "cork",
@@ -12468,6 +12543,81 @@
     "tiqetsId": "64162"
   },
   {
+    "slug": "pula",
+    "name": "Pula",
+    "country": "Croatia",
+    "countryCode": "HR",
+    "flag": "🇭🇷",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/pula.jpg",
+    "intro": "Istria`s 53,000-resident former Roman capital on the southern tip of the peninsula, anchored by the 1st-century Arena (one of the six best-preserved Roman amphitheatres in the world), the Forum with its Augustan Temple of Augustus, the Arch of the Sergii and the Kaštel fortress hilltop, with the Punta Verudela peninsula 4 km south and the off-leash Cape Kamenjak nature park 10 km further on, plus PUY airport 7 km out, a regional rail link to Slovenia and the seasonal Venezia Lines catamaran to Italy.",
+    "lat": 44.8666,
+    "lng": 13.8496,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      }
+    },
+    "iata": "PUY"
+  },
+  {
     "slug": "regensburg",
     "name": "Regensburg",
     "country": "Germany",
@@ -13137,81 +13287,6 @@
         "temp": 9,
         "desc": "Cool & damp",
         "icon": "🌧️"
-      }
-    },
-    "iata": "PUY"
-  },
-  {
-    "slug": "pula",
-    "name": "Pula",
-    "country": "Croatia",
-    "countryCode": "HR",
-    "flag": "🇭🇷",
-    "categoryCount": 8,
-    "heroImage": "/images/destinations/pula.jpg",
-    "intro": "Istria`s 53,000-resident former Roman capital on the southern tip of the peninsula, anchored by the 1st-century Arena (one of the six best-preserved Roman amphitheatres in the world), the Forum with its Augustan Temple of Augustus, the Arch of the Sergii and the Kaštel fortress hilltop, with the Punta Verudela peninsula 4 km south and the off-leash Cape Kamenjak nature park 10 km further on, plus PUY airport 7 km out, a regional rail link to Slovenia and the seasonal Venezia Lines catamaran to Italy.",
-    "lat": 44.8666,
-    "lng": 13.8496,
-    "weather": {
-      "jan": {
-        "temp": 8,
-        "desc": "Cool & breezy",
-        "icon": "🌥️"
-      },
-      "feb": {
-        "temp": 9,
-        "desc": "Cool & breezy",
-        "icon": "🌥️"
-      },
-      "mar": {
-        "temp": 11,
-        "desc": "Mild & breezy",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 14,
-        "desc": "Mild & sunny",
-        "icon": "☀️"
-      },
-      "may": {
-        "temp": 19,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 23,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 22,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "oct": {
-        "temp": 17,
-        "desc": "Mild & sunny",
-        "icon": "🌤️"
-      },
-      "nov": {
-        "temp": 13,
-        "desc": "Cool & breezy",
-        "icon": "🌥️"
-      },
-      "dec": {
-        "temp": 9,
-        "desc": "Cool & breezy",
-        "icon": "🌥️"
       }
     },
     "iata": "PUY"

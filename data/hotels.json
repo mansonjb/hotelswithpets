@@ -3872,6 +3872,129 @@
     "petPolicyPt": "O Petit Palace Arana Bilbao é um hotel boutique de 3 estrelas instalado num edifício do século XIX à entrada do Casco Viejo, em frente ao Teatro Arriaga. Animais de qualquer tamanho são bem-vindos em quartos designados por um suplemento de cerca de €25 por animal por noite. O hotel oferece cama, taça e comida para o animal à chegada. Há bicicletas gratuitas para os hóspedes e o Guggenheim fica a 20 minutos a pé. Indique o seu animal no momento da reserva."
   },
   {
+    "id": "bled-1",
+    "name": "Hotel Park",
+    "destinationSlug": "bled",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3520,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/park-bled.html",
+    "petFee": 35,
+    "petPolicy": "Hotel Park (Sava Hotels & Resorts) welcomes well-behaved pets in designated rooms for a fee of 35 EUR per pet per night, as published on the official Sava Hotels site. Pets are not permitted in the hotel restaurant, bar or Spa Park. Both dogs and cats are accepted. Bowls and a brief Bled dog-walking guide are typically provided on request. Lake-view rooms face directly onto Bled Island and the famous Park Cafe kremsnita terrace is right downstairs.",
+    "highlights": [
+      "Lake Bled front-row view",
+      "Home of the original kremsnita",
+      "On the 6 km lake circuit"
+    ],
+    "slug": "hotel-park-bled"
+  },
+  {
+    "id": "bled-2",
+    "name": "Hotel Triglav Bled",
+    "destinationSlug": "bled",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1980,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/triglav-bled.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Triglav Bled is one of the most genuinely pet-welcoming hotels at the lake. Pets of any size are accepted in designated pet-friendly rooms for 20 EUR per pet per night, both dogs and cats. The hotel provides a welcome amenity of dog biscuits and a bowl in the room, and staff are noted by guests for being especially warm with arriving dogs. Located on the quiet Bled Jezero end of the lake, just above the train station, with direct lake-circuit access.",
+    "highlights": [
+      "Welcome dog biscuits and bowls",
+      "Quiet Bled Jezero lake end",
+      "Direct lake-circuit access"
+    ],
+    "slug": "hotel-triglav-bled"
+  },
+  {
+    "id": "bled-3",
+    "name": "Hotel Lovec",
+    "destinationSlug": "bled",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 2640,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/lovec.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Lovec accepts well-behaved pets on request for a fee of approximately 25 EUR per night, charged at check-in. Both dogs and cats are welcomed in designated rooms. The hotel is in the centre of Bled village, 200 m from the lakeshore, putting the lake circuit, castle walk-up and main village restaurants all within an easy on-leash stroll. Declare your pet at booking to secure pet-friendly room allocation.",
+    "highlights": [
+      "200 m from the lake",
+      "Central village location",
+      "Walk-up to Bled Castle"
+    ],
+    "slug": "hotel-lovec-bled"
+  },
+  {
+    "id": "bled-4",
+    "name": "Bled Rose Hotel",
+    "destinationSlug": "bled",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1430,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/jelovica.html",
+    "petFee": 15,
+    "petPolicy": "Bled Rose Hotel (formerly Hotel Jelovica) accepts dogs and cats on request for around 15 EUR per night. One pet per room, maximum dog weight 10 kg. Located in the heart of Bled village near the bus station, 5 to 7 minutes on foot to the lakeshore promenade. Notify the hotel at booking that you are travelling with a pet.",
+    "highlights": [
+      "Heart of Bled village",
+      "Walking distance to lake circuit",
+      "Affordable lake-area pricing"
+    ],
+    "slug": "bled-rose-hotel"
+  },
+  {
+    "id": "bled-5",
+    "name": "Hotel Krim Bled",
+    "destinationSlug": "bled",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 2100,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/krim.html",
+    "petFee": 7,
+    "petPolicy": "Hotel Krim is a friendly 3-star option in the centre of Bled with the most affordable pet policy in the village, around 7 EUR per pet per night on request, both dogs and cats accepted. A simple, well-located base for active travellers spending most of their day on the lake circuit, Triglav National Park trails or Vintgar Gorge. Confirm the pet at booking.",
+    "highlights": [
+      "Lowest pet fee in Bled",
+      "Central village base",
+      "Walk to lake and castle"
+    ],
+    "slug": "hotel-krim-bled"
+  },
+  {
     "id": "bologna-1",
     "name": "Grand Hotel Majestic già Baglioni",
     "destinationSlug": "bologna",

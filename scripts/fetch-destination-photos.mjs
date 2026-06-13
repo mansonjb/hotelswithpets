@@ -24,6 +24,7 @@ async function loadApiKey() {
 
 // Slug → query targeting a photogenic, pet-relevant landmark
 const TARGETS = [
+  { slug: 'bled',          query: 'Bled Slovenia Lake Bled emerald glacial alpine lake Blejski otok Bled Island Pilgrimage Church Assumption clifftop Blejski grad Bled Castle Julian Alps Karavanke pletna wooden rowboats Triglav National Park panorama sunset' },
   { slug: 'corfu',         query: 'Corfu Kerkyra Greece Ionian UNESCO Old Town Liston arcade Spianada esplanade Old Fortress Venetian fortress harbour Palace of St Michael and St George British neoclassical Mon Repos villa park Kanoni Pontikonisi Mouse Island Vlacherna monastery causeway Paleokastritsa cliffs turquoise coves panorama sunset' },
   { slug: 'santorini',     query: 'Santorini Thira Greece Cyclades caldera Fira capital whitewashed cliff-top village blue-domed church Oia sunset Imerovigli Skaros Rock Pyrgos hilltop village Kasteli castle Akrotiri Minoan Bronze Age archaeological site Red Beach Black Beach Perissa Vlychada lunar bluffs Aegean volcanic island panorama sunset' },
   { slug: 'haarlem',       query: 'Haarlem Netherlands Grote Markt Grote Sint-Bavokerk cathedral Frans Hals tomb Mozart Muller organ Spaarne river De Adriaan windmill hofjes Haarlemmerhout panorama sunset' },

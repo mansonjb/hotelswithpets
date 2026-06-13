@@ -3452,6 +3452,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bled: {
+    history: {
+      fr: `Bled, minuscule station de villégiature de 5 000 habitants au pied des Alpes Juliennes, s'enroule autour d'un lac glaciaire de 2 km de long aux eaux émeraude. Au centre du lac, l'Île de Bled (Blejski otok), unique île naturelle de Slovénie, porte l'église de pèlerinage de l'Assomption (consacrée pour la première fois en 1465) à laquelle on accède exclusivement par les pletna, barques en bois à fond plat exploitées par 24 familles agréées détenant des droits héréditaires depuis 1740. Sur la falaise nord-est du lac, le château de Bled (Blejski grad, premier témoignage 1011) domine le village du haut de 130 m. Bled est la porte d'entrée du Parc national du Triglav et abrite l'une des plus vieilles cultures de villégiature alpine d'Europe, lancée dès 1855 par le médecin suisse Arnold Rikli avec sa cure d'air et de soleil.`,
+      en: `Bled, a tiny 5,000-resident alpine resort village at the foot of the Julian Alps, wraps around a 2 km long emerald glacial lake. At the lake's centre, Bled Island (Blejski otok), Slovenia's only natural island, carries the Pilgrimage Church of the Assumption (first consecrated 1465), reached exclusively by traditional pletna flat-bottomed wooden rowboats operated by 24 licensed families with hereditary rights granted in 1740. On the northeastern lake cliff, Bled Castle (Blejski grad, first documented 1011) crowns the village from 130 m above. Bled is the gateway to Triglav National Park and hosts one of Europe's oldest alpine spa cultures, launched in 1855 by Swiss doctor Arnold Rikli with his air and sun cure.`,
+      es: `Bled, pequeñísima estación de villeggiatura alpina de 5 000 habitantes al pie de los Alpes Julianos, se enrosca alrededor de un lago glaciar de 2 km de largo de aguas esmeralda. En el centro del lago, la Isla de Bled (Blejski otok), única isla natural de Eslovenia, alberga la Iglesia de Peregrinación de la Asunción (consagrada por primera vez en 1465), a la que se accede exclusivamente con las pletna, barcas de madera de fondo plano gestionadas por 24 familias autorizadas con derechos hereditarios desde 1740. En el acantilado noreste del lago, el castillo de Bled (Blejski grad, primera mención 1011) corona el pueblo desde 130 m de altura. Bled es la puerta de entrada al Parque Nacional del Triglav y alberga una de las culturas balnearias alpinas más antiguas de Europa, lanzada en 1855 por el médico suizo Arnold Rikli con su cura de aire y sol.`,
+      pt: `Bled, minúscula estância alpina de 5 000 habitantes ao pé dos Alpes Julianos, enrola-se à volta de um lago glaciar de 2 km de comprimento com águas esmeralda. No centro do lago, a Ilha de Bled (Blejski otok), única ilha natural da Eslovénia, alberga a Igreja de Peregrinação da Assunção (consagrada pela primeira vez em 1465), acessível exclusivamente pelas pletna, barcas de madeira de fundo chato operadas por 24 famílias licenciadas com direitos hereditários desde 1740. Na falésia nordeste do lago, o castelo de Bled (Blejski grad, primeiro documentado em 1011) coroa a aldeia a partir de 130 m de altura. Bled é a porta de entrada para o Parque Nacional do Triglav e alberga uma das mais antigas culturas balneares alpinas da Europa, lançada em 1855 pelo médico suíço Arnold Rikli com a sua cura de ar e sol.`,
+    },
+    sights: [
+      {
+        name: 'Lake Bled (Blejsko jezero)',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Lac glaciaire alpin de 2 km de long aux eaux émeraude entouré d'une promenade dog-friendly de 6 km, presque entièrement plate. Les rives ouest et nord, plus calmes, offrent les meilleurs points d'accès informels à la baignade canine en dehors des deux zones de baignade publiques où les chiens sont interdits.`,
+          en: `A 2 km long alpine glacial lake with emerald water ringed by a 6 km dog-friendly path that is almost completely flat. The quieter western and northern shores offer the best informal dog-swim entry points, outside the two formal public bathing zones where dogs are not allowed.`,
+          es: `Lago glaciar alpino de 2 km de largo con aguas esmeralda rodeado por un paseo pet-friendly de 6 km, casi totalmente llano. Las orillas oeste y norte, más tranquilas, ofrecen los mejores puntos de baño canino informales, fuera de las dos zonas de baño públicas donde los perros no están permitidos.`,
+          pt: `Lago glaciar alpino de 2 km de comprimento com águas esmeralda rodeado por um passeio pet-friendly de 6 km, quase totalmente plano. As margens oeste e norte, mais tranquilas, oferecem os melhores pontos de banho canino informais, fora das duas zonas balneares públicas onde os cães não são permitidos.`,
+        },
+      },
+      {
+        name: 'Bled Island (Blejski otok)',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Seule île naturelle de Slovénie, atteinte par les pletna traditionnelles depuis 1740. La cour extérieure de l'église de l'Assomption et le sentier du périmètre acceptent les chiens en laisse (acceptation pletna à la discrétion de l'opérateur). Les 99 marches en pierre depuis le débarcadère sont en plein air.`,
+          en: `Slovenia's only natural island, reached by traditional pletna boats since 1740. The outdoor courtyard of the Pilgrimage Church of the Assumption and the perimeter path admit leashed dogs (pletna acceptance at the operator's discretion). The 99 stone steps from the boat landing are all outdoor.`,
+          es: `Única isla natural de Eslovenia, a la que se llega con las pletna tradicionales desde 1740. El patio exterior de la Iglesia de Peregrinación de la Asunción y el sendero perimetral admiten perros con correa (la aceptación en la pletna queda a discreción del operador). Los 99 escalones de piedra desde el embarcadero son todos al aire libre.`,
+          pt: `Única ilha natural da Eslovénia, alcançada pelas pletna tradicionais desde 1740. O pátio exterior da Igreja de Peregrinação da Assunção e o trilho do perímetro admitem cães com trela (a aceitação na pletna fica ao critério do operador). Os 99 degraus de pedra a partir do cais são todos ao ar livre.`,
+        },
+      },
+      {
+        name: 'Bled Castle (Blejski grad)',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Forteresse du XIe siècle perchée sur une falaise calcaire de 130 m au-dessus du lac. Les chiens en laisse sont explicitement bienvenus dans toutes les cours extérieures, sur les remparts et sur la terrasse panoramique qui offre la plus belle vue du lac, de l'île et de l'église. Non admis dans le musée intérieur.`,
+          en: `An 11th-century fortress perched on a 130 m limestone cliff above the lake. Leashed dogs are explicitly welcome in all outdoor courtyards, on the ramparts, and on the panoramic terrace that delivers the finest view of the lake, island and church. Not admitted to the indoor museum.`,
+          es: `Fortaleza del siglo XI encaramada en un acantilado calizo de 130 m sobre el lago. Los perros con correa son explícitamente bienvenidos en todos los patios exteriores, en las murallas y en la terraza panorámica que ofrece la mejor vista del lago, la isla y la iglesia. No admitidos en el museo interior.`,
+          pt: `Fortaleza do século XI empoleirada numa falésia calcária de 130 m sobre o lago. Os cães com trela são explicitamente bem-vindos em todos os pátios exteriores, nas muralhas e na esplanada panorâmica que oferece a melhor vista do lago, da ilha e da igreja. Não admitidos no museu interior.`,
+        },
+      },
+      {
+        name: 'Vintgar Gorge (Soteska Vintgar)',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Passerelle en bois de 1,6 km construite en 1893 le long de la rivière Radovna à travers une gorge calcaire de 250 m, se terminant à la cascade Šum. Chiens en laisse admis avec le droit d'entrée standard. Étroit, ne convient qu'aux chiens calmes. Fermé l'hiver (réouverture fin avril).`,
+          en: `A 1.6 km wooden walkway built in 1893 along the Radovna river through a 250 m limestone gorge, ending at the Šum waterfall. Leashed dogs admitted with standard entry fee. Narrow, only suitable for calm dogs. Closed in winter (reopens late April).`,
+          es: `Pasarela de madera de 1,6 km construida en 1893 a lo largo del río Radovna a través de una garganta caliza de 250 m, que termina en la cascada Šum. Perros con correa admitidos con la tarifa de entrada estándar. Estrecha, solo adecuada para perros tranquilos. Cerrada en invierno (reabre a finales de abril).`,
+          pt: `Passadeira de madeira de 1,6 km construída em 1893 ao longo do rio Radovna através de um desfiladeiro calcário de 250 m, terminando na cascata Šum. Cães com trela admitidos com a taxa de entrada normal. Estreita, apenas adequada a cães calmos. Encerrada no inverno (reabre em finais de abril).`,
+        },
+      },
+      {
+        name: 'Triglav National Park & Bohinj Lake',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Le seul parc national de Slovénie commence à quelques kilomètres à l'ouest de Bled et inclut le lac de Bohinj (20 km), plus sauvage et plus calme que Bled. Chiens strictement en laisse partout dans le parc, particulièrement appliqué d'avril à octobre pour protéger les oiseaux nichant au sol et le bétail en pâture.`,
+          en: `Slovenia's only national park starts a few kilometres west of Bled and includes Lake Bohinj (20 km), wilder and quieter than Bled itself. Dogs strictly on leash everywhere in the park, particularly enforced April to October to protect ground-nesting birds and grazing livestock.`,
+          es: `El único parque nacional de Eslovenia empieza a pocos kilómetros al oeste de Bled e incluye el lago de Bohinj (20 km), más salvaje y tranquilo que el propio Bled. Perros estrictamente con correa en todo el parque, especialmente aplicado de abril a octubre para proteger a las aves que anidan en el suelo y al ganado pastando.`,
+          pt: `O único parque nacional da Eslovénia começa a poucos quilómetros a oeste de Bled e inclui o Lago de Bohinj (20 km), mais selvagem e tranquilo do que a própria Bled. Cães estritamente com trela em todo o parque, aplicado particularmente de abril a outubro para proteger as aves que nidificam no solo e o gado em pastagem.`,
+        },
+      },
+      {
+        name: 'Mount Straža & Vrba village',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Colline boisée de 646 m s'élevant directement au-dessus de la rive sud du lac, avec montée à pied de 30 à 45 min sur sentier forestier balisé pour une vue alternative sur le lac. Vrba, à 3 km, est le village natal du poète national France Prešeren, balade paisible à la campagne. Chiens en laisse partout.`,
+          en: `A 646 m forested hill rising directly above the southern shore of the lake, with a 30 to 45 min climb on a marked forest trail for an alternative lake panorama. Vrba, 3 km away, is the birthplace village of national poet France Prešeren, a peaceful countryside walk. Dogs on leash throughout.`,
+          es: `Una colina boscosa de 646 m que se eleva directamente sobre la orilla sur del lago, con una subida de 30 a 45 min por un sendero forestal marcado para una vista alternativa del lago. Vrba, a 3 km, es el pueblo natal del poeta nacional France Prešeren, paseo tranquilo por el campo. Perros con correa en todas partes.`,
+          pt: `Uma colina arborizada de 646 m que se eleva directamente sobre a margem sul do lago, com uma subida de 30 a 45 min por um trilho florestal marcado para um panorama alternativo do lago. Vrba, a 3 km, é a aldeia natal do poeta nacional France Prešeren, um passeio tranquilo pelo campo. Cães com trela em toda a parte.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le circuit du lac de 6 km est la balade quotidienne par défaut, presque entièrement plate, chiens en laisse, abondants points d'eau et bancs.`,
+        `Triglav National Park impose les chiens en laisse sur tous les sentiers balisés, strictement appliqué d'avril à octobre pour protéger les oiseaux nichant au sol.`,
+        `Le château de Bled accueille explicitement les chiens en laisse dans toutes les cours extérieures et sur les remparts, non admis dans le musée intérieur.`,
+        `Les pletna vers l'île de Bled acceptent les chiens à la discrétion de l'opérateur, presque toujours oui hors juillet-août si on demande poliment avant d'embarquer.`,
+        `Les deux zones de baignade publiques aménagées du lac (Grajsko kopališče, Velika Zaka) interdisent les chiens, baignez votre chien sur les rives ouest et nord plus calmes en dehors des périmètres balisés.`,
+      ],
+      en: [
+        `The 6 km lake circuit is the daily walk by default, almost completely flat, dogs on leash, plenty of water fountains and benches along the loop.`,
+        `Triglav National Park requires dogs on leash on all marked trails, strictly enforced April to October to protect ground-nesting birds.`,
+        `Bled Castle explicitly welcomes leashed dogs in all outdoor courtyards and on the ramparts, not admitted to the indoor museum.`,
+        `Pletna boats to Bled Island accept dogs at operator discretion, almost always yes outside July-August if you ask politely before boarding.`,
+        `The lake's two formal public bathing zones (Grajsko kopališče, Velika Zaka) ban dogs, swim your dog on the quieter western and northern shores outside the marked perimeters.`,
+      ],
+      es: [
+        `El circuito del lago de 6 km es el paseo diario por defecto, casi totalmente llano, perros con correa, abundantes fuentes de agua y bancos a lo largo de la vuelta.`,
+        `El Parque Nacional del Triglav exige perros con correa en todos los senderos marcados, aplicado estrictamente de abril a octubre para proteger a las aves que anidan en el suelo.`,
+        `El castillo de Bled da explícitamente la bienvenida a los perros con correa en todos los patios exteriores y en las murallas, no admitidos en el museo interior.`,
+        `Las pletna a la isla de Bled aceptan perros a discreción del operador, casi siempre sí fuera de julio-agosto si se pregunta amablemente antes de subir.`,
+        `Las dos zonas de baño públicas habilitadas del lago (Grajsko kopališče, Velika Zaka) prohíben los perros, baña a tu perro en las orillas oeste y norte más tranquilas fuera de los perímetros marcados.`,
+      ],
+      pt: [
+        `O circuito do lago de 6 km é o passeio diário por defeito, quase totalmente plano, cães com trela, fontes de água e bancos abundantes ao longo do percurso.`,
+        `O Parque Nacional do Triglav exige cães com trela em todos os trilhos marcados, aplicado com rigor de abril a outubro para proteger as aves que nidificam no solo.`,
+        `O castelo de Bled aceita explicitamente cães com trela em todos os pátios exteriores e nas muralhas, não admitidos no museu interior.`,
+        `As pletna para a ilha de Bled aceitam cães ao critério do operador, quase sempre sim fora de julho-agosto se for pedido com simpatia antes de embarcar.`,
+        `As duas zonas balneares públicas delimitadas do lago (Grajsko kopališče, Velika Zaka) proíbem cães, banhe o seu cão nas margens oeste e norte mais tranquilas fora dos perímetros marcados.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Bled n'a pas d'aéroport propre, Ljubljana LJU est à 35 min en voiture et environ 1 h 15 en bus direct, Klagenfurt KLA en Autriche à environ 1 h en voiture.`,
+        `Les chemins de fer slovènes (SŽ) desservent Bled Jezero (au bord du lac) via Jesenice et Lesce-Bled (4 km du village, ligne principale). Petits chiens en sac de transport sous 5 kg gratuits, grands chiens en laisse avec muselière et billet animal d'environ 5 €.`,
+        `Clinique vétérinaire de référence : Vet Klinika Lesce (Alpska cesta 49, Lesce, à 4 km), ligne principale +386 4 537 7100, urgence hors horaires +386 51 645 409. Référence 24h/24 : KMŽ Small Animal Clinic Ljubljana (+386 30 716 190, à 55 km).`,
+        `Climat alpin continental : été 19-22 °C (juin-août), baignade dans le lac à 22-26 °C en surface ; hiver 0 à 2 °C avec neige régulière de décembre à mars, deux stations de ski (Krvavec, Vogel) à 30 à 50 km. Meilleure saison canine : mai, juin, septembre.`,
+        `Slovénie membre de l'UE, passeport européen pour animaux avec vaccin antirabique à jour et puce ISO suffisant. Triglav National Park impose la laisse stricte d'avril à octobre.`,
+      ],
+      en: [
+        `Bled has no airport of its own, Ljubljana LJU is 35 min by car and about 1 h 15 by direct bus, Klagenfurt KLA in Austria is about 1 h by car.`,
+        `Slovenian Railways (SŽ) serves Bled Jezero (lakeside) via Jesenice and Lesce-Bled (4 km from the village, main line). Small dogs in a carrier under 5 kg ride free, larger dogs on a leash with a muzzle and a small pet ticket (about 5 EUR).`,
+        `Reference vet clinic: Vet Klinika Lesce (Alpska cesta 49, Lesce, 4 km away), main line +386 4 537 7100, out-of-hours emergency +386 51 645 409. 24-hour referral: KMŽ Small Animal Clinic Ljubljana (+386 30 716 190, 55 km).`,
+        `Alpine continental climate: summer 19-22 degrees Celsius (June-August), lake swimming at 22-26 degrees Celsius surface; winter 0 to 2 degrees Celsius with reliable snow December to March, two ski resorts (Krvavec, Vogel) within 30 to 50 km. Best dog season: May, June, September.`,
+        `Slovenia is an EU member, EU pet passport with current rabies vaccination and ISO microchip is sufficient. Triglav National Park enforces strict leash rule April to October.`,
+      ],
+      es: [
+        `Bled no tiene aeropuerto propio, Ljubljana LJU está a 35 min en coche y unos 1 h 15 en autobús directo, Klagenfurt KLA en Austria está a alrededor de 1 h en coche.`,
+        `Los Ferrocarriles Eslovenos (SŽ) sirven Bled Jezero (junto al lago) vía Jesenice y Lesce-Bled (a 4 km del pueblo, línea principal). Perros pequeños en transportín de menos de 5 kg gratis, perros más grandes con correa y bozal y pequeño billete de mascota (unos 5 €).`,
+        `Clínica veterinaria de referencia: Vet Klinika Lesce (Alpska cesta 49, Lesce, a 4 km), línea principal +386 4 537 7100, urgencias fuera de horario +386 51 645 409. Referencia 24h: KMŽ Small Animal Clinic Ljubljana (+386 30 716 190, a 55 km).`,
+        `Clima alpino continental: verano 19-22 grados Celsius (junio-agosto), baño en el lago a 22-26 grados Celsius en superficie; invierno 0 a 2 grados Celsius con nieve fiable de diciembre a marzo, dos estaciones de esquí (Krvavec, Vogel) a 30 a 50 km. Mejor temporada canina: mayo, junio, septiembre.`,
+        `Eslovenia es miembro de la UE, pasaporte europeo para mascotas con vacuna antirrábica vigente y microchip ISO suficiente. El Parque Nacional del Triglav aplica norma estricta de correa de abril a octubre.`,
+      ],
+      pt: [
+        `Bled não tem aeroporto próprio, Ljubljana LJU fica a 35 min de carro e cerca de 1 h 15 de autocarro directo, Klagenfurt KLA na Áustria fica a cerca de 1 h de carro.`,
+        `Os Caminhos de Ferro Eslovenos (SŽ) servem Bled Jezero (junto ao lago) via Jesenice e Lesce-Bled (a 4 km da aldeia, linha principal). Cães pequenos em transportadora abaixo de 5 kg viajam grátis, cães maiores com trela e açaime e pequeno bilhete para animais (cerca de 5 €).`,
+        `Clínica veterinária de referência: Vet Klinika Lesce (Alpska cesta 49, Lesce, a 4 km), linha principal +386 4 537 7100, urgência fora de horas +386 51 645 409. Referência 24h: KMŽ Small Animal Clinic Ljubljana (+386 30 716 190, a 55 km).`,
+        `Clima alpino continental: verão 19-22 graus Celsius (junho-agosto), banho no lago a 22-26 graus Celsius à superfície; inverno 0 a 2 graus Celsius com neve fiável de dezembro a março, duas estâncias de esqui (Krvavec, Vogel) a 30 a 50 km. Melhor época canina: maio, junho, setembro.`,
+        `A Eslovénia é membro da UE, passaporte europeu para animais com vacina antirrábica em dia e microchip ISO é suficiente. O Parque Nacional do Triglav aplica regra estrita de trela de abril a outubro.`,
+      ],
+    },
+  },
+
   bologna: {
     history: {
       fr: `Bologne, capitale de l'Émilie-Romagne, a gagné ses surnoms La Dotta (la Savante) em accueillant la plus ancienne université d'Europe, fondée en 1088; La Rossa pour ses toits em terre cuite; et La Grassa pour une cuisine fondée sur les tortellini, la mortadelle et le ragù. Près de 62 kilomètres de portiques médiévaux, aujourd'hui classés à l'UNESCO, abritent les piétons du soleil et de la pluie, rendant le centre historique exceptionnellement agréable à parcourir avec un chien. La culture bolognaise embrasse les compagnons à quatre pattes: les trattorias accueillent volontiers les chiens bien élevés, et la race locale, le Bichon Bolonais, a été élevée ici comme chien de salon durant la Renaissance. Les collines verdoyantes au sud des remparts, notamment vers San Luca, sont depuis des siècles un lieu de promenade apprécié.`,

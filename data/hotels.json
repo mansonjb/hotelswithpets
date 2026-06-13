@@ -2588,6 +2588,127 @@
     "petPolicyPt": "Animais permitidos para £25 por estadia (máx. 2 animais per quarto). Travelodge chain-wide política animal."
   },
   {
+    "id": "bayonne-1",
+    "name": "Ibis Bayonne Centre",
+    "destinationSlug": "bayonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 1437,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-bayonne.html",
+    "petFee": 8,
+    "petPolicy": "Ibis Bayonne Centre welcomes both dogs and cats, accepting up to two pets of any size for a fee of €8 per pet, per night. The hotel sits in the quieter Saint-Esprit district on the banks of the Adour, a short walk over the bridge to the old town and its riverside paths for dog walks. Pets should be kept on a lead in common areas and not left unattended in the room. Please mention your pet when booking.",
+    "highlights": [
+      "Banks of the Adour river",
+      "Air-conditioned rooms",
+      "Walk to the train station and old town"
+    ],
+    "slug": "ibis-bayonne-centre"
+  },
+  {
+    "id": "bayonne-2",
+    "name": "OKKO Hotels Bayonne Centre",
+    "destinationSlug": "bayonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "no-pet-fee"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 2967,
+    "priceFrom": 99,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/okko-hotels-bayonne-centre.html",
+    "petFee": 0,
+    "petPolicy": "OKKO Hotels Bayonne Centre is a design hotel that welcomes pets up to 15 kg at no additional charge. It stands a few minutes from the Sainte-Marie cathedral and the pedestrian heart of Bayonne, with the riverside quays close by for walks. Pets are accepted on request, so declare yours at booking, and should be kept on a lead in the shared club lounge and common areas. Pets should not be left unattended in the room.",
+    "highlights": [
+      "No pet fee",
+      "Free club lounge with evening aperitif",
+      "Central location near the cathedral"
+    ],
+    "slug": "okko-hotels-bayonne-centre"
+  },
+  {
+    "id": "bayonne-3",
+    "name": "Mercure Bayonne Centre Le Grand Hôtel",
+    "destinationSlug": "bayonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1400,
+    "priceFrom": 108,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/bwlegrandhotel.html",
+    "petFee": 20,
+    "petPolicy": "Mercure Bayonne Centre Le Grand Hôtel welcomes cats and dogs for a fee of €20 per pet, per night, with food and water bowls provided. This four-star property occupies a historic building in the centre of Bayonne, a short stroll from the cathedral, the Nive quays and the old town's riverside walks. Size limitations may apply, so confirm your pet at booking. Pets should be kept on a lead in common areas and not left alone in the room.",
+    "highlights": [
+      "Historic central building",
+      "Bar and lounge",
+      "Walking distance to the cathedral and quays"
+    ],
+    "slug": "mercure-bayonne-centre-le-grand-hotel"
+  },
+  {
+    "id": "bayonne-4",
+    "name": "Hôtel Villa la Renaissance",
+    "destinationSlug": "bayonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 420,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/villa-la-renaissance-bayonne.html",
+    "petFee": 10,
+    "petPolicy": "Hôtel Villa la Renaissance welcomes both dogs and cats of any size for a fee of €10 per pet, per night. This four-star boutique villa has a garden, terrace and outdoor swimming pool, giving pets green space on site, and free parking makes arriving with a dog easy. The leafy residential setting is a short drive or walk from central Bayonne. Pets should be kept on a lead around the pool and garden, and not left unattended in the room. Please declare your pet at booking.",
+    "highlights": [
+      "Garden and outdoor pool",
+      "Free private parking",
+      "Quiet boutique villa setting"
+    ],
+    "slug": "hotel-villa-la-renaissance"
+  },
+  {
+    "id": "bayonne-5",
+    "name": "Hotel Le Port Neuf",
+    "destinationSlug": "bayonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.3,
+    "reviewCount": 739,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-port-neuf.html",
+    "petFee": 10,
+    "petPolicy": "Hotel Le Port Neuf welcomes dogs of any size for a fee of €10 per pet, per night, and cats are also accepted on request; food and water bowls are provided. The hotel sits in the historic centre of Bayonne, steps from the cathedral and the Nive river quays, ideal for short walks. Pets should be kept on a lead in the bar and common areas and not left unattended in the room. Please mention your pet when booking.",
+    "highlights": [
+      "Historic-centre location by the cathedral",
+      "Bar with terrace",
+      "Steps from the Nive quays"
+    ],
+    "slug": "hotel-le-port-neuf"
+  },
+  {
     "id": "belfast-1",
     "name": "The Merchant Hotel",
     "destinationSlug": "belfast",

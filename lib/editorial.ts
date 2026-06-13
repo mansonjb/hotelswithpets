@@ -247,9 +247,9 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `the medieval centre around náměstí Svobody, Lužánky, and the Bystrc lakeside district`,
     },
     bruges: {
-      personality: 'a beautifully preserved medieval city where dogs trot alongside their owners on cobbled streets, canal towpaths, and through the quiet surrounding countryside',
-      highlight: 'the Minnewater park, the canal network towpaths, and the Koningin Astridpark',
-      area: 'the historic centre, Sint-Anna quarter, and the Begijnhof',
+      personality: `a UNESCO-listed Flemish medieval city walkable end-to-end in 25 minutes, the 7 km tree-lined ramparts loop welcomes leashed dogs by default, the Belgian brown-café culture takes dogs for granted, and NMBS trains carry dogs free to the Zeebrugge dog beach 15 minutes north`,
+      highlight: `the Minnewater 'Lake of Love' park, the 7 km Vesten ramparts loop with four windmills, and the Damse Vaart canal towpath to Damme village`,
+      area: `the historic centre around the Markt and Burg, the quiet Sint-Anna quarter, and the Begijnhof and Minnewater south end`,
     },
     brussels: {
       personality: 'an underrated pet travel destination with spacious parks, a compact and walkable centre, and a hospitality culture that genuinely welcomes animals',
@@ -1440,9 +1440,9 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `le centre médiéval autour de náměstí Svobody, Lužánky et le quartier lacustre de Bystrc`,
     },
     bruges: {
-      personality: 'une magnifique ville médiévale préservée où les chiens trottent aux côtés de leurs propriétaires sur des rues pavées, des chemins de halage et à travers la tranquille campagne environnante',
-      highlight: 'le parc de Minnewater, les chemins de halage du réseau de canaux et le Koningin Astridpark',
-      area: 'le centre historique, le quartier Sint-Anna et le Begijnhof',
+      personality: `une ville médiévale flamande inscrite à l'UNESCO qui se traverse à pied en 25 minutes, la boucle de remparts arborés de 7 km accueille les chiens en laisse par défaut, la culture du café brun belge prend les chiens pour acquis, et les trains NMBS transportent les chiens gratuitement vers la plage canine de Zeebruges à 15 minutes au nord`,
+      highlight: `le parc du Minnewater 'Lac d'Amour', la boucle de 7 km des Vesten avec quatre moulins, et le chemin du Damse Vaart vers le village de Damme`,
+      area: `le centre historique autour du Markt et du Burg, le calme quartier Sint-Anna, et le Béguinage et la pointe sud du Minnewater`,
     },
     brussels: {
       personality: 'une destination méconnue pour les voyageurs avec animaux, avec de grands parcs, un centre compact et praticable et une culture hôtelière qui accueille vraiment les animaux',
@@ -2632,9 +2632,9 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `el centro medieval alrededor de náměstí Svobody, Lužánky y el barrio lacustre de Bystrc`,
     },
     bruges: {
-      personality: 'una hermosa ciudad medieval conservada donde los perros trotean junto a sus dueños por calles empedradas, caminos de sirga y a través del tranquilo campo circundante',
-      highlight: 'el parque Minnewater, los caminos de sirga de la red de canales y el Koningin Astridpark',
-      area: 'el centro histórico, el barrio de Sint-Anna y el Begijnhof',
+      personality: `una ciudad medieval flamenca declarada Patrimonio de la UNESCO que se cruza a pie en 25 minutos, el bucle de 7 km de murallas arboladas admite perros con correa por defecto, la cultura del café marrón belga da por sentado a los perros, y los trenes NMBS llevan perros gratis a la playa canina de Zeebrugge a 15 minutos al norte`,
+      highlight: `el parque del Minnewater 'Lago de Amor', el bucle de 7 km de las Vesten con cuatro molinos, y el camino del Damse Vaart hasta el pueblo de Damme`,
+      area: `el centro histórico alrededor del Markt y del Burg, el tranquilo barrio de Sint-Anna, y el Beguinage y la punta sur del Minnewater`,
     },
     brussels: {
       personality: 'un destino de viaje con mascotas subestimado, con amplios parques, un centro compacto y transitable y una cultura hotelera que da una auténtica bienvenida a los animales',
@@ -3824,9 +3824,9 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `o centro medieval alrededor de náměstí Svobody, Lužánky e o bairro lacustre de Bystrc`,
     },
     bruges: {
-      personality: 'uma hermosa cidade medieval conservada onde os cães trotean junto aos seus duenhos por ruas empedradas, caminos de sirga e a través do tranquilo campo circundante',
-      highlight: 'o parque Minnewater, os caminos de sirga da red de canales e o Koningin Astridpark',
-      area: 'o centro histórico, o bairro de Sint-Anna e o Begijnhof',
+      personality: `uma cidade medieval flamenga classificada pela UNESCO que se atravessa a pé em 25 minutos, o circuito de 7 km de muralhas arborizadas aceita cães com trela por defeito, a cultura do café marrón belga toma os cães como dado adquirido, e os comboios NMBS levam cães grátis até à praia canina de Zeebrugge a 15 minutos a norte`,
+      highlight: `o parque do Minnewater 'Lago do Amor', o circuito de 7 km das Vesten com quatro moinhos, e o caminho do Damse Vaart até à aldeia de Damme`,
+      area: `o centro histórico em torno do Markt e do Burg, o tranquilo bairro de Sint-Anna, e o Beguinage e a ponta sul do Minnewater`,
     },
     brussels: {
       personality: 'um destino de viaje com animais subestimado, com amplios parques, um centro compacto e transitable e uma cultura hotelera que da uma auténtica bienvenida aos animales',

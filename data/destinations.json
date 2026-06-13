@@ -10212,6 +10212,33 @@
     "tiqetsId": "66254"
   },
   {
+    "slug": "mahon",
+    "name": "Mahón",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "lat": 39.8885,
+    "lng": 4.2658,
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/mahon.jpg",
+    "intro": "Menorca's whitewashed capital sits at the head of the world's second longest natural deep-water harbour after Pearl Harbor, with the 5 km Moll de Llevant promenade walking dogs along the Port de Maó, the UNESCO Talaiotic Bronze Age megaliths at Trepucó on the city outskirts, the 185 km Camí de Cavalls coastal trail circling the island for leash-friendly multi-day hikes, S'Albufera des Grau Natural Park UNESCO Biosphere 8 km north, and 24-hour vet emergency cover at Clínica Veterinaria Cardona & von Hofe (608 53 43 43).",
+    "weather": {
+      "jan": { "temp": 11, "desc": "Mild & breezy", "icon": "🌥️" },
+      "feb": { "temp": 11, "desc": "Mild & breezy", "icon": "🌥️" },
+      "mar": { "temp": 13, "desc": "Mild & sunny", "icon": "⛅" },
+      "apr": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
+      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "🌤️" },
+      "jun": { "temp": 22, "desc": "Warm & sunny", "icon": "☀️" },
+      "jul": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
+      "aug": { "temp": 27, "desc": "Hot & sunny", "icon": "☀️" },
+      "sep": { "temp": 24, "desc": "Warm & sunny", "icon": "☀️" },
+      "oct": { "temp": 20, "desc": "Warm & pleasant", "icon": "🌤️" },
+      "nov": { "temp": 15, "desc": "Mild & breezy", "icon": "🌥️" },
+      "dec": { "temp": 12, "desc": "Mild & breezy", "icon": "🌥️" }
+    },
+    "iata": "MAH"
+  },
+  {
     "slug": "malaga",
     "name": "Malaga",
     "country": "Spain",

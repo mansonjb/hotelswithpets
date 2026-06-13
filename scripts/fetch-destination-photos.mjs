@@ -101,6 +101,7 @@ const TARGETS = [
   { slug: 'turin',   query: 'Mole Antonelliana Turin Piazza Castello sunset' },
   { slug: 'hannover', query: 'Neues Rathaus Hannover Maschsee reflection' },
   { slug: 'palma', query: 'La Seu Cathedral Palma de Mallorca waterfront' },
+  { slug: 'mahon', query: 'Port de Mao Mahon Menorca harbour whitewashed townhouses panorama sunset' },
   { slug: 'thessaloniki', query: 'White Tower Thessaloniki waterfront promenade' },
   { slug: 'cannes', query: 'Cannes La Croisette seafront promenade' },
   { slug: 'capri', query: 'Capri Italy Faraglioni rocks Marina Piccola Mediterranean panorama' },

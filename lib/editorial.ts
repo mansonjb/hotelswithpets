@@ -816,6 +816,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the 88,620 m² Prato della Valle elliptical canal walk, the Piazza delle Erbe & Frutta market squares, and the Bacchiglione canal perimeter loop`,
       area: `the centro storico around Piazza delle Erbe and Piazza dei Signori, the Il Santo district around the Basilica, and the Prato della Valle quarter`,
     },
+    mahon: {
+      personality: 'the whitewashed capital of Menorca at the head of the world\'s second longest natural deep-water harbour after Pearl Harbor, where dogs walk the 5 km Moll de Llevant promenade and the 185 km Camí de Cavalls coastal trail circles the entire island',
+      highlight: 'the Port de Maó harbour promenade, the UNESCO Talaiotic megaliths at Trepucó, S\'Albufera des Grau Natural Park, and the Camí de Cavalls GR-223',
+      area: 'the Old Town, the Moll de Llevant port quay, and the Es Castell waterfront',
+    },
     palma: {
       personality: 'a sun-soaked Mediterranean island capital where terraces, beaches, and a year-round warm climate make it one of Spain\'s most dog-friendly cities',
       highlight: 'Es Carnatge year-round dog beach, Parc de sa Riera, and the Castell de Bellver hilltop grounds',
@@ -2034,6 +2039,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la promenade autour du canal elliptique du Prato della Valle (88 620 m²), les places de marché Piazza delle Erbe & Frutta et la boucle périmétrique des canaux du Bacchiglione`,
       area: `le centre historique autour de la Piazza delle Erbe et de la Piazza dei Signori, le quartier d'Il Santo autour de la basilique et le quartier du Prato della Valle`,
     },
+    mahon: {
+      personality: 'la capitale blanchie à la chaux de Menorca à l\'extrémité du deuxième plus long port naturel d\'eau profonde au monde après Pearl Harbor, où les chiens parcourent la promenade de 5 km du Moll de Llevant et où le sentier côtier Camí de Cavalls de 185 km fait le tour de toute l\'île',
+      highlight: 'la promenade portuaire du Port de Maó, les mégalithes talayotiques UNESCO de Trepucó, le Parc Naturel de S\'Albufera des Grau et le Camí de Cavalls GR-223',
+      area: 'la vieille ville, le quai du Moll de Llevant et le front de mer d\'Es Castell',
+    },
     palma: {
       personality: 'une capitale insulaire méditerranéenne ensoleillée où les terrasses, les plages et un climat chaud toute l\'année en font l\'une des villes les plus dog-friendly d\'Espagne',
       highlight: 'la plage canine toute l\'année d\'Es Carnatge, le Parc de sa Riera et les jardins du Castell de Bellver',
@@ -3251,6 +3261,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el paseo por el canal elíptico del Prato della Valle (88.620 m²), las plazas-mercado Piazza delle Erbe y Frutta y el circuito perimetral de los canales del Bacchiglione`,
       area: `el centro histórico alrededor de Piazza delle Erbe y Piazza dei Signori, el barrio Il Santo en torno a la basílica y el barrio del Prato della Valle`,
     },
+    mahon: {
+      personality: 'la capital blanqueada de Menorca en la cabecera del segundo puerto natural de aguas profundas más largo del mundo después de Pearl Harbor, donde los perros recorren los 5 km del paseo del Moll de Llevant y el sendero costero Camí de Cavalls de 185 km rodea toda la isla',
+      highlight: 'el paseo del Port de Maó, los megalitos talayóticos UNESCO de Trepucó, el Parque Natural de S\'Albufera des Grau y el Camí de Cavalls GR-223',
+      area: 'el casco antiguo, el muelle del Moll de Llevant y el frente marítimo de Es Castell',
+    },
     palma: {
       personality: 'una capital insular mediterránea bañada por el sol donde las terrazas, las playas y el clima cálido durante todo el año la convierten en una de las ciudades más dog-friendly de España',
       highlight: 'la playa canina todo el año de Es Carnatge, el Parc de sa Riera y los jardines del Castell de Bellver',
@@ -4467,6 +4482,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma cidade universitaria veneta declarada Património da UNESCO ancorada no Prato della Valle, uma das praças mais grandes da Europa com 88.620 m², com mais de 25 km de arcadas porticadas e um centro histórico plano e compacto ideal para longos passeios com trela`,
       highlight: `o passeio pelo canal elíptico do Prato della Valle (88.620 m²), as praças-mercado Piazza delle Erbe e Frutta e o circuito perimetral dos canais do Bacchiglione`,
       area: `o centro histórico em torno a Piazza delle Erbe e Piazza dei Signori, o bairro Il Santo em torno à basílica e o bairro do Prato della Valle`,
+    },
+    mahon: {
+      personality: 'a capital branqueada de Menorca na cabeça do segundo maior porto natural de águas profundas do mundo depois de Pearl Harbor, onde os cães percorrem os 5 km do passeio do Moll de Llevant e o trilho costeiro Camí de Cavalls de 185 km contorna toda a ilha',
+      highlight: 'o passeio do Port de Maó, os megálitos talaióticos UNESCO de Trepucó, o Parque Natural de S\'Albufera des Grau e o Camí de Cavalls GR-223',
+      area: 'o centro histórico, o cais do Moll de Llevant e a marginal de Es Castell',
     },
     palma: {
       personality: 'uma capital insular mediterrânea banhada pelo sol onde as esplanadas, as praias e o clima cálido durante o ano inteiro a convierten numa das cidades mais pet-friendly de Espanha',

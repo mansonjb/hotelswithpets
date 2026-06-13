@@ -286,6 +286,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the UNESCO Hôtel de Ville belfry climbed for free, Rodin's Burghers of Calais on Place du Soldat Inconnu, and the Cap Blanc-Nez / Cap Gris-Nez Grand Site chalk cliff trails facing the Dover white cliffs across 35 km of Channel water`,
       area: `the historic centre between Place d'Armes and the Hôtel de Ville along Boulevard Jacquard, the Calais-Nord seafront promenade along the Digue Gaston Berthe, and the Coquelles Eurotunnel Le Shuttle terminal 5 km west`,
     },
+    calpe: {
+      personality: `a 24 000-resident Costa Blanca town in Alicante province defined by the 332 m Peñón de Ifach limestone monolith (Spain's smallest natural park, protected since 1987), with the medieval casco antiguo and Mudéjar Gothic Iglesia Antigua, the Las Salinas flamingo wetland in the middle of town, Roman Banys de la Reina archaeological pools, and the Bandera Azul Playa La Fossa-Levante (950 m of sand directly north of the Peñón)`,
+      highlight: `the Peñón de Ifach Natural Park base trail (dogs leashed on the access path, not in the upper tunnel/summit), the Las Salinas dog-friendly boardwalk loop with resident flamingos, and the Banys de la Reina Roman fish-farming pools at the south end of Playa Arenal-Bol`,
+      area: `the casco antiguo medieval old town climbing toward the Forat de Calp viewpoint, the Paseo Marítimo Princesa de Asturias along Playa La Fossa, and the Puerto Pesquero fishing harbour at the foot of the Peñón`,
+    },
     cambridge: {
       personality: `one of England's most reliably dog-friendly small cities, vast off-leash urban commons (Jesus Green, Midsummer, Coe Fen), historic pubs that welcome leashed dogs in the bar, and direct 50-min Greater Anglia trains from London King's Cross`,
       highlight: `the Backs riverside path, Grantchester Meadows and The Orchard tea garden, and the Iron Age hillfort trails of Wandlebury Country Park`,
@@ -1484,6 +1489,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le beffroi UNESCO de l'Hôtel de Ville à monter gratuitement, Les Bourgeois de Calais de Rodin sur la Place du Soldat Inconnu, et les sentiers de falaises crayeuses du Grand Site Cap Blanc-Nez / Cap Gris-Nez face aux falaises blanches de Douvres à travers 35 km de mer de la Manche`,
       area: `le centre historique entre la Place d'Armes et l'Hôtel de Ville le long du Boulevard Jacquard, la promenade du front de mer de Calais-Nord sur la Digue Gaston Berthe, et le terminal Eurotunnel Le Shuttle de Coquelles à 5 km à l'ouest`,
     },
+    calpe: {
+      personality: `ville de 24 000 habitants au centre de la Costa Blanca dans la province d'Alicante définie par le monolithe calcaire du Peñón de Ifach de 332 m (le plus petit parc naturel d'Espagne, protégé depuis 1987), avec le casco antiguo médiéval et l'Iglesia Antigua gothique mudéjar, la zone humide aux flamants roses de Las Salinas en plein centre, les bassins archéologiques romains des Banys de la Reina, et la Playa La Fossa-Levante Pavillon Bleu (950 m de sable directement au nord du Peñón)`,
+      highlight: `le sentier de base du Parc Naturel du Peñón de Ifach (chiens en laisse sur le sentier d'accès, pas dans le tunnel haut ni au sommet), la boucle sur passerelles canine de Las Salinas avec ses flamants roses résidents, et les bassins romains à poissons des Banys de la Reina à l'extrémité sud de la Playa Arenal-Bol`,
+      area: `le casco antiguo médiéval qui grimpe vers le belvédère du Forat de Calp, le Paseo Marítimo Princesa de Asturias le long de la Playa La Fossa, et le Puerto Pesquero au pied du Peñón`,
+    },
     cambridge: {
       personality: `l'une des petites villes anglaises les plus fiablement dog-friendly, vastes communaux urbains sans laisse (Jesus Green, Midsummer, Coe Fen), pubs historiques qui accueillent les chiens en laisse au bar, et trains directs Greater Anglia depuis London King's Cross en 50 min`,
       highlight: `le sentier riverain des Backs, les prés de Grantchester et le tea garden de The Orchard, et les sentiers du fort de l'âge du fer de Wandlebury Country Park`,
@@ -2681,6 +2691,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el campanario UNESCO del Hôtel de Ville para subir gratis, Los Burgueses de Calais de Rodin en la Place du Soldat Inconnu, y los senderos de acantilados calizos del Grand Site Cap Blanc-Nez / Cap Gris-Nez frente a los acantilados blancos de Dover a través de 35 km de mar del Canal`,
       area: `el centro histórico entre la Place d'Armes y el Hôtel de Ville a lo largo del Boulevard Jacquard, el paseo marítimo de Calais-Nord sobre la Digue Gaston Berthe, y el terminal Eurotunnel Le Shuttle de Coquelles a 5 km al oeste`,
     },
+    calpe: {
+      personality: `pueblo de 24.000 habitantes en el centro de la Costa Blanca en la provincia de Alicante definido por el monolito calcáreo del Peñón de Ifach de 332 m (el parque natural más pequeño de España, protegido desde 1987), con el casco antiguo medieval y la Iglesia Antigua gótico mudéjar, el humedal de flamencos de Las Salinas en pleno centro, las piscinas arqueológicas romanas de los Banys de la Reina, y la Playa La Fossa-Levante Bandera Azul (950 m de arena directamente al norte del Peñón)`,
+      highlight: `el sendero de la base del Parque Natural del Peñón de Ifach (perros con correa en el sendero de acceso, no en el túnel superior ni a la cima), el bucle sobre pasarelas canino de Las Salinas con sus flamencos residentes, y las piscinas romanas para peces de los Banys de la Reina en el extremo sur de la Playa Arenal-Bol`,
+      area: `el casco antiguo medieval que sube hacia el mirador del Forat de Calp, el Paseo Marítimo Princesa de Asturias a lo largo de la Playa La Fossa, y el Puerto Pesquero al pie del Peñón`,
+    },
     cambridge: {
       personality: `una de las ciudades pequeñas inglesas más fiablemente dog-friendly, vastos comunales urbanos sin correa (Jesus Green, Midsummer, Coe Fen), pubs históricos que admiten perros con correa en la barra, y trenes directos Greater Anglia desde London King's Cross en 50 min`,
       highlight: `el sendero ribereño de los Backs, las praderas de Grantchester y el tea garden de The Orchard, y los senderos del fuerte de la Edad del Hierro de Wandlebury Country Park`,
@@ -3877,6 +3892,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `cidade portuária do Pas-de-Calais com 67 000 habitantes directamente em frente às falésias brancas de Dover, com a travessia marítima de passageiros transmancha mais movimentada da Europa (P&O, DFDS, Irish Ferries), o Eurotunnel Le Shuttle pet-perfeito desde Coquelles onde os cães permanecem no carro toda a travessia de 35 minutos, o campanário UNESCO do Hôtel de Ville e Os Burgueses de Calais em bronze de Rodin, um corredor arenoso de 12 km Plage de Calais e Sangatte, e as falésias cretáceas do Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km a oeste`,
       highlight: `o campanário UNESCO do Hôtel de Ville para subir grátis, Os Burgueses de Calais de Rodin na Place du Soldat Inconnu, e os trilhos de falésias cretáceas do Grand Site Cap Blanc-Nez / Cap Gris-Nez em frente às falésias brancas de Dover através de 35 km de mar do Canal`,
       area: `o centro histórico entre a Place d'Armes e o Hôtel de Ville ao longo do Boulevard Jacquard, o passeio marítimo de Calais-Nord sobre a Digue Gaston Berthe, e o terminal Eurotunnel Le Shuttle de Coquelles a 5 km a oeste`,
+    },
+    calpe: {
+      personality: `cidade de 24.000 habitantes no centro da Costa Blanca na província de Alicante definida pelo monólito calcário do Peñón de Ifach de 332 m (o parque natural mais pequeno de Espanha, protegido desde 1987), com o casco antiguo medieval e a Iglesia Antigua gótica mudéjar, a zona húmida de flamingos de Las Salinas em pleno centro, as piscinas arqueológicas romanas dos Banys de la Reina, e a Praia La Fossa-Levante Bandeira Azul (950 m de areia diretamente a norte do Peñón)`,
+      highlight: `o trilho da base do Parque Natural do Peñón de Ifach (cães com trela no trilho de acesso, não no túnel superior nem ao cume), o circuito em passadiços canino de Las Salinas com os seus flamingos residentes, e as piscinas romanas para peixes dos Banys de la Reina no extremo sul da Praia Arenal-Bol`,
+      area: `o casco antiguo medieval que sobe até ao miradouro do Forat de Calp, o Paseo Marítimo Princesa de Asturias ao longo da Praia La Fossa, e o Puerto Pesquero ao pé do Peñón`,
     },
     cambridge: {
       personality: `uma das cidades pequenhas inglesas mais fiablemente pet-friendly, vastos comunales urbanos sem trela (Jesus Green, Midsummer, Coe Fen), pubs históricos que admiten cães com trela na barra, e comboios directos Greater Anglia a partir de London King's Cross en 50 min`,

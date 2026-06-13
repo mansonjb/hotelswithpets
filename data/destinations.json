@@ -4131,6 +4131,81 @@
     "iata": "CQF"
   },
   {
+    "slug": "calpe",
+    "name": "Calpe",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 7,
+    "heroImage": "/images/destinations/calpe.jpg",
+    "intro": "Costa Blanca centre town in Alicante province (24k residents), defined by the iconic 332 m Peñón de Ifach limestone monolith (Spain's smallest natural park, protected since 1987), the medieval casco antiguo with the Mudéjar Gothic Iglesia Antigua, the Las Salinas flamingo wetland in the middle of town, Roman Banys de la Reina archaeological pools, and the Bandera Azul Playa La Fossa-Levante (950 m of sand north of the Peñón). FGV TRAM narrow-gauge connections to Dénia, Benidorm and Alicante, 320 sunny days a year.",
+    "lat": 38.6447,
+    "lng": 0.0444,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild, springlike",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot, peak",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot, peak season",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Hot, easing",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Warm, ideal, Moros y Cristianos",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild, festive",
+        "icon": "🎄"
+      }
+    },
+    "iata": "ALC"
+  },
+  {
     "slug": "cambridge",
     "name": "Cambridge",
     "country": "United Kingdom",

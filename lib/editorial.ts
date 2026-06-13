@@ -351,6 +351,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Frederiksberg Gardens, Fælledparken, and the harbour waterfront',
       area: 'Nørrebro, Frederiksberg, and Vesterbro',
     },
+    corfu: {
+      personality: `the Ionian gateway where a UNESCO Venetian Old Town layers 400 years of Venetian rule, French Napoleonic arcades and British neoclassical palaces, the Spianada is the largest public square in Greece, and lush green island walks lead from Mon Repos to Paleokastritsa`,
+      highlight: 'the Liston arcade and Spianada, the Old Fortress promontory with 360 degree harbour views, and the Mon Repos park where Prince Philip was born',
+      area: 'the walled UNESCO Old Town around the Liston and Campiello, Garitsa Bay south of the Old Fortress, and the Kanoni peninsula toward Pontikonisi',
+    },
     cordoba: {
       personality: 'Andalusia\'s UNESCO Mezquita-Catedral city, 45 minutes by AVE from Seville, compact whitewashed historic centre, the Roman Bridge over the Guadalquivir, and the Sierra Morena foothills 15 minutes north for cool dog hikes',
       highlight: 'the Roman Bridge sunset view, the Judería Jewish Quarter alleys, and the Sotos de la Albolafia riverside path',
@@ -1514,6 +1519,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les jardins de Frederiksberg, Fælledparken et le front de mer du port',
       area: 'Nørrebro, Frederiksberg et Vesterbro',
     },
+    corfu: {
+      personality: `la porte ionienne où une vieille ville vénitienne UNESCO superpose 400 ans de domination vénitienne, des arcades françaises napoléoniennes et des palais britanniques néoclassiques, où la Spianada est la plus grande place publique de Grèce, et où les promenades vertes luxuriantes de l'île mènent de Mon Repos à Paleokastritsa`,
+      highlight: `les arcades du Liston et la Spianada, le promontoire de la Vieille Forteresse aux vues à 360 degrés sur le port, et le parc Mon Repos où est né le prince Philip`,
+      area: `la vieille ville UNESCO fortifiée autour du Liston et du Campiello, la baie de Garitsa au sud de la Vieille Forteresse, et la péninsule de Kanoni vers Pontikonisi`,
+    },
     cordoba: {
       personality: 'la ville UNESCO de la Mezquita-Catedral en Andalousie, à 45 minutes en AVE de Séville, centre historique compact aux ruelles blanches, le Pont romain sur le Guadalquivir et les contreforts de la Sierra Morena à 15 minutes au nord pour des randonnées canines au frais',
       highlight: 'la vue sur le Pont romain au coucher du soleil, les ruelles de la Judería juive et le sentier riverain des Sotos de la Albolafia',
@@ -2676,6 +2686,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'los Jardines de Frederiksberg, Fælledparken y el paseo marítimo del puerto',
       area: 'Nørrebro, Frederiksberg y Vesterbro',
     },
+    corfu: {
+      personality: `la puerta jónica donde un casco antiguo veneciano UNESCO superpone 400 años de dominio veneciano, arcadas francesas napoleónicas y palacios británicos neoclásicos, donde la Spianada es la mayor plaza pública de Grecia, y los frondosos paseos verdes de la isla llevan de Mon Repos a Paleokastritsa`,
+      highlight: 'las arcadas del Liston y la Spianada, el promontorio de la Fortaleza Vieja con vistas de 360 grados al puerto, y el parque Mon Repos donde nació el príncipe Philip',
+      area: 'el casco antiguo UNESCO amurallado en torno al Liston y el Campiello, la bahía de Garitsa al sur de la Fortaleza Vieja, y la península de Kanoni hacia Pontikonisi',
+    },
     cordoba: {
       personality: 'la ciudad UNESCO de la Mezquita-Catedral en Andalucía, a 45 minutos en AVE de Sevilla, compacto centro histórico de calles blancas, el Puente Romano sobre el Guadalquivir y las estribaciones de Sierra Morena a 15 minutos al norte para rutas caninas frescas',
       highlight: 'la vista al Puente Romano al atardecer, los callejones de la Judería judía y el sendero ribereño de los Sotos de la Albolafia',
@@ -3837,6 +3852,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade líder en Europa en bienestar animal. Os cães viajan grátis en transporte público, entran en a maioria dos comercios e são bem-vindos com cuencos de água en casi todas as esplanadas',
       highlight: 'os Jardins de Frederiksberg, Fælledparken e o passeio marítimo do porto',
       area: 'Nørrebro, Frederiksberg e Vesterbro',
+    },
+    corfu: {
+      personality: `a porta jónica onde um centro histórico veneziano UNESCO sobrepõe 400 anos de domínio veneziano, arcadas francesas napoleónicas e palácios britânicos neoclássicos, onde a Spianada é a maior praça pública da Grécia, e os frondosos passeios verdes da ilha levam de Mon Repos a Paleokastritsa`,
+      highlight: 'as arcadas do Liston e a Spianada, o promontório do Forte Velho com vistas de 360 graus para o porto, e o parque Mon Repos onde nasceu o príncipe Philip',
+      area: 'o centro histórico UNESCO amuralhado em torno do Liston e do Campiello, a baía de Garitsa a sul do Forte Velho, e a península de Kanoni para Pontikonisi',
     },
     cordoba: {
       personality: 'a cidade UNESCO da Mezquita-Catedral en Andalucía, a 45 minutos en AVE de Sevilha, compacto centro histórico de ruas blancas, o Ponte Romano sobre o Guadalquivir e as estribaciones de Sierra Morena a 15 minutos al norte para rutas caninas frescas',

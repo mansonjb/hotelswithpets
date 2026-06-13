@@ -5112,6 +5112,81 @@
     "tiqetsId": "113"
   },
   {
+    "slug": "corfu",
+    "name": "Corfu",
+    "country": "Greece",
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/corfu.jpg",
+    "intro": "Corfu (Kerkyra, ~25k in the capital, ~100k island-wide) is the Ionian gateway where a UNESCO-listed Venetian Old Town layers 400 years of Venetian rule, French Napoleonic arcades (the Liston) and British neoclassical palaces (St Michael and St George). The 8-hectare Spianada is the largest public square in Greece, the Old Fortress promontory offers a 360 degree harbour panorama, the Mon Repos villa park (Prince Philip's birthplace) gives the shadiest in-town dog walk, and Kanoni's Pontikonisi Mouse Island view is the island's iconic postcard. Beaches range from the urban Garitsa Bay (10 min walk) to Glyfada 17 km west, the cove cluster of Paleokastritsa 25 km NW, and the sandstone Canal d'Amour at Sidari. Lush green and milder than the Aegean thanks to the Ionian climate; ideal Apr–Jun and Sep–Oct. CFU airport is only 2 km south of the centre; the New Port runs hourly Igoumenitsa ferries (1h30) and overnight Brindisi/Bari ferries to Italy.",
+    "lat": 39.6243,
+    "lng": 19.9217,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild, wettest month",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild, rainy spells",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Spring begins",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Lush green spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & humid",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & humid",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild, first rains",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild, wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild, festive",
+        "icon": "🎄"
+      }
+    },
+    "iata": "CFU"
+  },
+  {
     "slug": "cordoba",
     "name": "Cordoba",
     "country": "Spain",

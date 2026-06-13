@@ -24,6 +24,7 @@ async function loadApiKey() {
 
 // Slug → query targeting a photogenic, pet-relevant landmark
 const TARGETS = [
+  { slug: 'corfu',         query: 'Corfu Kerkyra Greece Ionian UNESCO Old Town Liston arcade Spianada esplanade Old Fortress Venetian fortress harbour Palace of St Michael and St George British neoclassical Mon Repos villa park Kanoni Pontikonisi Mouse Island Vlacherna monastery causeway Paleokastritsa cliffs turquoise coves panorama sunset' },
   { slug: 'haarlem',       query: 'Haarlem Netherlands Grote Markt Grote Sint-Bavokerk cathedral Frans Hals tomb Mozart Muller organ Spaarne river De Adriaan windmill hofjes Haarlemmerhout panorama sunset' },
   { slug: 'texel',         query: 'Texel Netherlands Wadden island North Sea dunes Eierland lighthouse red Vuurtoren De Koog beach Paal 17 De Slufter salt marsh Den Burg cobbled square Duinen van Texel National Park panorama sunset' },
   { slug: 'sintra',        query: 'Sintra Portugal Palacio da Pena polychrome romantic palace Serra de Sintra UNESCO panorama sunset' },

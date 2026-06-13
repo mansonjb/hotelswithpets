@@ -377,6 +377,33 @@
     "tiqetsId": "76558"
   },
   {
+    "slug": "alcudia",
+    "name": "Alcúdia",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/alcudia.jpg",
+    "intro": "Alcúdia is a 21,000-resident town on the northern coast of Mallorca, defined by its intact 14th-century medieval walls with a 1.5 km perimeter walk around the casc antic, the Plaça de la Constitució with its Tuesday and Thursday morning market, the Església de Sant Jaume and Renaissance casas señoriales of Carrer Major, the 1st-century BC Pollentia Roman ruins (forum, residential quarter, theatre), the UNESCO Ramsar wetland of S'Albufera de Mallorca with 200+ bird species, the 6 km Platja d'Alcúdia (longest sandy beach on the island, Bandera Azul), the secluded Coll Baix pebble cove on Cap d'es Pinar, the cinematic Cap de Formentor lighthouse drive 30 km north, the 1-hour Iscomar fast catamaran from Port d'Alcúdia to Ciutadella de Menorca, and panadas de pix and rubiols as the signature Easter pastries.",
+    "lat": 39.8531,
+    "lng": 3.1219,
+    "weather": {
+      "jan": { "temp": 12, "desc": "Mild winter", "icon": "⛅" },
+      "feb": { "temp": 12, "desc": "Mild & breezy", "icon": "⛅" },
+      "mar": { "temp": 14, "desc": "Mild & sunny", "icon": "🌤️" },
+      "apr": { "temp": 16, "desc": "Mild & pleasant", "icon": "🌤️" },
+      "may": { "temp": 19, "desc": "Warm & sunny", "icon": "☀️" },
+      "jun": { "temp": 24, "desc": "Warm & dry", "icon": "☀️" },
+      "jul": { "temp": 27, "desc": "Hot & sunny", "icon": "☀️" },
+      "aug": { "temp": 28, "desc": "Hot & sunny", "icon": "☀️" },
+      "sep": { "temp": 25, "desc": "Warm & sunny", "icon": "🌤️" },
+      "oct": { "temp": 20, "desc": "Mild & some rain", "icon": "🌦️" },
+      "nov": { "temp": 16, "desc": "Mild & rainy", "icon": "🌧️" },
+      "dec": { "temp": 13, "desc": "Mild & overcast", "icon": "⛅" }
+    },
+    "iata": "PMI"
+  },
+  {
     "slug": "alicante",
     "name": "Alicante",
     "country": "Spain",

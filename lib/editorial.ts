@@ -41,6 +41,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Sentier des Crêtes ridge walk, the Pointe de la Parata and Sanguinaires islands, and the year-round dog beach of Capo di Feno`,
       area: `the Quartier des Étrangers around the Cours Grandval, the Vieille Ville around the Maison Bonaparte, and the marina-front Quai Napoléon`,
     },
+    alcudia: {
+      personality: `a 21,000-resident northern Mallorca town with intact 14th-century medieval walls (1.5 km dog-friendly perimeter walk), the 1st-century BC Pollentia Roman ruins (forum, residential quarter, theatre), the UNESCO Ramsar wetland of S'Albufera, the 6 km Platja d'Alcúdia and the 1-hour Iscomar fast catamaran to Ciutadella de Menorca`,
+      highlight: `the 1.5 km medieval walls perimeter walk, the open Pollentia Roman archaeological grounds, and the Cap de Formentor lighthouse clifftop drive 30 km north`,
+      area: `the casc antic inside the medieval walls around Plaça de la Constitució, the Port d'Alcúdia marina 2 km south, and the Mal Pas-Bonaire fishing village on the north coast`,
+    },
     albufeira: {
       personality: `the Algarve's largest beach resort, a cliff-top city of two faces where the cobbled medieval Cidade Velha tumbles down to the fishermen's beach and the busy resort strip stretches east, with year-round dog beaches just outside town and ~300 sunny days a year making it one of southern Europe's most pet-friendly seaside escapes outside the July-August peak`,
       highlight: `the Pine Cliffs clifftop trail between Praia da Falésia and Olhos de Água, Praia da Cova Redonda (year-round dog beach), and the Praia dos Salgados flamingo boardwalk`,
@@ -1279,6 +1284,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Sentier des Crêtes, la Pointe de la Parata et les îles Sanguinaires, et la plage canine toute l'année de Capo di Feno`,
       area: `le Quartier des Étrangers autour du Cours Grandval, la Vieille Ville autour de la Maison Bonaparte, et le Quai Napoléon face au port`,
     },
+    alcudia: {
+      personality: `une ville de 21 000 habitants du nord de Majorque avec ses remparts médiévaux intacts du XIVe siècle (promenade dog-friendly de 1,5 km sur le périmètre), les ruines romaines de Pollentia du Ier siècle av. J.-C. (forum, quartier d'habitation, théâtre), la zone humide Ramsar UNESCO de S'Albufera, la Platja d'Alcúdia de 6 km et le catamaran rapide Iscomar d'1 heure vers Ciutadella de Menorca`,
+      highlight: `la promenade de 1,5 km sur les remparts médiévaux, les terrains ouverts du site archéologique romain de Pollentia, et la route en falaise du phare du Cap de Formentor à 30 km au nord`,
+      area: `le casc antic intra-muros autour de la Plaça de la Constitució, la marina du Port d'Alcúdia à 2 km au sud, et le village de pêcheurs de Mal Pas-Bonaire sur la côte nord`,
+    },
     albufeira: {
       personality: `la plus grande station balnéaire de l'Algarve, une ville à deux visages où la Cidade Velha pavée médiévale dégringole vers la plage des pêcheurs et où la bande balnéaire s'étend à l'est, avec des plages canines toute l'année juste à l'extérieur et environ 300 jours de soleil par an qui en font l'une des escapades littorales pet-friendly les plus séduisantes du sud de l'Europe hors pic juillet-août`,
       highlight: `le sentier en falaise des Pine Cliffs entre la Praia da Falésia et Olhos de Água, la Praia da Cova Redonda (plage canine à l'année), et le boardwalk aux flamants de Praia dos Salgados`,
@@ -2516,6 +2526,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Sentier des Crêtes, la Pointe de la Parata y las islas Sanguinaires, y la playa canina todo el año de Capo di Feno`,
       area: `el Quartier des Étrangers en torno al Cours Grandval, la Vieille Ville en torno a la Maison Bonaparte, y el Quai Napoléon frente al puerto`,
     },
+    alcudia: {
+      personality: `una ciudad de 21.000 habitantes del norte de Mallorca con su muralla medieval intacta del siglo XIV (paseo pet-friendly de 1,5 km por el perímetro), las ruinas romanas de Pollentia del siglo I a. C. (foro, barrio residencial, teatro), el humedal Ramsar UNESCO de S'Albufera, la Platja d'Alcúdia de 6 km y el catamarán rápido Iscomar de 1 hora a Ciutadella de Menorca`,
+      highlight: `el paseo de 1,5 km por la muralla medieval, los terrenos abiertos del yacimiento arqueológico romano de Pollentia, y la carretera en acantilado del faro del Cap de Formentor a 30 km al norte`,
+      area: `el casc antic intramuros en torno a la Plaça de la Constitució, la marina del Port d'Alcúdia a 2 km al sur, y el pueblo pesquero de Mal Pas-Bonaire en la costa norte`,
+    },
     albufeira: {
       personality: `el mayor centro turístico de playa del Algarve, una ciudad de dos caras donde la Cidade Velha medieval empedrada cae hacia la playa de los pescadores y la franja turística se extiende al este, con playas caninas todo el año justo a las afueras y unos 300 días de sol al año que la convierten en una de las escapadas litorales pet-friendly más atractivas del sur de Europa fuera del pico de julio-agosto`,
       highlight: `el sendero en acantilado de Pine Cliffs entre la Praia da Falésia y Olhos de Água, la Praia da Cova Redonda (playa canina todo el año), y el boardwalk de flamencos de Praia dos Salgados`,
@@ -3752,6 +3767,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital ensolarada da Córsega e lugar de nascimento de Napoleão, cidadela genovesa sobre um golfo mediterrâneo resguardado onde os invernos suaves o ano inteiro, os trilhos de cresta pelo maquis, as excursões de barco às Sanguinaires e a praia canina selvagem de Capo di Feno fazem dela a base mais pet-friendly da ilha`,
       highlight: `o Sentier des Crêtes, a Pointe de la Parata e as ilhas Sanguinaires, e a praia canina o ano inteiro de Capo di Feno`,
       area: `o Quartier des Étrangers em torno do Cours Grandval, a Vieille Ville em torno da Maison Bonaparte, e o Quai Napoléon frente ao porto`,
+    },
+    alcudia: {
+      personality: `uma cidade de 21.000 habitantes do norte de Mallorca com a sua muralha medieval intacta do século XIV (passeio pet-friendly de 1,5 km pelo perímetro), as ruínas romanas de Pollentia do século I a.C. (fórum, bairro residencial, teatro), a zona húmida Ramsar UNESCO de S'Albufera, a Platja d'Alcúdia de 6 km e o catamarã rápido Iscomar de 1 hora para Ciutadella de Menorca`,
+      highlight: `o passeio de 1,5 km pela muralha medieval, os terrenos abertos do sítio arqueológico romano de Pollentia, e a estrada em falésia do farol do Cap de Formentor a 30 km a norte`,
+      area: `o casc antic intramuros em torno da Plaça de la Constitució, a marina do Port d'Alcúdia a 2 km a sul, e a aldeia piscatória de Mal Pas-Bonaire na costa norte`,
     },
     albufeira: {
       personality: `o maior resort de praia do Algarve, uma cidade de duas caras onde a Cidade Velha medieval de calçada cai sobre a praia dos pescadores e a zona turística se estende a leste, com praias caninas todo o ano mesmo à saída e cerca de 300 dias de sol por ano que a tornam num dos refúgios litorais pet-friendly mais cativantes do sul da Europa fora do pico de julho-agosto`,

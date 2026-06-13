@@ -134,6 +134,7 @@ const TARGETS = [
   { slug: 'dresden', query: 'Dresden Germany Frauenkirche Brühlsche Terrasse Elbe river Canaletto skyline sunset panorama' },
   { slug: 'aarhus', query: 'Aarhus Denmark ARoS rainbow rooftop Den Gamle By harbour panorama sunset' },
   { slug: 'ibiza', query: 'Ibiza Spain Dalt Vila old town harbour Mediterranean sunset panorama' },
+  { slug: 'santa-eulalia', query: 'Santa Eulalia des Riu Ibiza Spain Puig de Missa whitewashed church-fortress hilltop Riu Santa Eulalia river Pont Vell Roman bridge mil de baix windmill Paseo Maritimo Marina Cala Llonga Es Canar Cala Nova east coast Mediterranean panorama sunset' },
   { slug: 'formentera', query: 'Formentera Ses Illetes beach lighthouse La Mola Balearic Mediterranean Posidonia panorama sunset' },
   { slug: 'innsbruck', query: 'Innsbruck Austria Goldenes Dachl Nordkette Alps skyline panorama sunset' },
   { slug: 'galway', query: 'Galway Ireland Spanish Arch Long Walk Claddagh harbour colourful houses panorama sunset' },

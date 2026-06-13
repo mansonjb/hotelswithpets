@@ -13968,6 +13968,81 @@
     "iata": "VIE"
   },
   {
+    "slug": "santa-eulalia",
+    "name": "Santa Eulària des Riu",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 7,
+    "heroImage": "/images/destinations/santa-eulalia.jpg",
+    "intro": "Calmer family resort on Ibiza's east coast (38,000 year-round residents), wrapped around the whitewashed 16th-century church-fortress of Puig de Missa, the Riu de Santa Eulària (the only year-round river in the Pitiüses) with its Pont Vell Roman bridge and mil de baix windmill, a long Paseo Marítimo and Marina, and the Saturday Las Dalias hippie market in Sant Carles. Year-round dog beach at Cala Nova (north of Es Canar), shoulder-season tolerance at Cala Llonga and Cala Pada, and Ibiza Airport (IBZ) 22 km south-west by taxi or TIB L18 bus.",
+    "lat": 38.9847,
+    "lng": 1.5347,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Mild Mediterranean winter",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Warming, dry",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Pleasant spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot, beach season",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Very hot afternoons",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild, occasional rain",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild, festive",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "IBZ"
+  },
+  {
     "slug": "santander",
     "name": "Santander",
     "country": "Spain",

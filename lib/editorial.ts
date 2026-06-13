@@ -942,6 +942,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Traisen riverside path through the Traisenpark corridor, the Klangturm rooftop in the Government Quarter, and a Wachau day trip to Dürnstein and Spitz`,
       area: `the pedestrian Altstadt around the Rathausplatz, the modernist Regierungsviertel on the Traisen, and the Viehofen lake district north of the centre`,
     },
+    'santa-eulalia': {
+      personality: `the calmer family resort of Ibiza's east coast, a 38,000-resident municipality wrapped around the whitewashed 16th-century church-fortress of Puig de Missa, the only year-round river in the Pitiüses with its Pont Vell Roman bridge and mil de baix windmill, a long Paseo Marítimo and Marina, and the Saturday Las Dalias hippie market in Sant Carles`,
+      highlight: `the Puig de Missa hilltop church-fortress panorama, the Riu de Santa Eulària valley walk to the Pont Vell and mil de baix windmill, the year-round Cala Nova dog beach north of Es Canar, and Las Dalias hippie market at Sant Carles every Saturday`,
+      area: `the seafront and Marina Santa Eulària, the pedestrian Carrer Sant Vicent, the Riu de Santa Eulària valley up to Puig de Missa, and the east-coast resorts of Es Canar, S'Argamassa and Cala Llonga`,
+    },
     santander: {
       personality: `the bayside capital of Cantabria with a Belle Époque seafront, the royal Magdalena peninsula, a designated off-leash zone at Parque de las Llamas and Brittany Ferries sailings to Plymouth and Portsmouth from the Estación Marítima`,
       highlight: `the 8 km seafront walk from the Estación Marítima through the Paseo Pereda and Península de la Magdalena to the Faro de Cabo Mayor, plus the off-season Playa del Sardinero (Oct–Apr)`,
@@ -2143,6 +2148,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la discrète capitale de Basse-Autriche, 56 000 habitants au bord de la Traisen, avec un Altstadt baroque piéton, le quartier gouvernemental moderniste et sa tour Klangturm, et les villages viticoles de la Wachau (Dürnstein, Spitz et Krems) tous accessibles en 45 minutes`,
       highlight: `le sentier en bord de Traisen à travers le corridor du Traisenpark, le toit du Klangturm dans le quartier gouvernemental, et une journée dans la Wachau à Dürnstein et Spitz`,
       area: `l'Altstadt piéton autour de la Rathausplatz, le Regierungsviertel moderniste sur la Traisen, et le quartier des lacs de Viehofen au nord du centre`,
+    },
+    'santa-eulalia': {
+      personality: `la station familiale plus calme de la côte est d'Ibiza, commune de 38 000 habitants à l'année blottie autour de l'église-forteresse blanchie du XVIe siècle du Puig de Missa, du seul fleuve permanent des Pitiüses avec son Pont Vell romain et son moulin mil de baix, d'un long Paseo Marítimo et de sa marina, et du marché hippie Las Dalias à Sant Carles le samedi`,
+      highlight: `le panorama de l'église-forteresse du Puig de Missa, la balade de la vallée du Riu de Santa Eulària jusqu'au Pont Vell et au moulin mil de baix, la plage canine toute l'année de Cala Nova au nord d'Es Canar, et le marché hippie Las Dalias à Sant Carles chaque samedi`,
+      area: `le front de mer et la Marina Santa Eulària, la rue piétonne Carrer Sant Vicent, la vallée du Riu de Santa Eulària jusqu'au Puig de Missa, et les stations balnéaires de la côte est Es Canar, S'Argamassa et Cala Llonga`,
     },
     santander: {
       personality: `la capitale balnéaire de la Cantabrie avec son front de mer Belle Époque, la péninsule royale de la Magdalena, une zone canine sans laisse au Parque de las Llamas et les ferries Brittany Ferries vers Plymouth et Portsmouth depuis l'Estación Marítima`,
@@ -3346,6 +3356,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el sendero junto al Traisen por el corredor del Traisenpark, la azotea del Klangturm en el barrio gubernamental, y una jornada por la Wachau en Dürnstein y Spitz`,
       area: `el Altstadt peatonal en torno a la Rathausplatz, el Regierungsviertel modernista junto al Traisen, y el distrito de los lagos de Viehofen al norte del centro`,
     },
+    'santa-eulalia': {
+      personality: `la estación familiar más tranquila de la costa este de Ibiza, municipio de 38.000 habitantes anuales arropado en torno a la iglesia-fortaleza blanqueada del siglo XVI del Puig de Missa, al único río permanente de las Pitiüses con su Pont Vell romano y su molino mil de baix, a un largo Paseo Marítimo y su marina, y al mercado hippie Las Dalias en Sant Carles los sábados`,
+      highlight: `el panorama de la iglesia-fortaleza del Puig de Missa, el paseo del valle del Riu de Santa Eulària hasta el Pont Vell y el molino mil de baix, la playa canina todo el año de Cala Nova al norte de Es Canar, y el mercado hippie Las Dalias en Sant Carles cada sábado`,
+      area: `el frente marítimo y la Marina Santa Eulària, la calle peatonal Carrer Sant Vicent, el valle del Riu de Santa Eulària hasta el Puig de Missa, y las estaciones costeras Es Canar, S'Argamassa y Cala Llonga`,
+    },
     santander: {
       personality: `la capital cántabra asomada a su bahía con paseo marítimo Belle Époque, la península real de la Magdalena, una zona canina sin correa en el Parque de las Llamas y los ferries de Brittany Ferries hacia Plymouth y Portsmouth desde la Estación Marítima`,
       highlight: `el paseo marítimo de 8 km desde la Estación Marítima por el Paseo Pereda y la Península de la Magdalena hasta el Faro de Cabo Mayor, además de la Playa del Sardinero fuera de temporada (oct.–abr.)`,
@@ -4547,6 +4562,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a discreta capital da Baixa Áustria, 56.000 habitantes junto ao rio Traisen, com um Altstadt barroco pedonal, o bairro governamental modernista e a sua torre Klangturm, e as aldeias vinícolas da Wachau (Dürnstein, Spitz e Krems) todas acessíveis em 45 minutos`,
       highlight: `o trilho junto ao Traisen pelo corredor do Traisenpark, o terraço do Klangturm no bairro governamental, e um dia pela Wachau em Dürnstein e Spitz`,
       area: `o Altstadt pedonal em torno da Rathausplatz, o Regierungsviertel modernista junto ao Traisen, e o distrito dos lagos de Viehofen a norte do centro`,
+    },
+    'santa-eulalia': {
+      personality: `a estação familiar mais tranquila da costa leste de Ibiza, município de 38.000 habitantes anuais aconchegado em torno da igreja-fortaleza branqueada do século XVI do Puig de Missa, do único rio permanente das Pitiüses com a sua Pont Vell romana e o seu moinho mil de baix, de um longo Paseo Marítimo e da sua marina, e do mercado hippie Las Dalias em Sant Carles aos sábados`,
+      highlight: `o panorama da igreja-fortaleza do Puig de Missa, o passeio do vale do Riu de Santa Eulària até à Pont Vell e ao moinho mil de baix, a praia canina durante todo o ano de Cala Nova a norte de Es Canar, e o mercado hippie Las Dalias em Sant Carles todos os sábados`,
+      area: `a frente-mar e a Marina Santa Eulària, a rua pedonal Carrer Sant Vicent, o vale do Riu de Santa Eulària até ao Puig de Missa, e as estações costeiras Es Canar, S'Argamassa e Cala Llonga`,
     },
     santander: {
       personality: `a capital cantábrica debruçada sobre a sua baía com passeio marítimo Belle Époque, a península real da Magdalena, uma zona canina sem trela no Parque de las Llamas e os ferries da Brittany Ferries para Plymouth e Portsmouth a partir da Estación Marítima`,

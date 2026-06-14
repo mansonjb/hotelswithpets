@@ -386,6 +386,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Fitzgerald's Park and the Mardyke walkway, Ballincollig Regional Park's off-leash zone, and the 25-min train to dog-friendly Cobh waterfront`,
       area: `the Latin Quarter, the Marina riverside, and Blackrock`,
     },
+    delft: {
+      personality: `the small canal city of 105,000 between Rotterdam and The Hague where the cobbled Markt under the Nieuwe Kerk (William of Orange's tomb since 1584, mausoleum of the Dutch Royal House, 109 m tower), the Renaissance Stadhuis city hall, Vermeer's burial Oude Kerk with its leaning tower, the 1100-dug Oude Delft canal (the oldest in the Netherlands), the Prinsenhof Museum (William of Orange's assassination site 1584), the 1400 Oostpoort city gate and the Royal Delft porcelain manufactory (Koninklijke Porceleyne Fles, founded 1653) all sit inside the singel canals 12 minutes by NS train from both The Hague Central and Rotterdam Central`,
+      highlight: `the Markt under the Nieuwe Kerk's 109 m tower, the Royal Delft porcelain courtyard and shop on Rotterdamseweg, and the year-round Kijkduin / Scheveningen hondenstrand zones reached in 45–55 minutes by HTM Tram 1`,
+      area: `the Centrum inside the singels around the Markt and the Oude Delft canal, the TU Delft green campus south of town, and the Delftse Hout recreation park east of the centre`,
+    },
     denia: {
       personality: `Costa Blanca north's port city and UNESCO Creative City of Gastronomy, with the 11th-century Moorish Castillo above the whitewashed casco antiguo, the 753 m Montgó Natural Park rising directly behind town, daily Baleària ferries to Ibiza, and the rare year-round Platja Canina de Les Deveses dog beach`,
       highlight: `the Castillo de Dénia outdoor ramparts, the Cap de Sant Antoni cliff trail above the Reserva Marina, and the Platja Canina de Les Deveses (year-round dog beach)`,
@@ -1654,6 +1659,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Fitzgerald's Park et la promenade Mardyke, la zone sans laisse du Ballincollig Regional Park et le train de 25 min vers le front de mer dog-friendly de Cobh`,
       area: `le Latin Quarter, la Marina fluviale et Blackrock`,
     },
+    delft: {
+      personality: `petite ville-canal de 105 000 habitants entre Rotterdam et La Haye où le Markt pavé sous la Nieuwe Kerk (tombe de Guillaume d'Orange depuis 1584, mausolée de la maison royale néerlandaise, tour de 109 m), le Stadhuis Renaissance, l'Oude Kerk (sépulture de Vermeer) à la tour penchée, le canal Oude Delft (creusé vers 1100, le plus ancien des Pays-Bas), le Prinsenhof Museum (lieu de l'assassinat de Guillaume d'Orange en 1584), la porte Oostpoort de 1400 et la manufacture de porcelaine Royal Delft (Koninklijke Porceleyne Fles, fondée en 1653) s'inscrivent à l'intérieur des singels, à 12 minutes en train NS de La Haye Centrale comme de Rotterdam Centrale`,
+      highlight: `le Markt sous la tour de 109 m de la Nieuwe Kerk, la cour et la boutique Royal Delft sur la Rotterdamseweg, et les zones hondenstrand permanentes de Kijkduin et Scheveningen accessibles en 45 à 55 minutes par le Tram 1 HTM`,
+      area: `le Centrum à l'intérieur des singels autour du Markt et du canal Oude Delft, le campus vert de TU Delft au sud, et le parc de loisirs Delftse Hout à l'est du centre`,
+    },
     denia: {
       personality: `port du nord de la Costa Blanca et Ville Créative UNESCO de la Gastronomie, avec le Castillo maure du XIe siècle au-dessus du casco antiguo blanchi à la chaux, le Parc Naturel du Montgó de 753 m qui s'élève juste derrière la ville, des ferries Baleària quotidiens vers Ibiza et la rare Platja Canina de Les Deveses ouverte aux chiens à l'année`,
       highlight: `les remparts extérieurs du Castillo de Dénia, le sentier de falaise du Cap de Sant Antoni au-dessus de la Réserve Marine, et la Platja Canina de Les Deveses (plage canine à l'année)`,
@@ -2921,6 +2931,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Fitzgerald's Park y el paseo Mardyke, la zona sin correa del Ballincollig Regional Park y el tren de 25 min al frente marítimo dog-friendly de Cobh`,
       area: `el Latin Quarter, la Marina fluvial y Blackrock`,
     },
+    delft: {
+      personality: `pequeña ciudad de canales de 105.000 habitantes entre Rotterdam y La Haya donde la Markt adoquinada bajo la Nieuwe Kerk (tumba de Guillermo de Orange desde 1584, mausoleo de la Casa Real neerlandesa, torre de 109 m), el Stadhuis renacentista, la Oude Kerk (sepultura de Vermeer) con su torre inclinada, el canal Oude Delft (excavado hacia 1100, el más antiguo de los Países Bajos), el Prinsenhof Museum (lugar del asesinato de Guillermo de Orange en 1584), la puerta Oostpoort de 1400 y la manufactura de porcelana Royal Delft (Koninklijke Porceleyne Fles, fundada en 1653) se reúnen dentro de los singels, a 12 minutos en tren NS tanto de La Haya Central como de Rotterdam Central`,
+      highlight: `la Markt bajo la torre de 109 m de la Nieuwe Kerk, el patio y la tienda de Royal Delft en Rotterdamseweg, y las zonas hondenstrand permanentes de Kijkduin y Scheveningen alcanzadas en 45 a 55 minutos en Tram 1 HTM`,
+      area: `el Centrum dentro de los singels en torno a la Markt y al canal Oude Delft, el campus verde de TU Delft al sur, y el parque recreativo Delftse Hout al este del centro`,
+    },
     denia: {
       personality: `puerto del norte de la Costa Blanca y Ciudad Creativa UNESCO de la Gastronomía, con el Castillo musulmán del siglo XI sobre el casco antiguo encalado, el Parque Natural del Montgó de 753 m que se eleva justo detrás del pueblo, ferris Baleària diarios a Ibiza y la rara Platja Canina de Les Deveses abierta a perros todo el año`,
       highlight: `las murallas exteriores del Castillo de Dénia, el sendero del acantilado del Cap de Sant Antoni sobre la Reserva Marina, y la Platja Canina de Les Deveses (playa canina todo el año)`,
@@ -4187,6 +4202,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a rebel city irlandesa dos gourmets sobre o Lee, ruas georgianas, pubs tradicionales com snugs, o emblemático English Market e o Ballincollig Regional Park sem trela de 200 hectáreas a 8 km al oeste, com as praias do West Cork a corta distancia al sur`,
       highlight: `Fitzgerald's Park e o passeio Mardyke, a zona sem trela do Ballincollig Regional Park e o comboio de 25 min al frente marítimo pet-friendly de Cobh`,
       area: `o Latin Quarter, a Marina fluvial e Blackrock`,
+    },
+    delft: {
+      personality: `pequena cidade de canais de 105 000 habitantes entre Roterdão e Haia onde o Markt empedrado sob a Nieuwe Kerk (túmulo de Guilherme de Orange desde 1584, mausoléu da Casa Real neerlandesa, torre de 109 m), o Stadhuis renascentista, a Oude Kerk (sepultura de Vermeer) com a sua torre inclinada, o canal Oude Delft (escavado por volta de 1100, o mais antigo dos Países Baixos), o Prinsenhof Museum (local do assassinato de Guilherme de Orange em 1584), a porta Oostpoort de 1400 e a manufatura de porcelana Royal Delft (Koninklijke Porceleyne Fles, fundada em 1653) reúnem-se dentro dos singels, a 12 minutos de comboio NS tanto de Haia Central como de Roterdão Central`,
+      highlight: `o Markt sob a torre de 109 m da Nieuwe Kerk, o pátio e a loja da Royal Delft na Rotterdamseweg, e as zonas hondenstrand permanentes de Kijkduin e Scheveningen alcançadas em 45 a 55 minutos no Tram 1 HTM`,
+      area: `o Centrum dentro dos singels em torno do Markt e do canal Oude Delft, o campus verde da TU Delft a sul, e o parque recreativo Delftse Hout a leste do centro`,
     },
     denia: {
       personality: `porto do norte da Costa Blanca e Cidade Criativa UNESCO da Gastronomia, com o Castelo mouro do século XI sobre o casco antiguo caiado, o Parque Natural do Montgó de 753 m que se eleva mesmo atrás da cidade, ferries Baleària diários para Ibiza e a rara Platja Canina de Les Deveses aberta a cães o ano inteiro`,

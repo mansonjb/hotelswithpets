@@ -5590,6 +5590,81 @@
     "tiqetsId": "1841"
   },
   {
+    "slug": "delft",
+    "name": "Delft",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "flag": "🇳🇱",
+    "categoryCount": 7,
+    "heroImage": "/images/destinations/delft.jpg",
+    "intro": "Delft is the small canal city of 105,000 between Rotterdam and The Hague where the cobbled Markt under the Nieuwe Kerk (William of Orange's tomb since 1584, mausoleum of the Dutch Royal House, 109 m tower), the Renaissance Stadhuis city hall, Vermeer's burial Oude Kerk with its leaning tower, the 1100-dug Oude Delft canal (the oldest in the Netherlands), the Prinsenhof Museum (William of Orange assassination site), the 1400 Oostpoort city gate (only remaining medieval gate) and the Royal Delft porcelain manufactory (Koninklijke Porceleyne Fles, founded 1653) cluster inside the singel canals. The 220-hectare Delftse Hout has a fenced off-leash lake meadow; the TU Delft 161-hectare green campus runs along the Mekelpark and the Schie rowing canal. Kijkduin dog beach is 12 km, Scheveningen 25 km (full beach off-leash Nov–Feb), Maasvlakte 30 km, Hoek van Holland Stena Line ferry to Harwich UK 20 km. NS IC trains reach The Hague Central and Rotterdam Central in 12 minutes, Amsterdam Centraal in 1 hour, Schiphol Airport in 45 minutes; dogs free in a carrier, €3.30 Dagkaart Hond for larger dogs. HTM heritage Tram 1 runs from Delft to Scheveningen Noord in 55 minutes.",
+    "lat": 52.0116,
+    "lng": 4.3571,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "AMS"
+  },
+  {
     "slug": "denia",
     "name": "Dénia",
     "country": "Spain",

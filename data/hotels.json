@@ -27215,5 +27215,508 @@
     ],
     "slug": "five-zurich-luxury-city-resort",
     "petPolicyPt": "FIVE Zurich - Luxury City Resort warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €15 por noite applies, charged em check-em. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
+  },
+  {
+    "id": "leuven-1",
+    "name": "Begijnhof Hotel",
+    "destinationSlug": "leuven",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1850,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/begijnhofcongreshotel.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Begijnhof Hotel welcomes dogs of any size for an extra charge of €25 per stay. Multiple pets are allowed but they are not permitted in the breakfast room, bar or brasserie. Please notify the hotel at the time of reservation and describe your pet.",
+    "address": "Groot Begijnhof 15, 3000 Leuven",
+    "neighborhood": "Groot Begijnhof"
+  },
+  {
+    "id": "leuven-2",
+    "name": "pentahotel Leuven",
+    "destinationSlug": "leuven",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "business"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1200,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/pentahotel-leuven.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "pentahotel Leuven allows pets of any size for an additional fee of €15 per pet, per stay. Both dogs and cats are welcome. The hotel is a short stroll from the historic city centre.",
+    "address": "Alfons Smetsplein 7, 3000 Leuven",
+    "neighborhood": "City centre"
+  },
+  {
+    "id": "leuven-3",
+    "name": "Novotel Leuven Centrum",
+    "destinationSlug": "leuven",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "family",
+      "business"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2100,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/novotelleuvencentrum.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Novotel Leuven Centrum allows pets of any size for an additional fee of €15 per pet, per night. The hotel is a 10-minute walk from the train station and close to the historic centre.",
+    "address": "Vuurkruisenlaan 4, 3000 Leuven",
+    "neighborhood": "City centre"
+  },
+  {
+    "id": "leuven-4",
+    "name": "Ambassador Suites Leuven",
+    "destinationSlug": "leuven",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 560,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/sint-maartensdal-flats.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Ambassador Suites Leuven welcomes up to two pets per accommodation (dogs and cats), maximum 15 kg each, for an additional fee of €10 per pet, per night. Pets must be supervised at all times.",
+    "address": "Sint-Maartenstraat 12D, 3000 Leuven",
+    "neighborhood": "City centre"
+  },
+  {
+    "id": "leuven-5",
+    "name": "ibis budget Leuven Centrum",
+    "destinationSlug": "leuven",
+    "categories": [
+      "dog-friendly",
+      "budget",
+      "near-station"
+    ],
+    "stars": 2,
+    "rating": 8.0,
+    "reviewCount": 1450,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/ibis-budget-leuven-centrum.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "ibis budget Leuven Centrum allows pets on request for a small extra charge per night. Please contact the property in advance to confirm availability of a pet-friendly room.",
+    "address": "Martelarenplein 5, 3000 Leuven",
+    "neighborhood": "Near train station"
+  },
+  {
+    "id": "ostend-1",
+    "name": "Hotel & Wellness Royal Astrid",
+    "destinationSlug": "ostend",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "near-beach"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1600,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/royalastridoostende.en-gb.html",
+    "petFee": 19,
+    "petPolicy": "Hotel & Wellness Royal Astrid welcomes dogs of any size in designated rooms for an additional fee of €19.50 per pet, per night. Service animals stay free of charge. Pets are not allowed in the breakfast room or in the executive rooms.",
+    "address": "Wellingtonstraat 15, 8400 Oostende",
+    "neighborhood": "Near the seafront and racecourse"
+  },
+  {
+    "id": "ostend-2",
+    "name": "Mercure Oostende",
+    "destinationSlug": "ostend",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "business"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 2400,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/mercure-oostende.en-gb.html",
+    "petFee": 26,
+    "petPolicy": "Mercure Oostende welcomes pets in designated rooms for an additional fee of €26 per dog per night. Maximum of two small pets or one large pet per room. The hotel is just 250 m from the sandy beach and the Casino Kursaal.",
+    "address": "Leopold II-laan 20, 8400 Oostende",
+    "neighborhood": "Beachfront / Casino"
+  },
+  {
+    "id": "ostend-3",
+    "name": "C-Hotels Andromeda",
+    "destinationSlug": "ostend",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "near-beach"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 2900,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/andromeda-thalassa.en-gb.html",
+    "petFee": 24,
+    "petPolicy": "C-Hotels Andromeda welcomes dogs on request for a supplement of €24 per stay when notified in advance. Dogs are not allowed in the breakfast room or in the Andromeda Suite. A bowl and treats are provided for canine guests.",
+    "address": "Kursaal Westhelling 5, 8400 Oostende",
+    "neighborhood": "Seafront / Kursaal"
+  },
+  {
+    "id": "ostend-4",
+    "name": "Hotel Melinda",
+    "destinationSlug": "ostend",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "near-station"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 980,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/melinda.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Melinda allows dogs of any size for an additional fee of €15 per pet, per night. Cats are not allowed. Service animals are exempt from fees. A 7-minute walk from the train station and 15 minutes from Ostend Beach.",
+    "address": "Mercatorlaan 21, 8400 Oostende",
+    "neighborhood": "City centre"
+  },
+  {
+    "id": "ostend-5",
+    "name": "ibis budget Oostende Airport",
+    "destinationSlug": "ostend",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget"
+    ],
+    "stars": 2,
+    "rating": 8.0,
+    "reviewCount": 1700,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/ibis-budget-oostende-airport.en-gb.html",
+    "petFee": 16,
+    "petPolicy": "ibis budget Oostende Airport allows up to two pets of any size for an additional fee of €16 per pet, per night. Both dogs and cats are welcome. Located between Ostend and Middelkerke, within walking distance of Middelkerke beach.",
+    "address": "Kalkaertweg 4b, 8430 Middelkerke",
+    "neighborhood": "Airport / Middelkerke"
+  },
+  {
+    "id": "groningen-1",
+    "name": "NH Groningen",
+    "destinationSlug": "groningen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "business"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 3200,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/nhgroningen.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "NH Groningen welcomes dogs and cats up to 25 kg on request, with a maximum of two pets per room, for a fee of €25 per pet, per stay. Guide dogs stay free of charge. Availability is limited, please request when booking.",
+    "address": "Hanzeplein 132, 9713 GW Groningen",
+    "neighborhood": "Near UMCG / Sterrebos"
+  },
+  {
+    "id": "groningen-2",
+    "name": "Prinsenhof",
+    "destinationSlug": "groningen",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "boutique"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1400,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/prinsenhof-groningen.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Prinsenhof welcomes dogs for a charge of €15 per pet, per night, plus a refundable deposit of €15 per night. Service animals are exempt from fees. Food and water bowls are provided. Set in a 15th-century building with the Prinsenhof Gardens.",
+    "address": "Martinikerkhof 23, 9712 JH Groningen",
+    "neighborhood": "Historic city centre"
+  },
+  {
+    "id": "groningen-3",
+    "name": "Hotel Schimmelpenninck Huys",
+    "destinationSlug": "groningen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1850,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/schimmelpenninckhuys.en-gb.html",
+    "petFee": 17,
+    "petPolicy": "Hotel Schimmelpenninck Huys allows pets in designated rooms for an extra charge of €17.50 per pet, per day. Both dogs and cats are welcome on request. Located in the heart of the historic centre, within walking distance of the Martinitoren.",
+    "address": "Oosterstraat 53, 9711 NR Groningen",
+    "neighborhood": "Historic city centre"
+  },
+  {
+    "id": "groningen-4",
+    "name": "Van der Valk Hotel Groningen-Hoogkerk",
+    "destinationSlug": "groningen",
+    "categories": [
+      "dog-friendly",
+      "family",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 4500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/van-der-valk-hotel-groningen-hoogkerk.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Van der Valk Hotel Groningen-Hoogkerk allows dogs of any size in designated rooms for €30 per pet, per night. Food and water bowls are provided. Dogs are welcome in the lobby, bar/brasserie and on the terrace but not in the restaurant or meeting floor.",
+    "address": "Borchsingel 53, 9766 PP Eelderwolde",
+    "neighborhood": "Hoogkerk / A7"
+  },
+  {
+    "id": "groningen-5",
+    "name": "B&B Pakhuis Emden",
+    "destinationSlug": "groningen",
+    "categories": [
+      "dog-friendly",
+      "budget",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 9.2,
+    "reviewCount": 420,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/b-amp-b-pakhuis-emden.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "B&B Pakhuis Emden welcomes dogs of any size at no additional charge. Cats may also be allowed by request. A characterful B&B set in a converted warehouse in central Groningen.",
+    "address": "Hoge der A 18, 9712 AC Groningen",
+    "neighborhood": "Hoge der A / canal district"
+  },
+  {
+    "id": "leiden-1",
+    "name": "Tulip Inn Leiden Centre",
+    "destinationSlug": "leiden",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-station",
+      "business"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 2400,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/leidencentreleiden.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Tulip Inn Leiden Centre allows pets of any size for an additional fee of €25 per pet, per night. Both dogs and cats are welcome. Located right next to Leiden Centraal station, a short walk from the historic centre.",
+    "address": "Schipholweg 3, 2316 XB Leiden",
+    "neighborhood": "Near Leiden Centraal"
+  },
+  {
+    "id": "leiden-2",
+    "name": "Hilton Garden Inn Leiden",
+    "destinationSlug": "leiden",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "business"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1850,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/hilton-garden-inn-leiden-netherlands.en-gb.html",
+    "petFee": 50,
+    "petPolicy": "Hilton Garden Inn Leiden allows up to two pets up to 34 kg in designated Standard King rooms for an additional fee of €50 per pet, per stay. Both dogs and cats are welcome. Dog beds, treats, toys and food bowls are provided.",
+    "address": "Willem Einthovenstraat 3, 2342 BH Oegstgeest",
+    "neighborhood": "Oegstgeest / near CORPUS"
+  },
+  {
+    "id": "leiden-3",
+    "name": "Boutique Hotel d'Oude Morsch",
+    "destinationSlug": "leiden",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 900,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/boutique-d-39-oude-morsch.en-gb.html",
+    "petFee": 7,
+    "petPolicy": "Boutique Hotel d'Oude Morsch welcomes dogs of any size for an additional fee of €7.50 per pet, per night. Sorry, no cats. Food and water bowls are available. Located 3 minutes from the city centre.",
+    "address": "Oude Morsstraat 56, 2312 BJ Leiden",
+    "neighborhood": "Morspoort / city centre"
+  },
+  {
+    "id": "leiden-4",
+    "name": "City Hotel Nieuw Minerva",
+    "destinationSlug": "leiden",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1500,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/nieuwminerva.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "City Hotel Nieuw Minerva welcomes up to two small to medium dogs per room on request, in a limited number of pet-friendly rooms, for a surcharge. Pitbulls and Bull Terriers are not allowed.",
+    "address": "Boommarkt 23, 2311 EA Leiden",
+    "neighborhood": "City centre / Rapenburg canal"
+  },
+  {
+    "id": "leiden-5",
+    "name": "ibis Leiden Centre",
+    "destinationSlug": "leiden",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-station",
+      "budget"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 2800,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/ibis-leiden-centre.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "ibis Leiden Centre welcomes up to two pets per room. Dogs and cats are accepted for a fee from €25 per pet, per night. Located on Stationsplein, directly opposite Leiden Centraal station.",
+    "address": "Stationsplein 240-242, 2312 AR Leiden",
+    "neighborhood": "Leiden Centraal"
+  },
+  {
+    "id": "delft-1",
+    "name": "Grand Canal Boutique Hotel Delft",
+    "destinationSlug": "delft",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique",
+      "near-station"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1450,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/grand-canal.en-gb.html",
+    "petFee": 18,
+    "petPolicy": "Grand Canal Boutique Hotel Delft allows up to two pets of any size in designated rooms for an additional fee of €18 per pet, per night, plus a refundable deposit of €50 per stay. Both dogs and cats are welcome and food and water bowls are provided.",
+    "address": "Breestraat 1, 2611 RD Delft",
+    "neighborhood": "City centre / near Central Station"
+  },
+  {
+    "id": "delft-2",
+    "name": "Best Western Plus Grand Winston",
+    "destinationSlug": "delft",
+    "categories": [
+      "dog-friendly",
+      "business",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 4800,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/best-western-plus-grand-winston.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Best Western Plus Grand Winston welcomes up to two dogs of any size for an additional fee of €20 per pet, per night. Sorry, no cats, and pets cannot be left unattended in rooms. Food and water bowls are provided. Delft city centre is easily reached within a few minutes.",
+    "address": "Generaal Eisenhowerplein 1, 2288 AE Rijswijk",
+    "neighborhood": "Rijswijk (between Delft and The Hague)"
+  },
+  {
+    "id": "delft-3",
+    "name": "Achterom B & B",
+    "destinationSlug": "delft",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "budget"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 320,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/achterom-b-amp-b.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Achterom B & B welcomes dogs on request, with no additional pet fee charged at the time of writing. Please notify the host when booking. Located within a 10-minute walk of Oostpoort and a few minutes from the historic centre.",
+    "address": "Achterom 80, 2611 PL Delft",
+    "neighborhood": "City centre / Oostpoort"
+  },
+  {
+    "id": "delft-4",
+    "name": "The City Nest Apartment 38A",
+    "destinationSlug": "delft",
+    "categories": [
+      "dog-friendly",
+      "family",
+      "apartment"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 180,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/the-city-nest-apartment-38a.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The City Nest Apartment 38A welcomes pets at no additional fee. The one-bedroom apartment sleeps three guests and has a fully equipped kitchen, free WiFi and on-site parking. Close to Delft University of Technology.",
+    "address": "Voorhof, 2624 Delft",
+    "neighborhood": "Voorhof / near TU Delft"
+  },
+  {
+    "id": "delft-5",
+    "name": "Charming Retreat Apartment City 20Alpha",
+    "destinationSlug": "delft",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "apartment"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 150,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/charming-retreat-apartment-city-20alpha.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Charming Retreat Apartment City 20Alpha is listed as pet-friendly on Booking.com with no posted pet fee. Located next to Delft city centre with easy access to canals and historic sights.",
+    "address": "Centrum, 2611 Delft",
+    "neighborhood": "City centre"
   }
 ]

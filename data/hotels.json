@@ -32281,5 +32281,639 @@
     "slug": "hotel-originals-mas-de-la-plage-sete",
     "address": "Route de la Corniche, 34200 Sète",
     "neighborhood": "Lido / Corniche"
+  },
+  {
+    "id": "dunkerque-1",
+    "name": "Mercure Dunkerque Centre Gare",
+    "destinationSlug": "dunkerque",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 1800,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mercure-dunkerque-centre-gare.html",
+    "petFee": 10,
+    "petPolicy": "Mercure Dunkerque Centre Gare is listed on Booking.com as pet-friendly; pets of any size accepted for EUR 10 per night, both dogs and cats welcome. 4-star hotel in city centre near train station. Please confirm with the property when booking.",
+    "highlights": [
+      "City centre",
+      "Near train station",
+      "Mercure chain"
+    ],
+    "slug": "mercure-dunkerque-centre-gare",
+    "address": "2 Rue Leughenaer, 59140 Dunkerque",
+    "neighborhood": "Centre / Gare"
+  },
+  {
+    "id": "dunkerque-2",
+    "name": "Best Western Hotel du Lac Dunkerque",
+    "destinationSlug": "dunkerque",
+    "categories": [
+      "dog-friendly",
+      "lakeside"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1500,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/best-western-du-lac.html",
+    "petFee": 10,
+    "petPolicy": "Best Western Hotel du Lac Dunkerque is listed on Booking.com as pet-friendly, noted for exceptional dog-friendly facilities. Located next to a picturesque lake offering pleasant walking opportunities with pets. Please confirm with the property when booking.",
+    "highlights": [
+      "Lakeside location",
+      "Walks with pets",
+      "Best Western chain"
+    ],
+    "slug": "best-western-hotel-du-lac-dunkerque",
+    "address": "Lac d'Armbouts-Cappel, 59380 Armbouts-Cappel",
+    "neighborhood": "Armbouts-Cappel / Lac"
+  },
+  {
+    "id": "dunkerque-3",
+    "name": "All Suites Appart Hotel Dunkerque Centre",
+    "destinationSlug": "dunkerque",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "city-center"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 900,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/all-suites-appart-dunkerque-centre.html",
+    "petFee": 10,
+    "petPolicy": "All Suites Appart Hotel Dunkerque Centre is listed on Booking.com as pet-friendly; pets of any size accepted for EUR 10 per pet per night, cats allowed by request. Apartment-style hotel in central Dunkerque. Please confirm with the property when booking.",
+    "highlights": [
+      "Apartment style",
+      "Kitchenettes",
+      "City centre"
+    ],
+    "slug": "all-suites-appart-hotel-dunkerque",
+    "address": "Quai des Hollandais, 59140 Dunkerque",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "dunkerque-4",
+    "name": "Hotel Les Gens De Mer Dunkerque by Popinns",
+    "destinationSlug": "dunkerque",
+    "categories": [
+      "dog-friendly",
+      "near-port"
+    ],
+    "stars": 2,
+    "rating": 7.9,
+    "reviewCount": 750,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/les-gens-de-mer-dunkerque.html",
+    "petFee": 8,
+    "petPolicy": "Hotel Les Gens De Mer Dunkerque by Popinns is listed on Booking.com as pet-friendly with welcoming policies for guests travelling with multiple pets. Near the port, traditional maritime hospitality. Please confirm with the property when booking.",
+    "highlights": [
+      "Multiple pets welcome",
+      "Near port",
+      "Maritime tradition"
+    ],
+    "slug": "les-gens-de-mer-dunkerque",
+    "address": "Place du Minck, 59140 Dunkerque",
+    "neighborhood": "Port / Citadelle"
+  },
+  {
+    "id": "dunkerque-5",
+    "name": "ibis Dunkerque Centre",
+    "destinationSlug": "dunkerque",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 3,
+    "rating": 8,
+    "reviewCount": 1400,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-dunkerque-centre.html",
+    "petFee": 10,
+    "petPolicy": "ibis Dunkerque Centre is listed on Booking.com as pet-friendly; pets accepted for approximately EUR 10 per night per Accor group standard policy. Central location near port and ferries. Please confirm with the property when booking.",
+    "highlights": [
+      "Accor chain",
+      "Central",
+      "Near ferry terminal"
+    ],
+    "slug": "ibis-dunkerque-centre",
+    "address": "13 Rue du Leughenaer, 59140 Dunkerque",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "boulogne-sur-mer-1",
+    "name": "B&B Hotel Boulogne-sur-Mer",
+    "destinationSlug": "boulogne-sur-mer",
+    "categories": [
+      "dog-friendly",
+      "budget"
+    ],
+    "stars": 2,
+    "rating": 7.8,
+    "reviewCount": 1300,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/b-amp-b-boulogne-sur-mer.html",
+    "petFee": 4,
+    "petPolicy": "B&B Hotel Boulogne-sur-Mer is listed on Booking.com as pet-friendly; pets of any size accepted for EUR 4 per pet per night, one of the most affordable pet fees in the area. Please confirm with the property when booking.",
+    "highlights": [
+      "Low pet fee",
+      "Budget friendly",
+      "B&B chain"
+    ],
+    "slug": "bb-hotel-boulogne-sur-mer",
+    "address": "Rue de la Cache, 62360 Saint-Martin-Boulogne",
+    "neighborhood": "Saint-Martin-Boulogne"
+  },
+  {
+    "id": "boulogne-sur-mer-2",
+    "name": "Hotel La Matelote",
+    "destinationSlug": "boulogne-sur-mer",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1100,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/la-matelote.html",
+    "petFee": 15,
+    "petPolicy": "Hotel La Matelote is listed on Booking.com as pet-friendly with charm and seaside location opposite Nausicaa aquarium. Refined boutique 4-star with restaurant. Please confirm with the property when booking.",
+    "highlights": [
+      "Opposite Nausicaa",
+      "Seaside",
+      "Gastronomic restaurant"
+    ],
+    "slug": "hotel-la-matelote-boulogne",
+    "address": "70 Boulevard Sainte-Beuve, 62200 Boulogne-sur-Mer",
+    "neighborhood": "Front de mer"
+  },
+  {
+    "id": "boulogne-sur-mer-3",
+    "name": "Ibis Styles Boulogne-sur-Mer Centre Cathedrale",
+    "destinationSlug": "boulogne-sur-mer",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1200,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-styles-boulogne-sur-mer-centre-cathedrale.html",
+    "petFee": 10,
+    "petPolicy": "Ibis Styles Boulogne-sur-Mer Centre Cathedrale is listed on Booking.com as pet-friendly; pets accepted for approximately EUR 10 per night per Accor group standard. Central location near the cathedral and old town. Please confirm with the property when booking.",
+    "highlights": [
+      "Near cathedral",
+      "Old town",
+      "Accor chain"
+    ],
+    "slug": "ibis-styles-boulogne-cathedrale",
+    "address": "Place de France, 62200 Boulogne-sur-Mer",
+    "neighborhood": "Vieille Ville / Cathedrale"
+  },
+  {
+    "id": "boulogne-sur-mer-4",
+    "name": "Hotel Atlantic Wimereux",
+    "destinationSlug": "boulogne-sur-mer",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "seaside"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 950,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/atlantic-wimereux.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Atlantic Wimereux is listed on Booking.com as pet-friendly. Seafront 4-star hotel in Wimereux just north of Boulogne, with beach access on the Opal Coast. Please confirm with the property when booking.",
+    "highlights": [
+      "Beachfront",
+      "Opal Coast",
+      "Wimereux seaside"
+    ],
+    "slug": "hotel-atlantic-wimereux",
+    "address": "Digue de Mer, 62930 Wimereux",
+    "neighborhood": "Wimereux"
+  },
+  {
+    "id": "boulogne-sur-mer-5",
+    "name": "Kyriad Boulogne-sur-Mer",
+    "destinationSlug": "boulogne-sur-mer",
+    "categories": [
+      "dog-friendly",
+      "near-port"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 850,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/kyriad-boulogne-sur-mer.html",
+    "petFee": 8,
+    "petPolicy": "Kyriad Boulogne-sur-Mer is listed on Booking.com as pet-friendly; pets accepted per Kyriad chain standard policy. Convenient location near the port. Please confirm with the property when booking.",
+    "highlights": [
+      "Kyriad chain",
+      "Near port",
+      "Free parking"
+    ],
+    "slug": "kyriad-boulogne-sur-mer",
+    "address": "Boulevard Daunou, 62200 Boulogne-sur-Mer",
+    "neighborhood": "Port"
+  },
+  {
+    "id": "beziers-1",
+    "name": "Mercure Beziers",
+    "destinationSlug": "beziers",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 1600,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mercure-beziers.html",
+    "petFee": 8,
+    "petPolicy": "Mercure Beziers is listed on Booking.com as pet-friendly; pets of any size accepted for EUR 8 per pet per night. 4-star hotel close to city centre and cathedral. Please confirm with the property when booking.",
+    "highlights": [
+      "Mercure chain",
+      "Near cathedral",
+      "Outdoor pool"
+    ],
+    "slug": "mercure-beziers",
+    "address": "Place du 14 Juillet, 34500 Béziers",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "beziers-2",
+    "name": "Hotel La Prison Beziers",
+    "destinationSlug": "beziers",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 700,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/la-prison.html",
+    "petFee": 10,
+    "petPolicy": "Hotel La Prison is listed on Booking.com as pet-friendly; pets of any size accepted for EUR 10 per pet per stay plus a refundable deposit of EUR 50. Unique boutique hotel in a former 19th century prison building. Please confirm with the property when booking.",
+    "highlights": [
+      "Historic building",
+      "Boutique design",
+      "Central"
+    ],
+    "slug": "hotel-la-prison-beziers",
+    "address": "16 Rue de la Citadelle, 34500 Béziers",
+    "neighborhood": "Centre Historique"
+  },
+  {
+    "id": "beziers-3",
+    "name": "Ibis Budget Beziers Centre Palais Congres",
+    "destinationSlug": "beziers",
+    "categories": [
+      "dog-friendly",
+      "budget"
+    ],
+    "stars": 2,
+    "rating": 7.7,
+    "reviewCount": 1400,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-budget-beziers-centre-palais-congres.html",
+    "petFee": 5,
+    "petPolicy": "Ibis Budget Beziers Centre Palais Congres is listed on Booking.com as pet-friendly; pets of any size accepted for EUR 5 per pet per night. Budget option near the convention centre. Please confirm with the property when booking.",
+    "highlights": [
+      "Low pet fee",
+      "Near Palais des Congres",
+      "Budget"
+    ],
+    "slug": "ibis-budget-beziers-centre",
+    "address": "Avenue du President Wilson, 34500 Béziers",
+    "neighborhood": "Palais des Congres"
+  },
+  {
+    "id": "beziers-4",
+    "name": "Zenitude Hotel Residences Beziers Centre",
+    "destinationSlug": "beziers",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "city-center"
+    ],
+    "stars": 3,
+    "rating": 8,
+    "reviewCount": 950,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/zenitude-beziers-centre.html",
+    "petFee": 5,
+    "petPolicy": "Zenitude Hotel Residences Beziers Centre is listed on Booking.com as pet-friendly; pets of any size accepted for EUR 5 per pet per night, plus a one-time EUR 25 cleaning fee. Aparthotel in central Béziers. Please confirm with the property when booking.",
+    "highlights": [
+      "Kitchenettes",
+      "Long stay friendly",
+      "Central"
+    ],
+    "slug": "zenitude-beziers-centre",
+    "address": "Rue de la Citadelle, 34500 Béziers",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "beziers-5",
+    "name": "Hotel de France Beziers",
+    "destinationSlug": "beziers",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 2,
+    "rating": 7.6,
+    "reviewCount": 600,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/de-france-beziers.html",
+    "petFee": 5,
+    "petPolicy": "Hotel de France Beziers is listed on Booking.com as pet-friendly; dogs of any size accepted for EUR 5 per pet per night. Traditional small hotel in city centre. Please confirm with the property when booking.",
+    "highlights": [
+      "Low pet fee",
+      "Traditional",
+      "Central"
+    ],
+    "slug": "hotel-de-france-beziers",
+    "address": "Allees Paul Riquet, 34500 Béziers",
+    "neighborhood": "Centre / Allees"
+  },
+  {
+    "id": "brest-1",
+    "name": "Mercure Brest Centre Port",
+    "destinationSlug": "brest",
+    "categories": [
+      "dog-friendly",
+      "near-port",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2100,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mercure-brest-centre.html",
+    "petFee": 10,
+    "petPolicy": "Mercure Brest Centre Port is listed on Booking.com as pet-friendly; pets accepted for approximately EUR 10 per night per Accor group standard. 4-star hotel with views over the commercial port. Please confirm with the property when booking.",
+    "highlights": [
+      "Port views",
+      "Mercure chain",
+      "Highly-rated breakfast"
+    ],
+    "slug": "mercure-brest-centre-port",
+    "address": "2 Rue Yves Collet, 29200 Brest",
+    "neighborhood": "Centre / Port"
+  },
+  {
+    "id": "brest-2",
+    "name": "ibis budget Brest Centre Port",
+    "destinationSlug": "brest",
+    "categories": [
+      "dog-friendly",
+      "budget",
+      "near-port"
+    ],
+    "stars": 2,
+    "rating": 7.8,
+    "reviewCount": 1600,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-budget-brest-centre-port.html",
+    "petFee": 10,
+    "petPolicy": "ibis budget Brest Centre Port is listed on Booking.com as pet-friendly with highly-rated breakfast; pets accepted per Accor standard EUR 10 per night. Budget option near port. Please confirm with the property when booking.",
+    "highlights": [
+      "Budget",
+      "Near port",
+      "Highly-rated breakfast"
+    ],
+    "slug": "ibis-budget-brest-centre-port",
+    "address": "Rue Anatole France, 29200 Brest",
+    "neighborhood": "Centre / Port"
+  },
+  {
+    "id": "brest-3",
+    "name": "Hotel Oceania Brest Centre",
+    "destinationSlug": "brest",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 1400,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/oceania-brest-centre.html",
+    "petFee": 12,
+    "petPolicy": "Hotel Oceania Brest Centre is listed on Booking.com as pet-friendly. 4-star hotel in central Brest with indoor pool and spa, French chain Oceania. Please confirm with the property when booking.",
+    "highlights": [
+      "Indoor pool",
+      "Spa",
+      "Central"
+    ],
+    "slug": "oceania-brest-centre",
+    "address": "82 Rue de Siam, 29200 Brest",
+    "neighborhood": "Rue de Siam"
+  },
+  {
+    "id": "brest-4",
+    "name": "Best Western Plus Hotel de la Paix Brest",
+    "destinationSlug": "brest",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1100,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/best-western-hotel-de-la-paix-brest.html",
+    "petFee": 12,
+    "petPolicy": "Best Western Plus Hotel de la Paix Brest is listed on Booking.com as pet-friendly. Central 4-star location near Rue de Siam shopping street. Please confirm with the property when booking.",
+    "highlights": [
+      "Central",
+      "Best Western Plus",
+      "Near Rue de Siam"
+    ],
+    "slug": "best-western-hotel-de-la-paix-brest",
+    "address": "32 Rue d'Algesiras, 29200 Brest",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "brest-5",
+    "name": "Kyriad Brest Centre",
+    "destinationSlug": "brest",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 900,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/kyriad-brest-centre.html",
+    "petFee": 8,
+    "petPolicy": "Kyriad Brest Centre is listed on Booking.com as pet-friendly per Kyriad chain standard policy. 3-star central location in Brest. Please confirm with the property when booking.",
+    "highlights": [
+      "Kyriad chain",
+      "Central",
+      "Good value"
+    ],
+    "slug": "kyriad-brest-centre",
+    "address": "157 Rue Jean Jaures, 29200 Brest",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "vannes-1",
+    "name": "Best Western Plus Le Roof Vannes Bord de Mer",
+    "destinationSlug": "vannes",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "seaside"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2200,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/best-western-le-roof-vannes.html",
+    "petFee": 15,
+    "petPolicy": "Best Western Plus Le Roof Vannes Bord de Mer is listed on Booking.com as pet-friendly. Located on shore of Conleau Beach and Gulf of Morbihan with gardens, beach access, 2 restaurants and a bar. Please confirm with the property when booking.",
+    "highlights": [
+      "Beachfront Conleau",
+      "Gulf of Morbihan",
+      "2 restaurants"
+    ],
+    "slug": "best-western-le-roof-vannes",
+    "address": "Presqu'ile de Conleau, 56000 Vannes",
+    "neighborhood": "Conleau"
+  },
+  {
+    "id": "vannes-2",
+    "name": "Kyriad Vannes Centre Ville",
+    "destinationSlug": "vannes",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1300,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/kyriad-vannes-centre-ville.html",
+    "petFee": 10,
+    "petPolicy": "Kyriad Vannes Centre Ville is listed on Booking.com as pet-friendly; per Kyriad chain pet policy, dogs welcome with prior notice. Central 3-star location in historic Vannes. Please confirm with the property when booking.",
+    "highlights": [
+      "Historic centre",
+      "Kyriad chain",
+      "Near ramparts"
+    ],
+    "slug": "kyriad-vannes-centre-ville",
+    "address": "8 Place de la Liberation, 56000 Vannes",
+    "neighborhood": "Centre Historique"
+  },
+  {
+    "id": "vannes-3",
+    "name": "B&B HOTEL Vannes Est Golfe du Morbihan",
+    "destinationSlug": "vannes",
+    "categories": [
+      "dog-friendly",
+      "budget"
+    ],
+    "stars": 2,
+    "rating": 7.9,
+    "reviewCount": 1500,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/b-amp-b-vannes-est-golfe-du-morbihan.html",
+    "petFee": 4,
+    "petPolicy": "B&B HOTEL Vannes Est Golfe du Morbihan is listed on Booking.com as pet-friendly; pets accepted at the B&B chain standard rate. Budget option in the Gulf of Morbihan area. Please confirm with the property when booking.",
+    "highlights": [
+      "Low pet fee",
+      "Budget",
+      "Gulf of Morbihan"
+    ],
+    "slug": "bb-hotel-vannes-est",
+    "address": "Rue Aristide Boucicaut, 56000 Vannes",
+    "neighborhood": "Vannes Est"
+  },
+  {
+    "id": "vannes-4",
+    "name": "ibis budget Vannes Ploeren",
+    "destinationSlug": "vannes",
+    "categories": [
+      "dog-friendly",
+      "budget"
+    ],
+    "stars": 2,
+    "rating": 7.7,
+    "reviewCount": 1100,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-budget-vannes-ploeren.html",
+    "petFee": 10,
+    "petPolicy": "ibis budget Vannes Ploeren is listed on Booking.com as pet-friendly; pets accepted per Accor group standard EUR 10 per night. Budget option in Ploeren just west of Vannes. Please confirm with the property when booking.",
+    "highlights": [
+      "Budget",
+      "Free parking",
+      "Accor chain"
+    ],
+    "slug": "ibis-budget-vannes-ploeren",
+    "address": "ZA de Luscanen, 56880 Ploeren",
+    "neighborhood": "Ploeren"
+  },
+  {
+    "id": "vannes-5",
+    "name": "Manoir de Truhelin",
+    "destinationSlug": "vannes",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "rural"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 500,
+    "priceFrom": 170,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/manoir-de-truhelin.html",
+    "petFee": 15,
+    "petPolicy": "Manoir de Truhelin is listed on Booking.com as pet-friendly. Charming country manor B&B in the Gulf of Morbihan area, quiet rural setting ideal for dogs. Please confirm with the property when booking.",
+    "highlights": [
+      "Country manor",
+      "Quiet rural setting",
+      "Gulf of Morbihan"
+    ],
+    "slug": "manoir-de-truhelin-vannes",
+    "address": "Truhelin, 56870 Arradon",
+    "neighborhood": "Arradon"
   }
 ]

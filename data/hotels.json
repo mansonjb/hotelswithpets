@@ -31145,5 +31145,494 @@
     "petPolicy": "Boho Suites Formentera is listed among Booking.com's pet-friendly hotels on Formentera. Pets accepted on request; confirm size limits and any cleaning fees at booking. Boho-style suites near Sant Francesc Xavier, with garden and easy access to Migjorn and Illetes beaches. Please confirm with the property when booking.",
     "address": "Carrer Major s/n, 07860 Sant Francesc Xavier",
     "neighborhood": "Sant Francesc"
+  },
+  {
+    "id": "boston-1",
+    "name": "Kimpton Marlowe Hotel",
+    "destinationSlug": "boston",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1500,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/kimpton-marlowe.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton Marlowe follows the Kimpton brand policy: pets of any size, weight, or breed welcome at no extra charge, no limit on number of pets. Guests sign a waiver covering damage; pet beds, bowls and treats provided. Boutique riverside hotel in East Cambridge, walking distance from CambridgeSide and across the Charles from Beacon Hill. Please confirm with the property when booking.",
+    "address": "25 Edwin H Land Boulevard, Cambridge, MA 02141",
+    "neighborhood": "East Cambridge"
+  },
+  {
+    "id": "boston-2",
+    "name": "The Verb Hotel",
+    "destinationSlug": "boston",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1900,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/the-verb.html",
+    "petFee": 70,
+    "petPolicy": "The Verb Hotel allows pets up to 25 lbs in designated pet-friendly rooms for a fee of approximately USD 75 per stay. Music-themed boutique hotel 200 m from Fenway Park, with outdoor pool and free WiFi, in the Fenway-Kenmore neighborhood. Please confirm with the property when booking.",
+    "address": "1271 Boylston Street, Boston, MA 02215",
+    "neighborhood": "Fenway-Kenmore"
+  },
+  {
+    "id": "boston-3",
+    "name": "The Whitney Hotel Boston",
+    "destinationSlug": "boston",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "boutique"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 600,
+    "priceFrom": 380,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/the-whitney-boston.html",
+    "petFee": 0,
+    "petPolicy": "The Whitney Hotel Boston is listed among Booking.com's most popular pet-friendly hotels in Boston. 5-star boutique property at the foot of Beacon Hill near the Charles River Esplanade, with shared lounge, fitness centre and free bikes. Pets accepted on request; confirm size limits and any fees at booking. Please confirm with the property when booking.",
+    "address": "170 Charles Street, Boston, MA 02114",
+    "neighborhood": "Beacon Hill"
+  },
+  {
+    "id": "boston-4",
+    "name": "The Colonnade Hotel",
+    "destinationSlug": "boston",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2100,
+    "priceFrom": 270,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/the-colonnade.html",
+    "petFee": 0,
+    "petPolicy": "The Colonnade Hotel runs a VIPets program with no pet fee for dogs up to 75 lbs, offering pet beds, bowls and treats on arrival. Independent 4-star hotel in the Back Bay with seasonal rooftop pool, walking distance from Copley Square and Prudential Center. Please confirm with the property when booking.",
+    "address": "120 Huntington Avenue, Boston, MA 02116",
+    "neighborhood": "Back Bay"
+  },
+  {
+    "id": "boston-5",
+    "name": "Hilton Boston Downtown/Faneuil Hall",
+    "destinationSlug": "boston",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3200,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/hilton-boston-financial-district.html",
+    "petFee": 70,
+    "petPolicy": "Hilton Boston Downtown/Faneuil Hall is listed on Booking.com as pet-friendly under Hilton's brand pet policy (dogs up to 75 lbs, fee typically USD 75 per stay). Located in the Financial District, walking distance from Faneuil Hall Marketplace and the North End. Please confirm size, number of pets and exact fee with the property when booking.",
+    "address": "89 Broad Street, Boston, MA 02110",
+    "neighborhood": "Financial District"
+  },
+  {
+    "id": "chicago-1",
+    "name": "Kimpton Hotel Monaco Chicago",
+    "destinationSlug": "chicago",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1700,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/monaco-chicago-a-kimpton.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton Hotel Monaco Chicago welcomes two pets of any size for no additional fee; both dogs and cats accepted, well-behaved pets may be left in the room unattended, with bowls, beds and treats on arrival. Boutique hotel at North Wabash and East Wacker, two blocks from the Chicago Riverwalk and walking distance from State Street shopping. Please confirm with the property when booking.",
+    "address": "225 North Wabash Avenue, Chicago, IL 60601",
+    "neighborhood": "The Loop"
+  },
+  {
+    "id": "chicago-2",
+    "name": "Kimpton Gray Hotel",
+    "destinationSlug": "chicago",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1300,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/kimpton-gray-chicago.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton Gray Hotel follows the Kimpton pet policy: pets of any size, weight or breed welcome at no extra charge. Boutique 4-star hotel in a 1894 landmark building in the Financial District, walking distance from Willis Tower and the Art Institute of Chicago. Please confirm with the property when booking.",
+    "address": "122 West Monroe Street, Chicago, IL 60603",
+    "neighborhood": "The Loop"
+  },
+  {
+    "id": "chicago-3",
+    "name": "Hotel EMC2, Autograph Collection",
+    "destinationSlug": "chicago",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1500,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/emc2-autograph-collection.html",
+    "petFee": 115,
+    "petPolicy": "Hotel EMC2 allows two dogs of any size for an additional fee of approximately USD 125 per stay (cats not accepted). Dogs may be left unattended with a signed waiver; dog beds, bowls and treats available at the front desk. Science-and-art themed boutique hotel in Streeterville, walking distance from the Magnificent Mile and Northwestern Memorial Hospital. Please confirm with the property when booking.",
+    "address": "228 East Ontario Street, Chicago, IL 60611",
+    "neighborhood": "Streeterville"
+  },
+  {
+    "id": "chicago-4",
+    "name": "Hotel Lincoln, JdV by Hyatt",
+    "destinationSlug": "chicago",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2400,
+    "priceFrom": 170,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/lincoln-a-joie-de-vivre-chicago.html",
+    "petFee": 70,
+    "petPolicy": "Hotel Lincoln allows one pet up to 30 lbs for an additional fee of approximately USD 75 per stay (1-6 nights) or USD 150 (7-30 nights); both dogs and cats welcome. Quirky boutique hotel overlooking Lincoln Park and the Chicago skyline, with rooftop bar, walking distance from Lincoln Park Zoo. Please confirm with the property when booking.",
+    "address": "1816 North Clark Street, Chicago, IL 60614",
+    "neighborhood": "Lincoln Park"
+  },
+  {
+    "id": "chicago-5",
+    "name": "Sofitel Chicago Magnificent Mile",
+    "destinationSlug": "chicago",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2700,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/sofitel-chicago-water-tower.html",
+    "petFee": 0,
+    "petPolicy": "Sofitel Chicago Magnificent Mile is listed on Booking.com as pet-friendly. Striking glass triangular tower steps from the Magnificent Mile and Water Tower Place, in the Gold Coast neighborhood. Pets accepted on request; size limits and fees may apply. Please confirm with the property when booking.",
+    "address": "20 East Chestnut Street, Chicago, IL 60611",
+    "neighborhood": "Gold Coast"
+  },
+  {
+    "id": "san-francisco-1",
+    "name": "Kimpton Sir Francis Drake Hotel",
+    "destinationSlug": "san-francisco",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3100,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/sir-francis-drake.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton Sir Francis Drake follows the Kimpton brand policy: pets of any size, weight or breed welcome at no extra charge. Free morning coffee/tea and evening wine hour included. Historic boutique hotel a half-block from Union Square and three blocks from Chinatown's Dragon's Gate. Please confirm with the property when booking.",
+    "address": "450 Powell Street, San Francisco, CA 94102",
+    "neighborhood": "Union Square"
+  },
+  {
+    "id": "san-francisco-2",
+    "name": "Kimpton Buchanan Hotel",
+    "destinationSlug": "san-francisco",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 1400,
+    "priceFrom": 200,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/the-buchanan.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton Buchanan welcomes pets of all sizes, breeds and weights free of charge under the Kimpton brand policy. Boutique hotel in Japantown, walking distance from the Japan Center, Peace Pagoda and Fillmore Street boutiques. Please confirm with the property when booking.",
+    "address": "1800 Sutter Street, San Francisco, CA 94115",
+    "neighborhood": "Japantown"
+  },
+  {
+    "id": "san-francisco-3",
+    "name": "Argonaut Hotel",
+    "destinationSlug": "san-francisco",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "waterfront"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 2200,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/argonaut-a-noble-house-hotel.html",
+    "petFee": 95,
+    "petPolicy": "Argonaut Hotel welcomes dogs of any size with a pet fee of approximately USD 100 per stay. Welcome package with treats, toys and a bed; pet-sitting and dog-walking services on request; dog-friendly happy hour in the lobby. Nautical-themed boutique hotel in historic Fisherman's Wharf, steps from Hyde Street Pier and Ghirardelli Square. Please confirm with the property when booking.",
+    "address": "495 Jefferson Street, San Francisco, CA 94109",
+    "neighborhood": "Fisherman's Wharf"
+  },
+  {
+    "id": "san-francisco-4",
+    "name": "Hotel Nikko San Francisco",
+    "destinationSlug": "san-francisco",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3800,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/nikko-san-francisco.html",
+    "petFee": 60,
+    "petPolicy": "Hotel Nikko welcomes dogs up to 50 lbs for approximately USD 65 per dog per night, with a refundable USD 150 cleaning deposit. Pet Pride package includes welcome treats, toys, bed and access to a rooftop pet terrace and dog run. Modern luxury hotel in the heart of Union Square. Please confirm with the property when booking.",
+    "address": "222 Mason Street, San Francisco, CA 94102",
+    "neighborhood": "Union Square"
+  },
+  {
+    "id": "san-francisco-5",
+    "name": "Hotel Zephyr Fisherman's Wharf",
+    "destinationSlug": "san-francisco",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "waterfront"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 3500,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/zephyr-fishermans-wharf.html",
+    "petFee": 70,
+    "petPolicy": "Hotel Zephyr is listed on Booking.com as pet-friendly; pets typically accepted for a fee of approximately USD 75 per stay (confirm size and number with property). Playful waterfront boutique hotel on Fisherman's Wharf with outdoor playground and views of Alcatraz, walking distance from Pier 39. Please confirm with the property when booking.",
+    "address": "250 Beach Street, San Francisco, CA 94133",
+    "neighborhood": "Fisherman's Wharf"
+  },
+  {
+    "id": "los-angeles-1",
+    "name": "Kimpton La Peer Hotel West Hollywood",
+    "destinationSlug": "los-angeles",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1100,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/kimpton-la-peer-los-angeles.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton La Peer welcomes pets of any size in designated rooms for no additional fee; both dogs and cats accepted. Grassy pet-relief area in front of the hotel; plush pet-bed loaners, bowls and concierge list of pet-friendly spots provided. Boutique design hotel in West Hollywood's Design District, walking distance from Melrose Avenue. Please confirm with the property when booking.",
+    "address": "627 North La Peer Drive, West Hollywood, CA 90069",
+    "neighborhood": "West Hollywood"
+  },
+  {
+    "id": "los-angeles-2",
+    "name": "Hotel Figueroa, Unbound Collection by Hyatt",
+    "destinationSlug": "los-angeles",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2100,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/figueroa.html",
+    "petFee": 45,
+    "petPolicy": "Hotel Figueroa welcomes up to two dogs up to 50 lbs for an additional fee of approximately USD 50 per stay (cats not accepted). Doggie welcome kit with treats, toys and bed; small grassy pet-relief area on site plus dog park one block away. Historic 1926 hotel in Downtown LA across from LA Live and Crypto.com Arena. Please confirm with the property when booking.",
+    "address": "939 South Figueroa Street, Los Angeles, CA 90015",
+    "neighborhood": "Downtown LA"
+  },
+  {
+    "id": "los-angeles-3",
+    "name": "Loews Hollywood Hotel",
+    "destinationSlug": "los-angeles",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3700,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/loews-hollywood.html",
+    "petFee": 95,
+    "petPolicy": "Loews Hollywood follows the Loews Loves Pets program: pets of any size welcome (typical fee approximately USD 100 per stay), with bedding, water bowls and doggie goodie bags provided. Gourmet pet room-service menu and dog-walking route maps at the front desk. Modern high-rise hotel adjoining the Dolby Theatre on Hollywood Boulevard. Please confirm with the property when booking.",
+    "address": "1755 North Highland Avenue, Los Angeles, CA 90028",
+    "neighborhood": "Hollywood"
+  },
+  {
+    "id": "los-angeles-4",
+    "name": "Shore Hotel Santa Monica",
+    "destinationSlug": "los-angeles",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "beach"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2900,
+    "priceFrom": 330,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/shore.html",
+    "petFee": 95,
+    "petPolicy": "Shore Hotel Santa Monica is listed on Booking.com as pet-friendly; dogs typically accepted for a fee of approximately USD 100 per stay (confirm size limits with property). Eco-friendly LEED-certified boutique hotel across from Santa Monica Pier and the beach, with outdoor pool. Please confirm with the property when booking.",
+    "address": "1515 Ocean Avenue, Santa Monica, CA 90401",
+    "neighborhood": "Santa Monica"
+  },
+  {
+    "id": "los-angeles-5",
+    "name": "The Hollywood Roosevelt",
+    "destinationSlug": "los-angeles",
+    "categories": [
+      "dog-friendly",
+      "historic",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.0,
+    "reviewCount": 4200,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/the-hollywood-roosevelt.html",
+    "petFee": 95,
+    "petPolicy": "The Hollywood Roosevelt is listed on Tripadvisor and Booking.com as pet-friendly; dogs typically accepted for a fee of approximately USD 100 per stay (confirm size with property). Iconic 1927 Spanish Colonial Revival hotel on Hollywood Boulevard, across from the TCL Chinese Theatre, with outdoor pool painted by David Hockney. Please confirm with the property when booking.",
+    "address": "7000 Hollywood Boulevard, Los Angeles, CA 90028",
+    "neighborhood": "Hollywood"
+  },
+  {
+    "id": "miami-1",
+    "name": "Kimpton Surfcomber Hotel",
+    "destinationSlug": "miami",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "beach"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 4100,
+    "priceFrom": 250,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/the-surfcomber-miami-south-beach-a-kimpton.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton Surfcomber welcomes pets of any size, weight or breed at no extra charge under the Kimpton brand policy. Welcome gift bag at check-in and social hours where dogs get pup cups. Art-deco beachfront hotel directly on South Beach with outdoor pool. Please confirm with the property when booking.",
+    "address": "1717 Collins Avenue, Miami Beach, FL 33139",
+    "neighborhood": "South Beach"
+  },
+  {
+    "id": "miami-2",
+    "name": "Kimpton EPIC Hotel",
+    "destinationSlug": "miami",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 2600,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/epic-a-kimpton.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton EPIC welcomes pets of any size at no extra charge under the Kimpton brand policy; dog beds and toys available on loan during the stay. 5-star high-rise on the Miami River in Downtown Miami with two rooftop pools, walking distance from Bayside Marketplace. Please confirm with the property when booking.",
+    "address": "270 Biscayne Boulevard Way, Miami, FL 33131",
+    "neighborhood": "Downtown Miami"
+  },
+  {
+    "id": "miami-3",
+    "name": "Loews Miami Beach Hotel",
+    "destinationSlug": "miami",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 5800,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/loews-miami-beach.html",
+    "petFee": 95,
+    "petPolicy": "Loews Miami Beach follows the Loews Loves Pets program: pets welcome (fee typically around USD 100 per stay) with specialty room-service menu, bedding and water bowls provided. Large beachfront resort on Collins Avenue in South Beach with outdoor pools and direct beach access. Please confirm size limits and current fee with the property when booking.",
+    "address": "1601 Collins Avenue, Miami Beach, FL 33139",
+    "neighborhood": "South Beach"
+  },
+  {
+    "id": "miami-4",
+    "name": "Fontainebleau Miami Beach",
+    "destinationSlug": "miami",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 9200,
+    "priceFrom": 380,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/fontainebleau-resort.html",
+    "petFee": 140,
+    "petPolicy": "Fontainebleau Miami Beach welcomes pets up to 50 lbs with a complimentary dog tag at check-in; pet fee typically around USD 150 per stay. On-site dog park, in-room pet movies and spacious pet-friendly accommodations. Iconic mid-century beachfront resort on Collins Avenue with multiple pools and direct beach access. Please confirm with the property when booking.",
+    "address": "4441 Collins Avenue, Miami Beach, FL 33140",
+    "neighborhood": "Mid-Beach"
+  },
+  {
+    "id": "miami-5",
+    "name": "Mondrian South Beach",
+    "destinationSlug": "miami",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 2200,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/us/mondrian-south-beach.html",
+    "petFee": 95,
+    "petPolicy": "Mondrian South Beach is listed on Booking.com and pet-friendly Miami Beach directories as pet-friendly; dogs typically accepted for a fee of approximately USD 100 per stay (confirm size with property). Chic Marcel Wanders-designed hotel on Biscayne Bay in West Avenue, with bayfront pool and views of the Miami skyline. Please confirm with the property when booking.",
+    "address": "1100 West Avenue, Miami Beach, FL 33139",
+    "neighborhood": "West Avenue"
   }
 ]

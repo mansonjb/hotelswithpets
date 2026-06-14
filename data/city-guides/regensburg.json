@@ -70,7 +70,7 @@
           "name": "Brauerei zum Hofbräuhaus Regensburg",
           "address": "Waaggässchen 1, 93047 Regensburg",
           "neighborhood": "Altstadt, near the Dom",
-          "photo": "/images/city-places/regensburg-restaurants-brauerei-hofbrauhaus.jpg",
+          "photo": "/images/city-places/regensburg-restaurants-brauerei-zum-hofbrauhaus-regensburg.jpg",
           "website": "https://www.hofbraeuhaus-regensburg.de/",
           "description": "Historic brewery and Wirtshaus in a 15th-century building two minutes from the cathedral. Vaulted stube indoors, small cobbled courtyard outside, full Bavarian menu and house Hofbräuhaus beer brewed on site.",
           "descriptionFr": "Brasserie et Wirtshaus historiques dans un bâtiment du XVe siècle à deux minutes de la cathédrale. Stube voûtée à l'intérieur, petite cour pavée à l'extérieur, carte bavaroise complète et bière maison Hofbräuhaus brassée sur place.",
@@ -152,7 +152,8 @@
           "q": "Os restaurantes de Ratisbona cobram extra por levar cão?",
           "a": "Não. Não há suplemento por levar um cão. As taças de água oferecem-se quase sempre a pedido, sem custo."
         }
-      ]
+      ],
+      "titlePt": "Restaurantes pet-friendly en Ratisbona, Wurstkuchl e cervecerías"
     },
     "parks": {
       "titleEn": "Best Dog Parks & Walks in Regensburg, Stadtpark & Donau Paths",
@@ -168,7 +169,7 @@
           "name": "Stadtpark Regensburg",
           "address": "Galgenbergstraße, 93053 Regensburg",
           "neighborhood": "South of the Altstadt",
-          "photo": "/images/city-places/regensburg-parks-stadtpark.jpg",
+          "photo": "/images/city-places/regensburg-parks-stadtpark-regensburg.jpg",
           "size": "20 ha",
           "leashRule": "Leash required on lawns and central paths",
           "leashRuleFr": "Laisse obligatoire sur les pelouses et allées centrales",
@@ -178,10 +179,30 @@
           "descriptionFr": "Le parc public principal de la ville, aménagé sur un ancien cimetière du XIXe siècle au sud de l'Altstadt. Platanes anciens, étangs, pelouses et allées ombragées. L'espace vert le plus proche du centre historique.",
           "descriptionEs": "El parque público principal de la ciudad, trazado sobre un antiguo cementerio del s. XIX al sur del Altstadt. Plátanos maduros, estanques, céspedes y senderos sombreados. El mayor espacio verde más cercano al centro histórico.",
           "descriptionPt": "O parque público principal da cidade, traçado sobre um antigo cemitério do séc. XIX a sul do Altstadt. Plátanos antigos, lagos, relvados e caminhos sombreados. O maior espaço verde mais próximo do centro histórico.",
-          "amenities": ["Shaded paths", "Benches", "Ponds", "Trash bins"],
-          "amenitiesFr": ["Allées ombragées", "Bancs", "Étangs", "Poubelles"],
-          "amenitiesEs": ["Senderos sombreados", "Bancos", "Estanques", "Papeleras"],
-          "amenitiesPt": ["Caminhos sombreados", "Bancos", "Lagos", "Caixotes"],
+          "amenities": [
+            "Shaded paths",
+            "Benches",
+            "Ponds",
+            "Trash bins"
+          ],
+          "amenitiesFr": [
+            "Allées ombragées",
+            "Bancs",
+            "Étangs",
+            "Poubelles"
+          ],
+          "amenitiesEs": [
+            "Senderos sombreados",
+            "Bancos",
+            "Estanques",
+            "Papeleras"
+          ],
+          "amenitiesPt": [
+            "Caminhos sombreados",
+            "Bancos",
+            "Lagos",
+            "Caixotes"
+          ],
           "tip": "Best early morning or after 18:00 in summer for shade and quiet. The east entrance is a 7-minute walk from the Dom.",
           "tipFr": "Idéal tôt le matin ou après 18h en été pour l'ombre et le calme. L'entrée est se trouve à 7 minutes à pied du Dom.",
           "tipEs": "Mejor a primera hora o después de las 18:00 en verano para sombra y calma. La entrada este queda a 7 minutos a pie del Dom.",
@@ -192,7 +213,7 @@
           "name": "Donau riverside path (Jahninsel & Grieser Spitz)",
           "address": "Jahninsel, 93059 Regensburg",
           "neighborhood": "Stadtamhof island",
-          "photo": "/images/city-places/regensburg-parks-jahninsel.jpg",
+          "photo": "/images/city-places/regensburg-parks-donau-riverside-path-jahninsel-grieser-spitz.jpg",
           "size": "3 km riverside loop",
           "leashRule": "Leash required on paths, off-leash tolerated on the western tip lawns",
           "leashRuleFr": "Laisse obligatoire sur les chemins, sans laisse toléré sur les pelouses de la pointe ouest",
@@ -202,10 +223,30 @@
           "descriptionFr": "Longue île étroite sur le Danube entre l'Altstadt et Stadtamhof. Allées de gravier plates, grandes pelouses, arbres anciens et vues dégagées sur la cathédrale. La promenade canine préférée des locaux l'après-midi.",
           "descriptionEs": "Larga isla estrecha en el Danubio entre el Altstadt y Stadtamhof. Senderos llanos de grava, grandes céspedes, árboles maduros y vistas despejadas a la catedral. El paseo canino favorito de los locales por la tarde.",
           "descriptionPt": "Longa ilha estreita no Danúbio entre o Altstadt e Stadtamhof. Caminhos planos de gravilha, grandes relvados, árvores antigas e vistas desimpedidas para a catedral. O passeio canino preferido dos locais à tarde.",
-          "amenities": ["Riverside benches", "Open lawns", "Trees", "River views"],
-          "amenitiesFr": ["Bancs côté fleuve", "Pelouses ouvertes", "Arbres", "Vues sur le fleuve"],
-          "amenitiesEs": ["Bancos junto al río", "Céspedes abiertos", "Árboles", "Vistas al río"],
-          "amenitiesPt": ["Bancos junto ao rio", "Relvados abertos", "Árvores", "Vistas para o rio"],
+          "amenities": [
+            "Riverside benches",
+            "Open lawns",
+            "Trees",
+            "River views"
+          ],
+          "amenitiesFr": [
+            "Bancs côté fleuve",
+            "Pelouses ouvertes",
+            "Arbres",
+            "Vues sur le fleuve"
+          ],
+          "amenitiesEs": [
+            "Bancos junto al río",
+            "Céspedes abiertos",
+            "Árboles",
+            "Vistas al río"
+          ],
+          "amenitiesPt": [
+            "Bancos junto ao rio",
+            "Relvados abertos",
+            "Árvores",
+            "Vistas para o rio"
+          ],
           "tip": "Cross the Eiserne Brücke pedestrian bridge from the Altstadt. The sunset light on the cathedral spires from the western tip is the city's best free photo.",
           "tipFr": "Traversez l'Eiserne Brücke piétonne depuis l'Altstadt. La lumière du couchant sur les flèches de la cathédrale depuis la pointe ouest est la meilleure photo gratuite de la ville.",
           "tipEs": "Cruza el puente peatonal Eiserne Brücke desde el Altstadt. La luz del atardecer sobre las agujas de la catedral desde la punta oeste es la mejor foto gratis de la ciudad.",
@@ -216,7 +257,7 @@
           "name": "Dörnbergpark",
           "address": "Riesengebirgstraße, 93047 Regensburg",
           "neighborhood": "West of Altstadt",
-          "photo": "/images/city-places/regensburg-parks-doernbergpark.jpg",
+          "photo": "/images/city-places/regensburg-parks-dornbergpark.jpg",
           "size": "5 ha",
           "leashRule": "Leash required; small marked off-leash meadow",
           "leashRuleFr": "Laisse obligatoire ; petite prairie sans laisse signalée",
@@ -226,10 +267,30 @@
           "descriptionFr": "Parc paysager anglais créé en 1804 autour de la villa néo-gothique Dörnberg. Vieux platanes, pelouses formelles et une Hundeauslaufzone clôturée sur le bord sud. Très calme, apprécié du quartier.",
           "descriptionEs": "Parque paisajístico inglés creado en 1804 en torno a la villa neogótica Dörnberg. Plátanos antiguos, céspedes formales y una Hundeauslaufzone vallada en el borde sur. Muy tranquilo, apreciado por el barrio.",
           "descriptionPt": "Parque paisagístico inglês criado em 1804 em torno da vila neogótica Dörnberg. Plátanos antigos, relvados formais e uma Hundeauslaufzone vedada no extremo sul. Muito calmo, apreciado pelo bairro.",
-          "amenities": ["Fenced off-leash meadow", "Benches", "Mature trees", "Bins"],
-          "amenitiesFr": ["Prairie clôturée sans laisse", "Bancs", "Arbres anciens", "Poubelles"],
-          "amenitiesEs": ["Pradera vallada sin correa", "Bancos", "Árboles maduros", "Papeleras"],
-          "amenitiesPt": ["Prado vedado sem trela", "Bancos", "Árvores antigas", "Caixotes"],
+          "amenities": [
+            "Fenced off-leash meadow",
+            "Benches",
+            "Mature trees",
+            "Bins"
+          ],
+          "amenitiesFr": [
+            "Prairie clôturée sans laisse",
+            "Bancs",
+            "Arbres anciens",
+            "Poubelles"
+          ],
+          "amenitiesEs": [
+            "Pradera vallada sin correa",
+            "Bancos",
+            "Árboles maduros",
+            "Papeleras"
+          ],
+          "amenitiesPt": [
+            "Prado vedado sem trela",
+            "Bancos",
+            "Árvores antigas",
+            "Caixotes"
+          ],
           "tip": "10 minutes walk west of the Altstadt. The fenced Hundeauslaufzone fills with locals between 17:00 and 19:00 on weekdays.",
           "tipFr": "10 minutes à pied à l'ouest de l'Altstadt. La Hundeauslaufzone clôturée se remplit de locaux entre 17h et 19h en semaine.",
           "tipEs": "10 minutos a pie al oeste del Altstadt. La Hundeauslaufzone vallada se llena de locales entre las 17:00 y las 19:00 entre semana.",
@@ -330,7 +391,7 @@
         {
           "name": "RVV Bus & S-Bahn",
           "type": "City transit",
-          "photo": "/images/city-places/regensburg-transport-rvv-bus.jpg",
+          "photo": "/images/city-places/regensburg-transport-rvv-bus-s-bahn.jpg",
           "website": "https://www.rvv.de/",
           "description": "Regensburger Verkehrsverbund operates the city and regional buses, plus the S-Bahn lines connecting Regensburg to Neumarkt, Schwandorf and Landshut. No tram or metro; buses cover the city in 15-minute headways.",
           "descriptionFr": "Le Regensburger Verkehrsverbund exploite les bus urbains et régionaux, ainsi que les S-Bahn vers Neumarkt, Schwandorf et Landshut. Pas de tram ni de métro ; les bus passent toutes les 15 minutes en ville.",
@@ -349,7 +410,7 @@
         {
           "name": "Munich Airport (MUC) Express",
           "type": "Airport bus",
-          "photo": "/images/city-places/regensburg-transport-airport-express.jpg",
+          "photo": "/images/city-places/regensburg-transport-munich-airport-muc-express.jpg",
           "website": "https://www.airportliner.de/",
           "description": "Direct shuttle van service from Regensburg city centre to Munich Airport in about 90 minutes. The closest large international hub, with global connections that small Nuremberg airport cannot match.",
           "descriptionFr": "Service direct de van entre le centre de Ratisbonne et l'aéroport de Munich en environ 90 minutes. Le grand hub international le plus proche, avec des correspondances mondiales que le petit aéroport de Nuremberg ne propose pas.",
@@ -440,7 +501,7 @@
         {
           "name": "Hundebadeplatz Winzer (Donau)",
           "address": "Winzerer Höhen, 93049 Regensburg",
-          "photo": "/images/city-places/regensburg-beaches-winzer.jpg",
+          "photo": "/images/city-places/regensburg-beaches-hundebadeplatz-winzer-donau.jpg",
           "leashRule": "Off-leash inside the marked dog swimming zone",
           "leashRuleFr": "Sans laisse dans la zone de baignade canine signalée",
           "leashRuleEs": "Sin correa dentro de la zona de baño canino señalizada",
@@ -449,10 +510,30 @@
           "descriptionFr": "La Hundebadeplatz officielle de la ville sur la rive sud du Danube dans le quartier de Winzer. Accès gravier et herbe, eau peu profonde, périmètre signalé. Le spot de baignade canine le plus central de Ratisbonne.",
           "descriptionEs": "La Hundebadeplatz oficial de la ciudad en la orilla sur del Danubio en el barrio de Winzer. Acceso de grava y hierba, agua poco profunda, perímetro señalizado. El sitio de baño canino más céntrico de Ratisbona.",
           "descriptionPt": "A Hundebadeplatz oficial da cidade na margem sul do Danúbio no bairro de Winzer. Acesso de gravilha e relva, água pouco profunda, perímetro sinalizado. O sítio de banho canino mais central de Ratisbona.",
-          "amenities": ["Designated dog zone", "Shallow water", "Trash bins", "Grass entry"],
-          "amenitiesFr": ["Zone canine désignée", "Eau peu profonde", "Poubelles", "Accès herbe"],
-          "amenitiesEs": ["Zona canina designada", "Agua poco profunda", "Papeleras", "Entrada con hierba"],
-          "amenitiesPt": ["Zona canina designada", "Água pouco profunda", "Caixotes", "Entrada com relva"],
+          "amenities": [
+            "Designated dog zone",
+            "Shallow water",
+            "Trash bins",
+            "Grass entry"
+          ],
+          "amenitiesFr": [
+            "Zone canine désignée",
+            "Eau peu profonde",
+            "Poubelles",
+            "Accès herbe"
+          ],
+          "amenitiesEs": [
+            "Zona canina designada",
+            "Agua poco profunda",
+            "Papeleras",
+            "Entrada con hierba"
+          ],
+          "amenitiesPt": [
+            "Zona canina designada",
+            "Água pouco profunda",
+            "Caixotes",
+            "Entrada com relva"
+          ],
           "tip": "Best in late morning. Beware the Danube's current after spring melt (April to May); shallow water area is safest for nervous swimmers.",
           "tipFr": "Idéal en fin de matinée. Méfiez-vous du courant du Danube après la fonte des neiges (avril à mai) ; la zone peu profonde est la plus sûre pour les chiens timides.",
           "tipEs": "Mejor a media mañana. Cuidado con la corriente del Danubio tras el deshielo (abril a mayo); la zona poco profunda es la más segura para nadadores tímidos.",
@@ -471,10 +552,30 @@
           "descriptionFr": "Ancienne gravière transformée en lac de baignade propre, à 15 minutes au nord de Ratisbonne en S-Bahn. Une Hundestrand signalée sur la rive nord offre environ 200 m d'herbe et d'eau peu profonde pour les chiens en été.",
           "descriptionEs": "Antigua gravera transformada en lago de baño limpio, a 15 minutos al norte de Ratisbona en S-Bahn. Una Hundestrand señalizada en la orilla norte ofrece unos 200 m de hierba y agua poco profunda para perros en verano.",
           "descriptionPt": "Antiga saibreira transformada em lago de banho limpo, a 15 minutos a norte de Ratisbona em S-Bahn. Uma Hundestrand sinalizada na margem norte oferece cerca de 200 m de relva e água pouco profunda para cães no verão.",
-          "amenities": ["Hundestrand zone", "Grass banks", "Parking", "Café in season"],
-          "amenitiesFr": ["Zone Hundestrand", "Berges herbeuses", "Parking", "Café en saison"],
-          "amenitiesEs": ["Zona Hundestrand", "Orillas con hierba", "Aparcamiento", "Café en temporada"],
-          "amenitiesPt": ["Zona Hundestrand", "Margens com relva", "Estacionamento", "Café em época"],
+          "amenities": [
+            "Hundestrand zone",
+            "Grass banks",
+            "Parking",
+            "Café in season"
+          ],
+          "amenitiesFr": [
+            "Zone Hundestrand",
+            "Berges herbeuses",
+            "Parking",
+            "Café en saison"
+          ],
+          "amenitiesEs": [
+            "Zona Hundestrand",
+            "Orillas con hierba",
+            "Aparcamiento",
+            "Café en temporada"
+          ],
+          "amenitiesPt": [
+            "Zona Hundestrand",
+            "Margens com relva",
+            "Estacionamento",
+            "Café em época"
+          ],
           "tip": "Take the S1 to Regenstauf then a 15-minute walk. The lake heats to 22 to 24 degrees in July and August.",
           "tipFr": "Prenez la S1 jusqu'à Regenstauf puis 15 minutes à pied. Le lac atteint 22 à 24 degrés en juillet et août.",
           "tipEs": "Toma la S1 hasta Regenstauf y 15 minutos a pie. El lago alcanza 22 a 24 grados en julio y agosto.",
@@ -484,7 +585,7 @@
         {
           "name": "Großer Brombachsee Hundestrand",
           "address": "Brombachsee, 91785 Pleinfeld",
-          "photo": "/images/city-places/regensburg-beaches-brombachsee.jpg",
+          "photo": "/images/city-places/regensburg-beaches-gro-er-brombachsee-hundestrand.jpg",
           "leashRule": "Off-leash inside marked Hundestrand zones",
           "leashRuleFr": "Sans laisse dans les zones Hundestrand signalées",
           "leashRuleEs": "Sin correa en las zonas Hundestrand señalizadas",
@@ -493,10 +594,30 @@
           "descriptionFr": "Le plus grand lac des Lacs francs, à environ 1h15 en voiture à l'ouest de Ratisbonne. Trois Hundestrand signalées sur la rive sud offrent 200 à 400 m de sable pour nager et courir, le top des plages canines d'été en Bavière.",
           "descriptionEs": "El mayor lago de la región lacustre franca, a unas 1h15 en coche al oeste de Ratisbona. Tres Hundestrand señalizadas en la orilla sur ofrecen 200 a 400 m de arena para nadar y correr, la mejor playa canina de verano en Baviera.",
           "descriptionPt": "O maior lago da região lacustre franca, a cerca de 1h15 de carro a oeste de Ratisbona. Três Hundestrand sinalizadas na margem sul oferecem 200 a 400 m de areia para nadar e correr, a melhor praia canina de verão na Baviera.",
-          "amenities": ["Three Hundestrand zones", "Sand beaches", "Parking", "Café"],
-          "amenitiesFr": ["Trois zones Hundestrand", "Plages de sable", "Parking", "Café"],
-          "amenitiesEs": ["Tres zonas Hundestrand", "Playas de arena", "Aparcamiento", "Café"],
-          "amenitiesPt": ["Três zonas Hundestrand", "Praias de areia", "Estacionamento", "Café"],
+          "amenities": [
+            "Three Hundestrand zones",
+            "Sand beaches",
+            "Parking",
+            "Café"
+          ],
+          "amenitiesFr": [
+            "Trois zones Hundestrand",
+            "Plages de sable",
+            "Parking",
+            "Café"
+          ],
+          "amenitiesEs": [
+            "Tres zonas Hundestrand",
+            "Playas de arena",
+            "Aparcamiento",
+            "Café"
+          ],
+          "amenitiesPt": [
+            "Três zonas Hundestrand",
+            "Praias de areia",
+            "Estacionamento",
+            "Café"
+          ],
           "tip": "Worth a full day trip in July or August. The southern Hundestrand at Allmannsdorf is the easiest, free parking 200 m away.",
           "tipFr": "Vaut une journée complète en juillet ou août. La Hundestrand sud d'Allmannsdorf est la plus facile, parking gratuit à 200 m.",
           "tipEs": "Merece una excursión de día completo en julio o agosto. La Hundestrand sur de Allmannsdorf es la más fácil, aparcamiento gratis a 200 m.",
@@ -576,61 +697,91 @@
       "introPt": "Ratisbona conta com boa cobertura veterinária, com um hospital de urgência 24h no Gewerbepark e várias consultas diurnas. Os padrões são altos, a medicina veterinária alemã figura entre as melhores da Europa.",
       "places": [
         {
-          "name": "Tierklinik Regensburg (24h)",
-          "address": "Im Gewerbepark D 90, 93059 Regensburg",
-          "photo": "/images/city-places/regensburg-vets-tierklinik-regensburg.jpg",
-          "phone": "+49 941 4646464",
-          "emergency24h": true,
-          "languages": ["German", "English"],
+          "name": "Die Tierklinik Regensburg (Fachklinik fur Kleintiere)",
+          "address": "Merianweg 3, 93051 Regensburg",
+          "neighborhood": "Dechbetten / Konigswiesen (west)",
+          "photo": "/images/city-places/regensburg-vets-die-tierklinik-regensburg-fachklinik-fur-kleintiere.jpg",
           "website": "https://www.tierklinik-regensburg.de/",
-          "description": "The reference 24/7 emergency hospital for eastern Bavaria, in the Gewerbepark north of the centre. Surgery, ICU, CT, MRI, ultrasound, endoscopy. Owners can call ahead for triage.",
-          "descriptionFr": "L'hôpital d'urgences 24h/24 de référence pour l'est de la Bavière, dans le Gewerbepark au nord du centre. Chirurgie, USI, scanner, IRM, écho, endoscopie. Les propriétaires peuvent appeler avant pour le triage.",
-          "descriptionEs": "Hospital de urgencias 24h de referencia para Baviera oriental, en el Gewerbepark al norte del centro. Cirugía, UCI, TAC, RMN, ecografía, endoscopia. Los dueños pueden llamar antes para el triage.",
-          "descriptionPt": "Hospital de urgência 24h de referência para a Baviera oriental, no Gewerbepark a norte do centro. Cirurgia, UCI, TAC, RMN, ecografia, endoscopia. Os donos podem ligar antes para a triagem.",
+          "phone": "+49 941 946 50 50",
+          "description": "A specialist small-animal clinic on Merianweg west of the centre, founded by Dr Uwe Romberger, with a round-the-clock emergency service alongside daytime consultations. Surgery, imaging and in-patient care are available on site. Phone ahead so the duty vet can triage before you arrive.",
+          "descriptionFr": "Une clinique specialisee pour petits animaux sur le Merianweg a l'ouest du centre, fondee par le Dr Uwe Romberger, avec un service d'urgence 24h/24 en plus des consultations de jour. Chirurgie, imagerie et hospitalisation sur place. Appelez avant pour que le veterinaire de garde fasse le triage.",
+          "descriptionEs": "Una clinica especializada en pequenos animales en Merianweg, al oeste del centro, fundada por el Dr Uwe Romberger, con servicio de urgencias 24 horas ademas de consultas de dia. Cirugia, diagnostico por imagen y hospitalizacion en el sitio. Llama antes para que el veterinario de guardia haga el triaje.",
+          "descriptionPt": "Uma clinica especializada em pequenos animais no Merianweg, a oeste do centro, fundada pelo Dr Uwe Romberger, com servico de urgencias 24 horas alem de consultas diurnas. Cirurgia, imagiologia e internamento no local. Liga antes para que o veterinario de servico faca a triagem.",
+          "specialties": "Emergency, surgery, internal medicine, imaging",
+          "specialtiesFr": "Urgences, chirurgie, medecine interne, imagerie",
+          "specialtiesEs": "Urgencias, cirugia, medicina interna, diagnostico por imagen",
+          "specialtiesPt": "Urgencias, cirurgia, medicina interna, imagiologia",
+          "openingHours": "24/7 emergency; appointments Mon-Sun 09:00-19:00",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "languagesFr": "Allemand, anglais",
+          "languagesEs": "Aleman, ingles",
+          "languagesPt": "Alemao, ingles",
+          "tip": "The 24h emergency line is +49 941 946 50 50; call before bringing your pet so they can prepare.",
+          "tipFr": "La ligne d'urgence 24h est le +49 941 946 50 50 ; appelez avant d'amener votre animal pour qu'ils se preparent.",
+          "tipEs": "La linea de urgencias 24h es +49 941 946 50 50; llama antes de llevar a tu mascota para que se preparen.",
+          "tipPt": "A linha de urgencias 24h e +49 941 946 50 50; liga antes de levar o teu animal para que se preparem.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Regensburg+Merianweg+3"
+        },
+        {
+          "name": "AniCura Tierklinik Regensburg (Haslbach)",
+          "address": "Hofer Strasse 11, 93057 Regensburg",
+          "neighborhood": "Haslbach (north-east)",
+          "photo": "/images/city-places/regensburg-vets-anicura-tierklinik-regensburg-haslbach.jpg",
+          "website": "https://www.anicura.de/standorte/regensburg/",
+          "phone": "+49 941 4629690",
+          "description": "Part of the AniCura group, this clinic in Haslbach north-east of the centre runs a 24-hour emergency service with surgery and intensive care. During emergency hours the team asks you to come directly rather than relying on the phone. A solid second option if Die Tierklinik is at capacity.",
+          "descriptionFr": "Membre du groupe AniCura, cette clinique a Haslbach au nord-est du centre assure un service d'urgence 24h/24 avec chirurgie et soins intensifs. Pendant les heures d'urgence, l'equipe demande de venir directement plutot que d'appeler. Une bonne deuxieme option si Die Tierklinik est complete.",
+          "descriptionEs": "Parte del grupo AniCura, esta clinica en Haslbach al noreste del centro ofrece un servicio de urgencias 24 horas con cirugia y cuidados intensivos. Durante las horas de urgencia el equipo pide acudir directamente en vez de llamar. Una buena segunda opcion si Die Tierklinik esta al completo.",
+          "descriptionPt": "Parte do grupo AniCura, esta clinica em Haslbach a nordeste do centro oferece um servico de urgencias 24 horas com cirurgia e cuidados intensivos. Durante as horas de urgencia a equipa pede para ir diretamente em vez de ligar. Uma boa segunda opcao se a Die Tierklinik estiver lotada.",
+          "specialties": "Emergency, surgery, intensive care, diagnostics",
+          "specialtiesFr": "Urgences, chirurgie, soins intensifs, diagnostic",
+          "specialtiesEs": "Urgencias, cirugia, cuidados intensivos, diagnostico",
+          "specialtiesPt": "Urgencias, cirurgia, cuidados intensivos, diagnostico",
           "openingHours": "24/7 emergency",
-          "tip": "Call ahead, English-speaking staff available. They will prep the right team for your case before you arrive.",
-          "tipFr": "Appelez avant, le personnel parle anglais. Ils prépareront l'équipe adaptée à votre cas avant votre arrivée.",
-          "tipEs": "Llama antes, hay personal que habla inglés. Prepararán el equipo adecuado antes de tu llegada.",
-          "tipPt": "Ligue antes, há pessoal que fala inglês. Vão preparar a equipa adequada antes da sua chegada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Regensburg"
+          "languages": [
+            "German",
+            "English"
+          ],
+          "languagesFr": "Allemand, anglais",
+          "languagesEs": "Aleman, ingles",
+          "languagesPt": "Alemao, ingles",
+          "tip": "During night emergency hours the phone may go unanswered; the clinic asks you to come directly.",
+          "tipFr": "Pendant les urgences de nuit, le telephone peut rester sans reponse ; la clinique demande de venir directement.",
+          "tipEs": "Durante las urgencias nocturnas el telefono puede no responder; la clinica pide acudir directamente.",
+          "tipPt": "Durante as urgencias noturnas o telefone pode nao atender; a clinica pede para ir diretamente.",
+          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Regensburg+Hofer+Strasse+11"
         },
         {
-          "name": "Anicura Tierärztliche Praxis Regensburg",
-          "address": "Friedenstraße 19, 93053 Regensburg",
-          "photo": "/images/city-places/regensburg-vets-anicura.jpg",
-          "phone": "+49 941 798080",
-          "emergency24h": false,
-          "languages": ["German", "English"],
-          "website": "https://www.anicura.de/",
-          "description": "Daytime small-animal practice south of the Altstadt, part of the European Anicura network. Vaccinations, internal medicine, dermatology, soft-tissue surgery. Useful for non-urgent tourist needs.",
-          "descriptionFr": "Cabinet petits animaux en journée au sud de l'Altstadt, du réseau européen Anicura. Vaccins, médecine interne, dermatologie, chirurgie des tissus mous. Pratique pour les besoins non urgents des touristes.",
-          "descriptionEs": "Consulta de pequeños animales diurna al sur del Altstadt, parte de la red europea Anicura. Vacunas, medicina interna, dermatología, cirugía de tejidos blandos. Útil para necesidades turísticas no urgentes.",
-          "descriptionPt": "Consulta de pequenos animais diurna a sul do Altstadt, da rede europeia Anicura. Vacinas, medicina interna, dermatologia, cirurgia de tecidos moles. Útil para necessidades turísticas não urgentes.",
-          "openingHours": "Mon to Fri 08:00 to 18:00, Sat 09:00 to 12:00",
-          "tip": "Easy walk-in or short-notice appointment for pet passport sign-offs and routine vaccinations.",
-          "tipFr": "Sans rdv ou rdv court possibles pour signature du passeport européen et vaccinations courantes.",
-          "tipEs": "Sin cita o cita rápida posibles para firmas de pasaporte europeo y vacunaciones rutinarias.",
-          "tipPt": "Sem marcação ou marcação rápida possíveis para assinatura de passaporte europeu e vacinações de rotina.",
-          "googleMapsUrl": "https://maps.google.com/?q=Anicura+Regensburg"
-        },
-        {
-          "name": "Tierarztpraxis Altstadt Regensburg",
-          "address": "Maximilianstraße 26, 93047 Regensburg",
-          "photo": "/images/city-places/regensburg-vets-altstadt-praxis.jpg",
-          "phone": "+49 941 561234",
-          "emergency24h": false,
-          "languages": ["German", "English"],
-          "website": "",
-          "description": "Centrally located daytime practice 5 minutes walk from the Hauptbahnhof and the south edge of the Altstadt. Vaccinations, microchipping, routine care, pre-travel checks. The convenient option for tourists.",
-          "descriptionFr": "Cabinet de jour central à 5 minutes à pied de la Hauptbahnhof et du sud de l'Altstadt. Vaccins, puçage, soins courants, contrôles avant voyage. L'option pratique pour les touristes.",
-          "descriptionEs": "Consulta diurna céntrica a 5 minutos a pie de la Hauptbahnhof y del sur del Altstadt. Vacunas, microchip, atención rutinaria, revisiones previas al viaje. La opción cómoda para turistas.",
-          "descriptionPt": "Consulta diurna central a 5 minutos a pé da Hauptbahnhof e do sul do Altstadt. Vacinas, microchip, cuidados de rotina, revisões prévias à viagem. A opção prática para turistas.",
-          "openingHours": "Mon to Fri 09:00 to 13:00, 15:00 to 19:00; Sat 09:00 to 12:00",
-          "tip": "Walk-ins accepted for vaccinations and routine matters; book ahead for full check-ups.",
-          "tipFr": "Sans rdv accepté pour vaccinations et soins courants ; rdv pour bilan complet.",
-          "tipEs": "Aceptan sin cita para vacunaciones y atenciones rutinarias; con cita para revisión completa.",
-          "tipPt": "Aceitam sem marcação para vacinações e cuidados de rotina; com marcação para check-up completo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierarztpraxis+Maximilianstrasse+Regensburg"
+          "name": "Kleintierpraxis Dr. Angelika Ranzinger",
+          "address": "Weissenburgstrasse 15, 93055 Regensburg",
+          "neighborhood": "Ostenviertel (east)",
+          "photo": "/images/city-places/regensburg-vets-kleintierpraxis-dr-angelika-ranzinger.jpg",
+          "website": "https://www.tierarzt-onlineverzeichnis.de/bayern/regensburg",
+          "phone": "+49 941 791500",
+          "description": "A well-regarded daytime small-animal practice in the Ostenviertel east of the Altstadt, handy for routine care, vaccinations and EU travel paperwork during your stay. Not a 24-hour clinic, so use Die Tierklinik or AniCura Haslbach for night emergencies. Booking by phone is advised.",
+          "descriptionFr": "Un cabinet de jour pour petits animaux repute dans l'Ostenviertel a l'est de la vieille ville, pratique pour les soins courants, vaccins et documents de voyage UE pendant le sejour. Pas une clinique 24h/24, donc utilisez Die Tierklinik ou AniCura Haslbach pour les urgences de nuit. Rendez-vous par telephone conseille.",
+          "descriptionEs": "Una consulta de dia para pequenos animales bien valorada en el Ostenviertel al este del casco antiguo, practica para cuidados rutinarios, vacunas y documentacion de viaje UE durante la estancia. No es una clinica 24 horas, asi que usa Die Tierklinik o AniCura Haslbach para urgencias nocturnas. Se aconseja reservar por telefono.",
+          "descriptionPt": "Um consultorio diurno para pequenos animais bem considerado no Ostenviertel a leste do centro historico, pratico para cuidados de rotina, vacinas e documentacao de viagem UE durante a estadia. Nao e uma clinica 24 horas, por isso usa a Die Tierklinik ou a AniCura Haslbach para urgencias noturnas. Aconselha-se marcar por telefone.",
+          "specialties": "Routine care, vaccinations, travel certificates",
+          "specialtiesFr": "Soins courants, vaccinations, certificats de voyage",
+          "specialtiesEs": "Cuidados rutinarios, vacunas, certificados de viaje",
+          "specialtiesPt": "Cuidados de rotina, vacinas, certificados de viagem",
+          "openingHours": "Daytime; call for hours",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "languagesFr": "Allemand, anglais",
+          "languagesEs": "Aleman, ingles",
+          "languagesPt": "Alemao, ingles",
+          "tip": "For an EU pet travel health check, call a day or two ahead.",
+          "tipFr": "Pour un controle sante voyage UE, appelez un ou deux jours avant.",
+          "tipEs": "Para un control de salud de viaje UE, llama uno o dos dias antes.",
+          "tipPt": "Para um controlo de saude de viagem UE, liga um ou dois dias antes.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kleintierpraxis+Ranzinger+Weissenburgstrasse+15+Regensburg"
         }
       ],
       "tipsEn": [
@@ -787,7 +938,7 @@
           "name": "Steinerne Brücke",
           "address": "Steinerne Brücke, 93059 Regensburg",
           "neighborhood": "Altstadt to Stadtamhof",
-          "photo": "/images/city-places/regensburg-attractions-steinerne-bruecke.jpg",
+          "photo": "/images/city-places/regensburg-attractions-steinerne-brucke.jpg",
           "website": "",
           "description": "The 12th-century stone bridge over the Danube, 308 m long and the signature monument of Regensburg. Fully pedestrian since 2008, the open span links the Altstadt to Stadtamhof with sweeping views of the cathedral.",
           "descriptionFr": "Le pont de pierre du XIIe siècle sur le Danube, 308 m de long, monument emblématique de Ratisbonne. Entièrement piétonnier depuis 2008, l'ouvrage relie l'Altstadt à Stadtamhof avec une vue panoramique sur la cathédrale.",
@@ -808,7 +959,7 @@
           "name": "Domplatz & Regensburg Cathedral exterior",
           "address": "Domplatz 1, 93047 Regensburg",
           "neighborhood": "Altstadt centre",
-          "photo": "/images/city-places/regensburg-attractions-domplatz.jpg",
+          "photo": "/images/city-places/regensburg-attractions-domplatz-regensburg-cathedral-exterior.jpg",
           "website": "https://www.bistum-regensburg.de/",
           "description": "The Gothic cathedral of St Peter (begun 1273), the masterpiece of Bavarian Gothic. Interior is closed to dogs (assistance dogs only), but the Domplatz square and the surrounding lanes are open and dog-friendly day and night.",
           "descriptionFr": "La cathédrale gothique Saint-Pierre (commencée en 1273), chef-d'œuvre du gothique bavarois. L'intérieur est interdit aux chiens (sauf chiens d'assistance), mais la Domplatz et les ruelles autour sont ouvertes et dog-friendly jour et nuit.",
@@ -829,7 +980,7 @@
           "name": "Walhalla memorial terraces",
           "address": "Walhallastraße 48, 93093 Donaustauf",
           "neighborhood": "Donaustauf, 10 km east",
-          "photo": "/images/city-places/regensburg-attractions-walhalla.jpg",
+          "photo": "/images/city-places/regensburg-attractions-walhalla-memorial-terraces.jpg",
           "website": "https://www.walhalla-regensburg.de/",
           "description": "King Ludwig I's neoclassical Greek-temple memorial above the Danube, opened 1842. The interior is closed to dogs, but the panoramic terrace overlooking the Danube valley is open to leashed dogs and is the visit highlight.",
           "descriptionFr": "Mémorial néoclassique de type temple grec voulu par Louis Ier de Bavière, ouvert en 1842, au-dessus du Danube. L'intérieur est interdit aux chiens, mais la terrasse panoramique sur la vallée du Danube est ouverte aux chiens en laisse et constitue le point fort de la visite.",

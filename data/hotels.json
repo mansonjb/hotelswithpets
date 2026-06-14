@@ -36092,5 +36092,130 @@
     ],
     "slug": "casal-s-romao-guimaraes",
     "petPolicyPt": "Caes ficam gratis mediante pedido. Casa rural com piscina exterior e jardins. Ideal para passeios sem trela mesmo nos arredores de Guimaraes."
+  },
+  {
+    "id": "tossa-de-mar-1",
+    "name": "Hotel Corisco",
+    "destinationSlug": "tossa-de-mar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.2,
+    "reviewCount": 850,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/corisco.html",
+    "petFee": 5,
+    "petPolicy": "Pets allowed for EUR 5 per pet per day. Family-run hotel close to Platja Gran. Dogs and cats accepted on request.",
+    "address": "Carrer Pou de la Vila, 8, 17320 Tossa de Mar",
+    "neighborhood": "Old town, 5 min from Platja Gran",
+    "slug": "hotel-corisco-tossa-de-mar",
+    "highlights": [
+      "5-min walk to Platja Gran beach",
+      "Family-run pet welcoming staff",
+      "Low pet fee EUR 5 per day"
+    ]
+  },
+  {
+    "id": "tossa-de-mar-2",
+    "name": "Hotel GHT Neptuno-Tossa & Venus SPA",
+    "destinationSlug": "tossa-de-mar",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 2100,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hotel-neptuno.html",
+    "petFee": 10,
+    "petPolicy": "Dogs only (cats not accepted), max 10 kg, for EUR 10 per pet per night. Hotel provides bed, feeder-drinker and welcome gift for pet when booked direct.",
+    "address": "Carrer La Guardia, 13, 17320 Tossa de Mar",
+    "neighborhood": "Centre, 300 m to Platja Gran",
+    "slug": "hotel-ght-neptuno-tossa-venus-spa",
+    "highlights": [
+      "Venus SPA on site",
+      "Welcome pack with bed and bowls",
+      "300 m to Platja Gran"
+    ]
+  },
+  {
+    "id": "tossa-de-mar-3",
+    "name": "RVHotels Vila de Tossa",
+    "destinationSlug": "tossa-de-mar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1450,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/vila-de-tossa.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed in selected rooms for EUR 15 per pet per night. Request pet-friendly room at booking. Dogs and cats accepted.",
+    "address": "Avinguda Costa Brava, 25, 17320 Tossa de Mar",
+    "neighborhood": "400 m to Platja Gran",
+    "slug": "rvhotels-vila-de-tossa",
+    "highlights": [
+      "400 m to Tossa de Mar beach",
+      "Private balcony rooms",
+      "Air-conditioned with free WiFi"
+    ]
+  },
+  {
+    "id": "tossa-de-mar-4",
+    "name": "Apartments Vila de Tossa",
+    "destinationSlug": "tossa-de-mar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 920,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/apartamentos-vila-de-tossa.html",
+    "petFee": 20,
+    "petPolicy": "Pets of any size allowed for EUR 20 per pet per night. Self-catering apartments 2 min walk from beach and old town, 5 min from Vila Vella.",
+    "address": "Carrer Sant Telm, 7, 17320 Tossa de Mar",
+    "neighborhood": "Old town, 2 min to beach and Vila Vella",
+    "slug": "apartments-vila-de-tossa",
+    "highlights": [
+      "Self-catering apartments",
+      "2 min walk to beach and old town",
+      "Pets of any size welcome"
+    ]
+  },
+  {
+    "id": "tossa-de-mar-5",
+    "name": "Hotel Tonet",
+    "destinationSlug": "tossa-de-mar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.0,
+    "reviewCount": 620,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/tonet.html",
+    "petFee": 8,
+    "petPolicy": "Pets welcome for EUR 8 per pet per night. Family-run hotel just off the beach with simple rooms and private bathroom. Dogs and cats accepted.",
+    "address": "Placa de la Esglesia, 2, 17320 Tossa de Mar",
+    "neighborhood": "Placa d Espanya, beside the Esglesia de Sant Vicenc",
+    "slug": "hotel-tonet",
+    "highlights": [
+      "Family-run hotel by the beach",
+      "Placa d Espanya central location",
+      "Low pet fee EUR 8 per night"
+    ]
   }
 ]

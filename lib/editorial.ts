@@ -1162,6 +1162,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Mirador del Valle viewpoint with the iconic skyline panorama, the Senda Ecológica circular path along the Tagus, and the Puente de San Martín medieval bridge`,
       area: `the Casco Histórico around Plaza de Zocodover, the Judería with the El Greco Museum, and La Vega across the Puente de San Martín`,
     },
+    'tossa-de-mar': {
+      personality: `a 5,700-resident Costa Brava sud beach town wrapped around the 12th-century Vila Vella, the only fortified medieval centre that survives on the entire Catalan coast, with four watchtowers, full battlemented ramparts and the Gothic ruins of the Sant Vicenç castle church inside, plus the bronze Ava Gardner statue commemorating the 1951 filming of Pandora and the Flying Dutchman on the rocks above Platja Gran`,
+      highlight: `the 12th-century Vila Vella ramparts and four watchtowers (Joanàs, Hores, Mare de Déu, Codolar), the 9 km Camí de Ronda GR-92 coastal path south past Cala Bona, Cala Pola, Cala Llevadó and Cala Giverola to Lloret de Mar, and the 1917 Far de Tossa lighthouse at the easternmost tip of the headland`,
+      area: `the walled Vila Vella headland above Platja Gran, the Passeig del Mar and Plaça d'Espanya cafés between the Vila Vella and the central beach, and the residential extensions inland from the Avinguda Mar Menuda`,
+    },
     toulon: {
       personality: `one of the most genuinely dog-friendly large French Mediterranean cities, with a Mont Faron cable car that takes dogs free of charge, the rare French municipal bus and bateau-bus network that admits large dogs on lead, an official Anse Tabarly cani-plage with a dog swim ramp and two fenced cani-parcs on the Mourillon`,
       highlight: `the Mont Faron cable car summit at 584 m, the Anse Tabarly year-round cani-plage at the eastern Mourillon, and the reopened Sentier du Littoral coastal trail around Cap Brun`,
@@ -2453,6 +2458,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la cité impériale médiévale et ancienne capitale wisigothique, mauresque et chrétienne, un musée à ciel ouvert classé UNESCO sur un éperon de granit au-dessus du Tage, avec Madrid à 33 minutes en train Avant grande vitesse`,
       highlight: `le belvédère du Mirador del Valle avec le panorama iconique sur la skyline, la Senda Ecológica circulaire le long du Tage, et le Puente de San Martín médiéval`,
       area: `le Casco Histórico autour de la Plaza de Zocodover, la Judería avec le musée El Greco, et La Vega de l'autre côté du Puente de San Martín`,
+    },
+    'tossa-de-mar': {
+      personality: `une station balnéaire de 5 700 habitants au sud de la Costa Brava enroulée autour de la Vila Vella du XIIᵉ siècle, le seul centre médiéval fortifié qui subsiste sur toute la côte catalane, avec quatre tours de guet, des remparts crénelés complets et les ruines gothiques de l'église-château de Sant Vicenç à l'intérieur, plus la statue de bronze d'Ava Gardner en mémoire du tournage de Pandora en 1951 sur les rochers au-dessus de la Platja Gran`,
+      highlight: `les remparts de la Vila Vella du XIIᵉ siècle et ses quatre tours de guet (Joanàs, Hores, Mare de Déu, Codolar), les 9 km du Camí de Ronda GR-92 au sud par Cala Bona, Cala Pola, Cala Llevadó et Cala Giverola jusqu'à Lloret de Mar, et le phare du Far de Tossa de 1917 à la pointe la plus orientale de la presqu'île`,
+      area: `la pointe mûrée de la Vila Vella au-dessus de la Platja Gran, les cafés du Passeig del Mar et de la Plaça d'Espanya entre la Vila Vella et la plage centrale, et les extensions résidentielles à l'intérieur depuis l'Avinguda Mar Menuda`,
     },
     toulon: {
       personality: `l'une des grandes villes méditerranéennes françaises les plus authentiquement accueillantes pour les chiens, avec un téléphérique du Mont Faron qui embarque les chiens gratuitement, le rare réseau urbain français qui admet les grands chiens en bus et bateau-bus, une cani-plage officielle à l'Anse Tabarly avec rampe de baignade et deux cani-parcs clôturés sur le Mourillon`,
@@ -3746,6 +3756,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el mirador del Mirador del Valle con el panorama icónico del skyline, la Senda Ecológica circular a lo largo del Tajo, y el Puente de San Martín medieval`,
       area: `el Casco Histórico alrededor de la Plaza de Zocodover, la Judería con el museo del Greco, y La Vega al otro lado del Puente de San Martín`,
     },
+    'tossa-de-mar': {
+      personality: `una localidad costera de 5.700 habitantes al sur de la Costa Brava envuelta alrededor de la Vila Vella del siglo XII, el único centro medieval amurallado que sobrevive en toda la costa catalana, con cuatro torres de vigilancia, murallas almenadas completas y las ruinas góticas de la iglesia-castillo de Sant Vicenç dentro, más la estatua de bronce de Ava Gardner en memoria del rodaje de Pandora en 1951 sobre las rocas encima de la Platja Gran`,
+      highlight: `las murallas de la Vila Vella del siglo XII y sus cuatro torres de vigilancia (Joanàs, Hores, Mare de Déu, Codolar), los 9 km del Camí de Ronda GR-92 al sur por Cala Bona, Cala Pola, Cala Llevadó y Cala Giverola hasta Lloret de Mar, y el faro Far de Tossa de 1917 en la punta más oriental de la península`,
+      area: `la punta amurallada de la Vila Vella sobre la Platja Gran, los cafés del Passeig del Mar y la Plaça d'Espanya entre la Vila Vella y la playa central, y las extensiones residenciales hacia el interior desde la Avinguda Mar Menuda`,
+    },
     toulon: {
       personality: `una de las grandes ciudades mediterráneas francesas más auténticamente acogedoras con los perros, con un teleférico del Mont Faron que admite perros gratis, la rara red urbana francesa que admite perros grandes en bus y bateau-bus, una cani-plage oficial en la Anse Tabarly con rampa de baño y dos cani-parques vallados en el Mourillon`,
       highlight: `la cima del Mont Faron a 584 m en teleférico, la cani-plage anual de la Anse Tabarly en el extremo este del Mourillon, y el Sentier du Littoral de Cap Brun reabierto en 2024`,
@@ -5037,6 +5052,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a cidade imperial medieval e antiga capital visigoda, morisca e cristiana, um museu al aire libre clasificado UNESCO num promontorio de granito sobre o Tajo, com Madrid a 33 minutos de comboio Avant de alta velocidad`,
       highlight: `o mirador do Mirador do Valle com o panorama icónico do skyline, a Senda Ecológica circular a lo largo do Tajo, e o Ponte de San Martín medieval`,
       area: `o Casco Histórico alrededor da Praça de Zocodover, a Judería com o museu do Greco, e A Vega al otro lado do Ponte de San Martín`,
+    },
+    'tossa-de-mar': {
+      personality: `uma vila balnear de 5.700 habitantes no sul da Costa Brava envolta na Vila Vella do século XII, o único centro medieval amuralhado que sobrevive em toda a costa catalã, com quatro torres de vigia, muralhas ameadas completas e as ruínas góticas da igreja-castelo de Sant Vicenç dentro, mais a estátua de bronze de Ava Gardner em memória da rodagem de Pandora em 1951 sobre as rochas em cima da Platja Gran`,
+      highlight: `as muralhas da Vila Vella do século XII e as suas quatro torres de vigia (Joanàs, Hores, Mare de Déu, Codolar), os 9 km do Camí de Ronda GR-92 a sul por Cala Bona, Cala Pola, Cala Llevadó e Cala Giverola até Lloret de Mar, e o farol Far de Tossa de 1917 na ponta mais oriental da península`,
+      area: `a ponta amuralhada da Vila Vella sobre a Platja Gran, os cafés do Passeig del Mar e a Plaça d'Espanya entre a Vila Vella e a praia central, e as extensões residenciais para o interior desde a Avinguda Mar Menuda`,
     },
     toulon: {
       personality: `uma das grandes cidades mediterrânicas francesas mais autenticamente acolhedoras com cães, com um teleférico do Mont Faron que aceita cães grátis, a rara rede urbana francesa que aceita cães grandes em autocarro e bateau-bus, uma cani-praia oficial na Anse Tabarly com rampa de banho e dois cani-parques vedados no Mourillon`,

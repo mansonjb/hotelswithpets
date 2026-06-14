@@ -17001,6 +17001,81 @@
     "iata": "BZG"
   },
   {
+    "slug": "tossa-de-mar",
+    "name": "Tossa de Mar",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/tossa-de-mar.jpg",
+    "intro": "Tossa de Mar is a 5,700-resident Costa Brava sud beach town wrapped around the 12th-century Vila Vella, the only fortified medieval centre that survives on the entire Catalan coast, with four watchtowers, full battlemented ramparts and the Gothic ruins of the Sant Vicenç castle church inside. The 380 m sand Platja Gran sits beneath the Vila Vella, with smaller Mar Menuda just north-east and the secluded southern coves (Cala Bona, Cala Pola, Cala Llevadó, Cala Giverola) reachable via the 9 km Camí de Ronda GR-92 coastal path that links Tossa to Lloret de Mar. The 1917 Far de Tossa lighthouse crowns the easternmost tip, and the bronze statue of Ava Gardner on the Vila Vella rocks commemorates the 1951 filming of `Pandora and the Flying Dutchman`. There is no train station; access is by Moventis bus from Girona (1 h via Lloret) or by car on the GI-682 coast road or AP-7 motorway. Two village vets refer overnight emergencies to Centre Veterinari Can Vet in Lloret de Mar 12 km south.",
+    "lat": 41.7203,
+    "lng": 2.9319,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      }
+    },
+    "iata": "GRO"
+  },
+  {
     "slug": "toulon",
     "name": "Toulon",
     "country": "France",

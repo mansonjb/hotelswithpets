@@ -1531,6 +1531,81 @@
     "iata": "BIQ"
   },
   {
+    "slug": "begur",
+    "name": "Begur",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/begur.jpg",
+    "intro": "Begur is a 4,000-resident Costa Brava centre clifftop medieval town crowning a 200 m hill in the Baix Empordà comarca of Girona, defined by the 11th-century castle ruins on the summit, the four medieval watchtowers built against 16th-century Berber pirate raids, the iconic 19th-century cases indianas mansions built by Begur men returning wealthy from Cuba (the indianos), and a postcard portfolio of six fishing-port calas wrapping the rocky cape below: Sa Tuna (tiny fishing port with L`Hostal de Sa Tuna), Aiguablava (turquoise sand bay under the cliffside Parador), Aiguafreda (small intimate cove), Sa Riera (largest sand beach with its own village), Fornells (port connector) and Tamariu (south end). All six are linked by the 8 km Camí de Ronda GR-92 clifftop coastal path, widely considered the most scenic section of the entire Costa Brava. There is no train station; access is by Moventis bus from Palafrugell (15 min) or by car on the C-31 from the AP-7 motorway. The reference 24/7 emergency vet is the Hospital Veterinari Costa Brava in Palafrugell, 5 km south.",
+    "lat": 41.9533,
+    "lng": 3.2086,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      }
+    },
+    "iata": "GRO"
+  },
+  {
     "slug": "belfast",
     "name": "Belfast",
     "country": "United Kingdom",

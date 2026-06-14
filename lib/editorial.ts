@@ -126,6 +126,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parc de Mousserolles, the Vauban ramparts loop, and the Plaine d\'Ansot wetland reserve',
       area: 'the Grand Bayonne around the cathedral, the Petit Bayonne riverside quays, and the Saint-Esprit station district north of the Adour',
     },
+    begur: {
+      personality: `a 4,000-resident Costa Brava centre clifftop medieval town crowning a 200 m hill in the Baix Empordà comarca of Girona, defined by the 11th-century castle ruins on the summit, the four medieval watchtowers built against 16th-century Berber pirate raids, the iconic 19th-century cases indianas mansions built by Begur men returning wealthy from Cuba (the indianos), and a postcard portfolio of six fishing-port calas wrapping the rocky cape below (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu) linked by the 8 km Camí de Ronda GR-92 widely considered the most scenic section of the entire Costa Brava`,
+      highlight: `the free open-air Castell de Begur 11th-century ruins with a panoramic 360-degree view over the six calas, the casc antic medieval alleys with the cases indianas painted facades, the Camí de Ronda GR-92 clifftop coastal path from Sa Riera to Tamariu, and the pebble cove of Sa Tuna with L'Hostal de Sa Tuna seafront restaurant`,
+      area: `the casc antic around the Esglesia de Sant Pere and Plaça de l'Església, the six calas (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu) wrapping the rocky cape, and the Cap de Begur lighthouse-and-GR-92 corridor south to Tamariu and Llafranc`,
+    },
     belfast: {
       personality: `Northern Ireland's revitalised capital on Belfast Lough, with a fiercely dog-welcoming Cathedral Quarter pub scene, the 750-acre wilderness of Cave Hill rising directly above the city, year-round dog beaches in County Down and two 24/7 emergency vet hospitals`,
       highlight: `Cave Hill Country Park up to Napoleon's Nose, the 18 km Lagan towpath from Stranmillis to Lisburn, and Helen's Bay year-round dog beach 20 minutes away by NIR train`,
@@ -1429,6 +1434,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc de Mousserolles, la boucle des remparts Vauban et la réserve humide de la Plaine d\'Ansot',
       area: 'le Grand Bayonne autour de la cathédrale, les quais du Petit Bayonne et le quartier de la gare Saint-Esprit au nord de l\'Adour',
     },
+    begur: {
+      personality: `une ville médiévale perchée de 4 000 habitants au centre de la Costa Brava couronnant une colline de 200 m dans la comarca du Baix Empordà à Gérone, définie par les ruines du château du XIᵉ siècle au sommet, les quatre tours de guet médiévales bâties contre les raids de pirates berbères du XVIᵉ siècle, les iconiques cases indianas du XIXᵉ siècle bâties par les Begurois rentrés fortunés de Cuba (les indianos), et un portefeuille carte postale de six calas-ports de pêche qui ceinturent le cap rocheux en contrebas (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu) reliées par le Camí de Ronda GR-92 de 8 km largement considéré comme la section la plus spectaculaire de toute la Costa Brava`,
+      highlight: `les ruines libres en plein air du Castell de Begur du XIᵉ siècle avec leur vue panoramique à 360° sur les six calas, les ruelles médiévales du casc antic et les façades peintes des cases indianas, le Camí de Ronda GR-92 en bord de falaise de Sa Riera à Tamariu, et la crique de galets de Sa Tuna avec le restaurant L'Hostal de Sa Tuna en front de mer`,
+      area: `le casc antic autour de l'Esglesia de Sant Pere et de la Plaça de l'Església, les six calas (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu) qui ceinturent le cap rocheux, et le corridor phare-Cap-de-Begur et GR-92 au sud vers Tamariu et Llafranc`,
+    },
     belfast: {
       personality: `la capitale revitalisée d'Irlande du Nord en bord du Belfast Lough, avec un Cathedral Quarter farouchement accueillant pour les chiens, les 300 ha sauvages de Cave Hill juste au-dessus de la ville, des plages canines toute l'année dans le comté de Down et deux hôpitaux vétérinaires d'urgence 24h/24`,
       highlight: `Cave Hill Country Park jusqu'au Napoleon's Nose, le chemin de halage du Lagan de 18 km de Stranmillis à Lisburn et la plage canine de Helen's Bay à 20 minutes en train NIR`,
@@ -2731,6 +2741,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parc de Mousserolles, el bucle de las murallas Vauban y la reserva húmeda de la Plaine d\'Ansot',
       area: 'el Grand Bayonne en torno a la catedral, los muelles del Petit Bayonne y el barrio de la estación Saint-Esprit al norte del Adour',
     },
+    begur: {
+      personality: `una villa medieval encaramada de 4.000 habitantes en el centro de la Costa Brava que corona una colina de 200 m en la comarca del Baix Empordà en Girona, definida por las ruinas del castillo del siglo XI en la cima, las cuatro torres de guardia medievales construidas contra las incursiones de piratas berberiscos del siglo XVI, las icónicas cases indianas del siglo XIX construidas por los begurenses retornados ricos de Cuba (los indianos), y una cartera postal de seis calas-puertos pesqueros que ciñen el cabo rocoso a sus pies (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu) conectadas por el Camí de Ronda GR-92 de 8 km ampliamente considerado como la sección más espectacular de toda la Costa Brava`,
+      highlight: `las ruinas libres al aire libre del Castell de Begur del siglo XI con su vista panorámica de 360° sobre las seis calas, las callejas medievales del casc antic y las fachadas pintadas de las cases indianas, el Camí de Ronda GR-92 en borde de acantilado de Sa Riera a Tamariu, y la cala de cantos de Sa Tuna con el restaurante L'Hostal de Sa Tuna frente al mar`,
+      area: `el casc antic alrededor de la Esglesia de Sant Pere y la Plaça de l'Església, las seis calas (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu) que ciñen el cabo rocoso, y el corredor faro-Cap-de-Begur y GR-92 al sur hacia Tamariu y Llafranc`,
+    },
     belfast: {
       personality: `la capital revitalizada de Irlanda del Norte a orillas del Belfast Lough, con un Cathedral Quarter ferozmente acogedor para perros, las 300 hectáreas salvajes de Cave Hill justo sobre la ciudad, playas caninas todo el año en el condado de Down y dos hospitales veterinarios de urgencias 24/7`,
       highlight: `Cave Hill Country Park hasta el Napoleon's Nose, el camino de sirga del Lagan de 18 km de Stranmillis a Lisburn y la playa canina de Helen's Bay a 20 minutos en tren NIR`,
@@ -4032,6 +4047,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital do País Basco francês, onde o Vieux Bayonne de janelas com portadas vermelhas, os cais do Petit Bayonne e o passeio de 2,5 km sobre as muralhas Vauban se encontram com o presunto de Bayonne e o chocolate Cazenave, num centro tão compacto que um cão o percorre de ponta a ponta em 12 minutos',
       highlight: 'o Parc de Mousserolles, o circuito das muralhas Vauban e a reserva húmida da Plaine d\'Ansot',
       area: 'o Grand Bayonne em torno da catedral, os cais do Petit Bayonne e o bairro da estação Saint-Esprit a norte do Adour',
+    },
+    begur: {
+      personality: `uma vila medieval empoleirada de 4.000 habitantes no centro da Costa Brava a coroar uma colina de 200 m na comarca do Baix Empordà em Girona, definida pelas ruínas do castelo do século XI no cume, as quatro torres de guarda medievais construídas contra as incursões de piratas berberes do século XVI, as icónicas cases indianas do século XIX construídas pelos begurenses retornados ricos de Cuba (os indianos), e um portefólio postal de seis calas-portos piscatórios que cingem o cabo rochoso aos seus pés (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu) ligadas pelo Camí de Ronda GR-92 de 8 km amplamente considerado a secção mais espetacular de toda a Costa Brava`,
+      highlight: `as ruínas livres ao ar livre do Castell de Begur do século XI com a sua vista panorâmica de 360° sobre as seis calas, as ruelas medievais do casc antic e as fachadas pintadas das cases indianas, o Camí de Ronda GR-92 à beira da falésia de Sa Riera a Tamariu, e a cala de seixos de Sa Tuna com o restaurante L'Hostal de Sa Tuna frente ao mar`,
+      area: `o casc antic à volta da Esglesia de Sant Pere e da Plaça de l'Església, as seis calas (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu) que cingem o cabo rochoso, e o corredor farol-Cap-de-Begur e GR-92 a sul em direção a Tamariu e Llafranc`,
     },
     belfast: {
       personality: `a capital revitalizada da Irlanda do Norte às margens do Belfast Lough, com um Cathedral Quarter ferozmente acolhedor para cães, as 300 hectares selvagens de Cave Hill mesmo sobre a cidade, praias caninas o ano inteiro no condado de Down e dois hospitais veterinários de urgências 24/7`,

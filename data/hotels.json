@@ -2709,6 +2709,135 @@
     "slug": "hotel-le-port-neuf"
   },
   {
+    "id": "begur-1",
+    "name": "Hotel Sa Tuna",
+    "destinationSlug": "begur",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 314,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/sa-tuna.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed on request for EUR 20 per pet per night, with a limit of 1 per room. A boutique 3-star directly above the Sa Tuna fishing-port cove, one of the six iconic Begur calas, with a seafront restaurant and stone-walled rooms. Dogs and cats accepted in selected rooms; advise at booking.",
+    "address": "Passeig de l`Ancora, 14, 17255 Begur",
+    "neighborhood": "Sa Tuna cove, seafront",
+    "slug": "hotel-sa-tuna-begur",
+    "highlights": [
+      "Directly above Sa Tuna fishing-port cove",
+      "Seafront restaurant",
+      "Boutique 3-star with stone-walled rooms"
+    ]
+  },
+  {
+    "id": "begur-2",
+    "name": "Hotel Sa Calma",
+    "destinationSlug": "begur",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 862,
+    "priceFrom": 170,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/sa-calma.html",
+    "petFee": 20,
+    "petPolicy": "Pets up to 20 kg allowed on request for EUR 20 per pet per night, with a limit of 1 per room. A restored 19th-century cases indianas residence in the casc antic, 50 m from the Begur main square and the Castell de Begur climb. Free rooftop hot tub, spa with sauna and steam room, dogs and cats welcome in selected rooms.",
+    "address": "Carrer del Pi i Ralló, 18, 17255 Begur",
+    "neighborhood": "Casc antic, near the Plaça de l`Església",
+    "slug": "hotel-sa-calma-begur",
+    "highlights": [
+      "Restored 19th-century cases indianas building",
+      "Free rooftop hot tub and spa",
+      "50 m from the casc antic main square"
+    ]
+  },
+  {
+    "id": "begur-3",
+    "name": "La Indiana de Begur, Petit Hotel Boutique",
+    "destinationSlug": "begur",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 229,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/la-indiana-de-begur.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per pet per night on request. A boutique 4-star in a restored cases indianas building in the Begur casc antic, with a shared lounge, terrace, free private parking and a small restaurant. Dogs and cats accepted in selected rooms.",
+    "address": "Carrer Bonaventura Carreras Peralta, 6, 17255 Begur",
+    "neighborhood": "Casc antic, on the cases indianas street",
+    "slug": "la-indiana-de-begur",
+    "highlights": [
+      "Restored cases indianas boutique",
+      "Free private parking",
+      "Shared lounge and terrace"
+    ]
+  },
+  {
+    "id": "begur-4",
+    "name": "Hotel Aiguaclara",
+    "destinationSlug": "begur",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 3,
+    "rating": 9.3,
+    "reviewCount": 510,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/aiguaclara.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per pet per night on request. A family-run boutique hotel in a 19th-century cases indianas colonial palace in the centre of Begur, with ten individually decorated rooms, a leafy patio and an on-site restaurant. Dogs and cats accepted in selected ground-floor rooms.",
+    "address": "Carrer de Sant Miquel, 2, 17255 Begur",
+    "neighborhood": "Casc antic, family-run boutique",
+    "slug": "hotel-aiguaclara-begur",
+    "highlights": [
+      "19th-century cases indianas colonial palace",
+      "Family-run with leafy patio",
+      "On-site restaurant"
+    ]
+  },
+  {
+    "id": "begur-5",
+    "name": "Es Cel de Begur Hotel",
+    "destinationSlug": "begur",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 772,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/es-cel-de-begur.html",
+    "petFee": 12,
+    "petPolicy": "Pets allowed for EUR 12 per pet per night on request. A 3-star on the edge of the Begur casc antic with a small outdoor pool, panoramic terrace over the Castell de Begur hill and parking on site. Dogs and cats welcome in selected rooms outside the breakfast room.",
+    "address": "Carrer del Comerç, 7, 17255 Begur",
+    "neighborhood": "Casc antic edge, with Castell view",
+    "slug": "es-cel-de-begur-hotel",
+    "highlights": [
+      "Panoramic terrace over the Castell de Begur",
+      "Small outdoor pool",
+      "On-site parking"
+    ]
+  },
+  {
     "id": "belfast-1",
     "name": "The Merchant Hotel",
     "destinationSlug": "belfast",

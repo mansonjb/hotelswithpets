@@ -11292,6 +11292,81 @@
     "tiqetsId": "66788"
   },
   {
+    "slug": "montreux",
+    "name": "Montreux",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "flag": "🇨🇭",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/montreux.jpg",
+    "intro": "Montreux on the Swiss Riviera blends Lake Geneva palms, the Château de Chillon, the Lavaux UNESCO vineyards, and the Quais Fleuris promenade where leashed dogs are welcome from Vevey to Villeneuve.",
+    "lat": 46.4312,
+    "lng": 6.9123,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cool & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild & misty",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "GVA"
+  },
+  {
     "slug": "munich",
     "name": "Munich",
     "country": "Germany",

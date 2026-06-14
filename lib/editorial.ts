@@ -761,6 +761,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parc Méric off-leash enclosure, the Berges du Lez riverside trail, and the Grand Travers dog-friendly beach just 20 km away',
       area: 'the Écusson medieval centre, the Place de la Comédie esplanade, and the Antigone neo-classical district',
     },
+    montreux: {
+      personality: 'the Swiss Riviera on Lake Geneva, a palm-fringed Belle Époque town where dogs are welcomed on terrace cafés, ride the SBB and the panoramic GoldenPass Line, and walk leashed through the Lavaux UNESCO vineyards above the lake',
+      highlight: 'the 7 km Quais Fleuris promenade past the Freddie Mercury statue, the 13th-century Château de Chillon courtyards, and the Lavaux Sentier Viticole through the UNESCO vineyard terraces',
+      area: 'the lakefront Quais Fleuris between Clarens and Territet, the Vieux Montreux around the Église Saint-Vincent, and the Lavaux terraces between Saint-Saphorin and Chexbres',
+    },
     munich: {
       personality: 'a city where dogs are welcomed in beer gardens, on public transport, and throughout the English Garden: Europe\'s largest urban park',
       highlight: 'the Englischer Garten, Olympiapark, and the Isar river banks',
@@ -2009,6 +2014,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'enclos hors laisse du Parc Méric, la promenade des Berges du Lez et la plage dog-friendly du Grand Travers à 20 km',
       area: 'l\'Écusson médiéval, l\'esplanade de la Place de la Comédie et le quartier néo-classique de l\'Antigone',
     },
+    montreux: {
+      personality: 'la Riviera suisse sur le lac Léman, ville Belle Époque aux palmiers en bord d\'eau où les chiens sont accueillis en terrasse, voyagent dans les CFF et le panoramique GoldenPass et arpentent en laisse les vignobles UNESCO du Lavaux au-dessus du lac',
+      highlight: 'les 7 km des Quais Fleuris devant la statue de Freddie Mercury, les cours du Château de Chillon du XIIIᵉ siècle et le Sentier Viticole du Lavaux à travers les terrasses UNESCO',
+      area: 'le bord du lac des Quais Fleuris entre Clarens et Territet, le Vieux Montreux autour de l\'Église Saint-Vincent et les terrasses du Lavaux entre Saint-Saphorin et Chexbres',
+    },
     munich: {
       personality: 'une ville où les chiens sont accueillis dans les jardins de bière, dans les transports en commun et dans le Jardin Anglais. Le plus grand parc urbain d\'Europe',
       highlight: 'l\'Englischer Garten, l\'Olympiapark et les berges de l\'Isar',
@@ -3256,6 +3266,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el recinto sin correa del Parc Méric, el sendero de las Berges du Lez y la playa dog-friendly del Grand Travers a 20 km',
       area: 'el casco medieval de l\'Écusson, la explanada de la Place de la Comédie y el barrio neoclásico de l\'Antigone',
     },
+    montreux: {
+      personality: 'la Riviera suiza en el lago Lemán, una ciudad Belle Époque con palmeras a orillas del agua donde los perros son bienvenidos en terraza, viajan en la SBB y el panorámico GoldenPass y recorren con correa los viñedos UNESCO del Lavaux sobre el lago',
+      highlight: 'los 7 km del paseo de los Quais Fleuris ante la estatua de Freddie Mercury, los patios del Château de Chillon del siglo XIII y el Sentier Viticole del Lavaux a través de las terrazas UNESCO',
+      area: 'el lago de los Quais Fleuris entre Clarens y Territet, el Vieux Montreux en torno a la Église Saint-Vincent y las terrazas del Lavaux entre Saint-Saphorin y Chexbres',
+    },
     munich: {
       personality: 'una ciudad donde los perros son bienvenidos en los jardines de cerveza, en el transporte público y en el Jardín Inglés. El parque urbano más grande de Europa',
       highlight: 'el Englischer Garten, el Olympiapark y las orillas del río Isar',
@@ -4502,6 +4517,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma soleada cidade universitaria do sul de Francia onde os cães acompanhan aos seus duenhos en esplanadas de cafés, no elétrico e pelos passeios a margens do Lez',
       highlight: 'o recinto sem trela do Parc Méric, o trilho das Berges du Lez e a praia pet-friendly do Grand Travers a 20 km',
       area: 'o casco medieval de l\'Écusson, a explanada da Place da Comédie e o bairro neoclásico de l\'Antigone',
+    },
+    montreux: {
+      personality: 'a Riviera suíça no lago Lemán, uma cidade Belle Époque com palmeiras à beira da água onde os cães são bem-vindos em esplanada, viajan na SBB e no panorâmico GoldenPass e percorrem com trela os vinhedos UNESCO do Lavaux acima do lago',
+      highlight: 'os 7 km do passeio dos Quais Fleuris à frente da estátua de Freddie Mercury, os pátios do Château de Chillon do século XIII e o Sentier Viticole do Lavaux através dos socalcos UNESCO',
+      area: 'a margem do lago dos Quais Fleuris entre Clarens e Territet, o Vieux Montreux em torno da Église Saint-Vincent e os socalcos do Lavaux entre Saint-Saphorin e Chexbres',
     },
     munich: {
       personality: 'uma cidade onde os cães são bem-vindos nos jardins de cerveza, no transporte público e no Jardim Inglês. O parque urbano mais grande de Europa',

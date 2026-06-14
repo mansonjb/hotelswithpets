@@ -12850,6 +12850,33 @@
     "tiqetsId": "138"
   },
   {
+    "slug": "palamos",
+    "name": "Palamós",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/palamos.jpg",
+    "intro": "Palamós is a 17,000-resident Costa Brava centre fishing-port municipality in the Baix Empordà comarca of Girona, defined by its active Port de Palamós fleet (3rd by volume in Catalonia), the Llotja de Palamós afternoon fish auction, the Museu de la Pesca on the harbour, the casc antic of Sant Joan de Palamós on the hilltop, the free open-air ruins of the Castell de Sant Esteve de Mar on the clifftop north, and a four-port coastline from the 1 km Platja Gran (town centre) to the fjord-like La Fosca, the postcard fishermen-hut cove of Cala S'Alguer, the Platja del Castell (year-round dog-beach zone on the northern section) and the southern Cala Margarida. The Gamba de Palamós PDO red prawn and the Cuina del Peix de Palamós Slow-Food programme define the village kitchen. The 6 km Camí de Ronda GR-92 clifftop coastal path links Palamós north to Calella de Palafrugell. No train station; access by Moventis bus from Girona (1 h 30) or by car on the C-31 from the AP-7 motorway. The reference 24/7 emergency vet is the Hospital Veterinari Costa Brava in Palafrugell, 5 km north.",
+    "lat": 41.8479,
+    "lng": 3.1284,
+    "weather": {
+      "jan": { "temp": 11, "desc": "Mild & breezy", "icon": "⛅" },
+      "feb": { "temp": 12, "desc": "Mild & breezy", "icon": "⛅" },
+      "mar": { "temp": 14, "desc": "Mild & sunny", "icon": "🌤️" },
+      "apr": { "temp": 16, "desc": "Mild & sunny", "icon": "🌤️" },
+      "may": { "temp": 19, "desc": "Warm & sunny", "icon": "☀️" },
+      "jun": { "temp": 23, "desc": "Warm & sunny", "icon": "☀️" },
+      "jul": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
+      "aug": { "temp": 27, "desc": "Hot & sunny", "icon": "☀️" },
+      "sep": { "temp": 24, "desc": "Warm & sunny", "icon": "🌤️" },
+      "oct": { "temp": 20, "desc": "Mild & pleasant", "icon": "🌤️" },
+      "nov": { "temp": 15, "desc": "Mild & breezy", "icon": "⛅" },
+      "dec": { "temp": 12, "desc": "Mild & breezy", "icon": "⛅" }
+    },
+    "iata": "GRO"
+  },
+  {
     "slug": "palermo",
     "name": "Palermo",
     "country": "Italy",

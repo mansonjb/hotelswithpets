@@ -18568,6 +18568,136 @@
     "slug": "best-western-hotel-biri"
   },
   {
+    "id": "palamos-1",
+    "name": "Hotel Trias",
+    "destinationSlug": "palamos",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1240,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/trias.html",
+    "petFee": 25,
+    "petPolicy": "Pets allowed on request for EUR 25 per pet per night, with a limit of 1 per room. Historic 4-star seafront hotel directly on the Passeig del Mar promenade above Platja Gran, opened in 1925, with outdoor pool, terrace restaurant and a dedicated pet-friendly terrace dining policy.",
+    "address": "Passeig del Mar, s/n, 17230 Palamós",
+    "neighborhood": "Passeig del Mar seafront, Platja Gran",
+    "slug": "hotel-trias-palamos",
+    "highlights": [
+      "Historic 4-star seafront on Passeig del Mar",
+      "Dedicated pet-friendly terrace dining",
+      "Outdoor pool and direct Platja Gran access"
+    ]
+  },
+  {
+    "id": "palamos-2",
+    "name": "Hotel Ancora",
+    "destinationSlug": "palamos",
+    "categories": [
+      "dog-friendly",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 980,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/ancora.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size welcome at no additional fee on request. A peaceful 3-star with spacious gardens 200 m from La Fosca beach, with outdoor pool, tennis court, minigolf and air-conditioned rooms with terrace. One of the highest-rated central Costa Brava hotels for travellers with dogs.",
+    "address": "Carrer de Josep Pla, 43, 17230 Palamós",
+    "neighborhood": "La Fosca, 200 m from the beach",
+    "slug": "hotel-ancora-palamos",
+    "highlights": [
+      "200 m from La Fosca beach",
+      "Dogs of any size at no extra fee",
+      "Spacious gardens, outdoor pool, tennis court"
+    ]
+  },
+  {
+    "id": "palamos-3",
+    "name": "Hostal La Fosca",
+    "destinationSlug": "palamos",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 2,
+    "rating": 8.4,
+    "reviewCount": 412,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hostal-lafosca.html",
+    "petFee": 0,
+    "petPolicy": "Pets welcome on request at no extra fee. A small family-run hostal in the La Fosca village 2 km north of Palamós centre, walkable to the fjord-like La Fosca beach and the Camí de Ronda GR-92 trailhead. Dogs and cats accepted in selected rooms.",
+    "address": "Carrer Bauma, 1, 17230 Palamós",
+    "neighborhood": "La Fosca village, walk to the beach",
+    "slug": "hostal-la-fosca-palamos",
+    "highlights": [
+      "Walkable to La Fosca beach",
+      "GR-92 Camí de Ronda trailhead at the door",
+      "Family-run, pets welcome at no fee"
+    ]
+  },
+  {
+    "id": "palamos-4",
+    "name": "Hotel La Malcontenta",
+    "destinationSlug": "palamos",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 560,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/la-malcontenta.html",
+    "petFee": 0,
+    "petPolicy": "Pets allowed on request at no additional fee; message the hotel with pet weight to confirm conditions. Dogs accepted throughout the hotel including the restaurant. A restored 19th-century country mansion just outside Palamós on the road to Platja del Castell, with outdoor pool, free Wi-Fi, free parking and easy walking access to the pine-fringed dog-beach zone.",
+    "address": "Paratge Torre Mirona, s/n, 17230 Palamós",
+    "neighborhood": "Country mansion outside Palamós, near Platja del Castell",
+    "slug": "hotel-la-malcontenta-palamos",
+    "highlights": [
+      "Restored 19th-century country mansion",
+      "Dogs accepted throughout including the restaurant",
+      "Easy access to Platja del Castell dog-beach zone"
+    ]
+  },
+  {
+    "id": "palamos-5",
+    "name": "Park Hotel San Jorge & Spa by Escampa Hotels",
+    "destinationSlug": "palamos",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1820,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/parkhotelsanjorge.html",
+    "petFee": 15,
+    "petPolicy": "Dogs allowed on request for EUR 15 per pet per night in all common areas except restaurant and spa/pool; not allowed in Supreme Suite rooms. A 4-star superior cliffside hotel on the south Palamós-Calonge border with direct access to the Bella Dona and Cap Roig coves, outdoor pool, spa and a panoramic clifftop terrace.",
+    "address": "Carretera de Palamós a Sant Feliu, km 16, 17251 Calonge-Palamós",
+    "neighborhood": "Cliffside south of Palamós, Bella Dona cove",
+    "slug": "park-hotel-san-jorge-palamos",
+    "highlights": [
+      "4-star superior cliffside with private cove access",
+      "Outdoor pool, spa, panoramic clifftop terrace",
+      "Dogs welcome (€15/night) in common areas"
+    ]
+  },
+  {
     "id": "palermo-1",
     "name": "Grand Hotel Villa Igiea",
     "destinationSlug": "palermo",

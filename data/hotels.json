@@ -27723,7 +27723,11 @@
     "id": "locarno-1",
     "name": "Hotel Lago Maggiore - Welcome!",
     "destinationSlug": "locarno",
-    "categories": ["dog-friendly", "boutique", "near-parks"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "near-parks"
+    ],
     "stars": 3,
     "rating": 8.7,
     "reviewCount": 1850,
@@ -27739,7 +27743,10 @@
     "id": "locarno-2",
     "name": "Villa Orselina - Small Luxury Hotel",
     "destinationSlug": "locarno",
-    "categories": ["dog-friendly", "luxury"],
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
     "stars": 5,
     "rating": 9.0,
     "reviewCount": 420,
@@ -27755,7 +27762,10 @@
     "id": "locarno-3",
     "name": "Hotel Belvedere Locarno",
     "destinationSlug": "locarno",
-    "categories": ["dog-friendly", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
     "stars": 4,
     "rating": 8.6,
     "reviewCount": 980,
@@ -27771,7 +27781,11 @@
     "id": "locarno-4",
     "name": "Hotel Garni Du Lac",
     "destinationSlug": "locarno",
-    "categories": ["dog-friendly", "budget", "near-parks"],
+    "categories": [
+      "dog-friendly",
+      "budget",
+      "near-parks"
+    ],
     "stars": 3,
     "rating": 8.3,
     "reviewCount": 720,
@@ -27787,7 +27801,11 @@
     "id": "locarno-5",
     "name": "Hotel Geranio au Lac",
     "destinationSlug": "locarno",
-    "categories": ["dog-friendly", "family", "near-parks"],
+    "categories": [
+      "dog-friendly",
+      "family",
+      "near-parks"
+    ],
     "stars": 3,
     "rating": 8.4,
     "reviewCount": 1100,
@@ -27803,7 +27821,12 @@
     "id": "grindelwald-1",
     "name": "Hotel Gletscherblick",
     "destinationSlug": "grindelwald",
-    "categories": ["dog-friendly", "cat-friendly", "boutique", "near-parks"],
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique",
+      "near-parks"
+    ],
     "stars": 3,
     "rating": 8.8,
     "reviewCount": 540,
@@ -27819,7 +27842,11 @@
     "id": "grindelwald-2",
     "name": "Bergwelt Grindelwald - Alpine Design Resort",
     "destinationSlug": "grindelwald",
-    "categories": ["dog-friendly", "luxury", "family"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "family"
+    ],
     "stars": 4,
     "rating": 8.9,
     "reviewCount": 980,
@@ -27835,7 +27862,11 @@
     "id": "grindelwald-3",
     "name": "Hotel Eiger Grindelwald",
     "destinationSlug": "grindelwald",
-    "categories": ["dog-friendly", "luxury", "family"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "family"
+    ],
     "stars": 4,
     "rating": 8.7,
     "reviewCount": 1250,
@@ -27851,7 +27882,11 @@
     "id": "grindelwald-4",
     "name": "Hotel Kreuz & Post Grindelwald",
     "destinationSlug": "grindelwald",
-    "categories": ["dog-friendly", "boutique", "family"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "family"
+    ],
     "stars": 3,
     "rating": 8.5,
     "reviewCount": 870,
@@ -27867,7 +27902,11 @@
     "id": "grindelwald-5",
     "name": "Hotel Spinne",
     "destinationSlug": "grindelwald",
-    "categories": ["dog-friendly", "family", "budget"],
+    "categories": [
+      "dog-friendly",
+      "family",
+      "budget"
+    ],
     "stars": 3,
     "rating": 8.3,
     "reviewCount": 690,
@@ -27883,7 +27922,11 @@
     "id": "st-moritz-1",
     "name": "Hotel Steffani",
     "destinationSlug": "st-moritz",
-    "categories": ["dog-friendly", "boutique", "family"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "family"
+    ],
     "stars": 4,
     "rating": 8.6,
     "reviewCount": 1450,
@@ -27899,7 +27942,10 @@
     "id": "st-moritz-2",
     "name": "Badrutt's Palace Hotel",
     "destinationSlug": "st-moritz",
-    "categories": ["dog-friendly", "luxury"],
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
     "stars": 5,
     "rating": 9.2,
     "reviewCount": 780,
@@ -27915,7 +27961,11 @@
     "id": "st-moritz-3",
     "name": "Kulm Hotel St. Moritz",
     "destinationSlug": "st-moritz",
-    "categories": ["dog-friendly", "luxury", "family"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "family"
+    ],
     "stars": 5,
     "rating": 9.1,
     "reviewCount": 620,
@@ -27931,7 +27981,11 @@
     "id": "st-moritz-4",
     "name": "Hotel Hauser",
     "destinationSlug": "st-moritz",
-    "categories": ["dog-friendly", "family", "budget"],
+    "categories": [
+      "dog-friendly",
+      "family",
+      "budget"
+    ],
     "stars": 3,
     "rating": 8.4,
     "reviewCount": 920,
@@ -27947,7 +28001,10 @@
     "id": "st-moritz-5",
     "name": "Hotel Reine Victoria",
     "destinationSlug": "st-moritz",
-    "categories": ["dog-friendly", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
     "stars": 4,
     "rating": 8.7,
     "reviewCount": 540,
@@ -27963,7 +28020,11 @@
     "id": "montreux-1",
     "name": "Fairmont Le Montreux Palace",
     "destinationSlug": "montreux",
-    "categories": ["dog-friendly", "luxury", "family"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "family"
+    ],
     "stars": 5,
     "rating": 9.0,
     "reviewCount": 2150,
@@ -27979,7 +28040,10 @@
     "id": "montreux-2",
     "name": "Royal Plaza Montreux",
     "destinationSlug": "montreux",
-    "categories": ["dog-friendly", "luxury"],
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
     "stars": 5,
     "rating": 8.9,
     "reviewCount": 1680,
@@ -27995,7 +28059,10 @@
     "id": "montreux-3",
     "name": "Eurotel Montreux",
     "destinationSlug": "montreux",
-    "categories": ["dog-friendly", "family"],
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
     "stars": 4,
     "rating": 8.4,
     "reviewCount": 1820,
@@ -28011,7 +28078,10 @@
     "id": "montreux-4",
     "name": "Tralala Hotel Montreux",
     "destinationSlug": "montreux",
-    "categories": ["dog-friendly", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
     "stars": 3,
     "rating": 8.6,
     "reviewCount": 980,
@@ -28027,7 +28097,11 @@
     "id": "montreux-5",
     "name": "Hotel Helvetie Montreux",
     "destinationSlug": "montreux",
-    "categories": ["dog-friendly", "family", "budget"],
+    "categories": [
+      "dog-friendly",
+      "family",
+      "budget"
+    ],
     "stars": 3,
     "rating": 8.2,
     "reviewCount": 1320,
@@ -28043,7 +28117,11 @@
     "id": "interlaken-1",
     "name": "Hotel Interlaken",
     "destinationSlug": "interlaken",
-    "categories": ["dog-friendly", "boutique", "family"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "family"
+    ],
     "stars": 4,
     "rating": 8.7,
     "reviewCount": 2240,
@@ -28059,7 +28137,11 @@
     "id": "interlaken-2",
     "name": "Victoria-Jungfrau Grand Hotel & Spa",
     "destinationSlug": "interlaken",
-    "categories": ["dog-friendly", "luxury", "family"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "family"
+    ],
     "stars": 5,
     "rating": 9.2,
     "reviewCount": 1450,
@@ -28075,7 +28157,10 @@
     "id": "interlaken-3",
     "name": "Hotel Krebs",
     "destinationSlug": "interlaken",
-    "categories": ["dog-friendly", "family"],
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
     "stars": 3,
     "rating": 8.5,
     "reviewCount": 1180,
@@ -28091,7 +28176,11 @@
     "id": "interlaken-4",
     "name": "Alpina Boutique Hotel Ringgenberg",
     "destinationSlug": "interlaken",
-    "categories": ["dog-friendly", "boutique", "near-parks"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "near-parks"
+    ],
     "stars": 4,
     "rating": 9.0,
     "reviewCount": 480,
@@ -28107,7 +28196,11 @@
     "id": "interlaken-5",
     "name": "Hotel Beausite Interlaken",
     "destinationSlug": "interlaken",
-    "categories": ["dog-friendly", "boutique", "family"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "family"
+    ],
     "stars": 4,
     "rating": 8.6,
     "reviewCount": 1340,
@@ -28123,7 +28216,11 @@
     "id": "alcudia-1",
     "name": "Iberostar Waves Ciudad Blanca",
     "destinationSlug": "alcudia",
-    "categories": ["dog-friendly", "beach", "family"],
+    "categories": [
+      "dog-friendly",
+      "beach",
+      "family"
+    ],
     "stars": 4,
     "rating": 8.2,
     "reviewCount": 4100,
@@ -28139,7 +28236,11 @@
     "id": "alcudia-2",
     "name": "JS Sol de Alcudia",
     "destinationSlug": "alcudia",
-    "categories": ["dog-friendly", "beach", "family"],
+    "categories": [
+      "dog-friendly",
+      "beach",
+      "family"
+    ],
     "stars": 3,
     "rating": 8.0,
     "reviewCount": 1850,
@@ -28155,7 +28256,11 @@
     "id": "alcudia-3",
     "name": "INNSiDE by Meliá Alcudia",
     "destinationSlug": "alcudia",
-    "categories": ["dog-friendly", "beach", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "beach",
+      "boutique"
+    ],
     "stars": 4,
     "rating": 8.4,
     "reviewCount": 2300,
@@ -28171,7 +28276,11 @@
     "id": "alcudia-4",
     "name": "Hoposa Hotel & Apartments Uyal",
     "destinationSlug": "alcudia",
-    "categories": ["dog-friendly", "beach", "family"],
+    "categories": [
+      "dog-friendly",
+      "beach",
+      "family"
+    ],
     "stars": 3,
     "rating": 8.3,
     "reviewCount": 1200,
@@ -28187,7 +28296,11 @@
     "id": "alcudia-5",
     "name": "Aparthotel Boccaccio",
     "destinationSlug": "alcudia",
-    "categories": ["dog-friendly", "budget", "family"],
+    "categories": [
+      "dog-friendly",
+      "budget",
+      "family"
+    ],
     "stars": 3,
     "rating": 7.8,
     "reviewCount": 980,
@@ -28203,7 +28316,11 @@
     "id": "valldemossa-1",
     "name": "Hotel Sa Vall Valldemossa",
     "destinationSlug": "valldemossa",
-    "categories": ["dog-friendly", "boutique", "near-parks"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "near-parks"
+    ],
     "stars": 4,
     "rating": 9.0,
     "reviewCount": 320,
@@ -28219,7 +28336,11 @@
     "id": "valldemossa-2",
     "name": "Hotel Mirabó de Valldemossa",
     "destinationSlug": "valldemossa",
-    "categories": ["dog-friendly", "boutique", "luxury"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
     "stars": 4,
     "rating": 9.3,
     "reviewCount": 410,
@@ -28235,7 +28356,10 @@
     "id": "valldemossa-3",
     "name": "Es Petit Hotel de Valldemossa",
     "destinationSlug": "valldemossa",
-    "categories": ["dog-friendly", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
     "stars": 3,
     "rating": 9.1,
     "reviewCount": 580,
@@ -28251,7 +28375,11 @@
     "id": "valldemossa-4",
     "name": "Valldemossa Hotel",
     "destinationSlug": "valldemossa",
-    "categories": ["dog-friendly", "luxury", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "boutique"
+    ],
     "stars": 5,
     "rating": 9.2,
     "reviewCount": 290,
@@ -28267,7 +28395,11 @@
     "id": "valldemossa-5",
     "name": "Hostal Ca'n Mario",
     "destinationSlug": "valldemossa",
-    "categories": ["dog-friendly", "budget", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "budget",
+      "boutique"
+    ],
     "stars": 2,
     "rating": 8.5,
     "reviewCount": 520,
@@ -28283,7 +28415,11 @@
     "id": "soller-1",
     "name": "Gran Hotel Sóller",
     "destinationSlug": "soller",
-    "categories": ["dog-friendly", "luxury", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "boutique"
+    ],
     "stars": 5,
     "rating": 8.9,
     "reviewCount": 1100,
@@ -28299,7 +28435,11 @@
     "id": "soller-2",
     "name": "Ca'n Quatre",
     "destinationSlug": "soller",
-    "categories": ["dog-friendly", "boutique", "near-parks"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "near-parks"
+    ],
     "stars": 4,
     "rating": 9.2,
     "reviewCount": 240,
@@ -28315,7 +28455,10 @@
     "id": "soller-3",
     "name": "Ca's Curial Boutique Hotel",
     "destinationSlug": "soller",
-    "categories": ["dog-friendly", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
     "stars": 3,
     "rating": 9.0,
     "reviewCount": 320,
@@ -28331,7 +28474,11 @@
     "id": "soller-4",
     "name": "Hotel Salvia",
     "destinationSlug": "soller",
-    "categories": ["dog-friendly", "luxury", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "boutique"
+    ],
     "stars": 4,
     "rating": 9.4,
     "reviewCount": 280,
@@ -28347,7 +28494,11 @@
     "id": "soller-5",
     "name": "Hotel Boutique Minister",
     "destinationSlug": "soller",
-    "categories": ["dog-friendly", "boutique", "beach"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "beach"
+    ],
     "stars": 4,
     "rating": 8.7,
     "reviewCount": 690,
@@ -28363,7 +28514,11 @@
     "id": "ciutadella-1",
     "name": "Hotel Tres Sants",
     "destinationSlug": "ciutadella",
-    "categories": ["dog-friendly", "boutique", "luxury"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
     "stars": 4,
     "rating": 9.1,
     "reviewCount": 540,
@@ -28379,7 +28534,11 @@
     "id": "ciutadella-2",
     "name": "Hotel Rural Sant Ignasi",
     "destinationSlug": "ciutadella",
-    "categories": ["dog-friendly", "boutique", "near-parks"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "near-parks"
+    ],
     "stars": 4,
     "rating": 8.8,
     "reviewCount": 760,
@@ -28395,7 +28554,11 @@
     "id": "ciutadella-3",
     "name": "Hotel Morvedra Nou",
     "destinationSlug": "ciutadella",
-    "categories": ["dog-friendly", "boutique", "near-parks"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "near-parks"
+    ],
     "stars": 4,
     "rating": 8.9,
     "reviewCount": 620,
@@ -28411,7 +28574,11 @@
     "id": "ciutadella-4",
     "name": "Melia Cala Galdana",
     "destinationSlug": "ciutadella",
-    "categories": ["dog-friendly", "beach", "family"],
+    "categories": [
+      "dog-friendly",
+      "beach",
+      "family"
+    ],
     "stars": 4,
     "rating": 8.5,
     "reviewCount": 2400,
@@ -28427,7 +28594,11 @@
     "id": "ciutadella-5",
     "name": "Hotel Bahia Ciutadella",
     "destinationSlug": "ciutadella",
-    "categories": ["dog-friendly", "budget", "beach"],
+    "categories": [
+      "dog-friendly",
+      "budget",
+      "beach"
+    ],
     "stars": 3,
     "rating": 8.1,
     "reviewCount": 480,
@@ -28443,7 +28614,11 @@
     "id": "mahon-1",
     "name": "Hotel Hevresac Singular & Small",
     "destinationSlug": "mahon",
-    "categories": ["dog-friendly", "boutique", "luxury"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
     "stars": 4,
     "rating": 9.3,
     "reviewCount": 420,
@@ -28459,7 +28634,10 @@
     "id": "mahon-2",
     "name": "Can Alberti 1740 Boutique Hotel",
     "destinationSlug": "mahon",
-    "categories": ["dog-friendly", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
     "stars": 4,
     "rating": 9.0,
     "reviewCount": 510,
@@ -28475,7 +28653,11 @@
     "id": "mahon-3",
     "name": "Catalonia Mirador des Port",
     "destinationSlug": "mahon",
-    "categories": ["dog-friendly", "cat-friendly", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique"
+    ],
     "stars": 4,
     "rating": 8.6,
     "reviewCount": 1280,
@@ -28491,7 +28673,10 @@
     "id": "mahon-4",
     "name": "Hotel San Miguel Menorca",
     "destinationSlug": "mahon",
-    "categories": ["dog-friendly", "budget"],
+    "categories": [
+      "dog-friendly",
+      "budget"
+    ],
     "stars": 3,
     "rating": 8.3,
     "reviewCount": 640,
@@ -28507,7 +28692,10 @@
     "id": "mahon-5",
     "name": "Hotel Port Mahon",
     "destinationSlug": "mahon",
-    "categories": ["dog-friendly", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
     "stars": 4,
     "rating": 8.4,
     "reviewCount": 1450,
@@ -28523,7 +28711,11 @@
     "id": "sant-josep-1",
     "name": "7Pines Resort Ibiza, part of Destination by Hyatt",
     "destinationSlug": "sant-josep",
-    "categories": ["dog-friendly", "luxury", "beach"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach"
+    ],
     "stars": 5,
     "rating": 9.0,
     "reviewCount": 1400,
@@ -28539,7 +28731,12 @@
     "id": "sant-josep-2",
     "name": "Hard Rock Hotel Ibiza",
     "destinationSlug": "sant-josep",
-    "categories": ["dog-friendly", "luxury", "beach", "family"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach",
+      "family"
+    ],
     "stars": 5,
     "rating": 8.8,
     "reviewCount": 4200,
@@ -28555,7 +28752,12 @@
     "id": "sant-josep-3",
     "name": "Petunia Ibiza, a Beaumier Hotel",
     "destinationSlug": "sant-josep",
-    "categories": ["dog-friendly", "boutique", "luxury", "adults-only"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury",
+      "adults-only"
+    ],
     "stars": 5,
     "rating": 9.1,
     "reviewCount": 820,
@@ -28571,7 +28773,11 @@
     "id": "sant-josep-4",
     "name": "ENDLSS Beach & Disco Hotel Ibiza Adults Only",
     "destinationSlug": "sant-josep",
-    "categories": ["dog-friendly", "beach", "adults-only"],
+    "categories": [
+      "dog-friendly",
+      "beach",
+      "adults-only"
+    ],
     "stars": 4,
     "rating": 8.1,
     "reviewCount": 1100,
@@ -28587,7 +28793,11 @@
     "id": "sant-josep-5",
     "name": "Boutique Hostal La Curandera de Salinas",
     "destinationSlug": "sant-josep",
-    "categories": ["dog-friendly", "boutique", "beach"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "beach"
+    ],
     "stars": 3,
     "rating": 8.6,
     "reviewCount": 540,
@@ -28603,7 +28813,12 @@
     "id": "sant-antoni-1",
     "name": "TRS Ibiza Hotel - Adults Only",
     "destinationSlug": "sant-antoni",
-    "categories": ["dog-friendly", "luxury", "beach", "adults-only"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach",
+      "adults-only"
+    ],
     "stars": 5,
     "rating": 8.7,
     "reviewCount": 1900,
@@ -28619,7 +28834,11 @@
     "id": "sant-antoni-2",
     "name": "The Purple Hotel by Ibiza Feeling - Adults Only",
     "destinationSlug": "sant-antoni",
-    "categories": ["dog-friendly", "boutique", "adults-only"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "adults-only"
+    ],
     "stars": 3,
     "rating": 8.4,
     "reviewCount": 720,
@@ -28635,7 +28854,11 @@
     "id": "sant-antoni-3",
     "name": "Cubanito Ibiza Suites",
     "destinationSlug": "sant-antoni",
-    "categories": ["dog-friendly", "boutique", "beach"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "beach"
+    ],
     "stars": 3,
     "rating": 8.3,
     "reviewCount": 980,
@@ -28651,7 +28874,11 @@
     "id": "sant-antoni-4",
     "name": "Aparthotel Boutique Poniente Playa",
     "destinationSlug": "sant-antoni",
-    "categories": ["dog-friendly", "beach", "family"],
+    "categories": [
+      "dog-friendly",
+      "beach",
+      "family"
+    ],
     "stars": 3,
     "rating": 8.2,
     "reviewCount": 1450,
@@ -28667,7 +28894,10 @@
     "id": "sant-antoni-5",
     "name": "Hostal Sunset Ibiza",
     "destinationSlug": "sant-antoni",
-    "categories": ["dog-friendly", "budget"],
+    "categories": [
+      "dog-friendly",
+      "budget"
+    ],
     "stars": 2,
     "rating": 8.0,
     "reviewCount": 660,
@@ -28683,7 +28913,11 @@
     "id": "santa-eulalia-1",
     "name": "Aguas de Ibiza Grand Luxe Hotel",
     "destinationSlug": "santa-eulalia",
-    "categories": ["dog-friendly", "luxury", "spa"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "spa"
+    ],
     "stars": 5,
     "rating": 9.2,
     "reviewCount": 1700,
@@ -28699,7 +28933,11 @@
     "id": "santa-eulalia-2",
     "name": "BLESS Hotel Ibiza - The Leading Hotels of the World",
     "destinationSlug": "santa-eulalia",
-    "categories": ["dog-friendly", "luxury", "beach"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach"
+    ],
     "stars": 5,
     "rating": 8.9,
     "reviewCount": 1350,
@@ -28715,7 +28953,12 @@
     "id": "santa-eulalia-3",
     "name": "ME Ibiza",
     "destinationSlug": "santa-eulalia",
-    "categories": ["dog-friendly", "luxury", "beach", "adults-only"],
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach",
+      "adults-only"
+    ],
     "stars": 5,
     "rating": 8.8,
     "reviewCount": 1600,
@@ -28731,7 +28974,11 @@
     "id": "santa-eulalia-4",
     "name": "Hotel Riomar, Ibiza, a Tribute Portfolio Hotel",
     "destinationSlug": "santa-eulalia",
-    "categories": ["dog-friendly", "beach", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "beach",
+      "boutique"
+    ],
     "stars": 4,
     "rating": 8.5,
     "reviewCount": 1850,
@@ -28747,7 +28994,11 @@
     "id": "santa-eulalia-5",
     "name": "Nativo Hotel Ibiza",
     "destinationSlug": "santa-eulalia",
-    "categories": ["dog-friendly", "boutique", "adults-only"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "adults-only"
+    ],
     "stars": 4,
     "rating": 8.7,
     "reviewCount": 620,
@@ -28763,7 +29014,11 @@
     "id": "calpe-1",
     "name": "Hotel Bahía Calpe by Pierre & Vacances",
     "destinationSlug": "calpe",
-    "categories": ["dog-friendly", "beach", "family"],
+    "categories": [
+      "dog-friendly",
+      "beach",
+      "family"
+    ],
     "stars": 4,
     "rating": 8.6,
     "reviewCount": 2100,
@@ -28779,7 +29034,11 @@
     "id": "calpe-2",
     "name": "The Cookbook Gastro Boutique Hotel & SPA",
     "destinationSlug": "calpe",
-    "categories": ["dog-friendly", "boutique", "spa"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "spa"
+    ],
     "stars": 4,
     "rating": 8.4,
     "reviewCount": 880,
@@ -28795,7 +29054,12 @@
     "id": "calpe-3",
     "name": "Hotel Apartamentos Pueblo Mar",
     "destinationSlug": "calpe",
-    "categories": ["dog-friendly", "beach", "family", "budget"],
+    "categories": [
+      "dog-friendly",
+      "beach",
+      "family",
+      "budget"
+    ],
     "stars": 3,
     "rating": 8.2,
     "reviewCount": 1300,
@@ -28811,7 +29075,11 @@
     "id": "calpe-4",
     "name": "Villa Marisol Calpe",
     "destinationSlug": "calpe",
-    "categories": ["dog-friendly", "villa", "family"],
+    "categories": [
+      "dog-friendly",
+      "villa",
+      "family"
+    ],
     "stars": 4,
     "rating": 9.0,
     "reviewCount": 95,
@@ -28827,7 +29095,11 @@
     "id": "calpe-5",
     "name": "Villa Mila 10 - Plusholidays",
     "destinationSlug": "calpe",
-    "categories": ["dog-friendly", "villa", "family"],
+    "categories": [
+      "dog-friendly",
+      "villa",
+      "family"
+    ],
     "stars": 4,
     "rating": 8.9,
     "reviewCount": 60,
@@ -28843,7 +29115,10 @@
     "id": "denia-1",
     "name": "Hotel MR Costa Blanca",
     "destinationSlug": "denia",
-    "categories": ["dog-friendly", "beach"],
+    "categories": [
+      "dog-friendly",
+      "beach"
+    ],
     "stars": 3,
     "rating": 8.3,
     "reviewCount": 1100,
@@ -28859,7 +29134,11 @@
     "id": "denia-2",
     "name": "Hotel Buenavista Denia - Adults Only",
     "destinationSlug": "denia",
-    "categories": ["dog-friendly", "boutique", "adults-only"],
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "adults-only"
+    ],
     "stars": 3,
     "rating": 8.1,
     "reviewCount": 540,
@@ -28875,7 +29154,10 @@
     "id": "denia-3",
     "name": "Art Boutique Hotel Chamarel",
     "destinationSlug": "denia",
-    "categories": ["dog-friendly", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
     "stars": 4,
     "rating": 9.0,
     "reviewCount": 480,
@@ -28891,7 +29173,11 @@
     "id": "denia-4",
     "name": "Noguera Mar Hotel",
     "destinationSlug": "denia",
-    "categories": ["dog-friendly", "beach", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "beach",
+      "boutique"
+    ],
     "stars": 3,
     "rating": 8.5,
     "reviewCount": 720,
@@ -28907,7 +29193,10 @@
     "id": "denia-5",
     "name": "Room Boutique 32",
     "destinationSlug": "denia",
-    "categories": ["dog-friendly", "boutique"],
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
     "stars": 3,
     "rating": 9.0,
     "reviewCount": 210,
@@ -28918,5 +29207,499 @@
     "petPolicy": "Room Boutique 32 welcomes dogs of any size at no additional fee. Cats are also accepted. The guesthouse is set in Dénia old town, 11 minutes' walk from Dénia Castle and 0.8 miles from the bus station. Please confirm with the property when booking.",
     "address": "Calle Loreto 32, 03700 Dénia",
     "neighborhood": "Dénia old town"
+  },
+  {
+    "id": "piran-1",
+    "name": "Hotel Piran",
+    "destinationSlug": "piran",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.0,
+    "reviewCount": 3000,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/piran.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Piran welcomes pets on request for an additional fee of EUR 20 per pet per night. Up to 2 dogs of any size allowed per room. Pet basket and bowls provided, and dogs may join owners at breakfast. Please confirm with the property when booking.",
+    "address": "Stjenkova ulica 1, 6330 Piran",
+    "neighborhood": "Piran waterfront"
+  },
+  {
+    "id": "piran-2",
+    "name": "Art Hotel Tartini",
+    "destinationSlug": "piran",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 1500,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/tartini.html",
+    "petFee": 25,
+    "petPolicy": "Art Hotel Tartini welcomes dogs for EUR 25 per night and other small pets (cats, rabbits) for EUR 15 per night. Bowls, pet pillow and treats provided. The hotel sits directly on Tartini Square in the historic centre. Please confirm with the property when booking.",
+    "address": "Tartinijev trg 15, 6330 Piran",
+    "neighborhood": "Tartini Square"
+  },
+  {
+    "id": "piran-3",
+    "name": "Boutique Hotel Portorose",
+    "destinationSlug": "piran",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 900,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/marita-d-o-o.html",
+    "petFee": 20,
+    "petPolicy": "Boutique Hotel Portorose welcomes both dogs and cats of any size in designated rooms for an additional fee of approximately EUR 20 per pet per night. Service animals stay free. Food and water bowls available. Please confirm with the property when booking.",
+    "address": "Obala 8, 6320 Portoroz",
+    "neighborhood": "Portoroz seafront"
+  },
+  {
+    "id": "piran-4",
+    "name": "Hotel Histrion",
+    "destinationSlug": "piran",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4500,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/histrion.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Histrion welcomes dogs for a surcharge of EUR 25 per day. A dog bed and bowl are provided during the stay. The hotel features an on-site water park, indoor and outdoor pools and a spa. Please confirm with the property when booking.",
+    "address": "Obala 33, 6320 Portoroz",
+    "neighborhood": "Portoroz / St. Bernardin Resort"
+  },
+  {
+    "id": "piran-5",
+    "name": "Apartments Lavanda Fiesa",
+    "destinationSlug": "piran",
+    "categories": [
+      "dog-friendly",
+      "apartment"
+    ],
+    "stars": 3,
+    "rating": 9.2,
+    "reviewCount": 220,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/apartments-lavanda-fiesa.html",
+    "petFee": 0,
+    "petPolicy": "Apartments Lavanda Fiesa accept pets on request, charges may apply. Beachfront property 2 minutes' walk from Fiesa Beach and 1 km from Tartini Square, ideal for travellers seeking a quiet base outside the Piran old town with private parking. Please confirm with the property when booking.",
+    "address": "Fiesa 51A, 6330 Piran",
+    "neighborhood": "Fiesa Bay"
+  },
+  {
+    "id": "hvar-1",
+    "name": "Maslina Resort",
+    "destinationSlug": "hvar",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 280,
+    "priceFrom": 480,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/maslina-resort.html",
+    "petFee": 0,
+    "petPolicy": "Maslina Resort welcomes pets of any size on request, an additional fee applies (please confirm at booking). Luxury family-oriented resort in Maslinica Bay on the north side of Hvar island, reached via ferry from Split. Please confirm with the property when booking.",
+    "address": "Uvala Maslinica 11, 21460 Stari Grad",
+    "neighborhood": "Maslinica Bay, Stari Grad"
+  },
+  {
+    "id": "hvar-2",
+    "name": "Heritage Hotel Park Hvar",
+    "destinationSlug": "hvar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 600,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/heritage-park-hvar.html",
+    "petFee": 15,
+    "petPolicy": "Heritage Hotel Park Hvar allows two pets of any size for EUR 15 per pet per night. Service animals stay free. The hotel features a garden, terrace, restaurant and bar, around 600 metres from Beach Bonj. Please confirm with the property when booking.",
+    "address": "Bankete 11, 21450 Hvar",
+    "neighborhood": "Hvar town centre"
+  },
+  {
+    "id": "hvar-3",
+    "name": "Hotel Villa Nora",
+    "destinationSlug": "hvar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 250,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/villa-nora-hvar.html",
+    "petFee": 16,
+    "petPolicy": "Hotel Villa Nora accepts dogs and cats for a pet fee (approximately EUR 16 per pet per night). Service animals stay free. The boutique hotel sits in the city centre, next to the main square and a 2-minute walk from the harbour and the bus station. Please confirm with the property when booking.",
+    "address": "Ulica Petra Hektorovica 8, 21450 Hvar",
+    "neighborhood": "Hvar old town"
+  },
+  {
+    "id": "hvar-4",
+    "name": "Riva Marina Hvar Hotel",
+    "destinationSlug": "hvar",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 850,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/riva-hvar-yacht-harbour-hotel.html",
+    "petFee": 40,
+    "petPolicy": "Riva Marina Hvar allows pets in specific rooms only (request when booking). Pet fee EUR 40 per pet plus a refundable EUR 100 deposit per stay. The 4-star design hotel sits directly on the Hvar harbour. Please confirm with the property when booking.",
+    "address": "Obala Riva 27, 21450 Hvar",
+    "neighborhood": "Hvar harbour"
+  },
+  {
+    "id": "hvar-5",
+    "name": "Amfora Hvar Grand Beach Resort",
+    "destinationSlug": "hvar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 2200,
+    "priceFrom": 250,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/amfora-hvar-grand-beach-resort.html",
+    "petFee": 40,
+    "petPolicy": "Amfora Hvar Grand Beach Resort allows up to two pets weighing up to 30 kg for approximately EUR 40 per pet per night (formerly HRK 300). Dogs and cats welcome. Large pool complex with sea views, 10 minutes' walk from Hvar town. Please confirm with the property when booking.",
+    "address": "Ulica biskupa Jurja Dubokovica 5, 21450 Hvar",
+    "neighborhood": "Hvar West (Bonj)"
+  },
+  {
+    "id": "pula-1",
+    "name": "Boutique Hotel Valsabbion",
+    "destinationSlug": "pula",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 350,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/valsabbion.html",
+    "petFee": 0,
+    "petPolicy": "Boutique Hotel Valsabbion welcomes pets, charges may apply (please confirm at booking). The boutique hotel sits directly above a small bay near Pula city centre with stunning Adriatic views, outdoor pool and spa. Please confirm with the property when booking.",
+    "address": "Pjescana uvala IX/26, 52100 Pula",
+    "neighborhood": "Pjescana Uvala"
+  },
+  {
+    "id": "pula-2",
+    "name": "Splendid Resort",
+    "destinationSlug": "pula",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1800,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/splendid-resort.html",
+    "petFee": 10,
+    "petPolicy": "Splendid Resort accepts pets for an additional fee of EUR 10 per pet per day. Beachfront resort on the Verudela peninsula about 4 km from Pula city centre, with pools and direct sea access. Please confirm with the property when booking.",
+    "address": "Verudella 6B, 52100 Pula",
+    "neighborhood": "Verudela"
+  },
+  {
+    "id": "pula-3",
+    "name": "Park Plaza Verudela Pula",
+    "destinationSlug": "pula",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "apartment",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2100,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/park-plaza-verudela-pula.html",
+    "petFee": 15,
+    "petPolicy": "Park Plaza Verudela Pula allows up to two pets weighing up to 10 kg for EUR 15 per pet per night. Both dogs and cats welcome. Food and water bowls provided in the room. Self-catering apartments on the Verudela peninsula. Please confirm with the property when booking.",
+    "address": "Verudela 1, 52100 Pula",
+    "neighborhood": "Verudela"
+  },
+  {
+    "id": "pula-4",
+    "name": "Arena Verudela Beach",
+    "destinationSlug": "pula",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "apartment",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1500,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/verudela-beach-and-villa-resort.html",
+    "petFee": 15,
+    "petPolicy": "Arena Verudela Beach welcomes pets in designated apartments, with a limit of 1 per room and maximum weight around 10 kg per pet. Charges apply (please confirm at booking). Beachfront resort with sea views on the Verudela peninsula. Please confirm with the property when booking.",
+    "address": "Verudela 4, 52100 Pula",
+    "neighborhood": "Verudela"
+  },
+  {
+    "id": "pula-5",
+    "name": "Hotel Galija",
+    "destinationSlug": "pula",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 420,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/galija.html",
+    "petFee": 20,
+    "petPolicy": "Family-run Hotel Galija allows pets for an extra charge of approximately EUR 20 per pet per night (formerly HRK 150). Pet-friendly rooms must be requested via the property. Centrally located, a 3-minute walk from the Gate of Hercules and 6 minutes from Pula Arena. Please confirm with the property when booking.",
+    "address": "Epulonova ul. 3, 52100 Pula",
+    "neighborhood": "Pula old town"
+  },
+  {
+    "id": "santorini-1",
+    "name": "Mill Houses New Elegant Suites",
+    "destinationSlug": "santorini",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 480,
+    "priceFrom": 290,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/mill-houses.html",
+    "petFee": 0,
+    "petPolicy": "Mill Houses welcomes one pet weighing up to 15 kg per room at no additional fee. Pets are not allowed at the swimming pool. Service animals are exempt from any restrictions. All-white Cycladic suites in Firostefani with caldera views, 600 m from Fira centre. Please confirm with the property when booking.",
+    "address": "Firostefani, 84700 Santorini",
+    "neighborhood": "Firostefani caldera"
+  },
+  {
+    "id": "santorini-2",
+    "name": "Villa Renos Hotel",
+    "destinationSlug": "santorini",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 320,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/villa-renos.html",
+    "petFee": 0,
+    "petPolicy": "Villa Renos accepts dogs on request, charges and size limits to be confirmed with the property. Cycladic-style hotel on the Santorini caldera with rooms offering panoramic views of the Aegean Sea and the volcano. Please confirm with the property when booking.",
+    "address": "Fira, 84700 Santorini",
+    "neighborhood": "Fira caldera"
+  },
+  {
+    "id": "santorini-3",
+    "name": "Coco-Mat Hotel Santorini",
+    "destinationSlug": "santorini",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 330,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/coco-mat-hotel-santorini.html",
+    "petFee": 0,
+    "petPolicy": "Coco-Mat Hotel Santorini welcomes pets on request, charges may apply. Located in Akrotiri, 400 m from Kokkinopetra Beach, with eco-friendly residences and the renowned Coco-Mat bedding. Please confirm with the property when booking.",
+    "address": "Akrotiri, 84700 Santorini",
+    "neighborhood": "Akrotiri"
+  },
+  {
+    "id": "santorini-4",
+    "name": "Blue Waves Suites & Apartments",
+    "destinationSlug": "santorini",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 540,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/blue-waves-kamari.html",
+    "petFee": 0,
+    "petPolicy": "Blue Waves accepts pets on request with no extra charges. Located just 30 metres from Kamari Beach with a pool, sun terrace and poolside snack bar. Each apartment has a kitchenette. Please confirm with the property when booking.",
+    "address": "Kamari Beach, 84700 Santorini",
+    "neighborhood": "Kamari"
+  },
+  {
+    "id": "santorini-5",
+    "name": "Roula Villa Studios & Apartments",
+    "destinationSlug": "santorini",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 410,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/roulla-villa.html",
+    "petFee": 0,
+    "petPolicy": "Roula Villa welcomes pets free of charge. Family-run property 100 m from the famous black sandy beach of Perissa, with outdoor pool, hot tub and weekly Greek theme nights. Each room has a private bathroom and fully equipped kitchen. Please confirm with the property when booking.",
+    "address": "Main Street, Perissa, 84703 Santorini",
+    "neighborhood": "Perissa"
+  },
+  {
+    "id": "corfu-1",
+    "name": "Domes of Corfu, Autograph Collection",
+    "destinationSlug": "corfu",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "family"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 950,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/domes-of-corfu-glyfada.html",
+    "petFee": 100,
+    "petPolicy": "Domes of Corfu allows one pet per room (dog or cat) weighing up to 15 kg, with a non-refundable pet fee of EUR 100 per stay. Pet-friendly amenities including food and water bowls provided. Beachfront on Glyfada beach with crystal-clear waters and Ionian Sea views. Please confirm with the property when booking.",
+    "address": "Glyfada Beach, 49100 Corfu",
+    "neighborhood": "Glyfada Beach"
+  },
+  {
+    "id": "corfu-2",
+    "name": "Dreams Corfu Resort & Spa",
+    "destinationSlug": "corfu",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "family"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 1400,
+    "priceFrom": 250,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/dreamscorfuresortspa.html",
+    "petFee": 50,
+    "petPolicy": "Dreams Corfu Resort allows dogs weighing less than 10 kg for an additional EUR 50 per night. Dogs may only stay in certain room categories. Pet-friendly rooms come with dog beds, walking areas and welcome sets with toys, treats and hygiene products. Please confirm with the property when booking.",
+    "address": "Gouvia, 49100 Corfu",
+    "neighborhood": "Gouvia (near Dassia)"
+  },
+  {
+    "id": "corfu-3",
+    "name": "Divani Corfu Palace",
+    "destinationSlug": "corfu",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 1100,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/divani-corfu-palace.html",
+    "petFee": 40,
+    "petPolicy": "Divani Corfu Palace welcomes pets including dogs for a fee of EUR 40 per night. Charges may apply per pet. The 4-star property is near Corfu Town in the Kanoni area, with pool and easy access to the historic centre. Please confirm with the property when booking.",
+    "address": "20 Nafsikas Street, Kanoni, 49100 Corfu",
+    "neighborhood": "Kanoni"
+  },
+  {
+    "id": "corfu-4",
+    "name": "Nido, Mar-Bella Collection",
+    "destinationSlug": "corfu",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "adults-only"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 480,
+    "priceFrom": 380,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/marbella-nido-suite-amp-villas.html",
+    "petFee": 0,
+    "petPolicy": "Nido, Mar-Bella Collection accepts pets up to 8 kg, provided the pet is fully trained and appropriately restrained by the guest. Adults-only Small Luxury Hotels of the World member in Agios Ioannis Peristeron with sea-view suites and villas. Please confirm with the property when booking.",
+    "address": "Agios Ioannis Peristeron, 49084 Corfu",
+    "neighborhood": "Agios Ioannis Peristeron"
+  },
+  {
+    "id": "corfu-5",
+    "name": "Grecotel Corfu Imperial",
+    "destinationSlug": "corfu",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "family"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1300,
+    "priceFrom": 340,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/corfu-imperial.html",
+    "petFee": 0,
+    "petPolicy": "Grecotel Corfu Imperial allows dogs up to 8 kg in selected room categories (interconnecting rooms and Palazzo Imperiale suites), restrictions apply. Reservations must be informed at booking. Guide dogs permitted in all hotel areas. Luxury private-peninsula resort near Komeno. Please confirm with the property when booking.",
+    "address": "Komeno Bay, 49083 Corfu",
+    "neighborhood": "Komeno Bay"
   }
 ]

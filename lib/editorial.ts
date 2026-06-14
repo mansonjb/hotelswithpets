@@ -531,6 +531,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the First Cliff Walk at sunrise with the Eiger north face glowing orange, the 1h hike to the postcard Bachalpsee at 2265 m, and the Pfingstegg cable car to the Bäregg glacier viewpoint`,
       area: `Grindelwald Dorf along the Hauptstrasse under the Eiger, Grindelwald Grund at the Eiger Express + Männlichenbahn terminal, and the alpine plateaus of First, Männlichen and Pfingstegg`,
     },
+    groningen: {
+      personality: `the unofficial capital of the Dutch north (235,000), a student city of 60,000+ undergraduates around the 1614 Rijksuniversiteit, with the 96 m Martinitoren (tallest church tower in the Dutch north, 261 steps) on the Grote Markt, the Vismarkt fish-market square with the 1865 Korenbeurs, the Hoge der A canal quays and the Akerk, the 1830 Noorderplantsoen central park (large off-leash dog meadow, Noorderzon arts festival in August) and the 140-hectare Stadspark south of the centre, 2h05 from Amsterdam Centraal by NS Intercity, and the gateway to the Wadden Sea UNESCO coast (Schiermonnikoog island ferry 1h15 by Qbuzz bus 163 + Wagenborg crossing)`,
+      highlight: `the Martinikerkhof and Vismarkt squares under the 96 m Martinitoren, the Noorderplantsoen off-leash dog meadow, and the Schiermonnikoog Wadden island dog beach reached in 1h15 by Qbuzz bus + Wagenborg ferry`,
+      area: `the Centrum inside the diepenring around the Grote Markt and the Hoge der A, the Noorderplantsoen and the Centrum-Noord, and the Reitdiep canal walk north out of town`,
+    },
     guimaraes: {
       personality: `the UNESCO-listed birthplace of Portugal, a fully pedestrianised granite old town wrapped around the 10th-century Castelo where the first King of Portugal was born, the 15th-century Paço dos Duques palace, the iconic medieval Largo da Oliveira, and the 617 m Penha mountain reached by Portugal's longest cable car that welcomes leashed dogs in every cabin`,
       highlight: `the Castelo and Paço dos Duques on the castle hill, the Largo da Oliveira with the Gothic Padrão do Salado, and the Penha mountain trails reached by the dog-friendly Teleférico da Penha`,
@@ -1809,6 +1814,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le First Cliff Walk au lever du soleil avec la face nord de l'Eiger devenant orange, la randonnée d'1h jusqu'au Bachalpsee à 2 265 m, et la télécabine du Pfingstegg jusqu'au belvédère glaciaire de Bäregg`,
       area: `Grindelwald Dorf le long de la Hauptstrasse sous l'Eiger, Grindelwald Grund au terminal Eiger Express + Männlichenbahn, et les plateaux alpins du First, du Männlichen et du Pfingstegg`,
     },
+    groningen: {
+      personality: `la capitale officieuse du nord néerlandais (235 000 habitants), ville étudiante de 60 000+ inscrits autour de la Rijksuniversiteit de 1614, avec la Martinitoren de 96 m (plus haute tour d'église du nord néerlandais, 261 marches) sur le Grote Markt, le Vismarkt avec la bourse au blé Korenbeurs de 1865, les quais du canal Hoge der A et l'Akerk, le parc central Noorderplantsoen de 1830 (grande prairie chiens sans laisse, festival des arts Noorderzon en août) et le Stadspark de 140 hectares au sud du centre, à 2h05 d'Amsterdam Centraal en IC NS, et porte d'entrée vers la côte UNESCO de la mer des Wadden (ferry pour l'île de Schiermonnikoog 1h15 en bus Qbuzz 163 + traversée Wagenborg)`,
+      highlight: `les places Martinikerkhof et Vismarkt sous la Martinitoren de 96 m, la prairie chiens sans laisse du Noorderplantsoen, et la plage chiens de l'île wadden de Schiermonnikoog accessible en 1h15 en bus Qbuzz + ferry Wagenborg`,
+      area: `le Centrum à l'intérieur du diepenring autour du Grote Markt et du Hoge der A, le Noorderplantsoen et le Centrum-Noord, et la balade canal du Reitdiep qui sort de la ville vers le nord`,
+    },
     guimaraes: {
       personality: `berceau du Portugal classé à l'UNESCO, vieille ville en granit entièrement piétonne enroulée autour du Castelo du Xᵉ siècle où naquit le premier roi du Portugal, du palais Paço dos Duques du XVᵉ siècle, de l'emblématique Largo da Oliveira médiéval, et de la montagne de la Penha à 617 m accessible par le plus long téléphérique du Portugal qui accueille les chiens en laisse dans chaque cabine`,
       highlight: `le Castelo et le Paço dos Duques sur la colline du château, le Largo da Oliveira avec le Padrão do Salado gothique, et les sentiers de la Penha accessibles par le Teleférico da Penha dog-friendly`,
@@ -3086,6 +3096,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el First Cliff Walk al amanecer con la cara norte del Eiger volviéndose naranja, la caminata de 1h hasta el Bachalpsee a 2.265 m, y el telecabina del Pfingstegg hasta el mirador glaciar de Bäregg`,
       area: `Grindelwald Dorf a lo largo de la Hauptstrasse bajo el Eiger, Grindelwald Grund en el terminal Eiger Express + Männlichenbahn, y las mesetas alpinas del First, Männlichen y Pfingstegg`,
     },
+    groningen: {
+      personality: `la capital oficiosa del norte neerlandés (235.000 habitantes), ciudad universitaria de 60.000+ alumnos en torno a la Rijksuniversiteit de 1614, con la Martinitoren de 96 m (la torre de iglesia más alta del norte neerlandés, 261 escalones) sobre el Grote Markt, el Vismarkt con la lonja de grano Korenbeurs de 1865, los muelles del canal Hoge der A y la Akerk, el parque central Noorderplantsoen de 1830 (gran pradera para perros sin correa, festival de artes Noorderzon en agosto) y el Stadspark de 140 hectáreas al sur del centro, a 2h05 de Ámsterdam Centraal en IC de NS, y puerta de entrada a la costa UNESCO del Mar de Frisia (ferry a la isla de Schiermonnikoog 1h15 en autobús Qbuzz 163 + travesía Wagenborg)`,
+      highlight: `las plazas Martinikerkhof y Vismarkt bajo la Martinitoren de 96 m, la pradera para perros sin correa del Noorderplantsoen, y la playa para perros de la isla wadden de Schiermonnikoog accesible en 1h15 en autobús Qbuzz + ferry Wagenborg`,
+      area: `el Centrum dentro del diepenring en torno al Grote Markt y al Hoge der A, el Noorderplantsoen y el Centrum-Noord, y el paseo canal del Reitdiep que sale de la ciudad hacia el norte`,
+    },
     guimaraes: {
       personality: `cuna de Portugal declarada Patrimonio de la UNESCO, casco antiguo de granito enteramente peatonal envuelto en torno al Castelo del siglo X donde nació el primer Rey de Portugal, el palacio Paço dos Duques del siglo XV, el emblemático Largo da Oliveira medieval, y la montaña da Penha de 617 m accesible por el teleférico más largo de Portugal que admite perros con correa en cada cabina`,
       highlight: `el Castelo y el Paço dos Duques en la colina del castillo, el Largo da Oliveira con el Padrão do Salado gótico, y los senderos da Penha accesibles por el Teleférico da Penha pet-friendly`,
@@ -4362,6 +4377,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a aldeia suíça ao pé da face norte do Eiger, no coração da Jungfrau Region, 4.000 habitantes a 1.034 m onde o First Cliff Walk debruça-se sobre o vazio a 2.168 m, o Männlichenbahn (teleférico mais longo da Europa) sobe a 2.342 m, o Eiger Express tricabo a partir do Grindelwald Terminal chega ao Eigergletscher em 15 minutos, e a linha de urgência 24/7 da Tierklinik Interlaken cobre todo o vale`,
       highlight: `o First Cliff Walk ao nascer do sol com a face norte do Eiger a tornar-se cor de laranja, a caminhada de 1h até ao Bachalpsee a 2.265 m, e o telecabina do Pfingstegg até ao miradouro glaciar de Bäregg`,
       area: `Grindelwald Dorf ao longo da Hauptstrasse sob o Eiger, Grindelwald Grund no terminal Eiger Express + Männlichenbahn, e os planaltos alpinos do First, Männlichen e Pfingstegg`,
+    },
+    groningen: {
+      personality: `a capital oficiosa do norte neerlandês (235 000 habitantes), cidade universitária de 60 000+ alunos em torno da Rijksuniversiteit de 1614, com a Martinitoren de 96 m (a mais alta torre de igreja do norte neerlandês, 261 degraus) sobre o Grote Markt, o Vismarkt com a bolsa de cereal Korenbeurs de 1865, os cais do canal Hoge der A e a Akerk, o parque central Noorderplantsoen de 1830 (grande prado para cães sem trela, festival de artes Noorderzon em agosto) e o Stadspark de 140 hectares a sul do centro, a 2h05 de Amesterdão Centraal em IC da NS, e porta para a costa UNESCO do Mar de Wadden (ferry para a ilha de Schiermonnikoog 1h15 em autocarro Qbuzz 163 + travessia Wagenborg)`,
+      highlight: `as praças Martinikerkhof e Vismarkt sob a Martinitoren de 96 m, o prado para cães sem trela do Noorderplantsoen, e a praia para cães da ilha wadden de Schiermonnikoog acessível em 1h15 de autocarro Qbuzz + ferry Wagenborg`,
+      area: `o Centrum dentro do diepenring em torno do Grote Markt e do Hoge der A, o Noorderplantsoen e o Centrum-Noord, e o passeio canal do Reitdiep que sai da cidade para norte`,
     },
     guimaraes: {
       personality: `berço de Portugal classificado pela UNESCO, cidade velha de granito inteiramente pedonal enrolada em torno do Castelo do século X onde nasceu o primeiro Rei de Portugal, o paço Paço dos Duques do século XV, o emblemático Largo da Oliveira medieval, e a montanha da Penha de 617 m acessível pelo teleférico mais longo de Portugal que aceita cães com trela em cada cabine`,

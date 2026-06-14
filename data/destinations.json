@@ -7690,6 +7690,82 @@
     "tiqetsId": "60360"
   },
   {
+    "slug": "groningen",
+    "name": "Groningen",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "flag": "🇳🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/groningen.jpg",
+    "intro": "The unofficial capital of the Dutch north (235,000), a student city of 60,000+ undergraduates around the 1614 Rijksuniversiteit, with the 96 m Martinitoren (tallest church tower in the Dutch north, 261 steps) and the Vismarkt anchoring a compact, walkable medieval centre. Gateway to the Wadden Sea UNESCO coast and the Schiermonnikoog island ferry (1h15 by Qbuzz bus 163 + Wagenborg ferry), with the Noorderplantsoen central park (off-leash dog meadow since 1830) and the 140-hectare Stadspark. 2h05 from Amsterdam Centraal by NS Intercity. Cycling capital of the Netherlands with 50%+ trips by bike.",
+    "lat": 53.2194,
+    "lng": 6.5665,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold, wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold, breezy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild, breezy",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm, long days",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm peak",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm, Noorderzon festival",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Crisp autumn, migration",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool, breezy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold, wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "GRQ",
+    "tiqetsId": "60303"
+  },
+  {
     "slug": "grindelwald",
     "name": "Grindelwald",
     "country": "Switzerland",

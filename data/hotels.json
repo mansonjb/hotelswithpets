@@ -29701,5 +29701,485 @@
     "petPolicy": "Grecotel Corfu Imperial allows dogs up to 8 kg in selected room categories (interconnecting rooms and Palazzo Imperiale suites), restrictions apply. Reservations must be informed at booking. Guide dogs permitted in all hotel areas. Luxury private-peninsula resort near Komeno. Please confirm with the property when booking.",
     "address": "Komeno Bay, 49083 Corfu",
     "neighborhood": "Komeno Bay"
+  },
+  {
+    "id": "texel-1",
+    "name": "Van der Valk Texel - De Koog",
+    "destinationSlug": "texel",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3100,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/de-pelikaan-texel.html",
+    "petFee": 0,
+    "petPolicy": "Van der Valk Texel - De Koog welcomes dogs in a limited number of designated rooms, with a maximum of one dog per room. Reservation must be made in advance by contacting reception so a suitable room can be allocated. 4-star hotel on the edge of the dunes near De Koog beach, with pool and family facilities. Please confirm with the property when booking.",
+    "address": "Pelikaanweg 18, 1796 NP De Koog",
+    "neighborhood": "De Koog"
+  },
+  {
+    "id": "texel-2",
+    "name": "DuinHotel Texel",
+    "destinationSlug": "texel",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 480,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/alpha-texel.html",
+    "petFee": 0,
+    "petPolicy": "DuinHotel Texel welcomes dogs on request. Dogs are accepted only in ground-floor rooms and are not permitted in the breakfast room. Small 12-room property on the edge of the forest, a 10-minute walk from De Koog beach and village, with free WiFi and bicycles available on site. Please confirm with the property when booking.",
+    "address": "Nikadel 96, 1796 BJ De Koog",
+    "neighborhood": "De Koog"
+  },
+  {
+    "id": "texel-3",
+    "name": "Hotel-Restaurant Loodsmans Welvaren",
+    "destinationSlug": "texel",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 520,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/loodsmans-welvaren.html",
+    "petFee": 25,
+    "petPolicy": "Hotel-Restaurant Loodsmans Welvaren accepts dogs only in the Deluxe room for EUR 25 per dog per night (maximum 2 dogs, up to 30 kg each; EUR 45 per night for 2 dogs). 200-year-old hotel in the village of Den Hoorn, a 15-minute walk from the edge of Duinen van Texel National Park, with restaurant and bicycle rental. Please confirm with the property when booking.",
+    "address": "Herenstraat 14, 1797 AJ Den Hoorn",
+    "neighborhood": "Den Hoorn"
+  },
+  {
+    "id": "texel-4",
+    "name": "Villapark De Koog",
+    "destinationSlug": "texel",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 210,
+    "priceFrom": 200,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/villapark-de-koog.html",
+    "petFee": 0,
+    "petPolicy": "Villapark De Koog welcomes dogs in all of its luxury villas, on request and with a surcharge. Dog treats and waste bags are provided throughout the property. Luxury 4-12 person villas with sauna, garden and terrace, a 15-minute walk from De Koog beach and close to Dunes of Texel National Park. Please confirm with the property when booking.",
+    "address": "Ruijslaan 84, 1796 AD De Koog",
+    "neighborhood": "De Koog"
+  },
+  {
+    "id": "texel-5",
+    "name": "Hotel Den Burg",
+    "destinationSlug": "texel",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 650,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/brasserie-den-burg.html",
+    "petFee": 12.5,
+    "petPolicy": "Hotel Den Burg welcomes dogs on request for EUR 12.50 per day, with a lovely garden open to both dogs and their humans. Centrally located on the main square in Den Burg, the capital of Texel, with brasserie and easy access to shops and restaurants. Pet policy has varied across platforms, please confirm with the property when booking.",
+    "address": "Emmalaan 2, 1791 AV Den Burg",
+    "neighborhood": "Den Burg"
+  },
+  {
+    "id": "haarlem-1",
+    "name": "Boutiquehotel Staats",
+    "destinationSlug": "haarlem",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 820,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/boutiquehotel-staats.html",
+    "petFee": 22.5,
+    "petPolicy": "Boutiquehotel Staats welcomes dogs on request for EUR 22.50 per dog per day (maximum 2 dogs per room). A dog bed is provided for four-legged guests. Highly rated boutique hotel in central Haarlem with acclaimed breakfast and design rooms. Please confirm with the property when booking.",
+    "address": "Kruisweg 44, 2011 LE Haarlem",
+    "neighborhood": "Centrum"
+  },
+  {
+    "id": "haarlem-2",
+    "name": "Hotel Lion D'Or",
+    "destinationSlug": "haarlem",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1700,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/gtliondor.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Lion D'Or accepts dogs of any size for an additional fee of EUR 25 per pet per stay (cats not allowed). Haarlem's oldest city hotel, established in 1839, located in the city centre within walking distance of the Market Square and St. Bavo Church, with Nespresso-equipped rooms and bar. Please confirm with the property when booking.",
+    "address": "Kruisweg 34-36, 2011 LC Haarlem",
+    "neighborhood": "Centrum"
+  },
+  {
+    "id": "haarlem-3",
+    "name": "Boutique Hotel & Restaurant Frenchie",
+    "destinationSlug": "haarlem",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "adults-only"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 340,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/frenchie.html",
+    "petFee": 0,
+    "petPolicy": "Boutique Hotel & Restaurant Frenchie welcomes dogs with special attention for canine guests, charges may apply. Smaller breeds are suggested due to space limitations in some areas. Adults-only boutique hotel on Gedempte Oude Gracht in central Haarlem, with French restaurant, cocktail bar and stylish air-conditioned rooms. Please confirm with the property when booking.",
+    "address": "Gedempte Oude Gracht 46, 2011 GS Haarlem",
+    "neighborhood": "Centrum"
+  },
+  {
+    "id": "haarlem-4",
+    "name": "Anegang Boutique Hotel",
+    "destinationSlug": "haarlem",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 260,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/anegang-boutique-appartement-passage.html",
+    "petFee": 0,
+    "petPolicy": "Anegang Boutique Hotel welcomes dogs of any size at no additional fee. Spacious and quiet boutique accommodation in the historic city centre of Haarlem, near Grote Markt and St. Bavo Church. Please confirm with the property when booking.",
+    "address": "Anegang 22, 2011 HZ Haarlem",
+    "neighborhood": "Centrum"
+  },
+  {
+    "id": "haarlem-5",
+    "name": "Relaxed Slapen",
+    "destinationSlug": "haarlem",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 180,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/relaxed-slapen.html",
+    "petFee": 15,
+    "petPolicy": "Relaxed Slapen accepts pets of any size for an additional fee of EUR 15 per pet per night. Both dogs and cats are welcome. Small guesthouse in Haarlem with relaxed atmosphere and easy access to the city centre. Please confirm with the property when booking.",
+    "address": "Haarlem",
+    "neighborhood": "Haarlem"
+  },
+  {
+    "id": "chania-1",
+    "name": "Alcanea Boutique Hotel",
+    "destinationSlug": "chania",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 480,
+    "priceFrom": 190,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/alcanea-boutique.html",
+    "petFee": 0,
+    "petPolicy": "Alcanea Boutique Hotel welcomes pets on request, with policies varying by channel (some sources note pets up to 10 kg with an additional charge of EUR 25 per pet per stay). Unique waterfront location in Chania Old Town, set in a historic building with wine bar overlooking the Old Venetian Port and Lighthouse. Please confirm with the property when booking.",
+    "address": "Angelou 2, Old Venetian Harbour, 73100 Chania",
+    "neighborhood": "Old Town"
+  },
+  {
+    "id": "chania-2",
+    "name": "Pandora Suites",
+    "destinationSlug": "chania",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 620,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/suites-pandora.html",
+    "petFee": 0,
+    "petPolicy": "Pandora Suites welcomes dogs of any size at no additional fee. Set in a well-preserved 17th-century building in Chania's Old Town with a rooftop terrace overlooking the Venetian Harbour and Lighthouse. Suites have kitchenettes and marble bathrooms. Excellent location score on Booking.com. Please confirm with the property when booking.",
+    "address": "Lithinon 27-29, Old Town, 73100 Chania",
+    "neighborhood": "Old Town"
+  },
+  {
+    "id": "chania-3",
+    "name": "Mosaic",
+    "destinationSlug": "chania",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 410,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/euphoria-city-apartments.html",
+    "petFee": 0,
+    "petPolicy": "Mosaic welcomes pets on request, with food and water bowls provided in the room; charges may apply. Centrally located property in Chania Town, approximately 15 minutes walking from the Old Town and Venetian Harbour, with air-conditioned rooms and free WiFi. Please confirm with the property when booking.",
+    "address": "Chania Town, 73100 Chania",
+    "neighborhood": "Chania Town"
+  },
+  {
+    "id": "chania-4",
+    "name": "Domes Noruz Chania, Autograph Collection",
+    "destinationSlug": "chania",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "adults-only"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 720,
+    "priceFrom": 340,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/domes-noruz-chania.html",
+    "petFee": 100,
+    "petPolicy": "Domes Noruz Chania accepts small to medium-sized pets (up to 25 kg) for an additional charge of EUR 100 per accommodation per stay plus a one-time cleaning fee of EUR 100. Bowls, pillow and toys are provided; pets must be well trained and are not allowed in common areas. Pet-sitting and walking available for an extra charge. Adults-only luxury resort in Kato Daratso, west of Chania. Please confirm with the property when booking.",
+    "address": "Kato Daratso, 73100 Chania",
+    "neighborhood": "Kato Daratso"
+  },
+  {
+    "id": "chania-5",
+    "name": "Hanim Boutique Hotel",
+    "destinationSlug": "chania",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 380,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/hanim-lounge-and-studios.html",
+    "petFee": 35,
+    "petPolicy": "Hanim Boutique Hotel (formerly Hanim Lounge & Studios) accepts dogs for EUR 35 per pet per night plus a one-time cleaning fee of EUR 50. Service animals are exempt from fees. Family-run boutique property close to Nea Chora Beach and Chania Archaeological Museum, with coffee machine in every room. Please confirm with the property when booking as policies vary across platforms.",
+    "address": "Nea Chora, 73100 Chania",
+    "neighborhood": "Nea Chora"
+  },
+  {
+    "id": "rovinj-1",
+    "name": "Grand Park Hotel Rovinj by Maistra Collection",
+    "destinationSlug": "rovinj",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1400,
+    "priceFrom": 380,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/grand-park-rovinj.html",
+    "petFee": 40,
+    "petPolicy": "Grand Park Hotel Rovinj by Maistra Collection welcomes dogs of any size in designated rooms for EUR 40 per pet per night. Both dogs and cats welcome; food and water bowls provided. Pets not permitted in bar, restaurant or pool area. Flagship 5-star property on the Adriatic coast with wellness and spa centre, outdoor pool and marina next to Mulini Beach. Please confirm with the property when booking.",
+    "address": "Smareglijeva ulica 1A, 52210 Rovinj",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "rovinj-2",
+    "name": "Lone Hotel by Maistra Collection",
+    "destinationSlug": "rovinj",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "design"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2100,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/lone.html",
+    "petFee": 40,
+    "petPolicy": "Lone Hotel by Maistra Collection welcomes most pets in designated rooms for approximately EUR 40 per pet per night. Dog bed, food bowl, complementary Pedigree meal, waste bags and 'pet alone in room' door sign provided. Dog beach right below the hotel and walking trails in Golden Cape Natural Park. Architectural design hotel a 15-minute walk from central Rovinj. Please confirm with the property when booking.",
+    "address": "Luje Adamovica 31, 52210 Rovinj",
+    "neighborhood": "Zlatni Rt"
+  },
+  {
+    "id": "rovinj-3",
+    "name": "Monte Mulini Adults Exclusive Hotel by Maistra Collection",
+    "destinationSlug": "rovinj",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "adults-only"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1300,
+    "priceFrom": 420,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/monte-mulini.html",
+    "petFee": 30,
+    "petPolicy": "Monte Mulini Adults Exclusive Hotel by Maistra Collection welcomes one pet of any size for an additional fee (approximately HRK 230 / EUR 30 per night). Both dogs and cats are welcome. Adults-only 5-star hotel close to Rovinj Marina, surrounded by a quiet park and right next to the beach, ideal for walks and bike rides. Please confirm with the property when booking.",
+    "address": "Ulica A. Smareglia, 52210 Rovinj",
+    "neighborhood": "Mulini Bay"
+  },
+  {
+    "id": "rovinj-4",
+    "name": "Maistra Select Amarin Resort",
+    "destinationSlug": "rovinj",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2400,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/tourist-settlement-amarin-rovinj.html",
+    "petFee": 10,
+    "petPolicy": "Maistra Select Amarin Resort welcomes dogs of any size in designated rooms for an additional fee (approximately HRK 75 / EUR 10 per pet per night). Family resort a few minutes' drive from central Rovinj with two outdoor pools and a pebble, rocky and paved beach. Please confirm with the property when booking as pet acceptance has varied across stays.",
+    "address": "Val de Lesso, 52210 Rovinj",
+    "neighborhood": "Amarin"
+  },
+  {
+    "id": "rovinj-5",
+    "name": "Maistra Select Villas Rubin Resort",
+    "destinationSlug": "rovinj",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1100,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/villas-rubin.html",
+    "petFee": 10,
+    "petPolicy": "Maistra Select Villas Rubin Resort welcomes dogs in designated villas and rooms for an additional fee. Family-friendly resort south of Rovinj in pine forest by the sea, with multiple pools, tennis courts and direct access to a pebble beach with dog-friendly sections. Please confirm with the property when booking.",
+    "address": "Villas Rubin 1, 52210 Rovinj",
+    "neighborhood": "Villas Rubin"
+  },
+  {
+    "id": "cadaques-1",
+    "name": "Hotel Calina",
+    "destinationSlug": "cadaques",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 620,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/calina.html",
+    "petFee": 18,
+    "petPolicy": "Hotel Calina welcomes up to 4 pets of any size in designated rooms for EUR 18 per pet per night. Family-run hotel in Port Lligat Bay, 50 metres from Salvador Dalí's House-Museum, with two outdoor swimming pools with sea views, free WiFi and Catalan restaurant. Please confirm with the property when booking.",
+    "address": "Platja Portlligat 6, 17488 Cadaqués",
+    "neighborhood": "Port Lligat"
+  },
+  {
+    "id": "cadaques-2",
+    "name": "Boutique Hotel Villa Salvador - Adults Only by Fimedhotels",
+    "destinationSlug": "cadaques",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "adults-only"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 280,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/boutique-villa-salvador.html",
+    "petFee": 20,
+    "petPolicy": "Boutique Hotel Villa Salvador - Adults Only by Fimedhotels allows one dog up to 20 kg per room for EUR 20 per pet per night. Food and water bowls provided in the room. Adults-only 4-star boutique hotel with saltwater pool, sun terrace and lush garden, set just outside the centre of Cadaqués. Please confirm with the property when booking.",
+    "address": "Carrer del Pianc, 17488 Cadaqués",
+    "neighborhood": "Cadaqués"
+  },
+  {
+    "id": "cadaques-3",
+    "name": "Hotel Blaumar Cadaqués by Fimedhotels",
+    "destinationSlug": "cadaques",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 540,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/blaumar-cadaqua-c-s.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Blaumar Cadaqués by Fimedhotels accepts dogs up to 20 kg for EUR 20 per pet per night. Cosy hotel with scenic views, rustic décor and traditional Catalan floors, some rooms with balconies, located in Cadaqués close to the seafront. Please confirm with the property when booking as policies have varied across platforms.",
+    "address": "Carrer Massa d'Or 21, 17488 Cadaqués",
+    "neighborhood": "Cadaqués"
+  },
+  {
+    "id": "cadaques-4",
+    "name": "Hostal Cristina",
+    "destinationSlug": "cadaques",
+    "categories": [
+      "dog-friendly",
+      "budget"
+    ],
+    "stars": 2,
+    "rating": 8.2,
+    "reviewCount": 390,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hostal-cristina-cadaques.html",
+    "petFee": 0,
+    "petPolicy": "Hostal Cristina welcomes pets on request, with policies noting either no extra charge or a modest supplement of around EUR 10 per pet per night (maximum 2 pets). Family-run guesthouse right by the sea in the centre of Cadaqués, with air-conditioned rooms and private bathrooms. Popular with returning guests travelling out of season with dogs. Please confirm with the property when booking.",
+    "address": "Riera Sant Vicenç 1, 17488 Cadaqués",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "cadaques-5",
+    "name": "Hotel Casa Nereta",
+    "destinationSlug": "cadaques",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 210,
+    "priceFrom": 170,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/casa-nereta.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Casa Nereta welcomes pets on request, charges may apply. Listed among the pet-friendly properties of Cadaqués on Booking.com. Boutique guesthouse in a typical white Mediterranean building in the village, within walking distance of the bay and old town. Please confirm with the property when booking.",
+    "address": "Cadaqués",
+    "neighborhood": "Cadaqués"
   }
 ]

@@ -1,0 +1,1023 @@
+{
+  "slug": "interlaken",
+  "name": "Interlaken",
+  "country": "Switzerland",
+  "flag": "🇨🇭",
+  "lastUpdated": "2026-06-14",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Interlaken, Bödeli Bistros & Lake Terraces",
+      "titleFr": "Restaurants dog-friendly à Interlaken, Bistros du Bödeli et terrasses lacustres",
+      "titleEs": "Restaurantes pet-friendly en Interlaken, Bistrós del Bödeli y terrazas del lago",
+      "titlePt": "Restaurantes pet-friendly en Interlaken, Bistrós do Bödeli e esplanadas do lago",
+      "introEn": "Interlaken sits on a narrow flatland (the Bödeli) between Lake Thun and Lake Brienz, framed by Eiger, Mönch and Jungfrau. The mountain-resort culture is unusually relaxed about dogs: traditional Stube along the Höheweg, Rugenbräu beer gardens and lakeside terraces in Neuhaus or Bönigen serve water bowls without prompting, and Swiss German hospitality means a friendly nod at the door is usually all you need.",
+      "introFr": "Interlaken occupe une étroite plaine (le Bödeli) entre les lacs de Thoune et de Brienz, encadrée par l'Eiger, le Mönch et la Jungfrau. La culture de station de montagne est étonnamment détendue avec les chiens : Stube traditionnelles le long du Höheweg, jardins à bière Rugenbräu et terrasses lacustres à Neuhaus ou Bönigen servent des gamelles d'eau sans qu'on le demande, et l'hospitalité suisse alémanique veut qu'un signe à l'entrée suffise.",
+      "introEs": "Interlaken se asienta en una estrecha llanura (el Bödeli) entre los lagos Thun y Brienz, enmarcada por el Eiger, el Mönch y la Jungfrau. La cultura de estación de montaña es sorprendentemente relajada con los perros: Stube tradicionales a lo largo del Höheweg, biergartens Rugenbräu y terrazas lacustres en Neuhaus o Bönigen sirven cuencos de agua sin pedirlo, y la hospitalidad suizo-alemana hace que un gesto a la entrada baste.",
+      "introPt": "Interlaken assenta numa estreita planície (o Bödeli) entre os lagos Thun e Brienz, enmarcada pelo Eiger, Mönch e Jungfrau. A cultura de estação de montanha é surpreendentemente relaxada com os cães: Stube tradicionais ao longo do Höheweg, biergartens Rugenbräu e esplanadas lacustres em Neuhaus ou Bönigen sirven cuencos de água sem pedirlo, e a hospitalidade suíça alemã faz com que um gesto à entrada baste.",
+      "places": [
+        {
+          "name": "Restaurant Bären Sigriswil",
+          "address": "Aeschlenstrasse 2, 3655 Sigriswil",
+          "neighborhood": "Sigriswil / Lake Thun north shore",
+          "photo": "/images/city-places/interlaken-restaurants-restaurant-baren-sigriswil.jpg",
+          "website": "https://www.baeren-sigriswil.ch/",
+          "description": "Historic Bernese inn perched on the Sigriswil-Spiez Riviera with a wood-panelled Stube, terraced garden and panoramic views over Lake Thun to the Niesen. The kitchen leans into Berner Platte, fresh lake fish and the region's German-speaking Burgunder wines.",
+          "descriptionFr": "Auberge bernoise historique perchée sur la Riviera Sigriswil-Spiez, avec Stube boisée, jardin en terrasses et vues panoramiques sur le lac de Thoune et le Niesen. La cuisine met en avant la Berner Platte, les poissons du lac et les vins burgunder germanophones de la région.",
+          "descriptionEs": "Posada bernesa histórica encaramada en la Riviera Sigriswil-Spiez, con Stube de madera, jardín en terrazas y vistas panorámicas sobre el lago Thun y el Niesen. La cocina apuesta por la Berner Platte, el pescado del lago y los vinos burgunder germanófonos de la región.",
+          "descriptionPt": "Pousada bernesa histórica empoleirada na Riviera Sigriswil-Spiez, com Stube de madeira, jardim em terraços e vistas panorâmicas sobre o lago Thun e o Niesen. A cozinha aposta na Berner Platte, peixe do lago e nos vinhos burgunder germanófonos da região.",
+          "petPolicy": "Leashed dogs welcome on the terrace and inside the Stube; water bowl on arrival",
+          "petPolicyFr": "Chiens en laisse admis en terrasse et en Stube ; gamelle d'eau à l'arrivée",
+          "petPolicyEs": "Perros con correa admitidos en terraza y en Stube; cuenco de agua a la llegada",
+          "petPolicyPt": "Cães com trela admitidos na esplanada e na Stube; cuenco de água à chegada",
+          "priceRange": "€€€",
+          "mustTry": "Berner Platte, Thunersee Felchen (whitefish), Sigriswil Burgunder",
+          "mustTryFr": "Berner Platte, féra du lac de Thoune, Burgunder de Sigriswil",
+          "mustTryEs": "Berner Platte, fera del lago Thun, Burgunder de Sigriswil",
+          "mustTryPt": "Berner Platte, fera do lago Thun, Burgunder de Sigriswil",
+          "openingHours": "Wed-Sun 11:30-14:00, 18:00-22:00",
+          "tip": "Combine with a walk across the 340 m Sigriswil panorama suspension bridge over the Gummi gorge, 5 minutes from the restaurant and dog-friendly leashed.",
+          "tipFr": "Combinez avec une traversée du pont suspendu panoramique de Sigriswil (340 m) au-dessus du Gummi, à 5 minutes du restaurant et dog-friendly en laisse.",
+          "tipEs": "Combina con un cruce del puente colgante panorámico de Sigriswil (340 m) sobre el Gummi, a 5 minutos del restaurante y admite perros con correa.",
+          "tipPt": "Combina com a travessia da ponte suspensa panorâmica de Sigriswil (340 m) sobre o Gummi, a 5 minutos do restaurante e admite cães com trela.",
+          "googleMapsUrl": "https://maps.google.com/?q=Baeren+Sigriswil"
+        },
+        {
+          "name": "Brasserie 17",
+          "address": "Rosenstrasse 17, 3800 Interlaken",
+          "neighborhood": "Interlaken West",
+          "photo": "/images/city-places/interlaken-restaurants-brasserie-17.jpg",
+          "website": "https://www.brasserie17.ch/",
+          "description": "Casual French-Swiss brasserie two blocks from Interlaken West station serving Älplermagronen, Rösti, fondue and a long list of Bernese craft beers. Wood floors, low lights, dog-friendly by default.",
+          "descriptionFr": "Brasserie franco-suisse décontractée à deux pâtés de la gare d'Interlaken West, servant Älplermagronen, Rösti, fondue et une longue carte de bières artisanales bernoises. Parquet, lumières tamisées, dog-friendly par défaut.",
+          "descriptionEs": "Brasserie franco-suiza informal a dos manzanas de la estación de Interlaken West, con Älplermagronen, Rösti, fondue y una larga carta de cervezas artesanales bernesas. Suelo de madera, luces tenues, dog-friendly por defecto.",
+          "descriptionPt": "Brasserie franco-suíça descontraída a dois quarteirões da estação de Interlaken West, com Älplermagronen, Rösti, fondue e uma longa carta de cervejas artesanais bernesas. Chão de madeira, luzes ténues, pet-friendly por defeito.",
+          "petPolicy": "Dogs welcome inside year-round; water bowl provided",
+          "petPolicyFr": "Chiens admis en salle toute l'année ; gamelle d'eau fournie",
+          "petPolicyEs": "Perros admitidos en sala todo el año; cuenco de agua incluido",
+          "petPolicyPt": "Cães admitidos em sala todo o ano; cuenco de água incluído",
+          "priceRange": "€€",
+          "mustTry": "Älplermagronen, moitié-moitié fondue, Rugenbräu Lager",
+          "mustTryFr": "Älplermagronen, fondue moitié-moitié, Rugenbräu Lager",
+          "mustTryEs": "Älplermagronen, fondue mitad-mitad, Rugenbräu Lager",
+          "mustTryPt": "Älplermagronen, fondue meio-meio, Rugenbräu Lager",
+          "openingHours": "Daily 11:00-23:00",
+          "tip": "Ask for a corner table near the bar, the back of the room is quieter for nervous dogs at peak dinner.",
+          "tipFr": "Demandez une table d'angle près du bar, le fond de salle est plus calme pour les chiens nerveux en service du soir.",
+          "tipEs": "Pide una mesa de esquina cerca de la barra, el fondo de la sala es más tranquilo para perros nerviosos en cena.",
+          "tipPt": "Pede uma mesa de esquina perto do bar, o fundo da sala é mais tranquilo para cães nervosos ao jantar.",
+          "googleMapsUrl": "https://maps.google.com/?q=Brasserie+17+Interlaken"
+        },
+        {
+          "name": "Restaurant Bel-Air",
+          "address": "Strandbadstrasse 15, 3800 Unterseen",
+          "neighborhood": "Unterseen",
+          "photo": "/images/city-places/interlaken-restaurants-restaurant-bel-air.jpg",
+          "website": "https://www.bel-air-interlaken.ch/",
+          "description": "Lakeside terrace restaurant on the Aare near Lake Thun strandbad, a 12-minute walk from Interlaken West. Wide deck under chestnut trees, Bernese classics, vegetarian options and one of the most reliable dog-water-bowl welcomes in town.",
+          "descriptionFr": "Restaurant avec terrasse lacustre sur l'Aar près de la baignade publique du lac de Thoune, à 12 minutes à pied d'Interlaken West. Large pont sous les marronniers, classiques bernois, options végétariennes et l'un des accueils chien les plus fiables de la ville.",
+          "descriptionEs": "Restaurante con terraza lacustre sobre el Aare cerca del strandbad del lago Thun, a 12 minutos a pie de Interlaken West. Amplia cubierta bajo castaños, clásicos berneses, opciones vegetarianas y una de las bienvenidas más fiables a perros del pueblo.",
+          "descriptionPt": "Restaurante com esplanada lacustre sobre o Aare perto do strandbad do lago Thun, a 12 minutos a pé de Interlaken West. Ampla cobertura sob castanheiros, clássicos berneses, opções vegetarianas e uma das recepções a cães mais fiáveis da vila.",
+          "petPolicy": "Leashed dogs welcome on the terrace and indoors; water bowl on arrival",
+          "petPolicyFr": "Chiens en laisse admis en terrasse et en salle ; gamelle d'eau à l'arrivée",
+          "petPolicyEs": "Perros con correa admitidos en terraza y en sala; cuenco de agua a la llegada",
+          "petPolicyPt": "Cães com trela admitidos na esplanada e em sala; cuenco de água à chegada",
+          "priceRange": "€€",
+          "mustTry": "Rösti with bacon and Bergkäse, Brienzer Trübli plum tart, Rugenbräu Spezli",
+          "mustTryFr": "Rösti au lard et Bergkäse, tarte aux prunes Brienzer Trübli, Rugenbräu Spezli",
+          "mustTryEs": "Rösti con tocino y Bergkäse, tarta de ciruelas Brienzer Trübli, Rugenbräu Spezli",
+          "mustTryPt": "Rösti com toucinho e Bergkäse, tarte de ameixas Brienzer Trübli, Rugenbräu Spezli",
+          "openingHours": "Daily 09:00-23:00",
+          "tip": "Combine lunch with a riverside Aare walk to the Hapimag bridge, 25 minutes round-trip and entirely off the main road.",
+          "tipFr": "Combinez le déjeuner avec une balade au bord de l'Aar jusqu'au pont Hapimag, 25 minutes aller-retour, entièrement hors route principale.",
+          "tipEs": "Combina la comida con un paseo a orillas del Aare hasta el puente Hapimag, 25 minutos ida y vuelta, totalmente fuera de la carretera principal.",
+          "tipPt": "Combina o almoço com um passeio à beira do Aare até à ponte Hapimag, 25 minutos ida e volta, totalmente fora da estrada principal.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bel-Air+Unterseen+Interlaken"
+        }
+      ],
+      "tipsEn": [
+        "The doorway phrase is the same as in Lucerne, \"Hund OK?\". Refusals in the Bödeli are very rare outside fine-dining tasting menus.",
+        "Höheweg terraces (Hotel Victoria-Jungfrau, Hotel Metropole, etc.) welcome leashed dogs from May to September; ask the maître d' for a shaded edge table.",
+        "Swiss tap water is free and excellent; ask for a \"Schälchen Wasser\" (water bowl) at any Bernese Stube and you will always get one."
+      ],
+      "tipsFr": [
+        "La phrase à l'entrée est la même qu'à Lucerne, « Hund OK ? ». Les refus dans le Bödeli sont très rares hors menus dégustation gastronomiques.",
+        "Les terrasses du Höheweg (Hôtel Victoria-Jungfrau, Hôtel Metropole, etc.) acceptent les chiens en laisse de mai à septembre ; demandez au maître d'hôtel une table d'angle ombragée.",
+        "L'eau du robinet suisse est gratuite et excellente ; demandez une « Schälchen Wasser » (gamelle d'eau) dans n'importe quelle Stube bernoise et vous l'aurez toujours."
+      ],
+      "tipsEs": [
+        "La frase en la puerta es la misma que en Lucerna: «Hund OK?». Las negativas en el Bödeli son muy raras fuera de menús degustación gastronómicos.",
+        "Las terrazas del Höheweg (Hotel Victoria-Jungfrau, Hotel Metropole, etc.) admiten perros con correa de mayo a septiembre; pide al maître una mesa de esquina con sombra.",
+        "El agua del grifo suiza es gratuita y excelente; pide un «Schälchen Wasser» (cuenco de agua) en cualquier Stube bernesa y siempre te lo darán."
+      ],
+      "tipsPt": [
+        "A frase à entrada é a mesma que em Lucerna: «Hund OK?». As recusas no Bödeli são muito raras fora de menus degustação gastronómicos.",
+        "As esplanadas do Höheweg (Hotel Victoria-Jungfrau, Hotel Metropole, etc.) admitem cães com trela de maio a setembro; pede ao maître uma mesa de esquina com sombra.",
+        "A água da torneira suíça é gratuita e excelente; pede um «Schälchen Wasser» (cuenco de água) em qualquer Stube bernesa e tê-lo-ás sempre."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Interlaken restaurants?",
+          "a": "Yes in the vast majority of cases. The Bödeli is mountain-resort relaxed: terraces along the Höheweg, lakeside decks in Neuhaus, Bönigen and Iseltwald, and traditional Stube in Unterseen all welcome leashed dogs. Always ask at the door, refusals are rare and usually limited to fine-dining tasting menus."
+        },
+        {
+          "q": "Do I pay extra for my dog at the table?",
+          "a": "No. Swiss restaurants do not charge for pets, and a complimentary water bowl is standard. A usual 5-10% tip is appreciated if your dog received attention."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les restaurants d'Interlaken ?",
+          "a": "Oui dans la grande majorité des cas. Le Bödeli a la décontraction d'une station de montagne : terrasses du Höheweg, pontons lacustres à Neuhaus, Bönigen et Iseltwald, et Stube traditionnelles d'Unterseen acceptent les chiens en laisse. Demandez toujours à l'entrée, les refus sont rares et limités aux menus dégustation gastronomiques."
+        },
+        {
+          "q": "Faut-il payer un supplément pour son chien à table ?",
+          "a": "Non. Les restaurants suisses ne facturent pas les animaux, et la gamelle d'eau gratuite est la norme. Un pourboire habituel de 5 à 10 % est apprécié si votre chien a été choyé."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Interlaken?",
+          "a": "Sí en la gran mayoría de casos. El Bödeli es relajado como toda estación de montaña: terrazas del Höheweg, embarcaderos en Neuhaus, Bönigen e Iseltwald, y Stube tradicionales en Unterseen admiten perros con correa. Pregunta siempre en la puerta, las negativas son raras y se limitan a menús degustación gastronómicos."
+        },
+        {
+          "q": "¿Hay que pagar suplemento por el perro en la mesa?",
+          "a": "No. Los restaurantes suizos no cobran por las mascotas, y el cuenco de agua gratuito es estándar. Una propina habitual del 5-10% es apreciada si tu perro ha sido mimado."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Se admitem cães nos restaurantes de Interlaken?",
+          "a": "Sim na grande maioria dos casos. O Bödeli é relaxado como toda estação de montanha: esplanadas do Höheweg, pontões lacustres em Neuhaus, Bönigen e Iseltwald, e Stube tradicionais em Unterseen admitem cães com trela. Pergunta sempre à entrada, as recusas são raras e limitam-se a menus degustação gastronómicos."
+        },
+        {
+          "q": "É preciso pagar suplemento pelo cão à mesa?",
+          "a": "Não. Os restaurantes suíços não cobram pelos animais, e o cuenco de água gratuito é o padrão. Uma gorjeta habitual de 5 a 10% é apreciada se o teu cão foi mimado."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Parks & Off-Leash Areas in Interlaken",
+      "titleFr": "Meilleurs parcs et zones sans laisse à Interlaken",
+      "titleEs": "Mejores parques y zonas sin correa en Interlaken",
+      "titlePt": "Melhores parques e zonas sem trela em Interlaken",
+      "introEn": "Interlaken's defining green space is the Höhematte, a 10-hectare public meadow protected since 1864 in the heart of the resort, with uninterrupted Eiger-Mönch-Jungfrau views. Add the Aare riverside walks, the Sundlauenen and Bönigen lakeshore strolls and the Heimwehfluh and Harder forest tracks, and you have one of the most walkable dog cities in the Alps. Bernese canton-wide leash duty in forests applies 1 April to 31 July (ground-nesting bird season).",
+      "introFr": "L'espace vert emblématique d'Interlaken est la Höhematte, prairie publique de 10 hectares protégée depuis 1864 au cœur de la station, avec vue dégagée sur Eiger, Mönch et Jungfrau. Ajoutez les berges de l'Aar, les rives lacustres de Sundlauenen et Bönigen et les chemins forestiers du Heimwehfluh et du Harder : Interlaken est l'une des villes alpines les plus marchables avec un chien. La laisse cantonale bernoise s'applique en forêt du 1er avril au 31 juillet (nidification au sol).",
+      "introEs": "El espacio verde emblemático de Interlaken es la Höhematte, prado público de 10 hectáreas protegido desde 1864 en el corazón de la estación, con vista despejada sobre Eiger, Mönch y Jungfrau. Añade los paseos a orillas del Aare, las riberas lacustres de Sundlauenen y Bönigen y las pistas forestales del Heimwehfluh y el Harder, e Interlaken se convierte en una de las ciudades alpinas más andables con perro. La correa cantonal bernesa se aplica en bosques del 1 de abril al 31 de julio (nidificación en el suelo).",
+      "introPt": "O espaço verde emblemático de Interlaken é a Höhematte, prado público de 10 hectares protegido desde 1864 no coração da estação, com vista desimpedida sobre Eiger, Mönch e Jungfrau. Acrescenta os passeios à beira do Aare, as margens lacustres de Sundlauenen e Bönigen e as pistas florestais do Heimwehfluh e do Harder, e Interlaken torna-se uma das cidades alpinas mais caminháveis com cão. A trela cantonal bernesa aplica-se em florestas de 1 de abril a 31 de julho (nidificação no solo).",
+      "places": [
+        {
+          "name": "Höhematte",
+          "address": "Höheweg, 3800 Interlaken",
+          "neighborhood": "Bödeli centre",
+          "photo": "/images/city-places/interlaken-parks-hohematte.jpg",
+          "website": "https://interlaken.ch/",
+          "description": "Ten hectares of protected public meadow bisected by the Höheweg, framed by the grand hotels on one side and uninterrupted Eiger-Mönch-Jungfrau views on the other. Paragliders land here daily. The Gemeinde Interlaken allows leashed dogs at all times; bag stations are posted at every entry.",
+          "descriptionFr": "Dix hectares de prairie publique protégée, traversée par le Höheweg, encadrée par les grands hôtels d'un côté et la vue ininterrompue Eiger-Mönch-Jungfrau de l'autre. Les parapentistes y atterrissent chaque jour. La Gemeinde Interlaken autorise les chiens en laisse à tout moment ; distributeurs de sacs à chaque entrée.",
+          "descriptionEs": "Diez hectáreas de prado público protegido, atravesado por el Höheweg, enmarcado por los grandes hoteles a un lado y la vista ininterrumpida Eiger-Mönch-Jungfrau al otro. Los parapentistas aterrizan aquí a diario. La Gemeinde Interlaken admite perros con correa en todo momento; dispensadores de bolsas en cada entrada.",
+          "descriptionPt": "Dez hectares de prado público protegido, atravessado pelo Höheweg, enquadrado pelos grandes hotéis de um lado e pela vista ininterrupta Eiger-Mönch-Jungfrau do outro. Os parapentistas aterram aqui diariamente. A Gemeinde Interlaken admite cães com trela a todo o momento; dispensadores de sacos em cada entrada.",
+          "petPolicy": "Leashed dogs welcome year-round; off-leash not permitted on the meadow (paraglider landing zone)",
+          "petPolicyFr": "Chiens en laisse admis toute l'année ; sans laisse non autorisé sur la prairie (zone d'atterrissage parapente)",
+          "petPolicyEs": "Perros con correa admitidos todo el año; sin correa no permitido en el prado (zona de aterrizaje de parapente)",
+          "petPolicyPt": "Cães com trela admitidos todo o ano; sem trela não permitido no prado (zona de aterragem de parapente)",
+          "tip": "Sit on the south edge at 18:00 to watch dozens of paragliders land while the Jungfrau turns pink. Keep your dog leashed short, landings can be sudden.",
+          "tipFr": "Asseyez-vous sur la bordure sud à 18h pour voir des dizaines de parapentistes atterrir tandis que la Jungfrau rosit. Tenez votre chien en laisse courte, les atterrissages peuvent être soudains.",
+          "tipEs": "Siéntate en el borde sur a las 18:00 para ver decenas de parapentistas aterrizar mientras la Jungfrau se vuelve rosa. Mantén al perro con correa corta, los aterrizajes pueden ser repentinos.",
+          "tipPt": "Senta-te na orla sul às 18h para ver dezenas de parapentistas aterrar enquanto a Jungfrau se torna rosa. Mantém o cão com trela curta, as aterragens podem ser súbitas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hohematte+Interlaken"
+        },
+        {
+          "name": "Aare Riverside Promenade",
+          "address": "Spielmatte, 3800 Unterseen",
+          "neighborhood": "Unterseen / Aare",
+          "photo": "/images/city-places/interlaken-parks-aare-riverside-promenade.jpg",
+          "website": "https://interlaken.ch/",
+          "description": "Three-kilometre flat riverside path along the turquoise Aare between Lake Thun and Lake Brienz, threading the old town of Unterseen and the Spielmatte parkland. Shade, benches, dog-water access along the bank and a network of side trails toward the Harder forest.",
+          "descriptionFr": "Sentier riverain plat de trois kilomètres le long de l'Aar turquoise entre les lacs de Thoune et de Brienz, traversant la vieille ville d'Unterseen et le parc de la Spielmatte. Ombre, bancs, accès à l'eau pour les chiens depuis la rive et un réseau de sentiers latéraux vers la forêt du Harder.",
+          "descriptionEs": "Sendero ribereño llano de tres kilómetros junto al Aare turquesa entre los lagos Thun y Brienz, atravesando el casco antiguo de Unterseen y el parque de la Spielmatte. Sombra, bancos, acceso al agua para perros desde la orilla y una red de sendas laterales hacia el bosque del Harder.",
+          "descriptionPt": "Trilho ribeirinho plano de três quilómetros ao longo do Aare turquesa entre os lagos Thun e Brienz, atravessando o centro antigo de Unterseen e o parque da Spielmatte. Sombra, bancos, acesso à água para cães a partir da margem e uma rede de trilhos laterais para a floresta do Harder.",
+          "petPolicy": "Leashed dogs welcome year-round; off-leash tolerated outside busy hours away from the playground sections",
+          "petPolicyFr": "Chiens en laisse admis toute l'année ; sans laisse toléré hors heures de pointe loin des aires de jeux",
+          "petPolicyEs": "Perros con correa admitidos todo el año; sin correa tolerado fuera de horas punta lejos de los juegos infantiles",
+          "petPolicyPt": "Cães com trela admitidos todo o ano; sem trela tolerado fora de horas de ponta longe dos parques infantis",
+          "tip": "Start at Interlaken West, walk upstream toward the Lake Brienz outflow at Interlaken Ost, take the boat back. Two hours total, two stations, one panoramic ride.",
+          "tipFr": "Partez d'Interlaken West, remontez vers le déversoir du lac de Brienz à Interlaken Ost, revenez en bateau. Deux heures au total, deux gares, une traversée panoramique.",
+          "tipEs": "Empieza en Interlaken West, remonta hacia el desagüe del lago Brienz en Interlaken Ost, vuelve en barco. Dos horas en total, dos estaciones, una travesía panorámica.",
+          "tipPt": "Começa em Interlaken West, sobe até ao desaguamento do lago Brienz em Interlaken Ost, regressa de barco. Duas horas no total, duas estações, uma travessia panorâmica.",
+          "googleMapsUrl": "https://maps.google.com/?q=Aare+Spielmatte+Unterseen"
+        },
+        {
+          "name": "Heimwehfluh Forest",
+          "address": "Heimwehfluhstrasse, 3800 Interlaken",
+          "neighborhood": "Heimwehfluh / Matten",
+          "photo": "/images/city-places/interlaken-parks-heimwehfluh-forest.jpg",
+          "website": "https://heimwehfluh.ch/",
+          "description": "Wooded ridge rising 211 m above the Bödeli with a funicular, panorama tower, family park and 8 km of shaded forest tracks. The hike up via the Mattenweg takes 35 minutes; the funicular accepts leashed small dogs free and larger dogs with a half-fare ticket.",
+          "descriptionFr": "Crête boisée s'élevant à 211 m au-dessus du Bödeli, avec funiculaire, tour panoramique, parc famille et 8 km de chemins forestiers ombragés. La montée à pied par le Mattenweg prend 35 minutes ; le funiculaire accepte les petits chiens en laisse gratuitement et les grands chiens avec billet demi-tarif.",
+          "descriptionEs": "Cresta boscosa que se eleva 211 m sobre el Bödeli, con funicular, torre panorámica, parque familiar y 8 km de pistas forestales sombreadas. La subida a pie por el Mattenweg toma 35 minutos; el funicular admite perros pequeños con correa gratis y perros grandes con billete a mitad de precio.",
+          "descriptionPt": "Cumeada arborizada que se eleva 211 m acima do Bödeli, com funicular, torre panorâmica, parque familiar e 8 km de pistas florestais sombreadas. A subida a pé pelo Mattenweg leva 35 minutos; o funicular admite cães pequenos com trela grátis e cães grandes com bilhete a metade do preço.",
+          "petPolicy": "Leash required 1 April to 31 July (nesting season); off-leash tolerated on forest tracks rest of year if recall is reliable",
+          "petPolicyFr": "Laisse obligatoire du 1er avril au 31 juillet (nidification) ; sans laisse toléré sur les chemins forestiers le reste de l'année si rappel fiable",
+          "petPolicyEs": "Correa obligatoria del 1 de abril al 31 de julio (nidificación); sin correa tolerado en pistas forestales el resto del año si la llamada es fiable",
+          "petPolicyPt": "Trela obrigatória de 1 de abril a 31 de julho (nidificação); sem trela tolerado em pistas florestais o resto do ano se a chamada for fiável",
+          "tip": "Take the funicular up, walk down via the panoramic forest loop, 90 minutes of shaded descent, exits next to the Interlaken West Aare bridge.",
+          "tipFr": "Montez en funiculaire, descendez par la boucle forestière panoramique, 90 minutes de descente ombragée, sortie près du pont sur l'Aar d'Interlaken West.",
+          "tipEs": "Sube en funicular, baja por el bucle forestal panorámico, 90 minutos de descenso sombreado, salida junto al puente sobre el Aare de Interlaken West.",
+          "tipPt": "Sobe de funicular, desce pelo circuito florestal panorâmico, 90 minutos de descida sombreada, saída junto à ponte sobre o Aare de Interlaken West.",
+          "googleMapsUrl": "https://maps.google.com/?q=Heimwehfluh+Interlaken"
+        }
+      ],
+      "tipsEn": [
+        "Bernese canton enforces a leash duty in forests from 1 April to 31 July to protect ground-nesting wildlife; fines start at CHF 100 for unbagged droppings.",
+        "Höhematte is a protected paraglider landing zone, dogs must stay leashed; the long-recall meadows are the riverside Spielmatte and the Bönigen lakeshore parks instead.",
+        "Bring a long line for forest tracks on Heimwehfluh and Harder, the woods host chamois and roe deer; off-leash with weak recall is not safe."
+      ],
+      "tipsFr": [
+        "Le canton de Berne impose la laisse en forêt du 1er avril au 31 juillet pour protéger la faune nichant au sol ; amendes à partir de 100 CHF pour les déjections non ramassées.",
+        "La Höhematte est une zone d'atterrissage parapente protégée, chien obligatoirement en laisse ; pour le rappel libre, préférez la Spielmatte au bord de l'Aar et les parcs lacustres de Bönigen.",
+        "Emportez une longe pour les chemins forestiers du Heimwehfluh et du Harder, ces bois abritent chamois et chevreuils ; le sans-laisse avec un rappel faible n'est pas sûr."
+      ],
+      "tipsEs": [
+        "El cantón de Berna aplica la correa en bosques del 1 de abril al 31 de julio para proteger la fauna nidificante; multas desde 100 CHF por excrementos no recogidos.",
+        "La Höhematte es zona protegida de aterrizaje de parapente, perro obligatoriamente con correa; para llamada libre, mejor la Spielmatte a orillas del Aare y los parques lacustres de Bönigen.",
+        "Lleva un cordón largo para las pistas forestales del Heimwehfluh y del Harder, estos bosques albergan rebecos y corzos; sin correa con llamada débil no es seguro."
+      ],
+      "tipsPt": [
+        "O cantão de Berna aplica a trela em florestas de 1 de abril a 31 de julho para proteger a fauna nidificante; coimas a partir de 100 CHF para dejeções não recolhidas.",
+        "A Höhematte é zona protegida de aterragem de parapente, cão obrigatoriamente com trela; para chamada livre, prefere a Spielmatte à beira do Aare e os parques lacustres de Bönigen.",
+        "Leva uma trela longa para as pistas florestais do Heimwehfluh e do Harder, estas florestas albergam camurças e corços; sem trela com chamada fraca não é seguro."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs run off-leash in Interlaken?",
+          "a": "There is no enclosed off-leash dog park inside the Bödeli. Dogs can run off-leash on quiet stretches of the Aare riverside path outside peak hours, on the Heimwehfluh and Harder forest tracks (outside 1 April to 31 July) and on selected Lake Brienz beaches off-season. Höhematte requires leash year-round."
+        },
+        {
+          "q": "Are the Höhematte and Höheweg dog-friendly?",
+          "a": "Yes, both welcome leashed dogs year-round. The Höhematte itself is a protected paraglider landing meadow, so dogs must stay leashed; bag dispensers are at every entry and the Gemeinde Interlaken fines unbagged droppings."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils courir sans laisse à Interlaken ?",
+          "a": "Il n'y a pas de parc canin clôturé dans le Bödeli. Les chiens peuvent courir sans laisse sur les portions calmes du sentier riverain de l'Aar hors heures de pointe, sur les chemins forestiers du Heimwehfluh et du Harder (hors 1er avril–31 juillet) et sur certaines plages du lac de Brienz hors saison. La Höhematte impose la laisse toute l'année."
+        },
+        {
+          "q": "La Höhematte et le Höheweg sont-ils dog-friendly ?",
+          "a": "Oui, tous deux acceptent les chiens en laisse toute l'année. La Höhematte est une zone protégée d'atterrissage parapente, le chien doit donc rester en laisse ; les distributeurs de sacs sont à chaque entrée et la Gemeinde Interlaken sanctionne les déjections non ramassées."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden correr los perros sin correa en Interlaken?",
+          "a": "No hay parque canino vallado en el Bödeli. Los perros pueden correr sin correa en tramos tranquilos del sendero ribereño del Aare fuera de horas punta, en pistas forestales del Heimwehfluh y del Harder (fuera del 1 de abril–31 de julio) y en algunas playas del lago Brienz fuera de temporada. La Höhematte exige correa todo el año."
+        },
+        {
+          "q": "¿Son dog-friendly la Höhematte y el Höheweg?",
+          "a": "Sí, ambos admiten perros con correa todo el año. La Höhematte es zona protegida de aterrizaje de parapente, el perro debe ir con correa; los dispensadores de bolsas están en cada entrada y la Gemeinde Interlaken multa los excrementos no recogidos."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Onde podem correr os cães sem trela em Interlaken?",
+          "a": "Não há parque canino vedado no Bödeli. Os cães podem correr sem trela em trechos calmos do trilho ribeirinho do Aare fora de horas de ponta, em pistas florestais do Heimwehfluh e do Harder (fora de 1 de abril–31 de julho) e em algumas praias do lago Brienz fora de época. A Höhematte exige trela todo o ano."
+        },
+        {
+          "q": "São pet-friendly a Höhematte e o Höheweg?",
+          "a": "Sim, ambos admitem cães com trela todo o ano. A Höhematte é zona protegida de aterragem de parapente, o cão deve ir com trela; os dispensadores de sacos estão em cada entrada e a Gemeinde Interlaken aplica coimas por dejeções não recolhidas."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Your Dog in Interlaken, Trains, Boats & Mountain Railways",
+      "titleFr": "Voyager avec son chien à Interlaken, Trains, bateaux et crémaillères",
+      "titleEs": "Viajar con tu perro en Interlaken, Trenes, barcos y cremalleras",
+      "titlePt": "Viajar com o teu cão em Interlaken, Comboios, barcos e cremalheiras",
+      "introEn": "Interlaken is a transport hub: two SBB stations (West and Ost), BLS Lake Thun and Lake Brienz boats, the Jungfraubahn up to the Top of Europe, the Zentralbahn Brünig pass toward Lucerne and the panoramic GoldenPass line to Montreux. Swiss rules are consistent nationwide: small dogs in a carrier ride free, larger dogs need a 2nd-class half-fare ticket or the CHF 25 day pass valid everywhere for one day.",
+      "introFr": "Interlaken est un hub de transports : deux gares CFF (West et Ost), bateaux BLS des lacs de Thoune et de Brienz, Jungfraubahn jusqu'au Top of Europe, Zentralbahn par le col du Brünig vers Lucerne et la ligne panoramique GoldenPass jusqu'à Montreux. Les règles suisses sont nationales : petits chiens en sac gratuits, grands chiens billet 2e classe demi-tarif ou carte journalière à 25 CHF valable partout pour la journée.",
+      "introEs": "Interlaken es un nudo de transportes: dos estaciones SBB (West y Ost), barcos BLS de los lagos Thun y Brienz, Jungfraubahn al Top of Europe, Zentralbahn por el paso del Brünig hacia Lucerna y la línea panorámica GoldenPass a Montreux. Las normas suizas son nacionales: perros pequeños en transportín gratis, perros grandes billete de 2ª clase a mitad de precio o billete diario de 25 CHF válido en todas partes durante un día.",
+      "introPt": "Interlaken é um nó de transportes: duas estações SBB (West e Ost), barcos BLS dos lagos Thun e Brienz, Jungfraubahn até ao Top of Europe, Zentralbahn pelo passo do Brünig até Lucerna e a linha panorâmica GoldenPass até Montreux. As regras suíças são nacionais: cães pequenos em transportadora grátis, cães grandes bilhete de 2ª classe a metade do preço ou bilhete diário de 25 CHF válido em todo o lado por um dia.",
+      "places": [
+        {
+          "name": "SBB Interlaken West & Ost Stations",
+          "address": "Bahnhofstrasse 41, 3800 Interlaken",
+          "neighborhood": "Interlaken West & Ost",
+          "photo": "/images/city-places/interlaken-transport-sbb-interlaken-west-ost-stations.jpg",
+          "website": "https://www.sbb.ch/",
+          "description": "The two SBB stations that bracket the Bödeli, both with manned ticket counters, luggage lockers and direct ICE/IC connections to Bern, Basel, Zurich, Geneva and Lucerne. The CHF 25 dog day pass is sold at every machine under the \"Hund\" key.",
+          "descriptionFr": "Les deux gares CFF qui encadrent le Bödeli, avec guichets, consigne à bagages et liaisons directes ICE/IC vers Berne, Bâle, Zurich, Genève et Lucerne. La carte journalière chien à 25 CHF est vendue à chaque automate sous la touche « Hund ».",
+          "descriptionEs": "Las dos estaciones SBB que enmarcan el Bödeli, ambas con mostradores, consigna de equipaje y conexiones directas ICE/IC con Berna, Basilea, Zúrich, Ginebra y Lucerna. El billete diario para perros de 25 CHF se vende en cada máquina bajo la tecla «Hund».",
+          "descriptionPt": "As duas estações SBB que enquadram o Bödeli, ambas com balcões, depósito de bagagem e ligações diretas ICE/IC para Berna, Basileia, Zurique, Genebra e Lucerna. O bilhete diário para cães de 25 CHF é vendido em cada máquina sob a tecla «Hund».",
+          "petPolicy": "Small dogs in carrier under 30 cm shoulder: free. Larger dogs: 2nd-class half-fare ticket required or CHF 25 daily Hundespass; muzzle and leash inside the station",
+          "petPolicyFr": "Petits chiens en sac sous 30 cm au garrot : gratuits. Grands chiens : billet 2e classe demi-tarif ou Hundespass journalier 25 CHF ; muselière et laisse dans la gare",
+          "petPolicyEs": "Perros pequeños en transportín bajo 30 cm a la cruz: gratis. Perros grandes: billete 2ª clase a mitad de precio o Hundespass diario 25 CHF; bozal y correa en la estación",
+          "petPolicyPt": "Cães pequenos em transportadora sob 30 cm ao garrote: grátis. Cães grandes: bilhete 2ª classe a metade do preço ou Hundespass diário 25 CHF; focinheira e trela na estação",
+          "tip": "The dog day pass also covers BLS lake boats and the Zentralbahn Brünig line, so a CHF 25 ticket can take in Interlaken city, Lake Thun, Lake Brienz and a Lucerne day trip on the GoldenPass.",
+          "tipFr": "La carte journalière chien couvre aussi les bateaux BLS et la ligne Zentralbahn du Brünig, donc 25 CHF permettent de combiner Interlaken, lac de Thoune, lac de Brienz et excursion à Lucerne sur le GoldenPass.",
+          "tipEs": "El billete diario para perros cubre también barcos BLS y la línea Zentralbahn del Brünig, así que 25 CHF combinan Interlaken, lago Thun, lago Brienz y una excursión a Lucerna por el GoldenPass.",
+          "tipPt": "O bilhete diário para cães cobre também barcos BLS e a linha Zentralbahn do Brünig, portanto 25 CHF combinam Interlaken, lago Thun, lago Brienz e uma excursão a Lucerna pelo GoldenPass.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bahnhof+Interlaken+West"
+        },
+        {
+          "name": "BLS Lake Thun & Lake Brienz Boats",
+          "address": "Strandbadstrasse, 3800 Interlaken",
+          "neighborhood": "Interlaken West & Ost piers",
+          "photo": "/images/city-places/interlaken-transport-bls-lake-thun-brienz-boats.jpg",
+          "website": "https://www.bls.ch/schiff",
+          "description": "BLS Schifffahrt operates daily services on both lakes from the Interlaken West (Thun) and Interlaken Ost (Brienz) piers, including the heritage paddle steamers DS Blümlisalp on Lake Thun and DS Lötschberg. Dogs are welcome on every deck on both lakes.",
+          "descriptionFr": "BLS Schifffahrt opère quotidiennement sur les deux lacs depuis les pontons d'Interlaken West (Thoune) et Interlaken Ost (Brienz), y compris les vapeurs à roues à aubes historiques DS Blümlisalp (lac de Thoune) et DS Lötschberg. Chiens admis sur tous les ponts des deux lacs.",
+          "descriptionEs": "BLS Schifffahrt opera a diario en ambos lagos desde los embarcaderos de Interlaken West (Thun) y Interlaken Ost (Brienz), incluidos los vapores históricos de paletas DS Blümlisalp (lago Thun) y DS Lötschberg. Perros admitidos en todas las cubiertas en ambos lagos.",
+          "descriptionPt": "BLS Schifffahrt opera diariamente em ambos os lagos a partir dos cais de Interlaken West (Thun) e Interlaken Ost (Brienz), incluindo os vapores históricos de pás DS Blümlisalp (lago Thun) e DS Lötschberg. Cães admitidos em todos os conveses em ambos os lagos.",
+          "petPolicy": "Leashed dogs welcome on all decks with half-fare ticket; small dogs in carrier travel free; muzzle requested only for nervous large dogs",
+          "petPolicyFr": "Chiens en laisse admis sur tous les ponts avec billet demi-tarif ; petits chiens en sac gratuits ; muselière demandée uniquement pour grands chiens nerveux",
+          "petPolicyEs": "Perros con correa admitidos en todas las cubiertas con billete a mitad de precio; perros pequeños en transportín gratis; bozal solo para grandes nerviosos",
+          "petPolicyPt": "Cães com trela admitidos em todos os conveses com bilhete a metade do preço; cães pequenos em transportadora grátis; focinheira só para grandes nervosos",
+          "tip": "The 2h round trip Interlaken Ost-Iseltwald on Lake Brienz is the single most beautiful dog-friendly boat ride in the Berner Oberland; book the open lower deck for shade.",
+          "tipFr": "L'aller-retour de 2h Interlaken Ost-Iseltwald sur le lac de Brienz est la plus belle traversée dog-friendly de l'Oberland bernois ; réservez le pont inférieur ouvert pour l'ombre.",
+          "tipEs": "La ida y vuelta de 2h Interlaken Ost-Iseltwald en el lago Brienz es la travesía dog-friendly más bonita del Berner Oberland; reserva la cubierta inferior abierta para sombra.",
+          "tipPt": "A ida e volta de 2h Interlaken Ost-Iseltwald no lago Brienz é a travessia pet-friendly mais bonita do Berner Oberland; reserva o convés inferior aberto para sombra.",
+          "googleMapsUrl": "https://maps.google.com/?q=BLS+Schifffahrt+Interlaken"
+        },
+        {
+          "name": "Jungfraubahn & Harder-Bahn",
+          "address": "Höheweg 35, 3800 Interlaken",
+          "neighborhood": "Interlaken Ost",
+          "photo": "/images/city-places/interlaken-transport-jungfraubahn-harder-bahn.jpg",
+          "website": "https://www.jungfrau.ch/",
+          "description": "The Jungfrau Railways group runs the funiculars and cogwheel trains to Harder Kulm (1322 m), Lauterbrunnen, Wengen, Grindelwald, Kleine Scheidegg and the Jungfraujoch Top of Europe. Leashed muzzled dogs ride most segments; altitude rules restrict access above Eigergletscher (2320 m).",
+          "descriptionFr": "Le groupe Jungfrau Railways exploite les funiculaires et crémaillères vers le Harder Kulm (1322 m), Lauterbrunnen, Wengen, Grindelwald, la Petite Scheidegg et le Jungfraujoch Top of Europe. Chiens en laisse et muselés admis sur la plupart des segments ; règles d'altitude restreignant l'accès au-dessus de l'Eigergletscher (2320 m).",
+          "descriptionEs": "El grupo Jungfrau Railways explota funiculares y cremalleras hasta Harder Kulm (1322 m), Lauterbrunnen, Wengen, Grindelwald, Kleine Scheidegg y el Jungfraujoch Top of Europe. Perros con correa y bozal admitidos en la mayoría de segmentos; normas de altitud limitan acceso por encima del Eigergletscher (2320 m).",
+          "descriptionPt": "O grupo Jungfrau Railways opera funiculares e cremalheiras até Harder Kulm (1322 m), Lauterbrunnen, Wengen, Grindelwald, Kleine Scheidegg e o Jungfraujoch Top of Europe. Cães com trela e focinheira admitidos na maioria dos segmentos; regras de altitude limitam o acesso acima do Eigergletscher (2320 m).",
+          "petPolicy": "Leashed muzzled dogs accepted on Harder-Bahn, Wengernalp and most segments with half-fare ticket; Jungfraujoch restricted above Eigergletscher 2320 m due to altitude rules",
+          "petPolicyFr": "Chiens en laisse et muselés acceptés sur la Harder-Bahn, la Wengernalp et la plupart des segments avec billet demi-tarif ; Jungfraujoch limité au-dessus de l'Eigergletscher 2320 m pour raisons d'altitude",
+          "petPolicyEs": "Perros con correa y bozal aceptados en Harder-Bahn, Wengernalp y la mayoría de segmentos con billete a mitad de precio; Jungfraujoch limitado por encima del Eigergletscher 2320 m por normas de altitud",
+          "petPolicyPt": "Cães com trela e focinheira aceites na Harder-Bahn, Wengernalp e a maioria dos segmentos com bilhete a metade do preço; Jungfraujoch limitado acima do Eigergletscher 2320 m por regras de altitude",
+          "tip": "Harder Kulm at sunset is the single best dog-friendly view in Interlaken: Eiger, Mönch and Jungfrau line up perfectly. The funicular is muzzled-and-leashed, terrace is dog-welcome.",
+          "tipFr": "Le Harder Kulm au coucher du soleil est la plus belle vue dog-friendly d'Interlaken : Eiger, Mönch et Jungfrau parfaitement alignés. Le funiculaire impose muselière et laisse, la terrasse accueille les chiens.",
+          "tipEs": "El Harder Kulm al atardecer es la mejor vista dog-friendly de Interlaken: Eiger, Mönch y Jungfrau perfectamente alineados. El funicular exige bozal y correa, la terraza acoge perros.",
+          "tipPt": "O Harder Kulm ao pôr do sol é a melhor vista pet-friendly de Interlaken: Eiger, Mönch e Jungfrau perfeitamente alinhados. O funicular exige focinheira e trela, a esplanada acolhe cães.",
+          "googleMapsUrl": "https://maps.google.com/?q=Jungfraubahn+Interlaken+Ost"
+        }
+      ],
+      "tipsEn": [
+        "The Swiss \"Tageskarte für Hunde\" (CHF 25) is valid all day on SBB, BLS boats, Zentralbahn, GoldenPass and most cogwheel railways nationwide, the cheapest way to combine Interlaken city, both lakes, Harder Kulm and a GoldenPass day trip.",
+        "Small dogs (under 30 cm at withers) in a closed carrier ride free with no ticket on SBB, BLS, Zentralbahn and PostAuto.",
+        "Interlaken has no airport: the closest are Bern BRN (1h by train), Basel BSL (2h) and Zurich ZRH (2h). All three are reachable on a single CHF 25 dog day pass."
+      ],
+      "tipsFr": [
+        "La « Tageskarte für Hunde » suisse (25 CHF) est valable toute la journée sur CFF, bateaux BLS, Zentralbahn, GoldenPass et la plupart des crémaillères du pays, le moyen le moins cher de combiner Interlaken, les deux lacs, le Harder Kulm et une excursion GoldenPass.",
+        "Les petits chiens (moins de 30 cm au garrot) en sac fermé voyagent gratuitement sans billet sur CFF, BLS, Zentralbahn et PostAuto.",
+        "Interlaken n'a pas d'aéroport : Berne BRN (1h en train), Bâle BSL (2h) et Zurich ZRH (2h) sont les plus proches. Tous trois accessibles avec la même carte journalière chien à 25 CHF."
+      ],
+      "tipsEs": [
+        "El «Tageskarte für Hunde» suizo (25 CHF) es válido todo el día en SBB, barcos BLS, Zentralbahn, GoldenPass y la mayoría de cremalleras del país, la forma más barata de combinar Interlaken, los dos lagos, el Harder Kulm y una excursión GoldenPass.",
+        "Los perros pequeños (menos de 30 cm a la cruz) en transportín cerrado viajan gratis sin billete en SBB, BLS, Zentralbahn y PostAuto.",
+        "Interlaken no tiene aeropuerto: Berna BRN (1h en tren), Basilea BSL (2h) y Zúrich ZRH (2h) son los más cercanos. Los tres accesibles con el mismo billete diario para perros de 25 CHF."
+      ],
+      "tipsPt": [
+        "O «Tageskarte für Hunde» suíço (25 CHF) é válido todo o dia em SBB, barcos BLS, Zentralbahn, GoldenPass e a maioria de cremalheiras do país, a forma mais barata de combinar Interlaken, os dois lagos, o Harder Kulm e uma excursão GoldenPass.",
+        "Os cães pequenos (menos de 30 cm ao garrote) em transportadora fechada viajam grátis sem bilhete em SBB, BLS, Zentralbahn e PostAuto.",
+        "Interlaken não tem aeroporto: Berna BRN (1h de comboio), Basileia BSL (2h) e Zurique ZRH (2h) são os mais próximos. Todos os três acessíveis com o mesmo bilhete diário para cães de 25 CHF."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do dogs need a ticket on Swiss public transport from Interlaken?",
+          "a": "Yes if larger than 30 cm at withers. Small dogs in a closed carrier travel free. Larger dogs need a 2nd-class half-fare ticket per leg, or a CHF 25 day pass valid nationwide on SBB, BLS boats, Zentralbahn and most cogwheel railways."
+        },
+        {
+          "q": "Can my dog ride up to the Jungfraujoch Top of Europe?",
+          "a": "Not above Eigergletscher (2320 m). The Jungfrau Railways apply altitude restrictions on the final section to the Jungfraujoch (3454 m) for animal welfare reasons. Dogs are welcome muzzled and leashed up to Eigergletscher, and on Harder Kulm, Wengernalp, Männlichen and most other Jungfrau Region lines."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un billet pour son chien dans les transports suisses depuis Interlaken ?",
+          "a": "Oui si le chien dépasse 30 cm au garrot. Les petits chiens en sac fermé voyagent gratuitement. Les grands chiens ont besoin d'un billet 2e classe demi-tarif par trajet, ou d'une carte journalière à 25 CHF valable dans tout le pays sur CFF, bateaux BLS, Zentralbahn et la plupart des crémaillères."
+        },
+        {
+          "q": "Mon chien peut-il monter au Jungfraujoch Top of Europe ?",
+          "a": "Pas au-delà de l'Eigergletscher (2320 m). Les Jungfrau Railways appliquent des restrictions d'altitude sur la section finale vers le Jungfraujoch (3454 m) pour des raisons de bien-être animal. Les chiens muselés et tenus en laisse sont admis jusqu'à l'Eigergletscher, ainsi qu'au Harder Kulm, Wengernalp, Männlichen et la plupart des autres lignes de la Jungfrau Region."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Necesitan los perros billete en el transporte público suizo desde Interlaken?",
+          "a": "Sí si miden más de 30 cm a la cruz. Los perros pequeños en transportín cerrado viajan gratis. Los grandes necesitan billete de 2ª clase a mitad de precio por trayecto, o billete diario de 25 CHF válido en todo el país en SBB, barcos BLS, Zentralbahn y la mayoría de cremalleras."
+        },
+        {
+          "q": "¿Puede mi perro subir al Jungfraujoch Top of Europe?",
+          "a": "No por encima del Eigergletscher (2320 m). Las Jungfrau Railways aplican restricciones de altitud en el tramo final al Jungfraujoch (3454 m) por bienestar animal. Los perros con bozal y correa pueden subir hasta el Eigergletscher, y a Harder Kulm, Wengernalp, Männlichen y la mayoría de líneas de la Jungfrau Region."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães precisam de bilhete no transporte público suíço a partir de Interlaken?",
+          "a": "Sim se medirem mais de 30 cm ao garrote. Os cães pequenos em transportadora fechada viajam grátis. Os grandes precisam de bilhete de 2ª classe a metade do preço por troço, ou bilhete diário de 25 CHF válido em todo o país em SBB, barcos BLS, Zentralbahn e a maioria de cremalheiras."
+        },
+        {
+          "q": "O meu cão pode subir ao Jungfraujoch Top of Europe?",
+          "a": "Não acima do Eigergletscher (2320 m). As Jungfrau Railways aplicam restrições de altitude no troço final até ao Jungfraujoch (3454 m) por bem-estar animal. Os cães com focinheira e trela podem subir até ao Eigergletscher, e a Harder Kulm, Wengernalp, Männlichen e a maioria das linhas da Jungfrau Region."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Lake Thun & Lake Brienz Beaches & Dog Swim Spots",
+      "titleFr": "Plages des lacs de Thoune et de Brienz et baignades canines",
+      "titleEs": "Playas de los lagos Thun y Brienz y zonas de baño canino",
+      "titlePt": "Praias dos lagos Thun e Brienz e zonas de banho canino",
+      "introEn": "Interlaken straddles two glacier-fed alpine lakes: turquoise Lake Brienz to the east and deeper Lake Thun to the west. Both are bathing-grade in summer (water 18-22 °C from late June to early September). Bernese Gemeinde rules ban dogs from official Strandbäder in summer (1 May to 30 September) but the wider lakeshore offers pebble bays where leashed dogs are welcome year-round and off-leash swimming is tolerated off-season.",
+      "introFr": "Interlaken est cernée par deux lacs alpins glaciaires : le lac de Brienz turquoise à l'est et le lac de Thoune plus profond à l'ouest. Les deux sont de qualité baignade en été (eau 18-22 °C de fin juin à début septembre). Les règlements bernois excluent les chiens des Strandbäder officiels en été (1er mai-30 septembre) mais le pourtour des lacs offre des criques de galets où les chiens en laisse sont admis toute l'année et où la baignade sans laisse est tolérée hors saison.",
+      "introEs": "Interlaken está rodeada por dos lagos alpinos glaciares: el turquesa Brienz al este y el más profundo Thun al oeste. Ambos son de calidad de baño en verano (agua 18-22 °C de finales de junio a principios de septiembre). Las normas bernesas excluyen perros de los Strandbäder oficiales en verano (1 de mayo-30 de septiembre) pero la orilla más amplia ofrece calas de guijarros donde se admiten perros con correa todo el año y el baño sin correa se tolera fuera de temporada.",
+      "introPt": "Interlaken está rodeada por dois lagos alpinos glaciares: o turquesa Brienz a leste e o mais profundo Thun a oeste. Ambos são de qualidade de banho no verão (água 18-22 °C de finais de junho a início de setembro). As regras bernesas excluem cães dos Strandbäder oficiais no verão (1 de maio-30 de setembro) mas a margem mais ampla oferece enseadas de calhau onde se admitem cães com trela todo o ano e o banho sem trela é tolerado fora de época.",
+      "places": [
+        {
+          "name": "Iseltwald Lakeshore (Lake Brienz)",
+          "address": "Seestrasse, 3807 Iseltwald",
+          "neighborhood": "Iseltwald / Lake Brienz",
+          "photo": "/images/city-places/interlaken-beaches-iseltwald-lakeshore-lake-brienz.jpg",
+          "website": "https://interlaken.ch/",
+          "description": "Quiet south-shore village 12 km from Interlaken Ost by bus 103 or BLS boat, with a small peninsula crowned by a former castle and a string of pebble bays. The famous Crash Landing on You footbridge is a 5-minute walk. Off-season swimming is allowed, leashed in summer.",
+          "descriptionFr": "Village tranquille de la rive sud, à 12 km d'Interlaken Ost par le bus 103 ou bateau BLS, avec une petite péninsule couronnée d'un ancien château et une succession de criques de galets. Le célèbre ponton Crash Landing on You est à 5 minutes à pied. Baignade hors saison autorisée, en laisse en été.",
+          "descriptionEs": "Pueblo tranquilo de la orilla sur, a 12 km de Interlaken Ost en bus 103 o barco BLS, con una pequeña península coronada por un antiguo castillo y una sucesión de calas de guijarros. El famoso embarcadero de Crash Landing on You está a 5 minutos a pie. Baño fuera de temporada permitido, con correa en verano.",
+          "descriptionPt": "Aldeia tranquila da margem sul, a 12 km de Interlaken Ost por autocarro 103 ou barco BLS, com uma pequena península coroada por um antigo castelo e uma sucessão de enseadas de calhau. O famoso pontão de Crash Landing on You está a 5 minutos a pé. Banho fora de época permitido, com trela no verão.",
+          "petPolicy": "Leashed dogs welcome year-round; off-leash swimming tolerated October-April off the rocky points outside the bathing perimeter",
+          "petPolicyFr": "Chiens en laisse admis toute l'année ; baignade sans laisse tolérée d'octobre à avril depuis les pointes rocheuses hors zone de baignade",
+          "petPolicyEs": "Perros con correa admitidos todo el año; baño sin correa tolerado de octubre a abril desde las puntas rocosas fuera de la zona de baño",
+          "petPolicyPt": "Cães com trela admitidos todo o ano; banho sem trela tolerado de outubro a abril a partir das pontas rochosas fora da zona de banho",
+          "tip": "Take BLS boat from Interlaken Ost to Iseltwald (35 min), walk the 1 km Schloss path to the pebble bays, swim, walk back along the lakeside road.",
+          "tipFr": "Prenez le bateau BLS d'Interlaken Ost à Iseltwald (35 min), suivez le sentier du Schloss sur 1 km jusqu'aux criques, baignade, retour par la route lacustre.",
+          "tipEs": "Toma el barco BLS de Interlaken Ost a Iseltwald (35 min), recorre el sendero del Schloss 1 km hasta las calas, báñate, vuelta por la carretera lacustre.",
+          "tipPt": "Apanha o barco BLS de Interlaken Ost a Iseltwald (35 min), percorre o trilho do Schloss 1 km até às enseadas, banho, regresso pela estrada lacustre.",
+          "googleMapsUrl": "https://maps.google.com/?q=Iseltwald+Lake+Brienz"
+        },
+        {
+          "name": "Faulensee (Lake Thun)",
+          "address": "Seestrasse, 3705 Faulensee",
+          "neighborhood": "Faulensee / Spiez area",
+          "photo": "/images/city-places/interlaken-beaches-faulensee-lake-thun.jpg",
+          "website": "https://interlaken.ch/",
+          "description": "Sheltered fishing-village bay on the south shore of Lake Thun, 18 minutes by BLS train from Interlaken West via Spiez. Reedbeds, pebble entries and the cleanest water on the lake; the public Strandbad bans dogs in summer, but the public lakeshore east and west of the perimeter is dog-friendly.",
+          "descriptionFr": "Crique abritée d'un village de pêche sur la rive sud du lac de Thoune, à 18 min de train BLS depuis Interlaken West via Spiez. Roselières, accès de galets et eau parmi la plus pure du lac ; le Strandbad public interdit les chiens en été, mais la rive publique à l'est et à l'ouest de la zone est dog-friendly.",
+          "descriptionEs": "Cala abrigada de pueblo pesquero en la orilla sur del lago Thun, a 18 min en tren BLS desde Interlaken West vía Spiez. Cañaverales, entradas de guijarros y el agua más limpia del lago; el Strandbad público prohíbe perros en verano, pero la orilla pública al este y al oeste es dog-friendly.",
+          "descriptionPt": "Enseada abrigada de aldeia piscatória na margem sul do lago Thun, a 18 min de comboio BLS a partir de Interlaken West via Spiez. Caniçais, entradas de calhau e a água mais limpa do lago; o Strandbad público proíbe cães no verão, mas a margem pública a leste e a oeste é pet-friendly.",
+          "petPolicy": "Leashed dogs welcome year-round on public lakeshore; off-leash swimming tolerated October-April; banned inside the paid Strandbad perimeter 1 May-30 September",
+          "petPolicyFr": "Chiens en laisse admis toute l'année sur la rive publique ; baignade sans laisse tolérée d'octobre à avril ; interdits dans le Strandbad payant du 1er mai au 30 septembre",
+          "petPolicyEs": "Perros con correa admitidos todo el año en la orilla pública; baño sin correa tolerado de octubre a abril; prohibidos dentro del Strandbad de pago del 1 de mayo al 30 de septiembre",
+          "petPolicyPt": "Cães com trela admitidos todo o ano na margem pública; banho sem trela tolerado de outubro a abril; proibidos dentro do Strandbad pago de 1 de maio a 30 de setembro",
+          "tip": "Combine with a walk along the Spiez Buchten promenade, 3 km of lakeside path between Faulensee and Spiez vineyard castle, dog-friendly the whole way.",
+          "tipFr": "Combinez avec une marche sur la promenade des Buchten de Spiez, 3 km de sentier lacustre entre Faulensee et le château viticole de Spiez, dog-friendly tout du long.",
+          "tipEs": "Combina con un paseo por la promenade Buchten de Spiez, 3 km de sendero lacustre entre Faulensee y el castillo vinícola de Spiez, dog-friendly todo el camino.",
+          "tipPt": "Combina com um passeio na promenade Buchten de Spiez, 3 km de trilho lacustre entre Faulensee e o castelo vinícola de Spiez, pet-friendly em todo o percurso.",
+          "googleMapsUrl": "https://maps.google.com/?q=Faulensee+Lake+Thun"
+        },
+        {
+          "name": "Bönigen Lakeshore (Lake Brienz)",
+          "address": "Seestrasse, 3806 Bönigen",
+          "neighborhood": "Bönigen",
+          "photo": "/images/city-places/interlaken-beaches-bonigen-lakeshore-lake-brienz.jpg",
+          "website": "https://interlaken.ch/",
+          "description": "Quiet residential village on the western shore of Lake Brienz, a 10-minute bus 104 ride from Interlaken Ost. A continuous public lakeside path with several pebble entries and the village Strandbad; off the bathing perimeter, dogs are welcome leashed year-round.",
+          "descriptionFr": "Village résidentiel tranquille sur la rive ouest du lac de Brienz, à 10 min en bus 104 depuis Interlaken Ost. Sentier lacustre public continu avec plusieurs accès de galets et le Strandbad du village ; hors zone de baignade, chiens admis en laisse toute l'année.",
+          "descriptionEs": "Pueblo residencial tranquilo en la orilla oeste del lago Brienz, a 10 min en bus 104 desde Interlaken Ost. Sendero lacustre público continuo con varias entradas de guijarros y el Strandbad del pueblo; fuera de la zona de baño, perros admitidos con correa todo el año.",
+          "descriptionPt": "Aldeia residencial tranquila na margem oeste do lago Brienz, a 10 min de autocarro 104 a partir de Interlaken Ost. Trilho lacustre público contínuo com várias entradas de calhau e o Strandbad da aldeia; fora da zona de banho, cães admitidos com trela todo o ano.",
+          "petPolicy": "Leashed dogs welcome year-round outside the paid Strandbad; off-leash swimming tolerated October-April",
+          "petPolicyFr": "Chiens en laisse admis toute l'année hors Strandbad payant ; baignade sans laisse tolérée d'octobre à avril",
+          "petPolicyEs": "Perros con correa admitidos todo el año fuera del Strandbad de pago; baño sin correa tolerado de octubre a abril",
+          "petPolicyPt": "Cães com trela admitidos todo o ano fora do Strandbad pago; banho sem trela tolerado de outubro a abril",
+          "tip": "From Bönigen, walk the lakeside path 3 km east to the Giessbach falls boat pier, take BLS back to Interlaken Ost. Three hours, two transport modes, dog-friendly all the way.",
+          "tipFr": "Depuis Bönigen, suivez le sentier lacustre sur 3 km à l'est jusqu'au ponton des chutes du Giessbach, retour BLS jusqu'à Interlaken Ost. Trois heures, deux modes de transport, dog-friendly tout du long.",
+          "tipEs": "Desde Bönigen, sigue el sendero lacustre 3 km al este hasta el embarcadero de las cascadas del Giessbach, vuelta BLS a Interlaken Ost. Tres horas, dos modos de transporte, dog-friendly todo el camino.",
+          "tipPt": "A partir de Bönigen, segue o trilho lacustre 3 km a leste até ao pontão das cascatas do Giessbach, regresso BLS a Interlaken Ost. Três horas, dois meios de transporte, pet-friendly todo o percurso.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bonigen+Lake+Brienz"
+        }
+      ],
+      "tipsEn": [
+        "Both Lake Thun and Lake Brienz are bathing-grade alpine lakes; the official Strandbäder fall under Bernese Gemeinde rules and ban dogs 1 May to 30 September, with fines up to CHF 100. Use the public-shore alternatives instead.",
+        "Glacier-fed Lake Brienz stays colder than Lake Thun: 14-18 °C in July-August versus 18-22 °C on Thun. Short swims only for thin-coated breeds.",
+        "Bring a quick-dry towel and rinse coats with fresh water, glacial silt can leave a fine mineral residue that dulls double coats."
+      ],
+      "tipsFr": [
+        "Le lac de Thoune et le lac de Brienz sont des lacs alpins de qualité baignade ; les Strandbäder officiels relèvent des règlements bernois et interdisent les chiens du 1er mai au 30 septembre, amendes jusqu'à 100 CHF. Utilisez les alternatives sur rive publique.",
+        "Le lac de Brienz, alimenté par les glaciers, reste plus froid que le lac de Thoune : 14-18 °C en juillet-août contre 18-22 °C à Thoune. Baignades courtes pour les races à poil court.",
+        "Apportez une serviette absorbante et rincez le poil à l'eau claire, les sédiments glaciaires laissent un résidu minéral qui peut ternir les poils doubles."
+      ],
+      "tipsEs": [
+        "Tanto el lago Thun como el Brienz son lagos alpinos de calidad de baño; los Strandbäder oficiales se rigen por normativa bernesa y prohíben perros del 1 de mayo al 30 de septiembre, multas hasta 100 CHF. Usa las alternativas en orilla pública.",
+        "El lago Brienz, alimentado por glaciares, es más frío que el Thun: 14-18 °C en julio-agosto frente a 18-22 °C en Thun. Baños cortos para razas de pelo fino.",
+        "Lleva una toalla absorbente y aclara el pelaje con agua dulce, los sedimentos glaciares dejan un residuo mineral que apaga los pelos dobles."
+      ],
+      "tipsPt": [
+        "Tanto o lago Thun como o Brienz são lagos alpinos de qualidade de banho; os Strandbäder oficiais regem-se por regulamento bernês e proíbem cães de 1 de maio a 30 de setembro, coimas até 100 CHF. Usa as alternativas em margem pública.",
+        "O lago Brienz, alimentado por glaciares, é mais frio que o Thun: 14-18 °C em julho-agosto contra 18-22 °C em Thun. Banhos curtos para raças de pelo fino.",
+        "Leva uma toalha absorvente e enxagua o pelo com água doce, os sedimentos glaciares deixam um resíduo mineral que apaga os pelos duplos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs swim in Lake Thun and Lake Brienz?",
+          "a": "Yes outside the official Strandbäder. Dogs swim freely at Iseltwald, Bönigen and Faulensee public lakeshore, and on dozens of unmarked pebble bays year-round. Inside the paid Strandbäder, dogs are banned 1 May to 30 September under Bernese Gemeinde rules."
+        },
+        {
+          "q": "Is the lake water safe for dogs?",
+          "a": "Generally yes, both Lake Thun and Lake Brienz are monitored weekly for E. coli and intestinal enterococci and consistently rate excellent. Avoid swimming for 24 h after heavy rain (raised glacial silt and run-off)."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils nager dans les lacs de Thoune et de Brienz ?",
+          "a": "Oui hors Strandbäder officiels. Les chiens nagent librement sur la rive publique d'Iseltwald, Bönigen et Faulensee, et dans des dizaines de criques non balisées toute l'année. Dans les Strandbäder payants, les chiens sont interdits du 1er mai au 30 septembre selon le règlement bernois."
+        },
+        {
+          "q": "L'eau des lacs est-elle sûre pour les chiens ?",
+          "a": "Globalement oui, les lacs de Thoune et de Brienz sont analysés chaque semaine (E. coli, entérocoques intestinaux) et la qualité est constamment excellente. Évitez la baignade dans les 24 h suivant une grosse pluie (sédiments glaciaires et ruissellement)."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros nadar en los lagos Thun y Brienz?",
+          "a": "Sí fuera de los Strandbäder oficiales. Los perros nadan libremente en la orilla pública de Iseltwald, Bönigen y Faulensee, y en decenas de calas no señalizadas todo el año. Dentro de los Strandbäder de pago, los perros están prohibidos del 1 de mayo al 30 de septiembre según la normativa bernesa."
+        },
+        {
+          "q": "¿Es segura el agua de los lagos para los perros?",
+          "a": "Generalmente sí, los lagos Thun y Brienz se analizan semanalmente (E. coli, enterococos intestinales) y la calidad es constantemente excelente. Evita el baño 24 h tras lluvia intensa (sedimentos glaciares y escorrentía)."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães podem nadar nos lagos Thun e Brienz?",
+          "a": "Sim fora dos Strandbäder oficiais. Os cães nadam livremente na margem pública de Iseltwald, Bönigen e Faulensee, e em dezenas de enseadas não sinalizadas todo o ano. Dentro dos Strandbäder pagos, os cães estão proibidos de 1 de maio a 30 de setembro pela regulamentação bernesa."
+        },
+        {
+          "q": "A água dos lagos é segura para os cães?",
+          "a": "Geralmente sim, os lagos Thun e Brienz são analisados semanalmente (E. coli, enterococos intestinais) e a qualidade é constantemente excelente. Evita o banho 24 h após chuva intensa (sedimentos glaciares e escorrência)."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Veterinarians & 24h Animal Care in Interlaken",
+      "titleFr": "Vétérinaires d'urgence et soins animaliers 24h à Interlaken",
+      "titleEs": "Veterinarios de urgencia y atención animal 24h en Interlaken",
+      "titlePt": "Veterinários de urgência e cuidados animais 24h em Interlaken",
+      "introEn": "Interlaken has one of the most reliable small-animal clinics in the Berner Oberland with its own 24/7 emergency rota, plus a partner practice in Matten and a sister BeoVet branch in Meiringen. For specialist ICU or MRI work, the Vetsuisse Faculty Tierspital in Bern (60 km, 1h by car) covers the night shift. Save these numbers before you arrive.",
+      "introFr": "Interlaken dispose de l'une des cliniques pour petits animaux les plus fiables de l'Oberland bernois, avec son propre tour de garde 24/7, complétée par un cabinet partenaire à Matten et une succursale BeoVet à Meiringen. Pour les soins intensifs ou l'IRM spécialisée, le Tierspital de la Faculté Vetsuisse à Berne (60 km, 1h en voiture) couvre la nuit. Enregistrez ces numéros dès l'arrivée.",
+      "introEs": "Interlaken cuenta con una de las clínicas de pequeños animales más fiables del Berner Oberland, con turno de guardia propio 24/7, complementada por una consulta asociada en Matten y una sucursal BeoVet en Meiringen. Para UCI o RM especializada, el Tierspital de la Facultad Vetsuisse en Berna (60 km, 1h en coche) cubre la noche. Guarda estos números al llegar.",
+      "introPt": "Interlaken dispõe de uma das clínicas para pequenos animais mais fiáveis do Berner Oberland, com turno de urgência próprio 24/7, complementada por uma consulta associada em Matten e uma sucursal BeoVet em Meiringen. Para UCI ou RM especializada, o Tierspital da Faculdade Vetsuisse em Berna (60 km, 1h de carro) cobre a noite. Guarda estes números à chegada.",
+      "places": [
+        {
+          "name": "Tierklinik Interlaken AG",
+          "address": "General-Guisanstrasse 39, 3800 Interlaken",
+          "neighborhood": "Interlaken centre",
+          "photo": "/images/city-places/interlaken-vets-tierklinik-interlaken-ag.jpg",
+          "website": "https://www.tierklinik-interlaken.ch/",
+          "description": "The Bödeli's main small-animal clinic, with internal medicine, surgery, dentistry, ultrasound, in-house lab and pharmacy. Verified 24/7 emergency line (033 822 21 41) covers the entire Jungfrau Region.",
+          "descriptionFr": "Principale clinique pour petits animaux du Bödeli, avec médecine interne, chirurgie, dentisterie, échographie, laboratoire interne et pharmacie. Ligne d'urgence 24/7 vérifiée (033 822 21 41) couvrant toute la Jungfrau Region.",
+          "descriptionEs": "Principal clínica de pequeños animales del Bödeli, con medicina interna, cirugía, odontología, ecografía, laboratorio interno y farmacia. Línea de urgencia 24/7 verificada (033 822 21 41) que cubre toda la Jungfrau Region.",
+          "descriptionPt": "Principal clínica para pequenos animais do Bödeli, com medicina interna, cirurgia, odontologia, ecografia, laboratório interno e farmácia. Linha de urgência 24/7 verificada (033 822 21 41) que cobre toda a Jungfrau Region.",
+          "petPolicy": "Walk-ins accepted during opening hours; 24/7 emergency line for after-hours; phone +41 33 822 21 41",
+          "petPolicyFr": "Sans rendez-vous accepté aux horaires d'ouverture ; ligne d'urgence 24/7 hors horaires ; tél +41 33 822 21 41",
+          "petPolicyEs": "Sin cita aceptada en horario de apertura; línea de urgencia 24/7 fuera de horario; tel +41 33 822 21 41",
+          "petPolicyPt": "Sem marcação aceite em horário de abertura; linha de urgência 24/7 fora de horário; tel +41 33 822 21 41",
+          "tip": "Save +41 33 822 21 41 in your phone before you arrive, it is the closest 24/7 vet line to the Bödeli and they triage in German and English.",
+          "tipFr": "Enregistrez +41 33 822 21 41 dans votre téléphone avant l'arrivée, c'est la ligne vétérinaire 24/7 la plus proche du Bödeli et le tri se fait en allemand et anglais.",
+          "tipEs": "Guarda +41 33 822 21 41 en tu móvil antes de llegar, es la línea veterinaria 24/7 más cercana al Bödeli y triagen en alemán e inglés.",
+          "tipPt": "Guarda +41 33 822 21 41 no teu telemóvel antes de chegar, é a linha veterinária 24/7 mais próxima do Bödeli e fazem triagem em alemão e inglês.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Interlaken+AG"
+        },
+        {
+          "name": "Tierarztpraxis BeoVet AG (Matten)",
+          "address": "Hauptstrasse 37, 3800 Matten b. Interlaken",
+          "neighborhood": "Matten bei Interlaken",
+          "photo": "/images/city-places/interlaken-vets-tierarztpraxis-beovet-ag-matten.jpg",
+          "website": "https://www.beovet.ch/",
+          "description": "Long-established Bernese practice covering small animals, horses and farm livestock in Matten on the southern edge of the Bödeli, 1 km from Interlaken Ost. Daytime consultations Monday-Friday; partner network covers after-hours rota.",
+          "descriptionFr": "Cabinet bernois historique soignant petits animaux, chevaux et bétail à Matten au sud du Bödeli, à 1 km d'Interlaken Ost. Consultations en semaine ; réseau partenaire pour le tour de garde hors horaires.",
+          "descriptionEs": "Consulta bernesa histórica que atiende pequeños animales, caballos y ganado en Matten al sur del Bödeli, a 1 km de Interlaken Ost. Consultas entre semana; red de socios para guardias fuera de horario.",
+          "descriptionPt": "Consulta bernesa histórica que trata pequenos animais, cavalos e gado em Matten a sul do Bödeli, a 1 km de Interlaken Ost. Consultas durante a semana; rede de parceiros para urgências fora de horário.",
+          "petPolicy": "Appointment-based weekdays; emergencies via partner rota; phone +41 33 822 11 63",
+          "petPolicyFr": "Sur rendez-vous en semaine ; urgences via réseau partenaire ; tél +41 33 822 11 63",
+          "petPolicyEs": "Con cita entre semana; urgencias vía red asociada; tel +41 33 822 11 63",
+          "petPolicyPt": "Com marcação durante a semana; urgências via rede associada; tel +41 33 822 11 63",
+          "tip": "Useful if you stay in Wilderswil or south Bödeli accommodation, it is closer than the central clinic and parking is free in Matten.",
+          "tipFr": "Utile si vous logez à Wilderswil ou dans le sud du Bödeli, c'est plus proche que la clinique centrale et le parking est gratuit à Matten.",
+          "tipEs": "Útil si te alojas en Wilderswil o el sur del Bödeli, está más cerca que la clínica central y el aparcamiento es gratuito en Matten.",
+          "tipPt": "Útil se ficares em Wilderswil ou no sul do Bödeli, é mais perto que a clínica central e o estacionamento é gratuito em Matten.",
+          "googleMapsUrl": "https://maps.google.com/?q=BeoVet+Matten+Interlaken"
+        },
+        {
+          "name": "Tierspital Bern Vetsuisse (60 km)",
+          "address": "Länggassstrasse 128, 3012 Bern",
+          "neighborhood": "Bern Länggasse",
+          "photo": "/images/city-places/interlaken-vets-tierspital-bern-vetsuisse-60-km.jpg",
+          "website": "https://www.vetsuisse.unibe.ch/",
+          "description": "The Vetsuisse Faculty small-animal clinic at the University of Bern, 60 km / 1h by car or 50 min by ICN train from Interlaken Ost. Specialist services include 24h emergency and critical care, ICU, MRI, oncology and orthopaedic surgery.",
+          "descriptionFr": "Clinique pour petits animaux de la Faculté Vetsuisse de l'Université de Berne, à 60 km / 1h en voiture ou 50 min en train ICN depuis Interlaken Ost. Services spécialisés : urgences 24h et soins critiques, USI, IRM, oncologie et chirurgie orthopédique.",
+          "descriptionEs": "Clínica de pequeños animales de la Facultad Vetsuisse de la Universidad de Berna, a 60 km / 1h en coche o 50 min en tren ICN desde Interlaken Ost. Servicios especializados: urgencias 24h y cuidados críticos, UCI, RM, oncología y cirugía ortopédica.",
+          "descriptionPt": "Clínica de pequenos animais da Faculdade Vetsuisse da Universidade de Berna, a 60 km / 1h de carro ou 50 min de comboio ICN a partir de Interlaken Ost. Serviços especializados: urgências 24h e cuidados intensivos, UCI, RM, oncologia e cirurgia ortopédica.",
+          "petPolicy": "Walk-in 24/7 for emergencies; pre-call recommended to alert the on-call team and confirm capacity",
+          "petPolicyFr": "Sans rendez-vous 24/7 pour urgences ; appel préalable recommandé pour prévenir l'équipe et confirmer la capacité",
+          "petPolicyEs": "Sin cita 24/7 para urgencias; llamada previa recomendada para avisar al equipo y confirmar disponibilidad",
+          "petPolicyPt": "Sem marcação 24/7 para urgências; chamada prévia recomendada para avisar a equipa e confirmar disponibilidade",
+          "tip": "For non-life-threatening cases, the local Tierklinik Interlaken handles 95% of issues; reserve Bern for ICU, specialist surgery and complex diagnostics.",
+          "tipFr": "Pour les cas non vitaux, la Tierklinik Interlaken locale gère 95 % des situations ; réservez Berne pour USI, chirurgie spécialisée et diagnostics complexes.",
+          "tipEs": "Para casos no críticos, la Tierklinik Interlaken local resuelve el 95 % de los problemas; reserva Berna para UCI, cirugía especializada y diagnósticos complejos.",
+          "tipPt": "Para casos não críticos, a Tierklinik Interlaken local resolve 95 % das situações; reserva Berna para UCI, cirurgia especializada e diagnósticos complexos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierspital+Bern+Vetsuisse"
+        }
+      ],
+      "tipsEn": [
+        "Switzerland is not in the EU but is fully aligned on EU pet entry rules: EU pet passport, ISO microchip and rabies vaccine 21+ days old are required and accepted both ways at the border.",
+        "Swiss vet fees are among the highest in Europe: basic consultation CHF 80-120, out-of-hours emergency surcharge CHF 200-400. Travel insurance with vet cover is recommended.",
+        "Berner Oberland regional risks: tick-borne TBE (vaccinate or use topical), foxtail grass at lakeshore (June-August), adders above 1,000 m on Harder Kulm and Schynige Platte (rare, leash dogs on rocky ridges)."
+      ],
+      "tipsFr": [
+        "La Suisse n'est pas dans l'UE mais alignée sur les règles UE d'entrée des animaux : passeport européen, puce ISO et vaccin antirabique de 21 jours minimum sont obligatoires et acceptés dans les deux sens à la frontière.",
+        "Les tarifs vétérinaires suisses sont parmi les plus élevés d'Europe : consultation de base 80-120 CHF, supplément urgence hors horaires 200-400 CHF. Assurance voyage avec couverture vétérinaire recommandée.",
+        "Risques régionaux Oberland bernois : TBE par tiques (vaccin ou antiparasitaire topique), épillets en bord de lac (juin-août), vipères au-delà de 1 000 m sur le Harder Kulm et la Schynige Platte (rares, chien en laisse sur les crêtes rocheuses)."
+      ],
+      "tipsEs": [
+        "Suiza no está en la UE pero está alineada con las normas UE de entrada de mascotas: pasaporte europeo, microchip ISO y vacuna antirrábica de 21 días mínimo son obligatorios y aceptados en ambos sentidos en la frontera.",
+        "Las tarifas veterinarias suizas están entre las más altas de Europa: consulta básica 80-120 CHF, recargo de urgencia fuera de horario 200-400 CHF. Recomendable seguro de viaje con cobertura veterinaria.",
+        "Riesgos regionales del Berner Oberland: TBE por garrapatas (vacuna o antiparasitario tópico), espigas a orillas del lago (junio-agosto), víboras por encima de 1.000 m en Harder Kulm y Schynige Platte (raras, perro con correa en crestas rocosas)."
+      ],
+      "tipsPt": [
+        "A Suíça não está na UE mas alinha com as regras UE de entrada de animais: passaporte europeu, microchip ISO e vacina antirrábica de 21 dias mínimo são obrigatórios e aceites em ambos sentidos na fronteira.",
+        "As tarifas veterinárias suíças estão entre as mais altas da Europa: consulta básica 80-120 CHF, suplemento de urgência fora de horário 200-400 CHF. Seguro de viagem com cobertura veterinária recomendado.",
+        "Riscos regionais Berner Oberland: TBE por carraças (vacina ou antiparasitário tópico), espigas à beira do lago (junho-agosto), víboras acima de 1.000 m no Harder Kulm e Schynige Platte (raras, cão com trela em cumeadas rochosas)."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Interlaken?",
+          "a": "Yes. Tierklinik Interlaken AG operates a verified 24/7 emergency line on +41 33 822 21 41 covering the entire Jungfrau Region. For specialist ICU, MRI or complex surgery, the Vetsuisse Tierspital Bern is 60 km / 1h away by car or 50 min by ICN train."
+        },
+        {
+          "q": "Will my EU pet passport work in Switzerland?",
+          "a": "Yes. Switzerland accepts the EU pet passport at the border in both directions, with the standard requirements: ISO microchip, valid rabies vaccine at least 21 days old. Tapeworm treatment is NOT required to enter or leave Switzerland (unlike the UK or Ireland)."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h à Interlaken ?",
+          "a": "Oui. La Tierklinik Interlaken AG dispose d'une ligne d'urgence 24/7 vérifiée au +41 33 822 21 41 couvrant toute la Jungfrau Region. Pour USI spécialisée, IRM ou chirurgie complexe, le Tierspital Vetsuisse à Berne est à 60 km / 1h en voiture ou 50 min en train ICN."
+        },
+        {
+          "q": "Mon passeport européen pour animal fonctionne-t-il en Suisse ?",
+          "a": "Oui. La Suisse accepte le passeport européen à la frontière dans les deux sens, avec les exigences standard : puce ISO, vaccin antirabique valide d'au moins 21 jours. Aucun traitement antitenia n'est requis pour entrer ou sortir de Suisse (contrairement au Royaume-Uni ou à l'Irlande)."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario 24h en Interlaken?",
+          "a": "Sí. La Tierklinik Interlaken AG opera una línea de urgencia 24/7 verificada en +41 33 822 21 41 que cubre toda la Jungfrau Region. Para UCI especializada, RM o cirugía compleja, el Tierspital Vetsuisse de Berna está a 60 km / 1h en coche o 50 min en tren ICN."
+        },
+        {
+          "q": "¿Funciona mi pasaporte UE para mascotas en Suiza?",
+          "a": "Sí. Suiza acepta el pasaporte UE en la frontera en ambos sentidos, con los requisitos estándar: microchip ISO, vacuna antirrábica válida de al menos 21 días. NO se exige tratamiento antitenia para entrar o salir de Suiza (a diferencia del Reino Unido o Irlanda)."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há veterinário 24h em Interlaken?",
+          "a": "Sim. A Tierklinik Interlaken AG opera uma linha de urgência 24/7 verificada em +41 33 822 21 41 que cobre toda a Jungfrau Region. Para UCI especializada, RM ou cirurgia complexa, o Tierspital Vetsuisse de Berna está a 60 km / 1h de carro ou 50 min de comboio ICN."
+        },
+        {
+          "q": "O meu passaporte UE para animais funciona na Suíça?",
+          "a": "Sim. A Suíça aceita o passaporte UE na fronteira em ambos sentidos, com os requisitos padrão: microchip ISO, vacina antirrábica válida de pelo menos 21 dias. NÃO se exige tratamento antitênia para entrar ou sair da Suíça (ao contrário do Reino Unido ou Irlanda)."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Interlaken with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Interlaken avec un chien",
+      "titleEs": "Consejos prácticos para visitar Interlaken con un perro",
+      "titlePt": "Conselhos práticos para visitar Interlaken com um cão",
+      "introEn": "Interlaken is one of the most dog-friendly resort towns in the Alps: dedicated 24/7 vet line, multilingual hospitality (German, English, French standard), free water bowls everywhere and a wide network of dog-friendly trains, boats and funiculars. The four practical hurdles: high vet costs, Bernese leash duty in forests 1 April-31 July, altitude limits above 2320 m on Jungfraubahn, and summer paraglider landing zones to plan around.",
+      "introFr": "Interlaken est l'une des stations alpines les plus dog-friendly : ligne vétérinaire 24/7 dédiée, hospitalité multilingue (allemand, anglais, français de série), gamelles d'eau gratuites partout, et un large réseau de trains, bateaux et funiculaires pour chiens. Quatre obstacles pratiques : coûts vétérinaires élevés, laisse obligatoire en forêt 1er avril-31 juillet, plafond d'altitude à 2 320 m sur le Jungfraubahn, et zones d'atterrissage parapente estivales à contourner.",
+      "introEs": "Interlaken es una de las estaciones alpinas más dog-friendly: línea veterinaria 24/7 dedicada, hospitalidad multilingüe (alemán, inglés, francés de serie), cuencos de agua gratuitos por todas partes y una amplia red de trenes, barcos y funiculares para perros. Cuatro obstáculos prácticos: altos costes veterinarios, correa obligatoria en bosques del 1 de abril al 31 de julio, techo de altitud a 2.320 m en el Jungfraubahn, y zonas de aterrizaje de parapente estivales que esquivar.",
+      "introPt": "Interlaken é uma das estações alpinas mais pet-friendly: linha veterinária 24/7 dedicada, hospitalidade multilingue (alemão, inglês, francês de série), cuencos de água gratuitos em todo o lado e uma ampla rede de comboios, barcos e funiculares para cães. Quatro obstáculos práticos: custos veterinários elevados, trela obrigatória em florestas de 1 de abril a 31 de julho, teto de altitude a 2.320 m no Jungfraubahn, e zonas de aterragem de parapente estivais a contornar.",
+      "places": [],
+      "tipsEn": [
+        "Bring CHF in cash for small purchases and dog day passes; Switzerland is heavily card-based but smaller bus drivers and rural cafe terraces still prefer francs. ATMs are everywhere; the ones inside SBB stations have the best rates.",
+        "Interlaken summers are mild (22-26 °C) but Höheweg pavement reflects sun strongly in August. Walk early before 10:00 or after 18:00, or take the Heimwehfluh and Harder forest tracks on the hottest days.",
+        "Pack a tick remover and check coats every evening, the Bernese foothills and Harder forest harbour ticks year-round, and the canton has confirmed cases of TBE (tick-borne encephalitis) in dogs.",
+        "Booking train + boat + funicular combinations? Use the official SBB Mobile app; dog day passes (CHF 25) can be added in two taps and synced to the same QR code as your own ticket."
+      ],
+      "tipsFr": [
+        "Apportez quelques CHF en liquide pour petits achats et cartes journalières chien ; la Suisse est très carte mais les chauffeurs de petits bus et terrasses rurales préfèrent encore les francs. Distributeurs partout ; ceux des gares CFF offrent les meilleurs taux.",
+        "Les étés à Interlaken sont doux (22-26 °C) mais le bitume du Höheweg réfléchit fort le soleil en août. Promenez-vous tôt avant 10h ou après 18h, ou rejoignez les chemins forestiers du Heimwehfluh et du Harder les jours les plus chauds.",
+        "Emportez une pince à tiques et vérifiez le poil chaque soir, les contreforts bernois et la forêt du Harder abritent des tiques toute l'année, et le canton a confirmé des cas d'encéphalite à tiques (TBE) chez le chien.",
+        "Combinaisons train + bateau + funiculaire ? Utilisez l'application officielle SBB Mobile ; les cartes journalières chien (25 CHF) s'ajoutent en deux taps et se synchronisent avec le QR code de votre billet."
+      ],
+      "tipsEs": [
+        "Lleva algunos CHF en efectivo para compras pequeñas y billetes diarios para perros; Suiza usa mucho la tarjeta pero los conductores de buses pequeños y terrazas rurales prefieren francos. Cajeros por todas partes; los de las estaciones SBB tienen los mejores tipos.",
+        "Los veranos en Interlaken son suaves (22-26 °C) pero el pavimento del Höheweg refleja fuerte el sol en agosto. Pasea temprano antes de las 10:00 o después de las 18:00, o usa las pistas forestales del Heimwehfluh y del Harder los días más calurosos.",
+        "Lleva un sacador de garrapatas y revisa el pelo cada noche, los pies de monte berneses y el bosque del Harder albergan garrapatas todo el año, y el cantón tiene casos confirmados de encefalitis por garrapata (TBE) en perros.",
+        "¿Combinaciones tren + barco + funicular? Usa la app oficial SBB Mobile; los billetes diarios para perros (25 CHF) se añaden en dos toques y se sincronizan con el código QR de tu billete."
+      ],
+      "tipsPt": [
+        "Leva alguns CHF em dinheiro para compras pequenas e bilhetes diários para cães; a Suíça usa muito o cartão mas os condutores de pequenos autocarros e esplanadas rurais ainda preferem francos. Caixas em todo o lado; as das estações SBB têm as melhores taxas.",
+        "Os verões em Interlaken são suaves (22-26 °C) mas o pavimento do Höheweg reflete forte o sol em agosto. Passeia cedo antes das 10h00 ou depois das 18h00, ou usa as pistas florestais do Heimwehfluh e do Harder nos dias mais quentes.",
+        "Leva um saca-carraças e verifica o pelo todas as noites, os contrafortes berneses e a floresta do Harder albergam carraças todo o ano, e o cantão tem casos confirmados de encefalite por carraça (TBE) em cães.",
+        "Combinações comboio + barco + funicular? Usa a app oficial SBB Mobile; os bilhetes diários para cães (25 CHF) adicionam-se em dois toques e sincronizam-se com o código QR do teu bilhete."
+      ],
+      "faqsEn": [
+        {
+          "q": "What documents does my dog need to enter Switzerland?",
+          "a": "An EU pet passport (or third-country equivalent), an ISO microchip, and a valid rabies vaccine at least 21 days old. Tapeworm treatment is NOT required for entering or leaving Switzerland. Dogs from non-rabies-free countries need additional serology, check FSVO requirements before travel."
+        },
+        {
+          "q": "Are dogs allowed on the Jungfrau Region funiculars and cogwheels?",
+          "a": "Almost universally yes. Harder-Bahn, Heimwehfluh, Schynige Platte, Wengernalp, Männlichen and most lines accept leashed muzzled dogs. The Jungfraujoch line restricts dogs above Eigergletscher (2320 m) for altitude reasons. Small dogs in carriers travel free; larger dogs need a half-fare ticket or the CHF 25 day pass."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quels documents pour entrer en Suisse avec son chien ?",
+          "a": "Un passeport européen pour animal (ou équivalent pays tiers), une puce ISO et un vaccin antirabique valide d'au moins 21 jours. Aucun traitement antitenia n'est requis pour entrer ou sortir de Suisse. Les chiens venus de pays non indemnes de la rage ont besoin d'une sérologie supplémentaire, vérifiez les exigences OSAV avant le voyage."
+        },
+        {
+          "q": "Les chiens sont-ils admis dans les funiculaires et crémaillères de la Jungfrau Region ?",
+          "a": "Quasiment partout. Harder-Bahn, Heimwehfluh, Schynige Platte, Wengernalp, Männlichen et la plupart des lignes acceptent les chiens en laisse et muselés. La ligne du Jungfraujoch limite les chiens au-dessus de l'Eigergletscher (2 320 m) pour raisons d'altitude. Petits chiens en sac : gratuits ; grands chiens : billet demi-tarif ou carte journalière 25 CHF."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Qué documentos necesita mi perro para entrar en Suiza?",
+          "a": "Un pasaporte UE para mascotas (o equivalente de tercer país), un microchip ISO y una vacuna antirrábica válida de al menos 21 días. NO se exige tratamiento antitenia para entrar o salir de Suiza. Los perros procedentes de países no exentos de rabia necesitan serología adicional, consulta los requisitos del FSVO antes de viajar."
+        },
+        {
+          "q": "¿Se admiten perros en los funiculares y cremalleras de la Jungfrau Region?",
+          "a": "Casi en todos. Harder-Bahn, Heimwehfluh, Schynige Platte, Wengernalp, Männlichen y la mayoría de líneas admiten perros con correa y bozal. La línea del Jungfraujoch limita perros por encima del Eigergletscher (2.320 m) por altitud. Perros pequeños en transportín: gratis; perros grandes: billete a mitad de precio o billete diario 25 CHF."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Que documentos precisa o meu cão para entrar na Suíça?",
+          "a": "Um passaporte UE para animais (ou equivalente de país terceiro), um microchip ISO e uma vacina antirrábica válida de pelo menos 21 dias. NÃO se exige tratamento antitênia para entrar ou sair da Suíça. Os cães provenientes de países não isentos de raiva precisam de serologia adicional, consulta os requisitos do FSVO antes de viajar."
+        },
+        {
+          "q": "Os cães são admitidos nos funiculares e cremalheiras da Jungfrau Region?",
+          "a": "Quase em todos. Harder-Bahn, Heimwehfluh, Schynige Platte, Wengernalp, Männlichen e a maioria das linhas admitem cães com trela e focinheira. A linha do Jungfraujoch limita cães acima do Eigergletscher (2.320 m) por altitude. Cães pequenos em transportadora: grátis; cães grandes: bilhete a metade do preço ou bilhete diário 25 CHF."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Interlaken",
+      "titleFr": "Attractions pet-friendly à Interlaken",
+      "titleEs": "Atracciones pet-friendly en Interlaken",
+      "titlePt": "Atrações pet-friendly em Interlaken",
+      "introEn": "Interlaken's headline sights, Harder Kulm, the Höhematte, the Beatushöhlen caves and the Aareschlucht gorge, are almost all open-air and dog-friendly. The few indoor attractions dogs cannot enter (Jungfraujoch Sphinx observation deck above the altitude limit, Tropenhaus indoor sections) all sit beside dog-friendly walks, so you can swap shifts with a travel companion.",
+      "introFr": "Les sites phares d'Interlaken, Harder Kulm, Höhematte, grottes de Saint-Béat et gorges de l'Aar, sont quasiment tous en plein air et accessibles aux chiens. Les rares attractions intérieures interdites (Sphinx du Jungfraujoch au-dessus de l'altitude limite, sections intérieures du Tropenhaus) jouxtent toutes des promenades dog-friendly, on peut donc faire un roulement avec un compagnon.",
+      "introEs": "Los sitios estrella de Interlaken, Harder Kulm, Höhematte, cuevas de San Beato y gargantas del Aare, son casi todos al aire libre y accesibles para perros. Las pocas atracciones interiores prohibidas (Sphinx del Jungfraujoch por encima del límite de altitud, secciones interiores del Tropenhaus) están todas junto a paseos dog-friendly, así que se puede hacer turnos con un acompañante.",
+      "introPt": "Os sítios emblemáticos de Interlaken, Harder Kulm, Höhematte, grutas de São Beato e gargantas do Aare, são quase todos ao ar livre e acessíveis a cães. As poucas atrações interiores proibidas (Sphinx do Jungfraujoch acima do limite de altitude, secções interiores do Tropenhaus) ficam todas junto a passeios pet-friendly, dá para fazer turnos com um acompanhante.",
+      "places": [
+        {
+          "name": "Harder Kulm (1322 m)",
+          "address": "Harderstrasse 14, 3800 Interlaken",
+          "neighborhood": "Harder / above Interlaken Ost",
+          "photo": "/images/city-places/interlaken-attractions-harder-kulm.jpg",
+          "website": "https://www.jungfrau.ch/",
+          "description": "Interlaken's local mountain, reached by the Harder-Bahn funicular from Interlaken Ost in 10 minutes. The summit terrace and Two Lakes Bridge cantilever platform offer a perfectly framed Eiger-Mönch-Jungfrau panorama. Dog-friendly muzzled and leashed.",
+          "descriptionFr": "La montagne locale d'Interlaken, accessible par le funiculaire Harder-Bahn depuis Interlaken Ost en 10 minutes. La terrasse sommitale et la plateforme en porte-à-faux des Deux Lacs offrent un panorama Eiger-Mönch-Jungfrau parfaitement cadré. Dog-friendly en muselière et laisse.",
+          "descriptionEs": "La montaña local de Interlaken, accesible por el funicular Harder-Bahn desde Interlaken Ost en 10 minutos. La terraza de cumbre y la plataforma voladiza de los Dos Lagos ofrecen un panorama Eiger-Mönch-Jungfrau perfectamente enmarcado. Dog-friendly con bozal y correa.",
+          "descriptionPt": "A montanha local de Interlaken, acessível pelo funicular Harder-Bahn a partir de Interlaken Ost em 10 minutos. A esplanada de cume e a plataforma em consola dos Dois Lagos oferecem um panorama Eiger-Mönch-Jungfrau perfeitamente enquadrado. Pet-friendly com focinheira e trela.",
+          "petPolicy": "Muzzle and leash required on the funicular; leashed dogs welcome on the summit terrace year-round",
+          "petPolicyFr": "Muselière et laisse obligatoires sur le funiculaire ; chiens en laisse admis sur la terrasse sommitale toute l'année",
+          "petPolicyEs": "Bozal y correa obligatorios en el funicular; perros con correa admitidos en la terraza de cumbre todo el año",
+          "petPolicyPt": "Focinheira e trela obrigatórias no funicular; cães com trela admitidos na esplanada de cume todo o ano",
+          "tip": "Take the 18:00 funicular up in summer, watch the alpenglow on the Jungfrau and return on the 21:00 last service. The summit restaurant terrace welcomes dogs.",
+          "tipFr": "Prenez le funiculaire de 18h en été, profitez de l'alpenglow sur la Jungfrau et redescendez avec le dernier service de 21h. La terrasse du restaurant sommital accueille les chiens.",
+          "tipEs": "Toma el funicular de las 18:00 en verano, disfruta del alpenglow sobre la Jungfrau y vuelve con el último servicio de las 21:00. La terraza del restaurante de cumbre admite perros.",
+          "tipPt": "Apanha o funicular das 18h00 no verão, aprecia o alpenglow sobre a Jungfrau e desce no último serviço das 21h00. A esplanada do restaurante de cume admite cães.",
+          "googleMapsUrl": "https://maps.google.com/?q=Harder+Kulm+Interlaken"
+        },
+        {
+          "name": "Beatushöhlen (St. Beatus Caves)",
+          "address": "Sundlauenen, 3800 Interlaken",
+          "neighborhood": "Sundlauenen / Lake Thun north shore",
+          "photo": "/images/city-places/interlaken-attractions-beatushohlen-st-beatus-caves.jpg",
+          "website": "https://www.beatushoehlen.swiss/",
+          "description": "Karst cave system carved by underground streams in the cliffs above Lake Thun, with a guided 1 km loop past waterfalls, stalactites and a hermit's grotto. Reached by BLS boat from Interlaken West (25 min) or bus 21. Leashed dogs are welcome on the cave loop.",
+          "descriptionFr": "Réseau karstique creusé par des cours d'eau souterrains dans les falaises au-dessus du lac de Thoune, avec une boucle guidée de 1 km longeant cascades, stalactites et grotte d'ermite. Accès par bateau BLS depuis Interlaken West (25 min) ou bus 21. Chiens en laisse admis dans la boucle.",
+          "descriptionEs": "Sistema kárstico excavado por cursos subterráneos en los acantilados sobre el lago Thun, con un circuito guiado de 1 km por cascadas, estalactitas y la gruta de un ermitaño. Acceso por barco BLS desde Interlaken West (25 min) o bus 21. Perros con correa admitidos en el circuito.",
+          "descriptionPt": "Sistema cársico escavado por cursos subterrâneos nas falésias sobre o lago Thun, com um circuito guiado de 1 km por cascatas, estalactites e gruta de eremita. Acesso por barco BLS a partir de Interlaken West (25 min) ou autocarro 21. Cães com trela admitidos no circuito.",
+          "petPolicy": "Leashed dogs welcome inside the cave loop; small dogs only on the steepest sections",
+          "petPolicyFr": "Chiens en laisse admis dans la boucle ; petits chiens uniquement sur les portions les plus raides",
+          "petPolicyEs": "Perros con correa admitidos en el circuito; solo perros pequeños en los tramos más empinados",
+          "petPolicyPt": "Cães com trela admitidos no circuito; só cães pequenos nos troços mais íngremes",
+          "tip": "Arrive by 10:00 boat from Interlaken West, do the cave loop, picnic on the lakeside terrace and take the 14:00 boat back. Cool, shaded and dog-pleasant even in August.",
+          "tipFr": "Arrivez par le bateau de 10h depuis Interlaken West, faites la boucle, pique-nique sur la terrasse lacustre et retour par le bateau de 14h. Frais, ombragé et confortable pour le chien même en août.",
+          "tipEs": "Llega con el barco de las 10:00 desde Interlaken West, haz el circuito, picnic en la terraza lacustre y vuelta con el barco de las 14:00. Fresco, sombreado y agradable para el perro incluso en agosto.",
+          "tipPt": "Chega pelo barco das 10h00 a partir de Interlaken West, faz o circuito, piquenique na esplanada lacustre e regresso pelo barco das 14h00. Fresco, sombreado e confortável para o cão mesmo em agosto.",
+          "googleMapsUrl": "https://maps.google.com/?q=Beatushohlen+Sundlauenen"
+        },
+        {
+          "name": "Schynige Platte Alpine Garden",
+          "address": "Schynige Platte, 3812 Wilderswil",
+          "neighborhood": "Schynige Platte / Wilderswil",
+          "photo": "/images/city-places/interlaken-attractions-schynige-platte-alpine-garden.jpg",
+          "website": "https://www.jungfrau.ch/",
+          "description": "Historic cogwheel railway from Wilderswil up to 2076 m and one of the oldest alpine botanical gardens in Switzerland (since 1927), with 650+ native plant species and panoramic Jungfrau ridge hiking. Dog-friendly leashed on trains and trails, muzzle on the cogwheel.",
+          "descriptionFr": "Crémaillère historique depuis Wilderswil jusqu'à 2076 m et l'un des plus anciens jardins botaniques alpins de Suisse (depuis 1927), avec 650+ espèces végétales indigènes et randonnées panoramiques le long de l'arête face à la Jungfrau. Chiens admis en laisse sur les trains et sentiers, muselière sur la crémaillère.",
+          "descriptionEs": "Cremallera histórica desde Wilderswil hasta 2076 m y uno de los jardines botánicos alpinos más antiguos de Suiza (desde 1927), con 650+ especies vegetales nativas y senderismo panorámico por la cresta frente al Jungfrau. Perros admitidos con correa en trenes y senderos, bozal en la cremallera.",
+          "descriptionPt": "Cremalheira histórica a partir de Wilderswil até 2076 m e um dos mais antigos jardins botânicos alpinos da Suíça (desde 1927), com 650+ espécies vegetais nativas e caminhada panorâmica pela cumeada frente à Jungfrau. Cães admitidos com trela em comboios e trilhos, focinheira na cremalheira.",
+          "petPolicy": "Muzzle and leash on the cogwheel; leashed dogs welcome on summit trails and in the alpine garden",
+          "petPolicyFr": "Muselière et laisse sur la crémaillère ; chiens en laisse admis sur les sentiers sommitaux et dans le jardin alpin",
+          "petPolicyEs": "Bozal y correa en la cremallera; perros con correa admitidos en senderos de cumbre y en el jardín alpino",
+          "petPolicyPt": "Focinheira e trela na cremalheira; cães com trela admitidos em trilhos de cume e no jardim alpino",
+          "tip": "The 2h Schynige Platte-Faulhorn-First ridge traverse is the single best dog-friendly alpine ridge hike in Europe, end at First gondola back to Grindelwald, train to Interlaken Ost. Plan for July-September only.",
+          "tipFr": "La traversée de crête Schynige Platte-Faulhorn-First (2h) est sans doute la plus belle randonnée d'arête dog-friendly d'Europe, terminez par la télécabine du First jusqu'à Grindelwald, train pour Interlaken Ost. Uniquement juillet-septembre.",
+          "tipEs": "La travesía de cresta Schynige Platte-Faulhorn-First (2h) es sin duda la mejor cresta alpina dog-friendly de Europa, termina con el telecabina del First a Grindelwald, tren a Interlaken Ost. Solo julio-septiembre.",
+          "tipPt": "A travessia de cumeada Schynige Platte-Faulhorn-First (2h) é talvez a melhor cumeada alpina pet-friendly da Europa, termina com o telecabina do First até Grindelwald, comboio para Interlaken Ost. Só julho-setembro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Schynige+Platte+Wilderswil"
+        }
+      ],
+      "tipsEn": [
+        "Most Interlaken open-air attractions are dog-friendly leashed; the only restrictions are Jungfraujoch above the Eigergletscher altitude limit and indoor museum sections.",
+        "The Unspunnen Festival and Eidgenössisches Schwingfest (rotating Bernese folk events, August-September) bring noise and crowds, sensitive dogs are better off on morning walks before 09:00.",
+        "Paragliding landings on Höhematte happen continuously 10:00-18:00, large enough to startle reactive dogs; the Aare riverside or Heimwehfluh forest is calmer."
+      ],
+      "tipsFr": [
+        "La plupart des attractions plein air d'Interlaken sont dog-friendly en laisse ; seules restrictions : Jungfraujoch au-dessus du plafond d'altitude de l'Eigergletscher et sections intérieures des musées.",
+        "Le Festival d'Unspunnen et la Fête fédérale de lutte (événements bernois itinérants, août-septembre) amènent bruit et foules, les chiens sensibles préféreront les promenades matinales avant 9h.",
+        "Les atterrissages de parapente sur la Höhematte sont continus de 10h à 18h, suffisants pour effrayer les chiens réactifs ; les berges de l'Aar ou la forêt du Heimwehfluh sont plus calmes."
+      ],
+      "tipsEs": [
+        "La mayoría de atracciones al aire libre de Interlaken son dog-friendly con correa; las únicas restricciones son el Jungfraujoch por encima del techo de altitud del Eigergletscher y secciones interiores de museos.",
+        "El Festival de Unspunnen y la Fiesta Federal de Lucha (eventos berneses itinerantes, agosto-septiembre) traen ruido y multitudes, los perros sensibles prefieren paseos matinales antes de las 9:00.",
+        "Los aterrizajes de parapente en la Höhematte son continuos de 10:00 a 18:00, suficientes para asustar a perros reactivos; las orillas del Aare o el bosque del Heimwehfluh son más tranquilos."
+      ],
+      "tipsPt": [
+        "A maioria das atrações ao ar livre de Interlaken são pet-friendly com trela; as únicas restrições são o Jungfraujoch acima do teto de altitude do Eigergletscher e secções interiores de museus.",
+        "O Festival de Unspunnen e a Festa Federal de Luta (eventos berneses itinerantes, agosto-setembro) trazem ruído e multidões, os cães sensíveis preferem passeios matinais antes das 9h00.",
+        "As aterragens de parapente na Höhematte são contínuas das 10h00 às 18h00, suficientes para assustar cães reativos; as margens do Aare ou a floresta do Heimwehfluh são mais calmas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog up Harder Kulm?",
+          "a": "Yes. The Harder-Bahn funicular accepts leashed and muzzled dogs; small dogs in carriers travel free, larger dogs need a half-fare ticket or the CHF 25 day pass. The summit terrace and Two Lakes Bridge are dog-friendly leashed year-round."
+        },
+        {
+          "q": "Which Jungfrau Region mountains can I visit with my dog?",
+          "a": "Harder Kulm, Heimwehfluh, Schynige Platte, First (gondola), Männlichen, Wengernalp and Kleine Scheidegg all accept leashed dogs. The Jungfraujoch line restricts dogs above Eigergletscher (2320 m) on altitude grounds. Use the CHF 25 dog day pass to combine several mountains in one day."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien au Harder Kulm ?",
+          "a": "Oui. Le funiculaire Harder-Bahn accepte les chiens en laisse et muselés ; petits chiens en sac gratuits, grands chiens billet demi-tarif ou carte journalière 25 CHF. La terrasse sommitale et le pont des Deux Lacs sont dog-friendly en laisse toute l'année."
+        },
+        {
+          "q": "Quelles montagnes de la Jungfrau Region sont accessibles avec un chien ?",
+          "a": "Harder Kulm, Heimwehfluh, Schynige Platte, First (télécabine), Männlichen, Wengernalp et Petite Scheidegg acceptent tous les chiens en laisse. La ligne du Jungfraujoch limite les chiens au-dessus de l'Eigergletscher (2 320 m) pour raisons d'altitude. Utilisez la carte journalière chien à 25 CHF pour combiner plusieurs sommets dans la journée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar mi perro al Harder Kulm?",
+          "a": "Sí. El funicular Harder-Bahn admite perros con correa y bozal; perros pequeños en transportín gratis, grandes con billete a mitad de precio o billete diario 25 CHF. La terraza de cumbre y el puente de los Dos Lagos son dog-friendly con correa todo el año."
+        },
+        {
+          "q": "¿Qué montañas de la Jungfrau Region son accesibles con perro?",
+          "a": "Harder Kulm, Heimwehfluh, Schynige Platte, First (telecabina), Männlichen, Wengernalp y Kleine Scheidegg admiten todos perros con correa. La línea del Jungfraujoch limita perros por encima del Eigergletscher (2.320 m) por altitud. Usa el billete diario para perros de 25 CHF para combinar varias cimas en un día."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão ao Harder Kulm?",
+          "a": "Sim. O funicular Harder-Bahn admite cães com trela e focinheira; cães pequenos em transportadora grátis, grandes com bilhete a metade do preço ou bilhete diário 25 CHF. A esplanada de cume e a ponte dos Dois Lagos são pet-friendly com trela todo o ano."
+        },
+        {
+          "q": "Que montanhas da Jungfrau Region são acessíveis com cão?",
+          "a": "Harder Kulm, Heimwehfluh, Schynige Platte, First (telecabina), Männlichen, Wengernalp e Kleine Scheidegg admitem todos cães com trela. A linha do Jungfraujoch limita cães acima do Eigergletscher (2.320 m) por altitude. Usa o bilhete diário para cães de 25 CHF para combinar várias cumeadas num dia."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitters & Dog Walkers in Interlaken",
+      "titleFr": "Pet sitters et promeneurs de chiens à Interlaken",
+      "titleEs": "Cuidadores y paseadores de perros en Interlaken",
+      "titlePt": "Cuidadores e passeadores de cães em Interlaken",
+      "introEn": "Switzerland has a mature pet-care market and the same three online platforms that serve Lucerne (Pawshake, Petsitting24, PetBacker) cover Interlaken and the wider Bödeli. Rates run CHF 25-40/hour for walks, CHF 60-90/day for boarding; profiles are detailed, insurance is bundled and most Interlaken sitters list English in addition to German.",
+      "introFr": "La Suisse a un marché du pet-care mature et les trois mêmes plateformes en ligne que Lucerne (Pawshake, Petsitting24, PetBacker) couvrent Interlaken et le Bödeli. Tarifs 25-40 CHF/heure pour les promenades, 60-90 CHF/jour pour la pension ; profils détaillés, assurance incluse, et la plupart des sitters d'Interlaken parlent anglais en plus de l'allemand.",
+      "introEs": "Suiza tiene un mercado maduro de cuidado de mascotas y las mismas tres plataformas online que sirven Lucerna (Pawshake, Petsitting24, PetBacker) cubren Interlaken y todo el Bödeli. Tarifas de 25-40 CHF/hora para paseos, 60-90 CHF/día para hospedaje; perfiles detallados, seguro incluido, y la mayoría de cuidadores de Interlaken hablan inglés además de alemán.",
+      "introPt": "A Suíça tem um mercado maduro de cuidado de animais e as mesmas três plataformas online que servem Lucerna (Pawshake, Petsitting24, PetBacker) cobrem Interlaken e todo o Bödeli. Tarifas de 25-40 CHF/hora para passeios, 60-90 CHF/dia para hospedagem; perfis detalhados, seguro incluído, e a maioria dos cuidadores de Interlaken falam inglês além de alemão.",
+      "places": [
+        {
+          "name": "Pawshake Switzerland",
+          "address": "Online platform, Interlaken coverage",
+          "neighborhood": "Citywide",
+          "website": "https://www.pawshake.ch/",
+          "description": "Largest community-driven pet-sitting platform in Switzerland. Interlaken and the Bödeli list 20+ active sitters offering daycare, boarding, walks and home visits. Background checks and vet-supported insurance included on every booking.",
+          "descriptionFr": "Plus grande plateforme communautaire de pet-sitting en Suisse. Interlaken et le Bödeli comptent plus de 20 sitters actifs proposant garderie, pension, promenades et visites à domicile. Vérifications d'antécédents et assurance avec soutien vétérinaire incluses à chaque réservation.",
+          "descriptionEs": "Mayor plataforma comunitaria de cuidado de mascotas en Suiza. Interlaken y el Bödeli listan más de 20 cuidadores activos ofreciendo guardería, hospedaje, paseos y visitas a domicilio. Verificación de antecedentes y seguro con apoyo veterinario incluidos en cada reserva.",
+          "descriptionPt": "Maior plataforma comunitária de cuidado de animais na Suíça. Interlaken e o Bödeli listam mais de 20 cuidadores ativos a oferecer creche, hospedagem, passeios e visitas ao domicílio. Verificação de antecedentes e seguro com apoio veterinário incluídos em cada reserva.",
+          "languages": [
+            "German",
+            "English",
+            "French"
+          ],
+          "tip": "Book at least 10 days ahead in July-August, Interlaken sitters fill fast during the Jungfrau Region peak season.",
+          "tipFr": "Réservez au moins 10 jours à l'avance en juillet-août, les sitters d'Interlaken saturent vite en haute saison Jungfrau.",
+          "tipEs": "Reserva al menos 10 días antes en julio-agosto, los cuidadores de Interlaken se llenan rápido en temporada alta del Jungfrau.",
+          "tipPt": "Reserva pelo menos 10 dias antes em julho-agosto, os cuidadores de Interlaken esgotam rapidamente na época alta da Jungfrau Region."
+        },
+        {
+          "name": "Petsitting24",
+          "address": "Online platform, Interlaken directory",
+          "neighborhood": "Citywide",
+          "website": "https://petsitting24.ch/en",
+          "description": "Swiss-founded pet-sitting marketplace with English/German/French/Italian interface and a full city directory for Interlaken and the Berner Oberland. Hourly billing, integrated messaging, optional in-home overnight care.",
+          "descriptionFr": "Marketplace suisse de pet-sitting avec interface allemand/français/anglais/italien et annuaire complet pour Interlaken et l'Oberland bernois. Facturation horaire, messagerie intégrée, garde nocturne à domicile en option.",
+          "descriptionEs": "Marketplace suizo de cuidado de mascotas con interfaz alemán/francés/inglés/italiano y directorio completo para Interlaken y el Berner Oberland. Facturación por hora, mensajería integrada, cuidado nocturno a domicilio opcional.",
+          "descriptionPt": "Marketplace suíço de cuidado de animais com interface alemão/francês/inglês/italiano e diretório completo para Interlaken e o Berner Oberland. Faturação por hora, mensagens integradas, cuidado noturno ao domicílio opcional.",
+          "languages": [
+            "German",
+            "English",
+            "French",
+            "Italian"
+          ],
+          "tip": "Filter by «Probelektion gratis» for sitters who offer a free meet-and-greet, essential if your dog is reactive or anxious in new homes.",
+          "tipFr": "Filtrez par « Probelektion gratis » pour les sitters proposant une rencontre gratuite, essentiel si votre chien est réactif ou anxieux dans un nouvel environnement.",
+          "tipEs": "Filtra por «Probelektion gratis» para cuidadores que ofrecen una toma de contacto gratuita, esencial si tu perro es reactivo o ansioso en hogares nuevos.",
+          "tipPt": "Filtra por «Probelektion gratis» para cuidadores que oferecem um encontro grátis, essencial se o teu cão for reativo ou ansioso em ambientes novos."
+        },
+        {
+          "name": "PetBacker Interlaken",
+          "address": "Online platform, Interlaken listings",
+          "neighborhood": "Citywide",
+          "website": "https://www.petbacker.com/",
+          "description": "International pet-care platform with active Interlaken presence. Especially strong for short-notice bookings and last-minute walks; insured every booking and reviewed publicly per sitter profile.",
+          "descriptionFr": "Plateforme internationale de pet-care avec présence active à Interlaken. Particulièrement adaptée aux réservations de dernière minute et promenades urgentes ; assurance à chaque réservation et avis publics par profil.",
+          "descriptionEs": "Plataforma internacional de cuidado de mascotas con presencia activa en Interlaken. Especialmente buena para reservas de última hora y paseos urgentes; seguro en cada reserva y reseñas públicas por perfil.",
+          "descriptionPt": "Plataforma internacional de cuidado de animais com presença ativa em Interlaken. Especialmente boa para reservas de última hora e passeios urgentes; seguro em cada reserva e avaliações públicas por perfil.",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "tip": "Useful when you head up to Jungfraujoch and need a 4-hour walker for the day, your dog cannot ride above Eigergletscher anyway. Search for sitters within 1 km of your hotel for quick handovers.",
+          "tipFr": "Utile pour une excursion au Jungfraujoch et un promeneur de 4h sur la journée, votre chien ne peut de toute façon pas monter au-dessus de l'Eigergletscher. Cherchez les sitters dans un rayon d'1 km de votre hôtel pour des passages rapides.",
+          "tipEs": "Útil para una excursión al Jungfraujoch y un paseador de 4h durante el día, tu perro no puede subir por encima del Eigergletscher de todos modos. Busca cuidadores en un radio de 1 km de tu hotel para entregas rápidas.",
+          "tipPt": "Útil para uma excursão ao Jungfraujoch e um passeador de 4h durante o dia, o teu cão não pode subir acima do Eigergletscher de qualquer maneira. Busca cuidadores num raio de 1 km do teu hotel para entregas rápidas."
+        }
+      ],
+      "tipsEn": [
+        "Always negotiate rates per visit upfront; Switzerland is strict on contractual clarity, and unpaid extras are routinely contested.",
+        "Most Interlaken grand hotels (Victoria-Jungfrau, Beausite, Metropole, Lindner) recommend trusted local sitters at the concierge desk, ask at check-in.",
+        "Have your sitter walk in the Heimwehfluh or Harder forest tracks rather than the Höheweg pavement, your dog gets more recovery time and less heat in summer."
+      ],
+      "tipsFr": [
+        "Négociez toujours les tarifs par visite à l'avance, la Suisse est stricte sur la clarté contractuelle et les extras non payés sont régulièrement contestés.",
+        "La plupart des grands hôtels d'Interlaken (Victoria-Jungfrau, Beausite, Metropole, Lindner) recommandent des sitters locaux de confiance à la conciergerie, demandez à l'arrivée.",
+        "Demandez à votre sitter de promener votre chien sur les chemins forestiers du Heimwehfluh ou du Harder plutôt que sur le bitume du Höheweg, moins de chaleur pour les coussinets en été."
+      ],
+      "tipsEs": [
+        "Negocia siempre las tarifas por visita por adelantado, Suiza es estricta con la claridad contractual y los extras no pagados se disputan habitualmente.",
+        "La mayoría de grandes hoteles de Interlaken (Victoria-Jungfrau, Beausite, Metropole, Lindner) recomiendan cuidadores locales de confianza en conserjería, pregunta al llegar.",
+        "Pide a tu cuidador que pasee al perro por las pistas forestales del Heimwehfluh o del Harder en lugar del pavimento del Höheweg, menos calor para las almohadillas en verano."
+      ],
+      "tipsPt": [
+        "Negoceia sempre as tarifas por visita com antecedência, a Suíça é rigorosa com a clareza contratual e os extras não pagos são habitualmente contestados.",
+        "A maioria dos grandes hotéis de Interlaken (Victoria-Jungfrau, Beausite, Metropole, Lindner) recomendam cuidadores locais de confiança na receção, pergunta ao chegar.",
+        "Pede ao teu cuidador para passear o cão nas pistas florestais do Heimwehfluh ou do Harder em vez do pavimento do Höheweg, menos calor para as almofadas no verão."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does a pet sitter cost in Interlaken?",
+          "a": "Hourly rates range CHF 25-40 for in-home walks or daycare visits, CHF 60-90 per night for full boarding, and CHF 35-50 per overnight in-home stay. Bookings are usually paid via the platform with a small service fee."
+        },
+        {
+          "q": "Are Interlaken sitters insured?",
+          "a": "Yes on Pawshake, Petsitting24 and PetBacker, each booking includes third-party liability and pet-medical insurance up to a platform-defined cap. Read the booking confirmation for exact coverage."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte un pet sitter à Interlaken ?",
+          "a": "Tarifs horaires : 25-40 CHF pour promenades à domicile ou garde de jour, 60-90 CHF par nuit pour la pension complète, 35-50 CHF par nuit pour la garde à domicile. Paiement via la plateforme, avec frais de service modestes."
+        },
+        {
+          "q": "Les sitters d'Interlaken sont-ils assurés ?",
+          "a": "Oui sur Pawshake, Petsitting24 et PetBacker, chaque réservation inclut une assurance responsabilité civile et frais vétérinaires jusqu'à un plafond défini par plateforme. Vérifiez la confirmation de réservation pour la couverture exacte."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta un cuidador de mascotas en Interlaken?",
+          "a": "Tarifas por hora: 25-40 CHF para paseos a domicilio o guardería, 60-90 CHF por noche para hospedaje completo, 35-50 CHF por noche de cuidado en casa. Pago vía plataforma, con pequeña tarifa de servicio."
+        },
+        {
+          "q": "¿Están asegurados los cuidadores de Interlaken?",
+          "a": "Sí en Pawshake, Petsitting24 y PetBacker, cada reserva incluye seguro de responsabilidad civil y gastos veterinarios hasta un tope definido por la plataforma. Comprueba la confirmación de reserva para la cobertura exacta."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Quanto custa um cuidador de animais em Interlaken?",
+          "a": "Tarifas por hora: 25-40 CHF para passeios ao domicílio ou creche, 60-90 CHF por noite para hospedagem completa, 35-50 CHF por noite de cuidado em casa. Pagamento via plataforma, com pequena taxa de serviço."
+        },
+        {
+          "q": "Os cuidadores de Interlaken estão segurados?",
+          "a": "Sim no Pawshake, Petsitting24 e PetBacker, cada reserva inclui seguro de responsabilidade civil e despesas veterinárias até ao limite definido pela plataforma. Verifica a confirmação de reserva para a cobertura exata."
+        }
+      ]
+    }
+  }
+}

@@ -177,6 +177,7 @@ const TARGETS = [
   { slug: 'nuremberg', query: 'Nuremberg Germany Kaiserburg Imperial Castle Altstadt half-timbered Pegnitz river Bavaria panorama sunset' },
   { slug: 'graz', query: 'Graz Austria Schlossberg Uhrturm clock tower Altstadt red rooftops Mur river Styria UNESCO panorama sunset' },
   { slug: 'lucerne', query: 'Lucerne Switzerland Chapel Bridge Kapellbrucke Wasserturm Reuss river Mount Pilatus Vierwaldstattersee Altstadt panorama sunset' },
+  { slug: 'interlaken', query: 'Interlaken Switzerland Bernese Oberland Bödeli Höhematte protected meadow Eiger Mönch Jungfrau panorama Harder Kulm funicular Two Lakes Bridge Lake Thun Lake Brienz turquoise Aare river Unterseen Jungfraubahn paragliders sunset' },
   { slug: 'bremen', query: 'Bremen Germany Marktplatz Town Hall Roland Statue Stadtmusikanten Schnoor Hanseatic Weser river panorama sunset' },
   { slug: 'heraklion', query: 'Heraklion Crete Greece Koules Venetian fortress old harbour walls Lions Square Morosini Fountain panorama sunset' },
   { slug: 'lucca', query: 'Lucca Italy Renaissance walls Piazza Anfiteatro Guinigi Tower Tuscany medieval cobbled panorama sunset' },

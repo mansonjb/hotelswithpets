@@ -586,6 +586,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Nordkette range reachable by cable car from the centre, the Hofgarten royal park, and the cobbled Altstadt around the Goldenes Dachl',
       area: 'Altstadt, Wilten, and the Maria-Theresien-Strasse axis',
     },
+    interlaken: {
+      personality: `Switzerland's Jungfrau Region gateway on the Bödeli between Lakes Thun and Brienz, where the 10-hectare protected Höhematte meadow frames Eiger, Mönch and Jungfrau, the Harder Kulm funicular hauls muzzled dogs to 1322 m, BLS heritage paddle steamers welcome dogs on both lakes, and the Tierklinik Interlaken AG 24/7 emergency line covers the whole region`,
+      highlight: `Harder Kulm at sunset with the Two Lakes Bridge cantilever, the Aare riverside walk between Interlaken West and Ost, and a BLS boat day on Lake Brienz to Iseltwald and the Giessbach falls`,
+      area: `the Bödeli centre around the Höheweg, Unterseen on the Aare, and the Matten / Wilderswil south edge near the Jungfraubahn`,
+    },
     jurmala: {
       personality: `Latvia's most famous beach resort, 33 km of white-sand Baltic coast 30 minutes by train from Riga, the summer playground of Riga's elite since the 19th century, with wooden Art Nouveau dachas of Dzintari and Majori, the Dubulti viewpoint, and a leashed-dog winter beach that opens only from November 1 to March 31`,
       highlight: `Dzintari Forest Park's 200-year-old pine grove, the 33 km off-season dog beach from Lielupe to Kemeri, and the Z. Meierovica prospekts wooden dacha walk`,
@@ -1829,6 +1834,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la chaîne du Nordkette accessible en téléphérique depuis le centre, le parc royal Hofgarten et le Altstadt pavé autour du Goldenes Dachl',
       area: 'Altstadt, Wilten et l\'axe de la Maria-Theresien-Strasse',
     },
+    interlaken: {
+      personality: `la porte de la Jungfrau Region en Suisse, sur le Bödeli entre les lacs de Thoune et de Brienz, où la Höhematte (10 hectares protégés) cadre Eiger, Mönch et Jungfrau, le funiculaire Harder Kulm hisse les chiens muselés à 1 322 m, les vapeurs historiques BLS acceptent les chiens sur les deux lacs, et la ligne d'urgence 24/7 de la Tierklinik Interlaken AG couvre toute la région`,
+      highlight: `le Harder Kulm au coucher du soleil avec la plateforme Two Lakes Bridge, la promenade au bord de l'Aar entre Interlaken West et Ost, et une journée bateau BLS sur le lac de Brienz vers Iseltwald et les chutes du Giessbach`,
+      area: `le centre du Bödeli autour du Höheweg, Unterseen au bord de l'Aar, et la bordure sud Matten / Wilderswil près du Jungfraubahn`,
+    },
     jurmala: {
       personality: `la station balnéaire la plus célèbre de Lettonie, 33 km de côte balte au sable blanc à 30 minutes en train de Riga, terrain de jeu estival de l'élite rigoise depuis le XIXe siècle, avec ses datchas en bois Art Nouveau de Dzintari et Majori, le belvédère de Dubulti et une plage canine hivernale en laisse qui n'ouvre que du 1er novembre au 31 mars`,
       highlight: `la pinède bicentenaire du parc forestier de Dzintari, les 33 km de plage canine hors saison de Lielupe à Kemeri, et la promenade des datchas en bois sur Z. Meierovica prospekts`,
@@ -3071,6 +3081,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la cordillera del Nordkette accesible en teleférico desde el centro, el parque real Hofgarten y el Altstadt empedrado en torno al Goldenes Dachl',
       area: 'Altstadt, Wilten y el eje de la Maria-Theresien-Strasse',
     },
+    interlaken: {
+      personality: `la puerta a la Jungfrau Region de Suiza, sobre el Bödeli entre los lagos Thun y Brienz, donde la Höhematte (10 hectáreas protegidas) enmarca Eiger, Mönch y Jungfrau, el funicular Harder Kulm sube perros con bozal a 1.322 m, los vapores históricos BLS admiten perros en ambos lagos, y la línea de urgencia 24/7 de la Tierklinik Interlaken AG cubre toda la región`,
+      highlight: `el Harder Kulm al atardecer con la plataforma Two Lakes Bridge, el paseo a orillas del Aare entre Interlaken West y Ost, y un día de barco BLS por el lago Brienz hasta Iseltwald y las cascadas del Giessbach`,
+      area: `el centro del Bödeli en torno al Höheweg, Unterseen junto al Aare, y el borde sur Matten / Wilderswil cerca del Jungfraubahn`,
+    },
     jurmala: {
       personality: `el balneario más famoso de Letonia, 33 km de costa báltica de arena blanca a 30 minutos en tren de Riga, parque infantil estival de la élite rigueña desde el siglo XIX, con dachas de madera Art Nouveau de Dzintari y Majori, el mirador de Dubulti y una playa canina invernal con correa que solo abre del 1 de noviembre al 31 de marzo`,
       highlight: `el pinar bicentenario del Parque Forestal de Dzintari, los 33 km de playa canina fuera de temporada de Lielupe a Kemeri, y el paseo de las dachas de madera en Z. Meierovica prospekts`,
@@ -4312,6 +4327,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital do Tirol rodeada de picos alpinos a 2.300 m, transporte público grátis para cães, teleféricos pet-friendly até as cimas, tradición de café e Gasthaus que admite cães, e urgências veterinárias 24/7',
       highlight: 'a cordillera do Nordkette acessível en teleférico a partir do centro, o parque real Hofgarten e o Altstadt empedrado en torno al Goldenes Dachl',
       area: 'Altstadt, Wilten e o eje da Maria-Theresien-Strasse',
+    },
+    interlaken: {
+      personality: `a porta da Jungfrau Region na Suíça, sobre o Bödeli entre os lagos Thun e Brienz, onde a Höhematte (10 hectares protegidos) enquadra Eiger, Mönch e Jungfrau, o funicular Harder Kulm leva cães com focinheira a 1.322 m, os vapores históricos BLS admitem cães em ambos os lagos, e a linha de urgência 24/7 da Tierklinik Interlaken AG cobre toda a região`,
+      highlight: `o Harder Kulm ao pôr do sol com a plataforma Two Lakes Bridge, o passeio à beira do Aare entre Interlaken West e Ost, e um dia de barco BLS pelo lago Brienz até Iseltwald e às cascatas do Giessbach`,
+      area: `o centro do Bödeli em redor do Höheweg, Unterseen junto ao Aare, e a orla sul Matten / Wilderswil junto ao Jungfraubahn`,
     },
     jurmala: {
       personality: `o balneário mais famoso da Letónia, 33 km de costa báltica de areia branca a 30 minutos de comboio de Riga, parque infantil estival da elite riguense desde o século XIX, com dachas de madeira Art Nouveau de Dzintari e Majori, o miradouro de Dubulti e uma praia canina invernal com trela que só abre de 1 de novembro a 31 de março`,

@@ -8515,6 +8515,81 @@
     "tiqetsId": "60358"
   },
   {
+    "slug": "interlaken",
+    "name": "Interlaken",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "flag": "🇨🇭",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/interlaken.jpg",
+    "intro": "Switzerland's Jungfrau Region gateway sits on the Bödeli between Lakes Thun and Brienz, with the 10-hectare Höhematte meadow framed by Eiger, Mönch and Jungfrau, the Harder Kulm funicular for muzzled dogs at 1322 m, dog-friendly BLS heritage paddle steamers on both lakes, leashed-and-muzzled access on most Jungfraubahn lines (with altitude limits above Eigergletscher 2320 m), and a verified 24/7 vet line at Tierklinik Interlaken AG.",
+    "lat": 46.6863,
+    "lng": 7.8632,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & damp",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & green",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warm Alpine",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm Alpine",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & festive",
+        "icon": "🎄"
+      }
+    },
+    "iata": "BRN"
+  },
+  {
     "slug": "jurmala",
     "name": "Jurmala",
     "country": "Latvia",

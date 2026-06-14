@@ -9790,6 +9790,81 @@
     "tiqetsId": "78133"
   },
   {
+    "slug": "locarno",
+    "name": "Locarno",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "flag": "🇨🇭",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/locarno.jpg",
+    "intro": "Locarno is the sun-bathed Italian-speaking face of Ticino on the northern tip of Lago Maggiore, a 16,000-resident town at 205 m with the largest open square in Ticino (Piazza Grande and its August Locarno Film Festival open-air giant screen), the 12th-century Castello Visconteo, the Madonna del Sasso pilgrimage sanctuary reached by funicular in 5 minutes, the Cardada-Cimetta cable car combo to 1670 m, the Centovalli scenic narrow-gauge railway to Domodossola in Italy, the Verzasca Valley with its Roman bridge at Lavertezzo, the Brissago Islands botanical garden by NLM lake boat, and a verified veterinary network anchored by the Clinica Veterinaria Tre Valli in Bellinzona 25 minutes east. The subtropical Insubric microclimate is the sunniest in Switzerland, with palms, magnolias and camellias growing outdoors year-round.",
+    "lat": 46.1714,
+    "lng": 8.7997,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild, camellias bloom",
+        "icon": "🌸"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot, lake swimming",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Hot, Film Festival",
+        "icon": "🎬"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 15,
+        "desc": "Mild & golden",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Mild, autumn light",
+        "icon": "🍂"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "LGN"
+  },
+  {
     "slug": "london",
     "name": "London",
     "country": "United Kingdom",

@@ -691,6 +691,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the lakeside Schweizerhofquai promenade, the Sonnenberg forest ridge above the city, and the 30-hectare Allmend commons',
       area: 'the Altstadt, Tribschen, and Hirschmatt-Neustadt',
     },
+    locarno: {
+      personality: `the sun-bathed Italian-speaking face of Ticino on the northern tip of Lago Maggiore, 16,000 residents at 205 m where Piazza Grande hosts the August Locarno Film Festival open-air giant screen, the Madonna del Sasso pilgrimage sanctuary is reached by funicular in 5 minutes, the Cardada-Cimetta cable car climbs to 1670 m, the Centovalli railway crosses 100 valleys to Italy, the Verzasca Valley Roman bridge swims emerald, and the subtropical Insubric microclimate is the sunniest in Switzerland`,
+      highlight: `Piazza Grande and the medieval Città Vecchia, the Madonna del Sasso funicular at sunset, and the Verzasca Valley Lavertezzo Ponte dei Salti with summer river pools`,
+      area: `the centre around Piazza Grande and the Città Vecchia, Muralto and Minusio along the Lungolago, and Ascona on the lakefront 4 km west`,
+    },
     lugano: {
       personality: 'the elegant Italian-speaking face of Switzerland on Lake Lugano, where dogs ride the lake boats free, walk the Sentiero dell\'Olivo to Gandria, swim at the dedicated Caslano dog beach, and take the Monte Brè funicular to a 925 m panorama',
       highlight: 'the lakeside Promenade Lugano-Paradiso, the Sentiero dell\'Olivo to Gandria, and the Monte Brè funicular to the summit terrace',
@@ -1954,6 +1959,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la promenade lacustre du Schweizerhofquai, la crête boisée du Sonnenberg au-dessus de la ville et le pré communal de l'Allmend (30 hectares)`,
       area: `la Vieille Ville (Altstadt), Tribschen et Hirschmatt-Neustadt`,
     },
+    locarno: {
+      personality: `la face italophone ensoleillée du Tessin à l'extrémité nord du lac Majeur, 16 000 habitants à 205 m où la Piazza Grande accueille en août l'écran géant en plein air du Festival du film de Locarno, le sanctuaire de pèlerinage Madonna del Sasso est accessible par funiculaire en 5 minutes, la télécabine Cardada-Cimetta monte à 1 670 m, le train du Centovalli traverse 100 vallées jusqu'en Italie, le pont romain de la vallée Verzasca se baigne dans l'émeraude, et le microclimat insubrien subtropical est le plus ensoleillé de Suisse`,
+      highlight: `la Piazza Grande et la Città Vecchia médiévale, le funiculaire de Madonna del Sasso au coucher du soleil et le Ponte dei Salti de Lavertezzo en Verzasca avec ses piscines d'été`,
+      area: `le centre autour de la Piazza Grande et de la Città Vecchia, Muralto et Minusio le long du Lungolago, et Ascona sur la rive à 4 km à l'ouest`,
+    },
     lugano: {
       personality: `la face italophone élégante de la Suisse sur le lac de Lugano, où les chiens prennent gratuitement les bateaux du lac, parcourent le Sentiero dell'Olivo jusqu'à Gandria, se baignent à la plage canine dédiée de Caslano et prennent le funiculaire du Monte Brè jusqu'à un panorama à 925 m`,
       highlight: `la promenade lacustre Lugano-Paradiso, le Sentiero dell'Olivo jusqu'à Gandria et le funiculaire du Monte Brè vers la terrasse du sommet`,
@@ -3216,6 +3226,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el paseo lacustre del Schweizerhofquai, la cresta boscosa del Sonnenberg sobre la ciudad y la explanada comunal del Allmend (30 hectáreas)`,
       area: `el casco antiguo (Altstadt), Tribschen y Hirschmatt-Neustadt`,
     },
+    locarno: {
+      personality: `la cara italoparlante soleada del Ticino en el extremo norte del Lago Mayor, 16.000 habitantes a 205 m donde la Piazza Grande acoge en agosto la pantalla gigante al aire libre del Festival de Cine de Locarno, el santuario de peregrinación Madonna del Sasso es accesible por funicular en 5 minutos, la telecabina Cardada-Cimetta sube a 1.670 m, el tren del Centovalli atraviesa 100 valles hasta Italia, el puente romano del valle de la Verzasca se baña en esmeralda, y el microclima insúbrico subtropical es el más soleado de Suiza`,
+      highlight: `la Piazza Grande y la Città Vecchia medieval, el funicular de Madonna del Sasso al atardecer y el Ponte dei Salti de Lavertezzo en la Verzasca con sus piscinas de verano`,
+      area: `el centro en torno a la Piazza Grande y la Città Vecchia, Muralto y Minusio a lo largo del Lungolago, y Ascona en la orilla a 4 km al oeste`,
+    },
     lugano: {
       personality: `la cara italoparlante elegante de Suiza sobre el lago Lugano, donde los perros viajan gratis en los barcos del lago, recorren el Sentiero dell'Olivo hasta Gandria, se bañan en la playa canina dedicada de Caslano y suben en el funicular del Monte Brè a un panorama a 925 m`,
       highlight: `el paseo lacustre Lugano-Paradiso, el Sentiero dell'Olivo hasta Gandria y el funicular del Monte Brè a la terraza de la cumbre`,
@@ -4477,6 +4492,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma cidade suiza de cuento de hadas abrazada a um profundo lago alpino, onde pontes cubiertos de madera, esplanadas pet-friendly e cremalleras pet-friendly al Pilatus e al Rigi hacen que as jornadas multi-cima com cão sean sorprendentemente fáciles`,
       highlight: `o passeio lacustre do Schweizerhofquai, a cresta boscosa do Sonnenberg sobre a cidade e a explanada comunal do Allmend (30 hectáreas)`,
       area: `o centro histórico (Altstadt), Tribschen e Hirschmatt-Neustadt`,
+    },
+    locarno: {
+      personality: `a face italófona ensolarada do Ticino na ponta norte do Lago Maggiore, 16.000 habitantes a 205 m onde a Piazza Grande acolhe em agosto o ecrã gigante ao ar livre do Festival de Cinema de Locarno, o santuário de peregrinação Madonna del Sasso é acessível por funicular em 5 minutos, a telecabina Cardada-Cimetta sobe a 1.670 m, o comboio do Centovalli atravessa 100 vales até à Itália, a ponte romana do vale da Verzasca banha-se em esmeralda, e o microclima insúbrico subtropical é o mais ensolarado da Suíça`,
+      highlight: `a Piazza Grande e a Città Vecchia medieval, o funicular de Madonna del Sasso ao pôr-do-sol e o Ponte dei Salti de Lavertezzo na Verzasca com as suas piscinas de verão`,
+      area: `o centro em torno da Piazza Grande e da Città Vecchia, Muralto e Minusio ao longo do Lungolago, e Ascona na margem a 4 km a oeste`,
     },
     lugano: {
       personality: `a face italófona elegante da Suíça no lago Lugano, onde os cães viajam grátis nos barcos do lago, percorrem o Sentiero dell'Olivo até Gandria, banham-se na praia canina dedicada de Caslano e sobem no funicular do Monte Brè até um panorama a 925 m`,

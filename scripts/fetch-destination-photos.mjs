@@ -217,6 +217,7 @@ const TARGETS = [
   { slug: 'zermatt',   query: 'Zermatt Switzerland Matterhorn mountain village Alps Valais panorama sunrise' },
   { slug: 'st-moritz', query: 'St. Moritz Switzerland Engadin Graubünden alpine luxury resort Lej da San Murezzan frozen lake Cresta Run Muottas Muragl funicular panorama sunset' },
   { slug: 'lugano',    query: 'Lugano Switzerland Ticino lake Monte San Salvatore lakefront promenade palms panorama sunset' },
+  { slug: 'locarno',   query: 'Locarno Switzerland Ticino Lago Maggiore Piazza Grande open square arcades pastel facades Madonna del Sasso pilgrimage sanctuary funicular Orselina hillside Cardada Cimetta cable car 1670m alpine panorama Castello Visconteo 12th century Città Vecchia medieval lanes Lungolago palms magnolias camellias Brissago Islands botanical garden Verzasca valley emerald river panorama sunset' },
   { slug: 'santiago-de-compostela', query: 'Santiago de Compostela Spain Cathedral Praza do Obradoiro Galicia old town granite spires panorama sunset' },
   { slug: 'vigo', query: 'Vigo Spain Ria de Vigo port harbour Castro park Cies Islands Galicia Atlantic panorama sunset' },
   { slug: 'marbella', query: 'Marbella Spain Casco Antiguo Plaza de los Naranjos whitewashed old town Andalusia Mediterranean panorama' },

@@ -15448,6 +15448,81 @@
     "tiqetsId": "68069"
   },
   {
+    "slug": "st-moritz",
+    "name": "St. Moritz",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "flag": "🇨🇭",
+    "categoryCount": 7,
+    "heroImage": "/images/destinations/st-moritz.jpg",
+    "intro": "St. Moritz is the alpine luxury benchmark of Graubünden's Engadin valley at 1856 m, where leashed dogs walk the frozen Lej da San Murezzan loop past the Cresta Run, ride the 1907 Muottas Muragl funicular to 2453 m for the Senda Filosofica panorama, climb the Diavolezza cable car to 2978 m above the Morteratsch glacier, and travel the UNESCO Rhaetian Railway on the Glacier and Bernina Express trains under 322 sun days a year.",
+    "lat": 46.4908,
+    "lng": 9.8355,
+    "weather": {
+      "jan": {
+        "temp": -8,
+        "desc": "Snowy & sunny",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -7,
+        "desc": "Snowy & sunny",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": -3,
+        "desc": "Cold & sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 2,
+        "desc": "Cool spring melt",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 7,
+        "desc": "Cool & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 11,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 10,
+        "desc": "Cool & clear",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 5,
+        "desc": "Cool & crisp",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": -2,
+        "desc": "Cold & snowy",
+        "icon": "🌨️"
+      },
+      "dec": {
+        "temp": -6,
+        "desc": "Snowy & festive",
+        "icon": "❄️"
+      }
+    },
+    "iata": "ZRH"
+  },
+  {
     "slug": "stavanger",
     "name": "Stavanger",
     "country": "Norway",

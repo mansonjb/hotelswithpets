@@ -1057,6 +1057,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Marjan Hill forest park, the Bačvice beach dog zone, and the coastal path to Stobreč',
       area: 'Meje, the Old Town surroundings, and the Manuš neighbourhood',
     },
+    'st-moritz': {
+      personality: `the alpine luxury benchmark of Graubünden's Engadin valley at 1856 m, where 322 sun days a year (the highest in Switzerland) light up the frozen Lej da San Murezzan winter lake, the historic Cresta Run skeleton track, the 1907 Muottas Muragl panoramic funicular, the Diavolezza glacier cable car at 2978 m, and the UNESCO Rhaetian Railway Glacier and Bernina Express`,
+      highlight: `the 4.5 km Lej da San Murezzan lake loop linking St. Moritz-Dorf and St. Moritz-Bad past the Mauritius Spring chapel, the Muottas Muragl Senda Filosofica panorama over the four Engadin lakes, and the Val Roseg trail from Pontresina with horse-carriage option`,
+      area: `St. Moritz-Dorf around Via Maistra and the Schiefer Turm, St. Moritz-Bad on the lakeshore and at the Bronze Age Mauritius mineral spring, and the surrounding Upper Engadin villages of Pontresina, Sils Maria and Silvaplana`,
+    },
     stavanger: {
       personality: `Norway's third city and the gateway to the Lysefjord, a UNESCO-rated wooden Old Town (Gamle Stavanger), exceptionally dog-friendly transport (free buses, free trains, free fjord ferries), the iconic Pulpit Rock 50 min east, and 35 km of dog-friendly Atlantic sand 15 min south`,
       highlight: `Pulpit Rock (Preikestolen) hike with leashed dog, the Lysefjord cruise, and Solastranden Atlantic dog beach 15 min from the centre`,
@@ -2298,6 +2303,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une ville côtière croate décontractée où le front de mer adriatique, l\'ancien Palais de Dioclétien et une culture locale relax en font une destination remarquable pour les propriétaires d\'animaux',
       highlight: 'le parc forestier de la colline Marjan, la zone chiens de la plage de Bačvice et le sentier côtier vers Stobreč',
       area: 'Meje, les environs de la Vieille Ville et le quartier de Manuš',
+    },
+    'st-moritz': {
+      personality: `la référence du luxe alpin de la vallée de l'Engadine grisonne à 1 856 m, où 322 jours de soleil par an (le record suisse) illuminent le Lej da San Murezzan gelé en hiver, le mythique Cresta Run de skeleton, le funiculaire panoramique de Muottas Muragl de 1907, le téléphérique glaciaire du Diavolezza à 2 978 m et le Chemin de fer rhétique UNESCO du Glacier Express et du Bernina Express`,
+      highlight: `la boucle de 4,5 km du Lej da San Murezzan reliant St. Moritz-Dorf et St. Moritz-Bad par la chapelle de la source Mauritius, le panorama de la Senda Filosofica de Muottas Muragl sur les quatre lacs engadinois, et le sentier du Val Roseg depuis Pontresina avec option calèche`,
+      area: `St. Moritz-Dorf autour de la Via Maistra et du Schiefer Turm, St. Moritz-Bad sur la rive du lac et la source minérale Mauritius de l'âge du bronze, et les villages voisins de la Haute-Engadine Pontresina, Sils Maria et Silvaplana`,
     },
     stavanger: {
       personality: `la troisième ville de Norvège et porte d'entrée du Lysefjord, vieille ville en bois classée UNESCO (Gamle Stavanger), transports exceptionnellement dog-friendly (bus, trains, ferries de fjord gratuits), l'iconique Preikestolen à 50 min à l'est, et 35 km de sable atlantique dog-friendly à 15 min au sud`,
@@ -3551,6 +3561,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el parque forestal de la colina Marjan, la zona para perros de la playa de Bačvice y el sendero costero hacia Stobreč',
       area: 'Meje, los alrededores del Casco Antiguo y el barrio de Manuš',
     },
+    'st-moritz': {
+      personality: `la referencia del lujo alpino del valle suizo de la Engadina en los Grisones a 1.856 m, donde 322 días de sol al año (récord suizo) iluminan el Lej da San Murezzan helado en invierno, el mítico Cresta Run de skeleton, el funicular panorámico de Muottas Muragl de 1907, el teleférico glaciar del Diavolezza a 2.978 m y el Ferrocarril Rético UNESCO del Glacier Express y el Bernina Express`,
+      highlight: `el circuito de 4,5 km del Lej da San Murezzan que une St. Moritz-Dorf y St. Moritz-Bad por la capilla de la fuente Mauritius, el panorama de la Senda Filosofica de Muottas Muragl sobre los cuatro lagos engadineses, y el sendero del Val Roseg desde Pontresina con opción carruaje`,
+      area: `St. Moritz-Dorf alrededor de la Via Maistra y el Schiefer Turm, St. Moritz-Bad a orillas del lago y la fuente mineral Mauritius de la Edad del Bronce, y los pueblos vecinos de la Alta Engadina Pontresina, Sils Maria y Silvaplana`,
+    },
     stavanger: {
       personality: `la tercera ciudad de Noruega y puerta de entrada al Lysefjord, casco antiguo de madera clasificado UNESCO (Gamle Stavanger), transporte excepcionalmente dog-friendly (buses, trenes, ferries de fiordo gratis), el icónico Preikestolen a 50 min al este, y 35 km de arena atlántica dog-friendly a 15 min al sur`,
       highlight: `la caminata del Preikestolen con perro con correa, el crucero del Lysefjord y la playa atlántica de Solastranden a 15 min del centro`,
@@ -4802,6 +4817,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma relajada cidade costera croata onde o passeio marítimo adriático, o antigo Palácio de Diocleciano e uma actitud local distendida a convierten num destino destacado para os duenhos de animais',
       highlight: 'o parque forestal da colina Marjan, a zona para cães da praia de Bačvice e o trilho costero hacia Stobreč',
       area: 'Meje, os alrededores do centro histórico e o bairro de Manuš',
+    },
+    'st-moritz': {
+      personality: `a referência do luxo alpino do vale suíço da Engadina nos Grisões a 1.856 m, onde 322 dias de sol por ano (recorde suíço) iluminam o Lej da San Murezzan gelado no inverno, o mítico Cresta Run de skeleton, o funicular panorâmico de Muottas Muragl de 1907, o teleférico glaciar do Diavolezza a 2.978 m e o Caminho-de-Ferro Rético UNESCO do Glacier Express e do Bernina Express`,
+      highlight: `o circuito de 4,5 km do Lej da San Murezzan que liga St. Moritz-Dorf e St. Moritz-Bad pela capela da fonte Mauritius, o panorama da Senda Filosofica de Muottas Muragl sobre os quatro lagos engadineses, e o trilho do Val Roseg a partir de Pontresina com opção carruagem`,
+      area: `St. Moritz-Dorf em redor da Via Maistra e do Schiefer Turm, St. Moritz-Bad à beira do lago e da fonte mineral Mauritius da Idade do Bronze, e as aldeias vizinhas da Alta Engadina Pontresina, Sils Maria e Silvaplana`,
     },
     stavanger: {
       personality: `a tercera cidade de Noruega e puerta de entrada al Lysefjord, centro histórico de madera clasificado UNESCO (Gamle Stavanger), transporte excepcionalmente pet-friendly (buses, comboios, ferries de fiordo grátis), o icónico Preikestolen a 50 min al este, e 35 km de areia atlântica pet-friendly a 15 min al sur`,

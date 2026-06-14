@@ -7615,6 +7615,81 @@
     "tiqetsId": "60360"
   },
   {
+    "slug": "grindelwald",
+    "name": "Grindelwald",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "flag": "🇨🇭",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/grindelwald.jpg",
+    "intro": "Switzerland's Eiger north face village sits at 1034 m at the heart of the Jungfrau Region, with the First Cliff Walk sky-walk at 2168 m, the postcard Bachalpsee alpine lake, the Männlichen ridge (Europe's longest aerial tramway) at 2342 m, the Eiger Express tricable gondola from Grindelwald Terminal to Eigergletscher in 15 minutes, the Glacier Canyon Gletscherschlucht wooden walkways, and a verified 24/7 vet line at Tierklinik Interlaken AG 35 minutes downhill.",
+    "lat": 46.6244,
+    "lng": 8.0418,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 2,
+        "desc": "Cold, ski season",
+        "icon": "🎿"
+      },
+      "apr": {
+        "temp": 6,
+        "desc": "Cool, thaw",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 11,
+        "desc": "Mild & green",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm, peak hiking",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Warm, peak hiking",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild autumn",
+        "icon": "🍂"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool, golden",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Cold, first snow",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Cold, festive snow",
+        "icon": "🎄"
+      }
+    },
+    "iata": "BRN"
+  },
+  {
     "slug": "guimaraes",
     "name": "Guimarães",
     "country": "Portugal",

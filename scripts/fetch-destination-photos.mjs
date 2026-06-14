@@ -178,6 +178,7 @@ const TARGETS = [
   { slug: 'graz', query: 'Graz Austria Schlossberg Uhrturm clock tower Altstadt red rooftops Mur river Styria UNESCO panorama sunset' },
   { slug: 'lucerne', query: 'Lucerne Switzerland Chapel Bridge Kapellbrucke Wasserturm Reuss river Mount Pilatus Vierwaldstattersee Altstadt panorama sunset' },
   { slug: 'interlaken', query: 'Interlaken Switzerland Bernese Oberland Bödeli Höhematte protected meadow Eiger Mönch Jungfrau panorama Harder Kulm funicular Two Lakes Bridge Lake Thun Lake Brienz turquoise Aare river Unterseen Jungfraubahn paragliders sunset' },
+  { slug: 'grindelwald', query: 'Grindelwald Switzerland Bernese Oberland Jungfrau Region Eiger north face village Eigergletscher First Cliff Walk Tissot sky-walk 2168m Bachalpsee alpine lake mirror reflection Schreckhorn Wetterhorn Männlichen ridge Pfingstegg Bäregg glacier viewpoint Gletscherschlucht canyon wooden walkways Hauptstrasse chalet wooden houses Wetterhorn alpenglow panorama sunset' },
   { slug: 'montreux', query: 'Montreux Switzerland Swiss Riviera Lake Geneva Quais Fleuris flowered promenade Freddie Mercury statue Casino palm trees Château de Chillon Dents du Midi Lavaux UNESCO vineyards Belle Époque sunset panorama' },
   { slug: 'bremen', query: 'Bremen Germany Marktplatz Town Hall Roland Statue Stadtmusikanten Schnoor Hanseatic Weser river panorama sunset' },
   { slug: 'heraklion', query: 'Heraklion Crete Greece Koules Venetian fortress old harbour walls Lions Square Morosini Fountain panorama sunset' },

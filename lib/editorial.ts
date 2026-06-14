@@ -521,6 +521,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Paseo de los Tristes below the Alhambra walls, the Albaicín UNESCO quarter, and the dog-friendly parks of the Arabial district',
       area: 'the Albaicín, the Realejo, and the historic centre around Plaza Nueva',
     },
+    grindelwald: {
+      personality: `Switzerland's Eiger north face village at the heart of the Jungfrau Region, 4,000 residents at 1034 m where the First Cliff Walk sky-walk hangs at 2168 m, the Männlichenbahn (Europe's longest aerial tramway) climbs to 2342 m, the Eiger Express tricable gondola from Grindelwald Terminal reaches Eigergletscher in 15 minutes, and the Tierklinik Interlaken 24/7 emergency line covers the whole valley`,
+      highlight: `the First Cliff Walk at sunrise with the Eiger north face glowing orange, the 1h hike to the postcard Bachalpsee at 2265 m, and the Pfingstegg cable car to the Bäregg glacier viewpoint`,
+      area: `Grindelwald Dorf along the Hauptstrasse under the Eiger, Grindelwald Grund at the Eiger Express + Männlichenbahn terminal, and the alpine plateaus of First, Männlichen and Pfingstegg`,
+    },
     guimaraes: {
       personality: `the UNESCO-listed birthplace of Portugal, a fully pedestrianised granite old town wrapped around the 10th-century Castelo where the first King of Portugal was born, the 15th-century Paço dos Duques palace, the iconic medieval Largo da Oliveira, and the 617 m Penha mountain reached by Portugal's longest cable car that welcomes leashed dogs in every cabin`,
       highlight: `the Castelo and Paço dos Duques on the castle hill, the Largo da Oliveira with the Gothic Padrão do Salado, and the Penha mountain trails reached by the dog-friendly Teleférico da Penha`,
@@ -1779,6 +1784,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Paseo de los Tristes au pied des remparts de l\'Alhambra, le quartier UNESCO de l\'Albaicín et les parcs dog-friendly du quartier d\'Arabial',
       area: 'l\'Albaicín, le Realejo et le centre historique autour de la Plaza Nueva',
     },
+    grindelwald: {
+      personality: `le village suisse au pied de la face nord de l'Eiger, au cœur de la Jungfrau Region, 4 000 habitants à 1 034 m où le First Cliff Walk surplombe le vide à 2 168 m, la Männlichenbahn (plus long téléphérique d'Europe) monte à 2 342 m, l'Eiger Express tricâble depuis le Grindelwald Terminal atteint l'Eigergletscher en 15 minutes, et la ligne d'urgence 24/7 de la Tierklinik Interlaken couvre toute la vallée`,
+      highlight: `le First Cliff Walk au lever du soleil avec la face nord de l'Eiger devenant orange, la randonnée d'1h jusqu'au Bachalpsee à 2 265 m, et la télécabine du Pfingstegg jusqu'au belvédère glaciaire de Bäregg`,
+      area: `Grindelwald Dorf le long de la Hauptstrasse sous l'Eiger, Grindelwald Grund au terminal Eiger Express + Männlichenbahn, et les plateaux alpins du First, du Männlichen et du Pfingstegg`,
+    },
     guimaraes: {
       personality: `berceau du Portugal classé à l'UNESCO, vieille ville en granit entièrement piétonne enroulée autour du Castelo du Xᵉ siècle où naquit le premier roi du Portugal, du palais Paço dos Duques du XVᵉ siècle, de l'emblématique Largo da Oliveira médiéval, et de la montagne de la Penha à 617 m accessible par le plus long téléphérique du Portugal qui accueille les chiens en laisse dans chaque cabine`,
       highlight: `le Castelo et le Paço dos Duques sur la colline du château, le Largo da Oliveira avec le Padrão do Salado gothique, et les sentiers de la Penha accessibles par le Teleférico da Penha dog-friendly`,
@@ -3036,6 +3046,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Paseo de los Tristes al pie de las murallas de la Alhambra, el barrio UNESCO del Albaicín y los parques dog-friendly del barrio de Arabial',
       area: 'el Albaicín, el Realejo y el centro histórico en torno a la Plaza Nueva',
     },
+    grindelwald: {
+      personality: `el pueblo suizo al pie de la cara norte del Eiger, en el corazón de la Jungfrau Region, 4.000 habitantes a 1.034 m donde el First Cliff Walk se asoma al vacío a 2.168 m, el Männlichenbahn (teleférico más largo de Europa) sube a 2.342 m, el Eiger Express tricable desde el Grindelwald Terminal alcanza el Eigergletscher en 15 minutos, y la línea de urgencia 24/7 de la Tierklinik Interlaken cubre todo el valle`,
+      highlight: `el First Cliff Walk al amanecer con la cara norte del Eiger volviéndose naranja, la caminata de 1h hasta el Bachalpsee a 2.265 m, y el telecabina del Pfingstegg hasta el mirador glaciar de Bäregg`,
+      area: `Grindelwald Dorf a lo largo de la Hauptstrasse bajo el Eiger, Grindelwald Grund en el terminal Eiger Express + Männlichenbahn, y las mesetas alpinas del First, Männlichen y Pfingstegg`,
+    },
     guimaraes: {
       personality: `cuna de Portugal declarada Patrimonio de la UNESCO, casco antiguo de granito enteramente peatonal envuelto en torno al Castelo del siglo X donde nació el primer Rey de Portugal, el palacio Paço dos Duques del siglo XV, el emblemático Largo da Oliveira medieval, y la montaña da Penha de 617 m accesible por el teleférico más largo de Portugal que admite perros con correa en cada cabina`,
       highlight: `el Castelo y el Paço dos Duques en la colina del castillo, el Largo da Oliveira con el Padrão do Salado gótico, y los senderos da Penha accesibles por el Teleférico da Penha pet-friendly`,
@@ -4292,6 +4307,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a cidade árabe mais atmosférica de Europa, onde a Alhambra vigila as callejuelas empedradas do Albaicín, a cultura da esplanada andaluza hace que os cães sean genuinamente bem-vindos e Sierra Nevada está a uma hora',
       highlight: 'o Passeio dos Tristes al pie das muralhas da Alhambra, o bairro UNESCO do Albaicín e os parques pet-friendly do bairro de Arabial',
       area: 'o Albaicín, o Realejo e o centro histórico en torno a a Praça Nueva',
+    },
+    grindelwald: {
+      personality: `a aldeia suíça ao pé da face norte do Eiger, no coração da Jungfrau Region, 4.000 habitantes a 1.034 m onde o First Cliff Walk debruça-se sobre o vazio a 2.168 m, o Männlichenbahn (teleférico mais longo da Europa) sobe a 2.342 m, o Eiger Express tricabo a partir do Grindelwald Terminal chega ao Eigergletscher em 15 minutos, e a linha de urgência 24/7 da Tierklinik Interlaken cobre todo o vale`,
+      highlight: `o First Cliff Walk ao nascer do sol com a face norte do Eiger a tornar-se cor de laranja, a caminhada de 1h até ao Bachalpsee a 2.265 m, e o telecabina do Pfingstegg até ao miradouro glaciar de Bäregg`,
+      area: `Grindelwald Dorf ao longo da Hauptstrasse sob o Eiger, Grindelwald Grund no terminal Eiger Express + Männlichenbahn, e os planaltos alpinos do First, Männlichen e Pfingstegg`,
     },
     guimaraes: {
       personality: `berço de Portugal classificado pela UNESCO, cidade velha de granito inteiramente pedonal enrolada em torno do Castelo do século X onde nasceu o primeiro Rei de Portugal, o paço Paço dos Duques do século XV, o emblemático Largo da Oliveira medieval, e a montanha da Penha de 617 m acessível pelo teleférico mais longo de Portugal que aceita cães com trela em cada cabine`,

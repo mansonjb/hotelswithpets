@@ -851,6 +851,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Oslomarka forest, the Bygdøy peninsula, and the Akerselva river trail',
       area: 'Frogner, Grünerløkka, and Tjuvholmen',
     },
+    ostend: {
+      personality: `a 72 000-resident Belgian Royal Resort on the North Sea with 9 km of sandy Albert I-promenade, year-round dog-beach zones at Mariakerke, Raversijde and Oosteroever, the Kusttram (the longest tram line in the world at 67 km), free-dog NMBS trains to Bruges in 12 min and Brussels in 1h15, and the Stena Line ferry to Ramsgate (UK) in about 4h`,
+      highlight: `the Albert I-promenade and Kursaal seafront, the Atlantikwall Raversijde dune heritage park, and the 36-hectare Maria Hendrika Park (largest on the Belgian coast)`,
+      area: `the seafront centre around the Kursaal and Marie-Jose park, the Visserskaai fishing-quay strip and Vlaanderenstraat back-streets, and the western dog-beach hub at Mariakerke and Raversijde`,
+    },
     oxford: {
       personality: 'a medieval university city where the honey-coloured college quadrangles are off-limits but the surrounding meadows, riverside pubs, and the off-lead Port Meadow make it one of England\'s easiest small-city dog breaks',
       highlight: 'Port Meadow off-lead common, Christ Church Meadow, and the University Parks',
@@ -2134,6 +2139,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la forêt de l\'Oslomarka, la péninsule de Bygdøy et le sentier de la rivière Akerselva',
       area: 'Frogner, Grünerløkka et Tjuvholmen',
     },
+    ostend: {
+      personality: `une station royale belge de 72 000 habitants sur la mer du Nord avec 9 km de promenade Albert I sableuse, des zones de plage canine toute l'année à Mariakerke, Raversijde et Oosteroever, le Kusttram (la plus longue ligne de tram au monde avec 67 km), des trains NMBS chien gratuit vers Bruges en 12 min et Bruxelles en 1h15, et le ferry Stena Line vers Ramsgate (UK) en environ 4h`,
+      highlight: `la promenade Albert I et le front de mer du Kursaal, le parc patrimonial dunaire Atlantikwall Raversijde, et le parc Maria Hendrika de 36 hectares (le plus grand de la côte belge)`,
+      area: `le centre balnéaire autour du Kursaal et du parc Marie-José, le quai des pêcheurs Visserskaai et les rues arrière de la Vlaanderenstraat, et le hub ouest des plages canines à Mariakerke et Raversijde`,
+    },
     oxford: {
       personality: 'une ville universitaire médiévale où les cours des collèges couleur miel sont interdites aux chiens mais où les prairies environnantes, les pubs riverains et le Port Meadow sans laisse en font l\'une des escapades urbaines les plus faciles d\'Angleterre',
       highlight: 'le common sans laisse de Port Meadow, Christ Church Meadow et les University Parks',
@@ -3416,6 +3426,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el bosque del Oslomarka, la península de Bygdøy y el sendero del río Akerselva',
       area: 'Frogner, Grünerløkka y Tjuvholmen',
     },
+    ostend: {
+      personality: `una estación balnearia real belga de 72 000 habitantes en el Mar del Norte con 9 km de paseo Albert I arenoso, zonas de playa canina todo el año en Mariakerke, Raversijde y Oosteroever, el Kusttram (la línea de tranvía más larga del mundo con 67 km), trenes NMBS con perro gratis a Brujas en 12 min y Bruselas en 1h15, y el ferry Stena Line a Ramsgate (UK) en unas 4h`,
+      highlight: `el paseo Albert I y el frente marítimo del Kursaal, el parque patrimonial dunar Atlantikwall Raversijde, y el parque Maria Hendrika de 36 hectáreas (el mayor de la costa belga)`,
+      area: `el centro costero alrededor del Kursaal y del parque Marie-José, el muelle pesquero Visserskaai y las calles traseras de la Vlaanderenstraat, y el hub oeste de playas caninas en Mariakerke y Raversijde`,
+    },
     oxford: {
       personality: 'una ciudad universitaria medieval donde los patios color miel de los colleges están vetados a los perros pero los prados circundantes, los pubs ribereños y el Port Meadow sin correa la convierten en una de las escapadas urbanas más fáciles de Inglaterra',
       highlight: 'el common sin correa de Port Meadow, Christ Church Meadow y los University Parks',
@@ -4697,6 +4712,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital escandinava onde a proximidad de fiordos, florestas e a vasta red de trilhos do Oslomarka a convierten en uno dos melhores destinos do continente para os duenhos de cães activos',
       highlight: 'o floresta do Oslomarka, a península de Bygdøy e o trilho do rio Akerselva',
       area: 'Frogner, Grünerløkka e Tjuvholmen',
+    },
+    ostend: {
+      personality: `uma estação balnear real belga de 72 000 habitantes no Mar do Norte com 9 km de passeio Albert I arenoso, zonas de praia canina o ano inteiro em Mariakerke, Raversijde e Oosteroever, o Kusttram (a linha de elétrico mais longa do mundo com 67 km), comboios NMBS com cão grátis para Bruges em 12 min e Bruxelas em 1h15, e o ferry Stena Line para Ramsgate (UK) em cerca de 4h`,
+      highlight: `o passeio Albert I e a frente-mar do Kursaal, o parque patrimonial dunar Atlantikwall Raversijde, e o parque Maria Hendrika de 36 hectares (o maior da costa belga)`,
+      area: `o centro balnear em torno do Kursaal e do parque Marie-José, o cais dos pescadores Visserskaai e as ruas traseiras da Vlaanderenstraat, e o hub oeste das praias caninas em Mariakerke e Raversijde`,
     },
     oxford: {
       personality: 'uma cidade universitaria medieval onde os patios color miel dos colleges estão vetados aos cães mas os prados circundantes, os pubs riberenhos e o Port Meadow sem trela a convierten numa das escapadas urbanas mais fáciles de Inglaterra',

@@ -12521,6 +12521,32 @@
     "tiqetsId": "75084"
   },
   {
+    "slug": "ostend",
+    "name": "Ostend",
+    "country": "Belgium",
+    "flag": "🇧🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/ostend.jpg",
+    "intro": "Ostend, the Belgian Royal Resort on the North Sea with 9 km of sandy promenade, year-round dog-beach zones at Mariakerke, Raversijde and Oosteroever, the Kusttram (longest tram line in the world, 67 km) and the Stena Line ferry to Ramsgate (UK), is one of the easiest pet-travel hubs on the Belgian coast.",
+    "lat": 51.2167,
+    "lng": 2.9000,
+    "weather": {
+      "jan": { "temp": 4, "desc": "Cold & windy", "icon": "🌧️" },
+      "feb": { "temp": 4, "desc": "Cold & windy", "icon": "🌧️" },
+      "mar": { "temp": 7, "desc": "Cool & breezy", "icon": "🌦️" },
+      "apr": { "temp": 11, "desc": "Mild with rain", "icon": "🌦️" },
+      "may": { "temp": 14, "desc": "Mild & breezy", "icon": "⛅" },
+      "jun": { "temp": 17, "desc": "Mild & pleasant", "icon": "⛅" },
+      "jul": { "temp": 19, "desc": "Mild summer", "icon": "🌤️" },
+      "aug": { "temp": 19, "desc": "Mild summer", "icon": "🌤️" },
+      "sep": { "temp": 17, "desc": "Mild & pleasant", "icon": "⛅" },
+      "oct": { "temp": 13, "desc": "Mild with rain", "icon": "🌦️" },
+      "nov": { "temp": 8, "desc": "Cool & windy", "icon": "🌦️" },
+      "dec": { "temp": 5, "desc": "Cool & windy", "icon": "🌧️" }
+    },
+    "iata": "BRU"
+  },
+  {
     "slug": "oxford",
     "name": "Oxford",
     "country": "United Kingdom",

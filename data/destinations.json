@@ -9817,6 +9817,82 @@
     "tiqetsId": "76528"
   },
   {
+    "slug": "leuven",
+    "name": "Leuven",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "flag": "🇧🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/leuven.jpg",
+    "intro": "Leuven is the Flemish university capital of Vlaams-Brabant, home to KU Leuven (the oldest Catholic university in the world, founded 1425) and the Stella Artois brewery (Den Hoorn 1366). The flamboyant late-15th-century Brabantine Gothic Stadhuis faces the Sint-Pieterskerk on the Grote Markt, the UNESCO Groot Begijnhof (1232, largest preserved in Belgium) sits five minutes south, the Oude Markt is the 40+ café 'longest bar in Europe', the 4800-hectare Heverleebos and Meerdaalwoud forests start 3 km south, and Brussels Airport BRU is just 18 minutes by direct NMBS train, the closest sizeable Belgian city to the national air hub.",
+    "lat": 50.8798,
+    "lng": 4.7005,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "BRU",
+    "languages": ["Dutch", "French", "English"]
+  },
+  {
     "slug": "liverpool",
     "name": "Liverpool",
     "country": "United Kingdom",

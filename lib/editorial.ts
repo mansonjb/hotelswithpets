@@ -676,6 +676,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Monsanto forest park, Belém waterfront, and the esplanades of Alfama',
       area: 'Chiado, Príncipe Real, and Bairro Alto',
     },
+    leuven: {
+      personality: `the Flemish university capital of Vlaams-Brabant, home to KU Leuven (the oldest Catholic university in the world, 1425) and the Stella Artois brewery, with a flamboyant Brabantine Gothic Stadhuis on the Grote Markt, the UNESCO Groot Begijnhof neighbourhood, the Oude Markt 40+ café 'longest bar in Europe', the 4800-hectare Heverleebos and Meerdaalwoud forests at the south edge, and Brussels Airport BRU just 18 minutes away by direct NMBS train`,
+      highlight: `the Brabantine Gothic Stadhuis with its 236-statue facade, the UNESCO Groot Begijnhof Leuven (largest preserved beguinage in Belgium, 1232), the Heverleebos forest off-leash zones, and Stella Artois Brewery tours from De Hoorn on the Vaartkom`,
+      area: `the Grote Markt around the Stadhuis and Sint-Pieterskerk, the Oude Markt 40+ café strip, the Naamsestraat student spine, the Groot Begijnhof south, and the Vaartkom canal basin north`,
+    },
     liverpool: {
       personality: `a UNESCO-listed maritime city with one of north-west England's largest urban park networks, three off-leash dog beaches within 25 minutes by Merseyrail, and a Baltic Triangle pub corridor that welcomes leashed dogs year-round`,
       highlight: `Sefton Park's 95-hectare Victorian meadows, Crosby Beach with the Antony Gormley Iron Men, and the Royal Albert Dock waterfront`,
@@ -1964,6 +1969,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le parc forestier de Monsanto, le front de mer de Belém et les esplanades d\'Alfama',
       area: 'Chiado, Príncipe Real et Bairro Alto',
     },
+    leuven: {
+      personality: `capitale universitaire flamande du Brabant flamand, abrite la KU Leuven (plus vieille université catholique du monde, fondée en 1425) et la brasserie Stella Artois, avec un Stadhuis gothique brabançon flamboyant sur la Grote Markt, le quartier UNESCO du Groot Begijnhof, l'Oude Markt et ses 40+ cafés (le 'plus long bar d'Europe'), les 4 800 hectares de forêts du Heverleebos et du Meerdaalwoud en lisière sud, et l'aéroport de Bruxelles BRU à seulement 18 minutes en train NMBS direct`,
+      highlight: `le Stadhuis gothique brabançon avec sa façade aux 236 statues, le Groot Begijnhof UNESCO (plus grand béguinage préservé de Belgique, 1232), les zones sans laisse de la forêt du Heverleebos et les visites de la brasserie Stella Artois au départ de De Hoorn sur la Vaartkom`,
+      area: `la Grote Markt autour du Stadhuis et de la Sint-Pieterskerk, les 40+ cafés de l'Oude Markt, la Naamsestraat (rue étudiante), le Groot Begijnhof au sud, et le bassin de la Vaartkom au nord`,
+    },
     liverpool: {
       personality: `une ville maritime classée UNESCO, avec l'un des plus grands réseaux de parcs urbains du nord-ouest de l'Angleterre, trois plages canines sans laisse à 25 minutes en Merseyrail et un couloir de pubs au Baltic Triangle qui accueille les chiens en laisse à l'année`,
       highlight: `les prairies victoriennes de Sefton Park (95 hectares), Crosby Beach avec les Iron Men d'Antony Gormley, et le front de mer du Royal Albert Dock`,
@@ -3251,6 +3261,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el parque forestal de Monsanto, el paseo marítimo de Belém y las explanadas de Alfama',
       area: 'Chiado, Príncipe Real y Bairro Alto',
     },
+    leuven: {
+      personality: `capital universitaria flamenca del Brabante Flamenco, alberga la KU Leuven (la universidad católica más antigua del mundo, fundada en 1425) y la fábrica Stella Artois, con un Stadhuis gótico brabantino flamígero en la Grote Markt, el barrio UNESCO del Groot Begijnhof, la Oude Markt y sus 40+ cafés (la 'barra más larga de Europa'), las 4 800 hectáreas de bosques del Heverleebos y el Meerdaalwoud al sur, y el aeropuerto de Bruselas BRU a solo 18 minutos en tren NMBS directo`,
+      highlight: `el Stadhuis gótico brabantino con su fachada de 236 estatuas, el Groot Begijnhof UNESCO (mayor beguinaje preservado de Bélgica, 1232), las zonas sin correa del bosque Heverleebos y las visitas a la fábrica Stella Artois saliendo de De Hoorn en la Vaartkom`,
+      area: `la Grote Markt alrededor del Stadhuis y la Sint-Pieterskerk, los 40+ cafés de la Oude Markt, la Naamsestraat (calle estudiantil), el Groot Begijnhof al sur, y la dársena de la Vaartkom al norte`,
+    },
     liverpool: {
       personality: `una ciudad marítima Patrimonio de la UNESCO, con una de las mayores redes de parques urbanos del noroeste de Inglaterra, tres playas caninas sin correa a 25 minutos en Merseyrail y un corredor de pubs en el Baltic Triangle que admite perros con correa todo el año`,
       highlight: `las praderas victorianas de Sefton Park (95 hectáreas), Crosby Beach con los Iron Men de Antony Gormley y el paseo marítimo del Royal Albert Dock`,
@@ -4537,6 +4552,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade soleada e com colinas cuyo clima suave a hace ideal para viajar com animais durante o ano inteiro',
       highlight: 'o parque forestal de Monsanto, o passeio marítimo de Belém e as explanadas de Alfama',
       area: 'Chiado, Príncipe Real e Bairro Alto',
+    },
+    leuven: {
+      personality: `capital universitária flamenga do Brabante Flamengo, alberga a KU Leuven (a universidade católica mais antiga do mundo, fundada em 1425) e a fábrica Stella Artois, com um Stadhuis gótico brabantino flamejante na Grote Markt, o bairro UNESCO do Groot Begijnhof, a Oude Markt e os seus 40+ cafés (o 'balcão mais longo da Europa'), os 4 800 hectares de florestas do Heverleebos e do Meerdaalwoud a sul, e o aeroporto de Bruxelas BRU a apenas 18 minutos em comboio NMBS direto`,
+      highlight: `o Stadhuis gótico brabantino com a sua fachada de 236 estátuas, o Groot Begijnhof UNESCO (maior beguinato preservado da Bélgica, 1232), as zonas sem trela da floresta Heverleebos e as visitas à fábrica Stella Artois a partir de De Hoorn na Vaartkom`,
+      area: `a Grote Markt em torno do Stadhuis e da Sint-Pieterskerk, os 40+ cafés da Oude Markt, a Naamsestraat (rua estudantil), o Groot Begijnhof a sul, e a bacia da Vaartkom a norte`,
     },
     liverpool: {
       personality: `uma cidade marítima Patrimonio da UNESCO, com uma das mayores redes de parques urbanos do noroeste de Inglaterra, tres praias caninas sem trela a 25 minutos en Merseyrail e um corredor de pubs no Baltic Triangle que admite cães com trela o ano inteiro`,

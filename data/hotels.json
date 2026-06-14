@@ -32915,5 +32915,607 @@
     "slug": "manoir-de-truhelin-vannes",
     "address": "Truhelin, 56870 Arradon",
     "neighborhood": "Arradon"
+  },
+  {
+    "id": "matera-1",
+    "name": "Sextantio Le Grotte Della Civita",
+    "destinationSlug": "matera",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.8,
+    "reviewCount": 566,
+    "priceFrom": 290,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/sextantio-le-grotte-della-civita.html",
+    "petFee": 0,
+    "petPolicy": "Pets welcome free of charge in this unique cave hotel inside the UNESCO Sassi site. Please notify the hotel at booking. Pets must be on a lead in common areas.",
+    "highlights": [
+      "Cave rooms in UNESCO Sassi",
+      "Panoramic terrace over Murgia National Park",
+      "Candlelit historic atmosphere"
+    ],
+    "slug": "sextantio-le-grotte-della-civita"
+  },
+  {
+    "id": "matera-2",
+    "name": "Corte San Pietro",
+    "destinationSlug": "matera",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.6,
+    "reviewCount": 480,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/corte-san-pietro-sassi-di-matera.html",
+    "petFee": 0,
+    "petPolicy": "Pets accepted upon request at no extra charge. Boutique design hotel in renovated stone buildings inside the Sassi UNESCO area.",
+    "highlights": [
+      "Inside UNESCO Sassi di Matera",
+      "Hand-carved stone interiors",
+      "Private entrance rooms"
+    ],
+    "slug": "corte-san-pietro"
+  },
+  {
+    "id": "matera-3",
+    "name": "Locanda Di San Martino Hotel & Thermae Romanae",
+    "destinationSlug": "matera",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "wellness-spa-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.9,
+    "reviewCount": 1500,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/locanda-di-san-martino-matera.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed for a small fee per night. Hotel set in a former church near Matera Cathedral with Roman-style thermal baths.",
+    "highlights": [
+      "Indoor thermal pool",
+      "700m from Matera Cathedral",
+      "Former Chiesa di San Martino"
+    ],
+    "slug": "locanda-di-san-martino-hotel-thermae-romanae"
+  },
+  {
+    "id": "matera-4",
+    "name": "Palazzo Gattini Luxury Hotel",
+    "destinationSlug": "matera",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 700,
+    "priceFrom": 300,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/palazzo-gattini-luxury.html",
+    "petFee": 20,
+    "petPolicy": "Small pets welcome with prior notice. Historic 17th-century palazzo on Piazza Duomo with rooftop spa.",
+    "highlights": [
+      "Piazza Duomo location",
+      "Rooftop wellness area",
+      "Historic palazzo"
+    ],
+    "slug": "palazzo-gattini-luxury-hotel"
+  },
+  {
+    "id": "matera-5",
+    "name": "Aquatio Cave Luxury Hotel & SPA",
+    "destinationSlug": "matera",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "wellness-spa-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 693,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/aquatio-cave-luxury-and-spa.html",
+    "petFee": 25,
+    "petPolicy": "Pets welcome with advance notice for a fee per stay. Luxury cave hotel and spa with indoor pool in the heart of the Sassi.",
+    "highlights": [
+      "Cave spa with indoor pool",
+      "Inside Sassi di Matera",
+      "Contemporary design in tufa stone"
+    ],
+    "slug": "aquatio-cave-luxury-hotel-spa"
+  },
+  {
+    "id": "siena-1",
+    "name": "Palazzo Ravizza",
+    "destinationSlug": "siena",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 950,
+    "priceFrom": 170,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/palazzo-ravizza-siena.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for a small nightly fee. Historic 1920s hotel inside the city walls with a private garden overlooking the Tuscan countryside.",
+    "highlights": [
+      "Inside Siena historic walls",
+      "Private garden",
+      "Welcoming guests since 1922"
+    ],
+    "slug": "palazzo-ravizza"
+  },
+  {
+    "id": "siena-2",
+    "name": "Hotel Certosa di Maggiano",
+    "destinationSlug": "siena",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "wellness-spa-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 380,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/certosa-di-maggiano.html",
+    "petFee": 30,
+    "petPolicy": "Pets welcome with advance notice. Former 14th-century Carthusian monastery converted into a luxury Relais 2km from Piazza del Campo.",
+    "highlights": [
+      "Former 14th-century monastery",
+      "Free parking and gardens",
+      "Outdoor pool"
+    ],
+    "slug": "hotel-certosa-di-maggiano"
+  },
+  {
+    "id": "siena-3",
+    "name": "Hotel Athena",
+    "destinationSlug": "siena",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 4500,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/hotelathenasiena.html",
+    "petFee": 15,
+    "petPolicy": "Pets welcome for a small nightly fee. Within Siena historic walls, with free parking and a furnished terrace overlooking the valley.",
+    "highlights": [
+      "Inside Siena walls",
+      "Rooftop terrace with valley views",
+      "Free on-site parking"
+    ],
+    "slug": "hotel-athena"
+  },
+  {
+    "id": "siena-4",
+    "name": "Hotel Italia Siena",
+    "destinationSlug": "siena",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 1800,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/hotelitaliasiena.html",
+    "petFee": 10,
+    "petPolicy": "Dogs and cats of all sizes welcome. Pet kit provided including bowls and a welcome snack. Near train and bus stations.",
+    "highlights": [
+      "Dogs of all sizes welcome",
+      "Pet kit with bowls and snack",
+      "Near train and bus stations"
+    ],
+    "slug": "hotel-italia-siena"
+  },
+  {
+    "id": "siena-5",
+    "name": "Hotel Palazzo di Valli",
+    "destinationSlug": "siena",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 850,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/palazzo-di-valli.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for a small nightly fee. Boutique stay with bar, rooftop terrace and garden offering panoramic views.",
+    "highlights": [
+      "Rooftop terrace",
+      "Garden with countryside views",
+      "Free WiFi and parking"
+    ],
+    "slug": "hotel-palazzo-di-valli"
+  },
+  {
+    "id": "lagos-1",
+    "name": "Cascade Wellness Resort",
+    "destinationSlug": "lagos",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "wellness-spa-pet-friendly",
+      "near-beach"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 2400,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/cascade-wellness-lifestyle-resort.html",
+    "petFee": 30,
+    "petPolicy": "Small pets welcome with prior notice for a nightly fee. Clifftop resort with sea views above Ponta da Piedade.",
+    "highlights": [
+      "Clifftop sea views",
+      "Full-service spa and 3 outdoor pools",
+      "5 min drive to Dona Ana Beach"
+    ],
+    "slug": "cascade-wellness-resort"
+  },
+  {
+    "id": "lagos-2",
+    "name": "Marina Club Lagos Resort",
+    "destinationSlug": "lagos",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-beach"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3100,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/marinaclubsuitehotel.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed with prior notice for a nightly fee. Apartments and studios with private balcony close to Meia Praia Beach.",
+    "highlights": [
+      "Walking distance to historic center",
+      "Indoor pool and spa",
+      "Close to Meia Praia Beach"
+    ],
+    "slug": "marina-club-lagos-resort"
+  },
+  {
+    "id": "lagos-3",
+    "name": "Tivoli Lagos",
+    "destinationSlug": "lagos",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-beach"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4200,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/tvlagoslagos.html",
+    "petFee": 35,
+    "petPolicy": "Dogs and cats up to 25kg welcome for a fee of 35 EUR per pet per day, maximum 2 pets per room.",
+    "highlights": [
+      "Central Lagos location",
+      "Two outdoor pools and gardens",
+      "Shuttle to Meia Praia beach club"
+    ],
+    "slug": "tivoli-lagos"
+  },
+  {
+    "id": "lagos-4",
+    "name": "Lagos Avenida Hotel",
+    "destinationSlug": "lagos",
+    "categories": [
+      "dog-friendly",
+      "near-beach"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 1900,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/lagosavenida.html",
+    "petFee": 20,
+    "petPolicy": "Pets welcome with prior notice for a nightly fee. City-centre hotel with marina and sea views, 10-minute drive to Meia Praia.",
+    "highlights": [
+      "Marina and sea views",
+      "City centre location",
+      "Outdoor pool"
+    ],
+    "slug": "lagos-avenida-hotel"
+  },
+  {
+    "id": "lagos-5",
+    "name": "Vila Gale Collection Praia Lagos",
+    "destinationSlug": "lagos",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "wellness-spa-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2800,
+    "priceFrom": 170,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/vila-gale-praia.html",
+    "petFee": 25,
+    "petPolicy": "Small pets welcome in selected rooms with prior notice for a nightly fee. Beachfront resort with spa near Lagos.",
+    "highlights": [
+      "Beachfront location",
+      "Satsanga Spa",
+      "Adults-only sections"
+    ],
+    "slug": "vila-gale-collection-praia-lagos"
+  },
+  {
+    "id": "setubal-1",
+    "name": "Hotel Casa Palmela - Small Luxury Hotels of The World",
+    "destinationSlug": "setubal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 650,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/casa-palmela.html",
+    "petFee": 25,
+    "petPolicy": "One dog under 15kg welcome in designated Villas and Garden House rooms for 25 EUR per night. Cats also welcome.",
+    "highlights": [
+      "17th-century Quinta do Esteval estate",
+      "Two outdoor pools and full spa",
+      "Serra da Arrabida setting"
+    ],
+    "slug": "hotel-casa-palmela-small-luxury-hotels-of-the-world"
+  },
+  {
+    "id": "setubal-2",
+    "name": "Melia Setubal",
+    "destinationSlug": "setubal",
+    "categories": [
+      "dog-friendly",
+      "wellness-spa-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2100,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/melia-setubal.html",
+    "petFee": 20,
+    "petPolicy": "Pets welcome in designated rooms with prior notice for a nightly fee. City-centre hotel across from Bonfim Garden.",
+    "highlights": [
+      "Indoor pool and sauna",
+      "Facing Bonfim Garden",
+      "9 min walk to train station"
+    ],
+    "slug": "melia-setubal"
+  },
+  {
+    "id": "setubal-3",
+    "name": "RM The Experience - Small Portuguese Hotels",
+    "destinationSlug": "setubal",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 420,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/rm-the-experience.html",
+    "petFee": 15,
+    "petPolicy": "Pets welcome with prior notice for a nightly fee. Boutique B&B near the Sado River and Livramento Market.",
+    "highlights": [
+      "250m from Sado River",
+      "Highly rated breakfast",
+      "Near Livramento Market"
+    ],
+    "slug": "rm-the-experience-small-portuguese-hotels"
+  },
+  {
+    "id": "setubal-4",
+    "name": "Hotel Campanile Lisbon South - Setubal",
+    "destinationSlug": "setubal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8,
+    "reviewCount": 1600,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/campanile-setubal.html",
+    "petFee": 5,
+    "petPolicy": "Up to 2 pets (dogs or cats) up to 10kg welcome for 5 EUR per pet per night.",
+    "highlights": [
+      "Two pets allowed",
+      "Garden setting",
+      "30km from Lisbon"
+    ],
+    "slug": "hotel-campanile-lisbon-south-setubal"
+  },
+  {
+    "id": "setubal-5",
+    "name": "FALCOARIA Setubal",
+    "destinationSlug": "setubal",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 380,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/falcoaria-setubal.html",
+    "petFee": 15,
+    "petPolicy": "Pets welcome with prior notice for a small nightly fee. Boutique stay with highly rated breakfast in central Setubal.",
+    "highlights": [
+      "Highly rated breakfast",
+      "Boutique design",
+      "Central Setubal"
+    ],
+    "slug": "falcoaria-setubal"
+  },
+  {
+    "id": "sintra-1",
+    "name": "Penha Longa Resort",
+    "destinationSlug": "sintra",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "wellness-spa-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 2200,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/caesarparkhotel.html",
+    "petFee": 50,
+    "petPolicy": "Pets welcome with prior notice for a fee per stay. Only hotel inside Sintra-Cascais Natural Park, set around a 14th-century monastery.",
+    "highlights": [
+      "Inside Sintra-Cascais Natural Park",
+      "27-hole championship golf course",
+      "Two Michelin-starred restaurants"
+    ],
+    "slug": "penha-longa-resort"
+  },
+  {
+    "id": "sintra-2",
+    "name": "Tivoli Palacio de Seteais",
+    "destinationSlug": "sintra",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 880,
+    "priceFrom": 350,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/tvpalaciosintra.html",
+    "petFee": 40,
+    "petPolicy": "Small pets welcome with prior notice for a fee per night. 18th-century palace hotel with views of the Moorish Castle and Pena Palace.",
+    "highlights": [
+      "18th-century palace",
+      "Views of Moorish Castle and Pena Palace",
+      "Formal gardens"
+    ],
+    "slug": "tivoli-palacio-de-seteais"
+  },
+  {
+    "id": "sintra-3",
+    "name": "Lawrences Hotel",
+    "destinationSlug": "sintra",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 520,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/lawrence-s.html",
+    "petFee": 25,
+    "petPolicy": "Pets welcome with prior notice for a small nightly fee. Historic country-style manor a 5-minute walk from Palacio Nacional de Sintra.",
+    "highlights": [
+      "One of Iberia's oldest hotels (1764)",
+      "5 min walk to Sintra National Palace",
+      "Country-style suites with library"
+    ],
+    "slug": "lawrences-hotel"
+  },
+  {
+    "id": "sintra-4",
+    "name": "Casa Miradouro Sintra",
+    "destinationSlug": "sintra",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.2,
+    "reviewCount": 410,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/casa-miradouro.html",
+    "petFee": 10,
+    "petPolicy": "Pets welcome with prior notice for a small nightly fee. Restored 19th-century guesthouse with views over the Sintra hills.",
+    "highlights": [
+      "Restored 19th-century mansion",
+      "Panoramic Sintra hill views",
+      "Walking distance to historic center"
+    ],
+    "slug": "casa-miradouro-sintra"
+  },
+  {
+    "id": "sintra-5",
+    "name": "Sintra Marmoris Palace",
+    "destinationSlug": "sintra",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 290,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/sintra-marmoris-palace.html",
+    "petFee": 30,
+    "petPolicy": "Small pets welcome with prior notice for a nightly fee. Boutique palace hotel near the historic centre of Sintra.",
+    "highlights": [
+      "Boutique palace setting",
+      "Indoor pool and spa",
+      "Near Sintra historic centre"
+    ],
+    "slug": "sintra-marmoris-palace"
   }
 ]

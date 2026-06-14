@@ -34099,5 +34099,648 @@
       "Beach access for dogs"
     ],
     "slug": "rietumkrasta-seaside-liepaja"
+  },
+  {
+    "id": "klagenfurt-1",
+    "name": "Hotel Plattenwirt",
+    "destinationSlug": "klagenfurt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "lakeside",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1100,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/plattenwirt.html",
+    "petFee": 10,
+    "petPolicy": "Dogs welcome on request for around EUR 10 per night. Dogs allowed in the breakfast room (outside buffet area). 200 m from Lake Woerth and Europapark.",
+    "highlights": [
+      "200 m from Lake Woerth shore",
+      "Next to Europapark for dog walks",
+      "Dog-friendly breakfast room"
+    ],
+    "slug": "hotel-plattenwirt-klagenfurt",
+    "petPolicyPt": "Caes bem-vindos mediante pedido por cerca de 10 EUR por noite. Caes permitidos na sala de pequeno-almoco (fora da zona de buffet). A 200 m do Lago Woerth e do Europapark."
+  },
+  {
+    "id": "klagenfurt-2",
+    "name": "ibis Styles Klagenfurt am Woerthersee",
+    "destinationSlug": "klagenfurt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "city-center"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1500,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/ibis-styles-klagenfurt-am-woerthersee.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed for EUR 10 per night. ibis Styles chain pet-friendly policy. 400 m from Lindwurm landmark in central Klagenfurt.",
+    "highlights": [
+      "Central Klagenfurt near Lindwurm",
+      "ibis chain pet-friendly",
+      "Walking distance to Old Town"
+    ],
+    "slug": "ibis-styles-klagenfurt",
+    "petPolicyPt": "Animais permitidos por 10 EUR por noite. Politica pet-friendly da cadeia ibis Styles. A 400 m do Lindwurm, no centro de Klagenfurt."
+  },
+  {
+    "id": "klagenfurt-3",
+    "name": "Hotel Jerolitsch",
+    "destinationSlug": "klagenfurt",
+    "categories": [
+      "dog-friendly",
+      "lakeside",
+      "with-pool",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 620,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/at/klagenfurt.html",
+    "petFee": 12,
+    "petPolicy": "Dogs welcome for EUR 12 per night. Located in Krumpendorf am Woerthersee with outdoor pool, garden and free private parking. Ideal for lakeside dog walks.",
+    "highlights": [
+      "Outdoor pool and garden",
+      "Krumpendorf lake access",
+      "Free private parking"
+    ],
+    "slug": "hotel-jerolitsch-klagenfurt",
+    "petPolicyPt": "Caes bem-vindos por 12 EUR por noite. Localizado em Krumpendorf am Woerthersee, com piscina exterior, jardim e estacionamento privado gratuito. Ideal para passeios a beira do lago."
+  },
+  {
+    "id": "klagenfurt-4",
+    "name": "Hotel Sandwirth",
+    "destinationSlug": "klagenfurt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "city-center",
+      "historic"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 980,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/at/klagenfurt.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per night on request. Historic 4-star hotel in central Klagenfurt with pet bowls and beds available on request.",
+    "highlights": [
+      "Historic city-center hotel",
+      "Pet bowls and beds on request",
+      "Close to Neuer Platz square"
+    ],
+    "slug": "hotel-sandwirth-klagenfurt",
+    "petPolicyPt": "Animais permitidos por 15 EUR por noite, mediante pedido. Hotel historico de 4 estrelas no centro de Klagenfurt com tigelas e camas para animais disponiveis."
+  },
+  {
+    "id": "klagenfurt-5",
+    "name": "Apart of me Klagenfurt",
+    "destinationSlug": "klagenfurt",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 420,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/at/klagenfurt.html",
+    "petFee": 8,
+    "petPolicy": "Dogs welcome for a small fee around EUR 8 per night. Self-catering apartments. Ideal flexibility for dog owners in Klagenfurt.",
+    "highlights": [
+      "Self-catering apartment flexibility",
+      "Quiet residential neighborhood",
+      "Close to Woerthersee Stadion"
+    ],
+    "slug": "apart-of-me-klagenfurt",
+    "petPolicyPt": "Caes bem-vindos por uma pequena taxa de cerca de 8 EUR por noite. Apartamentos com cozinha. Flexibilidade ideal para donos de caes em Klagenfurt."
+  },
+  {
+    "id": "sankt-polten-1",
+    "name": "Hotel Metropol",
+    "destinationSlug": "sankt-polten",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "city-center",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 950,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/hotelmetropol.html",
+    "petFee": 12,
+    "petPolicy": "Pets allowed on request for EUR 12 per pet per day. Modern 4-star hotel in Sankt Polten Old Town, 5 minutes from the government district.",
+    "highlights": [
+      "Central Old Town location",
+      "Modern 4-star design hotel",
+      "Quiet pedestrian zone entrance"
+    ],
+    "slug": "hotel-metropol-sankt-polten",
+    "petPolicyPt": "Animais permitidos mediante pedido por 12 EUR por animal por dia. Hotel moderno de 4 estrelas na Cidade Velha de Sankt Polten, a 5 minutos do distrito governamental."
+  },
+  {
+    "id": "sankt-polten-2",
+    "name": "Hotel-Gasthof Graf",
+    "destinationSlug": "sankt-polten",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 720,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/gasthof-graf.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed for around EUR 10 per night on request. Family-run gasthof with restaurant. Dogs welcome in rooms and on the terrace.",
+    "highlights": [
+      "Family-run guesthouse",
+      "On-site restaurant",
+      "Garden and terrace"
+    ],
+    "slug": "hotel-gasthof-graf-sankt-polten",
+    "petPolicyPt": "Animais permitidos por cerca de 10 EUR por noite, mediante pedido. Gasthof familiar com restaurante. Caes bem-vindos nos quartos e no terraco."
+  },
+  {
+    "id": "sankt-polten-3",
+    "name": "Schloss Thalheim",
+    "destinationSlug": "sankt-polten",
+    "categories": [
+      "dog-friendly",
+      "historic",
+      "boutique-pet-friendly",
+      "rural"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 380,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/at/sankt-polten.html",
+    "petFee": 15,
+    "petPolicy": "Dogs welcome for EUR 15 per night. Historic castle hotel set in extensive grounds. Perfect for off-leash walks. Pets must be requested at booking.",
+    "highlights": [
+      "Historic castle setting",
+      "Large grounds for dog walks",
+      "Boutique castle suites"
+    ],
+    "slug": "schloss-thalheim-sankt-polten",
+    "petPolicyPt": "Caes bem-vindos por 15 EUR por noite. Hotel-castelo historico com extensos terrenos. Perfeito para passeios sem trela. Animais devem ser solicitados na reserva."
+  },
+  {
+    "id": "sankt-polten-4",
+    "name": "Motel 267",
+    "destinationSlug": "sankt-polten",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "free-pet-stay"
+    ],
+    "stars": 2,
+    "rating": 8.3,
+    "reviewCount": 540,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/at/sankt-polten.html",
+    "petFee": 0,
+    "petPolicy": "Pets stay free on request. Budget motel option with free parking. Convenient for road-trippers travelling with dogs.",
+    "highlights": [
+      "Pets stay free",
+      "Free private parking",
+      "Easy motorway access"
+    ],
+    "slug": "motel-267-sankt-polten",
+    "petPolicyPt": "Animais ficam gratis mediante pedido. Opcao economica com estacionamento gratuito. Conveniente para viagens de carro com caes."
+  },
+  {
+    "id": "sankt-polten-5",
+    "name": "Hotel Restaurant Boeck Roter Hahn",
+    "destinationSlug": "sankt-polten",
+    "categories": [
+      "dog-friendly",
+      "family",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 460,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/at/sankt-polten.html",
+    "petFee": 10,
+    "petPolicy": "Dogs welcome for EUR 10 per night. Traditional Austrian gasthof with restaurant. Pet bowls available on request.",
+    "highlights": [
+      "Traditional Austrian gasthof",
+      "On-site restaurant",
+      "Quiet location near Sankt Polten"
+    ],
+    "slug": "hotel-bock-roter-hahn-sankt-polten",
+    "petPolicyPt": "Caes bem-vindos por 10 EUR por noite. Gasthof austriaco tradicional com restaurante. Tigelas para animais disponiveis mediante pedido."
+  },
+  {
+    "id": "villach-1",
+    "name": "Hotel Mosser",
+    "destinationSlug": "villach",
+    "categories": [
+      "dog-friendly",
+      "city-center",
+      "historic",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1300,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/at/villach.html",
+    "petFee": 12,
+    "petPolicy": "Pets welcome on request for around EUR 12 per night. Only certain rooms are pet-friendly. Booking in advance recommended. Located in the heart of Villach Old Town.",
+    "highlights": [
+      "Heart of Villach Old Town",
+      "Historic Altstadt hotel",
+      "Walking distance to Drava river"
+    ],
+    "slug": "hotel-mosser-villach",
+    "petPolicyPt": "Animais bem-vindos mediante pedido por cerca de 12 EUR por noite. Apenas certos quartos sao pet-friendly. Reserva antecipada recomendada. Localizado no coracao da Cidade Velha de Villach."
+  },
+  {
+    "id": "villach-2",
+    "name": "Pension Ferienwohnungen Zollner",
+    "destinationSlug": "villach",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "budget-pet-friendly",
+      "free-pet-stay"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 380,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/at/villach.html",
+    "petFee": 0,
+    "petPolicy": "Pets stay free on request. Self-catering apartments. Ideal flexibility for dog owners exploring Carinthia.",
+    "highlights": [
+      "Pets stay free",
+      "Self-catering apartments",
+      "Quiet Villach residential area"
+    ],
+    "slug": "pension-zollner-villach",
+    "petPolicyPt": "Animais ficam gratis mediante pedido. Apartamentos com cozinha. Flexibilidade ideal para donos de caes a explorar a Carintia."
+  },
+  {
+    "id": "villach-3",
+    "name": "BoRa Apartments",
+    "destinationSlug": "villach",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 510,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/at/villach.html",
+    "petFee": 10,
+    "petPolicy": "Dogs welcome for around EUR 10 per night. Design apartments in central Villach. Great base for Lake Faaker See and Ossiacher See day trips.",
+    "highlights": [
+      "Design apartments",
+      "Central Villach location",
+      "Close to Drau river promenade"
+    ],
+    "slug": "bora-apartments-villach",
+    "petPolicyPt": "Caes bem-vindos por cerca de 10 EUR por noite. Apartamentos de design no centro de Villach. Otima base para excursoes ao Lago Faaker See e Ossiacher See."
+  },
+  {
+    "id": "villach-4",
+    "name": "Holiday Inn Villach",
+    "destinationSlug": "villach",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "with-pool",
+      "spa-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1750,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/at/villach.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per night. IHG chain pet-friendly policy. On-site spa with sauna and indoor pool. Riverside location.",
+    "highlights": [
+      "IHG chain pet-friendly",
+      "Indoor pool and spa",
+      "Drau river views"
+    ],
+    "slug": "holiday-inn-villach",
+    "petPolicyPt": "Animais permitidos por 15 EUR por noite. Politica pet-friendly da cadeia IHG. Spa com sauna e piscina interior. Localizacao a beira-rio."
+  },
+  {
+    "id": "villach-5",
+    "name": "Apart of me Villach",
+    "destinationSlug": "villach",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 290,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/at/villach.html",
+    "petFee": 8,
+    "petPolicy": "Dogs welcome for around EUR 8 per night. Self-catering apartments in residential Villach. Flexible base for Carinthian lake region.",
+    "highlights": [
+      "Self-catering flexibility",
+      "Carinthian lakes day-trip base",
+      "Quiet residential setting"
+    ],
+    "slug": "apart-of-me-villach",
+    "petPolicyPt": "Caes bem-vindos por cerca de 8 EUR por noite. Apartamentos com cozinha em zona residencial de Villach. Base flexivel para a regiao dos lagos da Carintia."
+  },
+  {
+    "id": "torun-1",
+    "name": "Hotel Spichrz",
+    "destinationSlug": "torun",
+    "categories": [
+      "dog-friendly",
+      "historic",
+      "boutique-pet-friendly",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1400,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/hotel-spichrz-torun.html",
+    "petFee": 10,
+    "petPolicy": "Dogs welcome on request, charges around EUR 10 per night. Historic granary hotel on the Vistula river, steps from the UNESCO Old Town.",
+    "highlights": [
+      "Historic granary building",
+      "On the Vistula river",
+      "Steps from UNESCO Old Town"
+    ],
+    "slug": "hotel-spichrz-torun",
+    "petPolicyPt": "Caes bem-vindos mediante pedido, taxas de cerca de 10 EUR por noite. Hotel historico em antigo celeiro junto ao rio Vistula, a passos da Cidade Velha UNESCO."
+  },
+  {
+    "id": "torun-2",
+    "name": "Hotel Mercure Torun Centrum",
+    "destinationSlug": "torun",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "city-center",
+      "spa-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2300,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/mercureheliostorun.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for around EUR 15 per night. Accor/Mercure chain pet-friendly policy. 15-minute walk from historic Old Town Torun.",
+    "highlights": [
+      "Accor/Mercure chain pet-friendly",
+      "15 min walk to UNESCO Old Town",
+      "On-site fitness and sauna"
+    ],
+    "slug": "hotel-mercure-torun",
+    "petPolicyPt": "Animais permitidos por cerca de 15 EUR por noite. Politica pet-friendly da cadeia Accor/Mercure. A 15 minutos a pe da Cidade Velha historica de Torun."
+  },
+  {
+    "id": "torun-3",
+    "name": "Hotel Halo Torun",
+    "destinationSlug": "torun",
+    "categories": [
+      "dog-friendly",
+      "city-center",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 980,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/pl/torun.html",
+    "petFee": 8,
+    "petPolicy": "Dogs welcome for around EUR 8 per night on request. Modern hotel in central Torun, walking distance to Old Town and Copernicus House.",
+    "highlights": [
+      "Walking distance to Copernicus House",
+      "Modern central hotel",
+      "Affordable pet-friendly option"
+    ],
+    "slug": "hotel-halo-torun",
+    "petPolicyPt": "Caes bem-vindos por cerca de 8 EUR por noite, mediante pedido. Hotel moderno no centro de Torun, a passos da Cidade Velha e da Casa de Copernico."
+  },
+  {
+    "id": "torun-4",
+    "name": "Hotel Mlyn Torun",
+    "destinationSlug": "torun",
+    "categories": [
+      "dog-friendly",
+      "historic",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 760,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/pl/torun.html",
+    "petFee": 10,
+    "petPolicy": "Dogs welcome for EUR 10 per night on request. Historic mill conversion (former MCSM) near Torun Fortress. Atmospheric stay with riverside walks.",
+    "highlights": [
+      "Historic mill conversion",
+      "Near Torun Fortress",
+      "Riverside dog walks"
+    ],
+    "slug": "hotel-mlyn-torun",
+    "petPolicyPt": "Caes bem-vindos por 10 EUR por noite, mediante pedido. Antigo moinho convertido (ex-MCSM) perto da Fortaleza de Torun. Estadia com caracter e passeios a beira-rio."
+  },
+  {
+    "id": "torun-5",
+    "name": "ApartTargowa Torun",
+    "destinationSlug": "torun",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "budget-pet-friendly",
+      "free-pet-stay"
+    ],
+    "stars": 3,
+    "rating": 9.2,
+    "reviewCount": 340,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/pl/torun.html",
+    "petFee": 0,
+    "petPolicy": "Pets stay free on request. Self-catering apartments in central Torun. Flexible budget option for dog owners visiting the UNESCO city.",
+    "highlights": [
+      "Pets stay free",
+      "Self-catering apartment",
+      "Central UNESCO city location"
+    ],
+    "slug": "aparttargowa-torun",
+    "petPolicyPt": "Animais ficam gratis mediante pedido. Apartamentos com cozinha no centro de Torun. Opcao economica e flexivel para donos de caes na cidade UNESCO."
+  },
+  {
+    "id": "guimaraes-1",
+    "name": "Pousada Mosteiro de Guimaraes",
+    "destinationSlug": "guimaraes",
+    "categories": [
+      "dog-friendly",
+      "historic",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2100,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/pousada-santa-marinha.html",
+    "petFee": 25,
+    "petPolicy": "1 dog up to 15 kg allowed for EUR 25 per night. Dogs accepted in select room categories only. Book pet-friendly room in advance. Some public areas restricted.",
+    "highlights": [
+      "12th-century monastery setting",
+      "Luxury Pestana Pousada",
+      "Gardens and panoramic views"
+    ],
+    "slug": "pousada-mosteiro-guimaraes",
+    "petPolicyPt": "1 cao ate 15 kg permitido por 25 EUR por noite. Caes aceites apenas em categorias de quarto seleccionadas. Reservar quarto pet-friendly com antecedencia. Algumas areas publicas restritas."
+  },
+  {
+    "id": "guimaraes-2",
+    "name": "Hotel da Oliveira",
+    "destinationSlug": "guimaraes",
+    "categories": [
+      "dog-friendly",
+      "city-center",
+      "boutique-pet-friendly",
+      "historic"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1450,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/pt/guimaraes.html",
+    "petFee": 15,
+    "petPolicy": "Small to medium pets welcome for EUR 15 per night on request. Boutique hotel on Largo da Oliveira in the historic UNESCO center.",
+    "highlights": [
+      "On Largo da Oliveira square",
+      "Historic UNESCO center",
+      "On-site restaurant"
+    ],
+    "slug": "hotel-da-oliveira-guimaraes",
+    "petPolicyPt": "Animais de pequeno a medio porte bem-vindos por 15 EUR por noite, mediante pedido. Hotel boutique no Largo da Oliveira, no centro historico UNESCO."
+  },
+  {
+    "id": "guimaraes-3",
+    "name": "Hotel de Guimaraes",
+    "destinationSlug": "guimaraes",
+    "categories": [
+      "dog-friendly",
+      "with-pool",
+      "spa-pet-friendly",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1900,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/pt/guimaraes.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per night on request. 4-star hotel with indoor pool and spa, 10 minutes walk from the historic center.",
+    "highlights": [
+      "Indoor pool and spa",
+      "10 min walk to historic center",
+      "Modern 4-star comfort"
+    ],
+    "slug": "hotel-de-guimaraes",
+    "petPolicyPt": "Animais permitidos por 15 EUR por noite, mediante pedido. Hotel de 4 estrelas com piscina interior e spa, a 10 minutos a pe do centro historico."
+  },
+  {
+    "id": "guimaraes-4",
+    "name": "Casa do Juncal",
+    "destinationSlug": "guimaraes",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "historic",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 540,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/pt/guimaraes.html",
+    "petFee": 20,
+    "petPolicy": "Small dogs welcome for EUR 20 per night on request. Boutique guesthouse in a restored historic townhouse in central Guimaraes.",
+    "highlights": [
+      "Restored historic townhouse",
+      "Intimate boutique guesthouse",
+      "Central UNESCO city"
+    ],
+    "slug": "casa-do-juncal-guimaraes",
+    "petPolicyPt": "Caes pequenos bem-vindos por 20 EUR por noite, mediante pedido. Casa de hospedes boutique numa townhouse historica restaurada no centro de Guimaraes."
+  },
+  {
+    "id": "guimaraes-5",
+    "name": "Casal de S. Romao do Meio",
+    "destinationSlug": "guimaraes",
+    "categories": [
+      "dog-friendly",
+      "rural",
+      "with-pool",
+      "free-pet-stay"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 280,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/pt/guimaraes.html",
+    "petFee": 0,
+    "petPolicy": "Dogs stay free on request. Rural country house with outdoor pool and gardens. Ideal for off-leash walks just outside Guimaraes.",
+    "highlights": [
+      "Dogs stay free",
+      "Outdoor pool and gardens",
+      "Rural setting near Guimaraes"
+    ],
+    "slug": "casal-s-romao-guimaraes",
+    "petPolicyPt": "Caes ficam gratis mediante pedido. Casa rural com piscina exterior e jardins. Ideal para passeios sem trela mesmo nos arredores de Guimaraes."
   }
 ]

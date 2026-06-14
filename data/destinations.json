@@ -14124,6 +14124,81 @@
     "tiqetsId": "71631"
   },
   {
+    "slug": "roses",
+    "name": "Roses",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/roses.jpg",
+    "intro": "Roses is a 20,000-resident Costa Brava nord fishing port and beach town wrapped around the Renaissance Ciutadella de Roses, a 16th-century fortified pentagonal enclosure built under Carlos V on the site of the ancient Greek colony of Rhode (8th century BC) and the Roman Rhodes, with the 12 km crescent of the Bahía de Roses opening south to L`Escala and the Cap de Creus Natural Park headland rising to the north. The 3 km sand Platja de Roses fronts the Passeig Marítim, and a string of dramatic coves wraps north along the Cap de Creus side (Cala Canyelles Petites, Cala Murtra, Cala Calís, Cala Montjoi - site of the legendary El Bulli restaurant 1962-2011 - Cala Joncols, Cala Rostella, Cala Pelosa, Cala Nans, L`Almadrava). Two further heritage anchors complete the picture: the 17th-century star-shaped Castell de la Trinitat on the Punta Falconera headland, and the Dolmen de la Creu d`en Cobertella inland, the largest dolmen in Catalonia (ca. 3000 BC). There is no train station; access is by Moventis bus from Figueres (30 min) or Cadaqués (30 min), or by car on the C-260 or AP-7 motorway. Two town vets refer overnight emergencies to the Hospital Veterinari Empordà in Figueres 18 km west.",
+    "lat": 42.2627,
+    "lng": 3.1764,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      }
+    },
+    "iata": "GRO"
+  },
+  {
     "slug": "rotterdam",
     "name": "Rotterdam",
     "country": "Netherlands",

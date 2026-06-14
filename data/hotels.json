@@ -36217,5 +36217,130 @@
       "Placa d Espanya central location",
       "Low pet fee EUR 8 per night"
     ]
+  },
+  {
+    "id": "roses-1",
+    "name": "Hotel Terraza",
+    "destinationSlug": "roses",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2350,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/terraza.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed for EUR 20 per pet per night on request. Seafront 4-star with rooftop pool overlooking the Bahia de Roses, 100 m to Platja de Roses. Dogs welcome in selected rooms; advise at booking.",
+    "address": "Passeig Maritim, 16, 17480 Roses",
+    "neighborhood": "Seafront, on the Passeig Maritim",
+    "slug": "hotel-terraza-roses",
+    "highlights": [
+      "Seafront 4-star with rooftop pool",
+      "100 m to Platja de Roses",
+      "Pet-friendly selected rooms"
+    ]
+  },
+  {
+    "id": "roses-2",
+    "name": "Hotel Ramblamar",
+    "destinationSlug": "roses",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 1820,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/ramblamar.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per pet per night. Family-run 3-star on the Passeig Maritim front-row over Platja de Roses, with sea-view balconies and a small bar terrace. Dogs and cats accepted in selected rooms.",
+    "address": "Avinguda de Rhode, 153, 17480 Roses",
+    "neighborhood": "Passeig Maritim, opposite Platja de Roses",
+    "slug": "hotel-ramblamar-roses",
+    "highlights": [
+      "Front-row seafront on Passeig Maritim",
+      "Sea-view balconies",
+      "Family-run pet-welcoming staff"
+    ]
+  },
+  {
+    "id": "roses-3",
+    "name": "Prestige Hotel Coral Platja",
+    "destinationSlug": "roses",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 2640,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/coral-platja.html",
+    "petFee": 18,
+    "petPolicy": "Pets up to 15 kg allowed for EUR 18 per pet per night on request. Beachfront 3-star with outdoor pool and direct access to Platja de Roses; dogs welcome in selected rooms outside the buffet area.",
+    "address": "Avinguda de Rhode, 28, 17480 Roses",
+    "neighborhood": "Beachfront, southern end of Passeig Maritim",
+    "slug": "prestige-coral-platja-roses",
+    "highlights": [
+      "Direct beachfront access to Platja de Roses",
+      "Outdoor pool and bar terrace",
+      "Dogs up to 15 kg welcome"
+    ]
+  },
+  {
+    "id": "roses-4",
+    "name": "Hotel Marian Platja",
+    "destinationSlug": "roses",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1380,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/marian-platja.html",
+    "petFee": 12,
+    "petPolicy": "Pets allowed for EUR 12 per pet per night. Family-run 3-star a block back from the Passeig Maritim, with quiet courtyard rooms preferred for dogs. Cats and dogs accepted on request.",
+    "address": "Carrer Trafalgar, 1, 17480 Roses",
+    "neighborhood": "Centre, one block from Passeig Maritim",
+    "slug": "hotel-marian-platja-roses",
+    "highlights": [
+      "One block from the seafront",
+      "Quiet courtyard rooms for pets",
+      "Low pet fee EUR 12 per night"
+    ]
+  },
+  {
+    "id": "roses-5",
+    "name": "Hotel Montecarlo",
+    "destinationSlug": "roses",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 1240,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/montecarlo-roses.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per pet per night in selected rooms. 3-star on the Carrer Pescadors in the casc antic, two blocks from the Ciutadella exterior and 300 m to Platja de Roses. Dogs and cats accepted.",
+    "address": "Carrer Pescadors, 19, 17480 Roses",
+    "neighborhood": "Casc antic, near the Ciutadella",
+    "slug": "hotel-montecarlo-roses",
+    "highlights": [
+      "Two blocks from Ciutadella de Roses",
+      "300 m to Platja de Roses",
+      "Casc antic location"
+    ]
   }
 ]

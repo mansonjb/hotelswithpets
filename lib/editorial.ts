@@ -977,6 +977,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Villa Borghese gardens, the off-leash areas of Parco dell\'Appia Antica, and the riverside Lungotevere paths',
       area: 'Prati, Trastevere, and Pigneto',
     },
+    roses: {
+      personality: `a 20,000-resident Costa Brava nord fishing port and beach town wrapped around the Renaissance Ciutadella de Roses, a 16th-century pentagonal fortress built under Carlos V on the site of the ancient Greek colony of Rhode (8th century BC) and the Roman Rhodes, with the 12 km Bahía de Roses crescent opening south and the Cap de Creus Natural Park rising to the north, plus the legendary El Bulli restaurant legacy at Cala Montjoi (Ferran Adrià, 1962-2011, Foundation museum since 2023)`,
+      highlight: `the Ciutadella de Roses Renaissance walls and excavated Greek-Roman-Visigoth ruins, the Dolmen de la Creu d'en Cobertella (the largest dolmen in Catalonia, ca. 3000 BC), the 17th-century Castell de la Trinitat on Punta Falconera, and the Cap de Creus Natural Park southern gateway via Cala Montjoi and Cala Joncols`,
+      area: `the casc antic around the Esglesia de Santa Maria and Plaça de Catalunya, the Passeig Marítim along the Bahía de Roses crescent, and the Cap de Creus south gateway out to Cala Montjoi and Cala Joncols`,
+    },
     rotterdam: {
       personality: 'one of the most dog-friendly cities in the Netherlands, where pets travel free on public transport and most café terraces welcome them by default',
       highlight: 'Het Park\'s 28 hectares of off-leash space beside the Euromast, Kralingse Bos forest and lake, and the Maasvlakte beach',
@@ -2273,6 +2278,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une ville où les chiens accompagnent leurs propriétaires partout. Du cornetto du matin à la passeggiata du soir',
       highlight: 'les jardins de la Villa Borghèse, les zones sans laisse du Parco dell\'Appia Antica et les promenades du Lungotevere',
       area: 'Prati, Trastevere et Pigneto',
+    },
+    roses: {
+      personality: `un port de pêche et station balnéaire de 20 000 habitants au nord de la Costa Brava enroulé autour de la Ciutadella de Roses Renaissance, enceinte pentagonale du XVIᵉ siècle bâtie sous Charles Quint sur le site de l'ancienne colonie grecque de Rhode (VIIIᵉ siècle av. J.-C.) et de la Rhodes romaine, avec le croissant de 12 km de la Bahía de Roses au sud et le Parc Naturel du Cap de Creus qui s'élève au nord, plus l'héritage du légendaire restaurant El Bulli à Cala Montjoi (Ferran Adrià, 1962-2011, musée Fondation depuis 2023)`,
+      highlight: `les murailles Renaissance de la Ciutadella et les ruines fouillées gréco-romaines-wisigothiques, le Dolmen de la Creu d'en Cobertella (le plus grand dolmen de Catalogne, vers 3000 av. J.-C.), le Castell de la Trinitat du XVIIᵉ siècle sur la Punta Falconera, et la porte sud du Parc Naturel du Cap de Creus via Cala Montjoi et Cala Joncols`,
+      area: `le casc antic autour de l'Esglesia de Santa Maria et de la Plaça de Catalunya, le Passeig Marítim le long du croissant de la Bahía de Roses, et la porte sud du Cap de Creus jusqu'à Cala Montjoi et Cala Joncols`,
     },
     rotterdam: {
       personality: 'l\'une des villes les plus dog-friendly des Pays-Bas, où les animaux voyagent gratuitement dans les transports et la plupart des terrasses de café les accueillent par défaut',
@@ -3571,6 +3581,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'los jardines de Villa Borghese, las zonas sin correa del Parco dell\'Appia Antica y los paseos ribereños del Lungotevere',
       area: 'Prati, Trastevere y Pigneto',
     },
+    roses: {
+      personality: `un puerto pesquero y localidad balnearia de 20.000 habitantes en el norte de la Costa Brava envuelto alrededor de la Ciutadella de Roses renacentista, recinto pentagonal del siglo XVI levantado bajo Carlos V en el lugar de la antigua colonia griega de Rhode (siglo VIII a.C.) y de la Rhodes romana, con la media luna de 12 km de la Bahía de Roses al sur y el Parque Natural del Cap de Creus elevándose al norte, más el legado del legendario restaurante El Bulli en Cala Montjoi (Ferran Adrià, 1962-2011, museo Fundación desde 2023)`,
+      highlight: `las murallas renacentistas de la Ciutadella y las ruinas excavadas grecorromanas y visigodas, el Dolmen de la Creu d'en Cobertella (el mayor dolmen de Cataluña, hacia 3000 a.C.), el Castell de la Trinitat del siglo XVII en la Punta Falconera, y la puerta sur del Parque Natural del Cap de Creus vía Cala Montjoi y Cala Joncols`,
+      area: `el casc antic alrededor de la Esglesia de Santa Maria y la Plaça de Catalunya, el Passeig Marítim a lo largo de la media luna de la Bahía de Roses, y la puerta sur del Cap de Creus hasta Cala Montjoi y Cala Joncols`,
+    },
     rotterdam: {
       personality: 'una de las ciudades más dog-friendly de los Países Bajos, donde las mascotas viajan gratis en el transporte público y la mayoría de las terrazas las aceptan por defecto',
       highlight: 'las 28 hectáreas sin correa de Het Park junto al Euromast, el bosque y lago de Kralingse Bos, y la playa de Maasvlakte',
@@ -4867,6 +4882,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade onde os cães acompanhan aos seus duenhos a todas partes. A partir do cornetto matutino até o passeio vespertino',
       highlight: 'os jardins de Villa Borghese, as zonas sem trela do Parco dell\'Appia Antica e os passeios riberenhos do Lungotevere',
       area: 'Prati, Trastevere e Pigneto',
+    },
+    roses: {
+      personality: `um porto piscatório e vila balnear de 20.000 habitantes no norte da Costa Brava envolto na Ciutadella de Roses renascentista, recinto pentagonal do século XVI erguido sob Carlos V no local da antiga colónia grega de Rhode (século VIII a.C.) e da Rhodes romana, com a meia-lua de 12 km da Bahía de Roses a sul e o Parque Natural do Cap de Creus a elevar-se a norte, mais o legado do lendário restaurante El Bulli em Cala Montjoi (Ferran Adrià, 1962-2011, museu Fundação desde 2023)`,
+      highlight: `as muralhas renascentistas da Ciutadella e as ruínas escavadas greco-romanas e visigodas, o Dolmen de la Creu d'en Cobertella (o maior dólmen da Catalunha, cerca de 3000 a.C.), o Castell de la Trinitat do século XVII na Punta Falconera, e a porta sul do Parque Natural do Cap de Creus via Cala Montjoi e Cala Joncols`,
+      area: `o casc antic à volta da Esglesia de Santa Maria e da Plaça de Catalunya, o Passeig Marítim ao longo da meia-lua da Bahía de Roses, e a porta sul do Cap de Creus até Cala Montjoi e Cala Joncols`,
     },
     rotterdam: {
       personality: 'uma das cidades mais pet-friendly dos Países Bajos, onde as animais viajan grátis no transporte público e a maioria das esplanadas as aceitam por defecto',

@@ -201,6 +201,7 @@ const TARGETS = [
   { slug: 'sitges', query: 'Sitges Spain Catalan seaside Sant Bartomeu cliff church Passeig Maritim Costa del Garraf sunset' },
   { slug: 'cadaques', query: 'Cadaques Spain Catalan Costa Brava pueblo blanco whitewashed houses Esglesia Santa Maria baroque church Cap de Creus headland Port Lligat Dali house bay sunset panorama' },
   { slug: 'tossa-de-mar', query: 'Tossa de Mar Spain Catalan Costa Brava sud Vila Vella 12th century medieval walled town fortified centre four watchtowers ramparts Castell Sant Vicenc Gothic ruins Platja Gran beach Far de Tossa lighthouse Ava Gardner statue Pandora panorama sunset' },
+  { slug: 'roses', query: 'Roses Spain Catalan Costa Brava nord Bahia de Roses crescent bay Ciutadella de Roses Renaissance 16th century fortress Carlos V pentagonal walls Greek Rhode Roman ruins Platja de Roses Passeig Maritim Castell de la Trinitat Punta Falconera Cap de Creus Natural Park southern gateway Dolmen Creu d en Cobertella El Bulli legacy panorama sunset' },
   { slug: 'tarragona', query: 'Tarragona Spain Roman amphitheatre Costa Daurada Mediterranean Balco del Mediterrani panorama sunset' },
   { slug: 'tarifa', query: 'Tarifa Spain Cadiz Strait of Gibraltar Castillo Guzman el Bueno casco antiguo Playa Los Lances kitesurf Morocco coast panorama sunset' },
   { slug: 'nazare', query: 'Nazaré Praia do Norte cliffs big wave Portugal Forte São Miguel Arcanjo lighthouse Sítio funicular Atlantic panorama sunset' },

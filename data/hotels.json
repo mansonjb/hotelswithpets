@@ -33517,5 +33517,587 @@
       "Near Sintra historic centre"
     ],
     "slug": "sintra-marmoris-palace"
+  },
+  {
+    "id": "gdynia-1",
+    "name": "Hotel Rozany Gaj",
+    "destinationSlug": "gdynia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 1100,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/pl/gdynia.html",
+    "petFee": 12,
+    "petPolicy": "Pets of any size allowed for PLN 50 (about EUR 12) per pet, per night. Dogs and cats welcome.",
+    "highlights": [
+      "Quiet Orlowo district",
+      "Garden setting",
+      "Near Gdynia beaches"
+    ],
+    "slug": "hotel-rozany-gaj"
+  },
+  {
+    "id": "gdynia-2",
+    "name": "Hola Gdynia",
+    "destinationSlug": "gdynia",
+    "categories": [
+      "dog-friendly",
+      "free-pet-stay"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 900,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/pl/gdynia.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size allowed for no additional fee. Pet-friendly central Gdynia option.",
+    "highlights": [
+      "Free pet stay",
+      "Central Gdynia",
+      "Walking distance to seafront"
+    ],
+    "slug": "hola-gdynia"
+  },
+  {
+    "id": "gdynia-3",
+    "name": "Happy8 Gdynia",
+    "destinationSlug": "gdynia",
+    "categories": [
+      "dog-friendly",
+      "free-pet-stay"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 850,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/pl/gdynia.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size allowed for no additional fee. Modern central property.",
+    "highlights": [
+      "Free pet stay",
+      "Modern design",
+      "Near Gdynia city centre"
+    ],
+    "slug": "happy8-gdynia"
+  },
+  {
+    "id": "gdynia-4",
+    "name": "Apartamenty Sun & Snow Plac Unii",
+    "destinationSlug": "gdynia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "apartment"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1300,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/pl/gdynia.html",
+    "petFee": 10,
+    "petPolicy": "Pets of any size in designated apartments for PLN 40 (about EUR 10) per pet, per night. Dogs and cats welcome.",
+    "highlights": [
+      "Self-catering apartments",
+      "Central Plac Unii location",
+      "Family-friendly"
+    ],
+    "slug": "sun-snow-plac-unii-gdynia"
+  },
+  {
+    "id": "gdynia-5",
+    "name": "Dom Otwarty Dla Gosci",
+    "destinationSlug": "gdynia",
+    "categories": [
+      "dog-friendly",
+      "free-pet-stay",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 600,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/pl/gdynia.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size allowed for no additional fee. Welcoming guest house atmosphere.",
+    "highlights": [
+      "Free pet stay",
+      "Guest house warmth",
+      "Highly rated boutique stay"
+    ],
+    "slug": "dom-otwarty-dla-gosci-gdynia"
+  },
+  {
+    "id": "jurmala-1",
+    "name": "Hotel Jurmala Spa",
+    "destinationSlug": "jurmala",
+    "categories": [
+      "dog-friendly",
+      "spa-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3400,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lv/jurmala-spa.html",
+    "petFee": 15,
+    "petPolicy": "Pets up to 10 kg welcome for EUR 15 per pet, per night. Full spa with 3 pools and 5 saunas.",
+    "highlights": [
+      "Major spa with 3 pools, 5 saunas",
+      "Two-floor wellness centre",
+      "Walking distance to beach"
+    ],
+    "slug": "hotel-jurmala-spa"
+  },
+  {
+    "id": "jurmala-2",
+    "name": "SemaraH Hotel Lielupe SPA & Conferences",
+    "destinationSlug": "jurmala",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "spa-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2800,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lv/jurmala.html",
+    "petFee": 15,
+    "petPolicy": "Pets of any size allowed for EUR 15 per pet, per night. Full-service spa, beach location.",
+    "highlights": [
+      "Full-service spa",
+      "4 minute walk to Jurmala Beach",
+      "Near the bay"
+    ],
+    "slug": "semarah-lielupe-jurmala"
+  },
+  {
+    "id": "jurmala-3",
+    "name": "MaMa Boutique Hotel & Restaurant",
+    "destinationSlug": "jurmala",
+    "categories": [
+      "dog-friendly",
+      "free-pet-stay",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 750,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lv/jurmala.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size allowed for no additional fee. Boutique hotel with on-site restaurant.",
+    "highlights": [
+      "Free pet stay",
+      "Boutique design",
+      "On-site restaurant"
+    ],
+    "slug": "mama-boutique-jurmala"
+  },
+  {
+    "id": "jurmala-4",
+    "name": "SUNSET Hotel Jurmala",
+    "destinationSlug": "jurmala",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 950,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lv/jurmala.html",
+    "petFee": 15,
+    "petPolicy": "Pets of any size in designated rooms for EUR 15 per pet, per night. Dogs and cats welcome.",
+    "highlights": [
+      "Near Jurmala beach",
+      "Designated pet rooms",
+      "Resort atmosphere"
+    ],
+    "slug": "sunset-hotel-jurmala"
+  },
+  {
+    "id": "jurmala-5",
+    "name": "Boutique Spa Hotel Pegasa Pils",
+    "destinationSlug": "jurmala",
+    "categories": [
+      "dog-friendly",
+      "spa-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1200,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lv/jurmala.html",
+    "petFee": 10,
+    "petPolicy": "Pets of any size allowed for EUR 10 per pet, per night. Boutique spa setting.",
+    "highlights": [
+      "Boutique spa hotel",
+      "Low pet fee EUR 10",
+      "Heritage property"
+    ],
+    "slug": "pegasa-pils-jurmala"
+  },
+  {
+    "id": "kaunas-1",
+    "name": "Radisson Hotel Kaunas",
+    "destinationSlug": "kaunas",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2900,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lt/kaunas.html",
+    "petFee": 30,
+    "petPolicy": "Pets of any size allowed for EUR 30 per night. Dogs and cats welcome. Radisson chain pet-friendly.",
+    "highlights": [
+      "Radisson chain",
+      "Central Kaunas location",
+      "Business and leisure facilities"
+    ],
+    "slug": "radisson-hotel-kaunas"
+  },
+  {
+    "id": "kaunas-2",
+    "name": "Best Baltic Kaunas Hotel",
+    "destinationSlug": "kaunas",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1700,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lt/kaunas.html",
+    "petFee": 15,
+    "petPolicy": "Pets of any size for EUR 15 per pet, per night. Dogs and cats both welcome.",
+    "highlights": [
+      "Central Kaunas",
+      "Both dogs and cats",
+      "Solid mid-range option"
+    ],
+    "slug": "best-baltic-kaunas-hotel"
+  },
+  {
+    "id": "kaunas-3",
+    "name": "Hotel Kaunas",
+    "destinationSlug": "kaunas",
+    "categories": [
+      "dog-friendly",
+      "free-pet-stay"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2200,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lt/kaunas.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size in designated rooms for no additional fee. Cats not allowed.",
+    "highlights": [
+      "Free pet stay for dogs",
+      "Historic Laisves Aleja location",
+      "Heritage hotel"
+    ],
+    "slug": "hotel-kaunas"
+  },
+  {
+    "id": "kaunas-4",
+    "name": "Amberton Cozy Hotel Kaunas",
+    "destinationSlug": "kaunas",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1400,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lt/kaunas.html",
+    "petFee": 15,
+    "petPolicy": "Dogs of any size for EUR 15 per pet, per night. Cats may also be allowed by request.",
+    "highlights": [
+      "Amberton chain",
+      "Central location",
+      "Cozy rooms"
+    ],
+    "slug": "amberton-cozy-kaunas"
+  },
+  {
+    "id": "kaunas-5",
+    "name": "Centre Hotel Kaunas",
+    "destinationSlug": "kaunas",
+    "categories": [
+      "dog-friendly",
+      "free-pet-stay"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 950,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lt/kaunas.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size allowed for no additional fee. Cats not accepted.",
+    "highlights": [
+      "Free pet stay for dogs",
+      "Central old town location",
+      "Budget-friendly"
+    ],
+    "slug": "centre-hotel-kaunas"
+  },
+  {
+    "id": "klaipeda-1",
+    "name": "Amberton Hotel Klaipeda",
+    "destinationSlug": "klaipeda",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2600,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lt/klaipeda.html",
+    "petFee": 15,
+    "petPolicy": "Dogs of any size for EUR 15 per pet, per night. Multiple pets welcome. Food and water bowls provided.",
+    "highlights": [
+      "Modern 4-star city centre hotel",
+      "10-minute walk to Klaipeda Castle",
+      "Bowls provided"
+    ],
+    "slug": "amberton-hotel-klaipeda"
+  },
+  {
+    "id": "klaipeda-2",
+    "name": "Old Brick Boutique Apartments",
+    "destinationSlug": "klaipeda",
+    "categories": [
+      "dog-friendly",
+      "free-pet-stay",
+      "apartment",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 800,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lt/klaipeda.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size allowed for no additional fee. Boutique apartments in historic brick building.",
+    "highlights": [
+      "Free pet stay",
+      "Boutique apartment style",
+      "Historic brick architecture"
+    ],
+    "slug": "old-brick-boutique-klaipeda"
+  },
+  {
+    "id": "klaipeda-3",
+    "name": "Hotel Euterpe",
+    "destinationSlug": "klaipeda",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 1100,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lt/klaipeda.html",
+    "petFee": 25,
+    "petPolicy": "Pets of any size for EUR 25 per pet, per night. Dogs and cats welcome. Boutique heritage property.",
+    "highlights": [
+      "Heritage boutique hotel",
+      "Old town location",
+      "Highly rated stay"
+    ],
+    "slug": "hotel-euterpe-klaipeda"
+  },
+  {
+    "id": "klaipeda-4",
+    "name": "National Hotel Klaipeda",
+    "destinationSlug": "klaipeda",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 700,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lt/klaipeda.html",
+    "petFee": 10,
+    "petPolicy": "Dogs allowed for a small nightly fee. Designated pet-friendly rooms.",
+    "highlights": [
+      "Central Klaipeda",
+      "Designated pet rooms",
+      "Walking distance to ferry"
+    ],
+    "slug": "national-hotel-klaipeda"
+  },
+  {
+    "id": "klaipeda-5",
+    "name": "Michaelson Boutique Hotel",
+    "destinationSlug": "klaipeda",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 950,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lt/klaipeda.html",
+    "petFee": 15,
+    "petPolicy": "Pets welcome for EUR 15 per pet, per night. Boutique hotel in historic old town building.",
+    "highlights": [
+      "Boutique old town hotel",
+      "Historic Klaipeda warehouse building",
+      "Riverside location"
+    ],
+    "slug": "michaelson-boutique-klaipeda"
+  },
+  {
+    "id": "liepaja-1",
+    "name": "Hotel Vilhelmine",
+    "destinationSlug": "liepaja",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 850,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lv/liepaja.html",
+    "petFee": 10,
+    "petPolicy": "Pets welcome for a small fee. Historic atmosphere in central Liepaja near the beach.",
+    "highlights": [
+      "Historic quarter location",
+      "Short walk to beach",
+      "Cozy spacious rooms"
+    ],
+    "slug": "hotel-vilhelmine-liepaja"
+  },
+  {
+    "id": "liepaja-2",
+    "name": "Amrita Hotel Liepaja",
+    "destinationSlug": "liepaja",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1600,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lv/liepaja.html",
+    "petFee": 15,
+    "petPolicy": "Pets welcome for EUR 15 per night. 4-star rooms with mini-bar and private bathroom.",
+    "highlights": [
+      "Central Liepaja location",
+      "Largest hotel in town",
+      "Full business facilities"
+    ],
+    "slug": "amrita-hotel-liepaja"
+  },
+  {
+    "id": "liepaja-3",
+    "name": "Sport Hotel Liepaja",
+    "destinationSlug": "liepaja",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 600,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lv/liepaja.html",
+    "petFee": 7,
+    "petPolicy": "Pets of any size welcome with refundable deposit of EUR 7 per night.",
+    "highlights": [
+      "Very low pet fee EUR 7",
+      "Sports facilities",
+      "Quiet location"
+    ],
+    "slug": "sport-hotel-liepaja"
+  },
+  {
+    "id": "liepaja-4",
+    "name": "Park & Beach Area Apartment Liepaja",
+    "destinationSlug": "liepaja",
+    "categories": [
+      "dog-friendly",
+      "apartment"
+    ],
+    "stars": 3,
+    "rating": 8.9,
+    "reviewCount": 450,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lv/liepaja.html",
+    "petFee": 10,
+    "petPolicy": "Pets welcome for a small nightly fee. Apartment near park and beach, dog park nearby.",
+    "highlights": [
+      "Near dog park",
+      "Pets allowed on beach",
+      "Self-catering apartment"
+    ],
+    "slug": "park-beach-apartment-liepaja"
+  },
+  {
+    "id": "liepaja-5",
+    "name": "Rietumkrasta Seaside Apartment",
+    "destinationSlug": "liepaja",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "beachfront-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 9,
+    "reviewCount": 380,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/lv/liepaja.html",
+    "petFee": 10,
+    "petPolicy": "Pets welcome for a small fee. Seaside apartment with great views, pets allowed on nearby beach.",
+    "highlights": [
+      "Seaside views",
+      "Self-catering apartment",
+      "Beach access for dogs"
+    ],
+    "slug": "rietumkrasta-seaside-liepaja"
   }
 ]

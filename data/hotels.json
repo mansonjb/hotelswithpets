@@ -30659,5 +30659,491 @@
     "petPolicy": "Beach Hotel Dos Mares warmly welcomes dogs for EUR 10 per night; pets are allowed in the bar, restaurant and on the beach directly in front of the hotel. Pets accepted on request. Beachfront 3-star property on Los Lances beach between Tarifa and Punta Paloma, popular with kitesurfers and dog owners alike. Please confirm with the property when booking.",
     "address": "Carretera N-340 km 79.5, 11380 Tarifa",
     "neighborhood": "Los Lances"
+  },
+  {
+    "id": "a-coruna-1",
+    "name": "NH Collection A Coruña Finisterre",
+    "destinationSlug": "a-coruna",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "seafront"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 3200,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/nh-collection-a-coruna-finisterre.html",
+    "petFee": 35,
+    "petPolicy": "NH Collection A Coruña Finisterre accepts up to 2 dogs or cats per room, max 25 kg each, for EUR 35 per pet per night (subject to approval; guide dogs free). 5-star landmark hotel on the Paseo Marítimo facing the bay, with outdoor pool, spa and direct sea views. Please confirm with the property when booking.",
+    "address": "Paseo del Parrote 2-4, 15001 A Coruña",
+    "neighborhood": "Ciudad Vieja"
+  },
+  {
+    "id": "a-coruna-2",
+    "name": "Hesperia A Coruña Centro",
+    "destinationSlug": "a-coruna",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2100,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hesperia-a-coruna-centro.html",
+    "petFee": 22,
+    "petPolicy": "Hesperia A Coruña Centro welcomes pets of any size in designated rooms for EUR 22 per pet, per night. 4-star modern hotel in the city centre near Plaza de Pontevedra, a short walk from Riazor beach and the old town. Please confirm with the property when booking.",
+    "address": "Juan Flórez 16, 15004 A Coruña",
+    "neighborhood": "Ensanche"
+  },
+  {
+    "id": "a-coruna-3",
+    "name": "Attica 21 Coruña",
+    "destinationSlug": "a-coruna",
+    "categories": [
+      "dog-friendly",
+      "business"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 1850,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/attica-21-coruna.html",
+    "petFee": 25,
+    "petPolicy": "Attica 21 Coruña accepts 1 dog under 25 kg per room in designated rooms for EUR 25 per night. Contemporary 4-star hotel in the Matogrande district, close to the AC Marineda shopping centre and a short drive from the beaches. Please confirm with the property when booking.",
+    "address": "Enrique Mariñas Romero 32, 15009 A Coruña",
+    "neighborhood": "Matogrande"
+  },
+  {
+    "id": "a-coruna-4",
+    "name": "Hotel Mar del Plata",
+    "destinationSlug": "a-coruna",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "seafront"
+    ],
+    "stars": 2,
+    "rating": 8.5,
+    "reviewCount": 980,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/mar-del-plata.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Mar del Plata welcomes dogs of any size at no additional fee, with bowls available on request. Small family-run 2-star hotel on the Paseo Marítimo facing Riazor and Orzán beaches, ideal for walks with dogs along the promenade. Please confirm with the property when booking.",
+    "address": "Paseo de Ronda 58, 15011 A Coruña",
+    "neighborhood": "Riazor"
+  },
+  {
+    "id": "a-coruna-5",
+    "name": "Hotel Brisa",
+    "destinationSlug": "a-coruna",
+    "categories": [
+      "dog-friendly",
+      "seafront"
+    ],
+    "stars": 2,
+    "rating": 8.2,
+    "reviewCount": 1100,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/brisa.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Brisa accepts dogs of any size for no additional fee. 2-star seafront hotel on the Paseo Marítimo opposite Riazor beach, a 10-minute walk to Plaza de María Pita and the historic centre. Please confirm with the property when booking.",
+    "address": "Paseo de Ronda 60, 15011 A Coruña",
+    "neighborhood": "Riazor"
+  },
+  {
+    "id": "santander-1",
+    "name": "NH Ciudad de Santander",
+    "destinationSlug": "santander",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2400,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/nh-ciudad-de-santander.html",
+    "petFee": 25,
+    "petPolicy": "NH Ciudad de Santander accepts up to 2 pets (dogs or cats) up to 25 kg each in designated rooms for EUR 25 per pet, per night; food and water bowls are provided. 4-star hotel a short walk from the Santander ferry terminal and the city centre, popular with travellers arriving from the UK with dogs. Please confirm with the property when booking.",
+    "address": "Menéndez Pelayo 13-15, 39006 Santander",
+    "neighborhood": "Centro"
+  },
+  {
+    "id": "santander-2",
+    "name": "Hotel Silken Coliseum",
+    "destinationSlug": "santander",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2050,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/silken-coliseum.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Silken Coliseum is listed on Booking.com as pet-friendly; small dogs accepted on request, fees may apply (confirm at booking). 4-star hotel facing Plaza de los Remedios in the heart of Santander, a short walk from El Sardinero beach via the bay. Please confirm with the property when booking.",
+    "address": "Plaza de los Remedios 1, 39001 Santander",
+    "neighborhood": "Centro"
+  },
+  {
+    "id": "santander-3",
+    "name": "Casuca Montañesa en Santander",
+    "destinationSlug": "santander",
+    "categories": [
+      "dog-friendly",
+      "apartment"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 320,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/casuca-montanesa-en-santander.html",
+    "petFee": 0,
+    "petPolicy": "Casuca Montañesa is highlighted in Booking.com guest reviews as very pet-friendly with tiled floors, comfy beds and a quiet room ideal for dogs. Pets accepted on request; confirm any cleaning fee at booking. Apartment-style accommodation with private parking (extra) and easy walking access to the centre of Santander. Please confirm with the property when booking.",
+    "address": "Calle Vargas, 39010 Santander",
+    "neighborhood": "Cuatro Caminos"
+  },
+  {
+    "id": "santander-4",
+    "name": "Apartamentos Las Brisas Santander",
+    "destinationSlug": "santander",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "beach"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 540,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/apartamentos-las-brisas-santander.html",
+    "petFee": 0,
+    "petPolicy": "Apartamentos Las Brisas Santander is listed among Booking.com's pet-friendly stays in Santander. Pets accepted; confirm size limit and any fees at reservation. 3-star aparthotel around 25 minutes' walk from Isla de la Torre, with kitchen facilities convenient for travellers with dogs. Please confirm with the property when booking.",
+    "address": "La Pereda 87, 39012 Santander",
+    "neighborhood": "Cueto"
+  },
+  {
+    "id": "santander-5",
+    "name": "Hotel Boutique Las Brisas",
+    "destinationSlug": "santander",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "beach"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 760,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/las-brisas-santander.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Boutique Las Brisas appears on Booking.com's pet-friendly listings for Santander; small to medium dogs accepted on request, fees may apply (confirm at booking). Charming early-20th-century boutique mansion two minutes from El Sardinero beach, ideal for seafront walks with dogs. Please confirm with the property when booking.",
+    "address": "La Braña 14, 39005 Santander",
+    "neighborhood": "El Sardinero"
+  },
+  {
+    "id": "vitoria-gasteiz-1",
+    "name": "NH Canciller Ayala Vitoria",
+    "destinationSlug": "vitoria-gasteiz",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2150,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/nh-canciller-ayala-vitoria.html",
+    "petFee": 25,
+    "petPolicy": "NH Canciller Ayala Vitoria welcomes most house pets, including dogs and cats, in guestrooms; size limits and a per-night fee may apply (confirm at booking). 4-star hotel in the heart of Vitoria-Gasteiz next to Parque de la Florida, a short walk to the medieval Casco Viejo and Catedral de Santa María. Please confirm with the property when booking.",
+    "address": "Ramón y Cajal 5, 01007 Vitoria-Gasteiz",
+    "neighborhood": "Centro"
+  },
+  {
+    "id": "vitoria-gasteiz-2",
+    "name": "Gobeo Park",
+    "destinationSlug": "vitoria-gasteiz",
+    "categories": [
+      "dog-friendly",
+      "business"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 1340,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/gobeo-park.html",
+    "petFee": 0,
+    "petPolicy": "Gobeo Park allows up to 2 pets (dogs or cats) of any size for no additional fee. 3-star hotel on the outskirts of Vitoria-Gasteiz with easy parking, around 10 minutes by car from the city centre and close to the green ring of parks. Please confirm with the property when booking.",
+    "address": "Portal de Gobeo 21, 01010 Vitoria-Gasteiz",
+    "neighborhood": "Gobeo"
+  },
+  {
+    "id": "vitoria-gasteiz-3",
+    "name": "Sercotel Boulevard Vitoria",
+    "destinationSlug": "vitoria-gasteiz",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1620,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/sercotel-boulevard-vitoria.html",
+    "petFee": 25,
+    "petPolicy": "Sercotel Boulevard Vitoria allows 1 pet up to 7 kg for EUR 25 per night (dogs and cats welcome); pets are not permitted in the breakfast area. 3-star hotel next to the Boulevard shopping centre and within walking distance of the historic Almendra Medieval. Please confirm with the property when booking.",
+    "address": "Zaramaga 1, 01013 Vitoria-Gasteiz",
+    "neighborhood": "Zaramaga"
+  },
+  {
+    "id": "vitoria-gasteiz-4",
+    "name": "Abba Jazz Hotel",
+    "destinationSlug": "vitoria-gasteiz",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1480,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/abba-jazz.html",
+    "petFee": 30,
+    "petPolicy": "Abba Jazz Hotel accepts pets up to 10 kg for EUR 30 per pet, per night (dogs and cats welcome). 3-star hotel a few minutes' walk from Vitoria-Gasteiz's old town, with stylish rooms and a quiet location near the Florida park. Please confirm with the property when booking.",
+    "address": "Florida 7, 01005 Vitoria-Gasteiz",
+    "neighborhood": "Centro"
+  },
+  {
+    "id": "vitoria-gasteiz-5",
+    "name": "Kora Green City - Aparthotel Passivhaus",
+    "destinationSlug": "vitoria-gasteiz",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "eco"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 720,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/kora-green-city-aparthotel-passivhaus.html",
+    "petFee": 0,
+    "petPolicy": "Kora Green City is listed among Booking.com's pet-friendly properties in Vitoria-Gasteiz. Pets accepted on request; confirm size limits and any cleaning fees at booking. Sustainable Passivhaus-certified aparthotel 4.7 km from Fernando Buesa Arena, with rooftop pool, steam room and 24-hour front desk. Please confirm with the property when booking.",
+    "address": "Reyes de Navarra 32, 01013 Vitoria-Gasteiz",
+    "neighborhood": "Salburua"
+  },
+  {
+    "id": "getxo-1",
+    "name": "Palacio Arriluce Hotel",
+    "destinationSlug": "getxo",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "seafront"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 680,
+    "priceFrom": 290,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/palacio-arriluce.html",
+    "petFee": 35,
+    "petPolicy": "Palacio Arriluce Hotel welcomes 1 dog of any size in designated rooms for EUR 35 per night. 5-star Relais & Châteaux palace overlooking the Abra bay in Getxo, with spa, gourmet restaurant and gardens above the marina. Please confirm with the property when booking.",
+    "address": "Calle Arriluze 1, 48992 Getxo",
+    "neighborhood": "Neguri"
+  },
+  {
+    "id": "getxo-2",
+    "name": "Petit Palace Tamarises",
+    "destinationSlug": "getxo",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "beach"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 1320,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/los-tamarises.html",
+    "petFee": 25,
+    "petPolicy": "Petit Palace Tamarises welcomes pets of any size for EUR 25 per stay via Booking.com (free when booking on the hotel's official site). Boutique 3-star hotel directly on Ereaga beach, with restaurant terrace over the sand and easy access to Algorta old town. Please confirm with the property when booking.",
+    "address": "Muelle de Ereaga 4, 48992 Getxo",
+    "neighborhood": "Ereaga"
+  },
+  {
+    "id": "getxo-3",
+    "name": "Ercilla Embarcadero Hotel",
+    "destinationSlug": "getxo",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1480,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/embarcadero-getxo.html",
+    "petFee": 0,
+    "petPolicy": "Ercilla Embarcadero Hotel allows dogs of any size at no additional fee. 4-star glamorous hotel set in a former Basque mansion on Avenida Zugazarte in Las Arenas, walking distance from the Vizcaya Bridge (UNESCO) and Ereaga beach. Please confirm with the property when booking.",
+    "address": "Avenida Zugazarte 51, 48930 Getxo",
+    "neighborhood": "Las Arenas"
+  },
+  {
+    "id": "getxo-4",
+    "name": "Hotel Neguri",
+    "destinationSlug": "getxo",
+    "categories": [
+      "dog-friendly",
+      "city-center"
+    ],
+    "stars": 2,
+    "rating": 8.2,
+    "reviewCount": 820,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/neguri.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Neguri is listed on Booking.com as pet-friendly; small to medium dogs accepted on request, fees may apply (confirm at booking). 2-star hotel on Avenida de Algorta in the residential Neguri district, two metro stops from Bilbao and a short walk to Ereaga beach. Please confirm with the property when booking.",
+    "address": "Avenida de Algorta 14, 48992 Getxo",
+    "neighborhood": "Neguri"
+  },
+  {
+    "id": "getxo-5",
+    "name": "Petit Palace Arana",
+    "destinationSlug": "getxo",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 1750,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/petit-palace-arana.html",
+    "petFee": 0,
+    "petPolicy": "Petit Palace Arana welcomes pets of any size in designated rooms for no additional fee. Boutique hotel in the Greater Bilbao area popular with travellers visiting Getxo's coast and the Guggenheim Museum, with easy metro access along the Bilbao-Plentzia line. Please confirm with the property when booking.",
+    "address": "Bidebarrieta 2, 48005 Bilbao",
+    "neighborhood": "Casco Viejo"
+  },
+  {
+    "id": "formentera-1",
+    "name": "Es Pas Formentera Agroturismo",
+    "destinationSlug": "formentera",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "rural"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 480,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/es-pas-formentera-agroturismo.html",
+    "petFee": 0,
+    "petPolicy": "Es Pas Formentera Agroturismo welcomes 1 dog of any size per room at no additional fee; food and water bowls are provided and owners must notify the property when booking. 4-star agroturismo on a working farm near Es Caló, with outdoor pool, fields and quiet rural setting on Formentera. Please confirm with the property when booking.",
+    "address": "Venda des Caló de Sant Agustí s/n, 07871 Es Caló",
+    "neighborhood": "Es Caló de Sant Agustí"
+  },
+  {
+    "id": "formentera-2",
+    "name": "Hostal La Savina",
+    "destinationSlug": "formentera",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "seafront"
+    ],
+    "stars": 2,
+    "rating": 8.5,
+    "reviewCount": 920,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hostal-la-savina.html",
+    "petFee": 0,
+    "petPolicy": "Hostal La Savina is listed on Booking.com as pet-friendly; dogs accepted on request, fees may apply (confirm at booking). 2-star hostal in La Savina overlooking the Estany des Peix saltwater lagoon, with garden, private beach area and shared lounge, walking distance from the Formentera ferry port. Please confirm with the property when booking.",
+    "address": "Avenida Mediterranea 22-40, 07870 La Savina",
+    "neighborhood": "La Savina"
+  },
+  {
+    "id": "formentera-3",
+    "name": "Casa Rustick",
+    "destinationSlug": "formentera",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "rural"
+    ],
+    "stars": 3,
+    "rating": 9,
+    "reviewCount": 260,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/casa-rustick.html",
+    "petFee": 0,
+    "petPolicy": "Casa Rustick is highlighted on Booking.com as one of Formentera's popular pet-friendly stays for families. Pets accepted on request; confirm size limits and any cleaning fees at booking. Rustic-style accommodation in a quiet inland setting, ideal for travellers exploring Formentera with dogs. Please confirm with the property when booking.",
+    "address": "Carretera de la Mola km 6, 07871 Sant Ferran de ses Roques",
+    "neighborhood": "Sant Ferran"
+  },
+  {
+    "id": "formentera-4",
+    "name": "Bungalows Sa Sargantana",
+    "destinationSlug": "formentera",
+    "categories": [
+      "dog-friendly",
+      "apartment",
+      "beach"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 410,
+    "priceFrom": 190,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/bungalows-sa-sargantana.html",
+    "petFee": 0,
+    "petPolicy": "Bungalows Sa Sargantana is listed on Booking.com among Formentera's popular pet-friendly stays. Pets accepted on request; confirm size and any fees at booking. Bungalow-style accommodation a short walk from Es Pujols beach, with garden and kitchenettes convenient for travellers with dogs. Please confirm with the property when booking.",
+    "address": "Carrer Espalmador 16, 07871 Es Pujols",
+    "neighborhood": "Es Pujols"
+  },
+  {
+    "id": "formentera-5",
+    "name": "Boho Suites Formentera",
+    "destinationSlug": "formentera",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.9,
+    "reviewCount": 310,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/boho-suites-formentera.html",
+    "petFee": 0,
+    "petPolicy": "Boho Suites Formentera is listed among Booking.com's pet-friendly hotels on Formentera. Pets accepted on request; confirm size limits and any cleaning fees at booking. Boho-style suites near Sant Francesc Xavier, with garden and easy access to Migjorn and Illetes beaches. Please confirm with the property when booking.",
+    "address": "Carrer Major s/n, 07860 Sant Francesc Xavier",
+    "neighborhood": "Sant Francesc"
   }
 ]

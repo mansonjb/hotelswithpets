@@ -31526,7 +31526,7 @@
       "boutique"
     ],
     "stars": 4,
-    "rating": 8.0,
+    "rating": 8,
     "reviewCount": 4200,
     "priceFrom": 240,
     "currency": "EUR",
@@ -31634,5 +31634,652 @@
     "petPolicy": "Mondrian South Beach is listed on Booking.com and pet-friendly Miami Beach directories as pet-friendly; dogs typically accepted for a fee of approximately USD 100 per stay (confirm size with property). Chic Marcel Wanders-designed hotel on Biscayne Bay in West Avenue, with bayfront pool and views of the Miami skyline. Please confirm with the property when booking.",
     "address": "1100 West Avenue, Miami Beach, FL 33139",
     "neighborhood": "West Avenue"
+  },
+  {
+    "id": "villefranche-sur-mer-1",
+    "name": "Welcome Hotel",
+    "destinationSlug": "villefranche-sur-mer",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "sea-view"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1400,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/welcome.html",
+    "petFee": 20,
+    "petPolicy": "Welcome Hotel is listed on Booking.com as pet-friendly; dogs accepted for approximately EUR 20 per night. Iconic 4-star harbour-front hotel with 35 rooms overlooking the old port and bay of Villefranche. Please confirm size restrictions with the property when booking.",
+    "highlights": [
+      "Harbour-front 4-star hotel",
+      "Panoramic bay views",
+      "Steps from old town"
+    ],
+    "slug": "welcome-hotel-villefranche",
+    "address": "3 Quai de l'Amiral Courbet, 06230 Villefranche-sur-Mer",
+    "neighborhood": "Port / Vieille Ville"
+  },
+  {
+    "id": "villefranche-sur-mer-2",
+    "name": "Hotel La Flore",
+    "destinationSlug": "villefranche-sur-mer",
+    "categories": [
+      "dog-friendly",
+      "sea-view"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 900,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/la-flore.html",
+    "petFee": 10,
+    "petPolicy": "Hotel La Flore is listed on regional pet-friendly directories; small dogs typically accepted for approximately EUR 10 per night. 3-star hotel between Nice and Monaco with panoramic sea views and Provencal-style rooms. Please confirm pet policy directly with the property when booking as Booking.com listing may vary by season.",
+    "highlights": [
+      "Panoramic sea views",
+      "Provencal-style rooms",
+      "Between Nice and Monaco"
+    ],
+    "slug": "hotel-la-flore-villefranche",
+    "address": "5 Boulevard Princesse Grace de Monaco, 06230 Villefranche-sur-Mer",
+    "neighborhood": "Basse Corniche"
+  },
+  {
+    "id": "villefranche-sur-mer-3",
+    "name": "Hotel Le Versailles",
+    "destinationSlug": "villefranche-sur-mer",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "sea-view",
+      "with-pool"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1100,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/leversailles.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Le Versailles is listed on Booking.com as pet-friendly; dogs and cats accepted for approximately EUR 15 per night. 4-star hotel between Nice and Monaco with outdoor swimming pool, petanque court and sea-view rooms. Please confirm with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Sea-view rooms",
+      "Free petanque court"
+    ],
+    "slug": "hotel-le-versailles-villefranche",
+    "address": "7 Boulevard Princesse Grace, 06230 Villefranche-sur-Mer",
+    "neighborhood": "Basse Corniche"
+  },
+  {
+    "id": "villefranche-sur-mer-4",
+    "name": "Hotel Provencal",
+    "destinationSlug": "villefranche-sur-mer",
+    "categories": [
+      "dog-friendly",
+      "sea-view"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 850,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/provencal-villefranche-sur-mer.html",
+    "petFee": 12,
+    "petPolicy": "Hotel Provencal is listed on Booking.com pet-friendly Villefranche directories; dogs typically accepted for approximately EUR 12 per night. Family-run 3-star hotel a short walk from the old town and beach with sea-view balconies. Please confirm with the property when booking.",
+    "highlights": [
+      "Family-run",
+      "Sea-view balconies",
+      "Walking distance to beach"
+    ],
+    "slug": "hotel-provencal-villefranche",
+    "address": "4 Avenue Maréchal Joffre, 06230 Villefranche-sur-Mer",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "villefranche-sur-mer-5",
+    "name": "La Fiancée du Pirate",
+    "destinationSlug": "villefranche-sur-mer",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "with-pool",
+      "sea-view"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 600,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/la-fiancee-du-pirate.html",
+    "petFee": 10,
+    "petPolicy": "La Fiancée du Pirate is listed on Booking.com pet-friendly directories; small to medium dogs accepted for approximately EUR 10 per night. Charming hillside boutique B&B with outdoor pool and panoramic bay views. Please confirm with the property when booking.",
+    "highlights": [
+      "Outdoor pool",
+      "Panoramic bay views",
+      "Hillside boutique"
+    ],
+    "slug": "la-fiancee-du-pirate-villefranche",
+    "address": "8 Boulevard de la Corne d'Or, 06230 Villefranche-sur-Mer",
+    "neighborhood": "Moyenne Corniche"
+  },
+  {
+    "id": "saint-tropez-1",
+    "name": "Hotel Sezz Saint-Tropez",
+    "destinationSlug": "saint-tropez",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "boutique",
+      "with-pool"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 700,
+    "priceFrom": 550,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/sezz-saint-tropez.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Sezz Saint-Tropez allows one dog of any size for no additional fee per Booking.com pet-friendly listings (cats not allowed). 5-star design hotel by Christophe Pillet with outdoor pool and Payot spa, a short walk from Pampelonne. Please confirm with the property when booking.",
+    "highlights": [
+      "5-star design hotel",
+      "Outdoor pool and spa",
+      "Near Pampelonne beach"
+    ],
+    "slug": "hotel-sezz-saint-tropez",
+    "address": "151 Route des Salins, 83990 Saint-Tropez",
+    "neighborhood": "Les Salins"
+  },
+  {
+    "id": "saint-tropez-2",
+    "name": "Hotel Le Mandala",
+    "destinationSlug": "saint-tropez",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique",
+      "with-pool"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 550,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-mandala-saint-tropez.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Le Mandala allows up to 2 pets of any size for no additional fee per Booking.com pet-friendly listings, with both dogs and cats welcome. 4-star contemporary hotel in central Saint-Tropez, 8 minutes from Place des Lices, with on-site bar and pool access. Please confirm with the property when booking.",
+    "highlights": [
+      "2 pets free of charge",
+      "8 min walk to Place des Lices",
+      "Contemporary décor"
+    ],
+    "slug": "hotel-le-mandala-saint-tropez",
+    "address": "Boulevard Louis Blanc, 83990 Saint-Tropez",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "saint-tropez-3",
+    "name": "Hotel Les Palmiers",
+    "destinationSlug": "saint-tropez",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 800,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/les-palmiers.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Les Palmiers allows dogs of any size for no additional fee per Booking.com pet-friendly listings; cats may also be allowed by request. 3-star hotel on the edge of Place des Lices in the heart of Saint-Tropez. Please confirm with the property when booking.",
+    "highlights": [
+      "Dogs free of charge",
+      "On Place des Lices",
+      "Provencal garden"
+    ],
+    "slug": "hotel-les-palmiers-saint-tropez",
+    "address": "26 Boulevard Vasserot, 83990 Saint-Tropez",
+    "neighborhood": "Place des Lices"
+  },
+  {
+    "id": "saint-tropez-4",
+    "name": "Hotel La Tartane Saint-Tropez",
+    "destinationSlug": "saint-tropez",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "with-pool"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 650,
+    "priceFrom": 380,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/tartane.html",
+    "petFee": 30,
+    "petPolicy": "Hotel La Tartane Saint-Tropez allows dogs of any size for an additional fee of EUR 30 per pet per night per Booking.com pet-friendly listings. 4-star hotel with two pools and spa near Pampelonne beach. Please confirm with the property when booking.",
+    "highlights": [
+      "Two outdoor pools",
+      "Spa",
+      "Near Pampelonne beach"
+    ],
+    "slug": "hotel-la-tartane-saint-tropez",
+    "address": "Route des Salins, 83990 Saint-Tropez",
+    "neighborhood": "Les Salins"
+  },
+  {
+    "id": "saint-tropez-5",
+    "name": "Hotel de Paris Saint-Tropez",
+    "destinationSlug": "saint-tropez",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "boutique",
+      "with-pool"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 900,
+    "priceFrom": 620,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/de-paris-saint-tropez.html",
+    "petFee": 0,
+    "petPolicy": "Hotel de Paris Saint-Tropez allows one dog up to 5 kg in designated rooms for no additional fee per Booking.com pet-friendly listings. 5-star hotel in the heart of Saint-Tropez with rooftop pool and panoramic views over the village. Please confirm with the property when booking.",
+    "highlights": [
+      "Rooftop pool",
+      "Central village location",
+      "Spa Clarins"
+    ],
+    "slug": "hotel-de-paris-saint-tropez",
+    "address": "1 Traverse de la Gendarmerie, 83990 Saint-Tropez",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "menton-1",
+    "name": "Hotel Napoleon",
+    "destinationSlug": "menton",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "with-pool",
+      "sea-view"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1500,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/napoleon-menton.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Napoleon allows pets of any size for an additional fee of EUR 20 per pet per night per Booking.com pet-friendly listings; both dogs and cats are welcome (pets not allowed in the breakfast room). 4-star hotel on the seafront promenade with outdoor pool. Please confirm with the property when booking.",
+    "highlights": [
+      "Seafront promenade",
+      "Outdoor pool",
+      "All pets welcome"
+    ],
+    "slug": "hotel-napoleon-menton",
+    "address": "29 Porte de France, 06500 Menton",
+    "neighborhood": "Garavan / Promenade"
+  },
+  {
+    "id": "menton-2",
+    "name": "Best Western Hotel Mediterranee Menton",
+    "destinationSlug": "menton",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1200,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mediterranee-menton.html",
+    "petFee": 12,
+    "petPolicy": "Best Western Hotel Mediterranee Menton is listed on Booking.com as pet-friendly; dogs accepted for approximately EUR 12 per night (pets not allowed in the restaurant; in-room breakfast available at no extra cost). 3-star hotel a short walk from the beach and old town. Please confirm with the property when booking.",
+    "highlights": [
+      "Best Western chain",
+      "Walk to old town",
+      "In-room breakfast for pet owners"
+    ],
+    "slug": "best-western-mediterranee-menton",
+    "address": "5 Rue de la République, 06500 Menton",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "menton-3",
+    "name": "Hotel Princess et Richmond",
+    "destinationSlug": "menton",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "sea-view"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 1300,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/princess-richmond.html",
+    "petFee": 7,
+    "petPolicy": "Hotel Princess et Richmond allows pets of any size for an additional fee of EUR 7 per pet per night per Booking.com pet-friendly listings; both dogs and cats are welcome. 3-star hotel on the seafront promenade with sea-view rooms and rooftop solarium. Please confirm with the property when booking.",
+    "highlights": [
+      "Low pet fee EUR 7/night",
+      "Seafront promenade",
+      "Rooftop solarium"
+    ],
+    "slug": "hotel-princess-richmond-menton",
+    "address": "617 Promenade du Soleil, 06500 Menton",
+    "neighborhood": "Promenade du Soleil"
+  },
+  {
+    "id": "menton-4",
+    "name": "Hotel Menton Riviera",
+    "destinationSlug": "menton",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 2,
+    "rating": 8,
+    "reviewCount": 700,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/menton-riviera.html",
+    "petFee": 5,
+    "petPolicy": "Hotel Menton Riviera allows dogs of any size for an additional fee of EUR 5 per pet per night per Booking.com pet-friendly listings. 2-star budget-friendly hotel near the train station and old town. Please confirm with the property when booking.",
+    "highlights": [
+      "Low pet fee EUR 5/night",
+      "Near train station",
+      "Budget-friendly"
+    ],
+    "slug": "hotel-menton-riviera",
+    "address": "1335 Promenade du Soleil, 06500 Menton",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "menton-5",
+    "name": "Ibis Styles Menton Centre",
+    "destinationSlug": "menton",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1600,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-styles-menton-centre.html",
+    "petFee": 10,
+    "petPolicy": "Ibis Styles Menton Centre is listed on Booking.com as pet-friendly; dogs and cats accepted for approximately EUR 10 per night per Accor pet-friendly policy. 3-star chain hotel in central Menton, walking distance to Vieille Ville and beach. Please confirm with the property when booking.",
+    "highlights": [
+      "Accor chain pet-friendly",
+      "Walk to Vieille Ville",
+      "Walk to beach"
+    ],
+    "slug": "ibis-styles-menton-centre",
+    "address": "12 Rue Henri Greville, 06500 Menton",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "narbonne-1",
+    "name": "Hotel La Residence",
+    "destinationSlug": "narbonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 1700,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/la-residence.html",
+    "petFee": 12,
+    "petPolicy": "Hotel La Residence allows pets of any size for an additional fee of EUR 12 per pet per night per Booking.com pet-friendly listings; both dogs and cats welcome, with food and water bowls provided. Charming 3-star hotel in a 19th-century building in the centre of Narbonne, 50m from the canal and 150m from the cathedral. Please confirm with the property when booking.",
+    "highlights": [
+      "19th-century building",
+      "Bowls provided",
+      "50m from Canal de la Robine"
+    ],
+    "slug": "hotel-la-residence-narbonne",
+    "address": "6 Rue du 1er Mai, 11100 Narbonne",
+    "neighborhood": "Centre Historique"
+  },
+  {
+    "id": "narbonne-2",
+    "name": "Novotel Narbonne Sud",
+    "destinationSlug": "narbonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "with-pool"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 2100,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/novotel-narbonne-sud.html",
+    "petFee": 10,
+    "petPolicy": "Novotel Narbonne Sud allows dogs and cats in guestrooms per Booking.com pet-friendly listings for approximately EUR 10 per night per Accor pet-friendly policy (size limitations may apply). 4-star hotel on A9/A61 motorway junction with outdoor pool, ideal stopover. Please confirm with the property when booking.",
+    "highlights": [
+      "Accor chain pet-friendly",
+      "Outdoor pool",
+      "A9/A61 motorway access"
+    ],
+    "slug": "novotel-narbonne-sud",
+    "address": "Route de Perpignan, 11100 Narbonne",
+    "neighborhood": "Narbonne Sud"
+  },
+  {
+    "id": "narbonne-3",
+    "name": "Will's Hotel",
+    "destinationSlug": "narbonne",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 1100,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/will-s.html",
+    "petFee": 8,
+    "petPolicy": "Will's Hotel is listed on Booking.com pet-friendly Narbonne directories; small to medium dogs accepted for approximately EUR 8 per night. 3-star family-run hotel in the heart of Narbonne, well rated by families. Please confirm with the property when booking.",
+    "highlights": [
+      "Family-run",
+      "Central Narbonne",
+      "Highly rated by families"
+    ],
+    "slug": "wills-hotel-narbonne",
+    "address": "23 Avenue Pierre Sémard, 11100 Narbonne",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "narbonne-4",
+    "name": "Citotel Hotel du Midi",
+    "destinationSlug": "narbonne",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.1,
+    "reviewCount": 900,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/du-midi-narbonne.html",
+    "petFee": 7,
+    "petPolicy": "Citotel Hotel du Midi is listed on Booking.com pet-friendly Narbonne directories; dogs accepted for approximately EUR 7 per night. 2-star budget hotel in central Narbonne, well rated by families. Please confirm with the property when booking.",
+    "highlights": [
+      "Budget-friendly",
+      "Central Narbonne",
+      "Family-friendly"
+    ],
+    "slug": "citotel-hotel-du-midi-narbonne",
+    "address": "4 Avenue de Toulouse, 11100 Narbonne",
+    "neighborhood": "Centre"
+  },
+  {
+    "id": "narbonne-5",
+    "name": "Mercure Narbonne Sud",
+    "destinationSlug": "narbonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "with-pool"
+    ],
+    "stars": 4,
+    "rating": 8,
+    "reviewCount": 1300,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mercure-narbonne-sud.html",
+    "petFee": 10,
+    "petPolicy": "Mercure Narbonne Sud is listed on Booking.com as pet-friendly; dogs and cats accepted for approximately EUR 10 per night per Accor pet-friendly policy. 4-star hotel with outdoor pool near A9 motorway exit, convenient for Mediterranean stopover. Please confirm with the property when booking.",
+    "highlights": [
+      "Accor Mercure chain",
+      "Outdoor pool",
+      "Near A9 motorway"
+    ],
+    "slug": "mercure-narbonne-sud",
+    "address": "Boulevard 1848, 11100 Narbonne",
+    "neighborhood": "Narbonne Sud"
+  },
+  {
+    "id": "sete-1",
+    "name": "Hotel Port Marine",
+    "destinationSlug": "sete",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "sea-view",
+      "with-pool"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 1900,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/port-marine.html",
+    "petFee": 12,
+    "petPolicy": "Hotel Port Marine is listed on Booking.com as pet-friendly; dogs and cats accepted for approximately EUR 12 per night. 3-star marina-front hotel with rooftop pool overlooking the port and Mont Saint-Clair. Please confirm with the property when booking.",
+    "highlights": [
+      "Marina-front location",
+      "Rooftop pool",
+      "Mont Saint-Clair views"
+    ],
+    "slug": "hotel-port-marine-sete",
+    "address": "Môle Saint-Louis, 34200 Sète",
+    "neighborhood": "Môle Saint-Louis"
+  },
+  {
+    "id": "sete-2",
+    "name": "Le Grand Hotel Sete",
+    "destinationSlug": "sete",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1500,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/legrand-sete.html",
+    "petFee": 15,
+    "petPolicy": "Le Grand Hotel Sete is listed on Booking.com as pet-friendly and rated among best-value pet-friendly hotels in Sète; dogs accepted for approximately EUR 15 per night. 4-star historic hotel on the Canal Royal in central Sète, with stained-glass winter garden. Please confirm with the property when booking.",
+    "highlights": [
+      "Historic 1882 hotel",
+      "On Canal Royal",
+      "Stained-glass winter garden"
+    ],
+    "slug": "le-grand-hotel-sete",
+    "address": "17 Quai du Maréchal de Lattre de Tassigny, 34200 Sète",
+    "neighborhood": "Canal Royal"
+  },
+  {
+    "id": "sete-3",
+    "name": "La Singuliere",
+    "destinationSlug": "sete",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 700,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/la-singuliere.html",
+    "petFee": 15,
+    "petPolicy": "La Singulière is listed on Booking.com as one of the most popular pet-friendly hotels in Sète; dogs accepted for approximately EUR 15 per night. 4-star boutique hotel in a renovated 19th-century building in Le Quartier Haut, the artist neighbourhood of Sète. Please confirm with the property when booking.",
+    "highlights": [
+      "19th-century building",
+      "Quartier Haut artist district",
+      "Boutique design"
+    ],
+    "slug": "la-singuliere-sete",
+    "address": "12 Rue Garenne, 34200 Sète",
+    "neighborhood": "Quartier Haut"
+  },
+  {
+    "id": "sete-4",
+    "name": "Ibis Sete Balaruc-les-Bains",
+    "destinationSlug": "sete",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "with-pool"
+    ],
+    "stars": 3,
+    "rating": 8,
+    "reviewCount": 1700,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-sete-balaruc.html",
+    "petFee": 10,
+    "petPolicy": "Ibis Sete Balaruc-les-Bains is listed on Booking.com as pet-friendly; dogs and cats accepted for approximately EUR 10 per night per Accor pet-friendly policy. 3-star chain hotel with outdoor pool on the shore of the Étang de Thau, 10 minutes from central Sète. Please confirm with the property when booking.",
+    "highlights": [
+      "Accor Ibis chain",
+      "Outdoor pool",
+      "Étang de Thau shore"
+    ],
+    "slug": "ibis-sete-balaruc",
+    "address": "Quai du Port de Plaisance, 34540 Balaruc-les-Bains",
+    "neighborhood": "Balaruc-les-Bains"
+  },
+  {
+    "id": "sete-5",
+    "name": "Hotel The Originals Sete Le Mas de la Plage",
+    "destinationSlug": "sete",
+    "categories": [
+      "dog-friendly",
+      "with-pool",
+      "near-beach"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 1100,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-mas-de-la-plage.html",
+    "petFee": 10,
+    "petPolicy": "Hotel The Originals Sete Le Mas de la Plage is listed on Booking.com as pet-friendly; dogs accepted for approximately EUR 10 per night. 3-star beachfront hotel on the Lido de Sète with outdoor pool and direct beach access. Please confirm with the property when booking.",
+    "highlights": [
+      "Direct beach access",
+      "Outdoor pool",
+      "Lido de Sète"
+    ],
+    "slug": "hotel-originals-mas-de-la-plage-sete",
+    "address": "Route de la Corniche, 34200 Sète",
+    "neighborhood": "Lido / Corniche"
   }
 ]

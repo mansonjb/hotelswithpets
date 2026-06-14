@@ -19490,6 +19490,128 @@
     "petPolicyPt": "Altis Porto Hotel, um member de Preferred Hotels & Resorts- LVX warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €20 por noite applies, charged em check-em. Animais são aceites até 10 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "poznan-1",
+    "name": "Sheraton Poznan Hotel",
+    "destinationSlug": "poznan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 2503,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/sheratonpoznan.en-gb.html",
+    "petFee": 28,
+    "petPolicy": "The 5-star Sheraton Poznan, beside Park Wilsona near the centre, welcomes both dogs and cats of any size for a pet fee of about 28 EUR (120 PLN) per night. Pets must be leashed in public areas and may not be left unattended in rooms. Park Wilsona across the road is ideal for morning walks.",
+    "highlights": [
+      "Indoor pool & sauna",
+      "Next to Park Wilsona",
+      "Free WiFi"
+    ],
+    "slug": "sheraton-poznan-hotel"
+  },
+  {
+    "id": "poznan-2",
+    "name": "PURO Hotel Poznan Stare Miasto",
+    "destinationSlug": "poznan",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 4278,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/puro-poznan.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This design-led 4-star a two-minute walk from the Old Market Square welcomes dogs of any size at no extra charge, and multiple dogs are allowed. Cats are not accepted. The terrace garden restaurant and central location make it an easy base for dog owners exploring the Stare Miasto on foot.",
+    "highlights": [
+      "Free pet stay",
+      "Steps from Old Market Square",
+      "Terrace garden restaurant"
+    ],
+    "slug": "puro-hotel-poznan-stare-miasto"
+  },
+  {
+    "id": "poznan-3",
+    "name": "City Solei Boutique Hotel",
+    "destinationSlug": "poznan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 1891,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/city-solei-boutique-poznan.en-gb.html",
+    "petFee": 19,
+    "petPolicy": "A boutique 4-star in the riverside Chwaliszewo district, five minutes on foot from the Old Market Square, welcoming up to three pets of any size for about 19 EUR (80 PLN) per pet per night. Both dogs and cats are accepted. Guests rate it highly for value and the quiet location near the Warta river walkways.",
+    "highlights": [
+      "Riverside Chwaliszewo location",
+      "Up to 3 pets",
+      "Dogs and cats welcome"
+    ],
+    "slug": "city-solei-boutique-hotel"
+  },
+  {
+    "id": "poznan-4",
+    "name": "Novotel Poznan Centrum",
+    "destinationSlug": "poznan",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3012,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/novotelpoznancentrum.en-gb.html",
+    "petFee": 23,
+    "petPolicy": "This central 4-star on Plac Andersa, beside the Stary Browar centre and a short walk from the lakeside Park Marcinkowskiego greenery, accepts dogs of any size for about 23 EUR (100 PLN) per night. Cats are not accepted. Multiple dogs are welcome and there is plenty of green space nearby for walks.",
+    "highlights": [
+      "Central Plac Andersa",
+      "Near Stary Browar",
+      "Multiple dogs welcome"
+    ],
+    "slug": "novotel-poznan-centrum"
+  },
+  {
+    "id": "poznan-5",
+    "name": "Saint Martin Residence by Y3 Hotels",
+    "destinationSlug": "poznan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 2101,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/y3-aparthotel.en-gb.html",
+    "petFee": 12,
+    "petPolicy": "An Old Town aparthotel with kitchenette apartments, a sauna and 24-hour fitness, welcoming both dogs and cats of any size for about 12 EUR (50 PLN) per night, with food and water bowls provided in the room. Its self-catering layout and central position make it a comfortable, good-value base for longer stays with a pet.",
+    "highlights": [
+      "Kitchenette apartments",
+      "Food & water bowls provided",
+      "Old Town location"
+    ],
+    "slug": "saint-martin-residence-y3"
+  },
+  {
     "id": "prague-1",
     "name": "Fairmont Golden Prague",
     "destinationSlug": "prague",

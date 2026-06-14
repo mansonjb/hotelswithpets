@@ -169,7 +169,7 @@
           "name": "Caldera Path Fira–Imerovigli–Oia",
           "address": "Fira to Oia clifftop, 84700 Santorini",
           "neighborhood": "Caldera rim",
-          "photo": "/images/city-places/santorini-parks-caldera-path.jpg",
+          "photo": "/images/city-places/santorini-parks-caldera-path-fira-imerovigli-oia.jpg",
           "size": "10 km linear, 200–300 m elevation",
           "leashRule": "Leash recommended, exposed cliff edges",
           "leashRuleFr": "Laisse recommandée, bords de falaise exposés",
@@ -217,7 +217,7 @@
           "name": "Pyrgos Castle Hilltop",
           "address": "Pyrgos Kallistis, 84700 Santorini",
           "neighborhood": "Pyrgos village",
-          "photo": "/images/city-places/santorini-parks-pyrgos.jpg",
+          "photo": "/images/city-places/santorini-parks-pyrgos-castle-hilltop.jpg",
           "size": "1.5 km loop, 50 m elevation",
           "leashRule": "Leash recommended",
           "leashRuleFr": "Laisse recommandée",
@@ -265,7 +265,7 @@
           "name": "Vlychada Bluffs",
           "address": "Vlychada, 84700 Santorini",
           "neighborhood": "South coast",
-          "photo": "/images/city-places/santorini-parks-vlychada.jpg",
+          "photo": "/images/city-places/santorini-parks-vlychada-bluffs.jpg",
           "size": "2 km linear bluff walk",
           "leashRule": "Leash recommended on the bluff edge",
           "leashRuleFr": "Laisse recommandée au bord de la falaise",
@@ -380,7 +380,7 @@
         {
           "name": "Santorini Thira Airport (JTR)",
           "type": "Air",
-          "photo": "/images/city-places/santorini-transport-jtr-airport.jpg",
+          "photo": "/images/city-places/santorini-transport-santorini-thira-airport-jtr.jpg",
           "website": "https://santoriniairport.com/",
           "description": "Santorini Thira International Airport, 6 km southeast of Fira on a single runway shared with the Hellenic Air Force. Year-round Aegean and SKY Express flights to Athens (45 min); summer charter and low-cost flights from most major EU hubs (London, Paris, Rome, Berlin, Vienna). One of the busiest summer-season airports in the Cyclades.",
           "descriptionFr": "Aéroport international Thira de Santorin, à 6 km au sud-est de Fira sur une piste unique partagée avec l'armée de l'air hellénique. Vols Aegean et SKY Express toute l'année vers Athènes (45 min) ; vols charter et low-cost saisonniers depuis la plupart des hubs UE majeurs (Londres, Paris, Rome, Berlin, Vienne). L'un des aéroports les plus chargés des Cyclades en saison.",
@@ -399,7 +399,7 @@
         {
           "name": "Athinios Port Ferry (Blue Star, Hellenic Seaways)",
           "type": "Ferry",
-          "photo": "/images/city-places/santorini-transport-athinios-ferry.jpg",
+          "photo": "/images/city-places/santorini-transport-athinios-port-ferry-blue-star-hellenic-seaways.jpg",
           "website": "https://www.bluestarferries.com/",
           "description": "Athinios is Santorini's main commercial port, 10 km south of Fira at the foot of the caldera cliff, served by Blue Star Ferries and Hellenic Seaways conventional ferries from Piraeus (5–8h, daily) and Sea Jets high-speed catamarans (4–5h). Carries cars, motorhomes and foot passengers, plus all Cyclades inter-island traffic.",
           "descriptionFr": "Athinios est le port commercial principal de Santorin, à 10 km au sud de Fira au pied de la falaise de la caldera, desservi par les ferries conventionnels Blue Star et Hellenic Seaways depuis Le Pirée (5-8h, quotidien) et les catamarans rapides Sea Jets (4-5h). Transporte voitures, camping-cars et piétons, plus tout le trafic inter-îles des Cyclades.",
@@ -418,7 +418,7 @@
         {
           "name": "KTEL Fira Bus Station",
           "type": "Bus",
-          "photo": "/images/city-places/santorini-transport-ktel-fira.jpg",
+          "photo": "/images/city-places/santorini-transport-ktel-fira-bus-station.jpg",
           "website": "https://ktel-santorini.gr/",
           "description": "Central bus hub on Mitropoleos street in Fira, single station serving all KTEL routes across the island: Oia, Pyrgos, Akrotiri, Kamari, Perissa, Vlychada, Athinios port, JTR airport. Modern coaches, 1.80 EUR flat fare to any village, half-hourly to hourly frequency in summer.",
           "descriptionFr": "Hub de bus central sur la rue Mitropoleos à Fira, gare unique desservant toutes les lignes KTEL de l'île : Oia, Pyrgos, Akrotiri, Kamari, Perissa, Vlychada, port d'Athinios, aéroport JTR. Cars modernes, tarif unique 1,80 € vers tout village, fréquence demi-horaire à horaire en été.",
@@ -509,7 +509,7 @@
         {
           "name": "Black Beach Perissa & Perivolos",
           "address": "Perissa-Perivolos, 84703 Santorini",
-          "photo": "/images/city-places/santorini-beaches-perissa.jpg",
+          "photo": "/images/city-places/santorini-beaches-black-beach-perissa-perivolos.jpg",
           "leashRule": "Leashed only on managed central sections; quieter ends tolerate off-leash off-season",
           "leashRuleFr": "Laisse sur les sections centrales gérées ; extrémités calmes tolèrent sans laisse hors-saison",
           "leashRuleEs": "Con correa en las secciones centrales gestionadas; extremos tranquilos toleran sin correa fuera de temporada",
@@ -555,7 +555,7 @@
         {
           "name": "Red Beach Akrotiri",
           "address": "Akrotiri, 84700 Santorini",
-          "photo": "/images/city-places/santorini-beaches-red-beach.jpg",
+          "photo": "/images/city-places/santorini-beaches-red-beach-akrotiri.jpg",
           "leashRule": "Leashed only, narrow scramble access",
           "leashRuleFr": "Laisse uniquement, accès en désescalade étroit",
           "leashRuleEs": "Con correa solamente, acceso de escalada estrecho",
@@ -647,7 +647,7 @@
         {
           "name": "Vlychada Beach",
           "address": "Vlychada, 84700 Santorini",
-          "photo": "/images/city-places/santorini-beaches-vlychada.jpg",
+          "photo": "/images/city-places/santorini-beaches-vlychada-beach.jpg",
           "leashRule": "Leashed only on managed end; off-leash tolerated off-season on the wild stretch",
           "leashRuleFr": "Laisse sur l'extrémité gérée ; sans laisse toléré hors-saison sur la portion sauvage",
           "leashRuleEs": "Con correa en el extremo gestionado; sin correa tolerado fuera de temporada en el tramo salvaje",
@@ -765,7 +765,7 @@
         {
           "name": "Santorini Vet Clinic (Margarita Valvi)",
           "address": "Mesaria, 84700 Santorini",
-          "photo": "/images/city-places/santorini-vets-santorini-vet.jpg",
+          "photo": "/images/city-places/santorini-vets-santorini-vet-clinic-margarita-valvi.jpg",
           "phone": "+30 22860 31482",
           "emergency24h": false,
           "languages": [
@@ -787,7 +787,7 @@
         {
           "name": "Veterinary Clinic Megalochori (Mavromichalis)",
           "address": "Megalochori, 84700 Santorini",
-          "photo": "/images/city-places/santorini-vets-megalochori.jpg",
+          "photo": "/images/city-places/santorini-vets-veterinary-clinic-megalochori-mavromichalis.jpg",
           "phone": "+30 22860 85069",
           "emergency24h": false,
           "languages": [
@@ -809,7 +809,7 @@
         {
           "name": "SAWA (Santorini Animal Welfare Association)",
           "address": "Karterados, 84700 Santorini",
-          "photo": "/images/city-places/santorini-vets-sawa.jpg",
+          "photo": "/images/city-places/santorini-vets-sawa-santorini-animal-welfare-association.jpg",
           "phone": "+30 22860 31482",
           "emergency24h": false,
           "languages": [
@@ -1000,7 +1000,7 @@
         {
           "name": "Oia Village & Sunset",
           "address": "Oia, 84702 Santorini",
-          "photo": "/images/city-places/santorini-attractions-oia.jpg",
+          "photo": "/images/city-places/santorini-attractions-oia-village-sunset.jpg",
           "petFriendly": true,
           "description": "The whitewashed cliff-top village at the northern tip of Santorini, 11 km from Fira, with the iconic blue-domed Anastasi and Agios Spyridon churches and the ruined Byzantine castle (Kasteli Agiou Nikolaou) as the most photographed sunset point in Greece. Pedestrian-only marble lanes, leashed dogs on the open paths and at most café terraces off-peak.",
           "descriptionFr": "Village blanchi en sommet de falaise à la pointe nord de Santorin, à 11 km de Fira, avec les iconiques églises à coupole bleue Anastasi et Agios Spyridon et les ruines du château byzantin (Kasteli Agiou Nikolaou) comme point de coucher de soleil le plus photographié de Grèce. Ruelles de marbre piétonnes uniquement, chiens en laisse sur les sentiers ouverts et à la plupart des terrasses de café hors-pic.",
@@ -1020,7 +1020,7 @@
         {
           "name": "Akrotiri Archaeological Site",
           "address": "Akrotiri, 84700 Santorini",
-          "photo": "/images/city-places/santorini-attractions-akrotiri.jpg",
+          "photo": "/images/city-places/santorini-attractions-akrotiri-archaeological-site.jpg",
           "petFriendly": false,
           "description": "Bronze Age Minoan town buried by the catastrophic 1620 BC Thera eruption, preserved nearly intact under volcanic ash for 3,600 years, now sheltered under a 14,000 m² protective bioclimatic roof. Multi-storey houses, frescoes, drainage and pottery in situ. The 'Cycladic Pompeii', one of the most important Aegean Bronze Age sites.",
           "descriptionFr": "Ville minoenne de l'âge du bronze ensevelie par l'éruption catastrophique de Théra en 1620 av. J.-C., préservée presque intacte sous les cendres volcaniques pendant 3 600 ans, désormais abritée sous un toit bioclimatique protecteur de 14 000 m². Maisons à étages, fresques, drainage et poteries in situ. La « Pompéi cycladique », l'un des sites les plus importants de l'âge du bronze égéen.",
@@ -1040,7 +1040,7 @@
         {
           "name": "Ancient Thera (Mesa Vouno)",
           "address": "Mesa Vouno, 84703 Santorini",
-          "photo": "/images/city-places/santorini-attractions-ancient-thera.jpg",
+          "photo": "/images/city-places/santorini-attractions-ancient-thera-mesa-vouno.jpg",
           "petFriendly": true,
           "description": "Hellenistic, Roman and Byzantine ruined city on the rocky Mesa Vouno spur 369 m above Kamari beach, founded by Spartans in the 9th century BC. Open-air archaeological site with the agora, theatre, basilica and temples, reached by a 4 km zigzag dirt road or a steep footpath from Kamari. Full panorama over the south-east coast.",
           "descriptionFr": "Cité hellénistique, romaine et byzantine en ruines sur l'éperon rocheux de Mesa Vouno à 369 m au-dessus de la plage de Kamari, fondée par les Spartiates au IXe siècle av. J.-C. Site archéologique en plein air avec l'agora, le théâtre, la basilique et les temples, accessible par une route de terre en zigzag de 4 km ou un sentier raide depuis Kamari. Panorama complet sur la côte sud-est.",

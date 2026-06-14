@@ -169,7 +169,7 @@
           "name": "Spianada (Esplanade)",
           "address": "Spianada, 49100 Corfu",
           "neighborhood": "Old Town centre",
-          "photo": "/images/city-places/corfu-parks-spianada.jpg",
+          "photo": "/images/city-places/corfu-parks-spianada-esplanade.jpg",
           "size": "8 ha, largest square in Greece",
           "leashRule": "Leash required",
           "leashRuleFr": "Laisse obligatoire",
@@ -217,7 +217,7 @@
           "name": "Mon Repos Park",
           "address": "Anemomylos, 49100 Corfu",
           "neighborhood": "Kanoni peninsula",
-          "photo": "/images/city-places/corfu-parks-mon-repos.jpg",
+          "photo": "/images/city-places/corfu-parks-mon-repos-park.jpg",
           "size": "25 ha",
           "leashRule": "Leash required",
           "leashRuleFr": "Laisse obligatoire",
@@ -265,7 +265,7 @@
           "name": "Old Fortress Promontory",
           "address": "Palaio Frourio, 49100 Corfu",
           "neighborhood": "East of the Spianada",
-          "photo": "/images/city-places/corfu-parks-old-fortress.jpg",
+          "photo": "/images/city-places/corfu-parks-old-fortress-promontory.jpg",
           "size": "Linear, 1.2 km loop",
           "leashRule": "Leash required",
           "leashRuleFr": "Laisse obligatoire",
@@ -380,7 +380,7 @@
         {
           "name": "Corfu Airport (CFU) Aegean / SKY Express",
           "type": "Air",
-          "photo": "/images/city-places/corfu-transport-cfu-airport.jpg",
+          "photo": "/images/city-places/corfu-transport-corfu-airport-cfu-aegean-sky-express.jpg",
           "website": "https://www.corfu-airport.com/",
           "description": "Corfu International Airport Ioannis Kapodistrias, 2 km south of the centre on a single runway between the Halikiopoulos lagoon and the sea. Year-round Aegean and SKY Express flights to Athens; summer charter and low-cost flights to most major EU hubs.",
           "descriptionFr": "Aéroport international Ioannis Kapodistrias de Corfou, à 2 km au sud du centre sur une piste unique entre la lagune Halikiopoulos et la mer. Vols Aegean et SKY Express toute l'année vers Athènes ; vols charter et low-cost saisonniers vers la plupart des hubs UE.",
@@ -399,7 +399,7 @@
         {
           "name": "ANEK / Minoan Ferry Igoumenitsa",
           "type": "Ferry",
-          "photo": "/images/city-places/corfu-transport-igoumenitsa-ferry.jpg",
+          "photo": "/images/city-places/corfu-transport-anek-minoan-ferry-igoumenitsa.jpg",
           "website": "https://www.anek.gr/",
           "description": "Daily 1h30 ferry between Corfu New Port and Igoumenitsa on the Greek mainland, operated by ANEK, Minoan and Kerkyra Lines hourly in summer. Accepts cars, motorhomes and foot passengers. The standard gateway from Athens (8h drive via Igoumenitsa) and from the Balkans.",
           "descriptionFr": "Ferry quotidien d'1h30 entre le Nouveau Port de Corfou et Igoumenitsa sur la Grèce continentale, opéré par ANEK, Minoan et Kerkyra Lines chaque heure en été. Accepte voitures, camping-cars et piétons. Porte d'entrée standard depuis Athènes (8h de route via Igoumenitsa) et depuis les Balkans.",
@@ -418,7 +418,7 @@
         {
           "name": "Brindisi / Bari Italy Ferry (Grimaldi, Ventouris)",
           "type": "International ferry",
-          "photo": "/images/city-places/corfu-transport-italy-ferry.jpg",
+          "photo": "/images/city-places/corfu-transport-brindisi-bari-italy-ferry-grimaldi-ventouris.jpg",
           "website": "https://www.grimaldi-lines.com/",
           "description": "Overnight ferry from Corfu New Port to Brindisi (8h) or Bari (10h) in Italy, operated mainly by Grimaldi Lines, Ventouris Ferries and Anek-Superfast. Carries cars, motorhomes and foot passengers. The Adriatic gateway between Greece and Italy without flying.",
           "descriptionFr": "Ferry de nuit du Nouveau Port de Corfou vers Brindisi (8h) ou Bari (10h) en Italie, opéré principalement par Grimaldi Lines, Ventouris Ferries et Anek-Superfast. Transporte voitures, camping-cars et piétons. La porte adriatique entre Grèce et Italie sans avion.",
@@ -509,7 +509,7 @@
         {
           "name": "Garitsa Bay & Mon Repos Beach",
           "address": "Garitsa, 49100 Corfu",
-          "photo": "/images/city-places/corfu-beaches-garitsa-bay.jpg",
+          "photo": "/images/city-places/corfu-beaches-garitsa-bay-mon-repos-beach.jpg",
           "leashRule": "Leashed only in high season; off-leash on the western end off-season",
           "leashRuleFr": "Laisse en haute saison ; sans laisse à l'extrémité ouest hors-saison",
           "leashRuleEs": "Con correa en alta temporada; sin correa en el extremo oeste fuera de temporada",
@@ -551,7 +551,7 @@
         {
           "name": "Glyfada Beach",
           "address": "Glyfada, 49100 Corfu",
-          "photo": "/images/city-places/corfu-beaches-glyfada.jpg",
+          "photo": "/images/city-places/corfu-beaches-glyfada-beach.jpg",
           "leashRule": "Leashed only in high season; off-leash tolerated off-season (Oct–May)",
           "leashRuleFr": "Laisse en haute saison ; sans laisse toléré hors-saison (oct–mai)",
           "leashRuleEs": "Con correa en alta temporada; sin correa tolerado fuera de temporada (oct–mayo)",
@@ -597,7 +597,7 @@
         {
           "name": "Paleokastritsa Coves",
           "address": "Paleokastritsa, 49083 Corfu",
-          "photo": "/images/city-places/corfu-beaches-paleokastritsa.jpg",
+          "photo": "/images/city-places/corfu-beaches-paleokastritsa-coves.jpg",
           "leashRule": "Leashed only; quiet boat-access coves are the dog-friendly choice",
           "leashRuleFr": "En laisse uniquement ; les criques accessibles en bateau sont le choix dog-friendly",
           "leashRuleEs": "Con correa solamente; las calas accesibles en barco son la elección pet-friendly",
@@ -643,7 +643,7 @@
         {
           "name": "Sidari Canal d'Amour",
           "address": "Sidari, 49081 Corfu",
-          "photo": "/images/city-places/corfu-beaches-canal-damour.jpg",
+          "photo": "/images/city-places/corfu-beaches-sidari-canal-d-amour.jpg",
           "leashRule": "Leashed only; sandstone cliff paths require careful handling",
           "leashRuleFr": "En laisse uniquement ; les sentiers de falaise en grès demandent une manipulation prudente",
           "leashRuleEs": "Con correa solamente; los senderos de acantilado de arenisca requieren manejo prudente",
@@ -783,7 +783,7 @@
         {
           "name": "Small Animal Clinic Corfu (Bourlogiannis)",
           "address": "E.O. Paleokastritsas 31, 49100 Corfu",
-          "photo": "/images/city-places/corfu-vets-small-animal-clinic.jpg",
+          "photo": "/images/city-places/corfu-vets-small-animal-clinic-corfu-bourlogiannis.jpg",
           "phone": "+30 26610 33277",
           "emergency24h": false,
           "languages": [
@@ -805,7 +805,7 @@
         {
           "name": "Ktiniatriko Kentro Kerkyras",
           "address": "Corfu Town, 49100 Corfu",
-          "photo": "/images/city-places/corfu-vets-ktiniatriko-kentro.jpg",
+          "photo": "/images/city-places/corfu-vets-ktiniatriko-kentro-kerkyras.jpg",
           "phone": "+30 26610 44918",
           "emergency24h": false,
           "languages": [
@@ -995,7 +995,7 @@
         {
           "name": "Liston Arcade & Spianada",
           "address": "Liston, 49100 Corfu",
-          "photo": "/images/city-places/corfu-attractions-liston.jpg",
+          "photo": "/images/city-places/corfu-attractions-liston-arcade-spianada.jpg",
           "petFriendly": true,
           "description": "Long arcaded boulevard built by the French during the Napoleonic occupation (1807–1814) and modelled on the Rue de Rivoli in Paris. Lines the western side of the Spianada with cafés under stone arches. The social heart of Corfu since 1814, dog-welcoming on every café terrace.",
           "descriptionFr": "Long boulevard à arcades construit par les Français pendant l'occupation napoléonienne (1807–1814) sur le modèle de la rue de Rivoli à Paris. Borde le côté ouest de la Spianada avec ses cafés sous les arches de pierre. Le cœur social de Corfou depuis 1814, accueillant pour les chiens sur chaque terrasse de café.",
@@ -1015,7 +1015,7 @@
         {
           "name": "Kanoni & Pontikonisi Viewpoint",
           "address": "Kanoni, 49100 Corfu",
-          "photo": "/images/city-places/corfu-attractions-kanoni.jpg",
+          "photo": "/images/city-places/corfu-attractions-kanoni-pontikonisi-viewpoint.jpg",
           "petFriendly": true,
           "description": "Cliff-top viewpoint 4 km south of the centre overlooking the Vlacherna Monastery on its own islet, connected by a stone causeway, and the iconic Pontikonisi (Mouse Island) further out, said in legend to be Odysseus's petrified ship. The most photographed view in Corfu.",
           "descriptionFr": "Belvédère en sommet de falaise à 4 km au sud du centre dominant le monastère de Vlacherna sur son propre îlot, relié par une digue de pierre, et l'iconique Pontikonisi (l'île aux Souris) plus au large, dont la légende dit qu'elle est le navire pétrifié d'Ulysse. La vue la plus photographiée de Corfou.",
@@ -1035,7 +1035,7 @@
         {
           "name": "Palace of St Michael and St George",
           "address": "Spianada, 49100 Corfu",
-          "photo": "/images/city-places/corfu-attractions-palace-st-michael.jpg",
+          "photo": "/images/city-places/corfu-attractions-palace-of-st-michael-and-st-george.jpg",
           "petFriendly": false,
           "description": "Neoclassical palace built 1819–1824 by the British as the residence of the Lord High Commissioner of the United States of the Ionian Islands. Now hosts the Asian Art Museum. The grand colonnaded facade closes the northern end of the Spianada; gardens on the east side give sea views over Garitsa Bay.",
           "descriptionFr": "Palais néoclassique construit en 1819–1824 par les Britanniques comme résidence du Lord Haut Commissaire des États-Unis des Îles Ioniennes. Abrite aujourd'hui le Musée d'Art Asiatique. La grande façade à colonnades ferme l'extrémité nord de la Spianada ; les jardins côté est offrent des vues mer sur la baie de Garitsa.",

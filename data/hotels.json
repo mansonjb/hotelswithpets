@@ -27234,7 +27234,13 @@
     "petFee": 25,
     "petPolicy": "Begijnhof Hotel welcomes dogs of any size for an extra charge of €25 per stay. Multiple pets are allowed but they are not permitted in the breakfast room, bar or brasserie. Please notify the hotel at the time of reservation and describe your pet.",
     "address": "Groot Begijnhof 15, 3000 Leuven",
-    "neighborhood": "Groot Begijnhof"
+    "neighborhood": "Groot Begijnhof",
+    "slug": "begijnhof-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "leuven-2",
@@ -27254,7 +27260,13 @@
     "petFee": 15,
     "petPolicy": "pentahotel Leuven allows pets of any size for an additional fee of €15 per pet, per stay. Both dogs and cats are welcome. The hotel is a short stroll from the historic city centre.",
     "address": "Alfons Smetsplein 7, 3000 Leuven",
-    "neighborhood": "City centre"
+    "neighborhood": "City centre",
+    "slug": "pentahotel-leuven",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "leuven-3",
@@ -27275,7 +27287,13 @@
     "petFee": 15,
     "petPolicy": "Novotel Leuven Centrum allows pets of any size for an additional fee of €15 per pet, per night. The hotel is a 10-minute walk from the train station and close to the historic centre.",
     "address": "Vuurkruisenlaan 4, 3000 Leuven",
-    "neighborhood": "City centre"
+    "neighborhood": "City centre",
+    "slug": "novotel-leuven-centrum",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "leuven-4",
@@ -27295,7 +27313,13 @@
     "petFee": 10,
     "petPolicy": "Ambassador Suites Leuven welcomes up to two pets per accommodation (dogs and cats), maximum 15 kg each, for an additional fee of €10 per pet, per night. Pets must be supervised at all times.",
     "address": "Sint-Maartenstraat 12D, 3000 Leuven",
-    "neighborhood": "City centre"
+    "neighborhood": "City centre",
+    "slug": "ambassador-suites-leuven",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €10 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "leuven-5",
@@ -27315,7 +27339,13 @@
     "petFee": 10,
     "petPolicy": "ibis budget Leuven Centrum allows pets on request for a small extra charge per night. Please contact the property in advance to confirm availability of a pet-friendly room.",
     "address": "Martelarenplein 5, 3000 Leuven",
-    "neighborhood": "Near train station"
+    "neighborhood": "Near train station",
+    "slug": "ibis-budget-leuven-centrum",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €10 as listed on Booking",
+      "2-star comfort"
+    ]
   },
   {
     "id": "ostend-1",
@@ -27335,7 +27365,13 @@
     "petFee": 19,
     "petPolicy": "Hotel & Wellness Royal Astrid welcomes dogs of any size in designated rooms for an additional fee of €19.50 per pet, per night. Service animals stay free of charge. Pets are not allowed in the breakfast room or in the executive rooms.",
     "address": "Wellingtonstraat 15, 8400 Oostende",
-    "neighborhood": "Near the seafront and racecourse"
+    "neighborhood": "Near the seafront and racecourse",
+    "slug": "hotel-wellness-royal-astrid",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €19 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "ostend-2",
@@ -27355,7 +27391,13 @@
     "petFee": 26,
     "petPolicy": "Mercure Oostende welcomes pets in designated rooms for an additional fee of €26 per dog per night. Maximum of two small pets or one large pet per room. The hotel is just 250 m from the sandy beach and the Casino Kursaal.",
     "address": "Leopold II-laan 20, 8400 Oostende",
-    "neighborhood": "Beachfront / Casino"
+    "neighborhood": "Beachfront / Casino",
+    "slug": "mercure-oostende",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €26 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "ostend-3",
@@ -27375,7 +27417,13 @@
     "petFee": 24,
     "petPolicy": "C-Hotels Andromeda welcomes dogs on request for a supplement of €24 per stay when notified in advance. Dogs are not allowed in the breakfast room or in the Andromeda Suite. A bowl and treats are provided for canine guests.",
     "address": "Kursaal Westhelling 5, 8400 Oostende",
-    "neighborhood": "Seafront / Kursaal"
+    "neighborhood": "Seafront / Kursaal",
+    "slug": "c-hotels-andromeda",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €24 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "ostend-4",
@@ -27395,7 +27443,13 @@
     "petFee": 15,
     "petPolicy": "Hotel Melinda allows dogs of any size for an additional fee of €15 per pet, per night. Cats are not allowed. Service animals are exempt from fees. A 7-minute walk from the train station and 15 minutes from Ostend Beach.",
     "address": "Mercatorlaan 21, 8400 Oostende",
-    "neighborhood": "City centre"
+    "neighborhood": "City centre",
+    "slug": "hotel-melinda",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "ostend-5",
@@ -27415,7 +27469,13 @@
     "petFee": 16,
     "petPolicy": "ibis budget Oostende Airport allows up to two pets of any size for an additional fee of €16 per pet, per night. Both dogs and cats are welcome. Located between Ostend and Middelkerke, within walking distance of Middelkerke beach.",
     "address": "Kalkaertweg 4b, 8430 Middelkerke",
-    "neighborhood": "Airport / Middelkerke"
+    "neighborhood": "Airport / Middelkerke",
+    "slug": "ibis-budget-oostende-airport",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €16 as listed on Booking",
+      "2-star comfort"
+    ]
   },
   {
     "id": "groningen-1",
@@ -27435,7 +27495,13 @@
     "petFee": 25,
     "petPolicy": "NH Groningen welcomes dogs and cats up to 25 kg on request, with a maximum of two pets per room, for a fee of €25 per pet, per stay. Guide dogs stay free of charge. Availability is limited, please request when booking.",
     "address": "Hanzeplein 132, 9713 GW Groningen",
-    "neighborhood": "Near UMCG / Sterrebos"
+    "neighborhood": "Near UMCG / Sterrebos",
+    "slug": "nh-groningen",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "groningen-2",
@@ -27455,7 +27521,13 @@
     "petFee": 15,
     "petPolicy": "Prinsenhof welcomes dogs for a charge of €15 per pet, per night, plus a refundable deposit of €15 per night. Service animals are exempt from fees. Food and water bowls are provided. Set in a 15th-century building with the Prinsenhof Gardens.",
     "address": "Martinikerkhof 23, 9712 JH Groningen",
-    "neighborhood": "Historic city centre"
+    "neighborhood": "Historic city centre",
+    "slug": "prinsenhof",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "groningen-3",
@@ -27475,7 +27547,13 @@
     "petFee": 17,
     "petPolicy": "Hotel Schimmelpenninck Huys allows pets in designated rooms for an extra charge of €17.50 per pet, per day. Both dogs and cats are welcome on request. Located in the heart of the historic centre, within walking distance of the Martinitoren.",
     "address": "Oosterstraat 53, 9711 NR Groningen",
-    "neighborhood": "Historic city centre"
+    "neighborhood": "Historic city centre",
+    "slug": "hotel-schimmelpenninck-huys",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €17 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "groningen-4",
@@ -27495,7 +27573,13 @@
     "petFee": 30,
     "petPolicy": "Van der Valk Hotel Groningen-Hoogkerk allows dogs of any size in designated rooms for €30 per pet, per night. Food and water bowls are provided. Dogs are welcome in the lobby, bar/brasserie and on the terrace but not in the restaurant or meeting floor.",
     "address": "Borchsingel 53, 9766 PP Eelderwolde",
-    "neighborhood": "Hoogkerk / A7"
+    "neighborhood": "Hoogkerk / A7",
+    "slug": "van-der-valk-hotel-groningen-hoogkerk",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €30 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "groningen-5",
@@ -27515,7 +27599,13 @@
     "petFee": 0,
     "petPolicy": "B&B Pakhuis Emden welcomes dogs of any size at no additional charge. Cats may also be allowed by request. A characterful B&B set in a converted warehouse in central Groningen.",
     "address": "Hoge der A 18, 9712 AC Groningen",
-    "neighborhood": "Hoge der A / canal district"
+    "neighborhood": "Hoge der A / canal district",
+    "slug": "b-b-pakhuis-emden",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "leiden-1",
@@ -27536,7 +27626,13 @@
     "petFee": 25,
     "petPolicy": "Tulip Inn Leiden Centre allows pets of any size for an additional fee of €25 per pet, per night. Both dogs and cats are welcome. Located right next to Leiden Centraal station, a short walk from the historic centre.",
     "address": "Schipholweg 3, 2316 XB Leiden",
-    "neighborhood": "Near Leiden Centraal"
+    "neighborhood": "Near Leiden Centraal",
+    "slug": "tulip-inn-leiden-centre",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "leiden-2",
@@ -27557,7 +27653,13 @@
     "petFee": 50,
     "petPolicy": "Hilton Garden Inn Leiden allows up to two pets up to 34 kg in designated Standard King rooms for an additional fee of €50 per pet, per stay. Both dogs and cats are welcome. Dog beds, treats, toys and food bowls are provided.",
     "address": "Willem Einthovenstraat 3, 2342 BH Oegstgeest",
-    "neighborhood": "Oegstgeest / near CORPUS"
+    "neighborhood": "Oegstgeest / near CORPUS",
+    "slug": "hilton-garden-inn-leiden",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €50 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "leiden-3",
@@ -27576,7 +27678,13 @@
     "petFee": 7,
     "petPolicy": "Boutique Hotel d'Oude Morsch welcomes dogs of any size for an additional fee of €7.50 per pet, per night. Sorry, no cats. Food and water bowls are available. Located 3 minutes from the city centre.",
     "address": "Oude Morsstraat 56, 2312 BJ Leiden",
-    "neighborhood": "Morspoort / city centre"
+    "neighborhood": "Morspoort / city centre",
+    "slug": "boutique-hotel-doude-morsch",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €7 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "leiden-4",
@@ -27595,7 +27703,13 @@
     "petFee": 15,
     "petPolicy": "City Hotel Nieuw Minerva welcomes up to two small to medium dogs per room on request, in a limited number of pet-friendly rooms, for a surcharge. Pitbulls and Bull Terriers are not allowed.",
     "address": "Boommarkt 23, 2311 EA Leiden",
-    "neighborhood": "City centre / Rapenburg canal"
+    "neighborhood": "City centre / Rapenburg canal",
+    "slug": "city-hotel-nieuw-minerva",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "leiden-5",
@@ -27616,7 +27730,13 @@
     "petFee": 25,
     "petPolicy": "ibis Leiden Centre welcomes up to two pets per room. Dogs and cats are accepted for a fee from €25 per pet, per night. Located on Stationsplein, directly opposite Leiden Centraal station.",
     "address": "Stationsplein 240-242, 2312 AR Leiden",
-    "neighborhood": "Leiden Centraal"
+    "neighborhood": "Leiden Centraal",
+    "slug": "ibis-leiden-centre",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "delft-1",
@@ -27637,7 +27757,13 @@
     "petFee": 18,
     "petPolicy": "Grand Canal Boutique Hotel Delft allows up to two pets of any size in designated rooms for an additional fee of €18 per pet, per night, plus a refundable deposit of €50 per stay. Both dogs and cats are welcome and food and water bowls are provided.",
     "address": "Breestraat 1, 2611 RD Delft",
-    "neighborhood": "City centre / near Central Station"
+    "neighborhood": "City centre / near Central Station",
+    "slug": "grand-canal-boutique-hotel-delft",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €18 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "delft-2",
@@ -27657,7 +27783,13 @@
     "petFee": 20,
     "petPolicy": "Best Western Plus Grand Winston welcomes up to two dogs of any size for an additional fee of €20 per pet, per night. Sorry, no cats, and pets cannot be left unattended in rooms. Food and water bowls are provided. Delft city centre is easily reached within a few minutes.",
     "address": "Generaal Eisenhowerplein 1, 2288 AE Rijswijk",
-    "neighborhood": "Rijswijk (between Delft and The Hague)"
+    "neighborhood": "Rijswijk (between Delft and The Hague)",
+    "slug": "best-western-plus-grand-winston",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "delft-3",
@@ -27677,7 +27809,13 @@
     "petFee": 0,
     "petPolicy": "Achterom B & B welcomes dogs on request, with no additional pet fee charged at the time of writing. Please notify the host when booking. Located within a 10-minute walk of Oostpoort and a few minutes from the historic centre.",
     "address": "Achterom 80, 2611 PL Delft",
-    "neighborhood": "City centre / Oostpoort"
+    "neighborhood": "City centre / Oostpoort",
+    "slug": "achterom-b-b",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "delft-4",
@@ -27697,7 +27835,13 @@
     "petFee": 0,
     "petPolicy": "The City Nest Apartment 38A welcomes pets at no additional fee. The one-bedroom apartment sleeps three guests and has a fully equipped kitchen, free WiFi and on-site parking. Close to Delft University of Technology.",
     "address": "Voorhof, 2624 Delft",
-    "neighborhood": "Voorhof / near TU Delft"
+    "neighborhood": "Voorhof / near TU Delft",
+    "slug": "the-city-nest-apartment-38a",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Family-friendly"
+    ]
   },
   {
     "id": "delft-5",
@@ -27717,7 +27861,13 @@
     "petFee": 0,
     "petPolicy": "Charming Retreat Apartment City 20Alpha is listed as pet-friendly on Booking.com with no posted pet fee. Located next to Delft city centre with easy access to canals and historic sights.",
     "address": "Centrum, 2611 Delft",
-    "neighborhood": "City centre"
+    "neighborhood": "City centre",
+    "slug": "charming-retreat-apartment-city-20alpha",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "locarno-1",
@@ -27737,7 +27887,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Lago Maggiore - Welcome! warmly welcomes dogs for an additional fee of around CHF 20 per pet, per night. Rooms are prepared with dog bowls and a small package of food. The hotel is located on the lake promenade with easy access to dog-friendly walks along Lake Maggiore.",
     "address": "Viale Verbano 29, 6600 Locarno",
-    "neighborhood": "Lake promenade"
+    "neighborhood": "Lake promenade",
+    "slug": "hotel-lago-maggiore-welcome",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "locarno-2",
@@ -27756,7 +27912,13 @@
     "petFee": 35,
     "petPolicy": "Villa Orselina - Small Luxury Hotel welcomes small to medium dogs for an additional fee of around CHF 35 per pet, per night. Pets are not allowed in the spa, pool or restaurant areas. Please notify the hotel at the time of booking.",
     "address": "Via Santuario 10, 6644 Orselina",
-    "neighborhood": "Orselina hillside"
+    "neighborhood": "Orselina hillside",
+    "slug": "villa-orselina-small-luxury-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €35 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "locarno-3",
@@ -27775,7 +27937,13 @@
     "petFee": 25,
     "petPolicy": "Hotel Belvedere Locarno welcomes pets for an additional charge of approximately CHF 25 per pet, per night. Dogs are not permitted in the restaurant or wellness areas. The hotel is set on a hillside with views over Lake Maggiore.",
     "address": "Via ai Monti della Trinita 44, 6600 Locarno",
-    "neighborhood": "Hillside above old town"
+    "neighborhood": "Hillside above old town",
+    "slug": "hotel-belvedere-locarno",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "locarno-4",
@@ -27795,7 +27963,13 @@
     "petFee": 15,
     "petPolicy": "Hotel Garni Du Lac accepts pets on request for a small extra charge per night. Located directly on Piazza Grande and the lakefront, with easy access to lakeside walking paths.",
     "address": "Piazza Grande, 6600 Locarno",
-    "neighborhood": "Piazza Grande"
+    "neighborhood": "Piazza Grande",
+    "slug": "hotel-garni-du-lac",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "locarno-5",
@@ -27815,7 +27989,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Geranio au Lac welcomes dogs of any size for an additional fee of around CHF 20 per pet, per night. The family-run hotel sits on the lake promenade with direct access to dog-friendly walks along Lake Maggiore.",
     "address": "Viale Verbano 13, 6600 Locarno",
-    "neighborhood": "Lake promenade"
+    "neighborhood": "Lake promenade",
+    "slug": "hotel-geranio-au-lac",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "grindelwald-1",
@@ -27836,7 +28016,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Gletscherblick is very pet-friendly and welcomes both dogs and cats for an additional charge of around CHF 20 per pet, per night. Guests can spend nights with their pets and enjoy alpine walks directly from the hotel.",
     "address": "Endweg 7, 3818 Grindelwald",
-    "neighborhood": "Grindelwald village"
+    "neighborhood": "Grindelwald village",
+    "slug": "hotel-gletscherblick",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "grindelwald-2",
@@ -27856,7 +28042,13 @@
     "petFee": 30,
     "petPolicy": "Bergwelt Grindelwald - Alpine Design Resort accepts pets in designated rooms for an additional fee of around CHF 30 per pet, per night. Pets are not allowed in the wellness area, indoor pool or restaurant. Please notify the hotel at booking.",
     "address": "Dorfstrasse 161, 3818 Grindelwald",
-    "neighborhood": "Near Grindelwald Terminal"
+    "neighborhood": "Near Grindelwald Terminal",
+    "slug": "bergwelt-grindelwald-alpine-design-resort",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €30 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "grindelwald-3",
@@ -27876,7 +28068,13 @@
     "petFee": 25,
     "petPolicy": "Hotel Eiger Grindelwald welcomes dogs in selected rooms for an additional fee of around CHF 25 per pet, per night. Dogs are not allowed in the wellness area or restaurant. Centrally located opposite the train station with Eiger views.",
     "address": "Dorfstrasse 133, 3818 Grindelwald",
-    "neighborhood": "Village centre"
+    "neighborhood": "Village centre",
+    "slug": "hotel-eiger-grindelwald",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "grindelwald-4",
@@ -27896,7 +28094,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Kreuz & Post Grindelwald welcomes dogs for an additional fee of around CHF 20 per pet, per night. The traditional alpine hotel sits in the centre of Grindelwald with easy access to mountain trails.",
     "address": "Dorfstrasse 85, 3818 Grindelwald",
-    "neighborhood": "Village centre"
+    "neighborhood": "Village centre",
+    "slug": "hotel-kreuz-post-grindelwald",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "grindelwald-5",
@@ -27916,7 +28120,13 @@
     "petFee": 15,
     "petPolicy": "Hotel Spinne accepts dogs for a small extra charge of around CHF 15 per pet, per night. The family-run hotel is in the centre of Grindelwald with direct access to Jungfrau region hiking trails.",
     "address": "Dorfstrasse 136, 3818 Grindelwald",
-    "neighborhood": "Village centre"
+    "neighborhood": "Village centre",
+    "slug": "hotel-spinne",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "st-moritz-1",
@@ -27936,7 +28146,13 @@
     "petFee": 25,
     "petPolicy": "Hotel Steffani welcomes dogs for an additional fee of around CHF 25 per pet, per night. The centrally located hotel offers a friendly atmosphere and is steps from St. Moritz village centre and the lake.",
     "address": "Via Traunter Plazzas 6, 7500 St. Moritz",
-    "neighborhood": "St. Moritz Dorf"
+    "neighborhood": "St. Moritz Dorf",
+    "slug": "hotel-steffani",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "st-moritz-2",
@@ -27955,7 +28171,13 @@
     "petFee": 60,
     "petPolicy": "Badrutt's Palace Hotel accepts dogs in designated rooms for an additional fee of approximately CHF 60 per pet, per night. Pets are not allowed in the restaurants, spa or pool areas. Please notify the hotel at booking and provide pet details.",
     "address": "Via Serlas 27, 7500 St. Moritz",
-    "neighborhood": "St. Moritz Dorf"
+    "neighborhood": "St. Moritz Dorf",
+    "slug": "badrutts-palace-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €60 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "st-moritz-3",
@@ -27975,7 +28197,13 @@
     "petFee": 50,
     "petPolicy": "Kulm Hotel St. Moritz welcomes dogs in selected rooms for an additional fee of approximately CHF 50 per pet, per night. Pets are not permitted in restaurants or wellness areas. The hotel sits in a private park overlooking Lake St. Moritz.",
     "address": "Via Veglia 18, 7500 St. Moritz",
-    "neighborhood": "St. Moritz Dorf"
+    "neighborhood": "St. Moritz Dorf",
+    "slug": "kulm-hotel-st-moritz",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €50 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "st-moritz-4",
@@ -27995,7 +28223,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Hauser welcomes dogs for an additional fee of around CHF 20 per pet, per night. The family-run hotel is centrally located in St. Moritz Dorf and is well-known for its confectionery and patisserie.",
     "address": "Via Traunter Plazzas 7, 7500 St. Moritz",
-    "neighborhood": "St. Moritz Dorf"
+    "neighborhood": "St. Moritz Dorf",
+    "slug": "hotel-hauser",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "st-moritz-5",
@@ -28014,7 +28248,13 @@
     "petFee": 25,
     "petPolicy": "Hotel Reine Victoria welcomes dogs for an additional fee of around CHF 25 per pet, per night. The historic Art Nouveau hotel is located in St. Moritz Bad with easy access to forest walks and the lakeside.",
     "address": "Via Rosatsch 18, 7500 St. Moritz",
-    "neighborhood": "St. Moritz Bad"
+    "neighborhood": "St. Moritz Bad",
+    "slug": "hotel-reine-victoria",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "montreux-1",
@@ -28034,7 +28274,13 @@
     "petFee": 50,
     "petPolicy": "Fairmont Le Montreux Palace welcomes dogs up to 20 kg for an additional fee of approximately CHF 50 per pet, per night. Pets receive a welcome amenity. Dogs are not allowed in the spa, pool or restaurants.",
     "address": "Avenue Claude-Nobs 2, 1820 Montreux",
-    "neighborhood": "Lakefront"
+    "neighborhood": "Lakefront",
+    "slug": "fairmont-le-montreux-palace",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €50 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "montreux-2",
@@ -28053,7 +28299,13 @@
     "petFee": 35,
     "petPolicy": "Royal Plaza Montreux welcomes dogs in designated rooms for an additional fee of around CHF 35 per pet, per night. Pets are not allowed in the spa, indoor pool or restaurant. The hotel sits directly on the Lake Geneva promenade.",
     "address": "Grand Rue 97, 1820 Montreux",
-    "neighborhood": "Lakefront"
+    "neighborhood": "Lakefront",
+    "slug": "royal-plaza-montreux",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €35 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "montreux-3",
@@ -28072,7 +28324,13 @@
     "petFee": 25,
     "petPolicy": "Eurotel Montreux welcomes dogs for an additional fee of around CHF 25 per pet, per night. Located on the Lake Geneva promenade with direct access to dog-friendly walks along the famous flower-lined lakefront.",
     "address": "Grand-Rue 81, 1820 Montreux",
-    "neighborhood": "Lakefront"
+    "neighborhood": "Lakefront",
+    "slug": "eurotel-montreux",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "montreux-4",
@@ -28091,7 +28349,13 @@
     "petFee": 20,
     "petPolicy": "Tralala Hotel Montreux welcomes pets for an additional charge of approximately CHF 20 per pet, per night. The music-themed boutique hotel is in the old town with easy access to lakeside paths.",
     "address": "Rue du Temple 2, 1820 Montreux",
-    "neighborhood": "Old town"
+    "neighborhood": "Old town",
+    "slug": "tralala-hotel-montreux",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "montreux-5",
@@ -28111,7 +28375,13 @@
     "petFee": 15,
     "petPolicy": "Hotel Helvetie Montreux accepts pets for a small extra charge of around CHF 15 per pet, per night. The historic hotel is centrally located between the train station and the lakefront promenade.",
     "address": "Avenue du Casino 32, 1820 Montreux",
-    "neighborhood": "Town centre"
+    "neighborhood": "Town centre",
+    "slug": "hotel-helvetie-montreux",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "interlaken-1",
@@ -28131,7 +28401,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Interlaken welcomes pets with no extra charges. The carefully renovated 4-star hotel dates back to the 14th century and is a 5-minute walk from the Congress Centre and Eastern Train Station, with easy access to lakeside walks.",
     "address": "Hoheweg 74, 3800 Interlaken",
-    "neighborhood": "Town centre"
+    "neighborhood": "Town centre",
+    "slug": "hotel-interlaken",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Family-friendly"
+    ]
   },
   {
     "id": "interlaken-2",
@@ -28151,7 +28427,13 @@
     "petFee": 60,
     "petPolicy": "Victoria-Jungfrau Grand Hotel & Spa accepts dogs in designated rooms for an additional fee of approximately CHF 60 per pet, per night. Pets are not allowed in the spa, pool or restaurants. The grand hotel faces the Hohematte with Jungfrau views.",
     "address": "Hoheweg 41, 3800 Interlaken",
-    "neighborhood": "Hoheweg / Hohematte"
+    "neighborhood": "Hoheweg / Hohematte",
+    "slug": "victoria-jungfrau-grand-hotel-spa",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €60 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "interlaken-3",
@@ -28170,7 +28452,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Krebs welcomes dogs for an additional fee of around CHF 20 per pet, per night. The family-run hotel is located on the main Bahnhofstrasse, close to the Western Train Station and the Hohematte.",
     "address": "Bahnhofstrasse 4, 3800 Interlaken",
-    "neighborhood": "Near Interlaken West station"
+    "neighborhood": "Near Interlaken West station",
+    "slug": "hotel-krebs",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "interlaken-4",
@@ -28190,7 +28478,13 @@
     "petFee": 25,
     "petPolicy": "Alpina Boutique Hotel Ringgenberg welcomes dogs for an additional fee of around CHF 25 per pet, per night. The adults-only boutique hotel sits above Lake Brienz with breathtaking views and direct access to lakeside trails.",
     "address": "Hauptstrasse 17, 3852 Ringgenberg",
-    "neighborhood": "Ringgenberg above Lake Brienz"
+    "neighborhood": "Ringgenberg above Lake Brienz",
+    "slug": "alpina-boutique-hotel-ringgenberg",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "interlaken-5",
@@ -28210,7 +28504,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Beausite Interlaken welcomes dogs for an additional fee of around CHF 20 per pet, per night. The family-run hotel sits in a quiet location with garden, close to the Western Train Station and the Hohematte park.",
     "address": "Seestrasse 16, 3800 Interlaken",
-    "neighborhood": "Near Interlaken West station"
+    "neighborhood": "Near Interlaken West station",
+    "slug": "hotel-beausite-interlaken",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "alcudia-1",
@@ -28230,7 +28530,13 @@
     "petFee": 25,
     "petPolicy": "Iberostar Waves Ciudad Blanca welcomes one pet per room weighing up to 10 kg, on request and subject to a fee. A welcome kit including bed, bowls and a toy is provided. Pets are not allowed in pool, restaurant or spa areas. Please notify the property at booking.",
     "address": "Avenida del Mar 8, 07410 Port d'Alcudia",
-    "neighborhood": "Port d'Alcudia beachfront"
+    "neighborhood": "Port d'Alcudia beachfront",
+    "slug": "iberostar-waves-ciudad-blanca",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "alcudia-2",
@@ -28250,7 +28556,13 @@
     "petFee": 20,
     "petPolicy": "JS Sol de Alcudia welcomes dogs (no cats) up to a moderate weight for an additional fee per pet, per night. Dogs are not permitted in pool areas, restaurants or the buffet. The hotel is a short walk from Playa de Muro beach.",
     "address": "Carrer de l'Almirall Moreno 5, 07410 Port d'Alcudia",
-    "neighborhood": "Playa de Muro"
+    "neighborhood": "Playa de Muro",
+    "slug": "js-sol-de-alcudia",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "alcudia-3",
@@ -28270,7 +28582,13 @@
     "petFee": 30,
     "petPolicy": "INNSiDE by Meliá Alcudia accepts up to two dogs per room as part of the brand's dog-friendly programme, subject to a fee per pet, per stay. Dogs are welcome in designated rooms and common areas (excluding pool and restaurant). Please notify the property in advance.",
     "address": "Avenida Pere Mas i Reus 6, 07400 Port d'Alcudia",
-    "neighborhood": "Port d'Alcudia"
+    "neighborhood": "Port d'Alcudia",
+    "slug": "innside-by-melia-alcudia",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €30 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "alcudia-4",
@@ -28290,7 +28608,13 @@
     "petFee": 15,
     "petPolicy": "Hoposa Hotel Uyal accepts small dogs on request for an additional fee per night. Pets are not allowed in the pool, restaurant or shared lounge areas. The hotel faces the Pollensa bay, close to Alcudia old town.",
     "address": "Passeig de Londres 63, 07400 Port de Pollensa (Alcudia bay)",
-    "neighborhood": "Pollensa bay"
+    "neighborhood": "Pollensa bay",
+    "slug": "hoposa-hotel-apartments-uyal",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "alcudia-5",
@@ -28310,7 +28634,13 @@
     "petFee": 10,
     "petPolicy": "Aparthotel Boccaccio allows pets on request for a small additional fee per night. Dogs must be kept on a leash in common areas and are not permitted in the pool zone. Please contact the property in advance to confirm availability of a pet-friendly apartment.",
     "address": "Carrer del Tucà 1, 07410 Port d'Alcudia",
-    "neighborhood": "Port d'Alcudia"
+    "neighborhood": "Port d'Alcudia",
+    "slug": "aparthotel-boccaccio",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €10 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "valldemossa-1",
@@ -28330,7 +28660,13 @@
     "petFee": 30,
     "petPolicy": "Hotel Sa Vall welcomes dogs of any size for an additional fee of €30 per pet, per night. This historic manor house features an outdoor swimming pool and large garden where dogs can roam on leash. Please inform the property in advance.",
     "address": "Carrer de Sa Vinya Vella s/n, 07170 Valldemossa",
-    "neighborhood": "Valldemossa village"
+    "neighborhood": "Valldemossa village",
+    "slug": "hotel-sa-vall-valldemossa",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €30 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "valldemossa-2",
@@ -28350,7 +28686,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Mirabó de Valldemossa welcomes dogs of any size at no additional fee. Pets must be supervised at all times and are not allowed in the pool area. The boutique property sits above the village with panoramic views of the Tramuntana range.",
     "address": "Camí Cala Murta s/n, 07170 Valldemossa",
-    "neighborhood": "Above Valldemossa"
+    "neighborhood": "Above Valldemossa",
+    "slug": "hotel-mirabo-de-valldemossa",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "valldemossa-3",
@@ -28369,7 +28711,13 @@
     "petFee": 20,
     "petPolicy": "Es Petit Hotel de Valldemossa accepts small to medium dogs on request for an additional fee per night. Pets are not allowed in the breakfast room. The small boutique stay is in the heart of Valldemossa village near the Real Cartuja.",
     "address": "Carrer Uetam 1, 07170 Valldemossa",
-    "neighborhood": "Valldemossa centre"
+    "neighborhood": "Valldemossa centre",
+    "slug": "es-petit-hotel-de-valldemossa",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "valldemossa-4",
@@ -28389,7 +28737,13 @@
     "petFee": 50,
     "petPolicy": "Valldemossa Hotel welcomes dogs of any size in designated rooms for an additional fee per stay. A pet bed and bowls are provided. Pets are not permitted in the restaurant, spa or pool areas. Please notify the property at booking.",
     "address": "Ctra. Vieja de Valldemossa s/n, 07170 Valldemossa",
-    "neighborhood": "Hilltop overlooking village"
+    "neighborhood": "Hilltop overlooking village",
+    "slug": "valldemossa-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €50 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "valldemossa-5",
@@ -28409,7 +28763,13 @@
     "petFee": 0,
     "petPolicy": "Hostal Ca'n Mario welcomes small dogs at no additional fee, on request. Pets must be kept on a leash in common areas and are not permitted in the breakfast room. The family-run guesthouse is in the centre of Valldemossa village.",
     "address": "Carrer Uetam 8, 07170 Valldemossa",
-    "neighborhood": "Valldemossa centre"
+    "neighborhood": "Valldemossa centre",
+    "slug": "hostal-can-mario",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "2-star comfort"
+    ]
   },
   {
     "id": "soller-1",
@@ -28429,7 +28789,13 @@
     "petFee": 30,
     "petPolicy": "Gran Hotel Sóller welcomes small dogs (up to 10 kg) on request for an additional fee per night. Pets are not permitted in the restaurant, spa or pool areas. The 5-star property is set in a restored 19th-century building in the centre of Sóller.",
     "address": "Carrer de Romaguera 18, 07100 Sóller",
-    "neighborhood": "Sóller town centre"
+    "neighborhood": "Sóller town centre",
+    "slug": "gran-hotel-soller",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €30 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "soller-2",
@@ -28449,7 +28815,13 @@
     "petFee": 25,
     "petPolicy": "Ca'n Quatre, a converted Majorcan farmhouse, welcomes dogs of any size for an additional fee per pet, per night. Pets can roam the gardens on leash but are not allowed in the pool or breakfast areas. Please notify the owners in advance.",
     "address": "Camí de Son Sales s/n, 07100 Sóller",
-    "neighborhood": "Sóller valley"
+    "neighborhood": "Sóller valley",
+    "slug": "can-quatre",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "soller-3",
@@ -28468,7 +28840,13 @@
     "petFee": 20,
     "petPolicy": "Ca's Curial accepts small and medium dogs on request for an additional fee per night. Pets are not allowed on the terraced pool deck or in the breakfast room. The English-style boutique sits in the Tramuntana foothills, ten minutes' walk from Sóller square.",
     "address": "Camí des Murterar 11, 07100 Sóller",
-    "neighborhood": "Outskirts of Sóller"
+    "neighborhood": "Outskirts of Sóller",
+    "slug": "cas-curial-boutique-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "soller-4",
@@ -28488,7 +28866,13 @@
     "petFee": 40,
     "petPolicy": "Hotel Salvia welcomes small dogs in designated rooms for an additional fee per pet, per stay. Pets must be supervised at all times and are not allowed in the pool, restaurant or wellness areas. Please request a pet-friendly room at booking.",
     "address": "Carrer de la Palma 18, 07100 Sóller",
-    "neighborhood": "Sóller centre"
+    "neighborhood": "Sóller centre",
+    "slug": "hotel-salvia",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €40 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "soller-5",
@@ -28508,7 +28892,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Boutique Minister welcomes small to medium dogs for an additional fee per night. Pets are not allowed in the pool or restaurant. The hotel faces Port de Sóller bay, a short tram ride from Sóller town.",
     "address": "Passeig de la Platja 5, 07108 Port de Sóller",
-    "neighborhood": "Port de Sóller seafront"
+    "neighborhood": "Port de Sóller seafront",
+    "slug": "hotel-boutique-minister",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "ciutadella-1",
@@ -28528,7 +28918,13 @@
     "petFee": 25,
     "petPolicy": "Hotel Tres Sants accepts small dogs on request for an additional fee per night. Pets are not permitted in the rooftop terrace, breakfast room or library. The boutique property sits in the historic centre of Ciutadella old town.",
     "address": "Carrer Sant Cristofol 2, 07760 Ciutadella de Menorca",
-    "neighborhood": "Old town"
+    "neighborhood": "Old town",
+    "slug": "hotel-tres-sants",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "ciutadella-2",
@@ -28548,7 +28944,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Rural Sant Ignasi welcomes dogs up to 15 kg for an additional fee per night. Pets can roam the surrounding farmland on leash but are not allowed in the pool, restaurant or breakfast area. The country house lies 3 km from Cala Morell.",
     "address": "Ctra. Cala Morell s/n, 07760 Ciutadella de Menorca",
-    "neighborhood": "Rural Ciutadella"
+    "neighborhood": "Rural Ciutadella",
+    "slug": "hotel-rural-sant-ignasi",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "ciutadella-3",
@@ -28568,7 +28970,13 @@
     "petFee": 15,
     "petPolicy": "Hotel Morvedra Nou accepts small and medium dogs for an additional fee per pet, per night. Pets are welcome in the gardens on leash but not in the pool or dining areas. The 17th-century country house sits 5 km from Ciutadella.",
     "address": "Camí de Sant Joan de Missa Km 7, 07760 Ciutadella de Menorca",
-    "neighborhood": "Rural Ciutadella"
+    "neighborhood": "Rural Ciutadella",
+    "slug": "hotel-morvedra-nou",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "ciutadella-4",
@@ -28588,7 +28996,13 @@
     "petFee": 30,
     "petPolicy": "Melia Cala Galdana welcomes one dog per room up to 10 kg in designated rooms, for an additional fee per pet, per stay. A pet welcome kit is provided. Dogs are not allowed in pool, restaurant or buffet areas. The hotel overlooks Cala Galdana beach.",
     "address": "Urbanización Serpentona s/n, 07750 Cala Galdana (Ciutadella)",
-    "neighborhood": "Cala Galdana"
+    "neighborhood": "Cala Galdana",
+    "slug": "melia-cala-galdana",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €30 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "ciutadella-5",
@@ -28608,7 +29022,13 @@
     "petFee": 7,
     "petPolicy": "Hotel Bahia accepts dogs of any size for €7 per pet, per night. Pets must be kept on a leash in common areas and are not permitted in the pool or restaurant. The hotel is in Cala Santandria, near the beach, with a garden and shared lounge.",
     "address": "Carrer Sant Antoni Maria Claret s/n, 07769 Cala Santandria (Ciutadella)",
-    "neighborhood": "Cala Santandria"
+    "neighborhood": "Cala Santandria",
+    "slug": "hotel-bahia-ciutadella",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €7 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "mahon-1",
@@ -28628,7 +29048,13 @@
     "petFee": 25,
     "petPolicy": "Hotel Hevresac welcomes small dogs on request for an additional fee per night. Pets are not allowed in the breakfast room or pool deck. The certified Biosphere Reserve boutique sits in Mahón's historic centre, six minutes' walk from the port.",
     "address": "Carrer de S'Arravaleta 14, 07703 Mahón",
-    "neighborhood": "Mahón historic centre"
+    "neighborhood": "Mahón historic centre",
+    "slug": "hotel-hevresac-singular-small",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "mahon-2",
@@ -28647,7 +29073,13 @@
     "petFee": 20,
     "petPolicy": "Can Alberti 1740 accepts small dogs on request for an additional fee per night. Pets are not allowed in the breakfast room or pool patio. The elegant 1740 townhouse is in central Mahón, 200 m from the harbour.",
     "address": "Carrer Isabel II 9, 07701 Mahón",
-    "neighborhood": "Central Mahón"
+    "neighborhood": "Central Mahón",
+    "slug": "can-alberti-1740-boutique-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "mahon-3",
@@ -28667,7 +29099,13 @@
     "petFee": 20,
     "petPolicy": "Catalonia Mirador des Port welcomes dogs and cats up to 20 kg for an additional fee per pet, per night. Pets are not allowed in the pool area, restaurant or spa. The hotel overlooks Mahón harbour from a cliff-top location.",
     "address": "Carrer Dalt Vilanova 1, 07701 Mahón",
-    "neighborhood": "Above Mahón port"
+    "neighborhood": "Above Mahón port",
+    "slug": "catalonia-mirador-des-port",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "mahon-4",
@@ -28686,7 +29124,13 @@
     "petFee": 15,
     "petPolicy": "Hotel San Miguel welcomes small dogs for an additional fee per pet, per night. Pets must be kept on a leash and are not allowed in the breakfast room. The hotel is an 8-minute walk from Mahon Port.",
     "address": "Carrer de Sant Miquel 1, 07701 Mahón",
-    "neighborhood": "Central Mahón"
+    "neighborhood": "Central Mahón",
+    "slug": "hotel-san-miguel-menorca",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "mahon-5",
@@ -28705,7 +29149,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Port Mahon accepts small dogs on request for an additional fee per night. Pets are not allowed in the pool area, restaurant or spa. The classic property overlooks Mahón harbour with panoramic views.",
     "address": "Avenida Fort de l'Eau 13, 07701 Mahón",
-    "neighborhood": "Mahón port"
+    "neighborhood": "Mahón port",
+    "slug": "hotel-port-mahon",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "sant-josep-1",
@@ -28725,7 +29175,13 @@
     "petFee": 70,
     "petPolicy": "7Pines Resort Ibiza welcomes well-behaved dogs up to 25 kg for a daily fee of €70 per pet. Each suite is equipped with a dog bed, bowls, waste bags, a toy and a special pet menu. Dogs must be kept on a leash throughout the 56,000 m² grounds and are not permitted in pools or the spa.",
     "address": "Avenida Cala Tarida s/n, 07830 Sant Josep de sa Talaia",
-    "neighborhood": "Cala Codolar (above Cala Conta)"
+    "neighborhood": "Cala Codolar (above Cala Conta)",
+    "slug": "7pines-resort-ibiza-part-of-destination-by-hyatt",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €70 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "sant-josep-2",
@@ -28746,7 +29202,13 @@
     "petFee": 85,
     "petPolicy": "Hard Rock Hotel Ibiza joins the brand's Unleashed programme: up to two dogs per room weighing up to 10 kg each, with a one-time fee of €100 plus €85 per night. Pets receive sWAG bags, memory-foam pet beds and a portion of the fee is donated to local animal shelters.",
     "address": "Carretera de Platja d'en Bossa s/n, 07817 Sant Jordi de ses Salines",
-    "neighborhood": "Platja d'en Bossa"
+    "neighborhood": "Platja d'en Bossa",
+    "slug": "hard-rock-hotel-ibiza",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €85 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "sant-josep-3",
@@ -28767,7 +29229,13 @@
     "petFee": 25,
     "petPolicy": "Petunia Ibiza (Adults Only) welcomes one small dog per room for €25 per pet, per night. Food and water bowls are provided. The boutique hotel sits above Cala Vadella with sea views; pets are not allowed in the pool or restaurant.",
     "address": "Carrer Pequeñas Baleares 9, 07830 Cala Vadella, Sant Josep de sa Talaia",
-    "neighborhood": "Cala Vadella"
+    "neighborhood": "Cala Vadella",
+    "slug": "petunia-ibiza-a-beaumier-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "sant-josep-4",
@@ -28787,7 +29255,13 @@
     "petFee": 32,
     "petPolicy": "ENDLSS Beach & Disco Hotel Ibiza accepts dogs and cats of any size (no exotic pets) for a fee of €32 per pet, per night. Food and water bowls are provided in the room. The hotel is steps from Cala de Bou Beach in San Antonio Bay.",
     "address": "Carrer del Pintor Pere Torres s/n, 07820 Cala de Bou, Sant Josep de sa Talaia",
-    "neighborhood": "Cala de Bou (San Antonio Bay)"
+    "neighborhood": "Cala de Bou (San Antonio Bay)",
+    "slug": "endlss-beach-disco-hotel-ibiza-adults-only",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €32 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "sant-josep-5",
@@ -28807,7 +29281,13 @@
     "petFee": 10,
     "petPolicy": "Boutique Hostal Salinas welcomes one dog per room with no per-night fee, only a €10 check-out cleaning supplement. Guests must bring their own pet bed, bowls and supplies. The hostal sits 300 m from Las Salinas Beach inside the Ses Salines Natural Park.",
     "address": "Sant Francesc de s'Estany s/n, 07817 Sant Josep de sa Talaia",
-    "neighborhood": "Ses Salines"
+    "neighborhood": "Ses Salines",
+    "slug": "boutique-hostal-la-curandera-de-salinas",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €10 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "sant-antoni-1",
@@ -28828,7 +29308,13 @@
     "petFee": 50,
     "petPolicy": "TRS Ibiza Hotel (Adults Only, Palladium group) welcomes dogs up to 10 kg through its pet-friendly programme: a one-time fee of €75 plus €50 per night per room. The hotel has direct access to Cala Gració and Cala Gracioneta.",
     "address": "Carrer des Molí 56, 07820 Sant Antoni de Portmany",
-    "neighborhood": "Cala Gració"
+    "neighborhood": "Cala Gració",
+    "slug": "trs-ibiza-hotel-adults-only",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €50 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "sant-antoni-2",
@@ -28848,7 +29334,13 @@
     "petFee": 25,
     "petPolicy": "The Purple Hotel (Adults Only) welcomes dogs of any size: €25 per pet for the first night and €15 per night thereafter, with a limit of 2 pets per room. A pet bed and food bowl are provided. Service animals are exempt from fees.",
     "address": "Carrer de Soledat 22, 07820 Sant Antoni de Portmany",
-    "neighborhood": "Sant Antoni centre"
+    "neighborhood": "Sant Antoni centre",
+    "slug": "the-purple-hotel-by-ibiza-feeling-adults-only",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "sant-antoni-3",
@@ -28868,7 +29360,13 @@
     "petFee": 30,
     "petPolicy": "Cubanito Ibiza Suites accepts pets on request for €30 per pet, per day. Guests are asked to send a message with the pet's weight after booking to confirm conditions. The Cuban-themed boutique hotel is a short walk from the Sant Antoni promenade.",
     "address": "Carrer de Vara de Rey 28, 07820 Sant Antoni de Portmany",
-    "neighborhood": "Sant Antoni centre"
+    "neighborhood": "Sant Antoni centre",
+    "slug": "cubanito-ibiza-suites",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €30 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "sant-antoni-4",
@@ -28888,7 +29386,13 @@
     "petFee": 15,
     "petPolicy": "Aparthotel Boutique Poniente Playa accepts pets in designated rooms for €15 per pet, per day plus a €100 refundable deposit per stay. Pet-friendly rooms must be requested in advance. Service animals are welcome at no charge.",
     "address": "Carrer de Cala de Bou 71, 07820 Sant Antoni de Portmany",
-    "neighborhood": "San Antonio Bay (Cala de Bou)"
+    "neighborhood": "San Antonio Bay (Cala de Bou)",
+    "slug": "aparthotel-boutique-poniente-playa",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "sant-antoni-5",
@@ -28907,7 +29411,13 @@
     "petFee": 15,
     "petPolicy": "Hostal Sunset Ibiza welcomes one dog per room up to 10 kg for €15 per pet, per night. Service animals are exempt from fees. The hostal sits in central Sant Antoni a short walk from the harbour and the Sunset Strip.",
     "address": "Carrer del Vapor Mallorca 7, 07820 Sant Antoni de Portmany",
-    "neighborhood": "Sant Antoni harbour"
+    "neighborhood": "Sant Antoni harbour",
+    "slug": "hostal-sunset-ibiza",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "2-star comfort"
+    ]
   },
   {
     "id": "santa-eulalia-1",
@@ -28927,7 +29437,13 @@
     "petFee": 40,
     "petPolicy": "Aguas de Ibiza Grand Luxe Hotel (SLH / Curio by Hilton) welcomes up to two dogs or cats per room weighing up to 9 kg, for €40 per pet, per night. The 5-star spa hotel overlooks Santa Eulària marina and is part of The Leading Hotels of the World.",
     "address": "Carrer de Salvador Camacho 9, 07840 Santa Eulària des Riu",
-    "neighborhood": "Santa Eulalia marina"
+    "neighborhood": "Santa Eulalia marina",
+    "slug": "aguas-de-ibiza-grand-luxe-hotel-santa-eulalia",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €40 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "santa-eulalia-2",
@@ -28947,7 +29463,13 @@
     "petFee": 80,
     "petPolicy": "BLESS Hotel Ibiza accepts up to two dogs under 10 kg in designated rooms for €80 per pet, per night plus a one-time €60 cleaning fee. Cats are not allowed. Food and water bowls are provided. The hotel sits beachfront in Es Canar.",
     "address": "Carrer Cala Nova s/n, 07840 Es Canar, Santa Eulària des Riu",
-    "neighborhood": "Es Canar / Cala Nova"
+    "neighborhood": "Es Canar / Cala Nova",
+    "slug": "bless-hotel-ibiza-the-leading-hotels-of-the-world",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €80 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "santa-eulalia-3",
@@ -28968,7 +29490,13 @@
     "petFee": 50,
     "petPolicy": "ME Ibiza by Meliá allows one dog per room up to 6 kg for €50 per night, paid directly at the hotel. Cats are not accepted. The adults-only design hotel overlooks the Mediterranean at S'Argamassa, north of Santa Eulària.",
     "address": "Urbanización S'Argamassa s/n, 07840 Santa Eulària des Riu",
-    "neighborhood": "S'Argamassa"
+    "neighborhood": "S'Argamassa",
+    "slug": "me-ibiza",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €50 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "santa-eulalia-4",
@@ -28988,7 +29516,13 @@
     "petFee": 120,
     "petPolicy": "Hotel Riomar Ibiza (Marriott Tribute Portfolio) accepts one dog per room up to 30 kg in designated rooms for €120 per stay. Cats may be allowed on request. Food and water bowls are provided. The hotel sits on the Santa Eulària boardwalk.",
     "address": "Carrer Vara de Rey 1, 07840 Santa Eulària des Riu",
-    "neighborhood": "Santa Eulalia seafront"
+    "neighborhood": "Santa Eulalia seafront",
+    "slug": "hotel-riomar-ibiza-a-tribute-portfolio-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €120 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "santa-eulalia-5",
@@ -29008,7 +29542,13 @@
     "petFee": 40,
     "petPolicy": "Nativo Hotel Ibiza welcomes one dog or cat per room weighing up to 8 kg for €40 per pet, per day. A pet bed, food bowl and toy are provided. Vaccination/deworming documentation is required at check-in; pets must remain leashed in common areas and are not allowed at the pool, rooftop or restaurant.",
     "address": "Carrer del Calvari 18, 07840 Santa Eulària des Riu",
-    "neighborhood": "Santa Eulalia town"
+    "neighborhood": "Santa Eulalia town",
+    "slug": "nativo-hotel-ibiza",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €40 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "calpe-1",
@@ -29028,7 +29568,13 @@
     "petFee": 15,
     "petPolicy": "Hotel Bahía Calpe by Pierre & Vacances welcomes one dog per room up to 10 kg for €15 per pet, per night. A pet passport and anti-rabies certificate are required; category 1 and 2 dogs are not accepted. Pets are not allowed in restaurants or pool areas. The hotel sits 50 m from Calpe beach.",
     "address": "Avenida Valencia 24, 03710 Calpe",
-    "neighborhood": "Playa del Arenal-Bol"
+    "neighborhood": "Playa del Arenal-Bol",
+    "slug": "hotel-bahia-calpe-by-pierre-vacances",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "calpe-2",
@@ -29048,7 +29594,13 @@
     "petFee": 15,
     "petPolicy": "The Cookbook Gastro Boutique Hotel & Spa welcomes pets up to 10 kg on request for €15 per pet, per night payable at the hotel. Guests are asked to contact the property before arrival to confirm. The boutique features an indoor pool, spa lounge and Jacuzzi.",
     "address": "Urbanización Marisol Park 1A, 03710 Calpe",
-    "neighborhood": "Marisol Park"
+    "neighborhood": "Marisol Park",
+    "slug": "the-cookbook-gastro-boutique-hotel-spa",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "calpe-3",
@@ -29069,7 +29621,13 @@
     "petFee": 12,
     "petPolicy": "Hotel Apartamentos Pueblo Mar accepts pets without size limit for a one-off €12 cleaning supplement per pet, per stay. The aparthotel is in Calpe city centre, a 5-minute walk from Arenal-Bol Beach, with kitchenettes in every apartment.",
     "address": "Calle Maestro Serrano 2, 03710 Calpe",
-    "neighborhood": "Calpe centre"
+    "neighborhood": "Calpe centre",
+    "slug": "hotel-apartamentos-pueblo-mar",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €12 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "calpe-4",
@@ -29089,7 +29647,13 @@
     "petFee": 0,
     "petPolicy": "Villa Marisol Calpe welcomes pets on request at no additional fee. The private villa has a garden, free WiFi and parking, located a 17-minute walk from Arenal-Bol Beach and one mile from Cala del Morelló.",
     "address": "Urbanización Marisol Park 12, 03710 Calpe",
-    "neighborhood": "Marisol Park"
+    "neighborhood": "Marisol Park",
+    "slug": "villa-marisol-calpe",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Family-friendly"
+    ]
   },
   {
     "id": "calpe-5",
@@ -29109,7 +29673,13 @@
     "petFee": 30,
     "petPolicy": "Villa Mila 10 (Plusholidays) is a 5-bedroom villa sleeping up to 10 guests; pets up to 12 kg are welcome for a small supplement (around €30 per stay). The villa has a private pool and garden in residential Calpe.",
     "address": "Urbanización La Empedrola, 03710 Calpe",
-    "neighborhood": "La Empedrola"
+    "neighborhood": "La Empedrola",
+    "slug": "villa-mila-10-plusholidays",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €30 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "denia-1",
@@ -29128,7 +29698,13 @@
     "petFee": 10,
     "petPolicy": "Hotel MR Costa Blanca welcomes one dog (or cat) up to 10 kg in designated rooms for €10 per pet, per day. Guests are asked to notify the hotel in advance so the appropriate room can be prepared. The hotel is close to Les Marines beach.",
     "address": "Partida Madrigueres Sud 11, 03700 Dénia",
-    "neighborhood": "Les Marines"
+    "neighborhood": "Les Marines",
+    "slug": "hotel-mr-costa-blanca",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €10 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "denia-2",
@@ -29148,7 +29724,13 @@
     "petFee": 15,
     "petPolicy": "Hotel Buenavista Denia (Adults Only) welcomes pets of any size with no breed or weight restrictions for €15 per pet, per night. Up to 2 pets are allowed per room (with a building cap of 8 animals). The hotel sits in Dénia town centre.",
     "address": "Avenida d'Alacant 22, 03700 Dénia",
-    "neighborhood": "Dénia centre"
+    "neighborhood": "Dénia centre",
+    "slug": "hotel-buenavista-denia-adults-only",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "denia-3",
@@ -29167,7 +29749,13 @@
     "petFee": 15,
     "petPolicy": "Art Boutique Hotel Chamarel accepts up to two dogs (or cats) per room weighing up to 10 kg, for €15 per pet, per night. Pets cannot be left unattended and are not allowed in the breakfast area. The 19th-century mansion is set in a garden near Dénia old town.",
     "address": "Calle Cavite 22, 03700 Dénia",
-    "neighborhood": "Dénia old town"
+    "neighborhood": "Dénia old town",
+    "slug": "art-boutique-hotel-chamarel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "denia-4",
@@ -29187,7 +29775,13 @@
     "petFee": 15,
     "petPolicy": "Noguera Mar Hotel accepts small dogs on request for an additional fee (around €15 per pet, per night). The hotel sits at Punta del Estanyó on Dénia's seafront, 3 km from Sueño Jardín Botánico, with direct access to the Mediterranean.",
     "address": "Carretera Les Marines km 7, 03700 Dénia",
-    "neighborhood": "Les Marines (Punta del Estanyó)"
+    "neighborhood": "Les Marines (Punta del Estanyó)",
+    "slug": "noguera-mar-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "denia-5",
@@ -29206,7 +29800,13 @@
     "petFee": 0,
     "petPolicy": "Room Boutique 32 welcomes dogs of any size at no additional fee. Cats are also accepted. The guesthouse is set in Dénia old town, 11 minutes' walk from Dénia Castle and 0.8 miles from the bus station. Please confirm with the property when booking.",
     "address": "Calle Loreto 32, 03700 Dénia",
-    "neighborhood": "Dénia old town"
+    "neighborhood": "Dénia old town",
+    "slug": "room-boutique-32",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "piran-1",
@@ -29226,7 +29826,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Piran welcomes pets on request for an additional fee of EUR 20 per pet per night. Up to 2 dogs of any size allowed per room. Pet basket and bowls provided, and dogs may join owners at breakfast. Please confirm with the property when booking.",
     "address": "Stjenkova ulica 1, 6330 Piran",
-    "neighborhood": "Piran waterfront"
+    "neighborhood": "Piran waterfront",
+    "slug": "hotel-piran",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "piran-2",
@@ -29246,7 +29852,13 @@
     "petFee": 25,
     "petPolicy": "Art Hotel Tartini welcomes dogs for EUR 25 per night and other small pets (cats, rabbits) for EUR 15 per night. Bowls, pet pillow and treats provided. The hotel sits directly on Tartini Square in the historic centre. Please confirm with the property when booking.",
     "address": "Tartinijev trg 15, 6330 Piran",
-    "neighborhood": "Tartini Square"
+    "neighborhood": "Tartini Square",
+    "slug": "art-hotel-tartini",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "piran-3",
@@ -29266,7 +29878,13 @@
     "petFee": 20,
     "petPolicy": "Boutique Hotel Portorose welcomes both dogs and cats of any size in designated rooms for an additional fee of approximately EUR 20 per pet per night. Service animals stay free. Food and water bowls available. Please confirm with the property when booking.",
     "address": "Obala 8, 6320 Portoroz",
-    "neighborhood": "Portoroz seafront"
+    "neighborhood": "Portoroz seafront",
+    "slug": "boutique-hotel-portorose",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "piran-4",
@@ -29285,7 +29903,13 @@
     "petFee": 25,
     "petPolicy": "Hotel Histrion welcomes dogs for a surcharge of EUR 25 per day. A dog bed and bowl are provided during the stay. The hotel features an on-site water park, indoor and outdoor pools and a spa. Please confirm with the property when booking.",
     "address": "Obala 33, 6320 Portoroz",
-    "neighborhood": "Portoroz / St. Bernardin Resort"
+    "neighborhood": "Portoroz / St. Bernardin Resort",
+    "slug": "hotel-histrion",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "piran-5",
@@ -29304,7 +29928,13 @@
     "petFee": 0,
     "petPolicy": "Apartments Lavanda Fiesa accept pets on request, charges may apply. Beachfront property 2 minutes' walk from Fiesa Beach and 1 km from Tartini Square, ideal for travellers seeking a quiet base outside the Piran old town with private parking. Please confirm with the property when booking.",
     "address": "Fiesa 51A, 6330 Piran",
-    "neighborhood": "Fiesa Bay"
+    "neighborhood": "Fiesa Bay",
+    "slug": "apartments-lavanda-fiesa",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "hvar-1",
@@ -29323,7 +29953,13 @@
     "petFee": 0,
     "petPolicy": "Maslina Resort welcomes pets of any size on request, an additional fee applies (please confirm at booking). Luxury family-oriented resort in Maslinica Bay on the north side of Hvar island, reached via ferry from Split. Please confirm with the property when booking.",
     "address": "Uvala Maslinica 11, 21460 Stari Grad",
-    "neighborhood": "Maslinica Bay, Stari Grad"
+    "neighborhood": "Maslinica Bay, Stari Grad",
+    "slug": "maslina-resort",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "5-star comfort"
+    ]
   },
   {
     "id": "hvar-2",
@@ -29343,7 +29979,13 @@
     "petFee": 15,
     "petPolicy": "Heritage Hotel Park Hvar allows two pets of any size for EUR 15 per pet per night. Service animals stay free. The hotel features a garden, terrace, restaurant and bar, around 600 metres from Beach Bonj. Please confirm with the property when booking.",
     "address": "Bankete 11, 21450 Hvar",
-    "neighborhood": "Hvar town centre"
+    "neighborhood": "Hvar town centre",
+    "slug": "heritage-hotel-park-hvar",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "hvar-3",
@@ -29363,7 +30005,13 @@
     "petFee": 16,
     "petPolicy": "Hotel Villa Nora accepts dogs and cats for a pet fee (approximately EUR 16 per pet per night). Service animals stay free. The boutique hotel sits in the city centre, next to the main square and a 2-minute walk from the harbour and the bus station. Please confirm with the property when booking.",
     "address": "Ulica Petra Hektorovica 8, 21450 Hvar",
-    "neighborhood": "Hvar old town"
+    "neighborhood": "Hvar old town",
+    "slug": "hotel-villa-nora",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €16 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "hvar-4",
@@ -29382,7 +30030,13 @@
     "petFee": 40,
     "petPolicy": "Riva Marina Hvar allows pets in specific rooms only (request when booking). Pet fee EUR 40 per pet plus a refundable EUR 100 deposit per stay. The 4-star design hotel sits directly on the Hvar harbour. Please confirm with the property when booking.",
     "address": "Obala Riva 27, 21450 Hvar",
-    "neighborhood": "Hvar harbour"
+    "neighborhood": "Hvar harbour",
+    "slug": "riva-marina-hvar-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €40 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "hvar-5",
@@ -29403,7 +30057,13 @@
     "petFee": 40,
     "petPolicy": "Amfora Hvar Grand Beach Resort allows up to two pets weighing up to 30 kg for approximately EUR 40 per pet per night (formerly HRK 300). Dogs and cats welcome. Large pool complex with sea views, 10 minutes' walk from Hvar town. Please confirm with the property when booking.",
     "address": "Ulica biskupa Jurja Dubokovica 5, 21450 Hvar",
-    "neighborhood": "Hvar West (Bonj)"
+    "neighborhood": "Hvar West (Bonj)",
+    "slug": "amfora-hvar-grand-beach-resort",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €40 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "pula-1",
@@ -29422,7 +30082,13 @@
     "petFee": 0,
     "petPolicy": "Boutique Hotel Valsabbion welcomes pets, charges may apply (please confirm at booking). The boutique hotel sits directly above a small bay near Pula city centre with stunning Adriatic views, outdoor pool and spa. Please confirm with the property when booking.",
     "address": "Pjescana uvala IX/26, 52100 Pula",
-    "neighborhood": "Pjescana Uvala"
+    "neighborhood": "Pjescana Uvala",
+    "slug": "boutique-hotel-valsabbion",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "pula-2",
@@ -29441,7 +30107,13 @@
     "petFee": 10,
     "petPolicy": "Splendid Resort accepts pets for an additional fee of EUR 10 per pet per day. Beachfront resort on the Verudela peninsula about 4 km from Pula city centre, with pools and direct sea access. Please confirm with the property when booking.",
     "address": "Verudella 6B, 52100 Pula",
-    "neighborhood": "Verudela"
+    "neighborhood": "Verudela",
+    "slug": "splendid-resort",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €10 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "pula-3",
@@ -29462,7 +30134,13 @@
     "petFee": 15,
     "petPolicy": "Park Plaza Verudela Pula allows up to two pets weighing up to 10 kg for EUR 15 per pet per night. Both dogs and cats welcome. Food and water bowls provided in the room. Self-catering apartments on the Verudela peninsula. Please confirm with the property when booking.",
     "address": "Verudela 1, 52100 Pula",
-    "neighborhood": "Verudela"
+    "neighborhood": "Verudela",
+    "slug": "park-plaza-verudela-pula",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "pula-4",
@@ -29483,7 +30161,13 @@
     "petFee": 15,
     "petPolicy": "Arena Verudela Beach welcomes pets in designated apartments, with a limit of 1 per room and maximum weight around 10 kg per pet. Charges apply (please confirm at booking). Beachfront resort with sea views on the Verudela peninsula. Please confirm with the property when booking.",
     "address": "Verudela 4, 52100 Pula",
-    "neighborhood": "Verudela"
+    "neighborhood": "Verudela",
+    "slug": "arena-verudela-beach",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "pula-5",
@@ -29502,7 +30186,13 @@
     "petFee": 20,
     "petPolicy": "Family-run Hotel Galija allows pets for an extra charge of approximately EUR 20 per pet per night (formerly HRK 150). Pet-friendly rooms must be requested via the property. Centrally located, a 3-minute walk from the Gate of Hercules and 6 minutes from Pula Arena. Please confirm with the property when booking.",
     "address": "Epulonova ul. 3, 52100 Pula",
-    "neighborhood": "Pula old town"
+    "neighborhood": "Pula old town",
+    "slug": "hotel-galija",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "santorini-1",
@@ -29522,7 +30212,13 @@
     "petFee": 0,
     "petPolicy": "Mill Houses welcomes one pet weighing up to 15 kg per room at no additional fee. Pets are not allowed at the swimming pool. Service animals are exempt from any restrictions. All-white Cycladic suites in Firostefani with caldera views, 600 m from Fira centre. Please confirm with the property when booking.",
     "address": "Firostefani, 84700 Santorini",
-    "neighborhood": "Firostefani caldera"
+    "neighborhood": "Firostefani caldera",
+    "slug": "mill-houses-new-elegant-suites",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "santorini-2",
@@ -29541,7 +30237,13 @@
     "petFee": 0,
     "petPolicy": "Villa Renos accepts dogs on request, charges and size limits to be confirmed with the property. Cycladic-style hotel on the Santorini caldera with rooms offering panoramic views of the Aegean Sea and the volcano. Please confirm with the property when booking.",
     "address": "Fira, 84700 Santorini",
-    "neighborhood": "Fira caldera"
+    "neighborhood": "Fira caldera",
+    "slug": "villa-renos-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "santorini-3",
@@ -29560,7 +30262,13 @@
     "petFee": 0,
     "petPolicy": "Coco-Mat Hotel Santorini welcomes pets on request, charges may apply. Located in Akrotiri, 400 m from Kokkinopetra Beach, with eco-friendly residences and the renowned Coco-Mat bedding. Please confirm with the property when booking.",
     "address": "Akrotiri, 84700 Santorini",
-    "neighborhood": "Akrotiri"
+    "neighborhood": "Akrotiri",
+    "slug": "coco-mat-hotel-santorini",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "santorini-4",
@@ -29580,7 +30288,13 @@
     "petFee": 0,
     "petPolicy": "Blue Waves accepts pets on request with no extra charges. Located just 30 metres from Kamari Beach with a pool, sun terrace and poolside snack bar. Each apartment has a kitchenette. Please confirm with the property when booking.",
     "address": "Kamari Beach, 84700 Santorini",
-    "neighborhood": "Kamari"
+    "neighborhood": "Kamari",
+    "slug": "blue-waves-suites-apartments",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Family-friendly"
+    ]
   },
   {
     "id": "santorini-5",
@@ -29600,7 +30314,13 @@
     "petFee": 0,
     "petPolicy": "Roula Villa welcomes pets free of charge. Family-run property 100 m from the famous black sandy beach of Perissa, with outdoor pool, hot tub and weekly Greek theme nights. Each room has a private bathroom and fully equipped kitchen. Please confirm with the property when booking.",
     "address": "Main Street, Perissa, 84703 Santorini",
-    "neighborhood": "Perissa"
+    "neighborhood": "Perissa",
+    "slug": "roula-villa-studios-apartments",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Family-friendly"
+    ]
   },
   {
     "id": "corfu-1",
@@ -29621,7 +30341,13 @@
     "petFee": 100,
     "petPolicy": "Domes of Corfu allows one pet per room (dog or cat) weighing up to 15 kg, with a non-refundable pet fee of EUR 100 per stay. Pet-friendly amenities including food and water bowls provided. Beachfront on Glyfada beach with crystal-clear waters and Ionian Sea views. Please confirm with the property when booking.",
     "address": "Glyfada Beach, 49100 Corfu",
-    "neighborhood": "Glyfada Beach"
+    "neighborhood": "Glyfada Beach",
+    "slug": "domes-of-corfu-autograph-collection",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €100 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "corfu-2",
@@ -29641,7 +30367,13 @@
     "petFee": 50,
     "petPolicy": "Dreams Corfu Resort allows dogs weighing less than 10 kg for an additional EUR 50 per night. Dogs may only stay in certain room categories. Pet-friendly rooms come with dog beds, walking areas and welcome sets with toys, treats and hygiene products. Please confirm with the property when booking.",
     "address": "Gouvia, 49100 Corfu",
-    "neighborhood": "Gouvia (near Dassia)"
+    "neighborhood": "Gouvia (near Dassia)",
+    "slug": "dreams-corfu-resort-spa",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €50 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "corfu-3",
@@ -29660,7 +30392,13 @@
     "petFee": 40,
     "petPolicy": "Divani Corfu Palace welcomes pets including dogs for a fee of EUR 40 per night. Charges may apply per pet. The 4-star property is near Corfu Town in the Kanoni area, with pool and easy access to the historic centre. Please confirm with the property when booking.",
     "address": "20 Nafsikas Street, Kanoni, 49100 Corfu",
-    "neighborhood": "Kanoni"
+    "neighborhood": "Kanoni",
+    "slug": "divani-corfu-palace",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €40 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "corfu-4",
@@ -29680,7 +30418,13 @@
     "petFee": 0,
     "petPolicy": "Nido, Mar-Bella Collection accepts pets up to 8 kg, provided the pet is fully trained and appropriately restrained by the guest. Adults-only Small Luxury Hotels of the World member in Agios Ioannis Peristeron with sea-view suites and villas. Please confirm with the property when booking.",
     "address": "Agios Ioannis Peristeron, 49084 Corfu",
-    "neighborhood": "Agios Ioannis Peristeron"
+    "neighborhood": "Agios Ioannis Peristeron",
+    "slug": "nido-mar-bella-collection",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "5-star comfort"
+    ]
   },
   {
     "id": "corfu-5",
@@ -29700,7 +30444,13 @@
     "petFee": 0,
     "petPolicy": "Grecotel Corfu Imperial allows dogs up to 8 kg in selected room categories (interconnecting rooms and Palazzo Imperiale suites), restrictions apply. Reservations must be informed at booking. Guide dogs permitted in all hotel areas. Luxury private-peninsula resort near Komeno. Please confirm with the property when booking.",
     "address": "Komeno Bay, 49083 Corfu",
-    "neighborhood": "Komeno Bay"
+    "neighborhood": "Komeno Bay",
+    "slug": "grecotel-corfu-imperial",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Family-friendly"
+    ]
   },
   {
     "id": "texel-1",
@@ -29719,7 +30469,13 @@
     "petFee": 0,
     "petPolicy": "Van der Valk Texel - De Koog welcomes dogs in a limited number of designated rooms, with a maximum of one dog per room. Reservation must be made in advance by contacting reception so a suitable room can be allocated. 4-star hotel on the edge of the dunes near De Koog beach, with pool and family facilities. Please confirm with the property when booking.",
     "address": "Pelikaanweg 18, 1796 NP De Koog",
-    "neighborhood": "De Koog"
+    "neighborhood": "De Koog",
+    "slug": "van-der-valk-texel-de-koog",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Family-friendly"
+    ]
   },
   {
     "id": "texel-2",
@@ -29738,7 +30494,13 @@
     "petFee": 0,
     "petPolicy": "DuinHotel Texel welcomes dogs on request. Dogs are accepted only in ground-floor rooms and are not permitted in the breakfast room. Small 12-room property on the edge of the forest, a 10-minute walk from De Koog beach and village, with free WiFi and bicycles available on site. Please confirm with the property when booking.",
     "address": "Nikadel 96, 1796 BJ De Koog",
-    "neighborhood": "De Koog"
+    "neighborhood": "De Koog",
+    "slug": "duinhotel-texel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "texel-3",
@@ -29757,7 +30519,13 @@
     "petFee": 25,
     "petPolicy": "Hotel-Restaurant Loodsmans Welvaren accepts dogs only in the Deluxe room for EUR 25 per dog per night (maximum 2 dogs, up to 30 kg each; EUR 45 per night for 2 dogs). 200-year-old hotel in the village of Den Hoorn, a 15-minute walk from the edge of Duinen van Texel National Park, with restaurant and bicycle rental. Please confirm with the property when booking.",
     "address": "Herenstraat 14, 1797 AJ Den Hoorn",
-    "neighborhood": "Den Hoorn"
+    "neighborhood": "Den Hoorn",
+    "slug": "hotel-restaurant-loodsmans-welvaren",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "texel-4",
@@ -29776,7 +30544,13 @@
     "petFee": 0,
     "petPolicy": "Villapark De Koog welcomes dogs in all of its luxury villas, on request and with a surcharge. Dog treats and waste bags are provided throughout the property. Luxury 4-12 person villas with sauna, garden and terrace, a 15-minute walk from De Koog beach and close to Dunes of Texel National Park. Please confirm with the property when booking.",
     "address": "Ruijslaan 84, 1796 AD De Koog",
-    "neighborhood": "De Koog"
+    "neighborhood": "De Koog",
+    "slug": "villapark-de-koog",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Family-friendly"
+    ]
   },
   {
     "id": "texel-5",
@@ -29795,7 +30569,13 @@
     "petFee": 12.5,
     "petPolicy": "Hotel Den Burg welcomes dogs on request for EUR 12.50 per day, with a lovely garden open to both dogs and their humans. Centrally located on the main square in Den Burg, the capital of Texel, with brasserie and easy access to shops and restaurants. Pet policy has varied across platforms, please confirm with the property when booking.",
     "address": "Emmalaan 2, 1791 AV Den Burg",
-    "neighborhood": "Den Burg"
+    "neighborhood": "Den Burg",
+    "slug": "hotel-den-burg",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €12.5 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "haarlem-1",
@@ -29814,7 +30594,13 @@
     "petFee": 22.5,
     "petPolicy": "Boutiquehotel Staats welcomes dogs on request for EUR 22.50 per dog per day (maximum 2 dogs per room). A dog bed is provided for four-legged guests. Highly rated boutique hotel in central Haarlem with acclaimed breakfast and design rooms. Please confirm with the property when booking.",
     "address": "Kruisweg 44, 2011 LE Haarlem",
-    "neighborhood": "Centrum"
+    "neighborhood": "Centrum",
+    "slug": "boutiquehotel-staats",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €22.5 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "haarlem-2",
@@ -29833,7 +30619,13 @@
     "petFee": 25,
     "petPolicy": "Hotel Lion D'Or accepts dogs of any size for an additional fee of EUR 25 per pet per stay (cats not allowed). Haarlem's oldest city hotel, established in 1839, located in the city centre within walking distance of the Market Square and St. Bavo Church, with Nespresso-equipped rooms and bar. Please confirm with the property when booking.",
     "address": "Kruisweg 34-36, 2011 LC Haarlem",
-    "neighborhood": "Centrum"
+    "neighborhood": "Centrum",
+    "slug": "hotel-lion-dor",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "haarlem-3",
@@ -29853,7 +30645,13 @@
     "petFee": 0,
     "petPolicy": "Boutique Hotel & Restaurant Frenchie welcomes dogs with special attention for canine guests, charges may apply. Smaller breeds are suggested due to space limitations in some areas. Adults-only boutique hotel on Gedempte Oude Gracht in central Haarlem, with French restaurant, cocktail bar and stylish air-conditioned rooms. Please confirm with the property when booking.",
     "address": "Gedempte Oude Gracht 46, 2011 GS Haarlem",
-    "neighborhood": "Centrum"
+    "neighborhood": "Centrum",
+    "slug": "boutique-hotel-restaurant-frenchie",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "haarlem-4",
@@ -29872,7 +30670,13 @@
     "petFee": 0,
     "petPolicy": "Anegang Boutique Hotel welcomes dogs of any size at no additional fee. Spacious and quiet boutique accommodation in the historic city centre of Haarlem, near Grote Markt and St. Bavo Church. Please confirm with the property when booking.",
     "address": "Anegang 22, 2011 HZ Haarlem",
-    "neighborhood": "Centrum"
+    "neighborhood": "Centrum",
+    "slug": "anegang-boutique-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "haarlem-5",
@@ -29891,7 +30695,13 @@
     "petFee": 15,
     "petPolicy": "Relaxed Slapen accepts pets of any size for an additional fee of EUR 15 per pet per night. Both dogs and cats are welcome. Small guesthouse in Haarlem with relaxed atmosphere and easy access to the city centre. Please confirm with the property when booking.",
     "address": "Haarlem",
-    "neighborhood": "Haarlem"
+    "neighborhood": "Haarlem",
+    "slug": "relaxed-slapen",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "chania-1",
@@ -29910,7 +30720,13 @@
     "petFee": 0,
     "petPolicy": "Alcanea Boutique Hotel welcomes pets on request, with policies varying by channel (some sources note pets up to 10 kg with an additional charge of EUR 25 per pet per stay). Unique waterfront location in Chania Old Town, set in a historic building with wine bar overlooking the Old Venetian Port and Lighthouse. Please confirm with the property when booking.",
     "address": "Angelou 2, Old Venetian Harbour, 73100 Chania",
-    "neighborhood": "Old Town"
+    "neighborhood": "Old Town",
+    "slug": "alcanea-boutique-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "chania-2",
@@ -29929,7 +30745,13 @@
     "petFee": 0,
     "petPolicy": "Pandora Suites welcomes dogs of any size at no additional fee. Set in a well-preserved 17th-century building in Chania's Old Town with a rooftop terrace overlooking the Venetian Harbour and Lighthouse. Suites have kitchenettes and marble bathrooms. Excellent location score on Booking.com. Please confirm with the property when booking.",
     "address": "Lithinon 27-29, Old Town, 73100 Chania",
-    "neighborhood": "Old Town"
+    "neighborhood": "Old Town",
+    "slug": "pandora-suites",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "chania-3",
@@ -29948,7 +30770,13 @@
     "petFee": 0,
     "petPolicy": "Mosaic welcomes pets on request, with food and water bowls provided in the room; charges may apply. Centrally located property in Chania Town, approximately 15 minutes walking from the Old Town and Venetian Harbour, with air-conditioned rooms and free WiFi. Please confirm with the property when booking.",
     "address": "Chania Town, 73100 Chania",
-    "neighborhood": "Chania Town"
+    "neighborhood": "Chania Town",
+    "slug": "mosaic",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "chania-4",
@@ -29968,7 +30796,13 @@
     "petFee": 100,
     "petPolicy": "Domes Noruz Chania accepts small to medium-sized pets (up to 25 kg) for an additional charge of EUR 100 per accommodation per stay plus a one-time cleaning fee of EUR 100. Bowls, pillow and toys are provided; pets must be well trained and are not allowed in common areas. Pet-sitting and walking available for an extra charge. Adults-only luxury resort in Kato Daratso, west of Chania. Please confirm with the property when booking.",
     "address": "Kato Daratso, 73100 Chania",
-    "neighborhood": "Kato Daratso"
+    "neighborhood": "Kato Daratso",
+    "slug": "domes-noruz-chania-autograph-collection",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €100 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "chania-5",
@@ -29987,7 +30821,13 @@
     "petFee": 35,
     "petPolicy": "Hanim Boutique Hotel (formerly Hanim Lounge & Studios) accepts dogs for EUR 35 per pet per night plus a one-time cleaning fee of EUR 50. Service animals are exempt from fees. Family-run boutique property close to Nea Chora Beach and Chania Archaeological Museum, with coffee machine in every room. Please confirm with the property when booking as policies vary across platforms.",
     "address": "Nea Chora, 73100 Chania",
-    "neighborhood": "Nea Chora"
+    "neighborhood": "Nea Chora",
+    "slug": "hanim-boutique-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €35 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "rovinj-1",
@@ -30006,7 +30846,13 @@
     "petFee": 40,
     "petPolicy": "Grand Park Hotel Rovinj by Maistra Collection welcomes dogs of any size in designated rooms for EUR 40 per pet per night. Both dogs and cats welcome; food and water bowls provided. Pets not permitted in bar, restaurant or pool area. Flagship 5-star property on the Adriatic coast with wellness and spa centre, outdoor pool and marina next to Mulini Beach. Please confirm with the property when booking.",
     "address": "Smareglijeva ulica 1A, 52210 Rovinj",
-    "neighborhood": "Centre"
+    "neighborhood": "Centre",
+    "slug": "grand-park-hotel-rovinj-by-maistra-collection",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €40 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "rovinj-2",
@@ -30026,7 +30872,13 @@
     "petFee": 40,
     "petPolicy": "Lone Hotel by Maistra Collection welcomes most pets in designated rooms for approximately EUR 40 per pet per night. Dog bed, food bowl, complementary Pedigree meal, waste bags and 'pet alone in room' door sign provided. Dog beach right below the hotel and walking trails in Golden Cape Natural Park. Architectural design hotel a 15-minute walk from central Rovinj. Please confirm with the property when booking.",
     "address": "Luje Adamovica 31, 52210 Rovinj",
-    "neighborhood": "Zlatni Rt"
+    "neighborhood": "Zlatni Rt",
+    "slug": "lone-hotel-by-maistra-collection",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €40 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "rovinj-3",
@@ -30046,7 +30898,13 @@
     "petFee": 30,
     "petPolicy": "Monte Mulini Adults Exclusive Hotel by Maistra Collection welcomes one pet of any size for an additional fee (approximately HRK 230 / EUR 30 per night). Both dogs and cats are welcome. Adults-only 5-star hotel close to Rovinj Marina, surrounded by a quiet park and right next to the beach, ideal for walks and bike rides. Please confirm with the property when booking.",
     "address": "Ulica A. Smareglia, 52210 Rovinj",
-    "neighborhood": "Mulini Bay"
+    "neighborhood": "Mulini Bay",
+    "slug": "monte-mulini-adults-exclusive-hotel-by-maistra-collection",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €30 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "rovinj-4",
@@ -30065,7 +30923,13 @@
     "petFee": 10,
     "petPolicy": "Maistra Select Amarin Resort welcomes dogs of any size in designated rooms for an additional fee (approximately HRK 75 / EUR 10 per pet per night). Family resort a few minutes' drive from central Rovinj with two outdoor pools and a pebble, rocky and paved beach. Please confirm with the property when booking as pet acceptance has varied across stays.",
     "address": "Val de Lesso, 52210 Rovinj",
-    "neighborhood": "Amarin"
+    "neighborhood": "Amarin",
+    "slug": "maistra-select-amarin-resort",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €10 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "rovinj-5",
@@ -30084,7 +30948,13 @@
     "petFee": 10,
     "petPolicy": "Maistra Select Villas Rubin Resort welcomes dogs in designated villas and rooms for an additional fee. Family-friendly resort south of Rovinj in pine forest by the sea, with multiple pools, tennis courts and direct access to a pebble beach with dog-friendly sections. Please confirm with the property when booking.",
     "address": "Villas Rubin 1, 52210 Rovinj",
-    "neighborhood": "Villas Rubin"
+    "neighborhood": "Villas Rubin",
+    "slug": "maistra-select-villas-rubin-resort",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €10 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "cadaques-1",
@@ -30103,7 +30973,13 @@
     "petFee": 18,
     "petPolicy": "Hotel Calina welcomes up to 4 pets of any size in designated rooms for EUR 18 per pet per night. Family-run hotel in Port Lligat Bay, 50 metres from Salvador Dalí's House-Museum, with two outdoor swimming pools with sea views, free WiFi and Catalan restaurant. Please confirm with the property when booking.",
     "address": "Platja Portlligat 6, 17488 Cadaqués",
-    "neighborhood": "Port Lligat"
+    "neighborhood": "Port Lligat",
+    "slug": "hotel-calina",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €18 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "cadaques-2",
@@ -30123,7 +30999,13 @@
     "petFee": 20,
     "petPolicy": "Boutique Hotel Villa Salvador - Adults Only by Fimedhotels allows one dog up to 20 kg per room for EUR 20 per pet per night. Food and water bowls provided in the room. Adults-only 4-star boutique hotel with saltwater pool, sun terrace and lush garden, set just outside the centre of Cadaqués. Please confirm with the property when booking.",
     "address": "Carrer del Pianc, 17488 Cadaqués",
-    "neighborhood": "Cadaqués"
+    "neighborhood": "Cadaqués",
+    "slug": "boutique-hotel-villa-salvador-adults-only-by-fimedhotels",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "cadaques-3",
@@ -30142,7 +31024,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Blaumar Cadaqués by Fimedhotels accepts dogs up to 20 kg for EUR 20 per pet per night. Cosy hotel with scenic views, rustic décor and traditional Catalan floors, some rooms with balconies, located in Cadaqués close to the seafront. Please confirm with the property when booking as policies have varied across platforms.",
     "address": "Carrer Massa d'Or 21, 17488 Cadaqués",
-    "neighborhood": "Cadaqués"
+    "neighborhood": "Cadaqués",
+    "slug": "hotel-blaumar-cadaques-by-fimedhotels",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "cadaques-4",
@@ -30161,7 +31049,13 @@
     "petFee": 0,
     "petPolicy": "Hostal Cristina welcomes pets on request, with policies noting either no extra charge or a modest supplement of around EUR 10 per pet per night (maximum 2 pets). Family-run guesthouse right by the sea in the centre of Cadaqués, with air-conditioned rooms and private bathrooms. Popular with returning guests travelling out of season with dogs. Please confirm with the property when booking.",
     "address": "Riera Sant Vicenç 1, 17488 Cadaqués",
-    "neighborhood": "Centre"
+    "neighborhood": "Centre",
+    "slug": "hostal-cristina",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "2-star comfort"
+    ]
   },
   {
     "id": "cadaques-5",
@@ -30180,7 +31074,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Casa Nereta welcomes pets on request, charges may apply. Listed among the pet-friendly properties of Cadaqués on Booking.com. Boutique guesthouse in a typical white Mediterranean building in the village, within walking distance of the bay and old town. Please confirm with the property when booking.",
     "address": "Cadaqués",
-    "neighborhood": "Cadaqués"
+    "neighborhood": "Cadaqués",
+    "slug": "hotel-casa-nereta",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "sitges-1",
@@ -30199,7 +31099,13 @@
     "petFee": 0,
     "petPolicy": "Mediterraneo Sitges welcomes pets on request, charges may apply (confirm at booking). Listed among the top pet-friendly hotels on the Costa del Garraf, this central boutique hotel sits a few minutes from Sitges' main beaches and the old town. Please confirm with the property when booking.",
     "address": "Avenida Sofia 3, 08870 Sitges",
-    "neighborhood": "Centre"
+    "neighborhood": "Centre",
+    "slug": "mediterraneo-sitges",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "sitges-2",
@@ -30218,7 +31124,13 @@
     "petFee": 0,
     "petPolicy": "ME Sitges Terramar welcomes pets, with in-room amenities available for them. Pets must be reported at booking; size and number restrictions may apply (confirm directly). Beachfront 5-star property by Meliá on Terramar beach, with outdoor pool, spa and golf course adjacent. Please confirm with the property when booking.",
     "address": "Paseo Marítimo 80, 08870 Sitges",
-    "neighborhood": "Terramar"
+    "neighborhood": "Terramar",
+    "slug": "me-sitges-terramar",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "5-star comfort"
+    ]
   },
   {
     "id": "sitges-3",
@@ -30237,7 +31149,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Subur Maritim accepts pets of any size in designated rooms for no additional fee. Both dogs and cats welcome. Reservation must mention the pet so a suitable room can be assigned. Beachfront 4-star hotel a 10-minute walk from Sanctuary of Vinyet, 100m from La Barra Beach. Please confirm with the property when booking.",
     "address": "Paseo Marítimo s/n, 08870 Sitges",
-    "neighborhood": "Aiguadolç"
+    "neighborhood": "Aiguadolç",
+    "slug": "hotel-subur-maritim",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "sitges-4",
@@ -30256,7 +31174,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Los Globos accepts dogs of any size for no additional fee. Cats are not allowed. Pet reservation should be made in advance. 3-star hotel in central Sitges, walking distance from the historic centre and main beaches. Please confirm with the property when booking.",
     "address": "Avinguda Sofia 11, 08870 Sitges",
-    "neighborhood": "Centre"
+    "neighborhood": "Centre",
+    "slug": "hotel-los-globos",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "sitges-5",
@@ -30275,7 +31199,13 @@
     "petFee": 0,
     "petPolicy": "Hostal Bonanza is fully pet-friendly: dogs of any size are accepted for no additional fee, and cats are also welcome. Food and water bowls are provided in the room. Small family-run guesthouse in central Sitges, a short walk from the beach and old town. Please confirm with the property when booking.",
     "address": "Carrer de l'Illa de Cuba 15, 08870 Sitges",
-    "neighborhood": "Centre"
+    "neighborhood": "Centre",
+    "slug": "hostal-bonanza-sitges",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "2-star comfort"
+    ]
   },
   {
     "id": "tavira-1",
@@ -30294,7 +31224,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Don Rodrigues accepts dogs of any size for no additional fee. Property located at the entrance of Tavira on the N125 road, with outdoor pool and panoramic views over the Algarvian Sotavento countryside. Please confirm with the property when booking.",
     "address": "Estrada Nacional 125, Sítio das Quatro Estradas, 8800-412 Tavira",
-    "neighborhood": "Quatro Estradas"
+    "neighborhood": "Quatro Estradas",
+    "slug": "hotel-don-rodrigues",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "tavira-2",
@@ -30313,7 +31249,13 @@
     "petFee": 0,
     "petPolicy": "Tavira Algarve - Rua da Silva accepts pets on request; charges may apply (confirm at reservation). Centrally located in Tavira old town, a short walk from the Roman bridge, Praça da República and ferries to Tavira Island. Please confirm with the property when booking.",
     "address": "Rua da Silva, 8800 Tavira",
-    "neighborhood": "Centro Histórico"
+    "neighborhood": "Centro Histórico",
+    "slug": "tavira-algarve-rua-da-silva",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "tavira-3",
@@ -30332,7 +31274,13 @@
     "petFee": 0,
     "petPolicy": "Monte dos Avós Village welcomes small pets up to 15 kg only. Pets must be requested at booking and additional cleaning fees may apply (confirm with property). Rural-style village in Ria Formosa Natural Park, 13 minutes' drive from Tavira centre, with outdoor swimming pool and large garden grounds. Please confirm with the property when booking.",
     "address": "Sítio do Pinheiro, 8800-102 Santa Catarina da Fonte do Bispo",
-    "neighborhood": "Ria Formosa"
+    "neighborhood": "Ria Formosa",
+    "slug": "monte-dos-avos-village-pet-friendly",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "tavira-4",
@@ -30351,7 +31299,13 @@
     "petFee": 25,
     "petPolicy": "Pousada Convento de Tavira accepts 1 dog per room, maximum 15 kg, for EUR 25 per pet per night. Pets must be declared at booking. Historic 4-star Pousada housed in the former 16th-century Convento da Graça in central Tavira, with outdoor pool and cloister courtyard. Please confirm with the property when booking.",
     "address": "Rua Dr. Antonio Cabreira, 8800-379 Tavira",
-    "neighborhood": "Centro Histórico"
+    "neighborhood": "Centro Histórico",
+    "slug": "pousada-convento-de-tavira",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "tavira-5",
@@ -30370,7 +31324,13 @@
     "petFee": 0,
     "petPolicy": "Quinta do Caracol accepts dogs of any size for no additional fee. Cats are not allowed. Reservation must mention the pet in advance. Charming 17th-century manor house with garden, outdoor pool and tennis court, a 10-minute walk from Tavira's old town. Please confirm with the property when booking.",
     "address": "Sítio de São Pedro, 8800-405 Tavira",
-    "neighborhood": "São Pedro"
+    "neighborhood": "São Pedro",
+    "slug": "quinta-do-caracol",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "ericeira-1",
@@ -30390,7 +31350,13 @@
     "petFee": 50,
     "petPolicy": "Aethos Ericeira welcomes pets in suites and villas, with a cleaning fee of EUR 250 for dogs 8 kg and over (smaller dogs charged ~EUR 50 per night per dog; confirm at booking). Stylish boutique hotel set in a converted 19th-century manor on cliffs above the Atlantic, with sea views, pool and award-winning restaurant. Please confirm with the property when booking.",
     "address": "Estrada da Calada 11, 2655-241 Ericeira",
-    "neighborhood": "Calada"
+    "neighborhood": "Calada",
+    "slug": "aethos-ericeira",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €50 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "ericeira-2",
@@ -30409,7 +31375,13 @@
     "petFee": 30,
     "petPolicy": "You and the Sea accepts 2 dogs up to 30 kg each for EUR 30 per pet per night. Pet bedding and designated pet areas provided. Rated exceptional (9.6) by guests for pet stays. Coastal boutique hotel just outside Ericeira on the cliffs, with sea views and surf-village atmosphere. Please confirm with the property when booking.",
     "address": "Rua dos Surfistas 11, 2655-319 Ericeira",
-    "neighborhood": "Ribeira d'Ilhas"
+    "neighborhood": "Ribeira d'Ilhas",
+    "slug": "you-and-the-sea",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €30 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "ericeira-3",
@@ -30428,7 +31400,13 @@
     "petFee": 0,
     "petPolicy": "Beachouse - Surf, Bed & Breakfast is listed among the top pet-friendly hotels in Ericeira on Booking.com. Pets accepted on request; size limits and fees may apply (confirm at reservation). Stylish surf-focused guesthouse in the World Surfing Reserve of Ericeira, close to Praia do Sul and Ribeira d'Ilhas beaches. Please confirm with the property when booking.",
     "address": "Rua dos Hortenses 6, 2655-319 Ericeira",
-    "neighborhood": "Praia do Sul"
+    "neighborhood": "Praia do Sul",
+    "slug": "beachouse-surf-bed-breakfast",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "ericeira-4",
@@ -30447,7 +31425,13 @@
     "petFee": 0,
     "petPolicy": "O House Ericeira Hills welcomes pets in rooms (reservation required; size limits and fees may apply, confirm with property). Highly rated (9.8) boutique guesthouse in the hills above Ericeira with countryside views, just a short drive from the World Surfing Reserve beaches. Please confirm with the property when booking.",
     "address": "Estrada de Santo Isidoro, 2655 Ericeira",
-    "neighborhood": "Santo Isidoro"
+    "neighborhood": "Santo Isidoro",
+    "slug": "o-house-ericeira-hills",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "ericeira-5",
@@ -30466,7 +31450,13 @@
     "petFee": 15,
     "petPolicy": "WOT Ericeira Surf Social (WOT Lodge Soul) accepts 2 pets of any size for EUR 15 per pet per night, plus a refundable deposit of EUR 100. Surf-lifestyle hotel in central Ericeira, walking distance from Praia dos Pescadores and the village's bars and restaurants. Please confirm with the property when booking.",
     "address": "Rua 5 de Outubro 14, 2655-247 Ericeira",
-    "neighborhood": "Centro"
+    "neighborhood": "Centro",
+    "slug": "wot-ericeira-surf-social",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "nazare-1",
@@ -30485,7 +31475,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Mar Bravo accepts dogs of any size on request; some sources note charges may apply (confirm at booking). 3-star seafront hotel on Praça Sousa Oliveira facing Nazaré's main beach, with restaurant overlooking the bay. Please confirm with the property when booking.",
     "address": "Praça Sousa Oliveira 71, 2450-159 Nazaré",
-    "neighborhood": "Praia"
+    "neighborhood": "Praia",
+    "slug": "hotel-mar-bravo",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "nazare-2",
@@ -30504,7 +31500,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Praia provides pet-friendly rooms; pets accepted on request, fees may apply (confirm with property). 3-star hotel a 5-minute walk from Nazaré beach and town centre, with indoor swimming pool, gym and terrace. Please confirm with the property when booking.",
     "address": "Avenida Vieira Guimarães 39, 2450-110 Nazaré",
-    "neighborhood": "Centro"
+    "neighborhood": "Centro",
+    "slug": "hotel-praia",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Family-friendly"
+    ]
   },
   {
     "id": "nazare-3",
@@ -30523,7 +31525,13 @@
     "petFee": 0,
     "petPolicy": "Casa do Mar - Sea House Villa is listed among top pet-friendly stays in Nazaré on Booking.com. Pets accepted; confirm size limits and any fees at booking. Villa-style accommodation 2.9 km from Church of Nossa Senhora da Nazaré, close to Praia do Norte (the big-wave beach). Please confirm with the property when booking.",
     "address": "Sítio da Nazaré, 2450 Nazaré",
-    "neighborhood": "Sítio"
+    "neighborhood": "Sítio",
+    "slug": "casa-do-mar-sea-house-villa",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "nazare-4",
@@ -30542,7 +31550,13 @@
     "petFee": 0,
     "petPolicy": "Solar do Diabrete is listed among Booking.com's pet-friendly stays in Nazaré. Pets accepted; size and fee policy to be confirmed at reservation. Rural-style guesthouse near Nazaré, around 9 miles from the Monastery of Alcobaça (UNESCO), ideal for quiet stays with dogs. Please confirm with the property when booking.",
     "address": "Rua Principal, 2450 Nazaré",
-    "neighborhood": "Pederneira"
+    "neighborhood": "Pederneira",
+    "slug": "solar-do-diabrete",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "nazare-5",
@@ -30561,7 +31575,13 @@
     "petFee": 0,
     "petPolicy": "Ferhouse Dreams-Farilhões is listed as a pet-friendly Booking.com property in Nazaré. Pets accepted; confirm size limits and any cleaning fees at booking. Apartment-style accommodation a 5-minute walk from Nazaré beach, with kitchen facilities ideal for travellers with dogs. Please confirm with the property when booking.",
     "address": "Rua dos Farilhões, 2450 Nazaré",
-    "neighborhood": "Praia"
+    "neighborhood": "Praia",
+    "slug": "ferhouse-dreams-farilhoes",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "tarifa-1",
@@ -30581,7 +31601,13 @@
     "petFee": 30,
     "petPolicy": "Hurricane Beach Hotel accepts dogs and cats on request for EUR 30 per pet per night, with a EUR 200 refundable damage deposit at check-in. Iconic beachfront 4-star hotel on the Atlantic coast between Tarifa and Punta Paloma, on Los Lances/Valdevaqueros area, with two pools, yoga and direct beach access for dogs outside summer peak hours. Please confirm with the property when booking.",
     "address": "Carretera N-340 Cádiz-Málaga km 78, 11380 Tarifa",
-    "neighborhood": "Punta Paloma"
+    "neighborhood": "Punta Paloma",
+    "slug": "hurricane-beach-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €30 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "tarifa-2",
@@ -30600,7 +31626,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Copacabana Tarifa Beach accepts pets on request; charges may apply (confirm at booking). Guests report rooms with private patios are well suited to dogs and staff are very accommodating. Beachfront 3-star hotel on Valdevaqueros beach with views over the Moroccan coast and the dunes of Punta Paloma. Please confirm with the property when booking.",
     "address": "Carretera N-340 km 75, 11380 Tarifa",
-    "neighborhood": "Valdevaqueros"
+    "neighborhood": "Valdevaqueros",
+    "slug": "hotel-copacabana-tarifa-beach",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "tarifa-3",
@@ -30619,7 +31651,13 @@
     "petFee": 0,
     "petPolicy": "Hotel La Peña welcomes dogs (confirmed by Booking.com and Spanish pet-travel directories). Pet reservation should be made in advance; fees may apply (confirm at booking). 3-star hotel set next to Alcornocales Natural Park, 15 km from Tarifa's beaches, with outdoor pool and trails directly from the property - ideal for active dogs. Please confirm with the property when booking.",
     "address": "Carretera N-340 km 77, 11380 Tarifa",
-    "neighborhood": "Alcornocales"
+    "neighborhood": "Alcornocales",
+    "slug": "hotel-la-pena",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "tarifa-4",
@@ -30638,7 +31676,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Misiana is pet-friendly and works to make dogs as comfortable as their owners during the stay. Pets accepted on request; fees may apply (confirm at booking). Stylish boutique hotel in the heart of Tarifa's old town, steps from the medieval walls, the port and the kitesurf scene. Please confirm with the property when booking.",
     "address": "Calle Sancho IV el Bravo 16, 11380 Tarifa",
-    "neighborhood": "Casco Antiguo"
+    "neighborhood": "Casco Antiguo",
+    "slug": "hotel-misiana",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "tarifa-5",
@@ -30658,7 +31702,13 @@
     "petFee": 10,
     "petPolicy": "Beach Hotel Dos Mares warmly welcomes dogs for EUR 10 per night; pets are allowed in the bar, restaurant and on the beach directly in front of the hotel. Pets accepted on request. Beachfront 3-star property on Los Lances beach between Tarifa and Punta Paloma, popular with kitesurfers and dog owners alike. Please confirm with the property when booking.",
     "address": "Carretera N-340 km 79.5, 11380 Tarifa",
-    "neighborhood": "Los Lances"
+    "neighborhood": "Los Lances",
+    "slug": "beach-hotel-dos-mares",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €10 as listed on Booking",
+      "Family-friendly"
+    ]
   },
   {
     "id": "a-coruna-1",
@@ -30678,7 +31728,13 @@
     "petFee": 35,
     "petPolicy": "NH Collection A Coruña Finisterre accepts up to 2 dogs or cats per room, max 25 kg each, for EUR 35 per pet per night (subject to approval; guide dogs free). 5-star landmark hotel on the Paseo Marítimo facing the bay, with outdoor pool, spa and direct sea views. Please confirm with the property when booking.",
     "address": "Paseo del Parrote 2-4, 15001 A Coruña",
-    "neighborhood": "Ciudad Vieja"
+    "neighborhood": "Ciudad Vieja",
+    "slug": "nh-collection-a-coruna-finisterre",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €35 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "a-coruna-2",
@@ -30697,7 +31753,13 @@
     "petFee": 22,
     "petPolicy": "Hesperia A Coruña Centro welcomes pets of any size in designated rooms for EUR 22 per pet, per night. 4-star modern hotel in the city centre near Plaza de Pontevedra, a short walk from Riazor beach and the old town. Please confirm with the property when booking.",
     "address": "Juan Flórez 16, 15004 A Coruña",
-    "neighborhood": "Ensanche"
+    "neighborhood": "Ensanche",
+    "slug": "hesperia-a-coruna-centro",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €22 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "a-coruna-3",
@@ -30716,7 +31778,13 @@
     "petFee": 25,
     "petPolicy": "Attica 21 Coruña accepts 1 dog under 25 kg per room in designated rooms for EUR 25 per night. Contemporary 4-star hotel in the Matogrande district, close to the AC Marineda shopping centre and a short drive from the beaches. Please confirm with the property when booking.",
     "address": "Enrique Mariñas Romero 32, 15009 A Coruña",
-    "neighborhood": "Matogrande"
+    "neighborhood": "Matogrande",
+    "slug": "attica-21-coruna",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "Central location"
+    ]
   },
   {
     "id": "a-coruna-4",
@@ -30736,7 +31804,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Mar del Plata welcomes dogs of any size at no additional fee, with bowls available on request. Small family-run 2-star hotel on the Paseo Marítimo facing Riazor and Orzán beaches, ideal for walks with dogs along the promenade. Please confirm with the property when booking.",
     "address": "Paseo de Ronda 58, 15011 A Coruña",
-    "neighborhood": "Riazor"
+    "neighborhood": "Riazor",
+    "slug": "hotel-mar-del-plata",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "2-star comfort"
+    ]
   },
   {
     "id": "a-coruna-5",
@@ -30755,7 +31829,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Brisa accepts dogs of any size for no additional fee. 2-star seafront hotel on the Paseo Marítimo opposite Riazor beach, a 10-minute walk to Plaza de María Pita and the historic centre. Please confirm with the property when booking.",
     "address": "Paseo de Ronda 60, 15011 A Coruña",
-    "neighborhood": "Riazor"
+    "neighborhood": "Riazor",
+    "slug": "hotel-brisa",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "2-star comfort"
+    ]
   },
   {
     "id": "santander-1",
@@ -30774,7 +31854,13 @@
     "petFee": 25,
     "petPolicy": "NH Ciudad de Santander accepts up to 2 pets (dogs or cats) up to 25 kg each in designated rooms for EUR 25 per pet, per night; food and water bowls are provided. 4-star hotel a short walk from the Santander ferry terminal and the city centre, popular with travellers arriving from the UK with dogs. Please confirm with the property when booking.",
     "address": "Menéndez Pelayo 13-15, 39006 Santander",
-    "neighborhood": "Centro"
+    "neighborhood": "Centro",
+    "slug": "nh-ciudad-de-santander",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "santander-2",
@@ -30793,7 +31879,13 @@
     "petFee": 20,
     "petPolicy": "Hotel Silken Coliseum is listed on Booking.com as pet-friendly; small dogs accepted on request, fees may apply (confirm at booking). 4-star hotel facing Plaza de los Remedios in the heart of Santander, a short walk from El Sardinero beach via the bay. Please confirm with the property when booking.",
     "address": "Plaza de los Remedios 1, 39001 Santander",
-    "neighborhood": "Centro"
+    "neighborhood": "Centro",
+    "slug": "hotel-silken-coliseum",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €20 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "santander-3",
@@ -30812,7 +31904,13 @@
     "petFee": 0,
     "petPolicy": "Casuca Montañesa is highlighted in Booking.com guest reviews as very pet-friendly with tiled floors, comfy beds and a quiet room ideal for dogs. Pets accepted on request; confirm any cleaning fee at booking. Apartment-style accommodation with private parking (extra) and easy walking access to the centre of Santander. Please confirm with the property when booking.",
     "address": "Calle Vargas, 39010 Santander",
-    "neighborhood": "Cuatro Caminos"
+    "neighborhood": "Cuatro Caminos",
+    "slug": "casuca-montanesa-en-santander",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "santander-4",
@@ -30832,7 +31930,13 @@
     "petFee": 0,
     "petPolicy": "Apartamentos Las Brisas Santander is listed among Booking.com's pet-friendly stays in Santander. Pets accepted; confirm size limit and any fees at reservation. 3-star aparthotel around 25 minutes' walk from Isla de la Torre, with kitchen facilities convenient for travellers with dogs. Please confirm with the property when booking.",
     "address": "La Pereda 87, 39012 Santander",
-    "neighborhood": "Cueto"
+    "neighborhood": "Cueto",
+    "slug": "apartamentos-las-brisas-santander",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "santander-5",
@@ -30852,7 +31956,13 @@
     "petFee": 15,
     "petPolicy": "Hotel Boutique Las Brisas appears on Booking.com's pet-friendly listings for Santander; small to medium dogs accepted on request, fees may apply (confirm at booking). Charming early-20th-century boutique mansion two minutes from El Sardinero beach, ideal for seafront walks with dogs. Please confirm with the property when booking.",
     "address": "La Braña 14, 39005 Santander",
-    "neighborhood": "El Sardinero"
+    "neighborhood": "El Sardinero",
+    "slug": "hotel-boutique-las-brisas",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €15 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "vitoria-gasteiz-1",
@@ -30871,7 +31981,13 @@
     "petFee": 25,
     "petPolicy": "NH Canciller Ayala Vitoria welcomes most house pets, including dogs and cats, in guestrooms; size limits and a per-night fee may apply (confirm at booking). 4-star hotel in the heart of Vitoria-Gasteiz next to Parque de la Florida, a short walk to the medieval Casco Viejo and Catedral de Santa María. Please confirm with the property when booking.",
     "address": "Ramón y Cajal 5, 01007 Vitoria-Gasteiz",
-    "neighborhood": "Centro"
+    "neighborhood": "Centro",
+    "slug": "nh-canciller-ayala-vitoria",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "vitoria-gasteiz-2",
@@ -30890,7 +32006,13 @@
     "petFee": 0,
     "petPolicy": "Gobeo Park allows up to 2 pets (dogs or cats) of any size for no additional fee. 3-star hotel on the outskirts of Vitoria-Gasteiz with easy parking, around 10 minutes by car from the city centre and close to the green ring of parks. Please confirm with the property when booking.",
     "address": "Portal de Gobeo 21, 01010 Vitoria-Gasteiz",
-    "neighborhood": "Gobeo"
+    "neighborhood": "Gobeo",
+    "slug": "gobeo-park",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Central location"
+    ]
   },
   {
     "id": "vitoria-gasteiz-3",
@@ -30909,7 +32031,13 @@
     "petFee": 25,
     "petPolicy": "Sercotel Boulevard Vitoria allows 1 pet up to 7 kg for EUR 25 per night (dogs and cats welcome); pets are not permitted in the breakfast area. 3-star hotel next to the Boulevard shopping centre and within walking distance of the historic Almendra Medieval. Please confirm with the property when booking.",
     "address": "Zaramaga 1, 01013 Vitoria-Gasteiz",
-    "neighborhood": "Zaramaga"
+    "neighborhood": "Zaramaga",
+    "slug": "sercotel-boulevard-vitoria",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "vitoria-gasteiz-4",
@@ -30928,7 +32056,13 @@
     "petFee": 30,
     "petPolicy": "Abba Jazz Hotel accepts pets up to 10 kg for EUR 30 per pet, per night (dogs and cats welcome). 3-star hotel a few minutes' walk from Vitoria-Gasteiz's old town, with stylish rooms and a quiet location near the Florida park. Please confirm with the property when booking.",
     "address": "Florida 7, 01005 Vitoria-Gasteiz",
-    "neighborhood": "Centro"
+    "neighborhood": "Centro",
+    "slug": "abba-jazz-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €30 as listed on Booking",
+      "3-star comfort"
+    ]
   },
   {
     "id": "vitoria-gasteiz-5",
@@ -30948,7 +32082,13 @@
     "petFee": 0,
     "petPolicy": "Kora Green City is listed among Booking.com's pet-friendly properties in Vitoria-Gasteiz. Pets accepted on request; confirm size limits and any cleaning fees at booking. Sustainable Passivhaus-certified aparthotel 4.7 km from Fernando Buesa Arena, with rooftop pool, steam room and 24-hour front desk. Please confirm with the property when booking.",
     "address": "Reyes de Navarra 32, 01013 Vitoria-Gasteiz",
-    "neighborhood": "Salburua"
+    "neighborhood": "Salburua",
+    "slug": "kora-green-city-aparthotel-passivhaus",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "getxo-1",
@@ -30968,7 +32108,13 @@
     "petFee": 35,
     "petPolicy": "Palacio Arriluce Hotel welcomes 1 dog of any size in designated rooms for EUR 35 per night. 5-star Relais & Châteaux palace overlooking the Abra bay in Getxo, with spa, gourmet restaurant and gardens above the marina. Please confirm with the property when booking.",
     "address": "Calle Arriluze 1, 48992 Getxo",
-    "neighborhood": "Neguri"
+    "neighborhood": "Neguri",
+    "slug": "palacio-arriluce-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €35 as listed on Booking",
+      "5-star comfort"
+    ]
   },
   {
     "id": "getxo-2",
@@ -30988,7 +32134,13 @@
     "petFee": 25,
     "petPolicy": "Petit Palace Tamarises welcomes pets of any size for EUR 25 per stay via Booking.com (free when booking on the hotel's official site). Boutique 3-star hotel directly on Ereaga beach, with restaurant terrace over the sand and easy access to Algorta old town. Please confirm with the property when booking.",
     "address": "Muelle de Ereaga 4, 48992 Getxo",
-    "neighborhood": "Ereaga"
+    "neighborhood": "Ereaga",
+    "slug": "petit-palace-tamarises",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €25 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "getxo-3",
@@ -31007,7 +32159,13 @@
     "petFee": 0,
     "petPolicy": "Ercilla Embarcadero Hotel allows dogs of any size at no additional fee. 4-star glamorous hotel set in a former Basque mansion on Avenida Zugazarte in Las Arenas, walking distance from the Vizcaya Bridge (UNESCO) and Ereaga beach. Please confirm with the property when booking.",
     "address": "Avenida Zugazarte 51, 48930 Getxo",
-    "neighborhood": "Las Arenas"
+    "neighborhood": "Las Arenas",
+    "slug": "ercilla-embarcadero-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "getxo-4",
@@ -31026,7 +32184,13 @@
     "petFee": 0,
     "petPolicy": "Hotel Neguri is listed on Booking.com as pet-friendly; small to medium dogs accepted on request, fees may apply (confirm at booking). 2-star hotel on Avenida de Algorta in the residential Neguri district, two metro stops from Bilbao and a short walk to Ereaga beach. Please confirm with the property when booking.",
     "address": "Avenida de Algorta 14, 48992 Getxo",
-    "neighborhood": "Neguri"
+    "neighborhood": "Neguri",
+    "slug": "hotel-neguri",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "2-star comfort"
+    ]
   },
   {
     "id": "getxo-5",
@@ -31045,7 +32209,13 @@
     "petFee": 0,
     "petPolicy": "Petit Palace Arana welcomes pets of any size in designated rooms for no additional fee. Boutique hotel in the Greater Bilbao area popular with travellers visiting Getxo's coast and the Guggenheim Museum, with easy metro access along the Bilbao-Plentzia line. Please confirm with the property when booking.",
     "address": "Bidebarrieta 2, 48005 Bilbao",
-    "neighborhood": "Casco Viejo"
+    "neighborhood": "Casco Viejo",
+    "slug": "petit-palace-arana",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "formentera-1",
@@ -31065,7 +32235,13 @@
     "petFee": 0,
     "petPolicy": "Es Pas Formentera Agroturismo welcomes 1 dog of any size per room at no additional fee; food and water bowls are provided and owners must notify the property when booking. 4-star agroturismo on a working farm near Es Caló, with outdoor pool, fields and quiet rural setting on Formentera. Please confirm with the property when booking.",
     "address": "Venda des Caló de Sant Agustí s/n, 07871 Es Caló",
-    "neighborhood": "Es Caló de Sant Agustí"
+    "neighborhood": "Es Caló de Sant Agustí",
+    "slug": "es-pas-formentera-agroturismo",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "formentera-2",
@@ -31085,7 +32261,13 @@
     "petFee": 0,
     "petPolicy": "Hostal La Savina is listed on Booking.com as pet-friendly; dogs accepted on request, fees may apply (confirm at booking). 2-star hostal in La Savina overlooking the Estany des Peix saltwater lagoon, with garden, private beach area and shared lounge, walking distance from the Formentera ferry port. Please confirm with the property when booking.",
     "address": "Avenida Mediterranea 22-40, 07870 La Savina",
-    "neighborhood": "La Savina"
+    "neighborhood": "La Savina",
+    "slug": "hostal-la-savina",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "2-star comfort"
+    ]
   },
   {
     "id": "formentera-3",
@@ -31105,7 +32287,13 @@
     "petFee": 0,
     "petPolicy": "Casa Rustick is highlighted on Booking.com as one of Formentera's popular pet-friendly stays for families. Pets accepted on request; confirm size limits and any cleaning fees at booking. Rustic-style accommodation in a quiet inland setting, ideal for travellers exploring Formentera with dogs. Please confirm with the property when booking.",
     "address": "Carretera de la Mola km 6, 07871 Sant Ferran de ses Roques",
-    "neighborhood": "Sant Ferran"
+    "neighborhood": "Sant Ferran",
+    "slug": "casa-rustick",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "formentera-4",
@@ -31125,7 +32313,13 @@
     "petFee": 0,
     "petPolicy": "Bungalows Sa Sargantana is listed on Booking.com among Formentera's popular pet-friendly stays. Pets accepted on request; confirm size and any fees at booking. Bungalow-style accommodation a short walk from Es Pujols beach, with garden and kitchenettes convenient for travellers with dogs. Please confirm with the property when booking.",
     "address": "Carrer Espalmador 16, 07871 Es Pujols",
-    "neighborhood": "Es Pujols"
+    "neighborhood": "Es Pujols",
+    "slug": "bungalows-sa-sargantana",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "formentera-5",
@@ -31144,7 +32338,13 @@
     "petFee": 0,
     "petPolicy": "Boho Suites Formentera is listed among Booking.com's pet-friendly hotels on Formentera. Pets accepted on request; confirm size limits and any cleaning fees at booking. Boho-style suites near Sant Francesc Xavier, with garden and easy access to Migjorn and Illetes beaches. Please confirm with the property when booking.",
     "address": "Carrer Major s/n, 07860 Sant Francesc Xavier",
-    "neighborhood": "Sant Francesc"
+    "neighborhood": "Sant Francesc",
+    "slug": "boho-suites-formentera",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "boston-1",
@@ -31164,7 +32364,13 @@
     "petFee": 0,
     "petPolicy": "Kimpton Marlowe follows the Kimpton brand policy: pets of any size, weight, or breed welcome at no extra charge, no limit on number of pets. Guests sign a waiver covering damage; pet beds, bowls and treats provided. Boutique riverside hotel in East Cambridge, walking distance from CambridgeSide and across the Charles from Beacon Hill. Please confirm with the property when booking.",
     "address": "25 Edwin H Land Boulevard, Cambridge, MA 02141",
-    "neighborhood": "East Cambridge"
+    "neighborhood": "East Cambridge",
+    "slug": "kimpton-marlowe-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "boston-2",
@@ -31183,7 +32389,13 @@
     "petFee": 70,
     "petPolicy": "The Verb Hotel allows pets up to 25 lbs in designated pet-friendly rooms for a fee of approximately USD 75 per stay. Music-themed boutique hotel 200 m from Fenway Park, with outdoor pool and free WiFi, in the Fenway-Kenmore neighborhood. Please confirm with the property when booking.",
     "address": "1271 Boylston Street, Boston, MA 02215",
-    "neighborhood": "Fenway-Kenmore"
+    "neighborhood": "Fenway-Kenmore",
+    "slug": "the-verb-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €70 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "boston-3",
@@ -31203,7 +32415,13 @@
     "petFee": 0,
     "petPolicy": "The Whitney Hotel Boston is listed among Booking.com's most popular pet-friendly hotels in Boston. 5-star boutique property at the foot of Beacon Hill near the Charles River Esplanade, with shared lounge, fitness centre and free bikes. Pets accepted on request; confirm size limits and any fees at booking. Please confirm with the property when booking.",
     "address": "170 Charles Street, Boston, MA 02114",
-    "neighborhood": "Beacon Hill"
+    "neighborhood": "Beacon Hill",
+    "slug": "the-whitney-hotel-boston",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "5-star comfort"
+    ]
   },
   {
     "id": "boston-4",
@@ -31222,7 +32440,13 @@
     "petFee": 0,
     "petPolicy": "The Colonnade Hotel runs a VIPets program with no pet fee for dogs up to 75 lbs, offering pet beds, bowls and treats on arrival. Independent 4-star hotel in the Back Bay with seasonal rooftop pool, walking distance from Copley Square and Prudential Center. Please confirm with the property when booking.",
     "address": "120 Huntington Avenue, Boston, MA 02116",
-    "neighborhood": "Back Bay"
+    "neighborhood": "Back Bay",
+    "slug": "the-colonnade-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "boston-5",
@@ -31241,7 +32465,13 @@
     "petFee": 70,
     "petPolicy": "Hilton Boston Downtown/Faneuil Hall is listed on Booking.com as pet-friendly under Hilton's brand pet policy (dogs up to 75 lbs, fee typically USD 75 per stay). Located in the Financial District, walking distance from Faneuil Hall Marketplace and the North End. Please confirm size, number of pets and exact fee with the property when booking.",
     "address": "89 Broad Street, Boston, MA 02110",
-    "neighborhood": "Financial District"
+    "neighborhood": "Financial District",
+    "slug": "hilton-boston-downtown-faneuil-hall",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €70 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "chicago-1",
@@ -31261,7 +32491,13 @@
     "petFee": 0,
     "petPolicy": "Kimpton Hotel Monaco Chicago welcomes two pets of any size for no additional fee; both dogs and cats accepted, well-behaved pets may be left in the room unattended, with bowls, beds and treats on arrival. Boutique hotel at North Wabash and East Wacker, two blocks from the Chicago Riverwalk and walking distance from State Street shopping. Please confirm with the property when booking.",
     "address": "225 North Wabash Avenue, Chicago, IL 60601",
-    "neighborhood": "The Loop"
+    "neighborhood": "The Loop",
+    "slug": "kimpton-hotel-monaco-chicago",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "chicago-2",
@@ -31281,7 +32517,13 @@
     "petFee": 0,
     "petPolicy": "Kimpton Gray Hotel follows the Kimpton pet policy: pets of any size, weight or breed welcome at no extra charge. Boutique 4-star hotel in a 1894 landmark building in the Financial District, walking distance from Willis Tower and the Art Institute of Chicago. Please confirm with the property when booking.",
     "address": "122 West Monroe Street, Chicago, IL 60603",
-    "neighborhood": "The Loop"
+    "neighborhood": "The Loop",
+    "slug": "kimpton-gray-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "chicago-3",
@@ -31300,7 +32542,13 @@
     "petFee": 115,
     "petPolicy": "Hotel EMC2 allows two dogs of any size for an additional fee of approximately USD 125 per stay (cats not accepted). Dogs may be left unattended with a signed waiver; dog beds, bowls and treats available at the front desk. Science-and-art themed boutique hotel in Streeterville, walking distance from the Magnificent Mile and Northwestern Memorial Hospital. Please confirm with the property when booking.",
     "address": "228 East Ontario Street, Chicago, IL 60611",
-    "neighborhood": "Streeterville"
+    "neighborhood": "Streeterville",
+    "slug": "hotel-emc2-autograph-collection",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €115 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "chicago-4",
@@ -31319,7 +32567,13 @@
     "petFee": 70,
     "petPolicy": "Hotel Lincoln allows one pet up to 30 lbs for an additional fee of approximately USD 75 per stay (1-6 nights) or USD 150 (7-30 nights); both dogs and cats welcome. Quirky boutique hotel overlooking Lincoln Park and the Chicago skyline, with rooftop bar, walking distance from Lincoln Park Zoo. Please confirm with the property when booking.",
     "address": "1816 North Clark Street, Chicago, IL 60614",
-    "neighborhood": "Lincoln Park"
+    "neighborhood": "Lincoln Park",
+    "slug": "hotel-lincoln-jdv-by-hyatt",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €70 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "chicago-5",
@@ -31338,7 +32592,13 @@
     "petFee": 0,
     "petPolicy": "Sofitel Chicago Magnificent Mile is listed on Booking.com as pet-friendly. Striking glass triangular tower steps from the Magnificent Mile and Water Tower Place, in the Gold Coast neighborhood. Pets accepted on request; size limits and fees may apply. Please confirm with the property when booking.",
     "address": "20 East Chestnut Street, Chicago, IL 60611",
-    "neighborhood": "Gold Coast"
+    "neighborhood": "Gold Coast",
+    "slug": "sofitel-chicago-magnificent-mile",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "san-francisco-1",
@@ -31358,7 +32618,13 @@
     "petFee": 0,
     "petPolicy": "Kimpton Sir Francis Drake follows the Kimpton brand policy: pets of any size, weight or breed welcome at no extra charge. Free morning coffee/tea and evening wine hour included. Historic boutique hotel a half-block from Union Square and three blocks from Chinatown's Dragon's Gate. Please confirm with the property when booking.",
     "address": "450 Powell Street, San Francisco, CA 94102",
-    "neighborhood": "Union Square"
+    "neighborhood": "Union Square",
+    "slug": "kimpton-sir-francis-drake-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "san-francisco-2",
@@ -31377,7 +32643,13 @@
     "petFee": 0,
     "petPolicy": "Kimpton Buchanan welcomes pets of all sizes, breeds and weights free of charge under the Kimpton brand policy. Boutique hotel in Japantown, walking distance from the Japan Center, Peace Pagoda and Fillmore Street boutiques. Please confirm with the property when booking.",
     "address": "1800 Sutter Street, San Francisco, CA 94115",
-    "neighborhood": "Japantown"
+    "neighborhood": "Japantown",
+    "slug": "kimpton-buchanan-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "3-star comfort"
+    ]
   },
   {
     "id": "san-francisco-3",
@@ -31397,7 +32669,13 @@
     "petFee": 95,
     "petPolicy": "Argonaut Hotel welcomes dogs of any size with a pet fee of approximately USD 100 per stay. Welcome package with treats, toys and a bed; pet-sitting and dog-walking services on request; dog-friendly happy hour in the lobby. Nautical-themed boutique hotel in historic Fisherman's Wharf, steps from Hyde Street Pier and Ghirardelli Square. Please confirm with the property when booking.",
     "address": "495 Jefferson Street, San Francisco, CA 94109",
-    "neighborhood": "Fisherman's Wharf"
+    "neighborhood": "Fisherman's Wharf",
+    "slug": "argonaut-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €95 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "san-francisco-4",
@@ -31416,7 +32694,13 @@
     "petFee": 60,
     "petPolicy": "Hotel Nikko welcomes dogs up to 50 lbs for approximately USD 65 per dog per night, with a refundable USD 150 cleaning deposit. Pet Pride package includes welcome treats, toys, bed and access to a rooftop pet terrace and dog run. Modern luxury hotel in the heart of Union Square. Please confirm with the property when booking.",
     "address": "222 Mason Street, San Francisco, CA 94102",
-    "neighborhood": "Union Square"
+    "neighborhood": "Union Square",
+    "slug": "hotel-nikko-san-francisco",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €60 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "san-francisco-5",
@@ -31436,7 +32720,13 @@
     "petFee": 70,
     "petPolicy": "Hotel Zephyr is listed on Booking.com as pet-friendly; pets typically accepted for a fee of approximately USD 75 per stay (confirm size and number with property). Playful waterfront boutique hotel on Fisherman's Wharf with outdoor playground and views of Alcatraz, walking distance from Pier 39. Please confirm with the property when booking.",
     "address": "250 Beach Street, San Francisco, CA 94133",
-    "neighborhood": "Fisherman's Wharf"
+    "neighborhood": "Fisherman's Wharf",
+    "slug": "hotel-zephyr-fishermans-wharf",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €70 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "los-angeles-1",
@@ -31456,7 +32746,13 @@
     "petFee": 0,
     "petPolicy": "Kimpton La Peer welcomes pets of any size in designated rooms for no additional fee; both dogs and cats accepted. Grassy pet-relief area in front of the hotel; plush pet-bed loaners, bowls and concierge list of pet-friendly spots provided. Boutique design hotel in West Hollywood's Design District, walking distance from Melrose Avenue. Please confirm with the property when booking.",
     "address": "627 North La Peer Drive, West Hollywood, CA 90069",
-    "neighborhood": "West Hollywood"
+    "neighborhood": "West Hollywood",
+    "slug": "kimpton-la-peer-hotel-west-hollywood",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "4-star comfort"
+    ]
   },
   {
     "id": "los-angeles-2",
@@ -31475,7 +32771,13 @@
     "petFee": 45,
     "petPolicy": "Hotel Figueroa welcomes up to two dogs up to 50 lbs for an additional fee of approximately USD 50 per stay (cats not accepted). Doggie welcome kit with treats, toys and bed; small grassy pet-relief area on site plus dog park one block away. Historic 1926 hotel in Downtown LA across from LA Live and Crypto.com Arena. Please confirm with the property when booking.",
     "address": "939 South Figueroa Street, Los Angeles, CA 90015",
-    "neighborhood": "Downtown LA"
+    "neighborhood": "Downtown LA",
+    "slug": "hotel-figueroa-unbound-collection-by-hyatt",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €45 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "los-angeles-3",
@@ -31494,7 +32796,13 @@
     "petFee": 95,
     "petPolicy": "Loews Hollywood follows the Loews Loves Pets program: pets of any size welcome (typical fee approximately USD 100 per stay), with bedding, water bowls and doggie goodie bags provided. Gourmet pet room-service menu and dog-walking route maps at the front desk. Modern high-rise hotel adjoining the Dolby Theatre on Hollywood Boulevard. Please confirm with the property when booking.",
     "address": "1755 North Highland Avenue, Los Angeles, CA 90028",
-    "neighborhood": "Hollywood"
+    "neighborhood": "Hollywood",
+    "slug": "loews-hollywood-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €95 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "los-angeles-4",
@@ -31514,7 +32822,13 @@
     "petFee": 95,
     "petPolicy": "Shore Hotel Santa Monica is listed on Booking.com as pet-friendly; dogs typically accepted for a fee of approximately USD 100 per stay (confirm size limits with property). Eco-friendly LEED-certified boutique hotel across from Santa Monica Pier and the beach, with outdoor pool. Please confirm with the property when booking.",
     "address": "1515 Ocean Avenue, Santa Monica, CA 90401",
-    "neighborhood": "Santa Monica"
+    "neighborhood": "Santa Monica",
+    "slug": "shore-hotel-santa-monica",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €95 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "los-angeles-5",
@@ -31534,7 +32848,13 @@
     "petFee": 95,
     "petPolicy": "The Hollywood Roosevelt is listed on Tripadvisor and Booking.com as pet-friendly; dogs typically accepted for a fee of approximately USD 100 per stay (confirm size with property). Iconic 1927 Spanish Colonial Revival hotel on Hollywood Boulevard, across from the TCL Chinese Theatre, with outdoor pool painted by David Hockney. Please confirm with the property when booking.",
     "address": "7000 Hollywood Boulevard, Los Angeles, CA 90028",
-    "neighborhood": "Hollywood"
+    "neighborhood": "Hollywood",
+    "slug": "the-hollywood-roosevelt",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €95 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "miami-1",
@@ -31554,7 +32874,13 @@
     "petFee": 0,
     "petPolicy": "Kimpton Surfcomber welcomes pets of any size, weight or breed at no extra charge under the Kimpton brand policy. Welcome gift bag at check-in and social hours where dogs get pup cups. Art-deco beachfront hotel directly on South Beach with outdoor pool. Please confirm with the property when booking.",
     "address": "1717 Collins Avenue, Miami Beach, FL 33139",
-    "neighborhood": "South Beach"
+    "neighborhood": "South Beach",
+    "slug": "kimpton-surfcomber-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "miami-2",
@@ -31573,7 +32899,13 @@
     "petFee": 0,
     "petPolicy": "Kimpton EPIC welcomes pets of any size at no extra charge under the Kimpton brand policy; dog beds and toys available on loan during the stay. 5-star high-rise on the Miami River in Downtown Miami with two rooftop pools, walking distance from Bayside Marketplace. Please confirm with the property when booking.",
     "address": "270 Biscayne Boulevard Way, Miami, FL 33131",
-    "neighborhood": "Downtown Miami"
+    "neighborhood": "Downtown Miami",
+    "slug": "kimpton-epic-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "5-star comfort"
+    ]
   },
   {
     "id": "miami-3",
@@ -31593,7 +32925,13 @@
     "petFee": 95,
     "petPolicy": "Loews Miami Beach follows the Loews Loves Pets program: pets welcome (fee typically around USD 100 per stay) with specialty room-service menu, bedding and water bowls provided. Large beachfront resort on Collins Avenue in South Beach with outdoor pools and direct beach access. Please confirm size limits and current fee with the property when booking.",
     "address": "1601 Collins Avenue, Miami Beach, FL 33139",
-    "neighborhood": "South Beach"
+    "neighborhood": "South Beach",
+    "slug": "loews-miami-beach-hotel",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €95 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "miami-4",
@@ -31613,7 +32951,13 @@
     "petFee": 140,
     "petPolicy": "Fontainebleau Miami Beach welcomes pets up to 50 lbs with a complimentary dog tag at check-in; pet fee typically around USD 150 per stay. On-site dog park, in-room pet movies and spacious pet-friendly accommodations. Iconic mid-century beachfront resort on Collins Avenue with multiple pools and direct beach access. Please confirm with the property when booking.",
     "address": "4441 Collins Avenue, Miami Beach, FL 33140",
-    "neighborhood": "Mid-Beach"
+    "neighborhood": "Mid-Beach",
+    "slug": "fontainebleau-miami-beach",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €140 as listed on Booking",
+      "Beach/coast property"
+    ]
   },
   {
     "id": "miami-5",
@@ -31633,7 +32977,13 @@
     "petFee": 95,
     "petPolicy": "Mondrian South Beach is listed on Booking.com and pet-friendly Miami Beach directories as pet-friendly; dogs typically accepted for a fee of approximately USD 100 per stay (confirm size with property). Chic Marcel Wanders-designed hotel on Biscayne Bay in West Avenue, with bayfront pool and views of the Miami skyline. Please confirm with the property when booking.",
     "address": "1100 West Avenue, Miami Beach, FL 33139",
-    "neighborhood": "West Avenue"
+    "neighborhood": "West Avenue",
+    "slug": "mondrian-south-beach",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Pet fee €95 as listed on Booking",
+      "4-star comfort"
+    ]
   },
   {
     "id": "villefranche-sur-mer-1",

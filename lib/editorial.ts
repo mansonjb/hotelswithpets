@@ -641,6 +641,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Piazza del Duomo and the Basilica di Santa Croce, the Roman amphitheatre on Piazza Sant'Oronzo, and the Salento dog beaches at Punta Prosciutto and Frassanito`,
       area: `the centro storico around Piazza Sant'Oronzo, the Mazzini quarter near the station, and the residential Borgo Piave`,
     },
+    leiden: {
+      personality: `the Netherlands' oldest university city (founded 1575) and Rembrandt's birthplace, a compact canal town of 125,000 inside a ring of 17th-century singel canals where the 12th-century Burcht van Leiden circular castle on its artificial hill, the Hooglandse Kerk, the Pieterskerk with the Mayflower Pilgrim Fathers' memorial (the congregation worshipped here 1609-1620 before sailing for the New World), the Rapenburg canal, the 1575 Universiteit Academiegebouw, the Hortus Botanicus (oldest botanical garden in NL, 1590) and the Molen De Valk windmill all sit inside the new 6 km Singelpark green ring, 35 minutes by NS train from Amsterdam Centraal and 12 minutes from Den Haag Centraal`,
+      highlight: `the Burcht van Leiden ramparts (free, panoramic, leashed dogs welcome 24/7), the Rapenburg-Pieterskerk Pilgrim Fathers walk, and the Katwijk / Noordwijk North Sea dog beaches reached in 25-30 minutes by Connexxion bus 30/31`,
+      area: `the Centrum inside the singels around the Burcht and the Rapenburg, the Leidse Hout city forest north of the station, and the Polderpark Cronesteyn south of the centre`,
+    },
     leipzig: {
       personality: `Saxony's musical capital and the city of Bach, 5,500-hectare Auenwald floodplain forest in the centre, the dog-friendly Karl-Heine-Kanal towpath, 11 fenced Hundeauslaufzonen and a year-round Hundestrand at Cospudener See 12 min by S-Bahn`,
       highlight: `the Auenwald floodplain forest, the Cospudener See dog beach, and the Karl-Heine-Kanal towpath linking Plagwitz to the Karli district`,
@@ -1914,6 +1919,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la Piazza del Duomo et la Basilica di Santa Croce, l'amphithéâtre romain de la Piazza Sant'Oronzo, et les plages canines du Salento à Punta Prosciutto et Frassanito`,
       area: `le centro storico autour de la Piazza Sant'Oronzo, le quartier Mazzini près de la gare et le résidentiel Borgo Piave`,
     },
+    leiden: {
+      personality: `la plus ancienne ville universitaire des Pays-Bas (fondée en 1575) et le berceau de Rembrandt, ville-canal compacte de 125 000 habitants enserrée dans un anneau de singels du XVIIe siècle où le château circulaire Burcht van Leiden du XIIe siècle sur sa motte artificielle, la Hooglandse Kerk, la Pieterskerk avec le mémorial des Pères Pèlerins du Mayflower (la congrégation y a prié de 1609 à 1620 avant de partir pour le Nouveau Monde), le canal Rapenburg, l'Academiegebouw de l'Université de 1575, le Hortus Botanicus (plus ancien jardin botanique des Pays-Bas, 1590) et le moulin Molen De Valk tiennent tous à l'intérieur du nouvel anneau vert Singelpark de 6 km, à 35 minutes en train NS d'Amsterdam Centraal et 12 minutes de La Haye Centraal`,
+      highlight: `les remparts de la Burcht van Leiden (gratuits, panoramiques, chiens en laisse acceptés 24h/24), la balade Rapenburg-Pieterskerk des Pères Pèlerins et les plages chiens en mer du Nord de Katwijk et Noordwijk à 25-30 minutes en bus Connexxion 30/31`,
+      area: `le Centrum à l'intérieur des singels autour de la Burcht et du Rapenburg, le bois urbain Leidse Hout au nord de la gare et le Polderpark Cronesteyn au sud du centre`,
+    },
     leipzig: {
       personality: `la capitale musicale de la Saxe et la ville de Bach, forêt alluviale Auenwald de 5 500 hectares au centre, chemin de halage dog-friendly du Karl-Heine-Kanal, 11 Hundeauslaufzonen clôturées et une Hundestrand toute l'année au Cospudener See à 12 min en S-Bahn`,
       highlight: `la forêt alluviale Auenwald, la plage canine du Cospudener See et le chemin de halage du Karl-Heine-Kanal qui relie Plagwitz au quartier Karli`,
@@ -3186,6 +3196,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la Piazza del Duomo y la Basilica di Santa Croce, el anfiteatro romano de la Piazza Sant'Oronzo, y las playas caninas del Salento en Punta Prosciutto y Frassanito`,
       area: `el centro storico alrededor de la Piazza Sant'Oronzo, el barrio Mazzini cerca de la estación y el residencial Borgo Piave`,
     },
+    leiden: {
+      personality: `la ciudad universitaria más antigua de los Países Bajos (fundada en 1575) y cuna de Rembrandt, compacta ciudad de canales de 125.000 habitantes encerrada en un anillo de singels del siglo XVII donde el castillo circular Burcht van Leiden del siglo XII sobre su loma artificial, la Hooglandse Kerk, la Pieterskerk con el memorial de los Padres Peregrinos del Mayflower (la congregación oró aquí entre 1609 y 1620 antes de partir al Nuevo Mundo), el canal Rapenburg, el Academiegebouw de la Universidad de 1575, el Hortus Botanicus (jardín botánico más antiguo de los Países Bajos, 1590) y el molino Molen De Valk caben todos dentro del nuevo anillo verde Singelpark de 6 km, a 35 minutos en tren NS de Ámsterdam Centraal y 12 minutos de La Haya Centraal`,
+      highlight: `las murallas de la Burcht van Leiden (gratis, panorámicas, perros con correa admitidos 24/7), el paseo Rapenburg-Pieterskerk de los Padres Peregrinos y las playas para perros del Mar del Norte de Katwijk y Noordwijk a 25-30 minutos en autobús Connexxion 30/31`,
+      area: `el Centrum dentro de los singels en torno a la Burcht y el Rapenburg, el bosque urbano Leidse Hout al norte de la estación y el Polderpark Cronesteyn al sur del centro`,
+    },
     leipzig: {
       personality: `la capital musical de Sajonia y la ciudad de Bach, bosque aluvial Auenwald de 5 500 hectáreas en el centro, camino de sirga dog-friendly del Karl-Heine-Kanal, 11 Hundeauslaufzonen valladas y una Hundestrand todo el año en el Cospudener See a 12 min en S-Bahn`,
       highlight: `el bosque aluvial Auenwald, la playa canina del Cospudener See y el camino de sirga del Karl-Heine-Kanal que conecta Plagwitz con el barrio Karli`,
@@ -4457,6 +4472,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a « Florencia do sul », centro storico barroco UNESCO tallado enteramente en pietra leccese color miel, cultura do café tolerante do Salento e praias caninas o ano inteiro en Punta Prosciutto e Frassanito a 30-45 min de carro`,
       highlight: `a Piazza do Duomo e a Basilica di Santa Croce, o anfiteatro romano da Piazza Sant'Oronzo, e as praias caninas do Salento en Punta Prosciutto e Frassanito`,
       area: `o centro storico alrededor da Piazza Sant'Oronzo, o bairro Mazzini perto da estação e o residencial Borgo Piave`,
+    },
+    leiden: {
+      personality: `a mais antiga cidade universitária dos Países Baixos (fundada em 1575) e berço de Rembrandt, compacta cidade de canais de 125 000 habitantes fechada num anel de singels do século XVII onde o castelo circular Burcht van Leiden do século XII sobre o seu outeiro artificial, a Hooglandse Kerk, a Pieterskerk com o memorial dos Pais Peregrinos do Mayflower (a congregação aí rezou entre 1609 e 1620 antes de partir para o Novo Mundo), o canal Rapenburg, o Academiegebouw da Universidade de 1575, o Hortus Botanicus (jardim botânico mais antigo dos Países Baixos, 1590) e o moinho Molen De Valk cabem todos dentro do novo anel verde Singelpark de 6 km, a 35 minutos de comboio NS de Amesterdão Centraal e 12 minutos de Haia Centraal`,
+      highlight: `as muralhas da Burcht van Leiden (gratuitas, panorâmicas, cães com trela admitidos 24/7), o passeio Rapenburg-Pieterskerk dos Pais Peregrinos e as praias para cães do Mar do Norte de Katwijk e Noordwijk a 25-30 minutos de autocarro Connexxion 30/31`,
+      area: `o Centrum dentro dos singels em torno da Burcht e do Rapenburg, a mata urbana Leidse Hout a norte da estação e o Polderpark Cronesteyn a sul do centro`,
     },
     leipzig: {
       personality: `a capital musical de Sajonia e a cidade de Bach, floresta aluvial Auenwald de 5 500 hectáreas no centro, camino de sirga pet-friendly do Karl-Heine-Kanal, 11 Hundeauslaufzonen valladas e uma Hundestrand o ano inteiro no Cospudener See a 12 min en S-Bahn`,

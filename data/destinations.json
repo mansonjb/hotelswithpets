@@ -9339,6 +9339,33 @@
     "iata": "BDS"
   },
   {
+    "slug": "leiden",
+    "name": "Leiden",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "flag": "🇳🇱",
+    "categoryCount": 7,
+    "heroImage": "/images/destinations/leiden.jpg",
+    "intro": "Leiden is the oldest university city in the Netherlands (founded 1575), Rembrandt's birthplace, and the Pilgrim Fathers' refuge between 1609 and 1620, a compact canal town of 125,000 inside a ring of 17th-century singel canals where the Burcht van Leiden (12th-century circular castle on an artificial hill, the only of its kind in NL), the Late-Gothic Hooglandse Kerk, the Pieterskerk with its Mayflower memorial, the Rapenburg canal, the 1575 Universiteit Academiegebouw, the Hortus Botanicus (oldest botanical garden in the Netherlands, 1590), the Molen De Valk windmill and the Plantage (oldest urban park in NL, 1656) cluster inside the new 6 km Singelpark green ring. The 33-hectare Leidse Hout and the 100-hectare Polderpark Cronesteyn have fenced off-leash dog meadows; the Katwijk dog beach is 10 km, Noordwijk 14 km, Wassenaarse Slag 15 km. NS IC trains reach Amsterdam Centraal in 35 minutes, Den Haag in 12 minutes, Rotterdam in 25 minutes, Schiphol Airport in 17 minutes; dogs free in a carrier, €3.30 Dagkaart Hond for larger dogs. Connexxion bus 30/31 runs to Katwijk and Noordwijk beaches in 25-30 min; bus 57 threads the Bollenstreek tulip fields in April-May.",
+    "lat": 52.1601,
+    "lng": 4.4970,
+    "weather": {
+      "jan": { "temp": 4, "desc": "Cold & grey", "icon": "🌧️" },
+      "feb": { "temp": 5, "desc": "Cool & overcast", "icon": "🌧️" },
+      "mar": { "temp": 8, "desc": "Cool & showery", "icon": "🌦️" },
+      "apr": { "temp": 11, "desc": "Mild, tulip season", "icon": "🌷" },
+      "may": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
+      "jun": { "temp": 18, "desc": "Mild & pleasant", "icon": "⛅" },
+      "jul": { "temp": 20, "desc": "Warm & breezy", "icon": "🌤️" },
+      "aug": { "temp": 20, "desc": "Warm & breezy", "icon": "🌤️" },
+      "sep": { "temp": 17, "desc": "Mild & pleasant", "icon": "⛅" },
+      "oct": { "temp": 13, "desc": "Cool & rainy, hutspot feast Oct 3", "icon": "🌦️" },
+      "nov": { "temp": 8, "desc": "Cool & overcast", "icon": "🌦️" },
+      "dec": { "temp": 5, "desc": "Cool & overcast", "icon": "🌧️" }
+    },
+    "iata": "AMS"
+  },
+  {
     "slug": "leipzig",
     "name": "Leipzig",
     "country": "Germany",

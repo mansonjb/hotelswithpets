@@ -1,0 +1,845 @@
+{
+  "slug": "leiden",
+  "name": "Leiden",
+  "country": "Netherlands",
+  "flag": "🇳🇱",
+  "lastUpdated": "2026-06-14",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Leiden, Rapenburg Canal & Beestenmarkt Terraces",
+      "titleFr": "Restaurants acceptant les chiens à Leiden, canal Rapenburg et terrasses du Beestenmarkt",
+      "titleEs": "Restaurantes para perros en Leiden, canal Rapenburg y terrazas del Beestenmarkt",
+      "titlePt": "Restaurantes para cães em Leiden, canal Rapenburg e esplanadas do Beestenmarkt",
+      "introEn": "Leiden is the Netherlands' oldest university city (founded 1575) and the birthplace of Rembrandt, a compact canal town of 125,000 inside a ring of 17th-century singel canals where the Rapenburg, the Nieuwe Rijn and the Oude Rijn line up bruine cafés and brasserie terraces that almost universally welcome dogs. Water bowls appear without asking on the Hooglandse Kerkgracht and Pieterskerkhof, and the cafés around the Beestenmarkt and the Pieterskerk square run dog-friendly schedules from breakfast to last call. The three addresses below are reliable year-round and have a strong word-of-mouth track record with local dog owners.",
+      "introFr": "Leiden est la plus ancienne ville universitaire des Pays-Bas (fondée en 1575) et le berceau de Rembrandt, ville-canal compacte de 125 000 habitants enserrée dans un anneau de singels du XVIIe siècle où le Rapenburg, le Nieuwe Rijn et l'Oude Rijn alignent bruine cafés et terrasses de brasserie qui acceptent presque toutes les chiens. Les gamelles d'eau apparaissent sans demander sur le Hooglandse Kerkgracht et le Pieterskerkhof, et les cafés autour du Beestenmarkt et de la Pieterskerk fonctionnent en mode dog-friendly du petit-déjeuner au dernier service. Les trois adresses ci-dessous sont fiables toute l'année et bénéficient d'un solide bouche-à-oreille auprès des propriétaires de chiens locaux.",
+      "introEs": "Leiden es la ciudad universitaria más antigua de los Países Bajos (fundada en 1575) y la cuna de Rembrandt, una compacta ciudad de canales de 125.000 habitantes encerrada en un anillo de singels del siglo XVII donde el Rapenburg, el Nieuwe Rijn y el Oude Rijn alinean bruine cafés y terrazas de brasserie que admiten perros casi sin excepción. Los cuencos de agua aparecen sin pedirlos en Hooglandse Kerkgracht y Pieterskerkhof, y los cafés en torno al Beestenmarkt y la Pieterskerk funcionan en modo pet-friendly desde el desayuno hasta el último servicio. Las tres direcciones siguientes son fiables todo el año y cuentan con sólida reputación entre los dueños de perros locales.",
+      "introPt": "Leiden é a mais antiga cidade universitária dos Países Baixos (fundada em 1575) e o berço de Rembrandt, uma compacta cidade de canais de 125 000 habitantes fechada num anel de singels do século XVII onde o Rapenburg, o Nieuwe Rijn e o Oude Rijn alinham bruine cafés e esplanadas de brasserie que aceitam cães quase sem exceção. As tigelas de água aparecem sem pedir em Hooglandse Kerkgracht e Pieterskerkhof, e os cafés em torno do Beestenmarkt e da Pieterskerk funcionam em modo pet-friendly do pequeno-almoço ao último serviço. Os três endereços abaixo são fiáveis o ano inteiro e gozam de excelente reputação entre os donos de cães locais.",
+      "places": [
+        {
+          "name": "Grand Café Pakhuis",
+          "address": "Doelensteeg 8, 2311 VL Leiden",
+          "neighborhood": "Centrum",
+          "photo": "/images/city-places/leiden-restaurants-grand-cafe-pakhuis.jpg",
+          "website": "https://www.pakhuisleiden.nl/",
+          "description": "A converted 17th-century warehouse on a quiet side street off the Rapenburg, two minutes' walk from the Universiteit and the Hortus Botanicus. The cavernous wood-and-brick interior, the long zinc bar and the heated outer terrace all welcome leashed dogs; water bowls and a basket of dog biscuits live at the bar. Open all day for broodjes, Dutch classics and a long Belgian beer list. One of the most consistent dog-friendly addresses in the centre.",
+          "descriptionFr": "Entrepôt du XVIIe siècle reconverti dans une ruelle calme à l'écart du Rapenburg, à deux minutes à pied de l'Université et du Hortus Botanicus. L'intérieur caverneux bois-et-brique, le long bar en zinc et la terrasse extérieure chauffée acceptent tous les chiens en laisse ; gamelles d'eau et panier de biscuits pour chiens au bar. Ouvert toute la journée pour broodjes, classiques néerlandais et longue carte de bières belges. L'une des adresses dog-friendly les plus régulières du centre.",
+          "descriptionEs": "Almacén del siglo XVII reconvertido en una callejuela tranquila apartada del Rapenburg, a dos minutos a pie de la Universidad y del Hortus Botanicus. El cavernoso interior madera-y-ladrillo, la larga barra de zinc y la terraza exterior climatizada admiten todos los perros con correa; cuencos de agua y cesta de galletas para perros en la barra. Abierto todo el día para broodjes, clásicos neerlandeses y larga carta de cervezas belgas. Una de las direcciones pet-friendly más constantes del centro.",
+          "descriptionPt": "Armazém do século XVII reconvertido numa ruela tranquila à parte do Rapenburg, a dois minutos a pé da Universidade e do Hortus Botanicus. O cavernoso interior madeira-e-tijolo, o longo balcão de zinco e a esplanada exterior climatizada aceitam todos os cães com trela; tigelas de água e cesto de bolachas para cães ao balcão. Aberto o dia inteiro para broodjes, clássicos neerlandeses e longa carta de cervejas belgas. Um dos endereços pet-friendly mais regulares do centro.",
+          "petPolicy": "Dogs welcome on the heated outdoor terrace and inside the warehouse hall; dog biscuits at the bar",
+          "petPolicyFr": "Chiens acceptés sur la terrasse chauffée extérieure et à l'intérieur de la halle ; biscuits pour chiens au bar",
+          "petPolicyEs": "Perros admitidos en la terraza climatizada exterior y dentro de la nave; galletas para perros en la barra",
+          "petPolicyPt": "Cães admitidos na esplanada climatizada exterior e dentro do armazém; bolachas para cães ao balcão",
+          "priceRange": "€€",
+          "mustTry": "Bitterballen platter, Pakhuis burger, Leidse hutspot in winter, La Trappe trappist on draft",
+          "mustTryFr": "Plateau de bitterballen, burger Pakhuis, hutspot de Leiden en hiver, La Trappe trappiste à la pression",
+          "mustTryEs": "Tabla de bitterballen, burger Pakhuis, hutspot de Leiden en invierno, La Trappe trapense de barril",
+          "mustTryPt": "Tábua de bitterballen, burger Pakhuis, hutspot de Leiden no inverno, La Trappe trapista de pressão",
+          "openingHours": "Daily 10:00-01:00",
+          "tip": "On a quiet afternoon ask for one of the heavy oak corner tables under the beams, dog gets the cool stone floor and you get a view straight down the Doelensteeg to the Rapenburg canal.",
+          "tipFr": "L'après-midi, demandez une des grosses tables d'angle en chêne sous les poutres, le chien profite du sol en pierre fraîche et vous avez une vue droite sur la Doelensteeg jusqu'au Rapenburg.",
+          "tipEs": "Por la tarde pide una de las grandes mesas de esquina en roble bajo las vigas, el perro disfruta del frescor del suelo de piedra y tú tienes vista directa por Doelensteeg hasta el Rapenburg.",
+          "tipPt": "À tarde pede uma das pesadas mesas de canto em carvalho sob as vigas, o cão aproveita o frio do chão de pedra e tens vista direta pela Doelensteeg até ao Rapenburg.",
+          "googleMapsUrl": "https://maps.google.com/?q=Grand+Cafe+Pakhuis+Leiden"
+        },
+        {
+          "name": "Annie's Verjaardag",
+          "address": "Hoogstraat 1a, 2311 TT Leiden",
+          "neighborhood": "Centrum",
+          "photo": "/images/city-places/leiden-restaurants-annies-verjaardag.jpg",
+          "website": "https://www.annies.nu/",
+          "description": "The single most photographed terrace in Leiden, a floating quay café right at the confluence of the Nieuwe Rijn and the Oude Rijn under the Visbrug bridge, with the Hooglandse Kerk rising behind. The huge waterfront terrace and the brick-vaulted cellar interior welcome leashed dogs; water bowls on arrival. Locals come for the views and the long aperitif hours, expect to wait on sunny afternoons. The dog-and-canal photo is the best in town.",
+          "descriptionFr": "La terrasse la plus photographiée de Leiden, café-péniche sur le quai au confluent du Nieuwe Rijn et de l'Oude Rijn sous le pont Visbrug, avec la Hooglandse Kerk en fond. L'immense terrasse au bord de l'eau et l'intérieur voûté en briques acceptent les chiens en laisse ; gamelles d'eau à l'arrivée. Les locaux y viennent pour la vue et les longues heures d'apéro, prévoyez l'attente par après-midi ensoleillé. La photo chien-et-canal la plus réussie de la ville.",
+          "descriptionEs": "La terraza más fotografiada de Leiden, café-barcaza en el muelle de la confluencia del Nieuwe Rijn y el Oude Rijn bajo el puente Visbrug, con la Hooglandse Kerk al fondo. La inmensa terraza junto al agua y el interior abovedado en ladrillo admiten perros con correa; cuencos de agua a la llegada. Los vecinos vienen por las vistas y las largas horas de aperitivo, prevé espera en tardes soleadas. La foto perro-y-canal más conseguida de la ciudad.",
+          "descriptionPt": "A esplanada mais fotografada de Leiden, café-barcaça no cais da confluência do Nieuwe Rijn e do Oude Rijn sob a ponte Visbrug, com a Hooglandse Kerk ao fundo. A imensa esplanada à beira de água e o interior abobadado em tijolo aceitam cães com trela; tigelas de água à chegada. Os locais vêm pelas vistas e pelas longas horas de aperitivo, conta com espera nas tardes solarengas. A foto cão-e-canal mais conseguida da cidade.",
+          "petPolicy": "Dogs welcome on the waterfront terrace and in the brick-vaulted cellar; water bowls on arrival",
+          "petPolicyFr": "Chiens acceptés sur la terrasse au bord de l'eau et dans la cave voûtée en briques ; gamelles d'eau à l'arrivée",
+          "petPolicyEs": "Perros admitidos en la terraza junto al agua y en el sótano abovedado de ladrillo; cuencos de agua a la llegada",
+          "petPolicyPt": "Cães admitidos na esplanada à beira de água e na cave abobadada em tijolo; tigelas de água à chegada",
+          "priceRange": "€€",
+          "mustTry": "Tosti met oude kaas, broodje kroket, Leidse kaas plate with mustard, Bavaria pilsner on tap",
+          "mustTryFr": "Tosti au vieux fromage, broodje kroket, plateau de fromage de Leiden à la moutarde, pils Bavaria à la pression",
+          "mustTryEs": "Tosti con queso curado, broodje kroket, tabla de queso de Leiden con mostaza, pils Bavaria de barril",
+          "mustTryPt": "Tosti com queijo curado, broodje kroket, tábua de queijo de Leiden com mostarda, pils Bavaria de pressão",
+          "openingHours": "Daily 10:00-01:00",
+          "tip": "Aim for 17:00 on a clear evening, the sun drops behind the Hooglandse Kerk and lights the bricks of the Visbrug bridge in gold, your dog gets the canal-cool quay stone and you get the postcard view.",
+          "tipFr": "Visez 17h par soir clair, le soleil tombe derrière la Hooglandse Kerk et dore les briques du pont Visbrug, le chien profite de la pierre fraîche du quai et vous avez la vue carte postale.",
+          "tipEs": "Apunta a las 17:00 en una tarde despejada, el sol cae detrás de la Hooglandse Kerk y dora los ladrillos del puente Visbrug, tu perro disfruta de la piedra fresca del muelle y tú tienes la vista de postal.",
+          "tipPt": "Aponta para as 17:00 numa tarde clara, o sol cai por detrás da Hooglandse Kerk e doura os tijolos da ponte Visbrug, o teu cão aproveita a pedra fresca do cais e tens a vista de postal.",
+          "googleMapsUrl": "https://maps.google.com/?q=Annies+Verjaardag+Leiden"
+        },
+        {
+          "name": "Café de WW",
+          "address": "Wolsteeg 4, 2312 EM Leiden",
+          "neighborhood": "Centrum",
+          "photo": "/images/city-places/leiden-restaurants-cafe-de-ww.jpg",
+          "website": "https://cafedeww.nl/",
+          "description": "A classic Leiden brown café (bruine kroeg) tucked in a narrow alley between the Breestraat and the Pieterskerk, beloved by students and locals for late lunches, board-game afternoons and quiet beers. Dogs are welcome on every seat inside and on the handful of pavement tables in summer; the kitchen runs a short menu of broodjes, soups and Dutch comfort food, and the bartender keeps water bowls behind the bar.",
+          "descriptionFr": "Bruine kroeg classique de Leiden niché dans une ruelle étroite entre le Breestraat et la Pieterskerk, aimé des étudiants et des locaux pour les déjeuners tardifs, les après-midis jeux de société et les bières calmes. Chiens acceptés sur toutes les places à l'intérieur et sur quelques tables sur le trottoir en été ; la cuisine propose une carte courte de broodjes, soupes et plats réconfortants néerlandais, et le barman garde des gamelles d'eau derrière le bar.",
+          "descriptionEs": "Bruine kroeg clásico de Leiden encajado en un callejón estrecho entre Breestraat y la Pieterskerk, querido por estudiantes y vecinos para almuerzos tardíos, tardes de juegos de mesa y cervezas tranquilas. Perros admitidos en todos los asientos del interior y en las pocas mesas en la acera en verano; la cocina ofrece una carta corta de broodjes, sopas y comfort food neerlandés, y el camarero guarda cuencos de agua detrás de la barra.",
+          "descriptionPt": "Bruine kroeg clássico de Leiden encaixado num beco estreito entre o Breestraat e a Pieterskerk, querido por estudantes e moradores para almoços tardios, tardes de jogos de tabuleiro e cervejas tranquilas. Cães admitidos em todos os lugares no interior e nas poucas mesas no passeio no verão; a cozinha oferece uma carta curta de broodjes, sopas e comfort food neerlandês, e o empregado guarda tigelas de água atrás do balcão.",
+          "petPolicy": "Dogs welcome inside throughout, and on pavement tables in summer; water bowls behind the bar",
+          "petPolicyFr": "Chiens acceptés à l'intérieur partout, et sur les tables en terrasse en été ; gamelles d'eau derrière le bar",
+          "petPolicyEs": "Perros admitidos dentro en todas partes y en las mesas en la acera en verano; cuencos de agua detrás de la barra",
+          "petPolicyPt": "Cães admitidos no interior em todo o lado, e nas mesas do passeio no verão; tigelas de água atrás do balcão",
+          "priceRange": "€",
+          "mustTry": "Erwtensoep (pea soup) in winter, tosti boerenkaas, Leidsch jenever shot, Brand pilsner on tap",
+          "mustTryFr": "Erwtensoep (soupe aux pois) en hiver, tosti boerenkaas, shot de jenever de Leiden, pils Brand à la pression",
+          "mustTryEs": "Erwtensoep (sopa de guisantes) en invierno, tosti boerenkaas, chupito de jenever de Leiden, pils Brand de barril",
+          "mustTryPt": "Erwtensoep (sopa de ervilhas) no inverno, tosti boerenkaas, shot de jenever de Leiden, pils Brand de pressão",
+          "openingHours": "Tue-Sun 14:00-01:00; closed Mon",
+          "tip": "Order the small Leidsch jenever to nurse on a rainy afternoon, the bartender will pour an extra splash if you ask in Dutch and the dog will find the warmest spot under the old radiators.",
+          "tipFr": "Commandez un petit jenever de Leiden pour traverser un après-midi pluvieux, le barman ajoutera un trait si vous demandez en néerlandais et le chien trouvera le coin le plus chaud sous les vieux radiateurs.",
+          "tipEs": "Pide un jenever pequeño de Leiden para pasar una tarde lluviosa, el camarero echará un chorrito extra si lo pides en neerlandés y el perro encontrará el sitio más cálido bajo los viejos radiadores.",
+          "tipPt": "Pede um pequeno jenever de Leiden para atravessar uma tarde de chuva, o empregado dá um pinguinho extra se pedires em neerlandês e o cão encontra o canto mais quente sob os antigos radiadores.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+de+WW+Leiden"
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Parks for Dogs in Leiden, Leidse Hout & Polderpark Cronesteyn Off-Leash",
+      "titleFr": "Meilleurs parcs pour chiens à Leiden, Leidse Hout et Polderpark Cronesteyn sans laisse",
+      "titleEs": "Mejores parques para perros en Leiden, Leidse Hout y Polderpark Cronesteyn sin correa",
+      "titlePt": "Melhores parques para cães em Leiden, Leidse Hout e Polderpark Cronesteyn sem trela",
+      "introEn": "Leiden has one of the most generous urban green networks in the Randstad for a city of 125,000: the 33-hectare Leidse Hout city forest north of the centre with a fenced off-leash dog meadow, the 100-hectare Polderpark Cronesteyn south of the singel ring with a dedicated dog meadow and a lake, the Plantage (oldest urban park in the Netherlands, 1656), and the new Singelpark green ring threading the historic 17th-century singel canals into a 6 km loop. Look for the Dutch sign 'losloopgebied' (legal off-leash area) and 'aanlijngebied' (leash required); fines apply outside the marked zones.",
+      "introFr": "Leiden possède l'un des réseaux verts urbains les plus généreux de la Randstad pour une ville de 125 000 habitants : le bois urbain Leidse Hout de 33 hectares au nord du centre avec une prairie chiens clôturée, le Polderpark Cronesteyn de 100 hectares au sud du ring des singels avec sa prairie chiens dédiée et son étang, la Plantage (plus ancien parc urbain des Pays-Bas, 1656) et le tout nouveau Singelpark qui relie les singels du XVIIe siècle en boucle verte de 6 km. Repérez le panneau néerlandais 'losloopgebied' (zone légale sans laisse) et 'aanlijngebied' (laisse obligatoire) ; les amendes s'appliquent hors zones balisées.",
+      "introEs": "Leiden cuenta con una de las redes verdes urbanas más generosas de la Randstad para una ciudad de 125.000 habitantes: el bosque urbano Leidse Hout de 33 hectáreas al norte del centro con pradera para perros vallada, el Polderpark Cronesteyn de 100 hectáreas al sur del anillo de singels con pradera para perros dedicada y estanque, la Plantage (parque urbano más antiguo de los Países Bajos, 1656) y el nuevo Singelpark que une los singels del siglo XVII en un anillo verde de 6 km. Busca el cartel neerlandés 'losloopgebied' (zona legal sin correa) y 'aanlijngebied' (correa obligatoria); hay multas fuera de las zonas señalizadas.",
+      "introPt": "Leiden tem uma das mais generosas redes verdes urbanas da Randstad para uma cidade de 125 000 habitantes: a mata urbana Leidse Hout de 33 hectares a norte do centro com prado para cães vedado, o Polderpark Cronesteyn de 100 hectares a sul do anel de singels com prado para cães dedicado e lago, a Plantage (parque urbano mais antigo dos Países Baixos, 1656) e o novíssimo Singelpark que liga os singels do século XVII num anel verde de 6 km. Procure o sinal neerlandês 'losloopgebied' (zona legal sem trela) e 'aanlijngebied' (trela obrigatória); há multas fora das zonas sinalizadas.",
+      "places": [
+        {
+          "name": "Leidse Hout",
+          "address": "Houtlaan, 2334 CL Leiden",
+          "neighborhood": "Houtkwartier",
+          "photo": "/images/city-places/leiden-parks-leidse-hout.jpg",
+          "website": "https://www.leiden.nl/leidse-hout",
+          "description": "A 33-hectare city forest north of the Leiden Centraal station, designed in the 1930s as an English-style landscape park with mature beech and oak avenues, a winding pond, an open-air theatre and a children's farm. The fenced off-leash dog meadow ('hondenlosloopgebied') sits on the eastern edge near the Houtlaan entrance, and the long perimeter trails work as a calm 4 km loop on leash. Used by city dog owners morning and evening year-round.",
+          "descriptionFr": "Bois urbain de 33 hectares au nord de la gare Leiden Centraal, dessiné dans les années 1930 en parc paysager à l'anglaise avec allées de hêtres et de chênes anciens, étang sinueux, théâtre de plein air et ferme pour enfants. La prairie chiens clôturée ('hondenlosloopgebied') se trouve sur la lisière est près de l'entrée Houtlaan, et les longs sentiers périphériques font une boucle calme de 4 km en laisse. Utilisée matin et soir par les propriétaires de chiens de la ville toute l'année.",
+          "descriptionEs": "Bosque urbano de 33 hectáreas al norte de la estación Leiden Centraal, diseñado en los años 1930 como parque paisajístico inglés con avenidas de hayas y robles maduros, estanque sinuoso, teatro al aire libre y granja infantil. La pradera para perros vallada ('hondenlosloopgebied') está en el borde este cerca de la entrada Houtlaan, y los largos senderos perimetrales hacen una vuelta tranquila de 4 km con correa. Usada por dueños de perros de la ciudad mañana y tarde todo el año.",
+          "descriptionPt": "Mata urbana de 33 hectares a norte da estação Leiden Centraal, desenhada nos anos 1930 como parque paisagístico inglês com avenidas de faias e carvalhos maduros, lago sinuoso, teatro ao ar livre e quinta pedagógica. O prado para cães vedado ('hondenlosloopgebied') fica no limite leste perto da entrada Houtlaan, e os longos caminhos perimetrais dão um circuito calmo de 4 km com trela. Usada pelos donos de cães da cidade manhã e tarde o ano inteiro.",
+          "leashRequired": false,
+          "leashRequiredFr": false,
+          "leashRequiredEs": false,
+          "leashRequiredPt": false,
+          "size": "≈ 33 hectares",
+          "sizeFr": "≈ 33 hectares",
+          "sizeEs": "≈ 33 hectáreas",
+          "sizePt": "≈ 33 hectares",
+          "amenities": "Fenced off-leash dog meadow, 4 km perimeter loop, pond, open-air theatre, children's farm, kiosk café",
+          "amenitiesFr": "Prairie chiens clôturée, boucle de 4 km, étang, théâtre de plein air, ferme pour enfants, café-kiosque",
+          "amenitiesEs": "Pradera para perros vallada, vuelta de 4 km, estanque, teatro al aire libre, granja infantil, kiosco-café",
+          "amenitiesPt": "Prado para cães vedado, volta de 4 km, lago, teatro ao ar livre, quinta pedagógica, quiosque-café",
+          "tip": "Park at the Houtlaan entrance, the fenced losloop meadow is 200 m south of the parking; mornings before 09:00 it is half-empty and the kiosk by the pond opens at 10:00 for coffee.",
+          "tipFr": "Stationnez à l'entrée Houtlaan, la prairie losloop clôturée est à 200 m au sud du parking ; le matin avant 9h, elle est à moitié vide et le kiosque près de l'étang ouvre à 10h pour le café.",
+          "tipEs": "Aparca en la entrada Houtlaan, la pradera losloop vallada queda a 200 m al sur del aparcamiento; por la mañana antes de las 09:00 está medio vacía y el kiosco junto al estanque abre a las 10:00 para café.",
+          "tipPt": "Estaciona na entrada Houtlaan, o prado losloop vedado fica a 200 m a sul do parque; de manhã antes das 09:00 está meio vazio e o quiosque junto ao lago abre às 10:00 para café.",
+          "googleMapsUrl": "https://maps.google.com/?q=Leidse+Hout+Leiden"
+        },
+        {
+          "name": "Polderpark Cronesteyn",
+          "address": "Vlietweg 12, 2323 LD Leiden",
+          "neighborhood": "Cronestein",
+          "photo": "/images/city-places/leiden-parks-polderpark-cronesteyn.jpg",
+          "website": "https://www.leiden.nl/polderpark-cronesteyn",
+          "description": "Leiden's largest park, a 100-hectare reclaimed polder south of the historic singel ring, laced with reed-fringed waterways, wildflower meadows and dyke paths. Includes a dedicated fenced off-leash dog meadow with a lake-side dog swim spot near the Vlietweg entrance, a visitor centre with an organic café, and a 5 km perimeter cycle/walk loop. Quiet on weekday mornings, busy on Sundays with cyclists, joggers and city dog walkers.",
+          "descriptionFr": "Plus grand parc de Leiden, polder reconquis de 100 hectares au sud du ring des singels, sillonné de canaux bordés de roseaux, prairies fleuries et chemins sur digue. Comprend une prairie chiens clôturée avec spot de baignade canine au bord du lac près de l'entrée Vlietweg, un centre d'accueil avec café bio et une boucle vélo/marche de 5 km. Calme en semaine le matin, fréquenté le dimanche par cyclistes, joggeurs et promeneurs de chiens de la ville.",
+          "descriptionEs": "Mayor parque de Leiden, pólder recuperado de 100 hectáreas al sur del anillo de singels, surcado por canales bordeados de juncos, praderas con flores silvestres y caminos sobre dique. Incluye pradera para perros vallada con punto de baño canino junto al lago cerca de la entrada Vlietweg, centro de visitantes con café bio y vuelta ciclo/pie de 5 km. Tranquilo entre semana por la mañana, concurrido los domingos con ciclistas, corredores y paseadores de perros.",
+          "descriptionPt": "Maior parque de Leiden, polder recuperado de 100 hectares a sul do anel de singels, sulcado por canais ladeados de juncos, prados de flores silvestres e caminhos sobre dique. Inclui prado para cães vedado com ponto de banho canino à beira do lago perto da entrada Vlietweg, centro de visitantes com café bio e volta ciclo/a pé de 5 km. Calmo à semana de manhã, movimentado ao domingo com ciclistas, corredores e passeadores de cães.",
+          "leashRequired": false,
+          "leashRequiredFr": false,
+          "leashRequiredEs": false,
+          "leashRequiredPt": false,
+          "size": "≈ 100 hectares",
+          "sizeFr": "≈ 100 hectares",
+          "sizeEs": "≈ 100 hectáreas",
+          "sizePt": "≈ 100 hectares",
+          "amenities": "Fenced off-leash dog meadow, lake-side dog swim spot, 5 km perimeter loop, visitor centre with organic café, free parking",
+          "amenitiesFr": "Prairie chiens clôturée, spot de baignade canine au bord du lac, boucle de 5 km, centre d'accueil avec café bio, parking gratuit",
+          "amenitiesEs": "Pradera para perros vallada, punto de baño canino junto al lago, vuelta de 5 km, centro de visitantes con café bio, aparcamiento gratis",
+          "amenitiesPt": "Prado para cães vedado, ponto de banho canino à beira do lago, volta de 5 km, centro de visitantes com café bio, estacionamento grátis",
+          "tip": "Enter via Vlietweg, the fenced losloop and the dog swim spot are signposted 400 m east of the parking; the visitor centre café opens 10:00-17:00 and welcomes wet dogs on the outdoor deck.",
+          "tipFr": "Entrez par Vlietweg, la zone losloop clôturée et le spot de baignade chien sont indiqués à 400 m à l'est du parking ; le café du centre d'accueil ouvre 10h-17h et accepte les chiens mouillés sur le deck extérieur.",
+          "tipEs": "Entra por Vlietweg, la zona losloop vallada y el punto de baño canino están señalizados a 400 m al este del aparcamiento; el café del centro de visitantes abre de 10:00 a 17:00 y admite perros mojados en la terraza exterior.",
+          "tipPt": "Entra por Vlietweg, a zona losloop vedada e o ponto de banho canino estão sinalizados a 400 m a leste do parque; o café do centro de visitantes abre das 10:00 às 17:00 e aceita cães molhados no deck exterior.",
+          "googleMapsUrl": "https://maps.google.com/?q=Polderpark+Cronesteyn+Leiden"
+        },
+        {
+          "name": "Singelpark",
+          "address": "Plantage, 2311 JE Leiden",
+          "neighborhood": "Centrum",
+          "photo": "/images/city-places/leiden-parks-singelpark.jpg",
+          "website": "https://singelpark.nl/",
+          "description": "An ambitious 6 km green ring around the historic old town, knitting together the 17th-century singel canals, the Plantage (oldest urban park in the Netherlands, 1656), the Ankerpark, the Katoenpark and the new Energiepark into a continuous riverside walk. Dogs must be on leash throughout because the route crosses streets and small bridges, but the trail is shaded, flat and connects every major sight from the Burcht to the Rembrandt statue, perfect as a first orientation walk on arrival day.",
+          "descriptionFr": "Ambitieux anneau vert de 6 km autour de la vieille ville, qui relie les singels du XVIIe siècle, la Plantage (plus ancien parc urbain des Pays-Bas, 1656), l'Ankerpark, le Katoenpark et le nouveau Energiepark en une promenade au fil de l'eau continue. Chiens en laisse obligatoire tout du long car le parcours croise des rues et de petits ponts, mais le sentier est ombragé, plat et relie tous les grands sites de la Burcht à la statue de Rembrandt, parfait comme première balade d'orientation à l'arrivée.",
+          "descriptionEs": "Ambicioso anillo verde de 6 km en torno al casco antiguo, que enhebra los singels del siglo XVII, la Plantage (parque urbano más antiguo de los Países Bajos, 1656), el Ankerpark, el Katoenpark y el nuevo Energiepark en un paseo ribereño continuo. Perros con correa obligatoria todo el trayecto porque cruza calles y pequeños puentes, pero el sendero es sombreado, llano y conecta todos los grandes monumentos desde la Burcht hasta la estatua de Rembrandt, perfecto como primer paseo de orientación al llegar.",
+          "descriptionPt": "Ambicioso anel verde de 6 km à volta da cidade velha, que entrelaça os singels do século XVII, a Plantage (parque urbano mais antigo dos Países Baixos, 1656), o Ankerpark, o Katoenpark e o novo Energiepark num passeio ribeirinho contínuo. Cães com trela obrigatória todo o trajeto porque atravessa ruas e pequenas pontes, mas o caminho é sombreado, plano e liga todos os grandes pontos da Burcht à estátua de Rembrandt, perfeito como primeiro passeio de orientação à chegada.",
+          "leashRequired": true,
+          "leashRequiredFr": true,
+          "leashRequiredEs": true,
+          "leashRequiredPt": true,
+          "size": "≈ 6 km loop, ≈ 30 hectares green",
+          "sizeFr": "≈ boucle de 6 km, ≈ 30 hectares verts",
+          "sizeEs": "≈ vuelta de 6 km, ≈ 30 hectáreas verdes",
+          "sizePt": "≈ volta de 6 km, ≈ 30 hectares verdes",
+          "amenities": "Continuous 6 km green ring, plane-tree avenues, benches, drinking fountains, art installations, signposted route",
+          "amenitiesFr": "Anneau vert continu de 6 km, allées de platanes, bancs, fontaines, installations d'art, parcours balisé",
+          "amenitiesEs": "Anillo verde continuo de 6 km, avenidas de plátanos, bancos, fuentes, instalaciones de arte, ruta señalizada",
+          "amenitiesPt": "Anel verde contínuo de 6 km, avenidas de plátanos, bancos, fontes, instalações de arte, percurso sinalizado",
+          "tip": "Start at the Plantage and walk anti-clockwise via the Hortus Botanicus wall, the Rapenburg, the Witte Singel, the Ankerpark and back via the Energiepark; allow 90 minutes with a dog and frequent canal-stops.",
+          "tipFr": "Démarrez à la Plantage et marchez dans le sens antihoraire par le mur du Hortus Botanicus, le Rapenburg, le Witte Singel, l'Ankerpark et retour par l'Energiepark ; comptez 90 minutes avec un chien et des arrêts canal fréquents.",
+          "tipEs": "Empieza en la Plantage y camina en sentido antihorario por el muro del Hortus Botanicus, el Rapenburg, el Witte Singel, el Ankerpark y vuelta por el Energiepark; calcula 90 minutos con perro y paradas frecuentes junto al canal.",
+          "tipPt": "Começa na Plantage e caminha em sentido anti-horário pelo muro do Hortus Botanicus, pelo Rapenburg, pelo Witte Singel, pelo Ankerpark e volta pelo Energiepark; conta 90 minutos com um cão e paragens frequentes à beira do canal.",
+          "googleMapsUrl": "https://maps.google.com/?q=Singelpark+Leiden"
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Public Transport with Pets in Leiden & NS Trains to Amsterdam, Den Haag, Schiphol",
+      "titleFr": "Transports en commun avec animaux à Leiden et trains NS vers Amsterdam, La Haye, Schiphol",
+      "titleEs": "Transporte público con mascotas en Leiden y trenes NS a Ámsterdam, La Haya, Schiphol",
+      "titlePt": "Transporte público com animais em Leiden e comboios NS para Amesterdão, Haia, Schiphol",
+      "introEn": "Leiden Centraal is one of the busiest NS stations in the Netherlands, a five-minute walk from the Beestenmarkt and the historic centre, with direct Intercity trains to Amsterdam Centraal in 35 minutes, Den Haag in 12 minutes, Rotterdam in 25 minutes and Schiphol Airport in 17 minutes. NS rules apply nationwide: dogs in a carrier travel free, larger dogs need an NS Dagkaart Hond (€3.30) and a leash. Local Arriva regional trains, Connexxion buses 30/31/57 to the Bollenstreek tulip fields and the Katwijk and Noordwijk beaches, plus the new R-Net rapid-transit buses complete the picture.",
+      "introFr": "Leiden Centraal est l'une des gares NS les plus fréquentées des Pays-Bas, à cinq minutes à pied du Beestenmarkt et du centre historique, avec des Intercity directs vers Amsterdam Centraal en 35 minutes, La Haye en 12 minutes, Rotterdam en 25 minutes et Schiphol en 17 minutes. Les règles NS s'appliquent à l'échelle nationale : chiens en sac gratuits, chiens plus grands Dagkaart Hond (3,30 €) et laisse. Les trains régionaux Arriva, les bus Connexxion 30/31/57 vers les champs de tulipes de la Bollenstreek et les plages de Katwijk et Noordwijk, ainsi que les nouveaux bus rapides R-Net complètent le tableau.",
+      "introEs": "Leiden Centraal es una de las estaciones NS más concurridas de los Países Bajos, a cinco minutos a pie del Beestenmarkt y del centro histórico, con Intercity directos a Ámsterdam Centraal en 35 minutos, La Haya en 12 minutos, Rotterdam en 25 minutos y Schiphol en 17 minutos. Las reglas NS aplican en todo el país: perros en transportín gratis, perros grandes Dagkaart Hond (3,30 €) y correa. Los trenes regionales Arriva, los autobuses Connexxion 30/31/57 hacia los campos de tulipanes de la Bollenstreek y las playas de Katwijk y Noordwijk, y los nuevos autobuses rápidos R-Net completan el panorama.",
+      "introPt": "Leiden Centraal é uma das estações NS mais movimentadas dos Países Baixos, a cinco minutos a pé do Beestenmarkt e do centro histórico, com Intercity diretos para Amesterdão Centraal em 35 minutos, Haia em 12 minutos, Roterdão em 25 minutos e Schiphol em 17 minutos. As regras NS aplicam-se nacionalmente: cães em transportadora grátis, cães maiores Dagkaart Hond (3,30 €) e trela. Os comboios regionais Arriva, os autocarros Connexxion 30/31/57 para os campos de tulipas da Bollenstreek e para as praias de Katwijk e Noordwijk, e os novos autocarros rápidos R-Net completam o quadro.",
+      "places": [
+        {
+          "name": "NS Trains (Leiden Centraal)",
+          "type": "National rail",
+          "typeFr": "Train national",
+          "typeEs": "Tren nacional",
+          "typePt": "Comboio nacional",
+          "petPolicy": "Dogs in a hand-held carrier travel free on all NS trains. Larger dogs need a Dagkaart Hond (Day Pass for Dogs, €3.30, unlimited NS travel that day) and must be on a leash with a muzzle available in case of complaint. Intercity to Amsterdam Centraal 35 min, to Den Haag Centraal 12 min, to Rotterdam Centraal 25 min, to Schiphol 17 min.",
+          "petPolicyFr": "Les chiens en sac de transport voyagent gratuitement sur tous les trains NS. Les chiens plus grands ont besoin d'un Dagkaart Hond (pass journalier chien, 3,30 €, NS illimité ce jour-là) et doivent être tenus en laisse, avec muselière disponible en cas de plainte. IC vers Amsterdam Centraal 35 min, La Haye Centraal 12 min, Rotterdam Centraal 25 min, Schiphol 17 min.",
+          "petPolicyEs": "Los perros en transportín de mano viajan gratis en todos los trenes NS. Los más grandes necesitan un Dagkaart Hond (pase diario para perros, 3,30 €, NS ilimitado ese día) y deben ir con correa, con bozal disponible por si hay quejas. IC a Ámsterdam Centraal 35 min, a La Haya Centraal 12 min, a Rotterdam Centraal 25 min, a Schiphol 17 min.",
+          "petPolicyPt": "Os cães em transportadora de mão viajam grátis em todos os comboios NS. Os maiores precisam de um Dagkaart Hond (passe diário para cães, 3,30 €, NS ilimitado nesse dia) e devem andar com trela, com açaime disponível em caso de queixa. IC para Amesterdão Centraal 35 min, Haia Centraal 12 min, Roterdão Centraal 25 min, Schiphol 17 min.",
+          "tip": "Buy the Dagkaart Hond at any yellow NS machine on the Leiden Centraal concourse before boarding; one ticket covers all NS travel that day, including the side trips to Den Haag, Rotterdam and Haarlem.",
+          "tipFr": "Achetez le Dagkaart Hond à n'importe quel automate jaune NS dans le hall de Leiden Centraal avant de monter ; un seul billet couvre tous les déplacements NS de la journée, y compris les escapades à La Haye, Rotterdam et Haarlem.",
+          "tipEs": "Compra el Dagkaart Hond en cualquier máquina amarilla de NS en el vestíbulo de Leiden Centraal antes de subir; un billete cubre todos los viajes NS del día, incluidas las escapadas a La Haya, Rotterdam y Haarlem.",
+          "tipPt": "Compra o Dagkaart Hond em qualquer máquina amarela da NS no átrio de Leiden Centraal antes de embarcar; um único bilhete cobre todas as viagens NS desse dia, incluindo as escapadas a Haia, Roterdão e Haarlem.",
+          "photo": "/images/city-places/leiden-transport-ns-trains-leiden-centraal.jpg"
+        },
+        {
+          "name": "Connexxion Bus 30/31/57 (Leiden-Katwijk-Noordwijk-Bollenstreek)",
+          "type": "Regional bus",
+          "typeFr": "Bus régional",
+          "typeEs": "Autobús regional",
+          "typePt": "Autocarro regional",
+          "petPolicy": "Connexxion regional buses 30 and 31 run from Leiden Centraal to Katwijk aan Zee and Noordwijk aan Zee beaches in 25-30 minutes; bus 57 runs through the Bollenstreek tulip fields toward Lisse and Hillegom. Dogs in a carrier free; larger dogs allowed leashed at the driver's discretion, no extra ticket required. Useful end-to-end for a beach day from a Leiden centre hotel or a spring tulip-fields walk.",
+          "petPolicyFr": "Les bus régionaux Connexxion 30 et 31 relient Leiden Centraal aux plages de Katwijk aan Zee et Noordwijk aan Zee en 25-30 minutes ; le bus 57 traverse les champs de tulipes de la Bollenstreek vers Lisse et Hillegom. Chiens en sac gratuits ; chiens plus grands acceptés en laisse à l'appréciation du conducteur, sans supplément. Pratique de bout en bout pour une journée plage depuis un hôtel du centre ou une promenade dans les tulipes au printemps.",
+          "petPolicyEs": "Los autobuses regionales Connexxion 30 y 31 unen Leiden Centraal con las playas de Katwijk aan Zee y Noordwijk aan Zee en 25-30 minutos; el bus 57 atraviesa los campos de tulipanes de la Bollenstreek hacia Lisse y Hillegom. Perros en transportín gratis; los más grandes admitidos con correa a discreción del conductor, sin billete extra. Útil de punta a punta para un día de playa desde un hotel del centro o un paseo por los tulipanes en primavera.",
+          "petPolicyPt": "Os autocarros regionais Connexxion 30 e 31 ligam Leiden Centraal às praias de Katwijk aan Zee e Noordwijk aan Zee em 25-30 minutos; o autocarro 57 atravessa os campos de tulipas da Bollenstreek para Lisse e Hillegom. Cães em transportadora grátis; os maiores admitidos com trela ao critério do condutor, sem bilhete extra. Útil de ponta a ponta para um dia de praia a partir de um hotel do centro ou um passeio pelas tulipas na primavera.",
+          "tip": "Buy a single OV-chipkaart bus ticket at the front kiosk or tap a contactless card on board; the bus 30 drops you 200 m from the Katwijk dog beach Northern zone.",
+          "tipFr": "Achetez un ticket OV-chipkaart au kiosque avant ou validez une carte sans contact à bord ; le bus 30 vous dépose à 200 m de la zone chiens nord de la plage de Katwijk.",
+          "tipEs": "Compra un billete OV-chipkaart en el kiosco delantero o valida una tarjeta sin contacto a bordo; el bus 30 te deja a 200 m de la zona perros norte de la playa de Katwijk.",
+          "tipPt": "Compra um bilhete OV-chipkaart no quiosque da frente ou valida um cartão contactless a bordo; o autocarro 30 deixa-te a 200 m da zona cães norte da praia de Katwijk.",
+          "photo": "/images/city-places/leiden-transport-connexxion-bus-30-31-57-leiden-katwijk-noordwijk-bollenstreek.jpg"
+        },
+        {
+          "name": "Schiphol Airport Direct Train",
+          "type": "Airport rail",
+          "typeFr": "Train aéroport",
+          "typeEs": "Tren al aeropuerto",
+          "typePt": "Comboio para aeroporto",
+          "petPolicy": "NS Intercity from Leiden Centraal to Schiphol Airport runs every 10-15 minutes, 17 min journey direct. Same dog rules as all NS trains: carrier free, larger dog needs Dagkaart Hond (€3.30) and leash. Schiphol has multiple indoor pet-relief areas in every terminal.",
+          "petPolicyFr": "IC NS depuis Leiden Centraal vers Schiphol toutes les 10-15 minutes, 17 min de trajet direct. Mêmes règles que NS : sac gratuit, plus grand chien Dagkaart Hond (3,30 €) et laisse. Schiphol dispose de plusieurs zones de soulagement intérieures dans chaque terminal.",
+          "petPolicyEs": "IC de NS desde Leiden Centraal a Schiphol cada 10-15 minutos, 17 min directo. Mismas reglas que NS: transportín gratis, perro grande con Dagkaart Hond (3,30 €) y correa. Schiphol tiene varias zonas de alivio interiores en cada terminal.",
+          "petPolicyPt": "IC da NS de Leiden Centraal para Schiphol de 10-15 em 10-15 minutos, 17 min direto. Mesmas regras da NS: transportadora grátis, cão maior com Dagkaart Hond (3,30 €) e trela. Schiphol tem várias zonas de alívio interiores em cada terminal.",
+          "tip": "If you fly with KLM out of Schiphol, the pet-relief room in Terminal 3 land-side is the largest and quietest; ask staff for the door code at check-in.",
+          "tipFr": "Si vous volez avec KLM à Schiphol, la salle de soulagement du Terminal 3 côté ville est la plus grande et la plus calme ; demandez le code à l'enregistrement.",
+          "tipEs": "Si vuelas con KLM desde Schiphol, la sala de alivio del Terminal 3 lado tierra es la más grande y tranquila; pide el código al personal en el check-in.",
+          "tipPt": "Se voar com a KLM em Schiphol, a sala de alívio do Terminal 3 do lado terra é a maior e mais sossegada; peça o código ao pessoal no check-in.",
+          "photo": "/images/city-places/leiden-transport-schiphol-airport-direct-train.jpg"
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog Beaches near Leiden, Katwijk & Noordwijk North Sea Coast",
+      "titleFr": "Plages pour chiens près de Leiden, Katwijk et Noordwijk sur la mer du Nord",
+      "titleEs": "Playas para perros cerca de Leiden, Katwijk y Noordwijk en el Mar del Norte",
+      "titlePt": "Praias para cães perto de Leiden, Katwijk e Noordwijk no Mar do Norte",
+      "introEn": "Leiden has no coast of its own but sits 10 km inland from one of the best stretches of dog-friendly North Sea beach in the Netherlands: Katwijk aan Zee (10 km west, dog beach zones at both ends of the strip plus the full off-season window), Noordwijk aan Zee (14 km northwest, dog beach + boulevard), and Wassenaarse Slag (15 km south, dune-backed beach with off-season free-for-all). All three are reachable from Leiden Centraal in 25-35 minutes by Connexxion bus 30/31 with dogs free in a carrier or leashed at the driver's discretion.",
+      "introFr": "Leiden n'a pas de côte propre mais se trouve à 10 km à l'intérieur des terres de l'une des meilleures portions de plage chiens de la mer du Nord aux Pays-Bas : Katwijk aan Zee (10 km à l'ouest, zones chiens aux deux extrémités du cordon et fenêtre totale hors-saison), Noordwijk aan Zee (14 km au nord-ouest, plage chiens et boulevard) et Wassenaarse Slag (15 km au sud, plage adossée aux dunes avec libre total hors-saison). Les trois sont accessibles depuis Leiden Centraal en 25-35 minutes en bus Connexxion 30/31 avec chiens gratuits en sac ou en laisse selon l'appréciation du conducteur.",
+      "introEs": "Leiden no tiene costa propia pero está a 10 km tierra adentro de uno de los mejores tramos de playa para perros del Mar del Norte en los Países Bajos: Katwijk aan Zee (10 km al oeste, zonas perros en ambos extremos del cordón y ventana total fuera de temporada), Noordwijk aan Zee (14 km al noroeste, playa perros y boulevard) y Wassenaarse Slag (15 km al sur, playa apoyada en las dunas con libertad total fuera de temporada). Las tres se alcanzan desde Leiden Centraal en 25-35 minutos en autobús Connexxion 30/31 con perros gratis en transportín o con correa a discreción del conductor.",
+      "introPt": "Leiden não tem costa própria mas fica a 10 km do interior de uma das melhores faixas de praia para cães do Mar do Norte nos Países Baixos: Katwijk aan Zee (10 km a oeste, zonas cães em ambas as extremidades do cordão e janela total fora de época), Noordwijk aan Zee (14 km a noroeste, praia cães e boulevard) e Wassenaarse Slag (15 km a sul, praia encostada às dunas com liberdade total fora de época). As três alcançam-se a partir de Leiden Centraal em 25-35 minutos de autocarro Connexxion 30/31 com cães grátis em transportadora ou com trela ao critério do condutor.",
+      "places": [
+        {
+          "name": "Katwijk aan Zee Hondenstrand",
+          "address": "Boulevard Zeezijde, 2225 EH Katwijk aan Zee",
+          "neighborhood": "Katwijk aan Zee",
+          "photo": "/images/city-places/leiden-beaches-katwijk-aan-zee-hondenstrand.jpg",
+          "website": "https://www.katwijk.nl/honden-op-het-strand",
+          "description": "The closest North Sea dog beach to Leiden, 10 km west by Connexxion bus 30. Katwijk has dedicated off-leash dog zones at the northern end (toward Noordwijk) and the southern end (toward Wassenaar) all year round, and the entire beach is open to off-leash dogs outside the summer restriction window (verify the current municipal ordinance, broadly 10:00-19:00 in June-August in the central swimming zone, free elsewhere). Old fishing-village atmosphere, beach pavilions, and the iconic 1605 Andreaskerk church on the dunes behind.",
+          "descriptionFr": "Plage chiens en mer du Nord la plus proche de Leiden, à 10 km à l'ouest par le bus Connexxion 30. Katwijk dispose de zones chiens sans laisse dédiées à l'extrémité nord (vers Noordwijk) et à l'extrémité sud (vers Wassenaar) toute l'année, et toute la plage est ouverte aux chiens sans laisse en dehors de la fenêtre de restriction estivale (vérifiez l'arrêté municipal en vigueur, globalement 10h-19h en juin-août dans la zone de baignade centrale, libre ailleurs). Atmosphère d'ancien village de pêcheurs, paillotes et l'iconique église Andreaskerk de 1605 sur les dunes en arrière-plan.",
+          "descriptionEs": "Playa para perros del Mar del Norte más cercana a Leiden, a 10 km al oeste en autobús Connexxion 30. Katwijk tiene zonas perros sin correa dedicadas en el extremo norte (hacia Noordwijk) y en el extremo sur (hacia Wassenaar) todo el año, y toda la playa se abre a los perros sin correa fuera de la ventana de restricción estival (verifica la ordenanza municipal vigente, en líneas generales 10:00-19:00 en junio-agosto en la zona de baño central, libre fuera). Ambiente de antiguo pueblo pesquero, chiringuitos y la icónica iglesia Andreaskerk de 1605 sobre las dunas al fondo.",
+          "descriptionPt": "Praia para cães do Mar do Norte mais perto de Leiden, a 10 km a oeste de autocarro Connexxion 30. Katwijk tem zonas cães sem trela dedicadas na extremidade norte (para Noordwijk) e na extremidade sul (para Wassenaar) o ano inteiro, e toda a praia abre aos cães sem trela fora da janela de restrição de verão (verifica a ordenação municipal em vigor, grosso modo 10:00-19:00 em junho-agosto na zona de banhos central, livre fora). Ambiente de antiga aldeia de pescadores, esplanadas e a icónica igreja Andreaskerk de 1605 sobre as dunas ao fundo.",
+          "petPolicy": "Off-leash year-round in zones at both ends; full beach off-leash outside the summer central swim-zone restriction (verify current Katwijk ordinance)",
+          "petPolicyFr": "Sans laisse toute l'année dans les zones aux deux extrémités ; plage entière sans laisse hors fenêtre estivale de restriction de la zone de baignade centrale (vérifiez l'arrêté Katwijk en cours)",
+          "petPolicyEs": "Sin correa todo el año en zonas de ambos extremos; playa entera sin correa fuera de la ventana estival de restricción de la zona de baño central (verifica la ordenanza Katwijk vigente)",
+          "petPolicyPt": "Sem trela o ano inteiro em zonas das duas extremidades; praia inteira sem trela fora da janela estival de restrição da zona de banhos central (verifica a ordenação Katwijk em vigor)",
+          "openingHours": "Open 24/7",
+          "tip": "From Leiden Centraal take Connexxion bus 30, 25 min to Katwijk Boulevard; the southern dog zone (toward Wassenaarse Slag) is the wildest stretch with the fewest summer crowds.",
+          "tipFr": "Depuis Leiden Centraal, prenez le bus Connexxion 30, 25 min jusqu'au Boulevard Katwijk ; la zone chiens sud (vers Wassenaarse Slag) est la plus sauvage et la moins fréquentée en été.",
+          "tipEs": "Desde Leiden Centraal coge el autobús Connexxion 30, 25 min hasta el Boulevard Katwijk; la zona perros sur (hacia Wassenaarse Slag) es la más salvaje y la menos concurrida en verano.",
+          "tipPt": "De Leiden Centraal apanha o autocarro Connexxion 30, 25 min até ao Boulevard Katwijk; a zona cães sul (para Wassenaarse Slag) é o troço mais selvagem e menos cheio no verão.",
+          "googleMapsUrl": "https://maps.google.com/?q=Katwijk+aan+Zee+hondenstrand"
+        },
+        {
+          "name": "Noordwijk aan Zee Hondenstrand",
+          "address": "Koningin Wilhelmina Boulevard, 2202 GS Noordwijk",
+          "neighborhood": "Noordwijk aan Zee",
+          "photo": "/images/city-places/leiden-beaches-noordwijk-aan-zee-hondenstrand.jpg",
+          "website": "https://www.noordwijk.nl/honden-op-het-strand",
+          "description": "A wide 13 km stretch of sandy North Sea beach 14 km northwest of Leiden, backed by tall dunes and the Coepelduynen Natura 2000 reserve. Dogs are allowed off-leash on the entire beach outside the marked summer central swimming zone (broadly mid-June to mid-August, 10:00-19:00); off-leash all hours October-March on the full beach. The boulevard pavilions are dog-friendly all year and serve hot chocolate on cold winter walks.",
+          "descriptionFr": "Large cordon sableux de 13 km en mer du Nord à 14 km au nord-ouest de Leiden, adossé à de hautes dunes et à la réserve Natura 2000 des Coepelduynen. Chiens sans laisse sur toute la plage hors zone de baignade centrale balisée en été (globalement mi-juin à mi-août, 10h-19h) ; sans laisse à toute heure d'octobre à mars sur toute la plage. Les paillotes du boulevard sont dog-friendly toute l'année et servent du chocolat chaud sur les balades d'hiver.",
+          "descriptionEs": "Amplio cordón arenoso de 13 km del Mar del Norte a 14 km al noroeste de Leiden, respaldado por altas dunas y la reserva Natura 2000 de Coepelduynen. Perros sin correa en toda la playa fuera de la zona de baño central señalizada en verano (en líneas generales de mediados de junio a mediados de agosto, 10:00-19:00); sin correa a cualquier hora de octubre a marzo en toda la playa. Los chiringuitos del boulevard son pet-friendly todo el año y sirven chocolate caliente en los paseos invernales.",
+          "descriptionPt": "Largo cordão arenoso de 13 km do Mar do Norte a 14 km a noroeste de Leiden, encostado a altas dunas e à reserva Natura 2000 dos Coepelduynen. Cães sem trela em toda a praia fora da zona de banhos central sinalizada no verão (grosso modo de meados de junho a meados de agosto, 10:00-19:00); sem trela a qualquer hora de outubro a março em toda a praia. As esplanadas do boulevard são pet-friendly o ano inteiro e servem chocolate quente nos passeios invernais.",
+          "petPolicy": "Off-leash year-round outside central summer swim zone; full beach off-leash all hours Oct-Mar",
+          "petPolicyFr": "Sans laisse toute l'année hors zone de baignade centrale en été ; plage entière sans laisse à toute heure d'octobre à mars",
+          "petPolicyEs": "Sin correa todo el año fuera de la zona de baño central en verano; playa entera sin correa a cualquier hora oct-mar",
+          "petPolicyPt": "Sem trela o ano inteiro fora da zona de banhos central no verão; praia inteira sem trela a qualquer hora out-mar",
+          "openingHours": "Open 24/7",
+          "tip": "From Leiden Centraal take Connexxion bus 90 (Arriva 'NS Sneldienst') 30 min to Noordwijk Centrum, walk 400 m to the boulevard; the northern beach toward the Coepelduynen is the quietest year-round.",
+          "tipFr": "Depuis Leiden Centraal, prenez le bus 90 Connexxion (Arriva 'NS Sneldienst') 30 min jusqu'à Noordwijk Centrum, marchez 400 m jusqu'au boulevard ; la plage nord vers les Coepelduynen est la plus calme toute l'année.",
+          "tipEs": "Desde Leiden Centraal coge el autobús Connexxion 90 (Arriva 'NS Sneldienst') 30 min hasta Noordwijk Centrum, camina 400 m hasta el boulevard; la playa norte hacia los Coepelduynen es la más tranquila todo el año.",
+          "tipPt": "De Leiden Centraal apanha o autocarro Connexxion 90 (Arriva 'NS Sneldienst') 30 min até Noordwijk Centrum, caminha 400 m até ao boulevard; a praia norte para os Coepelduynen é a mais sossegada o ano inteiro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Noordwijk+aan+Zee+hondenstrand"
+        },
+        {
+          "name": "Wassenaarse Slag",
+          "address": "Wassenaarseslag, 2244 BL Wassenaar",
+          "neighborhood": "Wassenaar",
+          "photo": "/images/city-places/leiden-beaches-wassenaarse-slag.jpg",
+          "website": "https://www.wassenaar.nl/honden-op-het-strand",
+          "description": "A wilder, less crowded beach south of Katwijk and Noordwijk, 15 km south of Leiden, backed by the protected Meijendel dunes (the largest dune reserve between The Hague and Leiden). Off-leash for dogs October 1 to March 1 on the entire beach; in summer dogs must be leashed except in marked end-zones. The dune trails behind the beach add a 6-8 km leashed loop through pine and oak woodland with deer and rabbits.",
+          "descriptionFr": "Plage plus sauvage et moins fréquentée au sud de Katwijk et Noordwijk, à 15 km au sud de Leiden, adossée aux dunes protégées de Meijendel (la plus grande réserve dunaire entre La Haye et Leiden). Sans laisse pour les chiens du 1er octobre au 1er mars sur toute la plage ; en été chiens en laisse sauf dans les zones d'extrémités balisées. Les sentiers dunaires en arrière de la plage ajoutent une boucle en laisse de 6-8 km en pinède et chênaie avec chevreuils et lapins.",
+          "descriptionEs": "Playa más salvaje y menos concurrida al sur de Katwijk y Noordwijk, a 15 km al sur de Leiden, respaldada por las dunas protegidas de Meijendel (la mayor reserva dunar entre La Haya y Leiden). Sin correa para los perros del 1 de octubre al 1 de marzo en toda la playa; en verano perros con correa salvo en zonas de extremos señalizadas. Los senderos dunares detrás de la playa añaden una vuelta con correa de 6-8 km por pinar y robledal con corzos y conejos.",
+          "descriptionPt": "Praia mais selvagem e menos cheia a sul de Katwijk e Noordwijk, a 15 km a sul de Leiden, encostada às dunas protegidas de Meijendel (a maior reserva dunar entre Haia e Leiden). Sem trela para os cães de 1 de outubro a 1 de março em toda a praia; no verão cães com trela exceto nas zonas de extremidades sinalizadas. Os caminhos dunares atrás da praia acrescentam um circuito com trela de 6-8 km por pinhal e carvalhal com corços e coelhos.",
+          "petPolicy": "Off-leash Oct 1-Mar 1 on full beach; summer leash required except marked end-zones",
+          "petPolicyFr": "Sans laisse du 1er octobre au 1er mars sur toute la plage ; été en laisse sauf zones d'extrémités balisées",
+          "petPolicyEs": "Sin correa del 1 oct al 1 mar en toda la playa; verano con correa salvo zonas de extremos señalizadas",
+          "petPolicyPt": "Sem trela de 1 out a 1 mar em toda a praia; verão com trela exceto zonas de extremidades sinalizadas",
+          "openingHours": "Open 24/7",
+          "tip": "By car from Leiden via the N441, 20 min, free parking at the Wassenaarseslag lot; off-season the dune trails are nearly empty and the beach below stretches kilometres in both directions.",
+          "tipFr": "En voiture depuis Leiden par la N441, 20 min, parking gratuit au lot Wassenaarseslag ; hors saison les sentiers dunaires sont quasi déserts et la plage en contrebas s'étire des kilomètres dans les deux directions.",
+          "tipEs": "En coche desde Leiden por la N441, 20 min, aparcamiento gratis en el parking Wassenaarseslag; fuera de temporada los senderos dunares están casi desiertos y la playa abajo se extiende kilómetros en ambas direcciones.",
+          "tipPt": "De carro a partir de Leiden pela N441, 20 min, estacionamento grátis no parque Wassenaarseslag; fora de época os caminhos dunares estão quase desertos e a praia em baixo estende-se quilómetros nas duas direções.",
+          "googleMapsUrl": "https://maps.google.com/?q=Wassenaarse+Slag"
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Leiden, Veterinary Clinics & Pet Care",
+      "titleFr": "Vétérinaires d'urgence à Leiden, Cliniques et soins animaliers",
+      "titleEs": "Veterinario de urgencias en Leiden, Hospitales y clínicas veterinarias",
+      "titlePt": "Veterinário de urgências em Leiden, Hospitais e clínicas veterinárias",
+      "introEn": "Leiden has solid daytime veterinary coverage from several long-running practices spread across the Centrum, the Houtkwartier, Cronesteyn and the Stevenshof neighbourhoods, with the AniCura group running a sister clinic in Driel (Leidse Land) and another in nearby Rijnsburg for after-hours overflow. Out-of-hours emergencies are routed via the regional emergency network to the 24/7 Evidensia Dierenziekenhuis Den Haag on Goudenregenstraat (25 min by car) or, for the northern Bollenstreek zone, to AniCura Rijngeest in Rijnsburg which keeps a 24/7 emergency line. Save these numbers before you arrive.",
+      "introFr": "Leiden dispose d'une bonne couverture vétérinaire de jour grâce à plusieurs cabinets bien établis répartis entre le Centrum, le Houtkwartier, Cronesteyn et le Stevenshof, le groupe AniCura tenant une clinique sœur à Driel (Leidse Land) et une autre à Rijnsburg pour l'overflow hors horaires. Les urgences hors horaires sont redirigées via le réseau régional vers l'Evidensia Dierenziekenhuis Den Haag 24h/24 sur Goudenregenstraat (25 min en voiture) ou, pour la zone nord de la Bollenstreek, vers AniCura Rijngeest à Rijnsburg qui tient une ligne d'urgence 24h/24. Enregistrez ces numéros avant l'arrivée.",
+      "introEs": "Leiden cuenta con buena cobertura veterinaria diurna gracias a varias clínicas veteranas repartidas entre el Centrum, el Houtkwartier, Cronesteyn y el Stevenshof, con el grupo AniCura llevando una clínica hermana en Driel (Leidse Land) y otra en Rijnsburg para el overflow fuera de horario. Las urgencias fuera de horario se derivan vía la red regional al Evidensia Dierenziekenhuis Den Haag 24/7 en Goudenregenstraat (25 min en coche) o, para la zona norte de la Bollenstreek, a AniCura Rijngeest en Rijnsburg que mantiene una línea de urgencias 24/7. Guarda estos números antes de llegar.",
+      "introPt": "Leiden tem boa cobertura veterinária diurna graças a várias clínicas estabelecidas espalhadas entre o Centrum, o Houtkwartier, Cronesteyn e o Stevenshof, com o grupo AniCura a manter uma clínica irmã em Driel (Leidse Land) e outra em Rijnsburg para o overflow fora de horário. As urgências fora de horário são encaminhadas pela rede regional para o Evidensia Dierenziekenhuis Den Haag 24/7 na Goudenregenstraat (25 min de carro) ou, para a zona norte da Bollenstreek, para a AniCura Rijngeest em Rijnsburg que mantém uma linha de urgências 24/7. Guarda estes números antes de chegar.",
+      "places": [
+        {
+          "name": "Dierenartsenpraktijk de Keerhoeve (Leiden)",
+          "address": "Rijn en Schiekade 22, 2311 AK Leiden",
+          "neighborhood": "Centrum",
+          "phone": "071-5120241",
+          "photo": "/images/city-places/leiden-vets-dierenartsenpraktijk-de-keerhoeve.jpg",
+          "emergency24h": false,
+          "languages": [
+            "Dutch",
+            "English"
+          ],
+          "website": "https://www.keerhoeve.nl/",
+          "description": "Long-running central practice on the Rijn en Schiekade canal, five minutes' walk from the Beestenmarkt and Leiden Centraal. Telephone consultation hours every weekday morning 08:00-09:00, in-person consults by appointment thereafter. Member of the regional emergency network: outside opening hours the same number reaches an on-call vet. The practice keeps a second branch in Voorschoten at Leidseweg 229b (071 561 3836) for the southern neighbourhoods.",
+          "descriptionFr": "Cabinet central de longue date sur le quai Rijn en Schiekade, à cinq minutes à pied du Beestenmarkt et de Leiden Centraal. Heures de consultation téléphonique chaque matin de semaine 8h-9h, consultations en présentiel sur rendez-vous ensuite. Membre du réseau régional d'urgence : hors horaires, le même numéro joint un vétérinaire de garde. La pratique tient une seconde antenne à Voorschoten au Leidseweg 229b (071 561 3836) pour les quartiers sud.",
+          "descriptionEs": "Clínica céntrica veterana en el muelle Rijn en Schiekade, a cinco minutos a pie del Beestenmarkt y Leiden Centraal. Horario de consulta telefónica cada mañana de lunes a viernes 08:00-09:00, consultas presenciales con cita después. Miembro de la red regional de urgencias: fuera de horario el mismo número conecta con un veterinario de guardia. La clínica mantiene una segunda sede en Voorschoten en Leidseweg 229b (071 561 3836) para los barrios del sur.",
+          "descriptionPt": "Clínica central de longa data no cais Rijn en Schiekade, a cinco minutos a pé do Beestenmarkt e da Leiden Centraal. Horário de consulta telefónica todas as manhãs de dia útil 08:00-09:00, consultas presenciais por marcação a seguir. Membro da rede regional de urgências: fora de horário o mesmo número liga a um veterinário de prevenção. A clínica mantém uma segunda filial em Voorschoten no Leidseweg 229b (071 561 3836) para os bairros sul.",
+          "hours": "Mon-Fri 08:00-18:00; phone consult 08:00-09:00 daily; closed Sat-Sun",
+          "hoursFr": "Lun-ven 8h-18h ; consult tél 8h-9h tous les jours ouvrés ; fermé sam-dim",
+          "hoursEs": "Lun-vie 08:00-18:00; consulta tel 08:00-09:00 a diario laborable; cerrado sáb-dom",
+          "hoursPt": "Seg-sex 08:00-18:00; consulta tel 08:00-09:00 todos os dias úteis; encerrado sáb-dom",
+          "specialty": "General practice, vaccines, EU pet passport, dentistry, minor surgery",
+          "specialtyFr": "Médecine générale, vaccins, passeport européen, dentisterie, petite chirurgie",
+          "specialtyEs": "Medicina general, vacunas, pasaporte europeo, odontología, cirugía menor",
+          "specialtyPt": "Medicina geral, vacinas, passaporte europeu, odontologia, pequena cirurgia",
+          "tip": "The most central practice on foot from any old-town hotel; call between 08:00 and 09:00 for the telephone-consult slot, or use WhatsApp 06 4124 0823 on weekdays 09:00-17:00.",
+          "tipFr": "Cabinet le plus central à pied depuis n'importe quel hôtel de la vieille ville ; appelez entre 8h et 9h pour le créneau de consultation téléphonique, ou utilisez WhatsApp 06 4124 0823 en semaine 9h-17h.",
+          "tipEs": "La clínica más céntrica a pie desde cualquier hotel del casco antiguo; llama entre 08:00 y 09:00 para el slot de consulta telefónica, o usa WhatsApp 06 4124 0823 entre semana 09:00-17:00.",
+          "tipPt": "A clínica mais central a pé a partir de qualquer hotel do centro antigo; liga entre as 08:00 e as 09:00 para o slot de consulta telefónica, ou usa o WhatsApp 06 4124 0823 à semana 09:00-17:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Dierenartsenpraktijk+de+Keerhoeve+Leiden"
+        },
+        {
+          "name": "Evidensia Mijn Dierenkliniek Leiden",
+          "address": "Vijf Meilaan 7, 2321 RH Leiden",
+          "neighborhood": "Stevenshof",
+          "phone": "071-5764058",
+          "photo": "/images/city-places/leiden-vets-evidensia-mijn-dierenkliniek-leiden.jpg",
+          "emergency24h": false,
+          "languages": [
+            "Dutch",
+            "English"
+          ],
+          "website": "https://www.mijndierenkliniek.nl/openingstijden/mijn-dierenkliniek-leiden/",
+          "description": "Part of the Evidensia / Mijn Dierenkliniek group, the largest small-animal practice in southwest Leiden, with surgery suite, in-house lab, X-ray and ultrasound. Handles vaccinations, EU pet-passport stamping, dentistry, internal medicine and minor surgery. Open Monday to Friday 08:00-20:00. Out-of-hours emergencies routed to the Evidensia Dierenziekenhuis Den Haag 24/7 line on 070-2060900.",
+          "descriptionFr": "Membre du groupe Evidensia / Mijn Dierenkliniek, le plus gros cabinet pour petits animaux du sud-ouest de Leiden, avec bloc opératoire, laboratoire interne, radio et échographie. Vaccinations, mise à jour du passeport européen, dentisterie, médecine interne et petite chirurgie. Ouvert du lundi au vendredi 8h-20h. Hors horaires, urgences redirigées vers l'Evidensia Dierenziekenhuis Den Haag 24h/24 au 070-2060900.",
+          "descriptionEs": "Parte del grupo Evidensia / Mijn Dierenkliniek, la mayor clínica de pequeños animales del suroeste de Leiden, con quirófano, laboratorio interno, rayos X y ecografía. Vacunaciones, sellado de pasaporte europeo, odontología, medicina interna y cirugía menor. Abierto de lunes a viernes 08:00-20:00. Fuera de horario, urgencias redirigidas al Evidensia Dierenziekenhuis Den Haag 24/7 en el 070-2060900.",
+          "descriptionPt": "Parte do grupo Evidensia / Mijn Dierenkliniek, a maior clínica de pequenos animais do sudoeste de Leiden, com bloco operatório, laboratório interno, raio X e ecografia. Vacinas, carimbo do passaporte europeu, odontologia, medicina interna e pequena cirurgia. Aberto de segunda a sexta 08:00-20:00. Fora de horário, urgências reencaminhadas para o Evidensia Dierenziekenhuis Den Haag 24/7 no 070-2060900.",
+          "hours": "Mon-Fri 08:00-20:00; closed Sat-Sun",
+          "hoursFr": "Lun-ven 8h-20h ; fermé sam-dim",
+          "hoursEs": "Lun-vie 08:00-20:00; cerrado sáb-dom",
+          "hoursPt": "Seg-sex 08:00-20:00; encerrado sáb-dom",
+          "specialty": "General practice, surgery, dentistry, internal medicine, EU pet passport",
+          "specialtyFr": "Médecine générale, chirurgie, dentisterie, médecine interne, passeport européen",
+          "specialtyEs": "Medicina general, cirugía, odontología, medicina interna, pasaporte europeo",
+          "specialtyPt": "Medicina geral, cirurgia, odontologia, medicina interna, passaporte europeu",
+          "tip": "If you need a pet-passport stamp before flying out of Schiphol, book 48 hours ahead; the Evidensia network is the most experienced in the region for travel paperwork.",
+          "tipFr": "Pour un tampon passeport avant un vol Schiphol, réservez 48h à l'avance ; le réseau Evidensia est le plus expérimenté de la région sur la paperasse voyage.",
+          "tipEs": "Si necesitas sello de pasaporte antes de volar desde Schiphol, reserva con 48 h; la red Evidensia es la más experimentada de la región en trámites de viaje.",
+          "tipPt": "Para um carimbo de passaporte antes de voar de Schiphol, reserva com 48 h; a rede Evidensia é a mais experiente da região em papelada de viagem.",
+          "googleMapsUrl": "https://maps.google.com/?q=Mijn+Dierenkliniek+Leiden+Vijf+Meilaan"
+        },
+        {
+          "name": "Mijn Dierenkliniek De Mare",
+          "address": "Willemstraat 52-54, 2316 CT Leiden",
+          "neighborhood": "Leiden-Noord",
+          "phone": "071-5218393",
+          "photo": "/images/city-places/leiden-vets-mijn-dierenkliniek-de-mare.jpg",
+          "emergency24h": false,
+          "languages": [
+            "Dutch",
+            "English"
+          ],
+          "website": "https://www.dierenkliniekdemare.nl/",
+          "description": "A neighbourhood practice in Leiden-Noord on the Willemstraat, ten minutes' walk from Leiden Centraal and the Leidse Hout. Part of the Mijn Dierenkliniek / Evidensia network. Afternoon and evening consults by appointment, no weekend hours. Convenient if you are staying near the station or in Leiden-Noord. Out-of-hours emergencies routed to the Evidensia Dierenziekenhuis Den Haag 24/7 line.",
+          "descriptionFr": "Cabinet de quartier à Leiden-Noord sur la Willemstraat, à dix minutes à pied de Leiden Centraal et du Leidse Hout. Membre du réseau Mijn Dierenkliniek / Evidensia. Consultations l'après-midi et le soir sur rendez-vous, fermé le week-end. Pratique si vous logez près de la gare ou dans le nord de Leiden. Hors horaires, urgences redirigées vers la ligne 24h/24 de l'Evidensia Dierenziekenhuis Den Haag.",
+          "descriptionEs": "Clínica de barrio en Leiden-Noord en la Willemstraat, a diez minutos a pie de Leiden Centraal y del Leidse Hout. Parte de la red Mijn Dierenkliniek / Evidensia. Consultas de tarde y noche con cita, cerrado el fin de semana. Cómoda si te alojas cerca de la estación o en el norte de Leiden. Fuera de horario, urgencias redirigidas a la línea 24/7 del Evidensia Dierenziekenhuis Den Haag.",
+          "descriptionPt": "Clínica de bairro em Leiden-Noord na Willemstraat, a dez minutos a pé da Leiden Centraal e do Leidse Hout. Parte da rede Mijn Dierenkliniek / Evidensia. Consultas à tarde e à noite por marcação, encerrado ao fim de semana. Útil se ficar perto da estação ou no norte de Leiden. Fora de horário, urgências reencaminhadas para a linha 24/7 do Evidensia Dierenziekenhuis Den Haag.",
+          "hours": "Mon/Wed/Fri 13:00-20:00; Tue/Thu 13:00-18:00; closed Sat-Sun",
+          "hoursFr": "Lun/mer/ven 13h-20h ; mar/jeu 13h-18h ; fermé sam-dim",
+          "hoursEs": "Lun/mié/vie 13:00-20:00; mar/jue 13:00-18:00; cerrado sáb-dom",
+          "hoursPt": "Seg/qua/sex 13:00-20:00; ter/qui 13:00-18:00; encerrado sáb-dom",
+          "specialty": "General practice, vaccines, EU pet passport, dermatology",
+          "specialtyFr": "Médecine générale, vaccins, passeport européen, dermatologie",
+          "specialtyEs": "Medicina general, vacunas, pasaporte europeo, dermatología",
+          "specialtyPt": "Medicina geral, vacinas, passaporte europeu, dermatologia",
+          "tip": "The closest practice on foot from any hotel near Leiden Centraal; afternoon-only schedule means book ahead for non-emergency visits.",
+          "tipFr": "Cabinet le plus proche à pied depuis n'importe quel hôtel près de Leiden Centraal ; horaires l'après-midi uniquement, réservez pour les visites non urgentes.",
+          "tipEs": "La clínica más cercana a pie desde cualquier hotel junto a Leiden Centraal; horario solo de tarde, reserva para visitas no urgentes.",
+          "tipPt": "A clínica mais perto a pé a partir de qualquer hotel junto à Leiden Centraal; horário só à tarde, reserva para visitas não urgentes.",
+          "googleMapsUrl": "https://maps.google.com/?q=Mijn+Dierenkliniek+De+Mare+Willemstraat+Leiden"
+        },
+        {
+          "name": "Evidensia Dierenziekenhuis Den Haag (after-hours emergency / referral)",
+          "address": "Goudenregenstraat 296, 2565 GG Den Haag (25 min from Leiden)",
+          "neighborhood": "Den Haag-West",
+          "phone": "070-2060900",
+          "photo": "/images/city-places/leiden-vets-evidensia-dierenziekenhuis-den-haag-after-hours-emergency-referral.jpg",
+          "emergency24h": true,
+          "languages": [
+            "Dutch",
+            "English"
+          ],
+          "website": "https://evidensiadierenziekenhuis.nl/",
+          "description": "The regional referral and after-hours emergency hospital for the Leiden-Den Haag area, run by Evidensia. Open every day 06:30-23:00 for daytime cases plus 24/7 emergency cover via the on-call team. Full diagnostic imaging, blood and urine analysis, X-ray, ECG, ultrasound and emergency surgery on site. 25 minutes from Leiden by car via the A44 / A4.",
+          "descriptionFr": "Hôpital de référence et d'urgence hors horaires pour la zone Leiden-La Haye, géré par Evidensia. Ouvert tous les jours de 6h30 à 23h en consultation, plus une couverture d'urgence 24h/24 via l'équipe d'astreinte. Imagerie complète, analyses sang/urine, radio, ECG, échographie et chirurgie d'urgence sur place. 25 minutes de Leiden en voiture par l'A44 / A4.",
+          "descriptionEs": "Hospital de referencia y urgencias fuera de horario para la zona Leiden-La Haya, gestionado por Evidensia. Abierto todos los días de 06:30 a 23:00 para consulta diurna, más cobertura de urgencias 24/7 vía equipo de guardia. Imagen diagnóstica completa, análisis de sangre y orina, rayos X, ECG, ecografía y cirugía de urgencia in situ. 25 minutos de Leiden en coche por la A44 / A4.",
+          "descriptionPt": "Hospital de referência e urgências fora de horário para a zona Leiden-Haia, gerido pela Evidensia. Aberto todos os dias das 06:30 às 23:00 para consulta diurna, mais cobertura de urgências 24/7 pela equipa de prevenção. Imagem completa, análises de sangue e urina, raio X, ECG, ecografia e cirurgia de urgência no local. 25 minutos de Leiden de carro pela A44 / A4.",
+          "hours": "Daily 06:30-23:00; 24/7 emergency cover via on-call",
+          "hoursFr": "Tous les jours 6h30-23h ; couverture urgences 24h/24 via astreinte",
+          "hoursEs": "Diario 06:30-23:00; cobertura de urgencias 24/7 vía guardia",
+          "hoursPt": "Diário 06:30-23:00; cobertura de urgências 24/7 via prevenção",
+          "specialty": "Referral hospital, after-hours emergency, surgery, intensive care, diagnostic imaging",
+          "specialtyFr": "Hôpital de référence, urgences hors horaires, chirurgie, soins intensifs, imagerie diagnostique",
+          "specialtyEs": "Hospital de referencia, urgencias fuera de horario, cirugía, cuidados intensivos, imagen diagnóstica",
+          "specialtyPt": "Hospital de referência, urgências fora de horário, cirurgia, cuidados intensivos, imagem diagnóstica",
+          "tip": "Always call 070-2060900 first; staff may triage by phone, advise home care, or pre-warn the team if you are driving in from Leiden via the A44.",
+          "tipFr": "Appelez toujours d'abord le 070-2060900 ; le personnel peut faire un tri par téléphone, conseiller à domicile ou prévenir l'équipe si vous arrivez de Leiden par l'A44.",
+          "tipEs": "Llama siempre primero al 070-2060900; el personal puede hacer triaje telefónico, aconsejar cuidados en casa o avisar al equipo si vienes desde Leiden por la A44.",
+          "tipPt": "Liga sempre primeiro para 070-2060900; o pessoal pode fazer triagem por telefone, aconselhar cuidados em casa ou avisar a equipa se vier de Leiden pela A44.",
+          "googleMapsUrl": "https://maps.google.com/?q=Evidensia+Dierenziekenhuis+Goudenregenstraat+Den+Haag"
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Leiden with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Leiden avec un chien",
+      "titleEs": "Consejos prácticos para visitar Leiden con perro",
+      "titlePt": "Dicas práticas para visitar Leiden com um cão",
+      "introEn": "Leiden is one of the most painlessly dog-friendly bases you can pick in the Randstad: smaller and quieter than Amsterdam or Rotterdam, with the North Sea dog beaches at Katwijk and Noordwijk 25-30 minutes away by Connexxion bus, dogs free on all NS trains in a carrier (€3.30 Dagkaart Hond for larger dogs), and a generous urban green network (Leidse Hout, Polderpark Cronesteyn, Singelpark). A handful of local rules and habits will make the trip smoother. The Rapenburg, the Nieuwe Rijn and the Hooglandse Kerkgracht are leash-only zones; off-leash freedom starts in the marked losloopgebieden of Leidse Hout and Polderpark Cronesteyn. The Bollenstreek tulip fields bloom April-May with cycling routes accessible from Leiden Centraal.",
+      "introFr": "Leiden est l'une des bases les plus simples côté chien dans la Randstad : plus petite et plus calme qu'Amsterdam ou Rotterdam, avec les plages chiens en mer du Nord de Katwijk et Noordwijk à 25-30 minutes en bus Connexxion, les chiens gratuits sur tous les trains NS en sac (Dagkaart Hond 3,30 € pour les plus grands), et un réseau vert urbain généreux (Leidse Hout, Polderpark Cronesteyn, Singelpark). Quelques règles locales et habitudes facilitent le séjour. Le Rapenburg, le Nieuwe Rijn et le Hooglandse Kerkgracht sont en laisse obligatoire ; la liberté commence dans les losloopgebieden balisés du Leidse Hout et du Polderpark Cronesteyn. Les champs de tulipes de la Bollenstreek fleurissent en avril-mai avec des itinéraires vélo accessibles depuis Leiden Centraal.",
+      "introEs": "Leiden es una de las bases más fáciles con perro en la Randstad: más pequeña y tranquila que Ámsterdam o Rotterdam, con las playas para perros del Mar del Norte de Katwijk y Noordwijk a 25-30 minutos en autobús Connexxion, perros gratis en todos los trenes NS en transportín (Dagkaart Hond 3,30 € para los más grandes), y una generosa red verde urbana (Leidse Hout, Polderpark Cronesteyn, Singelpark). Unas pocas reglas locales y costumbres facilitan el viaje. El Rapenburg, el Nieuwe Rijn y el Hooglandse Kerkgracht son zonas con correa obligatoria; la libertad empieza en los losloopgebieden señalizados del Leidse Hout y del Polderpark Cronesteyn. Los campos de tulipanes de la Bollenstreek florecen en abril-mayo con rutas ciclistas accesibles desde Leiden Centraal.",
+      "introPt": "Leiden é uma das bases mais simples com um cão na Randstad: mais pequena e calma do que Amesterdão ou Roterdão, com as praias para cães do Mar do Norte de Katwijk e Noordwijk a 25-30 minutos de autocarro Connexxion, cães grátis em todos os comboios NS em transportadora (Dagkaart Hond 3,30 € para os maiores), e uma generosa rede verde urbana (Leidse Hout, Polderpark Cronesteyn, Singelpark). Algumas regras locais e hábitos facilitam a viagem. O Rapenburg, o Nieuwe Rijn e o Hooglandse Kerkgracht são zonas com trela obrigatória; a liberdade começa nos losloopgebieden sinalizados do Leidse Hout e do Polderpark Cronesteyn. Os campos de tulipas da Bollenstreek florescem em abril-maio com rotas de bicicleta acessíveis a partir de Leiden Centraal.",
+      "places": [],
+      "tipsEn": [
+        "Carry the NS Dagkaart Hond (€3.30) before boarding the train to Amsterdam, Den Haag, Rotterdam or Schiphol; one ticket covers all NS travel that day for dogs over carrier size.",
+        "In April-May the Bollenstreek tulip fields between Leiden and Haarlem bloom; dogs are not allowed inside Keukenhof gardens but the cycling routes through the surrounding fields (Connexxion bus 57 to Lisse) are dog-friendly on leash, and the Bollenstreek Tourist Office hands out free dog-friendly cycle maps at Leiden Centraal.",
+        "Save the Evidensia Dierenziekenhuis Den Haag 24/7 emergency number 070-2060900 on your phone, it is the regional after-hours emergency hospital for the entire Leiden area; for the northern Bollenstreek and Katwijk side, AniCura Rijngeest in Rijnsburg (071-5156161) keeps a 24/7 emergency line."
+      ],
+      "tipsFr": [
+        "Munissez-vous du Dagkaart Hond NS (3,30 €) avant de monter dans le train vers Amsterdam, La Haye, Rotterdam ou Schiphol ; un seul billet couvre tous les déplacements NS de la journée pour les chiens trop grands pour un sac de transport.",
+        "En avril-mai, les champs de tulipes de la Bollenstreek entre Leiden et Haarlem fleurissent ; les chiens ne sont pas admis dans le Keukenhof mais les itinéraires vélo dans les champs autour (bus Connexxion 57 vers Lisse) sont dog-friendly en laisse, et l'office du tourisme de la Bollenstreek distribue des cartes vélo dog-friendly gratuites à Leiden Centraal.",
+        "Enregistrez le numéro d'urgence 24h/24 de l'Evidensia Dierenziekenhuis Den Haag 070-2060900 sur votre téléphone, c'est l'hôpital d'urgence hors horaires régional pour toute la zone de Leiden ; pour le nord de la Bollenstreek et le côté Katwijk, AniCura Rijngeest à Rijnsburg (071-5156161) tient une ligne d'urgence 24h/24."
+      ],
+      "tipsEs": [
+        "Lleva el Dagkaart Hond de NS (3,30 €) antes de subir al tren a Ámsterdam, La Haya, Rotterdam o Schiphol; un billete cubre todos los viajes NS del día para perros que no quepan en transportín.",
+        "En abril-mayo, los campos de tulipanes de la Bollenstreek entre Leiden y Haarlem florecen; los perros no se admiten dentro del Keukenhof pero las rutas ciclistas por los campos vecinos (autobús Connexxion 57 hacia Lisse) son pet-friendly con correa, y la oficina de turismo de la Bollenstreek reparte mapas ciclistas pet-friendly gratis en Leiden Centraal.",
+        "Guarda en el móvil el número de urgencias 24/7 del Evidensia Dierenziekenhuis Den Haag 070-2060900, es el hospital de urgencias fuera de horario regional para toda la zona de Leiden; para el norte de la Bollenstreek y el lado Katwijk, AniCura Rijngeest en Rijnsburg (071-5156161) mantiene una línea de urgencias 24/7."
+      ],
+      "tipsPt": [
+        "Leva o Dagkaart Hond da NS (3,30 €) antes de entrar no comboio para Amesterdão, Haia, Roterdão ou Schiphol; um único bilhete cobre todas as viagens NS desse dia para cães acima do tamanho de transportadora.",
+        "Em abril-maio os campos de tulipas da Bollenstreek entre Leiden e Haarlem florescem; os cães não são admitidos no Keukenhof mas as rotas de bicicleta pelos campos vizinhos (autocarro Connexxion 57 para Lisse) são pet-friendly com trela, e o posto de turismo da Bollenstreek distribui mapas de bicicleta pet-friendly grátis em Leiden Centraal.",
+        "Guarda no telefone o número de urgências 24/7 do Evidensia Dierenziekenhuis Den Haag 070-2060900, é o hospital de urgências fora de horário regional para toda a zona de Leiden; para o norte da Bollenstreek e o lado Katwijk, a AniCura Rijngeest em Rijnsburg (071-5156161) mantém uma linha de urgências 24/7."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Leiden a good base for visiting Amsterdam and Den Haag with a dog?",
+          "a": "Yes, arguably the best in the Randstad. NS IC trains reach Amsterdam Centraal in 35 minutes, Den Haag Centraal in 12 minutes, Rotterdam Centraal in 25 minutes, Schiphol in 17 minutes. Leiden itself is calmer than the larger cities with a dog, and the North Sea dog beaches at Katwijk and Noordwijk are 25-30 min by Connexxion bus."
+        },
+        {
+          "q": "Are dogs allowed on Katwijk beach in summer?",
+          "a": "Yes, but only in the marked dog zones at the northern and southern ends of the strip during the central swimming zone restriction window (broadly 10:00-19:00 in June-August). Outside that window, off-leash dogs are allowed on the entire beach. Verify the current Katwijk municipal ordinance before going."
+        },
+        {
+          "q": "Can my dog visit the Hortus Botanicus, Rijksmuseum van Oudheden or Naturalis?",
+          "a": "Only assistance dogs are admitted inside the Hortus Botanicus (oldest botanical garden in the Netherlands, 1590), the Rijksmuseum van Oudheden, Rijksmuseum Boerhaave, Naturalis Biodiversity Center, and Museum De Lakenhal. The Rapenburg canal walk alongside the Hortus, the Pieterskerk square, the Burcht castle ramparts and the Singelpark green ring are all accessible on leash."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Leiden est-elle une bonne base pour visiter Amsterdam et La Haye avec un chien ?",
+          "a": "Oui, sans doute la meilleure de la Randstad. Les IC NS rallient Amsterdam Centraal en 35 minutes, La Haye Centraal en 12 minutes, Rotterdam Centraal en 25 minutes, Schiphol en 17 minutes. Leiden est plus calme que les grandes villes côté chien, et les plages chiens en mer du Nord de Katwijk et Noordwijk sont à 25-30 min en bus Connexxion."
+        },
+        {
+          "q": "Les chiens sont-ils admis sur la plage de Katwijk en été ?",
+          "a": "Oui, mais uniquement dans les zones chiens balisées aux extrémités nord et sud du cordon pendant la fenêtre de restriction de la zone de baignade centrale (globalement 10h-19h en juin-août). Hors de cette fenêtre, les chiens sans laisse sont admis sur toute la plage. Vérifiez l'arrêté municipal de Katwijk en vigueur avant d'y aller."
+        },
+        {
+          "q": "Mon chien peut-il visiter le Hortus Botanicus, le Rijksmuseum van Oudheden ou Naturalis ?",
+          "a": "Seuls les chiens d'assistance sont admis dans le Hortus Botanicus (plus ancien jardin botanique des Pays-Bas, 1590), le Rijksmuseum van Oudheden, le Rijksmuseum Boerhaave, le Naturalis Biodiversity Center et le Museum De Lakenhal. La balade sur le Rapenburg le long du Hortus, la place de la Pieterskerk, les remparts de la Burcht et l'anneau vert Singelpark sont tous accessibles en laisse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Leiden una buena base para visitar Ámsterdam y La Haya con perro?",
+          "a": "Sí, posiblemente la mejor de la Randstad. Los IC de NS llegan a Ámsterdam Centraal en 35 minutos, La Haya Centraal en 12 minutos, Rotterdam Centraal en 25 minutos, Schiphol en 17 minutos. Leiden es más tranquila que las grandes ciudades con perro, y las playas para perros del Mar del Norte de Katwijk y Noordwijk quedan a 25-30 min en autobús Connexxion."
+        },
+        {
+          "q": "¿Se admiten perros en la playa de Katwijk en verano?",
+          "a": "Sí, pero solo en las zonas perros señalizadas en los extremos norte y sur del cordón durante la ventana de restricción de la zona de baño central (en líneas generales 10:00-19:00 en junio-agosto). Fuera de esa ventana, los perros sin correa se admiten en toda la playa. Verifica la ordenanza municipal de Katwijk vigente antes de ir."
+        },
+        {
+          "q": "¿Puede mi perro visitar el Hortus Botanicus, el Rijksmuseum van Oudheden o Naturalis?",
+          "a": "Solo se admiten perros de asistencia en el Hortus Botanicus (jardín botánico más antiguo de los Países Bajos, 1590), el Rijksmuseum van Oudheden, el Rijksmuseum Boerhaave, el Naturalis Biodiversity Center y el Museum De Lakenhal. El paseo del Rapenburg junto al Hortus, la plaza de la Pieterskerk, las murallas de la Burcht y el anillo verde del Singelpark son accesibles con correa."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Leiden é uma boa base para visitar Amesterdão e Haia com um cão?",
+          "a": "Sim, possivelmente a melhor da Randstad. Os IC da NS chegam a Amesterdão Centraal em 35 minutos, Haia Centraal em 12 minutos, Roterdão Centraal em 25 minutos, Schiphol em 17 minutos. Leiden é mais sossegada do que as grandes cidades com um cão, e as praias para cães do Mar do Norte de Katwijk e Noordwijk ficam a 25-30 min de autocarro Connexxion."
+        },
+        {
+          "q": "Os cães são admitidos na praia de Katwijk no verão?",
+          "a": "Sim, mas apenas nas zonas cães sinalizadas nas extremidades norte e sul do cordão durante a janela de restrição da zona de banhos central (grosso modo 10:00-19:00 em junho-agosto). Fora dessa janela, os cães sem trela são admitidos em toda a praia. Verifica a ordenação municipal de Katwijk em vigor antes de ir."
+        },
+        {
+          "q": "O meu cão pode visitar o Hortus Botanicus, o Rijksmuseum van Oudheden ou o Naturalis?",
+          "a": "Só cães de assistência são admitidos no Hortus Botanicus (jardim botânico mais antigo dos Países Baixos, 1590), no Rijksmuseum van Oudheden, no Rijksmuseum Boerhaave, no Naturalis Biodiversity Center e no Museum De Lakenhal. O passeio do Rapenburg ao longo do Hortus, a praça da Pieterskerk, as muralhas da Burcht e o anel verde do Singelpark são acessíveis com trela."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Things to Do in Leiden, Burcht Castle & Rapenburg Canal",
+      "titleFr": "Activités acceptant les chiens à Leiden, Burcht et canal Rapenburg",
+      "titleEs": "Cosas que hacer con perro en Leiden, Burcht y canal Rapenburg",
+      "titlePt": "Coisas para fazer com cão em Leiden, Burcht e canal Rapenburg",
+      "introEn": "Leiden's compact medieval centre, the 12th-century Burcht van Leiden circular castle on its artificial hill (the only one of its kind in the Netherlands), the Late-Gothic Hooglandse Kerk, the Pieterskerk with the Pilgrim Fathers' memorial (the Mayflower congregation worshipped here 1609-1620 before sailing for the New World), the Rapenburg canal walk past the 1575 University and the wall of the Hortus Botanicus (1590), and the Molen De Valk windmill museum mean almost every signature experience is accessible on leash with a dog at your side. Three highlights stand out: the Burcht ramparts and the panoramic city view, the Rapenburg-Pieterskerk walk, and the Plantage park down to the windmill.",
+      "introFr": "Le centre médiéval compact de Leiden, le château circulaire Burcht van Leiden du XIIe siècle sur sa motte artificielle (unique en son genre aux Pays-Bas), la Hooglandse Kerk gothique tardif, la Pieterskerk avec le mémorial des Pères Pèlerins (la congrégation du Mayflower y a prié de 1609 à 1620 avant de partir pour le Nouveau Monde), la balade sur le Rapenburg le long de l'Université de 1575 et du mur du Hortus Botanicus (1590), et le moulin-musée Molen De Valk font que presque chaque expérience phare est accessible en laisse. Trois temps forts se détachent : les remparts de la Burcht et la vue panoramique, la balade Rapenburg-Pieterskerk et la Plantage jusqu'au moulin.",
+      "introEs": "El compacto centro medieval de Leiden, el castillo circular Burcht van Leiden del siglo XII sobre su loma artificial (único en su género en los Países Bajos), la Hooglandse Kerk gótica tardía, la Pieterskerk con el memorial de los Padres Peregrinos (la congregación del Mayflower oró aquí entre 1609 y 1620 antes de partir al Nuevo Mundo), el paseo del Rapenburg junto a la Universidad de 1575 y el muro del Hortus Botanicus (1590), y el molino-museo Molen De Valk hacen que casi toda experiencia señera sea accesible con correa. Destacan tres: las murallas de la Burcht y la vista panorámica, el paseo Rapenburg-Pieterskerk y la Plantage hasta el molino.",
+      "introPt": "O compacto centro medieval de Leiden, o castelo circular Burcht van Leiden do século XII sobre o seu outeiro artificial (único do género nos Países Baixos), a Hooglandse Kerk do gótico tardio, a Pieterskerk com o memorial dos Pais Peregrinos (a congregação do Mayflower aí rezou de 1609 a 1620 antes de partir para o Novo Mundo), o passeio do Rapenburg ao longo da Universidade de 1575 e do muro do Hortus Botanicus (1590), e o moinho-museu Molen De Valk fazem com que quase toda a experiência marcante seja acessível com trela. Destacam-se três: as muralhas da Burcht e a vista panorâmica, o passeio Rapenburg-Pieterskerk e a Plantage até ao moinho.",
+      "places": [
+        {
+          "name": "Burcht van Leiden ramparts",
+          "address": "Burgsteeg 14, 2312 JS Leiden",
+          "neighborhood": "Centrum",
+          "photo": "/images/city-places/leiden-attractions-burcht-van-leiden-ramparts.jpg",
+          "website": "https://www.leiden.nl/burcht",
+          "description": "A 12th-century circular shell-keep on an artificial motte at the confluence of the Oude and Nieuwe Rijn, the oldest surviving structure in Leiden and the only motte-and-bailey of its kind in the Netherlands. Free entry, panoramic 360° view from the ramparts over the entire historic centre, the Hooglandse Kerk and the canals. Leashed dogs are welcome on the ramparts and in the inner courtyard; the cellar restaurant De Burcht admits dogs on its garden terrace.",
+          "descriptionFr": "Donjon-coquille circulaire du XIIe siècle sur une motte artificielle au confluent de l'Oude et du Nieuwe Rijn, plus ancienne structure subsistante de Leiden et unique motte castrale du genre aux Pays-Bas. Entrée libre, vue panoramique à 360° depuis les remparts sur tout le centre historique, la Hooglandse Kerk et les canaux. Chiens en laisse acceptés sur les remparts et dans la cour intérieure ; le restaurant en cave De Burcht accepte les chiens sur sa terrasse de jardin.",
+          "descriptionEs": "Torre del homenaje circular del siglo XII sobre una loma artificial en la confluencia del Oude y el Nieuwe Rijn, la estructura más antigua superviviente de Leiden y única loma castral del género en los Países Bajos. Entrada gratis, vista panorámica 360° desde las murallas sobre todo el centro histórico, la Hooglandse Kerk y los canales. Perros con correa admitidos en las murallas y en el patio interior; el restaurante en sótano De Burcht admite perros en la terraza del jardín.",
+          "descriptionPt": "Torre de menagem circular do século XII sobre um outeiro artificial na confluência do Oude e do Nieuwe Rijn, a estrutura mais antiga sobrevivente de Leiden e única motta castral do género nos Países Baixos. Entrada gratuita, vista panorâmica 360° das muralhas sobre todo o centro histórico, a Hooglandse Kerk e os canais. Cães com trela admitidos nas muralhas e no pátio interior; o restaurante na cave De Burcht aceita cães na esplanada do jardim.",
+          "petPolicy": "Leashed dogs welcome on ramparts and courtyard 24/7; cellar restaurant garden terrace dog-friendly",
+          "petPolicyFr": "Chiens en laisse acceptés sur les remparts et la cour 24h/24 ; terrasse jardin du restaurant en cave dog-friendly",
+          "petPolicyEs": "Perros con correa admitidos en murallas y patio 24/7; terraza jardín del restaurante en sótano pet-friendly",
+          "petPolicyPt": "Cães com trela admitidos nas muralhas e no pátio 24/7; esplanada jardim do restaurante na cave pet-friendly",
+          "openingHours": "Ramparts 24/7 free access; restaurant Tue-Sun 12:00-22:00",
+          "tip": "Climb the ramparts at sunset, the angle catches the Hooglandse Kerk tower in golden light and the canals empty as the day-trippers head back to Leiden Centraal; the dog gets the cool stone of the inner court.",
+          "tipFr": "Montez aux remparts au coucher du soleil, l'angle capte la tour de la Hooglandse Kerk en lumière dorée et les canaux se vident à mesure que les visiteurs rentrent à Leiden Centraal ; le chien profite de la pierre fraîche de la cour intérieure.",
+          "tipEs": "Sube a las murallas al atardecer, el ángulo capta la torre de la Hooglandse Kerk con luz dorada y los canales se vacían a medida que los turistas vuelven a Leiden Centraal; el perro disfruta del frescor de la piedra del patio interior.",
+          "tipPt": "Sobe às muralhas ao pôr-do-sol, o ângulo capta a torre da Hooglandse Kerk com luz dourada e os canais vão esvaziando à medida que os turistas voltam à Leiden Centraal; o cão aproveita o frescor da pedra do pátio interior.",
+          "googleMapsUrl": "https://maps.google.com/?q=Burcht+van+Leiden"
+        },
+        {
+          "name": "Rapenburg canal & Pieterskerk square",
+          "address": "Rapenburg, 2311 EX Leiden",
+          "neighborhood": "Centrum",
+          "photo": "/images/city-places/leiden-attractions-rapenburg-canal-pieterskerk-square.jpg",
+          "website": "https://www.pieterskerk.com/",
+          "description": "The Rapenburg is Leiden's most beautiful canal, double-tree-lined with patrician 17th-century townhouses, the 1575 Universiteit Leiden Academiegebouw, and the wall of the Hortus Botanicus (oldest in the Netherlands, 1590). Halfway along, a side street leads to the Pieterskerk square and church, where the Mayflower Pilgrim congregation worshipped 1609-1620 before sailing for the New World, with a memorial plaque to Pastor John Robinson buried inside. Dogs are welcome on the canal walk and the cobbled Pieterskerkhof square; the church interior assistance dogs only.",
+          "descriptionFr": "Le Rapenburg est le plus beau canal de Leiden, bordé de doubles rangées d'arbres avec les maisons patriciennes du XVIIe, l'Academiegebouw de l'Université de 1575 et le mur du Hortus Botanicus (plus ancien des Pays-Bas, 1590). À mi-chemin, une ruelle mène à la place et à l'église Pieterskerk où la congrégation pèlerine du Mayflower a prié de 1609 à 1620 avant de partir pour le Nouveau Monde, avec une plaque mémorielle du pasteur John Robinson enterré à l'intérieur. Chiens acceptés sur la promenade du canal et la place pavée du Pieterskerkhof ; intérieur de l'église : chiens d'assistance uniquement.",
+          "descriptionEs": "El Rapenburg es el canal más bello de Leiden, bordeado por dobles hileras de árboles con casas patricias del siglo XVII, el Academiegebouw de la Universidad de 1575 y el muro del Hortus Botanicus (más antiguo de los Países Bajos, 1590). A mitad de camino, un callejón lleva a la plaza e iglesia Pieterskerk donde la congregación peregrina del Mayflower oró de 1609 a 1620 antes de partir al Nuevo Mundo, con placa memorial al pastor John Robinson enterrado dentro. Perros admitidos en el paseo del canal y la plaza adoquinada del Pieterskerkhof; interior de la iglesia solo perros de asistencia.",
+          "descriptionPt": "O Rapenburg é o canal mais belo de Leiden, ladeado por filas duplas de árvores com casas patrícias do século XVII, o Academiegebouw da Universidade de 1575 e o muro do Hortus Botanicus (mais antigo dos Países Baixos, 1590). A meio caminho, uma ruela leva à praça e à igreja Pieterskerk onde a congregação peregrina do Mayflower rezou de 1609 a 1620 antes de partir para o Novo Mundo, com placa memorial ao pastor John Robinson enterrado lá dentro. Cães admitidos no passeio do canal e na praça empedrada do Pieterskerkhof; interior da igreja só cães de assistência.",
+          "petPolicy": "Leashed dogs welcome 24/7 on quay and square; Pieterskerk interior assistance dogs only",
+          "petPolicyFr": "Chiens en laisse acceptés 24h/24 sur quai et place ; intérieur Pieterskerk : chiens d'assistance uniquement",
+          "petPolicyEs": "Perros con correa admitidos 24/7 en muelle y plaza; interior Pieterskerk solo perros de asistencia",
+          "petPolicyPt": "Cães com trela admitidos 24/7 no cais e na praça; interior Pieterskerk só cães de assistência",
+          "openingHours": "Quay 24/7; Pieterskerk Tue-Sun 11:00-18:00",
+          "tip": "Walk the west quay of the Rapenburg from the Academiegebouw south to the Hortus Botanicus wall, then cut east to the Pieterskerkhof; sunset light on the brick facades is the postcard moment, allow 60 minutes with a dog.",
+          "tipFr": "Marchez sur le quai ouest du Rapenburg de l'Academiegebouw au sud jusqu'au mur du Hortus Botanicus, puis coupez à l'est vers le Pieterskerkhof ; la lumière du couchant sur les façades en briques est le moment carte postale, comptez 60 minutes avec un chien.",
+          "tipEs": "Camina por el muelle oeste del Rapenburg desde el Academiegebouw al sur hasta el muro del Hortus Botanicus, luego corta al este hacia el Pieterskerkhof; la luz del atardecer sobre las fachadas de ladrillo es el momento postal, calcula 60 minutos con perro.",
+          "tipPt": "Caminha pelo cais oeste do Rapenburg desde o Academiegebouw para sul até ao muro do Hortus Botanicus, depois corta para leste em direção ao Pieterskerkhof; a luz do poente nas fachadas de tijolo é o momento postal, conta 60 minutos com um cão.",
+          "googleMapsUrl": "https://maps.google.com/?q=Rapenburg+Pieterskerk+Leiden"
+        },
+        {
+          "name": "Molen De Valk & Plantage park",
+          "address": "2e Binnenvestgracht 1, 2313 BZ Leiden",
+          "neighborhood": "Centrum",
+          "photo": "/images/city-places/leiden-attractions-molen-de-valk-plantage-park.jpg",
+          "website": "https://www.molendevalk.nl/",
+          "description": "A 1743 corn windmill on the northern singel, now a working windmill museum and one of Leiden's most photographed landmarks. The museum interior admits only assistance dogs but the brick base courtyard, the singel walk around the mill and the Plantage park behind (oldest urban park in the Netherlands, 1656) are dog-walkable on leash. Pair with the Singelpark green ring for a calm 2 km canal-and-mill loop from the Beestenmarkt.",
+          "descriptionFr": "Moulin à blé de 1743 sur le singel nord, aujourd'hui musée du moulin en activité et l'un des monuments les plus photographiés de Leiden. L'intérieur du musée n'admet que les chiens d'assistance mais la cour à la base, la balade sur le singel autour du moulin et le parc Plantage en arrière (plus ancien parc urbain des Pays-Bas, 1656) sont accessibles en laisse. À combiner avec l'anneau vert du Singelpark pour une boucle calme canal-et-moulin de 2 km depuis le Beestenmarkt.",
+          "descriptionEs": "Molino harinero de 1743 sobre el singel norte, hoy museo del molino en activo y uno de los monumentos más fotografiados de Leiden. El interior del museo solo admite perros de asistencia pero el patio en la base, el paseo sobre el singel en torno al molino y el parque Plantage detrás (parque urbano más antiguo de los Países Bajos, 1656) son accesibles con correa. Combina con el anillo verde del Singelpark para una vuelta tranquila canal-y-molino de 2 km desde el Beestenmarkt.",
+          "descriptionPt": "Moinho de cereal de 1743 sobre o singel norte, hoje museu do moinho em laboração e um dos monumentos mais fotografados de Leiden. O interior do museu só admite cães de assistência mas o pátio na base, o passeio pelo singel em torno do moinho e o parque Plantage atrás (parque urbano mais antigo dos Países Baixos, 1656) são acessíveis com trela. Combina com o anel verde do Singelpark para um circuito calmo canal-e-moinho de 2 km a partir do Beestenmarkt.",
+          "petPolicy": "Leashed dogs welcome in the singel walk, the brick base courtyard and the Plantage park; museum interior assistance dogs only",
+          "petPolicyFr": "Chiens en laisse acceptés sur la balade du singel, la cour à la base et le parc Plantage ; intérieur du musée : chiens d'assistance uniquement",
+          "petPolicyEs": "Perros con correa admitidos en el paseo del singel, el patio en la base y el parque Plantage; interior del museo solo perros de asistencia",
+          "petPolicyPt": "Cães com trela admitidos no passeio do singel, no pátio na base e no parque Plantage; interior do museu só cães de assistência",
+          "openingHours": "Outdoor 24/7; museum Tue-Sat 10:00-17:00, Sun 13:00-17:00",
+          "tip": "Walk from the Beestenmarkt 5 min north along the Oude Singel to Molen De Valk, then loop through the Plantage park and back via the Witte Singel west quay; flat, shaded, 2 km total.",
+          "tipFr": "Marchez du Beestenmarkt 5 min au nord le long de l'Oude Singel jusqu'à Molen De Valk, puis bouclez par le parc Plantage et retour par le quai ouest du Witte Singel ; plat, ombragé, 2 km au total.",
+          "tipEs": "Camina del Beestenmarkt 5 min al norte por el Oude Singel hasta Molen De Valk, luego haz un lazo por el parque Plantage y vuelta por el muelle oeste del Witte Singel; llano, sombreado, 2 km en total.",
+          "tipPt": "Caminha do Beestenmarkt 5 min para norte pelo Oude Singel até ao Molen De Valk, depois faz um laço pelo parque Plantage e volta pelo cais oeste do Witte Singel; plano, sombreado, 2 km no total.",
+          "googleMapsUrl": "https://maps.google.com/?q=Molen+De+Valk+Leiden"
+        }
+      ],
+      "tipsEn": [
+        "Visit the Burcht early morning before 09:00, the ramparts are empty and the panoramic view over the Hooglandse Kerk catches first light.",
+        "Combine a Rapenburg canal walk with the Pieterskerk Pilgrim Fathers memorial and the Plantage-Molen De Valk loop; the three sit within 1.5 km, doable in a half day with frequent dog rest stops.",
+        "The Hortus Botanicus, Rijksmuseum van Oudheden, Rijksmuseum Boerhaave, Naturalis and Museum De Lakenhal all admit only assistance dogs inside; the Burcht ramparts, the Rapenburg, the Pieterskerkhof and the Singelpark are all dog-walkable on leash."
+      ],
+      "tipsFr": [
+        "Visitez la Burcht tôt le matin avant 9h, les remparts sont vides et la vue panoramique sur la Hooglandse Kerk capte la première lumière.",
+        "Combinez la balade canal Rapenburg avec le mémorial des Pères Pèlerins de la Pieterskerk et la boucle Plantage-Molen De Valk ; les trois sites tiennent dans 1,5 km, faisable en une demi-journée avec des pauses chien régulières.",
+        "Le Hortus Botanicus, le Rijksmuseum van Oudheden, le Rijksmuseum Boerhaave, Naturalis et le Museum De Lakenhal n'admettent à l'intérieur que les chiens d'assistance ; les remparts de la Burcht, le Rapenburg, le Pieterskerkhof et le Singelpark sont tous accessibles en laisse."
+      ],
+      "tipsEs": [
+        "Visita la Burcht temprano por la mañana antes de las 09:00, las murallas están vacías y la vista panorámica sobre la Hooglandse Kerk recibe la primera luz.",
+        "Combina el paseo canal Rapenburg con el memorial de los Padres Peregrinos de la Pieterskerk y la vuelta Plantage-Molen De Valk; los tres sitios caben en 1,5 km, factible en media jornada con paradas regulares para el perro.",
+        "El Hortus Botanicus, el Rijksmuseum van Oudheden, el Rijksmuseum Boerhaave, Naturalis y el Museum De Lakenhal solo admiten perros de asistencia dentro; las murallas de la Burcht, el Rapenburg, el Pieterskerkhof y el Singelpark son accesibles con correa."
+      ],
+      "tipsPt": [
+        "Visita a Burcht cedo de manhã antes das 09:00, as muralhas estão vazias e a vista panorâmica sobre a Hooglandse Kerk apanha a primeira luz.",
+        "Combina o passeio canal Rapenburg com o memorial dos Pais Peregrinos da Pieterskerk e o circuito Plantage-Molen De Valk; os três locais cabem em 1,5 km, viável em meia jornada com paragens regulares para o cão.",
+        "O Hortus Botanicus, o Rijksmuseum van Oudheden, o Rijksmuseum Boerhaave, o Naturalis e o Museum De Lakenhal só admitem cães de assistência no interior; as muralhas da Burcht, o Rapenburg, o Pieterskerkhof e o Singelpark são acessíveis com trela."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog up the Burcht van Leiden ramparts?",
+          "a": "Yes. Leashed dogs are welcome on the ramparts and in the inner courtyard 24/7, entry is free, and the panoramic view over the Hooglandse Kerk and the canals is the best in the historic centre."
+        },
+        {
+          "q": "Is Leiden's old town walkable with a dog?",
+          "a": "Yes, the entire historic core inside the singels is walkable on leash, including the Rapenburg, the Pieterskerkhof, the Beestenmarkt, the Hooglandse Kerkgracht and the Singelpark green ring. Mind cyclists on the narrow Breestraat and Haarlemmerstraat shopping spines."
+        },
+        {
+          "q": "Are dogs allowed in Leiden museums?",
+          "a": "Most Leiden museums (Rijksmuseum van Oudheden, Rijksmuseum Boerhaave, Naturalis Biodiversity Center, Museum De Lakenhal, Hortus Botanicus, Pieterskerk and Hooglandse Kerk) only admit assistance dogs. The Burcht ramparts, the Pieterskerkhof square and the outdoor sections of the Plantage and Molen De Valk are dog-friendly on leash."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je monter sur les remparts de la Burcht van Leiden avec mon chien ?",
+          "a": "Oui. Les chiens en laisse sont acceptés sur les remparts et dans la cour intérieure 24h/24, l'entrée est gratuite, et la vue panoramique sur la Hooglandse Kerk et les canaux est la meilleure du centre historique."
+        },
+        {
+          "q": "Le centre historique de Leiden est-il accessible avec un chien ?",
+          "a": "Oui, tout le cœur historique à l'intérieur des singels est arpentable en laisse, dont le Rapenburg, le Pieterskerkhof, le Beestenmarkt, le Hooglandse Kerkgracht et l'anneau vert Singelpark. Attention aux cyclistes sur les épines commerçantes étroites du Breestraat et du Haarlemmerstraat."
+        },
+        {
+          "q": "Les chiens sont-ils admis dans les musées de Leiden ?",
+          "a": "La plupart des musées de Leiden (Rijksmuseum van Oudheden, Rijksmuseum Boerhaave, Naturalis, Museum De Lakenhal, Hortus Botanicus, Pieterskerk et Hooglandse Kerk) n'admettent que les chiens d'assistance. Les remparts de la Burcht, la place du Pieterskerkhof et les sections extérieures de la Plantage et de Molen De Valk sont dog-friendly en laisse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo subir a las murallas de la Burcht van Leiden con mi perro?",
+          "a": "Sí. Los perros con correa son bienvenidos en las murallas y en el patio interior 24/7, la entrada es gratis, y la vista panorámica sobre la Hooglandse Kerk y los canales es la mejor del centro histórico."
+        },
+        {
+          "q": "¿Es accesible con perro el casco antiguo de Leiden?",
+          "a": "Sí, todo el núcleo histórico dentro de los singels se recorre con correa, incluido el Rapenburg, el Pieterskerkhof, el Beestenmarkt, el Hooglandse Kerkgracht y el anillo verde Singelpark. Atención a los ciclistas en las estrechas calles comerciales Breestraat y Haarlemmerstraat."
+        },
+        {
+          "q": "¿Se admiten perros en los museos de Leiden?",
+          "a": "La mayoría de los museos de Leiden (Rijksmuseum van Oudheden, Rijksmuseum Boerhaave, Naturalis, Museum De Lakenhal, Hortus Botanicus, Pieterskerk y Hooglandse Kerk) solo admiten perros de asistencia. Las murallas de la Burcht, la plaza del Pieterskerkhof y las secciones exteriores de la Plantage y Molen De Valk son pet-friendly con correa."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso subir às muralhas da Burcht van Leiden com o meu cão?",
+          "a": "Sim. Os cães com trela são bem-vindos nas muralhas e no pátio interior 24/7, a entrada é gratuita, e a vista panorâmica sobre a Hooglandse Kerk e os canais é a melhor do centro histórico."
+        },
+        {
+          "q": "É possível percorrer o centro histórico de Leiden com um cão?",
+          "a": "Sim, todo o núcleo histórico dentro dos singels é percorrível com trela, incluindo o Rapenburg, o Pieterskerkhof, o Beestenmarkt, o Hooglandse Kerkgracht e o anel verde Singelpark. Cuidado com os ciclistas nas estreitas ruas comerciais Breestraat e Haarlemmerstraat."
+        },
+        {
+          "q": "Os cães são admitidos nos museus de Leiden?",
+          "a": "A maioria dos museus de Leiden (Rijksmuseum van Oudheden, Rijksmuseum Boerhaave, Naturalis, Museum De Lakenhal, Hortus Botanicus, Pieterskerk e Hooglandse Kerk) só admite cães de assistência. As muralhas da Burcht, a praça do Pieterskerkhof e as secções exteriores da Plantage e do Molen De Valk são pet-friendly com trela."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Leiden",
+      "titleFr": "Garde et promenade de chiens à Leiden",
+      "titleEs": "Cuidado y paseo de perros en Leiden",
+      "titlePt": "Cuidado e passeio de cães em Leiden",
+      "introEn": "Leiden benefits from the same dense Dutch pet-care infrastructure as Amsterdam and Den Haag, with extra coverage from the dog-loving residential neighbourhoods of Stevenshof, Cronesteyn and the Houtkwartier, plus the large student population around the Universiteit (cheap, reliable walkers). Three online platforms cover the city well; book at least 48 hours ahead in school holidays and bring proof of vaccination. Most sitters accept English-language bookings.",
+      "introFr": "Leiden bénéficie du même réseau dense de garde que Amsterdam et La Haye, avec une couverture renforcée par les quartiers résidentiels orientés chien de Stevenshof, Cronesteyn et du Houtkwartier, ainsi que la large population étudiante autour de l'Universiteit (promeneurs bon marché et fiables). Trois plateformes en ligne couvrent bien la ville ; réservez au moins 48 h à l'avance pendant les vacances scolaires et apportez les preuves de vaccination. La plupart des prestataires acceptent les réservations en anglais.",
+      "introEs": "Leiden se beneficia de la misma red densa de cuidado de mascotas neerlandesa que Ámsterdam y La Haya, con cobertura adicional desde los barrios residenciales pro-canino de Stevenshof, Cronesteyn y el Houtkwartier, además de la amplia población estudiantil en torno a la Universiteit (paseadores baratos y fiables). Tres plataformas online cubren bien la ciudad; reserva con al menos 48 h de antelación en vacaciones escolares y lleva la documentación de vacunas. La mayoría de cuidadores aceptan reservas en inglés.",
+      "introPt": "Leiden beneficia da mesma rede densa de cuidado de animais neerlandesa que Amesterdão e Haia, com cobertura adicional dos bairros residenciais pró-canino de Stevenshof, Cronesteyn e do Houtkwartier, e ainda a ampla população estudantil em torno da Universiteit (passeadores baratos e fiáveis). Três plataformas online cobrem bem a cidade; reserva com pelo menos 48 h de antecedência nas férias escolares e leva a documentação das vacinas. A maioria dos cuidadores aceita reservas em inglês.",
+      "places": [
+        {
+          "name": "Pawshake Leiden",
+          "address": "Online platform; sitters citywide",
+          "neighborhood": "Citywide",
+          "photo": "",
+          "languages": [
+            "Dutch",
+            "English"
+          ],
+          "website": "https://en.pawshake.nl/petsitters/leiden",
+          "description": "The largest verified pet-sitting marketplace in the Netherlands, with hundreds of bookings in Leiden and an average rating above 4.9 out of 5. Offers drop-in visits, full-day sitting, dog walking and overnight boarding, all bookable in English. Useful for the days you take the train to Amsterdam or Den Haag for a museum visit where the dog cannot come.",
+          "descriptionFr": "La plus grande place de marché néerlandaise vérifiée pour la garde d'animaux, avec des centaines de réservations à Leiden et une note moyenne au-dessus de 4,9 sur 5. Visites à domicile, garde à la journée, promenade et hébergement de nuit, le tout réservable en anglais. Pratique les jours où vous prenez le train vers Amsterdam ou La Haye pour un musée où le chien ne peut pas venir.",
+          "descriptionEs": "El mayor mercado de cuidado de mascotas verificado en los Países Bajos, con cientos de reservas en Leiden y una valoración media superior a 4,9 sobre 5. Ofrece visitas, cuidado de día, paseos y alojamiento nocturno, todo reservable en inglés. Útil los días en que coges el tren a Ámsterdam o La Haya para un museo donde el perro no puede entrar.",
+          "descriptionPt": "O maior marketplace verificado de cuidado de animais nos Países Baixos, com centenas de reservas em Leiden e uma avaliação média acima de 4,9 em 5. Oferece visitas, cuidado de dia, passeios e alojamento noturno, tudo reservável em inglês. Útil nos dias em que apanhas o comboio para Amesterdão ou Haia para um museu onde o cão não pode entrar.",
+          "tip": "Filter by 'verified ID' and 'experienced with breed' before booking; Leiden has many student sitters but quality varies.",
+          "tipFr": "Filtrez sur 'pièce d'identité vérifiée' et 'expérience avec la race' avant de réserver ; Leiden compte beaucoup de prestataires étudiants mais la qualité varie.",
+          "tipEs": "Filtra por 'identidad verificada' y 'experiencia con la raza' antes de reservar: en Leiden hay muchos cuidadores estudiantes pero la calidad varía.",
+          "tipPt": "Filtra por 'identidade verificada' e 'experiência com a raça' antes de reservar: em Leiden há muitos cuidadores estudantes mas a qualidade varia."
+        },
+        {
+          "name": "Petbnb Leiden",
+          "address": "Online platform; sitters citywide",
+          "neighborhood": "Citywide",
+          "photo": "",
+          "languages": [
+            "Dutch",
+            "English"
+          ],
+          "website": "https://www.petbnb.nl/en/dog-sitting-in-leiden",
+          "description": "A Dutch sitter platform that includes premium pet insurance and 24/7 customer support on every booking. Coverage is dense in the Centrum, Stevenshof and the Houtkwartier. The English interface makes it the most painless option for short-stay visitors who don't read Dutch.",
+          "descriptionFr": "Plateforme néerlandaise de garde qui inclut une assurance premium et un support client 24h/24 sur chaque réservation. Bonne couverture dans le centre, Stevenshof et le Houtkwartier. L'interface en anglais en fait l'option la plus simple pour les visiteurs courts séjours non néerlandophones.",
+          "descriptionEs": "Plataforma neerlandesa de cuidadores que incluye seguro premium y atención al cliente 24/7 en cada reserva. Buena cobertura en el centro, Stevenshof y el Houtkwartier. La interfaz en inglés la convierte en la opción más cómoda para visitantes de estancia corta que no leen neerlandés.",
+          "descriptionPt": "Plataforma neerlandesa de cuidadores que inclui seguro premium e apoio ao cliente 24/7 em cada reserva. Boa cobertura no centro, Stevenshof e Houtkwartier. A interface em inglês torna-a a opção mais fácil para visitantes de estadia curta que não leem neerlandês.",
+          "tip": "All bookings include third-party liability insurance, useful peace of mind if your dog is reactive in unfamiliar homes.",
+          "tipFr": "Toutes les réservations incluent une assurance responsabilité civile, utile si votre chien est réactif dans un environnement inconnu.",
+          "tipEs": "Todas las reservas incluyen seguro de responsabilidad civil: tranquilidad útil si tu perro reacciona en entornos desconocidos.",
+          "tipPt": "Todas as reservas incluem seguro de responsabilidade civil: tranquilidade útil se o teu cão for reativo em ambientes desconhecidos."
+        },
+        {
+          "name": "Rover Leiden",
+          "address": "Online platform; sitters citywide",
+          "neighborhood": "Citywide",
+          "photo": "",
+          "languages": [
+            "Dutch",
+            "English"
+          ],
+          "website": "https://www.rover.com/nl/leiden--zuid-holland--hondenuitlaatservice/",
+          "description": "Global sitter and dog-walker platform with strong Leiden coverage and the same in-app messaging UX as in the rest of Europe. Most sitters list standard daily walks (60 min on a fixed schedule) plus on-request boarding. Insurance is included by default on every Rover booking.",
+          "descriptionFr": "Plateforme mondiale de garde et promenade avec une solide couverture à Leiden et l'expérience de messagerie identique au reste de l'Europe. La plupart des prestataires proposent des promenades quotidiennes standard (60 min à horaire fixe) et de la garde à la demande. L'assurance est incluse par défaut sur chaque réservation Rover.",
+          "descriptionEs": "Plataforma global de cuidadores y paseadores con sólida cobertura en Leiden y la misma experiencia de mensajería que en el resto de Europa. La mayoría ofrece paseos diarios estándar (60 min a horario fijo) y alojamiento bajo petición. El seguro va incluido por defecto en cada reserva Rover.",
+          "descriptionPt": "Plataforma global de cuidadores e passeadores com sólida cobertura em Leiden e a mesma experiência de mensagens que no resto da Europa. A maioria oferece passeios diários padrão (60 min a horário fixo) e alojamento a pedido. O seguro está incluído por defeito em cada reserva Rover.",
+          "tip": "Rover walkers typically work fixed routes; schedule a meet-and-greet first if your dog is wary of new people.",
+          "tipFr": "Les promeneurs Rover ont en général des tournées fixes ; prévoyez une rencontre préalable si votre chien se méfie des inconnus.",
+          "tipEs": "Los paseadores de Rover suelen tener rutas fijas: planifica un encuentro previo si tu perro desconfía de los extraños.",
+          "tipPt": "Os passeadores Rover têm tipicamente rotas fixas: agenda um encontro prévio se o teu cão for desconfiado com estranhos."
+        }
+      ],
+      "tipsEn": [
+        "Book at least 48 hours ahead during Dutch school holidays (May, July-August, October, Christmas); sitter availability tightens fast.",
+        "Bring proof of rabies vaccination and a copy of the EU pet passport; most sitters require it before the first visit.",
+        "Always do a 30-minute meet-and-greet on arrival day before leaving the dog for a half- or full-day booking."
+      ],
+      "tipsFr": [
+        "Réservez au moins 48 h à l'avance pendant les vacances scolaires néerlandaises (mai, juillet-août, octobre, Noël) ; la disponibilité se tend vite.",
+        "Apportez la preuve de la vaccination antirabique et une copie du passeport européen ; la plupart des prestataires l'exigent avant la première visite.",
+        "Faites toujours une rencontre de 30 minutes le jour de l'arrivée avant de laisser le chien pour une demi-journée ou une journée complète."
+      ],
+      "tipsEs": [
+        "Reserva con al menos 48 h de antelación en vacaciones escolares neerlandesas (mayo, julio-agosto, octubre, Navidad); la disponibilidad se reduce rápido.",
+        "Lleva la prueba de vacuna antirrábica y una copia del pasaporte europeo; la mayoría de cuidadores los exigen antes de la primera visita.",
+        "Haz siempre un encuentro de 30 minutos el día de la llegada antes de dejar al perro para media jornada o jornada completa."
+      ],
+      "tipsPt": [
+        "Reserva com pelo menos 48 h de antecedência durante as férias escolares neerlandesas (maio, julho-agosto, outubro, Natal); a disponibilidade aperta depressa.",
+        "Leva prova de vacina antirrábica e cópia do passaporte europeu; a maioria dos cuidadores exige antes da primeira visita.",
+        "Faz sempre um encontro de 30 minutos no dia de chegada antes de deixar o cão por meia jornada ou jornada inteira."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does pet sitting cost in Leiden?",
+          "a": "Drop-in visits start around €15, dog walks around €18 for 60 minutes, full-day sitting around €25-35, and overnight boarding €30-55 depending on sitter experience and dog size."
+        },
+        {
+          "q": "Are sitters insured?",
+          "a": "Pawshake, Petbnb and Rover all include third-party liability insurance and accidental injury cover by default on bookings made through their platforms."
+        },
+        {
+          "q": "Can I leave my dog at the hotel instead?",
+          "a": "Most Leiden hotels do not allow dogs to be left unattended in rooms. A few centre boutique hotels offer informal sitter referrals; otherwise, book a sitter for the hours you need to leave."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte la garde de chiens à Leiden ?",
+          "a": "Les visites à domicile démarrent autour de 15 €, les promenades autour de 18 € pour 60 minutes, la garde à la journée 25-35 €, l'hébergement de nuit 30-55 € selon l'expérience du prestataire et la taille du chien."
+        },
+        {
+          "q": "Les prestataires sont-ils assurés ?",
+          "a": "Pawshake, Petbnb et Rover incluent par défaut une assurance responsabilité civile et une couverture accident sur les réservations faites via leurs plateformes."
+        },
+        {
+          "q": "Puis-je laisser mon chien à l'hôtel ?",
+          "a": "La plupart des hôtels de Leiden n'autorisent pas les chiens seuls en chambre. Quelques boutiques du centre proposent des contacts informels de sitters ; sinon, réservez une garde pour les heures où vous devez vous absenter."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta el cuidado de mascotas en Leiden?",
+          "a": "Las visitas a domicilio parten de unos 15 €, los paseos en torno a 18 € por 60 minutos, el cuidado de día 25-35 € y el alojamiento nocturno 30-55 € según experiencia del cuidador y tamaño del perro."
+        },
+        {
+          "q": "¿Están asegurados los cuidadores?",
+          "a": "Pawshake, Petbnb y Rover incluyen por defecto seguro de responsabilidad civil y cobertura de accidentes en las reservas hechas a través de sus plataformas."
+        },
+        {
+          "q": "¿Puedo dejar al perro en el hotel?",
+          "a": "La mayoría de los hoteles de Leiden no permiten dejar al perro solo en la habitación. Algunos boutique del centro ofrecen contactos informales de cuidadores; si no, reserva un cuidador para las horas que necesites ausentarte."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Quanto custa o cuidado de animais em Leiden?",
+          "a": "As visitas começam cerca de 15 €, os passeios cerca de 18 € por 60 minutos, o cuidado de dia 25-35 € e o alojamento noturno 30-55 € consoante a experiência do cuidador e o tamanho do cão."
+        },
+        {
+          "q": "Os cuidadores estão segurados?",
+          "a": "Pawshake, Petbnb e Rover incluem por defeito seguro de responsabilidade civil e cobertura de acidente nas reservas feitas através das suas plataformas."
+        },
+        {
+          "q": "Posso deixar o cão no hotel?",
+          "a": "A maioria dos hotéis de Leiden não permite deixar o cão sozinho no quarto. Alguns boutique do centro oferecem contactos informais de cuidadores; caso contrário, reserva um cuidador para as horas em que precisas de te ausentar."
+        }
+      ]
+    }
+  }
+}

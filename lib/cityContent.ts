@@ -11313,6 +11313,139 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  haarlem: {
+    history: {
+      en: `Haarlem grew up on the Spaarne river in the Middle Ages as a fortified textile and brewing town, receiving its city charter in 1245. It became one of the wealthiest cities of the Dutch Golden Age, home to painters Frans Hals and Jacob van Ruisdael and a centre of the 17th-century tulip trade. The compact historic core still clusters inside the singel canals around the Grote Markt and the towering Grote Sint-Bavokerk, ringed by sixteen surviving hofjes (almshouse courtyards) and Golden Age merchant houses. Just 20 km west of Amsterdam yet far calmer, Haarlem pairs museum-city culture with the dunes, woods and North Sea dog beaches on its doorstep, making it one of the most relaxed pet-friendly bases in the Randstad.`,
+      fr: `Haarlem s'est développée sur la rivière Spaarne au Moyen Âge comme ville fortifiée du textile et de la brasserie, recevant sa charte municipale en 1245. Elle devint l'une des villes les plus riches du Siècle d'or néerlandais, patrie des peintres Frans Hals et Jacob van Ruisdael et centre du commerce des tulipes au XVIIe siècle. Le cœur historique compact se serre toujours à l'intérieur des canaux singel autour du Grote Markt et de l'imposante Grote Sint-Bavokerk, entouré de seize hofjes (cours d'hospices) préservés et de maisons de marchands de l'âge d'or. À seulement 20 km à l'ouest d'Amsterdam mais bien plus paisible, Haarlem associe la culture d'une ville de musées aux dunes, aux bois et aux plages pour chiens de la mer du Nord à sa porte, ce qui en fait l'une des bases les plus détendues pour voyager avec un animal dans la Randstad.`,
+      es: `Haarlem creció a orillas del río Spaarne en la Edad Media como ciudad fortificada del textil y la cerveza, y recibió su carta municipal en 1245. Llegó a ser una de las ciudades más ricas del Siglo de Oro neerlandés, cuna de los pintores Frans Hals y Jacob van Ruisdael y centro del comercio de tulipanes del siglo XVII. El compacto casco histórico aún se agrupa dentro de los canales singel en torno a la Grote Markt y la imponente Grote Sint-Bavokerk, rodeado de dieciséis hofjes (patios de beneficencia) conservados y casas de mercaderes de la edad dorada. A solo 20 km al oeste de Ámsterdam pero mucho más tranquila, Haarlem combina la cultura de una ciudad de museos con las dunas, los bosques y las playas para perros del mar del Norte a su puerta, lo que la convierte en una de las bases más relajadas para viajar con mascota en la Randstad.`,
+      pt: `Haarlem cresceu junto ao rio Spaarne na Idade Média como cidade fortificada do têxtil e da cerveja, recebendo a sua carta municipal em 1245. Tornou-se uma das cidades mais ricas do Século de Ouro neerlandês, terra dos pintores Frans Hals e Jacob van Ruisdael e centro do comércio de túlipas do século XVII. O compacto centro histórico ainda se agrupa dentro dos canais singel em redor da Grote Markt e da imponente Grote Sint-Bavokerk, rodeado por dezasseis hofjes (pátios de beneficência) preservados e casas de mercadores da idade de ouro. A apenas 20 km a oeste de Amesterdão mas bem mais tranquila, Haarlem combina a cultura de uma cidade de museus com as dunas, os bosques e as praias para cães do mar do Norte à sua porta, o que a torna uma das bases mais descontraídas para viajar com animal na Randstad.`,
+    },
+    sights: [
+      {
+        name: 'Grote Markt & Grote Sint-Bavokerk',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La grande place centrale, dominée par la Grote Sint-Bavokerk gothique (tombe de Frans Hals, orgue Müller de 1766), est bordée de terrasses où les chiens tenus en laisse sont les bienvenus. L'intérieur de l'église n'admet pas les animaux, mais la place pavée est idéale pour une pause café.`,
+          en: `The grand central square, dominated by the Gothic Grote Sint-Bavokerk (Frans Hals's tomb, the 1766 Müller organ), is lined with terraces that welcome leashed dogs. The church interior does not admit pets, but the cobbled square is perfect for a coffee stop.`,
+          es: `La gran plaza central, dominada por la gótica Grote Sint-Bavokerk (tumba de Frans Hals, órgano Müller de 1766), está rodeada de terrazas que admiten perros con correa. El interior de la iglesia no permite mascotas, pero la plaza adoquinada es perfecta para una parada de café.`,
+          pt: `A grande praça central, dominada pela gótica Grote Sint-Bavokerk (túmulo de Frans Hals, órgão Müller de 1766), está rodeada de esplanadas que aceitam cães com trela. O interior da igreja não admite animais, mas a praça calcetada é perfeita para uma paragem de café.`,
+        },
+      },
+      {
+        name: 'Haarlemmerhout',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus ancien parc public des Pays-Bas (1583) est un bois mature aux allées ombragées, à dix minutes à pied du centre. Les chiens tenus en laisse y sont les bienvenus et plusieurs pelouses se prêtent à une longue promenade matinale.`,
+          en: `The oldest public park in the Netherlands (1583) is a mature wood of shaded avenues a ten-minute walk from the centre. Leashed dogs are welcome and several lawns suit a long morning walk.`,
+          es: `El parque público más antiguo de los Países Bajos (1583) es un bosque maduro de avenidas sombreadas a diez minutos a pie del centro. Los perros con correa son bienvenidos y varios prados invitan a un largo paseo matinal.`,
+          pt: `O parque público mais antigo dos Países Baixos (1583) é um bosque maduro de avenidas sombreadas a dez minutos a pé do centro. Os cães com trela são bem-vindos e vários relvados convidam a um longo passeio matinal.`,
+        },
+      },
+      {
+        name: 'Schoterbos',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Ce parc boisé au nord du Spaarne possède deux prairies clôturées où les chiens peuvent courir sans laisse, ainsi que des sentiers le long de l'eau. C'est le rendez-vous des propriétaires de chiens haarlemois le week-end.`,
+          en: `This wooded park north of the Spaarne has two fenced meadows where dogs can run off-leash, plus waterside trails. It is the weekend meeting point for Haarlem dog owners.`,
+          es: `Este parque arbolado al norte del Spaarne tiene dos praderas valladas donde los perros pueden correr sin correa, además de senderos junto al agua. Es el punto de encuentro de los dueños de perros de Haarlem los fines de semana.`,
+          pt: `Este parque arborizado a norte do Spaarne tem dois prados vedados onde os cães podem correr sem trela, além de trilhos junto à água. É o ponto de encontro dos donos de cães de Haarlem ao fim de semana.`,
+        },
+      },
+      {
+        name: 'Molen De Adriaan',
+        emoji: '🌬️',
+        petFriendly: true,
+        desc: {
+          fr: `Ce moulin à vent reconstruit sur les rives du Spaarne est l'image carte postale de Haarlem. On ne visite pas l'intérieur avec un chien, mais le chemin de halage le long de la rivière offre une jolie balade jusqu'au centre historique.`,
+          en: `This rebuilt windmill on the banks of the Spaarne is Haarlem's postcard image. You cannot tour the interior with a dog, but the riverside towpath makes a pretty walk into the historic centre.`,
+          es: `Este molino de viento reconstruido a orillas del Spaarne es la imagen de postal de Haarlem. No se visita el interior con perro, pero el camino de sirga junto al río ofrece un bonito paseo hasta el centro histórico.`,
+          pt: `Este moinho de vento reconstruído nas margens do Spaarne é a imagem de postal de Haarlem. Não se visita o interior com cão, mas o caminho à beira-rio oferece um bonito passeio até ao centro histórico.`,
+        },
+      },
+      {
+        name: 'Zandvoort aan Zee',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La station balnéaire de la mer du Nord est à dix minutes en train NS. Le hondenstrand (plage pour chiens) de Zandvoort Zuid autorise les chiens toute l'année, sans laisse sur les 9 km du 1er octobre au 1er mai. Eau et sable à volonté.`,
+          en: `The North Sea resort is ten minutes away by NS train. The Zandvoort Zuid hondenstrand (dog beach) allows dogs year-round, off-leash along the full 9 km from October 1 to May 1. Water and sand in abundance.`,
+          es: `El balneario del mar del Norte está a diez minutos en tren NS. El hondenstrand (playa para perros) de Zandvoort Zuid admite perros todo el año, sin correa a lo largo de los 9 km del 1 de octubre al 1 de mayo. Agua y arena a discreción.`,
+          pt: `A estância balnear do mar do Norte fica a dez minutos de comboio NS. O hondenstrand (praia para cães) de Zandvoort Zuid admite cães todo o ano, sem trela ao longo dos 9 km de 1 de outubro a 1 de maio. Água e areia à vontade.`,
+        },
+      },
+      {
+        name: 'Frans Hals Museum',
+        emoji: '🖼️',
+        petFriendly: false,
+        desc: {
+          fr: `Le musée consacré au maître du portrait du Siècle d'or occupe un ancien hospice du XVIIe siècle. Les chiens ne sont pas admis dans les salles, mais la cour et les ruelles environnantes du quartier valent le détour avant ou après la visite.`,
+          en: `The museum devoted to the Golden Age portrait master occupies a former 17th-century almshouse. Dogs are not admitted in the galleries, but the courtyard and surrounding lanes are worth a wander before or after your visit.`,
+          es: `El museo dedicado al maestro del retrato del Siglo de Oro ocupa un antiguo hospicio del siglo XVII. No se admiten perros en las salas, pero el patio y las callejuelas del entorno merecen un paseo antes o después de la visita.`,
+          pt: `O museu dedicado ao mestre do retrato do Século de Ouro ocupa um antigo hospício do século XVII. Não se admitem cães nas salas, mas o pátio e as ruelas em redor merecem um passeio antes ou depois da visita.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les chiens voyagent dans les trains NS : gratuitement s'ils tiennent dans un sac, sinon avec un Dagkaart Hond (carte journée chien) à 3,30 €. Amsterdam Centraal est à 15 minutes.`,
+        `La plupart des terrasses et de nombreux cafés du centre acceptent les chiens tenus en laisse ; demandez avant d'entrer dans les boutiques.`,
+        `Pour la plage sans laisse, visez le hondenstrand de Zandvoort Zuid entre le 1er octobre et le 1er mai ; en plein été, les chiens sont limités aux extrémités de la plage.`,
+        `Le Nationaal Park Zuid-Kennemerland (6 km à l'ouest) impose la laisse pour protéger les bovins Highland et la faune des dunes : respectez le balisage.`,
+        `Emportez de l'eau lors des balades dans les dunes en été : les sentiers sablonneux offrent peu d'ombre et chauffent vite.`,
+      ],
+      en: [
+        `Dogs travel on NS trains free if they fit in a bag, otherwise with a Dagkaart Hond (dog day ticket) at €3.30. Amsterdam Centraal is 15 minutes away.`,
+        `Most terraces and many city-centre cafés welcome leashed dogs; ask before entering shops.`,
+        `For off-leash beach, aim for the Zandvoort Zuid hondenstrand between October 1 and May 1; in high summer dogs are restricted to the beach ends.`,
+        `Nationaal Park Zuid-Kennemerland (6 km west) requires leashes to protect its Highland cattle and dune wildlife: follow the signs.`,
+        `Carry water on dune walks in summer: the sandy trails offer little shade and heat up quickly.`,
+      ],
+      es: [
+        `Los perros viajan en los trenes NS gratis si caben en una bolsa, de lo contrario con un Dagkaart Hond (billete de día para perro) de 3,30 €. Ámsterdam Centraal está a 15 minutos.`,
+        `La mayoría de las terrazas y muchos cafés del centro admiten perros con correa; pregunta antes de entrar en las tiendas.`,
+        `Para la playa sin correa, busca el hondenstrand de Zandvoort Zuid entre el 1 de octubre y el 1 de mayo; en pleno verano los perros se limitan a los extremos de la playa.`,
+        `El Nationaal Park Zuid-Kennemerland (6 km al oeste) exige correa para proteger su ganado Highland y la fauna de las dunas: respeta la señalización.`,
+        `Lleva agua en los paseos por las dunas en verano: los senderos arenosos ofrecen poca sombra y se calientan rápido.`,
+      ],
+      pt: [
+        `Os cães viajam nos comboios NS grátis se couberem num saco, caso contrário com um Dagkaart Hond (bilhete de dia para cão) de 3,30 €. Amesterdão Centraal fica a 15 minutos.`,
+        `A maioria das esplanadas e muitos cafés do centro aceitam cães com trela; pergunte antes de entrar nas lojas.`,
+        `Para praia sem trela, procure o hondenstrand de Zandvoort Zuid entre 1 de outubro e 1 de maio; em pleno verão os cães ficam limitados às extremidades da praia.`,
+        `O Nationaal Park Zuid-Kennemerland (6 km a oeste) exige trela para proteger o seu gado Highland e a fauna das dunas: respeite a sinalização.`,
+        `Leve água nos passeios pelas dunas no verão: os trilhos arenosos oferecem pouca sombra e aquecem depressa.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire avec urgences 24h/24 : Caressa Dierenziekenhuis Haarlem, Generaal Spoorlaan 89, +31 23 537 0220`,
+        `En dehors des heures d'ouverture, Caressa oriente vers Evidensia Dierenziekenhuis Amsterdam (Amstelveen)`,
+        `Trains NS pour Amsterdam Centraal toutes les 10 minutes (15 min) ; Sprinter direct pour l'aéroport de Schiphol (20 min)`,
+        `Plage pour chiens de Zandvoort accessible en 10 minutes par train NS jusqu'à Zandvoort aan Zee`,
+      ],
+      en: [
+        `24-hour emergency vet: Caressa Dierenziekenhuis Haarlem, Generaal Spoorlaan 89, +31 23 537 0220`,
+        `Outside opening hours, Caressa refers to Evidensia Dierenziekenhuis Amsterdam (Amstelveen)`,
+        `NS trains to Amsterdam Centraal every 10 minutes (15 min); direct Sprinter to Schiphol Airport (20 min)`,
+        `Zandvoort dog beach reachable in 10 minutes by NS train to Zandvoort aan Zee`,
+      ],
+      es: [
+        `Veterinario con urgencias 24h: Caressa Dierenziekenhuis Haarlem, Generaal Spoorlaan 89, +31 23 537 0220`,
+        `Fuera del horario de apertura, Caressa deriva a Evidensia Dierenziekenhuis Amsterdam (Amstelveen)`,
+        `Trenes NS a Ámsterdam Centraal cada 10 minutos (15 min); Sprinter directo al aeropuerto de Schiphol (20 min)`,
+        `Playa para perros de Zandvoort accesible en 10 minutos en tren NS hasta Zandvoort aan Zee`,
+      ],
+      pt: [
+        `Veterinário com urgências 24h: Caressa Dierenziekenhuis Haarlem, Generaal Spoorlaan 89, +31 23 537 0220`,
+        `Fora do horário de abertura, a Caressa encaminha para a Evidensia Dierenziekenhuis Amsterdam (Amstelveen)`,
+        `Comboios NS para Amesterdão Centraal a cada 10 minutos (15 min); Sprinter direto para o aeroporto de Schiphol (20 min)`,
+        `Praia para cães de Zandvoort acessível em 10 minutos de comboio NS até Zandvoort aan Zee`,
+      ],
+    },
+  },
+
   hallstatt: {
     history: {
       en: `Hallstatt is one of the most photographed villages on Earth - a 750-resident UNESCO World Heritage Site pressed between the steep face of the Salzberg mountain and Lake Hallstatt in the heart of the Austrian Salzkammergut. The settlement is over 7,000 years old; the Hallstatt period of the European Iron Age (c. 800–450 BCE) is named after the salt mine that has been worked here continuously since prehistory, making it arguably the oldest still-operating industrial site in the world. The village's iconic compressed silhouette of pastel timber houses tiered against the cliff, the parish church spire reflected in the lake, and the dramatic mountain backdrop have made it a global symbol of Alpine Austria. UNESCO inscribed the entire Hallstatt-Dachstein Salzkammergut cultural landscape in 1997, and tourism has since exploded: 750 residents now receive up to 10,000 visitors a day in peak summer. Despite the crowds, Hallstatt remains a working village with daily life, school, church, post office and (yes) resident dogs walking the lakeside promenade at dawn and dusk.`,

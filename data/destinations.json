@@ -16652,6 +16652,34 @@
     "iata": "AGP"
   },
   {
+    "slug": "taormina",
+    "name": "Taormina",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/taormina.jpg",
+    "intro": "Taormina, the cliff-top Sicilian balcony 200 m above the Ionian Sea facing Mount Etna and the location of HBO`s The White Lotus Season 2, pairs the 3rd-century BC Greco-Roman Teatro Antico with the pedestrianised Corso Umberto, the tidal-causeway Isola Bella nature reserve, the Funivia cable car down to Mazzarò beach, and the long sandy designated dog beach at Letojanni 5 km north. Trenitalia regional trains from Stazione Taormina-Giardini connect Catania CTA airport in 1 hour and Messina in 50 minutes.",
+    "lat": 37.8516,
+    "lng": 15.2853,
+    "weather": {
+      "jan": { "temp": 13, "desc": "Mild & breezy", "icon": "⛅" },
+      "feb": { "temp": 13, "desc": "Mild & dry", "icon": "⛅" },
+      "mar": { "temp": 15, "desc": "Mild & pleasant", "icon": "🌤️" },
+      "apr": { "temp": 17, "desc": "Warm & sunny", "icon": "🌤️" },
+      "may": { "temp": 21, "desc": "Warm & sunny", "icon": "🌤️" },
+      "jun": { "temp": 25, "desc": "Hot & dry", "icon": "☀️" },
+      "jul": { "temp": 29, "desc": "Hot & dry", "icon": "☀️" },
+      "aug": { "temp": 29, "desc": "Hot & dry", "icon": "☀️" },
+      "sep": { "temp": 26, "desc": "Warm & humid", "icon": "🌤️" },
+      "oct": { "temp": 22, "desc": "Mild with rain", "icon": "🌦️" },
+      "nov": { "temp": 18, "desc": "Mild with rain", "icon": "🌦️" },
+      "dec": { "temp": 14, "desc": "Mild & breezy", "icon": "⛅" }
+    },
+    "iata": "CTA",
+    "tiqetsId": null
+  },
+  {
     "slug": "tarragona",
     "name": "Tarragona",
     "country": "Spain",

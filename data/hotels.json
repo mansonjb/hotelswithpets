@@ -36601,5 +36601,115 @@
       "300 m to Platja de Roses",
       "Casc antic location"
     ]
+  },
+  {
+    "id": "taormina-1",
+    "slug": "nh-collection-taormina",
+    "name": "NH Collection Taormina",
+    "destinationSlug": "taormina",
+    "categories": ["dog-friendly", "cat-friendly", "luxury"],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1850,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/nhcollectiontaormina.html",
+    "petFee": 35,
+    "petPolicy": "Dogs and cats welcome, max 25 kg and 2 pets per room. Pet fee 35 EUR per day. Guide dogs free of charge. Notify the hotel in advance.",
+    "address": "Via Circonvallazione 11, 98039 Taormina",
+    "neighborhood": "Centre / 5 min walk to Corso Umberto",
+    "highlights": [
+      "Infinity pool with Etna view",
+      "Panoramic terrace over the Ionian Sea",
+      "5 min walk to Teatro Antico"
+    ]
+  },
+  {
+    "id": "taormina-2",
+    "slug": "hotel-villa-carlotta-taormina",
+    "name": "Hotel Villa Carlotta",
+    "destinationSlug": "taormina",
+    "categories": ["dog-friendly"],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 1340,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/villa-fabbiano.html",
+    "petFee": 50,
+    "petPolicy": "Small dogs welcome with dedicated pet amenities. Pet fee 50 EUR per stay. Notify the hotel in advance.",
+    "address": "Via Luigi Pirandello 81, 98039 Taormina",
+    "neighborhood": "Centre / 100 m from Funivia cable car",
+    "highlights": [
+      "Panoramic terrace over the Ionian Sea",
+      "Outdoor pool",
+      "100 m from Funivia to Mazzaro beach"
+    ]
+  },
+  {
+    "id": "taormina-3",
+    "slug": "excelsior-palace-hotel-taormina",
+    "name": "Excelsior Palace Hotel",
+    "destinationSlug": "taormina",
+    "categories": ["dog-friendly", "cat-friendly", "dogs-stay-free"],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1620,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/excelsior-palace-taormina.html",
+    "petFee": 0,
+    "petPolicy": "Pets up to 10 kg welcome at no extra charge. Service animals always allowed. Notify the hotel in advance.",
+    "address": "Via Toselli 8, 98039 Taormina",
+    "neighborhood": "Centre / Porta Catania end of Corso Umberto",
+    "highlights": [
+      "Panoramic pool with Etna view",
+      "Free WiFi",
+      "5 min walk to Teatro Antico"
+    ]
+  },
+  {
+    "id": "taormina-4",
+    "slug": "hotel-victoria-taormina",
+    "name": "Hotel Victoria",
+    "destinationSlug": "taormina",
+    "categories": ["dog-friendly", "cat-friendly", "dogs-stay-free"],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 980,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/victoria-taormina.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats of any size welcome at no extra charge. Service animals always allowed. Notify the hotel in advance.",
+    "address": "Corso Umberto 81, 98039 Taormina",
+    "neighborhood": "Corso Umberto pedestrian centre",
+    "highlights": [
+      "On the pedestrian Corso Umberto",
+      "Free WiFi",
+      "Walking distance to Teatro Antico and Villa Comunale"
+    ]
+  },
+  {
+    "id": "taormina-5",
+    "slug": "hotel-continental-taormina",
+    "name": "Hotel Continental",
+    "destinationSlug": "taormina",
+    "categories": ["dog-friendly", "cat-friendly", "dogs-stay-free"],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 760,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/continental-taormina.html",
+    "petFee": 0,
+    "petPolicy": "Pets welcome on request at no extra charge. Notify the hotel in advance.",
+    "address": "Via Dionisio I 2A, 98039 Taormina",
+    "neighborhood": "Centre / panoramic terrace over the Bay of Naxos",
+    "highlights": [
+      "Panoramic terrace over Etna and the Bay of Naxos",
+      "Free WiFi",
+      "5 min walk to Corso Umberto"
+    ]
   }
 ]

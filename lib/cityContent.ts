@@ -21903,6 +21903,139 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  taormina: {
+    history: {
+      fr: `Taormine est perchée à 200 mètres au-dessus de la mer Ionienne sur un éperon du Monte Tauro, face au volcan Etna (3 357 m). Fondée par les Sicèles puis colonisée par les Grecs au IVe siècle av. J.-C. sous le nom de Tauromenion, la ville a conservé un Teatro Antico gréco-romain spectaculaire qui surplombe encore aujourd'hui la baie et l'Etna en arrière-plan. Sous les Romains, les Arabes, les Normands puis les Aragonais, Taormine est restée une station de villégiature prisée : Goethe, Brahms, Truman Capote et D.H. Lawrence y ont séjourné, et la deuxième saison de la série HBO « The White Lotus » y a été tournée en 2022 au San Domenico Palace. La commune ne compte que 11 000 habitants à l'année mais reçoit plusieurs millions de visiteurs annuels. Les Sicilientes sont accueillants envers les chiens en laisse : le Corso Umberto piétonnier, la Villa Comunale et la plupart des terrasses les acceptent volontiers.`,
+      en: `Taormina perches 200 metres above the Ionian Sea on a spur of Monte Tauro, facing Mount Etna (3,357 m). Founded by the Sicels and colonised by the Greeks in the 4th century BC as Tauromenion, the town has kept a spectacular Greco-Roman Teatro Antico that still overlooks the bay with Etna in the backdrop. Under Romans, Arabs, Normans and Aragonese, Taormina remained a favoured resort: Goethe, Brahms, Truman Capote and D.H. Lawrence stayed here, and Season 2 of the HBO series The White Lotus was shot here in 2022 at the San Domenico Palace. The municipality has only 11,000 year-round residents but draws several million annual visitors. Sicilians are welcoming to leashed dogs: the pedestrianised Corso Umberto, the Villa Comunale gardens and most café terraces happily accept them.`,
+      es: `Taormina se encarama a 200 metros sobre el mar Jónico en un espolón del Monte Tauro, frente al volcán Etna (3.357 m). Fundada por los sículos y colonizada por los griegos en el siglo IV a.C. como Tauromenion, la ciudad conserva un espectacular Teatro Antico grecorromano que aún hoy domina la bahía con el Etna al fondo. Bajo romanos, árabes, normandos y aragoneses, Taormina siguió siendo un balneario predilecto: Goethe, Brahms, Truman Capote y D.H. Lawrence pasaron por aquí, y la segunda temporada de la serie HBO The White Lotus se rodó aquí en 2022 en el San Domenico Palace. El municipio cuenta solo con 11.000 residentes anuales pero atrae varios millones de visitantes al año. Los sicilianos acogen bien a los perros con correa: el Corso Umberto peatonal, los jardines de la Villa Comunale y la mayoría de terrazas de cafés los aceptan sin problema.`,
+      pt: `Taormina empoleira-se a 200 metros sobre o mar Jónico num esporão do Monte Tauro, em frente ao vulcão Etna (3357 m). Fundada pelos sículos e colonizada pelos gregos no século IV a.C. como Tauromenion, a cidade conserva um espectacular Teatro Antico greco-romano que ainda hoje domina a baía com o Etna ao fundo. Sob romanos, árabes, normandos e aragoneses, Taormina manteve-se como estância predilecta: Goethe, Brahms, Truman Capote e D.H. Lawrence passaram por aqui, e a segunda temporada da série HBO The White Lotus foi filmada aqui em 2022 no San Domenico Palace. O município tem apenas 11.000 residentes anuais mas atrai vários milhões de visitantes por ano. Os sicilianos acolhem bem os cães com trela: o Corso Umberto pedonal, os jardins da Villa Comunale e a maioria das esplanadas aceitam-nos sem problemas.`,
+    },
+    sights: [
+      {
+        name: 'Teatro Antico di Taormina',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Le théâtre gréco-romain du IIIe siècle av. J.-C., remanié par les Romains, est le plus spectaculaire de Sicile : il s'ouvre directement sur l'Etna et la baie. Les chiens en laisse sont admis dans la zone archéologique de plein air (vérifier avec le Parco Archeologico avant la visite). Les concerts d'été du Taormina Arte y battent leur plein.`,
+          en: `This 3rd-century BC Greco-Roman theatre, reworked by the Romans, is Sicily's most spectacular: it opens directly onto Etna and the bay. Leashed dogs are admitted in the outdoor archaeological area (confirm with the Parco Archeologico before visiting). The summer Taormina Arte concerts fill it nightly.`,
+          es: `Este teatro grecorromano del siglo III a.C., remodelado por los romanos, es el más espectacular de Sicilia: se abre directamente sobre el Etna y la bahía. Los perros con correa se admiten en la zona arqueológica al aire libre (confirmar con el Parco Archeologico antes de la visita). Los conciertos de verano del Taormina Arte lo llenan cada noche.`,
+          pt: `Este teatro greco-romano do século III a.C., remodelado pelos romanos, é o mais espectacular da Sicília: abre-se directamente sobre o Etna e a baía. Os cães com trela são admitidos na zona arqueológica ao ar livre (confirmar com o Parco Archeologico antes da visita). Os concertos de verão do Taormina Arte enchem-no todas as noites.`,
+        },
+      },
+      {
+        name: 'Corso Umberto',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `L'artère piétonne qui traverse Taormine de la Porta Catania à la Porta Messina concentre boutiques, gelaterie et cafés. Promenade idéale en laisse, surtout le matin avant l'afflux ou en soirée pour la passeggiata.`,
+          en: `The pedestrian artery that crosses Taormina from Porta Catania to Porta Messina concentrates shops, gelaterie and cafés. An ideal leashed walk, especially in the morning before the crowds or at dusk for the passeggiata.`,
+          es: `La arteria peatonal que atraviesa Taormina de Porta Catania a Porta Messina concentra tiendas, gelaterie y cafés. Paseo ideal con correa, sobre todo por la mañana antes de la afluencia o al atardecer para la passeggiata.`,
+          pt: `A artéria pedonal que atravessa Taormina da Porta Catania à Porta Messina concentra lojas, gelaterie e cafés. Passeio ideal com trela, sobretudo de manhã antes da afluência ou ao entardecer para a passeggiata.`,
+        },
+      },
+      {
+        name: 'Villa Comunale',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Les jardins publics « Parco Duca di Cesarò » créés en 1922 par Florence Trevelyan offrent un panorama sur l'Etna et la mer Ionienne. Les chiens en laisse sont les bienvenus sur les allées ombragées, parfaites par forte chaleur.`,
+          en: `The "Parco Duca di Cesarò" public gardens, laid out in 1922 by Florence Trevelyan, offer a panorama over Etna and the Ionian Sea. Leashed dogs are welcome on the shaded paths, ideal in summer heat.`,
+          es: `Los jardines públicos «Parco Duca di Cesarò», trazados en 1922 por Florence Trevelyan, ofrecen una vista panorámica del Etna y el mar Jónico. Los perros con correa son bienvenidos en los senderos sombreados, ideales con calor fuerte.`,
+          pt: `Os jardins públicos «Parco Duca di Cesarò», desenhados em 1922 por Florence Trevelyan, oferecem um panorama sobre o Etna e o mar Jónico. Os cães com trela são bem-vindos nos caminhos sombreados, ideais com calor forte.`,
+        },
+      },
+      {
+        name: 'Isola Bella',
+        emoji: '🏝️',
+        petFriendly: true,
+        desc: {
+          fr: `« La perle de la Méditerranée », un îlot relié à la côte par un tombolo de galets accessible à marée basse. Réserve naturelle régionale : les chiens en laisse sont admis sur le tombolo et la plage hors saison de baignade (octobre à avril).`,
+          en: `"The pearl of the Mediterranean", an islet linked to the shore by a pebble causeway crossable at low tide. A regional nature reserve: leashed dogs are admitted on the causeway and beach outside the bathing season (October to April).`,
+          es: `«La perla del Mediterráneo», un islote unido a la costa por un tómbolo de cantos rodados accesible a marea baja. Reserva natural regional: los perros con correa se admiten en el tómbolo y la playa fuera de temporada de baño (octubre a abril).`,
+          pt: `«A pérola do Mediterrâneo», um ilhéu ligado à costa por um tômbolo de calhau atravessável na maré baixa. Reserva natural regional: os cães com trela são admitidos no tômbolo e na praia fora da época balnear (outubro a abril).`,
+        },
+      },
+      {
+        name: 'Funivia Taormina-Mazzarò',
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          fr: `Le téléphérique de 5 minutes relie le centre de Taormine à la crique de Mazzarò 200 m en contrebas. Les petits chiens en sac de transport sont admis ; les grands chiens muselés et en laisse sont généralement acceptés (confirmer à la billetterie).`,
+          en: `The 5-minute cable car links central Taormina to Mazzarò cove 200 m below. Small dogs in a carrier are admitted; large dogs muzzled and leashed are generally accepted (confirm at the ticket office).`,
+          es: `El teleférico de 5 minutos enlaza el centro de Taormina con la cala de Mazzarò 200 m abajo. Los perros pequeños en transportín se admiten; los perros grandes con bozal y correa suelen aceptarse (confirmar en taquilla).`,
+          pt: `O teleférico de 5 minutos liga o centro de Taormina à enseada de Mazzarò 200 m abaixo. Os cães pequenos em transportadora são admitidos; os cães grandes com açaime e trela costumam ser aceites (confirmar na bilheteira).`,
+        },
+      },
+      {
+        name: 'Castelmola',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Le village perché à 4 km à l'ouest de Taormine, à 550 m d'altitude, offre une vue à 360° sur l'Etna et la baie. La montée à pied (1h30) avec un chien en laisse est exigeante mais récompensée par les ruelles du village et une halte au Bar Turrisi.`,
+          en: `The hilltop village 4 km west of Taormina at 550 m altitude offers a 360° view over Etna and the bay. The walk up (1h30) with a leashed dog is demanding but rewarded by the village lanes and a stop at the Bar Turrisi.`,
+          es: `El pueblo en lo alto a 4 km al oeste de Taormina, a 550 m de altitud, ofrece una vista de 360° sobre el Etna y la bahía. La subida a pie (1h30) con perro con correa es exigente pero recompensada por las calles del pueblo y una parada en el Bar Turrisi.`,
+          pt: `A aldeia no alto a 4 km a oeste de Taormina, a 550 m de altitude, oferece uma vista de 360° sobre o Etna e a baía. A subida a pé (1h30) com cão com trela é exigente mas recompensada pelas ruelas da aldeia e uma paragem no Bar Turrisi.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le Funivia Taormina-Mazzarò accepte les petits chiens en sac de transport gratuitement et les grands chiens muselés en laisse ; confirmez à la billetterie en bas de la Via Pirandello.`,
+        `Les trains régionaux Trenitalia (Stazione Taormina-Giardini, à 5 km en contrebas) acceptent les chiens ≤6 kg en sac gratuitement, les plus grands muselés avec billet à demi-tarif.`,
+        `L'été, le Corso Umberto et les escaliers de tuf atteignent 32-34 °C : promenez votre chien avant 10h ou après 18h et emportez de l'eau ; le scirocco amène encore plus de chaleur.`,
+        `À Isola Bella et Mazzarò, les chiens en laisse sont admis hors saison de baignade (octobre à avril) ; pour une baignade canine toute l'année, visez Sea Cup Beach à Letojanni, 5 km au nord.`,
+        `Une excursion à l'Etna est possible avec un chien en laisse jusqu'au Rifugio Sapienza (1 923 m, 1h de voiture) ; les téléphériques d'altitude n'acceptent pas les animaux, contentez-vous des sentiers de basse altitude du Parco dell'Etna.`,
+      ],
+      en: [
+        `The Funivia Taormina-Mazzarò cable car accepts small dogs in a carrier free of charge and large dogs muzzled on a lead; confirm at the ticket office at the bottom of Via Pirandello.`,
+        `Trenitalia regional trains (Stazione Taormina-Giardini, 5 km below) accept dogs ≤6 kg in a carrier free of charge, larger dogs muzzled with a half-fare ticket.`,
+        `In summer, the Corso Umberto and tuff staircases reach 32-34 °C: walk your dog before 10am or after 6pm and carry water; the scirocco wind brings even more heat.`,
+        `At Isola Bella and Mazzarò, leashed dogs are admitted outside the bathing season (October to April); for year-round dog swimming, head to Sea Cup Beach at Letojanni, 5 km north.`,
+        `An Etna excursion is possible with a leashed dog up to Rifugio Sapienza (1,923 m, 1h drive); the summit cable cars do not accept animals, so stick to the lower trails of Parco dell'Etna.`,
+      ],
+      es: [
+        `La Funivia Taormina-Mazzarò admite perros pequeños en transportín gratis y perros grandes con bozal y correa; confirma en la taquilla al pie de la Via Pirandello.`,
+        `Los trenes regionales Trenitalia (Stazione Taormina-Giardini, 5 km abajo) admiten perros ≤6 kg en transportín gratis, los más grandes con bozal y billete a media tarifa.`,
+        `En verano, el Corso Umberto y las escaleras de toba alcanzan los 32-34 °C: pasea a tu perro antes de las 10h o después de las 18h y lleva agua; el siroco trae aún más calor.`,
+        `En Isola Bella y Mazzarò, los perros con correa se admiten fuera de temporada de baño (octubre a abril); para baño canino todo el año, ve a Sea Cup Beach en Letojanni, 5 km al norte.`,
+        `Una excursión al Etna es posible con perro con correa hasta el Rifugio Sapienza (1923 m, 1h en coche); los teleféricos de cumbre no admiten animales, quédate en los senderos bajos del Parco dell'Etna.`,
+      ],
+      pt: [
+        `O teleférico Funivia Taormina-Mazzarò aceita cães pequenos em transportadora grátis e cães grandes com açaime e trela; confirme na bilheteira no fundo da Via Pirandello.`,
+        `Os comboios regionais Trenitalia (Stazione Taormina-Giardini, 5 km abaixo) aceitam cães ≤6 kg em transportadora grátis, os maiores com açaime e bilhete a meia tarifa.`,
+        `No verão, o Corso Umberto e as escadarias de tufo atingem 32-34 °C: passeie o cão antes das 10h ou depois das 18h e leve água; o siroco traz ainda mais calor.`,
+        `Em Isola Bella e Mazzarò, os cães com trela são admitidos fora da época balnear (outubro a abril); para banhos caninos o ano inteiro, vá à Sea Cup Beach em Letojanni, 5 km a norte.`,
+        `Uma excursão ao Etna é possível com cão com trela até ao Rifugio Sapienza (1923 m, 1h de carro); os teleféricos do cume não aceitam animais, fique pelos trilhos baixos do Parco dell'Etna.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire en centre-ville : Ambulatorio Veterinario Città di Taormina, Via Diodoro Siculo 12, +39 0942 21180`,
+        `Urgences nocturnes : Ambulatorio Veterinario Dott. La Manna, Via Francavilla 7/A, +39 0942 577168`,
+        `Passeport animalier européen accepté ; pas de quarantaine pour les animaux de l'UE`,
+        `Accès : aéroport de Catane (CTA, 1h de voiture ou bus Etna Trasporti / SAIS) puis train régional Trenitalia ou bus Interbus jusqu'à Taormine`,
+      ],
+      en: [
+        `City-centre vet: Ambulatorio Veterinario Città di Taormina, Via Diodoro Siculo 12, +39 0942 21180`,
+        `After-hours: Ambulatorio Veterinario Dott. La Manna, Via Francavilla 7/A, +39 0942 577168`,
+        `EU pet passport accepted; no quarantine for EU pets`,
+        `Getting there: Catania airport (CTA, 1h by car or Etna Trasporti / SAIS bus) then Trenitalia regional train or Interbus bus to Taormina`,
+      ],
+      es: [
+        `Veterinario en el centro: Ambulatorio Veterinario Città di Taormina, Via Diodoro Siculo 12, +39 0942 21180`,
+        `Urgencias nocturnas: Ambulatorio Veterinario Dott. La Manna, Via Francavilla 7/A, +39 0942 577168`,
+        `Pasaporte europeo de mascotas aceptado; sin cuarentena para animales de la UE`,
+        `Cómo llegar: aeropuerto de Catania (CTA, 1h en coche o autobús Etna Trasporti / SAIS) y luego tren regional Trenitalia o autobús Interbus hasta Taormina`,
+      ],
+      pt: [
+        `Veterinário no centro: Ambulatorio Veterinario Città di Taormina, Via Diodoro Siculo 12, +39 0942 21180`,
+        `Urgências nocturnas: Ambulatorio Veterinario Dott. La Manna, Via Francavilla 7/A, +39 0942 577168`,
+        `Passaporte europeu para animais aceite; sem quarentena para animais da UE`,
+        `Como chegar: aeroporto de Catânia (CTA, 1h de carro ou autocarro Etna Trasporti / SAIS) e depois comboio regional Trenitalia ou autocarro Interbus até Taormina`,
+      ],
+    },
+  },
+
   tarragona: {
     history: {
       fr: `Tarragone, capitale historique de la province éponyme en Catalogne, est l'ancienne Tarraco romaine, métropole administrative et militaire qui rivalisait avec Carthagène pour le contrôle de l'Hispanie sous Auguste. L'Ensemble archéologique de Tarraco est classé au patrimoine mondial de l'UNESCO depuis 2000 et comprend l'amphithéâtre face à la mer, le cirque, le forum, les murailles cyclopéennes du IIIᵉ siècle av. J.-C. et plusieurs villas et aqueducs. La ville compte aujourd'hui environ 135 000 habitants (aire métropolitaine 250 000) et s'étire entre la haute ville médiévale (Part Alta), la Rambla Nova qui descend à la mer et le long de la Costa Daurada. Côté chiens, la Catalogne applique un cadre réglementaire strict (laisse ≤2 m, race « potentiellement dangereuse » sous licence, ramassage et rinçage d'urine obligatoires), mais Tarragone est l'une des grandes villes catalanes les plus accueillantes : trois plages canines désignées, environ 80 restaurants dog-friendly référencés par l'office du tourisme, un hôpital vétérinaire 24h/24 à La Canonja, et la possibilité de rejoindre Barcelone en 70 minutes par Rodalies avec chien.`,

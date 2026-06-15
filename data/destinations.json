@@ -388,18 +388,66 @@
     "lat": 39.8531,
     "lng": 3.1219,
     "weather": {
-      "jan": { "temp": 12, "desc": "Mild winter", "icon": "⛅" },
-      "feb": { "temp": 12, "desc": "Mild & breezy", "icon": "⛅" },
-      "mar": { "temp": 14, "desc": "Mild & sunny", "icon": "🌤️" },
-      "apr": { "temp": 16, "desc": "Mild & pleasant", "icon": "🌤️" },
-      "may": { "temp": 19, "desc": "Warm & sunny", "icon": "☀️" },
-      "jun": { "temp": 24, "desc": "Warm & dry", "icon": "☀️" },
-      "jul": { "temp": 27, "desc": "Hot & sunny", "icon": "☀️" },
-      "aug": { "temp": 28, "desc": "Hot & sunny", "icon": "☀️" },
-      "sep": { "temp": 25, "desc": "Warm & sunny", "icon": "🌤️" },
-      "oct": { "temp": 20, "desc": "Mild & some rain", "icon": "🌦️" },
-      "nov": { "temp": 16, "desc": "Mild & rainy", "icon": "🌧️" },
-      "dec": { "temp": 13, "desc": "Mild & overcast", "icon": "⛅" }
+      "jan": {
+        "temp": 12,
+        "desc": "Mild winter",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & some rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & overcast",
+        "icon": "⛅"
+      }
     },
     "iata": "PMI"
   },
@@ -1755,6 +1803,81 @@
       }
     },
     "iata": "BEG"
+  },
+  {
+    "slug": "bellagio",
+    "name": "Bellagio",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bellagio.jpg",
+    "intro": "Bellagio is the pearl of Lake Como, a luxury village of 3,700 perched on the peninsula where the lake forks into its Como and Lecco branches, with the Villa Melzi neoclassical gardens, the Punta Spartivento Y-fork promontory, the historic Villa Serbelloni Rockefeller estate, a vibrant ferry hub linking Varenna and Menaggio, and the wooded Triangolo Lariano hikes rising straight behind the centro storico.",
+    "lat": 45.9847,
+    "lng": 9.2611,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold, occasional fog",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cold, brisk lake breeze",
+        "icon": "🌫️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Cool spring",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild, azaleas bloom",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm, lake breeze",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Warm autumn",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Cool, wet",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      }
+    },
+    "iata": "MXP"
   },
   {
     "slug": "bergamo",
@@ -7765,6 +7888,81 @@
     "tiqetsId": "60360"
   },
   {
+    "slug": "grindelwald",
+    "name": "Grindelwald",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "flag": "🇨🇭",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/grindelwald.jpg",
+    "intro": "Switzerland's Eiger north face village sits at 1034 m at the heart of the Jungfrau Region, with the First Cliff Walk sky-walk at 2168 m, the postcard Bachalpsee alpine lake, the Männlichen ridge (Europe's longest aerial tramway) at 2342 m, the Eiger Express tricable gondola from Grindelwald Terminal to Eigergletscher in 15 minutes, the Glacier Canyon Gletscherschlucht wooden walkways, and a verified 24/7 vet line at Tierklinik Interlaken AG 35 minutes downhill.",
+    "lat": 46.6244,
+    "lng": 8.0418,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 2,
+        "desc": "Cold, ski season",
+        "icon": "🎿"
+      },
+      "apr": {
+        "temp": 6,
+        "desc": "Cool, thaw",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 11,
+        "desc": "Mild & green",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm, peak hiking",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Warm, peak hiking",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild autumn",
+        "icon": "🍂"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool, golden",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Cold, first snow",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Cold, festive snow",
+        "icon": "🎄"
+      }
+    },
+    "iata": "BRN"
+  },
+  {
     "slug": "groningen",
     "name": "Groningen",
     "country": "Netherlands",
@@ -7839,81 +8037,6 @@
     },
     "iata": "GRQ",
     "tiqetsId": "60303"
-  },
-  {
-    "slug": "grindelwald",
-    "name": "Grindelwald",
-    "country": "Switzerland",
-    "countryCode": "CH",
-    "flag": "🇨🇭",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/grindelwald.jpg",
-    "intro": "Switzerland's Eiger north face village sits at 1034 m at the heart of the Jungfrau Region, with the First Cliff Walk sky-walk at 2168 m, the postcard Bachalpsee alpine lake, the Männlichen ridge (Europe's longest aerial tramway) at 2342 m, the Eiger Express tricable gondola from Grindelwald Terminal to Eigergletscher in 15 minutes, the Glacier Canyon Gletscherschlucht wooden walkways, and a verified 24/7 vet line at Tierklinik Interlaken AG 35 minutes downhill.",
-    "lat": 46.6244,
-    "lng": 8.0418,
-    "weather": {
-      "jan": {
-        "temp": -2,
-        "desc": "Cold & snowy",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": -1,
-        "desc": "Cold & snowy",
-        "icon": "🌨️"
-      },
-      "mar": {
-        "temp": 2,
-        "desc": "Cold, ski season",
-        "icon": "🎿"
-      },
-      "apr": {
-        "temp": 6,
-        "desc": "Cool, thaw",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 11,
-        "desc": "Mild & green",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 15,
-        "desc": "Warm & sunny",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 18,
-        "desc": "Warm, peak hiking",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 17,
-        "desc": "Warm, peak hiking",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 14,
-        "desc": "Mild autumn",
-        "icon": "🍂"
-      },
-      "oct": {
-        "temp": 9,
-        "desc": "Cool, golden",
-        "icon": "🍂"
-      },
-      "nov": {
-        "temp": 3,
-        "desc": "Cold, first snow",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": -1,
-        "desc": "Cold, festive snow",
-        "icon": "🎄"
-      }
-    },
-    "iata": "BRN"
   },
   {
     "slug": "guimaraes",
@@ -9499,20 +9622,68 @@
     "heroImage": "/images/destinations/leiden.jpg",
     "intro": "Leiden is the oldest university city in the Netherlands (founded 1575), Rembrandt's birthplace, and the Pilgrim Fathers' refuge between 1609 and 1620, a compact canal town of 125,000 inside a ring of 17th-century singel canals where the Burcht van Leiden (12th-century circular castle on an artificial hill, the only of its kind in NL), the Late-Gothic Hooglandse Kerk, the Pieterskerk with its Mayflower memorial, the Rapenburg canal, the 1575 Universiteit Academiegebouw, the Hortus Botanicus (oldest botanical garden in the Netherlands, 1590), the Molen De Valk windmill and the Plantage (oldest urban park in NL, 1656) cluster inside the new 6 km Singelpark green ring. The 33-hectare Leidse Hout and the 100-hectare Polderpark Cronesteyn have fenced off-leash dog meadows; the Katwijk dog beach is 10 km, Noordwijk 14 km, Wassenaarse Slag 15 km. NS IC trains reach Amsterdam Centraal in 35 minutes, Den Haag in 12 minutes, Rotterdam in 25 minutes, Schiphol Airport in 17 minutes; dogs free in a carrier, €3.30 Dagkaart Hond for larger dogs. Connexxion bus 30/31 runs to Katwijk and Noordwijk beaches in 25-30 min; bus 57 threads the Bollenstreek tulip fields in April-May.",
     "lat": 52.1601,
-    "lng": 4.4970,
+    "lng": 4.497,
     "weather": {
-      "jan": { "temp": 4, "desc": "Cold & grey", "icon": "🌧️" },
-      "feb": { "temp": 5, "desc": "Cool & overcast", "icon": "🌧️" },
-      "mar": { "temp": 8, "desc": "Cool & showery", "icon": "🌦️" },
-      "apr": { "temp": 11, "desc": "Mild, tulip season", "icon": "🌷" },
-      "may": { "temp": 15, "desc": "Mild & pleasant", "icon": "⛅" },
-      "jun": { "temp": 18, "desc": "Mild & pleasant", "icon": "⛅" },
-      "jul": { "temp": 20, "desc": "Warm & breezy", "icon": "🌤️" },
-      "aug": { "temp": 20, "desc": "Warm & breezy", "icon": "🌤️" },
-      "sep": { "temp": 17, "desc": "Mild & pleasant", "icon": "⛅" },
-      "oct": { "temp": 13, "desc": "Cool & rainy, hutspot feast Oct 3", "icon": "🌦️" },
-      "nov": { "temp": 8, "desc": "Cool & overcast", "icon": "🌦️" },
-      "dec": { "temp": 5, "desc": "Cool & overcast", "icon": "🌧️" }
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild, tulip season",
+        "icon": "🌷"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & rainy, hutspot feast Oct 3",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
     },
     "iata": "AMS"
   },
@@ -9590,6 +9761,86 @@
     },
     "iata": "LEJ",
     "tiqetsId": "64715"
+  },
+  {
+    "slug": "leuven",
+    "name": "Leuven",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "flag": "🇧🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/leuven.jpg",
+    "intro": "Leuven is the Flemish university capital of Vlaams-Brabant, home to KU Leuven (the oldest Catholic university in the world, founded 1425) and the Stella Artois brewery (Den Hoorn 1366). The flamboyant late-15th-century Brabantine Gothic Stadhuis faces the Sint-Pieterskerk on the Grote Markt, the UNESCO Groot Begijnhof (1232, largest preserved in Belgium) sits five minutes south, the Oude Markt is the 40+ café 'longest bar in Europe', the 4800-hectare Heverleebos and Meerdaalwoud forests start 3 km south, and Brussels Airport BRU is just 18 minutes by direct NMBS train, the closest sizeable Belgian city to the national air hub.",
+    "lat": 50.8798,
+    "lng": 4.7005,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "BRU",
+    "languages": [
+      "Dutch",
+      "French",
+      "English"
+    ]
   },
   {
     "slug": "liepaja",
@@ -9890,82 +10141,6 @@
     },
     "iata": "LIS",
     "tiqetsId": "76528"
-  },
-  {
-    "slug": "leuven",
-    "name": "Leuven",
-    "country": "Belgium",
-    "countryCode": "BE",
-    "flag": "🇧🇪",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/leuven.jpg",
-    "intro": "Leuven is the Flemish university capital of Vlaams-Brabant, home to KU Leuven (the oldest Catholic university in the world, founded 1425) and the Stella Artois brewery (Den Hoorn 1366). The flamboyant late-15th-century Brabantine Gothic Stadhuis faces the Sint-Pieterskerk on the Grote Markt, the UNESCO Groot Begijnhof (1232, largest preserved in Belgium) sits five minutes south, the Oude Markt is the 40+ café 'longest bar in Europe', the 4800-hectare Heverleebos and Meerdaalwoud forests start 3 km south, and Brussels Airport BRU is just 18 minutes by direct NMBS train, the closest sizeable Belgian city to the national air hub.",
-    "lat": 50.8798,
-    "lng": 4.7005,
-    "weather": {
-      "jan": {
-        "temp": 4,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      }
-    },
-    "iata": "BRU",
-    "languages": ["Dutch", "French", "English"]
   },
   {
     "slug": "liverpool",
@@ -12680,20 +12855,68 @@
     "heroImage": "/images/destinations/ostend.jpg",
     "intro": "Ostend, the Belgian Royal Resort on the North Sea with 9 km of sandy promenade, year-round dog-beach zones at Mariakerke, Raversijde and Oosteroever, the Kusttram (longest tram line in the world, 67 km) and the Stena Line ferry to Ramsgate (UK), is one of the easiest pet-travel hubs on the Belgian coast.",
     "lat": 51.2167,
-    "lng": 2.9000,
+    "lng": 2.9,
     "weather": {
-      "jan": { "temp": 4, "desc": "Cold & windy", "icon": "🌧️" },
-      "feb": { "temp": 4, "desc": "Cold & windy", "icon": "🌧️" },
-      "mar": { "temp": 7, "desc": "Cool & breezy", "icon": "🌦️" },
-      "apr": { "temp": 11, "desc": "Mild with rain", "icon": "🌦️" },
-      "may": { "temp": 14, "desc": "Mild & breezy", "icon": "⛅" },
-      "jun": { "temp": 17, "desc": "Mild & pleasant", "icon": "⛅" },
-      "jul": { "temp": 19, "desc": "Mild summer", "icon": "🌤️" },
-      "aug": { "temp": 19, "desc": "Mild summer", "icon": "🌤️" },
-      "sep": { "temp": 17, "desc": "Mild & pleasant", "icon": "⛅" },
-      "oct": { "temp": 13, "desc": "Mild with rain", "icon": "🌦️" },
-      "nov": { "temp": 8, "desc": "Cool & windy", "icon": "🌦️" },
-      "dec": { "temp": 5, "desc": "Cool & windy", "icon": "🌧️" }
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Mild summer",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Mild summer",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & windy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & windy",
+        "icon": "🌧️"
+      }
     },
     "iata": "BRU"
   },
@@ -12861,18 +13084,66 @@
     "lat": 41.8479,
     "lng": 3.1284,
     "weather": {
-      "jan": { "temp": 11, "desc": "Mild & breezy", "icon": "⛅" },
-      "feb": { "temp": 12, "desc": "Mild & breezy", "icon": "⛅" },
-      "mar": { "temp": 14, "desc": "Mild & sunny", "icon": "🌤️" },
-      "apr": { "temp": 16, "desc": "Mild & sunny", "icon": "🌤️" },
-      "may": { "temp": 19, "desc": "Warm & sunny", "icon": "☀️" },
-      "jun": { "temp": 23, "desc": "Warm & sunny", "icon": "☀️" },
-      "jul": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
-      "aug": { "temp": 27, "desc": "Hot & sunny", "icon": "☀️" },
-      "sep": { "temp": 24, "desc": "Warm & sunny", "icon": "🌤️" },
-      "oct": { "temp": 20, "desc": "Mild & pleasant", "icon": "🌤️" },
-      "nov": { "temp": 15, "desc": "Mild & breezy", "icon": "⛅" },
-      "dec": { "temp": 12, "desc": "Mild & breezy", "icon": "⛅" }
+      "jan": {
+        "temp": 11,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      }
     },
     "iata": "GRO"
   },
@@ -15887,20 +16158,68 @@
     "heroImage": "/images/destinations/soller.jpg",
     "intro": "Sóller is a 14k orange-valley town in Mallorca's UNESCO Serra de Tramuntana, reached from Palma by the 1912 wooden Ferrocarril and from the natural horseshoe Port de Sóller by the 1913 open-air Tranvía vintage tram. Modernist Plaça d'Espanya, the GR-221 Ruta de Pedra en Sec dry-stone trail, the Pinos boat to Sa Calobra, Cap Gros lighthouse views, and naranjas + oli Sóller PDO make it Mallorca's most genuinely pet-friendly mountain base.",
     "lat": 39.7656,
-    "lng": 2.7150,
+    "lng": 2.715,
     "weather": {
-      "jan": { "temp": 11, "desc": "Mild valley winter", "icon": "⛅" },
-      "feb": { "temp": 11, "desc": "Cool & sunny", "icon": "🌤️" },
-      "mar": { "temp": 13, "desc": "Mild & breezy", "icon": "🌤️" },
-      "apr": { "temp": 15, "desc": "Warm & pleasant", "icon": "☀️" },
-      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
-      "jun": { "temp": 22, "desc": "Hot & dry", "icon": "☀️" },
-      "jul": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
-      "aug": { "temp": 28, "desc": "Very hot & sunny", "icon": "☀️" },
-      "sep": { "temp": 24, "desc": "Warm & sunny", "icon": "🌤️" },
-      "oct": { "temp": 19, "desc": "Mild & some rain", "icon": "🌦️" },
-      "nov": { "temp": 14, "desc": "Cool & rainy", "icon": "🌧️" },
-      "dec": { "temp": 12, "desc": "Cool & overcast", "icon": "⛅" }
+      "jan": {
+        "temp": 11,
+        "desc": "Mild valley winter",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Cool & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Very hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & some rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Cool & overcast",
+        "icon": "⛅"
+      }
     },
     "iata": "PMI"
   },
@@ -16577,6 +16896,82 @@
     "iata": "TMP"
   },
   {
+    "slug": "taormina",
+    "name": "Taormina",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/taormina.jpg",
+    "intro": "Taormina, the cliff-top Sicilian balcony 200 m above the Ionian Sea facing Mount Etna and the location of HBO`s The White Lotus Season 2, pairs the 3rd-century BC Greco-Roman Teatro Antico with the pedestrianised Corso Umberto, the tidal-causeway Isola Bella nature reserve, the Funivia cable car down to Mazzarò beach, and the long sandy designated dog beach at Letojanni 5 km north. Trenitalia regional trains from Stazione Taormina-Giardini connect Catania CTA airport in 1 hour and Messina in 50 minutes.",
+    "lat": 37.8516,
+    "lng": 15.2853,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild & dry",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      }
+    },
+    "iata": "CTA",
+    "tiqetsId": null
+  },
+  {
     "slug": "tarifa",
     "name": "Tarifa",
     "country": "Spain",
@@ -16650,34 +17045,6 @@
       }
     },
     "iata": "AGP"
-  },
-  {
-    "slug": "taormina",
-    "name": "Taormina",
-    "country": "Italy",
-    "countryCode": "IT",
-    "flag": "🇮🇹",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/taormina.jpg",
-    "intro": "Taormina, the cliff-top Sicilian balcony 200 m above the Ionian Sea facing Mount Etna and the location of HBO`s The White Lotus Season 2, pairs the 3rd-century BC Greco-Roman Teatro Antico with the pedestrianised Corso Umberto, the tidal-causeway Isola Bella nature reserve, the Funivia cable car down to Mazzarò beach, and the long sandy designated dog beach at Letojanni 5 km north. Trenitalia regional trains from Stazione Taormina-Giardini connect Catania CTA airport in 1 hour and Messina in 50 minutes.",
-    "lat": 37.8516,
-    "lng": 15.2853,
-    "weather": {
-      "jan": { "temp": 13, "desc": "Mild & breezy", "icon": "⛅" },
-      "feb": { "temp": 13, "desc": "Mild & dry", "icon": "⛅" },
-      "mar": { "temp": 15, "desc": "Mild & pleasant", "icon": "🌤️" },
-      "apr": { "temp": 17, "desc": "Warm & sunny", "icon": "🌤️" },
-      "may": { "temp": 21, "desc": "Warm & sunny", "icon": "🌤️" },
-      "jun": { "temp": 25, "desc": "Hot & dry", "icon": "☀️" },
-      "jul": { "temp": 29, "desc": "Hot & dry", "icon": "☀️" },
-      "aug": { "temp": 29, "desc": "Hot & dry", "icon": "☀️" },
-      "sep": { "temp": 26, "desc": "Warm & humid", "icon": "🌤️" },
-      "oct": { "temp": 22, "desc": "Mild with rain", "icon": "🌦️" },
-      "nov": { "temp": 18, "desc": "Mild with rain", "icon": "🌦️" },
-      "dec": { "temp": 14, "desc": "Mild & breezy", "icon": "⛅" }
-    },
-    "iata": "CTA",
-    "tiqetsId": null
   },
   {
     "slug": "tarragona",
@@ -18041,18 +18408,66 @@
     "lat": 39.7106,
     "lng": 2.6225,
     "weather": {
-      "jan": { "temp": 9, "desc": "Cool Tramuntana winter", "icon": "🌧️" },
-      "feb": { "temp": 9, "desc": "Cool & changeable", "icon": "🌦️" },
-      "mar": { "temp": 11, "desc": "Mild & breezy", "icon": "⛅" },
-      "apr": { "temp": 13, "desc": "Mild & pleasant", "icon": "🌤️" },
-      "may": { "temp": 17, "desc": "Warm & sunny", "icon": "☀️" },
-      "jun": { "temp": 21, "desc": "Warm & dry", "icon": "☀️" },
-      "jul": { "temp": 25, "desc": "Hot & sunny", "icon": "☀️" },
-      "aug": { "temp": 26, "desc": "Hot & sunny", "icon": "☀️" },
-      "sep": { "temp": 22, "desc": "Warm & sunny", "icon": "🌤️" },
-      "oct": { "temp": 17, "desc": "Mild & some rain", "icon": "🌦️" },
-      "nov": { "temp": 12, "desc": "Cool & rainy", "icon": "🌧️" },
-      "dec": { "temp": 10, "desc": "Cool & overcast", "icon": "⛅" }
+      "jan": {
+        "temp": 9,
+        "desc": "Cool Tramuntana winter",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool & changeable",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & some rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & overcast",
+        "icon": "⛅"
+      }
     },
     "iata": "PMI"
   },

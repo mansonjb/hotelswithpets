@@ -141,6 +141,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Kalemegdan Fortress, Ada Ciganlija peninsula, and Tašmajdan Park',
       area: 'Stari Grad, Skadarlija, and Dorćol',
     },
+    bellagio: {
+      personality: `the pearl of Lake Como, a luxury village of 3,700 perched on the peninsula where the lake forks into its Como and Lecco branches, with the Villa Melzi neoclassical gardens, the Punta Spartivento Y-fork promontory, a vibrant Navigazione ferry hub to Varenna and Menaggio, and the wooded Triangolo Lariano hikes rising straight behind the centro storico`,
+      highlight: `the Giardini di Villa Melzi d'Eril neoclassical gardens, the Punta Spartivento Y-fork promontory at the lake's twin-branch tip, and the Lungolago Manzoni 1.5 km lakefront promenade`,
+      area: `the centro storico around Salita Serbelloni and the Basilica di San Giacomo, the lakefront around Piazza Mazzini, and the fishing hamlets of Pescallo, San Giovanni and Loppia`,
+    },
     bergamo: {
       personality: `a UNESCO-walled hilltop town in Lombardy, with two pet-tolerant funiculars, the 4,700-hectare Parco dei Colli on its northern flank, and Lake Iseo, Lake Como and Lake Garda all within an hour for cool dog-friendly day trips`,
       highlight: `the 6 km Mura Venete UNESCO walls walkway, the Parco dei Colli wooded ridges above Città Alta, and the San Vigilio funicular to the panoramic castle at 496 m`,
@@ -1459,6 +1464,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la forteresse de Kalemegdan, la presqu\'île d\'Ada Ciganlija et le parc Tašmajdan',
       area: 'Stari Grad, Skadarlija et Dorćol',
     },
+    bellagio: {
+      personality: `la perle du lac de Côme, village de luxe de 3 700 habitants perché sur la presqu'île où le lac se divise entre ses bras de Côme et de Lecco, avec les jardins néoclassiques de la Villa Melzi, le promontoire en Y de la Punta Spartivento, un hub de ferries Navigazione vers Varenna et Menaggio et les randonnées boisées du Triangolo Lariano qui s'élèvent juste derrière le centro storico`,
+      highlight: `les Giardini di Villa Melzi d'Eril néoclassiques, le promontoire en Y de la Punta Spartivento à la pointe du lac et la promenade lacustre de 1,5 km du Lungolago Manzoni`,
+      area: `le centro storico autour de la Salita Serbelloni et de la Basilica di San Giacomo, le bord du lac autour de la Piazza Mazzini, et les hameaux de pêche de Pescallo, San Giovanni et Loppia`,
+    },
     bergamo: {
       personality: `une cité fortifiée UNESCO de Lombardie, deux funiculaires pet-tolerant, le Parco dei Colli de 4 700 ha sur son flanc nord, et les lacs d'Iseo, de Côme et de Garde à moins d'une heure pour des excursions canines au frais`,
       highlight: `la boucle de 6 km des Mura Venete UNESCO, les crêtes boisées du Parco dei Colli au-dessus de la Città Alta et le funiculaire San Vigilio jusqu'au château panoramique à 496 m`,
@@ -2776,6 +2786,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la fortaleza de Kalemegdan, la península de Ada Ciganlija y el parque Tašmajdan',
       area: 'Stari Grad, Skadarlija y Dorćol',
     },
+    bellagio: {
+      personality: `la perla del lago de Como, pueblo de lujo de 3.700 habitantes asentado en la península donde el lago se bifurca entre sus brazos de Como y Lecco, con los jardines neoclásicos de Villa Melzi, el promontorio en Y de Punta Spartivento, un hub de ferries Navigazione hacia Varenna y Menaggio y los senderos boscosos del Triangolo Lariano que se elevan justo detrás del centro storico`,
+      highlight: `los Giardini di Villa Melzi d'Eril neoclásicos, el promontorio en Y de Punta Spartivento en la punta del lago y el paseo lacustre de 1,5 km del Lungolago Manzoni`,
+      area: `el centro storico en torno a la Salita Serbelloni y la Basilica di San Giacomo, el paseo del lago en torno a Piazza Mazzini, y las aldeas pesqueras de Pescallo, San Giovanni y Loppia`,
+    },
     bergamo: {
       personality: `una ciudad amurallada UNESCO de Lombardía, dos funiculares pet-tolerant, el Parco dei Colli de 4.700 ha en su flanco norte, y los lagos de Iseo, Como y Garda a menos de una hora para escapadas caninas con clima más fresco`,
       highlight: `el circuito de 6 km de las Mura Venete UNESCO, las crestas boscosas del Parco dei Colli sobre la Città Alta y el funicular de San Vigilio hasta el castillo panorámico a 496 m`,
@@ -4092,6 +4107,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das capitales europeias mais asequibles, com a praia canina de Ada Ciganlija o ano inteiro, transporte público gratuito a partir de 2025 e o único hospital veterinário 24/7 de Serbia',
       highlight: 'a fortaleza de Kalemegdan, a península de Ada Ciganlija e o parque Tašmajdan',
       area: 'Stari Grad, Skadarlija e Dorćol',
+    },
+    bellagio: {
+      personality: `a pérola do lago de Como, aldeia de luxo de 3700 habitantes empoleirada na península onde o lago se bifurca entre os seus braços de Como e Lecco, com os jardins neoclássicos da Villa Melzi, o promontório em Y de Punta Spartivento, um hub de ferries Navigazione para Varenna e Menaggio e as caminhadas florestadas do Triangolo Lariano que sobem mesmo atrás do centro storico`,
+      highlight: `os Giardini di Villa Melzi d'Eril neoclássicos, o promontório em Y de Punta Spartivento na ponta do lago e o passeio lacustre de 1,5 km do Lungolago Manzoni`,
+      area: `o centro storico em torno da Salita Serbelloni e da Basilica di San Giacomo, a beira do lago em torno da Piazza Mazzini, e as aldeias piscatórias de Pescallo, San Giovanni e Loppia`,
     },
     bergamo: {
       personality: `uma cidade amuralhada UNESCO da Lombardia, dois funiculares pet-tolerant, o Parco dei Colli de 4.700 ha no seu flanco norte, e os lagos de Iseo, Como e Garda a menos de uma hora para escapadas caninas com clima mais fresco`,

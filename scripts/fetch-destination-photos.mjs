@@ -77,6 +77,7 @@ const TARGETS = [
   { slug: 'denia',         query: 'Denia Spain Costa Blanca Castillo Moorish fortress Montgo Natural Park port Marina Alta panorama sunset' },
   { slug: 'calpe',         query: 'Calpe Spain Costa Blanca Penon de Ifach limestone rock natural park Mediterranean bay marina panorama sunset' },
   { slug: 'bergamo',       query: 'Bergamo Italy Citta Alta Piazza Vecchia Venetian walls Lombardy panorama' },
+  { slug: 'bellagio',      query: 'Bellagio Italy Lake Como pearl peninsula Y fork Punta Spartivento Villa Melzi neoclassical gardens lakefront promenade Lungolago Manzoni ferry hub Salita Serbelloni stairs centro storico Basilica di San Giacomo Romanesque Alps panorama sunset luxury village' },
   { slug: 'brasov',        query: 'Brasov Romania Council Square Black Church Carpathian mountains panorama' },
   { slug: 'marseille',     query: 'Vieux Port Marseille waterfront' },
   { slug: 'rotterdam',     query: 'Erasmus Bridge Rotterdam waterfront' },

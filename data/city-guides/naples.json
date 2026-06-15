@@ -34,10 +34,10 @@
           "tipFr": "Prenez un ticket numéroté à l'entrée et promenez votre chien autour du pâté de maisons en attendant, la file est de 45 à 90 minutes aux heures de pointe.",
           "tipEs": "Coge un ticket numerado en la puerta y pasea al perro por el barrio mientras esperas, la cola puede ser de 45 a 90 minutos en hora punta.",
           "googleMapsUrl": "https://maps.google.com/?q=L%27Antica+Pizzeria+da+Michele+Napoli",
-          "descriptionPt": "O templo da pizza napolitana fundado en 1870, só dois pizzas (Margherita, Marinara), uma cola até o final da rua e uma regla sencilla: os cães com trela são bem-vindos nas mesas exteriores. O interior é demasiado pequenho para cães, mas o ruela peatonal de enfrente é a experiencia característica.",
-          "petPolicyPt": "Cães bem-vindos só en mesas exteriores",
+          "descriptionPt": "O templo da pizza napolitana fundado em 1870, apenas duas pizzas (Margherita, Marinara), uma fila ao longo da rua e uma regra simples: os cães com trela são bem-vindos nas mesas exteriores. O interior é demasiado pequeno para cães, mas a viela pedonal em frente é a experiência marcante.",
+          "petPolicyPt": "Cães bem-vindos apenas nas mesas exteriores",
           "mustTryPt": "Margherita, Marinara",
-          "tipPt": "Apanha um ticket numerado na puerta e pasea al cão pelo bairro enquanto esperas, a cola pode ser de 45 a 90 minutos en hora punta."
+          "tipPt": "Levante uma senha numerada à porta e passeie o seu cão pelo quarteirão enquanto espera, a fila costuma durar 45 a 90 minutos nas horas de ponta."
         },
         {
           "name": "Trattoria da Nennella",
@@ -60,10 +60,10 @@
           "tipFr": "Pas de réservation, arrivez avant 12h30 ou après 14h30 pour éviter la cohue ; l'allée devient très étroite et bruyante en heure de pointe.",
           "tipEs": "No se reserva, llega antes de las 12:30 o después de las 14:30 para evitar la avalancha; el callejón se vuelve muy estrecho y ruidoso cuando se llena.",
           "googleMapsUrl": "https://maps.google.com/?q=Trattoria+da+Nennella+Napoli",
-          "descriptionPt": "Uma institución dois Quartieri Spagnoli onde os camareros cantan, os platos vuelan e os cães bien educados comparten as mesas coloridas do ruela com os habituales. Generosas raciones de cocina napolitana casera a preços honestos, ven com hambre.",
-          "petPolicyPt": "Cães bem-vindos en esplanada",
-          "mustTryPt": "Genovese napoletana, parmigiana de berenjenas",
-          "tipPt": "No se reserva, chega antes das 12:30 o depois das 14:30 para evitar a avalancha; o ruela se vuelve muito estrecho e ruidoso quando se llena."
+          "descriptionPt": "Uma instituição dos Quartieri Spagnoli onde os empregados cantam, os pratos voam e os cães bem-comportados partilham os lugares na viela exterior colorida com os clientes habituais. Doses generosas de cozinha caseira napolitana tradicional a preços honestos, chegue com fome.",
+          "petPolicyPt": "Cães bem-vindos nas mesas exteriores",
+          "mustTryPt": "Genovese napoletana, parmigiana de beringela",
+          "tipPt": "Não aceita reservas, chegue antes das 12:30 ou depois das 14:30 para evitar o pico de afluência; a viela fica muito estreita e ruidosa quando enche."
         },
         {
           "name": "Sorbillo Lievito Madre al Mare",
@@ -86,10 +86,10 @@
           "tipFr": "Réservez la terrasse au coucher du soleil (à partir de 19h) pour la meilleure vue sur le Vésuve, prévoyez une couverture d'avril à octobre en soirée, la brise peut être forte pour les chiens à poil court.",
           "tipEs": "Reserva la terraza al atardecer (a partir de las 19:00) para la mejor vista del Vesubio, lleva una manta de abril a octubre por la noche, la brisa puede ser fuerte para perros de pelo corto.",
           "googleMapsUrl": "https://maps.google.com/?q=Sorbillo+Lievito+Madre+al+Mare+Napoli",
-          "descriptionPt": "A pizzería de Gino Sorbillo frente al mar com amplia esplanada frente al Castel dell'Ovo, uno dois melhores lugares pet-friendly para cenar en Nápoles. A brisa marina mantiene frescos aos cães en verão e o personal trae sistemáticamente um bol de água.",
-          "petPolicyPt": "Cães bem-vindos en esplanada frente al mar",
+          "descriptionPt": "A pizzaria à beira-mar de Gino Sorbillo, com uma ampla esplanada virada para o Castel dell'Ovo, um dos melhores sítios pet-friendly para jantar em Nápoles. A brisa marítima mantém os cães frescos no verão e a equipa traz habitualmente uma taça de água sem ser pedido.",
+          "petPolicyPt": "Cães bem-vindos na esplanada virada para o mar",
           "mustTryPt": "Pizza Gino Sorbillo, fritto all'italiana",
-          "tipPt": "Reserva a esplanada al atardecer (a partir das 19:00) para a melhor vista do Vesubio, leva uma manta de abril a outubro pela noite, a brisa pode ser fuerte para cães de pelo corto."
+          "tipPt": "Reserve a esplanada para o pôr do sol (a partir das 19:00) para a melhor vista do Vesúvio, leve uma manta nas noites de abril a outubro, pois a brisa pode ser forte para cães de pelo curto."
         }
       ],
       "tipsEn": [
@@ -149,25 +149,25 @@
           "a": "Muy pocos oficialmente, pero el personal trae agua y pan sin sal o pollo natural a petición."
         }
       ],
-      "titlePt": "Restaurantes pet-friendly en Nápoles",
-      "introPt": "En Italia, os cães são legalmente admitidos nos restaurantes salvo cartel contrario, e Nápoles, com o seu densa red de trattorie de bairro e pizzerías familiares, aplica a regla ampliamente. O centro histórico (Spaccanapoli, Quartieri Spagnoli) e o passeio marítimo do Lungomare são as duas zonas com mayor concentración de esplanadas que admitem cães.",
+      "titlePt": "Restaurantes pet-friendly em Nápoles",
+      "introPt": "Em Itália, os cães são legalmente admitidos nos restaurantes a menos que o proprietário coloque um aviso em contrário, e Nápoles, com a sua densa rede de trattorie de bairro e pizzerie familiares, adota amplamente esta regra. O centro histórico (Spaccanapoli, Quartieri Spagnoli) e a marginal do Lungomare são as duas zonas com maior concentração de esplanadas que acolhem cães.",
       "tipsPt": [
-        "A lei italiana permite cães nos restaurantes por defecto, um adhesivo 'cani ammessi' o um bol de água na entrada são buena senhal.",
-        "As ruelas do centro podem ser estrechos e ruidosos: para cães ansiosos, prioriza esplanadas do Lungomare o de Posillipo.",
-        "Pide 'acqua per il cane', o personal napolitano casi sempre trae um bol, a menudo com uns trozos de pan."
+        "A lei italiana aceita cães nos restaurantes por defeito, procure um autocolante 'cani ammessi' ou uma taça de água à entrada como sinal positivo.",
+        "As vielas de restauração do centro de Nápoles podem ser apertadas e ruidosas: para cães ansiosos, prefira as esplanadas do Lungomare ou de Posillipo.",
+        "Peça 'acqua per il cane', a equipa napolitana traz quase sempre uma taça, muitas vezes com alguns pedaços de pão à parte."
       ],
       "faqsPt": [
         {
-          "q": "Se admitem cães nos restaurantes de Nápoles?",
-          "a": "Sí. A lei italiana permite cães nos locales de restauración por defecto salvo cartel contrario. A maioria de trattorie e pizzerías napolitanas admitem cães com trela, especialmente en mesas exteriores."
+          "q": "Os cães são permitidos nos restaurantes de Nápoles?",
+          "a": "Sim. A lei italiana aceita cães nos espaços de restauração por defeito, a menos que o proprietário coloque um aviso de 'proibido cães'. A maioria das trattorie e pizzerie napolitanas acolhe cães com trela, sobretudo nas mesas exteriores."
         },
         {
-          "q": "Puedo levar um cão grande a uma pizzería de Nápoles?",
-          "a": "Os cães grandes são aceites en a maioria de esplanadas mas as ruelas históricos estrechos e as salas abarrotadas são difíciles. As pizzerías do passeio marítimo (Lungomare, Mergellina) são mais cómodas."
+          "q": "Posso levar um cão grande a uma pizzaria de Nápoles?",
+          "a": "Os cães grandes são aceites na maioria das esplanadas exteriores, mas as vielas históricas estreitas e as salas interiores apinhadas são complicadas. As pizzarias da marginal (Lungomare, Mergellina) são a escolha mais fácil."
         },
         {
-          "q": "Ofrecen menús para cães nos restaurantes napolitanos?",
-          "a": "Muito poucos oficialmente, mas o personal trae água e pan sem sal o pollo natural a petición."
+          "q": "Os restaurantes napolitanos têm ementas para cães?",
+          "a": "Muito poucos têm oficialmente, mas a equipa traz habitualmente água e pão sem sal ou frango simples a pedido, basta perguntar ao empregado."
         }
       ]
     },
@@ -200,10 +200,10 @@
           "tipFr": "Venez au lever du soleil pour la plus belle silhouette du Vésuve et le bitume le plus frais pour les coussinets, Posillipo chauffe vite dès 10h en été.",
           "tipEs": "Ven al amanecer para la silueta más nítida del Vesubio y el pavimento más fresco para las almohadillas, Posillipo se calienta rápido desde las 10:00 en verano.",
           "googleMapsUrl": "https://maps.google.com/?q=Parco+Virgiliano+Napoli",
-          "descriptionPt": "Parque en esplanadas en lo alto do acantilado de Posillipo que ofrece algunas das vistas mais espectaculares de Nápoles, Vesubio, Golfo e ilhas de Procida, Ischia e Capri. Amplios circuitos pavimentados, bancos, avenidas sombreadas de pinos e um Area Cani vallada perto da esplanada superior.",
-          "petPolicyPt": "Trela obrigatória; Area Cani vallada",
-          "facilitiesPt": "Area Cani, fuentes de água, bancos, miradores panorámicos",
-          "tipPt": "Ven al amanecer para a silueta mais nítida do Vesubio e o pavimento mais fresco para as almohadillas, Posillipo se calienta rápido a partir das 10:00 en verão."
+          "descriptionPt": "Um parque em socalcos no alto da arriba de Posillipo, que oferece algumas das vistas mais espetaculares de Nápoles, o Vesúvio, o Golfo e as ilhas de Procida, Ischia e Capri. Amplos circuitos pavimentados, bancos, avenidas sombreadas de pinheiros e uma Area Cani vedada, junto ao socalco superior.",
+          "petPolicyPt": "Trela obrigatória; Area Cani vedada sem trela",
+          "facilitiesPt": "Area Cani, fontes de água, bancos, miradouros panorâmicos",
+          "tipPt": "Chegue ao nascer do sol para a silhueta mais nítida do Vesúvio e o pavimento mais fresco para as patas, Posillipo aquece depressa a partir das 10:00 no verão."
         },
         {
           "name": "Bosco di Capodimonte",
@@ -226,10 +226,10 @@
           "tipFr": "Entrez par la Porta Piccola sur la Via Miano, la Porta Grande (entrée musée) a des files pour les billets qui ralentissent les promeneurs de chiens.",
           "tipEs": "Entra por la Porta Piccola en Via Miano, la Porta Grande (entrada al museo) tiene colas para las entradas que ralentizan a los paseadores.",
           "googleMapsUrl": "https://maps.google.com/?q=Bosco+di+Capodimonte+Napoli",
-          "descriptionPt": "Floresta real de 134 hectáreas tras o Palácio de Capodimonte, o mayor espacio verde de Nápoles. Encinares e castanhares, 5 km de trilhos, trela estrictamente obrigatória, no hay zonas sem trela mas a sombra é generosa e o aire sensiblemente mais fresco que na cidade.",
+          "descriptionPt": "Um bosque real de 134 hectares nas traseiras do Palácio de Capodimonte, o maior espaço verde de Nápoles. Carvalhais e castanheiros, 5 km de trilhos e uma regra de trela rigorosamente aplicada, não há zonas sem trela, mas a sombra é generosa e o ar sensivelmente mais fresco do que na cidade lá em baixo.",
           "petPolicyPt": "Trela obrigatória; sem zonas sem trela",
-          "facilitiesPt": "Trilhos, dispensadores de bolsas, cafetería junto al palácio, pradarias de picnic",
-          "tipPt": "Entra pela Porta Piccola en Via Miano, a Porta Grande (entrada al museu) tem colas para as entradas que ralentizan aos paseadores."
+          "facilitiesPt": "Trilhos, dispensadores de sacos para dejetos, café junto ao palácio, relvados de piquenique",
+          "tipPt": "Entre pelo portão Porta Piccola, na Via Miano, a Porta Grande (entrada do museu) tem filas de bilheteira que atrasam quem passeia cães."
         },
         {
           "name": "Villa Comunale",
@@ -252,10 +252,10 @@
           "tipFr": "La Villa se connecte directement au Lungomare piéton, combinez-les pour une boucle de 3 km en laisse avec vue mer d'un côté et jardins de l'autre.",
           "tipEs": "La Villa conecta directamente con el Lungomare peatonal, combínalos para un circuito de 3 km con correa con vistas al mar por un lado y jardines por el otro.",
           "googleMapsUrl": "https://maps.google.com/?q=Villa+Comunale+Napoli",
-          "descriptionPt": "Jardim público do século XVIII junto al mar, de 1,3 km entre Piazza Vittoria e Piazza della Repubblica. Fuentes, cafeterías, acuario histórico e bancos amplios sob magnolias, a opción clásica para um breve passeio com trela en Chiaia.",
+          "descriptionPt": "O jardim público à beira-mar de Nápoles, do século XVIII, que se estende por 1,3 km entre a Piazza Vittoria e a Piazza della Repubblica. Fontes, cafés, o aquário histórico e bancos largos sob magnólias, a escolha clássica para um curto passeio com trela em Chiaia.",
           "petPolicyPt": "Trela obrigatória",
-          "facilitiesPt": "Fuentes, cafeterías, bancos, acesso al passeio marítimo",
-          "tipPt": "A Villa conecta directamente com o Lungomare peatonal, combínalos para um circuito de 3 km com trela com vista para o mar por um lado e jardins pelo otro."
+          "facilitiesPt": "Fontes, cafés, bancos, acesso à marginal junto ao mar",
+          "tipPt": "A Villa liga-se diretamente à marginal pedonal do Lungomare, combine-as para um circuito de 3 km com trela, com vista para o mar de um lado e jardins do outro."
         }
       ],
       "tipsEn": [
@@ -315,25 +315,25 @@
           "a": "Sí, el Sentiero 5 oficial (Gran Cono) hacia el cráter admite perros con correa, pero los últimos 900 m de ceniza son duros para las almohadillas. Lleva agua y botines para ceniza caliente en verano."
         }
       ],
-      "titlePt": "Parques para cães e espacios verdes en Nápoles",
-      "introPt": "As ruas do centro de Nápoles são famosamente caóticas, mas a cidade dispone de varios grandes pulmones verdes perfeitos para passeios caninos: o panorámico Parco Virgiliano en Posillipo, as 134 hectáreas do Bosco di Capodimonte en torno al palácio real, e a Villa Comunale frente al mar. A trela é obrigatória en todos os espacios públicos por ordenanza municipal, e as poucas Aree Cani dedicadas se concentran en Vomero e Posillipo.",
+      "titlePt": "Parques caninos e espaços verdes em Nápoles",
+      "introPt": "As ruas do centro de Nápoles são famosamente caóticas, mas a cidade tem vários grandes pulmões verdes perfeitos para passeios de cães: o panorâmico Parco Virgiliano em Posillipo, os 134 hectares do Bosco di Capodimonte à volta do palácio real e a Villa Comunale junto ao mar. A trela é obrigatória em todos os espaços públicos por ordenança municipal, e as poucas Aree Cani dedicadas concentram-se em Vomero e Posillipo.",
       "tipsPt": [
-        "Nápoles aplica a trela obrigatória (Legge Regionale 16/2001) en todos os espacios públicos, multas a partir de 50 € fora das Aree Cani.",
-        "Leva um bozal flexible: a lei italiana lo exige técnicamente en público para todos os cães, embora o cumplimiento é desigual salvo en transporte público.",
-        "Recoge as deposiciones, a limpieza viaria en Nápoles é mínima e a multa de 75 a 450 € se controla activamente en Chiaia e no Lungomare."
+        "Nápoles aplica as leis de trela obrigatória (Legge Regionale 16/2001) em todos os espaços públicos, as coimas começam em 50 € para cães sem trela fora das Aree Cani.",
+        "Leve um açaime macio: a lei italiana exige tecnicamente um em público para todos os cães, embora a fiscalização seja inconsistente, exceto nos transportes públicos.",
+        "Apanhe os dejetos do seu cão, a limpeza das ruas em Nápoles é mínima e a coima de 75 a 450 € é ativamente aplicada em Chiaia e no Lungomare."
       ],
       "faqsPt": [
         {
-          "q": "Dónde podem os cães correr sem trela en Nápoles?",
-          "a": "Só nas Aree Cani dedicadas, as principales estão en Parco Virgiliano (Posillipo), Villa Floridiana (Vomero) e uma pequenha zona en Mostra d'Oltremare. En todas as demás partes a trela é obrigatória."
+          "q": "Onde podem os cães correr sem trela em Nápoles?",
+          "a": "Apenas nas Aree Cani dedicadas, as principais ficam no Parco Virgiliano (Posillipo), na Villa Floridiana (Vomero) e numa pequena área na Mostra d'Oltremare. Em todo o resto, a trela é obrigatória."
         },
         {
-          "q": "Se admitem cães no Museu Arqueológico de Nápoles o en Capodimonte?",
-          "a": "No, ambos museus prohíben animales. O Bosco di Capodimonte alrededor do palácio sí é pet-friendly com trela."
+          "q": "Os cães são permitidos no Museu Arqueológico de Nápoles ou em Capodimonte?",
+          "a": "Não, ambos os museus proíbem animais. O bosque do Bosco di Capodimonte à volta do palácio, contudo, aceita cães com trela."
         },
         {
-          "q": "É pet-friendly o Parque Nacional do Vesubio?",
-          "a": "Sí, o Sentiero 5 oficial (Gran Cono) para o cráter admite cães com trela, mas os últimos 900 m de ceniza são duros para as almohadillas. Leva água e botines para ceniza quente en verão."
+          "q": "O Parque Nacional do Vesúvio aceita cães?",
+          "a": "Sim, o trilho oficial Sentiero 5 (Gran Cono) até à cratera aceita cães com trela, mas os últimos 900 m de caminho de cinzas são duros para as patas. Leve água e botinhas para as cinzas quentes no verão."
         }
       ]
     },
@@ -358,8 +358,8 @@
           "petPolicyFr": "Petits chiens gratuits (cage) ; grands chiens plein tarif + laisse + muselière",
           "petPolicyEs": "Perros pequeños gratis (transportín); grandes, billete completo + correa + bozal",
           "googleMapsUrl": "https://maps.google.com/?q=Toledo+Metro+Napoli",
-          "descriptionPt": "A Azienda Napoletana Mobilità gestiona a Metro Línea 1 (a línea turística que passa por Toledo, Dante e Museu), a Línea 6, quatro funiculares e a red de autocarros. Os cães pequenhos en transportadora viajan grátis; os mais grandes requieren bozal, trela corta e bilhete de tarifa completa no metro/bus.",
-          "petPolicyPt": "Cães pequenhos grátis (transportadora); grandes, bilhete completo + trela + bozal"
+          "descriptionPt": "A Azienda Napoletana Mobilità gere a Metro Linha 1 (a linha turística que passa por Toledo, Dante e Museo), a Linha 6, quatro funiculares e a rede de autocarros urbanos. Os cães pequenos em transportadora viajam gratuitamente; os maiores precisam de açaime, trela curta e bilhete de tarifa normal no metro/autocarro.",
+          "petPolicyPt": "Cães pequenos gratuitos (transportadora); cães grandes bilhete completo + trela + açaime"
         },
         {
           "name": "Circumvesuviana (EAV)",
@@ -374,8 +374,8 @@
           "petPolicyFr": "Laisse + muselière ; demi-tarif pour chiens >6 kg",
           "petPolicyEs": "Correa + bozal; medio billete para perros >6 kg",
           "googleMapsUrl": "https://maps.google.com/?q=Napoli+Garibaldi+Circumvesuviana",
-          "descriptionPt": "O comboio regional Circumvesuviana une Nápoles com Pompeya, Herculano, Sorrento e a puerta da costa amalfitana. Os cães se admitem com trela e bozal; um bilhete suplementario a mitad de preço se exige para cualquier cão de mais de 6 kg. Comboios a menudo llenos, evita as horas punta turísticas (10:00–12:00).",
-          "petPolicyPt": "Trela + bozal; medio bilhete para cães >6 kg"
+          "descriptionPt": "O comboio regional Circumvesuviana liga Nápoles a Pompeia, Herculano, Sorrento e à porta de entrada da Costa Amalfitana. Os cães são admitidos com trela e açaime; é exigido um bilhete suplementar a meio preço para qualquer cão com mais de 6 kg. Os comboios estão muitas vezes cheios, evite as horas de ponta turísticas (10:00 às 12:00).",
+          "petPolicyPt": "Trela + açaime; meio bilhete para cães com mais de 6 kg"
         },
         {
           "name": "Molo Beverello Ferries",
@@ -390,8 +390,8 @@
           "petPolicyFr": "Laisse + muselière ; billet chien séparé ~5 €",
           "petPolicyEs": "Correa + bozal; billete de perro aparte ~5 €",
           "googleMapsUrl": "https://maps.google.com/?q=Molo+Beverello+Napoli",
-          "descriptionPt": "O principal porto de ferri para Capri, Ischia, Procida e Sorrento. Todos os grandes operadores (Alilauro, Caremar, SNAV, NLG) admitem cães com trela e bozal en cubiertas exteriores; se exige reservar um bilhete para o cão por adelantado (uns 5 €) en hidrofoils.",
-          "petPolicyPt": "Trela + bozal; bilhete de cão aparte ~5 €"
+          "descriptionPt": "O principal porto de ferries para Capri, Ischia, Procida e Sorrento. Todos os grandes operadores (Alilauro, Caremar, SNAV, NLG) aceitam cães com trela e açaime nos conveses exteriores; é necessário reservar um bilhete de cão com antecedência (cerca de 5 €) nos hidroplanadores.",
+          "petPolicyPt": "Trela + açaime; bilhete de cão à parte ~5 €"
         }
       ],
       "tipsEn": [
@@ -451,25 +451,25 @@
           "a": "Todos los grandes operadores (Alilauro, Caremar, SNAV, NLG) admiten perros con correa y bozal en cubiertas exteriores. Debe comprarse un billete de perro aparte (unos 5 €) en la terminal."
         }
       ],
-      "titlePt": "Viajar com cão en Nápoles",
-      "introPt": "O transporte público de Nápoles (ANM para autocarros, metro e funiculares; EAV para a Circumvesuviana a Pompeya/Sorrento) admite cães sob normas estrictas: cães pequenhos en transportadora grátis, cães grandes com trela e bozal mais, en comboios regionales, medio bilhete. Espera um control estricto do bozal no metro, especialmente en hora punta.",
+      "titlePt": "Viajar com cães em Nápoles",
+      "introPt": "Os transportes públicos de Nápoles (ANM para autocarros, metro e funiculares; EAV para a Circumvesuviana até Pompeia/Sorrento) aceitam cães sob regras rigorosas: os cães pequenos em transportadora viajam gratuitamente, os cães maiores exigem trela e açaime, além de, nos comboios regionais, meio bilhete. Conte com uma fiscalização rigorosa da regra do açaime no metro, sobretudo na hora de ponta.",
       "tipsPt": [
-        "Leva sempre um bozal flexible no bolso, os revisores napolitanos multan com 25 a 250 € aos duenhos que no lo levam en bus o metro.",
-        "A Metro Línea 1 tem aire acondicionado e é a opción mais sencilla en julho-agosto; a red de autocarros pode ser sofocante e caótica para cães ansiosos.",
-        "Para uma excursión a Capri o Ischia, reserva o hidrofoil Alilauro da manhã (para as 09:10), os cães têm um banco designado en cubierta exterior, longe da multitud."
+        "Tenha sempre um açaime macio na sua mala, os fiscais napolitanos coimam os donos de cães em 25 a 250 € por não terem um nos autocarros e no metro.",
+        "A Metro Linha 1 tem ar condicionado e é a escolha mais fácil em julho e agosto; a rede de autocarros pode ser sufocante e caótica para cães ansiosos.",
+        "Para passeios de um dia a Capri ou Ischia, reserve o hidroplanador Alilauro da manhã (por volta das 09:10), os cães têm um banco designado no convés exterior, longe das multidões."
       ],
       "faqsPt": [
         {
-          "q": "Puedo levar mi cão no metro de Nápoles?",
-          "a": "Sí, cães pequenhos en transportadora grátis. Cães grandes: bilhete completo, trela corta e bozal. A norma se controla activamente."
+          "q": "Posso levar o meu cão no metro de Nápoles?",
+          "a": "Sim, os cães pequenos em transportadora viajam gratuitamente. Os cães maiores precisam de um bilhete de passageiro completo, uma trela curta e um açaime. A regra é ativamente aplicada."
         },
         {
-          "q": "Se admitem cães na Circumvesuviana a Pompeya?",
-          "a": "Sí, com trela e bozal. Os cães de mais de 6 kg necesitan um bilhete suplementario a meio preço. Evita 10:00–12:00, hora punta turística."
+          "q": "Os cães são permitidos na Circumvesuviana até Pompeia?",
+          "a": "Sim, com trela e açaime. Os cães com mais de 6 kg precisam de um bilhete suplementar a meio preço. Evite as 10:00 às 12:00, quando as multidões de turistas atingem o pico."
         },
         {
-          "q": "Podem os cães viajar nos ferris a Capri o Ischia?",
-          "a": "Todos os grandes operadores (Alilauro, Caremar, SNAV, NLG) admitem cães com trela e bozal en cubiertas exteriores. Debe comprarse um bilhete de cão aparte (uns 5 €) na terminal."
+          "q": "Os cães podem viajar nos ferries para Capri ou Ischia?",
+          "a": "Todos os grandes operadores (Alilauro, Caremar, SNAV, NLG) admitem cães com trela e açaime nos conveses exteriores. Tem de comprar um bilhete de cão à parte (cerca de 5 €) no terminal."
         }
       ]
     },
@@ -498,9 +498,9 @@
           "tipFr": "Réservez par téléphone en juillet-août, la zone chien est limitée à ~30 chiens et se remplit dès 10h le week-end.",
           "tipEs": "Reserva por teléfono en julio-agosto, la zona canina tiene aforo de ~30 perros y se llena hacia las 10:00 los fines de semana.",
           "googleMapsUrl": "https://maps.google.com/?q=Lido+La+Duchessa+Dog+Beach+Pompei",
-          "descriptionPt": "Uma das Spiagge Cani oficiais mais cercanas a Nápoles (~30 km), registrada na red BauWatch Italia. Os cães podem banhar-se sem trela numa zona dedicada, com duchas de água dulce, sombrillas e um pequenho bar. Entrada uns 10 €/dia.",
-          "petPolicyPt": "Sem trela en zona dedicada; duchas de água dulce",
-          "tipPt": "Reserva por teléfono en julho-agosto, a zona canina tem aforo de ~30 cães e se llena para as 10:00 os fines de semana."
+          "descriptionPt": "Uma das Spiagge Cani oficiais mais próximas de Nápoles (~30 km), registada na rede BauWatch Italia. Os cães podem nadar sem trela numa zona dedicada, com chuveiros de água doce, chapéus de sol e um pequeno bar. Entrada cerca de 10 €/dia.",
+          "petPolicyPt": "Sem trela na zona designada; chuveiros de água doce",
+          "tipPt": "Reserve por telefone com antecedência em julho e agosto, a zona canina tem lotação de ~30 cães e enche por volta das 10:00 aos fins de semana."
         },
         {
           "name": "Spiaggia di Marechiaro",
@@ -519,9 +519,9 @@
           "tipFr": "Garez-vous en haut de la Discesa Marechiaro et descendez à pied, la route se rétrécit en voie unique, pénible avec un chien nerveux dans la circulation.",
           "tipEs": "Aparca en la parte alta de la Discesa Marechiaro y baja a pie, la carretera se estrecha a un carril, incómodo con perro nervioso en el tráfico.",
           "googleMapsUrl": "https://maps.google.com/?q=Spiaggia+di+Marechiaro+Napoli",
-          "descriptionPt": "Conocida cala rocosa na costa de Posillipo, acesso libre, onde os cães com trela são tolerados o ano inteiro sobre as rocas (no hay praia de areia onde aplicar prohibiciones). Vistas do Golfo e do Vesubio; o banho para cães está legalmente prohibido na zona de banho estival mas as rocas a leste da cala são acessíveis.",
-          "petPolicyPt": "Trela obrigatória; sem banho en zona de banho en verão",
-          "tipPt": "Aparca na parte alta da Discesa Marechiaro e baja a pé, a carretera se estrecha a um carril, incómodo com cão nervioso no tráfico."
+          "descriptionPt": "Uma conhecida enseada rochosa na costa de Posillipo, com acesso livre, onde os cães com trela são tolerados durante todo o ano sobre as rochas (não há praia de areia onde aplicar proibições). Vistas do Golfo e do Vesúvio; os cães não podem legalmente nadar na zona balnear de verão, mas as rochas logo a leste da enseada estão acessíveis.",
+          "petPolicyPt": "Trela obrigatória; sem banho na zona balnear no verão",
+          "tipPt": "Estacione no topo da Discesa Marechiaro e desça a pé, a estrada estreita-se para uma única faixa, o que é complicado com um cão nervoso no trânsito."
         },
         {
           "name": "Baia di Trentaremi",
@@ -540,9 +540,9 @@
           "tipFr": "Le sentier d'accès compte ~150 marches de pierre brute, emportez une gamelle pliable et venez avant 10h en juillet-août pour éviter le stress thermique.",
           "tipEs": "El sendero de acceso tiene ~150 escalones de piedra irregular, lleva un bol plegable y ven antes de las 10:00 en julio-agosto para evitar el estrés térmico.",
           "googleMapsUrl": "https://maps.google.com/?q=Baia+di+Trentaremi+Napoli",
-          "descriptionPt": "Cala salvaje dentro do área marina protegida de Gaiola, acessível por um trilho escarpado. Os cães com trela estão admitidos nas rocas o ano inteiro; banho prohibido na zona protegida mas a pequenha praia do norte é utilizable fora de temporada turística (maio-setembro).",
+          "descriptionPt": "Uma enseada selvagem dentro da área marinha protegida da Gaiola, acessível por um trilho íngreme. Os cães com trela são permitidos nas rochas durante todo o ano; o banho é proibido dentro da zona protegida, mas a pequena praia do lado norte é utilizável fora da época turística de maio a setembro.",
           "petPolicyPt": "Trela obrigatória; zonas de banho limitadas",
-          "tipPt": "O trilho de acesso tem ~150 escalones de pedra irregular, leva um bol plegable e ven antes das 10:00 en julho-agosto para evitar o estrés térmico."
+          "tipPt": "O trilho de acesso tem ~150 degraus de pedra irregular, leve uma taça de água dobrável e vá antes das 10:00 em julho e agosto para evitar o risco de stress térmico."
         }
       ],
       "tipsEn": [
@@ -603,24 +603,24 @@
         }
       ],
       "titlePt": "Praias pet-friendly perto de Nápoles",
-      "introPt": "O golfo de Nápoles aplica normas estrictas de praia: a maioria das praias libres prohíben os cães en verão (15 maio–30 setembro) e só as Spiagge Cani dedicadas, a lo largo da costa Domiciana e do Cilento, os admitem o ano inteiro. Dentro da cidade, as calas rocosas de Posillipo são mais tolerantes que as praias de areia da franja turística.",
+      "introPt": "O Golfo de Nápoles tem regras de praia rigorosas: a maioria das praias livres proíbe cães no verão (15 de maio a 30 de setembro) e só as Spiagge Cani dedicadas (praias para cães) ao longo da costa Domiziana e do Cilento os acolhem durante todo o ano. Dentro da cidade, as enseadas rochosas de Posillipo são mais tolerantes do que as praias de areia da faixa turística.",
       "tipsPt": [
-        "A prohibición estival italiana (15 maio–30 setembro) se aplica a a maioria das praias libres e equipadas, só as Spiagge Cani oficiais estão exentas.",
-        "O directorio BauWatch Italia recoge todas as praias caninas registradas de Campania com disponibilidad en tempo real.",
-        "As rocas costeras e calas no equipadas de Posillipo e do Cilento costumam ser tolerantes o ano inteiro, mesmo em pleno verão."
+        "A proibição estival italiana de praia (15 de maio a 30 de setembro) aplica-se à maioria das praias livres e equipadas, só as Spiagge Cani oficiais estão isentas.",
+        "O diretório BauWatch Italia lista todas as praias caninas registadas da Campânia, com disponibilidade em tempo real.",
+        "As rochas costeiras e as enseadas não equipadas à volta de Posillipo e do Cilento são em geral tolerantes durante todo o ano, mesmo em pleno verão."
       ],
       "faqsPt": [
         {
-          "q": "Pode mi cão banhar-se nas praias de Nápoles en verão?",
-          "a": "Só nas Spiagge Cani registradas. A maioria das praias libres e comerciales prohíben os cães do 15 maio al 30 setembro; o control é estricto en Chiaia e nas praias do Lungomare."
+          "q": "O meu cão pode nadar nas praias de Nápoles no verão?",
+          "a": "Apenas nas Spiagge Cani registadas. A maioria das praias livres e comerciais proíbe cães de 15 de maio a 30 de setembro; a fiscalização é rigorosa em Chiaia e nas praias do Lungomare."
         },
         {
-          "q": "Se admitem cães na costa Amalfitana o en Sorrento?",
-          "a": "Sí, com restricciones estacionales. A maioria das poblaciones da costa Amalfitana exigen trela en público e prohíben as praias en verão, mas existen varias praias caninas perto de Positano e Sorrento."
+          "q": "Os cães são permitidos na Costa Amalfitana ou em Sorrento?",
+          "a": "Sim, com restrições sazonais. A maioria das vilas da Costa Amalfitana exige trela em público e proíbe a entrada na praia no verão, mas existem várias praias para cães perto de Positano e Sorrento."
         },
         {
-          "q": "Qué é o sello BauWatch Italia?",
-          "a": "Um directorio privado que verifica praias e alojamentos pet-friendly en Italia. As fichas incluem política de animais, serviços e disponibilidad en tempo real, e as actualizan inspectores sobre o terreno."
+          "q": "O que é o selo BauWatch Italia?",
+          "a": "Um diretório do setor privado que verifica praias e alojamentos que aceitam cães em Itália. As fichas incluem políticas para animais, comodidades e disponibilidade em tempo real, e são atualizadas por inspetores no terreno."
         }
       ]
     },
@@ -653,10 +653,10 @@
           "tipFr": "Appelez avant si possible, le triage téléphonique vous orientera vers Partenope (chirurgical) ou un service public ASL (routine). Circulation le soir très chargée au Vomero.",
           "tipEs": "Llama antes si es posible, el triaje telefónico te orientará a Partenope (quirúrgico) o a un servicio público ASL (rutina). El tráfico de tarde en Vomero puede ser duro.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Partenope+Via+Cilea+Napoli",
-          "descriptionPt": "Clínica polivalente de larga trayectoria no Vomero, com urgências 24h, cirugía, imagen (TAC, ecografía, RX) e uma pequenha unidad de hospitalización nocturna. Atiende cães e gatos; se habla inglês.",
-          "petPolicyPt": "Urgências 24/7 com visita sem cita",
-          "servicesPt": "Urgências, cirugía, imagen, dermatología",
-          "tipPt": "Liga antes se é posible, o triaje telefónico te orientará a Partenope (quirúrgico) o a um serviço público ASL (rutina). O tráfico de tarde en Vomero pode ser duro."
+          "descriptionPt": "Clínica de serviço completo, com longa tradição, em Vomero, com receção de urgências 24 horas, cirurgia, imagiologia (TAC, ecografia, raio-X) e uma pequena unidade de internamento durante a noite. Trata cães e gatos; fala-se inglês.",
+          "petPolicyPt": "Urgências 24/7 com atendimento sem marcação",
+          "servicesPt": "Urgências, cirurgia, imagiologia, dermatologia",
+          "tipPt": "Ligue com antecedência se possível, a triagem telefónica indica-lhe se deve ir ao Partenope (cirúrgico) ou a um serviço público ASL (rotina). O trânsito ao fim do dia em Vomero pode ser brutal."
         },
         {
           "name": "Clinica Veterinaria Pegaso",
@@ -679,10 +679,10 @@
           "tipFr": "Parking gratuit sur place, rare à Naples, détail important à 3h du matin. Utilisez l'entrée arrière pour les urgences après 22h.",
           "tipEs": "Aparcamiento gratuito in situ, poco habitual en Nápoles, detalle importante a las 3 de la madrugada. Usa la entrada trasera para urgencias después de las 22:00.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Pegaso+Napoli",
-          "descriptionPt": "Clínica de referencia al este do centro histórico com urgências 24/7, medicina interna especializada, cirugía ortopédica, endoscopia e cuidados intensivos. Muito valorada pelos veterinários napolitanos para casos complejos e gran centro de referencia para toda Campania.",
-          "petPolicyPt": "Urgências 24/7 com visita sem cita",
+          "descriptionPt": "Clínica de encaminhamento a leste do centro histórico, com cuidados de urgência 24/7, medicina interna especializada, cirurgia ortopédica, endoscopia e cuidados intensivos. Bem considerada pelos veterinários de Nápoles para casos complexos e um importante polo de encaminhamento para toda a região da Campânia.",
+          "petPolicyPt": "Urgências 24/7 com atendimento sem marcação",
           "servicesPt": "Urgências, medicina interna, ortopedia, endoscopia, UCI",
-          "tipPt": "Aparcamiento gratuito in situ, pouco habitual en Nápoles, detalle importante a as 3 da madrugada. Usa a entrada trasera para urgências depois das 22:00."
+          "tipPt": "Estacionamento gratuito no local, pouco habitual em Nápoles, um pormenor importante às 3 da madrugada. Use a entrada das traseiras para urgências depois das 22:00."
         },
         {
           "name": "ASL Napoli 1 Centro, Servizio Veterinario",
@@ -705,10 +705,10 @@
           "tipFr": "Apportez le passeport européen précédent et une pièce d'identité, le service est gratuit pour les résidents mais exige une documentation complète qui peut rallonger la visite de 30 à 60 minutes.",
           "tipEs": "Lleva el pasaporte europeo anterior y un documento de identidad, el servicio es gratuito para residentes pero exige documentación completa que puede alargar la visita 30–60 min.",
           "googleMapsUrl": "https://maps.google.com/?q=ASL+Napoli+1+Servizio+Veterinario",
-          "descriptionPt": "Serviço veterinário público da cidade que gestiona registro de rabia, microchipado, passaportes europeus e casos no urgentes para residentes e visitantes. Gratuito o muito barato mas com horários limitados; no apto para urgências.",
-          "petPolicyPt": "Só no urgências; com cita",
-          "servicesPt": "Microchip, registro de rabia, passaporte europeu, controles rutinarios",
-          "tipPt": "Leva o passaporte europeu anterior e um documento de identidad, o serviço é gratuito para residentes mas exige documentação completa que pode alargar a visita 30–60 min."
+          "descriptionPt": "O serviço veterinário público da cidade, que trata do registo da raiva, da colocação de microchip, dos passaportes europeus para animais e de casos não urgentes para residentes e visitantes de Nápoles. Gratuito ou de custo muito baixo, mas com horário limitado; não adequado para urgências.",
+          "petPolicyPt": "Apenas casos não urgentes; com marcação",
+          "servicesPt": "Colocação de microchip, registo da raiva, passaporte europeu, exames de rotina",
+          "tipPt": "Leve o passaporte europeu anterior do seu cão e um documento de identidade com foto, o serviço é gratuito para residentes mas exige documentação completa que pode acrescentar 30 a 60 minutos à sua visita."
         }
       ],
       "tipsEn": [
@@ -768,25 +768,25 @@
           "a": "Sí, Partenope y Pegaso atienden urgencias sin cita 24/7. Para consultas de rutina la mayoría exige cita, llama antes."
         }
       ],
-      "titlePt": "Veterinário de urgências en Naples, Hospitales e clínicas veterinárias",
-      "introPt": "Nápoles cuenta com varias clínicas veterinárias privadas 24/7 além disso do serviço veterinário público ASL Napoli 1. As clínicas privadas gestionan a mayor parte das urgências fora de horário e são as preferidas por expatriados e visitantes por o seu personal anglófono. Consulta de urgências promedio: 60 a 110 € sem pruebas.",
+      "titlePt": "Veterinários de urgência em Nápoles, clínicas veterinárias e cuidados para animais",
+      "introPt": "Nápoles tem várias clínicas veterinárias privadas 24/7, além do serviço veterinário público ASL Napoli 1. As clínicas privadas tratam a maior parte das urgências fora de horas e são as preferidas por expatriados e visitantes pela equipa que fala inglês. A consulta média fora de horas custa 60 a 110 € antes dos exames de diagnóstico.",
       "tipsPt": [
-        "Guarda Partenope (081 5566144) e Pegaso (081 5838183) en tu móvil antes de chegar, Italia no tem línea nacional de urgências veterinárias.",
-        "O centro de toxicología veterinária passa pelo CAV Niguarda humano (+39 02 6610 1029), que asesora sobre animais as 24 horas.",
-        "A maioria das clínicas privadas aceitam seguros europeus (Agila, Petplan) mas o pago é al momento; conserva o recibo para o reembolso."
+        "Guarde o Partenope (081 5566144) e o Pegaso (081 5838183) no seu telemóvel antes de chegar, Itália não tem uma linha nacional de urgência para animais.",
+        "O controlo de envenenamento animal funciona através do centro humano CAV Niguarda (+39 02 6610 1029), que aconselha sobre casos de animais 24/7.",
+        "A maioria das clínicas privadas aceita seguros europeus para animais (Agila, Petplan) mas o pagamento é antecipado; guarde o recibo para reembolso."
       ],
       "faqsPt": [
         {
-          "q": "Qué clínica abre 24/7 en Nápoles?",
-          "a": "Partenope (Via Cilea 120, Vomero, 081 5566144) e Pegaso (Viale della Resistenza 162, Ponticelli, 081 5838183) prestan serviço de urgências 24/7 na cidade."
+          "q": "Que clínica veterinária em Nápoles abre 24/7?",
+          "a": "O Partenope (Via Cilea 120, Vomero, 081 5566144) e o Pegaso (Viale della Resistenza 162, Ponticelli, 081 5838183) prestam serviços de urgência 24 horas dentro da cidade."
         },
         {
-          "q": "Cuánto cuesta uma urgência veterinária en Nápoles?",
-          "a": "A consulta de urgências base é de 60 a 110 €, sem contar pruebas. A tarifa ANMVI italiana fija mínimos mas o coste final depende das pruebas e uma posible hospitalización."
+          "q": "Quanto custa uma consulta veterinária de urgência em Nápoles?",
+          "a": "A consulta base fora de horas costuma ser de 60 a 110 €, mais os exames de diagnóstico. A lei italiana (tariffa ANMVI) publica taxas mínimas, mas o custo final depende dos exames e do internamento."
         },
         {
-          "q": "Um veterinário de Nápoles admite visitas sem cita?",
-          "a": "Sí, Partenope e Pegaso atienden urgências sem cita 24/7. Para consultas de rutina a mayoría exige cita, liga antes."
+          "q": "Um veterinário de Nápoles aceita atendimentos sem marcação?",
+          "a": "Sim, tanto o Partenope como o Pegaso aceitam urgências sem marcação 24/7. Para consultas de rotina, a maioria das clínicas exige marcação, ligue primeiro."
         }
       ]
     },
@@ -861,27 +861,27 @@
           "a": "Sí. Los perros con correa se admiten en Pompeya y Herculano sin billete adicional. Hay agua en las fuentes; evita las visitas de mediodía en julio-agosto por el calor extremo."
         }
       ],
-      "titlePt": "Consejos esenciales para viajar com animais a Nápoles",
-      "introPt": "Nápoles é um destino gratificante mas exigente para os duenhos de cães: tráfico caótico, calor estival por em cima de 35 °C, trela e bozal obrigatórios, e um mosaico de prohibiciones en praias. Estes consejos recogen lo esencial, do bozal obrigatório en transporte aos melhores bairros onde alojarse com cão.",
+      "titlePt": "Conselhos essenciais de viagem com animais para Nápoles",
+      "introPt": "Nápoles é um destino gratificante mas exigente para os donos de cães: trânsito caótico, calor de verão acima dos 35 °C, regras rigorosas de trela e açaime e um mosaico de proibições nas praias. Estes conselhos reúnem o essencial, do açaime obrigatório nos transportes públicos aos melhores bairros onde se instalar com um cão.",
       "tipsPt": [
-        "Leva sempre um bozal flexible, a lei italiana lo exige en espacios públicos e os controles são estrictos en autocarros, metros e na estação Circumvesuviana.",
-        "Evita o centro histórico en hora punta (18:00–20:00) com cães ansiosos: a densidad de scooters e as aceras estrechas são realmente estresantes. Posillipo e Vomero são alternativas mais tranquilas.",
-        "Os mapas Stay22 permiten filtrar os alojamentos napolitanos por pet-friendly, consúltalos mediante o botón Find Hotels en cada página de destino.",
-        "O asfalto en Nápoles alcanza regularmente 55 °C pela tarde en julho, pasea antes das 9:00 o depois das 19:30 e evita o asfalto negro.",
-        "O aeroporto de Nápoles (NAP) dispone de um área de esparcimiento dedicada fora da Terminal 1, junto al aparcamiento de corta duración; animais en tránsito admitidas en todos os voos com reserva previa."
+        "Tenha sempre um açaime macio consigo, a lei italiana exige um nos espaços públicos e a fiscalização é rigorosa nos autocarros, no metro e na estação da Circumvesuviana.",
+        "Evite o centro histórico na hora de ponta (18:00 às 20:00) com cães ansiosos: a densidade de motas e os passeios estreitos são genuinamente stressantes. Posillipo e Vomero são alternativas mais calmas.",
+        "Os mapas Stay22 permitem-lhe filtrar os alojamentos de Nápoles por pet-friendly, consulte-os clicando em Find Hotels em qualquer página de destino.",
+        "A temperatura do pavimento no verão, em Nápoles, atinge regularmente 55 °C nas tardes de julho, passeie antes das 09:00 ou depois das 19:30 e evite o asfalto preto.",
+        "O Aeroporto de Nápoles (NAP) tem uma zona de alívio para animais dedicada à saída do Terminal 1, junto ao estacionamento de curta duração; os animais em trânsito são aceites em todos os voos com reserva prévia."
       ],
       "faqsPt": [
         {
-          "q": "É Nápoles uma buena cidade para visitar com cão?",
-          "a": "Sí, com expectativas realistas: a cidade é acogedora en restaurantes, ferris e a maioria de atracciones, mas tráfico, gentío e calor estival dificultan o centro histórico. Alójate en Chiaia, Posillipo o Vomero para uma estadia mais tranquila."
+          "q": "Nápoles é uma boa cidade para visitar com um cão?",
+          "a": "Sim, com expectativas realistas: a cidade acolhe cães nos restaurantes, ferries e na maioria das atrações, mas o trânsito, as multidões e o calor de verão tornam o centro histórico desafiante. Instale-se em Chiaia, Posillipo ou Vomero para uma estadia mais calma."
         },
         {
-          "q": "Necesito papeles para levar mi cão a Nápoles?",
-          "a": "Residentes UE: passaporte europeu com vacinação antirrábica vigente. Fora da UE: certificado sanitario UE emitido nos 10 dias anteriores mais prueba de título antirrábico para ciertos países."
+          "q": "Preciso de documentação para levar o meu cão a Nápoles?",
+          "a": "Os residentes da UE precisam do passaporte europeu para animais com vacinação antirrábica válida. Os visitantes de fora da UE precisam de um certificado sanitário animal da UE emitido nos 10 dias anteriores à entrada, além de um teste de titulação antirrábica para certos países."
         },
         {
-          "q": "Puedo levar mi cão a Pompeya?",
-          "a": "Sí. Os cães com trela se admitem en Pompeya e Herculano sem bilhete adicional. Hay água nas fuentes; evita as visitas de mediodía en julho-agosto pelo calor extremo."
+          "q": "Posso levar o meu cão a Pompeia?",
+          "a": "Sim. Os cães com trela são permitidos nos parques arqueológicos de Pompeia e Herculano sem bilhete adicional. Há água nas fontes; evite as visitas a meio do dia em julho e agosto devido ao calor extremo."
         }
       ]
     },
@@ -910,9 +910,9 @@
           "tipFr": "Traversez la chaussée à l'heure bleue (30 min après le coucher du soleil), la lueur du château, la silhouette du Vésuve et les lumières du port composent la plus belle photo de skyline de Naples avec votre chien.",
           "tipEs": "Cruza la calzada a la hora azul (30 min tras el atardecer), el resplandor del castillo, la silueta del Vesubio y las luces del puerto componen la mejor foto de skyline de Nápoles con tu perro.",
           "googleMapsUrl": "https://maps.google.com/?q=Castel+dell%27Ovo+Napoli",
-          "descriptionPt": "A fortificación mais antiga en pie de Nápoles, construida sobre um islote de toba unido a Santa Lucia por uma calzada. As muralhas exteriores e o Borgo Marinari ao seu alrededor são de libre acesso com trela, com vistas panorámicas al Vesubio. As exposiciones interiores no admitem animales.",
-          "petPolicyPt": "Muralhas exteriores: trela; interior: sem animais",
-          "tipPt": "Cruza a calzada a a hora azul (30 min tras o atardecer), o resplandor do castelo, a silueta do Vesubio e as luces do porto componen a melhor foto de skyline de Nápoles com tu cão."
+          "descriptionPt": "A fortificação mais antiga ainda de pé em Nápoles, construída sobre um ilhéu de tufo ligado a Santa Lucia por uma calçada. As muralhas exteriores e a aldeia piscatória do Borgo Marinari à sua volta têm acesso livre com trela, com vistas panorâmicas para o Vesúvio. As exposições interiores não aceitam animais.",
+          "petPolicyPt": "Muralhas exteriores: com trela; interior: sem animais",
+          "tipPt": "Atravesse a calçada à hora azul (30 min depois do pôr do sol), o brilho do castelo, a silhueta do Vesúvio e as luzes do porto compõem a melhor fotografia do skyline de Nápoles com o seu cão."
         },
         {
           "name": "Pompeii Archaeological Park",
@@ -931,9 +931,9 @@
           "tipFr": "Entrez par la Porta Marina Superiore et sortez par la Piazza Anfiteatro, le parcours en descente épargne les coussinets sur le basalte chaud et couvre les points forts sans revenir en arrière.",
           "tipEs": "Entra por la Porta Marina Superiore y sal por la Piazza Anfiteatro, el recorrido en bajada protege las almohadillas del basalto caliente y cubre los hitos sin desandar camino.",
           "googleMapsUrl": "https://maps.google.com/?q=Pompeii+Archaeological+Park",
-          "descriptionPt": "Cidade romana UNESCO sepultada pelo Vesubio no 79 d.C. Os cães com trela se admitem grátis en todo o parque arqueológico, uno dois mayores sitios históricos pet-friendly de Europa. A maioria de ruas estão adoquinadas com basalto original irregular; leva água e evita o calor de mediodía en verão.",
-          "petPolicyPt": "Cães com trela grátis; sem interiores cubiertos",
-          "tipPt": "Entra pela Porta Marina Superiore e sal pela Piazza Anfiteatro, o recorrido en bajada protege as almohadillas do basalto quente e cubre os hitos sem desandar camino."
+          "descriptionPt": "A cidade romana classificada pela UNESCO, soterrada pelo Vesúvio em 79 d.C. Os cães com trela são admitidos gratuitamente em todo o parque arqueológico, um dos maiores sítios históricos da Europa que aceita cães. A maioria das ruas é pavimentada com basalto original irregular; leve água e evite o calor do meio do dia no verão.",
+          "petPolicyPt": "Cães com trela admitidos gratuitamente; sem edifícios interiores",
+          "tipPt": "Entre pela Porta Marina Superiore e saia pela Piazza Anfiteatro, o percurso a descer protege as patas do basalto quente e passa pelos principais pontos de interesse sem ter de voltar atrás."
         },
         {
           "name": "Lungomare Caracciolo",
@@ -952,9 +952,9 @@
           "tipFr": "Partez de Mergellina pour la vue du Vésuve au coucher du soleil, la marche de 2,5 km se termine près de la Villa Comunale pour ajouter une boucle jardin de 1,3 km si le chien en redemande.",
           "tipEs": "Empieza en Mergellina para la vista del Vesubio al atardecer, el paseo de 2,5 km termina cerca de la Villa Comunale para añadir un circuito de jardín de 1,3 km si el perro quiere más.",
           "googleMapsUrl": "https://maps.google.com/?q=Lungomare+Caracciolo+Napoli",
-          "descriptionPt": "O passeio marítimo peatonal de Nápoles, de 2,5 km entre o Castel dell'Ovo e Mergellina. Amplio, llano, sem carros a partir de 2012, com bancos cada 50 m, tramos sombreados de palmeras e kioscos de helados. O melhor passeio canino da cidade.",
+          "descriptionPt": "A marginal pedonal de Nápoles, que se estende por 2,5 km entre o Castel dell'Ovo e Mergellina. Ampla, plana, sem trânsito desde 2012, com bancos a cada 50 m, troços sombreados de palmeiras e quiosques de gelados. O melhor passeio de cães da cidade.",
           "petPolicyPt": "Trela obrigatória; muito pet-friendly",
-          "tipPt": "Empieza en Mergellina para a vista do Vesubio al atardecer, o passeio de 2,5 km termina perto da Villa Comunale para anhadir um circuito de jardim de 1,3 km se o cão quiere mais."
+          "tipPt": "Comece em Mergellina para a vista do pôr do sol sobre o Vesúvio, o passeio de 2,5 km termina perto da Villa Comunale, para um circuito de jardim adicional de 1,3 km se o cão ainda quiser mais."
         }
       ],
       "tipsEn": [
@@ -1014,25 +1014,25 @@
           "a": "Sí, los ferris a ambas islas admiten perros con correa y bozal (billete de perro 5 €). Capri prohíbe los perros en los tours a la Gruta Azul; Ischia es en general más acogedora."
         }
       ],
-      "titlePt": "Atracciones pet-friendly en Nápoles",
-      "introPt": "As atracciones al aire libre de Nápoles, do Lungomare aos yacimientos arqueológicos de Pompeya e Herculano, admitem ampliamente cães com trela. Os grandes museus cubiertos (MANN, Capodimonte, Palazzo Reale) prohíben animales, mas a maioria de castelos, praças e miradores panorámicos são acessíveis.",
+      "titlePt": "Atrações pet-friendly em Nápoles",
+      "introPt": "As atrações ao ar livre de Nápoles, da marginal do Lungomare aos sítios arqueológicos de Pompeia e Herculano, acolhem amplamente cães com trela. Os principais museus interiores (MANN, Capodimonte, Palazzo Reale) proíbem animais, mas a maioria dos castelos, praças e miradouros panorâmicos é acessível.",
       "tipsPt": [
-        "MANN (Museu Arqueológico), Capodimonte e Palazzo Reale prohíben os cães, organiza um relevo se quieres visitarlos.",
-        "Pompeya é a atracción principal pet-friendly mais impresionante perto de Nápoles, sem bilhete adicional, mas mais de 3 km andando sobre basalto quente e irregular.",
-        "Os tours en barco do Golfo a partir do Molo Beverello admitem cães com trela en cubierta exterior; Alilauro e Caremar publican políticas de animais claras."
+        "O MANN (Museu Arqueológico Nacional), Capodimonte e o Palazzo Reale proíbem todos animais, organize um revezamento com um acompanhante se quiser visitar.",
+        "Pompeia é a grande atração de destaque que aceita cães perto de Nápoles, sem bilhete adicional, mas com mais de 3 km de caminhada sobre basalto quente e irregular.",
+        "Os passeios de barco pelo Golfo a partir do Molo Beverello aceitam cães com trela no convés exterior; a Alilauro e a Caremar publicam políticas claras para animais."
       ],
       "faqsPt": [
         {
-          "q": "Puedo levar mi cão a Pompeya o Herculano?",
-          "a": "Sí, ambos parques arqueológicos admitem cães com trela grátis. Herculano é mais pequenho, com mais sombra e a menudo mais fácil para cães ansiosos que Pompeya."
+          "q": "Posso levar o meu cão a Pompeia ou Herculano?",
+          "a": "Sim, ambos os parques arqueológicos admitem cães com trela gratuitamente. Herculano é mais pequeno, com mais sombra, e muitas vezes mais fácil para cães ansiosos do que Pompeia."
         },
         {
-          "q": "Se admitem cães no Vesubio?",
-          "a": "Sí, os cães com trela podem subir o Sentiero 5 (Gran Cono) para o cráter, mas os últimos 900 m de ceniza são duros para as almohadillas. A ceniza en verão supera 50 °C, melhor en primavera o principios de outono."
+          "q": "Os cães são permitidos no Monte Vesúvio?",
+          "a": "Sim, os cães com trela podem subir o trilho Sentiero 5 (Gran Cono) até à cratera, mas os últimos 900 m de cinzas são duros para as patas. As temperaturas da superfície de cinzas no verão ultrapassam os 50 °C, vá na primavera ou no início do outono."
         },
         {
-          "q": "Puedo levar mi cão a Capri o Ischia numa excursión de um dia?",
-          "a": "Sí, os ferris a ambas ilhas admitem cães com trela e bozal (bilhete de cão 5 €). Capri prohíbe os cães nos tours a a Gruta Azul; Ischia é en general mais acogedora."
+          "q": "Posso levar o meu cão num passeio de um dia a Capri ou Ischia?",
+          "a": "Sim, os ferries para ambas as ilhas aceitam cães com trela e açaime (bilhete de cão de 5 €). Capri proíbe cães nos passeios de barco à Gruta Azul; Ischia acolhe mais cães no geral."
         }
       ]
     },
@@ -1063,10 +1063,10 @@
           "tipFr": "Filtrez les sitters par expérience avec les races d'Italie du Sud (Cane Corso, Maremmano), Naples compte beaucoup de sitters rompus aux grandes races de garde, rassurant pour les propriétaires de petits chiens.",
           "tipEs": "Filtra por experiencia con razas del sur italiano (Cane Corso, Maremmano), Nápoles tiene muchos cuidadores acostumbrados a grandes razas de guardia, tranquilizador para dueños de perros pequeños.",
           "googleMapsUrl": "https://maps.google.com/?q=Napoli",
-          "descriptionPt": "Plataforma europeia de pet sitting com cuidadores verificados en Nápoles para passeio, guardería e alojamento a domicilio. Todas as reservas incluem seguro e fotos diarias. Tarifas medias: 18–30 €/dia en alojamento, 10–15 € por passeio de uma hora.",
-          "petPolicyPt": "Cuidadores verificados, seguro incluido",
-          "servicesPt": "Passeio, guardería, alojamento",
-          "tipPt": "Filtra por experiencia com razas do sul italiano (Cane Corso, Maremmano), Nápoles tem muitos cuidadores acostumbrados a grandes razas de guardia, tranquilizador para duenhos de cães pequenhos."
+          "descriptionPt": "Plataforma europeia de cuidado de animais com cuidadores verificados em Nápoles para passeio de cães, creche e alojamento em casa. Todas as reservas têm seguro e incluem atualizações diárias com fotografias. Tarifas médias: 18 a 30 €/dia de alojamento em casa e 10 a 15 € por um passeio de uma hora.",
+          "petPolicyPt": "Cuidadores verificados, seguro incluído",
+          "servicesPt": "Passeio de cães, creche, alojamento em casa",
+          "tipPt": "Filtre os cuidadores por experiência com raças do sul de Itália (Cane Corso, Maremmano), Nápoles tem muitos cuidadores familiarizados com grandes raças de guarda, o que pode ser uma preocupação para os donos de cães mais pequenos."
         }
       ],
       "tipsEn": [
@@ -1126,25 +1126,25 @@
           "a": "Sí, Pawshake y Rover permiten filtrar por idioma. Chiaia y Posillipo concentran el mayor número de cuidadores anglófonos por la población expatriada."
         }
       ],
-      "titlePt": "Cuidadores e paseadores de cães en Nápoles",
-      "introPt": "Nápoles dispone de um mercado profesional de cuidado de animales en crecimiento constante, dominado por Pawshake e Rover, com algunas guarderías locales verificadas en Chiaia, Vomero e Posillipo. Tarifas ligeramente inferiores a Milão o Roma. Reserva pronto en temporada alta (maio-outubro) e durante o Pizza Village e a fiesta de San Gennaro.",
+      "titlePt": "Cuidadores e passeadores de cães em Nápoles",
+      "introPt": "Nápoles tem um mercado profissional de cuidado de animais em crescimento constante, dominado pelo Pawshake e pelo Rover, com algumas creches locais verificadas em Chiaia, Vomero e Posillipo. Conte com tarifas ligeiramente abaixo de Milão ou Roma. Reserve cedo durante a época alta (maio a outubro) e durante o Pizza Village e a festa de San Gennaro.",
       "tipsPt": [
-        "Reserva os cuidadores napolitanos com al menos 10 dias de antelación en verão, a alta temporada turística satura realmente a disponibilidad en Chiaia e Posillipo.",
-        "Rover.com opera uma red mais pequenha mas bien valorada en Nápoles, buen plan B se Pawshake está lleno.",
-        "A maioria de hotéis napolitanos que aceitam animais NO permiten dejar al cão só na habitación. Recurre a um cuidador local para visitar museus."
+        "Reserve os cuidadores de Nápoles com pelo menos 10 dias de antecedência no verão, a época alta de turismo satura genuinamente a disponibilidade em Chiaia e Posillipo.",
+        "O Rover.com opera uma rede mais pequena mas bem avaliada em Nápoles, um bom recurso de reserva se o Pawshake estiver esgotado.",
+        "A maioria dos hotéis napolitanos que aceita animais NÃO permite deixar os cães sozinhos nos quartos. Recorra a um cuidador local para as visitas diurnas a museus."
       ],
       "faqsPt": [
         {
-          "q": "Cuánto cuesta o pet sitting en Nápoles?",
-          "a": "Tarifas habituales: 18 a 30 €/noite en alojamento, 25 a 40 €/dia en guardería, 10 a 15 € por passeio de uma hora. Suben um 20–30 % en pico turístico (junho-setembro)."
+          "q": "Quanto custa o cuidado de animais em Nápoles?",
+          "a": "Tarifas habituais: 18 a 30 €/noite de alojamento em casa, 25 a 40 €/dia de creche, 10 a 15 € por passeio de uma hora. As tarifas sobem 20 a 30% durante os meses de maior turismo (junho a setembro)."
         },
         {
-          "q": "Estão asegurados os cuidadores en Nápoles?",
-          "a": "Pawshake e Rover incluem responsabilidad civil e cobertura veterinária de urgências en todas as reservas. Verifica sempre com cuidadores independientes antes de reservar directamente."
+          "q": "Os cuidadores de cães de Nápoles têm seguro?",
+          "a": "O Pawshake e o Rover incluem responsabilidade civil perante terceiros e cobertura veterinária de urgência em cada reserva. Confirme sempre com os cuidadores independentes antes de reservar diretamente."
         },
         {
-          "q": "Puedo encontrar um cuidador anglófono en Nápoles?",
-          "a": "Sí, Pawshake e Rover permiten filtrar por idioma. Chiaia e Posillipo concentran o mayor número de cuidadores anglófonos pela población expatriada."
+          "q": "Consigo encontrar um cuidador que fale inglês em Nápoles?",
+          "a": "Sim, o Pawshake e o Rover permitem-lhe filtrar por idioma. Chiaia e Posillipo têm a maior densidade de cuidadores que falam inglês devido à população expatriada."
         }
       ]
     }

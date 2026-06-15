@@ -33,7 +33,11 @@
           "tip": "Book a lunch table on the courtyard side and combine with a leashed walk on the monastery grounds and the Kaunas Lagoon shoreline.",
           "tipFr": "Réservez une table déjeuner côté cour et combinez avec une balade en laisse dans le domaine du monastère et le long de la lagune de Kaunas.",
           "tipEs": "Reserva mesa para almorzar en el lado del patio y combínalo con un paseo con correa por el dominio del monasterio y la orilla de la laguna de Kaunas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Monte+Pacis+Kaunas"
+          "googleMapsUrl": "https://maps.google.com/?q=Monte+Pacis+Kaunas",
+          "descriptionPt": "Um restaurante de destino instalado no complexo monástico camaldulense de Pažaislis, do século XVII, numa península da Lagoa de Kaunas, 9 km a leste do centro. Os cães com trela são bem-vindos na esplanada ao ar livre e no recinto do pátio; a ementa inspira-se nos produtos de época lituanos e nos pomares circundantes.",
+          "petPolicyPt": "Cães com trela bem-vindos na esplanada ao ar livre e no recinto do pátio; não são admitidos no interior das salas de jantar.",
+          "mustTryPt": "Sopa lituana de beterraba, lúcio-perca fumado, sobremesas de fruta dos pomares do mosteiro.",
+          "tipPt": "Reserve uma mesa de almoço do lado do pátio e combine com um passeio com trela pelo recinto do mosteiro e pela margem da Lagoa de Kaunas."
         },
         {
           "name": "YZY Bar",
@@ -55,13 +59,17 @@
           "tip": "Arrive before 19:00 in summer to catch a terrace table on Vilniaus gatvė; the cobbled lane is fully pedestrian.",
           "tipFr": "Arrivez avant 19h00 en été pour avoir une table en terrasse sur Vilniaus gatvė ; la ruelle pavée est entièrement piétonne.",
           "tipEs": "Llega antes de las 19:00 en verano para conseguir mesa en la terraza de Vilniaus gatvė; la calle empedrada es totalmente peatonal.",
-          "googleMapsUrl": "https://maps.google.com/?q=YZY+Bar+Vilniaus+19+Kaunas"
+          "googleMapsUrl": "https://maps.google.com/?q=YZY+Bar+Vilniaus+19+Kaunas",
+          "descriptionPt": "Um bar de cerveja artesanal e hambúrgueres na espinha pedonal de calçada da Vilniaus gatvė, na Cidade Velha, repetidamente apontado como um dos locais noturnos mais acolhedores para cães em Kaunas. Os cães com trela são bem-vindos no interior e na esplanada de verão virada para a rua.",
+          "petPolicyPt": "Cães com trela e calmos bem-vindos no interior e na esplanada; taça de água a pedido.",
+          "mustTryPt": "IPA artesanal local, hambúrguer lituano de carne esmagada, batatas fritas com maionese de alho.",
+          "tipPt": "Chegue antes das 19:00 no verão para apanhar uma mesa de esplanada na Vilniaus gatvė; a ruela de calçada é totalmente pedonal."
         },
         {
           "name": "Vero Cafe Laisvės alėja",
           "address": "Laisvės al. 53, 44309 Kaunas",
           "neighborhood": "Naujamiestis / Laisvės alėja",
-          "photo": "/images/city-places/kaunas-restaurants-vero-cafe.jpg",
+          "photo": "/images/city-places/kaunas-restaurants-vero-cafe-laisves-aleja.jpg",
           "website": "https://verocafe.lt/",
           "description": "The Lithuanian-grown specialty coffee chain Vero Cafe operates several branches on and around the Laisvės alėja pedestrian boulevard, all displaying the green Draugiški Gyvūnams paw sticker. Leashed dogs are welcome on the wide terraces facing the linden-shaded boulevard and on the chain's covered outdoor benches.",
           "descriptionFr": "La chaîne lituanienne de coffee shops Vero Cafe exploite plusieurs adresses sur et autour du boulevard piéton Laisvės alėja, toutes arborant l'autocollant vert Draugiški Gyvūnams. Les chiens en laisse sont les bienvenus sur les larges terrasses faisant face au boulevard bordé de tilleuls et sur les bancs extérieurs couverts.",
@@ -77,7 +85,11 @@
           "tip": "Sit on the boulevard side to people-watch the entire 1.6 km of Laisvės alėja; the pedestrian middle strip is perfect for a slow leashed stroll afterwards.",
           "tipFr": "Installez-vous côté boulevard pour observer les 1,6 km entiers de Laisvės alėja ; la bande piétonne centrale est parfaite pour une promenade en laisse ensuite.",
           "tipEs": "Siéntate del lado del bulevar para observar los 1,6 km enteros de Laisvės alėja; la franja peatonal central es perfecta para un paseo con correa después.",
-          "googleMapsUrl": "https://maps.google.com/?q=Vero+Cafe+Laisves+aleja+Kaunas"
+          "googleMapsUrl": "https://maps.google.com/?q=Vero+Cafe+Laisves+aleja+Kaunas",
+          "descriptionPt": "A cadeia de café de especialidade de produção lituana Vero Cafe tem várias filiais na Laisvės alėja e nas suas imediações, todas com o autocolante verde de pata Draugiški Gyvūnams. Os cães com trela são bem-vindos nas amplas esplanadas viradas para o bulevar à sombra das tílias e nos bancos exteriores cobertos da cadeia.",
+          "petPolicyPt": "Cães com trela bem-vindos nas esplanadas ao ar livre durante todo o ano; cães pequenos e calmos aceites no interior no inverno.",
+          "mustTryPt": "Flat white com leite de aveia local, fatia de šakotis (bolo em árvore), pãozinho de canela.",
+          "tipPt": "Sente-se do lado do bulevar para observar quem passa ao longo de todos os 1,6 km da Laisvės alėja; a faixa pedonal central é perfeita para um passeio lento com trela a seguir."
         }
       ],
       "tipsEn": [
@@ -96,19 +108,67 @@
         "La propina en Lituania se aprecia pero no es obligatoria; redondea o añade 5 a 10 % en la tarjeta para el servicio en mesa."
       ],
       "faqsEn": [
-        {"q": "Can I bring my dog inside restaurants in Kaunas?", "a": "On the terrace almost always yes; inside, look for the green Draugiški Gyvūnams paw sticker on the door, which signals the venue formally welcomes dogs indoors."},
-        {"q": "Are there dog-friendly fine-dining options in Kaunas?", "a": "Yes, Monte Pacis at the Pažaislis Monastery accepts leashed dogs on its outdoor terrace and in the courtyard grounds, making it the city's most upmarket dog-friendly destination restaurant."},
-        {"q": "Is water for dogs offered automatically?", "a": "Most Old Town and Laisvės alėja terraces will bring a bowl on request; carrying a collapsible bowl is recommended in July and August when daytime highs reach 22 to 24 °C."}
+        {
+          "q": "Can I bring my dog inside restaurants in Kaunas?",
+          "a": "On the terrace almost always yes; inside, look for the green Draugiški Gyvūnams paw sticker on the door, which signals the venue formally welcomes dogs indoors."
+        },
+        {
+          "q": "Are there dog-friendly fine-dining options in Kaunas?",
+          "a": "Yes, Monte Pacis at the Pažaislis Monastery accepts leashed dogs on its outdoor terrace and in the courtyard grounds, making it the city's most upmarket dog-friendly destination restaurant."
+        },
+        {
+          "q": "Is water for dogs offered automatically?",
+          "a": "Most Old Town and Laisvės alėja terraces will bring a bowl on request; carrying a collapsible bowl is recommended in July and August when daytime highs reach 22 to 24 °C."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je entrer dans les restaurants de Kaunas avec mon chien ?", "a": "En terrasse presque toujours oui ; en salle, repérez l'autocollant vert Draugiški Gyvūnams sur la porte, qui signale que l'établissement accueille formellement les chiens à l'intérieur."},
-        {"q": "Existe-t-il des restaurants gastronomiques dog-friendly à Kaunas ?", "a": "Oui, Monte Pacis au monastère de Pažaislis accepte les chiens en laisse sur sa terrasse extérieure et dans la cour, ce qui en fait l'adresse gastronomique dog-friendly la plus haut de gamme de la ville."},
-        {"q": "L'eau pour les chiens est-elle proposée automatiquement ?", "a": "La plupart des terrasses de la vieille ville et de Laisvės alėja apportent une gamelle sur demande ; un bol pliable est recommandé en juillet et août quand les températures atteignent 22 à 24 °C."}
+        {
+          "q": "Puis-je entrer dans les restaurants de Kaunas avec mon chien ?",
+          "a": "En terrasse presque toujours oui ; en salle, repérez l'autocollant vert Draugiški Gyvūnams sur la porte, qui signale que l'établissement accueille formellement les chiens à l'intérieur."
+        },
+        {
+          "q": "Existe-t-il des restaurants gastronomiques dog-friendly à Kaunas ?",
+          "a": "Oui, Monte Pacis au monastère de Pažaislis accepte les chiens en laisse sur sa terrasse extérieure et dans la cour, ce qui en fait l'adresse gastronomique dog-friendly la plus haut de gamme de la ville."
+        },
+        {
+          "q": "L'eau pour les chiens est-elle proposée automatiquement ?",
+          "a": "La plupart des terrasses de la vieille ville et de Laisvės alėja apportent une gamelle sur demande ; un bol pliable est recommandé en juillet et août quand les températures atteignent 22 à 24 °C."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo entrar con mi perro en los restaurantes de Kaunas?", "a": "En terraza casi siempre sí; dentro, busca la pegatina verde Draugiški Gyvūnams en la puerta, que indica que el local admite formalmente perros en el interior."},
-        {"q": "¿Hay restaurantes de alta cocina dog-friendly en Kaunas?", "a": "Sí, Monte Pacis en el monasterio de Pažaislis acepta perros con correa en su terraza exterior y en el patio, lo que lo convierte en el restaurante gastronómico dog-friendly más exclusivo de la ciudad."},
-        {"q": "¿Se ofrece agua para los perros automáticamente?", "a": "La mayoría de las terrazas del Casco Antiguo y de Laisvės alėja traen un cuenco bajo petición; se recomienda llevar un cuenco plegable en julio y agosto cuando las máximas alcanzan 22 a 24 °C."}
+        {
+          "q": "¿Puedo entrar con mi perro en los restaurantes de Kaunas?",
+          "a": "En terraza casi siempre sí; dentro, busca la pegatina verde Draugiški Gyvūnams en la puerta, que indica que el local admite formalmente perros en el interior."
+        },
+        {
+          "q": "¿Hay restaurantes de alta cocina dog-friendly en Kaunas?",
+          "a": "Sí, Monte Pacis en el monasterio de Pažaislis acepta perros con correa en su terraza exterior y en el patio, lo que lo convierte en el restaurante gastronómico dog-friendly más exclusivo de la ciudad."
+        },
+        {
+          "q": "¿Se ofrece agua para los perros automáticamente?",
+          "a": "La mayoría de las terrazas del Casco Antiguo y de Laisvės alėja traen un cuenco bajo petición; se recomienda llevar un cuenco plegable en julio y agosto cuando las máximas alcanzan 22 a 24 °C."
+        }
+      ],
+      "titlePt": "Restaurantes Pet-Friendly em Kaunas",
+      "introPt": "Kaunas, a capital do entreguerras e segunda cidade da Lituânia, é de forma fiável acolhedora para cães graças ao diretório nacional Draugiški Gyvūnams (Pet Friendly), lançado em 2017, que assinala atualmente mais de 1.000 estabelecimentos por todo o país com um autocolante de pata verde na porta. A Cidade Velha ao longo da Vilniaus gatvė e o bulevar pedonal Laisvės alėja, com 1,6 km, concentram a maioria das esplanadas que aceitam cães no verão, enquanto Pažaislis, junto à Lagoa de Kaunas, acrescenta um restaurante de destino dentro do complexo monástico barroco.",
+      "tipsPt": [
+        "Busca a pegatina verde Draugiški Gyvūnams com a pata de cão na puerta, a senhal nacional lituana pet-friendly lanzada en 2017 que cubre mais de 1.000 locales en todo o país.",
+        "A maioria dois locales do centro histórico de Kaunas e de Laisvės alėja aceitam cães na esplanada sem problema; para mesa interior en inverno, pregunta en inglês, ampliamente hablado no centro.",
+        "A propina en Lituania se aprecia mas no é obrigatória; redondea o anhade 5 a 10 % na tarjeta para o serviço en mesa."
+      ],
+      "faqsPt": [
+        {
+          "q": "Puedo entrar com mi cão nos restaurantes de Kaunas?",
+          "a": "En esplanada casi sempre sí; dentro, busca a pegatina verde Draugiški Gyvūnams na puerta, que indica que o local admite formalmente cães no interior."
+        },
+        {
+          "q": "Hay restaurantes de alta cocina pet-friendly en Kaunas?",
+          "a": "Sí, Monte Pacis no monasterio de Pažaislis aceita cães com trela en o seu esplanada exterior e no patio, lo que lo convierte no restaurante gastronómico pet-friendly mais exclusivo da cidade."
+        },
+        {
+          "q": "Se ofrece água para os cães automáticamente?",
+          "a": "A maioria das esplanadas do centro histórico e de Laisvės alėja traen um cuenco sob petición; se recomienda levar um cuenco plegable en julho e agosto quando as máximas alcanzan 22 a 24 °C."
+        }
       ]
     },
     "parks": {
@@ -123,7 +183,7 @@
           "name": "Ąžuolynas Park (Oak Grove)",
           "address": "Sporto g., 44221 Kaunas",
           "neighborhood": "Žaliakalnis",
-          "photo": "/images/city-places/kaunas-parks-azuolynas.jpg",
+          "photo": "/images/city-places/kaunas-parks-azuolynas-park-oak-grove.jpg",
           "website": "https://visit.kaunas.lt/en/see-and-do/sights/parks/azuolynas-park/",
           "description": "The largest mature oak grove inside a European city at 63 hectares, dating to a 19th-century royal preserve and dotted with century-old oaks. Wide gravel paths, sports trails and shaded benches run between Vytautas Magnus University and the Žalgiris Arena, with leashed dogs welcome throughout.",
           "descriptionFr": "La plus grande chênaie mature à l'intérieur d'une ville européenne avec 63 hectares, héritée d'une réserve royale du XIXᵉ siècle et parsemée de chênes centenaires. De larges allées de gravier, des sentiers sportifs et des bancs ombragés courent entre l'université Vytautas Magnus et l'arène Žalgiris, chiens en laisse bienvenus partout.",
@@ -139,13 +199,17 @@
           "tip": "Enter from Sporto gatvė for the best shaded jogging loop in summer; the oak canopy keeps the park 4 to 5 °C cooler than Laisvės alėja on hot July afternoons.",
           "tipFr": "Entrez par Sporto gatvė pour la meilleure boucle de jogging ombragée en été ; la canopée des chênes garde le parc 4 à 5 °C plus frais que Laisvės alėja les après-midi chauds de juillet.",
           "tipEs": "Entra por Sporto gatvė para el mejor circuito de jogging sombreado en verano; el dosel de robles mantiene el parque 4 a 5 °C más fresco que Laisvės alėja en las tardes calurosas de julio.",
-          "googleMapsUrl": "https://maps.google.com/?q=Azuolynas+Park+Kaunas"
+          "googleMapsUrl": "https://maps.google.com/?q=Azuolynas+Park+Kaunas",
+          "descriptionPt": "O maior bosque de carvalhos maduros dentro de uma cidade europeia, com 63 hectares, datado de uma reserva real do século XIX e pontilhado de carvalhos com mais de cem anos. Largos caminhos de gravilha, trilhos desportivos e bancos à sombra percorrem o espaço entre a Universidade Vytautas Magnus e a Žalgiris Arena, com cães com trela bem-vindos por toda a parte.",
+          "petPolicyPt": "Cães com trela bem-vindos em todos os caminhos e relvados; limpe os dejetos do seu cão; não há zona sem trela dentro do perímetro.",
+          "facilitiesPt": "Caminhos de gravilha, circuito de corrida, bancos, café de verão, bebedouro no verão.",
+          "tipPt": "Entre pela Sporto gatvė para o melhor circuito de corrida à sombra no verão; a copa dos carvalhos mantém o parque 4 a 5 °C mais fresco do que a Laisvės alėja nas tardes quentes de julho."
         },
         {
           "name": "Santakos Park",
           "address": "Papilio g. 9, 44280 Kaunas",
           "neighborhood": "Old Town",
-          "photo": "/images/city-places/kaunas-parks-santakos.jpg",
+          "photo": "/images/city-places/kaunas-parks-santakos-park.jpg",
           "website": "https://visit.kaunas.lt/en/see-and-do/sights/parks/santakos-park/",
           "description": "A 16-hectare open meadow park at the dramatic confluence of the Nemunas and Neris rivers right behind Kaunas Castle and the Old Town. Wide paved riverside paths, papal-visit monuments and unobstructed views of the two rivers make this the most photographed central walk for leashed dogs.",
           "descriptionFr": "Un parc-prairie ouvert de 16 hectares à la spectaculaire confluence du Nemunas et de la Neris, juste derrière le château et la vieille ville de Kaunas. De larges chemins pavés en bord de fleuve, des monuments de la visite papale et des vues dégagées sur les deux rivières en font la promenade centrale la plus photographiée pour chiens en laisse.",
@@ -161,13 +225,17 @@
           "tip": "Walk the riverside loop counter-clockwise from Kaunas Castle to catch sunset over the Nemunas; the meadow is a great post-Old-Town zoomies space.",
           "tipFr": "Faites la boucle riveraine en sens antihoraire depuis le château de Kaunas pour le coucher de soleil sur le Nemunas ; la prairie est parfaite pour défouler le chien après la vieille ville.",
           "tipEs": "Haz el circuito ribereño en sentido antihorario desde el castillo de Kaunas para coger el atardecer sobre el Nemunas; la pradera es ideal para que el perro corra tras el Casco Antiguo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Santakos+Park+Kaunas"
+          "googleMapsUrl": "https://maps.google.com/?q=Santakos+Park+Kaunas",
+          "descriptionPt": "Um parque de prado aberto com 16 hectares na espetacular confluência dos rios Nemunas e Neris, mesmo atrás do Castelo de Kaunas e da Cidade Velha. Largos caminhos pavimentados à beira-rio, monumentos da visita papal e vistas desimpedidas dos dois rios fazem deste o passeio central mais fotografado para cães com trela.",
+          "petPolicyPt": "Cães com trela bem-vindos em todos os caminhos e na relva; proibido nadar nos rios (correntes fortes na confluência).",
+          "facilitiesPt": "Caminhos pavimentados à beira-rio, relvados, monumento papal, bancos, quiosques de verão.",
+          "tipPt": "Percorra o circuito à beira-rio no sentido contrário ao dos ponteiros do relógio a partir do Castelo de Kaunas para apanhar o pôr do sol sobre o Nemunas; o prado é um ótimo espaço para correrias depois da Cidade Velha."
         },
         {
           "name": "Dainava Park dog enclosure",
           "address": "Partizanų g. (near Kovo 11-osios g.), Dainava, Kaunas",
           "neighborhood": "Dainava",
-          "photo": "/images/city-places/kaunas-parks-dainava.jpg",
+          "photo": "/images/city-places/kaunas-parks-dainava-park-dog-enclosure.jpg",
           "website": "https://www.kaunas.lt/aplinka/zelynai/",
           "description": "A fenced off-leash dog enclosure (šunų vedžiojimo aikštelė) in the Dainava district, one of several maintained by Kaunas municipality where dogs can legally run free under Lithuania's strict leash law. Simple agility equipment, benches and shaded perimeter, frequented by local owners early morning and after work.",
           "descriptionFr": "Un enclos canin clôturé sans laisse (šunų vedžiojimo aikštelė) dans le quartier Dainava, l'un des plusieurs gérés par la municipalité de Kaunas où les chiens peuvent courir librement et légalement sous la stricte loi lituanienne sur la laisse. Équipement d'agility simple, bancs et pourtour ombragé, fréquenté par les propriétaires locaux tôt le matin et après le travail.",
@@ -183,7 +251,11 @@
           "tip": "Check the city map of šunų vedžiojimo aikštelės on kaunas.lt before travelling; new enclosures open regularly in residential districts.",
           "tipFr": "Consultez la carte municipale des šunų vedžiojimo aikštelės sur kaunas.lt avant de vous déplacer ; de nouveaux enclos ouvrent régulièrement dans les quartiers résidentiels.",
           "tipEs": "Consulta el mapa municipal de šunų vedžiojimo aikštelės en kaunas.lt antes de desplazarte; nuevos recintos abren regularmente en barrios residenciales.",
-          "googleMapsUrl": "https://maps.google.com/?q=Dainava+park+dog+area+Kaunas"
+          "googleMapsUrl": "https://maps.google.com/?q=Dainava+park+dog+area+Kaunas",
+          "descriptionPt": "Um recinto canino vedado sem trela (šunų vedžiojimo aikštelė) no bairro de Dainava, um dos vários mantidos pelo município de Kaunas onde os cães podem correr livremente de forma legal ao abrigo da rigorosa lei lituana sobre trelas. Equipamento de agility simples, bancos e perímetro à sombra, frequentado por donos locais de manhã cedo e depois do trabalho.",
+          "petPolicyPt": "Sem trela apenas dentro do recinto vedado; trela colocada a todo o momento fora do perímetro.",
+          "facilitiesPt": "Vedação, rampas de agility, bancos, perímetro à sombra.",
+          "tipPt": "Consulte o mapa municipal das šunų vedžiojimo aikštelės em kaunas.lt antes de se deslocar; abrem novos recintos com regularidade nos bairros residenciais."
         }
       ],
       "tipsEn": [
@@ -202,19 +274,67 @@
         "Las tardes de julio y agosto pueden alcanzar 25 a 27 °C a pleno sol en el parque Santakos; aprovecha la sombra de los robles de Ąžuolynas o la ribera antes de las 11:00."
       ],
       "faqsEn": [
-        {"q": "Are off-leash dog areas marked in Kaunas?", "a": "Yes, the municipality runs more than ten fenced šunų vedžiojimo aikštelės across Dainava, Šilainiai, Eiguliai and Žaliakalnis; consult the official kaunas.lt map for current locations."},
-        {"q": "Can my dog swim in the Nemunas river inside Santakos Park?", "a": "No, swimming is not recommended at the confluence due to strong currents and barge traffic; head to Lampėdžiai Lake Beach instead, where dogs can swim outside the central guarded zone."},
-        {"q": "Is Ąžuolynas a safe walk after dark?", "a": "Yes, the main gravel loops are lit and well frequented by joggers until around 22:00; the inner forest paths are darker and best avoided after sunset in winter."}
+        {
+          "q": "Are off-leash dog areas marked in Kaunas?",
+          "a": "Yes, the municipality runs more than ten fenced šunų vedžiojimo aikštelės across Dainava, Šilainiai, Eiguliai and Žaliakalnis; consult the official kaunas.lt map for current locations."
+        },
+        {
+          "q": "Can my dog swim in the Nemunas river inside Santakos Park?",
+          "a": "No, swimming is not recommended at the confluence due to strong currents and barge traffic; head to Lampėdžiai Lake Beach instead, where dogs can swim outside the central guarded zone."
+        },
+        {
+          "q": "Is Ąžuolynas a safe walk after dark?",
+          "a": "Yes, the main gravel loops are lit and well frequented by joggers until around 22:00; the inner forest paths are darker and best avoided after sunset in winter."
+        }
       ],
       "faqsFr": [
-        {"q": "Les zones sans laisse sont-elles signalées à Kaunas ?", "a": "Oui, la municipalité gère plus de dix šunų vedžiojimo aikštelės clôturées à Dainava, Šilainiai, Eiguliai et Žaliakalnis ; consultez la carte officielle kaunas.lt pour les emplacements actuels."},
-        {"q": "Mon chien peut-il nager dans le Nemunas au parc Santakos ?", "a": "Non, la baignade n'est pas recommandée au confluent en raison des courants forts et du trafic de péniches ; rendez-vous plutôt à la plage du lac Lampėdžiai, où les chiens peuvent nager hors de la zone surveillée centrale."},
-        {"q": "Ąžuolynas est-il sûr la nuit ?", "a": "Oui, les boucles principales en gravier sont éclairées et bien fréquentées par les joggeurs jusque vers 22h00 ; les sentiers forestiers intérieurs sont plus sombres et à éviter après le coucher du soleil en hiver."}
+        {
+          "q": "Les zones sans laisse sont-elles signalées à Kaunas ?",
+          "a": "Oui, la municipalité gère plus de dix šunų vedžiojimo aikštelės clôturées à Dainava, Šilainiai, Eiguliai et Žaliakalnis ; consultez la carte officielle kaunas.lt pour les emplacements actuels."
+        },
+        {
+          "q": "Mon chien peut-il nager dans le Nemunas au parc Santakos ?",
+          "a": "Non, la baignade n'est pas recommandée au confluent en raison des courants forts et du trafic de péniches ; rendez-vous plutôt à la plage du lac Lampėdžiai, où les chiens peuvent nager hors de la zone surveillée centrale."
+        },
+        {
+          "q": "Ąžuolynas est-il sûr la nuit ?",
+          "a": "Oui, les boucles principales en gravier sont éclairées et bien fréquentées par les joggeurs jusque vers 22h00 ; les sentiers forestiers intérieurs sont plus sombres et à éviter après le coucher du soleil en hiver."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Están señalizadas las zonas sin correa en Kaunas?", "a": "Sí, el ayuntamiento gestiona más de diez šunų vedžiojimo aikštelės cercadas en Dainava, Šilainiai, Eiguliai y Žaliakalnis; consulta el mapa oficial kaunas.lt para las ubicaciones actuales."},
-        {"q": "¿Puede mi perro bañarse en el Nemunas en el parque Santakos?", "a": "No, no se recomienda el baño en la confluencia por las corrientes fuertes y el tráfico de barcazas; ve mejor a la playa del lago Lampėdžiai, donde los perros pueden nadar fuera de la zona vigilada central."},
-        {"q": "¿Es Ąžuolynas seguro de noche?", "a": "Sí, los circuitos principales de grava están iluminados y bien frecuentados por corredores hasta cerca de las 22:00; los senderos forestales interiores son más oscuros y conviene evitarlos tras el atardecer en invierno."}
+        {
+          "q": "¿Están señalizadas las zonas sin correa en Kaunas?",
+          "a": "Sí, el ayuntamiento gestiona más de diez šunų vedžiojimo aikštelės cercadas en Dainava, Šilainiai, Eiguliai y Žaliakalnis; consulta el mapa oficial kaunas.lt para las ubicaciones actuales."
+        },
+        {
+          "q": "¿Puede mi perro bañarse en el Nemunas en el parque Santakos?",
+          "a": "No, no se recomienda el baño en la confluencia por las corrientes fuertes y el tráfico de barcazas; ve mejor a la playa del lago Lampėdžiai, donde los perros pueden nadar fuera de la zona vigilada central."
+        },
+        {
+          "q": "¿Es Ąžuolynas seguro de noche?",
+          "a": "Sí, los circuitos principales de grava están iluminados y bien frecuentados por corredores hasta cerca de las 22:00; los senderos forestales interiores son más oscuros y conviene evitarlos tras el atardecer en invierno."
+        }
+      ],
+      "titlePt": "Melhores Parques Caninos e Espaços Verdes em Kaunas",
+      "introPt": "Kaunas gira em torno de Ąžuolynas, o maior bosque de carvalhos maduros dentro de qualquer cidade europeia, com 63 hectares e largos caminhos de gravilha por entre carvalhos antigos, mesmo a leste da Laisvės alėja. A confluência dos rios Nemunas e Neris no Parque Santakos oferece uma segunda espinha verde para passear logo atrás da Cidade Velha, enquanto recintos de bairro mais pequenos em Dainava e Šilainiai dão lugar a exercício legal sem trela ao abrigo da rigorosa lei lituana sobre trelas.",
+      "tipsPt": [
+        "A lei lituana exige trela en todos os espacios públicos, incluidos todos os parques urbanos; o ejercicio sem trela só é legal dentro dois recintos municipales cerrados (šunų vedžiojimo aikštelės).",
+        "Os duenhos deben recoger os excrementos nos parques municipales de Kaunas; as papeleras estão dispuestas cada 100 a 200 m nos caminos principales de Ąžuolynas.",
+        "As tardes de julho e agosto podem alcanzar 25 a 27 °C a pleno sol no parque Santakos; aprovecha a sombra dois robles de Ąžuolynas o a ribera antes das 11:00."
+      ],
+      "faqsPt": [
+        {
+          "q": "Estão senhalizadas as zonas sem trela en Kaunas?",
+          "a": "Sí, o ayuntamiento gestiona mais de dez šunų vedžiojimo aikštelės cercadas en Dainava, Šilainiai, Eiguliai e Žaliakalnis; consulta o mapa oficial kaunas.lt para as ubicaciones actuales."
+        },
+        {
+          "q": "Pode mi cão banhar-se no Nemunas no parque Santakos?",
+          "a": "No, no se recomienda o banho na confluencia pelas corrientes fuertes e o tráfico de barcazas; ve melhor a a praia do lago Lampėdžiai, onde os cães podem nadar fora da zona vigilada central."
+        },
+        {
+          "q": "É Ąžuolynas seguro de noite?",
+          "a": "Sí, os circuitos principales de grava estão iluminados e bien frecuentados por corredores até perto das 22:00; os trilhos forestales interiores são mais oscuros e conviene evitarlos tras o atardecer en inverno."
+        }
       ]
     },
     "transport": {
@@ -229,7 +349,7 @@
           "name": "Kauno autobusai (city buses & trolleybuses)",
           "address": "Raudondvario pl. 105, 47174 Kaunas",
           "neighborhood": "Šančiai (depot) / citywide network",
-          "photo": "/images/city-places/kaunas-transport-autobusai.jpg",
+          "photo": "/images/city-places/kaunas-transport-kauno-autobusai-city-buses-trolleybuses.jpg",
           "website": "https://kaunoautobusai.lt/",
           "description": "The municipal operator running approximately 50 bus and 16 trolleybus routes across Kaunas, with 418 stops and ~160,000 daily passengers. Vehicles accept leashed dogs free of charge outside peak hours under the city's published pet-on-transport rule.",
           "descriptionFr": "L'opérateur municipal exploite environ 50 lignes de bus et 16 lignes de trolleybus à travers Kaunas, avec 418 arrêts et ~160 000 voyageurs quotidiens. Les véhicules acceptent les chiens en laisse gratuitement hors heures de pointe selon la règle de transport animal publiée par la ville.",
@@ -237,13 +357,15 @@
           "petPolicy": "Free outside peak hours; leash 0.5 m or less; muzzle required unless the breed cannot wear one; vaccination passport must be carried. Driver has discretion to refuse if the vehicle is overcrowded.",
           "petPolicyFr": "Gratuit hors heures de pointe ; laisse de 0,5 m maximum ; muselière obligatoire sauf races incapables d'en porter ; passeport vaccinal à présenter. Le chauffeur peut refuser si le véhicule est bondé.",
           "petPolicyEs": "Gratis fuera de horas punta; correa de 0,5 m máximo; bozal obligatorio salvo razas incapaces de llevarlo; pasaporte vacunal a presentar. El conductor puede negarse si el vehículo está abarrotado.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kauno+autobusai+Raudondvario+105"
+          "googleMapsUrl": "https://maps.google.com/?q=Kauno+autobusai+Raudondvario+105",
+          "descriptionPt": "O operador municipal que gere cerca de 50 carreiras de autocarro e 16 de tróleis em Kaunas, com 418 paragens e cerca de 160.000 passageiros por dia. Os veículos aceitam cães com trela gratuitamente fora das horas de ponta ao abrigo da regra publicada da cidade sobre animais nos transportes.",
+          "petPolicyPt": "Gratuito fora das horas de ponta; trela de 0,5 m ou menos; açaime obrigatório a não ser que a raça não o possa usar; o passaporte de vacinação deve ser levado. O motorista tem o critério de recusar se o veículo estiver demasiado cheio."
         },
         {
           "name": "Kaunas Bus Station (Kautra)",
           "address": "Vytauto pr. 24, 44352 Kaunas",
           "neighborhood": "Naujamiestis",
-          "photo": "/images/city-places/kaunas-transport-bus-station.jpg",
+          "photo": "/images/city-places/kaunas-transport-kaunas-bus-station-kautra.jpg",
           "website": "https://www.kautra.lt/lt/stotys/kauno-autobusu-stotis/",
           "description": "The second-busiest long-distance coach terminal in Lithuania, operated by Kautra, with direct services to Vilnius, Klaipėda, Palanga, Šiauliai, Warsaw, Riga and Tallinn. Pet-friendly coaches require a paid second seat or a soft carrier for small dogs.",
           "descriptionFr": "Le deuxième terminal de cars longue distance de Lituanie, exploité par Kautra, avec des liaisons directes vers Vilnius, Klaipėda, Palanga, Šiauliai, Varsovie, Riga et Tallinn. Les cars acceptant les animaux exigent un second siège payant ou un sac de transport souple pour les petits chiens.",
@@ -251,13 +373,15 @@
           "petPolicy": "Reserve the pet on the ticket; large dogs require a paid second seat plus muzzle and leash; small dogs in approved carriers usually travel free.",
           "petPolicyFr": "Déclarez l'animal lors de la réservation ; les grands chiens exigent un second siège payant avec muselière et laisse ; les petits chiens en sac homologué voyagent généralement gratuitement.",
           "petPolicyEs": "Declara la mascota al reservar; los perros grandes exigen segundo asiento de pago con bozal y correa; los perros pequeños en transportín homologado suelen viajar gratis.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kaunas+bus+station+Vytauto+24"
+          "googleMapsUrl": "https://maps.google.com/?q=Kaunas+bus+station+Vytauto+24",
+          "descriptionPt": "O segundo terminal de camionetas de longo curso mais movimentado da Lituânia, operado pela Kautra, com ligações diretas a Vilnius, Klaipėda, Palanga, Šiauliai, Varsóvia, Riga e Talim. As camionetas que aceitam animais exigem um segundo lugar pago ou uma caixa de transporte mole para cães pequenos.",
+          "petPolicyPt": "Reserve o animal no bilhete; cães grandes exigem um segundo lugar pago, mais açaime e trela; cães pequenos em caixas de transporte aprovadas viajam normalmente gratuitamente."
         },
         {
           "name": "Kaunas Railway Station (LTG Link)",
           "address": "M. K. Čiurlionio g. 16, 03106 Kaunas",
           "neighborhood": "Naujamiestis",
-          "photo": "/images/city-places/kaunas-transport-train-station.jpg",
+          "photo": "/images/city-places/kaunas-transport-kaunas-railway-station-ltg-link.jpg",
           "website": "https://ltglink.lt/en",
           "description": "The Kaunas terminus of Lithuanian Railways LTG Link, offering regional services to Vilnius (90 min) and Klaipėda (4 h) and the international Rail Baltica service to Białystok (Poland). Dogs travel for a low surcharge muzzled and leashed; small dogs in carriers ride free.",
           "descriptionFr": "Le terminus de Kaunas des chemins de fer lituaniens LTG Link, qui assure les liaisons régionales vers Vilnius (90 min) et Klaipėda (4 h) et le service international Rail Baltica vers Białystok (Pologne). Les chiens voyagent moyennant un faible supplément, muselés et tenus en laisse ; les petits chiens en sac sont gratuits.",
@@ -265,7 +389,9 @@
           "petPolicy": "Large dogs: muzzle, leash and ticket surcharge. Small dogs in carriers: free of charge. Always carry the vaccination passport.",
           "petPolicyFr": "Grands chiens : muselière, laisse et supplément. Petits chiens en sac : gratuits. Conservez toujours le passeport vaccinal.",
           "petPolicyEs": "Perros grandes: bozal, correa y suplemento. Perros pequeños en transportín: gratis. Lleva siempre el pasaporte vacunal.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kaunas+railway+station"
+          "googleMapsUrl": "https://maps.google.com/?q=Kaunas+railway+station",
+          "descriptionPt": "O terminal de Kaunas dos Caminhos de Ferro Lituanos LTG Link, com ligações regionais a Vilnius (90 min) e Klaipėda (4 h) e o serviço internacional Rail Baltica até Białystok (Polónia). Os cães viajam mediante uma pequena sobretaxa, com açaime e trela; cães pequenos em caixas de transporte viajam gratuitamente.",
+          "petPolicyPt": "Cães grandes: açaime, trela e sobretaxa no bilhete. Cães pequenos em caixas de transporte: gratuito. Leve sempre o passaporte de vacinação."
         }
       ],
       "tipsEn": [
@@ -284,19 +410,67 @@
         "El aeropuerto de Kaunas (KUN) está a 14 km al noreste, en Karmėlava; la línea 29G conecta el centro con la terminal (~40 min) y acepta perros con correa bajo la misma norma de Kauno autobusai."
       ],
       "faqsEn": [
-        {"q": "Do I have to pay for my dog on Kaunas buses?", "a": "No, leashed dogs travel free of charge outside peak hours under the city's published rule; carry the vaccination passport and a 0.5 m leash."},
-        {"q": "Is a muzzle mandatory on Kaunas trolleybuses?", "a": "Yes for breeds capable of wearing one; smaller breeds or breeds physically unsuited to a muzzle are exempt, but the driver retains discretion."},
-        {"q": "Can I take my dog from Kaunas to Vilnius by train?", "a": "Yes, LTG Link accepts dogs on every regional service with a small surcharge for large dogs and free travel for small dogs in carriers; the journey takes 90 minutes."}
+        {
+          "q": "Do I have to pay for my dog on Kaunas buses?",
+          "a": "No, leashed dogs travel free of charge outside peak hours under the city's published rule; carry the vaccination passport and a 0.5 m leash."
+        },
+        {
+          "q": "Is a muzzle mandatory on Kaunas trolleybuses?",
+          "a": "Yes for breeds capable of wearing one; smaller breeds or breeds physically unsuited to a muzzle are exempt, but the driver retains discretion."
+        },
+        {
+          "q": "Can I take my dog from Kaunas to Vilnius by train?",
+          "a": "Yes, LTG Link accepts dogs on every regional service with a small surcharge for large dogs and free travel for small dogs in carriers; the journey takes 90 minutes."
+        }
       ],
       "faqsFr": [
-        {"q": "Dois-je payer pour mon chien dans les bus de Kaunas ?", "a": "Non, les chiens en laisse voyagent gratuitement hors heures de pointe selon la règle publiée par la ville ; gardez le passeport vaccinal et une laisse de 0,5 m."},
-        {"q": "La muselière est-elle obligatoire dans les trolleybus de Kaunas ?", "a": "Oui pour les races qui peuvent en porter une ; les races petites ou physiquement inadaptées en sont exemptées, mais le chauffeur reste libre d'apprécier."},
-        {"q": "Puis-je aller de Kaunas à Vilnius en train avec mon chien ?", "a": "Oui, LTG Link accepte les chiens sur chaque service régional avec un faible supplément pour les grands chiens et la gratuité pour les petits chiens en sac ; le trajet dure 90 minutes."}
+        {
+          "q": "Dois-je payer pour mon chien dans les bus de Kaunas ?",
+          "a": "Non, les chiens en laisse voyagent gratuitement hors heures de pointe selon la règle publiée par la ville ; gardez le passeport vaccinal et une laisse de 0,5 m."
+        },
+        {
+          "q": "La muselière est-elle obligatoire dans les trolleybus de Kaunas ?",
+          "a": "Oui pour les races qui peuvent en porter une ; les races petites ou physiquement inadaptées en sont exemptées, mais le chauffeur reste libre d'apprécier."
+        },
+        {
+          "q": "Puis-je aller de Kaunas à Vilnius en train avec mon chien ?",
+          "a": "Oui, LTG Link accepte les chiens sur chaque service régional avec un faible supplément pour les grands chiens et la gratuité pour les petits chiens en sac ; le trajet dure 90 minutes."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Tengo que pagar por mi perro en los autobuses de Kaunas?", "a": "No, los perros con correa viajan gratis fuera de horas punta según la norma publicada por la ciudad; lleva el pasaporte vacunal y una correa de 0,5 m."},
-        {"q": "¿Es obligatorio el bozal en los trolebuses de Kaunas?", "a": "Sí para las razas que pueden llevarlo; las razas pequeñas o físicamente no aptas para el bozal están exentas, pero el conductor mantiene cierta discrecionalidad."},
-        {"q": "¿Puedo ir de Kaunas a Vilna en tren con mi perro?", "a": "Sí, LTG Link admite perros en cada servicio regional con un pequeño suplemento para perros grandes y gratis para perros pequeños en transportín; el trayecto dura 90 minutos."}
+        {
+          "q": "¿Tengo que pagar por mi perro en los autobuses de Kaunas?",
+          "a": "No, los perros con correa viajan gratis fuera de horas punta según la norma publicada por la ciudad; lleva el pasaporte vacunal y una correa de 0,5 m."
+        },
+        {
+          "q": "¿Es obligatorio el bozal en los trolebuses de Kaunas?",
+          "a": "Sí para las razas que pueden llevarlo; las razas pequeñas o físicamente no aptas para el bozal están exentas, pero el conductor mantiene cierta discrecionalidad."
+        },
+        {
+          "q": "¿Puedo ir de Kaunas a Vilna en tren con mi perro?",
+          "a": "Sí, LTG Link admite perros en cada servicio regional con un pequeño suplemento para perros grandes y gratis para perros pequeños en transportín; el trayecto dura 90 minutos."
+        }
+      ],
+      "titlePt": "Transportes Públicos com Animais em Kaunas",
+      "introPt": "Kaunas é servida pela Kauno autobusai, o operador municipal que gere a rede de autocarros e tróleis da cidade (a única cidade lituana, a par de Vilnius, com um sistema de tróleis em funcionamento). O município aplica uma regra uniforme: os cães com trela viajam gratuitamente fora das horas de ponta desde que usem uma trela de 0,5 m ou menos, açaime se a raça o permitir, e levem um passaporte de vacinação. As camionetas de longo curso são tratadas na Estação Rodoviária de Kaunas (Vytauto pr. 24), o segundo polo mais movimentado da Lituânia.",
+      "tipsPt": [
+        "As horas punta nos buses e trolebuses de Kaunas são entre semana de 07:00 a 09:00 e de 16:00 a 18:00; a gratuidad para cães no se aplica en estes tramos.",
+        "Lituania no exige certificado sanitario aos titulares de passaporte europeu para animais; basta um microchip ISO 11784/11785 e vacuna antirrábica vigente en todos os puntos de entrada.",
+        "O aeroporto de Kaunas (KUN) está a 14 km al noreste, en Karmėlava; a línea 29G conecta o centro com a terminal (~40 min) e aceita cães com trela sob a misma norma de Kauno autobusai."
+      ],
+      "faqsPt": [
+        {
+          "q": "Tengo que pagar por mi cão nos autocarros de Kaunas?",
+          "a": "No, os cães com trela viajan grátis fora de horas punta segundo a norma publicada pela cidade; leva o passaporte vacunal e uma trela de 0,5 m."
+        },
+        {
+          "q": "É obrigatório o bozal nos trolebuses de Kaunas?",
+          "a": "Sí para as razas que podem llevarlo; as razas pequenhas o físicamente no aptas para o bozal estão exentas, mas o conductor mantiene cierta discrecionalidad."
+        },
+        {
+          "q": "Puedo ir de Kaunas a Vilna de comboio com mi cão?",
+          "a": "Sí, LTG Link admite cães en cada serviço regional com um pequenho suplemento para cães grandes e grátis para cães pequenhos en transportadora; o trayecto dura 90 minutos."
+        }
       ]
     },
     "beaches": {
@@ -311,7 +485,7 @@
           "name": "Lampėdžiai Lake Beach",
           "address": "Raudondvario pl. 161A, 47132 Kaunas",
           "neighborhood": "Lampėdžiai (north-west Kaunas)",
-          "photo": "/images/city-places/kaunas-beaches-lampedziai.jpg",
+          "photo": "/images/city-places/kaunas-beaches-lampedziai-lake-beach.jpg",
           "website": "https://visit.kaunas.lt/en/see-and-do/sights/beaches/lampedziai-lake-beach/",
           "description": "The closest official bathing lake to central Kaunas, set in a former gravel quarry now ringed with pine forest, kayak and SUP rentals and a beach volleyball area. Leashed dogs are welcome on the surrounding grass and forest paths and on the lake shore outside the central guarded zone in summer.",
           "descriptionFr": "Le lac de baignade officiel le plus proche du centre de Kaunas, aménagé dans une ancienne gravière entourée de pins, avec location de kayaks et SUP et un terrain de beach-volley. Les chiens en laisse sont les bienvenus sur l'herbe et les chemins forestiers alentour et sur la rive du lac hors de la zone surveillée centrale en été.",
@@ -323,13 +497,16 @@
           "tip": "Park at the Raudondvario pl. lot and walk the forest loop clockwise to find the quieter south-west shore, where dogs typically swim undisturbed.",
           "tipFr": "Garez-vous au parking de Raudondvario pl. et faites la boucle forestière dans le sens horaire pour trouver la rive sud-ouest plus calme, où les chiens nagent généralement sans être dérangés.",
           "tipEs": "Aparca en el parking de Raudondvario pl. y haz el circuito forestal en sentido horario para encontrar la orilla suroeste más tranquila, donde los perros suelen bañarse sin molestias.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lampedziai+Lake+Beach+Kaunas"
+          "googleMapsUrl": "https://maps.google.com/?q=Lampedziai+Lake+Beach+Kaunas",
+          "descriptionPt": "O lago oficial de banhos mais próximo do centro de Kaunas, instalado numa antiga pedreira de gravilha agora rodeada de pinhal, com aluguer de caiaques e SUP e uma zona de voleibol de praia. Os cães com trela são bem-vindos na relva e nos caminhos florestais circundantes e na margem do lago fora da zona central vigiada no verão.",
+          "petPolicyPt": "Cães com trela bem-vindos na relva e nos caminhos florestais durante todo o ano; permitidos na margem do lago fora da zona central de banhos vigiada de junho a agosto; acesso a toda a margem fora de época.",
+          "tipPt": "Estacione no parque da Raudondvario pl. e percorra o circuito florestal no sentido dos ponteiros do relógio para encontrar a margem sudoeste mais tranquila, onde os cães costumam nadar sem perturbações."
         },
         {
           "name": "Kaunas Lagoon Regional Park shoreline (Lakštas)",
           "address": "Lakštas, Kaunas District",
           "neighborhood": "Kaunas Lagoon north shore",
-          "photo": "/images/city-places/kaunas-beaches-lakstas.jpg",
+          "photo": "/images/city-places/kaunas-beaches-kaunas-lagoon-regional-park-shoreline-lakstas.jpg",
           "website": "https://www.kaunorajonas.lt/en/sightseeing-places/kaunas-lagoon-regional-park/",
           "description": "A sandy bay on the north shore of the 63 km² Kaunas Lagoon inside the Kaunas Lagoon Regional Park, ringed by pine forest with marked eco-trails and picnic tables. Quieter than Lampėdžiai, with shallow water and a long sandy spit where leashed dogs can comfortably wade.",
           "descriptionFr": "Une baie sablonneuse sur la rive nord de la lagune de Kaunas de 63 km² à l'intérieur du parc régional de la lagune de Kaunas, ceinturée de pinède avec des sentiers écologiques balisés et des tables de pique-nique. Plus calme que Lampėdžiai, eau peu profonde et longue langue de sable où les chiens en laisse peuvent patauger confortablement.",
@@ -341,7 +518,10 @@
           "tip": "Combine with a visit to Pažaislis Monastery on the southern shore; the lagoon perimeter ferry no longer runs but the 10-km drive is easy.",
           "tipFr": "Combinez avec une visite du monastère de Pažaislis sur la rive sud ; le ferry périmétrique de la lagune ne circule plus mais le trajet de 10 km en voiture est facile.",
           "tipEs": "Combínalo con una visita al monasterio de Pažaislis en la orilla sur; el ferry perimetral de la laguna ya no opera pero el trayecto de 10 km en coche es fácil.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kaunas+Lagoon+Regional+Park"
+          "googleMapsUrl": "https://maps.google.com/?q=Kaunas+Lagoon+Regional+Park",
+          "descriptionPt": "Uma baía de areia na margem norte da Lagoa de Kaunas, com 63 km², dentro do Parque Regional da Lagoa de Kaunas, rodeada de pinhal com ecotrilhos marcados e mesas de piquenique. Mais tranquila do que Lampėdžiai, com água pouco profunda e uma longa língua de areia onde os cães com trela podem chapinhar à vontade.",
+          "petPolicyPt": "Cães com trela bem-vindos por todo o parque regional; respeite as zonas protegidas de caniços e as áreas de nidificação de aves sinalizadas a vermelho.",
+          "tipPt": "Combine com uma visita ao Mosteiro de Pažaislis, na margem sul; o ferry de perímetro da lagoa já não funciona, mas os 10 km de carro fazem-se com facilidade."
         }
       ],
       "tipsEn": [
@@ -360,19 +540,67 @@
         "Enjuaga siempre las patas tras los baños a final de verano para evitar el contacto con los raros blooms de algas cianobacterianas señalados en semanas cálidas y calmas."
       ],
       "faqsEn": [
-        {"q": "Can dogs swim in Lampėdžiai Lake?", "a": "Yes, outside the central guarded swimming zone in summer and across the full shoreline in the shoulder season and winter; leash on at all times under city rules."},
-        {"q": "Is the Kaunas Lagoon safe for swimming dogs?", "a": "The lagoon is generally clean, but check the latest summer water-quality bulletins on visit.kaunas.lt for occasional algae warnings in late July and August."},
-        {"q": "How far is the Baltic Sea from Kaunas?", "a": "About 210 km west via the A1; Smiltynė Beach near Klaipėda and the UNESCO Curonian Spit are the closest dog-friendly Baltic beaches, reachable in ~2 h 30 min by car."}
+        {
+          "q": "Can dogs swim in Lampėdžiai Lake?",
+          "a": "Yes, outside the central guarded swimming zone in summer and across the full shoreline in the shoulder season and winter; leash on at all times under city rules."
+        },
+        {
+          "q": "Is the Kaunas Lagoon safe for swimming dogs?",
+          "a": "The lagoon is generally clean, but check the latest summer water-quality bulletins on visit.kaunas.lt for occasional algae warnings in late July and August."
+        },
+        {
+          "q": "How far is the Baltic Sea from Kaunas?",
+          "a": "About 210 km west via the A1; Smiltynė Beach near Klaipėda and the UNESCO Curonian Spit are the closest dog-friendly Baltic beaches, reachable in ~2 h 30 min by car."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens peuvent-ils se baigner dans le lac Lampėdžiai ?", "a": "Oui, hors de la zone surveillée centrale en été et sur l'intégralité de la rive en intersaison et en hiver ; laisse obligatoire en permanence selon les règles municipales."},
-        {"q": "La lagune de Kaunas est-elle sûre pour la baignade des chiens ?", "a": "La lagune est généralement propre, mais consultez les derniers bulletins qualité d'eau d'été sur visit.kaunas.lt pour les alertes algues occasionnelles fin juillet-août."},
-        {"q": "À quelle distance la mer Baltique se trouve-t-elle de Kaunas ?", "a": "Environ 210 km à l'ouest par l'A1 ; la plage de Smiltynė près de Klaipėda et le Cordon de Courlande UNESCO sont les plages baltes dog-friendly les plus proches, accessibles en ~2h30 en voiture."}
+        {
+          "q": "Les chiens peuvent-ils se baigner dans le lac Lampėdžiai ?",
+          "a": "Oui, hors de la zone surveillée centrale en été et sur l'intégralité de la rive en intersaison et en hiver ; laisse obligatoire en permanence selon les règles municipales."
+        },
+        {
+          "q": "La lagune de Kaunas est-elle sûre pour la baignade des chiens ?",
+          "a": "La lagune est généralement propre, mais consultez les derniers bulletins qualité d'eau d'été sur visit.kaunas.lt pour les alertes algues occasionnelles fin juillet-août."
+        },
+        {
+          "q": "À quelle distance la mer Baltique se trouve-t-elle de Kaunas ?",
+          "a": "Environ 210 km à l'ouest par l'A1 ; la plage de Smiltynė près de Klaipėda et le Cordon de Courlande UNESCO sont les plages baltes dog-friendly les plus proches, accessibles en ~2h30 en voiture."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Pueden bañarse los perros en el lago Lampėdžiai?", "a": "Sí, fuera de la zona vigilada central en verano y en toda la orilla en temporada baja e invierno; correa obligatoria en todo momento según las normas municipales."},
-        {"q": "¿Es segura la laguna de Kaunas para que se bañen los perros?", "a": "La laguna está generalmente limpia, pero consulta los boletines de calidad del agua en visit.kaunas.lt para alertas ocasionales de algas a finales de julio y agosto."},
-        {"q": "¿A qué distancia está el mar Báltico de Kaunas?", "a": "Unos 210 km al oeste por la A1; la playa de Smiltynė cerca de Klaipėda y el Istmo de Curlandia UNESCO son las playas bálticas dog-friendly más cercanas, accesibles en ~2 h 30 min en coche."}
+        {
+          "q": "¿Pueden bañarse los perros en el lago Lampėdžiai?",
+          "a": "Sí, fuera de la zona vigilada central en verano y en toda la orilla en temporada baja e invierno; correa obligatoria en todo momento según las normas municipales."
+        },
+        {
+          "q": "¿Es segura la laguna de Kaunas para que se bañen los perros?",
+          "a": "La laguna está generalmente limpia, pero consulta los boletines de calidad del agua en visit.kaunas.lt para alertas ocasionales de algas a finales de julio y agosto."
+        },
+        {
+          "q": "¿A qué distancia está el mar Báltico de Kaunas?",
+          "a": "Unos 210 km al oeste por la A1; la playa de Smiltynė cerca de Klaipėda y el Istmo de Curlandia UNESCO son las playas bálticas dog-friendly más cercanas, accesibles en ~2 h 30 min en coche."
+        }
+      ],
+      "titlePt": "Praias e Lagos Pet-Friendly perto de Kaunas",
+      "introPt": "Kaunas fica no interior, mas foi construída em torno dos rios Nemunas e Neris e da Lagoa de Kaunas (Kauno marios), com 63 km², uma albufeira de 1959 rodeada por um Parque Regional com pinhais, enseadas de areia e ecotrilhos sinalizados. A Praia do Lago Lampėdžiai, municipal, é o local de banhos mais próximo da cidade, e a margem da lagoa oferece longos passeios na floresta com zonas de banho calmas onde os cães com trela são bem-vindos fora das zonas centrais vigiadas no verão.",
+      "tipsPt": [
+        "Kaunas é interior: a praia canina báltica mais cercana está en Smiltynė (Klaipėda), ~210 km al oeste pela autopista A1, onde os cães com trela recorren pinar e dunas blancas o ano inteiro.",
+        "A temperatura do água na laguna de Kaunas culmina en 21-23 °C en julho e agosto; as bahías pouco profundas do norte se calientan dois grados mais rápido que a laguna abierta.",
+        "Enjuaga sempre as patas tras os banhos a final de verão para evitar o contacto com os raros blooms de algas cianobacterianas senhalados en semanas cálidas e calmas."
+      ],
+      "faqsPt": [
+        {
+          "q": "Podem banhar-se os cães no lago Lampėdžiai?",
+          "a": "Sí, fora da zona vigilada central en verão e en toda a margem en temporada baja e inverno; trela obrigatória en todo momento segundo as normas municipales."
+        },
+        {
+          "q": "É segura a laguna de Kaunas para que se banhen os cães?",
+          "a": "A laguna está generalmente limpia, mas consulta os boletines de calidad do água en visit.kaunas.lt para alertas ocasionales de algas a finales de julho e agosto."
+        },
+        {
+          "q": "A qué distancia está o mar Báltico de Kaunas?",
+          "a": "Uns 210 km al oeste pela A1; a praia de Smiltynė perto de Klaipėda e o Istmo de Curlandia UNESCO são as praias bálticas pet-friendly mais cercanas, acessíveis en ~2 h 30 min de carro."
+        }
       ]
     },
     "vets": {
@@ -387,7 +615,7 @@
           "name": "LSMU Dr. L. Kraučeliūnas Small Animal Clinic",
           "address": "Tilžės g. 18, LT-47181 Kaunas",
           "neighborhood": "Eiguliai (LSMU veterinary campus)",
-          "photo": "/images/city-places/kaunas-vets-lsmu.jpg",
+          "photo": "/images/city-places/kaunas-vets-lsmu-dr-l-krauceliunas-small-animal-clinic.jpg",
           "website": "https://sgk.lsmuni.lt/en",
           "description": "Lithuania's most advanced veterinary teaching hospital, attached to the LSMU Veterinary Faculty and staffed by 28 senior specialists, 11 residents and 17 veterinary assistants. Provides 24/7 emergency cover, advanced diagnostics, surgery, internal medicine, and a modern veterinary laboratory and pharmacy on site.",
           "descriptionFr": "L'hôpital universitaire vétérinaire le plus avancé de Lituanie, rattaché à la Faculté de médecine vétérinaire de la LSMU et doté de 28 spécialistes seniors, 11 résidents et 17 assistants vétérinaires. Assure une couverture d'urgence 24h/24, des diagnostics avancés, chirurgie, médecine interne, ainsi qu'un laboratoire et une pharmacie vétérinaires modernes sur place.",
@@ -402,13 +630,17 @@
           "tip": "Call +370 620 78353 before driving over so the on-call team can prepare; the clinic is on the LSMU vet campus 4 km north of the centre.",
           "tipFr": "Appelez le +370 620 78353 avant de vous déplacer pour que l'équipe d'astreinte se prépare ; la clinique est sur le campus vétérinaire LSMU à 4 km au nord du centre.",
           "tipEs": "Llama al +370 620 78353 antes de desplazarte para que el equipo de guardia prepare tu caso; la clínica está en el campus veterinario LSMU a 4 km al norte del centro.",
-          "googleMapsUrl": "https://maps.google.com/?q=LSMU+Small+Animal+Clinic+Tilzes+18+Kaunas"
+          "googleMapsUrl": "https://maps.google.com/?q=LSMU+Small+Animal+Clinic+Tilzes+18+Kaunas",
+          "descriptionPt": "O hospital veterinário de ensino mais avançado da Lituânia, ligado à Faculdade de Veterinária da LSMU e com uma equipa de 28 especialistas seniores, 11 residentes e 17 auxiliares de veterinária. Oferece cobertura de urgência 24 horas por dia, diagnóstico avançado, cirurgia, medicina interna e um laboratório veterinário e farmácia modernos no local.",
+          "petPolicyPt": "Receção de urgências 24 horas por dia; consultas de especialidade por marcação ou encaminhamento.",
+          "servicesPt": "Urgência 24 horas por dia, cirurgia, medicina interna, imagiologia avançada (TC, ecografia), laboratório, farmácia, colocação de microchip.",
+          "tipPt": "Telefone para o +370 620 78353 antes de se deslocar, para que a equipa de prevenção se possa preparar; a clínica fica no campus veterinário da LSMU, 4 km a norte do centro."
         },
         {
           "name": "RuminaVet Baltijos",
           "address": "Baltijos g. 26A, 48191 Kaunas",
           "neighborhood": "Eiguliai",
-          "photo": "/images/city-places/kaunas-vets-ruminavet.jpg",
+          "photo": "/images/city-places/kaunas-vets-ruminavet-baltijos.jpg",
           "website": "https://www.ruminavet.lt/",
           "description": "A private 24/7 veterinary clinic on Baltijos street north of the centre, part of the Kaunas RuminaVet group founded by Dr. Paulius Morkūnas. Handles emergencies, surgery, dental, vaccinations and routine consultations, with English-speaking staff for travellers.",
           "descriptionFr": "Une clinique vétérinaire privée 24h/24 sur Baltijos au nord du centre, membre du groupe Kaunas RuminaVet fondé par le Dr Paulius Morkūnas. Prend en charge urgences, chirurgie, dentaire, vaccinations et consultations de routine, avec personnel anglophone pour les voyageurs.",
@@ -424,13 +656,21 @@
           "tipFr": "Appelez le +370 619 46265 avant une arrivée d'urgence pour confirmer le vétérinaire d'astreinte et éviter d'attendre dehors la nuit.",
           "tipEs": "Llama al +370 619 46265 antes de una llegada de urgencia para confirmar al veterinario de guardia y evitar esperar en la calle de noche.",
           "googleMapsUrl": "https://maps.google.com/?q=RuminaVet+Baltijos+26A+Kaunas",
-          "languages": ["Lithuanian", "English", "Russian"]
+          "languages": [
+            "Lithuanian",
+            "English",
+            "Russian"
+          ],
+          "descriptionPt": "Uma clínica veterinária privada aberta 24 horas por dia na rua Baltijos, a norte do centro, parte do grupo RuminaVet de Kaunas fundado pelo Dr. Paulius Morkūnas. Trata urgências, cirurgia, dentária, vacinações e consultas de rotina, com pessoal que fala inglês para quem viaja.",
+          "petPolicyPt": "Urgências sem marcação 24 horas por dia; consultas de rotina por marcação.",
+          "servicesPt": "Urgência 24 horas por dia, cirurgia, dentária, vacinações, colocação de microchip, validação do passaporte de animal de companhia da UE.",
+          "tipPt": "Telefone para o +370 619 46265 antes de uma chegada de urgência para confirmar o veterinário de prevenção e evitar esperar no passeio à noite."
         },
         {
           "name": "Kaivana Veterinary Clinic",
           "address": "Veiverių g. 71, LT-46359 Kaunas",
           "neighborhood": "Šančiai (south Kaunas)",
-          "photo": "/images/city-places/kaunas-vets-kaivana.jpg",
+          "photo": "/images/city-places/kaunas-vets-kaivana-veterinary-clinic.jpg",
           "website": "https://kaivana.lt/en/",
           "description": "A long-established Kaunas day clinic on Veiverių, south of the Nemunas, handling vaccinations, microchipping, routine consultations and minor surgery for cats and dogs. Strong reputation locally for travel-document handling and EU pet passport endorsements.",
           "descriptionFr": "Une clinique de jour bien installée à Kaunas sur Veiverių, au sud du Nemunas, qui gère vaccinations, puçage, consultations de routine et petite chirurgie pour chiens et chats. Bonne réputation locale pour la gestion des documents de voyage et la validation du passeport européen pour animaux.",
@@ -446,7 +686,14 @@
           "tipFr": "Réservez en ligne sur kaivana.lt pour les rendez-vous documents de voyage ; la clinique programme généralement les validations de passeport européen en 48 h.",
           "tipEs": "Reserva en línea en kaivana.lt para citas de documentos de viaje; la clínica suele programar las validaciones de pasaporte europeo en 48 h.",
           "googleMapsUrl": "https://maps.google.com/?q=Kaivana+Veiveriu+71+Kaunas",
-          "languages": ["Lithuanian", "English"]
+          "languages": [
+            "Lithuanian",
+            "English"
+          ],
+          "descriptionPt": "Uma clínica de dia de longa data em Kaunas, na Veiverių, a sul do Nemunas, que trata vacinações, colocação de microchip, consultas de rotina e pequena cirurgia para gatos e cães. Boa reputação local no tratamento de documentos de viagem e na validação de passaportes de animal de companhia da UE.",
+          "petPolicyPt": "Aceita atendimento sem marcação, mas recomenda-se marcação; encerrada para urgências durante a noite, encaminhe para a LSMU ou a RuminaVet fora de horas.",
+          "servicesPt": "Vacinações, colocação de microchip, passaporte de animal de companhia da UE, dentária, pequena cirurgia, consultas de rotina.",
+          "tipPt": "Marque online em kaivana.lt para consultas de documentos de viagem; a clínica costuma agendar a validação de passaportes de animal de companhia da UE no prazo de 48 horas."
         }
       ],
       "tipsEn": [
@@ -465,19 +712,67 @@
         "La mayoría de las clínicas de Kaunas facturan en euros con IVA incluido; rara vez se necesita efectivo, el pago con tarjeta contactless es estándar."
       ],
       "faqsEn": [
-        {"q": "Where do I go for a veterinary emergency at night in Kaunas?", "a": "Call the LSMU Small Animal Clinic on +370 620 78353 or RuminaVet Baltijos on +370 619 46265, both staffed 24/7 with on-call vets and full emergency equipment."},
-        {"q": "Can I get an EU pet passport endorsed in Kaunas before flying onwards?", "a": "Yes, Kaivana and RuminaVet both endorse EU pet passports and administer rabies boosters; allow 48 hours and at least 21 days before travel for new rabies vaccinations."},
-        {"q": "Is English spoken at Kaunas vets?", "a": "Yes at all three featured clinics; the LSMU teaching hospital is a particularly multilingual environment with English, Russian and frequently Polish speakers."}
+        {
+          "q": "Where do I go for a veterinary emergency at night in Kaunas?",
+          "a": "Call the LSMU Small Animal Clinic on +370 620 78353 or RuminaVet Baltijos on +370 619 46265, both staffed 24/7 with on-call vets and full emergency equipment."
+        },
+        {
+          "q": "Can I get an EU pet passport endorsed in Kaunas before flying onwards?",
+          "a": "Yes, Kaivana and RuminaVet both endorse EU pet passports and administer rabies boosters; allow 48 hours and at least 21 days before travel for new rabies vaccinations."
+        },
+        {
+          "q": "Is English spoken at Kaunas vets?",
+          "a": "Yes at all three featured clinics; the LSMU teaching hospital is a particularly multilingual environment with English, Russian and frequently Polish speakers."
+        }
       ],
       "faqsFr": [
-        {"q": "Où aller en urgence vétérinaire la nuit à Kaunas ?", "a": "Appelez la clinique LSMU au +370 620 78353 ou RuminaVet Baltijos au +370 619 46265, toutes deux ouvertes 24h/24 avec vétérinaires d'astreinte et équipement d'urgence complet."},
-        {"q": "Puis-je faire valider un passeport européen pour animaux à Kaunas avant un vol ?", "a": "Oui, Kaivana et RuminaVet valident tous deux les passeports européens et administrent les rappels antirabiques ; prévoyez 48 h et au moins 21 jours avant le voyage pour une primovaccination antirabique."},
-        {"q": "Parle-t-on anglais chez les vétérinaires de Kaunas ?", "a": "Oui dans les trois cliniques présentées ; l'hôpital universitaire LSMU est particulièrement multilingue avec anglais, russe et souvent polonais."}
+        {
+          "q": "Où aller en urgence vétérinaire la nuit à Kaunas ?",
+          "a": "Appelez la clinique LSMU au +370 620 78353 ou RuminaVet Baltijos au +370 619 46265, toutes deux ouvertes 24h/24 avec vétérinaires d'astreinte et équipement d'urgence complet."
+        },
+        {
+          "q": "Puis-je faire valider un passeport européen pour animaux à Kaunas avant un vol ?",
+          "a": "Oui, Kaivana et RuminaVet valident tous deux les passeports européens et administrent les rappels antirabiques ; prévoyez 48 h et au moins 21 jours avant le voyage pour une primovaccination antirabique."
+        },
+        {
+          "q": "Parle-t-on anglais chez les vétérinaires de Kaunas ?",
+          "a": "Oui dans les trois cliniques présentées ; l'hôpital universitaire LSMU est particulièrement multilingue avec anglais, russe et souvent polonais."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Adónde voy en una urgencia veterinaria nocturna en Kaunas?", "a": "Llama a la Clínica LSMU al +370 620 78353 o a RuminaVet Baltijos al +370 619 46265, ambas con personal 24/7 con veterinarios de guardia y equipo de urgencias completo."},
-        {"q": "¿Puedo validar un pasaporte europeo para mascotas en Kaunas antes de un vuelo?", "a": "Sí, Kaivana y RuminaVet validan pasaportes europeos y administran refuerzos antirrábicos; prevé 48 h y al menos 21 días antes del viaje para una primovacunación antirrábica."},
-        {"q": "¿Se habla inglés en los veterinarios de Kaunas?", "a": "Sí en las tres clínicas presentadas; el hospital universitario LSMU es particularmente multilingüe con inglés, ruso y frecuentemente polaco."}
+        {
+          "q": "¿Adónde voy en una urgencia veterinaria nocturna en Kaunas?",
+          "a": "Llama a la Clínica LSMU al +370 620 78353 o a RuminaVet Baltijos al +370 619 46265, ambas con personal 24/7 con veterinarios de guardia y equipo de urgencias completo."
+        },
+        {
+          "q": "¿Puedo validar un pasaporte europeo para mascotas en Kaunas antes de un vuelo?",
+          "a": "Sí, Kaivana y RuminaVet validan pasaportes europeos y administran refuerzos antirrábicos; prevé 48 h y al menos 21 días antes del viaje para una primovacunación antirrábica."
+        },
+        {
+          "q": "¿Se habla inglés en los veterinarios de Kaunas?",
+          "a": "Sí en las tres clínicas presentadas; el hospital universitario LSMU es particularmente multilingüe con inglés, ruso y frecuentemente polaco."
+        }
+      ],
+      "titlePt": "Veterinários de Urgência em Kaunas, Clínicas Veterinárias e Cuidados para Animais",
+      "introPt": "Kaunas é uma das duas únicas cidades lituanas (com Vilnius) a ter um verdadeiro hospital veterinário de referência aberto 24 horas por dia, sete dias por semana: a Clínica de Pequenos Animais Dr. L. Kraučeliūnas da Universidade Lituana de Ciências da Saúde (LSMU), um hospital universitário de ensino com 28 especialistas. Uma segunda clínica de urgência aberta 24 horas por dia, a RuminaVet Baltijos, completa a rede, e a Kaivana, na Veiverių, funciona como uma grande clínica de dia para cuidados de rotina e colocação de microchip.",
+      "tipsPt": [
+        "Guarda o +370 620 78353 (LSMU) e o +370 619 46265 (RuminaVet Baltijos) antes de chegar; são os únicos números de urgências 24/7 verificados en Kaunas.",
+        "Lituania usa microchips ISO 11784/11785 e todas as reglas do passaporte europeu para animais; leva o cuadernillo en cada visita embora sea para uma consulta rutinaria.",
+        "A maioria das clínicas de Kaunas facturan en euros com IVA incluido; rara vez se necesita efectivo, o pago com tarjeta contactless é estándar."
+      ],
+      "faqsPt": [
+        {
+          "q": "Adónde voy numa urgência veterinária nocturna en Kaunas?",
+          "a": "Liga a a Clínica LSMU al +370 620 78353 o a RuminaVet Baltijos al +370 619 46265, ambas com personal 24/7 com veterinários de guardia e equipo de urgências completo."
+        },
+        {
+          "q": "Puedo validar um passaporte europeu para animais en Kaunas antes de um voo?",
+          "a": "Sí, Kaivana e RuminaVet validan passaportes europeus e administran refuerzos antirrábicos; prevé 48 h e al menos 21 dias antes do viaje para uma primovacunación antirrábica."
+        },
+        {
+          "q": "Se habla inglês nos veterinários de Kaunas?",
+          "a": "Sí nas três clínicas presentadas; o hospital universitario LSMU é particularmente multilingüe com inglês, ruso e frecuentemente polaco."
+        }
       ]
     },
     "tips": {
@@ -510,19 +805,69 @@
         "Guarda el +370 620 78353 (LSMU) y el +370 619 46265 (RuminaVet Baltijos) desde el primer día como líneas de urgencias veterinarias 24/7 verificadas."
       ],
       "faqsEn": [
-        {"q": "Is Kaunas a good city to visit with a dog?", "a": "Yes, Kaunas combines compact walkable UNESCO districts, free off-peak public transport, two 24/7 vets and an unusual density of pet-welcome venues thanks to the national Draugiški Gyvūnams scheme."},
-        {"q": "Do I need a muzzle to walk my dog in Kaunas?", "a": "Not in public spaces under municipal rules, except on public transport where the city requires a muzzle for breeds physically able to wear one."},
-        {"q": "What is the cheapest way to reach Kaunas with a pet?", "a": "Kaunas Airport (KUN) hosts Ryanair and Wizz Air, both accepting small dogs and cats in cabin in approved carriers on most European routes; FlixBus and Kautra coaches accept pets on long-haul services."}
+        {
+          "q": "Is Kaunas a good city to visit with a dog?",
+          "a": "Yes, Kaunas combines compact walkable UNESCO districts, free off-peak public transport, two 24/7 vets and an unusual density of pet-welcome venues thanks to the national Draugiški Gyvūnams scheme."
+        },
+        {
+          "q": "Do I need a muzzle to walk my dog in Kaunas?",
+          "a": "Not in public spaces under municipal rules, except on public transport where the city requires a muzzle for breeds physically able to wear one."
+        },
+        {
+          "q": "What is the cheapest way to reach Kaunas with a pet?",
+          "a": "Kaunas Airport (KUN) hosts Ryanair and Wizz Air, both accepting small dogs and cats in cabin in approved carriers on most European routes; FlixBus and Kautra coaches accept pets on long-haul services."
+        }
       ],
       "faqsFr": [
-        {"q": "Kaunas est-elle une bonne ville à visiter avec un chien ?", "a": "Oui, Kaunas allie des districts UNESCO compacts et arpentables, des transports publics gratuits hors heures de pointe, deux vétérinaires 24h/24 et une densité inhabituelle d'adresses pet-welcome grâce au label national Draugiški Gyvūnams."},
-        {"q": "Faut-il une muselière pour promener son chien à Kaunas ?", "a": "Pas dans les espaces publics selon les règles municipales, sauf dans les transports publics où la ville exige une muselière pour les races physiquement capables d'en porter une."},
-        {"q": "Quel est le moyen le moins cher de rejoindre Kaunas avec un animal ?", "a": "L'aéroport de Kaunas (KUN) accueille Ryanair et Wizz Air, qui acceptent toutes deux les petits chiens et chats en cabine dans des sacs homologués sur la plupart des routes européennes ; FlixBus et les cars Kautra acceptent les animaux sur les liaisons longue distance."}
+        {
+          "q": "Kaunas est-elle une bonne ville à visiter avec un chien ?",
+          "a": "Oui, Kaunas allie des districts UNESCO compacts et arpentables, des transports publics gratuits hors heures de pointe, deux vétérinaires 24h/24 et une densité inhabituelle d'adresses pet-welcome grâce au label national Draugiški Gyvūnams."
+        },
+        {
+          "q": "Faut-il une muselière pour promener son chien à Kaunas ?",
+          "a": "Pas dans les espaces publics selon les règles municipales, sauf dans les transports publics où la ville exige une muselière pour les races physiquement capables d'en porter une."
+        },
+        {
+          "q": "Quel est le moyen le moins cher de rejoindre Kaunas avec un animal ?",
+          "a": "L'aéroport de Kaunas (KUN) accueille Ryanair et Wizz Air, qui acceptent toutes deux les petits chiens et chats en cabine dans des sacs homologués sur la plupart des routes européennes ; FlixBus et les cars Kautra acceptent les animaux sur les liaisons longue distance."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Kaunas una buena ciudad para visitar con perro?", "a": "Sí, Kaunas combina distritos UNESCO compactos y caminables, transporte público gratis fuera de horas punta, dos veterinarios 24/7 y una densidad inusual de locales pet-welcome gracias al sello nacional Draugiški Gyvūnams."},
-        {"q": "¿Necesito bozal para pasear a mi perro en Kaunas?", "a": "No en los espacios públicos según las normas municipales, salvo en el transporte público donde la ciudad exige bozal para razas físicamente capaces de llevarlo."},
-        {"q": "¿Cuál es la forma más barata de llegar a Kaunas con mascota?", "a": "El aeropuerto de Kaunas (KUN) acoge a Ryanair y Wizz Air, ambas admiten perros y gatos pequeños en cabina en transportines homologados en la mayoría de rutas europeas; FlixBus y los autobuses Kautra admiten mascotas en los servicios de larga distancia."}
+        {
+          "q": "¿Es Kaunas una buena ciudad para visitar con perro?",
+          "a": "Sí, Kaunas combina distritos UNESCO compactos y caminables, transporte público gratis fuera de horas punta, dos veterinarios 24/7 y una densidad inusual de locales pet-welcome gracias al sello nacional Draugiški Gyvūnams."
+        },
+        {
+          "q": "¿Necesito bozal para pasear a mi perro en Kaunas?",
+          "a": "No en los espacios públicos según las normas municipales, salvo en el transporte público donde la ciudad exige bozal para razas físicamente capaces de llevarlo."
+        },
+        {
+          "q": "¿Cuál es la forma más barata de llegar a Kaunas con mascota?",
+          "a": "El aeropuerto de Kaunas (KUN) acoge a Ryanair y Wizz Air, ambas admiten perros y gatos pequeños en cabina en transportines homologados en la mayoría de rutas europeas; FlixBus y los autobuses Kautra admiten mascotas en los servicios de larga distancia."
+        }
+      ],
+      "titlePt": "Dicas Essenciais de Viagem com Animais para Kaunas",
+      "introPt": "Kaunas combina os compactos e percorríveis bairros modernistas Património da UNESCO e da Cidade Velha com uma lei lituana rigorosa sobre animais e uma excelente infraestrutura veterinária. Um cão com trela, com microchip e com um passaporte de animal de companhia da UE atualizado vai mover-se pela cidade quase sem atritos: transportes públicos gratuitos fora das horas de ponta, uma densa rede de estabelecimentos Draugiški Gyvūnams, dois veterinários abertos 24 horas por dia e passeios na floresta junto à Lagoa de Kaunas a 15 minutos do centro.",
+      "tipsPt": [
+        "Passaporte europeu para animais, microchip ISO 11784/11785 e vacuna antirrábica de al menos 21 dias obrigatórios al entrar en Lituania a partir de cualquier país; os viajeros do Reino Unido e EE. UU. também necesitan certificado sanitario en formato UE.",
+        "Lituania está na eurozona a partir de 2015; paga en EUR, o contactless se aceita em todo o lado incluida a veterinária e o transporte público vía a app Žiogas.",
+        "A trela é obrigatória en todos os espacios públicos de Kaunas; o ejercicio sem trela só é legal dentro dois recintos municipales cercados (šunų vedžiojimo aikštelės) cartografiados en kaunas.lt.",
+        "As tardes de verão podem alcanzar 25-27 °C en julho e agosto; a sombra dois robles de Ąžuolynas e as margens da laguna são notablemente mais frescas que o bulevar Laisvės alėja al sol.",
+        "Guarda o +370 620 78353 (LSMU) e o +370 619 46265 (RuminaVet Baltijos) a partir do primer dia como líneas de urgências veterinárias 24/7 verificadas."
+      ],
+      "faqsPt": [
+        {
+          "q": "É Kaunas uma buena cidade para visitar com cão?",
+          "a": "Sí, Kaunas combina distritos UNESCO compactos e pedonais, transporte público grátis fora de horas punta, dois veterinários 24/7 e uma densidad inusual de locales pet-welcome gracias al sello nacional Draugiški Gyvūnams."
+        },
+        {
+          "q": "Necesito bozal para pasear a mi cão en Kaunas?",
+          "a": "No nos espacios públicos segundo as normas municipales, salvo no transporte público onde a cidade exige bozal para razas físicamente capaces de llevarlo."
+        },
+        {
+          "q": "Cuál é a forma mais barata de chegar a Kaunas com animal?",
+          "a": "O aeroporto de Kaunas (KUN) acoge a Ryanair e Wizz Air, ambas admitem cães e gatos pequenhos en cabina en transportines homologados en a maioria de rutas europeias; FlixBus e os autocarros Kautra admitem animais nos serviços de larga distancia."
+        }
       ]
     },
     "attractions": {
@@ -537,7 +882,7 @@
           "name": "Modernist Kaunas UNESCO district",
           "address": "Naujamiestis & Žaliakalnis, central Kaunas",
           "neighborhood": "Naujamiestis / Žaliakalnis",
-          "photo": "/images/city-places/kaunas-attractions-modernist.jpg",
+          "photo": "/images/city-places/kaunas-attractions-modernist-kaunas-unesco-district.jpg",
           "website": "https://modernist.kaunas.lt/en/",
           "description": "The 2023 UNESCO inscription 'Modernist Kaunas: Architecture of Optimism, 1919-1939' covers around 1,500 interwar buildings across Naujamiestis and the Žaliakalnis funicular hill, the densest concentration of 1920s and 1930s functionalism, art deco and traditionalism in northern Europe. Self-guided routes are entirely outdoors with leashed dogs welcome.",
           "descriptionFr": "L'inscription UNESCO 2023 « Kaunas modernist : architecture de l'optimisme, 1919-1939 » couvre environ 1 500 bâtiments de l'entre-deux-guerres répartis sur Naujamiestis et la colline du funiculaire de Žaliakalnis, la plus dense concentration de fonctionnalisme, art déco et traditionalisme des années 1920-1930 d'Europe du Nord. Les circuits auto-guidés sont entièrement extérieurs avec chiens en laisse bienvenus.",
@@ -549,13 +894,16 @@
           "tip": "Download the free modernist.kaunas.lt route maps and start at the Central Post Office on Laisvės alėja for the most photogenic Funcionalist facades.",
           "tipFr": "Téléchargez les cartes gratuites des circuits sur modernist.kaunas.lt et démarrez à la Poste centrale sur Laisvės alėja pour les façades fonctionnalistes les plus photogéniques.",
           "tipEs": "Descarga los mapas gratuitos de rutas en modernist.kaunas.lt y empieza en la Oficina Central de Correos en Laisvės alėja para las fachadas funcionalistas más fotogénicas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Modernist+Kaunas"
+          "googleMapsUrl": "https://maps.google.com/?q=Modernist+Kaunas",
+          "descriptionPt": "A inscrição da UNESCO de 2023 'Kaunas Modernista: Arquitetura do Otimismo, 1919-1939' abrange cerca de 1.500 edifícios do entreguerras em Naujamiestis e na colina do funicular de Žaliakalnis, a mais densa concentração de funcionalismo, art déco e tradicionalismo das décadas de 1920 e 1930 no norte da Europa. Os percursos autoguiados são totalmente ao ar livre, com cães com trela bem-vindos.",
+          "petPolicyPt": "As ruas e praças públicas ao ar livre são gratuitas para cães com trela; os museus de interior (Clube dos Oficiais, igreja inferior da Ressurreição de Cristo) não costumam admitir animais.",
+          "tipPt": "Descarregue gratuitamente os mapas de percursos em modernist.kaunas.lt e comece nos Correios Centrais, na Laisvės alėja, para as fachadas funcionalistas mais fotogénicas."
         },
         {
           "name": "Pažaislis Monastery grounds",
           "address": "T. Masiulio g. 31, 52424 Kaunas",
           "neighborhood": "Pažaislis (Kaunas Lagoon peninsula)",
-          "photo": "/images/city-places/kaunas-attractions-pazaislis.jpg",
+          "photo": "/images/city-places/kaunas-attractions-pazaislis-monastery-grounds.jpg",
           "website": "https://www.pazaislis.org/en/",
           "description": "Lithuania's most important Baroque monastery, built in the late 17th century for the Camaldolese monks on a peninsula of the Kaunas Lagoon. The vast exterior grounds, courtyards and lakeside paths are free and welcome leashed dogs; the interior Sacral Heritage Museum requires a paid ticket and does not admit pets.",
           "descriptionFr": "Le plus important monastère baroque de Lituanie, édifié à la fin du XVIIᵉ siècle pour les moines camaldules sur une presqu'île de la lagune de Kaunas. Les vastes extérieurs, cours et chemins lacustres sont gratuits et accueillent les chiens en laisse ; le Musée du patrimoine sacré à l'intérieur requiert un billet payant et n'admet pas les animaux.",
@@ -567,13 +915,16 @@
           "tip": "Combine with lunch on the Monte Pacis terrace and a lakeside walk; bus 5 from the centre reaches the monastery in ~30 minutes, otherwise a 9-km drive.",
           "tipFr": "Combinez avec un déjeuner sur la terrasse de Monte Pacis et une promenade au bord du lac ; le bus 5 depuis le centre arrive en ~30 min, sinon 9 km en voiture.",
           "tipEs": "Combínalo con un almuerzo en la terraza de Monte Pacis y un paseo junto al lago; el bus 5 desde el centro llega en ~30 min, o 9 km en coche.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pazaislis+Monastery+Kaunas"
+          "googleMapsUrl": "https://maps.google.com/?q=Pazaislis+Monastery+Kaunas",
+          "descriptionPt": "O mais importante mosteiro barroco da Lituânia, construído em finais do século XVII para os monges camaldulenses numa península da Lagoa de Kaunas. O vasto recinto exterior, os pátios e os caminhos à beira do lago são gratuitos e recebem cães com trela; o Museu do Património Sacro, no interior, exige bilhete pago e não admite animais.",
+          "petPolicyPt": "Cães com trela bem-vindos no recinto exterior, nos pátios e nos caminhos à beira do lago gratuitamente; não admitidos no interior da igreja nem no museu.",
+          "tipPt": "Combine com um almoço na esplanada do Monte Pacis e um passeio à beira do lago; o autocarro 5 a partir do centro chega ao mosteiro em cerca de 30 minutos, caso contrário são 9 km de carro."
         },
         {
           "name": "Laisvės alėja & Kaunas Old Town",
           "address": "Laisvės al. & Vilniaus g., Kaunas",
           "neighborhood": "Naujamiestis & Old Town",
-          "photo": "/images/city-places/kaunas-attractions-laisves-aleja.jpg",
+          "photo": "/images/city-places/kaunas-attractions-laisves-aleja-kaunas-old-town.jpg",
           "website": "https://visit.kaunas.lt/en/see-and-do/sights/streets/laisves-aleja/",
           "description": "The 1.6-km linden-shaded pedestrian boulevard Laisvės alėja runs from the Vytautas War Museum to the Modernist Church of St. Michael, then transitions into the medieval Old Town along Vilniaus gatvė. Together they form Lithuania's longest continuously pedestrian historic walk, fully open to leashed dogs.",
           "descriptionFr": "Le boulevard piéton de 1,6 km bordé de tilleuls Laisvės alėja relie le Musée de la Guerre Vytautas à l'église moderniste Saint-Michel, puis se prolonge dans la vieille ville médiévale le long de Vilniaus gatvė. Ensemble, ils forment la plus longue promenade historique entièrement piétonne de Lituanie, totalement ouverte aux chiens en laisse.",
@@ -585,7 +936,10 @@
           "tip": "Walk the boulevard at sunset for the best photo of the linden tunnel from the Vienybės aikštė end; the Old Town section quietens after 21:00 in winter.",
           "tipFr": "Parcourez le boulevard au coucher du soleil pour la meilleure photo du tunnel de tilleuls côté Vienybės aikštė ; la partie vieille ville se calme après 21h00 en hiver.",
           "tipEs": "Recorre el bulevar al atardecer para la mejor foto del túnel de tilos desde el extremo de Vienybės aikštė; la parte del Casco Antiguo se calma tras las 21:00 en invierno.",
-          "googleMapsUrl": "https://maps.google.com/?q=Laisves+aleja+Kaunas"
+          "googleMapsUrl": "https://maps.google.com/?q=Laisves+aleja+Kaunas",
+          "descriptionPt": "O bulevar pedonal Laisvės alėja, com 1,6 km à sombra das tílias, vai do Museu da Guerra de Vytautas até à modernista Igreja de São Miguel e depois transita para a Cidade Velha medieval ao longo da Vilniaus gatvė. Juntos formam o mais longo passeio histórico continuamente pedonal da Lituânia, totalmente aberto a cães com trela.",
+          "petPolicyPt": "Bulevar e ruas pedonais públicos, cães com trela bem-vindos a toda a hora; as esplanadas de café ao longo do percurso aceitam, na sua maioria, animais no verão.",
+          "tipPt": "Percorra o bulevar ao pôr do sol para a melhor fotografia do túnel de tílias a partir do extremo da Vienybės aikštė; a secção da Cidade Velha acalma depois das 21:00 no inverno."
         }
       ],
       "tipsEn": [
@@ -604,19 +958,67 @@
         "El parque nacional de Aukštaitija, a 90 km al norte, es el destino mayor de senderismo más cercano para una jornada dog-friendly, con senderos balizados junto a lagos y zonas de correa controladas por guardas."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog inside Pažaislis Monastery?", "a": "On the exterior grounds, courtyards and lakeside paths yes, on leash and free of charge; inside the Baroque church and the Sacral Heritage Museum no, pets are not admitted."},
-        {"q": "Are the UNESCO Modernist routes walkable in one day?", "a": "Yes, a self-guided 6-km loop from the Central Post Office to the Vytautas War Museum covers the headline buildings in 3 to 4 hours with a leashed dog and frequent café stops on Laisvės alėja."},
-        {"q": "Is the Kaunas Castle accessible with a dog?", "a": "The exterior grounds and the moat path at the confluence of the Nemunas and Neris are free to dogs on leash; the small museum inside the castle does not admit pets."}
+        {
+          "q": "Can I take my dog inside Pažaislis Monastery?",
+          "a": "On the exterior grounds, courtyards and lakeside paths yes, on leash and free of charge; inside the Baroque church and the Sacral Heritage Museum no, pets are not admitted."
+        },
+        {
+          "q": "Are the UNESCO Modernist routes walkable in one day?",
+          "a": "Yes, a self-guided 6-km loop from the Central Post Office to the Vytautas War Museum covers the headline buildings in 3 to 4 hours with a leashed dog and frequent café stops on Laisvės alėja."
+        },
+        {
+          "q": "Is the Kaunas Castle accessible with a dog?",
+          "a": "The exterior grounds and the moat path at the confluence of the Nemunas and Neris are free to dogs on leash; the small museum inside the castle does not admit pets."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je entrer au monastère de Pažaislis avec mon chien ?", "a": "Dans les extérieurs, les cours et les chemins lacustres oui, en laisse et gratuitement ; à l'intérieur de l'église baroque et du musée non, les animaux ne sont pas admis."},
-        {"q": "Les itinéraires UNESCO Modernist sont-ils faisables en une journée ?", "a": "Oui, une boucle auto-guidée de 6 km de la Poste centrale au Musée de la Guerre Vytautas couvre les bâtiments-phares en 3 à 4 heures avec un chien en laisse et des pauses café fréquentes sur Laisvės alėja."},
-        {"q": "Le château de Kaunas est-il accessible avec un chien ?", "a": "Les extérieurs et le chemin des douves au confluent du Nemunas et de la Neris sont libres pour les chiens en laisse ; le petit musée intérieur du château n'admet pas les animaux."}
+        {
+          "q": "Puis-je entrer au monastère de Pažaislis avec mon chien ?",
+          "a": "Dans les extérieurs, les cours et les chemins lacustres oui, en laisse et gratuitement ; à l'intérieur de l'église baroque et du musée non, les animaux ne sont pas admis."
+        },
+        {
+          "q": "Les itinéraires UNESCO Modernist sont-ils faisables en une journée ?",
+          "a": "Oui, une boucle auto-guidée de 6 km de la Poste centrale au Musée de la Guerre Vytautas couvre les bâtiments-phares en 3 à 4 heures avec un chien en laisse et des pauses café fréquentes sur Laisvės alėja."
+        },
+        {
+          "q": "Le château de Kaunas est-il accessible avec un chien ?",
+          "a": "Les extérieurs et le chemin des douves au confluent du Nemunas et de la Neris sont libres pour les chiens en laisse ; le petit musée intérieur du château n'admet pas les animaux."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo entrar al monasterio de Pažaislis con mi perro?", "a": "En los exteriores, patios y caminos junto al lago sí, con correa y gratis; dentro de la iglesia barroca y del Museo del Patrimonio Sacro no, las mascotas no son admitidas."},
-        {"q": "¿Las rutas UNESCO Modernist son recorribles en un día?", "a": "Sí, un circuito autoguiado de 6 km desde la Oficina Central de Correos hasta el Museo de la Guerra Vytautas cubre los edificios estrella en 3 a 4 horas con perro con correa y paradas frecuentes en cafés de Laisvės alėja."},
-        {"q": "¿Es accesible el castillo de Kaunas con perro?", "a": "Los exteriores y el camino del foso en la confluencia del Nemunas y el Neris son libres para perros con correa; el pequeño museo interior del castillo no admite mascotas."}
+        {
+          "q": "¿Puedo entrar al monasterio de Pažaislis con mi perro?",
+          "a": "En los exteriores, patios y caminos junto al lago sí, con correa y gratis; dentro de la iglesia barroca y del Museo del Patrimonio Sacro no, las mascotas no son admitidas."
+        },
+        {
+          "q": "¿Las rutas UNESCO Modernist son recorribles en un día?",
+          "a": "Sí, un circuito autoguiado de 6 km desde la Oficina Central de Correos hasta el Museo de la Guerra Vytautas cubre los edificios estrella en 3 a 4 horas con perro con correa y paradas frecuentes en cafés de Laisvės alėja."
+        },
+        {
+          "q": "¿Es accesible el castillo de Kaunas con perro?",
+          "a": "Los exteriores y el camino del foso en la confluencia del Nemunas y el Neris son libres para perros con correa; el pequeño museo interior del castillo no admite mascotas."
+        }
+      ],
+      "titlePt": "Atrações Pet-Friendly em Kaunas",
+      "introPt": "Kaunas construiu a sua identidade duas vezes: como capital temporária da Lituânia independente de 1919 a 1939, deixando 12.000 edifícios modernistas que foram inscritos na Lista do Património Mundial da UNESCO em 2023, e em torno do complexo barroco do Mosteiro de Pažaislis, na sua lagoa a leste. A compacta Cidade Velha medieval, o bulevar pedonal Laisvės alėja, com 1,6 km, e o recinto de Pažaislis formam um triângulo inteiramente percorrível com um cão com trela.",
+      "tipsPt": [
+        "A maioria dois museus de Kaunas (Museu da Guerra Vytautas, Museu do Diablo, Museu M. K. Čiurlionis) no admitem cães dentro; planifica rutas exteriores UNESCO Modernist e Pažaislis.",
+        "O funicular de Žaliakalnis para a igreja da Resurrección admite cães com trela grátis; é um dois os dois únicos funiculares de madera preservados do norte de Europa.",
+        "O parque nacional de Aukštaitija, a 90 km al norte, é o destino mayor de senderismo mais cercano para uma jornada pet-friendly, com trilhos balizados junto a lagos e zonas de trela controladas por guardas."
+      ],
+      "faqsPt": [
+        {
+          "q": "Puedo entrar al monasterio de Pažaislis com mi cão?",
+          "a": "Nos exteriores, patios e caminos junto al lago sí, com trela e grátis; dentro da igreja barroca e do Museu do Patrimonio Sacro no, as animais no são admitidas."
+        },
+        {
+          "q": "As rutas UNESCO Modernist são recorribles num dia?",
+          "a": "Sí, um circuito autoguiado de 6 km a partir da Oficina Central de Correos até o Museu da Guerra Vytautas cubre os edifícios estrella en 3 a 4 horas com cão com trela e paradas frecuentes en cafés de Laisvės alėja."
+        },
+        {
+          "q": "É acessível o castelo de Kaunas com cão?",
+          "a": "Os exteriores e o camino do foso na confluencia do Nemunas e o Neris são libres para cães com trela; o pequenho museu interior do castelo no admite animais."
+        }
       ]
     },
     "petsitting": {
@@ -641,7 +1043,10 @@
           "services": "Daycare, boarding, dog walking, grooming, cat sitting, home visits.",
           "servicesFr": "Daycare, pension, promenade, toilettage, garde de chat, visites à domicile.",
           "servicesEs": "Daycare, residencia, paseo de perros, peluquería, cuidado de gato, visitas a domicilio.",
-          "openingHours": "Bookings 24/7 online; sitter hours individual"
+          "openingHours": "Bookings 24/7 online; sitter hours individual",
+          "descriptionPt": "O maior mercado de cuidados para animais a operar em Kaunas, com mais de 15 prestadores verificados que oferecem creche canina, alojamento, passeios, banhos e tosquias e cuidados a gatos. Os perfis incluem avaliações, seguro e reserva imediata em inglês e lituano.",
+          "petPolicyPt": "Cada prestador define a sua própria política para animais; a PetBacker exige um padrão mínimo de seguro e de verificação.",
+          "servicesPt": "Creche, alojamento, passeio de cães, banhos e tosquias, cuidados a gatos, visitas ao domicílio."
         },
         {
           "name": "TrustedHousesitters Lithuania",
@@ -657,7 +1062,10 @@
           "services": "Live-in pet sitting, dog walking, feeding, mail and plant care.",
           "servicesFr": "Garde à domicile, promenade, nourrissage, courrier et arrosage.",
           "servicesEs": "Cuidado a domicilio, paseo, alimentación, correo y plantas.",
-          "openingHours": "Memberships and sits 24/7 online"
+          "openingHours": "Memberships and sits 24/7 online",
+          "descriptionPt": "Uma plataforma por subscrição que junta viajantes e proprietários a cuidadores residenciais verificados na Lituânia; cerca de 20 perfis ativos a nível nacional, com concentrações em Kaunas que cobrem cães, gatos e animais pequenos. As estadias são normalmente gratuitas para o proprietário em troca de alojamento.",
+          "petPolicyPt": "Estadias residenciais acordadas diretamente entre os membros; ambas as partes verificadas pela plataforma.",
+          "servicesPt": "Cuidados residenciais a animais, passeio de cães, alimentação, recolha de correio e cuidado de plantas."
         }
       ],
       "tipsEn": [
@@ -676,19 +1084,67 @@
         "Verifica pasaporte europeo, microchip y vacuna antirrábica en la primera sit; muchos sitters lituanos rechazan ingresos sin documentación según las normas nacionales de bienestar animal."
       ],
       "faqsEn": [
-        {"q": "What does dog boarding cost in Kaunas?", "a": "PetBacker prices in Kaunas typically range from 15 to 25 EUR per night for in-home boarding and 8 to 15 EUR per visit for walking, well below Western European averages."},
-        {"q": "Are there 24-hour daycare options in Kaunas?", "a": "A handful of providers on PetBacker offer overnight daycare on demand; check the listing's response time and availability calendar before booking."},
-        {"q": "Can a sitter administer medication to my dog?", "a": "Yes if agreed in the booking message; many Lithuanian sitters are nursing or vet-tech students, but always confirm comfort with the specific medication in writing."}
+        {
+          "q": "What does dog boarding cost in Kaunas?",
+          "a": "PetBacker prices in Kaunas typically range from 15 to 25 EUR per night for in-home boarding and 8 to 15 EUR per visit for walking, well below Western European averages."
+        },
+        {
+          "q": "Are there 24-hour daycare options in Kaunas?",
+          "a": "A handful of providers on PetBacker offer overnight daycare on demand; check the listing's response time and availability calendar before booking."
+        },
+        {
+          "q": "Can a sitter administer medication to my dog?",
+          "a": "Yes if agreed in the booking message; many Lithuanian sitters are nursing or vet-tech students, but always confirm comfort with the specific medication in writing."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la pension canine à Kaunas ?", "a": "Les tarifs PetBacker à Kaunas s'échelonnent généralement de 15 à 25 EUR la nuit en accueil à domicile et 8 à 15 EUR par visite pour la promenade, bien en dessous des moyennes d'Europe de l'Ouest."},
-        {"q": "Existe-t-il des options de daycare 24h/24 à Kaunas ?", "a": "Quelques prestataires PetBacker proposent du daycare avec nuitée à la demande ; consultez le temps de réponse et le calendrier de disponibilité avant de réserver."},
-        {"q": "Un sitter peut-il administrer des médicaments à mon chien ?", "a": "Oui si convenu dans le message de réservation ; nombre de sitters lituaniens sont étudiants infirmiers ou auxiliaires vétérinaires, confirmez par écrit l'aisance avec le médicament concerné."}
+        {
+          "q": "Combien coûte la pension canine à Kaunas ?",
+          "a": "Les tarifs PetBacker à Kaunas s'échelonnent généralement de 15 à 25 EUR la nuit en accueil à domicile et 8 à 15 EUR par visite pour la promenade, bien en dessous des moyennes d'Europe de l'Ouest."
+        },
+        {
+          "q": "Existe-t-il des options de daycare 24h/24 à Kaunas ?",
+          "a": "Quelques prestataires PetBacker proposent du daycare avec nuitée à la demande ; consultez le temps de réponse et le calendrier de disponibilité avant de réserver."
+        },
+        {
+          "q": "Un sitter peut-il administrer des médicaments à mon chien ?",
+          "a": "Oui si convenu dans le message de réservation ; nombre de sitters lituaniens sont étudiants infirmiers ou auxiliaires vétérinaires, confirmez par écrit l'aisance avec le médicament concerné."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el alojamiento canino en Kaunas?", "a": "Las tarifas de PetBacker en Kaunas suelen oscilar entre 15 y 25 EUR la noche en alojamiento en casa y 8 a 15 EUR por visita para paseo, muy por debajo de las medias de Europa Occidental."},
-        {"q": "¿Hay opciones de daycare 24 h en Kaunas?", "a": "Algunos proveedores PetBacker ofrecen daycare con pernoctación bajo demanda; comprueba el tiempo de respuesta y el calendario de disponibilidad antes de reservar."},
-        {"q": "¿Puede un sitter administrar medicación a mi perro?", "a": "Sí si se acuerda en el mensaje de reserva; muchos sitters lituanos son estudiantes de enfermería o auxiliares veterinarios, confirma por escrito la comodidad con el medicamento concreto."}
+        {
+          "q": "¿Cuánto cuesta el alojamiento canino en Kaunas?",
+          "a": "Las tarifas de PetBacker en Kaunas suelen oscilar entre 15 y 25 EUR la noche en alojamiento en casa y 8 a 15 EUR por visita para paseo, muy por debajo de las medias de Europa Occidental."
+        },
+        {
+          "q": "¿Hay opciones de daycare 24 h en Kaunas?",
+          "a": "Algunos proveedores PetBacker ofrecen daycare con pernoctación bajo demanda; comprueba el tiempo de respuesta y el calendario de disponibilidad antes de reservar."
+        },
+        {
+          "q": "¿Puede un sitter administrar medicación a mi perro?",
+          "a": "Sí si se acuerda en el mensaje de reserva; muchos sitters lituanos son estudiantes de enfermería o auxiliares veterinarios, confirma por escrito la comodidad con el medicamento concreto."
+        }
+      ],
+      "titlePt": "Pet Sitting e Alojamento Canino em Kaunas",
+      "introPt": "Kaunas apoia-se em duas plataformas regionais para reservas de cuidadores, passeadores e alojamento: a PetBacker, o mercado dominante de cuidados para animais na Ásia-Pacífico e na Europa, que lista mais de 15 prestadores de creche só em Kaunas, e a TrustedHousesitters, que cobre a Lituânia com cerca de 20 cuidadores residenciais verificados de casa e animais. A Rover (que se fundiu com a DogBuddy) também serve o mercado báltico para alojamento e passeios.",
+      "tipsPt": [
+        "Reserva os cuidadores en Kaunas com al menos 2-3 semanas de antelación en julho e agosto, quando as vacaciones de verão lituanas e o Festival de Kaunas fazem pico de demanda.",
+        "A maioria dois proveedores PetBacker en Kaunas aceitam cães até 30 kg en hogares privados; os cães mais grandes o reactivos costumam colocarse en residencias caninas dedicadas nos municipios rurales do entorno.",
+        "Verifica passaporte europeu, microchip e vacuna antirrábica na primera sit; muitos sitters lituanos rechazan ingresos sem documentação segundo as normas nacionales de bienestar animal."
+      ],
+      "faqsPt": [
+        {
+          "q": "Cuánto cuesta o alojamento canino en Kaunas?",
+          "a": "As tarifas de PetBacker en Kaunas costumam oscilar entre 15 e 25 EUR a noite en alojamento en casa e 8 a 15 EUR por visita para passeio, muito por debaixo das medias de Europa Occidental."
+        },
+        {
+          "q": "Hay opciones de daycare 24 h en Kaunas?",
+          "a": "Algunos proveedores PetBacker ofrecen daycare com pernoctación sob demanda; comprueba o tempo de respuesta e o calendario de disponibilidad antes de reservar."
+        },
+        {
+          "q": "Pode um sitter administrar medicación a mi cão?",
+          "a": "Sí se se acuerda no mensaje de reserva; muitos sitters lituanos são estudantes de enfermería o auxiliares veterinários, confirma por escrito a comodidad com o medicamento concreto."
+        }
       ]
     }
   }

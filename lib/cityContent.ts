@@ -20616,6 +20616,139 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  sintra: {
+    history: {
+      en: `Sintra rises into the granite hills of the Serra de Sintra just 30 km northwest of Lisbon, a misty micro-climate of laurel forest that has drawn settlers since prehistory and royalty since the Middle Ages. Moorish builders raised the Castelo dos Mouros on its crags; Portuguese kings turned the valley into a summer retreat, crowned in the 1840s by Ferdinand II's exuberant Pena Palace, a high point of European Romanticism. Lord Byron called the region a "glorious Eden", and 19th-century aristocrats studded the hillsides with palaces, follies and botanical gardens such as Monserrate and Quinta da Regaleira. UNESCO inscribed the whole Cultural Landscape of Sintra in 1995. Cool, green and walkable, with leashed dogs welcome along its forest trails and palace gardens, Sintra is one of Portugal's most rewarding day trips for travellers with a pet.`,
+      fr: `Sintra s'élève dans les collines granitiques de la Serra de Sintra, à seulement 30 km au nord-ouest de Lisbonne, un micro-climat brumeux de forêt de lauriers qui attire les habitants depuis la préhistoire et la royauté depuis le Moyen Âge. Les bâtisseurs maures érigèrent le Castelo dos Mouros sur ses rochers ; les rois portugais firent de la vallée une résidence d'été, couronnée dans les années 1840 par l'exubérant palais de Pena de Ferdinand II, sommet du romantisme européen. Lord Byron qualifia la région de "glorieux Éden", et les aristocrates du XIXe siècle parsemèrent les versants de palais, de folies et de jardins botaniques comme Monserrate et la Quinta da Regaleira. L'UNESCO a classé tout le paysage culturel de Sintra en 1995. Fraîche, verte et propice à la marche, où les chiens tenus en laisse sont les bienvenus sur les sentiers forestiers et dans les jardins des palais, Sintra est l'une des plus belles excursions du Portugal pour les voyageurs accompagnés d'un animal.`,
+      es: `Sintra se alza en las colinas graníticas de la Serra de Sintra, a solo 30 km al noroeste de Lisboa, un microclima neblinoso de bosque de laureles que atrae a pobladores desde la prehistoria y a la realeza desde la Edad Media. Los constructores moros levantaron el Castelo dos Mouros sobre sus riscos; los reyes portugueses convirtieron el valle en retiro estival, coronado en la década de 1840 por el exuberante Palacio de Pena de Fernando II, cumbre del Romanticismo europeo. Lord Byron llamó a la región un "glorioso Edén", y los aristócratas del siglo XIX salpicaron las laderas de palacios, caprichos y jardines botánicos como Monserrate y la Quinta da Regaleira. La UNESCO inscribió todo el paisaje cultural de Sintra en 1995. Fresca, verde y caminable, con perros con correa bienvenidos en sus senderos forestales y jardines palaciegos, Sintra es una de las excursiones más gratificantes de Portugal para quienes viajan con mascota.`,
+      pt: `Sintra ergue-se nas colinas graníticas da Serra de Sintra, a apenas 30 km a noroeste de Lisboa, um microclima nevoento de floresta de loureiros que atrai povoadores desde a pré-história e a realeza desde a Idade Média. Os construtores mouros ergueram o Castelo dos Mouros sobre os seus penhascos; os reis portugueses fizeram do vale um retiro de verão, coroado na década de 1840 pelo exuberante Palácio da Pena de Fernando II, ponto alto do Romantismo europeu. Lord Byron chamou à região um "glorioso Éden", e os aristocratas do século XIX salpicaram as encostas de palácios, extravagâncias e jardins botânicos como Monserrate e a Quinta da Regaleira. A UNESCO classificou toda a Paisagem Cultural de Sintra em 1995. Fresca, verde e percorrível a pé, com cães com trela bem-vindos nos seus trilhos florestais e jardins palacianos, Sintra é uma das excursões mais gratificantes de Portugal para quem viaja com animal.`,
+    },
+    sights: [
+      {
+        name: 'Palácio Nacional da Pena',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Le palais romantique le plus célèbre du Portugal coiffe la Serra de ses tours jaunes et rouge sang. Les chiens tenus en laisse sont admis dans le vaste Parc de Pena (200 ha de jardins exotiques et de sentiers), mais pas à l'intérieur du palais. Prévoyez de l'eau pour la montée boisée.`,
+          en: `Portugal's most famous Romantic palace crowns the Serra with its yellow and blood-red towers. Leashed dogs are welcome in the vast Park of Pena (200 ha of exotic gardens and trails), though not inside the palace itself. Bring water for the wooded climb.`,
+          es: `El palacio romántico más famoso de Portugal corona la Serra con sus torres amarillas y rojo sangre. Los perros con correa pueden entrar en el extenso Parque de Pena (200 ha de jardines exóticos y senderos), aunque no en el interior del palacio. Lleva agua para la subida arbolada.`,
+          pt: `O palácio romântico mais famoso de Portugal coroa a Serra com as suas torres amarelas e vermelho-sangue. Os cães com trela são bem-vindos no vasto Parque da Pena (200 ha de jardins exóticos e trilhos), embora não no interior do palácio. Leve água para a subida arborizada.`,
+        },
+      },
+      {
+        name: 'Quinta da Regaleira',
+        emoji: '🌀',
+        petFriendly: true,
+        desc: {
+          fr: `Cette propriété néo-manuéline du début du XXe siècle est célèbre pour son Puits initiatique, son escalier en spirale descendant sous terre et ses jardins mystérieux. Les chiens tenus en laisse sont admis dans les jardins, un labyrinthe végétal parfait pour une exploration ombragée.`,
+          en: `This early-20th-century neo-Manueline estate is famous for its Initiation Well, a spiral stair plunging underground, and its mysterious gardens. Leashed dogs are allowed in the grounds, a green labyrinth perfect for shaded exploring.`,
+          es: `Esta finca neomanuelina de principios del siglo XX es célebre por su Pozo Iniciático, una escalera de caracol que se hunde bajo tierra, y sus jardines misteriosos. Los perros con correa pueden recorrer los jardines, un laberinto verde ideal para explorar a la sombra.`,
+          pt: `Esta propriedade neomanuelina do início do século XX é célebre pelo seu Poço Iniciático, uma escadaria em espiral que mergulha no subsolo, e pelos seus jardins misteriosos. Os cães com trela podem percorrer os jardins, um labirinto verde ideal para explorar à sombra.`,
+        },
+      },
+      {
+        name: 'Parque de Monserrate',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Le palais exotique de Monserrate est entouré de l'un des plus beaux jardins botaniques du Portugal, mêlant essences du monde entier sur des pelouses vallonnées. Les chiens en laisse y sont bienvenus, à l'écart des foules de Pena. Idéal pour une longue promenade tranquille.`,
+          en: `The exotic Monserrate Palace is wrapped in one of Portugal's finest botanical gardens, mixing species from across the world over rolling lawns. Leashed dogs are welcome here, away from the Pena crowds. Ideal for a long, quiet walk.`,
+          es: `El exótico Palacio de Monserrate está rodeado de uno de los mejores jardines botánicos de Portugal, que mezcla especies de todo el mundo sobre praderas onduladas. Los perros con correa son bienvenidos, lejos de las multitudes de Pena. Ideal para un paseo largo y tranquilo.`,
+          pt: `O exótico Palácio de Monserrate está rodeado por um dos melhores jardins botânicos de Portugal, que mistura espécies de todo o mundo sobre relvados ondulados. Os cães com trela são bem-vindos, longe das multidões da Pena. Ideal para um passeio longo e tranquilo.`,
+        },
+      },
+      {
+        name: 'Castelo dos Mouros',
+        emoji: '🏯',
+        petFriendly: true,
+        desc: {
+          fr: `Les remparts du château maure du IXe siècle serpentent le long de la crête avec une vue plongeante sur la vallée et l'Atlantique. Les chiens tenus en laisse peuvent parcourir l'enceinte et les murailles ; le terrain est rocailleux, prévoyez de bonnes pattes et de l'eau.`,
+          en: `The ramparts of the 9th-century Moorish castle snake along the ridge with sweeping views over the valley and the Atlantic. Leashed dogs may walk the grounds and walls; the terrain is rocky, so bring sturdy paws and water.`,
+          es: `Las murallas del castillo moro del siglo IX serpentean por la cresta con vistas amplias sobre el valle y el Atlántico. Los perros con correa pueden recorrer el recinto y las murallas; el terreno es rocoso, así que lleva buenas patas y agua.`,
+          pt: `As muralhas do castelo mouro do século IX serpenteiam ao longo da crista com vistas amplas sobre o vale e o Atlântico. Os cães com trela podem percorrer o recinto e as muralhas; o terreno é rochoso, por isso leve patas resistentes e água.`,
+        },
+      },
+      {
+        name: 'Cabo da Roca',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Le point le plus occidental de l'Europe continentale, où les falaises plongent de 140 m dans l'Atlantique. Les sentiers du cap, à ciel ouvert et balayés par le vent, se parcourent en laisse ; tenez votre chien à distance des bords abrupts. Couchers de soleil spectaculaires.`,
+          en: `The westernmost point of mainland Europe, where the cliffs drop 140 m into the Atlantic. The open, wind-swept headland trails are walked on lead; keep your dog well back from the steep edges. Spectacular sunsets.`,
+          es: `El punto más occidental de la Europa continental, donde los acantilados caen 140 m al Atlántico. Los senderos del cabo, abiertos y batidos por el viento, se recorren con correa; mantén a tu perro lejos de los bordes escarpados. Atardeceres espectaculares.`,
+          pt: `O ponto mais ocidental da Europa continental, onde as falésias caem 140 m no Atlântico. Os trilhos do cabo, abertos e varridos pelo vento, percorrem-se com trela; mantenha o cão bem afastado das bordas escarpadas. Pores do sol espetaculares.`,
+        },
+      },
+      {
+        name: 'Centro Histórico de Sintra',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `La vieille ville (Vila Velha), au pied du Palais national aux deux cheminées coniques, est un dédale de ruelles pavées, de pâtisseries (travesseiros et queijadas) et de terrasses qui accueillent les chiens en laisse. Parfaite pour flâner entre deux palais.`,
+          en: `The old town (Vila Velha), below the National Palace with its two conical chimneys, is a maze of cobbled lanes, pastry shops (travesseiros and queijadas) and terraces that welcome leashed dogs. Perfect for a stroll between palaces.`,
+          es: `El casco antiguo (Vila Velha), a los pies del Palacio Nacional con sus dos chimeneas cónicas, es un laberinto de callejuelas adoquinadas, pastelerías (travesseiros y queijadas) y terrazas que admiten perros con correa. Perfecto para pasear entre palacios.`,
+          pt: `O centro histórico (Vila Velha), aos pés do Palácio Nacional com as suas duas chaminés cónicas, é um labirinto de ruelas calcetadas, pastelarias (travesseiros e queijadas) e esplanadas que aceitam cães com trela. Perfeito para passear entre palácios.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Dans les parcs de la Parques de Sintra (Pena, Monserrate, Castelo dos Mouros), les chiens sont admis en laisse dans les jardins et sur les sentiers, jamais à l'intérieur des palais. Gardez le ticket pour ressortir.`,
+        `La ligne de train urbaine CP Lisbonne-Sintra (40 min depuis Rossio) accepte les chiens : petits en sac gratuitement, grands muselés et en laisse avec un billet.`,
+        `Les bus touristiques 434 et 435 qui montent vers Pena sont souvent bondés et n'admettent pas toujours les grands chiens ; la montée à pied par la forêt est une belle alternative à la fraîcheur.`,
+        `La Serra retient l'humidité et la brume : même en été, prévoyez une montée fraîche et des sentiers parfois glissants.`,
+        `À Cabo da Roca, le vent est fort et les falaises abruptes : laisse courte obligatoire près des bords.`,
+      ],
+      en: [
+        `In the Parques de Sintra estates (Pena, Monserrate, Castelo dos Mouros), dogs are allowed on lead in the gardens and on trails, never inside the palaces. Keep your ticket to re-enter.`,
+        `The CP Lisbon-Sintra urban train (40 min from Rossio) accepts dogs: small ones in a bag free, large ones muzzled and leashed with a ticket.`,
+        `The 434 and 435 tourist buses up to Pena are often packed and may turn away large dogs; walking up through the forest is a fine, cooler alternative.`,
+        `The Serra traps mist and damp: even in summer, expect a cool climb and occasionally slippery trails.`,
+        `At Cabo da Roca the wind is strong and the cliffs sheer: a short lead near the edges is essential.`,
+      ],
+      es: [
+        `En las fincas de Parques de Sintra (Pena, Monserrate, Castelo dos Mouros), los perros pueden ir con correa por los jardines y senderos, nunca dentro de los palacios. Guarda el billete para volver a entrar.`,
+        `El tren urbano CP Lisboa-Sintra (40 min desde Rossio) admite perros: los pequeños en bolsa gratis, los grandes con bozal y correa con billete.`,
+        `Los autobuses turísticos 434 y 435 que suben a Pena suelen ir llenos y pueden rechazar perros grandes; subir a pie por el bosque es una buena alternativa más fresca.`,
+        `La Serra retiene la humedad y la niebla: incluso en verano, cuenta con una subida fresca y senderos a veces resbaladizos.`,
+        `En Cabo da Roca el viento es fuerte y los acantilados verticales: correa corta cerca de los bordes.`,
+      ],
+      pt: [
+        `Nas propriedades dos Parques de Sintra (Pena, Monserrate, Castelo dos Mouros), os cães podem circular com trela nos jardins e trilhos, nunca dentro dos palácios. Guarde o bilhete para voltar a entrar.`,
+        `O comboio urbano CP Lisboa-Sintra (40 min desde o Rossio) aceita cães: os pequenos em saco grátis, os grandes com açaime e trela com bilhete.`,
+        `Os autocarros turísticos 434 e 435 que sobem à Pena vão muitas vezes cheios e podem recusar cães grandes; subir a pé pela floresta é uma boa alternativa, mais fresca.`,
+        `A Serra retém a humidade e o nevoeiro: mesmo no verão, conte com uma subida fresca e trilhos por vezes escorregadios.`,
+        `No Cabo da Roca o vento é forte e as falésias verticais: trela curta junto às bordas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire avec urgences 24h/24 : Centro Veterinário Sintra, R. Casal da Ligeira 64, Terrugem, +351 219 612 282`,
+        `Train CP urbain depuis Lisbonne (Rossio ou Oriente) jusqu'à Sintra en 40 minutes, chiens acceptés`,
+        `Microchip et passeport européen obligatoires ; carnet de vaccination antirabique à jour pour voyager au Portugal`,
+        `Cabo da Roca et les plages de la côte (Praia das Maçãs, Praia Grande) accessibles en bus 403 ou en voiture`,
+      ],
+      en: [
+        `24-hour emergency vet: Centro Veterinário Sintra, R. Casal da Ligeira 64, Terrugem, +351 219 612 282`,
+        `CP urban train from Lisbon (Rossio or Oriente) to Sintra in 40 minutes, dogs accepted`,
+        `Microchip and EU pet passport required; up-to-date rabies vaccination to travel in Portugal`,
+        `Cabo da Roca and the coastal beaches (Praia das Maçãs, Praia Grande) reachable by bus 403 or car`,
+      ],
+      es: [
+        `Veterinario con urgencias 24h: Centro Veterinário Sintra, R. Casal da Ligeira 64, Terrugem, +351 219 612 282`,
+        `Tren urbano CP desde Lisboa (Rossio u Oriente) a Sintra en 40 minutos, admite perros`,
+        `Microchip y pasaporte europeo de mascota obligatorios; vacuna antirrábica al día para viajar por Portugal`,
+        `Cabo da Roca y las playas de la costa (Praia das Maçãs, Praia Grande) accesibles en bus 403 o coche`,
+      ],
+      pt: [
+        `Veterinário com urgências 24h: Centro Veterinário Sintra, R. Casal da Ligeira 64, Terrugem, +351 219 612 282`,
+        `Comboio urbano CP desde Lisboa (Rossio ou Oriente) até Sintra em 40 minutos, aceita cães`,
+        `Microchip e passaporte europeu de animal obrigatórios; vacina antirrábica em dia para viajar em Portugal`,
+        `Cabo da Roca e as praias da costa (Praia das Maçãs, Praia Grande) acessíveis de autocarro 403 ou carro`,
+      ],
+    },
+  },
+
   sofia: {
     history: {
       fr: `Sofia est l'une des plus anciennes capitales européennes : ville thrace de Serdica au VIIe siècle av. J.-C., elle devient un centre romain majeur sous Constantin, puis siège byzantin, conquête ottomane et enfin capitale du royaume bulgare en 1879. Avec environ 1,2 million d'habitants, c'est aussi la capitale UE la plus verte par couvert arboré, ce qui s'explique par le massif du Vitosha qui s'élève directement du tissu urbain, 2 290 mètres aux portes de la ville. La culture canine bulgare est ouverte mais réglementée : la mairie exige une médaille pour les chiens enregistrés, le sans laisse est limité aux parcs balisés, et un annuaire national pet-friendly recense près de 500 cafés et boutiques. Sofia est aussi remarquablement abordable, les hôtels dog-friendly démarrent à 60 € la nuit, les visites vétérinaires d'urgence à 40 €, et la plateforme Pawshake à 5 € la promenade.`,

@@ -274,28 +274,28 @@
           "ruleEn": "Dogs permitted on short leash with muzzle, or in closed carrier. Carrier animals travel free; leashed dogs require half-price child ticket.",
           "ruleFr": "Chiens admis en laisse courte avec muselière, ou dans un sac de transport fermé. Animaux en sac gratuits ; chiens en laisse nécessitent un billet demi-tarif enfant.",
           "ruleEs": "Perros permitidos con correa corta y bozal, o en portador cerrado. Animales en portador viajan gratis; perros con correa requieren billete de precio reducido infantil.",
-          "rulePt": "Cães permitidos com trela corta e bozal, o en portador cerrado. Animales en portador viajan grátis; cães com trela requieren bilhete de preço reducido infantil."
+          "rulePt": "Cães permitidos com trela curta e açaime, ou em transportadora fechada. Os animais em transportadora viajam gratuitamente; os cães com trela necessitam de bilhete infantil a meio preço."
         },
         {
           "mode": "Bus",
           "ruleEn": "Same rules as T-bane. Muzzle required on leash. Carriers travel free.",
           "ruleFr": "Mêmes règles que le T-bane. Muselière obligatoire en laisse. Sacs de transport gratuits.",
           "ruleEs": "Mismas reglas que el T-bane. Bozal obligatorio con correa. Portadores viajan gratis.",
-          "rulePt": "Mismas reglas que o T-bane. Bozal obrigatório com trela. Portadores viajan grátis."
+          "rulePt": "Mesmas regras do T-bane. Açaime obrigatório com trela. As transportadoras viajam gratuitamente."
         },
         {
           "mode": "Tram",
           "ruleEn": "Same rules as T-bane and bus. Short leash and muzzle, or closed carrier.",
           "ruleFr": "Mêmes règles que le T-bane et le bus. Laisse courte et muselière, ou sac de transport fermé.",
           "ruleEs": "Mismas reglas que T-bane y autobús. Correa corta y bozal, o portador cerrado.",
-          "rulePt": "Mismas reglas que T-bane e autocarro. Trela corta e bozal, o portador cerrado."
+          "rulePt": "Mesmas regras do T-bane e do autocarro. Trela curta e açaime, ou transportadora fechada."
         },
         {
           "mode": "Ferry (Ruter fjord ferries)",
           "ruleEn": "Dogs permitted on deck on leash with muzzle. Useful for reaching Bygdøy and Hovedøya island.",
           "ruleFr": "Chiens admis sur le pont en laisse avec muselière. Utile pour rejoindre Bygdøy et l'île de Hovedøya.",
           "ruleEs": "Perros permitidos en cubierta con correa y bozal. Útil para llegar a Bygdøy y la isla de Hovedøya.",
-          "rulePt": "Cães permitidos en cubierta com trela e bozal. Útil para chegar a Bygdøy e a ilha de Hovedøya."
+          "rulePt": "Cães permitidos no convés com trela e açaime. Útil para chegar a Bygdøy e à ilha de Hovedøya."
         }
       ],
       "tipEn": "The Ruter app (iOS/Android) covers all modes with real-time journey planning. Buy a multi-day pass if staying more than two days, it covers all modes including the Bygdøy ferry.",
@@ -303,7 +303,7 @@
       "tipEs": "La aplicación Ruter (iOS/Android) cubre todos los modos con planificación de viaje en tiempo real. Compra un pase de varios días si te quedas más de dos días, cubre todos los modos incluido el ferry de Bygdøy.",
       "titlePt": "Deslocar-se em Oslo com um Animal de Estimação",
       "introPt": "A rede de transportes públicos de Oslo, operada pela Ruter, abrange T-bane (metro), autocarro, elétrico e ferry, e os animais são permitidos em todos os modos, sujeitos a regras claras. Os cães podem viajar nos transportes públicos se transportados numa caixa fechada, ou se forem com trela curta e açaime colocado. Esta exigência de açaime aplica-se em todos os serviços da Ruter e é fiscalizada sobretudo nas horas de ponta. Cães pequenos e gatos em caixas fechadas viajam gratuitamente. Cães maiores com trela necessitam de um bilhete válido a meio preço (o mesmo preço de um bilhete de criança). A rede é suficientemente extensa para que a maioria dos principais destinos pet-friendly de Oslo, o Frogner Park, Grünerløkka, Aker Brygge, Bygdøy e os pontos de entrada da floresta em Holmenkollen e Frognerseteren, sejam todos facilmente alcançáveis em transportes públicos com um cão.",
-      "tipPt": "A aplicación Ruter (iOS/Android) cubre todos os modos com planificación de viaje en tempo real. Compra um pase de varios dias se te quedas mais de dois dias, cubre todos os modos incluido o ferry de Bygdøy."
+      "tipPt": "A aplicação Ruter (iOS/Android) cobre todos os modos com planeamento de viagem em tempo real. Compre um passe de vários dias se ficar mais de dois dias, pois cobre todos os modos, incluindo o ferry de Bygdøy."
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches Near Oslo",
@@ -535,9 +535,9 @@
           "bookingAdviceEn": "Book at least 48–72 hours in advance. Summer and Norwegian school holidays fill up quickly.",
           "bookingAdviceFr": "Réservez au moins 48–72 heures à l'avance. L'été et les vacances scolaires norvégiennes se remplissent rapidement.",
           "bookingAdviceEs": "Reserva con al menos 48–72 horas de antelación. El verano y las vacaciones escolares noruegas se llenan rápidamente.",
-          "descriptionPt": "Rover.no é a principal plataforma de cuidado de animais en Noruega. Ofrece alojamento para cães, cuidado en casa, visitas puntuales, guardería para cães e passeio de cães, todo com proveedores locales verificados, resenhas verificadas e cobertura de seguro en cada reserva.",
+          "descriptionPt": "A Rover.no é a principal plataforma de cuidado de animais na Noruega. Oferece alojamento para cães, cuidado em casa, visitas pontuais, creche para cães e passeio de cães, tudo com cuidadores locais verificados, avaliações verificadas e cobertura de seguro em cada reserva. A plataforma funciona em inglês e em norueguês. Os preços variam normalmente entre 200 e 500 NOK por dia para cuidado de cães.",
           "priceRangePt": "NOK 200–500 por dia para cuidado; passeios individuales a partir de NOK 150",
-          "bookingAdvicePt": "Reserva com al menos 48–72 horas de antelación. O verão e as vacaciones escolares noruegas se llenan rápidamente."
+          "bookingAdvicePt": "Reserve com pelo menos 48 a 72 horas de antecedência. O verão e as férias escolares norueguesas enchem rapidamente."
         }
       ],
       "titlePt": "Pet Sitting e Passeio de Cães em Oslo",

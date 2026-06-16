@@ -352,7 +352,7 @@
           "ruleEs": "Mascotas pequeñas en transportín cerrado ≤6kg: gratis. Perros grandes: NO permitidos.",
           "icon": "🚇",
           "modePt": "Metro",
-          "rulePt": "Animais pequenhas en transportadora cerrado ≤6kg: grátis. Cães grandes: NO permitidos."
+          "rulePt": "Animais pequenos em transportadora fechada ≤6 kg: grátis. Cães grandes: NÃO permitidos."
         },
         {
           "mode": "Tram",
@@ -363,7 +363,7 @@
           "ruleEs": "Mascotas pequeñas en transportín ≤6kg: gratis. Perros grandes: permitidos con correa y bozal, se requiere billete.",
           "icon": "🚃",
           "modePt": "Elétrico",
-          "rulePt": "Animais pequenhas en transportadora ≤6kg: grátis. Cães grandes: permitidos com trela e bozal, se requiere bilhete."
+          "rulePt": "Animais pequenos em transportadora ≤6 kg: grátis. Cães grandes: permitidos com trela e açaime, é necessário bilhete."
         },
         {
           "mode": "Bus",
@@ -374,7 +374,7 @@
           "ruleEs": "Mascotas pequeñas en transportín: gratis. Perros grandes: permitidos con correa y bozal, se requiere billete.",
           "icon": "🚌",
           "modePt": "Autocarro",
-          "rulePt": "Animais pequenhas en transportadora: grátis. Cães grandes: permitidos com trela e bozal, se requiere bilhete."
+          "rulePt": "Animais pequenos em transportadora: grátis. Cães grandes: permitidos com trela e açaime, é necessário bilhete."
         },
         {
           "mode": "Vélo'v (Bike Share)",
@@ -384,8 +384,8 @@
           "ruleFr": "Non adapté aux chiens. Utilisez un vélo personnel avec panier ou remorque dédiée.",
           "ruleEs": "No apto para perros. Usa bicicleta privada con cesta o remolque específico.",
           "icon": "🚲",
-          "modePt": "Vélo'v (bicicletas compartidas)",
-          "rulePt": "No apto para cães. Usa bicicleta privada com cesta o remolque específico."
+          "modePt": "Vélo'v (bicicletas partilhadas)",
+          "rulePt": "Não adequado para cães. Use uma bicicleta própria com cesto ou reboque específico."
         }
       ],
       "tips": [
@@ -393,13 +393,13 @@
           "tipEn": "The Funicular (Ficelle) from Vieux-Lyon to Fourvière and Saint-Just accepts pets in carriers, a useful shortcut to the hill.",
           "tipFr": "Le funiculaire (ficelle) depuis le Vieux-Lyon vers Fourvière et Saint-Just accepte les animaux en sac, un raccourci utile pour la colline.",
           "tipEs": "El funicular (ficelle) desde Vieux-Lyon hasta Fourvière y Saint-Just acepta mascotas en transportín, un atajo útil hacia la colina.",
-          "tipPt": "O funicular (ficelle) a partir de Vieux-Lyon até Fourvière e Saint-Just aceita animais en transportadora, um atajo útil para a colina."
+          "tipPt": "O funicular (ficelle) de Vieux-Lyon até Fourvière e Saint-Just aceita animais em transportadora, um atalho útil para a colina."
         },
         {
           "tipEn": "For large dogs, Line 36 bus runs parallel to the Rhône and serves most of the quayside from Bellecour to Part-Dieu.",
           "tipFr": "Pour les grands chiens, le bus ligne 36 longe le Rhône et dessert la plupart des quais entre Bellecour et la Part-Dieu.",
           "tipEs": "Para perros grandes, el autobús línea 36 corre paralelo al Ródano y sirve la mayoría del muelle desde Bellecour hasta Part-Dieu.",
-          "tipPt": "Para cães grandes, o autocarro línea 36 corre paralelo al Ródano e sirve a mayoría do muelle a partir de Bellecour até Part-Dieu."
+          "tipPt": "Para cães grandes, o autocarro da linha 36 segue paralelo ao Ródano e serve a maior parte do cais, de Bellecour até Part-Dieu."
         }
       ],
       "titlePt": "Deslocar-se em Lyon com o Seu Animal de Estimação",
@@ -643,7 +643,7 @@
           "tip": "Book at least 48 hours in advance during high season. Filter by 'Repeat client reviews' for the most reliable sitters",
           "tipFr": "Réservez au moins 48 heures à l'avance en haute saison. Filtrez par 'Avis clients récurrents' pour les gardes les plus fiables",
           "tipEs": "Reserva con al menos 48 horas de antelación en temporada alta. Filtra por 'Reseñas de clientes repetidos' para los cuidadores más fiables",
-          "descriptionPt": "A principal plataforma de cuidado de animais en Francia, Rover.fr conecta aos duenhos de cães com cuidadores locales verificados en Lyon para visitas puntuales, passeios, guardería diurna e estadias nocturnas. A plataforma tem um sólido sistema de resenhas, cobertura de seguro e seguimiento GPS durante os passeios. Todos os cuidadores passam verificación de antecedentes. Para uma visita a a cidade onde quieres a flexibilidad de entrar en lugares que no permiten cães, reservar um cuidador de Rover durante umas horas da uma auténtica tranquilidad. A maioria dois cuidadores de Lyon responden rápidamente e muitos hablan inglês.",
+          "descriptionPt": "A principal plataforma de cuidado de animais em França, a Rover.fr liga os donos de cães a cuidadores locais verificados em Lyon para visitas pontuais, passeios, creche diurna e estadias durante a noite. A plataforma tem um sólido sistema de avaliações, cobertura de seguro e seguimento por GPS durante os passeios. Todos os cuidadores são sujeitos a verificação de antecedentes. Para uma visita à cidade em que quer a flexibilidade de entrar em locais que não permitem cães, reservar um cuidador da Rover por algumas horas dá uma autêntica tranquilidade. A maioria dos cuidadores de Lyon responde rapidamente e muitos falam inglês.",
           "priceRangePt": "15–35 € por hora segundo o serviço",
           "tipPt": "Reserva com al menos 48 horas de antelación en temporada alta. Filtra por 'Resenhas de clientes repetidos' para os cuidadores mais fiables"
         }

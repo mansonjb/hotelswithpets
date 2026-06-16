@@ -266,8 +266,8 @@
           "costFr": "Gratuit pour les petits animaux en transport",
           "costEs": "Gratis para mascotas pequeñas en transportín",
           "modePt": "Elétrico (Lignes d'Azur T1, T2)",
-          "rulePt": "Os cães pequenhos en transportadora (máx 6 kg) viajan grátis. Os cães de mais de 6 kg NO estão permitidos no elétrico sob ninguna circunstancia.",
-          "costPt": "Grátis para animais pequenhas en transportadora"
+          "rulePt": "Os cães pequenos em transportadora (máx. 6 kg) viajam gratuitamente. Os cães com mais de 6 kg NÃO são permitidos no elétrico em circunstância alguma.",
+          "costPt": "Grátis para animais pequenos em transportadora"
         },
         {
           "mode": "Bus (Lignes d'Azur)",
@@ -280,8 +280,8 @@
           "costFr": "Prix du titre standard (env. 1,70 €)",
           "costEs": "Precio del billete estándar (aprox. 1,70 €)",
           "modePt": "Autocarro (Lignes d'Azur)",
-          "rulePt": "Os cães pequenhos num transportadora cerrado estão permitidos. Os cães mais grandes deben levar bozal e trela e podem ser rechazados a discreción do conductor. Se requiere um bilhete de animal (mismo preço que um bilhete estándar).",
-          "costPt": "Preço do bilhete estándar (aprox. 1,70 €)"
+          "rulePt": "Os cães pequenos numa transportadora fechada são permitidos. Os cães maiores têm de usar açaime e trela e podem ser recusados ao critério do condutor. É exigido um bilhete de animal (mesmo preço que um bilhete normal).",
+          "costPt": "Preço do bilhete normal (cerca de 1,70 €)"
         },
         {
           "mode": "Taxi / Ride-hail",
@@ -294,8 +294,8 @@
           "costFr": "Compteur + possible supplément pour les grands animaux",
           "costEs": "Taxímetro + posible suplemento para mascotas grandes",
           "modePt": "Taxi / VTC",
-          "rulePt": "Os taxis estão obligados a aceitar cães guía. Para cães de companhia, a maioria de conductores aceitam cães pequenhos en transportadora; os cães mais grandes deben declararse al reservar. Usa a app de taxi Nice Côte d'Azur o reserva a través de tu hotel para conductores que acepten animales.",
-          "costPt": "Taxímetro + posible suplemento para animais grandes"
+          "rulePt": "Os táxis são obrigados a aceitar cães-guia. Para cães de companhia, a maioria dos condutores aceita cães pequenos em transportadora; os cães maiores devem ser declarados ao reservar. Use a aplicação de táxis Nice Côte d'Azur ou reserve através do seu hotel para encontrar condutores que aceitem animais.",
+          "costPt": "Taxímetro + possível suplemento para animais grandes"
         },
         {
           "mode": "Train (Nice-Ville station)",
@@ -308,8 +308,8 @@
           "costFr": "Forfait 7 € pour les petits animaux ; 50 % du tarif adulte pour les grands",
           "costEs": "7 € tarifa plana para mascotas pequeñas; 50% tarifa adulto para mascotas grandes",
           "modePt": "Comboio (estação Nice-Ville)",
-          "rulePt": "Se aplican as normas da SNCF. Os cães pequenhos en transportadora de menos de 6 kg viajan por uma tarifa plana de 7 €. Os cães de mais de 6 kg pagan o 50% da tarifa adulta e deben levar bozal e trela. Os comboios regionales da Costa Azul (TER) a Mónaco, Cannes e Antibes siguen as mismas normas.",
-          "costPt": "7 € tarifa plana para animais pequenhas; 50% tarifa adulto para animais grandes"
+          "rulePt": "Aplicam-se as regras da SNCF. Os cães pequenos em transportadora com menos de 6 kg viajam por uma tarifa fixa de 7 €. Os cães com mais de 6 kg pagam 50% da tarifa de adulto e têm de usar açaime e trela. Os comboios regionais da Costa Azul (TER) para o Mónaco, Cannes e Antibes seguem as mesmas regras.",
+          "costPt": "7 € de tarifa fixa para animais pequenos; 50% da tarifa de adulto para animais grandes"
         }
       ],
       "titlePt": "Deslocar-se em Nice com o seu animal",

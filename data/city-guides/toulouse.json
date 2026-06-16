@@ -219,7 +219,7 @@
           "policyFr": "Chiens INTERDITS sauf : (1) petits animaux portés sous le bras ou dans un panier/sac fermé tenant sous le siège, et (2) chiens guides et chiens d'assistance agréés. Amende en cas d'infraction : 150 €. Politique confirmée par Tisséo en 2025 suite à une consultation publique. Source : règlement officiel tisseo.fr.",
           "policyEs": "Perros PROHIBIDOS excepto: (1) animales pequeños llevados bajo el brazo o en una cesta/bolsa cerrada que quepa bajo el asiento, y (2) perros guía y de asistencia homologados para personas con discapacidad. Multa por infracción: 150 €. Política confirmada por Tisséo en 2025 tras consulta pública. Fuente: normativa oficial tisseo.fr.",
           "modePt": "Metro, Elétrico e Autocarro Tisséo",
-          "policyPt": "Cães PROHIBIDOS excepto: (1) animales pequenhos llevados sob o brazo o numa cesta/bolsa cerrada que quepa sob o asiento, e (2) cães guía e de asistencia homologados para personas com discapacidad. Multa por infração: 150 €. Política confirmada por Tisséo en 2025 tras consulta pública. Fuente: normativa oficial tisseo.fr."
+          "policyPt": "Cães PROIBIDOS exceto: (1) animais pequenos transportados debaixo do braço ou num cesto/saco fechado que caiba debaixo do banco, e (2) cães-guia e cães de assistência homologados para pessoas com deficiência. Multa por infração: 150 €. Política confirmada pela Tisséo em 2025 após consulta pública. Fonte: regulamento oficial tisseo.fr."
         },
         {
           "mode": "SNCF National Rail",
@@ -229,7 +229,7 @@
           "policyFr": "Petits chiens (jusqu'à 6 kg) dans un sac de transport : forfait 7,50 €. Chiens moyens et grands en laisse et avec muselière : 50% du tarif adulte 2e classe. Maximum 1 chien par passager. Chiens non autorisés dans les voitures restaurant des TGV.",
           "policyEs": "Perros pequeños (hasta 6 kg) en transportín: tarifa plana 7,50 €. Perros medianos y grandes con correa y bozal: 50% de la tarifa adulta de 2ª clase. Máximo 1 perro por pasajero. Perros no permitidos en los coches restaurante de los TGV.",
           "modePt": "SNCF Comboio nacional",
-          "policyPt": "Cães pequenhos (até 6 kg) en transportadora: tarifa plana 7,50 €. Cães medianos e grandes com trela e bozal: 50% da tarifa adulta de 2ª clase. Máximo 1 cão por pasajero. Cães no permitidos nos carros restaurante dois TGV."
+          "policyPt": "Cães pequenos (até 6 kg) em transportadora: tarifa fixa de 7,50 €. Cães de porte médio e grande com trela e açaime: 50% da tarifa de adulto de 2.ª classe. Máximo de 1 cão por passageiro. Cães não permitidos nas carruagens-restaurante dos TGV."
         }
       ],
       "sections": [
@@ -240,8 +240,8 @@
           "contentEn": "Tisséo's ban on dogs makes urban travel harder in Toulouse than in Paris or Bordeaux. Practical alternatives: taxis (most accept well-behaved dogs in the boot/back seat, confirm when booking), BlaBlaCar rideshare (driver discretion), and cycling (Toulouse has an excellent bikeshare system, Vélo Toulouse, and 700km of cycle paths where dogs on leads are permitted). Tisséo journey planner: tisseo.fr. SNCF trains to other cities: oui.sncf.",
           "contentFr": "L'interdiction des chiens par Tisséo rend les déplacements urbains plus difficiles à Toulouse qu'à Paris ou Bordeaux. Alternatives pratiques : taxis (la plupart acceptent les chiens bien tenus dans le coffre/sur la banquette arrière, confirmez à la réservation), covoiturage BlaBlaCar (à la discrétion du conducteur), vélo (Toulouse dispose d'un excellent système de vélopartage, Vélo Toulouse, et de 700 km de pistes cyclables où les chiens en laisse sont autorisés). Planificateur Tisséo : tisseo.fr. Trains SNCF : oui.sncf.",
           "contentEs": "La prohibición de perros de Tisséo hace que los desplazamientos urbanos sean más difíciles en Toulouse que en París o Burdeos. Alternativas prácticas: taxis (la mayoría aceptan perros bien portados en el maletero/asiento trasero, confirma al reservar), BlaBlaCar (a discreción del conductor), bicicleta (Toulouse tiene un excelente sistema de bicicletas compartidas,Vélo Toulouse, y 700 km de carriles bici donde se permiten perros con correa). Planificador Tisséo: tisseo.fr. Trenes SNCF: oui.sncf.",
-          "titlePt": "Consejos prácticos de transporte com cão",
-          "contentPt": "A prohibición de cães de Tisséo faz que os desplazamientos urbanos sean mais difíciles en Toulouse que en París o Burdeos. Alternativas prácticas: taxis (a mayoría aceitam cães bien portados no maletero/asiento trasero, confirma al reservar), BlaBlaCar (a discreción do conductor), bicicleta (Toulouse tem um excelente sistema de bicicletas compartidas,Vélo Toulouse, e 700 km de carriles bici onde se permiten cães com trela). Planificador Tisséo: tisseo.fr. Comboios SNCF: oui.sncf."
+          "titlePt": "Dicas práticas de transporte com cão",
+          "contentPt": "A proibição de cães da Tisséo torna as deslocações urbanas mais difíceis em Toulouse do que em Paris ou Bordéus. Alternativas práticas: táxis (a maioria aceita cães bem-comportados na mala ou no banco traseiro, confirme ao reservar), BlaBlaCar (ao critério do condutor) e bicicleta (Toulouse tem um excelente sistema de bicicletas partilhadas, o Vélo Toulouse, e 700 km de ciclovias onde os cães são permitidos com trela). Planeador de viagens Tisséo: tisseo.fr. Comboios SNCF: oui.sncf."
         }
       ],
       "faqsEn": [
@@ -305,8 +305,8 @@
         "nonEuPetsFr": "Certificat sanitaire du pays d'origine, puce ISO (11784/11785), vaccination antirabique valide. Les animaux américains nécessitent le formulaire APHIS 7001 avec visa consulaire.",
         "euPetsEs": "Pasaporte europeo válido + microchip + vacuna antirrábica al día. No se requieren pruebas adicionales para viajes entre estados miembros de la UE.",
         "nonEuPetsEs": "Certificado sanitario del país de origen, microchip ISO (11784/11785), vacuna antirrábica válida. Las mascotas estadounidenses necesitan el formulario APHIS 7001 con refrendo consular.",
-        "euPetsPt": "Passaporte europeu válido + microchip + vacuna antirrábica ao dia. No se requieren pruebas adicionales para viajes entre estados miembros da UE.",
-        "nonEuPetsPt": "Certificado sanitario do país de origen, microchip ISO (11784/11785), vacuna antirrábica válida. As animais estadounidenses necesitan o formulario APHIS 7001 com refrendo consular."
+        "euPetsPt": "Passaporte europeu para animais válido + microchip + vacina antirrábica em dia. Não são exigidos testes adicionais para viagens entre Estados-Membros da UE.",
+        "nonEuPetsPt": "Certificado sanitário do país de origem, microchip de norma ISO (11784/11785), vacina antirrábica válida e, em alguns casos, um teste de titulação de anticorpos antirrábicos. Os animais provenientes dos EUA necessitam do formulário APHIS 7001 com homologação. Verifique os requisitos da DGAL francesa antes de viajar."
       },
       "places": [
         {
@@ -374,8 +374,8 @@
           "contentEn": "Dogs must be on a lead in all public areas outside designated canisites. Fouling fines are actively enforced (typically €68 in Toulouse). The city has 4 official dog breed categories under French law, Category 1 (attack dogs) are banned; Category 2 (guard/defence dogs including American Staffordshire Terrier, Rottweiler, Tosa) require a permit, muzzle, and lead on all public land. Check current French breed legislation before travelling.",
           "contentFr": "Les chiens doivent être tenus en laisse dans tous les lieux publics en dehors des canisites désignés. Les amendes pour déjections sont activement appliquées (typiquement 68 € à Toulouse). La France a 4 catégories officielles de races de chiens, la Catégorie 1 (chiens d'attaque) est interdite ; la Catégorie 2 (chiens de garde/défense dont l'American Staffordshire Terrier, le Rottweiler, le Tosa) nécessite un permis, une muselière et une laisse dans tous les lieux publics.",
           "contentEs": "Los perros deben ir con correa en todos los espacios públicos fuera de los canisites designados. Las multas por excrementos se aplican activamente (normalmente 68 € en Toulouse). Francia tiene 4 categorías oficiales de razas de perros: la Categoría 1 (perros de ataque) está prohibida; la Categoría 2 (perros de guardia/defensa, incluidos American Staffordshire Terrier, Rottweiler, Tosa) requiere permiso, bozal y correa en todos los espacios públicos.",
-          "titlePt": "Normas para cães en Toulouse",
-          "contentPt": "Os cães deben ir com trela en todos os espacios públicos fora dois canisites designados. As multas por excrementos se aplican activamente (normalmente 68 € en Toulouse). Francia tem 4 categorías oficiais de razas de cães: a Categoría 1 (cães de ataque) está prohibida; a Categoría 2 (cães de guardia/defensa, incluidos American Staffordshire Terrier, Rottweiler, Tosa) requiere permiso, bozal e trela en todos os espacios públicos."
+          "titlePt": "Normas para cães em Toulouse",
+          "contentPt": "Os cães devem andar com trela em todos os espaços públicos fora dos canisites designados. As multas por dejetos são aplicadas de forma ativa (normalmente 68 € em Toulouse). França tem 4 categorias oficiais de raças de cães ao abrigo da lei francesa: a Categoria 1 (cães de ataque) está proibida; a Categoria 2 (cães de guarda/defesa, incluindo American Staffordshire Terrier, Rottweiler e Tosa) exige licença, açaime e trela em todos os espaços públicos. Verifique a legislação francesa atual sobre raças antes de viajar."
         }
       ],
       "places": [],

@@ -272,7 +272,7 @@
           "ruleEs": "Perros pequeños y gatos en transportín cerrado: gratis, permitidos en todo momento. Perros grandes: no permitidos.",
           "icon": "🚇",
           "modePt": "Metro (TMB)",
-          "rulePt": "Cães pequenhos e gatos en transportadora cerrado: grátis, permitidos en todo momento. Cães grandes: no permitidos."
+          "rulePt": "Cães pequenos e gatos numa transportadora fechada: grátis, permitidos a qualquer hora. Cães grandes: não permitidos."
         },
         {
           "mode": "Urban Bus (TMB)",
@@ -283,7 +283,7 @@
           "ruleEs": "Igual que el metro: mascotas pequeñas en transportín permitidas gratis. Perros grandes no permitidos en autobuses urbanos.",
           "icon": "🚌",
           "modePt": "Autocarro urbano (TMB)",
-          "rulePt": "Igual que o metro: animais pequenhas en transportadora permitidas grátis. Cães grandes no permitidos en autocarros urbanos."
+          "rulePt": "Tal como no metro: animais pequenos em transportadora permitidos gratuitamente. Cães grandes não permitidos nos autocarros urbanos."
         },
         {
           "mode": "Taxi / VTC",
@@ -294,7 +294,7 @@
           "ruleEs": "La mayoría de los taxis aceptan perros. Confirma siempre con el conductor antes de entrar. Cabify tiene una opción para mascotas dedicada en la app.",
           "icon": "🚕",
           "modePt": "Taxi / VTC",
-          "rulePt": "A maioria dois taxis aceitam cães. Confirma sempre com o conductor antes de entrar. Cabify tem uma opción para animais dedicada na app."
+          "rulePt": "A maioria dos táxis aceita cães. Confirme sempre com o motorista antes de entrar. A Cabify tem uma opção dedicada para animais na aplicação."
         },
         {
           "mode": "FGC Trains (Collserola / Montserrat)",
@@ -305,7 +305,7 @@
           "ruleEs": "Perros en transportín: gratis. Perros con correa (todos los tamaños): permitidos con título de transporte válido (mismo precio que un niño). Recomendado para llegar al parque de Collserola.",
           "icon": "🚆",
           "modePt": "Comboios FGC (Collserola / Montserrat)",
-          "rulePt": "Cães en transportadora: grátis. Cães com trela (todos os tamanhos): permitidos com título de transporte válido (mismo preço que um ninho). Recomendado para chegar al parque de Collserola."
+          "rulePt": "Cães em transportadora: grátis. Cães com trela (todos os tamanhos): permitidos com um título de transporte válido (o mesmo preço que o bilhete de criança). Recomendado para chegar ao parque de Collserola."
         },
         {
           "mode": "Funicular de Montjuïc",
@@ -316,7 +316,7 @@
           "ruleEs": "Los perros deben llevarse en brazos o en transportín. No se permiten perros grandes con correa.",
           "icon": "🚡",
           "modePt": "Funicular de Montjuïc",
-          "rulePt": "Os cães deben llevarse en brazos o en transportadora. No se permiten cães grandes com trela."
+          "rulePt": "Os cães têm de ser transportados ao colo ou numa transportadora. Não são permitidos cães grandes com trela."
         }
       ],
       "titlePt": "Deslocar-se por Barcelona com o seu animal",
@@ -558,7 +558,7 @@
           "descriptionFr": "La principale plateforme de garde d'animaux entre particuliers en Espagne, avec un large réseau de gardes vérifiés et de promeneurs de chiens dans les quartiers de Barcelone. Les services comprennent les visites ponctuelles, les promenades, la garderie de jour et l'hébergement chez le gardien. Tous les gardiens ont des avis vérifiés et sont couverts par l'assurance de Rover. La plateforme est disponible en espagnol et en anglais. La réservation se fait entièrement en ligne et les réservations de dernière minute sont souvent disponibles à Barcelone étant donné la densité de gardiens actifs.",
           "descriptionEs": "La principal plataforma de cuidado de mascotas entre particulares en España, con una amplia red de cuidadores verificados y paseadores de perros en los barrios de Barcelona. Los servicios incluyen visitas puntuales, paseos, guardería de día y alojamiento en casa del cuidador. Todos los cuidadores tienen reseñas verificadas y están cubiertos por el seguro de Rover. La plataforma está disponible en español e inglés. La reserva se hace completamente online y las reservas de última hora suelen estar disponibles en Barcelona dada la densidad de cuidadores activos.",
           "priceRange": "From €10–15 per walk, €20–40 per day for daycare",
-          "descriptionPt": "A principal plataforma de cuidado de animais entre particulares en Espanha, com uma amplia red de cuidadores verificados e paseadores de cães nos bairros de Barcelona. Os serviços incluem visitas puntuales, passeios, guardería de dia e alojamento en casa do cuidador. Todos os cuidadores têm resenhas verificadas e estão cubiertos pelo seguro de Rover. A plataforma está disponible en espanhol e inglês. A reserva se faz completamente online e as reservas de última hora costumam estar disponibles en Barcelona dada a densidad de cuidadores activos."
+          "descriptionPt": "A principal plataforma de cuidado de animais entre particulares em Espanha, com uma vasta rede de cuidadores verificados e passeadores de cães pelos bairros de Barcelona. Os serviços incluem visitas pontuais, passeios, creche de dia e alojamento em casa do cuidador. Todos os cuidadores têm avaliações verificadas e estão cobertos pelo seguro da Rover. A plataforma está disponível em espanhol e inglês. A reserva faz-se inteiramente online e as reservas de última hora costumam estar disponíveis em Barcelona, dada a densidade de cuidadores ativos."
         }
       ],
       "titlePt": "Cuidado de animais e passeio de cães em Barcelona",

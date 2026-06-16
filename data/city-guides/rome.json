@@ -391,8 +391,8 @@
           "tipFr": "Le métro romain n'a que 2 lignes (A et B). Les bus sont souvent plus pratiques pour accéder aux parcs comme la Villa Pamphilj.",
           "tipEs": "El metro de Roma solo tiene 2 líneas (A y B). Los autobuses suelen ser más prácticos para llegar a parques como la Villa Pamphilj.",
           "modePt": "Metro e Autocarro (ATAC)",
-          "policyPt": "Cães en transportadora de menos de 30×20×15 cm: grátis. Cães mais grandes: bilhete tarifa infantil obrigatório, bozal + trela obrigatórios. Máximo 1 cão por pasajero. Fuente: atac.roma.it",
-          "tipPt": "O metro de Roma só tem 2 líneas (A e B). Os autocarros costumam ser mais prácticos para chegar a parques como a Villa Pamphilj."
+          "policyPt": "Cães em transportador com menos de 30×20×15 cm: grátis. Cães maiores: bilhete de tarifa infantil obrigatório, açaime + trela obrigatórios. Máximo 1 cão por passageiro. Fonte: atac.roma.it",
+          "tipPt": "O metro de Roma tem apenas 2 linhas (A e B). Os autocarros costumam ser mais práticos para chegar a parques como a Villa Pamphilj."
         },
         {
           "mode": "Taxi / Cab",
@@ -405,8 +405,8 @@
           "tipFr": "Appelez un taxi plutôt que d'en héler un, appelez le 06 4994 ou utilisez l'appli itTaxi. Mentionnez que vous avez un chien en réservant.",
           "tipEs": "Llama a un taxi en lugar de pararlo, llama al 06 4994 o usa la app itTaxi. Menciona que llevas un perro al reservar.",
           "modePt": "Taxi",
-          "policyPt": "Os taxis oficiais de Roma (cabinas blancas, com taxímetro) generalmente aceitam cães, especialmente os pequenhos en transportadora. Os conductores podem rechazar cães grandes ao seu discreción. No hay recargo oficial por animales.",
-          "tipPt": "Liga a um taxi en lugar de pararlo, liga al 06 4994 o usa a app itTaxi. Menciona que llevas um cão al reservar."
+          "policyPt": "Os táxis oficiais de Roma (carros brancos, com taxímetro) geralmente aceitam cães, especialmente os pequenos em transportador. Os motoristas podem recusar cães grandes ao seu critério. Não há sobretaxa oficial para animais.",
+          "tipPt": "Chame um táxi em vez de o mandar parar na rua, ligue para o 06 4994 ou utilize a aplicação itTaxi. Indique que leva um cão ao reservar."
         },
         {
           "mode": "Frecciarossa & Frecciargento (Trenitalia)",
@@ -419,8 +419,8 @@
           "tipFr": "Vérifiez sur Trenitalia.com avant de voyager. Les règles sont appliquées et il n'y a pas de contournement pour les grands chiens sur les trains à grande vitesse.",
           "tipEs": "Consulta Trenitalia.com antes de viajar. Las normas se aplican y no hay alternativa para perros grandes en los trenes de alta velocidad.",
           "modePt": "Frecciarossa e Frecciargento (Trenitalia)",
-          "policyPt": "Cães pequenhos en transportadora (máx 10 kg incluido o transportadora): grátis. Cães de mais de 10 kg: NO permitidos en comboios Frecciarossa o Frecciargento. Usar comboios regionales (Regionale) en o seu lugar.",
-          "tipPt": "Consulta Trenitalia.com antes de viajar. As normas se aplican e no hay alternativa para cães grandes nos comboios de alta velocidad."
+          "policyPt": "Cães pequenos em transportador (máx 10 kg incluindo o transportador): grátis. Cães com mais de 10 kg: NÃO permitidos nos comboios Frecciarossa ou Frecciargento. Em alternativa, utilize os comboios regionais (Regionale).",
+          "tipPt": "Consulte Trenitalia.com antes de viajar. As regras são aplicadas e não há alternativa para cães grandes nos comboios de alta velocidade."
         },
         {
           "mode": "Regional Trains (Trenitalia Regionale)",
@@ -432,9 +432,9 @@
           "tip": "Regional trains to Ostia Lido (for dog-friendly beaches) depart from Roma Porta San Paolo. Journey: 30 minutes.",
           "tipFr": "Les trains régionaux pour Ostia Lido (plages dog-friendly) partent de Roma Porta San Paolo. Trajet : 30 minutes.",
           "tipEs": "Los trenes regionales a Ostia Lido (playas para perros) parten de Roma Porta San Paolo. Trayecto: 30 minutos.",
-          "modePt": "Comboios regionales (Trenitalia Regionale)",
-          "policyPt": "Cães pequenhos en transportadora: grátis. Cães grandes: bozal + trela obrigatórios + bilhete a mitad de preço. Os cães no podem ocupar asientos. Control generalmente mais relajado que nos serviços de alta velocidad.",
-          "tipPt": "Os comboios regionales a Ostia Lido (praias para cães) parten de Roma Porta San Paolo. Trayecto: 30 minutos."
+          "modePt": "Comboios regionais (Trenitalia Regionale)",
+          "policyPt": "Cães pequenos em transportador: grátis. Cães grandes: açaime + trela obrigatórios + bilhete a metade do preço. Os cães não podem ocupar bancos. Fiscalização geralmente mais relaxada do que nos serviços de alta velocidade.",
+          "tipPt": "Os comboios regionais para Ostia Lido (praias para cães) partem de Roma Porta San Paolo. Trajeto: 30 minutos."
         }
       ],
       "sections": [
@@ -445,8 +445,8 @@
           "contentEn": "ATAC official site: atac.roma.it, Rome bus and metro routes, tickets, and real-time information. Trenitalia: trenitalia.com, intercity and regional trains, pet travel information. itTaxi app: book official Rome taxis in advance and specify that you are travelling with a dog.",
           "contentFr": "Site officiel ATAC : atac.roma.it, lignes de bus et de métro de Rome, billets et informations en temps réel. Trenitalia : trenitalia.com, trains intercités et régionaux, informations sur le voyage avec animaux. Application itTaxi : réservez les taxis officiels romains à l'avance en précisant que vous voyagez avec un chien.",
           "contentEs": "Sitio oficial de ATAC: atac.roma.it, rutas de autobús y metro de Roma, billetes e información en tiempo real. Trenitalia: trenitalia.com, trenes interurbanos y regionales, información sobre viaje con mascotas. App itTaxi: reserva taxis oficiales de Roma con antelación y especifica que viajas con un perro.",
-          "titlePt": "Enlaces de transporte útiles",
-          "contentPt": "Sitio oficial de ATAC: atac.roma.it, rutas de autocarro e metro de Roma, bilhetes e informação en tempo real. Trenitalia: trenitalia.com, comboios interurbanos e regionales, informação sobre viaje com animais. App itTaxi: reserva taxis oficiais de Roma com antelación e especifica que viajas com um cão."
+          "titlePt": "Ligações de transporte úteis",
+          "contentPt": "Site oficial da ATAC: atac.roma.it, percursos de autocarro e metro de Roma, bilhetes e informação em tempo real. Trenitalia: trenitalia.com, comboios interurbanos e regionais, informação sobre viagens com animais. Aplicação itTaxi: reserve táxis oficiais de Roma com antecedência e especifique que viaja com um cão."
         }
       ],
       "faqsEn": [

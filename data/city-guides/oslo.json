@@ -332,8 +332,8 @@
           "tipEs": "Combina con un paseo por los senderos forestales de Bygdøy después de nadar, perros con correa por la zona de los museos",
           "googleMapsUrl": "https://maps.google.com/?q=Huk+Beach+Bygd%C3%B8y+Oslo",
           "descriptionPt": "Huk é a mais acessível das praias de Oslo, localizada na península de Bygdøy a 20 minutos do centro da cidade de autocarro ou ferry. A praia divide-se em duas secções, a secção ocidental tem uma zona designada onde os cães são permitidos. É uma praia genuinamente agradável, com boas infraestruturas, água límpida do Oslofjord e o bónus de um curto passeio até aos caminhos arborizados da própria Bygdøy. Chegue de ferry da Ruter a partir de Aker Brygge (linha 91) ou de autocarro 30 até Bygdøynes.",
-          "dogRulePt": "",
-          "accessPt": "",
+          "dogRulePt": "Cães permitidos na zona ocidental designada",
+          "accessPt": "Ferry da Ruter linha 91 a partir de Aker Brygge, ou autocarro 30 até Bygdøynes",
           "tipPt": "Combine com um passeio pelos trilhos florestais de Bygdøy após o banho, cães com trela na zona dos museus"
         },
         {
@@ -355,8 +355,8 @@
           "tipEs": "Visita entre semana, Ingierstrand es muy popular los fines de semana soleados de verano con las familias de Oslo",
           "googleMapsUrl": "https://maps.google.com/?q=Ingierstrand+Oppeg%C3%A5rd",
           "descriptionPt": "Ingierstrand é uma histórica estância balnear dos anos 1930 a sul de Oslo, com uma bela estrutura de piscina exterior em estilo art déco, um café e uma longa praia ao longo do Oslofjord. Há secções dog-friendly da praia e a zona de parque envolvente recebe cães com trela. O cenário é genuinamente belo, vastas vistas para o fiorde, pinheiros que descem até à água e uma atmosfera descontraída que parece afastada da cidade. Exige carro ou uma viagem de autocarro de 40 minutos a partir do centro de Oslo, mas recompensa o esforço.",
-          "dogRulePt": "",
-          "accessPt": "",
+          "dogRulePt": "Cães permitidos nas zonas de praia designadas; com trela na área do parque",
+          "accessPt": "Autocarro 510 a partir da estação de T-bane de Kolbotn, ou de carro pela E18 para sul",
           "tipPt": "Visite num dia útil, Ingierstrand é muito popular nos fins de semana solarengos de verão junto das famílias de Oslo"
         },
         {
@@ -378,8 +378,8 @@
           "tipEs": "Pasea por la tarde en verano para la mejor luz sobre el fiordo y menos tráfico peatonal",
           "googleMapsUrl": "https://maps.google.com/?q=Oslo+Waterfront+Promenade+Aker+Brygge",
           "descriptionPt": "A frente portuária interior de Oslo foi transformada nas últimas duas décadas num passeio ribeirinho contínuo que se estende de Aker Brygge, passando pela Ópera, até Sørenga. Os cães com trela são permitidos ao longo de todo este percurso, que cobre cerca de 4 quilómetros de passeio junto ao fiorde, com vistas para a Fortaleza de Akershus, a Ópera e as ilhas do Oslofjord. O extremo de Sørenga tem uma popular piscina exterior de água do mar (Sørenga Sjøbad), onde os cães não são permitidos na zona da piscina, mas podem percorrer o passadiço envolvente.",
-          "dogRulePt": "",
-          "accessPt": "",
+          "dogRulePt": "Cães com trela em todo o passeio marítimo; não permitidos na zona da piscina de Sørenga",
+          "accessPt": "A pé a partir de Aker Brygge para leste, ou elétrico 12 até Bjørvika",
           "tipPt": "Passeie ao fim da tarde no verão para a melhor luz sobre o fiorde e o menor movimento de peões"
         }
       ],
@@ -409,7 +409,7 @@
           "googleMapsUrl": "https://maps.google.com/?q=AniCura+Oslo+Dyresykehus",
           "photo": "/images/city-places/oslo-vets-anicura-oslo-dyresykehus.jpg",
           "hoursPt": "24 horas, 7 dias por semana",
-          "descriptionPt": ""
+          "descriptionPt": "Um dos principais hospitais veterinários 24 horas de Oslo, o AniCura Oslo Dyresykehus fica no centro da cidade e trata de tudo, desde traumatismos de urgência a consultas da especialidade. Dispõe de capacidade completa de imagiologia de diagnóstico, cirurgia e cuidados intensivos. Há pessoal que fala inglês."
         },
         {
           "name": "Evidensia Dyresykehus Oslo",
@@ -426,7 +426,7 @@
           "googleMapsUrl": "https://maps.google.com/?q=Evidensia+Dyresykehus+Oslo+Nydalen",
           "photo": "/images/city-places/oslo-vets-evidensia-dyresykehus-oslo.jpg",
           "hoursPt": "24 horas, 7 dias por semana",
-          "descriptionPt": ""
+          "descriptionPt": "O hospital da Evidensia em Oslo é um hospital veterinário com serviço completo que oferece cuidados de urgência 24 horas, departamentos de especialidade incluindo ortopedia, oncologia e cardiologia, e consultas de rotina. Situado no bairro de Nydalen, acessível pela linha 4/5 do T-bane até à estação de Nydalen."
         }
       ],
       "titlePt": "Veterinários de Urgência em Oslo, Clínicas Veterinárias e Cuidados para Animais",
@@ -471,8 +471,8 @@
           "petPolicyFr": "Chiens en laisse admis partout ; entrée gratuite",
           "petPolicyEs": "Perros con correa permitidos en todo el parque; entrada gratuita",
           "googleMapsUrl": "https://maps.google.com/?q=Vigeland+Sculpture+Park+Oslo",
-          "descriptionPt": "",
-          "petPolicyPt": ""
+          "descriptionPt": "O maior parque de esculturas do mundo criado por um único artista, o Vigeland contém 212 obras em bronze, granito e ferro fundido dispostas pelos 46 hectares do Parque de Frogner. A entrada é gratuita. Os cães são permitidos em todo o parque com trela curta. O parque é belo em todas as estações, figuras de bronze cobertas de neve no inverno, cerejeiras em flor na primavera, longas noites de verão com o Monólito a captar a última luz. Uma das grandes experiências gratuitas ao ar livre da Europa, tornada melhor por ter um cão consigo.",
+          "petPolicyPt": "Cães com trela permitidos em todo o parque; entrada gratuita"
         },
         {
           "name": "Holmenkollen Ski Jump – Exterior",
@@ -486,8 +486,8 @@
           "petPolicyFr": "Chiens en laisse bienvenus dans les jardins extérieurs ; musée et tour non autorisés",
           "petPolicyEs": "Perros con correa bienvenidos en los terrenos exteriores; museo y torre no permitidos",
           "googleMapsUrl": "https://maps.google.com/?q=Holmenkollen+Ski+Jump+Oslo",
-          "descriptionPt": "",
-          "petPolicyPt": ""
+          "descriptionPt": "O trampolim de saltos de esqui de Holmenkollen é um dos marcos mais reconhecíveis de Oslo, visível de toda a cidade e impressionante de perto. Os cães são bem-vindos nos terrenos exteriores e na encosta circundante. O museu interior e a plataforma de observação da torre do trampolim não permitem cães, mas a subida a pé pela encosta arborizada até à base do trampolim é cénica e vale a pena por si só. A zona liga-se às redes de trilhos de Nordmarka, o que permite combinar uma visita a Holmenkollen com um passeio completo pela floresta.",
+          "petPolicyPt": "Cães com trela bem-vindos nos terrenos exteriores; museu e torre não permitidos"
         },
         {
           "name": "Bygdøy Peninsula Walk",
@@ -501,8 +501,8 @@
           "petPolicyFr": "Chiens en laisse bienvenus sur les sentiers et plages de la péninsule ; non admis dans les musées",
           "petPolicyEs": "Perros con correa bienvenidos en los senderos y playas de la península; no permitidos en ningún museo",
           "googleMapsUrl": "https://maps.google.com/?q=Bygd%C3%B8y+Peninsula+Oslo",
-          "descriptionPt": "",
-          "petPolicyPt": ""
+          "descriptionPt": "Bygdøy é uma península verde a oeste do centro da cidade que combina o principal núcleo de museus nacionais de Oslo com caminhos arborizados, praias e vistas sobre o fiorde. Os cães não são permitidos no interior de nenhum dos museus (Museu dos Barcos Viking, Museu Fram, Museu Marítimo Norueguês, Museu do Folclore), mas a própria península ao ar livre aceita totalmente cães. A volta a pé pela península demora cerca de 90 minutos a um ritmo tranquilo e atravessa floresta mista, parque aberto, a praia de Huk e os picadeiros da Quinta Real. Chega-se lá de ferry da Ruter a partir de Aker Brygge.",
+          "petPolicyPt": "Cães com trela bem-vindos nos caminhos e praias da península; não permitidos em nenhum museu"
         }
       ],
       "titlePt": "Atrações Dog-Friendly em Oslo",

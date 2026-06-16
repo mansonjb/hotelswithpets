@@ -346,7 +346,7 @@
           "googleMapsUrl": "https://maps.google.com/?q=Torre+del+Oro+Sevilla",
           "namePt": "Promenade ribeirinha do Guadalquivir",
           "typePt": "Promenade fluvial",
-          "descriptionPt": "",
+          "descriptionPt": "O Guadalquivir é o rio de Sevilha e o seu espaço público mais importante depois da catedral. Ambas as margens têm passeios pedonais: do lado da cidade, o Paseo de Cristóbal Colón segue para sul a partir da Puente de Triana, passando pela Torre del Oro e pela praça de touros; do lado de Triana, o Paseo de la O acompanha-o com um ambiente mais de bairro. Os cães com trela são bem-vindos em toda a extensão de ambas as margens. De manhã cedo e ao fim da tarde, estes caminhos enchem-se de gente local a passear os cães. O troço da Torre del Oro é um dos pontos mais fotografados de Sevilha, e percorrê-lo com o seu cão à hora dourada é genuinamente memorável.",
           "petFriendlyPt": "Acolhe plenamente cães com trela",
           "distanceFromCentrePt": "No centro da cidade",
           "tipPt": "Faça toda a volta: atravesse a Puente de Triana, siga para sul ao longo da margem de Triana, volte a atravessar pela Puente de Isabel II e regresse pela margem da cidade, passando pela Torre del Oro, cerca de 4 km"
@@ -370,7 +370,7 @@
           "tipEs": "Baja un martes o miércoles en primavera u otoño. Cádiz está muy tranquila entre semana y la playa es prácticamente tuya",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+de+la+Victoria+Cadiz",
           "typePt": "Praia atlântica (excursão de um dia)",
-          "descriptionPt": "",
+          "descriptionPt": "Cádis é a cidade mais antiga de Espanha e situa-se numa estreita península que avança para o Atlântico, a cerca de 125 quilómetros a sudoeste de Sevilha (aproximadamente 1,5 horas de carro pela A-4/AP-4). A Playa de la Victoria é a principal praia urbana, um longo areal atlântico bem cuidado com ondulação fiável. Os cães são permitidos numa zona designada da praia fora da época balnear (oficialmente de outubro a maio), e algumas zonas aceitam cães durante todo o ano. Cádis merece um dia inteiro: a cidade velha, o mercado de marisco e a frente marítima fazem uma viagem longa e gratificante com o seu cão.",
           "petFriendlyPt": "Cães permitidos na secção designada fora da época balnear; algumas zonas durante todo o ano",
           "distanceFromCentrePt": "~125 km a sudoeste (cerca de 1h30 de carro)",
           "tipPt": "Vá de carro numa terça ou quarta-feira na primavera ou no outono. Cádis é muito sossegada a meio da semana e a praia é praticamente só sua"
@@ -394,7 +394,7 @@
           "tipEs": "Combina con un paseo por el pinar de Doñana a la vuelta. La carretera A-494 por la reserva es espectacular y los perros pueden detenerse en las zonas de bosque al borde de la carretera",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+Matalascanas+Huelva",
           "typePt": "Praia atlântica / reserva natural (excursão de um dia)",
-          "descriptionPt": "",
+          "descriptionPt": "Matalascañas é uma vila balnear na costa atlântica da província de Huelva, a cerca de 90 quilómetros a sul de Sevilha (aproximadamente 1 a 1,5 horas de carro). Fica no limite sul do Parque Nacional de Doñana, uma das mais importantes reservas de vida selvagem da Europa. A própria praia é larga e de um Atlântico bravio, longos areais ladeados por dunas e pinhal. Os cães são permitidos na praia nas horas de menor afluência fora do verão, e os caminhos do pinhal junto à praia permitem cães com trela durante todo o ano. O percurso pela zona natural de Doñana à ida é, por si só, um dos passeios de carro mais cénicos da Andaluzia.",
           "petFriendlyPt": "Cães na praia fora das horas de pico e fora do verão; caminhos do pinhal durante todo o ano com trela",
           "distanceFromCentrePt": "~90 km a sul (cerca de 1h a 1h30 de carro)",
           "tipPt": "Combine com um passeio no pinhal de Doñana no regresso. A estrada A-494 que atravessa a reserva é espetacular e os cães podem parar nas zonas florestais à beira da estrada"
@@ -428,7 +428,7 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+24h+Sevilla+Calle+Asuncion",
           "photo": "/images/city-places/seville-vets-clinica-veterinaria-24h-sevilla.jpg",
           "hoursPt": "24 horas, 365 dias",
-          "descriptionPt": "",
+          "descriptionPt": "Uma das principais clínicas veterinárias de urgência 24 horas de Sevilha, situada no bairro de Nervión. A clínica trata de consultas de urgência, cirurgia, internamento e imagiologia de diagnóstico. Está bem equipada e dotada de pessoal para traumatismos graves, bem como para emergências médicas. Situada na principal Calle Asunción, é acessível de carro a partir da maior parte da cidade em 15 minutos.",
           "servicesPt": "Consultas de urgência, cirurgia, internamento, raio-X, ecografia"
         },
         {
@@ -448,7 +448,7 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Sevilla+Sur",
           "photo": "/images/city-places/seville-vets-hospital-veterinario-sevilla-sur.jpg",
           "hoursPt": "24 horas, 365 dias",
-          "descriptionPt": "",
+          "descriptionPt": "Um hospital veterinário completo no sul de Sevilha a funcionar a toda a hora. O Hospital Veterinario Sevilla Sur está equipado com salas de operações, cuidados intensivos e uma gama completa de equipamento de diagnóstico, incluindo ressonância magnética. Trata tanto de casos de urgência como de procedimentos planeados, o que o torna uma das instalações mais bem equipadas da Andaluzia. Se o seu animal precisar de cuidados sérios da especialidade, esta é a primeira chamada a fazer.",
           "servicesPt": "Cuidados de urgência e programados, cirurgia, UCI, ressonância magnética, consultas de especialidade"
         }
       ],
@@ -500,9 +500,9 @@
           "tipFr": "Arrivez à 8h en été ou 9h au printemps. Dès 10h30, les groupes de touristes envahissent les alcôves et l'atmosphère change complètement",
           "tipEs": "Llega a las 08:00 en verano o a las 09:00 en primavera. A las 10:30 los grupos turísticos llenan las alcobes y la atmósfera cambia completamente",
           "googleMapsUrl": "https://maps.google.com/?q=Plaza+de+Espana+Sevilla",
-          "descriptionPt": "",
+          "descriptionPt": "A Plaza de España é uma das praças públicas mais espetaculares da Europa, um amplo palácio semicircular construído para a Exposição Ibero-Americana de 1929, com um canal de 500 metros, alcovas de azulejo ornamentadas para cada província espanhola e pontes sobre o fosso. Os cães com trela são bem-vindos em todo o exterior. O passeio junto ao canal é particularmente impressionante de manhã cedo, quando a luz é dourada e as multidões ainda não chegaram. Conte com pelo menos uma hora para percorrer todo o perímetro.",
           "petPolicyPt": "Cães com trela bem-vindos em todo o exterior",
-          "admissionPt": "",
+          "admissionPt": "Gratuito",
           "tipPt": "Chegue às 08:00 no verão ou às 09:00 na primavera. Pelas 10:30 os grupos de turistas enchem os recantos e o ambiente muda por completo"
         },
         {
@@ -523,9 +523,9 @@
           "tipFr": "Venez au coucher du soleil, la lumière dorée sur la tour et les reflets dans le Guadalquivir sont extraordinaires, et la foule du soir est un mélange agréable de locaux et de visiteurs",
           "tipEs": "Ven al atardecer, la luz dorada sobre la torre y los reflejos en el Guadalquivir son extraordinarios, y el gentío nocturno es una mezcla agradable de vecinos y visitantes",
           "googleMapsUrl": "https://maps.google.com/?q=Torre+del+Oro+Sevilla",
-          "descriptionPt": "",
+          "descriptionPt": "A Torre del Oro, a torre de vigia almóada do século XIII na margem do Guadalquivir, é a imagem mais emblemática de Sevilha depois da Giralda. O interior da torre é um pequeno museu marítimo e não admite cães, mas o passeio ribeirinho que a rodeia está totalmente aberto e vale inteiramente a pena. O Paseo de Cristóbal Colón estende-se para norte e para sul a partir da torre, com vistas sobre o rio para Triana e, em dias limpos, consegue ver-se a Sierra Norte ao longe. Esta é a Sevilha mais cinematograficamente bela, e não custa nada.",
           "petPolicyPt": "Cães com trela bem-vindos no passeio ribeirinho; o interior da torre não admite cães",
-          "admissionPt": "",
+          "admissionPt": "Gratuito (passeio ribeirinho)",
           "tipPt": "Passeie por aqui ao pôr do sol, a luz dourada sobre a torre e os reflexos no Guadalquivir são extraordinários, e a multidão da noite é uma agradável mistura de locais e visitantes"
         },
         {
@@ -546,9 +546,9 @@
           "tipFr": "Parcourez la Calle Betis sur la rive de Triana au crépuscule, la vue sur la cathédrale et la Giralda depuis cette rue est considérée comme l'une des meilleures de Séville et elle est complètement en dehors des circuits touristiques principaux",
           "tipEs": "Recorre la Calle Betis en la orilla de Triana al anochecer, la vista de la catedral y la Giralda desde esta calle se considera una de las mejores de Sevilla y está completamente fuera de las rutas turísticas principales",
           "googleMapsUrl": "https://maps.google.com/?q=Puente+de+Triana+Sevilla",
-          "descriptionPt": "",
+          "descriptionPt": "Atravessar a Puente de Triana (oficialmente a Puente de Isabel II) e passar uma hora no bairro de Triana é uma das grandes experiências gratuitas de Sevilha. A própria ponte oferece vistas soberbas da Torre del Oro e da linha do horizonte da cidade. Do lado de Triana, o mercado coberto (Mercado de Triana) não admite cães, mas as ruas em redor, a Calle San Jacinto, a Calle Pureza, a ribeirinha Calle Betis, são algumas das mais cheias de atmosfera da cidade, e os cães sentem-se totalmente em casa neste bairro tradicional e popular. Triana é também onde se concentram as melhores lojas de cerâmica de azulejo.",
           "petPolicyPt": "Cães com trela bem-vindos em todas as ruas do bairro e na ponte",
-          "admissionPt": "",
+          "admissionPt": "Gratuito",
           "tipPt": "Percorra a rua Betis (Calle Betis), na margem de Triana, ao anoitecer, a vista da catedral e da torre Giralda a partir desta rua é considerada uma das melhores de Sevilha e fica completamente fora dos principais circuitos turísticos"
         }
       ],

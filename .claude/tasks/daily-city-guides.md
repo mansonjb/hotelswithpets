@@ -78,15 +78,15 @@ Create `data/city-guides/{slug}.json` matching amsterdam.json structure exactly,
 
 All 12 months of weather required — use climate averages from reliable sources (Meteoblue, Weatherspark).
 
-### Step 6 — Download the hero image
+### Step 6 — Download the hero image (via Apify, NOT Google)
 
-Edit `scripts/fetch-destination-photos.mjs` to add your new city to the `TARGETS` array with a landmark query:
+Photos now come from the Apify Google Places crawler (~$0.0015/place) instead of the Google Places Photo API (~$0.04/photo). The Apify scripts read the destination from `data/destinations.json` directly, so no TARGETS array to edit.
 
-```js
-{ slug: 'new-city', query: 'Iconic Landmark New City' },
+```
+node scripts/fetch-destination-photos-apify.mjs --slug=new-city
 ```
 
-Then run: `node scripts/fetch-destination-photos.mjs` — it will skip existing and download only new.
+It skips existing heros and downloads only what is missing. Requires `APIFY_TOKEN` in `.env.local`. The legacy `scripts/fetch-destination-photos.mjs` (Google) is kept only as a fallback — do NOT use it routinely; it is the source of the Google Cloud bill.
 
 ### Step 7 — Add destContextByLocale entries (4 languages: EN/FR/ES/PT)
 
@@ -151,12 +151,19 @@ Mix price points: 1 luxury + 2–3 mid-range + 1–2 budget.
 
 **Verify every hotel's pet policy via web search before adding.** If you cannot verify pets are allowed, DO NOT include the hotel.
 
-### Step 10 — Download hotel + place photos
+### Step 10 — Download hotel + place photos (via Apify, NOT Google)
 
 ```bash
-node scripts/fetch-hotel-photos-google.mjs           # new hotels auto-detected
-node scripts/fetch-city-guide-photos.mjs --city=slug  # all places for this city
+node scripts/fetch-city-place-photos-apify.mjs --city=slug   # all missing places for this city
 ```
+
+For hotel photos near a city, use the Apify discovery fetcher (writes a review manifest, does not touch hotels.json):
+
+```bash
+node scripts/fetch-hotels-apify.mjs slug    # discover pet-friendly hotels + photos near the city
+```
+
+The legacy Google scripts (`fetch-hotel-photos-google.mjs`, `fetch-city-guide-photos.mjs`, `fetch-destination-photos.mjs`) are kept as fallback only — they bill the Google Cloud account at ~$0.04/photo and must NOT be used routinely. Apify is ~13x cheaper.
 
 ### Step 11 — Validate & audit
 
@@ -242,9 +249,10 @@ Remaining warnings: {list}
 
 ## 5. KEY SCRIPTS (use these, don't reinvent)
 
-- `scripts/fetch-destination-photos.mjs` — hero image per city
-- `scripts/fetch-hotel-photos-google.mjs` — hotel photos (auto-detects new entries)
-- `scripts/fetch-city-guide-photos.mjs [--city=slug]` — place photos for each venue
+- `scripts/fetch-destination-photos-apify.mjs [--slug=x]` — hero image per city (Apify, cheap) ← USE THIS
+- `scripts/fetch-city-place-photos-apify.mjs [--city=slug]` — fills missing place photos (Apify, cheap) ← USE THIS
+- `scripts/fetch-hotels-apify.mjs <slug>` — discover pet-friendly hotels + photos near a city (Apify)
+- `scripts/fetch-destination-photos.mjs` / `fetch-hotel-photos-google.mjs` / `fetch-city-guide-photos.mjs` — LEGACY Google (expensive, fallback only)
 - `scripts/audit-destinations.mjs` — full parity audit, 0 errors = shippable
 - `scripts/check-i18n.mjs` — pre-build i18n validation
 

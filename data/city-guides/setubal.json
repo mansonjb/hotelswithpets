@@ -19,7 +19,7 @@
           "name": "Casa Santiago - Rei do Choco Frito",
           "address": "Avenida Luísa Todi 92, 2900-461 Setúbal",
           "neighborhood": "Avenida Luísa Todi",
-          "photo": "/images/city-places/setubal-restaurants-casa-santiago.jpg",
+          "photo": "/images/city-places/setubal-restaurants-casa-santiago-rei-do-choco-frito.jpg",
           "website": "https://www.facebook.com/casasantiago.reidochocofrito",
           "description": "The undisputed temple of Setúbal's signature dish, choco frito (deep-fried cuttlefish), with a long pavement terrace on the Avenida Luísa Todi opposite the marina. The fried squid platters come with rice, salad and beer; leashed dogs are welcome at every outdoor table year-round.",
           "descriptionFr": "Le temple incontesté du plat signature de Setúbal, le choco frito (seiche frite), avec une longue terrasse de trottoir sur l'Avenida Luísa Todi en face de la marina. Les plateaux de calamars frits arrivent avec riz, salade et bière ; les chiens en laisse sont bienvenus à chaque table extérieure toute l'année.",
@@ -71,7 +71,7 @@
           "name": "O Miguel - Marisqueira",
           "address": "Avenida Luísa Todi 624, 2900-461 Setúbal",
           "neighborhood": "Avenida Luísa Todi",
-          "photo": "/images/city-places/setubal-restaurants-o-miguel.jpg",
+          "photo": "/images/city-places/setubal-restaurants-o-miguel-marisqueira.jpg",
           "website": "https://www.facebook.com/restauranteomiguel",
           "description": "A classic Setúbal marisqueira on the Avenida Luísa Todi with a long pavement terrace facing the marina, serving Sado clams, tiger prawns, percebes and grilled fish. The outdoor tables welcome leashed dogs year-round and the kitchen runs late, useful after a Sado dolphin-watching trip.",
           "descriptionFr": "Marisqueira classique de Setúbal sur l'Avenida Luísa Todi avec une longue terrasse de trottoir face à la marina, servant palourdes du Sado, gambas tigrées, percebes et poisson grillé. Les tables extérieures accueillent les chiens en laisse toute l'année et la cuisine tourne tard, utile après une sortie observation des dauphins du Sado.",
@@ -115,24 +115,60 @@
         "As esplanadas da Avenida Luísa Todi viram-se para a marina e apanham a brisa do estuário à tarde; chegue antes das 19:30 para o pôr-do-sol sobre o Sado."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside Setúbal restaurants?", "a": "Leashed dogs are welcome on virtually every pavement terrace in the historic centre. Air-conditioned indoor rooms in July-August often prefer dogs outside; ask at the door."},
-        {"q": "Do restaurants provide water bowls?", "a": "Most terraces bring a bowl unprompted; otherwise asking for água para o cão always works."},
-        {"q": "Where is the best evening spot with a sea view?", "a": "The Avenida Luísa Todi terraces face the marina and the Sado estuary; choco frito at Casa Santiago plus a Moscatel sunset is the local ritual."}
+        {
+          "q": "Are dogs allowed inside Setúbal restaurants?",
+          "a": "Leashed dogs are welcome on virtually every pavement terrace in the historic centre. Air-conditioned indoor rooms in July-August often prefer dogs outside; ask at the door."
+        },
+        {
+          "q": "Do restaurants provide water bowls?",
+          "a": "Most terraces bring a bowl unprompted; otherwise asking for água para o cão always works."
+        },
+        {
+          "q": "Where is the best evening spot with a sea view?",
+          "a": "The Avenida Luísa Todi terraces face the marina and the Sado estuary; choco frito at Casa Santiago plus a Moscatel sunset is the local ritual."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Setúbal ?", "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de trottoir du centre. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors ; demandez à l'entrée."},
-        {"q": "Les restaurants fournissent-ils des gamelles d'eau ?", "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander água para o cão fonctionne toujours."},
-        {"q": "Où dîner en soirée avec vue sur mer ?", "a": "Les terrasses de l'Avenida Luísa Todi font face à la marina et à l'estuaire du Sado ; choco frito chez Casa Santiago suivi d'un coucher de soleil au Moscatel est le rituel local."}
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Setúbal ?",
+          "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de trottoir du centre. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors ; demandez à l'entrée."
+        },
+        {
+          "q": "Les restaurants fournissent-ils des gamelles d'eau ?",
+          "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander água para o cão fonctionne toujours."
+        },
+        {
+          "q": "Où dîner en soirée avec vue sur mer ?",
+          "a": "Les terrasses de l'Avenida Luísa Todi font face à la marina et à l'estuaire du Sado ; choco frito chez Casa Santiago suivi d'un coucher de soleil au Moscatel est le rituel local."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Setúbal?", "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas adoquinadas del centro. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera; pregunta en la entrada."},
-        {"q": "¿Los restaurantes ofrecen cuencos de agua?", "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir água para o cão siempre funciona."},
-        {"q": "¿Dónde cenar con vista al mar?", "a": "Las terrazas de la Avenida Luísa Todi miran al puerto deportivo y al estuario del Sado; choco frito en Casa Santiago seguido de un atardecer al Moscatel es el ritual local."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Setúbal?",
+          "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas adoquinadas del centro. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera; pregunta en la entrada."
+        },
+        {
+          "q": "¿Los restaurantes ofrecen cuencos de agua?",
+          "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir água para o cão siempre funciona."
+        },
+        {
+          "q": "¿Dónde cenar con vista al mar?",
+          "a": "Las terrazas de la Avenida Luísa Todi miran al puerto deportivo y al estuario del Sado; choco frito en Casa Santiago seguido de un atardecer al Moscatel es el ritual local."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos dentro dos restaurantes de Setúbal?", "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas do centro. As salas com ar condicionado em julho-agosto costumam preferir os cães fora; pergunte à entrada."},
-        {"q": "Os restaurantes oferecem taças de água?", "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir água para o cão funciona sempre."},
-        {"q": "Onde jantar com vista para o mar?", "a": "As esplanadas da Avenida Luísa Todi viram-se para a marina e o estuário do Sado; choco frito na Casa Santiago seguido de um pôr-do-sol com Moscatel é o ritual local."}
+        {
+          "q": "Os cães são admitidos dentro dos restaurantes de Setúbal?",
+          "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas do centro. As salas com ar condicionado em julho-agosto costumam preferir os cães fora; pergunte à entrada."
+        },
+        {
+          "q": "Os restaurantes oferecem taças de água?",
+          "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir água para o cão funciona sempre."
+        },
+        {
+          "q": "Onde jantar com vista para o mar?",
+          "a": "As esplanadas da Avenida Luísa Todi viram-se para a marina e o estuário do Sado; choco frito na Casa Santiago seguido de um pôr-do-sol com Moscatel é o ritual local."
+        }
       ]
     },
     "parks": {
@@ -149,7 +185,7 @@
           "name": "Parque Natural da Arrábida",
           "address": "Serra da Arrábida, 2900 Setúbal",
           "neighborhood": "Arrábida (4 km west of centre)",
-          "photo": "/images/city-places/setubal-parks-parque-natural-arrabida.jpg",
+          "photo": "/images/city-places/setubal-parks-parque-natural-da-arrabida.jpg",
           "website": "https://www.icnf.pt/",
           "description": "A 110 km² protected limestone massif rising directly from the Atlantic between Setúbal and Sesimbra, with marked walking trails through Mediterranean scrub, cliff-top viewpoints over Portinho da Arrábida and the Sado estuary, and the 16th-century Convento da Arrábida. Leashed dogs are welcome on all trails year-round.",
           "descriptionFr": "Massif calcaire protégé de 110 km² s'élevant directement de l'Atlantique entre Setúbal et Sesimbra, avec sentiers balisés à travers le maquis méditerranéen, belvédères en bord de falaise sur Portinho da Arrábida et l'estuaire du Sado, et le couvent de l'Arrábida du XVIᵉ siècle. Les chiens en laisse sont bienvenus sur tous les sentiers toute l'année.",
@@ -175,7 +211,7 @@
           "name": "Parque Urbano de Albarquel",
           "address": "Avenida José Mourinho, 2900 Setúbal",
           "neighborhood": "Albarquel (3 km west of centre)",
-          "photo": "/images/city-places/setubal-parks-albarquel.jpg",
+          "photo": "/images/city-places/setubal-parks-parque-urbano-de-albarquel.jpg",
           "website": "https://www.mun-setubal.pt/",
           "description": "A 14-hectare municipal seafront park at the western edge of Setúbal where the city meets the Arrábida foothills, with shaded pine paths, a small beach cove, picnic tables and a fenced off-leash dog area. Free and open 24/7, the easiest morning leg-stretcher with a sea view.",
           "descriptionFr": "Parc municipal de bord de mer de 14 hectares à la limite ouest de Setúbal où la ville rencontre les contreforts de l'Arrábida, avec allées ombragées sous les pins, petite crique de plage, tables de pique-nique et zone canine clôturée sans laisse. Gratuit et ouvert 24h/24, le plus simple dégourdissement matinal avec vue sur mer.",
@@ -201,7 +237,7 @@
           "name": "Marina de Setúbal estuary boardwalk",
           "address": "Avenida Luísa Todi, 2900 Setúbal",
           "neighborhood": "Marina / Doca dos Pescadores",
-          "photo": "/images/city-places/setubal-parks-marina-boardwalk.jpg",
+          "photo": "/images/city-places/setubal-parks-marina-de-setubal-estuary-boardwalk.jpg",
           "website": "https://www.mun-setubal.pt/",
           "description": "A 7 km flat estuary boardwalk and promenade running from the Doca dos Pescadores fishing port east past the marina, the cruise terminal and the Praça do Bocage waterfront, with benches, water fountains, and uninterrupted views of the Sado estuary and the Tróia peninsula opposite. Leashed dogs welcome the full length.",
           "descriptionFr": "Promenade plate d'estuaire de 7 km depuis le port de pêche Doca dos Pescadores vers l'est jusqu'à la marina, au terminal de croisière et au front de mer de la Praça do Bocage, avec bancs, fontaines à eau, et vues ininterrompues sur l'estuaire du Sado et la péninsule de Tróia en face. Chiens en laisse bienvenus sur toute la longueur.",
@@ -245,24 +281,60 @@
         "O passeio do estuário é a opção mais fácil o ano inteiro e o único passeio canino inteiramente plano de Setúbal; leve sacos porque os dispensadores estão a 500 m de distância."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Arrábida Natural Park?", "a": "Yes, leashed dogs are welcome on all marked trails year-round. The protected status restricts off-leash access to safeguard ground-nesting birds and the Iberian fauna."},
-        {"q": "Is there an off-leash dog park in Setúbal?", "a": "Yes, the Parque Urbano de Albarquel has a fenced off-leash zone. Outside that area, the municipality is on-leash by default."},
-        {"q": "Where can I find shaded walks in midsummer?", "a": "The Parque Urbano de Albarquel pine groves and the estuary boardwalk (partly shaded by the marina cafés) are the most consistently shaded options July-August."}
+        {
+          "q": "Are dogs allowed in the Arrábida Natural Park?",
+          "a": "Yes, leashed dogs are welcome on all marked trails year-round. The protected status restricts off-leash access to safeguard ground-nesting birds and the Iberian fauna."
+        },
+        {
+          "q": "Is there an off-leash dog park in Setúbal?",
+          "a": "Yes, the Parque Urbano de Albarquel has a fenced off-leash zone. Outside that area, the municipality is on-leash by default."
+        },
+        {
+          "q": "Where can I find shaded walks in midsummer?",
+          "a": "The Parque Urbano de Albarquel pine groves and the estuary boardwalk (partly shaded by the marina cafés) are the most consistently shaded options July-August."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans le parc naturel de l'Arrábida ?", "a": "Oui, les chiens en laisse sont bienvenus sur tous les sentiers balisés toute l'année. Le statut de protection limite l'accès sans laisse pour préserver les oiseaux nicheurs au sol et la faune ibérique."},
-        {"q": "Y a-t-il un parc canin sans laisse à Setúbal ?", "a": "Oui, le Parque Urbano de Albarquel dispose d'une zone sans laisse clôturée. Hors de là, la municipalité est en laisse par défaut."},
-        {"q": "Où trouver des promenades ombragées en plein été ?", "a": "Les pinèdes du Parque Urbano de Albarquel et la promenade d'estuaire (partiellement ombragée par les cafés de la marina) sont les options les plus régulièrement ombragées en juillet-août."}
+        {
+          "q": "Les chiens sont-ils autorisés dans le parc naturel de l'Arrábida ?",
+          "a": "Oui, les chiens en laisse sont bienvenus sur tous les sentiers balisés toute l'année. Le statut de protection limite l'accès sans laisse pour préserver les oiseaux nicheurs au sol et la faune ibérique."
+        },
+        {
+          "q": "Y a-t-il un parc canin sans laisse à Setúbal ?",
+          "a": "Oui, le Parque Urbano de Albarquel dispose d'une zone sans laisse clôturée. Hors de là, la municipalité est en laisse par défaut."
+        },
+        {
+          "q": "Où trouver des promenades ombragées en plein été ?",
+          "a": "Les pinèdes du Parque Urbano de Albarquel et la promenade d'estuaire (partiellement ombragée par les cafés de la marina) sont les options les plus régulièrement ombragées en juillet-août."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en el parque natural da Arrábida?", "a": "Sí, los perros con correa son bienvenidos en todos los senderos señalizados todo el año. El estatus de protección restringe el acceso sin correa para proteger las aves nidificantes en el suelo y la fauna ibérica."},
-        {"q": "¿Hay un parque canino sin correa en Setúbal?", "a": "Sí, el Parque Urbano de Albarquel tiene una zona sin correa vallada. Fuera de ahí, el municipio es con correa por defecto."},
-        {"q": "¿Dónde encontrar paseos sombreados en pleno verano?", "a": "Los pinares del Parque Urbano de Albarquel y el paseo del estuario (parcialmente sombreado por las cafeterías del puerto) son las opciones más constantemente sombreadas en julio-agosto."}
+        {
+          "q": "¿Se admiten perros en el parque natural da Arrábida?",
+          "a": "Sí, los perros con correa son bienvenidos en todos los senderos señalizados todo el año. El estatus de protección restringe el acceso sin correa para proteger las aves nidificantes en el suelo y la fauna ibérica."
+        },
+        {
+          "q": "¿Hay un parque canino sin correa en Setúbal?",
+          "a": "Sí, el Parque Urbano de Albarquel tiene una zona sin correa vallada. Fuera de ahí, el municipio es con correa por defecto."
+        },
+        {
+          "q": "¿Dónde encontrar paseos sombreados en pleno verano?",
+          "a": "Los pinares del Parque Urbano de Albarquel y el paseo del estuario (parcialmente sombreado por las cafeterías del puerto) son las opciones más constantemente sombreadas en julio-agosto."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos no parque natural da Arrábida?", "a": "Sim, os cães com trela são bem-vindos em todos os trilhos sinalizados o ano inteiro. O estatuto de protecção restringe o acesso sem trela para proteger as aves nidificantes no solo e a fauna ibérica."},
-        {"q": "Há um parque canino sem trela em Setúbal?", "a": "Sim, o Parque Urbano de Albarquel tem uma zona sem trela vedada. Fora daí, o concelho é com trela por defeito."},
-        {"q": "Onde encontrar passeios sombreados em pleno verão?", "a": "Os pinhais do Parque Urbano de Albarquel e o passeio do estuário (parcialmente sombreado pelos cafés da marina) são as opções mais constantemente sombreadas em julho-agosto."}
+        {
+          "q": "Os cães são admitidos no parque natural da Arrábida?",
+          "a": "Sim, os cães com trela são bem-vindos em todos os trilhos sinalizados o ano inteiro. O estatuto de protecção restringe o acesso sem trela para proteger as aves nidificantes no solo e a fauna ibérica."
+        },
+        {
+          "q": "Há um parque canino sem trela em Setúbal?",
+          "a": "Sim, o Parque Urbano de Albarquel tem uma zona sem trela vedada. Fora daí, o concelho é com trela por defeito."
+        },
+        {
+          "q": "Onde encontrar passeios sombreados em pleno verão?",
+          "a": "Os pinhais do Parque Urbano de Albarquel e o passeio do estuário (parcialmente sombreado pelos cafés da marina) são as opções mais constantemente sombreadas em julho-agosto."
+        }
       ]
     },
     "transport": {
@@ -273,13 +345,13 @@
       "introEn": "Setúbal sits at the end of CP's Linha do Sul Fertagus commuter line from Lisbon (45 min via the 25 de Abril bridge), is served by the TST municipal bus network and connects to the Tróia peninsula by the dog-friendly Atlantic Ferries roll-on/roll-off boat. Portuguese rules let small dogs in carriers ride free and accept large muzzled leashed dogs at off-peak hours; the Tróia ferry welcomes leashed dogs on every crossing.",
       "introFr": "Setúbal se trouve au terminus de la ligne Linha do Sul Fertagus depuis Lisbonne (45 min par le pont du 25 Avril), est desservie par le réseau de bus municipal TST et se connecte à la péninsule de Tróia par le ferry roll-on/roll-off dog-friendly d'Atlantic Ferries. La réglementation portugaise permet aux petits chiens en sac de voyager gratuitement et accepte les grands chiens en laisse et muselière en heures creuses ; le ferry de Tróia accueille les chiens en laisse à chaque traversée.",
       "introEs": "Setúbal se halla en el extremo de la línea Linha do Sul Fertagus desde Lisboa (45 min vía el puente del 25 de Abril), está servida por la red de autobuses municipales TST y se conecta a la península de Tróia por el ferry roll-on/roll-off pet-friendly de Atlantic Ferries. La normativa portuguesa permite a los perros pequeños en transportín viajar gratis y admite a los grandes con correa y bozal en horas valle; el ferry de Tróia admite perros con correa en cada travesía.",
-      "introPt": "Setúbal situa-se no extremo da linha Linha do Sul Fertagus a partir de Lisboa (45 min pela Ponte 25 de Abril), é servida pela rede de autocarros municipais TST e liga-se à península de Tróia pelo ferry roll-on/roll-off pet-friendly da Atlantic Ferries. A regulamentação portuguesa permite aos cães pequenos em transportadora viajar grátis e aceita os grandes com trela e açaime em horas de menor afluência; o ferry de Tróia aceita cães com trela em cada travessia.",
+      "introPt": "Setúbal situa-se no extremo da linha Linha do Sul Fertagus a partir de Lisboa (45 min pela Ponte 25 de Abril), é servida pela rede de autocarros municipais TST e liga-se à península de Tróia pelo ferry roll-on/roll-off pet-friendly da Atlantic Ferries. A regulamentação portuguesa deixa os cães pequenos em transportadora viajar grátis e aceita os grandes com trela e açaime em horas de menor afluência; o ferry de Tróia aceita cães com trela em cada travessia.",
       "places": [
         {
           "name": "Fertagus Linha do Sul (commuter train from Lisbon)",
           "address": "Estação de Setúbal, Praça do Brasil, 2910 Setúbal",
           "neighborhood": "Setúbal centre",
-          "photo": "/images/city-places/setubal-transport-fertagus.jpg",
+          "photo": "/images/city-places/setubal-transport-fertagus-linha-do-sul-commuter-train-from-lisbon.jpg",
           "website": "https://www.fertagus.pt/",
           "description": "The Fertagus commuter line runs from Setúbal to Roma-Areeiro in central Lisbon in about 50 minutes (around EUR 4.55 each way) via Pragal and the 25 de Abril bridge. Small dogs in carriers travel free; larger leashed dogs need a muzzle and a half-fare ticket, off-peak only.",
           "descriptionFr": "La ligne Fertagus va de Setúbal à Roma-Areeiro au centre de Lisbonne en environ 50 minutes (environ 4,55 € l'aller) via Pragal et le pont du 25 Avril. Les petits chiens en cage voyagent gratuitement ; les plus grands en laisse ont besoin d'une muselière et d'un billet demi-tarif, en heures creuses uniquement.",
@@ -295,23 +367,23 @@
           "name": "TST Setúbal municipal bus",
           "address": "Terminal Rodoviário, Avenida 5 de Outubro, 2900 Setúbal",
           "neighborhood": "Setúbal centre",
-          "photo": "/images/city-places/setubal-transport-tst-bus.jpg",
+          "photo": "/images/city-places/setubal-transport-tst-setubal-municipal-bus.jpg",
           "website": "https://www.tsuldotejo.pt/",
           "description": "The TST municipal bus network covers the historic centre, Albarquel, Setúbal harbour, Praias do Sado and the Arrábida foothills. Single fare around EUR 1.85; small dogs in carriers ride free, large leashed dogs accepted at the driver's discretion when the bus is not full.",
           "descriptionFr": "Le réseau de bus municipal TST couvre le centre historique, Albarquel, le port de Setúbal, les Praias do Sado et les contreforts de l'Arrábida. Tarif unique environ 1,85 € ; petits chiens en cage gratuits, grands chiens en laisse acceptés à la discrétion du chauffeur quand le bus n'est pas plein.",
           "descriptionEs": "La red de autobuses municipales TST cubre el centro histórico, Albarquel, el puerto de Setúbal, las Praias do Sado y las estribaciones de la Arrábida. Tarifa única unos 1,85 €; perros pequeños en transportín gratis, grandes con correa admitidos a discreción del conductor cuando el bus no está lleno.",
-          "descriptionPt": "A rede de autocarros municipais TST cobre o centro histórico, Albarquel, o porto de Setúbal, as Praias do Sado e os contrafortes da Arrábida. Tarifa única cerca de 1,85 €; cães pequenos em transportadora grátis, grandes com trela aceites à discrição do motorista quando o autocarro não está cheio.",
+          "descriptionPt": "A rede de autocarros municipais TST cobre o centro histórico, Albarquel, o porto de Setúbal, as Praias do Sado e os contrafortes da Arrábida. Tarifa única cerca de 1,85 €; cães pequenos em transportadora grátis, grandes com trela aceites à discrição do motorista quando o autocarro não vai cheio.",
           "petPolicy": "Small dogs in carrier free; large dogs at driver discretion when bus not full",
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens à la discrétion du chauffeur quand le bus n'est pas plein",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes a discreción del conductor cuando el bus no está lleno",
-          "petPolicyPt": "Cães pequenos em transportadora grátis; grandes à discrição do motorista quando o autocarro não está cheio",
+          "petPolicyPt": "Cães pequenos em transportadora grátis; grandes à discrição do motorista quando o autocarro não vai cheio",
           "googleMapsUrl": "https://maps.google.com/?q=Terminal+Rodoviario+Setubal"
         },
         {
           "name": "Atlantic Ferries Setúbal - Tróia",
           "address": "Terminal Fluvial, Doca do Comércio, 2900 Setúbal",
           "neighborhood": "Setúbal harbour",
-          "photo": "/images/city-places/setubal-transport-troia-ferry.jpg",
+          "photo": "/images/city-places/setubal-transport-atlantic-ferries-setubal-troia.jpg",
           "website": "https://www.atlanticferries.pt/",
           "description": "The roll-on/roll-off Atlantic Ferries link from Setúbal to the Tróia peninsula runs every 30-60 minutes year-round, crossing the Sado estuary in 25 minutes. Foot-passenger fare about EUR 5.65 return, dogs travel free on a leash or in a carrier; the open upper deck is the best dolphin-spotting platform on the estuary.",
           "descriptionFr": "La liaison roll-on/roll-off Atlantic Ferries de Setúbal à la péninsule de Tróia part toutes les 30-60 minutes toute l'année, traversant l'estuaire du Sado en 25 minutes. Tarif passager piéton environ 5,65 € aller-retour, les chiens voyagent gratuitement en laisse ou en cage ; le pont supérieur ouvert est la meilleure plateforme d'observation des dauphins de l'estuaire.",
@@ -345,24 +417,60 @@
         "O ferry de Tróia funciona o ano inteiro; o convés superior é a melhor plataforma grátis para avistar golfinhos em Setúbal durante a época dos roazes de maio a outubro."
       ],
       "faqsEn": [
-        {"q": "Do I need a muzzle for my dog on the train to Lisbon?", "a": "Yes, larger dogs not in a carrier must wear a muzzle on Fertagus trains. Small dogs in closed carriers are exempt and ride free."},
-        {"q": "Can I take my dog on the Tróia ferry?", "a": "Yes, leashed dogs travel free on every Atlantic Ferries crossing. The open upper deck is the best dolphin-spotting platform on the Sado estuary."},
-        {"q": "Is Lisbon airport LIS pet-friendly?", "a": "Yes, LIS accepts leashed dogs in the public terminal areas and TAP Portugal accepts cabin pets under 8 kg with advance booking. The airport is 45 km north of Setúbal via the A2 motorway (40 min by car)."}
+        {
+          "q": "Do I need a muzzle for my dog on the train to Lisbon?",
+          "a": "Yes, larger dogs not in a carrier must wear a muzzle on Fertagus trains. Small dogs in closed carriers are exempt and ride free."
+        },
+        {
+          "q": "Can I take my dog on the Tróia ferry?",
+          "a": "Yes, leashed dogs travel free on every Atlantic Ferries crossing. The open upper deck is the best dolphin-spotting platform on the Sado estuary."
+        },
+        {
+          "q": "Is Lisbon airport LIS pet-friendly?",
+          "a": "Yes, LIS accepts leashed dogs in the public terminal areas and TAP Portugal accepts cabin pets under 8 kg with advance booking. The airport is 45 km north of Setúbal via the A2 motorway (40 min by car)."
+        }
       ],
       "faqsFr": [
-        {"q": "Ai-je besoin d'une muselière dans le train pour Lisbonne ?", "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans les trains Fertagus. Les petits chiens en cage fermée en sont exemptés et voyagent gratuitement."},
-        {"q": "Puis-je prendre le ferry de Tróia avec mon chien ?", "a": "Oui, les chiens en laisse voyagent gratuitement à chaque traversée Atlantic Ferries. Le pont supérieur ouvert est la meilleure plateforme d'observation des dauphins de l'estuaire du Sado."},
-        {"q": "L'aéroport de Lisbonne LIS est-il pet-friendly ?", "a": "Oui, LIS accepte les chiens en laisse dans les zones publiques du terminal et TAP Portugal accepte les animaux en cabine sous 8 kg sur réservation préalable. L'aéroport est à 45 km au nord de Setúbal par l'A2 (40 min en voiture)."}
+        {
+          "q": "Ai-je besoin d'une muselière dans le train pour Lisbonne ?",
+          "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans les trains Fertagus. Les petits chiens en cage fermée en sont exemptés et voyagent gratuitement."
+        },
+        {
+          "q": "Puis-je prendre le ferry de Tróia avec mon chien ?",
+          "a": "Oui, les chiens en laisse voyagent gratuitement à chaque traversée Atlantic Ferries. Le pont supérieur ouvert est la meilleure plateforme d'observation des dauphins de l'estuaire du Sado."
+        },
+        {
+          "q": "L'aéroport de Lisbonne LIS est-il pet-friendly ?",
+          "a": "Oui, LIS accepte les chiens en laisse dans les zones publiques du terminal et TAP Portugal accepte les animaux en cabine sous 8 kg sur réservation préalable. L'aéroport est à 45 km au nord de Setúbal par l'A2 (40 min en voiture)."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Necesito bozal para mi perro en el tren a Lisboa?", "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en los trenes Fertagus. Los perros pequeños en transportín cerrado están exentos y viajan gratis."},
-        {"q": "¿Puedo coger el ferry de Tróia con mi perro?", "a": "Sí, los perros con correa viajan gratis en cada travesía Atlantic Ferries. La cubierta superior abierta es la mejor plataforma para avistar delfines del estuario del Sado."},
-        {"q": "¿El aeropuerto de Lisboa LIS es pet-friendly?", "a": "Sí, LIS admite perros con correa en las zonas públicas del terminal y TAP Portugal acepta mascotas en cabina hasta 8 kg con reserva previa. El aeropuerto está a 45 km al norte de Setúbal vía la A2 (40 min en coche)."}
+        {
+          "q": "¿Necesito bozal para mi perro en el tren a Lisboa?",
+          "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en los trenes Fertagus. Los perros pequeños en transportín cerrado están exentos y viajan gratis."
+        },
+        {
+          "q": "¿Puedo coger el ferry de Tróia con mi perro?",
+          "a": "Sí, los perros con correa viajan gratis en cada travesía Atlantic Ferries. La cubierta superior abierta es la mejor plataforma para avistar delfines del estuario del Sado."
+        },
+        {
+          "q": "¿El aeropuerto de Lisboa LIS es pet-friendly?",
+          "a": "Sí, LIS admite perros con correa en las zonas públicas del terminal y TAP Portugal acepta mascotas en cabina hasta 8 kg con reserva previa. El aeropuerto está a 45 km al norte de Setúbal vía la A2 (40 min en coche)."
+        }
       ],
       "faqsPt": [
-        {"q": "Preciso de açaime para o meu cão no comboio para Lisboa?", "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime nos comboios Fertagus. Os cães pequenos em transportadora fechada estão isentos e viajam grátis."},
-        {"q": "Posso apanhar o ferry de Tróia com o meu cão?", "a": "Sim, os cães com trela viajam grátis em cada travessia Atlantic Ferries. O convés superior aberto é a melhor plataforma para avistar golfinhos do estuário do Sado."},
-        {"q": "O aeroporto de Lisboa LIS é pet-friendly?", "a": "Sim, o LIS aceita cães com trela nas zonas públicas do terminal e a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia. O aeroporto fica a 45 km a norte de Setúbal pela A2 (40 min de carro)."}
+        {
+          "q": "Preciso de açaime para o meu cão no comboio para Lisboa?",
+          "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime nos comboios Fertagus. Os cães pequenos em transportadora fechada estão isentos e viajam grátis."
+        },
+        {
+          "q": "Posso apanhar o ferry de Tróia com o meu cão?",
+          "a": "Sim, os cães com trela viajam grátis em cada travessia Atlantic Ferries. O convés superior aberto é a melhor plataforma para avistar golfinhos do estuário do Sado."
+        },
+        {
+          "q": "O aeroporto de Lisboa LIS é pet-friendly?",
+          "a": "Sim, o LIS aceita cães com trela nas zonas públicas do terminal e a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia. O aeroporto fica a 45 km a norte de Setúbal pela A2 (40 min de carro)."
+        }
       ]
     },
     "beaches": {
@@ -383,7 +491,7 @@
           "rules": "Leashed dogs welcome at the eastern end year-round; off-leash discouraged in the protected dune zone",
           "facilities": "Free parking, café-restaurants, lifeguarded summer zone",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Figueirinha+Setubal",
-          "photo": "/images/city-places/setubal-beaches-figueirinha.jpg"
+          "photo": "/images/city-places/setubal-beaches-praia-da-figueirinha.jpg"
         },
         {
           "name": "Praia de Galapinhos / Galapos",
@@ -393,7 +501,7 @@
           "rules": "Leashed dogs welcome outside official bathing zones; sensitive dune ecosystems stay on marked paths",
           "facilities": "Seasonal café at Galapos, summer shuttle bus from Setúbal",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+de+Galapinhos+Arrabida",
-          "photo": "/images/city-places/setubal-beaches-galapinhos.jpg"
+          "photo": "/images/city-places/setubal-beaches-praia-de-galapinhos-galapos.jpg"
         },
         {
           "name": "Praia de Tróia Mar (Tróia peninsula)",
@@ -403,7 +511,7 @@
           "rules": "Leashed dogs welcome on the open Atlantic stretch year-round outside summer lifeguard zones",
           "facilities": "Tróia resort cafés near ferry; open dune stretches further south with no facilities",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+de+Troia+Mar",
-          "photo": "/images/city-places/setubal-beaches-troia-mar.jpg"
+          "photo": "/images/city-places/setubal-beaches-praia-de-troia-mar-troia-peninsula.jpg"
         }
       ],
       "tipsEn": [
@@ -423,28 +531,64 @@
       ],
       "tipsPt": [
         "As falésias da Arrábida protegem a Figueirinha e Galapinhos da ondulação atlântica; a água é calma e a visibilidade em dia claro supera os 5 m, ideal para cães nadadores prudentes.",
-        "O estacionamento estival de Galapos está fechado em julho-agosto; apanhe o autocarro lançadeira desde Setúbal (TST linha 753) ou o ferry de Tróia e caminhe pelo lado atlântico.",
+        "O estacionamento estival de Galapos encerra em julho-agosto; apanhe o autocarro lançadeira desde Setúbal (TST linha 753) ou o ferry de Tróia e caminhe pelo lado atlântico.",
         "Há roazes no estuário do Sado o ano inteiro; podem ver-se desde a Figueirinha e desde o ferry de Tróia sem pagar uma saída de golfinhos."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed on the Arrábida beaches?", "a": "Yes, leashed dogs are welcome outside the small official lifeguarded summer zones (June 15-September 15). The protected dune ecosystems require dogs to stay on marked paths."},
-        {"q": "Can I see dolphins with my dog from a public boat?", "a": "Yes, the Atlantic Ferries Tróia crossing is dog-friendly and crosses the Sado estuary where bottlenose dolphins live year-round. The upper deck is the best free dolphin-spotting platform."},
-        {"q": "Which beach has the easiest dog access in summer?", "a": "The eastern end of Praia da Figueirinha has free parking and welcomes leashed dogs year-round outside lifeguard zones; calmer than Galapos which requires the shuttle in July-August."}
+        {
+          "q": "Are dogs allowed on the Arrábida beaches?",
+          "a": "Yes, leashed dogs are welcome outside the small official lifeguarded summer zones (June 15-September 15). The protected dune ecosystems require dogs to stay on marked paths."
+        },
+        {
+          "q": "Can I see dolphins with my dog from a public boat?",
+          "a": "Yes, the Atlantic Ferries Tróia crossing is dog-friendly and crosses the Sado estuary where bottlenose dolphins live year-round. The upper deck is the best free dolphin-spotting platform."
+        },
+        {
+          "q": "Which beach has the easiest dog access in summer?",
+          "a": "The eastern end of Praia da Figueirinha has free parking and welcomes leashed dogs year-round outside lifeguard zones; calmer than Galapos which requires the shuttle in July-August."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés sur les plages de l'Arrábida ?", "a": "Oui, les chiens en laisse sont bienvenus hors des petites zones de baignade surveillées en été (15 juin-15 septembre). Les écosystèmes de dunes protégés exigent que les chiens restent sur les sentiers balisés."},
-        {"q": "Puis-je voir des dauphins avec mon chien depuis un bateau public ?", "a": "Oui, la traversée Atlantic Ferries vers Tróia est dog-friendly et traverse l'estuaire du Sado où des grands dauphins vivent toute l'année. Le pont supérieur est la meilleure plateforme gratuite d'observation."},
-        {"q": "Quelle plage a l'accès canin le plus facile en été ?", "a": "L'extrémité est de la Praia da Figueirinha dispose d'un parking gratuit et accueille les chiens en laisse toute l'année hors zones surveillées ; plus calme que Galapos qui exige la navette en juillet-août."}
+        {
+          "q": "Les chiens sont-ils autorisés sur les plages de l'Arrábida ?",
+          "a": "Oui, les chiens en laisse sont bienvenus hors des petites zones de baignade surveillées en été (15 juin-15 septembre). Les écosystèmes de dunes protégés exigent que les chiens restent sur les sentiers balisés."
+        },
+        {
+          "q": "Puis-je voir des dauphins avec mon chien depuis un bateau public ?",
+          "a": "Oui, la traversée Atlantic Ferries vers Tróia est dog-friendly et traverse l'estuaire du Sado où des grands dauphins vivent toute l'année. Le pont supérieur est la meilleure plateforme gratuite d'observation."
+        },
+        {
+          "q": "Quelle plage a l'accès canin le plus facile en été ?",
+          "a": "L'extrémité est de la Praia da Figueirinha dispose d'un parking gratuit et accueille les chiens en laisse toute l'année hors zones surveillées ; plus calme que Galapos qui exige la navette en juillet-août."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en las playas da Arrábida?", "a": "Sí, los perros con correa son bienvenidos fuera de las pequeñas zonas oficiales vigiladas en verano (15 junio-15 septiembre). Los ecosistemas de dunas protegidos exigen que los perros se mantengan en los senderos señalizados."},
-        {"q": "¿Puedo ver delfines con mi perro desde un barco público?", "a": "Sí, la travesía Atlantic Ferries a Tróia es pet-friendly y cruza el estuario del Sado donde viven delfines mulares todo el año. La cubierta superior es la mejor plataforma gratuita para avistarlos."},
-        {"q": "¿Qué playa tiene el acceso canino más fácil en verano?", "a": "El extremo este de la Praia da Figueirinha tiene aparcamiento gratuito y admite perros con correa todo el año fuera de zonas vigiladas; más tranquila que Galapos que exige la lanzadera en julio-agosto."}
+        {
+          "q": "¿Se admiten perros en las playas da Arrábida?",
+          "a": "Sí, los perros con correa son bienvenidos fuera de las pequeñas zonas oficiales vigiladas en verano (15 junio-15 septiembre). Los ecosistemas de dunas protegidos exigen que los perros se mantengan en los senderos señalizados."
+        },
+        {
+          "q": "¿Puedo ver delfines con mi perro desde un barco público?",
+          "a": "Sí, la travesía Atlantic Ferries a Tróia es pet-friendly y cruza el estuario del Sado donde viven delfines mulares todo el año. La cubierta superior es la mejor plataforma gratuita para avistarlos."
+        },
+        {
+          "q": "¿Qué playa tiene el acceso canino más fácil en verano?",
+          "a": "El extremo este de la Praia da Figueirinha tiene aparcamiento gratuito y admite perros con correa todo el año fuera de zonas vigiladas; más tranquila que Galapos que exige la lanzadera en julio-agosto."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos nas praias da Arrábida?", "a": "Sim, os cães com trela são bem-vindos fora das pequenas zonas oficiais vigiadas no verão (15 junho-15 setembro). Os ecossistemas de dunas protegidos exigem que os cães se mantenham nos trilhos sinalizados."},
-        {"q": "Posso ver golfinhos com o meu cão num barco público?", "a": "Sim, a travessia Atlantic Ferries para Tróia é pet-friendly e atravessa o estuário do Sado onde vivem roazes o ano inteiro. O convés superior é a melhor plataforma grátis para avistá-los."},
-        {"q": "Qual é a praia com acesso canino mais fácil no verão?", "a": "O extremo leste da Praia da Figueirinha tem estacionamento grátis e aceita cães com trela o ano inteiro fora das zonas vigiadas; mais calma do que Galapos, que exige a lançadeira em julho-agosto."}
+        {
+          "q": "Os cães são admitidos nas praias da Arrábida?",
+          "a": "Sim, os cães com trela são bem-vindos fora das pequenas zonas oficiais vigiadas no verão (15 junho-15 setembro). Os ecossistemas de dunas protegidos exigem que os cães se mantenham nos trilhos sinalizados."
+        },
+        {
+          "q": "Posso ver golfinhos com o meu cão num barco público?",
+          "a": "Sim, a travessia Atlantic Ferries para Tróia é pet-friendly e atravessa o estuário do Sado onde vivem roazes o ano inteiro. O convés superior é a melhor plataforma grátis para avistá-los."
+        },
+        {
+          "q": "Qual é a praia com acesso canino mais fácil no verão?",
+          "a": "O extremo leste da Praia da Figueirinha tem estacionamento grátis e aceita cães com trela o ano inteiro fora das zonas vigiadas; mais calma do que Galapos, que exige a lançadeira em julho-agosto."
+        }
       ]
     },
     "vets": {
@@ -470,7 +614,7 @@
           "hoursPt": "Linha de urgência 24/7; clínica seg-sáb 9:00-20:00",
           "englishSpeaking": true,
           "website": "https://www.hvsetubal.pt/",
-          "photo": "/images/city-places/setubal-vets-hvsetubal.jpg",
+          "photo": "/images/city-places/setubal-vets-hospital-veterinario-de-setubal.jpg",
           "description": "The reference veterinary hospital for the Sado peninsula, with imaging, surgery, internal medicine and after-hours emergency cover. Located on Avenida 22 de Dezembro 5 minutes from the historic centre, with easy parking and an English-speaking senior team.",
           "descriptionFr": "L'hôpital vétérinaire de référence pour la péninsule du Sado, avec imagerie, chirurgie, médecine interne et couverture d'urgence hors heures. Situé Avenida 22 de Dezembro à 5 minutes du centre historique, avec parking facile et équipe senior anglophone.",
           "descriptionEs": "El hospital veterinario de referencia para la península del Sado, con imagen, cirugía, medicina interna y cobertura de urgencias fuera de horario. Situado en la Avenida 22 de Dezembro a 5 minutos del centro histórico, con aparcamiento fácil y equipo senior anglófono.",
@@ -483,7 +627,10 @@
           "servicesFr": "Urgences, chirurgie, imagerie, médecine interne, dentisterie",
           "servicesEs": "Urgencias, cirugía, imagen, medicina interna, odontología",
           "servicesPt": "Urgências, cirurgia, imagem, medicina interna, dentária",
-          "languages": ["Portuguese", "English"],
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
           "openingHours": "24/7 emergency",
           "tip": "Save the emergency number before any Arrábida hike; mobile coverage drops in the limestone scrub and you may need to phone ahead before driving down.",
           "tipFr": "Enregistrez le numéro d'urgence avant toute rando dans l'Arrábida ; la couverture mobile chute dans le maquis calcaire et il faudra peut-être appeler avant de redescendre.",
@@ -503,7 +650,7 @@
           "hoursPt": "Seg-sex 9:00-13:00 e 15:00-19:30; sáb 9:00-13:00; fechado dom",
           "englishSpeaking": true,
           "website": "https://www.facebook.com/clinicaveterinariadobocage",
-          "photo": "/images/city-places/setubal-vets-clinica-bocage.jpg",
+          "photo": "/images/city-places/setubal-vets-clinica-veterinaria-do-bocage.jpg",
           "description": "A central general practice on Praça do Bocage, 2 minutes from the Avenida Luísa Todi, ideal for vaccination top-ups, EU passport stamps and minor non-emergency consultations. Refers to Hospital Veterinário de Setúbal for after-hours and complex cases.",
           "descriptionFr": "Cabinet généraliste central sur la Praça do Bocage, à 2 minutes de l'Avenida Luísa Todi, idéal pour rappels de vaccin, tampons sur passeport européen et consultations mineures non urgentes. Renvoie sur l'Hospital Veterinário de Setúbal pour hors heures et cas complexes.",
           "descriptionEs": "Consulta generalista céntrica en la Praça do Bocage, a 2 minutos de la Avenida Luísa Todi, ideal para refuerzos de vacuna, sellos de pasaporte europeo y consultas menores no urgentes. Deriva al Hospital Veterinário de Setúbal para fuera de horario y casos complejos.",
@@ -516,7 +663,10 @@
           "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie",
           "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor",
           "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia",
-          "languages": ["Portuguese", "English"],
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
           "openingHours": "Mon-Fri 9:00-13:00 / 15:00-19:30; Sat 9:00-13:00",
           "tip": "Book the first morning slot for same-day EU passport sign-off before a flight from Lisbon LIS; afternoons fill with local consultations.",
           "tipFr": "Réservez le premier créneau du matin pour une validation passeport européen le jour même avant un vol depuis Lisbonne LIS ; les après-midis se remplissent de consultations locales.",
@@ -536,7 +686,7 @@
           "hoursPt": "Urgências e especialidades 24/7",
           "englishSpeaking": true,
           "website": "https://www.hvrestelo.pt/",
-          "photo": "/images/city-places/setubal-vets-hvrestelo.jpg",
+          "photo": "/images/city-places/setubal-vets-anicura-hospital-veterinario-do-restelo-lisbon.jpg",
           "description": "The specialty 24/7 referral hospital for Greater Lisbon, with cardiology, oncology, neurology and complex surgery that the Hospital Veterinário de Setúbal may refer onwards; 40 minutes from Setúbal via the A2 motorway.",
           "descriptionFr": "L'hôpital de référence spécialisé 24h/24 pour le Grand Lisbonne, avec cardiologie, oncologie, neurologie et chirurgie complexe que l'Hospital Veterinário de Setúbal peut adresser ; à 40 minutes de Setúbal par l'A2.",
           "descriptionEs": "El hospital de referencia especializado 24/7 para Gran Lisboa, con cardiología, oncología, neurología y cirugía compleja que el Hospital Veterinário de Setúbal puede derivar; a 40 minutos de Setúbal vía la A2.",
@@ -549,7 +699,10 @@
           "servicesFr": "Cardiologie, oncologie, neurologie, chirurgie complexe, soins intensifs 24h",
           "servicesEs": "Cardiología, oncología, neurología, cirugía compleja, UCI 24h",
           "servicesPt": "Cardiologia, oncologia, neurologia, cirurgia complexa, UCI 24h",
-          "languages": ["Portuguese", "English"],
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
           "openingHours": "24/7",
           "tip": "Drive yourself rather than call a taxi if your dog is bleeding or seizing; the A2 transfer to Restelo via the 25 de Abril bridge is quicker than waiting for a pet-taxi at night.",
           "tipFr": "Conduisez-vous plutôt que d'appeler un taxi si votre chien saigne ou convulse ; le transfert A2 vers Restelo via le pont du 25 Avril est plus rapide que d'attendre un pet-taxi la nuit.",
@@ -579,24 +732,60 @@
         "Leve fisicamente o seu passaporte europeu para animais a toda a visita veterinária; as clínicas precisam de ver o carimbo antirrábico antes de qualquer prescrição."
       ],
       "faqsEn": [
-        {"q": "Where is the closest 24h vet to Setúbal?", "a": "The Hospital Veterinário de Setúbal on Avenida 22 de Dezembro (+351 265 525 525) runs the 24/7 emergency line for the city and the Sado peninsula, 5 minutes from the historic centre."},
-        {"q": "Do Setúbal vets speak English?", "a": "Yes at the Hospital Veterinário de Setúbal and the central Clínica do Bocage; senior vets are universally fluent thanks to the expat and tourist clientele linked to the Arrábida coast."},
-        {"q": "Can I get an EU pet passport stamp before flying out of Lisbon?", "a": "Yes, both listed Setúbal clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs."}
+        {
+          "q": "Where is the closest 24h vet to Setúbal?",
+          "a": "The Hospital Veterinário de Setúbal on Avenida 22 de Dezembro (+351 265 525 525) runs the 24/7 emergency line for the city and the Sado peninsula, 5 minutes from the historic centre."
+        },
+        {
+          "q": "Do Setúbal vets speak English?",
+          "a": "Yes at the Hospital Veterinário de Setúbal and the central Clínica do Bocage; senior vets are universally fluent thanks to the expat and tourist clientele linked to the Arrábida coast."
+        },
+        {
+          "q": "Can I get an EU pet passport stamp before flying out of Lisbon?",
+          "a": "Yes, both listed Setúbal clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est le vétérinaire 24h le plus proche de Setúbal ?", "a": "L'Hospital Veterinário de Setúbal sur l'Avenida 22 de Dezembro (+351 265 525 525) exploite la ligne d'urgence 24h/24 pour la ville et la péninsule du Sado, à 5 minutes du centre historique."},
-        {"q": "Les vétérinaires de Setúbal parlent-ils anglais ?", "a": "Oui à l'Hospital Veterinário de Setúbal et à la Clínica do Bocage centrale ; les vétérinaires seniors le parlent couramment grâce à la clientèle expatriée et touristique liée à la côte de l'Arrábida."},
-        {"q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Lisbonne ?", "a": "Oui, les deux cliniques de Setúbal listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles pour chiens en bonne santé."}
+        {
+          "q": "Où est le vétérinaire 24h le plus proche de Setúbal ?",
+          "a": "L'Hospital Veterinário de Setúbal sur l'Avenida 22 de Dezembro (+351 265 525 525) exploite la ligne d'urgence 24h/24 pour la ville et la péninsule du Sado, à 5 minutes du centre historique."
+        },
+        {
+          "q": "Les vétérinaires de Setúbal parlent-ils anglais ?",
+          "a": "Oui à l'Hospital Veterinário de Setúbal et à la Clínica do Bocage centrale ; les vétérinaires seniors le parlent couramment grâce à la clientèle expatriée et touristique liée à la côte de l'Arrábida."
+        },
+        {
+          "q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Lisbonne ?",
+          "a": "Oui, les deux cliniques de Setúbal listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles pour chiens en bonne santé."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el veterinario 24h más cercano de Setúbal?", "a": "El Hospital Veterinário de Setúbal en la Avenida 22 de Dezembro (+351 265 525 525) gestiona la línea de urgencias 24/7 para la ciudad y la península del Sado, a 5 minutos del centro histórico."},
-        {"q": "¿Los veterinarios de Setúbal hablan inglés?", "a": "Sí en el Hospital Veterinário de Setúbal y en la Clínica do Bocage central; los veterinarios senior son fluidos gracias a la clientela expatriada y turística vinculada a la costa da Arrábida."},
-        {"q": "¿Puedo sellar un pasaporte UE antes de volar desde Lisboa?", "a": "Sí, las dos clínicas de Setúbal listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles para perros sanos."}
+        {
+          "q": "¿Dónde está el veterinario 24h más cercano de Setúbal?",
+          "a": "El Hospital Veterinário de Setúbal en la Avenida 22 de Dezembro (+351 265 525 525) gestiona la línea de urgencias 24/7 para la ciudad y la península del Sado, a 5 minutos del centro histórico."
+        },
+        {
+          "q": "¿Los veterinarios de Setúbal hablan inglés?",
+          "a": "Sí en el Hospital Veterinário de Setúbal y en la Clínica do Bocage central; los veterinarios senior son fluidos gracias a la clientela expatriada y turística vinculada a la costa da Arrábida."
+        },
+        {
+          "q": "¿Puedo sellar un pasaporte UE antes de volar desde Lisboa?",
+          "a": "Sí, las dos clínicas de Setúbal listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles para perros sanos."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o veterinário 24h mais próximo de Setúbal?", "a": "O Hospital Veterinário de Setúbal na Avenida 22 de Dezembro (+351 265 525 525) gere a linha de urgência 24/7 para a cidade e a península do Sado, a 5 minutos do centro histórico."},
-        {"q": "Os veterinários de Setúbal falam inglês?", "a": "Sim no Hospital Veterinário de Setúbal e na Clínica do Bocage central; os veterinários seniores são fluentes graças à clientela expatriada e turística ligada à costa da Arrábida."},
-        {"q": "Posso carimbar um passaporte UE antes de voar de Lisboa?", "a": "Sim, as duas clínicas de Setúbal listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."}
+        {
+          "q": "Onde fica o veterinário 24h mais próximo de Setúbal?",
+          "a": "O Hospital Veterinário de Setúbal na Avenida 22 de Dezembro (+351 265 525 525) gere a linha de urgência 24/7 para a cidade e a península do Sado, a 5 minutos do centro histórico."
+        },
+        {
+          "q": "Os veterinários de Setúbal falam inglês?",
+          "a": "Sim no Hospital Veterinário de Setúbal e na Clínica do Bocage central; os veterinários seniores são fluentes graças à clientela expatriada e turística ligada à costa da Arrábida."
+        },
+        {
+          "q": "Posso carimbar um passaporte UE antes de voar de Lisboa?",
+          "a": "Sim, as duas clínicas de Setúbal listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."
+        }
       ]
     },
     "tips": {
@@ -634,28 +823,64 @@
         "Portugal exige passaporte europeu, microchip ISO e vacinação antirrábica válida; suficiente de qualquer país UE, sem tratamento antiparasitário exigido.",
         "A lei portuguesa restringe as raças consideradas potencialmente perigosas (Pit Bull, Rottweiler, tipos Staffordshire) que exigem seguro de responsabilidade civil e açaime em público; verifique antes de viajar.",
         "Os trilhos calcários da Arrábida queimam no verão (50 °C no solo ao meio-dia); considere protecção para as almofadas nas caminhadas de julho-agosto e caminhe antes das 10:00 ou depois das 17:00.",
-        "O aeroporto de Lisboa LIS está a 45 km a norte pela A2 (40 min de carro); a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia.",
+        "O aeroporto de Lisboa LIS fica a 45 km a norte pela A2 (40 min de carro); a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia.",
         "A população de roazes do estuário do Sado é visível o ano inteiro a partir da travessia Atlantic Ferries de Tróia; sem necessidade de pagar uma saída de golfinhos."
       ],
       "faqsEn": [
-        {"q": "Is Setúbal a good base for a pet-friendly Lisbon-area holiday?", "a": "Yes, the combination of translucent Arrábida coves 15 minutes from town, year-round dolphin ferry to Tróia, 24/7 vet cover and an easy Fertagus train to central Lisbon makes it a stronger pet base than the Cascais line for value and outdoor space."},
-        {"q": "Do I need a muzzle in public in Setúbal?", "a": "Only for breeds on the Portuguese restricted-breeds list; standard breeds need only a leash. The TST bus and Fertagus train accept muzzled large dogs and free small dogs in carriers."},
-        {"q": "What is the best month for Setúbal with a dog?", "a": "May-June and September-October: mild temperatures, lower humidity, lighter crowds, full Arrábida access and the dolphin season in full swing."}
+        {
+          "q": "Is Setúbal a good base for a pet-friendly Lisbon-area holiday?",
+          "a": "Yes, the combination of translucent Arrábida coves 15 minutes from town, year-round dolphin ferry to Tróia, 24/7 vet cover and an easy Fertagus train to central Lisbon makes it a stronger pet base than the Cascais line for value and outdoor space."
+        },
+        {
+          "q": "Do I need a muzzle in public in Setúbal?",
+          "a": "Only for breeds on the Portuguese restricted-breeds list; standard breeds need only a leash. The TST bus and Fertagus train accept muzzled large dogs and free small dogs in carriers."
+        },
+        {
+          "q": "What is the best month for Setúbal with a dog?",
+          "a": "May-June and September-October: mild temperatures, lower humidity, lighter crowds, full Arrábida access and the dolphin season in full swing."
+        }
       ],
       "faqsFr": [
-        {"q": "Setúbal est-elle une bonne base pour des vacances pet-friendly autour de Lisbonne ?", "a": "Oui, la combinaison de criques translucides de l'Arrábida à 15 minutes de la ville, ferry dauphins toute l'année vers Tróia, couverture vétérinaire 24h/24 et train Fertagus facile vers Lisbonne en fait une meilleure base canine que la ligne de Cascais en rapport qualité-prix et espace extérieur."},
-        {"q": "Ai-je besoin d'une muselière en public à Setúbal ?", "a": "Seulement pour les races figurant sur la liste portugaise des races restreintes ; les races standard n'ont besoin que d'une laisse. Le bus TST et le train Fertagus acceptent les grands chiens muselés et gratuitement les petits en cage."},
-        {"q": "Quel est le meilleur mois à Setúbal avec un chien ?", "a": "Mai-juin et septembre-octobre : températures douces, humidité plus basse, moins de monde, accès complet à l'Arrábida et saison des dauphins à son apogée."}
+        {
+          "q": "Setúbal est-elle une bonne base pour des vacances pet-friendly autour de Lisbonne ?",
+          "a": "Oui, la combinaison de criques translucides de l'Arrábida à 15 minutes de la ville, ferry dauphins toute l'année vers Tróia, couverture vétérinaire 24h/24 et train Fertagus facile vers Lisbonne en fait une meilleure base canine que la ligne de Cascais en rapport qualité-prix et espace extérieur."
+        },
+        {
+          "q": "Ai-je besoin d'une muselière en public à Setúbal ?",
+          "a": "Seulement pour les races figurant sur la liste portugaise des races restreintes ; les races standard n'ont besoin que d'une laisse. Le bus TST et le train Fertagus acceptent les grands chiens muselés et gratuitement les petits en cage."
+        },
+        {
+          "q": "Quel est le meilleur mois à Setúbal avec un chien ?",
+          "a": "Mai-juin et septembre-octobre : températures douces, humidité plus basse, moins de monde, accès complet à l'Arrábida et saison des dauphins à son apogée."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Setúbal una buena base para unas vacaciones pet-friendly cerca de Lisboa?", "a": "Sí, la combinación de calas translúcidas da Arrábida a 15 minutos del centro, ferry de delfines todo el año a Tróia, cobertura veterinaria 24/7 y tren Fertagus fácil hacia Lisboa la convierte en mejor base canina que la línea de Cascais en relación calidad-precio y espacio exterior."},
-        {"q": "¿Necesito bozal en público en Setúbal?", "a": "Solo para razas en la lista portuguesa de razas restringidas; las razas estándar solo necesitan correa. El autobús TST y el tren Fertagus admiten perros grandes con bozal y gratis a los pequeños en transportín."},
-        {"q": "¿Cuál es el mejor mes para Setúbal con perro?", "a": "Mayo-junio y septiembre-octubre: temperaturas suaves, menor humedad, menos gente, acceso completo a la Arrábida y temporada de delfines en pleno apogeo."}
+        {
+          "q": "¿Es Setúbal una buena base para unas vacaciones pet-friendly cerca de Lisboa?",
+          "a": "Sí, la combinación de calas translúcidas da Arrábida a 15 minutos del centro, ferry de delfines todo el año a Tróia, cobertura veterinaria 24/7 y tren Fertagus fácil hacia Lisboa la convierte en mejor base canina que la línea de Cascais en relación calidad-precio y espacio exterior."
+        },
+        {
+          "q": "¿Necesito bozal en público en Setúbal?",
+          "a": "Solo para razas en la lista portuguesa de razas restringidas; las razas estándar solo necesitan correa. El autobús TST y el tren Fertagus admiten perros grandes con bozal y gratis a los pequeños en transportín."
+        },
+        {
+          "q": "¿Cuál es el mejor mes para Setúbal con perro?",
+          "a": "Mayo-junio y septiembre-octubre: temperaturas suaves, menor humedad, menos gente, acceso completo a la Arrábida y temporada de delfines en pleno apogeo."
+        }
       ],
       "faqsPt": [
-        {"q": "Setúbal é uma boa base para férias pet-friendly perto de Lisboa?", "a": "Sim, a combinação de enseadas translúcidas da Arrábida a 15 minutos do centro, ferry de golfinhos o ano inteiro para Tróia, cobertura veterinária 24/7 e comboio Fertagus fácil para Lisboa faz dela uma melhor base canina do que a linha de Cascais em relação qualidade-preço e espaço exterior."},
-        {"q": "Preciso de açaime em público em Setúbal?", "a": "Só para raças na lista portuguesa de raças restritas; as raças standard só precisam de trela. O autocarro TST e o comboio Fertagus aceitam cães grandes com açaime e grátis os pequenos em transportadora."},
-        {"q": "Qual é o melhor mês para Setúbal com cão?", "a": "Maio-junho e setembro-outubro: temperaturas suaves, menor humidade, menos gente, acesso completo à Arrábida e época dos golfinhos em pleno auge."}
+        {
+          "q": "Setúbal é uma boa base para férias pet-friendly perto de Lisboa?",
+          "a": "Sim, a combinação de enseadas translúcidas da Arrábida a 15 minutos do centro, ferry de golfinhos o ano inteiro para Tróia, cobertura veterinária 24/7 e comboio Fertagus fácil para Lisboa faz dela uma melhor base canina do que a linha de Cascais em relação qualidade-preço e espaço exterior."
+        },
+        {
+          "q": "Preciso de açaime em público em Setúbal?",
+          "a": "Só para raças na lista portuguesa de raças restritas; as raças standard só precisam de trela. O autocarro TST e o comboio Fertagus aceitam cães grandes com açaime e grátis os pequenos em transportadora."
+        },
+        {
+          "q": "Qual é o melhor mês para Setúbal com cão?",
+          "a": "Maio-junho e setembro-outubro: temperaturas suaves, menor humidade, menos gente, acesso completo à Arrábida e época dos golfinhos em pleno auge."
+        }
       ]
     },
     "attractions": {
@@ -671,12 +896,12 @@
         {
           "name": "Forte de São Filipe",
           "neighborhood": "Above the historic centre",
-          "photo": "/images/city-places/setubal-attractions-forte-sao-filipe.jpg",
+          "photo": "/images/city-places/setubal-attractions-forte-de-sao-filipe.jpg",
           "website": "https://www.mun-setubal.pt/",
           "description": "The 16th-century star-shaped fort on the hill above Setúbal commissioned by King Philip II of Spain, with its azulejo-tiled chapel and ramparts panorama spanning the Sado estuary, the Arrábida cliffs and the Tróia peninsula. The outer ramparts and courtyard are dog-friendly year-round; only the chapel interior is closed to non-assistance dogs.",
           "descriptionFr": "Le fort en étoile du XVIᵉ siècle sur la colline au-dessus de Setúbal commandité par le roi Philippe II d'Espagne, avec sa chapelle aux azulejos et son panorama de remparts qui s'étend sur l'estuaire du Sado, les falaises de l'Arrábida et la péninsule de Tróia. Les remparts extérieurs et la cour sont dog-friendly toute l'année ; seul l'intérieur de la chapelle est fermé aux chiens non assistance.",
           "descriptionEs": "El fuerte estrellado del siglo XVI en la colina sobre Setúbal mandado construir por el rey Felipe II de España, con su capilla de azulejos y su panorámica de murallas que abarca el estuario del Sado, los acantilados da Arrábida y la península de Tróia. Las murallas exteriores y el patio son pet-friendly todo el año; solo el interior de la capilla está cerrado a perros que no sean de asistencia.",
-          "descriptionPt": "O forte em estrela do século XVI na colina sobre Setúbal mandado construir pelo rei Filipe II de Espanha, com a sua capela de azulejos e a sua panorâmica de muralhas que abarca o estuário do Sado, as falésias da Arrábida e a península de Tróia. As muralhas exteriores e o pátio são pet-friendly o ano inteiro; só o interior da capela está fechado a cães não de assistência.",
+          "descriptionPt": "O forte em estrela do século XVI na colina sobre Setúbal mandado construir pelo rei Filipe II de Espanha, com a sua capela de azulejos e a sua panorâmica de muralhas que abarca o estuário do Sado, as falésias da Arrábida e a península de Tróia. As muralhas exteriores e o pátio são pet-friendly o ano inteiro; só o interior da capela permanece fechado a cães não de assistência.",
           "dogPolicy": "Leashed dogs welcome on ramparts and courtyard; chapel interior assistance dogs only",
           "dogPolicyFr": "Chiens en laisse bienvenus sur remparts et cour ; intérieur de la chapelle uniquement chiens d'assistance",
           "dogPolicyEs": "Perros con correa bienvenidos en murallas y patio; interior de la capilla solo perros de asistencia",
@@ -694,7 +919,7 @@
         {
           "name": "Igreja de Jesus and Praça Miguel Bombarda",
           "neighborhood": "Centro histórico",
-          "photo": "/images/city-places/setubal-attractions-igreja-de-jesus.jpg",
+          "photo": "/images/city-places/setubal-attractions-igreja-de-jesus-and-praca-miguel-bombarda.jpg",
           "website": "https://www.mun-setubal.pt/",
           "description": "The 1490s Igreja de Jesus is one of the earliest Manueline-style churches in Portugal, with twisted columns built from Arrábida limestone-marble. The exterior and the surrounding Praça Miguel Bombarda form a small pedestrian outdoor space, dog-friendly year-round; the interior admits only assistance dogs.",
           "descriptionFr": "L'Igreja de Jesus des années 1490 est l'une des plus anciennes églises de style manuélin du Portugal, avec ses colonnes torsadées en marbre-calcaire de l'Arrábida. L'extérieur et la Praça Miguel Bombarda environnante forment un petit espace public extérieur piéton, dog-friendly toute l'année ; l'intérieur n'admet que les chiens d'assistance.",
@@ -717,7 +942,7 @@
         {
           "name": "Doca dos Pescadores and fish market",
           "neighborhood": "Western waterfront",
-          "photo": "/images/city-places/setubal-attractions-doca-pescadores.jpg",
+          "photo": "/images/city-places/setubal-attractions-doca-dos-pescadores-and-fish-market.jpg",
           "website": "https://www.docapesca.pt/",
           "description": "The active Setúbal fishing port at the western end of the Avenida Luísa Todi, where the trawler fleet unloads the day's catch at the lota auction. Outside the auction hall the open quayside is dog-friendly year-round and gives one of the most authentic working-port atmospheres of any Portuguese city centre.",
           "descriptionFr": "Le port de pêche actif de Setúbal à l'extrémité ouest de l'Avenida Luísa Todi, où la flotte de chalutiers décharge la prise du jour à la criée de la lota. Hors de la halle de criée, le quai ouvert est dog-friendly toute l'année et offre l'une des plus authentiques ambiances de port de travail de tout centre urbain portugais.",
@@ -759,24 +984,60 @@
         "Combine o Forte de São Filipe e a estrada no topo da falésia da Arrábida numa meia-jornada fácil, ambos com o mesmo panorama do Sado a duas altitudes."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Setúbal museums?", "a": "Only assistance dogs may enter the museum interiors (Igreja de Jesus, Galeria Municipal, Museu do Trabalho); leashed pets are welcome across the squares, ramparts, gardens and outdoor heritage sites."},
-        {"q": "Can I see dolphins from a public boat with my dog?", "a": "Yes, the Atlantic Ferries Tróia crossing is dog-friendly and crosses the Sado estuary where bottlenose dolphins live year-round; the upper deck is the best free dolphin-spotting platform."},
-        {"q": "Is the Setúbal centre walkable with a dog?", "a": "Yes, the historic centre and Avenida Luísa Todi waterfront are largely pedestrianised and a leashed dog handles the full loop (Forte, Igreja, Doca dos Pescadores) in about 90 minutes."}
+        {
+          "q": "Are dogs allowed in the Setúbal museums?",
+          "a": "Only assistance dogs may enter the museum interiors (Igreja de Jesus, Galeria Municipal, Museu do Trabalho); leashed pets are welcome across the squares, ramparts, gardens and outdoor heritage sites."
+        },
+        {
+          "q": "Can I see dolphins from a public boat with my dog?",
+          "a": "Yes, the Atlantic Ferries Tróia crossing is dog-friendly and crosses the Sado estuary where bottlenose dolphins live year-round; the upper deck is the best free dolphin-spotting platform."
+        },
+        {
+          "q": "Is the Setúbal centre walkable with a dog?",
+          "a": "Yes, the historic centre and Avenida Luísa Todi waterfront are largely pedestrianised and a leashed dog handles the full loop (Forte, Igreja, Doca dos Pescadores) in about 90 minutes."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans les musées de Setúbal ?", "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des musées (Igreja de Jesus, Galeria Municipal, Museu do Trabalho) ; les chiens en laisse sont bienvenus sur les places, remparts, jardins et sites patrimoniaux en extérieur."},
-        {"q": "Puis-je voir des dauphins depuis un bateau public avec mon chien ?", "a": "Oui, la traversée Atlantic Ferries vers Tróia est dog-friendly et traverse l'estuaire du Sado où des grands dauphins vivent toute l'année ; le pont supérieur est la meilleure plateforme gratuite d'observation."},
-        {"q": "Le centre de Setúbal est-il accessible à pied avec un chien ?", "a": "Oui, le centre historique et le front de mer de l'Avenida Luísa Todi sont en grande partie piétons et un chien en laisse fait la boucle complète (Forte, Igreja, Doca dos Pescadores) en environ 90 minutes."}
+        {
+          "q": "Les chiens sont-ils autorisés dans les musées de Setúbal ?",
+          "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des musées (Igreja de Jesus, Galeria Municipal, Museu do Trabalho) ; les chiens en laisse sont bienvenus sur les places, remparts, jardins et sites patrimoniaux en extérieur."
+        },
+        {
+          "q": "Puis-je voir des dauphins depuis un bateau public avec mon chien ?",
+          "a": "Oui, la traversée Atlantic Ferries vers Tróia est dog-friendly et traverse l'estuaire du Sado où des grands dauphins vivent toute l'année ; le pont supérieur est la meilleure plateforme gratuite d'observation."
+        },
+        {
+          "q": "Le centre de Setúbal est-il accessible à pied avec un chien ?",
+          "a": "Oui, le centre historique et le front de mer de l'Avenida Luísa Todi sont en grande partie piétons et un chien en laisse fait la boucle complète (Forte, Igreja, Doca dos Pescadores) en environ 90 minutes."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en los museos de Setúbal?", "a": "Solo los perros de asistencia pueden entrar en los interiores de los museos (Igreja de Jesus, Galeria Municipal, Museu do Trabalho); los perros con correa son bienvenidos en las plazas, murallas, jardines y sitios patrimoniales al aire libre."},
-        {"q": "¿Puedo ver delfines desde un barco público con mi perro?", "a": "Sí, la travesía Atlantic Ferries a Tróia es pet-friendly y cruza el estuario del Sado donde viven delfines mulares todo el año; la cubierta superior es la mejor plataforma gratuita para avistarlos."},
-        {"q": "¿El centro de Setúbal es accesible a pie con un perro?", "a": "Sí, el centro histórico y el frente marítimo de la Avenida Luísa Todi son en gran parte peatonales y un perro con correa hace el recorrido completo (Forte, Igreja, Doca dos Pescadores) en unos 90 minutos."}
+        {
+          "q": "¿Se admiten perros en los museos de Setúbal?",
+          "a": "Solo los perros de asistencia pueden entrar en los interiores de los museos (Igreja de Jesus, Galeria Municipal, Museu do Trabalho); los perros con correa son bienvenidos en las plazas, murallas, jardines y sitios patrimoniales al aire libre."
+        },
+        {
+          "q": "¿Puedo ver delfines desde un barco público con mi perro?",
+          "a": "Sí, la travesía Atlantic Ferries a Tróia es pet-friendly y cruza el estuario del Sado donde viven delfines mulares todo el año; la cubierta superior es la mejor plataforma gratuita para avistarlos."
+        },
+        {
+          "q": "¿El centro de Setúbal es accesible a pie con un perro?",
+          "a": "Sí, el centro histórico y el frente marítimo de la Avenida Luísa Todi son en gran parte peatonales y un perro con correa hace el recorrido completo (Forte, Igreja, Doca dos Pescadores) en unos 90 minutos."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos nos museus de Setúbal?", "a": "Só os cães de assistência podem entrar nos interiores dos museus (Igreja de Jesus, Galeria Municipal, Museu do Trabalho); os cães com trela são bem-vindos nas praças, muralhas, jardins e sítios patrimoniais ao ar livre."},
-        {"q": "Posso ver golfinhos a partir de um barco público com o meu cão?", "a": "Sim, a travessia Atlantic Ferries para Tróia é pet-friendly e atravessa o estuário do Sado onde vivem roazes o ano inteiro; o convés superior é a melhor plataforma grátis para avistá-los."},
-        {"q": "O centro de Setúbal é acessível a pé com um cão?", "a": "Sim, o centro histórico e a frente marítima da Avenida Luísa Todi são em grande parte pedonais e um cão com trela faz o circuito completo (Forte, Igreja, Doca dos Pescadores) em cerca de 90 minutos."}
+        {
+          "q": "Os cães são admitidos nos museus de Setúbal?",
+          "a": "Só os cães de assistência podem entrar nos interiores dos museus (Igreja de Jesus, Galeria Municipal, Museu do Trabalho); os cães com trela são bem-vindos nas praças, muralhas, jardins e sítios patrimoniais ao ar livre."
+        },
+        {
+          "q": "Posso ver golfinhos a partir de um barco público com o meu cão?",
+          "a": "Sim, a travessia Atlantic Ferries para Tróia é pet-friendly e atravessa o estuário do Sado onde vivem roazes o ano inteiro; o convés superior é a melhor plataforma grátis para avistá-los."
+        },
+        {
+          "q": "O centro de Setúbal é acessível a pé com um cão?",
+          "a": "Sim, o centro histórico e a frente marítima da Avenida Luísa Todi são em grande parte pedonais e um cão com trela faz o circuito completo (Forte, Igreja, Doca dos Pescadores) em cerca de 90 minutos."
+        }
       ]
     },
     "petsitting": {
@@ -849,24 +1110,60 @@
         "Reserve com 2-3 semanas de antecedência para qualquer estadia durante a época alta da Arrábida em julho-agosto quando os locais sazonais enchem as pensões rurais."
       ],
       "faqsEn": [
-        {"q": "How much does pet sitting cost in Setúbal?", "a": "Expect EUR 18-28 per night for boarding and EUR 10-16 per 30-minute walk via Pawshake or DogHero; rural boarding kennels in the Arrábida foothills charge from EUR 22 per day."},
-        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Setúbal hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a Lisbon dinner or a late Arrábida sunset trip."},
-        {"q": "Do I need to bring my dog's food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."}
+        {
+          "q": "How much does pet sitting cost in Setúbal?",
+          "a": "Expect EUR 18-28 per night for boarding and EUR 10-16 per 30-minute walk via Pawshake or DogHero; rural boarding kennels in the Arrábida foothills charge from EUR 22 per day."
+        },
+        {
+          "q": "Can hotels recommend a sitter for an evening out?",
+          "a": "Yes, larger Setúbal hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a Lisbon dinner or a late Arrábida sunset trip."
+        },
+        {
+          "q": "Do I need to bring my dog's food to a sitter?",
+          "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la garde à Setúbal ?", "a": "Comptez 18-28 € par nuit en pension et 10-16 € par balade de 30 minutes via Pawshake ou DogHero ; les pensions rurales dans les contreforts de l'Arrábida facturent à partir de 22 € par jour."},
-        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Setúbal gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour un dîner à Lisbonne ou une sortie tardive coucher de soleil sur l'Arrábida."},
-        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."}
+        {
+          "q": "Combien coûte la garde à Setúbal ?",
+          "a": "Comptez 18-28 € par nuit en pension et 10-16 € par balade de 30 minutes via Pawshake ou DogHero ; les pensions rurales dans les contreforts de l'Arrábida facturent à partir de 22 € par jour."
+        },
+        {
+          "q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?",
+          "a": "Oui, les grands hôtels de Setúbal gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour un dîner à Lisbonne ou une sortie tardive coucher de soleil sur l'Arrábida."
+        },
+        {
+          "q": "Dois-je apporter la nourriture du chien au sitter ?",
+          "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el cuidado de mascotas en Setúbal?", "a": "Cuenta 18-28 € por noche en residencia y 10-16 € por paseo de 30 minutos vía Pawshake o DogHero; las residencias rurales en las estribaciones da Arrábida cobran desde 22 € por día."},
-        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Setúbal guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una cena en Lisboa o una salida tardía al atardecer en la Arrábida."},
-        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."}
+        {
+          "q": "¿Cuánto cuesta el cuidado de mascotas en Setúbal?",
+          "a": "Cuenta 18-28 € por noche en residencia y 10-16 € por paseo de 30 minutos vía Pawshake o DogHero; las residencias rurales en las estribaciones da Arrábida cobran desde 22 € por día."
+        },
+        {
+          "q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?",
+          "a": "Sí, los grandes hoteles de Setúbal guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una cena en Lisboa o una salida tardía al atardecer en la Arrábida."
+        },
+        {
+          "q": "¿Tengo que llevar la comida del perro al cuidador?",
+          "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa o cuidado de animais em Setúbal?", "a": "Conte 18-28 € por noite em creche e 10-16 € por passeio de 30 minutos via Pawshake ou DogHero; as creches rurais nos contrafortes da Arrábida cobram desde 22 € por dia."},
-        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Setúbal guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para um jantar em Lisboa ou uma saída tardia ao pôr-do-sol na Arrábida."},
-        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."}
+        {
+          "q": "Quanto custa o cuidado de animais em Setúbal?",
+          "a": "Conte 18-28 € por noite em creche e 10-16 € por passeio de 30 minutos via Pawshake ou DogHero; as creches rurais nos contrafortes da Arrábida cobram desde 22 € por dia."
+        },
+        {
+          "q": "Os hotéis podem recomendar um sitter para uma saída à noite?",
+          "a": "Sim, os grandes hotéis de Setúbal guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para um jantar em Lisboa ou uma saída tardia ao pôr-do-sol na Arrábida."
+        },
+        {
+          "q": "Tenho de levar a comida do cão ao cuidador?",
+          "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."
+        }
       ]
     }
   }

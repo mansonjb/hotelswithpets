@@ -24,7 +24,7 @@
           "description": "A Michelin-starred seafood institution on the Boulevard Sainte-Beuve directly facing Nausicaá and the Plage de Boulogne, run by chef Tony Lestienne, serving the catch landed at the port de pêche 500 m east. Leashed dogs welcome on the heated covered terrace year-round; the formal indoor dining room admits only assistance dogs.",
           "descriptionFr": "Institution de fruits de mer étoilée Michelin sur le Boulevard Sainte-Beuve directement face à Nausicaá et à la Plage de Boulogne, tenue par le chef Tony Lestienne, servant la pêche débarquée au port de pêche à 500 m à l'est. Chiens en laisse bienvenus sur la terrasse couverte chauffée toute l'année ; la salle intérieure formelle n'admet que les chiens d'assistance.",
           "descriptionEs": "Institución de marisco con estrella Michelin en el Boulevard Sainte-Beuve directamente frente a Nausicaá y a la Plage de Boulogne, llevada por el chef Tony Lestienne, sirviendo la pesca desembarcada en el port de pêche a 500 m al este. Perros con correa bienvenidos en la terraza cubierta climatizada todo el año; la sala interior formal solo admite perros de asistencia.",
-          "descriptionPt": "Instituição de marisco com estrela Michelin no Boulevard Sainte-Beuve directamente em frente ao Nausicaá e à Plage de Boulogne, gerida pelo chef Tony Lestienne, a servir a pesca desembarcada no port de pêche a 500 m a leste. Cães com trela bem-vindos na esplanada coberta aquecida o ano inteiro; a sala interior formal só admite cães de assistência.",
+          "descriptionPt": "Instituição de marisco com estrela Michelin no Boulevard Sainte-Beuve mesmo em frente ao Nausicaá e à Plage de Boulogne, gerida pelo chef Tony Lestienne, a servir a pesca desembarcada no port de pêche a 500 m a leste. Cães com trela bem-vindos na esplanada coberta aquecida o ano inteiro; a sala interior formal só admite cães de assistência.",
           "petPolicy": "Leashed dogs welcome on the heated covered terrace year-round",
           "petPolicyFr": "Chiens en laisse bienvenus sur la terrasse couverte chauffée toute l'année",
           "petPolicyEs": "Perros con correa bienvenidos en la terraza cubierta climatizada todo el año",
@@ -45,7 +45,7 @@
           "name": "Estaminet du Château",
           "address": "2 Rue du Château, 62200 Boulogne-sur-Mer",
           "neighborhood": "Haute-Ville / face au Château-Musée",
-          "photo": "/images/city-places/boulogne-sur-mer-restaurants-estaminet-chateau.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-restaurants-estaminet-du-chateau.jpg",
           "website": "https://www.estaminetduchateau.fr/",
           "description": "A traditional Flemish estaminet inside the walled Haute-Ville opposite the Château-Musée, with the best-preserved 13th-century ramparts in France visible from the pavement terrace. Serves carbonnade flamande, potjevleesch, Welsh complet and a 30-strong selection of Nord-Pas-de-Calais blonde and amber ales. Leashed dogs welcome at every table indoors and on the terrace.",
           "descriptionFr": "Estaminet flamand traditionnel à l'intérieur de la Haute-Ville fortifiée face au Château-Musée, avec les remparts du 13e siècle les mieux conservés de France visibles depuis la terrasse trottoir. Sert carbonnade flamande, potjevleesch, Welsh complet et une sélection de 30 bières blondes et ambrées du Nord-Pas-de-Calais. Chiens en laisse bienvenus à toutes les tables en salle et sur la terrasse.",
@@ -115,24 +115,60 @@
         "As ruelas calcetadas da Haute-Ville (Rue de Lille, Rue du Château) são em grande parte pedonais; chegue antes das 18:00 no verão para a luz ocidental do Canal a bater nas muralhas do século XIII e na cúpula da Cathédrale Notre-Dame."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside Boulogne-sur-Mer restaurants?", "a": "Leashed dogs are welcome at virtually every brasserie terrace and inside most informal bistros and estaminets. Formal Michelin-starred dining rooms (La Matelote) restrict dogs to the heated terrace; assistance dogs go anywhere."},
-        {"q": "Do Boulogne restaurants speak English?", "a": "Yes commonly; the city sees heavy UK day-tripper, Belgian weekender and Anglo-Saxon Channel cruise traffic, and the brasserie scene around Place Dalton, Quai Gambetta and the Haute-Ville is comfortably bilingual."},
-        {"q": "Where can I eat dockside fish with my dog?", "a": "La Matelote on Boulevard Sainte-Beuve faces Nausicaá and the port de pêche; the heated terrace serves the catch landed 500 m east at France's largest fishing port and your dog watches the trawlers come in."}
+        {
+          "q": "Are dogs allowed inside Boulogne-sur-Mer restaurants?",
+          "a": "Leashed dogs are welcome at virtually every brasserie terrace and inside most informal bistros and estaminets. Formal Michelin-starred dining rooms (La Matelote) restrict dogs to the heated terrace; assistance dogs go anywhere."
+        },
+        {
+          "q": "Do Boulogne restaurants speak English?",
+          "a": "Yes commonly; the city sees heavy UK day-tripper, Belgian weekender and Anglo-Saxon Channel cruise traffic, and the brasserie scene around Place Dalton, Quai Gambetta and the Haute-Ville is comfortably bilingual."
+        },
+        {
+          "q": "Where can I eat dockside fish with my dog?",
+          "a": "La Matelote on Boulevard Sainte-Beuve faces Nausicaá and the port de pêche; the heated terrace serves the catch landed 500 m east at France's largest fishing port and your dog watches the trawlers come in."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Boulogne-sur-Mer ?", "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de brasserie et à l'intérieur de la plupart des bistrots et estaminets informels. Les salles étoilées Michelin (La Matelote) restreignent les chiens à la terrasse chauffée ; les chiens d'assistance vont partout."},
-        {"q": "Les restaurants de Boulogne parlent-ils anglais ?", "a": "Oui couramment ; la ville reçoit un fort trafic d'excursionnistes britanniques, de week-endeurs belges et de croisiéristes anglo-saxons sur la Manche, et la scène brasserie autour de la Place Dalton, du Quai Gambetta et de la Haute-Ville est confortablement bilingue."},
-        {"q": "Où manger du poisson direct du quai avec mon chien ?", "a": "La Matelote sur le Boulevard Sainte-Beuve fait face à Nausicaá et au port de pêche ; la terrasse chauffée sert la pêche débarquée à 500 m à l'est au premier port de pêche de France et votre chien observe les chalutiers rentrer."}
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Boulogne-sur-Mer ?",
+          "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de brasserie et à l'intérieur de la plupart des bistrots et estaminets informels. Les salles étoilées Michelin (La Matelote) restreignent les chiens à la terrasse chauffée ; les chiens d'assistance vont partout."
+        },
+        {
+          "q": "Les restaurants de Boulogne parlent-ils anglais ?",
+          "a": "Oui couramment ; la ville reçoit un fort trafic d'excursionnistes britanniques, de week-endeurs belges et de croisiéristes anglo-saxons sur la Manche, et la scène brasserie autour de la Place Dalton, du Quai Gambetta et de la Haute-Ville est confortablement bilingue."
+        },
+        {
+          "q": "Où manger du poisson direct du quai avec mon chien ?",
+          "a": "La Matelote sur le Boulevard Sainte-Beuve fait face à Nausicaá et au port de pêche ; la terrasse chauffée sert la pêche débarquée à 500 m à l'est au premier port de pêche de France et votre chien observe les chalutiers rentrer."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Boulogne-sur-Mer?", "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas de brasserie y dentro de la mayoría de bistrós y estaminets informales. Las salas con estrella Michelin (La Matelote) restringen los perros a la terraza climatizada; los perros de asistencia van a cualquier sitio."},
-        {"q": "¿Los restaurantes de Boulogne hablan inglés?", "a": "Sí habitualmente; la ciudad recibe un fuerte tráfico de excursionistas británicos, weekenders belgas y cruceristas anglosajones en el Canal, y la escena brasserie en torno a la Place Dalton, el Quai Gambetta y la Haute-Ville es cómodamente bilingüe."},
-        {"q": "¿Dónde comer pescado directo del muelle con mi perro?", "a": "La Matelote en el Boulevard Sainte-Beuve está frente a Nausicaá y al port de pêche; la terraza climatizada sirve la pesca desembarcada a 500 m al este en el primer puerto pesquero de Francia y tu perro observa los arrastreros regresar."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Boulogne-sur-Mer?",
+          "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas de brasserie y dentro de la mayoría de bistrós y estaminets informales. Las salas con estrella Michelin (La Matelote) restringen los perros a la terraza climatizada; los perros de asistencia van a cualquier sitio."
+        },
+        {
+          "q": "¿Los restaurantes de Boulogne hablan inglés?",
+          "a": "Sí habitualmente; la ciudad recibe un fuerte tráfico de excursionistas británicos, weekenders belgas y cruceristas anglosajones en el Canal, y la escena brasserie en torno a la Place Dalton, el Quai Gambetta y la Haute-Ville es cómodamente bilingüe."
+        },
+        {
+          "q": "¿Dónde comer pescado directo del muelle con mi perro?",
+          "a": "La Matelote en el Boulevard Sainte-Beuve está frente a Nausicaá y al port de pêche; la terraza climatizada sirve la pesca desembarcada a 500 m al este en el primer puerto pesquero de Francia y tu perro observa los arrastreros regresar."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos dentro dos restaurantes de Boulogne-sur-Mer?", "a": "Os cães com trela são bem-vindos em praticamente todas as esplanadas de brasserie e dentro da maioria dos bistrôs e estaminets informais. As salas com estrela Michelin (La Matelote) restringem os cães à esplanada aquecida; os cães de assistência vão a qualquer lugar."},
-        {"q": "Os restaurantes de Boulogne falam inglês?", "a": "Sim habitualmente; a cidade recebe um forte tráfego de excursionistas britânicos, weekenders belgas e cruzeiristas anglo-saxónicos no Canal, e a cena brasserie em torno da Place Dalton, do Quai Gambetta e da Haute-Ville é confortavelmente bilingue."},
-        {"q": "Onde comer peixe directo do cais com o meu cão?", "a": "A La Matelote no Boulevard Sainte-Beuve está em frente ao Nausicaá e ao port de pêche; a esplanada aquecida serve a pesca desembarcada a 500 m a leste no primeiro porto de pesca de França e o seu cão observa os arrastões a regressar."}
+        {
+          "q": "Os cães são admitidos dentro dos restaurantes de Boulogne-sur-Mer?",
+          "a": "Os cães com trela são bem-vindos em praticamente todas as esplanadas de brasserie e dentro da maioria dos bistrôs e estaminets informais. As salas com estrela Michelin (La Matelote) restringem os cães à esplanada aquecida; os cães de assistência vão a qualquer lugar."
+        },
+        {
+          "q": "Os restaurantes de Boulogne falam inglês?",
+          "a": "Sim habitualmente; a cidade recebe um forte tráfego de excursionistas britânicos, weekenders belgas e cruzeiristas anglo-saxónicos no Canal, e a cena brasserie em torno da Place Dalton, do Quai Gambetta e da Haute-Ville é confortavelmente bilingue."
+        },
+        {
+          "q": "Onde comer peixe directo do cais com o meu cão?",
+          "a": "A La Matelote no Boulevard Sainte-Beuve está em frente ao Nausicaá e ao port de pêche; a esplanada aquecida serve a pesca desembarcada a 500 m a leste no primeiro porto de pesca de França e o seu cão observa os arrastões a regressar."
+        }
       ]
     },
     "parks": {
@@ -149,7 +185,7 @@
           "name": "Remparts de la Haute-Ville (13th-century rampart walk)",
           "address": "Rue de l'Ancien Rivage, 62200 Boulogne-sur-Mer",
           "neighborhood": "Haute-Ville",
-          "photo": "/images/city-places/boulogne-sur-mer-parks-remparts.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-parks-remparts-de-la-haute-ville-13th-century-rampart-walk.jpg",
           "website": "https://www.boulognesurmer-tourisme.com/",
           "description": "A 1.5 km elevated walking loop on top of the 13th-century rampart curtain wall encircling the Haute-Ville, the best-preserved set of medieval ramparts in France, built between 1227 and 1231 by Philippe Hurepel and never breached. Wide flat grassy walk between the 17 watchtowers, with continuous views west over the lower town, the port, the Channel and east to the rolling Boulonnais hinterland. Leashed dogs welcome year-round.",
           "descriptionFr": "Boucle de marche surélevée de 1,5 km sur le sommet du rideau de remparts du 13e siècle qui encercle la Haute-Ville, l'ensemble de remparts médiévaux le mieux conservé de France, construit entre 1227 et 1231 par Philippe Hurepel et jamais percé. Large promenade plate et herbeuse entre les 17 tours de guet, avec vues continues à l'ouest sur la ville basse, le port, la Manche et à l'est sur l'arrière-pays vallonné boulonnais. Chiens en laisse bienvenus toute l'année.",
@@ -175,7 +211,7 @@
           "name": "Parc de la Falaise (Cap d'Alprech)",
           "address": "Rue du Phare, 62480 Le Portel",
           "neighborhood": "Le Portel / Cap d'Alprech (3 km south of Boulogne centre)",
-          "photo": "/images/city-places/boulogne-sur-mer-parks-falaise-alprech.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-parks-parc-de-la-falaise-cap-d-alprech.jpg",
           "website": "https://www.boulognesurmer-tourisme.com/",
           "description": "A cliff-top grassland park stretching from the Plage du Portel up to the 60 m chalk bluff topped by the Cap d'Alprech lighthouse (built 1963, 28 m tall, the southern bookend of the Boulogne port approach). Wide unfenced grass with continuous views north over the port de pêche and the Plage de Boulogne, south to Hardelot and west across the Channel to England on clear days. Leashed dogs welcome year-round on all trails.",
           "descriptionFr": "Parc de prairie en haut de falaise s'étendant de la Plage du Portel jusqu'au bluff de craie de 60 m couronné par le phare du Cap d'Alprech (construit 1963, 28 m de haut, le serre-livres sud de l'approche du port de Boulogne). Large prairie non clôturée avec vues continues au nord sur le port de pêche et la Plage de Boulogne, au sud vers Hardelot et à l'ouest à travers la Manche vers l'Angleterre par temps clair. Chiens en laisse bienvenus toute l'année sur tous les sentiers.",
@@ -201,7 +237,7 @@
           "name": "GR120 coastal path to Cap Gris-Nez",
           "address": "Departure: Plage de Boulogne, 62200 Boulogne-sur-Mer",
           "neighborhood": "Côte d'Opale (Wimereux, Audresselles, Cap Gris-Nez, 20 km north)",
-          "photo": "/images/city-places/boulogne-sur-mer-parks-gr120-gris-nez.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-parks-gr120-coastal-path-to-cap-gris-nez.jpg",
           "website": "https://www.lesdeuxcaps.fr/",
           "description": "The northern leg of the GR120 sentier du littoral, climbing from the Plage de Boulogne through the dunes and Belle Epoque seafront of Wimereux (4 km) and on through Audresselles village to Cap Gris-Nez (20 km, 5h walk), the closest point of continental Europe to Britain (28 km across the Channel). Part of the Grand Site de France des Deux Caps, wide unfenced grassland on the clifftop with direct views of the 500-ships-per-day Channel shipping lane. Leashed dogs welcome year-round on all trails.",
           "descriptionFr": "Le tronçon nord du GR120 sentier du littoral, montant de la Plage de Boulogne à travers les dunes et le front de mer Belle Epoque de Wimereux (4 km) et plus loin par le village d'Audresselles jusqu'au Cap Gris-Nez (20 km, 5h de marche), le point le plus proche de l'Europe continentale du Royaume-Uni (28 km à travers la Manche). Partie du Grand Site de France des Deux Caps, vaste prairie non clôturée en haut de falaise avec vues directes sur le rail maritime de la Manche de 500 navires par jour. Chiens en laisse bienvenus toute l'année sur tous les sentiers.",
@@ -245,24 +281,60 @@
         "O Cap d'Alprech e o GR120 para Wimereux são falésias cretáceas e pradarias sem sombra; no verão leve água, no inverno espere ventos fortes do Canal, e em qualquer época mantenha o cão com trela curta perto das beiras de falésia sem vedação (60 m de queda no d'Alprech)."
       ],
       "faqsEn": [
-        {"q": "Can I walk the Boulogne ramparts with my dog?", "a": "Yes, the 1.5 km chemin de ronde on top of the 13th-century rampart curtain wall of the Haute-Ville is fully open year-round to leashed dogs. The wall is unrailed on the inner side, so keep a short leash if your dog tends to wander."},
-        {"q": "Is there an off-leash dog park in Boulogne?", "a": "Boulogne does not have a fully fenced off-leash park inside city limits; locals walk dogs off-leash on the Plage du Portel and Plage de Boulogne outside summer lifeguard season, or drive 20 km north to the Cap Gris-Nez clifftop grassland outside nesting season."},
-        {"q": "What is the best clifftop dog walk near Boulogne?", "a": "The GR120 sentier du littoral north to Wimereux (4 km, 1h) and on to Cap Gris-Nez (20 km, 5h) offers wide unfenced grassland on top of chalk bluffs with direct views of the Channel shipping lane and the British coast across 28 km of sea."}
+        {
+          "q": "Can I walk the Boulogne ramparts with my dog?",
+          "a": "Yes, the 1.5 km chemin de ronde on top of the 13th-century rampart curtain wall of the Haute-Ville is fully open year-round to leashed dogs. The wall is unrailed on the inner side, so keep a short leash if your dog tends to wander."
+        },
+        {
+          "q": "Is there an off-leash dog park in Boulogne?",
+          "a": "Boulogne does not have a fully fenced off-leash park inside city limits; locals walk dogs off-leash on the Plage du Portel and Plage de Boulogne outside summer lifeguard season, or drive 20 km north to the Cap Gris-Nez clifftop grassland outside nesting season."
+        },
+        {
+          "q": "What is the best clifftop dog walk near Boulogne?",
+          "a": "The GR120 sentier du littoral north to Wimereux (4 km, 1h) and on to Cap Gris-Nez (20 km, 5h) offers wide unfenced grassland on top of chalk bluffs with direct views of the Channel shipping lane and the British coast across 28 km of sea."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je marcher sur les remparts de Boulogne avec mon chien ?", "a": "Oui, le chemin de ronde de 1,5 km sur le sommet du rideau de remparts du 13e siècle de la Haute-Ville est entièrement ouvert toute l'année aux chiens en laisse. Le mur est sans garde-corps côté intérieur, donc gardez une laisse courte si votre chien a tendance à divaguer."},
-        {"q": "Y a-t-il un parc canin sans laisse à Boulogne ?", "a": "Boulogne n'a pas de parc sans laisse entièrement clôturé dans le périmètre urbain ; les locaux promènent les chiens sans laisse sur la Plage du Portel et la Plage de Boulogne hors saison de surveillance estivale, ou roulent 20 km au nord jusqu'à la prairie sommitale du Cap Gris-Nez hors saison de nidification."},
-        {"q": "Quelle est la meilleure balade en haut de falaise près de Boulogne ?", "a": "Le GR120 sentier du littoral au nord vers Wimereux (4 km, 1h) et plus loin Cap Gris-Nez (20 km, 5h) offre une vaste prairie non clôturée en haut de bluffs de craie avec vues directes sur le rail maritime de la Manche et sur la côte britannique à travers 28 km de mer."}
+        {
+          "q": "Puis-je marcher sur les remparts de Boulogne avec mon chien ?",
+          "a": "Oui, le chemin de ronde de 1,5 km sur le sommet du rideau de remparts du 13e siècle de la Haute-Ville est entièrement ouvert toute l'année aux chiens en laisse. Le mur est sans garde-corps côté intérieur, donc gardez une laisse courte si votre chien a tendance à divaguer."
+        },
+        {
+          "q": "Y a-t-il un parc canin sans laisse à Boulogne ?",
+          "a": "Boulogne n'a pas de parc sans laisse entièrement clôturé dans le périmètre urbain ; les locaux promènent les chiens sans laisse sur la Plage du Portel et la Plage de Boulogne hors saison de surveillance estivale, ou roulent 20 km au nord jusqu'à la prairie sommitale du Cap Gris-Nez hors saison de nidification."
+        },
+        {
+          "q": "Quelle est la meilleure balade en haut de falaise près de Boulogne ?",
+          "a": "Le GR120 sentier du littoral au nord vers Wimereux (4 km, 1h) et plus loin Cap Gris-Nez (20 km, 5h) offre une vaste prairie non clôturée en haut de bluffs de craie avec vues directes sur le rail maritime de la Manche et sur la côte britannique à travers 28 km de mer."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo caminar por las murallas de Boulogne con mi perro?", "a": "Sí, el chemin de ronde de 1,5 km en lo alto de la cortina de murallas del siglo XIII de la Haute-Ville está enteramente abierto todo el año a los perros con correa. El muro no tiene barandilla en el lado interior, así que mantén una correa corta si tu perro tiende a divagar."},
-        {"q": "¿Hay un parque canino sin correa en Boulogne?", "a": "Boulogne no tiene un parque sin correa enteramente vallado dentro del perímetro urbano; los locales pasean perros sin correa en la Plage du Portel y la Plage de Boulogne fuera de temporada de vigilancia estival, o conducen 20 km al norte hasta la pradera de la cima del Cap Gris-Nez fuera de la temporada de nidificación."},
-        {"q": "¿Cuál es el mejor paseo de cima de acantilado cerca de Boulogne?", "a": "El GR120 sentier du littoral al norte hacia Wimereux (4 km, 1h) y más allá Cap Gris-Nez (20 km, 5h) ofrece vasta pradera sin vallar en lo alto de bluffs calizos con vistas directas a la ruta marítima del Canal y a la costa británica a través de 28 km de mar."}
+        {
+          "q": "¿Puedo caminar por las murallas de Boulogne con mi perro?",
+          "a": "Sí, el chemin de ronde de 1,5 km en lo alto de la cortina de murallas del siglo XIII de la Haute-Ville está enteramente abierto todo el año a los perros con correa. El muro no tiene barandilla en el lado interior, así que mantén una correa corta si tu perro tiende a divagar."
+        },
+        {
+          "q": "¿Hay un parque canino sin correa en Boulogne?",
+          "a": "Boulogne no tiene un parque sin correa enteramente vallado dentro del perímetro urbano; los locales pasean perros sin correa en la Plage du Portel y la Plage de Boulogne fuera de temporada de vigilancia estival, o conducen 20 km al norte hasta la pradera de la cima del Cap Gris-Nez fuera de la temporada de nidificación."
+        },
+        {
+          "q": "¿Cuál es el mejor paseo de cima de acantilado cerca de Boulogne?",
+          "a": "El GR120 sentier du littoral al norte hacia Wimereux (4 km, 1h) y más allá Cap Gris-Nez (20 km, 5h) ofrece vasta pradera sin vallar en lo alto de bluffs calizos con vistas directas a la ruta marítima del Canal y a la costa británica a través de 28 km de mar."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso caminhar nas muralhas de Boulogne com o meu cão?", "a": "Sim, o chemin de ronde de 1,5 km no topo da cortina de muralhas do século XIII da Haute-Ville está inteiramente aberto o ano inteiro aos cães com trela. O muro não tem corrimão do lado interior, por isso mantenha uma trela curta se o seu cão tende a divagar."},
-        {"q": "Há um parque canino sem trela em Boulogne?", "a": "Boulogne não tem um parque sem trela inteiramente vedado dentro do perímetro urbano; os locais passeiam cães sem trela na Plage du Portel e na Plage de Boulogne fora da época de vigilância estival, ou conduzem 20 km a norte até à pradaria do topo do Cap Gris-Nez fora da época de nidificação."},
-        {"q": "Qual é o melhor passeio em topo de falésia perto de Boulogne?", "a": "O GR120 sentier du littoral a norte para Wimereux (4 km, 1h) e mais adiante Cap Gris-Nez (20 km, 5h) oferece vasta pradaria sem vedação no topo de bluffs cretáceos com vistas directas para a rota marítima do Canal e para a costa britânica através de 28 km de mar."}
+        {
+          "q": "Posso caminhar nas muralhas de Boulogne com o meu cão?",
+          "a": "Sim, o chemin de ronde de 1,5 km no topo da cortina de muralhas do século XIII da Haute-Ville está inteiramente aberto o ano inteiro aos cães com trela. O muro não tem corrimão do lado interior, por isso mantenha uma trela curta se o seu cão tende a divagar."
+        },
+        {
+          "q": "Há um parque canino sem trela em Boulogne?",
+          "a": "Boulogne não tem um parque sem trela inteiramente vedado dentro do perímetro urbano; os locais passeiam cães sem trela na Plage du Portel e na Plage de Boulogne fora da época de vigilância estival, ou conduzem 20 km a norte até à pradaria do topo do Cap Gris-Nez fora da época de nidificação."
+        },
+        {
+          "q": "Qual é o melhor passeio em topo de falésia perto de Boulogne?",
+          "a": "O GR120 sentier du littoral a norte para Wimereux (4 km, 1h) e mais adiante Cap Gris-Nez (20 km, 5h) oferece vasta pradaria sem vedação no topo de bluffs cretáceos com vistas directas para a rota marítima do Canal e para a costa britânica através de 28 km de mar."
+        }
       ]
     },
     "transport": {
@@ -279,7 +351,7 @@
           "name": "Gare de Boulogne-Ville (TGV inOui / TER)",
           "address": "Place de France, 62200 Boulogne-sur-Mer",
           "neighborhood": "Centre / Ville basse",
-          "photo": "/images/city-places/boulogne-sur-mer-transport-gare-ville.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-transport-gare-de-boulogne-ville-tgv-inoui-ter.jpg",
           "website": "https://www.sncf-connect.com/",
           "description": "The Boulogne-Ville main railway station 500 m east of the Place Dalton, with direct TGV inOui to Paris Gare du Nord (2h25, 5 daily), TER north to Calais-Ville (30 min) and Dunkerque (1h30), TER south to Étaples-Le Touquet (25 min), Berck and Amiens, and TER east to Lille-Flandres (1h45). Small dogs in carriers travel SNCF EUR 7 flat-rate; large leashed muzzled dogs pay EUR 7 on TGV and TER.",
           "descriptionFr": "La gare principale de Boulogne-Ville à 500 m à l'est de la Place Dalton, avec TGV inOui direct vers Paris Gare du Nord (2h25, 5 par jour), TER au nord vers Calais-Ville (30 min) et Dunkerque (1h30), TER au sud vers Étaples-Le Touquet (25 min), Berck et Amiens, et TER à l'est vers Lille-Flandres (1h45). Petits chiens en cage voyagent SNCF 7 € forfait ; grands chiens en laisse muselés paient 7 € sur TGV et TER.",
@@ -295,7 +367,7 @@
           "name": "Marinéo city bus network",
           "address": "Pôle d'échanges Boulogne-Ville, Place de France, 62200 Boulogne-sur-Mer",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/boulogne-sur-mer-transport-marineo.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-transport-marineo-city-bus-network.jpg",
           "website": "https://www.mobilite-marineo.fr/",
           "description": "The Marinéo network runs 22 daytime bus lines and a Sunday-evening service across the Communauté d'agglomération du Boulonnais (Boulogne, Le Portel, Outreau, Saint-Martin-Boulogne, Wimereux, 22 communes total). Hub at the Pôle d'échanges Boulogne-Ville next to the railway station. Leashed dogs travel free at driver's discretion (muzzle required for large breeds); ticket EUR 1.40, day pass EUR 4.",
           "descriptionFr": "Le réseau Marinéo assure 22 lignes de bus de jour et un service dimanche soir dans la Communauté d'agglomération du Boulonnais (Boulogne, Le Portel, Outreau, Saint-Martin-Boulogne, Wimereux, 22 communes au total). Hub au Pôle d'échanges Boulogne-Ville à côté de la gare. Chiens en laisse voyagent gratuitement à la discrétion du conducteur (muselière exigée pour les grandes races) ; ticket 1,40 €, pass journée 4 €.",
@@ -311,7 +383,7 @@
           "name": "BCD intercity coach to Calais ferry port and Eurotunnel Coquelles",
           "address": "Pôle d'échanges Boulogne-Ville, Place de France, 62200 Boulogne-sur-Mer",
           "neighborhood": "Departure from Boulogne-Ville station",
-          "photo": "/images/city-places/boulogne-sur-mer-transport-bcd-coach.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-transport-bcd-intercity-coach-to-calais-ferry-port-and-eurotunnel-coqu.jpg",
           "website": "https://www.bcd-cariane.com/",
           "description": "BCD Cariane runs intercity coach line 511 from Boulogne-Ville to Calais city centre (45 min) with onward connections to the Calais ferry port and a separate line to the Eurotunnel Le Shuttle Coquelles terminal (1h via Calais). Useful for UK foot-passenger crossings without a car. Leashed dogs accepted (muzzle for large breeds), assistance dogs free, single ticket EUR 4-6.",
           "descriptionFr": "BCD Cariane assure la ligne d'autocar interurbain 511 depuis Boulogne-Ville vers le centre de Calais (45 min) avec correspondances vers le port ferry de Calais et une ligne séparée vers le terminal Eurotunnel Le Shuttle de Coquelles (1h via Calais). Utile pour les traversées UK piétons sans voiture. Chiens en laisse acceptés (muselière pour grandes races), chiens d'assistance gratuits, billet simple 4-6 €.",
@@ -345,24 +417,60 @@
         "Para travessias UK, o autocarro interurbano BCD liga Boulogne-Ville ao porto ferry de Calais (45 min) e ao Eurotunnel Le Shuttle de Coquelles (1h), útil para peões; em carro, o Eurotunnel Le Shuttle é o único modo onde os animais permanecem no veículo do proprietário toda a travessia de 35 minutos."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog on the TGV from Boulogne to Paris?", "a": "Yes, TGV inOui from Boulogne-Ville to Paris Gare du Nord (2h25, 5 daily) accepts small dogs in carriers (EUR 7 flat) and large leashed muzzled dogs (EUR 7). Assistance dogs travel free."},
-        {"q": "How do I get from Boulogne to the Calais ferry port with a dog?", "a": "By TER train Boulogne-Ville to Calais-Ville (30 min) then a 10-min taxi to the ferry port, or by BCD intercity coach line 511 from Boulogne-Ville direct to Calais centre (45 min) with port connection. By car, take the A16 motorway (35 min)."},
-        {"q": "Do Boulogne city buses accept dogs?", "a": "Yes, Marinéo accepts leashed dogs free at driver's discretion; muzzle required for large breeds. The pôle d'échanges hub is at Place de France next to the railway station."}
+        {
+          "q": "Can I take my dog on the TGV from Boulogne to Paris?",
+          "a": "Yes, TGV inOui from Boulogne-Ville to Paris Gare du Nord (2h25, 5 daily) accepts small dogs in carriers (EUR 7 flat) and large leashed muzzled dogs (EUR 7). Assistance dogs travel free."
+        },
+        {
+          "q": "How do I get from Boulogne to the Calais ferry port with a dog?",
+          "a": "By TER train Boulogne-Ville to Calais-Ville (30 min) then a 10-min taxi to the ferry port, or by BCD intercity coach line 511 from Boulogne-Ville direct to Calais centre (45 min) with port connection. By car, take the A16 motorway (35 min)."
+        },
+        {
+          "q": "Do Boulogne city buses accept dogs?",
+          "a": "Yes, Marinéo accepts leashed dogs free at driver's discretion; muzzle required for large breeds. The pôle d'échanges hub is at Place de France next to the railway station."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je prendre le TGV de Boulogne à Paris avec mon chien ?", "a": "Oui, le TGV inOui depuis Boulogne-Ville vers Paris Gare du Nord (2h25, 5 par jour) accepte les petits chiens en cage (7 € forfait) et les grands chiens en laisse muselés (7 €). Les chiens d'assistance voyagent gratuitement."},
-        {"q": "Comment aller de Boulogne au port ferry de Calais avec un chien ?", "a": "En TER Boulogne-Ville vers Calais-Ville (30 min) puis taxi de 10 min vers le port ferry, ou par autocar interurbain BCD ligne 511 depuis Boulogne-Ville direct vers le centre de Calais (45 min) avec correspondance port. En voiture, prenez l'A16 (35 min)."},
-        {"q": "Les bus urbains de Boulogne acceptent-ils les chiens ?", "a": "Oui, Marinéo accepte les chiens en laisse gratuitement à la discrétion du conducteur ; muselière exigée pour les grandes races. Le pôle d'échanges hub est à la Place de France à côté de la gare."}
+        {
+          "q": "Puis-je prendre le TGV de Boulogne à Paris avec mon chien ?",
+          "a": "Oui, le TGV inOui depuis Boulogne-Ville vers Paris Gare du Nord (2h25, 5 par jour) accepte les petits chiens en cage (7 € forfait) et les grands chiens en laisse muselés (7 €). Les chiens d'assistance voyagent gratuitement."
+        },
+        {
+          "q": "Comment aller de Boulogne au port ferry de Calais avec un chien ?",
+          "a": "En TER Boulogne-Ville vers Calais-Ville (30 min) puis taxi de 10 min vers le port ferry, ou par autocar interurbain BCD ligne 511 depuis Boulogne-Ville direct vers le centre de Calais (45 min) avec correspondance port. En voiture, prenez l'A16 (35 min)."
+        },
+        {
+          "q": "Les bus urbains de Boulogne acceptent-ils les chiens ?",
+          "a": "Oui, Marinéo accepte les chiens en laisse gratuitement à la discrétion du conducteur ; muselière exigée pour les grandes races. Le pôle d'échanges hub est à la Place de France à côté de la gare."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo coger el TGV de Boulogne a París con mi perro?", "a": "Sí, el TGV inOui desde Boulogne-Ville a París Gare du Nord (2h25, 5 al día) admite perros pequeños en transportín (7 € fijo) y grandes con correa con bozal (7 €). Los perros de asistencia viajan gratis."},
-        {"q": "¿Cómo ir de Boulogne al puerto ferry de Calais con un perro?", "a": "En TER Boulogne-Ville a Calais-Ville (30 min) y luego taxi de 10 min al puerto ferry, o en autocar interurbano BCD línea 511 desde Boulogne-Ville directo al centro de Calais (45 min) con conexión al puerto. En coche, toma la A16 (35 min)."},
-        {"q": "¿Los buses urbanos de Boulogne admiten perros?", "a": "Sí, Marinéo admite perros con correa gratis a discreción del conductor; bozal exigido para razas grandes. El hub pôle d'échanges está en la Place de France junto a la estación."}
+        {
+          "q": "¿Puedo coger el TGV de Boulogne a París con mi perro?",
+          "a": "Sí, el TGV inOui desde Boulogne-Ville a París Gare du Nord (2h25, 5 al día) admite perros pequeños en transportín (7 € fijo) y grandes con correa con bozal (7 €). Los perros de asistencia viajan gratis."
+        },
+        {
+          "q": "¿Cómo ir de Boulogne al puerto ferry de Calais con un perro?",
+          "a": "En TER Boulogne-Ville a Calais-Ville (30 min) y luego taxi de 10 min al puerto ferry, o en autocar interurbano BCD línea 511 desde Boulogne-Ville directo al centro de Calais (45 min) con conexión al puerto. En coche, toma la A16 (35 min)."
+        },
+        {
+          "q": "¿Los buses urbanos de Boulogne admiten perros?",
+          "a": "Sí, Marinéo admite perros con correa gratis a discreción del conductor; bozal exigido para razas grandes. El hub pôle d'échanges está en la Place de France junto a la estación."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso apanhar o TGV de Boulogne a Paris com o meu cão?", "a": "Sim, o TGV inOui desde Boulogne-Ville para Paris Gare du Nord (2h25, 5 por dia) aceita cães pequenos em transportadora (7 € fixo) e grandes com trela e açaime (7 €). Os cães de assistência viajam grátis."},
-        {"q": "Como ir de Boulogne ao porto ferry de Calais com um cão?", "a": "Em TER Boulogne-Ville para Calais-Ville (30 min) e depois táxi de 10 min para o porto ferry, ou em autocarro interurbano BCD linha 511 desde Boulogne-Ville directo para o centro de Calais (45 min) com ligação ao porto. Em carro, apanhe a A16 (35 min)."},
-        {"q": "Os autocarros urbanos de Boulogne aceitam cães?", "a": "Sim, a Marinéo aceita cães com trela grátis à discrição do condutor; açaime exigido para raças grandes. O hub pôle d'échanges fica na Place de France junto à estação."}
+        {
+          "q": "Posso apanhar o TGV de Boulogne a Paris com o meu cão?",
+          "a": "Sim, o TGV inOui desde Boulogne-Ville para Paris Gare du Nord (2h25, 5 por dia) aceita cães pequenos em transportadora (7 € fixo) e grandes com trela e açaime (7 €). Os cães de assistência viajam grátis."
+        },
+        {
+          "q": "Como ir de Boulogne ao porto ferry de Calais com um cão?",
+          "a": "Em TER Boulogne-Ville para Calais-Ville (30 min) e depois táxi de 10 min para o porto ferry, ou em autocarro interurbano BCD linha 511 desde Boulogne-Ville directo para o centro de Calais (45 min) com ligação ao porto. Em carro, apanhe a A16 (35 min)."
+        },
+        {
+          "q": "Os autocarros urbanos de Boulogne aceitam cães?",
+          "a": "Sim, a Marinéo aceita cães com trela grátis à discrição do condutor; açaime exigido para raças grandes. O hub pôle d'échanges fica na Place de France junto à estação."
+        }
       ]
     },
     "beaches": {
@@ -373,7 +481,7 @@
       "introEn": "Boulogne-sur-Mer sits on a wide sand corridor of the Côte d'Opale Channel coast: the central Plage de Boulogne unwinds directly west of Nausicaá along the Boulevard Sainte-Beuve, the wilder Plage du Portel extends south at the foot of the Cap d'Alprech chalk cliffs, and the Belle Epoque Plage de Wimereux runs 4 km north of Boulogne port. Outside the small July-August lifeguarded zones, leashed dogs are welcome year-round on the full Channel coast.",
       "introFr": "Boulogne-sur-Mer s'inscrit sur un large couloir sableux de la côte de la Manche Côte d'Opale : la Plage de Boulogne centrale se déroule directement à l'ouest de Nausicaá le long du Boulevard Sainte-Beuve, la plus sauvage Plage du Portel s'étend au sud au pied des falaises crayeuses du Cap d'Alprech, et la Plage Belle Epoque de Wimereux court à 4 km au nord du port de Boulogne. Hors des petites zones surveillées de juillet-août, les chiens en laisse sont bienvenus toute l'année sur toute la côte de la Manche.",
       "introEs": "Boulogne-sur-Mer se sitúa en un amplio corredor arenoso de la costa del Canal Côte d'Opale: la Plage de Boulogne central se desenrolla directamente al oeste de Nausicaá a lo largo del Boulevard Sainte-Beuve, la más salvaje Plage du Portel se extiende al sur al pie de los acantilados calizos del Cap d'Alprech, y la Plage Belle Epoque de Wimereux corre a 4 km al norte del puerto de Boulogne. Fuera de las pequeñas zonas vigiladas de julio-agosto, los perros con correa son bienvenidos todo el año en toda la costa del Canal.",
-      "introPt": "Boulogne-sur-Mer situa-se num amplo corredor arenoso da costa do Canal Côte d'Opale: a Plage de Boulogne central desenrola-se directamente a oeste do Nausicaá ao longo do Boulevard Sainte-Beuve, a mais selvagem Plage du Portel estende-se a sul ao pé das falésias cretáceas do Cap d'Alprech, e a Plage Belle Epoque de Wimereux corre a 4 km a norte do porto de Boulogne. Fora das pequenas zonas vigiadas de julho-agosto, os cães com trela são bem-vindos o ano inteiro em toda a costa do Canal.",
+      "introPt": "Boulogne-sur-Mer situa-se num amplo corredor arenoso da costa do Canal Côte d'Opale: a Plage de Boulogne central desenrola-se logo a oeste do Nausicaá ao longo do Boulevard Sainte-Beuve, a mais selvagem Plage du Portel estende-se a sul ao pé das falésias cretáceas do Cap d'Alprech, e a Plage Belle Epoque de Wimereux corre a 4 km a norte do porto de Boulogne. Fora das pequenas zonas vigiadas de julho-agosto, os cães com trela são bem-vindos o ano inteiro em toda a costa do Canal.",
       "places": [
         {
           "name": "Plage de Boulogne and Boulevard Sainte-Beuve seafront",
@@ -383,7 +491,7 @@
           "rules": "Leashed dogs year-round at the ends; central summer lifeguard zone restricts pets June 15-September 5",
           "facilities": "Free parking on Boulevard Sainte-Beuve, promenade benches, café-restaurants on the seafront, Nausicaá esplanade, public toilets seasonal",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Boulogne+sur+Mer",
-          "photo": "/images/city-places/boulogne-sur-mer-beaches-plage-boulogne.jpg"
+          "photo": "/images/city-places/boulogne-sur-mer-beaches-plage-de-boulogne-and-boulevard-sainte-beuve-seafront.jpg"
         },
         {
           "name": "Plage du Portel and Cap d'Alprech",
@@ -393,7 +501,7 @@
           "rules": "Leashed dogs year-round; small summer lifeguard zone at Le Portel village centre restricts pets",
           "facilities": "Free parking at Le Portel seafront, GR120 clifftop access, café-restaurants seasonal at Le Portel village, no permanent lifeguard outside village core",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+du+Portel",
-          "photo": "/images/city-places/boulogne-sur-mer-beaches-plage-portel.jpg"
+          "photo": "/images/city-places/boulogne-sur-mer-beaches-plage-du-portel-and-cap-d-alprech.jpg"
         },
         {
           "name": "Plage de Wimereux (Belle Epoque seafront)",
@@ -403,7 +511,7 @@
           "rules": "Leashed dogs year-round outside the small July-August Wimereux village centre lifeguard zone",
           "facilities": "Free parking on the Wimereux seafront, sand-yacht and kite-surf clubs, café-restaurants in Wimereux village, TER train back to Boulogne-Ville, public toilets seasonal",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Wimereux",
-          "photo": "/images/city-places/boulogne-sur-mer-beaches-plage-wimereux.jpg"
+          "photo": "/images/city-places/boulogne-sur-mer-beaches-plage-de-wimereux-belle-epoque-seafront.jpg"
         }
       ],
       "tipsEn": [
@@ -427,24 +535,60 @@
         "As poças de rocha da Plage du Portel ficam expostas em maré baixa; verifique a tabela de marés no posto de turismo de Boulogne ou em qualquer café da frente marítima, a diferença entre preia-mar e baixa-mar atinge 9 m em grandes marés vivas."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed on the Plage de Boulogne?", "a": "Leashed dogs are welcome year-round at the northern (towards the port) and southern (towards Le Portel) ends of the Plage de Boulogne. The central lifeguarded zone restricts pets mid-June to early September."},
-        {"q": "Where is the quietest dog-friendly beach near Boulogne?", "a": "The Plage du Portel 3 km south, at the foot of the Cap d'Alprech chalk cliffs, offers 1.5 km of sand with rock pools at low tide and leashed dogs welcome year-round outside the small village lifeguard zone."},
-        {"q": "Can my dog swim in the Channel?", "a": "Yes year-round, though the water is cool (8-17 °C); most dogs paddle at the water's edge rather than swim long. The Plage de Boulogne and Plage de Wimereux have gentle gradients ideal for nervous swimmers."}
+        {
+          "q": "Are dogs allowed on the Plage de Boulogne?",
+          "a": "Leashed dogs are welcome year-round at the northern (towards the port) and southern (towards Le Portel) ends of the Plage de Boulogne. The central lifeguarded zone restricts pets mid-June to early September."
+        },
+        {
+          "q": "Where is the quietest dog-friendly beach near Boulogne?",
+          "a": "The Plage du Portel 3 km south, at the foot of the Cap d'Alprech chalk cliffs, offers 1.5 km of sand with rock pools at low tide and leashed dogs welcome year-round outside the small village lifeguard zone."
+        },
+        {
+          "q": "Can my dog swim in the Channel?",
+          "a": "Yes year-round, though the water is cool (8-17 °C); most dogs paddle at the water's edge rather than swim long. The Plage de Boulogne and Plage de Wimereux have gentle gradients ideal for nervous swimmers."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés sur la Plage de Boulogne ?", "a": "Les chiens en laisse sont bienvenus toute l'année aux extrémités nord (vers le port) et sud (vers Le Portel) de la Plage de Boulogne. La zone surveillée centrale restreint les animaux de mi-juin à début septembre."},
-        {"q": "Où est la plage dog-friendly la plus calme près de Boulogne ?", "a": "La Plage du Portel à 3 km au sud, au pied des falaises crayeuses du Cap d'Alprech, offre 1,5 km de sable avec flaques de rocher à marée basse et des chiens en laisse bienvenus toute l'année hors de la petite zone de surveillance du village."},
-        {"q": "Mon chien peut-il nager dans la Manche ?", "a": "Oui toute l'année, bien que l'eau soit fraîche (8-17 °C) ; la plupart des chiens barbotent au bord plutôt que de nager longtemps. La Plage de Boulogne et la Plage de Wimereux ont des pentes douces idéales pour les nageurs nerveux."}
+        {
+          "q": "Les chiens sont-ils autorisés sur la Plage de Boulogne ?",
+          "a": "Les chiens en laisse sont bienvenus toute l'année aux extrémités nord (vers le port) et sud (vers Le Portel) de la Plage de Boulogne. La zone surveillée centrale restreint les animaux de mi-juin à début septembre."
+        },
+        {
+          "q": "Où est la plage dog-friendly la plus calme près de Boulogne ?",
+          "a": "La Plage du Portel à 3 km au sud, au pied des falaises crayeuses du Cap d'Alprech, offre 1,5 km de sable avec flaques de rocher à marée basse et des chiens en laisse bienvenus toute l'année hors de la petite zone de surveillance du village."
+        },
+        {
+          "q": "Mon chien peut-il nager dans la Manche ?",
+          "a": "Oui toute l'année, bien que l'eau soit fraîche (8-17 °C) ; la plupart des chiens barbotent au bord plutôt que de nager longtemps. La Plage de Boulogne et la Plage de Wimereux ont des pentes douces idéales pour les nageurs nerveux."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en la Plage de Boulogne?", "a": "Los perros con correa son bienvenidos todo el año en los extremos norte (hacia el puerto) y sur (hacia Le Portel) de la Plage de Boulogne. La zona vigilada central restringe a las mascotas de mediados de junio a principios de septiembre."},
-        {"q": "¿Dónde está la playa pet-friendly más tranquila cerca de Boulogne?", "a": "La Plage du Portel a 3 km al sur, al pie de los acantilados calizos del Cap d'Alprech, ofrece 1,5 km de arena con pozas de roca en marea baja y perros con correa bienvenidos todo el año fuera de la pequeña zona de vigilancia del pueblo."},
-        {"q": "¿Puede mi perro bañarse en el Canal?", "a": "Sí todo el año, aunque el agua sea fresca (8-17 °C); la mayoría de los perros chapotean al borde antes que nadar mucho rato. La Plage de Boulogne y la Plage de Wimereux tienen pendientes suaves ideales para nadadores nerviosos."}
+        {
+          "q": "¿Se admiten perros en la Plage de Boulogne?",
+          "a": "Los perros con correa son bienvenidos todo el año en los extremos norte (hacia el puerto) y sur (hacia Le Portel) de la Plage de Boulogne. La zona vigilada central restringe a las mascotas de mediados de junio a principios de septiembre."
+        },
+        {
+          "q": "¿Dónde está la playa pet-friendly más tranquila cerca de Boulogne?",
+          "a": "La Plage du Portel a 3 km al sur, al pie de los acantilados calizos del Cap d'Alprech, ofrece 1,5 km de arena con pozas de roca en marea baja y perros con correa bienvenidos todo el año fuera de la pequeña zona de vigilancia del pueblo."
+        },
+        {
+          "q": "¿Puede mi perro bañarse en el Canal?",
+          "a": "Sí todo el año, aunque el agua sea fresca (8-17 °C); la mayoría de los perros chapotean al borde antes que nadar mucho rato. La Plage de Boulogne y la Plage de Wimereux tienen pendientes suaves ideales para nadadores nerviosos."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos na Plage de Boulogne?", "a": "Os cães com trela são bem-vindos o ano inteiro nos extremos norte (para o porto) e sul (para Le Portel) da Plage de Boulogne. A zona vigiada central restringe os animais de meados de junho a início de setembro."},
-        {"q": "Onde fica a praia pet-friendly mais calma perto de Boulogne?", "a": "A Plage du Portel a 3 km a sul, ao pé das falésias cretáceas do Cap d'Alprech, oferece 1,5 km de areia com poças de rocha em maré baixa e cães com trela bem-vindos o ano inteiro fora da pequena zona de vigilância da aldeia."},
-        {"q": "O meu cão pode banhar-se no Canal?", "a": "Sim o ano inteiro, embora a água seja fresca (8-17 °C); a maioria dos cães chapinha à beira em vez de nadar muito tempo. A Plage de Boulogne e a Plage de Wimereux têm declives suaves ideais para nadadores nervosos."}
+        {
+          "q": "Os cães são admitidos na Plage de Boulogne?",
+          "a": "Os cães com trela são bem-vindos o ano inteiro nos extremos norte (para o porto) e sul (para Le Portel) da Plage de Boulogne. A zona vigiada central restringe os animais de meados de junho a início de setembro."
+        },
+        {
+          "q": "Onde fica a praia pet-friendly mais calma perto de Boulogne?",
+          "a": "A Plage du Portel a 3 km a sul, ao pé das falésias cretáceas do Cap d'Alprech, oferece 1,5 km de areia com poças de rocha em maré baixa e cães com trela bem-vindos o ano inteiro fora da pequena zona de vigilância da aldeia."
+        },
+        {
+          "q": "O meu cão pode banhar-se no Canal?",
+          "a": "Sim o ano inteiro, embora a água seja fresca (8-17 °C); a maioria dos cães chapinha à beira em vez de nadar muito tempo. A Plage de Boulogne e a Plage de Wimereux têm declives suaves ideais para nadadores nervosos."
+        }
       ]
     },
     "vets": {
@@ -455,7 +599,7 @@
       "introEn": "Boulogne-sur-Mer has several daytime general veterinary practices across the lower town and around the port, and the CHV Nord in Lille (110 km east via the A16-A26 motorways) provides 24/7 referral cover for the Hauts-de-France region. For local after-hours emergencies, Boulogne and Côte d'Opale clinics operate a rotating night line; phone the main number of any participating clinic to be redirected to the duty clinic of the week. Most clinics are bilingual EN/FR thanks to the heavy UK day-tripper traffic and the British retiree community along the Côte d'Opale.",
       "introFr": "Boulogne-sur-Mer dispose de plusieurs cabinets vétérinaires généralistes de jour dans la ville basse et autour du port, et le CHV Nord à Lille (110 km à l'est par les A16-A26) assure la couverture de référence 24h/24 pour les Hauts-de-France. Pour les urgences locales hors heures, les cliniques de Boulogne et de la Côte d'Opale gèrent une ligne de garde tournante ; appelez le numéro principal d'une clinique participante pour être redirigé vers la clinique de garde de la semaine. La plupart des cliniques sont bilingues EN/FR grâce au fort trafic d'excursionnistes britanniques et à la communauté britannique retraitée le long de la Côte d'Opale.",
       "introEs": "Boulogne-sur-Mer cuenta con varias consultas veterinarias generalistas diurnas en la ciudad baja y alrededor del puerto, y el CHV Nord en Lille (110 km al este por las A16-A26) asegura la cobertura de referencia 24/7 para la región de Hauts-de-France. Para urgencias locales fuera de horario, las clínicas de Boulogne y de la Côte d'Opale gestionan una línea de guardia rotativa; llama al número principal de una clínica participante para ser redirigido a la clínica de guardia de la semana. La mayoría de las clínicas son bilingües EN/FR gracias al fuerte tráfico de excursionistas británicos y a la comunidad británica jubilada a lo largo de la Côte d'Opale.",
-      "introPt": "Boulogne-sur-Mer dispõe de várias clínicas veterinárias generalistas diurnas na cidade baixa e em redor do porto, e o CHV Nord em Lille (110 km a leste pelas A16-A26) assegura a cobertura de referência 24/7 para a região de Hauts-de-France. Para urgências locais fora de horas, as clínicas de Boulogne e da Côte d'Opale gerem uma linha de urgência rotativa; ligue para o número principal de uma clínica participante para ser redirigido para a clínica de urgência da semana. A maioria das clínicas é bilingue EN/FR graças ao forte tráfego de excursionistas britânicos e à comunidade britânica reformada ao longo da Côte d'Opale.",
+      "introPt": "Boulogne-sur-Mer dispõe de várias clínicas veterinárias generalistas diurnas na cidade baixa e em redor do porto, e o CHV Nord em Lille (110 km a leste pelas A16-A26) assegura a cobertura de referência 24/7 para a região de Hauts-de-France. Para urgências locais fora de horas, as clínicas de Boulogne e da Côte d'Opale gerem uma linha de urgência rotativa; ligue para o número principal de uma clínica participante para ser reencaminhado para a clínica de urgência da semana. A maioria das clínicas é bilingue EN/FR graças ao forte tráfego de excursionistas britânicos e à comunidade britânica reformada ao longo da Côte d'Opale.",
       "entryRequirements": null,
       "places": [
         {
@@ -467,14 +611,14 @@
           "hours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00; rotating night emergency line",
           "hoursFr": "Lun-ven 8h30-19h ; sam 9h-12h ; ligne de garde tournante de nuit",
           "hoursEs": "Lun-vie 8:30-19:00; sáb 9:00-12:00; línea de guardia nocturna rotativa",
-          "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; linha de urgência nocturna rotativa",
+          "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; linha de urgência noturna rotativa",
           "englishSpeaking": true,
           "website": "https://www.cliniquevetboulonnais.fr/",
-          "photo": "/images/city-places/boulogne-sur-mer-vets-boulonnais.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-vets-clinique-veterinaire-du-boulonnais.jpg",
           "description": "A central Boulogne general practice on Rue Nationale 5 minutes from the Place Dalton, with imaging, dentistry and minor surgery. Bilingual French and English staff handle UK ferry and TGV-arriving pets daily. Participates in the rotating night line for the Communauté d'agglomération du Boulonnais; phone the main number after hours to be redirected to the duty clinic of the week.",
           "descriptionFr": "Cabinet généraliste central de Boulogne sur la Rue Nationale à 5 minutes de la Place Dalton, avec imagerie, dentisterie et petite chirurgie. Personnel bilingue français-anglais qui gère quotidiennement les animaux arrivés par ferry UK et TGV. Participe à la garde tournante de nuit pour la Communauté d'agglomération du Boulonnais ; appelez le numéro principal hors heures pour être redirigé vers la clinique de garde de la semaine.",
           "descriptionEs": "Consulta generalista céntrica de Boulogne en la Rue Nationale a 5 minutos de la Place Dalton, con imagen, odontología y cirugía menor. Personal bilingüe francés-inglés que atiende a diario a las mascotas llegadas por ferry UK y TGV. Participa en la guardia rotativa nocturna para la Communauté d'agglomération du Boulonnais; llama al número principal fuera de horario para ser redirigido a la clínica de guardia de la semana.",
-          "descriptionPt": "Clínica generalista central de Boulogne na Rue Nationale a 5 minutos da Place Dalton, com imagem, dentária e pequena cirurgia. Pessoal bilingue francês-inglês que atende diariamente aos animais chegados por ferry UK e TGV. Participa na urgência rotativa nocturna para a Communauté d'agglomération du Boulonnais; ligue para o número principal fora de horas para ser redirigido para a clínica de urgência da semana.",
+          "descriptionPt": "Clínica generalista central de Boulogne na Rue Nationale a 5 minutos da Place Dalton, com imagem, dentária e pequena cirurgia. Pessoal bilingue francês-inglês que atende diariamente aos animais chegados por ferry UK e TGV. Participa na urgência rotativa noturna para a Communauté d'agglomération du Boulonnais; ligue para o número principal fora de horas para ser reencaminhado para a clínica de urgência da semana.",
           "petPolicy": "Appointments preferred; walk-ins seen between booked slots; after-hours via rotating line",
           "petPolicyFr": "Rendez-vous préférés ; sans rendez-vous reçus entre créneaux ; hors heures via ligne tournante",
           "petPolicyEs": "Cita previa preferida; sin cita atendidos entre huecos; fuera de horario vía línea rotativa",
@@ -483,12 +627,15 @@
           "servicesFr": "Vaccinations, passeport européen, signature Animal Health Certificate UK, médecine générale, petite chirurgie, dentisterie",
           "servicesEs": "Vacunaciones, pasaporte UE, firma Animal Health Certificate UK, medicina general, cirugía menor, odontología",
           "servicesPt": "Vacinações, passaporte UE, assinatura Animal Health Certificate UK, medicina geral, pequena cirurgia, dentária",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00",
           "tip": "Save the main number (+33 3 21 31 45 67) before any Cap d'Alprech or GR120 hike or pre-ferry departure; the rotating night line directs you to the duty clinic, useful if you need an emergency consultation before a UK return crossing via Calais or Coquelles.",
           "tipFr": "Enregistrez le numéro principal (+33 3 21 31 45 67) avant toute rando au Cap d'Alprech ou GR120 ou avant un départ ferry ; la ligne tournante de nuit vous redirige vers la clinique de garde, utile pour une urgence avant un retour UK via Calais ou Coquelles.",
           "tipEs": "Guarda el número principal (+33 3 21 31 45 67) antes de cualquier ruta al Cap d'Alprech o GR120 o salida ferry; la línea rotativa nocturna te redirige a la clínica de guardia, útil para una urgencia antes de un retorno UK vía Calais o Coquelles.",
-          "tipPt": "Guarde o número principal (+33 3 21 31 45 67) antes de qualquer caminhada no Cap d'Alprech ou GR120 ou partida ferry; a linha rotativa nocturna redirige-o para a clínica de urgência, útil para uma urgência antes de um regresso UK via Calais ou Coquelles.",
+          "tipPt": "Guarde o número principal (+33 3 21 31 45 67) antes de qualquer caminhada no Cap d'Alprech ou GR120 ou partida ferry; a linha rotativa noturna reencaminha-o para a clínica de urgência, útil para uma urgência antes de um regresso UK via Calais ou Coquelles.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Boulonnais"
         },
         {
@@ -503,7 +650,7 @@
           "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; fechado dom",
           "englishSpeaking": true,
           "website": "https://www.cliniqueveterinairestmartin.fr/",
-          "photo": "/images/city-places/boulogne-sur-mer-vets-saint-martin.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-vets-clinique-veterinaire-de-saint-martin-boulogne.jpg",
           "description": "A general practice in Saint-Martin-Boulogne on the eastern commune adjacent to Boulogne centre, with easy free parking, ideal for vaccination top-ups, EU passport stamps and minor non-emergency consultations. Refers to CHV Nord Lille for advanced cases.",
           "descriptionFr": "Cabinet généraliste à Saint-Martin-Boulogne sur la commune est adjacente au centre de Boulogne, avec parking gratuit facile, idéal pour rappels de vaccin, tampons sur passeport européen et consultations mineures non urgentes. Renvoie sur le CHV Nord Lille pour les cas avancés.",
           "descriptionEs": "Consulta generalista en Saint-Martin-Boulogne en la comuna este adyacente al centro de Boulogne, con aparcamiento gratuito fácil, ideal para refuerzos de vacuna, sellos de pasaporte europeo y consultas menores no urgentes. Deriva al CHV Nord Lille para casos avanzados.",
@@ -516,7 +663,10 @@
           "servicesFr": "Vaccinations, passeport européen, soutien AHC UK, médecine générale, petite chirurgie",
           "servicesEs": "Vacunaciones, pasaporte UE, soporte AHC UK, medicina general, cirugía menor",
           "servicesPt": "Vacinações, passaporte UE, apoio AHC UK, medicina geral, pequena cirurgia",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00",
           "tip": "Book the first morning slot for same-day EU passport sign-off before an afternoon TGV departure to Paris or a UK ferry from Calais; the clinic is 5 minutes by car from the A16 motorway access for both directions.",
           "tipFr": "Réservez le premier créneau du matin pour validation passeport européen le jour même avant un départ TGV pour Paris l'après-midi ou un ferry UK depuis Calais ; la clinique est à 5 minutes en voiture de l'accès A16 pour les deux directions.",
@@ -536,7 +686,7 @@
           "hoursPt": "Urgências e especialidades 24/7",
           "englishSpeaking": true,
           "website": "https://www.chv-nord.fr/",
-          "photo": "/images/city-places/boulogne-sur-mer-vets-chv-nord.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-vets-chv-nord-lille.jpg",
           "description": "The reference 24/7 specialty veterinary hospital for the Hauts-de-France region, with cardiology, oncology, neurology, intensive care and complex surgery; 1h30 from Boulogne via the A16 and A26 motorways, the regional escalation centre Boulonnais clinics refer to for any after-hours emergency the local rotating line cannot handle.",
           "descriptionFr": "L'hôpital vétérinaire de référence 24h/24 pour les Hauts-de-France, avec cardiologie, oncologie, neurologie, soins intensifs et chirurgie complexe ; à 1h30 de Boulogne par l'A16 et l'A26, le centre d'escalade régional vers lequel les cliniques boulonnaises adressent pour toute urgence hors heures que la ligne tournante locale ne peut gérer.",
           "descriptionEs": "El hospital veterinario de referencia 24/7 para Hauts-de-France, con cardiología, oncología, neurología, cuidados intensivos y cirugía compleja; a 1h30 de Boulogne vía las A16 y A26, el centro de escalada regional al que las clínicas boulonnaises derivan para cualquier urgencia fuera de horario que la línea rotativa local no pueda gestionar.",
@@ -549,7 +699,10 @@
           "servicesFr": "Urgences, soins intensifs, cardiologie, oncologie, neurologie, chirurgie complexe, imagerie",
           "servicesEs": "Urgencias, UCI, cardiología, oncología, neurología, cirugía compleja, imagen",
           "servicesPt": "Urgências, UCI, cardiologia, oncologia, neurologia, cirurgia complexa, imagem",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "24/7",
           "tip": "Drive yourself on the A16-A26 rather than wait for a pet-taxi at night; the 1h30 transfer to Lille is faster than any rural rotating-line ETA after midnight in the Boulogne-Calais corridor.",
           "tipFr": "Conduisez-vous sur l'A16-A26 plutôt que d'attendre un pet-taxi la nuit ; le transfert de 1h30 vers Lille est plus rapide que n'importe quelle estimation de la ligne tournante rurale après minuit dans le corridor Boulogne-Calais.",
@@ -574,29 +727,65 @@
         "Lleva físicamente tu pasaporte europeo o AHC UK a toda visita veterinaria y al check-in ferry / Eurotunnel en Calais o Coquelles; los documentos se verifican antes del embarque y los registros sin sellar o caducados significan que el perro no puede embarcar."
       ],
       "tipsPt": [
-        "Guarde o número da Clinique du Boulonnais (+33 3 21 31 45 67) antes de qualquer caminhada no Cap d'Alprech ou GR120 Wimereux ou antes de uma partida ferry; a linha rotativa nocturna redirige-o para a clínica de urgência da semana.",
+        "Guarde o número da Clinique du Boulonnais (+33 3 21 31 45 67) antes de qualquer caminhada no Cap d'Alprech ou GR120 Wimereux ou antes de uma partida ferry; a linha rotativa noturna reencaminha-o para a clínica de urgência da semana.",
         "Visitantes UK a regressar a casa: o Animal Health Certificate (AHC) é emitido no UK antes da viagem e válido 4 meses para o regresso; NÃO é um documento veterinário francês. Se precisar de um equivalente AHC de urgência para um regresso imprevisto, só um Official Veterinarian (OV) UK ou um veterinário francês certificado APHA o pode assinar.",
         "Leve fisicamente o seu passaporte europeu ou AHC UK a toda a visita veterinária e ao check-in ferry / Eurotunnel em Calais ou Coquelles; os documentos são verificados antes do embarque e os registos não carimbados ou expirados significam que o cão não pode embarcar."
       ],
       "faqsEn": [
-        {"q": "Where is the closest 24h vet to Boulogne-sur-Mer?", "a": "The CHV Nord in Lille (+33 3 20 04 87 87, 1h30 via the A16-A26 motorways) is the closest true 24/7 referral hospital; local after-hours is handled via the Boulogne rotating night line at the Clinique du Boulonnais."},
-        {"q": "Do Boulogne vets speak English?", "a": "Yes at the Clinique du Boulonnais and the Clinique de Saint-Martin-Boulogne; staff are fluent thanks to the heavy UK day-tripper traffic and the British retiree clientele on the Côte d'Opale."},
-        {"q": "Can a French vet sign my dog's UK return paperwork?", "a": "Only an APHA-certified Official Veterinarian (OV) can sign UK return documents; most Boulogne clinics are not APHA-certified. Plan ahead: your AHC is issued in the UK before travel and is valid 4 months for return crossings via Calais ferry or Coquelles Eurotunnel."}
+        {
+          "q": "Where is the closest 24h vet to Boulogne-sur-Mer?",
+          "a": "The CHV Nord in Lille (+33 3 20 04 87 87, 1h30 via the A16-A26 motorways) is the closest true 24/7 referral hospital; local after-hours is handled via the Boulogne rotating night line at the Clinique du Boulonnais."
+        },
+        {
+          "q": "Do Boulogne vets speak English?",
+          "a": "Yes at the Clinique du Boulonnais and the Clinique de Saint-Martin-Boulogne; staff are fluent thanks to the heavy UK day-tripper traffic and the British retiree clientele on the Côte d'Opale."
+        },
+        {
+          "q": "Can a French vet sign my dog's UK return paperwork?",
+          "a": "Only an APHA-certified Official Veterinarian (OV) can sign UK return documents; most Boulogne clinics are not APHA-certified. Plan ahead: your AHC is issued in the UK before travel and is valid 4 months for return crossings via Calais ferry or Coquelles Eurotunnel."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est le vétérinaire 24h le plus proche de Boulogne-sur-Mer ?", "a": "Le CHV Nord à Lille (+33 3 20 04 87 87, 1h30 par l'A16-A26) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne tournante de nuit boulonnaise à la Clinique du Boulonnais."},
-        {"q": "Les vétérinaires de Boulogne parlent-ils anglais ?", "a": "Oui à la Clinique du Boulonnais et à la Clinique de Saint-Martin-Boulogne ; le personnel est courant grâce au fort trafic d'excursionnistes britanniques et à la clientèle britannique retraitée sur la Côte d'Opale."},
-        {"q": "Un vétérinaire français peut-il signer les papiers de retour UK de mon chien ?", "a": "Seul un Official Veterinarian (OV) certifié APHA peut signer les documents de retour UK ; la plupart des cliniques de Boulogne ne sont pas certifiées APHA. Planifiez à l'avance : votre AHC est émis au UK avant le voyage et valide 4 mois pour les traversées retour via ferry Calais ou Eurotunnel Coquelles."}
+        {
+          "q": "Où est le vétérinaire 24h le plus proche de Boulogne-sur-Mer ?",
+          "a": "Le CHV Nord à Lille (+33 3 20 04 87 87, 1h30 par l'A16-A26) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne tournante de nuit boulonnaise à la Clinique du Boulonnais."
+        },
+        {
+          "q": "Les vétérinaires de Boulogne parlent-ils anglais ?",
+          "a": "Oui à la Clinique du Boulonnais et à la Clinique de Saint-Martin-Boulogne ; le personnel est courant grâce au fort trafic d'excursionnistes britanniques et à la clientèle britannique retraitée sur la Côte d'Opale."
+        },
+        {
+          "q": "Un vétérinaire français peut-il signer les papiers de retour UK de mon chien ?",
+          "a": "Seul un Official Veterinarian (OV) certifié APHA peut signer les documents de retour UK ; la plupart des cliniques de Boulogne ne sont pas certifiées APHA. Planifiez à l'avance : votre AHC est émis au UK avant le voyage et valide 4 mois pour les traversées retour via ferry Calais ou Eurotunnel Coquelles."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el veterinario 24h más cercano de Boulogne-sur-Mer?", "a": "El CHV Nord en Lille (+33 3 20 04 87 87, 1h30 vía la A16-A26) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea rotativa nocturna boulonnaise en la Clinique du Boulonnais."},
-        {"q": "¿Los veterinarios de Boulogne hablan inglés?", "a": "Sí en la Clinique du Boulonnais y en la Clinique de Saint-Martin-Boulogne; el personal es fluido gracias al fuerte tráfico de excursionistas británicos y a la clientela británica jubilada en la Côte d'Opale."},
-        {"q": "¿Un veterinario francés puede firmar los papeles de retorno UK de mi perro?", "a": "Solo un Official Veterinarian (OV) certificado APHA puede firmar los documentos de retorno UK; la mayoría de las clínicas de Boulogne no están certificadas APHA. Planifica con antelación: tu AHC se emite en el UK antes del viaje y es válido 4 meses para las travesías de retorno vía ferry Calais o Eurotunnel Coquelles."}
+        {
+          "q": "¿Dónde está el veterinario 24h más cercano de Boulogne-sur-Mer?",
+          "a": "El CHV Nord en Lille (+33 3 20 04 87 87, 1h30 vía la A16-A26) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea rotativa nocturna boulonnaise en la Clinique du Boulonnais."
+        },
+        {
+          "q": "¿Los veterinarios de Boulogne hablan inglés?",
+          "a": "Sí en la Clinique du Boulonnais y en la Clinique de Saint-Martin-Boulogne; el personal es fluido gracias al fuerte tráfico de excursionistas británicos y a la clientela británica jubilada en la Côte d'Opale."
+        },
+        {
+          "q": "¿Un veterinario francés puede firmar los papeles de retorno UK de mi perro?",
+          "a": "Solo un Official Veterinarian (OV) certificado APHA puede firmar los documentos de retorno UK; la mayoría de las clínicas de Boulogne no están certificadas APHA. Planifica con antelación: tu AHC se emite en el UK antes del viaje y es válido 4 meses para las travesías de retorno vía ferry Calais o Eurotunnel Coquelles."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o veterinário 24h mais próximo de Boulogne-sur-Mer?", "a": "O CHV Nord em Lille (+33 3 20 04 87 87, 1h30 pelas A16-A26) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha rotativa nocturna boulonnaise na Clinique du Boulonnais."},
-        {"q": "Os veterinários de Boulogne falam inglês?", "a": "Sim na Clinique du Boulonnais e na Clinique de Saint-Martin-Boulogne; o pessoal é fluente graças ao forte tráfego de excursionistas britânicos e à clientela britânica reformada na Côte d'Opale."},
-        {"q": "Um veterinário francês pode assinar os papéis de regresso UK do meu cão?", "a": "Só um Official Veterinarian (OV) certificado APHA pode assinar os documentos de regresso UK; a maioria das clínicas de Boulogne não está certificada APHA. Planeie com antecedência: o seu AHC é emitido no UK antes da viagem e válido 4 meses para as travessias de regresso via ferry Calais ou Eurotunnel Coquelles."}
+        {
+          "q": "Onde fica o veterinário 24h mais próximo de Boulogne-sur-Mer?",
+          "a": "O CHV Nord em Lille (+33 3 20 04 87 87, 1h30 pelas A16-A26) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha rotativa noturna boulonnaise na Clinique du Boulonnais."
+        },
+        {
+          "q": "Os veterinários de Boulogne falam inglês?",
+          "a": "Sim na Clinique du Boulonnais e na Clinique de Saint-Martin-Boulogne; o pessoal é fluente graças ao forte tráfego de excursionistas britânicos e à clientela britânica reformada na Côte d'Opale."
+        },
+        {
+          "q": "Um veterinário francês pode assinar os papéis de regresso UK do meu cão?",
+          "a": "Só um Official Veterinarian (OV) certificado APHA pode assinar os documentos de regresso UK; a maioria das clínicas de Boulogne não está certificada APHA. Planeie com antecedência: o seu AHC é emitido no UK antes da viagem e válido 4 meses para as travessias de regresso via ferry Calais ou Eurotunnel Coquelles."
+        }
       ]
     },
     "tips": {
@@ -638,24 +827,60 @@
         "O Grand Site Cap Blanc-Nez / Cap Gris-Nez a 20-30 km a norte na Côte d'Opale é a referência canina regional; trilhos no topo da falésia o ano inteiro com vistas directas para as falésias brancas de Dover e a rota marítima mais movimentada da planeta."
       ],
       "faqsEn": [
-        {"q": "Is Boulogne-sur-Mer a good base for a pet-friendly Côte d'Opale holiday?", "a": "Yes, the combination of the best-preserved 13th-century ramparts in France, Nausicaá (largest aquarium in Europe with full pet-friendly seafront around it), the 12 km Plage de Boulogne and Wimereux sand corridor, the Cap d'Alprech and Cap Gris-Nez Grand Site walks, the direct TGV to Paris (2h25) and direct A16 access to the Calais Eurotunnel make it the obvious base for any UK-Continental pet road trip on the northern French coast."},
-        {"q": "Do I need a muzzle in public in Boulogne?", "a": "Only for category 1 and 2 restricted breeds; standard breeds need only a leash. The Marinéo buses and TGV trains require muzzles on larger dogs; ferry / Eurotunnel crossings have their own per-operator rules."},
-        {"q": "What is the best month for Boulogne with a dog?", "a": "May-June and September-October: mild Channel temperatures, lower humidity, lighter crowds, full Cap d'Alprech and GR120 access (outside ground-nesting bird season April-July near sensitive zones) and the Plage de Boulogne ends open year-round."}
+        {
+          "q": "Is Boulogne-sur-Mer a good base for a pet-friendly Côte d'Opale holiday?",
+          "a": "Yes, the combination of the best-preserved 13th-century ramparts in France, Nausicaá (largest aquarium in Europe with full pet-friendly seafront around it), the 12 km Plage de Boulogne and Wimereux sand corridor, the Cap d'Alprech and Cap Gris-Nez Grand Site walks, the direct TGV to Paris (2h25) and direct A16 access to the Calais Eurotunnel make it the obvious base for any UK-Continental pet road trip on the northern French coast."
+        },
+        {
+          "q": "Do I need a muzzle in public in Boulogne?",
+          "a": "Only for category 1 and 2 restricted breeds; standard breeds need only a leash. The Marinéo buses and TGV trains require muzzles on larger dogs; ferry / Eurotunnel crossings have their own per-operator rules."
+        },
+        {
+          "q": "What is the best month for Boulogne with a dog?",
+          "a": "May-June and September-October: mild Channel temperatures, lower humidity, lighter crowds, full Cap d'Alprech and GR120 access (outside ground-nesting bird season April-July near sensitive zones) and the Plage de Boulogne ends open year-round."
+        }
       ],
       "faqsFr": [
-        {"q": "Boulogne-sur-Mer est-elle une bonne base pour des vacances pet-friendly sur la Côte d'Opale ?", "a": "Oui, la combinaison des remparts du 13e siècle les mieux conservés de France, de Nausicaá (plus grand aquarium d'Europe avec un front de mer entièrement pet-friendly autour), du corridor sableux de 12 km Plage de Boulogne et Wimereux, des balades du Cap d'Alprech et du Grand Site Cap Gris-Nez, du TGV direct vers Paris (2h25) et de l'accès A16 direct à l'Eurotunnel Calais en fait la base évidente de tout road trip pet UK-Continent sur la côte française nord."},
-        {"q": "Ai-je besoin d'une muselière en public à Boulogne ?", "a": "Seulement pour les races de catégorie 1 et 2 ; les races standard n'ont besoin que d'une laisse. Les bus Marinéo et les trains TGV exigent la muselière pour les grands chiens ; les traversées ferry / Eurotunnel ont leurs propres règles par opérateur."},
-        {"q": "Quel est le meilleur mois à Boulogne avec un chien ?", "a": "Mai-juin et septembre-octobre : températures douces de la Manche, humidité plus basse, moins de monde, accès complet au Cap d'Alprech et au GR120 (hors saison de nidification au sol avril-juillet près des zones sensibles) et les extrémités de la Plage de Boulogne ouvertes toute l'année."}
+        {
+          "q": "Boulogne-sur-Mer est-elle une bonne base pour des vacances pet-friendly sur la Côte d'Opale ?",
+          "a": "Oui, la combinaison des remparts du 13e siècle les mieux conservés de France, de Nausicaá (plus grand aquarium d'Europe avec un front de mer entièrement pet-friendly autour), du corridor sableux de 12 km Plage de Boulogne et Wimereux, des balades du Cap d'Alprech et du Grand Site Cap Gris-Nez, du TGV direct vers Paris (2h25) et de l'accès A16 direct à l'Eurotunnel Calais en fait la base évidente de tout road trip pet UK-Continent sur la côte française nord."
+        },
+        {
+          "q": "Ai-je besoin d'une muselière en public à Boulogne ?",
+          "a": "Seulement pour les races de catégorie 1 et 2 ; les races standard n'ont besoin que d'une laisse. Les bus Marinéo et les trains TGV exigent la muselière pour les grands chiens ; les traversées ferry / Eurotunnel ont leurs propres règles par opérateur."
+        },
+        {
+          "q": "Quel est le meilleur mois à Boulogne avec un chien ?",
+          "a": "Mai-juin et septembre-octobre : températures douces de la Manche, humidité plus basse, moins de monde, accès complet au Cap d'Alprech et au GR120 (hors saison de nidification au sol avril-juillet près des zones sensibles) et les extrémités de la Plage de Boulogne ouvertes toute l'année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Boulogne-sur-Mer una buena base para unas vacaciones pet-friendly en la Côte d'Opale?", "a": "Sí, la combinación de las murallas del siglo XIII mejor conservadas de Francia, de Nausicaá (mayor acuario de Europa con un frente marítimo enteramente pet-friendly alrededor), del corredor arenoso de 12 km Plage de Boulogne y Wimereux, de los paseos del Cap d'Alprech y del Grand Site Cap Gris-Nez, del TGV directo a París (2h25) y del acceso A16 directo al Eurotunnel Calais la convierten en la base evidente de cualquier road trip pet UK-Continente en la costa francesa norte."},
-        {"q": "¿Necesito bozal en público en Boulogne?", "a": "Solo para razas de categoría 1 y 2; las razas estándar solo necesitan correa. Los buses Marinéo y los trenes TGV exigen bozal para perros grandes; las travesías ferry / Eurotunnel tienen sus propias reglas por operador."},
-        {"q": "¿Cuál es el mejor mes para Boulogne con perro?", "a": "Mayo-junio y septiembre-octubre: temperaturas suaves del Canal, menor humedad, menos gente, acceso completo al Cap d'Alprech y al GR120 (fuera de temporada de nidificación en suelo abril-julio cerca de zonas sensibles) y los extremos de la Plage de Boulogne abiertos todo el año."}
+        {
+          "q": "¿Es Boulogne-sur-Mer una buena base para unas vacaciones pet-friendly en la Côte d'Opale?",
+          "a": "Sí, la combinación de las murallas del siglo XIII mejor conservadas de Francia, de Nausicaá (mayor acuario de Europa con un frente marítimo enteramente pet-friendly alrededor), del corredor arenoso de 12 km Plage de Boulogne y Wimereux, de los paseos del Cap d'Alprech y del Grand Site Cap Gris-Nez, del TGV directo a París (2h25) y del acceso A16 directo al Eurotunnel Calais la convierten en la base evidente de cualquier road trip pet UK-Continente en la costa francesa norte."
+        },
+        {
+          "q": "¿Necesito bozal en público en Boulogne?",
+          "a": "Solo para razas de categoría 1 y 2; las razas estándar solo necesitan correa. Los buses Marinéo y los trenes TGV exigen bozal para perros grandes; las travesías ferry / Eurotunnel tienen sus propias reglas por operador."
+        },
+        {
+          "q": "¿Cuál es el mejor mes para Boulogne con perro?",
+          "a": "Mayo-junio y septiembre-octubre: temperaturas suaves del Canal, menor humedad, menos gente, acceso completo al Cap d'Alprech y al GR120 (fuera de temporada de nidificación en suelo abril-julio cerca de zonas sensibles) y los extremos de la Plage de Boulogne abiertos todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Boulogne-sur-Mer é uma boa base para férias pet-friendly na Côte d'Opale?", "a": "Sim, a combinação das muralhas do século XIII melhor preservadas de França, do Nausicaá (maior aquário da Europa com uma frente marítima inteiramente pet-friendly em redor), do corredor arenoso de 12 km Plage de Boulogne e Wimereux, dos passeios do Cap d'Alprech e do Grand Site Cap Gris-Nez, do TGV directo para Paris (2h25) e do acesso A16 directo ao Eurotunnel Calais fazem dela a base óbvia de qualquer road trip pet UK-Continente na costa francesa norte."},
-        {"q": "Preciso de açaime em público em Boulogne?", "a": "Só para raças de categoria 1 e 2; as raças standard só precisam de trela. Os autocarros Marinéo e os comboios TGV exigem açaime para cães grandes; as travessias ferry / Eurotunnel têm as suas próprias regras por operador."},
-        {"q": "Qual é o melhor mês para Boulogne com cão?", "a": "Maio-junho e setembro-outubro: temperaturas suaves do Canal, menor humidade, menos gente, acesso completo ao Cap d'Alprech e ao GR120 (fora de época de nidificação no solo abril-julho perto de zonas sensíveis) e as extremidades da Plage de Boulogne abertas o ano inteiro."}
+        {
+          "q": "Boulogne-sur-Mer é uma boa base para férias pet-friendly na Côte d'Opale?",
+          "a": "Sim, a combinação das muralhas do século XIII melhor preservadas de França, do Nausicaá (maior aquário da Europa com uma frente marítima inteiramente pet-friendly em redor), do corredor arenoso de 12 km Plage de Boulogne e Wimereux, dos passeios do Cap d'Alprech e do Grand Site Cap Gris-Nez, do TGV directo para Paris (2h25) e do acesso A16 directo ao Eurotunnel Calais fazem dela a base óbvia de qualquer road trip pet UK-Continente na costa francesa norte."
+        },
+        {
+          "q": "Preciso de açaime em público em Boulogne?",
+          "a": "Só para raças de categoria 1 e 2; as raças standard só precisam de trela. Os autocarros Marinéo e os comboios TGV exigem açaime para cães grandes; as travessias ferry / Eurotunnel têm as suas próprias regras por operador."
+        },
+        {
+          "q": "Qual é o melhor mês para Boulogne com cão?",
+          "a": "Maio-junho e setembro-outubro: temperaturas suaves do Canal, menor humidade, menos gente, acesso completo ao Cap d'Alprech e ao GR120 (fora de época de nidificação no solo abril-julho perto de zonas sensíveis) e as extremidades da Plage de Boulogne abertas o ano inteiro."
+        }
       ]
     },
     "attractions": {
@@ -671,7 +896,7 @@
         {
           "name": "Cathédrale Notre-Dame de Boulogne",
           "neighborhood": "Haute-Ville",
-          "photo": "/images/city-places/boulogne-sur-mer-attractions-cathedrale.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-attractions-cathedrale-notre-dame-de-boulogne.jpg",
           "website": "https://www.cathedrale-boulogne.fr/",
           "description": "The Cathédrale Notre-Dame de Boulogne crowns the walled Haute-Ville with a 101 m Italianate dome (1827-1866, designed by Abbé Haffreingue), the second-tallest church dome in France after Les Invalides in Paris. The Romanesque crypt below (8 000 sqm, one of the largest in France) preserves Gallo-Roman foundations and 12th-century frescoes. Leashed dogs welcome on the Place Godefroy de Bouillon outside year-round; the cathedral interior and crypt admit only assistance dogs.",
           "descriptionFr": "La Cathédrale Notre-Dame de Boulogne couronne la Haute-Ville fortifiée d'un dôme italianisant de 101 m (1827-1866, conçu par l'abbé Haffreingue), le deuxième plus haut dôme d'église de France après les Invalides à Paris. La crypte romane en dessous (8 000 m², l'une des plus grandes de France) conserve des fondations gallo-romaines et des fresques du 12e siècle. Chiens en laisse bienvenus sur la Place Godefroy de Bouillon à l'extérieur toute l'année ; l'intérieur de la cathédrale et la crypte n'admettent que les chiens d'assistance.",
@@ -694,7 +919,7 @@
         {
           "name": "Château-Musée de Boulogne",
           "neighborhood": "Haute-Ville",
-          "photo": "/images/city-places/boulogne-sur-mer-attractions-chateau-musee.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-attractions-chateau-musee-de-boulogne.jpg",
           "website": "https://www.chateau-musee-boulognesurmer.fr/",
           "description": "The 13th-century medieval castle of the Counts of Boulogne (built 1227-1231 by Philippe Hurepel together with the rampart curtain wall), one of the few intact secular medieval buildings in northern France, now housing a municipal museum with Egyptian, Greek, pre-Columbian and Inuit-Alaskan collections. Leashed dogs welcome year-round in the outer moat and the surrounding rampart walk; the museum interior admits only assistance dogs.",
           "descriptionFr": "Le château médiéval du 13e siècle des Comtes de Boulogne (construit 1227-1231 par Philippe Hurepel avec le rideau de remparts), l'un des rares bâtiments séculiers médiévaux intacts du nord de la France, abritant aujourd'hui un musée municipal avec collections égyptiennes, grecques, précolombiennes et inuit-alaska. Chiens en laisse bienvenus toute l'année dans les douves extérieures et le chemin de ronde environnant ; l'intérieur du musée n'admet que les chiens d'assistance.",
@@ -717,7 +942,7 @@
         {
           "name": "Nausicaá seafront facade and port de pêche",
           "neighborhood": "Boulevard Sainte-Beuve / Front de mer",
-          "photo": "/images/city-places/boulogne-sur-mer-attractions-nausicaa-port.jpg",
+          "photo": "/images/city-places/boulogne-sur-mer-attractions-nausicaa-seafront-facade-and-port-de-peche.jpg",
           "website": "https://www.nausicaa.fr/",
           "description": "Nausicaá, the largest aquarium in Europe (60 000 sqm, 58 000 marine animals across 1 600 species), occupies the Boulevard Sainte-Beuve seafront opposite the Plage de Boulogne. Dogs are NOT admitted inside the exhibition halls (assistance dogs only), but the seafront esplanade and the Boulevard Sainte-Beuve promenade around the building are fully dog-friendly, and continue 500 m east to the port de pêche, France's largest fishing port by tonnage, where the trawlers land their daily catch and the criée (auction hall) operates.",
           "descriptionFr": "Nausicaá, le plus grand aquarium d'Europe (60 000 m², 58 000 animaux marins répartis sur 1 600 espèces), occupe le front de mer du Boulevard Sainte-Beuve face à la Plage de Boulogne. Les chiens ne sont PAS admis dans les halls d'exposition (chiens d'assistance uniquement), mais l'esplanade du front de mer et la promenade du Boulevard Sainte-Beuve autour du bâtiment sont entièrement dog-friendly, et se prolongent 500 m à l'est jusqu'au port de pêche, premier port de pêche de France en tonnage, où les chalutiers débarquent leur pêche quotidienne et où la criée fonctionne.",
@@ -734,7 +959,7 @@
           "tip": "Walk the Nausicaá esplanade to the port de pêche at 7:00 in summer; the trawlers return from the night fishing grounds and unload their catch directly to the criée, and your dog watches the seagulls and the langoustines arrive while the city is still asleep.",
           "tipFr": "Marchez l'esplanade de Nausicaá jusqu'au port de pêche à 7h en été ; les chalutiers rentrent des zones de pêche nocturnes et déchargent leur pêche directement à la criée, et votre chien observe les mouettes et les langoustines arriver pendant que la ville dort encore.",
           "tipEs": "Camina la explanada de Nausicaá hasta el port de pêche a las 7:00 en verano; los arrastreros regresan de las zonas de pesca nocturnas y descargan su pesca directamente a la criée, y tu perro observa las gaviotas y las cigalas llegar mientras la ciudad aún duerme.",
-          "tipPt": "Caminhe a esplanada do Nausicaá até ao port de pêche às 7:00 no verão; os arrastões regressam das zonas de pesca nocturnas e descarregam a sua pesca directamente à criée, e o seu cão observa as gaivotas e as lagostins chegar enquanto a cidade ainda dorme.",
+          "tipPt": "Caminhe a esplanada do Nausicaá até ao port de pêche às 7:00 no verão; os arrastões regressam das zonas de pesca noturnas e descarregam a sua pesca diretamente na criée, e o seu cão observa as gaivotas e as lagostins chegar enquanto a cidade ainda dorme.",
           "googleMapsUrl": "https://maps.google.com/?q=Nausicaa+Boulogne+sur+Mer"
         }
       ],
@@ -759,24 +984,60 @@
         "Combine o chemin de ronde de 1,5 km sobre as muralhas com a vista da cúpula da Cathédrale Notre-Dame e o fosso do Château-Musée para um circuito patrimonial de 90 minutos a cobrir a melhor preservada das fortificações medievais de França, a arquitectura religiosa italianizante do século XIX e a arquitectura militar medieval do século XIII num raio de 500 m."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in Nausicaá?", "a": "Only assistance dogs may enter the exhibition halls of Nausicaá, the largest aquarium in Europe; leashed pets are welcome on the full seafront esplanade and the Boulevard Sainte-Beuve walking corridor around the building, and on the port de pêche walk 500 m east where trawlers land the daily catch."},
-        {"q": "Can I walk the Boulogne ramparts with my dog?", "a": "Yes, the 1.5 km chemin de ronde on top of the 13th-century rampart curtain wall of the Haute-Ville is fully open year-round to leashed dogs; the best-preserved medieval ramparts in France, never breached since their 1227-1231 construction by Philippe Hurepel."},
-        {"q": "Is Boulogne Haute-Ville walkable with a dog?", "a": "Yes, the walled Haute-Ville is fully pedestrian; the climb from the lower town via the Grande Rue or the Rampe du Château is 10 minutes at moderate gradient, and once inside the walls the entire historic centre (Cathédrale Notre-Dame, Château-Musée, Place Godefroy de Bouillon, chemin de ronde) is a flat 1.5 km loop your leashed dog handles in 1 hour."}
+        {
+          "q": "Are dogs allowed in Nausicaá?",
+          "a": "Only assistance dogs may enter the exhibition halls of Nausicaá, the largest aquarium in Europe; leashed pets are welcome on the full seafront esplanade and the Boulevard Sainte-Beuve walking corridor around the building, and on the port de pêche walk 500 m east where trawlers land the daily catch."
+        },
+        {
+          "q": "Can I walk the Boulogne ramparts with my dog?",
+          "a": "Yes, the 1.5 km chemin de ronde on top of the 13th-century rampart curtain wall of the Haute-Ville is fully open year-round to leashed dogs; the best-preserved medieval ramparts in France, never breached since their 1227-1231 construction by Philippe Hurepel."
+        },
+        {
+          "q": "Is Boulogne Haute-Ville walkable with a dog?",
+          "a": "Yes, the walled Haute-Ville is fully pedestrian; the climb from the lower town via the Grande Rue or the Rampe du Château is 10 minutes at moderate gradient, and once inside the walls the entire historic centre (Cathédrale Notre-Dame, Château-Musée, Place Godefroy de Bouillon, chemin de ronde) is a flat 1.5 km loop your leashed dog handles in 1 hour."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans Nausicaá ?", "a": "Seuls les chiens d'assistance peuvent entrer dans les halls d'exposition de Nausicaá, le plus grand aquarium d'Europe ; les chiens en laisse sont bienvenus sur toute l'esplanade du front de mer et sur le corridor de marche du Boulevard Sainte-Beuve autour du bâtiment, et sur la balade du port de pêche à 500 m à l'est où les chalutiers débarquent la pêche du jour."},
-        {"q": "Puis-je marcher sur les remparts de Boulogne avec mon chien ?", "a": "Oui, le chemin de ronde de 1,5 km sur le sommet du rideau de remparts du 13e siècle de la Haute-Ville est entièrement ouvert toute l'année aux chiens en laisse ; les remparts médiévaux les mieux conservés de France, jamais percés depuis leur construction 1227-1231 par Philippe Hurepel."},
-        {"q": "La Haute-Ville de Boulogne est-elle accessible à pied avec un chien ?", "a": "Oui, la Haute-Ville fortifiée est entièrement piétonne ; la montée depuis la ville basse par la Grande Rue ou la Rampe du Château est de 10 minutes à pente modérée, et une fois à l'intérieur des murs tout le centre historique (Cathédrale Notre-Dame, Château-Musée, Place Godefroy de Bouillon, chemin de ronde) est une boucle plate de 1,5 km que votre chien en laisse gère en 1 heure."}
+        {
+          "q": "Les chiens sont-ils autorisés dans Nausicaá ?",
+          "a": "Seuls les chiens d'assistance peuvent entrer dans les halls d'exposition de Nausicaá, le plus grand aquarium d'Europe ; les chiens en laisse sont bienvenus sur toute l'esplanade du front de mer et sur le corridor de marche du Boulevard Sainte-Beuve autour du bâtiment, et sur la balade du port de pêche à 500 m à l'est où les chalutiers débarquent la pêche du jour."
+        },
+        {
+          "q": "Puis-je marcher sur les remparts de Boulogne avec mon chien ?",
+          "a": "Oui, le chemin de ronde de 1,5 km sur le sommet du rideau de remparts du 13e siècle de la Haute-Ville est entièrement ouvert toute l'année aux chiens en laisse ; les remparts médiévaux les mieux conservés de France, jamais percés depuis leur construction 1227-1231 par Philippe Hurepel."
+        },
+        {
+          "q": "La Haute-Ville de Boulogne est-elle accessible à pied avec un chien ?",
+          "a": "Oui, la Haute-Ville fortifiée est entièrement piétonne ; la montée depuis la ville basse par la Grande Rue ou la Rampe du Château est de 10 minutes à pente modérée, et une fois à l'intérieur des murs tout le centre historique (Cathédrale Notre-Dame, Château-Musée, Place Godefroy de Bouillon, chemin de ronde) est une boucle plate de 1,5 km que votre chien en laisse gère en 1 heure."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en Nausicaá?", "a": "Solo los perros de asistencia pueden entrar en las salas de exposición de Nausicaá, el mayor acuario de Europa; los perros con correa son bienvenidos en toda la explanada del frente marítimo y en el corredor de paseo del Boulevard Sainte-Beuve alrededor del edificio, y en el paseo del port de pêche a 500 m al este donde los arrastreros desembarcan la pesca del día."},
-        {"q": "¿Puedo caminar por las murallas de Boulogne con mi perro?", "a": "Sí, el chemin de ronde de 1,5 km sobre lo alto de la cortina de murallas del siglo XIII de la Haute-Ville está enteramente abierto todo el año a los perros con correa; las murallas medievales mejor conservadas de Francia, nunca traspasadas desde su construcción 1227-1231 por Philippe Hurepel."},
-        {"q": "¿La Haute-Ville de Boulogne es accesible a pie con un perro?", "a": "Sí, la Haute-Ville amurallada es enteramente peatonal; la subida desde la ciudad baja por la Grande Rue o la Rampe du Château es de 10 minutos a pendiente moderada, y una vez dentro de los muros todo el centro histórico (Cathédrale Notre-Dame, Château-Musée, Place Godefroy de Bouillon, chemin de ronde) es un bucle llano de 1,5 km que tu perro con correa gestiona en 1 hora."}
+        {
+          "q": "¿Se admiten perros en Nausicaá?",
+          "a": "Solo los perros de asistencia pueden entrar en las salas de exposición de Nausicaá, el mayor acuario de Europa; los perros con correa son bienvenidos en toda la explanada del frente marítimo y en el corredor de paseo del Boulevard Sainte-Beuve alrededor del edificio, y en el paseo del port de pêche a 500 m al este donde los arrastreros desembarcan la pesca del día."
+        },
+        {
+          "q": "¿Puedo caminar por las murallas de Boulogne con mi perro?",
+          "a": "Sí, el chemin de ronde de 1,5 km sobre lo alto de la cortina de murallas del siglo XIII de la Haute-Ville está enteramente abierto todo el año a los perros con correa; las murallas medievales mejor conservadas de Francia, nunca traspasadas desde su construcción 1227-1231 por Philippe Hurepel."
+        },
+        {
+          "q": "¿La Haute-Ville de Boulogne es accesible a pie con un perro?",
+          "a": "Sí, la Haute-Ville amurallada es enteramente peatonal; la subida desde la ciudad baja por la Grande Rue o la Rampe du Château es de 10 minutos a pendiente moderada, y una vez dentro de los muros todo el centro histórico (Cathédrale Notre-Dame, Château-Musée, Place Godefroy de Bouillon, chemin de ronde) es un bucle llano de 1,5 km que tu perro con correa gestiona en 1 hora."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos no Nausicaá?", "a": "Só os cães de assistência podem entrar nas salas de exposição do Nausicaá, o maior aquário da Europa; os cães com trela são bem-vindos em toda a esplanada da frente marítima e no corredor de caminhada do Boulevard Sainte-Beuve em redor do edifício, e no passeio do port de pêche a 500 m a leste onde os arrastões desembarcam a pesca do dia."},
-        {"q": "Posso caminhar nas muralhas de Boulogne com o meu cão?", "a": "Sim, o chemin de ronde de 1,5 km no topo da cortina de muralhas do século XIII da Haute-Ville está inteiramente aberto o ano inteiro aos cães com trela; as muralhas medievais melhor preservadas de França, nunca traspassadas desde a sua construção 1227-1231 por Philippe Hurepel."},
-        {"q": "A Haute-Ville de Boulogne é acessível a pé com um cão?", "a": "Sim, a Haute-Ville amuralhada é inteiramente pedonal; a subida desde a cidade baixa pela Grande Rue ou pela Rampe du Château é de 10 minutos a declive moderado, e uma vez dentro dos muros todo o centro histórico (Cathédrale Notre-Dame, Château-Musée, Place Godefroy de Bouillon, chemin de ronde) é um circuito plano de 1,5 km que o seu cão com trela gere em 1 hora."}
+        {
+          "q": "Os cães são admitidos no Nausicaá?",
+          "a": "Só os cães de assistência podem entrar nas salas de exposição do Nausicaá, o maior aquário da Europa; os cães com trela são bem-vindos em toda a esplanada da frente marítima e no corredor de caminhada do Boulevard Sainte-Beuve em redor do edifício, e no passeio do port de pêche a 500 m a leste onde os arrastões desembarcam a pesca do dia."
+        },
+        {
+          "q": "Posso caminhar nas muralhas de Boulogne com o meu cão?",
+          "a": "Sim, o chemin de ronde de 1,5 km no topo da cortina de muralhas do século XIII da Haute-Ville está inteiramente aberto o ano inteiro aos cães com trela; as muralhas medievais melhor preservadas de França, nunca traspassadas desde a sua construção 1227-1231 por Philippe Hurepel."
+        },
+        {
+          "q": "A Haute-Ville de Boulogne é acessível a pé com um cão?",
+          "a": "Sim, a Haute-Ville amuralhada é inteiramente pedonal; a subida desde a cidade baixa pela Grande Rue ou pela Rampe du Château é de 10 minutos a declive moderado, e uma vez dentro dos muros todo o centro histórico (Cathédrale Notre-Dame, Château-Musée, Place Godefroy de Bouillon, chemin de ronde) é um circuito plano de 1,5 km que o seu cão com trela gere em 1 hora."
+        }
       ]
     },
     "petsitting": {
@@ -797,7 +1058,7 @@
           "description": "The leading peer-to-peer pet sitting platform in France, with verified Boulogne hosts offering drop-in visits, day care and overnight boarding. Most hosts have ground-floor flats in the lower town and Saint-Martin-Boulogne or small gardens in Wimereux, Le Portel and Outreau with quick outdoor access. Many bilingual hosts thanks to the cross-Channel and TGV-Paris commuter community.",
           "descriptionFr": "La plateforme de pet sitting pair à pair leader en France, avec des hôtes vérifiés à Boulogne offrant visites, garde de jour et pension de nuit. La plupart ont des appartements de plain-pied en ville basse et à Saint-Martin-Boulogne ou de petits jardins à Wimereux, Le Portel et Outreau avec accès extérieur rapide. Beaucoup d'hôtes bilingues grâce à la communauté transmanche et navetteur TGV-Paris.",
           "descriptionEs": "La plataforma líder de pet sitting entre particulares en Francia, con anfitriones verificados en Boulogne que ofrecen visitas, guardería diurna y alojamiento nocturno. La mayoría tiene pisos en planta baja en la ciudad baja y en Saint-Martin-Boulogne o pequeños jardines en Wimereux, Le Portel y Outreau con acceso exterior rápido. Muchos anfitriones bilingües gracias a la comunidad transmancha y commuter TGV-París.",
-          "descriptionPt": "A plataforma líder de pet sitting entre particulares em França, com anfitriões verificados em Boulogne que oferecem visitas, creche diurna e alojamento nocturno. A maioria tem apartamentos no rés-do-chão na cidade baixa e em Saint-Martin-Boulogne ou pequenos jardins em Wimereux, Le Portel e Outreau com acesso exterior rápido. Muitos anfitriões bilingues graças à comunidade transmancha e commuter TGV-Paris.",
+          "descriptionPt": "A plataforma líder de pet sitting entre particulares em França, com anfitriões verificados em Boulogne que oferecem visitas, creche diurna e alojamento noturno. A maioria tem apartamentos no rés-do-chão na cidade baixa e em Saint-Martin-Boulogne ou pequenos jardins em Wimereux, Le Portel e Outreau com acesso exterior rápido. Muitos anfitriões bilingues graças à comunidade transmancha e commuter TGV-Paris.",
           "petPolicy": "Per-host policies; insured and reviewed bookings",
           "petPolicyFr": "Politiques propres à chaque hôte ; réservations assurées et évaluées",
           "petPolicyEs": "Políticas por anfitrión; reservas con seguro y reseñas",
@@ -805,7 +1066,7 @@
           "services": "Drop-in visits, day care, overnight boarding",
           "servicesFr": "Visites, garde de jour, pension de nuit",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno",
-          "servicesPt": "Visitas, creche diurna, alojamento nocturno",
+          "servicesPt": "Visitas, creche diurna, alojamento noturno",
           "openingHours": "App available 24/7; sitters set own hours"
         },
         {
@@ -824,7 +1085,7 @@
           "services": "Drop-in visits, day care, overnight boarding, dog walks",
           "servicesFr": "Visites, garde de jour, pension de nuit, balades",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno, paseos",
-          "servicesPt": "Visitas, creche diurna, alojamento nocturno, passeios",
+          "servicesPt": "Visitas, creche diurna, alojamento noturno, passeios",
           "openingHours": "App available 24/7; sitters set own hours"
         },
         {
@@ -843,7 +1104,7 @@
           "services": "Drop-in visits, day care, overnight boarding, dog walks, house sitting",
           "servicesFr": "Visites, garde de jour, pension de nuit, balades, garde à domicile",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno, paseos, cuidado a domicilio",
-          "servicesPt": "Visitas, creche diurna, alojamento nocturno, passeios, cuidado em domicílio",
+          "servicesPt": "Visitas, creche diurna, alojamento noturno, passeios, cuidado em domicílio",
           "openingHours": "App available 24/7; sitters set own hours"
         }
       ],
@@ -868,24 +1129,60 @@
         "Reserve com 2-3 semanas de antecedência para qualquer estadia durante a época alta estival de julho-agosto e especialmente em torno das grandes férias escolares UK (Páscoa, half-term de maio, verão) quando o tráfego transmancha pet no corredor Calais-Coquelles atinge o pico."
       ],
       "faqsEn": [
-        {"q": "How much does pet sitting cost in Boulogne-sur-Mer?", "a": "Expect EUR 18-26 per night for boarding and EUR 10-15 per 30-minute walk via Pawshake, Animaute or Holidog; rural boarding kennels around Wimereux, Le Portel and the Côte d'Opale villages charge from EUR 20 per day."},
-        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Boulogne hotels keep a short list of Pawshake and Holidog hosts who do evening drop-ins, useful for a La Matelote dinner or a sunset trip to the Cap d'Alprech chalk cliffs."},
-        {"q": "Do I need to bring my dog's food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset, particularly important if the dog has just done a ferry, Le Shuttle or TGV crossing into the Boulonnais."}
+        {
+          "q": "How much does pet sitting cost in Boulogne-sur-Mer?",
+          "a": "Expect EUR 18-26 per night for boarding and EUR 10-15 per 30-minute walk via Pawshake, Animaute or Holidog; rural boarding kennels around Wimereux, Le Portel and the Côte d'Opale villages charge from EUR 20 per day."
+        },
+        {
+          "q": "Can hotels recommend a sitter for an evening out?",
+          "a": "Yes, larger Boulogne hotels keep a short list of Pawshake and Holidog hosts who do evening drop-ins, useful for a La Matelote dinner or a sunset trip to the Cap d'Alprech chalk cliffs."
+        },
+        {
+          "q": "Do I need to bring my dog's food to a sitter?",
+          "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset, particularly important if the dog has just done a ferry, Le Shuttle or TGV crossing into the Boulonnais."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la garde à Boulogne-sur-Mer ?", "a": "Comptez 18-26 € par nuit en pension et 10-15 € par balade de 30 minutes via Pawshake, Animaute ou Holidog ; les pensions rurales autour de Wimereux, Le Portel et des villages de la Côte d'Opale facturent à partir de 20 € par jour."},
-        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Boulogne gardent une courte liste d'hôtes Pawshake et Holidog disponibles le soir, utile pour un dîner La Matelote ou une sortie coucher de soleil aux falaises crayeuses du Cap d'Alprech."},
-        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs, particulièrement important si le chien vient de faire une traversée ferry, Le Shuttle ou TGV vers le Boulonnais."}
+        {
+          "q": "Combien coûte la garde à Boulogne-sur-Mer ?",
+          "a": "Comptez 18-26 € par nuit en pension et 10-15 € par balade de 30 minutes via Pawshake, Animaute ou Holidog ; les pensions rurales autour de Wimereux, Le Portel et des villages de la Côte d'Opale facturent à partir de 20 € par jour."
+        },
+        {
+          "q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?",
+          "a": "Oui, les grands hôtels de Boulogne gardent une courte liste d'hôtes Pawshake et Holidog disponibles le soir, utile pour un dîner La Matelote ou une sortie coucher de soleil aux falaises crayeuses du Cap d'Alprech."
+        },
+        {
+          "q": "Dois-je apporter la nourriture du chien au sitter ?",
+          "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs, particulièrement important si le chien vient de faire une traversée ferry, Le Shuttle ou TGV vers le Boulonnais."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el cuidado de mascotas en Boulogne-sur-Mer?", "a": "Cuenta 18-26 € por noche en residencia y 10-15 € por paseo de 30 minutos vía Pawshake, Animaute o Holidog; las residencias rurales alrededor de Wimereux, Le Portel y los pueblos de la Côte d'Opale cobran desde 20 € por día."},
-        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Boulogne guardan una lista corta de anfitriones Pawshake y Holidog disponibles por la tarde, útil para una cena en La Matelote o una salida al atardecer en los acantilados calizos del Cap d'Alprech."},
-        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos, particularmente importante si el perro acaba de hacer una travesía ferry, Le Shuttle o TGV al Boulonnais."}
+        {
+          "q": "¿Cuánto cuesta el cuidado de mascotas en Boulogne-sur-Mer?",
+          "a": "Cuenta 18-26 € por noche en residencia y 10-15 € por paseo de 30 minutos vía Pawshake, Animaute o Holidog; las residencias rurales alrededor de Wimereux, Le Portel y los pueblos de la Côte d'Opale cobran desde 20 € por día."
+        },
+        {
+          "q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?",
+          "a": "Sí, los grandes hoteles de Boulogne guardan una lista corta de anfitriones Pawshake y Holidog disponibles por la tarde, útil para una cena en La Matelote o una salida al atardecer en los acantilados calizos del Cap d'Alprech."
+        },
+        {
+          "q": "¿Tengo que llevar la comida del perro al cuidador?",
+          "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos, particularmente importante si el perro acaba de hacer una travesía ferry, Le Shuttle o TGV al Boulonnais."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa o cuidado de animais em Boulogne-sur-Mer?", "a": "Conte 18-26 € por noite em creche e 10-15 € por passeio de 30 minutos via Pawshake, Animaute ou Holidog; as creches rurais em torno de Wimereux, Le Portel e aldeias da Côte d'Opale cobram desde 20 € por dia."},
-        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Boulogne guardam uma lista curta de anfitriões Pawshake e Holidog disponíveis à noite, útil para um jantar La Matelote ou uma saída ao pôr-do-sol nas falésias cretáceas do Cap d'Alprech."},
-        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos, particularmente importante se o cão acabou de fazer uma travessia ferry, Le Shuttle ou TGV para o Boulonnais."}
+        {
+          "q": "Quanto custa o cuidado de animais em Boulogne-sur-Mer?",
+          "a": "Conte 18-26 € por noite em creche e 10-15 € por passeio de 30 minutos via Pawshake, Animaute ou Holidog; as creches rurais em torno de Wimereux, Le Portel e aldeias da Côte d'Opale cobram desde 20 € por dia."
+        },
+        {
+          "q": "Os hotéis podem recomendar um sitter para uma saída à noite?",
+          "a": "Sim, os grandes hotéis de Boulogne guardam uma lista curta de anfitriões Pawshake e Holidog disponíveis à noite, útil para um jantar La Matelote ou uma saída ao pôr-do-sol nas falésias cretáceas do Cap d'Alprech."
+        },
+        {
+          "q": "Tenho de levar a comida do cão ao cuidador?",
+          "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos, particularmente importante se o cão acabou de fazer uma travessia ferry, Le Shuttle ou TGV para o Boulonnais."
+        }
       ]
     }
   }

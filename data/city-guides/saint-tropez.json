@@ -116,7 +116,7 @@
           "tip": "The Place des Lices market runs Tuesday and Saturday mornings, the rest of the week the square is calm and the terrace is reliably available without booking.",
           "tipFr": "Le marché de la Place des Lices a lieu les mardi et samedi matins, le reste de la semaine la place est calme et la terrasse est disponible sans réservation.",
           "tipEs": "El mercado de la Place des Lices se celebra los martes y sábados por la mañana, el resto de la semana la plaza está tranquila y la terraza está disponible sin reserva.",
-          "tipPt": "O mercado da Place des Lices realiza-se às terças e sábados de manhã, o resto da semana a praça está calma e a esplanada está disponível sem reserva.",
+          "tipPt": "O mercado da Place des Lices realiza-se às terças e sábados de manhã; no resto da semana a praça fica calma e a esplanada costuma estar disponível sem reserva.",
           "googleMapsUrl": "https://maps.google.com/?q=Le+Cafe+Place+des+Lices+Saint-Tropez"
         },
         {
@@ -247,7 +247,7 @@
           "cost": "Crossing approx €8–€9 one way; dog free in carrier",
           "costFr": "Traversée env. 8–9 € aller ; chien gratuit en transport",
           "costEs": "Travesía aprox. 8–9 € ida; perro gratis en transportín",
-          "costPt": "Travessia aprox. 8–9 € ida; cão grátis em transportadora"
+          "costPt": "Travessia cerca de 8–9 € ida; cão grátis em transportadora"
         },
         {
           "mode": "Bateaux de Saint-Raphaël seasonal ferry (Saint-Raphaël ↔ Saint-Tropez)",
@@ -261,7 +261,7 @@
           "cost": "Crossing approx €17 one way; dog free in carrier",
           "costFr": "Traversée env. 17 € aller ; chien gratuit en transport",
           "costEs": "Travesía aprox. 17 € ida; perro gratis en transportín",
-          "costPt": "Travessia aprox. 17 € ida; cão grátis em transportadora"
+          "costPt": "Travessia cerca de 17 € ida; cão grátis em transportadora"
         },
         {
           "mode": "Var-Lib bus line 7601 (Saint-Raphaël ↔ Saint-Tropez year-round)",
@@ -322,7 +322,7 @@
           "tip": "October–April is the only window: the sand is empty, the light is golden, and dogs run freely on leash. Park at Tahiti or Bonne Terrasse access points and walk south for the quietest stretches.",
           "tipFr": "D'octobre à avril, c'est la seule fenêtre : le sable est vide, la lumière est dorée et les chiens courent librement en laisse. Garez-vous aux accès Tahiti ou Bonne Terrasse et marchez vers le sud pour les tronçons les plus calmes.",
           "tipEs": "De octubre a abril es la única ventana: la arena está vacía, la luz es dorada y los perros corren libres con correa. Aparca en los accesos Tahiti o Bonne Terrasse y camina al sur para los tramos más tranquilos.",
-          "tipPt": "De outubro a abril é a única janela: a areia está vazia, a luz é dourada e os cães correm livres com trela. Estaciona nos acessos Tahiti ou Bonne Terrasse e caminha para sul para os troços mais calmos.",
+          "tipPt": "De outubro a abril é a única janela: a areia fica vazia, a luz é dourada e os cães correm livres com trela. Estaciona nos acessos Tahiti ou Bonne Terrasse e caminha para sul para os troços mais calmos.",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Pampelonne+Ramatuelle"
         },
         {
@@ -400,7 +400,10 @@
           ],
           "languagesFr": "Français (anglais limité)",
           "languagesEs": "Francés (inglés limitado)",
-          "languagesPt": "Francês (inglês limitado)",
+          "languagesPt": [
+            "Francês",
+            "inglês limitado"
+          ],
           "tip": "The main reference clinic of the peninsula. Save both numbers, the after-hours line redirects to UVD Puget-sur-Argens for true emergencies.",
           "tipFr": "La clinique de référence de la presqu'île. Enregistrez les deux numéros, la ligne hors horaires redirige vers l'UVD à Puget-sur-Argens pour les vraies urgences.",
           "tipEs": "La clínica de referencia de la península. Guarda los dos números, la línea fuera de horario redirige al UVD en Puget-sur-Argens para emergencias reales.",
@@ -426,7 +429,9 @@
           ],
           "languagesFr": "Français",
           "languagesEs": "Francés",
-          "languagesPt": "Francês",
+          "languagesPt": [
+            "Francês"
+          ],
           "tip": "Convenient if staying on the Gassin or Ramatuelle side of the peninsula, or near Pampelonne. Phone first, parking is at the Espace Santé complex.",
           "tipFr": "Pratique si vous logez côté Gassin ou Ramatuelle, ou près de Pampelonne. Téléphonez d'abord, stationnement dans le complexe Espace Santé.",
           "tipEs": "Cómoda si te alojas en el lado Gassin o Ramatuelle, o cerca de Pampelonne. Llama primero, aparcamiento en el complejo Espace Santé.",
@@ -453,7 +458,10 @@
           ],
           "languagesFr": "Français (quelques anglophones)",
           "languagesEs": "Francés (algo de inglés)",
-          "languagesPt": "Francês (algum inglês)",
+          "languagesPt": [
+            "Francês",
+            "algum inglês"
+          ],
           "tip": "Where the Saint-Tropez on-call line redirects out of hours. 45 minutes via the D25 then A8 eastbound. Phone before leaving so they expect you and confirm route around peak-season traffic.",
           "tipFr": "C'est là que la ligne de garde de Saint-Tropez redirige hors horaires. 45 minutes par la D25 puis l'A8 vers l'est. Téléphonez avant de partir pour qu'ils vous attendent et confirmez l'itinéraire pour éviter le trafic estival.",
           "tipEs": "A donde redirige la línea de guardia de Saint-Tropez fuera de horario. 45 minutos por la D25 y luego la A8 al este. Llama antes de salir para que te esperen y confirma el itinerario para evitar el tráfico estival.",
@@ -508,7 +516,7 @@
           "tip": "Walk the quay around 08:00 to see the fishmongers arriving and the yachts hosing down before the crowds. La Ponche is at its best in late afternoon.",
           "tipFr": "Faites le tour du quai vers 8h pour voir l'arrivée des poissonniers et le nettoyage des yachts avant la foule. La Ponche est au mieux en fin d'après-midi.",
           "tipEs": "Recorre el muelle hacia las 8:00 para ver llegar a los pescaderos y a los yates limpiarse antes de las multitudes. La Ponche está en su mejor momento al final de la tarde.",
-          "tipPt": "Percorre o cais por volta das 8h para ver chegar os peixeiros e os iates a serem lavados antes das multidões. La Ponche está no seu melhor ao fim da tarde.",
+          "tipPt": "Percorre o cais por volta das 8h para ver chegar os peixeiros e os iates a serem lavados antes das multidões. La Ponche fica no seu melhor ao fim da tarde.",
           "googleMapsUrl": "https://maps.google.com/?q=Vieux+Port+Saint-Tropez",
           "entryFee": "Free",
           "entryFeeFr": "Gratuit",
@@ -531,12 +539,12 @@
           "tip": "Climb up before 10:00 or in the last hour before sunset, the panoramic view over Pampelonne is at its best in golden light.",
           "tipFr": "Montez avant 10h ou dans la dernière heure avant le coucher du soleil, la vue panoramique sur Pampelonne est au mieux à la lumière dorée.",
           "tipEs": "Sube antes de las 10:00 o en la última hora antes del atardecer, la vista panorámica sobre Pampelonne está en su mejor momento con luz dorada.",
-          "tipPt": "Sobe antes das 10h ou na última hora antes do pôr do sol, a vista panorâmica sobre Pampelonne está no seu melhor com luz dourada.",
+          "tipPt": "Sobe antes das 10h ou na última hora antes do pôr do sol; a vista panorâmica sobre Pampelonne fica no seu melhor com luz dourada.",
           "googleMapsUrl": "https://maps.google.com/?q=Citadelle+Saint-Tropez",
           "entryFee": "Free (esplanade); museum entry approx €4",
           "entryFeeFr": "Gratuit (esplanade) ; entrée musée env. 4 €",
           "entryFeeEs": "Gratis (esplanada); entrada museo aprox. 4 €",
-          "entryFeePt": "Grátis (esplanada); entrada museu aprox. 4 €"
+          "entryFeePt": "Grátis (esplanada); entrada do museu cerca de 4 €"
         },
         {
           "name": "Place des Lices market (Tuesday & Saturday)",

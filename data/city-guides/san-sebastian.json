@@ -89,7 +89,7 @@
       "tipsPt": [
         "Os bares de pintxos de San Sebastián aceitam cães quase universalmente nas suas zonas de balcão exterior; a cultura local trata os cães como companheiros normais em contextos sociais.",
         "As ruelas da Parte Vieja (Cidade Velha) ficam muito estreitas nas horas de pico dos pintxos (13:00 às 14:30 e 20:00 às 22:00); mude-se para ruas laterais mais sossegadas se tiver um cão grande.",
-        "A maioria dos cafés ao longo das promenades do Paseo de La Concha e do Paseo de Zurriola permite cães com trela nas mesas exteriores."
+        "A maioria dos cafés ao longo das promenades do Paseo de La Concha e do Paseo de Zurriola aceita cães com trela nas mesas exteriores."
       ],
       "faqsPt": []
     },
@@ -185,7 +185,7 @@
           "policyFr": "Les petits chiens portés dans les bras ou dans un sac de transport fermé sont autorisés. Les chiens d'assistance voyagent gratuitement. Pas de grands chiens non contenus.",
           "policyEs": "Los perros pequeños llevados en brazos o en un transportín cerrado están permitidos. Los perros de asistencia viajan gratis. No se admiten perros grandes sin contener.",
           "modePt": "Dbus (Autocarro Urbano)",
-          "policyPt": "Os cães pequenhos llevados en brazos o num transportadora cerrado estão permitidos. Os cães de assistência viajan grátis. No se admitem cães grandes sem contener."
+          "policyPt": "Os cães pequenos transportados ao colo ou numa transportadora fechada são permitidos. Os cães de assistência viajam gratuitamente. Não se admitem cães grandes sem estarem contidos."
         },
         {
           "mode": "Renfe (National Rail)",
@@ -195,7 +195,7 @@
           "policyFr": "Les petits chiens (moins de 10 kg avec sac, max 60×35×35 cm) voyagent au tarif enfant. Les grands chiens doivent être muselés et tenus en laisse et paient 50% du tarif adulte. Les chiens guides voyagent gratuitement.",
           "policyEs": "Los perros pequeños (menos de 10 kg con transportín, máx. 60×35×35 cm) viajan al precio de niño. Los perros grandes deben ir con bozal y correa y pagan el 50% de la tarifa adulta. Los perros guía viajan gratis.",
           "modePt": "Renfe (Comboio Nacional)",
-          "policyPt": "Os cães pequenhos (menos de 10 kg com transportadora, máx. 60×35×35 cm) viajan al preço de ninho. Os cães grandes deben ir com bozal e trela e pagan o 50% da tarifa adulta. Os cães guía viajan grátis."
+          "policyPt": "Os cães pequenos (menos de 10 kg com transportadora, máx. 60×35×35 cm) viajam ao preço de bilhete de criança. Os cães grandes têm de usar açaime e trela e pagam 50% da tarifa de adulto. Os cães-guia viajam gratuitamente."
         },
         {
           "mode": "Euskotren (Basque Regional Rail)",
@@ -205,7 +205,7 @@
           "policyFr": "Les petits chiens dans un sac de transport fermé voyagent gratuitement. Les grands chiens doivent porter une muselière et rester en laisse courte ; un billet enfant est requis. Utile pour rejoindre Hondarribia et d'autres villes côtières basques.",
           "policyEs": "Los perros pequeños en transportín cerrado viajan gratis. Los perros más grandes deben llevar bozal y permanecer con correa corta; se requiere un billete de niño. Útil para llegar a Hondarribia y otras localidades costeras vascas.",
           "modePt": "Euskotren (Comboio Regional Vasco)",
-          "policyPt": "Os cães pequenhos en transportadora cerrado viajan grátis. Os cães mais grandes deben levar bozal e permanecer com trela corta; se requiere um bilhete de ninho. Útil para chegar a Hondarribia e otras localidades costeras vascas."
+          "policyPt": "Os cães pequenos numa transportadora fechada viajam gratuitamente. Os cães maiores têm de usar açaime e permanecer com trela curta; é necessário um bilhete de criança. Útil para chegar a Hondarribia e a outras localidades costeiras bascas."
         },
         {
           "mode": "Taxi & Ride-hailing",
@@ -215,7 +215,7 @@
           "policyFr": "Les taxis sont nombreux et la plupart des chauffeurs acceptent les chiens, particulièrement les petits. Confirmez avec le chauffeur avant de monter. Les applis de VTC (Cabify) opèrent dans la ville.",
           "policyEs": "Los taxis son abundantes y la mayoría de los taxistas aceptan perros, especialmente los pequeños. Confirma con el conductor antes de subir. Las apps de VTC (Cabify) operan en la ciudad.",
           "modePt": "Taxi e VTC",
-          "policyPt": "Os taxis são abundantes e a maioria dois taxistas aceitam cães, especialmente os pequenhos. Confirma com o conductor antes de subir. As apps de VTC (Cabify) operan na cidade."
+          "policyPt": "Os táxis são abundantes e a maioria dos motoristas aceita cães, sobretudo os pequenos. Confirme com o motorista antes de entrar. As apps de transporte com motorista (Cabify) operam na cidade."
         }
       ],
       "sections": [
@@ -227,7 +227,7 @@
           "contentFr": "La géographie compacte de Saint-Sébastien fait de la marche le meilleur moyen de se déplacer avec un chien. Le Paseo de La Concha relie les plages d'Ondarreta et de La Concha via une large esplanade ; le Paseo Nuevo longe la base des falaises entre le vieux port et Monte Urgull ; et le Paseo de Zurriola suit la plage est. Les trois sont plats, larges et entièrement dog-friendly en laisse.",
           "contentEs": "La geografía compacta de San Sebastián hace que caminar sea la mejor forma de desplazarse con un perro. El Paseo de La Concha une las playas de Ondarreta y La Concha a través de una amplia esplanada; el Paseo Nuevo discurre a lo largo de la base del acantilado entre el Puerto Viejo y el Monte Urgull; y el Paseo de Zurriola sigue la playa oriental. Los tres son planos, amplios y totalmente aptos para perros con correa.",
           "titlePt": "Recorrer a cidade a pé",
-          "contentPt": "A geografía compacta de San Sebastián faz que caminhar sea a melhor forma de desplazarse com um cão. O Passeio da Concha une as praias de Ondarreta e A Concha a través de uma amplia esplanada; o Passeio Nuevo discurre a lo largo da base do acantilado entre o Porto Viejo e o Monte Urgull; e o Passeio de Zurriola sigue a praia oriental. Os três são planos, amplios e totalmente aptos para cães com trela."
+          "contentPt": "A geografia compacta de San Sebastián faz da caminhada a melhor forma de viajar com um cão. O Paseo de La Concha une as praias de Ondarreta e La Concha através de uma esplanada larga; o Paseo Nuevo percorre a base da falésia entre o Porto Velho e o Monte Urgull; e o Paseo de Zurriola acompanha a praia oriental. Os três são planos, largos e totalmente aptos para cães com trela."
         }
       ],
       "faqsEn": [],
@@ -301,8 +301,8 @@
         "nonEuPetsFr": "Les animaux de pays non-UE entrant en Espagne nécessitent un certificat zoosanitaire au format UE délivré par un vétérinaire officiel gouvernemental dans le pays d'origine. Le certificat doit couvrir : micropuce ISO, vaccination antirabique valide et tous tests supplémentaires requis. L'entrée doit se faire par un Poste d'Inspection Frontalier (PIF) UE désigné.",
         "euPetsEs": "Se requiere pasaporte europeo para animales de compañía. Debe acreditar: microchip ISO (15 dígitos, norma 11784/11785), vacunación antirrábica válida (mínimo 21 días antes del viaje si es la primera vacunación) y tratamiento antiparasitario si se entra desde ciertos países no UE. España es miembro de la UE, viajar dentro del espacio Schengen es sencillo con un pasaporte válido para mascotas.",
         "nonEuPetsEs": "Las mascotas de países no pertenecientes a la UE que entren en España necesitan un certificado sanitario en formato UE expedido por un veterinario oficial del gobierno en el país de origen. El certificado debe cubrir: microchip ISO, vacunación antirrábica válida y cualquier prueba adicional requerida. La entrada debe realizarse por un Puesto de Inspección Fronterizo (PIF) de la UE designado.",
-        "euPetsPt": "Se requiere passaporte europeu para animales de companhia. Debe acreditar: microchip ISO (15 dígitos, norma 11784/11785), vacinação antirrábica válida (mínimo 21 dias antes do viaje se é a primera vacinação) e tratamento antiparasitario se se entra a partir de ciertos países no UE. Espanha é miembro da UE, viajar dentro do espacio Schengen é sencillo com um passaporte válido para animais.",
-        "nonEuPetsPt": "As animais de países no pertenecientes a a UE que entren en Espanha necesitan um certificado sanitario en formato UE expedido por um veterinário oficial do gobierno no país de origen. O certificado debe cubrir: microchip ISO, vacinação antirrábica válida e cualquier prueba adicional requerida. A entrada debe realizarse por um Puesto de Inspección Fronterizo (PIF) da UE designado."
+        "euPetsPt": "É necessário passaporte europeu para animais de companhia. Tem de comprovar: microchip ISO (15 dígitos, norma 11784/11785), vacinação antirrábica válida (mínimo 21 dias antes da viagem se for a primeira vacinação) e registo de tratamento contra ténias se entrar a partir de determinados países fora da UE. Espanha é membro da UE e viajar dentro do Espaço Schengen é simples com um passaporte válido para animais.",
+        "nonEuPetsPt": "Os animais provenientes de países fora da UE que entrem em Espanha necessitam de um certificado sanitário em formato UE emitido por um veterinário oficial do governo no país de origem. O certificado tem de abranger: microchip ISO, vacinação antirrábica válida e quaisquer testes adicionais exigidos (teste de titulação de anticorpos antirrábicos para animais de países não listados). A entrada tem de ser feita por um Posto de Inspeção Fronteiriço (PIF) da UE designado."
       },
       "places": [
         {
@@ -350,8 +350,8 @@
           "contentEn": "The single most important rule in San Sebastián for dog owners: the city beaches (La Concha, Ondarreta, and Zurriola) are open to dogs from 1 October to 31 May and closed to dogs from 1 June to 30 September during bathing hours. Plan your visit accordingly or head to Hendaia beach across the French border for year-round access.",
           "contentFr": "La règle la plus importante à Saint-Sébastien pour les propriétaires de chiens : les plages de la ville (La Concha, Ondarreta et Zurriola) sont ouvertes aux chiens du 1er octobre au 31 mai et fermées aux chiens du 1er juin au 30 septembre pendant les heures de baignade. Planifiez votre visite en conséquence ou rendez-vous à la plage d'Hendaye de l'autre côté de la frontière française pour un accès toute l'année.",
           "contentEs": "La regla más importante en San Sebastián para los dueños de perros: las playas de la ciudad (La Concha, Ondarreta y Zurriola) están abiertas a los perros del 1 de octubre al 31 de mayo y cerradas a los perros del 1 de junio al 30 de septiembre durante el horario de baño. Planifica tu visita en consecuencia o dirígete a la playa de Hendaya al otro lado de la frontera francesa para acceso durante todo el año.",
-          "titlePt": "Acesso a praias: Conoce as fechas",
-          "contentPt": "A regla mais importante en San Sebastián para os duenhos de cães: as praias da cidade (A Concha, Ondarreta e Zurriola) estão abiertas aos cães do 1 de outubro al 31 de maio e cerradas aos cães do 1 de junho al 30 de setembro durante o horário de banho. Planifica tu visita en consecuencia o dirígete a a praia de Hendaya al otro lado da frontera francesa para acesso durante o ano inteiro."
+          "titlePt": "Acesso às praias: conheça as datas",
+          "contentPt": "A regra mais importante em San Sebastián para os donos de cães: as praias da cidade (La Concha, Ondarreta e Zurriola) estão abertas aos cães de 1 de outubro a 31 de maio e fechadas aos cães de 1 de junho a 30 de setembro durante o horário de banhos. Planeie a sua visita em conformidade ou dirija-se à praia de Hendaia, do outro lado da fronteira francesa, para acesso durante todo o ano."
         },
         {
           "titleEn": "Off-Leash Hours: Respect the Schedule",
@@ -360,8 +360,8 @@
           "contentEn": "Monte Urgull and Monte Ulía have specific off-leash windows, not all-day access. In winter, off-leash is permitted from 18:00 to 12:00 (next day) on Monte Urgull; on Monte Ulía it is 18:00 to 12:00 year-round. During the on-leash hours (typically mid-morning to early evening), keep your dog leashed. Fines apply for non-compliance.",
           "contentFr": "Monte Urgull et Monte Ulía ont des fenêtres sans laisse spécifiques, pas un accès toute la journée. En hiver, la liberté est permise de 18h à 12h (le lendemain) sur Monte Urgull ; sur Monte Ulía, c'est 18h à 12h toute l'année. Pendant les heures en laisse (généralement de la matinée à la soirée), gardez votre chien en laisse. Des amendes s'appliquent en cas de non-respect.",
           "contentEs": "El Monte Urgull y el Monte Ulía tienen ventanas horarias específicas sin correa, no es acceso libre todo el día. En invierno, se permite sin correa de 18:00 a 12:00 (del día siguiente) en el Monte Urgull; en el Monte Ulía es de 18:00 a 12:00 todo el año. Durante las horas con correa (normalmente de media mañana a primera tarde), mantén a tu perro con correa. Se aplican multas por incumplimiento.",
-          "titlePt": "Horas sem trela: Respeta o horário",
-          "contentPt": "O Monte Urgull e o Monte Ulía têm ventanas horarias específicas sem trela, no é acesso libre todo o dia. En inverno, se permite sem trela de 18:00 a 12:00 (do dia siguiente) no Monte Urgull; no Monte Ulía é de 18:00 a 12:00 o ano inteiro. Durante as horas com trela (normalmente de media manhã a primera tarde), mantén a tu cão com trela. Se aplican multas por incumplimiento."
+          "titlePt": "Horas sem trela: respeite o horário",
+          "contentPt": "O Monte Urgull e o Monte Ulía têm janelas horárias específicas sem trela, e não acesso livre todo o dia. No inverno, é permitido andar sem trela das 18:00 às 12:00 (do dia seguinte) no Monte Urgull; no Monte Ulía é das 18:00 às 12:00 durante todo o ano. Durante as horas com trela (normalmente do meio da manhã ao início da noite), mantenha o seu cão com trela. Aplicam-se multas por incumprimento."
         },
         {
           "titleEn": "PPP (Potentially Dangerous Dog) Rules",
@@ -370,8 +370,8 @@
           "contentEn": "Spain maintains a national register of breeds classified as 'Potentially Dangerous' (PPP, Perros Potencialmente Peligrosos). These breeds must always be leashed and muzzled in public spaces in San Sebastián, including in parks and on the hills, even during the designated off-leash hours. Owners must carry their PPP licence. Check with the Spanish authorities if your breed may be classified.",
           "contentFr": "L'Espagne tient un registre national des races classées « potentiellement dangereuses » (PPP, Perros Potencialmente Peligrosos). Ces races doivent toujours être tenues en laisse et porter une muselière dans les espaces publics de Saint-Sébastien, y compris dans les parcs et sur les collines, même pendant les heures sans laisse désignées. Les propriétaires doivent porter leur licence PPP. Renseignez-vous auprès des autorités espagnoles si votre race pourrait être classifiée.",
           "contentEs": "España mantiene un registro nacional de razas clasificadas como 'Potencialmente Peligrosas' (PPP). Estas razas deben ir siempre con correa y bozal en los espacios públicos de San Sebastián, incluidos parques y montes, incluso durante las horas sin correa designadas. Los propietarios deben llevar su licencia PPP. Consulta con las autoridades españolas si tu raza podría estar clasificada.",
-          "titlePt": "Normativa PPP (Cães Potencialmente Peligrosos)",
-          "contentPt": "Espanha mantiene um registro nacional de razas clasificadas como 'Potencialmente Peligrosas' (PPP). Estas razas deben ir sempre com trela e bozal nos espacios públicos de San Sebastián, incluidos parques e montes, mesmo durante as horas sem trela designadas. Os propietarios deben levar o seu licencia PPP. Consulta com as autoridades espanholas se tu raza podría estar clasificada."
+          "titlePt": "Regras PPP (cães potencialmente perigosos)",
+          "contentPt": "Espanha mantém um registo nacional de raças classificadas como potencialmente perigosas (designadas PPP). Estas raças têm de andar sempre com trela e açaime nos espaços públicos de San Sebastián, incluindo nos parques e nas colinas, mesmo durante as horas sem trela designadas. Os donos têm de levar consigo a respetiva licença PPP. Consulte as autoridades espanholas se a sua raça puder estar classificada."
         }
       ],
       "places": [],
@@ -403,10 +403,10 @@
       "introPt": "San Sebastián é classificada de forma consistente como uma das cidades mais acolhedoras para cães de Espanha, com o maior rácio de cães registados por habitante de qualquer grande cidade espanhola. A combinação de praias urbanas percorríveis a pé, colinas arborizadas e uma atitude cultural descontraída faz dela uma escolha natural para uma viagem que inclui o cão.",
       "tipsPt": [
         "San Sebastián tem mais de 15.000 cães registados para menos de 200.000 habitantes; vai encontrar cães por toda a parte e a atitude local é consistentemente acolhedora.",
-        "A cultura dos bares de pintxos estende-se naturalmente aos cães: a maioria dos bares permite cães com trela nos lugares exteriores e está habituada a donos de animais.",
+        "A cultura dos bares de pintxos estende-se naturalmente aos cães: a maioria dos bares aceita cães com trela nos lugares exteriores e habituou-se aos donos de animais.",
         "Leve uma garrafa de água e uma taça dobrável; a cidade tem bebedouros, mas nem todos são acessíveis a cães. As montanhas e os trilhos no topo das falésias não têm pontos de água.",
         "Os verões bascos são amenos em comparação com o interior de Espanha, o que torna julho e agosto perfeitamente viáveis para uma viagem com cão, apesar da proibição na praia.",
-        "A infraestrutura de passaporte europeu para animais da cidade está bem estabelecida; os veterinários locais conhecem bem a viagem transfronteiriça e podem emitir a documentação necessária."
+        "A infraestrutura de passaporte europeu para animais da cidade encontra-se bem estabelecida; os veterinários locais conhecem bem a viagem transfronteiriça e podem emitir a documentação necessária."
       ],
       "faqsPt": []
     },

@@ -354,8 +354,8 @@
           "costFr": "Gratuit pour les chiens en caisse",
           "costEs": "Gratis para perros en portador",
           "modePt": "Autocarro Txik Txak",
-          "policyPt": "Cães pequenhos en portador cerrado admitidos grátis. Cães grandes sem portador no permitidos en a maioria de líneas.",
-          "costPt": "Grátis para cães en portador"
+          "policyPt": "Cães pequenos em transportadora fechada admitidos gratuitamente. Cães grandes sem transportadora não são aceites na maioria das linhas.",
+          "costPt": "Gratuito para cães em transportadora"
         },
         {
           "mode": "SNCF Train",
@@ -368,8 +368,8 @@
           "costFr": "Gratuit sous 6 kg ; demi-tarif au-dessus",
           "costEs": "Gratis menos de 6 kg; mitad de precio por encima",
           "modePt": "Comboio SNCF",
-          "policyPt": "Cães menores de 6 kg en portador viajan grátis. Cães de mais de 6 kg: bilhete a mitad de preço obrigatório, bozal obrigatório en comboios regionales.",
-          "costPt": "Grátis menos de 6 kg; mitad de preço por em cima"
+          "policyPt": "Cães com menos de 6 kg em transportadora viajam gratuitamente. Cães com mais de 6 kg: bilhete a meio-preço obrigatório, açaime obrigatório nos comboios regionais.",
+          "costPt": "Gratuito abaixo de 6 kg; meio-preço acima"
         },
         {
           "mode": "Taxi / VTC",
@@ -382,8 +382,8 @@
           "costFr": "Tarifs taxis normaux applicables",
           "costEs": "Se aplican tarifas normales de taxi",
           "modePt": "Taxi / VTC",
-          "policyPt": "A maioria dois taxis aceitam cães. Confirma al reservar para razas grandes. Se agradece uma manta o portador.",
-          "costPt": "Se aplican tarifas normales de taxi"
+          "policyPt": "A maioria dos táxis aceita cães. Confirme ao reservar para raças grandes. Uma manta ou transportadora é bem-vinda.",
+          "costPt": "Aplicam-se as tarifas normais de táxi"
         }
       ],
       "titlePt": "Deslocar-se em Biarritz com um cão",
@@ -412,9 +412,9 @@
           "seasonalRestrictionsEs": "Ninguna en la zona designada",
           "leashRequired": true,
           "googleMapsUrl": "https://maps.google.com/?q=Plage+Milady+Biarritz",
-          "descriptionPt": "A praia mais fiable para cães na propia Biarritz. Uma zona designada no extremo sur da praia da Milady permite cães durante o ano inteiro, lo que a convierte na opción predeterminada para os propietarios de animais que se alojan na cidade. A praia está respaldada por um acantilado arbolado e está mais resguardada que a expuesta Grande Plage, lo que significa água mais tranquila e menos presión de multitudes fora do verão. A zona da escuela de surf no extremo norte da praia é acogedora para cães nas zonas de aparcamiento e acesso. Hay uma ducha e zona de aclarado para cães disponible na rampa de acesso a a praia.",
-          "dogPolicyPt": "Cães permitidos o ano inteiro na zona sur designada",
-          "seasonalRestrictionsPt": "Ninguna na zona designada"
+          "descriptionPt": "A praia mais fiável para cães na própria Biarritz. Uma zona designada no extremo sul da praia da Milady aceita cães todo o ano, o que faz dela a escolha natural para donos de animais alojados na vila. A praia é ladeada por uma falésia arborizada e fica mais resguardada do que a exposta Grande Plage, com água mais calma e menos multidões fora do verão. A zona da escola de surf, no extremo norte, aceita cães nas zonas de estacionamento e acesso. Há um chuveiro e uma zona de enxágue para cães na rampa de acesso à praia.",
+          "dogPolicyPt": "Cães aceites todo o ano na zona sul designada",
+          "seasonalRestrictionsPt": "Nenhuma na zona designada"
         },
         {
           "name": "Plage d'Erretegia (Bidart)",
@@ -431,9 +431,9 @@
           "seasonalRestrictionsEs": "Ninguna",
           "leashRequired": true,
           "googleMapsUrl": "https://maps.google.com/?q=Plage+Erretegia+Bidart",
-          "descriptionPt": "A cinco minutos a sul de Biarritz no aldeia de Bidart, Erretegia é uma praia mais salvaje e menos urbanizada que as da cidade. O surf aqui é consistente e a praia tem um ambiente mais local e menos turístico. Os cães estão permitidos o ano inteiro, e a praia é popular entre os duenhos de cães que quieren evitar as restricciones de temporada alta na propia Biarritz. Os acantilados no extremo sur proporcionan refugio do viento predominante e um fondo dramático. Acesso pela D911 a sul de Biarritz; aparcamiento disponible en lo alto do acantilado.",
-          "dogPolicyPt": "Cães permitidos o ano inteiro",
-          "seasonalRestrictionsPt": "Ninguna"
+          "descriptionPt": "A cinco minutos a sul de Biarritz, na aldeia de Bidart, Erretegia é uma praia mais selvagem e menos urbanizada do que as da vila. O surf aqui é constante e a praia tem um ambiente mais local e menos turístico. Os cães são aceites todo o ano, e a praia é popular entre os donos de cães que procuram evitar as restrições de época alta na própria Biarritz. As falésias do extremo sul dão abrigo do vento dominante e um cenário dramático. Acesso pela D911 a sul de Biarritz; estacionamento no topo da falésia.",
+          "dogPolicyPt": "Cães aceites todo o ano",
+          "seasonalRestrictionsPt": "Nenhuma"
         },
         {
           "name": "Grande Plage (off-season)",
@@ -450,9 +450,9 @@
           "seasonalRestrictionsEs": "Prohibición total del 15 de mayo al 15 de septiembre",
           "leashRequired": true,
           "googleMapsUrl": "https://maps.google.com/?q=Grande+Plage+Biarritz",
-          "descriptionPt": "A praia mais famosa de Biarritz, a enmarcada pelo casino Belle Époque e os grandes hotéis, está disponible para cães fora do período de prohibición estival. Do 16 de setembro al 14 de maio, os cães com trela estão permitidos na Grande Plage. Fora de temporada, esta é uma praia magnífica: as olas atlánticas chegam sem obstáculos, a praia é amplia e pouco concurrida, e o telón de fondo arquitetónico do casino e o passeio da al passeio uma grandiosidad que ninguna otra praia de esta costa pode igualar. Um passeio invernal aqui num dia de tormenta, com as olas rompiendo lejos na areia, é uma das as melhores experiencias de passeio com cão en Francia. Durante a prohibición (15 maio–15 setembro) os cães estão estrictamente prohibidos, os vigilantes te multarán.",
-          "dogPolicyPt": "Cães permitidos com trela do 16 de setembro al 14 de maio. PROHIBIDOS do 15 de maio al 15 de setembro.",
-          "seasonalRestrictionsPt": "Prohibición total do 15 de maio al 15 de setembro"
+          "descriptionPt": "A praia mais famosa de Biarritz, a que é emoldurada pelo casino Belle Époque e pelos grandes hotéis, abre aos cães fora do período de proibição estival. De 16 de setembro a 14 de maio, os cães com trela são aceites na Grande Plage. Fora de época, é uma praia magnífica: as ondas atlânticas chegam sem obstáculos, o areal é largo e pouco concorrido, e o pano de fundo arquitetónico do casino e da esplanada dão ao passeio uma grandiosidade que nenhuma outra praia desta costa iguala. Um passeio de inverno num dia de tempestade, com as ondas a rebentar lá ao fundo do areal, é uma das melhores experiências de passeio com cão em França. Durante a proibição (15 de maio a 15 de setembro) os cães são terminantemente proibidos, e os vigilantes aplicam coima.",
+          "dogPolicyPt": "Cães aceites com trela de 16 de setembro a 14 de maio. PROIBIDOS de 15 de maio a 15 de setembro.",
+          "seasonalRestrictionsPt": "Proibição total de 15 de maio a 15 de setembro"
         }
       ],
       "titlePt": "Praias acolhedoras para cães em Biarritz",
@@ -477,7 +477,7 @@
           "descriptionFr": "La principale clinique vétérinaire locale de Biarritz, prenant en charge les consultations de routine, les vaccinations et les urgences mineures pendant les heures d'ouverture. Le personnel parle français et quelques membres parlent anglais. Pour les urgences après la fermeture, ils vous orientent vers le CHV Côte Basque à Bayonne.",
           "descriptionEs": "La principal clínica veterinaria local de Biarritz, que atiende consultas rutinarias, vacunaciones y urgencias menores durante el horario de apertura. El personal habla francés y algunos inglés. Para urgencias fuera de horario, te derivarán al CHV Côte Basque en Bayona.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+V%C3%A9t%C3%A9rinaire+Biarritz",
-          "descriptionPt": "A principal clínica veterinária local de Biarritz, que atiende consultas rutinarias, vacunaciones e urgências menores durante o horário de apertura. O personal habla francês e algunos inglês. Para urgências fora de horário, te derivarán al CHV Côte Basque en Bayona."
+          "descriptionPt": "A principal clínica veterinária local de Biarritz, que assegura consultas de rotina, vacinação e pequenas urgências durante o horário de funcionamento. A equipa fala francês e algum inglês. Para urgências fora de horas, encaminham-no para o CHV Côte Basque, em Bayonne."
         },
         {
           "name": "CHV Côte Basque, Centre Hospitalier Vétérinaire",
@@ -490,7 +490,7 @@
           "descriptionFr": "L'hôpital vétérinaire complet de la Côte Basque, situé à Bayonne à 8 minutes au nord de Biarritz par l'A63. C'est le point de référence d'urgence 24h/24 pour toute l'agglomération Biarritz-Anglet-Bayonne. Capacité chirurgicale et diagnostique complète. Personnel anglophone disponible. En cas d'urgence grave de votre animal en dehors des heures normales de clinique, c'est ici qu'il faut se rendre.",
           "descriptionEs": "El hospital veterinario completo de la Costa Vasca, ubicado en Bayona a 8 minutos al norte de Biarritz por la A63. Este es el punto de referencia de urgencias 24/7 para toda la conurbación Biarritz-Anglet-Bayona. Capacidad quirúrgica y diagnóstica completa. Personal de habla inglesa disponible. Si tu animal tiene una emergencia grave fuera del horario normal de la clínica, aquí es donde debes ir.",
           "googleMapsUrl": "https://maps.google.com/?q=CHV+C%C3%B4te+Basque+Bayonne",
-          "descriptionPt": "O hospital veterinário completo da Costa Vasca, ubicado en Bayona a 8 minutos a norte de Biarritz pela A63. Este é o punto de referencia de urgências 24/7 para toda a conurbación Biarritz-Anglet-Bayona. Capacidad quirúrgica e diagnóstica completa. Personal de habla inglesa disponible. Se tu animal tem uma emergência grave fora do horário normal da clínica, aqui é onde debes ir."
+          "descriptionPt": "O hospital veterinário completo da Costa Basca, situado em Bayonne, a 8 minutos a norte de Biarritz pela A63. É a referência de urgências 24/7 para toda a conurbação Biarritz-Anglet-Bayonne. Capacidade cirúrgica e de diagnóstico completa. Equipa que fala inglês. Se o seu animal tiver uma urgência grave fora do horário normal da clínica, é aqui que deve ir."
         }
       ],
       "titlePt": "Veterinários de urgência em Biarritz, clínicas veterinárias e cuidados a animais",
@@ -605,7 +605,7 @@
           "priceRangeFr": "15–40 €/jour selon le service",
           "priceRangeEs": "15–40 €/día según el servicio",
           "bookingRequired": true,
-          "descriptionPt": "Rover.fr é a principal plataforma peer-to-peer de cuidado de animais e passeio de cães que opera en Francia. O área de Biarritz e Bayona tem um número sólido de cuidadores verificados na plataforma, com perfiles, resenhas e reserva instantánea disponibles. Os serviços incluem alojamento de cães no hogar do cuidador, passeios, visitas a domicilio e guardería. As tarifas varían segundo o cuidador e o serviço. Para uma estadia veraniega en Biarritz, reserva com bastante antelación ya que a plataforma se llena rápidamente na temporada alta do País Vasco. O seguro de Rover cubre todas as reservas realizadas a través da plataforma.",
+          "descriptionPt": "A Rover.fr é a principal plataforma peer-to-peer de cuidado de animais e passeio de cães a operar em França. A zona de Biarritz e Bayonne tem um número sólido de cuidadores verificados na plataforma, com perfis, avaliações e reserva instantânea. Os serviços incluem alojamento de cães em casa do cuidador, passeios, visitas ao domicílio e creche. As tarifas variam consoante o cuidador e o serviço. Para uma estadia de verão em Biarritz, reserve com bastante antecedência, pois a plataforma enche depressa na época alta do País Basco. O seguro da Rover cobre todas as reservas feitas através da plataforma.",
           "priceRangePt": "15–40 €/dia segundo o serviço"
         }
       ],

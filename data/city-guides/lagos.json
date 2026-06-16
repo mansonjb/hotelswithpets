@@ -45,7 +45,7 @@
           "name": "Mar d'Estórias",
           "address": "Rua Silva Lopes 30, 8600-623 Lagos",
           "neighborhood": "Centro histórico",
-          "photo": "/images/city-places/lagos-restaurants-mar-destorias.jpg",
+          "photo": "/images/city-places/lagos-restaurants-mar-d-estorias.jpg",
           "website": "https://www.mardestorias.com/",
           "description": "A concept store and rooftop restaurant in the old town, with a panoramic terrace overlooking the Atlantic and Ponta da Bandeira fort. The menu is contemporary Portuguese with local sourcing, and the rooftop terrace welcomes leashed dogs year-round.",
           "descriptionFr": "Concept store et restaurant en rooftop dans la vieille ville, avec terrasse panoramique sur l'Atlantique et le fort de Ponta da Bandeira. La carte est portugaise contemporaine avec sourcing local, et la terrasse rooftop accueille les chiens en laisse toute l'année.",
@@ -76,7 +76,7 @@
           "description": "A no-frills working-class tasca legendary for its daily catch, with a small pavement terrace on a quiet side street. The fish goes straight from the morning market to the grill, and the staff are used to dogs at the outdoor tables.",
           "descriptionFr": "Tasca populaire sans chichis, légendaire pour sa pêche du jour, avec une petite terrasse de trottoir dans une rue calme. Le poisson passe directement du marché matinal au grill, et le personnel a l'habitude des chiens aux tables extérieures.",
           "descriptionEs": "Tasca popular sin pretensiones, legendaria por su pesca del día, con una pequeña terraza adoquinada en una calle tranquila. El pescado va directamente del mercado matinal a la parrilla, y el personal está habituado a los perros en las mesas exteriores.",
-          "descriptionPt": "Tasca popular sem pretensões, lendária pelo peixe do dia, com uma pequena esplanada calcetada numa rua tranquila. O peixe vai directamente do mercado matinal à grelha, e o pessoal está habituado aos cães nas mesas exteriores.",
+          "descriptionPt": "Tasca popular sem pretensões, lendária pelo peixe do dia, com uma pequena esplanada calcetada numa rua tranquila. O peixe vai diretamente do mercado matinal à grelha, e o pessoal já se habituou aos cães nas mesas exteriores.",
           "petPolicy": "Leashed dogs welcome on terrace only",
           "petPolicyFr": "Chiens en laisse bienvenus en terrasse uniquement",
           "petPolicyEs": "Perros con correa bienvenidos solo en terraza",
@@ -115,24 +115,60 @@
         "Cataplana e arroz de marisco são os pratos assinatura da região e quase sempre servidos para mínimo duas pessoas."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside Lagos restaurants?", "a": "Leashed dogs are welcome on virtually every pavement terrace in the old town. Air-conditioned indoor rooms in July-August often prefer dogs outside, simply ask at the door."},
-        {"q": "Do restaurants provide water bowls?", "a": "Most terraces bring a bowl unprompted; if not, asking for água para o cão always works."},
-        {"q": "Can I bring my dog to the marina restaurants?", "a": "Yes, the entire Marina de Lagos waterfront promenade is dog-friendly and almost every restaurant terrace welcomes leashed dogs year-round."}
+        {
+          "q": "Are dogs allowed inside Lagos restaurants?",
+          "a": "Leashed dogs are welcome on virtually every pavement terrace in the old town. Air-conditioned indoor rooms in July-August often prefer dogs outside, simply ask at the door."
+        },
+        {
+          "q": "Do restaurants provide water bowls?",
+          "a": "Most terraces bring a bowl unprompted; if not, asking for água para o cão always works."
+        },
+        {
+          "q": "Can I bring my dog to the marina restaurants?",
+          "a": "Yes, the entire Marina de Lagos waterfront promenade is dog-friendly and almost every restaurant terrace welcomes leashed dogs year-round."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Lagos ?", "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de trottoir de la vieille ville. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors, demandez à l'entrée."},
-        {"q": "Les restaurants fournissent-ils des gamelles d'eau ?", "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander água para o cão fonctionne toujours."},
-        {"q": "Puis-je emmener mon chien dans les restaurants de la marina ?", "a": "Oui, toute la promenade du front de marina de Lagos est dog-friendly et quasiment chaque terrasse de restaurant accueille les chiens en laisse toute l'année."}
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Lagos ?",
+          "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de trottoir de la vieille ville. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors, demandez à l'entrée."
+        },
+        {
+          "q": "Les restaurants fournissent-ils des gamelles d'eau ?",
+          "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander água para o cão fonctionne toujours."
+        },
+        {
+          "q": "Puis-je emmener mon chien dans les restaurants de la marina ?",
+          "a": "Oui, toute la promenade du front de marina de Lagos est dog-friendly et quasiment chaque terrasse de restaurant accueille les chiens en laisse toute l'année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Lagos?", "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas adoquinadas del casco antiguo. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera, basta con preguntar en la entrada."},
-        {"q": "¿Los restaurantes ofrecen cuencos de agua?", "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir água para o cão siempre funciona."},
-        {"q": "¿Puedo llevar al perro a los restaurantes del puerto deportivo?", "a": "Sí, todo el paseo del frente de la Marina de Lagos es pet-friendly y casi todas las terrazas de restaurante admiten perros con correa todo el año."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Lagos?",
+          "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas adoquinadas del casco antiguo. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera, basta con preguntar en la entrada."
+        },
+        {
+          "q": "¿Los restaurantes ofrecen cuencos de agua?",
+          "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir água para o cão siempre funciona."
+        },
+        {
+          "q": "¿Puedo llevar al perro a los restaurantes del puerto deportivo?",
+          "a": "Sí, todo el paseo del frente de la Marina de Lagos es pet-friendly y casi todas las terrazas de restaurante admiten perros con correa todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos dentro dos restaurantes de Lagos?", "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas calcetadas da cidade velha. As salas com ar condicionado em julho-agosto costumam preferir os cães fora, basta perguntar à entrada."},
-        {"q": "Os restaurantes oferecem taças de água?", "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir água para o cão funciona sempre."},
-        {"q": "Posso levar o meu cão aos restaurantes da marina?", "a": "Sim, todo o passeio da frente da Marina de Lagos é pet-friendly e quase todas as esplanadas de restaurante aceitam cães com trela o ano inteiro."}
+        {
+          "q": "Os cães são admitidos dentro dos restaurantes de Lagos?",
+          "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas calcetadas da cidade velha. As salas com ar condicionado em julho-agosto costumam preferir os cães fora, basta perguntar à entrada."
+        },
+        {
+          "q": "Os restaurantes oferecem taças de água?",
+          "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir água para o cão funciona sempre."
+        },
+        {
+          "q": "Posso levar o meu cão aos restaurantes da marina?",
+          "a": "Sim, todo o passeio da frente da Marina de Lagos é pet-friendly e quase todas as esplanadas de restaurante aceitam cães com trela o ano inteiro."
+        }
       ]
     },
     "parks": {
@@ -149,7 +185,7 @@
           "name": "Ponta da Piedade clifftop boardwalk",
           "address": "Estrada da Ponta da Piedade, 8600 Lagos",
           "neighborhood": "Ponta da Piedade",
-          "photo": "/images/city-places/lagos-parks-ponta-da-piedade.jpg",
+          "photo": "/images/city-places/lagos-parks-ponta-da-piedade-clifftop-boardwalk.jpg",
           "website": "https://www.cm-lagos.pt/",
           "description": "The 4 km wooden boardwalk along the Ponta da Piedade limestone cliffs is the most spectacular dog walk on the western Algarve. Fenced lookouts open onto sea caves, rock arches and turquoise coves; the entire route is on-leash, year-round free, and largely shaded at dawn.",
           "descriptionFr": "Le pontón en bois de 4 km le long des falaises calcaires de Ponta da Piedade est la plus spectaculaire balade canine de l'ouest de l'Algarve. Des belvédères sécurisés s'ouvrent sur grottes marines, arches rocheuses et criques turquoise ; tout l'itinéraire est en laisse, gratuit toute l'année, et largement ombragé à l'aube.",
@@ -175,12 +211,12 @@
           "name": "Mata Nacional do Barão de São João",
           "address": "Barão de São João, 8600 Lagos (12 km north of centre)",
           "neighborhood": "Vila do Bispo hinterland",
-          "photo": "/images/city-places/lagos-parks-mata-barao.jpg",
+          "photo": "/images/city-places/lagos-parks-mata-nacional-do-barao-de-sao-joao.jpg",
           "website": "https://www.icnf.pt/",
           "description": "A 400-hectare state-owned umbrella pine and cork oak forest 12 km north of Lagos, with marked walking loops of 2-7 km and abundant shade even at midday. The ICNF lets leashed dogs roam freely on all sandy trails, ideal for a heat-of-summer escape from the coast.",
           "descriptionFr": "Forêt domaniale de 400 hectares de pins parasols et chênes-lièges, à 12 km au nord de Lagos, avec boucles balisées de 2-7 km et ombre abondante même à midi. L'ICNF autorise les chiens en laisse sur tous les sentiers sablonneux, idéal pour échapper à la chaleur estivale de la côte.",
           "descriptionEs": "Bosque estatal de 400 hectáreas de pinos piñoneros y alcornoques, a 12 km al norte de Lagos, con circuitos señalizados de 2-7 km y abundante sombra incluso al mediodía. El ICNF permite perros con correa en todos los senderos arenosos, ideal para escapar del calor estival de la costa.",
-          "descriptionPt": "Mata estatal de 400 hectares de pinheiros-mansos e sobreiros, a 12 km a norte de Lagos, com circuitos sinalizados de 2-7 km e abundante sombra mesmo ao meio-dia. O ICNF permite cães com trela em todos os trilhos arenosos, ideal para escapar ao calor estival da costa.",
+          "descriptionPt": "Mata estatal de 400 hectares de pinheiros-mansos e sobreiros, a 12 km a norte de Lagos, com circuitos sinalizados de 2-7 km e abundante sombra mesmo ao meio-dia. O ICNF autoriza cães com trela em todos os trilhos arenosos, ideal para escapar ao calor estival da costa.",
           "petPolicy": "Leashed dogs welcome on all forest trails",
           "petPolicyFr": "Chiens en laisse bienvenus sur tous les sentiers forestiers",
           "petPolicyEs": "Perros con correa bienvenidos en todos los senderos del bosque",
@@ -201,7 +237,7 @@
           "name": "Parque da Cidade de Lagos (Quinta da Lagoa)",
           "address": "Avenida do Brasil, 8600 Lagos",
           "neighborhood": "Lagos centre",
-          "photo": "/images/city-places/lagos-parks-parque-da-cidade.jpg",
+          "photo": "/images/city-places/lagos-parks-parque-da-cidade-de-lagos-quinta-da-lagoa.jpg",
           "website": "https://www.cm-lagos.pt/",
           "description": "The municipal city park is a 12-hectare landscaped green space 800 m east of the marina, with shaded gravel paths, a small lake, picnic lawns and a fenced dog-walking area. Free and open 24/7, it is the easiest morning leg-stretcher when staying in central Lagos.",
           "descriptionFr": "Le parc municipal est un espace vert paysager de 12 hectares à 800 m à l'est de la marina, avec allées de gravier ombragées, petit lac, pelouses pour pique-nique et zone de promenade canine clôturée. Gratuit et ouvert 24h/24, c'est le plus simple dégourdissement matinal quand on loge dans le centre de Lagos.",
@@ -220,7 +256,7 @@
           "tip": "The fenced dog zone is busiest 18:00-20:00 when local owners gather; a calmer time is right after sunrise.",
           "tipFr": "La zone canine clôturée est la plus animée 18h-20h quand les propriétaires locaux se rassemblent ; le moment le plus calme est juste après le lever du soleil.",
           "tipEs": "La zona canina vallada está más concurrida de 18:00 a 20:00 cuando se reúnen los dueños locales; el momento más tranquilo es justo después del amanecer.",
-          "tipPt": "A zona canina vedada está mais movimentada das 18:00 às 20:00 quando os donos locais se reúnem; o momento mais calmo é logo após o nascer do sol.",
+          "tipPt": "A zona canina vedada fica mais movimentada das 18:00 às 20:00 quando os donos locais se reúnem; o momento mais calmo é logo após o nascer do sol.",
           "googleMapsUrl": "https://maps.google.com/?q=Parque+da+Cidade+Lagos+Portugal"
         }
       ],
@@ -245,24 +281,60 @@
         "As praias municipais de Lagos impõem a trela o ano inteiro; a liberdade sem trela encontra-se melhor no interior, na mata de pinheiros."
       ],
       "faqsEn": [
-        {"q": "Is there an off-leash dog park in Lagos?", "a": "Yes, the Parque da Cidade has a fenced off-leash zone near its centre. Outside that, the entire municipality is on-leash by default."},
-        {"q": "Can my dog walk the full Ponta da Piedade boardwalk?", "a": "Yes, the entire 4 km wooden boardwalk is dog-friendly year-round and free; lookouts are fenced so the cliff edge is safe even with active dogs."},
-        {"q": "Where can I find shaded walks in midsummer?", "a": "The Mata Nacional do Barão de São João pine forest 12 km north and the Parque da Cidade gravel loops are the only consistently shaded options near Lagos in July-August."}
+        {
+          "q": "Is there an off-leash dog park in Lagos?",
+          "a": "Yes, the Parque da Cidade has a fenced off-leash zone near its centre. Outside that, the entire municipality is on-leash by default."
+        },
+        {
+          "q": "Can my dog walk the full Ponta da Piedade boardwalk?",
+          "a": "Yes, the entire 4 km wooden boardwalk is dog-friendly year-round and free; lookouts are fenced so the cliff edge is safe even with active dogs."
+        },
+        {
+          "q": "Where can I find shaded walks in midsummer?",
+          "a": "The Mata Nacional do Barão de São João pine forest 12 km north and the Parque da Cidade gravel loops are the only consistently shaded options near Lagos in July-August."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un parc canin sans laisse à Lagos ?", "a": "Oui, le Parque da Cidade dispose d'une zone sans laisse clôturée près du centre. Hors de là, toute la municipalité est en laisse par défaut."},
-        {"q": "Mon chien peut-il marcher tout le pontón de Ponta da Piedade ?", "a": "Oui, les 4 km de pontón en bois sont dog-friendly toute l'année et gratuits ; les belvédères sont sécurisés donc le bord de falaise reste sûr même avec un chien actif."},
-        {"q": "Où trouver des promenades ombragées en plein été ?", "a": "La forêt de pins Mata Nacional do Barão de São João à 12 km au nord et les boucles de gravier du Parque da Cidade sont les seules options vraiment ombragées près de Lagos en juillet-août."}
+        {
+          "q": "Y a-t-il un parc canin sans laisse à Lagos ?",
+          "a": "Oui, le Parque da Cidade dispose d'une zone sans laisse clôturée près du centre. Hors de là, toute la municipalité est en laisse par défaut."
+        },
+        {
+          "q": "Mon chien peut-il marcher tout le pontón de Ponta da Piedade ?",
+          "a": "Oui, les 4 km de pontón en bois sont dog-friendly toute l'année et gratuits ; les belvédères sont sécurisés donc le bord de falaise reste sûr même avec un chien actif."
+        },
+        {
+          "q": "Où trouver des promenades ombragées en plein été ?",
+          "a": "La forêt de pins Mata Nacional do Barão de São João à 12 km au nord et les boucles de gravier du Parque da Cidade sont les seules options vraiment ombragées près de Lagos en juillet-août."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay un parque canino sin correa en Lagos?", "a": "Sí, el Parque da Cidade tiene una zona sin correa vallada cerca de su centro. Fuera de ahí, toda la municipalidad es con correa por defecto."},
-        {"q": "¿Mi perro puede caminar toda la pasarela de Ponta da Piedade?", "a": "Sí, los 4 km de pasarela de madera son pet-friendly todo el año y gratuitos; los miradores están protegidos así que el borde del acantilado es seguro incluso con perros activos."},
-        {"q": "¿Dónde encontrar paseos sombreados en pleno verano?", "a": "El bosque de pinos Mata Nacional do Barão de São João a 12 km al norte y los circuitos de grava del Parque da Cidade son las únicas opciones realmente sombreadas cerca de Lagos en julio-agosto."}
+        {
+          "q": "¿Hay un parque canino sin correa en Lagos?",
+          "a": "Sí, el Parque da Cidade tiene una zona sin correa vallada cerca de su centro. Fuera de ahí, toda la municipalidad es con correa por defecto."
+        },
+        {
+          "q": "¿Mi perro puede caminar toda la pasarela de Ponta da Piedade?",
+          "a": "Sí, los 4 km de pasarela de madera son pet-friendly todo el año y gratuitos; los miradores están protegidos así que el borde del acantilado es seguro incluso con perros activos."
+        },
+        {
+          "q": "¿Dónde encontrar paseos sombreados en pleno verano?",
+          "a": "El bosque de pinos Mata Nacional do Barão de São João a 12 km al norte y los circuitos de grava del Parque da Cidade son las únicas opciones realmente sombreadas cerca de Lagos en julio-agosto."
+        }
       ],
       "faqsPt": [
-        {"q": "Há um parque canino sem trela em Lagos?", "a": "Sim, o Parque da Cidade tem uma zona sem trela vedada perto do seu centro. Fora daí, todo o concelho é com trela por defeito."},
-        {"q": "O meu cão pode caminhar todo o passadiço da Ponta da Piedade?", "a": "Sim, os 4 km de passadiço de madeira são pet-friendly o ano inteiro e gratuitos; os miradouros estão protegidos por isso a borda da falésia é segura mesmo com cães activos."},
-        {"q": "Onde encontrar passeios sombreados em pleno verão?", "a": "A mata de pinheiros Mata Nacional do Barão de São João a 12 km a norte e os circuitos de gravilha do Parque da Cidade são as únicas opções verdadeiramente sombreadas perto de Lagos em julho-agosto."}
+        {
+          "q": "Há um parque canino sem trela em Lagos?",
+          "a": "Sim, o Parque da Cidade tem uma zona sem trela vedada perto do seu centro. Fora daí, todo o concelho é com trela por defeito."
+        },
+        {
+          "q": "O meu cão pode caminhar todo o passadiço da Ponta da Piedade?",
+          "a": "Sim, os 4 km de passadiço de madeira são pet-friendly o ano inteiro e gratuitos; os miradouros estão protegidos por isso a borda da falésia é segura mesmo com cães activos."
+        },
+        {
+          "q": "Onde encontrar passeios sombreados em pleno verão?",
+          "a": "A mata de pinheiros Mata Nacional do Barão de São João a 12 km a norte e os circuitos de gravilha do Parque da Cidade são as únicas opções verdadeiramente sombreadas perto de Lagos em julho-agosto."
+        }
       ]
     },
     "transport": {
@@ -273,13 +345,13 @@
       "introEn": "Lagos is the western terminus of the CP Linha do Algarve regional train running to Faro and Vila Real de Santo António. Inside the municipality, the Onda municipal bus links the old town with Meia Praia, Porto de Mós and Luz, and a small ferry crosses the Bensafrim river to Meia Praia. Portuguese rules let small dogs in carriers ride free and accept large muzzled leashed dogs at off-peak hours.",
       "introFr": "Lagos est le terminus ouest du train régional CP Linha do Algarve vers Faro et Vila Real de Santo António. Dans la municipalité, le bus municipal Onda relie la vieille ville à Meia Praia, Porto de Mós et Luz, et un petit bac traverse la rivière Bensafrim vers Meia Praia. La réglementation portugaise permet aux petits chiens en sac de voyager gratuitement et accepte les grands chiens en laisse et muselière en heures creuses.",
       "introEs": "Lagos es la terminal oeste del tren regional CP Linha do Algarve hacia Faro y Vila Real de Santo António. Dentro de la municipalidad, el autobús municipal Onda enlaza el casco antiguo con Meia Praia, Porto de Mós y Luz, y un pequeño ferry cruza el río Bensafrim hacia Meia Praia. La normativa portuguesa permite a los perros pequeños en transportín viajar gratis y admite a los grandes con correa y bozal en horas valle.",
-      "introPt": "Lagos é a terminal oeste do comboio regional CP Linha do Algarve para Faro e Vila Real de Santo António. Dentro do concelho, o autocarro municipal Onda liga a cidade velha à Meia Praia, Porto de Mós e Luz, e um pequeno ferry atravessa o rio Bensafrim para a Meia Praia. A regulamentação portuguesa permite aos cães pequenos em transportadora viajar grátis e aceita os grandes com trela e açaime em horas de menor afluência.",
+      "introPt": "Lagos é a terminal oeste do comboio regional CP Linha do Algarve para Faro e Vila Real de Santo António. Dentro do concelho, o autocarro municipal Onda liga a cidade velha à Meia Praia, Porto de Mós e Luz, e um pequeno ferry atravessa o rio Bensafrim para a Meia Praia. A regulamentação portuguesa autoriza os cães pequenos em transportadora a viajar grátis e aceita os grandes com trela e açaime em horas de menor afluência.",
       "places": [
         {
           "name": "CP Linha do Algarve (regional train)",
           "address": "Estação de Lagos, Largo da Estação, 8600 Lagos",
           "neighborhood": "Lagos centre",
-          "photo": "/images/city-places/lagos-transport-cp-linha-algarve.jpg",
+          "photo": "/images/city-places/lagos-transport-cp-linha-do-algarve-regional-train.jpg",
           "website": "https://www.cp.pt/",
           "description": "The CP regional line runs from Lagos to Faro in about 1h45 (around EUR 7.30 each way), connecting at Tunes to long-distance trains for Lisbon. Small dogs in carriers travel free; larger leashed dogs need a muzzle and a half-fare ticket, off-peak only.",
           "descriptionFr": "La ligne régionale CP va de Lagos à Faro en environ 1h45 (environ 7,30 € l'aller), avec correspondance à Tunes pour Lisbonne. Les petits chiens en cage voyagent gratuitement ; les plus grands en laisse ont besoin d'une muselière et d'un billet demi-tarif, en heures creuses uniquement.",
@@ -295,7 +367,7 @@
           "name": "Onda Lagos municipal bus",
           "address": "Estação Rodoviária, Rossio de São João, 8600 Lagos",
           "neighborhood": "Lagos centre",
-          "photo": "/images/city-places/lagos-transport-onda-bus.jpg",
+          "photo": "/images/city-places/lagos-transport-onda-lagos-municipal-bus.jpg",
           "website": "https://www.aonda.pt/",
           "description": "The Onda municipal bus runs four colour-coded lines linking the old town, Meia Praia, Porto de Mós, Praia da Luz and the Ponta da Piedade lighthouse. Single fare around EUR 1.40; small dogs in carriers ride free, large leashed dogs accepted at the driver's discretion.",
           "descriptionFr": "Le bus municipal Onda exploite quatre lignes par couleur reliant la vieille ville, Meia Praia, Porto de Mós, Praia da Luz et le phare de Ponta da Piedade. Tarif unique environ 1,40 € ; petits chiens en cage gratuits, grands chiens en laisse acceptés à la discrétion du chauffeur.",
@@ -304,14 +376,14 @@
           "petPolicy": "Small dogs in carrier free; large dogs at driver discretion when bus not full",
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens à la discrétion du chauffeur quand le bus n'est pas plein",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes a discreción del conductor cuando el bus no está lleno",
-          "petPolicyPt": "Cães pequenos em transportadora grátis; grandes à discrição do motorista quando o autocarro não está cheio",
+          "petPolicyPt": "Cães pequenos em transportadora grátis; grandes à discrição do motorista quando o autocarro não vai cheio",
           "googleMapsUrl": "https://maps.google.com/?q=Onda+Lagos+bus+station"
         },
         {
           "name": "Ferry Lagos to Meia Praia",
           "address": "Cais da Solaria, Avenida dos Descobrimentos, 8600 Lagos",
           "neighborhood": "Marina de Lagos",
-          "photo": "/images/city-places/lagos-transport-ferry-meia-praia.jpg",
+          "photo": "/images/city-places/lagos-transport-ferry-lagos-to-meia-praia.jpg",
           "website": "https://www.cm-lagos.pt/",
           "description": "A small passenger ferry crosses the Bensafrim river estuary from the marina-side Cais da Solaria to the Meia Praia dune end every 30 minutes during the May-October season. The 5-minute crossing avoids the 3 km walk around the marina and welcomes leashed dogs without charge.",
           "descriptionFr": "Un petit bac passagers traverse l'estuaire de la Bensafrim depuis le Cais da Solaria côté marina jusqu'à l'extrémité de la dune de Meia Praia toutes les 30 minutes pendant la saison mai-octobre. La traversée de 5 minutes évite les 3 km de contournement de la marina et accueille les chiens en laisse sans supplément.",
@@ -325,24 +397,60 @@
         }
       ],
       "faqsEn": [
-        {"q": "Do I need a muzzle for my dog on the train to Faro?", "a": "Yes, larger dogs not in a carrier must wear a muzzle on CP regional trains. Small dogs in closed carriers are exempt and ride free."},
-        {"q": "Can I take my dog on the Onda bus to Meia Praia?", "a": "Yes, small dogs in carriers ride free; large dogs are accepted at the driver's discretion when the bus is not full. The Meia Praia ferry from the marina is the easier option in summer."},
-        {"q": "Is Faro airport FAO pet-friendly?", "a": "Yes, FAO accepts leashed dogs in the public terminal areas and TAP Portugal accepts cabin pets under 8 kg with advance booking."}
+        {
+          "q": "Do I need a muzzle for my dog on the train to Faro?",
+          "a": "Yes, larger dogs not in a carrier must wear a muzzle on CP regional trains. Small dogs in closed carriers are exempt and ride free."
+        },
+        {
+          "q": "Can I take my dog on the Onda bus to Meia Praia?",
+          "a": "Yes, small dogs in carriers ride free; large dogs are accepted at the driver's discretion when the bus is not full. The Meia Praia ferry from the marina is the easier option in summer."
+        },
+        {
+          "q": "Is Faro airport FAO pet-friendly?",
+          "a": "Yes, FAO accepts leashed dogs in the public terminal areas and TAP Portugal accepts cabin pets under 8 kg with advance booking."
+        }
       ],
       "faqsFr": [
-        {"q": "Ai-je besoin d'une muselière dans le train pour Faro ?", "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans les trains régionaux CP. Les petits chiens en cage fermée en sont exemptés et voyagent gratuitement."},
-        {"q": "Puis-je prendre le bus Onda pour Meia Praia avec mon chien ?", "a": "Oui, les petits chiens en cage voyagent gratuitement ; les grands sont acceptés à la discrétion du chauffeur quand le bus n'est pas plein. Le bac Meia Praia depuis la marina est l'option la plus simple en été."},
-        {"q": "L'aéroport de Faro FAO est-il pet-friendly ?", "a": "Oui, FAO accepte les chiens en laisse dans les zones publiques du terminal et TAP Portugal accepte les animaux en cabine sous 8 kg sur réservation préalable."}
+        {
+          "q": "Ai-je besoin d'une muselière dans le train pour Faro ?",
+          "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans les trains régionaux CP. Les petits chiens en cage fermée en sont exemptés et voyagent gratuitement."
+        },
+        {
+          "q": "Puis-je prendre le bus Onda pour Meia Praia avec mon chien ?",
+          "a": "Oui, les petits chiens en cage voyagent gratuitement ; les grands sont acceptés à la discrétion du chauffeur quand le bus n'est pas plein. Le bac Meia Praia depuis la marina est l'option la plus simple en été."
+        },
+        {
+          "q": "L'aéroport de Faro FAO est-il pet-friendly ?",
+          "a": "Oui, FAO accepte les chiens en laisse dans les zones publiques du terminal et TAP Portugal accepte les animaux en cabine sous 8 kg sur réservation préalable."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Necesito bozal para mi perro en el tren a Faro?", "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en los trenes regionales CP. Los perros pequeños en transportín cerrado están exentos y viajan gratis."},
-        {"q": "¿Puedo coger el autobús Onda hasta Meia Praia con mi perro?", "a": "Sí, los perros pequeños en transportín viajan gratis; los grandes se admiten a discreción del conductor cuando el bus no está lleno. El ferry de Meia Praia desde el puerto deportivo es la opción más fácil en verano."},
-        {"q": "¿El aeropuerto de Faro FAO es pet-friendly?", "a": "Sí, FAO admite perros con correa en las zonas públicas del terminal y TAP Portugal acepta mascotas en cabina hasta 8 kg con reserva previa."}
+        {
+          "q": "¿Necesito bozal para mi perro en el tren a Faro?",
+          "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en los trenes regionales CP. Los perros pequeños en transportín cerrado están exentos y viajan gratis."
+        },
+        {
+          "q": "¿Puedo coger el autobús Onda hasta Meia Praia con mi perro?",
+          "a": "Sí, los perros pequeños en transportín viajan gratis; los grandes se admiten a discreción del conductor cuando el bus no está lleno. El ferry de Meia Praia desde el puerto deportivo es la opción más fácil en verano."
+        },
+        {
+          "q": "¿El aeropuerto de Faro FAO es pet-friendly?",
+          "a": "Sí, FAO admite perros con correa en las zonas públicas del terminal y TAP Portugal acepta mascotas en cabina hasta 8 kg con reserva previa."
+        }
       ],
       "faqsPt": [
-        {"q": "Preciso de açaime para o meu cão no comboio para Faro?", "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime nos comboios regionais CP. Os cães pequenos em transportadora fechada estão isentos e viajam grátis."},
-        {"q": "Posso apanhar o autocarro Onda até à Meia Praia com o meu cão?", "a": "Sim, os cães pequenos em transportadora viajam grátis; os grandes são aceites à discrição do motorista quando o autocarro não está cheio. O ferry da Meia Praia a partir da marina é a opção mais fácil no verão."},
-        {"q": "O aeroporto de Faro FAO é pet-friendly?", "a": "Sim, o FAO aceita cães com trela nas zonas públicas do terminal e a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia."}
+        {
+          "q": "Preciso de açaime para o meu cão no comboio para Faro?",
+          "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime nos comboios regionais CP. Os cães pequenos em transportadora fechada estão isentos e viajam grátis."
+        },
+        {
+          "q": "Posso apanhar o autocarro Onda até à Meia Praia com o meu cão?",
+          "a": "Sim, os cães pequenos em transportadora viajam grátis; os grandes são aceites à discrição do motorista quando o autocarro não vai cheio. O ferry da Meia Praia a partir da marina é a opção mais fácil no verão."
+        },
+        {
+          "q": "O aeroporto de Faro FAO é pet-friendly?",
+          "a": "Sim, o FAO aceita cães com trela nas zonas públicas do terminal e a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia."
+        }
       ]
     },
     "beaches": {
@@ -373,7 +481,7 @@
           "rules": "Off-leash in marked dog zone year-round; on-leash elsewhere",
           "facilities": "Beach bar, restaurant, paid parking on the cliff above",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+Porto+de+Mos+Lagos",
-          "photo": "/images/city-places/lagos-beaches-porto-de-mos.jpg"
+          "photo": "/images/city-places/lagos-beaches-praia-de-porto-de-mos.jpg"
         },
         {
           "name": "Praia do Camilo (cliff viewpoint)",
@@ -383,28 +491,64 @@
           "rules": "Leashed dogs on clifftop boardwalk year-round; on sand October-May only",
           "facilities": "Cliff-top café, free parking, picnic tables",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+do+Camilo+Lagos",
-          "photo": "/images/city-places/lagos-beaches-praia-do-camilo.jpg"
+          "photo": "/images/city-places/lagos-beaches-praia-do-camilo-cliff-viewpoint.jpg"
         }
       ],
       "faqsEn": [
-        {"q": "Can my dog swim at Lagos beaches in summer?", "a": "Officially restricted at most municipal beaches between June 15 and September 15. The exception is the marked dog zone at Praia de Porto de Mós, open year-round."},
-        {"q": "Which Lagos beach is the most dog-tolerant year-round?", "a": "Praia de Porto de Mós has a permanent fenced off-leash dog zone, open even in summer. Meia Praia is best in shoulder season (October-May) when the 4 km of sand is virtually empty."},
-        {"q": "Are the Atlantic currents safe for my dog?", "a": "Meia Praia is gently sloping and protected by the Lagos breakwater, generally safe for confident swimmers. The western cliff beaches (Camilo, Dona Ana, Pinhão) have stronger currents; keep your dog on a long line."}
+        {
+          "q": "Can my dog swim at Lagos beaches in summer?",
+          "a": "Officially restricted at most municipal beaches between June 15 and September 15. The exception is the marked dog zone at Praia de Porto de Mós, open year-round."
+        },
+        {
+          "q": "Which Lagos beach is the most dog-tolerant year-round?",
+          "a": "Praia de Porto de Mós has a permanent fenced off-leash dog zone, open even in summer. Meia Praia is best in shoulder season (October-May) when the 4 km of sand is virtually empty."
+        },
+        {
+          "q": "Are the Atlantic currents safe for my dog?",
+          "a": "Meia Praia is gently sloping and protected by the Lagos breakwater, generally safe for confident swimmers. The western cliff beaches (Camilo, Dona Ana, Pinhão) have stronger currents; keep your dog on a long line."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il nager sur les plages de Lagos en été ?", "a": "Officiellement restreint sur la plupart des plages municipales entre le 15 juin et le 15 septembre. L'exception est la zone canine balisée de Praia de Porto de Mós, ouverte toute l'année."},
-        {"q": "Quelle plage de Lagos est la plus dog-tolerant toute l'année ?", "a": "Praia de Porto de Mós dispose d'une zone canine sans laisse permanente, ouverte même en été. Meia Praia est idéale en demi-saison (octobre-mai) quand les 4 km de sable sont quasiment vides."},
-        {"q": "Les courants atlantiques sont-ils sûrs pour mon chien ?", "a": "Meia Praia descend en pente douce et est protégée par le brise-lames de Lagos, généralement sûre pour les nageurs confirmés. Les plages de falaise ouest (Camilo, Dona Ana, Pinhão) ont des courants plus forts ; gardez votre chien en longe."}
+        {
+          "q": "Mon chien peut-il nager sur les plages de Lagos en été ?",
+          "a": "Officiellement restreint sur la plupart des plages municipales entre le 15 juin et le 15 septembre. L'exception est la zone canine balisée de Praia de Porto de Mós, ouverte toute l'année."
+        },
+        {
+          "q": "Quelle plage de Lagos est la plus dog-tolerant toute l'année ?",
+          "a": "Praia de Porto de Mós dispose d'une zone canine sans laisse permanente, ouverte même en été. Meia Praia est idéale en demi-saison (octobre-mai) quand les 4 km de sable sont quasiment vides."
+        },
+        {
+          "q": "Les courants atlantiques sont-ils sûrs pour mon chien ?",
+          "a": "Meia Praia descend en pente douce et est protégée par le brise-lames de Lagos, généralement sûre pour les nageurs confirmés. Les plages de falaise ouest (Camilo, Dona Ana, Pinhão) ont des courants plus forts ; gardez votre chien en longe."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Mi perro puede nadar en las playas de Lagos en verano?", "a": "Oficialmente restringido en la mayoría de las playas municipales entre el 15 de junio y el 15 de septiembre. La excepción es la zona canina señalizada de Praia de Porto de Mós, abierta todo el año."},
-        {"q": "¿Qué playa de Lagos es la más dog-tolerant todo el año?", "a": "Praia de Porto de Mós tiene una zona canina sin correa permanente, abierta incluso en verano. Meia Praia es ideal en temporada baja (octubre-mayo) cuando los 4 km de arena están prácticamente vacíos."},
-        {"q": "¿Las corrientes atlánticas son seguras para mi perro?", "a": "Meia Praia baja en pendiente suave y está protegida por el rompeolas de Lagos, generalmente segura para nadadores confirmados. Las playas de acantilado oeste (Camilo, Dona Ana, Pinhão) tienen corrientes más fuertes; mantén a tu perro con correa larga."}
+        {
+          "q": "¿Mi perro puede nadar en las playas de Lagos en verano?",
+          "a": "Oficialmente restringido en la mayoría de las playas municipales entre el 15 de junio y el 15 de septiembre. La excepción es la zona canina señalizada de Praia de Porto de Mós, abierta todo el año."
+        },
+        {
+          "q": "¿Qué playa de Lagos es la más dog-tolerant todo el año?",
+          "a": "Praia de Porto de Mós tiene una zona canina sin correa permanente, abierta incluso en verano. Meia Praia es ideal en temporada baja (octubre-mayo) cuando los 4 km de arena están prácticamente vacíos."
+        },
+        {
+          "q": "¿Las corrientes atlánticas son seguras para mi perro?",
+          "a": "Meia Praia baja en pendiente suave y está protegida por el rompeolas de Lagos, generalmente segura para nadadores confirmados. Las playas de acantilado oeste (Camilo, Dona Ana, Pinhão) tienen corrientes más fuertes; mantén a tu perro con correa larga."
+        }
       ],
       "faqsPt": [
-        {"q": "O meu cão pode nadar nas praias de Lagos no verão?", "a": "Oficialmente restrito na maioria das praias municipais entre 15 de junho e 15 de setembro. A excepção é a zona canina sinalizada da Praia de Porto de Mós, aberta o ano inteiro."},
-        {"q": "Qual a praia de Lagos mais dog-tolerant o ano inteiro?", "a": "A Praia de Porto de Mós tem uma zona canina sem trela permanente, aberta mesmo no verão. A Meia Praia é ideal na meia-estação (outubro-maio) quando os 4 km de areia estão praticamente vazios."},
-        {"q": "As correntes atlânticas são seguras para o meu cão?", "a": "A Meia Praia desce em declive suave e está protegida pelo molhe de Lagos, geralmente segura para nadadores confirmados. As praias de falésia a oeste (Camilo, Dona Ana, Pinhão) têm correntes mais fortes; mantenha o seu cão com trela longa."}
+        {
+          "q": "O meu cão pode nadar nas praias de Lagos no verão?",
+          "a": "Oficialmente restrito na maioria das praias municipais entre 15 de junho e 15 de setembro. A excepção é a zona canina sinalizada da Praia de Porto de Mós, aberta o ano inteiro."
+        },
+        {
+          "q": "Qual a praia de Lagos mais dog-tolerant o ano inteiro?",
+          "a": "A Praia de Porto de Mós tem uma zona canina sem trela permanente, aberta mesmo no verão. A Meia Praia é ideal na meia-estação (outubro-maio) quando os 4 km de areia estão praticamente vazios."
+        },
+        {
+          "q": "As correntes atlânticas são seguras para o meu cão?",
+          "a": "A Meia Praia desce em declive suave e fica protegida pelo molhe de Lagos, geralmente segura para nadadores confirmados. As praias de falésia a oeste (Camilo, Dona Ana, Pinhão) têm correntes mais fortes; mantenha o seu cão com trela longa."
+        }
       ]
     },
     "vets": {
@@ -415,7 +559,7 @@
       "introEn": "Lagos has several daytime general veterinary practices in the centre and the outskirts of Chinicato, and the 24/7 referral hospital HVME (Hospital Veterinário Mãe d'Água) in Estômbar (25 km east) covers overnight emergencies for the central Algarve. For specialty cases, the Hospital Veterinário do Algarve in Faro is 80 km east.",
       "introFr": "Lagos dispose de plusieurs cabinets vétérinaires généralistes de jour au centre et en périphérie de Chinicato, et l'hôpital de référence 24h/24 HVME (Hospital Veterinário Mãe d'Água) à Estômbar (25 km à l'est) couvre les urgences nocturnes du centre de l'Algarve. Pour les spécialités, l'Hospital Veterinário do Algarve à Faro est à 80 km à l'est.",
       "introEs": "Lagos cuenta con varias consultas veterinarias generalistas diurnas en el centro y la periferia de Chinicato, y el hospital de referencia 24/7 HVME (Hospital Veterinário Mãe d'Água) en Estômbar (25 km al este) cubre las urgencias nocturnas del centro del Algarve. Para especialidades, el Hospital Veterinário do Algarve en Faro está a 80 km al este.",
-      "introPt": "Lagos dispõe de várias clínicas veterinárias generalistas diurnas no centro e na periferia de Chinicato, e o hospital de referência 24/7 HVME (Hospital Veterinário Mãe d'Água) em Estômbar (25 km a leste) cobre as urgências nocturnas do centro do Algarve. Para especialidades, o Hospital Veterinário do Algarve em Faro está a 80 km a leste.",
+      "introPt": "Lagos dispõe de várias clínicas veterinárias generalistas diurnas no centro e na periferia de Chinicato, e o hospital de referência 24/7 HVME (Hospital Veterinário Mãe d'Água) em Estômbar (25 km a leste) cobre as urgências noturnas do centro do Algarve. Para especialidades, o Hospital Veterinário do Algarve em Faro fica a 80 km a leste.",
       "entryRequirements": null,
       "places": [
         {
@@ -430,7 +574,7 @@
           "hoursPt": "Linha de urgência 24/7; clínica seg-sáb 9:00-20:00",
           "englishSpeaking": true,
           "website": "https://www.hvme.pt/",
-          "photo": "/images/city-places/lagos-vets-hvme.jpg",
+          "photo": "/images/city-places/lagos-vets-hospital-veterinario-mae-d-agua-hvme.jpg",
           "description": "The principal 24/7 veterinary hospital for the central Algarve, with imaging, surgery, internal medicine and after-hours emergency cover. Located on the EN125 in Estômbar, 25 minutes by car east of Lagos via the A22 motorway.",
           "descriptionFr": "Le principal hôpital vétérinaire 24h/24 du centre de l'Algarve, avec imagerie, chirurgie, médecine interne et couverture d'urgence hors heures. Situé sur la EN125 à Estômbar, à 25 minutes en voiture à l'est de Lagos via l'autoroute A22.",
           "descriptionEs": "El principal hospital veterinario 24/7 del centro del Algarve, con imagen, cirugía, medicina interna y cobertura de urgencias fuera de horario. Situado en la EN125 en Estômbar, a 25 minutos en coche al este de Lagos vía la autopista A22.",
@@ -443,7 +587,10 @@
           "servicesFr": "Urgences, chirurgie, imagerie, médecine interne, dentisterie",
           "servicesEs": "Urgencias, cirugía, imagen, medicina interna, odontología",
           "servicesPt": "Urgências, cirurgia, imagem, medicina interna, dentária",
-          "languages": ["Portuguese", "English"],
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
           "openingHours": "24/7 emergency",
           "tip": "Save the emergency number before leaving Lagos; mobile coverage drops on the A22 motorway and you may need to phone ahead before reaching Estômbar.",
           "tipFr": "Enregistrez le numéro d'urgence avant de quitter Lagos ; la couverture mobile chute sur l'autoroute A22 et il faudra peut-être appeler avant d'arriver à Estômbar.",
@@ -463,7 +610,7 @@
           "hoursPt": "Seg-sex 9:00-13:00 e 15:00-19:00; sáb 9:00-13:00; fechado dom",
           "englishSpeaking": true,
           "website": "https://www.facebook.com/clinicaveterinariadelagos",
-          "photo": "/images/city-places/lagos-vets-clinica-veterinaria-lagos.jpg",
+          "photo": "/images/city-places/lagos-vets-clinica-veterinaria-de-lagos.jpg",
           "description": "A central general practice on the marina-side Avenida dos Descobrimentos, 5 minutes from the old town, ideal for vaccination top-ups, EU passport stamps and minor non-emergency consultations. Refers to HVME for after-hours and complex cases.",
           "descriptionFr": "Cabinet généraliste central sur l'Avenida dos Descobrimentos côté marina, à 5 minutes de la vieille ville, idéal pour rappels de vaccin, tampons sur passeport européen et consultations mineures non urgentes. Renvoie sur HVME pour hors heures et cas complexes.",
           "descriptionEs": "Consulta generalista céntrica en la Avenida dos Descobrimentos junto al puerto deportivo, a 5 minutos del casco antiguo, ideal para refuerzos de vacuna, sellos de pasaporte europeo y consultas menores no urgentes. Deriva al HVME para fuera de horario y casos complejos.",
@@ -476,7 +623,10 @@
           "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie",
           "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor",
           "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia",
-          "languages": ["Portuguese", "English"],
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
           "openingHours": "Mon-Fri 9:00-13:00 / 15:00-19:00; Sat 9:00-13:00",
           "tip": "Book the first morning slot for same-day EU passport sign-off; afternoons fill with local consultations.",
           "tipFr": "Réservez le premier créneau du matin pour une validation passeport européen le jour même ; les après-midis se remplissent de consultations locales.",
@@ -496,7 +646,7 @@
           "hoursPt": "Urgências e especialidades 24/7",
           "englishSpeaking": true,
           "website": "https://www.hvalgarve.pt/",
-          "photo": "/images/city-places/lagos-vets-hvalgarve.jpg",
+          "photo": "/images/city-places/lagos-vets-hospital-veterinario-do-algarve.jpg",
           "description": "The specialty 24/7 referral hospital for the entire Algarve, near Faro airport. Covers cardiology, oncology, neurology and complex surgery that the HVME may refer onwards for advanced workups; 50 minutes from Lagos via A22.",
           "descriptionFr": "Hôpital de référence spécialisé 24h/24 pour tout l'Algarve, près de l'aéroport de Faro. Couvre cardiologie, oncologie, neurologie et chirurgie complexe que l'HVME peut adresser pour bilan avancé ; à 50 minutes de Lagos via A22.",
           "descriptionEs": "Hospital de referencia especializado 24/7 para todo el Algarve, cerca del aeropuerto de Faro. Cubre cardiología, oncología, neurología y cirugía compleja que el HVME puede derivar para estudios avanzados; a 50 minutos de Lagos vía A22.",
@@ -509,7 +659,10 @@
           "servicesFr": "Cardiologie, oncologie, neurologie, chirurgie complexe, soins intensifs 24h",
           "servicesEs": "Cardiología, oncología, neurología, cirugía compleja, UCI 24h",
           "servicesPt": "Cardiologia, oncologia, neurologia, cirurgia complexa, UCI 24h",
-          "languages": ["Portuguese", "English"],
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
           "openingHours": "24/7",
           "tip": "Drive yourself rather than call a taxi if your dog is bleeding or seizing; the A22 transfer is quicker than waiting for a pet-taxi at night.",
           "tipFr": "Conduisez-vous plutôt que d'appeler un taxi si votre chien saigne ou convulse ; le transfert A22 est plus rapide que d'attendre un pet-taxi la nuit.",
@@ -519,24 +672,60 @@
         }
       ],
       "faqsEn": [
-        {"q": "Where is the closest 24h vet to Lagos?", "a": "The HVME in Estômbar (+351 282 419 080) runs the 24/7 emergency line for the central Algarve, 25 minutes by car east of Lagos via the A22."},
-        {"q": "Do Lagos vets speak English?", "a": "Yes at the HVME and at the central Clínica Veterinária; senior vets are universally fluent thanks to the large expat and tourist clientele."},
-        {"q": "Can I get an EU pet passport stamp before flying out of Faro?", "a": "Yes, both listed Lagos clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs."}
+        {
+          "q": "Where is the closest 24h vet to Lagos?",
+          "a": "The HVME in Estômbar (+351 282 419 080) runs the 24/7 emergency line for the central Algarve, 25 minutes by car east of Lagos via the A22."
+        },
+        {
+          "q": "Do Lagos vets speak English?",
+          "a": "Yes at the HVME and at the central Clínica Veterinária; senior vets are universally fluent thanks to the large expat and tourist clientele."
+        },
+        {
+          "q": "Can I get an EU pet passport stamp before flying out of Faro?",
+          "a": "Yes, both listed Lagos clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est le vétérinaire 24h le plus proche de Lagos ?", "a": "L'HVME à Estômbar (+351 282 419 080) exploite la ligne d'urgence 24h/24 du centre de l'Algarve, à 25 minutes en voiture à l'est de Lagos via l'A22."},
-        {"q": "Les vétérinaires de Lagos parlent-ils anglais ?", "a": "Oui à l'HVME et à la Clínica Veterinária centrale ; les vétérinaires seniors le parlent couramment grâce à la large clientèle expatriée et touristique."},
-        {"q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Faro ?", "a": "Oui, les deux cliniques de Lagos listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles pour chiens en bonne santé."}
+        {
+          "q": "Où est le vétérinaire 24h le plus proche de Lagos ?",
+          "a": "L'HVME à Estômbar (+351 282 419 080) exploite la ligne d'urgence 24h/24 du centre de l'Algarve, à 25 minutes en voiture à l'est de Lagos via l'A22."
+        },
+        {
+          "q": "Les vétérinaires de Lagos parlent-ils anglais ?",
+          "a": "Oui à l'HVME et à la Clínica Veterinária centrale ; les vétérinaires seniors le parlent couramment grâce à la large clientèle expatriée et touristique."
+        },
+        {
+          "q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Faro ?",
+          "a": "Oui, les deux cliniques de Lagos listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles pour chiens en bonne santé."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el veterinario 24h más cercano de Lagos?", "a": "El HVME en Estômbar (+351 282 419 080) gestiona la línea de urgencias 24/7 del centro del Algarve, a 25 minutos en coche al este de Lagos vía la A22."},
-        {"q": "¿Los veterinarios de Lagos hablan inglés?", "a": "Sí en el HVME y en la Clínica Veterinária central; los veterinarios senior son fluidos gracias a la amplia clientela expatriada y turística."},
-        {"q": "¿Puedo sellar un pasaporte UE antes de volar desde Faro?", "a": "Sí, las dos clínicas de Lagos listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles para perros sanos."}
+        {
+          "q": "¿Dónde está el veterinario 24h más cercano de Lagos?",
+          "a": "El HVME en Estômbar (+351 282 419 080) gestiona la línea de urgencias 24/7 del centro del Algarve, a 25 minutos en coche al este de Lagos vía la A22."
+        },
+        {
+          "q": "¿Los veterinarios de Lagos hablan inglés?",
+          "a": "Sí en el HVME y en la Clínica Veterinária central; los veterinarios senior son fluidos gracias a la amplia clientela expatriada y turística."
+        },
+        {
+          "q": "¿Puedo sellar un pasaporte UE antes de volar desde Faro?",
+          "a": "Sí, las dos clínicas de Lagos listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles para perros sanos."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o veterinário 24h mais próximo de Lagos?", "a": "O HVME em Estômbar (+351 282 419 080) gere a linha de urgência 24/7 do centro do Algarve, a 25 minutos de carro a leste de Lagos pela A22."},
-        {"q": "Os veterinários de Lagos falam inglês?", "a": "Sim no HVME e na Clínica Veterinária central; os veterinários seniores são fluentes graças à ampla clientela expatriada e turística."},
-        {"q": "Posso carimbar um passaporte UE antes de voar de Faro?", "a": "Sim, as duas clínicas de Lagos listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."}
+        {
+          "q": "Onde fica o veterinário 24h mais próximo de Lagos?",
+          "a": "O HVME em Estômbar (+351 282 419 080) gere a linha de urgência 24/7 do centro do Algarve, a 25 minutos de carro a leste de Lagos pela A22."
+        },
+        {
+          "q": "Os veterinários de Lagos falam inglês?",
+          "a": "Sim no HVME e na Clínica Veterinária central; os veterinários seniores são fluentes graças à ampla clientela expatriada e turística."
+        },
+        {
+          "q": "Posso carimbar um passaporte UE antes de voar de Faro?",
+          "a": "Sim, as duas clínicas de Lagos listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."
+        }
       ]
     },
     "tips": {
@@ -574,28 +763,64 @@
         "Portugal exige passaporte europeu, microchip ISO e vacinação antirrábica válida; suficiente de qualquer país UE, sem tratamento antiparasitário exigido.",
         "A lei portuguesa restringe as raças consideradas potencialmente perigosas (Pit Bull, Rottweiler, tipos Staffordshire) que exigem seguro de responsabilidade civil e açaime em público; verifique antes de viajar.",
         "A calçada (calcário) da cidade velha é escorregadia quando molhada e muito quente em pleno verão; considere protecção para as almofadas nas caminhadas de meio-dia em julho-agosto.",
-        "O aeroporto de Faro FAO está a 80 km a leste pela auto-estrada A22 (1h de carro); a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia.",
+        "O aeroporto de Faro FAO fica a 80 km a leste pela auto-estrada A22 (1h de carro); a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia.",
         "A época alta (julho-agosto) traz clientela turística britânica e irlandesa; reserve alojamento e jantar a partir das 19:30 com muita antecedência."
       ],
       "faqsEn": [
-        {"q": "Is Lagos a good base for a pet-friendly Algarve holiday?", "a": "Yes, the combination of mild ocean climate, walkable old walled town, dog-tolerant Ponta da Piedade boardwalk and the year-round Praia de Porto de Mós dog zone makes it the strongest pet base in the western Algarve."},
-        {"q": "Do I need a muzzle in public in Lagos?", "a": "Only for breeds on the Portuguese restricted-breeds list; standard breeds need only a leash. The Onda bus and CP train accept muzzled large dogs and free small dogs in carriers."},
-        {"q": "What is the best month for Lagos with a dog?", "a": "April-May and September-October: mild temperatures, lower humidity, lighter crowds and unrestricted access to all beaches outside the bathing season."}
+        {
+          "q": "Is Lagos a good base for a pet-friendly Algarve holiday?",
+          "a": "Yes, the combination of mild ocean climate, walkable old walled town, dog-tolerant Ponta da Piedade boardwalk and the year-round Praia de Porto de Mós dog zone makes it the strongest pet base in the western Algarve."
+        },
+        {
+          "q": "Do I need a muzzle in public in Lagos?",
+          "a": "Only for breeds on the Portuguese restricted-breeds list; standard breeds need only a leash. The Onda bus and CP train accept muzzled large dogs and free small dogs in carriers."
+        },
+        {
+          "q": "What is the best month for Lagos with a dog?",
+          "a": "April-May and September-October: mild temperatures, lower humidity, lighter crowds and unrestricted access to all beaches outside the bathing season."
+        }
       ],
       "faqsFr": [
-        {"q": "Lagos est-elle une bonne base pour des vacances pet-friendly en Algarve ?", "a": "Oui, la combinaison de climat océanique doux, vieille ville fortifiée à pied, pontón dog-tolerant de Ponta da Piedade et zone canine permanente de Praia de Porto de Mós en font la meilleure base canine de l'ouest de l'Algarve."},
-        {"q": "Ai-je besoin d'une muselière en public à Lagos ?", "a": "Seulement pour les races figurant sur la liste portugaise des races restreintes ; les races standard n'ont besoin que d'une laisse. Le bus Onda et le train CP acceptent les grands chiens muselés et gratuitement les petits en cage."},
-        {"q": "Quel est le meilleur mois à Lagos avec un chien ?", "a": "Avril-mai et septembre-octobre : températures douces, humidité plus basse, moins de monde et accès libre à toutes les plages hors saison de baignade."}
+        {
+          "q": "Lagos est-elle une bonne base pour des vacances pet-friendly en Algarve ?",
+          "a": "Oui, la combinaison de climat océanique doux, vieille ville fortifiée à pied, pontón dog-tolerant de Ponta da Piedade et zone canine permanente de Praia de Porto de Mós en font la meilleure base canine de l'ouest de l'Algarve."
+        },
+        {
+          "q": "Ai-je besoin d'une muselière en public à Lagos ?",
+          "a": "Seulement pour les races figurant sur la liste portugaise des races restreintes ; les races standard n'ont besoin que d'une laisse. Le bus Onda et le train CP acceptent les grands chiens muselés et gratuitement les petits en cage."
+        },
+        {
+          "q": "Quel est le meilleur mois à Lagos avec un chien ?",
+          "a": "Avril-mai et septembre-octobre : températures douces, humidité plus basse, moins de monde et accès libre à toutes les plages hors saison de baignade."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Lagos una buena base para unas vacaciones pet-friendly en el Algarve?", "a": "Sí, la combinación de clima oceánico suave, casco antiguo amurallado a pie, pasarela dog-tolerant de Ponta da Piedade y zona canina permanente de Praia de Porto de Mós la convierten en la mejor base canina del oeste del Algarve."},
-        {"q": "¿Necesito bozal en público en Lagos?", "a": "Solo para razas en la lista portuguesa de razas restringidas; las razas estándar solo necesitan correa. El autobús Onda y el tren CP admiten perros grandes con bozal y gratis a los pequeños en transportín."},
-        {"q": "¿Cuál es el mejor mes para Lagos con perro?", "a": "Abril-mayo y septiembre-octubre: temperaturas suaves, menor humedad, menos gente y acceso libre a todas las playas fuera de la temporada de baño."}
+        {
+          "q": "¿Es Lagos una buena base para unas vacaciones pet-friendly en el Algarve?",
+          "a": "Sí, la combinación de clima oceánico suave, casco antiguo amurallado a pie, pasarela dog-tolerant de Ponta da Piedade y zona canina permanente de Praia de Porto de Mós la convierten en la mejor base canina del oeste del Algarve."
+        },
+        {
+          "q": "¿Necesito bozal en público en Lagos?",
+          "a": "Solo para razas en la lista portuguesa de razas restringidas; las razas estándar solo necesitan correa. El autobús Onda y el tren CP admiten perros grandes con bozal y gratis a los pequeños en transportín."
+        },
+        {
+          "q": "¿Cuál es el mejor mes para Lagos con perro?",
+          "a": "Abril-mayo y septiembre-octubre: temperaturas suaves, menor humedad, menos gente y acceso libre a todas las playas fuera de la temporada de baño."
+        }
       ],
       "faqsPt": [
-        {"q": "Lagos é uma boa base para férias pet-friendly no Algarve?", "a": "Sim, a combinação de clima oceânico suave, cidade velha amuralhada a pé, passadiço dog-tolerant da Ponta da Piedade e zona canina permanente da Praia de Porto de Mós faz dela a melhor base canina do oeste do Algarve."},
-        {"q": "Preciso de açaime em público em Lagos?", "a": "Só para raças na lista portuguesa de raças restritas; as raças standard só precisam de trela. O autocarro Onda e o comboio CP aceitam cães grandes com açaime e grátis os pequenos em transportadora."},
-        {"q": "Qual é o melhor mês para Lagos com cão?", "a": "Abril-maio e setembro-outubro: temperaturas suaves, menor humidade, menos gente e acesso livre a todas as praias fora da época balnear."}
+        {
+          "q": "Lagos é uma boa base para férias pet-friendly no Algarve?",
+          "a": "Sim, a combinação de clima oceânico suave, cidade velha amuralhada a pé, passadiço dog-tolerant da Ponta da Piedade e zona canina permanente da Praia de Porto de Mós faz dela a melhor base canina do oeste do Algarve."
+        },
+        {
+          "q": "Preciso de açaime em público em Lagos?",
+          "a": "Só para raças na lista portuguesa de raças restritas; as raças standard só precisam de trela. O autocarro Onda e o comboio CP aceitam cães grandes com açaime e grátis os pequenos em transportadora."
+        },
+        {
+          "q": "Qual é o melhor mês para Lagos com cão?",
+          "a": "Abril-maio e setembro-outubro: temperaturas suaves, menor humidade, menos gente e acesso livre a todas as praias fora da época balnear."
+        }
       ]
     },
     "attractions": {
@@ -634,7 +859,7 @@
         {
           "name": "Old Town walls & Forte da Ponta da Bandeira",
           "neighborhood": "Centro histórico",
-          "photo": "/images/city-places/lagos-attractions-old-town-walls.jpg",
+          "photo": "/images/city-places/lagos-attractions-old-town-walls-forte-da-ponta-da-bandeira.jpg",
           "website": "https://www.cm-lagos.pt/",
           "description": "The 16th-century walled circuit ringing the old town and the seaward Forte da Ponta da Bandeira built in 1690 to defend the harbour. The walls and the fort exterior are dog-friendly year-round; the fort interior houses a small museum that allows only assistance dogs.",
           "descriptionFr": "L'enceinte fortifiée du XVIᵉ siècle encerclant la vieille ville et le Forte da Ponta da Bandeira côté mer construit en 1690 pour défendre le port. Les remparts et l'extérieur du fort sont dog-friendly toute l'année ; l'intérieur du fort abrite un petit musée qui n'admet que les chiens d'assistance.",
@@ -657,7 +882,7 @@
         {
           "name": "Praça do Infante and Mercado de Escravos site",
           "neighborhood": "Centro histórico",
-          "photo": "/images/city-places/lagos-attractions-mercado-escravos.jpg",
+          "photo": "/images/city-places/lagos-attractions-praca-do-infante-and-mercado-de-escravos-site.jpg",
           "website": "https://www.cm-lagos.pt/",
           "description": "The Praça do Infante square with its statue of Henry the Navigator faces the former Mercado de Escravos building, the first slave market in modern Europe (1444), now a small memorial museum. The square, statue and adjacent church facades are entirely dog-friendly outdoor public space year-round.",
           "descriptionFr": "La place du Praça do Infante avec sa statue d'Henri le Navigateur fait face à l'ancien bâtiment du Mercado de Escravos, premier marché aux esclaves de l'Europe moderne (1444), aujourd'hui un petit musée mémoriel. La place, la statue et les façades d'église adjacentes sont entièrement un espace public extérieur dog-friendly toute l'année.",
@@ -699,24 +924,60 @@
         "Combine o Forte da Ponta da Bandeira com o passeio da marina numa meia-jornada fácil, ambos planos e sombreados ao fim da tarde."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Lagos museums?", "a": "Only assistance dogs may enter the small interiors of the Forte da Ponta da Bandeira and the Mercado de Escravos memorial; leashed pets are welcome across all the squares, walls and outdoor heritage sites."},
-        {"q": "Can I take my dog on a Ponta da Piedade boat tour?", "a": "Most commercial sea-cave tours decline dogs for safety reasons in the cramped grottos; the clifftop boardwalk above offers a superior view from solid ground."},
-        {"q": "Is the Lagos old town walkable with a dog?", "a": "Yes, the entire walled circuit is pedestrianised and a leashed dog handles the full loop including the marina extension in about 45 minutes."}
+        {
+          "q": "Are dogs allowed in the Lagos museums?",
+          "a": "Only assistance dogs may enter the small interiors of the Forte da Ponta da Bandeira and the Mercado de Escravos memorial; leashed pets are welcome across all the squares, walls and outdoor heritage sites."
+        },
+        {
+          "q": "Can I take my dog on a Ponta da Piedade boat tour?",
+          "a": "Most commercial sea-cave tours decline dogs for safety reasons in the cramped grottos; the clifftop boardwalk above offers a superior view from solid ground."
+        },
+        {
+          "q": "Is the Lagos old town walkable with a dog?",
+          "a": "Yes, the entire walled circuit is pedestrianised and a leashed dog handles the full loop including the marina extension in about 45 minutes."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans les musées de Lagos ?", "a": "Seuls les chiens d'assistance peuvent entrer dans les petits intérieurs du Forte da Ponta da Bandeira et du mémorial du Mercado de Escravos ; les chiens en laisse sont bienvenus sur toutes les places, remparts et sites patrimoniaux en extérieur."},
-        {"q": "Puis-je prendre mon chien sur un tour en bateau de Ponta da Piedade ?", "a": "La plupart des tours commerciaux de grottes marines refusent les chiens pour des raisons de sécurité dans les grottes exiguës ; le pontón au sommet des falaises offre une vue supérieure depuis la terre ferme."},
-        {"q": "La vieille ville de Lagos est-elle accessible à pied avec un chien ?", "a": "Oui, toute l'enceinte fortifiée est piétonne et un chien en laisse fait la boucle complète incluant l'extension marina en environ 45 minutes."}
+        {
+          "q": "Les chiens sont-ils autorisés dans les musées de Lagos ?",
+          "a": "Seuls les chiens d'assistance peuvent entrer dans les petits intérieurs du Forte da Ponta da Bandeira et du mémorial du Mercado de Escravos ; les chiens en laisse sont bienvenus sur toutes les places, remparts et sites patrimoniaux en extérieur."
+        },
+        {
+          "q": "Puis-je prendre mon chien sur un tour en bateau de Ponta da Piedade ?",
+          "a": "La plupart des tours commerciaux de grottes marines refusent les chiens pour des raisons de sécurité dans les grottes exiguës ; le pontón au sommet des falaises offre une vue supérieure depuis la terre ferme."
+        },
+        {
+          "q": "La vieille ville de Lagos est-elle accessible à pied avec un chien ?",
+          "a": "Oui, toute l'enceinte fortifiée est piétonne et un chien en laisse fait la boucle complète incluant l'extension marina en environ 45 minutes."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en los museos de Lagos?", "a": "Solo los perros de asistencia pueden entrar en los pequeños interiores del Forte da Ponta da Bandeira y del memorial del Mercado de Escravos; los perros con correa son bienvenidos en todas las plazas, murallas y sitios patrimoniales al aire libre."},
-        {"q": "¿Puedo llevar al perro en una excursión en barco a Ponta da Piedade?", "a": "La mayoría de las excursiones comerciales a grutas marinas rechaza perros por seguridad en las grutas estrechas; la pasarela en lo alto de los acantilados ofrece una vista superior desde tierra firme."},
-        {"q": "¿El casco antiguo de Lagos es accesible a pie con un perro?", "a": "Sí, todo el recinto amurallado es peatonal y un perro con correa hace el circuito completo incluyendo la extensión del puerto deportivo en unos 45 minutos."}
+        {
+          "q": "¿Se admiten perros en los museos de Lagos?",
+          "a": "Solo los perros de asistencia pueden entrar en los pequeños interiores del Forte da Ponta da Bandeira y del memorial del Mercado de Escravos; los perros con correa son bienvenidos en todas las plazas, murallas y sitios patrimoniales al aire libre."
+        },
+        {
+          "q": "¿Puedo llevar al perro en una excursión en barco a Ponta da Piedade?",
+          "a": "La mayoría de las excursiones comerciales a grutas marinas rechaza perros por seguridad en las grutas estrechas; la pasarela en lo alto de los acantilados ofrece una vista superior desde tierra firme."
+        },
+        {
+          "q": "¿El casco antiguo de Lagos es accesible a pie con un perro?",
+          "a": "Sí, todo el recinto amurallado es peatonal y un perro con correa hace el circuito completo incluyendo la extensión del puerto deportivo en unos 45 minutos."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos nos museus de Lagos?", "a": "Só os cães de assistência podem entrar nos pequenos interiores do Forte da Ponta da Bandeira e do memorial do Mercado de Escravos; os cães com trela são bem-vindos em todas as praças, muralhas e sítios patrimoniais ao ar livre."},
-        {"q": "Posso levar o meu cão num passeio de barco à Ponta da Piedade?", "a": "A maioria dos passeios comerciais a grutas marinhas recusa cães por segurança nas grutas estreitas; o passadiço no topo das falésias oferece uma vista superior a partir de terra firme."},
-        {"q": "A cidade velha de Lagos é acessível a pé com um cão?", "a": "Sim, todo o recinto amuralhado é pedonal e um cão com trela faz o circuito completo incluindo a extensão da marina em cerca de 45 minutos."}
+        {
+          "q": "Os cães são admitidos nos museus de Lagos?",
+          "a": "Só os cães de assistência podem entrar nos pequenos interiores do Forte da Ponta da Bandeira e do memorial do Mercado de Escravos; os cães com trela são bem-vindos em todas as praças, muralhas e sítios patrimoniais ao ar livre."
+        },
+        {
+          "q": "Posso levar o meu cão num passeio de barco à Ponta da Piedade?",
+          "a": "A maioria dos passeios comerciais a grutas marinhas recusa cães por segurança nas grutas estreitas; o passadiço no topo das falésias oferece uma vista superior a partir de terra firme."
+        },
+        {
+          "q": "A cidade velha de Lagos é acessível a pé com um cão?",
+          "a": "Sim, todo o recinto amuralhado é pedonal e um cão com trela faz o circuito completo incluindo a extensão da marina em cerca de 45 minutos."
+        }
       ]
     },
     "petsitting": {
@@ -789,24 +1050,60 @@
         "Reserve com 3-4 semanas de antecedência para qualquer estadia em julho-agosto; toda a rede de cuidadores do oeste do Algarve enche durante os meses turísticos de pico."
       ],
       "faqsEn": [
-        {"q": "How much does pet sitting cost in Lagos?", "a": "Expect EUR 20-30 per night for boarding and EUR 12-18 per 30-minute walk via Pawshake or DogHero; local boarding kennels in Chinicato charge from EUR 25 per day."},
-        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Lagos hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a Faro restaurant night or a Sagres surf-coast sunset."},
-        {"q": "Do I need to bring my dog's food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."}
+        {
+          "q": "How much does pet sitting cost in Lagos?",
+          "a": "Expect EUR 20-30 per night for boarding and EUR 12-18 per 30-minute walk via Pawshake or DogHero; local boarding kennels in Chinicato charge from EUR 25 per day."
+        },
+        {
+          "q": "Can hotels recommend a sitter for an evening out?",
+          "a": "Yes, larger Lagos hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a Faro restaurant night or a Sagres surf-coast sunset."
+        },
+        {
+          "q": "Do I need to bring my dog's food to a sitter?",
+          "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la garde à Lagos ?", "a": "Comptez 20-30 € par nuit en pension et 12-18 € par balade de 30 minutes via Pawshake ou DogHero ; les pensions locales à Chinicato facturent à partir de 25 € par jour."},
-        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Lagos gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour une soirée restaurant à Faro ou un coucher de soleil sur la côte de Sagres."},
-        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."}
+        {
+          "q": "Combien coûte la garde à Lagos ?",
+          "a": "Comptez 20-30 € par nuit en pension et 12-18 € par balade de 30 minutes via Pawshake ou DogHero ; les pensions locales à Chinicato facturent à partir de 25 € par jour."
+        },
+        {
+          "q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?",
+          "a": "Oui, les grands hôtels de Lagos gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour une soirée restaurant à Faro ou un coucher de soleil sur la côte de Sagres."
+        },
+        {
+          "q": "Dois-je apporter la nourriture du chien au sitter ?",
+          "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el cuidado de mascotas en Lagos?", "a": "Cuenta 20-30 € por noche en residencia y 12-18 € por paseo de 30 minutos vía Pawshake o DogHero; las residencias locales en Chinicato cobran desde 25 € por día."},
-        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Lagos guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una noche de restaurante en Faro o un atardecer en la costa de Sagres."},
-        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."}
+        {
+          "q": "¿Cuánto cuesta el cuidado de mascotas en Lagos?",
+          "a": "Cuenta 20-30 € por noche en residencia y 12-18 € por paseo de 30 minutos vía Pawshake o DogHero; las residencias locales en Chinicato cobran desde 25 € por día."
+        },
+        {
+          "q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?",
+          "a": "Sí, los grandes hoteles de Lagos guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una noche de restaurante en Faro o un atardecer en la costa de Sagres."
+        },
+        {
+          "q": "¿Tengo que llevar la comida del perro al cuidador?",
+          "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa o cuidado de animais em Lagos?", "a": "Conte 20-30 € por noite em creche e 12-18 € por passeio de 30 minutos via Pawshake ou DogHero; as creches locais em Chinicato cobram desde 25 € por dia."},
-        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Lagos guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para uma noite de restaurante em Faro ou um pôr-do-sol na costa de Sagres."},
-        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."}
+        {
+          "q": "Quanto custa o cuidado de animais em Lagos?",
+          "a": "Conte 20-30 € por noite em creche e 12-18 € por passeio de 30 minutos via Pawshake ou DogHero; as creches locais em Chinicato cobram desde 25 € por dia."
+        },
+        {
+          "q": "Os hotéis podem recomendar um sitter para uma saída à noite?",
+          "a": "Sim, os grandes hotéis de Lagos guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para uma noite de restaurante em Faro ou um pôr-do-sol na costa de Sagres."
+        },
+        {
+          "q": "Tenho de levar a comida do cão ao cuidador?",
+          "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."
+        }
       ]
     }
   }

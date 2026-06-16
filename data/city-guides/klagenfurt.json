@@ -19,7 +19,7 @@
           "name": "Gasthaus im Landhauskeller",
           "address": "Landhaushof 1, 9020 Klagenfurt am Wörthersee",
           "neighborhood": "Altstadt, Landhaus courtyard",
-          "photo": "/images/city-places/klagenfurt-restaurants-landhauskeller.jpg",
+          "photo": "/images/city-places/klagenfurt-restaurants-gasthaus-im-landhauskeller.jpg",
           "website": "https://www.landhauskeller.at/",
           "description": "Vaulted Renaissance restaurant in the cellars of the 1574 Landhaus, the Carinthian parliament building. Cosy stube indoors, large arcaded courtyard outside, both popular with locals bringing dogs. Regional Carinthian cuisine.",
           "descriptionFr": "Restaurant Renaissance voûté dans les caves du Landhaus de 1574, le bâtiment du parlement carinthien. Stube chaleureuse à l'intérieur, grande cour à arcades à l'extérieur, tous deux fréquentés par des locaux avec chiens. Cuisine régionale carinthienne.",
@@ -71,7 +71,7 @@
           "name": "Maria Loretto Schloss-Restaurant",
           "address": "Lorettoweg 54, 9020 Klagenfurt am Wörthersee",
           "neighborhood": "Wörthersee shore",
-          "photo": "/images/city-places/klagenfurt-restaurants-maria-loretto.jpg",
+          "photo": "/images/city-places/klagenfurt-restaurants-maria-loretto-schloss-restaurant.jpg",
           "website": "https://www.restaurant-maria-loretto.at/",
           "description": "Lake-castle restaurant on a small promontory over the Wörthersee, 10 minutes by bus from the Altstadt. Wide lakeside terrace with the most photogenic dog-friendly view in town. Austrian and Italian-leaning menu.",
           "descriptionFr": "Restaurant-château sur un petit promontoire au-dessus du Wörthersee, à 10 minutes de bus de l'Altstadt. Large terrasse au bord du lac avec la vue dog-friendly la plus photogénique de la ville. Carte autrichienne avec influences italiennes.",
@@ -112,7 +112,7 @@
       "tipsPt": [
         "As Gasthäuser austríacas admitem massivamente cães calmos com trela dentro e fora, norma cultural bem estabelecida.",
         "A maioria das esplanadas austríacas traz uma taça de água a pedido, basta dizer «Wasser für den Hund».",
-        "O serviço está incluído na Áustria mas arredondar a conta (5 a 10 %) continua a ser a norma."
+        "O serviço vem incluído na Áustria mas arredondar a conta (5 a 10 %) continua a ser a norma."
       ],
       "faqsEn": [
         {
@@ -163,7 +163,7 @@
       "introEn": "Klagenfurt is built between the Wörthersee and the wooded Kreuzbergl hill. Green space is everywhere: the Europapark stretches along the eastern lake shore, the Kreuzbergl forest rises directly behind the Altstadt, and the Lendkanal links the city to the lake with a 4 km dog-friendly path.",
       "introFr": "Klagenfurt est bâtie entre le Wörthersee et la colline boisée du Kreuzbergl. L'espace vert est partout : l'Europapark s'étend le long de la rive est du lac, la forêt du Kreuzbergl s'élève directement derrière l'Altstadt, et le Lendkanal relie la ville au lac par un chemin dog-friendly de 4 km.",
       "introEs": "Klagenfurt está entre el Wörthersee y la colina boscosa del Kreuzbergl. El espacio verde está por todas partes: el Europapark se extiende a lo largo de la orilla este del lago, el bosque del Kreuzbergl se eleva directamente detrás del Altstadt, y el Lendkanal conecta la ciudad con el lago por un camino dog-friendly de 4 km.",
-      "introPt": "Klagenfurt fica entre o Wörthersee e a colina arborizada do Kreuzbergl. O espaço verde está em todo o lado: o Europapark estende-se ao longo da margem leste do lago, a floresta do Kreuzbergl ergue-se directamente atrás do Altstadt, e o Lendkanal liga a cidade ao lago por um caminho pet-friendly de 4 km.",
+      "introPt": "Klagenfurt fica entre o Wörthersee e a colina arborizada do Kreuzbergl. O espaço verde surge em todo o lado: o Europapark estende-se ao longo da margem leste do lago, a floresta do Kreuzbergl ergue-se directamente atrás do Altstadt, e o Lendkanal liga a cidade ao lago por um caminho pet-friendly de 4 km.",
       "places": [
         {
           "name": "Kreuzbergl",
@@ -179,10 +179,30 @@
           "descriptionFr": "Colline forestière mixte feuillus-résineux qui s'élève directement au-dessus de l'Altstadt à 525 m. Sentiers balisés, observatoire et chapelle au sommet, principale forêt urbaine pour les promenades canines ombragées toute l'année.",
           "descriptionEs": "Colina forestal mixta de caducifolios y coníferas que se eleva directamente sobre el Altstadt hasta los 525 m. Senderos señalizados, observatorio y capilla en lo alto, principal bosque urbano para paseos caninos sombreados todo el año.",
           "descriptionPt": "Colina florestal mista de folhosas e coníferas que se ergue directamente sobre o Altstadt até aos 525 m. Trilhos sinalizados, observatório e capela no topo, principal floresta urbana para passeios caninos sombreados o ano inteiro.",
-          "amenities": ["Forest paths", "Observatory", "Benches", "Shade"],
-          "amenitiesFr": ["Sentiers forestiers", "Observatoire", "Bancs", "Ombre"],
-          "amenitiesEs": ["Senderos forestales", "Observatorio", "Bancos", "Sombra"],
-          "amenitiesPt": ["Trilhos florestais", "Observatório", "Bancos", "Sombra"],
+          "amenities": [
+            "Forest paths",
+            "Observatory",
+            "Benches",
+            "Shade"
+          ],
+          "amenitiesFr": [
+            "Sentiers forestiers",
+            "Observatoire",
+            "Bancs",
+            "Ombre"
+          ],
+          "amenitiesEs": [
+            "Senderos forestales",
+            "Observatorio",
+            "Bancos",
+            "Sombra"
+          ],
+          "amenitiesPt": [
+            "Trilhos florestais",
+            "Observatório",
+            "Bancos",
+            "Sombra"
+          ],
           "tip": "Reach the foothills in a 10-minute walk west of the Altstadt. Pack water in summer; the forest stays 4 to 6 degrees cooler than the city.",
           "tipFr": "Atteignez les contreforts en 10 minutes à pied à l'ouest de l'Altstadt. Prévoyez de l'eau en été ; la forêt reste 4 à 6 degrés plus fraîche que la ville.",
           "tipEs": "Llegas a las estribaciones en 10 minutos a pie al oeste del Altstadt. Lleva agua en verano; el bosque se mantiene 4 a 6 grados más fresco que la ciudad.",
@@ -203,10 +223,30 @@
           "descriptionFr": "Grand parc paysager qui s'étend le long de la rive est du Wörthersee de Minimundus au Strandbad. Sentiers plats au bord du lac, arbres anciens, le parc miniature Minimundus et le planétarium plein air à l'intérieur. La promenade par défaut des locaux au bord du lac.",
           "descriptionEs": "Gran parque paisajístico que se extiende a lo largo de la orilla este del Wörthersee desde Minimundus hasta el Strandbad. Senderos llanos junto al lago, árboles maduros, parque en miniatura Minimundus y planetario al aire libre. El paseo por defecto de los locales al borde del lago.",
           "descriptionPt": "Grande parque paisagístico que se estende ao longo da margem leste do Wörthersee de Minimundus ao Strandbad. Caminhos planos à beira-lago, árvores antigas, parque em miniatura Minimundus e planetário ao ar livre. O passeio por defeito dos locais à beira-lago.",
-          "amenities": ["Lakeside paths", "Benches", "Café in summer", "Minimundus park"],
-          "amenitiesFr": ["Sentiers au bord du lac", "Bancs", "Café en été", "Parc Minimundus"],
-          "amenitiesEs": ["Senderos junto al lago", "Bancos", "Café en verano", "Parque Minimundus"],
-          "amenitiesPt": ["Caminhos à beira-lago", "Bancos", "Café no verão", "Parque Minimundus"],
+          "amenities": [
+            "Lakeside paths",
+            "Benches",
+            "Café in summer",
+            "Minimundus park"
+          ],
+          "amenitiesFr": [
+            "Sentiers au bord du lac",
+            "Bancs",
+            "Café en été",
+            "Parc Minimundus"
+          ],
+          "amenitiesEs": [
+            "Senderos junto al lago",
+            "Bancos",
+            "Café en verano",
+            "Parque Minimundus"
+          ],
+          "amenitiesPt": [
+            "Caminhos à beira-lago",
+            "Bancos",
+            "Café no verão",
+            "Parque Minimundus"
+          ],
           "tip": "Walk from the Altstadt via the Lendkanal in 25 minutes, or bus 10 to Strandbad. Avoid the Strandbad main beach in summer (dogs banned in bather zone, OK on park paths).",
           "tipFr": "Depuis l'Altstadt par le Lendkanal en 25 minutes, ou bus 10 jusqu'au Strandbad. Évitez la plage principale du Strandbad en été (chiens interdits en zone de baignade, OK sur les chemins du parc).",
           "tipEs": "Desde el Altstadt por el Lendkanal en 25 minutos, o bus 10 hasta el Strandbad. Evita la playa principal del Strandbad en verano (perros prohibidos en la zona de baño, OK en caminos del parque).",
@@ -217,7 +257,7 @@
           "name": "Lendkanal towpath",
           "address": "Lendkanal, 9020 Klagenfurt am Wörthersee",
           "neighborhood": "Altstadt to Wörthersee",
-          "photo": "/images/city-places/klagenfurt-parks-lendkanal.jpg",
+          "photo": "/images/city-places/klagenfurt-parks-lendkanal-towpath.jpg",
           "size": "4 km waterside path",
           "leashRule": "Leash required throughout urban section",
           "leashRuleFr": "Laisse obligatoire sur toute la section urbaine",
@@ -227,10 +267,30 @@
           "descriptionFr": "Le canal du XVIIIe siècle qui relie l'Altstadt au Wörthersee, avec un chemin de halage continu sur les deux rives. Platanes, bancs, cygnes et canards. La promenade plate la plus photogénique de la ville.",
           "descriptionEs": "El canal del s. XVIII que une el Altstadt con el Wörthersee, con sirga continua en ambas orillas. Plátanos, bancos, cisnes y patos. El paseo llano más fotogénico de la ciudad.",
           "descriptionPt": "O canal do séc. XVIII que liga o Altstadt ao Wörthersee, com caminho de sirga contínuo em ambas as margens. Plátanos, bancos, cisnes e patos. O passeio plano mais fotogénico da cidade.",
-          "amenities": ["Flat towpath", "Benches", "Swans", "Shaded plane trees"],
-          "amenitiesFr": ["Halage plat", "Bancs", "Cygnes", "Platanes ombragés"],
-          "amenitiesEs": ["Camino llano", "Bancos", "Cisnes", "Plátanos sombreados"],
-          "amenitiesPt": ["Caminho plano", "Bancos", "Cisnes", "Plátanos sombreados"],
+          "amenities": [
+            "Flat towpath",
+            "Benches",
+            "Swans",
+            "Shaded plane trees"
+          ],
+          "amenitiesFr": [
+            "Halage plat",
+            "Bancs",
+            "Cygnes",
+            "Platanes ombragés"
+          ],
+          "amenitiesEs": [
+            "Camino llano",
+            "Bancos",
+            "Cisnes",
+            "Plátanos sombreados"
+          ],
+          "amenitiesPt": [
+            "Caminho plano",
+            "Bancos",
+            "Cisnes",
+            "Plátanos sombreados"
+          ],
           "tip": "Walk one bank out and the other back for a 1h15 loop. Sunrise from the Altstadt end and sunset from the lake end are both spectacular.",
           "tipFr": "Faites un aller sur une rive et le retour sur l'autre pour une boucle d'1h15. Le lever de soleil côté Altstadt et le coucher côté lac sont tous deux spectaculaires.",
           "tipEs": "Ve por una orilla y vuelve por la otra para un circuito de 1h15. El amanecer desde el Altstadt y la puesta de sol desde el lago son ambos espectaculares.",
@@ -291,11 +351,11 @@
       "faqsPt": [
         {
           "q": "Onde pode o meu cão correr sem trela em Klagenfurt?",
-          "a": "Os trilhos florestais superiores do Kreuzbergl directamente sobre o Altstadt permitem a solta em caminhos sinalizados fora da temporada de nidificação. Na cidade, a Hundezone do Europapark (sinalizada) é a principal zona vedada sem trela."
+          "a": "Os trilhos florestais superiores do Kreuzbergl directamente sobre o Altstadt deixam a solta em caminhos sinalizados fora da temporada de nidificação. Na cidade, a Hundezone do Europapark (sinalizada) é a principal zona vedada sem trela."
         },
         {
           "q": "O meu cão pode nadar em Klagenfurt?",
-          "a": "Sim, nos Hundebadeplätze designados do Wörthersee. A praia principal do Strandbad Klagenfurt proíbe cães, mas zonas caninas sinalizadas no extremo leste do lago perto do Schloss Maria Loretto e na foz do Lendkanal permitem o banho sem trela no verão."
+          "a": "Sim, nos Hundebadeplätze designados do Wörthersee. A praia principal do Strandbad Klagenfurt proíbe cães, mas zonas caninas sinalizadas no extremo leste do lago perto do Schloss Maria Loretto e na foz do Lendkanal deixam o banho sem trela no verão."
         }
       ]
     },
@@ -312,7 +372,7 @@
         {
           "name": "ÖBB Railjet",
           "type": "High-speed train",
-          "photo": "/images/city-places/klagenfurt-transport-oebb-railjet.jpg",
+          "photo": "/images/city-places/klagenfurt-transport-obb-railjet.jpg",
           "website": "https://www.oebb.at/",
           "description": "Klagenfurt Hauptbahnhof sits on the southern ÖBB Railjet line. Direct Railjet to Vienna (4h) and Salzburg (2h45), with onward connections to Innsbruck, Graz and Munich (via Salzburg).",
           "descriptionFr": "La Hauptbahnhof de Klagenfurt est sur la ligne sud Railjet ÖBB. Railjet directs pour Vienne (4h) et Salzbourg (2h45), avec correspondances vers Innsbruck, Graz et Munich (via Salzbourg).",
@@ -331,7 +391,7 @@
         {
           "name": "STW Klagenfurt city bus",
           "type": "City transit",
-          "photo": "/images/city-places/klagenfurt-transport-stw-bus.jpg",
+          "photo": "/images/city-places/klagenfurt-transport-stw-klagenfurt-city-bus.jpg",
           "website": "https://www.stw.at/",
           "description": "Stadtwerke Klagenfurt operates 13 bus lines covering the city and the Wörthersee shore. No tram or metro; buses run on 15-to-30-minute headways. Line 10 serves the Strandbad and the lake parks.",
           "descriptionFr": "Stadtwerke Klagenfurt exploite 13 lignes de bus couvrant la ville et la rive du Wörthersee. Pas de tram ni de métro ; bus toutes les 15 à 30 minutes. La ligne 10 dessert le Strandbad et les parcs du lac.",
@@ -350,7 +410,7 @@
         {
           "name": "Klagenfurt Airport (KLU)",
           "type": "Airport",
-          "photo": "/images/city-places/klagenfurt-transport-klu-airport.jpg",
+          "photo": "/images/city-places/klagenfurt-transport-klagenfurt-airport-klu.jpg",
           "website": "https://www.klagenfurt-airport.com/",
           "description": "Small international airport 4 km north of the centre, with seasonal flights to Vienna, Frankfurt, Hamburg, Berlin and London. Pet-friendly handling, ten-minute taxi or bus 41 to the Hbf.",
           "descriptionFr": "Petit aéroport international à 4 km au nord du centre, avec des vols saisonniers vers Vienne, Francfort, Hambourg, Berlin et Londres. Prise en charge pet-friendly, taxi ou bus 41 dix minutes jusqu'à la Hbf.",
@@ -383,7 +443,7 @@
         "El aeropuerto KLU es pequeño pero útil en verano; para conexiones todo el año, un Railjet ÖBB hasta Viena (VIE) es más fiable."
       ],
       "tipsPt": [
-        "Klagenfurt não tem elétrico nem metro; o Altstadt percorre-se a pé e a maioria das atrações está a menos de 1 km.",
+        "Klagenfurt não tem elétrico nem metro; o Altstadt percorre-se a pé e a maioria das atrações fica a menos de 1 km.",
         "Os Railjet ÖBB são a forma mais fácil de chegar a Viena, Salzburgo e Graz, muito melhor do que o Flixbus ou o carro com cão.",
         "O aeroporto KLU é pequeno mas útil no verão; para ligações o ano inteiro, um Railjet ÖBB até Viena (VIE) é mais fiável."
       ],
@@ -441,7 +501,7 @@
         {
           "name": "Hundebadeplatz Maria Loretto",
           "address": "Lorettoweg, 9020 Klagenfurt am Wörthersee",
-          "photo": "/images/city-places/klagenfurt-beaches-maria-loretto.jpg",
+          "photo": "/images/city-places/klagenfurt-beaches-hundebadeplatz-maria-loretto.jpg",
           "leashRule": "Off-leash inside the marked dog swimming zone, exact perimeter posted on site",
           "leashRuleFr": "Sans laisse dans la zone de baignade canine signalée, périmètre exact affiché sur place",
           "leashRuleEs": "Sin correa dentro de la zona de baño canino señalizada, perímetro exacto en cartel in situ",
@@ -450,10 +510,30 @@
           "descriptionFr": "Spot de baignade canine signalé sur la rive est du Wörthersee près du promontoire du Schloss Maria Loretto. Accès herbe et galets, eau peu profonde, la plage canine la plus centrale.",
           "descriptionEs": "Zona de baño canino señalizada en la orilla este del Wörthersee cerca del promontorio del Schloss Maria Loretto. Acceso de hierba y guijarros, agua poco profunda, la playa canina más céntrica.",
           "descriptionPt": "Zona de banho canino sinalizada na margem leste do Wörthersee perto do promontório do Schloss Maria Loretto. Acesso de relva e seixos, água pouco profunda, a praia canina mais central.",
-          "amenities": ["Designated dog zone", "Shallow water", "Trash bins", "Lake views"],
-          "amenitiesFr": ["Zone canine désignée", "Eau peu profonde", "Poubelles", "Vue lac"],
-          "amenitiesEs": ["Zona canina designada", "Agua poco profunda", "Papeleras", "Vistas al lago"],
-          "amenitiesPt": ["Zona canina designada", "Água pouco profunda", "Caixotes", "Vistas para o lago"],
+          "amenities": [
+            "Designated dog zone",
+            "Shallow water",
+            "Trash bins",
+            "Lake views"
+          ],
+          "amenitiesFr": [
+            "Zone canine désignée",
+            "Eau peu profonde",
+            "Poubelles",
+            "Vue lac"
+          ],
+          "amenitiesEs": [
+            "Zona canina designada",
+            "Agua poco profunda",
+            "Papeleras",
+            "Vistas al lago"
+          ],
+          "amenitiesPt": [
+            "Zona canina designada",
+            "Água pouco profunda",
+            "Caixotes",
+            "Vistas para o lago"
+          ],
           "tip": "Bus 20 from the centre or 30-minute walk along the Lendkanal. Check Kärnten Tourismus 2026 zone updates before going, perimeter can shift season to season.",
           "tipFr": "Bus 20 du centre ou 30 minutes à pied le long du Lendkanal. Vérifiez les mises à jour 2026 de Kärnten Tourismus avant de venir, le périmètre peut changer d'une saison à l'autre.",
           "tipEs": "Bus 20 desde el centro o 30 minutos a pie por el Lendkanal. Consulta las actualizaciones 2026 de Kärnten Tourismus antes de ir, el perímetro puede cambiar entre temporadas.",
@@ -463,7 +543,7 @@
         {
           "name": "Hundebadeplatz Lendkanal-Mündung",
           "address": "Friedelstrand, 9020 Klagenfurt am Wörthersee",
-          "photo": "/images/city-places/klagenfurt-beaches-lendkanal.jpg",
+          "photo": "/images/city-places/klagenfurt-beaches-hundebadeplatz-lendkanal-mundung.jpg",
           "leashRule": "Off-leash inside the marked Hundebadeplatz; exact zone posted on site",
           "leashRuleFr": "Sans laisse dans la Hundebadeplatz signalée ; zone exacte affichée sur place",
           "leashRuleEs": "Sin correa en la Hundebadeplatz señalizada; zona exacta en cartel in situ",
@@ -472,10 +552,30 @@
           "descriptionFr": "Zone de baignade canine à l'embouchure du Lendkanal sur le Wörthersee, sur la promenade Friedelstrand. Accès herbe, fond de gravier peu profond, appréciée des locaux après le travail.",
           "descriptionEs": "Zona de baño canino en la desembocadura del Lendkanal en el Wörthersee, en el paseo Friedelstrand. Acceso de hierba, fondo de grava poco profundo, popular entre los locales tras el trabajo.",
           "descriptionPt": "Zona de banho canino na foz do Lendkanal no Wörthersee, na alameda Friedelstrand. Acesso de relva, fundo de gravilha pouco profundo, popular entre os locais depois do trabalho.",
-          "amenities": ["Designated dog zone", "Shallow gravel bottom", "Promenade", "Trash bins"],
-          "amenitiesFr": ["Zone canine désignée", "Fond de gravier peu profond", "Promenade", "Poubelles"],
-          "amenitiesEs": ["Zona canina designada", "Fondo de grava poco profundo", "Paseo", "Papeleras"],
-          "amenitiesPt": ["Zona canina designada", "Fundo de gravilha pouco profundo", "Alameda", "Caixotes"],
+          "amenities": [
+            "Designated dog zone",
+            "Shallow gravel bottom",
+            "Promenade",
+            "Trash bins"
+          ],
+          "amenitiesFr": [
+            "Zone canine désignée",
+            "Fond de gravier peu profond",
+            "Promenade",
+            "Poubelles"
+          ],
+          "amenitiesEs": [
+            "Zona canina designada",
+            "Fondo de grava poco profundo",
+            "Paseo",
+            "Papeleras"
+          ],
+          "amenitiesPt": [
+            "Zona canina designada",
+            "Fundo de gravilha pouco profundo",
+            "Alameda",
+            "Caixotes"
+          ],
           "tip": "Walk from the Altstadt along the Lendkanal in 30 minutes. Avoid 13:00 to 15:00 in July when sun is harsh on the unshaded grass.",
           "tipFr": "Depuis l'Altstadt par le Lendkanal en 30 minutes. Évitez 13h-15h en juillet, le soleil est dur sur l'herbe sans ombre.",
           "tipEs": "Desde el Altstadt por el Lendkanal en 30 minutos. Evita 13:00 a 15:00 en julio, el sol es duro sobre la hierba sin sombra.",
@@ -485,7 +585,7 @@
         {
           "name": "Hundebadeplatz Krumpendorf",
           "address": "Krumpendorf, 9201",
-          "photo": "/images/city-places/klagenfurt-beaches-krumpendorf.jpg",
+          "photo": "/images/city-places/klagenfurt-beaches-hundebadeplatz-krumpendorf.jpg",
           "leashRule": "Off-leash inside the marked Hundebadeplatz",
           "leashRuleFr": "Sans laisse dans la Hundebadeplatz signalée",
           "leashRuleEs": "Sin correa en la Hundebadeplatz señalizada",
@@ -494,10 +594,30 @@
           "descriptionFr": "Hundebadeplatz signalée sur la rive nord du Wörthersee à Krumpendorf, à 10 minutes en voiture ou 25 en train de Klagenfurt. Zone plus grande que celles de Klagenfurt ville, souvent moins fréquentée.",
           "descriptionEs": "Hundebadeplatz señalizada en la orilla norte del Wörthersee en Krumpendorf, a 10 minutos en coche o 25 en tren de Klagenfurt. Zona más amplia que las de la ciudad de Klagenfurt, suele estar menos llena.",
           "descriptionPt": "Hundebadeplatz sinalizada na margem norte do Wörthersee em Krumpendorf, a 10 minutos de carro ou 25 de comboio de Klagenfurt. Zona maior do que as da cidade de Klagenfurt, costuma estar menos cheia.",
-          "amenities": ["Designated dog zone", "Grass banks", "Parking", "Café in season"],
-          "amenitiesFr": ["Zone canine désignée", "Berges herbeuses", "Parking", "Café en saison"],
-          "amenitiesEs": ["Zona canina designada", "Orillas con hierba", "Aparcamiento", "Café en temporada"],
-          "amenitiesPt": ["Zona canina designada", "Margens com relva", "Estacionamento", "Café em época"],
+          "amenities": [
+            "Designated dog zone",
+            "Grass banks",
+            "Parking",
+            "Café in season"
+          ],
+          "amenitiesFr": [
+            "Zone canine désignée",
+            "Berges herbeuses",
+            "Parking",
+            "Café en saison"
+          ],
+          "amenitiesEs": [
+            "Zona canina designada",
+            "Orillas con hierba",
+            "Aparcamiento",
+            "Café en temporada"
+          ],
+          "amenitiesPt": [
+            "Zona canina designada",
+            "Margens com relva",
+            "Estacionamento",
+            "Café em época"
+          ],
           "tip": "ÖBB regional train from Klagenfurt Hbf to Krumpendorf in 8 minutes; the Hundebadeplatz is a 10-minute walk from the station.",
           "tipFr": "Train ÖBB régional de la Hbf de Klagenfurt à Krumpendorf en 8 minutes ; la Hundebadeplatz est à 10 minutes à pied de la gare.",
           "tipEs": "Tren ÖBB regional desde la Hbf de Klagenfurt a Krumpendorf en 8 minutos; la Hundebadeplatz queda a 10 minutos a pie de la estación.",
@@ -582,7 +702,10 @@
           "photo": "/images/city-places/klagenfurt-vets-tierklinik-annenheim.jpg",
           "phone": "+43 4242 41700",
           "emergency24h": true,
-          "languages": ["German", "English"],
+          "languages": [
+            "German",
+            "English"
+          ],
           "website": "https://www.tierklinik-annenheim.at/",
           "description": "The reference 24/7 emergency veterinary hospital for Carinthia, 35 km west of Klagenfurt near Villach. Surgery, ICU, CT, ultrasound, endoscopy. The standard referral for serious emergencies.",
           "descriptionFr": "L'hôpital vétérinaire d'urgences 24h/24 de référence pour la Carinthie, à 35 km à l'ouest de Klagenfurt près de Villach. Chirurgie, USI, scanner, écho, endoscopie. La référence pour les urgences graves.",
@@ -598,10 +721,13 @@
         {
           "name": "Tierklinik Klagenfurt Stadt",
           "address": "Rosentaler Straße 113, 9020 Klagenfurt am Wörthersee",
-          "photo": "/images/city-places/klagenfurt-vets-tierklinik-stadt.jpg",
+          "photo": "/images/city-places/klagenfurt-vets-tierklinik-klagenfurt-stadt.jpg",
           "phone": "+43 463 23560",
           "emergency24h": false,
-          "languages": ["German", "English"],
+          "languages": [
+            "German",
+            "English"
+          ],
           "website": "",
           "description": "Full-service daytime clinic on the south edge of the city. Internal medicine, surgery, dental work. The main daytime referral inside Klagenfurt itself.",
           "descriptionFr": "Clinique complète en journée au sud de la ville. Médecine interne, chirurgie, dentaire. La principale référence de jour à Klagenfurt même.",
@@ -617,10 +743,13 @@
         {
           "name": "Tierarztpraxis Altstadt Klagenfurt",
           "address": "Bahnhofstraße 5, 9020 Klagenfurt am Wörthersee",
-          "photo": "/images/city-places/klagenfurt-vets-altstadt-praxis.jpg",
+          "photo": "/images/city-places/klagenfurt-vets-tierarztpraxis-altstadt-klagenfurt.jpg",
           "phone": "+43 463 510200",
           "emergency24h": false,
-          "languages": ["German", "English"],
+          "languages": [
+            "German",
+            "English"
+          ],
           "website": "",
           "description": "Centrally located daytime practice 5 minutes walk from the Hauptbahnhof and the south edge of the Altstadt. Vaccinations, microchipping, routine care, pre-travel checks. The convenient option for tourists.",
           "descriptionFr": "Cabinet de jour central à 5 minutes à pied de la Hauptbahnhof et du sud de l'Altstadt. Vaccins, puçage, soins courants, contrôles avant voyage. L'option pratique pour les touristes.",
@@ -651,7 +780,7 @@
       ],
       "tipsPt": [
         "A Áustria exige passaporte europeu (ou AHC) + microchip + vacina antirrábica com mais de 21 dias para viagens transfronteiriças.",
-        "A prevenção contra carraças é essencial de abril a outubro, a TBE (encefalite transmitida por carraças) está presente em toda a Caríntia.",
+        "A prevenção contra carraças é essencial de abril a outubro, a TBE (encefalite transmitida por carraças) surge presente em toda a Caríntia.",
         "Os veterinários austríacos falam geralmente muito bem inglês nas regiões turísticas; os historiais médicos podem ser emitidos em inglês a pedido."
       ],
       "faqsEn": [
@@ -766,7 +895,7 @@
       "faqsPt": [
         {
           "q": "Quando é melhor visitar Klagenfurt com cão?",
-          "a": "Fim de maio ao início de julho e setembro. Temperaturas diurnas 20 a 26 graus, o Wörthersee está suficientemente quente para banho canino, e as multidões de fim de julho e agosto desapareceram. Inverno possível mas a Caríntia é fria (cerca de -2 a +4 graus) e os dias curtos."
+          "a": "Fim de maio ao início de julho e setembro. Temperaturas diurnas 20 a 26 graus, o Wörthersee fica suficientemente quente para banho canino, e as multidões de fim de julho e agosto desapareceram. Inverno possível mas a Caríntia é fria (cerca de -2 a +4 graus) e os dias curtos."
         },
         {
           "q": "Klagenfurt é boa para um fim de semana longo com cão?",
@@ -788,7 +917,7 @@
           "name": "Lindwurmbrunnen on Neuer Platz",
           "address": "Neuer Platz, 9020 Klagenfurt am Wörthersee",
           "neighborhood": "Altstadt centre",
-          "photo": "/images/city-places/klagenfurt-attractions-lindwurm.jpg",
+          "photo": "/images/city-places/klagenfurt-attractions-lindwurmbrunnen-on-neuer-platz.jpg",
           "website": "",
           "description": "The 1593 dragon fountain on the Neuer Platz, Klagenfurt's signature monument and the symbol of the city. Carved from a single block of chlorite slate, the dragon faces the Habsburg statue of Maria Theresa across the square.",
           "descriptionFr": "La fontaine au dragon de 1593 sur la Neuer Platz, monument signature de Klagenfurt et symbole de la ville. Sculpté dans un seul bloc de chlorite, le dragon fait face à la statue habsbourgeoise de Marie-Thérèse de l'autre côté de la place.",
@@ -830,7 +959,7 @@
           "name": "Landhaus courtyard & Alter Platz",
           "address": "Landhaushof 1, 9020 Klagenfurt am Wörthersee",
           "neighborhood": "Altstadt centre",
-          "photo": "/images/city-places/klagenfurt-attractions-landhaus.jpg",
+          "photo": "/images/city-places/klagenfurt-attractions-landhaus-courtyard-alter-platz.jpg",
           "website": "https://www.landtag.ktn.gv.at/",
           "description": "The 1574 Renaissance Landhaus is the seat of the Carinthian parliament. The arcaded courtyard with its painted Wappensaal is open to visitors and dogs on leash during the day; the Alter Platz pedestrian street outside is the Altstadt's main artery.",
           "descriptionFr": "Le Landhaus Renaissance de 1574 est le siège du parlement carinthien. La cour à arcades avec son Wappensaal peint est ouverte aux visiteurs et chiens en laisse dans la journée ; la rue piétonne Alter Platz à l'extérieur est l'artère principale de l'Altstadt.",

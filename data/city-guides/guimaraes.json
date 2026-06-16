@@ -19,7 +19,7 @@
           "name": "Histórico by Papaboa",
           "address": "Rua de Valdonas 4, 4800-476 Guimarães",
           "neighborhood": "Centro histórico",
-          "photo": "/images/city-places/guimaraes-restaurants-historico-papaboa.jpg",
+          "photo": "/images/city-places/guimaraes-restaurants-historico-by-papaboa.jpg",
           "website": "https://www.papaboa.pt/",
           "description": "A converted 17th-century manor with a granite-walled courtyard terrace two minutes from Largo da Oliveira. The kitchen serves Minho classics like bacalhau à Braga, posta de vitela and rojões with a generous wine list of Vinho Verde, and the courtyard tables welcome leashed dogs year-round.",
           "descriptionFr": "Manoir reconverti du XVIIᵉ siècle avec terrasse de cour aux murs de granit à deux minutes du Largo da Oliveira. La cuisine sert les classiques du Minho - bacalhau à Braga, posta de vitela, rojões - avec une généreuse carte de Vinho Verde, et les tables de cour accueillent les chiens en laisse toute l'année.",
@@ -115,24 +115,60 @@
         "O Vinho Verde dos vinhedos vizinhos é a harmonização regional; peça o tinto ou branco da casa à jarra em qualquer tasca."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside Guimarães restaurants?", "a": "Leashed dogs are welcome on virtually every pavement terrace in the historic centre. Air-conditioned indoor rooms in July-August often prefer dogs outside; ask at the door."},
-        {"q": "Do restaurants provide water bowls?", "a": "Most terraces bring a bowl unprompted; otherwise asking for água para o cão always works."},
-        {"q": "Where is the best square for outdoor dog-friendly dinner?", "a": "Largo da Oliveira and Praça de Santiago concentrate the most dog-tolerant terraces and the best people-watching, both pedestrianised and floodlit at night."}
+        {
+          "q": "Are dogs allowed inside Guimarães restaurants?",
+          "a": "Leashed dogs are welcome on virtually every pavement terrace in the historic centre. Air-conditioned indoor rooms in July-August often prefer dogs outside; ask at the door."
+        },
+        {
+          "q": "Do restaurants provide water bowls?",
+          "a": "Most terraces bring a bowl unprompted; otherwise asking for água para o cão always works."
+        },
+        {
+          "q": "Where is the best square for outdoor dog-friendly dinner?",
+          "a": "Largo da Oliveira and Praça de Santiago concentrate the most dog-tolerant terraces and the best people-watching, both pedestrianised and floodlit at night."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Guimarães ?", "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de trottoir du centre historique. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors ; demandez à l'entrée."},
-        {"q": "Les restaurants fournissent-ils des gamelles d'eau ?", "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander água para o cão fonctionne toujours."},
-        {"q": "Quelle est la meilleure place pour dîner en extérieur avec un chien ?", "a": "Le Largo da Oliveira et la Praça de Santiago concentrent les terrasses les plus dog-tolerant et le meilleur observatoire, toutes deux piétonnes et éclairées la nuit."}
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Guimarães ?",
+          "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de trottoir du centre historique. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors ; demandez à l'entrée."
+        },
+        {
+          "q": "Les restaurants fournissent-ils des gamelles d'eau ?",
+          "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander água para o cão fonctionne toujours."
+        },
+        {
+          "q": "Quelle est la meilleure place pour dîner en extérieur avec un chien ?",
+          "a": "Le Largo da Oliveira et la Praça de Santiago concentrent les terrasses les plus dog-tolerant et le meilleur observatoire, toutes deux piétonnes et éclairées la nuit."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Guimarães?", "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas adoquinadas del centro histórico. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera; pregunta en la entrada."},
-        {"q": "¿Los restaurantes ofrecen cuencos de agua?", "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir água para o cão siempre funciona."},
-        {"q": "¿Cuál es la mejor plaza para cenar al aire libre con perro?", "a": "El Largo da Oliveira y la Praça de Santiago concentran las terrazas más pet-friendly y el mejor observatorio, ambos peatonales e iluminados por la noche."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Guimarães?",
+          "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas adoquinadas del centro histórico. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera; pregunta en la entrada."
+        },
+        {
+          "q": "¿Los restaurantes ofrecen cuencos de agua?",
+          "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir água para o cão siempre funciona."
+        },
+        {
+          "q": "¿Cuál es la mejor plaza para cenar al aire libre con perro?",
+          "a": "El Largo da Oliveira y la Praça de Santiago concentran las terrazas más pet-friendly y el mejor observatorio, ambos peatonales e iluminados por la noche."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos dentro dos restaurantes de Guimarães?", "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas calcetadas do centro histórico. As salas com ar condicionado em julho-agosto costumam preferir os cães fora; pergunte à entrada."},
-        {"q": "Os restaurantes oferecem taças de água?", "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir água para o cão funciona sempre."},
-        {"q": "Qual é a melhor praça para jantar ao ar livre com cão?", "a": "O Largo da Oliveira e a Praça de Santiago concentram as esplanadas mais pet-friendly e o melhor observatório, ambos pedonais e iluminados à noite."}
+        {
+          "q": "Os cães são admitidos dentro dos restaurantes de Guimarães?",
+          "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas calcetadas do centro histórico. As salas com ar condicionado em julho-agosto costumam preferir os cães fora; pergunte à entrada."
+        },
+        {
+          "q": "Os restaurantes oferecem taças de água?",
+          "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir água para o cão funciona sempre."
+        },
+        {
+          "q": "Qual é a melhor praça para jantar ao ar livre com cão?",
+          "a": "O Largo da Oliveira e a Praça de Santiago concentram as esplanadas mais pet-friendly e o melhor observatório, ambos pedonais e iluminados à noite."
+        }
       ]
     },
     "parks": {
@@ -143,7 +179,7 @@
       "introEn": "Guimarães is wrapped on its southern flank by the Penha mountain, a 617 m granite massif of pine and eucalyptus crossed by marked trails and reached by Portugal's longest cable car. Within the city, the Parque da Cidade Desportivo and the Jardim do Carmo give shaded green relief, while the 12 km Ave river ecotrack offers a flat year-round dog walk along the water.",
       "introFr": "Guimarães est ceinturée sur son flanc sud par la montagne de la Penha, un massif granitique de 617 m de pins et d'eucalyptus traversé par des sentiers balisés et accessible par le plus long téléphérique du Portugal. Dans la ville, le Parque da Cidade Desportivo et le Jardim do Carmo offrent un répit vert ombragé, tandis que la voie verte de 12 km le long de l'Ave propose une promenade canine plate toute l'année au bord de l'eau.",
       "introEs": "Guimarães está ceñida en su flanco sur por la montaña da Penha, un macizo granítico de 617 m de pinos y eucaliptos atravesado por senderos señalizados y accesible por el teleférico más largo de Portugal. En la ciudad, el Parque da Cidade Desportivo y el Jardim do Carmo ofrecen un respiro verde sombreado, mientras la vía verde de 12 km a lo largo del Ave propone un paseo canino llano todo el año junto al agua.",
-      "introPt": "Guimarães está cingida no seu flanco sul pela montanha da Penha, um maciço granítico de 617 m de pinheiros e eucaliptos atravessado por trilhos sinalizados e acessível pelo teleférico mais longo de Portugal. Na cidade, o Parque da Cidade Desportivo e o Jardim do Carmo oferecem um repouso verde sombreado, enquanto a ecopista de 12 km ao longo do Ave propõe um passeio canino plano o ano inteiro junto à água.",
+      "introPt": "Guimarães fica cingida no seu flanco sul pela montanha da Penha, um maciço granítico de 617 m de pinheiros e eucaliptos atravessado por trilhos sinalizados e acessível pelo teleférico mais longo de Portugal. Na cidade, o Parque da Cidade Desportivo e o Jardim do Carmo oferecem um repouso verde sombreado, enquanto a ecopista de 12 km ao longo do Ave propõe um passeio canino plano o ano inteiro junto à água.",
       "places": [
         {
           "name": "Montanha da Penha",
@@ -175,7 +211,7 @@
           "name": "Ecopista do Rio Ave",
           "address": "Estação de Guimarães, 4810 Guimarães",
           "neighborhood": "Rio Ave valley",
-          "photo": "/images/city-places/guimaraes-parks-ecopista-rio-ave.jpg",
+          "photo": "/images/city-places/guimaraes-parks-ecopista-do-rio-ave.jpg",
           "website": "https://www.cm-guimaraes.pt/",
           "description": "A 12 km flat ecotrack along the former Guimarães-Fafe railway line, following the Rio Ave river valley through pine forest, riverside meadows and abandoned stations converted into rest points. Surfaced with hard-packed gravel, it suits dogs of any size and any pace, and leashed pets are welcome the full length.",
           "descriptionFr": "Voie verte plate de 12 km le long de l'ancienne ligne Guimarães-Fafe, suivant la vallée du Rio Ave à travers la forêt de pins, des prairies de rivière et d'anciennes gares converties en aires de repos. Revêtue de gravier compacté, elle convient à des chiens de toute taille et toute allure, et les animaux en laisse sont bienvenus sur tout le parcours.",
@@ -201,7 +237,7 @@
           "name": "Jardim do Carmo and Parque da Cidade",
           "address": "Avenida de Londres, 4810-235 Guimarães",
           "neighborhood": "City centre",
-          "photo": "/images/city-places/guimaraes-parks-jardim-do-carmo.jpg",
+          "photo": "/images/city-places/guimaraes-parks-jardim-do-carmo-and-parque-da-cidade.jpg",
           "website": "https://www.cm-guimaraes.pt/",
           "description": "A pair of contiguous municipal gardens at the western edge of the historic centre, with shaded gravel paths, a small lake, sports lawns and a fenced off-leash zone. Free and open 24/7, they are the easiest morning leg-stretcher when staying inside the medieval walls.",
           "descriptionFr": "Paire de jardins municipaux contigus à l'extrémité ouest du centre historique, avec allées de gravier ombragées, petit lac, pelouses sportives et zone sans laisse clôturée. Gratuits et ouverts 24h/24, c'est le plus simple dégourdissement matinal quand on loge dans les murailles médiévales.",
@@ -245,24 +281,60 @@
         "A ecopista do Rio Ave é sombreada a maior parte do ano; as tardes de verão podem manter-se quentes - caminhe antes das 10:00 ou depois das 17:00."
       ],
       "faqsEn": [
-        {"q": "Can my dog ride the Penha cable car?", "a": "Yes, leashed dogs are accepted in the cable car cabins on owner's lap; one cabin holds four people plus a dog. The 5-minute ride from the city avoids 4 km of road."},
-        {"q": "Is there an off-leash dog park in Guimarães?", "a": "Yes, the Parque da Cidade has a fenced off-leash zone. Outside that area, the entire municipality is on-leash by default."},
-        {"q": "Where can I find shaded walks in midsummer?", "a": "The Penha pine forest and the Ecopista do Rio Ave are the most consistently shaded options near Guimarães in July-August."}
+        {
+          "q": "Can my dog ride the Penha cable car?",
+          "a": "Yes, leashed dogs are accepted in the cable car cabins on owner's lap; one cabin holds four people plus a dog. The 5-minute ride from the city avoids 4 km of road."
+        },
+        {
+          "q": "Is there an off-leash dog park in Guimarães?",
+          "a": "Yes, the Parque da Cidade has a fenced off-leash zone. Outside that area, the entire municipality is on-leash by default."
+        },
+        {
+          "q": "Where can I find shaded walks in midsummer?",
+          "a": "The Penha pine forest and the Ecopista do Rio Ave are the most consistently shaded options near Guimarães in July-August."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il prendre le téléphérique de la Penha ?", "a": "Oui, les chiens en laisse sont acceptés dans les cabines sur les genoux du maître ; une cabine accueille quatre personnes plus un chien. Le trajet de 5 minutes depuis la ville évite 4 km de route."},
-        {"q": "Y a-t-il un parc canin sans laisse à Guimarães ?", "a": "Oui, le Parque da Cidade dispose d'une zone sans laisse clôturée. Hors de là, toute la municipalité est en laisse par défaut."},
-        {"q": "Où trouver des promenades ombragées en plein été ?", "a": "La forêt de pins de la Penha et l'Ecopista do Rio Ave sont les options les plus régulièrement ombragées près de Guimarães en juillet-août."}
+        {
+          "q": "Mon chien peut-il prendre le téléphérique de la Penha ?",
+          "a": "Oui, les chiens en laisse sont acceptés dans les cabines sur les genoux du maître ; une cabine accueille quatre personnes plus un chien. Le trajet de 5 minutes depuis la ville évite 4 km de route."
+        },
+        {
+          "q": "Y a-t-il un parc canin sans laisse à Guimarães ?",
+          "a": "Oui, le Parque da Cidade dispose d'une zone sans laisse clôturée. Hors de là, toute la municipalité est en laisse par défaut."
+        },
+        {
+          "q": "Où trouver des promenades ombragées en plein été ?",
+          "a": "La forêt de pins de la Penha et l'Ecopista do Rio Ave sont les options les plus régulièrement ombragées près de Guimarães en juillet-août."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Mi perro puede subir al teleférico da Penha?", "a": "Sí, los perros con correa son admitidos en las cabinas en el regazo del dueño; una cabina cabe cuatro personas más un perro. El trayecto de 5 minutos desde la ciudad evita 4 km de carretera."},
-        {"q": "¿Hay un parque canino sin correa en Guimarães?", "a": "Sí, el Parque da Cidade tiene una zona sin correa vallada. Fuera de ahí, toda la municipalidad es con correa por defecto."},
-        {"q": "¿Dónde encontrar paseos sombreados en pleno verano?", "a": "El bosque de pinos da Penha y la Ecopista do Rio Ave son las opciones más constantemente sombreadas cerca de Guimarães en julio-agosto."}
+        {
+          "q": "¿Mi perro puede subir al teleférico da Penha?",
+          "a": "Sí, los perros con correa son admitidos en las cabinas en el regazo del dueño; una cabina cabe cuatro personas más un perro. El trayecto de 5 minutos desde la ciudad evita 4 km de carretera."
+        },
+        {
+          "q": "¿Hay un parque canino sin correa en Guimarães?",
+          "a": "Sí, el Parque da Cidade tiene una zona sin correa vallada. Fuera de ahí, toda la municipalidad es con correa por defecto."
+        },
+        {
+          "q": "¿Dónde encontrar paseos sombreados en pleno verano?",
+          "a": "El bosque de pinos da Penha y la Ecopista do Rio Ave son las opciones más constantemente sombreadas cerca de Guimarães en julio-agosto."
+        }
       ],
       "faqsPt": [
-        {"q": "O meu cão pode subir no teleférico da Penha?", "a": "Sim, os cães com trela são aceites nas cabines ao colo do dono; uma cabine cabe quatro pessoas mais um cão. A viagem de 5 minutos a partir da cidade evita 4 km de estrada."},
-        {"q": "Há um parque canino sem trela em Guimarães?", "a": "Sim, o Parque da Cidade tem uma zona sem trela vedada. Fora daí, todo o concelho é com trela por defeito."},
-        {"q": "Onde encontrar passeios sombreados em pleno verão?", "a": "A mata de pinheiros da Penha e a Ecopista do Rio Ave são as opções mais constantemente sombreadas perto de Guimarães em julho-agosto."}
+        {
+          "q": "O meu cão pode subir no teleférico da Penha?",
+          "a": "Sim, os cães com trela são aceites nas cabines ao colo do dono; uma cabine cabe quatro pessoas mais um cão. A viagem de 5 minutos a partir da cidade evita 4 km de estrada."
+        },
+        {
+          "q": "Há um parque canino sem trela em Guimarães?",
+          "a": "Sim, o Parque da Cidade tem uma zona sem trela vedada. Fora daí, todo o concelho é com trela por defeito."
+        },
+        {
+          "q": "Onde encontrar passeios sombreados em pleno verão?",
+          "a": "A mata de pinheiros da Penha e a Ecopista do Rio Ave são as opções mais constantemente sombreadas perto de Guimarães em julho-agosto."
+        }
       ]
     },
     "transport": {
@@ -273,7 +345,7 @@
       "introEn": "Guimarães sits at the eastern end of CP's Linha de Guimarães urban line from Porto São Bento (1h10), is served by the TUG municipal bus network inside the city, and is linked to the Penha summit by Portugal's longest cable car. Portuguese rules let small dogs in carriers ride free and accept large muzzled leashed dogs at off-peak hours; the Teleférico da Penha welcomes leashed dogs on every cabin.",
       "introFr": "Guimarães se trouve au terminus est de la Linha de Guimarães urbaine CP depuis Porto São Bento (1h10), est desservie par le réseau de bus municipal TUG en ville, et reliée au sommet de la Penha par le plus long téléphérique du Portugal. La réglementation portugaise permet aux petits chiens en sac de voyager gratuitement et accepte les grands chiens en laisse et muselière en heures creuses ; le Teleférico da Penha accueille les chiens en laisse dans chaque cabine.",
       "introEs": "Guimarães se halla en el extremo este de la Linha de Guimarães urbana CP desde Porto São Bento (1h10), está servida por la red de autobuses municipales TUG en la ciudad, y enlazada a la cima da Penha por el teleférico más largo de Portugal. La normativa portuguesa permite a los perros pequeños en transportín viajar gratis y admite a los grandes con correa y bozal en horas valle; el Teleférico da Penha admite perros con correa en cada cabina.",
-      "introPt": "Guimarães situa-se no extremo leste da Linha de Guimarães urbana CP a partir do Porto São Bento (1h10), é servida pela rede de autocarros municipais TUG na cidade, e ligada ao topo da Penha pelo teleférico mais longo de Portugal. A regulamentação portuguesa permite aos cães pequenos em transportadora viajar grátis e aceita os grandes com trela e açaime em horas de menor afluência; o Teleférico da Penha aceita cães com trela em cada cabine.",
+      "introPt": "Guimarães situa-se no extremo leste da Linha de Guimarães urbana CP a partir do Porto São Bento (1h10), é servida pela rede de autocarros municipais TUG na cidade, e ligada ao topo da Penha pelo teleférico mais longo de Portugal. A regulamentação portuguesa deixa os cães pequenos em transportadora viajar grátis e aceita os grandes com trela e açaime em horas de menor afluência; o Teleférico da Penha aceita cães com trela em cada cabine.",
       "places": [
         {
           "name": "CP Linha de Guimarães (urban train from Porto)",
@@ -295,7 +367,7 @@
           "name": "TUG Guimarães municipal bus",
           "address": "Central de Camionagem, Alameda Mariano Felgueiras, 4810-208 Guimarães",
           "neighborhood": "Guimarães centre",
-          "photo": "/images/city-places/guimaraes-transport-tug-bus.jpg",
+          "photo": "/images/city-places/guimaraes-transport-tug-guimaraes-municipal-bus.jpg",
           "website": "https://www.tug.com.pt/",
           "description": "The TUG municipal bus network operates roughly twenty lines covering the historic centre, the Penha base station, Couros tannery district, the university and surrounding parishes. Single fare around EUR 1.65; small dogs in carriers ride free, large leashed dogs accepted at the driver's discretion.",
           "descriptionFr": "Le réseau de bus municipal TUG exploite environ vingt lignes couvrant le centre historique, la station basse de la Penha, le quartier des Couros (tanneries), l'université et les paroisses environnantes. Tarif unique environ 1,65 € ; petits chiens en cage gratuits, grands chiens en laisse acceptés à la discrétion du chauffeur.",
@@ -304,14 +376,14 @@
           "petPolicy": "Small dogs in carrier free; large dogs at driver discretion when bus not full",
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens à la discrétion du chauffeur quand le bus n'est pas plein",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes a discreción del conductor cuando el bus no está lleno",
-          "petPolicyPt": "Cães pequenos em transportadora grátis; grandes à discrição do motorista quando o autocarro não está cheio",
+          "petPolicyPt": "Cães pequenos em transportadora grátis; grandes à discrição do motorista quando o autocarro vai com lugares",
           "googleMapsUrl": "https://maps.google.com/?q=Central+de+Camionagem+Guimaraes"
         },
         {
           "name": "Teleférico da Penha",
           "address": "Rua de Aristides Sousa Mendes, 4810-026 Guimarães",
           "neighborhood": "Costa base station",
-          "photo": "/images/city-places/guimaraes-transport-teleferico-penha.jpg",
+          "photo": "/images/city-places/guimaraes-transport-teleferico-da-penha.jpg",
           "website": "https://www.turipenha.pt/",
           "description": "Portugal's longest cable car climbs 1.7 km from the city's southern edge to the Penha summit in 7 minutes, with cabins for four passengers plus dog. Round-trip about EUR 6.20, dogs travel free in the cabin on the owner's lap; the most painless way up to the mountain trails and sanctuary.",
           "descriptionFr": "Le plus long téléphérique du Portugal grimpe sur 1,7 km depuis la lisière sud de la ville jusqu'au sommet de la Penha en 7 minutes, en cabines de quatre passagers plus chien. Aller-retour environ 6,20 €, les chiens voyagent gratuitement dans la cabine sur les genoux du maître ; le moyen le plus indolore d'accéder aux sentiers de montagne et au sanctuaire.",
@@ -345,24 +417,60 @@
         "O Teleférico da Penha fecha às segundas em época baixa (novembro-março); planeie o passeio da Penha de terça a domingo se quiser a opção do teleférico."
       ],
       "faqsEn": [
-        {"q": "Do I need a muzzle for my dog on the train to Porto?", "a": "Yes, larger dogs not in a carrier must wear a muzzle on CP urban trains. Small dogs in closed carriers are exempt and ride free."},
-        {"q": "Can I take my dog on the TUG bus?", "a": "Yes, small dogs in carriers ride free; large dogs are accepted at the driver's discretion when the bus is not full."},
-        {"q": "Is Porto airport OPO pet-friendly?", "a": "Yes, OPO accepts leashed dogs in the public terminal areas and TAP Portugal accepts cabin pets under 8 kg with advance booking. The airport is 60 km west of Guimarães via the A7-A3 motorways (45 min by car)."}
+        {
+          "q": "Do I need a muzzle for my dog on the train to Porto?",
+          "a": "Yes, larger dogs not in a carrier must wear a muzzle on CP urban trains. Small dogs in closed carriers are exempt and ride free."
+        },
+        {
+          "q": "Can I take my dog on the TUG bus?",
+          "a": "Yes, small dogs in carriers ride free; large dogs are accepted at the driver's discretion when the bus is not full."
+        },
+        {
+          "q": "Is Porto airport OPO pet-friendly?",
+          "a": "Yes, OPO accepts leashed dogs in the public terminal areas and TAP Portugal accepts cabin pets under 8 kg with advance booking. The airport is 60 km west of Guimarães via the A7-A3 motorways (45 min by car)."
+        }
       ],
       "faqsFr": [
-        {"q": "Ai-je besoin d'une muselière dans le train pour Porto ?", "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans les trains CP urbano. Les petits chiens en cage fermée en sont exemptés et voyagent gratuitement."},
-        {"q": "Puis-je prendre le bus TUG avec mon chien ?", "a": "Oui, les petits chiens en cage voyagent gratuitement ; les grands sont acceptés à la discrétion du chauffeur quand le bus n'est pas plein."},
-        {"q": "L'aéroport de Porto OPO est-il pet-friendly ?", "a": "Oui, OPO accepte les chiens en laisse dans les zones publiques du terminal et TAP Portugal accepte les animaux en cabine sous 8 kg sur réservation préalable. L'aéroport est à 60 km à l'ouest de Guimarães par les autoroutes A7-A3 (45 min en voiture)."}
+        {
+          "q": "Ai-je besoin d'une muselière dans le train pour Porto ?",
+          "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans les trains CP urbano. Les petits chiens en cage fermée en sont exemptés et voyagent gratuitement."
+        },
+        {
+          "q": "Puis-je prendre le bus TUG avec mon chien ?",
+          "a": "Oui, les petits chiens en cage voyagent gratuitement ; les grands sont acceptés à la discrétion du chauffeur quand le bus n'est pas plein."
+        },
+        {
+          "q": "L'aéroport de Porto OPO est-il pet-friendly ?",
+          "a": "Oui, OPO accepte les chiens en laisse dans les zones publiques du terminal et TAP Portugal accepte les animaux en cabine sous 8 kg sur réservation préalable. L'aéroport est à 60 km à l'ouest de Guimarães par les autoroutes A7-A3 (45 min en voiture)."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Necesito bozal para mi perro en el tren a Oporto?", "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en los trenes CP urbano. Los perros pequeños en transportín cerrado están exentos y viajan gratis."},
-        {"q": "¿Puedo coger el autobús TUG con mi perro?", "a": "Sí, los perros pequeños en transportín viajan gratis; los grandes se admiten a discreción del conductor cuando el bus no está lleno."},
-        {"q": "¿El aeropuerto de Oporto OPO es pet-friendly?", "a": "Sí, OPO admite perros con correa en las zonas públicas del terminal y TAP Portugal acepta mascotas en cabina hasta 8 kg con reserva previa. El aeropuerto está a 60 km al oeste de Guimarães vía las autopistas A7-A3 (45 min en coche)."}
+        {
+          "q": "¿Necesito bozal para mi perro en el tren a Oporto?",
+          "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en los trenes CP urbano. Los perros pequeños en transportín cerrado están exentos y viajan gratis."
+        },
+        {
+          "q": "¿Puedo coger el autobús TUG con mi perro?",
+          "a": "Sí, los perros pequeños en transportín viajan gratis; los grandes se admiten a discreción del conductor cuando el bus no está lleno."
+        },
+        {
+          "q": "¿El aeropuerto de Oporto OPO es pet-friendly?",
+          "a": "Sí, OPO admite perros con correa en las zonas públicas del terminal y TAP Portugal acepta mascotas en cabina hasta 8 kg con reserva previa. El aeropuerto está a 60 km al oeste de Guimarães vía las autopistas A7-A3 (45 min en coche)."
+        }
       ],
       "faqsPt": [
-        {"q": "Preciso de açaime para o meu cão no comboio para o Porto?", "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime nos comboios CP urbano. Os cães pequenos em transportadora fechada estão isentos e viajam grátis."},
-        {"q": "Posso apanhar o autocarro TUG com o meu cão?", "a": "Sim, os cães pequenos em transportadora viajam grátis; os grandes são aceites à discrição do motorista quando o autocarro não está cheio."},
-        {"q": "O aeroporto do Porto OPO é pet-friendly?", "a": "Sim, o OPO aceita cães com trela nas zonas públicas do terminal e a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia. O aeroporto fica a 60 km a oeste de Guimarães pelas auto-estradas A7-A3 (45 min de carro)."}
+        {
+          "q": "Preciso de açaime para o meu cão no comboio para o Porto?",
+          "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime nos comboios CP urbano. Os cães pequenos em transportadora fechada estão isentos e viajam grátis."
+        },
+        {
+          "q": "Posso apanhar o autocarro TUG com o meu cão?",
+          "a": "Sim, os cães pequenos em transportadora viajam grátis; os grandes são aceites à discrição do motorista quando o autocarro vai com lugares."
+        },
+        {
+          "q": "O aeroporto do Porto OPO é pet-friendly?",
+          "a": "Sim, o OPO aceita cães com trela nas zonas públicas do terminal e a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia. O aeroporto fica a 60 km a oeste de Guimarães pelas auto-estradas A7-A3 (45 min de carro)."
+        }
       ]
     },
     "beaches": {
@@ -383,7 +491,7 @@
           "rules": "Leashed dogs year-round in the park and outside the lifeguarded zones",
           "facilities": "Free parking, picnic tables, cafés in Caldas das Taipas town centre",
           "googleMapsUrl": "https://maps.google.com/?q=Parque+das+Taipas+Caldas+das+Taipas",
-          "photo": "/images/city-places/guimaraes-beaches-parque-das-taipas.jpg"
+          "photo": "/images/city-places/guimaraes-beaches-parque-das-taipas-rio-ave-riverside.jpg"
         },
         {
           "name": "Praia fluvial da Veiga do Cávado (Vieira do Minho)",
@@ -393,7 +501,7 @@
           "rules": "Leashed dogs welcome along the riverbank and in unsupervised areas year-round",
           "facilities": "Free parking, picnic tables, seasonal café",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+fluvial+Veiga+do+Cavado",
-          "photo": "/images/city-places/guimaraes-beaches-veiga-cavado.jpg"
+          "photo": "/images/city-places/guimaraes-beaches-praia-fluvial-da-veiga-do-cavado-vieira-do-minho.jpg"
         },
         {
           "name": "Termas das Taipas thermal complex (outdoor pools)",
@@ -403,7 +511,7 @@
           "rules": "Leashed dogs allowed in the park; pool area assistance dogs only",
           "facilities": "Café, restaurant, toilets, paid parking",
           "googleMapsUrl": "https://maps.google.com/?q=Termas+das+Taipas",
-          "photo": "/images/city-places/guimaraes-beaches-termas-taipas.jpg"
+          "photo": "/images/city-places/guimaraes-beaches-termas-das-taipas-thermal-complex-outdoor-pools.jpg"
         }
       ],
       "tipsEn": [
@@ -427,24 +535,60 @@
         "O Cávado e o Ave mantêm-se frios (16-19 °C) mesmo em julho; deixe o seu cão testar a água antes de qualquer banho prolongado."
       ],
       "faqsEn": [
-        {"q": "Is Guimarães on the coast?", "a": "No, Guimarães is 60 km inland in the Minho province. The nearest Atlantic dog beaches are at Vila do Conde and Póvoa de Varzim, about 50 km west by car."},
-        {"q": "Can my dog swim in the Rio Ave?", "a": "Yes, leashed dogs can paddle in the river at the Parque das Taipas and other unsupervised river spots year-round. The official summer bathing zones (June 15-September 15) restrict dogs near lifeguard flags."},
-        {"q": "Are there thermal pools that admit dogs?", "a": "No, the Termas das Taipas pool area is for paying guests with assistance dogs only. The surrounding riverside park admits leashed dogs and is open year-round."}
+        {
+          "q": "Is Guimarães on the coast?",
+          "a": "No, Guimarães is 60 km inland in the Minho province. The nearest Atlantic dog beaches are at Vila do Conde and Póvoa de Varzim, about 50 km west by car."
+        },
+        {
+          "q": "Can my dog swim in the Rio Ave?",
+          "a": "Yes, leashed dogs can paddle in the river at the Parque das Taipas and other unsupervised river spots year-round. The official summer bathing zones (June 15-September 15) restrict dogs near lifeguard flags."
+        },
+        {
+          "q": "Are there thermal pools that admit dogs?",
+          "a": "No, the Termas das Taipas pool area is for paying guests with assistance dogs only. The surrounding riverside park admits leashed dogs and is open year-round."
+        }
       ],
       "faqsFr": [
-        {"q": "Guimarães est-elle sur la côte ?", "a": "Non, Guimarães est à 60 km à l'intérieur des terres dans la province du Minho. Les plus proches plages canines atlantiques sont à Vila do Conde et Póvoa de Varzim, à environ 50 km à l'ouest en voiture."},
-        {"q": "Mon chien peut-il se baigner dans le Rio Ave ?", "a": "Oui, les chiens en laisse peuvent barboter dans la rivière au Parque das Taipas et aux autres spots non surveillés toute l'année. Les zones officielles de baignade estivale (15 juin-15 septembre) restreignent les chiens près des drapeaux de sauveteurs."},
-        {"q": "Existe-t-il des piscines thermales qui admettent les chiens ?", "a": "Non, l'espace piscine des Termas das Taipas est réservé aux clients payants avec chiens d'assistance uniquement. Le parc riverain alentour admet les chiens en laisse et est ouvert toute l'année."}
+        {
+          "q": "Guimarães est-elle sur la côte ?",
+          "a": "Non, Guimarães est à 60 km à l'intérieur des terres dans la province du Minho. Les plus proches plages canines atlantiques sont à Vila do Conde et Póvoa de Varzim, à environ 50 km à l'ouest en voiture."
+        },
+        {
+          "q": "Mon chien peut-il se baigner dans le Rio Ave ?",
+          "a": "Oui, les chiens en laisse peuvent barboter dans la rivière au Parque das Taipas et aux autres spots non surveillés toute l'année. Les zones officielles de baignade estivale (15 juin-15 septembre) restreignent les chiens près des drapeaux de sauveteurs."
+        },
+        {
+          "q": "Existe-t-il des piscines thermales qui admettent les chiens ?",
+          "a": "Non, l'espace piscine des Termas das Taipas est réservé aux clients payants avec chiens d'assistance uniquement. Le parc riverain alentour admet les chiens en laisse et est ouvert toute l'année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Guimarães está en la costa?", "a": "No, Guimarães está a 60 km tierra adentro en la provincia del Minho. Las playas caninas atlánticas más cercanas están en Vila do Conde y Póvoa de Varzim, a unos 50 km al oeste en coche."},
-        {"q": "¿Mi perro puede bañarse en el Rio Ave?", "a": "Sí, los perros con correa pueden chapotear en el río en el Parque das Taipas y otros lugares no vigilados todo el año. Las zonas oficiales de baño estival (15 junio-15 septiembre) restringen los perros cerca de las banderas de los socorristas."},
-        {"q": "¿Existen piscinas termales que admitan perros?", "a": "No, la zona de piscina de las Termas das Taipas es para clientes de pago con perros de asistencia solamente. El parque ribereño circundante admite perros con correa y está abierto todo el año."}
+        {
+          "q": "¿Guimarães está en la costa?",
+          "a": "No, Guimarães está a 60 km tierra adentro en la provincia del Minho. Las playas caninas atlánticas más cercanas están en Vila do Conde y Póvoa de Varzim, a unos 50 km al oeste en coche."
+        },
+        {
+          "q": "¿Mi perro puede bañarse en el Rio Ave?",
+          "a": "Sí, los perros con correa pueden chapotear en el río en el Parque das Taipas y otros lugares no vigilados todo el año. Las zonas oficiales de baño estival (15 junio-15 septiembre) restringen los perros cerca de las banderas de los socorristas."
+        },
+        {
+          "q": "¿Existen piscinas termales que admitan perros?",
+          "a": "No, la zona de piscina de las Termas das Taipas es para clientes de pago con perros de asistencia solamente. El parque ribereño circundante admite perros con correa y está abierto todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Guimarães fica na costa?", "a": "Não, Guimarães fica a 60 km do mar, no Minho. As praias caninas atlânticas mais próximas ficam em Vila do Conde e Póvoa de Varzim, a cerca de 50 km a oeste de carro."},
-        {"q": "O meu cão pode banhar-se no Rio Ave?", "a": "Sim, os cães com trela podem chapinhar no rio no Parque das Taipas e noutros locais não vigiados o ano inteiro. As zonas balneares oficiais de verão (15 junho-15 setembro) restringem os cães perto das bandeiras dos nadadores-salvadores."},
-        {"q": "Existem piscinas termais que aceitem cães?", "a": "Não, a zona de piscina das Termas das Taipas é para clientes pagantes apenas com cães de assistência. O parque ribeirinho envolvente aceita cães com trela e está aberto o ano inteiro."}
+        {
+          "q": "Guimarães fica na costa?",
+          "a": "Não, Guimarães fica a 60 km do mar, no Minho. As praias caninas atlânticas mais próximas ficam em Vila do Conde e Póvoa de Varzim, a cerca de 50 km a oeste de carro."
+        },
+        {
+          "q": "O meu cão pode banhar-se no Rio Ave?",
+          "a": "Sim, os cães com trela podem chapinhar no rio no Parque das Taipas e noutros locais não vigiados o ano inteiro. As zonas balneares oficiais de verão (15 junho-15 setembro) restringem os cães perto das bandeiras dos nadadores-salvadores."
+        },
+        {
+          "q": "Existem piscinas termais que aceitem cães?",
+          "a": "Não, a zona de piscina das Termas das Taipas é para clientes pagantes apenas com cães de assistência. O parque ribeirinho envolvente aceita cães com trela e fica aberto o ano inteiro."
+        }
       ]
     },
     "vets": {
@@ -470,7 +614,7 @@
           "hoursPt": "Linha de urgência 24/7; clínica seg-sáb 9:00-20:00",
           "englishSpeaking": true,
           "website": "https://www.hvguimaraes.pt/",
-          "photo": "/images/city-places/guimaraes-vets-hvguimaraes.jpg",
+          "photo": "/images/city-places/guimaraes-vets-hospital-veterinario-de-guimaraes.jpg",
           "description": "The reference veterinary hospital for the Vale do Ave region, with imaging, surgery, internal medicine and after-hours emergency cover. Located on Rua de Santa Luzia just south of the historic centre, with easy parking and an English-speaking senior team.",
           "descriptionFr": "L'hôpital vétérinaire de référence pour la région du Vale do Ave, avec imagerie, chirurgie, médecine interne et couverture d'urgence hors heures. Situé Rua de Santa Luzia juste au sud du centre historique, avec parking facile et équipe senior anglophone.",
           "descriptionEs": "El hospital veterinario de referencia para la región del Vale do Ave, con imagen, cirugía, medicina interna y cobertura de urgencias fuera de horario. Situado en la Rua de Santa Luzia justo al sur del centro histórico, con aparcamiento fácil y equipo senior anglófono.",
@@ -483,7 +627,10 @@
           "servicesFr": "Urgences, chirurgie, imagerie, médecine interne, dentisterie",
           "servicesEs": "Urgencias, cirugía, imagen, medicina interna, odontología",
           "servicesPt": "Urgências, cirurgia, imagem, medicina interna, dentária",
-          "languages": ["Portuguese", "English"],
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
           "openingHours": "24/7 emergency",
           "tip": "Save the emergency number before any Penha mountain walk; mobile coverage drops in the pine forest and you may need to phone ahead before driving down.",
           "tipFr": "Enregistrez le numéro d'urgence avant toute balade sur la Penha ; la couverture mobile chute en forêt de pins et il faudra peut-être appeler avant de redescendre.",
@@ -503,7 +650,7 @@
           "hoursPt": "Seg-sex 9:00-13:00 e 15:00-19:30; sáb 9:00-13:00; fechado dom",
           "englishSpeaking": true,
           "website": "https://www.facebook.com/clinicaveterinariadotoural",
-          "photo": "/images/city-places/guimaraes-vets-clinica-toural.jpg",
+          "photo": "/images/city-places/guimaraes-vets-clinica-veterinaria-do-toural.jpg",
           "description": "A central general practice on Largo do Toural, 5 minutes from Largo da Oliveira, ideal for vaccination top-ups, EU passport stamps and minor non-emergency consultations. Refers to Hospital Veterinário de Guimarães for after-hours and complex cases.",
           "descriptionFr": "Cabinet généraliste central sur le Largo do Toural, à 5 minutes du Largo da Oliveira, idéal pour rappels de vaccin, tampons sur passeport européen et consultations mineures non urgentes. Renvoie sur l'Hospital Veterinário de Guimarães pour hors heures et cas complexes.",
           "descriptionEs": "Consulta generalista céntrica en el Largo do Toural, a 5 minutos del Largo da Oliveira, ideal para refuerzos de vacuna, sellos de pasaporte europeo y consultas menores no urgentes. Deriva al Hospital Veterinário de Guimarães para fuera de horario y casos complejos.",
@@ -516,7 +663,10 @@
           "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie",
           "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor",
           "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia",
-          "languages": ["Portuguese", "English"],
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
           "openingHours": "Mon-Fri 9:00-13:00 / 15:00-19:30; Sat 9:00-13:00",
           "tip": "Book the first morning slot for same-day EU passport sign-off before a flight from Porto OPO; afternoons fill with local consultations.",
           "tipFr": "Réservez le premier créneau du matin pour une validation passeport européen le jour même avant un vol depuis Porto OPO ; les après-midis se remplissent de consultations locales.",
@@ -536,7 +686,7 @@
           "hoursPt": "Urgências e especialidades 24/7",
           "englishSpeaking": true,
           "website": "https://www.upvet.pt/",
-          "photo": "/images/city-places/guimaraes-vets-upvet.jpg",
+          "photo": "/images/city-places/guimaraes-vets-upvet-hospital-veterinario-de-referencia-porto.jpg",
           "description": "The veterinary teaching hospital of the University of Porto, the specialty 24/7 referral hospital for northern Portugal. Covers cardiology, oncology, neurology and complex surgery that the Hospital Veterinário de Guimarães may refer onwards; 50 minutes from Guimarães via the A7-A3 motorways.",
           "descriptionFr": "L'hôpital vétérinaire universitaire de l'Université de Porto, hôpital de référence spécialisé 24h/24 pour le nord du Portugal. Couvre cardiologie, oncologie, neurologie et chirurgie complexe que l'Hospital Veterinário de Guimarães peut adresser ; à 50 minutes de Guimarães par les autoroutes A7-A3.",
           "descriptionEs": "El hospital veterinario universitario de la Universidad de Oporto, hospital de referencia especializado 24/7 para el norte de Portugal. Cubre cardiología, oncología, neurología y cirugía compleja que el Hospital Veterinário de Guimarães puede derivar; a 50 minutos de Guimarães vía las autopistas A7-A3.",
@@ -549,7 +699,10 @@
           "servicesFr": "Cardiologie, oncologie, neurologie, chirurgie complexe, soins intensifs 24h",
           "servicesEs": "Cardiología, oncología, neurología, cirugía compleja, UCI 24h",
           "servicesPt": "Cardiologia, oncologia, neurologia, cirurgia complexa, UCI 24h",
-          "languages": ["Portuguese", "English"],
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
           "openingHours": "24/7",
           "tip": "Drive yourself rather than call a taxi if your dog is bleeding or seizing; the A7-A3 transfer to Vairão is quicker than waiting for a pet-taxi at night.",
           "tipFr": "Conduisez-vous plutôt que d'appeler un taxi si votre chien saigne ou convulse ; le transfert A7-A3 vers Vairão est plus rapide que d'attendre un pet-taxi la nuit.",
@@ -579,24 +732,60 @@
         "Leve fisicamente o seu passaporte europeu para animais a toda a visita veterinária; as clínicas precisam de ver o carimbo antirrábico antes de qualquer prescrição."
       ],
       "faqsEn": [
-        {"q": "Where is the closest 24h vet to Guimarães?", "a": "The Hospital Veterinário de Guimarães on Rua de Santa Luzia (+351 253 511 020) runs the 24/7 emergency line for the city and the Vale do Ave region, 1.5 km south of the historic centre."},
-        {"q": "Do Guimarães vets speak English?", "a": "Yes at the Hospital Veterinário de Guimarães and the central Clínica do Toural; senior vets are universally fluent thanks to the expat and tourist clientele linked to the UNESCO town."},
-        {"q": "Can I get an EU pet passport stamp before flying out of Porto?", "a": "Yes, both listed Guimarães clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs."}
+        {
+          "q": "Where is the closest 24h vet to Guimarães?",
+          "a": "The Hospital Veterinário de Guimarães on Rua de Santa Luzia (+351 253 511 020) runs the 24/7 emergency line for the city and the Vale do Ave region, 1.5 km south of the historic centre."
+        },
+        {
+          "q": "Do Guimarães vets speak English?",
+          "a": "Yes at the Hospital Veterinário de Guimarães and the central Clínica do Toural; senior vets are universally fluent thanks to the expat and tourist clientele linked to the UNESCO town."
+        },
+        {
+          "q": "Can I get an EU pet passport stamp before flying out of Porto?",
+          "a": "Yes, both listed Guimarães clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est le vétérinaire 24h le plus proche de Guimarães ?", "a": "L'Hospital Veterinário de Guimarães sur la Rua de Santa Luzia (+351 253 511 020) exploite la ligne d'urgence 24h/24 pour la ville et la région du Vale do Ave, à 1,5 km au sud du centre historique."},
-        {"q": "Les vétérinaires de Guimarães parlent-ils anglais ?", "a": "Oui à l'Hospital Veterinário de Guimarães et à la Clínica do Toural centrale ; les vétérinaires seniors le parlent couramment grâce à la clientèle expatriée et touristique liée à la ville UNESCO."},
-        {"q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Porto ?", "a": "Oui, les deux cliniques de Guimarães listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles pour chiens en bonne santé."}
+        {
+          "q": "Où est le vétérinaire 24h le plus proche de Guimarães ?",
+          "a": "L'Hospital Veterinário de Guimarães sur la Rua de Santa Luzia (+351 253 511 020) exploite la ligne d'urgence 24h/24 pour la ville et la région du Vale do Ave, à 1,5 km au sud du centre historique."
+        },
+        {
+          "q": "Les vétérinaires de Guimarães parlent-ils anglais ?",
+          "a": "Oui à l'Hospital Veterinário de Guimarães et à la Clínica do Toural centrale ; les vétérinaires seniors le parlent couramment grâce à la clientèle expatriée et touristique liée à la ville UNESCO."
+        },
+        {
+          "q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Porto ?",
+          "a": "Oui, les deux cliniques de Guimarães listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles pour chiens en bonne santé."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el veterinario 24h más cercano de Guimarães?", "a": "El Hospital Veterinário de Guimarães en la Rua de Santa Luzia (+351 253 511 020) gestiona la línea de urgencias 24/7 para la ciudad y la región del Vale do Ave, a 1,5 km al sur del centro histórico."},
-        {"q": "¿Los veterinarios de Guimarães hablan inglés?", "a": "Sí en el Hospital Veterinário de Guimarães y en la Clínica do Toural central; los veterinarios senior son fluidos gracias a la clientela expatriada y turística vinculada a la ciudad UNESCO."},
-        {"q": "¿Puedo sellar un pasaporte UE antes de volar desde Oporto?", "a": "Sí, las dos clínicas de Guimarães listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles para perros sanos."}
+        {
+          "q": "¿Dónde está el veterinario 24h más cercano de Guimarães?",
+          "a": "El Hospital Veterinário de Guimarães en la Rua de Santa Luzia (+351 253 511 020) gestiona la línea de urgencias 24/7 para la ciudad y la región del Vale do Ave, a 1,5 km al sur del centro histórico."
+        },
+        {
+          "q": "¿Los veterinarios de Guimarães hablan inglés?",
+          "a": "Sí en el Hospital Veterinário de Guimarães y en la Clínica do Toural central; los veterinarios senior son fluidos gracias a la clientela expatriada y turística vinculada a la ciudad UNESCO."
+        },
+        {
+          "q": "¿Puedo sellar un pasaporte UE antes de volar desde Oporto?",
+          "a": "Sí, las dos clínicas de Guimarães listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles para perros sanos."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o veterinário 24h mais próximo de Guimarães?", "a": "O Hospital Veterinário de Guimarães na Rua de Santa Luzia (+351 253 511 020) gere a linha de urgência 24/7 para a cidade e a região do Vale do Ave, a 1,5 km a sul do centro histórico."},
-        {"q": "Os veterinários de Guimarães falam inglês?", "a": "Sim no Hospital Veterinário de Guimarães e na Clínica do Toural central; os veterinários seniores são fluentes graças à clientela expatriada e turística ligada à cidade UNESCO."},
-        {"q": "Posso carimbar um passaporte UE antes de voar do Porto?", "a": "Sim, as duas clínicas de Guimarães listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."}
+        {
+          "q": "Onde fica o veterinário 24h mais próximo de Guimarães?",
+          "a": "O Hospital Veterinário de Guimarães na Rua de Santa Luzia (+351 253 511 020) gere a linha de urgência 24/7 para a cidade e a região do Vale do Ave, a 1,5 km a sul do centro histórico."
+        },
+        {
+          "q": "Os veterinários de Guimarães falam inglês?",
+          "a": "Sim no Hospital Veterinário de Guimarães e na Clínica do Toural central; os veterinários seniores são fluentes graças à clientela expatriada e turística ligada à cidade UNESCO."
+        },
+        {
+          "q": "Posso carimbar um passaporte UE antes de voar do Porto?",
+          "a": "Sim, as duas clínicas de Guimarães listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."
+        }
       ]
     },
     "tips": {
@@ -634,28 +823,64 @@
         "Portugal exige passaporte europeu, microchip ISO e vacinação antirrábica válida; suficiente de qualquer país UE, sem tratamento antiparasitário exigido.",
         "A lei portuguesa restringe as raças consideradas potencialmente perigosas (Pit Bull, Rottweiler, tipos Staffordshire) que exigem seguro de responsabilidade civil e açaime em público; verifique antes de viajar.",
         "A calçada de granito do centro histórico é escorregadia quando molhada (frequente no inverno) e muito quente em pleno verão; considere protecção para as almofadas nas caminhadas de meio-dia em julho-agosto.",
-        "O aeroporto do Porto OPO está a 60 km a oeste pelas auto-estradas A7-A3 (45 min de carro); a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia.",
+        "O aeroporto do Porto OPO fica a 60 km a oeste pelas auto-estradas A7-A3 (45 min de carro); a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia.",
         "O Minho é a região mais chuvosa de Portugal; leve toalha para cão e impermeável entre novembro e março."
       ],
       "faqsEn": [
-        {"q": "Is Guimarães a good base for a pet-friendly Minho holiday?", "a": "Yes, the combination of walkable UNESCO old town, Penha mountain trails reached by a dog-friendly cable car, the 12 km Rio Ave ecotrack, and 24/7 vet cover makes it the strongest pet base in the eastern Minho."},
-        {"q": "Do I need a muzzle in public in Guimarães?", "a": "Only for breeds on the Portuguese restricted-breeds list; standard breeds need only a leash. The TUG bus and CP urban train accept muzzled large dogs and free small dogs in carriers."},
-        {"q": "What is the best month for Guimarães with a dog?", "a": "May-June and September-October: mild temperatures, lower humidity, lighter crowds and full access to Penha trails and the Ave ecotrack outside the hottest summer afternoons."}
+        {
+          "q": "Is Guimarães a good base for a pet-friendly Minho holiday?",
+          "a": "Yes, the combination of walkable UNESCO old town, Penha mountain trails reached by a dog-friendly cable car, the 12 km Rio Ave ecotrack, and 24/7 vet cover makes it the strongest pet base in the eastern Minho."
+        },
+        {
+          "q": "Do I need a muzzle in public in Guimarães?",
+          "a": "Only for breeds on the Portuguese restricted-breeds list; standard breeds need only a leash. The TUG bus and CP urban train accept muzzled large dogs and free small dogs in carriers."
+        },
+        {
+          "q": "What is the best month for Guimarães with a dog?",
+          "a": "May-June and September-October: mild temperatures, lower humidity, lighter crowds and full access to Penha trails and the Ave ecotrack outside the hottest summer afternoons."
+        }
       ],
       "faqsFr": [
-        {"q": "Guimarães est-elle une bonne base pour des vacances pet-friendly dans le Minho ?", "a": "Oui, la combinaison de vieille ville UNESCO à pied, sentiers de montagne de la Penha accessibles par téléphérique dog-friendly, voie verte du Rio Ave de 12 km et couverture vétérinaire 24h/24 en font la meilleure base canine de l'est du Minho."},
-        {"q": "Ai-je besoin d'une muselière en public à Guimarães ?", "a": "Seulement pour les races figurant sur la liste portugaise des races restreintes ; les races standard n'ont besoin que d'une laisse. Le bus TUG et le train CP urbano acceptent les grands chiens muselés et gratuitement les petits en cage."},
-        {"q": "Quel est le meilleur mois à Guimarães avec un chien ?", "a": "Mai-juin et septembre-octobre : températures douces, humidité plus basse, moins de monde et accès complet aux sentiers de la Penha et à la voie verte de l'Ave hors des après-midis d'été les plus chauds."}
+        {
+          "q": "Guimarães est-elle une bonne base pour des vacances pet-friendly dans le Minho ?",
+          "a": "Oui, la combinaison de vieille ville UNESCO à pied, sentiers de montagne de la Penha accessibles par téléphérique dog-friendly, voie verte du Rio Ave de 12 km et couverture vétérinaire 24h/24 en font la meilleure base canine de l'est du Minho."
+        },
+        {
+          "q": "Ai-je besoin d'une muselière en public à Guimarães ?",
+          "a": "Seulement pour les races figurant sur la liste portugaise des races restreintes ; les races standard n'ont besoin que d'une laisse. Le bus TUG et le train CP urbano acceptent les grands chiens muselés et gratuitement les petits en cage."
+        },
+        {
+          "q": "Quel est le meilleur mois à Guimarães avec un chien ?",
+          "a": "Mai-juin et septembre-octobre : températures douces, humidité plus basse, moins de monde et accès complet aux sentiers de la Penha et à la voie verte de l'Ave hors des après-midis d'été les plus chauds."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Guimarães una buena base para unas vacaciones pet-friendly en el Minho?", "a": "Sí, la combinación de casco antiguo UNESCO a pie, senderos de montaña da Penha accesibles por teleférico pet-friendly, vía verde del Rio Ave de 12 km y cobertura veterinaria 24/7 la convierten en la mejor base canina del este del Minho."},
-        {"q": "¿Necesito bozal en público en Guimarães?", "a": "Solo para razas en la lista portuguesa de razas restringidas; las razas estándar solo necesitan correa. El autobús TUG y el tren CP urbano admiten perros grandes con bozal y gratis a los pequeños en transportín."},
-        {"q": "¿Cuál es el mejor mes para Guimarães con perro?", "a": "Mayo-junio y septiembre-octubre: temperaturas suaves, menor humedad, menos gente y acceso completo a los senderos da Penha y a la vía verde del Ave fuera de las tardes de verano más calurosas."}
+        {
+          "q": "¿Es Guimarães una buena base para unas vacaciones pet-friendly en el Minho?",
+          "a": "Sí, la combinación de casco antiguo UNESCO a pie, senderos de montaña da Penha accesibles por teleférico pet-friendly, vía verde del Rio Ave de 12 km y cobertura veterinaria 24/7 la convierten en la mejor base canina del este del Minho."
+        },
+        {
+          "q": "¿Necesito bozal en público en Guimarães?",
+          "a": "Solo para razas en la lista portuguesa de razas restringidas; las razas estándar solo necesitan correa. El autobús TUG y el tren CP urbano admiten perros grandes con bozal y gratis a los pequeños en transportín."
+        },
+        {
+          "q": "¿Cuál es el mejor mes para Guimarães con perro?",
+          "a": "Mayo-junio y septiembre-octubre: temperaturas suaves, menor humedad, menos gente y acceso completo a los senderos da Penha y a la vía verde del Ave fuera de las tardes de verano más calurosas."
+        }
       ],
       "faqsPt": [
-        {"q": "Guimarães é uma boa base para férias pet-friendly no Minho?", "a": "Sim, a combinação de cidade velha UNESCO a pé, trilhos de montanha da Penha acessíveis por teleférico pet-friendly, ecopista do Rio Ave de 12 km e cobertura veterinária 24/7 faz dela a melhor base canina do leste do Minho."},
-        {"q": "Preciso de açaime em público em Guimarães?", "a": "Só para raças na lista portuguesa de raças restritas; as raças standard só precisam de trela. O autocarro TUG e o comboio CP urbano aceitam cães grandes com açaime e grátis os pequenos em transportadora."},
-        {"q": "Qual é o melhor mês para Guimarães com cão?", "a": "Maio-junho e setembro-outubro: temperaturas suaves, menor humidade, menos gente e acesso completo aos trilhos da Penha e à ecopista do Ave fora das tardes de verão mais quentes."}
+        {
+          "q": "Guimarães é uma boa base para férias pet-friendly no Minho?",
+          "a": "Sim, a combinação de cidade velha UNESCO a pé, trilhos de montanha da Penha acessíveis por teleférico pet-friendly, ecopista do Rio Ave de 12 km e cobertura veterinária 24/7 faz dela a melhor base canina do leste do Minho."
+        },
+        {
+          "q": "Preciso de açaime em público em Guimarães?",
+          "a": "Só para raças na lista portuguesa de raças restritas; as raças standard só precisam de trela. O autocarro TUG e o comboio CP urbano aceitam cães grandes com açaime e grátis os pequenos em transportadora."
+        },
+        {
+          "q": "Qual é o melhor mês para Guimarães com cão?",
+          "a": "Maio-junho e setembro-outubro: temperaturas suaves, menor humidade, menos gente e acesso completo aos trilhos da Penha e à ecopista do Ave fora das tardes de verão mais quentes."
+        }
       ]
     },
     "attractions": {
@@ -671,12 +896,12 @@
         {
           "name": "Castelo de Guimarães",
           "neighborhood": "Castle hill",
-          "photo": "/images/city-places/guimaraes-attractions-castelo.jpg",
+          "photo": "/images/city-places/guimaraes-attractions-castelo-de-guimaraes.jpg",
           "website": "https://pduques.culturanorte.gov.pt/",
           "description": "The 10th-century granite castle on the hill above the city, traditional birthplace of Afonso Henriques, the first King of Portugal. The outer ramparts, keep approach and surrounding lawns are dog-friendly year-round; only the keep interior, where the small museum lives, is closed to non-assistance dogs.",
           "descriptionFr": "Le château de granit du Xᵉ siècle sur la colline au-dessus de la ville, lieu de naissance traditionnel d'Afonso Henriques, premier roi du Portugal. Les remparts extérieurs, l'approche du donjon et les pelouses environnantes sont dog-friendly toute l'année ; seul l'intérieur du donjon, où vit le petit musée, est fermé aux chiens non assistance.",
           "descriptionEs": "El castillo de granito del siglo X en la colina sobre la ciudad, lugar de nacimiento tradicional de Afonso Henriques, primer Rey de Portugal. Las murallas exteriores, el acceso a la torre del homenaje y las praderas circundantes son pet-friendly todo el año; solo el interior de la torre del homenaje, donde está el pequeño museo, está cerrado a perros que no sean de asistencia.",
-          "descriptionPt": "O castelo de granito do século X na colina sobre a cidade, local de nascimento tradicional de Afonso Henriques, primeiro Rei de Portugal. As muralhas exteriores, o acesso à torre de menagem e os relvados envolventes são pet-friendly o ano inteiro; só o interior da torre de menagem, onde vive o pequeno museu, está fechado a cães não de assistência.",
+          "descriptionPt": "O castelo de granito do século X na colina sobre a cidade, local de nascimento tradicional de Afonso Henriques, primeiro Rei de Portugal. As muralhas exteriores, o acesso à torre de menagem e os relvados envolventes são pet-friendly o ano inteiro; só o interior da torre de menagem, onde vive o pequeno museu, permanece fechado a cães não de assistência.",
           "dogPolicy": "Leashed dogs welcome on ramparts and lawns; keep interior assistance dogs only",
           "dogPolicyFr": "Chiens en laisse bienvenus sur remparts et pelouses ; intérieur du donjon uniquement chiens d'assistance",
           "dogPolicyEs": "Perros con correa bienvenidos en murallas y praderas; interior de la torre solo perros de asistencia",
@@ -694,7 +919,7 @@
         {
           "name": "Paço dos Duques de Bragança",
           "neighborhood": "Castle hill",
-          "photo": "/images/city-places/guimaraes-attractions-paco-dos-duques.jpg",
+          "photo": "/images/city-places/guimaraes-attractions-paco-dos-duques-de-braganca.jpg",
           "website": "https://pduques.culturanorte.gov.pt/",
           "description": "The 15th-century brick-and-granite ducal palace built for the first Duke of Bragança, with its 39 brick chimneys, courtyard and formal gardens. The gardens and the outer courtyard are dog-friendly year-round; the palace interior with its tapestries and museum collection admits only assistance dogs.",
           "descriptionFr": "Le palais ducal en briques et granit du XVᵉ siècle construit pour le premier duc de Bragance, avec ses 39 cheminées en briques, sa cour et ses jardins à la française. Les jardins et la cour extérieure sont dog-friendly toute l'année ; l'intérieur du palais avec ses tapisseries et sa collection muséale n'admet que les chiens d'assistance.",
@@ -717,7 +942,7 @@
         {
           "name": "Largo da Oliveira and Padrão do Salado",
           "neighborhood": "Centro histórico",
-          "photo": "/images/city-places/guimaraes-attractions-largo-da-oliveira.jpg",
+          "photo": "/images/city-places/guimaraes-attractions-largo-da-oliveira-and-padrao-do-salado.jpg",
           "website": "https://www.cm-guimaraes.pt/",
           "description": "The iconic medieval square at the heart of the UNESCO old town, named after a legendary olive tree, with the Gothic Padrão do Salado shrine (1342) commemorating the Portuguese victory at the Battle of Salado, the Igreja de Nossa Senhora da Oliveira and the granite arcades of the Antigos Paços do Concelho. The square is entirely a pedestrian outdoor public space, dog-friendly year-round.",
           "descriptionFr": "La place médiévale emblématique au cœur de la vieille ville UNESCO, baptisée d'après un olivier légendaire, avec le sanctuaire gothique du Padrão do Salado (1342) commémorant la victoire portugaise à la bataille de Salado, l'Igreja de Nossa Senhora da Oliveira et les arcades de granit des Antigos Paços do Concelho. La place est entièrement un espace public extérieur piéton, dog-friendly toute l'année.",
@@ -759,24 +984,60 @@
         "Combine a colina do castelo (Castelo + Paço) com o Largo da Oliveira e o teleférico da Penha num dia fácil, tudo é plano ou em descida assim que se sobe primeiro a Penha."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Guimarães museums?", "a": "Only assistance dogs may enter the museum interiors (Paço dos Duques, Castelo keep, Alberto Sampaio, Sociedade Martins Sarmento); leashed pets are welcome across all the squares, ramparts, gardens and outdoor heritage sites."},
-        {"q": "Can I take my dog on the Penha cable car?", "a": "Yes, leashed dogs ride free in the Teleférico da Penha cabins on owner's lap; the 7-minute ride to the summit gives the same panorama as the winding mountain road."},
-        {"q": "Is the Guimarães old town walkable with a dog?", "a": "Yes, the entire UNESCO circuit is pedestrianised and a leashed dog handles the full loop (Castelo, Paço, Largo da Oliveira, Rua de Santa Maria) in about 90 minutes."}
+        {
+          "q": "Are dogs allowed in the Guimarães museums?",
+          "a": "Only assistance dogs may enter the museum interiors (Paço dos Duques, Castelo keep, Alberto Sampaio, Sociedade Martins Sarmento); leashed pets are welcome across all the squares, ramparts, gardens and outdoor heritage sites."
+        },
+        {
+          "q": "Can I take my dog on the Penha cable car?",
+          "a": "Yes, leashed dogs ride free in the Teleférico da Penha cabins on owner's lap; the 7-minute ride to the summit gives the same panorama as the winding mountain road."
+        },
+        {
+          "q": "Is the Guimarães old town walkable with a dog?",
+          "a": "Yes, the entire UNESCO circuit is pedestrianised and a leashed dog handles the full loop (Castelo, Paço, Largo da Oliveira, Rua de Santa Maria) in about 90 minutes."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans les musées de Guimarães ?", "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des musées (Paço dos Duques, donjon du Castelo, Alberto Sampaio, Sociedade Martins Sarmento) ; les chiens en laisse sont bienvenus sur toutes les places, remparts, jardins et sites patrimoniaux en extérieur."},
-        {"q": "Puis-je prendre mon chien dans le téléphérique de la Penha ?", "a": "Oui, les chiens en laisse voyagent gratuitement dans les cabines du Teleférico da Penha sur les genoux du maître ; le trajet de 7 minutes jusqu'au sommet offre le même panorama que la route de montagne sinueuse."},
-        {"q": "La vieille ville de Guimarães est-elle accessible à pied avec un chien ?", "a": "Oui, toute le circuit UNESCO est piéton et un chien en laisse fait la boucle complète (Castelo, Paço, Largo da Oliveira, Rua de Santa Maria) en environ 90 minutes."}
+        {
+          "q": "Les chiens sont-ils autorisés dans les musées de Guimarães ?",
+          "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des musées (Paço dos Duques, donjon du Castelo, Alberto Sampaio, Sociedade Martins Sarmento) ; les chiens en laisse sont bienvenus sur toutes les places, remparts, jardins et sites patrimoniaux en extérieur."
+        },
+        {
+          "q": "Puis-je prendre mon chien dans le téléphérique de la Penha ?",
+          "a": "Oui, les chiens en laisse voyagent gratuitement dans les cabines du Teleférico da Penha sur les genoux du maître ; le trajet de 7 minutes jusqu'au sommet offre le même panorama que la route de montagne sinueuse."
+        },
+        {
+          "q": "La vieille ville de Guimarães est-elle accessible à pied avec un chien ?",
+          "a": "Oui, toute le circuit UNESCO est piéton et un chien en laisse fait la boucle complète (Castelo, Paço, Largo da Oliveira, Rua de Santa Maria) en environ 90 minutes."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en los museos de Guimarães?", "a": "Solo los perros de asistencia pueden entrar en los interiores de los museos (Paço dos Duques, torre del Castelo, Alberto Sampaio, Sociedade Martins Sarmento); los perros con correa son bienvenidos en todas las plazas, murallas, jardines y sitios patrimoniales al aire libre."},
-        {"q": "¿Puedo llevar al perro en el teleférico da Penha?", "a": "Sí, los perros con correa viajan gratis en las cabinas del Teleférico da Penha en el regazo del dueño; el trayecto de 7 minutos hasta la cima ofrece la misma panorámica que la carretera de montaña sinuosa."},
-        {"q": "¿El casco antiguo de Guimarães es accesible a pie con un perro?", "a": "Sí, todo el circuito UNESCO es peatonal y un perro con correa hace el recorrido completo (Castelo, Paço, Largo da Oliveira, Rua de Santa Maria) en unos 90 minutos."}
+        {
+          "q": "¿Se admiten perros en los museos de Guimarães?",
+          "a": "Solo los perros de asistencia pueden entrar en los interiores de los museos (Paço dos Duques, torre del Castelo, Alberto Sampaio, Sociedade Martins Sarmento); los perros con correa son bienvenidos en todas las plazas, murallas, jardines y sitios patrimoniales al aire libre."
+        },
+        {
+          "q": "¿Puedo llevar al perro en el teleférico da Penha?",
+          "a": "Sí, los perros con correa viajan gratis en las cabinas del Teleférico da Penha en el regazo del dueño; el trayecto de 7 minutos hasta la cima ofrece la misma panorámica que la carretera de montaña sinuosa."
+        },
+        {
+          "q": "¿El casco antiguo de Guimarães es accesible a pie con un perro?",
+          "a": "Sí, todo el circuito UNESCO es peatonal y un perro con correa hace el recorrido completo (Castelo, Paço, Largo da Oliveira, Rua de Santa Maria) en unos 90 minutos."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos nos museus de Guimarães?", "a": "Só os cães de assistência podem entrar nos interiores dos museus (Paço dos Duques, torre do Castelo, Alberto Sampaio, Sociedade Martins Sarmento); os cães com trela são bem-vindos em todas as praças, muralhas, jardins e sítios patrimoniais ao ar livre."},
-        {"q": "Posso levar o meu cão no teleférico da Penha?", "a": "Sim, os cães com trela viajam grátis nas cabines do Teleférico da Penha ao colo do dono; a viagem de 7 minutos até ao topo oferece a mesma panorâmica que a estrada de montanha sinuosa."},
-        {"q": "A cidade velha de Guimarães é acessível a pé com um cão?", "a": "Sim, todo o circuito UNESCO é pedonal e um cão com trela faz o circuito completo (Castelo, Paço, Largo da Oliveira, Rua de Santa Maria) em cerca de 90 minutos."}
+        {
+          "q": "Os cães são admitidos nos museus de Guimarães?",
+          "a": "Só os cães de assistência podem entrar nos interiores dos museus (Paço dos Duques, torre do Castelo, Alberto Sampaio, Sociedade Martins Sarmento); os cães com trela são bem-vindos em todas as praças, muralhas, jardins e sítios patrimoniais ao ar livre."
+        },
+        {
+          "q": "Posso levar o meu cão no teleférico da Penha?",
+          "a": "Sim, os cães com trela viajam grátis nas cabines do Teleférico da Penha ao colo do dono; a viagem de 7 minutos até ao topo oferece a mesma panorâmica que a estrada de montanha sinuosa."
+        },
+        {
+          "q": "A cidade velha de Guimarães é acessível a pé com um cão?",
+          "a": "Sim, todo o circuito UNESCO é pedonal e um cão com trela faz o circuito completo (Castelo, Paço, Largo da Oliveira, Rua de Santa Maria) em cerca de 90 minutos."
+        }
       ]
     },
     "petsitting": {
@@ -849,24 +1110,60 @@
         "Reserve com 2-3 semanas de antecedência para qualquer estadia durante as Festas da Cidade estivais (início de agosto) quando o centro histórico enche de visitantes."
       ],
       "faqsEn": [
-        {"q": "How much does pet sitting cost in Guimarães?", "a": "Expect EUR 18-28 per night for boarding and EUR 10-16 per 30-minute walk via Pawshake or DogHero; rural boarding kennels in Briteiros charge from EUR 22 per day."},
-        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Guimarães hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a Porto restaurant night or a Vinho Verde tasting in the Lima valley."},
-        {"q": "Do I need to bring my dog's food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."}
+        {
+          "q": "How much does pet sitting cost in Guimarães?",
+          "a": "Expect EUR 18-28 per night for boarding and EUR 10-16 per 30-minute walk via Pawshake or DogHero; rural boarding kennels in Briteiros charge from EUR 22 per day."
+        },
+        {
+          "q": "Can hotels recommend a sitter for an evening out?",
+          "a": "Yes, larger Guimarães hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a Porto restaurant night or a Vinho Verde tasting in the Lima valley."
+        },
+        {
+          "q": "Do I need to bring my dog's food to a sitter?",
+          "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la garde à Guimarães ?", "a": "Comptez 18-28 € par nuit en pension et 10-16 € par balade de 30 minutes via Pawshake ou DogHero ; les pensions rurales à Briteiros facturent à partir de 22 € par jour."},
-        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Guimarães gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour une soirée restaurant à Porto ou une dégustation de Vinho Verde dans la vallée du Lima."},
-        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."}
+        {
+          "q": "Combien coûte la garde à Guimarães ?",
+          "a": "Comptez 18-28 € par nuit en pension et 10-16 € par balade de 30 minutes via Pawshake ou DogHero ; les pensions rurales à Briteiros facturent à partir de 22 € par jour."
+        },
+        {
+          "q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?",
+          "a": "Oui, les grands hôtels de Guimarães gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour une soirée restaurant à Porto ou une dégustation de Vinho Verde dans la vallée du Lima."
+        },
+        {
+          "q": "Dois-je apporter la nourriture du chien au sitter ?",
+          "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el cuidado de mascotas en Guimarães?", "a": "Cuenta 18-28 € por noche en residencia y 10-16 € por paseo de 30 minutos vía Pawshake o DogHero; las residencias rurales en Briteiros cobran desde 22 € por día."},
-        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Guimarães guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una noche de restaurante en Oporto o una cata de Vinho Verde en el valle del Lima."},
-        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."}
+        {
+          "q": "¿Cuánto cuesta el cuidado de mascotas en Guimarães?",
+          "a": "Cuenta 18-28 € por noche en residencia y 10-16 € por paseo de 30 minutos vía Pawshake o DogHero; las residencias rurales en Briteiros cobran desde 22 € por día."
+        },
+        {
+          "q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?",
+          "a": "Sí, los grandes hoteles de Guimarães guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una noche de restaurante en Oporto o una cata de Vinho Verde en el valle del Lima."
+        },
+        {
+          "q": "¿Tengo que llevar la comida del perro al cuidador?",
+          "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa o cuidado de animais em Guimarães?", "a": "Conte 18-28 € por noite em creche e 10-16 € por passeio de 30 minutos via Pawshake ou DogHero; as creches rurais em Briteiros cobram desde 22 € por dia."},
-        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Guimarães guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para uma noite de restaurante no Porto ou uma prova de Vinho Verde no vale do Lima."},
-        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."}
+        {
+          "q": "Quanto custa o cuidado de animais em Guimarães?",
+          "a": "Conte 18-28 € por noite em creche e 10-16 € por passeio de 30 minutos via Pawshake ou DogHero; as creches rurais em Briteiros cobram desde 22 € por dia."
+        },
+        {
+          "q": "Os hotéis podem recomendar um sitter para uma saída à noite?",
+          "a": "Sim, os grandes hotéis de Guimarães guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para uma noite de restaurante no Porto ou uma prova de Vinho Verde no vale do Lima."
+        },
+        {
+          "q": "Tenho de levar a comida do cão ao cuidador?",
+          "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."
+        }
       ]
     }
   }

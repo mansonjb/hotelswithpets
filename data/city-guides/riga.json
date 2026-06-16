@@ -392,8 +392,8 @@
           "tipFr": "Achetez vos billets via l'application Rīgas Satiksme ou aux distributeurs, le paiement sans contact est aussi accepté à bord",
           "tipEs": "Compra billetes a través de la app Rīgas Satiksme o en máquinas expendedoras, el pago sin contacto también se acepta a bordo",
           "modePt": "Elétrico, Autocarro & Trolebús (Rīgas Satiksme)",
-          "policyPt": "Cães pequenhos transportados como equipaje de mano (en transportadora): grátis. Cães com trela: bilhete de ninho simple obrigatório (1,50 €). Máximo 2 cães por pasajero. Os cães no podem ocupar asientos.",
-          "tipPt": "Compra bilhetes a través da app Rīgas Satiksme o en máquinas expendedoras, o pago sem contacto também se aceita a bordo"
+          "policyPt": "Cães pequenos transportados como bagagem de mão (em transportadora): grátis. Cães com trela: bilhete simples de criança obrigatório (1,50 €). Máximo de 2 cães por passageiro. Os cães não podem ocupar lugares sentados.",
+          "tipPt": "Compre bilhetes através da aplicação Rīgas Satiksme ou nas máquinas de venda; o pagamento sem contacto também é aceite a bordo."
         },
         {
           "mode": "Regional Train (Latvijas Dzelzceļš)",
@@ -406,8 +406,8 @@
           "tipFr": "Les trains vers Jūrmala (plage dog-friendly en hiver) partent fréquemment de la gare centrale de Riga, le trajet dure 30 minutes",
           "tipEs": "Los trenes a Jūrmala (playa pet-friendly en invierno) salen frecuentemente de la estación central de Riga, el trayecto dura 30 minutos",
           "modePt": "Comboio regional (Latvijas Dzelzceļš)",
-          "policyPt": "Cães permitidos com bozal e trela corta. Leva o passaporte UE de tu animal o a documentação de vacinação. Bilhete necesario, consulta ldz.lv para os preços actuales.",
-          "tipPt": "Os comboios a Jūrmala (praia pet-friendly en inverno) salen frecuentemente da estação central de Riga, o trayecto dura 30 minutos"
+          "policyPt": "Cães admitidos com açaime e trela curta. Leve o passaporte UE do seu animal ou a documentação de vacinação. Bilhete obrigatório; consulte ldz.lv para os preços em vigor.",
+          "tipPt": "Os comboios para Jūrmala (praia pet-friendly no inverno) partem com frequência da Rīga Centrālā stacija; o trajeto demora 30 minutos."
         },
         {
           "mode": "Taxi / Bolt / Uber",
@@ -420,8 +420,8 @@
           "tipFr": "Bolt est l'application de VTC dominante à Riga. Utilisez le champ commentaire pour signaler que vous avez un chien",
           "tipEs": "Bolt es la app de transporte dominante en Riga. Usa el campo de comentarios para indicar que tienes un perro",
           "modePt": "Taxi / Bolt / Uber",
-          "policyPt": "Os conductores de Bolt e Uber podem rechazar animais. Os taxis estándar são generalmente mais aceptadores. Para transporte garantizado com tu animal, reserva com antelación e menciona a tu cão.",
-          "tipPt": "Bolt é a app de transporte dominante en Riga. Usa o campo de comentarios para indicar que tienes um cão"
+          "policyPt": "Os motoristas da Bolt e da Uber podem recusar animais. Os táxis convencionais costumam ser mais tolerantes. Para um transporte garantido com o seu animal, reserve com antecedência e mencione o seu cão.",
+          "tipPt": "A Bolt é a aplicação de transporte dominante em Riga. Utilize o campo de comentários para indicar que leva um cão."
         },
         {
           "mode": "Bicycle",
@@ -434,8 +434,8 @@
           "tipFr": "Louez un vélo chez Sixt Rent a Bike ou City Bike Riga. L'itinéraire le long de la rive de la Daugava est plat et excellent avec les chiens",
           "tipEs": "Alquila una bicicleta en Sixt Rent a Bike o City Bike Riga. La ruta a lo largo de la orilla del Daugava es llana y excelente con perros",
           "modePt": "Bicicleta",
-          "policyPt": "Sem restricciones oficiais. A cidade tem carriles bici bien mantenidos. Os cães pequenhos podem transportarse en cestas delanteras. Os cães grandes podem trotar al lado en rutas mais tranquilas junto al rio e nos parques.",
-          "tipPt": "Alquila uma bicicleta en Sixt Rent a Bike o City Bike Riga. A ruta a lo largo da margem do Daugava é llana e excelente com cães"
+          "policyPt": "Sem restrições oficiais. A cidade dispõe de ciclovias bem conservadas. Os cães pequenos podem ser transportados em cestos dianteiros. Os cães grandes podem trotar ao lado nos percursos mais tranquilos ao longo do rio e nos parques.",
+          "tipPt": "Alugue uma bicicleta na Sixt Rent a Bike ou na City Bike Riga. O percurso ao longo da margem do Daugava é plano e excelente com cães."
         }
       ],
       "sections": [
@@ -447,7 +447,7 @@
           "contentFr": "Site officiel Rīgas Satiksme : rigassatiksme.lv. Planificateur d'itinéraires, achat de billets, plans des lignes. Latvijas Dzelzceļš (rail national) : ldz.lv/en. Horaires, billets, infos transport animaux. Train Jūrmala : départs fréquents depuis la gare centrale de Riga, chiens autorisés avec laisse et muselière, billet obligatoire.",
           "contentEs": "Sitio oficial de Rīgas Satiksme: rigassatiksme.lv. Planificador de rutas, compra de billetes, mapas de líneas. Latvijas Dzelzceļš (tren nacional): ldz.lv/en. Horarios, billetes, info de viaje con mascotas. Tren Jūrmala: salidas frecuentes desde la estación central de Riga, perros permitidos con correa y bozal, billete necesario.",
           "titlePt": "Enlaces de transporte útiles",
-          "contentPt": "Sitio oficial de Rīgas Satiksme: rigassatiksme.lv. Planificador de rutas, compra de bilhetes, mapas de líneas. Latvijas Dzelzceļš (comboio nacional): ldz.lv/en. Horários, bilhetes, info de viaje com animais. Comboio Jūrmala: salidas frecuentes a partir da estação central de Riga, cães permitidos com trela e bozal, bilhete necesario."
+          "contentPt": "Site oficial da Rīgas Satiksme: rigassatiksme.lv. Planeador de percursos, compra de bilhetes, mapas das linhas. Latvijas Dzelzceļš (comboios nacionais): ldz.lv/en. Horários, bilhetes e informação sobre viagens com animais. Comboio para Jūrmala: partidas frequentes da Rīga Centrālā stacija, cães admitidos com trela e açaime, bilhete obrigatório."
         }
       ],
       "faqsEn": [
@@ -732,9 +732,9 @@
       "introPt": "Riga tem um bom nível de cuidados veterinários. O recurso mais importante para os donos de animais em visita é o Dr. Beinerts, uma clínica veterinária aberta 24 horas no centro da cidade, na Ģertrūdes iela, com localização central e recomendação consistente. A Letónia é membro da UE, pelo que o seu passaporte europeu para animais é válido aqui. Certifique-se de que a vacinação antirrábica do seu cão se encontra em dia antes de viajar.",
       "tipsPt": [
         "O Dr. Beinerts, na Ģertrūdes iela 101, é o principal veterinário de urgência aberto 24 horas no centro de Riga. Telefone: +371 67288539.",
-        "A Letónia é membro da UE. O seu passaporte europeu para animais é válido e suficiente. Garanta que a vacinação antirrábica está em dia.",
+        "A Letónia é membro da UE. O seu passaporte europeu para animais é válido e suficiente. Garanta que a vacinação antirrábica se encontra em dia.",
         "A maioria dos veterinários de Riga tem, pelo menos, algum pessoal que fala inglês. Tenha os registos de vacinação do seu animal acessíveis no telemóvel.",
-        "Numa emergência fora do horário de qualquer clínica, ligue para o número da clínica; o Dr. Beinerts está genuinamente aberto 24 horas."
+        "Numa emergência fora do horário de qualquer clínica, ligue para o número da clínica; o Dr. Beinerts mantém-se genuinamente aberto 24 horas."
       ],
       "faqsPt": [
         {
@@ -832,13 +832,13 @@
         "A Cidade Velha (Vecrīga) é fácil de percorrer a pé e encantadora com um cão com trela. As pedras da calçada podem ser duras para as patas; verifique-as após passeios longos.",
         "Leve uma taça de água dobrável. Os verões quentes fazem com que o seu cão precise de se hidratar com frequência, sobretudo depois das visitas aos parques.",
         "O site comunitário arsuni.lv é o melhor recurso local para locais verificados como acolhedores para cães (restaurantes, lojas, parques) em Riga.",
-        "Planeie as visitas à praia para novembro em diante; Jūrmala está vedada a cães de abril a outubro.",
-        "Os cães têm de ter microchip e levar um passaporte europeu para animais. Garanta que a vacinação antirrábica está em dia (nos últimos 12 meses)."
+        "Planeie as visitas à praia para novembro em diante; Jūrmala permanece vedada a cães de abril a outubro.",
+        "Os cães têm de ter microchip e levar um passaporte europeu para animais. Garanta que a vacinação antirrábica se encontra em dia (nos últimos 12 meses)."
       ],
       "faqsPt": [
         {
           "q": "Riga é acolhedora para cães?",
-          "a": "Sim, pelos padrões bálticos Riga é genuinamente acolhedora para cães. Os parques estão bem equipados, os transportes públicos têm regras claras para animais, e o número de restaurantes e cafés que acolhem cães está a crescer, sobretudo no bairro Arte Nova e ao longo da Miera iela."
+          "a": "Sim, pelos padrões bálticos Riga é genuinamente acolhedora para cães. Os parques estão bem equipados, os transportes públicos têm regras claras para animais, e o número de restaurantes e cafés que acolhem cães tem vindo a crescer, sobretudo no bairro Arte Nova e ao longo da Miera iela."
         },
         {
           "q": "Como é o tempo em Riga no inverno para os cães?",
@@ -1003,7 +1003,7 @@
       "introPt": "As principais visitas turísticas de Riga acolhedoras para cães centram-se nos seus extraordinários espaços ao ar livre: o bairro Arte Nova (a concentração de arquitetura Arte Nova mais bem preservada do mundo), a Cidade Velha medieval (Vecrīga), os parques do canal Pilsētas Kanāls e o Mercado Central. Os cães são bem-vindos em todas estas zonas ao ar livre com trela. Os museus em espaços fechados e a maioria dos interiores formais não aceitam cães. A boa notícia é que os melhores pontos de interesse de Riga são, de qualquer forma, mais bem apreciados ao ar livre.",
       "tipsPt": [
         "As melhores visitas turísticas de Riga são ao ar livre. O bairro Arte Nova, a Cidade Velha, os parques do canal e os mercados são todos acessíveis com um cão com trela.",
-        "Nenhum museu em espaço fechado nem grandes galerias permitem cães. Planeie as suas visitas a interiores em separado.",
+        "Nenhum museu em espaço fechado nem grandes galerias aceitam cães. Planeie as suas visitas a interiores em separado.",
         "O anel do Pilsētas Kanāls (canal da cidade) em redor da Cidade Velha é um circuito de passeio curto e perfeito para cães: 2 a 3 km, plano, sombreado no verão.",
         "Evite a Cidade Velha nas tardes de fim de semana no verão; as multidões turísticas no pico, nas ruas estreitas de calçada, podem ser stressantes para os cães."
       ],
@@ -1014,7 +1014,7 @@
         },
         {
           "q": "Os cães são permitidos no Mercado Central de Riga?",
-          "a": "Nas secções ao ar livre, sim. Os pavilhões interiores (carne, peixe, laticínios) não permitem cães. As bancas de produtos ao ar livre são, de qualquer forma, a parte mais interessante para os visitantes."
+          "a": "Nas secções ao ar livre, sim. Os pavilhões interiores (carne, peixe, laticínios) não aceitam cães. As bancas de produtos ao ar livre são, de qualquer forma, a parte mais interessante para os visitantes."
         },
         {
           "q": "Quais são os melhores pontos de interesse ao ar livre para ver em Riga com um cão?",

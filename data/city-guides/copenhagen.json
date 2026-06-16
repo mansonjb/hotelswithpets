@@ -340,7 +340,7 @@
           "ruleEs": "Los perros pequeños en transportín (máx. 6 kg) viajan gratis. Los perros más grandes viajan con correa corta y necesitan un billete válido (tarifa infantil). Los perros no están permitidos en hora punta en ciertas líneas, consulta las condiciones actuales de Movia/Metro en rejseplanen.dk antes de viajar.",
           "source": "rejseplanen.dk",
           "modePt": "Metro (Copenhagen Metro)",
-          "rulePt": "Os cães pequenhos en transportadora (máx. 6 kg) viajan grátis. Os cães mais grandes viajan com trela corta e necesitan um bilhete válido (tarifa infantil). Os cães no estão permitidos en hora punta en ciertas líneas, consulta as condições actuales de Movia/Metro en rejseplanen.dk antes de viajar."
+          "rulePt": "Os cães pequenos em transportadora (máx. 6 kg) viajam grátis. Os cães maiores viajam com trela curta e precisam de um bilhete válido (tarifa infantil). Os cães não são permitidos na hora de ponta em certas linhas, consulte as condições atuais da Movia/Metro em rejseplanen.dk antes de viajar."
         },
         {
           "mode": "Movia Buses",
@@ -351,7 +351,7 @@
           "ruleEs": "Las mismas normas que el Metro: los perros pequeños en transportín (≤6 kg) viajan gratis; los perros más grandes con correa corta y billete infantil. Evita las horas punta (07:30–09:00 y 15:30–17:30) cuando los autobuses están llenos y viajar con perros es menos práctico.",
           "source": "rejseplanen.dk",
           "modePt": "Autocarros Movia",
-          "rulePt": "As mismas normas que o Metro: os cães pequenhos en transportadora (≤6 kg) viajan grátis; os cães mais grandes com trela corta e bilhete infantil. Evita as horas punta (07:30–09:00 e 15:30–17:30) quando os autocarros estão llenos e viajar com cães é menos práctico."
+          "rulePt": "As mesmas regras que o Metro: os cães pequenos em transportadora (até 6 kg) viajam grátis; os cães maiores com trela curta e bilhete infantil. Evite as horas de ponta (07:30-09:00 e 15:30-17:30), quando os autocarros vão cheios e viajar com cães é menos prático."
         },
         {
           "mode": "S-Tog (Suburban Rail)",
@@ -361,8 +361,8 @@
           "ruleFr": "Les chiens sont admis dans les trains S-Tog. Les petits chiens dans un sac de transport voyagent gratuitement ; les chiens plus grands nécessitent un billet chien. Les chiens doivent être maintenus sous contrôle. Le réseau S-Tog relie Copenhague aux banlieues environnantes et est utile pour accéder à Bellevue Strand et d'autres zones côtières.",
           "ruleEs": "Los perros están permitidos en los trenes S-Tog. Los perros pequeños en transportín viajan gratis; los perros más grandes necesitan un billete para perros. Los perros deben mantenerse bajo control. La red S-Tog conecta Copenhague con los suburbios y es útil para llegar a Bellevue Strand y otras zonas costeras.",
           "source": "dsb.dk",
-          "modePt": "S-Tog (Comboio de cercanías)",
-          "rulePt": "Os cães estão permitidos nos comboios S-Tog. Os cães pequenhos en transportadora viajan grátis; os cães mais grandes necesitan um bilhete para cães. Os cães deben mantenerse sob control. A red S-Tog conecta Copenhaga com os suburbios e é útil para chegar a Bellevue Strand e otras zonas costeras."
+          "modePt": "S-Tog (comboio suburbano)",
+          "rulePt": "Os cães são permitidos nos comboios S-Tog. Os cães pequenos em transportadora viajam grátis; os cães maiores precisam de um bilhete para cães. Os cães devem ser mantidos sob controlo. A rede S-Tog liga Copenhaga aos subúrbios e é útil para chegar a Bellevue Strand e a outras zonas costeiras."
         },
         {
           "mode": "Taxis and Ride-hailing",
@@ -372,8 +372,8 @@
           "ruleFr": "La plupart des taxis copenhaguois acceptent les petits chiens dans un sac de transport. Pour les chiens plus grands, il est préférable de réserver un taxi adapté aux animaux à l'avance via Dantaxi ou Taxa 4x35. Certains conducteurs refusent les grands chiens, confirmez toujours lors de la réservation.",
           "ruleEs": "La mayoría de los taxis de Copenhague aceptan perros pequeños en transportín. Para perros más grandes, es mejor reservar un taxi pet-friendly con antelación a través de Dantaxi o Taxa 4x35. Algunos conductores rechazan perros grandes, confirma siempre al reservar.",
           "source": "dantaxi.dk",
-          "modePt": "Taxis e VTC",
-          "rulePt": "A maioria dois taxis de Copenhaga aceitam cães pequenhos en transportadora. Para cães mais grandes, é melhor reservar um taxi pet-friendly com antelación a través de Dantaxi o Taxa 4x35. Algunos conductores rechazan cães grandes, confirma sempre al reservar."
+          "modePt": "Táxis e VTC",
+          "rulePt": "A maioria dos táxis de Copenhaga aceita cães pequenos em transportadora. Para cães maiores, é melhor reservar um táxi pet-friendly com antecedência através da Dantaxi ou da Taxa 4x35. Alguns motoristas recusam cães grandes, confirme sempre ao reservar."
         }
       ],
       "titlePt": "Deslocar-se em Copenhaga com o seu cão",
@@ -620,8 +620,8 @@
           "priceRange": "From DKK 150–300 / day for drop-in visits",
           "priceRangeFr": "À partir de 150–300 DKK/jour pour les visites ponctuelles",
           "priceRangeEs": "Desde DKK 150–300 / día para visitas puntuales",
-          "descriptionPt": "Rover opera o seu plataforma completa en Dinamarca, ofreciendo serviços de alojamento para cães, cuidado en casa, visitas puntuales e serviços de passeio por toda Copenhaga. Todos os cuidadores são revisados, verificados e asegurados. A aplicación facilita encontrar e reservar um cuidador local com pouca antelación. Especialmente útil para um dia en Tivoli o uma visita a um museu onde no se permiten cães.",
-          "priceRangePt": "A partir de DKK 150–300 / dia para visitas puntuales"
+          "descriptionPt": "A Rover opera a sua plataforma completa na Dinamarca, oferecendo serviços de alojamento para cães, cuidado ao domicílio, visitas pontuais e passeios por toda a Copenhaga. Todos os cuidadores são avaliados, verificados e segurados. A aplicação facilita encontrar e reservar um cuidador local com pouca antecedência. Especialmente útil para um dia no Tivoli ou uma visita a um museu onde os cães não são permitidos.",
+          "priceRangePt": "A partir de DKK 150-300 / dia para visitas pontuais"
         }
       ],
       "titlePt": "Pet-sitting e passeio de cães em Copenhaga",

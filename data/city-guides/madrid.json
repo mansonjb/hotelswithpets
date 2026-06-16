@@ -281,7 +281,7 @@
           "conditionsEs": "Solo perros pequeños en transportín cerrado (máximo 45 cm en cualquier dimensión). El transportín debe sostenerse o colocarse en el regazo, no en los asientos. El viaje es gratuito para perros en transportín. Los perros sin transportín NO están permitidos en ninguna línea de metro.",
           "icon": "🚇",
           "modePt": "Metro",
-          "conditionsPt": "Só cães pequenhos en transportadora cerrado (máximo 45 cm en cualquier dimensión). O transportadora debe sostenerse o colocarse no regazo, no nos asientos. O viaje é gratuito para cães en transportadora. Os cães sem transportadora NO estão permitidos en ninguna línea de metro."
+          "conditionsPt": "Apenas cães pequenos em transportadora fechada (máximo 45 cm em qualquer dimensão). A transportadora deve ser segurada ou colocada ao colo, não nos bancos. A viagem é gratuita para cães em transportadora. Os cães sem transportadora NÃO são permitidos em nenhuma linha de metro."
         },
         {
           "mode": "EMT Bus",
@@ -293,7 +293,7 @@
           "conditionsEs": "Los perros de todos los tamaños están permitidos en los autobuses EMT de la ciudad fuera de las horas punta (evitar 07:00–09:00 y 17:00–20:00 en días laborables). Los perros deben ir con correa corta y controlados. Los perros pequeños en transportín están permitidos a cualquier hora. Un perro por pasajero.",
           "icon": "🚌",
           "modePt": "Autocarro EMT",
-          "conditionsPt": "Os cães de todos os tamanhos estão permitidos nos autocarros EMT da cidade fora das horas punta (evitar 07:00–09:00 e 17:00–20:00 en dias laborables). Os cães deben ir com trela corta e controlados. Os cães pequenhos en transportadora estão permitidos a cualquier hora. Um cão por pasajero."
+          "conditionsPt": "Os cães de todos os tamanhos são permitidos nos autocarros EMT da cidade fora das horas de ponta (evitar 07:00 às 09:00 e 17:00 às 20:00 nos dias úteis). Os cães devem ir com trela curta e controlados. Os cães pequenos em transportadora são permitidos a qualquer hora. Um cão por passageiro."
         },
         {
           "mode": "Taxi / Cabify / Uber",
@@ -305,7 +305,7 @@
           "conditionsEs": "Los taxis están legalmente obligados a aceptar perros guía. Para perros de compañía, la aceptación varía según el conductor. Usa las aplicaciones Cabify o Uber y selecciona la opción 'mascotas' cuando esté disponible, o llama con antelación con los taxis normales. Ten una manta para que tu perro se siente, esto aumenta significativamente la aceptación del conductor.",
           "icon": "🚕",
           "modePt": "Taxi / Cabify / Uber",
-          "conditionsPt": "Os taxis estão legalmente obligados a aceitar cães guía. Para cães de companhia, a aceitação varía segundo o conductor. Usa as aplicaciones Cabify o Uber e selecciona a opción 'animais' quando esté disponible, o liga com antelación com os taxis normales. Ten uma manta para que tu cão se siente, esto aumenta significativamente a aceitação do conductor."
+          "conditionsPt": "Os táxis estão legalmente obrigados a aceitar cães-guia. Para cães de companhia, a aceitação varia consoante o condutor. Usa as aplicações Cabify ou Uber e seleciona a opção 'animais' quando estiver disponível, ou telefona com antecedência para os táxis normais. Leva uma manta para o teu cão se sentar, isto aumenta significativamente a aceitação do condutor."
         },
         {
           "mode": "Cercanías (Commuter Rail)",
@@ -316,8 +316,8 @@
           "conditionsFr": "Les petits chiens dans un sac de transport fermé voyagent gratuitement. Les chiens de plus de 10 kg doivent avoir un billet (50 % du tarif adulte) et porter une muselière et une laisse courte. Les animaux ne sont pas admis en première classe. Utile pour rejoindre l'Escorial, Aranjuez et Alcalá de Henares pour des excursions à la journée.",
           "conditionsEs": "Los perros pequeños en transportín cerrado viajan gratis. Los perros de más de 10 kg necesitan billete (50% del precio adulto) y deben ir con bozal y correa corta. No se admiten mascotas en primera clase. Útil para llegar al Escorial, Aranjuez y Alcalá de Henares en excursiones de día.",
           "icon": "🚆",
-          "modePt": "Cercanías (Comboio de cercanías)",
-          "conditionsPt": "Os cães pequenhos en transportadora cerrado viajan grátis. Os cães de mais de 10 kg necesitan bilhete (50% do preço adulto) e deben ir com bozal e trela corta. No se admitem animais en primera clase. Útil para chegar al Escorial, Aranjuez e Alcalá de Henares en excursiones de dia."
+          "modePt": "Cercanías (comboio suburbano)",
+          "conditionsPt": "Os cães pequenos em transportadora fechada viajam grátis. Os cães com mais de 10 kg precisam de bilhete (50% do preço de adulto) e devem ir com açaime e trela curta. Não são admitidos animais em primeira classe. Útil para chegar a El Escorial, Aranjuez e Alcalá de Henares em excursões de um dia."
         }
       ],
       "titlePt": "Deslocar-se em Madrid com um Cão",
@@ -574,9 +574,9 @@
           "tipFr": "Filtrez les gardiens anglophones dans votre recherche et réservez une 'première rencontre' avant votre première réservation complète pour vous assurer que votre chien est à l'aise avec le gardien",
           "tipEs": "Filtra por cuidadores que hablen inglés en tu búsqueda y reserva una 'primera visita' antes de tu primera reserva completa para asegurarte de que tu perro se siente cómodo con el cuidador",
           "googleMapsUrl": "https://www.rover.es/",
-          "descriptionPt": "A plataforma de cuidado de animais e passeio de cães mais grande e fiable que opera en Espanha. Rover.é conecta aos duenhos de animais com cuidadores locales verificados e valorados que ofrecen visitas puntuales, cuidado diurno, cuidado en casa nocturno e passeios. Madrid cuenta com cientos de cuidadores activos en todos os bairros. Todos os cuidadores têm antecedentes verificados e as resenhas são reales e detalladas. Reserva com al menos 48–72 horas de antelación para disponibilidad en fin de semana. A plataforma funciona en espanhol com algunos cuidadores que ofrecen serviço en inglês.",
-          "priceRangePt": "15€–35€ por passeio/visita segundo duración e cuidador",
-          "tipPt": "Filtra por cuidadores que hablen inglês en tu búsqueda e reserva uma 'primera visita' antes de tu primera reserva completa para asegurarte de que tu cão se siente cómodo com o cuidador"
+          "descriptionPt": "A maior e mais fiável plataforma de cuidado de animais e passeio de cães que opera em Espanha. A Rover.es liga os donos de animais a cuidadores locais verificados e avaliados, que oferecem visitas pontuais, cuidado diurno, alojamento noturno em casa e passeios. Madrid tem centenas de cuidadores ativos em todos os bairros. Todos os cuidadores têm os antecedentes verificados e as avaliações são reais e detalhadas. Reserva com pelo menos 48 a 72 horas de antecedência para garantir disponibilidade ao fim de semana. A plataforma funciona em espanhol, com alguns cuidadores a oferecer serviço em inglês.",
+          "priceRangePt": "15€ a 35€ por passeio ou visita consoante a duração e o cuidador",
+          "tipPt": "Filtra por cuidadores que falem inglês na tua pesquisa e marca uma 'primeira visita' antes da tua primeira reserva completa, para garantir que o teu cão se sente confortável com o cuidador."
         }
       ],
       "titlePt": "Serviços de Cuidados e Passeio de Cães em Madrid",

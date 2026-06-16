@@ -214,8 +214,8 @@
           "restrictionsEs": "Perros grandes técnicamente prohibidos; la aplicación queda a discreción del agente o conductor. El bolso debe contener al perro por completo.",
           "website": "https://new.mta.info/accessibility/pets",
           "modePt": "Metro MTA",
-          "detailsPt": "Os cães deben ir en transportadora o bolso que no moleste a otros pasajeros (Código MTA §1050.9). Sem tarifa. Os cães de serviço viajan grátis sem transportadora.",
-          "restrictionsPt": "Cães grandes técnicamente prohibidos; a aplicación queda a discreción do agente o conductor. O bolso debe contener al cão por completo."
+          "detailsPt": "Os cães devem viajar numa transportadora ou saco que não incomode os outros passageiros (Código MTA §1050.9). Sem tarifa. Os cães de assistência viajam grátis sem transportadora.",
+          "restrictionsPt": "Cães grandes tecnicamente proibidos; a aplicação fica ao critério do agente da estação ou do condutor. O saco deve conter o cão por completo."
         },
         {
           "mode": "MTA Buses",
@@ -232,8 +232,8 @@
           "restrictionsEs": "El conductor puede negar el acceso si el transportín es demasiado grande para condiciones de aforo lleno.",
           "website": "https://new.mta.info/accessibility/pets",
           "modePt": "Autocarros MTA",
-          "detailsPt": "Misma regla que o metro: cães só num contenedor que no moleste. Sem suplemento. Cães de serviço admitidos libremente com trela.",
-          "restrictionsPt": "O conductor pode negar o acesso se o transportadora é demasiado grande para condições de aforo lleno."
+          "detailsPt": "Mesma regra que o metro: cães apenas num recipiente que não incomode. Sem suplemento. Cães de assistência admitidos livremente com trela.",
+          "restrictionsPt": "O condutor pode recusar o embarque se a transportadora for demasiado grande para condições de lotação cheia."
         },
         {
           "mode": "Yellow taxi & Uber/Lyft",
@@ -250,8 +250,8 @@
           "restrictionsEs": "Ningún vehículo con licencia TLC puede rechazar a un perro de servicio. Para los demás, la decisión del conductor es final.",
           "website": "https://www.uber.com/us/en/ride/uber-pet/",
           "modePt": "Yellow cab & Uber/Lyft",
-          "detailsPt": "Yellow cabs: cães a discreción do conductor (reglas TLC); a mayoría aceitam cães pequenhos en transportadora, algunos cães mais grandes com trela sobre uma toalla. Uber Pet disponible en toda a cidade com suplemento 3–5 $, sem transportadora obrigatório, hay que reservar o nivel 'Pet' na app.",
-          "restrictionsPt": "Ningún vehículo com licencia TLC pode rechazar a um cão de serviço. Para os demás, a decisión do conductor é final."
+          "detailsPt": "Yellow cabs: cães ao critério do condutor (regras TLC); a maioria aceita cães pequenos em transportadora, alguns cães maiores com trela sobre uma toalha. O Uber Pet está disponível em toda a cidade com um suplemento de 3 a 5 dólares, sem transportadora obrigatória, é preciso reservar o nível 'Pet' na aplicação.",
+          "restrictionsPt": "Nenhum veículo com licença TLC pode recusar um cão de assistência. Para os restantes, a decisão do condutor é final."
         },
         {
           "mode": "LIRR & Metro-North (commuter rail)",
@@ -267,9 +267,9 @@
           "restrictionsFr": "Le sac doit tenir sur les genoux ou sous le siège. Plus gros chiens non admis hors statut d'assistance.",
           "restrictionsEs": "El transportín debe caber sobre el regazo o bajo el asiento. Perros más grandes no admitidos fuera del estatus de servicio.",
           "website": "https://new.mta.info/accessibility/pets",
-          "modePt": "LIRR & Metro-North (cercanías)",
-          "detailsPt": "Long Island Rail Road e Metro-North exigen que as animais vayan en transportadora sobre o regazo o sob o asiento. Sem suplemento. Cães de serviço com trela, sem transportadora.",
-          "restrictionsPt": "O transportadora debe caber sobre o regazo o sob o asiento. Cães mais grandes no admitidos fora do estatus de serviço."
+          "modePt": "LIRR e Metro-North (comboios suburbanos)",
+          "detailsPt": "A Long Island Rail Road e a Metro-North exigem que os animais viajem em transportadora ao colo ou debaixo do banco. Sem suplemento. Cães de assistência com trela, sem transportadora.",
+          "restrictionsPt": "A transportadora deve caber ao colo ou debaixo do banco. Cães maiores não são admitidos fora do estatuto de assistência."
         },
         {
           "mode": "Citi Bike & ferries",
@@ -285,9 +285,9 @@
           "restrictionsFr": "Sur le ferry, les chiens doivent être en laisse et rester sur le pont extérieur en cas de forte affluence estivale.",
           "restrictionsEs": "En el ferri, los perros deben llevar correa y permanecer en la cubierta exterior cuando hay mucha gente en verano.",
           "website": "https://www.ferry.nyc/",
-          "modePt": "Citi Bike & ferris",
-          "detailsPt": "Citi Bike no admite cães (sem cesta delantera). O NYC Ferry admite cães com trela grátis en todas as rutas (East River, South Brooklyn, Astoria...) - gran alternativa al metro com um cão grande. Staten Island Ferry: cães com trela grátis.",
-          "restrictionsPt": "No ferri, os cães deben levar trela e permanecer na cubierta exterior quando hay muita gente en verão."
+          "modePt": "Citi Bike e ferries",
+          "detailsPt": "A Citi Bike não admite cães (sem cesto à frente). O NYC Ferry admite cães com trela grátis em todas as rotas (East River, South Brooklyn, Astoria, etc.), uma ótima alternativa ao metro com um cão grande. Staten Island Ferry: cães com trela grátis.",
+          "restrictionsPt": "No ferry, os cães devem usar trela e permanecer no convés exterior quando há muita gente no verão."
         }
       ],
       "faqsEn": [
@@ -510,8 +510,8 @@
           "contentEn": "Dogs entering the US from rabies-free or low-risk countries (EU, UK, etc.) need a valid rabies vaccination, a microchip, and a CDC Dog Import Form completed online before travel (cdc.gov/importation/dogs). Rules tightened in August 2024: all dogs must arrive at one of 18 approved airports (JFK is one), be at least 6 months old, and be accompanied by the CDC form receipt. Cats currently have no federal vaccination requirement on entry, though airlines often require one.",
           "contentFr": "Les chiens entrant aux États-Unis depuis des pays sans rage ou à faible risque (UE, Royaume-Uni, etc.) doivent avoir une vaccination antirabique valide, une puce électronique et un formulaire CDC Dog Import rempli en ligne avant le voyage (cdc.gov/importation/dogs). Règles durcies en août 2024 : tous les chiens doivent arriver dans l'un des 18 aéroports approuvés (JFK en fait partie), avoir au moins 6 mois, et présenter le récépissé CDC. Les chats n'ont actuellement aucune exigence fédérale de vaccination à l'entrée, mais les compagnies aériennes en imposent souvent une.",
           "contentEs": "Los perros que entran a EE. UU. desde países sin rabia o de bajo riesgo (UE, Reino Unido, etc.) necesitan vacuna antirrábica vigente, microchip y el formulario CDC Dog Import cumplimentado online antes del viaje (cdc.gov/importation/dogs). Reglas endurecidas en agosto de 2024: todos los perros deben llegar a uno de los 18 aeropuertos aprobados (JFK es uno), tener al menos 6 meses y presentar el justificante del formulario CDC. Los gatos no tienen actualmente requisito federal de vacunación a la entrada, aunque las aerolíneas suelen exigir uno.",
-          "titlePt": "Requisitos de entrada (visitantes internacionales)",
-          "contentPt": "Os cães que entran a EE. UU. a partir de países sem rabia o de sob riesgo (UE, Reino Unido, etc.) necesitan vacuna antirrábica vigente, microchip e o formulario CDC Dog Import cumplimentado online antes do viaje (cdc.gov/importation/dogs). Reglas endurecidas en agosto de 2024: todos os cães deben chegar a uno dois 18 aeroportos aprobados (JFK é uno), tener al menos 6 meses e presentar o justificante do formulario CDC. Os gatos no têm actualmente requisito federal de vacinação a a entrada, embora as aerolíneas costumam exigir uno."
+          "titlePt": "Requisitos de entrada (visitantes internacionais)",
+          "contentPt": "Os cães que entram nos EUA a partir de países sem raiva ou de baixo risco (UE, Reino Unido, etc.) precisam de vacina antirrábica válida, microchip e do formulário CDC Dog Import preenchido online antes da viagem (cdc.gov/importation/dogs). As regras foram reforçadas em agosto de 2024: todos os cães devem chegar a um dos 18 aeroportos aprovados (o JFK é um deles), ter pelo menos 6 meses e apresentar o comprovativo do formulário CDC. Os gatos não têm atualmente requisito federal de vacinação à entrada, embora as companhias aéreas costumem exigir um."
         },
         {
           "titleEn": "Leash, waste and breed rules",
@@ -520,8 +520,8 @@
           "contentEn": "NYC Administrative Code §161.05 requires dogs to be leashed (max 6 feet) on all public streets and in parks outside of designated off-leash hours/zones. The 'pooper-scooper' law (Health Code §161.03) carries a $250 fine; sanitation enforcement is real. There is no NYC-wide breed ban, but housing buildings and individual hotels frequently refuse 'aggressive' breeds (pit bull, Rottweiler, Doberman, German shepherd) - always confirm with your hotel before booking.",
           "contentFr": "Le Code administratif NYC §161.05 exige que les chiens soient en laisse (max 1,80 m) sur toutes les voies publiques et dans les parcs hors des plages/zones sans laisse. La « loi pooper-scooper » (Code sanitaire §161.03) prévoit 250 $ d'amende ; les contrôles existent vraiment. Pas d'interdiction de race à l'échelle de NYC, mais immeubles d'habitation et certains hôtels refusent souvent les races dites « agressives » (pit bull, rottweiler, doberman, berger allemand) - vérifiez toujours auprès de votre hôtel avant réservation.",
           "contentEs": "El Código Administrativo NYC §161.05 exige perros con correa (máx 1,80 m) en todas las vías públicas y parques fuera de horarios/zonas sin correa. La 'ley pooper-scooper' (Código Sanitario §161.03) conlleva 250 $ de multa; los controles son reales. No hay prohibición de raza a nivel de NYC, pero edificios residenciales y algunos hoteles rechazan razas consideradas 'agresivas' (pit bull, rottweiler, doberman, pastor alemán) - confirma siempre con tu hotel antes de reservar.",
-          "titlePt": "Reglas de trela, excrementos e razas",
-          "contentPt": "O Código Administrativo NYC §161.05 exige cães com trela (máx 1,80 m) en todas as vías públicas e parques fora de horários/zonas sem trela. A 'lei pooper-scooper' (Código Sanitario §161.03) conlleva 250 $ de multa; os controles são reales. No hay prohibición de raza a nivel de NYC, mas edifícios residenciales e algunos hotéis rechazan razas consideradas 'agresivas' (pit bull, rottweiler, doberman, pastor alemão) - confirma sempre com tu hotel antes de reservar."
+          "titlePt": "Regras de trela, excrementos e raças",
+          "contentPt": "O Código Administrativo de NYC §161.05 exige cães com trela (máx. 1,80 m) em todas as vias públicas e parques fora dos horários e zonas sem trela. A 'lei pooper-scooper' (Código Sanitário §161.03) acarreta 250 dólares de multa; a fiscalização é real. Não há proibição de raça ao nível de NYC, mas alguns prédios residenciais e hotéis recusam raças consideradas 'agressivas' (pit bull, rottweiler, dobermann, pastor-alemão), por isso confirma sempre com o teu hotel antes de reservar."
         },
         {
           "titleEn": "Summer heat and winter cold",
@@ -530,8 +530,8 @@
           "contentEn": "Manhattan asphalt regularly reaches 50–60 °C on July and August afternoons. Walk before 9 am or after 8 pm; the 5–7-second back-of-hand pavement test is standard practice. In winter, sidewalks are heavily salted, which burns paws - booties or pet-safe paw wax are useful for January and February visits. Tap water is safe and free for dogs everywhere.",
           "contentFr": "L'asphalte de Manhattan atteint régulièrement 50–60 °C les après-midis de juillet-août. Promenez avant 9h ou après 20h ; le test main-au-sol 5–7 secondes est la règle. En hiver, les trottoirs sont massivement salés, ce qui brûle les coussinets - chaussons ou cire protectrice utiles en janvier-février. L'eau du robinet est sûre et gratuite partout pour les chiens.",
           "contentEs": "El asfalto de Manhattan alcanza con regularidad 50–60 °C en las tardes de julio-agosto. Pasea antes de las 9:00 o después de las 20:00; el test mano-en-suelo de 5–7 segundos es el estándar. En invierno, las aceras están muy saladas y queman las almohadillas - botines o cera protectora útiles en enero-febrero. El agua del grifo es segura y gratuita para perros en todas partes.",
-          "titlePt": "Calor en verão e frio en inverno",
-          "contentPt": "O asfalto de Manhattan alcanza com regularidad 50–60 °C nas tardes de julho-agosto. Pasea antes das 9:00 o depois das 20:00; o test mano-en-suelo de 5–7 segundos é o estándar. En inverno, as aceras estão muito saladas e queman as almohadillas - botines o cera protectora útiles en janeiro-fevereiro. O água do grifo é segura e gratuita para cães em todo o lado."
+          "titlePt": "Calor no verão e frio no inverno",
+          "contentPt": "O asfalto de Manhattan atinge com regularidade 50 a 60 °C nas tardes de julho e agosto. Passeia antes das 9h00 ou depois das 20h00; o teste da mão no chão durante 5 a 7 segundos é a referência habitual. No inverno, os passeios estão muito salgados e queimam as almofadinhas das patas, botas ou cera protetora são úteis em janeiro e fevereiro. A água da torneira é segura e gratuita para cães em todo o lado."
         }
       ],
       "places": [],

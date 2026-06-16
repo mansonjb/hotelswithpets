@@ -207,7 +207,7 @@
           "policyFr": "Gratuit pour tous les chiens. Laisse et muselière obligatoires pour les chiens moyens-grands ; les petits chiens en sac voyagent sans muselière. Carnet antirabique à présenter sur demande.",
           "policyEs": "Gratis para todos los perros. Correa y bozal obligatorios para perros medianos-grandes; los perros pequeños en transportín viajan sin bozal. Cartilla antirrábica disponible si la piden.",
           "modePt": "Elétrico & Autocarro (MPK)",
-          "policyPt": "Grátis para todos os cães. Trela e bozal obrigatórios para cães medianos-grandes; os cães pequenhos en transportadora viajan sem bozal. Cartilla antirrábica disponible se a piden."
+          "policyPt": "Grátis para todos os cães. Trela e açaime obrigatórios para cães médios a grandes; os cães pequenos em transportadora viajam sem açaime. O boletim de vacina antirrábica deve estar disponível se for pedido."
         },
         {
           "mode": "PKP Intercity (long-distance trains)",
@@ -216,8 +216,8 @@
           "policy": "Small dogs in a carrier travel free. Larger dogs require a half-fare ticket plus a leash and muzzle. Rabies vaccination certificate mandatory.",
           "policyFr": "Petits chiens en sac de transport gratuits. Plus grands chiens : billet à demi-tarif plus laisse et muselière obligatoires. Carnet antirabique exigé.",
           "policyEs": "Perros pequeños en transportín gratis. Perros más grandes: billete a media tarifa más correa y bozal obligatorios. Cartilla antirrábica obligatoria.",
-          "modePt": "PKP Intercity (comboios de larga distancia)",
-          "policyPt": "Cães pequenhos en transportadora grátis. Cães mais grandes: bilhete a meio preço mais trela e bozal obrigatórios. Cartilla antirrábica obrigatória."
+          "modePt": "PKP Intercity (comboios de longo curso)",
+          "policyPt": "Cães pequenos em transportadora grátis. Cães maiores: bilhete a meio preço, mais trela e açaime obrigatórios. Boletim de vacina antirrábica obrigatório."
         },
         {
           "mode": "Taxi (iTaxi, Bolt, Uber)",
@@ -227,7 +227,7 @@
           "policyFr": "L'acceptation est à la discrétion du chauffeur. Bolt et Uber proposent une option « Pet » dans l'application qui signale que vous voyagez avec un animal. Précisez toujours la taille du chien à la commande.",
           "policyEs": "La aceptación queda a discreción del conductor. Bolt y Uber tienen la opción «Pet» en la app que indica que viajas con un animal. Especifica siempre el tamaño del perro al pedirlo.",
           "modePt": "Taxi (iTaxi, Bolt, Uber)",
-          "policyPt": "A aceitação queda a discreción do conductor. Bolt e Uber têm a opción «Pet» na app que indica que viajas com um animal. Especifica sempre o tamanho do cão al pedirlo."
+          "policyPt": "A aceitação fica ao critério do motorista. A Bolt e a Uber têm a opção 'Pet' na app, que indica que viaja com um animal. Especifique sempre o tamanho do cão ao reservar."
         },
         {
           "mode": "Bike & cargo bike",
@@ -236,8 +236,8 @@
           "policy": "Wroclaw has more than 250 km of dedicated bike lanes. The Wrocławski Rower Miejski (Wroclaw City Bike) sharing system does not allow dogs, but private cargo bikes and trailers are common.",
           "policyFr": "Wroclaw compte plus de 250 km de pistes cyclables dédiées. Le système Wrocławski Rower Miejski (vélos en libre-service) n'autorise pas les chiens, mais les vélos cargo et remorques privés sont courants.",
           "policyEs": "Wroclaw tiene más de 250 km de carriles bici dedicados. El sistema Wrocławski Rower Miejski (bicis compartidas) no admite perros, pero las bicis de carga y remolques privados son habituales.",
-          "modePt": "Bici & bici de carga",
-          "policyPt": "Wroclaw tem mais de 250 km de carriles bici dedicados. O sistema Wrocławski Rower Miejski (bicis compartidas) no admite cães, mas as bicis de carga e remolques privados são habituales."
+          "modePt": "Bicicleta e bicicleta de carga",
+          "policyPt": "Wroclaw tem mais de 250 km de ciclovias dedicadas. O sistema Wrocławski Rower Miejski (bicicletas partilhadas) não aceita cães, mas as bicicletas de carga e os atrelados privados são habituais."
         }
       ],
       "tips": [
@@ -245,19 +245,19 @@
           "tipEn": "Buy and carry a soft muzzle even if your dog is gentle. Controllers do enforce the rule on trams.",
           "tipFr": "Achetez et gardez sur vous une muselière souple même si votre chien est doux. Les contrôleurs appliquent vraiment la règle dans les trams.",
           "tipEs": "Lleva un bozal blando aunque tu perro sea dócil. Los revisores aplican la norma en los tranvías.",
-          "tipPt": "Leva um bozal blando embora tu cão sea dócil. Os revisores aplican a norma nos elétricos."
+          "tipPt": "Leve um açaime macio mesmo que o seu cão seja dócil. Os fiscais aplicam a regra nos elétricos."
         },
         {
           "tipEn": "Trams are very frequent (every 5-8 min on main lines). For short central trips, the dog-friendly Old Town is walkable and trams are not really necessary.",
           "tipFr": "Les trams sont très fréquents (toutes les 5-8 min sur les lignes principales). Pour de courts trajets en centre, la Vieille Ville est très marchable et les trams pas vraiment nécessaires.",
           "tipEs": "Los tranvías son muy frecuentes (cada 5-8 min en las líneas principales). Para trayectos cortos por el centro, el Casco Antiguo es paseable y los tranvías no son realmente necesarios.",
-          "tipPt": "Os elétricos são muito frecuentes (cada 5-8 min nas líneas principales). Para trayectos cortos pelo centro, o Centro histórico é paseable e os elétricos no são realmente necesarios."
+          "tipPt": "Os elétricos são muito frequentes (cada 5-8 min nas linhas principais). Para trajetos curtos pelo centro, o Centro Histórico percorre-se a pé e os elétricos não são realmente necessários."
         },
         {
           "tipEn": "Always carry the EU pet passport with up-to-date rabies stamp. Random checks are rare on MPK but mandatory in PKP trains.",
           "tipFr": "Gardez toujours sur vous le passeport européen avec le tampon antirabique à jour. Les contrôles aléatoires sont rares dans MPK mais obligatoires dans les trains PKP.",
           "tipEs": "Lleva siempre el pasaporte europeo de mascotas con el sello antirrábico al día. Los controles aleatorios son raros en MPK pero obligatorios en los trenes PKP.",
-          "tipPt": "Leva sempre o passaporte europeu de animais com o sello antirrábico ao dia. Os controles aleatorios são raros en MPK mas obrigatórios nos comboios PKP."
+          "tipPt": "Leve sempre o passaporte europeu de animais com o carimbo antirrábico em dia. Os controlos aleatórios são raros na MPK, mas obrigatórios nos comboios PKP."
         }
       ],
       "titlePt": "Viajar com animais em Wroclaw",
@@ -443,7 +443,7 @@
           "contentFr": "Les chiens doivent être tenus en laisse dans toutes les rues publiques et dans les parties non clôturées des parcs. La muselière est obligatoire pour tout chien plus grand qu'un sac de transport dans les transports publics. Les déjections doivent être ramassées. Des amendes s'appliquent (jusqu'à 500 PLN). Les chiens ne sont pas autorisés dans les zones de baignade publiques en été.",
           "contentEs": "Los perros deben ir con correa en todas las calles públicas y en las partes no valladas de los parques. Se requiere bozal para cualquier perro más grande que un transportín al usar el transporte público. Los excrementos deben recogerse. Se aplican multas (hasta 500 PLN). Los perros no están permitidos dentro de las zonas de baño de las piscinas públicas en verano.",
           "titlePt": "Normas e leis",
-          "contentPt": "Os cães deben ir com trela en todas as ruas públicas e nas partes no valladas dois parques. Se requiere bozal para cualquier cão mais grande que um transportadora al usar o transporte público. Os excrementos deben recogerse. Se aplican multas (até 500 PLN). Os cães no estão permitidos dentro das zonas de banho das piscinas públicas en verão."
+          "contentPt": "Os cães devem andar com trela em todas as ruas públicas e nas partes não vedadas dos parques. É exigido açaime para qualquer cão maior do que uma transportadora ao usar o transporte público. Os dejetos devem ser recolhidos. Aplicam-se coimas (até 500 PLN). Os cães não são permitidos dentro das zonas de banho das piscinas públicas no verão."
         },
         {
           "titleEn": "Dog-Friendly Culture",
@@ -453,7 +453,7 @@
           "contentFr": "Les habitants de Wroclaw adorent les chiens et on les voit dans les cafés, dans les trams, sur les places et même dans certaines boutiques. Le quartier de Nadodrze au nord de la rivière et le Quartier des Quatre Confessions près de la Vieille Ville sont particulièrement accueillants. Ne soyez pas surpris si des inconnus demandent à caresser votre chien ou lui proposent une friandise, cela fait partie de la culture.",
           "contentEs": "A los locales de Wroclaw les encantan los perros y los verás en cafés, en tranvías, en las plazas e incluso en algunas tiendas. El barrio de Nadodrze al norte del río y el Barrio de las Cuatro Confesiones cerca del Casco Antiguo son especialmente acogedores. No te sorprendas si desconocidos piden acariciar a tu perro o le ofrecen una golosina, forma parte de la cultura.",
           "titlePt": "Cultura local",
-          "contentPt": "Aos locales de Wroclaw les encantan os cães e os verás en cafés, en elétricos, nas praças e mesmo em algunas tiendas. O bairro de Nadodrze al norte do rio e o Bairro das Quatro Confesiones cerca do centro histórico são especialmente acogedores. No te sorprendas se desconocidos piden acariciar a tu cão o le ofrecen uma golosina, forma parte da cultura."
+          "contentPt": "Os habitantes de Wroclaw adoram cães e vai vê-los em cafés, nos elétricos, nas praças e até em algumas lojas. O bairro de Nadodrze, a norte do rio, e o Bairro das Quatro Confissões, perto do Centro Histórico, são especialmente acolhedores. Não se admire se estranhos pedirem para fazer festas ao seu cão ou lhe oferecerem uma guloseima, faz parte da cultura."
         },
         {
           "titleEn": "Best Season for Travel",
@@ -463,7 +463,7 @@
           "contentFr": "Fin avril à juin et septembre à début octobre sont idéaux : températures douces, saison des terrasses ouverte et parcs au meilleur. Juillet-août peut être chaud et humide (28–32 °C), inconfortable pour les races à poil épais. L'hiver est froid et neigeux (souvent -5 °C) mais les locaux promènent leurs chiens quand même et les trottoirs salés sont bien gérés.",
           "contentEs": "De finales de abril a junio y de septiembre a principios de octubre son ideales: temperaturas suaves, temporada de terrazas abierta y parques en su mejor momento. Julio-agosto puede ser caluroso y húmedo (28–32 °C), incómodo para razas de pelo espeso. El invierno es frío y nevado (a menudo -5 °C) pero los locales pasean a sus perros igualmente y las aceras saladas están bien gestionadas.",
           "titlePt": "Melhor temporada",
-          "contentPt": "De finales de abril a junho e de setembro a principios de outubro são ideales: temperaturas suaves, temporada de esplanadas abierta e parques en o seu melhor momento. Julho-agosto pode ser caluroso e húmedo (28–32 °C), incómodo para razas de pelo espeso. O inverno é frio e nevado (a menudo -5 °C) mas os locales pasean aos seus cães igualmente e as aceras saladas estão bien gestionadas."
+          "contentPt": "De finais de abril a junho e de setembro a princípios de outubro são ideais: temperaturas amenas, época de esplanadas aberta e parques no seu melhor momento. Julho-agosto pode ser quente e húmido (28-32 °C), incómodo para raças de pelo espesso. O inverno é frio e com neve (muitas vezes -5 °C), mas os locais passeiam os seus cães na mesma e os passeios com sal estão bem geridos."
         }
       ],
       "tips": [
@@ -471,19 +471,19 @@
           "tipEn": "Find the dwarfs together. Wroclaw has more than 1,000 small bronze dwarf statues hidden across the city, looking for them is a great daily challenge with a dog.",
           "tipFr": "Cherchez les nains ensemble. Wroclaw compte plus de 1 000 petites statues de nains en bronze cachées dans la ville, les chercher est un excellent défi quotidien avec un chien.",
           "tipEs": "Busca a los enanos juntos. Wroclaw tiene más de 1.000 pequeñas estatuas de bronce de enanos escondidas por la ciudad, buscarlas es un gran reto diario con un perro.",
-          "tipPt": "Busca aos enanos juntos. Wroclaw tem mais de 1.000 pequenhas estatuas de bronce de enanos escondidas pela cidade, buscarlas é um gran reto diario com um cão."
+          "tipPt": "Procurem os anões juntos. Wroclaw tem mais de 1.000 pequenas estátuas de bronze de anões escondidas pela cidade, procurá-las é um grande desafio diário com um cão."
         },
         {
           "tipEn": "Carry a small soft muzzle in a pocket. You'll need it on trams and in train stations and the city sells them at most pet shops if you forget.",
           "tipFr": "Gardez une petite muselière souple en poche. Vous en aurez besoin dans les trams et dans les gares, et la ville en vend dans la plupart des animaleries si vous l'oubliez.",
           "tipEs": "Lleva un pequeño bozal blando en el bolsillo. Lo necesitarás en los tranvías y en las estaciones, y la ciudad los vende en la mayoría de las tiendas de mascotas si lo olvidas.",
-          "tipPt": "Leva um pequenho bozal blando no bolsillo. Lo necesitarás nos elétricos e nas estações, e a cidade os vende en a maioria das tiendas de animais se lo olvidas."
+          "tipPt": "Leve um pequeno açaime macio no bolso. Vai precisar dele nos elétricos e nas estações, e a cidade vende-os na maioria das lojas de animais se o esquecer."
         },
         {
           "tipEn": "Book a Bolt or Uber with the 'Pet' option for short hops. Wroclaw cab fares are low (a 5 km ride is around 25 PLN) and most drivers are dog-positive.",
           "tipFr": "Commandez un Bolt ou Uber avec l'option « Pet » pour les courts trajets. Les courses sont peu chères à Wroclaw (5 km coûtent environ 25 PLN) et la plupart des chauffeurs sont positifs avec les chiens.",
           "tipEs": "Pide un Bolt o Uber con la opción «Pet» para trayectos cortos. Las carreras son baratas en Wroclaw (5 km cuestan unos 25 PLN) y la mayoría de los conductores son positivos con los perros.",
-          "tipPt": "Pide um Bolt o Uber com a opción «Pet» para trayectos cortos. As carreras são baratas en Wroclaw (5 km cuestan uns 25 PLN) e a maioria dois conductores são positivos com os cães."
+          "tipPt": "Peça um Bolt ou Uber com a opção 'Pet' para trajetos curtos. As corridas são baratas em Wroclaw (5 km custam cerca de 25 PLN) e a maioria dos motoristas é positiva em relação aos cães."
         }
       ],
       "faqs": [
@@ -494,8 +494,8 @@
           "answerEn": "Yes. All dogs travel free on MPK trams and buses. Dogs larger than a carrier must wear a leash and a muzzle, and you should carry the rabies vaccination certificate.",
           "answerFr": "Oui. Tous les chiens voyagent gratuitement sur les trams et bus MPK. Les chiens plus grands qu'un sac de transport doivent porter laisse et muselière, et vous devez avoir le carnet antirabique sur vous.",
           "answerEs": "Sí. Todos los perros viajan gratis en los tranvías y autobuses de MPK. Los perros más grandes que un transportín deben llevar correa y bozal, y debes llevar la cartilla antirrábica.",
-          "questionPt": "Se admitem cães nos elétricos de Wroclaw?",
-          "answerPt": "Sí. Todos os cães viajan grátis nos elétricos e autocarros de MPK. Os cães mais grandes que um transportadora deben levar trela e bozal, e debes levar a cartilla antirrábica."
+          "questionPt": "Os cães são permitidos nos elétricos de Wroclaw?",
+          "answerPt": "Sim. Todos os cães viajam grátis nos elétricos e autocarros da MPK. Os cães maiores do que uma transportadora devem levar trela e açaime, e deve trazer o boletim de vacina antirrábica."
         },
         {
           "questionEn": "Are there off-leash dog parks in Wroclaw?",
@@ -504,8 +504,8 @@
           "answerEn": "Yes. The city maintains around forty fenced off-leash dog zones (wybiegi dla psów), with the largest at Niskie Łąki (7,000 m²) and the most popular inside Park Grabiszyński. Outside these zones, dogs must be on a leash everywhere in public.",
           "answerFr": "Oui. La ville entretient une quarantaine de zones canines clôturées (wybiegi dla psów), la plus grande à Niskie Łąki (7 000 m²) et la plus fréquentée à l'intérieur du Park Grabiszyński. Hors de ces zones, les chiens doivent être tenus en laisse partout en public.",
           "answerEs": "Sí. La ciudad mantiene unas cuarenta zonas caninas valladas (wybiegi dla psów), la más grande en Niskie Łąki (7.000 m²) y la más popular dentro del Park Grabiszyński. Fuera de estas zonas, los perros deben ir con correa en cualquier espacio público.",
-          "questionPt": "Hay parques caninos sem trela en Wroclaw?",
-          "answerPt": "Sí. A cidade mantiene umas cuarenta zonas caninas valladas (wybiegi dla psów), a maior en Niskie Łąki (7.000 m²) e a mais popular dentro do Park Grabiszyński. Fora de estas zonas, os cães deben ir com trela en cualquier espacio público."
+          "questionPt": "Há parques caninos sem trela em Wroclaw?",
+          "answerPt": "Sim. A cidade mantém cerca de quarenta zonas caninas vedadas (wybiegi dla psów), a maior em Niskie Łąki (7.000 m²) e a mais popular dentro do Park Grabiszyński. Fora destas zonas, os cães devem andar com trela em qualquer espaço público."
         },
         {
           "questionEn": "Can I take my dog to the Rynek square restaurants?",
@@ -514,8 +514,8 @@
           "answerEn": "Most café terraces around the Rynek welcome dogs. Indoor seating depends on the venue but a majority of bistros and cafés in the Old Town accept well-behaved dogs at the table. The places listed in our restaurants section all confirm year-round indoor pet-welcome policy.",
           "answerFr": "La plupart des terrasses de café autour du Rynek acceptent les chiens. L'intérieur dépend du lieu, mais la majorité des bistros et cafés de la Vieille Ville accueillent les chiens sages à table. Les adresses listées dans notre section restaurants confirment toutes une politique pet-welcome en salle à l'année.",
           "answerEs": "La mayoría de las terrazas de café alrededor del Rynek admiten perros. El interior depende del local, pero la mayoría de bistrós y cafés del Casco Antiguo acepta perros bien educados en la mesa. Los lugares listados en nuestra sección de restaurantes confirman política pet-welcome en interior todo el año.",
-          "questionPt": "Puedo levar a mi cão aos restaurantes do Rynek?",
-          "answerPt": "A maioria das esplanadas de café alrededor do Rynek admitem cães. O interior depende do local, mas a maioria de bistrós e cafés do centro histórico aceita cães bien educados na mesa. Os lugares listados en nuestra sección de restaurantes confirman política pet-welcome en interior o ano inteiro."
+          "questionPt": "Posso levar o meu cão aos restaurantes do Rynek?",
+          "answerPt": "A maioria das esplanadas de café à volta do Rynek aceita cães. O interior depende do local, mas a maioria dos bistrôs e cafés do Centro Histórico aceita cães bem-comportados à mesa. Os lugares listados na nossa secção de restaurantes confirmam uma política de acolhimento de animais no interior o ano inteiro."
         }
       ],
       "titlePt": "Dicas pet-friendly para Wroclaw",

@@ -422,7 +422,10 @@
           ],
           "languagesFr": "Français (anglais limité)",
           "languagesEs": "Francés (inglés limitado)",
-          "languagesPt": "Francês (inglês limitado)",
+          "languagesPt": [
+            "Francês",
+            "Inglês limitado"
+          ],
           "tip": "The main local clinic, sister site to Carnoles in Roquebrune-Cap-Martin. Save this number, the same line covers Carnoles for out-of-hours rotation.",
           "tipFr": "La clinique locale de référence, site jumeau avec Carnoles à Roquebrune-Cap-Martin. Enregistrez ce numéro, la même ligne couvre Carnoles pour la rotation hors horaires.",
           "tipEs": "La clínica local de referencia, hermanada con Carnoles en Roquebrune-Cap-Martin. Guarda este número, la misma línea cubre Carnoles para la rotación fuera de horario.",
@@ -448,7 +451,9 @@
           ],
           "languagesFr": "Français",
           "languagesEs": "Francés",
-          "languagesPt": "Francês",
+          "languagesPt": [
+            "Francês"
+          ],
           "tip": "Convenient if staying in Garavan or on the Italian-border side of Menton. Phone first, smaller cabinet with limited weekend cover.",
           "tipFr": "Pratique si vous logez à Garavan ou côté frontière italienne. Téléphonez d'abord, petit cabinet avec couverture week-end limitée.",
           "tipEs": "Cómoda si te alojas en Garavan o al lado de la frontera italiana. Llama primero, gabinete pequeño con cobertura de fin de semana limitada.",
@@ -475,7 +480,10 @@
           ],
           "languagesFr": "Français (quelques anglophones)",
           "languagesEs": "Francés (algo de inglés)",
-          "languagesPt": "Francês (algum inglês)",
+          "languagesPt": [
+            "Francês",
+            "Algum inglês"
+          ],
           "tip": "If a Menton clinic redirects you out of hours, this is where you go. 30 minutes by car via the A8 motorway. Phone before leaving so they expect you.",
           "tipFr": "Si une clinique de Menton vous redirige hors horaires, c'est ici qu'il faut aller. 30 minutes en voiture par l'A8. Téléphonez avant de partir pour qu'ils vous attendent.",
           "tipEs": "Si una clínica de Menton te redirige fuera de horario, este es el destino. 30 minutos en coche por la A8. Llama antes de salir para que te esperen.",

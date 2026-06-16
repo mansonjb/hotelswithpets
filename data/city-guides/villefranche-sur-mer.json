@@ -400,7 +400,10 @@
           ],
           "languagesFr": "Français (anglais limité)",
           "languagesEs": "Francés (inglés limitado)",
-          "languagesPt": "Francês (inglês limitado)",
+          "languagesPt": [
+            "Francês",
+            "Inglês limitado"
+          ],
           "tip": "The only vet inside the commune. Save both this number and Clinique Val d'Azur for after-hours; the recorded message gives the on-call relay.",
           "tipFr": "Le seul vétérinaire dans la commune. Enregistrez ce numéro et celui du Clinique Val d'Azur pour le hors horaires ; le message enregistré donne le relais de garde.",
           "tipEs": "El único veterinario en el municipio. Guarda este número y el del Clinique Val d'Azur para fuera de horario; el mensaje grabado da el relevo de guardia.",
@@ -427,7 +430,10 @@
           ],
           "languagesFr": "Français, anglais",
           "languagesEs": "Francés, inglés",
-          "languagesPt": "Francês, inglês",
+          "languagesPt": [
+            "Francês",
+            "Inglês"
+          ],
           "tip": "The main 24/7 referral hospital for the eastern Côte d'Azur. About 25 minutes via the Basse Corniche or A8 westbound. Phone before leaving so they expect you.",
           "tipFr": "L'hôpital de référence 24/24 principal pour la Côte d'Azur orientale. Environ 25 minutes par la Basse Corniche ou l'A8 vers l'ouest. Téléphonez avant de partir pour qu'ils vous attendent.",
           "tipEs": "El principal hospital de referencia 24/7 para la Costa Azul oriental. Unos 25 minutos por la Basse Corniche o la A8 al oeste. Llama antes de salir para que te esperen.",
@@ -454,7 +460,10 @@
           ],
           "languagesFr": "Français, anglais",
           "languagesEs": "Francés, inglés",
-          "languagesPt": "Francês, inglês",
+          "languagesPt": [
+            "Francês",
+            "Inglês"
+          ],
           "tip": "Multi-specialist 24/7 referral centre, the regional reference for complex cases (neuro, oncology, advanced imaging). Use as second option after Clinique Val d'Azur.",
           "tipFr": "Centre de référence multi-spécialités 24/24, référence régionale pour les cas complexes (neuro, oncologie, imagerie avancée). À utiliser en second après le Clinique Val d'Azur.",
           "tipEs": "Centro de referencia multiespecialidad 24/7, referencia regional para casos complejos (neuro, oncología, imagen avanzada). Úsalo como segunda opción después del Clinique Val d'Azur.",

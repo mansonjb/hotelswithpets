@@ -411,7 +411,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Valencia+Camino+Moncada",
           "photo": "/images/city-places/valencia-vets-hospital-veterinario-valencia.jpg",
           "hoursPt": "24 horas, 7 dias por semana",
-          "languagesPt": "Espanhol, algum inglês",
+          "languagesPt": [
+            "Espanhol",
+            "Algum inglês"
+          ],
           "descriptionPt": "O principal hospital veterinário de urgência 24 horas de Valência. Instalações completas de diagnóstico e cirurgia, incluindo raios X, ecografia e cuidados intensivos. Fica a norte do centro da cidade, acessível em cerca de 10 a 15 minutos de táxi a partir do centro de Valência. A instalação de urgência mais completa da cidade."
         },
         {
@@ -433,7 +436,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cl%C3%ADnica+Veterinaria+Amisos+Valencia",
           "photo": "/images/city-places/valencia-vets-clinica-veterinaria-amisos.jpg",
           "hoursPt": "24 horas, 7 dias por semana",
-          "languagesPt": "Espanhol, inglês básico",
+          "languagesPt": [
+            "Espanhol",
+            "Inglês básico"
+          ],
           "descriptionPt": "A Clínica Veterinaria Amisos é uma das conceituadas clínicas de urgência 24 horas de Valência, com plenas capacidades de clínica geral e um serviço de urgência fora do horário habitual. Uma opção fiável para urgências fora de horário, quando as clínicas normais estão fechadas."
         }
       ],

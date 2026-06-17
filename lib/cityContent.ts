@@ -15922,6 +15922,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  matera: {
+    history: {
+      fr: `Matera, environ 60 000 habitants en Basilicate, dans le sud de l'Italie, est l'une des villes habitées sans interruption les plus anciennes du monde, occupée depuis le Paléolithique. Classée au patrimoine mondial de l'UNESCO en 1993 et Capitale européenne de la culture en 2019, elle est célèbre pour ses Sassi, deux quartiers d'habitations troglodytiques (Sasso Caveoso et Sasso Barisano) creusés dans la roche calcaire au-dessus du ravin de la Gravina. Longtemps surnommée la honte de l'Italie pour la misère de ses grottes évacuées dans les années 1950, la ville s'est métamorphosée en décor de cinéma (La Passion du Christ, Mourir peut attendre) et en destination de voyage haut de gamme. Côté chiens, la réglementation italienne s'applique : laisse obligatoire dans l'espace public, muselière à porter sur soi (à mettre à la demande du personnel dans les transports), ramassage obligatoire. Les ruelles et escaliers de pierre des Sassi sont praticables avec un chien mais usent vite les coussinets ; le vaste Parco della Murgia Materana, de l'autre côté du ravin, offre en revanche de magnifiques sentiers ouverts aux chiens en laisse.`,
+      en: `Matera, around 60,000 residents in Basilicata, southern Italy, is one of the oldest continuously inhabited settlements in the world, occupied since the Paleolithic. A UNESCO World Heritage Site since 1993 and European Capital of Culture in 2019, it is famous for the Sassi, two districts of cave dwellings (Sasso Caveoso and Sasso Barisano) carved into the limestone above the Gravina ravine. Once branded the shame of Italy for the poverty of its caves, which were cleared in the 1950s, the city has reinvented itself as a film backdrop (The Passion of the Christ, No Time to Die) and an upscale travel destination. On dogs, Italian rules apply: a leash is required in public spaces, a muzzle must be carried (to be fitted on staff request in transport) and waste must be picked up. The stone lanes and stairways of the Sassi are walkable with a dog but wear paws quickly; the vast Parco della Murgia Materana, across the ravine, by contrast offers superb trails open to leashed dogs.`,
+      es: `Matera, unos 60.000 habitantes en Basilicata, sur de Italia, es uno de los asentamientos habitados de forma ininterrumpida más antiguos del mundo, ocupado desde el Paleolítico. Patrimonio de la Humanidad de la UNESCO desde 1993 y Capital Europea de la Cultura en 2019, es famosa por los Sassi, dos barrios de viviendas rupestres (Sasso Caveoso y Sasso Barisano) excavados en la roca caliza sobre el barranco de la Gravina. Apodada durante años la vergüenza de Italia por la miseria de sus cuevas, desalojadas en los años 50, la ciudad se ha reinventado como escenario de cine (La Pasión de Cristo, Sin tiempo para morir) y destino de viaje de alta gama. En cuanto a los perros, rige la normativa italiana: correa obligatoria en el espacio público, bozal que hay que llevar encima (a colocar si lo pide el personal en el transporte) y recogida obligatoria. Las callejuelas y escaleras de piedra de los Sassi son transitables con perro pero desgastan rápido las almohadillas; el extenso Parco della Murgia Materana, al otro lado del barranco, ofrece en cambio magníficos senderos abiertos a perros con correa.`,
+      pt: `Matera, cerca de 60.000 habitantes na Basilicata, sul de Itália, é um dos povoamentos habitados de forma ininterrupta mais antigos do mundo, ocupado desde o Paleolítico. Património Mundial da UNESCO desde 1993 e Capital Europeia da Cultura em 2019, é famosa pelos Sassi, dois bairros de habitações rupestres (Sasso Caveoso e Sasso Barisano) escavados na rocha calcária sobre a ravina da Gravina. Apelidada durante anos de vergonha de Itália pela miséria das suas grutas, esvaziadas nos anos 50, a cidade reinventou-se como cenário de cinema (A Paixão de Cristo, Sem Tempo para Morrer) e destino de viagem de alta gama. Quanto aos cães, vigora a regulamentação italiana: trela obrigatória no espaço público, açaime que se deve levar consigo (a colocar a pedido do pessoal no transporte) e recolha obrigatória. As vielas e escadarias de pedra dos Sassi são transitáveis com cão mas gastam depressa as almofadas; o vasto Parco della Murgia Materana, do outro lado da ravina, oferece em contrapartida soberbos trilhos abertos a cães com trela.`,
+    },
+    sights: [
+      {
+        name: 'Sasso Caveoso',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus spectaculaire des deux quartiers troglodytiques, en amphithéâtre au-dessus du ravin, avec ses maisons-grottes étagées et ses églises rupestres. Déambulation libre en laisse à toute heure ; tenez le chien court dans les escaliers de pierre polie et apportez de l'eau, il n'y a quasiment aucune ombre.`,
+          en: `The more dramatic of the two cave districts, an amphitheatre above the ravine of tiered cave houses and rock-cut churches. Free to wander on a leash at any hour; keep the dog short on the polished stone stairs and bring water, as there is almost no shade.`,
+          es: `El más espectacular de los dos barrios rupestres, un anfiteatro sobre el barranco de casas-cueva escalonadas e iglesias excavadas en la roca. Paseo libre con correa a cualquier hora; lleva al perro corto en las escaleras de piedra pulida y trae agua, apenas hay sombra.`,
+          pt: `O mais espectacular dos dois bairros rupestres, um anfiteatro sobre a ravina de casas-gruta escalonadas e igrejas escavadas na rocha. Passeio livre com trela a qualquer hora; segura o cão curto nas escadas de pedra polida e traz água, quase não há sombra.`,
+        },
+      },
+      {
+        name: 'Parco della Murgia Materana',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Parc régional de 8 000 hectares de l'autre côté du ravin de la Gravina, parsemé de plus de 150 chapelles rupestres et de grottes préhistoriques. Sentiers ouverts aux chiens en laisse, c'est la plus belle sortie nature de Matera ; partez tôt, le plateau calcaire est totalement exposé au soleil.`,
+          en: `An 8,000-hectare regional park across the Gravina ravine, dotted with more than 150 rock chapels and prehistoric caves. The trails are open to leashed dogs and make Matera's finest nature outing; set off early, as the limestone plateau is fully exposed to the sun.`,
+          es: `Parque regional de 8.000 hectáreas al otro lado del barranco de la Gravina, salpicado de más de 150 capillas rupestres y cuevas prehistóricas. Los senderos admiten perros con correa y son la mejor salida natural de Matera; sal temprano, la meseta caliza está totalmente expuesta al sol.`,
+          pt: `Parque regional de 8.000 hectares do outro lado da ravina da Gravina, salpicado de mais de 150 capelas rupestres e grutas pré-históricas. Os trilhos admitem cães com trela e são a melhor saída de natureza de Matera; parte cedo, o planalto calcário está totalmente exposto ao sol.`,
+        },
+      },
+      {
+        name: 'Belvedere di Murgia Timone',
+        emoji: '🌄',
+        petFriendly: true,
+        desc: {
+          fr: `Belvédère sur le plateau de la Murgia offrant le panorama de carte postale sur l'ensemble des Sassi, célèbre comme décor de cinéma. Accès libre en laisse, idéal au coucher du soleil ; on y arrive en voiture ou par le sentier qui descend dans le ravin puis remonte, comptez de l'eau et de bonnes chaussures.`,
+          en: `A viewpoint on the Murgia plateau offering the postcard panorama over the whole of the Sassi, famous as a film backdrop. Free to reach on a leash, best at sunset; get there by car or via the trail that drops into the ravine and climbs back up, so bring water and good shoes.`,
+          es: `Mirador en la meseta de la Murgia con el panorama de postal sobre todos los Sassi, famoso como escenario de cine. Acceso libre con correa, ideal al atardecer; se llega en coche o por el sendero que baja al barranco y vuelve a subir, lleva agua y buen calzado.`,
+          pt: `Miradouro no planalto da Murgia com o panorama de postal sobre todos os Sassi, famoso como cenário de cinema. Acesso livre com trela, ideal ao pôr do sol; chega-se de carro ou pelo trilho que desce à ravina e volta a subir, leva água e bom calçado.`,
+        },
+      },
+      {
+        name: 'Piazza Vittorio Veneto',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Grande place animée de la ville haute (le Piano), point de rencontre des Materani et balcon ouvert sur le Sasso Barisano. Place ouverte en permanence, parfaite en laisse, terrasses de café tolérantes aux chiens et accès à la citerne souterraine du Palombaro Lungo (chiens non admis à l'intérieur).`,
+          en: `The large lively square of the upper town (the Piano), the locals' meeting point and an open balcony over Sasso Barisano. Always open and perfect on a leash, with dog-tolerant café terraces and access to the underground Palombaro Lungo cistern (dogs not admitted inside).`,
+          es: `La gran plaza animada de la ciudad alta (el Piano), punto de encuentro de los materanos y balcón abierto sobre el Sasso Barisano. Siempre abierta y perfecta con correa, con terrazas de café tolerantes con perros y acceso a la cisterna subterránea del Palombaro Lungo (perros no admitidos dentro).`,
+          pt: `A grande praça animada da cidade alta (o Piano), ponto de encontro dos materanos e varanda aberta sobre o Sasso Barisano. Sempre aberta e perfeita com trela, com esplanadas de café tolerantes a cães e acesso à cisterna subterrânea do Palombaro Lungo (cães não admitidos lá dentro).`,
+        },
+      },
+      {
+        name: 'Piazza San Pietro Caveoso',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Petite place perchée au bord du précipice, dominée par l'église San Pietro Caveoso et le rocher de la Madonna de Idris, l'un des points de vue les plus photographiés de la ville. Place extérieure libre en laisse à toute heure ; intérieurs des églises rupestres fermés aux chiens.`,
+          en: `A small square perched on the edge of the precipice, dominated by the church of San Pietro Caveoso and the Madonna de Idris rock, one of the most photographed viewpoints in town. The open square is free on a leash at any hour; the rock-church interiors are closed to dogs.`,
+          es: `Pequeña plaza encaramada al borde del precipicio, dominada por la iglesia de San Pietro Caveoso y la roca de la Madonna de Idris, uno de los miradores más fotografiados de la ciudad. La plaza exterior es libre con correa a cualquier hora; los interiores de las iglesias rupestres están cerrados a perros.`,
+          pt: `Pequena praça empoleirada na beira do precipício, dominada pela igreja de San Pietro Caveoso e pela rocha da Madonna de Idris, um dos miradouros mais fotografados da cidade. A praça exterior é livre com trela a qualquer hora; os interiores das igrejas rupestres estão fechados a cães.`,
+        },
+      },
+      {
+        name: 'Cattedrale di Matera',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Cathédrale romane-pouilles du XIIIᵉ siècle posée sur l'éperon de tuf le plus haut de la ville, entre les deux Sassi, avec un parvis qui plonge sur les toits. Parvis et ruelles autour libres en laisse ; intérieur de la cathédrale réservé aux chiens d'assistance.`,
+          en: `A 13th-century Apulian-Romanesque cathedral set on the city's highest tufa spur between the two Sassi, with a forecourt that drops over the rooftops. The forecourt and surrounding lanes are free on a leash; the cathedral interior is reserved for assistance dogs.`,
+          es: `Catedral románico-apulense del siglo XIII sobre el espolón de toba más alto de la ciudad, entre los dos Sassi, con un atrio que se asoma sobre los tejados. El atrio y las callejuelas alrededor son libres con correa; el interior de la catedral está reservado a perros de asistencia.`,
+          pt: `Catedral românico-apuliana do século XIII sobre o esporão de tufo mais alto da cidade, entre os dois Sassi, com um adro que se debruça sobre os telhados. O adro e as vielas em redor são livres com trela; o interior da catedral está reservado a cães de assistência.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Escaliers de pierre des Sassi : la pierre calcaire polie est glissante par temps humide et brûlante l'après-midi en été. Pour les chiens âgés ou à pattes courtes, descendez tôt le matin et prévoyez de les porter sur les volées les plus raides.`,
+        `Règles italiennes : laisse obligatoire dans tout l'espace public, muselière à garder sur soi (à mettre à la demande dans bus et trains), sacs ramasse-crottes obligatoires.`,
+        `Vétérinaires : Ambulatorio Veterinario Vetland (Via Cicerone 31, +39 333 698 9063) et Centro Veterinario Croce Blu (Via della Croce 29/31, +39 0835 262584, urgences). Le centre 24h/24 de référence reste l'Ospedale Veterinario Santa Fara à Bari (+39 080 504 6965), 65 km.`,
+        `Parco della Murgia : aucun point d'eau sur le plateau, sol calcaire coupant et exposé. Emportez 1,5 L d'eau par chien, partez avant 9h en été et surveillez les épillets au printemps.`,
+        `Foule et tournages : les Sassi se remplissent à la mi-journée et lors des tournages. Promenez le chien à l'aube ou en soirée pour des ruelles calmes et de la pierre fraîche.`,
+      ],
+      en: [
+        `Stone stairways of the Sassi: the polished limestone is slippery when wet and scorching on summer afternoons. For older or short-legged dogs, descend early in the morning and plan to carry them on the steepest flights.`,
+        `Italian rules: a leash is required throughout public space, a muzzle must be carried (fitted on request on buses and trains) and waste bags are mandatory.`,
+        `Vets: Ambulatorio Veterinario Vetland (Via Cicerone 31, +39 333 698 9063) and Centro Veterinario Croce Blu (Via della Croce 29/31, +39 0835 262584, emergencies). The reference 24-hour hospital remains Ospedale Veterinario Santa Fara in Bari (+39 080 504 6965), 65 km away.`,
+        `Parco della Murgia: there is no water point on the plateau and the limestone ground is sharp and exposed. Carry 1.5 L of water per dog, set off before 9:00 in summer and watch for grass seeds in spring.`,
+        `Crowds and filming: the Sassi fill up at midday and during film shoots. Walk the dog at dawn or in the evening for quiet lanes and cool stone.`,
+      ],
+      es: [
+        `Escaleras de piedra de los Sassi: la caliza pulida resbala con humedad y abrasa las tardes de verano. Para perros mayores o de patas cortas, baja temprano por la mañana y prevé llevarlos en brazos en los tramos más empinados.`,
+        `Normas italianas: correa obligatoria en todo el espacio público, bozal que hay que llevar encima (a colocar si lo piden en bus y tren) y bolsas obligatorias.`,
+        `Veterinarios: Ambulatorio Veterinario Vetland (Via Cicerone 31, +39 333 698 9063) y Centro Veterinario Croce Blu (Via della Croce 29/31, +39 0835 262584, urgencias). El hospital 24 horas de referencia sigue siendo el Ospedale Veterinario Santa Fara de Bari (+39 080 504 6965), a 65 km.`,
+        `Parco della Murgia: no hay punto de agua en la meseta y el suelo calizo es cortante y está expuesto. Lleva 1,5 L de agua por perro, sal antes de las 9:00 en verano y vigila las espigas en primavera.`,
+        `Multitudes y rodajes: los Sassi se llenan al mediodía y durante los rodajes. Pasea al perro al amanecer o al atardecer para tener callejuelas tranquilas y piedra fresca.`,
+      ],
+      pt: [
+        `Escadarias de pedra dos Sassi: o calcário polido escorrega com humidade e queima nas tardes de verão. Para cães idosos ou de patas curtas, desce cedo de manhã e prevê levá-los ao colo nos lanços mais íngremes.`,
+        `Regras italianas: trela obrigatória em todo o espaço público, açaime que se deve levar consigo (a colocar a pedido em autocarros e comboios) e sacos obrigatórios.`,
+        `Veterinários: Ambulatorio Veterinario Vetland (Via Cicerone 31, +39 333 698 9063) e Centro Veterinario Croce Blu (Via della Croce 29/31, +39 0835 262584, urgências). O hospital 24 horas de referência continua a ser o Ospedale Veterinario Santa Fara em Bari (+39 080 504 6965), a 65 km.`,
+        `Parco della Murgia: não há ponto de água no planalto e o solo calcário é cortante e exposto. Leva 1,5 L de água por cão, parte antes das 9:00 no verão e vigia as aristas de gramíneas na primavera.`,
+        `Multidões e filmagens: os Sassi enchem-se ao meio-dia e durante as filmagens. Passeia o cão ao amanhecer ou ao fim do dia para teres vielas tranquilas e pedra fresca.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Comment venir : pas d'aéroport à Matera ; le plus proche est Bari (BRI, 65 km) relié par la navette Pugliairbus en 1h15. Le train FAL depuis Bari Centrale (1h15 à 1h30) accepte les chiens gratuitement ; cars Marozzi depuis Rome et Naples.`,
+        `Documents : passeport européen, puce ISO et vaccin antirabique d'au moins 21 jours pour l'UE ; Animal Health Certificate (AHC) délivré dans les 10 jours pour les visiteurs hors UE (Royaume-Uni post-Brexit inclus).`,
+        `Transports locaux : la vieille ville et les Sassi se parcourent à pied ; les bus urbains acceptent les chiens en laisse + muselière à disposition, petits chiens en caisse fermée gratuits. Beaucoup de ruelles ne sont accessibles qu'à pied.`,
+        `Pet-sitting : Rover, Pawshake et DogHero couvrent Matera ; comptez environ 15 €/nuit en garde à domicile et 12 € la promenade ; réservez tôt pour les ponts de printemps et Ferragosto (15 août).`,
+        `Climat : étés très chauds et secs 27–32 °C, hivers doux 7–10 °C avec pluies de novembre à février ; meilleurs mois avec un chien : avril–mai et fin septembre–octobre, quand la pierre ne brûle pas.`,
+      ],
+      en: [
+        `How to arrive: Matera has no airport; the nearest is Bari (BRI, 65 km), linked by the Pugliairbus shuttle in 1h15. The FAL train from Bari Centrale (1h15 to 1h30) carries dogs free of charge; Marozzi coaches run from Rome and Naples.`,
+        `Documents: EU pet passport, ISO microchip and rabies vaccination at least 21 days old for EU visitors; Animal Health Certificate (AHC) issued within 10 days for non-EU visitors (UK included post-Brexit).`,
+        `Local transport: the old town and the Sassi are walked on foot; city buses accept leashed dogs with a muzzle on hand, small dogs in a closed carrier travel free. Many lanes are reachable on foot only.`,
+        `Pet-sitting: Rover, Pawshake and DogHero cover Matera; expect about €15 per night for in-home boarding and €12 per walk; book early for spring long weekends and Ferragosto (15 August).`,
+        `Climate: very hot dry summers 27–32 °C, mild winters 7–10 °C with rain November to February; best months with a dog: April–May and late September–October, when the stone is not burning.`,
+      ],
+      es: [
+        `Cómo llegar: Matera no tiene aeropuerto; el más cercano es Bari (BRI, 65 km), unido por la lanzadera Pugliairbus en 1h15. El tren FAL desde Bari Centrale (1h15 a 1h30) lleva perros gratis; autocares Marozzi desde Roma y Nápoles.`,
+        `Documentos: pasaporte europeo, microchip ISO y vacuna antirrábica de al menos 21 días para visitantes UE; Animal Health Certificate (AHC) emitido en los 10 días previos para visitantes de fuera de la UE (Reino Unido incluido tras el Brexit).`,
+        `Transporte local: el casco antiguo y los Sassi se recorren a pie; los buses urbanos admiten perros con correa y bozal a mano, perros pequeños en transportín cerrado gratis. Muchas callejuelas solo son accesibles a pie.`,
+        `Pet-sitting: Rover, Pawshake y DogHero cubren Matera; cuenta unos 15 € por noche en casa del cuidador y 12 € por paseo; reserva con tiempo para los puentes de primavera y Ferragosto (15 de agosto).`,
+        `Clima: veranos muy calurosos y secos 27–32 °C, inviernos suaves 7–10 °C con lluvias de noviembre a febrero; mejores meses con un perro: abril–mayo y finales de septiembre–octubre, cuando la piedra no quema.`,
+      ],
+      pt: [
+        `Como chegar: Matera não tem aeroporto; o mais próximo é Bari (BRI, 65 km), ligado pela shuttle Pugliairbus em 1h15. O comboio FAL a partir de Bari Centrale (1h15 a 1h30) leva cães gratuitamente; autocarros Marozzi a partir de Roma e Nápoles.`,
+        `Documentos: passaporte europeu, microchip ISO e vacina antirrábica de pelo menos 21 dias para visitantes UE; Animal Health Certificate (AHC) emitido nos 10 dias anteriores para visitantes fora da UE (Reino Unido incluído depois do Brexit).`,
+        `Transporte local: o centro antigo e os Sassi percorrem-se a pé; os autocarros urbanos admitem cães com trela e açaime à mão, cães pequenos em transportadora fechada viajam grátis. Muitas vielas só são acessíveis a pé.`,
+        `Pet-sitting: Rover, Pawshake e DogHero cobrem Matera; conta cerca de 15 € por noite em casa do cuidador e 12 € por passeio; reserva cedo para as pontes da primavera e o Ferragosto (15 de agosto).`,
+        `Clima: verões muito quentes e secos 27–32 °C, invernos amenos 7–10 °C com chuvas de novembro a fevereiro; melhores meses com um cão: abril–maio e fim de setembro–outubro, quando a pedra não queima.`,
+      ],
+    },
+  },
+
   milan: {
     history: {
       fr: `Milan, capitale de la Lombardie et moteur financier et mode de l'Italie, remonte à l'établissement celte de Medhelan vers 600 av. J.-C. avant de devenir capitale impériale romaine en 286 apr. J.-C. La ville mêle aujourd'hui la grandeur gothique, le Duomo et ses 135 flèches ont mis près de six siècles à être achevés, aux gratte-ciel élégants de Porta Nuova et aux canaux restaurés des Navigli. Le mode de vie milanais est réputé dog-friendly: l'Italie a le plus fort taux de possession de chiens d'Europe, et on les voit impeccablement toilettés dans le Quadrilatero, aux terrasses de l'aperitivo des Navigli et au Parco Sempione le dimanche. La ville accueille même chaque année 'Quattrozampeinfiera' à la Fiera Milano. Les animaux sont admis dans les transports ATM, métro, tram, bus, à condition de porter laisse ET muselière, règle appliquée plus strictement qu'ailleurs em Italie.`,
@@ -20612,6 +20749,143 @@ const cityContent: Record<string, CityContent> = {
         'Transporte: autocarros TUSSAM admiten cães pequenos em transportadora; Metro de Sevilla (uma línea) permite cães em transportadora a toda hora e mayores con bozal em horas vale.',
         'Refugios frescos: as galerías subterráneas alimentadas por acueducto das Setas e os jardins do Real Alcázar se mantienen muito mais frescos que a rua.',
         'Tiendas: Kiwoko e Tiendanimal no centro comercial Nervión; Triana cuenta con vários petshops independientes.',
+      ],
+    },
+  },
+
+  siena: {
+    history: {
+      fr: `Sienne, environ 53 000 habitants perchés sur trois collines de tuf au cœur de la Toscane méridionale, est l'une des villes médiévales les mieux conservées d'Europe et un site du patrimoine mondial de l'UNESCO. Rivale de Florence au Moyen Âge, elle a figé son apogée gothique du XIVᵉ siècle autour de la Piazza del Campo en forme de coquille, et se divise toujours en 17 contrade (quartiers) qui s'affrontent deux fois l'an lors du Palio, la célèbre course de chevaux des 2 juillet et 16 août. Côté chiens, la réglementation italienne s'applique : laisse obligatoire dans l'espace public, muselière à porter sur soi, ramassage obligatoire ; le centre intra-muros, presque entièrement piéton, est très agréable à parcourir avec un chien hors des heures de pointe. Les chiens en laisse sont admis sur la Piazza del Campo, le long des remparts de la Fortezza Medicea et dans le jardin médiéval de l'Orto de' Pecci, mais pas à l'intérieur du Duomo ni des musées. Évitez absolument la ville les jours de Palio : la foule compacte et le bruit en font un cauchemar pour un animal.`,
+      en: `Siena, around 53,000 residents perched on three tufa hills in southern Tuscany, is one of the best-preserved medieval cities in Europe and a UNESCO World Heritage Site. Florence's great rival in the Middle Ages, it froze its 14th-century Gothic peak around the shell-shaped Piazza del Campo, and is still divided into 17 contrade (neighbourhoods) that compete twice a year in the Palio, the famous horse race held on 2 July and 16 August. On dogs, Italian rules apply: a leash is required in public spaces, a muzzle must be carried and waste picked up; the almost fully pedestrian walled centre is a pleasure to explore with a dog outside peak hours. Leashed dogs are welcome on the Piazza del Campo, along the ramparts of the Fortezza Medicea and in the medieval Orto de' Pecci garden, but not inside the Duomo or the museums. Avoid the city entirely on Palio days: the dense crowds and noise make it a nightmare for an animal.`,
+      es: `Siena, unos 53.000 habitantes encaramados en tres colinas de toba en el sur de la Toscana, es una de las ciudades medievales mejor conservadas de Europa y Patrimonio de la Humanidad de la UNESCO. Gran rival de Florencia en la Edad Media, congeló su apogeo gótico del siglo XIV en torno a la Piazza del Campo en forma de concha, y sigue dividida en 17 contrade (barrios) que compiten dos veces al año en el Palio, la famosa carrera de caballos del 2 de julio y el 16 de agosto. En cuanto a los perros, rige la normativa italiana: correa obligatoria en el espacio público, bozal que hay que llevar encima y recogida obligatoria; el centro amurallado, casi totalmente peatonal, es un placer recorrerlo con perro fuera de las horas punta. Los perros con correa son bienvenidos en la Piazza del Campo, a lo largo de las murallas de la Fortezza Medicea y en el jardín medieval del Orto de' Pecci, pero no dentro del Duomo ni de los museos. Evita la ciudad por completo los días de Palio: la multitud compacta y el ruido la convierten en una pesadilla para un animal.`,
+      pt: `Siena, cerca de 53.000 habitantes empoleirados em três colinas de tufo no sul da Toscana, é uma das cidades medievais mais bem conservadas da Europa e Património Mundial da UNESCO. Grande rival de Florença na Idade Média, congelou o seu apogeu gótico do século XIV em torno da Piazza del Campo em forma de concha, e continua dividida em 17 contrade (bairros) que competem duas vezes por ano no Palio, a famosa corrida de cavalos de 2 de julho e 16 de agosto. Quanto aos cães, vigora a regulamentação italiana: trela obrigatória no espaço público, açaime que se deve levar consigo e recolha obrigatória; o centro muralhado, quase totalmente pedonal, é um prazer de percorrer com cão fora das horas de ponta. Os cães com trela são bem-vindos na Piazza del Campo, ao longo das muralhas da Fortezza Medicea e no jardim medieval do Orto de' Pecci, mas não dentro do Duomo nem dos museus. Evita a cidade por completo nos dias de Palio: a multidão compacta e o ruído tornam-na um pesadelo para um animal.`,
+    },
+    sights: [
+      {
+        name: 'Piazza del Campo',
+        emoji: '🐚',
+        petFriendly: true,
+        desc: {
+          fr: `La place en forme de coquille au cœur de Sienne, divisée en neuf segments de brique convergeant vers le Palazzo Pubblico et la Torre del Mangia, l'une des plus belles places médiévales du monde. Toujours ouverte, parfaite en laisse ; intérieur du palais et montée de la tour fermés aux chiens.`,
+          en: `The shell-shaped square at the heart of Siena, split into nine brick segments converging on the Palazzo Pubblico and the Torre del Mangia, one of the finest medieval squares in the world. Always open and perfect on a leash; the palace interior and the tower climb are closed to dogs.`,
+          es: `La plaza en forma de concha en el corazón de Siena, dividida en nueve segmentos de ladrillo que convergen hacia el Palazzo Pubblico y la Torre del Mangia, una de las plazas medievales más bellas del mundo. Siempre abierta y perfecta con correa; el interior del palacio y la subida a la torre están cerrados a perros.`,
+          pt: `A praça em forma de concha no coração de Siena, dividida em nove segmentos de tijolo que convergem para o Palazzo Pubblico e a Torre del Mangia, uma das mais belas praças medievais do mundo. Sempre aberta e perfeita com trela; o interior do palácio e a subida à torre estão fechados a cães.`,
+        },
+      },
+      {
+        name: 'Fortezza Medicea',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Forteresse en brique du XVIᵉ siècle bâtie par les Médicis, dont les larges remparts plats forment aujourd'hui une promenade panoramique très prisée des Siennois et de leurs chiens. Accès libre en laisse à toute heure, vue sur les collines des Crete Senesi ; jardin de la Lizza attenant ombragé pour une pause.`,
+          en: `A 16th-century brick fortress built by the Medici, whose broad flat ramparts now form a panoramic promenade much loved by Sienese and their dogs. Free on a leash at any hour, with views over the Crete Senesi hills; the adjoining Lizza gardens are shaded for a break.`,
+          es: `Fortaleza de ladrillo del siglo XVI construida por los Médici, cuyas anchas murallas planas forman hoy un paseo panorámico muy querido por los sieneses y sus perros. Acceso libre con correa a cualquier hora, con vistas a las colinas de las Crete Senesi; los jardines de la Lizza contiguos dan sombra para una pausa.`,
+          pt: `Fortaleza de tijolo do século XVI construída pelos Médici, cujas largas muralhas planas formam hoje um passeio panorâmico muito apreciado pelos sieneses e pelos seus cães. Acesso livre com trela a qualquer hora, com vistas sobre as colinas das Crete Senesi; os jardins da Lizza ao lado dão sombra para uma pausa.`,
+        },
+      },
+      {
+        name: "Orto de' Pecci",
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Vallée verte médiévale en contrebas de la Piazza del Campo, avec potagers, vignes, animaux de ferme et grandes pelouses, une bulle de campagne en plein centre. Chiens en laisse bienvenus sur les sentiers et la pelouse, café-restaurant avec terrasse acceptant les chiens, parfait pour souffler loin des ruelles.`,
+          en: `A medieval green valley just below the Piazza del Campo, with vegetable plots, vines, farm animals and broad lawns, a pocket of countryside in the very centre. Leashed dogs welcome on the paths and lawn, with a café-restaurant terrace that accepts dogs, ideal for a breather away from the lanes.`,
+          es: `Valle verde medieval justo bajo la Piazza del Campo, con huertos, viñas, animales de granja y amplios céspedes, una burbuja de campo en pleno centro. Perros con correa bienvenidos en los senderos y el césped, con un café-restaurante con terraza que admite perros, perfecto para respirar lejos de las callejuelas.`,
+          pt: `Vale verde medieval mesmo abaixo da Piazza del Campo, com hortas, vinhas, animais de quinta e amplos relvados, uma bolha de campo em pleno centro. Cães com trela bem-vindos nos caminhos e no relvado, com uma esplanada de café-restaurante que admite cães, perfeito para respirar longe das vielas.`,
+        },
+      },
+      {
+        name: 'Duomo di Siena',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Cathédrale gothique aux bandes de marbre noir et blanc, l'une des plus spectaculaires d'Italie, dominant la ville depuis le point le plus haut. Parvis et ruelles autour libres en laisse pour admirer la façade ; intérieur, crypte et Piccolomini réservés aux chiens d'assistance.`,
+          en: `A Gothic cathedral banded in black-and-white marble, one of the most spectacular in Italy, crowning the city from its highest point. The forecourt and surrounding lanes are free on a leash to admire the façade; the interior, crypt and Piccolomini library are reserved for assistance dogs.`,
+          es: `Catedral gótica con franjas de mármol blanco y negro, una de las más espectaculares de Italia, que corona la ciudad desde su punto más alto. El atrio y las callejuelas alrededor son libres con correa para admirar la fachada; el interior, la cripta y la Piccolomini están reservados a perros de asistencia.`,
+          pt: `Catedral gótica com faixas de mármore branco e preto, uma das mais espectaculares de Itália, que coroa a cidade a partir do seu ponto mais alto. O adro e as vielas em redor são livres com trela para admirar a fachada; o interior, a cripta e a Piccolomini estão reservados a cães de assistência.`,
+        },
+      },
+      {
+        name: 'Via Francigena',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `L'antique route de pèlerinage Canterbury-Rome traverse Sienne par la Porta Camollia au nord et la Porta Romana au sud, jalonnée de portails médiévaux. Les tronçons sortant des portes, à travers oliviers et collines, sont d'excellentes balades en laisse loin de la foule du centre.`,
+          en: `The ancient Canterbury-to-Rome pilgrim route runs through Siena via Porta Camollia in the north and Porta Romana in the south, marked by medieval gateways. The stretches leaving the gates, through olive groves and hills, make excellent leashed walks away from the centre's crowds.`,
+          es: `La antigua ruta de peregrinación Canterbury-Roma atraviesa Siena por la Porta Camollia al norte y la Porta Romana al sur, jalonada de portales medievales. Los tramos que salen de las puertas, entre olivares y colinas, son excelentes paseos con correa lejos de la multitud del centro.`,
+          pt: `A antiga rota de peregrinação Cantuária-Roma atravessa Siena pela Porta Camollia a norte e a Porta Romana a sul, marcada por portões medievais. Os trechos que saem das portas, por olivais e colinas, são excelentes passeios com trela longe da multidão do centro.`,
+        },
+      },
+      {
+        name: 'Crete Senesi',
+        emoji: '🌄',
+        petFriendly: true,
+        desc: {
+          fr: `Les collines d'argile au sud-est de Sienne, paysage emblématique de Toscane fait de croupes ondulées, de cyprès et de fermes isolées. À 20–30 min en voiture ou en bus Tiemme, sentiers et routes blanches idéales pour de longues marches en laisse ; aucune ombre, partez tôt en été.`,
+          en: `The clay hills southeast of Siena, the emblematic Tuscan landscape of rolling ridges, cypresses and lone farmhouses. A 20–30 minute drive or Tiemme bus away, with trails and white gravel roads perfect for long leashed walks; no shade, so set off early in summer.`,
+          es: `Las colinas de arcilla al sureste de Siena, paisaje emblemático de la Toscana hecho de lomas onduladas, cipreses y caseríos aislados. A 20–30 min en coche o bus Tiemme, con senderos y caminos blancos ideales para largos paseos con correa; sin sombra, sal temprano en verano.`,
+          pt: `As colinas de argila a sudeste de Siena, paisagem emblemática da Toscana feita de cumes ondulados, ciprestes e casais isolados. A 20–30 min de carro ou autocarro Tiemme, com trilhos e estradas brancas ideais para longos passeios com trela; sem sombra, parte cedo no verão.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Jours de Palio (2 juillet et 16 août, plus les répétitions des jours précédents) : la Piazza del Campo et tout le centre sont noirs de monde et assourdissants. Laissez le chien à l'hôtel ou, mieux, fuyez vers les Crete Senesi ce jour-là.`,
+        `Règles italiennes : laisse obligatoire dans tout l'espace public, muselière à garder sur soi (à mettre à la demande dans bus et trains), sacs ramasse-crottes obligatoires.`,
+        `Vétérinaires : Clinica Veterinaria Senese (Via Paolo Frajese 61, +39 0577 41412) et Clinica Veterinaria San Martino (Strada Cassia Nord 106, +39 0577 319102, salle d'opération prête pour les urgences). Pour une référence universitaire, l'Ospedale Didattico Veterinario de l'Université de Pise (+39 050 221 0177) est à 1h30.`,
+        `Pavés et briques en pente : le centre est très vallonné et glissant sous la pluie. Pour les chiens âgés, privilégiez les remparts plats de la Fortezza et l'Orto de' Pecci aux ruelles les plus raides.`,
+        `Chaleur d'été : la brique et le tuf emmagasinent la chaleur, 30 °C et plus en juillet–août. Promenez tôt le matin ou en soirée et portez de l'eau, les fontaines (fontanelli) sont rares dans le centre.`,
+      ],
+      en: [
+        `Palio days (2 July and 16 August, plus the trial races on the preceding days): the Piazza del Campo and the whole centre are packed and deafening. Leave the dog at the hotel or, better, escape to the Crete Senesi for the day.`,
+        `Italian rules: a leash is required throughout public space, a muzzle must be carried (fitted on request on buses and trains) and waste bags are mandatory.`,
+        `Vets: Clinica Veterinaria Senese (Via Paolo Frajese 61, +39 0577 41412) and Clinica Veterinaria San Martino (Strada Cassia Nord 106, +39 0577 319102, operating room ready for emergencies). For a university referral, the Ospedale Didattico Veterinario of the University of Pisa (+39 050 221 0177) is 1h30 away.`,
+        `Sloping cobbles and brick: the centre is steep and slippery in the rain. For older dogs, favour the flat Fortezza ramparts and the Orto de' Pecci over the steepest lanes.`,
+        `Summer heat: brick and tufa store heat, 30 °C and above in July–August. Walk early in the morning or in the evening and carry water, as public fountains (fontanelli) are scarce in the centre.`,
+      ],
+      es: [
+        `Días de Palio (2 de julio y 16 de agosto, además de las carreras de prueba los días previos): la Piazza del Campo y todo el centro están abarrotados y ensordecedores. Deja al perro en el hotel o, mejor, escápate a las Crete Senesi ese día.`,
+        `Normas italianas: correa obligatoria en todo el espacio público, bozal que hay que llevar encima (a colocar si lo piden en bus y tren) y bolsas obligatorias.`,
+        `Veterinarios: Clinica Veterinaria Senese (Via Paolo Frajese 61, +39 0577 41412) y Clinica Veterinaria San Martino (Strada Cassia Nord 106, +39 0577 319102, quirófano listo para urgencias). Para una referencia universitaria, el Ospedale Didattico Veterinario de la Universidad de Pisa (+39 050 221 0177) está a 1h30.`,
+        `Adoquines y ladrillo en pendiente: el centro es empinado y resbala con la lluvia. Para perros mayores, prioriza las murallas planas de la Fortezza y el Orto de' Pecci frente a las callejuelas más empinadas.`,
+        `Calor de verano: el ladrillo y la toba acumulan calor, 30 °C o más en julio–agosto. Pasea temprano por la mañana o al atardecer y lleva agua, las fuentes (fontanelli) escasean en el centro.`,
+      ],
+      pt: [
+        `Dias de Palio (2 de julho e 16 de agosto, além das corridas de ensaio nos dias anteriores): a Piazza del Campo e todo o centro estão à pinha e ensurdecedores. Deixa o cão no hotel ou, melhor, foge para as Crete Senesi nesse dia.`,
+        `Regras italianas: trela obrigatória em todo o espaço público, açaime que se deve levar consigo (a colocar a pedido em autocarros e comboios) e sacos obrigatórios.`,
+        `Veterinários: Clinica Veterinaria Senese (Via Paolo Frajese 61, +39 0577 41412) e Clinica Veterinaria San Martino (Strada Cassia Nord 106, +39 0577 319102, bloco operatório pronto para urgências). Para uma referência universitária, o Ospedale Didattico Veterinario da Universidade de Pisa (+39 050 221 0177) está a 1h30.`,
+        `Calçada e tijolo em declive: o centro é íngreme e escorrega com a chuva. Para cães idosos, prefere as muralhas planas da Fortezza e o Orto de' Pecci às vielas mais íngremes.`,
+        `Calor de verão: o tijolo e o tufo acumulam calor, 30 °C ou mais em julho–agosto. Passeia cedo de manhã ou ao fim do dia e leva água, as fontes (fontanelli) são escassas no centro.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Comment venir : pas d'aéroport à Sienne ; le plus proche est Florence (FLR, 70 km) relié par le car direct Autostradale en 1h30. Trains régionaux Trenitalia depuis Florence (1h15 à 1h45, chiens muselés acceptés) ; bus Tiemme/Sena vers San Gimignano, Volterra et Montepulciano.`,
+        `Documents : passeport européen, puce ISO et vaccin antirabique d'au moins 21 jours pour l'UE ; Animal Health Certificate (AHC) délivré dans les 10 jours pour les visiteurs hors UE (Royaume-Uni post-Brexit inclus).`,
+        `Transports locaux : le centre intra-muros se parcourt entièrement à pied ; les bus urbains Tiemme acceptent les chiens en laisse + muselière à disposition, petits chiens en caisse fermée gratuits. Centre interdit aux voitures (ZTL), garez-vous aux parkings périphériques.`,
+        `Pet-sitting : Rover, Pawshake et DogHero couvrent Sienne et le Chianti ; comptez environ 16 €/nuit en garde à domicile et 12 € la promenade ; réservez tôt autour des dates du Palio.`,
+        `Climat : étés chauds et secs 26–30 °C, hivers doux 7–10 °C avec pluies de novembre à février ; meilleurs mois avec un chien : avril–mai et fin septembre–octobre, quand les Crete Senesi sont vertes ou dorées.`,
+      ],
+      en: [
+        `How to arrive: Siena has no airport; the nearest is Florence (FLR, 70 km), linked by direct Autostradale coach in 1h30. Trenitalia regional trains from Florence (1h15 to 1h45, muzzled dogs accepted); Tiemme/Sena buses to San Gimignano, Volterra and Montepulciano.`,
+        `Documents: EU pet passport, ISO microchip and rabies vaccination at least 21 days old for EU visitors; Animal Health Certificate (AHC) issued within 10 days for non-EU visitors (UK included post-Brexit).`,
+        `Local transport: the walled centre is walked entirely on foot; Tiemme city buses accept leashed dogs with a muzzle on hand, small dogs in a closed carrier travel free. The centre is closed to cars (ZTL), so use the peripheral car parks.`,
+        `Pet-sitting: Rover, Pawshake and DogHero cover Siena and the Chianti; expect about €16 per night for in-home boarding and €12 per walk; book early around the Palio dates.`,
+        `Climate: hot dry summers 26–30 °C, mild winters 7–10 °C with rain November to February; best months with a dog: April–May and late September–October, when the Crete Senesi are green or golden.`,
+      ],
+      es: [
+        `Cómo llegar: Siena no tiene aeropuerto; el más cercano es Florencia (FLR, 70 km), unido por autocar directo Autostradale en 1h30. Trenes regionales Trenitalia desde Florencia (1h15 a 1h45, perros con bozal admitidos); buses Tiemme/Sena a San Gimignano, Volterra y Montepulciano.`,
+        `Documentos: pasaporte europeo, microchip ISO y vacuna antirrábica de al menos 21 días para visitantes UE; Animal Health Certificate (AHC) emitido en los 10 días previos para visitantes de fuera de la UE (Reino Unido incluido tras el Brexit).`,
+        `Transporte local: el centro amurallado se recorre íntegramente a pie; los buses urbanos Tiemme admiten perros con correa y bozal a mano, perros pequeños en transportín cerrado gratis. El centro está cerrado a coches (ZTL), usa los aparcamientos periféricos.`,
+        `Pet-sitting: Rover, Pawshake y DogHero cubren Siena y el Chianti; cuenta unos 16 € por noche en casa del cuidador y 12 € por paseo; reserva con tiempo en torno a las fechas del Palio.`,
+        `Clima: veranos calurosos y secos 26–30 °C, inviernos suaves 7–10 °C con lluvias de noviembre a febrero; mejores meses con un perro: abril–mayo y finales de septiembre–octubre, cuando las Crete Senesi están verdes o doradas.`,
+      ],
+      pt: [
+        `Como chegar: Siena não tem aeroporto; o mais próximo é Florença (FLR, 70 km), ligado por autocarro direto Autostradale em 1h30. Comboios regionais Trenitalia a partir de Florença (1h15 a 1h45, cães com açaime admitidos); autocarros Tiemme/Sena para San Gimignano, Volterra e Montepulciano.`,
+        `Documentos: passaporte europeu, microchip ISO e vacina antirrábica de pelo menos 21 dias para visitantes UE; Animal Health Certificate (AHC) emitido nos 10 dias anteriores para visitantes fora da UE (Reino Unido incluído depois do Brexit).`,
+        `Transporte local: o centro muralhado percorre-se inteiramente a pé; os autocarros urbanos Tiemme admitem cães com trela e açaime à mão, cães pequenos em transportadora fechada viajam grátis. O centro está fechado a carros (ZTL), usa os parques periféricos.`,
+        `Pet-sitting: Rover, Pawshake e DogHero cobrem Siena e o Chianti; conta cerca de 16 € por noite em casa do cuidador e 12 € por passeio; reserva cedo em torno das datas do Palio.`,
+        `Clima: verões quentes e secos 26–30 °C, invernos amenos 7–10 °C com chuvas de novembro a fevereiro; melhores meses com um cão: abril–maio e fim de setembro–outubro, quando as Crete Senesi estão verdes ou douradas.`,
       ],
     },
   },

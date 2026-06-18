@@ -22,9 +22,26 @@ const SITEMAP_URL = `https://${HOST}/sitemap.xml`
 const KEY_LOCATION = `https://${HOST}/${KEY}.txt`
 const INDEXNOW_ENDPOINT = 'https://api.indexnow.org/IndexNow'
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
+
 async function fetchSitemapUrls() {
-  const res = await fetch(SITEMAP_URL, { redirect: 'follow' })
-  if (!res.ok) throw new Error(`Sitemap fetch failed: ${res.status}`)
+  // The workflow fires on every push and waits a fixed delay for Vercel. If the
+  // deploy is slow or a build is mid-flight, the sitemap can transiently return
+  // a 5xx/404. Retry a few times before giving up so we don't fail CI (and send
+  // a failure email) for a transient deploy window.
+  let res
+  const ATTEMPTS = 5
+  for (let i = 1; i <= ATTEMPTS; i++) {
+    try {
+      res = await fetch(SITEMAP_URL, { redirect: 'follow' })
+      if (res.ok) break
+      console.log(`   sitemap attempt ${i}/${ATTEMPTS}: HTTP ${res.status}, retrying…`)
+    } catch (e) {
+      console.log(`   sitemap attempt ${i}/${ATTEMPTS}: ${e.message}, retrying…`)
+    }
+    if (i < ATTEMPTS) await sleep(30000)
+  }
+  if (!res || !res.ok) throw new Error(`Sitemap fetch failed after ${ATTEMPTS} attempts: ${res ? res.status : 'no response'}`)
   const xml = await res.text()
   // Naive but robust: pull every <loc>…</loc>
   const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1].trim())

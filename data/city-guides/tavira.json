@@ -71,7 +71,7 @@
           "name": "Restaurante Avenida",
           "address": "Avenida Doutor Mateus Teixeira de Azevedo 11, 8800-356 Tavira",
           "neighborhood": "Rio Gilão riverside",
-          "photo": "/images/city-places/tavira-restaurants-avenida.jpg",
+          "photo": "/images/city-places/tavira-restaurants-restaurante-avenida.jpg",
           "website": "https://www.facebook.com/restauranteavenidatavira",
           "description": "A long-running riverside tasca on the eastern bank of the Rio Gilão, with an awning-shaded pavement terrace facing the Ponte Romana. The kitchen sticks to Algarve classics: arroz de polvo, cataplana, grilled sardines and the whole catch of the day from the Tavira boats.",
           "descriptionFr": "Tasca de longue date au bord du Rio Gilão sur la rive est, avec terrasse de trottoir abritée d`un store face au pont romain. La cuisine reste fidèle aux classiques de l`Algarve : arroz de polvo, cataplana, sardines grillées et la pêche entière du jour des bateaux de Tavira.",
@@ -115,24 +115,60 @@
         "Atum de Tavira, conquilhas de Cacela e arroz de polvo são os pratos assinatura da região; o peixe mais fresco chega ao Mercado Municipal antes das 09:00 todas as manhãs."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside Tavira restaurants?", "a": "Leashed dogs are welcome on virtually every pavement and riverside terrace. Air-conditioned indoor rooms in July-August often prefer dogs outside, simply ask at the door."},
-        {"q": "Do restaurants provide water bowls?", "a": "Most terraces bring a bowl unprompted; if not, asking for água para o cão always works."},
-        {"q": "Can I bring my dog to the Rio Gilão riverside esplanadas?", "a": "Yes, the entire Rua do Cais and Rua José Pires Padinha riverside promenade is pedestrian and dog-friendly, with leashed dogs welcome on almost every esplanada year-round."}
+        {
+          "q": "Are dogs allowed inside Tavira restaurants?",
+          "a": "Leashed dogs are welcome on virtually every pavement and riverside terrace. Air-conditioned indoor rooms in July-August often prefer dogs outside, simply ask at the door."
+        },
+        {
+          "q": "Do restaurants provide water bowls?",
+          "a": "Most terraces bring a bowl unprompted; if not, asking for água para o cão always works."
+        },
+        {
+          "q": "Can I bring my dog to the Rio Gilão riverside esplanadas?",
+          "a": "Yes, the entire Rua do Cais and Rua José Pires Padinha riverside promenade is pedestrian and dog-friendly, with leashed dogs welcome on almost every esplanada year-round."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à l`intérieur des restaurants de Tavira ?", "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de trottoir et en bord de rivière. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors, demandez à l`entrée."},
-        {"q": "Les restaurants fournissent-ils des gamelles d`eau ?", "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander água para o cão fonctionne toujours."},
-        {"q": "Puis-je emmener mon chien sur les esplanades en bord du Rio Gilão ?", "a": "Oui, toute la Rua do Cais et la Rua José Pires Padinha en bord de rivière sont piétonnes et dog-friendly, avec chiens en laisse bienvenus sur quasiment chaque esplanade toute l`année."}
+        {
+          "q": "Les chiens sont-ils autorisés à l`intérieur des restaurants de Tavira ?",
+          "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de trottoir et en bord de rivière. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors, demandez à l`entrée."
+        },
+        {
+          "q": "Les restaurants fournissent-ils des gamelles d`eau ?",
+          "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander água para o cão fonctionne toujours."
+        },
+        {
+          "q": "Puis-je emmener mon chien sur les esplanades en bord du Rio Gilão ?",
+          "a": "Oui, toute la Rua do Cais et la Rua José Pires Padinha en bord de rivière sont piétonnes et dog-friendly, avec chiens en laisse bienvenus sur quasiment chaque esplanade toute l`année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Tavira?", "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas adoquinadas y a orillas del río. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera, basta con preguntar en la entrada."},
-        {"q": "¿Los restaurantes ofrecen cuencos de agua?", "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir água para o cão siempre funciona."},
-        {"q": "¿Puedo llevar al perro a las esplanadas a orillas del Rio Gilão?", "a": "Sí, toda la Rua do Cais y la Rua José Pires Padinha a orillas del río son peatonales y pet-friendly, con perros con correa bienvenidos en casi todas las esplanadas todo el año."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Tavira?",
+          "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas adoquinadas y a orillas del río. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera, basta con preguntar en la entrada."
+        },
+        {
+          "q": "¿Los restaurantes ofrecen cuencos de agua?",
+          "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir água para o cão siempre funciona."
+        },
+        {
+          "q": "¿Puedo llevar al perro a las esplanadas a orillas del Rio Gilão?",
+          "a": "Sí, toda la Rua do Cais y la Rua José Pires Padinha a orillas del río son peatonales y pet-friendly, con perros con correa bienvenidos en casi todas las esplanadas todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos dentro dos restaurantes de Tavira?", "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas calcetadas e à beira-rio. As salas com ar condicionado em julho-agosto costumam preferir os cães fora, basta perguntar à entrada."},
-        {"q": "Os restaurantes oferecem taças de água?", "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir água para o cão funciona sempre."},
-        {"q": "Posso levar o meu cão às esplanadas do Rio Gilão?", "a": "Sim, toda a Rua do Cais e a Rua José Pires Padinha à beira-rio são pedonais e pet-friendly, com cães com trela bem-vindos em quase todas as esplanadas o ano inteiro."}
+        {
+          "q": "Os cães são admitidos dentro dos restaurantes de Tavira?",
+          "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas calcetadas e à beira-rio. As salas com ar condicionado em julho-agosto costumam preferir os cães fora, basta perguntar à entrada."
+        },
+        {
+          "q": "Os restaurantes oferecem taças de água?",
+          "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir água para o cão funciona sempre."
+        },
+        {
+          "q": "Posso levar o meu cão às esplanadas do Rio Gilão?",
+          "a": "Sim, toda a Rua do Cais e a Rua José Pires Padinha à beira-rio são pedonais e pet-friendly, com cães com trela bem-vindos em quase todas as esplanadas o ano inteiro."
+        }
       ]
     },
     "parks": {
@@ -149,7 +185,7 @@
           "name": "Salinas de Tavira (Ria Formosa salt pans)",
           "address": "Estrada das Quatro Águas, 8800 Tavira",
           "neighborhood": "Ria Formosa Natural Park",
-          "photo": "/images/city-places/tavira-parks-salinas.jpg",
+          "photo": "/images/city-places/tavira-parks-salinas-de-tavira-ria-formosa-salt-pans.jpg",
           "website": "https://www.icnf.pt/",
           "description": "A flat 6 km loop of dyke paths through the working salt pans of Tavira, framed by flamingos, avocets and the white salt mountains of the working salinas. The route runs from the centre east to the Quatro Águas ferry pier and back, on-leash year-round, free, and best at dawn before the heat builds.",
           "descriptionFr": "Boucle plate de 6 km de chemins de digue à travers les salines en activité de Tavira, encadrée par flamants roses, avocettes et les montagnes de sel blanc des salinas en exploitation. Le tracé court du centre vers l`est jusqu`au quai de bac de Quatro Águas et retour, en laisse toute l`année, gratuit, et idéal à l`aube avant la montée de la chaleur.",
@@ -175,7 +211,7 @@
           "name": "Jardim do Coreto and Rio Gilão riverside",
           "address": "Praça da República, 8800-329 Tavira",
           "neighborhood": "Tavira centre",
-          "photo": "/images/city-places/tavira-parks-jardim-do-coreto.jpg",
+          "photo": "/images/city-places/tavira-parks-jardim-do-coreto-and-rio-gilao-riverside.jpg",
           "website": "https://cm-tavira.pt/",
           "description": "The riverside Jardim do Coreto sits between the Praça da República and the Ponte Romana, a small landscaped green space with century-old ficus trees, a bandstand and benches facing the water. From there a flat 1.5 km pedestrian promenade runs east along the Rio Gilão, ideal for an evening dog stroll.",
           "descriptionFr": "Le Jardim do Coreto en bord de rivière se trouve entre la Praça da República et le Ponte Romana, petit espace vert paysager aux ficus centenaires, kiosque à musique et bancs face à l`eau. De là, une promenade piétonne plate de 1,5 km longe le Rio Gilão vers l`est, idéale pour la balade canine du soir.",
@@ -201,7 +237,7 @@
           "name": "Cacela Velha clifftop trail",
           "address": "Cacela Velha, 8900-907 Vila Nova de Cacela (10 km east of Tavira)",
           "neighborhood": "Vila Real de Santo António hinterland",
-          "photo": "/images/city-places/tavira-parks-cacela-velha.jpg",
+          "photo": "/images/city-places/tavira-parks-cacela-velha-clifftop-trail.jpg",
           "website": "https://www.cm-vrsa.pt/",
           "description": "A whitewashed clifftop hamlet 10 km east of Tavira with a 17th-century fort and a panoramic view over the Ria Formosa lagoon and Praia da Fábrica sandbar. A 2.5 km looping cliff path runs west along the lagoon edge through sea-grass dunes, on-leash year-round, free and almost empty outside summer weekends.",
           "descriptionFr": "Hameau blanchi à la chaux perché à 10 km à l`est de Tavira avec un fort du XVIIᵉ siècle et une vue panoramique sur la lagune de la Ria Formosa et le banc de sable de Praia da Fábrica. Un sentier de falaise de 2,5 km en boucle court vers l`ouest le long du bord de la lagune à travers les dunes d`oyat, en laisse toute l`année, gratuit et presque vide hors week-ends d`été.",
@@ -245,24 +281,60 @@
         "Cacela Velha não tem loja nem casas de banho públicas para além dos dois cafés; leve água e sacos de dejectos antes de sair de Tavira."
       ],
       "faqsEn": [
-        {"q": "Is there an off-leash dog park in Tavira?", "a": "Tavira has no fenced municipal dog park; the entire concelho is on-leash by default. The salinas dyke paths and the Cacela Velha cliff trail offer the longest dog-friendly walking corridors."},
-        {"q": "Can my dog walk in the Ria Formosa Natural Park?", "a": "Yes, leashed dogs are welcome on the marked dyke paths and salinas trails year-round; respect the short-leash rule to protect ground-nesting birds and the salt-pan workers."},
-        {"q": "Where can I find shaded walks in midsummer?", "a": "The Jardim do Coreto and the riverside Rio Gilão promenade have continuous shade from century-old ficus trees; the salinas and Cacela Velha trails have no shade and should be walked at dawn in July-August."}
+        {
+          "q": "Is there an off-leash dog park in Tavira?",
+          "a": "Tavira has no fenced municipal dog park; the entire concelho is on-leash by default. The salinas dyke paths and the Cacela Velha cliff trail offer the longest dog-friendly walking corridors."
+        },
+        {
+          "q": "Can my dog walk in the Ria Formosa Natural Park?",
+          "a": "Yes, leashed dogs are welcome on the marked dyke paths and salinas trails year-round; respect the short-leash rule to protect ground-nesting birds and the salt-pan workers."
+        },
+        {
+          "q": "Where can I find shaded walks in midsummer?",
+          "a": "The Jardim do Coreto and the riverside Rio Gilão promenade have continuous shade from century-old ficus trees; the salinas and Cacela Velha trails have no shade and should be walked at dawn in July-August."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un parc canin sans laisse à Tavira ?", "a": "Tavira n`a pas de parc canin clôturé municipal ; tout le concelho est en laisse par défaut. Les chemins de digue des salinas et le sentier de falaise de Cacela Velha offrent les plus longs corridors de promenade canine."},
-        {"q": "Mon chien peut-il marcher dans le parc naturel de la Ria Formosa ?", "a": "Oui, les chiens en laisse sont bienvenus sur les chemins de digue balisés et les sentiers des salinas toute l`année ; respectez la laisse courte pour protéger les oiseaux nichant au sol et les ouvriers des marais salants."},
-        {"q": "Où trouver des promenades ombragées en plein été ?", "a": "Le Jardim do Coreto et la promenade en bord du Rio Gilão offrent une ombre continue grâce aux ficus centenaires ; les salinas et Cacela Velha n`ont pas d`ombre et doivent être parcourus à l`aube en juillet-août."}
+        {
+          "q": "Y a-t-il un parc canin sans laisse à Tavira ?",
+          "a": "Tavira n`a pas de parc canin clôturé municipal ; tout le concelho est en laisse par défaut. Les chemins de digue des salinas et le sentier de falaise de Cacela Velha offrent les plus longs corridors de promenade canine."
+        },
+        {
+          "q": "Mon chien peut-il marcher dans le parc naturel de la Ria Formosa ?",
+          "a": "Oui, les chiens en laisse sont bienvenus sur les chemins de digue balisés et les sentiers des salinas toute l`année ; respectez la laisse courte pour protéger les oiseaux nichant au sol et les ouvriers des marais salants."
+        },
+        {
+          "q": "Où trouver des promenades ombragées en plein été ?",
+          "a": "Le Jardim do Coreto et la promenade en bord du Rio Gilão offrent une ombre continue grâce aux ficus centenaires ; les salinas et Cacela Velha n`ont pas d`ombre et doivent être parcourus à l`aube en juillet-août."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay un parque canino sin correa en Tavira?", "a": "Tavira no tiene parque canino vallado municipal; todo el concelho es con correa por defecto. Los caminos de dique de las salinas y el sendero del acantilado de Cacela Velha ofrecen los corredores de paseo canino más largos."},
-        {"q": "¿Mi perro puede caminar en el parque natural de la Ria Formosa?", "a": "Sí, los perros con correa son bienvenidos en los caminos de dique señalizados y los senderos de las salinas todo el año; respeta la correa corta para proteger las aves que nidifican en el suelo y a los trabajadores de las salinas."},
-        {"q": "¿Dónde encontrar paseos sombreados en pleno verano?", "a": "El Jardim do Coreto y el paseo a orillas del Rio Gilão ofrecen sombra continua gracias a los ficus centenarios; las salinas y Cacela Velha no tienen sombra y deben recorrerse al amanecer en julio-agosto."}
+        {
+          "q": "¿Hay un parque canino sin correa en Tavira?",
+          "a": "Tavira no tiene parque canino vallado municipal; todo el concelho es con correa por defecto. Los caminos de dique de las salinas y el sendero del acantilado de Cacela Velha ofrecen los corredores de paseo canino más largos."
+        },
+        {
+          "q": "¿Mi perro puede caminar en el parque natural de la Ria Formosa?",
+          "a": "Sí, los perros con correa son bienvenidos en los caminos de dique señalizados y los senderos de las salinas todo el año; respeta la correa corta para proteger las aves que nidifican en el suelo y a los trabajadores de las salinas."
+        },
+        {
+          "q": "¿Dónde encontrar paseos sombreados en pleno verano?",
+          "a": "El Jardim do Coreto y el paseo a orillas del Rio Gilão ofrecen sombra continua gracias a los ficus centenarios; las salinas y Cacela Velha no tienen sombra y deben recorrerse al amanecer en julio-agosto."
+        }
       ],
       "faqsPt": [
-        {"q": "Há um parque canino sem trela em Tavira?", "a": "Tavira não tem parque canino vedado municipal; todo o concelho é com trela por defeito. Os caminhos de dique das salinas e o trilho de falésia de Cacela Velha oferecem os mais longos corredores de passeio canino."},
-        {"q": "O meu cão pode caminhar no parque natural da Ria Formosa?", "a": "Sim, os cães com trela são bem-vindos nos caminhos de dique sinalizados e nos trilhos das salinas o ano inteiro; respeite a trela curta para proteger as aves que nidificam no solo e os trabalhadores das salinas."},
-        {"q": "Onde encontrar passeios sombreados em pleno verão?", "a": "O Jardim do Coreto e o passeio à beira do Rio Gilão oferecem sombra contínua graças aos ficus centenários; as salinas e Cacela Velha não têm sombra e devem ser percorridos ao amanhecer em julho-agosto."}
+        {
+          "q": "Há um parque canino sem trela em Tavira?",
+          "a": "Tavira não tem parque canino vedado municipal; todo o concelho é com trela por defeito. Os caminhos de dique das salinas e o trilho de falésia de Cacela Velha oferecem os mais longos corredores de passeio canino."
+        },
+        {
+          "q": "O meu cão pode caminhar no parque natural da Ria Formosa?",
+          "a": "Sim, os cães com trela são bem-vindos nos caminhos de dique sinalizados e nos trilhos das salinas o ano inteiro; respeite a trela curta para proteger as aves que nidificam no solo e os trabalhadores das salinas."
+        },
+        {
+          "q": "Onde encontrar passeios sombreados em pleno verão?",
+          "a": "O Jardim do Coreto e o passeio à beira do Rio Gilão oferecem sombra contínua graças aos ficus centenários; as salinas e Cacela Velha não têm sombra e devem ser percorridos ao amanhecer em julho-agosto."
+        }
       ]
     },
     "transport": {
@@ -279,7 +351,7 @@
           "name": "CP Linha do Algarve (regional train)",
           "address": "Estação CP de Tavira, Avenida Doutor Mateus Teixeira de Azevedo, 8800-365 Tavira",
           "neighborhood": "Tavira centre",
-          "photo": "/images/city-places/tavira-transport-cp-linha-algarve.jpg",
+          "photo": "/images/city-places/tavira-transport-cp-linha-do-algarve-regional-train.jpg",
           "website": "https://www.cp.pt/",
           "description": "The CP regional line runs from Tavira to Faro in 40 minutes (around EUR 4.30 each way) and east to Vila Real de Santo António in 30 minutes, connecting at Faro to long-distance trains for Lisbon. Small dogs in carriers travel free; larger leashed dogs need a muzzle and a half-fare ticket, off-peak only.",
           "descriptionFr": "La ligne régionale CP va de Tavira à Faro en 40 minutes (environ 4,30 € l`aller) et vers l`est à Vila Real de Santo António en 30 minutes, avec correspondance à Faro pour Lisbonne. Les petits chiens en cage voyagent gratuitement ; les plus grands en laisse ont besoin d`une muselière et d`un billet demi-tarif, en heures creuses uniquement.",
@@ -295,7 +367,7 @@
           "name": "Vamus EVA Algarve coastal bus",
           "address": "Terminal Rodoviário, Rua dos Pelames, 8800-381 Tavira",
           "neighborhood": "Tavira centre",
-          "photo": "/images/city-places/tavira-transport-vamus-eva.jpg",
+          "photo": "/images/city-places/tavira-transport-vamus-eva-algarve-coastal-bus.jpg",
           "website": "https://vamus.pt/",
           "description": "Vamus EVA operates Algarve coastal lines from Tavira west to Faro and Albufeira and east to Vila Real de Santo António, plus a short hop to Cabanas de Tavira and Cacela Velha. Single fares around EUR 3-6; small dogs in carriers ride free, larger leashed dogs at driver discretion.",
           "descriptionFr": "Vamus EVA exploite les lignes côtières d`Algarve depuis Tavira vers l`ouest jusqu`à Faro et Albufeira et vers l`est jusqu`à Vila Real de Santo António, plus un court trajet vers Cabanas de Tavira et Cacela Velha. Tarif unique environ 3-6 € ; petits chiens en cage gratuits, grands chiens en laisse à la discrétion du chauffeur.",
@@ -311,7 +383,7 @@
           "name": "Ferry Quatro Águas to Ilha de Tavira",
           "address": "Cais de Quatro Águas, 8800 Tavira",
           "neighborhood": "Ria Formosa",
-          "photo": "/images/city-places/tavira-transport-ferry-ilha-tavira.jpg",
+          "photo": "/images/city-places/tavira-transport-ferry-quatro-aguas-to-ilha-de-tavira.jpg",
           "website": "https://cm-tavira.pt/",
           "description": "A small passenger ferry crosses the Ria Formosa channel from the Quatro Águas pier 2 km east of Tavira to the dune end of the Ilha de Tavira every 15-20 minutes year-round. The 5-minute crossing costs around EUR 2 each way and welcomes leashed dogs on board without charge.",
           "descriptionFr": "Un petit bac passagers traverse le chenal de la Ria Formosa depuis le quai de Quatro Águas à 2 km à l`est de Tavira jusqu`à l`extrémité de la dune de l`Ilha de Tavira toutes les 15-20 minutes toute l`année. La traversée de 5 minutes coûte environ 2 € l`aller et accueille les chiens en laisse à bord sans supplément.",
@@ -325,24 +397,60 @@
         }
       ],
       "faqsEn": [
-        {"q": "Do I need a muzzle for my dog on the train from Tavira?", "a": "Yes, larger dogs not in a carrier must wear a muzzle on CP regional trains. Small dogs in closed carriers are exempt and ride free."},
-        {"q": "Can I take my dog to Ilha de Tavira by ferry?", "a": "Yes, leashed dogs ride the Quatro Águas ferry at no extra charge year-round. From the island side, dog-friendly access on the beach is regulated by the municipal seasonal rules."},
-        {"q": "Can I cross to Spain at Vila Real de Santo António with my dog?", "a": "Yes, the Rio Guadiana ferry from Vila Real de Santo António to Ayamonte accepts foot passengers and cars with leashed dogs; EU pet passport and rabies record are checked at random."}
+        {
+          "q": "Do I need a muzzle for my dog on the train from Tavira?",
+          "a": "Yes, larger dogs not in a carrier must wear a muzzle on CP regional trains. Small dogs in closed carriers are exempt and ride free."
+        },
+        {
+          "q": "Can I take my dog to Ilha de Tavira by ferry?",
+          "a": "Yes, leashed dogs ride the Quatro Águas ferry at no extra charge year-round. From the island side, dog-friendly access on the beach is regulated by the municipal seasonal rules."
+        },
+        {
+          "q": "Can I cross to Spain at Vila Real de Santo António with my dog?",
+          "a": "Yes, the Rio Guadiana ferry from Vila Real de Santo António to Ayamonte accepts foot passengers and cars with leashed dogs; EU pet passport and rabies record are checked at random."
+        }
       ],
       "faqsFr": [
-        {"q": "Ai-je besoin d`une muselière dans le train depuis Tavira ?", "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans les trains régionaux CP. Les petits chiens en cage fermée en sont exemptés et voyagent gratuitement."},
-        {"q": "Puis-je emmener mon chien sur l`Ilha de Tavira en bac ?", "a": "Oui, les chiens en laisse prennent le bac de Quatro Águas sans supplément toute l`année. Côté île, l`accès dog-friendly à la plage est régulé par les règles municipales saisonnières."},
-        {"q": "Puis-je traverser vers l`Espagne à Vila Real de Santo António avec mon chien ?", "a": "Oui, le bac sur le Rio Guadiana de Vila Real de Santo António à Ayamonte accepte les piétons et voitures avec chiens en laisse ; passeport européen et vaccin antirabique sont contrôlés aléatoirement."}
+        {
+          "q": "Ai-je besoin d`une muselière dans le train depuis Tavira ?",
+          "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans les trains régionaux CP. Les petits chiens en cage fermée en sont exemptés et voyagent gratuitement."
+        },
+        {
+          "q": "Puis-je emmener mon chien sur l`Ilha de Tavira en bac ?",
+          "a": "Oui, les chiens en laisse prennent le bac de Quatro Águas sans supplément toute l`année. Côté île, l`accès dog-friendly à la plage est régulé par les règles municipales saisonnières."
+        },
+        {
+          "q": "Puis-je traverser vers l`Espagne à Vila Real de Santo António avec mon chien ?",
+          "a": "Oui, le bac sur le Rio Guadiana de Vila Real de Santo António à Ayamonte accepte les piétons et voitures avec chiens en laisse ; passeport européen et vaccin antirabique sont contrôlés aléatoirement."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Necesito bozal para mi perro en el tren desde Tavira?", "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en los trenes regionales CP. Los perros pequeños en transportín cerrado están exentos y viajan gratis."},
-        {"q": "¿Puedo llevar al perro a la Ilha de Tavira en ferry?", "a": "Sí, los perros con correa cogen el ferry de Quatro Águas sin cargo extra todo el año. En la isla, el acceso pet-friendly a la playa está regulado por las normas municipales estacionales."},
-        {"q": "¿Puedo cruzar a España en Vila Real de Santo António con mi perro?", "a": "Sí, el ferry sobre el Río Guadiana de Vila Real de Santo António a Ayamonte admite peatones y coches con perros con correa; pasaporte UE y vacuna antirrábica se controlan al azar."}
+        {
+          "q": "¿Necesito bozal para mi perro en el tren desde Tavira?",
+          "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en los trenes regionales CP. Los perros pequeños en transportín cerrado están exentos y viajan gratis."
+        },
+        {
+          "q": "¿Puedo llevar al perro a la Ilha de Tavira en ferry?",
+          "a": "Sí, los perros con correa cogen el ferry de Quatro Águas sin cargo extra todo el año. En la isla, el acceso pet-friendly a la playa está regulado por las normas municipales estacionales."
+        },
+        {
+          "q": "¿Puedo cruzar a España en Vila Real de Santo António con mi perro?",
+          "a": "Sí, el ferry sobre el Río Guadiana de Vila Real de Santo António a Ayamonte admite peatones y coches con perros con correa; pasaporte UE y vacuna antirrábica se controlan al azar."
+        }
       ],
       "faqsPt": [
-        {"q": "Preciso de açaime para o meu cão no comboio a partir de Tavira?", "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime nos comboios regionais CP. Os cães pequenos em transportadora fechada estão isentos e viajam grátis."},
-        {"q": "Posso levar o meu cão à Ilha de Tavira de ferry?", "a": "Sim, os cães com trela apanham o ferry de Quatro Águas sem custo extra o ano inteiro. Do lado da ilha, o acesso pet-friendly à praia é regulado pelas regras municipais sazonais."},
-        {"q": "Posso atravessar para Espanha em Vila Real de Santo António com o meu cão?", "a": "Sim, o ferry sobre o Rio Guadiana de Vila Real de Santo António para Ayamonte aceita peões e carros com cães com trela; passaporte UE e vacina antirrábica são verificados ao acaso."}
+        {
+          "q": "Preciso de açaime para o meu cão no comboio a partir de Tavira?",
+          "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime nos comboios regionais CP. Os cães pequenos em transportadora fechada estão isentos e viajam grátis."
+        },
+        {
+          "q": "Posso levar o meu cão à Ilha de Tavira de ferry?",
+          "a": "Sim, os cães com trela apanham o ferry de Quatro Águas sem custo extra o ano inteiro. Do lado da ilha, o acesso pet-friendly à praia é regulado pelas regras municipais sazonais."
+        },
+        {
+          "q": "Posso atravessar para Espanha em Vila Real de Santo António com o meu cão?",
+          "a": "Sim, o ferry sobre o Rio Guadiana de Vila Real de Santo António para Ayamonte aceita peões e carros com cães com trela; passaporte UE e vacina antirrábica são verificados ao acaso."
+        }
       ]
     },
     "beaches": {
@@ -373,7 +481,7 @@
           "rules": "Leashed dogs October-May freely; June-September only outside lifeguarded zones",
           "facilities": "Beach bars, restaurants, mini-train (EUR 2 return), paid parking at Pedras d`el Rei",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+do+Barril",
-          "photo": "/images/city-places/tavira-beaches-praia-do-barril.jpg"
+          "photo": "/images/city-places/tavira-beaches-praia-do-barril-anchor-cemetery.jpg"
         },
         {
           "name": "Praia de Cabanas de Tavira",
@@ -383,28 +491,64 @@
           "rules": "Leashed dogs October-May freely; June-September only outside lifeguarded zones",
           "facilities": "Two ferry-pier beach bars, paid parking in Cabanas village, no facilities on the island east end",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+Cabanas+de+Tavira",
-          "photo": "/images/city-places/tavira-beaches-praia-cabanas.jpg"
+          "photo": "/images/city-places/tavira-beaches-praia-de-cabanas-de-tavira.jpg"
         }
       ],
       "faqsEn": [
-        {"q": "Can my dog swim at Tavira beaches in summer?", "a": "Officially restricted at lifeguarded zones between June 15 and September 15. Away from the lifeguard flags on the eastern dune end of Ilha de Tavira and the west end of Barril, leashed dogs are generally tolerated even in summer."},
-        {"q": "Which Tavira beach is best year-round for dogs?", "a": "The Ilha de Tavira dune end east of the ferry landing is the most dog-tolerant year-round, since the ferry filters most family crowds and the lifeguarded zone is concentrated near the landing."},
-        {"q": "Is the Atlantic safe for my dog at Tavira?", "a": "The Ria Formosa side of the islands has lagoon-calm water at all tides, ideal for nervous swimmers; the open Atlantic side has stronger currents, keep your dog on a long line until you read the surf."}
+        {
+          "q": "Can my dog swim at Tavira beaches in summer?",
+          "a": "Officially restricted at lifeguarded zones between June 15 and September 15. Away from the lifeguard flags on the eastern dune end of Ilha de Tavira and the west end of Barril, leashed dogs are generally tolerated even in summer."
+        },
+        {
+          "q": "Which Tavira beach is best year-round for dogs?",
+          "a": "The Ilha de Tavira dune end east of the ferry landing is the most dog-tolerant year-round, since the ferry filters most family crowds and the lifeguarded zone is concentrated near the landing."
+        },
+        {
+          "q": "Is the Atlantic safe for my dog at Tavira?",
+          "a": "The Ria Formosa side of the islands has lagoon-calm water at all tides, ideal for nervous swimmers; the open Atlantic side has stronger currents, keep your dog on a long line until you read the surf."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il nager sur les plages de Tavira en été ?", "a": "Officiellement restreint dans les zones surveillées entre le 15 juin et le 15 septembre. Hors des drapeaux de surveillance, à l`extrémité est de la dune de l`Ilha de Tavira et à l`ouest du Barril, les chiens en laisse sont généralement tolérés même en été."},
-        {"q": "Quelle plage de Tavira est la meilleure toute l`année pour les chiens ?", "a": "L`extrémité dune de l`Ilha de Tavira à l`est du débarcadère est la plus dog-tolerant toute l`année, car le bac filtre la majorité des familles et la zone surveillée se concentre près du débarcadère."},
-        {"q": "L`Atlantique est-il sûr pour mon chien à Tavira ?", "a": "Côté Ria Formosa, les eaux des îles sont calmes comme une lagune à toutes les marées, idéales pour les nageurs anxieux ; côté Atlantique ouvert, les courants sont plus forts, gardez votre chien en longe le temps de lire la houle."}
+        {
+          "q": "Mon chien peut-il nager sur les plages de Tavira en été ?",
+          "a": "Officiellement restreint dans les zones surveillées entre le 15 juin et le 15 septembre. Hors des drapeaux de surveillance, à l`extrémité est de la dune de l`Ilha de Tavira et à l`ouest du Barril, les chiens en laisse sont généralement tolérés même en été."
+        },
+        {
+          "q": "Quelle plage de Tavira est la meilleure toute l`année pour les chiens ?",
+          "a": "L`extrémité dune de l`Ilha de Tavira à l`est du débarcadère est la plus dog-tolerant toute l`année, car le bac filtre la majorité des familles et la zone surveillée se concentre près du débarcadère."
+        },
+        {
+          "q": "L`Atlantique est-il sûr pour mon chien à Tavira ?",
+          "a": "Côté Ria Formosa, les eaux des îles sont calmes comme une lagune à toutes les marées, idéales pour les nageurs anxieux ; côté Atlantique ouvert, les courants sont plus forts, gardez votre chien en longe le temps de lire la houle."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Mi perro puede nadar en las playas de Tavira en verano?", "a": "Oficialmente restringido en las zonas con socorrista entre el 15 de junio y el 15 de septiembre. Lejos de las banderas de vigilancia, en el extremo este de la duna de la Ilha de Tavira y al oeste del Barril, los perros con correa son generalmente tolerados incluso en verano."},
-        {"q": "¿Qué playa de Tavira es la mejor todo el año para perros?", "a": "El extremo de duna de la Ilha de Tavira al este del embarcadero es la más dog-tolerant todo el año, porque el ferry filtra la mayoría de las familias y la zona vigilada se concentra cerca del embarcadero."},
-        {"q": "¿El Atlántico es seguro para mi perro en Tavira?", "a": "El lado de la Ria Formosa de las islas tiene agua calma de laguna en todas las mareas, ideal para nadadores nerviosos; el lado del Atlántico abierto tiene corrientes más fuertes, mantén a tu perro con correa larga mientras lees el oleaje."}
+        {
+          "q": "¿Mi perro puede nadar en las playas de Tavira en verano?",
+          "a": "Oficialmente restringido en las zonas con socorrista entre el 15 de junio y el 15 de septiembre. Lejos de las banderas de vigilancia, en el extremo este de la duna de la Ilha de Tavira y al oeste del Barril, los perros con correa son generalmente tolerados incluso en verano."
+        },
+        {
+          "q": "¿Qué playa de Tavira es la mejor todo el año para perros?",
+          "a": "El extremo de duna de la Ilha de Tavira al este del embarcadero es la más dog-tolerant todo el año, porque el ferry filtra la mayoría de las familias y la zona vigilada se concentra cerca del embarcadero."
+        },
+        {
+          "q": "¿El Atlántico es seguro para mi perro en Tavira?",
+          "a": "El lado de la Ria Formosa de las islas tiene agua calma de laguna en todas las mareas, ideal para nadadores nerviosos; el lado del Atlántico abierto tiene corrientes más fuertes, mantén a tu perro con correa larga mientras lees el oleaje."
+        }
       ],
       "faqsPt": [
-        {"q": "O meu cão pode nadar nas praias de Tavira no verão?", "a": "Oficialmente restrito nas zonas com nadador-salvador entre 15 de junho e 15 de setembro. Longe das bandeiras de vigilância, no extremo leste da duna da Ilha de Tavira e a oeste do Barril, os cães com trela são geralmente tolerados mesmo no verão."},
-        {"q": "Qual a praia de Tavira mais dog-tolerant o ano inteiro?", "a": "O extremo de duna da Ilha de Tavira a leste do cais é a mais dog-tolerant o ano inteiro, porque o ferry filtra a maioria das famílias e a zona vigiada concentra-se perto do cais."},
-        {"q": "O Atlântico é seguro para o meu cão em Tavira?", "a": "Do lado da Ria Formosa, as águas das ilhas são calmas como uma laguna em todas as marés, ideais para nadadores nervosos; do lado do Atlântico aberto, as correntes são mais fortes, mantenha o seu cão com trela longa enquanto lê a ondulação."}
+        {
+          "q": "O meu cão pode nadar nas praias de Tavira no verão?",
+          "a": "Oficialmente restrito nas zonas com nadador-salvador entre 15 de junho e 15 de setembro. Longe das bandeiras de vigilância, no extremo leste da duna da Ilha de Tavira e a oeste do Barril, os cães com trela são geralmente tolerados mesmo no verão."
+        },
+        {
+          "q": "Qual a praia de Tavira mais dog-tolerant o ano inteiro?",
+          "a": "O extremo de duna da Ilha de Tavira a leste do cais é a mais dog-tolerant o ano inteiro, porque o ferry filtra a maioria das famílias e a zona vigiada concentra-se perto do cais."
+        },
+        {
+          "q": "O Atlântico é seguro para o meu cão em Tavira?",
+          "a": "Do lado da Ria Formosa, as águas das ilhas são calmas como uma laguna em todas as marés, ideais para nadadores nervosos; do lado do Atlântico aberto, as correntes são mais fortes, mantenha o seu cão com trela longa enquanto lê a ondulação."
+        }
       ]
     },
     "vets": {
@@ -430,7 +574,7 @@
           "hoursPt": "Linha de urgência 24/7; clínica seg-sáb 9:00-20:00",
           "englishSpeaking": true,
           "website": "https://www.anicura.pt/clinicas-veterinarias/algarve-hospital-veterinario/",
-          "photo": "/images/city-places/tavira-vets-anicura-algarve.jpg",
+          "photo": "/images/city-places/tavira-vets-anicura-algarve-hospital-veterinario.jpg",
           "description": "The principal 24/7 veterinary hospital for the eastern Algarve, opened in 2016 and expanded in 2024 to become the most comprehensive vet hospital in southern Portugal. Located near Faro airport, with imaging, surgery, internal medicine, oncology and after-hours emergency cover; 35 minutes from Tavira via the A22 motorway.",
           "descriptionFr": "Le principal hôpital vétérinaire 24h/24 de l`est de l`Algarve, ouvert en 2016 et agrandi en 2024 pour devenir l`hôpital vétérinaire le plus complet du sud du Portugal. Situé près de l`aéroport de Faro, avec imagerie, chirurgie, médecine interne, oncologie et couverture d`urgence hors heures ; à 35 minutes de Tavira via l`autoroute A22.",
           "descriptionEs": "El principal hospital veterinario 24/7 del este del Algarve, abierto en 2016 y ampliado en 2024 hasta convertirse en el hospital veterinario más completo del sur de Portugal. Situado cerca del aeropuerto de Faro, con imagen, cirugía, medicina interna, oncología y cobertura de urgencias fuera de horario; a 35 minutos de Tavira vía la autopista A22.",
@@ -443,7 +587,10 @@
           "servicesFr": "Urgences, chirurgie, imagerie, médecine interne, oncologie, dentisterie",
           "servicesEs": "Urgencias, cirugía, imagen, medicina interna, oncología, odontología",
           "servicesPt": "Urgências, cirurgia, imagem, medicina interna, oncologia, dentária",
-          "languages": ["Portuguese", "English"],
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
           "openingHours": "24/7 emergency",
           "tip": "Save the mobile emergency line (+351 912 390 164) as a backup; mobile coverage drops on the A22 motorway between Olhão and Tavira and you may need to phone ahead.",
           "tipFr": "Enregistrez la ligne mobile d`urgence (+351 912 390 164) en secours ; la couverture mobile chute sur l`A22 entre Olhão et Tavira et il faudra peut-être appeler avant.",
@@ -463,7 +610,7 @@
           "hoursPt": "Seg-sex 9:30-13:00 e 15:00-19:30; sáb 9:30-13:00; fechado dom",
           "englishSpeaking": true,
           "website": "https://www.tavivet.pt/",
-          "photo": "/images/city-places/tavira-vets-tavivet.jpg",
+          "photo": "/images/city-places/tavira-vets-tavivet-clinica-veterinaria.jpg",
           "description": "A central general practice on the Rua Almirante Cândido dos Reis, 5 minutes from the Praça da República, ideal for vaccination top-ups, EU passport stamps and minor non-emergency consultations. Refers to the AniCura Algarve for after-hours and complex cases.",
           "descriptionFr": "Cabinet généraliste central sur la Rua Almirante Cândido dos Reis, à 5 minutes de la Praça da República, idéal pour rappels de vaccin, tampons sur passeport européen et consultations mineures non urgentes. Renvoie sur l`AniCura Algarve pour hors heures et cas complexes.",
           "descriptionEs": "Consulta generalista céntrica en la Rua Almirante Cândido dos Reis, a 5 minutos de la Praça da República, ideal para refuerzos de vacuna, sellos de pasaporte europeo y consultas menores no urgentes. Deriva al AniCura Algarve para fuera de horario y casos complejos.",
@@ -476,7 +623,10 @@
           "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie",
           "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor",
           "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia",
-          "languages": ["Portuguese", "English"],
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
           "openingHours": "Mon-Fri 9:30-13:00 / 15:00-19:30; Sat 9:30-13:00",
           "tip": "Book the first morning slot for same-day EU passport sign-off; afternoons fill with local consultations.",
           "tipFr": "Réservez le premier créneau du matin pour une validation passeport européen le jour même ; les après-midis se remplissent de consultations locales.",
@@ -496,7 +646,7 @@
           "hoursPt": "Seg-sex 9:30-12:30 e 15:00-20:00; sáb 9:30-13:00; fechado dom",
           "englishSpeaking": true,
           "website": "https://clinicasveterinarias.pt/clinica-veterinaria-de-tavira/",
-          "photo": "/images/city-places/tavira-vets-clinica-veterinaria.jpg",
+          "photo": "/images/city-places/tavira-vets-clinica-veterinaria-de-tavira.jpg",
           "description": "A second general practice on the Rua Chefe António Afonso a few blocks from the Mercado Municipal, with afternoon slots running until 20:00 (later than most Algarve practices). Useful backup when the central Tavivet is fully booked.",
           "descriptionFr": "Deuxième cabinet généraliste sur la Rua Chefe António Afonso à quelques pâtés du Mercado Municipal, avec créneaux de l`après-midi jusqu`à 20h (plus tard que la plupart des cabinets de l`Algarve). Backup utile quand Tavivet est complet.",
           "descriptionEs": "Segunda consulta generalista en la Rua Chefe António Afonso a unas manzanas del Mercado Municipal, con huecos de tarde hasta las 20:00 (más tarde que la mayoría de las consultas del Algarve). Respaldo útil cuando Tavivet está lleno.",
@@ -509,7 +659,10 @@
           "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie",
           "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor",
           "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia",
-          "languages": ["Portuguese", "English"],
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
           "openingHours": "Mon-Fri 9:30-12:30 / 15:00-20:00; Sat 9:30-13:00",
           "tip": "The later closing time (20:00) is useful if your dog falls ill after a day at Ilha de Tavira; a same-day late slot avoids the 35 km drive to Faro.",
           "tipFr": "L`heure de fermeture plus tardive (20h) est utile si votre chien tombe malade après une journée sur l`Ilha de Tavira ; un créneau tardif le jour même évite les 35 km de route vers Faro.",
@@ -519,24 +672,60 @@
         }
       ],
       "faqsEn": [
-        {"q": "Where is the closest 24h vet to Tavira?", "a": "The AniCura Algarve Hospital Veterinário in Faro (+351 289 806 047) runs the 24/7 emergency line for the eastern Algarve, 35 minutes by car west of Tavira via the A22."},
-        {"q": "Do Tavira vets speak English?", "a": "Yes at AniCura Algarve and at both central Tavira practices; senior vets are universally fluent thanks to the large British and Dutch expat clientele."},
-        {"q": "Can I get an EU pet passport stamp before flying out of Faro?", "a": "Yes, both listed Tavira clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs."}
+        {
+          "q": "Where is the closest 24h vet to Tavira?",
+          "a": "The AniCura Algarve Hospital Veterinário in Faro (+351 289 806 047) runs the 24/7 emergency line for the eastern Algarve, 35 minutes by car west of Tavira via the A22."
+        },
+        {
+          "q": "Do Tavira vets speak English?",
+          "a": "Yes at AniCura Algarve and at both central Tavira practices; senior vets are universally fluent thanks to the large British and Dutch expat clientele."
+        },
+        {
+          "q": "Can I get an EU pet passport stamp before flying out of Faro?",
+          "a": "Yes, both listed Tavira clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est le vétérinaire 24h le plus proche de Tavira ?", "a": "L`AniCura Algarve Hospital Veterinário à Faro (+351 289 806 047) exploite la ligne d`urgence 24h/24 de l`est de l`Algarve, à 35 minutes en voiture à l`ouest de Tavira via l`A22."},
-        {"q": "Les vétérinaires de Tavira parlent-ils anglais ?", "a": "Oui à l`AniCura Algarve et dans les deux cabinets centraux de Tavira ; les vétérinaires seniors le parlent couramment grâce à la large clientèle expatriée britannique et néerlandaise."},
-        {"q": "Puis-je faire tamponner un passeport européen avant de prendre l`avion à Faro ?", "a": "Oui, les deux cliniques de Tavira listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles pour chiens en bonne santé."}
+        {
+          "q": "Où est le vétérinaire 24h le plus proche de Tavira ?",
+          "a": "L`AniCura Algarve Hospital Veterinário à Faro (+351 289 806 047) exploite la ligne d`urgence 24h/24 de l`est de l`Algarve, à 35 minutes en voiture à l`ouest de Tavira via l`A22."
+        },
+        {
+          "q": "Les vétérinaires de Tavira parlent-ils anglais ?",
+          "a": "Oui à l`AniCura Algarve et dans les deux cabinets centraux de Tavira ; les vétérinaires seniors le parlent couramment grâce à la large clientèle expatriée britannique et néerlandaise."
+        },
+        {
+          "q": "Puis-je faire tamponner un passeport européen avant de prendre l`avion à Faro ?",
+          "a": "Oui, les deux cliniques de Tavira listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles pour chiens en bonne santé."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el veterinario 24h más cercano de Tavira?", "a": "El AniCura Algarve Hospital Veterinário en Faro (+351 289 806 047) gestiona la línea de urgencias 24/7 del este del Algarve, a 35 minutos en coche al oeste de Tavira vía la A22."},
-        {"q": "¿Los veterinarios de Tavira hablan inglés?", "a": "Sí en el AniCura Algarve y en las dos consultas centrales de Tavira; los veterinarios senior son fluidos gracias a la amplia clientela expatriada británica y neerlandesa."},
-        {"q": "¿Puedo sellar un pasaporte UE antes de volar desde Faro?", "a": "Sí, las dos clínicas de Tavira listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles para perros sanos."}
+        {
+          "q": "¿Dónde está el veterinario 24h más cercano de Tavira?",
+          "a": "El AniCura Algarve Hospital Veterinário en Faro (+351 289 806 047) gestiona la línea de urgencias 24/7 del este del Algarve, a 35 minutos en coche al oeste de Tavira vía la A22."
+        },
+        {
+          "q": "¿Los veterinarios de Tavira hablan inglés?",
+          "a": "Sí en el AniCura Algarve y en las dos consultas centrales de Tavira; los veterinarios senior son fluidos gracias a la amplia clientela expatriada británica y neerlandesa."
+        },
+        {
+          "q": "¿Puedo sellar un pasaporte UE antes de volar desde Faro?",
+          "a": "Sí, las dos clínicas de Tavira listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles para perros sanos."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o veterinário 24h mais próximo de Tavira?", "a": "O AniCura Algarve Hospital Veterinário em Faro (+351 289 806 047) gere a linha de urgência 24/7 do leste do Algarve, a 35 minutos de carro a oeste de Tavira pela A22."},
-        {"q": "Os veterinários de Tavira falam inglês?", "a": "Sim no AniCura Algarve e nas duas clínicas centrais de Tavira; os veterinários seniores são fluentes graças à ampla clientela expatriada britânica e neerlandesa."},
-        {"q": "Posso carimbar um passaporte UE antes de voar de Faro?", "a": "Sim, as duas clínicas de Tavira listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."}
+        {
+          "q": "Onde fica o veterinário 24h mais próximo de Tavira?",
+          "a": "O AniCura Algarve Hospital Veterinário em Faro (+351 289 806 047) gere a linha de urgência 24/7 do leste do Algarve, a 35 minutos de carro a oeste de Tavira pela A22."
+        },
+        {
+          "q": "Os veterinários de Tavira falam inglês?",
+          "a": "Sim no AniCura Algarve e nas duas clínicas centrais de Tavira; os veterinários seniores são fluentes graças à ampla clientela expatriada britânica e neerlandesa."
+        },
+        {
+          "q": "Posso carimbar um passaporte UE antes de voar de Faro?",
+          "a": "Sim, as duas clínicas de Tavira listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."
+        }
       ]
     },
     "tips": {
@@ -578,24 +767,60 @@
         "A travessia para Ayamonte em Espanha pelo ferry do Rio Guadiana desde Vila Real de Santo António (25 min a leste) exige passaporte europeu e vacina antirrábica válida; controlos aleatórios do lado espanhol."
       ],
       "faqsEn": [
-        {"q": "Is Tavira a good base for a pet-friendly Algarve holiday?", "a": "Yes, the combination of mild ocean climate, walkable centre, ferry-filtered Ilha de Tavira and Cabanas barrier beaches, and the salinas dyke walks makes it the strongest pet base in the eastern Algarve, notably quieter than Albufeira or Lagos."},
-        {"q": "Do I need a muzzle in public in Tavira?", "a": "Only for breeds on the Portuguese restricted-breeds list; standard breeds need only a leash. The Vamus EVA bus and CP train accept muzzled large dogs and free small dogs in carriers."},
-        {"q": "What is the best month for Tavira with a dog?", "a": "April-May and September-October: mild temperatures, lower humidity, lighter crowds and unrestricted access to all beaches outside the bathing season."}
+        {
+          "q": "Is Tavira a good base for a pet-friendly Algarve holiday?",
+          "a": "Yes, the combination of mild ocean climate, walkable centre, ferry-filtered Ilha de Tavira and Cabanas barrier beaches, and the salinas dyke walks makes it the strongest pet base in the eastern Algarve, notably quieter than Albufeira or Lagos."
+        },
+        {
+          "q": "Do I need a muzzle in public in Tavira?",
+          "a": "Only for breeds on the Portuguese restricted-breeds list; standard breeds need only a leash. The Vamus EVA bus and CP train accept muzzled large dogs and free small dogs in carriers."
+        },
+        {
+          "q": "What is the best month for Tavira with a dog?",
+          "a": "April-May and September-October: mild temperatures, lower humidity, lighter crowds and unrestricted access to all beaches outside the bathing season."
+        }
       ],
       "faqsFr": [
-        {"q": "Tavira est-elle une bonne base pour des vacances pet-friendly en Algarve ?", "a": "Oui, la combinaison de climat océanique doux, centre piéton, plages d`îles-barrières filtrées par bac (Ilha de Tavira, Cabanas) et promenades des salinas en font la meilleure base canine de l`est de l`Algarve, nettement plus calme qu`Albufeira ou Lagos."},
-        {"q": "Ai-je besoin d`une muselière en public à Tavira ?", "a": "Seulement pour les races figurant sur la liste portugaise des races restreintes ; les races standard n`ont besoin que d`une laisse. Le bus Vamus EVA et le train CP acceptent les grands chiens muselés et gratuitement les petits en cage."},
-        {"q": "Quel est le meilleur mois à Tavira avec un chien ?", "a": "Avril-mai et septembre-octobre : températures douces, humidité plus basse, moins de monde et accès libre à toutes les plages hors saison de baignade."}
+        {
+          "q": "Tavira est-elle une bonne base pour des vacances pet-friendly en Algarve ?",
+          "a": "Oui, la combinaison de climat océanique doux, centre piéton, plages d`îles-barrières filtrées par bac (Ilha de Tavira, Cabanas) et promenades des salinas en font la meilleure base canine de l`est de l`Algarve, nettement plus calme qu`Albufeira ou Lagos."
+        },
+        {
+          "q": "Ai-je besoin d`une muselière en public à Tavira ?",
+          "a": "Seulement pour les races figurant sur la liste portugaise des races restreintes ; les races standard n`ont besoin que d`une laisse. Le bus Vamus EVA et le train CP acceptent les grands chiens muselés et gratuitement les petits en cage."
+        },
+        {
+          "q": "Quel est le meilleur mois à Tavira avec un chien ?",
+          "a": "Avril-mai et septembre-octobre : températures douces, humidité plus basse, moins de monde et accès libre à toutes les plages hors saison de baignade."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Tavira una buena base para unas vacaciones pet-friendly en el Algarve?", "a": "Sí, la combinación de clima oceánico suave, centro peatonal, playas de islas barrera filtradas por ferry (Ilha de Tavira, Cabanas) y paseos de las salinas la convierten en la mejor base canina del este del Algarve, notablemente más tranquila que Albufeira o Lagos."},
-        {"q": "¿Necesito bozal en público en Tavira?", "a": "Solo para razas en la lista portuguesa de razas restringidas; las razas estándar solo necesitan correa. El autobús Vamus EVA y el tren CP admiten perros grandes con bozal y gratis a los pequeños en transportín."},
-        {"q": "¿Cuál es el mejor mes para Tavira con perro?", "a": "Abril-mayo y septiembre-octubre: temperaturas suaves, menor humedad, menos gente y acceso libre a todas las playas fuera de la temporada de baño."}
+        {
+          "q": "¿Es Tavira una buena base para unas vacaciones pet-friendly en el Algarve?",
+          "a": "Sí, la combinación de clima oceánico suave, centro peatonal, playas de islas barrera filtradas por ferry (Ilha de Tavira, Cabanas) y paseos de las salinas la convierten en la mejor base canina del este del Algarve, notablemente más tranquila que Albufeira o Lagos."
+        },
+        {
+          "q": "¿Necesito bozal en público en Tavira?",
+          "a": "Solo para razas en la lista portuguesa de razas restringidas; las razas estándar solo necesitan correa. El autobús Vamus EVA y el tren CP admiten perros grandes con bozal y gratis a los pequeños en transportín."
+        },
+        {
+          "q": "¿Cuál es el mejor mes para Tavira con perro?",
+          "a": "Abril-mayo y septiembre-octubre: temperaturas suaves, menor humedad, menos gente y acceso libre a todas las playas fuera de la temporada de baño."
+        }
       ],
       "faqsPt": [
-        {"q": "Tavira é uma boa base para férias pet-friendly no Algarve?", "a": "Sim, a combinação de clima oceânico suave, centro pedonal, praias de ilhas-barreira filtradas por ferry (Ilha de Tavira, Cabanas) e passeios das salinas faz dela a melhor base canina do leste do Algarve, notavelmente mais calma do que Albufeira ou Lagos."},
-        {"q": "Preciso de açaime em público em Tavira?", "a": "Só para raças na lista portuguesa de raças restritas; as raças standard só precisam de trela. O autocarro Vamus EVA e o comboio CP aceitam cães grandes com açaime e grátis os pequenos em transportadora."},
-        {"q": "Qual é o melhor mês para Tavira com cão?", "a": "Abril-maio e setembro-outubro: temperaturas suaves, menor humidade, menos gente e acesso livre a todas as praias fora da época balnear."}
+        {
+          "q": "Tavira é uma boa base para férias pet-friendly no Algarve?",
+          "a": "Sim, a combinação de clima oceânico suave, centro pedonal, praias de ilhas-barreira filtradas por ferry (Ilha de Tavira, Cabanas) e passeios das salinas faz dela a melhor base canina do leste do Algarve, notavelmente mais calma do que Albufeira ou Lagos."
+        },
+        {
+          "q": "Preciso de açaime em público em Tavira?",
+          "a": "Só para raças na lista portuguesa de raças restritas; as raças standard só precisam de trela. O autocarro Vamus EVA e o comboio CP aceitam cães grandes com açaime e grátis os pequenos em transportadora."
+        },
+        {
+          "q": "Qual é o melhor mês para Tavira com cão?",
+          "a": "Abril-maio e setembro-outubro: temperaturas suaves, menor humidade, menos gente e acesso livre a todas as praias fora da época balnear."
+        }
       ]
     },
     "attractions": {
@@ -611,7 +836,7 @@
         {
           "name": "Ponte Romana over Rio Gilão",
           "neighborhood": "Centro histórico",
-          "photo": "/images/city-places/tavira-attractions-ponte-romana.jpg",
+          "photo": "/images/city-places/tavira-attractions-ponte-romana-over-rio-gilao.jpg",
           "website": "https://cm-tavira.pt/",
           "description": "The seven-arch stone bridge over the Rio Gilão is the signature image of Tavira, traditionally attributed to the Romans but largely rebuilt in the medieval and modern periods. The bridge is pedestrian-only since 2016 and admits leashed dogs day and night, with the best photo angle from the Praça da República esplanada.",
           "descriptionFr": "Le pont de pierre à sept arches sur le Rio Gilão est l`image signature de Tavira, traditionnellement attribué aux Romains mais largement reconstruit aux périodes médiévale et moderne. Le pont est piéton depuis 2016 et admet les chiens en laisse jour et nuit, avec le meilleur angle photo depuis l`esplanade de la Praça da República.",
@@ -634,7 +859,7 @@
         {
           "name": "Castelo de Tavira and Igreja de Santa Maria do Castelo",
           "neighborhood": "Centro histórico",
-          "photo": "/images/city-places/tavira-attractions-castelo.jpg",
+          "photo": "/images/city-places/tavira-attractions-castelo-de-tavira-and-igreja-de-santa-maria-do-castelo.jpg",
           "website": "https://cm-tavira.pt/",
           "description": "The hilltop Castelo de Tavira preserves Moorish-era walls and a small landscaped garden inside the keep, with panoramic views over the seven-arch bridge, the salinas and the Ilha de Tavira beyond. The adjacent 13th-century Igreja de Santa Maria do Castelo houses the tomb of the Reconquista knight Dom Paio Peres Correia; the castle interior and gardens are dog-friendly year-round and free.",
           "descriptionFr": "Le Castelo de Tavira en hauteur préserve des murs d`époque mauresque et un petit jardin paysager à l`intérieur du donjon, avec vues panoramiques sur le pont à sept arches, les salinas et l`Ilha de Tavira au-delà. L`Igreja de Santa Maria do Castelo adjacente, du XIIIᵉ siècle, abrite le tombeau du chevalier de la Reconquista Dom Paio Peres Correia ; l`intérieur du château et les jardins sont dog-friendly toute l`année et gratuits.",
@@ -657,7 +882,7 @@
         {
           "name": "Praça da República and Núcleo Islâmico",
           "neighborhood": "Centro histórico",
-          "photo": "/images/city-places/tavira-attractions-praca-republica.jpg",
+          "photo": "/images/city-places/tavira-attractions-praca-da-republica-and-nucleo-islamico.jpg",
           "website": "https://cm-tavira.pt/",
           "description": "The Praça da República is the riverside town square, framed by the 18th-century Câmara Municipal arcade and facing the Ponte Romana, with the small Núcleo Islâmico museum (Moorish-era artefacts excavated under the square in 1995) tucked into the corner. The square and arcade are entirely dog-friendly outdoor public space year-round.",
           "descriptionFr": "La Praça da República est la place principale au bord de la rivière, encadrée par l`arcade du Câmara Municipal du XVIIIᵉ siècle et face au pont romain, avec le petit musée Núcleo Islâmico (artefacts mauresques fouillés sous la place en 1995) niché à l`angle. La place et l`arcade sont entièrement un espace public extérieur dog-friendly toute l`année.",
@@ -699,24 +924,60 @@
         "Combine os jardins do Castelo com a Igreja da Misericórdia e o Núcleo Islâmico numa meia-jornada fácil; os três estão a menos de 400 m a pé da Praça da República."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Tavira museums?", "a": "Only assistance dogs may enter the small interiors of the Núcleo Islâmico, the Palácio da Galeria and the Casa das Portas do Mar; leashed pets are welcome across all the squares, riverside and outdoor heritage sites."},
-        {"q": "Can I take my dog into the Castelo de Tavira?", "a": "Yes, the castle gardens and the keep stairs are dog-friendly year-round and free; only the adjacent Igreja de Santa Maria do Castelo interior restricts pets to assistance dogs."},
-        {"q": "Is the Tavira old town walkable with a dog?", "a": "Yes, the centro histórico is entirely pedestrianised between the Praça da República and the Castelo, and a leashed dog handles the full loop including both river banks in about 30 minutes."}
+        {
+          "q": "Are dogs allowed in the Tavira museums?",
+          "a": "Only assistance dogs may enter the small interiors of the Núcleo Islâmico, the Palácio da Galeria and the Casa das Portas do Mar; leashed pets are welcome across all the squares, riverside and outdoor heritage sites."
+        },
+        {
+          "q": "Can I take my dog into the Castelo de Tavira?",
+          "a": "Yes, the castle gardens and the keep stairs are dog-friendly year-round and free; only the adjacent Igreja de Santa Maria do Castelo interior restricts pets to assistance dogs."
+        },
+        {
+          "q": "Is the Tavira old town walkable with a dog?",
+          "a": "Yes, the centro histórico is entirely pedestrianised between the Praça da República and the Castelo, and a leashed dog handles the full loop including both river banks in about 30 minutes."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans les musées de Tavira ?", "a": "Seuls les chiens d`assistance peuvent entrer dans les petits intérieurs du Núcleo Islâmico, du Palácio da Galeria et de la Casa das Portas do Mar ; les chiens en laisse sont bienvenus sur toutes les places, en bord de rivière et sites patrimoniaux en extérieur."},
-        {"q": "Puis-je emmener mon chien dans le Castelo de Tavira ?", "a": "Oui, les jardins du château et l`escalier du donjon sont dog-friendly toute l`année et gratuits ; seul l`intérieur de l`Igreja de Santa Maria do Castelo adjacente restreint les animaux aux chiens d`assistance."},
-        {"q": "La vieille ville de Tavira est-elle accessible à pied avec un chien ?", "a": "Oui, le centro histórico est entièrement piéton entre la Praça da República et le Castelo, et un chien en laisse fait la boucle complète incluant les deux rives en environ 30 minutes."}
+        {
+          "q": "Les chiens sont-ils autorisés dans les musées de Tavira ?",
+          "a": "Seuls les chiens d`assistance peuvent entrer dans les petits intérieurs du Núcleo Islâmico, du Palácio da Galeria et de la Casa das Portas do Mar ; les chiens en laisse sont bienvenus sur toutes les places, en bord de rivière et sites patrimoniaux en extérieur."
+        },
+        {
+          "q": "Puis-je emmener mon chien dans le Castelo de Tavira ?",
+          "a": "Oui, les jardins du château et l`escalier du donjon sont dog-friendly toute l`année et gratuits ; seul l`intérieur de l`Igreja de Santa Maria do Castelo adjacente restreint les animaux aux chiens d`assistance."
+        },
+        {
+          "q": "La vieille ville de Tavira est-elle accessible à pied avec un chien ?",
+          "a": "Oui, le centro histórico est entièrement piéton entre la Praça da República et le Castelo, et un chien en laisse fait la boucle complète incluant les deux rives en environ 30 minutes."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en los museos de Tavira?", "a": "Solo los perros de asistencia pueden entrar en los pequeños interiores del Núcleo Islâmico, del Palácio da Galeria y de la Casa das Portas do Mar; los perros con correa son bienvenidos en todas las plazas, a orillas del río y sitios patrimoniales al aire libre."},
-        {"q": "¿Puedo llevar al perro al Castelo de Tavira?", "a": "Sí, los jardines del castillo y las escaleras del torreón son pet-friendly todo el año y gratuitos; solo el interior de la adyacente Igreja de Santa Maria do Castelo restringe las mascotas a perros de asistencia."},
-        {"q": "¿El casco antiguo de Tavira es accesible a pie con un perro?", "a": "Sí, el centro histórico es enteramente peatonal entre la Praça da República y el Castelo, y un perro con correa hace el circuito completo incluyendo ambas orillas en unos 30 minutos."}
+        {
+          "q": "¿Se admiten perros en los museos de Tavira?",
+          "a": "Solo los perros de asistencia pueden entrar en los pequeños interiores del Núcleo Islâmico, del Palácio da Galeria y de la Casa das Portas do Mar; los perros con correa son bienvenidos en todas las plazas, a orillas del río y sitios patrimoniales al aire libre."
+        },
+        {
+          "q": "¿Puedo llevar al perro al Castelo de Tavira?",
+          "a": "Sí, los jardines del castillo y las escaleras del torreón son pet-friendly todo el año y gratuitos; solo el interior de la adyacente Igreja de Santa Maria do Castelo restringe las mascotas a perros de asistencia."
+        },
+        {
+          "q": "¿El casco antiguo de Tavira es accesible a pie con un perro?",
+          "a": "Sí, el centro histórico es enteramente peatonal entre la Praça da República y el Castelo, y un perro con correa hace el circuito completo incluyendo ambas orillas en unos 30 minutos."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos nos museus de Tavira?", "a": "Só os cães de assistência podem entrar nos pequenos interiores do Núcleo Islâmico, do Palácio da Galeria e da Casa das Portas do Mar; os cães com trela são bem-vindos em todas as praças, beira-rio e sítios patrimoniais ao ar livre."},
-        {"q": "Posso levar o meu cão ao Castelo de Tavira?", "a": "Sim, os jardins do castelo e as escadas da torre de menagem são pet-friendly o ano inteiro e gratuitos; só o interior da adjacente Igreja de Santa Maria do Castelo restringe os animais a cães de assistência."},
-        {"q": "A cidade velha de Tavira é acessível a pé com um cão?", "a": "Sim, o centro histórico é inteiramente pedonal entre a Praça da República e o Castelo, e um cão com trela faz o circuito completo incluindo as duas margens em cerca de 30 minutos."}
+        {
+          "q": "Os cães são admitidos nos museus de Tavira?",
+          "a": "Só os cães de assistência podem entrar nos pequenos interiores do Núcleo Islâmico, do Palácio da Galeria e da Casa das Portas do Mar; os cães com trela são bem-vindos em todas as praças, beira-rio e sítios patrimoniais ao ar livre."
+        },
+        {
+          "q": "Posso levar o meu cão ao Castelo de Tavira?",
+          "a": "Sim, os jardins do castelo e as escadas da torre de menagem são pet-friendly o ano inteiro e gratuitos; só o interior da adjacente Igreja de Santa Maria do Castelo restringe os animais a cães de assistência."
+        },
+        {
+          "q": "A cidade velha de Tavira é acessível a pé com um cão?",
+          "a": "Sim, o centro histórico é inteiramente pedonal entre a Praça da República e o Castelo, e um cão com trela faz o circuito completo incluindo as duas margens em cerca de 30 minutos."
+        }
       ]
     },
     "petsitting": {
@@ -789,24 +1050,60 @@
         "Reserve com 3-4 semanas de antecedência para qualquer estadia em julho-agosto; toda a rede de cuidadores do leste do Algarve enche durante os meses turísticos de pico."
       ],
       "faqsEn": [
-        {"q": "How much does pet sitting cost in Tavira?", "a": "Expect EUR 18-28 per night for boarding and EUR 10-15 per 30-minute walk via Pawshake or DogHero; rural boarding kennels in Santa Catarina and Santo Estêvão charge from EUR 22 per day."},
-        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Tavira hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a long dinner on Cacela Velha or a Faro restaurant night."},
-        {"q": "Do I need to bring my dog`s food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog`s regular bowl to limit stomach upset."}
+        {
+          "q": "How much does pet sitting cost in Tavira?",
+          "a": "Expect EUR 18-28 per night for boarding and EUR 10-15 per 30-minute walk via Pawshake or DogHero; rural boarding kennels in Santa Catarina and Santo Estêvão charge from EUR 22 per day."
+        },
+        {
+          "q": "Can hotels recommend a sitter for an evening out?",
+          "a": "Yes, larger Tavira hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a long dinner on Cacela Velha or a Faro restaurant night."
+        },
+        {
+          "q": "Do I need to bring my dog`s food to a sitter?",
+          "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog`s regular bowl to limit stomach upset."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la garde à Tavira ?", "a": "Comptez 18-28 € par nuit en pension et 10-15 € par balade de 30 minutes via Pawshake ou DogHero ; les pensions rurales à Santa Catarina et Santo Estêvão facturent à partir de 22 € par jour."},
-        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Tavira gardent une courte liste d`hôtes Pawshake disponibles le soir, utile pour un long dîner à Cacela Velha ou une soirée restaurant à Faro."},
-        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."}
+        {
+          "q": "Combien coûte la garde à Tavira ?",
+          "a": "Comptez 18-28 € par nuit en pension et 10-15 € par balade de 30 minutes via Pawshake ou DogHero ; les pensions rurales à Santa Catarina et Santo Estêvão facturent à partir de 22 € par jour."
+        },
+        {
+          "q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?",
+          "a": "Oui, les grands hôtels de Tavira gardent une courte liste d`hôtes Pawshake disponibles le soir, utile pour un long dîner à Cacela Velha ou une soirée restaurant à Faro."
+        },
+        {
+          "q": "Dois-je apporter la nourriture du chien au sitter ?",
+          "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el cuidado de mascotas en Tavira?", "a": "Cuenta 18-28 € por noche en residencia y 10-15 € por paseo de 30 minutos vía Pawshake o DogHero; las residencias rurales en Santa Catarina y Santo Estêvão cobran desde 22 € por día."},
-        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Tavira guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una larga cena en Cacela Velha o una noche de restaurante en Faro."},
-        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."}
+        {
+          "q": "¿Cuánto cuesta el cuidado de mascotas en Tavira?",
+          "a": "Cuenta 18-28 € por noche en residencia y 10-15 € por paseo de 30 minutos vía Pawshake o DogHero; las residencias rurales en Santa Catarina y Santo Estêvão cobran desde 22 € por día."
+        },
+        {
+          "q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?",
+          "a": "Sí, los grandes hoteles de Tavira guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una larga cena en Cacela Velha o una noche de restaurante en Faro."
+        },
+        {
+          "q": "¿Tengo que llevar la comida del perro al cuidador?",
+          "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa o cuidado de animais em Tavira?", "a": "Conte 18-28 € por noite em creche e 10-15 € por passeio de 30 minutos via Pawshake ou DogHero; as creches rurais em Santa Catarina e Santo Estêvão cobram desde 22 € por dia."},
-        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Tavira guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para um longo jantar em Cacela Velha ou uma noite de restaurante em Faro."},
-        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."}
+        {
+          "q": "Quanto custa o cuidado de animais em Tavira?",
+          "a": "Conte 18-28 € por noite em creche e 10-15 € por passeio de 30 minutos via Pawshake ou DogHero; as creches rurais em Santa Catarina e Santo Estêvão cobram desde 22 € por dia."
+        },
+        {
+          "q": "Os hotéis podem recomendar um sitter para uma saída à noite?",
+          "a": "Sim, os grandes hotéis de Tavira guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para um longo jantar em Cacela Velha ou uma noite de restaurante em Faro."
+        },
+        {
+          "q": "Tenho de levar a comida do cão ao cuidador?",
+          "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."
+        }
       ]
     }
   }

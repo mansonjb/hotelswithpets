@@ -19,7 +19,7 @@
           "name": "L'Ambassade",
           "address": "22 Boulevard de Verdun, 34500 Béziers",
           "neighborhood": "Centre-ville / Gare",
-          "photo": "/images/city-places/beziers-restaurants-ambassade.jpg",
+          "photo": "/images/city-places/beziers-restaurants-l-ambassade.jpg",
           "website": "https://www.restaurant-lambassade.com/",
           "description": "A Michelin-recommended Languedoc bistronomie restaurant in front of the SNCF station serving market-driven dishes (Cantal beef, Lozère lamb, Bouzigues oysters) on a shaded pavement terrace. Leashed dogs are welcome at every outdoor table and the staff bring stainless water bowls without asking.",
           "descriptionFr": "Restaurant bistronomique languedocien recommandé Michelin face à la gare SNCF servant des plats du marché (bœuf du Cantal, agneau de Lozère, huîtres de Bouzigues) sur une terrasse ombragée. Les chiens en laisse sont bienvenus à chaque table extérieure et le personnel apporte spontanément des gamelles inox.",
@@ -45,7 +45,7 @@
           "name": "Le Pourquoi Pas",
           "address": "12 Rue Boieldieu, 34500 Béziers",
           "neighborhood": "Vieux Béziers / Saint-Aphrodise",
-          "photo": "/images/city-places/beziers-restaurants-pourquoi-pas.jpg",
+          "photo": "/images/city-places/beziers-restaurants-le-pourquoi-pas.jpg",
           "website": "https://www.facebook.com/lepourquoipasbeziers",
           "description": "A relaxed neighbourhood bistro in the old town below the Cathédrale Saint-Nazaire, serving Languedoc home cooking (cassoulet, encornets, tielle Sétoise) at fair prices on a covered cobblestone terrace. Leashed dogs are welcome year-round and the chef keeps a stash of dog treats behind the bar.",
           "descriptionFr": "Bistrot de quartier décontracté dans la vieille ville sous la Cathédrale Saint-Nazaire, servant une cuisine languedocienne maison (cassoulet, encornets, tielle sétoise) à prix justes sur une terrasse pavée couverte. Les chiens en laisse sont bienvenus toute l'année et le chef garde des friandises pour chiens derrière le bar.",
@@ -71,7 +71,7 @@
           "name": "Brasserie des Halles",
           "address": "Place Pierre Sémard, 34500 Béziers",
           "neighborhood": "Halles centrales",
-          "photo": "/images/city-places/beziers-restaurants-brasserie-halles.jpg",
+          "photo": "/images/city-places/beziers-restaurants-brasserie-des-halles.jpg",
           "website": "https://www.facebook.com/brasseriedeshallesbeziers",
           "description": "A bustling market-side brasserie facing the 1891 Halles centrales, serving plancha cuts (Aubrac entrecôte, tielle, grilled sardines) and a daily Languedoc plat du jour on a wide pavement terrace. Leashed dogs are welcome year-round and the brasserie shares its terrace edge with the morning market crowd.",
           "descriptionFr": "Brasserie animée en face des Halles centrales de 1891, servant des pièces à la plancha (entrecôte d'Aubrac, tielle, sardines grillées) et un plat du jour languedocien sur une large terrasse. Les chiens en laisse sont bienvenus toute l'année et la brasserie partage le bord de sa terrasse avec le marché du matin.",
@@ -115,24 +115,60 @@
         "As esplanadas das Allées Paul Riquet viram-se para a estátua em bronze de Pierre-Paul Riquet (engenheiro do Canal du Midi) e apanham a sombra do final da tarde; chegue antes das 19:30 para o pôr-do-sol na avenida de plátanos."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside Béziers restaurants?", "a": "Leashed dogs are welcome on virtually every pavement terrace in the centre. Air-conditioned indoor rooms in July-August often prefer dogs outside; ask at the door."},
-        {"q": "Do restaurants provide water bowls?", "a": "Most terraces bring a bowl unprompted; otherwise asking for une gamelle d'eau pour le chien always works."},
-        {"q": "Where is the best dinner with a dog with a cathedral view?", "a": "Le Pourquoi Pas on Rue Boieldieu in Vieux Béziers sits below the floodlit Cathédrale Saint-Nazaire; the cobblestone terrace catches the limestone reflection at sunset."}
+        {
+          "q": "Are dogs allowed inside Béziers restaurants?",
+          "a": "Leashed dogs are welcome on virtually every pavement terrace in the centre. Air-conditioned indoor rooms in July-August often prefer dogs outside; ask at the door."
+        },
+        {
+          "q": "Do restaurants provide water bowls?",
+          "a": "Most terraces bring a bowl unprompted; otherwise asking for une gamelle d'eau pour le chien always works."
+        },
+        {
+          "q": "Where is the best dinner with a dog with a cathedral view?",
+          "a": "Le Pourquoi Pas on Rue Boieldieu in Vieux Béziers sits below the floodlit Cathédrale Saint-Nazaire; the cobblestone terrace catches the limestone reflection at sunset."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Béziers ?", "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses du centre. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors ; demandez à l'entrée."},
-        {"q": "Les restaurants fournissent-ils des gamelles d'eau ?", "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander une gamelle d'eau pour le chien fonctionne toujours."},
-        {"q": "Où dîner avec vue sur la cathédrale avec un chien ?", "a": "Le Pourquoi Pas, rue Boieldieu dans le Vieux Béziers, est sous la Cathédrale Saint-Nazaire illuminée ; la terrasse pavée attrape le reflet calcaire au coucher du soleil."}
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Béziers ?",
+          "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses du centre. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors ; demandez à l'entrée."
+        },
+        {
+          "q": "Les restaurants fournissent-ils des gamelles d'eau ?",
+          "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander une gamelle d'eau pour le chien fonctionne toujours."
+        },
+        {
+          "q": "Où dîner avec vue sur la cathédrale avec un chien ?",
+          "a": "Le Pourquoi Pas, rue Boieldieu dans le Vieux Béziers, est sous la Cathédrale Saint-Nazaire illuminée ; la terrasse pavée attrape le reflet calcaire au coucher du soleil."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Béziers?", "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas del centro. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera; pregunta en la entrada."},
-        {"q": "¿Los restaurantes ofrecen cuencos de agua?", "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir une gamelle d'eau pour le chien siempre funciona."},
-        {"q": "¿Dónde cenar con vista a la catedral con un perro?", "a": "Le Pourquoi Pas en la Rue Boieldieu del Vieux Béziers está bajo la Cathédrale Saint-Nazaire iluminada; la terraza empedrada coge el reflejo calizo al atardecer."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Béziers?",
+          "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas del centro. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera; pregunta en la entrada."
+        },
+        {
+          "q": "¿Los restaurantes ofrecen cuencos de agua?",
+          "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir une gamelle d'eau pour le chien siempre funciona."
+        },
+        {
+          "q": "¿Dónde cenar con vista a la catedral con un perro?",
+          "a": "Le Pourquoi Pas en la Rue Boieldieu del Vieux Béziers está bajo la Cathédrale Saint-Nazaire iluminada; la terraza empedrada coge el reflejo calizo al atardecer."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos dentro dos restaurantes de Béziers?", "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas do centro. As salas com ar condicionado em julho-agosto costumam preferir os cães fora; pergunte à entrada."},
-        {"q": "Os restaurantes oferecem taças de água?", "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir une gamelle d'eau pour le chien funciona sempre."},
-        {"q": "Onde jantar com vista para a catedral com um cão?", "a": "Le Pourquoi Pas na Rue Boieldieu do Vieux Béziers fica sob a Cathédrale Saint-Nazaire iluminada; a esplanada empedrada apanha o reflexo calcário ao pôr-do-sol."}
+        {
+          "q": "Os cães são admitidos dentro dos restaurantes de Béziers?",
+          "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas do centro. As salas com ar condicionado em julho-agosto costumam preferir os cães fora; pergunte à entrada."
+        },
+        {
+          "q": "Os restaurantes oferecem taças de água?",
+          "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir une gamelle d'eau pour le chien funciona sempre."
+        },
+        {
+          "q": "Onde jantar com vista para a catedral com um cão?",
+          "a": "Le Pourquoi Pas na Rue Boieldieu do Vieux Béziers fica sob a Cathédrale Saint-Nazaire iluminada; a esplanada empedrada apanha o reflexo calcário ao pôr-do-sol."
+        }
       ]
     },
     "parks": {
@@ -149,7 +185,7 @@
           "name": "Plateau des Poètes",
           "address": "Allées Paul Riquet, 34500 Béziers",
           "neighborhood": "Centre-ville",
-          "photo": "/images/city-places/beziers-parks-plateau-poetes.jpg",
+          "photo": "/images/city-places/beziers-parks-plateau-des-poetes.jpg",
           "website": "https://www.beziers.fr/",
           "description": "A 4.6-hectare English landscape garden designed by the Bühler brothers (same architects as Bois de Boulogne in Paris) at the southern end of the Allées Paul Riquet, with ponds, mature plane trees, a Titan fountain and busts of southern French poets. Leashed dogs are welcome on every path year-round, and the central pond loop is the local morning dog-walking circuit.",
           "descriptionFr": "Jardin paysager anglais de 4,6 hectares conçu par les frères Bühler (mêmes architectes que le Bois de Boulogne à Paris) à l'extrémité sud des Allées Paul Riquet, avec étangs, platanes centenaires, fontaine du Titan et bustes de poètes du sud de la France. Les chiens en laisse sont bienvenus sur tous les chemins toute l'année, et la boucle de l'étang central est le circuit canin matinal local.",
@@ -175,7 +211,7 @@
           "name": "Canal du Midi towpath",
           "address": "Pont-Canal de l'Orb, 34500 Béziers",
           "neighborhood": "Fonsérannes / Capiscol",
-          "photo": "/images/city-places/beziers-parks-canal-midi.jpg",
+          "photo": "/images/city-places/beziers-parks-canal-du-midi-towpath.jpg",
           "website": "https://www.parcs-jardins-occitanie.fr/",
           "description": "A flat shaded towpath running along the UNESCO-listed Canal du Midi from the Neuf Écluses de Fonsérannes 9-lock staircase through the Pont-Canal de l'Orb stone aqueduct (one of the first canal-over-river aqueducts in Europe, opened 1858) and east towards Villeneuve-lès-Béziers. Leashed dogs welcome the full 240 km of the canal to Toulouse.",
           "descriptionFr": "Chemin de halage plat et ombragé longeant le Canal du Midi classé UNESCO depuis les Neuf Écluses de Fonsérannes à travers le Pont-Canal de l'Orb (l'un des premiers ponts-canaux d'Europe, inauguré en 1858) et vers l'est jusqu'à Villeneuve-lès-Béziers. Chiens en laisse bienvenus sur les 240 km de canal jusqu'à Toulouse.",
@@ -245,24 +281,60 @@
         "O caminho de sirga do Canal du Midi é o passeio canino mais fácil e inteiramente plano o ano inteiro em Béziers; a abóbada de plátanos mantém o fresco até agosto."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Plateau des Poètes?", "a": "Yes, leashed dogs are welcome on every path year-round. There is no off-leash zone inside the garden; the closest is the Allées Paul Riquet plane-tree avenue."},
-        {"q": "Is there a fenced off-leash dog park in Béziers?", "a": "Béziers does not have a fully fenced canine off-leash park inside the city; locals drive 15 minutes to the Massif de la Clape garrigue or use the dog-friendly stretches of Valras-Plage beach off-season."},
-        {"q": "Where can I see the Neuf Écluses de Fonsérannes with my dog?", "a": "Park free at the Écluses de Fonsérannes lot, walk the towpath 200 m to the staircase viewpoint and continue to the Pont-Canal de l'Orb aqueduct; leashed dogs welcome the full route."}
+        {
+          "q": "Are dogs allowed in the Plateau des Poètes?",
+          "a": "Yes, leashed dogs are welcome on every path year-round. There is no off-leash zone inside the garden; the closest is the Allées Paul Riquet plane-tree avenue."
+        },
+        {
+          "q": "Is there a fenced off-leash dog park in Béziers?",
+          "a": "Béziers does not have a fully fenced canine off-leash park inside the city; locals drive 15 minutes to the Massif de la Clape garrigue or use the dog-friendly stretches of Valras-Plage beach off-season."
+        },
+        {
+          "q": "Where can I see the Neuf Écluses de Fonsérannes with my dog?",
+          "a": "Park free at the Écluses de Fonsérannes lot, walk the towpath 200 m to the staircase viewpoint and continue to the Pont-Canal de l'Orb aqueduct; leashed dogs welcome the full route."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés au Plateau des Poètes ?", "a": "Oui, les chiens en laisse sont bienvenus sur tous les chemins toute l'année. Il n'y a pas de zone sans laisse dans le jardin ; la plus proche est l'allée de platanes des Allées Paul Riquet."},
-        {"q": "Y a-t-il un parc canin clôturé à Béziers ?", "a": "Béziers n'a pas de parc canin sans laisse entièrement clôturé en ville ; les locaux vont à 15 minutes au Massif de la Clape ou utilisent les sections de Valras-Plage acceptant les chiens hors saison."},
-        {"q": "Où voir les Neuf Écluses de Fonsérannes avec mon chien ?", "a": "Stationnez gratuitement au parking des Écluses de Fonsérannes, marchez 200 m sur le halage jusqu'au belvédère de l'escalier d'écluses et continuez jusqu'au Pont-Canal de l'Orb ; chiens en laisse bienvenus sur tout le parcours."}
+        {
+          "q": "Les chiens sont-ils autorisés au Plateau des Poètes ?",
+          "a": "Oui, les chiens en laisse sont bienvenus sur tous les chemins toute l'année. Il n'y a pas de zone sans laisse dans le jardin ; la plus proche est l'allée de platanes des Allées Paul Riquet."
+        },
+        {
+          "q": "Y a-t-il un parc canin clôturé à Béziers ?",
+          "a": "Béziers n'a pas de parc canin sans laisse entièrement clôturé en ville ; les locaux vont à 15 minutes au Massif de la Clape ou utilisent les sections de Valras-Plage acceptant les chiens hors saison."
+        },
+        {
+          "q": "Où voir les Neuf Écluses de Fonsérannes avec mon chien ?",
+          "a": "Stationnez gratuitement au parking des Écluses de Fonsérannes, marchez 200 m sur le halage jusqu'au belvédère de l'escalier d'écluses et continuez jusqu'au Pont-Canal de l'Orb ; chiens en laisse bienvenus sur tout le parcours."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en el Plateau des Poètes?", "a": "Sí, los perros con correa son bienvenidos en todos los caminos todo el año. No hay zona sin correa dentro del jardín; la más cercana es el paseo de plátanos de las Allées Paul Riquet."},
-        {"q": "¿Hay un parque canino vallado en Béziers?", "a": "Béziers no tiene un parque canino sin correa enteramente vallado en la ciudad; los locales van a 15 minutos al Massif de la Clape o usan los tramos de Valras-Plage que admiten perros fuera de temporada."},
-        {"q": "¿Dónde ver las Neuf Écluses de Fonsérannes con mi perro?", "a": "Aparca gratis en el parking de las Écluses de Fonsérannes, camina 200 m por el sirgaje hasta el mirador de la escalera de esclusas y continúa hasta el Pont-Canal de l'Orb; perros con correa bienvenidos en todo el recorrido."}
+        {
+          "q": "¿Se admiten perros en el Plateau des Poètes?",
+          "a": "Sí, los perros con correa son bienvenidos en todos los caminos todo el año. No hay zona sin correa dentro del jardín; la más cercana es el paseo de plátanos de las Allées Paul Riquet."
+        },
+        {
+          "q": "¿Hay un parque canino vallado en Béziers?",
+          "a": "Béziers no tiene un parque canino sin correa enteramente vallado en la ciudad; los locales van a 15 minutos al Massif de la Clape o usan los tramos de Valras-Plage que admiten perros fuera de temporada."
+        },
+        {
+          "q": "¿Dónde ver las Neuf Écluses de Fonsérannes con mi perro?",
+          "a": "Aparca gratis en el parking de las Écluses de Fonsérannes, camina 200 m por el sirgaje hasta el mirador de la escalera de esclusas y continúa hasta el Pont-Canal de l'Orb; perros con correa bienvenidos en todo el recorrido."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos no Plateau des Poètes?", "a": "Sim, os cães com trela são bem-vindos em todos os caminhos o ano inteiro. Não há zona sem trela dentro do jardim; a mais próxima é a alameda de plátanos das Allées Paul Riquet."},
-        {"q": "Há um parque canino vedado em Béziers?", "a": "Béziers não tem um parque canino sem trela inteiramente vedado na cidade; os locais vão a 15 minutos ao Massif de la Clape ou usam os troços de Valras-Plage que aceitam cães fora de época."},
-        {"q": "Onde ver as Neuf Écluses de Fonsérannes com o meu cão?", "a": "Estacione grátis no parque das Écluses de Fonsérannes, caminhe 200 m pela sirga até ao miradouro da escada de eclusas e continue até ao Pont-Canal de l'Orb; cães com trela bem-vindos em todo o percurso."}
+        {
+          "q": "Os cães são admitidos no Plateau des Poètes?",
+          "a": "Sim, os cães com trela são bem-vindos em todos os caminhos o ano inteiro. Não há zona sem trela dentro do jardim; a mais próxima é a alameda de plátanos das Allées Paul Riquet."
+        },
+        {
+          "q": "Há um parque canino vedado em Béziers?",
+          "a": "Béziers não tem um parque canino sem trela inteiramente vedado na cidade; os locais vão a 15 minutos ao Massif de la Clape ou usam os troços de Valras-Plage que aceitam cães fora de época."
+        },
+        {
+          "q": "Onde ver as Neuf Écluses de Fonsérannes com o meu cão?",
+          "a": "Estacione grátis no parque das Écluses de Fonsérannes, caminhe 200 m pela sirga até ao miradouro da escada de eclusas e continue até ao Pont-Canal de l'Orb; cães com trela bem-vindos em todo o percurso."
+        }
       ]
     },
     "transport": {
@@ -279,7 +351,7 @@
           "name": "SNCF Gare de Béziers (TGV / Intercités / TER)",
           "address": "Boulevard de Verdun, 34500 Béziers",
           "neighborhood": "Centre-ville",
-          "photo": "/images/city-places/beziers-transport-gare-sncf.jpg",
+          "photo": "/images/city-places/beziers-transport-sncf-gare-de-beziers-tgv-intercites-ter.jpg",
           "website": "https://www.sncf-connect.com/",
           "description": "Béziers' main rail station is on the SNCF Paris-Toulouse-Barcelona axis with direct TGV to Paris Montparnasse (4h05), Intercités to Bordeaux, and TER to Montpellier, Narbonne, Carcassonne and Perpignan. Small dogs in carriers travel EUR 7 flat; larger leashed dogs need a muzzle and pay EUR 7.",
           "descriptionFr": "La gare principale de Béziers est sur l'axe SNCF Paris-Toulouse-Barcelone avec TGV direct vers Paris Montparnasse (4h05), Intercités vers Bordeaux et TER vers Montpellier, Narbonne, Carcassonne et Perpignan. Petits chiens en cage 7 € forfait ; grands chiens en laisse muselés 7 €.",
@@ -295,7 +367,7 @@
           "name": "Mobilibus Béziers municipal bus",
           "address": "Place Jean Jaurès, 34500 Béziers",
           "neighborhood": "Centre-ville",
-          "photo": "/images/city-places/beziers-transport-mobilibus.jpg",
+          "photo": "/images/city-places/beziers-transport-mobilibus-beziers-municipal-bus.jpg",
           "website": "https://www.mobilibus.fr/",
           "description": "The Mobilibus municipal bus network covers the historic centre, the train station, the Halles, the Cathédrale Saint-Nazaire quarter and the wider Agglomération Béziers Méditerranée. Single fare EUR 1; small dogs in carriers ride free, large leashed and muzzled dogs accepted at the driver's discretion when the bus is not full.",
           "descriptionFr": "Le réseau de bus municipal Mobilibus couvre le centre historique, la gare, les Halles, le quartier de la Cathédrale Saint-Nazaire et l'Agglomération Béziers Méditerranée au sens large. Tarif unique 1 € ; petits chiens en cage gratuits, grands chiens en laisse muselés acceptés à la discrétion du chauffeur quand le bus n'est pas plein.",
@@ -311,7 +383,7 @@
           "name": "Béziers Cap d'Agde Airport (BZR)",
           "address": "Avenue du Colonel Picard, 34420 Vias",
           "neighborhood": "Vias (15 km east of Béziers)",
-          "photo": "/images/city-places/beziers-transport-airport-bzr.jpg",
+          "photo": "/images/city-places/beziers-transport-beziers-cap-d-agde-airport-bzr.jpg",
           "website": "https://www.beziers.aeroport.fr/",
           "description": "The Béziers Cap d'Agde regional airport is a Ryanair low-cost hub with year-round direct flights to London Stansted, Manchester, Dublin, Brussels Charleroi, Oslo and Stockholm. Leashed dogs are welcome in the public terminal areas; Ryanair accepts cabin pets under 8 kg with advance booking (EUR 25 per leg).",
           "descriptionFr": "L'aéroport régional Béziers Cap d'Agde est un hub low-cost Ryanair avec vols directs toute l'année vers Londres Stansted, Manchester, Dublin, Bruxelles Charleroi, Oslo et Stockholm. Les chiens en laisse sont bienvenus dans les zones publiques du terminal ; Ryanair accepte les animaux en cabine sous 8 kg sur réservation (25 € par segment).",
@@ -345,24 +417,60 @@
         "A Ryanair desde Béziers BZR é a rota pet-friendly mais barata para o Reino Unido e Irlanda do sul de França; reserve o lugar de cabine animal a 25 € ao comprar o bilhete (lugares limitados por voo)."
       ],
       "faqsEn": [
-        {"q": "Do I need a muzzle for my dog on the train to Paris?", "a": "Yes, larger dogs not in a carrier must wear a muzzle on all SNCF trains for the EUR 7 flat fare. Small dogs in closed carriers are exempt and pay the same EUR 7."},
-        {"q": "Can I fly out of Béziers with my dog?", "a": "Yes, Ryanair operates from Béziers BZR airport and accepts cabin pets under 8 kg for EUR 25 per leg with advance booking; the airport's public terminal areas welcome leashed dogs."},
-        {"q": "How do I get to Valras-Plage from Béziers by bus?", "a": "Take the regional Liō line connecting Béziers Gare Routière to Valras-Plage (25 min, EUR 1 one-way); small dogs in carriers ride free, large leashed dogs accepted with a muzzle."}
+        {
+          "q": "Do I need a muzzle for my dog on the train to Paris?",
+          "a": "Yes, larger dogs not in a carrier must wear a muzzle on all SNCF trains for the EUR 7 flat fare. Small dogs in closed carriers are exempt and pay the same EUR 7."
+        },
+        {
+          "q": "Can I fly out of Béziers with my dog?",
+          "a": "Yes, Ryanair operates from Béziers BZR airport and accepts cabin pets under 8 kg for EUR 25 per leg with advance booking; the airport's public terminal areas welcome leashed dogs."
+        },
+        {
+          "q": "How do I get to Valras-Plage from Béziers by bus?",
+          "a": "Take the regional Liō line connecting Béziers Gare Routière to Valras-Plage (25 min, EUR 1 one-way); small dogs in carriers ride free, large leashed dogs accepted with a muzzle."
+        }
       ],
       "faqsFr": [
-        {"q": "Ai-je besoin d'une muselière dans le train pour Paris ?", "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans tous les trains SNCF pour le tarif forfaitaire 7 €. Les petits chiens en cage fermée en sont exemptés et paient le même 7 €."},
-        {"q": "Puis-je prendre l'avion depuis Béziers avec mon chien ?", "a": "Oui, Ryanair opère depuis l'aéroport Béziers BZR et accepte les animaux en cabine sous 8 kg pour 25 € par segment sur réservation ; les zones publiques du terminal accueillent les chiens en laisse."},
-        {"q": "Comment aller à Valras-Plage depuis Béziers en bus ?", "a": "Prenez la ligne régionale Liō reliant la Gare Routière de Béziers à Valras-Plage (25 min, 1 € l'aller) ; petits chiens en cage gratuits, grands chiens en laisse acceptés muselés."}
+        {
+          "q": "Ai-je besoin d'une muselière dans le train pour Paris ?",
+          "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans tous les trains SNCF pour le tarif forfaitaire 7 €. Les petits chiens en cage fermée en sont exemptés et paient le même 7 €."
+        },
+        {
+          "q": "Puis-je prendre l'avion depuis Béziers avec mon chien ?",
+          "a": "Oui, Ryanair opère depuis l'aéroport Béziers BZR et accepte les animaux en cabine sous 8 kg pour 25 € par segment sur réservation ; les zones publiques du terminal accueillent les chiens en laisse."
+        },
+        {
+          "q": "Comment aller à Valras-Plage depuis Béziers en bus ?",
+          "a": "Prenez la ligne régionale Liō reliant la Gare Routière de Béziers à Valras-Plage (25 min, 1 € l'aller) ; petits chiens en cage gratuits, grands chiens en laisse acceptés muselés."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Necesito bozal para mi perro en el tren a París?", "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en todos los trenes SNCF por la tarifa fija de 7 €. Los perros pequeños en transportín cerrado están exentos y pagan los mismos 7 €."},
-        {"q": "¿Puedo volar desde Béziers con mi perro?", "a": "Sí, Ryanair opera desde el aeropuerto Béziers BZR y admite mascotas en cabina hasta 8 kg por 25 € por segmento con reserva previa; las zonas públicas del terminal admiten perros con correa."},
-        {"q": "¿Cómo llegar a Valras-Plage desde Béziers en bus?", "a": "Coge la línea regional Liō que conecta la Gare Routière de Béziers con Valras-Plage (25 min, 1 € ida); perros pequeños en transportín gratis, grandes con correa admitidos con bozal."}
+        {
+          "q": "¿Necesito bozal para mi perro en el tren a París?",
+          "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en todos los trenes SNCF por la tarifa fija de 7 €. Los perros pequeños en transportín cerrado están exentos y pagan los mismos 7 €."
+        },
+        {
+          "q": "¿Puedo volar desde Béziers con mi perro?",
+          "a": "Sí, Ryanair opera desde el aeropuerto Béziers BZR y admite mascotas en cabina hasta 8 kg por 25 € por segmento con reserva previa; las zonas públicas del terminal admiten perros con correa."
+        },
+        {
+          "q": "¿Cómo llegar a Valras-Plage desde Béziers en bus?",
+          "a": "Coge la línea regional Liō que conecta la Gare Routière de Béziers con Valras-Plage (25 min, 1 € ida); perros pequeños en transportín gratis, grandes con correa admitidos con bozal."
+        }
       ],
       "faqsPt": [
-        {"q": "Preciso de açaime para o meu cão no comboio para Paris?", "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime em todos os comboios SNCF pela tarifa fixa de 7 €. Os cães pequenos em transportadora fechada estão isentos e pagam os mesmos 7 €."},
-        {"q": "Posso voar de Béziers com o meu cão?", "a": "Sim, a Ryanair opera desde o aeroporto Béziers BZR e aceita animais em cabine até 8 kg por 25 € por segmento com reserva prévia; as zonas públicas do terminal aceitam cães com trela."},
-        {"q": "Como chegar a Valras-Plage desde Béziers de autocarro?", "a": "Apanhe a linha regional Liō que liga a Gare Routière de Béziers a Valras-Plage (25 min, 1 € ida); cães pequenos em transportadora grátis, grandes com trela aceites com açaime."}
+        {
+          "q": "Preciso de açaime para o meu cão no comboio para Paris?",
+          "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime em todos os comboios SNCF pela tarifa fixa de 7 €. Os cães pequenos em transportadora fechada estão isentos e pagam os mesmos 7 €."
+        },
+        {
+          "q": "Posso voar de Béziers com o meu cão?",
+          "a": "Sim, a Ryanair opera desde o aeroporto Béziers BZR e aceita animais em cabine até 8 kg por 25 € por segmento com reserva prévia; as zonas públicas do terminal aceitam cães com trela."
+        },
+        {
+          "q": "Como chegar a Valras-Plage desde Béziers de autocarro?",
+          "a": "Apanhe a linha regional Liō que liga a Gare Routière de Béziers a Valras-Plage (25 min, 1 € ida); cães pequenos em transportadora grátis, grandes com trela aceites com açaime."
+        }
       ]
     },
     "beaches": {
@@ -383,7 +491,7 @@
           "rules": "Off-leash dog beach at the southern end year-round; leashed elsewhere; summer lifeguard zone restricts pets",
           "facilities": "Free parking, café-restaurants, Liō bus stop, off-leash plage canine signage",
           "googleMapsUrl": "https://maps.google.com/?q=Valras+Plage",
-          "photo": "/images/city-places/beziers-beaches-valras.jpg"
+          "photo": "/images/city-places/beziers-beaches-valras-plage-and-the-plage-canine.jpg"
         },
         {
           "name": "Portiragnes-Plage",
@@ -393,7 +501,7 @@
           "rules": "Leashed dogs year-round at the natural ends; central lifeguarded zone restricts pets in summer",
           "facilities": "Free parking, seasonal café-restaurants, dune trail behind the beach",
           "googleMapsUrl": "https://maps.google.com/?q=Portiragnes+Plage",
-          "photo": "/images/city-places/beziers-beaches-portiragnes.jpg"
+          "photo": "/images/city-places/beziers-beaches-portiragnes-plage.jpg"
         },
         {
           "name": "Marseillan-Plage and Étang de Thau shore",
@@ -403,7 +511,7 @@
           "rules": "Off-leash dog beach at the western end year-round; lagoon shore leashed year-round; central seaside leashed-only in summer",
           "facilities": "Paid parking July-August, café-restaurants, oyster shacks on the Étang de Thau side, lifeguarded zones in summer",
           "googleMapsUrl": "https://maps.google.com/?q=Marseillan+Plage",
-          "photo": "/images/city-places/beziers-beaches-marseillan.jpg"
+          "photo": "/images/city-places/beziers-beaches-marseillan-plage-and-etang-de-thau-shore.jpg"
         }
       ],
       "tipsEn": [
@@ -427,24 +535,60 @@
         "A época baixa (outubro-maio) é o segredo dos donos locais; as regras de vigilância afrouxam e todo o corredor arenoso Valras-Portiragnes-Vias de 12 km abre-se aos passeios caninos ao amanhecer sem trela."
       ],
       "faqsEn": [
-        {"q": "Where is the best dog beach near Béziers?", "a": "The Valras-Plage plage canine at the southern Embouchure de l'Orb end is the closest year-round off-leash Mediterranean dog beach to Béziers, 15 km south with free parking and Liō bus access."},
-        {"q": "Are dogs allowed on Valras-Plage in summer?", "a": "Leashed dogs are welcome at the northern and southern ends year-round; the central lifeguarded zone (June 15-September 15) restricts pets. Off-leash is tolerated October-May on the central beach."},
-        {"q": "Can I take the bus to the dog beach?", "a": "Yes, the Liō line connects Béziers Gare Routière to Valras-Plage (25 min, EUR 1 one-way), the closest stop to the year-round off-leash plage canine."}
+        {
+          "q": "Where is the best dog beach near Béziers?",
+          "a": "The Valras-Plage plage canine at the southern Embouchure de l'Orb end is the closest year-round off-leash Mediterranean dog beach to Béziers, 15 km south with free parking and Liō bus access."
+        },
+        {
+          "q": "Are dogs allowed on Valras-Plage in summer?",
+          "a": "Leashed dogs are welcome at the northern and southern ends year-round; the central lifeguarded zone (June 15-September 15) restricts pets. Off-leash is tolerated October-May on the central beach."
+        },
+        {
+          "q": "Can I take the bus to the dog beach?",
+          "a": "Yes, the Liō line connects Béziers Gare Routière to Valras-Plage (25 min, EUR 1 one-way), the closest stop to the year-round off-leash plage canine."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est la meilleure plage canine près de Béziers ?", "a": "La plage canine de Valras-Plage à l'extrémité sud vers l'Embouchure de l'Orb est la plage canine méditerranéenne sans laisse toute l'année la plus proche de Béziers, à 15 km au sud avec parking gratuit et accès en bus Liō."},
-        {"q": "Les chiens sont-ils autorisés sur Valras-Plage en été ?", "a": "Les chiens en laisse sont bienvenus aux extrémités nord et sud toute l'année ; la zone surveillée centrale (15 juin-15 septembre) restreint les animaux. Le lâcher est toléré d'octobre à mai sur la plage centrale."},
-        {"q": "Puis-je prendre le bus pour la plage canine ?", "a": "Oui, la ligne Liō relie la Gare Routière de Béziers à Valras-Plage (25 min, 1 € l'aller), l'arrêt le plus proche de la plage canine sans laisse toute l'année."}
+        {
+          "q": "Où est la meilleure plage canine près de Béziers ?",
+          "a": "La plage canine de Valras-Plage à l'extrémité sud vers l'Embouchure de l'Orb est la plage canine méditerranéenne sans laisse toute l'année la plus proche de Béziers, à 15 km au sud avec parking gratuit et accès en bus Liō."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés sur Valras-Plage en été ?",
+          "a": "Les chiens en laisse sont bienvenus aux extrémités nord et sud toute l'année ; la zone surveillée centrale (15 juin-15 septembre) restreint les animaux. Le lâcher est toléré d'octobre à mai sur la plage centrale."
+        },
+        {
+          "q": "Puis-je prendre le bus pour la plage canine ?",
+          "a": "Oui, la ligne Liō relie la Gare Routière de Béziers à Valras-Plage (25 min, 1 € l'aller), l'arrêt le plus proche de la plage canine sans laisse toute l'année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está la mejor playa canina cerca de Béziers?", "a": "La playa canina de Valras-Plage en el extremo sur hacia la Embouchure de l'Orb es la playa canina mediterránea sin correa todo el año más cercana a Béziers, a 15 km al sur con aparcamiento gratis y acceso en bus Liō."},
-        {"q": "¿Se admiten perros en Valras-Plage en verano?", "a": "Los perros con correa son bienvenidos en los extremos norte y sur todo el año; la zona vigilada central (15 junio-15 septiembre) restringe a las mascotas. El suelta es tolerado de octubre a mayo en la playa central."},
-        {"q": "¿Puedo coger el bus a la playa canina?", "a": "Sí, la línea Liō conecta la Gare Routière de Béziers con Valras-Plage (25 min, 1 € ida), la parada más cercana a la playa canina sin correa todo el año."}
+        {
+          "q": "¿Dónde está la mejor playa canina cerca de Béziers?",
+          "a": "La playa canina de Valras-Plage en el extremo sur hacia la Embouchure de l'Orb es la playa canina mediterránea sin correa todo el año más cercana a Béziers, a 15 km al sur con aparcamiento gratis y acceso en bus Liō."
+        },
+        {
+          "q": "¿Se admiten perros en Valras-Plage en verano?",
+          "a": "Los perros con correa son bienvenidos en los extremos norte y sur todo el año; la zona vigilada central (15 junio-15 septiembre) restringe a las mascotas. El suelta es tolerado de octubre a mayo en la playa central."
+        },
+        {
+          "q": "¿Puedo coger el bus a la playa canina?",
+          "a": "Sí, la línea Liō conecta la Gare Routière de Béziers con Valras-Plage (25 min, 1 € ida), la parada más cercana a la playa canina sin correa todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica a melhor praia canina perto de Béziers?", "a": "A praia canina de Valras-Plage no extremo sul para a Embouchure de l'Orb é a praia canina mediterrânica sem trela o ano inteiro mais próxima de Béziers, a 15 km a sul com estacionamento grátis e acesso em autocarro Liō."},
-        {"q": "Os cães são admitidos em Valras-Plage no verão?", "a": "Os cães com trela são bem-vindos nos extremos norte e sul o ano inteiro; a zona vigiada central (15 junho-15 setembro) restringe os animais. Sem trela é tolerado de outubro a maio na praia central."},
-        {"q": "Posso apanhar o autocarro para a praia canina?", "a": "Sim, a linha Liō liga a Gare Routière de Béziers a Valras-Plage (25 min, 1 € ida), a paragem mais próxima da praia canina sem trela o ano inteiro."}
+        {
+          "q": "Onde fica a melhor praia canina perto de Béziers?",
+          "a": "A praia canina de Valras-Plage no extremo sul para a Embouchure de l'Orb é a praia canina mediterrânica sem trela o ano inteiro mais próxima de Béziers, a 15 km a sul com estacionamento grátis e acesso em autocarro Liō."
+        },
+        {
+          "q": "Os cães são admitidos em Valras-Plage no verão?",
+          "a": "Os cães com trela são bem-vindos nos extremos norte e sul o ano inteiro; a zona vigiada central (15 junho-15 setembro) restringe os animais. Sem trela é tolerado de outubro a maio na praia central."
+        },
+        {
+          "q": "Posso apanhar o autocarro para a praia canina?",
+          "a": "Sim, a linha Liō liga a Gare Routière de Béziers a Valras-Plage (25 min, 1 € ida), a paragem mais próxima da praia canina sem trela o ano inteiro."
+        }
       ]
     },
     "vets": {
@@ -470,7 +614,7 @@
           "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; linha de urgência nocturna rotativa",
           "englishSpeaking": true,
           "website": "https://www.cliniquedupolygone.fr/",
-          "photo": "/images/city-places/beziers-vets-polygone.jpg",
+          "photo": "/images/city-places/beziers-vets-clinique-veterinaire-du-polygone.jpg",
           "description": "A central Béziers general practice on Avenue du Président Wilson 5 minutes from the Halles, with imaging, dentistry and minor surgery. Participates in the rotating night line for the Béziers agglomeration; phone the main number after hours to be redirected to the duty clinic of the week.",
           "descriptionFr": "Cabinet généraliste central de Béziers sur l'Avenue du Président Wilson à 5 minutes des Halles, avec imagerie, dentisterie et petite chirurgie. Participe à la garde tournante de nuit pour l'agglomération biterroise ; appelez le numéro principal hors heures pour être redirigé vers la clinique de garde de la semaine.",
           "descriptionEs": "Consulta generalista céntrica de Béziers en la Avenue du Président Wilson a 5 minutos de las Halles, con imagen, odontología y cirugía menor. Participa en la guardia rotativa nocturna para la aglomeración de Béziers; llama al número principal fuera de horario para ser redirigido a la clínica de guardia de la semana.",
@@ -483,7 +627,10 @@
           "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie, dentisterie, garde",
           "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor, odontología, guardia",
           "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia, dentária, urgência",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00",
           "tip": "Save the main number (+33 4 67 28 30 25) before any Canal du Midi or Massif de la Clape day trip; the rotating night line directs you to the duty clinic, useful if mobile coverage drops between Béziers and Fonsérannes.",
           "tipFr": "Enregistrez le numéro principal (+33 4 67 28 30 25) avant toute excursion sur le Canal du Midi ou dans le Massif de la Clape ; la ligne tournante de nuit vous redirige vers la clinique de garde, utile si la couverture mobile chute entre Béziers et Fonsérannes.",
@@ -503,7 +650,7 @@
           "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; fechado dom",
           "englishSpeaking": true,
           "website": "https://www.cliniquedeladeveze.fr/",
-          "photo": "/images/city-places/beziers-vets-deveze.jpg",
+          "photo": "/images/city-places/beziers-vets-clinique-veterinaire-de-la-deveze.jpg",
           "description": "A general practice in the residential Quartier de la Devèze 5 minutes west of the centre by Mobilibus, ideal for vaccination top-ups, EU passport stamps and minor non-emergency consultations. Refers to CHV Languedocia for advanced cases.",
           "descriptionFr": "Cabinet généraliste dans le quartier résidentiel de la Devèze à 5 minutes à l'ouest du centre en Mobilibus, idéal pour rappels de vaccin, tampons sur passeport européen et consultations mineures non urgentes. Renvoie sur le CHV Languedocia pour les cas avancés.",
           "descriptionEs": "Consulta generalista en el barrio residencial de la Devèze a 5 minutos al oeste del centro en Mobilibus, ideal para refuerzos de vacuna, sellos de pasaporte europeo y consultas menores no urgentes. Deriva al CHV Languedocia para casos avanzados.",
@@ -516,7 +663,10 @@
           "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie",
           "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor",
           "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00",
           "tip": "Book the first morning slot for same-day EU passport sign-off before a Ryanair flight from BZR; afternoons fill with local consultations.",
           "tipFr": "Réservez le premier créneau du matin pour une validation passeport européen le jour même avant un vol Ryanair depuis BZR ; les après-midis se remplissent de consultations locales.",
@@ -536,7 +686,7 @@
           "hoursPt": "Urgências e especialidades 24/7",
           "englishSpeaking": true,
           "website": "https://www.chv-languedocia.fr/",
-          "photo": "/images/city-places/beziers-vets-chv-languedocia.jpg",
+          "photo": "/images/city-places/beziers-vets-chv-languedocia-montpellier.jpg",
           "description": "The reference 24/7 specialty veterinary hospital for the Languedoc coast, with cardiology, oncology, neurology, intensive care and complex surgery; 45 minutes from Béziers via the A9 motorway, the regional escalation centre Béziers clinics refer to.",
           "descriptionFr": "L'hôpital vétérinaire de référence 24h/24 pour la côte languedocienne, avec cardiologie, oncologie, neurologie, soins intensifs et chirurgie complexe ; à 45 minutes de Béziers par l'A9, le centre d'escalade régional vers lequel les cliniques biterroises adressent.",
           "descriptionEs": "El hospital veterinario de referencia 24/7 para la costa languedociana, con cardiología, oncología, neurología, cuidados intensivos y cirugía compleja; a 45 minutos de Béziers vía la A9, el centro de escalada regional al que derivan las clínicas de Béziers.",
@@ -549,7 +699,10 @@
           "servicesFr": "Urgences, soins intensifs, cardiologie, oncologie, neurologie, chirurgie complexe, imagerie",
           "servicesEs": "Urgencias, UCI, cardiología, oncología, neurología, cirugía compleja, imagen",
           "servicesPt": "Urgências, UCI, cardiologia, oncologia, neurologia, cirurgia complexa, imagem",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "24/7",
           "tip": "Drive yourself on the A9 rather than wait for a pet-taxi at night; the 45-minute transfer to Languedocia is faster than any rural rotating-line ETA after midnight.",
           "tipFr": "Conduisez-vous sur l'A9 plutôt que d'attendre un pet-taxi la nuit ; le transfert de 45 minutes vers Languedocia est plus rapide que n'importe quelle estimation de la ligne tournante rurale après minuit.",
@@ -579,24 +732,60 @@
         "Leve fisicamente o seu passaporte europeu para animais a toda a visita veterinária; as clínicas precisam de ver o carimbo antirrábico antes de qualquer prescrição."
       ],
       "faqsEn": [
-        {"q": "Where is the closest 24h vet to Béziers?", "a": "The CHV Languedocia in Montpellier (+33 4 67 41 39 39, 45 min via the A9 motorway) is the closest true 24/7 referral hospital; local after-hours is handled via the Béziers rotating night line at the Clinique du Polygone."},
-        {"q": "Do Béziers vets speak English?", "a": "Yes at the Clinique du Polygone and the Clinique de la Devèze; senior vets are fluent thanks to the UK Ryanair traffic via BZR airport and the British retiree clientele on the Hérault coast."},
-        {"q": "Can I get an EU pet passport stamp before flying out of Béziers BZR?", "a": "Yes, both listed Béziers clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs; book the first morning slot before an afternoon Ryanair departure."}
+        {
+          "q": "Where is the closest 24h vet to Béziers?",
+          "a": "The CHV Languedocia in Montpellier (+33 4 67 41 39 39, 45 min via the A9 motorway) is the closest true 24/7 referral hospital; local after-hours is handled via the Béziers rotating night line at the Clinique du Polygone."
+        },
+        {
+          "q": "Do Béziers vets speak English?",
+          "a": "Yes at the Clinique du Polygone and the Clinique de la Devèze; senior vets are fluent thanks to the UK Ryanair traffic via BZR airport and the British retiree clientele on the Hérault coast."
+        },
+        {
+          "q": "Can I get an EU pet passport stamp before flying out of Béziers BZR?",
+          "a": "Yes, both listed Béziers clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs; book the first morning slot before an afternoon Ryanair departure."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est le vétérinaire 24h le plus proche de Béziers ?", "a": "Le CHV Languedocia à Montpellier (+33 4 67 41 39 39, 45 min par l'A9) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne tournante de nuit biterroise à la Clinique du Polygone."},
-        {"q": "Les vétérinaires de Béziers parlent-ils anglais ?", "a": "Oui à la Clinique du Polygone et à la Clinique de la Devèze ; les vétérinaires seniors le parlent couramment grâce au trafic Ryanair UK via l'aéroport BZR et à la clientèle britannique retraitée sur la côte héraultaise."},
-        {"q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Béziers BZR ?", "a": "Oui, les deux cliniques de Béziers listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles ; réservez le premier créneau du matin avant un départ Ryanair l'après-midi."}
+        {
+          "q": "Où est le vétérinaire 24h le plus proche de Béziers ?",
+          "a": "Le CHV Languedocia à Montpellier (+33 4 67 41 39 39, 45 min par l'A9) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne tournante de nuit biterroise à la Clinique du Polygone."
+        },
+        {
+          "q": "Les vétérinaires de Béziers parlent-ils anglais ?",
+          "a": "Oui à la Clinique du Polygone et à la Clinique de la Devèze ; les vétérinaires seniors le parlent couramment grâce au trafic Ryanair UK via l'aéroport BZR et à la clientèle britannique retraitée sur la côte héraultaise."
+        },
+        {
+          "q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Béziers BZR ?",
+          "a": "Oui, les deux cliniques de Béziers listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles ; réservez le premier créneau du matin avant un départ Ryanair l'après-midi."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el veterinario 24h más cercano de Béziers?", "a": "El CHV Languedocia en Montpellier (+33 4 67 41 39 39, 45 min vía la A9) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea rotativa nocturna de Béziers en la Clinique du Polygone."},
-        {"q": "¿Los veterinarios de Béziers hablan inglés?", "a": "Sí en la Clinique du Polygone y en la Clinique de la Devèze; los veterinarios senior son fluidos gracias al tráfico Ryanair UK vía el aeropuerto BZR y a la clientela británica jubilada en la costa heraultiana."},
-        {"q": "¿Puedo sellar un pasaporte UE antes de volar desde Béziers BZR?", "a": "Sí, las dos clínicas de Béziers listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles; reserva el primer hueco de la mañana antes de una salida Ryanair por la tarde."}
+        {
+          "q": "¿Dónde está el veterinario 24h más cercano de Béziers?",
+          "a": "El CHV Languedocia en Montpellier (+33 4 67 41 39 39, 45 min vía la A9) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea rotativa nocturna de Béziers en la Clinique du Polygone."
+        },
+        {
+          "q": "¿Los veterinarios de Béziers hablan inglés?",
+          "a": "Sí en la Clinique du Polygone y en la Clinique de la Devèze; los veterinarios senior son fluidos gracias al tráfico Ryanair UK vía el aeropuerto BZR y a la clientela británica jubilada en la costa heraultiana."
+        },
+        {
+          "q": "¿Puedo sellar un pasaporte UE antes de volar desde Béziers BZR?",
+          "a": "Sí, las dos clínicas de Béziers listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles; reserva el primer hueco de la mañana antes de una salida Ryanair por la tarde."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o veterinário 24h mais próximo de Béziers?", "a": "O CHV Languedocia em Montpellier (+33 4 67 41 39 39, 45 min pela A9) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha rotativa nocturna de Béziers na Clinique du Polygone."},
-        {"q": "Os veterinários de Béziers falam inglês?", "a": "Sim na Clinique du Polygone e na Clinique de la Devèze; os veterinários seniores são fluentes graças ao tráfego Ryanair UK pelo aeroporto BZR e à clientela britânica reformada na costa heraultiana."},
-        {"q": "Posso carimbar um passaporte UE antes de voar de Béziers BZR?", "a": "Sim, as duas clínicas de Béziers listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis; reserve o primeiro slot da manhã antes de uma partida Ryanair à tarde."}
+        {
+          "q": "Onde fica o veterinário 24h mais próximo de Béziers?",
+          "a": "O CHV Languedocia em Montpellier (+33 4 67 41 39 39, 45 min pela A9) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha rotativa nocturna de Béziers na Clinique du Polygone."
+        },
+        {
+          "q": "Os veterinários de Béziers falam inglês?",
+          "a": "Sim na Clinique du Polygone e na Clinique de la Devèze; os veterinários seniores são fluentes graças ao tráfego Ryanair UK pelo aeroporto BZR e à clientela britânica reformada na costa heraultiana."
+        },
+        {
+          "q": "Posso carimbar um passaporte UE antes de voar de Béziers BZR?",
+          "a": "Sim, as duas clínicas de Béziers listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis; reserve o primeiro slot da manhã antes de uma partida Ryanair à tarde."
+        }
       ]
     },
     "tips": {
@@ -638,24 +827,60 @@
         "A praia canina de Valras-Plage é a referência canina regional, uma praia mediterrânica sem trela o ano inteiro acessível em autocarro Liō desde Béziers em 25 min."
       ],
       "faqsEn": [
-        {"q": "Is Béziers a good base for a pet-friendly Languedoc holiday?", "a": "Yes, the combination of Canal du Midi UNESCO walking on the doorstep, the Cathédrale Saint-Nazaire hilltop, the year-round off-leash Valras-Plage plage canine 15 minutes south, and the BZR Ryanair hub makes it one of the most convenient pet bases on the French Mediterranean."},
-        {"q": "Do I need a muzzle in public in Béziers?", "a": "Only for category 1 and 2 restricted breeds; standard breeds need only a leash. The Mobilibus and Liō buses accept muzzled large dogs and free small dogs in carriers."},
-        {"q": "What is the best month for Béziers with a dog?", "a": "May-June and September-October: mild temperatures, lower humidity, lighter crowds, full Canal du Midi towpath comfort and the off-leash Valras plage canine open year-round."}
+        {
+          "q": "Is Béziers a good base for a pet-friendly Languedoc holiday?",
+          "a": "Yes, the combination of Canal du Midi UNESCO walking on the doorstep, the Cathédrale Saint-Nazaire hilltop, the year-round off-leash Valras-Plage plage canine 15 minutes south, and the BZR Ryanair hub makes it one of the most convenient pet bases on the French Mediterranean."
+        },
+        {
+          "q": "Do I need a muzzle in public in Béziers?",
+          "a": "Only for category 1 and 2 restricted breeds; standard breeds need only a leash. The Mobilibus and Liō buses accept muzzled large dogs and free small dogs in carriers."
+        },
+        {
+          "q": "What is the best month for Béziers with a dog?",
+          "a": "May-June and September-October: mild temperatures, lower humidity, lighter crowds, full Canal du Midi towpath comfort and the off-leash Valras plage canine open year-round."
+        }
       ],
       "faqsFr": [
-        {"q": "Béziers est-elle une bonne base pour des vacances pet-friendly dans le Languedoc ?", "a": "Oui, la combinaison du Canal du Midi UNESCO sur le pas de la porte, de la Cathédrale Saint-Nazaire en surplomb, de la plage canine sans laisse toute l'année de Valras-Plage à 15 minutes au sud, et du hub Ryanair BZR en fait l'une des bases canines les plus pratiques de la Méditerranée française."},
-        {"q": "Ai-je besoin d'une muselière en public à Béziers ?", "a": "Seulement pour les races de catégorie 1 et 2 ; les races standard n'ont besoin que d'une laisse. Les bus Mobilibus et Liō acceptent les grands chiens muselés et gratuitement les petits en cage."},
-        {"q": "Quel est le meilleur mois à Béziers avec un chien ?", "a": "Mai-juin et septembre-octobre : températures douces, humidité plus basse, moins de monde, confort complet sur le halage du Canal du Midi et la plage canine de Valras sans laisse ouverte toute l'année."}
+        {
+          "q": "Béziers est-elle une bonne base pour des vacances pet-friendly dans le Languedoc ?",
+          "a": "Oui, la combinaison du Canal du Midi UNESCO sur le pas de la porte, de la Cathédrale Saint-Nazaire en surplomb, de la plage canine sans laisse toute l'année de Valras-Plage à 15 minutes au sud, et du hub Ryanair BZR en fait l'une des bases canines les plus pratiques de la Méditerranée française."
+        },
+        {
+          "q": "Ai-je besoin d'une muselière en public à Béziers ?",
+          "a": "Seulement pour les races de catégorie 1 et 2 ; les races standard n'ont besoin que d'une laisse. Les bus Mobilibus et Liō acceptent les grands chiens muselés et gratuitement les petits en cage."
+        },
+        {
+          "q": "Quel est le meilleur mois à Béziers avec un chien ?",
+          "a": "Mai-juin et septembre-octobre : températures douces, humidité plus basse, moins de monde, confort complet sur le halage du Canal du Midi et la plage canine de Valras sans laisse ouverte toute l'année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Béziers una buena base para unas vacaciones pet-friendly en Languedoc?", "a": "Sí, la combinación del Canal du Midi UNESCO al lado de casa, la Cathédrale Saint-Nazaire en alto, la playa canina sin correa todo el año de Valras-Plage a 15 minutos al sur, y el hub Ryanair BZR la convierten en una de las bases caninas más prácticas del Mediterráneo francés."},
-        {"q": "¿Necesito bozal en público en Béziers?", "a": "Solo para razas de categoría 1 y 2; las razas estándar solo necesitan correa. Los buses Mobilibus y Liō admiten perros grandes con bozal y gratis a los pequeños en transportín."},
-        {"q": "¿Cuál es el mejor mes para Béziers con perro?", "a": "Mayo-junio y septiembre-octubre: temperaturas suaves, menor humedad, menos gente, confort completo en el sirgaje del Canal du Midi y la playa canina de Valras sin correa abierta todo el año."}
+        {
+          "q": "¿Es Béziers una buena base para unas vacaciones pet-friendly en Languedoc?",
+          "a": "Sí, la combinación del Canal du Midi UNESCO al lado de casa, la Cathédrale Saint-Nazaire en alto, la playa canina sin correa todo el año de Valras-Plage a 15 minutos al sur, y el hub Ryanair BZR la convierten en una de las bases caninas más prácticas del Mediterráneo francés."
+        },
+        {
+          "q": "¿Necesito bozal en público en Béziers?",
+          "a": "Solo para razas de categoría 1 y 2; las razas estándar solo necesitan correa. Los buses Mobilibus y Liō admiten perros grandes con bozal y gratis a los pequeños en transportín."
+        },
+        {
+          "q": "¿Cuál es el mejor mes para Béziers con perro?",
+          "a": "Mayo-junio y septiembre-octubre: temperaturas suaves, menor humedad, menos gente, confort completo en el sirgaje del Canal du Midi y la playa canina de Valras sin correa abierta todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Béziers é uma boa base para férias pet-friendly em Languedoc?", "a": "Sim, a combinação do Canal du Midi UNESCO à porta de casa, a Cathédrale Saint-Nazaire elevada, a praia canina sem trela o ano inteiro de Valras-Plage a 15 minutos a sul, e o hub Ryanair BZR fazem dela uma das bases caninas mais práticas do Mediterrâneo francês."},
-        {"q": "Preciso de açaime em público em Béziers?", "a": "Só para raças de categoria 1 e 2; as raças standard só precisam de trela. Os autocarros Mobilibus e Liō aceitam cães grandes com açaime e grátis os pequenos em transportadora."},
-        {"q": "Qual é o melhor mês para Béziers com cão?", "a": "Maio-junho e setembro-outubro: temperaturas suaves, menor humidade, menos gente, conforto completo na sirga do Canal du Midi e a praia canina de Valras sem trela aberta o ano inteiro."}
+        {
+          "q": "Béziers é uma boa base para férias pet-friendly em Languedoc?",
+          "a": "Sim, a combinação do Canal du Midi UNESCO à porta de casa, a Cathédrale Saint-Nazaire elevada, a praia canina sem trela o ano inteiro de Valras-Plage a 15 minutos a sul, e o hub Ryanair BZR fazem dela uma das bases caninas mais práticas do Mediterrâneo francês."
+        },
+        {
+          "q": "Preciso de açaime em público em Béziers?",
+          "a": "Só para raças de categoria 1 e 2; as raças standard só precisam de trela. Os autocarros Mobilibus e Liō aceitam cães grandes com açaime e grátis os pequenos em transportadora."
+        },
+        {
+          "q": "Qual é o melhor mês para Béziers com cão?",
+          "a": "Maio-junho e setembro-outubro: temperaturas suaves, menor humidade, menos gente, conforto completo na sirga do Canal du Midi e a praia canina de Valras sem trela aberta o ano inteiro."
+        }
       ]
     },
     "attractions": {
@@ -671,7 +896,7 @@
         {
           "name": "Cathédrale Saint-Nazaire-et-Saint-Celse",
           "neighborhood": "Vieux Béziers / hilltop",
-          "photo": "/images/city-places/beziers-attractions-cathedrale-saint-nazaire.jpg",
+          "photo": "/images/city-places/beziers-attractions-cathedrale-saint-nazaire-et-saint-celse.jpg",
           "website": "https://www.beziers-mediterranee.com/",
           "description": "The fortified Gothic cathedral of Béziers (begun 1215 on the site of a Roman temple, rebuilt after the 1209 Albigensian Crusade sack of the city) sits 60 m above the Orb on the hilltop, with a viewing terrace that looks across the river to the Neuf Écluses de Fonsérannes. The terrace and cloister are dog-friendly year-round; the nave interior admits only assistance dogs.",
           "descriptionFr": "La cathédrale gothique fortifiée de Béziers (commencée en 1215 sur le site d'un temple romain, reconstruite après le sac de la ville lors de la croisade albigeoise de 1209) est à 60 m au-dessus de l'Orb sur la colline, avec une terrasse panoramique qui regarde par-dessus la rivière vers les Neuf Écluses de Fonsérannes. La terrasse et le cloître sont dog-friendly toute l'année ; l'intérieur de la nef n'admet que les chiens d'assistance.",
@@ -694,7 +919,7 @@
         {
           "name": "Neuf Écluses de Fonsérannes",
           "neighborhood": "Fonsérannes",
-          "photo": "/images/city-places/beziers-attractions-ecluses-fonserannes.jpg",
+          "photo": "/images/city-places/beziers-attractions-neuf-ecluses-de-fonserannes.jpg",
           "website": "https://www.canal-du-midi.com/",
           "description": "Pierre-Paul Riquet's 1697 staircase of 9 successive locks (originally 8, reduced to 7 in use) on the UNESCO-listed Canal du Midi, climbing 21.5 m over 300 m, the most spectacular engineering feat on the canal. Free walking access to the lock-side viewing path, dog-friendly year-round, with a continuation along the towpath to the Pont-Canal de l'Orb aqueduct 1 km west.",
           "descriptionFr": "L'escalier de 9 écluses successives de Pierre-Paul Riquet de 1697 (à l'origine 8, réduit à 7 en service) sur le Canal du Midi classé UNESCO, montant 21,5 m sur 300 m, la prouesse d'ingénierie la plus spectaculaire du canal. Accès piéton gratuit au chemin de halage du côté des écluses, dog-friendly toute l'année, avec une continuation le long du halage jusqu'au Pont-Canal de l'Orb 1 km à l'ouest.",
@@ -717,7 +942,7 @@
         {
           "name": "Pont Vieux and Saint-Aphrodise old town",
           "neighborhood": "Pont Vieux / Saint-Aphrodise",
-          "photo": "/images/city-places/beziers-attractions-pont-vieux.jpg",
+          "photo": "/images/city-places/beziers-attractions-pont-vieux-and-saint-aphrodise-old-town.jpg",
           "website": "https://www.beziers-mediterranee.com/",
           "description": "The medieval 17-arch Pont Vieux (12th-century origin, rebuilt 14th century) spans the Orb beneath the hilltop cathedral and connects the centre to the Saint-Aphrodise quarter, the oldest district of Béziers built around the 4th-century Saint-Aphrodise Basilica. Pedestrian-only since 1986, the bridge offers the iconic dog-photo of the city with the cathedral floodlit above.",
           "descriptionFr": "Le Pont Vieux médiéval à 17 arches (origine XIIᵉ siècle, reconstruit au XIVᵉ) enjambe l'Orb sous la cathédrale et relie le centre au quartier Saint-Aphrodise, le plus ancien de Béziers bâti autour de la basilique Saint-Aphrodise du IVᵉ siècle. Piéton depuis 1986, le pont offre la photo canine emblématique de la ville avec la cathédrale illuminée au-dessus.",
@@ -759,24 +984,60 @@
         "Combine a colina da catedral e as Neuf Écluses de Fonsérannes numa meia-jornada fácil; a esplanada da catedral e o Pont-Canal de l'Orb olham ambos para o Canal du Midi a duas altitudes."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Béziers museums?", "a": "Only assistance dogs may enter the museum interiors (Musée des Beaux-Arts, Musée du Biterrois, Musée Taurin); leashed pets are welcome across the squares, cathedral terrace, canal banks and outdoor heritage sites."},
-        {"q": "Can I take my dog into Les Halles centrales?", "a": "Yes, leashed dogs are welcome in the central aisle of Les Halles centrales (1891) year-round; the plancha and oyster counters serve standing customers with dogs at their feet."},
-        {"q": "Is the Béziers centre walkable with a dog?", "a": "Yes, the historic centre and the Allées Paul Riquet are largely pedestrianised and a leashed dog handles the full loop (Plateau des Poètes, Halles, Cathédrale, Pont Vieux) in about 90 minutes."}
+        {
+          "q": "Are dogs allowed in the Béziers museums?",
+          "a": "Only assistance dogs may enter the museum interiors (Musée des Beaux-Arts, Musée du Biterrois, Musée Taurin); leashed pets are welcome across the squares, cathedral terrace, canal banks and outdoor heritage sites."
+        },
+        {
+          "q": "Can I take my dog into Les Halles centrales?",
+          "a": "Yes, leashed dogs are welcome in the central aisle of Les Halles centrales (1891) year-round; the plancha and oyster counters serve standing customers with dogs at their feet."
+        },
+        {
+          "q": "Is the Béziers centre walkable with a dog?",
+          "a": "Yes, the historic centre and the Allées Paul Riquet are largely pedestrianised and a leashed dog handles the full loop (Plateau des Poètes, Halles, Cathédrale, Pont Vieux) in about 90 minutes."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans les musées de Béziers ?", "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des musées (Musée des Beaux-Arts, Musée du Biterrois, Musée Taurin) ; les chiens en laisse sont bienvenus sur les places, la terrasse de la cathédrale, les berges du canal et les sites patrimoniaux extérieurs."},
-        {"q": "Puis-je entrer aux Halles centrales avec mon chien ?", "a": "Oui, les chiens en laisse sont bienvenus dans l'allée centrale des Halles centrales (1891) toute l'année ; les comptoirs à la plancha et à huîtres servent les clients debout avec leurs chiens à leurs pieds."},
-        {"q": "Le centre de Béziers est-il accessible à pied avec un chien ?", "a": "Oui, le centre historique et les Allées Paul Riquet sont en grande partie piétons et un chien en laisse fait la boucle complète (Plateau des Poètes, Halles, Cathédrale, Pont Vieux) en environ 90 minutes."}
+        {
+          "q": "Les chiens sont-ils autorisés dans les musées de Béziers ?",
+          "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des musées (Musée des Beaux-Arts, Musée du Biterrois, Musée Taurin) ; les chiens en laisse sont bienvenus sur les places, la terrasse de la cathédrale, les berges du canal et les sites patrimoniaux extérieurs."
+        },
+        {
+          "q": "Puis-je entrer aux Halles centrales avec mon chien ?",
+          "a": "Oui, les chiens en laisse sont bienvenus dans l'allée centrale des Halles centrales (1891) toute l'année ; les comptoirs à la plancha et à huîtres servent les clients debout avec leurs chiens à leurs pieds."
+        },
+        {
+          "q": "Le centre de Béziers est-il accessible à pied avec un chien ?",
+          "a": "Oui, le centre historique et les Allées Paul Riquet sont en grande partie piétons et un chien en laisse fait la boucle complète (Plateau des Poètes, Halles, Cathédrale, Pont Vieux) en environ 90 minutes."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en los museos de Béziers?", "a": "Solo los perros de asistencia pueden entrar en los interiores de los museos (Musée des Beaux-Arts, Musée du Biterrois, Musée Taurin); los perros con correa son bienvenidos en las plazas, la terraza de la catedral, las orillas del canal y los sitios patrimoniales al aire libre."},
-        {"q": "¿Puedo entrar a Les Halles centrales con mi perro?", "a": "Sí, los perros con correa son bienvenidos en el pasillo central de Les Halles centrales (1891) todo el año; las barras a la plancha y de ostras sirven a los clientes de pie con sus perros a los pies."},
-        {"q": "¿El centro de Béziers es accesible a pie con un perro?", "a": "Sí, el centro histórico y las Allées Paul Riquet son en gran parte peatonales y un perro con correa hace el recorrido completo (Plateau des Poètes, Halles, Catedral, Pont Vieux) en unos 90 minutos."}
+        {
+          "q": "¿Se admiten perros en los museos de Béziers?",
+          "a": "Solo los perros de asistencia pueden entrar en los interiores de los museos (Musée des Beaux-Arts, Musée du Biterrois, Musée Taurin); los perros con correa son bienvenidos en las plazas, la terraza de la catedral, las orillas del canal y los sitios patrimoniales al aire libre."
+        },
+        {
+          "q": "¿Puedo entrar a Les Halles centrales con mi perro?",
+          "a": "Sí, los perros con correa son bienvenidos en el pasillo central de Les Halles centrales (1891) todo el año; las barras a la plancha y de ostras sirven a los clientes de pie con sus perros a los pies."
+        },
+        {
+          "q": "¿El centro de Béziers es accesible a pie con un perro?",
+          "a": "Sí, el centro histórico y las Allées Paul Riquet son en gran parte peatonales y un perro con correa hace el recorrido completo (Plateau des Poètes, Halles, Catedral, Pont Vieux) en unos 90 minutos."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos nos museus de Béziers?", "a": "Só os cães de assistência podem entrar nos interiores dos museus (Musée des Beaux-Arts, Musée du Biterrois, Musée Taurin); os cães com trela são bem-vindos nas praças, esplanada da catedral, margens do canal e sítios patrimoniais ao ar livre."},
-        {"q": "Posso entrar nas Halles centrales com o meu cão?", "a": "Sim, os cães com trela são bem-vindos no corredor central das Halles centrales (1891) o ano inteiro; os balcões na chapa e de ostras servem clientes em pé com os seus cães aos pés."},
-        {"q": "O centro de Béziers é acessível a pé com um cão?", "a": "Sim, o centro histórico e as Allées Paul Riquet são em grande parte pedonais e um cão com trela faz o circuito completo (Plateau des Poètes, Halles, Catedral, Pont Vieux) em cerca de 90 minutos."}
+        {
+          "q": "Os cães são admitidos nos museus de Béziers?",
+          "a": "Só os cães de assistência podem entrar nos interiores dos museus (Musée des Beaux-Arts, Musée du Biterrois, Musée Taurin); os cães com trela são bem-vindos nas praças, esplanada da catedral, margens do canal e sítios patrimoniais ao ar livre."
+        },
+        {
+          "q": "Posso entrar nas Halles centrales com o meu cão?",
+          "a": "Sim, os cães com trela são bem-vindos no corredor central das Halles centrales (1891) o ano inteiro; os balcões na chapa e de ostras servem clientes em pé com os seus cães aos pés."
+        },
+        {
+          "q": "O centro de Béziers é acessível a pé com um cão?",
+          "a": "Sim, o centro histórico e as Allées Paul Riquet são em grande parte pedonais e um cão com trela faz o circuito completo (Plateau des Poètes, Halles, Catedral, Pont Vieux) em cerca de 90 minutos."
+        }
       ]
     },
     "petsitting": {
@@ -849,24 +1110,60 @@
         "Reserve com 2-3 semanas de antecedência para qualquer estadia durante a época alta mediterrânica em julho-agosto quando os locais sazonais enchem as pensões rurais em volta de Béziers e do Canal du Midi."
       ],
       "faqsEn": [
-        {"q": "How much does pet sitting cost in Béziers?", "a": "Expect EUR 18-28 per night for boarding and EUR 10-16 per 30-minute walk via Pawshake or Animaute; rural boarding kennels around the Canal du Midi villages charge from EUR 22 per day."},
-        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Béziers hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for an L'Ambassade dinner or a sunset trip to Valras-Plage."},
-        {"q": "Do I need to bring my dog's food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."}
+        {
+          "q": "How much does pet sitting cost in Béziers?",
+          "a": "Expect EUR 18-28 per night for boarding and EUR 10-16 per 30-minute walk via Pawshake or Animaute; rural boarding kennels around the Canal du Midi villages charge from EUR 22 per day."
+        },
+        {
+          "q": "Can hotels recommend a sitter for an evening out?",
+          "a": "Yes, larger Béziers hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for an L'Ambassade dinner or a sunset trip to Valras-Plage."
+        },
+        {
+          "q": "Do I need to bring my dog's food to a sitter?",
+          "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la garde à Béziers ?", "a": "Comptez 18-28 € par nuit en pension et 10-16 € par balade de 30 minutes via Pawshake ou Animaute ; les pensions rurales autour des villages du Canal du Midi facturent à partir de 22 € par jour."},
-        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Béziers gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour un dîner L'Ambassade ou une sortie coucher de soleil à Valras-Plage."},
-        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."}
+        {
+          "q": "Combien coûte la garde à Béziers ?",
+          "a": "Comptez 18-28 € par nuit en pension et 10-16 € par balade de 30 minutes via Pawshake ou Animaute ; les pensions rurales autour des villages du Canal du Midi facturent à partir de 22 € par jour."
+        },
+        {
+          "q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?",
+          "a": "Oui, les grands hôtels de Béziers gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour un dîner L'Ambassade ou une sortie coucher de soleil à Valras-Plage."
+        },
+        {
+          "q": "Dois-je apporter la nourriture du chien au sitter ?",
+          "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el cuidado de mascotas en Béziers?", "a": "Cuenta 18-28 € por noche en residencia y 10-16 € por paseo de 30 minutos vía Pawshake o Animaute; las residencias rurales alrededor de los pueblos del Canal du Midi cobran desde 22 € por día."},
-        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Béziers guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una cena en L'Ambassade o una salida al atardecer en Valras-Plage."},
-        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."}
+        {
+          "q": "¿Cuánto cuesta el cuidado de mascotas en Béziers?",
+          "a": "Cuenta 18-28 € por noche en residencia y 10-16 € por paseo de 30 minutos vía Pawshake o Animaute; las residencias rurales alrededor de los pueblos del Canal du Midi cobran desde 22 € por día."
+        },
+        {
+          "q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?",
+          "a": "Sí, los grandes hoteles de Béziers guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una cena en L'Ambassade o una salida al atardecer en Valras-Plage."
+        },
+        {
+          "q": "¿Tengo que llevar la comida del perro al cuidador?",
+          "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa o cuidado de animais em Béziers?", "a": "Conte 18-28 € por noite em creche e 10-16 € por passeio de 30 minutos via Pawshake ou Animaute; as creches rurais em volta das aldeias do Canal du Midi cobram desde 22 € por dia."},
-        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Béziers guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para um jantar L'Ambassade ou uma saída ao pôr-do-sol em Valras-Plage."},
-        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."}
+        {
+          "q": "Quanto custa o cuidado de animais em Béziers?",
+          "a": "Conte 18-28 € por noite em creche e 10-16 € por passeio de 30 minutos via Pawshake ou Animaute; as creches rurais em volta das aldeias do Canal du Midi cobram desde 22 € por dia."
+        },
+        {
+          "q": "Os hotéis podem recomendar um sitter para uma saída à noite?",
+          "a": "Sim, os grandes hotéis de Béziers guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para um jantar L'Ambassade ou uma saída ao pôr-do-sol em Valras-Plage."
+        },
+        {
+          "q": "Tenho de levar a comida do cão ao cuidador?",
+          "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."
+        }
       ]
     }
   }

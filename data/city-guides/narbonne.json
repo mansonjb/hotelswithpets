@@ -19,7 +19,7 @@
           "name": "Brasserie Co Narbonne",
           "address": "1 Cours Mirabeau, 11100 Narbonne",
           "neighborhood": "Cours Mirabeau / Canal de la Robine",
-          "photo": "/images/city-places/narbonne-restaurants-brasserie-co.jpg",
+          "photo": "/images/city-places/narbonne-restaurants-brasserie-co-narbonne.jpg",
           "website": "https://www.brasserie-co.com/",
           "description": "A canalside brasserie on the Cours Mirabeau facing the Canal de la Robine, serving classic Languedoc fare (cassoulet, grilled fish, oysters from the Étang de Bages) on a long shaded terrace. Leashed dogs are welcome at every outdoor table and the staff bring water bowls without asking.",
           "descriptionFr": "Brasserie au bord du canal sur le Cours Mirabeau face au Canal de la Robine, servant la cuisine classique languedocienne (cassoulet, poissons grillés, huîtres de l'étang de Bages) sur une longue terrasse ombragée. Les chiens en laisse sont bienvenus à chaque table extérieure et le personnel apporte spontanément des gamelles d'eau.",
@@ -45,7 +45,7 @@
           "name": "Les Grands Buffets",
           "address": "Rond-Point de la Liberté, 11100 Narbonne",
           "neighborhood": "Quartier de la Liberté",
-          "photo": "/images/city-places/narbonne-restaurants-grands-buffets.jpg",
+          "photo": "/images/city-places/narbonne-restaurants-les-grands-buffets.jpg",
           "website": "https://www.lesgrandsbuffets.com/",
           "description": "Narbonne's famous all-you-can-eat French gastronomy buffet (foie gras, rotisserie, 30+ cheeses, dessert wall) accepts leashed dogs on its garden terrace when reserved in advance. Indoor dining hall is no-pets but the covered outdoor section gives full menu access with a four-legged companion.",
           "descriptionFr": "Le célèbre buffet à volonté de gastronomie française de Narbonne (foie gras, rôtisserie, 30+ fromages, mur de desserts) accepte les chiens en laisse sur sa terrasse jardin avec réservation préalable. La salle intérieure interdit les animaux mais la section extérieure couverte donne accès au menu complet avec un compagnon à quatre pattes.",
@@ -71,7 +71,7 @@
           "name": "Le Petit Comptoir",
           "address": "4 Boulevard du Maréchal Joffre, 11100 Narbonne",
           "neighborhood": "Centre-ville",
-          "photo": "/images/city-places/narbonne-restaurants-petit-comptoir.jpg",
+          "photo": "/images/city-places/narbonne-restaurants-le-petit-comptoir.jpg",
           "website": "https://www.facebook.com/lepetitcomptoirnarbonne",
           "description": "A bistro one street back from Les Halles serving market-driven Languedoc cuisine (squid with Camargue rice, lamb shoulder, Roquefort tart) at fair prices on a covered pavement terrace. Leashed dogs are welcome year-round and the chef-owner keeps a stash of dog treats behind the bar.",
           "descriptionFr": "Bistrot à une rue des Halles servant une cuisine languedocienne du marché (calamars au riz de Camargue, épaule d'agneau, tarte au Roquefort) à prix justes sur une terrasse couverte. Les chiens en laisse sont bienvenus toute l'année et le chef-propriétaire garde des friandises pour chiens derrière le bar.",
@@ -115,24 +115,60 @@
         "As esplanadas do Cours Mirabeau e do Cours de la République viram-se para o Canal de la Robine e apanham a brisa da tarde; chegue antes das 19:30 para o pôr-do-sol sobre o canal."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside Narbonne restaurants?", "a": "Leashed dogs are welcome on virtually every pavement terrace in the historic centre. Air-conditioned indoor rooms in July-August often prefer dogs outside; ask at the door."},
-        {"q": "Do restaurants provide water bowls?", "a": "Most terraces bring a bowl unprompted; otherwise asking for une gamelle d'eau pour le chien always works."},
-        {"q": "Where is the best canal-view dinner with a dog?", "a": "The Cours Mirabeau and Cours de la République esplanades face the Canal de la Robine; a Brasserie Co table at sunset reflecting on the cathedral is the local ritual."}
+        {
+          "q": "Are dogs allowed inside Narbonne restaurants?",
+          "a": "Leashed dogs are welcome on virtually every pavement terrace in the historic centre. Air-conditioned indoor rooms in July-August often prefer dogs outside; ask at the door."
+        },
+        {
+          "q": "Do restaurants provide water bowls?",
+          "a": "Most terraces bring a bowl unprompted; otherwise asking for une gamelle d'eau pour le chien always works."
+        },
+        {
+          "q": "Where is the best canal-view dinner with a dog?",
+          "a": "The Cours Mirabeau and Cours de la République esplanades face the Canal de la Robine; a Brasserie Co table at sunset reflecting on the cathedral is the local ritual."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Narbonne ?", "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses du centre. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors ; demandez à l'entrée."},
-        {"q": "Les restaurants fournissent-ils des gamelles d'eau ?", "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander une gamelle d'eau pour le chien fonctionne toujours."},
-        {"q": "Où dîner avec vue sur canal avec un chien ?", "a": "Les esplanades du Cours Mirabeau et du Cours de la République font face au Canal de la Robine ; une table Brasserie Co au coucher de soleil avec la cathédrale en reflet est le rituel local."}
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Narbonne ?",
+          "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses du centre. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors ; demandez à l'entrée."
+        },
+        {
+          "q": "Les restaurants fournissent-ils des gamelles d'eau ?",
+          "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander une gamelle d'eau pour le chien fonctionne toujours."
+        },
+        {
+          "q": "Où dîner avec vue sur canal avec un chien ?",
+          "a": "Les esplanades du Cours Mirabeau et du Cours de la République font face au Canal de la Robine ; une table Brasserie Co au coucher de soleil avec la cathédrale en reflet est le rituel local."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Narbonne?", "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas del centro. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera; pregunta en la entrada."},
-        {"q": "¿Los restaurantes ofrecen cuencos de agua?", "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir une gamelle d'eau pour le chien siempre funciona."},
-        {"q": "¿Dónde cenar con vista al canal con un perro?", "a": "Las esplanadas del Cours Mirabeau y del Cours de la République miran al Canal de la Robine; una mesa Brasserie Co al atardecer con la catedral reflejada es el ritual local."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Narbonne?",
+          "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas del centro. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera; pregunta en la entrada."
+        },
+        {
+          "q": "¿Los restaurantes ofrecen cuencos de agua?",
+          "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir une gamelle d'eau pour le chien siempre funciona."
+        },
+        {
+          "q": "¿Dónde cenar con vista al canal con un perro?",
+          "a": "Las esplanadas del Cours Mirabeau y del Cours de la République miran al Canal de la Robine; una mesa Brasserie Co al atardecer con la catedral reflejada es el ritual local."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos dentro dos restaurantes de Narbonne?", "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas do centro. As salas com ar condicionado em julho-agosto costumam preferir os cães fora; pergunte à entrada."},
-        {"q": "Os restaurantes oferecem taças de água?", "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir une gamelle d'eau pour le chien funciona sempre."},
-        {"q": "Onde jantar com vista para o canal com um cão?", "a": "As esplanadas do Cours Mirabeau e do Cours de la République viram-se para o Canal de la Robine; uma mesa Brasserie Co ao pôr-do-sol com a catedral em reflexo é o ritual local."}
+        {
+          "q": "Os cães são admitidos dentro dos restaurantes de Narbonne?",
+          "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas do centro. As salas com ar condicionado em julho-agosto costumam preferir os cães fora; pergunte à entrada."
+        },
+        {
+          "q": "Os restaurantes oferecem taças de água?",
+          "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir une gamelle d'eau pour le chien funciona sempre."
+        },
+        {
+          "q": "Onde jantar com vista para o canal com um cão?",
+          "a": "As esplanadas do Cours Mirabeau e do Cours de la République viram-se para o Canal de la Robine; uma mesa Brasserie Co ao pôr-do-sol com a catedral em reflexo é o ritual local."
+        }
       ]
     },
     "parks": {
@@ -149,7 +185,7 @@
           "name": "Massif de la Clape",
           "address": "Massif de la Clape, 11100 Narbonne",
           "neighborhood": "La Clape (5 km east of centre)",
-          "photo": "/images/city-places/narbonne-parks-massif-clape.jpg",
+          "photo": "/images/city-places/narbonne-parks-massif-de-la-clape.jpg",
           "website": "https://www.parc-naturel-narbonnaise.fr/",
           "description": "A 17 000-hectare protected limestone massif rising directly between Narbonne and the Mediterranean, with marked walking trails (GR 77, sentiers de Pech Redon and Notre-Dame des Auzils) through pine forest, garrigue and vineyards, and panoramic clifftop viewpoints over Gruissan and the Étang de Bages. Leashed dogs welcome on all trails year-round.",
           "descriptionFr": "Massif calcaire protégé de 17 000 hectares s'élevant directement entre Narbonne et la Méditerranée, avec sentiers balisés (GR 77, sentiers de Pech Redon et Notre-Dame des Auzils) à travers pinède, garrigue et vignobles, et belvédères en bord de falaise sur Gruissan et l'étang de Bages. Chiens en laisse bienvenus sur tous les sentiers toute l'année.",
@@ -175,7 +211,7 @@
           "name": "Parc des Sports et de l'Amitié",
           "address": "Avenue du 8 Mai 1945, 11100 Narbonne",
           "neighborhood": "Quartier Saint-Jean Saint-Pierre (1.5 km north of centre)",
-          "photo": "/images/city-places/narbonne-parks-amitie.jpg",
+          "photo": "/images/city-places/narbonne-parks-parc-des-sports-et-de-l-amitie.jpg",
           "website": "https://www.narbonne.fr/",
           "description": "A 22-hectare municipal urban park north of the centre with shaded plane-tree avenues, ponds, a children's play area and a marked fenced off-leash dog zone (canisite). Free and open dawn to dusk, the easiest morning leg-stretcher within walking distance of the train station.",
           "descriptionFr": "Parc urbain municipal de 22 hectares au nord du centre avec allées ombragées de platanes, étangs, aire de jeux pour enfants et zone canine sans laisse clôturée (canisite). Gratuit et ouvert de l'aube au crépuscule, le plus simple dégourdissement matinal à distance de marche de la gare.",
@@ -201,7 +237,7 @@
           "name": "Canal de la Robine towpath",
           "address": "Cours Mirabeau, 11100 Narbonne",
           "neighborhood": "Centre-ville",
-          "photo": "/images/city-places/narbonne-parks-canal-robine.jpg",
+          "photo": "/images/city-places/narbonne-parks-canal-de-la-robine-towpath.jpg",
           "website": "https://www.narbonne.fr/",
           "description": "A flat shaded towpath running along the UNESCO-listed Canal de la Robine from the Pont des Marchands through the Cours Mirabeau and south to the Étang de Bages, with benches, water fountains and uninterrupted views of the cathedral and the péniches. Leashed dogs welcome the full 32 km of the canal to Port-la-Nouvelle.",
           "descriptionFr": "Chemin de halage plat et ombragé longeant le Canal de la Robine classé UNESCO depuis le Pont des Marchands à travers le Cours Mirabeau et vers le sud jusqu'à l'étang de Bages, avec bancs, fontaines à eau, et vues ininterrompues sur la cathédrale et les péniches. Chiens en laisse bienvenus sur les 32 km de canal jusqu'à Port-la-Nouvelle.",
@@ -245,24 +281,60 @@
         "O caminho de sirga do Canal de la Robine é a opção mais fácil o ano inteiro e o único passeio canino inteiramente plano do centro de Narbonne; leve sacos porque os dispensadores estão a 500 m de distância."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Massif de la Clape?", "a": "Yes, leashed dogs are welcome on all marked trails year-round. The natural park status restricts off-leash access to protect ground-nesting birds and the Mediterranean fauna."},
-        {"q": "Is there an off-leash dog park in Narbonne?", "a": "Yes, the Parc des Sports et de l'Amitié has a fenced canisite off-leash zone. Outside that area, the city is on-leash by default."},
-        {"q": "Where can I find shaded walks in midsummer?", "a": "The Canal de la Robine towpath (plane-tree shaded) and the Parc des Sports et de l'Amitié plane-tree avenues are the most consistently shaded options July-August."}
+        {
+          "q": "Are dogs allowed in the Massif de la Clape?",
+          "a": "Yes, leashed dogs are welcome on all marked trails year-round. The natural park status restricts off-leash access to protect ground-nesting birds and the Mediterranean fauna."
+        },
+        {
+          "q": "Is there an off-leash dog park in Narbonne?",
+          "a": "Yes, the Parc des Sports et de l'Amitié has a fenced canisite off-leash zone. Outside that area, the city is on-leash by default."
+        },
+        {
+          "q": "Where can I find shaded walks in midsummer?",
+          "a": "The Canal de la Robine towpath (plane-tree shaded) and the Parc des Sports et de l'Amitié plane-tree avenues are the most consistently shaded options July-August."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans le Massif de la Clape ?", "a": "Oui, les chiens en laisse sont bienvenus sur tous les sentiers balisés toute l'année. Le statut de parc naturel limite l'accès sans laisse pour préserver les oiseaux nicheurs au sol et la faune méditerranéenne."},
-        {"q": "Y a-t-il un parc canin sans laisse à Narbonne ?", "a": "Oui, le Parc des Sports et de l'Amitié dispose d'une canisite sans laisse clôturée. Hors de là, la ville est en laisse par défaut."},
-        {"q": "Où trouver des promenades ombragées en plein été ?", "a": "Le chemin de halage du Canal de la Robine (ombragé par les platanes) et les allées de platanes du Parc des Sports et de l'Amitié sont les options les plus régulièrement ombragées en juillet-août."}
+        {
+          "q": "Les chiens sont-ils autorisés dans le Massif de la Clape ?",
+          "a": "Oui, les chiens en laisse sont bienvenus sur tous les sentiers balisés toute l'année. Le statut de parc naturel limite l'accès sans laisse pour préserver les oiseaux nicheurs au sol et la faune méditerranéenne."
+        },
+        {
+          "q": "Y a-t-il un parc canin sans laisse à Narbonne ?",
+          "a": "Oui, le Parc des Sports et de l'Amitié dispose d'une canisite sans laisse clôturée. Hors de là, la ville est en laisse par défaut."
+        },
+        {
+          "q": "Où trouver des promenades ombragées en plein été ?",
+          "a": "Le chemin de halage du Canal de la Robine (ombragé par les platanes) et les allées de platanes du Parc des Sports et de l'Amitié sont les options les plus régulièrement ombragées en juillet-août."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en el Massif de la Clape?", "a": "Sí, los perros con correa son bienvenidos en todos los senderos señalizados todo el año. El estatus de parque natural restringe el acceso sin correa para proteger las aves nidificantes en el suelo y la fauna mediterránea."},
-        {"q": "¿Hay un parque canino sin correa en Narbonne?", "a": "Sí, el Parc des Sports et de l'Amitié tiene una canisite sin correa vallada. Fuera de ahí, la ciudad es con correa por defecto."},
-        {"q": "¿Dónde encontrar paseos sombreados en pleno verano?", "a": "El camino de sirga del Canal de la Robine (sombreado por plátanos) y los paseos de plátanos del Parc des Sports et de l'Amitié son las opciones más constantemente sombreadas en julio-agosto."}
+        {
+          "q": "¿Se admiten perros en el Massif de la Clape?",
+          "a": "Sí, los perros con correa son bienvenidos en todos los senderos señalizados todo el año. El estatus de parque natural restringe el acceso sin correa para proteger las aves nidificantes en el suelo y la fauna mediterránea."
+        },
+        {
+          "q": "¿Hay un parque canino sin correa en Narbonne?",
+          "a": "Sí, el Parc des Sports et de l'Amitié tiene una canisite sin correa vallada. Fuera de ahí, la ciudad es con correa por defecto."
+        },
+        {
+          "q": "¿Dónde encontrar paseos sombreados en pleno verano?",
+          "a": "El camino de sirga del Canal de la Robine (sombreado por plátanos) y los paseos de plátanos del Parc des Sports et de l'Amitié son las opciones más constantemente sombreadas en julio-agosto."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos no Massif de la Clape?", "a": "Sim, os cães com trela são bem-vindos em todos os trilhos sinalizados o ano inteiro. O estatuto de parque natural restringe o acesso sem trela para proteger as aves nidificantes no solo e a fauna mediterrânica."},
-        {"q": "Há um parque canino sem trela em Narbonne?", "a": "Sim, o Parc des Sports et de l'Amitié tem uma canisite sem trela vedada. Fora daí, a cidade é com trela por defeito."},
-        {"q": "Onde encontrar passeios sombreados em pleno verão?", "a": "O caminho de sirga do Canal de la Robine (sombreado por plátanos) e as avenidas de plátanos do Parc des Sports et de l'Amitié são as opções mais constantemente sombreadas em julho-agosto."}
+        {
+          "q": "Os cães são admitidos no Massif de la Clape?",
+          "a": "Sim, os cães com trela são bem-vindos em todos os trilhos sinalizados o ano inteiro. O estatuto de parque natural restringe o acesso sem trela para proteger as aves nidificantes no solo e a fauna mediterrânica."
+        },
+        {
+          "q": "Há um parque canino sem trela em Narbonne?",
+          "a": "Sim, o Parc des Sports et de l'Amitié tem uma canisite sem trela vedada. Fora daí, a cidade é com trela por defeito."
+        },
+        {
+          "q": "Onde encontrar passeios sombreados em pleno verão?",
+          "a": "O caminho de sirga do Canal de la Robine (sombreado por plátanos) e as avenidas de plátanos do Parc des Sports et de l'Amitié são as opções mais constantemente sombreadas em julho-agosto."
+        }
       ]
     },
     "transport": {
@@ -279,7 +351,7 @@
           "name": "SNCF Gare de Narbonne (TGV / Intercités / TER)",
           "address": "Boulevard du Docteur Lacroix, 11100 Narbonne",
           "neighborhood": "Narbonne centre",
-          "photo": "/images/city-places/narbonne-transport-gare-sncf.jpg",
+          "photo": "/images/city-places/narbonne-transport-sncf-gare-de-narbonne-tgv-intercites-ter.jpg",
           "website": "https://www.sncf-connect.com/",
           "description": "Narbonne's main rail station is on the SNCF Paris-Toulouse-Barcelona axis with direct TGV to Paris Montparnasse (3h40), Intercités to Bordeaux and TER to Béziers, Montpellier, Carcassonne and Perpignan. Small dogs in carriers travel EUR 7 flat; larger leashed dogs need a muzzle and pay EUR 7.",
           "descriptionFr": "La gare principale de Narbonne est sur l'axe SNCF Paris-Toulouse-Barcelone avec TGV direct vers Paris Montparnasse (3h40), Intercités vers Bordeaux et TER vers Béziers, Montpellier, Carcassonne et Perpignan. Petits chiens en cage 7 € forfait ; grands chiens en laisse muselés 7 €.",
@@ -295,7 +367,7 @@
           "name": "Citibus Narbonne municipal bus",
           "address": "Place de l'Hôtel de Ville, 11100 Narbonne",
           "neighborhood": "Centre-ville",
-          "photo": "/images/city-places/narbonne-transport-citibus.jpg",
+          "photo": "/images/city-places/narbonne-transport-citibus-narbonne-municipal-bus.jpg",
           "website": "https://www.citibus.fr/",
           "description": "The Citibus municipal bus network covers the historic centre, the Quartier de la Liberté, the train station and the seaside extensions to Narbonne-Plage in summer. Single fare EUR 1; small dogs in carriers ride free, large leashed and muzzled dogs accepted at the driver's discretion when the bus is not full.",
           "descriptionFr": "Le réseau de bus municipal Citibus couvre le centre historique, le Quartier de la Liberté, la gare et les liaisons estivales vers Narbonne-Plage. Tarif unique 1 € ; petits chiens en cage gratuits, grands chiens en laisse muselés acceptés à la discrétion du chauffeur quand le bus n'est pas plein.",
@@ -311,7 +383,7 @@
           "name": "Liō line 1 to Narbonne-Plage and Saint-Pierre-la-Mer",
           "address": "Gare Routière, 11100 Narbonne",
           "neighborhood": "Narbonne centre",
-          "photo": "/images/city-places/narbonne-transport-lio-bus.jpg",
+          "photo": "",
           "website": "https://lio.laregion.fr/",
           "description": "The Occitanie regional Liō line 1 connects Narbonne to Narbonne-Plage (25 min), Saint-Pierre-la-Mer (30 min) and Fleury-d'Aude (40 min) up to ten times a day in summer. Fare EUR 1 one-way; small dogs in carriers ride free, large leashed dogs accepted with a muzzle.",
           "descriptionFr": "La ligne Liō régionale Occitanie 1 relie Narbonne à Narbonne-Plage (25 min), Saint-Pierre-la-Mer (30 min) et Fleury-d'Aude (40 min) jusqu'à dix fois par jour en été. Tarif 1 € aller ; petits chiens en cage gratuits, grands chiens en laisse acceptés muselés.",
@@ -345,24 +417,60 @@
         "A linha Liō 1 para Narbonne-Plage funciona o ano inteiro (menos frequente no inverno); mais barata do que um táxi (25 € ida) e a opção pet-friendly mais fácil para a praia sem carro."
       ],
       "faqsEn": [
-        {"q": "Do I need a muzzle for my dog on the train to Paris?", "a": "Yes, larger dogs not in a carrier must wear a muzzle on all SNCF trains for the EUR 7 flat fare. Small dogs in closed carriers are exempt and pay the same EUR 7."},
-        {"q": "Can I take my dog by bus to Narbonne-Plage?", "a": "Yes, the Liō line 1 runs year-round; small dogs in carriers ride free, large leashed dogs accepted with a muzzle, EUR 1 one-way."},
-        {"q": "Are Carcassonne and Béziers airports pet-friendly?", "a": "Yes, both regional airports accept leashed dogs in public terminal areas. Ryanair (BZR Béziers, 30 min east) accepts cabin pets under 8 kg with advance booking; Air France ex-CCF Carcassonne 60 min west."}
+        {
+          "q": "Do I need a muzzle for my dog on the train to Paris?",
+          "a": "Yes, larger dogs not in a carrier must wear a muzzle on all SNCF trains for the EUR 7 flat fare. Small dogs in closed carriers are exempt and pay the same EUR 7."
+        },
+        {
+          "q": "Can I take my dog by bus to Narbonne-Plage?",
+          "a": "Yes, the Liō line 1 runs year-round; small dogs in carriers ride free, large leashed dogs accepted with a muzzle, EUR 1 one-way."
+        },
+        {
+          "q": "Are Carcassonne and Béziers airports pet-friendly?",
+          "a": "Yes, both regional airports accept leashed dogs in public terminal areas. Ryanair (BZR Béziers, 30 min east) accepts cabin pets under 8 kg with advance booking; Air France ex-CCF Carcassonne 60 min west."
+        }
       ],
       "faqsFr": [
-        {"q": "Ai-je besoin d'une muselière dans le train pour Paris ?", "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans tous les trains SNCF pour le tarif forfaitaire 7 €. Les petits chiens en cage fermée en sont exemptés et paient le même 7 €."},
-        {"q": "Puis-je prendre le bus pour Narbonne-Plage avec mon chien ?", "a": "Oui, la ligne Liō 1 tourne toute l'année ; petits chiens en cage gratuits, grands chiens en laisse acceptés muselés, 1 € aller."},
-        {"q": "Les aéroports de Carcassonne et Béziers sont-ils pet-friendly ?", "a": "Oui, les deux aéroports régionaux acceptent les chiens en laisse dans les zones publiques du terminal. Ryanair (BZR Béziers, 30 min à l'est) accepte les animaux en cabine sous 8 kg sur réservation ; Air France ex-CCF Carcassonne 60 min à l'ouest."}
+        {
+          "q": "Ai-je besoin d'une muselière dans le train pour Paris ?",
+          "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans tous les trains SNCF pour le tarif forfaitaire 7 €. Les petits chiens en cage fermée en sont exemptés et paient le même 7 €."
+        },
+        {
+          "q": "Puis-je prendre le bus pour Narbonne-Plage avec mon chien ?",
+          "a": "Oui, la ligne Liō 1 tourne toute l'année ; petits chiens en cage gratuits, grands chiens en laisse acceptés muselés, 1 € aller."
+        },
+        {
+          "q": "Les aéroports de Carcassonne et Béziers sont-ils pet-friendly ?",
+          "a": "Oui, les deux aéroports régionaux acceptent les chiens en laisse dans les zones publiques du terminal. Ryanair (BZR Béziers, 30 min à l'est) accepte les animaux en cabine sous 8 kg sur réservation ; Air France ex-CCF Carcassonne 60 min à l'ouest."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Necesito bozal para mi perro en el tren a París?", "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en todos los trenes SNCF por la tarifa fija de 7 €. Los perros pequeños en transportín cerrado están exentos y pagan los mismos 7 €."},
-        {"q": "¿Puedo coger el bus a Narbonne-Plage con mi perro?", "a": "Sí, la línea Liō 1 funciona todo el año; perros pequeños en transportín gratis, grandes con correa admitidos con bozal, 1 € ida."},
-        {"q": "¿Los aeropuertos de Carcasona y Béziers son pet-friendly?", "a": "Sí, ambos aeropuertos regionales admiten perros con correa en las zonas públicas del terminal. Ryanair (BZR Béziers, 30 min al este) acepta mascotas en cabina hasta 8 kg con reserva previa; Air France desde CCF Carcasona 60 min al oeste."}
+        {
+          "q": "¿Necesito bozal para mi perro en el tren a París?",
+          "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en todos los trenes SNCF por la tarifa fija de 7 €. Los perros pequeños en transportín cerrado están exentos y pagan los mismos 7 €."
+        },
+        {
+          "q": "¿Puedo coger el bus a Narbonne-Plage con mi perro?",
+          "a": "Sí, la línea Liō 1 funciona todo el año; perros pequeños en transportín gratis, grandes con correa admitidos con bozal, 1 € ida."
+        },
+        {
+          "q": "¿Los aeropuertos de Carcasona y Béziers son pet-friendly?",
+          "a": "Sí, ambos aeropuertos regionales admiten perros con correa en las zonas públicas del terminal. Ryanair (BZR Béziers, 30 min al este) acepta mascotas en cabina hasta 8 kg con reserva previa; Air France desde CCF Carcasona 60 min al oeste."
+        }
       ],
       "faqsPt": [
-        {"q": "Preciso de açaime para o meu cão no comboio para Paris?", "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime em todos os comboios SNCF pela tarifa fixa de 7 €. Os cães pequenos em transportadora fechada estão isentos e pagam os mesmos 7 €."},
-        {"q": "Posso apanhar o autocarro para Narbonne-Plage com o meu cão?", "a": "Sim, a linha Liō 1 funciona o ano inteiro; cães pequenos em transportadora grátis, grandes com trela aceites com açaime, 1 € ida."},
-        {"q": "Os aeroportos de Carcassonne e Béziers são pet-friendly?", "a": "Sim, ambos os aeroportos regionais aceitam cães com trela nas zonas públicas do terminal. A Ryanair (BZR Béziers, 30 min a leste) aceita animais em cabine até 8 kg com reserva prévia; Air France desde CCF Carcassonne 60 min a oeste."}
+        {
+          "q": "Preciso de açaime para o meu cão no comboio para Paris?",
+          "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime em todos os comboios SNCF pela tarifa fixa de 7 €. Os cães pequenos em transportadora fechada estão isentos e pagam os mesmos 7 €."
+        },
+        {
+          "q": "Posso apanhar o autocarro para Narbonne-Plage com o meu cão?",
+          "a": "Sim, a linha Liō 1 funciona o ano inteiro; cães pequenos em transportadora grátis, grandes com trela aceites com açaime, 1 € ida."
+        },
+        {
+          "q": "Os aeroportos de Carcassonne e Béziers são pet-friendly?",
+          "a": "Sim, ambos os aeroportos regionais aceitam cães com trela nas zonas públicas do terminal. A Ryanair (BZR Béziers, 30 min a leste) aceita animais em cabine até 8 kg com reserva prévia; Air France desde CCF Carcassonne 60 min a oeste."
+        }
       ]
     },
     "beaches": {
@@ -393,7 +501,7 @@
           "rules": "Off-leash dog beach at the northern end year-round; leashed elsewhere; summer lifeguard zone restricts pets",
           "facilities": "Free parking, seasonal café-restaurants, Liō bus stop, off-leash plage canine signage",
           "googleMapsUrl": "https://maps.google.com/?q=Saint-Pierre-la-Mer+Fleury+Aude",
-          "photo": "/images/city-places/narbonne-beaches-saint-pierre-la-mer.jpg"
+          "photo": "/images/city-places/narbonne-beaches-saint-pierre-la-mer-fleury-d-aude.jpg"
         },
         {
           "name": "Gruissan-Plage and the chalets",
@@ -403,7 +511,7 @@
           "rules": "Off-leash dog beach at Les Ayguades year-round; leashed elsewhere in summer",
           "facilities": "Paid parking July-August, café-restaurants, chalets to rent, lifeguarded zones in summer",
           "googleMapsUrl": "https://maps.google.com/?q=Gruissan+Plage",
-          "photo": "/images/city-places/narbonne-beaches-gruissan.jpg"
+          "photo": ""
         }
       ],
       "tipsEn": [
@@ -427,24 +535,60 @@
         "A época baixa (outubro-maio) é o segredo dos donos locais; as regras de vigilância afrouxam, os centros esvaziam-se, e todo o corredor arenoso Narbonne-Saint-Pierre de 15 km abre-se aos passeios caninos ao amanhecer sem trela."
       ],
       "faqsEn": [
-        {"q": "Where is the best dog beach near Narbonne?", "a": "The Saint-Pierre-la-Mer / Fleury-d'Aude (postal 11560) plage canine at the northern Cabanes de Fleury end is the only year-round off-leash Mediterranean dog beach within 20 km of Narbonne, with free parking and Liō line 1 access."},
-        {"q": "Are dogs allowed on Narbonne-Plage in summer?", "a": "Leashed dogs are welcome at the northern and southern ends year-round; the central lifeguarded zone (June 15-September 15) restricts pets. Off-leash is tolerated October-May."},
-        {"q": "Can I take the bus to the dog beach?", "a": "Yes, the Liō line 1 connects Narbonne centre to Saint-Pierre-la-Mer (30 min, EUR 1 one-way), the closest stop to the year-round off-leash plage canine."}
+        {
+          "q": "Where is the best dog beach near Narbonne?",
+          "a": "The Saint-Pierre-la-Mer / Fleury-d'Aude (postal 11560) plage canine at the northern Cabanes de Fleury end is the only year-round off-leash Mediterranean dog beach within 20 km of Narbonne, with free parking and Liō line 1 access."
+        },
+        {
+          "q": "Are dogs allowed on Narbonne-Plage in summer?",
+          "a": "Leashed dogs are welcome at the northern and southern ends year-round; the central lifeguarded zone (June 15-September 15) restricts pets. Off-leash is tolerated October-May."
+        },
+        {
+          "q": "Can I take the bus to the dog beach?",
+          "a": "Yes, the Liō line 1 connects Narbonne centre to Saint-Pierre-la-Mer (30 min, EUR 1 one-way), the closest stop to the year-round off-leash plage canine."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est la meilleure plage canine près de Narbonne ?", "a": "La plage canine sans laisse de Saint-Pierre-la-Mer / Fleury-d'Aude (code postal 11560) à l'extrémité nord vers les Cabanes de Fleury est la seule plage canine méditerranéenne sans laisse toute l'année à moins de 20 km de Narbonne, avec parking gratuit et accès en Liō ligne 1."},
-        {"q": "Les chiens sont-ils autorisés sur Narbonne-Plage en été ?", "a": "Les chiens en laisse sont bienvenus aux extrémités nord et sud toute l'année ; la zone surveillée centrale (15 juin-15 septembre) restreint les animaux. Le lâcher est toléré d'octobre à mai."},
-        {"q": "Puis-je prendre le bus pour la plage canine ?", "a": "Oui, la ligne Liō 1 relie le centre de Narbonne à Saint-Pierre-la-Mer (30 min, 1 € l'aller), l'arrêt le plus proche de la plage canine sans laisse toute l'année."}
+        {
+          "q": "Où est la meilleure plage canine près de Narbonne ?",
+          "a": "La plage canine sans laisse de Saint-Pierre-la-Mer / Fleury-d'Aude (code postal 11560) à l'extrémité nord vers les Cabanes de Fleury est la seule plage canine méditerranéenne sans laisse toute l'année à moins de 20 km de Narbonne, avec parking gratuit et accès en Liō ligne 1."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés sur Narbonne-Plage en été ?",
+          "a": "Les chiens en laisse sont bienvenus aux extrémités nord et sud toute l'année ; la zone surveillée centrale (15 juin-15 septembre) restreint les animaux. Le lâcher est toléré d'octobre à mai."
+        },
+        {
+          "q": "Puis-je prendre le bus pour la plage canine ?",
+          "a": "Oui, la ligne Liō 1 relie le centre de Narbonne à Saint-Pierre-la-Mer (30 min, 1 € l'aller), l'arrêt le plus proche de la plage canine sans laisse toute l'année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está la mejor playa canina cerca de Narbonne?", "a": "La playa canina sin correa de Saint-Pierre-la-Mer / Fleury-d'Aude (código postal 11560) en el extremo norte hacia las Cabanes de Fleury es la única playa canina mediterránea sin correa todo el año a menos de 20 km de Narbonne, con aparcamiento gratis y acceso en Liō línea 1."},
-        {"q": "¿Se admiten perros en Narbonne-Plage en verano?", "a": "Los perros con correa son bienvenidos en los extremos norte y sur todo el año; la zona vigilada central (15 junio-15 septiembre) restringe a las mascotas. El suelta es tolerado de octubre a mayo."},
-        {"q": "¿Puedo coger el bus a la playa canina?", "a": "Sí, la línea Liō 1 conecta el centro de Narbonne con Saint-Pierre-la-Mer (30 min, 1 € ida), la parada más cercana a la playa canina sin correa todo el año."}
+        {
+          "q": "¿Dónde está la mejor playa canina cerca de Narbonne?",
+          "a": "La playa canina sin correa de Saint-Pierre-la-Mer / Fleury-d'Aude (código postal 11560) en el extremo norte hacia las Cabanes de Fleury es la única playa canina mediterránea sin correa todo el año a menos de 20 km de Narbonne, con aparcamiento gratis y acceso en Liō línea 1."
+        },
+        {
+          "q": "¿Se admiten perros en Narbonne-Plage en verano?",
+          "a": "Los perros con correa son bienvenidos en los extremos norte y sur todo el año; la zona vigilada central (15 junio-15 septiembre) restringe a las mascotas. El suelta es tolerado de octubre a mayo."
+        },
+        {
+          "q": "¿Puedo coger el bus a la playa canina?",
+          "a": "Sí, la línea Liō 1 conecta el centro de Narbonne con Saint-Pierre-la-Mer (30 min, 1 € ida), la parada más cercana a la playa canina sin correa todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica a melhor praia canina perto de Narbonne?", "a": "A praia canina sem trela de Saint-Pierre-la-Mer / Fleury-d'Aude (código postal 11560) no extremo norte para as Cabanes de Fleury é a única praia canina mediterrânica sem trela o ano inteiro a menos de 20 km de Narbonne, com estacionamento grátis e acesso na Liō linha 1."},
-        {"q": "Os cães são admitidos em Narbonne-Plage no verão?", "a": "Os cães com trela são bem-vindos nos extremos norte e sul o ano inteiro; a zona vigiada central (15 junho-15 setembro) restringe os animais. Sem trela é tolerado de outubro a maio."},
-        {"q": "Posso apanhar o autocarro para a praia canina?", "a": "Sim, a linha Liō 1 liga o centro de Narbonne a Saint-Pierre-la-Mer (30 min, 1 € ida), a paragem mais próxima da praia canina sem trela o ano inteiro."}
+        {
+          "q": "Onde fica a melhor praia canina perto de Narbonne?",
+          "a": "A praia canina sem trela de Saint-Pierre-la-Mer / Fleury-d'Aude (código postal 11560) no extremo norte para as Cabanes de Fleury é a única praia canina mediterrânica sem trela o ano inteiro a menos de 20 km de Narbonne, com estacionamento grátis e acesso na Liō linha 1."
+        },
+        {
+          "q": "Os cães são admitidos em Narbonne-Plage no verão?",
+          "a": "Os cães com trela são bem-vindos nos extremos norte e sul o ano inteiro; a zona vigiada central (15 junho-15 setembro) restringe os animais. Sem trela é tolerado de outubro a maio."
+        },
+        {
+          "q": "Posso apanhar o autocarro para a praia canina?",
+          "a": "Sim, a linha Liō 1 liga o centro de Narbonne a Saint-Pierre-la-Mer (30 min, 1 € ida), a paragem mais próxima da praia canina sem trela o ano inteiro."
+        }
       ]
     },
     "vets": {
@@ -470,7 +614,7 @@
           "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; linha de urgência nocturna rotativa",
           "englishSpeaking": true,
           "website": "https://www.cliniqueveterinairedelarobine.fr/",
-          "photo": "/images/city-places/narbonne-vets-robine.jpg",
+          "photo": "/images/city-places/narbonne-vets-clinique-veterinaire-de-la-robine.jpg",
           "description": "A central Narbonne general practice on Avenue Pompidor 5 minutes from the cathedral, with imaging, dentistry and minor surgery. Participates in the rotating night line for the Narbonne agglomeration; phone the main number after hours to be redirected to the duty clinic of the week.",
           "descriptionFr": "Cabinet généraliste central de Narbonne sur l'Avenue Pompidor à 5 minutes de la cathédrale, avec imagerie, dentisterie et petite chirurgie. Participe à la garde tournante de nuit pour l'agglomération narbonnaise ; appelez le numéro principal hors heures pour être redirigé vers la clinique de garde de la semaine.",
           "descriptionEs": "Consulta generalista céntrica de Narbonne en la Avenue Pompidor a 5 minutos de la catedral, con imagen, odontología y cirugía menor. Participa en la guardia rotativa nocturna para la aglomeración de Narbonne; llama al número principal fuera de horario para ser redirigido a la clínica de guardia de la semana.",
@@ -483,7 +627,10 @@
           "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie, dentisterie, garde",
           "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor, odontología, guardia",
           "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia, dentária, urgência",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00",
           "tip": "Save the main number (+33 4 68 32 23 84) before any La Clape hike; the rotating night line directs you to the duty clinic, useful if mobile coverage drops in the garrigue.",
           "tipFr": "Enregistrez le numéro principal (+33 4 68 32 23 84) avant toute rando dans la Clape ; la ligne tournante de nuit vous redirige vers la clinique de garde, utile si la couverture mobile chute dans la garrigue.",
@@ -503,7 +650,7 @@
           "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; fechado dom",
           "englishSpeaking": true,
           "website": "https://www.cliniquesaintpaulnarbonne.fr/",
-          "photo": "/images/city-places/narbonne-vets-saint-paul.jpg",
+          "photo": "/images/city-places/narbonne-vets-clinique-veterinaire-saint-paul.jpg",
           "description": "A central general practice in the Saint-Paul quarter, 2 minutes from the Place de l'Hôtel de Ville, ideal for vaccination top-ups, EU passport stamps and minor non-emergency consultations. Refers to CHV Languedocia for advanced cases.",
           "descriptionFr": "Cabinet généraliste central dans le quartier Saint-Paul, à 2 minutes de la Place de l'Hôtel de Ville, idéal pour rappels de vaccin, tampons sur passeport européen et consultations mineures non urgentes. Renvoie sur le CHV Languedocia pour les cas avancés.",
           "descriptionEs": "Consulta generalista céntrica en el barrio Saint-Paul, a 2 minutos de la Place de l'Hôtel de Ville, ideal para refuerzos de vacuna, sellos de pasaporte europeo y consultas menores no urgentes. Deriva al CHV Languedocia para casos avanzados.",
@@ -516,7 +663,10 @@
           "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie",
           "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor",
           "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00",
           "tip": "Book the first morning slot for same-day EU passport sign-off before a Ryanair flight from BZR; afternoons fill with local consultations.",
           "tipFr": "Réservez le premier créneau du matin pour une validation passeport européen le jour même avant un vol Ryanair depuis BZR ; les après-midis se remplissent de consultations locales.",
@@ -536,7 +686,7 @@
           "hoursPt": "Urgências e especialidades 24/7",
           "englishSpeaking": true,
           "website": "https://www.chv-languedocia.fr/",
-          "photo": "/images/city-places/narbonne-vets-chv-languedocia.jpg",
+          "photo": "/images/city-places/narbonne-vets-chv-languedocia-montpellier.jpg",
           "description": "The reference 24/7 specialty veterinary hospital for the Languedoc coast, with cardiology, oncology, neurology, intensive care and complex surgery; 55 minutes from Narbonne via the A9 motorway, the regional escalation centre Narbonne clinics refer to.",
           "descriptionFr": "L'hôpital vétérinaire de référence 24h/24 pour la côte languedocienne, avec cardiologie, oncologie, neurologie, soins intensifs et chirurgie complexe ; à 55 minutes de Narbonne par l'A9, le centre d'escalade régional vers lequel les cliniques narbonnaises adressent.",
           "descriptionEs": "El hospital veterinario de referencia 24/7 para la costa languedociana, con cardiología, oncología, neurología, cuidados intensivos y cirugía compleja; a 55 minutos de Narbonne vía la A9, el centro de escalada regional al que derivan las clínicas de Narbonne.",
@@ -549,7 +699,10 @@
           "servicesFr": "Urgences, soins intensifs, cardiologie, oncologie, neurologie, chirurgie complexe, imagerie",
           "servicesEs": "Urgencias, UCI, cardiología, oncología, neurología, cirugía compleja, imagen",
           "servicesPt": "Urgências, UCI, cardiologia, oncologia, neurologia, cirurgia complexa, imagem",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "24/7",
           "tip": "Drive yourself on the A9 rather than wait for a pet-taxi at night; the 55-minute transfer to Languedocia is faster than any rural rotating-line ETA after midnight.",
           "tipFr": "Conduisez-vous sur l'A9 plutôt que d'attendre un pet-taxi la nuit ; le transfert de 55 minutes vers Languedocia est plus rapide que n'importe quelle estimation de la ligne tournante rurale après minuit.",
@@ -579,24 +732,60 @@
         "Leve fisicamente o seu passaporte europeu para animais a toda a visita veterinária; as clínicas precisam de ver o carimbo antirrábico antes de qualquer prescrição."
       ],
       "faqsEn": [
-        {"q": "Where is the closest 24h vet to Narbonne?", "a": "The CHV Languedocia in Montpellier (+33 4 67 41 39 39, 55 min via the A9 motorway) is the closest true 24/7 referral hospital; local after-hours is handled via the Narbonne rotating night line at the Clinique de la Robine."},
-        {"q": "Do Narbonne vets speak English?", "a": "Yes at the Clinique de la Robine and the Clinique Saint-Paul; senior vets are fluent thanks to the regional UK and Northern European retiree clientele on the Languedoc coast."},
-        {"q": "Can I get an EU pet passport stamp before flying out of Béziers or Carcassonne?", "a": "Yes, both listed Narbonne clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs."}
+        {
+          "q": "Where is the closest 24h vet to Narbonne?",
+          "a": "The CHV Languedocia in Montpellier (+33 4 67 41 39 39, 55 min via the A9 motorway) is the closest true 24/7 referral hospital; local after-hours is handled via the Narbonne rotating night line at the Clinique de la Robine."
+        },
+        {
+          "q": "Do Narbonne vets speak English?",
+          "a": "Yes at the Clinique de la Robine and the Clinique Saint-Paul; senior vets are fluent thanks to the regional UK and Northern European retiree clientele on the Languedoc coast."
+        },
+        {
+          "q": "Can I get an EU pet passport stamp before flying out of Béziers or Carcassonne?",
+          "a": "Yes, both listed Narbonne clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est le vétérinaire 24h le plus proche de Narbonne ?", "a": "Le CHV Languedocia à Montpellier (+33 4 67 41 39 39, 55 min par l'A9) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne tournante de nuit narbonnaise à la Clinique de la Robine."},
-        {"q": "Les vétérinaires de Narbonne parlent-ils anglais ?", "a": "Oui à la Clinique de la Robine et à la Clinique Saint-Paul ; les vétérinaires seniors le parlent couramment grâce à la clientèle régionale britannique et nord-européenne retraitée sur la côte languedocienne."},
-        {"q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Béziers ou Carcassonne ?", "a": "Oui, les deux cliniques de Narbonne listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles pour chiens en bonne santé."}
+        {
+          "q": "Où est le vétérinaire 24h le plus proche de Narbonne ?",
+          "a": "Le CHV Languedocia à Montpellier (+33 4 67 41 39 39, 55 min par l'A9) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne tournante de nuit narbonnaise à la Clinique de la Robine."
+        },
+        {
+          "q": "Les vétérinaires de Narbonne parlent-ils anglais ?",
+          "a": "Oui à la Clinique de la Robine et à la Clinique Saint-Paul ; les vétérinaires seniors le parlent couramment grâce à la clientèle régionale britannique et nord-européenne retraitée sur la côte languedocienne."
+        },
+        {
+          "q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Béziers ou Carcassonne ?",
+          "a": "Oui, les deux cliniques de Narbonne listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles pour chiens en bonne santé."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el veterinario 24h más cercano de Narbonne?", "a": "El CHV Languedocia en Montpellier (+33 4 67 41 39 39, 55 min vía la A9) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea rotativa nocturna de Narbonne en la Clinique de la Robine."},
-        {"q": "¿Los veterinarios de Narbonne hablan inglés?", "a": "Sí en la Clinique de la Robine y en la Clinique Saint-Paul; los veterinarios senior son fluidos gracias a la clientela regional británica y nordeuropea jubilada en la costa languedociana."},
-        {"q": "¿Puedo sellar un pasaporte UE antes de volar desde Béziers o Carcasona?", "a": "Sí, las dos clínicas de Narbonne listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles para perros sanos."}
+        {
+          "q": "¿Dónde está el veterinario 24h más cercano de Narbonne?",
+          "a": "El CHV Languedocia en Montpellier (+33 4 67 41 39 39, 55 min vía la A9) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea rotativa nocturna de Narbonne en la Clinique de la Robine."
+        },
+        {
+          "q": "¿Los veterinarios de Narbonne hablan inglés?",
+          "a": "Sí en la Clinique de la Robine y en la Clinique Saint-Paul; los veterinarios senior son fluidos gracias a la clientela regional británica y nordeuropea jubilada en la costa languedociana."
+        },
+        {
+          "q": "¿Puedo sellar un pasaporte UE antes de volar desde Béziers o Carcasona?",
+          "a": "Sí, las dos clínicas de Narbonne listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles para perros sanos."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o veterinário 24h mais próximo de Narbonne?", "a": "O CHV Languedocia em Montpellier (+33 4 67 41 39 39, 55 min pela A9) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha rotativa nocturna de Narbonne na Clinique de la Robine."},
-        {"q": "Os veterinários de Narbonne falam inglês?", "a": "Sim na Clinique de la Robine e na Clinique Saint-Paul; os veterinários seniores são fluentes graças à clientela regional britânica e norte-europeia reformada na costa languedociana."},
-        {"q": "Posso carimbar um passaporte UE antes de voar de Béziers ou Carcassonne?", "a": "Sim, as duas clínicas de Narbonne listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."}
+        {
+          "q": "Onde fica o veterinário 24h mais próximo de Narbonne?",
+          "a": "O CHV Languedocia em Montpellier (+33 4 67 41 39 39, 55 min pela A9) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha rotativa nocturna de Narbonne na Clinique de la Robine."
+        },
+        {
+          "q": "Os veterinários de Narbonne falam inglês?",
+          "a": "Sim na Clinique de la Robine e na Clinique Saint-Paul; os veterinários seniores são fluentes graças à clientela regional britânica e norte-europeia reformada na costa languedociana."
+        },
+        {
+          "q": "Posso carimbar um passaporte UE antes de voar de Béziers ou Carcassonne?",
+          "a": "Sim, as duas clínicas de Narbonne listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."
+        }
       ]
     },
     "tips": {
@@ -638,24 +827,60 @@
         "A praia canina de Saint-Pierre-la-Mer / Fleury-d'Aude (código postal 11560) é a referência canina regional, uma rara praia mediterrânica sem trela o ano inteiro acessível em autocarro Liō linha 1."
       ],
       "faqsEn": [
-        {"q": "Is Narbonne a good base for a pet-friendly Languedoc holiday?", "a": "Yes, the combination of the year-round off-leash Saint-Pierre-la-Mer plage canine 15 minutes from town, La Clape garrigue trails on the doorstep, an easy TGV to Paris and Barcelona, and a working tasca culture makes it one of the stronger pet bases on the French Mediterranean for value."},
-        {"q": "Do I need a muzzle in public in Narbonne?", "a": "Only for category 1 and 2 restricted breeds; standard breeds need only a leash. The Citibus and Liō buses accept muzzled large dogs and free small dogs in carriers."},
-        {"q": "What is the best month for Narbonne with a dog?", "a": "May-June and September-October: mild temperatures, lower humidity, lighter crowds, full Clape access and the off-leash plage canine open year-round."}
+        {
+          "q": "Is Narbonne a good base for a pet-friendly Languedoc holiday?",
+          "a": "Yes, the combination of the year-round off-leash Saint-Pierre-la-Mer plage canine 15 minutes from town, La Clape garrigue trails on the doorstep, an easy TGV to Paris and Barcelona, and a working tasca culture makes it one of the stronger pet bases on the French Mediterranean for value."
+        },
+        {
+          "q": "Do I need a muzzle in public in Narbonne?",
+          "a": "Only for category 1 and 2 restricted breeds; standard breeds need only a leash. The Citibus and Liō buses accept muzzled large dogs and free small dogs in carriers."
+        },
+        {
+          "q": "What is the best month for Narbonne with a dog?",
+          "a": "May-June and September-October: mild temperatures, lower humidity, lighter crowds, full Clape access and the off-leash plage canine open year-round."
+        }
       ],
       "faqsFr": [
-        {"q": "Narbonne est-elle une bonne base pour des vacances pet-friendly dans le Languedoc ?", "a": "Oui, la combinaison de la plage canine sans laisse toute l'année de Saint-Pierre-la-Mer à 15 minutes de la ville, des sentiers de garrigue de la Clape sur le pas de la porte, d'un TGV facile vers Paris et Barcelone, et d'une culture tasca de travail en fait l'une des meilleures bases canines de la Méditerranée française en rapport qualité-prix."},
-        {"q": "Ai-je besoin d'une muselière en public à Narbonne ?", "a": "Seulement pour les races de catégorie 1 et 2 ; les races standard n'ont besoin que d'une laisse. Les bus Citibus et Liō acceptent les grands chiens muselés et gratuitement les petits en cage."},
-        {"q": "Quel est le meilleur mois à Narbonne avec un chien ?", "a": "Mai-juin et septembre-octobre : températures douces, humidité plus basse, moins de monde, accès complet à la Clape et la plage canine sans laisse ouverte toute l'année."}
+        {
+          "q": "Narbonne est-elle une bonne base pour des vacances pet-friendly dans le Languedoc ?",
+          "a": "Oui, la combinaison de la plage canine sans laisse toute l'année de Saint-Pierre-la-Mer à 15 minutes de la ville, des sentiers de garrigue de la Clape sur le pas de la porte, d'un TGV facile vers Paris et Barcelone, et d'une culture tasca de travail en fait l'une des meilleures bases canines de la Méditerranée française en rapport qualité-prix."
+        },
+        {
+          "q": "Ai-je besoin d'une muselière en public à Narbonne ?",
+          "a": "Seulement pour les races de catégorie 1 et 2 ; les races standard n'ont besoin que d'une laisse. Les bus Citibus et Liō acceptent les grands chiens muselés et gratuitement les petits en cage."
+        },
+        {
+          "q": "Quel est le meilleur mois à Narbonne avec un chien ?",
+          "a": "Mai-juin et septembre-octobre : températures douces, humidité plus basse, moins de monde, accès complet à la Clape et la plage canine sans laisse ouverte toute l'année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Narbonne una buena base para unas vacaciones pet-friendly en Languedoc?", "a": "Sí, la combinación de la playa canina sin correa todo el año de Saint-Pierre-la-Mer a 15 minutos del centro, senderos de garriga de La Clape al lado de casa, TGV fácil a París y Barcelona, y una cultura de tasca de trabajo la convierte en una de las mejores bases caninas del Mediterráneo francés en relación calidad-precio."},
-        {"q": "¿Necesito bozal en público en Narbonne?", "a": "Solo para razas de categoría 1 y 2; las razas estándar solo necesitan correa. Los buses Citibus y Liō admiten perros grandes con bozal y gratis a los pequeños en transportín."},
-        {"q": "¿Cuál es el mejor mes para Narbonne con perro?", "a": "Mayo-junio y septiembre-octubre: temperaturas suaves, menor humedad, menos gente, acceso completo a La Clape y la playa canina sin correa abierta todo el año."}
+        {
+          "q": "¿Es Narbonne una buena base para unas vacaciones pet-friendly en Languedoc?",
+          "a": "Sí, la combinación de la playa canina sin correa todo el año de Saint-Pierre-la-Mer a 15 minutos del centro, senderos de garriga de La Clape al lado de casa, TGV fácil a París y Barcelona, y una cultura de tasca de trabajo la convierte en una de las mejores bases caninas del Mediterráneo francés en relación calidad-precio."
+        },
+        {
+          "q": "¿Necesito bozal en público en Narbonne?",
+          "a": "Solo para razas de categoría 1 y 2; las razas estándar solo necesitan correa. Los buses Citibus y Liō admiten perros grandes con bozal y gratis a los pequeños en transportín."
+        },
+        {
+          "q": "¿Cuál es el mejor mes para Narbonne con perro?",
+          "a": "Mayo-junio y septiembre-octubre: temperaturas suaves, menor humedad, menos gente, acceso completo a La Clape y la playa canina sin correa abierta todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Narbonne é uma boa base para férias pet-friendly em Languedoc?", "a": "Sim, a combinação da praia canina sem trela o ano inteiro de Saint-Pierre-la-Mer a 15 minutos do centro, trilhos de garrigue da Clape à porta de casa, TGV fácil para Paris e Barcelona, e uma cultura de tasca de trabalho faz dela uma das melhores bases caninas do Mediterrâneo francês em relação qualidade-preço."},
-        {"q": "Preciso de açaime em público em Narbonne?", "a": "Só para raças de categoria 1 e 2; as raças standard só precisam de trela. Os autocarros Citibus e Liō aceitam cães grandes com açaime e grátis os pequenos em transportadora."},
-        {"q": "Qual é o melhor mês para Narbonne com cão?", "a": "Maio-junho e setembro-outubro: temperaturas suaves, menor humidade, menos gente, acesso completo à Clape e a praia canina sem trela aberta o ano inteiro."}
+        {
+          "q": "Narbonne é uma boa base para férias pet-friendly em Languedoc?",
+          "a": "Sim, a combinação da praia canina sem trela o ano inteiro de Saint-Pierre-la-Mer a 15 minutos do centro, trilhos de garrigue da Clape à porta de casa, TGV fácil para Paris e Barcelona, e uma cultura de tasca de trabalho faz dela uma das melhores bases caninas do Mediterrâneo francês em relação qualidade-preço."
+        },
+        {
+          "q": "Preciso de açaime em público em Narbonne?",
+          "a": "Só para raças de categoria 1 e 2; as raças standard só precisam de trela. Os autocarros Citibus e Liō aceitam cães grandes com açaime e grátis os pequenos em transportadora."
+        },
+        {
+          "q": "Qual é o melhor mês para Narbonne com cão?",
+          "a": "Maio-junho e setembro-outubro: temperaturas suaves, menor humidade, menos gente, acesso completo à Clape e a praia canina sem trela aberta o ano inteiro."
+        }
       ]
     },
     "attractions": {
@@ -671,7 +896,7 @@
         {
           "name": "Via Domitia and Place de l'Hôtel de Ville",
           "neighborhood": "Centre historique",
-          "photo": "/images/city-places/narbonne-attractions-via-domitia.jpg",
+          "photo": "/images/city-places/narbonne-attractions-via-domitia-and-place-de-l-hotel-de-ville.jpg",
           "website": "https://www.narbonne.fr/",
           "description": "An exposed section of the original 1st-century Via Domitia, the Roman road connecting Italy to Spain via Narbonne (Narbo Martius, the first Roman colony in Gaul), is visible in a sunken plaza in front of the Hôtel de Ville. Dog-friendly year-round; the surrounding pedestrian square is the heart of Narbonne's old town.",
           "descriptionFr": "Une section exposée de la Via Domitia originale du Ier siècle, la voie romaine reliant l'Italie à l'Espagne via Narbonne (Narbo Martius, première colonie romaine de Gaule), est visible dans une fosse devant l'Hôtel de Ville. Dog-friendly toute l'année ; la place piétonne environnante est le cœur de la vieille ville de Narbonne.",
@@ -694,7 +919,7 @@
         {
           "name": "Cathédrale Saint-Just-et-Saint-Pasteur",
           "neighborhood": "Centre historique",
-          "photo": "/images/city-places/narbonne-attractions-cathedrale-saint-just.jpg",
+          "photo": "/images/city-places/narbonne-attractions-cathedrale-saint-just-et-saint-pasteur.jpg",
           "website": "https://www.narbonne-tourisme.com/",
           "description": "The unfinished Gothic cathedral of Narbonne (begun 1272, never completed for political reasons) features one of the tallest choirs in France (41 m) and a fortified Cloître du Palais des Archevêques. The cloister and surrounding square are dog-friendly year-round; the choir interior admits only assistance dogs.",
           "descriptionFr": "La cathédrale gothique inachevée de Narbonne (commencée en 1272, jamais terminée pour des raisons politiques) présente l'un des chœurs les plus hauts de France (41 m) et un Cloître du Palais des Archevêques fortifié. Le cloître et la place environnante sont dog-friendly toute l'année ; l'intérieur du chœur n'admet que les chiens d'assistance.",
@@ -717,7 +942,7 @@
         {
           "name": "Les Halles de Narbonne and Pont des Marchands",
           "neighborhood": "Cours Mirabeau",
-          "photo": "/images/city-places/narbonne-attractions-les-halles.jpg",
+          "photo": "/images/city-places/narbonne-attractions-les-halles-de-narbonne-and-pont-des-marchands.jpg",
           "website": "https://www.narbonne-tourisme.com/",
           "description": "Les Halles de Narbonne (1901) is a Baltard-style covered market open daily 07:00-14:00 with 70+ stalls of regional produce, oysters, charcuterie and tapas counters. The adjacent Pont des Marchands is one of the last inhabited bridges in France, with shops built directly onto the medieval span over the Canal de la Robine. Both dog-friendly year-round in the central aisles.",
           "descriptionFr": "Les Halles de Narbonne (1901) sont un marché couvert de style Baltard ouvert tous les jours 7h-14h avec 70+ étals de produits régionaux, huîtres, charcuterie et comptoirs à tapas. Le Pont des Marchands voisin est l'un des derniers ponts habités de France, avec des boutiques construites directement sur la travée médiévale au-dessus du Canal de la Robine. Les deux sont dog-friendly toute l'année dans les allées centrales.",
@@ -759,24 +984,60 @@
         "Combine a catedral e o Massif de la Clape numa meia-jornada fácil; a colina da catedral e o cume do Pech Redon (214 m) olham ambos para o Mediterrâneo a duas altitudes."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Narbonne museums?", "a": "Only assistance dogs may enter the museum interiors (Musée Narbo Via, Musée d'Art et d'Histoire, Horreum); leashed pets are welcome across the squares, cloister, canal banks and outdoor heritage sites."},
-        {"q": "Can I take my dog into Les Halles covered market?", "a": "Yes, leashed dogs are welcome in the central aisle of Les Halles and on the Pont des Marchands year-round; the plancha counters at Chez Bebelle and Chez Bonnieu serve standing customers with dogs at their feet."},
-        {"q": "Is the Narbonne centre walkable with a dog?", "a": "Yes, the historic centre and the Cours Mirabeau canalside are largely pedestrianised and a leashed dog handles the full loop (Via Domitia, Cathédrale, Pont des Marchands, Les Halles) in about 90 minutes."}
+        {
+          "q": "Are dogs allowed in the Narbonne museums?",
+          "a": "Only assistance dogs may enter the museum interiors (Musée Narbo Via, Musée d'Art et d'Histoire, Horreum); leashed pets are welcome across the squares, cloister, canal banks and outdoor heritage sites."
+        },
+        {
+          "q": "Can I take my dog into Les Halles covered market?",
+          "a": "Yes, leashed dogs are welcome in the central aisle of Les Halles and on the Pont des Marchands year-round; the plancha counters at Chez Bebelle and Chez Bonnieu serve standing customers with dogs at their feet."
+        },
+        {
+          "q": "Is the Narbonne centre walkable with a dog?",
+          "a": "Yes, the historic centre and the Cours Mirabeau canalside are largely pedestrianised and a leashed dog handles the full loop (Via Domitia, Cathédrale, Pont des Marchands, Les Halles) in about 90 minutes."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans les musées de Narbonne ?", "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des musées (Musée Narbo Via, Musée d'Art et d'Histoire, Horreum) ; les chiens en laisse sont bienvenus sur les places, le cloître, les berges du canal et les sites patrimoniaux extérieurs."},
-        {"q": "Puis-je entrer aux Halles couvertes avec mon chien ?", "a": "Oui, les chiens en laisse sont bienvenus dans l'allée centrale des Halles et sur le Pont des Marchands toute l'année ; les comptoirs à la plancha Chez Bebelle et Chez Bonnieu servent les clients debout avec leurs chiens à leurs pieds."},
-        {"q": "Le centre de Narbonne est-il accessible à pied avec un chien ?", "a": "Oui, le centre historique et le Cours Mirabeau au bord du canal sont en grande partie piétons et un chien en laisse fait la boucle complète (Via Domitia, Cathédrale, Pont des Marchands, Les Halles) en environ 90 minutes."}
+        {
+          "q": "Les chiens sont-ils autorisés dans les musées de Narbonne ?",
+          "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des musées (Musée Narbo Via, Musée d'Art et d'Histoire, Horreum) ; les chiens en laisse sont bienvenus sur les places, le cloître, les berges du canal et les sites patrimoniaux extérieurs."
+        },
+        {
+          "q": "Puis-je entrer aux Halles couvertes avec mon chien ?",
+          "a": "Oui, les chiens en laisse sont bienvenus dans l'allée centrale des Halles et sur le Pont des Marchands toute l'année ; les comptoirs à la plancha Chez Bebelle et Chez Bonnieu servent les clients debout avec leurs chiens à leurs pieds."
+        },
+        {
+          "q": "Le centre de Narbonne est-il accessible à pied avec un chien ?",
+          "a": "Oui, le centre historique et le Cours Mirabeau au bord du canal sont en grande partie piétons et un chien en laisse fait la boucle complète (Via Domitia, Cathédrale, Pont des Marchands, Les Halles) en environ 90 minutes."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en los museos de Narbonne?", "a": "Solo los perros de asistencia pueden entrar en los interiores de los museos (Musée Narbo Via, Musée d'Art et d'Histoire, Horreum); los perros con correa son bienvenidos en las plazas, el claustro, las orillas del canal y los sitios patrimoniales al aire libre."},
-        {"q": "¿Puedo entrar a Les Halles cubiertas con mi perro?", "a": "Sí, los perros con correa son bienvenidos en el pasillo central de Les Halles y en el Pont des Marchands todo el año; las barras a la plancha Chez Bebelle y Chez Bonnieu sirven a los clientes de pie con sus perros a los pies."},
-        {"q": "¿El centro de Narbonne es accesible a pie con un perro?", "a": "Sí, el centro histórico y el Cours Mirabeau junto al canal son en gran parte peatonales y un perro con correa hace el recorrido completo (Vía Domicia, Catedral, Pont des Marchands, Les Halles) en unos 90 minutos."}
+        {
+          "q": "¿Se admiten perros en los museos de Narbonne?",
+          "a": "Solo los perros de asistencia pueden entrar en los interiores de los museos (Musée Narbo Via, Musée d'Art et d'Histoire, Horreum); los perros con correa son bienvenidos en las plazas, el claustro, las orillas del canal y los sitios patrimoniales al aire libre."
+        },
+        {
+          "q": "¿Puedo entrar a Les Halles cubiertas con mi perro?",
+          "a": "Sí, los perros con correa son bienvenidos en el pasillo central de Les Halles y en el Pont des Marchands todo el año; las barras a la plancha Chez Bebelle y Chez Bonnieu sirven a los clientes de pie con sus perros a los pies."
+        },
+        {
+          "q": "¿El centro de Narbonne es accesible a pie con un perro?",
+          "a": "Sí, el centro histórico y el Cours Mirabeau junto al canal son en gran parte peatonales y un perro con correa hace el recorrido completo (Vía Domicia, Catedral, Pont des Marchands, Les Halles) en unos 90 minutos."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos nos museus de Narbonne?", "a": "Só os cães de assistência podem entrar nos interiores dos museus (Musée Narbo Via, Musée d'Art et d'Histoire, Horreum); os cães com trela são bem-vindos nas praças, claustro, margens do canal e sítios patrimoniais ao ar livre."},
-        {"q": "Posso entrar nas Halles cobertas com o meu cão?", "a": "Sim, os cães com trela são bem-vindos no corredor central das Halles e no Pont des Marchands o ano inteiro; os balcões na chapa Chez Bebelle e Chez Bonnieu servem clientes em pé com os seus cães aos pés."},
-        {"q": "O centro de Narbonne é acessível a pé com um cão?", "a": "Sim, o centro histórico e o Cours Mirabeau à beira do canal são em grande parte pedonais e um cão com trela faz o circuito completo (Via Domitia, Catedral, Pont des Marchands, Les Halles) em cerca de 90 minutos."}
+        {
+          "q": "Os cães são admitidos nos museus de Narbonne?",
+          "a": "Só os cães de assistência podem entrar nos interiores dos museus (Musée Narbo Via, Musée d'Art et d'Histoire, Horreum); os cães com trela são bem-vindos nas praças, claustro, margens do canal e sítios patrimoniais ao ar livre."
+        },
+        {
+          "q": "Posso entrar nas Halles cobertas com o meu cão?",
+          "a": "Sim, os cães com trela são bem-vindos no corredor central das Halles e no Pont des Marchands o ano inteiro; os balcões na chapa Chez Bebelle e Chez Bonnieu servem clientes em pé com os seus cães aos pés."
+        },
+        {
+          "q": "O centro de Narbonne é acessível a pé com um cão?",
+          "a": "Sim, o centro histórico e o Cours Mirabeau à beira do canal são em grande parte pedonais e um cão com trela faz o circuito completo (Via Domitia, Catedral, Pont des Marchands, Les Halles) em cerca de 90 minutos."
+        }
       ]
     },
     "petsitting": {
@@ -849,24 +1110,60 @@
         "Reserve com 2-3 semanas de antecedência para qualquer estadia durante a época alta mediterrânica em julho-agosto quando os locais sazonais enchem as pensões rurais."
       ],
       "faqsEn": [
-        {"q": "How much does pet sitting cost in Narbonne?", "a": "Expect EUR 18-28 per night for boarding and EUR 10-16 per 30-minute walk via Pawshake or Animaute; rural boarding kennels in the Clape foothills charge from EUR 22 per day."},
-        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Narbonne hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a Brasserie Co dinner or a sunset trip to Narbonne-Plage."},
-        {"q": "Do I need to bring my dog's food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."}
+        {
+          "q": "How much does pet sitting cost in Narbonne?",
+          "a": "Expect EUR 18-28 per night for boarding and EUR 10-16 per 30-minute walk via Pawshake or Animaute; rural boarding kennels in the Clape foothills charge from EUR 22 per day."
+        },
+        {
+          "q": "Can hotels recommend a sitter for an evening out?",
+          "a": "Yes, larger Narbonne hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a Brasserie Co dinner or a sunset trip to Narbonne-Plage."
+        },
+        {
+          "q": "Do I need to bring my dog's food to a sitter?",
+          "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la garde à Narbonne ?", "a": "Comptez 18-28 € par nuit en pension et 10-16 € par balade de 30 minutes via Pawshake ou Animaute ; les pensions rurales dans les contreforts de la Clape facturent à partir de 22 € par jour."},
-        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Narbonne gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour un dîner Brasserie Co ou une sortie tardive coucher de soleil à Narbonne-Plage."},
-        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."}
+        {
+          "q": "Combien coûte la garde à Narbonne ?",
+          "a": "Comptez 18-28 € par nuit en pension et 10-16 € par balade de 30 minutes via Pawshake ou Animaute ; les pensions rurales dans les contreforts de la Clape facturent à partir de 22 € par jour."
+        },
+        {
+          "q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?",
+          "a": "Oui, les grands hôtels de Narbonne gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour un dîner Brasserie Co ou une sortie tardive coucher de soleil à Narbonne-Plage."
+        },
+        {
+          "q": "Dois-je apporter la nourriture du chien au sitter ?",
+          "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el cuidado de mascotas en Narbonne?", "a": "Cuenta 18-28 € por noche en residencia y 10-16 € por paseo de 30 minutos vía Pawshake o Animaute; las residencias rurales en las estribaciones de La Clape cobran desde 22 € por día."},
-        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Narbonne guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una cena en Brasserie Co o una salida tardía al atardecer en Narbonne-Plage."},
-        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."}
+        {
+          "q": "¿Cuánto cuesta el cuidado de mascotas en Narbonne?",
+          "a": "Cuenta 18-28 € por noche en residencia y 10-16 € por paseo de 30 minutos vía Pawshake o Animaute; las residencias rurales en las estribaciones de La Clape cobran desde 22 € por día."
+        },
+        {
+          "q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?",
+          "a": "Sí, los grandes hoteles de Narbonne guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una cena en Brasserie Co o una salida tardía al atardecer en Narbonne-Plage."
+        },
+        {
+          "q": "¿Tengo que llevar la comida del perro al cuidador?",
+          "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa o cuidado de animais em Narbonne?", "a": "Conte 18-28 € por noite em creche e 10-16 € por passeio de 30 minutos via Pawshake ou Animaute; as creches rurais nos contrafortes da Clape cobram desde 22 € por dia."},
-        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Narbonne guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para um jantar Brasserie Co ou uma saída tardia ao pôr-do-sol em Narbonne-Plage."},
-        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."}
+        {
+          "q": "Quanto custa o cuidado de animais em Narbonne?",
+          "a": "Conte 18-28 € por noite em creche e 10-16 € por passeio de 30 minutos via Pawshake ou Animaute; as creches rurais nos contrafortes da Clape cobram desde 22 € por dia."
+        },
+        {
+          "q": "Os hotéis podem recomendar um sitter para uma saída à noite?",
+          "a": "Sim, os grandes hotéis de Narbonne guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para um jantar Brasserie Co ou uma saída tardia ao pôr-do-sol em Narbonne-Plage."
+        },
+        {
+          "q": "Tenho de levar a comida do cão ao cuidador?",
+          "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."
+        }
       ]
     }
   }

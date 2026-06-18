@@ -19,7 +19,7 @@
           "name": "L'Estouffade",
           "address": "2 Quai de la Citadelle, 59140 Dunkerque",
           "neighborhood": "Citadelle / Bassin du Commerce",
-          "photo": "/images/city-places/dunkerque-restaurants-estouffade.jpg",
+          "photo": "/images/city-places/dunkerque-restaurants-l-estouffade.jpg",
           "website": "https://www.lestouffade.com/",
           "description": "A seafood reference on the Quai de la Citadelle facing the Bassin du Commerce and the Musée Portuaire, run by chef Bruno Vandeville, serving the catch landed at the port de pêche under the Beffroi Saint-Éloi 500 m south. Leashed dogs welcome on the heated covered terrace year-round; the formal indoor dining room admits only assistance dogs.",
           "descriptionFr": "Référence fruits de mer sur le Quai de la Citadelle face au Bassin du Commerce et au Musée Portuaire, tenue par le chef Bruno Vandeville, servant la pêche débarquée au port de pêche sous le Beffroi Saint-Éloi à 500 m au sud. Chiens en laisse bienvenus sur la terrasse couverte chauffée toute l'année ; la salle intérieure formelle n'admet que les chiens d'assistance.",
@@ -71,7 +71,7 @@
           "name": "Brasserie de la Digue",
           "address": "120 Digue de Mer, 59240 Malo-les-Bains",
           "neighborhood": "Malo-les-Bains seafront",
-          "photo": "/images/city-places/dunkerque-restaurants-digue.jpg",
+          "photo": "/images/city-places/dunkerque-restaurants-brasserie-de-la-digue.jpg",
           "website": "https://www.brasseriedeladigue.fr/",
           "description": "A classic Belle Epoque brasserie on the Digue de Mer at Malo-les-Bains facing the 12 km Channel beach and the Mer du Nord, serving traditional bistro fare (steak frites, moules-frites, choucroute de la mer, ficelle picarde) at fair prices. Leashed dogs welcome at every table indoors and on the wide seafront terrace; the chef keeps water bowls behind the bar.",
           "descriptionFr": "Brasserie classique Belle Epoque sur la Digue de Mer à Malo-les-Bains face à la plage de la Manche de 12 km et à la mer du Nord, servant la cuisine bistro traditionnelle (steak frites, moules-frites, choucroute de la mer, ficelle picarde) à prix justes. Chiens en laisse bienvenus à toutes les tables en salle et sur la large terrasse en front de mer ; le chef garde des gamelles d'eau derrière le bar.",
@@ -115,24 +115,60 @@
         "Durante o Carnaval de Dunkerque (fevereiro-março, seis fins-de-semana de bandes des pêcheurs em traje), as brasseries enchem-se às 11:00 de carnavaleiros; reserve uma mesa Place Jean Bart ou Digue de Mer 48h antes, o seu cão verá milhares de cantores vestidos de pescadores a desfilar."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside Dunkerque restaurants?", "a": "Leashed dogs are welcome at virtually every brasserie terrace and inside most informal bistros and Flemish estaminets. Formal upmarket dining rooms (L'Estouffade indoor salon) restrict dogs to the heated terrace; assistance dogs go anywhere."},
-        {"q": "Do Dunkerque restaurants speak English?", "a": "Yes commonly; the city sees heavy UK day-tripper traffic off the DFDS Dover ferry, Belgian weekender traffic from De Panne 15 km east and Channel cruise traffic, and the brasserie scene around Place Jean Bart, the Beffroi Saint-Éloi and the Digue de Mer at Malo-les-Bains is comfortably bilingual."},
-        {"q": "Where can I eat dockside fish with my dog?", "a": "L'Estouffade on the Quai de la Citadelle faces the Bassin du Commerce and the Musée Portuaire; the heated terrace serves the catch landed at the port de pêche under the Beffroi Saint-Éloi 500 m south and your dog watches the historic Duchesse Anne three-masted sail-ship moored opposite."}
+        {
+          "q": "Are dogs allowed inside Dunkerque restaurants?",
+          "a": "Leashed dogs are welcome at virtually every brasserie terrace and inside most informal bistros and Flemish estaminets. Formal upmarket dining rooms (L'Estouffade indoor salon) restrict dogs to the heated terrace; assistance dogs go anywhere."
+        },
+        {
+          "q": "Do Dunkerque restaurants speak English?",
+          "a": "Yes commonly; the city sees heavy UK day-tripper traffic off the DFDS Dover ferry, Belgian weekender traffic from De Panne 15 km east and Channel cruise traffic, and the brasserie scene around Place Jean Bart, the Beffroi Saint-Éloi and the Digue de Mer at Malo-les-Bains is comfortably bilingual."
+        },
+        {
+          "q": "Where can I eat dockside fish with my dog?",
+          "a": "L'Estouffade on the Quai de la Citadelle faces the Bassin du Commerce and the Musée Portuaire; the heated terrace serves the catch landed at the port de pêche under the Beffroi Saint-Éloi 500 m south and your dog watches the historic Duchesse Anne three-masted sail-ship moored opposite."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Dunkerque ?", "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de brasserie et à l'intérieur de la plupart des bistrots et estaminets flamands informels. Les salles formelles haut de gamme (salon intérieur de L'Estouffade) restreignent les chiens à la terrasse chauffée ; les chiens d'assistance vont partout."},
-        {"q": "Les restaurants de Dunkerque parlent-ils anglais ?", "a": "Oui couramment ; la ville reçoit un fort trafic d'excursionnistes britanniques sortis du ferry DFDS Douvres, un trafic de week-endeurs belges venus de La Panne à 15 km à l'est et un trafic de croisières sur la Manche, et la scène brasserie autour de la Place Jean Bart, du Beffroi Saint-Éloi et de la Digue de Mer à Malo-les-Bains est confortablement bilingue."},
-        {"q": "Où manger du poisson direct du quai avec mon chien ?", "a": "L'Estouffade sur le Quai de la Citadelle fait face au Bassin du Commerce et au Musée Portuaire ; la terrasse chauffée sert la pêche débarquée au port de pêche sous le Beffroi Saint-Éloi à 500 m au sud et votre chien observe le trois-mâts historique Duchesse Anne amarré en face."}
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Dunkerque ?",
+          "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses de brasserie et à l'intérieur de la plupart des bistrots et estaminets flamands informels. Les salles formelles haut de gamme (salon intérieur de L'Estouffade) restreignent les chiens à la terrasse chauffée ; les chiens d'assistance vont partout."
+        },
+        {
+          "q": "Les restaurants de Dunkerque parlent-ils anglais ?",
+          "a": "Oui couramment ; la ville reçoit un fort trafic d'excursionnistes britanniques sortis du ferry DFDS Douvres, un trafic de week-endeurs belges venus de La Panne à 15 km à l'est et un trafic de croisières sur la Manche, et la scène brasserie autour de la Place Jean Bart, du Beffroi Saint-Éloi et de la Digue de Mer à Malo-les-Bains est confortablement bilingue."
+        },
+        {
+          "q": "Où manger du poisson direct du quai avec mon chien ?",
+          "a": "L'Estouffade sur le Quai de la Citadelle fait face au Bassin du Commerce et au Musée Portuaire ; la terrasse chauffée sert la pêche débarquée au port de pêche sous le Beffroi Saint-Éloi à 500 m au sud et votre chien observe le trois-mâts historique Duchesse Anne amarré en face."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Dunkerque?", "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas de brasserie y dentro de la mayoría de bistrós y estaminets flamencos informales. Las salas formales de gama alta (salón interior de L'Estouffade) restringen los perros a la terraza climatizada; los perros de asistencia van a cualquier sitio."},
-        {"q": "¿Los restaurantes de Dunkerque hablan inglés?", "a": "Sí habitualmente; la ciudad recibe un fuerte tráfico de excursionistas británicos salidos del ferry DFDS Dover, un tráfico de weekenders belgas venidos de De Panne a 15 km al este y un tráfico de cruceros en el Canal, y la escena brasserie en torno a la Place Jean Bart, al Beffroi Saint-Éloi y a la Digue de Mer en Malo-les-Bains es cómodamente bilingüe."},
-        {"q": "¿Dónde comer pescado directo del muelle con mi perro?", "a": "L'Estouffade en el Quai de la Citadelle está frente al Bassin du Commerce y al Musée Portuaire; la terraza climatizada sirve la pesca desembarcada en el port de pêche bajo el Beffroi Saint-Éloi a 500 m al sur y tu perro observa el velero histórico de tres mástiles Duchesse Anne amarrado enfrente."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Dunkerque?",
+          "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas de brasserie y dentro de la mayoría de bistrós y estaminets flamencos informales. Las salas formales de gama alta (salón interior de L'Estouffade) restringen los perros a la terraza climatizada; los perros de asistencia van a cualquier sitio."
+        },
+        {
+          "q": "¿Los restaurantes de Dunkerque hablan inglés?",
+          "a": "Sí habitualmente; la ciudad recibe un fuerte tráfico de excursionistas británicos salidos del ferry DFDS Dover, un tráfico de weekenders belgas venidos de De Panne a 15 km al este y un tráfico de cruceros en el Canal, y la escena brasserie en torno a la Place Jean Bart, al Beffroi Saint-Éloi y a la Digue de Mer en Malo-les-Bains es cómodamente bilingüe."
+        },
+        {
+          "q": "¿Dónde comer pescado directo del muelle con mi perro?",
+          "a": "L'Estouffade en el Quai de la Citadelle está frente al Bassin du Commerce y al Musée Portuaire; la terraza climatizada sirve la pesca desembarcada en el port de pêche bajo el Beffroi Saint-Éloi a 500 m al sur y tu perro observa el velero histórico de tres mástiles Duchesse Anne amarrado enfrente."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos dentro dos restaurantes de Dunkerque?", "a": "Os cães com trela são bem-vindos em praticamente todas as esplanadas de brasserie e dentro da maioria dos bistrôs e estaminets flamengos informais. As salas formais de gama alta (salão interior do L'Estouffade) restringem os cães à esplanada aquecida; os cães de assistência vão a qualquer lugar."},
-        {"q": "Os restaurantes de Dunkerque falam inglês?", "a": "Sim habitualmente; a cidade recebe um forte tráfego de excursionistas britânicos saídos do ferry DFDS Dover, um tráfego de weekenders belgas vindos de De Panne a 15 km a leste e um tráfego de cruzeiros no Canal, e a cena brasserie em torno da Place Jean Bart, do Beffroi Saint-Éloi e da Digue de Mer em Malo-les-Bains é confortavelmente bilingue."},
-        {"q": "Onde comer peixe directo do cais com o meu cão?", "a": "O L'Estouffade no Quai de la Citadelle está em frente ao Bassin du Commerce e ao Musée Portuaire; a esplanada aquecida serve a pesca desembarcada no port de pêche sob o Beffroi Saint-Éloi a 500 m a sul e o seu cão observa o veleiro histórico de três mastros Duchesse Anne ancorado em frente."}
+        {
+          "q": "Os cães são admitidos dentro dos restaurantes de Dunkerque?",
+          "a": "Os cães com trela são bem-vindos em praticamente todas as esplanadas de brasserie e dentro da maioria dos bistrôs e estaminets flamengos informais. As salas formais de gama alta (salão interior do L'Estouffade) restringem os cães à esplanada aquecida; os cães de assistência vão a qualquer lugar."
+        },
+        {
+          "q": "Os restaurantes de Dunkerque falam inglês?",
+          "a": "Sim habitualmente; a cidade recebe um forte tráfego de excursionistas britânicos saídos do ferry DFDS Dover, um tráfego de weekenders belgas vindos de De Panne a 15 km a leste e um tráfego de cruzeiros no Canal, e a cena brasserie em torno da Place Jean Bart, do Beffroi Saint-Éloi e da Digue de Mer em Malo-les-Bains é confortavelmente bilingue."
+        },
+        {
+          "q": "Onde comer peixe directo do cais com o meu cão?",
+          "a": "O L'Estouffade no Quai de la Citadelle está em frente ao Bassin du Commerce e ao Musée Portuaire; a esplanada aquecida serve a pesca desembarcada no port de pêche sob o Beffroi Saint-Éloi a 500 m a sul e o seu cão observa o veleiro histórico de três mastros Duchesse Anne ancorado em frente."
+        }
       ]
     },
     "parks": {
@@ -149,7 +185,7 @@
           "name": "Réserve Naturelle Dune Marchand",
           "address": "Avenue Pasteur, 59123 Zuydcoote",
           "neighborhood": "Zuydcoote / Bray-Dunes (8 km east of Dunkerque centre)",
-          "photo": "/images/city-places/dunkerque-parks-dune-marchand.jpg",
+          "photo": "/images/city-places/dunkerque-parks-reserve-naturelle-dune-marchand.jpg",
           "website": "https://www.eden62.fr/",
           "description": "A 220-hectare protected dune reserve between Zuydcoote and Bray-Dunes managed by Eden 62, the Pas-de-Calais conservatoire, with 8 km of marked sandy trails through grey dunes, dune slacks (pannes) and salt-tolerant grasslands. Home to natterjack toads, marsh helleborine orchids and one of the largest European populations of liparis loeselii (Loesel's twayblade). Leashed dogs welcome year-round on all trails; seasonal off-leash zones permitted outside the April-July ground-nesting bird season.",
           "descriptionFr": "Réserve dunaire protégée de 220 hectares entre Zuydcoote et Bray-Dunes gérée par Eden 62, le conservatoire du Pas-de-Calais, avec 8 km de sentiers sableux balisés à travers les dunes grises, les pannes humides et les prairies tolérantes au sel. Abrite le crapaud calamite, l'épipactis des marais et l'une des plus grandes populations européennes de liparis de Loesel. Chiens en laisse bienvenus toute l'année sur tous les sentiers ; zones sans laisse saisonnières autorisées hors saison de nidification au sol avril-juillet.",
@@ -175,7 +211,7 @@
           "name": "Dune du Perroquet (Bray-Dunes / Belgian border)",
           "address": "Avenue du Perroquet, 59123 Bray-Dunes",
           "neighborhood": "Bray-Dunes / De Panne BE border (12 km east of Dunkerque)",
-          "photo": "/images/city-places/dunkerque-parks-dune-perroquet.jpg",
+          "photo": "/images/city-places/dunkerque-parks-dune-du-perroquet-bray-dunes-belgian-border.jpg",
           "website": "https://www.bray-dunes.fr/",
           "description": "A 200-hectare dune massif at the Franco-Belgian border between Bray-Dunes village and the De Panne casino, the easternmost French dune system, with a 30 m culminating ridge offering panoramic views of the Channel, the De Panne villa coast and the Westhoek nature reserve in Belgium. Leashed dogs welcome year-round on the 6 km of marked trails; seasonal off-leash zones outside the April-July nesting season.",
           "descriptionFr": "Massif dunaire de 200 hectares à la frontière franco-belge entre le village de Bray-Dunes et le casino de La Panne, le système dunaire le plus oriental de France, avec une crête culminante à 30 m offrant des vues panoramiques sur la Manche, la côte aux villas de La Panne et la réserve naturelle du Westhoek en Belgique. Chiens en laisse bienvenus toute l'année sur les 6 km de sentiers balisés ; zones sans laisse saisonnières hors saison de nidification avril-juillet.",
@@ -201,7 +237,7 @@
           "name": "Parc Coquelle",
           "address": "Boulevard de la République, 59140 Dunkerque",
           "neighborhood": "Centre / Rosendaël border",
-          "photo": "/images/city-places/dunkerque-parks-coquelle.jpg",
+          "photo": "/images/city-places/dunkerque-parks-parc-coquelle.jpg",
           "website": "https://www.ville-dunkerque.fr/",
           "description": "An 8-hectare formal urban park at the boundary between Dunkerque centre and the Rosendaël neighbourhood, with mature plane and chestnut alleys, a central pond, ornamental rose garden and play areas. Wide flat paved alleys ideal for older dogs and for a quick city-centre walk between brasserie meals or before catching a TER train at Dunkerque station 800 m east. Leashed dogs welcome year-round.",
           "descriptionFr": "Parc urbain formel de 8 hectares à la limite entre le centre de Dunkerque et le quartier de Rosendaël, avec allées de platanes et de marronniers matures, étang central, roseraie ornementale et aires de jeux. Larges allées pavées plates idéales pour les chiens âgés et pour une promenade rapide en centre-ville entre deux repas en brasserie ou avant un TER à la gare de Dunkerque à 800 m à l'est. Chiens en laisse bienvenus toute l'année.",
@@ -245,24 +281,60 @@
         "Os cães belgas de De Panne atravessam para Bray-Dunes diariamente no trilho litoral GR130; a passagem fronteiriça não é vigiada nas dunas e não exige nenhuma formalidade para animais UE com passaporte válido, útil para um passeio binacional de um dia."
       ],
       "faqsEn": [
-        {"q": "Where can I let my dog off-leash near Dunkerque?", "a": "The Réserve Naturelle Dune Marchand (8 km east) and the Dune du Perroquet (12 km east) both permit seasonal off-leash zones outside the April-July ground-nesting bird season; outside the dune reserves, leashed-only applies on city parks and the Digue de Mer."},
-        {"q": "What is the best dune walk near Dunkerque?", "a": "The 6 km Dune Marchand trail between Zuydcoote and Bray-Dunes offers wide marram-grass dunes with views of the Channel; for a longer binational walk, continue 4 km east to the Dune du Perroquet at the Belgian border and cross the GR130 into De Panne."},
-        {"q": "Is there an urban park in Dunkerque centre with a dog?", "a": "The 8-hectare Parc Coquelle on Boulevard de la République is the central formal park, 800 m west of Dunkerque TER station and 1 km south of Place Jean Bart; flat paved alleys ideal for older dogs or a quick leg-stretch between brasserie meals."}
+        {
+          "q": "Where can I let my dog off-leash near Dunkerque?",
+          "a": "The Réserve Naturelle Dune Marchand (8 km east) and the Dune du Perroquet (12 km east) both permit seasonal off-leash zones outside the April-July ground-nesting bird season; outside the dune reserves, leashed-only applies on city parks and the Digue de Mer."
+        },
+        {
+          "q": "What is the best dune walk near Dunkerque?",
+          "a": "The 6 km Dune Marchand trail between Zuydcoote and Bray-Dunes offers wide marram-grass dunes with views of the Channel; for a longer binational walk, continue 4 km east to the Dune du Perroquet at the Belgian border and cross the GR130 into De Panne."
+        },
+        {
+          "q": "Is there an urban park in Dunkerque centre with a dog?",
+          "a": "The 8-hectare Parc Coquelle on Boulevard de la République is the central formal park, 800 m west of Dunkerque TER station and 1 km south of Place Jean Bart; flat paved alleys ideal for older dogs or a quick leg-stretch between brasserie meals."
+        }
       ],
       "faqsFr": [
-        {"q": "Où puis-je lâcher mon chien près de Dunkerque ?", "a": "La Réserve Naturelle Dune Marchand (8 km à l'est) et la Dune du Perroquet (12 km à l'est) autorisent des zones sans laisse saisonnières hors saison de nidification au sol avril-juillet ; hors réserves dunaires, la laisse obligatoire s'applique sur les parcs urbains et la Digue de Mer."},
-        {"q": "Quelle est la meilleure balade dunaire près de Dunkerque ?", "a": "Le sentier de 6 km de la Dune Marchand entre Zuydcoote et Bray-Dunes offre de larges dunes d'oyats avec vues sur la Manche ; pour une balade binationale plus longue, continuez 4 km à l'est jusqu'à la Dune du Perroquet à la frontière belge et traversez le GR130 jusqu'à La Panne."},
-        {"q": "Y a-t-il un parc urbain dans le centre de Dunkerque avec un chien ?", "a": "Le Parc Coquelle de 8 hectares sur le Boulevard de la République est le parc formel central, à 800 m à l'ouest de la gare TER de Dunkerque et à 1 km au sud de la Place Jean Bart ; allées pavées plates idéales pour les chiens âgés ou un dégourdissement rapide entre deux repas en brasserie."}
+        {
+          "q": "Où puis-je lâcher mon chien près de Dunkerque ?",
+          "a": "La Réserve Naturelle Dune Marchand (8 km à l'est) et la Dune du Perroquet (12 km à l'est) autorisent des zones sans laisse saisonnières hors saison de nidification au sol avril-juillet ; hors réserves dunaires, la laisse obligatoire s'applique sur les parcs urbains et la Digue de Mer."
+        },
+        {
+          "q": "Quelle est la meilleure balade dunaire près de Dunkerque ?",
+          "a": "Le sentier de 6 km de la Dune Marchand entre Zuydcoote et Bray-Dunes offre de larges dunes d'oyats avec vues sur la Manche ; pour une balade binationale plus longue, continuez 4 km à l'est jusqu'à la Dune du Perroquet à la frontière belge et traversez le GR130 jusqu'à La Panne."
+        },
+        {
+          "q": "Y a-t-il un parc urbain dans le centre de Dunkerque avec un chien ?",
+          "a": "Le Parc Coquelle de 8 hectares sur le Boulevard de la République est le parc formel central, à 800 m à l'ouest de la gare TER de Dunkerque et à 1 km au sud de la Place Jean Bart ; allées pavées plates idéales pour les chiens âgés ou un dégourdissement rapide entre deux repas en brasserie."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde puedo soltar a mi perro cerca de Dunkerque?", "a": "La Réserve Naturelle Dune Marchand (8 km al este) y la Dune du Perroquet (12 km al este) autorizan zonas sin correa estacionales fuera de la temporada de nidificación en el suelo abril-julio; fuera de las reservas dunares, la correa obligatoria se aplica en los parques urbanos y en la Digue de Mer."},
-        {"q": "¿Cuál es el mejor paseo dunar cerca de Dunkerque?", "a": "El sendero de 6 km de la Dune Marchand entre Zuydcoote y Bray-Dunes ofrece amplias dunas de barrón con vistas al Canal; para un paseo binacional más largo, continúa 4 km al este hasta la Dune du Perroquet en la frontera belga y cruza el GR130 hasta De Panne."},
-        {"q": "¿Hay un parque urbano en el centro de Dunkerque con un perro?", "a": "El Parc Coquelle de 8 hectáreas en el Boulevard de la République es el parque formal central, a 800 m al oeste de la estación TER de Dunkerque y a 1 km al sur de la Place Jean Bart; avenidas pavimentadas llanas ideales para perros mayores o un estiramiento rápido de patas entre dos comidas en brasserie."}
+        {
+          "q": "¿Dónde puedo soltar a mi perro cerca de Dunkerque?",
+          "a": "La Réserve Naturelle Dune Marchand (8 km al este) y la Dune du Perroquet (12 km al este) autorizan zonas sin correa estacionales fuera de la temporada de nidificación en el suelo abril-julio; fuera de las reservas dunares, la correa obligatoria se aplica en los parques urbanos y en la Digue de Mer."
+        },
+        {
+          "q": "¿Cuál es el mejor paseo dunar cerca de Dunkerque?",
+          "a": "El sendero de 6 km de la Dune Marchand entre Zuydcoote y Bray-Dunes ofrece amplias dunas de barrón con vistas al Canal; para un paseo binacional más largo, continúa 4 km al este hasta la Dune du Perroquet en la frontera belga y cruza el GR130 hasta De Panne."
+        },
+        {
+          "q": "¿Hay un parque urbano en el centro de Dunkerque con un perro?",
+          "a": "El Parc Coquelle de 8 hectáreas en el Boulevard de la République es el parque formal central, a 800 m al oeste de la estación TER de Dunkerque y a 1 km al sur de la Place Jean Bart; avenidas pavimentadas llanas ideales para perros mayores o un estiramiento rápido de patas entre dos comidas en brasserie."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde posso soltar o meu cão perto de Dunkerque?", "a": "A Réserve Naturelle Dune Marchand (8 km a leste) e a Dune du Perroquet (12 km a leste) autorizam zonas sem trela sazonais fora da época de nidificação no solo abril-julho; fora das reservas dunares, a trela obrigatória aplica-se nos parques urbanos e na Digue de Mer."},
-        {"q": "Qual é o melhor passeio dunar perto de Dunkerque?", "a": "O trilho de 6 km da Dune Marchand entre Zuydcoote e Bray-Dunes oferece amplas dunas de estorno com vistas ao Canal; para um passeio binacional mais longo, continue 4 km a leste até à Dune du Perroquet na fronteira belga e atravesse o GR130 até De Panne."},
-        {"q": "Há um parque urbano no centro de Dunkerque com um cão?", "a": "O Parc Coquelle de 8 hectares no Boulevard de la République é o parque formal central, a 800 m a oeste da estação TER de Dunkerque e a 1 km a sul da Place Jean Bart; alamedas pavimentadas planas ideais para cães idosos ou um esticar de pernas rápido entre duas refeições em brasserie."}
+        {
+          "q": "Onde posso soltar o meu cão perto de Dunkerque?",
+          "a": "A Réserve Naturelle Dune Marchand (8 km a leste) e a Dune du Perroquet (12 km a leste) autorizam zonas sem trela sazonais fora da época de nidificação no solo abril-julho; fora das reservas dunares, a trela obrigatória aplica-se nos parques urbanos e na Digue de Mer."
+        },
+        {
+          "q": "Qual é o melhor passeio dunar perto de Dunkerque?",
+          "a": "O trilho de 6 km da Dune Marchand entre Zuydcoote e Bray-Dunes oferece amplas dunas de estorno com vistas ao Canal; para um passeio binacional mais longo, continue 4 km a leste até à Dune du Perroquet na fronteira belga e atravesse o GR130 até De Panne."
+        },
+        {
+          "q": "Há um parque urbano no centro de Dunkerque com um cão?",
+          "a": "O Parc Coquelle de 8 hectares no Boulevard de la République é o parque formal central, a 800 m a oeste da estação TER de Dunkerque e a 1 km a sul da Place Jean Bart; alamedas pavimentadas planas ideais para cães idosos ou um esticar de pernas rápido entre duas refeições em brasserie."
+        }
       ]
     },
     "transport": {
@@ -279,7 +351,7 @@
           "name": "Gare de Dunkerque (TER / TER-GV)",
           "address": "Place de la Gare, 59140 Dunkerque",
           "neighborhood": "Centre / east of Place Jean Bart",
-          "photo": "/images/city-places/dunkerque-transport-gare.jpg",
+          "photo": "/images/city-places/dunkerque-transport-gare-de-dunkerque-ter-ter-gv.jpg",
           "website": "https://www.sncf-connect.com/",
           "description": "The Dunkerque main railway station 500 m east of the Place Jean Bart, with TER along the Channel coast to Calais-Ville (45 min) and Boulogne-Ville (1h30), TER south to Lille-Flandres (1h), TER east to Bergues, Hazebrouck and Belgian connections, and TER-GV (TGV via Lille connection) to Paris Gare du Nord (2h30 total). Small dogs in carriers travel SNCF EUR 7 flat-rate; large leashed muzzled dogs pay EUR 7 on TER and TGV.",
           "descriptionFr": "La gare principale de Dunkerque à 500 m à l'est de la Place Jean Bart, avec TER le long de la côte de la Manche vers Calais-Ville (45 min) et Boulogne-Ville (1h30), TER au sud vers Lille-Flandres (1h), TER à l'est vers Bergues, Hazebrouck et correspondances belges, et TER-GV (TGV via correspondance Lille) vers Paris Gare du Nord (2h30 total). Petits chiens en cage voyagent SNCF 7 € forfait ; grands chiens en laisse muselés paient 7 € sur TER et TGV.",
@@ -295,7 +367,7 @@
           "name": "DK'Bus city bus network (free fare)",
           "address": "Hub Place de la Gare, 59140 Dunkerque",
           "neighborhood": "Citywide",
-          "photo": "/images/city-places/dunkerque-transport-dkbus.jpg",
+          "photo": "/images/city-places/dunkerque-transport-dk-bus-city-bus-network-free-fare.jpg",
           "website": "https://www.dkbus.com/",
           "description": "DK'Bus is the citywide bus network across the Communauté Urbaine de Dunkerque (17 communes including Dunkerque centre, Malo-les-Bains, Rosendaël, Petite-Synthe, Saint-Pol-sur-Mer, Grande-Synthe, Cappelle-la-Grande, Coudekerque-Branche), running 18 lines including 5 high-frequency Chrono BHNS lines. Since September 2018 ALL DK'Bus journeys are FREE for everyone, no ticket required, the largest free public transport network in Western Europe. Leashed dogs welcome free of charge at driver's discretion (muzzle required for large breeds).",
           "descriptionFr": "DK'Bus est le réseau de bus urbain dans la Communauté Urbaine de Dunkerque (17 communes dont Dunkerque centre, Malo-les-Bains, Rosendaël, Petite-Synthe, Saint-Pol-sur-Mer, Grande-Synthe, Cappelle-la-Grande, Coudekerque-Branche), assurant 18 lignes dont 5 lignes Chrono BHNS à haute fréquence. Depuis septembre 2018 TOUS les trajets DK'Bus sont GRATUITS pour tous, aucun ticket requis, le plus grand réseau de transport public gratuit d'Europe occidentale. Chiens en laisse bienvenus gratuitement à la discrétion du conducteur (muselière exigée pour les grandes races).",
@@ -311,7 +383,7 @@
           "name": "DFDS Seaways Dunkerque-Dover ferry (Port-Est)",
           "address": "Loon Plage, Port-Est terminal, 59279 Loon-Plage",
           "neighborhood": "Port-Est (10 km west of Dunkerque centre)",
-          "photo": "/images/city-places/dunkerque-transport-dfds-ferry.jpg",
+          "photo": "/images/city-places/dunkerque-transport-dfds-seaways-dunkerque-dover-ferry-port-est.jpg",
           "website": "https://www.dfdsseaways.com/",
           "description": "DFDS Seaways operates the Dunkerque-Dover (Douvres) cross-Channel ferry from the Port-Est terminal at Loon-Plage, with 12 daily crossings (2h crossing, 9 hours faster than the Eurotunnel for non-rushed travellers). Pet-friendliest mode for UK-bound car travel: pets remain in the customer's vehicle on the car deck the entire crossing (no kennel separation, unlike P&O Calais), free of charge with mandatory online registration. Foot passengers not accepted; car/van/coach only.",
           "descriptionFr": "DFDS Seaways exploite le ferry transmanche Dunkerque-Douvres depuis le terminal Port-Est à Loon-Plage, avec 12 traversées par jour (2h de traversée). Mode le plus pet-friendly pour le voyage UK en voiture : les animaux restent dans le véhicule du client sur le pont voitures toute la traversée (pas de séparation en chenil contrairement à P&O Calais), gratuitement avec enregistrement en ligne obligatoire. Pas de piétons ; voiture/van/car uniquement.",
@@ -345,24 +417,60 @@
         "Para Paris, a rota mais rápida é TER Dunkerque para Lille-Flandres (1h) depois Metro para Lille-Europe e TGV inOui para Paris Gare du Nord (1h), total 2h30 com a mudança; cães pequenos em transportadora e grandes com trela e açaime ambos a 7 € fixo na SNCF."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog on the Dunkerque-Dover ferry?", "a": "Yes, DFDS Seaways operates the Dunkerque-Dover ferry 12 times daily from the Port-Est terminal at Loon-Plage; pets stay in your vehicle on the car deck the entire 2h crossing free of charge with mandatory online pre-registration. No foot passengers."},
-        {"q": "Are Dunkerque city buses free?", "a": "Yes, since September 2018 ALL DK'Bus journeys are 100% free for everyone, the largest free public transport network in Western Europe; leashed dogs welcome free at driver's discretion, muzzle required for large breeds."},
-        {"q": "How do I get from Dunkerque to Paris with a dog?", "a": "By TER from Dunkerque to Lille-Flandres (1h), then walk or Métro to Lille-Europe and TGV inOui to Paris Gare du Nord (1h, total 2h30). Small dogs in carriers and large leashed muzzled dogs both EUR 7 flat across SNCF; assistance dogs free."}
+        {
+          "q": "Can I take my dog on the Dunkerque-Dover ferry?",
+          "a": "Yes, DFDS Seaways operates the Dunkerque-Dover ferry 12 times daily from the Port-Est terminal at Loon-Plage; pets stay in your vehicle on the car deck the entire 2h crossing free of charge with mandatory online pre-registration. No foot passengers."
+        },
+        {
+          "q": "Are Dunkerque city buses free?",
+          "a": "Yes, since September 2018 ALL DK'Bus journeys are 100% free for everyone, the largest free public transport network in Western Europe; leashed dogs welcome free at driver's discretion, muzzle required for large breeds."
+        },
+        {
+          "q": "How do I get from Dunkerque to Paris with a dog?",
+          "a": "By TER from Dunkerque to Lille-Flandres (1h), then walk or Métro to Lille-Europe and TGV inOui to Paris Gare du Nord (1h, total 2h30). Small dogs in carriers and large leashed muzzled dogs both EUR 7 flat across SNCF; assistance dogs free."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je prendre le ferry Dunkerque-Douvres avec mon chien ?", "a": "Oui, DFDS Seaways exploite le ferry Dunkerque-Douvres 12 fois par jour depuis le terminal Port-Est à Loon-Plage ; les animaux restent dans votre véhicule sur le pont voitures toute la traversée de 2h gratuitement avec pré-enregistrement en ligne obligatoire. Pas de piétons."},
-        {"q": "Les bus urbains de Dunkerque sont-ils gratuits ?", "a": "Oui, depuis septembre 2018 TOUS les trajets DK'Bus sont 100% gratuits pour tous, le plus grand réseau de transport public gratuit d'Europe occidentale ; chiens en laisse bienvenus gratuitement à la discrétion du conducteur, muselière exigée pour les grandes races."},
-        {"q": "Comment aller de Dunkerque à Paris avec un chien ?", "a": "En TER depuis Dunkerque vers Lille-Flandres (1h), puis à pied ou en Métro vers Lille-Europe et TGV inOui vers Paris Gare du Nord (1h, total 2h30). Petits chiens en cage et grands chiens en laisse muselés tous les deux à 7 € forfait sur la SNCF ; chiens d'assistance gratuits."}
+        {
+          "q": "Puis-je prendre le ferry Dunkerque-Douvres avec mon chien ?",
+          "a": "Oui, DFDS Seaways exploite le ferry Dunkerque-Douvres 12 fois par jour depuis le terminal Port-Est à Loon-Plage ; les animaux restent dans votre véhicule sur le pont voitures toute la traversée de 2h gratuitement avec pré-enregistrement en ligne obligatoire. Pas de piétons."
+        },
+        {
+          "q": "Les bus urbains de Dunkerque sont-ils gratuits ?",
+          "a": "Oui, depuis septembre 2018 TOUS les trajets DK'Bus sont 100% gratuits pour tous, le plus grand réseau de transport public gratuit d'Europe occidentale ; chiens en laisse bienvenus gratuitement à la discrétion du conducteur, muselière exigée pour les grandes races."
+        },
+        {
+          "q": "Comment aller de Dunkerque à Paris avec un chien ?",
+          "a": "En TER depuis Dunkerque vers Lille-Flandres (1h), puis à pied ou en Métro vers Lille-Europe et TGV inOui vers Paris Gare du Nord (1h, total 2h30). Petits chiens en cage et grands chiens en laisse muselés tous les deux à 7 € forfait sur la SNCF ; chiens d'assistance gratuits."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo coger el ferry Dunkerque-Dover con mi perro?", "a": "Sí, DFDS Seaways opera el ferry Dunkerque-Dover 12 veces al día desde la terminal Port-Est en Loon-Plage; las mascotas permanecen en tu vehículo en la cubierta coches toda la travesía de 2h gratis con pre-registro en línea obligatorio. Sin peatones."},
-        {"q": "¿Los buses urbanos de Dunkerque son gratis?", "a": "Sí, desde septiembre de 2018 TODOS los trayectos DK'Bus son 100% gratis para todos, la mayor red de transporte público gratuito de Europa occidental; perros con correa bienvenidos gratis a discreción del conductor, bozal exigido para razas grandes."},
-        {"q": "¿Cómo ir de Dunkerque a París con un perro?", "a": "En TER desde Dunkerque a Lille-Flandres (1h), luego a pie o en Metro a Lille-Europe y TGV inOui a París Gare du Nord (1h, total 2h30). Perros pequeños en transportín y grandes con correa con bozal ambos a 7 € fijo en SNCF; perros de asistencia gratis."}
+        {
+          "q": "¿Puedo coger el ferry Dunkerque-Dover con mi perro?",
+          "a": "Sí, DFDS Seaways opera el ferry Dunkerque-Dover 12 veces al día desde la terminal Port-Est en Loon-Plage; las mascotas permanecen en tu vehículo en la cubierta coches toda la travesía de 2h gratis con pre-registro en línea obligatorio. Sin peatones."
+        },
+        {
+          "q": "¿Los buses urbanos de Dunkerque son gratis?",
+          "a": "Sí, desde septiembre de 2018 TODOS los trayectos DK'Bus son 100% gratis para todos, la mayor red de transporte público gratuito de Europa occidental; perros con correa bienvenidos gratis a discreción del conductor, bozal exigido para razas grandes."
+        },
+        {
+          "q": "¿Cómo ir de Dunkerque a París con un perro?",
+          "a": "En TER desde Dunkerque a Lille-Flandres (1h), luego a pie o en Metro a Lille-Europe y TGV inOui a París Gare du Nord (1h, total 2h30). Perros pequeños en transportín y grandes con correa con bozal ambos a 7 € fijo en SNCF; perros de asistencia gratis."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso apanhar o ferry Dunkerque-Dover com o meu cão?", "a": "Sim, a DFDS Seaways opera o ferry Dunkerque-Dover 12 vezes por dia desde o terminal Port-Est em Loon-Plage; os animais permanecem no seu veículo no convés dos carros toda a travessia de 2h grátis com pré-registo online obrigatório. Sem peões."},
-        {"q": "Os autocarros urbanos de Dunkerque são grátis?", "a": "Sim, desde setembro de 2018 TODAS as viagens DK'Bus são 100% grátis para todos, a maior rede de transporte público gratuito da Europa ocidental; cães com trela bem-vindos grátis à discrição do condutor, açaime exigido para raças grandes."},
-        {"q": "Como ir de Dunkerque a Paris com um cão?", "a": "Em TER desde Dunkerque para Lille-Flandres (1h), depois a pé ou em Metro para Lille-Europe e TGV inOui para Paris Gare du Nord (1h, total 2h30). Cães pequenos em transportadora e grandes com trela e açaime ambos a 7 € fixo na SNCF; cães de assistência grátis."}
+        {
+          "q": "Posso apanhar o ferry Dunkerque-Dover com o meu cão?",
+          "a": "Sim, a DFDS Seaways opera o ferry Dunkerque-Dover 12 vezes por dia desde o terminal Port-Est em Loon-Plage; os animais permanecem no seu veículo no convés dos carros toda a travessia de 2h grátis com pré-registo online obrigatório. Sem peões."
+        },
+        {
+          "q": "Os autocarros urbanos de Dunkerque são grátis?",
+          "a": "Sim, desde setembro de 2018 TODAS as viagens DK'Bus são 100% grátis para todos, a maior rede de transporte público gratuito da Europa ocidental; cães com trela bem-vindos grátis à discrição do condutor, açaime exigido para raças grandes."
+        },
+        {
+          "q": "Como ir de Dunkerque a Paris com um cão?",
+          "a": "Em TER desde Dunkerque para Lille-Flandres (1h), depois a pé ou em Metro para Lille-Europe e TGV inOui para Paris Gare du Nord (1h, total 2h30). Cães pequenos em transportadora e grandes com trela e açaime ambos a 7 € fixo na SNCF; cães de assistência grátis."
+        }
       ]
     },
     "beaches": {
@@ -383,7 +491,7 @@
           "rules": "Leashed dogs year-round at the ends; central summer lifeguard zone restricts pets June 15-September 5",
           "facilities": "Free parking on Digue de Mer, promenade benches, café-restaurants on the seafront, Casino de Dunkerque, public toilets seasonal",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Malo+les+Bains",
-          "photo": "/images/city-places/dunkerque-beaches-malo.jpg"
+          "photo": "/images/city-places/dunkerque-beaches-plage-de-malo-les-bains-and-digue-de-mer.jpg"
         },
         {
           "name": "Plage de Leffrinckoucke and Fort des Dunes",
@@ -393,7 +501,7 @@
           "rules": "Leashed dogs year-round; small summer lifeguard zone at Leffrinckoucke village centre restricts pets",
           "facilities": "Free parking at Leffrinckoucke seafront, Fort des Dunes ramparts walk above, café-restaurants seasonal at Leffrinckoucke village, no permanent lifeguard outside village core",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Leffrinckoucke",
-          "photo": "/images/city-places/dunkerque-beaches-leffrinckoucke.jpg"
+          "photo": "/images/city-places/dunkerque-beaches-plage-de-leffrinckoucke-and-fort-des-dunes.jpg"
         },
         {
           "name": "Plage de Bray-Dunes (Belgian border)",
@@ -403,7 +511,7 @@
           "rules": "Leashed dogs year-round outside the small July-August Bray-Dunes village centre lifeguard zone",
           "facilities": "Free parking on the Bray-Dunes seafront, sand-yacht and kite-surf clubs, café-restaurants in Bray-Dunes village, unmanned GR130 border crossing to De Panne BE, public toilets seasonal",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Bray+Dunes",
-          "photo": "/images/city-places/dunkerque-beaches-bray-dunes.jpg"
+          "photo": "/images/city-places/dunkerque-beaches-plage-de-bray-dunes-belgian-border.jpg"
         }
       ],
       "tipsEn": [
@@ -427,24 +535,60 @@
         "A praia de Bray-Dunes deixa até 500 m de areia exposta em maré baixa; verifique a tabela de marés no posto de turismo de Dunkerque ou em qualquer café da frente marítima, a diferença entre preia-mar e baixa-mar atinge 6 m em grandes marés vivas."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed on the Plage de Malo-les-Bains?", "a": "Leashed dogs are welcome year-round at the western (towards Port-Est) and eastern (towards Leffrinckoucke) ends of the Plage de Malo-les-Bains. The central lifeguarded zone restricts pets mid-June to early September."},
-        {"q": "Where is the quietest dog-friendly beach near Dunkerque?", "a": "The Plage de Leffrinckoucke 5 km east, backed by the Fort des Dunes and the Réserve Naturelle Dune Marchand, offers 3 km of wider sand with leashed dogs welcome year-round outside the small Leffrinckoucke village lifeguard zone."},
-        {"q": "Can my dog swim in the Channel?", "a": "Yes year-round, though the water is cool (8-17 °C); most dogs paddle at the water's edge rather than swim long. The Plage de Malo-les-Bains and Plage de Bray-Dunes have gentle gradients ideal for nervous swimmers."}
+        {
+          "q": "Are dogs allowed on the Plage de Malo-les-Bains?",
+          "a": "Leashed dogs are welcome year-round at the western (towards Port-Est) and eastern (towards Leffrinckoucke) ends of the Plage de Malo-les-Bains. The central lifeguarded zone restricts pets mid-June to early September."
+        },
+        {
+          "q": "Where is the quietest dog-friendly beach near Dunkerque?",
+          "a": "The Plage de Leffrinckoucke 5 km east, backed by the Fort des Dunes and the Réserve Naturelle Dune Marchand, offers 3 km of wider sand with leashed dogs welcome year-round outside the small Leffrinckoucke village lifeguard zone."
+        },
+        {
+          "q": "Can my dog swim in the Channel?",
+          "a": "Yes year-round, though the water is cool (8-17 °C); most dogs paddle at the water's edge rather than swim long. The Plage de Malo-les-Bains and Plage de Bray-Dunes have gentle gradients ideal for nervous swimmers."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés sur la Plage de Malo-les-Bains ?", "a": "Les chiens en laisse sont bienvenus toute l'année aux extrémités ouest (vers le Port-Est) et est (vers Leffrinckoucke) de la Plage de Malo-les-Bains. La zone surveillée centrale restreint les animaux de mi-juin à début septembre."},
-        {"q": "Où est la plage dog-friendly la plus calme près de Dunkerque ?", "a": "La Plage de Leffrinckoucke à 5 km à l'est, adossée au Fort des Dunes et à la Réserve Naturelle Dune Marchand, offre 3 km de sable plus large avec des chiens en laisse bienvenus toute l'année hors de la petite zone de surveillance du village de Leffrinckoucke."},
-        {"q": "Mon chien peut-il nager dans la Manche ?", "a": "Oui toute l'année, bien que l'eau soit fraîche (8-17 °C) ; la plupart des chiens barbotent au bord plutôt que de nager longtemps. La Plage de Malo-les-Bains et la Plage de Bray-Dunes ont des pentes douces idéales pour les nageurs nerveux."}
+        {
+          "q": "Les chiens sont-ils autorisés sur la Plage de Malo-les-Bains ?",
+          "a": "Les chiens en laisse sont bienvenus toute l'année aux extrémités ouest (vers le Port-Est) et est (vers Leffrinckoucke) de la Plage de Malo-les-Bains. La zone surveillée centrale restreint les animaux de mi-juin à début septembre."
+        },
+        {
+          "q": "Où est la plage dog-friendly la plus calme près de Dunkerque ?",
+          "a": "La Plage de Leffrinckoucke à 5 km à l'est, adossée au Fort des Dunes et à la Réserve Naturelle Dune Marchand, offre 3 km de sable plus large avec des chiens en laisse bienvenus toute l'année hors de la petite zone de surveillance du village de Leffrinckoucke."
+        },
+        {
+          "q": "Mon chien peut-il nager dans la Manche ?",
+          "a": "Oui toute l'année, bien que l'eau soit fraîche (8-17 °C) ; la plupart des chiens barbotent au bord plutôt que de nager longtemps. La Plage de Malo-les-Bains et la Plage de Bray-Dunes ont des pentes douces idéales pour les nageurs nerveux."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en la Plage de Malo-les-Bains?", "a": "Los perros con correa son bienvenidos todo el año en los extremos oeste (hacia el Port-Est) y este (hacia Leffrinckoucke) de la Plage de Malo-les-Bains. La zona vigilada central restringe a las mascotas de mediados de junio a principios de septiembre."},
-        {"q": "¿Dónde está la playa pet-friendly más tranquila cerca de Dunkerque?", "a": "La Plage de Leffrinckoucke a 5 km al este, respaldada por el Fort des Dunes y por la Réserve Naturelle Dune Marchand, ofrece 3 km de arena más amplia con perros con correa bienvenidos todo el año fuera de la pequeña zona de vigilancia del pueblo de Leffrinckoucke."},
-        {"q": "¿Puede mi perro bañarse en el Canal?", "a": "Sí todo el año, aunque el agua sea fresca (8-17 °C); la mayoría de los perros chapotean al borde antes que nadar mucho rato. La Plage de Malo-les-Bains y la Plage de Bray-Dunes tienen pendientes suaves ideales para nadadores nerviosos."}
+        {
+          "q": "¿Se admiten perros en la Plage de Malo-les-Bains?",
+          "a": "Los perros con correa son bienvenidos todo el año en los extremos oeste (hacia el Port-Est) y este (hacia Leffrinckoucke) de la Plage de Malo-les-Bains. La zona vigilada central restringe a las mascotas de mediados de junio a principios de septiembre."
+        },
+        {
+          "q": "¿Dónde está la playa pet-friendly más tranquila cerca de Dunkerque?",
+          "a": "La Plage de Leffrinckoucke a 5 km al este, respaldada por el Fort des Dunes y por la Réserve Naturelle Dune Marchand, ofrece 3 km de arena más amplia con perros con correa bienvenidos todo el año fuera de la pequeña zona de vigilancia del pueblo de Leffrinckoucke."
+        },
+        {
+          "q": "¿Puede mi perro bañarse en el Canal?",
+          "a": "Sí todo el año, aunque el agua sea fresca (8-17 °C); la mayoría de los perros chapotean al borde antes que nadar mucho rato. La Plage de Malo-les-Bains y la Plage de Bray-Dunes tienen pendientes suaves ideales para nadadores nerviosos."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos na Plage de Malo-les-Bains?", "a": "Os cães com trela são bem-vindos o ano inteiro nos extremos oeste (para o Port-Est) e leste (para Leffrinckoucke) da Plage de Malo-les-Bains. A zona vigiada central restringe os animais de meados de junho a início de setembro."},
-        {"q": "Onde fica a praia pet-friendly mais calma perto de Dunkerque?", "a": "A Plage de Leffrinckoucke a 5 km a leste, encostada ao Fort des Dunes e à Réserve Naturelle Dune Marchand, oferece 3 km de areia mais ampla com cães com trela bem-vindos o ano inteiro fora da pequena zona de vigilância da aldeia de Leffrinckoucke."},
-        {"q": "O meu cão pode banhar-se no Canal?", "a": "Sim o ano inteiro, embora a água seja fresca (8-17 °C); a maioria dos cães chapinha à beira em vez de nadar muito tempo. A Plage de Malo-les-Bains e a Plage de Bray-Dunes têm declives suaves ideais para nadadores nervosos."}
+        {
+          "q": "Os cães são admitidos na Plage de Malo-les-Bains?",
+          "a": "Os cães com trela são bem-vindos o ano inteiro nos extremos oeste (para o Port-Est) e leste (para Leffrinckoucke) da Plage de Malo-les-Bains. A zona vigiada central restringe os animais de meados de junho a início de setembro."
+        },
+        {
+          "q": "Onde fica a praia pet-friendly mais calma perto de Dunkerque?",
+          "a": "A Plage de Leffrinckoucke a 5 km a leste, encostada ao Fort des Dunes e à Réserve Naturelle Dune Marchand, oferece 3 km de areia mais ampla com cães com trela bem-vindos o ano inteiro fora da pequena zona de vigilância da aldeia de Leffrinckoucke."
+        },
+        {
+          "q": "O meu cão pode banhar-se no Canal?",
+          "a": "Sim o ano inteiro, embora a água seja fresca (8-17 °C); a maioria dos cães chapinha à beira em vez de nadar muito tempo. A Plage de Malo-les-Bains e a Plage de Bray-Dunes têm declives suaves ideais para nadadores nervosos."
+        }
       ]
     },
     "vets": {
@@ -470,7 +614,7 @@
           "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; linha de urgência nocturna rotativa",
           "englishSpeaking": true,
           "website": "https://www.cliniqueveterinairedunkerquecentre.fr/",
-          "photo": "/images/city-places/dunkerque-vets-centre.jpg",
+          "photo": "/images/city-places/dunkerque-vets-clinique-veterinaire-de-dunkerque-centre.jpg",
           "description": "A central Dunkerque general practice on Rue de l'Hermitte 5 minutes from the Place Jean Bart, with imaging, dentistry and minor surgery. Bilingual French and English staff handle DFDS Dover ferry and TER-arriving pets daily. Participates in the rotating night line for the Communauté Urbaine de Dunkerque; phone the main number after hours to be redirected to the duty clinic of the week.",
           "descriptionFr": "Cabinet généraliste central de Dunkerque sur la Rue de l'Hermitte à 5 minutes de la Place Jean Bart, avec imagerie, dentisterie et petite chirurgie. Personnel bilingue français-anglais qui gère quotidiennement les animaux arrivés par ferry DFDS Douvres et TER. Participe à la garde tournante de nuit pour la Communauté Urbaine de Dunkerque ; appelez le numéro principal hors heures pour être redirigé vers la clinique de garde de la semaine.",
           "descriptionEs": "Consulta generalista céntrica de Dunkerque en la Rue de l'Hermitte a 5 minutos de la Place Jean Bart, con imagen, odontología y cirugía menor. Personal bilingüe francés-inglés que atiende a diario a las mascotas llegadas por ferry DFDS Dover y TER. Participa en la guardia rotativa nocturna para la Communauté Urbaine de Dunkerque; llama al número principal fuera de horario para ser redirigido a la clínica de guardia de la semana.",
@@ -483,7 +627,10 @@
           "servicesFr": "Vaccinations, passeport européen, signature Animal Health Certificate UK, médecine générale, petite chirurgie, dentisterie",
           "servicesEs": "Vacunaciones, pasaporte UE, firma Animal Health Certificate UK, medicina general, cirugía menor, odontología",
           "servicesPt": "Vacinações, passaporte UE, assinatura Animal Health Certificate UK, medicina geral, pequena cirurgia, dentária",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00",
           "tip": "Save the main number (+33 3 28 66 32 14) before any Dune Marchand hike or pre-ferry departure; the rotating night line directs you to the duty clinic, useful if you need an emergency consultation before a DFDS Dover return crossing from the Port-Est terminal.",
           "tipFr": "Enregistrez le numéro principal (+33 3 28 66 32 14) avant toute rando à la Dune Marchand ou avant un départ ferry ; la ligne tournante de nuit vous redirige vers la clinique de garde, utile pour une urgence avant un retour DFDS Douvres depuis le terminal Port-Est.",
@@ -503,7 +650,7 @@
           "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; fechado dom",
           "englishSpeaking": true,
           "website": "https://www.cliniqueveterinairemalo.fr/",
-          "photo": "/images/city-places/dunkerque-vets-malo.jpg",
+          "photo": "/images/city-places/dunkerque-vets-clinique-veterinaire-de-malo-les-bains.jpg",
           "description": "A general practice on the Avenue de la Mer in Malo-les-Bains seaside resort 2 km north of Dunkerque centre, with easy free parking 300 m from the Digue de Mer, ideal for vaccination top-ups, EU passport stamps and minor non-emergency consultations after a beach walk. Refers to CHV Nord Lille for advanced cases.",
           "descriptionFr": "Cabinet généraliste sur l'Avenue de la Mer dans la station balnéaire de Malo-les-Bains à 2 km au nord du centre de Dunkerque, avec parking gratuit facile à 300 m de la Digue de Mer, idéal pour rappels de vaccin, tampons sur passeport européen et consultations mineures non urgentes après une balade en plage. Renvoie sur le CHV Nord Lille pour les cas avancés.",
           "descriptionEs": "Consulta generalista en la Avenue de la Mer en la estación balnearia de Malo-les-Bains a 2 km al norte del centro de Dunkerque, con aparcamiento gratuito fácil a 300 m de la Digue de Mer, ideal para refuerzos de vacuna, sellos de pasaporte europeo y consultas menores no urgentes después de un paseo en playa. Deriva al CHV Nord Lille para casos avanzados.",
@@ -516,7 +663,10 @@
           "servicesFr": "Vaccinations, passeport européen, soutien AHC UK, médecine générale, petite chirurgie",
           "servicesEs": "Vacunaciones, pasaporte UE, soporte AHC UK, medicina general, cirugía menor",
           "servicesPt": "Vacinações, passaporte UE, apoio AHC UK, medicina geral, pequena cirurgia",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00",
           "tip": "Book the first morning slot for same-day EU passport sign-off before an afternoon TER departure to Lille / Paris or a DFDS Dover ferry from Port-Est; the clinic is 10 minutes by car from both the railway station and the Port-Est terminal.",
           "tipFr": "Réservez le premier créneau du matin pour validation passeport européen le jour même avant un départ TER l'après-midi pour Lille / Paris ou un ferry DFDS Douvres depuis Port-Est ; la clinique est à 10 minutes en voiture de la gare et du terminal Port-Est.",
@@ -536,7 +686,7 @@
           "hoursPt": "Urgências e especialidades 24/7",
           "englishSpeaking": true,
           "website": "https://www.chv-nord.fr/",
-          "photo": "/images/city-places/dunkerque-vets-chv-nord.jpg",
+          "photo": "/images/city-places/dunkerque-vets-chv-nord-lille.jpg",
           "description": "The reference 24/7 specialty veterinary hospital for the Hauts-de-France region, with cardiology, oncology, neurology, intensive care and complex surgery; 1h10 from Dunkerque via the A25 motorway, the regional escalation centre Dunkerque clinics refer to for any after-hours emergency the local rotating line cannot handle.",
           "descriptionFr": "L'hôpital vétérinaire de référence 24h/24 pour les Hauts-de-France, avec cardiologie, oncologie, neurologie, soins intensifs et chirurgie complexe ; à 1h10 de Dunkerque par l'A25, le centre d'escalade régional vers lequel les cliniques dunkerquoises adressent pour toute urgence hors heures que la ligne tournante locale ne peut gérer.",
           "descriptionEs": "El hospital veterinario de referencia 24/7 para Hauts-de-France, con cardiología, oncología, neurología, cuidados intensivos y cirugía compleja; a 1h10 de Dunkerque vía la A25, el centro de escalada regional al que las clínicas dunkerquoises derivan para cualquier urgencia fuera de horario que la línea rotativa local no pueda gestionar.",
@@ -549,7 +699,10 @@
           "servicesFr": "Urgences, soins intensifs, cardiologie, oncologie, neurologie, chirurgie complexe, imagerie",
           "servicesEs": "Urgencias, UCI, cardiología, oncología, neurología, cirugía compleja, imagen",
           "servicesPt": "Urgências, UCI, cardiologia, oncologia, neurologia, cirurgia complexa, imagem",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "24/7",
           "tip": "Drive yourself on the A25 rather than wait for a pet-taxi at night; the 1h10 transfer to Lille is faster than any rural rotating-line ETA after midnight in the Dunkerque-Calais corridor.",
           "tipFr": "Conduisez-vous sur l'A25 plutôt que d'attendre un pet-taxi la nuit ; le transfert de 1h10 vers Lille est plus rapide que n'importe quelle estimation de la ligne tournante rurale après minuit dans le corridor Dunkerque-Calais.",
@@ -579,24 +732,60 @@
         "Leve fisicamente o seu passaporte europeu ou AHC UK a toda a visita veterinária e ao check-in DFDS em Port-Est Loon-Plage; os documentos são verificados antes do embarque e os registos não carimbados ou expirados significam que o cão não pode embarcar."
       ],
       "faqsEn": [
-        {"q": "Where is the closest 24h vet to Dunkerque?", "a": "The CHV Nord in Lille (+33 3 20 04 87 87, 1h10 via the A25 motorway) is the closest true 24/7 referral hospital; local after-hours is handled via the Dunkerque rotating night line at the Clinique de Dunkerque-Centre."},
-        {"q": "Do Dunkerque vets speak English?", "a": "Yes at the Clinique de Dunkerque-Centre and the Clinique de Malo-les-Bains; staff are fluent thanks to the heavy DFDS Dover ferry traffic and the British retiree clientele on the Côte d'Opale."},
-        {"q": "Can a French vet sign my dog's UK return paperwork?", "a": "Only an APHA-certified Official Veterinarian (OV) can sign UK return documents; most Dunkerque clinics are not APHA-certified. Plan ahead: your AHC is issued in the UK before travel and is valid 4 months for return crossings via the DFDS Dover ferry from Port-Est."}
+        {
+          "q": "Where is the closest 24h vet to Dunkerque?",
+          "a": "The CHV Nord in Lille (+33 3 20 04 87 87, 1h10 via the A25 motorway) is the closest true 24/7 referral hospital; local after-hours is handled via the Dunkerque rotating night line at the Clinique de Dunkerque-Centre."
+        },
+        {
+          "q": "Do Dunkerque vets speak English?",
+          "a": "Yes at the Clinique de Dunkerque-Centre and the Clinique de Malo-les-Bains; staff are fluent thanks to the heavy DFDS Dover ferry traffic and the British retiree clientele on the Côte d'Opale."
+        },
+        {
+          "q": "Can a French vet sign my dog's UK return paperwork?",
+          "a": "Only an APHA-certified Official Veterinarian (OV) can sign UK return documents; most Dunkerque clinics are not APHA-certified. Plan ahead: your AHC is issued in the UK before travel and is valid 4 months for return crossings via the DFDS Dover ferry from Port-Est."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est le vétérinaire 24h le plus proche de Dunkerque ?", "a": "Le CHV Nord à Lille (+33 3 20 04 87 87, 1h10 par l'A25) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne tournante de nuit dunkerquoise à la Clinique de Dunkerque-Centre."},
-        {"q": "Les vétérinaires de Dunkerque parlent-ils anglais ?", "a": "Oui à la Clinique de Dunkerque-Centre et à la Clinique de Malo-les-Bains ; le personnel est courant grâce au fort trafic du ferry DFDS Douvres et à la clientèle britannique retraitée sur la Côte d'Opale."},
-        {"q": "Un vétérinaire français peut-il signer les papiers de retour UK de mon chien ?", "a": "Seul un Official Veterinarian (OV) certifié APHA peut signer les documents de retour UK ; la plupart des cliniques de Dunkerque ne sont pas certifiées APHA. Planifiez à l'avance : votre AHC est émis au UK avant le voyage et valide 4 mois pour les traversées retour via le ferry DFDS Douvres depuis Port-Est."}
+        {
+          "q": "Où est le vétérinaire 24h le plus proche de Dunkerque ?",
+          "a": "Le CHV Nord à Lille (+33 3 20 04 87 87, 1h10 par l'A25) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne tournante de nuit dunkerquoise à la Clinique de Dunkerque-Centre."
+        },
+        {
+          "q": "Les vétérinaires de Dunkerque parlent-ils anglais ?",
+          "a": "Oui à la Clinique de Dunkerque-Centre et à la Clinique de Malo-les-Bains ; le personnel est courant grâce au fort trafic du ferry DFDS Douvres et à la clientèle britannique retraitée sur la Côte d'Opale."
+        },
+        {
+          "q": "Un vétérinaire français peut-il signer les papiers de retour UK de mon chien ?",
+          "a": "Seul un Official Veterinarian (OV) certifié APHA peut signer les documents de retour UK ; la plupart des cliniques de Dunkerque ne sont pas certifiées APHA. Planifiez à l'avance : votre AHC est émis au UK avant le voyage et valide 4 mois pour les traversées retour via le ferry DFDS Douvres depuis Port-Est."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el veterinario 24h más cercano de Dunkerque?", "a": "El CHV Nord en Lille (+33 3 20 04 87 87, 1h10 vía la A25) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea rotativa nocturna dunkerquoise en la Clinique de Dunkerque-Centre."},
-        {"q": "¿Los veterinarios de Dunkerque hablan inglés?", "a": "Sí en la Clinique de Dunkerque-Centre y en la Clinique de Malo-les-Bains; el personal es fluido gracias al fuerte tráfico del ferry DFDS Dover y a la clientela británica jubilada en la Côte d'Opale."},
-        {"q": "¿Un veterinario francés puede firmar los papeles de retorno UK de mi perro?", "a": "Solo un Official Veterinarian (OV) certificado APHA puede firmar los documentos de retorno UK; la mayoría de las clínicas de Dunkerque no están certificadas APHA. Planifica con antelación: tu AHC se emite en el UK antes del viaje y es válido 4 meses para las travesías de retorno vía el ferry DFDS Dover desde Port-Est."}
+        {
+          "q": "¿Dónde está el veterinario 24h más cercano de Dunkerque?",
+          "a": "El CHV Nord en Lille (+33 3 20 04 87 87, 1h10 vía la A25) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea rotativa nocturna dunkerquoise en la Clinique de Dunkerque-Centre."
+        },
+        {
+          "q": "¿Los veterinarios de Dunkerque hablan inglés?",
+          "a": "Sí en la Clinique de Dunkerque-Centre y en la Clinique de Malo-les-Bains; el personal es fluido gracias al fuerte tráfico del ferry DFDS Dover y a la clientela británica jubilada en la Côte d'Opale."
+        },
+        {
+          "q": "¿Un veterinario francés puede firmar los papeles de retorno UK de mi perro?",
+          "a": "Solo un Official Veterinarian (OV) certificado APHA puede firmar los documentos de retorno UK; la mayoría de las clínicas de Dunkerque no están certificadas APHA. Planifica con antelación: tu AHC se emite en el UK antes del viaje y es válido 4 meses para las travesías de retorno vía el ferry DFDS Dover desde Port-Est."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o veterinário 24h mais próximo de Dunkerque?", "a": "O CHV Nord em Lille (+33 3 20 04 87 87, 1h10 pela A25) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha rotativa nocturna dunkerquoise na Clinique de Dunkerque-Centre."},
-        {"q": "Os veterinários de Dunkerque falam inglês?", "a": "Sim na Clinique de Dunkerque-Centre e na Clinique de Malo-les-Bains; o pessoal é fluente graças ao forte tráfego do ferry DFDS Dover e à clientela britânica reformada na Côte d'Opale."},
-        {"q": "Um veterinário francês pode assinar os papéis de regresso UK do meu cão?", "a": "Só um Official Veterinarian (OV) certificado APHA pode assinar os documentos de regresso UK; a maioria das clínicas de Dunkerque não está certificada APHA. Planeie com antecedência: o seu AHC é emitido no UK antes da viagem e válido 4 meses para as travessias de regresso via ferry DFDS Dover desde Port-Est."}
+        {
+          "q": "Onde fica o veterinário 24h mais próximo de Dunkerque?",
+          "a": "O CHV Nord em Lille (+33 3 20 04 87 87, 1h10 pela A25) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha rotativa nocturna dunkerquoise na Clinique de Dunkerque-Centre."
+        },
+        {
+          "q": "Os veterinários de Dunkerque falam inglês?",
+          "a": "Sim na Clinique de Dunkerque-Centre e na Clinique de Malo-les-Bains; o pessoal é fluente graças ao forte tráfego do ferry DFDS Dover e à clientela britânica reformada na Côte d'Opale."
+        },
+        {
+          "q": "Um veterinário francês pode assinar os papéis de regresso UK do meu cão?",
+          "a": "Só um Official Veterinarian (OV) certificado APHA pode assinar os documentos de regresso UK; a maioria das clínicas de Dunkerque não está certificada APHA. Planeie com antecedência: o seu AHC é emitido no UK antes da viagem e válido 4 meses para as travessias de regresso via ferry DFDS Dover desde Port-Est."
+        }
       ]
     },
     "tips": {
@@ -638,24 +827,60 @@
         "O Grand Site Cap Blanc-Nez / Cap Gris-Nez a 40-50 km a sudoeste na Côte d'Opale é a referência canina regional; trilhos no topo da falésia o ano inteiro com vistas directas para as falésias brancas de Dover e a rota marítima mais movimentada da planeta."
       ],
       "faqsEn": [
-        {"q": "Is Dunkerque a good base for a pet-friendly Côte d'Opale holiday?", "a": "Yes, the combination of the 12 km Malo-les-Bains to Bray-Dunes Channel dune coast (longest continuous coastal dune walk on the French Channel coast), the UNESCO Beffroi Saint-Éloi, the Operation Dynamo memorials, the 100% free DK'Bus citywide network, the direct DFDS Dover ferry from Port-Est and the unmanned GR130 border into Belgian De Panne make it the obvious base for any binational pet road trip on the northern French and Belgian coast."},
-        {"q": "Do I need a muzzle in public in Dunkerque?", "a": "Only for category 1 and 2 restricted breeds; standard breeds need only a leash. DK'Bus and TER trains require muzzles on larger dogs; DFDS Dover ferry crossings keep pets in the customer's vehicle on the car deck so muzzle requirements default to the vehicle owner's preference."},
-        {"q": "What is the best month for Dunkerque with a dog?", "a": "May-June and September-October: mild Channel temperatures, lower humidity, lighter crowds, full Dune Marchand and Dune du Perroquet access (outside ground-nesting bird season April-July) and the Plage de Malo-les-Bains ends open year-round. February-March if you want to see the Carnaval de Dunkerque (be ready for dense crowds)."}
+        {
+          "q": "Is Dunkerque a good base for a pet-friendly Côte d'Opale holiday?",
+          "a": "Yes, the combination of the 12 km Malo-les-Bains to Bray-Dunes Channel dune coast (longest continuous coastal dune walk on the French Channel coast), the UNESCO Beffroi Saint-Éloi, the Operation Dynamo memorials, the 100% free DK'Bus citywide network, the direct DFDS Dover ferry from Port-Est and the unmanned GR130 border into Belgian De Panne make it the obvious base for any binational pet road trip on the northern French and Belgian coast."
+        },
+        {
+          "q": "Do I need a muzzle in public in Dunkerque?",
+          "a": "Only for category 1 and 2 restricted breeds; standard breeds need only a leash. DK'Bus and TER trains require muzzles on larger dogs; DFDS Dover ferry crossings keep pets in the customer's vehicle on the car deck so muzzle requirements default to the vehicle owner's preference."
+        },
+        {
+          "q": "What is the best month for Dunkerque with a dog?",
+          "a": "May-June and September-October: mild Channel temperatures, lower humidity, lighter crowds, full Dune Marchand and Dune du Perroquet access (outside ground-nesting bird season April-July) and the Plage de Malo-les-Bains ends open year-round. February-March if you want to see the Carnaval de Dunkerque (be ready for dense crowds)."
+        }
       ],
       "faqsFr": [
-        {"q": "Dunkerque est-elle une bonne base pour des vacances pet-friendly sur la Côte d'Opale ?", "a": "Oui, la combinaison des 12 km de côte dunaire de la Manche Malo-les-Bains à Bray-Dunes (plus longue balade dunaire côtière continue de la côte française de la Manche), du Beffroi Saint-Éloi UNESCO, des mémoriaux Operation Dynamo, du réseau urbain DK'Bus 100% gratuit, du ferry DFDS Douvres direct depuis Port-Est et du passage GR130 non gardé vers La Panne en Belgique en fait la base évidente de tout road trip pet binational sur la côte française nord et belge."},
-        {"q": "Ai-je besoin d'une muselière en public à Dunkerque ?", "a": "Seulement pour les races de catégorie 1 et 2 ; les races standard n'ont besoin que d'une laisse. DK'Bus et les trains TER exigent la muselière pour les grands chiens ; les traversées ferry DFDS Douvres gardent les animaux dans le véhicule du client sur le pont voitures donc les exigences de muselière restent à la préférence du propriétaire du véhicule."},
-        {"q": "Quel est le meilleur mois à Dunkerque avec un chien ?", "a": "Mai-juin et septembre-octobre : températures douces de la Manche, humidité plus basse, moins de monde, accès complet à la Dune Marchand et à la Dune du Perroquet (hors saison de nidification au sol avril-juillet) et les extrémités de la Plage de Malo-les-Bains ouvertes toute l'année. Février-mars si vous voulez voir le Carnaval de Dunkerque (préparez-vous à la foule dense)."}
+        {
+          "q": "Dunkerque est-elle une bonne base pour des vacances pet-friendly sur la Côte d'Opale ?",
+          "a": "Oui, la combinaison des 12 km de côte dunaire de la Manche Malo-les-Bains à Bray-Dunes (plus longue balade dunaire côtière continue de la côte française de la Manche), du Beffroi Saint-Éloi UNESCO, des mémoriaux Operation Dynamo, du réseau urbain DK'Bus 100% gratuit, du ferry DFDS Douvres direct depuis Port-Est et du passage GR130 non gardé vers La Panne en Belgique en fait la base évidente de tout road trip pet binational sur la côte française nord et belge."
+        },
+        {
+          "q": "Ai-je besoin d'une muselière en public à Dunkerque ?",
+          "a": "Seulement pour les races de catégorie 1 et 2 ; les races standard n'ont besoin que d'une laisse. DK'Bus et les trains TER exigent la muselière pour les grands chiens ; les traversées ferry DFDS Douvres gardent les animaux dans le véhicule du client sur le pont voitures donc les exigences de muselière restent à la préférence du propriétaire du véhicule."
+        },
+        {
+          "q": "Quel est le meilleur mois à Dunkerque avec un chien ?",
+          "a": "Mai-juin et septembre-octobre : températures douces de la Manche, humidité plus basse, moins de monde, accès complet à la Dune Marchand et à la Dune du Perroquet (hors saison de nidification au sol avril-juillet) et les extrémités de la Plage de Malo-les-Bains ouvertes toute l'année. Février-mars si vous voulez voir le Carnaval de Dunkerque (préparez-vous à la foule dense)."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Dunkerque una buena base para unas vacaciones pet-friendly en la Côte d'Opale?", "a": "Sí, la combinación de los 12 km de costa dunar del Canal de Malo-les-Bains a Bray-Dunes (paseo dunar costero continuo más largo de la costa francesa del Canal), del Beffroi Saint-Éloi UNESCO, de los memoriales Operation Dynamo, de la red urbana DK'Bus 100% gratis, del ferry DFDS Dover directo desde Port-Est y del paso GR130 no vigilado hacia De Panne en Bélgica la convierten en la base evidente de cualquier road trip pet binacional en la costa francesa norte y belga."},
-        {"q": "¿Necesito bozal en público en Dunkerque?", "a": "Solo para razas de categoría 1 y 2; las razas estándar solo necesitan correa. DK'Bus y los trenes TER exigen bozal para perros grandes; las travesías ferry DFDS Dover mantienen a las mascotas en el vehículo del cliente en la cubierta coches por lo que las exigencias de bozal quedan a la preferencia del propietario del vehículo."},
-        {"q": "¿Cuál es el mejor mes para Dunkerque con perro?", "a": "Mayo-junio y septiembre-octubre: temperaturas suaves del Canal, menor humedad, menos gente, acceso completo a la Dune Marchand y a la Dune du Perroquet (fuera de temporada de nidificación en suelo abril-julio) y los extremos de la Plage de Malo-les-Bains abiertos todo el año. Febrero-marzo si quieres ver el Carnaval de Dunkerque (prepárate para la multitud densa)."}
+        {
+          "q": "¿Es Dunkerque una buena base para unas vacaciones pet-friendly en la Côte d'Opale?",
+          "a": "Sí, la combinación de los 12 km de costa dunar del Canal de Malo-les-Bains a Bray-Dunes (paseo dunar costero continuo más largo de la costa francesa del Canal), del Beffroi Saint-Éloi UNESCO, de los memoriales Operation Dynamo, de la red urbana DK'Bus 100% gratis, del ferry DFDS Dover directo desde Port-Est y del paso GR130 no vigilado hacia De Panne en Bélgica la convierten en la base evidente de cualquier road trip pet binacional en la costa francesa norte y belga."
+        },
+        {
+          "q": "¿Necesito bozal en público en Dunkerque?",
+          "a": "Solo para razas de categoría 1 y 2; las razas estándar solo necesitan correa. DK'Bus y los trenes TER exigen bozal para perros grandes; las travesías ferry DFDS Dover mantienen a las mascotas en el vehículo del cliente en la cubierta coches por lo que las exigencias de bozal quedan a la preferencia del propietario del vehículo."
+        },
+        {
+          "q": "¿Cuál es el mejor mes para Dunkerque con perro?",
+          "a": "Mayo-junio y septiembre-octubre: temperaturas suaves del Canal, menor humedad, menos gente, acceso completo a la Dune Marchand y a la Dune du Perroquet (fuera de temporada de nidificación en suelo abril-julio) y los extremos de la Plage de Malo-les-Bains abiertos todo el año. Febrero-marzo si quieres ver el Carnaval de Dunkerque (prepárate para la multitud densa)."
+        }
       ],
       "faqsPt": [
-        {"q": "Dunkerque é uma boa base para férias pet-friendly na Côte d'Opale?", "a": "Sim, a combinação dos 12 km de costa dunar do Canal de Malo-les-Bains a Bray-Dunes (passeio dunar costeiro contínuo mais longo da costa francesa do Canal), do Beffroi Saint-Éloi UNESCO, dos memoriais Operation Dynamo, da rede urbana DK'Bus 100% grátis, do ferry DFDS Dover directo desde Port-Est e da passagem GR130 não vigiada para De Panne na Bélgica fazem dela a base óbvia de qualquer road trip pet binacional na costa francesa norte e belga."},
-        {"q": "Preciso de açaime em público em Dunkerque?", "a": "Só para raças de categoria 1 e 2; as raças standard só precisam de trela. A DK'Bus e os comboios TER exigem açaime para cães grandes; as travessias ferry DFDS Dover mantêm os animais no veículo do cliente no convés dos carros por isso as exigências de açaime ficam à preferência do proprietário do veículo."},
-        {"q": "Qual é o melhor mês para Dunkerque com cão?", "a": "Maio-junho e setembro-outubro: temperaturas suaves do Canal, menor humidade, menos gente, acesso completo à Dune Marchand e à Dune du Perroquet (fora de época de nidificação no solo abril-julho) e as extremidades da Plage de Malo-les-Bains abertas o ano inteiro. Fevereiro-março se quiser ver o Carnaval de Dunkerque (prepare-se para a multidão densa)."}
+        {
+          "q": "Dunkerque é uma boa base para férias pet-friendly na Côte d'Opale?",
+          "a": "Sim, a combinação dos 12 km de costa dunar do Canal de Malo-les-Bains a Bray-Dunes (passeio dunar costeiro contínuo mais longo da costa francesa do Canal), do Beffroi Saint-Éloi UNESCO, dos memoriais Operation Dynamo, da rede urbana DK'Bus 100% grátis, do ferry DFDS Dover directo desde Port-Est e da passagem GR130 não vigiada para De Panne na Bélgica fazem dela a base óbvia de qualquer road trip pet binacional na costa francesa norte e belga."
+        },
+        {
+          "q": "Preciso de açaime em público em Dunkerque?",
+          "a": "Só para raças de categoria 1 e 2; as raças standard só precisam de trela. A DK'Bus e os comboios TER exigem açaime para cães grandes; as travessias ferry DFDS Dover mantêm os animais no veículo do cliente no convés dos carros por isso as exigências de açaime ficam à preferência do proprietário do veículo."
+        },
+        {
+          "q": "Qual é o melhor mês para Dunkerque com cão?",
+          "a": "Maio-junho e setembro-outubro: temperaturas suaves do Canal, menor humidade, menos gente, acesso completo à Dune Marchand e à Dune du Perroquet (fora de época de nidificação no solo abril-julho) e as extremidades da Plage de Malo-les-Bains abertas o ano inteiro. Fevereiro-março se quiser ver o Carnaval de Dunkerque (prepare-se para a multidão densa)."
+        }
       ]
     },
     "attractions": {
@@ -671,7 +896,7 @@
         {
           "name": "Beffroi Saint-Éloi (UNESCO)",
           "neighborhood": "Centre / Place Charles Valentin",
-          "photo": "/images/city-places/dunkerque-attractions-beffroi.jpg",
+          "photo": "/images/city-places/dunkerque-attractions-beffroi-saint-eloi-unesco.jpg",
           "website": "https://www.dunkerque-tourisme.fr/",
           "description": "The 58 m Beffroi Saint-Éloi, originally the 15th-century bell-tower of the Église Saint-Éloi (separated by fire in 1558) and now standalone on the Place Charles Valentin, is inscribed on the UNESCO World Heritage List as part of the Belfries of Belgium and France ensemble (2005). The carillon of 50 bells plays every quarter hour and a full concert on Sundays. Leashed dogs welcome on the Place Charles Valentin year-round; the belfry interior staircase admits only assistance dogs.",
           "descriptionFr": "Le Beffroi Saint-Éloi de 58 m, à l'origine clocher du 15e siècle de l'Église Saint-Éloi (séparé par incendie en 1558) et aujourd'hui isolé sur la Place Charles Valentin, est inscrit sur la Liste du patrimoine mondial de l'UNESCO comme partie de l'ensemble Beffrois de Belgique et de France (2005). Le carillon de 50 cloches joue tous les quarts d'heure et un concert complet le dimanche. Chiens en laisse bienvenus sur la Place Charles Valentin toute l'année ; l'escalier intérieur du beffroi n'admet que les chiens d'assistance.",
@@ -694,7 +919,7 @@
         {
           "name": "Mémorial du Souvenir / Mémorial Operation Dynamo",
           "neighborhood": "Bastion 32, Rue des Chantiers de France",
-          "photo": "/images/city-places/dunkerque-attractions-memorial-dynamo.jpg",
+          "photo": "/images/city-places/dunkerque-attractions-memorial-du-souvenir-memorial-operation-dynamo.jpg",
           "website": "https://www.dynamo-dunkerque.com/",
           "description": "The Mémorial du Souvenir and the Mémorial Operation Dynamo housed inside the 19th-century Bastion 32 fortifications trace the May-June 1940 evacuation of 338 226 Allied troops (British, French, Belgian, Dutch, Polish) from the Dunkerque beaches and harbour mole under continuous Luftwaffe bombing, the largest military evacuation in history. Leashed dogs welcome year-round in the outdoor Bastion 32 ramparts and on the seafront promenade towards the Mole and Plage de Malo-les-Bains; the indoor museum admits only assistance dogs.",
           "descriptionFr": "Le Mémorial du Souvenir et le Mémorial Operation Dynamo logés à l'intérieur des fortifications du Bastion 32 du 19e siècle retracent l'évacuation de mai-juin 1940 de 338 226 soldats alliés (Britanniques, Français, Belges, Néerlandais, Polonais) depuis les plages de Dunkerque et le môle du port sous bombardement continu de la Luftwaffe, la plus grande évacuation militaire de l'histoire. Chiens en laisse bienvenus toute l'année dans les remparts extérieurs du Bastion 32 et sur la promenade en front de mer vers le Môle et la Plage de Malo-les-Bains ; le musée intérieur n'admet que les chiens d'assistance.",
@@ -717,7 +942,7 @@
         {
           "name": "Musée Portuaire and Duchesse Anne sail-ship",
           "neighborhood": "Quai de la Citadelle / Bassin du Commerce",
-          "photo": "/images/city-places/dunkerque-attractions-musee-portuaire.jpg",
+          "photo": "/images/city-places/dunkerque-attractions-musee-portuaire-and-duchesse-anne-sail-ship.jpg",
           "website": "https://www.museeportuaire.com/",
           "description": "The Musée Portuaire on the Quai de la Citadelle, housed in a former 19th-century tobacco warehouse, retraces 1 200 years of Dunkerque port history through models, paintings and the daily-life material of the dockers and seafarers. Moored on the Bassin du Commerce immediately outside, the Duchesse Anne (1901), a four-masted German training barque, the Sandettie lightship and the Guilde fishing boat form a floating heritage fleet. Leashed dogs welcome on the Quai de la Citadelle and on the floating fleet pontoons year-round; the indoor museum and the ship interiors admit only assistance dogs.",
           "descriptionFr": "Le Musée Portuaire sur le Quai de la Citadelle, logé dans un ancien entrepôt de tabac du 19e siècle, retrace 1 200 ans d'histoire portuaire de Dunkerque à travers maquettes, peintures et matériel de la vie quotidienne des dockers et marins. Amarrés sur le Bassin du Commerce immédiatement à l'extérieur, la Duchesse Anne (1901), quatre-mâts barque-école allemand, le bateau-feu Sandettie et le bateau de pêche Guilde forment une flotte patrimoine flottante. Chiens en laisse bienvenus sur le Quai de la Citadelle et sur les pontons de la flotte flottante toute l'année ; l'intérieur du musée et l'intérieur des navires n'admettent que les chiens d'assistance.",
@@ -759,24 +984,60 @@
         "Combine o Beffroi Saint-Éloi UNESCO, a Église Saint-Éloi com a capela de sepultura do corsário Jean Bart, a Place Jean Bart e o cais do Musée Portuaire para um passeio no centro de 90 minutos a cobrir 600 anos de história de Dunkerque num raio de 500 m."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Mémorial Operation Dynamo?", "a": "Only assistance dogs may enter the indoor Bastion 32 museum; leashed pets are welcome on the outdoor Bastion 32 ramparts and on the seafront walk towards the Mole de Dunkerque where the 338 226 Allied troops were evacuated in 1940."},
-        {"q": "Can I climb the Beffroi Saint-Éloi with my dog?", "a": "The 58 m belfry interior staircase admits only assistance dogs; leashed pets are welcome on the Place Charles Valentin at its foot year-round, where you hear the 50-bell carillon every quarter hour and a full concert on Sundays at noon."},
-        {"q": "Is Dunkerque centre walkable with a dog?", "a": "Yes, the centre is fully pedestrian-friendly with flat paved alleys; the Place Jean Bart, Rue Clemenceau, Beffroi Saint-Éloi, Église Saint-Éloi, Quai de la Citadelle and Musée Portuaire all link in a 1.5 km walking loop, and the seafront of Malo-les-Bains is reachable in 25 min on foot or 8 min on the free DK'Bus."}
+        {
+          "q": "Are dogs allowed in the Mémorial Operation Dynamo?",
+          "a": "Only assistance dogs may enter the indoor Bastion 32 museum; leashed pets are welcome on the outdoor Bastion 32 ramparts and on the seafront walk towards the Mole de Dunkerque where the 338 226 Allied troops were evacuated in 1940."
+        },
+        {
+          "q": "Can I climb the Beffroi Saint-Éloi with my dog?",
+          "a": "The 58 m belfry interior staircase admits only assistance dogs; leashed pets are welcome on the Place Charles Valentin at its foot year-round, where you hear the 50-bell carillon every quarter hour and a full concert on Sundays at noon."
+        },
+        {
+          "q": "Is Dunkerque centre walkable with a dog?",
+          "a": "Yes, the centre is fully pedestrian-friendly with flat paved alleys; the Place Jean Bart, Rue Clemenceau, Beffroi Saint-Éloi, Église Saint-Éloi, Quai de la Citadelle and Musée Portuaire all link in a 1.5 km walking loop, and the seafront of Malo-les-Bains is reachable in 25 min on foot or 8 min on the free DK'Bus."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans le Mémorial Operation Dynamo ?", "a": "Seuls les chiens d'assistance peuvent entrer dans le musée intérieur du Bastion 32 ; les chiens en laisse sont bienvenus sur les remparts extérieurs du Bastion 32 et sur la promenade en front de mer vers le Môle de Dunkerque où les 338 226 soldats alliés ont été évacués en 1940."},
-        {"q": "Puis-je monter le Beffroi Saint-Éloi avec mon chien ?", "a": "L'escalier intérieur du beffroi de 58 m n'admet que les chiens d'assistance ; les chiens en laisse sont bienvenus sur la Place Charles Valentin à ses pieds toute l'année, où vous entendez le carillon de 50 cloches tous les quarts d'heure et un concert complet le dimanche à midi."},
-        {"q": "Le centre de Dunkerque est-il accessible à pied avec un chien ?", "a": "Oui, le centre est entièrement pet-friendly à pied avec des allées pavées plates ; la Place Jean Bart, la Rue Clemenceau, le Beffroi Saint-Éloi, l'Église Saint-Éloi, le Quai de la Citadelle et le Musée Portuaire forment une boucle de marche de 1,5 km, et le front de mer de Malo-les-Bains est joignable en 25 min à pied ou en 8 min en DK'Bus gratuit."}
+        {
+          "q": "Les chiens sont-ils autorisés dans le Mémorial Operation Dynamo ?",
+          "a": "Seuls les chiens d'assistance peuvent entrer dans le musée intérieur du Bastion 32 ; les chiens en laisse sont bienvenus sur les remparts extérieurs du Bastion 32 et sur la promenade en front de mer vers le Môle de Dunkerque où les 338 226 soldats alliés ont été évacués en 1940."
+        },
+        {
+          "q": "Puis-je monter le Beffroi Saint-Éloi avec mon chien ?",
+          "a": "L'escalier intérieur du beffroi de 58 m n'admet que les chiens d'assistance ; les chiens en laisse sont bienvenus sur la Place Charles Valentin à ses pieds toute l'année, où vous entendez le carillon de 50 cloches tous les quarts d'heure et un concert complet le dimanche à midi."
+        },
+        {
+          "q": "Le centre de Dunkerque est-il accessible à pied avec un chien ?",
+          "a": "Oui, le centre est entièrement pet-friendly à pied avec des allées pavées plates ; la Place Jean Bart, la Rue Clemenceau, le Beffroi Saint-Éloi, l'Église Saint-Éloi, le Quai de la Citadelle et le Musée Portuaire forment une boucle de marche de 1,5 km, et le front de mer de Malo-les-Bains est joignable en 25 min à pied ou en 8 min en DK'Bus gratuit."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en el Mémorial Operation Dynamo?", "a": "Solo los perros de asistencia pueden entrar en el museo interior del Bastion 32; los perros con correa son bienvenidos en los muros exteriores del Bastion 32 y en el paseo en frente marítimo hacia el Mole de Dunkerque donde los 338 226 soldados aliados fueron evacuados en 1940."},
-        {"q": "¿Puedo subir el Beffroi Saint-Éloi con mi perro?", "a": "La escalera interior del beffroi de 58 m solo admite perros de asistencia; los perros con correa son bienvenidos en la Place Charles Valentin a sus pies todo el año, donde oyes el carillón de 50 campanas cada cuarto de hora y un concierto completo el domingo a mediodía."},
-        {"q": "¿El centro de Dunkerque es accesible a pie con un perro?", "a": "Sí, el centro es enteramente pet-friendly a pie con avenidas pavimentadas llanas; la Place Jean Bart, la Rue Clemenceau, el Beffroi Saint-Éloi, la Église Saint-Éloi, el Quai de la Citadelle y el Musée Portuaire forman un bucle de paseo de 1,5 km, y el frente marítimo de Malo-les-Bains se alcanza en 25 min a pie o en 8 min en DK'Bus gratis."}
+        {
+          "q": "¿Se admiten perros en el Mémorial Operation Dynamo?",
+          "a": "Solo los perros de asistencia pueden entrar en el museo interior del Bastion 32; los perros con correa son bienvenidos en los muros exteriores del Bastion 32 y en el paseo en frente marítimo hacia el Mole de Dunkerque donde los 338 226 soldados aliados fueron evacuados en 1940."
+        },
+        {
+          "q": "¿Puedo subir el Beffroi Saint-Éloi con mi perro?",
+          "a": "La escalera interior del beffroi de 58 m solo admite perros de asistencia; los perros con correa son bienvenidos en la Place Charles Valentin a sus pies todo el año, donde oyes el carillón de 50 campanas cada cuarto de hora y un concierto completo el domingo a mediodía."
+        },
+        {
+          "q": "¿El centro de Dunkerque es accesible a pie con un perro?",
+          "a": "Sí, el centro es enteramente pet-friendly a pie con avenidas pavimentadas llanas; la Place Jean Bart, la Rue Clemenceau, el Beffroi Saint-Éloi, la Église Saint-Éloi, el Quai de la Citadelle y el Musée Portuaire forman un bucle de paseo de 1,5 km, y el frente marítimo de Malo-les-Bains se alcanza en 25 min a pie o en 8 min en DK'Bus gratis."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos no Mémorial Operation Dynamo?", "a": "Só os cães de assistência podem entrar no museu interior do Bastion 32; os cães com trela são bem-vindos nas muralhas exteriores do Bastion 32 e no passeio em frente marítima para o Mole de Dunkerque onde os 338 226 soldados aliados foram evacuados em 1940."},
-        {"q": "Posso subir o Beffroi Saint-Éloi com o meu cão?", "a": "A escada interior do beffroi de 58 m só admite cães de assistência; os cães com trela são bem-vindos na Place Charles Valentin aos seus pés o ano inteiro, onde ouve o carrilhão de 50 sinos a cada quarto de hora e um concerto completo ao domingo ao meio-dia."},
-        {"q": "O centro de Dunkerque é acessível a pé com um cão?", "a": "Sim, o centro é inteiramente pet-friendly a pé com alamedas pavimentadas planas; a Place Jean Bart, a Rue Clemenceau, o Beffroi Saint-Éloi, a Église Saint-Éloi, o Quai de la Citadelle e o Musée Portuaire formam um circuito de caminhada de 1,5 km, e a frente marítima de Malo-les-Bains atinge-se em 25 min a pé ou em 8 min em DK'Bus grátis."}
+        {
+          "q": "Os cães são admitidos no Mémorial Operation Dynamo?",
+          "a": "Só os cães de assistência podem entrar no museu interior do Bastion 32; os cães com trela são bem-vindos nas muralhas exteriores do Bastion 32 e no passeio em frente marítima para o Mole de Dunkerque onde os 338 226 soldados aliados foram evacuados em 1940."
+        },
+        {
+          "q": "Posso subir o Beffroi Saint-Éloi com o meu cão?",
+          "a": "A escada interior do beffroi de 58 m só admite cães de assistência; os cães com trela são bem-vindos na Place Charles Valentin aos seus pés o ano inteiro, onde ouve o carrilhão de 50 sinos a cada quarto de hora e um concerto completo ao domingo ao meio-dia."
+        },
+        {
+          "q": "O centro de Dunkerque é acessível a pé com um cão?",
+          "a": "Sim, o centro é inteiramente pet-friendly a pé com alamedas pavimentadas planas; a Place Jean Bart, a Rue Clemenceau, o Beffroi Saint-Éloi, a Église Saint-Éloi, o Quai de la Citadelle e o Musée Portuaire formam um circuito de caminhada de 1,5 km, e a frente marítima de Malo-les-Bains atinge-se em 25 min a pé ou em 8 min em DK'Bus grátis."
+        }
       ]
     },
     "petsitting": {
@@ -868,24 +1129,60 @@
         "Reserve com 4-6 semanas de antecedência para qualquer estadia durante o Carnaval de Dunkerque (fevereiro-março, seis fins-de-semana) quando a cidade se enche de 30 000 carnavaleiros em traje por fim-de-semana, e 2-3 semanas de antecedência para a época alta estival julho-agosto e em torno das grandes férias escolares UK quando o tráfego transmancha ferry DFDS Dover atinge o pico."
       ],
       "faqsEn": [
-        {"q": "How much does pet sitting cost in Dunkerque?", "a": "Expect EUR 18-26 per night for boarding and EUR 10-15 per 30-minute walk via Pawshake, Animaute or Holidog; rural boarding kennels around Bray-Dunes, Zuydcoote and the Côte d'Opale villages charge from EUR 20 per day."},
-        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Dunkerque hotels keep a short list of Pawshake and Holidog hosts who do evening drop-ins, useful for an L'Estouffade dinner on the Quai de la Citadelle or a sunset trip to the Dune du Perroquet at the Belgian border."},
-        {"q": "Do I need to bring my dog's food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset, particularly important if the dog has just done a DFDS Dover ferry or a TER crossing into the Dunkerque metropolitan area."}
+        {
+          "q": "How much does pet sitting cost in Dunkerque?",
+          "a": "Expect EUR 18-26 per night for boarding and EUR 10-15 per 30-minute walk via Pawshake, Animaute or Holidog; rural boarding kennels around Bray-Dunes, Zuydcoote and the Côte d'Opale villages charge from EUR 20 per day."
+        },
+        {
+          "q": "Can hotels recommend a sitter for an evening out?",
+          "a": "Yes, larger Dunkerque hotels keep a short list of Pawshake and Holidog hosts who do evening drop-ins, useful for an L'Estouffade dinner on the Quai de la Citadelle or a sunset trip to the Dune du Perroquet at the Belgian border."
+        },
+        {
+          "q": "Do I need to bring my dog's food to a sitter?",
+          "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset, particularly important if the dog has just done a DFDS Dover ferry or a TER crossing into the Dunkerque metropolitan area."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la garde à Dunkerque ?", "a": "Comptez 18-26 € par nuit en pension et 10-15 € par balade de 30 minutes via Pawshake, Animaute ou Holidog ; les pensions rurales autour de Bray-Dunes, Zuydcoote et des villages de la Côte d'Opale facturent à partir de 20 € par jour."},
-        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Dunkerque gardent une courte liste d'hôtes Pawshake et Holidog disponibles le soir, utile pour un dîner L'Estouffade sur le Quai de la Citadelle ou une sortie coucher de soleil à la Dune du Perroquet à la frontière belge."},
-        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs, particulièrement important si le chien vient de faire une traversée ferry DFDS Douvres ou un TER vers l'aire métropolitaine de Dunkerque."}
+        {
+          "q": "Combien coûte la garde à Dunkerque ?",
+          "a": "Comptez 18-26 € par nuit en pension et 10-15 € par balade de 30 minutes via Pawshake, Animaute ou Holidog ; les pensions rurales autour de Bray-Dunes, Zuydcoote et des villages de la Côte d'Opale facturent à partir de 20 € par jour."
+        },
+        {
+          "q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?",
+          "a": "Oui, les grands hôtels de Dunkerque gardent une courte liste d'hôtes Pawshake et Holidog disponibles le soir, utile pour un dîner L'Estouffade sur le Quai de la Citadelle ou une sortie coucher de soleil à la Dune du Perroquet à la frontière belge."
+        },
+        {
+          "q": "Dois-je apporter la nourriture du chien au sitter ?",
+          "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs, particulièrement important si le chien vient de faire une traversée ferry DFDS Douvres ou un TER vers l'aire métropolitaine de Dunkerque."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el cuidado de mascotas en Dunkerque?", "a": "Cuenta 18-26 € por noche en residencia y 10-15 € por paseo de 30 minutos vía Pawshake, Animaute o Holidog; las residencias rurales alrededor de Bray-Dunes, Zuydcoote y los pueblos de la Côte d'Opale cobran desde 20 € por día."},
-        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Dunkerque guardan una lista corta de anfitriones Pawshake y Holidog disponibles por la tarde, útil para una cena L'Estouffade en el Quai de la Citadelle o una salida al atardecer en la Dune du Perroquet en la frontera belga."},
-        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos, particularmente importante si el perro acaba de hacer una travesía ferry DFDS Dover o un TER al área metropolitana de Dunkerque."}
+        {
+          "q": "¿Cuánto cuesta el cuidado de mascotas en Dunkerque?",
+          "a": "Cuenta 18-26 € por noche en residencia y 10-15 € por paseo de 30 minutos vía Pawshake, Animaute o Holidog; las residencias rurales alrededor de Bray-Dunes, Zuydcoote y los pueblos de la Côte d'Opale cobran desde 20 € por día."
+        },
+        {
+          "q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?",
+          "a": "Sí, los grandes hoteles de Dunkerque guardan una lista corta de anfitriones Pawshake y Holidog disponibles por la tarde, útil para una cena L'Estouffade en el Quai de la Citadelle o una salida al atardecer en la Dune du Perroquet en la frontera belga."
+        },
+        {
+          "q": "¿Tengo que llevar la comida del perro al cuidador?",
+          "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos, particularmente importante si el perro acaba de hacer una travesía ferry DFDS Dover o un TER al área metropolitana de Dunkerque."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa o cuidado de animais em Dunkerque?", "a": "Conte 18-26 € por noite em creche e 10-15 € por passeio de 30 minutos via Pawshake, Animaute ou Holidog; as creches rurais em torno de Bray-Dunes, Zuydcoote e aldeias da Côte d'Opale cobram desde 20 € por dia."},
-        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Dunkerque guardam uma lista curta de anfitriões Pawshake e Holidog disponíveis à noite, útil para um jantar L'Estouffade no Quai de la Citadelle ou uma saída ao pôr-do-sol na Dune du Perroquet na fronteira belga."},
-        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos, particularmente importante se o cão acabou de fazer uma travessia ferry DFDS Dover ou um TER para a área metropolitana de Dunkerque."}
+        {
+          "q": "Quanto custa o cuidado de animais em Dunkerque?",
+          "a": "Conte 18-26 € por noite em creche e 10-15 € por passeio de 30 minutos via Pawshake, Animaute ou Holidog; as creches rurais em torno de Bray-Dunes, Zuydcoote e aldeias da Côte d'Opale cobram desde 20 € por dia."
+        },
+        {
+          "q": "Os hotéis podem recomendar um sitter para uma saída à noite?",
+          "a": "Sim, os grandes hotéis de Dunkerque guardam uma lista curta de anfitriões Pawshake e Holidog disponíveis à noite, útil para um jantar L'Estouffade no Quai de la Citadelle ou uma saída ao pôr-do-sol na Dune du Perroquet na fronteira belga."
+        },
+        {
+          "q": "Tenho de levar a comida do cão ao cuidador?",
+          "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos, particularmente importante se o cão acabou de fazer uma travessia ferry DFDS Dover ou um TER para a área metropolitana de Dunkerque."
+        }
       ]
     }
   }

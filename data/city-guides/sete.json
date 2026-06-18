@@ -71,7 +71,7 @@
           "name": "Le Petit Sète",
           "address": "Quai Maximin Licciardi, 34200 Sète",
           "neighborhood": "Pointe Courte",
-          "photo": "/images/city-places/sete-restaurants-petit-sete.jpg",
+          "photo": "/images/city-places/sete-restaurants-le-petit-sete.jpg",
           "website": "https://www.facebook.com/lepetitsete",
           "description": "A working fishermen's bistro at the entrance of the Pointe Courte fishing quarter (made famous by Agnès Varda's 1955 film), serving fresh-off-the-boat catch (sardines, encornets, octopus tielle) at fair prices on a canal-side terrace. Leashed dogs are welcome year-round and the owner keeps a stash of dog treats behind the bar.",
           "descriptionFr": "Bistrot de pêcheurs en activité à l'entrée du quartier de pêche de la Pointe Courte (rendu célèbre par le film d'Agnès Varda de 1955), servant le poisson tout juste débarqué (sardines, encornets, tielle au poulpe) à prix justes sur une terrasse au bord du canal. Les chiens en laisse sont bienvenus toute l'année et le patron garde des friandises pour chiens derrière le bar.",
@@ -115,24 +115,60 @@
         "As esplanadas do Quai de la Résistance viram-se para o Canal Royal e apanham a brisa do início da noite; chegue antes das 19:30 para o pôr-do-sol sobre os barcos de justa de vela latina amarrados ao longo do canal."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside Sète restaurants?", "a": "Leashed dogs are welcome on virtually every quay-side terrace in the centre. Air-conditioned indoor rooms in July-August often prefer dogs outside; ask at the door."},
-        {"q": "Do restaurants provide water bowls?", "a": "Most terraces bring a bowl unprompted; otherwise asking for une gamelle d'eau pour le chien always works."},
-        {"q": "Where is the best canal-view dinner with a dog?", "a": "The Quai de la Résistance esplanades face the Canal Royal where the lateen-sail jousting boats moor; a terrace there at sunset is the local ritual."}
+        {
+          "q": "Are dogs allowed inside Sète restaurants?",
+          "a": "Leashed dogs are welcome on virtually every quay-side terrace in the centre. Air-conditioned indoor rooms in July-August often prefer dogs outside; ask at the door."
+        },
+        {
+          "q": "Do restaurants provide water bowls?",
+          "a": "Most terraces bring a bowl unprompted; otherwise asking for une gamelle d'eau pour le chien always works."
+        },
+        {
+          "q": "Where is the best canal-view dinner with a dog?",
+          "a": "The Quai de la Résistance esplanades face the Canal Royal where the lateen-sail jousting boats moor; a terrace there at sunset is the local ritual."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Sète ?", "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses des quais du centre. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors ; demandez à l'entrée."},
-        {"q": "Les restaurants fournissent-ils des gamelles d'eau ?", "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander une gamelle d'eau pour le chien fonctionne toujours."},
-        {"q": "Où dîner avec vue sur canal avec un chien ?", "a": "Les esplanades du Quai de la Résistance font face au Canal Royal où s'amarrent les barques de joute à voile latine ; une terrasse là au coucher de soleil est le rituel local."}
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Sète ?",
+          "a": "Les chiens en laisse sont bienvenus sur quasiment toutes les terrasses des quais du centre. Les salles climatisées en juillet-août préfèrent souvent les chiens dehors ; demandez à l'entrée."
+        },
+        {
+          "q": "Les restaurants fournissent-ils des gamelles d'eau ?",
+          "a": "La plupart des terrasses apportent une gamelle spontanément ; sinon, demander une gamelle d'eau pour le chien fonctionne toujours."
+        },
+        {
+          "q": "Où dîner avec vue sur canal avec un chien ?",
+          "a": "Les esplanades du Quai de la Résistance font face au Canal Royal où s'amarrent les barques de joute à voile latine ; une terrasse là au coucher de soleil est le rituel local."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Sète?", "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas de los muelles del centro. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera; pregunta en la entrada."},
-        {"q": "¿Los restaurantes ofrecen cuencos de agua?", "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir une gamelle d'eau pour le chien siempre funciona."},
-        {"q": "¿Dónde cenar con vista al canal con un perro?", "a": "Las explanadas del Quai de la Résistance miran al Canal Royal donde amarran las barcas de justa de vela latina; una terraza allí al atardecer es el ritual local."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Sète?",
+          "a": "Los perros con correa son bienvenidos en prácticamente todas las terrazas de los muelles del centro. Los comedores con aire acondicionado en julio-agosto suelen preferir a los perros fuera; pregunta en la entrada."
+        },
+        {
+          "q": "¿Los restaurantes ofrecen cuencos de agua?",
+          "a": "La mayoría de las terrazas traen un cuenco espontáneamente; si no, pedir une gamelle d'eau pour le chien siempre funciona."
+        },
+        {
+          "q": "¿Dónde cenar con vista al canal con un perro?",
+          "a": "Las explanadas del Quai de la Résistance miran al Canal Royal donde amarran las barcas de justa de vela latina; una terraza allí al atardecer es el ritual local."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos dentro dos restaurantes de Sète?", "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas dos cais do centro. As salas com ar condicionado em julho-agosto costumam preferir os cães fora; pergunte à entrada."},
-        {"q": "Os restaurantes oferecem taças de água?", "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir une gamelle d'eau pour le chien funciona sempre."},
-        {"q": "Onde jantar com vista para o canal com um cão?", "a": "As esplanadas do Quai de la Résistance viram-se para o Canal Royal onde amarram os barcos de justa de vela latina; uma esplanada ali ao pôr-do-sol é o ritual local."}
+        {
+          "q": "Os cães são admitidos dentro dos restaurantes de Sète?",
+          "a": "Cães com trela são bem-vindos em praticamente todas as esplanadas dos cais do centro. As salas com ar condicionado em julho-agosto costumam preferir os cães fora; pergunte à entrada."
+        },
+        {
+          "q": "Os restaurantes oferecem taças de água?",
+          "a": "A maioria das esplanadas traz uma taça espontaneamente; caso contrário, pedir une gamelle d'eau pour le chien funciona sempre."
+        },
+        {
+          "q": "Onde jantar com vista para o canal com um cão?",
+          "a": "As esplanadas do Quai de la Résistance viram-se para o Canal Royal onde amarram os barcos de justa de vela latina; uma esplanada ali ao pôr-do-sol é o ritual local."
+        }
       ]
     },
     "parks": {
@@ -149,7 +185,7 @@
           "name": "Mont Saint-Clair and Bois des Pierres Blanches",
           "address": "Chemin du Belvédère, 34200 Sète",
           "neighborhood": "Mont Saint-Clair (175 m)",
-          "photo": "/images/city-places/sete-parks-mont-saint-clair.jpg",
+          "photo": "/images/city-places/sete-parks-mont-saint-clair-and-bois-des-pierres-blanches.jpg",
           "website": "https://www.tourisme-sete.com/",
           "description": "The 175 m wooded hill rising directly above the centre offers a 35-hectare protected pine forest (Bois des Pierres Blanches) with marked walking trails, two panoramic viewpoints (Mont Saint-Clair summit and Pierres Blanches belvedere) that look across to the Étang de Thau and the Pyrenees on clear days. Leashed dogs welcome on all trails year-round.",
           "descriptionFr": "La colline boisée de 175 m s'élevant directement au-dessus du centre offre une pinède protégée de 35 hectares (Bois des Pierres Blanches) avec sentiers balisés, deux belvédères panoramiques (sommet du Mont Saint-Clair et belvédère des Pierres Blanches) qui regardent vers l'étang de Thau et les Pyrénées par temps clair. Chiens en laisse bienvenus sur tous les sentiers toute l'année.",
@@ -175,7 +211,7 @@
           "name": "Promenade de la Corniche",
           "address": "Promenade Maréchal Leclerc, 34200 Sète",
           "neighborhood": "Corniche (south of centre)",
-          "photo": "/images/city-places/sete-parks-corniche.jpg",
+          "photo": "/images/city-places/sete-parks-promenade-de-la-corniche.jpg",
           "website": "https://www.tourisme-sete.com/",
           "description": "A 12 km flat paved promenade running south from the centre along the Plage de la Corniche, with continuous sea views, shaded benches every 200 m, palm-tree avenues and direct beach access at every break. The full route reaches as far as the Plage du Lido. Leashed dogs welcome year-round; the beach side opens to dogs October-May.",
           "descriptionFr": "Promenade pavée plate de 12 km descendant vers le sud depuis le centre le long de la Plage de la Corniche, avec vue mer continue, bancs ombragés tous les 200 m, allées de palmiers et accès direct à la plage à chaque interruption. L'itinéraire complet va jusqu'à la Plage du Lido. Chiens en laisse bienvenus toute l'année ; le côté plage s'ouvre aux chiens d'octobre à mai.",
@@ -201,7 +237,7 @@
           "name": "Étang de Thau shore at Les Eaux Blanches",
           "address": "Avenue Aristide Briand, 34200 Sète",
           "neighborhood": "Les Eaux Blanches (north of centre)",
-          "photo": "/images/city-places/sete-parks-etang-thau.jpg",
+          "photo": "/images/city-places/sete-parks-etang-de-thau-shore-at-les-eaux-blanches.jpg",
           "website": "https://www.tourisme-sete.com/",
           "description": "A wide-open lagoon shore on the northern edge of Sète facing the Bouzigues and Mèze oyster tables, with calm shallow water, a flat unpaved walking path along the reed bed and direct views of the Mont Saint-Clair from across the lagoon. Leashed dogs welcome year-round; a quiet alternative to the Corniche when the Mediterranean sea is rough.",
           "descriptionFr": "Rive lagunaire grande ouverte au nord de Sète face aux tables ostréicoles de Bouzigues et Mèze, avec eau calme et peu profonde, sentier plat non pavé le long de la roselière et vue directe sur le Mont Saint-Clair depuis l'autre rive du lagon. Chiens en laisse bienvenus toute l'année ; alternative calme à la Corniche quand la Méditerranée est agitée.",
@@ -245,24 +281,60 @@
         "A Promenade de la Corniche é o passeio canino mais fácil o ano inteiro em Sète; os 3 km centrais do Théâtre de la Mer ao Lazaret são inteiramente pavimentados e confortáveis para carrinho e para patas."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed on Mont Saint-Clair?", "a": "Yes, leashed dogs are welcome on every Bois des Pierres Blanches forest trail and on both summit viewing terraces (Mont Saint-Clair and Pierres Blanches) year-round."},
-        {"q": "Is there an off-leash dog park in Sète?", "a": "Sète does not have a fully fenced off-leash park inside the city; locals use the off-season Plage de la Corniche or the Pointe Courte canal end for off-leash freedom October-May."},
-        {"q": "Where can I find shaded walks in midsummer?", "a": "The Bois des Pierres Blanches pine forest above the Mont Saint-Clair summit and the palm-tree-lined Promenade de la Corniche near the Lazaret are the most consistently shaded options July-August."}
+        {
+          "q": "Are dogs allowed on Mont Saint-Clair?",
+          "a": "Yes, leashed dogs are welcome on every Bois des Pierres Blanches forest trail and on both summit viewing terraces (Mont Saint-Clair and Pierres Blanches) year-round."
+        },
+        {
+          "q": "Is there an off-leash dog park in Sète?",
+          "a": "Sète does not have a fully fenced off-leash park inside the city; locals use the off-season Plage de la Corniche or the Pointe Courte canal end for off-leash freedom October-May."
+        },
+        {
+          "q": "Where can I find shaded walks in midsummer?",
+          "a": "The Bois des Pierres Blanches pine forest above the Mont Saint-Clair summit and the palm-tree-lined Promenade de la Corniche near the Lazaret are the most consistently shaded options July-August."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés sur le Mont Saint-Clair ?", "a": "Oui, les chiens en laisse sont bienvenus sur tous les sentiers forestiers du Bois des Pierres Blanches et sur les deux belvédères sommitaux (Mont Saint-Clair et Pierres Blanches) toute l'année."},
-        {"q": "Y a-t-il un parc canin sans laisse à Sète ?", "a": "Sète n'a pas de parc sans laisse entièrement clôturé en ville ; les locaux utilisent la Plage de la Corniche hors saison ou la pointe du canal de la Pointe Courte pour la liberté sans laisse d'octobre à mai."},
-        {"q": "Où trouver des promenades ombragées en plein été ?", "a": "La pinède du Bois des Pierres Blanches au-dessus du sommet du Mont Saint-Clair et la Promenade de la Corniche bordée de palmiers près du Lazaret sont les options les plus régulièrement ombragées en juillet-août."}
+        {
+          "q": "Les chiens sont-ils autorisés sur le Mont Saint-Clair ?",
+          "a": "Oui, les chiens en laisse sont bienvenus sur tous les sentiers forestiers du Bois des Pierres Blanches et sur les deux belvédères sommitaux (Mont Saint-Clair et Pierres Blanches) toute l'année."
+        },
+        {
+          "q": "Y a-t-il un parc canin sans laisse à Sète ?",
+          "a": "Sète n'a pas de parc sans laisse entièrement clôturé en ville ; les locaux utilisent la Plage de la Corniche hors saison ou la pointe du canal de la Pointe Courte pour la liberté sans laisse d'octobre à mai."
+        },
+        {
+          "q": "Où trouver des promenades ombragées en plein été ?",
+          "a": "La pinède du Bois des Pierres Blanches au-dessus du sommet du Mont Saint-Clair et la Promenade de la Corniche bordée de palmiers près du Lazaret sont les options les plus régulièrement ombragées en juillet-août."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en el Mont Saint-Clair?", "a": "Sí, los perros con correa son bienvenidos en todos los senderos forestales del Bois des Pierres Blanches y en los dos miradores cimeros (Mont Saint-Clair y Pierres Blanches) todo el año."},
-        {"q": "¿Hay un parque canino sin correa en Sète?", "a": "Sète no tiene un parque sin correa enteramente vallado en la ciudad; los locales usan la Plage de la Corniche fuera de temporada o la punta del canal de la Pointe Courte para la libertad sin correa de octubre a mayo."},
-        {"q": "¿Dónde encontrar paseos sombreados en pleno verano?", "a": "El pinar del Bois des Pierres Blanches sobre la cima del Mont Saint-Clair y la Promenade de la Corniche bordeada de palmeras cerca del Lazaret son las opciones más constantemente sombreadas en julio-agosto."}
+        {
+          "q": "¿Se admiten perros en el Mont Saint-Clair?",
+          "a": "Sí, los perros con correa son bienvenidos en todos los senderos forestales del Bois des Pierres Blanches y en los dos miradores cimeros (Mont Saint-Clair y Pierres Blanches) todo el año."
+        },
+        {
+          "q": "¿Hay un parque canino sin correa en Sète?",
+          "a": "Sète no tiene un parque sin correa enteramente vallado en la ciudad; los locales usan la Plage de la Corniche fuera de temporada o la punta del canal de la Pointe Courte para la libertad sin correa de octubre a mayo."
+        },
+        {
+          "q": "¿Dónde encontrar paseos sombreados en pleno verano?",
+          "a": "El pinar del Bois des Pierres Blanches sobre la cima del Mont Saint-Clair y la Promenade de la Corniche bordeada de palmeras cerca del Lazaret son las opciones más constantemente sombreadas en julio-agosto."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos no Mont Saint-Clair?", "a": "Sim, os cães com trela são bem-vindos em todos os trilhos florestais do Bois des Pierres Blanches e em ambos os miradouros do cume (Mont Saint-Clair e Pierres Blanches) o ano inteiro."},
-        {"q": "Há um parque canino sem trela em Sète?", "a": "Sète não tem um parque sem trela inteiramente vedado na cidade; os locais usam a Plage de la Corniche fora de época ou a ponta do canal da Pointe Courte para a liberdade sem trela de outubro a maio."},
-        {"q": "Onde encontrar passeios sombreados em pleno verão?", "a": "O pinhal do Bois des Pierres Blanches sobre o cume do Mont Saint-Clair e a Promenade de la Corniche orlada de palmeiras perto do Lazaret são as opções mais consistentemente sombreadas em julho-agosto."}
+        {
+          "q": "Os cães são admitidos no Mont Saint-Clair?",
+          "a": "Sim, os cães com trela são bem-vindos em todos os trilhos florestais do Bois des Pierres Blanches e em ambos os miradouros do cume (Mont Saint-Clair e Pierres Blanches) o ano inteiro."
+        },
+        {
+          "q": "Há um parque canino sem trela em Sète?",
+          "a": "Sète não tem um parque sem trela inteiramente vedado na cidade; os locais usam a Plage de la Corniche fora de época ou a ponta do canal da Pointe Courte para a liberdade sem trela de outubro a maio."
+        },
+        {
+          "q": "Onde encontrar passeios sombreados em pleno verão?",
+          "a": "O pinhal do Bois des Pierres Blanches sobre o cume do Mont Saint-Clair e a Promenade de la Corniche orlada de palmeiras perto do Lazaret são as opções mais consistentemente sombreadas em julho-agosto."
+        }
       ]
     },
     "transport": {
@@ -279,7 +351,7 @@
           "name": "SNCF Gare de Sète (TGV / Intercités / TER)",
           "address": "Quai Maximin Licciardi, 34200 Sète",
           "neighborhood": "Centre / Pointe Courte",
-          "photo": "/images/city-places/sete-transport-gare-sncf.jpg",
+          "photo": "/images/city-places/sete-transport-sncf-gare-de-sete-tgv-intercites-ter.jpg",
           "website": "https://www.sncf-connect.com/",
           "description": "Sète's main rail station sits directly on the canal between the historic centre and the Pointe Courte fishing quarter, on the SNCF Paris-Toulouse-Barcelona axis with direct TGV to Paris Montparnasse (3h50), Intercités to Bordeaux and frequent TER to Montpellier (25 min), Béziers (15 min) and Narbonne (40 min). Small dogs in carriers travel EUR 7 flat; larger leashed dogs need a muzzle and pay EUR 7.",
           "descriptionFr": "La gare principale de Sète est directement sur le canal entre le centre historique et le quartier de pêche de la Pointe Courte, sur l'axe SNCF Paris-Toulouse-Barcelone avec TGV direct vers Paris Montparnasse (3h50), Intercités vers Bordeaux et TER fréquents vers Montpellier (25 min), Béziers (15 min) et Narbonne (40 min). Petits chiens en cage 7 € forfait ; grands chiens en laisse muselés 7 €.",
@@ -295,7 +367,7 @@
           "name": "Mobilité Sète Agglopôle municipal bus",
           "address": "Place Aristide Briand, 34200 Sète",
           "neighborhood": "Centre-ville",
-          "photo": "/images/city-places/sete-transport-mobilite.jpg",
+          "photo": "/images/city-places/sete-transport-mobilite-sete-agglopole-municipal-bus.jpg",
           "website": "https://www.mobilite.agglopole.fr/",
           "description": "The Mobilité Sète Agglopôle municipal bus network covers the historic centre, the Mont Saint-Clair summit (line 5 climbs the hill), the SNCF station, the Plage de la Corniche, and the wider Sète Agglopôle Méditerranée including Frontignan and Marseillan. Single fare EUR 1; small dogs in carriers ride free, large leashed and muzzled dogs accepted at the driver's discretion.",
           "descriptionFr": "Le réseau de bus municipal Mobilité Sète Agglopôle couvre le centre historique, le sommet du Mont Saint-Clair (la ligne 5 grimpe la colline), la gare SNCF, la Plage de la Corniche, et l'agglomération Sète Agglopôle Méditerranée incluant Frontignan et Marseillan. Tarif unique 1 € ; petits chiens en cage gratuits, grands chiens en laisse muselés acceptés à la discrétion du chauffeur.",
@@ -311,7 +383,7 @@
           "name": "Sète-Mèze passenger ferry across the Étang de Thau",
           "address": "Quai d'Alger, 34200 Sète",
           "neighborhood": "Centre / port",
-          "photo": "/images/city-places/sete-transport-ferry-meze.jpg",
+          "photo": "/images/city-places/sete-transport-sete-meze-passenger-ferry-across-the-etang-de-thau.jpg",
           "website": "https://www.mobilite.agglopole.fr/",
           "description": "A year-round passenger ferry crosses the Étang de Thau from Sète to Mèze (30 min), an unusual rural water commute giving direct access to the Bouzigues oyster villages on the northern lagoon shore. Small dogs in carriers ride free; large leashed dogs welcome on the open-air upper deck with a muzzle.",
           "descriptionFr": "Un ferry voyageurs toute l'année traverse l'étang de Thau de Sète à Mèze (30 min), un commute rural inhabituel par voie d'eau donnant un accès direct aux villages ostréicoles de Bouzigues sur la rive nord du lagon. Petits chiens en cage gratuits ; grands chiens en laisse bienvenus sur le pont supérieur en plein air avec muselière.",
@@ -345,24 +417,60 @@
         "A linha 5 da Mobilité sobe o Mont Saint-Clair até ao cume Notre-Dame de la Salette; mais barata do que um táxi (12 €) e a opção pet-friendly mais fácil para o miradouro panorâmico sem carro."
       ],
       "faqsEn": [
-        {"q": "Do I need a muzzle for my dog on the train to Paris?", "a": "Yes, larger dogs not in a carrier must wear a muzzle on all SNCF trains for the EUR 7 flat fare. Small dogs in closed carriers are exempt and pay the same EUR 7."},
-        {"q": "Can I take my dog on the ferry to Mèze?", "a": "Yes, the year-round Sète-Mèze ferry across the Étang de Thau accepts small dogs in carriers free and large leashed muzzled dogs on the open-air upper deck."},
-        {"q": "What is the closest airport to Sète?", "a": "Montpellier-Méditerranée MPL is 30 km north-east (Air France, easyJet, Volotea); Béziers BZR Ryanair hub is 50 km west. Both terminals accept leashed dogs in public areas."}
+        {
+          "q": "Do I need a muzzle for my dog on the train to Paris?",
+          "a": "Yes, larger dogs not in a carrier must wear a muzzle on all SNCF trains for the EUR 7 flat fare. Small dogs in closed carriers are exempt and pay the same EUR 7."
+        },
+        {
+          "q": "Can I take my dog on the ferry to Mèze?",
+          "a": "Yes, the year-round Sète-Mèze ferry across the Étang de Thau accepts small dogs in carriers free and large leashed muzzled dogs on the open-air upper deck."
+        },
+        {
+          "q": "What is the closest airport to Sète?",
+          "a": "Montpellier-Méditerranée MPL is 30 km north-east (Air France, easyJet, Volotea); Béziers BZR Ryanair hub is 50 km west. Both terminals accept leashed dogs in public areas."
+        }
       ],
       "faqsFr": [
-        {"q": "Ai-je besoin d'une muselière dans le train pour Paris ?", "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans tous les trains SNCF pour le tarif forfaitaire 7 €. Les petits chiens en cage fermée en sont exemptés et paient le même 7 €."},
-        {"q": "Puis-je prendre le ferry pour Mèze avec mon chien ?", "a": "Oui, le ferry Sète-Mèze toute l'année à travers l'étang de Thau accepte les petits chiens en cage gratuitement et les grands chiens en laisse muselés sur le pont supérieur en plein air."},
-        {"q": "Quel est l'aéroport le plus proche de Sète ?", "a": "Montpellier-Méditerranée MPL est à 30 km au nord-est (Air France, easyJet, Volotea) ; le hub Ryanair Béziers BZR est à 50 km à l'ouest. Les deux terminaux acceptent les chiens en laisse dans les zones publiques."}
+        {
+          "q": "Ai-je besoin d'une muselière dans le train pour Paris ?",
+          "a": "Oui, les chiens plus grands non en cage doivent porter une muselière dans tous les trains SNCF pour le tarif forfaitaire 7 €. Les petits chiens en cage fermée en sont exemptés et paient le même 7 €."
+        },
+        {
+          "q": "Puis-je prendre le ferry pour Mèze avec mon chien ?",
+          "a": "Oui, le ferry Sète-Mèze toute l'année à travers l'étang de Thau accepte les petits chiens en cage gratuitement et les grands chiens en laisse muselés sur le pont supérieur en plein air."
+        },
+        {
+          "q": "Quel est l'aéroport le plus proche de Sète ?",
+          "a": "Montpellier-Méditerranée MPL est à 30 km au nord-est (Air France, easyJet, Volotea) ; le hub Ryanair Béziers BZR est à 50 km à l'ouest. Les deux terminaux acceptent les chiens en laisse dans les zones publiques."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Necesito bozal para mi perro en el tren a París?", "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en todos los trenes SNCF por la tarifa fija de 7 €. Los perros pequeños en transportín cerrado están exentos y pagan los mismos 7 €."},
-        {"q": "¿Puedo coger el ferry a Mèze con mi perro?", "a": "Sí, el ferry Sète-Mèze todo el año a través del Étang de Thau admite perros pequeños en transportín gratis y a los grandes con correa con bozal en la cubierta superior al aire libre."},
-        {"q": "¿Cuál es el aeropuerto más cercano a Sète?", "a": "Montpellier-Méditerranée MPL está a 30 km al noreste (Air France, easyJet, Volotea); el hub Ryanair Béziers BZR a 50 km al oeste. Ambos terminales admiten perros con correa en zonas públicas."}
+        {
+          "q": "¿Necesito bozal para mi perro en el tren a París?",
+          "a": "Sí, los perros más grandes que no van en transportín deben llevar bozal en todos los trenes SNCF por la tarifa fija de 7 €. Los perros pequeños en transportín cerrado están exentos y pagan los mismos 7 €."
+        },
+        {
+          "q": "¿Puedo coger el ferry a Mèze con mi perro?",
+          "a": "Sí, el ferry Sète-Mèze todo el año a través del Étang de Thau admite perros pequeños en transportín gratis y a los grandes con correa con bozal en la cubierta superior al aire libre."
+        },
+        {
+          "q": "¿Cuál es el aeropuerto más cercano a Sète?",
+          "a": "Montpellier-Méditerranée MPL está a 30 km al noreste (Air France, easyJet, Volotea); el hub Ryanair Béziers BZR a 50 km al oeste. Ambos terminales admiten perros con correa en zonas públicas."
+        }
       ],
       "faqsPt": [
-        {"q": "Preciso de açaime para o meu cão no comboio para Paris?", "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime em todos os comboios SNCF pela tarifa fixa de 7 €. Os cães pequenos em transportadora fechada estão isentos e pagam os mesmos 7 €."},
-        {"q": "Posso apanhar o ferry para Mèze com o meu cão?", "a": "Sim, o ferry Sète-Mèze o ano inteiro através do Étang de Thau aceita cães pequenos em transportadora grátis e os grandes com trela e açaime no convés superior ao ar livre."},
-        {"q": "Qual é o aeroporto mais próximo de Sète?", "a": "Montpellier-Méditerranée MPL fica a 30 km a nordeste (Air France, easyJet, Volotea); o hub Ryanair Béziers BZR a 50 km a oeste. Ambos os terminais aceitam cães com trela em zonas públicas."}
+        {
+          "q": "Preciso de açaime para o meu cão no comboio para Paris?",
+          "a": "Sim, os cães maiores que não vão em transportadora têm de usar açaime em todos os comboios SNCF pela tarifa fixa de 7 €. Os cães pequenos em transportadora fechada estão isentos e pagam os mesmos 7 €."
+        },
+        {
+          "q": "Posso apanhar o ferry para Mèze com o meu cão?",
+          "a": "Sim, o ferry Sète-Mèze o ano inteiro através do Étang de Thau aceita cães pequenos em transportadora grátis e os grandes com trela e açaime no convés superior ao ar livre."
+        },
+        {
+          "q": "Qual é o aeroporto mais próximo de Sète?",
+          "a": "Montpellier-Méditerranée MPL fica a 30 km a nordeste (Air France, easyJet, Volotea); o hub Ryanair Béziers BZR a 50 km a oeste. Ambos os terminais aceitam cães com trela em zonas públicas."
+        }
       ]
     },
     "beaches": {
@@ -383,7 +491,7 @@
           "rules": "Off-leash dog beach at Lazaret year-round; leashed elsewhere; summer lifeguard zone restricts pets",
           "facilities": "Free parking, café-restaurants, lifeguarded summer zone, Mobilité bus stop, off-leash Lazaret signage",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+Corniche+Lazaret+Sete",
-          "photo": "/images/city-places/sete-beaches-corniche-lazaret.jpg"
+          "photo": "/images/city-places/sete-beaches-plage-de-la-corniche-and-the-lazaret-dog-beach.jpg"
         },
         {
           "name": "Lido sandbank towards Marseillan-Plage",
@@ -393,7 +501,7 @@
           "rules": "Leashed dogs year-round at the natural ends; lifeguarded zones restrict pets in summer",
           "facilities": "Free parking, naturist sections, dune trail behind the beach, no facilities at the wildest stretches",
           "googleMapsUrl": "https://maps.google.com/?q=Lido+Sete+Marseillan",
-          "photo": "/images/city-places/sete-beaches-lido.jpg"
+          "photo": "/images/city-places/sete-beaches-lido-sandbank-towards-marseillan-plage.jpg"
         },
         {
           "name": "Étang de Thau lagoon shore at Les Eaux Blanches",
@@ -403,7 +511,7 @@
           "rules": "Leashed dogs welcome along the shore year-round; off-leash tolerated outside summer swim season",
           "facilities": "Free parking, oyster shacks at Bouzigues 8 km west, no lifeguard, no fountains",
           "googleMapsUrl": "https://maps.google.com/?q=Etang+Thau+Eaux+Blanches+Sete",
-          "photo": "/images/city-places/sete-beaches-thau.jpg"
+          "photo": "/images/city-places/sete-beaches-etang-de-thau-lagoon-shore-at-les-eaux-blanches.jpg"
         }
       ],
       "tipsEn": [
@@ -427,24 +535,60 @@
         "A época baixa (outubro-maio) é o segredo dos donos locais; as regras de vigilância afrouxam e toda a Plage de la Corniche de 12 km e o banco arenoso do Lido de 18 km abrem-se aos passeios caninos ao amanhecer sem trela."
       ],
       "faqsEn": [
-        {"q": "Where is the best dog beach in Sète?", "a": "The Lazaret plage canine at the southern end of the Plage de la Corniche is the only year-round off-leash Mediterranean dog beach inside Sète municipality, reachable by Mobilité bus from the centre in 15 minutes."},
-        {"q": "Are dogs allowed on the Plage de la Corniche in summer?", "a": "Leashed dogs are welcome at the southern Lazaret plage canine year-round (off-leash there); the central lifeguarded zone restricts pets June 15-September 15. Off-leash is tolerated October-May along the full 12 km strip."},
-        {"q": "Can I swim my dog in the Étang de Thau?", "a": "Yes, the Étang de Thau lagoon shore at Les Eaux Blanches offers calm shallow water 24-26 °C in summer, ideal for dogs nervous of Mediterranean swell. Leashed dogs welcome year-round."}
+        {
+          "q": "Where is the best dog beach in Sète?",
+          "a": "The Lazaret plage canine at the southern end of the Plage de la Corniche is the only year-round off-leash Mediterranean dog beach inside Sète municipality, reachable by Mobilité bus from the centre in 15 minutes."
+        },
+        {
+          "q": "Are dogs allowed on the Plage de la Corniche in summer?",
+          "a": "Leashed dogs are welcome at the southern Lazaret plage canine year-round (off-leash there); the central lifeguarded zone restricts pets June 15-September 15. Off-leash is tolerated October-May along the full 12 km strip."
+        },
+        {
+          "q": "Can I swim my dog in the Étang de Thau?",
+          "a": "Yes, the Étang de Thau lagoon shore at Les Eaux Blanches offers calm shallow water 24-26 °C in summer, ideal for dogs nervous of Mediterranean swell. Leashed dogs welcome year-round."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est la meilleure plage canine à Sète ?", "a": "La plage canine du Lazaret à l'extrémité sud de la Plage de la Corniche est la seule plage canine méditerranéenne sans laisse toute l'année dans la commune de Sète, accessible en bus Mobilité depuis le centre en 15 minutes."},
-        {"q": "Les chiens sont-ils autorisés sur la Plage de la Corniche en été ?", "a": "Les chiens en laisse sont bienvenus à la plage canine sud du Lazaret toute l'année (sans laisse là-bas) ; la zone surveillée centrale restreint les animaux du 15 juin au 15 septembre. Le lâcher est toléré d'octobre à mai sur toute la bande de 12 km."},
-        {"q": "Puis-je faire nager mon chien dans l'étang de Thau ?", "a": "Oui, la rive de l'étang de Thau aux Eaux Blanches offre une eau calme et peu profonde à 24-26 °C en été, idéale pour les chiens nerveux face à la houle méditerranéenne. Chiens en laisse bienvenus toute l'année."}
+        {
+          "q": "Où est la meilleure plage canine à Sète ?",
+          "a": "La plage canine du Lazaret à l'extrémité sud de la Plage de la Corniche est la seule plage canine méditerranéenne sans laisse toute l'année dans la commune de Sète, accessible en bus Mobilité depuis le centre en 15 minutes."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés sur la Plage de la Corniche en été ?",
+          "a": "Les chiens en laisse sont bienvenus à la plage canine sud du Lazaret toute l'année (sans laisse là-bas) ; la zone surveillée centrale restreint les animaux du 15 juin au 15 septembre. Le lâcher est toléré d'octobre à mai sur toute la bande de 12 km."
+        },
+        {
+          "q": "Puis-je faire nager mon chien dans l'étang de Thau ?",
+          "a": "Oui, la rive de l'étang de Thau aux Eaux Blanches offre une eau calme et peu profonde à 24-26 °C en été, idéale pour les chiens nerveux face à la houle méditerranéenne. Chiens en laisse bienvenus toute l'année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está la mejor playa canina en Sète?", "a": "La playa canina del Lazaret en el extremo sur de la Plage de la Corniche es la única playa canina mediterránea sin correa todo el año dentro del municipio de Sète, accesible en bus Mobilité desde el centro en 15 minutos."},
-        {"q": "¿Se admiten perros en la Plage de la Corniche en verano?", "a": "Los perros con correa son bienvenidos en la playa canina sur del Lazaret todo el año (sin correa allí); la zona vigilada central restringe a las mascotas del 15 de junio al 15 de septiembre. El suelta es tolerado de octubre a mayo en todo el tramo de 12 km."},
-        {"q": "¿Puedo bañar a mi perro en el Étang de Thau?", "a": "Sí, la orilla del Étang de Thau en Les Eaux Blanches ofrece agua tranquila y poco profunda a 24-26 °C en verano, ideal para perros nerviosos ante el oleaje mediterráneo. Perros con correa bienvenidos todo el año."}
+        {
+          "q": "¿Dónde está la mejor playa canina en Sète?",
+          "a": "La playa canina del Lazaret en el extremo sur de la Plage de la Corniche es la única playa canina mediterránea sin correa todo el año dentro del municipio de Sète, accesible en bus Mobilité desde el centro en 15 minutos."
+        },
+        {
+          "q": "¿Se admiten perros en la Plage de la Corniche en verano?",
+          "a": "Los perros con correa son bienvenidos en la playa canina sur del Lazaret todo el año (sin correa allí); la zona vigilada central restringe a las mascotas del 15 de junio al 15 de septiembre. El suelta es tolerado de octubre a mayo en todo el tramo de 12 km."
+        },
+        {
+          "q": "¿Puedo bañar a mi perro en el Étang de Thau?",
+          "a": "Sí, la orilla del Étang de Thau en Les Eaux Blanches ofrece agua tranquila y poco profunda a 24-26 °C en verano, ideal para perros nerviosos ante el oleaje mediterráneo. Perros con correa bienvenidos todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica a melhor praia canina em Sète?", "a": "A praia canina do Lazaret no extremo sul da Plage de la Corniche é a única praia canina mediterrânica sem trela o ano inteiro dentro do município de Sète, acessível em autocarro Mobilité desde o centro em 15 minutos."},
-        {"q": "Os cães são admitidos na Plage de la Corniche no verão?", "a": "Os cães com trela são bem-vindos na praia canina sul do Lazaret o ano inteiro (sem trela ali); a zona vigiada central restringe os animais de 15 de junho a 15 de setembro. Sem trela é tolerado de outubro a maio em todo o troço de 12 km."},
-        {"q": "Posso banhar o meu cão no Étang de Thau?", "a": "Sim, a margem do Étang de Thau em Les Eaux Blanches oferece água calma e pouco profunda a 24-26 °C no verão, ideal para cães nervosos perante a ondulação mediterrânica. Cães com trela bem-vindos o ano inteiro."}
+        {
+          "q": "Onde fica a melhor praia canina em Sète?",
+          "a": "A praia canina do Lazaret no extremo sul da Plage de la Corniche é a única praia canina mediterrânica sem trela o ano inteiro dentro do município de Sète, acessível em autocarro Mobilité desde o centro em 15 minutos."
+        },
+        {
+          "q": "Os cães são admitidos na Plage de la Corniche no verão?",
+          "a": "Os cães com trela são bem-vindos na praia canina sul do Lazaret o ano inteiro (sem trela ali); a zona vigiada central restringe os animais de 15 de junho a 15 de setembro. Sem trela é tolerado de outubro a maio em todo o troço de 12 km."
+        },
+        {
+          "q": "Posso banhar o meu cão no Étang de Thau?",
+          "a": "Sim, a margem do Étang de Thau em Les Eaux Blanches oferece água calma e pouco profunda a 24-26 °C no verão, ideal para cães nervosos perante a ondulação mediterrânica. Cães com trela bem-vindos o ano inteiro."
+        }
       ]
     },
     "vets": {
@@ -470,7 +614,7 @@
           "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; linha de urgência nocturna rotativa",
           "englishSpeaking": true,
           "website": "https://www.cliniquevetdumole.fr/",
-          "photo": "/images/city-places/sete-vets-mole.jpg",
+          "photo": "/images/city-places/sete-vets-clinique-veterinaire-du-mole.jpg",
           "description": "A central Sète general practice on Avenue Victor Hugo 5 minutes from the Canal Royal, with imaging, dentistry and minor surgery. Participates in the rotating night line for the Sète Agglopôle; phone the main number after hours to be redirected to the duty clinic of the week.",
           "descriptionFr": "Cabinet généraliste central de Sète sur l'Avenue Victor Hugo à 5 minutes du Canal Royal, avec imagerie, dentisterie et petite chirurgie. Participe à la garde tournante de nuit pour Sète Agglopôle ; appelez le numéro principal hors heures pour être redirigé vers la clinique de garde de la semaine.",
           "descriptionEs": "Consulta generalista céntrica de Sète en la Avenue Victor Hugo a 5 minutos del Canal Royal, con imagen, odontología y cirugía menor. Participa en la guardia rotativa nocturna para Sète Agglopôle; llama al número principal fuera de horario para ser redirigido a la clínica de guardia de la semana.",
@@ -483,7 +627,10 @@
           "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie, dentisterie, garde",
           "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor, odontología, guardia",
           "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia, dentária, urgência",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00",
           "tip": "Save the main number (+33 4 67 74 35 12) before any Mont Saint-Clair or Bois des Pierres Blanches hike; the rotating night line directs you to the duty clinic, useful if mobile coverage drops on the wooded slopes.",
           "tipFr": "Enregistrez le numéro principal (+33 4 67 74 35 12) avant toute rando au Mont Saint-Clair ou dans le Bois des Pierres Blanches ; la ligne tournante de nuit vous redirige vers la clinique de garde, utile si la couverture mobile chute sur les pentes boisées.",
@@ -503,7 +650,7 @@
           "hoursPt": "Seg-sex 8:30-19:00; sáb 9:00-12:00; fechado dom",
           "englishSpeaking": true,
           "website": "https://www.cliniqueveterinairecorniche.fr/",
-          "photo": "/images/city-places/sete-vets-corniche.jpg",
+          "photo": "/images/city-places/sete-vets-clinique-veterinaire-de-la-corniche.jpg",
           "description": "A general practice on the Corniche promenade 5 minutes south of the centre by Mobilité bus, ideal for vaccination top-ups, EU passport stamps and minor non-emergency consultations. Refers to CHV Languedocia for advanced cases.",
           "descriptionFr": "Cabinet généraliste sur la promenade de la Corniche à 5 minutes au sud du centre en bus Mobilité, idéal pour rappels de vaccin, tampons sur passeport européen et consultations mineures non urgentes. Renvoie sur le CHV Languedocia pour les cas avancés.",
           "descriptionEs": "Consulta generalista en el paseo de la Corniche a 5 minutos al sur del centro en bus Mobilité, ideal para refuerzos de vacuna, sellos de pasaporte europeo y consultas menores no urgentes. Deriva al CHV Languedocia para casos avanzados.",
@@ -516,7 +663,10 @@
           "servicesFr": "Vaccinations, passeport européen, médecine générale, petite chirurgie",
           "servicesEs": "Vacunaciones, pasaporte UE, medicina general, cirugía menor",
           "servicesPt": "Vacinações, passaporte UE, medicina geral, pequena cirurgia",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "Mon-Fri 8:30-19:00; Sat 9:00-12:00",
           "tip": "Book the first morning slot for same-day EU passport sign-off before a Volotea or easyJet flight from MPL Montpellier; afternoons fill with local consultations.",
           "tipFr": "Réservez le premier créneau du matin pour une validation passeport européen le jour même avant un vol Volotea ou easyJet depuis MPL Montpellier ; les après-midis se remplissent de consultations locales.",
@@ -536,7 +686,7 @@
           "hoursPt": "Urgências e especialidades 24/7",
           "englishSpeaking": true,
           "website": "https://www.chv-languedocia.fr/",
-          "photo": "/images/city-places/sete-vets-chv-languedocia.jpg",
+          "photo": "/images/city-places/sete-vets-chv-languedocia-montpellier.jpg",
           "description": "The reference 24/7 specialty veterinary hospital for the Languedoc coast, with cardiology, oncology, neurology, intensive care and complex surgery; 25 minutes from Sète via the A9 motorway, the regional escalation centre Sète clinics refer to.",
           "descriptionFr": "L'hôpital vétérinaire de référence 24h/24 pour la côte languedocienne, avec cardiologie, oncologie, neurologie, soins intensifs et chirurgie complexe ; à 25 minutes de Sète par l'A9, le centre d'escalade régional vers lequel les cliniques sétoises adressent.",
           "descriptionEs": "El hospital veterinario de referencia 24/7 para la costa languedociana, con cardiología, oncología, neurología, cuidados intensivos y cirugía compleja; a 25 minutos de Sète vía la A9, el centro de escalada regional al que derivan las clínicas de Sète.",
@@ -549,7 +699,10 @@
           "servicesFr": "Urgences, soins intensifs, cardiologie, oncologie, neurologie, chirurgie complexe, imagerie",
           "servicesEs": "Urgencias, UCI, cardiología, oncología, neurología, cirugía compleja, imagen",
           "servicesPt": "Urgências, UCI, cardiologia, oncologia, neurologia, cirurgia complexa, imagem",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "openingHours": "24/7",
           "tip": "Drive yourself on the A9 rather than wait for a pet-taxi at night; the 25-minute transfer to Languedocia is faster than any rural rotating-line ETA after midnight.",
           "tipFr": "Conduisez-vous sur l'A9 plutôt que d'attendre un pet-taxi la nuit ; le transfert de 25 minutes vers Languedocia est plus rapide que n'importe quelle estimation de la ligne tournante rurale après minuit.",
@@ -579,24 +732,60 @@
         "Leve fisicamente o seu passaporte europeu para animais a toda a visita veterinária; as clínicas precisam de ver o carimbo antirrábico antes de qualquer prescrição."
       ],
       "faqsEn": [
-        {"q": "Where is the closest 24h vet to Sète?", "a": "The CHV Languedocia in Montpellier (+33 4 67 41 39 39, 25 min via the A9 motorway) is the closest true 24/7 referral hospital; local after-hours is handled via the Sète rotating night line at the Clinique du Môle."},
-        {"q": "Do Sète vets speak English?", "a": "Yes at the Clinique du Môle and the Clinique de la Corniche; senior vets are fluent thanks to the British retiree clientele on the Hérault coast and the regular UK and Northern European seasonal traffic."},
-        {"q": "Can I get an EU pet passport stamp before flying out of Montpellier MPL?", "a": "Yes, both listed Sète clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs; book the first morning slot before an afternoon Volotea or easyJet departure."}
+        {
+          "q": "Where is the closest 24h vet to Sète?",
+          "a": "The CHV Languedocia in Montpellier (+33 4 67 41 39 39, 25 min via the A9 motorway) is the closest true 24/7 referral hospital; local after-hours is handled via the Sète rotating night line at the Clinique du Môle."
+        },
+        {
+          "q": "Do Sète vets speak English?",
+          "a": "Yes at the Clinique du Môle and the Clinique de la Corniche; senior vets are fluent thanks to the British retiree clientele on the Hérault coast and the regular UK and Northern European seasonal traffic."
+        },
+        {
+          "q": "Can I get an EU pet passport stamp before flying out of Montpellier MPL?",
+          "a": "Yes, both listed Sète clinics issue and update EU pet passports. Same-day appointments are usually available for healthy dogs; book the first morning slot before an afternoon Volotea or easyJet departure."
+        }
       ],
       "faqsFr": [
-        {"q": "Où est le vétérinaire 24h le plus proche de Sète ?", "a": "Le CHV Languedocia à Montpellier (+33 4 67 41 39 39, 25 min par l'A9) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne tournante de nuit sétoise à la Clinique du Môle."},
-        {"q": "Les vétérinaires de Sète parlent-ils anglais ?", "a": "Oui à la Clinique du Môle et à la Clinique de la Corniche ; les vétérinaires seniors le parlent couramment grâce à la clientèle britannique retraitée sur la côte héraultaise et au trafic saisonnier UK et nord-européen régulier."},
-        {"q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Montpellier MPL ?", "a": "Oui, les deux cliniques de Sète listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles ; réservez le premier créneau du matin avant un départ Volotea ou easyJet l'après-midi."}
+        {
+          "q": "Où est le vétérinaire 24h le plus proche de Sète ?",
+          "a": "Le CHV Languedocia à Montpellier (+33 4 67 41 39 39, 25 min par l'A9) est le plus proche véritable hôpital de référence 24h/24 ; les urgences locales hors heures sont gérées via la ligne tournante de nuit sétoise à la Clinique du Môle."
+        },
+        {
+          "q": "Les vétérinaires de Sète parlent-ils anglais ?",
+          "a": "Oui à la Clinique du Môle et à la Clinique de la Corniche ; les vétérinaires seniors le parlent couramment grâce à la clientèle britannique retraitée sur la côte héraultaise et au trafic saisonnier UK et nord-européen régulier."
+        },
+        {
+          "q": "Puis-je faire tamponner un passeport européen avant de prendre l'avion à Montpellier MPL ?",
+          "a": "Oui, les deux cliniques de Sète listées délivrent et mettent à jour les passeports européens. Des rendez-vous le jour même sont généralement disponibles ; réservez le premier créneau du matin avant un départ Volotea ou easyJet l'après-midi."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el veterinario 24h más cercano de Sète?", "a": "El CHV Languedocia en Montpellier (+33 4 67 41 39 39, 25 min vía la A9) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea rotativa nocturna de Sète en la Clinique du Môle."},
-        {"q": "¿Los veterinarios de Sète hablan inglés?", "a": "Sí en la Clinique du Môle y en la Clinique de la Corniche; los veterinarios senior son fluidos gracias a la clientela británica jubilada en la costa heraultiana y al tráfico estacional UK y nordeuropeo regular."},
-        {"q": "¿Puedo sellar un pasaporte UE antes de volar desde Montpellier MPL?", "a": "Sí, las dos clínicas de Sète listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles; reserva el primer hueco de la mañana antes de una salida Volotea o easyJet por la tarde."}
+        {
+          "q": "¿Dónde está el veterinario 24h más cercano de Sète?",
+          "a": "El CHV Languedocia en Montpellier (+33 4 67 41 39 39, 25 min vía la A9) es el verdadero hospital de referencia 24/7 más cercano; las urgencias locales fuera de horario se gestionan vía la línea rotativa nocturna de Sète en la Clinique du Môle."
+        },
+        {
+          "q": "¿Los veterinarios de Sète hablan inglés?",
+          "a": "Sí en la Clinique du Môle y en la Clinique de la Corniche; los veterinarios senior son fluidos gracias a la clientela británica jubilada en la costa heraultiana y al tráfico estacional UK y nordeuropeo regular."
+        },
+        {
+          "q": "¿Puedo sellar un pasaporte UE antes de volar desde Montpellier MPL?",
+          "a": "Sí, las dos clínicas de Sète listadas emiten y actualizan pasaportes UE. Las citas en el día suelen estar disponibles; reserva el primer hueco de la mañana antes de una salida Volotea o easyJet por la tarde."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o veterinário 24h mais próximo de Sète?", "a": "O CHV Languedocia em Montpellier (+33 4 67 41 39 39, 25 min pela A9) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha rotativa nocturna de Sète na Clinique du Môle."},
-        {"q": "Os veterinários de Sète falam inglês?", "a": "Sim na Clinique du Môle e na Clinique de la Corniche; os veterinários seniores são fluentes graças à clientela britânica reformada na costa heraultiana e ao tráfego sazonal UK e norte-europeu regular."},
-        {"q": "Posso carimbar um passaporte UE antes de voar de Montpellier MPL?", "a": "Sim, as duas clínicas de Sète listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis; reserve o primeiro slot da manhã antes de uma partida Volotea ou easyJet à tarde."}
+        {
+          "q": "Onde fica o veterinário 24h mais próximo de Sète?",
+          "a": "O CHV Languedocia em Montpellier (+33 4 67 41 39 39, 25 min pela A9) é o verdadeiro hospital de referência 24/7 mais próximo; as urgências locais fora de horas são geridas via linha rotativa nocturna de Sète na Clinique du Môle."
+        },
+        {
+          "q": "Os veterinários de Sète falam inglês?",
+          "a": "Sim na Clinique du Môle e na Clinique de la Corniche; os veterinários seniores são fluentes graças à clientela britânica reformada na costa heraultiana e ao tráfego sazonal UK e norte-europeu regular."
+        },
+        {
+          "q": "Posso carimbar um passaporte UE antes de voar de Montpellier MPL?",
+          "a": "Sim, as duas clínicas de Sète listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis; reserve o primeiro slot da manhã antes de uma partida Volotea ou easyJet à tarde."
+        }
       ]
     },
     "tips": {
@@ -638,24 +827,60 @@
         "A praia canina do Lazaret na Plage de la Corniche é a referência canina regional, uma praia canina mediterrânica sem trela o ano inteiro acessível em autocarro Mobilité desde o centro de Sète em 15 min."
       ],
       "faqsEn": [
-        {"q": "Is Sète a good base for a pet-friendly Languedoc holiday?", "a": "Yes, the combination of the year-round off-leash Lazaret plage canine 15 minutes from town, the Mont Saint-Clair forest park on the doorstep, the dog-friendly Sète-Mèze lagoon ferry and a working canal grid through the centre makes it one of the most distinctive pet bases on the French Mediterranean."},
-        {"q": "Do I need a muzzle in public in Sète?", "a": "Only for category 1 and 2 restricted breeds; standard breeds need only a leash. The Mobilité buses and the Sète-Mèze ferry accept muzzled large dogs and free small dogs in carriers."},
-        {"q": "What is the best month for Sète with a dog?", "a": "May-June and September-October: mild temperatures, lower humidity, lighter crowds, full Mont Saint-Clair access and the off-leash Lazaret plage canine open year-round."}
+        {
+          "q": "Is Sète a good base for a pet-friendly Languedoc holiday?",
+          "a": "Yes, the combination of the year-round off-leash Lazaret plage canine 15 minutes from town, the Mont Saint-Clair forest park on the doorstep, the dog-friendly Sète-Mèze lagoon ferry and a working canal grid through the centre makes it one of the most distinctive pet bases on the French Mediterranean."
+        },
+        {
+          "q": "Do I need a muzzle in public in Sète?",
+          "a": "Only for category 1 and 2 restricted breeds; standard breeds need only a leash. The Mobilité buses and the Sète-Mèze ferry accept muzzled large dogs and free small dogs in carriers."
+        },
+        {
+          "q": "What is the best month for Sète with a dog?",
+          "a": "May-June and September-October: mild temperatures, lower humidity, lighter crowds, full Mont Saint-Clair access and the off-leash Lazaret plage canine open year-round."
+        }
       ],
       "faqsFr": [
-        {"q": "Sète est-elle une bonne base pour des vacances pet-friendly dans le Languedoc ?", "a": "Oui, la combinaison de la plage canine sans laisse toute l'année du Lazaret à 15 minutes de la ville, du parc forestier du Mont Saint-Clair sur le pas de la porte, du ferry lagunaire Sète-Mèze dog-friendly et d'un maillage de canaux de travail dans le centre en fait l'une des bases canines les plus distinctives de la Méditerranée française."},
-        {"q": "Ai-je besoin d'une muselière en public à Sète ?", "a": "Seulement pour les races de catégorie 1 et 2 ; les races standard n'ont besoin que d'une laisse. Les bus Mobilité et le ferry Sète-Mèze acceptent les grands chiens muselés et gratuitement les petits en cage."},
-        {"q": "Quel est le meilleur mois à Sète avec un chien ?", "a": "Mai-juin et septembre-octobre : températures douces, humidité plus basse, moins de monde, accès complet au Mont Saint-Clair et la plage canine sans laisse du Lazaret ouverte toute l'année."}
+        {
+          "q": "Sète est-elle une bonne base pour des vacances pet-friendly dans le Languedoc ?",
+          "a": "Oui, la combinaison de la plage canine sans laisse toute l'année du Lazaret à 15 minutes de la ville, du parc forestier du Mont Saint-Clair sur le pas de la porte, du ferry lagunaire Sète-Mèze dog-friendly et d'un maillage de canaux de travail dans le centre en fait l'une des bases canines les plus distinctives de la Méditerranée française."
+        },
+        {
+          "q": "Ai-je besoin d'une muselière en public à Sète ?",
+          "a": "Seulement pour les races de catégorie 1 et 2 ; les races standard n'ont besoin que d'une laisse. Les bus Mobilité et le ferry Sète-Mèze acceptent les grands chiens muselés et gratuitement les petits en cage."
+        },
+        {
+          "q": "Quel est le meilleur mois à Sète avec un chien ?",
+          "a": "Mai-juin et septembre-octobre : températures douces, humidité plus basse, moins de monde, accès complet au Mont Saint-Clair et la plage canine sans laisse du Lazaret ouverte toute l'année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Sète una buena base para unas vacaciones pet-friendly en Languedoc?", "a": "Sí, la combinación de la playa canina sin correa todo el año del Lazaret a 15 minutos del centro, el parque forestal del Mont Saint-Clair al lado de casa, el ferry lagunar Sète-Mèze pet-friendly y una retícula de canales de trabajo en el centro la convierten en una de las bases caninas más distintivas del Mediterráneo francés."},
-        {"q": "¿Necesito bozal en público en Sète?", "a": "Solo para razas de categoría 1 y 2; las razas estándar solo necesitan correa. Los buses Mobilité y el ferry Sète-Mèze admiten perros grandes con bozal y gratis a los pequeños en transportín."},
-        {"q": "¿Cuál es el mejor mes para Sète con perro?", "a": "Mayo-junio y septiembre-octubre: temperaturas suaves, menor humedad, menos gente, acceso completo al Mont Saint-Clair y la playa canina sin correa del Lazaret abierta todo el año."}
+        {
+          "q": "¿Es Sète una buena base para unas vacaciones pet-friendly en Languedoc?",
+          "a": "Sí, la combinación de la playa canina sin correa todo el año del Lazaret a 15 minutos del centro, el parque forestal del Mont Saint-Clair al lado de casa, el ferry lagunar Sète-Mèze pet-friendly y una retícula de canales de trabajo en el centro la convierten en una de las bases caninas más distintivas del Mediterráneo francés."
+        },
+        {
+          "q": "¿Necesito bozal en público en Sète?",
+          "a": "Solo para razas de categoría 1 y 2; las razas estándar solo necesitan correa. Los buses Mobilité y el ferry Sète-Mèze admiten perros grandes con bozal y gratis a los pequeños en transportín."
+        },
+        {
+          "q": "¿Cuál es el mejor mes para Sète con perro?",
+          "a": "Mayo-junio y septiembre-octubre: temperaturas suaves, menor humedad, menos gente, acceso completo al Mont Saint-Clair y la playa canina sin correa del Lazaret abierta todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Sète é uma boa base para férias pet-friendly em Languedoc?", "a": "Sim, a combinação da praia canina sem trela o ano inteiro do Lazaret a 15 minutos do centro, do parque florestal do Mont Saint-Clair à porta de casa, do ferry lagunar Sète-Mèze pet-friendly e de uma malha de canais de trabalho no centro fazem dela uma das bases caninas mais distintivas do Mediterrâneo francês."},
-        {"q": "Preciso de açaime em público em Sète?", "a": "Só para raças de categoria 1 e 2; as raças standard só precisam de trela. Os autocarros Mobilité e o ferry Sète-Mèze aceitam cães grandes com açaime e grátis os pequenos em transportadora."},
-        {"q": "Qual é o melhor mês para Sète com cão?", "a": "Maio-junho e setembro-outubro: temperaturas suaves, menor humidade, menos gente, acesso completo ao Mont Saint-Clair e a praia canina sem trela do Lazaret aberta o ano inteiro."}
+        {
+          "q": "Sète é uma boa base para férias pet-friendly em Languedoc?",
+          "a": "Sim, a combinação da praia canina sem trela o ano inteiro do Lazaret a 15 minutos do centro, do parque florestal do Mont Saint-Clair à porta de casa, do ferry lagunar Sète-Mèze pet-friendly e de uma malha de canais de trabalho no centro fazem dela uma das bases caninas mais distintivas do Mediterrâneo francês."
+        },
+        {
+          "q": "Preciso de açaime em público em Sète?",
+          "a": "Só para raças de categoria 1 e 2; as raças standard só precisam de trela. Os autocarros Mobilité e o ferry Sète-Mèze aceitam cães grandes com açaime e grátis os pequenos em transportadora."
+        },
+        {
+          "q": "Qual é o melhor mês para Sète com cão?",
+          "a": "Maio-junho e setembro-outubro: temperaturas suaves, menor humidade, menos gente, acesso completo ao Mont Saint-Clair e a praia canina sem trela do Lazaret aberta o ano inteiro."
+        }
       ]
     },
     "attractions": {
@@ -671,7 +896,7 @@
         {
           "name": "Mont Saint-Clair and Notre-Dame de la Salette",
           "neighborhood": "Mont Saint-Clair summit (175 m)",
-          "photo": "/images/city-places/sete-attractions-mont-saint-clair.jpg",
+          "photo": "/images/city-places/sete-attractions-mont-saint-clair-and-notre-dame-de-la-salette.jpg",
           "website": "https://www.tourisme-sete.com/",
           "description": "The 175 m wooded hill rising directly above Sète crowned by the small Notre-Dame de la Salette chapel and a panoramic viewing terrace looking across the Étang de Thau, the Mediterranean, the Camargue and the Pyrenees on clear days. Free public access via the Mobilité bus line 5 or a paved 30-minute walk up the Chemin du Belvédère. Dog-friendly year-round.",
           "descriptionFr": "La colline boisée de 175 m s'élevant directement au-dessus de Sète couronnée par la petite chapelle Notre-Dame de la Salette et une terrasse panoramique tournée vers l'étang de Thau, la Méditerranée, la Camargue et les Pyrénées par temps clair. Accès public gratuit par la ligne 5 Mobilité ou par une montée pavée de 30 minutes par le Chemin du Belvédère. Dog-friendly toute l'année.",
@@ -694,7 +919,7 @@
         {
           "name": "Cimetière Marin (Paul Valéry)",
           "neighborhood": "Below Mont Saint-Clair",
-          "photo": "/images/city-places/sete-attractions-cimetiere-marin.jpg",
+          "photo": "/images/city-places/sete-attractions-cimetiere-marin-paul-valery.jpg",
           "website": "https://www.tourisme-sete.com/",
           "description": "The cemetery of the Saint-Charles parish built on the southern slope of the Mont Saint-Clair, immortalised by the 1920 Paul Valéry poem Le Cimetière Marin (Valéry himself rests here). The walled terraces give one of the most striking sea-and-mountain views on the French Mediterranean. Leashed dogs welcome on the public paths year-round.",
           "descriptionFr": "Le cimetière de la paroisse Saint-Charles bâti sur le versant sud du Mont Saint-Clair, immortalisé par le poème Le Cimetière Marin de Paul Valéry en 1920 (Valéry lui-même y repose). Les terrasses murées offrent l'une des vues mer-et-montagne les plus saisissantes de la Méditerranée française. Chiens en laisse bienvenus sur les allées publiques toute l'année.",
@@ -717,7 +942,7 @@
         {
           "name": "Pointe Courte fishing quarter",
           "neighborhood": "Pointe Courte (Étang de Thau side)",
-          "photo": "/images/city-places/sete-attractions-pointe-courte.jpg",
+          "photo": "/images/city-places/sete-attractions-pointe-courte-fishing-quarter.jpg",
           "website": "https://www.tourisme-sete.com/",
           "description": "The historic working fishermen's quarter on the Étang de Thau side of Sète, a tight grid of single-storey houses, drying nets, painted shutters and tied-up traditional flat-bottomed pointus boats. Made famous by Agnès Varda's 1955 feature debut film La Pointe Courte, the quarter remains a working fishing community. Dog-friendly year-round on every cobbled lane.",
           "descriptionFr": "Le quartier historique des pêcheurs en activité côté étang de Thau de Sète, un maillage serré de maisons à un étage, de filets qui sèchent, de volets peints et de pointus traditionnels à fond plat amarrés. Rendu célèbre par le premier long-métrage d'Agnès Varda La Pointe Courte en 1955, le quartier reste une communauté de pêcheurs en activité. Dog-friendly toute l'année dans toutes les ruelles pavées.",
@@ -759,24 +984,60 @@
         "Combine o cume do Mont Saint-Clair com o Cimetière Marin no caminho de regresso; os dois miradouros olham para o mesmo Mediterrâneo desde 175 m e desde 40 m acima do nível do mar."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in the Sète museums?", "a": "Only assistance dogs may enter the museum interiors (Musée Paul Valéry, MIAM); leashed pets are welcome across the quays, canal banks, Mont Saint-Clair summit, Cimetière Marin paths and outdoor heritage sites."},
-        {"q": "Can I take my dog into Les Halles de Sète?", "a": "Yes, leashed dogs are welcome in the central aisle of Les Halles year-round; the oyster bar and the tielle counters serve standing customers with dogs at their feet."},
-        {"q": "Is the Sète centre walkable with a dog?", "a": "Yes, the canal grid centre is largely pedestrianised and a leashed dog handles the full loop (Canal Royal, Halles, Quai de la Résistance, Pointe Courte, Cimetière Marin) in about 2 hours."}
+        {
+          "q": "Are dogs allowed in the Sète museums?",
+          "a": "Only assistance dogs may enter the museum interiors (Musée Paul Valéry, MIAM); leashed pets are welcome across the quays, canal banks, Mont Saint-Clair summit, Cimetière Marin paths and outdoor heritage sites."
+        },
+        {
+          "q": "Can I take my dog into Les Halles de Sète?",
+          "a": "Yes, leashed dogs are welcome in the central aisle of Les Halles year-round; the oyster bar and the tielle counters serve standing customers with dogs at their feet."
+        },
+        {
+          "q": "Is the Sète centre walkable with a dog?",
+          "a": "Yes, the canal grid centre is largely pedestrianised and a leashed dog handles the full loop (Canal Royal, Halles, Quai de la Résistance, Pointe Courte, Cimetière Marin) in about 2 hours."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés dans les musées de Sète ?", "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des musées (Musée Paul Valéry, MIAM) ; les chiens en laisse sont bienvenus sur les quais, les berges des canaux, le sommet du Mont Saint-Clair, les allées du Cimetière Marin et les sites patrimoniaux extérieurs."},
-        {"q": "Puis-je entrer aux Halles de Sète avec mon chien ?", "a": "Oui, les chiens en laisse sont bienvenus dans l'allée centrale des Halles toute l'année ; le bar à huîtres et les comptoirs à tielle servent les clients debout avec leurs chiens à leurs pieds."},
-        {"q": "Le centre de Sète est-il accessible à pied avec un chien ?", "a": "Oui, le centre en grille de canaux est en grande partie piéton et un chien en laisse fait la boucle complète (Canal Royal, Halles, Quai de la Résistance, Pointe Courte, Cimetière Marin) en environ 2 heures."}
+        {
+          "q": "Les chiens sont-ils autorisés dans les musées de Sète ?",
+          "a": "Seuls les chiens d'assistance peuvent entrer dans les intérieurs des musées (Musée Paul Valéry, MIAM) ; les chiens en laisse sont bienvenus sur les quais, les berges des canaux, le sommet du Mont Saint-Clair, les allées du Cimetière Marin et les sites patrimoniaux extérieurs."
+        },
+        {
+          "q": "Puis-je entrer aux Halles de Sète avec mon chien ?",
+          "a": "Oui, les chiens en laisse sont bienvenus dans l'allée centrale des Halles toute l'année ; le bar à huîtres et les comptoirs à tielle servent les clients debout avec leurs chiens à leurs pieds."
+        },
+        {
+          "q": "Le centre de Sète est-il accessible à pied avec un chien ?",
+          "a": "Oui, le centre en grille de canaux est en grande partie piéton et un chien en laisse fait la boucle complète (Canal Royal, Halles, Quai de la Résistance, Pointe Courte, Cimetière Marin) en environ 2 heures."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en los museos de Sète?", "a": "Solo los perros de asistencia pueden entrar en los interiores de los museos (Musée Paul Valéry, MIAM); los perros con correa son bienvenidos en los muelles, las orillas de los canales, la cima del Mont Saint-Clair, los caminos del Cimetière Marin y los sitios patrimoniales al aire libre."},
-        {"q": "¿Puedo entrar a Les Halles de Sète con mi perro?", "a": "Sí, los perros con correa son bienvenidos en el pasillo central de Les Halles todo el año; el bar de ostras y las barras de tielle sirven a los clientes de pie con sus perros a los pies."},
-        {"q": "¿El centro de Sète es accesible a pie con un perro?", "a": "Sí, el centro en retícula de canales es en gran parte peatonal y un perro con correa hace el recorrido completo (Canal Royal, Halles, Quai de la Résistance, Pointe Courte, Cimetière Marin) en unas 2 horas."}
+        {
+          "q": "¿Se admiten perros en los museos de Sète?",
+          "a": "Solo los perros de asistencia pueden entrar en los interiores de los museos (Musée Paul Valéry, MIAM); los perros con correa son bienvenidos en los muelles, las orillas de los canales, la cima del Mont Saint-Clair, los caminos del Cimetière Marin y los sitios patrimoniales al aire libre."
+        },
+        {
+          "q": "¿Puedo entrar a Les Halles de Sète con mi perro?",
+          "a": "Sí, los perros con correa son bienvenidos en el pasillo central de Les Halles todo el año; el bar de ostras y las barras de tielle sirven a los clientes de pie con sus perros a los pies."
+        },
+        {
+          "q": "¿El centro de Sète es accesible a pie con un perro?",
+          "a": "Sí, el centro en retícula de canales es en gran parte peatonal y un perro con correa hace el recorrido completo (Canal Royal, Halles, Quai de la Résistance, Pointe Courte, Cimetière Marin) en unas 2 horas."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são admitidos nos museus de Sète?", "a": "Só os cães de assistência podem entrar nos interiores dos museus (Musée Paul Valéry, MIAM); os cães com trela são bem-vindos nos cais, margens dos canais, cume do Mont Saint-Clair, caminhos do Cimetière Marin e sítios patrimoniais ao ar livre."},
-        {"q": "Posso entrar nas Halles de Sète com o meu cão?", "a": "Sim, os cães com trela são bem-vindos no corredor central das Halles o ano inteiro; o bar de ostras e os balcões de tielle servem clientes em pé com os seus cães aos pés."},
-        {"q": "O centro de Sète é acessível a pé com um cão?", "a": "Sim, o centro em grelha de canais é em grande parte pedonal e um cão com trela faz o circuito completo (Canal Royal, Halles, Quai de la Résistance, Pointe Courte, Cimetière Marin) em cerca de 2 horas."}
+        {
+          "q": "Os cães são admitidos nos museus de Sète?",
+          "a": "Só os cães de assistência podem entrar nos interiores dos museus (Musée Paul Valéry, MIAM); os cães com trela são bem-vindos nos cais, margens dos canais, cume do Mont Saint-Clair, caminhos do Cimetière Marin e sítios patrimoniais ao ar livre."
+        },
+        {
+          "q": "Posso entrar nas Halles de Sète com o meu cão?",
+          "a": "Sim, os cães com trela são bem-vindos no corredor central das Halles o ano inteiro; o bar de ostras e os balcões de tielle servem clientes em pé com os seus cães aos pés."
+        },
+        {
+          "q": "O centro de Sète é acessível a pé com um cão?",
+          "a": "Sim, o centro em grelha de canais é em grande parte pedonal e um cão com trela faz o circuito completo (Canal Royal, Halles, Quai de la Résistance, Pointe Courte, Cimetière Marin) em cerca de 2 horas."
+        }
       ]
     },
     "petsitting": {
@@ -849,24 +1110,60 @@
         "Reserve com 2-3 semanas de antecedência para qualquer estadia durante a época alta mediterrânica em julho-agosto e especialmente em torno da Fête de la Saint-Louis e das suas justas náuticas no fim de agosto quando a cidade enche."
       ],
       "faqsEn": [
-        {"q": "How much does pet sitting cost in Sète?", "a": "Expect EUR 18-28 per night for boarding and EUR 10-16 per 30-minute walk via Pawshake or Animaute; rural boarding kennels around the Bouzigues and Marseillan oyster villages charge from EUR 22 per day."},
-        {"q": "Can hotels recommend a sitter for an evening out?", "a": "Yes, larger Sète hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a La Coquerie dinner or a sunset trip to the Mont Saint-Clair summit."},
-        {"q": "Do I need to bring my dog's food to a sitter?", "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."}
+        {
+          "q": "How much does pet sitting cost in Sète?",
+          "a": "Expect EUR 18-28 per night for boarding and EUR 10-16 per 30-minute walk via Pawshake or Animaute; rural boarding kennels around the Bouzigues and Marseillan oyster villages charge from EUR 22 per day."
+        },
+        {
+          "q": "Can hotels recommend a sitter for an evening out?",
+          "a": "Yes, larger Sète hotels keep a short list of Pawshake hosts who do evening drop-ins, useful for a La Coquerie dinner or a sunset trip to the Mont Saint-Clair summit."
+        },
+        {
+          "q": "Do I need to bring my dog's food to a sitter?",
+          "a": "Most hosts prefer continuity; bring 2-3 days of your usual kibble plus the dog's regular bowl to limit stomach upset."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la garde à Sète ?", "a": "Comptez 18-28 € par nuit en pension et 10-16 € par balade de 30 minutes via Pawshake ou Animaute ; les pensions rurales autour des villages ostréicoles de Bouzigues et Marseillan facturent à partir de 22 € par jour."},
-        {"q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?", "a": "Oui, les grands hôtels de Sète gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour un dîner La Coquerie ou une sortie coucher de soleil au sommet du Mont Saint-Clair."},
-        {"q": "Dois-je apporter la nourriture du chien au sitter ?", "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."}
+        {
+          "q": "Combien coûte la garde à Sète ?",
+          "a": "Comptez 18-28 € par nuit en pension et 10-16 € par balade de 30 minutes via Pawshake ou Animaute ; les pensions rurales autour des villages ostréicoles de Bouzigues et Marseillan facturent à partir de 22 € par jour."
+        },
+        {
+          "q": "Les hôtels peuvent-ils recommander un sitter pour une soirée ?",
+          "a": "Oui, les grands hôtels de Sète gardent une courte liste d'hôtes Pawshake disponibles le soir, utile pour un dîner La Coquerie ou une sortie coucher de soleil au sommet du Mont Saint-Clair."
+        },
+        {
+          "q": "Dois-je apporter la nourriture du chien au sitter ?",
+          "a": "La plupart des hôtes préfèrent la continuité ; apportez 2-3 jours de croquettes habituelles et la gamelle de votre chien pour limiter les troubles digestifs."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el cuidado de mascotas en Sète?", "a": "Cuenta 18-28 € por noche en residencia y 10-16 € por paseo de 30 minutos vía Pawshake o Animaute; las residencias rurales alrededor de los pueblos ostrícolas de Bouzigues y Marseillan cobran desde 22 € por día."},
-        {"q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?", "a": "Sí, los grandes hoteles de Sète guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una cena en La Coquerie o una salida al atardecer en la cima del Mont Saint-Clair."},
-        {"q": "¿Tengo que llevar la comida del perro al cuidador?", "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."}
+        {
+          "q": "¿Cuánto cuesta el cuidado de mascotas en Sète?",
+          "a": "Cuenta 18-28 € por noche en residencia y 10-16 € por paseo de 30 minutos vía Pawshake o Animaute; las residencias rurales alrededor de los pueblos ostrícolas de Bouzigues y Marseillan cobran desde 22 € por día."
+        },
+        {
+          "q": "¿Los hoteles pueden recomendar un cuidador para una salida nocturna?",
+          "a": "Sí, los grandes hoteles de Sète guardan una lista corta de anfitriones Pawshake disponibles por la tarde, útil para una cena en La Coquerie o una salida al atardecer en la cima del Mont Saint-Clair."
+        },
+        {
+          "q": "¿Tengo que llevar la comida del perro al cuidador?",
+          "a": "La mayoría de los anfitriones prefieren continuidad; lleva 2-3 días del pienso habitual y el cuenco del perro para limitar trastornos digestivos."
+        }
       ],
       "faqsPt": [
-        {"q": "Quanto custa o cuidado de animais em Sète?", "a": "Conte 18-28 € por noite em creche e 10-16 € por passeio de 30 minutos via Pawshake ou Animaute; as creches rurais em torno das aldeias ostreícolas de Bouzigues e Marseillan cobram desde 22 € por dia."},
-        {"q": "Os hotéis podem recomendar um sitter para uma saída à noite?", "a": "Sim, os grandes hotéis de Sète guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para um jantar La Coquerie ou uma saída ao pôr-do-sol no cume do Mont Saint-Clair."},
-        {"q": "Tenho de levar a comida do cão ao cuidador?", "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."}
+        {
+          "q": "Quanto custa o cuidado de animais em Sète?",
+          "a": "Conte 18-28 € por noite em creche e 10-16 € por passeio de 30 minutos via Pawshake ou Animaute; as creches rurais em torno das aldeias ostreícolas de Bouzigues e Marseillan cobram desde 22 € por dia."
+        },
+        {
+          "q": "Os hotéis podem recomendar um sitter para uma saída à noite?",
+          "a": "Sim, os grandes hotéis de Sète guardam uma lista curta de anfitriões Pawshake disponíveis à noite, útil para um jantar La Coquerie ou uma saída ao pôr-do-sol no cume do Mont Saint-Clair."
+        },
+        {
+          "q": "Tenho de levar a comida do cão ao cuidador?",
+          "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."
+        }
       ]
     }
   }

@@ -505,6 +505,25 @@ export default async function GuideDetailPage({
   // price-shock on premium destinations) rather than leading with luxury.
   const destHotels = valueSort(hotels.filter(h => h.destinationSlug === slug)).slice(0, 3)
 
+  // Geographically nearest destinations — cross-sell to recover the traffic on
+  // high-click / low-conversion premium pages (e.g. a user who can't find the
+  // right place in Lugano sees nearby alternatives instead of leaving).
+  const toRad = (n: number) => (n * Math.PI) / 180
+  const haversineKm = (aLat: number, aLng: number, bLat: number, bLng: number) => {
+    const dLat = toRad(bLat - aLat), dLng = toRad(bLng - aLng)
+    const x = Math.sin(dLat / 2) ** 2 + Math.cos(toRad(aLat)) * Math.cos(toRad(bLat)) * Math.sin(dLng / 2) ** 2
+    return 6371 * 2 * Math.atan2(Math.sqrt(x), Math.sqrt(1 - x))
+  }
+  const nearbyDests = (dest.lat && dest.lng)
+    ? destinations
+        .filter(d => d.slug !== slug && d.lat && d.lng)
+        .map(d => ({ d, km: haversineKm(dest.lat, dest.lng, d.lat, d.lng) }))
+        .filter(x => x.km <= 350)
+        .sort((a, b) => a.km - b.km)
+        .slice(0, 4)
+        .map(x => x.d)
+    : []
+
   const guideLabels: Record<GuideSlug, Record<string, string>> = {
     restaurants: { en: 'Restaurants', fr: 'Restaurants', es: 'Restaurantes' },
     parks:       { en: 'Parks & Walks', fr: 'Parcs & Balades', es: 'Parques y Paseos' },
@@ -1047,6 +1066,36 @@ export default async function GuideDetailPage({
                 >
                   <span className="text-2xl block mb-2">{GUIDE_META[g].emoji}</span>
                   <span className="font-bold text-sm">{guideLabels[g][locale] ?? guideLabels[g].en}</span>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* ── Nearby destinations cross-sell ── */}
+        {nearbyDests.length > 0 && (
+          <section className="mt-12 pt-10 border-t border-gray-100">
+            <h2 className="text-xl font-extrabold text-gray-900 mb-1">
+              {locale === 'fr' ? 'Destinations pet-friendly à proximité'
+                : locale === 'es' ? 'Destinos pet-friendly cerca'
+                : locale === 'pt' ? 'Destinos pet-friendly por perto'
+                : 'Pet-friendly destinations nearby'}
+            </h2>
+            <p className="text-sm text-gray-500 mb-5">
+              {locale === 'fr' ? `Vous cherchez un logement ailleurs ? Ces destinations proches de ${dest.name} accueillent aussi votre chien.`
+                : locale === 'es' ? `¿Buscas alojamiento en otro lugar? Estos destinos cerca de ${dest.name} también admiten a tu perro.`
+                : locale === 'pt' ? `Procura alojamento noutro sítio? Estes destinos perto de ${dest.name} também aceitam o seu cão.`
+                : `Looking for a place to stay elsewhere? These destinations near ${dest.name} also welcome your dog.`}
+            </p>
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+              {nearbyDests.map(d => (
+                <Link
+                  key={d.slug}
+                  href={`/${locale}/destinations/${d.slug}`}
+                  className="flex items-center gap-2.5 bg-white border border-gray-200 rounded-2xl px-4 py-3 hover:border-blue-300 hover:shadow-sm transition-all focus-visible:ring-2 focus-visible:ring-blue-400"
+                >
+                  <span className="text-xl">{d.flag}</span>
+                  <span className="font-bold text-sm text-gray-800">{getLocalizedCityName(d.slug, d.name, locale)}</span>
                 </Link>
               ))}
             </div>

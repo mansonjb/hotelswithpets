@@ -6,6 +6,7 @@ import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/d
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL, buildAllezDestLink } from '@/lib/site'
+import { valueSort } from '@/lib/hotelSort'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { readdirSync, existsSync } from 'fs'
 import { join } from 'path'
@@ -500,11 +501,9 @@ export default async function GuideDetailPage({
   // Sibling guides for this city
   const siblingGuides = GUIDE_SLUGS.filter(g => g !== guide && cityGuide.guides[g])
 
-  // Nearby hotels
-  const destHotels = hotels
-    .filter(h => h.destinationSlug === slug)
-    .sort((a, b) => b.rating - a.rating)
-    .slice(0, 3)
+  // Nearby hotels — value-aware order so an affordable option leads (avoids
+  // price-shock on premium destinations) rather than leading with luxury.
+  const destHotels = valueSort(hotels.filter(h => h.destinationSlug === slug)).slice(0, 3)
 
   const guideLabels: Record<GuideSlug, Record<string, string>> = {
     restaurants: { en: 'Restaurants', fr: 'Restaurants', es: 'Restaurantes' },

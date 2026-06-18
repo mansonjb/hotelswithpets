@@ -3,6 +3,7 @@ import { existsSync } from 'fs'
 import { join } from 'path'
 import hotels from '@/data/hotels.json'
 import destinations from '@/data/destinations.json'
+import { valueSort } from '@/lib/hotelSort'
 import { buildAllezLink } from '@/lib/site'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
@@ -49,9 +50,7 @@ const LABELS: Record<string, {
 function pickTopHotel(slug: string): typeof hotels[number] | null {
   const candidates = hotels.filter(h => h.destinationSlug === slug)
   if (candidates.length === 0) return null
-  return [...candidates].sort(
-    (a, b) => b.rating - a.rating || b.reviewCount - a.reviewCount
-  )[0]
+  return valueSort(candidates)[0]
 }
 
 /**

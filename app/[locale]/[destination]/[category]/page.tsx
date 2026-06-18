@@ -4,6 +4,7 @@ import type { Metadata } from 'next'
 import { getDictionary, hasLocale, type Locale } from '@/app/[locale]/dictionaries'
 import HotelRankedCard from '@/components/HotelRankedCard'
 import PetMap from '@/components/PetMap'
+import { valueSort } from '@/lib/hotelSort'
 import TravelpayoutsFlightWidget from '@/components/TravelpayoutsFlightWidget'
 import { generateIntro, generateFaqs, generateTips, generateWhy } from '@/lib/editorial'
 import destinations from '@/data/destinations.json'
@@ -237,9 +238,9 @@ export default async function ComboPage({
   const localizedCountry = getLocalizedCountryName(dest.country, locale)
   const year = new Date().getFullYear()
 
-  const comboHotels = hotels.filter(
+  const comboHotels = valueSort(hotels.filter(
     (h) => h.destinationSlug === destination && h.categories.includes(category)
-  )
+  ))
 
   const minPrice = comboHotels.length > 0 ? Math.min(...comboHotels.map((h) => h.priceFrom)) : null
   const avgRating =

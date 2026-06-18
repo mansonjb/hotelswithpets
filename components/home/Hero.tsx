@@ -85,7 +85,14 @@ export default function Hero({ locale, dict }: HeroProps) {
   const router = useRouter()
   const { hero } = dict
   const [destQuery, setDestQuery] = useState('')
+  const [destFocused, setDestFocused] = useState(false)
   const [selectedCat, setSelectedCat] = useState('')
+
+  const destMatches = destQuery.trim()
+    ? destinations
+        .filter((d) => d.name.toLowerCase().includes(destQuery.trim().toLowerCase()))
+        .slice(0, 8)
+    : []
 
   const lang = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const headlines = HEADLINES[lang]
@@ -185,17 +192,33 @@ export default function Hero({ locale, dict }: HeroProps) {
                   </svg>
                 </span>
                 <input
-                  list="destinations-list"
                   type="text"
                   value={destQuery}
                   onChange={(e) => setDestQuery(e.target.value)}
+                  onFocus={() => setDestFocused(true)}
+                  onBlur={() => setDestFocused(false)}
                   placeholder={hero.searchDestination}
                   className="w-full pl-11 pr-4 py-4 bg-gray-50 border border-gray-200 text-gray-900 placeholder-gray-400 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-300 transition"
                   autoComplete="off"
+                  role="combobox"
+                  aria-expanded={destFocused && destMatches.length > 0}
+                  aria-autocomplete="list"
                 />
-                <datalist id="destinations-list">
-                  {destinations.map((d) => <option key={d.slug} value={d.name} />)}
-                </datalist>
+                {destFocused && destMatches.length > 0 && (
+                  <ul className="absolute left-0 right-0 top-full mt-1 z-20 max-h-64 overflow-auto rounded-2xl border border-gray-200 bg-white shadow-xl py-1">
+                    {destMatches.map((d) => (
+                      <li key={d.slug}>
+                        <button
+                          type="button"
+                          onMouseDown={(e) => { e.preventDefault(); setDestQuery(d.name); setDestFocused(false) }}
+                          className="w-full text-left px-4 py-2.5 text-sm text-gray-700 hover:bg-blue-50 hover:text-blue-700 transition-colors"
+                        >
+                          {d.name}
+                        </button>
+                      </li>
+                    ))}
+                  </ul>
+                )}
               </div>
 
               {/* Category quick-pick pills */}

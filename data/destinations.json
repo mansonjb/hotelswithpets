@@ -11073,6 +11073,33 @@
     "tiqetsId": "75084"
   },
   {
+    "slug": "oviedo",
+    "name": "Oviedo",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/oviedo.jpg",
+    "intro": "Oviedo, the elegant capital of Asturias in Spain's green north, is one of the most walkable and dog-welcoming cities on the peninsula. A pedestrianised medieval old town wraps around the Gothic Cathedral of San Salvador, the 90,000 m² Campo de San Francisco park has its own fenced dog area in the centre of town, and the pre-Romanesque UNESCO churches of Santa María del Naranco and San Miguel de Lillo sit on the green slopes of Monte Naranco a short climb away. With a mild, rainy oceanic climate, a 24-hour veterinary hospital in town, cider houses with dog-friendly terraces on Calle Gascona, and the dog beaches of the Asturian coast 30 minutes away, Oviedo is a relaxed, year-round base for travelling with a pet.",
+    "lat": 43.3619,
+    "lng": -5.8494,
+    "weather": {
+      "jan": { "temp": 11, "desc": "Cool & rainy", "icon": "🌧️" },
+      "feb": { "temp": 12, "desc": "Cool & rainy", "icon": "🌧️" },
+      "mar": { "temp": 14, "desc": "Mild & showery", "icon": "🌦️" },
+      "apr": { "temp": 15, "desc": "Mild & showery", "icon": "🌦️" },
+      "may": { "temp": 17, "desc": "Mild & green", "icon": "🌤️" },
+      "jun": { "temp": 20, "desc": "Warm & pleasant", "icon": "🌤️" },
+      "jul": { "temp": 22, "desc": "Warm & mild", "icon": "☀️" },
+      "aug": { "temp": 23, "desc": "Warm & mild", "icon": "☀️" },
+      "sep": { "temp": 21, "desc": "Warm & breezy", "icon": "🌤️" },
+      "oct": { "temp": 17, "desc": "Mild & showery", "icon": "🌦️" },
+      "nov": { "temp": 13, "desc": "Cool & rainy", "icon": "🌧️" },
+      "dec": { "temp": 11, "desc": "Cool & rainy", "icon": "🌧️" }
+    },
+    "iata": "OVD"
+  },
+  {
     "slug": "oxford",
     "name": "Oxford",
     "country": "United Kingdom",

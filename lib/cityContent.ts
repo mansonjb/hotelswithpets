@@ -17273,6 +17273,142 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  oviedo: {
+    history: {
+      en: `Oviedo was founded in the late 8th century when monks settled the hill of Ovetao, and within a generation it became the capital of the Kingdom of Asturias, the small Christian realm that survived the Muslim conquest and launched the Reconquista. King Alfonso II "the Chaste" made it his court around 800 AD and walked the first pilgrimage route to Santiago de Compostela, the Camino Primitivo, which still starts at the cathedral. That early-medieval golden age left Oviedo a unique pre-Romanesque heritage: Santa María del Naranco and San Miguel de Lillo on Monte Naranco, the Cámara Santa inside the cathedral, and the Foncalada public fountain, all UNESCO World Heritage. Immortalised as "Vetusta" in Clarín's 1885 novel La Regenta, the city today is the prosperous, spotlessly clean capital of Asturias, famous for its cider culture, its compact pedestrian old town, and an unusually relaxed attitude to dogs, which are a normal sight on café terraces, in the Campo de San Francisco park, and on the green trails of Monte Naranco.`,
+      fr: `Oviedo fut fondée à la fin du VIIIᵉ siècle quand des moines s'installèrent sur la colline d'Ovetao ; en une génération, elle devint la capitale du royaume des Asturies, le petit royaume chrétien qui survécut à la conquête musulmane et lança la Reconquista. Le roi Alphonse II le Chaste y établit sa cour vers l'an 800 et parcourut le premier chemin de pèlerinage vers Saint-Jacques-de-Compostelle, le Camino Primitivo, qui part toujours de la cathédrale. Cet âge d'or médiéval a laissé à Oviedo un patrimoine préroman unique : Santa María del Naranco et San Miguel de Lillo sur le Monte Naranco, la Cámara Santa dans la cathédrale, et la fontaine publique de Foncalada, tous classés au patrimoine mondial de l'UNESCO. Immortalisée sous le nom de "Vetusta" dans le roman La Regenta de Clarín (1885), la ville est aujourd'hui la capitale prospère et impeccablement propre des Asturies, célèbre pour sa culture du cidre, son centre piéton compact et une attitude particulièrement détendue envers les chiens, omniprésents aux terrasses, dans le parc Campo de San Francisco et sur les sentiers verts du Monte Naranco.`,
+      es: `Oviedo se fundó a finales del siglo VIII cuando unos monjes se asentaron en la colina de Ovetao, y en una generación se convirtió en la capital del Reino de Asturias, el pequeño reino cristiano que sobrevivió a la conquista musulmana y dio comienzo a la Reconquista. El rey Alfonso II el Casto estableció allí su corte hacia el año 800 y recorrió el primer camino de peregrinación a Santiago de Compostela, el Camino Primitivo, que todavía parte de la catedral. Aquella edad de oro medieval dejó a Oviedo un patrimonio prerrománico único: Santa María del Naranco y San Miguel de Lillo en el Monte Naranco, la Cámara Santa dentro de la catedral y la fuente pública de Foncalada, todo ello Patrimonio Mundial de la UNESCO. Inmortalizada como "Vetusta" en la novela La Regenta de Clarín (1885), hoy es la próspera e impecable capital de Asturias, famosa por su cultura sidrera, su casco antiguo peatonal y una actitud especialmente relajada hacia los perros, presencia habitual en las terrazas, en el parque del Campo de San Francisco y en los senderos verdes del Monte Naranco.`,
+      pt: `Oviedo foi fundada no final do século VIII quando uns monges se instalaram na colina de Ovetao, e numa geração tornou-se a capital do Reino das Astúrias, o pequeno reino cristão que sobreviveu à conquista muçulmana e deu início à Reconquista. O rei Afonso II, o Casto, estabeleceu ali a sua corte por volta do ano 800 e percorreu o primeiro caminho de peregrinação a Santiago de Compostela, o Camino Primitivo, que ainda hoje parte da catedral. Aquela idade de ouro medieval deixou a Oviedo um património pré-românico único: Santa María del Naranco e San Miguel de Lillo no Monte Naranco, a Cámara Santa dentro da catedral e a fonte pública de Foncalada, tudo Património Mundial da UNESCO. Imortalizada como "Vetusta" no romance La Regenta de Clarín (1885), é hoje a próspera e impecável capital das Astúrias, famosa pela sua cultura da sidra, pelo seu centro histórico pedonal e por uma atitude especialmente descontraída para com os cães, presença habitual nas esplanadas, no parque Campo de San Francisco e nos trilhos verdes do Monte Naranco.`,
+    },
+    sights: [
+      {
+        name: 'Catedral de San Salvador',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          en: `Oviedo's Gothic cathedral, begun in the 14th century around the 9th-century pre-Romanesque Cámara Santa (UNESCO), dominates the Plaza de Alfonso II. Dogs cannot enter the cathedral or the Cámara Santa, but the surrounding square and the medieval streets around it are pedestrian and perfect for a leashed walk.`,
+          fr: `La cathédrale gothique d'Oviedo, commencée au XIVᵉ siècle autour de la Cámara Santa préromane du IXᵉ siècle (UNESCO), domine la Plaza de Alfonso II. Les chiens ne peuvent pas entrer dans la cathédrale ni dans la Cámara Santa, mais la place et les ruelles médiévales alentour sont piétonnes et parfaites pour une promenade en laisse.`,
+          es: `La catedral gótica de Oviedo, iniciada en el siglo XIV en torno a la Cámara Santa prerrománica del siglo IX (UNESCO), domina la Plaza de Alfonso II. Los perros no pueden entrar en la catedral ni en la Cámara Santa, pero la plaza y las callejuelas medievales del entorno son peatonales y perfectas para un paseo con correa.`,
+          pt: `A catedral gótica de Oviedo, iniciada no século XIV em torno da Cámara Santa pré-românica do século IX (UNESCO), domina a Plaza de Alfonso II. Os cães não podem entrar na catedral nem na Cámara Santa, mas a praça e as ruelas medievais em redor são pedonais e perfeitas para um passeio à trela.`,
+        },
+      },
+      {
+        name: 'Campo de San Francisco',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: `The 90,000 m² green heart of Oviedo, a 19th-century landscaped park of mature trees, fountains and the famous duck pond. Leashed dogs are welcome on the paths, and there is a dedicated fenced dog area where they can play off-leash. The most central spot in the city for a daily walk.`,
+          fr: `Le cœur vert de 90 000 m² d'Oviedo, un parc paysager du XIXᵉ siècle aux arbres centenaires, fontaines et célèbre bassin aux canards. Les chiens en laisse sont les bienvenus sur les allées, et une aire canine clôturée permet de les laisser jouer sans laisse. L'endroit le plus central de la ville pour la promenade quotidienne.`,
+          es: `El corazón verde de 90.000 m² de Oviedo, un parque ajardinado del siglo XIX con árboles centenarios, fuentes y el famoso estanque de los patos. Los perros con correa son bienvenidos en los paseos, y hay una zona canina vallada donde pueden jugar sin correa. El sitio más céntrico de la ciudad para el paseo diario.`,
+          pt: `O coração verde de 90.000 m² de Oviedo, um parque ajardinado do século XIX com árvores centenárias, fontes e o famoso lago dos patos. Os cães à trela são bem-vindos nos passeios, e há uma zona canina vedada onde podem brincar sem trela. O sítio mais central da cidade para o passeio diário.`,
+        },
+      },
+      {
+        name: 'Santa María del Naranco',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          en: `A masterpiece of 9th-century Asturian pre-Romanesque architecture (UNESCO), this former royal palace of Ramiro I sits on the green slope of Monte Naranco with sweeping views over the city. Dogs cannot go inside, but the surrounding meadow and the walk up are leash-friendly and one of the best green outings in Oviedo.`,
+          fr: `Chef-d'œuvre de l'architecture préromane asturienne du IXᵉ siècle (UNESCO), cet ancien palais royal de Ramiro Iᵉʳ se dresse sur la pente verte du Monte Naranco avec une vue panoramique sur la ville. Les chiens ne peuvent pas entrer, mais la prairie alentour et la montée se font en laisse et constituent l'une des plus belles sorties vertes d'Oviedo.`,
+          es: `Obra maestra de la arquitectura prerrománica asturiana del siglo IX (UNESCO), este antiguo palacio real de Ramiro I se alza en la ladera verde del Monte Naranco con vistas panorámicas sobre la ciudad. Los perros no pueden entrar, pero el prado del entorno y la subida se hacen con correa y son una de las mejores salidas verdes de Oviedo.`,
+          pt: `Obra-prima da arquitetura pré-românica asturiana do século IX (UNESCO), este antigo palácio real de Ramiro I ergue-se na encosta verde do Monte Naranco com vistas panorâmicas sobre a cidade. Os cães não podem entrar, mas o prado em redor e a subida fazem-se à trela e são uma das melhores saídas verdes de Oviedo.`,
+        },
+      },
+      {
+        name: 'Monte Naranco',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          en: `The forested hill rising directly behind Oviedo, locals' "second lung", laced with walking trails, picnic areas and viewpoints over the city and, on clear days, the Picos de Europa. Leashed dogs are welcome throughout; the climb past the two pre-Romanesque churches is the classic Oviedo dog walk.`,
+          fr: `La colline boisée qui s'élève juste derrière Oviedo, le "deuxième poumon" des habitants, sillonnée de sentiers, d'aires de pique-nique et de belvédères sur la ville et, par temps clair, sur les Picos de Europa. Les chiens en laisse sont admis partout ; la montée devant les deux églises préromanes est la promenade canine classique d'Oviedo.`,
+          es: `El cerro boscoso que se eleva justo detrás de Oviedo, el "segundo pulmón" de los ovetenses, surcado de senderos, áreas de pícnic y miradores sobre la ciudad y, en días claros, los Picos de Europa. Los perros con correa son bienvenidos en todo el monte; la subida ante las dos iglesias prerrománicas es el paseo canino clásico de Oviedo.`,
+          pt: `O monte arborizado que se ergue mesmo atrás de Oviedo, o "segundo pulmão" dos habitantes, percorrido por trilhos, zonas de piquenique e miradouros sobre a cidade e, em dias claros, os Picos da Europa. Os cães à trela são bem-vindos em todo o monte; a subida diante das duas igrejas pré-românicas é o passeio canino clássico de Oviedo.`,
+        },
+      },
+      {
+        name: 'Plaza del Fontán',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          en: `Oviedo's atmospheric arcaded square, ringed by colourful facades and home to a covered market and a Sunday flea market. The open square and surrounding lanes are pedestrian, lined with dog-friendly café terraces; a fine place to pause with a coffee and your dog after the cathedral.`,
+          fr: `La pittoresque place à arcades d'Oviedo, cernée de façades colorées et abritant un marché couvert et une brocante le dimanche. La place et les ruelles alentour sont piétonnes, bordées de terrasses de cafés dog-friendly ; un bel endroit pour une pause café avec le chien après la cathédrale.`,
+          es: `La pintoresca plaza porticada de Oviedo, rodeada de fachadas de colores y con un mercado cubierto y un rastro los domingos. La plaza y las callejuelas del entorno son peatonales, llenas de terrazas dog-friendly; un buen sitio para una pausa con café y perro tras la catedral.`,
+          pt: `A pitoresca praça com arcadas de Oviedo, rodeada de fachadas coloridas e com um mercado coberto e uma feira de velharias ao domingo. A praça e as ruelas em redor são pedonais, cheias de esplanadas dog-friendly; um bom sítio para uma pausa com café e cão depois da catedral.`,
+        },
+      },
+      {
+        name: 'Calle Gascona',
+        emoji: '🍏',
+        petFriendly: true,
+        desc: {
+          en: `The "Boulevard of Cider", a pedestrian street lined with the city's classic sidrerías where waiters pour Asturian cider from above their heads. Most have dog-friendly terraces, making it the prime spot to try fabada, cachopo and escanciado cider with your dog at your feet.`,
+          fr: `Le "Boulevard du Cidre", une rue piétonne bordée des sidrerías classiques de la ville où les serveurs versent le cidre asturien au-dessus de leur tête. La plupart ont des terrasses dog-friendly, ce qui en fait l'endroit idéal pour goûter la fabada, le cachopo et le cidre escanciado avec le chien à vos pieds.`,
+          es: `El "Bulevar de la Sidra", una calle peatonal repleta de las sidrerías clásicas de la ciudad donde los camareros escancian la sidra asturiana por encima de la cabeza. La mayoría tienen terrazas dog-friendly, lo que la convierte en el mejor sitio para probar fabada, cachopo y sidra escanciada con el perro a tus pies.`,
+          pt: `O "Boulevard da Sidra", uma rua pedonal repleta das sidrerías clássicas da cidade onde os empregados servem a sidra asturiana por cima da cabeça. A maioria tem esplanadas dog-friendly, o que a torna o melhor sítio para provar fabada, cachopo e sidra escanciada com o cão aos seus pés.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        'Asturias regional rules ban dogs from most beaches from 15 June to 15 September; outside that window the regional dog beaches along the coast are open to leashed dogs.',
+        'Oviedo has an oceanic climate: it rains often year-round, so pack a dog towel and rain gear, and watch the polished old-town pavements which get slippery when wet.',
+        'The Campo de San Francisco has a dedicated fenced dog area in the centre of town, the easiest off-leash option without leaving the city.',
+        'Cercanías and FEVE local trains accept dogs: those not in a carrier must wear a muzzle and a non-retractable leash of no more than 1.5 m.',
+        'Spanish national law requires listed potentially dangerous breeds (PPP) to wear a muzzle and be on a short leash in public; carry a muzzle if your dog is on that list.',
+      ],
+      fr: [
+        'La réglementation régionale des Asturies interdit les chiens sur la plupart des plages du 15 juin au 15 septembre ; hors de cette période, les plages canines régionales de la côte sont ouvertes aux chiens en laisse.',
+        'Oviedo a un climat océanique : il pleut souvent toute l\'année, prévoyez une serviette pour le chien et de quoi vous protéger, et méfiez-vous des pavés polis de la vieille ville, glissants une fois mouillés.',
+        'Le Campo de San Francisco possède une aire canine clôturée en plein centre, l\'option sans laisse la plus simple sans quitter la ville.',
+        'Les trains locaux Cercanías et FEVE acceptent les chiens : ceux qui ne sont pas en cage doivent porter une muselière et une laisse non extensible d\'au plus 1,5 m.',
+        'La loi nationale espagnole impose aux races classées potentiellement dangereuses (PPP) une muselière et une laisse courte dans l\'espace public ; emportez une muselière si votre chien figure sur cette liste.',
+      ],
+      es: [
+        'La normativa regional de Asturias prohíbe los perros en la mayoría de las playas del 15 de junio al 15 de septiembre; fuera de esa franja, las playas caninas de la costa están abiertas a perros con correa.',
+        'Oviedo tiene clima oceánico: llueve a menudo todo el año, lleva una toalla para el perro y ropa de lluvia, y cuidado con el pavimento pulido del casco antiguo, resbaladizo cuando está mojado.',
+        'El Campo de San Francisco tiene una zona canina vallada en pleno centro, la opción sin correa más fácil sin salir de la ciudad.',
+        'Los trenes locales de Cercanías y FEVE admiten perros: los que no van en transportín deben llevar bozal y correa no extensible de no más de 1,5 m.',
+        'La ley nacional española exige a las razas catalogadas como potencialmente peligrosas (PPP) bozal y correa corta en la vía pública; lleva bozal si tu perro está en esa lista.',
+      ],
+      pt: [
+        'A regulamentação regional das Astúrias proíbe cães na maioria das praias de 15 de junho a 15 de setembro; fora dessa janela, as praias caninas da costa estão abertas a cães à trela.',
+        'Oviedo tem clima oceânico: chove com frequência o ano inteiro, leve uma toalha para o cão e roupa de chuva, e cuidado com o pavimento polido do centro histórico, escorregadio quando molhado.',
+        'O Campo de San Francisco tem uma zona canina vedada em pleno centro, a opção sem trela mais fácil sem sair da cidade.',
+        'Os comboios locais Cercanías e FEVE aceitam cães: os que não vão em transportadora devem usar açaime e trela não extensível de no máximo 1,5 m.',
+        'A lei nacional espanhola exige às raças classificadas como potencialmente perigosas (PPP) açaime e trela curta na via pública; leve açaime se o seu cão estiver nessa lista.',
+      ],
+    },
+    practicalInfo: {
+      en: [
+        'Airport: Asturias Airport (OVD) is about 40 km north-west near Avilés, connected to Oviedo by ALSA bus; small pets travel in a carrier.',
+        'Vets: AniCura Buenavista Hospital Veterinario (24h) on Calle Rafael Altamira 3, +34 985 24 04 89, is the in-town reference for emergencies.',
+        'Trains: Cercanías and FEVE local lines reach the Asturian coast (Gijón, Avilés) and accept leashed, muzzled dogs outside carriers.',
+        'Beach season: dogs are banned from regular beaches 15 June to 15 September; use the designated coastal dog beaches in that period.',
+        'Water: the Campo de San Francisco and Monte Naranco have fountains; carry water on Monte Naranco where taps are sparse.',
+      ],
+      fr: [
+        'Aéroport : l\'aéroport des Asturies (OVD) est à environ 40 km au nord-ouest près d\'Avilés, relié à Oviedo par bus ALSA ; les petits animaux voyagent en cage.',
+        'Vétérinaires : AniCura Buenavista Hospital Veterinario (24h), Calle Rafael Altamira 3, +34 985 24 04 89, est la référence en ville pour les urgences.',
+        'Trains : les lignes locales Cercanías et FEVE rejoignent la côte asturienne (Gijón, Avilés) et acceptent les chiens en laisse et muselés hors cage.',
+        'Saison des plages : les chiens sont interdits sur les plages ordinaires du 15 juin au 15 septembre ; utilisez les plages canines désignées de la côte durant cette période.',
+        'Eau : le Campo de San Francisco et le Monte Naranco ont des fontaines ; emportez de l\'eau sur le Monte Naranco où les robinets sont rares.',
+      ],
+      es: [
+        'Aeropuerto: el Aeropuerto de Asturias (OVD) está a unos 40 km al noroeste cerca de Avilés, conectado con Oviedo por autobús ALSA; las mascotas pequeñas viajan en transportín.',
+        'Veterinarios: AniCura Buenavista Hospital Veterinario (24h), Calle Rafael Altamira 3, +34 985 24 04 89, es la referencia en la ciudad para urgencias.',
+        'Trenes: las líneas locales de Cercanías y FEVE llegan a la costa asturiana (Gijón, Avilés) y admiten perros con correa y bozal fuera del transportín.',
+        'Temporada de playa: los perros no pueden ir a las playas normales del 15 de junio al 15 de septiembre; usa las playas caninas señalizadas de la costa en ese periodo.',
+        'Agua: el Campo de San Francisco y el Monte Naranco tienen fuentes; lleva agua en el Monte Naranco, donde los grifos escasean.',
+      ],
+      pt: [
+        'Aeroporto: o Aeroporto das Astúrias (OVD) fica a cerca de 40 km a noroeste perto de Avilés, ligado a Oviedo por autocarro ALSA; os animais pequenos viajam em transportadora.',
+        'Veterinários: AniCura Buenavista Hospital Veterinario (24h), Calle Rafael Altamira 3, +34 985 24 04 89, é a referência na cidade para urgências.',
+        'Comboios: as linhas locais Cercanías e FEVE chegam à costa asturiana (Gijón, Avilés) e aceitam cães à trela e com açaime fora da transportadora.',
+        'Época balnear: os cães não podem ir às praias normais de 15 de junho a 15 de setembro; use as praias caninas assinaladas da costa nesse período.',
+        'Água: o Campo de San Francisco e o Monte Naranco têm fontes; leve água no Monte Naranco, onde as torneiras são escassas.',
+      ],
+    },
+  },
   oxford: {
     history: {
       fr: `Oxford accueille les chiens depuis le Moyen Âge, le Domesday Book de 1086 mentionne déjà Port Meadow, la prairie commune de 162 hectares qui borde la Tamise au nord de la ville et qui est pâturée et promenée sans interruption depuis. La ville universitaire elle-même est née autour des collèges fondés à partir du XIIe siècle, et la tradition anglaise des "town and gown", pubs, marchés et boutiques ouverts aux travailleurs comme aux universitaires, a toujours inclus les chiens. Aujourd'hui, Oxford est l'une des petites villes les plus dog-friendly d'Angleterre : plus de 80 % des pubs accueillent les chiens em salle, les bus de la ville et les cars Oxford Tube vers Londres les transportent gratuitement, et les trois grandes prairies (Port Meadow, Christ Church Meadow, University Parks) offrent plus de 200 hectares d'espace canin à 20 minutes à pied de Carfax. Seules les cours et jardins des collèges restent fermés aux chiens, ainsi que les bâtiments de la Bodléienne, un compromis acceptable étant donné l'abondance d'alternatives em plein air.`,

@@ -771,6 +771,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Oslomarka forest, the Bygdøy peninsula, and the Akerselva river trail',
       area: 'Frogner, Grünerløkka, and Tjuvholmen',
     },
+    oviedo: {
+      personality: `the elegant capital of Asturias in Spain's green north, a pedestrianised medieval old town around the Gothic Cathedral of San Salvador with one of the most dog-welcoming city centres in Spain and the pre-Romanesque UNESCO churches of Monte Naranco a short climb away`,
+      highlight: `the Campo de San Francisco park and its fenced dog area, the cider houses of Calle Gascona with dog-friendly terraces, and the climb up Monte Naranco to Santa María del Naranco and San Miguel de Lillo`,
+      area: `the casco antiguo around the cathedral and Plaza del Fontán, the Campo de San Francisco and Calle Uría, and the green slopes of Monte Naranco`,
+    },
     oxford: {
       personality: 'a medieval university city where the honey-coloured college quadrangles are off-limits but the surrounding meadows, riverside pubs, and the off-lead Port Meadow make it one of England\'s easiest small-city dog breaks',
       highlight: 'Port Meadow off-lead common, Christ Church Meadow, and the University Parks',
@@ -1904,6 +1909,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la forêt de l\'Oslomarka, la péninsule de Bygdøy et le sentier de la rivière Akerselva',
       area: 'Frogner, Grünerløkka et Tjuvholmen',
     },
+    oviedo: {
+      personality: `l'élégante capitale des Asturies dans le nord vert de l'Espagne, une vieille ville médiévale piétonne autour de la cathédrale gothique San Salvador, l'un des centres-villes les plus accueillants pour les chiens d'Espagne, avec les églises préromanes classées UNESCO du Monte Naranco à quelques minutes de montée`,
+      highlight: `le parc Campo de San Francisco et son aire canine clôturée, les sidrerías de la Calle Gascona aux terrasses dog-friendly, et la montée du Monte Naranco vers Santa María del Naranco et San Miguel de Lillo`,
+      area: `le casco antiguo autour de la cathédrale et de la Plaza del Fontán, le Campo de San Francisco et la Calle Uría, et les pentes vertes du Monte Naranco`,
+    },
     oxford: {
       personality: 'une ville universitaire médiévale où les cours des collèges couleur miel sont interdites aux chiens mais où les prairies environnantes, les pubs riverains et le Port Meadow sans laisse en font l\'une des escapades urbaines les plus faciles d\'Angleterre',
       highlight: 'le common sans laisse de Port Meadow, Christ Church Meadow et les University Parks',
@@ -3036,6 +3046,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el bosque del Oslomarka, la península de Bygdøy y el sendero del río Akerselva',
       area: 'Frogner, Grünerløkka y Tjuvholmen',
     },
+    oviedo: {
+      personality: `la elegante capital de Asturias en el norte verde de España, un casco antiguo medieval peatonal en torno a la catedral gótica de San Salvador, uno de los centros más perrunos de España, con las iglesias prerrománicas Patrimonio de la Humanidad del Monte Naranco a un corto ascenso`,
+      highlight: `el parque del Campo de San Francisco y su zona canina vallada, las sidrerías de la Calle Gascona con terrazas dog-friendly, y la subida al Monte Naranco hasta Santa María del Naranco y San Miguel de Lillo`,
+      area: `el casco antiguo en torno a la catedral y la Plaza del Fontán, el Campo de San Francisco y la Calle Uría, y las laderas verdes del Monte Naranco`,
+    },
     oxford: {
       personality: 'una ciudad universitaria medieval donde los patios color miel de los colleges están vetados a los perros pero los prados circundantes, los pubs ribereños y el Port Meadow sin correa la convierten en una de las escapadas urbanas más fáciles de Inglaterra',
       highlight: 'el common sin correa de Port Meadow, Christ Church Meadow y los University Parks',
@@ -4167,6 +4182,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital escandinava onde a proximidad de fiordos, florestas e a vasta red de trilhos do Oslomarka a convierten en uno dos melhores destinos do continente para os duenhos de cães activos',
       highlight: 'o floresta do Oslomarka, a península de Bygdøy e o trilho do rio Akerselva',
       area: 'Frogner, Grünerløkka e Tjuvholmen',
+    },
+    oviedo: {
+      personality: `a elegante capital das Astúrias no norte verde de Espanha, um centro histórico medieval pedonal em torno da catedral gótica de San Salvador, um dos centros mais acolhedores para cães de Espanha, com as igrejas pré-românicas Património Mundial do Monte Naranco a uma curta subida`,
+      highlight: `o parque Campo de San Francisco e a sua zona canina vedada, as sidrerías da Calle Gascona com esplanadas dog-friendly, e a subida ao Monte Naranco até Santa María del Naranco e San Miguel de Lillo`,
+      area: `o casco antiguo em torno da catedral e da Plaza del Fontán, o Campo de San Francisco e a Calle Uría, e as encostas verdes do Monte Naranco`,
     },
     oxford: {
       personality: 'uma cidade universitaria medieval onde os patios color miel dos colleges estão vetados aos cães mas os prados circundantes, os pubs riberenhos e o Port Meadow sem trela a convierten numa das escapadas urbanas mais fáciles de Inglaterra',

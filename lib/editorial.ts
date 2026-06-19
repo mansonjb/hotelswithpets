@@ -31,6 +31,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Marselisborg Hundeskov, Bellevue Strand year-round dog beach, and the Den Gamle By open-air museum',
       area: 'Latin Quarter, Frederiksbjerg, and the harbour Dokk1 area',
     },
+    'abu-dhabi': {
+      personality: `the UAE capital, opening up to dogs fast since a January 2026 rule let licensed hotels and restaurants welcome cats and dogs, with Yas Island as a real pet-friendly hub and 24-hour vet clinics, though narrower than Europe with no dog beaches and most landmarks off-limits`,
+      highlight: `the 8 km Corniche seafront promenade, the Yas Bay and Yas Marina dog-friendly waterfronts, Reem Central Park, and Bark Park in Al Bateen, the city's one off-leash dog run`,
+      area: `Yas Island and Saadiyat for the densest cluster of pet-friendly hotels and dog-welcoming café terraces, plus the central Corniche districts and Khalifa City for vets and boarding`,
+    },
     'aix-en-provence': {
       personality: 'Provence\'s elegant 17th-century university city where shaded café terraces, fountained squares and the looming Sainte-Victoire massif make it one of the most genuinely dog-tolerant cities in southern France',
       highlight: 'the Cours Mirabeau plane-tree canopy, Parc Jourdan, and the Bibémus and Bimont trails on the Sainte-Victoire',
@@ -410,6 +415,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a compact baroque capital on the Elbe with kilometres of off-leash river meadows, a 5,800-hectare municipal forest on the northern edge, and a historic paddle-steamer fleet that welcomes dogs at no extra charge',
       highlight: 'the Elbwiesen river meadows through the centre, the Dresdner Heide forest, and the Schlosspark Pillnitz palace gardens',
       area: 'the Altstadt around the Frauenkirche, the Äußere Neustadt, and the Striesen / Blasewitz residential neighbourhoods',
+    },
+    dubai: {
+      personality: `a hot desert metropolis on the Arabian Gulf where pet travel works on its own terms, with dogs far less present in public than in Europe but a city exceptionally well served by 24-hour vets and professional pet resorts`,
+      highlight: `the small Dubai Islands Beach Dog Park (the only sanctioned dog beach), dog-friendly cafe terraces like Reform Social & Grill, and the waterfront promenades along the Dubai Water Canal`,
+      area: `Jumeirah and Umm Suqeim along Al Wasl Road, canal-side Business Bay, and Dubai Investment Park where the pet resorts cluster`,
     },
     dublin: {
       personality: 'a warm, pub-centred city where dogs are welcomed in beer gardens, on coastal walks, and through Europe\'s largest urban park. The Phoenix Park',
@@ -1322,6 +1332,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Pula Arena exterior loop (free, 24/7, leashed-dog-friendly), the Forum-Augustus-Sergii pedestrian spine, the Kaštel hilltop 360° panorama, the Lungomare coastal walk to Stoja and the Cape Kamenjak nature park with off-leash dog coves`,
       area: `the Roman-grid Old Town between the Arena and the Forum, the Verudela peninsula south of town with its resort hotels and dog beaches, and the Premantura/Cape Kamenjak nature park 10 km south for off-leash coastal walks`,
     },
+    'ras-al-khaimah': {
+      personality: `the United Arab Emirates' quiet beach-and-mountain resort emirate and, thanks to its official Ras Al-K9 program, the most dog-welcoming corner of the country, with long natural beaches and the Al Marjan Island corniche meeting Jebel Jais, the UAE's highest peak, behind it, quieter and cheaper than Dubai 45 to 75 minutes south under the same November-to-March winter sun`,
+      highlight: `the Ras Al-K9 listed Flamingo and Al Hamra beaches with leashed dogs, the leashed lower trails and Viewing Deck Park of Jebel Jais, the hilltop Dhayah Fort and the abandoned pearling village of Al Jazirah Al Hamra`,
+      area: `the Al Hamra Village and Al Marjan Island resort strip with the pet-friendly hotels, cafes and listed beaches, Flamingo Beach near the Ruzo restaurant, and the Hajar Mountains and Jebel Jais inland for wadi walks and mountain drives`,
+    },
     zadar: {
       personality: `the Dalmatian coast's most under-rated city - Roman forum, pre-Romanesque Saint Donatus rotunda, the wave-powered Sea Organ and the LED Greeting to the Sun, all on a compact dog-friendly Old Town peninsula with year-round Adriatic dog beaches a short drive away`,
       highlight: `the 2 km Riva seafront promenade, the Sea Organ and Greeting to the Sun installations, and the officially designated Kažin dog beach near the Vir bridge`,
@@ -1358,6 +1373,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la deuxième ville du Danemark, culture café la plus tolérante de Scandinavie après Copenhague, transports publics gratuits pour chiens et 8 forêts sans laisse officielles',
       highlight: 'le Marselisborg Hundeskov, la plage canine toute l\'année de Bellevue Strand, et le musée en plein air Den Gamle By',
       area: 'Latin Quarter, Frederiksbjerg et la zone portuaire Dokk1',
+    },
+    'abu-dhabi': {
+      personality: `la capitale des Émirats, qui s'ouvre vite aux chiens depuis qu'une règle de janvier 2026 permet aux hôtels et restaurants licenciés d'accueillir chats et chiens, avec Yas Island comme vrai pôle pet-friendly et des cliniques vétérinaires 24h/24, même si l'offre reste plus restreinte qu'en Europe (pas de plages canines, la plupart des monuments interdits)`,
+      highlight: `la promenade de bord de mer de la Corniche sur 8 km, les fronts de mer dog-friendly de Yas Bay et Yas Marina, le Reem Central Park, et Bark Park à Al Bateen, l'unique espace sans laisse de la ville`,
+      area: `Yas Island et Saadiyat pour le pôle le plus dense d'hôtels pet-friendly et de terrasses de cafés acceptant les chiens, plus les quartiers centraux de la Corniche et Khalifa City pour les vétérinaires et la pension`,
     },
     'aix-en-provence': {
       personality: 'la ville universitaire provençale du XVIIe siècle où les terrasses ombragées, les places à fontaines et le massif de la Sainte-Victoire en font l\'une des villes les plus authentiquement tolérantes aux chiens du sud de la France',
@@ -1738,6 +1758,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'capitale baroque compacte sur l\'Elbe, avec des kilomètres de prairies fluviales sans laisse, une forêt urbaine de 5 800 hectares à la lisière nord et une flotte historique de bateaux à aubes qui accueille les chiens sans supplément',
       highlight: 'les Elbwiesen qui traversent le centre, la forêt de la Dresdner Heide et les jardins du château de Pillnitz',
       area: 'l\'Altstadt autour de la Frauenkirche, l\'Äußere Neustadt et les quartiers résidentiels de Striesen / Blasewitz',
+    },
+    dubai: {
+      personality: `une métropole de désert chaude sur le golfe Persique où le voyage avec un animal se joue selon ses propres règles, avec des chiens bien moins présents en public qu'en Europe mais une ville exceptionnellement bien dotée en vétérinaires 24h/24 et en pensions professionnelles`,
+      highlight: `le petit Dubai Islands Beach Dog Park (seule plage canine autorisée), les terrasses dog-friendly comme le Reform Social & Grill, et les promenades au bord de l'eau le long du Dubai Water Canal`,
+      area: `Jumeirah et Umm Suqeim le long d'Al Wasl Road, Business Bay au bord du canal, et Dubai Investment Park où se concentrent les pensions`,
     },
     dublin: {
       personality: 'une ville chaleureuse et centrée sur les pubs où les chiens sont accueillis dans les jardins de bière, sur les promenades côtières et à travers le plus grand parc urbain d\'Europe. Le Phoenix Park',
@@ -2649,6 +2674,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la boucle extérieure de l'Arène de Pula (gratuite, 24h/24, dog-friendly en laisse), l'épine piétonne Forum-Temple d'Auguste-Sergii, le panorama 360° de la colline Kaštel, la promenade côtière Lungomare vers Stoja et le parc naturel du cap Kamenjak avec ses criques canines sans laisse`,
       area: `la vieille ville en grille romaine entre l'Arène et le Forum, la péninsule de Verudela au sud avec ses hôtels-resorts et plages canines, et le parc naturel de Premantura/cap Kamenjak à 10 km au sud pour les promenades côtières sans laisse`,
     },
+    'ras-al-khaimah': {
+      personality: `l'émirat-resort plage-et-montagne tranquille des Émirats arabes unis et, grâce à son programme officiel Ras Al-K9, le coin le plus accueillant pour les chiens du pays, où de longues plages naturelles et la corniche d'Al Marjan Island rencontrent le Jebel Jais, plus haut sommet des Émirats, plus calme et moins cher que Dubaï à 45 à 75 minutes au sud sous le même soleil d'hiver de novembre à mars`,
+      highlight: `les plages Flamingo et Al Hamra inscrites à Ras Al-K9 avec chiens en laisse, les sentiers inférieurs en laisse et le Viewing Deck Park du Jebel Jais, le fort de Dhayah perché et le village perlier abandonné d'Al Jazirah Al Hamra`,
+      area: `le secteur touristique d'Al Hamra Village et d'Al Marjan Island avec les hôtels, cafés et plages dog-friendly, Flamingo Beach près du restaurant Ruzo, et les montagnes du Hajar et le Jebel Jais à l'intérieur pour les wadis et les routes de montagne`,
+    },
     zadar: {
       personality: `la ville la plus sous-estimée de la côte dalmate - forum romain, rotonde pré-romane Saint-Donat, Orgue de la Mer alimenté par les vagues et Salut au Soleil LED, le tout sur une compacte péninsule de vieille ville dog-friendly avec des plages canines adriatiques ouvertes toute l'année à courte distance`,
       highlight: `la promenade Riva de 2 km en front de mer, les installations Orgue de la Mer et Salut au Soleil, et la plage canine officielle de Kažin près du pont de Vir`,
@@ -2685,6 +2715,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la segunda ciudad de Dinamarca, la cultura del café más tolerante de Escandinavia después de Copenhague, transporte público gratis para perros y 8 bosques sin correa oficiales',
       highlight: 'el Marselisborg Hundeskov, la playa canina todo el año de Bellevue Strand y el museo al aire libre Den Gamle By',
       area: 'Latin Quarter, Frederiksbjerg y la zona portuaria Dokk1',
+    },
+    'abu-dhabi': {
+      personality: `la capital de los EAU, que se abre rápido a los perros desde que una norma de enero de 2026 permite a hoteles y restaurantes con licencia acoger gatos y perros, con Yas Island como auténtico núcleo pet-friendly y clínicas veterinarias 24 horas, aunque la oferta sigue siendo más limitada que en Europa (sin playas caninas, la mayoría de los monumentos vetados)`,
+      highlight: `el paseo marítimo de la Corniche de 8 km, los frentes marítimos dog-friendly de Yas Bay y Yas Marina, el Reem Central Park, y Bark Park en Al Bateen, el único espacio sin correa de la ciudad`,
+      area: `Yas Island y Saadiyat para el núcleo más denso de hoteles pet-friendly y terrazas de cafés que admiten perros, además de los distritos centrales de la Corniche y Khalifa City para veterinarios y alojamiento`,
     },
     'aix-en-provence': {
       personality: 'la ciudad universitaria provenzal del siglo XVII donde las terrazas sombreadas, las plazas con fuentes y el macizo de la Sainte-Victoire la convierten en una de las ciudades más auténticamente tolerantes con los perros del sur de Francia',
@@ -3065,6 +3100,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'capital barroca compacta sobre el Elba, con kilómetros de praderas fluviales sin correa, un bosque urbano de 5.800 hectáreas en el borde norte y una flota histórica de vapores de paletas que admite perros sin coste extra',
       highlight: 'las Elbwiesen que atraviesan el centro, el bosque de la Dresdner Heide y los jardines del palacio de Pillnitz',
       area: 'el Altstadt en torno a la Frauenkirche, el Äußere Neustadt y los barrios residenciales de Striesen / Blasewitz',
+    },
+    dubai: {
+      personality: `una metrópoli de desierto calurosa en el Golfo Pérsico donde el viaje con mascota funciona según sus propias reglas, con perros mucho menos presentes en público que en Europa pero una ciudad excepcionalmente bien servida de veterinarios 24 horas y residencias profesionales`,
+      highlight: `el pequeño Dubai Islands Beach Dog Park (la única playa canina autorizada), las terrazas dog-friendly como Reform Social & Grill, y los paseos junto al agua a lo largo del Dubai Water Canal`,
+      area: `Jumeirah y Umm Suqeim a lo largo de Al Wasl Road, Business Bay junto al canal, y Dubai Investment Park donde se agrupan las residencias`,
     },
     dublin: {
       personality: 'una cálida ciudad centrada en los pubs donde los perros son bienvenidos en los jardines de cerveza, en los paseos costeros y a través del parque urbano más grande de Europa. El Phoenix Park',
@@ -3976,6 +4016,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el bucle exterior del Arena de Pula (gratis, 24/7, dog-friendly con correa), el espinazo peatonal Foro-Templo de Augusto-Sergios, el panorama de 360° del cerro Kaštel, el paseo costero Lungomare a Stoja y el parque natural del cabo Kamenjak con sus calas caninas sin correa`,
       area: `el casco antiguo en retícula romana entre el Arena y el Foro, la península de Verudela al sur con sus hoteles-resort y playas caninas, y el parque natural de Premantura/cabo Kamenjak a 10 km al sur para paseos costeros sin correa`,
     },
+    'ras-al-khaimah': {
+      personality: `el tranquilo emirato-resort de playa y montaña de los Emiratos Árabes Unidos y, gracias a su programa oficial Ras Al-K9, el rincón más acogedor con los perros del país, donde largas playas naturales y el paseo de Al Marjan Island se unen al Jebel Jais, la cima más alta de los Emiratos, más tranquilo y barato que Dubái a 45 a 75 minutos al sur bajo el mismo sol de invierno de noviembre a marzo`,
+      highlight: `las playas Flamingo y Al Hamra incluidas en Ras Al-K9 con perros con correa, los senderos inferiores con correa y el Viewing Deck Park del Jebel Jais, el fuerte de Dhayah en lo alto y el pueblo perlero abandonado de Al Jazirah Al Hamra`,
+      area: `la zona turística de Al Hamra Village y Al Marjan Island con los hoteles, cafés y playas pet-friendly, Flamingo Beach junto al restaurante Ruzo, y las montañas Hajar y el Jebel Jais hacia el interior para los wadis y las rutas de montaña`,
+    },
     zadar: {
       personality: `la ciudad más infravalorada de la costa dálmata: foro romano, rotonda prerrománica de San Donato, el Órgano del Mar accionado por las olas y el Saludo al Sol LED, todo en una compacta península de casco antiguo dog-friendly con playas caninas adriáticas todo el año a poca distancia`,
       highlight: `el paseo Riva de 2 km junto al mar, las instalaciones del Órgano del Mar y el Saludo al Sol, y la playa canina oficial de Kažin junto al puente de Vir`,
@@ -4012,6 +4057,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a segunda cidade de Dinamarca, a cultura do café mais tolerante de Escandinavia después de Copenhaga, transporte público grátis para cães e 8 florestas sem trela oficiais',
       highlight: 'o Marselisborg Hundeskov, a praia canina o ano inteiro de Bellevue Strand e o museu al aire libre Den Gamle By',
       area: 'Latin Quarter, Frederiksbjerg e a zona portuaria Dokk1',
+    },
+    'abu-dhabi': {
+      personality: `a capital dos EAU, que se abre depressa aos cães desde que uma regra de janeiro de 2026 permite a hotéis e restaurantes licenciados acolher gatos e cães, com Yas Island como verdadeiro núcleo pet-friendly e clínicas veterinárias 24 horas, embora a oferta continue mais limitada do que na Europa (sem praias caninas, a maioria dos monumentos vedados)`,
+      highlight: `o passeio marítimo da Corniche de 8 km, as marginais dog-friendly de Yas Bay e Yas Marina, o Reem Central Park, e o Bark Park em Al Bateen, o único espaço sem trela da cidade`,
+      area: `Yas Island e Saadiyat para o núcleo mais denso de hotéis pet-friendly e esplanadas de cafés que aceitam cães, além dos bairros centrais da Corniche e Khalifa City para veterinários e alojamento`,
     },
     'aix-en-provence': {
       personality: 'a cidade universitaria provenzal do século XVII onde as esplanadas sombreadas, as praças com fuentes e o macizo da Sainte-Victoire a convierten numa das cidades mais auténticamente tolerantes com os cães do sul de Francia',
@@ -4392,6 +4442,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'capital barroca compacta sobre o Elba, com kilómetros de pradarias fluviales sem trela, um floresta urbano de 5.800 hectáreas no borde norte e uma flota histórica de vapores de paletas que admite cães sem coste extra',
       highlight: 'as Elbwiesen que atraviesan o centro, o floresta da Dresdner Heide e os jardins do palácio de Pillnitz',
       area: 'o Altstadt en torno a a Frauenkirche, o Äußere Neustadt e os bairros residenciales de Striesen / Blasewitz',
+    },
+    dubai: {
+      personality: `uma metrópole de deserto quente no Golfo Pérsico onde a viagem com animal funciona segundo as suas próprias regras, com cães muito menos presentes em público do que na Europa mas uma cidade excecionalmente bem servida de veterinários 24 horas e pensões profissionais`,
+      highlight: `o pequeno Dubai Islands Beach Dog Park (a única praia canina autorizada), as esplanadas dog-friendly como o Reform Social & Grill, e os passeios junto à água ao longo do Dubai Water Canal`,
+      area: `Jumeirah e Umm Suqeim ao longo da Al Wasl Road, Business Bay junto ao canal, e Dubai Investment Park onde se concentram as pensões`,
     },
     dublin: {
       personality: 'uma cálida cidade centrada nos pubs onde os cães são bem-vindos nos jardins de cerveza, nos passeios costeros e a través do parque urbano mais grande de Europa. O Phoenix Park',
@@ -5302,6 +5357,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a antiga capital romana de Istria com 53 000 habitantes na ponta sur da península, ancorada pelo Arena do século I (um dois seis anfiteatros romanos melhor preservados do mundo), o Fórum com o seu Templo de Augusto augústeo, o Arco dos Sérgios e a colina do forte Kaštel, com a península de Punta Verudela a 4 km a sul, o parque natural do cabo Kamenjak em parte sem trela 10 km mais a sul, o aeroporto PUY a 7 km e um catamarán estacional Venezia Lines a Itália`,
       highlight: `o circuito exterior do Arena de Pula (grátis, 24/7, pet-friendly com trela), o espinazo peatonal Fórum-Templo de Augusto-Sérgios, o panorama de 360° do cerro Kaštel, o passeio costero Lungomare a Stoja e o parque natural do cabo Kamenjak com as suas calas caninas sem trela`,
       area: `o centro histórico en retícula romana entre o Arena e o Fórum, a península de Verudela a sul com os seus hotéis-resort e praias caninas, e o parque natural de Premantura/cabo Kamenjak a 10 km a sul para passeios costeros sem trela`,
+    },
+    'ras-al-khaimah': {
+      personality: `o tranquilo emirado-resort de praia e montanha dos Emirados Árabes Unidos e, graças ao seu programa oficial Ras Al-K9, o canto mais acolhedor com cães do país, onde longas praias naturais e o passeio da Al Marjan Island se juntam ao Jebel Jais, o pico mais alto dos Emirados, mais tranquilo e barato que o Dubai a 45 a 75 minutos a sul sob o mesmo sol de inverno de novembro a março`,
+      highlight: `as praias Flamingo e Al Hamra incluídas no Ras Al-K9 com cães à trela, os trilhos inferiores à trela e o Viewing Deck Park do Jebel Jais, o forte de Dhayah no alto e a aldeia de pérolas abandonada de Al Jazirah Al Hamra`,
+      area: `a zona turística de Al Hamra Village e Al Marjan Island com os hotéis, cafés e praias pet-friendly, Flamingo Beach junto ao restaurante Ruzo, e as montanhas Hajar e o Jebel Jais para o interior para os wadis e as estradas de montanha`,
     },
     zadar: {
       personality: `a cidade mais subvalorizada da costa dálmata - fórum romano, rotunda pré-românica de São Donato, o Órgão do Mar movido pelas ondas e a Saudação ao Sol LED, tudo numa compacta península do centro histórico pet-friendly com praias caninas adriáticas todo o ano a curta distância`,

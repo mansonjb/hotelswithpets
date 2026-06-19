@@ -37119,5 +37119,396 @@
       "Pet fee around €10 per day as listed on Booking",
       "Budget rate with on-site parking"
     ]
+  },
+  {
+    "id": "dubai-1",
+    "slug": "vida-dubai-marina-yacht-club",
+    "name": "Vida Dubai Marina & Yacht Club",
+    "destinationSlug": "dubai",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 3670,
+    "priceFrom": 97,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/vida-dubai-marina-yacht-club.html",
+    "petFee": 38,
+    "petPolicy": "Vida Dubai Marina & Yacht Club is part of the pet-friendly Vida brand and accepts dogs and cats in designated pet-friendly rooms for a pet cleaning fee of around AED 150 per stay plus AED 50 per day per pet (about EUR 38/stay plus EUR 13/day). Small pets only (under about 10 kg), maximum 2 per room, proof of vaccination required at check-in, dogs leashed outside the room, stays up to 14 days. Contact reservations in advance. Please confirm with the property when booking.",
+    "address": "Dubai Marina, Dubai, United Arab Emirates",
+    "neighborhood": "Dubai Marina",
+    "highlights": [
+      "Marina and yacht-club waterfront location",
+      "Pet-friendly Vida brand, small dogs and cats",
+      "Walkable to The Walk at JBR"
+    ]
+  },
+  {
+    "id": "dubai-2",
+    "slug": "voco-dubai-the-palm",
+    "name": "voco Dubai The Palm",
+    "destinationSlug": "dubai",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beachfront"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1601,
+    "priceFrom": 96,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/voco-dubai-the-palm-an-ihg.html",
+    "petFee": 0,
+    "petPolicy": "voco Dubai The Palm welcomes one cat or dog up to 20 kg per stay, a higher weight allowance than most Dubai hotels. Pets are not allowed at the pool or beach at any time, and owners are responsible for the pet`s food. No fixed pet fee is charged but an AED 500 fine applies for any damage. Please confirm with the property when booking.",
+    "address": "Palm West Beach, Palm Jumeirah, Dubai, United Arab Emirates",
+    "neighborhood": "Palm Jumeirah",
+    "highlights": [
+      "Beachfront Palm West Beach location",
+      "Higher 20 kg weight allowance for medium dogs",
+      "dogs-stay-free, no fixed pet fee"
+    ]
+  },
+  {
+    "id": "dubai-3",
+    "slug": "vida-creek-harbour",
+    "name": "Vida Creek Harbour",
+    "destinationSlug": "dubai",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 5106,
+    "priceFrom": 88,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/vida-harbour-point.html",
+    "petFee": 38,
+    "petPolicy": "Vida Creek Harbour allows 2 pets up to 10 kg for an additional fee of around AED 150 per pet per stay (about EUR 38). Both dogs and cats are welcome. Pets cannot be left unattended in the room, must be leashed outside the room, and the owner must be present during housekeeping. Pet beds, toys and bowls are available at the front office. Please confirm with the property when booking.",
+    "address": "Dubai Creek Harbour, Dubai, United Arab Emirates",
+    "neighborhood": "Dubai Creek Harbour",
+    "highlights": [
+      "Waterfront Creek Harbour promenade, itself dog-walkable",
+      "Both dogs and cats up to 10 kg",
+      "Pet beds, toys and bowls provided"
+    ]
+  },
+  {
+    "id": "dubai-4",
+    "slug": "park-hyatt-dubai",
+    "name": "Park Hyatt Dubai",
+    "destinationSlug": "dubai",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1265,
+    "priceFrom": 665,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/park-hyatt-dubai.html",
+    "petFee": 75,
+    "petPolicy": "Park Hyatt Dubai welcomes dogs up to 12 kg in designated family lagoon beach rooms and suites for an AED 300 cleaning fee (about EUR 75); cats may be allowed by request. Pets receive a welcome kit with toys, bowls and treats. Only selected rooms are set aside for guests with pets, so contact the hotel directly to reserve one. Please confirm with the property when booking.",
+    "address": "Dubai Creek Golf & Yacht Club, Deira, Dubai, United Arab Emirates",
+    "neighborhood": "Dubai Creek",
+    "highlights": [
+      "Luxury creekside resort with marina and golf setting",
+      "Pet welcome kit with toys, bowls and treats",
+      "Designated lagoon beach rooms and suites for pets"
+    ]
+  },
+  {
+    "id": "dubai-5",
+    "slug": "hotel-boulevard-autograph-collection",
+    "name": "Hotel Boulevard, Autograph Collection",
+    "destinationSlug": "dubai",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 3904,
+    "priceFrom": 111,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/hotel-boulevard-autograph-collection.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Boulevard, Autograph Collection appears on Booking.com`s Dubai pet-friendly listing and accepts pets in designated rooms; charges may apply. Exact pet fee and weight terms vary, so contact the property directly to confirm the current pet policy before booking. Please confirm with the property when booking.",
+    "address": "Sheikh Mohammed bin Rashid Boulevard, Downtown Dubai, United Arab Emirates",
+    "neighborhood": "Downtown Dubai",
+    "highlights": [
+      "Downtown location near Dubai Mall and Burj area",
+      "Design-led Autograph Collection property",
+      "Top guest review score"
+    ]
+  },
+  {
+    "id": "abu-dhabi-1",
+    "slug": "downtown-plaza-hotel-apartments-abu-dhabi",
+    "name": "Downtown Plaza Hotel Apartments",
+    "destinationSlug": "abu-dhabi",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.0,
+    "reviewCount": 1180,
+    "priceFrom": 68,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/pets/city/ae/abu-dhabi.html",
+    "petFee": 0,
+    "petPolicy": "Welcomes dogs of any size and cats at no extra charge; four-legged guests receive a welcome gift. Confirm with the property at booking.",
+    "address": "Hamdan Street, Abu Dhabi",
+    "neighborhood": "Downtown",
+    "highlights": [
+      "Dogs of any size, no pet fee",
+      "Pet welcome gift on arrival",
+      "Central Hamdan Street apartments"
+    ]
+  },
+  {
+    "id": "abu-dhabi-2",
+    "slug": "staybridge-suites-yas-island-abu-dhabi",
+    "name": "Staybridge Suites Yas Island Abu Dhabi by IHG",
+    "destinationSlug": "abu-dhabi",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 910,
+    "priceFrom": 88,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/staybridge-suites-yas-island-abu-dhabi.html",
+    "petFee": 18,
+    "petPolicy": "Two dogs under 20 kg in designated rooms for AED 70 per pet, per night (about 18 EUR). Confirm at booking.",
+    "address": "Yas Island, Abu Dhabi",
+    "neighborhood": "Yas Island",
+    "highlights": [
+      "Yas Island, near the theme parks",
+      "Suites with kitchenette",
+      "Up to 2 dogs under 20kg"
+    ]
+  },
+  {
+    "id": "abu-dhabi-3",
+    "slug": "w-abu-dhabi-yas-island",
+    "name": "W Abu Dhabi - Yas Island",
+    "destinationSlug": "abu-dhabi",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 2540,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/yas.html",
+    "petFee": 87,
+    "petPolicy": "One dog under 18 kg, AED 350 per stay (about 87 EUR). Dogs only. Confirm at booking.",
+    "address": "Yas Marina Circuit, Yas Island, Abu Dhabi",
+    "neighborhood": "Yas Island",
+    "highlights": [
+      "Built over the Yas Marina F1 circuit",
+      "Iconic design 5-star",
+      "One dog up to 18kg"
+    ]
+  },
+  {
+    "id": "abu-dhabi-4",
+    "slug": "crowne-plaza-abu-dhabi-yas-island",
+    "name": "Crowne Plaza Abu Dhabi Yas Island by IHG",
+    "destinationSlug": "abu-dhabi",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1820,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/crowne-plaza-abu-dhabi-yas-island.html",
+    "petFee": 18,
+    "petPolicy": "Pets of any size, AED 70 per pet per night (about 18 EUR) plus a one-time AED 350 cleaning fee (about 87 EUR). Confirm at booking.",
+    "address": "Yas Island, Abu Dhabi",
+    "neighborhood": "Yas Island",
+    "highlights": [
+      "Pets of any size welcome",
+      "Yas Island location",
+      "IHG pet programme"
+    ]
+  },
+  {
+    "id": "abu-dhabi-5",
+    "slug": "holiday-inn-abu-dhabi",
+    "name": "Holiday Inn Abu Dhabi by IHG",
+    "destinationSlug": "abu-dhabi",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 1490,
+    "priceFrom": 78,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/holiday-inn-abu-dhabi.html",
+    "petFee": 18,
+    "petPolicy": "IHG pet-friendly hotel: pets welcome for a fee. Confirm the size limit and charge with the property at booking.",
+    "address": "Al Salam Street, Abu Dhabi",
+    "neighborhood": "City Centre",
+    "highlights": [
+      "IHG pet-friendly programme",
+      "Central city-centre location",
+      "Confirm pet terms at booking"
+    ]
+  },
+  {
+    "id": "ras-al-khaimah-1",
+    "slug": "hilton-ras-al-khaimah-beach-resort",
+    "name": "Hilton Ras Al Khaimah Beach Resort",
+    "destinationSlug": "ras-al-khaimah",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "beach-access",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 3520,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/hilton-ras-al-khaimah-resort-spa.html",
+    "petFee": 0,
+    "petPolicy": "Two pets up to a combined 25 kg at no extra charge; pet beds, blankets and bowls provided; dogs are allowed on the resort's private beach.",
+    "address": "Al Maareedh Street, Ras Al Khaimah",
+    "neighborhood": "Al Maareedh Beach",
+    "highlights": [
+      "Free for 2 pets up to 25kg combined",
+      "Dogs allowed on the private beach",
+      "Pet beds, blankets and bowls provided"
+    ]
+  },
+  {
+    "id": "ras-al-khaimah-2",
+    "slug": "banan-beach-ras-al-khaimah",
+    "name": "Banan Beach",
+    "destinationSlug": "ras-al-khaimah",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "beach-access",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 420,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/banan-beach.html",
+    "petFee": 0,
+    "petPolicy": "Pet-friendly beach glamping: dogs of any size at no charge; cats by request.",
+    "address": "Al Rams, Ras Al Khaimah",
+    "neighborhood": "Al Rams Beach",
+    "highlights": [
+      "Beach glamping, dogs of any size free",
+      "Cats welcome by request",
+      "Quiet Al Rams shoreline"
+    ]
+  },
+  {
+    "id": "ras-al-khaimah-3",
+    "slug": "desert-inn-resort-and-camp",
+    "name": "Desert Inn Resort and Camp",
+    "destinationSlug": "ras-al-khaimah",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 310,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/desert-inn-resort-and-camp.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size at no charge (an AED 100 fee applies if the dog enters the pool); cats by request.",
+    "address": "Al Dhait South, Ras Al Khaimah",
+    "neighborhood": "Desert",
+    "highlights": [
+      "Desert camp, dogs of any size free",
+      "Stargazing and dunes",
+      "Cats welcome by request"
+    ]
+  },
+  {
+    "id": "ras-al-khaimah-4",
+    "slug": "sofitel-al-hamra-beach-resort",
+    "name": "Sofitel Al Hamra Beach Resort",
+    "destinationSlug": "ras-al-khaimah",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 2810,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/sofitel-al-hamra-beach-resort.html",
+    "petFee": 105,
+    "petPolicy": "Pets up to 20 kg; AED 350 cleaning fee per room (about 87 EUR) plus AED 70 per pet (about 18 EUR); no pets in the pools, welcome on the beach.",
+    "address": "Al Hamra Village, Ras Al Khaimah",
+    "neighborhood": "Al Hamra",
+    "highlights": [
+      "Beachfront 5-star, dogs on the beach",
+      "Pets up to 20kg",
+      "Al Hamra marina village"
+    ]
+  },
+  {
+    "id": "ras-al-khaimah-5",
+    "slug": "al-hamra-residence-ras-al-khaimah",
+    "name": "Al Hamra Residence",
+    "destinationSlug": "ras-al-khaimah",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 880,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ae/al-hamra-residence.html",
+    "petFee": 25,
+    "petPolicy": "Two dogs up to 20 kg in designated rooms for a fee; cats by request; current pet vaccinations required.",
+    "address": "Al Hamra Village, Ras Al Khaimah",
+    "neighborhood": "Al Hamra",
+    "highlights": [
+      "Al Hamra beach residences",
+      "Up to 2 dogs of 20kg",
+      "Vaccination proof required"
+    ]
   }
 ]

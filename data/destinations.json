@@ -151,6 +151,81 @@
     "tiqetsId": "65338"
   },
   {
+    "slug": "abu-dhabi",
+    "name": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "flag": "🇦🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/abu-dhabi.jpg",
+    "intro": "The UAE capital is opening up to dogs fast: a January 2026 tourism rule now lets licensed hotels and restaurants welcome cats and dogs, Yas Island has become a genuine pet-friendly hub of dog-welcoming terraces and hotels, the 8 km Corniche promenade and Reem Central Park give leashed seafront and park walks, Bark Park in Al Bateen offers the city's one off-leash dog run, and modern 24-hour vet clinics back it all up. It is narrower than a European city (no dog beaches, most landmarks off-limits, no pets on public transport) but a real winter-sun base for travellers with a dog.",
+    "lat": 24.4539,
+    "lng": 54.3773,
+    "weather": {
+      "jan": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 24,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 34,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "jun": {
+        "temp": 37,
+        "desc": "Extreme heat",
+        "icon": "🔥"
+      },
+      "jul": {
+        "temp": 39,
+        "desc": "Extreme heat",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 39,
+        "desc": "Extreme heat",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 36,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "oct": {
+        "temp": 32,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 26,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "dec": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      }
+    },
+    "iata": "AUH"
+  },
+  {
     "slug": "aix-en-provence",
     "name": "Aix-en-Provence",
     "country": "France",
@@ -6011,6 +6086,81 @@
     },
     "iata": "DRS",
     "tiqetsId": "65042"
+  },
+  {
+    "slug": "dubai",
+    "name": "Dubai",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "flag": "🇦🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/dubai.jpg",
+    "intro": "Dubai is a hot desert metropolis on the Arabian Gulf where pet travel works on its own terms. Dogs are far less present in public than in Europe, and malls, public parks, public beaches and the Metro all ban pets, but the city is exceptionally well served by 24-hour English-speaking vets and professional pet resorts, has a small set of fenced dog parks and dog-friendly cafe terraces, and is comfortable for outdoor life from November to March. Plan around the rules, the winter-sun season and the punishing summer heat, and Dubai is a workable, well-equipped base for travelling with a dog.",
+    "lat": 25.2048,
+    "lng": 55.2708,
+    "weather": {
+      "jan": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 34,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "jun": {
+        "temp": 37,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "jul": {
+        "temp": 40,
+        "desc": "Extreme heat",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 40,
+        "desc": "Extreme heat",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 37,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "oct": {
+        "temp": 33,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 27,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "dec": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      }
+    },
+    "iata": "DXB"
   },
   {
     "slug": "dublin",
@@ -14047,6 +14197,81 @@
       }
     },
     "iata": "PUY"
+  },
+  {
+    "slug": "ras-al-khaimah",
+    "name": "Ras Al Khaimah",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "flag": "🇦🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/ras-al-khaimah.jpg",
+    "intro": "Ras Al Khaimah is the United Arab Emirates` quiet outlier for pet travel: a beach-and-mountain resort emirate that, thanks to its official Ras Al-K9 program, is the most dog-welcoming corner of the country. Long natural beaches and the Al Marjan Island corniche meet Jebel Jais, the UAE`s highest peak, with leashed mountain trails and wadi walks behind it. A small set of pet-friendly resorts, cafes and beaches, real local vets led by a 24-hour line, and pet boarding back it up. It is quieter and cheaper than Dubai (45 to 75 minutes south) under the same winter sun, with November to March the comfortable season and strict UAE leash and import rules to plan around.",
+    "lat": 25.7895,
+    "lng": 55.9432,
+    "weather": {
+      "jan": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 34,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "jun": {
+        "temp": 37,
+        "desc": "Extreme heat",
+        "icon": "🔥"
+      },
+      "jul": {
+        "temp": 39,
+        "desc": "Extreme heat",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 39,
+        "desc": "Extreme heat",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 36,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "oct": {
+        "temp": 32,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 27,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "dec": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      }
+    },
+    "iata": "RKT"
   },
   {
     "slug": "regensburg",

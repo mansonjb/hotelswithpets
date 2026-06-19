@@ -22784,7 +22784,7 @@ const cityContent: Record<string, CityContent> = {
         },
       },
       {
-        name: 'Costa Adeje seafront promenade',
+        name: 'Paseo Marítimo de Costa Adeje',
         emoji: '🌴',
         petFriendly: true,
         desc: {

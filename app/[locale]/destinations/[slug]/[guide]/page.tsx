@@ -7,6 +7,7 @@ import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { valueSort } from '@/lib/hotelSort'
+import { bestSnowHotelsUrl } from '@/lib/skiStations'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { readdirSync, existsSync } from 'fs'
 import { join } from 'path'
@@ -642,6 +643,35 @@ export default async function GuideDetailPage({
         <div className="prose prose-lg max-w-none mb-8">
           <p className="text-gray-700 text-lg leading-relaxed">{intro}</p>
         </div>
+
+        {/* ── Ski-resort snow report cross-link (bestsnowhotels.com, sister site) ── */}
+        {bestSnowHotelsUrl(slug) && (
+          <a
+            href={bestSnowHotelsUrl(slug)!}
+            target="_blank"
+            rel="noopener"
+            className="flex items-center justify-between gap-3 mb-12 rounded-2xl border border-sky-200 bg-gradient-to-r from-sky-50 to-blue-50 px-5 py-4 hover:border-sky-300 hover:shadow-sm transition-all focus-visible:ring-2 focus-visible:ring-sky-400"
+          >
+            <span className="flex items-center gap-3">
+              <span className="text-2xl">❄️</span>
+              <span>
+                <span className="block font-bold text-gray-900 text-sm">
+                  {locale === 'fr' ? `Enneigement & conditions de la station de ${dest.name}`
+                    : locale === 'es' ? `Estado de la nieve y condiciones de la estación de ${dest.name}`
+                    : locale === 'pt' ? `Estado da neve e condições da estação de ${dest.name}`
+                    : `Snow report & resort conditions for ${dest.name}`}
+                </span>
+                <span className="block text-xs text-gray-500 mt-0.5">
+                  {locale === 'fr' ? 'Pistes, remontées et météo en direct sur bestsnowhotels.com'
+                    : locale === 'es' ? 'Pistas, remontes y tiempo en directo en bestsnowhotels.com'
+                    : locale === 'pt' ? 'Pistas, teleféricos e meteo em direto em bestsnowhotels.com'
+                    : 'Live pistes, lifts and weather on bestsnowhotels.com'}
+                </span>
+              </span>
+            </span>
+            <span className="text-sky-600 font-bold text-lg flex-shrink-0">→</span>
+          </a>
+        )}
 
         {/* ── Inline editorial hotel pick (above-the-fold conversion lever) ── */}
         <div className="mb-12">

@@ -20566,5 +20566,230 @@
       }
     },
     "iata": "ACE"
+  },
+  {
+    "slug": "rhodes",
+    "name": "Rhodes",
+    "country": "Greece",
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/rhodes.jpg",
+    "intro": "Rhodes pairs a car-free medieval Old Town and a breezy seafront promenade with quiet, dog-welcoming coves and the shaded streams of historic Rodini Park. It is a relaxed, outdoors-first island for dog owners, where the real planning is around summer heat and the muzzle-and-leash ferry and beach rules.",
+    "lat": 36.4349,
+    "lng": 28.2176,
+    "weather": {
+      "jan": {
+        "temp": 15,
+        "desc": "Mild and rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 15,
+        "desc": "Cool and wet",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 17,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 20,
+        "desc": "Warm and pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 28,
+        "desc": "Hot and dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 31,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 31,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Hot, gentler",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Warm autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 20,
+        "desc": "Mild and wetter",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 16,
+        "desc": "Mild and rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "RHO"
+  },
+  {
+    "slug": "rethymno",
+    "name": "Rethymno",
+    "country": "Greece",
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/rethymno.jpg",
+    "intro": "Rethymno is Crete's most atmospheric old town, where a Venetian harbour, the hilltop Fortezza fortress and a long sandy town beach sit within an easy leashed walk of each other. Its shaded Renaissance alleys and breezy seafront make it a relaxed, dog-friendly base for a summer 2026 escape, best enjoyed in the cooler morning and evening hours.",
+    "lat": 35.3667,
+    "lng": 24.4833,
+    "weather": {
+      "jan": {
+        "temp": 16,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 16,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 18,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Hot & dry",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Hot & dry",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 27,
+        "desc": "Warm & clear",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Warm autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 20,
+        "desc": "Mild & mixed",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 17,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "CHA"
+  },
+  {
+    "slug": "alghero",
+    "name": "Alghero",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/alghero.jpg",
+    "intro": "Alghero is a Catalan-flavoured walled town on Sardinia's northwest coast, ringed by golden beaches, pine forests and the dramatic Capo Caccia cliffs. With sea-wall ramparts to stroll, two official dog beaches and most attractions open to leashed dogs, it is one of Sardinia's most rewarding summer bases for travelling with a pet.",
+    "lat": 40.5589,
+    "lng": 8.3181,
+    "weather": {
+      "jan": {
+        "temp": 14,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Cool & changeable",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 16,
+        "desc": "Mild spring days",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Warming up",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Peak summer heat",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 27,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 23,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild & wetter",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": 15,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "AHO"
   }
 ]

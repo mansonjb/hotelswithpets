@@ -21,6 +21,21 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    rhodes: {
+      personality: `a relaxed, outdoors-first Greek island where dog owners roam the car-free medieval Old Town, the Mandraki harbour promenade and quiet unorganised coves before retreating to the shaded streams of Rodini Park`,
+      highlight: `Rodini Park, the Mandraki seafront promenade and the Old Town moat walk`,
+      area: `the Medieval Old Town, Mandraki and the Ixia and Ialysos coast`,
+    },
+    rethymno: {
+      personality: `one of the most atmospheric old towns in Greece, where a Venetian harbour, the hilltop Fortezza and the long Rethymno town beach all sit within an easy leashed walk`,
+      highlight: `the Old Venetian Harbour, the Fortezza headland, and the shaded Municipal Garden`,
+      area: `the Old Town, the Venetian Harbour, and the seafront promenade`,
+    },
+    alghero: {
+      personality: `a Catalan-flavoured walled town where you can stroll the pedestrian Bastioni sea walls, wander the Lido di San Giovanni seafront and reach the official Maria Pia and La Stalla dog beaches`,
+      highlight: `the Bastioni sea-wall promenade, the Pineta di Maria Pia and the Maria Pia dog beach`,
+      area: `Centro Storico, Lido di San Giovanni and the Maria Pia pine forest`,
+    },
     tenerife: {
       personality: `a subtropical year-round island where dogs walk the palm-lined Costa Adeje and Los Cristianos seafront promenades in winter sun, splash at the Playa del Cabezo dog beach in El Médano, and cool off on the shaded laurel-forest trails of the Anaga rural park below volcanic Teide`,
       highlight: `Top dog spots are the designated Playa del Cabezo dog beach in El Médano, the long Costa Adeje coastal promenade, and the cool, shaded marked trails of the Parque Rural de Anaga`,
@@ -1394,6 +1409,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    rhodes: {
+      personality: `une ile grecque detendue et tournee vers l'exterieur, ou les proprietaires de chiens parcourent la cite medievale sans voitures, la promenade du port de Mandraki et des criques tranquilles avant de se replier vers les ruisseaux ombrages du parc Rodini`,
+      highlight: `le parc Rodini, la promenade de Mandraki et le fosse de la vieille ville`,
+      area: `la vieille ville medievale, Mandraki et la cote d'Ixia et d'Ialysos`,
+    },
+    rethymno: {
+      personality: `l'une des vieilles villes les plus pittoresques de Grèce, où le port vénitien, la Fortezza perchée et la longue plage urbaine de Rethymno se rejoignent en une simple balade en laisse`,
+      highlight: `le vieux port vénitien, le promontoire de la Fortezza et le Jardin municipal ombragé`,
+      area: `la vieille ville, le port vénitien et la promenade du front de mer`,
+    },
+    alghero: {
+      personality: `une ville fortifiée aux accents catalans où l'on flâne sur les remparts piétonniers (Bastioni), le long du Lido di San Giovanni et jusqu'aux dog beaches officielles de Maria Pia et La Stalla`,
+      highlight: `la promenade des Bastioni, la Pineta di Maria Pia et la dog beach de Maria Pia`,
+      area: `le Centro Storico, le Lido di San Giovanni et la pinède de Maria Pia`,
+    },
     tenerife: {
       personality: `une île subtropicale où l'on profite de l'extérieur toute l'année, où les chiens arpentent les promenades bordées de palmiers de Costa Adeje et Los Cristianos sous le soleil d'hiver, barbotent à la plage canine de Playa del Cabezo à El Médano, et se rafraîchissent sur les sentiers ombragés de la forêt de lauriers du parc rural d'Anaga, au pied du Teide volcanique`,
       highlight: `Les meilleurs coins pour chiens sont la plage canine désignée de Playa del Cabezo à El Médano, la longue promenade côtière de Costa Adeje et les sentiers balisés frais et ombragés du Parque Rural de Anaga`,
@@ -2766,6 +2796,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    rhodes: {
+      personality: `una isla griega relajada y volcada al aire libre, donde los duenos de perros recorren la ciudad medieval sin coches, el paseo del puerto de Mandraki y calas tranquilas antes de refugiarse en los arroyos sombreados del parque Rodini`,
+      highlight: `el parque Rodini, el paseo maritimo de Mandraki y el foso del casco antiguo`,
+      area: `la ciudad medieval, Mandraki y la costa de Ixia e Ialysos`,
+    },
+    rethymno: {
+      personality: `uno de los cascos antiguos más pintorescos de Grecia, donde el puerto veneciano, la Fortezza en lo alto y la larga playa urbana de Rethymno quedan a un fácil paseo con correa`,
+      highlight: `el antiguo puerto veneciano, el promontorio de la Fortezza y el Jardín Municipal con sombra`,
+      area: `el casco antiguo, el puerto veneciano y el paseo marítimo`,
+    },
+    alghero: {
+      personality: `una ciudad amurallada de aire catalán donde puedes pasear por las murallas peatonales (Bastioni), recorrer el Lido di San Giovanni y llegar a las dog beaches oficiales de Maria Pia y La Stalla`,
+      highlight: `el paseo de las murallas (Bastioni), la Pineta di Maria Pia y la dog beach de Maria Pia`,
+      area: `el Centro Storico, el Lido di San Giovanni y el pinar de Maria Pia`,
+    },
     tenerife: {
       personality: `una isla subtropical de vida al aire libre todo el año, donde los perros pasean por los paseos marítimos con palmeras de Costa Adeje y Los Cristianos al sol de invierno, chapotean en la playa canina de Playa del Cabezo en El Médano y se refrescan en los senderos sombreados de la laurisilva del parque rural de Anaga, bajo el volcánico Teide`,
       highlight: `Los mejores rincones perrunos son la playa canina señalizada de Playa del Cabezo en El Médano, el largo paseo costero de Costa Adeje y los senderos balizados, frescos y sombreados del Parque Rural de Anaga`,
@@ -4138,6 +4183,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    rhodes: {
+      personality: `uma ilha grega descontraida e virada para o exterior, onde os donos de caes percorrem a cidade medieval sem carros, o passeio do porto de Mandraki e enseadas tranquilas antes de se refugiarem nos ribeiros sombreados do parque Rodini`,
+      highlight: `o parque Rodini, o passeio maritimo de Mandraki e o fosso da cidade velha`,
+      area: `a cidade medieval, Mandraki e a costa de Ixia e Ialysos`,
+    },
+    rethymno: {
+      personality: `uma das cidades velhas mais pitorescas da Grécia, onde o porto veneziano, a Fortezza no alto e a extensa praia urbana de Rethymno ficam a um fácil passeio de trela`,
+      highlight: `o antigo porto veneziano, o promontório da Fortezza e o Jardim Municipal sombreado`,
+      area: `a cidade velha, o porto veneziano e o passeio marítimo`,
+    },
+    alghero: {
+      personality: `uma cidade amuralhada de ar catalão onde se passeia pelas muralhas pedonais (Bastioni), pela frente-mar do Lido di San Giovanni e até às dog beaches oficiais de Maria Pia e La Stalla`,
+      highlight: `o passeio das muralhas (Bastioni), a Pineta di Maria Pia e a dog beach de Maria Pia`,
+      area: `o Centro Storico, o Lido di San Giovanni e o pinhal de Maria Pia`,
+    },
     tenerife: {
       personality: `uma ilha subtropical de vida ao ar livre o ano inteiro, onde os cães passeiam nos passeios marítimos com palmeiras de Costa Adeje e Los Cristianos ao sol de inverno, chapinham na praia canina da Playa del Cabezo em El Médano e refrescam-se nos trilhos sombreados da laurissilva do parque rural de Anaga, sob o vulcânico Teide`,
       highlight: `Os melhores pontos para cães são a praia canina designada da Playa del Cabezo em El Médano, o longo passeio costeiro de Costa Adeje e os trilhos balizados, frescos e sombreados do Parque Rural de Anaga`,

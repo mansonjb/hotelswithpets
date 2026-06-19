@@ -9613,6 +9613,80 @@
     "tiqetsId": "46"
   },
   {
+    "slug": "la-rochelle",
+    "name": "La Rochelle",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/la-rochelle.jpg",
+    "intro": "La Rochelle is a paradise for dogs and their owners, with harbour walks, green parks and pet-friendly hotels by the Atlantic.",
+    "lat": 46.1591,
+    "lng": -1.152,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & bright",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Sunny & mild",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "LRH"
+  },
+  {
     "slug": "lagos",
     "name": "Lagos",
     "country": "Portugal",

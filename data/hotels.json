@@ -37510,5 +37510,130 @@
       "Up to 2 dogs of 20kg",
       "Vaccination proof required"
     ]
+  },
+  {
+    "id": "arcachon-1",
+    "name": "Hotel Ville d'Hiver",
+    "destinationSlug": "arcachon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 526,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ville-d-hiver.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Ville d'Hiver sits in the leafy Belle Epoque Ville d'Hiver district beside the Parc Mauresque, and welcomes dogs of any size completely free of charge. There is no weight limit and no extra fee. Cats are also accepted on request. The hotel has a heated outdoor pool, a quiet garden, and is a short leashed walk from the Parc Mauresque trails and the seafront. Pets must be kept on a lead in common areas and are not permitted in the breakfast room or pool area. Please mention your pet at the time of booking so a suitable room can be allocated.",
+    "highlights": [
+      "Heated outdoor swimming pool",
+      "Garden and terrace",
+      "Steps from Parc Mauresque"
+    ],
+    "slug": "hotel-ville-d-hiver"
+  },
+  {
+    "id": "arcachon-2",
+    "name": "Les Vagues Hotel & Spa",
+    "destinationSlug": "arcachon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 420,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/les-vagues-amp-spa.html",
+    "petFee": 25,
+    "petPolicy": "Les Vagues is a five-star seafront hotel on the bay promenade with direct access to Plage Thiers and Plage Pereire, a Phytomer spa, and a panoramic rooftop. Pets are welcome for a small nightly fee and the hotel provides pet bowls and a pet basket on request. The calm bay beaches in front of the hotel are open to leashed dogs off-season (October to May). Pets must be leashed in all common areas and are not permitted in the spa, the restaurant, or the pool. Confirm your pet and the current fee at the time of booking.",
+    "highlights": [
+      "Direct access to the bay beach",
+      "Phytomer spa and indoor pool",
+      "Panoramic rooftop"
+    ],
+    "slug": "les-vagues-hotel-spa"
+  },
+  {
+    "id": "arcachon-3",
+    "name": "Grand Hotel Richelieu",
+    "destinationSlug": "arcachon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 690,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/grand-richelieu-arcachon.html",
+    "petFee": 15,
+    "petPolicy": "The Grand Hotel Richelieu sits on the Arcachon seafront in the Ville d'Ete, with direct access to the beach and sea-view rooms a short walk from the Jetee Thiers and the town centre. Dogs and cats are welcome for a small nightly fee. The hotel offers free parking and free WiFi. Pets are allowed in the rooms and common areas on a lead but not in the breakfast room, so plan an al fresco breakfast on warm mornings. The seafront promenade outside the door is ideal for early dog walks. Declare your pet when booking to confirm the current fee.",
+    "highlights": [
+      "Direct beach access",
+      "Sea-view rooms",
+      "Free parking"
+    ],
+    "slug": "grand-hotel-richelieu"
+  },
+  {
+    "id": "arcachon-4",
+    "name": "Best Western Arcachon Le Port",
+    "destinationSlug": "arcachon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1100,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/grand-atlantic.html",
+    "petFee": 12,
+    "petPolicy": "Best Western Arcachon Le Port faces the marina in the heart of Arcachon, a few minutes from the SNCF station, the Halles market, and the seafront. Dogs up to 10 kg are warmly welcomed for 12 EUR per pet per night. Cats are also accepted. Pets are allowed in the rooms and common areas on a lead but are not permitted in the dining room during breakfast. The central location makes leashed walks to the promenade and the port quays easy. Mention your pet at booking to secure a suitable room.",
+    "highlights": [
+      "Marina-facing location",
+      "Walk to SNCF station and Halles",
+      "Rooftop terrace"
+    ],
+    "slug": "best-western-arcachon-le-port"
+  },
+  {
+    "id": "arcachon-5",
+    "name": "Hotel Le Dauphin",
+    "destinationSlug": "arcachon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 540,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ledauphin.html",
+    "petFee": 10,
+    "petPolicy": "Hotel Le Dauphin is a characterful Belle Epoque villa hotel in the Ville d'Hiver, set in a garden a short leashed walk from the Parc Mauresque and the lift down to the seafront. Dogs and cats are welcome for a small nightly fee; guests should bring a lead, a bed or blanket, and any food for the stay. Pets are allowed in the rooms and the garden on a lead but not in the breakfast area. The quiet residential streets of the Ville d'Hiver are pleasant for morning walks among the historic villas. Confirm your pet and the fee at the time of booking.",
+    "highlights": [
+      "Belle Epoque villa with garden",
+      "Quiet Ville d'Hiver setting",
+      "Free parking"
+    ],
+    "slug": "hotel-le-dauphin"
   }
 ]

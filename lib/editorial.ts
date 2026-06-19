@@ -86,6 +86,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Rivierenhof park, the Schelde riverside promenade, and the Nachtegalenpark',
       area: 'the Old Town, Zurenborg, and the Zuid',
     },
+    arcachon: {
+      personality: `a Belle Epoque bay resort on the Bassin d'Arcachon where dogs ride the Cap Ferret ferry, climb Europe's highest sand dune, and wander the pine-shaded villas of the Ville d'Hiver`,
+      highlight: `the Dune du Pilat panorama, the calm bay beaches off-season, and the UBA boat across to Cap Ferret`,
+      area: `the seafront Ville d'Ete, the leafy Belle Epoque Ville d'Hiver around the Parc Mauresque, and the oyster ports of L'Aiguillon and the Port d'Arcachon`,
+    },
     arles: {
       personality: `the southern terminus of the Provence Roman triangle, a compact UNESCO town where the 1st-century Arènes still host the Easter Feria, where the official tourism office publishes its own dog-travel page, and where the Camargue wild beaches sit 30 minutes south for off-leash running`,
       highlight: `the Place du Forum and Van Gogh sightlines, the Allée des Alyscamps painted by Van Gogh and Gauguin, and the Camargue Plage de Beauduc 40 minutes south`,
@@ -616,6 +621,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the UNESCO walled old town of Dalt Vila and its panoramic ramparts, the year-round dog beach at Cala Nova, and the Ses Salines nature reserve with flamingo lagoons`,
       area: `Dalt Vila (UNESCO old town), the harbour quarters of Sa Penya and Sa Marina, and the calmer family resort of Santa Eulalia 15 minutes north`,
     },
+    'ile-de-re': {
+      personality: `a flat, sun-soaked Atlantic island off La Rochelle, where more than 100 km of cycling paths make the dog in a bike basket the local norm and the leashed beaches, salt marshes and harbour villages are deeply relaxed about pets`,
+      highlight: `the UNESCO Vauban fortifications and harbour of Saint-Martin-de-Ré, the marais salants and Phare des Baleines lighthouse at the northwest tip, and the long Atlantic sands of Le Bois-Plage and La Couarde`,
+      area: `Saint-Martin-de-Ré inside its star-shaped ramparts, the medieval covered market of La Flotte, and the beach village of Le Bois-Plage-en-Ré`,
+    },
     innsbruck: {
       personality: 'Tyrol\'s capital encircled by 2,300m Alpine peaks, free public transport for dogs, dog-friendly cable cars to mountain summits, café and Gasthaus tradition that welcomes dogs, and 24/7 emergency vet',
       highlight: 'the Nordkette range reachable by cable car from the centre, the Hofgarten royal park, and the cobbled Altstadt around the Goldenes Dachl',
@@ -655,6 +665,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `the western Algarve's most dog-tolerant base, a 16th-century walled old town wrapped in pedestrian lanes and pavement terraces, the ochre limestone cliffs of Ponta da Piedade with their 4 km clifftop boardwalk, the 4 km Meia Praia dune for off-season runs and a year-round dog zone at Praia de Porto de Mós`,
       highlight: `the Ponta da Piedade clifftop boardwalk, the 4 km off-season Meia Praia dune, and the year-round dog zone at Praia de Porto de Mós`,
       area: `the walled old town around Praça Gil Eanes and Praça do Infante, the Marina de Lagos waterfront and the residential Chinicato outskirts`,
+    },
+    'la-rochelle': {
+      personality: `an Atlantic sailing capital wrapped around its medieval Vieux Port, where three guard towers frame the harbour, arcaded merchant streets shelter dogs from rain and sun, and the city's flat, bike-friendly geography makes it one of the easiest in France to explore with a dog`,
+      highlight: `the three towers of the Vieux Port (Saint-Nicolas, de la Chaîne and de la Lanterne), the near-2 km Parc Charruyer green belt from centre to sea, and the Île de Ré ten minutes across the bridge`,
+      area: `the arcaded Vieille Ville and the Vieux Port quays, the Parc Charruyer green corridor, and the Port des Minimes marina and sea-front to the south`,
     },
     lausanne: {
       personality: 'Switzerland\'s Olympic Capital on Lake Geneva, one of Europe\'s most naturally dog-welcoming cities, where dogs ride the metro free, roam the 200-hectare Sauvabelin forest, and are welcomed in virtually every restaurant',
@@ -1429,6 +1444,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le parc Rivierenhof, la promenade riveraine de l\'Escaut et le Nachtegalenpark',
       area: 'la Vieille Ville, Zurenborg et le Zuid',
     },
+    arcachon: {
+      personality: `une station balnéaire Belle Époque du Bassin d'Arcachon où les chiens prennent le bac pour le Cap Ferret, gravissent la plus haute dune de sable d'Europe, et déambulent parmi les villas ombragées de pins de la Ville d'Hiver`,
+      highlight: `le panorama de la Dune du Pilat, les plages calmes du bassin hors saison, et le bateau UBA jusqu'au Cap Ferret`,
+      area: `la Ville d'Été en front de mer, la Ville d'Hiver Belle Époque et verdoyante autour du Parc Mauresque, et les ports ostréicoles de L'Aiguillon et du Port d'Arcachon`,
+    },
     arles: {
       personality: `le terminus sud du triangle romain de Provence, une petite ville UNESCO où les Arènes du Ier siècle accueillent encore la Feria de Pâques, où l'office de tourisme publie sa propre page dédiée aux voyageurs canins, et où les plages sauvages de Camargue sont à 30 minutes au sud pour la course libre`,
       highlight: `la Place du Forum et les perspectives Van Gogh, l'Allée des Alyscamps peinte par Van Gogh et Gauguin, et la Plage de Beauduc en Camargue à 40 minutes au sud`,
@@ -1959,6 +1979,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la vieille ville fortifiée de Dalt Vila (UNESCO) et ses remparts panoramiques, la plage canine de Cala Nova ouverte toute l'année, et la réserve naturelle de Ses Salines avec ses flamants roses`,
       area: `Dalt Vila (vieille ville UNESCO), les quartiers du port Sa Penya et Sa Marina, et la station familiale plus calme de Santa Eulalia à 15 minutes au nord`,
     },
+    'ile-de-re': {
+      personality: `une île atlantique plate et ensoleillée au large de La Rochelle, où plus de 100 km de pistes cyclables font du chien dans le panier de vélo la norme locale, et où les plages en laisse, les marais salants et les villages portuaires sont profondément détendus avec les animaux`,
+      highlight: `les fortifications Vauban classées UNESCO et le port de Saint-Martin-de-Ré, les marais salants et le Phare des Baleines à la pointe nord-ouest, et les longues plages atlantiques du Bois-Plage et de La Couarde`,
+      area: `Saint-Martin-de-Ré dans ses remparts en étoile, le marché couvert médiéval de La Flotte, et le village balnéaire du Bois-Plage-en-Ré`,
+    },
     innsbruck: {
       personality: 'la capitale du Tyrol entourée de pics alpins à 2 300 m, transports publics gratuits pour chiens, téléphériques dog-friendly jusqu\'aux sommets, tradition café et Gasthaus qui accueille les chiens, et urgences vétérinaires 24h/24',
       highlight: 'la chaîne du Nordkette accessible en téléphérique depuis le centre, le parc royal Hofgarten et le Altstadt pavé autour du Goldenes Dachl',
@@ -1998,6 +2023,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la base la plus dog-tolerant de l'ouest de l'Algarve, vieille ville fortifiée du XVIᵉ siècle parcourue de ruelles piétonnes et de terrasses de trottoir, falaises calcaires ocre de Ponta da Piedade avec leur pontón de 4 km, dune de 4 km de Meia Praia pour les courses hors saison et zone canine permanente à Praia de Porto de Mós`,
       highlight: `le pontón de falaise de Ponta da Piedade, la dune de Meia Praia de 4 km en demi-saison et la zone canine permanente de Praia de Porto de Mós`,
       area: `la vieille ville fortifiée autour de la Praça Gil Eanes et de la Praça do Infante, le front de la Marina de Lagos et la périphérie résidentielle de Chinicato`,
+    },
+    'la-rochelle': {
+      personality: `une capitale atlantique de la voile blottie autour de son Vieux Port médiéval, où trois tours de garde encadrent le port, où les rues à arcades des marchands abritent les chiens de la pluie et du soleil, et dont la géographie plate et propice au vélo en fait l'une des villes les plus faciles de France à explorer avec un chien`,
+      highlight: `les trois tours du Vieux Port (Saint-Nicolas, de la Chaîne et de la Lanterne), la ceinture verte du Parc Charruyer de près de 2 km du centre à la mer, et l'Île de Ré à dix minutes par le pont`,
+      area: `la Vieille Ville à arcades et les quais du Vieux Port, le corridor vert du Parc Charruyer, et la marina du Port des Minimes avec le front de mer au sud`,
     },
     lausanne: {
       personality: 'la Capitale Olympique suisse sur le lac Léman, l\'une des villes les plus naturellement dog-friendly d\'Europe, où les chiens prennent le métro gratuitement, se promènent dans la forêt de Sauvabelin de 200 hectares et sont accueillis dans pratiquement chaque restaurant',
@@ -2771,6 +2801,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el parque Rivierenhof, el paseo ribereño del Escalda y el Nachtegalenpark',
       area: 'el Casco Antiguo, Zurenborg y el Zuid',
     },
+    arcachon: {
+      personality: `una estación balnearia Belle Époque del Bassin d'Arcachon donde los perros toman el ferry a Cap Ferret, suben la duna de arena más alta de Europa, y pasean entre las villas sombreadas de pinos de la Ville d'Hiver`,
+      highlight: `el panorama de la Dune du Pilat, las playas tranquilas de la bahía fuera de temporada, y el barco UBA hasta Cap Ferret`,
+      area: `la Ville d'Été en el paseo marítimo, la verde Ville d'Hiver Belle Époque alrededor del Parc Mauresque, y los puertos ostrícolas de L'Aiguillon y el Port d'Arcachon`,
+    },
     arles: {
       personality: `el terminal sur del triángulo romano de Provenza, una pequeña ciudad UNESCO donde las Arenas del siglo I aún acogen la Feria de Pascua, donde la oficina de turismo publica su propia página dedicada a viajeros caninos, y donde las playas salvajes de la Camarga quedan a 30 minutos al sur para la carrera libre`,
       highlight: `la Place du Forum y las perspectivas Van Gogh, la Allée des Alyscamps pintada por Van Gogh y Gauguin, y la Plage de Beauduc en la Camarga a 40 minutos al sur`,
@@ -3301,6 +3336,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el casco antiguo amurallado de Dalt Vila (UNESCO) y sus murallas panorámicas, la playa canina de Cala Nova abierta todo el año, y la reserva natural de Ses Salines con sus flamencos`,
       area: `Dalt Vila (casco antiguo UNESCO), los barrios portuarios de Sa Penya y Sa Marina, y la estación familiar más tranquila de Santa Eulalia a 15 minutos al norte`,
     },
+    'ile-de-re': {
+      personality: `una isla atlántica llana y soleada frente a La Rochelle, donde más de 100 km de carriles bici hacen del perro en la cesta de la bicicleta la norma local, y donde las playas con correa, las marismas saladas y los pueblos portuarios son profundamente relajados con los animales`,
+      highlight: `las fortificaciones Vauban declaradas Patrimonio de la UNESCO y el puerto de Saint-Martin-de-Ré, las marismas saladas y el Phare des Baleines en la punta noroeste, y las largas playas atlánticas de Le Bois-Plage y La Couarde`,
+      area: `Saint-Martin-de-Ré dentro de sus murallas en estrella, el mercado cubierto medieval de La Flotte, y el pueblo costero de Le Bois-Plage-en-Ré`,
+    },
     innsbruck: {
       personality: 'la capital del Tirol rodeada de picos alpinos a 2.300 m, transporte público gratis para perros, teleféricos dog-friendly hasta las cimas, tradición de café y Gasthaus que admite perros, y urgencias veterinarias 24/7',
       highlight: 'la cordillera del Nordkette accesible en teleférico desde el centro, el parque real Hofgarten y el Altstadt empedrado en torno al Goldenes Dachl',
@@ -3340,6 +3380,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la base más dog-tolerant del oeste del Algarve, casco antiguo amurallado del siglo XVI atravesado por callejones peatonales y terrazas adoquinadas, acantilados calizos ocres de Ponta da Piedade con su pasarela de 4 km, duna de 4 km de Meia Praia para carreras fuera de temporada y zona canina permanente en Praia de Porto de Mós`,
       highlight: `la pasarela de acantilado de Ponta da Piedade, la duna de Meia Praia de 4 km en temporada baja y la zona canina permanente de Praia de Porto de Mós`,
       area: `el casco antiguo amurallado en torno a la Praça Gil Eanes y la Praça do Infante, el frente de la Marina de Lagos y la periferia residencial de Chinicato`,
+    },
+    'la-rochelle': {
+      personality: `una capital atlántica de la vela acurrucada en torno a su Vieux Port medieval, donde tres torres de guardia enmarcan el puerto, las calles porticadas de los mercaderes resguardan a los perros de la lluvia y el sol, y cuya geografía llana y apta para la bici la convierte en una de las ciudades más fáciles de Francia para explorar con un perro`,
+      highlight: `las tres torres del Vieux Port (Saint-Nicolas, de la Chaîne y de la Lanterne), el cinturón verde del Parc Charruyer de casi 2 km del centro al mar, y la Île de Ré a diez minutos por el puente`,
+      area: `la Vieille Ville porticada y los muelles del Vieux Port, el corredor verde del Parc Charruyer, y la marina del Port des Minimes con el frente marítimo al sur`,
     },
     lausanne: {
       personality: 'la Capital Olímpica suiza en el lago Lemán, una de las ciudades más naturalmente acogedoras para perros de Europa, donde los perros viajan en metro gratis, recorren el bosque de Sauvabelin de 200 hectáreas y son bienvenidos en prácticamente todos los restaurantes',
@@ -4113,6 +4158,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'o parque Rivierenhof, o passeio riberenho do Escalda e o Nachtegalenpark',
       area: 'o Centro histórico, Zurenborg e o Zuid',
     },
+    arcachon: {
+      personality: `uma estância balnear Belle Époque do Bassin d'Arcachon onde os cães apanham o ferry para o Cap Ferret, sobem a duna de areia mais alta da Europa, e passeiam entre as villas sombreadas de pinheiros da Ville d'Hiver`,
+      highlight: `o panorama da Dune du Pilat, as praias calmas da baía fora de época, e o barco UBA até ao Cap Ferret`,
+      area: `a Ville d'Été à beira-mar, a verdejante Ville d'Hiver Belle Époque em redor do Parc Mauresque, e os portos ostreícolas de L'Aiguillon e do Port d'Arcachon`,
+    },
     arles: {
       personality: `o terminal sul do triângulo romano de Provença, uma pequena cidade UNESCO onde as Arenas do século I ainda acolhem a Feria da Páscoa, onde o posto de turismo publica a sua própria página dedicada a viajantes caninos, e onde as praias selvagens da Camarga ficam a 30 minutos a sul para a corrida livre`,
       highlight: `a Place du Forum e as perspectivas Van Gogh, a Allée des Alyscamps pintada por Van Gogh e Gauguin, e a Plage de Beauduc na Camarga a 40 minutos a sul`,
@@ -4643,6 +4693,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `o centro histórico amuralhado de Dalt Vila (UNESCO) e as suas muralhas panorâmicas, a praia canina de Cala Nova aberta todo o ano, e a reserva natural de Ses Salines com os seus flamingos`,
       area: `Dalt Vila (centro histórico UNESCO), os bairros portuários de Sa Penya e Sa Marina, e a estação familiar mais tranquila de Santa Eulalia a 15 minutos a norte`,
     },
+    'ile-de-re': {
+      personality: `uma ilha atlântica plana e cheia de sol ao largo de La Rochelle, onde mais de 100 km de ciclovias fazem do cão no cesto da bicicleta a norma local, e onde as praias com trela, os sapais salgados e as vilas portuárias são profundamente descontraídos com os animais`,
+      highlight: `as fortificações Vauban classificadas pela UNESCO e o porto de Saint-Martin-de-Ré, os sapais salgados e o Phare des Baleines na ponta noroeste, e as longas praias atlânticas de Le Bois-Plage e La Couarde`,
+      area: `Saint-Martin-de-Ré dentro das suas muralhas em estrela, o mercado coberto medieval de La Flotte, e a vila balnear de Le Bois-Plage-en-Ré`,
+    },
     innsbruck: {
       personality: 'a capital do Tirol rodeada de picos alpinos a 2.300 m, transporte público grátis para cães, teleféricos pet-friendly até as cimas, tradición de café e Gasthaus que admite cães, e urgências veterinárias 24/7',
       highlight: 'a cordillera do Nordkette acessível en teleférico a partir do centro, o parque real Hofgarten e o Altstadt empedrado en torno al Goldenes Dachl',
@@ -4682,6 +4737,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a base mais dog-tolerant do oeste do Algarve, cidade velha amuralhada do século XVI atravessada por ruelas pedonais e esplanadas calcetadas, falésias calcárias ocres da Ponta da Piedade com o seu passadiço de 4 km, duna de 4 km da Meia Praia para corridas fora de época e zona canina permanente na Praia de Porto de Mós`,
       highlight: `o passadiço de falésia da Ponta da Piedade, a duna da Meia Praia de 4 km na meia-estação e a zona canina permanente da Praia de Porto de Mós`,
       area: `a cidade velha amuralhada em torno da Praça Gil Eanes e da Praça do Infante, a frente da Marina de Lagos e a periferia residencial de Chinicato`,
+    },
+    'la-rochelle': {
+      personality: `uma capital atlântica da vela aninhada em torno do seu Vieux Port medieval, onde três torres de guarda emolduram o porto, as ruas de arcadas dos mercadores abrigam os cães da chuva e do sol, e cuja geografia plana e amiga da bicicleta faz dela uma das cidades mais fáceis de França para explorar com um cão`,
+      highlight: `as três torres do Vieux Port (Saint-Nicolas, de la Chaîne e de la Lanterne), a cintura verde do Parc Charruyer de quase 2 km do centro ao mar, e a Île de Ré a dez minutos pela ponte`,
+      area: `a Vieille Ville de arcadas e os cais do Vieux Port, o corredor verde do Parc Charruyer, e a marina do Port des Minimes com a frente-mar a sul`,
     },
     lausanne: {
       personality: 'a Capital Olímpica suiza no lago Lemán, uma das cidades mais naturalmente acogedoras para cães de Europa, onde os cães viajan no metro grátis, recorren o floresta de Sauvabelin de 200 hectáreas e são bem-vindos en prácticamente todos os restaurantes',

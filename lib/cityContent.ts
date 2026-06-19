@@ -1373,6 +1373,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  arcachon: {
+    history: {
+      fr: `Arcachon naît de l'eau et du sable. Jusqu'au milieu du XIXe siècle, ce n'était qu'un hameau de pêcheurs et d'ostréiculteurs sur la rive sud du Bassin. Tout bascule en 1857 quand les frères Pereire, banquiers et bâtisseurs du chemin de fer, créent la commune et lancent la Ville d'Hiver, un quartier de villas extravagantes adossé à la colline, conçu comme station climatique pour soigner les poumons fragiles dans l'air balsamique des pins. La Ville d'Été suit, face à la mer, avec son casino, sa jetée et son front de mer. Aujourd'hui Arcachon mêle architecture Belle Époque, culture de l'huître du Bassin, plages calmes et la colossale Dune du Pilat au sud. Côté chiens, la ville est tolérante hors saison: les plages du bassin admettent les animaux en laisse d'octobre à mai, la Dune du Pilat les accueille toute l'année, et le bac UBA les emmène au Cap Ferret.`,
+      en: `Arcachon was born of water and sand. Until the mid-19th century it was just a hamlet of fishermen and oyster farmers on the southern shore of the bay. Everything changed in 1857 when the Pereire brothers, bankers and railway builders, founded the town and launched the Ville d'Hiver, a hillside district of extravagant villas designed as a winter health resort to treat fragile lungs in the balsamic air of the pines. The seafront Ville d'Ete followed, with its casino, pier and promenade. Today Arcachon blends Belle Epoque architecture, the oyster culture of the Bassin, calm bay beaches, and the colossal Dune du Pilat to the south. Dog-wise the town is liberal off-season: the bay beaches welcome leashed pets from October through May, the Dune du Pilat welcomes them year-round, and the UBA ferry carries them across to Cap Ferret.`,
+      es: `Arcachon nació del agua y de la arena. Hasta mediados del siglo XIX era solo un caserío de pescadores y ostricultores en la orilla sur de la bahía. Todo cambió en 1857 cuando los hermanos Pereire, banqueros y constructores del ferrocarril, fundaron la localidad y lanzaron la Ville d'Hiver, un barrio de villas extravagantes en la ladera concebido como estación climática para tratar pulmones frágiles en el aire balsámico de los pinos. La Ville d'Été siguió, frente al mar, con su casino, su embarcadero y su paseo marítimo. Hoy Arcachon combina arquitectura Belle Époque, la cultura de la ostra del Bassin, playas tranquilas de bahía, y la colosal Dune du Pilat al sur. Con los perros, la ciudad es tolerante fuera de temporada: las playas de la bahía admiten animales con correa de octubre a mayo, la Dune du Pilat los acoge todo el año, y el ferry UBA los lleva a Cap Ferret.`,
+      pt: `Arcachon nasceu da água e da areia. Até meados do século XIX era apenas um lugarejo de pescadores e ostreicultores na margem sul da baía. Tudo mudou em 1857 quando os irmãos Pereire, banqueiros e construtores do caminho de ferro, fundaram a vila e lançaram a Ville d'Hiver, um bairro de villas extravagantes na encosta concebido como estância climática para tratar pulmões frágeis no ar balsâmico dos pinheiros. A Ville d'Été seguiu-se, de frente para o mar, com o seu casino, o seu cais e a sua promenade. Hoje Arcachon combina arquitetura Belle Époque, a cultura da ostra do Bassin, praias calmas de baía, e a colossal Dune du Pilat a sul. Quanto aos cães, a vila é tolerante fora de época: as praias da baía aceitam animais com trela de outubro a maio, a Dune du Pilat acolhe-os o ano inteiro, e o ferry UBA leva-os até ao Cap Ferret.`,
+    },
+    sights: [
+      {
+        name: 'Dune du Pilat',
+        emoji: '🏜️',
+        petFriendly: true,
+        desc: {
+          fr: `La plus haute dune de sable d'Europe, à plus de 100 mètres, entre la forêt de pins des Landes et l'Atlantique. Les chiens en laisse sont admis toute l'année; la crête offre un panorama sur le banc d'Arguin, le Cap Ferret et l'océan. Apportez de l'eau, le sable n'a aucune ombre et chauffe fort en été.`,
+          en: `Europe's highest sand dune at over 100 metres, between the pine forest of the Landes and the Atlantic. Leashed dogs are welcome year-round; the crest gives a panorama over the Banc d'Arguin, Cap Ferret and the ocean. Bring water, the open sand has no shade and gets very hot in summer.`,
+          es: `La duna de arena más alta de Europa, con más de 100 metros, entre el bosque de pinos de las Landas y el Atlántico. Los perros con correa se admiten todo el año; la cresta ofrece un panorama sobre el banco de Arguin, Cap Ferret y el océano. Lleva agua, la arena no tiene sombra y se calienta mucho en verano.`,
+          pt: `A duna de areia mais alta da Europa, com mais de 100 metros, entre a floresta de pinheiros das Landes e o Atlântico. Os cães com trela são aceites o ano inteiro; a crista oferece um panorama sobre o banco de Arguin, o Cap Ferret e o oceano. Leve água, a areia não tem sombra e aquece muito no verão.`,
+        },
+      },
+      {
+        name: 'Ville d\'Hiver & Parc Mauresque',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier Belle Époque des frères Pereire, un coteau de villas ornées du XIXe siècle parmi les pins, centré sur le Parc Mauresque et son belvédère sur la baie. Les chiens en laisse sont les bienvenus dans le parc et dans les rues du quartier; un ascenseur relie le haut au front de mer.`,
+          en: `The Belle Epoque district of the Pereire brothers, a hillside of ornate 19th-century villas among the pines, centred on the Parc Mauresque and its belvedere over the bay. Leashed dogs are welcome in the park and the quarter's streets; a lift connects the top down to the seafront.`,
+          es: `El barrio Belle Époque de los hermanos Pereire, una ladera de villas ornamentadas del siglo XIX entre los pinos, centrado en el Parc Mauresque y su mirador sobre la bahía. Los perros con correa son bienvenidos en el parque y las calles del barrio; un ascensor conecta la parte alta con el paseo marítimo.`,
+          pt: `O bairro Belle Époque dos irmãos Pereire, uma encosta de villas ornamentadas do século XIX entre os pinheiros, centrado no Parc Mauresque e no seu belvedere sobre a baía. Os cães com trela são bem-vindos no parque e nas ruas do bairro; um elevador liga a parte alta à beira-mar.`,
+        },
+      },
+      {
+        name: 'Cap Ferret (bac UBA)',
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `La presqu'île de l'autre côté de la baie, accessible par le bac UBA depuis la Jetée Thiers (chiens en laisse admis toute l'année). On y trouve le phare, les plages océanes sauvages, les plages calmes du bassin et les cabanes à huîtres. C'est l'excursion canine classique d'Arcachon.`,
+          en: `The peninsula across the bay, reached by the UBA ferry from the Jetee Thiers (leashed dogs allowed year-round). It has the lighthouse, the wild ocean beaches, the calm bay beaches and the oyster shacks. It is Arcachon's classic dog day-trip.`,
+          es: `La península al otro lado de la bahía, accesible por el ferry UBA desde la Jetee Thiers (perros con correa admitidos todo el año). Tiene el faro, las playas oceánicas salvajes, las playas tranquilas de la bahía y las cabañas de ostras. Es la excursión canina clásica de Arcachon.`,
+          pt: `A península do outro lado da baía, alcançável pelo ferry UBA a partir da Jetee Thiers (cães com trela permitidos o ano inteiro). Tem o farol, as praias oceânicas selvagens, as praias calmas da baía e as cabanas de ostras. É a excursão canina clássica de Arcachon.`,
+        },
+      },
+      {
+        name: 'Plage Pereire',
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `La plage calme du bassin adossée au Parc Pereire ombragé de pins, l'une des plus agréables de la ville. Les chiens en laisse y sont admis d'octobre à mai; une interdiction estivale (env. juin–septembre) s'applique par arrêté municipal. Vérifiez l'arrêté en vigueur.`,
+          en: `The calm bay beach backed by the pine-shaded Parc Pereire, one of the nicest in town. Leashed dogs are allowed from October to May; a summer ban (approx June–September) applies by municipal arrete. Check the current arrete.`,
+          es: `La playa tranquila de la bahía respaldada por el Parc Pereire sombreado de pinos, una de las más agradables de la ciudad. Los perros con correa se admiten de octubre a mayo; una prohibición estival (aprox. junio–septiembre) se aplica por arrete municipal. Comprueba el arrete vigente.`,
+          pt: `A praia calma da baía ladeada pelo Parc Pereire sombreado de pinheiros, uma das mais agradáveis da vila. Os cães com trela são aceites de outubro a maio; uma proibição estival (aprox. junho–setembro) aplica-se por arrete municipal. Verifique o arrete em vigor.`,
+        },
+      },
+      {
+        name: 'Île aux Oiseaux & cabanes tchanquées',
+        emoji: '🛶',
+        petFriendly: true,
+        desc: {
+          fr: `L'île plate au milieu du Bassin couronnée par les deux cabanes tchanquées sur pilotis, emblème d'Arcachon. Des tours en bateau et pinasses traditionnelles en font le tour ainsi que de la réserve du banc d'Arguin; de nombreux opérateurs acceptent les chiens en laisse à bord.`,
+          en: `The flat island in the middle of the Bassin crowned by the two cabanes tchanquees stilt huts, the emblem of Arcachon. Boat tours and traditional pinasses circle it and the Banc d'Arguin reserve; many operators allow leashed dogs on board.`,
+          es: `La isla plana en medio del Bassin coronada por las dos cabanes tchanquees sobre pilotes, emblema de Arcachon. Excursiones en barco y pinasses tradicionales la rodean, junto con la reserva del banco de Arguin; muchos operadores admiten perros con correa a bordo.`,
+          pt: `A ilha plana no meio do Bassin coroada pelas duas cabanes tchanquees sobre estacas, emblema de Arcachon. Passeios de barco e pinasses tradicionais contornam-na, bem como a reserva do banco de Arguin; muitos operadores aceitam cães com trela a bordo.`,
+        },
+      },
+      {
+        name: 'Port de L\'Aiguillon',
+        emoji: '🦪',
+        petFriendly: true,
+        desc: {
+          fr: `Le port ostréicole où les producteurs ouvrent leurs cabanes en tables de dégustation: huîtres du Bassin, crevettes et pignots servis au bord de l'eau. Les chiens y sont chez eux aux tables extérieures. Venez à marée basse pour le cadre le plus calme.`,
+          en: `The oyster port where producers turn their cabanes into tasting tables: huitres du Bassin, crevettes and pignots served over the water. Dogs are at home at the outdoor tables. Come at low tide for the calmest setting.`,
+          es: `El puerto ostrícola donde los productores convierten sus cabañas en mesas de degustación: ostras del Bassin, gambas y pignots servidos junto al agua. Los perros están en casa en las mesas exteriores. Ve con marea baja para el entorno más tranquilo.`,
+          pt: `O porto ostreícola onde os produtores transformam as suas cabanas em mesas de prova: ostras do Bassin, camarão e pignots servidos junto à água. Os cães estão à vontade nas mesas exteriores. Vá na maré-baixa para o cenário mais calmo.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale des plages: les chiens sont interdits sur les plages de la ville d'Arcachon en été (env. juin–septembre) par arrêté municipal, avec amende; d'octobre à mai ils sont admis en laisse à Pereire et aux Abatilles.`,
+        `La Dune du Pilat accueille les chiens en laisse toute l'année, mais le sable n'a aucune ombre et brûle les coussinets en été; marchez tôt ou tard et emportez beaucoup d'eau.`,
+        `Le bac UBA emmène les chiens en laisse au Cap Ferret toute l'année, c'est la meilleure sortie canine du Bassin (phare, plages océanes, cabanes à huîtres).`,
+        `Le Bassin est une baie à marée: vérifiez l'horaire avant de marcher sur les bancs de sable et tenez le chien à l'écart des parcs à huîtres, les coquilles coupent les pattes.`,
+        `Les chiens de catégories 1 et 2 (races dites dangereuses en France) doivent porter une muselière en espace public et disposer du permis municipal.`,
+      ],
+      en: [
+        `Summer beach ban: dogs are forbidden on Arcachon's town beaches in summer (approx June–September) by municipal arrete, with fines; from October to May they are welcome on leash at Pereire and Les Abatilles.`,
+        `The Dune du Pilat welcomes leashed dogs year-round, but the sand has no shade and burns paws in summer; walk early or late and bring plenty of water.`,
+        `The UBA ferry carries leashed dogs to Cap Ferret year-round, the best dog day-trip on the Bassin (lighthouse, ocean beaches, oyster shacks).`,
+        `The Bassin is a tidal bay: check the tide table before walking the sandbanks and keep your dog clear of the oyster beds, the shells cut paws.`,
+        `Category 1 and 2 dogs (listed dangerous breeds in France) must wear a muzzle in public spaces and carry an official permit from the mairie.`,
+      ],
+      es: [
+        `Prohibición veraniega: los perros no pueden acceder a las playas de la ciudad de Arcachon en verano (aprox. junio–septiembre) por arrete municipal, con multa; de octubre a mayo se admiten con correa en Pereire y los Abatilles.`,
+        `La Dune du Pilat acoge a perros con correa todo el año, pero la arena no tiene sombra y quema las almohadillas en verano; pasea temprano o tarde y lleva mucha agua.`,
+        `El ferry UBA lleva a los perros con correa a Cap Ferret todo el año, la mejor salida canina del Bassin (faro, playas oceánicas, cabañas de ostras).`,
+        `El Bassin es una bahía con mareas: consulta la tabla antes de pasear por los bancos de arena y mantén al perro lejos de los parques de ostras, las conchas cortan las patas.`,
+        `Los perros de categorías 1 y 2 (razas consideradas peligrosas en Francia) deben llevar bozal en espacios públicos y contar con permiso municipal.`,
+      ],
+      pt: [
+        `Proibição estival nas praias: os cães não podem aceder às praias da vila de Arcachon no verão (aprox. junho–setembro) por arrete municipal, com multa; de outubro a maio são aceites com trela em Pereire e nos Abatilles.`,
+        `A Dune du Pilat acolhe cães com trela o ano inteiro, mas a areia não tem sombra e queima as almofadinhas no verão; passeie cedo ou ao fim do dia e leve muita água.`,
+        `O ferry UBA leva os cães com trela ao Cap Ferret o ano inteiro, o melhor passeio canino do Bassin (farol, praias oceânicas, cabanas de ostras).`,
+        `O Bassin é uma baía de maré: verifique a tabela antes de caminhar nos bancos de areia e mantenha o cão longe dos parques de ostras, as conchas cortam as patas.`,
+        `Os cães de categorias 1 e 2 (raças consideradas perigosas em França) devem usar açaime em espaços públicos e ter o licenciamento municipal.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport le plus proche: Bordeaux-Mérignac (BOD), à environ 1h de route; la gare SNCF d'Arcachon relie Bordeaux Saint-Jean en 50 minutes (petits chiens en sac gratuits, grands chiens demi-tarif ~7 EUR avec muselière en TER).`,
+        `Urgences vétérinaires: la Clinique Vétérinaire Arcavet (131 Boulevard Deganne) oriente vers le vétérinaire de garde hors horaires; le 3115 (gratuit, 24h/24) joint le vétérinaire de garde le plus proche du Bassin.`,
+        `Climat océanique doux et ensoleillé, air de pins: étés chauds (24–25 °C) mais rarement caniculaires, hivers doux (10 °C); pluie possible toute l'année, prévoyez une serviette.`,
+        `Le Bassin est une baie à marée: l'eau se retire loin à marée basse, vérifiez les horaires avant toute sortie sur les bancs de sable ou les plages du bassin.`,
+        `La loi française exige passeport européen, puce ISO et vaccination antirabique valide pour tout animal transfrontalier.`,
+      ],
+      en: [
+        `Nearest airport: Bordeaux-Merignac (BOD), about 1 hour by car; the Arcachon SNCF station reaches Bordeaux Saint-Jean in 50 minutes (small dogs in carriers free, large dogs half-price ~7 EUR with a muzzle on TER).`,
+        `Vet emergencies: the Clinique Veterinaire Arcavet (131 Boulevard Deganne) directs you to the on-call vet out of hours; 3115 (free, 24/7) reaches the nearest on-call vet on the Bassin.`,
+        `Mild, sunny oceanic climate with pine air: warm summers (24–25 °C) but rarely scorching, mild winters (10 °C); rain is possible year-round, so pack a dog towel.`,
+        `The Bassin is a tidal bay: the water retreats a long way at low tide, check the tide times before any outing on the sandbanks or bay beaches.`,
+        `French law requires an EU pet passport, ISO microchip and valid rabies vaccination for all cross-border pets.`,
+      ],
+      es: [
+        `Aeropuerto más cercano: Bordeaux-Mérignac (BOD), a aproximadamente 1 hora en coche; la estación SNCF de Arcachon llega a Bordeaux Saint-Jean en 50 minutos (perros pequeños en transportín gratis, perros grandes a mitad de precio ~7 EUR con bozal en TER).`,
+        `Urgencias veterinarias: la Clinique Vétérinaire Arcavet (131 Boulevard Deganne) deriva al veterinario de guardia fuera de horario; el 3115 (gratuito, 24/7) conecta con el veterinario de guardia más cercano del Bassin.`,
+        `Clima oceánico suave y soleado con aire de pinos: veranos cálidos (24–25 °C) pero rara vez tórridos, inviernos suaves (10 °C); la lluvia es posible todo el año, lleva una toalla para el perro.`,
+        `El Bassin es una bahía con mareas: el agua se retira muy lejos con marea baja, consulta los horarios antes de cualquier salida a los bancos de arena o las playas de la bahía.`,
+        `La ley francesa exige pasaporte europeo, chip ISO y vacuna antirrábica vigente para toda mascota transfronteriza.`,
+      ],
+      pt: [
+        `Aeroporto mais próximo: Bordéus-Mérignac (BOD), a cerca de 1 hora de carro; a estação SNCF de Arcachon chega a Bordéus Saint-Jean em 50 minutos (cães pequenos em transportadora grátis, cães grandes a meio-preço ~7 EUR com açaime no TER).`,
+        `Urgências veterinárias: a Clinique Vétérinaire Arcavet (131 Boulevard Deganne) encaminha para o veterinário de serviço fora de horas; o 3115 (gratuito, 24/7) liga ao veterinário de serviço mais próximo do Bassin.`,
+        `Clima oceânico ameno e solarengo com ar de pinheiros: verões quentes (24–25 °C) mas raramente tórridos, invernos amenos (10 °C); a chuva é possível o ano inteiro, leve uma toalha para o cão.`,
+        `O Bassin é uma baía de maré: a água recua para longe na maré-baixa, verifique os horários antes de qualquer saída para os bancos de areia ou as praias da baía.`,
+        `A lei francesa exige passaporte europeu, microchip ISO e vacinação antirrábica válida para todos os animais transfronteiriços.`,
+      ],
+    },
+  },
+
   athens: {
     history: {
       fr: `Athènes est habitée continuellement depuis plus de 5 000 ans et a donné au monde la démocratie, la philosophie et le théâtre occidental depuis son âge d'or du Ve siècle av. J.-C. sous Périclès. Le Parthénon couronne toujours l'Acropole au-dessus d'une métropole tentaculaire de quatre millions d'habitants, façonnée par la domination ottomane, les vagues de réfugiés d'Asie Mineure après 1922 et la refonte urbaine post-Olympiques 2004. Athènes abrite l'une des plus grandes populations de chiens errants d'Europe, le célèbre chien athénien, souvent stérilisé, vacciné et tagué par la municipalité, monte la garde aux stations de métro et sites archéologiques. La loi grecque de 2021 a durci la régulation tout em protégeant les errants.`,
@@ -11176,6 +11313,142 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'gran-canaria': {
+    history: {
+      fr: `Habitée depuis l'Antiquité par les Guanches, peuple aborigène d'origine berbère, Gran Canaria fut conquise par la Couronne de Castille en 1483 au terme de cinq ans de résistance. Sa capitale, Las Palmas de Gran Canaria, fondée en 1478, devint un port atlantique clé sur la route des Amériques : Christophe Colomb y fit escale en 1492 avant de traverser l'Atlantique. L'île prospéra grâce au sucre, puis au vin et à la cochenille, avant que le tourisme ne la transforme au XXe siècle. Aujourd'hui, Gran Canaria est la deuxième île la plus peuplée des Canaries avec environ 850 000 habitants, surnommée le continent miniature pour la diversité de ses paysages, des dunes de Maspalomas aux sommets volcaniques du Roque Nublo. Son climat subtropical, doux toute l'année, en fait l'une des escapades hivernales les plus prisées d'Europe pour les voyageurs avec animaux.`,
+      en: `Inhabited since antiquity by the Guanches, an aboriginal people of Berber origin, Gran Canaria was conquered by the Crown of Castile in 1483 after five years of resistance. Its capital, Las Palmas de Gran Canaria, founded in 1478, became a key Atlantic port on the route to the Americas: Columbus stopped here in 1492 before crossing the Atlantic. The island prospered on sugar, then wine and cochineal, before tourism transformed it in the 20th century. Today Gran Canaria is the second most populous of the Canary Islands with around 850,000 residents, nicknamed the miniature continent for its diversity of landscapes, from the Maspalomas dunes to the volcanic peaks of Roque Nublo. Its subtropical climate, mild year-round, makes it one of Europe's most sought-after winter escapes for pet travellers.`,
+      es: `Habitada desde la antigüedad por los guanches, pueblo aborigen de origen bereber, Gran Canaria fue conquistada por la Corona de Castilla en 1483 tras cinco años de resistencia. Su capital, Las Palmas de Gran Canaria, fundada en 1478, se convirtió en un puerto atlántico clave en la ruta a las Américas: Colón hizo escala aquí en 1492 antes de cruzar el Atlántico. La isla prosperó con el azúcar, luego el vino y la cochinilla, antes de que el turismo la transformara en el siglo XX. Hoy Gran Canaria es la segunda isla más poblada de Canarias con unos 850.000 habitantes, apodada el continente en miniatura por la diversidad de sus paisajes, de las dunas de Maspalomas a los picos volcánicos del Roque Nublo. Su clima subtropical, suave todo el año, la convierte en una de las escapadas invernales más codiciadas de Europa para los viajeros con mascotas.`,
+      pt: `Habitada desde a antiguidade pelos guanches, povo aborígene de origem berbere, Gran Canaria foi conquistada pela Coroa de Castela em 1483 após cinco anos de resistência. A sua capital, Las Palmas de Gran Canaria, fundada em 1478, tornou-se um porto atlântico chave na rota para as Américas: Colombo fez escala aqui em 1492 antes de atravessar o Atlântico. A ilha prosperou com o açúcar, depois o vinho e a cochonilha, antes de o turismo a transformar no século XX. Hoje Gran Canaria é a segunda ilha mais povoada das Canárias com cerca de 850.000 habitantes, apelidada o continente em miniatura pela diversidade das suas paisagens, das dunas de Maspalomas aos picos vulcânicos do Roque Nublo. O seu clima subtropical, suave o ano inteiro, torna-a uma das escapadelas de inverno mais cobiçadas da Europa para os viajantes com animais.`,
+    },
+    sights: [
+      {
+        name: `Dunas de Maspalomas`,
+        emoji: '🏜️',
+        petFriendly: true,
+        desc: {
+          fr: `Le vaste champ de dunes dorées à la pointe sud de l'île, réserve naturelle spéciale protégée. Le cœur sensible des dunes et la plage interdisent les chiens, mais les promenades du pourtour et les belvédères sur passerelle, notamment près du phare de Maspalomas, offrent aux chiens en laisse des vues spectaculaires. Le coucher de soleil y est inoubliable.`,
+          en: `The vast field of golden dunes at the southern tip of the island, a protected special nature reserve. The sensitive dune core and the beach ban dogs, but the perimeter promenades and boardwalk viewpoints, especially near the Maspalomas lighthouse, give leashed dogs spectacular views. Sunset here is unforgettable.`,
+          es: `El vasto campo de dunas doradas en el extremo sur de la isla, reserva natural especial protegida. El núcleo sensible de las dunas y la playa prohíben los perros, pero los paseos del perímetro y los miradores sobre pasarela, sobre todo junto al faro de Maspalomas, ofrecen a los perros con correa vistas espectaculares. La puesta de sol aquí es inolvidable.`,
+          pt: `O vasto campo de dunas douradas no extremo sul da ilha, reserva natural especial protegida. O núcleo sensível das dunas e a praia proíbem os cães, mas os passeios do perímetro e os miradouros sobre passadiço, sobretudo junto ao farol de Maspalomas, oferecem aos cães à trela vistas espetaculares. O pôr do sol aqui é inesquecível.`,
+        },
+      },
+      {
+        name: `Puerto de Mogán`,
+        emoji: '🛶',
+        petFriendly: true,
+        desc: {
+          fr: `Le village de pêcheurs sillonné de canaux surnommé la petite Venise de Gran Canaria, sur la côte sud-ouest. Maisons blanches drapées de bougainvillées, passerelles et marina composent une flânerie entièrement en plein air, librement praticable en laisse. Le marché du vendredi attire toute l'île.`,
+          en: `The canal-laced fishing village nicknamed the little Venice of Gran Canaria, on the south-west coast. Whitewashed houses draped in bougainvillea, footbridges and a marina make an entirely outdoor stroll, freely walkable on lead. The Friday market draws the whole island.`,
+          es: `El pueblo pesquero surcado de canales apodado la pequeña Venecia de Gran Canaria, en la costa suroeste. Casas blancas cubiertas de buganvillas, pasarelas y marina forman un paseo totalmente al aire libre, libremente transitable con correa. El mercadillo de los viernes atrae a toda la isla.`,
+          pt: `A aldeia piscatória sulcada de canais apelidada a pequena Veneza de Gran Canaria, na costa sudoeste. Casas brancas cobertas de buganvílias, pontes e marina formam um passeio totalmente ao ar livre, livremente percorrível à trela. O mercado de sexta atrai toda a ilha.`,
+        },
+      },
+      {
+        name: `Vegueta`,
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier historique de Las Palmas, où Christophe Colomb aurait séjourné en 1492. Rues pavées, Plaza de Santa Ana avec ses chiens de bronze, façade de la Catedral de Santa Ana et Casa de Colón coloniale composent un circuit gratuit en plein air. Les chiens en laisse sont bienvenus dans toutes les rues et places, mais pas dans les musées ni la cathédrale.`,
+          en: `The historic quarter of Las Palmas, where Columbus is said to have stayed in 1492. Cobbled streets, the Plaza de Santa Ana with its bronze dogs, the facade of the Catedral de Santa Ana and the colonial Casa de Colón form a free outdoor circuit. Leashed dogs are welcome on all the streets and squares, but not inside the museums or the cathedral.`,
+          es: `El barrio histórico de Las Palmas, donde se dice que Colón se alojó en 1492. Calles empedradas, la Plaza de Santa Ana con sus perros de bronce, la fachada de la Catedral de Santa Ana y la colonial Casa de Colón forman un circuito gratuito al aire libre. Los perros con correa son bienvenidos en todas las calles y plazas, pero no en los museos ni la catedral.`,
+          pt: `O bairro histórico de Las Palmas, onde se diz que Colombo se alojou em 1492. Ruas de calçada, a Plaza de Santa Ana com os seus cães de bronze, a fachada da Catedral de Santa Ana e a colonial Casa de Colón formam um circuito gratuito ao ar livre. Os cães à trela são bem-vindos em todas as ruas e praças, mas não nos museus nem na catedral.`,
+        },
+      },
+      {
+        name: `Playa de Las Canteras`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `La plage urbaine de 3 km de Las Palmas, l'une des plus belles plages de ville d'Europe, protégée par une barre rocheuse naturelle. La plage elle-même n'admet pas les chiens, mais la promenade piétonne de 3 km qui la longe est la colonne vertébrale de promenade de la capitale en laisse, animée du lever au coucher du soleil.`,
+          en: `The 3 km urban beach of Las Palmas, one of Europe's finest city beaches, sheltered by a natural rock bar. The beach itself does not allow dogs, but the 3 km pedestrian promenade running its length is the capital's leashed-walking spine, busy from dawn to dusk.`,
+          es: `La playa urbana de 3 km de Las Palmas, una de las mejores playas de ciudad de Europa, protegida por una barra rocosa natural. La playa en sí no admite perros, pero el paseo peatonal de 3 km que la recorre es la columna vertebral del paseo con correa de la capital, animado de la mañana a la noche.`,
+          pt: `A praia urbana de 3 km de Las Palmas, uma das melhores praias de cidade da Europa, protegida por uma barra rochosa natural. A praia em si não aceita cães, mas o passeio pedonal de 3 km que a percorre é a coluna vertebral do passeio à trela da capital, animado de manhã à noite.`,
+        },
+      },
+      {
+        name: `Roque Nublo`,
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Le monolithe volcanique de 80 m emblème de l'île, à environ 1 700 m d'altitude au-dessus du village de Tejeda. Le sentier court mais spectaculaire depuis le parking de La Goleta est accessible aux chiens en laisse et traverse un paysage ouvert de pins et de roche, avec de larges vues sur le Teide à Tenerife. L'intérieur est plusieurs degrés plus frais que la côte.`,
+          en: `The 80 m volcanic monolith that is the island's emblem, at around 1,700 m above the village of Tejeda. The short but spectacular trail from the La Goleta car park is accessible to leashed dogs and crosses open pine and rock country, with sweeping views to Teide on Tenerife. The interior is several degrees cooler than the coast.`,
+          es: `El monolito volcánico de 80 m emblema de la isla, a unos 1.700 m sobre el pueblo de Tejeda. El sendero corto pero espectacular desde el aparcamiento de La Goleta es accesible a los perros con correa y cruza un paisaje abierto de pinos y roca, con amplias vistas al Teide en Tenerife. El interior está varios grados más fresco que la costa.`,
+          pt: `O monólito vulcânico de 80 m emblema da ilha, a cerca de 1.700 m acima da aldeia de Tejeda. O trilho curto mas espetacular a partir do parque de La Goleta é acessível aos cães à trela e atravessa uma paisagem aberta de pinheiros e rocha, com vistas amplas para o Teide em Tenerife. O interior está vários graus mais fresco que a costa.`,
+        },
+      },
+      {
+        name: `Playa de Los Frailes`,
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `L'une des cinq plages canines officielles ouvertes par la commune de Mogán en février 2026, sur la côte sud-ouest ensoleillée. Los Frailes est la plus ouverte : les chiens y sont admis sur toute la plage à toute heure, sans restriction horaire. Avec une eau baignable tout l'hiver, c'est la plage canine la plus facile de l'île pour une journée complète.`,
+          en: `One of the five official dog beaches opened by the municipality of Mogán in February 2026, on the sunny south-west coast. Los Frailes is the most open: dogs are allowed across the whole beach at all hours, with no time restriction. With water swimmable all winter, it is the island's easiest full-day dog beach.`,
+          es: `Una de las cinco playas caninas oficiales abiertas por el municipio de Mogán en febrero de 2026, en la soleada costa suroeste. Los Frailes es la más abierta: los perros se admiten en toda la playa a cualquier hora, sin restricción horaria. Con agua bañable todo el invierno, es la playa canina más fácil de la isla para un día completo.`,
+          pt: `Uma das cinco praias caninas oficiais abertas pelo município de Mogán em fevereiro de 2026, na soalheira costa sudoeste. Los Frailes é a mais aberta: os cães são aceites em toda a praia a qualquer hora, sem restrição horária. Com água onde se pode nadar todo o inverno, é a praia canina mais fácil da ilha para um dia inteiro.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Gran Canaria est l'une des rares destinations européennes où des vacances de plage avec un chien fonctionnent en plein hiver : la côte sud tient 22-25 °C de décembre à mars. Visez ces mois pour le climat le plus doux.`,
+        `Les célèbres plages de Maspalomas, Playa del Inglés et Las Canteras n'admettent PAS les chiens. Pour une journée plage, ralliez les plages canines officielles de Mogán (Los Frailes, Aguamarina, Tauro, El Perchel, La Lajilla), ouvertes depuis février 2026.`,
+        `En été (juillet-septembre), l'asphalte et le sable de midi peuvent brûler les coussinets en quelques secondes. Promenez tôt ou après le coucher du soleil et tâtez le sol avec la main d'abord.`,
+        `Pour échapper à la chaleur, montez à Tejeda et au Roque Nublo : l'intérieur est 8 à 12 °C plus frais que la côte, et les chiens en laisse y sont admis sur les sentiers.`,
+        `Gran Canaria est un territoire espagnol de l'UE : passeport européen, puce ISO et vaccin antirabique à jour suffisent, sans quarantaine. Depuis le Royaume-Uni, un Animal Health Certificate est requis depuis le Brexit.`,
+      ],
+      en: [
+        `Gran Canaria is one of the few European destinations where a beach holiday with a dog works in deep winter: the south coast holds 22-25 C from December to March. Aim for those months for the mildest weather.`,
+        `The famous Maspalomas, Playa del Inglés and Las Canteras beaches do NOT allow dogs. For a beach day, head to the official Mogán dog beaches (Los Frailes, Aguamarina, Tauro, El Perchel, La Lajilla), open since February 2026.`,
+        `In summer (July-September), midday asphalt and sand can burn paw pads in seconds. Walk early or after sunset and feel the ground with your hand first.`,
+        `For heat relief, head up to Tejeda and Roque Nublo: the interior is 8-12 C cooler than the coast, and leashed dogs are welcome on the trails.`,
+        `Gran Canaria is Spanish EU territory: an EU pet passport, ISO microchip and up-to-date rabies vaccination are all you need, with no quarantine. From the UK, an Animal Health Certificate is required post-Brexit.`,
+      ],
+      es: [
+        `Gran Canaria es uno de los pocos destinos europeos donde unas vacaciones de playa con perro funcionan en pleno invierno: la costa sur mantiene 22-25 C de diciembre a marzo. Apunta a esos meses para el clima más suave.`,
+        `Las famosas playas de Maspalomas, Playa del Inglés y Las Canteras NO admiten perros. Para un día de playa, ve a las playas caninas oficiales de Mogán (Los Frailes, Aguamarina, Tauro, El Perchel, La Lajilla), abiertas desde febrero de 2026.`,
+        `En verano (julio-septiembre), el asfalto y la arena del mediodía pueden quemar almohadillas en segundos. Pasea temprano o tras la puesta de sol y palpa el suelo con la mano primero.`,
+        `Para escapar del calor, sube a Tejeda y al Roque Nublo: el interior está 8-12 C más fresco que la costa, y los perros con correa son bienvenidos en los senderos.`,
+        `Gran Canaria es territorio español de la UE: pasaporte europeo, microchip ISO y vacuna antirrábica al día bastan, sin cuarentena. Desde el Reino Unido se exige un Animal Health Certificate tras el Brexit.`,
+      ],
+      pt: [
+        `Gran Canaria é um dos poucos destinos europeus onde umas férias de praia com cão funcionam em pleno inverno: a costa sul mantém 22-25 C de dezembro a março. Aponte para esses meses para o clima mais suave.`,
+        `As famosas praias de Maspalomas, Playa del Inglés e Las Canteras NÃO aceitam cães. Para um dia de praia, vá às praias caninas oficiais de Mogán (Los Frailes, Aguamarina, Tauro, El Perchel, La Lajilla), abertas desde fevereiro de 2026.`,
+        `No verão (julho-setembro), o asfalto e a areia do meio-dia podem queimar as almofadas em segundos. Passeie cedo ou após o pôr do sol e toque o chão com a mão primeiro.`,
+        `Para escapar do calor, suba a Tejeda e ao Roque Nublo: o interior está 8-12 C mais fresco que a costa, e os cães à trela são bem-vindos nos trilhos.`,
+        `Gran Canaria é território espanhol da UE: passaporte europeu, microchip ISO e vacina antirrábica em dia bastam, sem quarentena. A partir do Reino Unido exige-se um Animal Health Certificate após o Brexit.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Gran Canaria est un territoire espagnol de l'UE : passeport européen pour animaux, puce ISO et vaccin antirabique à jour suffisent, sans quarantaine. Enregistrez un numéro de vétérinaire d'urgence 24h avant votre départ.`,
+        `L'aéroport de Gran Canaria (LPA) est à environ 30 minutes des stations du sud par l'autoroute GC-1. Une voiture de location est de loin le moyen le plus simple d'atteindre les dunes, la montagne et les plages canines de Mogán.`,
+        `Transports : les petits animaux en cage fermée sont admis dans les guaguas Global et Guaguas Municipales ; les grands chiens dépendent du conducteur. Pour les plages canines du sud-ouest, la voiture reste bien plus pratique.`,
+        `Les plages canines officielles sont à Mogán (Los Frailes, Aguamarina, Tauro, El Perchel, La Lajilla, ouvertes en février 2026), à Agüimes (côte est) et à Bocabarranco près de Las Palmas. Maspalomas et Las Canteras interdisent les chiens.`,
+        `Ferries inter-îles Fred Olsen et Naviera Armas vers Tenerife et Fuerteventura : les animaux voyagent en zones dédiées, en véhicule ou en cage selon le navire. Réservez l'emplacement animal à l'avance.`,
+      ],
+      en: [
+        `Gran Canaria is Spanish EU territory: an EU pet passport, ISO microchip and up-to-date rabies vaccination are all you need, with no quarantine. Save a 24-hour emergency vet number before you travel.`,
+        `Gran Canaria airport (LPA) is about 30 minutes from the southern resorts via the GC-1 motorway. A hire car is by far the easiest way to reach the dunes, the mountains and the Mogán dog beaches.`,
+        `Transport: small pets in closed carriers are permitted on Global and Guaguas Municipales buses; large dogs are at the driver's discretion. For the south-west dog beaches, a car is far more practical.`,
+        `The official dog beaches are in Mogán (Los Frailes, Aguamarina, Tauro, El Perchel, La Lajilla, opened February 2026), in Agüimes (east coast) and at Bocabarranco near Las Palmas. Maspalomas and Las Canteras ban dogs.`,
+        `Fred Olsen and Naviera Armas inter-island ferries to Tenerife and Fuerteventura: pets travel in dedicated areas, in your vehicle or in a carrier depending on the vessel. Book the pet space in advance.`,
+      ],
+      es: [
+        `Gran Canaria es territorio español de la UE: pasaporte europeo de mascotas, microchip ISO y vacuna antirrábica al día bastan, sin cuarentena. Guarda un número de veterinario de urgencias 24h antes de viajar.`,
+        `El aeropuerto de Gran Canaria (LPA) está a unos 30 minutos de los núcleos del sur por la autopista GC-1. Un coche de alquiler es con diferencia la forma más fácil de llegar a las dunas, la montaña y las playas caninas de Mogán.`,
+        `Transporte: las mascotas pequeñas en transportín cerrado se admiten en las guaguas Global y Guaguas Municipales; los perros grandes dependen del conductor. Para las playas caninas del suroeste, el coche es mucho más práctico.`,
+        `Las playas caninas oficiales están en Mogán (Los Frailes, Aguamarina, Tauro, El Perchel, La Lajilla, abiertas en febrero de 2026), en Agüimes (costa este) y en Bocabarranco cerca de Las Palmas. Maspalomas y Las Canteras prohíben los perros.`,
+        `Ferries interinsulares Fred Olsen y Naviera Armas a Tenerife y Fuerteventura: las mascotas viajan en zonas dedicadas, en vehículo o en transportín según el barco. Reserva el espacio de mascota con antelación.`,
+      ],
+      pt: [
+        `Gran Canaria é território espanhol da UE: passaporte europeu para animais, microchip ISO e vacina antirrábica em dia bastam, sem quarentena. Guarde um número de veterinário de urgência 24h antes de viajar.`,
+        `O aeroporto de Gran Canaria (LPA) está a cerca de 30 minutos dos núcleos do sul pela autoestrada GC-1. Um carro de aluguer é de longe a forma mais fácil de chegar às dunas, à montanha e às praias caninas de Mogán.`,
+        `Transporte: os animais pequenos em transportadora fechada são aceites nas guaguas Global e Guaguas Municipales; os cães grandes dependem do condutor. Para as praias caninas do sudoeste, o carro é muito mais prático.`,
+        `As praias caninas oficiais estão em Mogán (Los Frailes, Aguamarina, Tauro, El Perchel, La Lajilla, abertas em fevereiro de 2026), em Agüimes (costa leste) e em Bocabarranco perto de Las Palmas. Maspalomas e Las Canteras proíbem os cães.`,
+        `Ferries inter-ilhas Fred Olsen e Naviera Armas para Tenerife e Fuerteventura: os animais viajam em zonas dedicadas, em veículo ou em transportadora consoante o navio. Reserve o espaço do animal com antecedência.`,
+      ],
+    },
+  },
   granada: {
     history: {
       fr: `Fondée par les Ibères sous le nom d'Iliberri, Grenade devint sous la domination arabe la capitale de l'émirat nasride au XIIIe siècle, atteignant 150 000 habitants et produisant l'Alhambra, chef-d'œuvre inégalé de l'architecture islamique. La Reconquista l'intégra à la Couronne de Castille en 1492, la même année où Christophe Colomb levait l'ancre depuis l'Andalousie. La ville conserva son identité arabe bien après la conquête : ses bains, ses marchés couverts et ses ruelles blanches de l'Albaicín témoignent de sept siècles de civilisation Al-Andalus. Aujourd'hui, Grenade est une ville universitaire animée de 230 000 habitants, où la tradition des tapas gratuites avec chaque verre, l'accueil des terrasses envers les chiens et la proximité de la Sierra Nevada em font l'une des escapades les plus séduisantes d'Espagne pour les voyageurs avec animaux.`,
@@ -22443,6 +22716,143 @@ const cityContent: Record<string, CityContent> = {
         `Transporte local: EMT Tarragona (bus) admite cães pequenos em transportadora grátis e cães maiores a critério do condutor fora da hora de ponta; bilhete 1,55 €.`,
         `Pet-sitting: Rover, Gudog e TrustedHousesitters cobrem a cidade; 14–18 € por noite em alojamento em casa do sitter e 10–13 € por passeio; reserva com 4 semanas de antecedência para Semana Santa, Festes de Santa Tecla (meados de setembro) e Natal.`,
         `Clima: verões quentes 24–28 °C, por vezes varridos pelo vento Mestral; invernos suaves 10–14 °C com chuvas concentradas em outubro. Melhores meses com um cão: maio, junho e fim de setembro.`,
+      ],
+    },
+  },
+
+  tenerife: {
+    history: {
+      fr: `Tenerife, la plus grande des îles Canaries, est un archipel espagnol au large du Maroc dont le climat subtropical en fait l'une des destinations soleil d'hiver phares d'Europe : 22 à 26 °C dans le sud même en janvier. L'île est dominée par le Teide (3 715 m), point culminant d'Espagne et volcan au cœur d'un parc national classé à l'UNESCO. Au nord, l'ancienne capitale La Laguna est également classée, tandis que le parc rural d'Anaga protège une forêt de lauriers reliques. Côté chiens, les Canaries faisant partie de l'Espagne et de l'UE, il n'y a aucune quarantaine : passeport européen, puce ISO et vaccin antirabique à jour suffisent. Le sud touristique, de Costa Adeje à Los Cristianos en passant par Playa de las Américas, concentre hôtels dog-friendly, promenades en bord de mer et cliniques anglophones, et la ville de kitesurf d'El Médano possède la plage canine de Playa del Cabezo. Un véritable hôpital vétérinaire 24h/24 à Santa Cruz complète le dispositif.`,
+      en: `Tenerife, the largest of the Canary Islands, is a Spanish archipelago off the coast of Morocco whose subtropical climate makes it one of Europe's flagship winter-sun destinations: 22 to 26 C in the south even in January. The island is dominated by Teide (3,715 m), the highest point in Spain and the volcano at the heart of a UNESCO-listed national park. In the north, the former capital La Laguna is also UNESCO-listed, while the Anaga rural park protects a relic laurel forest. On dogs, because the Canary Islands are part of Spain and the EU there is no quarantine: an EU pet passport, ISO microchip and current rabies vaccination are enough. The tourist south, from Costa Adeje to Los Cristianos via Playa de las Américas, concentrates dog-friendly hotels, seafront promenades and English-speaking clinics, and the kitesurf town of El Médano has the Playa del Cabezo dog beach. A genuine 24-hour veterinary hospital in Santa Cruz backs it all up.`,
+      es: `Tenerife, la mayor de las islas Canarias, es un archipiélago español frente a la costa de Marruecos cuyo clima subtropical la convierte en uno de los destinos de sol de invierno de referencia en Europa: 22 a 26 °C en el sur incluso en enero. La isla está dominada por el Teide (3.715 m), el punto más alto de España y el volcán en el corazón de un parque nacional Patrimonio de la UNESCO. En el norte, la antigua capital La Laguna también es Patrimonio de la UNESCO, mientras que el parque rural de Anaga protege un bosque de laurisilva relíctico. En cuanto a los perros, como las islas Canarias son parte de España y de la UE no hay cuarentena: pasaporte europeo, microchip ISO y vacuna antirrábica al día bastan. El sur turístico, de Costa Adeje a Los Cristianos pasando por Playa de las Américas, concentra hoteles pet-friendly, paseos marítimos y clínicas que hablan inglés, y la localidad kitesurfista de El Médano tiene la playa canina de Playa del Cabezo. Un verdadero hospital veterinario 24h/24 en Santa Cruz completa el conjunto.`,
+      pt: `Tenerife, a maior das ilhas Canárias, é um arquipélago espanhol ao largo da costa de Marrocos cujo clima subtropical a torna num dos destinos de sol de inverno de referência na Europa: 22 a 26 °C no sul mesmo em janeiro. A ilha é dominada pelo Teide (3.715 m), o ponto mais alto de Espanha e o vulcão no coração de um parque nacional Património da UNESCO. No norte, a antiga capital La Laguna é também Património da UNESCO, enquanto o parque rural de Anaga protege uma floresta de laurissilva relíquia. Em relação aos cães, como as ilhas Canárias fazem parte de Espanha e da UE não há quarentena: passaporte europeu, microchip ISO e vacina antirrábica em dia bastam. O sul turístico, de Costa Adeje a Los Cristianos passando por Playa de las Américas, concentra hotéis pet-friendly, passeios marítimos e clínicas que falam inglês, e a vila de kitesurf de El Médano tem a praia canina de Playa del Cabezo. Um verdadeiro hospital veterinário 24h/24 em Santa Cruz completa o conjunto.`,
+    },
+    sights: [
+      {
+        name: 'Parque Nacional del Teide',
+        emoji: '🌋',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc national le plus visité d'Espagne, autour du volcan Teide (3 715 m). Le téléphérique du sommet et les zones de réserve strictes sont interdits aux chiens, mais de nombreux sentiers de basse altitude et belvédères du plateau de Las Cañadas sont accessibles en laisse. Prévoyez le froid en altitude et la roche volcanique coupante.`,
+          en: `Spain's most visited national park, around the Teide volcano (3,715 m). The summit cable car and strict reserve zones are closed to dogs, but many lower trails and miradors on the Las Cañadas plateau are leash-accessible. Prepare for cold at altitude and sharp volcanic rock.`,
+          es: `El parque nacional más visitado de España, en torno al volcán Teide (3.715 m). El teleférico de la cima y las zonas de reserva estrictas están cerrados a perros, pero muchos senderos de cota baja y miradores de Las Cañadas son accesibles con correa. Prepárate para el frío en altura y la roca volcánica cortante.`,
+          pt: `O parque nacional mais visitado de Espanha, em torno do vulcão Teide (3.715 m). O teleférico do cume e as zonas de reserva estritas estão fechados a cães, mas muitos trilhos de cota baixa e miradouros de Las Cañadas são acessíveis com trela. Prepare-se para o frio em altitude e a rocha vulcânica cortante.`,
+        },
+      },
+      {
+        name: 'Playa del Cabezo (El Médano)',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La plage canine de référence de Tenerife, étendue de sable doré à El Médano sous la Montaña Roja, prisée des kitesurfeurs pour son vent régulier. Chiens en laisse bienvenus toute l'année ; vérifiez la signalétique de l'Ayuntamiento sur place.`,
+          en: `Tenerife's reference dog beach, a golden-sand stretch in El Médano below Montaña Roja, popular with kitesurfers for its reliable wind. Leashed dogs welcome year-round; check the Ayuntamiento signage on the spot.`,
+          es: `La playa canina de referencia de Tenerife, una franja de arena dorada en El Médano bajo la Montaña Roja, popular entre kitesurfistas por su viento constante. Perros con correa bienvenidos todo el año; comprueba la señalización del Ayuntamiento en el sitio.`,
+          pt: `A praia canina de referência de Tenerife, uma faixa de areia dourada em El Médano sob a Montaña Roja, popular entre kitesurfistas pelo seu vento constante. Cães à trela bem-vindos o ano inteiro; verifique a sinalização do Ayuntamiento no local.`,
+        },
+      },
+      {
+        name: 'Parque Rural de Anaga',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Réserve de biosphère de l'UNESCO d'ancienne laurisilva au nord-est, avec ravins profonds, sentiers de crête et hameaux. Beaucoup de chemins balisés accueillent les chiens en laisse et offrent une marche fraîche et ombragée, idéale par temps chaud.`,
+          en: `A UNESCO Biosphere Reserve of ancient laurel forest in the northeast, with deep ravines, ridge trails and hamlets. Many marked paths welcome leashed dogs and offer cool, shaded walking, ideal on hot days.`,
+          es: `Reserva de la Biosfera de la UNESCO de antigua laurisilva en el noreste, con barrancos profundos, senderos de cresta y aldeas. Muchos caminos balizados admiten perros con correa y ofrecen una marcha fresca y sombreada, ideal con calor.`,
+          pt: `Reserva da Biosfera da UNESCO de antiga laurissilva no nordeste, com barrancos profundos, trilhos de cumeada e aldeias. Muitos caminhos balizados aceitam cães à trela e oferecem uma caminhada fresca e sombreada, ideal com calor.`,
+        },
+      },
+      {
+        name: 'La Laguna (San Cristóbal de La Laguna)',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `L'ancienne capitale classée à l'UNESCO, damier de rues coloniales colorées et de places. Toute la vieille ville se parcourt en laisse, avec cafés et terrasses, dans un climat nordique frais agréable même par forte chaleur. Les musées intérieurs restent fermés aux chiens.`,
+          en: `The UNESCO-listed former capital, a grid of colourful colonial streets and plazas. The whole old town is a leashed walk with cafés and terraces, in a cool northern climate pleasant even in strong heat. Indoor museums remain closed to dogs.`,
+          es: `La antigua capital Patrimonio de la UNESCO, una cuadrícula de calles coloniales coloridas y plazas. Todo el casco antiguo se recorre con correa, con cafés y terrazas, en un clima norteño fresco agradable incluso con mucho calor. Los museos de interior siguen cerrados a perros.`,
+          pt: `A antiga capital Património da UNESCO, uma grelha de ruas coloniais coloridas e praças. Todo o centro antigo se percorre à trela, com cafés e esplanadas, num clima nortenho fresco agradável mesmo com muito calor. Os museus de interior continuam fechados a cães.`,
+        },
+      },
+      {
+        name: 'Garachico',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Ville historique de la côte nord reconstruite après l'éruption de 1706, célèbre pour ses piscines naturelles de roche volcanique (El Caletón) et ses ruelles pavées. Front de mer et ruelles se parcourent en laisse, dans une ambiance calme loin du sud touristique.`,
+          en: `A historic north-coast town rebuilt after the 1706 eruption, famous for its natural volcanic rock pools (El Caletón) and cobbled lanes. The seafront and lanes are a leashed walk in a calm setting away from the resort south.`,
+          es: `Pueblo histórico de la costa norte reconstruido tras la erupción de 1706, famoso por sus piscinas naturales de roca volcánica (El Caletón) y sus callejones empedrados. El frente marítimo y los callejones se recorren con correa, en un ambiente tranquilo lejos del sur turístico.`,
+          pt: `Vila histórica da costa norte reconstruída após a erupção de 1706, famosa pelas suas piscinas naturais de rocha vulcânica (El Caletón) e ruelas empedradas. A frente marítima e as ruelas percorrem-se à trela, num ambiente calmo longe do sul turístico.`,
+        },
+      },
+      {
+        name: 'Costa Adeje seafront promenade',
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `La longue promenade aménagée reliant les plages de Costa Adeje (Fañabé, Torviscas, El Duque), avec cafés, palmiers et vue mer sur tout le parcours. La balade en laisse la plus agréable du sud ; les plages balnéaires elles-mêmes restreignent les chiens.`,
+          en: `The long landscaped promenade linking the Costa Adeje beaches (Fañabé, Torviscas, El Duque), with cafés, palms and sea views the whole way. The most enjoyable leashed walk in the south; the resort beaches themselves restrict dogs.`,
+          es: `El largo paseo ajardinado que une las playas de Costa Adeje (Fañabé, Torviscas, El Duque), con cafés, palmeras y vistas al mar en todo el recorrido. El paseo con correa más agradable del sur; las playas turísticas en sí restringen los perros.`,
+          pt: `O longo passeio ajardinado que liga as praias de Costa Adeje (Fañabé, Torviscas, El Duque), com cafés, palmeiras e vista para o mar em todo o percurso. O passeio à trela mais agradável do sul; as praias turísticas em si restringem os cães.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Canaries = Espagne + UE : aucune quarantaine. Passeport européen, puce ISO et vaccin antirabique à jour suffisent pour les animaux UE.`,
+        `Plage canine de référence : Playa del Cabezo à El Médano, ouverte aux chiens en laisse toute l'année ; vérifiez toujours la signalétique de l'Ayuntamiento, l'accès canin varie selon les communes.`,
+        `Hôpital vétérinaire 24h/24 : Medivet 24 horas San Antonio (Santa Cruz) +34 922 28 46 11 ; au sud, Animal Center Sur (El Médano) +34 922 176 081, ligne de garde 24h +34 607 346 183 ; clinique anglophone Costa Adeje VetSur Armeñime +34 922 125 590.`,
+        `Chaleur : de juin à septembre, sable volcanique sombre et bitume brûlent les coussinets de midi à fin d'après-midi. Promenez à l'aube ou après le coucher du soleil et emportez de l'eau partout.`,
+        `Races classées potentiellement dangereuses (PPP) : muselière et laisse courte obligatoires en public selon la réglementation espagnole et canarienne.`,
+      ],
+      en: [
+        `Canary Islands = Spain + EU: no quarantine. An EU pet passport, ISO microchip and current rabies vaccination are enough for EU pets.`,
+        `Reference dog beach: Playa del Cabezo in El Médano, open to leashed dogs year-round; always check the Ayuntamiento signage, as dog access varies by municipality.`,
+        `24-hour vet hospital: Medivet 24 horas San Antonio (Santa Cruz) +34 922 28 46 11; in the south, Animal Center Sur (El Médano) +34 922 176 081, 24h on-call line +34 607 346 183; English-speaking Costa Adeje clinic VetSur Armeñime +34 922 125 590.`,
+        `Heat: from June to September, dark volcanic sand and asphalt burn paw pads from midday to late afternoon. Walk at dawn or after sunset and carry water everywhere.`,
+        `Breeds legally classed as potentially dangerous (PPP): muzzle and short leash mandatory in public under Spanish and Canarian rules.`,
+      ],
+      es: [
+        `Islas Canarias = España + UE: sin cuarentena. Pasaporte europeo, microchip ISO y vacuna antirrábica al día bastan para mascotas UE.`,
+        `Playa canina de referencia: Playa del Cabezo en El Médano, abierta a perros con correa todo el año; comprueba siempre la señalización del Ayuntamiento, el acceso canino varía según el municipio.`,
+        `Hospital veterinario 24h: Medivet 24 horas San Antonio (Santa Cruz) +34 922 28 46 11; en el sur, Animal Center Sur (El Médano) +34 922 176 081, línea de guardia 24h +34 607 346 183; clínica que habla inglés en Costa Adeje VetSur Armeñime +34 922 125 590.`,
+        `Calor: de junio a septiembre, la arena volcánica oscura y el asfalto queman las almohadillas del mediodía a media tarde. Pasea al amanecer o tras la puesta de sol y lleva agua a todas partes.`,
+        `Razas clasificadas como potencialmente peligrosas (PPP): bozal y correa corta obligatorios en público según la normativa española y canaria.`,
+      ],
+      pt: [
+        `Ilhas Canárias = Espanha + UE: sem quarentena. Passaporte europeu, microchip ISO e vacina antirrábica em dia bastam para animais UE.`,
+        `Praia canina de referência: Playa del Cabezo em El Médano, aberta a cães à trela o ano inteiro; verifique sempre a sinalização do Ayuntamiento, o acesso canino varia conforme o município.`,
+        `Hospital veterinário 24h: Medivet 24 horas San Antonio (Santa Cruz) +34 922 28 46 11; no sul, Animal Center Sur (El Médano) +34 922 176 081, linha de urgência 24h +34 607 346 183; clínica que fala inglês em Costa Adeje VetSur Armeñime +34 922 125 590.`,
+        `Calor: de junho a setembro, a areia vulcânica escura e o asfalto queimam as almofadas do meio-dia ao fim da tarde. Passeie ao amanhecer ou após o pôr do sol e leve água para todo o lado.`,
+        `Raças classificadas como potencialmente perigosas (PPP): açaime e trela curta obrigatórios em público segundo as regras espanholas e canárias.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Comment venir : aéroport Tenerife Sud (TFS), plaque tournante des charters d'hiver, à 15-30 min de Costa Adeje, Los Cristianos et El Médano ; Tenerife Nord (TFN) pour les vols inter-îles et continentaux.`,
+        `Documents : passeport européen + puce ISO + vaccin antirabique d'au moins 21 jours pour l'UE, sans quarantaine ; Animal Health Certificate (AHC) dans les 10 jours pour les visiteurs hors UE (Royaume-Uni post-Brexit inclus).`,
+        `Transports locaux : guaguas TITSA et tranvía Santa Cruz-La Laguna acceptent les petits chiens en cage ; ferries Fred Olsen et Armas vers La Gomera, La Palma, El Hierro et Gran Canaria acceptent les animaux. Voiture de location recommandée pour le Teide et le nord.`,
+        `Pet-sitting : Rover et Gudog couvrent le sud (Costa Adeje, Los Cristianos, Arona) ; réservez 2-3 semaines à l'avance en haute saison hivernale (décembre-mars) et à Pâques.`,
+        `Climat : soleil d'hiver doux 22-26 °C dans le sud toute l'année ; été chaud et sans ombre au sud, nord plus frais et vert. Meilleurs mois avec un chien : novembre à avril.`,
+      ],
+      en: [
+        `How to arrive: Tenerife South airport (TFS), the winter charter hub, 15-30 min from Costa Adeje, Los Cristianos and El Médano; Tenerife North (TFN) for inter-island and mainland flights.`,
+        `Documents: EU pet passport + ISO microchip + rabies vaccine at least 21 days old for EU visitors, no quarantine; Animal Health Certificate (AHC) within 10 days for non-EU visitors (UK included post-Brexit).`,
+        `Local transport: TITSA buses and the Santa Cruz-La Laguna tram accept small dogs in carriers; Fred Olsen and Armas ferries to La Gomera, La Palma, El Hierro and Gran Canaria allow pets. A rental car is recommended for Teide and the north.`,
+        `Pet-sitting: Rover and Gudog cover the south (Costa Adeje, Los Cristianos, Arona); book 2-3 weeks ahead in the winter high season (December-March) and at Easter.`,
+        `Climate: mild winter sun 22-26 C in the south year-round; hot and shadeless south in summer, cooler green north. Best months with a dog: November to April.`,
+      ],
+      es: [
+        `Cómo llegar: aeropuerto Tenerife Sur (TFS), centro de los chárteres de invierno, a 15-30 min de Costa Adeje, Los Cristianos y El Médano; Tenerife Norte (TFN) para vuelos interinsulares y peninsulares.`,
+        `Documentos: pasaporte europeo + microchip ISO + vacuna antirrábica de al menos 21 días para visitantes UE, sin cuarentena; Animal Health Certificate (AHC) en los 10 días previos para visitantes de fuera de la UE (Reino Unido tras el Brexit incluido).`,
+        `Transporte local: guaguas TITSA y tranvía Santa Cruz-La Laguna admiten perros pequeños en transportín; ferries Fred Olsen y Armas a La Gomera, La Palma, El Hierro y Gran Canaria admiten mascotas. Coche de alquiler recomendado para el Teide y el norte.`,
+        `Pet-sitting: Rover y Gudog cubren el sur (Costa Adeje, Los Cristianos, Arona); reserva con 2-3 semanas de antelación en la temporada alta de invierno (diciembre-marzo) y en Semana Santa.`,
+        `Clima: sol de invierno suave 22-26 °C en el sur todo el año; sur caluroso y sin sombra en verano, norte más fresco y verde. Mejores meses con un perro: noviembre a abril.`,
+      ],
+      pt: [
+        `Como chegar: aeroporto Tenerife Sul (TFS), centro dos charters de inverno, a 15-30 min de Costa Adeje, Los Cristianos e El Médano; Tenerife Norte (TFN) para voos inter-ilhas e peninsulares.`,
+        `Documentos: passaporte europeu + microchip ISO + vacina antirrábica de pelo menos 21 dias para visitantes UE, sem quarentena; Animal Health Certificate (AHC) nos 10 dias anteriores para visitantes fora da UE (Reino Unido depois do Brexit incluído).`,
+        `Transporte local: guaguas TITSA e tranvía Santa Cruz-La Laguna admitem cães pequenos em transportadora; ferries Fred Olsen e Armas para La Gomera, La Palma, El Hierro e Gran Canaria aceitam animais. Carro de aluguer recomendado para o Teide e o norte.`,
+        `Pet-sitting: Rover e Gudog cobrem o sul (Costa Adeje, Los Cristianos, Arona); reserve com 2-3 semanas de antecedência na época alta de inverno (dezembro-março) e na Páscoa.`,
+        `Clima: sol de inverno suave 22-26 °C no sul o ano inteiro; sul quente e sem sombra no verão, norte mais fresco e verde. Melhores meses com um cão: novembro a abril.`,
       ],
     },
   },

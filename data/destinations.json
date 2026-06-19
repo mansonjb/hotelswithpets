@@ -978,6 +978,80 @@
     "tiqetsId": "60863"
   },
   {
+    "slug": "arcachon",
+    "name": "Arcachon",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/arcachon.jpg",
+    "intro": "Arcachon pairs Belle Epoque villas with a calm oyster bay, and dogs are welcome on the seafront promenade, the bay beaches off-season, and the vast Dune du Pilat.",
+    "lat": 44.6586,
+    "lng": -1.1681,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "BOD"
+  },
+  {
     "slug": "arles",
     "name": "Arles",
     "country": "France",

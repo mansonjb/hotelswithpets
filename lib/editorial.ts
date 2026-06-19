@@ -871,6 +871,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Albert I-promenade and Kursaal seafront, the Atlantikwall Raversijde dune heritage park, and the 36-hectare Maria Hendrika Park (largest on the Belgian coast)`,
       area: `the seafront centre around the Kursaal and Marie-Jose park, the Visserskaai fishing-quay strip and Vlaanderenstraat back-streets, and the western dog-beach hub at Mariakerke and Raversijde`,
     },
+    oviedo: {
+      personality: `the pre-Romanesque UNESCO capital of green-Spain Asturias, with a pedestrian casco antiguo around the Gothic Catedral de San Salvador and Plaza del Fontán, the famously dog-friendly cider terraces of Calle Gascona (the Bulevar de la Sidra), a central Campo de San Francisco park and a 24/7 veterinary hospital in Buenavista`,
+      highlight: `the Monte Naranco hill trails around the pre-Romanesque UNESCO churches of Santa María del Naranco and San Miguel de Lillo with the best city panorama, plus the Calle Gascona cider terraces and the Campo de San Francisco`,
+      area: `the pedestrian casco antiguo around the cathedral and Plaza del Fontán, the Calle Gascona cider quarter, and the green Monte Naranco hill rising north of the city`,
+    },
     oxford: {
       personality: 'a medieval university city where the honey-coloured college quadrangles are off-limits but the surrounding meadows, riverside pubs, and the off-lead Port Meadow make it one of England\'s easiest small-city dog breaks',
       highlight: 'Port Meadow off-lead common, Christ Church Meadow, and the University Parks',
@@ -2194,6 +2199,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la promenade Albert I et le front de mer du Kursaal, le parc patrimonial dunaire Atlantikwall Raversijde, et le parc Maria Hendrika de 36 hectares (le plus grand de la côte belge)`,
       area: `le centre balnéaire autour du Kursaal et du parc Marie-José, le quai des pêcheurs Visserskaai et les rues arrière de la Vlaanderenstraat, et le hub ouest des plages canines à Mariakerke et Raversijde`,
     },
+    oviedo: {
+      personality: `la capitale préromane classée UNESCO des Asturies, dans le nord vert de l'Espagne, avec un casco antiguo piéton autour de la Catedral de San Salvador gothique et de la Plaza del Fontán, les terrasses à cidre réputées dog-friendly de la Calle Gascona (le Bulevar de la Sidra), un parc central Campo de San Francisco et un hôpital vétérinaire 24h/24 à Buenavista`,
+      highlight: `les sentiers du Monte Naranco autour des églises préromanes UNESCO de Santa María del Naranco et San Miguel de Lillo avec le meilleur panorama sur la ville, plus les terrasses à cidre de la Calle Gascona et le Campo de San Francisco`,
+      area: `le casco antiguo piéton autour de la cathédrale et de la Plaza del Fontán, le quartier du cidre de la Calle Gascona, et la colline verte du Monte Naranco au nord de la ville`,
+    },
     oxford: {
       personality: 'une ville universitaire médiévale où les cours des collèges couleur miel sont interdites aux chiens mais où les prairies environnantes, les pubs riverains et le Port Meadow sans laisse en font l\'une des escapades urbaines les plus faciles d\'Angleterre',
       highlight: 'le common sans laisse de Port Meadow, Christ Church Meadow et les University Parks',
@@ -3516,6 +3526,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el paseo Albert I y el frente marítimo del Kursaal, el parque patrimonial dunar Atlantikwall Raversijde, y el parque Maria Hendrika de 36 hectáreas (el mayor de la costa belga)`,
       area: `el centro costero alrededor del Kursaal y del parque Marie-José, el muelle pesquero Visserskaai y las calles traseras de la Vlaanderenstraat, y el hub oeste de playas caninas en Mariakerke y Raversijde`,
     },
+    oviedo: {
+      personality: `la capital prerrománica Patrimonio de la Humanidad de Asturias, en el norte verde de España, con un casco antiguo peatonal en torno a la Catedral de San Salvador gótica y la Plaza del Fontán, las terrazas sidreras muy dog-friendly de la Calle Gascona (el Bulevar de la Sidra), un parque central Campo de San Francisco y un hospital veterinario 24h en Buenavista`,
+      highlight: `los senderos del Monte Naranco en torno a las iglesias prerrománicas Patrimonio de la Humanidad de Santa María del Naranco y San Miguel de Lillo con la mejor panorámica de la ciudad, además de las terrazas sidreras de la Calle Gascona y el Campo de San Francisco`,
+      area: `el casco antiguo peatonal en torno a la catedral y la Plaza del Fontán, el barrio sidrero de la Calle Gascona, y la colina verde del Monte Naranco al norte de la ciudad`,
+    },
     oxford: {
       personality: 'una ciudad universitaria medieval donde los patios color miel de los colleges están vetados a los perros pero los prados circundantes, los pubs ribereños y el Port Meadow sin correa la convierten en una de las escapadas urbanas más fáciles de Inglaterra',
       highlight: 'el common sin correa de Port Meadow, Christ Church Meadow y los University Parks',
@@ -4837,6 +4852,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma estação balnear real belga de 72 000 habitantes no Mar do Norte com 9 km de passeio Albert I arenoso, zonas de praia canina o ano inteiro em Mariakerke, Raversijde e Oosteroever, o Kusttram (a linha de elétrico mais longa do mundo com 67 km), comboios NMBS com cão grátis para Bruges em 12 min e Bruxelas em 1h15, e o ferry Stena Line para Ramsgate (UK) em cerca de 4h`,
       highlight: `o passeio Albert I e a frente-mar do Kursaal, o parque patrimonial dunar Atlantikwall Raversijde, e o parque Maria Hendrika de 36 hectares (o maior da costa belga)`,
       area: `o centro balnear em torno do Kursaal e do parque Marie-José, o cais dos pescadores Visserskaai e as ruas traseiras da Vlaanderenstraat, e o hub oeste das praias caninas em Mariakerke e Raversijde`,
+    },
+    oviedo: {
+      personality: `a capital pré-românica classificada pela UNESCO das Astúrias, no norte verde de Espanha, com um casco antigo pedonal em torno da Catedral de San Salvador gótica e da Plaza del Fontán, as esplanadas de sidra muito acolhedoras para cães da Calle Gascona (o Bulevar de la Sidra), um parque central Campo de San Francisco e um hospital veterinário 24h em Buenavista`,
+      highlight: `os trilhos do Monte Naranco em torno das igrejas pré-românicas classificadas pela UNESCO de Santa María del Naranco e San Miguel de Lillo com o melhor panorama da cidade, além das esplanadas de sidra da Calle Gascona e do Campo de San Francisco`,
+      area: `o casco antigo pedonal em torno da catedral e da Plaza del Fontán, o bairro da sidra da Calle Gascona, e a colina verde do Monte Naranco a norte da cidade`,
     },
     oxford: {
       personality: 'uma cidade universitaria medieval onde os patios color miel dos colleges estão vetados aos cães mas os prados circundantes, os pubs riberenhos e o Port Meadow sem trela a convierten numa das escapadas urbanas mais fáciles de Inglaterra',

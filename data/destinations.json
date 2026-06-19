@@ -12921,6 +12921,81 @@
     "iata": "BRU"
   },
   {
+    "slug": "oviedo",
+    "name": "Oviedo",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/oviedo.jpg",
+    "intro": "The pre-Romanesque UNESCO capital of green-Spain Asturias pairs the dog-friendly cider terraces of Calle Gascona, the Bulevar de la Sidra, with the panoramic Monte Naranco hill trails, a central Campo de San Francisco park, a 24/7 veterinary hospital in Buenavista, and an easy FEVE rail link to the Asturias coast and Picos de Europa, one of the most relaxed northern-Spanish cities for a dog-inclusive trip.",
+    "lat": 43.3619,
+    "lng": -5.8494,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & showery",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Mild & changeable",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warmest month",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & grey",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "OVD"
+  },
+  {
     "slug": "oxford",
     "name": "Oxford",
     "country": "United Kingdom",

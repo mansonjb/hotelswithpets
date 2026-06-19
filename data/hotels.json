@@ -37889,5 +37889,392 @@
       "Steps from Bois-Plage beach"
     ],
     "slug": "elegance-suites-hotel-ile-de-re"
+  },
+  {
+    "id": "tenerife-1",
+    "slug": "hard-rock-hotel-tenerife",
+    "name": "Hard Rock Hotel Tenerife",
+    "destinationSlug": "tenerife",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 8500,
+    "priceFrom": 290,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hard+Rock+Hotel+Tenerife",
+    "petFee": 40,
+    "petPolicy": "Hard Rock Hotel Tenerife welcomes dogs through its Unleashed pet program, with a maximum of two dogs per room and an extra charge of about 40 EUR per pet per night plus a one-off cleaning fee. It is genuinely set up for dog owners, offering food and water bowls, a dog-walking service and a leaflet of the best local walking routes and nearest vets. Please confirm with the property when booking.",
+    "address": "Avenida de Adeje 300, Playa Paraíso, 38678 Adeje, Tenerife",
+    "neighborhood": "Costa Adeje",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Unleashed dog program with bowls and walking service",
+      "Steps from Playa Paraíso and the Costa Adeje coastal promenade"
+    ]
+  },
+  {
+    "id": "tenerife-2",
+    "slug": "dreams-jardin-tropical-resort-spa",
+    "name": "Dreams Jardin Tropical Resort & Spa",
+    "destinationSlug": "tenerife",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4200,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Dreams+Jardin+Tropical+Resort+Spa+Tenerife",
+    "petFee": 50,
+    "petPolicy": "Dreams Jardin Tropical accepts one dog up to about 10 kg in designated rooms for an extra charge of around 50 EUR per night, with food and water bowls provided. Its Costa Adeje seafront setting means the long Fañabé to El Duque promenade is right outside for easy leashed walks. Please confirm with the property when booking.",
+    "address": "Calle Gran Bretaña s/n, San Eugenio, 38660 Costa Adeje, Tenerife",
+    "neighborhood": "Costa Adeje",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "One dog up to ~10 kg, bowls provided",
+      "On the Costa Adeje seafront with direct promenade access"
+    ]
+  },
+  {
+    "id": "tenerife-3",
+    "slug": "hotel-botanico-oriental-spa-garden",
+    "name": "Hotel Botanico & The Oriental Spa Garden",
+    "destinationSlug": "tenerife",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 3600,
+    "priceFrom": 200,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Botanico+Oriental+Spa+Garden+Puerto+de+la+Cruz",
+    "petFee": 30,
+    "petPolicy": "Hotel Botanico accepts small dogs in selected wood-floor rooms on request, with a fee of around 30 EUR per pet per night plus a one-off cleaning charge, and a small size limit applies. Set among lush subtropical gardens in Puerto de la Cruz, it is a calm green base with cooler northern weather for dog walks. Please confirm with the property when booking, as size limits are strict.",
+    "address": "Avenida Richard J. Yeoward 1, 38400 Puerto de la Cruz, Tenerife",
+    "neighborhood": "Puerto de la Cruz",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Set in lush subtropical gardens for shaded walks",
+      "Cooler northern base near the Orotava valley"
+    ]
+  },
+  {
+    "id": "tenerife-4",
+    "slug": "coral-teide-mar",
+    "name": "Coral Teide Mar",
+    "destinationSlug": "tenerife",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 1500,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Coral+Teide+Mar+Puerto+de+la+Cruz",
+    "petFee": 5,
+    "petPolicy": "Coral Teide Mar accepts one small dog or cat up to about 4.5 kg per apartment, with a refundable deposit plus roughly 5 EUR per day, and asks for an up-to-date vaccination certificate on arrival. The self-catering apartments and central Puerto de la Cruz location make it an affordable base near the seafront promenade. Please confirm with the property when booking.",
+    "address": "Calle Mazaroco 3, 38400 Puerto de la Cruz, Tenerife",
+    "neighborhood": "Puerto de la Cruz",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Budget self-catering apartments with low pet fee",
+      "Walkable to the Puerto de la Cruz seafront"
+    ]
+  },
+  {
+    "id": "tenerife-5",
+    "slug": "hotel-adonis-capital",
+    "name": "Hotel Adonis Capital",
+    "destinationSlug": "tenerife",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 2,
+    "rating": 8.1,
+    "reviewCount": 1100,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Adonis+Capital+Santa+Cruz+de+Tenerife",
+    "petFee": 0,
+    "petPolicy": "Hotel Adonis Capital allows small dogs up to about 5 kg on prior request at no extra charge, making it a rare free-pet option in the capital. Its central location on Plaza de la Candelaria puts the old town, port and city parks within easy leashed walking distance. Please confirm with the property when booking.",
+    "address": "Calle Cruz Verde 24, 38003 Santa Cruz de Tenerife, Tenerife",
+    "neighborhood": "Santa Cruz de Tenerife",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Central Plaza de la Candelaria, walkable to port and old town"
+    ]
+  },
+  {
+    "id": "gran-canaria-1",
+    "slug": "gran-marina-suites",
+    "name": "Gran Marina Suites",
+    "destinationSlug": "gran-canaria",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 900,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Gran+Marina+Suites+Las+Palmas+Gran+Canaria",
+    "petFee": 15,
+    "petPolicy": "Gran Marina Suites welcomes up to two dogs of any size for 15 EUR per pet per night, with food and water bowls, pet supplies and a welcome gift provided. Just 150 metres from the Las Canteras seafront, it is ideal for dog owners who want the long paseo at their door, though pets cannot be left unattended in rooms. Please confirm with the property when booking.",
+    "address": "Calle López Socas 12, 35008 Las Palmas de Gran Canaria, Gran Canaria",
+    "neighborhood": "Playa de Las Canteras",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "150 m from the Las Canteras seafront paseo",
+      "Welcome gift and pet bowls provided"
+    ]
+  },
+  {
+    "id": "gran-canaria-2",
+    "slug": "sercotel-playa-canteras",
+    "name": "Sercotel Playa Canteras",
+    "destinationSlug": "gran-canaria",
+    "categories": [
+      "dog-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 1600,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sercotel+Playa+Canteras+Las+Palmas+Gran+Canaria",
+    "petFee": 25,
+    "petPolicy": "Sercotel Playa Canteras accepts one small dog per room (up to roughly 10 kg) for 25 EUR per pet per night. Steps from the Las Canteras beach and the city paseo, it puts dog owners within an easy leashed walk of the island's best urban seafront. Please confirm with the property when booking.",
+    "address": "Calle Portugal 68, 35010 Las Palmas de Gran Canaria, Gran Canaria",
+    "neighborhood": "Playa de Las Canteras",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Walking distance to Las Canteras beach",
+      "Central Las Palmas seafront location"
+    ]
+  },
+  {
+    "id": "gran-canaria-3",
+    "slug": "seaside-sandy-beach",
+    "name": "Seaside Sandy Beach",
+    "destinationSlug": "gran-canaria",
+    "categories": [
+      "dog-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 400,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Seaside+Sandy+Beach+Playa+del+Ingles+Gran+Canaria",
+    "petFee": 15,
+    "petPolicy": "Seaside Sandy Beach accepts one small dog per room (up to roughly 5 kg) in standard double rooms for 15 EUR per dog per night, on request. Set in the heart of Playa del Inglés, it is close to the south-coast promenades and the fenced parque canino in nearby San Fernando de Maspalomas. Please confirm with the property when booking.",
+    "address": "Avenida Menceyes s/n, 35100 Playa del Inglés, San Bartolomé de Tirajana, Gran Canaria",
+    "neighborhood": "Playa del Inglés",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Walking distance to south-coast promenades",
+      "Near the San Fernando parque canino"
+    ]
+  },
+  {
+    "id": "gran-canaria-4",
+    "slug": "hotel-livvo-dunagolf-suites",
+    "name": "Hotel LIVVO Dunagolf Suites",
+    "destinationSlug": "gran-canaria",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1100,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+LIVVO+Dunagolf+Suites+Maspalomas+Gran+Canaria",
+    "petFee": 15,
+    "petPolicy": "Hotel LIVVO Dunagolf Suites welcomes dogs up to 15 kg for 15 EUR per pet per night, on request. Set within the Maspalomas golf course with well-kept gardens for walks, it is a relaxed base near the dune perimeter promenades and the San Fernando parque canino. Please confirm with the property when booking.",
+    "address": "Avenida Fritdresor 2, 35100 Maspalomas, San Bartolomé de Tirajana, Gran Canaria",
+    "neighborhood": "Maspalomas",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Gardens and golf course for dog walks",
+      "Near the Maspalomas dune perimeter promenades"
+    ]
+  },
+  {
+    "id": "gran-canaria-5",
+    "slug": "apartamentos-gelimar",
+    "name": "Apartamentos Gelimar",
+    "destinationSlug": "gran-canaria",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 500,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Apartamentos+Gelimar+Puerto+Rico+Gran+Canaria",
+    "petFee": 0,
+    "petPolicy": "Family-run Apartamentos Gelimar welcomes one pet in its standard apartments at no extra charge, with at least two days notice requested before arrival. Overlooking Puerto Rico bay near Mogán on the south-west coast, it is a budget-friendly base close to the dog-friendly Playa del Cardón near Arguineguín. Please confirm with the property when booking.",
+    "address": "Avenida de Venguera 10, 35130 Puerto Rico, Mogán, Gran Canaria",
+    "neighborhood": "Puerto Rico (Mogán)",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Free pet stay",
+      "Near the dog-friendly Playa del Cardón"
+    ]
+  },
+  {
+    "id": "lanzarote-1",
+    "slug": "princesa-yaiza-suite-hotel-resort",
+    "name": "Princesa Yaiza Suite Hotel Resort",
+    "destinationSlug": "lanzarote",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 6500,
+    "priceFrom": 290,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Princesa+Yaiza+Suite+Hotel+Resort+Lanzarote",
+    "petFee": 60,
+    "petPolicy": "This five-star beachfront resort welcomes one small dog per room (up to around 5 kg) for a fee of about 60 EUR per night, subject to conditions. With its setting right on Playa Dorada and six outdoor pools, it is a comfortable luxury base for owners of small dogs who want winter sun and an easy stroll to Marina Rubicón. Please confirm with the property when booking.",
+    "address": "Avenida de Papagayo 22, 35580 Playa Blanca, Yaiza, Lanzarote",
+    "neighborhood": "Playa Blanca",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Beachfront on Playa Dorada",
+      "10 minutes from the dog section of Playa de las Coloradas"
+    ]
+  },
+  {
+    "id": "lanzarote-2",
+    "slug": "seaside-los-jameos-playa",
+    "name": "Seaside Los Jameos Playa",
+    "destinationSlug": "lanzarote",
+    "categories": [
+      "dog-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 4200,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Seaside+Los+Jameos+Playa+Lanzarote",
+    "petFee": 25,
+    "petPolicy": "This four-star Canarian-style hotel on the Playa de los Pocillos seafront welcomes dogs on request, with the weight confirmed and payment made directly at the hotel. Its position right on the Puerto del Carmen promenade makes for easy leashed seafront walks and dog-welcoming terrace cafes nearby. Please confirm with the property when booking.",
+    "address": "Calle Marbella 8, Playa de los Pocillos, 35510 Puerto del Carmen, Tías, Lanzarote",
+    "neighborhood": "Puerto del Carmen",
+    "highlights": [
+      "Pet-friendly with verified hotel policy",
+      "On the Puerto del Carmen seafront promenade",
+      "Steps from dog-welcoming terrace cafes on Avenida de las Playas"
+    ]
+  },
+  {
+    "id": "lanzarote-3",
+    "slug": "radisson-blu-resort-lanzarote",
+    "name": "Radisson Blu Resort, Lanzarote",
+    "destinationSlug": "lanzarote",
+    "categories": [
+      "dog-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3100,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Radisson+Blu+Resort+Lanzarote+Costa+Teguise",
+    "petFee": 20,
+    "petPolicy": "This four-star Costa Teguise resort allows dogs for about 20 EUR per pet per night, with pets accommodated in Junior Suite room types and a short pet agreement to sign at check-in. It is a polished, calm base a short walk from the flat Paseo Marítimo de Costa Teguise for daily leashed walks. Please confirm with the property when booking.",
+    "address": "Avenida del Mar 5, 35509 Costa Teguise, Teguise, Lanzarote",
+    "neighborhood": "Costa Teguise",
+    "highlights": [
+      "Pet-friendly with verified Booking.com policy",
+      "Near the flat Paseo Marítimo de Costa Teguise",
+      "Short walk to Playa de las Cucharas"
+    ]
+  },
+  {
+    "id": "lanzarote-4",
+    "slug": "hotel-miramar-arrecife",
+    "name": "Hotel Miramar",
+    "destinationSlug": "lanzarote",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 900,
+    "priceFrom": 78,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Miramar+Arrecife+Lanzarote",
+    "petFee": 0,
+    "petPolicy": "This three-star hotel in the capital Arrecife welcomes dogs and cats in its rooms at no extra charge, subject to size limitations. Its central seafront location by the Castillo de San Gabriel and the Charco de San Ginés makes it a budget-friendly, walkable city base, with the palm-shaded Parque Municipal de Arrecife close by for leashed strolls. Please confirm with the property when booking.",
+    "address": "Avenida Coll 2, 35500 Arrecife, Lanzarote",
+    "neighborhood": "Arrecife",
+    "highlights": [
+      "Pet-friendly with verified policy",
+      "Free pet stay",
+      "Walkable to the Parque Municipal de Arrecife and Charco de San Ginés"
+    ]
+  },
+  {
+    "id": "lanzarote-5",
+    "slug": "mynd-yaiza",
+    "name": "MYND Yaiza",
+    "destinationSlug": "lanzarote",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1400,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=MYND+Yaiza+Playa+Blanca+Lanzarote",
+    "petFee": 25,
+    "petPolicy": "This four-star boutique hotel in Playa Blanca is a recognised pet-friendly option that welcomes dogs, with a modest pet fee confirmed directly with the property. Its location near the Playa Blanca seafront promenade gives easy leashed coastal walks and a relaxed value base for the south of the island. Please confirm with the property when booking.",
+    "address": "Calle Limones 1, 35580 Playa Blanca, Yaiza, Lanzarote",
+    "neighborhood": "Playa Blanca",
+    "highlights": [
+      "Pet-friendly with verified policy",
+      "Boutique value base in Playa Blanca",
+      "Near the Playa Blanca seafront promenade and Marina Rubicón"
+    ]
   }
 ]

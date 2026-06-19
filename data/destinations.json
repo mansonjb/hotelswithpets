@@ -20341,5 +20341,230 @@
       }
     },
     "iata": "ZRH"
+  },
+  {
+    "slug": "tenerife",
+    "name": "Tenerife",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/tenerife.jpg",
+    "intro": "Tenerife is a year-round dog island where mild 20-26°C weather lets you walk the Costa Adeje seafront paseo in January as easily as July, with the golden-sand Playa del Cabezo dog beach in El Médano and the laurel forests of Anaga waiting inland. From the volcanic moonscape of Teide National Park to palm-lined promenades from Los Cristianos to Puerto de la Cruz, leashed dogs are welcome almost everywhere outdoors.",
+    "lat": 28.2916,
+    "lng": -16.6291,
+    "weather": {
+      "jan": {
+        "temp": 21,
+        "desc": "Mild and sunny",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 21,
+        "desc": "Warm winter sun",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 22,
+        "desc": "Bright and dry",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 23,
+        "desc": "Pleasant spring",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Warm and clear",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot and sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot summer days",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Peak summer heat",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Warm and dry",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 27,
+        "desc": "Mild and sunny",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 24,
+        "desc": "Warm autumn",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 22,
+        "desc": "Mild winter sun",
+        "icon": "☀️"
+      }
+    },
+    "iata": "TFS"
+  },
+  {
+    "slug": "gran-canaria",
+    "name": "Gran Canaria",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/gran-canaria.jpg",
+    "intro": "Gran Canaria is a year-round subtropical island where mild winters and warm Atlantic light make it one of Europe's easiest dog-owner escapes, from the 3 km Playa de Las Canteras paseo in Las Palmas to the golden dunes of Maspalomas and the canal village of Puerto de Mogán. With designated dog beaches, fenced parques caninos, and cool mountain trails around Roque Nublo, the island pairs resort comfort with genuinely dog-friendly outdoor living.",
+    "lat": 27.9202,
+    "lng": -15.5474,
+    "weather": {
+      "jan": {
+        "temp": 21,
+        "desc": "Mild and sunny",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 21,
+        "desc": "Warm winter days",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 22,
+        "desc": "Pleasant and bright",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 22,
+        "desc": "Warm and clear",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Sunny and dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm early summer",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot and breezy",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Peak summer warmth",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Warm and calm",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 25,
+        "desc": "Mild and pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 23,
+        "desc": "Warm autumn sun",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 22,
+        "desc": "Mild winter sun",
+        "icon": "☀️"
+      }
+    },
+    "iata": "LPA"
+  },
+  {
+    "slug": "lanzarote",
+    "name": "Lanzarote",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/lanzarote.jpg",
+    "intro": "Lanzarote is one of the most rewarding Canary Islands for dog owners, pairing year-round subtropical warmth with dramatic black-lava scenery, César Manrique landmarks and two officially designated dog beaches. With direct flights into Arrecife (ACE) and compact resorts at Playa Blanca, Puerto del Carmen and Costa Teguise, it is an easy, mild-climate base for a winter-sun trip with your dog.",
+    "lat": 29.0469,
+    "lng": -13.5899,
+    "weather": {
+      "jan": {
+        "temp": 21,
+        "desc": "Mild winter sun, breezy",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 21,
+        "desc": "Warm days, cool evenings",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 22,
+        "desc": "Sunny and dry",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 23,
+        "desc": "Warm spring sunshine",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Sunny, light trade winds",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Warm and breezy",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot, strong trade winds",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Hottest month, windy",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Warm late summer",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 26,
+        "desc": "Warm, settled weather",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 24,
+        "desc": "Mild, occasional showers",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 22,
+        "desc": "Mild winter sun, breezy",
+        "icon": "☀️"
+      }
+    },
+    "iata": "ACE"
   }
 ]

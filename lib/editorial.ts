@@ -21,6 +21,21 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    tenerife: {
+      personality: `a subtropical year-round island where dogs walk the palm-lined Costa Adeje and Los Cristianos seafront promenades in winter sun, splash at the Playa del Cabezo dog beach in El Médano, and cool off on the shaded laurel-forest trails of the Anaga rural park below volcanic Teide`,
+      highlight: `Top dog spots are the designated Playa del Cabezo dog beach in El Médano, the long Costa Adeje coastal promenade, and the cool, shaded marked trails of the Parque Rural de Anaga`,
+      area: `Most travellers stay in the southern resort strip of Costa Adeje, Playa de las Américas and Los Cristianos, with greener bases in Puerto de la Cruz and the capital, Santa Cruz`,
+    },
+    'gran-canaria': {
+      personality: `nicknamed the miniature continent, Gran Canaria gives dog owners year-round warmth and a rhythm built around the outdoors, from the 3 km Playa de Las Canteras seafront paseo in Las Palmas to the golden dunes of Maspalomas and the cobbled mountain village of Tejeda below the Roque Nublo monolith`,
+      highlight: `Leashed walks the full length of the Las Canteras paseo, the designated dog beach at El Burrero near the airport, and the fenced parque canino in San Fernando de Maspalomas`,
+      area: `Las Palmas for the city beach and old town, Maspalomas and Playa del Inglés for the southern resorts, and Puerto de Mogán and Meloneras for slower seaside stays`,
+    },
+    lanzarote: {
+      personality: `Lanzarote rewards dog owners with year-round warmth and otherworldly volcanic scenery, from the black-lava fields and La Geria vineyards around Timanfaya to the César Manrique landmarks that define the island, all walkable on a leash and far enough south to make winter terrace meals with your dog the norm`,
+      highlight: `Walk the delimited dog beach at Playa de Guacimeta near the airport, swim in the dog section of Playa de las Coloradas by Marina Rubicón, and stroll the bodega-lined La Geria wine road with a leashed dog`,
+      area: `Most dog owners base themselves in beachy Playa Blanca in the south, lively Puerto del Carmen on the central coast, or the calm seafront of Costa Teguise, with the capital Arrecife handy for a budget city stay`,
+    },
     'a-coruna': {
       personality: `Galicia's Atlantic port city wrapped around the UNESCO-listed Torre de Hércules (the only Roman lighthouse still in service), with the world's longest urban seafront promenade at 13 km, a designated off-leash zone at Parque de Santa Margarita and a 24/7 veterinary hospital on Calle Marqués de Amboage`,
       highlight: `the 13 km Paseo Marítimo from the Marina galleries around the Torre de Hércules clifftop park to the Castillo de San Antón, plus the off-season Riazor and Orzán beaches (Oct–May) and the Monte San Pedro Atlantic viewpoint`,
@@ -1379,6 +1394,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    tenerife: {
+      personality: `une île subtropicale où l'on profite de l'extérieur toute l'année, où les chiens arpentent les promenades bordées de palmiers de Costa Adeje et Los Cristianos sous le soleil d'hiver, barbotent à la plage canine de Playa del Cabezo à El Médano, et se rafraîchissent sur les sentiers ombragés de la forêt de lauriers du parc rural d'Anaga, au pied du Teide volcanique`,
+      highlight: `Les meilleurs coins pour chiens sont la plage canine désignée de Playa del Cabezo à El Médano, la longue promenade côtière de Costa Adeje et les sentiers balisés frais et ombragés du Parque Rural de Anaga`,
+      area: `La plupart des voyageurs séjournent dans la bande balnéaire du sud, à Costa Adeje, Playa de las Américas et Los Cristianos, avec des bases plus verdoyantes à Puerto de la Cruz et dans la capitale, Santa Cruz`,
+    },
+    'gran-canaria': {
+      personality: `surnommée le continent miniature, Gran Canaria offre aux maîtres de chiens une douceur toute l'année et une vie tournée vers le dehors, du paseo de 3 km de la Playa de Las Canteras à Las Palmas aux dunes dorées de Maspalomas et au village de montagne pavé de Tejeda sous le monolithe du Roque Nublo`,
+      highlight: `Des balades en laisse sur tout le paseo de Las Canteras, la plage canine d'El Burrero près de l'aéroport et le parque canino clôturé de San Fernando de Maspalomas`,
+      area: `Las Palmas pour la plage urbaine et la vieille ville, Maspalomas et Playa del Inglés pour les stations du sud, et Puerto de Mogán et Meloneras pour des séjours plus tranquilles en bord de mer`,
+    },
+    lanzarote: {
+      personality: `Lanzarote séduit les maîtres de chiens par sa douceur toute l'année et ses paysages volcaniques irréels, des champs de lave noire et des vignes de La Geria autour de Timanfaya jusqu'aux sites de César Manrique qui définissent l'île, le tout parcourable en laisse et assez au sud pour faire des repas d'hiver en terrasse avec son chien la norme`,
+      highlight: `Promenez-vous sur la plage canine délimitée de la Playa de Guacimeta près de l'aéroport, baignez-vous dans la section canine de la Playa de las Coloradas près de Marina Rubicón, et flânez sur la route viticole de La Geria bordée de bodegas avec un chien en laisse`,
+      area: `La plupart des maîtres logent dans la balnéaire Playa Blanca au sud, l'animée Puerto del Carmen sur la côte centrale, ou le front de mer tranquille de Costa Teguise, la capitale Arrecife étant pratique pour un séjour urbain économique`,
+    },
     'a-coruna': {
       personality: `port atlantique galicien enroulé autour de la Torre de Hércules classée UNESCO (seul phare romain encore en service), avec la plus longue promenade littorale urbaine du monde sur 13 km, une zone canine sans laisse au Parque de Santa Margarita et un hôpital vétérinaire 24h/24 sur la Calle Marqués de Amboage`,
       highlight: `les 13 km du Paseo Marítimo depuis les galeries de la Marina autour du parc des falaises de la Torre de Hércules jusqu'au Castillo de San Antón, plus les plages hors saison de Riazor et Orzán (oct.–mai) et le belvédère atlantique du Monte San Pedro`,
@@ -2736,6 +2766,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    tenerife: {
+      personality: `una isla subtropical de vida al aire libre todo el año, donde los perros pasean por los paseos marítimos con palmeras de Costa Adeje y Los Cristianos al sol de invierno, chapotean en la playa canina de Playa del Cabezo en El Médano y se refrescan en los senderos sombreados de la laurisilva del parque rural de Anaga, bajo el volcánico Teide`,
+      highlight: `Los mejores rincones perrunos son la playa canina señalizada de Playa del Cabezo en El Médano, el largo paseo costero de Costa Adeje y los senderos balizados, frescos y sombreados del Parque Rural de Anaga`,
+      area: `La mayoría de los viajeros se aloja en la franja turística del sur, en Costa Adeje, Playa de las Américas y Los Cristianos, con bases más verdes en Puerto de la Cruz y en la capital, Santa Cruz`,
+    },
+    'gran-canaria': {
+      personality: `apodada el continente en miniatura, Gran Canaria ofrece a los dueños de perros calidez todo el año y una vida al aire libre, desde el paseo de 3 km de la Playa de Las Canteras en Las Palmas hasta las dunas doradas de Maspalomas y el pueblo de montaña empedrado de Tejeda bajo el monolito del Roque Nublo`,
+      highlight: `Paseos con correa por todo el paseo de Las Canteras, la playa para perros de El Burrero cerca del aeropuerto y el parque canino vallado de San Fernando de Maspalomas`,
+      area: `Las Palmas para la playa urbana y el casco antiguo, Maspalomas y Playa del Inglés para las zonas del sur, y Puerto de Mogán y Meloneras para estancias más tranquilas junto al mar`,
+    },
+    lanzarote: {
+      personality: `Lanzarote recompensa a los dueños de perros con calidez todo el año y paisajes volcánicos de otro mundo, desde los campos de lava negra y los viñedos de La Geria en torno a Timanfaya hasta los hitos de César Manrique que definen la isla, todo recorrible con correa y lo bastante al sur para que las comidas de invierno en terraza con tu perro sean lo normal`,
+      highlight: `Pasea por la playa canina delimitada de la Playa de Guacimeta junto al aeropuerto, báñate en la zona canina de la Playa de las Coloradas junto a Marina Rubicón, y recorre la carretera vinícola de La Geria, llena de bodegas, con un perro con correa`,
+      area: `La mayoría de los dueños se alojan en la playera Playa Blanca al sur, la animada Puerto del Carmen en la costa central, o el tranquilo paseo marítimo de Costa Teguise, con la capital Arrecife útil para una estancia urbana económica`,
+    },
     'a-coruna': {
       personality: `puerto atlántico gallego envuelto en torno a la Torre de Hércules declarada Patrimonio de la Humanidad por la UNESCO (único faro romano aún en servicio), con el paseo marítimo urbano más largo del mundo con 13 km, una zona canina sin correa en el Parque de Santa Margarita y un hospital veterinario 24/7 en la Calle Marqués de Amboage`,
       highlight: `los 13 km del Paseo Marítimo desde las galerías de la Marina alrededor del parque acantilado de la Torre de Hércules hasta el Castillo de San Antón, además de las playas fuera de temporada de Riazor y Orzán (oct.–may.) y el mirador atlántico del Monte San Pedro`,
@@ -4093,6 +4138,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    tenerife: {
+      personality: `uma ilha subtropical de vida ao ar livre o ano inteiro, onde os cães passeiam nos passeios marítimos com palmeiras de Costa Adeje e Los Cristianos ao sol de inverno, chapinham na praia canina da Playa del Cabezo em El Médano e refrescam-se nos trilhos sombreados da laurissilva do parque rural de Anaga, sob o vulcânico Teide`,
+      highlight: `Os melhores pontos para cães são a praia canina designada da Playa del Cabezo em El Médano, o longo passeio costeiro de Costa Adeje e os trilhos balizados, frescos e sombreados do Parque Rural de Anaga`,
+      area: `A maioria dos viajantes fica na faixa turística do sul, em Costa Adeje, Playa de las Américas e Los Cristianos, com bases mais verdes em Puerto de la Cruz e na capital, Santa Cruz`,
+    },
+    'gran-canaria': {
+      personality: `apelidada o continente em miniatura, Gran Canaria oferece aos donos de cães calor o ano inteiro e uma vida ao ar livre, do passeio de 3 km da Playa de Las Canteras em Las Palmas às dunas douradas de Maspalomas e à aldeia de montanha calcetada de Tejeda sob o monolito do Roque Nublo`,
+      highlight: `Passeios à trela por todo o passeio de Las Canteras, a praia para cães de El Burrero perto do aeroporto e o parque canino vedado de San Fernando de Maspalomas`,
+      area: `Las Palmas para a praia urbana e o casco antigo, Maspalomas e Playa del Inglés para as zonas do sul, e Puerto de Mogán e Meloneras para estadias mais tranquilas junto ao mar`,
+    },
+    lanzarote: {
+      personality: `Lanzarote recompensa os donos de cães com clima ameno o ano inteiro e paisagens vulcânicas de outro mundo, desde os campos de lava negra e as vinhas de La Geria em torno de Timanfaya até aos marcos de César Manrique que definem a ilha, tudo percorrível à trela e suficientemente a sul para que as refeições de inverno na esplanada com o seu cão sejam o normal`,
+      highlight: `Passeie pela praia canina delimitada da Playa de Guacimeta junto ao aeroporto, tome banho na zona canina da Playa de las Coloradas junto à Marina Rubicón, e percorra a estrada vinícola de La Geria, cheia de bodegas, com um cão à trela`,
+      area: `A maioria dos donos fica na praiana Playa Blanca a sul, na animada Puerto del Carmen na costa central, ou no tranquilo passeio marítimo de Costa Teguise, com a capital Arrecife útil para uma estadia urbana económica`,
+    },
     'a-coruna': {
       personality: `porto atlântico galego envolvido em torno da Torre de Hércules classificada Património Mundial pela UNESCO (único farol romano ainda em serviço), com o passeio marítimo urbano mais longo do mundo com 13 km, uma zona canina sem trela no Parque de Santa Margarita e um hospital veterinário 24/7 na Calle Marqués de Amboage`,
       highlight: `os 13 km do Paseo Marítimo desde as galerias da Marina em torno do parque de falésias da Torre de Hércules até ao Castillo de San Antón, além das praias fora de época de Riazor e Orzán (out.–maio) e do miradouro atlântico do Monte San Pedro`,

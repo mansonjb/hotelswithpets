@@ -9087,6 +9087,81 @@
     "iata": "IBZ"
   },
   {
+    "slug": "ile-de-re",
+    "name": "Île de Ré",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/ile-de-re.jpg",
+    "intro": "A flat, sun-soaked Atlantic island off La Rochelle, reached by a 3 km toll bridge in 10 minutes and explored on more than 100 km of cycling paths, with the dog in a bike basket as the local norm. Saint-Martin-de-Ré shelters its UNESCO Vauban fortifications and a star-shaped harbour, Ars-en-Ré flies its black-and-white church spire over the salt marshes, and La Flotte keeps a medieval covered market. Long leashed Atlantic beaches at Le Bois-Plage and La Couarde, the Phare des Baleines lighthouse at the northwest tip, marais salants where the donkeys still wear trousers, and oysters, fleur de sel and AOP potatoes on every table. One of the most dog-relaxed islands in France.",
+    "lat": 46.2,
+    "lng": -1.3667,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Mild, breezy Atlantic",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild with sea wind",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & brightening",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Sunny & breezy",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Sunny & warm",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm & very sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Warm & very sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Sunny & mild",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild, breezy Atlantic",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "LRH"
+  },
+  {
     "slug": "innsbruck",
     "name": "Innsbruck",
     "country": "Austria",

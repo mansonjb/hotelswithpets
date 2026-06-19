@@ -37764,5 +37764,130 @@
     ],
     "slug": "zurich-marriott-hotel",
     "petPolicyPt": "Zurich Marriott Hotel é um animal-friendly estabelecimento that welcomes cães e gatos. animais estadia completely gratuitamente. Sem taxa extra applies. Animais são aceites até 25 kg; up para two animais per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em áreas comuns e são não permitidos sem supervisão nos quartos para extended periods. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
+  },
+  {
+    "id": "ile-de-re-1",
+    "name": "Hôtel de Toiras",
+    "destinationSlug": "ile-de-re",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 413,
+    "priceFrom": 450,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/de-toiras.html",
+    "petFee": 40,
+    "petPolicy": "Hôtel de Toiras, a 5-star Relais & Châteaux house in a 17th-century shipowner's mansion right on the harbour of Saint-Martin-de-Ré, warmly welcomes well-behaved pets at a charge of EUR 40 per night (excluding food). The hotel provides pet bowls and pet baskets for four-legged guests. Pets must not be left alone in the rooms. Please declare your pet at the time of booking. The UNESCO ramparts walk and the harbour quays are on the doorstep.",
+    "highlights": [
+      "Harbourfront Relais & Châteaux setting",
+      "Pet bowls and baskets provided",
+      "Steps from the UNESCO ramparts"
+    ],
+    "slug": "hotel-de-toiras"
+  },
+  {
+    "id": "ile-de-re-2",
+    "name": "Le Clos Saint-Martin Hôtel & Spa",
+    "destinationSlug": "ile-de-re",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 760,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/hotelleclossaintmartin.html",
+    "petFee": 18,
+    "petPolicy": "Le Clos Saint-Martin Hôtel & Spa, a 4-star Small Luxury Hotel set in a garden in the heart of Saint-Martin-de-Ré with two outdoor pools and a Spa by Clarins, welcomes pets on request at a charge of EUR 18 per pet, per night. Please declare your pet when booking. The hotel sits within the star-shaped Vauban ramparts, a short walk from the harbour and the rampart walking circuit.",
+    "highlights": [
+      "Two outdoor swimming pools",
+      "Spa by Clarins",
+      "Garden setting inside the ramparts"
+    ],
+    "slug": "le-clos-saint-martin-hotel-spa"
+  },
+  {
+    "id": "ile-de-re-3",
+    "name": "HR Hôtel & Spa Marin (Le Richelieu)",
+    "destinationSlug": "ile-de-re",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 520,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-richelieu-la-flotte.html",
+    "petFee": 25,
+    "petPolicy": "HR Hôtel & Spa Marin (formerly Le Richelieu), a 5-star seafront hotel in the listed village of La Flotte facing the Arnérault beach, welcomes well-behaved pets, who are allowed wherever their owners are. A pet charge of around EUR 25 per night applies; please confirm and declare your pet at booking. The hotel has a large marine spa and direct access to the beach and the island's cycling network.",
+    "highlights": [
+      "Seafront with direct beach access",
+      "800 m² marine spa",
+      "Pets allowed throughout"
+    ],
+    "slug": "hr-hotel-spa-marin-le-richelieu"
+  },
+  {
+    "id": "ile-de-re-4",
+    "name": "Hôtel Le Galion",
+    "destinationSlug": "ile-de-re",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1350,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/hotel-le-galion.html",
+    "petFee": 10,
+    "petPolicy": "Hôtel Le Galion, a 3-star hotel on the outer harbour of Saint-Martin-de-Ré with sea views from most rooms, welcomes cats and dogs at a charge of EUR 10 per pet, per night, with a limit of one pet per room. Service animals stay free. The hotel sits directly by the port a minute from the water, with the harbour bars, restaurants and rampart walks all on foot.",
+    "highlights": [
+      "Outer-harbour location with sea views",
+      "One minute from the water",
+      "Cats and dogs welcome"
+    ],
+    "slug": "hotel-le-galion"
+  },
+  {
+    "id": "ile-de-re-5",
+    "name": "Élégance Suites Hôtel - Île de Ré",
+    "destinationSlug": "ile-de-re",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "dogs-stay-free",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 290,
+    "priceFrom": 190,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ela-c-gance-suites-ha-tel.html",
+    "petFee": 0,
+    "petPolicy": "Élégance Suites Hôtel, a 4-star property a few steps from the beach and the centre of Le Bois-Plage-en-Ré, welcomes dogs of any size completely free of charge, with no extra pet fee. Cats are not accepted. The hotel has eight spacious suites with private terraces and a heated outdoor pool, and the long Bois-Plage beach, the pine forest and the cycling paths are all within a short walk. Please declare your dog at the time of booking.",
+    "highlights": [
+      "Dogs of any size stay free",
+      "Heated outdoor pool",
+      "Steps from Bois-Plage beach"
+    ],
+    "slug": "elegance-suites-hotel-ile-de-re"
   }
 ]

@@ -39753,5 +39753,404 @@
       "Pool and garden apartments",
       "Close to Parikia port"
     ]
+  },
+  {
+    "id": "syracuse-1",
+    "slug": "ortea-palace-hotel-sicily-autograph-collection",
+    "name": "Ortea Palace Hotel, Sicily, Autograph Collection",
+    "destinationSlug": "syracuse",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1100,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Ortea+Palace+Hotel+Syracuse+Sicily",
+    "petFee": 50,
+    "petPolicy": "Pets are allowed on request, with a maximum of one pet per room weighing up to about 5 kg and a non-refundable fee of 50 EUR per stay. This restored 5-star palace sits in the old part of Syracuse near Ortigia. Please confirm with the property when booking.",
+    "address": "Via Maestranza 33, 96100 Syracuse",
+    "neighborhood": "Ortigia / old town",
+    "highlights": [
+      "Restored 5-star palace",
+      "Rooftop pool and spa",
+      "Steps from Ortigia"
+    ]
+  },
+  {
+    "id": "syracuse-2",
+    "slug": "algila-ortigia-charme-hotel",
+    "name": "Algilà Ortigia Charme Hotel",
+    "destinationSlug": "syracuse",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1900,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Algila+Ortigia+Charme+Hotel+Syracuse+Sicily",
+    "petFee": 0,
+    "petPolicy": "Pets of any size are welcome for no additional charge at this UNESCO-listed charme hotel on Ortigia island. Both dogs and cats are accepted. Please confirm with the property when booking.",
+    "address": "Via Vittorio Veneto 93, Ortigia, 96100 Syracuse",
+    "neighborhood": "Ortigia",
+    "highlights": [
+      "Pets stay free",
+      "UNESCO old-town setting",
+      "Period charme rooms"
+    ]
+  },
+  {
+    "id": "syracuse-3",
+    "slug": "palazzo-artemide-vretreats",
+    "name": "Palazzo Artemide - VRetreats",
+    "destinationSlug": "syracuse",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1600,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Palazzo+Artemide+Syracuse+Sicily",
+    "petFee": 30,
+    "petPolicy": "Small and medium pets up to about 15 kg are allowed in the rooms and public areas (except the buffet) for a charge of 30 EUR per night per pet. The hotel is in the historic heart of Ortigia. Please confirm with the property when booking.",
+    "address": "Via Roma 80, Ortigia, 96100 Syracuse",
+    "neighborhood": "Ortigia, near Piazza Duomo",
+    "highlights": [
+      "Historic Ortigia palazzo",
+      "On-site restaurant and bar",
+      "Quiet courtyard rooms"
+    ]
+  },
+  {
+    "id": "syracuse-4",
+    "slug": "casa-dei-re-ortigia",
+    "name": "Casa dei Ré",
+    "destinationSlug": "syracuse",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.2,
+    "reviewCount": 700,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Casa+dei+Re+Ortigia+Syracuse+Sicily",
+    "petFee": 0,
+    "petPolicy": "Pets of any size are welcome on request for no additional charge at this guesthouse in the centre of Ortigia. Both dogs and cats are accepted. Please confirm with the property when booking.",
+    "address": "Ortigia, 96100 Syracuse",
+    "neighborhood": "Ortigia",
+    "highlights": [
+      "Pets stay free",
+      "Central Ortigia location",
+      "Highly rated by guests"
+    ]
+  },
+  {
+    "id": "syracuse-5",
+    "slug": "a-due-passi-dal-duomo-bb",
+    "name": "A Due Passi Dal Duomo B&B",
+    "destinationSlug": "syracuse",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 800,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=A+Due+Passi+Dal+Duomo+Ortigia+Syracuse+Sicily",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request and charges may apply, so confirm the details in advance. This budget B&B is in the Ortigia district, steps from the Fonte Aretusa and the Lungomare. Please confirm with the property when booking.",
+    "address": "Via Landolina, Ortigia, 96100 Syracuse",
+    "neighborhood": "Ortigia, near Piazza Duomo",
+    "highlights": [
+      "Budget Ortigia base",
+      "Steps from Fonte Aretusa",
+      "Walkable to seafront"
+    ]
+  },
+  {
+    "id": "zakynthos-1",
+    "slug": "hera-zakynthos-hotel",
+    "name": "Hera Zakynthos Hotel",
+    "destinationSlug": "zakynthos",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 600,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hera+Zakynthos+Hotel+Zakynthos",
+    "petFee": 0,
+    "petPolicy": "Hera Zakynthos Hotel welcomes pets on request at no extra charge, in the lively resort of Laganas close to the south-coast beaches. As policies can vary by room type, request a pet-friendly room and note the National Marine Park beach restrictions nearby. Please confirm with the property when booking.",
+    "address": "Laganas 29092, Zakynthos",
+    "neighborhood": "Laganas",
+    "highlights": [
+      "Pets stay free on request",
+      "Walkable to Laganas resort",
+      "Pool and garden setting"
+    ]
+  },
+  {
+    "id": "zakynthos-2",
+    "slug": "eleas-gi-zakynthos",
+    "name": "Eleas Gi",
+    "destinationSlug": "zakynthos",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 250,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Eleas+Gi+Zakynthos",
+    "petFee": 0,
+    "petPolicy": "Eleas Gi welcomes dogs of any size at no additional fee, with multiple dogs allowed, set among olive groves with a pool and garden near Tsilivi. Cats are not accepted, so this is a dogs-only pet-friendly property. Please confirm with the property when booking.",
+    "address": "Tsilivi 29100, Zakynthos",
+    "neighborhood": "Tsilivi",
+    "highlights": [
+      "Dogs of any size stay free",
+      "Olive-grove garden and pool",
+      "Quiet setting near Tsilivi"
+    ]
+  },
+  {
+    "id": "zakynthos-3",
+    "slug": "fiore-beach-studios",
+    "name": "Fiore Beach Studios",
+    "destinationSlug": "zakynthos",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 180,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Fiore+Beach+Studios+Vasilikos+Zakynthos",
+    "petFee": 0,
+    "petPolicy": "Fiore Beach Studios welcomes dogs on the quieter Vasilikos peninsula with easy access to the shoreline and nearby beaches. As pet acceptance can depend on the unit, request a pet-friendly studio and remember dogs are banned on the protected turtle beaches at Gerakas. Please confirm with the property when booking.",
+    "address": "Vasilikos 29100, Zakynthos",
+    "neighborhood": "Vasilikos",
+    "highlights": [
+      "Dog-welcoming beach studios",
+      "Quiet Vasilikos peninsula",
+      "Easy shoreline access"
+    ]
+  },
+  {
+    "id": "zakynthos-4",
+    "slug": "zante-view-studios-villas",
+    "name": "Zante View Studios & Villas",
+    "destinationSlug": "zakynthos",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 300,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Zante+View+Studios+Villas+Tsilivi+Zakynthos",
+    "petFee": 0,
+    "petPolicy": "Zante View Studios & Villas allows pets on request with no extra charge, with up to two pets accepted in some units near Tsilivi. Pets stay free in specific rooms only and must be supervised, so confirm the pet-friendly unit at booking. Please confirm with the property when booking.",
+    "address": "Tsilivi (Planos) 29100, Zakynthos",
+    "neighborhood": "Tsilivi",
+    "highlights": [
+      "Pets stay free on request",
+      "Budget-friendly studios and villas",
+      "Near Tsilivi beach"
+    ]
+  },
+  {
+    "id": "zakynthos-5",
+    "slug": "zante-nest-studios-apartments",
+    "name": "Zante Nest Studios & Apartments",
+    "destinationSlug": "zakynthos",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 220,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Zante+Nest+Studios+Apartments+Alikanas+Zakynthos",
+    "petFee": 0,
+    "petPolicy": "Zante Nest Studios & Apartments allows pets on request at no extra charge, in self-catering studios near Alikanas Beach with a pool. As pet acceptance can vary by unit, request a pet-friendly studio in advance. Please confirm with the property when booking.",
+    "address": "Alikanas 29090, Zakynthos",
+    "neighborhood": "Alikanas",
+    "highlights": [
+      "Pets stay free on request",
+      "Self-catering studios with pool",
+      "Near Alikanas beach"
+    ]
+  },
+  {
+    "id": "nerja-1",
+    "slug": "hotel-balcon-de-europa",
+    "name": "Hotel Balcón de Europa",
+    "destinationSlug": "nerja",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2369,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Balcon+de+Europa+Nerja",
+    "petFee": 100,
+    "petPolicy": "Hotel Balcón de Europa welcomes one dog up to 10 kg per booking, by prior request with at least 14 days' notice. A pet fee of 100 EUR per night applies and only certain room types accept pets, with house coexistence rules to be accepted. Please confirm with the property when booking.",
+    "address": "Paseo Balcón de Europa 1, 29780 Nerja, Málaga",
+    "neighborhood": "Old Town / Balcón de Europa",
+    "highlights": [
+      "Direct seafront location",
+      "Private beach access",
+      "Outdoor pool"
+    ]
+  },
+  {
+    "id": "nerja-2",
+    "slug": "hotel-paraiso-del-mar-nerja",
+    "name": "Hotel Paraíso del Mar",
+    "destinationSlug": "nerja",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "boutique-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.7,
+    "reviewCount": 1067,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Paraiso+del+Mar+Nerja",
+    "petFee": 10,
+    "petPolicy": "Hotel Paraíso del Mar accepts small and medium dogs up to 20 kg on request, with a 10 EUR per night cleaning fee. The restored clifftop villa sits above Burriana beach with direct access. Please confirm with the property when booking.",
+    "address": "Calle Prolongación Hernando de Carabeo 22, 29780 Nerja, Málaga",
+    "neighborhood": "Carabeo / Burriana",
+    "highlights": [
+      "Direct Burriana beach access",
+      "Outdoor pool & hot tub",
+      "Sea-view rooms"
+    ]
+  },
+  {
+    "id": "nerja-3",
+    "slug": "carmen-rooms-nerja",
+    "name": "Carmen Rooms",
+    "destinationSlug": "nerja",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 1044,
+    "priceFrom": 68,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Carmen+Rooms+Nerja",
+    "petFee": 0,
+    "petPolicy": "Carmen Rooms welcomes pets on request at no extra charge, in selected room types such as the Double Room with Balcony and Superior Double. Add your pet as a special request when booking the right room. Please confirm with the property when booking.",
+    "address": "Calle Lucena 54B, 29780 Nerja, Málaga",
+    "neighborhood": "Burriana",
+    "highlights": [
+      "Outdoor pool",
+      "Free WiFi",
+      "6-minute walk to Burriana beach"
+    ]
+  },
+  {
+    "id": "nerja-4",
+    "slug": "hostal-azahara-nerja",
+    "name": "Hostal Azahara",
+    "destinationSlug": "nerja",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 1,
+    "rating": 8.0,
+    "reviewCount": 2261,
+    "priceFrom": 45,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hostal+Azahara+Nerja",
+    "petFee": 10,
+    "petPolicy": "Hostal Azahara accepts pets on request, with a fee of 5 to 15 EUR per pet per night depending on size and a maximum of two pets. The central location is an easy walk to the Old Town, Balcón de Europa and the beach. Please confirm with the property when booking.",
+    "address": "Avenida de Pescia 1, 29780 Nerja, Málaga",
+    "neighborhood": "Town centre",
+    "highlights": [
+      "Central location",
+      "Free WiFi",
+      "Walk to beach & town"
+    ]
+  },
+  {
+    "id": "nerja-5",
+    "slug": "coco-stay-nerja",
+    "name": "Coco Stay Nerja",
+    "destinationSlug": "nerja",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.2,
+    "reviewCount": 44,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Coco+Stay+Nerja",
+    "petFee": 0,
+    "petPolicy": "Coco Stay Nerja is listed in Booking's curated pet-friendly Nerja collection and guest reviews confirm it suits dogs well. It is a self-catering apartment with private parking and a terrace near Playa Carabeillo, with pet terms confirmed at booking. Please confirm with the property when booking.",
+    "address": "Carabeo area, near Playa Carabeillo, 29780 Nerja, Málaga",
+    "neighborhood": "Carabeo",
+    "highlights": [
+      "Free private parking",
+      "Free WiFi",
+      "Apartment with terrace"
+    ]
   }
 ]

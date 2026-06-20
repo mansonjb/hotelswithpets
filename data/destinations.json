@@ -21391,5 +21391,230 @@
       }
     },
     "iata": "PAS"
+  },
+  {
+    "slug": "syracuse",
+    "name": "Syracuse",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/syracuse.jpg",
+    "intro": "Syracuse is a sun-drenched Sicilian city built around Ortigia, the tiny island old town of honey-coloured baroque streets, the legendary Fonte Aretusa spring and a magnificent seafront Lungomare. Just inland the vast Neapolis archaeological park preserves a Greek theatre and Roman amphitheatre, making it one of the Mediterranean's most rewarding, walkable destinations to explore with a dog.",
+    "lat": 37.0755,
+    "lng": 15.2866,
+    "weather": {
+      "jan": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 15,
+        "desc": "Mild",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 17,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Warm",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 32,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 32,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 29,
+        "desc": "Hot",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 25,
+        "desc": "Warm",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 20,
+        "desc": "Mild",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "CTA"
+  },
+  {
+    "slug": "zakynthos",
+    "name": "Zakynthos",
+    "country": "Greece",
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/zakynthos.jpg",
+    "intro": "Zakynthos pairs the Venetian squares of Zakynthos Town and the pine-clad Bochali castle hill with quiet olive-grove walks across the Vasilikos peninsula and dramatic west-coast viewpoints. For dog owners it is a relaxed, outdoors-first Ionian island, where the real planning is around summer heat and the strict loggerhead-turtle protections in Laganas Bay.",
+    "lat": 37.787,
+    "lng": 20.899,
+    "weather": {
+      "jan": {
+        "temp": 14,
+        "desc": "Mild and rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Cool and wet",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 16,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 19,
+        "desc": "Warm and pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 28,
+        "desc": "Hot and dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 31,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 31,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Hot, gentler",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 23,
+        "desc": "Warm autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 19,
+        "desc": "Mild and wetter",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 15,
+        "desc": "Mild and rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "ZTH"
+  },
+  {
+    "slug": "nerja",
+    "name": "Nerja",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/nerja.jpg",
+    "intro": "Nerja is a whitewashed Costa del Sol town on the Málaga coast, famous for the Balcón de Europa promontory, the prehistoric Nerja Caves and golden beaches like Burriana and Carabeo. With leashed dogs welcome on its terraces and promenade, two new fenced dog parks and the cool Río Chíllar river walk, it makes an easy summer base for pet owners.",
+    "lat": 36.744,
+    "lng": -3.874,
+    "weather": {
+      "jan": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 19,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 20,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Hot summer",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Hot summer",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 20,
+        "desc": "Mild & calm",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 18,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "AGP"
   }
 ]

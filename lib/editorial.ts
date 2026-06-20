@@ -21,6 +21,21 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    syracuse: {
+      personality: `a sun-baked Sicilian gem whose life unfolds outdoors on Ortigia island, around Piazza Duomo, the legendary Fonte Aretusa, the ancient Neapolis archaeological park and the breezy seafront Lungomare`,
+      highlight: `the Lungomare di Ortigia, the Foro Siracusano gardens and the dog beaches at Marina di Priolo and Fontane Bianche`,
+      area: `Ortigia, the mainland centre around Foro Siracusano, and the Neapolis archaeological quarter`,
+    },
+    zakynthos: {
+      personality: `a relaxed, outdoors-first Ionian island where dog owners stroll the Venetian squares of Zakynthos Town, climb to the pine-shaded Bochali castle viewpoint and wander the olive-grove lanes of the Vasilikos peninsula, mindful of the strictly protected turtle coast around Gerakas`,
+      highlight: `Solomos Square, the Bochali hill viewpoint and the Vasilikos peninsula walks`,
+      area: `Zakynthos Town, Bochali and the Vasilikos peninsula`,
+    },
+    nerja: {
+      personality: `a sun-soaked Costa del Sol town crowned by the Balcón de Europa promontory, with the prehistoric Nerja Caves, the golden Burriana and Carabeo beaches and the whitewashed El Salvador church at its heart`,
+      highlight: `the Balcón de Europa promenade, the Río Chíllar river walk and the two new fenced dog parks`,
+      area: `the Old Town, Burriana and Carabeo`,
+    },
     paphos: {
       personality: `one of the most sun-soaked, history-rich coastal cities in Cyprus, where the harbour and its medieval castle, the Kato Paphos archaeological park, the coastal path toward Coral Bay and the municipal beach all sit within an easy walk`,
       highlight: `the Paphos Coastal Broadwalk, the Old Town Municipal Park, and the shaded Avakas Gorge trail`,
@@ -1449,6 +1464,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    syracuse: {
+      personality: `un joyau sicilien gorgé de soleil dont la vie se déroule dehors, sur l'île d'Ortigia, autour de la Piazza Duomo, de la légendaire Fonte Aretusa, du parc archéologique antique de Neapolis et du Lungomare balayé par la brise`,
+      highlight: `le Lungomare di Ortigia, les jardins du Foro Siracusano et les plages pour chiens de Marina di Priolo et Fontane Bianche`,
+      area: `Ortigia, le centre continental autour du Foro Siracusano et le quartier archéologique de Neapolis`,
+    },
+    zakynthos: {
+      personality: `une ile ionienne detendue et tournee vers l'exterieur, ou les proprietaires de chiens flanent sur les places venitiennes de Zakynthos-Ville, montent au point de vue ombrage du chateau de Bochali et parcourent les chemins d'oliveraies de la peninsule de Vasilikos, attentifs a la cote des tortues strictement protegee autour de Gerakas`,
+      highlight: `la place Solomos, le point de vue de la colline de Bochali et les balades de la peninsule de Vasilikos`,
+      area: `Zakynthos-Ville, Bochali et la peninsule de Vasilikos`,
+    },
+    nerja: {
+      personality: `une ville ensoleillée de la Costa del Sol couronnée par le promontoire du Balcón de Europa, avec les grottes préhistoriques de Nerja, les plages dorées de Burriana et Carabeo et l'église blanchie d'El Salvador en son cœur`,
+      highlight: `la promenade du Balcón de Europa, la balade de la rivière Río Chíllar et les deux nouveaux parcs canins clôturés`,
+      area: `la vieille ville, Burriana et Carabeo`,
+    },
     paphos: {
       personality: `l'une des villes côtières les plus ensoleillées et riches en histoire de Chypre, où le port et son château médiéval, le parc archéologique de Kato Paphos, le sentier côtier vers Coral Bay et la plage municipale sont tous accessibles à pied`,
       highlight: `la promenade côtière de Paphos, le parc municipal de la vieille ville et le sentier ombragé de la gorge d'Avakas`,
@@ -2876,6 +2906,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    syracuse: {
+      personality: `una joya siciliana bañada por el sol cuya vida transcurre al aire libre en la isla de Ortigia, en torno a la Piazza Duomo, la legendaria Fonte Aretusa, el antiguo parque arqueológico de Neapolis y el Lungomare azotado por la brisa`,
+      highlight: `el Lungomare di Ortigia, los jardines del Foro Siracusano y las playas para perros de Marina di Priolo y Fontane Bianche`,
+      area: `Ortigia, el centro continental en torno al Foro Siracusano y el barrio arqueológico de Neapolis`,
+    },
+    zakynthos: {
+      personality: `una isla jonica relajada y volcada al aire libre, donde los duenos de perros pasean por las plazas venecianas de Zakynthos Ciudad, suben al mirador sombreado del castillo de Bochali y recorren los caminos entre olivares de la peninsula de Vasilikos, atentos a la costa de las tortugas estrictamente protegida en torno a Gerakas`,
+      highlight: `la plaza Solomos, el mirador de la colina de Bochali y los paseos de la peninsula de Vasilikos`,
+      area: `Zakynthos Ciudad, Bochali y la peninsula de Vasilikos`,
+    },
+    nerja: {
+      personality: `un soleado pueblo de la Costa del Sol coronado por el promontorio del Balcón de Europa, con las prehistóricas Cuevas de Nerja, las doradas playas de Burriana y Carabeo y la encalada iglesia de El Salvador en su corazón`,
+      highlight: `el paseo del Balcón de Europa, la ruta del río Chíllar y los dos nuevos parques caninos vallados`,
+      area: `el casco antiguo, Burriana y Carabeo`,
+    },
     paphos: {
       personality: `una de las ciudades costeras más soleadas y ricas en historia de Chipre, donde el puerto y su castillo medieval, el parque arqueológico de Kato Pafos, el camino costero hacia Coral Bay y la playa municipal quedan todos a un paseo`,
       highlight: `el paseo costero de Pafos, el parque municipal del casco antiguo y el sendero a la sombra de la garganta de Avakas`,
@@ -4303,6 +4348,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    syracuse: {
+      personality: `uma joia siciliana banhada de sol cuja vida decorre ao ar livre na ilha de Ortígia, em torno da Piazza Duomo, da lendária Fonte Aretusa, do antigo parque arqueológico de Neapolis e do Lungomare varrido pela brisa`,
+      highlight: `o Lungomare di Ortigia, os jardins do Foro Siracusano e as praias para cães de Marina di Priolo e Fontane Bianche`,
+      area: `Ortígia, o centro continental em torno do Foro Siracusano e o bairro arqueológico de Neapolis`,
+    },
+    zakynthos: {
+      personality: `uma ilha jonica descontraida e virada para o exterior, onde os donos de caes passeiam pelas pracas venezianas da cidade de Zakynthos, sobem ao miradouro sombreado do castelo de Bochali e percorrem os caminhos entre olivais da peninsula de Vasilikos, atentos a costa das tartarugas estritamente protegida em redor de Gerakas`,
+      highlight: `a Praca Solomos, o miradouro da colina de Bochali e os passeios da peninsula de Vasilikos`,
+      area: `a cidade de Zakynthos, Bochali e a peninsula de Vasilikos`,
+    },
+    nerja: {
+      personality: `uma vila soalheira da Costa del Sol coroada pelo promontório do Balcón de Europa, com as pré-históricas Grutas de Nerja, as douradas praias de Burriana e Carabeo e a caiada igreja de El Salvador no seu coração`,
+      highlight: `o passeio do Balcón de Europa, a caminhada do rio Chíllar e os dois novos parques caninos vedados`,
+      area: `a vila antiga, Burriana e Carabeo`,
+    },
     paphos: {
       personality: `uma das cidades costeiras mais solarengas e ricas em história de Chipre, onde o porto e o seu castelo medieval, o parque arqueológico de Kato Pafos, o caminho costeiro rumo a Coral Bay e a praia municipal ficam todos a uma curta caminhada`,
       highlight: `o passeio costeiro de Pafos, o parque municipal da cidade velha e o trilho sombreado do desfiladeiro de Avakas`,

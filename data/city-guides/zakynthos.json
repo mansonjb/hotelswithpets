@@ -1,0 +1,964 @@
+{
+  "slug": "zakynthos",
+  "name": "Zakynthos",
+  "country": "Greece",
+  "flag": "🇬🇷",
+  "lastUpdated": "2026-06-19",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Zakynthos",
+      "titleFr": "Restaurants acceptant les animaux à Zakynthos",
+      "titleEs": "Restaurantes con mascotas en Zakynthos",
+      "introEn": "Zakynthos is an island built around outdoor, open-air tavernas, which makes dining with a dog easy from May to October. Most family-run tavernas in the hillside villages and along the Vasilikos peninsula will happily seat a well-behaved leashed dog on their shaded terraces, and many bring a water bowl without being asked. The summer heat is the main thing to plan around: eat early or after sunset, choose tables with shade, and avoid the hottest hours when paws and dogs both suffer on stone terraces.",
+      "introFr": "Zakynthos est une île organisée autour des tavernas en plein air, ce qui rend les repas avec un chien faciles de mai à octobre. La plupart des tavernas familiales des villages perchés et de la péninsule de Vasilikos accueillent volontiers un chien calme tenu en laisse sur leurs terrasses ombragées, et beaucoup apportent une gamelle d'eau sans qu'on le demande. La chaleur estivale est le point principal à anticiper : mangez tôt ou après le coucher du soleil, choisissez des tables à l'ombre et évitez les heures les plus chaudes.",
+      "introEs": "Zakynthos es una isla construida en torno a las tabernas al aire libre, lo que hace que comer con un perro sea fácil de mayo a octubre. La mayoría de las tabernas familiares de los pueblos de la ladera y de la península de Vasilikos sientan encantadas a un perro tranquilo con correa en sus terrazas con sombra, y muchas traen un cuenco de agua sin que se lo pidas. El calor del verano es lo principal a tener en cuenta: come temprano o tras la puesta de sol, elige mesas con sombra y evita las horas de más calor.",
+      "places": [
+        {
+          "name": "Taverna Akrotiri",
+          "address": "Akrotiri, Bochali 29100, Zakynthos",
+          "neighborhood": "Bochali / Akrotiri",
+          "photo": "",
+          "website": "",
+          "description": "A small family-run meat and vegetable taverna set in a leafy garden about 3 km above Zakynthos Town, run by the same family since 1983 and open from May to October. The shaded garden setting and relaxed atmosphere make it one of the most comfortable spots on the island to eat with a leashed dog at your feet.",
+          "descriptionFr": "Une petite taverna familiale de viandes et légumes installée dans un jardin verdoyant à environ 3 km au-dessus de Zakynthos-Ville, tenue par la même famille depuis 1983 et ouverte de mai à octobre. Le cadre ombragé du jardin et l'ambiance détendue en font l'un des endroits les plus agréables de l'île pour manger avec un chien tenu en laisse à ses pieds.",
+          "descriptionEs": "Una pequeña taberna familiar de carnes y verduras situada en un frondoso jardín a unos 3 km sobre Zakynthos Ciudad, regentada por la misma familia desde 1983 y abierta de mayo a octubre. El entorno con sombra del jardín y el ambiente relajado la convierten en uno de los lugares más cómodos de la isla para comer con un perro con correa a tus pies.",
+          "petPolicy": "Leashed dogs welcome in the garden",
+          "petPolicyFr": "Chiens en laisse bienvenus dans le jardin",
+          "petPolicyEs": "Perros con correa bienvenidos en el jardín",
+          "priceRange": "€€",
+          "mustTry": "Grilled meats, Greek meze, garden vegetables",
+          "mustTryFr": "Viandes grillées, meze grecs, légumes du jardin",
+          "mustTryEs": "Carnes a la parrilla, meze griego, verduras del jardín",
+          "openingHours": "May–Oct, dinner from around 19:00",
+          "tip": "Go for an early-evening table in the shade. The garden cools down nicely after sunset, which is kinder on a dog in summer",
+          "tipFr": "Réservez une table en début de soirée à l'ombre. Le jardin se rafraîchit après le coucher du soleil, plus agréable pour un chien en été",
+          "tipEs": "Ve a una mesa al atardecer a la sombra. El jardín se refresca tras la puesta de sol, más amable con un perro en verano",
+          "googleMapsUrl": "https://maps.google.com/?q=Taverna+Akrotiri+Bochali+Zakynthos",
+          "descriptionPt": "Uma pequena taverna familiar de carnes e legumes situada num jardim verdejante cerca de 3 km acima da cidade de Zakynthos, gerida pela mesma família desde 1983 e aberta de maio a outubro. O cenário sombreado do jardim e o ambiente descontraído fazem dela um dos locais mais confortáveis da ilha para comer com um cão à trela aos seus pés.",
+          "petPolicyPt": "Cães à trela bem-vindos no jardim",
+          "mustTryPt": "Carnes grelhadas, meze grego, legumes da horta",
+          "tipPt": "Reserve uma mesa ao início da noite, à sombra. O jardim arrefece bem depois do pôr do sol, o que é mais agradável para um cão no verão"
+        },
+        {
+          "name": "Mikro Nisi Restaurant",
+          "address": "Skinaria, Agios Nikolaos 29091, Zakynthos",
+          "neighborhood": "Agios Nikolaos / Mikro Nisi",
+          "photo": "",
+          "website": "https://www.mikronisi-restaurant.com/",
+          "description": "A scenic seafront taverna on a small cape on the north-east coast, specialising in locally caught fresh fish and a modern take on traditional Greek dishes. It is explicitly dog-friendly and the breezy terrace over the Ionian Sea is one of the coolest places to eat on a hot island afternoon.",
+          "descriptionFr": "Une taverna pittoresque en bord de mer sur un petit cap de la côte nord-est, spécialisée dans le poisson frais pêché localement et une cuisine grecque traditionnelle revisitée. Elle accepte explicitement les chiens et sa terrasse balayée par la brise au-dessus de la mer Ionienne est l'un des endroits les plus frais pour manger un après-midi chaud.",
+          "descriptionEs": "Una pintoresca taberna frente al mar en un pequeño cabo de la costa noreste, especializada en pescado fresco de captura local y una versión moderna de los platos griegos tradicionales. Admite perros de forma explícita y su terraza ventilada sobre el mar Jónico es uno de los lugares más frescos para comer una tarde calurosa.",
+          "petPolicy": "Dog-friendly; dogs welcome on the terrace",
+          "petPolicyFr": "Accepte les chiens ; chiens bienvenus en terrasse",
+          "petPolicyEs": "Admite perros; perros bienvenidos en la terraza",
+          "priceRange": "€€€",
+          "mustTry": "Fresh fish of the day, seafood, Greek classics",
+          "mustTryFr": "Poisson frais du jour, fruits de mer, classiques grecs",
+          "mustTryEs": "Pescado fresco del día, marisco, clásicos griegos",
+          "openingHours": "Lunch 12:00–15:00, dinner 18:30–22:00 (seasonal)",
+          "tip": "Time a late lunch around 14:00 for sea breeze and shade. The cape catches the wind and stays cooler than inland tavernas",
+          "tipFr": "Visez un déjeuner tardif vers 14h pour la brise marine et l'ombre. Le cap capte le vent et reste plus frais que les tavernas de l'intérieur",
+          "tipEs": "Calcula un almuerzo tardío hacia las 14:00 para la brisa marina y la sombra. El cabo recoge el viento y se mantiene más fresco que las tabernas del interior",
+          "googleMapsUrl": "https://maps.google.com/?q=Mikro+Nisi+Restaurant+Agios+Nikolaos+Zakynthos",
+          "descriptionPt": "Uma taverna cénica à beira-mar num pequeno cabo da costa nordeste, especializada em peixe fresco de captura local e numa versão moderna dos pratos gregos tradicionais. Aceita cães de forma explícita e a esplanada ventilada sobre o mar Jónico é um dos locais mais frescos para comer numa tarde quente.",
+          "petPolicyPt": "Aceita cães; cães bem-vindos na esplanada",
+          "mustTryPt": "Peixe fresco do dia, marisco, clássicos gregos",
+          "tipPt": "Marque um almoço tardio por volta das 14:00 para apanhar a brisa do mar e sombra. O cabo apanha o vento e mantém-se mais fresco do que as tavernas do interior"
+        },
+        {
+          "name": "Dennis Taverna",
+          "address": "Ethniki Odos Zakinthou Keriou, Lithakia 29092, Zakynthos",
+          "neighborhood": "Lithakia (near Laganas)",
+          "photo": "",
+          "website": "https://www.dennistaverna.com/",
+          "description": "One of the oldest tavernas on the island, open since 1976, serving traditional Greek home cooking on a large outdoor terrace near Lithakia and Laganas. The generous open-air setting and family atmosphere make it an easy, relaxed stop for travellers with a calm leashed dog.",
+          "descriptionFr": "L'une des plus anciennes tavernas de l'île, ouverte depuis 1976, servant une cuisine grecque traditionnelle maison sur une grande terrasse extérieure près de Lithakia et Laganas. Le généreux cadre en plein air et l'ambiance familiale en font une halte facile et détendue pour les voyageurs accompagnés d'un chien calme tenu en laisse.",
+          "descriptionEs": "Una de las tabernas más antiguas de la isla, abierta desde 1976, que sirve cocina griega casera tradicional en una amplia terraza exterior cerca de Lithakia y Laganas. El generoso entorno al aire libre y el ambiente familiar la convierten en una parada fácil y relajada para viajeros con un perro tranquilo con correa.",
+          "petPolicy": "Leashed dogs welcome on the outdoor terrace",
+          "petPolicyFr": "Chiens en laisse bienvenus sur la terrasse extérieure",
+          "petPolicyEs": "Perros con correa bienvenidos en la terraza exterior",
+          "priceRange": "€€",
+          "mustTry": "Slow-cooked lamb, moussaka, fresh salads",
+          "mustTryFr": "Agneau mijoté, moussaka, salades fraîches",
+          "mustTryEs": "Cordero cocinado lento, musaca, ensaladas frescas",
+          "openingHours": "Evenings in season (seasonal hours)",
+          "tip": "Ask for a table at the edge of the terrace where there is more air. Bring water; summer evenings stay warm well past sunset",
+          "tipFr": "Demandez une table en bord de terrasse, où il y a plus d'air. Apportez de l'eau ; les soirées d'été restent chaudes longtemps après le coucher du soleil",
+          "tipEs": "Pide una mesa en el borde de la terraza, donde hay más aire. Lleva agua; las noches de verano siguen cálidas mucho después del atardecer",
+          "googleMapsUrl": "https://maps.google.com/?q=Dennis+Taverna+Lithakia+Zakynthos",
+          "descriptionPt": "Uma das tavernas mais antigas da ilha, aberta desde 1976, que serve cozinha grega caseira tradicional numa grande esplanada exterior perto de Lithakia e Laganas. O generoso cenário ao ar livre e o ambiente familiar tornam-na uma paragem fácil e descontraída para viajantes com um cão calmo à trela.",
+          "petPolicyPt": "Cães à trela bem-vindos na esplanada exterior",
+          "mustTryPt": "Borrego cozinhado lentamente, moussaka, saladas frescas",
+          "tipPt": "Peça uma mesa na extremidade da esplanada, onde há mais ar. Leve água; as noites de verão mantêm-se quentes muito depois do pôr do sol"
+        }
+      ],
+      "tipsEn": [
+        "Eat outdoors and early. Most Zakynthos tavernas are open-air, and a shaded terrace before sunset is far kinder on a dog than a midday stone patio.",
+        "Always carry water. Summer evenings stay hot well past dark, and many rural tavernas sit on sun-baked terraces.",
+        "Phone ahead in shoulder season. Many family tavernas only open May to October and reduce hours in spring and autumn."
+      ],
+      "tipsFr": [
+        "Mangez dehors et tôt. La plupart des tavernas de Zakynthos sont en plein air, et une terrasse ombragée avant le coucher du soleil est bien plus douce pour un chien qu'une terrasse en pierre à midi.",
+        "Emportez toujours de l'eau. Les soirées d'été restent chaudes longtemps après la tombée de la nuit, et beaucoup de tavernas rurales ont des terrasses brûlées par le soleil.",
+        "Téléphonez à l'avance hors saison. Beaucoup de tavernas familiales n'ouvrent que de mai à octobre et réduisent leurs horaires au printemps et à l'automne."
+      ],
+      "tipsEs": [
+        "Come al aire libre y temprano. La mayoría de las tabernas de Zakynthos son al aire libre, y una terraza con sombra antes del atardecer es mucho más amable con un perro que un patio de piedra al mediodía.",
+        "Lleva siempre agua. Las noches de verano siguen calurosas mucho después de anochecer, y muchas tabernas rurales están en terrazas castigadas por el sol.",
+        "Llama con antelación en temporada baja. Muchas tabernas familiares solo abren de mayo a octubre y reducen el horario en primavera y otoño."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in restaurants in Zakynthos?",
+          "a": "On outdoor terraces, generally yes. Most family tavernas welcome a calm, leashed dog at outdoor tables, especially in the villages and along the Vasilikos peninsula. Indoor air-conditioned dining rooms are at the owner's discretion, so ask first."
+        },
+        {
+          "q": "When is the best time to dine out with a dog in Zakynthos?",
+          "a": "Early evening, after the worst of the heat. Tavernas open for dinner from around 19:00 and terraces cool down after sunset, which is far more comfortable for a dog than the midday sun on a stone patio."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés dans les restaurants à Zakynthos ?",
+          "a": "Sur les terrasses extérieures, généralement oui. La plupart des tavernas familiales accueillent un chien calme tenu en laisse aux tables extérieures, surtout dans les villages et sur la péninsule de Vasilikos. Les salles intérieures climatisées sont à la discrétion du propriétaire, demandez d'abord."
+        },
+        {
+          "q": "Quel est le meilleur moment pour dîner dehors avec un chien à Zakynthos ?",
+          "a": "En début de soirée, une fois la grosse chaleur passée. Les tavernas ouvrent pour le dîner vers 19h et les terrasses se rafraîchissent après le coucher du soleil, bien plus confortable pour un chien que le soleil de midi sur une terrasse en pierre."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Zakynthos?",
+          "a": "En las terrazas exteriores, en general sí. La mayoría de las tabernas familiares aceptan a un perro tranquilo con correa en las mesas de fuera, sobre todo en los pueblos y en la península de Vasilikos. Los comedores interiores con aire acondicionado quedan a criterio del dueño, así que pregunta antes."
+        },
+        {
+          "q": "¿Cuál es el mejor momento para cenar fuera con un perro en Zakynthos?",
+          "a": "Al atardecer, una vez pasado lo peor del calor. Las tabernas abren para cenar a partir de las 19:00 y las terrazas se refrescan tras la puesta de sol, mucho más cómodo para un perro que el sol del mediodía en un patio de piedra."
+        }
+      ],
+      "titlePt": "Restaurantes pet-friendly em Zakynthos",
+      "introPt": "Zakynthos é uma ilha construída em torno das tavernas ao ar livre, o que torna fácil comer com um cão de maio a outubro. A maioria das tavernas familiares das aldeias da encosta e da península de Vasilikos acolhe de bom grado um cão calmo à trela nas suas esplanadas sombreadas, e muitas trazem uma taça de água sem ser preciso pedir. O calor do verão é o principal a planear: coma cedo ou depois do pôr do sol, escolha mesas com sombra e evite as horas de maior calor, quando tanto as patas como os cães sofrem nas esplanadas de pedra.",
+      "tipsPt": [
+        "Coma ao ar livre e cedo. A maioria das tavernas de Zakynthos é ao ar livre, e uma esplanada sombreada antes do pôr do sol é muito mais amável para um cão do que um pátio de pedra ao meio-dia.",
+        "Leve sempre água. As noites de verão mantêm-se quentes muito depois de anoitecer, e muitas tavernas rurais ficam em esplanadas escaldadas pelo sol.",
+        "Telefone com antecedência na época baixa. Muitas tavernas familiares só abrem de maio a outubro e reduzem o horário na primavera e no outono."
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são permitidos nos restaurantes de Zakynthos?",
+          "a": "Nas esplanadas exteriores, em geral sim. A maioria das tavernas familiares acolhe um cão calmo à trela nas mesas de fora, sobretudo nas aldeias e ao longo da península de Vasilikos. As salas interiores com ar condicionado ficam ao critério do proprietário, por isso pergunte primeiro."
+        },
+        {
+          "q": "Qual é a melhor altura para jantar fora com um cão em Zakynthos?",
+          "a": "Ao início da noite, depois do pior do calor. As tavernas abrem para jantar por volta das 19:00 e as esplanadas arrefecem depois do pôr do sol, o que é muito mais confortável para um cão do que o sol do meio-dia num pátio de pedra."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Walks & Green Spaces in Zakynthos",
+      "titleFr": "Balades et espaces verts avec son chien à Zakynthos",
+      "titleEs": "Paseos y espacios verdes con perros en Zakynthos",
+      "introEn": "Zakynthos has no formal city dog parks, but it offers something better for an active dog: hillside village lanes, olive-grove tracks, and coastal paths with sweeping Ionian views. The best walks are around Bochali above Zakynthos Town and across the rural Vasilikos peninsula. In summer the priority is timing, so walk early morning or after sunset and always carry water, as shade is scarce on open trails.",
+      "introFr": "Zakynthos n'a pas de parcs canins urbains officiels, mais elle offre mieux pour un chien actif : ruelles de villages perchés, chemins d'oliveraies et sentiers côtiers avec de vastes vues sur la mer Ionienne. Les plus belles balades se trouvent autour de Bochali, au-dessus de Zakynthos-Ville, et sur la péninsule rurale de Vasilikos. En été, la priorité est l'horaire : marchez tôt le matin ou après le coucher du soleil et emportez toujours de l'eau, l'ombre étant rare sur les sentiers découverts.",
+      "introEs": "Zakynthos no tiene parques caninos urbanos oficiales, pero ofrece algo mejor para un perro activo: callejones de pueblos en la ladera, caminos entre olivares y senderos costeros con amplias vistas al mar Jónico. Los mejores paseos están en torno a Bochali, sobre Zakynthos Ciudad, y por la rural península de Vasilikos. En verano la prioridad es el horario: pasea temprano por la mañana o tras la puesta de sol y lleva siempre agua, ya que la sombra escasea en los senderos abiertos.",
+      "places": [
+        {
+          "name": "Bochali Hill & Venetian Castle path",
+          "type": "Hilltop village walk with viewpoint",
+          "photo": "",
+          "website": "",
+          "description": "A roughly 20-minute uphill walk from Solomos Square in Zakynthos Town leads to the village of Bochali and the pine-shaded perimeter of the Venetian Castle at around 117 m, with the best panoramic views on the island. The shaded castle woodland and quiet village lanes make this the most rewarding leashed dog walk close to town.",
+          "descriptionFr": "Une marche d'environ 20 minutes en montée depuis la place Solomos à Zakynthos-Ville mène au village de Bochali et au pourtour ombragé de pins du château vénitien, à environ 117 m, avec les plus belles vues panoramiques de l'île. Le bois ombragé du château et les ruelles tranquilles du village en font la plus belle balade avec un chien en laisse près de la ville.",
+          "descriptionEs": "Un paseo cuesta arriba de unos 20 minutos desde la plaza Solomos en Zakynthos Ciudad lleva al pueblo de Bochali y al perímetro sombreado de pinos del castillo veneciano, a unos 117 m, con las mejores vistas panorámicas de la isla. El bosque sombreado del castillo y los callejones tranquilos del pueblo lo convierten en el paseo más gratificante con perro con correa cerca de la ciudad.",
+          "offLeash": false,
+          "offLeashArea": "None. Keep dogs leashed on village lanes and roads",
+          "offLeashAreaFr": "Aucune. Gardez les chiens en laisse dans les ruelles et sur les routes",
+          "offLeashAreaEs": "Ninguna. Mantén a los perros con correa en callejones y carreteras",
+          "tip": "Climb early morning before the heat. The castle pines give rare shade and the cobbles stay cooler than open roads",
+          "tipFr": "Montez tôt le matin avant la chaleur. Les pins du château offrent une ombre rare et les pavés restent plus frais que les routes découvertes",
+          "tipEs": "Sube temprano por la mañana antes del calor. Los pinos del castillo dan una sombra escasa y los adoquines se mantienen más frescos que las carreteras abiertas",
+          "googleMapsUrl": "https://maps.google.com/?q=Bochali+View+Point+Zakynthos",
+          "descriptionPt": "Uma caminhada de cerca de 20 minutos a subir desde a Praça Solomos, na cidade de Zakynthos, leva à aldeia de Bochali e ao perímetro sombreado de pinheiros do Castelo Veneziano, a cerca de 117 m, com as melhores vistas panorâmicas da ilha. O bosque sombreado do castelo e as ruelas tranquilas da aldeia tornam-na o passeio mais gratificante com um cão à trela perto da cidade.",
+          "offLeashAreaPt": "Nenhuma. Mantenha os cães à trela nas ruelas da aldeia e nas estradas",
+          "tipPt": "Suba de manhã cedo antes do calor. Os pinheiros do castelo dão uma sombra rara e a calçada mantém-se mais fresca do que as estradas abertas"
+        },
+        {
+          "name": "Vasilikos peninsula olive-grove tracks",
+          "type": "Rural lanes through olive groves and farmland",
+          "photo": "",
+          "website": "",
+          "description": "The Vasilikos peninsula in the south-east is a patchwork of olive groves, vineyards, and quiet country lanes linking small beaches, ideal for long leashed walks away from traffic. The terrain is gentle and rural, but largely unshaded, so it is a dawn or dusk walk in high summer.",
+          "descriptionFr": "La péninsule de Vasilikos, au sud-est, est une mosaïque d'oliveraies, de vignes et de chemins de campagne tranquilles reliant de petites plages, idéale pour de longues balades en laisse loin de la circulation. Le terrain est doux et rural, mais en grande partie sans ombre : c'est donc une balade à l'aube ou au crépuscule en plein été.",
+          "descriptionEs": "La península de Vasilikos, al sureste, es un mosaico de olivares, viñedos y tranquilos caminos rurales que enlazan pequeñas playas, ideal para largos paseos con correa lejos del tráfico. El terreno es suave y rural, pero en gran parte sin sombra, así que es un paseo de amanecer o atardecer en pleno verano.",
+          "offLeash": false,
+          "offLeashArea": "None designated. Farmland and livestock nearby, keep dogs leashed",
+          "offLeashAreaFr": "Aucune désignée. Terres agricoles et bétail à proximité, gardez les chiens en laisse",
+          "offLeashAreaEs": "Ninguna designada. Tierras de cultivo y ganado cerca, mantén a los perros con correa",
+          "tip": "Walk at first light and carry plenty of water. There is little shade and no public taps on the rural tracks",
+          "tipFr": "Marchez au lever du jour et emportez beaucoup d'eau. Il y a peu d'ombre et aucun point d'eau public sur les chemins ruraux",
+          "tipEs": "Pasea al amanecer y lleva mucha agua. Hay poca sombra y ningún grifo público en los caminos rurales",
+          "googleMapsUrl": "https://maps.google.com/?q=Vasilikos+Zakynthos",
+          "descriptionPt": "A península de Vasilikos, no sudeste, é um mosaico de olivais, vinhas e ruas de campo tranquilas que ligam pequenas praias, ideal para longos passeios à trela longe do trânsito. O terreno é suave e rural, mas em grande parte sem sombra, por isso é um passeio de madrugada ou ao anoitecer no pico do verão.",
+          "offLeashAreaPt": "Nenhuma designada. Terrenos agrícolas e gado por perto, mantenha os cães à trela",
+          "tipPt": "Caminhe ao romper do dia e leve bastante água. Há pouca sombra e nenhuma torneira pública nos caminhos rurais"
+        },
+        {
+          "name": "Keri Lighthouse coastal path",
+          "type": "Clifftop coastal trail",
+          "photo": "",
+          "website": "",
+          "description": "Starting from the village of Keri in the south-west, this farmland-and-clifftop route climbs through olives and vineyards to the lighthouse, with spectacular views over the Mizithres rock islets and the Ionian Sea. It is the island's most scenic leashed dog walk, but it is exposed and climbs steadily, so it is best at cooler hours.",
+          "descriptionFr": "Au départ du village de Keri, au sud-ouest, cet itinéraire de campagne et de falaises grimpe à travers oliviers et vignes jusqu'au phare, avec des vues spectaculaires sur les îlots rocheux des Mizithres et la mer Ionienne. C'est la balade en laisse la plus pittoresque de l'île, mais elle est exposée et monte régulièrement : à privilégier aux heures fraîches.",
+          "descriptionEs": "Partiendo del pueblo de Keri, al suroeste, esta ruta de campo y acantilado sube entre olivos y viñedos hasta el faro, con vistas espectaculares sobre los islotes rocosos de Mizithres y el mar Jónico. Es el paseo con correa más pintoresco de la isla, pero está expuesto y sube de forma constante, así que es mejor en las horas frescas.",
+          "offLeash": false,
+          "offLeashArea": "None. Cliff edges nearby, keep dogs leashed at all times",
+          "offLeashAreaFr": "Aucune. Bords de falaise à proximité, gardez les chiens en laisse en permanence",
+          "offLeashAreaEs": "Ninguna. Bordes de acantilado cerca, mantén a los perros con correa en todo momento",
+          "tip": "Go at sunset for the views and the cooler air, but turn back before dark. The cliff path has no railings near the edges",
+          "tipFr": "Allez-y au coucher du soleil pour les vues et l'air plus frais, mais rebroussez chemin avant la nuit. Le sentier de falaise n'a pas de garde-corps près des bords",
+          "tipEs": "Ve al atardecer por las vistas y el aire más fresco, pero regresa antes de que oscurezca. El sendero del acantilado no tiene barandillas cerca de los bordes",
+          "googleMapsUrl": "https://maps.google.com/?q=Keri+Lighthouse+Zakynthos",
+          "descriptionPt": "Partindo da aldeia de Keri, no sudoeste, este percurso de campo e falésia sobe entre oliveiras e vinhas até ao farol, com vistas espetaculares sobre os ilhéus rochosos de Mizithres e o mar Jónico. É o passeio à trela mais cénico da ilha, mas é exposto e sobe de forma constante, por isso é melhor nas horas mais frescas.",
+          "offLeashAreaPt": "Nenhuma. Bordas de falésia por perto, mantenha os cães à trela a toda a hora",
+          "tipPt": "Vá ao pôr do sol pelas vistas e pelo ar mais fresco, mas volte para trás antes de escurecer. O caminho da falésia não tem guardas junto às bordas"
+        }
+      ],
+      "tipsEn": [
+        "Zakynthos has no fenced off-leash dog parks. Keep dogs leashed on village lanes, roads, and clifftop paths.",
+        "Walk at dawn or after sunset in summer. Stone, asphalt, and bare trails get dangerously hot for paws in the middle of the day.",
+        "Carry your own water on every walk. Rural tracks and coastal paths have no public taps."
+      ],
+      "tipsFr": [
+        "Zakynthos n'a pas de parcs canins clôturés sans laisse. Gardez les chiens en laisse dans les ruelles, sur les routes et les sentiers de falaise.",
+        "Marchez à l'aube ou après le coucher du soleil en été. La pierre, l'asphalte et les sentiers nus deviennent dangereusement chauds pour les pattes en milieu de journée.",
+        "Emportez votre propre eau à chaque balade. Les chemins ruraux et côtiers n'ont aucun point d'eau public."
+      ],
+      "tipsEs": [
+        "Zakynthos no tiene parques caninos vallados sin correa. Mantén a los perros con correa en callejones, carreteras y senderos de acantilado.",
+        "Pasea al amanecer o tras la puesta de sol en verano. La piedra, el asfalto y los senderos desnudos se calientan peligrosamente para las patas a mediodía.",
+        "Lleva tu propia agua en cada paseo. Los caminos rurales y costeros no tienen grifos públicos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there dog parks in Zakynthos?",
+          "a": "There are no formal fenced off-leash dog parks on the island. The best walking is on the hillside lanes around Bochali, the rural tracks of the Vasilikos peninsula, and the Keri Lighthouse coastal path, all on-leash."
+        },
+        {
+          "q": "Where can I walk my dog in the heat in Zakynthos?",
+          "a": "Choose shaded or breezy routes and time it carefully. The pine woodland around Bochali castle gives rare shade, and coastal capes catch a sea breeze. Always walk at dawn or dusk in July and August and carry water."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des parcs canins à Zakynthos ?",
+          "a": "Il n'y a pas de parcs canins clôturés sans laisse sur l'île. Les meilleures balades se font sur les ruelles autour de Bochali, les chemins ruraux de la péninsule de Vasilikos et le sentier côtier du phare de Keri, le tout en laisse."
+        },
+        {
+          "q": "Où promener son chien par forte chaleur à Zakynthos ?",
+          "a": "Choisissez des itinéraires ombragés ou venteux et calculez bien l'horaire. Le bois de pins autour du château de Bochali offre une ombre rare, et les caps côtiers captent la brise marine. Marchez toujours à l'aube ou au crépuscule en juillet et août et emportez de l'eau."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay parques caninos en Zakynthos?",
+          "a": "No hay parques caninos vallados sin correa en la isla. Los mejores paseos están en los callejones de la ladera en torno a Bochali, los caminos rurales de la península de Vasilikos y el sendero costero del faro de Keri, todos con correa."
+        },
+        {
+          "q": "¿Dónde puedo pasear a mi perro con calor en Zakynthos?",
+          "a": "Elige rutas con sombra o ventiladas y calcula bien el horario. El pinar en torno al castillo de Bochali da una sombra escasa, y los cabos costeros recogen la brisa marina. Pasea siempre al amanecer o al atardecer en julio y agosto y lleva agua."
+        }
+      ],
+      "titlePt": "Passeios e espaços verdes para cães em Zakynthos",
+      "introPt": "Zakynthos não tem parques caninos urbanos formais, mas oferece algo melhor para um cão ativo: ruelas de aldeias na encosta, caminhos por olivais e trilhos costeiros com vastas vistas sobre o mar Jónico. Os melhores passeios são à volta de Bochali, acima da cidade de Zakynthos, e pela península rural de Vasilikos. No verão a prioridade é o horário, por isso passeie de manhã cedo ou depois do pôr do sol e leve sempre água, pois a sombra é escassa nos trilhos abertos.",
+      "tipsPt": [
+        "Zakynthos não tem parques caninos vedados sem trela. Mantenha os cães à trela nas ruelas das aldeias, nas estradas e nos caminhos de falésia.",
+        "Passeie ao amanhecer ou depois do pôr do sol no verão. A pedra, o asfalto e os trilhos descobertos ficam perigosamente quentes para as patas a meio do dia.",
+        "Leve a sua própria água em cada passeio. Os caminhos rurais e costeiros não têm torneiras públicas."
+      ],
+      "faqsPt": [
+        {
+          "q": "Há parques caninos em Zakynthos?",
+          "a": "Não há parques caninos vedados sem trela na ilha. Os melhores passeios são nas ruelas da encosta à volta de Bochali, nos caminhos rurais da península de Vasilikos e no trilho costeiro do Farol de Keri, todos à trela."
+        },
+        {
+          "q": "Onde posso passear o meu cão com calor em Zakynthos?",
+          "a": "Escolha percursos sombreados ou ventilados e planeie bem o horário. O pinhal à volta do castelo de Bochali dá uma sombra rara, e os cabos costeiros apanham a brisa do mar. Passeie sempre ao amanhecer ou ao anoitecer em julho e agosto e leve água."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Zakynthos",
+      "titleFr": "Voyager avec son animal à Zakynthos",
+      "titleEs": "Viajar con mascotas en Zakynthos",
+      "introEn": "Zakynthos is reached from the mainland by ferry from Kyllini in the Peloponnese, or by air to Zakynthos Airport (ZTH). On the island itself a rental car is by far the most practical way to get around with a dog, as the local KTEL bus network is limited and seasonal. EU pet rules apply for entry to Greece, and the ferry and bus both have specific muzzle-and-leash requirements worth knowing before you travel.",
+      "introFr": "Zakynthos se rejoint depuis le continent par ferry depuis Kyllini, dans le Péloponnèse, ou par avion jusqu'à l'aéroport de Zakynthos (ZTH). Sur l'île, la voiture de location est de loin le moyen le plus pratique de se déplacer avec un chien, car le réseau de bus local KTEL est limité et saisonnier. Les règles européennes pour les animaux s'appliquent à l'entrée en Grèce, et le ferry comme le bus ont des exigences précises de muselière et de laisse à connaître avant de partir.",
+      "introEs": "A Zakynthos se llega desde el continente en ferry desde Kyllini, en el Peloponeso, o en avión al aeropuerto de Zakynthos (ZTH). En la isla, el coche de alquiler es con diferencia la forma más práctica de moverse con un perro, ya que la red local de autobuses KTEL es limitada y estacional. Las normas europeas para mascotas se aplican a la entrada en Grecia, y tanto el ferry como el autobús tienen requisitos concretos de bozal y correa que conviene conocer antes de viajar.",
+      "rules": [
+        {
+          "mode": "Ferry (Zakynthos–Kyllini)",
+          "modeFr": "Ferry (Zakynthos–Kyllini)",
+          "modeEs": "Ferry (Zakynthos–Kyllini)",
+          "policy": "On the Zakynthos to Kyllini ferry, pets travel in designated pet areas or on the open outside decks and should be kept in a carrier. Dogs that cannot travel in a carrier must wear a muzzle and a leash at all times. Pets are generally not allowed in indoor seating lounges.",
+          "policyFr": "Sur le ferry Zakynthos–Kyllini, les animaux voyagent dans les zones dédiées ou sur les ponts extérieurs et doivent être placés dans une caisse de transport. Les chiens qui ne peuvent pas voyager en caisse doivent porter une muselière et une laisse en permanence. Les animaux ne sont généralement pas admis dans les salons intérieurs.",
+          "policyEs": "En el ferry Zakynthos–Kyllini, las mascotas viajan en zonas designadas o en las cubiertas exteriores y deben ir en transportín. Los perros que no puedan viajar en transportín deben llevar bozal y correa en todo momento. Las mascotas no suelen admitirse en los salones interiores.",
+          "tip": "Bring a muzzle and a leash even for a calm dog. Crossings can be hot, so travel with water and find a shaded spot on deck.",
+          "tipFr": "Apportez une muselière et une laisse même pour un chien calme. Les traversées peuvent être chaudes : voyagez avec de l'eau et trouvez un coin ombragé sur le pont.",
+          "tipEs": "Lleva bozal y correa incluso para un perro tranquilo. Las travesías pueden ser calurosas, así que viaja con agua y busca un rincón con sombra en cubierta.",
+          "modePt": "Ferry (Zakynthos–Kyllini)",
+          "policyPt": "No ferry de Zakynthos para Kyllini, os animais viajam em zonas designadas ou nos conveses exteriores e devem ir numa caixa de transporte. Os cães que não possam viajar em caixa têm de usar açaime e trela a toda a hora. Os animais geralmente não são permitidos nos salões interiores.",
+          "tipPt": "Leve um açaime e uma trela mesmo para um cão calmo. As travessias podem ser quentes, por isso viaje com água e procure um lugar com sombra no convés."
+        },
+        {
+          "mode": "KTEL local bus",
+          "modeFr": "Bus local KTEL",
+          "modeEs": "Autobús local KTEL",
+          "policy": "On KTEL buses, small animals under about 10 kg travel in a closed carrier (max around 50x40x35 cm). Larger dogs must be leashed and muzzled, are not placed in the luggage hold, and acceptance is at the driver's discretion and can be limited to a couple of animals per bus.",
+          "policyFr": "Dans les bus KTEL, les petits animaux de moins de 10 kg environ voyagent dans une caisse fermée (environ 50x40x35 cm max). Les chiens plus grands doivent être tenus en laisse et muselés, ne sont pas placés en soute, et l'admission est à la discrétion du chauffeur et peut être limitée à quelques animaux par bus.",
+          "policyEs": "En los autobuses KTEL, los animales pequeños de menos de unos 10 kg viajan en un transportín cerrado (máx. unos 50x40x35 cm). Los perros más grandes deben ir con correa y bozal, no se colocan en la bodega de equipaje, y la admisión queda a criterio del conductor y puede limitarse a un par de animales por autobús.",
+          "tip": "The island bus network is sparse and seasonal. For travelling with a medium or large dog, a rental car is far more reliable.",
+          "tipFr": "Le réseau de bus de l'île est clairsemé et saisonnier. Pour voyager avec un chien moyen ou grand, la voiture de location est bien plus fiable.",
+          "tipEs": "La red de autobuses de la isla es escasa y estacional. Para viajar con un perro mediano o grande, el coche de alquiler es mucho más fiable.",
+          "modePt": "Autocarro local KTEL",
+          "policyPt": "Nos autocarros KTEL, os animais pequenos com menos de cerca de 10 kg viajam numa caixa fechada (máx. cerca de 50x40x35 cm). Os cães maiores têm de ir com trela e açaime, não são colocados no porão de bagagem, e a aceitação fica ao critério do motorista e pode limitar-se a alguns animais por autocarro.",
+          "tipPt": "A rede de autocarros da ilha é escassa e sazonal. Para viajar com um cão médio ou grande, um carro de aluguer é muito mais fiável."
+        },
+        {
+          "mode": "Rental car",
+          "modeFr": "Voiture de location",
+          "modeEs": "Coche de alquiler",
+          "policy": "A rental car is the most practical way to explore Zakynthos with a dog. Most local agencies allow dogs if the car is returned clean, often asking that pets travel on a blanket or in a crate. Confirm the pet policy when you book, as some require advance notice.",
+          "policyFr": "La voiture de location est le moyen le plus pratique d'explorer Zakynthos avec un chien. La plupart des agences locales acceptent les chiens si la voiture est rendue propre, demandant souvent que l'animal voyage sur une couverture ou dans une caisse. Confirmez la politique animaux à la réservation, certaines exigeant un préavis.",
+          "policyEs": "El coche de alquiler es la forma más práctica de explorar Zakynthos con un perro. La mayoría de las agencias locales admiten perros si el coche se devuelve limpio, pidiendo a menudo que la mascota viaje sobre una manta o en un transportín. Confirma la política de mascotas al reservar, ya que algunas exigen aviso previo.",
+          "tip": "Never leave a dog in a parked car in summer. Interiors reach lethal temperatures within minutes on Zakynthos.",
+          "tipFr": "Ne laissez jamais un chien dans une voiture garée en été. L'habitacle atteint des températures mortelles en quelques minutes à Zakynthos.",
+          "tipEs": "Nunca dejes a un perro en un coche aparcado en verano. El interior alcanza temperaturas letales en minutos en Zakynthos.",
+          "modePt": "Carro de aluguer",
+          "policyPt": "O carro de aluguer é a forma mais prática de explorar Zakynthos com um cão. A maioria das agências locais aceita cães se o carro for devolvido limpo, pedindo muitas vezes que o animal viaje sobre uma manta ou numa caixa. Confirme a política de animais ao reservar, pois algumas exigem aviso prévio.",
+          "tipPt": "Nunca deixe um cão num carro estacionado no verão. O interior atinge temperaturas letais em minutos em Zakynthos."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Getting to and around the island",
+          "titleFr": "Rejoindre l'île et s'y déplacer",
+          "titleEs": "Llegar a la isla y moverse por ella",
+          "contentEn": "Ferries to Zakynthos depart from Kyllini in the Peloponnese (around 1 hour to Zakynthos Port); check Levante Ferries and Ferryhopper for timetables. The airport, Zakynthos Dionysios Solomos (ZTH), is about 6 km south of Zakynthos Town. The local bus operator is KTEL Zakynthos, with services concentrated on the main resorts in summer; a rental car or pet-friendly taxi is the most flexible option for dog owners.",
+          "contentFr": "Les ferries pour Zakynthos partent de Kyllini, dans le Péloponnèse (environ 1 heure jusqu'au port de Zakynthos) ; consultez Levante Ferries et Ferryhopper pour les horaires. L'aéroport, Zakynthos Dionysios Solomos (ZTH), se trouve à environ 6 km au sud de Zakynthos-Ville. L'opérateur de bus local est KTEL Zakynthos, avec des services concentrés sur les principales stations en été ; une voiture de location ou un taxi acceptant les animaux est l'option la plus souple pour les propriétaires de chiens.",
+          "contentEs": "Los ferris a Zakynthos salen de Kyllini, en el Peloponeso (alrededor de 1 hora hasta el puerto de Zakynthos); consulta Levante Ferries y Ferryhopper para los horarios. El aeropuerto, Zakynthos Dionysios Solomos (ZTH), está a unos 6 km al sur de Zakynthos Ciudad. El operador de autobuses local es KTEL Zakynthos, con servicios concentrados en los principales centros turísticos en verano; un coche de alquiler o un taxi que admita mascotas es la opción más flexible para los dueños de perros.",
+          "titlePt": "Chegar à ilha e deslocar-se nela",
+          "contentPt": "Os ferries para Zakynthos partem de Kyllini, no Peloponeso (cerca de 1 hora até ao porto de Zakynthos); consulte a Levante Ferries e o Ferryhopper para os horários. O aeroporto, Zakynthos Dionysios Solomos (ZTH), fica a cerca de 6 km a sul da cidade de Zakynthos. O operador local de autocarros é a KTEL Zakynthos, com serviços concentrados nas principais estâncias no verão; um carro de aluguer ou um táxi que aceite animais é a opção mais flexível para os donos de cães."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the Zakynthos ferry?",
+          "a": "Yes. On the Zakynthos to Kyllini ferry pets travel in designated pet areas or on the outside decks, in a carrier where possible. A dog that cannot go in a carrier must wear a muzzle and leash at all times, and pets are usually not allowed in indoor lounges."
+        },
+        {
+          "q": "Can I take my dog on the bus in Zakynthos?",
+          "a": "On KTEL buses, small dogs under about 10 kg travel in a closed carrier, while larger dogs must be leashed and muzzled and ride at the driver's discretion. The network is limited and seasonal, so a rental car is usually easier with a dog."
+        },
+        {
+          "q": "What documents does my dog need to enter Greece?",
+          "a": "EU-registered pets need an EU pet passport, a microchip, and an up-to-date rabies vaccination. Pets from outside the EU need an EU animal health certificate plus microchip and valid rabies vaccination. Check the current Greek and EU rules before you travel."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre le ferry de Zakynthos avec mon chien ?",
+          "a": "Oui. Sur le ferry Zakynthos–Kyllini, les animaux voyagent dans les zones dédiées ou sur les ponts extérieurs, dans une caisse si possible. Un chien qui ne peut pas voyager en caisse doit porter une muselière et une laisse en permanence, et les animaux ne sont généralement pas admis dans les salons intérieurs."
+        },
+        {
+          "q": "Puis-je prendre le bus à Zakynthos avec mon chien ?",
+          "a": "Dans les bus KTEL, les petits chiens de moins de 10 kg environ voyagent dans une caisse fermée, tandis que les chiens plus grands doivent être tenus en laisse et muselés et sont admis à la discrétion du chauffeur. Le réseau est limité et saisonnier, la voiture de location est donc souvent plus pratique avec un chien."
+        },
+        {
+          "q": "Quels documents faut-il pour mon chien pour entrer en Grèce ?",
+          "a": "Les animaux enregistrés dans l'UE ont besoin d'un passeport européen, d'une puce électronique et d'une vaccination antirabique à jour. Les animaux hors UE ont besoin d'un certificat sanitaire animal de l'UE, d'une puce et d'une vaccination antirabique valide. Vérifiez les règles grecques et européennes en vigueur avant de partir."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el ferry de Zakynthos?",
+          "a": "Sí. En el ferry Zakynthos–Kyllini las mascotas viajan en zonas designadas o en las cubiertas exteriores, en transportín cuando sea posible. Un perro que no pueda ir en transportín debe llevar bozal y correa en todo momento, y las mascotas no suelen admitirse en los salones interiores."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro en el autobús en Zakynthos?",
+          "a": "En los autobuses KTEL, los perros pequeños de menos de unos 10 kg viajan en un transportín cerrado, mientras que los más grandes deben ir con correa y bozal y suben a criterio del conductor. La red es limitada y estacional, así que el coche de alquiler suele ser más fácil con un perro."
+        },
+        {
+          "q": "¿Qué documentos necesita mi perro para entrar en Grecia?",
+          "a": "Las mascotas registradas en la UE necesitan un pasaporte europeo, microchip y vacunación antirrábica al día. Las mascotas de fuera de la UE necesitan un certificado sanitario animal de la UE más microchip y vacunación antirrábica válida. Consulta las normas griegas y europeas vigentes antes de viajar."
+        }
+      ],
+      "titlePt": "Viajar com animais em Zakynthos",
+      "introPt": "Chega-se a Zakynthos a partir do continente de ferry, desde Kyllini, no Peloponeso, ou de avião até ao Aeroporto de Zakynthos (ZTH). Na própria ilha, um carro de aluguer é de longe a forma mais prática de circular com um cão, pois a rede local de autocarros KTEL é limitada e sazonal. As regras europeias para animais aplicam-se à entrada na Grécia, e tanto o ferry como o autocarro têm requisitos específicos de açaime e trela que vale a pena conhecer antes de viajar.",
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão no ferry de Zakynthos?",
+          "a": "Sim. No ferry de Zakynthos para Kyllini, os animais viajam em zonas designadas ou nos conveses exteriores, numa caixa de transporte sempre que possível. Um cão que não possa ir em caixa tem de usar açaime e trela a toda a hora, e os animais geralmente não são permitidos nos salões interiores."
+        },
+        {
+          "q": "Posso levar o meu cão no autocarro em Zakynthos?",
+          "a": "Nos autocarros KTEL, os cães pequenos com menos de cerca de 10 kg viajam numa caixa fechada, enquanto os maiores têm de ir com trela e açaime e viajam ao critério do motorista. A rede é limitada e sazonal, por isso um carro de aluguer costuma ser mais fácil com um cão."
+        },
+        {
+          "q": "Que documentos precisa o meu cão para entrar na Grécia?",
+          "a": "Os animais registados na UE precisam de um passaporte europeu para animais, microchip e vacinação antirrábica atualizada. Os animais de fora da UE precisam de um certificado sanitário de animal da UE, mais microchip e vacinação antirrábica válida. Verifique as regras gregas e da UE em vigor antes de viajar."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Zakynthos",
+      "titleFr": "Plages accessibles aux chiens à Zakynthos",
+      "titleEs": "Playas para perros en Zakynthos",
+      "introEn": "Zakynthos has beautiful beaches, but the most important thing for a dog owner to understand is the National Marine Park of Zakynthos in Laganas Bay. The six loggerhead turtle nesting beaches, including Gerakas, Dafni, Kalamaki, Laganas, Sekania, and Marathonisi, are strictly protected and dogs are NOT allowed on these nesting beaches, with several closed at night and access tightly restricted in the May to October nesting season. Outside the marine park there are quieter coves and long sandy beaches where a leashed dog is welcome, but always check local signs first.",
+      "introFr": "Zakynthos a de superbes plages, mais le plus important à comprendre pour un propriétaire de chien est le Parc National Marin de Zakynthos, dans la baie de Laganas. Les six plages de ponte de la tortue caouanne, dont Gerakas, Dafni, Kalamaki, Laganas, Sekania et Marathonisi, sont strictement protégées et les chiens n'y sont PAS autorisés, plusieurs étant fermées la nuit et l'accès très restreint pendant la saison de ponte de mai à octobre. Hors du parc marin, on trouve des criques plus tranquilles et de longues plages de sable où un chien en laisse est le bienvenu, mais vérifiez toujours d'abord la signalisation locale.",
+      "introEs": "Zakynthos tiene playas preciosas, pero lo más importante que debe entender un dueño de perro es el Parque Nacional Marino de Zakynthos, en la bahía de Laganas. Las seis playas de anidación de la tortuga boba, entre ellas Gerakas, Dafni, Kalamaki, Laganas, Sekania y Marathonisi, están estrictamente protegidas y los perros NO están permitidos en estas playas de anidación, con varias cerradas de noche y el acceso muy restringido en la temporada de anidación de mayo a octubre. Fuera del parque marino hay calas más tranquilas y largas playas de arena donde un perro con correa es bienvenido, pero comprueba siempre primero las señales locales.",
+      "places": [
+        {
+          "name": "Gerakas Beach (turtle nesting, dogs banned)",
+          "distance": "About 18 km south-east of Zakynthos Town, Vasilikos",
+          "description": "One of the Mediterranean's most important loggerhead turtle nesting beaches and a Nature Protection Area within the National Marine Park. Dogs are banned, umbrellas are restricted, visitors must stay near the waterline, and the beach is closed from dusk to dawn during the May to October nesting season.",
+          "season": "Strictly protected; dogs not allowed at any time",
+          "rules": "No dogs. No staying after dusk in nesting season. Stay within a few metres of the waterline and follow all marine park signs.",
+          "facilities": "Marine park information point; protected natural beach",
+          "googleMapsUrl": "https://maps.google.com/?q=Gerakas+Beach+Zakynthos",
+          "photo": ""
+        },
+        {
+          "name": "Banana Beach (Vasilikos)",
+          "distance": "About 16 km south-east of Zakynthos Town, Vasilikos",
+          "description": "One of the longest sandy beaches on the island, on the east side of the Vasilikos peninsula and outside the strictest marine park nesting zones. It is generally relaxed about a leashed, well-behaved dog, with watersports, sunbeds, and beach catering, though it gets busy in peak summer.",
+          "season": "Best in spring and autumn; very busy in July and August",
+          "rules": "Keep dogs leashed, stay off any roped or signed turtle protection areas, and avoid the crowded sunbed core at midday.",
+          "facilities": "Sunbeds, umbrellas, beach bars, watersports, parking",
+          "googleMapsUrl": "https://maps.google.com/?q=Banana+Beach+Vasilikos+Zakynthos",
+          "photo": ""
+        },
+        {
+          "name": "Quiet coves outside the marine park",
+          "distance": "Various, north and west coasts",
+          "description": "Away from Laganas Bay, the north and west coasts have smaller, less organised coves and pebble beaches where a leashed dog is usually welcome at quieter hours. There are no formal dog beaches on Zakynthos, so these informal spots are the most relaxed option for a swim.",
+          "season": "Year-round, best outside peak season",
+          "rules": "Leash on shared beaches, clean up after your dog, and never enter any turtle nesting or protected zone.",
+          "facilities": "Minimal; bring your own water and shade",
+          "googleMapsUrl": "https://maps.google.com/?q=Zakynthos+beaches",
+          "photo": ""
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to the beach in Zakynthos?",
+          "a": "Yes, but not to the turtle nesting beaches. Dogs are banned on the National Marine Park beaches in Laganas Bay, including Gerakas, Dafni, Kalamaki, Laganas, Sekania, and Marathonisi. On other beaches outside the park, a leashed dog is usually fine, but always check local signs."
+        },
+        {
+          "q": "Why are dogs banned on some Zakynthos beaches?",
+          "a": "The beaches in Laganas Bay are protected nesting sites for endangered loggerhead sea turtles within the National Marine Park of Zakynthos. Dogs can disturb nests and hatchlings, so they are prohibited, along with night access and umbrellas in the nesting season."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à la plage à Zakynthos ?",
+          "a": "Oui, mais pas sur les plages de ponte des tortues. Les chiens sont interdits sur les plages du Parc National Marin dans la baie de Laganas, dont Gerakas, Dafni, Kalamaki, Laganas, Sekania et Marathonisi. Sur les autres plages hors du parc, un chien en laisse est généralement accepté, mais vérifiez toujours la signalisation locale."
+        },
+        {
+          "q": "Pourquoi les chiens sont-ils interdits sur certaines plages de Zakynthos ?",
+          "a": "Les plages de la baie de Laganas sont des sites de ponte protégés pour les tortues caouannes menacées, au sein du Parc National Marin de Zakynthos. Les chiens peuvent déranger les nids et les nouveau-nés, ils sont donc interdits, tout comme l'accès nocturne et les parasols en saison de ponte."
+        }
+      ],
+      "titlePt": "Praias dog-friendly em Zakynthos",
+      "introPt": "Zakynthos tem praias lindíssimas, mas o mais importante a perceber para um dono de cão é o Parque Nacional Marinho de Zakynthos, na baía de Laganas. As seis praias de nidificação da tartaruga-comum, incluindo Gerakas, Dafni, Kalamaki, Laganas, Sekania e Marathonisi, estão estritamente protegidas e os cães NÃO são permitidos nestas praias de nidificação, com várias encerradas à noite e o acesso muito restrito na época de nidificação, de maio a outubro. Fora do parque marinho há enseadas mais tranquilas e longas praias de areia onde um cão à trela é bem-vindo, mas verifique sempre primeiro a sinalização local.",
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão à praia em Zakynthos?",
+          "a": "Sim, mas não às praias de nidificação das tartarugas. Os cães são proibidos nas praias do Parque Nacional Marinho na baía de Laganas, incluindo Gerakas, Dafni, Kalamaki, Laganas, Sekania e Marathonisi. Noutras praias fora do parque, um cão à trela costuma ser aceite, mas verifique sempre a sinalização local."
+        },
+        {
+          "q": "Porque é que os cães são proibidos em algumas praias de Zakynthos?",
+          "a": "As praias da baía de Laganas são locais de nidificação protegidos das ameaçadas tartarugas-comuns, dentro do Parque Nacional Marinho de Zakynthos. Os cães podem perturbar os ninhos e as crias, por isso são proibidos, tal como o acesso noturno e os chapéus de sol na época de nidificação."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Zakynthos, Veterinary Clinics & Pet Care",
+      "titleFr": "Vétérinaires d'urgence à Zakynthos, Cliniques et soins animaliers",
+      "titleEs": "Veterinario de urgencias en Zakynthos, Clínicas veterinarias y cuidados",
+      "introEn": "Zakynthos has several veterinary clinics concentrated in and around Zakynthos Town, but there is no dedicated 24-hour veterinary hospital on the island. In an emergency you must phone ahead, as cover outside normal hours depends on the individual vet being reachable. Save a clinic number in your phone before you travel and ask your accommodation for the nearest open practice.",
+      "introFr": "Zakynthos compte plusieurs cliniques vétérinaires concentrées à Zakynthos-Ville et dans ses environs, mais il n'y a pas d'hôpital vétérinaire 24h/24 dédié sur l'île. En cas d'urgence, vous devez téléphoner à l'avance, car la couverture en dehors des heures normales dépend de la disponibilité du vétérinaire. Enregistrez le numéro d'une clinique dans votre téléphone avant de partir et demandez à votre hébergement le cabinet ouvert le plus proche.",
+      "introEs": "Zakynthos cuenta con varias clínicas veterinarias concentradas en Zakynthos Ciudad y alrededores, pero no hay un hospital veterinario 24 horas dedicado en la isla. En una emergencia debes llamar antes, ya que la cobertura fuera del horario normal depende de que el veterinario esté localizable. Guarda el número de una clínica en tu teléfono antes de viajar y pide a tu alojamiento la consulta abierta más cercana.",
+      "entryRequirements": {
+        "euPets": "Valid EU pet passport + microchip + up-to-date rabies vaccination. No additional tests required for entry to Greece.",
+        "nonEuPets": "EU animal health certificate, microchip, valid rabies vaccination, and possibly a rabies antibody titer test depending on the country of origin. Check current Greek and EU rules before travelling.",
+        "emergencyContacts": [
+          "Animal Zante (Marios Tsagaroloulos), Zakynthos Town: +30 26950 49488 / mobile +30 6944 920 878",
+          "Katsaros Konstantinos veterinary clinic, Zakynthos Town: +30 26950 27227"
+        ],
+        "euPetsFr": "Passeport européen valide + puce électronique + vaccination antirabique à jour. Aucun test supplémentaire requis pour l'entrée en Grèce.",
+        "euPetsEs": "Pasaporte europeo válido + microchip + vacunación antirrábica al día. No se requieren pruebas adicionales para entrar en Grecia.",
+        "nonEuPetsFr": "Certificat sanitaire animal de l'UE, puce électronique, vaccination antirabique valide et éventuellement un test de titrage des anticorps antirabiques selon le pays d'origine. Vérifiez les règles grecques et européennes en vigueur avant de partir.",
+        "nonEuPetsEs": "Certificado sanitario animal de la UE, microchip, vacunación antirrábica válida y posiblemente una prueba de titulación de anticuerpos antirrábicos según el país de origen. Consulta las normas griegas y europeas vigentes antes de viajar.",
+        "euPetsPt": "Passaporte europeu válido + microchip + vacinação antirrábica atualizada. Não são necessários testes adicionais para entrar na Grécia.",
+        "nonEuPetsPt": "Certificado sanitário de animal da UE, microchip, vacinação antirrábica válida e, possivelmente, um teste de titulação de anticorpos antirrábicos consoante o país de origem. Verifique as regras gregas e da UE em vigor antes de viajar."
+      },
+      "places": [
+        {
+          "name": "Animal Zante (Marios Tsagaroloulos)",
+          "type": "General veterinary clinic; phone-ahead emergency",
+          "address": "103 Agiou Lazarou St, Zakynthos Town 29100",
+          "phone": "+30 26950 49488",
+          "hours": "Daytime clinic hours; phone ahead for out-of-hours emergencies",
+          "hoursFr": "Horaires de cabinet en journée ; téléphonez à l'avance pour les urgences hors horaires",
+          "hoursEs": "Horario de consulta diurno; llama antes para urgencias fuera de horario",
+          "englishSpeaking": true,
+          "website": "https://animalzante.gr/",
+          "description": "A long-established general veterinary clinic in Zakynthos Town run by vet Marios Tsagaroloulos, offering consultations, vaccinations, and surgery. The clinic advertises round-the-clock availability of its services, so it is a sensible first call for travellers, but always phone ahead in an emergency rather than turning up.",
+          "descriptionFr": "Une clinique vétérinaire généraliste bien établie à Zakynthos-Ville, dirigée par le vétérinaire Marios Tsagaroloulos, proposant consultations, vaccinations et chirurgie. La clinique annonce une disponibilité de ses services 24h/24 : c'est donc un premier réflexe judicieux pour les voyageurs, mais téléphonez toujours à l'avance en cas d'urgence plutôt que de vous présenter.",
+          "descriptionEs": "Una clínica veterinaria generalista bien establecida en Zakynthos Ciudad, dirigida por el veterinario Marios Tsagaroloulos, que ofrece consultas, vacunaciones y cirugía. La clínica anuncia disponibilidad de sus servicios las 24 horas, por lo que es una primera llamada sensata para los viajeros, pero llama siempre antes en una emergencia en lugar de presentarte.",
+          "tip": "Save this number before your trip. +30 26950 49488 (mobile +30 6944 920 878). Always call first so they can prepare",
+          "tipFr": "Enregistrez ce numéro avant votre voyage. +30 26950 49488 (portable +30 6944 920 878). Appelez toujours d'abord pour qu'ils se préparent",
+          "tipEs": "Guarda este número antes del viaje. +30 26950 49488 (móvil +30 6944 920 878). Llama siempre primero para que puedan prepararse",
+          "googleMapsUrl": "https://maps.google.com/?q=Animal+Zante+Zakynthos",
+          "photo": "",
+          "hoursPt": "Horário de clínica durante o dia; telefone com antecedência para urgências fora de horas",
+          "descriptionPt": "Uma clínica veterinária geral bem estabelecida na cidade de Zakynthos, gerida pelo veterinário Marios Tsagaroloulos, que oferece consultas, vacinações e cirurgia. A clínica anuncia disponibilidade dos seus serviços 24 horas por dia, por isso é uma primeira chamada sensata para os viajantes, mas telefone sempre com antecedência numa urgência em vez de aparecer.",
+          "tipPt": "Guarde este número antes da viagem. +30 26950 49488 (telemóvel +30 6944 920 878). Ligue sempre primeiro para que se possam preparar"
+        },
+        {
+          "name": "Katsaros Konstantinos Veterinary Clinic",
+          "type": "General veterinary practice",
+          "address": "Zakynthos Town 29100",
+          "phone": "+30 26950 27227",
+          "hours": "Daytime clinic hours; phone for availability",
+          "hoursFr": "Horaires de cabinet en journée ; téléphonez pour les disponibilités",
+          "hoursEs": "Horario de consulta diurno; llama para disponibilidad",
+          "englishSpeaking": true,
+          "website": "",
+          "description": "A general veterinary practice in Zakynthos Town handling routine care, vaccinations, and travel health checks for visiting pets. As with all island clinics there is no 24-hour service, so phone ahead to confirm hours and availability, especially in the evening or at weekends.",
+          "descriptionFr": "Un cabinet vétérinaire généraliste à Zakynthos-Ville assurant soins de routine, vaccinations et bilans de santé de voyage pour les animaux de passage. Comme toutes les cliniques de l'île, il n'y a pas de service 24h/24 : téléphonez à l'avance pour confirmer les horaires et la disponibilité, surtout le soir ou le week-end.",
+          "descriptionEs": "Una consulta veterinaria generalista en Zakynthos Ciudad que se ocupa de cuidados rutinarios, vacunaciones y revisiones de salud de viaje para mascotas de visita. Como en todas las clínicas de la isla, no hay servicio 24 horas, así que llama antes para confirmar horario y disponibilidad, sobre todo por la tarde o los fines de semana.",
+          "tip": "Useful for non-emergency travel checks and prescriptions. Phone +30 26950 27227 to confirm opening hours before going",
+          "tipFr": "Utile pour les contrôles de voyage non urgents et les ordonnances. Téléphonez au +30 26950 27227 pour confirmer les horaires avant de vous y rendre",
+          "tipEs": "Útil para revisiones de viaje no urgentes y recetas. Llama al +30 26950 27227 para confirmar el horario antes de ir",
+          "googleMapsUrl": "https://maps.google.com/?q=Katsaros+Konstantinos+veterinary+Zakynthos",
+          "photo": "",
+          "hoursPt": "Horário de clínica durante o dia; telefone para saber a disponibilidade",
+          "descriptionPt": "Uma clínica veterinária geral na cidade de Zakynthos que trata de cuidados de rotina, vacinações e exames de saúde de viagem para animais em visita. Como em todas as clínicas da ilha, não há serviço de 24 horas, por isso telefone com antecedência para confirmar horários e disponibilidade, sobretudo à noite ou aos fins de semana.",
+          "tipPt": "Útil para exames de viagem não urgentes e receitas. Telefone para +30 26950 27227 para confirmar o horário antes de ir"
+        },
+        {
+          "name": "Vet Care Zante (Konstantina Souli)",
+          "type": "Veterinary centre & grooming",
+          "address": "Zakynthos (Zante) area",
+          "phone": "",
+          "hours": "Phone or check the clinic's page for current hours",
+          "hoursFr": "Téléphonez ou consultez la page de la clinique pour les horaires actuels",
+          "hoursEs": "Llama o consulta la página de la clínica para el horario actual",
+          "englishSpeaking": true,
+          "website": "",
+          "description": "A veterinary centre on Zakynthos offering vaccinations, blood and hormone testing, surgery, dental cleaning, X-rays, and grooming. It is a useful additional option for routine veterinary needs during a stay; confirm the address and current contact details directly before visiting.",
+          "descriptionFr": "Un centre vétérinaire à Zakynthos proposant vaccinations, analyses de sang et hormonales, chirurgie, détartrage, radiographies et toilettage. C'est une option supplémentaire utile pour les besoins vétérinaires de routine pendant un séjour ; confirmez l'adresse et les coordonnées actuelles directement avant de vous y rendre.",
+          "descriptionEs": "Un centro veterinario en Zakynthos que ofrece vacunaciones, análisis de sangre y hormonales, cirugía, limpieza dental, radiografías y peluquería. Es una opción adicional útil para necesidades veterinarias rutinarias durante una estancia; confirma la dirección y los datos de contacto actuales directamente antes de ir.",
+          "tip": "Best for routine care and grooming, not emergencies. Confirm location and hours by phone before visiting",
+          "tipFr": "Idéal pour les soins de routine et le toilettage, pas les urgences. Confirmez le lieu et les horaires par téléphone avant de vous y rendre",
+          "tipEs": "Mejor para cuidados rutinarios y peluquería, no urgencias. Confirma ubicación y horario por teléfono antes de ir",
+          "googleMapsUrl": "https://maps.google.com/?q=Vet+Care+Zante+Zakynthos",
+          "photo": "",
+          "hoursPt": "Telefone ou consulte a página da clínica para o horário atual",
+          "descriptionPt": "Um centro veterinário em Zakynthos que oferece vacinações, análises de sangue e hormonais, cirurgia, destartarização, radiografias e tosquia. É uma opção adicional útil para necessidades veterinárias de rotina durante uma estadia; confirme a morada e os contactos atuais diretamente antes de visitar.",
+          "tipPt": "Melhor para cuidados de rotina e tosquia, não para urgências. Confirme a localização e o horário por telefone antes de visitar"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Zakynthos?",
+          "a": "No. There is no dedicated 24-hour veterinary hospital on the island. Several clinics in Zakynthos Town, such as Animal Zante (+30 26950 49488) and Katsaros Konstantinos (+30 26950 27227), handle emergencies by phone, so always call ahead rather than turning up out of hours."
+        },
+        {
+          "q": "Do I need a pet passport to bring my dog to Zakynthos?",
+          "a": "EU-registered pets need a valid EU pet passport with microchip and current rabies vaccination. Pets from outside the EU need an EU animal health certificate plus microchip and valid rabies vaccination. Check the latest Greek and EU requirements before you travel."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire ouvert 24h/24 à Zakynthos ?",
+          "a": "Non. Il n'y a pas d'hôpital vétérinaire 24h/24 dédié sur l'île. Plusieurs cliniques de Zakynthos-Ville, comme Animal Zante (+30 26950 49488) et Katsaros Konstantinos (+30 26950 27227), gèrent les urgences par téléphone : appelez toujours à l'avance plutôt que de vous présenter hors horaires."
+        },
+        {
+          "q": "Faut-il un passeport pour animal pour amener son chien à Zakynthos ?",
+          "a": "Les animaux enregistrés dans l'UE ont besoin d'un passeport européen valide, d'une puce et d'une vaccination antirabique à jour. Les animaux hors UE ont besoin d'un certificat sanitaire animal de l'UE, d'une puce et d'une vaccination antirabique valide. Vérifiez les exigences grecques et européennes les plus récentes avant de partir."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay algún veterinario 24 horas en Zakynthos?",
+          "a": "No. No hay un hospital veterinario 24 horas dedicado en la isla. Varias clínicas de Zakynthos Ciudad, como Animal Zante (+30 26950 49488) y Katsaros Konstantinos (+30 26950 27227), atienden urgencias por teléfono, así que llama siempre antes en lugar de presentarte fuera de horario."
+        },
+        {
+          "q": "¿Necesito un pasaporte para mascotas para llevar a mi perro a Zakynthos?",
+          "a": "Las mascotas registradas en la UE necesitan un pasaporte europeo válido con microchip y vacunación antirrábica al día. Las mascotas de fuera de la UE necesitan un certificado sanitario animal de la UE más microchip y vacunación antirrábica válida. Consulta los requisitos griegos y europeos más recientes antes de viajar."
+        }
+      ],
+      "titlePt": "Veterinários de urgência em Zakynthos, clínicas veterinárias e cuidados",
+      "introPt": "Zakynthos tem várias clínicas veterinárias concentradas na cidade de Zakynthos e arredores, mas não há um hospital veterinário de 24 horas dedicado na ilha. Numa urgência, tem de telefonar com antecedência, pois a cobertura fora do horário normal depende de o veterinário estar contactável. Guarde o número de uma clínica no telemóvel antes de viajar e pergunte ao seu alojamento qual a clínica aberta mais próxima.",
+      "faqsPt": [
+        {
+          "q": "Há algum veterinário de 24 horas em Zakynthos?",
+          "a": "Não. Não há um hospital veterinário de 24 horas dedicado na ilha. Várias clínicas na cidade de Zakynthos, como a Animal Zante (+30 26950 49488) e a Katsaros Konstantinos (+30 26950 27227), tratam urgências por telefone, por isso ligue sempre com antecedência em vez de aparecer fora de horas."
+        },
+        {
+          "q": "Preciso de um passaporte de animal para trazer o meu cão a Zakynthos?",
+          "a": "Os animais registados na UE precisam de um passaporte europeu válido com microchip e vacinação antirrábica em dia. Os animais de fora da UE precisam de um certificado sanitário de animal da UE, mais microchip e vacinação antirrábica válida. Verifique os requisitos gregos e da UE mais recentes antes de viajar."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Dog-Friendly Tips for Zakynthos",
+      "titleFr": "Conseils locaux pour visiter Zakynthos avec son chien",
+      "titleEs": "Consejos locales para visitar Zakynthos con tu perro",
+      "introEn": "Zakynthos is a relaxed, outdoors-first Ionian island that suits an active dog well, as long as you plan around two things: the summer heat and the strict turtle-protection rules in Laganas Bay. Get those right and the island rewards you with hillside walks, open-air tavernas, and quiet coves. Here are the local rules and habits to know before you go.",
+      "introFr": "Zakynthos est une île ionienne détendue et tournée vers le plein air, qui convient bien à un chien actif, à condition d'anticiper deux choses : la chaleur estivale et les règles strictes de protection des tortues dans la baie de Laganas. Bien gérées, l'île vous récompense de balades en collines, de tavernas en plein air et de criques tranquilles. Voici les règles et habitudes locales à connaître.",
+      "introEs": "Zakynthos es una relajada isla jónica volcada al aire libre que se adapta bien a un perro activo, siempre que planifiques en torno a dos cosas: el calor del verano y las estrictas normas de protección de tortugas en la bahía de Laganas. Si lo haces bien, la isla te recompensa con paseos por la ladera, tabernas al aire libre y calas tranquilas. Estas son las normas y costumbres locales que debes conocer.",
+      "sections": [
+        {
+          "titleEn": "Heat & Paw Safety",
+          "titleFr": "Chaleur et protection des pattes",
+          "titleEs": "Calor y protección de las patas",
+          "contentEn": "Summer highs regularly reach the low 30s Celsius in July and August, and stone, sand, and asphalt can burn paws. Walk at dawn and after sunset, carry water on every outing, seek shade, and never leave a dog in a parked car, where temperatures turn lethal within minutes.",
+          "contentFr": "Les maximales estivales atteignent régulièrement un peu plus de 30 °C en juillet et août, et la pierre, le sable et l'asphalte peuvent brûler les pattes. Marchez à l'aube et après le coucher du soleil, emportez de l'eau à chaque sortie, cherchez l'ombre et ne laissez jamais un chien dans une voiture garée, où la température devient mortelle en quelques minutes.",
+          "contentEs": "Las máximas de verano alcanzan con frecuencia algo más de 30 °C en julio y agosto, y la piedra, la arena y el asfalto pueden quemar las patas. Pasea al amanecer y tras la puesta de sol, lleva agua en cada salida, busca sombra y nunca dejes a un perro en un coche aparcado, donde la temperatura se vuelve letal en minutos.",
+          "titlePt": "Calor e proteção das patas",
+          "contentPt": "As máximas de verão atingem regularmente pouco mais de 30 °C em julho e agosto, e a pedra, a areia e o asfalto podem queimar as patas. Passeie ao amanhecer e depois do pôr do sol, leve água em cada saída, procure sombra e nunca deixe um cão num carro estacionado, onde a temperatura se torna letal em minutos."
+        },
+        {
+          "titleEn": "Turtle Protection Rules",
+          "titleFr": "Règles de protection des tortues",
+          "titleEs": "Normas de protección de tortugas",
+          "contentEn": "The single most important rule on Zakynthos: dogs are banned from the loggerhead turtle nesting beaches in the National Marine Park in Laganas Bay (Gerakas, Dafni, Kalamaki, Laganas, Sekania, Marathonisi). Several are closed at night in the May to October nesting season. Respect every sign and roped-off area.",
+          "contentFr": "La règle la plus importante à Zakynthos : les chiens sont interdits sur les plages de ponte de la tortue caouanne du Parc National Marin de la baie de Laganas (Gerakas, Dafni, Kalamaki, Laganas, Sekania, Marathonisi). Plusieurs sont fermées la nuit pendant la saison de ponte de mai à octobre. Respectez chaque panneau et zone délimitée.",
+          "contentEs": "La norma más importante en Zakynthos: los perros están prohibidos en las playas de anidación de la tortuga boba del Parque Nacional Marino de la bahía de Laganas (Gerakas, Dafni, Kalamaki, Laganas, Sekania, Marathonisi). Varias cierran de noche en la temporada de anidación de mayo a octubre. Respeta cada señal y zona acordonada.",
+          "titlePt": "Regras de proteção das tartarugas",
+          "contentPt": "A regra mais importante em Zakynthos: os cães são proibidos nas praias de nidificação da tartaruga-comum do Parque Nacional Marinho na baía de Laganas (Gerakas, Dafni, Kalamaki, Laganas, Sekania, Marathonisi). Várias estão encerradas à noite na época de nidificação, de maio a outubro. Respeite todas as placas e zonas vedadas."
+        },
+        {
+          "titleEn": "Getting Around",
+          "titleFr": "Se déplacer",
+          "titleEs": "Cómo moverse",
+          "contentEn": "A rental car is the most practical way to travel with a dog, as the KTEL bus network is limited and seasonal and requires small dogs in a carrier or larger dogs muzzled and leashed. On the Kyllini ferry, dogs go in a carrier on the open decks or must wear a muzzle and leash. Never leave a dog in the car at sights or beaches.",
+          "contentFr": "La voiture de location est le moyen le plus pratique de voyager avec un chien, car le réseau de bus KTEL est limité et saisonnier et exige les petits chiens en caisse ou les plus grands muselés et tenus en laisse. Sur le ferry de Kyllini, les chiens voyagent en caisse sur les ponts extérieurs ou doivent porter muselière et laisse. Ne laissez jamais un chien dans la voiture aux sites ou aux plages.",
+          "contentEs": "El coche de alquiler es la forma más práctica de viajar con un perro, ya que la red de autobuses KTEL es limitada y estacional y exige perros pequeños en transportín o perros más grandes con bozal y correa. En el ferry de Kyllini, los perros van en transportín en las cubiertas exteriores o deben llevar bozal y correa. Nunca dejes a un perro en el coche en los lugares de interés o playas.",
+          "titlePt": "Deslocações",
+          "contentPt": "O carro de aluguer é a forma mais prática de viajar com um cão, pois a rede de autocarros KTEL é limitada e sazonal e exige cães pequenos em caixa ou cães maiores com açaime e trela. No ferry de Kyllini, os cães vão em caixa nos conveses exteriores ou têm de usar açaime e trela. Nunca deixe um cão no carro junto a pontos de interesse ou praias."
+        },
+        {
+          "titleEn": "Best Seasons",
+          "titleFr": "Meilleures saisons",
+          "titleEs": "Mejores temporadas",
+          "contentEn": "Late spring (May) and early autumn (late September to October) are the sweet spot for travelling with a dog: warm sea, comfortable walking temperatures, and fewer crowds. July and August are hot and busy, so reserve outdoor activities for early morning and evening. Winter is mild and quiet but many seasonal tavernas and beach facilities close.",
+          "contentFr": "La fin du printemps (mai) et le début de l'automne (fin septembre à octobre) sont le moment idéal pour voyager avec un chien : mer chaude, températures de marche agréables et moins de monde. Juillet et août sont chauds et fréquentés : réservez les activités en plein air au petit matin et en soirée. L'hiver est doux et calme, mais de nombreuses tavernas saisonnières et infrastructures de plage ferment.",
+          "contentEs": "Finales de primavera (mayo) y principios de otoño (finales de septiembre a octubre) son el momento ideal para viajar con un perro: mar cálido, temperaturas agradables para pasear y menos gente. Julio y agosto son calurosos y concurridos, así que reserva las actividades al aire libre para primera hora de la mañana y la tarde. El invierno es suave y tranquilo, pero muchas tabernas de temporada e instalaciones de playa cierran.",
+          "titlePt": "Melhores épocas",
+          "contentPt": "O fim da primavera (maio) e o início do outono (fim de setembro a outubro) são a altura ideal para viajar com um cão: mar quente, temperaturas de caminhada agradáveis e menos multidões. Julho e agosto são quentes e movimentados, por isso reserve as atividades ao ar livre para o início da manhã e o fim da tarde. O inverno é ameno e tranquilo, mas muitas tavernas sazonais e infraestruturas de praia fecham."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Zakynthos good for dogs?",
+          "a": "Yes, for an outdoors-loving dog and owner who plan around the heat. The island has hillside walks, dog-welcoming open-air tavernas, and quiet coves. The big caveat is the National Marine Park in Laganas Bay, where dogs are banned from the turtle nesting beaches."
+        },
+        {
+          "q": "What should I pack for a Zakynthos trip with my dog?",
+          "a": "Bring your EU pet passport (or health certificate), a muzzle and leash for the ferry and buses, a collapsible water bowl and plenty of water, a sunshade or mat, and paw protection awareness for hot ground. A car with shade is far easier than relying on seasonal buses."
+        },
+        {
+          "q": "Can my dog go to the turtle beaches in Zakynthos?",
+          "a": "No. Dogs are not allowed on the loggerhead turtle nesting beaches in the National Marine Park, including Gerakas, Dafni, Kalamaki, Laganas, Sekania, and Marathonisi. Choose beaches and coves outside the park and always follow local signs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Zakynthos est-elle une bonne destination pour les chiens ?",
+          "a": "Oui, pour un chien et un maître amateurs de plein air qui anticipent la chaleur. L'île offre des balades en collines, des tavernas en plein air accueillantes pour les chiens et des criques tranquilles. Le grand bémol est le Parc National Marin de la baie de Laganas, où les chiens sont interdits sur les plages de ponte des tortues."
+        },
+        {
+          "q": "Que faut-il emporter pour un voyage à Zakynthos avec son chien ?",
+          "a": "Emportez votre passeport européen (ou certificat sanitaire), une muselière et une laisse pour le ferry et les bus, une gamelle pliable et beaucoup d'eau, une ombrelle ou un tapis, et restez vigilant pour les pattes sur sol chaud. Une voiture avec de l'ombre est bien plus pratique que des bus saisonniers."
+        },
+        {
+          "q": "Mon chien peut-il aller sur les plages aux tortues à Zakynthos ?",
+          "a": "Non. Les chiens ne sont pas autorisés sur les plages de ponte des tortues caouannes du Parc National Marin, dont Gerakas, Dafni, Kalamaki, Laganas, Sekania et Marathonisi. Choisissez des plages et criques hors du parc et suivez toujours la signalisation locale."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Zakynthos buena para perros?",
+          "a": "Sí, para un perro y un dueño amantes del aire libre que planifiquen en torno al calor. La isla tiene paseos por la ladera, tabernas al aire libre que admiten perros y calas tranquilas. La gran salvedad es el Parque Nacional Marino de la bahía de Laganas, donde los perros están prohibidos en las playas de anidación de tortugas."
+        },
+        {
+          "q": "¿Qué debo llevar para un viaje a Zakynthos con mi perro?",
+          "a": "Lleva tu pasaporte europeo (o certificado sanitario), un bozal y correa para el ferry y los autobuses, un cuenco plegable y mucha agua, una sombrilla o esterilla, y atención a las patas en el suelo caliente. Un coche con sombra es mucho más fácil que depender de los autobuses de temporada."
+        },
+        {
+          "q": "¿Puede ir mi perro a las playas de tortugas en Zakynthos?",
+          "a": "No. Los perros no están permitidos en las playas de anidación de la tortuga boba del Parque Nacional Marino, incluidas Gerakas, Dafni, Kalamaki, Laganas, Sekania y Marathonisi. Elige playas y calas fuera del parque y sigue siempre las señales locales."
+        }
+      ],
+      "titlePt": "Conselhos dog-friendly para Zakynthos",
+      "introPt": "Zakynthos é uma ilha jónica descontraída e virada para o ar livre que se adapta bem a um cão ativo, desde que planeie em torno de duas coisas: o calor do verão e as regras estritas de proteção das tartarugas na baía de Laganas. Se acertar nisso, a ilha recompensa-o com passeios na encosta, tavernas ao ar livre e enseadas tranquilas. Aqui ficam as regras e os hábitos locais a conhecer antes de ir.",
+      "faqsPt": [
+        {
+          "q": "Zakynthos é boa para cães?",
+          "a": "Sim, para um cão e um dono que gostem do ar livre e planeiem em torno do calor. A ilha tem passeios na encosta, tavernas ao ar livre que acolhem cães e enseadas tranquilas. A grande ressalva é o Parque Nacional Marinho na baía de Laganas, onde os cães são proibidos nas praias de nidificação das tartarugas."
+        },
+        {
+          "q": "O que devo levar para uma viagem a Zakynthos com o meu cão?",
+          "a": "Leve o seu passaporte europeu (ou certificado sanitário), um açaime e trela para o ferry e os autocarros, uma taça dobrável e bastante água, um chapéu de sol ou tapete, e atenção às patas no chão quente. Um carro com sombra é muito mais fácil do que depender dos autocarros sazonais."
+        },
+        {
+          "q": "O meu cão pode ir às praias das tartarugas em Zakynthos?",
+          "a": "Não. Os cães não são permitidos nas praias de nidificação da tartaruga-comum do Parque Nacional Marinho, incluindo Gerakas, Dafni, Kalamaki, Laganas, Sekania e Marathonisi. Escolha praias e enseadas fora do parque e siga sempre a sinalização local."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Zakynthos",
+      "titleFr": "Sites accessibles aux chiens à Zakynthos",
+      "titleEs": "Atracciones para perros en Zakynthos",
+      "introEn": "Most of Zakynthos' best sights are outdoors, which is ideal for a leashed dog: the elegant squares of Zakynthos Town, the hilltop village of Bochali with its Venetian castle, and the dramatic west-coast viewpoints. Indoor museums and churches generally do not admit dogs, so plan those for moments your dog can rest in shade. As always in summer, time visits for early morning or evening.",
+      "introFr": "La plupart des plus beaux sites de Zakynthos sont en plein air, idéal pour un chien en laisse : les élégantes places de Zakynthos-Ville, le village perché de Bochali et son château vénitien, et les spectaculaires points de vue de la côte ouest. Les musées et églises n'admettent généralement pas les chiens : prévoyez-les pour les moments où votre chien peut se reposer à l'ombre. Comme toujours en été, planifiez les visites tôt le matin ou en soirée.",
+      "introEs": "La mayoría de los mejores lugares de Zakynthos están al aire libre, lo que es ideal para un perro con correa: las elegantes plazas de Zakynthos Ciudad, el pueblo en lo alto de Bochali con su castillo veneciano y los espectaculares miradores de la costa oeste. Los museos e iglesias en interior no suelen admitir perros, así que resérvalos para momentos en que tu perro pueda descansar a la sombra. Como siempre en verano, planifica las visitas para primera hora de la mañana o la tarde.",
+      "places": [
+        {
+          "name": "Solomos Square, Zakynthos Town",
+          "neighborhood": "Zakynthos Town centre",
+          "photo": "",
+          "website": "",
+          "description": "The grand central square of Zakynthos Town, named after the Zakynthian poet Dionysios Solomos who wrote the words of the Greek national anthem, lined with statues, cafés, and Venetian-style architecture. It is an easy, flat, open space for a leashed stroll, with café terraces nearby where a dog can rest at your feet.",
+          "descriptionFr": "La grande place centrale de Zakynthos-Ville, baptisée en hommage au poète zakynthien Dionysios Solomos, auteur des paroles de l'hymne national grec, bordée de statues, de cafés et d'architecture vénitienne. C'est un espace ouvert, plat et facile pour une promenade en laisse, avec des terrasses de cafés à proximité où un chien peut se reposer à vos pieds.",
+          "descriptionEs": "La gran plaza central de Zakynthos Ciudad, llamada así por el poeta zakynthio Dionysios Solomos, que escribió la letra del himno nacional griego, rodeada de estatuas, cafés y arquitectura de estilo veneciano. Es un espacio abierto, llano y fácil para un paseo con correa, con terrazas de café cerca donde un perro puede descansar a tus pies.",
+          "dogPolicy": "Leashed dogs welcome in the open square; café terraces at owner's discretion",
+          "dogPolicyFr": "Chiens en laisse bienvenus sur la place ; terrasses de cafés à la discrétion du propriétaire",
+          "dogPolicyEs": "Perros con correa bienvenidos en la plaza; terrazas de café a criterio del dueño",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "tip": "Visit in the cool of the evening when the square comes alive. The nearby Strata Marina waterfront is a pleasant leashed walk",
+          "tipFr": "Venez à la fraîche en soirée, quand la place s'anime. Le front de mer Strata Marina tout proche offre une agréable balade en laisse",
+          "tipEs": "Ve al fresco de la tarde, cuando la plaza cobra vida. El cercano paseo marítimo Strata Marina es un agradable paseo con correa",
+          "googleMapsUrl": "https://maps.google.com/?q=Solomos+Square+Zakynthos",
+          "descriptionPt": "A grande praça central da cidade de Zakynthos, com o nome do poeta zakynthio Dionysios Solomos, autor da letra do hino nacional grego, ladeada de estátuas, cafés e arquitetura de estilo veneziano. É um espaço aberto, plano e fácil para um passeio à trela, com esplanadas de café ali perto onde um cão pode descansar aos seus pés.",
+          "dogPolicyPt": "Cães à trela bem-vindos na praça aberta; esplanadas de café ao critério do proprietário",
+          "admissionFeePt": "Gratuito",
+          "tipPt": "Visite ao fresco da noite, quando a praça ganha vida. A marginal Strata Marina ali perto é um passeio à trela agradável"
+        },
+        {
+          "name": "Bochali Venetian Castle & Viewpoint",
+          "neighborhood": "Bochali",
+          "photo": "",
+          "website": "",
+          "description": "Set on the pine-clad hill above Zakynthos Town at around 117 m, the Venetian castle encloses a forested area with a perimeter walk offering the best panoramic views on the island. The adjoining Bochali viewpoint and village squares are open and dog-friendly, making a leashed visit here a highlight of any trip.",
+          "descriptionFr": "Perché sur la colline boisée de pins au-dessus de Zakynthos-Ville, à environ 117 m, le château vénitien enserre une zone forestière avec un chemin de ronde offrant les plus belles vues panoramiques de l'île. Le point de vue attenant de Bochali et les places du village sont ouverts et accueillants pour les chiens, faisant d'une visite en laisse un temps fort du séjour.",
+          "descriptionEs": "Situado en la colina cubierta de pinos sobre Zakynthos Ciudad a unos 117 m, el castillo veneciano encierra una zona arbolada con un paseo perimetral que ofrece las mejores vistas panorámicas de la isla. El mirador contiguo de Bochali y las plazas del pueblo están al aire libre y admiten perros, lo que convierte una visita con correa en uno de los puntos fuertes del viaje.",
+          "dogPolicy": "Leashed dogs welcome at the viewpoint and village; check signage at the castle entrance",
+          "dogPolicyFr": "Chiens en laisse bienvenus au point de vue et au village ; vérifiez la signalisation à l'entrée du château",
+          "dogPolicyEs": "Perros con correa bienvenidos en el mirador y el pueblo; comprueba la señalización en la entrada del castillo",
+          "admissionFee": "Small fee for the castle grounds; viewpoint and village free",
+          "admissionFeeFr": "Petit droit d'entrée pour l'enceinte du château ; point de vue et village gratuits",
+          "admissionFeeEs": "Pequeña tarifa para el recinto del castillo; mirador y pueblo gratis",
+          "tip": "Walk up early before the heat. The castle pines give rare shade, and the village tavernas have terraces with town and harbour views",
+          "tipFr": "Montez tôt avant la chaleur. Les pins du château offrent une ombre rare, et les tavernas du village ont des terrasses avec vue sur la ville et le port",
+          "tipEs": "Sube temprano antes del calor. Los pinos del castillo dan una sombra escasa, y las tabernas del pueblo tienen terrazas con vistas a la ciudad y el puerto",
+          "googleMapsUrl": "https://maps.google.com/?q=Bochali+Venetian+Castle+Zakynthos",
+          "descriptionPt": "Situado na colina coberta de pinheiros acima da cidade de Zakynthos, a cerca de 117 m, o castelo veneziano envolve uma área arborizada com um caminho perimetral que oferece as melhores vistas panorâmicas da ilha. O miradouro adjacente de Bochali e as praças da aldeia são abertos e dog-friendly, tornando uma visita à trela um ponto alto de qualquer viagem.",
+          "dogPolicyPt": "Cães à trela bem-vindos no miradouro e na aldeia; verifique a sinalização à entrada do castelo",
+          "admissionFeePt": "Pequena taxa para o recinto do castelo; miradouro e aldeia gratuitos",
+          "tipPt": "Suba cedo antes do calor. Os pinheiros do castelo dão uma sombra rara, e as tavernas da aldeia têm esplanadas com vista para a cidade e o porto"
+        },
+        {
+          "name": "Keri & the Mizithres Viewpoint",
+          "neighborhood": "Keri, south-west Zakynthos",
+          "photo": "",
+          "website": "",
+          "description": "The south-western village of Keri is the gateway to one of the island's most dramatic coastal viewpoints, looking over the twin Mizithres rock islets and the deep-blue Ionian. The clifftop path from the village to the Keri lighthouse is an open-air, leashed-dog-friendly walk with no buildings to enter, just sweeping sea views.",
+          "descriptionFr": "Le village de Keri, au sud-ouest, est la porte d'entrée de l'un des points de vue côtiers les plus spectaculaires de l'île, surplombant les deux îlots rocheux des Mizithres et le bleu profond de la mer Ionienne. Le sentier de falaise du village au phare de Keri est une balade en plein air accessible aux chiens en laisse, sans bâtiment à visiter, seulement de vastes vues sur la mer.",
+          "descriptionEs": "El pueblo de Keri, al suroeste, es la puerta a uno de los miradores costeros más espectaculares de la isla, asomado a los dos islotes rocosos de Mizithres y al azul profundo del mar Jónico. El sendero del acantilado desde el pueblo hasta el faro de Keri es un paseo al aire libre apto para perros con correa, sin edificios que visitar, solo amplias vistas al mar.",
+          "dogPolicy": "Leashed dogs welcome on the open clifftop path",
+          "dogPolicyFr": "Chiens en laisse bienvenus sur le sentier de falaise découvert",
+          "dogPolicyEs": "Perros con correa bienvenidos en el sendero abierto del acantilado",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "tip": "Go for sunset views but keep dogs leashed and well back from unfenced cliff edges, and turn back before dark",
+          "tipFr": "Venez pour le coucher du soleil, mais gardez les chiens en laisse et bien à l'écart des bords de falaise non protégés, et rebroussez chemin avant la nuit",
+          "tipEs": "Ve para las vistas del atardecer, pero mantén a los perros con correa y bien alejados de los bordes sin proteger del acantilado, y regresa antes de que oscurezca",
+          "googleMapsUrl": "https://maps.google.com/?q=Keri+Lighthouse+Mizithres+Zakynthos",
+          "descriptionPt": "A aldeia de Keri, no sudoeste, é a porta de entrada para um dos miradouros costeiros mais dramáticos da ilha, debruçado sobre os dois ilhéus rochosos de Mizithres e o azul profundo do mar Jónico. O caminho da falésia da aldeia até ao farol de Keri é um passeio ao ar livre acessível a cães à trela, sem edifícios para entrar, apenas vastas vistas de mar.",
+          "dogPolicyPt": "Cães à trela bem-vindos no caminho aberto da falésia",
+          "admissionFeePt": "Gratuito",
+          "tipPt": "Vá para as vistas do pôr do sol, mas mantenha os cães à trela e bem afastados das bordas da falésia sem vedação, e volte para trás antes de escurecer"
+        }
+      ],
+      "tipsEn": [
+        "Most of Zakynthos' sights are outdoor squares, viewpoints, and village walks, all leashed-dog-friendly.",
+        "Museums and churches generally do not allow dogs, so plan indoor stops for when your dog can rest in shade.",
+        "Keep clear of cliff edges at the west-coast viewpoints, where paths are often unfenced."
+      ],
+      "tipsFr": [
+        "La plupart des sites de Zakynthos sont des places, points de vue et balades de village en plein air, tous accessibles aux chiens en laisse.",
+        "Les musées et églises n'admettent généralement pas les chiens : prévoyez les visites intérieures quand votre chien peut se reposer à l'ombre.",
+        "Restez à l'écart des bords de falaise aux points de vue de la côte ouest, où les sentiers sont souvent sans protection."
+      ],
+      "tipsEs": [
+        "La mayoría de los lugares de Zakynthos son plazas, miradores y paseos de pueblo al aire libre, todos aptos para perros con correa.",
+        "Los museos e iglesias no suelen admitir perros, así que planifica las paradas interiores para cuando tu perro pueda descansar a la sombra.",
+        "Mantente alejado de los bordes del acantilado en los miradores de la costa oeste, donde los senderos suelen carecer de protección."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there dog-friendly things to do in Zakynthos?",
+          "a": "Yes. The best sights are outdoors and leashed-dog-friendly, including Solomos Square in Zakynthos Town, the Bochali viewpoint and Venetian castle grounds, and the Keri clifftop walk to the lighthouse. Indoor museums and churches usually do not admit dogs."
+        },
+        {
+          "q": "Can I take my dog to Navagio (Shipwreck) Beach?",
+          "a": "Navagio is only reachable by boat and from a clifftop viewing platform. Dogs are not suited to the beach itself, but the viewpoint above can be visited on a leash. Boat operators vary on pets, so confirm in advance, and never take a dog onto a turtle-protection beach."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des activités à faire avec son chien à Zakynthos ?",
+          "a": "Oui. Les plus beaux sites sont en plein air et accessibles aux chiens en laisse : la place Solomos à Zakynthos-Ville, le point de vue de Bochali et l'enceinte du château vénitien, et la balade de falaise de Keri jusqu'au phare. Les musées et églises n'admettent généralement pas les chiens."
+        },
+        {
+          "q": "Puis-je emmener mon chien à la plage de Navagio (l'épave) ?",
+          "a": "Navagio n'est accessible que par bateau et depuis une plateforme d'observation en haut de falaise. La plage elle-même ne convient pas aux chiens, mais le point de vue au-dessus se visite en laisse. Les conditions varient selon les opérateurs de bateaux : confirmez à l'avance, et n'emmenez jamais un chien sur une plage de protection des tortues."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay cosas que hacer con perro en Zakynthos?",
+          "a": "Sí. Los mejores lugares son al aire libre y aptos para perros con correa, como la plaza Solomos en Zakynthos Ciudad, el mirador de Bochali y el recinto del castillo veneciano, y el paseo del acantilado de Keri hasta el faro. Los museos e iglesias en interior no suelen admitir perros."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a la playa de Navagio (el Naufragio)?",
+          "a": "A Navagio solo se llega en barco y desde una plataforma mirador en lo alto del acantilado. La playa en sí no es adecuada para perros, pero el mirador de arriba se puede visitar con correa. Las condiciones varían según el operador de barco, así que confirma con antelación, y nunca lleves un perro a una playa de protección de tortugas."
+        }
+      ],
+      "titlePt": "Atrações dog-friendly em Zakynthos",
+      "introPt": "A maioria dos melhores pontos de interesse de Zakynthos é ao ar livre, o que é ideal para um cão à trela: as elegantes praças da cidade de Zakynthos, a aldeia no alto de Bochali com o seu castelo veneziano e os dramáticos miradouros da costa oeste. Os museus e igrejas em geral não admitem cães, por isso planeie-os para momentos em que o seu cão possa descansar à sombra. Como sempre no verão, marque as visitas para o início da manhã ou para a noite.",
+      "tipsPt": [
+        "A maioria dos pontos de interesse de Zakynthos são praças, miradouros e passeios de aldeia ao ar livre, todos acessíveis a cães à trela.",
+        "Os museus e igrejas em geral não permitem cães, por isso planeie as paragens interiores para quando o seu cão possa descansar à sombra.",
+        "Mantenha-se afastado das bordas das falésias nos miradouros da costa oeste, onde os caminhos são muitas vezes sem vedação."
+      ],
+      "faqsPt": [
+        {
+          "q": "Há coisas dog-friendly para fazer em Zakynthos?",
+          "a": "Sim. Os melhores pontos de interesse são ao ar livre e acessíveis a cães à trela, incluindo a Praça Solomos na cidade de Zakynthos, o miradouro de Bochali e o recinto do castelo veneziano, e o passeio da falésia de Keri até ao farol. Os museus e igrejas interiores geralmente não admitem cães."
+        },
+        {
+          "q": "Posso levar o meu cão à praia de Navagio (do Naufrágio)?",
+          "a": "Navagio só é acessível de barco e a partir de uma plataforma de observação no alto da falésia. A praia em si não é adequada para cães, mas o miradouro por cima pode ser visitado à trela. As condições variam consoante o operador de barco, por isso confirme com antecedência, e nunca leve um cão para uma praia de proteção das tartarugas."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Boarding in Zakynthos",
+      "titleFr": "Garde d'animaux et pension pour chiens à Zakynthos",
+      "titleEs": "Cuidado de mascotas y alojamiento canino en Zakynthos",
+      "introEn": "Formal pet-sitting and boarding options on Zakynthos are limited and largely organised through online platforms and a few local home-boarders, so book well ahead for summer. International platforms such as Pawshake and PetBacker list sitters and home boarders on the island, and a sitter is invaluable for the days you visit indoor sights or the turtle beaches where dogs are banned. Always verify reviews and meet the sitter before committing.",
+      "introFr": "Les options officielles de garde et de pension pour animaux à Zakynthos sont limitées et organisées surtout via des plateformes en ligne et quelques particuliers, réservez donc bien à l'avance pour l'été. Des plateformes internationales comme Pawshake et PetBacker répertorient des gardiens et des pensions à domicile sur l'île, et un gardien est précieux pour les journées où vous visitez des sites intérieurs ou les plages aux tortues où les chiens sont interdits. Vérifiez toujours les avis et rencontrez le gardien avant de vous engager.",
+      "introEs": "Las opciones formales de cuidado y alojamiento de mascotas en Zakynthos son limitadas y se organizan sobre todo a través de plataformas en línea y algunos cuidadores locales en su casa, así que reserva con mucha antelación para el verano. Plataformas internacionales como Pawshake y PetBacker listan cuidadores y alojamientos en casa en la isla, y un cuidador es muy valioso para los días en que visitas lugares interiores o las playas de tortugas donde los perros están prohibidos. Verifica siempre las reseñas y conoce al cuidador antes de comprometerte.",
+      "places": [
+        {
+          "name": "Pawshake Zakynthos",
+          "website": "https://www.pawshake.com/",
+          "description": "Pawshake is an international pet-sitting platform connecting owners with local home boarders, dog walkers, and day carers, with sitters listed across Zakynthos. Profiles show reviews, rates, and the services offered, and bookings are covered by the platform's safety measures.",
+          "descriptionFr": "Pawshake est une plateforme internationale de garde d'animaux qui met en relation les propriétaires avec des pensions à domicile, des promeneurs et des gardiens à la journée, avec des gardiens répertoriés dans tout Zakynthos. Les profils affichent les avis, les tarifs et les services proposés, et les réservations sont couvertes par les mesures de sécurité de la plateforme.",
+          "descriptionEs": "Pawshake es una plataforma internacional de cuidado de mascotas que conecta a los dueños con alojamientos en casa, paseadores y cuidadores de día, con cuidadores listados por todo Zakynthos. Los perfiles muestran reseñas, tarifas y los servicios ofrecidos, y las reservas están cubiertas por las medidas de seguridad de la plataforma.",
+          "serviceType": "Home boarding, dog walking, day care (platform)",
+          "serviceTypeFr": "Pension à domicile, promenade, garde de jour (plateforme)",
+          "serviceTypeEs": "Alojamiento en casa, paseo, guardería de día (plataforma)",
+          "pricePerDay": "Varies by sitter",
+          "languages": ["English", "Greek"],
+          "tip": "Book early for July and August and read recent reviews carefully. Arrange a meet-and-greet before your first booking",
+          "tipFr": "Réservez tôt pour juillet et août et lisez attentivement les avis récents. Organisez une rencontre avant la première réservation",
+          "tipEs": "Reserva pronto para julio y agosto y lee con atención las reseñas recientes. Organiza un encuentro previo antes de la primera reserva",
+          "descriptionPt": "A Pawshake é uma plataforma internacional de pet-sitting que liga os donos a pensões em casa, passeadores e cuidadores de dia, com cuidadores listados por toda a Zakynthos. Os perfis mostram avaliações, tarifas e os serviços oferecidos, e as reservas estão cobertas pelas medidas de segurança da plataforma.",
+          "serviceTypePt": "Pensão em casa, passeio de cães, creche de dia (plataforma)",
+          "tipPt": "Reserve cedo para julho e agosto e leia com atenção as avaliações recentes. Combine um encontro antes da primeira reserva"
+        },
+        {
+          "name": "PetBacker Zakynthos",
+          "website": "https://www.petbacker.com/",
+          "description": "PetBacker is a global pet-care marketplace listing home boarders and sitters on Zakynthos, including small home-based pet hotels near Zakynthos Town. Bookings come with insurance, payment protection, and support, which adds reassurance when using a sitter abroad.",
+          "descriptionFr": "PetBacker est une place de marché mondiale de garde d'animaux qui répertorie des pensions à domicile et des gardiens à Zakynthos, dont de petits hôtels pour animaux à domicile près de Zakynthos-Ville. Les réservations incluent une assurance, une protection des paiements et une assistance, ce qui rassure lorsqu'on utilise un gardien à l'étranger.",
+          "descriptionEs": "PetBacker es un mercado global de cuidado de mascotas que lista alojamientos en casa y cuidadores en Zakynthos, incluidos pequeños hoteles para mascotas en casas cerca de Zakynthos Ciudad. Las reservas incluyen seguro, protección de pago y soporte, lo que aporta tranquilidad al usar un cuidador en el extranjero.",
+          "serviceType": "Home boarding, pet hotel, sitting (platform)",
+          "serviceTypeFr": "Pension à domicile, hôtel pour animaux, garde (plateforme)",
+          "serviceTypeEs": "Alojamiento en casa, hotel para mascotas, cuidado (plataforma)",
+          "pricePerDay": "Varies by host",
+          "languages": ["English", "Greek"],
+          "tip": "Confirm exactly where the boarder is based, as some listings are in villages a drive from the main resorts",
+          "tipFr": "Confirmez où se situe précisément la pension, certaines annonces se trouvant dans des villages à distance de voiture des stations principales",
+          "tipEs": "Confirma dónde está exactamente el alojamiento, ya que algunos anuncios están en pueblos a cierta distancia en coche de los centros turísticos principales",
+          "descriptionPt": "A PetBacker é um mercado global de cuidados para animais que lista pensões em casa e cuidadores em Zakynthos, incluindo pequenos hotéis para animais em casas perto da cidade de Zakynthos. As reservas vêm com seguro, proteção de pagamento e apoio, o que dá tranquilidade ao usar um cuidador no estrangeiro.",
+          "serviceTypePt": "Pensão em casa, hotel para animais, guarda (plataforma)",
+          "tipPt": "Confirme exatamente onde fica a pensão, pois alguns anúncios estão em aldeias a alguma distância de carro das principais estâncias"
+        }
+      ],
+      "tipsEn": [
+        "Book any sitter or boarder well ahead for July and August, when island demand peaks.",
+        "A trusted sitter solves the turtle-beach and indoor-museum problem, giving your dog shade and company while you visit pet-free sights.",
+        "Always meet the sitter and see where your dog will stay before leaving them, especially in peak heat."
+      ],
+      "tipsFr": [
+        "Réservez tout gardien ou pension bien à l'avance pour juillet et août, quand la demande sur l'île est à son maximum.",
+        "Un gardien de confiance résout le problème des plages aux tortues et des musées intérieurs, offrant à votre chien ombre et compagnie pendant vos visites sans animaux.",
+        "Rencontrez toujours le gardien et voyez où votre chien séjournera avant de le laisser, surtout en forte chaleur."
+      ],
+      "tipsEs": [
+        "Reserva cualquier cuidador o alojamiento con mucha antelación para julio y agosto, cuando la demanda en la isla es máxima.",
+        "Un cuidador de confianza resuelve el problema de las playas de tortugas y los museos interiores, dando a tu perro sombra y compañía mientras visitas lugares donde no se admiten mascotas.",
+        "Conoce siempre al cuidador y mira dónde se quedará tu perro antes de dejarlo, sobre todo con mucho calor."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I find a dog sitter in Zakynthos?",
+          "a": "Yes, though options are limited and mostly online. Platforms such as Pawshake and PetBacker list home boarders, sitters, and dog walkers across the island. Book early for summer and arrange a meet-and-greet before committing."
+        },
+        {
+          "q": "Why might I need a pet sitter in Zakynthos?",
+          "a": "A sitter is useful for days when you visit places dogs cannot go, especially the National Marine Park turtle beaches and indoor museums, and to keep your dog cool and supervised during the hottest hours rather than left alone."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je trouver un gardien pour chien à Zakynthos ?",
+          "a": "Oui, même si les options sont limitées et surtout en ligne. Des plateformes comme Pawshake et PetBacker répertorient des pensions à domicile, des gardiens et des promeneurs dans toute l'île. Réservez tôt pour l'été et organisez une rencontre avant de vous engager."
+        },
+        {
+          "q": "Pourquoi aurais-je besoin d'un gardien à Zakynthos ?",
+          "a": "Un gardien est utile pour les jours où vous visitez des lieux interdits aux chiens, notamment les plages aux tortues du Parc National Marin et les musées intérieurs, et pour garder votre chien au frais et surveillé aux heures les plus chaudes plutôt que seul."
+        }
+      ],
+      "titlePt": "Pet sitting e alojamento de cães em Zakynthos",
+      "introPt": "As opções formais de pet-sitting e alojamento em Zakynthos são limitadas e organizadas sobretudo através de plataformas online e de alguns cuidadores locais em casa, por isso reserve com muita antecedência para o verão. Plataformas internacionais como a Pawshake e a PetBacker listam cuidadores e pensões em casa na ilha, e um cuidador é valiosíssimo para os dias em que visita pontos de interesse interiores ou as praias das tartarugas onde os cães são proibidos. Verifique sempre as avaliações e conheça o cuidador antes de avançar.",
+      "tipsPt": [
+        "Reserve qualquer cuidador ou pensão com muita antecedência para julho e agosto, quando a procura na ilha atinge o pico.",
+        "Um cuidador de confiança resolve o problema das praias das tartarugas e dos museus interiores, dando ao seu cão sombra e companhia enquanto visita pontos de interesse onde não entram animais.",
+        "Conheça sempre o cuidador e veja onde o seu cão vai ficar antes de o deixar, sobretudo no pico do calor."
+      ],
+      "faqsPt": [
+        {
+          "q": "Consigo encontrar um cuidador de cães em Zakynthos?",
+          "a": "Sim, embora as opções sejam limitadas e sobretudo online. Plataformas como a Pawshake e a PetBacker listam pensões em casa, cuidadores e passeadores por toda a ilha. Reserve cedo para o verão e combine um encontro antes de avançar."
+        },
+        {
+          "q": "Porque é que eu poderia precisar de um cuidador em Zakynthos?",
+          "a": "Um cuidador é útil para os dias em que visita locais onde os cães não podem ir, sobretudo as praias das tartarugas do Parque Nacional Marinho e os museus interiores, e para manter o seu cão fresco e vigiado nas horas de maior calor em vez de sozinho."
+        }
+      ]
+    }
+  }
+}

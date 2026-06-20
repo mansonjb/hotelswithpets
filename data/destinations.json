@@ -21091,5 +21091,305 @@
       }
     },
     "iata": "SPU"
+  },
+  {
+    "slug": "paphos",
+    "name": "Paphos",
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "flag": "🇨🇾",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/paphos.jpg",
+    "intro": "Paphos pairs UNESCO-listed antiquity with a sun-soaked coastline, where a renovated seafront broadwalk links the harbour castle to the Tombs of the Kings. Mild winters and a long, dog-walkable promenade make it a rewarding year-round and summer destination with a pet, provided you manage the Cyprus heat.",
+    "lat": 34.772,
+    "lng": 32.4297,
+    "weather": {
+      "jan": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 17,
+        "desc": "Mild & bright",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 19,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 22,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 25,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 29,
+        "desc": "Hot summer",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 31,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 32,
+        "desc": "Peak heat",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 30,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 27,
+        "desc": "Warm autumn",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 23,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 19,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "PFO"
+  },
+  {
+    "slug": "olbia",
+    "name": "Olbia",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/olbia.jpg",
+    "intro": "Olbia is the lively gateway to Sardinia's Costa Smeralda, where a walkable granite old town meets the turquoise Gulf of Olbia. With a designated dog beach at Le Saline and dog-friendly terraces along Corso Umberto, it makes an easy, sun-soaked base for a pet-friendly summer on the island.",
+    "lat": 40.9236,
+    "lng": 9.4983,
+    "weather": {
+      "jan": {
+        "temp": 14,
+        "desc": "Mild and changeable",
+        "icon": "🌥️"
+      },
+      "feb": {
+        "temp": 15,
+        "desc": "Cool and breezy",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 17,
+        "desc": "Mild spring days",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 19,
+        "desc": "Warm and pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 29,
+        "desc": "Hot and dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 32,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 32,
+        "desc": "Peak summer heat",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Hot, warm sea",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Warm and mild",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild and wetter",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 15,
+        "desc": "Cool and rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "OLB"
+  },
+  {
+    "slug": "budva",
+    "name": "Budva",
+    "country": "Montenegro",
+    "countryCode": "ME",
+    "flag": "🇲🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/budva.jpg",
+    "intro": "Budva is Montenegro's buzzing Adriatic resort capital, where a walled medieval Stari Grad meets a long ribbon of beaches and a lively seafront promenade. For dog owners it blends easy coastal walks, dedicated pet beach zones and relaxed terrace dining, all under a hot Mediterranean summer sun.",
+    "lat": 42.2911,
+    "lng": 18.84,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Cool & changeable",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild spring",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 31,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 31,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 27,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Mild & mellow",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Cooler & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "TIV"
+  },
+  {
+    "slug": "paros",
+    "name": "Paros",
+    "country": "Greece",
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/paros.jpg",
+    "intro": "Paros is one of the most relaxed Cyclades islands for dog owners, pairing the Venetian-flavoured fishing harbour of Naoussa and the old-town lanes of Parikia with informal dog-welcoming coves and shaded marble trails. The real planning is around the summer heat and the muzzle-and-cabin ferry rules that bring you to the island.",
+    "lat": 37.0853,
+    "lng": 25.15,
+    "weather": {
+      "jan": {
+        "temp": 14,
+        "desc": "Mild and windy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Cool and wet",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 16,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 19,
+        "desc": "Warm and pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Hot and dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Very hot, windy",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Very hot, windy",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 27,
+        "desc": "Hot, gentler",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 23,
+        "desc": "Warm autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 19,
+        "desc": "Mild and wetter",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 16,
+        "desc": "Mild and rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "PAS"
   }
 ]

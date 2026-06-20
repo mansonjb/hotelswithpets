@@ -21,6 +21,26 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    paphos: {
+      personality: `one of the most sun-soaked, history-rich coastal cities in Cyprus, where the harbour and its medieval castle, the Kato Paphos archaeological park, the coastal path toward Coral Bay and the municipal beach all sit within an easy walk`,
+      highlight: `the Paphos Coastal Broadwalk, the Old Town Municipal Park, and the shaded Avakas Gorge trail`,
+      area: `Kato Paphos, the Old Town (Ktima), and Coral Bay`,
+    },
+    olbia: {
+      personality: `the sun-soaked gateway to Sardinia's Costa Smeralda, where the granite basilica of San Simplicio, the pedestrian Corso Umberto and the calm Gulf of Olbia open onto the turquoise Pittulongu beaches`,
+      highlight: `Le Saline dog beach, Parco Fausto Noce and the Sa Testa sacred well`,
+      area: `the historic centre around Corso Umberto, the Pittulongu seafront and the Costa Smeralda coast`,
+    },
+    budva: {
+      personality: `a buzzing Adriatic resort town wrapped around the walled Stari Grad old town, the long Slovenska Plaza beach strip, the clifftop Mogren coastal path and the postcard view of nearby Sveti Stefan`,
+      highlight: `the Mogren Coastal Path, the Slovenska Plaza promenade, and the Stari Grad old-town lanes`,
+      area: `Stari Grad, Slovenska Plaza, and Becici`,
+    },
+    paros: {
+      personality: `one of the most relaxed Cyclades islands for dog owners, where you wander the Parikia harbour and the Panagia Ekatontapiliani church courtyard, the Naoussa fishing village and the granite coves of Kolymbithres before the cooler marble trails above Lefkes`,
+      highlight: `the Byzantine trail from Lefkes, the Naoussa harbour walk and the granite coves of Kolymbithres`,
+      area: `Parikia, the Naoussa fishing village and the Golden Beach and Kolymbithres coast`,
+    },
     cefalu: {
       personality: `one of the most photogenic seaside towns in Sicily`,
       highlight: `the Norman cathedral, the La Rocca headland, and the seafront Lungomare`,
@@ -1429,6 +1449,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    paphos: {
+      personality: `l'une des villes côtières les plus ensoleillées et riches en histoire de Chypre, où le port et son château médiéval, le parc archéologique de Kato Paphos, le sentier côtier vers Coral Bay et la plage municipale sont tous accessibles à pied`,
+      highlight: `la promenade côtière de Paphos, le parc municipal de la vieille ville et le sentier ombragé de la gorge d'Avakas`,
+      area: `Kato Paphos, la vieille ville (Ktima) et Coral Bay`,
+    },
+    olbia: {
+      personality: `la porte d'entrée ensoleillée de la Costa Smeralda sarde, où la basilique de granit San Simplicio, le Corso Umberto piéton et le paisible golfe d'Olbia s'ouvrent sur les plages turquoise de Pittulongu`,
+      highlight: `la plage à chiens de Le Saline, le Parco Fausto Noce et le puits sacré de Sa Testa`,
+      area: `le centre historique autour du Corso Umberto, le front de mer de Pittulongu et la côte de la Costa Smeralda`,
+    },
+    budva: {
+      personality: `une station balnéaire animée de l'Adriatique blottie autour de la vieille ville fortifiée de Stari Grad, de la longue plage de Slovenska Plaza, du sentier côtier de falaise de Mogren et de la vue carte postale sur Sveti Stefan voisine`,
+      highlight: `le sentier côtier de Mogren, la promenade de Slovenska Plaza et les ruelles de la vieille ville de Stari Grad`,
+      area: `Stari Grad, Slovenska Plaza et Becici`,
+    },
+    paros: {
+      personality: `l'une des iles des Cyclades les plus detendues pour les proprietaires de chiens, ou l'on flane sur le port de Parikia et dans la cour de l'eglise Panagia Ekatontapiliani, au village de pecheurs de Naoussa et dans les criques de granit de Kolymbithres avant les sentiers de marbre plus frais au-dessus de Lefkes`,
+      highlight: `le chemin byzantin depuis Lefkes, la promenade du port de Naoussa et les criques de granit de Kolymbithres`,
+      area: `Parikia, le village de pecheurs de Naoussa et la cote de Golden Beach et Kolymbithres`,
+    },
     cefalu: {
       personality: `l'une des stations balnéaires les plus photogéniques de Sicile`,
       highlight: `la cathédrale normande, le promontoire de La Rocca et le Lungomare en bord de mer`,
@@ -2836,6 +2876,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    paphos: {
+      personality: `una de las ciudades costeras más soleadas y ricas en historia de Chipre, donde el puerto y su castillo medieval, el parque arqueológico de Kato Pafos, el camino costero hacia Coral Bay y la playa municipal quedan todos a un paseo`,
+      highlight: `el paseo costero de Pafos, el parque municipal del casco antiguo y el sendero a la sombra de la garganta de Avakas`,
+      area: `Kato Pafos, el casco antiguo (Ktima) y Coral Bay`,
+    },
+    olbia: {
+      personality: `la soleada puerta de entrada a la Costa Smeralda sarda, donde la basílica de granito de San Simplicio, el Corso Umberto peatonal y el tranquilo golfo de Olbia se abren a las playas turquesa de Pittulongu`,
+      highlight: `la playa canina de Le Saline, el Parco Fausto Noce y el pozo sagrado de Sa Testa`,
+      area: `el centro histórico en torno al Corso Umberto, el paseo marítimo de Pittulongu y la costa de la Costa Smeralda`,
+    },
+    budva: {
+      personality: `una animada localidad turística del Adriático en torno al casco antiguo amurallado de Stari Grad, la larga playa de Slovenska Plaza, el sendero costero de acantilado de Mogren y la vista de postal de la cercana Sveti Stefan`,
+      highlight: `el sendero costero de Mogren, el paseo de Slovenska Plaza y las callejuelas del casco antiguo de Stari Grad`,
+      area: `Stari Grad, Slovenska Plaza y Becici`,
+    },
+    paros: {
+      personality: `una de las islas mas relajadas de las Cicladas para los duenos de perros, donde se pasea por el puerto de Parikia y el patio de la iglesia Panagia Ekatontapiliani, por el pueblo pesquero de Naoussa y las calas de granito de Kolymbithres antes de los senderos de marmol mas frescos sobre Lefkes`,
+      highlight: `el sendero bizantino desde Lefkes, el paseo del puerto de Naoussa y las calas de granito de Kolymbithres`,
+      area: `Parikia, el pueblo pesquero de Naoussa y la costa de Golden Beach y Kolymbithres`,
+    },
     cefalu: {
       personality: `una de las localidades costeras más fotogénicas de Sicilia`,
       highlight: `la catedral normanda, el promontorio de La Rocca y el Lungomare junto al mar`,
@@ -4243,6 +4303,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    paphos: {
+      personality: `uma das cidades costeiras mais solarengas e ricas em história de Chipre, onde o porto e o seu castelo medieval, o parque arqueológico de Kato Pafos, o caminho costeiro rumo a Coral Bay e a praia municipal ficam todos a uma curta caminhada`,
+      highlight: `o passeio costeiro de Pafos, o parque municipal da cidade velha e o trilho sombreado do desfiladeiro de Avakas`,
+      area: `Kato Pafos, a cidade velha (Ktima) e Coral Bay`,
+    },
+    olbia: {
+      personality: `a soalheira porta de entrada para a Costa Smeralda sarda, onde a basílica de granito de San Simplicio, o Corso Umberto pedonal e o tranquilo Golfo de Olbia se abrem para as praias turquesa de Pittulongu`,
+      highlight: `a praia para cães de Le Saline, o Parco Fausto Noce e o poço sagrado de Sa Testa`,
+      area: `o centro histórico em redor do Corso Umberto, a frente de mar de Pittulongu e a costa da Costa Smeralda`,
+    },
+    budva: {
+      personality: `uma animada estância balnear do Adriático em torno da cidade velha muralhada de Stari Grad, da longa praia de Slovenska Plaza, do trilho costeiro de falésia de Mogren e da vista de postal da vizinha Sveti Stefan`,
+      highlight: `o trilho costeiro de Mogren, a marginal de Slovenska Plaza e as ruelas da cidade velha de Stari Grad`,
+      area: `Stari Grad, Slovenska Plaza e Becici`,
+    },
+    paros: {
+      personality: `uma das ilhas mais descontraidas das Ciclades para os donos de caes, onde se passeia pelo porto de Parikia e pelo patio da igreja Panagia Ekatontapiliani, pela vila piscatoria de Naoussa e pelas enseadas de granito de Kolymbithres antes dos trilhos de marmore mais frescos acima de Lefkes`,
+      highlight: `o trilho bizantino a partir de Lefkes, o passeio do porto de Naoussa e as enseadas de granito de Kolymbithres`,
+      area: `Parikia, a vila piscatoria de Naoussa e a costa de Golden Beach e Kolymbithres`,
+    },
     cefalu: {
       personality: `uma das vilas balneares mais fotogénicas da Sicília`,
       highlight: `a catedral normanda, o promontório de La Rocca e o Lungomare à beira-mar`,

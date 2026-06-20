@@ -39217,5 +39217,541 @@
       "Central location near Makarska Beach",
       "Air-conditioned rooms with terraces"
     ]
+  },
+  {
+    "id": "paphos-1",
+    "slug": "almyra-paphos",
+    "name": "Almyra",
+    "destinationSlug": "paphos",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1850,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Almyra+Paphos",
+    "petFee": 25,
+    "petPolicy": "Almyra welcomes one dog of up to 15 kg in designated dog-friendly rooms for 25 EUR per night, with food and water bowls and a private dog park on site. Dogs cannot be left unattended in rooms. Please confirm with the property when booking.",
+    "address": "Poseidonos Avenue, 8042 Kato Paphos, Cyprus",
+    "neighborhood": "Kato Paphos",
+    "highlights": [
+      "Private on-site dog park",
+      "Seafront luxury rooms",
+      "Dog bowls and amenities provided"
+    ]
+  },
+  {
+    "id": "paphos-2",
+    "slug": "annabelle-paphos",
+    "name": "Annabelle",
+    "destinationSlug": "paphos",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2100,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Annabelle+Paphos",
+    "petFee": 25,
+    "petPolicy": "Annabelle allows up to two dogs of up to 15 kg in designated rooms for 25 EUR per pet, per night. Cats are not accepted and pets cannot be left unattended in rooms. Please confirm with the property when booking.",
+    "address": "Poseidonos Avenue, 8042 Kato Paphos, Cyprus",
+    "neighborhood": "Kato Paphos",
+    "highlights": [
+      "Harbour-front 5-star setting",
+      "Two outdoor pools",
+      "Up to two dogs welcome"
+    ]
+  },
+  {
+    "id": "paphos-3",
+    "slug": "minthis-resort-paphos",
+    "name": "Minthis Resort",
+    "destinationSlug": "paphos",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 720,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Minthis+Resort+Paphos",
+    "petFee": 25,
+    "petPolicy": "Minthis Resort welcomes one well-trained dog of up to 10 kg in the Garden Spa suite category for 25 EUR per night, with a dog bed and food bowls provided. Dogs must be leashed on resort grounds and not left unattended. Please confirm with the property when booking.",
+    "address": "Minthis Avenue, Tsada, 8540 Paphos, Cyprus",
+    "neighborhood": "Tsada (hillside, near Paphos)",
+    "highlights": [
+      "Hillside resort in a former monastery estate",
+      "Dog bed and bowls provided",
+      "Spa and golf surroundings"
+    ]
+  },
+  {
+    "id": "paphos-4",
+    "slug": "thalassa-boutique-hotel-spa-paphos",
+    "name": "Thalassa Boutique Hotel & Spa",
+    "destinationSlug": "paphos",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 640,
+    "priceFrom": 200,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Thalassa+Boutique+Hotel+Paphos",
+    "petFee": 15,
+    "petPolicy": "Thalassa Boutique Hotel & Spa accepts one dog of up to 10 kg per room for 15 EUR per day, with proof of up-to-date vaccinations required. Other pets are not accepted and dogs are not allowed on beds or furniture. Please confirm with the property when booking.",
+    "address": "Akamantos Avenue, Coral Bay, 8575 Peyia, Paphos, Cyprus",
+    "neighborhood": "Coral Bay (Peyia)",
+    "highlights": [
+      "Boutique sea-view spa hotel",
+      "Near Coral Bay coast",
+      "Small dogs welcome"
+    ]
+  },
+  {
+    "id": "paphos-5",
+    "slug": "elysia-park-paphos",
+    "name": "Elysia Park",
+    "destinationSlug": "paphos",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 410,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Elysia+Park+Paphos",
+    "petFee": 15,
+    "petPolicy": "Elysia Park welcomes one dog of under 10 kg in selected two-bedroom suites and garden residences for 15 EUR per day, with a refundable damage deposit taken at check-in. A water bowl is provided in pet accommodation. Please confirm with the property when booking.",
+    "address": "Konstantias, 8061 Paphos, Cyprus",
+    "neighborhood": "Paphos City",
+    "highlights": [
+      "Spacious apartment-style suites",
+      "Garden residences for pets",
+      "Refundable pet deposit, water bowl provided"
+    ]
+  },
+  {
+    "id": "olbia-1",
+    "slug": "tramas-hotel-spa-olbia",
+    "name": "Tramas Hotel & Spa",
+    "destinationSlug": "olbia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 103,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Tramas+Hotel+Spa+Olbia+Sardinia",
+    "petFee": 20,
+    "petPolicy": "Pets are allowed, including dogs and cats, for a fee of around 20 EUR per pet per night. Please confirm with the property when booking.",
+    "address": "Olbia, Sardinia",
+    "neighborhood": "Olbia",
+    "highlights": [
+      "Spa and wellness facilities",
+      "Dogs and cats welcome",
+      "Modern 4-star comfort"
+    ]
+  },
+  {
+    "id": "olbia-2",
+    "slug": "hotel-mare-blue-olbia",
+    "name": "Hotel Mare Blue",
+    "destinationSlug": "olbia",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 260,
+    "priceFrom": 91,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Mare+Blue+Olbia+Sardinia",
+    "petFee": 0,
+    "petPolicy": "Small dogs (up to around 10 kg) are accepted on request at this beachfront hotel in Pittulongu. Please confirm with the property when booking.",
+    "address": "Pittulongu, Olbia, Sardinia",
+    "neighborhood": "Pittulongu",
+    "highlights": [
+      "Beachfront in Pittulongu",
+      "Small dogs welcome",
+      "Close to Pittulongu beach"
+    ]
+  },
+  {
+    "id": "olbia-3",
+    "slug": "hotel-de-plam-olbia",
+    "name": "Hotel De Plam",
+    "destinationSlug": "olbia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 7.3,
+    "reviewCount": 2381,
+    "priceFrom": 109,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+De+Plam+Olbia+Sardinia",
+    "petFee": 0,
+    "petPolicy": "Pets are accepted on request and additional costs may apply, so confirm the arrangement in advance. Please confirm with the property when booking.",
+    "address": "Olbia centre, Sardinia",
+    "neighborhood": "Olbia centre",
+    "highlights": [
+      "Central location near the port",
+      "Pets accepted on request",
+      "Reliable 3-star base"
+    ]
+  },
+  {
+    "id": "olbia-4",
+    "slug": "antica-caresi-bb-olbia",
+    "name": "Antica Caresi B&B",
+    "destinationSlug": "olbia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 88,
+    "priceFrom": 64,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Antica+Caresi+B%26B+Olbia+Sardinia",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed, to be arranged with the hosts, who keep friendly resident dogs of their own. Please confirm with the property when booking.",
+    "address": "Olbia, Sardinia",
+    "neighborhood": "Olbia",
+    "highlights": [
+      "Top-rated welcoming hosts",
+      "Resident friendly dogs",
+      "Great-value central B&B"
+    ]
+  },
+  {
+    "id": "olbia-5",
+    "slug": "gemma-di-gallura-charme-bb-olbia",
+    "name": "Gemma Di Gallura Charme B&B",
+    "destinationSlug": "olbia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 80,
+    "priceFrom": 76,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Gemma+Di+Gallura+Charme+B%26B+Olbia+Sardinia",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed with no extra charge at this charming B&B near the centre. Please confirm with the property when booking.",
+    "address": "Olbia, Sardinia",
+    "neighborhood": "Olbia",
+    "highlights": [
+      "Pets stay free",
+      "Charming suite with Jacuzzi",
+      "Attentive owners near the centre"
+    ]
+  },
+  {
+    "id": "budva-1",
+    "slug": "dukley-hotel-resort-budva",
+    "name": "Dukley Hotel & Resort",
+    "destinationSlug": "budva",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 480,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Dukley+Hotel+Resort+Budva",
+    "petFee": 20,
+    "petPolicy": "Pets are welcome with a charge of around 20 EUR per pet per day, with a maximum weight limit (about 10 kg). Cats and dogs are accepted. Please confirm with the property when booking.",
+    "address": "Jadranski put bb, Zavala, Budva",
+    "neighborhood": "Zavala",
+    "highlights": [
+      "Private sandy beach and beach club",
+      "Dog-friendly beach bar on site",
+      "Sea-view rooms and resort gardens"
+    ]
+  },
+  {
+    "id": "budva-2",
+    "slug": "boutique-hotel-shell-budva",
+    "name": "Boutique Hotel Shell",
+    "destinationSlug": "budva",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 210,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Boutique+Hotel+Shell+Budva",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request and may be subject to a charge. Dogs are warmly welcomed. Please confirm with the property when booking.",
+    "address": "Rafailovici, Budva",
+    "neighborhood": "Rafailovici",
+    "highlights": [
+      "Modern boutique rooms near Rafailovici beach",
+      "Free beach amenities included",
+      "Walking distance to the sea"
+    ]
+  },
+  {
+    "id": "budva-3",
+    "slug": "apartments-mitende-budva",
+    "name": "Apartments Mitende",
+    "destinationSlug": "budva",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 9.2,
+    "reviewCount": 160,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Apartments+Mitende+Becici+Budva",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed by prior arrangement with the property at no extra charge. Please confirm with the property when booking.",
+    "address": "Alekse Santica 15, Becici, Budva",
+    "neighborhood": "Becici",
+    "highlights": [
+      "Self-catering apartments in Becici",
+      "Garage parking and free WiFi",
+      "About 2 km from Budva centre"
+    ]
+  },
+  {
+    "id": "budva-4",
+    "slug": "apartments-masa-budva",
+    "name": "Apartments Masa",
+    "destinationSlug": "budva",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 95,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Apartments+Masa+Budva",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request and charges may apply. Please confirm with the property when booking.",
+    "address": "Budva centre",
+    "neighborhood": "Budva centre",
+    "highlights": [
+      "Walking distance to Slovenska and Becici beaches",
+      "Near the Old Town and promenade",
+      "Self-catering apartments with WiFi"
+    ]
+  },
+  {
+    "id": "budva-5",
+    "slug": "hostel-budva",
+    "name": "Hostel Budva",
+    "destinationSlug": "budva",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 2,
+    "rating": 9.2,
+    "reviewCount": 340,
+    "priceFrom": 25,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hostel+Budva+Budva",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at no extra charge. Friendly, welcoming hosts. Please confirm with the property when booking.",
+    "address": "Budva",
+    "neighborhood": "Budva centre",
+    "highlights": [
+      "Budget-friendly with garden and terrace",
+      "About a 7-minute walk to Slovenska Beach",
+      "Highly rated welcoming hosts"
+    ]
+  },
+  {
+    "id": "paros-1",
+    "slug": "senia-hotel-onar-collection",
+    "name": "Senia Hotel - Onar Hotels Collection",
+    "destinationSlug": "paros",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 420,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Senia+Hotel+Paros",
+    "petFee": 0,
+    "petPolicy": "Senia Hotel welcomes pets with no extra charge in its seafront rooms, suites and apartments a short walk from Naoussa town. As an adults-only style property with pools, confirm which room types accept dogs and your pet's size when you reserve. Please confirm with the property when booking.",
+    "address": "Naoussa 844 01, Paros",
+    "neighborhood": "Naoussa seafront",
+    "highlights": [
+      "Pets stay free",
+      "Seafront location near Naoussa",
+      "Pools and stylish suites"
+    ]
+  },
+  {
+    "id": "paros-2",
+    "slug": "kokoon-parikia",
+    "name": "KOKOON",
+    "destinationSlug": "paros",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 300,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=KOKOON+Parikia+Paros",
+    "petFee": 0,
+    "petPolicy": "KOKOON allows pets on request in its Parikia rooms set around a garden and shared lounge, with charges that may apply depending on the stay. Let the property know your dog's size in advance, as acceptance is by prior arrangement. Please confirm with the property when booking.",
+    "address": "Parikia 844 00, Paros",
+    "neighborhood": "Parikia",
+    "highlights": [
+      "Pets allowed on request",
+      "Garden and shared lounge",
+      "Walkable to Parikia port"
+    ]
+  },
+  {
+    "id": "paros-3",
+    "slug": "casa-di-roma-parikia",
+    "name": "Casa di Roma",
+    "destinationSlug": "paros",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 350,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Casa+di+Roma+Parikia+Paros",
+    "petFee": 0,
+    "petPolicy": "Casa di Roma welcomes dogs at no extra charge by prior agreement, in a relaxed Parikia property with a pool, pool bar and rooftop terrace about half a mile from the port. There is a resident dog on site, so it is a genuinely pet-friendly base. Please confirm with the property when booking.",
+    "address": "Main Street, Parikia 844 00, Paros",
+    "neighborhood": "Parikia",
+    "highlights": [
+      "Pets stay free by arrangement",
+      "Pool and rooftop terrace",
+      "Near Parikia port and beach"
+    ]
+  },
+  {
+    "id": "paros-4",
+    "slug": "agrabeli-paros",
+    "name": "Agrabeli Paros",
+    "destinationSlug": "paros",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 260,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Agrabeli+Paros+Naoussa",
+    "petFee": 0,
+    "petPolicy": "Agrabeli Paros allows pets on request in its serviced apartments near Naoussa, where a charge may apply depending on the stay. Apartments suit travellers who want kitchen space and a relaxed pet-friendly base outside the village centre. Please confirm with the property when booking.",
+    "address": "Naoussa area, Paros",
+    "neighborhood": "Naoussa",
+    "highlights": [
+      "Pets allowed on request",
+      "Self-catering apartments",
+      "Quiet base near Naoussa"
+    ]
+  },
+  {
+    "id": "paros-5",
+    "slug": "9-muses-parikia",
+    "name": "9 Muses",
+    "destinationSlug": "paros",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 240,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=9+Muses+Parikia+Paros",
+    "petFee": 0,
+    "petPolicy": "9 Muses welcomes pets free of charge, with a limit of one dog per apartment, in its garden setting with a pool and kitchenettes near Parikia port. Confirm your dog's size and the one-pet limit when you book. Please confirm with the property when booking.",
+    "address": "Parikia 844 00, Paros",
+    "neighborhood": "Parikia",
+    "highlights": [
+      "Pets stay free (one dog)",
+      "Pool and garden apartments",
+      "Close to Parikia port"
+    ]
   }
 ]

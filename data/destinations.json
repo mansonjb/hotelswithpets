@@ -21616,5 +21616,305 @@
       }
     },
     "iata": "AGP"
+  },
+  {
+    "slug": "kefalonia",
+    "name": "Kefalonia",
+    "country": "Greece",
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/kefalonia.jpg",
+    "intro": "Kefalonia is the largest of the Ionian islands, a dramatic landscape of fir-clad Mount Ainos, turquoise coves and pastel harbour villages centred on the waterfront town of Argostoli. With relaxed village tavernas, open-air castles and quiet unorganised beaches, it rewards dog owners who plan around the summer heat and ferry crossing.",
+    "lat": 38.175,
+    "lng": 20.565,
+    "weather": {
+      "jan": {
+        "temp": 15,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 15,
+        "desc": "Mild & changeable",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 16,
+        "desc": "Mild spring",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 19,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Hot & dry",
+        "icon": "🌞"
+      },
+      "aug": {
+        "temp": 31,
+        "desc": "Hot & dry",
+        "icon": "🌞"
+      },
+      "sep": {
+        "temp": 27,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Warm & mild",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 20,
+        "desc": "Mild & wet",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 16,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "EFL"
+  },
+  {
+    "slug": "estepona",
+    "name": "Estepona",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/estepona.jpg",
+    "intro": "Estepona is a whitewashed Costa del Sol town in Málaga province, famous for its flower-pot Old Town streets, the open-air Ruta de Murales and a lively marina backed by the Sierra Bermeja. With leashed dogs welcome on its terraces and seafront promenade, an enclosed dog park and easy day trips to nearby dog beaches, it makes a relaxed summer base for pet owners.",
+    "lat": 36.4276,
+    "lng": -5.145,
+    "weather": {
+      "jan": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 20,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot summer",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Hot summer",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 27,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 23,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 19,
+        "desc": "Mild & calm",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 17,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "AGP"
+  },
+  {
+    "slug": "la-spezia",
+    "name": "La Spezia",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/la-spezia.jpg",
+    "intro": "La Spezia is a relaxed Ligurian port city wrapped around the Gulf of Poets and the easiest dog-friendly gateway to the Cinque Terre. Its shaded Morin seafront, palm-lined public gardens and hilltop Castello San Giorgio make the centre a pleasure to explore on foot with a leashed dog.",
+    "lat": 44.1025,
+    "lng": 9.824,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Cool & changeable",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild spring",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "PSA"
+  },
+  {
+    "slug": "gozo",
+    "name": "Gozo",
+    "country": "Malta",
+    "countryCode": "MT",
+    "flag": "🇲🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/gozo.jpg",
+    "intro": "Gozo is Malta's quieter second island, a rural patchwork of honey-stone villages, dramatic coast and prehistoric temples crowned by Victoria's hilltop Cittadella. With a mild climate, walkable countryside and a relaxed attitude to dogs on seafront terraces and rocky bays, it rewards both a summer trip and a calm year-round escape with a pet.",
+    "lat": 36.0443,
+    "lng": 14.2513,
+    "weather": {
+      "jan": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 16,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 20,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Sunny & dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 28,
+        "desc": "Hot summer",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 31,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 32,
+        "desc": "Peak heat",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 25,
+        "desc": "Warm autumn",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 21,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 18,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "MLA"
   }
 ]

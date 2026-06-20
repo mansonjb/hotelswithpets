@@ -40152,5 +40152,538 @@
       "Free WiFi",
       "Apartment with terrace"
     ]
+  },
+  {
+    "id": "kefalonia-1",
+    "slug": "emelisse-nature-resort",
+    "name": "Emelisse Nature Resort",
+    "destinationSlug": "kefalonia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 400,
+    "priceFrom": 200,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Emelisse+Nature+Resort+Kefalonia",
+    "petFee": 0,
+    "petPolicy": "Pets are welcomed on request, with ample garden space for dogs and Emplisi Beach nearby for walks. Charges may apply, so declare your pet when booking. Please confirm with the property when booking.",
+    "address": "Emplisis Bay, Fiskardo, Kefalonia 28084, Greece",
+    "neighborhood": "Fiskardo (north coast)",
+    "highlights": [
+      "Cliffside Ionian sea views",
+      "Two pools and a day spa",
+      "Suites and villas with private terraces"
+    ]
+  },
+  {
+    "id": "kefalonia-2",
+    "slug": "mouikis-hotel-kefalonia",
+    "name": "Mouikis Hotel Kefalonia",
+    "destinationSlug": "kefalonia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 690,
+    "priceFrom": 56,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mouikis+Hotel+Kefalonia",
+    "petFee": 0,
+    "petPolicy": "Cats and dogs are welcome, with small dogs staying free and one dog allowed per room. The central Argostoli location is handy for walking your dog to the waterfront. Please confirm with the property when booking.",
+    "address": "Vironos Street, Argostoli 28100, Kefalonia, Greece",
+    "neighborhood": "Argostoli (town centre)",
+    "highlights": [
+      "Central near the waterfront",
+      "Rooftop hot tub and views",
+      "Well-rated breakfast and staff"
+    ]
+  },
+  {
+    "id": "kefalonia-3",
+    "slug": "rouchotas-apartments",
+    "name": "Rouchotas Apartments",
+    "destinationSlug": "kefalonia",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.5,
+    "reviewCount": 100,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Rouchotas+Apartments+Kefalonia",
+    "petFee": 0,
+    "petPolicy": "Run by animal lovers, dogs are very welcome at no charge and the property even provides dog beds, bowls and welcome treats. Declare your dog when booking, as some units may take small pets on request. Please confirm with the property when booking.",
+    "address": "Near Argostoli Port, Argostoli, Kefalonia, Greece",
+    "neighborhood": "Argostoli (port area)",
+    "highlights": [
+      "Self-catering with sea and city views",
+      "Dog beds and bowls provided",
+      "Steps from Argostoli port"
+    ]
+  },
+  {
+    "id": "kefalonia-4",
+    "slug": "galaxy-hotel-argostoli",
+    "name": "Galaxy Hotel Argostoli",
+    "destinationSlug": "kefalonia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "beach-access",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.1,
+    "reviewCount": 100,
+    "priceFrom": 50,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Galaxy+Hotel+Argostoli+Kefalonia",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size and cats are welcome at no extra charge, and multiple pets are allowed. Just 20 metres from Fanari Beach for easy coastal dog walks; notify the hotel in advance. Please confirm with the property when booking.",
+    "address": "Fanari, Argostoli 28100, Kefalonia, Greece",
+    "neighborhood": "Argostoli (Fanari beach area)",
+    "highlights": [
+      "20 metres from Fanari Beach",
+      "Outdoor pool and sun terrace",
+      "Free on-site parking"
+    ]
+  },
+  {
+    "id": "kefalonia-5",
+    "slug": "kanakis-apartments-assos",
+    "name": "Kanakis Apartments",
+    "destinationSlug": "kefalonia",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 50,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kanakis+Apartments+Assos+Kefalonia",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request at no extra charge, and the property advertises a pet-friendly suite, ideal for travellers with a dog in scenic Assos. Confirm the specific pet-friendly unit at booking. Please confirm with the property when booking.",
+    "address": "Assos Village, Kefalonia 28084, Greece",
+    "neighborhood": "Assos (northwest coast)",
+    "highlights": [
+      "Freshwater pool over the Ionian",
+      "Steps from Assos bay beaches",
+      "Intimate property near the Venetian castle"
+    ]
+  },
+  {
+    "id": "estepona-1",
+    "slug": "kempinski-hotel-bahia-estepona",
+    "name": "Kempinski Hotel Bahía",
+    "destinationSlug": "estepona",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 1280,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kempinski+Hotel+Bahia+Estepona",
+    "petFee": 50,
+    "petPolicy": "The Kempinski Hotel Bahía welcomes one dog up to 25 kg per room, staying with the owner, for a fee of 50 EUR per pet per night. Pets are not allowed in the pools, gardens, restaurants or spa but are welcome on the external terraces of the bar and beach club, and owners provide the dog's bed and bowls. Please confirm with the property when booking.",
+    "address": "Carretera de Cádiz, km 159, 29680 Estepona, Málaga",
+    "neighborhood": "Playa El Padrón / beachfront",
+    "highlights": [
+      "Beachfront 5-star resort",
+      "Three outdoor pools & spa",
+      "Subtropical gardens"
+    ]
+  },
+  {
+    "id": "estepona-2",
+    "slug": "gran-hotel-elba-estepona",
+    "name": "Gran Hotel Elba Estepona Thalasso & Spa",
+    "destinationSlug": "estepona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 8.4,
+    "reviewCount": 3400,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Gran+Hotel+Elba+Estepona",
+    "petFee": 50,
+    "petPolicy": "The Gran Hotel Elba Estepona accepts dogs and cats by prior request in a specific pet-friendly room category, subject to approval and possible size limits, for a charge of 50 EUR plus VAT per night. Contact the hotel after booking to confirm availability of a pet room. Please confirm with the property when booking.",
+    "address": "Carretera Estepona–Cádiz, km 151, 29680 Estepona, Málaga",
+    "neighborhood": "Arena Beach / beachfront",
+    "highlights": [
+      "Beachfront thalasso spa",
+      "Indoor & outdoor pools",
+      "Sea-view balconies"
+    ]
+  },
+  {
+    "id": "estepona-3",
+    "slug": "mett-hotel-beach-resort-estepona",
+    "name": "METT Hotel & Beach Resort Marbella – Estepona",
+    "destinationSlug": "estepona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 8.0,
+    "reviewCount": 530,
+    "priceFrom": 185,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=METT+Hotel+Beach+Resort+Estepona",
+    "petFee": 50,
+    "petPolicy": "METT Hotel & Beach Resort welcomes well-mannered dogs and cats up to 5 kg, over one year old and house-trained, for 50 EUR per day. Pets are allowed in guest rooms and on the route to the entrance only, and are not permitted in the food and drink areas, gym, spa, beach or pool. Please confirm with the property when booking.",
+    "address": "Calle Adriano, Urb. Costalita s/n, 29688 Cancelada, Estepona, Málaga",
+    "neighborhood": "New Golden Mile (Cancelada) / beachfront",
+    "highlights": [
+      "Beachfront design hotel",
+      "Heated & indoor pools",
+      "Cooked-to-order breakfast"
+    ]
+  },
+  {
+    "id": "estepona-4",
+    "slug": "senator-banus-spa-hotel-estepona",
+    "name": "Senator Banús Spa Hotel",
+    "destinationSlug": "estepona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 7.8,
+    "reviewCount": 3900,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Senator+Banus+Spa+Hotel+Estepona",
+    "petFee": 12,
+    "petPolicy": "The Senator Banús Spa Hotel allows one dog of any size for 12 EUR per night plus a one-time 25 EUR cleaning fee, arranged on request and paid at the hotel. Notify the property after booking so they can confirm a suitable room. Please confirm with the property when booking.",
+    "address": "Urbanización Benamara, Avda. Dos Hermanas, Ctra. N-340 km 168, 29680 Estepona, Málaga",
+    "neighborhood": "Benamara, near the beach",
+    "highlights": [
+      "Large spa & pool",
+      "Close to the beach",
+      "Ample free parking"
+    ]
+  },
+  {
+    "id": "estepona-5",
+    "slug": "pierre-vacances-estepona",
+    "name": "Pierre & Vacances Estepona",
+    "destinationSlug": "estepona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.4,
+    "reviewCount": 420,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Pierre+Vacances+Estepona",
+    "petFee": 10,
+    "petPolicy": "Pierre & Vacances Estepona welcomes one pet, dog or cat, up to 10 kg for 10 EUR per night, so only small dogs are accepted. The self-catering apartments sit in a quiet hilltop residential setting near Bel Air. Please confirm with the property when booking.",
+    "address": "Calle Hinojo s/n, Urbanización Bel Air, 29680 Estepona, Málaga",
+    "neighborhood": "Bel Air / New Golden Mile",
+    "highlights": [
+      "Self-catering apartments",
+      "Quiet hilltop setting",
+      "Near Bel Air golf"
+    ]
+  },
+  {
+    "id": "la-spezia-1",
+    "slug": "the-poet-hotel-la-spezia",
+    "name": "The Poet Hotel",
+    "destinationSlug": "la-spezia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 361,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=The+Poet+Hotel+La+Spezia",
+    "petFee": 0,
+    "petPolicy": "The Poet Hotel is a genuinely dog-loving boutique hotel that welcomes dogs in all areas, including the breakfast room, at no extra charge, and provides a mat and bowl for your pet. Please confirm with the property when booking.",
+    "address": "Via Carpenino 31, 19121 La Spezia",
+    "neighborhood": "Historic centre, near Via del Prione",
+    "highlights": [
+      "Dogs welcome in all areas including breakfast, with mat and bowl",
+      "Stylish boutique rooms in the old town",
+      "Walkable to the seafront, gardens and train station"
+    ]
+  },
+  {
+    "id": "la-spezia-2",
+    "slug": "hotel-firenze-e-continentale-la-spezia",
+    "name": "Hotel Firenze e Continentale",
+    "destinationSlug": "la-spezia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1900,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Firenze+e+Continentale+La+Spezia",
+    "petFee": 15,
+    "petPolicy": "This 4-star hotel in the historic centre welcomes pets for a charge of around 15 EUR per pet per night, just a two-minute walk from La Spezia Centrale station for easy Cinque Terre day trips. Mention your dog when booking so a suitable room can be arranged. Please confirm with the property when booking.",
+    "address": "Via Paleocapa 7, 19122 La Spezia",
+    "neighborhood": "Historic centre, beside La Spezia Centrale station",
+    "highlights": [
+      "Two minutes from the Cinque Terre train station",
+      "Classic 4-star comfort in the centre",
+      "Highly rated by couples for the location"
+    ]
+  },
+  {
+    "id": "la-spezia-3",
+    "slug": "nh-la-spezia",
+    "name": "NH La Spezia",
+    "destinationSlug": "la-spezia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1177,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=NH+La+Spezia",
+    "petFee": 25,
+    "petPolicy": "NH La Spezia, facing the harbour near the old town, accepts pets for a charge of around 25 EUR per pet per night with limited availability, so contact the hotel to confirm. Guide dogs stay free of charge. Please confirm with the property when booking.",
+    "address": "Via XX Settembre 2, 19124 La Spezia",
+    "neighborhood": "Seafront, facing the harbour near the old town",
+    "highlights": [
+      "Harbour-facing 4-star a short walk from the old town",
+      "Five minutes from the harbour links to the Cinque Terre",
+      "On-site restaurant and central location"
+    ]
+  },
+  {
+    "id": "la-spezia-4",
+    "slug": "cdh-my-one-hotel-la-spezia",
+    "name": "CDH My One Hotel La Spezia",
+    "destinationSlug": "la-spezia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 3502,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=CDH+My+One+Hotel+La+Spezia",
+    "petFee": 0,
+    "petPolicy": "Most house pets, such as dogs and cats, are welcome at CDH My One Hotel La Spezia, where size limitations may apply, so confirm your dog's size in advance. Contact the property to arrange bringing your pet. Please confirm with the property when booking.",
+    "address": "Via XX Settembre 81, 19121 La Spezia",
+    "neighborhood": "Central La Spezia, near the gardens and seafront",
+    "highlights": [
+      "Well-reviewed mid-range 4-star in the centre",
+      "Walkable to the public gardens and seafront",
+      "Convenient base for Cinque Terre train trips"
+    ]
+  },
+  {
+    "id": "la-spezia-5",
+    "slug": "albergo-teatro-la-spezia",
+    "name": "Albergo Teatro",
+    "destinationSlug": "la-spezia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 2,
+    "rating": 8.4,
+    "reviewCount": 480,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Albergo+Teatro+La+Spezia",
+    "petFee": 0,
+    "petPolicy": "Albergo Teatro is a friendly budget guesthouse in the centre that welcomes dogs and cats of any size at no additional fee. Let the host know about your pet when reserving. Please confirm with the property when booking.",
+    "address": "Via Carpenino 31, 19121 La Spezia",
+    "neighborhood": "Historic centre, near Via del Prione",
+    "highlights": [
+      "Dogs and cats of any size stay free",
+      "Affordable base in the pedestrian old town",
+      "Walkable to the seafront, gardens and station"
+    ]
+  },
+  {
+    "id": "gozo-1",
+    "slug": "kempinski-hotel-san-lawrenz-gozo",
+    "name": "Kempinski Hotel San Lawrenz",
+    "destinationSlug": "gozo",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 1500,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kempinski+Hotel+San+Lawrenz+Gozo+Malta",
+    "petFee": 75,
+    "petPolicy": "Kempinski Hotel San Lawrenz welcomes up to two dogs of up to 20 kg per room or apartment for a one-time non-refundable fee of 75 EUR. Dogs must be non-aggressive, clean and flea-free, cannot be left unattended in rooms and must remain under control at all times. Please confirm with the property when booking.",
+    "address": "Triq ir-Rokon, San Lawrenz SLZ 1040, Gozo, Malta",
+    "neighborhood": "San Lawrenz (near Dwejra)",
+    "highlights": [
+      "Only 5-star resort on Gozo",
+      "Two dogs up to 20 kg welcome",
+      "Quiet countryside setting near Dwejra"
+    ]
+  },
+  {
+    "id": "gozo-2",
+    "slug": "hotel-ben-marsalforn-gozo",
+    "name": "Hotel Ben Marsalforn, Affiliated by Meliá",
+    "destinationSlug": "gozo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 83,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Ben+Marsalforn+Gozo+Malta",
+    "petFee": 20,
+    "petPolicy": "Hotel Ben Marsalforn welcomes cats and dogs for an additional fee, payable at the property. Pets should be well-behaved and kept under control in shared areas, and a seasonal outdoor pool and free bikes round out the seafront-resort setting. Please confirm with the property when booking.",
+    "address": "Triq il-Port, Marsalforn, Gozo, Malta",
+    "neighborhood": "Marsalforn",
+    "highlights": [
+      "Steps from Marsalforn seafront",
+      "Cats and dogs both accepted",
+      "Seasonal pool and free bikes"
+    ]
+  },
+  {
+    "id": "gozo-3",
+    "slug": "mj-farmhouse-bb-xaghra-gozo",
+    "name": "MJ Farmhouse B&B",
+    "destinationSlug": "gozo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.5,
+    "reviewCount": 226,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=MJ+Farmhouse+B%26B+Xaghra+Gozo+Malta",
+    "petFee": 0,
+    "petPolicy": "MJ Farmhouse B&B is a pet-friendly Gozitan farmhouse stay in Xaghra with a pool and shared lounge, and pets are accepted at no extra charge. Owners are asked to keep pets under control and off the furniture and beds. Please confirm with the property when booking.",
+    "address": "Xaghra, Gozo, Malta",
+    "neighborhood": "Xaghra (near Ggantija)",
+    "highlights": [
+      "Traditional farmhouse with pool",
+      "Dogs stay free",
+      "Walkable to Ggantija countryside"
+    ]
+  },
+  {
+    "id": "gozo-4",
+    "slug": "grottos-paradise-bb-gharb-gozo",
+    "name": "Grotto's Paradise B&B",
+    "destinationSlug": "gozo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.5,
+    "reviewCount": 450,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Grotto's+Paradise+B%26B+Gharb+Gozo+Malta",
+    "petFee": 0,
+    "petPolicy": "Grotto's Paradise B&B is a pet-friendly guesthouse near Ta' Pinu Basilica in Gharb, with pets accepted at no additional cost. Guests should keep pets leashed in shared areas and clean up after them in the gardens. Please confirm with the property when booking.",
+    "address": "Gharb, Gozo, Malta",
+    "neighborhood": "Gharb (near Ta' Pinu)",
+    "highlights": [
+      "Quiet rural location near Ta' Pinu",
+      "Dogs stay free",
+      "Highly rated budget guesthouse"
+    ]
+  },
+  {
+    "id": "gozo-5",
+    "slug": "tuta-agrotourism-kercem-gozo",
+    "name": "Tuta Agrotourism",
+    "destinationSlug": "gozo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 175,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Tuta+Agrotourism+Kercem+Gozo+Malta",
+    "petFee": 0,
+    "petPolicy": "Tuta Agrotourism is an adults-only pet-friendly agrotourism property in Kercem with a garden and bar, and pets are welcome at no extra charge. Pets should be kept under control on the grounds and not left unattended. Please confirm with the property when booking.",
+    "address": "Kercem, Gozo, Malta",
+    "neighborhood": "Kercem (near Victoria)",
+    "highlights": [
+      "Adults-only countryside agrotourism",
+      "Dogs stay free",
+      "Garden setting close to Victoria"
+    ]
   }
 ]

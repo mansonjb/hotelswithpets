@@ -21,6 +21,26 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    kefalonia: {
+      personality: `the largest and most dramatic of the Ionian islands, wrapped around the Argostoli waterfront and its De Bosset stone bridge, with the Myrtos Beach viewpoint, the cliffside village of Assos, the Melissani cave and the pastel harbour of Fiskardo`,
+      highlight: `the Koutavos Lagoon trail, the Katavothres lighthouse loop, and the fir forests of Mount Ainos National Park`,
+      area: `Argostoli, Fiskardo, and Assos`,
+    },
+    estepona: {
+      personality: `a whitewashed Costa del Sol town whose flower-pot Old Town streets, open-air Ruta de Murales and orange-tree Plaza de las Flores spill down to a 447-berth marina, with the Orquidario botanical park and the Selwo safari park nearby`,
+      highlight: `the Old Town flower-pot streets, the Senda Litoral promenade and the enclosed Las Mesas dog park`,
+      area: `the Casco Antiguo, the Puerto Deportivo and the New Golden Mile`,
+    },
+    'la-spezia': {
+      personality: `a relaxed Ligurian port city and the easiest dog-friendly gateway to the Cinque Terre`,
+      highlight: `the Morin seafront promenade and public gardens, the hilltop Castello San Giorgio, and the Cinque Terre train line`,
+      area: `the Morin seafront and public gardens, the historic centre around Via del Prione, and the Gulf of Poets toward Portovenere and Lerici`,
+    },
+    gozo: {
+      personality: `Malta's quieter second island, where Victoria's hilltop Cittadella, the red-sand sweep of Ramla Bay, the dramatic Dwejra coast and Inland Sea, the sheltered cove of Xlendi Bay and the prehistoric Ggantija temples sit within a short drive of each other`,
+      highlight: `the Ta' Cenc clifftop tracks, the Dwejra coastal paths, and the shaded Mgarr ix-Xini valley walk`,
+      area: `Victoria (Rabat), Marsalforn, and Xlendi`,
+    },
     syracuse: {
       personality: `a sun-baked Sicilian gem whose life unfolds outdoors on Ortigia island, around Piazza Duomo, the legendary Fonte Aretusa, the ancient Neapolis archaeological park and the breezy seafront Lungomare`,
       highlight: `the Lungomare di Ortigia, the Foro Siracusano gardens and the dog beaches at Marina di Priolo and Fontane Bianche`,
@@ -1464,6 +1484,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    kefalonia: {
+      personality: `la plus grande et la plus spectaculaire des îles Ioniennes, lovée autour du front de mer d'Argostoli et de son pont de pierre De Bosset, avec le point de vue de la plage de Myrtos, le village perché d'Assos, la grotte de Melissani et le port pastel de Fiskardo`,
+      highlight: `le sentier de la lagune de Koutavos, la boucle du phare de Katavothres et les forêts de sapins du parc national du mont Ainos`,
+      area: `Argostoli, Fiskardo et Assos`,
+    },
+    estepona: {
+      personality: `une ville blanchie de la Costa del Sol dont les ruelles fleuries de la vieille ville, la Ruta de Murales à ciel ouvert et la Plaza de las Flores aux orangers descendent jusqu'à une marina de 447 anneaux, avec le parc botanique Orquidario et le parc safari Selwo à proximité`,
+      highlight: `les ruelles fleuries de la vieille ville, la promenade de la Senda Litoral et le parc canin clôturé de Las Mesas`,
+      area: `le Casco Antiguo, le Puerto Deportivo et la New Golden Mile`,
+    },
+    'la-spezia': {
+      personality: `une ville portuaire ligure détendue et la porte dog-friendly la plus facile vers les Cinque Terre`,
+      highlight: `la promenade et les jardins publics du front de mer Morin, le Castello San Giorgio perché et la ligne de train des Cinque Terre`,
+      area: `le front de mer Morin et les jardins publics, le centre historique autour de la Via del Prione, et le Golfe des Poètes vers Portovenere et Lerici`,
+    },
+    gozo: {
+      personality: `la seconde île plus calme de Malte, où la Cittadella perchée de Victoria, l'étendue de sable rouge de Ramla Bay, la côte spectaculaire de Dwejra et sa Mer intérieure, la crique abritée de Xlendi Bay et les temples préhistoriques de Ggantija sont à quelques minutes de route les uns des autres`,
+      highlight: `les sentiers du sommet de Ta' Cenc, les chemins côtiers de Dwejra et la balade ombragée de la vallée de Mgarr ix-Xini`,
+      area: `Victoria (Rabat), Marsalforn et Xlendi`,
+    },
     syracuse: {
       personality: `un joyau sicilien gorgé de soleil dont la vie se déroule dehors, sur l'île d'Ortigia, autour de la Piazza Duomo, de la légendaire Fonte Aretusa, du parc archéologique antique de Neapolis et du Lungomare balayé par la brise`,
       highlight: `le Lungomare di Ortigia, les jardins du Foro Siracusano et les plages pour chiens de Marina di Priolo et Fontane Bianche`,
@@ -2906,6 +2946,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    kefalonia: {
+      personality: `la mayor y más espectacular de las islas Jónicas, envuelta en torno al paseo marítimo de Argostoli y su puente de piedra De Bosset, con el mirador de la playa de Myrtos, el pueblo encaramado de Assos, la cueva de Melissani y el puerto pastel de Fiskardo`,
+      highlight: `el sendero de la laguna de Koutavos, el circuito del faro de Katavothres y los bosques de abetos del Parque Nacional del Monte Ainos`,
+      area: `Argostoli, Fiskardo y Assos`,
+    },
+    estepona: {
+      personality: `un pueblo encalado de la Costa del Sol cuyas calles floridas del casco antiguo, la Ruta de Murales al aire libre y la Plaza de las Flores con naranjos bajan hasta un puerto deportivo de 447 amarres, con el parque botánico Orquidario y el parque safari Selwo cerca`,
+      highlight: `las calles floridas del casco antiguo, el paseo de la Senda Litoral y el parque canino vallado de Las Mesas`,
+      area: `el Casco Antiguo, el Puerto Deportivo y la New Golden Mile`,
+    },
+    'la-spezia': {
+      personality: `una relajada ciudad portuaria ligur y la puerta dog-friendly más fácil hacia Cinque Terre`,
+      highlight: `el paseo marítimo y los jardines públicos de Morin, el Castello San Giorgio en lo alto y la línea de tren de Cinque Terre`,
+      area: `el paseo marítimo Morin y los jardines públicos, el centro histórico en torno a Via del Prione, y el Golfo de los Poetas hacia Portovenere y Lerici`,
+    },
+    gozo: {
+      personality: `la segunda isla más tranquila de Malta, donde la Cittadella en lo alto de Victoria, la extensión de arena roja de Ramla Bay, la espectacular costa de Dwejra y su Mar Interior, la resguardada cala de Xlendi Bay y los templos prehistóricos de Ggantija quedan a pocos minutos en coche entre sí`,
+      highlight: `los senderos de la cima de Ta' Cenc, los caminos costeros de Dwejra y el paseo a la sombra del valle de Mgarr ix-Xini`,
+      area: `Victoria (Rabat), Marsalforn y Xlendi`,
+    },
     syracuse: {
       personality: `una joya siciliana bañada por el sol cuya vida transcurre al aire libre en la isla de Ortigia, en torno a la Piazza Duomo, la legendaria Fonte Aretusa, el antiguo parque arqueológico de Neapolis y el Lungomare azotado por la brisa`,
       highlight: `el Lungomare di Ortigia, los jardines del Foro Siracusano y las playas para perros de Marina di Priolo y Fontane Bianche`,
@@ -4348,6 +4408,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    kefalonia: {
+      personality: `a maior e mais espetacular das ilhas Jónicas, envolta na marginal de Argostoli e na sua ponte de pedra De Bosset, com o miradouro da praia de Myrtos, a aldeia empoleirada de Assos, a gruta de Melissani e o porto em tons pastel de Fiskardo`,
+      highlight: `o trilho da lagoa de Koutavos, o circuito do farol de Katavothres e as florestas de abetos do Parque Nacional do Monte Ainos`,
+      area: `Argostoli, Fiskardo e Assos`,
+    },
+    estepona: {
+      personality: `uma vila caiada da Costa del Sol cujas ruas floridas da cidade velha, a Ruta de Murales ao ar livre e a Plaza de las Flores com laranjeiras descem até uma marina de 447 amarrações, com o parque botânico Orquidario e o parque safari Selwo nas proximidades`,
+      highlight: `as ruas floridas da cidade velha, o passeio da Senda Litoral e o parque canino vedado de Las Mesas`,
+      area: `o Casco Antiguo, o Puerto Deportivo e a New Golden Mile`,
+    },
+    'la-spezia': {
+      personality: `uma descontraída cidade portuária da Ligúria e a porta dog-friendly mais fácil para as Cinque Terre`,
+      highlight: `a marginal e os jardins públicos de Morin, o Castello San Giorgio no alto e a linha de comboio das Cinque Terre`,
+      area: `a marginal Morin e os jardins públicos, o centro histórico em torno da Via del Prione, e o Golfo dos Poetas rumo a Portovenere e Lerici`,
+    },
+    gozo: {
+      personality: `a segunda ilha mais sossegada de Malta, onde a Cittadella no alto de Victoria, a extensão de areia vermelha de Ramla Bay, a dramática costa de Dwejra e o seu Mar Interior, a abrigada enseada de Xlendi Bay e os templos pré-históricos de Ggantija ficam a poucos minutos de carro uns dos outros`,
+      highlight: `os trilhos do cimo de Ta' Cenc, os caminhos costeiros de Dwejra e o passeio sombreado do vale de Mgarr ix-Xini`,
+      area: `Victoria (Rabat), Marsalforn e Xlendi`,
+    },
     syracuse: {
       personality: `uma joia siciliana banhada de sol cuja vida decorre ao ar livre na ilha de Ortígia, em torno da Piazza Duomo, da lendária Fonte Aretusa, do antigo parque arqueológico de Neapolis e do Lungomare varrido pela brisa`,
       highlight: `o Lungomare di Ortigia, os jardins do Foro Siracusano e as praias para cães de Marina di Priolo e Fontane Bianche`,

@@ -20791,5 +20791,305 @@
       }
     },
     "iata": "AHO"
+  },
+  {
+    "slug": "cefalu",
+    "name": "Cefalù",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/cefalu.jpg",
+    "intro": "Cefalù is a postcard-perfect Sicilian seaside town wrapped around a UNESCO-listed Norman cathedral and crowned by the dramatic La Rocca headland. Its long sandy beach, photogenic medieval lanes and seafront Lungomare make it an easy, rewarding place to explore on foot with a leashed dog.",
+    "lat": 38.0397,
+    "lng": 14.0228,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Cool & changeable",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild spring",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Very hot",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Very hot",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "PMO"
+  },
+  {
+    "slug": "cartagena",
+    "name": "Cartagena",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/cartagena.jpg",
+    "intro": "Cartagena is a sun-soaked Mediterranean port in Murcia where almost 3,000 years of Carthaginian and Roman history sit beside a busy harbour and a marble-paved old town. With its open-air ruins, dog-friendly terraces and nearby year-round dog beaches, it is an easy and rewarding place to explore with a calm leashed dog.",
+    "lat": 37.6257,
+    "lng": -0.9966,
+    "weather": {
+      "jan": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 17,
+        "desc": "Mild & bright",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 19,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 21,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 31,
+        "desc": "Hot & dry",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 32,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 25,
+        "desc": "Warm & mild",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 20,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "RMU"
+  },
+  {
+    "slug": "kotor",
+    "name": "Kotor",
+    "country": "Montenegro",
+    "countryCode": "ME",
+    "flag": "🇲🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/kotor.jpg",
+    "intro": "Kotor is a walled medieval port wrapped around the head of the fjord-like Bay of Kotor, beneath sheer mountains crowned by the San Giovanni fortress. Its compact UNESCO Old Town, waterfront promenades and nearby baroque villages make it a relaxed, scenic base for exploring the bay with a dog.",
+    "lat": 42.4247,
+    "lng": 18.7712,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & changeable",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "TIV"
+  },
+  {
+    "slug": "makarska",
+    "name": "Makarska",
+    "country": "Croatia",
+    "countryCode": "HR",
+    "flag": "🇭🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/makarska.jpg",
+    "intro": "Makarska is a Dalmatian coastal town set in a dramatic natural amphitheatre between the Adriatic and the towering Biokovo mountain. Its palm-lined Riva promenade, pine-clad Sveti Petar peninsula and official Cvitacka dog beach make it one of the most relaxed pet-friendly bases on the Croatian coast.",
+    "lat": 43.2969,
+    "lng": 17.0178,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool & changeable",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild spring",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warming up",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild autumn",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Cooler & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "SPU"
   }
 ]

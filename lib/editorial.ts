@@ -21,6 +21,26 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    cefalu: {
+      personality: `one of the most photogenic seaside towns in Sicily`,
+      highlight: `the Norman cathedral, the La Rocca headland, and the seafront Lungomare`,
+      area: `the medieval old town, the Lungomare seafront, and the long sandy town beach`,
+    },
+    cartagena: {
+      personality: `one of the most history-rich and dog-walkable port cities in Spain`,
+      highlight: `the open-air Cerro del Molinete archaeological park, the marble-paved Calle Mayor, and the palm-lined Paseo Alfonso XII harbour promenade`,
+      area: `the casco antiguo around the Roman Theatre, the harbour-front Puerto, and the Parque de la Rosa with its fenced dog park`,
+    },
+    kotor: {
+      personality: `one of the most scenic walled coastal towns in Montenegro`,
+      highlight: `the walled Old Town, the Dobrota waterfront promenade, and the Bay of Kotor fjord`,
+      area: `the Old Town, Dobrota, and nearby Perast`,
+    },
+    makarska: {
+      personality: `one of the most relaxed pet-friendly towns on the Dalmatian coast`,
+      highlight: `the Sveti Petar peninsula, Osejava forest park, and the Cvitacka dog beach`,
+      area: `the seafront Riva promenade, the Old Town around Kacic Square, and the pine woods of the St Peter peninsula`,
+    },
     rhodes: {
       personality: `a relaxed, outdoors-first Greek island where dog owners roam the car-free medieval Old Town, the Mandraki harbour promenade and quiet unorganised coves before retreating to the shaded streams of Rodini Park`,
       highlight: `Rodini Park, the Mandraki seafront promenade and the Old Town moat walk`,
@@ -1409,6 +1429,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    cefalu: {
+      personality: `l'une des stations balnéaires les plus photogéniques de Sicile`,
+      highlight: `la cathédrale normande, le promontoire de La Rocca et le Lungomare en bord de mer`,
+      area: `la vieille ville médiévale, le front de mer du Lungomare et la longue plage de sable`,
+    },
+    cartagena: {
+      personality: `l'une des villes portuaires les plus riches en histoire et les plus agréables à parcourir avec un chien en Espagne`,
+      highlight: `le parc archéologique en plein air du Cerro del Molinete, la Calle Mayor pavée de marbre et la promenade du port Paseo Alfonso XII bordée de palmiers`,
+      area: `le casco antiguo autour du théâtre romain, le front de mer du Puerto et le Parque de la Rosa avec son parc canin clôturé`,
+    },
+    kotor: {
+      personality: `l'une des plus belles villes côtières fortifiées du Monténégro`,
+      highlight: `la vieille ville fortifiée, la promenade du front de mer de Dobrota et le fjord de la baie de Kotor`,
+      area: `la vieille ville, Dobrota et Perast tout près`,
+    },
+    makarska: {
+      personality: `l'une des villes les plus accueillantes pour les chiens de la côte dalmate`,
+      highlight: `la péninsule de Sveti Petar, le parc forestier d'Osejava et la plage canine de Cvitacka`,
+      area: `la promenade de la Riva en bord de mer, la vieille ville autour de la place Kacic et les pinèdes de la péninsule Saint-Pierre`,
+    },
     rhodes: {
       personality: `une ile grecque detendue et tournee vers l'exterieur, ou les proprietaires de chiens parcourent la cite medievale sans voitures, la promenade du port de Mandraki et des criques tranquilles avant de se replier vers les ruisseaux ombrages du parc Rodini`,
       highlight: `le parc Rodini, la promenade de Mandraki et le fosse de la vieille ville`,
@@ -2796,6 +2836,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    cefalu: {
+      personality: `una de las localidades costeras más fotogénicas de Sicilia`,
+      highlight: `la catedral normanda, el promontorio de La Rocca y el Lungomare junto al mar`,
+      area: `el casco antiguo medieval, el paseo marítimo del Lungomare y la larga playa de arena`,
+    },
+    cartagena: {
+      personality: `una de las ciudades portuarias más ricas en historia y más caminables con perro de España`,
+      highlight: `el parque arqueológico al aire libre del Cerro del Molinete, la Calle Mayor de mármol y el Paseo Alfonso XII del puerto bordeado de palmeras`,
+      area: `el casco antiguo en torno al Teatro Romano, el frente marítimo del Puerto y el Parque de la Rosa con su parque canino vallado`,
+    },
+    kotor: {
+      personality: `una de las ciudades costeras amuralladas más bonitas de Montenegro`,
+      highlight: `el casco antiguo amurallado, el paseo marítimo de Dobrota y el fiordo de la bahía de Kotor`,
+      area: `el casco antiguo, Dobrota y la cercana Perast`,
+    },
+    makarska: {
+      personality: `una de las localidades más acogedoras para perros de la costa dálmata`,
+      highlight: `la península de Sveti Petar, el parque forestal de Osejava y la playa canina de Cvitacka`,
+      area: `el paseo marítimo de la Riva, el casco antiguo en torno a la plaza Kacic y los pinares de la península de San Pedro`,
+    },
     rhodes: {
       personality: `una isla griega relajada y volcada al aire libre, donde los duenos de perros recorren la ciudad medieval sin coches, el paseo del puerto de Mandraki y calas tranquilas antes de refugiarse en los arroyos sombreados del parque Rodini`,
       highlight: `el parque Rodini, el paseo maritimo de Mandraki y el foso del casco antiguo`,
@@ -4183,6 +4243,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    cefalu: {
+      personality: `uma das vilas balneares mais fotogénicas da Sicília`,
+      highlight: `a catedral normanda, o promontório de La Rocca e o Lungomare à beira-mar`,
+      area: `a cidade velha medieval, a marginal do Lungomare e a longa praia de areia`,
+    },
+    cartagena: {
+      personality: `uma das cidades portuárias mais ricas em história e mais percorríveis com cão de Espanha`,
+      highlight: `o parque arqueológico ao ar livre do Cerro del Molinete, a Calle Mayor pavimentada a mármore e o Paseo Alfonso XII do porto ladeado de palmeiras`,
+      area: `o casco antiguo em redor do Teatro Romano, a frente ribeirinha do Puerto e o Parque de la Rosa com o seu parque canino vedado`,
+    },
+    kotor: {
+      personality: `uma das mais belas cidades costeiras amuralhadas do Montenegro`,
+      highlight: `a cidade velha amuralhada, o passeio marítimo de Dobrota e o fiorde da Baía de Kotor`,
+      area: `a cidade velha, Dobrota e a vizinha Perast`,
+    },
+    makarska: {
+      personality: `uma das vilas mais acolhedoras para cães da costa dálmata`,
+      highlight: `a península de Sveti Petar, o parque florestal de Osejava e a praia canina de Cvitacka`,
+      area: `a promenade da Riva à beira-mar, a cidade velha em redor da praça Kacic e os pinhais da península de São Pedro`,
+    },
     rhodes: {
       personality: `uma ilha grega descontraida e virada para o exterior, onde os donos de caes percorrem a cidade medieval sem carros, o passeio do porto de Mandraki e enseadas tranquilas antes de se refugiarem nos ribeiros sombreados do parque Rodini`,
       highlight: `o parque Rodini, o passeio maritimo de Mandraki e o fosso da cidade velha`,

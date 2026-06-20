@@ -13365,6 +13365,139 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  lagos: {
+    history: {
+      fr: `Lagos, sur la côte ouest de l'Algarve, fut l'un des grands ports de l'épopée des Découvertes portugaises. C'est d'ici que partaient au XVᵉ siècle les caravelles armées par l'infant Henri le Navigateur, et la Praça do Infante en conserve la mémoire ; le premier marché aux esclaves d'Europe, sombre revers de cette histoire, y ouvrit en 1444. Capitale de l'Algarve jusqu'au tremblement de terre de 1755 qui ravagea la ville, Lagos a gardé son centre historique ceint de murailles du XVIᵉ siècle, ses ruelles pavées et l'éblouissante église baroque de Santo António. Mais la ville est surtout célèbre pour la Ponta da Piedade, falaises de grès doré sculptées de grottes et d'arches au-dessus d'une mer turquoise. Pour un voyageur avec un chien, Lagos combine une longue plage de sable (Meia Praia), une forêt nationale propice aux longues marches, un climat doux toute l'année et un hôpital vétérinaire 24h/24 à Portimão, à vingt-cinq minutes. Le centre piéton se parcourt aisément laisse à la main, de terrasse en terrasse.`,
+      en: `Lagos, on the western Algarve coast, was one of the great ports of the Portuguese Age of Discovery. It was from here that the caravels fitted out by Prince Henry the Navigator set sail in the 15th century, a memory preserved in the Praça do Infante; the first slave market in Europe, the dark reverse of that history, opened here in 1444. Capital of the Algarve until the 1755 earthquake devastated the town, Lagos has kept its historic centre ringed by 16th-century walls, its cobbled lanes and the dazzling baroque church of Santo António. But the town is best known for Ponta da Piedade, golden sandstone cliffs carved into grottoes and arches above a turquoise sea. For a traveller with a dog, Lagos combines a long sandy beach (Meia Praia), a national forest ideal for long walks, a mild year-round climate and a 24/7 veterinary hospital in Portimão, twenty-five minutes away. The pedestrian centre is easily explored lead in hand, terrace to terrace.`,
+      es: `Lagos, en la costa occidental del Algarve, fue uno de los grandes puertos de la epopeya de los Descubrimientos portugueses. Desde aquí zarpaban en el siglo XV las carabelas armadas por el infante Enrique el Navegante, memoria que conserva la Praça do Infante; el primer mercado de esclavos de Europa, reverso oscuro de esa historia, abrió aquí en 1444. Capital del Algarve hasta el terremoto de 1755 que arrasó la ciudad, Lagos ha conservado su centro histórico ceñido por murallas del siglo XVI, sus callejones empedrados y la deslumbrante iglesia barroca de Santo António. Pero la ciudad es sobre todo célebre por la Ponta da Piedade, acantilados de arenisca dorada esculpidos en grutas y arcos sobre un mar turquesa. Para un viajero con perro, Lagos combina una larga playa de arena (Meia Praia), un bosque nacional propicio para largas caminatas, un clima suave todo el año y un hospital veterinario 24h en Portimão, a veinticinco minutos. El centro peatonal se recorre con facilidad con la correa en la mano, de terraza en terraza.`,
+      pt: `Lagos, na costa ocidental do Algarve, foi um dos grandes portos da epopeia dos Descobrimentos portugueses. Foi daqui que partiram, no século XV, as caravelas armadas pelo Infante D. Henrique, memória preservada na Praça do Infante; o primeiro mercado de escravos da Europa, reverso sombrio dessa história, abriu aqui em 1444. Capital do Algarve até ao terramoto de 1755 que arrasou a cidade, Lagos manteve o seu centro histórico cingido por muralhas do século XVI, as suas ruelas calcetadas e a deslumbrante igreja barroca de Santo António. Mas a cidade é sobretudo célebre pela Ponta da Piedade, falésias de arenito dourado esculpidas em grutas e arcos sobre um mar turquesa. Para um viajante com cão, Lagos combina uma longa praia de areia (Meia Praia), uma mata nacional propícia a longas caminhadas, um clima ameno todo o ano e um hospital veterinário 24h em Portimão, a vinte e cinco minutos. O centro pedonal percorre-se com facilidade de trela na mão, de esplanada em esplanada.`,
+    },
+    sights: [
+      {
+        name: 'Ponta da Piedade',
+        emoji: '🪨',
+        petFriendly: true,
+        desc: {
+          fr: `Le promontoire emblématique de Lagos, où des falaises de grès doré tombent dans une mer turquoise parmi grottes et arches. Un sentier en planches et un escalier longent le sommet ; les chiens en laisse y sont les bienvenus, mais tenez-les à l'écart des bords abrupts et non protégés. Lever et coucher de soleil y sont spectaculaires.`,
+          en: `Lagos's signature headland, where golden sandstone cliffs drop into a turquoise sea among grottoes and arches. A boardwalk and stairway run along the top; leashed dogs are welcome, but keep them away from the steep, unfenced edges. Sunrise and sunset here are spectacular.`,
+          es: `El promontorio emblemático de Lagos, donde acantilados de arenisca dorada caen sobre un mar turquesa entre grutas y arcos. Una pasarela de madera y una escalera recorren la cima; los perros con correa son bienvenidos, pero mantenlos lejos de los bordes abruptos y sin protección. El amanecer y el atardecer son espectaculares.`,
+          pt: `O promontório emblemático de Lagos, onde falésias de arenito dourado caem sobre um mar turquesa entre grutas e arcos. Um passadiço de madeira e uma escadaria percorrem o topo; os cães com trela são bem-vindos, mas mantenha-os longe das bordas abruptas e sem proteção. O nascer e o pôr do sol são espetaculares.`,
+        },
+      },
+      {
+        name: 'Meia Praia',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La plus longue plage de Lagos, près de 4 km de sable fin à l'est de la ville. Hors de la haute saison estivale, c'est un terrain de jeu idéal pour les chiens, particulièrement à son extrémité est, plus sauvage, près de l'estuaire. En été, les zones de baignade surveillées limitent l'accès : privilégiez tôt le matin ou la fin de journée.`,
+          en: `Lagos's longest beach, nearly 4 km of fine sand east of town. Outside the high summer season it is an ideal playground for dogs, especially at its wilder eastern end near the estuary. In summer, supervised bathing zones restrict access: favour early morning or late afternoon.`,
+          es: `La playa más larga de Lagos, casi 4 km de arena fina al este de la ciudad. Fuera de la temporada alta estival es un terreno de juego ideal para los perros, sobre todo en su extremo este, más salvaje, cerca del estuario. En verano, las zonas de baño vigiladas limitan el acceso: opta por primera hora de la mañana o el final del día.`,
+          pt: `A praia mais longa de Lagos, quase 4 km de areia fina a leste da cidade. Fora da época alta estival é um recreio ideal para os cães, sobretudo na sua extremidade este, mais selvagem, junto ao estuário. No verão, as zonas de banho vigiadas limitam o acesso: prefira o início da manhã ou o fim do dia.`,
+        },
+      },
+      {
+        name: 'Centro Histórico de Lagos',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le cœur pavé de la vieille ville, enserré dans ses murailles du XVIᵉ siècle, mêle places ombragées, ruelles blanchies et la Praça do Infante avec sa statue d'Henri le Navigateur. Les chiens en laisse y déambulent partout et la plupart des terrasses les accueillent. Un mémorial discret rappelle l'ancien marché aux esclaves.`,
+          en: `The cobbled heart of the old town, enclosed by its 16th-century walls, blends shaded squares, whitewashed lanes and the Praça do Infante with its statue of Henry the Navigator. Leashed dogs wander everywhere and most terraces welcome them. A discreet memorial marks the former slave market.`,
+          es: `El corazón empedrado del casco antiguo, encerrado en sus murallas del siglo XVI, mezcla plazas sombreadas, callejones encalados y la Praça do Infante con su estatua de Enrique el Navegante. Los perros con correa deambulan por todas partes y la mayoría de las terrazas los acogen. Un discreto memorial recuerda el antiguo mercado de esclavos.`,
+          pt: `O coração calcetado do centro histórico, fechado nas suas muralhas do século XVI, mistura praças sombreadas, ruelas caiadas e a Praça do Infante com a sua estátua do Infante D. Henrique. Os cães com trela passeiam por toda a parte e a maioria das esplanadas acolhe-os. Um memorial discreto evoca o antigo mercado de escravos.`,
+        },
+      },
+      {
+        name: 'Mata Nacional do Barão de São João',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `À une dizaine de kilomètres au nord, cette forêt domaniale de pins, d'eucalyptus et de chênes-lièges déroule un réseau de sentiers ombragés où les chiens peuvent marcher de longues heures, souvent sans laisse loin des accès. Une échappée fraîche et tranquille quand la côte est bondée en plein été.`,
+          en: `Ten kilometres or so to the north, this state forest of pine, eucalyptus and cork oak unfolds a network of shaded trails where dogs can walk for hours, often off-leash away from the access points. A cool, quiet escape when the coast is crowded in high summer.`,
+          es: `A unos diez kilómetros al norte, este bosque público de pinos, eucaliptos y alcornoques despliega una red de senderos sombreados donde los perros pueden caminar largas horas, a menudo sin correa lejos de los accesos. Una escapada fresca y tranquila cuando la costa está abarrotada en pleno verano.`,
+          pt: `A uns dez quilómetros a norte, esta mata nacional de pinheiros, eucaliptos e sobreiros desenrola uma rede de trilhos sombreados onde os cães podem caminhar longas horas, muitas vezes sem trela longe dos acessos. Um refúgio fresco e tranquilo quando a costa está apinhada em pleno verão.`,
+        },
+      },
+      {
+        name: 'Praia do Camilo',
+        emoji: '🪜',
+        petFriendly: true,
+        desc: {
+          fr: `Petite crique nichée entre les falaises, parmi les plus photographiées de l'Algarve, accessible par un long escalier de bois de près de 200 marches. Les chiens en laisse y sont admis hors saison ; en été, la plage est minuscule et bondée, mieux vaut s'en tenir au belvédère du haut, qui offre une vue superbe sans la descente.`,
+          en: `A small cove tucked between the cliffs, among the most photographed in the Algarve, reached by a long wooden stairway of nearly 200 steps. Leashed dogs are allowed out of season; in summer the beach is tiny and packed, so it is better to stay at the clifftop viewpoint, which offers a superb view without the descent.`,
+          es: `Pequeña cala encajada entre los acantilados, una de las más fotografiadas del Algarve, a la que se accede por una larga escalera de madera de casi 200 escalones. Los perros con correa se admiten fuera de temporada; en verano la playa es diminuta y está abarrotada, así que conviene quedarse en el mirador superior, que ofrece una vista magnífica sin bajar.`,
+          pt: `Pequena enseada encaixada entre as falésias, das mais fotografadas do Algarve, com acesso por uma longa escadaria de madeira de quase 200 degraus. Os cães com trela são admitidos fora de época; no verão a praia é minúscula e apinhada, pelo que é melhor ficar no miradouro do topo, que oferece uma vista soberba sem a descida.`,
+        },
+      },
+      {
+        name: 'Forte da Ponta da Bandeira',
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `Petit fort du XVIIᵉ siècle gardant l'entrée du port, relié à la ville par un pont-levis au-dessus d'un fossé. L'intérieur, transformé en espace muséal, n'admet pas les chiens, mais la promenade du front de mer qui le longe est un agréable bout de marche en laisse, face à la marina et à l'embouchure de la Bensafrim.`,
+          en: `A small 17th-century fort guarding the harbour entrance, linked to town by a drawbridge over a moat. The interior, turned into a museum space, does not admit dogs, but the seafront promenade alongside it makes a pleasant leashed stroll, facing the marina and the mouth of the Bensafrim.`,
+          es: `Pequeño fuerte del siglo XVII que guarda la entrada del puerto, unido a la ciudad por un puente levadizo sobre un foso. El interior, convertido en espacio museístico, no admite perros, pero el paseo marítimo que lo bordea es un agradable tramo de caminata con correa, frente a la marina y la desembocadura del Bensafrim.`,
+          pt: `Pequeno forte do século XVII que guarda a entrada do porto, ligado à cidade por uma ponte levadiça sobre um fosso. O interior, transformado em espaço museológico, não admite cães, mas o passeio marítimo que o ladeia é um agradável troço de caminhada com trela, em frente à marina e à foz da Bensafrim.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Au Portugal, les chiens sont interdits sur la plupart des plages surveillées du 1ᵉʳ mai au 30 septembre. Hors de cette période, ils profitent largement de Meia Praia ; en été, visez tôt le matin ou après la fermeture des postes de secours.`,
+        `L'Algarve est une région à risque de leishmaniose, transmise par le phlébotome : demandez à votre vétérinaire un collier ou une pipette répulsive avant le séjour, surtout au printemps et en été.`,
+        `À la Ponta da Piedade et le long des falaises, gardez votre chien en laisse courte : les bords sont abrupts, instables et souvent sans barrière.`,
+        `Les étés algarviens sont chauds : marchez tôt ou tard, testez la température du sable et du bitume avec la main, et prévoyez toujours de l'eau.`,
+        `La plupart des esplanadas du centre et de la marina acceptent volontiers les chiens ; il suffit souvent de demander une gamelle d'eau.`,
+      ],
+      en: [
+        `In Portugal, dogs are banned from most supervised beaches from 1 May to 30 September. Outside that window they can fully enjoy Meia Praia; in summer aim for early morning or after the lifeguard posts close.`,
+        `The Algarve is a leishmaniasis risk area, spread by sandflies: ask your vet for a repellent collar or spot-on before the trip, especially in spring and summer.`,
+        `At Ponta da Piedade and along the cliffs, keep your dog on a short lead: the edges are steep, unstable and often unfenced.`,
+        `Algarve summers are hot: walk early or late, test the temperature of sand and tarmac with your hand, and always carry water.`,
+        `Most terraces in the centre and at the marina happily accept dogs; you often only need to ask for a water bowl.`,
+      ],
+      es: [
+        `En Portugal, los perros están prohibidos en la mayoría de las playas vigiladas del 1 de mayo al 30 de septiembre. Fuera de ese periodo disfrutan plenamente de Meia Praia; en verano apunta a primera hora de la mañana o tras el cierre de los puestos de socorro.`,
+        `El Algarve es una zona de riesgo de leishmaniosis, transmitida por el flebótomo: pide a tu veterinario un collar o una pipeta repelente antes del viaje, sobre todo en primavera y verano.`,
+        `En la Ponta da Piedade y a lo largo de los acantilados, mantén a tu perro con correa corta: los bordes son abruptos, inestables y a menudo sin valla.`,
+        `Los veranos algarvíos son calurosos: pasea temprano o tarde, comprueba la temperatura de la arena y el asfalto con la mano y lleva siempre agua.`,
+        `La mayoría de las terrazas del centro y de la marina aceptan de buen grado a los perros; a menudo basta con pedir un cuenco de agua.`,
+      ],
+      pt: [
+        `Em Portugal, os cães estão proibidos na maioria das praias vigiadas de 1 de maio a 30 de setembro. Fora desse período aproveitam plenamente a Meia Praia; no verão, aposte no início da manhã ou após o fecho dos postos de socorro.`,
+        `O Algarve é uma zona de risco de leishmaniose, transmitida pelo flebótomo: peça ao seu veterinário uma coleira ou pipeta repelente antes da viagem, sobretudo na primavera e no verão.`,
+        `Na Ponta da Piedade e ao longo das falésias, mantenha o cão com trela curta: as bordas são abruptas, instáveis e muitas vezes sem proteção.`,
+        `Os verões algarvios são quentes: passeie cedo ou tarde, teste a temperatura da areia e do alcatrão com a mão e leve sempre água.`,
+        `A maioria das esplanadas do centro e da marina aceita de bom grado os cães; muitas vezes basta pedir uma taça de água.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Hôpital vétérinaire 24h/24 : Hospital Veterinário de Portimão (25 min de Lagos), +351 282 418 260`,
+        `Clinique locale : Onevet Petvet Lagos, Rua Capitão Salgueiro Maia, +351 282 799 268`,
+        `Prévention leishmaniose recommandée avant le séjour (collier ou pipette répulsive) en région algarvienne`,
+        `Aéroport de Faro à 1h15 ; pas de quarantaine pour les animaux de l'UE munis d'un passeport valide`,
+      ],
+      en: [
+        `24/7 veterinary hospital: Hospital Veterinário de Portimão (25 min from Lagos), +351 282 418 260`,
+        `Local clinic: Onevet Petvet Lagos, Rua Capitão Salgueiro Maia, +351 282 799 268`,
+        `Leishmaniasis prevention advised before the trip (repellent collar or spot-on) in the Algarve region`,
+        `Faro airport 1h15 away; no quarantine for EU pets with a valid passport`,
+      ],
+      es: [
+        `Hospital veterinario 24h: Hospital Veterinário de Portimão (25 min de Lagos), +351 282 418 260`,
+        `Clínica local: Onevet Petvet Lagos, Rua Capitão Salgueiro Maia, +351 282 799 268`,
+        `Prevención de leishmaniosis recomendada antes del viaje (collar o pipeta repelente) en la región algarví`,
+        `Aeropuerto de Faro a 1h15; sin cuarentena para mascotas de la UE con pasaporte válido`,
+      ],
+      pt: [
+        `Hospital veterinário 24h: Hospital Veterinário de Portimão (25 min de Lagos), +351 282 418 260`,
+        `Clínica local: Onevet Petvet Lagos, Rua Capitão Salgueiro Maia, +351 282 799 268`,
+        `Prevenção da leishmaniose recomendada antes da viagem (coleira ou pipeta repelente) na região algarvia`,
+        `Aeroporto de Faro a 1h15; sem quarentena para animais da UE com passaporte válido`,
+      ],
+    },
+  },
+
   lausanne: {
     history: {
       fr: `Lausanne est la capitale olympique mondiale, le Comité International Olympique y siège depuis 1915, et le Musée Olympique sur les rives du lac Léman em est le cœur symbolique. Fondée à l\'époque romaine sous le nom de Lousonna, la ville médiévale s\'est développée autour de sa cathédrale gothique, l\'une des plus belles de Suisse. Aujourd\'hui, Lausanne est une ville suisse d\'exception pour les voyageurs avec animaux : la loi helvétique protège le bien-être animal, les chiens circulent gratuitement dans le métro M1/M2 et les tramways TL, et la forêt de Sauvabelin, 200 hectares em pleine ville, offre des promenades sans laisse. Les restaurants à terrasse accueillent quasi-systématiquement les chiens, et le bord du lac d\'Ouchy constitue une promenade quotidienne idéale.`,
@@ -22579,6 +22712,139 @@ const cityContent: Record<string, CityContent> = {
         `Urgências nocturnas: Ambulatorio Veterinario Dott. La Manna, Via Francavilla 7/A, +39 0942 577168`,
         `Passaporte europeu para animais aceite; sem quarentena para animais da UE`,
         `Como chegar: aeroporto de Catânia (CTA, 1h de carro ou autocarro Etna Trasporti / SAIS) e depois comboio regional Trenitalia ou autocarro Interbus até Taormina`,
+      ],
+    },
+  },
+
+  tarifa: {
+    history: {
+      fr: `Tarifa, point le plus méridional de l'Europe continentale, occupe la pointe où la Méditerranée rencontre l'Atlantique, face aux montagnes du Rif marocain à seulement 14 km de l'autre rive du détroit de Gibraltar. La ville tient son nom de Tarif ibn Malik, le commandant berbère qui y débarqua en 710, et son casco antiguo aux ruelles blanchies à la chaux est encore ceinturé de remparts almohades dominés par le Castillo de Guzmán el Bueno, du Xᵉ siècle. Battue par les vents de Levante et de Poniente, Tarifa est devenue la capitale mondiale du windsurf et du kitesurf, mais c'est aussi un haut lieu d'observation des baleines et des dauphins dans le détroit et un point de passage migratoire majeur pour les oiseaux. Pour un voyageur avec un chien, Tarifa offre des plages immenses de sable fin (Los Lances, Valdevaqueros, Bolonia), un arrière-pays de parc naturel sillonné de sentiers, un climat doux toute l'année et un hôpital vétérinaire 24h/24 à Algeciras, à vingt minutes de route. Le centre andalou est compact et piéton, idéal pour flâner laisse à la main entre les terrasses.`,
+      en: `Tarifa, the southernmost point of continental Europe, sits on the headland where the Mediterranean meets the Atlantic, facing Morocco's Rif mountains just 14 km across the Strait of Gibraltar. The town takes its name from Tarif ibn Malik, the Berber commander who landed here in 710, and its whitewashed old town is still ringed by Almohad walls crowned by the 10th-century Castillo de Guzmán el Bueno. Swept by the Levante and Poniente winds, Tarifa has become the world capital of windsurfing and kitesurfing, but it is also a prime spot for whale and dolphin watching in the strait and a major migratory crossing for birds. For a traveller with a dog, Tarifa offers vast fine-sand beaches (Los Lances, Valdevaqueros, Bolonia), a natural-park hinterland threaded with trails, a mild year-round climate and a 24/7 veterinary hospital in Algeciras, twenty minutes away by road. The Andalusian centre is compact and pedestrian, perfect for strolling lead in hand between the terraces.`,
+      es: `Tarifa, el punto más meridional de la Europa continental, se asienta en el cabo donde el Mediterráneo se encuentra con el Atlántico, frente a las montañas del Rif marroquí a solo 14 km al otro lado del estrecho de Gibraltar. La ciudad debe su nombre a Tarif ibn Malik, el comandante bereber que desembarcó aquí en 710, y su casco antiguo de calles encaladas sigue rodeado de murallas almohades coronadas por el Castillo de Guzmán el Bueno, del siglo X. Azotada por los vientos de Levante y de Poniente, Tarifa se ha convertido en la capital mundial del windsurf y el kitesurf, pero también es un lugar privilegiado para avistar ballenas y delfines en el estrecho y un paso migratorio clave para las aves. Para un viajero con perro, Tarifa ofrece playas inmensas de arena fina (Los Lances, Valdevaqueros, Bolonia), un interior de parque natural surcado de senderos, un clima suave todo el año y un hospital veterinario 24h en Algeciras, a veinte minutos en coche. El centro andaluz es compacto y peatonal, ideal para pasear con la correa en la mano entre las terrazas.`,
+      pt: `Tarifa, o ponto mais meridional da Europa continental, situa-se no cabo onde o Mediterrâneo encontra o Atlântico, em frente às montanhas do Rif marroquino a apenas 14 km do outro lado do estreito de Gibraltar. A cidade deve o nome a Tarif ibn Malik, o comandante berbere que aqui desembarcou em 710, e o seu casco antigo de ruas caiadas de branco continua rodeado por muralhas almóadas coroadas pelo Castillo de Guzmán el Bueno, do século X. Fustigada pelos ventos de Levante e de Poniente, Tarifa tornou-se a capital mundial do windsurf e do kitesurf, mas é também um local privilegiado para observar baleias e golfinhos no estreito e uma passagem migratória importante para as aves. Para um viajante com cão, Tarifa oferece praias imensas de areia fina (Los Lances, Valdevaqueros, Bolonia), um interior de parque natural percorrido por trilhos, um clima ameno todo o ano e um hospital veterinário 24h em Algeciras, a vinte minutos de carro. O centro andaluz é compacto e pedonal, ideal para passear com a trela na mão entre as esplanadas.`,
+    },
+    sights: [
+      {
+        name: 'Playa de Los Lances',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La grande plage de Tarifa, plus de 7 km de sable doré bordés d'une lagune et du parc naturel. Une zone canine est désignée à son extrémité nord, où les chiens peuvent courir et se baigner librement hors saison ; en été, ils restent admis tôt le matin et en fin de journée. Lieu de baignade et de marche par excellence.`,
+          en: `Tarifa's great beach, over 7 km of golden sand fringed by a lagoon and the natural park. A designated dog zone lies at its northern end, where dogs may run and swim freely out of season; in summer they remain welcome early morning and late afternoon. The quintessential spot for swimming and walking.`,
+          es: `La gran playa de Tarifa, más de 7 km de arena dorada bordeados por una laguna y el parque natural. Una zona canina está señalizada en su extremo norte, donde los perros pueden correr y bañarse libremente fuera de temporada; en verano siguen siendo bienvenidos a primera hora de la mañana y al atardecer. El lugar de baño y paseo por excelencia.`,
+          pt: `A grande praia de Tarifa, mais de 7 km de areia dourada ladeados por uma lagoa e pelo parque natural. Uma zona canina está sinalizada na sua extremidade norte, onde os cães podem correr e tomar banho livremente fora de época; no verão continuam bem-vindos ao início da manhã e ao fim da tarde. O local de banho e passeio por excelência.`,
+        },
+      },
+      {
+        name: 'Casco Antiguo y Puerta de Jerez',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le cœur médiéval de Tarifa, labyrinthe de ruelles blanchies, de patios fleuris et de places ombragées, franchi par la Puerta de Jerez du XIIIᵉ siècle. Les chiens en laisse y sont partout les bienvenus et la plupart des terrasses acceptent volontiers les compagnons à quatre pattes. Parfait à la fraîche du matin ou du soir.`,
+          en: `Tarifa's medieval heart, a maze of whitewashed lanes, flower-filled patios and shaded squares, entered through the 13th-century Puerta de Jerez. Leashed dogs are welcome throughout and most terraces happily accept four-legged companions. Perfect in the cool of morning or evening.`,
+          es: `El corazón medieval de Tarifa, un laberinto de callejones encalados, patios floridos y plazas sombreadas, al que se accede por la Puerta de Jerez del siglo XIII. Los perros con correa son bienvenidos en todas partes y la mayoría de las terrazas aceptan de buen grado a los compañeros de cuatro patas. Perfecto al fresco de la mañana o de la tarde.`,
+          pt: `O coração medieval de Tarifa, um labirinto de ruelas caiadas, pátios floridos e praças sombreadas, com entrada pela Puerta de Jerez do século XIII. Os cães com trela são bem-vindos por toda a parte e a maioria das esplanadas aceita de bom grado os companheiros de quatro patas. Perfeito ao fresco da manhã ou do fim de tarde.`,
+        },
+      },
+      {
+        name: 'Playa de Valdevaqueros',
+        emoji: '🌬️',
+        petFriendly: true,
+        desc: {
+          fr: `À l'ouest de la ville, cette baie spectaculaire est dominée par une immense dune de sable et balayée par le vent qui en fait le spot de kitesurf le plus célèbre d'Europe. Hors saison estivale, c'est un terrain de jeu sans fin pour les chiens, qui peuvent galoper sur le sable et dans les vagues. Vérifiez l'affichage des règles à l'entrée en haute saison.`,
+          en: `West of town, this dramatic bay is dominated by a vast sand dune and swept by the wind that makes it Europe's most famous kitesurfing spot. Outside the summer season it is an endless playground for dogs, who can gallop across the sand and into the waves. Check the posted rules at the entrance in high season.`,
+          es: `Al oeste de la ciudad, esta bahía espectacular está dominada por una enorme duna de arena y azotada por el viento que la convierte en el spot de kitesurf más famoso de Europa. Fuera de la temporada estival es un terreno de juego infinito para los perros, que pueden galopar por la arena y entre las olas. Consulta las normas señalizadas en la entrada en temporada alta.`,
+          pt: `A oeste da cidade, esta baía espetacular é dominada por uma enorme duna de areia e fustigada pelo vento que a torna no spot de kitesurf mais famoso da Europa. Fora da época estival é um recreio sem fim para os cães, que podem galopar pela areia e entre as ondas. Consulte as regras afixadas à entrada na época alta.`,
+        },
+      },
+      {
+        name: 'Playa de Bolonia',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `À 20 km au nord-ouest, cette plage sauvage classée Monument naturel abrite une dune mobile de 30 m de haut et jouxte les ruines romaines de Baelo Claudia. La plage accueille les chiens en laisse hors des zones de baignade surveillées en été ; l'enceinte archéologique, en revanche, ne les admet pas. Le panorama sur le détroit y est saisissant.`,
+          en: `Twenty km to the northwest, this wild beach, listed as a Natural Monument, holds a 30 m-high shifting dune and adjoins the Roman ruins of Baelo Claudia. The beach welcomes leashed dogs outside the supervised summer bathing zones; the archaeological enclosure, however, does not admit them. The panorama over the strait is striking.`,
+          es: `A 20 km al noroeste, esta playa salvaje declarada Monumento Natural alberga una duna móvil de 30 m de altura y linda con las ruinas romanas de Baelo Claudia. La playa admite perros con correa fuera de las zonas de baño vigiladas en verano; el recinto arqueológico, en cambio, no los permite. El panorama sobre el estrecho es impresionante.`,
+          pt: `A 20 km a noroeste, esta praia selvagem classificada como Monumento Natural alberga uma duna móvel de 30 m de altura e confina com as ruínas romanas de Baelo Claudia. A praia aceita cães com trela fora das zonas de banho vigiadas no verão; o recinto arqueológico, porém, não os admite. O panorama sobre o estreito é impressionante.`,
+        },
+      },
+      {
+        name: 'Castillo de Guzmán el Bueno',
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `La forteresse du Xᵉ siècle qui domine la vieille ville doit son nom à Guzmán el Bueno, qui préféra en 1294 sacrifier son fils plutôt que de livrer la place aux assiégeants. Les chiens ne sont pas admis à l'intérieur du monument, mais le mirador adjacent et les remparts extérieurs offrent une promenade dégagée avec vue sur le port et l'Afrique.`,
+          en: `The 10th-century fortress that dominates the old town owes its name to Guzmán el Bueno, who in 1294 chose to sacrifice his son rather than surrender the stronghold to the besiegers. Dogs are not admitted inside the monument, but the adjacent viewpoint and the outer ramparts offer an open walk with views of the port and Africa.`,
+          es: `La fortaleza del siglo X que domina el casco antiguo debe su nombre a Guzmán el Bueno, que en 1294 prefirió sacrificar a su hijo antes que entregar la plaza a los sitiadores. No se admiten perros en el interior del monumento, pero el mirador contiguo y las murallas exteriores ofrecen un paseo despejado con vistas al puerto y a África.`,
+          pt: `A fortaleza do século X que domina o casco antigo deve o nome a Guzmán el Bueno, que em 1294 preferiu sacrificar o filho a entregar a praça aos sitiantes. Não se admitem cães no interior do monumento, mas o miradouro contíguo e as muralhas exteriores oferecem um passeio desafogado com vista para o porto e para África.`,
+        },
+      },
+      {
+        name: 'Parque Natural del Estrecho',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc naturel qui protège toute la pointe du détroit déroule des sentiers côtiers et forestiers, dont le mirador du Cerro de la Peña et les chemins du Pinar del Bujeo, où les chiens en laisse profitent de panoramas sur les deux continents. C'est aussi l'un des meilleurs postes d'observation de la migration des oiseaux et des cétacés au printemps et à l'automne.`,
+          en: `The natural park protecting the whole tip of the strait unfolds coastal and forest trails, including the Cerro de la Peña viewpoint and the paths of the Pinar del Bujeo, where leashed dogs enjoy panoramas over two continents. It is also one of the best vantage points for bird and cetacean migration in spring and autumn.`,
+          es: `El parque natural que protege toda la punta del estrecho despliega senderos costeros y forestales, entre ellos el mirador del Cerro de la Peña y los caminos del Pinar del Bujeo, donde los perros con correa disfrutan de panorámicas sobre dos continentes. Es también uno de los mejores puntos de observación de la migración de aves y cetáceos en primavera y otoño.`,
+          pt: `O parque natural que protege toda a ponta do estreito desenrola trilhos costeiros e florestais, entre eles o miradouro do Cerro de la Peña e os caminhos do Pinar del Bujeo, onde os cães com trela desfrutam de panorâmicas sobre dois continentes. É também um dos melhores pontos de observação da migração de aves e cetáceos na primavera e no outono.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Sur les grandes plages (Los Lances, Valdevaqueros), les chiens sont libres hors saison ; en été, ils restent généralement admis tôt le matin et après 20h. Vérifiez l'affichage municipal à chaque accès.`,
+        `Le vent de Levante soulève le sable et fatigue les chiens : prévoyez de l'eau, de l'ombre et évitez les heures les plus venteuses pour les oreilles et les yeux sensibles.`,
+        `Le sable peut devenir brûlant en plein été : marchez tôt ou tard et testez la température avec la main avant de laisser votre chien courir.`,
+        `Les sorties d'observation des baleines au départ du port n'acceptent pas toutes les animaux : confirmez auprès de l'opérateur avant de réserver.`,
+        `Pour un aller-retour à Tanger en ferry, votre chien doit avoir passeport européen, puce et vaccin antirabique à jour ; renseignez-vous sur les conditions d'entrée au Maroc avant de partir.`,
+      ],
+      en: [
+        `On the large beaches (Los Lances, Valdevaqueros), dogs roam free out of season; in summer they are generally allowed early morning and after 8pm. Check the municipal signage at each access point.`,
+        `The Levante wind whips up sand and tires dogs out: bring water and shade, and avoid the windiest hours for sensitive ears and eyes.`,
+        `Sand can turn scorching in high summer: walk early or late and test the temperature with your hand before letting your dog run.`,
+        `Whale-watching trips leaving the port do not all accept pets: confirm with the operator before booking.`,
+        `For a day trip to Tangier by ferry, your dog needs an EU pet passport, microchip and up-to-date rabies vaccine; check Morocco's entry requirements before you go.`,
+      ],
+      es: [
+        `En las playas grandes (Los Lances, Valdevaqueros), los perros van sueltos fuera de temporada; en verano suelen admitirse a primera hora de la mañana y después de las 20h. Consulta la señalización municipal en cada acceso.`,
+        `El viento de Levante levanta la arena y agota a los perros: lleva agua y sombra, y evita las horas de más viento para oídos y ojos sensibles.`,
+        `La arena puede arder en pleno verano: pasea temprano o tarde y comprueba la temperatura con la mano antes de dejar correr a tu perro.`,
+        `Las salidas de avistamiento de ballenas desde el puerto no todas admiten mascotas: confirma con el operador antes de reservar.`,
+        `Para una excursión a Tánger en ferry, tu perro necesita pasaporte europeo, microchip y vacuna antirrábica al día; infórmate de los requisitos de entrada a Marruecos antes de viajar.`,
+      ],
+      pt: [
+        `Nas praias grandes (Los Lances, Valdevaqueros), os cães andam à solta fora de época; no verão são geralmente admitidos ao início da manhã e depois das 20h. Consulte a sinalização municipal em cada acesso.`,
+        `O vento de Levante levanta a areia e cansa os cães: leve água e sombra e evite as horas de mais vento para ouvidos e olhos sensíveis.`,
+        `A areia pode ficar a escaldar em pleno verão: passeie cedo ou tarde e teste a temperatura com a mão antes de deixar o cão correr.`,
+        `Os passeios de observação de baleias que partem do porto nem todos aceitam animais: confirme com o operador antes de reservar.`,
+        `Para uma ida e volta a Tânger de ferry, o seu cão precisa de passaporte europeu, microchip e vacina antirrábica em dia; informe-se sobre os requisitos de entrada em Marrocos antes de partir.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Hôpital vétérinaire 24h/24 : Hospital Veterinario Alba, Algeciras (20 min de Tarifa), +34 956 667 352`,
+        `Clinique locale : Clínica Veterinaria Europa Tarifa, La Vega 221, +34 956 68 53 43`,
+        `Ferry pour Tanger (FRS / Inter Shipping) : 35 min ; passeport européen, puce et rage à jour exigés pour le retour`,
+        `Aéroports : Jerez (1h15), Gibraltar (45 min), Málaga (2h) ; pas de quarantaine pour les animaux de l'UE munis d'un passeport valide`,
+      ],
+      en: [
+        `24/7 veterinary hospital: Hospital Veterinario Alba, Algeciras (20 min from Tarifa), +34 956 667 352`,
+        `Local clinic: Clínica Veterinaria Europa Tarifa, La Vega 221, +34 956 68 53 43`,
+        `Ferry to Tangier (FRS / Inter Shipping): 35 min; EU pet passport, microchip and current rabies vaccine required for return`,
+        `Airports: Jerez (1h15), Gibraltar (45 min), Málaga (2h); no quarantine for EU pets with a valid passport`,
+      ],
+      es: [
+        `Hospital veterinario 24h: Hospital Veterinario Alba, Algeciras (20 min de Tarifa), +34 956 667 352`,
+        `Clínica local: Clínica Veterinaria Europa Tarifa, La Vega 221, +34 956 68 53 43`,
+        `Ferry a Tánger (FRS / Inter Shipping): 35 min; pasaporte europeo, microchip y rabia al día exigidos para el regreso`,
+        `Aeropuertos: Jerez (1h15), Gibraltar (45 min), Málaga (2h); sin cuarentena para mascotas de la UE con pasaporte válido`,
+      ],
+      pt: [
+        `Hospital veterinário 24h: Hospital Veterinario Alba, Algeciras (20 min de Tarifa), +34 956 667 352`,
+        `Clínica local: Clínica Veterinaria Europa Tarifa, La Vega 221, +34 956 68 53 43`,
+        `Ferry para Tânger (FRS / Inter Shipping): 35 min; passaporte europeu, microchip e raiva em dia exigidos para o regresso`,
+        `Aeroportos: Jerez (1h15), Gibraltar (45 min), Málaga (2h); sem quarentena para animais da UE com passaporte válido`,
       ],
     },
   },

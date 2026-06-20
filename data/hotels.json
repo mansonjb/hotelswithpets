@@ -40685,5 +40685,535 @@
       "Dogs stay free",
       "Garden setting close to Victoria"
     ]
+  },
+  {
+    "id": "naxos-1",
+    "slug": "mirabelle-luxury-villas-naxos",
+    "name": "Mirabelle Luxury Villas",
+    "destinationSlug": "naxos",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9.7,
+    "reviewCount": 161,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mirabelle+Luxury+Villas+Naxos",
+    "petFee": 0,
+    "petPolicy": "Pets are welcome at this luxury villa property near Plaka Beach, with private gardens and terraces that suit travelling dogs. There is no extra pet charge, but space and number of pets may be subject to the villa booked. Please confirm with the property when booking.",
+    "address": "Plaka area, Naxos 84300, Greece",
+    "neighborhood": "Plaka",
+    "highlights": [
+      "Private villas with gardens",
+      "Near long sandy Plaka Beach",
+      "No pet fee"
+    ]
+  },
+  {
+    "id": "naxos-2",
+    "slug": "naxian-garden-of-senses",
+    "name": "Naxian Garden of Senses",
+    "destinationSlug": "naxos",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 110,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Naxian+Garden+of+Senses+Naxos",
+    "petFee": 0,
+    "petPolicy": "This boutique garden retreat near Agia Anna Beach accepts pets, with spacious rooms and a calm garden setting that works well for a relaxed dog. Pets are accepted at no extra charge on request. Please confirm with the property when booking.",
+    "address": "Agia Anna, Naxos 84300, Greece",
+    "neighborhood": "Agia Anna",
+    "highlights": [
+      "Tranquil garden setting",
+      "Short walk to Agia Anna Beach",
+      "Boutique-scale and quiet"
+    ]
+  },
+  {
+    "id": "naxos-3",
+    "slug": "naxos-palace-hotel",
+    "name": "Naxos Palace Hotel",
+    "destinationSlug": "naxos",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 7.2,
+    "reviewCount": 94,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Naxos+Palace+Hotel+Naxos",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request at no extra charge, and dogs or cats are accepted in the guestrooms with possible size limitations. The hotel sits a short walk from Agios Prokopios Beach with two outdoor pools and a spa. Please confirm with the property when booking.",
+    "address": "Stelida, Agios Prokopios, Naxos 84300, Greece",
+    "neighborhood": "Agios Prokopios / Stelida",
+    "highlights": [
+      "Pets free on request",
+      "Near Agios Prokopios Beach",
+      "Outdoor pools and spa"
+    ]
+  },
+  {
+    "id": "naxos-4",
+    "slug": "naxos-green-village-hotel",
+    "name": "Naxos Green Village Hotel",
+    "destinationSlug": "naxos",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1666,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Naxos+Green+Village+Hotel+Naxos",
+    "petFee": 0,
+    "petPolicy": "This garden hotel a short walk from Agios Georgios Beach and Chora welcomes pets, with green grounds and a seasonal pool. Pets are accepted at no extra charge. Please confirm with the property when booking.",
+    "address": "Agios Georgios, Naxos Town (Chora), Naxos 84300, Greece",
+    "neighborhood": "Naxos Town (Chora) / Agios Georgios",
+    "highlights": [
+      "Garden grounds and seasonal pool",
+      "Walk to Agios Georgios Beach",
+      "Free parking"
+    ]
+  },
+  {
+    "id": "naxos-5",
+    "slug": "naxian-air-naxos",
+    "name": "Naxian Air",
+    "destinationSlug": "naxos",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.5,
+    "reviewCount": 120,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Naxian+Air+Naxos",
+    "petFee": 0,
+    "petPolicy": "These well-rated studios in Naxos Town (Chora) accept pets at no extra charge, making them a good-value base within walking distance of the old town and beach. Please confirm with the property when booking.",
+    "address": "Naxos Town (Chora), Naxos 84300, Greece",
+    "neighborhood": "Naxos Town (Chora)",
+    "highlights": [
+      "Great-value studios",
+      "Walkable to Chora and beach",
+      "No pet fee"
+    ]
+  },
+  {
+    "id": "trogir-1",
+    "slug": "brown-beach-house-trogir",
+    "name": "Brown Beach House Hotel & Spa",
+    "destinationSlug": "trogir",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 760,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Brown+Beach+House+Trogir",
+    "petFee": 10,
+    "petPolicy": "Pets are allowed at Brown Beach House Hotel & Spa. Small cats and dogs are welcome for an additional 10 EUR per pet, per day, payable directly to the property. Please confirm with the property when booking.",
+    "address": "Put Gradine 66, 21220 Trogir, Croatia",
+    "neighborhood": "Ciovo waterfront",
+    "highlights": [
+      "Design boutique hotel with sea-facing spa",
+      "Private beach access on Ciovo",
+      "Welcomes small dogs and cats for a modest fee"
+    ]
+  },
+  {
+    "id": "trogir-2",
+    "slug": "tifani-luxury-rooms-trogir",
+    "name": "Tifani Luxury Rooms",
+    "destinationSlug": "trogir",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 540,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Tifani+Luxury+Rooms+Trogir",
+    "petFee": 0,
+    "petPolicy": "Pets are welcome at Tifani Luxury Rooms. Dogs of any size are accepted at no additional charge, and cats are also welcome. Please confirm with the property when booking.",
+    "address": "Ciovo, 21220 Trogir, Croatia",
+    "neighborhood": "Ciovo island",
+    "highlights": [
+      "Dogs of any size stay free",
+      "Modern luxury rooms near Trogir old town",
+      "Cats also welcome"
+    ]
+  },
+  {
+    "id": "trogir-3",
+    "slug": "amadria-park-camping-trogir",
+    "name": "Amadria Park Camping Trogir",
+    "destinationSlug": "trogir",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1200,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Amadria+Park+Camping+Trogir",
+    "petFee": 10,
+    "petPolicy": "Pets are allowed at Amadria Park Camping Trogir, which has its own dog beach. Charges may apply, so confirm the pet fee for your accommodation type. Please confirm with the property when booking.",
+    "address": "Seget Vranjica, 21218 Seget Donji, Croatia",
+    "neighborhood": "Seget Vranjica",
+    "highlights": [
+      "On-site dog beach for swimming",
+      "Green pine-shaded seaside resort",
+      "Mobile homes and pitches that welcome dogs"
+    ]
+  },
+  {
+    "id": "trogir-4",
+    "slug": "heritage-hotel-pasike-trogir",
+    "name": "Heritage Hotel Pasike",
+    "destinationSlug": "trogir",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 650,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Heritage+Hotel+Pasike+Trogir",
+    "petFee": 15,
+    "petPolicy": "Pets are allowed at Heritage Hotel Pasike on request and charges may apply. The hotel sits in the heart of the old town, so a calm, leashed dog is best. Please confirm with the property when booking.",
+    "address": "Sinjska ul. 4, 21220 Trogir, Croatia",
+    "neighborhood": "Old Town",
+    "highlights": [
+      "Family-run heritage hotel in the UNESCO old town",
+      "Traditional stone-built character rooms",
+      "On-site Dalmatian restaurant"
+    ]
+  },
+  {
+    "id": "trogir-5",
+    "slug": "apartments-bago-trogir",
+    "name": "Apartments Bago",
+    "destinationSlug": "trogir",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 320,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Apartments+Bago+Trogir",
+    "petFee": 10,
+    "petPolicy": "Pets are allowed at Apartments Bago and charges may apply. The self-catering apartments on Ciovo suit travellers who want kitchen space and easy beach access with a dog. Please confirm with the property when booking.",
+    "address": "Slatine, Ciovo, 21224 Trogir, Croatia",
+    "neighborhood": "Slatine, Ciovo island",
+    "highlights": [
+      "Affordable self-catering apartments",
+      "Quiet Ciovo coast near swimming coves",
+      "Sea views and easy parking"
+    ]
+  },
+  {
+    "id": "portimao-1",
+    "slug": "hotel-algarve-casino-portimao",
+    "name": "Hotel Algarve Casino",
+    "destinationSlug": "portimao",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 8.4,
+    "reviewCount": 1358,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Algarve+Casino+Portimao+Algarve",
+    "petFee": 25,
+    "petPolicy": "Hotel Algarve Casino accepts one dog of up to 10 kg per room, in sea-view rooms only and for an extra cost. Dogs are not allowed in the restaurants, bars or pool areas. Please confirm with the property when booking.",
+    "address": "Avenida Tomás Cabreira, Praia da Rocha, 8500-802 Portimão",
+    "neighborhood": "Praia da Rocha",
+    "highlights": [
+      "Seafront Praia da Rocha location",
+      "On-site casino & spa",
+      "Outdoor pool"
+    ]
+  },
+  {
+    "id": "portimao-2",
+    "slug": "pestana-alvor-south-beach",
+    "name": "Pestana Alvor South Beach",
+    "destinationSlug": "portimao",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1100,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Pestana+Alvor+South+Beach+Portimao+Algarve",
+    "petFee": 25,
+    "petPolicy": "Pestana Alvor South Beach welcomes one pet up to 15 kg in designated rooms for a fee of 25 EUR per night, with both dogs and cats accepted. Pets cannot be left unattended in the room. Please confirm with the property when booking.",
+    "address": "Praia do Alvor, 8500-088 Alvor, Portimão",
+    "neighborhood": "Alvor",
+    "highlights": [
+      "Steps from Alvor beach",
+      "Three infinity pools",
+      "Contemporary boutique design"
+    ]
+  },
+  {
+    "id": "portimao-3",
+    "slug": "clube-praia-da-rocha-portimao",
+    "name": "Clube Praia da Rocha",
+    "destinationSlug": "portimao",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 7.6,
+    "reviewCount": 949,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Clube+Praia+da+Rocha+Portimao+Algarve",
+    "petFee": 15,
+    "petPolicy": "Clube Praia da Rocha lists pets as welcome on request in selected apartments, with terms and any fee confirmed per unit at the time of booking. It sits a short walk from Três Castelos beach and the Praia da Rocha boardwalk. Please confirm with the property when booking.",
+    "address": "Avenida Tomás Cabreira, Praia da Rocha, 8500-802 Portimão",
+    "neighborhood": "Praia da Rocha",
+    "highlights": [
+      "Self-catering apartments",
+      "Walk to Três Castelos beach",
+      "Outdoor pool"
+    ]
+  },
+  {
+    "id": "portimao-4",
+    "slug": "apartamentos-belo-horizonte-portimao",
+    "name": "Apartamentos Belo Horizonte",
+    "destinationSlug": "portimao",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 2,
+    "rating": 7.8,
+    "reviewCount": 1114,
+    "priceFrom": 71,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Apartamentos+Belo+Horizonte+Praia+da+Rocha+Portimao",
+    "petFee": 10,
+    "petPolicy": "Apartamentos Belo Horizonte welcomes pets on request, with any charge confirmed at the time of booking. The self-catering apartments sit right on the Praia da Rocha seafront avenue near the boardwalk. Please confirm with the property when booking.",
+    "address": "Avenida Tomás Cabreira, Edifício Belo Horizonte, 8500-802 Praia da Rocha, Portimão",
+    "neighborhood": "Praia da Rocha",
+    "highlights": [
+      "On the Praia da Rocha seafront",
+      "Self-catering apartments",
+      "Steps from the boardwalk"
+    ]
+  },
+  {
+    "id": "portimao-5",
+    "slug": "belo-horizonte-studio-pet-friendly-portimao",
+    "name": "Belo Horizonte Studio Pet Friendly",
+    "destinationSlug": "portimao",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 60,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Belo+Horizonte+Studio+Pet+Friendly+Praia+da+Rocha+Portimao",
+    "petFee": 0,
+    "petPolicy": "This Praia da Rocha studio explicitly welcomes one pet at no extra charge, making it a budget-friendly base for dog owners near the beach. Add your pet as a special request when booking. Please confirm with the property when booking.",
+    "address": "Praia da Rocha, 8500-802 Portimão",
+    "neighborhood": "Praia da Rocha",
+    "highlights": [
+      "One pet stays free",
+      "Near Praia da Rocha beach",
+      "Self-catering studio"
+    ]
+  },
+  {
+    "id": "larnaca-1",
+    "slug": "leonardo-boutique-hotel-larnaca",
+    "name": "Leonardo Boutique Hotel Larnaca",
+    "destinationSlug": "larnaca",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 900,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Leonardo+Boutique+Hotel+Larnaca",
+    "petFee": 30,
+    "petPolicy": "Well-behaved dogs up to around 8 to 10 kg are welcome, one dog per reservation, in Superior City View rooms only, for a fee of 30 EUR per day. An anti-rabies vaccination certificate is required at check-in and the dog must be declared before arrival. Please confirm with the property when booking.",
+    "address": "57 Constantinou Kalogera, 6021 Larnaca",
+    "neighborhood": "Larnaca centre",
+    "highlights": [
+      "Boutique design hotel",
+      "Larnaca historic centre",
+      "Walking distance to Finikoudes seafront"
+    ]
+  },
+  {
+    "id": "larnaca-2",
+    "slug": "sandy-beach-hotel-spa-larnaca",
+    "name": "Sandy Beach Hotel & Spa",
+    "destinationSlug": "larnaca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1750,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sandy+Beach+Hotel+Spa+Larnaca",
+    "petFee": 10,
+    "petPolicy": "Up to two small dogs under around 7 to 8 kg are accepted in designated rooms, on request and subject to reconfirmation by the property, for a fee of about 10 EUR per pet per night. Please confirm with the property when booking.",
+    "address": "Larnaca-Dhekelia Road, 6307 Larnaca",
+    "neighborhood": "Dhekelia road / Pyla beachfront",
+    "highlights": [
+      "Beachfront location",
+      "Lagoon-style pools",
+      "Full spa"
+    ]
+  },
+  {
+    "id": "larnaca-3",
+    "slug": "pasianna-hotel-apartments-larnaca",
+    "name": "Pasianna Hotel Apartments",
+    "destinationSlug": "larnaca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 7.0,
+    "reviewCount": 200,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Pasianna+Hotel+Apartments+Larnaca",
+    "petFee": 10,
+    "petPolicy": "Pets are allowed for a fee of about 10 EUR per pet per night, in specific designated rooms only. Request a pet-friendly room when booking and confirm directly with the property. Please confirm with the property when booking.",
+    "address": "Michael Angelou 3, 6028 Larnaca",
+    "neighborhood": "Mackenzie Beach",
+    "highlights": [
+      "About 200 m to Mackenzie Beach",
+      "Self-catering apartments",
+      "Near the airport"
+    ]
+  },
+  {
+    "id": "larnaca-4",
+    "slug": "onisillos-hotel-larnaca",
+    "name": "Onisillos Hotel",
+    "destinationSlug": "larnaca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 2,
+    "rating": 7.2,
+    "reviewCount": 1000,
+    "priceFrom": 45,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Onisillos+Hotel+Larnaca",
+    "petFee": 0,
+    "petPolicy": "Both dogs and cats are welcome free of charge, with a size limit of 25 kg, making this one of the most permissive pet policies in Larnaca for larger dogs. No additional pet fee applies. Please confirm with the property when booking.",
+    "address": "17 Onisillos Street, 6025 Larnaca",
+    "neighborhood": "Larnaca centre",
+    "highlights": [
+      "Pets stay free",
+      "Accepts larger dogs up to 25 kg",
+      "Short walk to Finikoudes"
+    ]
+  },
+  {
+    "id": "larnaca-5",
+    "slug": "zakos-court-apartments-larnaca",
+    "name": "Zakos Court Apartments",
+    "destinationSlug": "larnaca",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 2,
+    "rating": 7.4,
+    "reviewCount": 60,
+    "priceFrom": 50,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Zakos+Court+Apartments+Larnaca",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size are welcome at no extra charge, with no stated weight limit, making these self-catering apartments a flexible budget choice for travellers with larger dogs. Please confirm with the property when booking.",
+    "address": "Larnaca",
+    "neighborhood": "Larnaca area",
+    "highlights": [
+      "Dogs stay free",
+      "No size limit",
+      "Self-catering apartments"
+    ]
   }
 ]

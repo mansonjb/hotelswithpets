@@ -21,6 +21,26 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    naxos: {
+      personality: `the green, laid-back giant of the Cyclades, where the marble Portara gateway of the Temple of Apollo frames the sunset over Chora's old town and kastro`,
+      highlight: `the Portara headland, the long St George and Plaka beaches, and the marble villages of Halki and Apiranthos`,
+      area: `Naxos Town (Chora), Agios Georgios, and the southern beaches of Agios Prokopios, Agia Anna and Plaka`,
+    },
+    trogir: {
+      personality: `a tiny walled UNESCO old town on a Dalmatian island, crowned by the Cathedral of St Lawrence and the seaside Kamerlengo fortress`,
+      highlight: `the marble lanes of the old town, the palm-lined Riva seafront promenade, and the pine-shaded Pantan paths`,
+      area: `the UNESCO old-town island, the Riva seafront, and nearby Ciovo island beaches`,
+    },
+    portimao: {
+      personality: `a lively Algarve port city wrapped around the Arade river, crowned by the golden Praia da Rocha beach beneath dramatic red cliffs, with a busy riverfront marina, the historic old town around Largo 1 de Dezembro and the Alvor estuary boardwalk nearby`,
+      highlight: `the Praia da Rocha clifftop boardwalk, the Arade riverfront promenade and the Ria de Alvor estuary boardwalk`,
+      area: `Praia da Rocha, the old town and the Arade riverfront`,
+    },
+    larnaca: {
+      personality: `one of the most easygoing seaside cities in Cyprus, where the palm-lined Finikoudes promenade, the Church of Saint Lazarus, the flamingo-filled Larnaca Salt Lake beside the Hala Sultan Tekke mosque and the marina all sit within an easy dog walk`,
+      highlight: `the Larnaca Salt Lake nature trail, the Finikoudes seafront and the fenced Larnaca Dog Park`,
+      area: `Finikoudes seafront, the old town around Saint Lazarus, and Mackenzie Beach`,
+    },
     kefalonia: {
       personality: `the largest and most dramatic of the Ionian islands, wrapped around the Argostoli waterfront and its De Bosset stone bridge, with the Myrtos Beach viewpoint, the cliffside village of Assos, the Melissani cave and the pastel harbour of Fiskardo`,
       highlight: `the Koutavos Lagoon trail, the Katavothres lighthouse loop, and the fir forests of Mount Ainos National Park`,
@@ -1484,6 +1504,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    naxos: {
+      personality: `le géant vert et décontracté des Cyclades, où la porte de marbre de la Portara, vestige du temple d'Apollon, encadre le coucher de soleil sur la vieille ville et le kastro de Chora`,
+      highlight: `le cap de la Portara, les longues plages d'Agios Georgios et de Plaka, et les villages de marbre de Halki et Apiranthos`,
+      area: `Naxos (Chora), Agios Georgios et les plages du sud d'Agios Prokopios, Agia Anna et Plaka`,
+    },
+    trogir: {
+      personality: `une minuscule vieille ville fortifiée classée UNESCO sur une île dalmate, couronnée par la cathédrale Saint-Laurent et la forteresse Kamerlengo en bord de mer`,
+      highlight: `les ruelles de marbre de la vieille ville, la promenade de la Riva bordée de palmiers, et les sentiers ombragés de pins de Pantan`,
+      area: `l'île de la vieille ville UNESCO, le front de mer de la Riva, et les plages de l'île voisine de Ciovo`,
+    },
+    portimao: {
+      personality: `une ville portuaire animée de l'Algarve blottie autour du fleuve Arade, couronnée par la plage dorée de Praia da Rocha au pied de spectaculaires falaises rouges, avec une marina sur le front de mer, la vieille ville historique autour du Largo 1 de Dezembro et le passadiço de l'estuaire d'Alvor tout proche`,
+      highlight: `le passadiço sur les falaises de Praia da Rocha, la promenade du bord de l'Arade et le passadiço de l'estuaire de la Ria de Alvor`,
+      area: `Praia da Rocha, la vieille ville et le front de mer de l'Arade`,
+    },
+    larnaca: {
+      personality: `l'une des villes balnéaires les plus décontractées de Chypre, où la promenade Finikoudes bordée de palmiers, l'église Saint-Lazare, le lac salé de Larnaca peuplé de flamants près de la mosquée Hala Sultan Tekke et la marina se rejoignent en une balade facile avec son chien`,
+      highlight: `le sentier nature du lac salé de Larnaca, le front de mer Finikoudes et le parc canin clôturé de Larnaca`,
+      area: `le front de mer Finikoudes, la vieille ville autour de Saint-Lazare et Mackenzie Beach`,
+    },
     kefalonia: {
       personality: `la plus grande et la plus spectaculaire des îles Ioniennes, lovée autour du front de mer d'Argostoli et de son pont de pierre De Bosset, avec le point de vue de la plage de Myrtos, le village perché d'Assos, la grotte de Melissani et le port pastel de Fiskardo`,
       highlight: `le sentier de la lagune de Koutavos, la boucle du phare de Katavothres et les forêts de sapins du parc national du mont Ainos`,
@@ -2946,6 +2986,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    naxos: {
+      personality: `el gigante verde y relajado de las Cícladas, donde la puerta de mármol de la Portara, del templo de Apolo, enmarca el atardecer sobre el casco antiguo y el kastro de Chora`,
+      highlight: `el cabo de la Portara, las largas playas de Agios Georgios y Plaka, y los pueblos de mármol de Halki y Apiranthos`,
+      area: `Naxos (Chora), Agios Georgios y las playas del sur de Agios Prokopios, Agia Anna y Plaka`,
+    },
+    trogir: {
+      personality: `un diminuto casco antiguo amurallado declarado Patrimonio de la UNESCO en una isla dálmata, coronado por la catedral de San Lorenzo y la fortaleza de Kamerlengo junto al mar`,
+      highlight: `las callejuelas de mármol del casco antiguo, el paseo marítimo de la Riva bordeado de palmeras, y los senderos de Pantan con sombra de pinos`,
+      area: `la isla del casco antiguo UNESCO, el frente marítimo de la Riva, y las playas de la cercana isla de Ciovo`,
+    },
+    portimao: {
+      personality: `una animada ciudad portuaria del Algarve abrazada al río Arade, coronada por la dorada playa de Praia da Rocha al pie de espectaculares acantilados rojos, con una marina junto a la ribera, el casco antiguo histórico en torno al Largo 1 de Dezembro y la pasarela del estuario de Alvor muy cerca`,
+      highlight: `el paseo sobre los acantilados de Praia da Rocha, la ribera del Arade y la pasarela del estuario de la Ria de Alvor`,
+      area: `Praia da Rocha, el casco antiguo y la ribera del Arade`,
+    },
+    larnaca: {
+      personality: `una de las ciudades costeras más tranquilas de Chipre, donde el paseo Finikoudes bordeado de palmeras, la iglesia de San Lázaro, el lago salado de Lárnaca lleno de flamencos junto a la mezquita Hala Sultan Tekke y el puerto deportivo quedan a un paseo fácil con tu perro`,
+      highlight: `el sendero natural del lago salado de Lárnaca, el paseo marítimo Finikoudes y el parque canino vallado de Lárnaca`,
+      area: `el paseo marítimo Finikoudes, el casco antiguo en torno a San Lázaro y Mackenzie Beach`,
+    },
     kefalonia: {
       personality: `la mayor y más espectacular de las islas Jónicas, envuelta en torno al paseo marítimo de Argostoli y su puente de piedra De Bosset, con el mirador de la playa de Myrtos, el pueblo encaramado de Assos, la cueva de Melissani y el puerto pastel de Fiskardo`,
       highlight: `el sendero de la laguna de Koutavos, el circuito del faro de Katavothres y los bosques de abetos del Parque Nacional del Monte Ainos`,
@@ -4408,6 +4468,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    naxos: {
+      personality: `o gigante verde e descontraído das Cíclades, onde o portal de mármore da Portara, do Templo de Apolo, emoldura o pôr do sol sobre a cidade antiga e o kastro de Chora`,
+      highlight: `o promontório da Portara, as longas praias de Agios Georgios e Plaka, e as aldeias de mármore de Halki e Apiranthos`,
+      area: `Naxos (Chora), Agios Georgios e as praias do sul de Agios Prokopios, Agia Anna e Plaka`,
+    },
+    trogir: {
+      personality: `um minúsculo centro histórico amuralhado classificado pela UNESCO numa ilha dálmata, coroado pela Catedral de São Lourenço e pela fortaleza de Kamerlengo à beira-mar`,
+      highlight: `as vielas de mármore do centro histórico, o passeio marítimo da Riva ladeado de palmeiras, e os trilhos de Pantan com sombra de pinheiros`,
+      area: `a ilha do centro histórico UNESCO, a frente marítima da Riva, e as praias da vizinha ilha de Ciovo`,
+    },
+    portimao: {
+      personality: `uma animada cidade portuária do Algarve debruçada sobre o rio Arade, coroada pela dourada praia da Rocha ao fundo de espetaculares falésias vermelhas, com uma marina na frente ribeirinha, a cidade antiga histórica à volta do Largo 1 de Dezembro e o passadiço do estuário de Alvor ali perto`,
+      highlight: `o passadiço sobre as falésias da Praia da Rocha, a frente ribeirinha do Arade e o passadiço do estuário da Ria de Alvor`,
+      area: `a Praia da Rocha, a cidade antiga e a frente ribeirinha do Arade`,
+    },
+    larnaca: {
+      personality: `uma das cidades à beira-mar mais descontraídas de Chipre, onde a avenida Finikoudes ladeada de palmeiras, a Igreja de São Lázaro, o lago salgado de Lárnaca repleto de flamingos junto à mesquita Hala Sultan Tekke e a marina ficam a um passeio fácil com o seu cão`,
+      highlight: `o trilho natural do lago salgado de Lárnaca, a marginal Finikoudes e o parque canino vedado de Lárnaca`,
+      area: `a marginal Finikoudes, a cidade velha em torno de São Lázaro e a Mackenzie Beach`,
+    },
     kefalonia: {
       personality: `a maior e mais espetacular das ilhas Jónicas, envolta na marginal de Argostoli e na sua ponte de pedra De Bosset, com o miradouro da praia de Myrtos, a aldeia empoleirada de Assos, a gruta de Melissani e o porto em tons pastel de Fiskardo`,
       highlight: `o trilho da lagoa de Koutavos, o circuito do farol de Katavothres e as florestas de abetos do Parque Nacional do Monte Ainos`,

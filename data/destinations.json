@@ -21916,5 +21916,305 @@
       }
     },
     "iata": "MLA"
+  },
+  {
+    "slug": "naxos",
+    "name": "Naxos",
+    "country": "Greece",
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/naxos.jpg",
+    "intro": "Naxos is the green, laid-back giant of the Cyclades, where the giant marble Portara gateway frames the sunset over a whitewashed old town and the longest sandy beaches in the islands stretch south toward Plaka. It is one of the most relaxed Greek islands for travelling with a dog, with open beaches, walkable Venetian lanes, and cool inland marble villages.",
+    "lat": 37.1036,
+    "lng": 25.3766,
+    "weather": {
+      "jan": {
+        "temp": 14,
+        "desc": "Cool & breezy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Mild & windy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 16,
+        "desc": "Mild spring",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot, meltemi wind",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild & wetter",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 15,
+        "desc": "Cool & breezy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "JNX"
+  },
+  {
+    "slug": "trogir",
+    "name": "Trogir",
+    "country": "Croatia",
+    "countryCode": "HR",
+    "flag": "🇭🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/trogir.jpg",
+    "intro": "Trogir is a tiny UNESCO-listed Venetian town on a walled island off the Dalmatian coast near Split, all marble lanes, a Romanesque cathedral and a palm-lined Riva. With dog-friendly konoba terraces, nearby Ciovo dog beaches and Split Airport just 6 km away, it makes an easy, scenic summer base for travellers with a dog.",
+    "lat": 43.5125,
+    "lng": 16.2517,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild spring",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 31,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 31,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 27,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Cooler & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "SPU"
+  },
+  {
+    "slug": "portimao",
+    "name": "Portimão",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/portimao.jpg",
+    "intro": "Portimão is a lively Algarve port city wrapped around the Arade river, best known for its golden Praia da Rocha resort beneath dramatic red cliffs. With a long seafront boardwalk, a busy marina and the Ria de Alvor estuary boardwalk nearby, it makes an easy, walkable summer base for travellers with dogs, as long as you plan around the heat and the seasonal beach bans.",
+    "lat": 37.1366,
+    "lng": -8.5378,
+    "weather": {
+      "jan": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 20,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot summer",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Hot summer",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 20,
+        "desc": "Mild & calm",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 17,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "FAO"
+  },
+  {
+    "slug": "larnaca",
+    "name": "Larnaca",
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "flag": "🇨🇾",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/larnaca.jpg",
+    "intro": "Larnaca is a relaxed seafront city on Cyprus's south coast, where a palm-lined promenade, a flamingo-filled salt lake and year-round sunshine make it easy to travel with a dog. Outside the fierce midday heat, leashed dogs are welcome on terraces, the seafront and the official Meneou dog beach just south of the airport.",
+    "lat": 34.9182,
+    "lng": 33.632,
+    "weather": {
+      "jan": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 17,
+        "desc": "Mild & dry",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 19,
+        "desc": "Warming up",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 23,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 31,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "jul": {
+        "temp": 33,
+        "desc": "Scorching",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 33,
+        "desc": "Scorching",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 31,
+        "desc": "Very hot",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 27,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 22,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "LCA"
   }
 ]

@@ -22216,5 +22216,230 @@
       }
     },
     "iata": "LCA"
+  },
+  {
+    "slug": "conil-de-la-frontera",
+    "name": "Conil de la Frontera",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/conil-de-la-frontera.jpg",
+    "intro": "Conil de la Frontera is a whitewashed Andalusian beach town on the Costa de la Luz, wrapped in kilometres of fine Atlantic sand from the central Playa de los Bateles to the orange cliffs and coves of Cabo Roche. It makes a relaxed long-stay base for dog owners, with easy old-town terraces, shaded pine-forest trails and a 24-hour vet in town, though dogs are banned from the beaches during the June to September bathing season.",
+    "lat": 36.2774,
+    "lng": -6.089,
+    "weather": {
+      "jan": {
+        "temp": 16,
+        "desc": "Mild, showery",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 16,
+        "desc": "Cool, breezy",
+        "icon": "🌬️"
+      },
+      "mar": {
+        "temp": 18,
+        "desc": "Mild, windy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 19,
+        "desc": "Pleasant spring",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Warm, sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot, sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot, windy",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Warm, sunny",
+        "icon": "🌅"
+      },
+      "oct": {
+        "temp": 23,
+        "desc": "Mild, pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 19,
+        "desc": "Cooler, wetter",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 17,
+        "desc": "Mild, rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "XRY"
+  },
+  {
+    "slug": "mojacar",
+    "name": "Mojácar",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/mojacar.jpg",
+    "intro": "Mojácar pairs a whitewashed hilltop pueblo with around 7 km of Costa de Almería seafront and a long, flat Paseo Marítimo that is ideal for dog walks. In 2025 it opened its first official dog beach, the Playa del Perulejo near the Macenas watchtower, making it an easy long-stay summer base for pet owners.",
+    "lat": 37.1389,
+    "lng": -1.8517,
+    "weather": {
+      "jan": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 19,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 21,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Hot summer",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Hot summer",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 20,
+        "desc": "Mild & calm",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 18,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "ALM"
+  },
+  {
+    "slug": "gandia",
+    "name": "Gandía",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/gandia.jpg",
+    "intro": "Gandía is a Costa de Valencia beach city in Valencia province, pairing the wide golden Playa de Gandía (Platja Nord) and the natural l'Ahuir dune beach with a historic Borgia old town and a lively marina. It makes an easy long-stay summer base for dog owners, with a free Renfe Cercanías train from Valencia, a 3 km dog-walkable seafront promenade and shaded river and greenway walks, though dogs are banned from the beach sand June to September.",
+    "lat": 38.9676,
+    "lng": -0.1817,
+    "weather": {
+      "jan": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 21,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Hot summer",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 31,
+        "desc": "Hot summer",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 20,
+        "desc": "Mild & calm",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 18,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "VLC"
   }
 ]

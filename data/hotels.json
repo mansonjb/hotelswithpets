@@ -41215,5 +41215,408 @@
       "No size limit",
       "Self-catering apartments"
     ]
+  },
+  {
+    "id": "conil-de-la-frontera-1",
+    "slug": "ilunion-calas-de-conil",
+    "name": "ILUNION Calas de Conil",
+    "destinationSlug": "conil-de-la-frontera",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 4586,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=ILUNION+Calas+de+Conil+Conil+de+la+Frontera",
+    "petFee": 30,
+    "petPolicy": "Pets of all sizes are accepted for a fee of 30 EUR per pet per night. The resort is pet-friendly with a dedicated pet entrance, dog-friendly gardens and an in-room welcome kit including a bed, bowls and treats. Please confirm with the property when booking.",
+    "address": "Urbanizacion Roche, near Cala de Roche, 11149 Conil de la Frontera",
+    "neighborhood": "Roche",
+    "highlights": [
+      "Beach-access resort",
+      "Pet welcome kit",
+      "Dog-friendly gardens"
+    ]
+  },
+  {
+    "id": "conil-de-la-frontera-2",
+    "slug": "almadraba-conil",
+    "name": "Almadraba Conil",
+    "destinationSlug": "conil-de-la-frontera",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 284,
+    "priceFrom": 113,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Almadraba+Conil+Conil+de+la+Frontera",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request and no specific pet fee is published, so any charge would be confirmed at booking. This Andalusian-style townhouse sits about 300 m from the beach with a rooftop terrace. Please confirm with the property when booking.",
+    "address": "Casco urbano, 11140 Conil de la Frontera",
+    "neighborhood": "Casco urbano",
+    "highlights": [
+      "300 m to the beach",
+      "Rooftop terrace",
+      "Central old town"
+    ]
+  },
+  {
+    "id": "conil-de-la-frontera-3",
+    "slug": "la-jabega-by-conil-home",
+    "name": "La Jabega by Conil Home",
+    "destinationSlug": "conil-de-la-frontera",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 9.1,
+    "reviewCount": 352,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=La+Jabega+by+Conil+Home+Conil+de+la+Frontera",
+    "petFee": 10,
+    "petPolicy": "Pets are allowed for around 10 EUR per pet per night plus a one-off pet cleaning supplement, so confirm the exact total when you reserve. These rustic rooms and self-catering apartments in the old town are a 7-minute walk from Los Bateles beach, ideal for longer stays. Please confirm with the property when booking.",
+    "address": "Centro historico, 11140 Conil de la Frontera",
+    "neighborhood": "Casco antiguo",
+    "highlights": [
+      "Self-catering apartments",
+      "7 min to the beach",
+      "Central old town"
+    ]
+  },
+  {
+    "id": "conil-de-la-frontera-4",
+    "slug": "casa-la-ilusion-conil",
+    "name": "Casa La Ilusion",
+    "destinationSlug": "conil-de-la-frontera",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.5,
+    "reviewCount": 23,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Casa+La+Ilusion+Conil+de+la+Frontera",
+    "petFee": 0,
+    "petPolicy": "Pets are welcome and described as ideal for travelling with dogs thanks to its ample fenced land, with no specific pet fee published, so confirm any charge at booking. This countryside villa near Conil has a private pool and plenty of space for dogs to roam. Please confirm with the property when booking.",
+    "address": "Zona rural, 11140 Conil de la Frontera",
+    "neighborhood": "Campo (countryside)",
+    "highlights": [
+      "Fenced land for dogs",
+      "Private pool",
+      "Quiet countryside"
+    ]
+  },
+  {
+    "id": "conil-de-la-frontera-5",
+    "slug": "loft-ajardinado-roche-conil",
+    "name": "Loft Ajardinado en Roche",
+    "destinationSlug": "conil-de-la-frontera",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 2,
+    "rating": 9.6,
+    "reviewCount": 6,
+    "priceFrom": 87,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Loft+Ajardinado+Roche+Conil+de+la+Frontera",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed and no specific fee is published, so confirm any charge when booking. This self-contained loft in the Roche area has a private garden, terrace and free parking, suiting longer self-catering stays about 2.5 km from the beach. Please confirm with the property when booking.",
+    "address": "Roche, 11149 Conil de la Frontera",
+    "neighborhood": "Roche",
+    "highlights": [
+      "Private garden",
+      "Free parking",
+      "Self-catering for long stays"
+    ]
+  },
+  {
+    "id": "mojacar-1",
+    "slug": "the-place-palacio-mojacar-spa",
+    "name": "The Place Palacio Mojácar & Spa by ALEGRIA",
+    "destinationSlug": "mojacar",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3549,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=The+Place+Palacio+Mojacar",
+    "petFee": 0,
+    "petPolicy": "This adults-only seafront hotel is listed in Booking's curated pet-friendly Mojácar collection and accepts pets on request, with pet terms confirmed at the time of booking. Add your dog as a special request when you reserve and check any size limits. Please confirm with the property when booking.",
+    "address": "Paseo del Mediterráneo, Mojácar Playa, 04638 Mojácar, Almería",
+    "neighborhood": "Mojácar Playa seafront",
+    "highlights": [
+      "Seafront location",
+      "Spa & pool",
+      "Adults-only"
+    ]
+  },
+  {
+    "id": "mojacar-2",
+    "slug": "el-puntazo-mojacar",
+    "name": "Hotel El Puntazo",
+    "destinationSlug": "mojacar",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.0,
+    "reviewCount": 900,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+El+Puntazo+Mojacar",
+    "petFee": 0,
+    "petPolicy": "El Puntazo welcomes dogs as part of the family in its El Puntazo I and El Puntazo II buildings by prior phone arrangement with the property. The beachfront complex offers apartment-style accommodation well suited to longer summer stays. Please confirm with the property when booking.",
+    "address": "Paseo del Mediterráneo 257, 04638 Mojácar Playa, Almería",
+    "neighborhood": "Mojácar Playa / Playa del Cantal",
+    "highlights": [
+      "Beachfront on the promenade",
+      "Apartments for long stays",
+      "Outdoor pool"
+    ]
+  },
+  {
+    "id": "mojacar-3",
+    "slug": "apartalux-gold-oasis-mojacar",
+    "name": "Apartalux Gold Oasis",
+    "destinationSlug": "mojacar",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.2,
+    "reviewCount": 43,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Apartalux+Gold+Oasis+Mojacar",
+    "petFee": 0,
+    "petPolicy": "Apartalux Gold Oasis is listed in Booking's curated pet-friendly Mojácar collection and accepts pets on request at no extra charge. It is a beachfront apartment a short walk from El Cantal beach, ideal for self-catering long stays with a dog. Please confirm with the property when booking.",
+    "address": "Near Playa del Cantal, Mojácar Playa, 04638 Mojácar, Almería",
+    "neighborhood": "Mojácar Playa / El Cantal",
+    "highlights": [
+      "Beachfront apartment",
+      "Balcony & free WiFi",
+      "7-minute walk to El Cantal beach"
+    ]
+  },
+  {
+    "id": "mojacar-4",
+    "slug": "apartalux-diamond-oasis-mojacar",
+    "name": "Apartalux Diamond Oasis",
+    "destinationSlug": "mojacar",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 47,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Apartalux+Diamond+Oasis+Mojacar",
+    "petFee": 0,
+    "petPolicy": "Apartalux Diamond Oasis appears in Booking's curated pet-friendly Mojácar collection and accepts pets on request at no extra charge. This beachfront self-catering apartment suits longer summer stays close to the promenade and beaches. Please confirm with the property when booking.",
+    "address": "Mojácar Playa, near the Paseo del Mediterráneo, 04638 Mojácar, Almería",
+    "neighborhood": "Mojácar Playa seafront",
+    "highlights": [
+      "Self-catering apartment",
+      "Close to the beach",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "mojacar-5",
+    "slug": "playamojacar-aquapark-hotel",
+    "name": "Playamojácar (Aquapark Hotel)",
+    "destinationSlug": "mojacar",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 1034,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Playamojacar+Aquapark+Hotel+Mojacar",
+    "petFee": 15,
+    "petPolicy": "Playamojácar is listed in Booking's curated pet-friendly Mojácar collection and accepts pets on request, with a fee confirmed at booking. The seafront hotel has a large outdoor pool and aquapark and sits on the Mojácar Playa promenade. Please confirm with the property when booking.",
+    "address": "Paseo del Mediterráneo, Mojácar Playa, 04638 Mojácar, Almería",
+    "neighborhood": "Mojácar Playa seafront",
+    "highlights": [
+      "Large outdoor pool & aquapark",
+      "Seafront promenade location",
+      "Family-friendly"
+    ]
+  },
+  {
+    "id": "gandia-1",
+    "slug": "tu-and-me-resort-gandia",
+    "name": "Tu&Me Resort",
+    "destinationSlug": "gandia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 700,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Tu+Me+Resort+Gandia+Valencia",
+    "petFee": 5,
+    "petPolicy": "Tu&Me Resort is an adults-only, dog-friendly resort in the Grau i Platja area where pets are welcomed everywhere, including the pool area and the restaurants, for a fee of around 5 EUR per pet per night. It sits in a large palm garden with a lagoon-style pool about fifteen minutes' walk from the beach. Please confirm with the property when booking.",
+    "address": "Grau i Platja area, 46730 Platja de Gandía, Valencia",
+    "neighborhood": "Grau / Playa de Gandía",
+    "highlights": [
+      "Pets welcome at pool and restaurant",
+      "Lagoon-style outdoor pool",
+      "Adults-only garden setting"
+    ]
+  },
+  {
+    "id": "gandia-2",
+    "slug": "hotel-gandia-playa",
+    "name": "Hotel Gandía",
+    "destinationSlug": "gandia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 900,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Gandia+Playa+Gandia+Valencia",
+    "petFee": 0,
+    "petPolicy": "Hotel Gandía welcomes dogs, cats and other pets with no size limit and at no extra charge, in a building about five minutes' walk from Playa de Gandía. The property is used to pet-owning guests and the seafront promenade is right at hand for walks. Please confirm with the property when booking.",
+    "address": "Playa de Gandía, 46730 Gandía, Valencia",
+    "neighborhood": "Playa de Gandía",
+    "highlights": [
+      "Pets stay free, no size limit",
+      "5-minute walk to the beach",
+      "Beside the seafront promenade"
+    ]
+  },
+  {
+    "id": "gandia-3",
+    "slug": "hotel-don-pablo-gandia",
+    "name": "Hotel Don Pablo",
+    "destinationSlug": "gandia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1200,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Don+Pablo+Gandia+Valencia",
+    "petFee": 0,
+    "petPolicy": "Hotel Don Pablo accepts a dog or cat in the room at no extra supplement, in a beachfront location on the Playa de Gandía seafront. The pet shares your room and the long dog-friendly promenade runs right outside. Please confirm with the property when booking.",
+    "address": "Paseo Marítimo Neptuno, 46730 Playa de Gandía, Valencia",
+    "neighborhood": "Playa de Gandía",
+    "highlights": [
+      "Pet shares room at no supplement",
+      "On the seafront promenade",
+      "Walkable to bars and restaurants"
+    ]
+  },
+  {
+    "id": "gandia-4",
+    "slug": "hotel-mavi-gandia",
+    "name": "Hotel Mavi",
+    "destinationSlug": "gandia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 2,
+    "rating": 8.0,
+    "reviewCount": 800,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Mavi+Gandia+Valencia",
+    "petFee": 0,
+    "petPolicy": "Hotel Mavi is a small pet-friendly hotel about 200 metres from Gandía beach, with a café-bar and garden terrace, that welcomes pets on request. Air-conditioned rooms make it a practical budget base in the summer heat. Please confirm with the property when booking.",
+    "address": "Near Playa de Gandía, 46730 Gandía, Valencia",
+    "neighborhood": "Playa de Gandía",
+    "highlights": [
+      "200 m from the beach",
+      "Garden terrace café-bar",
+      "Air-conditioned rooms"
+    ]
+  },
+  {
+    "id": "gandia-5",
+    "slug": "apartamentos-ag-gandia",
+    "name": "Apartamentos AG Gandía",
+    "destinationSlug": "gandia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 600,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Apartamentos+AG+Gandia+Valencia",
+    "petFee": 0,
+    "petPolicy": "Apartamentos AG are pet-friendly self-catering apartments at Playa de Gandía that welcome dogs, with a refundable damage deposit of around 200 EUR rather than a nightly fee. The full kitchens and space make them well suited to long summer stays with a dog, and local rules prohibiting dogs on the beach in season apply. Please confirm with the property when booking.",
+    "address": "Playa de Gandía, 46730 Gandía, Valencia",
+    "neighborhood": "Playa de Gandía",
+    "highlights": [
+      "Self-catering apartments for long stays",
+      "Refundable pet deposit, no nightly fee",
+      "Close to the beach and promenade"
+    ]
   }
 ]

@@ -21,6 +21,21 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    'conil-de-la-frontera': {
+      personality: `one of the Costa de la Luz's most laid-back beach towns, where a whitewashed old town crowned by the Torre de Guzman meets the long Atlantic sands of Playa de los Bateles and Fontanilla, the surf of El Palmar and the orange cliffs and coves of Cabo Roche`,
+      highlight: `Playa de los Bateles, the Pinar de Roche pine forest, and the Cabo Roche cliff walk`,
+      area: `the casco antiguo, the Roche coast, and the Rio Salado wetland`,
+    },
+    mojacar: {
+      personality: `a whitewashed hilltop pueblo above around 7 km of Costa de Almería seafront, with the long Mojácar Playa promenade, the new Playa del Perulejo dog beach and the historic Macenas watchtower on the wild southern coast`,
+      highlight: `the long flat Paseo Marítimo, the Perulejo dog beach near Macenas and the pueblo miradors`,
+      area: `Mojácar Pueblo, the Mojácar Playa seafront and the Macenas coast`,
+    },
+    gandia: {
+      personality: `a Costa de Valencia beach city where the wide Playa de Gandía (Platja Nord), the natural l'Ahuir dune beach with its trial dog area, the Borgia Ducal Palace in the old town and the lively port marina come together`,
+      highlight: `the long dog-walkable Paseo Marítimo Neptuno promenade, the Serpis river walk and the Vía Verda greenway, reached by the free Cercanías train from Valencia`,
+      area: `the Grau and Playa de Gandía, the old town and l'Ahuir`,
+    },
     naxos: {
       personality: `the green, laid-back giant of the Cyclades, where the marble Portara gateway of the Temple of Apollo frames the sunset over Chora's old town and kastro`,
       highlight: `the Portara headland, the long St George and Plaka beaches, and the marble villages of Halki and Apiranthos`,
@@ -1504,6 +1519,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    'conil-de-la-frontera': {
+      personality: `l'une des stations balneaires les plus decontractees de la Costa de la Luz, ou une vieille ville blanchie a la chaux couronnee par la Torre de Guzman rencontre les longues plages atlantiques de la Playa de los Bateles et de Fontanilla, les vagues d'El Palmar et les falaises orange et criques de Cabo Roche`,
+      highlight: `la Playa de los Bateles, la pinede du Pinar de Roche et la balade des falaises de Cabo Roche`,
+      area: `le casco antiguo, la cote de Roche et la zone humide du Rio Salado`,
+    },
+    mojacar: {
+      personality: `un pueblo blanc perché au-dessus d'environ 7 km de front de mer de la Costa de Almería, avec la longue promenade de Mojácar Playa, la nouvelle plage canine de la Playa del Perulejo et la tour de guet historique de Macenas sur la côte sud sauvage`,
+      highlight: `le long Paseo Marítimo plat, la plage canine de Perulejo près de Macenas et les miradors du pueblo`,
+      area: `Mojácar Pueblo, le front de mer de Mojácar Playa et la côte de Macenas`,
+    },
+    gandia: {
+      personality: `une ville balnéaire de la Costa de Valencia où se rejoignent la vaste Playa de Gandía (Platja Nord), la plage de dunes naturelle de l'Ahuir avec sa zone canine d'essai, le Palais ducal des Borgia dans la vieille ville et la marina animée du port`,
+      highlight: `la longue promenade dog-friendly du Paseo Marítimo Neptuno, la balade du fleuve Serpis et la voie verte Vía Verda, accessibles par le train Cercanías gratuit depuis Valence`,
+      area: `le Grau et la Playa de Gandía, la vieille ville et l'Ahuir`,
+    },
     naxos: {
       personality: `le géant vert et décontracté des Cyclades, où la porte de marbre de la Portara, vestige du temple d'Apollon, encadre le coucher de soleil sur la vieille ville et le kastro de Chora`,
       highlight: `le cap de la Portara, les longues plages d'Agios Georgios et de Plaka, et les villages de marbre de Halki et Apiranthos`,
@@ -2986,6 +3016,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    'conil-de-la-frontera': {
+      personality: `uno de los pueblos de playa mas relajados de la Costa de la Luz, donde un casco antiguo encalado coronado por la Torre de Guzman se une a las largas arenas atlanticas de la Playa de los Bateles y Fontanilla, el oleaje de El Palmar y los acantilados naranjas y calas de Cabo Roche`,
+      highlight: `la Playa de los Bateles, el pinar de Roche y el paseo de los acantilados de Cabo Roche`,
+      area: `el casco antiguo, la costa de Roche y el humedal del Rio Salado`,
+    },
+    mojacar: {
+      personality: `un pueblo blanco encaramado sobre unos 7 km de frente marítimo de la Costa de Almería, con el largo paseo de Mojácar Playa, la nueva playa canina de la Playa del Perulejo y la histórica torre vigía de Macenas en la salvaje costa sur`,
+      highlight: `el largo y llano Paseo Marítimo, la playa canina de Perulejo junto a Macenas y los miradores del pueblo`,
+      area: `Mojácar Pueblo, el frente marítimo de Mojácar Playa y la costa de Macenas`,
+    },
+    gandia: {
+      personality: `una ciudad de playa de la Costa de Valencia donde se unen la amplia Playa de Gandía (Platja Nord), la playa de dunas natural de l'Ahuir con su zona canina de prueba, el Palau Ducal de los Borja en el casco antiguo y el animado puerto deportivo`,
+      highlight: `el largo paseo dog-friendly del Paseo Marítimo Neptuno, el paseo del río Serpis y la Vía Verde, accesibles con el tren Cercanías gratuito desde Valencia`,
+      area: `el Grau y la Playa de Gandía, el casco antiguo y l'Ahuir`,
+    },
     naxos: {
       personality: `el gigante verde y relajado de las Cícladas, donde la puerta de mármol de la Portara, del templo de Apolo, enmarca el atardecer sobre el casco antiguo y el kastro de Chora`,
       highlight: `el cabo de la Portara, las largas playas de Agios Georgios y Plaka, y los pueblos de mármol de Halki y Apiranthos`,
@@ -4468,6 +4513,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    'conil-de-la-frontera': {
+      personality: `uma das vilas de praia mais descontraidas da Costa de la Luz, onde um casco antigo caiado de branco coroado pela Torre de Guzman encontra os longos areais atlanticos da Playa de los Bateles e de Fontanilla, as ondas de El Palmar e as falesias laranja e enseadas de Cabo Roche`,
+      highlight: `a Playa de los Bateles, o pinhal do Pinar de Roche e o passeio das falesias de Cabo Roche`,
+      area: `o casco antigo, a costa de Roche e a zona humida do Rio Salado`,
+    },
+    mojacar: {
+      personality: `um pueblo branco no alto da colina sobre cerca de 7 km de frente de mar da Costa de Almería, com o longo passeio de Mojácar Playa, a nova praia para cães da Playa del Perulejo e a histórica torre de vigia de Macenas na costa sul selvagem`,
+      highlight: `o longo e plano passeio marítimo, a praia para cães de Perulejo junto a Macenas e os miradouros do pueblo`,
+      area: `Mojácar Pueblo, a frente de mar de Mojácar Playa e a costa de Macenas`,
+    },
+    gandia: {
+      personality: `uma cidade balnear da Costa de Valencia onde se juntam a ampla Playa de Gandía (Platja Nord), a praia de dunas natural de l'Ahuir com a sua zona canina de teste, o Palau Ducal dos Borja no centro histórico e a animada marina do porto`,
+      highlight: `a longa marginal dog-friendly do Paseo Marítimo Neptuno, o passeio do rio Serpis e a ecopista Vía Verda, acessíveis pelo comboio Cercanías gratuito a partir de Valência`,
+      area: `o Grau e a Playa de Gandía, o centro histórico e l'Ahuir`,
+    },
     naxos: {
       personality: `o gigante verde e descontraído das Cíclades, onde o portal de mármore da Portara, do Templo de Apolo, emoldura o pôr do sol sobre a cidade antiga e o kastro de Chora`,
       highlight: `o promontório da Portara, as longas praias de Agios Georgios e Plaka, e as aldeias de mármore de Halki e Apiranthos`,

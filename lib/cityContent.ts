@@ -20615,6 +20615,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  rovinj: {
+    history: {
+      fr: `Rovinj (Rovigno en italien), ville d'environ 14 000 habitants sur la côte ouest de l'Istrie, est l'un des lieux les plus photographiés de l'Adriatique : un amas de maisons vénéto-italiennes s'élevant d'un ancien îlot jusqu'à l'église Sainte-Euphémie, dont le campanile de 60 m s'inspire de celui de Saint-Marc à Venise. Rattachée au continent en 1763, la vieille ville (Stari Grad) est une presqu'île compacte et piétonne, faite de ruelles pavées, de la rue des artistes Grisia et de l'arc Balbi de 1679. Officiellement bilingue croate-italien, Rovinj est aussi l'une des villes les plus accueillantes pour les chiens d'Istrie : les chiens en laisse sont admis sur la promenade du port et dans tout le parc forestier littoral de Punta Corrente (Zlatni rt), 120 hectares qui abritent plusieurs plages canines signalées. Les points à anticiper sont l'affluence estivale des croisières et excursionnistes dans la vieille ville et l'absence de gare, la plus proche étant à Pula, 35 km au sud.`,
+      en: `Rovinj (Rovigno in Italian), a town of about 14,000 on the western coast of Istria, is one of the Adriatic's most photographed places, a cluster of Venetian-Italianate houses rising from a former islet to the hilltop church of St Euphemia, whose 60 m belltower is modelled on the campanile of St Mark's in Venice. Joined to the mainland in 1763, the Stari Grad (old town) is a tight, traffic-free peninsula of cobbled lanes, the Grisia artist street and the 1679 Balbi Arch. Officially bilingual Croatian-Italian, Rovinj is also one of the most genuinely dog-friendly towns in Istria: leashed dogs are welcome on the harbour promenade and across the 300-acre Punta Corrente (Zlatni rt) seafront forest park, which holds several signposted dog beaches. The main things to plan around are the summer cruise and day-trip crowds in the old town and the fact that there is no train, the nearest railway is at Pula, 35 km south.`,
+      es: `Rovinj (Rovigno en italiano), una ciudad de unos 14.000 habitantes en la costa occidental de Istria, es uno de los lugares más fotografiados del Adriático: un conjunto de casas véneto-italianas que se alzan desde un antiguo islote hasta la iglesia de Santa Eufemia, cuyo campanario de 60 m se inspira en el de San Marcos de Venecia. Unida a tierra firme en 1763, la ciudad vieja (Stari Grad) es una península compacta y peatonal de callejuelas empedradas, la calle de los artistas Grisia y el arco Balbi de 1679. Oficialmente bilingüe croata-italiano, Rovinj es además una de las localidades más dog-friendly de Istria: los perros con correa son bienvenidos en el paseo del puerto y en todo el parque forestal costero de Punta Corrente (Zlatni rt), 120 hectáreas con varias playas caninas señalizadas. Lo que conviene planificar es la afluencia estival de cruceros y excursionistas en el casco antiguo y la ausencia de tren, la estación más cercana está en Pula, a 35 km al sur.`,
+      pt: `Rovinj (Rovigno em italiano), uma cidade de cerca de 14.000 habitantes na costa ocidental da Ístria, é um dos lugares mais fotografados do Adriático: um conjunto de casas véneto-italianas que se erguem de um antigo ilhéu até à igreja de Santa Eufémia, cujo campanário de 60 m se inspira no de São Marcos em Veneza. Ligada ao continente em 1763, a cidade velha (Stari Grad) é uma península compacta e pedonal de ruelas empedradas, a rua dos artistas Grisia e o arco Balbi de 1679. Oficialmente bilingue croata-italiano, Rovinj é também uma das localidades mais dog-friendly da Ístria: os cães com trela são bem-vindos no passeio do porto e em todo o parque florestal costeiro de Punta Corrente (Zlatni rt), 120 hectares com várias praias caninas sinalizadas. O que convém planear é a afluência estival de cruzeiros e excursionistas no centro histórico e a ausência de comboio, a estação mais próxima fica em Pula, a 35 km a sul.`,
+    },
+    sights: [
+      {
+        name: 'Crkva svete Eufemije',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `L'église baroque Sainte-Euphémie, du XVIIIe siècle, couronne le point le plus haut de la presqu'île du Stari Grad, avec un campanile de 60 m inspiré de Saint-Marc à Venise. Les chiens ne peuvent entrer dans l'église, mais l'esplanade au sommet et son panorama sont accessibles en laisse.`,
+          en: `The 18th-century Baroque parish church of St Euphemia crowns the highest point of the Stari Grad peninsula, with a 60 m belltower modelled on St Mark's in Venice. Dogs cannot enter the church, but the hilltop square and viewpoint are leash-friendly.`,
+          es: `La iglesia barroca de Santa Eufemia, del siglo XVIII, corona el punto más alto de la península del Stari Grad, con un campanario de 60 m inspirado en San Marcos de Venecia. Los perros no pueden entrar en la iglesia, pero la plaza de la cima y su mirador son accesibles con correa.`,
+          pt: `A igreja barroca de Santa Eufémia, do século XVIII, coroa o ponto mais alto da península do Stari Grad, com um campanário de 60 m inspirado em São Marcos de Veneza. Os cães não podem entrar na igreja, mas o adro no topo e o seu miradouro são acessíveis com trela.`,
+        },
+      },
+      {
+        name: 'Balbijev luk',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `L'arc Balbi (Balbijev luk), édifié en 1679 sur l'emplacement de l'ancienne porte vénitienne, marque l'entrée de la vieille ville et de la rue pavée Grisia, bordée d'ateliers d'artistes et de galeries. Facile à parcourir avec un chien en laisse en dehors des heures d'affluence.`,
+          en: `The ornamental Balbi Arch (Balbijev luk), built in 1679 on the site of the old Venetian land gate, is the gateway into the old town and the cobbled Grisia street, a lane lined with artists' studios and galleries. Easy to wander with a leashed dog outside peak crowds.`,
+          es: `El arco Balbi (Balbijev luk), levantado en 1679 sobre la antigua puerta veneciana, es la entrada al casco antiguo y a la calle empedrada Grisia, llena de talleres de artistas y galerías. Fácil de pasear con un perro con correa fuera de las horas punta.`,
+          pt: `O arco Balbi (Balbijev luk), erguido em 1679 sobre a antiga porta veneziana, é a entrada para a cidade velha e para a rua empedrada Grisia, repleta de ateliês de artistas e galerias. Fácil de percorrer com um cão com trela fora das horas de ponta.`,
+        },
+      },
+      {
+        name: 'Punta Corrente (Zlatni rt)',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Un parc forestier littoral de 120 hectares juste au sud de la vieille ville, planté à partir des années 1890 par l'aristocrate austro-hongrois Georg Hütterott comme arboretum privé, aujourd'hui le poumon vert de Rovinj. Sentiers ombragés sous les pins, accès à la mer et plusieurs plages canines signalées en font la meilleure promenade canine de la côte.`,
+          en: `A 300-acre seafront forest park just south of the old town, planted from the 1890s by the Austro-Hungarian aristocrat Georg Hütterott as a private arboretum and now Rovinj's green crown. Shaded pine trails, sea access and several signposted dog beaches make it the best dog walk on this coast.`,
+          es: `Un parque forestal costero de 120 hectáreas justo al sur del casco antiguo, plantado desde la década de 1890 por el aristócrata austrohúngaro Georg Hütterott como arboreto privado y hoy el pulmón verde de Rovinj. Senderos sombreados entre pinos, acceso al mar y varias playas caninas señalizadas lo hacen el mejor paseo canino de la costa.`,
+          pt: `Um parque florestal costeiro de 120 hectares mesmo a sul da cidade velha, plantado a partir da década de 1890 pelo aristocrata austro-húngaro Georg Hütterott como arboreto privado e hoje o pulmão verde de Rovinj. Trilhos sombreados entre pinheiros, acesso ao mar e várias praias caninas sinalizadas fazem dele o melhor passeio canino da costa.`,
+        },
+      },
+      {
+        name: 'Plaža Cisterna',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Une plage canine officielle (plaža za pse) dans la baie de Lone, à la lisière nord du parc forestier de Punta Corrente, signalée par l'office de tourisme de Rovinj. L'une des quatre plages canines balisées au moins dans les abords immédiats de la ville, le plus souvent des criques rocheuses ou de galets.`,
+          en: `An officially designated dog beach (plaža za pse) in Lone Bay on the northern edge of the Punta Corrente forest park, signposted by the Rovinj Tourist Board. One of at least four marked dog beaches in the immediate town area, most of them rocky or pebble coves.`,
+          es: `Una playa canina oficial (plaža za pse) en la bahía de Lone, en el borde norte del parque forestal de Punta Corrente, señalizada por la oficina de turismo de Rovinj. Una de al menos cuatro playas caninas balizadas en el entorno inmediato de la ciudad, casi todas calas rocosas o de guijarros.`,
+          pt: `Uma praia canina oficial (plaža za pse) na baía de Lone, no limite norte do parque florestal de Punta Corrente, sinalizada pelo posto de turismo de Rovinj. Uma de pelo menos quatro praias caninas balizadas nos arredores imediatos da cidade, quase todas enseadas rochosas ou de seixos.`,
+        },
+      },
+      {
+        name: 'Stari Grad',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `La vieille ville occupe un ancien îlot rattaché au continent en 1763, une presqu'île compacte dont on fait le tour complet en moins d'une heure, de la jetée Mali mol à la promenade du port jusqu'aux ruelles pavées montant vers Sainte-Euphémie. Sans voitures et très agréable à parcourir avec un chien en laisse.`,
+          en: `The old town sits on a former islet joined to the mainland in 1763, a tight peninsula you can walk a full loop around in under an hour, from the Mali mol pier round the harbour promenade to the cobbled lanes climbing to St Euphemia. Traffic-free and very walkable with a leashed dog.`,
+          es: `El casco antiguo se asienta sobre un antiguo islote unido a tierra en 1763, una península compacta que se rodea por completo en menos de una hora, del muelle Mali mol al paseo del puerto y a las callejuelas empedradas que suben hacia Santa Eufemia. Sin tráfico y muy caminable con un perro con correa.`,
+          pt: `O centro histórico assenta sobre um antigo ilhéu ligado a terra em 1763, uma península compacta que se contorna por completo em menos de uma hora, do cais Mali mol ao passeio do porto e às ruelas empedradas que sobem para Santa Eufémia. Sem trânsito e muito agradável a pé com um cão com trela.`,
+        },
+      },
+      {
+        name: 'Crveni otok',
+        emoji: '🏝️',
+        petFriendly: true,
+        desc: {
+          fr: `Crveni otok (l'île Rouge) et Sv. Katarina sont les plus proches des 14 îles de l'archipel de Rovinj, à quelques minutes en navette depuis le port. Les chiens en laisse voyagent sur les ponts ouverts des navettes, et les rivages ombragés de pins offrent une échappée fraîche et peu fréquentée loin de la vieille ville.`,
+          en: `Crveni otok (Red Island) and Sv. Katarina are the closest of the 14 islands in the Rovinj archipelago, a few minutes by ferry tender from the harbour. Leashed dogs travel on the open decks of the tender boats, and the pine-shaded shores make a cool, low-crowd escape from the old town.`,
+          es: `Crveni otok (la isla Roja) y Sv. Katarina son las más cercanas de las 14 islas del archipiélago de Rovinj, a pocos minutos en lancha desde el puerto. Los perros con correa viajan en las cubiertas abiertas de las lanchas, y las orillas con sombra de pinos son una escapada fresca y poco concurrida del casco antiguo.`,
+          pt: `Crveni otok (a ilha Vermelha) e Sv. Katarina são as mais próximas das 14 ilhas do arquipélago de Rovinj, a poucos minutos de barco a partir do porto. Os cães com trela viajam nos conveses abertos das lanchas, e as margens sombreadas de pinheiros são uma escapadela fresca e pouco concorrida do centro histórico.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Rovinj est l'une des villes les mieux pourvues en plages canines d'Istrie, avec au moins quatre plages canines signalées (Plaža Cisterna dans la baie de Lone, Borik, Škaraba), la plupart dans ou à côté du parc forestier de Punta Corrente.`,
+        `Le parc forestier de Punta Corrente (Zlatni rt), 120 hectares, est la promenade canine phare : sentiers ombragés sous les pins et accès direct à la mer, gardez le chien en laisse.`,
+        `Affluence estivale : les ruelles pavées de la vieille ville canalisent croisiéristes et excursionnistes en une cohue chaude et bruyante de 10h à 18h en juillet-août, promenez le chien tôt le matin ou le soir.`,
+        `La chaleur estivale istrienne fait cuire les ruelles de pierre et le quai, emportez de l'eau et privilégiez les sentiers forestiers ombragés au milieu de la journée.`,
+        `Les navettes vers Sv. Katarina et Crveni otok prennent les chiens en laisse sur le pont ouvert, une échappée fraîche et peu fréquentée, confirmez la politique animaux auprès de l'opérateur avant d'embarquer.`,
+      ],
+      en: [
+        `Rovinj is one of the most dog-beached towns in Istria, with at least four signposted dog beaches (Plaža Cisterna in Lone Bay, Borik, Škaraba), most inside or beside the Punta Corrente forest park.`,
+        `The 300-acre Punta Corrente (Zlatni rt) forest park is the standout dog walk, shaded pine trails and direct sea access, keep dogs leashed.`,
+        `Summer crowds: the old town's narrow cobbled lanes funnel cruise-ship and day-trip foot traffic into a hot, noisy crush from 10:00 to 18:00 in July-August, walk dogs early morning or in the evening.`,
+        `Istrian summer heat bakes the stone lanes and quayside, bring water and walk on the shaded forest trails in the middle of the day.`,
+        `Ferry tenders to Sv. Katarina and Crveni otok take leashed dogs on the open deck, a cool, low-crowd escape, confirm the pet policy with the operator before boarding.`,
+      ],
+      es: [
+        `Rovinj es una de las localidades con más playas caninas de Istria, con al menos cuatro playas caninas señalizadas (Plaža Cisterna en la bahía de Lone, Borik, Škaraba), la mayoría dentro o junto al parque forestal de Punta Corrente.`,
+        `El parque forestal de Punta Corrente (Zlatni rt), 120 hectáreas, es el paseo canino estrella: senderos sombreados entre pinos y acceso directo al mar, lleva al perro con correa.`,
+        `Afluencia estival: las callejuelas empedradas del casco antiguo concentran a cruceristas y excursionistas en una aglomeración calurosa y ruidosa de 10:00 a 18:00 en julio y agosto, pasea al perro temprano o al anochecer.`,
+        `El calor estival istriano abrasa las calles de piedra y el muelle, lleva agua y opta por los senderos forestales sombreados a mediodía.`,
+        `Las lanchas a Sv. Katarina y Crveni otok admiten perros con correa en la cubierta abierta, una escapada fresca y poco concurrida, confirma la política de mascotas con el operador antes de embarcar.`,
+      ],
+      pt: [
+        `Rovinj é uma das localidades com mais praias caninas da Ístria, com pelo menos quatro praias caninas sinalizadas (Plaža Cisterna na baía de Lone, Borik, Škaraba), a maioria dentro ou junto ao parque florestal de Punta Corrente.`,
+        `O parque florestal de Punta Corrente (Zlatni rt), 120 hectares, é o passeio canino por excelência: trilhos sombreados entre pinheiros e acesso direto ao mar, mantenha o cão com trela.`,
+        `Afluência estival: as ruelas empedradas do centro histórico concentram cruzeiristas e excursionistas numa multidão quente e ruidosa das 10h às 18h em julho e agosto, passeie o cão de manhã cedo ou ao anoitecer.`,
+        `O calor estival ístrio abrasa as ruas de pedra e o cais, leve água e prefira os trilhos florestais sombreados a meio do dia.`,
+        `As lanchas para Sv. Katarina e Crveni otok aceitam cães com trela no convés aberto, uma escapadela fresca e pouco concorrida, confirme a política de animais com o operador antes de embarcar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen et vaccination antirabique valide exigés à l'enregistrement dans tout hôtel pet-friendly (la Croatie est dans l'UE et l'espace Schengen).`,
+        `Les chiens doivent être tenus en laisse dans la vieille ville et sur la promenade du port, et les maîtres doivent ramasser les déjections, le parc forestier propose des sentiers en laisse et des plages canines.`,
+        `Pas de gare : la voie ferrée la plus proche est à Pula, 35 km au sud, la plupart des visiteurs arrivent par l'aéroport de Pula (PUY, environ 35 minutes) ou le bus côtier Autotrans/Brioni depuis Pula, environ toutes les heures en été.`,
+        `Un catamaran saisonnier Venezia Lines relie le port de Rovinj directement à Venise (environ 3h45, d'avril à octobre), les chiens en laisse voyagent sur le pont extérieur.`,
+        `Vétérinaires vérifiés : Veterinarska Ambulanta Rovinj (Laste ul. 9, +385 52 813 214, urgences 24h/24 +385 98 334 092) et Istra Vet (Gripole 68, +385 52 553 907), les cliniques plus grandes les plus proches sont à Pula, 35 km au sud.`,
+      ],
+      en: [
+        `EU pet passport and valid rabies vaccination required at every pet-friendly hotel check-in (Croatia is in the EU and Schengen).`,
+        `Dogs must be leashed in the old town and on the harbour promenade, and owners must clean up after them, the forest park has leashed trails and dog beaches.`,
+        `No train station: the nearest railway is at Pula, 35 km south, most visitors arrive via Pula Airport (PUY, about 35 minutes) or the Autotrans/Brioni coastal bus from Pula, roughly hourly in summer.`,
+        `Seasonal Venezia Lines catamaran links Rovinj harbour directly to Venice (about 3h45, roughly April to October), leashed dogs travel on the outer deck.`,
+        `Verified vets: Veterinarska Ambulanta Rovinj (Laste ul. 9, +385 52 813 214, 24/7 emergency +385 98 334 092) and Istra Vet (Gripole 68, +385 52 553 907), the nearest larger clinics are in Pula, 35 km south.`,
+      ],
+      es: [
+        `Pasaporte europeo y vacunación antirrábica vigente exigidos al hacer el check-in en cualquier hotel pet-friendly (Croacia está en la UE y en Schengen).`,
+        `Los perros deben ir con correa en el casco antiguo y en el paseo del puerto, y los dueños deben recoger los excrementos, el parque forestal tiene senderos con correa y playas caninas.`,
+        `Sin estación de tren: la vía férrea más cercana está en Pula, a 35 km al sur, la mayoría llega por el aeropuerto de Pula (PUY, unos 35 minutos) o el autobús costero Autotrans/Brioni desde Pula, aproximadamente cada hora en verano.`,
+        `Un catamarán estacional de Venezia Lines une el puerto de Rovinj directamente con Venecia (unas 3h45, de abril a octubre), los perros con correa viajan en la cubierta exterior.`,
+        `Veterinarios verificados: Veterinarska Ambulanta Rovinj (Laste ul. 9, +385 52 813 214, urgencias 24h +385 98 334 092) e Istra Vet (Gripole 68, +385 52 553 907), las clínicas más grandes más cercanas están en Pula, a 35 km al sur.`,
+      ],
+      pt: [
+        `Passaporte europeu e vacinação antirrábica válida exigidos no check-in em qualquer hotel pet-friendly (a Croácia está na UE e no Espaço Schengen).`,
+        `Os cães devem andar com trela no centro histórico e no passeio do porto, e os donos devem apanhar os dejetos, o parque florestal tem trilhos com trela e praias caninas.`,
+        `Sem estação de comboio: a linha férrea mais próxima fica em Pula, a 35 km a sul, a maioria chega pelo aeroporto de Pula (PUY, cerca de 35 minutos) ou pelo autocarro costeiro Autotrans/Brioni a partir de Pula, sensivelmente de hora a hora no verão.`,
+        `Um catamarã sazonal da Venezia Lines liga o porto de Rovinj diretamente a Veneza (cerca de 3h45, de abril a outubro), os cães com trela viajam no convés exterior.`,
+        `Veterinários verificados: Veterinarska Ambulanta Rovinj (Laste ul. 9, +385 52 813 214, urgências 24h +385 98 334 092) e Istra Vet (Gripole 68, +385 52 553 907), as clínicas maiores mais próximas estão em Pula, a 35 km a sul.`,
+      ],
+    },
+  },
+
   salamanca: {
     history: {
       fr: `Salamanque, surnommée « la ville dorée » pour le grès doré qui pare ses monuments, doit sa renommée à son université, fondée en 1218 par Alphonse IX de León, l'une des plus anciennes d'Europe, encore em activité. Inscrite au patrimoine mondial de l'UNESCO en 1988, la ville concentre dans un centre historique compact certains des plus beaux exemples d'architecture plateresque et baroque d'Espagne : la façade ornée de l'université (1529), les deux cathédrales accolées (XIIe et XVIe siècles), la Casa das Conchas et la majestueuse Plaza Mayor (1729) considérée comme la plus belle d'Espagne. Capitale culturelle de la Castille-et-León, Salamanque accueille environ 30 000 étudiants pour 144 000 habitants, une démographie jeune qui anime ses ruelles pavées et ses bars à tapas. À 1h35 de Madrid em train Avant, la ville se découvre à pied avec un chien em laisse : aucune cathédrale ni musée n'admet les animaux, mais l'espace public, plazas, arcades, berges du Tormes, est l'un des plus dog-friendly d'Espagne.`,

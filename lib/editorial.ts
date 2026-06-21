@@ -21,6 +21,11 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    'lignano-sabbiadoro': {
+      personality: `a long golden Blue Flag beach resort on the Friuli-Venezia Giulia Adriatic whose dedicated Doggy Beach dog beach, modernist Pineta pinewoods spiral, Terrazza a Mare landmark and calm Marano lagoon make it an easy long-stay family base for travelling with a dog`,
+      highlight: `the Doggy Beach dog beach, the long Blue Flag family beach, and the shaded Pineta pinewoods and Hemingway Park`,
+      area: `Sabbiadoro, Lignano Pineta, and Lignano Riviera`,
+    },
     bibione: {
       personality: `one of Europe's flagship dog-travel beach resorts, wrapped around the long Blue Flag Adriatic sand, the famous Spiaggia di Pluto dog beach, the Bibione Thermae spa and the Faro di Bibione lighthouse in the Tagliamento pinewoods`,
       highlight: `Spiaggia di Pluto dog beach, the Faro di Bibione pinewood trail, and the 8 km seafront promenade`,
@@ -1534,6 +1539,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    'lignano-sabbiadoro': {
+      personality: `une longue plage dorée pavillon bleu sur l'Adriatique du Frioul-Vénétie Julienne dont la Doggy Beach pour chiens, la spirale moderniste de la pinède de la Pineta, le monument Terrazza a Mare et la calme lagune de Marano en font une base familiale facile pour un long séjour avec un chien`,
+      highlight: `la Doggy Beach pour chiens, la longue plage familiale pavillon bleu, et la pinède ombragée de la Pineta avec le parc Hemingway`,
+      area: `Sabbiadoro, Lignano Pineta et Lignano Riviera`,
+    },
     bibione: {
       personality: `l'une des stations balnéaires phares d'Europe pour voyager avec son chien, articulée autour du long sable Pavillon Bleu de l'Adriatique, de la célèbre plage canine Spiaggia di Pluto, du spa Bibione Thermae et du phare Faro di Bibione dans la pinède du Tagliamento`,
       highlight: `la plage canine Spiaggia di Pluto, le sentier de la pinède jusqu'au Faro di Bibione et les 8 km de promenade du front de mer`,
@@ -3046,6 +3056,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    'lignano-sabbiadoro': {
+      personality: `una larga playa dorada con bandera azul en el Adriático de Friuli-Venecia Julia cuya Doggy Beach para perros, la espiral modernista del pinar de la Pineta, el monumento Terrazza a Mare y la tranquila laguna de Marano la convierten en una base familiar fácil para una larga estancia con un perro`,
+      highlight: `la Doggy Beach para perros, la larga playa familiar con bandera azul, y el sombreado pinar de la Pineta con el parque Hemingway`,
+      area: `Sabbiadoro, Lignano Pineta y Lignano Riviera`,
+    },
     bibione: {
       personality: `una de las estaciones balnearias emblemáticas de Europa para viajar con perro, articulada en torno a la larga arena Bandera Azul del Adriático, la famosa playa canina Spiaggia di Pluto, el spa Bibione Thermae y el faro Faro di Bibione en los pinares del Tagliamento`,
       highlight: `la playa canina Spiaggia di Pluto, el sendero del pinar hasta el Faro di Bibione y los 8 km de paseo marítimo`,
@@ -4558,6 +4573,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    'lignano-sabbiadoro': {
+      personality: `uma longa praia dourada com bandeira azul no Adriático do Friuli-Venezia Giulia cuja Doggy Beach para cães, a espiral modernista do pinhal da Pineta, o marco Terrazza a Mare e a calma laguna de Marano fazem dela uma base familiar fácil para uma longa estadia com um cão`,
+      highlight: `a Doggy Beach para cães, a longa praia familiar com bandeira azul, e o sombreado pinhal da Pineta com o Parque Hemingway`,
+      area: `Sabbiadoro, Lignano Pineta e Lignano Riviera`,
+    },
     bibione: {
       personality: `uma das estâncias balneares emblemáticas da Europa para viajar com cão, em torno da longa areia com Bandeira Azul do Adriático, da famosa praia canina Spiaggia di Pluto, do spa Bibione Thermae e do farol Faro di Bibione nos pinhais do Tagliamento`,
       highlight: `a praia canina Spiaggia di Pluto, o trilho do pinhal até ao Faro di Bibione e os 8 km de passeio marítimo`,

@@ -42021,5 +42021,140 @@
       "Simple, reliable rooms with easy car access and parking",
       "Near the Croix Basque vet clinic in the Jalday area"
     ]
+  },
+  {
+    "id": "lignano-sabbiadoro-1",
+    "slug": "hotel-bellavista-lignano",
+    "name": "Hotel Bellavista",
+    "destinationSlug": "lignano-sabbiadoro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 373,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Bellavista+Lignano+Sabbiadoro",
+    "petFee": 15,
+    "petPolicy": "Hotel Bellavista welcomes most household pets and even offers breakfast on the terrace with your dog. A small extra charge may apply per pet per night and dogs are not permitted on the private beach or in the pool area. Please confirm with the property when booking.",
+    "address": "Lungomare Trieste 70, 33054 Lignano Sabbiadoro (UD), Italy",
+    "neighborhood": "Sabbiadoro seafront",
+    "highlights": [
+      "Beachfront on the lungomare",
+      "Dogs welcome at terrace breakfast",
+      "Outdoor pool and free bikes"
+    ]
+  },
+  {
+    "id": "lignano-sabbiadoro-2",
+    "slug": "hotel-la-perla-lignano",
+    "name": "Hotel La Perla",
+    "destinationSlug": "lignano-sabbiadoro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 410,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+La+Perla+Lignano+Sabbiadoro",
+    "petFee": 20,
+    "petPolicy": "Dogs are welcome at Hotel La Perla for an extra charge of 20 euro per day per dog, with access to rooms, common areas and the breakfast veranda. The hotel runs the affiliated Doggy Beach and gives guests a 10 percent discount voucher plus a free shuttle to the dog beach. Please confirm with the property when booking.",
+    "address": "Via Padana 10, 33054 Lignano Sabbiadoro (UD), Italy",
+    "neighborhood": "Sabbiadoro",
+    "highlights": [
+      "Runs the affiliated Doggy Beach",
+      "Free shuttle to the dog beach",
+      "10 percent dog beach discount voucher"
+    ]
+  },
+  {
+    "id": "lignano-sabbiadoro-3",
+    "slug": "green-village-resort-lignano",
+    "name": "Green Village Resort",
+    "destinationSlug": "lignano-sabbiadoro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1200,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Green+Village+Resort+Lignano+Sabbiadoro",
+    "petFee": 20,
+    "petPolicy": "Dogs are accepted at around 20 euro per day with advance request and reservation, in apartments and villas with fenced private gardens ideal for a long summer stay. The resort provides a dog bowl and bed and gives access to the nearby Spiaggia di Duke dog beach for a fee. Please confirm with the property when booking.",
+    "address": "Via Casa Bianca 4, 33054 Lignano Sabbiadoro (UD), Italy",
+    "neighborhood": "Lignano Riviera",
+    "highlights": [
+      "Apartments and villas with fenced gardens",
+      "Built for long family beach stays",
+      "Near the Spiaggia di Duke dog beach"
+    ]
+  },
+  {
+    "id": "lignano-sabbiadoro-4",
+    "slug": "hotel-helvetia-lignano",
+    "name": "Hotel Helvetia",
+    "destinationSlug": "lignano-sabbiadoro",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 520,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Helvetia+Lignano+Sabbiadoro",
+    "petFee": 15,
+    "petPolicy": "Small pets up to about 10 kg (one per room) are admitted on request with an extra charge, with access to the bedroom and most common areas but not the dining hall, private beach or pool. Set in the shaded Pineta pinewood near Hemingway Park. Please confirm with the property when booking.",
+    "address": "Corso degli Alisei 9, 33054 Lignano Sabbiadoro (UD), Italy",
+    "neighborhood": "Lignano Pineta",
+    "highlights": [
+      "In the shaded Pineta pinewood",
+      "Steps from Hemingway Park",
+      "Small dogs up to 10 kg welcome"
+    ]
+  },
+  {
+    "id": "lignano-sabbiadoro-5",
+    "slug": "hotel-nuova-flavia-lignano",
+    "name": "Hotel Nuova Flavia",
+    "destinationSlug": "lignano-sabbiadoro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 118,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Nuova+Flavia+Lignano+Sabbiadoro",
+    "petFee": 0,
+    "petPolicy": "Hotel Nuova Flavia welcomes four-legged friends at no additional cost, in a quiet central spot just 200 metres from the beach and steps from the main shopping street. Beach service, parking and bikes are included in the rate. Please confirm with the property when booking.",
+    "address": "Via Marina 6, 33054 Lignano Sabbiadoro (UD), Italy",
+    "neighborhood": "Sabbiadoro centre",
+    "highlights": [
+      "Dogs stay free",
+      "200 m from the beach",
+      "Quiet central location"
+    ]
   }
 ]

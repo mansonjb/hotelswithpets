@@ -22666,5 +22666,80 @@
       }
     },
     "iata": "BIQ"
+  },
+  {
+    "slug": "lignano-sabbiadoro",
+    "name": "Lignano Sabbiadoro",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/lignano-sabbiadoro.jpg",
+    "intro": "Lignano Sabbiadoro is a long, golden Blue Flag beach resort on Italy's Friuli-Venezia Giulia Adriatic coast, famous among dog owners for its dedicated dog beaches and the calm Marano lagoon at its back. Its flat, walkable streets, the modernist Pineta pinewood and the Terrazza a Mare landmark make it a relaxed long-stay summer base for travelling with a dog.",
+    "lat": 45.6889,
+    "lng": 13.1378,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Pleasant & fresh",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Hot beach days",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Peak summer heat",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & calmer",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & wetter",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "TRS"
   }
 ]

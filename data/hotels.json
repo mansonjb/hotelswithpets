@@ -42553,5 +42553,391 @@
       "Charming vineyard-set guesthouse",
       "Pool and views of Cap Canaille"
     ]
+  },
+  {
+    "id": "sibenik-1",
+    "slug": "d-resort-sibenik",
+    "name": "D-Resort Sibenik",
+    "destinationSlug": "sibenik",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 950,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=D-Resort+Sibenik",
+    "petFee": 30,
+    "petPolicy": "Pets are welcome with prior management approval for a fee of 30 EUR per pet, per day. Confirm the number and size of pets in advance. Please confirm with the property when booking.",
+    "address": "Obala Jerka Sizgorica 1, 22000 Sibenik",
+    "neighborhood": "Mandalina",
+    "highlights": [
+      "Striking over-water architecture on Marina Mandalina",
+      "Sea-view rooms facing the old town or bay",
+      "Marina-front spa and pool"
+    ]
+  },
+  {
+    "id": "sibenik-2",
+    "slug": "bellevue-superior-city-hotel-sibenik",
+    "name": "Bellevue Superior City Hotel",
+    "destinationSlug": "sibenik",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 1300,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bellevue+Superior+City+Hotel+Sibenik",
+    "petFee": 20,
+    "petPolicy": "Pets are allowed on request for a fee of 20 EUR per pet, per day. Notify the hotel in advance so they can confirm availability. Please confirm with the property when booking.",
+    "address": "Obala Hrvatske Mornarice 1, 22000 Sibenik",
+    "neighborhood": "Waterfront / Old Town edge",
+    "highlights": [
+      "Central waterfront location",
+      "Modern, comfortable rooms",
+      "Walkable to the cathedral and Riva"
+    ]
+  },
+  {
+    "id": "sibenik-3",
+    "slug": "armerun-heritage-hotel-sibenik",
+    "name": "Armerun Heritage Hotel & Residences",
+    "destinationSlug": "sibenik",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.6,
+    "reviewCount": 1000,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Armerun+Heritage+Hotel+Sibenik",
+    "petFee": 30,
+    "petPolicy": "One pet per room is allowed for a fee of around 30 EUR per pet, per day, with service animals free. The hotel provides food and water bowls and offers in-house pet-sitting and grooming. Please confirm with the property when booking.",
+    "address": "Obala Palih Omladinaca 6, 22000 Sibenik",
+    "neighborhood": "Old Town",
+    "highlights": [
+      "Restored heritage palace in the old town",
+      "In-house pet-sitting and grooming",
+      "Food and water bowls provided"
+    ]
+  },
+  {
+    "id": "sibenik-4",
+    "slug": "king-kresimir-heritage-hotel-sibenik",
+    "name": "King Kresimir Heritage Hotel",
+    "destinationSlug": "sibenik",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 600,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=King+Kresimir+Heritage+Hotel+Sibenik",
+    "petFee": 40,
+    "petPolicy": "Pets are allowed on request for a fee of around 40 EUR per pet, per night, with a maximum pet weight of 12 kg. This is an adults-only boutique hotel suited to small dogs. Please confirm with the property when booking.",
+    "address": "Old Town, 22000 Sibenik",
+    "neighborhood": "Old Town",
+    "highlights": [
+      "Design boutique in a heritage building",
+      "Central old-town location",
+      "Small-dog friendly, adults only"
+    ]
+  },
+  {
+    "id": "sibenik-5",
+    "slug": "apartmani-rina-sibenik",
+    "name": "Apartmani Rina",
+    "destinationSlug": "sibenik",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 750,
+    "priceFrom": 45,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Apartmani+Rina+Sibenik",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request at no extra charge. Confirm your pet's size with the host in advance. Please confirm with the property when booking.",
+    "address": "Obala Dr. Franje Tudmana 8/2, 22000 Sibenik",
+    "neighborhood": "Waterfront",
+    "highlights": [
+      "Budget self-catering apartments",
+      "Free pet policy",
+      "Central waterfront-adjacent location"
+    ]
+  },
+  {
+    "id": "limassol-1",
+    "slug": "parklane-luxury-collection-limassol",
+    "name": "Parklane, a Luxury Collection Resort & Spa",
+    "destinationSlug": "limassol",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2100,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Parklane+Luxury+Collection+Limassol",
+    "petFee": 20,
+    "petPolicy": "Two dogs up to 10 kg are welcome in designated rooms for a fee of EUR 20 per pet per night (higher in suites and villas), with complimentary food and water bowls provided. The resort has a sandy beach and a designated dog beach nearby at Karavopetra. Please confirm with the property when booking.",
+    "address": "Giannou Kranidioti 11, Pyrgos, Limassol 4640",
+    "neighborhood": "Pyrgos. East of Limassol",
+    "highlights": [
+      "Sandy beach and multiple pools",
+      "Designated dog beach nearby at Karavopetra",
+      "Food and water bowls provided for dogs"
+    ]
+  },
+  {
+    "id": "limassol-2",
+    "slug": "nyx-hotel-limassol",
+    "name": "NYX Hotel Limassol by Leonardo Hotels",
+    "destinationSlug": "limassol",
+    "categories": [
+      "dog-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1500,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=NYX+Hotel+Limassol",
+    "petFee": 30,
+    "petPolicy": "One dog up to 8 kg is accepted for EUR 30 per night in designated dog-friendly rooms, with food and water bowls and a relaxation area provided. The hotel faces the seafront, a short walk from the Molos promenade. Please confirm with the property when booking.",
+    "address": "28th October Avenue, Limassol 3107",
+    "neighborhood": "Seafront",
+    "highlights": [
+      "Beachfront location near the Molos",
+      "Outdoor pool and rooftop facilities",
+      "Dog amenities provided in-room"
+    ]
+  },
+  {
+    "id": "limassol-3",
+    "slug": "only-boutique-suites-residences-limassol",
+    "name": "ONLY Boutique Suites & Residences",
+    "destinationSlug": "limassol",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 420,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=ONLY+Boutique+Suites+Residences+Limassol",
+    "petFee": 25,
+    "petPolicy": "Dogs of any size are welcome on request for an additional fee, with food and water bowls provided. The property sits about 1.3 km from Dasoudi Beach and has an outdoor pool, garden, and restaurant terrace. Please confirm with the property when booking.",
+    "address": "Amathountos Avenue, Agios Tychonas, Limassol",
+    "neighborhood": "Agios Tychonas",
+    "highlights": [
+      "Outdoor pool and garden",
+      "Food and water bowls for dogs",
+      "Walking distance to Dasoudi area"
+    ]
+  },
+  {
+    "id": "limassol-4",
+    "slug": "chrysanthos-boutique-apartments-limassol",
+    "name": "Chrysanthos Boutique Apartments",
+    "destinationSlug": "limassol",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 560,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Chrysanthos+Boutique+Apartments+Limassol",
+    "petFee": 15,
+    "petPolicy": "Pets are allowed on request and charges may apply, with a helpful host noted by guests. The self-catered apartments sit just 50 metres from Dasoudi Beach in the Potamos Germasogeias tourist area. Please confirm with the property when booking.",
+    "address": "Potamos Germasogeias, Limassol",
+    "neighborhood": "Potamos Germasogeias",
+    "highlights": [
+      "50 metres from Dasoudi Beach",
+      "Self-catered apartments with kitchen",
+      "Bar-restaurant on site"
+    ]
+  },
+  {
+    "id": "limassol-5",
+    "slug": "kanika-beach-apartment-limassol",
+    "name": "Kanika Beach apartment",
+    "destinationSlug": "limassol",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 210,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kanika+Beach+apartment+Limassol",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size stay free with no additional charge at this beachfront apartment. It sits 300 metres from Akti Olympion Beach and 1.5 km from Dasoudi Beach, with free WiFi and private parking. Please confirm with the property when booking.",
+    "address": "Akti Olympion area, Limassol",
+    "neighborhood": "Akti Olympion seafront",
+    "highlights": [
+      "Dogs stay free, any size",
+      "300 metres from Akti Olympion Beach",
+      "Free private parking and WiFi"
+    ]
+  },
+  {
+    "id": "trapani-1",
+    "slug": "firriato-hospitality-baglio-soria",
+    "name": "Firriato Hospitality - Baglio Sorìa",
+    "destinationSlug": "trapani",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 285,
+    "priceFrom": 200,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Firriato+Hospitality+Baglio+Soria+Trapani+Sicily",
+    "petFee": 0,
+    "petPolicy": "Small dogs are welcome on request at this wine resort; a service charge may apply and larger dogs are not accepted. Inform the property in advance and keep dogs leashed in the grounds. Please confirm with the property when booking.",
+    "address": "Contrada Sorìa snc, 91100 Trapani",
+    "neighborhood": "Countryside outside Trapani",
+    "highlights": [
+      "Firriato wine estate with vineyards",
+      "Pool and spa with countryside views",
+      "Fine Sicilian dining on site"
+    ]
+  },
+  {
+    "id": "trapani-2",
+    "slug": "ai-lumi-bb-trapani",
+    "name": "Ai Lumi B&B",
+    "destinationSlug": "trapani",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 600,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Ai+Lumi+Trapani+Sicily",
+    "petFee": 0,
+    "petPolicy": "Small, well-behaved dogs are welcome by prior agreement and must be leashed, kept with owners at all times and have a pet passport. Dogs may not be left alone in the room. Please confirm with the property when booking.",
+    "address": "Corso Vittorio Emanuele 75/77, Trapani",
+    "neighborhood": "Centro storico",
+    "highlights": [
+      "On the pedestrian main corso",
+      "Historic palazzo setting",
+      "Walkable to seafront and old town"
+    ]
+  },
+  {
+    "id": "trapani-3",
+    "slug": "hotel-san-michele-trapani",
+    "name": "Hotel San Michele",
+    "destinationSlug": "trapani",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 400,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+San+Michele+Trapani+Sicily",
+    "petFee": 0,
+    "petPolicy": "Pets are welcome at this central hotel, ideally placed for walking dogs in the old town and along the seafront. Keep dogs leashed in shared areas. Please confirm with the property when booking.",
+    "address": "Via San Michele, Trapani",
+    "neighborhood": "Centro storico",
+    "highlights": [
+      "Historic-centre location",
+      "750 m from the train station",
+      "Walkable to Villa Margherita garden"
+    ]
+  },
+  {
+    "id": "trapani-4",
+    "slug": "stabile-hospitality-trapani",
+    "name": "Stabile Hospitality",
+    "destinationSlug": "trapani",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.4,
+    "reviewCount": 311,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Stabile+Hospitality+Trapani+Sicily",
+    "petFee": 0,
+    "petPolicy": "Pets stay free at this well-reviewed guesthouse. Keep dogs leashed in common areas and clean up after them. Please confirm with the property when booking.",
+    "address": "Trapani city centre",
+    "neighborhood": "Trapani centre",
+    "highlights": [
+      "Excellent guest rating",
+      "Great value in the city centre",
+      "Close to old-town dining"
+    ]
+  },
+  {
+    "id": "trapani-5",
+    "slug": "dimora-botteghelle-trapani",
+    "name": "Dimora Botteghelle",
+    "destinationSlug": "trapani",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.2,
+    "reviewCount": 201,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Dimora+Botteghelle+Trapani+Sicily",
+    "petFee": 0,
+    "petPolicy": "Pets stay free at this central guesthouse in the heart of the old town. Keep dogs leashed in shared spaces. Please confirm with the property when booking.",
+    "address": "Trapani city centre",
+    "neighborhood": "Centro storico",
+    "highlights": [
+      "Old-town location",
+      "Highly rated by guests",
+      "Steps from cafe terraces and seafront"
+    ]
   }
 ]

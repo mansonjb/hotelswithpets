@@ -21,6 +21,21 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    sibenik: {
+      personality: `a thousand-year-old Dalmatian stone city wrapped around the UNESCO Cathedral of St James, watched over by the St Michael, Barone and St John fortresses, its medieval old-town lanes spilling onto the Riva waterfront and opening the way to the Krka waterfalls and the Kornati islands`,
+      highlight: `St Michael's Fortress, Subicevac forest park, and the leashed trails of Krka National Park`,
+      area: `the Old Town, the Riva waterfront, and Mandalina`,
+    },
+    limassol: {
+      personality: `one of the most relaxed and walkable cities on Cyprus's southern coast, where the Molos seafront promenade and sculpture park, the medieval Limassol Castle and old town, the Marina, Lady's Mile beach, and the ancient ruins of Kourion and Amathus are all easy to explore with a dog`,
+      highlight: `the Molos seafront promenade, the Zakaki dog park, and the open grounds of ancient Kourion`,
+      area: `the Old Town, Molos seafront, and the Marina`,
+    },
+    trapani: {
+      personality: `a sun-drenched western Sicilian port defined by the salt pans and windmills of the Saline di Trapani, a sickle-shaped old town reaching into the sea along Via Garibaldi, the seafront Torre di Ligny, the Liberty Lines hydrofoils to the Egadi islands and the cable car climbing to medieval Erice`,
+      highlight: `the Lungomare Dante Alighieri seafront, the Villa Regina Margherita garden and the salt-pan roads of the Saline di Trapani`,
+      area: `the centro storico, the Lungomare seafront and the hilltop village of Erice`,
+    },
     sliema: {
       personality: `one of Malta's most walkable seafront towns, where the promenade runs from Tigne Point past the rocky Exiles and Qui-si-Sana foreshore all the way to St Julian's`,
       highlight: `the Sliema seafront promenade, the Tigne Point waterfront, and the short ferry across to Valletta's skyline`,
@@ -1554,6 +1569,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    sibenik: {
+      personality: `une cite dalmate de pierre millenaire blottie autour de la cathedrale Saint-Jacques classee UNESCO, veillee par les forteresses Saint-Michel, Barone et Saint-Jean, ses ruelles medievales s'ouvrant sur la Riva et ouvrant la voie aux cascades de Krka et aux iles Kornati`,
+      highlight: `la forteresse Saint-Michel, le parc forestier de Subicevac et les sentiers en laisse du parc national de Krka`,
+      area: `la vieille ville, la Riva et Mandalina`,
+    },
+    limassol: {
+      personality: `l'une des villes les plus détendues et agréables à pied de la côte sud de Chypre, où la promenade du Molos et son parc de sculptures, le château médiéval de Limassol et la vieille ville, la marina, la plage de Lady's Mile et les ruines antiques de Kourion et d'Amathus se découvrent facilement avec un chien`,
+      highlight: `la promenade du Molos, le parc canin de Zakaki et le site ouvert de l'ancienne Kourion`,
+      area: `la vieille ville, le front de mer du Molos et la marina`,
+    },
+    trapani: {
+      personality: `un port de Sicile occidentale gorgé de soleil, défini par les salines et les moulins de la Saline di Trapani, une vieille ville en forme de faucille s'avançant dans la mer le long de la Via Garibaldi, la Torre di Ligny du front de mer, les aliscafi Liberty Lines vers les îles Égades et le téléphérique qui grimpe jusqu'à Erice médiévale`,
+      highlight: `le front de mer Lungomare Dante Alighieri, le jardin Villa Regina Margherita et les routes des salines de la Saline di Trapani`,
+      area: `le centro storico, le front de mer Lungomare et le village perché d'Erice`,
+    },
     sliema: {
       personality: `l'une des villes balnéaires les plus agréables à pied de Malte, où la promenade relie Tigne Point au littoral rocheux des Exiles et de Qui-si-Sana jusqu'à St Julian's`,
       highlight: `la promenade du front de mer de Sliema, le front de mer de Tigne Point et la courte traversée en ferry vers la silhouette de La Valette`,
@@ -3086,6 +3116,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    sibenik: {
+      personality: `una ciudad dalmata de piedra milenaria que envuelve la Catedral de Santiago declarada UNESCO, vigilada por las fortalezas de San Miguel, Barone y San Juan, con sus callejuelas medievales que se abren a la Riva y dan paso a las cascadas de Krka y las islas Kornati`,
+      highlight: `la Fortaleza de San Miguel, el parque forestal de Subicevac y los senderos con correa del Parque Nacional de Krka`,
+      area: `el Casco Antiguo, la Riva y Mandalina`,
+    },
+    limassol: {
+      personality: `una de las ciudades más relajadas y caminables de la costa sur de Chipre, donde el paseo marítimo del Molos y su parque de esculturas, el castillo medieval de Limasol y el casco antiguo, el puerto deportivo, la playa de Lady's Mile y las ruinas antiguas de Kourion y Amathus se exploran fácilmente con un perro`,
+      highlight: `el paseo del Molos, el parque canino de Zakaki y el recinto abierto de la antigua Kourion`,
+      area: `el casco antiguo, el paseo del Molos y el puerto deportivo`,
+    },
+    trapani: {
+      personality: `un puerto de la Sicilia occidental bañado por el sol, definido por las salinas y los molinos de la Saline di Trapani, un casco antiguo en forma de hoz que se adentra en el mar a lo largo de Via Garibaldi, la Torre di Ligny del paseo marítimo, los hidroalas de Liberty Lines a las islas Egadas y el teleférico que sube a la medieval Erice`,
+      highlight: `el paseo marítimo Lungomare Dante Alighieri, el jardín Villa Regina Margherita y las carreteras de las salinas de la Saline di Trapani`,
+      area: `el centro storico, el paseo marítimo Lungomare y el pueblo en lo alto de Erice`,
+    },
     sliema: {
       personality: `una de las localidades costeras más cómodas de recorrer a pie de Malta, donde el paseo va desde Tigne Point por el litoral rocoso de Exiles y Qui-si-Sana hasta St Julian's`,
       highlight: `el paseo marítimo de Sliema, el frente marítimo de Tigne Point y la corta travesía en ferry hacia el perfil de La Valeta`,
@@ -4618,6 +4663,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    sibenik: {
+      personality: `uma cidade dalmata de pedra milenar envolta na Catedral de Sao Tiago classificada pela UNESCO, vigiada pelas fortalezas de Sao Miguel, Barone e Sao Joao, com as suas ruelas medievais a abrirem para a Riva e a darem acesso as cascatas de Krka e as ilhas Kornati`,
+      highlight: `a Fortaleza de Sao Miguel, o parque florestal de Subicevac e os trilhos com trela do Parque Nacional de Krka`,
+      area: `a Cidade Velha, a Riva e Mandalina`,
+    },
+    limassol: {
+      personality: `uma das cidades mais descontraídas e fáceis de percorrer a pé da costa sul de Chipre, onde o passeio marítimo do Molos e o seu parque de esculturas, o castelo medieval de Limassol e a cidade velha, a marina, a praia de Lady's Mile e as ruínas antigas de Kourion e Amathus se exploram facilmente com um cão`,
+      highlight: `o passeio do Molos, o parque canino de Zakaki e o recinto aberto da antiga Kourion`,
+      area: `a cidade velha, a marginal do Molos e a marina`,
+    },
+    trapani: {
+      personality: `um porto da Sicília ocidental banhado pelo sol, definido pelas salinas e moinhos da Saline di Trapani, um centro histórico em forma de foice que avança para o mar ao longo da Via Garibaldi, a Torre di Ligny da marginal, os hidroplanadores da Liberty Lines para as ilhas Égadas e o teleférico que sobe até à medieval Erice`,
+      highlight: `a marginal Lungomare Dante Alighieri, o jardim Villa Regina Margherita e as estradas das salinas da Saline di Trapani`,
+      area: `o centro storico, a marginal Lungomare e a vila no alto de Erice`,
+    },
     sliema: {
       personality: `uma das localidades à beira-mar mais fáceis de percorrer a pé de Malta, onde a promenade vai de Tigne Point pelo litoral rochoso dos Exiles e de Qui-si-Sana até St Julian's`,
       highlight: `a promenade da marginal de Sliema, a frente ribeirinha de Tigne Point e a curta travessia de ferry para a silhueta de Valeta`,

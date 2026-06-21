@@ -22966,5 +22966,230 @@
       }
     },
     "iata": "MRS"
+  },
+  {
+    "slug": "sibenik",
+    "name": "Sibenik",
+    "country": "Croatia",
+    "countryCode": "HR",
+    "flag": "🇭🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/sibenik.jpg",
+    "intro": "Sibenik is a thousand-year-old Dalmatian stone city built around the UNESCO Cathedral of St James and crowned by four hilltop fortresses. With a dog-friendly old town, the Riva waterfront and the waterfalls of Krka National Park nearby, it makes a rewarding summer base for travellers with pets.",
+    "lat": 43.735,
+    "lng": 15.8952,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild, rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Cool, breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot, sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Very hot",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Very hot",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Cooler, wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild, rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "SPU"
+  },
+  {
+    "slug": "limassol",
+    "name": "Limassol",
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "flag": "🇨🇾",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/limassol.jpg",
+    "intro": "Limassol is Cyprus's relaxed southern-coast city, where a long seafront promenade, a medieval old town, and ancient ruins sit beside warm Mediterranean water. With dog-friendly terraces, a fenced dog park, and designated dog beaches nearby, it is an easy year-round base for travelling with a pet.",
+    "lat": 34.7071,
+    "lng": 33.0226,
+    "weather": {
+      "jan": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 17,
+        "desc": "Mild & clear",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 22,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 30,
+        "desc": "Hot summer",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 33,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 33,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 31,
+        "desc": "Hot & clear",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 27,
+        "desc": "Warm autumn",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 22,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "LCA"
+  },
+  {
+    "slug": "trapani",
+    "name": "Trapani",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/trapani.jpg",
+    "intro": "Trapani is a sun-baked western Sicilian port wrapped around a sickle of land that juts into the sea, famous for its shimmering salt pans and windmills and its hydrofoils to the Egadi islands. With a walkable old town, a breezy seafront and a cable car up to medieval Erice, it is a relaxed, dog-friendly base for a Sicilian summer.",
+    "lat": 38.0176,
+    "lng": 12.5365,
+    "weather": {
+      "jan": {
+        "temp": 14,
+        "desc": "Mild, some rain",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Cool and breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 16,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Warm and pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot and sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot and dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 27,
+        "desc": "Warm, sea-warm",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 23,
+        "desc": "Mild and sunny",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 19,
+        "desc": "Mild, rainier",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 15,
+        "desc": "Mild winter",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "TPS"
   }
 ]

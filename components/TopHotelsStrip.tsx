@@ -1,8 +1,7 @@
 import Image from 'next/image'
-import { existsSync } from 'fs'
-import { join } from 'path'
 import hotels from '@/data/hotels.json'
 import destinations from '@/data/destinations.json'
+import { hasImage } from '@/lib/imageManifest'
 import { valueSort } from '@/lib/hotelSort'
 import { buildAllezLink } from '@/lib/site'
 import { getLocalizedCityName } from '@/lib/cityNames'
@@ -67,8 +66,7 @@ export default function TopHotelsStrip({ locale, destinationSlugs, campaign, hea
       const dest = destinations.find((d) => d.slug === slug)
       if (!hotel || !dest) return null
       const imgRel = `/images/hotels/${hotel.id}.jpg`
-      const imgAbs = join(process.cwd(), 'public', imgRel)
-      const hasPhoto = existsSync(imgAbs)
+      const hasPhoto = hasImage(imgRel)
       const href = buildAllezLink(hotel.name, dest.name, dest.country, `topstrip-${campaign}-${hotel.id}`)
       const cityName = getLocalizedCityName(dest.slug, dest.name, locale)
       const countryName = getLocalizedCountryName(dest.country, locale)

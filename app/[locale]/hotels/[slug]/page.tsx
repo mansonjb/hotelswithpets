@@ -9,6 +9,7 @@ import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { localizedPetPolicy } from '@/lib/petPolicy'
+import { imageUrl } from '@/lib/imageUrl'
 
 type HotelData = typeof hotels[number] & { slug: string }
 
@@ -161,7 +162,7 @@ export default async function HotelPage({
   }
 
   const cleanPolicy = locale === 'en' ? sanitizePetPolicy(hotel.petPolicy, hotel.petFee, locale) : localizedPetPolicy(hotel, locale)
-  const hotelImage = `https://www.hotelswithpets.com/images/hotels/${hotel.id}.jpg`
+  const hotelImage = imageUrl(`/images/hotels/${hotel.id}.jpg`)
   const destHasCoords = 'lat' in dest && 'lng' in dest
 
   const lodgingSchema = {

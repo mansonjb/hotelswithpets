@@ -8,6 +8,7 @@ import hotels from '@/data/hotels.json'
 import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { valueSort } from '@/lib/hotelSort'
 import { bestSnowHotelsUrl } from '@/lib/skiStations'
+import { imageUrl } from '@/lib/imageUrl'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { readdirSync, existsSync } from 'fs'
 import { join } from 'path'
@@ -555,7 +556,7 @@ export default async function GuideDetailPage({
     description: intro.slice(0, 155),
     datePublished: cityGuide.lastUpdated,
     dateModified: cityGuide.lastUpdated,
-    image: `${SITE_URL}/images/destinations/${slug}.jpg`,
+    image: imageUrl(`/images/destinations/${slug}.jpg`),
     author: { '@type': 'Person', name: 'HotelsWithPets Editorial', url: `${SITE_URL}/${locale}/about`, jobTitle: 'Pet Travel Editor' },
     publisher: { '@type': 'Organization', name: 'HotelsWithPets.com', url: SITE_URL, logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png`, width: 192, height: 192 } },
   }

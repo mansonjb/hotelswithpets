@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
 import { SITE_URL, buildAllezLink, buildAllezDestLink, buildStay22MapSrc } from '@/lib/site'
+import { imageUrl } from '@/lib/imageUrl'
 import StickyHotelCTA from '@/components/StickyHotelCTA'
 import { GuideFooter } from '../_components/GuideFooter'
 
@@ -69,7 +70,7 @@ export async function generateMetadata({
       siteName: 'HotelsWithPets.com',
       images: [
         {
-          url: `${SITE_URL}/images/guides/brittany-road-trip.jpg`,
+          url: imageUrl(`/images/guides/brittany-road-trip.jpg`),
           width: 1600,
           height: 900,
           alt: 'Saint-Malo ramparts with the Brittany coast',

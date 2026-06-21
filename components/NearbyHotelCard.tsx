@@ -1,10 +1,9 @@
 import Image from 'next/image'
-import { existsSync } from 'fs'
-import { join } from 'path'
 import hotels from '@/data/hotels.json'
 import destinations from '@/data/destinations.json'
 import { buildAllezLink } from '@/lib/site'
 import { getLocalizedCityName } from '@/lib/cityNames'
+import { hasImage } from '@/lib/imageManifest'
 
 interface Props {
   /** Destination slug (e.g. 'nice') used to pick the top-rated pet-friendly hotel there. */
@@ -97,10 +96,9 @@ export default function NearbyHotelCard({
   const cityName = getLocalizedCityName(dest.slug, dest.name, locale)
   const label = proximityLabel ?? L.defaultProximity(cityName)
 
-  // Hotel image: /public/images/hotels/{id}.jpg if it exists
+  // Hotel image served from the Supabase CDN; the manifest says if it exists.
   const imgRel = `/images/hotels/${hotel.id}.jpg`
-  const imgAbs = join(process.cwd(), 'public', imgRel)
-  const hasPhoto = existsSync(imgAbs)
+  const hasPhoto = hasImage(imgRel)
 
   const stay22Href = buildAllezLink(hotel.name, dest.name, dest.country, `nearbycard-${destinationSlug}`)
   const petFeeText = hotel.petFee === 0 ? L.freePets : L.petFee(hotel.petFee)

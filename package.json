@@ -10,7 +10,8 @@
     "start": "next start",
     "lint": "eslint",
     "scrape": "node scripts/scrape-booking.mjs",
-    "images": "node scripts/download-images.mjs"
+    "images": "node scripts/download-images.mjs",
+    "images:sync": "node scripts/upload-images-supabase.mjs"
   },
   "dependencies": {
     "next": "16.2.3",
@@ -25,6 +26,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.3",
+    "mime-types": "^3.0.2",
     "playwright": "^1.59.1",
     "sharp": "^0.34.5",
     "tailwindcss": "^4",

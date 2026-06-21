@@ -21,6 +21,21 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    bibione: {
+      personality: `one of Europe's flagship dog-travel beach resorts, wrapped around the long Blue Flag Adriatic sand, the famous Spiaggia di Pluto dog beach, the Bibione Thermae spa and the Faro di Bibione lighthouse in the Tagliamento pinewoods`,
+      highlight: `Spiaggia di Pluto dog beach, the Faro di Bibione pinewood trail, and the 8 km seafront promenade`,
+      area: `Bibione Spiaggia, Bibione Pineda, and Lido dei Pini near the dog beach`,
+    },
+    'cap-ferret': {
+      personality: `a barefoot Atlantic peninsula crowned by the Phare du Cap-Ferret lighthouse, strung with the colourful oyster cabanes of L'Herbe and Le Canon, and stretched between the calm Bassin beaches and the wild ocean surf facing the Dune du Pilat across the bay`,
+      highlight: `the pine-forest cycle paths, the Pointe aux Chevaux loop, and the Piraillan nature reservoirs`,
+      area: `Claouey, L'Herbe, and Le Cap-Ferret village`,
+    },
+    'saint-jean-de-luz': {
+      personality: `one of the prettiest resorts on the French Basque coast, where the sheltered Grande Plage bay and its three digues meet a pedestrian old town crowned by the Eglise Saint-Jean-Baptiste where Louis XIV married in 1660, the working fishing harbour and the Maison Louis XIV, with the Sainte-Barbe headland opening onto the cliff-top corniche basque toward Hendaye`,
+      highlight: `the bay promenade and digues, the Sainte-Barbe headland, and the corniche basque coastal path`,
+      area: `the old town around Place Louis XIV, the fishing harbour, and the Sainte-Barbe headland`,
+    },
     'conil-de-la-frontera': {
       personality: `one of the Costa de la Luz's most laid-back beach towns, where a whitewashed old town crowned by the Torre de Guzman meets the long Atlantic sands of Playa de los Bateles and Fontanilla, the surf of El Palmar and the orange cliffs and coves of Cabo Roche`,
       highlight: `Playa de los Bateles, the Pinar de Roche pine forest, and the Cabo Roche cliff walk`,
@@ -1519,6 +1534,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    bibione: {
+      personality: `l'une des stations balnéaires phares d'Europe pour voyager avec son chien, articulée autour du long sable Pavillon Bleu de l'Adriatique, de la célèbre plage canine Spiaggia di Pluto, du spa Bibione Thermae et du phare Faro di Bibione dans la pinède du Tagliamento`,
+      highlight: `la plage canine Spiaggia di Pluto, le sentier de la pinède jusqu'au Faro di Bibione et les 8 km de promenade du front de mer`,
+      area: `Bibione Spiaggia, Bibione Pineda et Lido dei Pini près de la plage canine`,
+    },
+    'cap-ferret': {
+      personality: `une presqu'île atlantique pieds nus couronnée par le Phare du Cap-Ferret, ponctuée des cabanes ostréicoles colorées de L'Herbe et du Canon, et tendue entre les plages calmes du Bassin et le surf océanique sauvage face à la Dune du Pilat de l'autre côté de la baie`,
+      highlight: `les pistes cyclables en pinède, la boucle de la Pointe aux Chevaux et les réservoirs naturels de Piraillan`,
+      area: `Claouey, L'Herbe et le village du Cap-Ferret`,
+    },
+    'saint-jean-de-luz': {
+      personality: `l'une des plus jolies stations de la côte basque française, où la baie abritée de la Grande Plage et ses trois digues rencontrent une vieille ville piétonne couronnée par l'église Saint-Jean-Baptiste où Louis XIV se maria en 1660, le port de pêche en activité et la Maison Louis XIV, la pointe Sainte-Barbe ouvrant sur la corniche basque en surplomb vers Hendaye`,
+      highlight: `la promenade de la baie et les digues, la pointe Sainte-Barbe et le sentier de la corniche basque`,
+      area: `la vieille ville autour de la place Louis XIV, le port de pêche et la pointe Sainte-Barbe`,
+    },
     'conil-de-la-frontera': {
       personality: `l'une des stations balneaires les plus decontractees de la Costa de la Luz, ou une vieille ville blanchie a la chaux couronnee par la Torre de Guzman rencontre les longues plages atlantiques de la Playa de los Bateles et de Fontanilla, les vagues d'El Palmar et les falaises orange et criques de Cabo Roche`,
       highlight: `la Playa de los Bateles, la pinede du Pinar de Roche et la balade des falaises de Cabo Roche`,
@@ -3016,6 +3046,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    bibione: {
+      personality: `una de las estaciones balnearias emblemáticas de Europa para viajar con perro, articulada en torno a la larga arena Bandera Azul del Adriático, la famosa playa canina Spiaggia di Pluto, el spa Bibione Thermae y el faro Faro di Bibione en los pinares del Tagliamento`,
+      highlight: `la playa canina Spiaggia di Pluto, el sendero del pinar hasta el Faro di Bibione y los 8 km de paseo marítimo`,
+      area: `Bibione Spiaggia, Bibione Pineda y Lido dei Pini cerca de la playa canina`,
+    },
+    'cap-ferret': {
+      personality: `una península atlántica de pies descalzos coronada por el Phare du Cap-Ferret, salpicada de las coloridas cabañas ostrícolas de L'Herbe y Le Canon, y tendida entre las playas tranquilas del Bassin y el surf oceánico salvaje frente a la Dune du Pilat al otro lado de la bahía`,
+      highlight: `los carriles bici de pinar, el circuito de la Pointe aux Chevaux y los embalses naturales de Piraillan`,
+      area: `Claouey, L'Herbe y el pueblo de Cap-Ferret`,
+    },
+    'saint-jean-de-luz': {
+      personality: `uno de los destinos más bonitos de la costa vasca francesa, donde la bahía resguardada de la Grande Plage y sus tres digues se unen a un casco antiguo peatonal coronado por la iglesia Saint-Jean-Baptiste donde Luis XIV se casó en 1660, el puerto pesquero en activo y la Maison Louis XIV, con la punta de Sainte-Barbe abriéndose a la corniche basque en lo alto hacia Hendaya`,
+      highlight: `el paseo de la bahía y las digues, la punta de Sainte-Barbe y el sendero de la corniche basque`,
+      area: `el casco antiguo alrededor de la Place Louis XIV, el puerto pesquero y la punta de Sainte-Barbe`,
+    },
     'conil-de-la-frontera': {
       personality: `uno de los pueblos de playa mas relajados de la Costa de la Luz, donde un casco antiguo encalado coronado por la Torre de Guzman se une a las largas arenas atlanticas de la Playa de los Bateles y Fontanilla, el oleaje de El Palmar y los acantilados naranjas y calas de Cabo Roche`,
       highlight: `la Playa de los Bateles, el pinar de Roche y el paseo de los acantilados de Cabo Roche`,
@@ -4513,6 +4558,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    bibione: {
+      personality: `uma das estâncias balneares emblemáticas da Europa para viajar com cão, em torno da longa areia com Bandeira Azul do Adriático, da famosa praia canina Spiaggia di Pluto, do spa Bibione Thermae e do farol Faro di Bibione nos pinhais do Tagliamento`,
+      highlight: `a praia canina Spiaggia di Pluto, o trilho do pinhal até ao Faro di Bibione e os 8 km de passeio marítimo`,
+      area: `Bibione Spiaggia, Bibione Pineda e Lido dei Pini perto da praia canina`,
+    },
+    'cap-ferret': {
+      personality: `uma península atlântica de pés descalços coroada pelo Phare du Cap-Ferret, pontuada pelas coloridas cabanas ostreícolas de L'Herbe e Le Canon, e estendida entre as praias calmas da baía e o surf oceânico selvagem de frente para a Dune du Pilat do outro lado da baía`,
+      highlight: `as ciclovias de pinhal, o percurso da Pointe aux Chevaux e os reservatórios naturais de Piraillan`,
+      area: `Claouey, L'Herbe e a aldeia de Cap-Ferret`,
+    },
+    'saint-jean-de-luz': {
+      personality: `um dos destinos mais bonitos da costa basca francesa, onde a baía abrigada da Grande Plage e as suas três digues encontram uma cidade velha pedonal coroada pela igreja Saint-Jean-Baptiste onde Luís XIV se casou em 1660, o porto de pesca em atividade e a Maison Louis XIV, com a ponta de Sainte-Barbe a abrir-se para a corniche basque no alto em direção a Hendaia`,
+      highlight: `o passeio da baía e as digues, a ponta de Sainte-Barbe e o trilho da corniche basque`,
+      area: `a cidade velha à volta da Place Louis XIV, o porto de pesca e a ponta de Sainte-Barbe`,
+    },
     'conil-de-la-frontera': {
       personality: `uma das vilas de praia mais descontraidas da Costa de la Luz, onde um casco antigo caiado de branco coroado pela Torre de Guzman encontra os longos areais atlanticos da Playa de los Bateles e de Fontanilla, as ondas de El Palmar e as falesias laranja e enseadas de Cabo Roche`,
       highlight: `a Playa de los Bateles, o pinhal do Pinar de Roche e o passeio das falesias de Cabo Roche`,

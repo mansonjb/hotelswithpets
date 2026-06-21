@@ -22441,5 +22441,230 @@
       }
     },
     "iata": "VLC"
+  },
+  {
+    "slug": "bibione",
+    "name": "Bibione",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/bibione.jpg",
+    "intro": "Bibione is a Blue Flag Adriatic beach resort in the Veneto, famous as one of Europe's flagship dog-travel destinations thanks to the equipped Spiaggia di Pluto dog beach. With 8 km of golden sand, a thermal spa, a lighthouse at the Tagliamento river mouth and pinewood walks, it is built for long, easy summer beach stays with a dog.",
+    "lat": 45.6363,
+    "lng": 13.047,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool and crisp",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Cool, mild spells",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm and pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Warm, beach starts",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot and sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot, humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Peak heat, warm sea",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm, comfortable",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Cool, wetter",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Cool, quiet",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "VCE"
+  },
+  {
+    "slug": "cap-ferret",
+    "name": "Cap Ferret",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/cap-ferret.jpg",
+    "intro": "Cap Ferret is a slender pine-covered peninsula between the calm Bassin d'Arcachon and the wild Atlantic, famous for its oyster villages, its red-and-white lighthouse and a barefoot, low-key summer scene. It is a dreamy long-stay beach base, with the one big caveat for dog owners that the beaches themselves are closed to dogs all year, so plan around the forest trails, the oyster cabanes and the dog-friendly beaches up and down the coast.",
+    "lat": 44.6333,
+    "lng": -1.2433,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Cool & breezy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Cool & changeable",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Pleasant & fresh",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & busy",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & calmer",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Cool & damp",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "BOD"
+  },
+  {
+    "slug": "saint-jean-de-luz",
+    "name": "Saint-Jean-de-Luz",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/saint-jean-de-luz.jpg",
+    "intro": "Saint-Jean-de-Luz is a postcard Basque resort on the southwest Atlantic coast, where a calm, swimmable bay sheltered by three sea walls sits below a pedestrian old town of red-shuttered houses. It makes a relaxed long-stay summer base for dog owners who plan around one firm local rule: dogs are banned from every town beach all year, so the walking, dining and coastal-path days do the heavy lifting.",
+    "lat": 43.388,
+    "lng": -1.662,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild, wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Cool, showery",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild, changeable",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Fresh spring",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm, pleasant",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm, sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Warm, humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm, settled",
+        "icon": "🌅"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild, wetter",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Cooler, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild, wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "BIQ"
   }
 ]

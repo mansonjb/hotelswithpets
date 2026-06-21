@@ -65,8 +65,8 @@ async function downloadPhoto(url, outPath) {
   if (!r.ok) throw new Error(`img ${r.status}`);
   const buf = Buffer.from(await r.arrayBuffer());
   await sharp(buf)
-    .resize(1200, 800, { fit: "cover", position: "centre" })
-    .jpeg({ quality: 82, progressive: true, mozjpeg: true })
+    .resize(800, 533, { fit: "cover", position: "centre" }) // hotel cards render ~300px; keep files light for the deploy-size budget
+    .jpeg({ quality: 72, progressive: true, mozjpeg: true })
     .toFile(outPath);
 }
 

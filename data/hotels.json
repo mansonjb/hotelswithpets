@@ -41618,5 +41618,408 @@
       "Refundable pet deposit, no nightly fee",
       "Close to the beach and promenade"
     ]
+  },
+  {
+    "id": "bibione-1",
+    "slug": "bibione-palace-spa-hotel",
+    "name": "Bibione Palace Spa Hotel",
+    "destinationSlug": "bibione",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 336,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bibione+Palace+Spa+Hotel+Bibione",
+    "petFee": 20,
+    "petPolicy": "Pets are welcome for a charge of around 20 EUR per pet per day. Service animals stay free of charge. Please confirm with the property when booking.",
+    "address": "Via degli Ontani, Bibione, San Michele al Tagliamento (VE)",
+    "neighborhood": "Bibione Spiaggia",
+    "highlights": [
+      "Seafront with private beach",
+      "Indoor and outdoor pools plus spa",
+      "Two-minute walk to Bibione beach"
+    ]
+  },
+  {
+    "id": "bibione-2",
+    "slug": "lino-delle-fate-eco-village-resort",
+    "name": "Lino delle Fate Eco Village Resort",
+    "destinationSlug": "bibione",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1468,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Lino+delle+Fate+Eco+Village+Resort+Bibione",
+    "petFee": 20,
+    "petPolicy": "Pets are allowed for an extra charge of around 20 EUR per day. Dogs must be kept on a leash within the resort and are not permitted on the private beach area. Please confirm with the property when booking.",
+    "address": "Via dei Ginepri 1, Bibione Pineda, San Michele al Tagliamento (VE)",
+    "neighborhood": "Bibione Pineda",
+    "highlights": [
+      "Seven-minute walk to Pluto's dog beach",
+      "Green eco resort with pool",
+      "Apartments and bungalows for long stays"
+    ]
+  },
+  {
+    "id": "bibione-3",
+    "slug": "hotel-villa-angelina-bibione",
+    "name": "Hotel Villa Angelina",
+    "destinationSlug": "bibione",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 9.4,
+    "reviewCount": 210,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Villa+Angelina+Bibione",
+    "petFee": 15,
+    "petPolicy": "Cats and dogs are allowed, though some restrictions may apply and the property should be contacted to confirm size limits and any fee. Please confirm with the property when booking.",
+    "address": "Via delle Nazioni, Bibione, San Michele al Tagliamento (VE)",
+    "neighborhood": "Bibione Spiaggia",
+    "highlights": [
+      "Private beach with free loungers",
+      "A few steps from the seafront",
+      "Highly rated for cleanliness and service"
+    ]
+  },
+  {
+    "id": "bibione-4",
+    "slug": "hotel-airone-bibione",
+    "name": "Hotel Airone",
+    "destinationSlug": "bibione",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 1190,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Airone+Bibione",
+    "petFee": 12,
+    "petPolicy": "Pets are accepted on request, typically for a small fee. The hotel sits in the quiet Lido del Sole pinewood, with shaded grounds suited to dogs. Please confirm with the property when booking.",
+    "address": "Via dei Lauri, Lido del Sole, Bibione, San Michele al Tagliamento (VE)",
+    "neighborhood": "Lido del Sole",
+    "highlights": [
+      "Set in a tranquil pinewood",
+      "200 m from its private beach",
+      "Good breakfast and friendly staff"
+    ]
+  },
+  {
+    "id": "bibione-5",
+    "slug": "hotel-san-marco-bibione-pineda",
+    "name": "Hotel San Marco",
+    "destinationSlug": "bibione",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 320,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+San+Marco+Bibione+Pineda",
+    "petFee": 10,
+    "petPolicy": "Pets are allowed at the property; it is best to call ahead to confirm size and any fee. The hotel is set in parkland in central Bibione Pineda, a short walk from the sea. Please confirm with the property when booking.",
+    "address": "Via delle Mimose, Bibione Pineda, San Michele al Tagliamento (VE)",
+    "neighborhood": "Bibione Pineda",
+    "highlights": [
+      "Quiet pine-shaded parkland setting",
+      "Salt-water pool and free private beach",
+      "Five-minute walk to the sea"
+    ]
+  },
+  {
+    "id": "cap-ferret-1",
+    "slug": "domaine-du-ferret-restaurant-spa",
+    "name": "Domaine du Ferret Restaurant & Spa",
+    "destinationSlug": "cap-ferret",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 320,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Domaine+du+Ferret+Cap+Ferret",
+    "petFee": 12,
+    "petPolicy": "Dogs and cats are genuinely welcomed, with up to 3 dogs of all sizes accepted for a fee of 12 EUR per dog per night and a bowl or basket provided on request. Dogs are allowed throughout the lodge-style grounds and forest setting, with walking trails moments from the door. Please confirm with the property when booking.",
+    "address": "40 avenue de Caperan, 33950 Lège-Cap-Ferret",
+    "neighborhood": "Claouey",
+    "highlights": [
+      "1,000 m2 spa with heated outdoor pool",
+      "Lodge-style units in a pine-forest setting, ideal for long stays",
+      "One of the most dog-welcoming addresses on the Bassin"
+    ]
+  },
+  {
+    "id": "cap-ferret-2",
+    "slug": "la-maison-du-bassin",
+    "name": "La Maison du Bassin",
+    "destinationSlug": "cap-ferret",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 236,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=La+Maison+du+Bassin+Cap+Ferret",
+    "petFee": 0,
+    "petPolicy": "Pets are welcomed on request and must be arranged in advance, with at least one guest review confirming a stay with dogs. Any pet charge is set case by case, so the supplement should be checked directly. Please confirm with the property when booking.",
+    "address": "5 rue des Pionniers, 33970 Le Cap-Ferret",
+    "neighborhood": "Le Cap-Ferret",
+    "highlights": [
+      "Iconic boutique address in the fishermen's village",
+      "Shaded veranda, terrace and restaurant",
+      "Walkable to Bélisaire pier and the lighthouse, beach about 250 m"
+    ]
+  },
+  {
+    "id": "cap-ferret-3",
+    "slug": "hotel-la-fregate-cap-ferret",
+    "name": "Hôtel La Frégate",
+    "destinationSlug": "cap-ferret",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 358,
+    "priceFrom": 114,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+La+Fregate+Cap+Ferret",
+    "petFee": 0,
+    "petPolicy": "Pets are accepted on request and the hotel provides pet bowls, with dog-friendly status confirmed across booking platforms and pet-travel directories. Charges may apply and are set on request, and there is no on-site lawn though walking areas sit about 200 m away. Please confirm with the property when booking.",
+    "address": "34 avenue de l'Océan, 33970 Le Cap-Ferret",
+    "neighborhood": "Le Cap-Ferret",
+    "highlights": [
+      "Outdoor pool and sun terrace",
+      "Apartment rentals as well as rooms, good for long summer stays",
+      "Central, walkable to the bay and the ocean"
+    ]
+  },
+  {
+    "id": "cap-ferret-4",
+    "slug": "hotel-des-pins-cap-ferret",
+    "name": "Hôtel des Pins",
+    "destinationSlug": "cap-ferret",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.2,
+    "reviewCount": 240,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+des+Pins+Cap+Ferret",
+    "petFee": 15,
+    "petPolicy": "Animals are accepted for a fee of 15 EUR per pet per night, with dog-friendly status confirmed on the hotel's own site and pet-travel directories. The Art Déco hotel offers studios alongside its rooms, which suits a longer stay. Please confirm with the property when booking.",
+    "address": "23 rue des Fauvettes, 33970 Le Cap-Ferret",
+    "neighborhood": "Le Cap-Ferret",
+    "highlights": [
+      "Charming Art Déco village hotel",
+      "Studios available for longer stays",
+      "On-site restaurant and wine bar, lift access"
+    ]
+  },
+  {
+    "id": "cap-ferret-5",
+    "slug": "camping-sandaya-le-truc-vert",
+    "name": "Camping Sandaya Le Truc Vert",
+    "destinationSlug": "cap-ferret",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.0,
+    "reviewCount": 900,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sandaya+Le+Truc+Vert+Cap+Ferret",
+    "petFee": 5,
+    "petPolicy": "Dogs and cats are accepted for a supplement of 5 EUR per night, with a limit of 2 animals and all sizes welcome, though categorized or restricted breeds are not permitted. The wooded ocean-side site with mobile homes suits long summer stays with a dog. Please confirm with the property when booking.",
+    "address": "Route du Truc-Vert, 33950 Lège-Cap-Ferret",
+    "neighborhood": "Le Truc Vert",
+    "highlights": [
+      "Wooded site moments from the ocean dunes",
+      "Mobile homes ideal for long, self-catering summer stays",
+      "Family pools and direct forest-trail access"
+    ]
+  },
+  {
+    "id": "saint-jean-de-luz-1",
+    "slug": "grand-hotel-thalasso-spa-saint-jean-de-luz",
+    "name": "Grand Hôtel Thalasso & Spa",
+    "destinationSlug": "saint-jean-de-luz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 676,
+    "priceFrom": 245,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Grand+Hotel+Thalasso+Spa+Saint+Jean+de+Luz",
+    "petFee": 30,
+    "petPolicy": "Pets are welcome at this seafront grand hotel on the bay, on request and subject to a supplement, with dogs not allowed in the spa and pool areas. Confirm size and any restrictions in advance. Please confirm with the property when booking.",
+    "address": "43 Boulevard Thiers, 64500 Saint-Jean-de-Luz",
+    "neighborhood": "Seafront / Grande Plage bay",
+    "highlights": [
+      "Belle Epoque grand hotel directly on the sheltered Grande Plage bay",
+      "Thalassotherapy spa and sea views, walkable to the old town",
+      "Steps from the promenade and digues for early-morning dog walks"
+    ]
+  },
+  {
+    "id": "saint-jean-de-luz-2",
+    "slug": "madison-saint-jean-de-luz-handwritten-collection",
+    "name": "MADISON Saint Jean de Luz - Handwritten Collection",
+    "destinationSlug": "saint-jean-de-luz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 773,
+    "priceFrom": 248,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Madison+Saint+Jean+de+Luz",
+    "petFee": 15,
+    "petPolicy": "Dogs are accepted at this central boutique hotel a short walk from the bay, subject to a per-night supplement and on request. Well-behaved leashed dogs are welcome in the rooms. Please confirm with the property when booking.",
+    "address": "25 Boulevard Thiers, 64500 Saint-Jean-de-Luz",
+    "neighborhood": "Town centre, near the bay",
+    "highlights": [
+      "Stylish boutique rooms a stone's throw from the Grande Plage",
+      "Central location on Boulevard Thiers, walkable old town and harbour",
+      "Comfortable base for a long summer stay with a dog"
+    ]
+  },
+  {
+    "id": "saint-jean-de-luz-3",
+    "slug": "hotel-de-la-plage-saint-jean-de-luz",
+    "name": "Hôtel de la Plage - Saint Jean de Luz",
+    "destinationSlug": "saint-jean-de-luz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 530,
+    "priceFrom": 133,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+de+la+Plage+Saint+Jean+de+Luz",
+    "petFee": 12,
+    "petPolicy": "Pets are welcome on request at this hotel close to the seafront, usually for a small per-night charge. Dogs cannot go on the adjoining town beach, but the promenade is at the door. Please confirm with the property when booking.",
+    "address": "Promenade Jacques Thibaud, 64500 Saint-Jean-de-Luz",
+    "neighborhood": "Seafront promenade",
+    "highlights": [
+      "On the bay-side promenade by the sheltered Grande Plage",
+      "Easy access to the digues and old-town terraces on foot",
+      "Bright, sea-facing rooms in a relaxed three-star setting"
+    ]
+  },
+  {
+    "id": "saint-jean-de-luz-4",
+    "slug": "bizipoz-hotel-saint-jean-de-luz",
+    "name": "Bizipoz Hôtel",
+    "destinationSlug": "saint-jean-de-luz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 994,
+    "priceFrom": 108,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bizipoz+Hotel+Saint+Jean+de+Luz",
+    "petFee": 0,
+    "petPolicy": "Dogs are genuinely welcome at the Bizipoz, which puts out a small treat for canine guests and does not charge a pet supplement. It sits about 400 metres from the Grande Plage and a few minutes from rue Gambetta. Please confirm with the property when booking.",
+    "address": "Avenue André Ithurralde area, 64500 Saint-Jean-de-Luz",
+    "neighborhood": "Near the station and Grande Plage",
+    "highlights": [
+      "Dogs stay free with a welcome treat from the hotel",
+      "About 400 m from the Grande Plage and the bay promenade",
+      "Modern four-star comfort, walkable to the old town"
+    ]
+  },
+  {
+    "id": "saint-jean-de-luz-5",
+    "slug": "b-and-b-hotel-saint-jean-de-luz",
+    "name": "B&B HOTEL Saint Jean de Luz",
+    "destinationSlug": "saint-jean-de-luz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 5583,
+    "priceFrom": 67,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=B%26B+Hotel+Saint+Jean+de+Luz",
+    "petFee": 6,
+    "petPolicy": "Pets are accepted at this budget chain hotel for a small per-night fee, one pet per room as standard. A practical, affordable base for a longer stay with a dog. Please confirm with the property when booking.",
+    "address": "Zone Jalday, 64500 Saint-Jean-de-Luz",
+    "neighborhood": "Jalday, edge of town",
+    "highlights": [
+      "Lowest-cost dog-friendly option for a long summer stay",
+      "Simple, reliable rooms with easy car access and parking",
+      "Near the Croix Basque vet clinic in the Jalday area"
+    ]
   }
 ]

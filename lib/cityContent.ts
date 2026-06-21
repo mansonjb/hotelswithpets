@@ -17557,6 +17557,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  nerja: {
+    history: {
+      fr: `Nerja, petite ville blanchie à la chaux d'environ 22 000 habitants sur la Costa del Sol orientale, dans la province de Málaga, est passée du statut de village agricole maure à celui de l'une des stations balnéaires les plus aimées d'Andalousie, rendue célèbre par la série télévisée espagnole « Verano Azul » tournée sur ses plages dans les années 1980. Son cœur est le Balcón de Europa, un promontoire bordé de palmiers bâti sur les ruines d'une forteresse de falaise, d'où la vieille ville dévale vers la Méditerranée dans un dédale de ruelles blanches. Pour les propriétaires de chiens, Nerja est détendue et facile à parcourir : les chiens tenus en laisse sont les bienvenus en terrasse, sur la promenade et dans les rues du centre, et la commune a ouvert deux parcs canins clôturés fin 2024. Les deux choses à anticiper sont la chaleur estivale de la Costa del Sol et l'interdiction saisonnière sur les plages (du 1er juin au 30 septembre), qui oriente les maîtres vers la plage canine ouverte toute l'année à Torrox, tout proche.`,
+      en: `Nerja, a whitewashed town of about 22,000 on the eastern Costa del Sol in Málaga province, grew from a Moorish farming village into one of Andalusia's most beloved seaside resorts, made famous by the 1980s Spanish TV series "Verano Azul" filmed on its beaches. Its centrepiece is the Balcón de Europa, a palm-lined promontory built on the ruins of a clifftop fortress, where the old town spills toward the Mediterranean in a tangle of narrow whitewashed lanes. For dog owners Nerja is relaxed and walkable: leashed dogs are welcome on terraces, the promenade and old-town streets, and the town opened two fenced municipal dog parks in late 2024. The two things to plan around are the Costa del Sol summer heat and the seasonal beach ban (1 June to 30 September), which sends dog owners to the year-round dog beach at nearby Torrox.`,
+      es: `Nerja, un pueblo encalado de unos 22.000 habitantes en la Costa del Sol oriental, en la provincia de Málaga, pasó de aldea agrícola morisca a una de las estaciones costeras más queridas de Andalucía, popularizada por la serie de televisión española "Verano Azul", rodada en sus playas en los años ochenta. Su corazón es el Balcón de Europa, un promontorio bordeado de palmeras levantado sobre las ruinas de una fortaleza sobre el acantilado, desde donde el casco antiguo desciende hacia el Mediterráneo en un laberinto de callejuelas blancas. Para los dueños de perros Nerja es relajada y caminable: los perros con correa son bienvenidos en las terrazas, el paseo y las calles del casco antiguo, y el ayuntamiento abrió dos parques caninos vallados a finales de 2024. Las dos cosas que conviene planificar son el calor estival de la Costa del Sol y la prohibición estacional en las playas (del 1 de junio al 30 de septiembre), que lleva a los dueños a la playa canina abierta todo el año en la vecina Torrox.`,
+      pt: `Nerja, uma vila caiada de cerca de 22.000 habitantes na Costa del Sol oriental, na província de Málaga, passou de aldeia agrícola moura a uma das estâncias costeiras mais queridas da Andaluzia, popularizada pela série de televisão espanhola "Verano Azul", rodada nas suas praias nos anos oitenta. O seu coração é o Balcón de Europa, um promontório ladeado de palmeiras erguido sobre as ruínas de uma fortaleza na falésia, de onde o centro histórico desce até ao Mediterrâneo num labirinto de ruelas brancas. Para os donos de cães Nerja é descontraída e fácil de percorrer: os cães com trela são bem-vindos nas esplanadas, no passeio e nas ruas do centro, e a câmara municipal abriu dois parques caninos vedados no final de 2024. As duas coisas a planear são o calor estival da Costa del Sol e a proibição sazonal nas praias (de 1 de junho a 30 de setembro), que leva os donos à praia canina aberta todo o ano na vizinha Torrox.`,
+    },
+    sights: [
+      {
+        name: 'Balcón de Europa',
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          fr: `Le promontoire emblématique de Nerja et sa promenade bordée de palmiers, bâtis sur les ruines d'une ancienne forteresse là où la vieille ville rejoint la mer. Les chiens en laisse sont admis sur l'esplanade pavée et ses points de vue sur la Méditerranée.`,
+          en: `Nerja's iconic clifftop promontory and palm-lined promenade, built on the ruins of an old fortress where the old town meets the sea. Leashed dogs are welcome on the open paved esplanade and its sweeping Mediterranean viewpoints.`,
+          es: `El promontorio más emblemático de Nerja y su paseo bordeado de palmeras, construido sobre las ruinas de una antigua fortaleza donde el casco antiguo se asoma al mar. Los perros con correa son bienvenidos en la explanada y sus miradores al Mediterráneo.`,
+          pt: `O promontório mais emblemático de Nerja e o seu passeio ladeado de palmeiras, construído sobre as ruínas de uma antiga fortaleza onde o centro histórico encontra o mar. Os cães com trela são bem-vindos na esplanada e nos seus miradouros sobre o Mediterrâneo.`,
+        },
+      },
+      {
+        name: 'Río Chíllar',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `La randonnée estivale phare de Nerja suit le lit du Río Chíllar dans une gorge fraîche et ombragée, avec une eau arrivant à la cheville ou au genou, un refuge naturel pour les chiens face à la chaleur. Gardez le chien en laisse et emportez de l'eau pour les portions sèches.`,
+          en: `Nerja's signature warm-weather hike follows the bed of the Río Chíllar through a cool, shaded gorge with ankle- to knee-deep water, a natural refuge for dogs from the summer heat. Keep dogs leashed and bring water for the dry stretches.`,
+          es: `La excursión estrella de verano de Nerja sigue el cauce del Río Chíllar por un desfiladero fresco y sombreado con agua hasta el tobillo o la rodilla, un refugio natural para los perros frente al calor. Lleva al perro con correa y agua para los tramos secos.`,
+          pt: `A caminhada de verão por excelência de Nerja segue o leito do Río Chíllar por um desfiladeiro fresco e sombreado com água ao tornozelo ou ao joelho, um refúgio natural para os cães face ao calor. Mantenha o cão com trela e leve água para os troços secos.`,
+        },
+      },
+      {
+        name: 'Parque Canino Verano Azul',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Un parc canin municipal entièrement clôturé à côté du Parque Verano Azul, en plein centre, ouvert par la mairie de Nerja en décembre 2024 pour que les chiens courent sans laisse. Un second parc canin clôturé jouxte le complexe sportif Ciudad Deportiva.`,
+          en: `A fully fenced municipal dog park beside the Parque Verano Azul in the heart of town, opened by Nerja town hall in December 2024 so dogs can run off-leash. A second fenced dog park sits next to the Ciudad Deportiva sports complex.`,
+          es: `Un parque canino municipal totalmente vallado junto al Parque Verano Azul, en pleno centro, abierto por el ayuntamiento de Nerja en diciembre de 2024 para que los perros corran sin correa. Un segundo parque canino vallado está junto a la Ciudad Deportiva.`,
+          pt: `Um parque canino municipal totalmente vedado junto ao Parque Verano Azul, em pleno centro, inaugurado pela câmara de Nerja em dezembro de 2024 para os cães correrem sem trela. Um segundo parque canino vedado fica junto ao complexo desportivo Ciudad Deportiva.`,
+        },
+      },
+      {
+        name: 'Playa Canina de Torrox',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La plage canine officielle la plus proche de Nerja, une petite crique à l'embouchure du Torrox entre le phare et la Playa El Peñoncillo, à environ 8 km à l'ouest. C'est l'option de baignade fiable toute l'année, les plages de Nerja interdisant les chiens l'été.`,
+          en: `The closest official dog beach to Nerja, a small cove at the mouth of the Torrox river between the lighthouse and Playa El Peñoncillo, about 8 km west. It is the reliable year-round swimming option since Nerja's own beaches ban dogs in summer.`,
+          es: `La playa canina oficial más cercana a Nerja, una pequeña cala en la desembocadura del río Torrox entre el faro y la Playa El Peñoncillo, a unos 8 km al oeste. Es la opción de baño fiable todo el año, ya que las playas de Nerja prohíben perros en verano.`,
+          pt: `A praia canina oficial mais próxima de Nerja, uma pequena enseada na foz do rio Torrox entre o farol e a Playa El Peñoncillo, a cerca de 8 km a oeste. É a opção de banho fiável todo o ano, já que as praias de Nerja proíbem cães no verão.`,
+        },
+      },
+      {
+        name: 'Iglesia de El Salvador',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `L'église blanchie du XVIIe siècle qui ancre la vieille ville de Nerja, déployée depuis le Balcón de Europa en un dédale de ruelles, de placettes et de terrasses à tapas. Les chiens en laisse peuvent flâner dans les rues piétonnes et sur la plupart des terrasses.`,
+          en: `The 17th-century whitewashed church anchoring Nerja's old town, which fans out from the Balcón de Europa in a tangle of narrow lanes, plazas and tapas terraces. Leashed dogs are welcome to wander the pedestrian streets and most café terraces.`,
+          es: `La iglesia encalada del siglo XVII que vertebra el casco antiguo de Nerja, que se despliega desde el Balcón de Europa en un laberinto de callejuelas, plazas y terrazas de tapas. Los perros con correa pueden pasear por las calles peatonales y la mayoría de terrazas.`,
+          pt: `A igreja caiada do século XVII que ancora o centro histórico de Nerja, que se desdobra a partir do Balcón de Europa num labirinto de ruelas, praças e esplanadas de tapas. Os cães com trela podem passear pelas ruas pedonais e pela maioria das esplanadas.`,
+        },
+      },
+      {
+        name: 'Cuevas de Nerja',
+        emoji: '🦇',
+        petFriendly: false,
+        desc: {
+          fr: `Un vaste réseau de grottes préhistoriques à 4 km à l'est et l'une des attractions les plus visitées d'Andalousie, avec une célèbre salle centrale et des peintures rupestres. Les chiens ne peuvent pas entrer, prévoyez un accompagnant pour rester dehors avec l'animal.`,
+          en: `A vast prehistoric cave system 4 km east of town and one of Andalusia's most visited attractions, with a famous central chamber and ancient rock art. Dogs cannot go inside, so visit with a companion who can wait outside with your pet.`,
+          es: `Un vasto sistema de cuevas prehistóricas a 4 km al este y una de las atracciones más visitadas de Andalucía, con una famosa sala central y arte rupestre antiguo. Los perros no pueden entrar, así que ve con un acompañante que espere fuera con la mascota.`,
+          pt: `Um vasto sistema de grutas pré-históricas a 4 km a leste e uma das atrações mais visitadas da Andaluzia, com uma famosa sala central e arte rupestre antiga. Os cães não podem entrar, por isso vá com um acompanhante que fique fora com o animal.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les plages de Nerja, dont la Playa de Burriana, interdisent les chiens pendant la saison de baignade andalouse du 1er juin au 30 septembre ; rabattez-vous sur la plage canine officielle de Torrox (8 km à l\'ouest), ouverte toute l\'année.',
+        'Chaleur de la Costa del Sol : promenez tôt le matin ou après le coucher du soleil en été, et testez le sol de la main, si c\'est trop chaud pour votre paume, c\'est trop chaud pour les coussinets.',
+        'Deux parcs canins municipaux clôturés ont ouvert fin 2024, le Parque Canino Verano Azul au centre et celui de la Ciudad Deportiva, tous deux avec espace sans laisse.',
+        'La randonnée du Río Chíllar est la meilleure échappatoire estivale : sa gorge ombragée et son eau peu profonde gardent les chiens au frais quand la côte est brûlante, gardez-les en laisse.',
+        'Prévention de la leishmaniose : le phlébotome qui la transmet est endémique sur la Costa del Sol, demandez à un vétérinaire local un collier ou un répulsif adapté du printemps à l\'automne.',
+      ],
+      en: [
+        'Nerja\'s own beaches, including Playa de Burriana, ban dogs during the Andalusian bathing season from 1 June to 30 September; use the official dog beach at Torrox (8 km west), open year-round.',
+        'Costa del Sol heat: walk early morning or after sunset in summer, and test the pavement with your hand, if it is too hot for your palm it is too hot for paws.',
+        'Two fenced municipal dog parks opened in late 2024, Parque Canino Verano Azul in the centre and the Ciudad Deportiva park, both with off-leash space.',
+        'The Río Chíllar river walk is the best summer cool-down, its shaded gorge and shallow water keep dogs comfortable when the coast is too hot; keep them leashed.',
+        'Leishmaniasis prevention: the sandfly that carries it is endemic on the Costa del Sol, ask a local vet about a repellent collar or spot-on from spring through autumn.',
+      ],
+      es: [
+        'Las playas de Nerja, incluida la Playa de Burriana, prohíben perros durante la temporada de baño andaluza del 1 de junio al 30 de septiembre; usa la playa canina oficial de Torrox (8 km al oeste), abierta todo el año.',
+        'Calor de la Costa del Sol: pasea a primera hora o después del atardecer en verano, y prueba el suelo con la mano, si quema para tu palma, quema para las almohadillas.',
+        'Dos parques caninos municipales vallados abrieron a finales de 2024, el Parque Canino Verano Azul en el centro y el de la Ciudad Deportiva, ambos con zona sin correa.',
+        'La ruta del Río Chíllar es el mejor refresco veraniego: su desfiladero sombreado y su agua poco profunda mantienen frescos a los perros cuando la costa arde, llévalos con correa.',
+        'Prevención de la leishmaniosis: el flebótomo que la transmite es endémico en la Costa del Sol, pregunta a un veterinario local por un collar o pipeta repelente de primavera a otoño.',
+      ],
+      pt: [
+        'As praias de Nerja, incluindo a Playa de Burriana, proíbem cães durante a época balnear andaluza de 1 de junho a 30 de setembro; use a praia canina oficial de Torrox (8 km a oeste), aberta todo o ano.',
+        'Calor da Costa del Sol: passeie de manhã cedo ou depois do pôr do sol no verão, e teste o chão com a mão, se queima na palma, queima nas patas.',
+        'Dois parques caninos municipais vedados abriram no final de 2024, o Parque Canino Verano Azul no centro e o da Ciudad Deportiva, ambos com zona sem trela.',
+        'O percurso do Río Chíllar é o melhor refresco de verão: o seu desfiladeiro sombreado e a água pouco funda mantêm os cães frescos quando a costa está a arder, leve-os com trela.',
+        'Prevenção da leishmaniose: o flebótomo que a transmite é endémico na Costa del Sol, peça a um veterinário local uma coleira ou pipeta repelente da primavera ao outono.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Passeport européen et vaccination antirabique valide exigés à l\'enregistrement dans tout hôtel pet-friendly.',
+        'Laisse obligatoire dans les espaces publics selon les règles andalouses et municipales ; les chiens de catégorie (PPP) doivent porter une muselière et faire l\'objet d\'une licence.',
+        'Ramassage des déjections obligatoire et verbalisé, la commune surveille le Balcón de Europa et la promenade.',
+        'Pas de gare : la plupart des maîtres arrivent par l\'aéroport de Málaga (60 km) puis en voiture ou en car ALSA (petits animaux seulement, en cage rigide en soute) ; les trains Cercanías de Málaga sont plus souples.',
+        'Vétérinaires vérifiés : Clínica Veterinaria Nerja (C. El Chaparil 3, +34 952 521 401), urgences 24h 609 982 941 ; Clínica Veterinaria Laguna à Torrox-Costa.',
+      ],
+      en: [
+        'EU pet passport and valid rabies vaccination required at every pet-friendly hotel check-in.',
+        'Leash mandatory in public spaces under Andalusian and municipal rules; potentially dangerous breeds (PPP) need a muzzle and a licence.',
+        'Picking up dog waste is mandatory and fined, the town patrols the Balcón de Europa and the promenade.',
+        'No train station: most owners arrive via Málaga Airport (60 km) then car or ALSA coach (small pets only, rigid carrier in the hold); Málaga Cercanías commuter trains are more pet-flexible.',
+        'Verified vets: Clínica Veterinaria Nerja (C. El Chaparil 3, +34 952 521 401), 24h emergencies 609 982 941; Clínica Veterinaria Laguna in Torrox-Costa.',
+      ],
+      es: [
+        'Pasaporte europeo y vacunación antirrábica vigente exigidos al hacer el check-in en cualquier hotel pet-friendly.',
+        'Correa obligatoria en los espacios públicos según las normas andaluzas y municipales; los perros potencialmente peligrosos (PPP) necesitan bozal y licencia.',
+        'Recoger los excrementos es obligatorio y se multa, el ayuntamiento vigila el Balcón de Europa y el paseo.',
+        'Sin estación de tren: la mayoría llega por el aeropuerto de Málaga (60 km) y luego en coche o autocar ALSA (solo mascotas pequeñas, en transportín rígido en bodega); los Cercanías de Málaga son más flexibles.',
+        'Veterinarios verificados: Clínica Veterinaria Nerja (C. El Chaparil 3, +34 952 521 401), urgencias 24h 609 982 941; Clínica Veterinaria Laguna en Torrox-Costa.',
+      ],
+      pt: [
+        'Passaporte europeu e vacinação antirrábica válida exigidos no check-in em qualquer hotel pet-friendly.',
+        'Trela obrigatória nos espaços públicos segundo as normas andaluzas e municipais; os cães potencialmente perigosos (PPP) precisam de açaime e licença.',
+        'Apanhar os dejetos é obrigatório e sujeito a multa, a câmara vigia o Balcón de Europa e o passeio.',
+        'Sem estação de comboio: a maioria chega pelo aeroporto de Málaga (60 km) e depois de carro ou autocarro ALSA (apenas animais pequenos, em transportadora rígida no porão); os comboios Cercanías de Málaga são mais flexíveis.',
+        'Veterinários verificados: Clínica Veterinaria Nerja (C. El Chaparil 3, +34 952 521 401), urgências 24h 609 982 941; Clínica Veterinaria Laguna em Torrox-Costa.',
+      ],
+    },
+  },
+
   nice: {
     history: {
       en: 'Nice, the capital of the French Riviera and France\'s fifth-largest city, has been a haven for well-heeled travellers and their pets since the 19th century, when English aristocrats wintering on the Côte d\'Azur made the Promenade des Anglais their daily constitutional. Today the city\'s 342,000 inhabitants share it with a substantial dog population drawn by the Mediterranean climate, the long pebbly beach and the easy access to the hills of the Alpes-Maritimes. Dogs are accepted in the city\'s many outdoor café terraces and restaurants; the old town (Vieux-Nice) is lively and navigable year-round with a well-socialised dog.',

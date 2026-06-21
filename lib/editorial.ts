@@ -21,6 +21,21 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    sliema: {
+      personality: `one of Malta's most walkable seafront towns, where the promenade runs from Tigne Point past the rocky Exiles and Qui-si-Sana foreshore all the way to St Julian's`,
+      highlight: `the Sliema seafront promenade, the Tigne Point waterfront, and the short ferry across to Valletta's skyline`,
+      area: `Tigne Point, the seafront Strand, and the Exiles foreshore`,
+    },
+    'costa-da-caparica': {
+      personality: `a long Atlantic beach town just south of Lisbon, where the endless numbered praias and the old Transpraia train, the seafront avenida and former fishing town, the Arriba Fossil cliffs and the Mata dos Medos pinewoods all sit a short crossing from the capital`,
+      highlight: `the southern praias toward Fonte da Telha, the Arriba Fossil clifftop trails, and the Mata dos Medos pine forest`,
+      area: `the seafront avenida, the old fishing town, and Fonte da Telha`,
+    },
+    cassis: {
+      personality: `a picturesque Provençal fishing port near Marseille, wrapped around its boat-filled harbour beneath the towering Cap Canaille sea cliffs, with the Calanques of Port-Miou, Port-Pin and En-Vau, the Plage de la Grande Mer and historic vineyards at its doorstep, though the protected core of the Calanques National Park largely bans dogs`,
+      highlight: `the fishing port and Quai des Baux, the Cap Canaille clifftop road, and the peripheral Port-Miou calanque`,
+      area: `the old port, the Bestouan, and the AOC Cassis vineyards`,
+    },
     'lignano-sabbiadoro': {
       personality: `a long golden Blue Flag beach resort on the Friuli-Venezia Giulia Adriatic whose dedicated Doggy Beach dog beach, modernist Pineta pinewoods spiral, Terrazza a Mare landmark and calm Marano lagoon make it an easy long-stay family base for travelling with a dog`,
       highlight: `the Doggy Beach dog beach, the long Blue Flag family beach, and the shaded Pineta pinewoods and Hemingway Park`,
@@ -1539,6 +1554,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    sliema: {
+      personality: `l'une des villes balnéaires les plus agréables à pied de Malte, où la promenade relie Tigne Point au littoral rocheux des Exiles et de Qui-si-Sana jusqu'à St Julian's`,
+      highlight: `la promenade du front de mer de Sliema, le front de mer de Tigne Point et la courte traversée en ferry vers la silhouette de La Valette`,
+      area: `Tigne Point, le Strand du bord de mer et le littoral des Exiles`,
+    },
+    'costa-da-caparica': {
+      personality: `une longue station balnéaire atlantique juste au sud de Lisbonne, où les interminables praias numérotées et l'ancien train Transpraia, l'avenida du front de mer et le vieux village de pêcheurs, la falaise fossile de l'Arriba Fossil et la pinède de la Mata dos Medos se trouvent à une courte traversée de la capitale`,
+      highlight: `les praias du sud vers Fonte da Telha, les sentiers du sommet de la falaise fossile et la pinède de la Mata dos Medos`,
+      area: `l'avenida du front de mer, le vieux village de pêcheurs et Fonte da Telha`,
+    },
+    cassis: {
+      personality: `un port de pêche provençal pittoresque près de Marseille, blotti autour de son bassin rempli de bateaux sous les hautes falaises maritimes du Cap Canaille, avec les Calanques de Port-Miou, Port-Pin et En-Vau, la Plage de la Grande Mer et des vignobles historiques à sa porte, même si le cœur protégé du Parc national des Calanques interdit largement les chiens`,
+      highlight: `le port de pêche et le Quai des Baux, la route du Cap Canaille, et la calanque périphérique de Port-Miou`,
+      area: `le vieux port, le Bestouan, et les vignobles de l'AOC Cassis`,
+    },
     'lignano-sabbiadoro': {
       personality: `une longue plage dorée pavillon bleu sur l'Adriatique du Frioul-Vénétie Julienne dont la Doggy Beach pour chiens, la spirale moderniste de la pinède de la Pineta, le monument Terrazza a Mare et la calme lagune de Marano en font une base familiale facile pour un long séjour avec un chien`,
       highlight: `la Doggy Beach pour chiens, la longue plage familiale pavillon bleu, et la pinède ombragée de la Pineta avec le parc Hemingway`,
@@ -3056,6 +3086,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    sliema: {
+      personality: `una de las localidades costeras más cómodas de recorrer a pie de Malta, donde el paseo va desde Tigne Point por el litoral rocoso de Exiles y Qui-si-Sana hasta St Julian's`,
+      highlight: `el paseo marítimo de Sliema, el frente marítimo de Tigne Point y la corta travesía en ferry hacia el perfil de La Valeta`,
+      area: `Tigne Point, el Strand del paseo marítimo y el litoral de Exiles`,
+    },
+    'costa-da-caparica': {
+      personality: `un largo pueblo de playa atlántico justo al sur de Lisboa, donde las interminables praias numeradas y el antiguo tren Transpraia, la avenida marítima y el viejo pueblo pesquero, el acantilado fósil de la Arriba Fossil y el pinar de la Mata dos Medos quedan a un corto cruce de la capital`,
+      highlight: `las praias del sur hacia Fonte da Telha, los senderos de lo alto del acantilado fósil y el pinar de la Mata dos Medos`,
+      area: `la avenida marítima, el viejo pueblo pesquero y Fonte da Telha`,
+    },
+    cassis: {
+      personality: `un pintoresco puerto pesquero provenzal cerca de Marsella, abrazado a su dársena llena de barcos bajo los altos acantilados marinos del Cap Canaille, con las Calanques de Port-Miou, Port-Pin y En-Vau, la Plage de la Grande Mer y viñedos históricos a sus puertas, aunque el núcleo protegido del Parque Nacional de las Calanques prohíbe en gran medida los perros`,
+      highlight: `el puerto pesquero y el Quai des Baux, la carretera del Cap Canaille, y la calanque periférica de Port-Miou`,
+      area: `el puerto viejo, el Bestouan, y los viñedos de la AOC Cassis`,
+    },
     'lignano-sabbiadoro': {
       personality: `una larga playa dorada con bandera azul en el Adriático de Friuli-Venecia Julia cuya Doggy Beach para perros, la espiral modernista del pinar de la Pineta, el monumento Terrazza a Mare y la tranquila laguna de Marano la convierten en una base familiar fácil para una larga estancia con un perro`,
       highlight: `la Doggy Beach para perros, la larga playa familiar con bandera azul, y el sombreado pinar de la Pineta con el parque Hemingway`,
@@ -4573,6 +4618,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    sliema: {
+      personality: `uma das localidades à beira-mar mais fáceis de percorrer a pé de Malta, onde a promenade vai de Tigne Point pelo litoral rochoso dos Exiles e de Qui-si-Sana até St Julian's`,
+      highlight: `a promenade da marginal de Sliema, a frente ribeirinha de Tigne Point e a curta travessia de ferry para a silhueta de Valeta`,
+      area: `Tigne Point, o Strand da marginal e o litoral dos Exiles`,
+    },
+    'costa-da-caparica': {
+      personality: `uma longa vila balnear atlântica mesmo a sul de Lisboa, onde as intermináveis praias numeradas e o antigo comboio Transpraia, a avenida marginal e a velha vila piscatória, a Arriba Fóssil e o pinhal da Mata dos Medos ficam a uma curta travessia da capital`,
+      highlight: `as praias a sul em direção à Fonte da Telha, os trilhos do topo da Arriba Fóssil e o pinhal da Mata dos Medos`,
+      area: `a avenida marginal, a velha vila piscatória e a Fonte da Telha`,
+    },
+    cassis: {
+      personality: `um pitoresco porto de pesca provençal perto de Marselha, enrolado em torno da sua doca cheia de barcos sob as altas falésias marítimas do Cap Canaille, com as Calanques de Port-Miou, Port-Pin e En-Vau, a Plage de la Grande Mer e vinhas históricas à porta, embora o núcleo protegido do Parque Nacional das Calanques proíba em grande medida os cães`,
+      highlight: `o porto de pesca e o Quai des Baux, a estrada do Cap Canaille, e a calanque periférica de Port-Miou`,
+      area: `o porto velho, o Bestouan, e as vinhas da AOC Cassis`,
+    },
     'lignano-sabbiadoro': {
       personality: `uma longa praia dourada com bandeira azul no Adriático do Friuli-Venezia Giulia cuja Doggy Beach para cães, a espiral modernista do pinhal da Pineta, o marco Terrazza a Mare e a calma laguna de Marano fazem dela uma base familiar fácil para uma longa estadia com um cão`,
       highlight: `a Doggy Beach para cães, a longa praia familiar com bandeira azul, e o sombreado pinhal da Pineta com o Parque Hemingway`,

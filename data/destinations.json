@@ -22741,5 +22741,230 @@
       }
     },
     "iata": "TRS"
+  },
+  {
+    "slug": "sliema",
+    "name": "Sliema",
+    "country": "Malta",
+    "countryCode": "MT",
+    "flag": "🇲🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/sliema.jpg",
+    "intro": "Sliema is Malta's breezy seafront resort town, where a kilometres-long promenade links Tigne Point to the bays of St Julian's past the rocky Exiles foreshore. With dog-tolerant terraces, a designated dog beach and a short ferry to Valletta, it is one of the island's easiest bases for travelling with a dog.",
+    "lat": 35.9117,
+    "lng": 14.5044,
+    "weather": {
+      "jan": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 15,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 17,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 31,
+        "desc": "Hot & dry",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 32,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 25,
+        "desc": "Warm & mild",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 21,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 17,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      }
+    },
+    "iata": "MLA"
+  },
+  {
+    "slug": "costa-da-caparica",
+    "name": "Costa da Caparica",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/costa-da-caparica.jpg",
+    "intro": "Costa da Caparica is a long Atlantic beach town just south of Lisbon, famous for its endless dog-walkable sands, the dramatic Arriba Fossil cliffs and an easygoing seaside life. It makes a relaxed summer base for long beach stays with a dog, with Lisbon a short Tagus crossing away.",
+    "lat": 38.645,
+    "lng": -9.2336,
+    "weather": {
+      "jan": {
+        "temp": 15,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "feb": {
+        "temp": 16,
+        "desc": "Mild, some rain",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 18,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 19,
+        "desc": "Pleasant spring",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm, beach days",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Cooler, rainier",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 15,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "LIS"
+  },
+  {
+    "slug": "cassis",
+    "name": "Cassis",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/cassis.jpg",
+    "intro": "Cassis is a picture-perfect Provençal fishing port near Marseille, framed by the towering Cap Canaille cliffs and the famous Calanques. It is a dream for dog owners around the harbour and vineyards, though the protected core of the Calanques National Park largely bans dogs, so plan your walks on the village edges.",
+    "lat": 43.2148,
+    "lng": 5.5385,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Cool & bright",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild spring",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & damp",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "MRS"
   }
 ]

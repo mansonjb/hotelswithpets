@@ -42939,5 +42939,405 @@
       "Highly rated by guests",
       "Steps from cafe terraces and seafront"
     ]
+  },
+  {
+    "id": "sirmione-1",
+    "slug": "grand-hotel-terme-sirmione",
+    "name": "Grand Hotel Terme Sirmione",
+    "destinationSlug": "sirmione",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1919,
+    "priceFrom": 246,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Grand+Hotel+Terme+Sirmione+Lake+Garda",
+    "petFee": 20,
+    "petPolicy": "Dogs of any size are welcome for a fee of around 20 EUR per pet per night, and are accepted throughout the hotel including the restaurant. Cats are not accepted. Please confirm with the property when booking.",
+    "address": "Viale Marconi 7, 25019 Sirmione",
+    "neighborhood": "Centro Storico, lakefront",
+    "highlights": [
+      "Lakefront thermal pool",
+      "5-star spa address",
+      "Dogs welcome throughout"
+    ]
+  },
+  {
+    "id": "sirmione-2",
+    "slug": "olivi-hotel-natural-spa-sirmione",
+    "name": "Olivi Hotel & Natural Spa",
+    "destinationSlug": "sirmione",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1100,
+    "priceFrom": 134,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Olivi+Hotel+Natural+Spa+Sirmione+Lake+Garda",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats of any size stay free of charge. The hotel sits in a quiet olive-shaded setting on the peninsula near the lakeside walks. Please confirm with the property when booking.",
+    "address": "Via San Pietro 5, 25019 Sirmione",
+    "neighborhood": "Centro Storico",
+    "highlights": [
+      "Pets stay free",
+      "Natural spa",
+      "Olive-shaded grounds"
+    ]
+  },
+  {
+    "id": "sirmione-3",
+    "slug": "hotel-marconi-sirmione",
+    "name": "Hotel Marconi",
+    "destinationSlug": "sirmione",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 9.5,
+    "reviewCount": 1022,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Marconi+Sirmione+Lake+Garda",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size stay free of charge. The hotel has a prized lakeside location in the historic centre with panoramic Lake Garda views. Please confirm with the property when booking.",
+    "address": "Via Vittorio Emanuele 51, 25019 Sirmione",
+    "neighborhood": "Centro Storico, lakefront",
+    "highlights": [
+      "Lakeside historic-centre setting",
+      "Top guest rating",
+      "Pets stay free"
+    ]
+  },
+  {
+    "id": "sirmione-4",
+    "slug": "hotel-desiree-sirmione",
+    "name": "Hotel Désirée. Garda Lake Collection",
+    "destinationSlug": "sirmione",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 700,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Desiree+Sirmione+Lake+Garda",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size stay free of charge, with food and water bowls provided in the room. Cats may also be accepted on request. Please confirm with the property when booking.",
+    "address": "Via San Pietro 2, 25019 Sirmione",
+    "neighborhood": "Centro Storico",
+    "highlights": [
+      "Pets stay free",
+      "In-room dog bowls",
+      "Walk to the castle"
+    ]
+  },
+  {
+    "id": "sirmione-5",
+    "slug": "hotel-benaco-sirmione",
+    "name": "Hotel Benaco",
+    "destinationSlug": "sirmione",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 600,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Benaco+Sirmione+Lake+Garda",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size stay free of charge. This 3-star hotel sits in central Colombare with an outdoor pool and free parking, an easy budget base near Brema beach. Please confirm with the property when booking.",
+    "address": "Via Tullio Serafini 30, 25019 Colombare di Sirmione",
+    "neighborhood": "Colombare",
+    "highlights": [
+      "Budget-friendly",
+      "Outdoor pool & free parking",
+      "Near Brema dog beach"
+    ]
+  },
+  {
+    "id": "riva-del-garda-1",
+    "slug": "lido-palace-riva-del-garda",
+    "name": "Lido Palace",
+    "destinationSlug": "riva-del-garda",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 256,
+    "priceFrom": 420,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Lido+Palace+Riva+del+Garda",
+    "petFee": 30,
+    "petPolicy": "All dogs are welcome by prior arrangement with a daily supplement of around 30 EUR per dog. Pets are not permitted in restaurant and pool areas and must be leashed in public spaces. Please confirm with the property when booking.",
+    "address": "Viale Carducci 10, 38066 Riva del Garda TN",
+    "neighborhood": "Lakefront, west of the centre",
+    "highlights": [
+      "Five-star Leading Hotels of the World property",
+      "Large indoor and outdoor pool and spa",
+      "Steps from the lake and lakeside park"
+    ]
+  },
+  {
+    "id": "riva-del-garda-2",
+    "slug": "hotel-savoy-palace-riva-del-garda",
+    "name": "Hotel Savoy Palace - Tonelli Hotels",
+    "destinationSlug": "riva-del-garda",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1059,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Savoy+Palace+Riva+del+Garda",
+    "petFee": 10,
+    "petPolicy": "Dogs are welcome for a fee of around 10 EUR per night and must be kept on a leash in all public areas. Pets are not allowed in the restaurant or pool areas. Please confirm with the property when booking.",
+    "address": "Viale Carducci 27, 38066 Riva del Garda TN",
+    "neighborhood": "Lakefront, west of the centre",
+    "highlights": [
+      "Lakefront four-star with pool",
+      "Short walk to the old town",
+      "Family-friendly facilities"
+    ]
+  },
+  {
+    "id": "riva-del-garda-3",
+    "slug": "hotel-portici-romantik-wellness-riva-del-garda",
+    "name": "Hotel Portici - Romantik & Wellness",
+    "destinationSlug": "riva-del-garda",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 700,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Portici+Riva+del+Garda",
+    "petFee": 0,
+    "petPolicy": "Pets such as dogs and cats are welcome on request, with a special dog welcome kit provided, though restrictions apply in dining areas. Please confirm with the property when booking.",
+    "address": "Piazza III Novembre 19, 38066 Riva del Garda TN",
+    "neighborhood": "Old town, on Piazza III Novembre",
+    "highlights": [
+      "Directly on the historic main square",
+      "Dog welcome kit for guests",
+      "Steps from the lakefront and Torre Apponale"
+    ]
+  },
+  {
+    "id": "riva-del-garda-4",
+    "slug": "hotel-sole-relax-panorama-riva-del-garda",
+    "name": "Hotel Sole - Relax & Panorama",
+    "destinationSlug": "riva-del-garda",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 900,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Sole+Relax+Panorama+Riva+del+Garda",
+    "petFee": 13,
+    "petPolicy": "Dogs are allowed on request for a fee of around 13 EUR per night and are not permitted in the breakfast room or restaurant. Please confirm with the property when booking.",
+    "address": "Piazza III Novembre 35, 38066 Riva del Garda TN",
+    "neighborhood": "Old town, central lakefront",
+    "highlights": [
+      "Central location by Torre Apponale",
+      "Free bikes and small wellness centre",
+      "Lake and square views"
+    ]
+  },
+  {
+    "id": "riva-del-garda-5",
+    "slug": "hotel-bellariva-riva-del-garda",
+    "name": "Hotel Bellariva",
+    "destinationSlug": "riva-del-garda",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 81,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Bellariva+Riva+del+Garda",
+    "petFee": 8,
+    "petPolicy": "Up to two pets of up to 10 kg are welcome, dogs and cats, for a refundable deposit of around 8 EUR per night. Please confirm with the property when booking.",
+    "address": "Viale Carducci 17, 38066 Riva del Garda TN",
+    "neighborhood": "Lakefront, west of the centre",
+    "highlights": [
+      "Four-star lakefront views",
+      "Welcomes dogs and cats",
+      "Walking distance to old town and beaches"
+    ]
+  },
+  {
+    "id": "zahara-de-los-atunes-1",
+    "slug": "casa-del-mar-zahara-de-los-atunes",
+    "name": "Casa Del Mar",
+    "destinationSlug": "zahara-de-los-atunes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.8,
+    "reviewCount": 18,
+    "priceFrom": 690,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Casa+Del+Mar+Zahara+de+los+Atunes",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request and may incur charges; this beachfront villa-style stay is a short walk from Atlanterra beach and suits dogs well on its private terraces. Confirm pet size and any supplement in advance. Please confirm with the property when booking.",
+    "address": "Atlanterra, Zahara de los Atunes",
+    "neighborhood": "Atlanterra",
+    "highlights": [
+      "A few minutes' walk from Atlanterra beach",
+      "Private terraces and sea-facing outdoor space",
+      "High-end finish ideal for a long summer stay"
+    ]
+  },
+  {
+    "id": "zahara-de-los-atunes-2",
+    "slug": "gran-sol-hotel-zahara-de-los-atunes",
+    "name": "Gran Sol Hotel",
+    "destinationSlug": "zahara-de-los-atunes",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 1077,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Gran+Sol+Hotel+Zahara+de+los+Atunes",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request and charges may apply; only one small or medium dog per room, which must not be left alone and should always be with its owner. This is a dogs-only style policy, so cats are not assumed. Please confirm with the property when booking.",
+    "address": "Calle Madrid 53, Zahara de los Atunes",
+    "neighborhood": "Beachfront",
+    "highlights": [
+      "Ocean views and a swimming pool",
+      "Right by the main Playa de Zahara",
+      "Walkable to the old town and chiringuitos"
+    ]
+  },
+  {
+    "id": "zahara-de-los-atunes-3",
+    "slug": "apartamentos-turisticos-gran-sol-zahara",
+    "name": "Apartamentos Turísticos Gran Sol",
+    "destinationSlug": "zahara-de-los-atunes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 447,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Apartamentos+Turisticos+Gran+Sol+Zahara+de+los+Atunes",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request and charges may apply; the property accepts small and medium-sized pets and asks that they are not left alone in the apartment. Self-catering apartments make it a strong base for longer summer stays. Please confirm with the property when booking.",
+    "address": "Calle Madrid, Zahara de los Atunes",
+    "neighborhood": "Beachfront",
+    "highlights": [
+      "Self-catering apartments with balconies and AC",
+      "Outdoor pool, around 150 m from the beach",
+      "Well suited to long summer stays"
+    ]
+  },
+  {
+    "id": "zahara-de-los-atunes-4",
+    "slug": "apartamento-atlanterra-playa-zahara",
+    "name": "Apartamento Atlanterra Playa",
+    "destinationSlug": "zahara-de-los-atunes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 120,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Apartamento+Atlanterra+Playa+Zahara+de+los+Atunes",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request; this beachfront apartment in the Atlanterra Playa urbanisation has direct sea access, a garden and an infinity pool that work well for a dog-friendly long stay. Confirm pet details when reserving. Please confirm with the property when booking.",
+    "address": "Carretera de Atlanterra 4, Urb. Atlanterra Playa, Zahara de los Atunes",
+    "neighborhood": "Atlanterra Playa",
+    "highlights": [
+      "Direct beachfront access with sea views",
+      "Garden and infinity pool",
+      "Self-catering, good for longer stays"
+    ]
+  },
+  {
+    "id": "zahara-de-los-atunes-5",
+    "slug": "apartamentos-vacacionales-atlanterra-zahara",
+    "name": "Apartamentos Vacacionales Atlanterra",
+    "destinationSlug": "zahara-de-los-atunes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 2,
+    "rating": 8.2,
+    "reviewCount": 95,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Apartamentos+Vacacionales+Atlanterra+Zahara+de+los+Atunes",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request in this self-catering apartment complex in the Atlanterra area, a value-friendly base near the beach for travellers with dogs. Notify the property and confirm any pet conditions in advance. Please confirm with the property when booking.",
+    "address": "Atlanterra, Zahara de los Atunes",
+    "neighborhood": "Atlanterra",
+    "highlights": [
+      "Affordable self-catering apartments",
+      "Close to the Atlanterra coast and beach",
+      "Practical for budget long stays"
+    ]
   }
 ]

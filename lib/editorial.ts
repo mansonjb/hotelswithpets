@@ -21,6 +21,21 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    sirmione: {
+      personality: `a romantic Lake Garda peninsula town wrapped around the moated Scaliger Castle at the old-town entrance, the Grotte di Catullo Roman ruins at the peninsula tip, the white-rock Jamaica Beach lake flats, the Aquaria thermal spa and shaded lakeside promenades`,
+      highlight: `Jamaica Beach, Lido delle Bionde, and the Grotte di Catullo lakeside walk`,
+      area: `the Centro Storico, Colombare, and Lugana`,
+    },
+    'riva-del-garda': {
+      personality: `one of Italy's finest mountains-meet-lake outdoor towns, where the lakefront promenade and arcaded Piazza III Novembre, the medieval Rocca di Riva, the cliff-top Bastione, the Cascata del Varone waterfall and the windsurf waters and Ponale path make it a dog lover's playground`,
+      highlight: `the Ponale path, Monte Brione and the lakefront promenade`,
+      area: `Piazza III Novembre, Porto San Nicolò, and the Viale Rovereto lakefront`,
+    },
+    'zahara-de-los-atunes': {
+      personality: `a whitewashed Atlantic fishing village wrapped around the tuna-fishing Castillo de las Almadrabas, where long wild beaches and dunes run toward the Atlanterra coast and the Cabo de Plata cliff, the chiringuitos serve famous almadraba bluefin tuna, and the sandy shore makes it perfect for dog-walkable long summer stays`,
+      highlight: `the long wild Playa de Zahara, the dune boardwalk to Atlanterra, and the Cabo de Plata coastal trail`,
+      area: `the whitewashed casco antiguo around Calle María Luisa, the beachfront chiringuitos, and the Atlanterra coast`,
+    },
     sibenik: {
       personality: `a thousand-year-old Dalmatian stone city wrapped around the UNESCO Cathedral of St James, watched over by the St Michael, Barone and St John fortresses, its medieval old-town lanes spilling onto the Riva waterfront and opening the way to the Krka waterfalls and the Kornati islands`,
       highlight: `St Michael's Fortress, Subicevac forest park, and the leashed trails of Krka National Park`,
@@ -1569,6 +1584,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    sirmione: {
+      personality: `une ville romantique sur une péninsule du lac de Garde, blottie autour du château Scaliger entouré de douves à l'entrée de la vieille ville, des ruines romaines des Grotte di Catullo à la pointe, des dalles blanches de Jamaica Beach, des thermes Aquaria et des promenades ombragées au bord du lac`,
+      highlight: `Jamaica Beach, le Lido delle Bionde et la balade au bord du lac des Grotte di Catullo`,
+      area: `le Centro Storico, Colombare et Lugana`,
+    },
+    'riva-del-garda': {
+      personality: `l'une des plus belles villes de plein air d'Italie où la montagne rencontre le lac, où la promenade au bord de l'eau et la Piazza III Novembre à arcades, la Rocca di Riva médiévale, le Bastione perché, la cascade du Varone, les eaux de planche à voile et le sentier du Ponale en font un terrain de jeu pour les amoureux des chiens`,
+      highlight: `le sentier du Ponale, le Monte Brione et la promenade au bord du lac`,
+      area: `la Piazza III Novembre, le Porto San Nicolò et le front de lac du Viale Rovereto`,
+    },
+    'zahara-de-los-atunes': {
+      personality: `un village de pêcheurs atlantique aux maisons blanches blotti autour du Castillo de las Almadrabas lié à la pêche au thon, où de longues plages sauvages et des dunes filent vers la côte d'Atlanterra et la falaise du Cabo de Plata, où les chiringuitos servent le célèbre thon rouge de l'almadraba, et dont le rivage sablonneux est parfait pour de longs séjours estivaux propices aux balades canines`,
+      highlight: `la longue et sauvage Playa de Zahara, la passerelle sur les dunes vers Atlanterra, et le sentier côtier du Cabo de Plata`,
+      area: `le casco antiguo blanc autour de la Calle María Luisa, les chiringuitos en bord de plage, et la côte d'Atlanterra`,
+    },
     sibenik: {
       personality: `une cite dalmate de pierre millenaire blottie autour de la cathedrale Saint-Jacques classee UNESCO, veillee par les forteresses Saint-Michel, Barone et Saint-Jean, ses ruelles medievales s'ouvrant sur la Riva et ouvrant la voie aux cascades de Krka et aux iles Kornati`,
       highlight: `la forteresse Saint-Michel, le parc forestier de Subicevac et les sentiers en laisse du parc national de Krka`,
@@ -3116,6 +3146,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    sirmione: {
+      personality: `una romántica localidad en una península del lago de Garda, envuelta en torno al castillo Scaligero rodeado de foso a la entrada del casco antiguo, las ruinas romanas de las Grotte di Catullo en la punta, las losas blancas de Jamaica Beach, el balneario termal Aquaria y los paseos sombreados junto al lago`,
+      highlight: `Jamaica Beach, el Lido delle Bionde y el paseo junto al lago de las Grotte di Catullo`,
+      area: `el Centro Storico, Colombare y Lugana`,
+    },
+    'riva-del-garda': {
+      personality: `una de las mejores ciudades al aire libre de Italia donde la montaña se encuentra con el lago, donde el paseo junto al agua y la Piazza III Novembre con soportales, la medieval Rocca di Riva, el Bastione encaramado, la cascada del Varone, las aguas de windsurf y el sendero del Ponale la convierten en un paraíso para los amantes de los perros`,
+      highlight: `el sendero del Ponale, el Monte Brione y el paseo junto al lago`,
+      area: `la Piazza III Novembre, el Porto San Nicolò y el paseo del Viale Rovereto`,
+    },
+    'zahara-de-los-atunes': {
+      personality: `un pueblo pesquero atlántico de casas blancas abrazado al Castillo de las Almadrabas de tradición almadrabera, donde largas playas salvajes y dunas se extienden hacia la costa de Atlanterra y el acantilado del Cabo de Plata, los chiringuitos sirven el famoso atún rojo de almadraba y su orilla arenosa lo hace perfecto para largas estancias de verano con perro`,
+      highlight: `la larga y salvaje Playa de Zahara, la pasarela sobre las dunas hacia Atlanterra y el sendero litoral del Cabo de Plata`,
+      area: `el casco antiguo blanco en torno a la Calle María Luisa, los chiringuitos a pie de playa y la costa de Atlanterra`,
+    },
     sibenik: {
       personality: `una ciudad dalmata de piedra milenaria que envuelve la Catedral de Santiago declarada UNESCO, vigilada por las fortalezas de San Miguel, Barone y San Juan, con sus callejuelas medievales que se abren a la Riva y dan paso a las cascadas de Krka y las islas Kornati`,
       highlight: `la Fortaleza de San Miguel, el parque forestal de Subicevac y los senderos con correa del Parque Nacional de Krka`,
@@ -4663,6 +4708,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    sirmione: {
+      personality: `uma romântica vila numa península do Lago de Garda, envolta em torno do Castelo Scaligero rodeado por um fosso à entrada da cidade velha, das ruínas romanas das Grotte di Catullo na ponta, das lajes brancas da Jamaica Beach, das termas Aquaria e dos passeios sombreados à beira-lago`,
+      highlight: `a Jamaica Beach, o Lido delle Bionde e o passeio à beira-lago das Grotte di Catullo`,
+      area: `o Centro Storico, Colombare e Lugana`,
+    },
+    'riva-del-garda': {
+      personality: `uma das melhores cidades ao ar livre de Itália onde a montanha encontra o lago, onde a marginal e a Piazza III Novembre com arcadas, a medieval Rocca di Riva, o Bastione no alto da falésia, a cascata do Varone, as águas de windsurf e o trilho do Ponale fazem dela um recreio para os amantes de cães`,
+      highlight: `o trilho do Ponale, o Monte Brione e a marginal junto ao lago`,
+      area: `a Piazza III Novembre, o Porto San Nicolò e a marginal do Viale Rovereto`,
+    },
+    'zahara-de-los-atunes': {
+      personality: `uma aldeia piscatória atlântica de casas caiadas abraçada ao Castillo de las Almadrabas de tradição almadraba, onde longas praias selvagens e dunas se estendem até à costa de Atlanterra e à falésia do Cabo de Plata, os chiringuitos servem o famoso atum-rabilho da almadraba e a sua orla arenosa a torna perfeita para longas estadias de verão com cão`,
+      highlight: `a longa e selvagem Playa de Zahara, o passadiço sobre as dunas até Atlanterra e o trilho costeiro do Cabo de Plata`,
+      area: `a parte antiga branca em torno da Calle María Luisa, os chiringuitos à beira-mar e a costa de Atlanterra`,
+    },
     sibenik: {
       personality: `uma cidade dalmata de pedra milenar envolta na Catedral de Sao Tiago classificada pela UNESCO, vigiada pelas fortalezas de Sao Miguel, Barone e Sao Joao, com as suas ruelas medievais a abrirem para a Riva e a darem acesso as cascatas de Krka e as ilhas Kornati`,
       highlight: `a Fortaleza de Sao Miguel, o parque florestal de Subicevac e os trilhos com trela do Parque Nacional de Krka`,

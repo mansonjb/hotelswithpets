@@ -23191,5 +23191,230 @@
       }
     },
     "iata": "TPS"
+  },
+  {
+    "slug": "sirmione",
+    "name": "Sirmione",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/sirmione.jpg",
+    "intro": "Sirmione is a postcard peninsula reaching into the warm southern end of Lake Garda, crowned by a moated medieval castle and ringed by Roman ruins, thermal spas and dog-friendly rocky lake beaches. With several beaches where leashed dogs may swim, a car-free old town and dogs welcome on the lake ferries, it is one of the most rewarding pet-friendly summer bases on Lake Garda.",
+    "lat": 45.494,
+    "lng": 10.606,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cool & crisp",
+        "icon": "🌥️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & clear",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Warm & green",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot lakeside",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Hot & busy",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & damp",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool & calm",
+        "icon": "🌥️"
+      }
+    },
+    "iata": "VRN"
+  },
+  {
+    "slug": "riva-del-garda",
+    "name": "Riva del Garda",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/riva-del-garda.jpg",
+    "intro": "Riva del Garda sits at the windswept northern tip of Lake Garda in Trentino, where Alpine peaks plunge to a Mediterranean lakeshore. With its arcaded old town, the Ponale cliff path and constant breeze, it is one of Italy's most dog-friendly outdoor bases for a summer lake escape.",
+    "lat": 45.8856,
+    "lng": 10.8412,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cool and bright",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool, clearing",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild spring",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Warm, fresh",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Warm and lush",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot, breezy",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot summer",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm, mellow",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild autumn",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool, wetter",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cold, crisp",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "VRN"
+  },
+  {
+    "slug": "zahara-de-los-atunes",
+    "name": "Zahara de los Atunes",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/zahara-de-los-atunes.jpg",
+    "intro": "Zahara de los Atunes is a whitewashed Atlantic fishing village on the Costa de la Luz, wrapped around the Castillo de las Almadrabas and one of Andalusia's longest wild beaches. With dune boardwalks toward Atlanterra and the Cabo de Plata cliff, it is built for long, slow summer stays with a dog.",
+    "lat": 36.1378,
+    "lng": -5.8497,
+    "weather": {
+      "jan": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 17,
+        "desc": "Mild & windy",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 19,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 27,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 23,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 19,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 17,
+        "desc": "Mild & cool",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "XRY"
   }
 ]

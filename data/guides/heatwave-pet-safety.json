@@ -1,0 +1,463 @@
+{
+  "slug": "heatwave-pet-safety",
+  "lastUpdated": "2026-06-22",
+  "title": {
+    "en": "Heatwave and pets: keeping dogs and cats safe in extreme heat",
+    "fr": "Canicule et animaux : proteger chiens et chats de la chaleur extreme",
+    "es": "Ola de calor y mascotas: proteger a perros y gatos del calor extremo",
+    "pt": "Onda de calor e animais: manter caes e gatos seguros no calor extremo"
+  },
+  "metaTitle": {
+    "en": "Heatwave pet safety: dogs and cats",
+    "fr": "Canicule : proteger chiens et chats",
+    "es": "Calor extremo: proteger perros y gatos",
+    "pt": "Calor extremo: caes e gatos seguros"
+  },
+  "metaDesc": {
+    "en": "How to keep dogs and cats safe in a heatwave: heatstroke warning signs, first aid, prevention tips and cool dog-friendly places to escape the heat.",
+    "fr": "Proteger chiens et chats pendant une canicule : signes du coup de chaleur, premiers secours, prevention et destinations fraiches ou s'echapper.",
+    "es": "Proteger a perros y gatos en una ola de calor: signos de golpe de calor, primeros auxilios, prevencion y destinos frescos donde escapar.",
+    "pt": "Proteger caes e gatos numa onda de calor: sinais de golpe de calor, primeiros socorros, prevencao e destinos frescos para escapar."
+  },
+  "intro": {
+    "en": "Heatwaves are now a regular part of the European summer, and our pets feel the heat far more than we do. Dogs cannot sweat the way we do and cool themselves mainly by panting, while cats hide their distress, which makes heatstroke easy to miss. This page covers the warning signs in both dogs and cats, what to do in an emergency, how to keep them cool, and where to escape the heat with your pet.",
+    "fr": "Les canicules font desormais partie de l'ete europeen, et nos animaux supportent la chaleur bien moins bien que nous. Les chiens ne transpirent pas comme nous et se refroidissent surtout en haletant, tandis que les chats cachent leur detresse, ce qui rend le coup de chaleur facile a manquer. Cette page presente les signes d'alerte chez le chien et le chat, la conduite a tenir en urgence, comment les rafraichir, et ou echapper a la chaleur avec votre animal.",
+    "es": "Las olas de calor ya forman parte habitual del verano europeo, y nuestras mascotas sufren el calor mucho mas que nosotros. Los perros no sudan como nosotros y se refrescan sobre todo jadeando, mientras que los gatos ocultan su malestar, lo que hace que el golpe de calor pase desapercibido. Esta pagina explica las senales de alerta en perros y gatos, que hacer en una emergencia, como mantenerlos frescos y donde escapar del calor con tu mascota.",
+    "pt": "As ondas de calor sao agora uma parte habitual do verao europeu, e os nossos animais sentem o calor muito mais do que nos. Os caes nao transpiram como nos e arrefecem sobretudo ofegando, enquanto os gatos escondem o seu mal-estar, o que faz com que o golpe de calor passe despercebido. Esta pagina apresenta os sinais de alerta em caes e gatos, o que fazer numa emergencia, como os manter frescos e onde escapar do calor com o seu animal."
+  },
+  "signs": {
+    "title": {
+      "en": "Warning signs of heatstroke",
+      "fr": "Signes d'alerte du coup de chaleur",
+      "es": "Senales de alerta del golpe de calor",
+      "pt": "Sinais de alerta do golpe de calor"
+    },
+    "intro": {
+      "en": "Heatstroke can develop fast, so learn to recognise the early signs and act before it becomes life-threatening.",
+      "fr": "Le coup de chaleur peut survenir rapidement : apprenez a reconnaitre les premiers signes et agissez avant qu'il ne mette la vie en danger.",
+      "es": "El golpe de calor puede aparecer muy rapido, asi que aprende a reconocer las primeras senales y actua antes de que peligre la vida.",
+      "pt": "O golpe de calor pode surgir muito depressa, por isso aprenda a reconhecer os primeiros sinais e aja antes que coloque a vida em risco."
+    },
+    "dogItems": [
+      {
+        "en": "Heavy, frantic panting that does not settle",
+        "fr": "Haletement intense et frenetique qui ne se calme pas",
+        "es": "Jadeo intenso y frenetico que no se calma",
+        "pt": "Ofego intenso e frenetico que nao acalma"
+      },
+      {
+        "en": "Excessive drooling or thick, sticky saliva",
+        "fr": "Bave excessive ou salive epaisse et collante",
+        "es": "Babeo excesivo o saliva espesa y pegajosa",
+        "pt": "Baba excessiva ou saliva espessa e pegajosa"
+      },
+      {
+        "en": "Bright red or, in worse cases, pale gums",
+        "fr": "Gencives rouge vif ou, dans les cas graves, pales",
+        "es": "Encias de color rojo intenso o, en casos graves, palidas",
+        "pt": "Gengivas vermelho vivo ou, em casos graves, palidas"
+      },
+      {
+        "en": "Vomiting or diarrhoea",
+        "fr": "Vomissements ou diarrhee",
+        "es": "Vomitos o diarrea",
+        "pt": "Vomitos ou diarreia"
+      },
+      {
+        "en": "Weakness, stumbling, confusion or collapse",
+        "fr": "Faiblesse, demarche chancelante, confusion ou effondrement",
+        "es": "Debilidad, tambaleo, confusion o colapso",
+        "pt": "Fraqueza, andar cambaleante, confusao ou colapso"
+      }
+    ],
+    "catItems": [
+      {
+        "en": "Panting or open-mouth breathing, which is abnormal in a cat and a medical emergency",
+        "fr": "Haletement ou respiration la gueule ouverte, anormal chez le chat et constituant une urgence",
+        "es": "Jadeo o respiracion con la boca abierta, algo anormal en un gato y una emergencia medica",
+        "pt": "Ofego ou respiracao de boca aberta, algo anormal num gato e uma emergencia medica"
+      },
+      {
+        "en": "Drooling or excessive grooming to try to cool down",
+        "fr": "Bave ou toilettage excessif pour tenter de se rafraichir",
+        "es": "Babeo o acicalamiento excesivo para intentar refrescarse",
+        "pt": "Baba ou lambidela excessiva para tentar arrefecer"
+      },
+      {
+        "en": "Lethargy, restlessness or sudden lack of interest in surroundings",
+        "fr": "Lethargie, agitation ou perte soudaine d'interet pour son environnement",
+        "es": "Letargo, inquietud o perdida repentina de interes por el entorno",
+        "pt": "Letargia, agitacao ou perda subita de interesse pelo que o rodeia"
+      },
+      {
+        "en": "Stumbling, unsteadiness or wobbling when walking",
+        "fr": "Demarche chancelante, instabilite ou titubation en marchant",
+        "es": "Tambaleo, inestabilidad o vacilacion al caminar",
+        "pt": "Andar cambaleante, instabilidade ou desequilibrio ao caminhar"
+      }
+    ]
+  },
+  "firstAid": {
+    "title": {
+      "en": "What to do if your pet overheats",
+      "fr": "Que faire si votre animal a trop chaud",
+      "es": "Que hacer si tu mascota se sobrecalienta",
+      "pt": "O que fazer se o seu animal sobreaquecer"
+    },
+    "intro": {
+      "en": "If you suspect heatstroke, act calmly and quickly. The goal is to bring the temperature down gradually while you get veterinary help.",
+      "fr": "Si vous suspectez un coup de chaleur, agissez avec calme et rapidite. Le but est de faire baisser la temperature progressivement tout en cherchant de l'aide veterinaire.",
+      "es": "Si sospechas un golpe de calor, actua con calma y rapidez. El objetivo es bajar la temperatura poco a poco mientras buscas ayuda veterinaria.",
+      "pt": "Se suspeitar de um golpe de calor, aja com calma e rapidez. O objetivo e baixar a temperatura gradualmente enquanto procura ajuda veterinaria."
+    },
+    "steps": [
+      {
+        "en": "Move your pet straight away to a shaded or cool, well-ventilated spot, away from direct sun.",
+        "fr": "Deplacez immediatement votre animal vers un endroit ombrage ou frais et bien aere, a l'abri du soleil direct.",
+        "es": "Lleva enseguida a tu mascota a un lugar con sombra o fresco y bien ventilado, lejos del sol directo.",
+        "pt": "Leve de imediato o seu animal para um local com sombra ou fresco e bem ventilado, longe do sol direto."
+      },
+      {
+        "en": "Offer small amounts of cool water to drink, but never force it and let your pet set the pace.",
+        "fr": "Proposez de petites quantites d'eau fraiche a boire, sans jamais forcer et en laissant votre animal aller a son rythme.",
+        "es": "Ofrece pequenas cantidades de agua fresca para beber, sin forzar nunca y dejando que tu mascota marque el ritmo.",
+        "pt": "Ofereca pequenas quantidades de agua fresca para beber, sem nunca forcar e deixando o animal definir o ritmo."
+      },
+      {
+        "en": "Pour or sponge cool, not ice-cold, water over the body, paws and belly, and keep air moving with a fan or breeze.",
+        "fr": "Versez ou tamponnez de l'eau fraiche, non glacee, sur le corps, les pattes et le ventre, et faites circuler l'air avec un ventilateur ou une brise.",
+        "es": "Vierte o aplica con una esponja agua fresca, no helada, sobre el cuerpo, las patas y la barriga, y manten el aire en movimiento con un ventilador o una brisa.",
+        "pt": "Deite ou aplique com uma esponja agua fresca, nao gelada, sobre o corpo, as patas e a barriga, e mantenha o ar em movimento com uma ventoinha ou brisa."
+      },
+      {
+        "en": "Do not use ice-cold water and do not cover your pet with a soaked towel, as trapped heat can make things worse.",
+        "fr": "N'utilisez pas d'eau glacee et ne couvrez pas votre animal d'une serviette detrempee, car la chaleur emprisonnee peut aggraver la situation.",
+        "es": "No uses agua helada ni cubras a tu mascota con una toalla empapada, ya que el calor atrapado puede empeorar las cosas.",
+        "pt": "Nao use agua gelada nem cubra o animal com uma toalha encharcada, pois o calor retido pode agravar a situacao."
+      },
+      {
+        "en": "Contact your vet or go to the nearest clinic straight away, even if your pet seems to recover, as internal damage can be hidden.",
+        "fr": "Contactez votre veterinaire ou rendez-vous immediatement a la clinique la plus proche, meme si votre animal semble se retablir, car des lesions internes peuvent passer inapercues.",
+        "es": "Contacta con tu veterinario o acude de inmediato a la clinica mas cercana, aunque tu mascota parezca recuperarse, ya que el dano interno puede pasar desapercibido.",
+        "pt": "Contacte o seu veterinario ou dirija-se de imediato a clinica mais proxima, mesmo que o animal pareca recuperar, pois pode haver lesoes internas ocultas."
+      }
+    ]
+  },
+  "prevention": {
+    "title": {
+      "en": "How to keep dogs and cats cool",
+      "fr": "Comment garder chiens et chats au frais",
+      "es": "Como mantener frescos a perros y gatos",
+      "pt": "Como manter caes e gatos frescos"
+    },
+    "tips": [
+      {
+        "emoji": "🚗",
+        "title": {
+          "en": "Never leave a pet in a parked car",
+          "fr": "Ne laissez jamais un animal dans une voiture",
+          "es": "Nunca dejes a una mascota en el coche",
+          "pt": "Nunca deixe um animal num carro estacionado"
+        },
+        "text": {
+          "en": "A parked car heats up dangerously fast, even in the shade with the windows cracked open. Leave your pet at home where it is cooler instead.",
+          "fr": "Une voiture en stationnement se rechauffe dangereusement vite, meme a l'ombre et avec les vitres entrouvertes. Laissez plutot votre animal a la maison, au frais.",
+          "es": "Un coche aparcado se calienta peligrosamente rapido, incluso a la sombra y con las ventanillas entreabiertas. Deja mejor a tu mascota en casa, donde esta mas fresco.",
+          "pt": "Um carro estacionado aquece perigosamente depressa, mesmo a sombra e com as janelas entreabertas. Deixe antes o seu animal em casa, onde esta mais fresco."
+        }
+      },
+      {
+        "emoji": "🌅",
+        "title": {
+          "en": "Walk in the early morning or late evening",
+          "fr": "Promenez tot le matin ou tard le soir",
+          "es": "Pasea temprano por la manana o al anochecer",
+          "pt": "Passeie de manha cedo ou ao fim do dia"
+        },
+        "text": {
+          "en": "Avoid the hottest hours of the day. Stick to the cooler early morning and late evening, and keep walks shorter and slower than usual.",
+          "fr": "Evitez les heures les plus chaudes de la journee. Privilegiez la fraicheur du petit matin et de la fin de soiree, et raccourcissez les promenades.",
+          "es": "Evita las horas mas calurosas del dia. Aprovecha el fresco de primera hora de la manana y del anochecer, y haz paseos mas cortos y tranquilos.",
+          "pt": "Evite as horas mais quentes do dia. Aproveite o fresco do inicio da manha e do fim da tarde, e faca passeios mais curtos e calmos."
+        }
+      },
+      {
+        "emoji": "🐾",
+        "title": {
+          "en": "Do the 7-second pavement test",
+          "fr": "Faites le test des 7 secondes sur le bitume",
+          "es": "Haz la prueba de 7 segundos en el asfalto",
+          "pt": "Faca o teste dos 7 segundos no pavimento"
+        },
+        "text": {
+          "en": "Press the back of your hand to the ground for seven seconds. If it is too hot for your hand, it is too hot for your dog's paws, so wait or find grass.",
+          "fr": "Posez le dos de la main sur le sol pendant sept secondes. Si c'est trop chaud pour votre main, c'est trop chaud pour les coussinets de votre chien : attendez ou cherchez de l'herbe.",
+          "es": "Apoya el dorso de la mano en el suelo durante siete segundos. Si quema para tu mano, quema para las almohadillas de tu perro: espera o busca hierba.",
+          "pt": "Encoste o dorso da mao ao chao durante sete segundos. Se estiver demasiado quente para a sua mao, esta demasiado quente para as patas do cao: espere ou procure relva."
+        }
+      },
+      {
+        "emoji": "💧",
+        "title": {
+          "en": "Fresh water and shade everywhere",
+          "fr": "De l'eau fraiche et de l'ombre partout",
+          "es": "Agua fresca y sombra por todas partes",
+          "pt": "Agua fresca e sombra por todo o lado"
+        },
+        "text": {
+          "en": "Provide plenty of fresh water and shaded spots indoors and out. Carry water on outings so your pet can drink whenever it needs to.",
+          "fr": "Mettez a disposition beaucoup d'eau fraiche et des coins ombrages, dedans comme dehors. Emportez de l'eau en sortie pour que votre animal puisse boire quand il en a besoin.",
+          "es": "Pon a disposicion mucha agua fresca y zonas con sombra dentro y fuera. Lleva agua en las salidas para que tu mascota pueda beber cuando lo necesite.",
+          "pt": "Disponibilize bastante agua fresca e zonas com sombra dentro e fora de casa. Leve agua nos passeios para que o animal possa beber sempre que precisar."
+        }
+      },
+      {
+        "emoji": "❄️",
+        "title": {
+          "en": "Cool them down with simple tricks",
+          "fr": "Rafraichissez-les avec des astuces simples",
+          "es": "Refrescalos con trucos sencillos",
+          "pt": "Arrefeca-os com truques simples"
+        },
+        "text": {
+          "en": "Use a cooling mat, a damp towel to lie on, or a shallow paddling pool for dogs that enjoy water. Keep rooms ventilated and curtains closed against the sun.",
+          "fr": "Utilisez un tapis rafraichissant, une serviette humide pour s'allonger, ou une petite piscine pour les chiens qui aiment l'eau. Aerez les pieces et fermez les rideaux face au soleil.",
+          "es": "Usa una alfombra refrescante, una toalla humeda para tumbarse o una piscina poco profunda para perros a los que les gusta el agua. Ventila las habitaciones y cierra las cortinas frente al sol.",
+          "pt": "Use um tapete refrescante, uma toalha humida para se deitar ou uma piscina rasa para caes que gostam de agua. Areje as divisoes e feche as cortinas viradas ao sol."
+        }
+      },
+      {
+        "emoji": "⚠️",
+        "title": {
+          "en": "Take extra care with high-risk pets",
+          "fr": "Redoublez de prudence avec les animaux a risque",
+          "es": "Extrema el cuidado con mascotas de riesgo",
+          "pt": "Cuidado redobrado com animais de risco"
+        },
+        "text": {
+          "en": "Flat-faced (brachycephalic) dogs and cats, senior, overweight and thick-coated animals struggle most in the heat and need closer watching and gentler activity.",
+          "fr": "Les chiens et chats au museau aplati (brachycephales), ages, en surpoids ou au poil epais souffrent le plus de la chaleur et demandent plus de surveillance et d'activite douce.",
+          "es": "Los perros y gatos de cara chata (braquicefalos), mayores, con sobrepeso o de pelaje grueso son los que mas sufren con el calor y necesitan mas vigilancia y actividad suave.",
+          "pt": "Os caes e gatos de focinho achatado (braquicefalicos), idosos, com excesso de peso ou de pelagem espessa sao os que mais sofrem com o calor e precisam de mais vigilancia e atividade suave."
+        }
+      },
+      {
+        "emoji": "🐱",
+        "title": {
+          "en": "Cats need cool spots too",
+          "fr": "Les chats aussi ont besoin de fraicheur",
+          "es": "Los gatos tambien necesitan frescor",
+          "pt": "Os gatos tambem precisam de frescura"
+        },
+        "text": {
+          "en": "Keep rooms ventilated, offer several water spots around the home, and keep cats indoors during peak heat. Panting in a cat is a warning sign, so call your vet at once.",
+          "fr": "Aerez les pieces, proposez plusieurs points d'eau dans la maison et gardez les chats a l'interieur aux heures les plus chaudes. Un chat qui halete est un signe d'alerte : appelez aussitot votre veterinaire.",
+          "es": "Ventila las habitaciones, ofrece varios puntos de agua por la casa y manten a los gatos dentro en las horas de mas calor. Que un gato jadee es una senal de alarma: llama enseguida a tu veterinario.",
+          "pt": "Areje as divisoes, ofereca varios pontos de agua pela casa e mantenha os gatos dentro de casa nas horas de maior calor. Um gato a ofegar e um sinal de alerta: ligue de imediato ao veterinario."
+        }
+      }
+    ]
+  },
+  "atRisk": {
+    "title": {
+      "en": "Which pets are most at risk",
+      "fr": "Quels animaux sont les plus a risque",
+      "es": "Que mascotas corren mas riesgo",
+      "pt": "Que animais correm mais risco"
+    },
+    "text": {
+      "en": "Flat-faced (brachycephalic) breeds such as Bulldogs, Pugs and Persian cats are most vulnerable because their short airways make cooling by panting much harder. Senior animals, puppies and kittens, overweight pets, those with thick coats and any pet with heart or breathing problems also overheat more easily and need extra protection.",
+      "fr": "Les races au museau aplati (brachycephales) comme les bouledogues, les carlins et les chats persans sont les plus vulnerables, car leurs voies respiratoires courtes rendent le refroidissement par haletement bien plus difficile. Les animaux ages, les chiots et chatons, les animaux en surpoids, ceux au poil epais et tout animal souffrant de problemes cardiaques ou respiratoires surchauffent aussi plus facilement et demandent une protection accrue.",
+      "es": "Las razas de cara chata (braquicefalas) como los bulldogs, los carlinos y los gatos persas son las mas vulnerables, porque sus vias respiratorias cortas dificultan mucho refrescarse jadeando. Los animales mayores, los cachorros y gatitos, las mascotas con sobrepeso, las de pelaje grueso y cualquier animal con problemas cardiacos o respiratorios tambien se sobrecalientan con mas facilidad y necesitan proteccion adicional.",
+      "pt": "As racas de focinho achatado (braquicefalicas) como os buldogues, os pugs e os gatos persas sao as mais vulneraveis, porque as suas vias respiratorias curtas tornam o arrefecimento por ofego muito mais dificil. Os animais idosos, as crias, os animais com excesso de peso, os de pelagem espessa e qualquer animal com problemas cardiacos ou respiratorios tambem sobreaquecem mais facilmente e precisam de protecao adicional."
+    }
+  },
+  "cool": {
+    "title": {
+      "en": "Escape the heat: cool dog-friendly destinations",
+      "fr": "Echapper a la chaleur : destinations fraiches qui accueillent les chiens",
+      "es": "Escapar del calor: destinos frescos que admiten perros",
+      "pt": "Escapar ao calor: destinos frescos que aceitam caes"
+    },
+    "intro": {
+      "en": "When home gets too hot, the kindest thing for your pet can be to head somewhere cooler together. Here are eight dog-friendly spots where the lakes, coast and mountains keep summer temperatures gentler.",
+      "fr": "Quand il fait trop chaud chez vous, le plus doux pour votre animal peut etre de partir ensemble vers un endroit plus frais. Voici huit destinations qui accueillent les chiens, ou lacs, cotes et montagnes adoucissent les temperatures estivales.",
+      "es": "Cuando en casa hace demasiado calor, lo mejor para tu mascota puede ser viajar juntos a un lugar mas fresco. Aqui tienes ocho destinos que admiten perros, donde lagos, costa y montanas suavizan las temperaturas del verano.",
+      "pt": "Quando esta demasiado calor em casa, o melhor para o seu animal pode ser partirem juntos para um sitio mais fresco. Aqui ficam oito destinos que aceitam caes, onde lagos, costa e montanhas suavizam as temperaturas do verao."
+    },
+    "items": [
+      {
+        "slug": "annecy",
+        "name": "Annecy",
+        "region": {
+          "en": "French Alps",
+          "fr": "Alpes francaises",
+          "es": "Alpes franceses",
+          "pt": "Alpes franceses"
+        },
+        "note": {
+          "en": "Its clear alpine lake and mountain air keep things fresher, with shaded shoreline paths and dog-friendly swimming spots.",
+          "fr": "Son lac alpin limpide et l'air des montagnes maintiennent la fraicheur, avec des chemins ombrages au bord de l'eau et des zones de baignade ouvertes aux chiens.",
+          "es": "Su lago alpino cristalino y el aire de montana mantienen el frescor, con senderos sombreados junto al agua y zonas de bano que admiten perros.",
+          "pt": "O seu lago alpino cristalino e o ar da montanha mantem o frescor, com caminhos sombreados junto a agua e zonas de banho que aceitam caes."
+        }
+      },
+      {
+        "slug": "interlaken",
+        "name": "Interlaken",
+        "region": {
+          "en": "Swiss Alps",
+          "fr": "Alpes suisses",
+          "es": "Alpes suizos",
+          "pt": "Alpes suicos"
+        },
+        "note": {
+          "en": "Set between two cool alpine lakes and ringed by high peaks, it stays comfortable in summer with shaded valley walks for dogs.",
+          "fr": "Niche entre deux lacs alpins frais et entoure de hauts sommets, l'endroit reste agreable en ete, avec des balades ombragees en vallee pour les chiens.",
+          "es": "Situada entre dos frescos lagos alpinos y rodeada de altas cumbres, se mantiene agradable en verano, con paseos sombreados por el valle para perros.",
+          "pt": "Situada entre dois frescos lagos alpinos e rodeada de altos picos, mantem-se agradavel no verao, com passeios sombreados pelo vale para caes."
+        }
+      },
+      {
+        "slug": "lucerne",
+        "name": "Lucerne",
+        "region": {
+          "en": "Central Switzerland",
+          "fr": "Suisse centrale",
+          "es": "Suiza central",
+          "pt": "Suica central"
+        },
+        "note": {
+          "en": "The lake and surrounding mountains temper the summer heat, and shaded waterfront promenades make easy walks with a dog.",
+          "fr": "Le lac et les montagnes alentour adoucissent la chaleur estivale, et les promenades ombragees au bord de l'eau facilitent les sorties avec un chien.",
+          "es": "El lago y las montanas que lo rodean suavizan el calor del verano, y los paseos sombreados junto al agua facilitan las salidas con perro.",
+          "pt": "O lago e as montanhas em redor suavizam o calor do verao, e os passeios sombreados a beira-agua facilitam as saidas com um cao."
+        }
+      },
+      {
+        "slug": "brest",
+        "name": "Brest",
+        "region": {
+          "en": "Brittany",
+          "fr": "Bretagne",
+          "es": "Bretana",
+          "pt": "Bretanha"
+        },
+        "note": {
+          "en": "On the Atlantic tip of Brittany, sea breezes keep summers mild, with breezy coastal paths and beaches that welcome dogs out of season.",
+          "fr": "A la pointe atlantique de la Bretagne, la brise marine garde des etes doux, avec des sentiers cotiers venteux et des plages ouvertes aux chiens hors saison.",
+          "es": "En la punta atlantica de Bretana, la brisa marina mantiene veranos suaves, con senderos costeros ventilados y playas que admiten perros fuera de temporada.",
+          "pt": "Na ponta atlantica da Bretanha, a brisa do mar mantem veroes amenos, com trilhos costeiros ventilados e praias que aceitam caes fora de epoca."
+        }
+      },
+      {
+        "slug": "vannes",
+        "name": "Vannes",
+        "region": {
+          "en": "Brittany",
+          "fr": "Bretagne",
+          "es": "Bretana",
+          "pt": "Bretanha"
+        },
+        "note": {
+          "en": "On the sheltered Gulf of Morbihan, the sea air softens the summer heat, with gentle dog-friendly coastal and harbour walks.",
+          "fr": "Sur le golfe abrite du Morbihan, l'air marin adoucit la chaleur estivale, avec de douces balades cotieres et portuaires ouvertes aux chiens.",
+          "es": "En el resguardado golfo de Morbihan, el aire del mar suaviza el calor del verano, con tranquilos paseos costeros y portuarios que admiten perros.",
+          "pt": "No abrigado golfo de Morbihan, o ar do mar suaviza o calor do verao, com tranquilos passeios costeiros e portuarios que aceitam caes."
+        }
+      },
+      {
+        "slug": "arcachon",
+        "name": "Arcachon",
+        "region": {
+          "en": "Atlantic coast, France",
+          "fr": "Cote atlantique, France",
+          "es": "Costa atlantica, Francia",
+          "pt": "Costa atlantica, Franca"
+        },
+        "note": {
+          "en": "Atlantic breezes and pine forests around the bay keep it cooler than inland, with shaded trails and dog-welcoming beaches off-season.",
+          "fr": "Les brises atlantiques et les forets de pins autour du bassin maintiennent une fraicheur superieure a l'interieur des terres, avec des sentiers ombrages et des plages ouvertes aux chiens hors saison.",
+          "es": "Las brisas atlanticas y los pinares alrededor de la bahia la mantienen mas fresca que el interior, con senderos sombreados y playas que admiten perros fuera de temporada.",
+          "pt": "As brisas atlanticas e os pinhais a volta da baia mantem-na mais fresca do que o interior, com trilhos sombreados e praias que aceitam caes fora de epoca."
+        }
+      },
+      {
+        "slug": "la-rochelle",
+        "name": "La Rochelle",
+        "region": {
+          "en": "Atlantic coast, France",
+          "fr": "Cote atlantique, France",
+          "es": "Costa atlantica, Francia",
+          "pt": "Costa atlantica, Franca"
+        },
+        "note": {
+          "en": "The ocean tempers the summer heat on this stretch of the Atlantic coast, with breezy harbour walks and seafront paths ideal for dogs.",
+          "fr": "L'ocean tempere la chaleur estivale sur cette partie de la cote atlantique, avec des promenades ventilees dans le port et des chemins en bord de mer ideaux pour les chiens.",
+          "es": "El oceano modera el calor del verano en este tramo de la costa atlantica, con paseos ventilados por el puerto y senderos junto al mar ideales para perros.",
+          "pt": "O oceano modera o calor do verao neste troco da costa atlantica, com passeios ventilados pelo porto e trilhos a beira-mar ideais para caes."
+        }
+      },
+      {
+        "slug": "bergen",
+        "name": "Bergen",
+        "region": {
+          "en": "Norwegian fjords",
+          "fr": "Fjords norvegiens",
+          "es": "Fiordos noruegos",
+          "pt": "Fiordes noruegueses"
+        },
+        "note": {
+          "en": "Surrounded by fjords and mountains, summers here stay cool and fresh, with green hillside trails that dogs love to explore.",
+          "fr": "Entoure de fjords et de montagnes, l'ete y reste frais et doux, avec des sentiers verdoyants sur les collines que les chiens adorent explorer.",
+          "es": "Rodeada de fiordos y montanas, aqui los veranos se mantienen frescos, con senderos verdes en las laderas que a los perros les encanta explorar.",
+          "pt": "Rodeada de fiordes e montanhas, aqui os veroes mantem-se frescos, com trilhos verdejantes nas encostas que os caes adoram explorar."
+        }
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "q": {
+        "en": "What temperature is too hot for a dog or cat?",
+        "fr": "Quelle temperature est trop elevee pour un chien ou un chat ?",
+        "es": "Que temperatura es demasiado alta para un perro o un gato?",
+        "pt": "Que temperatura e demasiado alta para um cao ou um gato?"
+      },
+      "a": {
+        "en": "There is no single safe number, as it depends on humidity, breed, age and activity. As a rule, the risk rises sharply once it is warm, and high-risk pets such as flat-faced, senior, overweight or thick-coated animals can struggle even at moderate temperatures, so judge by your pet, not the thermometer alone.",
+        "fr": "Il n'existe pas de chiffre unique sur, car cela depend de l'humidite, de la race, de l'age et de l'activite. En regle generale, le risque augmente fortement des qu'il fait chaud, et les animaux a risque (museau aplati, ages, en surpoids ou au poil epais) peuvent souffrir meme a des temperatures moderees : fiez-vous a votre animal, pas seulement au thermometre.",
+        "es": "No hay una cifra unica segura, porque depende de la humedad, la raza, la edad y la actividad. Por lo general, el riesgo aumenta mucho en cuanto hace calor, y las mascotas de riesgo (cara chata, mayores, con sobrepeso o pelaje grueso) pueden sufrir incluso con temperaturas moderadas, asi que guiate por tu mascota y no solo por el termometro.",
+        "pt": "Nao existe um numero unico seguro, pois depende da humidade, da raca, da idade e da atividade. Em regra, o risco sobe muito assim que esta calor, e os animais de risco (focinho achatado, idosos, com excesso de peso ou pelagem espessa) podem sofrer mesmo com temperaturas moderadas, por isso oriente-se pelo seu animal e nao apenas pelo termometro."
+      }
+    },
+    {
+      "q": {
+        "en": "Can I still travel with my pet during a heatwave?",
+        "fr": "Puis-je quand meme voyager avec mon animal pendant une canicule ?",
+        "es": "Puedo viajar con mi mascota durante una ola de calor?",
+        "pt": "Posso viajar com o meu animal durante uma onda de calor?"
+      },
+      "a": {
+        "en": "Yes, but plan around the heat. Travel during the cooler parts of the day, never leave your pet in a parked car, take plenty of water and breaks, and choose a cooler destination if you can. If your pet is very young, old or high-risk, it may be safer to wait until the heatwave passes.",
+        "fr": "Oui, mais organisez-vous en fonction de la chaleur. Voyagez aux heures les plus fraiches, ne laissez jamais votre animal dans une voiture, prevoyez beaucoup d'eau et des pauses, et choisissez si possible une destination plus fraiche. Si votre animal est tres jeune, age ou a risque, il peut etre plus sur d'attendre la fin de la canicule.",
+        "es": "Si, pero planifica teniendo en cuenta el calor. Viaja en las horas mas frescas, nunca dejes a tu mascota en el coche, lleva mucha agua y haz paradas, y elige un destino mas fresco si puedes. Si tu mascota es muy joven, mayor o de riesgo, puede ser mas seguro esperar a que pase la ola de calor.",
+        "pt": "Sim, mas planeie a pensar no calor. Viaje nas horas mais frescas, nunca deixe o animal num carro estacionado, leve bastante agua e faca pausas, e escolha um destino mais fresco se puder. Se o seu animal for muito novo, idoso ou de risco, pode ser mais seguro esperar que a onda de calor passe."
+      }
+    },
+    {
+      "q": {
+        "en": "Are flat-faced breeds really more at risk?",
+        "fr": "Les races au museau aplati sont-elles vraiment plus a risque ?",
+        "es": "Las razas de cara chata corren realmente mas riesgo?",
+        "pt": "As racas de focinho achatado correm mesmo mais risco?"
+      },
+      "a": {
+        "en": "Yes. Flat-faced (brachycephalic) dogs and cats, such as Bulldogs, Pugs, French Bulldogs and Persian cats, have shortened airways that make it much harder to cool down by panting. They overheat faster and more dangerously than other pets, so they need extra shade, rest and close watching in hot weather.",
+        "fr": "Oui. Les chiens et chats au museau aplati (brachycephales), comme les bouledogues, carlins, bouledogues francais et chats persans, ont des voies respiratoires raccourcies qui rendent le refroidissement par haletement bien plus difficile. Ils surchauffent plus vite et plus dangereusement que les autres : ils ont besoin de plus d'ombre, de repos et d'une surveillance etroite par temps chaud.",
+        "es": "Si. Los perros y gatos de cara chata (braquicefalos), como bulldogs, carlinos, bulldogs franceses y gatos persas, tienen vias respiratorias acortadas que dificultan mucho refrescarse jadeando. Se sobrecalientan mas rapido y de forma mas peligrosa que otras mascotas, por lo que necesitan mas sombra, descanso y vigilancia estrecha con calor.",
+        "pt": "Sim. Os caes e gatos de focinho achatado (braquicefalicos), como buldogues, pugs, buldogues franceses e gatos persas, tem vias respiratorias encurtadas que tornam muito mais dificil arrefecer por ofego. Sobreaquecem mais depressa e de forma mais perigosa do que outros animais, por isso precisam de mais sombra, descanso e vigilancia atenta no calor."
+      }
+    }
+  ]
+}

@@ -107,6 +107,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'fenced-dog-parks-europe',
     'top-dog-friendly-islands-europe',
     'dog-beaches-france',
+    'heatwave-pet-safety',
   ]
   const MONTHS = ['january','february','march','april','may','june','july','august','september','october','november','december']
   const ES_CITY_LANDINGS = [

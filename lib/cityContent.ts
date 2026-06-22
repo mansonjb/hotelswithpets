@@ -19598,6 +19598,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  pula: {
+    history: {
+      fr: `Pula, port d'environ 57 000 habitants à la pointe sud de l'Istrie, est la Croatie romaine taillée dans la pierre. Fondée comme colonie romaine au Ier siècle av. J.-C., elle porte encore ouvertement son passé impérial : la grande Arène, le Forum et son Temple d'Auguste toujours debout, l'arc des Sergii et le fort Kaštel sur sa colline s'intègrent à une vieille ville compacte et facile à parcourir à pied. Passée de Venise à l'Autriche-Hongrie (qui en fit la principale base navale de l'empire), puis à l'Italie et à la Yougoslavie, la ville est stratifiée et plurilingue, l'italien y restant largement parlé. Pour les chiens, c'est l'une des bases istriennes les plus commodes : la vieille ville pavée s'explore à pied, et juste au sud s'étendent la péninsule boisée de Verudela et le parc naturel sauvage du cap Kamenjak, avec des sections sans laisse et plusieurs criques canines signalées le long de 29 km de côte découpée.`,
+      en: `Pula, a port of about 57,000 at the southern tip of Istria, is Roman Croatia carved in stone. Founded as a Roman colony in the 1st century BC, it still wears its imperial past openly: the great Arena amphitheatre, the Forum with its standing Temple of Augustus, the Arch of the Sergii and the hilltop Kaštel fortress are all woven into a compact, walkable old town. Passed between Venice, Austria-Hungary (which made it the chief naval base of the empire), Italy and Yugoslavia, the city is layered and multilingual, with Italian still widely spoken. For dogs it is one of the easier Istrian bases: the stone-paved old town is best explored on foot, and just south lie the pine-shaded Verudela peninsula and the wild Cape Kamenjak nature park, with off-leash stretches and several signposted dog coves along 29 km of indented coast.`,
+      es: `Pula, puerto de unos 57.000 habitantes en el extremo sur de Istria, es la Croacia romana esculpida en piedra. Fundada como colonia romana en el siglo I a. C., aún luce su pasado imperial sin disimulo: la gran Arena, el Foro con su Templo de Augusto todavía en pie, el arco de los Sergios y la fortaleza Kaštel en lo alto se integran en un casco antiguo compacto y caminable. Pasó de Venecia a Austria-Hungría (que la convirtió en la principal base naval del imperio), luego a Italia y Yugoslavia, y es una ciudad estratificada y plurilingüe donde el italiano sigue muy presente. Para los perros es una de las bases istrianas más cómodas: el casco antiguo empedrado se explora a pie, y justo al sur se extienden la península boscosa de Verudela y el agreste parque natural de cabo Kamenjak, con tramos sin correa y varias calas caninas señalizadas a lo largo de 29 km de costa recortada.`,
+      pt: `Pula, porto de cerca de 57 000 habitantes na ponta sul da Ístria, é a Croácia romana esculpida em pedra. Fundada como colónia romana no século I a.C., ostenta ainda abertamente o seu passado imperial: a grande Arena, o Fórum com o seu Templo de Augusto ainda de pé, o arco dos Sérgios e a fortaleza Kaštel no alto integram-se num centro histórico compacto e fácil de percorrer a pé. Passou de Veneza à Áustria-Hungria (que a tornou na principal base naval do império), depois à Itália e à Jugoslávia, sendo uma cidade estratificada e plurilingue onde o italiano continua muito presente. Para os cães é uma das bases ístrias mais práticas: o centro histórico empedrado explora-se a pé, e mesmo a sul estendem-se a península arborizada de Verudela e o agreste parque natural do cabo Kamenjak, com troços sem trela e várias enseadas caninas sinalizadas ao longo de 29 km de costa recortada.`,
+    },
+    sights: [
+      {
+        name: 'Pulska Arena',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `L'amphithéâtre romain du Ier siècle bâti sous Vespasien, l'un des six mieux conservés au monde et symbole de Pula, accueillant encore concerts d'été et festival du film. Les chiens ne peuvent entrer dans le monument, mais les rues alentour et le parc du port en contrebas se parcourent en laisse et offrent l'angle photo classique depuis l'extérieur des murs.`,
+          en: `The 1st-century Roman amphitheatre built under Vespasian, one of the six best-preserved in the world and the symbol of Pula, still hosting summer concerts and the film festival. Dogs cannot go inside the monument, but the surrounding streets and the harbour park below it are leash-friendly and give the classic photo angle from outside the walls.`,
+          es: `El anfiteatro romano del siglo I construido bajo Vespasiano, uno de los seis mejor conservados del mundo y símbolo de Pula, que aún acoge conciertos de verano y el festival de cine. Los perros no pueden entrar en el monumento, pero las calles de alrededor y el parque del puerto a sus pies se recorren con correa y ofrecen el ángulo fotográfico clásico desde fuera de los muros.`,
+          pt: `O anfiteatro romano do século I construído sob Vespasiano, um dos seis mais bem preservados do mundo e símbolo de Pula, que ainda acolhe concertos de verão e o festival de cinema. Os cães não podem entrar no monumento, mas as ruas em redor e o parque do porto por baixo percorrem-se com trela e oferecem o ângulo fotográfico clássico a partir do exterior das muralhas.`,
+        },
+      },
+      {
+        name: 'Forum',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La place principale de Pula est le cœur civique de la ville depuis l'époque romaine, encadrée par le Temple d'Auguste du Ier siècle parfaitement conservé sur son petit côté et bordée de terrasses de cafés. L'esplanade pavée ouverte se parcourt entièrement avec un chien en laisse, et nombre des terrasses alentour vous accueillent avec un chien aux tables extérieures.`,
+          en: `Pula's main square has been the civic heart of the city since Roman times, still framed by the perfectly preserved 1st-century Temple of Augustus on its short side and ringed by café terraces. The open paved plaza is fully walkable with a leashed dog, and many of the surrounding terraces will seat you with a dog at the outdoor tables.`,
+          es: `La plaza principal de Pula ha sido el corazón cívico de la ciudad desde época romana, enmarcada aún por el Templo de Augusto del siglo I perfectamente conservado en su lado corto y rodeada de terrazas de café. La explanada empedrada y abierta se recorre por completo con un perro con correa, y muchas de las terrazas de alrededor te sientan con perro en las mesas exteriores.`,
+          pt: `A praça principal de Pula é o coração cívico da cidade desde a época romana, ainda emoldurada pelo Templo de Augusto do século I perfeitamente preservado no seu lado curto e rodeada de esplanadas de café. O largo empedrado e aberto percorre-se por completo com um cão com trela, e muitas das esplanadas em redor recebem-no com cão nas mesas exteriores.`,
+        },
+      },
+      {
+        name: 'Slavoluk Sergijevaca',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `L'arc des Sergii (Zlatna vrata, la Porte dorée), arc de triomphe élevé vers 27 av. J.-C. par une grande famille romaine, marque l'extrémité sud de la rue commerçante piétonne Sergijevaca. Il se dresse à ciel ouvert en bordure de la vieille ville, facile à atteindre et à photographier avec un chien en laisse à toute heure.`,
+          en: `The Arch of the Sergii (Zlatna vrata, the Golden Gate), a triumphal arch raised around 27 BC by a leading Roman family, marks the southern end of the pedestrian Sergijevaca shopping street. It stands on open ground at the edge of the old town, easy to reach and photograph with a leashed dog at any hour.`,
+          es: `El arco de los Sergios (Zlatna vrata, la Puerta Dorada), arco triunfal erigido hacia el 27 a. C. por una destacada familia romana, marca el extremo sur de la calle comercial peatonal Sergijevaca. Se alza al aire libre en el borde del casco antiguo, fácil de alcanzar y fotografiar con un perro con correa a cualquier hora.`,
+          pt: `O arco dos Sérgios (Zlatna vrata, a Porta Dourada), arco triunfal erguido por volta de 27 a.C. por uma destacada família romana, marca o extremo sul da rua comercial pedonal Sergijevaca. Ergue-se ao ar livre no limite do centro histórico, fácil de alcançar e fotografar com um cão com trela a qualquer hora.`,
+        },
+      },
+      {
+        name: 'Kaštel',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Le fort vénitien en étoile du XVIIe siècle couronne la colline centrale de la vieille ville, abritant aujourd'hui le Musée historique et maritime d'Istrie, avec des remparts offrant une vue à 360 degrés sur la ville et le port. Les chiens en laisse peuvent gravir les ruelles enveloppantes et parcourir les remparts extérieurs ; seul l'intérieur du musée est interdit.`,
+          en: `The Venetian star fortress of the 17th century crowns the central hill of the old town, now home to the Historical and Maritime Museum of Istria, with ramparts giving a 360-degree view over the city and harbour. Dogs on lead can climb the wrapping lanes and walk the outer ramparts; only the museum interior is off-limits.`,
+          es: `La fortaleza veneciana en estrella del siglo XVII corona la colina central del casco antiguo, hoy sede del Museo Histórico y Marítimo de Istria, con murallas que ofrecen una vista de 360 grados sobre la ciudad y el puerto. Los perros con correa pueden subir las callejuelas que la rodean y recorrer las murallas exteriores; solo el interior del museo queda vetado.`,
+          pt: `A fortaleza veneziana em estrela do século XVII coroa a colina central do centro histórico, hoje sede do Museu Histórico e Marítimo da Ístria, com muralhas que oferecem uma vista de 360 graus sobre a cidade e o porto. Os cães com trela podem subir as ruelas envolventes e percorrer as muralhas exteriores; apenas o interior do museu está interdito.`,
+        },
+      },
+      {
+        name: 'Park prirode Kamenjak',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc naturel sauvage du cap Kamenjak, sur la péninsule de Premantura à 10 km au sud de Pula, protège 29 km de côte découpée, maquis bas, pistes de terre et multiples criques. C'est la meilleure destination canine près de Pula, avec des sections sans laisse et plusieurs criques dog-friendly signalées ; aucun commerce à l'intérieur, emportez de l'eau et surveillez le rivage rocheux non protégé avec enfants et chien.`,
+          en: `The wild Cape Kamenjak nature park on the Premantura peninsula, 10 km south of Pula, protects 29 km of indented coast with low maquis, dirt tracks and many coves. It is the best dog destination near Pula, with off-leash stretches and several signposted dog-friendly coves; there are no shops inside, so bring water, and watch the unfenced rocky shore with the kids and the dog.`,
+          es: `El agreste parque natural de cabo Kamenjak, en la península de Premantura a 10 km al sur de Pula, protege 29 km de costa recortada, monte bajo, pistas de tierra y numerosas calas. Es el mejor destino canino cerca de Pula, con tramos sin correa y varias calas dog-friendly señalizadas; no hay comercios dentro, lleva agua y vigila la orilla rocosa sin protección con niños y perro.`,
+          pt: `O agreste parque natural do cabo Kamenjak, na península de Premantura a 10 km a sul de Pula, protege 29 km de costa recortada, mato baixo, trilhos de terra e inúmeras enseadas. É o melhor destino canino perto de Pula, com troços sem trela e várias enseadas dog-friendly sinalizadas; não há comércio lá dentro, leve água e vigie a margem rochosa sem proteção com crianças e cão.`,
+        },
+      },
+      {
+        name: 'Punta Verudela',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `La péninsule boisée de Verudela, à 4 km au sud de la vieille ville, déroule une promenade continue de 5 km longeant criques, plateformes de baignade et la plage Ambrela (Pavillon bleu), où une petite section canine est signalée. Les chiens en laisse sont bienvenus tout au long de la boucle littorale, qui rejoint au sud le sentier Lungomare autour de la péninsule de Stoja pour une plus longue promenade côtière.`,
+          en: `The pine-shaded Verudela peninsula 4 km south of the old town wraps a continuous 5 km promenade past coves, bathing platforms and the Blue Flag Ambrela beach, where a small dog section is signposted. Leashed dogs are welcome along the whole seafront loop, which links south into the Lungomare path round the Stoja peninsula for a longer coastal walk.`,
+          es: `La península boscosa de Verudela, 4 km al sur del casco antiguo, despliega un paseo continuo de 5 km junto a calas, plataformas de baño y la playa Ambrela (Bandera Azul), donde se señaliza una pequeña sección canina. Los perros con correa son bienvenidos en todo el circuito litoral, que enlaza al sur con el sendero Lungomare alrededor de la península de Stoja para un paseo costero más largo.`,
+          pt: `A península arborizada de Verudela, 4 km a sul do centro histórico, desenrola um passeio contínuo de 5 km ao longo de enseadas, plataformas de banho e da praia Ambrela (Bandeira Azul), onde está sinalizada uma pequena secção canina. Os cães com trela são bem-vindos em todo o circuito litoral, que liga a sul ao trilho Lungomare em redor da península de Stoja para um passeio costeiro mais longo.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La loi croate sur les plages interdit les chiens sur les plages de baignade publiques non désignées du 15 mai au 15 septembre, mais Pula signale plusieurs criques dog-friendly, les plus fiables étant dans le cap Kamenjak et la petite section canine d'Ambrela à Verudela.`,
+        `Le parc naturel du cap Kamenjak (Premantura, 10 km au sud) est la sortie canine phare, avec des sections sans laisse et des criques canines ; aucun commerce à l'intérieur, emportez de l'eau et surveillez le rivage rocheux non protégé.`,
+        `La vieille ville est pavée et très praticable à pied, mais le calcaire chauffe en été ; promenez les chiens tôt ou tard et restez sur les sentiers ombragés de Verudela et du Lungomare en pleine chaleur.`,
+        `La Croatie est dans l'UE et l'espace Schengen : un passeport européen pour animaux avec vaccination antirabique valide suffit ; les mêmes règles couvrent les liaisons saisonnières en catamaran vers Venise et les îles istriennes.`,
+        `La principale station vétérinaire de Pula dispose d'un mobile d'urgence en dehors des heures d'ouverture, et le numéro d'urgence général en Croatie est le 112 ; les grandes cliniques de référence les plus proches sont ailleurs en Istrie, confirmez la disponibilité par téléphone la nuit.`,
+      ],
+      en: [
+        `Croatian beach law bans dogs from undesignated public swimming beaches from 15 May to 15 September, but Pula signposts several dog-friendly coves, the most reliable being inside Cape Kamenjak and the small dog section at Ambrela on Verudela.`,
+        `Cape Kamenjak nature park (Premantura, 10 km south) is the standout dog outing, with off-leash stretches and dog coves; there are no shops inside, so carry water and watch the unfenced rocky shore.`,
+        `The old town is stone-paved and very walkable, but the limestone bakes in summer; walk dogs early or late and keep to the shaded Verudela and Lungomare seafront paths in the midday heat.`,
+        `Croatia is in the EU and Schengen, so an EU pet passport with a valid rabies vaccination is all you need; the same rules cover the seasonal catamaran links to Venice and the Istrian islands.`,
+        `Pula's main veterinary station keeps an after-hours emergency mobile, and the general emergency number across Croatia is 112; the nearest large referral clinics are elsewhere in Istria, so confirm availability by phone at night.`,
+      ],
+      es: [
+        `La ley de playas croata prohíbe los perros en las playas públicas de baño no designadas del 15 de mayo al 15 de septiembre, pero Pula señaliza varias calas dog-friendly, las más fiables dentro del cabo Kamenjak y la pequeña sección canina de Ambrela en Verudela.`,
+        `El parque natural de cabo Kamenjak (Premantura, 10 km al sur) es la salida canina estrella, con tramos sin correa y calas caninas; no hay comercios dentro, lleva agua y vigila la orilla rocosa sin protección.`,
+        `El casco antiguo es empedrado y muy caminable, pero la caliza se calienta en verano; pasea a los perros temprano o tarde y quédate en los senderos sombreados de Verudela y el Lungomare en las horas de más calor.`,
+        `Croacia está en la UE y en Schengen: basta un pasaporte europeo para mascotas con vacunación antirrábica válida; las mismas normas cubren las líneas estacionales en catamarán a Venecia y a las islas istrianas.`,
+        `La principal estación veterinaria de Pula dispone de un móvil de urgencias fuera del horario, y el número de emergencias general en Croacia es el 112; las grandes clínicas de referencia más cercanas están en otros puntos de Istria, confirma la disponibilidad por teléfono de noche.`,
+      ],
+      pt: [
+        `A lei croata das praias proíbe os cães nas praias públicas de banho não designadas de 15 de maio a 15 de setembro, mas Pula sinaliza várias enseadas dog-friendly, as mais fiáveis dentro do cabo Kamenjak e a pequena secção canina de Ambrela em Verudela.`,
+        `O parque natural do cabo Kamenjak (Premantura, 10 km a sul) é a saída canina por excelência, com troços sem trela e enseadas caninas; não há comércio lá dentro, leve água e vigie a margem rochosa sem proteção.`,
+        `O centro histórico é empedrado e muito fácil de percorrer a pé, mas o calcário aquece no verão; passeie os cães de manhã cedo ou ao fim do dia e mantenha-se nos trilhos sombreados de Verudela e do Lungomare nas horas de mais calor.`,
+        `A Croácia está na UE e no Espaço Schengen: basta um passaporte europeu para animais com vacinação antirrábica válida; as mesmas regras cobrem as ligações sazonais de catamarã a Veneza e às ilhas ístrias.`,
+        `A principal estação veterinária de Pula tem um telemóvel de urgência fora de horas, e o número de emergência geral na Croácia é o 112; as grandes clínicas de referência mais próximas ficam noutros pontos da Ístria, confirme a disponibilidade por telefone à noite.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen pour animaux avec vaccination antirabique valide et micropuce ISO exigé à l'enregistrement dans tout hôtel pet-friendly ; la Croatie est dans l'UE et l'espace Schengen.`,
+        `La loi croate sur les plages interdit les chiens sur les plages de baignade non désignées du 15 mai au 15 septembre ; utilisez plutôt les criques canines signalées du cap Kamenjak et la section canine d'Ambrela, et gardez les chiens en laisse dans la vieille ville.`,
+        `Se déplacer : la vieille ville fortifiée se parcourt à pied ; les bus urbains Pulapromet et les lignes régionales Autotrans desservent les plages et l'aéroport (PUY, 7 km au nord-est), et le train régional HŽ part vers le nord en direction de la Slovénie.`,
+        `Un catamaran saisonnier relie Pula à Venise et aux îles d'Istrie et du Kvarner en été ; les chiens en laisse ou en sac sont généralement admis sur le pont extérieur, confirmez la politique animaux auprès de l'opérateur avant d'embarquer.`,
+        `Vétérinaires vérifiés : Veterinarska ambulanta Pula d.o.o. (Dinka Trinajstića 1, +385 52 541 100, mobile d'urgence hors horaires +385 98 98 11 666) et Specijalistička veterinarska ambulanta Hajster (Marianijeva 3, +385 52 500 501) ; le numéro d'urgence général est le 112.`,
+      ],
+      en: [
+        `EU pet passport with a valid rabies vaccination and ISO microchip required at every pet-friendly hotel check-in; Croatia is in the EU and Schengen.`,
+        `Croatian beach law bans dogs from undesignated swimming beaches 15 May to 15 September; use the signposted dog coves at Cape Kamenjak and the Ambrela dog section instead, and keep dogs leashed in the old town.`,
+        `Getting around: the walled old town is best on foot; Pulapromet city buses and Autotrans regional lines serve the beaches and the airport (PUY, 7 km north-east), and the HŽ regional railway runs north towards Slovenia.`,
+        `A seasonal catamaran links Pula to Venice and the Istrian and Kvarner islands in summer; leashed or carried dogs are generally accepted on the open deck, confirm the pet policy with the operator before boarding.`,
+        `Verified vets: Veterinarska ambulanta Pula d.o.o. (Dinka Trinajstića 1, +385 52 541 100, after-hours emergency mobile +385 98 98 11 666) and Specijalistička veterinarska ambulanta Hajster (Marianijeva 3, +385 52 500 501); the general emergency number is 112.`,
+      ],
+      es: [
+        `Pasaporte europeo para mascotas con vacunación antirrábica válida y microchip ISO exigido al hacer el check-in en cualquier hotel pet-friendly; Croacia está en la UE y en Schengen.`,
+        `La ley de playas croata prohíbe los perros en las playas de baño no designadas del 15 de mayo al 15 de septiembre; usa en su lugar las calas caninas señalizadas de cabo Kamenjak y la sección canina de Ambrela, y mantén a los perros con correa en el casco antiguo.`,
+        `Moverse: la ciudad amurallada se recorre a pie; los autobuses urbanos Pulapromet y las líneas regionales Autotrans llegan a las playas y al aeropuerto (PUY, 7 km al noreste), y el tren regional HŽ sale hacia el norte en dirección a Eslovenia.`,
+        `Un catamarán estacional une Pula con Venecia y las islas de Istria y Kvarner en verano; los perros con correa o en transportín se admiten generalmente en la cubierta exterior, confirma la política de mascotas con el operador antes de embarcar.`,
+        `Veterinarios verificados: Veterinarska ambulanta Pula d.o.o. (Dinka Trinajstića 1, +385 52 541 100, móvil de urgencias fuera de horario +385 98 98 11 666) y Specijalistička veterinarska ambulanta Hajster (Marianijeva 3, +385 52 500 501); el número de emergencias general es el 112.`,
+      ],
+      pt: [
+        `Passaporte europeu para animais com vacinação antirrábica válida e microchip ISO exigido no check-in em qualquer hotel pet-friendly; a Croácia está na UE e no Espaço Schengen.`,
+        `A lei croata das praias proíbe os cães nas praias de banho não designadas de 15 de maio a 15 de setembro; use antes as enseadas caninas sinalizadas do cabo Kamenjak e a secção canina de Ambrela, e mantenha os cães com trela no centro histórico.`,
+        `Deslocações: a cidade muralhada percorre-se a pé; os autocarros urbanos Pulapromet e as linhas regionais Autotrans servem as praias e o aeroporto (PUY, 7 km a nordeste), e o comboio regional HŽ segue para norte em direção à Eslovénia.`,
+        `Um catamarã sazonal liga Pula a Veneza e às ilhas da Ístria e do Kvarner no verão; os cães com trela ou em transportadora são geralmente aceites no convés exterior, confirme a política de animais com o operador antes de embarcar.`,
+        `Veterinários verificados: Veterinarska ambulanta Pula d.o.o. (Dinka Trinajstića 1, +385 52 541 100, telemóvel de urgência fora de horas +385 98 98 11 666) e Specijalistička veterinarska ambulanta Hajster (Marianijeva 3, +385 52 500 501); o número de emergência geral é o 112.`,
+      ],
+    },
+  },
+
   reims: {
     history: {
       fr: `Reims, surnommée « la cité des sacres », a vu couronner trente-trois rois de France entre 816 et 1825 dans sa cathédrale Notre-Dame, chef-d'œuvre gothique inscrit au patrimoine mondial de l'UNESCO depuis 1991 avec le Palais du Tau et la basilique Saint-Remi. Située à 45 minutes de Paris em TGV, la capitale historique de la Champagne combine héritage royal et terroir viticole d'exception : les caves de Pommery, Taittinger, Veuve Clicquot et Ruinart s'étendent sous la ville dans d'anciennes crayères gallo-romaines. Largement détruite lors de la Première Guerre mondiale, Reims fut reconstruite dans le style Art déco caractéristique des années 1920, visible Place Drouet d'Erlon et le long de la rue de Vesle. Aujourd'hui, ville d'environ 180 000 habitants entourée de vignes classées UNESCO depuis 2015, Reims propose un cadre élégant et facile à parcourir avec un chien : avenues larges, nombreux parcs et chemins de halage le long du canal de l'Aisne à la Marne.`,

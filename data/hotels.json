@@ -43604,5 +43604,532 @@
       "Sun terrace and sea-view garden",
       "Direct beach access"
     ]
+  },
+  {
+    "id": "saint-malo-1",
+    "slug": "golden-tulip-saint-malo-le-grand-be",
+    "name": "Golden Tulip Saint Malo - Le Grand Bé",
+    "destinationSlug": "saint-malo",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 1200,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Golden+Tulip+Saint+Malo+Le+Grand+Be+Saint-Malo",
+    "petFee": 0,
+    "petPolicy": "Pets are welcome in the rooms, and the hotel provides food and water bowls for dogs. There may be conditions on the number or size of pets. Please confirm with the property when booking.",
+    "address": "Intra-Muros, Saint-Malo",
+    "neighborhood": "Intra-Muros",
+    "highlights": [
+      "Inside the walled old town",
+      "Food and water bowls provided",
+      "Steps from the ramparts walk"
+    ]
+  },
+  {
+    "id": "saint-malo-2",
+    "slug": "hotel-france-et-chateaubriand",
+    "name": "Hôtel France et Chateaubriand",
+    "destinationSlug": "saint-malo",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 1500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+France+et+Chateaubriand+Saint-Malo",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed and the hotel provides food and water bowls for dogs. Located inside the ramparts near the marina and beach, with a terrace and ocean-view restaurant. Please confirm with the property when booking.",
+    "address": "Place Chateaubriand, Intra-Muros, Saint-Malo",
+    "neighborhood": "Intra-Muros",
+    "highlights": [
+      "Inside the ramparts near the marina",
+      "Food and water bowls for dogs",
+      "Ocean-view restaurant terrace"
+    ]
+  },
+  {
+    "id": "saint-malo-3",
+    "slug": "la-maison-des-armateurs",
+    "name": "La Maison des Armateurs",
+    "destinationSlug": "saint-malo",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 700,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=La+Maison+des+Armateurs+Saint-Malo",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed in the rooms and the hotel provides food and water bowls for dogs. Set in the historic intra-muros old town. Please confirm with the property when booking.",
+    "address": "6 Grande Rue, Intra-Muros, Saint-Malo",
+    "neighborhood": "Intra-Muros",
+    "highlights": [
+      "Boutique hotel in the walled town",
+      "Food and water bowls for dogs",
+      "Central for the ramparts and lanes"
+    ]
+  },
+  {
+    "id": "saint-malo-4",
+    "slug": "hotel-le-nautilus",
+    "name": "Hôtel Le Nautilus",
+    "destinationSlug": "saint-malo",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 900,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Le+Nautilus+Saint-Malo",
+    "petFee": 0,
+    "petPolicy": "Dogs are accepted at this 3-star hotel a few minutes' walk from the old town and the sea. Conditions on pet size may apply. Please confirm with the property when booking.",
+    "address": "9 Rue de la Corne de Cerf, Intra-Muros, Saint-Malo",
+    "neighborhood": "Intra-Muros",
+    "highlights": [
+      "Minutes from the old town and beach",
+      "Sea views from some rooms",
+      "Private parking available"
+    ]
+  },
+  {
+    "id": "saint-malo-5",
+    "slug": "ibis-budget-saint-malo-centre",
+    "name": "ibis budget Saint Malo Centre",
+    "destinationSlug": "saint-malo",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.0,
+    "reviewCount": 1300,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=ibis+budget+Saint+Malo+Centre+Saint-Malo",
+    "petFee": 5,
+    "petPolicy": "Pets are allowed for a surcharge of 5 EUR per pet per night, with a 5 EUR pet deposit per night. The hotel is a walk from the beach and the Grand Aquarium. Please confirm with the property when booking.",
+    "address": "Avenue de Moka, Saint-Malo",
+    "neighborhood": "Saint-Malo Centre",
+    "highlights": [
+      "Budget-friendly pet-accepting rooms",
+      "Walking distance to the beach",
+      "Near the Grand Aquarium"
+    ]
+  },
+  {
+    "id": "quimper-1",
+    "slug": "manoir-des-indes-quimper",
+    "name": "Manoir des Indes, The Originals Relais",
+    "destinationSlug": "quimper",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 7.8,
+    "reviewCount": 788,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Manoir+des+Indes+Quimper",
+    "petFee": 15,
+    "petPolicy": "Dogs are welcome for a fee of around 15 EUR per night; this property accepts dogs only. The quiet manor grounds give plenty of space to walk your dog. Please confirm with the property when booking.",
+    "address": "1 allée de Prad ar C'hras, 29000 Quimper",
+    "neighborhood": "Quiet outskirts, 5 minutes from the centre",
+    "highlights": [
+      "Peaceful 4-star manor with grounds to walk a dog",
+      "Wellness area with pool and sauna",
+      "Exotic Far-Eastern decor and individual rooms"
+    ]
+  },
+  {
+    "id": "quimper-2",
+    "slug": "best-western-plus-hotel-kregenn-quimper",
+    "name": "Best Western Plus Hotel Kregenn",
+    "destinationSlug": "quimper",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "near-city-center"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 900,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Best+Western+Plus+Hotel+Kregenn+Quimper",
+    "petFee": 15,
+    "petPolicy": "Pets are welcome for a fee of around 15 EUR per night, with up to 2 dogs allowed in a limited number of rooms and a 30 kg size limit per dog. Please confirm with the property when booking.",
+    "address": "13 rue des Réguaires, 29000 Quimper",
+    "neighborhood": "City centre, near the Breton Departmental Museum",
+    "highlights": [
+      "Central 4-star location minutes from the cathedral",
+      "Garden, lounge and fitness area",
+      "Up to 2 dogs welcome in pet rooms"
+    ]
+  },
+  {
+    "id": "quimper-3",
+    "slug": "mercure-quimper-centre",
+    "name": "Mercure Quimper Centre",
+    "destinationSlug": "quimper",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-city-center"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 700,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mercure+Quimper+Centre",
+    "petFee": 13,
+    "petPolicy": "Pets are welcome for a fee of around 13 EUR per pet, per night. Both dogs and cats are accepted. Please confirm with the property when booking.",
+    "address": "21 bis avenue de la Gare, 29000 Quimper",
+    "neighborhood": "Near the train station and Odet quays",
+    "highlights": [
+      "4-star comfort close to the station for day trips",
+      "Walkable to the cathedral and old town",
+      "Dogs and cats both welcome"
+    ]
+  },
+  {
+    "id": "quimper-4",
+    "slug": "ibis-quimper",
+    "name": "ibis Quimper",
+    "destinationSlug": "quimper",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 1100,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=ibis+Quimper",
+    "petFee": 5,
+    "petPolicy": "Pets are welcome for a fee of around 5 EUR per night. Both dogs and cats are accepted at this property. Please confirm with the property when booking.",
+    "address": "Rue Gustave Eiffel, 29000 Quimper",
+    "neighborhood": "Quimper, with free private parking",
+    "highlights": [
+      "Affordable 3-star with free parking",
+      "24-hour reception and on-site restaurant",
+      "Low pet fee, dogs and cats welcome"
+    ]
+  },
+  {
+    "id": "quimper-5",
+    "slug": "escale-oceania-quimper-centre",
+    "name": "Escale Oceania Quimper Centre",
+    "destinationSlug": "quimper",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-city-center"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 800,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Escale+Oceania+Quimper+Centre",
+    "petFee": 20,
+    "petPolicy": "Pets are welcome on request for a fee of around 20 EUR per night, with a maximum of 1 pet per room. Both dogs and cats are accepted; contact the property before arrival. Please confirm with the property when booking.",
+    "address": "6 rue Théodore Le Hars, 29000 Quimper",
+    "neighborhood": "City centre, steps from the cathedral and station",
+    "highlights": [
+      "3-star hotel a short walk from Saint-Corentin cathedral",
+      "Close to the train station for day trips",
+      "Dogs and cats both welcome on request"
+    ]
+  },
+  {
+    "id": "carnac-1",
+    "slug": "le-diana-carnac",
+    "name": "Le Diana Hôtel & Spa NUXE",
+    "destinationSlug": "carnac",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 900,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Le+Diana+Carnac+France",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request and charges may apply, so contact the hotel before arrival. This 4-star seafront property faces Carnac-Plage and welcomes well-behaved dogs in the rooms. Please confirm with the property when booking.",
+    "address": "21 Boulevard de la Plage, 56340 Carnac-Plage",
+    "neighborhood": "Carnac-Plage",
+    "highlights": [
+      "Seafront location facing the Grande Plage",
+      "NUXE spa with indoor pool and jacuzzi",
+      "Pets welcome on request in a 4-star setting"
+    ]
+  },
+  {
+    "id": "carnac-2",
+    "slug": "hotel-du-tumulus-carnac",
+    "name": "Hôtel Restaurant Spa du Tumulus Carnac",
+    "destinationSlug": "carnac",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 700,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+du+Tumulus+Carnac+France",
+    "petFee": 13,
+    "petPolicy": "Pets of any size are welcome for an additional fee of 13 EUR per pet, per night. The hilltop hotel beside the Tumulus Saint-Michel has a large terrace with sea views and easy access to leashed walks. Please confirm with the property when booking.",
+    "address": "Chemin du Tumulus, 56340 Carnac",
+    "neighborhood": "Carnac-Ville",
+    "highlights": [
+      "Beside the Tumulus Saint-Michel and alignment paths",
+      "Outdoor pool and panoramic sea-view terrace",
+      "Dogs of any size welcome for a small nightly fee"
+    ]
+  },
+  {
+    "id": "carnac-3",
+    "slug": "le-celtique-spa-carnac",
+    "name": "Best Western Plus Le Celtique & Spa",
+    "destinationSlug": "carnac",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 1100,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Le+Celtique+Spa+Carnac+France",
+    "petFee": 11,
+    "petPolicy": "Pets are allowed for an additional charge of around 11 EUR per pet, per night, and it is best to call ahead to confirm size and details. The hotel sits about 50 metres from Carnac-Plage near the GR34 coastal path. Please confirm with the property when booking.",
+    "address": "82 Avenue des Druides, 56340 Carnac-Plage",
+    "neighborhood": "Carnac-Plage",
+    "highlights": [
+      "About 50 metres from the seafront and GR34 path",
+      "Spa, indoor pool and wellness facilities",
+      "Pets accepted for a modest nightly fee"
+    ]
+  },
+  {
+    "id": "carnac-4",
+    "slug": "hotel-an-ti-gwenn-carnac",
+    "name": "Hôtel An Ti Gwenn",
+    "destinationSlug": "carnac",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.4,
+    "reviewCount": 416,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+An+Ti+Gwenn+Carnac+France",
+    "petFee": 8,
+    "petPolicy": "Pets are allowed for an additional fee of 8 EUR per pet, per night, and service animals stay free. This friendly village hotel sits between the standing stones and the beach with free private parking. Please confirm with the property when booking.",
+    "address": "4 Rue de Poul Person, 56340 Carnac",
+    "neighborhood": "Carnac-Ville",
+    "highlights": [
+      "Quiet village setting between menhirs and beach",
+      "Free private parking and praised breakfast",
+      "Dogs welcome for a small nightly fee"
+    ]
+  },
+  {
+    "id": "carnac-5",
+    "slug": "hotel-lann-roz-carnac",
+    "name": "Hôtel-Restaurant Lann Roz",
+    "destinationSlug": "carnac",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 2,
+    "rating": 8.2,
+    "reviewCount": 350,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Lann+Roz+Carnac+France",
+    "petFee": 0,
+    "petPolicy": "Pets are welcome at this small family-run hotel and charges may apply, so confirm when booking. It has an on-site restaurant and bar and free private parking, a short walk from Carnac-Ville. Please confirm with the property when booking.",
+    "address": "36 Avenue de la Poste, 56340 Carnac",
+    "neighborhood": "Carnac-Ville",
+    "highlights": [
+      "Family-run hotel with on-site restaurant and bar",
+      "Free private parking near the old town",
+      "Pet-friendly and walkable to the alignments"
+    ]
+  },
+  {
+    "id": "quiberon-1",
+    "slug": "sofitel-quiberon-thalassa-sea-spa",
+    "name": "Sofitel Quiberon Thalassa Sea & Spa",
+    "destinationSlug": "quiberon",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "near-parks",
+      "beachy"
+    ],
+    "stars": 5,
+    "rating": 8.2,
+    "reviewCount": 1200,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sofitel+Quiberon+Thalassa+Quiberon",
+    "petFee": 25,
+    "petPolicy": "Dogs of any size are welcome for a fee of 25 EUR per night. The beachfront setting and seafront promenade are ideal for leashed walks, though dogs are not permitted in the thalassotherapy spa areas. Please confirm with the property when booking.",
+    "address": "Boulevard Louison Bobet, Pointe de Goulvars, 56170 Quiberon",
+    "neighborhood": "Pointe de Goulvars",
+    "highlights": [
+      "Atlantic seafront location with direct beach access",
+      "Famous thalassotherapy and spa heritage",
+      "Dogs of any size accepted for a fee"
+    ]
+  },
+  {
+    "id": "quiberon-2",
+    "slug": "mercure-quiberon-hotel-spa",
+    "name": "Mercure Quiberon Hotel & Spa",
+    "destinationSlug": "quiberon",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "beachy",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 700,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mercure+Quiberon+Hotel+Quiberon",
+    "petFee": 0,
+    "petPolicy": "Dogs are welcome on request, with no pet fee reported at the time of writing. The hotel sits a short walk from the thalassotherapy centre and the beach, with easy access to the seafront promenade for leashed walks. Please confirm with the property when booking.",
+    "address": "Avenue des Marronniers, 56170 Quiberon",
+    "neighborhood": "Quiberon seafront",
+    "highlights": [
+      "Recently renovated rooms and Nuxe spa",
+      "Steps from the thalasso centre and beach",
+      "Dogs welcome on request"
+    ]
+  },
+  {
+    "id": "quiberon-3",
+    "slug": "hotel-la-petite-sirene-quiberon",
+    "name": "Hôtel La Petite Sirène Quiberon",
+    "destinationSlug": "quiberon",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "beachy"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 600,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+La+Petite+Sirene+Quiberon",
+    "petFee": 11,
+    "petPolicy": "Well-behaved dogs are welcome for a supplement of 11 EUR per animal per night, including in the bedroom and breakfast room. The hotel is a five-minute walk from the Grande Plage and close to the seafront, handy for early dog walks. Please confirm with the property when booking.",
+    "address": "15 Boulevard René Cassin, 56170 Quiberon",
+    "neighborhood": "Near the Grande Plage",
+    "highlights": [
+      "Five-minute walk to the Grande Plage",
+      "Panoramic terrace and free parking",
+      "Dogs welcome in rooms and breakfast room"
+    ]
+  },
+  {
+    "id": "quiberon-4",
+    "slug": "hotel-des-druides-quiberon",
+    "name": "Hôtel des Druides",
+    "destinationSlug": "quiberon",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "beachy"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 700,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+des+Druides+Quiberon",
+    "petFee": 15,
+    "petPolicy": "Pets are accepted for 15 EUR per animal per night. The hotel sits about 50 metres from the large sandy beach and near the Port Maria island ferry departure point, ideal for combining a beach walk with a day trip. Please confirm with the property when booking.",
+    "address": "6 rue de Port-Maria, 56170 Quiberon",
+    "neighborhood": "Port Maria",
+    "highlights": [
+      "About 50 metres from the beach",
+      "Near the Belle-Ile ferry terminal",
+      "On-site restaurant and bar"
+    ]
+  },
+  {
+    "id": "quiberon-5",
+    "slug": "ibis-styles-quiberon-centre",
+    "name": "ibis Styles Quiberon Centre",
+    "destinationSlug": "quiberon",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 900,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=ibis+Styles+Quiberon+Centre+Quiberon",
+    "petFee": 10,
+    "petPolicy": "Pets are admitted for a supplement of 10 EUR per animal per night, while assistance animals stay free. The hotel is in the centre of Quiberon, about 600 metres from the beach and within easy reach of the coastal paths. Please confirm with the property when booking.",
+    "address": "43 rue de Port Haliguen, 56170 Quiberon",
+    "neighborhood": "Quiberon centre",
+    "highlights": [
+      "Central location 600 metres from the beach",
+      "Heated indoor pool, hot tub and sauna",
+      "Budget-friendly pet fee of 10 EUR"
+    ]
   }
 ]

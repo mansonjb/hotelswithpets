@@ -21,6 +21,26 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    'saint-malo': {
+      personality: `one of the most atmospheric walled coastal cities in France`,
+      highlight: `the intra-muros ramparts walk, the Plage du Sillon, and the tidal Grand Be islet`,
+      area: `Intra-Muros, Parame, and the Emerald Coast`,
+    },
+    quimper: {
+      personality: `one of the most atmospheric and walkable historic cities in Brittany`,
+      highlight: `the Saint-Corentin cathedral and half-timbered old town, the Odet river quays, and wooded Mont Frugy`,
+      area: `the medieval old town, the riverside Odet quays, and the faience-making district of Locmaria`,
+    },
+    carnac: {
+      personality: `one of the most distinctive cool-summer beach destinations in France, built around the world's largest field of Neolithic standing stones`,
+      highlight: `the Carnac megalith alignments at Menec, Kermario and Kerlescan, the GR34 coastal path, and the Tumulus Saint-Michel`,
+      area: `Carnac-Plage, Carnac-Ville around the Saint-Cornely church, and the wider Quiberon bay`,
+    },
+    quiberon: {
+      personality: `one of the most rugged and dog-friendly seaside escapes in Brittany`,
+      highlight: `the wild Cote Sauvage cliffs, the Grande Plage and the Belle-Ile ferry from Port Maria`,
+      area: `Port Maria, the Cote Sauvage and the Pointe du Conguel`,
+    },
     ksamil: {
       personality: `one of the most beautiful and emerging beach destinations on the Albanian Riviera, dubbed the Maldives of Europe`,
       highlight: `the four turquoise Ksamil islets, Pasqyra (Mirror) Beach, and the open off-season beaches where dogs roam leash-free`,
@@ -1594,6 +1614,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    'saint-malo': {
+      personality: `l'une des cités côtières fortifiées les plus pittoresques de France`,
+      highlight: `la promenade des remparts intra-muros, la Plage du Sillon et l'îlot du Grand Bé à marée`,
+      area: `l'Intra-Muros, Paramé et la Côte d'Émeraude`,
+    },
+    quimper: {
+      personality: `l'une des villes historiques les plus pittoresques et praticables à pied de Bretagne`,
+      highlight: `la cathédrale Saint-Corentin et le vieux centre à colombages, les quais de l'Odet et le Mont Frugy boisé`,
+      area: `le vieux centre médiéval, les quais de l'Odet et le quartier faïencier de Locmaria`,
+    },
+    carnac: {
+      personality: `l'une des destinations balnéaires à l'été doux les plus singulières de France, organisée autour du plus grand champ de menhirs néolithiques au monde`,
+      highlight: `les alignements de menhirs de Carnac au Ménec, à Kermario et à Kerlescan, le sentier côtier GR34 et le Tumulus Saint-Michel`,
+      area: `Carnac-Plage, Carnac-Ville autour de l'église Saint-Cornély et la baie de Quiberon`,
+    },
+    quiberon: {
+      personality: `l'une des escapades balnéaires les plus sauvages et dog-friendly de Bretagne`,
+      highlight: `les falaises de la Cote Sauvage, la Grande Plage et le ferry pour Belle-Ile depuis Port Maria`,
+      area: `Port Maria, la Cote Sauvage et la Pointe du Conguel`,
+    },
     ksamil: {
       personality: `l'une des plus belles destinations balnéaires émergentes de la Riviera albanaise, surnommée les Maldives de l'Europe`,
       highlight: `les quatre îlots turquoise de Ksamil, la plage de Pasqyra (Mirror Beach) et les plages ouvertes hors saison où les chiens gambadent sans laisse`,
@@ -3166,6 +3206,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    'saint-malo': {
+      personality: `una de las ciudades costeras amuralladas con más encanto de Francia`,
+      highlight: `el paseo por las murallas intra-muros, la Plage du Sillon y el islote de marea del Grand Bé`,
+      area: `el Intra-Muros, Paramé y la Costa Esmeralda`,
+    },
+    quimper: {
+      personality: `una de las ciudades históricas más pintorescas y caminables de Bretaña`,
+      highlight: `la catedral de Saint-Corentin y el casco antiguo de entramado de madera, los muelles del Odet y el arbolado Mont Frugy`,
+      area: `el casco antiguo medieval, los muelles del Odet y el barrio alfarero de Locmaria`,
+    },
+    carnac: {
+      personality: `uno de los destinos de playa de verano fresco más singulares de Francia, organizado en torno al mayor campo de menhires neolíticos del mundo`,
+      highlight: `los alineamientos de menhires de Carnac en Ménec, Kermario y Kerlescan, el sendero costero GR34 y el Tumulus Saint-Michel`,
+      area: `Carnac-Plage, Carnac-Ville en torno a la iglesia de Saint-Cornély y la bahía de Quiberon`,
+    },
+    quiberon: {
+      personality: `una de las escapadas costeras mas salvajes y dog-friendly de Bretana`,
+      highlight: `los acantilados de la Cote Sauvage, la Grande Plage y el ferri a Belle-Ile desde Port Maria`,
+      area: `Port Maria, la Cote Sauvage y la Pointe du Conguel`,
+    },
     ksamil: {
       personality: `uno de los destinos de playa emergentes más bonitos de la Riviera albanesa, apodado las Maldivas de Europa`,
       highlight: `los cuatro islotes turquesa de Ksamil, la playa de Pasqyra (Mirror Beach) y las playas abiertas fuera de temporada donde los perros corretean sin correa`,
@@ -4738,6 +4798,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    'saint-malo': {
+      personality: `uma das cidades costeiras amuralhadas mais pitorescas de França`,
+      highlight: `o passeio nas muralhas intra-muros, a Plage du Sillon e o ilhéu de maré do Grand Bé`,
+      area: `o Intra-Muros, Paramé e a Costa Esmeralda`,
+    },
+    quimper: {
+      personality: `uma das cidades históricas mais pitorescas e caminháveis da Bretanha`,
+      highlight: `a catedral de Saint-Corentin e a cidade velha de meia-madeira, os cais do rio Odet e o arborizado Mont Frugy`,
+      area: `a cidade velha medieval, os cais do Odet e o bairro da faiança de Locmaria`,
+    },
+    carnac: {
+      personality: `um dos destinos balneares de verão fresco mais singulares de França, organizado em torno do maior campo de menires neolíticos do mundo`,
+      highlight: `os alinhamentos de menires de Carnac no Ménec, em Kermario e em Kerlescan, o trilho costeiro GR34 e o Tumulus Saint-Michel`,
+      area: `Carnac-Plage, Carnac-Ville em redor da igreja de Saint-Cornély e a baía de Quiberon`,
+    },
+    quiberon: {
+      personality: `uma das escapadelas costeiras mais selvagens e dog-friendly da Bretanha`,
+      highlight: `as falesias da Cote Sauvage, a Grande Plage e o ferry para Belle-Ile a partir do Port Maria`,
+      area: `Port Maria, a Cote Sauvage e a Pointe du Conguel`,
+    },
     ksamil: {
       personality: `um dos destinos de praia emergentes mais bonitos da Riviera Albanesa, apelidado de Maldivas da Europa`,
       highlight: `os quatro ilhéus turquesa de Ksamil, a praia de Pasqyra (Mirror Beach) e as praias abertas fora de época onde os cães correm sem trela`,

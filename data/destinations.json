@@ -23566,5 +23566,305 @@
       }
     },
     "iata": "TIA"
+  },
+  {
+    "slug": "saint-malo",
+    "name": "Saint-Malo",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/saint-malo.jpg",
+    "intro": "Saint-Malo is a walled corsair city on Brittany's Emerald Coast where granite ramparts circle a tidal old town facing the Atlantic. With cool summers, a 2 km dog-walkable rampart loop and miles of coastal path, it is one of France's most rewarding cool-weather dog destinations.",
+    "lat": 48.6493,
+    "lng": -2.0257,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & windy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & fresh",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Warm & breezy",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Cool-warm summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Cool-warm summer",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & windy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "DNR"
+  },
+  {
+    "slug": "quimper",
+    "name": "Quimper",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/quimper.jpg",
+    "intro": "Quimper is the historic capital of Cornouaille in Finistere, a compact and walkable Breton city of half-timbered houses, the twin-spired Saint-Corentin cathedral and the riverside quays of the Odet. With its cool oceanic summers, riverside walks and easy access to the Cornouaille coast, it makes a relaxed warm-weather base for travellers with a dog.",
+    "lat": 47.996,
+    "lng": -4.1024,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cool & breezy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Mild & changeable",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Pleasant & green",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Warm & comfortable",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & damp",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cold & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "UIP"
+  },
+  {
+    "slug": "carnac",
+    "name": "Carnac",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/carnac.jpg",
+    "intro": "Carnac is a cool-summer Atlantic resort in southern Brittany, famous for its thousands of Neolithic standing stones and long sandy beaches. It is a relaxed base for leashed coastal-path and megalith walks, though dogs must head to the nearby Quiberon peninsula for beach time since Carnac's own beaches ban them year-round.",
+    "lat": 47.5847,
+    "lng": -3.079,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cool & windy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cold & breezy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild & changeable",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Fresh & bright",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Cool & damp",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Cold & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "LRT"
+  },
+  {
+    "slug": "quiberon",
+    "name": "Quiberon",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/quiberon.jpg",
+    "intro": "Quiberon is a wind-swept Breton peninsula town famous for its wild Cote Sauvage cliffs, its long sheltered Grande Plage and its ferries to Belle-Ile. With a cool Atlantic summer, miles of leashed coastal walking on the GR34 and year-round dog beaches, it is one of France's best cool-weather seaside escapes with a dog.",
+    "lat": 47.4833,
+    "lng": -3.1167,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & breezy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & fresh",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Pleasant & sunny",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm & breezy",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm Atlantic",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Cooling & wet",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & windy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "LRT"
   }
 ]

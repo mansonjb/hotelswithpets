@@ -705,6 +705,18 @@ export default async function GuideDetailPage({
                 // (e.g. a Ria money-transfer logo for "Currency & cost"). Skip the photo
                 // header on the tips guide entirely.
                 const placePhoto = guide === 'tips' ? undefined : place.photo
+                // Stay22 "hotels near this place" link, reused by the tappable
+                // card (photo + name) and the bottom CTA button. Mobile users tap
+                // the photo and name expecting an action (Clarity dead-click data).
+                const showNearby = guide !== 'tips' && Boolean(place.name)
+                const placeSlug = (place.name || '')
+                  .toLowerCase()
+                  .normalize('NFD')
+                  .replace(/[̀-ͯ]/g, '')
+                  .replace(/[^a-z0-9]+/g, '-')
+                  .replace(/(^-|-$)/g, '')
+                  .slice(0, 40)
+                const nearbyHref = `https://www.stay22.com/allez/roam?aid=eijeanbaptistemanson&campaign=near-${guide}-${placeSlug}&address=${encodeURIComponent([place.name, place.address, place.neighborhood, dest.name, dest.country].filter(Boolean).join(', '))}`
 
                 return (
                   <article key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden">
@@ -745,6 +757,16 @@ export default async function GuideDetailPage({
                             </p>
                           )}
                         </div>
+                        {/* Whole photo+name is a tap target -> nearby pet-friendly hotels */}
+                        {showNearby && (
+                          <a
+                            href={nearbyHref}
+                            target="_blank"
+                            rel="noopener sponsored"
+                            aria-label={ui.nearbyHotels}
+                            className="absolute inset-0 z-10"
+                          />
+                        )}
                       </div>
                     )}
 
@@ -757,7 +779,11 @@ export default async function GuideDetailPage({
                               <span className={`text-xs font-black text-white bg-gradient-to-br ${meta.gradient} rounded-full w-7 h-7 flex items-center justify-center flex-shrink-0`}>
                                 {i + 1}
                               </span>
-                              <h3 className="font-bold text-gray-900 text-lg">{localizedName}</h3>
+                              <h3 className="font-bold text-gray-900 text-lg">
+                                {showNearby ? (
+                                  <a href={nearbyHref} target="_blank" rel="noopener sponsored" className="hover:text-amber-700 transition-colors">{localizedName}</a>
+                                ) : localizedName}
+                              </h3>
                             </div>
                             {(place.address || place.neighborhood) && (
                               <p className="text-sm text-gray-400 ml-9">
@@ -801,9 +827,12 @@ export default async function GuideDetailPage({
                           </span>
                         )}
                         {place.phone && (
-                          <span className="flex items-center gap-1 bg-gray-50 px-2.5 py-1 rounded-full">
+                          <a
+                            href={`tel:${place.phone.replace(/[^+\d]/g, '')}`}
+                            className="flex items-center gap-1 bg-gray-50 hover:bg-gray-100 px-2.5 py-1 rounded-full transition-colors"
+                          >
                             📞 {place.phone}
-                          </span>
+                          </a>
                         )}
                         {place.season && (
                           <span className="flex items-center gap-1 bg-blue-50 text-blue-700 px-2.5 py-1 rounded-full">
@@ -853,26 +882,10 @@ export default async function GuideDetailPage({
 
                       {/* External links + nearby-hotels CTA row */}
                       {(() => {
-                        // Skip the nearby-hotels CTA on the `tips` guide
-                        // (concept cards, not geographic places).
-                        const showNearby = guide !== 'tips' && Boolean(place.name)
+                        // showNearby + nearbyHref are computed once above (also used
+                        // by the tappable photo/name). Skip the row entirely only when
+                        // there is nothing to link to.
                         if (!showNearby && !place.website && !place.googleMapsUrl) return null
-                        // Build a Stay22 address rich enough for precise geocoding.
-                        const addressForStay22 = [
-                          place.name,
-                          place.address,
-                          place.neighborhood,
-                          dest.name,
-                          dest.country,
-                        ].filter(Boolean).join(', ')
-                        const placeSlug = place.name
-                          .toLowerCase()
-                          .normalize('NFD')
-                          .replace(/[̀-ͯ]/g, '')
-                          .replace(/[^a-z0-9]+/g, '-')
-                          .replace(/(^-|-$)/g, '')
-                          .slice(0, 40)
-                        const nearbyHref = `https://www.stay22.com/allez/roam?aid=eijeanbaptistemanson&campaign=near-${guide}-${placeSlug}&address=${encodeURIComponent(addressForStay22)}`
                         return (
                           <div className="flex flex-wrap gap-2 pt-3 border-t border-gray-50">
                             {showNearby && (

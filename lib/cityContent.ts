@@ -21159,6 +21159,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  santander: {
+    history: {
+      fr: `Santander, capitale de la Cantabrie et ses 170 000 habitants, épouse l'une des plus belles baies du nord de l'Espagne, entre les collines verdoyantes cantabres et l'Atlantique ouvert. Station balnéaire distinguée depuis que le roi Alphonse XIII fit bâtir son palais d'été sur la Península de la Magdalena en 1912, la ville a reconstruit son centre dans un style sobre et élégant après le grand incendie de 1941 et bordé son long front de mer de la splendeur Belle Époque du Sardinero. C'est aujourd'hui l'une des villes les plus détendues envers les chiens de la côte espagnole : une promenade quasi ininterrompue de 8 km relie l'Estación Marítima aux Jardines de Pereda, contourne la péninsule royale et longe le Sardinero jusqu'au phare de Cabo Mayor, presque entièrement praticable en laisse. Le principal point à anticiper est l'interdiction estivale des plages urbaines, du 1er mai au 30 septembre.`,
+      en: `Santander, the 170,000-resident capital of Cantabria, curves around one of the most beautiful bays in northern Spain, between the green Cantabrian hills and the open Atlantic. A genteel resort since King Alfonso XIII built his summer palace on the Península de la Magdalena in 1912, the city rebuilt its centre in a sober, elegant style after the great fire of 1941 and lined its long seafront with the Belle Époque grandeur of the Sardinero. Today it is one of the most relaxed dog cities on the Spanish coast: an almost uninterrupted 8 km promenade runs from the Estación Marítima past the Jardines de Pereda, around the royal peninsula and along the Sardinero to the Cabo Mayor lighthouse, nearly all of it walkable on lead. The main thing to plan around is the summer beach ban, in force on the city beaches from 1 May to 30 September.`,
+      es: `Santander, capital de Cantabria con 170.000 habitantes, se curva en torno a una de las bahías más bellas del norte de España, entre las verdes colinas cantábricas y el Atlántico abierto. Estación de veraneo distinguida desde que el rey Alfonso XIII mandó construir su palacio de verano en la Península de la Magdalena en 1912, la ciudad reconstruyó su centro con un estilo sobrio y elegante tras el gran incendio de 1941 y bordeó su largo frente marítimo con el esplendor Belle Époque del Sardinero. Hoy es una de las ciudades más relajadas con los perros de la costa española: un paseo casi ininterrumpido de 8 km une la Estación Marítima con los Jardines de Pereda, rodea la península real y recorre el Sardinero hasta el faro de Cabo Mayor, casi todo transitable con correa. Lo principal que conviene prever es la prohibición estival de las playas urbanas, del 1 de mayo al 30 de septiembre.`,
+      pt: `Santander, capital da Cantábria com 170 000 habitantes, curva-se em torno de uma das baías mais bonitas do norte de Espanha, entre as verdes colinas cantábricas e o Atlântico aberto. Estância balnear distinta desde que o rei Afonso XIII mandou construir o seu palácio de verão na Península de la Magdalena em 1912, a cidade reconstruiu o seu centro num estilo sóbrio e elegante após o grande incêndio de 1941 e debruou a sua longa frente marítima com o esplendor Belle Époque do Sardinero. Hoje é uma das cidades mais descontraídas com os cães da costa espanhola: um passeio quase ininterrupto de 8 km liga o terminal marítimo aos Jardines de Pereda, contorna a península régia e percorre o Sardinero até ao farol de Cabo Mayor, quase todo percorrível com trela. O principal a prever é a proibição estival nas praias urbanas, de 1 de maio a 30 de setembro.`,
+    },
+    sights: [
+      {
+        name: 'Península de la Magdalena',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Péninsule royale de 25 hectares fermant la baie à l'est, avec au cœur le palais d'été de 1912 d'Alphonse XIII, des pelouses ouvertes, un petit zoo de plein air et 3 km de sentiers périphériques sur falaise offrant des vues sur la mer sur trois côtés. Les chiens sont bienvenus en laisse dans tout le parc et sur les sentiers ; seuls l'intérieur du palais et les enclos du zoo sont interdits.`,
+          en: `A 25-hectare royal peninsula closing the bay to the east, with King Alfonso XIII's 1912 summer palace at its heart, open lawns, a small open-air zoo and 3 km of clifftop perimeter paths with sea views on three sides. Dogs are welcome on lead throughout the grounds and paths; only the palace interior and zoo enclosures are off-limits.`,
+          es: `Península real de 25 hectáreas que cierra la bahía por el este, con el palacio de verano de 1912 de Alfonso XIII en el centro, praderas abiertas, un pequeño zoo al aire libre y 3 km de senderos perimetrales en acantilado con vistas al mar por tres lados. Los perros son bienvenidos con correa en todo el recinto y los senderos; solo el interior del palacio y los recintos del zoo quedan vetados.`,
+          pt: `Península régia de 25 hectares que fecha a baía a leste, com o palácio de verão de 1912 de Afonso XIII no centro, relvados abertos, um pequeno jardim zoológico ao ar livre e 3 km de caminhos perimetrais no alto da falésia com vista para o mar em três lados. Os cães são bem-vindos com trela em todo o recinto e nos caminhos; apenas o interior do palácio e os recintos do zoo estão interditos.`,
+        },
+      },
+      {
+        name: 'Playa del Sardinero',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Le croissant emblématique de sable doré de Santander, 1,5 km divisé en Primera et Segunda par le promontoire du Piquío et bordé d'hôtels Belle Époque et du casino. Les chiens y sont interdits durant la saison balnéaire (du 1er mai au 30 septembre) mais admis en laisse le reste de l'année, et un Sardinero désert à marée basse un matin d'octobre est l'une des plus belles promenades canines du nord.`,
+          en: `Santander's emblematic 1.5 km crescent of golden sand, split into Primera and Segunda by the Piquío promontory and lined with Belle Époque hotels and the casino. Dogs are banned during the summer bathing season (1 May to 30 September) but allowed on lead the rest of the year, and an empty Sardinero at low tide on an October morning is one of the finest dog walks in the north.`,
+          es: `El emblemático arco de arena dorada de Santander, 1,5 km dividido en Primera y Segunda por el promontorio del Piquío y flanqueado por hoteles Belle Époque y el casino. Los perros están prohibidos durante la temporada de baño (del 1 de mayo al 30 de septiembre) pero permitidos con correa el resto del año, y un Sardinero vacío con marea baja una mañana de octubre es uno de los mejores paseos caninos del norte.`,
+          pt: `O emblemático arco de areia dourada de Santander, 1,5 km dividido em Primera e Segunda pelo promontório do Piquío e ladeado por hotéis Belle Époque e pelo casino. Os cães estão proibidos durante a época balnear (de 1 de maio a 30 de setembro) mas permitidos com trela no resto do ano, e um Sardinero vazio com maré baixa numa manhã de outubro é um dos melhores passeios caninos do norte.`,
+        },
+      },
+      {
+        name: 'Parque de las Llamas',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus grand parc intérieur de la ville, environ 30 hectares de pelouses et un lac central aménagés sur d'anciens marais derrière le Sardinero. Il abrite l'une des principales aires canines clôturées de Santander (Zona de Esparcimiento Canino), où les chiens peuvent courir librement sous surveillance ; le reste du parc impose la laisse et les races PPP restent toujours en laisse et muselées.`,
+          en: `The city's largest inner park, around 30 hectares of lawns and a central lake built on reclaimed marshland behind the Sardinero. It holds one of Santander's main fenced off-leash dog zones (Zona de Esparcimiento Canino), where dogs can run freely under supervision; the rest of the park requires a lead and PPP breeds are always leashed and muzzled.`,
+          es: `El mayor parque interior de la ciudad, unas 30 hectáreas de praderas y un lago central sobre antiguas marismas tras el Sardinero. Alberga una de las principales zonas caninas valladas de Santander (Zona de Esparcimiento Canino), donde los perros pueden correr libres bajo supervisión; el resto del parque exige correa y las razas PPP van siempre con correa y bozal.`,
+          pt: `O maior parque interior da cidade, cerca de 30 hectares de relvados e um lago central sobre antigos sapais atrás do Sardinero. Acolhe uma das principais zonas para cães vedadas de Santander (Zona de Esparcimiento Canino), onde os cães podem correr livremente sob supervisão; o resto do parque exige trela e as raças PPP andam sempre com trela e açaime.`,
+        },
+      },
+      {
+        name: 'Faro de Cabo Mayor',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `Le phare de 1839 sur le cap spectaculaire au nord du Sardinero, point le plus septentrional de la baie et fin de la promenade littorale de la ville. Les chiens en laisse peuvent parcourir la lande de falaise alentour et le sentier côtier qui le relie au parc de Mataleñas, avec de larges vues sur la mer Cantabrique ; attention aux bords de falaise non protégés par vent fort.`,
+          en: `The 1839 lighthouse on the dramatic headland north of the Sardinero, the northernmost point of the bay and the end of the city's seafront walk. Leashed dogs can roam the surrounding clifftop heathland and the coastal path linking it to the Mataleñas park, with wide views of the Cantabrian Sea; mind the unfenced cliff edges in strong wind.`,
+          es: `El faro de 1839 sobre el cabo espectacular al norte del Sardinero, el punto más septentrional de la bahía y final del paseo marítimo de la ciudad. Los perros con correa pueden recorrer el brezal de acantilado de alrededor y el sendero costero que lo une al parque de Mataleñas, con amplias vistas al Cantábrico; cuidado con los bordes de acantilado sin protección con viento fuerte.`,
+          pt: `O farol de 1839 no promontório imponente a norte do Sardinero, o ponto mais setentrional da baía e o fim do passeio marítimo da cidade. Os cães com trela podem percorrer a charneca da falésia em redor e o trilho costeiro que o liga ao parque de Mataleñas, com vistas amplas sobre o mar Cantábrico; atenção aos bordos da falésia sem proteção com vento forte.`,
+        },
+      },
+      {
+        name: 'Parque de Mataleñas',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Un parc sur falaise entre le Sardinero et le phare de Cabo Mayor, avec pinèdes, pelouses ouvertes et un petit golf municipal surplombant des criques sauvages. Les chiens en laisse sont bienvenus sur les sentiers et pelouses publics (le golf reste interdit), et le sentier constitue un maillon facile et ombragé de la grande promenade côtière.`,
+          en: `A clifftop park between the Sardinero and the Cabo Mayor lighthouse, with pine groves, open lawns and a small municipal golf course set above wild coves. Dogs on lead are welcome on the public paths and lawns (the golf course itself is off-limits), and the trail makes an easy, shaded link in the longer coastal walk.`,
+          es: `Un parque en acantilado entre el Sardinero y el faro de Cabo Mayor, con pinares, praderas abiertas y un pequeño campo de golf municipal sobre calas salvajes. Los perros con correa son bienvenidos en los senderos y praderas públicos (el golf queda vetado), y el sendero es un tramo fácil y sombreado del paseo costero más largo.`,
+          pt: `Um parque no alto da falésia entre o Sardinero e o farol de Cabo Mayor, com pinhais, relvados abertos e um pequeno campo de golfe municipal sobre enseadas selvagens. Os cães com trela são bem-vindos nos caminhos e relvados públicos (o golfe permanece interdito), e o trilho é um troço fácil e sombreado do passeio costeiro mais longo.`,
+        },
+      },
+      {
+        name: 'Jardines de Pereda',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Les jardins verdoyants du front de mer entre la vieille ville et la baie, près du centre d'art Centro Botín de Renzo Piano, avec sculptures, bassins et pelouses ombragées. Les chiens en laisse y sont bienvenus partout, en faisant le départ vert naturel de la promenade littorale ; le bâtiment du Centro Botín et sa terrasse ne sont pas accessibles aux chiens, mais la place alentour l'est.`,
+          en: `The leafy waterfront gardens between the old town and the bay, beside Renzo Piano's Centro Botín art centre, with sculptures, ponds and shaded lawns. Leashed dogs are welcome throughout, making it the natural green start of the seafront promenade; the Centro Botín building and its rooftop are not open to dogs, but the surrounding plaza is.`,
+          es: `Los frondosos jardines junto al mar entre el casco antiguo y la bahía, al lado del centro de arte Centro Botín de Renzo Piano, con esculturas, estanques y praderas sombreadas. Los perros con correa son bienvenidos en todo el recinto, lo que los convierte en el arranque verde natural del paseo marítimo; el edificio del Centro Botín y su azotea no admiten perros, pero la plaza de alrededor sí.`,
+          pt: `Os frondosos jardins junto ao mar entre a cidade velha e a baía, ao lado do centro de arte Centro Botín de Renzo Piano, com esculturas, lagos e relvados sombreados. Os cães com trela são bem-vindos em todo o espaço, o que os torna o arranque verde natural do passeio marítimo; o edifício do Centro Botín e o seu terraço não admitem cães, mas a praça em redor sim.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les plages urbaines de Santander (Sardinero, Magdalena, Mataleñas) interdisent les chiens durant la saison balnéaire, du 1er mai au 30 septembre ; en dehors de ces dates, ils sont admis en laisse.`,
+        `Pour une plage canine toute l'année, traversez la baie jusqu'à la Playa de Loredo à Ribamontán al Mar, qui dispose d'une section dog-friendly signalée ; confirmez la zone actuelle auprès du tourisme local.`,
+        `Parcourez la promenade littorale quasi continue de 8 km depuis l'Estación Marítima jusqu'au phare de Cabo Mayor, plate et entièrement dog-friendly en laisse.`,
+        `L'aire sans laisse clôturée (Zona de Esparcimiento Canino) du Parque de las Llamas est le meilleur espace de défoulement de la ville, la plus animée et conviviale vers 19h-21h en été.`,
+        `La Cantabrie classe certaines races comme PPP (potentiellement dangereuses) : elles doivent être tenues en laisse et muselées dans tous les espaces publics et le maître doit détenir une licence.`,
+      ],
+      en: [
+        `Santander's city beaches (Sardinero, Magdalena, Mataleñas) ban dogs during the summer bathing season, 1 May to 30 September; outside those dates they are allowed on lead.`,
+        `For a year-round dog beach, cross the bay to the Playa de Loredo in Ribamontán al Mar, which has a signposted dog-friendly section; confirm the current zone with the local turismo.`,
+        `Walk the almost continuous 8 km seafront promenade from the Estación Marítima to the Cabo Mayor lighthouse, flat and fully dog-friendly on lead.`,
+        `The fenced off-leash zone (Zona de Esparcimiento Canino) in the Parque de las Llamas is the city's best run-around spot, busiest and most sociable around 19:00 to 21:00 in summer.`,
+        `Cantabria classifies certain breeds as PPP (potentially dangerous): they must be leashed and muzzled in all public spaces and the owner must carry a licence.`,
+      ],
+      es: [
+        `Las playas urbanas de Santander (Sardinero, Magdalena, Mataleñas) prohíben los perros durante la temporada de baño, del 1 de mayo al 30 de septiembre; fuera de esas fechas se permiten con correa.`,
+        `Para una playa canina todo el año, cruza la bahía hasta la Playa de Loredo en Ribamontán al Mar, que tiene una sección dog-friendly señalizada; confirma la zona actual con el turismo local.`,
+        `Recorre el paseo marítimo casi continuo de 8 km desde la Estación Marítima hasta el faro de Cabo Mayor, llano y completamente dog-friendly con correa.`,
+        `La zona sin correa vallada (Zona de Esparcimiento Canino) del Parque de las Llamas es el mejor espacio de desahogo de la ciudad, más concurrida y sociable hacia las 19:00-21:00 en verano.`,
+        `Cantabria clasifica ciertas razas como PPP (potencialmente peligrosas): deben ir con correa y bozal en todos los espacios públicos y el dueño debe tener licencia.`,
+      ],
+      pt: [
+        `As praias urbanas de Santander (Sardinero, Magdalena, Mataleñas) proíbem os cães durante a época balnear, de 1 de maio a 30 de setembro; fora dessas datas são permitidos com trela.`,
+        `Para uma praia canina durante todo o ano, atravesse a baía até à Playa de Loredo, em Ribamontán al Mar, que tem uma secção dog-friendly sinalizada; confirme a zona atual com o turismo local.`,
+        `Percorra o passeio marítimo quase contínuo de 8 km desde o terminal marítimo até ao farol de Cabo Mayor, plano e totalmente dog-friendly com trela.`,
+        `A zona sem trela vedada (Zona de Esparcimiento Canino) do Parque de las Llamas é o melhor espaço para correr da cidade, mais concorrida e sociável por volta das 19:00-21:00 no verão.`,
+        `A Cantábria classifica certas raças como PPP (potencialmente perigosas): têm de andar com trela e açaime em todos os espaços públicos e o dono deve ter licença.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen pour animaux avec vaccination antirabique valide et micropuce ISO exigé à l'enregistrement dans tout hôtel pet-friendly ; l'Espagne est dans l'UE et l'espace Schengen.`,
+        `Arrêté municipal : les chiens doivent être tenus en laisse dans tous les espaces publics sauf dans les aires sans laisse balisées, les maîtres doivent ramasser, et les races PPP restent toujours en laisse et muselées.`,
+        `Se déplacer : la ville se parcourt à pied ; les bus TUS et les trains FEVE et Renfe Alvia acceptent les petits chiens en sac de transport fermé, les grands chiens nécessitent une muselière et une laisse courte (et une autorisation préalable sur l'Alvia).`,
+        `Brittany Ferries relie l'Estación Marítima à Plymouth et Portsmouth avec cabines animaux et chenils de bord ; l'entrée au Royaume-Uni requiert un passeport européen et un certificat sanitaire animal (AHC).`,
+        `Vétérinaires 24h/24 vérifiés : Animals Cantabria (Av. de los Castros 73, +34 942 07 09 00) en ville, et l'hôpital de référence régional Hospital Veterinario Cantabria à Guarnizo (urgences 24h +34 608 48 38 21), à environ 12 km au sud.`,
+      ],
+      en: [
+        `EU pet passport with a valid rabies vaccination and ISO microchip required at every pet-friendly hotel check-in; Spain is in the EU and Schengen.`,
+        `Municipal ordinance: dogs must be on lead in all public spaces except inside marked off-leash zones, owners must pick up, and PPP breeds are always leashed and muzzled.`,
+        `Getting around: the city is walkable; TUS buses and the FEVE and Renfe Alvia trains take small dogs in a closed carrier, larger dogs need a muzzle and short lead (and advance authorisation on Alvia).`,
+        `Brittany Ferries sails from the Estación Marítima to Plymouth and Portsmouth with pet cabins and on-board kennels; UK entry needs an EU passport plus an Animal Health Certificate.`,
+        `Verified 24/7 vets: Animals Cantabria (Av. de los Castros 73, +34 942 07 09 00) in the city, and the regional referral Hospital Veterinario Cantabria in Guarnizo (24h emergency +34 608 48 38 21), about 12 km south.`,
+      ],
+      es: [
+        `Pasaporte europeo para mascotas con vacunación antirrábica válida y microchip ISO exigido al hacer el check-in en cualquier hotel pet-friendly; España está en la UE y en Schengen.`,
+        `Ordenanza municipal: los perros deben ir con correa en todos los espacios públicos salvo en las zonas sin correa señalizadas, los dueños deben recoger, y las razas PPP van siempre con correa y bozal.`,
+        `Moverse: la ciudad es caminable; los autobuses TUS y los trenes FEVE y Renfe Alvia admiten perros pequeños en transportín cerrado, los perros grandes necesitan bozal y correa corta (y autorización previa en el Alvia).`,
+        `Brittany Ferries une la Estación Marítima con Plymouth y Portsmouth con camarotes para mascotas y perreras de a bordo; la entrada al Reino Unido requiere pasaporte europeo y un certificado sanitario animal (AHC).`,
+        `Veterinarios 24h verificados: Animals Cantabria (Av. de los Castros 73, +34 942 07 09 00) en la ciudad, y el hospital de referencia regional Hospital Veterinario Cantabria en Guarnizo (urgencias 24h +34 608 48 38 21), a unos 12 km al sur.`,
+      ],
+      pt: [
+        `Passaporte europeu para animais com vacinação antirrábica válida e microchip ISO exigido no check-in em qualquer hotel pet-friendly; Espanha está na UE e no Espaço Schengen.`,
+        `Regulamento municipal: os cães devem andar com trela em todos os espaços públicos exceto nas zonas sem trela sinalizadas, os donos devem apanhar os dejetos, e as raças PPP andam sempre com trela e açaime.`,
+        `Deslocações: a cidade percorre-se a pé; os autocarros TUS e os comboios FEVE e Renfe Alvia aceitam cães pequenos em transportadora fechada, os cães maiores precisam de açaime e trela curta (e autorização prévia no Alvia).`,
+        `A Brittany Ferries liga o terminal marítimo a Plymouth e Portsmouth com camarotes para animais e canis a bordo; a entrada no Reino Unido exige passaporte europeu e um certificado sanitário animal (AHC).`,
+        `Veterinários 24h verificados: Animals Cantabria (Av. de los Castros 73, +34 942 07 09 00) na cidade, e o hospital de referência regional Hospital Veterinario Cantabria em Guarnizo (urgências 24h +34 608 48 38 21), cerca de 12 km a sul.`,
+      ],
+    },
+  },
+
   'santiago-de-compostela': {
     history: {
       fr: `Saint-Jacques-de-Compostelle naît au IXe siècle de la découverte présumée du tombeau de l'apôtre Jacques, devenant rapidement l'un des trois grands pèlerinages chrétiens médiévaux aux côtés de Rome et Jérusalem. Sa cathédrale baroque-romane, ses quatre places voûtées de granit et son centre historique inscrit à l'UNESCO en 1985 sont l'aboutissement de mille ans de marche : les pèlerins, leurs ânes et leurs chiens ont façonné une culture d'accueil exceptionnelle pour les voyageurs accompagnés d'animaux. La ville est aussi capitale de Galice, région verdoyante au climat atlantique nord, ce qui explique son 1500 mm de pluie annuelle et son ambiance résolument celto-ibérique : cornemuses, pulpo á feira et bruyères en fleurs.`,

@@ -266,25 +266,6 @@ export default async function VillaLandingPage({
           </a>
         </section>
 
-        {/* Why a villa */}
-        <section className="bg-amber-50 border border-amber-100 rounded-2xl p-6">
-          <h2 className="text-xl font-extrabold text-gray-900 mb-2">🏡 {ui.whyTitle}</h2>
-          <p className="text-gray-700 leading-relaxed">{pick(g.whyVillas, locale)}</p>
-        </section>
-
-        {/* Areas */}
-        <section>
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{ui.areasTitle(g.place)}</h2>
-          <div className="grid sm:grid-cols-2 gap-4">
-            {g.areas.map((a, i) => (
-              <div key={i} className="bg-white rounded-xl border border-gray-100 shadow-sm p-4">
-                <h3 className="font-bold text-gray-900">📍 {a.name}</h3>
-                <p className="text-sm text-gray-600 mt-1">{pick(a.note, locale)}</p>
-              </div>
-            ))}
-          </div>
-        </section>
-
         {/* Villas */}
         <section>
           <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{ui.villasTitle(g.place)}</h2>
@@ -323,6 +304,25 @@ export default async function VillaLandingPage({
                   <span className="text-sm font-bold text-amber-700 group-hover:text-amber-900">{ui.seeVilla}</span>
                 </div>
               </a>
+            ))}
+          </div>
+        </section>
+
+        {/* Why a villa */}
+        <section className="bg-amber-50 border border-amber-100 rounded-2xl p-6">
+          <h2 className="text-xl font-extrabold text-gray-900 mb-2">🏡 {ui.whyTitle}</h2>
+          <p className="text-gray-700 leading-relaxed">{pick(g.whyVillas, locale)}</p>
+        </section>
+
+        {/* Areas */}
+        <section>
+          <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{ui.areasTitle(g.place)}</h2>
+          <div className="grid sm:grid-cols-2 gap-4">
+            {g.areas.map((a, i) => (
+              <div key={i} className="bg-white rounded-xl border border-gray-100 shadow-sm p-4">
+                <h3 className="font-bold text-gray-900">📍 {a.name}</h3>
+                <p className="text-sm text-gray-600 mt-1">{pick(a.note, locale)}</p>
+              </div>
             ))}
           </div>
         </section>

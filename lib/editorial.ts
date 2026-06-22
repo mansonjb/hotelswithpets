@@ -21,6 +21,16 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    ksamil: {
+      personality: `one of the most beautiful and emerging beach destinations on the Albanian Riviera, dubbed the Maldives of Europe`,
+      highlight: `the four turquoise Ksamil islets, Pasqyra (Mirror) Beach, and the open off-season beaches where dogs roam leash-free`,
+      area: `Ksamil village, Butrint National Park, and Saranda`,
+    },
+    saranda: {
+      personality: `one of the most up-and-coming dog-friendly coastal escapes in Albania`,
+      highlight: `the Saranda seafront promenade, the Lekursi Castle viewpoint, and the Butrint UNESCO ruins`,
+      area: `the seafront promenade, the Blue Eye spring, and the hills with views across to Corfu`,
+    },
     sirmione: {
       personality: `a romantic Lake Garda peninsula town wrapped around the moated Scaliger Castle at the old-town entrance, the Grotte di Catullo Roman ruins at the peninsula tip, the white-rock Jamaica Beach lake flats, the Aquaria thermal spa and shaded lakeside promenades`,
       highlight: `Jamaica Beach, Lido delle Bionde, and the Grotte di Catullo lakeside walk`,
@@ -1584,6 +1594,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    ksamil: {
+      personality: `l'une des plus belles destinations balnéaires émergentes de la Riviera albanaise, surnommée les Maldives de l'Europe`,
+      highlight: `les quatre îlots turquoise de Ksamil, la plage de Pasqyra (Mirror Beach) et les plages ouvertes hors saison où les chiens gambadent sans laisse`,
+      area: `le village de Ksamil, le parc national de Butrint et Saranda`,
+    },
+    saranda: {
+      personality: `l'une des escapades côtières dog-friendly les plus prometteuses d'Albanie`,
+      highlight: `la promenade du front de mer de Saranda, le belvédère du château de Lekursi et les ruines UNESCO de Butrint`,
+      area: `le front de mer, la source du Blue Eye et les collines avec vue sur Corfou`,
+    },
     sirmione: {
       personality: `une ville romantique sur une péninsule du lac de Garde, blottie autour du château Scaliger entouré de douves à l'entrée de la vieille ville, des ruines romaines des Grotte di Catullo à la pointe, des dalles blanches de Jamaica Beach, des thermes Aquaria et des promenades ombragées au bord du lac`,
       highlight: `Jamaica Beach, le Lido delle Bionde et la balade au bord du lac des Grotte di Catullo`,
@@ -3146,6 +3166,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    ksamil: {
+      personality: `uno de los destinos de playa emergentes más bonitos de la Riviera albanesa, apodado las Maldivas de Europa`,
+      highlight: `los cuatro islotes turquesa de Ksamil, la playa de Pasqyra (Mirror Beach) y las playas abiertas fuera de temporada donde los perros corretean sin correa`,
+      area: `el pueblo de Ksamil, el Parque Nacional de Butrint y Saranda`,
+    },
+    saranda: {
+      personality: `una de las escapadas costeras dog-friendly más prometedoras de Albania`,
+      highlight: `el paseo marítimo de Saranda, el mirador del castillo de Lekursi y las ruinas UNESCO de Butrint`,
+      area: `el paseo marítimo, el manantial del Blue Eye y las colinas con vistas a Corfú`,
+    },
     sirmione: {
       personality: `una romántica localidad en una península del lago de Garda, envuelta en torno al castillo Scaligero rodeado de foso a la entrada del casco antiguo, las ruinas romanas de las Grotte di Catullo en la punta, las losas blancas de Jamaica Beach, el balneario termal Aquaria y los paseos sombreados junto al lago`,
       highlight: `Jamaica Beach, el Lido delle Bionde y el paseo junto al lago de las Grotte di Catullo`,
@@ -4708,6 +4738,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    ksamil: {
+      personality: `um dos destinos de praia emergentes mais bonitos da Riviera Albanesa, apelidado de Maldivas da Europa`,
+      highlight: `os quatro ilhéus turquesa de Ksamil, a praia de Pasqyra (Mirror Beach) e as praias abertas fora de época onde os cães correm sem trela`,
+      area: `a aldeia de Ksamil, o Parque Nacional de Butrint e Saranda`,
+    },
+    saranda: {
+      personality: `uma das escapadelas costeiras dog-friendly mais promissoras da Albânia`,
+      highlight: `a marginal de Saranda, o miradouro do Castelo de Lekursi e as ruínas UNESCO de Butrint`,
+      area: `a marginal, a nascente do Blue Eye e as colinas com vista para Corfu`,
+    },
     sirmione: {
       personality: `uma romântica vila numa península do Lago de Garda, envolta em torno do Castelo Scaligero rodeado por um fosso à entrada da cidade velha, das ruínas romanas das Grotte di Catullo na ponta, das lajes brancas da Jamaica Beach, das termas Aquaria e dos passeios sombreados à beira-lago`,
       highlight: `a Jamaica Beach, o Lido delle Bionde e o passeio à beira-lago das Grotte di Catullo`,

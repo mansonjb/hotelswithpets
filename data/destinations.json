@@ -23416,5 +23416,155 @@
       }
     },
     "iata": "XRY"
+  },
+  {
+    "slug": "ksamil",
+    "name": "Ksamil",
+    "country": "Albania",
+    "countryCode": "AL",
+    "flag": "🇦🇱",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/ksamil.jpg",
+    "intro": "Ksamil is a tiny village on the Albanian Riviera near Saranda, famous for turquoise water so clear it is nicknamed the Maldives of Europe. Its paid, crowded summer beaches turn into open, often leash-free dog runs in the quiet off-season from mid-September to early May.",
+    "lat": 39.7667,
+    "lng": 20.0017,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Pleasant & green",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Very hot",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Peak heat",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & calm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Wet & cooler",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "TIA"
+  },
+  {
+    "slug": "saranda",
+    "name": "Saranda",
+    "country": "Albania",
+    "countryCode": "AL",
+    "flag": "🇦🇱",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/saranda.jpg",
+    "intro": "Saranda is the sun-soaked gateway to the Albanian Riviera, a fast-emerging coastal city looking across the strait to the Greek island of Corfu. With its palm-lined promenade, the UNESCO ruins of Butrint nearby, and beaches that turn quiet and leash-free in the off-season, it is a rewarding, affordable dog-friendly escape.",
+    "lat": 39.8756,
+    "lng": 20.0053,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & changeable",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild & wet",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "TIA"
   }
 ]

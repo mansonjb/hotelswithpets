@@ -1,0 +1,948 @@
+{
+  "slug": "ksamil",
+  "name": "Ksamil",
+  "country": "Albania",
+  "flag": "🇦🇱",
+  "lastUpdated": "2026-06-22",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Ksamil",
+      "titleFr": "Restaurants acceptant les animaux à Ksamil",
+      "titleEs": "Restaurantes con mascotas en Ksamil",
+      "titlePt": "Restaurantes pet-friendly em Ksamil",
+      "introEn": "Ksamil is a small beach village where dining is overwhelmingly outdoors, and dogs are generally welcome on the open-air terraces rather than inside. The Albanian Riviera summer is intense, so book a shaded table and bring water for your dog; the village seafront taverns and Saranda, fifteen minutes away, offer the widest dog-friendly terrace choice.",
+      "introFr": "Ksamil est un petit village balnéaire où l'on mange presque exclusivement en extérieur, et les chiens sont généralement acceptés sur les terrasses plutôt qu'en salle. L'été de la Riviera albanaise est intense, alors choisissez une table à l'ombre et apportez de l'eau pour votre chien ; les tavernes du front de mer et Saranda, à quinze minutes, offrent le plus grand choix de terrasses dog-friendly.",
+      "introEs": "Ksamil es un pequeño pueblo de playa donde se come casi siempre al aire libre, y los perros suelen ser bienvenidos en las terrazas más que en el interior. El verano de la Riviera albanesa es intenso, así que reserva una mesa con sombra y lleva agua para tu perro; las tabernas del paseo marítimo y Saranda, a quince minutos, ofrecen la mayor variedad de terrazas pet-friendly.",
+      "introPt": "Ksamil é uma pequena aldeia de praia onde se come quase sempre ao ar livre, e os cães costumam ser bem-vindos nas esplanadas e não no interior. O verão da Riviera Albanesa é intenso, por isso reserve uma mesa à sombra e leve água para o seu cão; as tabernas da marginal e Saranda, a quinze minutos, oferecem a maior escolha de esplanadas dog-friendly.",
+      "places": [
+        {
+          "name": "Taverna Laberia",
+          "address": "Rruga Ksamil, Ksamil",
+          "neighborhood": "Ksamil village",
+          "photo": "",
+          "website": "",
+          "description": "A warm, family-run Albanian taverna in the heart of Ksamil known for grilled fish, byrek and friendly service. Dogs are welcome at the outdoor tables, making it an easy lunch stop after a morning on the beach.",
+          "descriptionFr": "Une taverne albanaise familiale et chaleureuse au cœur de Ksamil, réputée pour son poisson grillé, son byrek et son accueil. Les chiens sont les bienvenus aux tables extérieures, ce qui en fait une halte déjeuner facile après une matinée à la plage.",
+          "descriptionEs": "Una taberna albanesa familiar y acogedora en el centro de Ksamil, conocida por su pescado a la parrilla, el byrek y su trato amable. Los perros son bienvenidos en las mesas exteriores, lo que la convierte en una parada de almuerzo fácil tras una mañana de playa.",
+          "descriptionPt": "Uma taberna albanesa familiar e acolhedora no coração de Ksamil, conhecida pelo peixe grelhado, pelo byrek e pelo atendimento simpático. Os cães são bem-vindos nas mesas exteriores, o que faz dela uma paragem de almoço fácil depois de uma manhã na praia.",
+          "petPolicy": "Dogs welcome at outdoor tables",
+          "petPolicyFr": "Chiens acceptés aux tables extérieures",
+          "petPolicyEs": "Perros admitidos en las mesas exteriores",
+          "petPolicyPt": "Cães bem-vindos nas mesas exteriores",
+          "priceRange": "€€",
+          "mustTry": "Grilled sea bass, Albanian byrek",
+          "mustTryFr": "Bar grillé, byrek albanais",
+          "mustTryEs": "Lubina a la parrilla, byrek albanés",
+          "mustTryPt": "Robalo grelhado, byrek albanês",
+          "openingHours": "Daily, lunch and dinner (seasonal)",
+          "tip": "Ask for a shaded table at midday. Summer heat on the terrace is fierce and your dog will need the shade",
+          "tipFr": "Demandez une table à l'ombre à midi. La chaleur estivale en terrasse est rude et votre chien aura besoin de l'ombre",
+          "tipEs": "Pide una mesa con sombra al mediodía. El calor estival en la terraza es intenso y tu perro necesitará la sombra",
+          "tipPt": "Peça uma mesa à sombra ao meio-dia. O calor de verão na esplanada é intenso e o seu cão vai precisar da sombra",
+          "googleMapsUrl": "https://maps.google.com/?q=Taverna+Laberia+Ksamil"
+        },
+        {
+          "name": "Restaurant Demi",
+          "address": "Ksamil seafront, Ksamil",
+          "neighborhood": "Ksamil beachfront",
+          "photo": "",
+          "website": "",
+          "description": "A long-standing seafront restaurant with a private beach area and tables right above the water, popular for fresh seafood and sunset views. Well-behaved dogs are generally accepted in the outdoor beach-terrace area outside the busiest summer hours.",
+          "descriptionFr": "Un restaurant de bord de mer établi de longue date, avec une plage privée et des tables au-dessus de l'eau, prisé pour ses fruits de mer et ses couchers de soleil. Les chiens calmes sont généralement acceptés sur la terrasse-plage en extérieur en dehors des heures de pointe estivales.",
+          "descriptionEs": "Un restaurante de primera línea de mar veterano, con zona de playa privada y mesas justo sobre el agua, popular por el marisco fresco y las puestas de sol. Los perros tranquilos suelen ser admitidos en la terraza-playa exterior fuera de las horas punta del verano.",
+          "descriptionPt": "Um restaurante à beira-mar de longa data, com zona de praia privada e mesas mesmo sobre a água, popular pelo marisco fresco e pelo pôr do sol. Os cães bem-comportados são geralmente aceites na esplanada-praia exterior fora das horas de maior movimento do verão.",
+          "petPolicy": "Well-behaved dogs accepted on the beach terrace",
+          "petPolicyFr": "Chiens calmes acceptés sur la terrasse-plage",
+          "petPolicyEs": "Perros tranquilos admitidos en la terraza-playa",
+          "petPolicyPt": "Cães bem-comportados aceites na esplanada-praia",
+          "priceRange": "€€€",
+          "mustTry": "Fresh grilled fish, mussels",
+          "mustTryFr": "Poisson grillé du jour, moules",
+          "mustTryEs": "Pescado fresco a la parrilla, mejillones",
+          "mustTryPt": "Peixe fresco grelhado, mexilhões",
+          "openingHours": "Daily (seasonal, mainly May–October)",
+          "tip": "Confirm dog access by phone in July and August. Peak-season beach tables fill with paying sunbed guests",
+          "tipFr": "Confirmez l'accès des chiens par téléphone en juillet et août. En haute saison, les tables de plage se remplissent de clients payants",
+          "tipEs": "Confirma el acceso con perro por teléfono en julio y agosto. En temporada alta las mesas de playa se llenan de clientes de pago",
+          "tipPt": "Confirme o acesso com cão por telefone em julho e agosto. Na época alta, as mesas de praia enchem-se de clientes pagantes",
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurant+Demi+Ksamil"
+        },
+        {
+          "name": "Taverna Haxhi",
+          "address": "Saranda waterfront, Sarandë",
+          "neighborhood": "Saranda (15 min from Ksamil)",
+          "photo": "",
+          "website": "",
+          "description": "A reliable waterfront taverna in nearby Saranda where dogs are welcomed at the outdoor tables along the promenade. A good option when Ksamil's village terraces are full, with the classic Albanian Riviera mix of grilled fish, salads and local wine.",
+          "descriptionFr": "Une taverne fiable au bord de l'eau à Saranda voisine, où les chiens sont acceptés aux tables extérieures le long de la promenade. Une bonne option quand les terrasses de Ksamil sont pleines, avec le classique mélange Riviera albanaise de poisson grillé, salades et vin local.",
+          "descriptionEs": "Una taberna fiable frente al mar en la cercana Saranda, donde se admiten perros en las mesas exteriores del paseo. Una buena opción cuando las terrazas de Ksamil están llenas, con la clásica mezcla de la Riviera albanesa de pescado a la parrilla, ensaladas y vino local.",
+          "descriptionPt": "Uma taberna fiável à beira-mar na vizinha Saranda, onde os cães são bem-vindos nas mesas exteriores ao longo da marginal. Uma boa opção quando as esplanadas de Ksamil estão cheias, com a clássica combinação da Riviera Albanesa de peixe grelhado, saladas e vinho local.",
+          "petPolicy": "Dogs welcome at outdoor promenade tables",
+          "petPolicyFr": "Chiens acceptés aux tables extérieures de la promenade",
+          "petPolicyEs": "Perros admitidos en las mesas exteriores del paseo",
+          "petPolicyPt": "Cães bem-vindos nas mesas exteriores da marginal",
+          "priceRange": "€€",
+          "mustTry": "Grilled seafood platter, Greek-style salad",
+          "mustTryFr": "Plateau de fruits de mer grillés, salade à la grecque",
+          "mustTryEs": "Parrillada de marisco, ensalada al estilo griego",
+          "mustTryPt": "Travessa de marisco grelhado, salada à grega",
+          "openingHours": "Daily, lunch and dinner",
+          "tip": "Combine with an evening stroll along the Saranda promenade, where dogs are very common on patios",
+          "tipFr": "À combiner avec une promenade en soirée sur le front de mer de Saranda, où les chiens sont très courants en terrasse",
+          "tipEs": "Combínalo con un paseo nocturno por el malecón de Saranda, donde los perros son muy comunes en las terrazas",
+          "tipPt": "Combine com um passeio ao fim do dia pela marginal de Saranda, onde os cães são muito comuns nas esplanadas",
+          "googleMapsUrl": "https://maps.google.com/?q=Taverna+Haxhi+Saranda"
+        }
+      ],
+      "tipsEn": [
+        "Dining in Ksamil is almost entirely outdoors. Dogs are welcome on terraces, rarely inside.",
+        "Eat early or late in summer. Midday terrace heat on the Riviera is hard on dogs.",
+        "Saranda's seafront promenade, 15 minutes away, has the widest choice of dog-friendly patios."
+      ],
+      "tipsFr": [
+        "On mange presque exclusivement en extérieur à Ksamil. Les chiens sont acceptés en terrasse, rarement en salle.",
+        "Mangez tôt ou tard en été. La chaleur de midi en terrasse sur la Riviera est éprouvante pour les chiens.",
+        "Le front de mer de Saranda, à 15 minutes, offre le plus grand choix de terrasses dog-friendly."
+      ],
+      "tipsEs": [
+        "En Ksamil se come casi siempre al aire libre. Los perros son bienvenidos en las terrazas, rara vez dentro.",
+        "Come temprano o tarde en verano. El calor del mediodía en las terrazas de la Riviera es duro para los perros.",
+        "El paseo marítimo de Saranda, a 15 minutos, tiene la mayor variedad de terrazas pet-friendly."
+      ],
+      "tipsPt": [
+        "Em Ksamil come-se quase sempre ao ar livre. Os cães são bem-vindos nas esplanadas, raramente no interior.",
+        "Coma cedo ou tarde no verão. O calor do meio-dia nas esplanadas da Riviera é duro para os cães.",
+        "A marginal de Saranda, a 15 minutos, tem a maior escolha de esplanadas dog-friendly."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Ksamil restaurants?",
+          "a": "On outdoor terraces, generally yes. Ksamil dining is mostly open-air and well-behaved leashed dogs are welcome on most patios, though rarely inside. In peak summer, call ahead as beachfront tables fill with paying sunbed guests."
+        },
+        {
+          "q": "Where is the best dog-friendly dining near Ksamil?",
+          "a": "Ksamil village seafront taverns are convenient, but nearby Saranda (about 15 minutes) has a long promenade lined with terraces where dogs are very common. Eat outside the hottest midday hours in summer."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés dans les restaurants de Ksamil ?",
+          "a": "Sur les terrasses extérieures, oui en général. On mange surtout en plein air à Ksamil et les chiens en laisse et calmes sont acceptés sur la plupart des terrasses, rarement en salle. En haute saison, appelez à l'avance car les tables de bord de mer se remplissent de clients payants."
+        },
+        {
+          "q": "Où trouver les meilleures terrasses dog-friendly près de Ksamil ?",
+          "a": "Les tavernes du front de mer de Ksamil sont pratiques, mais Saranda voisine (environ 15 minutes) possède une longue promenade bordée de terrasses où les chiens sont très courants. Évitez les heures les plus chaudes de la journée en été."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Ksamil?",
+          "a": "En las terrazas exteriores, por lo general sí. En Ksamil se come sobre todo al aire libre y los perros con correa y tranquilos son bienvenidos en casi todas las terrazas, rara vez dentro. En pleno verano, llama antes porque las mesas frente al mar se llenan de clientes de pago."
+        },
+        {
+          "q": "¿Dónde están las mejores terrazas pet-friendly cerca de Ksamil?",
+          "a": "Las tabernas del paseo marítimo de Ksamil son cómodas, pero la cercana Saranda (unos 15 minutos) tiene un largo malecón con terrazas donde los perros son muy comunes. Come fuera de las horas más calurosas del mediodía en verano."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são permitidos nos restaurantes de Ksamil?",
+          "a": "Nas esplanadas exteriores, em geral sim. Em Ksamil come-se sobretudo ao ar livre e os cães com trela e bem-comportados são bem-vindos na maioria das esplanadas, raramente no interior. Na época alta, telefone antes, pois as mesas à beira-mar enchem-se de clientes pagantes."
+        },
+        {
+          "q": "Onde estão as melhores esplanadas dog-friendly perto de Ksamil?",
+          "a": "As tabernas da marginal de Ksamil são práticas, mas a vizinha Saranda (cerca de 15 minutos) tem uma longa marginal repleta de esplanadas onde os cães são muito comuns. Coma fora das horas de maior calor do meio-dia no verão."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Walks & Green Spaces in Ksamil",
+      "titleFr": "Balades et espaces verts avec son chien à Ksamil",
+      "titleEs": "Paseos y espacios verdes con perros en Ksamil",
+      "titlePt": "Passeios e espaços verdes para cães em Ksamil",
+      "introEn": "Ksamil has no formal city parks, but its real green space is the coastal nature all around it: the pine-shaded headlands, the Butrint National Park wetlands, and quiet off-season beaches that double as open dog runs. Keep dogs leashed in the protected Butrint area, and walk early or late to avoid the fierce Riviera summer heat.",
+      "introFr": "Ksamil n'a pas de parc urbain officiel, mais son véritable espace vert est la nature côtière tout autour : les promontoires ombragés de pins, les zones humides du parc national de Butrint et les plages tranquilles hors saison qui font office de terrains de liberté. Tenez les chiens en laisse dans la zone protégée de Butrint et promenez-vous tôt ou tard pour éviter la chaleur estivale.",
+      "introEs": "Ksamil no tiene parques urbanos formales, pero su verdadero espacio verde es la naturaleza costera que lo rodea: los promontorios con sombra de pinos, los humedales del Parque Nacional de Butrint y las playas tranquilas fuera de temporada que sirven de zonas de carrera. Mantén a los perros con correa en la zona protegida de Butrint y pasea temprano o tarde para evitar el intenso calor estival.",
+      "introPt": "Ksamil não tem parques urbanos formais, mas o seu verdadeiro espaço verde é a natureza costeira em redor: os promontórios sombreados de pinheiros, as zonas húmidas do Parque Nacional de Butrint e as praias tranquilas fora de época que servem de zonas de corrida. Mantenha os cães com trela na zona protegida de Butrint e passeie cedo ou ao fim do dia para evitar o forte calor de verão.",
+      "places": [
+        {
+          "name": "Butrint National Park trails",
+          "type": "UNESCO park, nature & ruins trails",
+          "photo": "",
+          "website": "",
+          "description": "The UNESCO-listed Butrint National Park, just south of Ksamil, combines ancient Greek and Roman ruins with lagoon and woodland trails. Dogs are allowed on a leash through the archaeological site and nature paths, making it a shaded, history-rich walk away from the beach crowds.",
+          "descriptionFr": "Le parc national de Butrint, classé à l'UNESCO, juste au sud de Ksamil, mêle ruines grecques et romaines à des sentiers de lagune et de forêt. Les chiens sont admis en laisse à travers le site archéologique et les chemins de nature, pour une balade ombragée et riche en histoire, loin de la foule des plages.",
+          "descriptionEs": "El Parque Nacional de Butrint, declarado Patrimonio de la UNESCO, justo al sur de Ksamil, combina ruinas griegas y romanas con senderos de laguna y bosque. Los perros se admiten con correa por el yacimiento arqueológico y los caminos naturales, para un paseo con sombra y lleno de historia, lejos de las multitudes de la playa.",
+          "descriptionPt": "O Parque Nacional de Butrint, classificado pela UNESCO, mesmo a sul de Ksamil, combina ruínas gregas e romanas com trilhos de lagoa e bosque. Os cães são admitidos com trela pelo sítio arqueológico e pelos caminhos naturais, para um passeio sombreado e rico em história, longe das multidões da praia.",
+          "offLeash": false,
+          "offLeashArea": "None. Dogs must stay leashed throughout the protected park",
+          "offLeashAreaFr": "Aucune. Les chiens doivent rester en laisse dans tout le parc protégé",
+          "offLeashAreaEs": "Ninguna. Los perros deben ir con correa en todo el parque protegido",
+          "offLeashAreaPt": "Nenhuma. Os cães têm de andar com trela em todo o parque protegido",
+          "tip": "Go early. The site is exposed and hot by late morning. Bring water for your dog as fountains are limited",
+          "tipFr": "Allez-y tôt. Le site est exposé et chaud en fin de matinée. Apportez de l'eau pour votre chien, les fontaines sont rares",
+          "tipEs": "Ve temprano. El sitio está expuesto y hace calor a media mañana. Lleva agua para tu perro, hay pocas fuentes",
+          "tipPt": "Vá cedo. O sítio é exposto e quente ao fim da manhã. Leve água para o seu cão, pois há poucas fontes",
+          "googleMapsUrl": "https://maps.google.com/?q=Butrint+National+Park"
+        },
+        {
+          "name": "Ksamil headland pine paths",
+          "type": "Coastal walking paths",
+          "photo": "",
+          "website": "",
+          "description": "The low headlands around Ksamil are dotted with Mediterranean pine and scrub, with informal coastal paths that link the coves and offer shade and sea views. These quiet tracks are ideal for an early-morning leashed walk before the beaches fill up.",
+          "descriptionFr": "Les promontoires bas autour de Ksamil sont parsemés de pins méditerranéens et de maquis, avec des sentiers côtiers informels reliant les criques, offrant ombre et vues sur la mer. Ces pistes tranquilles sont idéales pour une balade matinale en laisse avant que les plages ne se remplissent.",
+          "descriptionEs": "Los promontorios bajos alrededor de Ksamil están salpicados de pinos mediterráneos y matorral, con caminos costeros informales que enlazan las calas y ofrecen sombra y vistas al mar. Estas sendas tranquilas son ideales para un paseo matutino con correa antes de que se llenen las playas.",
+          "descriptionPt": "Os promontórios baixos à volta de Ksamil estão salpicados de pinheiros mediterrânicos e matagal, com caminhos costeiros informais que ligam as enseadas e oferecem sombra e vistas de mar. Estes trilhos tranquilos são ideais para um passeio matinal com trela antes de as praias encherem.",
+          "offLeash": false,
+          "offLeashArea": "Informal. Keep dogs leashed near roads and busy coves",
+          "offLeashAreaFr": "Informel. Gardez les chiens en laisse près des routes et des criques fréquentées",
+          "offLeashAreaEs": "Informal. Mantén a los perros con correa cerca de carreteras y calas concurridas",
+          "offLeashAreaPt": "Informal. Mantenha os cães com trela perto de estradas e enseadas movimentadas",
+          "tip": "Watch for loose paving and prickly scrub. Check your dog's paws after walks in dry summer terrain",
+          "tipFr": "Attention aux dalles instables et au maquis épineux. Vérifiez les pattes de votre chien après les balades en terrain sec",
+          "tipEs": "Cuidado con el pavimento suelto y el matorral con pinchos. Revisa las patas de tu perro tras los paseos en terreno seco",
+          "tipPt": "Atenção ao pavimento solto e ao matagal espinhoso. Verifique as patas do seu cão após os passeios em terreno seco de verão",
+          "googleMapsUrl": "https://maps.google.com/?q=Ksamil+Albania"
+        },
+        {
+          "name": "Off-season Ksamil beaches as dog runs",
+          "type": "Open sand, leash-free off-season",
+          "photo": "",
+          "website": "",
+          "description": "From roughly mid-September to early May, Ksamil's sandy coves clear of sunbeds and become wide-open spaces where dogs can roam and swim, often leash-free and almost empty. This is the village's true off-season dog run, with calm, shallow turquoise water ideal for nervous swimmers.",
+          "descriptionFr": "De la mi-septembre au début mai environ, les criques de sable de Ksamil se vident de leurs transats et deviennent de vastes espaces où les chiens peuvent gambader et nager, souvent sans laisse et presque déserts. C'est le véritable terrain de liberté hors saison du village, avec une eau turquoise calme et peu profonde, idéale pour les nageurs craintifs.",
+          "descriptionEs": "Desde mediados de septiembre hasta principios de mayo aproximadamente, las calas de arena de Ksamil se vacían de hamacas y se convierten en amplios espacios donde los perros pueden corretear y nadar, a menudo sin correa y casi vacíos. Es la verdadera zona de carrera de temporada baja del pueblo, con agua turquesa tranquila y poco profunda, ideal para nadadores temerosos.",
+          "descriptionPt": "Sensivelmente de meados de setembro a início de maio, as enseadas de areia de Ksamil ficam livres de espreguiçadeiras e tornam-se amplos espaços onde os cães podem correr e nadar, muitas vezes sem trela e quase vazios. É a verdadeira zona de corrida de época baixa da aldeia, com água turquesa calma e pouco funda, ideal para nadadores receosos.",
+          "offLeash": true,
+          "offLeashArea": "Most beaches off-season (mid-Sept to early May). Leash required in peak summer",
+          "offLeashAreaFr": "La plupart des plages hors saison (mi-sept. à début mai). Laisse obligatoire en plein été",
+          "offLeashAreaEs": "La mayoría de las playas fuera de temporada (mediados de sept. a principios de mayo). Correa obligatoria en pleno verano",
+          "offLeashAreaPt": "A maioria das praias fora de época (meados de set. a início de maio). Trela obrigatória em pleno verão",
+          "tip": "September and October are ideal. Warm sea, empty sand, and dogs roam freely once the sunbeds are gone",
+          "tipFr": "Septembre et octobre sont idéaux. Mer chaude, sable désert, et les chiens gambadent librement une fois les transats partis",
+          "tipEs": "Septiembre y octubre son ideales. Mar cálido, arena vacía y los perros corretean libres una vez retiradas las hamacas",
+          "tipPt": "Setembro e outubro são ideais. Mar quente, areia vazia e os cães correm à solta assim que as espreguiçadeiras desaparecem",
+          "googleMapsUrl": "https://maps.google.com/?q=Ksamil+Beach"
+        }
+      ],
+      "tipsEn": [
+        "Ksamil has no fenced dog parks. The coastline and Butrint trails are the green space.",
+        "In Butrint National Park dogs must stay on a leash to protect wildlife and other visitors.",
+        "Summer ground gets very hot. Walk on sand or shaded paths early or after sunset to protect paws."
+      ],
+      "tipsFr": [
+        "Ksamil n'a pas de parc à chiens clôturé. Le littoral et les sentiers de Butrint sont l'espace vert.",
+        "Dans le parc national de Butrint, les chiens doivent rester en laisse pour protéger la faune et les visiteurs.",
+        "Le sol devient brûlant en été. Marchez sur le sable ou des chemins ombragés tôt ou après le coucher du soleil."
+      ],
+      "tipsEs": [
+        "Ksamil no tiene parques caninos vallados. La costa y los senderos de Butrint son el espacio verde.",
+        "En el Parque Nacional de Butrint los perros deben ir con correa para proteger la fauna y a los visitantes.",
+        "El suelo se calienta mucho en verano. Pasea por la arena o caminos con sombra temprano o tras la puesta de sol."
+      ],
+      "tipsPt": [
+        "Ksamil não tem parques para cães vedados. A costa e os trilhos de Butrint são o espaço verde.",
+        "No Parque Nacional de Butrint os cães têm de andar com trela para proteger a fauna e os visitantes.",
+        "O chão fica muito quente no verão. Passeie na areia ou em caminhos sombreados cedo ou após o pôr do sol."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there dog parks in Ksamil?",
+          "a": "No fenced dog parks exist in Ksamil. Instead, dogs enjoy the coastal pine paths, the leashed trails of Butrint National Park, and the open off-season beaches, which become near-empty dog runs from mid-September to early May."
+        },
+        {
+          "q": "Can I walk my dog in Butrint National Park?",
+          "a": "Yes, on a leash. The UNESCO-listed Butrint park allows leashed dogs through its ruins and nature trails. Go early in summer as the site is exposed, carry water, and keep your dog close to other visitors and wildlife."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des parcs à chiens à Ksamil ?",
+          "a": "Il n'existe pas de parc à chiens clôturé à Ksamil. Les chiens profitent plutôt des sentiers côtiers de pins, des chemins en laisse du parc national de Butrint et des plages ouvertes hors saison, qui deviennent des terrains de liberté quasi déserts de mi-septembre à début mai."
+        },
+        {
+          "q": "Puis-je promener mon chien dans le parc national de Butrint ?",
+          "a": "Oui, en laisse. Le parc de Butrint, classé à l'UNESCO, autorise les chiens en laisse à travers ses ruines et sentiers nature. Allez-y tôt en été car le site est exposé, emportez de l'eau et gardez votre chien près de vous."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay parques para perros en Ksamil?",
+          "a": "No existen parques caninos vallados en Ksamil. Los perros disfrutan de los caminos costeros de pinos, los senderos con correa del Parque Nacional de Butrint y las playas abiertas fuera de temporada, que se convierten en zonas de carrera casi vacías de mediados de septiembre a principios de mayo."
+        },
+        {
+          "q": "¿Puedo pasear a mi perro en el Parque Nacional de Butrint?",
+          "a": "Sí, con correa. El parque de Butrint, Patrimonio de la UNESCO, admite perros con correa por sus ruinas y senderos naturales. Ve temprano en verano porque el sitio está expuesto, lleva agua y mantén a tu perro cerca."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há parques para cães em Ksamil?",
+          "a": "Não existem parques para cães vedados em Ksamil. Os cães desfrutam dos caminhos costeiros de pinheiros, dos trilhos com trela do Parque Nacional de Butrint e das praias abertas fora de época, que se tornam zonas de corrida quase vazias de meados de setembro a início de maio."
+        },
+        {
+          "q": "Posso passear o meu cão no Parque Nacional de Butrint?",
+          "a": "Sim, com trela. O parque de Butrint, classificado pela UNESCO, admite cães com trela pelas suas ruínas e trilhos naturais. Vá cedo no verão, pois o sítio é exposto, leve água e mantenha o seu cão por perto."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Ksamil",
+      "titleFr": "Voyager avec son animal à Ksamil",
+      "titleEs": "Viajar con mascotas en Ksamil",
+      "titlePt": "Viajar com animais em Ksamil",
+      "introEn": "Ksamil is a small, walkable village with no rail link, so getting here means the bus or shared minibus (furgon) from Saranda, a private car, or the ferry from Corfu via Saranda. Public transport in Albania is informal and pet rules are at the driver's discretion, so a carrier and a calm, leashed dog make every option easier; in summer, never leave a dog in a parked car.",
+      "introFr": "Ksamil est un petit village où l'on circule à pied, sans liaison ferroviaire ; pour y venir, on prend le bus ou le minibus partagé (furgon) depuis Saranda, une voiture privée, ou le ferry depuis Corfou via Saranda. Les transports en Albanie sont informels et les règles pour animaux dépendent du chauffeur ; une caisse de transport et un chien calme en laisse facilitent tout. En été, ne laissez jamais un chien dans une voiture garée.",
+      "introEs": "Ksamil es un pueblo pequeño y caminable sin enlace ferroviario, así que llegar implica el autobús o el minibús compartido (furgon) desde Saranda, coche privado o el ferry desde Corfú vía Saranda. El transporte público en Albania es informal y las normas para mascotas quedan a criterio del conductor, así que un transportín y un perro tranquilo con correa facilitan todo. En verano, nunca dejes a un perro en un coche aparcado.",
+      "introPt": "Ksamil é uma aldeia pequena e percorrível a pé, sem ligação ferroviária, por isso chegar implica o autocarro ou o minibus partilhado (furgon) a partir de Saranda, carro privado ou o ferry de Corfu via Saranda. O transporte público na Albânia é informal e as regras para animais ficam ao critério do condutor, por isso uma caixa de transporte e um cão calmo com trela facilitam tudo. No verão, nunca deixe um cão num carro estacionado.",
+      "rules": [
+        {
+          "mode": "Bus & Minibus (Furgon) Saranda–Ksamil",
+          "modeFr": "Bus et minibus (Furgon) Saranda–Ksamil",
+          "modeEs": "Autobús y minibús (Furgon) Saranda–Ksamil",
+          "modePt": "Autocarro e minibus (Furgon) Saranda–Ksamil",
+          "policy": "Frequent local buses and shared furgon minibuses run between Saranda and Ksamil in season (roughly 30–40 minutes). There is no fixed national pet rule. Acceptance is at the driver's discretion. Small dogs in a carrier are usually fine; larger dogs may be refused on a crowded vehicle.",
+          "policyFr": "Des bus locaux fréquents et des minibus furgon partagés circulent entre Saranda et Ksamil en saison (environ 30 à 40 minutes). Il n'y a pas de règle nationale fixe pour les animaux. L'acceptation dépend du chauffeur. Les petits chiens en caisse passent généralement ; les grands chiens peuvent être refusés sur un véhicule bondé.",
+          "policyEs": "Frecuentes autobuses locales y minibuses furgon compartidos circulan entre Saranda y Ksamil en temporada (unos 30 a 40 minutos). No hay norma nacional fija para mascotas. La admisión queda a criterio del conductor. Los perros pequeños en transportín suelen ir bien; los grandes pueden ser rechazados en un vehículo lleno.",
+          "policyPt": "Autocarros locais frequentes e minibus furgon partilhados circulam entre Saranda e Ksamil na época (cerca de 30 a 40 minutos). Não há regra nacional fixa para animais. A aceitação fica ao critério do condutor. Os cães pequenos numa caixa costumam ir bem; os maiores podem ser recusados num veículo cheio.",
+          "tip": "Travel with a carrier and outside peak hours. Quieter vehicles make drivers far more relaxed about a dog.",
+          "tipFr": "Voyagez avec une caisse et en dehors des heures de pointe. Les véhicules calmes rendent les chauffeurs bien plus souples avec un chien.",
+          "tipEs": "Viaja con un transportín y fuera de las horas punta. Los vehículos más tranquilos hacen que los conductores sean más flexibles con un perro.",
+          "tipPt": "Viaje com uma caixa e fora das horas de ponta. Os veículos mais vazios deixam os condutores bem mais à vontade com um cão."
+        },
+        {
+          "mode": "Saranda–Corfu Ferry",
+          "modeFr": "Ferry Saranda–Corfou",
+          "modeEs": "Ferry Saranda–Corfú",
+          "modePt": "Ferry Saranda–Corfu",
+          "policy": "Operators such as Finikas Lines run the short Saranda–Corfu crossing. Pets are usually accepted, often free, but must be booked in advance and travel on deck in a carrier or leashed and muzzled, not in indoor cabins. Owners must carry the pet's original, up-to-date health documents (EU pet passport for the EU leg).",
+          "policyFr": "Des compagnies comme Finikas Lines assurent la courte traversée Saranda–Corfou. Les animaux sont généralement acceptés, souvent gratuitement, mais doivent être réservés à l'avance et voyager sur le pont en caisse ou en laisse et muselés, pas dans les cabines intérieures. Les propriétaires doivent présenter les documents sanitaires originaux à jour (passeport européen pour le trajet UE).",
+          "policyEs": "Compañías como Finikas Lines operan la corta travesía Saranda–Corfú. Las mascotas suelen aceptarse, a menudo gratis, pero deben reservarse con antelación y viajar en cubierta en transportín o con correa y bozal, no en cabinas interiores. Los dueños deben llevar los documentos sanitarios originales actualizados (pasaporte europeo para el tramo UE).",
+          "policyPt": "Operadoras como a Finikas Lines fazem a curta travessia Saranda–Corfu. Os animais costumam ser aceites, muitas vezes grátis, mas têm de ser reservados com antecedência e viajar no convés em caixa ou com trela e açaime, não em cabines interiores. Os donos têm de levar os documentos sanitários originais atualizados (passaporte europeu para o trajeto na UE).",
+          "tip": "Confirm the pet policy directly with the operator before booking. Crossing into EU Greece requires the full EU pet paperwork.",
+          "tipFr": "Confirmez la politique animaux directement avec la compagnie avant de réserver. Entrer en Grèce (UE) exige le dossier européen complet.",
+          "tipEs": "Confirma la política de mascotas directamente con la naviera antes de reservar. Entrar en Grecia (UE) exige el papeleo europeo completo.",
+          "tipPt": "Confirme a política de animais diretamente com a operadora antes de reservar. Entrar na Grécia (UE) exige toda a documentação europeia."
+        },
+        {
+          "mode": "Taxi & Private Car",
+          "modeFr": "Taxi et voiture privée",
+          "modeEs": "Taxi y coche privado",
+          "modePt": "Táxi e carro privado",
+          "policy": "Taxis and private transfers are the easiest way to move with a dog around Ksamil and Saranda. Acceptance varies by driver, so agree on the dog before getting in. There is no meter culture, so confirm the fare in advance. Bring a blanket or carrier to protect seats.",
+          "policyFr": "Les taxis et transferts privés sont le moyen le plus simple de se déplacer avec un chien autour de Ksamil et Saranda. L'acceptation varie selon le chauffeur, alors convenez du chien avant de monter. Il n'y a pas de compteur, confirmez le prix à l'avance. Apportez une couverture ou une caisse pour protéger les sièges.",
+          "policyEs": "Los taxis y traslados privados son la forma más fácil de moverse con un perro por Ksamil y Saranda. La admisión varía según el conductor, así que acuerda lo del perro antes de subir. No hay taxímetro, confirma la tarifa con antelación. Lleva una manta o transportín para proteger los asientos.",
+          "policyPt": "Os táxis e transferes privados são a forma mais fácil de circular com um cão por Ksamil e Saranda. A aceitação varia conforme o condutor, por isso combine o cão antes de entrar. Não há cultura de taxímetro, confirme o valor à partida. Leve uma manta ou caixa para proteger os bancos.",
+          "tip": "Never leave a dog in a parked or transfer car in summer. Albanian Riviera heat turns a vehicle deadly within minutes.",
+          "tipFr": "Ne laissez jamais un chien dans une voiture garée en été. La chaleur de la Riviera albanaise rend un véhicule mortel en quelques minutes.",
+          "tipEs": "Nunca dejes a un perro en un coche aparcado en verano. El calor de la Riviera albanesa hace mortal un vehículo en minutos.",
+          "tipPt": "Nunca deixe um cão num carro estacionado no verão. O calor da Riviera Albanesa torna um veículo mortal em minutos."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Getting to and around Ksamil",
+          "titleFr": "Rejoindre et circuler à Ksamil",
+          "titleEs": "Llegar y moverse por Ksamil",
+          "titlePt": "Chegar e circular em Ksamil",
+          "contentEn": "Ksamil has no airport or train station. The nearest airport is Tirana (TIA), about 4 hours by road, and Albania's official pet entry point is Tirana airport. Most visitors arrive via Saranda, the regional hub 15 km north, reached by long-distance bus from Tirana or by the short ferry from Corfu. From Saranda, local buses, furgon minibuses, taxis and private transfers cover the final stretch to Ksamil. The village itself is compact and easily explored on foot with a dog.",
+          "contentFr": "Ksamil n'a ni aéroport ni gare. L'aéroport le plus proche est Tirana (TIA), à environ 4 heures de route, et le point d'entrée officiel pour les animaux en Albanie est l'aéroport de Tirana. La plupart des visiteurs passent par Saranda, le pôle régional à 15 km au nord, accessible par bus longue distance depuis Tirana ou par le court ferry depuis Corfou. Depuis Saranda, bus locaux, minibus furgon, taxis et transferts privés assurent le dernier tronçon vers Ksamil. Le village lui-même est compact et se visite facilement à pied avec un chien.",
+          "contentEs": "Ksamil no tiene aeropuerto ni estación de tren. El aeropuerto más cercano es Tirana (TIA), a unas 4 horas por carretera, y el punto de entrada oficial para mascotas en Albania es el aeropuerto de Tirana. La mayoría de los visitantes llegan vía Saranda, el centro regional a 15 km al norte, al que se accede en autobús de larga distancia desde Tirana o en el corto ferry desde Corfú. Desde Saranda, autobuses locales, minibuses furgon, taxis y traslados privados cubren el último tramo hasta Ksamil. El pueblo es compacto y se explora fácilmente a pie con un perro.",
+          "contentPt": "Ksamil não tem aeroporto nem estação de comboio. O aeroporto mais próximo é Tirana (TIA), a cerca de 4 horas de estrada, e o ponto de entrada oficial para animais na Albânia é o aeroporto de Tirana. A maioria dos visitantes chega via Saranda, o polo regional a 15 km a norte, alcançado por autocarro de longa distância de Tirana ou pelo curto ferry de Corfu. A partir de Saranda, autocarros locais, minibus furgon, táxis e transferes privados fazem o último troço até Ksamil. A própria aldeia é compacta e explora-se facilmente a pé com um cão."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog on the bus from Saranda to Ksamil?",
+          "a": "There is no fixed national rule. Acceptance is at the driver's discretion. Small dogs in a carrier are usually fine, larger dogs may be refused on a crowded furgon. Travel with a carrier and outside peak hours for the best chance."
+        },
+        {
+          "q": "Are pets allowed on the Saranda–Corfu ferry?",
+          "a": "Usually yes, often free, but you must book the pet in advance and it travels on deck in a carrier or leashed and muzzled, not in indoor cabins. Carry original health documents and confirm the policy with the operator, as rules vary."
+        },
+        {
+          "q": "How do I get to Ksamil with a dog?",
+          "a": "Fly into Tirana (TIA), Albania's official pet entry airport, then drive or bus about 4 hours to Saranda, or take the ferry from Corfu to Saranda. From Saranda, a taxi or private transfer is the easiest way to reach Ksamil with a pet."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je monter dans le bus de Saranda à Ksamil avec mon chien ?",
+          "a": "Il n'y a pas de règle nationale fixe. L'acceptation dépend du chauffeur. Les petits chiens en caisse passent généralement, les grands peuvent être refusés sur un furgon bondé. Voyagez avec une caisse et hors des heures de pointe pour maximiser vos chances."
+        },
+        {
+          "q": "Les animaux sont-ils admis sur le ferry Saranda–Corfou ?",
+          "a": "En général oui, souvent gratuitement, mais vous devez réserver l'animal à l'avance et il voyage sur le pont en caisse ou en laisse et muselé, pas dans les cabines intérieures. Emportez les documents sanitaires originaux et confirmez avec la compagnie, les règles varient."
+        },
+        {
+          "q": "Comment rejoindre Ksamil avec un chien ?",
+          "a": "Atterrissez à Tirana (TIA), l'aéroport d'entrée officiel pour les animaux en Albanie, puis comptez environ 4 heures de route ou de bus jusqu'à Saranda, ou prenez le ferry depuis Corfou. Depuis Saranda, un taxi ou un transfert privé est le plus simple pour gagner Ksamil avec un animal."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el autobús de Saranda a Ksamil?",
+          "a": "No hay norma nacional fija. La admisión queda a criterio del conductor. Los perros pequeños en transportín suelen ir bien, los grandes pueden ser rechazados en un furgon lleno. Viaja con transportín y fuera de las horas punta para tener más opciones."
+        },
+        {
+          "q": "¿Se admiten mascotas en el ferry Saranda–Corfú?",
+          "a": "Normalmente sí, a menudo gratis, pero debes reservar la mascota con antelación y viaja en cubierta en transportín o con correa y bozal, no en cabinas interiores. Lleva los documentos sanitarios originales y confirma la política con la naviera, ya que las normas varían."
+        },
+        {
+          "q": "¿Cómo llego a Ksamil con un perro?",
+          "a": "Vuela a Tirana (TIA), el aeropuerto oficial de entrada de mascotas en Albania, y luego conduce o ve en autobús unas 4 horas hasta Saranda, o toma el ferry desde Corfú. Desde Saranda, un taxi o traslado privado es lo más fácil para llegar a Ksamil con una mascota."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão no autocarro de Saranda para Ksamil?",
+          "a": "Não há regra nacional fixa. A aceitação fica ao critério do condutor. Os cães pequenos numa caixa costumam ir bem, os maiores podem ser recusados num furgon cheio. Viaje com caixa e fora das horas de ponta para ter mais hipóteses."
+        },
+        {
+          "q": "Os animais são permitidos no ferry Saranda–Corfu?",
+          "a": "Normalmente sim, muitas vezes grátis, mas tem de reservar o animal com antecedência e este viaja no convés em caixa ou com trela e açaime, não em cabines interiores. Leve os documentos sanitários originais e confirme a política com a operadora, pois as regras variam."
+        },
+        {
+          "q": "Como chego a Ksamil com um cão?",
+          "a": "Voe para Tirana (TIA), o aeroporto oficial de entrada de animais na Albânia, e depois conduza ou apanhe o autocarro cerca de 4 horas até Saranda, ou apanhe o ferry de Corfu. A partir de Saranda, um táxi ou transfer privado é o mais fácil para chegar a Ksamil com um animal."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Ksamil",
+      "titleFr": "Plages accessibles aux chiens à Ksamil",
+      "titleEs": "Playas para perros en Ksamil",
+      "titlePt": "Praias dog-friendly em Ksamil",
+      "introEn": "Ksamil is famous for some of the clearest turquoise water in Europe, but its dog story is strongly seasonal. In peak summer the coves are paid, packed and carpeted with sunbeds where dogs are often unwelcome, while from roughly mid-September to early May the beaches empty out and become open, frequently leash-free space where dogs can swim and roam. The off-season is the dog owner's window.",
+      "introFr": "Ksamil est célèbre pour son eau turquoise parmi les plus claires d'Europe, mais sa situation pour les chiens est très saisonnière. En plein été, les criques sont payantes, bondées et tapissées de transats où les chiens sont souvent indésirables, tandis que de la mi-septembre au début mai environ, les plages se vident et deviennent des espaces ouverts, souvent sans laisse, où les chiens peuvent nager et gambader. La basse saison est la fenêtre du maître.",
+      "introEs": "Ksamil es famoso por tener una de las aguas turquesas más claras de Europa, pero su situación para perros es muy estacional. En pleno verano las calas son de pago, están abarrotadas y cubiertas de hamacas donde los perros suelen no ser bienvenidos, mientras que desde mediados de septiembre hasta principios de mayo aproximadamente las playas se vacían y se convierten en espacios abiertos, a menudo sin correa, donde los perros pueden nadar y corretear. La temporada baja es la ventana del dueño.",
+      "introPt": "Ksamil é famoso por ter uma das águas turquesa mais claras da Europa, mas a sua situação para cães é muito sazonal. Em pleno verão as enseadas são pagas, apinhadas e cobertas de espreguiçadeiras onde os cães são muitas vezes indesejados, enquanto de meados de setembro a início de maio, sensivelmente, as praias esvaziam-se e tornam-se espaços abertos, muitas vezes sem trela, onde os cães podem nadar e correr. A época baixa é a janela do dono.",
+      "places": [
+        {
+          "name": "Pasqyra (Mirror) Beach",
+          "distance": "About 4 km south of Ksamil centre",
+          "description": "Pasqyra, or Mirror Beach, is a wilder cove south of the village famous for exceptionally clear, reflective water. In summer it is covered in paid sunbeds and crowded, but off-season it reverts to a quiet, open beach where leashed and often leash-free dogs are welcome.",
+          "season": "Best for dogs mid-Sept to early May",
+          "rules": "Off-leash commonly tolerated off-season. In peak summer dogs are often unwelcome on the sunbed sections.",
+          "facilities": "Beach bars and sunbeds in season, limited off-season",
+          "googleMapsUrl": "https://maps.google.com/?q=Pasqyra+Beach+Ksamil",
+          "photo": ""
+        },
+        {
+          "name": "Ksamil main coves & islets",
+          "distance": "Ksamil village seafront",
+          "description": "The central Ksamil coves face four small islets, two linked by a sandbar and reachable by kayak or water taxi. In summer the sand is wall-to-wall paid sunbeds with little room for dogs, but in the off-season the coves open up and become a calm, shallow swimming spot ideal for dogs.",
+          "season": "Dog-friendly mainly off-season",
+          "rules": "Leash required in summer where sunbeds operate. Off-season the coves are largely open and leash-free.",
+          "facilities": "Restaurants, water taxis to the islets, parking nearby",
+          "googleMapsUrl": "https://maps.google.com/?q=Ksamil+Islands",
+          "photo": ""
+        },
+        {
+          "name": "Manastiri (Monastery) Beach",
+          "distance": "About 3 km from Ksamil centre",
+          "description": "A scenic cove near a small monastery, slightly less developed than the central beaches and backed by greenery. Like the rest of Ksamil it is busy and sunbed-covered in high summer, but it makes a lovely quiet, open dog beach in the shoulder and off-season months.",
+          "season": "Best for dogs shoulder & off-season",
+          "rules": "Same seasonal pattern. Keep dogs leashed where sunbeds and crowds are present in summer.",
+          "facilities": "Beach bar in season, limited facilities off-season",
+          "googleMapsUrl": "https://maps.google.com/?q=Manastiri+Beach+Ksamil",
+          "photo": ""
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to the beach in Ksamil?",
+          "a": "It depends heavily on the season. In peak summer (June to August) most Ksamil beaches are paid, crowded and sunbed-covered, and dogs are often unwelcome. From mid-September to early May the beaches empty and become open, frequently leash-free space where dogs can swim and roam freely."
+        },
+        {
+          "q": "When is the best time to visit Ksamil beaches with a dog?",
+          "a": "The off-season, roughly mid-September to early May, is ideal. September and October still have warm sea and almost empty sand. The water at beaches like Pasqyra is famously clear, calm and shallow, perfect for dogs once the sunbeds are gone."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à la plage à Ksamil ?",
+          "a": "Cela dépend fortement de la saison. En plein été (juin à août), la plupart des plages de Ksamil sont payantes, bondées et couvertes de transats, et les chiens y sont souvent indésirables. De mi-septembre à début mai, les plages se vident et deviennent des espaces ouverts, souvent sans laisse, où les chiens peuvent nager et gambader librement."
+        },
+        {
+          "q": "Quelle est la meilleure période pour aller à la plage avec son chien à Ksamil ?",
+          "a": "La basse saison, environ de mi-septembre à début mai, est idéale. Septembre et octobre offrent encore une mer chaude et un sable quasi désert. L'eau de plages comme Pasqyra est réputée claire, calme et peu profonde, parfaite pour les chiens une fois les transats partis."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a la playa en Ksamil?",
+          "a": "Depende mucho de la temporada. En pleno verano (junio a agosto) la mayoría de las playas de Ksamil son de pago, están abarrotadas y cubiertas de hamacas, y los perros suelen no ser bienvenidos. De mediados de septiembre a principios de mayo las playas se vacían y se convierten en espacios abiertos, a menudo sin correa, donde los perros pueden nadar y corretear libremente."
+        },
+        {
+          "q": "¿Cuál es la mejor época para visitar las playas de Ksamil con un perro?",
+          "a": "La temporada baja, aproximadamente de mediados de septiembre a principios de mayo, es ideal. Septiembre y octubre aún tienen mar cálido y arena casi vacía. El agua de playas como Pasqyra es famosa por ser clara, tranquila y poco profunda, perfecta para perros una vez retiradas las hamacas."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão à praia em Ksamil?",
+          "a": "Depende muito da época. Em pleno verão (junho a agosto) a maioria das praias de Ksamil é paga, apinhada e coberta de espreguiçadeiras, e os cães são muitas vezes indesejados. De meados de setembro a início de maio as praias esvaziam-se e tornam-se espaços abertos, muitas vezes sem trela, onde os cães podem nadar e correr livremente."
+        },
+        {
+          "q": "Qual é a melhor altura para visitar as praias de Ksamil com um cão?",
+          "a": "A época baixa, sensivelmente de meados de setembro a início de maio, é ideal. Setembro e outubro ainda têm mar quente e areia quase vazia. A água de praias como a Pasqyra é famosa por ser clara, calma e pouco funda, perfeita para cães assim que as espreguiçadeiras desaparecem."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets near Ksamil, Veterinary Clinics & Pet Care",
+      "titleFr": "Vétérinaires d'urgence près de Ksamil, cliniques et soins animaliers",
+      "titleEs": "Veterinario de urgencias cerca de Ksamil, clínicas veterinarias y cuidados",
+      "titlePt": "Veterinários de urgência perto de Ksamil, clínicas veterinárias e cuidados",
+      "introEn": "Ksamil itself has very limited veterinary infrastructure, so the nearest reliable clinics are in Saranda, about 15 km north. Albania is a non-EU country: dogs need an ISO microchip and a rabies vaccination given at least 21 days before entry, and the official pet entry point is Tirana airport. Returning to the EU afterwards requires the standard EU pet paperwork.",
+      "introFr": "Ksamil même dispose d'infrastructures vétérinaires très limitées ; les cliniques fiables les plus proches sont à Saranda, à environ 15 km au nord. L'Albanie est un pays hors UE : les chiens ont besoin d'une puce ISO et d'une vaccination antirabique faite au moins 21 jours avant l'entrée, et le point d'entrée officiel est l'aéroport de Tirana. Le retour vers l'UE ensuite exige le dossier européen standard.",
+      "introEs": "Ksamil en sí tiene una infraestructura veterinaria muy limitada, así que las clínicas fiables más cercanas están en Saranda, a unos 15 km al norte. Albania es un país fuera de la UE: los perros necesitan un microchip ISO y una vacunación antirrábica administrada al menos 21 días antes de la entrada, y el punto de entrada oficial es el aeropuerto de Tirana. El regreso posterior a la UE exige el papeleo europeo estándar.",
+      "introPt": "A própria Ksamil tem uma infraestrutura veterinária muito limitada, por isso as clínicas fiáveis mais próximas ficam em Saranda, a cerca de 15 km a norte. A Albânia é um país fora da UE: os cães precisam de um microchip ISO e de uma vacinação antirrábica administrada pelo menos 21 dias antes da entrada, e o ponto de entrada oficial é o aeroporto de Tirana. O regresso posterior à UE exige a documentação europeia padrão.",
+      "entryRequirements": {
+        "euPets": "Albania is non-EU. Pets need an ISO 11784/11785 microchip and a rabies vaccination administered at least 21 days before entry (the microchip must be implanted before the rabies shot). Official entry point: Tirana airport, with advance notice to airport vets.",
+        "nonEuPets": "Same as above: ISO microchip, valid rabies vaccination (given after the chip, at least 21–30 days before travel), and an export health certificate from a licensed vet. To return to the EU afterwards you need the standard EU paperwork (EU pet passport or EU health certificate).",
+        "emergencyContacts": [
+          "Paws Vet Clinic Saranda: +355 69 329 6428",
+          "Nearest 24h hospital is in Tirana (Vet Hospital Tirana, ~4h away): +355 67 239 1111"
+        ],
+        "euPetsFr": "L'Albanie est hors UE. Les animaux ont besoin d'une puce ISO 11784/11785 et d'une vaccination antirabique faite au moins 21 jours avant l'entrée (la puce doit précéder le vaccin). Point d'entrée officiel : aéroport de Tirana, avec préavis aux vétérinaires de l'aéroport.",
+        "nonEuPetsFr": "Idem : puce ISO, vaccination antirabique valide (faite après la puce, au moins 21 à 30 jours avant le voyage) et certificat sanitaire d'exportation d'un vétérinaire agréé. Pour revenir ensuite dans l'UE, il faut le dossier européen standard (passeport européen ou certificat sanitaire UE).",
+        "euPetsEs": "Albania está fuera de la UE. Las mascotas necesitan un microchip ISO 11784/11785 y una vacunación antirrábica administrada al menos 21 días antes de la entrada (el chip debe ir antes de la vacuna). Punto de entrada oficial: aeropuerto de Tirana, con aviso previo a los veterinarios del aeropuerto.",
+        "nonEuPetsEs": "Lo mismo: microchip ISO, vacunación antirrábica válida (puesta tras el chip, al menos 21 a 30 días antes del viaje) y certificado sanitario de exportación de un veterinario autorizado. Para regresar después a la UE necesitas el papeleo europeo estándar (pasaporte europeo o certificado sanitario UE).",
+        "euPetsPt": "A Albânia está fora da UE. Os animais precisam de um microchip ISO 11784/11785 e de uma vacinação antirrábica administrada pelo menos 21 dias antes da entrada (o chip tem de preceder a vacina). Ponto de entrada oficial: aeroporto de Tirana, com aviso prévio aos veterinários do aeroporto.",
+        "nonEuPetsPt": "O mesmo: microchip ISO, vacinação antirrábica válida (dada após o chip, pelo menos 21 a 30 dias antes da viagem) e certificado sanitário de exportação de um veterinário licenciado. Para regressar depois à UE precisa da documentação europeia padrão (passaporte europeu ou certificado sanitário UE)."
+      },
+      "places": [
+        {
+          "name": "Paws Vet Clinic Saranda",
+          "type": "General practice, pharmacy & grooming",
+          "address": "Rruga Lefter Talo, Sarandë 9701",
+          "phone": "+355 69 329 6428",
+          "hours": "Approximately 09:00–20:30 (confirm by phone)",
+          "hoursFr": "Environ 09h00–20h30 (à confirmer par téléphone)",
+          "hoursEs": "Aproximadamente 09:00–20:30 (confirmar por teléfono)",
+          "hoursPt": "Aproximadamente 09:00–20:30 (confirmar por telefone)",
+          "englishSpeaking": true,
+          "website": "",
+          "description": "The most accessible clinic for Ksamil visitors, located in Saranda about 15 km north. Paws Vet Clinic offers general consultations, vaccinations, surgery, a pharmacy and grooming, and is the practical first call for a non-emergency issue or travel-document check. Always phone ahead to confirm opening hours and availability.",
+          "descriptionFr": "La clinique la plus accessible pour les visiteurs de Ksamil, à Saranda, à environ 15 km au nord. Paws Vet Clinic propose consultations générales, vaccinations, chirurgie, pharmacie et toilettage, et constitue le premier recours pratique pour un souci non urgent ou un contrôle de documents de voyage. Appelez toujours pour confirmer horaires et disponibilité.",
+          "descriptionEs": "La clínica más accesible para los visitantes de Ksamil, en Saranda, a unos 15 km al norte. Paws Vet Clinic ofrece consultas generales, vacunaciones, cirugía, farmacia y peluquería, y es el primer recurso práctico para un problema no urgente o una revisión de documentos de viaje. Llama siempre antes para confirmar horario y disponibilidad.",
+          "descriptionPt": "A clínica mais acessível para os visitantes de Ksamil, em Saranda, a cerca de 15 km a norte. A Paws Vet Clinic oferece consultas gerais, vacinações, cirurgia, farmácia e tosquia, e é o primeiro recurso prático para um problema não urgente ou uma verificação de documentos de viagem. Telefone sempre antes para confirmar o horário e a disponibilidade.",
+          "tip": "Save the number before you travel. +355 69 329 6428. Call ahead, as small Albanian clinics keep variable hours",
+          "tipFr": "Enregistrez le numéro avant de partir. +355 69 329 6428. Appelez avant, les petites cliniques albanaises ont des horaires variables",
+          "tipEs": "Guarda el número antes de viajar. +355 69 329 6428. Llama antes, las pequeñas clínicas albanesas tienen horarios variables",
+          "tipPt": "Guarde o número antes de viajar. +355 69 329 6428. Telefone antes, pois as pequenas clínicas albanesas têm horários variáveis",
+          "googleMapsUrl": "https://maps.google.com/?q=Paws+Vet+Clinic+Saranda",
+          "photo": ""
+        },
+        {
+          "name": "Veterineria Saranda",
+          "type": "Local veterinary practice",
+          "address": "Sarandë, Vlorë County",
+          "phone": "",
+          "hours": "Variable. Contact via Facebook or in person",
+          "hoursFr": "Variables. Contact via Facebook ou sur place",
+          "hoursEs": "Variables. Contacto por Facebook o en persona",
+          "hoursPt": "Variáveis. Contacto via Facebook ou presencialmente",
+          "englishSpeaking": false,
+          "website": "https://www.facebook.com/VeterineriaSaranda/",
+          "description": "A local veterinary practice in Saranda offering general care, vaccinations and basic treatments. It is a useful second option in the area, though hours are informal and a verified public phone line was not available, so contact is best made via its Facebook page or in person.",
+          "descriptionFr": "Un cabinet vétérinaire local à Saranda proposant soins généraux, vaccinations et traitements de base. C'est une seconde option utile dans la région, même si les horaires sont informels et qu'aucune ligne téléphonique publique vérifiée n'était disponible ; mieux vaut le contacter via sa page Facebook ou sur place.",
+          "descriptionEs": "Una consulta veterinaria local en Saranda que ofrece atención general, vacunaciones y tratamientos básicos. Es una segunda opción útil en la zona, aunque el horario es informal y no había una línea telefónica pública verificada, por lo que es mejor contactar a través de su página de Facebook o en persona.",
+          "descriptionPt": "Uma clínica veterinária local em Saranda que oferece cuidados gerais, vacinações e tratamentos básicos. É uma segunda opção útil na zona, embora o horário seja informal e não houvesse uma linha telefónica pública verificada, por isso é melhor contactar pela página de Facebook ou presencialmente.",
+          "tip": "Use as a backup to Paws Vet Clinic. Message ahead via Facebook to check they can see your pet",
+          "tipFr": "À utiliser en secours de Paws Vet Clinic. Écrivez à l'avance via Facebook pour vérifier la disponibilité",
+          "tipEs": "Úsala como respaldo de Paws Vet Clinic. Escribe antes por Facebook para comprobar la disponibilidad",
+          "tipPt": "Use como reforço da Paws Vet Clinic. Envie mensagem antes pelo Facebook para confirmar a disponibilidade",
+          "googleMapsUrl": "https://maps.google.com/?q=Veterineria+Saranda",
+          "photo": ""
+        },
+        {
+          "name": "Vet Hospital Tirana (nearest 24h)",
+          "type": "24h emergency hospital (in Tirana)",
+          "address": "Rruga Hiqmet Buzi, Sauk, Tirana",
+          "phone": "+355 67 239 1111",
+          "hours": "24/7 emergency",
+          "hoursFr": "Urgences 24h/24",
+          "hoursEs": "Urgencias 24h/24",
+          "hoursPt": "Urgência 24h/24",
+          "englishSpeaking": true,
+          "website": "https://www.facebook.com/vethospitaltirana/",
+          "description": "For a true after-hours emergency there is no 24-hour clinic in the Saranda–Ksamil area, and the nearest round-the-clock animal hospital is Vet Hospital Tirana, roughly four hours away by road. It is well equipped and English-speaking, useful to know for serious cases or for entry and exit paperwork handled near the airport.",
+          "descriptionFr": "Pour une véritable urgence de nuit, il n'y a pas de clinique 24h dans la zone Saranda–Ksamil ; l'hôpital animalier ouvert en continu le plus proche est Vet Hospital Tirana, à environ quatre heures de route. Il est bien équipé et anglophone, utile à connaître pour les cas graves ou pour les formalités d'entrée et de sortie près de l'aéroport.",
+          "descriptionEs": "Para una verdadera urgencia nocturna no hay clínica 24h en la zona de Saranda–Ksamil, y el hospital animal abierto las 24 horas más cercano es Vet Hospital Tirana, a unas cuatro horas por carretera. Está bien equipado y habla inglés, útil de conocer para casos graves o para el papeleo de entrada y salida cerca del aeropuerto.",
+          "descriptionPt": "Para uma verdadeira urgência fora de horas não há clínica 24h na zona de Saranda–Ksamil, e o hospital animal aberto 24 horas mais próximo é o Vet Hospital Tirana, a cerca de quatro horas de estrada. É bem equipado e fala inglês, útil conhecer para casos graves ou para a documentação de entrada e saída perto do aeroporto.",
+          "tip": "Save this number for serious emergencies. For minor issues, the Saranda clinics are far closer",
+          "tipFr": "Enregistrez ce numéro pour les urgences graves. Pour les soucis mineurs, les cliniques de Saranda sont bien plus proches",
+          "tipEs": "Guarda este número para urgencias graves. Para problemas menores, las clínicas de Saranda están mucho más cerca",
+          "tipPt": "Guarde este número para urgências graves. Para problemas menores, as clínicas de Saranda estão muito mais perto",
+          "googleMapsUrl": "https://maps.google.com/?q=Vet+Hospital+Tirana",
+          "photo": ""
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there an emergency vet in Ksamil?",
+          "a": "Not in Ksamil itself. The nearest clinics are in Saranda, about 15 km north, with Paws Vet Clinic (+355 69 329 6428) the most accessible. There is no 24-hour clinic in the area, so for a true after-hours emergency the nearest round-the-clock hospital is in Tirana, around four hours away."
+        },
+        {
+          "q": "What do I need to bring my dog into Albania?",
+          "a": "Albania is non-EU. Your dog needs an ISO microchip and a rabies vaccination given at least 21 days before entry, with the chip implanted before the vaccine, plus an export health certificate. The official entry point is Tirana airport. To return to the EU afterwards you need the standard EU pet passport or health certificate."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence à Ksamil ?",
+          "a": "Pas à Ksamil même. Les cliniques les plus proches sont à Saranda, à environ 15 km au nord, Paws Vet Clinic (+355 69 329 6428) étant la plus accessible. Il n'y a pas de clinique 24h dans la zone ; pour une vraie urgence de nuit, l'hôpital ouvert en continu le plus proche est à Tirana, à environ quatre heures."
+        },
+        {
+          "q": "Que faut-il pour faire entrer mon chien en Albanie ?",
+          "a": "L'Albanie est hors UE. Votre chien a besoin d'une puce ISO et d'une vaccination antirabique faite au moins 21 jours avant l'entrée, la puce posée avant le vaccin, plus un certificat sanitaire d'exportation. Le point d'entrée officiel est l'aéroport de Tirana. Pour revenir ensuite dans l'UE, il faut le passeport européen ou certificat sanitaire UE standard."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un veterinario de urgencias en Ksamil?",
+          "a": "En Ksamil no. Las clínicas más cercanas están en Saranda, a unos 15 km al norte, siendo Paws Vet Clinic (+355 69 329 6428) la más accesible. No hay clínica 24h en la zona; para una verdadera urgencia nocturna, el hospital abierto las 24 horas más cercano está en Tirana, a unas cuatro horas."
+        },
+        {
+          "q": "¿Qué necesito para entrar con mi perro en Albania?",
+          "a": "Albania está fuera de la UE. Tu perro necesita un microchip ISO y una vacunación antirrábica administrada al menos 21 días antes de la entrada, con el chip puesto antes de la vacuna, más un certificado sanitario de exportación. El punto de entrada oficial es el aeropuerto de Tirana. Para regresar después a la UE necesitas el pasaporte europeo o certificado sanitario UE estándar."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há um veterinário de urgência em Ksamil?",
+          "a": "Em Ksamil não. As clínicas mais próximas ficam em Saranda, a cerca de 15 km a norte, sendo a Paws Vet Clinic (+355 69 329 6428) a mais acessível. Não há clínica 24h na zona; para uma verdadeira urgência fora de horas, o hospital aberto 24 horas mais próximo fica em Tirana, a cerca de quatro horas."
+        },
+        {
+          "q": "O que preciso para entrar com o meu cão na Albânia?",
+          "a": "A Albânia está fora da UE. O seu cão precisa de um microchip ISO e de uma vacinação antirrábica dada pelo menos 21 dias antes da entrada, com o chip colocado antes da vacina, mais um certificado sanitário de exportação. O ponto de entrada oficial é o aeroporto de Tirana. Para regressar depois à UE precisa do passaporte europeu ou certificado sanitário UE padrão."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Dog-Friendly Tips for Ksamil",
+      "titleFr": "Conseils locaux pour visiter Ksamil avec son chien",
+      "titleEs": "Consejos locales para visitar Ksamil con tu perro",
+      "titlePt": "Dicas dog-friendly para Ksamil",
+      "introEn": "Ksamil is an emerging Albanian Riviera destination where dog infrastructure is thin but the welcome is warm and the off-season is genuinely dog-paradise. The single most important thing to understand is the seasonal split: summer is crowded, paid and dog-unfriendly on the sand, while autumn to spring opens the beaches up completely.",
+      "introFr": "Ksamil est une destination émergente de la Riviera albanaise où les infrastructures pour chiens sont limitées mais l'accueil chaleureux et la basse saison vraiment paradisiaque pour les chiens. Le plus important à comprendre est la coupure saisonnière : l'été est bondé, payant et peu accueillant sur le sable, tandis que de l'automne au printemps les plages s'ouvrent totalement.",
+      "introEs": "Ksamil es un destino emergente de la Riviera albanesa donde la infraestructura para perros es escasa pero el recibimiento es cálido y la temporada baja es un auténtico paraíso canino. Lo más importante de entender es la división estacional: el verano está abarrotado, es de pago y poco amigable en la arena, mientras que del otoño a la primavera las playas se abren por completo.",
+      "introPt": "Ksamil é um destino emergente da Riviera Albanesa onde a infraestrutura para cães é escassa mas o acolhimento é caloroso e a época baixa é um verdadeiro paraíso canino. O mais importante a compreender é a divisão sazonal: o verão é apinhado, pago e pouco acolhedor na areia, enquanto do outono à primavera as praias abrem-se por completo.",
+      "sections": [
+        {
+          "titleEn": "The off-season rule",
+          "titleFr": "La règle de la basse saison",
+          "titleEs": "La regla de la temporada baja",
+          "titlePt": "A regra da época baixa",
+          "contentEn": "The key local fact: roughly mid-September to early May, Ksamil's paid summer beaches clear of sunbeds and open up, with dogs free to roam and swim, often off-leash. In peak summer (June to August) the same beaches are crowded, paid and largely dog-unfriendly. Plan a dog trip for the shoulder or off-season.",
+          "contentFr": "Le fait local clé : de mi-septembre à début mai environ, les plages payantes de Ksamil se vident de leurs transats et s'ouvrent, les chiens pouvant gambader et nager, souvent sans laisse. En plein été (juin à août), ces mêmes plages sont bondées, payantes et peu accueillantes pour les chiens. Planifiez un voyage avec chien en intersaison ou hors saison.",
+          "contentEs": "El dato local clave: aproximadamente de mediados de septiembre a principios de mayo, las playas de pago de Ksamil se vacían de hamacas y se abren, con los perros libres para corretear y nadar, a menudo sin correa. En pleno verano (junio a agosto) esas mismas playas están abarrotadas, son de pago y poco amigables con los perros. Planifica el viaje con perro en temporada media o baja.",
+          "contentPt": "O facto local fundamental: sensivelmente de meados de setembro a início de maio, as praias pagas de Ksamil ficam livres de espreguiçadeiras e abrem-se, com os cães livres para correr e nadar, muitas vezes sem trela. Em pleno verão (junho a agosto) essas mesmas praias estão apinhadas, são pagas e pouco acolhedoras para cães. Planeie a viagem com cão na época intermédia ou baixa."
+        },
+        {
+          "titleEn": "Beating the summer heat",
+          "titleFr": "Affronter la chaleur estivale",
+          "titleEs": "Combatir el calor del verano",
+          "titlePt": "Combater o calor de verão",
+          "contentEn": "The Albanian Riviera is hot from June to September, with August averaging around 30°C in the daytime and very strong sun. Walk dogs early morning and after sunset, avoid hot sand and paving at midday, carry water everywhere, and never leave a dog in a parked car, where temperatures turn lethal within minutes.",
+          "contentFr": "La Riviera albanaise est chaude de juin à septembre, août atteignant en moyenne environ 30°C en journée avec un soleil très fort. Promenez les chiens tôt le matin et après le coucher du soleil, évitez le sable et le bitume brûlants à midi, emportez toujours de l'eau, et ne laissez jamais un chien dans une voiture garée, où la température devient mortelle en quelques minutes.",
+          "contentEs": "La Riviera albanesa es calurosa de junio a septiembre, con agosto promediando unos 30°C de día y un sol muy fuerte. Pasea a los perros temprano por la mañana y tras la puesta de sol, evita la arena y el pavimento calientes al mediodía, lleva agua siempre y nunca dejes a un perro en un coche aparcado, donde la temperatura se vuelve letal en minutos.",
+          "contentPt": "A Riviera Albanesa é quente de junho a setembro, com agosto a rondar os 30°C durante o dia e sol muito forte. Passeie os cães de manhã cedo e após o pôr do sol, evite a areia e o pavimento quentes ao meio-dia, leve sempre água e nunca deixe um cão num carro estacionado, onde a temperatura se torna letal em minutos."
+        },
+        {
+          "titleEn": "Entry & paperwork",
+          "titleFr": "Entrée et formalités",
+          "titleEs": "Entrada y trámites",
+          "titlePt": "Entrada e documentação",
+          "contentEn": "Albania is outside the EU. Bring an ISO microchip and proof of rabies vaccination given at least 21 days before entry (chip first, then vaccine), plus a vet health certificate. The official pet entry is Tirana airport. If you are continuing to or returning to the EU, carry the standard EU pet passport or EU health certificate as well.",
+          "contentFr": "L'Albanie est hors UE. Apportez une puce ISO et une preuve de vaccination antirabique faite au moins 21 jours avant l'entrée (puce d'abord, puis vaccin), plus un certificat sanitaire vétérinaire. L'entrée officielle des animaux se fait à l'aéroport de Tirana. Si vous continuez vers l'UE ou y revenez, emportez aussi le passeport européen ou le certificat sanitaire UE standard.",
+          "contentEs": "Albania está fuera de la UE. Lleva un microchip ISO y prueba de vacunación antirrábica administrada al menos 21 días antes de la entrada (primero el chip, luego la vacuna), más un certificado sanitario veterinario. La entrada oficial de mascotas es el aeropuerto de Tirana. Si continúas hacia la UE o regresas a ella, lleva también el pasaporte europeo o el certificado sanitario UE estándar.",
+          "contentPt": "A Albânia está fora da UE. Leve um microchip ISO e prova de vacinação antirrábica dada pelo menos 21 dias antes da entrada (primeiro o chip, depois a vacina), mais um certificado sanitário veterinário. A entrada oficial de animais é o aeroporto de Tirana. Se prosseguir para a UE ou regressar a ela, leve também o passaporte europeu ou o certificado sanitário UE padrão."
+        },
+        {
+          "titleEn": "Street dogs & local etiquette",
+          "titleFr": "Chiens errants et savoir-vivre local",
+          "titleEs": "Perros callejeros y etiqueta local",
+          "titlePt": "Cães de rua e etiqueta local",
+          "contentEn": "Albania, including the Saranda area, has a visible community of friendly street dogs. Keep your own dog leashed in the village and around restaurants to avoid conflicts, watch for unneutered males, and be ready for curious encounters. Most locals are relaxed and welcoming about dogs on terraces and promenades.",
+          "contentFr": "L'Albanie, y compris la région de Saranda, compte une communauté visible de chiens errants amicaux. Gardez votre chien en laisse dans le village et autour des restaurants pour éviter les conflits, méfiez-vous des mâles non castrés et préparez-vous à des rencontres curieuses. La plupart des habitants sont détendus et accueillants envers les chiens en terrasse et sur les promenades.",
+          "contentEs": "Albania, incluida la zona de Saranda, tiene una comunidad visible de perros callejeros amistosos. Mantén a tu perro con correa en el pueblo y cerca de los restaurantes para evitar conflictos, vigila a los machos sin castrar y prepárate para encuentros curiosos. La mayoría de los locales son relajados y acogedores con los perros en terrazas y paseos.",
+          "contentPt": "A Albânia, incluindo a zona de Saranda, tem uma comunidade visível de cães de rua amigáveis. Mantenha o seu cão com trela na aldeia e perto dos restaurantes para evitar conflitos, atenção aos machos não castrados e prepare-se para encontros curiosos. A maioria dos locais é descontraída e acolhedora com cães em esplanadas e marginais."
+        }
+      ],
+      "places": [],
+      "tipsEn": [],
+      "tipsFr": [],
+      "tipsEs": [],
+      "tipsPt": [],
+      "faqsEn": [
+        {
+          "q": "Is Ksamil good for dogs?",
+          "a": "Yes, but it depends on the season. Off-season (mid-September to early May) Ksamil is a quiet, beautiful, near-empty dog paradise with open, often leash-free beaches. In peak summer the paid, crowded sunbed beaches are far less dog-friendly. Infrastructure like vets is limited, with the nearest in Saranda."
+        },
+        {
+          "q": "When should I visit Ksamil with my dog?",
+          "a": "Aim for the shoulder and off-season: September and October still offer warm sea and quiet beaches, while April to mid-May is mild and uncrowded. These months combine open, dog-friendly beaches with comfortable temperatures, away from the intense summer heat and crowds."
+        },
+        {
+          "q": "Are there street dogs in Ksamil?",
+          "a": "Yes, the Saranda and Ksamil area has friendly community street dogs, as is common across Albania. Keep your own dog leashed around the village and restaurants to avoid conflicts, and supervise any encounters, especially with unneutered males."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Ksamil est-elle une bonne destination pour les chiens ?",
+          "a": "Oui, mais cela dépend de la saison. Hors saison (mi-septembre à début mai), Ksamil est un paradis canin tranquille, magnifique et quasi désert, avec des plages ouvertes souvent sans laisse. En plein été, les plages payantes et bondées de transats sont bien moins accueillantes. Les infrastructures comme les vétérinaires sont limitées, les plus proches étant à Saranda."
+        },
+        {
+          "q": "Quand visiter Ksamil avec son chien ?",
+          "a": "Visez l'intersaison et la basse saison : septembre et octobre offrent encore une mer chaude et des plages tranquilles, tandis qu'avril à mi-mai est doux et peu fréquenté. Ces mois associent plages ouvertes et accueillantes pour les chiens à des températures agréables, loin de la chaleur et de la foule estivales."
+        },
+        {
+          "q": "Y a-t-il des chiens errants à Ksamil ?",
+          "a": "Oui, la région de Saranda et Ksamil compte des chiens errants amicaux, comme partout en Albanie. Gardez votre chien en laisse autour du village et des restaurants pour éviter les conflits, et surveillez les rencontres, surtout avec les mâles non castrés."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Ksamil buena para perros?",
+          "a": "Sí, pero depende de la temporada. Fuera de temporada (mediados de septiembre a principios de mayo) Ksamil es un paraíso canino tranquilo, hermoso y casi vacío, con playas abiertas a menudo sin correa. En pleno verano las playas de pago y abarrotadas de hamacas son mucho menos amigables. La infraestructura como veterinarios es limitada, la más cercana en Saranda."
+        },
+        {
+          "q": "¿Cuándo debo visitar Ksamil con mi perro?",
+          "a": "Apunta a la temporada media y baja: septiembre y octubre aún ofrecen mar cálido y playas tranquilas, mientras que de abril a mediados de mayo es suave y poco concurrido. Estos meses combinan playas abiertas y amigables con temperaturas agradables, lejos del intenso calor y las multitudes del verano."
+        },
+        {
+          "q": "¿Hay perros callejeros en Ksamil?",
+          "a": "Sí, la zona de Saranda y Ksamil tiene perros callejeros amistosos, como es habitual en toda Albania. Mantén a tu perro con correa por el pueblo y los restaurantes para evitar conflictos, y supervisa cualquier encuentro, sobre todo con machos sin castrar."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Ksamil é boa para cães?",
+          "a": "Sim, mas depende da época. Fora de época (meados de setembro a início de maio) Ksamil é um paraíso canino tranquilo, bonito e quase vazio, com praias abertas muitas vezes sem trela. Em pleno verão as praias pagas e apinhadas de espreguiçadeiras são muito menos acolhedoras. A infraestrutura como veterinários é limitada, a mais próxima em Saranda."
+        },
+        {
+          "q": "Quando devo visitar Ksamil com o meu cão?",
+          "a": "Aponte para a época intermédia e baixa: setembro e outubro ainda oferecem mar quente e praias tranquilas, enquanto de abril a meados de maio é ameno e pouco concorrido. Estes meses combinam praias abertas e acolhedoras com temperaturas agradáveis, longe do calor intenso e das multidões do verão."
+        },
+        {
+          "q": "Há cães de rua em Ksamil?",
+          "a": "Sim, a zona de Saranda e Ksamil tem cães de rua amigáveis, como é comum em toda a Albânia. Mantenha o seu cão com trela pela aldeia e pelos restaurantes para evitar conflitos, e supervisione qualquer encontro, sobretudo com machos não castrados."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Ksamil",
+      "titleFr": "Sites à visiter avec son animal à Ksamil",
+      "titleEs": "Atracciones pet-friendly en Ksamil",
+      "titlePt": "Atrações pet-friendly em Ksamil",
+      "introEn": "Beyond the beaches, the Ksamil area offers genuinely dog-welcoming attractions: the UNESCO ruins of Butrint, the four turquoise islets just offshore, and the famous Blue Eye spring inland. Most are open-air and leashed-dog friendly, making this a rare corner of Europe where you rarely have to leave your dog behind.",
+      "introFr": "Au-delà des plages, la région de Ksamil propose des sites réellement accueillants pour les chiens : les ruines UNESCO de Butrint, les quatre îlots turquoise juste au large et la célèbre source du Blue Eye à l'intérieur des terres. La plupart sont en plein air et acceptent les chiens en laisse, ce qui fait de ce coin d'Europe un endroit rare où l'on n'a presque jamais à laisser son chien.",
+      "introEs": "Más allá de las playas, la zona de Ksamil ofrece atracciones realmente acogedoras para perros: las ruinas UNESCO de Butrint, los cuatro islotes turquesa frente a la costa y el famoso manantial Blue Eye tierra adentro. La mayoría son al aire libre y admiten perros con correa, lo que convierte este rincón de Europa en un lugar raro donde casi nunca tienes que dejar a tu perro.",
+      "introPt": "Para além das praias, a zona de Ksamil oferece atrações genuinamente acolhedoras para cães: as ruínas UNESCO de Butrint, os quatro ilhéus turquesa mesmo ao largo e a famosa nascente Blue Eye no interior. A maioria é ao ar livre e aceita cães com trela, o que faz deste canto da Europa um lugar raro onde quase nunca tem de deixar o seu cão para trás.",
+      "places": [
+        {
+          "name": "Butrint National Park (UNESCO)",
+          "neighborhood": "5 km south of Ksamil",
+          "photo": "",
+          "website": "",
+          "description": "One of Albania's great treasures, Butrint is a UNESCO World Heritage archaeological site where Greek, Roman, Byzantine and Venetian ruins sit among woodland and lagoon. Dogs are welcome on a leash throughout the site and nature trails, making it a rare ancient wonder you can explore together.",
+          "descriptionFr": "L'un des grands trésors de l'Albanie, Butrint est un site archéologique classé au patrimoine mondial de l'UNESCO, où des ruines grecques, romaines, byzantines et vénitiennes se mêlent à la forêt et à la lagune. Les chiens sont acceptés en laisse sur tout le site et les sentiers nature, ce qui en fait une merveille antique rare à explorer ensemble.",
+          "descriptionEs": "Uno de los grandes tesoros de Albania, Butrint es un yacimiento arqueológico Patrimonio Mundial de la UNESCO donde ruinas griegas, romanas, bizantinas y venecianas se mezclan con bosque y laguna. Los perros son bienvenidos con correa por todo el sitio y los senderos naturales, lo que lo convierte en una rara maravilla antigua para explorar juntos.",
+          "descriptionPt": "Um dos grandes tesouros da Albânia, Butrint é um sítio arqueológico Património Mundial da UNESCO onde ruínas gregas, romanas, bizantinas e venezianas se misturam com bosque e lagoa. Os cães são bem-vindos com trela por todo o sítio e pelos trilhos naturais, o que o torna uma rara maravilha antiga para explorar em conjunto.",
+          "dogPolicy": "Dogs welcome on a leash throughout the site",
+          "dogPolicyFr": "Chiens acceptés en laisse sur tout le site",
+          "dogPolicyEs": "Perros admitidos con correa por todo el sitio",
+          "dogPolicyPt": "Cães bem-vindos com trela por todo o sítio",
+          "admissionFee": "Around 1000 lek (approx. €10) per adult",
+          "admissionFeeFr": "Environ 1000 lek (env. 10 €) par adulte",
+          "admissionFeeEs": "Unos 1000 lek (aprox. 10 €) por adulto",
+          "admissionFeePt": "Cerca de 1000 lek (aprox. 10 €) por adulto",
+          "openingHours": "Daily, roughly 08:00 until sunset (seasonal)",
+          "openingHoursFr": "Tous les jours, environ 08h00 jusqu'au coucher du soleil (saisonnier)",
+          "openingHoursEs": "A diario, aprox. 08:00 hasta el atardecer (estacional)",
+          "openingHoursPt": "Diariamente, cerca das 08:00 até ao pôr do sol (sazonal)",
+          "tip": "Visit early to beat the heat. The site is exposed and shade is limited. Carry plenty of water for your dog",
+          "tipFr": "Visitez tôt pour éviter la chaleur. Le site est exposé et l'ombre rare. Emportez beaucoup d'eau pour votre chien",
+          "tipEs": "Visita temprano para evitar el calor. El sitio está expuesto y hay poca sombra. Lleva agua abundante para tu perro",
+          "tipPt": "Visite cedo para evitar o calor. O sítio é exposto e a sombra é escassa. Leve bastante água para o seu cão",
+          "googleMapsUrl": "https://maps.google.com/?q=Butrint+National+Park"
+        },
+        {
+          "name": "Ksamil Islands (the four islets)",
+          "neighborhood": "Just offshore from Ksamil",
+          "photo": "",
+          "website": "",
+          "description": "Four small turquoise islets sit just off Ksamil's main beach, two of them joined by a sandbar at low tide. Reachable by kayak, pedal boat or short water taxi, they offer quiet swimming and Robinson Crusoe scenery; in the calm off-season a leashed, water-confident dog can join the short crossing.",
+          "descriptionFr": "Quatre petits îlots turquoise se trouvent juste au large de la plage principale de Ksamil, deux d'entre eux reliés par un banc de sable à marée basse. Accessibles en kayak, pédalo ou court taxi-bateau, ils offrent baignade tranquille et décor à la Robinson Crusoé ; en basse saison calme, un chien en laisse à l'aise dans l'eau peut faire la courte traversée.",
+          "descriptionEs": "Cuatro pequeños islotes turquesa se encuentran frente a la playa principal de Ksamil, dos de ellos unidos por un banco de arena con marea baja. Accesibles en kayak, pedaló o corto taxi acuático, ofrecen baño tranquilo y paisaje de Robinson Crusoe; en la tranquila temporada baja, un perro con correa cómodo en el agua puede unirse al corto trayecto.",
+          "descriptionPt": "Quatro pequenos ilhéus turquesa ficam mesmo ao largo da praia principal de Ksamil, dois deles unidos por um banco de areia na maré baixa. Acessíveis de caiaque, gaivota ou curto táxi aquático, oferecem banhos tranquilos e cenário à Robinson Crusoé; na calma época baixa, um cão com trela à vontade na água pode fazer a curta travessia.",
+          "dogPolicy": "Open islets. Leashed dogs depend on the boat operator's agreement",
+          "dogPolicyFr": "Îlots ouverts. Les chiens en laisse dépendent de l'accord du loueur de bateau",
+          "dogPolicyEs": "Islotes abiertos. Los perros con correa dependen del acuerdo del operador del barco",
+          "dogPolicyPt": "Ilhéus abertos. Os cães com trela dependem do acordo do operador do barco",
+          "admissionFee": "Free islets. Water taxi approx. 500–1000 lek (€5–10)",
+          "admissionFeeFr": "Îlots gratuits. Taxi-bateau env. 500–1000 lek (5–10 €)",
+          "admissionFeeEs": "Islotes gratis. Taxi acuático aprox. 500–1000 lek (5–10 €)",
+          "admissionFeePt": "Ilhéus gratuitos. Táxi aquático aprox. 500–1000 lek (5–10 €)",
+          "openingHours": "Daylight hours, boats mainly in season",
+          "openingHoursFr": "En journée, bateaux surtout en saison",
+          "openingHoursEs": "Horas de luz, barcos sobre todo en temporada",
+          "openingHoursPt": "Horas de luz, barcos sobretudo na época",
+          "tip": "Ask the boat operator about your dog before paying. Off-season swims to the islets are calmer and quieter",
+          "tipFr": "Demandez au loueur pour votre chien avant de payer. Hors saison, la traversée vers les îlots est plus calme",
+          "tipEs": "Pregunta al operador del barco por tu perro antes de pagar. Fuera de temporada el trayecto a los islotes es más tranquilo",
+          "tipPt": "Pergunte ao operador do barco sobre o seu cão antes de pagar. Fora de época, a travessia para os ilhéus é mais calma",
+          "googleMapsUrl": "https://maps.google.com/?q=Ksamil+Islands"
+        },
+        {
+          "name": "The Blue Eye (Syri i Kaltër)",
+          "neighborhood": "About 25 km from Ksamil, near Muzinë",
+          "photo": "",
+          "website": "",
+          "description": "One of Albania's natural icons, the Blue Eye is a deep karst spring that bubbles up an astonishing sapphire blue surrounded by forest. It is an outdoor nature site reached by a short walk, where leashed dogs can join the stroll to the viewing platform, though swimming in the spring is discouraged.",
+          "descriptionFr": "L'une des icônes naturelles de l'Albanie, le Blue Eye est une source karstique profonde qui jaillit d'un bleu saphir saisissant, entourée de forêt. C'est un site naturel de plein air accessible par une courte marche, où les chiens en laisse peuvent rejoindre la promenade jusqu'à la plateforme d'observation, même si la baignade dans la source est déconseillée.",
+          "descriptionEs": "Uno de los iconos naturales de Albania, el Blue Eye es un profundo manantial kárstico que brota de un asombroso azul zafiro rodeado de bosque. Es un sitio natural al aire libre al que se llega tras un corto paseo, donde los perros con correa pueden acompañar hasta la plataforma de observación, aunque se desaconseja bañarse en el manantial.",
+          "descriptionPt": "Um dos ícones naturais da Albânia, o Blue Eye é uma profunda nascente cársica que jorra de um espantoso azul safira rodeada de floresta. É um sítio natural ao ar livre alcançado por uma curta caminhada, onde os cães com trela podem acompanhar o passeio até à plataforma de observação, embora nadar na nascente seja desaconselhado.",
+          "dogPolicy": "Leashed dogs welcome on the walking paths",
+          "dogPolicyFr": "Chiens en laisse acceptés sur les sentiers",
+          "dogPolicyEs": "Perros con correa admitidos en los senderos",
+          "dogPolicyPt": "Cães com trela bem-vindos nos trilhos",
+          "admissionFee": "Small entry/parking fee (a few hundred lek)",
+          "admissionFeeFr": "Petit droit d'entrée/parking (quelques centaines de lek)",
+          "admissionFeeEs": "Pequeña tarifa de entrada/aparcamiento (unos cientos de lek)",
+          "admissionFeePt": "Pequena taxa de entrada/estacionamento (algumas centenas de lek)",
+          "openingHours": "Daylight hours, daily",
+          "openingHoursFr": "En journée, tous les jours",
+          "openingHoursEs": "Horas de luz, a diario",
+          "openingHoursPt": "Horas de luz, diariamente",
+          "tip": "Keep your dog away from the spring edge. The water is very deep, very cold and the current is strong",
+          "tipFr": "Tenez votre chien éloigné du bord de la source. L'eau est très profonde, très froide et le courant fort",
+          "tipEs": "Mantén a tu perro alejado del borde del manantial. El agua es muy profunda, muy fría y la corriente fuerte",
+          "tipPt": "Mantenha o seu cão afastado da borda da nascente. A água é muito funda, muito fria e a corrente é forte",
+          "googleMapsUrl": "https://maps.google.com/?q=Blue+Eye+Albania"
+        }
+      ],
+      "tipsEn": [
+        "Most Ksamil-area attractions are open-air and welcome leashed dogs, including Butrint and the Blue Eye.",
+        "Carry water and seek shade. Sites like Butrint are exposed and the summer sun is intense.",
+        "Ask boat operators about dogs before crossing to the islets. Acceptance varies by skipper."
+      ],
+      "tipsFr": [
+        "La plupart des sites de la région de Ksamil sont en plein air et acceptent les chiens en laisse, dont Butrint et le Blue Eye.",
+        "Emportez de l'eau et cherchez l'ombre. Des sites comme Butrint sont exposés et le soleil estival intense.",
+        "Demandez aux loueurs de bateau pour les chiens avant de rejoindre les îlots. L'accueil varie selon le skipper."
+      ],
+      "tipsEs": [
+        "La mayoría de las atracciones de la zona de Ksamil son al aire libre y admiten perros con correa, incluidos Butrint y el Blue Eye.",
+        "Lleva agua y busca sombra. Sitios como Butrint están expuestos y el sol estival es intenso.",
+        "Pregunta a los operadores de barco por los perros antes de cruzar a los islotes. La admisión varía según el patrón."
+      ],
+      "tipsPt": [
+        "A maioria das atrações da zona de Ksamil é ao ar livre e aceita cães com trela, incluindo Butrint e o Blue Eye.",
+        "Leve água e procure sombra. Sítios como Butrint são expostos e o sol de verão é intenso.",
+        "Pergunte aos operadores de barco sobre cães antes de atravessar para os ilhéus. A aceitação varia conforme o piloto."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Butrint National Park?",
+          "a": "Yes, on a leash. The UNESCO site of Butrint, 5 km from Ksamil, allows leashed dogs throughout its ruins and nature trails. Visit early in summer as the site is exposed with little shade, and carry plenty of water for your dog."
+        },
+        {
+          "q": "Is the Blue Eye spring dog-friendly?",
+          "a": "Yes for the walk. Leashed dogs are welcome on the paths to the Blue Eye viewing platform, an outdoor nature site about 25 km from Ksamil. Keep your dog well back from the spring edge, as the water is extremely deep, cold and fast-moving."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à Butrint ?",
+          "a": "Oui, en laisse. Le site UNESCO de Butrint, à 5 km de Ksamil, accepte les chiens en laisse dans ses ruines et sentiers nature. Visitez tôt en été car le site est exposé et peu ombragé, et emportez beaucoup d'eau pour votre chien."
+        },
+        {
+          "q": "Le Blue Eye accepte-t-il les chiens ?",
+          "a": "Oui pour la balade. Les chiens en laisse sont acceptés sur les sentiers menant à la plateforme du Blue Eye, un site naturel de plein air à environ 25 km de Ksamil. Gardez votre chien à distance du bord, l'eau étant très profonde, froide et au courant rapide."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a Butrint?",
+          "a": "Sí, con correa. El sitio UNESCO de Butrint, a 5 km de Ksamil, admite perros con correa por sus ruinas y senderos naturales. Visita temprano en verano porque el sitio está expuesto y tiene poca sombra, y lleva agua abundante para tu perro."
+        },
+        {
+          "q": "¿El manantial Blue Eye admite perros?",
+          "a": "Sí para el paseo. Los perros con correa son bienvenidos en los senderos hacia la plataforma del Blue Eye, un sitio natural al aire libre a unos 25 km de Ksamil. Mantén a tu perro bien alejado del borde, ya que el agua es muy profunda, fría y de corriente rápida."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão a Butrint?",
+          "a": "Sim, com trela. O sítio UNESCO de Butrint, a 5 km de Ksamil, admite cães com trela pelas suas ruínas e trilhos naturais. Visite cedo no verão porque o sítio é exposto e tem pouca sombra, e leve bastante água para o seu cão."
+        },
+        {
+          "q": "A nascente Blue Eye aceita cães?",
+          "a": "Sim para o passeio. Os cães com trela são bem-vindos nos trilhos até à plataforma do Blue Eye, um sítio natural ao ar livre a cerca de 25 km de Ksamil. Mantenha o seu cão bem afastado da borda, pois a água é muito funda, fria e de corrente rápida."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitters & Pet Care in Ksamil",
+      "titleFr": "Garde d'animaux et pet-sitting à Ksamil",
+      "titleEs": "Cuidado de mascotas y pet-sitting en Ksamil",
+      "titlePt": "Pet sitters e cuidados de animais em Ksamil",
+      "introEn": "Content coming soon.",
+      "introFr": "Content coming soon.",
+      "introEs": "Content coming soon.",
+      "introPt": "Content coming soon.",
+      "places": [],
+      "tipsEn": [
+        "Ksamil has very limited formal pet-sitting. Many pet-friendly hotels will help arrange care informally.",
+        "Most travellers keep their dog with them, as the village and beaches are highly dog-friendly off-season.",
+        "For overnight care, ask your accommodation or a Saranda vet clinic for trusted local contacts."
+      ],
+      "tipsFr": [
+        "Ksamil dispose de très peu de pet-sitting formel. De nombreux hôtels dog-friendly aident à organiser une garde de façon informelle.",
+        "La plupart des voyageurs gardent leur chien avec eux, le village et les plages étant très accueillants hors saison.",
+        "Pour une garde de nuit, demandez à votre hébergement ou à une clinique vétérinaire de Saranda des contacts locaux de confiance."
+      ],
+      "tipsEs": [
+        "Ksamil tiene muy poco pet-sitting formal. Muchos hoteles pet-friendly ayudan a organizar el cuidado de forma informal.",
+        "La mayoría de los viajeros mantienen a su perro con ellos, ya que el pueblo y las playas son muy acogedores fuera de temporada.",
+        "Para el cuidado nocturno, pide a tu alojamiento o a una clínica veterinaria de Saranda contactos locales de confianza."
+      ],
+      "tipsPt": [
+        "Ksamil tem muito pouco pet sitting formal. Muitos hotéis dog-friendly ajudam a organizar cuidados de forma informal.",
+        "A maioria dos viajantes mantém o cão consigo, pois a aldeia e as praias são muito acolhedoras fora de época.",
+        "Para cuidados durante a noite, peça ao seu alojamento ou a uma clínica veterinária de Saranda contactos locais de confiança."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there dog sitting available in Ksamil?",
+          "a": "Formal pet-sitting services are very limited in Ksamil. Most visitors keep their dog with them, which works well as the village and off-season beaches are highly dog-friendly. For care, ask your pet-friendly hotel or a Saranda vet clinic for trusted local contacts."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des services de garde de chien à Ksamil ?",
+          "a": "Les services de pet-sitting formels sont très limités à Ksamil. La plupart des visiteurs gardent leur chien avec eux, ce qui fonctionne bien car le village et les plages hors saison sont très accueillants. Pour une garde, demandez à votre hôtel dog-friendly ou à une clinique vétérinaire de Saranda des contacts locaux de confiance."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay servicios de cuidado de perros en Ksamil?",
+          "a": "Los servicios formales de pet-sitting son muy limitados en Ksamil. La mayoría de los visitantes mantienen a su perro con ellos, lo que funciona bien porque el pueblo y las playas fuera de temporada son muy acogedores. Para el cuidado, pide a tu hotel pet-friendly o a una clínica veterinaria de Saranda contactos locales de confianza."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há serviços de pet sitting em Ksamil?",
+          "a": "Os serviços formais de pet sitting são muito limitados em Ksamil. A maioria dos visitantes mantém o cão consigo, o que funciona bem porque a aldeia e as praias fora de época são muito acolhedoras. Para cuidados, peça ao seu hotel dog-friendly ou a uma clínica veterinária de Saranda contactos locais de confiança."
+        }
+      ]
+    }
+  }
+}

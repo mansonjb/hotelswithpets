@@ -113,6 +113,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'madrid','barcelona','cordoba','sevilla','granada','valencia',
     'palma-de-mallorca','malaga','bilbao','san-sebastian','zaragoza','toledo',
   ]
+  // Dog-friendly villa landing pages (data/villa-guides/{slug}.json)
+  const VILLA_DIR = join(process.cwd(), 'data/villa-guides')
+  const VILLA_SLUGS = existsSync(VILLA_DIR)
+    ? readdirSync(VILLA_DIR).filter(f => f.endsWith('.json')).map(f => f.replace(/\.json$/, ''))
+    : []
   for (const locale of LOCALES) {
     entries.push({
       url: `${BASE_URL}/${locale}/guides`,
@@ -123,6 +128,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const slug of PRACTICAL_GUIDES) {
       entries.push({
         url: `${BASE_URL}/${locale}/guides/${slug}`,
+        lastModified: BUILD_DATE,
+        changeFrequency: 'monthly',
+        priority: 0.85,
+      })
+    }
+    for (const vslug of VILLA_SLUGS) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/dog-friendly-villas/${vslug}`,
         lastModified: BUILD_DATE,
         changeFrequency: 'monthly',
         priority: 0.85,

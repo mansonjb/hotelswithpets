@@ -10,6 +10,8 @@ interface Stay22MapProps {
   height?: number
   /** Locale for Stay22 widget UI (defaults to 'en'). Accepts 'en', 'fr', 'es', 'pt' */
   locale?: string
+  /** Stay22 campaign tag for attribution (defaults to 'hotelswithpets'). */
+  campaign?: string
 }
 
 /**
@@ -21,9 +23,9 @@ interface Stay22MapProps {
  * fallback. The LetMeAllez script in layout.tsx auto-upgrades Booking.com
  * links on the page to multi-platform affiliate links.
  */
-export default function Stay22Map({ lat, lng, destName, height = 420, locale = 'en' }: Stay22MapProps) {
+export default function Stay22Map({ lat, lng, destName, height = 420, locale = 'en', campaign = 'hotelswithpets' }: Stay22MapProps) {
   const stay22Lang = ['en', 'fr', 'es', 'pt'].includes(locale) ? locale : 'en'
-  const src = `https://www.stay22.com/embed/gm?aid=${STAY22_AID}&lat=${lat}&lng=${lng}&campaign=hotelswithpets&lang=${stay22Lang}`
+  const src = `https://www.stay22.com/embed/gm?aid=${STAY22_AID}&lat=${lat}&lng=${lng}&campaign=${campaign}&lang=${stay22Lang}`
 
   return (
     <div className="w-full rounded-2xl overflow-hidden border border-gray-200 shadow-sm">

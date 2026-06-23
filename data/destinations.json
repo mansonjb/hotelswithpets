@@ -603,6 +603,81 @@
     "tiqetsId": "66088"
   },
   {
+    "slug": "almeria",
+    "name": "Almería",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/almeria.jpg",
+    "intro": "One of the hottest, sunniest corners of Europe, Almería pairs a walkable seafront city with the wild coves of Cabo de Gata and Europe's only true desert. It is a superb, uncrowded dog-friendly base once you plan around the summer heat and head to the official dog beach at El Bobar.",
+    "lat": 36.834,
+    "lng": -2.4637,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Mild and sunny",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Mild, mostly dry",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 16,
+        "desc": "Warm spring days",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Warm and bright",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Hot and dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot summer sun",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Very hot and dry",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Peak summer heat",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Hot, still summery",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Warm and pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild and sunny",
+        "icon": "☀️"
+      }
+    },
+    "iata": "LEI"
+  },
+  {
     "slug": "amsterdam",
     "name": "Amsterdam",
     "country": "Netherlands",
@@ -7810,6 +7885,81 @@
     "tiqetsId": "60814"
   },
   {
+    "slug": "gijon",
+    "name": "Gijón",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/gijon.jpg",
+    "intro": "Gijón is Asturias' easygoing seaside city, where a flat 1.5 km promenade links the old fishing quarter to the clifftop sculptures of Cerro de Santa Catalina and dogs are part of everyday cider-bar life. With the year-round El Rinconín dog beach, more than 40 off-leash green zones and two 24-hour veterinary hospitals, it is one of the most genuinely dog-friendly bases on Spain's green north coast.",
+    "lat": 43.5322,
+    "lng": -5.6611,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Cool & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warmest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Warm & mild",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & damp",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "OVD"
+  },
+  {
     "slug": "glasgow",
     "name": "Glasgow",
     "country": "United Kingdom",
@@ -14495,6 +14645,81 @@
       }
     },
     "iata": "RKT"
+  },
+  {
+    "slug": "ravenna",
+    "name": "Ravenna",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/ravenna.jpg",
+    "intro": "Ravenna pairs UNESCO Byzantine mosaics with flat, walkable streets and a ring of pinewoods and Adriatic lidi on its doorstep. It is an easy, dog-friendly base where leashed walks, dog beaches and relaxed osterie terraces are never far away.",
+    "lat": 44.4184,
+    "lng": 12.2035,
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cold and damp",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cool, occasional fog",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild spring days",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Pleasant and green",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot, beach season",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot and humid",
+        "icon": "🌞"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Peak summer heat",
+        "icon": "🌞"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm, milder",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 10,
+        "desc": "Cool and wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold and foggy",
+        "icon": "🌫️"
+      }
+    },
+    "iata": "BLQ"
   },
   {
     "slug": "regensburg",

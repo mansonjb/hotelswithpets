@@ -21,6 +21,21 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    gijon: {
+      personality: `a relaxed Cantabrian-coast cider city where dogs trot beside their owners along the seafront and doze under the tables of bustling sidrerías.`,
+      highlight: `El Rinconín, Gijón's year-round dog beach, complete with its own fenced off-leash dog park right beside the sand.`,
+      area: `Cimavilla, the brightly painted old fishing quarter, climbs to the clifftop lawns of Cerro de Santa Catalina, perfect for leashed sunset walks beneath Chillida's sculpture.`,
+    },
+    almeria: {
+      personality: `Sun-drenched, easygoing and refreshingly uncrowded, Almería rewards dog owners who plan around the heat with empty beaches and wide desert horizons.`,
+      highlight: `Cooling off with your dog at the official El Bobar dog beach, then watching the sun set over the Alcazaba's floodlit walls.`,
+      area: `Base yourself in the walkable old town near the Cathedral, or out at El Toyo and Retamar for direct beach access on the edge of Cabo de Gata.`,
+    },
+    ravenna: {
+      personality: `Ravenna is a flat, unhurried mosaic city where a leashed dog fits naturally into pedestrian piazzas, pinewood trails and the easygoing rhythm of the Adriatic coast.`,
+      highlight: `Pair a morning of Byzantine mosaics, visited in turns, with an afternoon dog-walk through the Pineta di San Vitale and a swim at a Marina di Ravenna dog beach.`,
+      area: `Stay in the walled centre for the mosaics and Dante's Tomb, or out at Marina di Ravenna and the lidi for beach access and seafood trattorias.`,
+    },
     'saint-malo': {
       personality: `one of the most atmospheric walled coastal cities in France`,
       highlight: `the intra-muros ramparts walk, the Plage du Sillon, and the tidal Grand Be islet`,
@@ -1614,6 +1629,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    gijon: {
+      personality: `une ville cidricole décontractée de la côte cantabrique où les chiens trottent aux côtés de leurs maîtres le long du front de mer et somnolent sous les tables des sidrerías animées.`,
+      highlight: `El Rinconín, la plage canine de Gijón ouverte toute l'année, avec son propre parc clôturé pour chiens en liberté juste à côté du sable.`,
+      area: `Cimavilla, le vieux quartier de pêcheurs aux maisons colorées, grimpe vers les pelouses du Cerro de Santa Catalina, parfaites pour des promenades en laisse au coucher du soleil sous la sculpture de Chillida.`,
+    },
+    almeria: {
+      personality: `Baignée de soleil, décontractée et délicieusement peu fréquentée, Almería récompense les maîtres qui s'organisent autour de la chaleur par des plages désertes et de larges horizons de désert.`,
+      highlight: `Rafraîchir son chien à la plage canine officielle d'El Bobar, puis regarder le soleil se coucher sur les remparts illuminés de l'Alcazaba.`,
+      area: `Installez-vous dans la vieille ville piétonne près de la cathédrale, ou à El Toyo et Retamar pour un accès direct à la plage en lisière de Cabo de Gata.`,
+    },
+    ravenna: {
+      personality: `Ravenne est une ville de mosaïques plate et sans hâte, où un chien en laisse trouve naturellement sa place sur les places piétonnes, les sentiers des pinèdes et le rythme nonchalant de la côte adriatique.`,
+      highlight: `Associez une matinée de mosaïques byzantines, visitées en relais, à une promenade canine dans la Pineta di San Vitale et à une baignade sur une plage pour chiens de Marina di Ravenna.`,
+      area: `Logez dans le centre fortifié pour les mosaïques et la tombe de Dante, ou à Marina di Ravenna et sur les lidi pour l'accès à la plage et les trattorias de poisson.`,
+    },
     'saint-malo': {
       personality: `l'une des cités côtières fortifiées les plus pittoresques de France`,
       highlight: `la promenade des remparts intra-muros, la Plage du Sillon et l'îlot du Grand Bé à marée`,
@@ -3206,6 +3236,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    gijon: {
+      personality: `una relajada ciudad sidrera de la costa cantábrica donde los perros caminan junto a sus dueños por el paseo marítimo y dormitan bajo las mesas de las animadas sidrerías.`,
+      highlight: `El Rinconín, la playa canina de Gijón abierta todo el año, con su propio parque vallado para perros sueltos justo al lado de la arena.`,
+      area: `Cimavilla, el colorido barrio pesquero antiguo, sube hasta las praderas del Cerro de Santa Catalina, ideales para paseos con correa al atardecer bajo la escultura de Chillida.`,
+    },
+    almeria: {
+      personality: `Bañada de sol, tranquila y deliciosamente poco masificada, Almería recompensa a los dueños que se organizan en torno al calor con playas vacías y amplios horizontes de desierto.`,
+      highlight: `Refrescar a tu perro en la playa canina oficial de El Bobar y luego ver ponerse el sol sobre las murallas iluminadas de la Alcazaba.`,
+      area: `Alójate en el casco antiguo peatonal cerca de la Catedral, o en El Toyo y Retamar para acceso directo a la playa al borde de Cabo de Gata.`,
+    },
+    ravenna: {
+      personality: `Rávena es una ciudad de mosaicos llana y sin prisas, donde un perro con correa encaja con naturalidad en las plazas peatonales, los senderos de los pinares y el ritmo relajado de la costa adriática.`,
+      highlight: `Combina una mañana de mosaicos bizantinos, visitados por turnos, con un paseo canino por la Pineta di San Vitale y un baño en una playa para perros de Marina di Ravenna.`,
+      area: `Alójate en el centro amurallado para los mosaicos y la Tumba de Dante, o en Marina di Ravenna y los lidi para acceder a la playa y a las trattorias de pescado.`,
+    },
     'saint-malo': {
       personality: `una de las ciudades costeras amuralladas con más encanto de Francia`,
       highlight: `el paseo por las murallas intra-muros, la Plage du Sillon y el islote de marea del Grand Bé`,
@@ -4798,6 +4843,21 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    gijon: {
+      personality: `uma descontraída cidade da sidra da costa cantábrica onde os cães caminham ao lado dos donos pela frente de mar e dormitam debaixo das mesas das animadas sidrerías.`,
+      highlight: `El Rinconín, a praia canina de Gijón aberta todo o ano, com o seu próprio parque vedado para cães à solta mesmo ao lado da areia.`,
+      area: `Cimavilla, o colorido bairro piscatório antigo, sobe até aos relvados do Cerro de Santa Catalina, ideais para passeios com trela ao pôr do sol sob a escultura de Chillida.`,
+    },
+    almeria: {
+      personality: `Banhada de sol, descontraída e deliciosamente pouco massificada, Almería recompensa os donos que se organizam em torno do calor com praias vazias e amplos horizontes de deserto.`,
+      highlight: `Refrescar o seu cão na praia canina oficial de El Bobar e depois ver o sol pôr-se sobre as muralhas iluminadas da Alcazaba.`,
+      area: `Fique-se pelo centro histórico pedonal junto à Catedral, ou em El Toyo e Retamar para acesso direto à praia na orla de Cabo de Gata.`,
+    },
+    ravenna: {
+      personality: `Ravena é uma cidade de mosaicos plana e sem pressa, onde um cão com trela se encaixa naturalmente nas praças pedonais, nos trilhos dos pinhais e no ritmo descontraído da costa adriática.`,
+      highlight: `Junte uma manhã de mosaicos bizantinos, visitados por turnos, a um passeio com o cão pela Pineta di San Vitale e a um mergulho numa praia para cães de Marina di Ravenna.`,
+      area: `Fique no centro muralhado para os mosaicos e o Túmulo de Dante, ou em Marina di Ravenna e nos lidi para acesso à praia e às trattorias de peixe.`,
+    },
     'saint-malo': {
       personality: `uma das cidades costeiras amuralhadas mais pitorescas de França`,
       highlight: `o passeio nas muralhas intra-muros, a Plage du Sillon e o ilhéu de maré do Grand Bé`,

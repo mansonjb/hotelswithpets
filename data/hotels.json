@@ -44131,5 +44131,409 @@
       "Heated indoor pool, hot tub and sauna",
       "Budget-friendly pet fee of 10 EUR"
     ]
+  },
+  {
+    "id": "gijon-1",
+    "slug": "hotel-principe-de-asturias",
+    "name": "Hotel Príncipe de Asturias",
+    "destinationSlug": "gijon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1900,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Pr%C3%ADncipe+de+Asturias+Gij%C3%B3n",
+    "petFee": 10,
+    "petPolicy": "This 4-star hotel in the San Lorenzo beach district welcomes dogs in designated rooms for a fee of around 10 EUR per pet, per night, and owners are asked to bring a blanket for the dog to sleep on. Cats may also be accepted on request. Please confirm with the property when booking.",
+    "address": "C/ Manso 2, 33203 Gijón",
+    "neighborhood": "Playa de San Lorenzo",
+    "highlights": [
+      "A 4-minute walk to Playa de San Lorenzo",
+      "Beside Parque de Isabel la Católica",
+      "Designated pet-friendly rooms"
+    ]
+  },
+  {
+    "id": "gijon-2",
+    "slug": "hotel-san-miguel",
+    "name": "Hotel San Miguel",
+    "destinationSlug": "gijon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.7,
+    "reviewCount": 1874,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+San+Miguel+Gij%C3%B3n",
+    "petFee": 0,
+    "petPolicy": "A central 2-star hotel a few steps from Playa de San Lorenzo that accepts dogs and cats at no extra charge, with a maximum of two pets per room. Dogs must be leashed in common areas and may not be left alone in the room. Please confirm with the property when booking.",
+    "address": "Calle Marqués de Casa Valdés 8, 33202 Gijón",
+    "neighborhood": "Playa de San Lorenzo / Centro",
+    "highlights": [
+      "Steps from Playa de San Lorenzo",
+      "No pet fee, up to two pets",
+      "Central, walkable location"
+    ]
+  },
+  {
+    "id": "gijon-3",
+    "slug": "hotel-don-manuel",
+    "name": "Hotel Don Manuel",
+    "destinationSlug": "gijon",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "dogs-stay-free",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 900,
+    "priceFrom": 78,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Don+Manuel+Gij%C3%B3n",
+    "petFee": 0,
+    "petPolicy": "A modern 4-star hotel beside the marina and Puerto Deportivo that welcomes dogs of any size at no additional fee, with staff known for being warm toward pets. Cats are not accepted. Please confirm with the property when booking.",
+    "address": "C/ Linares Rivas 4, 33206 Gijón",
+    "neighborhood": "Puerto Deportivo / Centro",
+    "highlights": [
+      "Facing the marina and Puerto Deportivo",
+      "Dogs of any size stay free",
+      "Steps from the shopping district"
+    ]
+  },
+  {
+    "id": "gijon-4",
+    "slug": "hotel-prada",
+    "name": "Hotel Prada",
+    "destinationSlug": "gijon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "beach-access",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.2,
+    "reviewCount": 700,
+    "priceFrom": 58,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Prada+Gij%C3%B3n",
+    "petFee": 0,
+    "petPolicy": "A centrally located hotel in the Playa de San Lorenzo neighbourhood that welcomes dogs of any size at no additional fee. Cats may also be allowed on request. Please confirm with the property when booking.",
+    "address": "Calle Marqués de Casa Valdés 65, 33202 Gijón",
+    "neighborhood": "Playa de San Lorenzo",
+    "highlights": [
+      "Dogs of any size stay free",
+      "Near Plaza de Toros El Bibio",
+      "Walkable to San Lorenzo beach"
+    ]
+  },
+  {
+    "id": "gijon-5",
+    "slug": "hotel-la-polar",
+    "name": "Hotel La Polar",
+    "destinationSlug": "gijon",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.3,
+    "reviewCount": 2594,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+La+Polar+Gij%C3%B3n",
+    "petFee": 0,
+    "petPolicy": "A friendly 2-star hotel near Parque de Isabel la Católica that accepts one dog up to 12 kg in designated rooms at no additional fee. Advance notice is recommended and dogs must be kept under control in common areas. Please confirm with the property when booking.",
+    "address": "Av. José Manuel Palacio 20, 33207 Gijón",
+    "neighborhood": "Viesques / El Bibio",
+    "highlights": [
+      "One small dog stays free",
+      "Near Parque de Isabel la Católica",
+      "24-hour reception"
+    ]
+  },
+  {
+    "id": "almeria-1",
+    "slug": "sercotel-gran-fama",
+    "name": "Sercotel Gran Fama",
+    "destinationSlug": "almeria",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1577,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sercotel+Gran+Fama+Almer%C3%ADa",
+    "petFee": 20,
+    "petPolicy": "Pets are welcome for an extra charge of around €20 per pet, per day, with a limit of two dogs per room and a maximum weight of about 20 kg per pet. Only certain rooms are pet-friendly, so request one when you book. Please confirm with the property when booking.",
+    "address": "Avenida del Mediterráneo 281, 04007 Almería",
+    "neighborhood": "Mediterráneo / shopping district",
+    "highlights": [
+      "Modern 4-star comfort",
+      "Free private parking",
+      "Near shopping and leisure"
+    ]
+  },
+  {
+    "id": "almeria-2",
+    "slug": "hotel-la-perla",
+    "name": "Hotel La Perla",
+    "destinationSlug": "almeria",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.2,
+    "reviewCount": 3003,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+La+Perla+Almer%C3%ADa",
+    "petFee": 10,
+    "petPolicy": "Pets of any size are welcome on request for an extra charge of around €10 per pet, per night. The hotel asks you to notify them in advance so they can explain the house rules. Please confirm with the property when booking.",
+    "address": "Plaza del Carmen 7, 04003 Almería",
+    "neighborhood": "Old town, near the Cathedral and Puerta de Purchena",
+    "highlights": [
+      "Heart of the old town",
+      "Steps from the Cathedral",
+      "Great value central base"
+    ]
+  },
+  {
+    "id": "almeria-3",
+    "slug": "hotel-embajador",
+    "name": "Hotel Embajador",
+    "destinationSlug": "almeria",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 6.7,
+    "reviewCount": 2613,
+    "priceFrom": 45,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Embajador+Almer%C3%ADa",
+    "petFee": 8,
+    "petPolicy": "Small dogs up to about 5 kg are welcome for an extra charge of around €8 per pet, per night, and pets cannot be left unattended in the rooms. Larger dogs are not accepted, so this option suits small breeds only. Please confirm with the property when booking.",
+    "address": "Calle Calzada de Castro 4, 04006 Almería",
+    "neighborhood": "Central, near the train and bus station",
+    "highlights": [
+      "5 minutes to the city centre",
+      "24-hour reception",
+      "Handy for the station"
+    ]
+  },
+  {
+    "id": "almeria-4",
+    "slug": "alegria-cabo-de-gata",
+    "name": "ALEGRIA Cabo de Gata",
+    "destinationSlug": "almeria",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 7.7,
+    "reviewCount": 2637,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=ALEGRIA+Cabo+de+Gata+Almer%C3%ADa",
+    "petFee": 10,
+    "petPolicy": "Pets up to around 8 kg are welcome for a supplement of about €10 per pet, per day, and must be kept on a leash in the common areas. Dogs are not allowed in the restaurant or pool zones, so plan around mealtimes. Please confirm with the property when booking.",
+    "address": "Calle Juegos de Argel s/n, Urbanización El Toyo, Retamar, 04131 Almería",
+    "neighborhood": "Retamar / El Toyo beach, Cabo de Gata edge",
+    "highlights": [
+      "Close to El Toyo beaches",
+      "Family-friendly resort",
+      "Gateway to Cabo de Gata"
+    ]
+  },
+  {
+    "id": "almeria-5",
+    "slug": "hotel-cabogata-jardin",
+    "name": "Hotel Cabogata Jardín",
+    "destinationSlug": "almeria",
+    "categories": [
+      "dog-friendly",
+      "beach-access",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.0,
+    "reviewCount": 119,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Cabogata+Jard%C3%ADn+Almer%C3%ADa",
+    "petFee": 15,
+    "petPolicy": "Dogs are welcome on request, with one pet per room, and the fee is arranged directly with the hotel at check-in. Pets cannot be left alone in the room or access the restaurant, pools and certain areas; leave a do-not-disturb sign if you step out. Please confirm with the property when booking.",
+    "address": "Calle de los Juegos de Casablanca s/n, Urbanización El Toyo, Retamar, 04131 Almería",
+    "neighborhood": "Retamar / El Toyo beachfront, Cabo de Gata edge",
+    "highlights": [
+      "Right by El Toyo beach",
+      "Quiet beachfront setting",
+      "Dogs welcome on request"
+    ]
+  },
+  {
+    "id": "ravenna-1",
+    "slug": "palazzo-bezzi-hotel",
+    "name": "Palazzo Bezzi Hotel",
+    "destinationSlug": "ravenna",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1450,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Palazzo+Bezzi+Ravenna",
+    "petFee": 0,
+    "petPolicy": "Pets of any size are welcome at no extra charge, and the hotel even provides a small welcome bag for dogs. It is a smart central 4-star with a spa, a few minutes from the mosaics and Dante's Tomb. Please confirm with the property when booking.",
+    "address": "Via Di Roma 45, Ravenna",
+    "neighborhood": "Centro storico",
+    "highlights": [
+      "Pets free, any size",
+      "Spa and wellness centre",
+      "Walk to the mosaics"
+    ]
+  },
+  {
+    "id": "ravenna-2",
+    "slug": "hotel-bisanzio",
+    "name": "Hotel Bisanzio",
+    "destinationSlug": "ravenna",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1100,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Bisanzio+Ravenna",
+    "petFee": 0,
+    "petPolicy": "Dogs are welcomed free of charge in the rooms; the property's policy is dogs only, so cats are not accepted. It sits in the heart of the centre, steps from the Baptistery of Neon and the San Vitale mosaics, with the Rocca Brancaleone garden nearby. Please confirm with the property when booking.",
+    "address": "Via Salara 30, Ravenna",
+    "neighborhood": "Centro storico",
+    "highlights": [
+      "Dogs stay free",
+      "Steps from the mosaics",
+      "Near Rocca Brancaleone park"
+    ]
+  },
+  {
+    "id": "ravenna-3",
+    "slug": "casa-masoli",
+    "name": "Casa Masoli",
+    "destinationSlug": "ravenna",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.4,
+    "reviewCount": 600,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Casa+Masoli+Ravenna",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at no extra charge in this characterful B&B set in a 17th-century palazzo, with one guest-praised dog-friendly suite full of antique furniture and books. It is just 450 metres from the Basilica di San Vitale and a short walk from the station. Please confirm with the property when booking.",
+    "address": "Via Girolamo Rossi 22, Ravenna",
+    "neighborhood": "Centro storico",
+    "highlights": [
+      "17th-century palazzo B&B",
+      "Pets free",
+      "Walk to San Vitale"
+    ]
+  },
+  {
+    "id": "ravenna-4",
+    "slug": "hotel-bermuda-marina-di-ravenna",
+    "name": "Hotel Bermuda",
+    "destinationSlug": "ravenna",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 420,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Bermuda+Marina+di+Ravenna",
+    "petFee": 10,
+    "petPolicy": "Pets are allowed on request and a small charge may apply, so signal your dog when booking. This relaxed 3-star at Marina di Ravenna offers free bikes and free parking and sits a short walk from Punta Marina beach and the lido dog-beach stretches. Please confirm with the property when booking.",
+    "address": "Viale Spalato 3, Marina di Ravenna",
+    "neighborhood": "Marina di Ravenna (lidi)",
+    "highlights": [
+      "Near Punta Marina beach",
+      "Free bikes and parking",
+      "Easy seaside base"
+    ]
+  },
+  {
+    "id": "ravenna-5",
+    "slug": "hotel-maddalena-marina-di-ravenna",
+    "name": "Hotel Maddalena",
+    "destinationSlug": "ravenna",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.1,
+    "reviewCount": 310,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel+Maddalena+Marina+di+Ravenna",
+    "petFee": 10,
+    "petPolicy": "Pets are allowed and a small charge may apply, so let the hotel know in advance. This friendly, simple 2-star in Marina di Ravenna has a garden and shared lounge and sits about a 15-minute walk from Punta Marina beach. Please confirm with the property when booking.",
+    "address": "Viale delle Nazioni 345, Marina di Ravenna",
+    "neighborhood": "Marina di Ravenna (lidi)",
+    "highlights": [
+      "Garden and lounge",
+      "Short walk to the beach",
+      "Budget seaside stay"
+    ]
   }
 ]

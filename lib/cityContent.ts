@@ -20889,6 +20889,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'saint-malo': {
+    history: {
+      fr: `Saint-Malo, cité corsaire fortifiée à l'embouchure de la Rance sur la Côte d'Émeraude, doit sa silhouette à ses remparts de granit du XIIe siècle et à sa vieille ville intra-muros, reconstruite pierre à pierre après les bombardements de 1944. Ancien repaire de corsaires armés par le roi, port d'armateurs et patrie de Jacques Cartier et de Chateaubriand, la ville vit au rythme des marées les plus fortes d'Europe, jusqu'à 13 mètres de marnage, qui découvrent et submergent tour à tour les îlots du Grand Bé et du Fort National. Le chemin de ronde de près de 2 km au sommet des remparts est la promenade emblématique, ouverte toute l'année aux chiens en laisse, tout comme le sentier côtier GR34. Le grand piège à anticiper : toutes les plages de la commune sont interdites aux chiens 24h/24 du 1er avril au 30 septembre, sous peine d'amende.`,
+      en: `Saint-Malo, a fortified corsair city at the mouth of the Rance on the Emerald Coast, owes its silhouette to its 12th-century granite ramparts and to the walled intra-muros old town, rebuilt stone for stone after the 1944 bombardments. Once a stronghold of privateers commissioned by the king, a shipowners' port and the birthplace of Jacques Cartier and Chateaubriand, the town lives by the strongest tides in Europe, a range of up to 13 metres that alternately uncovers and submerges the tidal islets of the Grand Bé and the Fort National. The 2 km rampart walk along the wall-top walkway is the signature stroll, open year-round to leashed dogs, as is the GR34 coastal path. The one big rule to plan around: every beach in the commune is closed to dogs 24/7 from 1 April to 30 September, with a fine for breaches.`,
+      es: `Saint-Malo, ciudad corsaria fortificada en la desembocadura del Rance, en la Costa Esmeralda, debe su silueta a sus murallas de granito del siglo XII y a su casco antiguo intramuros, reconstruido piedra a piedra tras los bombardeos de 1944. Antiguo refugio de corsarios al servicio del rey, puerto de armadores y cuna de Jacques Cartier y de Chateaubriand, la ciudad vive al ritmo de las mareas más fuertes de Europa, con un rango de hasta 13 metros que descubre y sumerge alternativamente los islotes del Grand Bé y del Fort National. El paseo de 2 km por lo alto de las murallas es el recorrido emblemático, abierto todo el año a los perros con correa, igual que el sendero costero GR34. La gran norma que conviene anticipar: todas las playas del municipio están prohibidas a los perros las 24 horas del 1 de abril al 30 de septiembre, con multa para quien la incumpla.`,
+      pt: `Saint-Malo, cidade corsária fortificada na foz do Rance, na Costa Esmeralda, deve a sua silhueta às muralhas de granito do século XII e ao centro histórico intramuros, reconstruído pedra a pedra após os bombardeamentos de 1944. Antigo refúgio de corsários ao serviço do rei, porto de armadores e berço de Jacques Cartier e de Chateaubriand, a cidade vive ao ritmo das marés mais fortes da Europa, com uma amplitude de até 13 metros que descobre e submerge alternadamente os ilhéus do Grand Bé e do Fort National. O passeio de 2 km no topo das muralhas é o percurso emblemático, aberto todo o ano aos cães com trela, tal como o trilho costeiro GR34. A grande regra a prever: todas as praias do concelho estão proibidas a cães 24 horas por dia de 1 de abril a 30 de setembro, sob pena de multa.`,
+    },
+    sights: [
+      {
+        name: 'Remparts de Saint-Malo',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Le chemin de ronde de près de 2 km au sommet des remparts de granit fait le tour complet de la vieille ville intra-muros, avec des vues sur la baie, les îlots et la Côte d'Émeraude. Ouvert toute l'année et gratuit, c'est la promenade canine emblématique de Saint-Malo, à parcourir en laisse.`,
+          en: `The roughly 2 km wall-top walkway along the granite ramparts makes a full loop of the walled intra-muros town, with views over the bay, the tidal islets and the Emerald Coast. Open year-round and free, it is Saint-Malo's signature dog walk, done on a leash.`,
+          es: `El camino de ronda de casi 2 km en lo alto de las murallas de granito rodea por completo el casco antiguo intramuros, con vistas a la bahía, los islotes y la Costa Esmeralda. Abierto todo el año y gratuito, es el paseo canino emblemático de Saint-Malo, siempre con correa.`,
+          pt: `O caminho de ronda de quase 2 km no topo das muralhas de granito contorna por completo o centro histórico intramuros, com vistas sobre a baía, os ilhéus e a Costa Esmeralda. Aberto todo o ano e gratuito, é o passeio canino emblemático de Saint-Malo, sempre com trela.`,
+        },
+      },
+      {
+        name: 'Grand Bé',
+        emoji: '🏝️',
+        petFriendly: true,
+        desc: {
+          fr: `Ce petit îlot rocheux face à la plage de Bon-Secours abrite la tombe austère de l'écrivain Chateaubriand, tournée vers le large. On y accède à pied par l'estran seulement à marée basse, les chiens en laisse sont admis sur le sentier, mais surveillez l'horaire des marées pour ne pas rester bloqué par la montée des eaux.`,
+          en: `This small rocky islet off Bon-Secours beach holds the austere tomb of the writer Chateaubriand, facing the open sea. It is reached on foot across the sand at low tide only, leashed dogs are allowed on the path, but watch the tide times closely so you are not cut off by the rising water.`,
+          es: `Este pequeño islote rocoso frente a la playa de Bon-Secours alberga la austera tumba del escritor Chateaubriand, de cara al mar abierto. Se accede a pie por la arena solo con marea baja, los perros con correa pueden recorrer el sendero, pero vigila el horario de las mareas para no quedar aislado por la subida del agua.`,
+          pt: `Este pequeno ilhéu rochoso em frente à praia de Bon-Secours abriga o túmulo austero do escritor Chateaubriand, virado para o mar aberto. Chega-se a pé pela areia apenas na maré baixa, os cães com trela podem percorrer o trilho, mas vigie o horário das marés para não ficar isolado pela subida da água.`,
+        },
+      },
+      {
+        name: 'Fort National',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Construit par Vauban en 1689 sur un îlot rocheux pour défendre la cité, le Fort National n'est accessible à pied qu'à marée basse. Les extérieurs et l'esplanade se découvrent en laisse, l'intérieur visité ne se fait pas avec un chien, mais l'îlot offre l'une des plus belles vues sur les remparts.`,
+          en: `Built by Vauban in 1689 on a rocky islet to defend the city, the Fort National is only reachable on foot at low tide. The exterior and the esplanade can be walked on a leash, the guided interior is not dog-friendly, but the islet gives one of the best views back over the ramparts.`,
+          es: `Construido por Vauban en 1689 sobre un islote rocoso para defender la ciudad, el Fort National solo es accesible a pie con marea baja. El exterior y la explanada se recorren con correa, el interior guiado no admite perros, pero el islote ofrece una de las mejores vistas de las murallas.`,
+          pt: `Construído por Vauban em 1689 sobre um ilhéu rochoso para defender a cidade, o Fort National só é acessível a pé na maré baixa. O exterior e a esplanada percorrem-se com trela, o interior visitável não aceita cães, mas o ilhéu oferece uma das melhores vistas sobre as muralhas.`,
+        },
+      },
+      {
+        name: 'Parc de la Briantais',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Ce parc de 27 hectares autour d'un château du XIXe siècle domine l'estuaire de la Rance, avec pelouses, allées arborées et vues sur la baie. Les chiens en laisse y sont les bienvenus, c'est l'une des plus belles sorties vertes de la ville, à l'écart de la foule des remparts.`,
+          en: `This 27-hectare park around a 19th-century château overlooks the Rance estuary, with lawns, tree-lined paths and bay views. Leashed dogs are welcome, it is one of the town's finest green outings, away from the rampart crowds.`,
+          es: `Este parque de 27 hectáreas en torno a un castillo del siglo XIX domina el estuario del Rance, con céspedes, paseos arbolados y vistas a la bahía. Los perros con correa son bienvenidos, es una de las mejores salidas verdes de la ciudad, lejos del gentío de las murallas.`,
+          pt: `Este parque de 27 hectares em torno de um castelo do século XIX domina o estuário do Rance, com relvados, alamedas arborizadas e vistas sobre a baía. Os cães com trela são bem-vindos, é uma das melhores saídas verdes da cidade, longe da multidão das muralhas.`,
+        },
+      },
+      {
+        name: 'Sentier des Douaniers (GR34)',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `L'ancien chemin des douaniers, devenu le sentier de grande randonnée GR34, longe toute la côte bretonne et passe par Saint-Malo, avec des kilomètres de littoral, de pointes et de criques. Idéal pour de longues promenades en laisse hors saison, quand les plages sont fermées aux chiens.`,
+          en: `The old customs officers' path, now the GR34 long-distance trail, follows the whole Breton coast and runs through Saint-Malo, with miles of shoreline, headlands and coves. Ideal for long off-season walks on a leash, when the beaches are closed to dogs.`,
+          es: `El antiguo camino de los aduaneros, hoy el sendero de gran recorrido GR34, recorre toda la costa bretona y pasa por Saint-Malo, con kilómetros de litoral, puntas y calas. Ideal para largos paseos con correa fuera de temporada, cuando las playas están cerradas a los perros.`,
+          pt: `O antigo caminho dos guardas aduaneiros, hoje o trilho de grande rota GR34, percorre toda a costa bretã e passa por Saint-Malo, com quilómetros de litoral, pontas e enseadas. Ideal para longos passeios com trela fora de época, quando as praias estão fechadas a cães.`,
+        },
+      },
+      {
+        name: 'Plage de Bon-Secours',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Cette plage abritée au pied des remparts, avec sa célèbre piscine d'eau de mer et son plongeoir, est l'un des lieux de baignade familiale de la cité. Comme toutes les plages malouines, elle est interdite aux chiens du 1er avril au 30 septembre, mais leur est ouverte en laisse du 1er octobre au 31 mars.`,
+          en: `This sheltered beach at the foot of the ramparts, with its famous seawater tidal pool and diving board, is one of the city's family bathing spots. Like every Saint-Malo beach, it is closed to dogs from 1 April to 30 September, but open to them on a leash from 1 October to 31 March.`,
+          es: `Esta playa resguardada al pie de las murallas, con su famosa piscina de agua de mar y su trampolín, es uno de los lugares de baño familiar de la ciudad. Como todas las playas malouinas, está prohibida a los perros del 1 de abril al 30 de septiembre, pero abierta a ellos con correa del 1 de octubre al 31 de marzo.`,
+          pt: `Esta praia abrigada ao pé das muralhas, com a sua famosa piscina de água do mar e prancha de saltos, é um dos locais de banho familiar da cidade. Como todas as praias de Saint-Malo, está proibida a cães de 1 de abril a 30 de setembro, mas aberta a eles com trela de 1 de outubro a 31 de março.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Règle numéro un : toutes les plages de Saint-Malo (Sillon, Bon-Secours, Rochebonne, Le Môle et autres) sont interdites aux chiens 24h/24 du 1er avril au 30 septembre, amende de 35 €, elles rouvrent en laisse du 1er octobre au 31 mars.`,
+        `Les remparts, les digues et le sentier côtier GR34 restent ouverts aux chiens en laisse toute l'année, c'est le plan B idéal en pleine saison estivale.`,
+        `Surveillez les marées avant de rejoindre le Grand Bé ou le Fort National : ces îlots ne sont accessibles à pied qu'à marée basse et l'eau remonte vite, jusqu'à 13 m de marnage.`,
+        `La vieille ville intra-muros est pavée et très fréquentée en été, promenez le chien tôt le matin ou en soirée et gardez-le en laisse courte dans les ruelles.`,
+        `Le climat atlantique reste doux même en juillet, mais emportez de l'eau, le granit des remparts et les pavés chauffent au soleil de l'après-midi.`,
+      ],
+      en: [
+        `Rule number one: every Saint-Malo beach (Sillon, Bon-Secours, Rochebonne, Le Môle and others) is closed to dogs 24/7 from 1 April to 30 September, a 35 EUR fine applies, they reopen to leashed dogs from 1 October to 31 March.`,
+        `The ramparts, sea dikes and the GR34 coastal path stay open to leashed dogs all year, the ideal plan B in peak summer.`,
+        `Watch the tides before walking out to the Grand Bé or the Fort National: these islets are only reachable on foot at low tide and the water comes back fast, with a range of up to 13 m.`,
+        `The walled intra-muros old town is cobbled and very busy in summer, walk your dog early morning or in the evening and keep it on a short leash in the lanes.`,
+        `The Atlantic climate stays mild even in July, but bring water, the granite ramparts and cobbles heat up in the afternoon sun.`,
+      ],
+      es: [
+        `Regla número uno: todas las playas de Saint-Malo (Sillon, Bon-Secours, Rochebonne, Le Môle y otras) están prohibidas a los perros las 24 horas del 1 de abril al 30 de septiembre, con multa de 35 €, reabren a los perros con correa del 1 de octubre al 31 de marzo.`,
+        `Las murallas, los diques y el sendero costero GR34 siguen abiertos a los perros con correa todo el año, el plan B ideal en plena temporada estival.`,
+        `Vigila las mareas antes de ir al Grand Bé o al Fort National: estos islotes solo son accesibles a pie con marea baja y el agua sube rápido, con un rango de hasta 13 m.`,
+        `El casco antiguo intramuros es empedrado y está muy concurrido en verano, pasea al perro temprano o al anochecer y llévalo con correa corta por las callejuelas.`,
+        `El clima atlántico es suave incluso en julio, pero lleva agua, el granito de las murallas y los adoquines se calientan con el sol de la tarde.`,
+      ],
+      pt: [
+        `Regra número um: todas as praias de Saint-Malo (Sillon, Bon-Secours, Rochebonne, Le Môle e outras) estão proibidas a cães 24 horas por dia de 1 de abril a 30 de setembro, com multa de 35 €, reabrem a cães com trela de 1 de outubro a 31 de março.`,
+        `As muralhas, os diques e o trilho costeiro GR34 permanecem abertos a cães com trela todo o ano, o plano B ideal em plena época estival.`,
+        `Vigie as marés antes de ir ao Grand Bé ou ao Fort National: estes ilhéus só são acessíveis a pé na maré baixa e a água sobe depressa, com uma amplitude de até 13 m.`,
+        `O centro histórico intramuros é empedrado e muito concorrido no verão, passeie o cão de manhã cedo ou ao anoitecer e mantenha-o com trela curta nas ruelas.`,
+        `O clima atlântico mantém-se ameno mesmo em julho, mas leve água, o granito das muralhas e a calçada aquecem ao sol da tarde.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Saint-Malo est desservie en TGV direct depuis Paris (environ 3 heures jusqu'à la gare), les chiens de moins de 6 kg voyagent en sac (7 €) et les plus grands en laisse et muselière (billet à 50 % du tarif 2e classe sur la SNCF).`,
+        `Le Bus de Mer de la Compagnie Corsaire relie Saint-Malo à Dinard à travers l'estuaire de la Rance, les chiens tenus en laisse sont admis à bord.`,
+        `Toutes les plages de la commune sont fermées aux chiens du 1er avril au 30 septembre (amende 35 €) ; remparts, digues et GR34 restent ouverts en laisse toute l'année.`,
+        `Clinique vétérinaire La Rose des Vents (Rue du Tertre aux Nèfles, 35400 Saint-Malo, +33 2 99 81 75 54) pour les consultations en journée.`,
+        `Urgences vétérinaires de nuit et week-end : service de garde au 3115 (numéro national gratuit 24h/24) ou ligne d'urgence locale +33 2 99 41 16 46.`,
+      ],
+      en: [
+        `Saint-Malo is served by a direct TGV from Paris (about 3 hours to the station), dogs under 6 kg travel in a carrier (7 EUR) and larger dogs on a leash and muzzle (ticket at 50% of the 2nd-class fare on SNCF).`,
+        `The Compagnie Corsaire sea bus links Saint-Malo to Dinard across the Rance estuary, leashed dogs are allowed on board.`,
+        `Every beach in the commune is closed to dogs from 1 April to 30 September (35 EUR fine); ramparts, sea dikes and the GR34 stay open on a leash all year.`,
+        `Clinique vétérinaire La Rose des Vents (Rue du Tertre aux Nèfles, 35400 Saint-Malo, +33 2 99 81 75 54) for daytime consultations.`,
+        `Night and weekend veterinary emergencies: on-call service on 3115 (free national 24/7 number) or the local emergency line +33 2 99 41 16 46.`,
+      ],
+      es: [
+        `Saint-Malo cuenta con TGV directo desde París (unas 3 horas hasta la estación), los perros de menos de 6 kg viajan en transportín (7 €) y los más grandes con correa y bozal (billete al 50 % de la tarifa de 2ª clase en SNCF).`,
+        `El Bus de Mer de la Compagnie Corsaire une Saint-Malo con Dinard cruzando el estuario del Rance, los perros con correa pueden subir a bordo.`,
+        `Todas las playas del municipio están cerradas a los perros del 1 de abril al 30 de septiembre (multa de 35 €); murallas, diques y el GR34 siguen abiertos con correa todo el año.`,
+        `Clínica veterinaria La Rose des Vents (Rue du Tertre aux Nèfles, 35400 Saint-Malo, +33 2 99 81 75 54) para consultas de día.`,
+        `Urgencias veterinarias de noche y fin de semana: servicio de guardia en el 3115 (número nacional gratuito 24h) o la línea de urgencia local +33 2 99 41 16 46.`,
+      ],
+      pt: [
+        `Saint-Malo tem TGV direto a partir de Paris (cerca de 3 horas até à estação), os cães com menos de 6 kg viajam em transportadora (7 €) e os maiores com trela e açaime (bilhete a 50 % da tarifa de 2.ª classe na SNCF).`,
+        `O Bus de Mer da Compagnie Corsaire liga Saint-Malo a Dinard atravessando o estuário do Rance, os cães com trela são admitidos a bordo.`,
+        `Todas as praias do concelho estão fechadas a cães de 1 de abril a 30 de setembro (multa de 35 €); muralhas, diques e o GR34 permanecem abertos com trela todo o ano.`,
+        `Clínica veterinária La Rose des Vents (Rue du Tertre aux Nèfles, 35400 Saint-Malo, +33 2 99 81 75 54) para consultas diurnas.`,
+        `Urgências veterinárias noturnas e de fim de semana: serviço de urgência no 3115 (número nacional gratuito 24h) ou a linha de emergência local +33 2 99 41 16 46.`,
+      ],
+    },
+  },
+
   salamanca: {
     history: {
       fr: `Salamanque, surnommée « la ville dorée » pour le grès doré qui pare ses monuments, doit sa renommée à son université, fondée en 1218 par Alphonse IX de León, l'une des plus anciennes d'Europe, encore em activité. Inscrite au patrimoine mondial de l'UNESCO en 1988, la ville concentre dans un centre historique compact certains des plus beaux exemples d'architecture plateresque et baroque d'Espagne : la façade ornée de l'université (1529), les deux cathédrales accolées (XIIe et XVIe siècles), la Casa das Conchas et la majestueuse Plaza Mayor (1729) considérée comme la plus belle d'Espagne. Capitale culturelle de la Castille-et-León, Salamanque accueille environ 30 000 étudiants pour 144 000 habitants, une démographie jeune qui anime ses ruelles pavées et ses bars à tapas. À 1h35 de Madrid em train Avant, la ville se découvre à pied avec un chien em laisse : aucune cathédrale ni musée n'admet les animaux, mais l'espace public, plazas, arcades, berges du Tormes, est l'un des plus dog-friendly d'Espagne.`,

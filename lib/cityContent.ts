@@ -7333,6 +7333,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  cassis: {
+    history: {
+      fr: `Cassis, ancien port de pêche provençal blotti entre le cap Canaille et le massif des Calanques, à 20 km à l'est de Marseille, est l'une des plus jolies stations de la côte méditerranéenne. Son port de carte postale, ses maisons ocre et pastel, son vignoble AOC en terrasses et la falaise du cap Canaille, l'une des plus hautes d'Europe à 394 m, en font un décor classé depuis 1923. Mais Cassis se gagne aussi par un grand renoncement pour le maître d'un chien : le cœur du parc national des Calanques, où se trouvent les célèbres calanques de Port-Pin, En-Vau et Sugiton, est interdit aux chiens, même tenus en laisse, pour protéger une faune et une flore fragiles. Les bonnes sorties canines se concentrent donc autour du village : le port et ses quais, la calanque de Port-Miou toute proche, la route des Crêtes au sommet du cap Canaille et les chemins du vignoble, tous accessibles en laisse.`,
+      en: `Cassis, a former Provençal fishing port tucked between Cap Canaille and the Calanques massif, 20 km east of Marseille, is one of the prettiest resorts on the Mediterranean coast. Its postcard harbour, ochre and pastel houses, terraced AOC vineyard and the Cap Canaille cliff, one of Europe's highest at 394 m, have made it a protected scene since 1923. But Cassis also comes with one big sacrifice for a dog owner: the heart of the Calanques National Park, home to the famous Port-Pin, En-Vau and Sugiton calanques, is closed to dogs, even on a leash, to protect fragile wildlife and plants. The good dog outings are therefore concentrated around the village: the harbour and its quays, the nearby Port-Miou calanque, the clifftop Route des Crêtes on Cap Canaille and the vineyard lanes, all open on a leash.`,
+      es: `Cassis, antiguo puerto pesquero provenzal encajado entre el cabo Canaille y el macizo de las Calanques, a 20 km al este de Marsella, es una de las estaciones más bonitas de la costa mediterránea. Su puerto de postal, sus casas ocres y pastel, su viñedo AOC en terrazas y el acantilado del cabo Canaille, uno de los más altos de Europa con 394 m, hacen de ella un paraje protegido desde 1923. Pero Cassis exige también una gran renuncia para el dueño de un perro: el corazón del parque nacional de las Calanques, donde están las célebres calas de Port-Pin, En-Vau y Sugiton, está prohibido a los perros, incluso con correa, para proteger una fauna y una flora frágiles. Los buenos paseos caninos se concentran, pues, en torno al pueblo: el puerto y sus muelles, la cala de Port-Miou muy cercana, la Route des Crêtes en lo alto del cabo Canaille y los caminos del viñedo, todos accesibles con correa.`,
+      pt: `Cassis, antigo porto de pesca provençal encaixado entre o cabo Canaille e o maciço das Calanques, a 20 km a leste de Marselha, é uma das estâncias mais bonitas da costa mediterrânica. O seu porto de postal, as casas ocres e pastel, a vinha AOC em terraços e a falésia do cabo Canaille, uma das mais altas da Europa com 394 m, fazem dela uma paisagem protegida desde 1923. Mas Cassis exige também uma grande renúncia ao dono de um cão: o coração do parque nacional das Calanques, onde estão as célebres calas de Port-Pin, En-Vau e Sugiton, está proibido a cães, mesmo com trela, para proteger uma fauna e flora frágeis. Os bons passeios caninos concentram-se, por isso, à volta da vila: o porto e os seus cais, a cala de Port-Miou ali perto, a Route des Crêtes no topo do cabo Canaille e os caminhos da vinha, todos acessíveis com trela.`,
+    },
+    sights: [
+      {
+        name: 'Port de Cassis',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: `Le vieux port, bordé du quai des Baux et de ses façades ocre et pastel, est le cœur vivant de Cassis, avec ses barques de pêche, ses terrasses et la vue sur le cap Canaille. Les chiens en laisse y sont les bienvenus sur les quais et de nombreuses terrasses les acceptent en extérieur.`,
+          en: `The old harbour, lined by the Quai des Baux and its ochre and pastel façades, is the living heart of Cassis, with fishing boats, café terraces and views to Cap Canaille. Leashed dogs are welcome along the quays and many terraces accept them outside.`,
+          es: `El puerto viejo, bordeado por el Quai des Baux y sus fachadas ocres y pastel, es el corazón vivo de Cassis, con barcas de pesca, terrazas y vistas al cabo Canaille. Los perros con correa son bienvenidos en los muelles y muchas terrazas los aceptan en el exterior.`,
+          pt: `O porto velho, ladeado pelo Quai des Baux e pelas suas fachadas ocres e pastel, é o coração vivo de Cassis, com barcos de pesca, esplanadas e vistas para o cabo Canaille. Os cães com trela são bem-vindos nos cais e muitas esplanadas aceitam-nos no exterior.`,
+        },
+      },
+      {
+        name: 'Calanque de Port-Miou',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `La plus proche des calanques, un long fjord-port abritant un mouillage de plaisance à dix minutes à pied du village. Contrairement au cœur du parc, le sentier qui longe Port-Miou reste accessible aux chiens en laisse, c'est la seule calanque que l'on peut vraiment découvrir avec un chien.`,
+          en: `The closest of the calanques, a long fjord-like inlet sheltering a marina a ten-minute walk from the village. Unlike the park's core, the path that runs along Port-Miou stays open to leashed dogs, it is the one calanque you can genuinely explore with a dog.`,
+          es: `La más cercana de las calas, una larga ensenada tipo fiordo que alberga un fondeadero de recreo a diez minutos a pie del pueblo. A diferencia del corazón del parque, el sendero que bordea Port-Miou sigue accesible a los perros con correa, es la única cala que se puede recorrer de verdad con un perro.`,
+          pt: `A mais próxima das calas, uma longa enseada tipo fiorde que abriga um ancoradouro de recreio a dez minutos a pé da vila. Ao contrário do coração do parque, o trilho que ladeia Port-Miou permanece acessível aos cães com trela, é a única cala que se pode realmente percorrer com um cão.`,
+        },
+      },
+      {
+        name: 'Cap Canaille',
+        emoji: '🧗',
+        petFriendly: true,
+        desc: {
+          fr: `À l'est du village, le cap Canaille dresse l'une des plus hautes falaises maritimes d'Europe (394 m), parcourue par la spectaculaire route des Crêtes entre Cassis et La Ciotat. Belvédères et aires de stationnement permettent des arrêts panoramiques avec un chien en laisse, loin des restrictions du parc.`,
+          en: `East of the village, Cap Canaille rises as one of Europe's highest sea cliffs (394 m), crossed by the spectacular Route des Crêtes between Cassis and La Ciotat. Lookouts and pull-offs allow panoramic stops with a leashed dog, well clear of the park's restrictions.`,
+          es: `Al este del pueblo, el cabo Canaille se alza como uno de los acantilados marinos más altos de Europa (394 m), recorrido por la espectacular Route des Crêtes entre Cassis y La Ciotat. Miradores y áreas de parada permiten paradas panorámicas con un perro con correa, lejos de las restricciones del parque.`,
+          pt: `A leste da vila, o cabo Canaille ergue-se como uma das mais altas falésias marítimas da Europa (394 m), percorrida pela espetacular Route des Crêtes entre Cassis e La Ciotat. Miradouros e áreas de paragem permitem paragens panorâmicas com um cão com trela, longe das restrições do parque.`,
+        },
+      },
+      {
+        name: 'Presqu’île de Port-Miou',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `La presqu'île de Port-Miou, prolongée par le sentier du Petit Prince, offre une boucle côtière accessible juste à l'entrée des Calanques, avec vues sur la mer et les pins. C'est l'une des rares promenades nature aux portes du parc encore ouvertes aux chiens en laisse.`,
+          en: `The Port-Miou peninsula, extended by the Sentier du Petit Prince, offers a coastal loop right at the entrance to the Calanques, with sea and pine views. It is one of the few nature walks at the park's gates still open to leashed dogs.`,
+          es: `La península de Port-Miou, prolongada por el Sentier du Petit Prince, ofrece un circuito costero accesible justo a la entrada de las Calanques, con vistas al mar y a los pinos. Es uno de los pocos paseos de naturaleza a las puertas del parque que siguen abiertos a los perros con correa.`,
+          pt: `A península de Port-Miou, prolongada pelo Sentier du Petit Prince, oferece um circuito costeiro acessível mesmo à entrada das Calanques, com vistas para o mar e os pinheiros. É um dos poucos passeios de natureza às portas do parque ainda abertos aos cães com trela.`,
+        },
+      },
+      {
+        name: 'Vignobles AOC Cassis',
+        emoji: '🍇',
+        petFriendly: true,
+        desc: {
+          fr: `Cassis possède l'une des plus anciennes appellations de France (AOC depuis 1936), un vignoble en terrasses étiré entre le village et le cap Canaille, réputé pour ses blancs. Les chemins entre les parcelles se prêtent à de belles balades en laisse et plusieurs domaines accueillent les chiens en extérieur lors des dégustations.`,
+          en: `Cassis holds one of France's oldest appellations (AOC since 1936), a terraced vineyard stretched between the village and Cap Canaille and prized for its whites. The lanes between the plots make fine leashed walks, and several estates welcome dogs outdoors during tastings.`,
+          es: `Cassis posee una de las denominaciones más antiguas de Francia (AOC desde 1936), un viñedo en terrazas extendido entre el pueblo y el cabo Canaille y apreciado por sus blancos. Los caminos entre las parcelas invitan a bonitos paseos con correa y varias bodegas acogen a los perros en el exterior durante las catas.`,
+          pt: `Cassis possui uma das denominações mais antigas de França (AOC desde 1936), uma vinha em terraços estendida entre a vila e o cabo Canaille e apreciada pelos seus brancos. Os caminhos entre as parcelas convidam a belos passeios com trela e várias quintas acolhem os cães no exterior durante as provas.`,
+        },
+      },
+      {
+        name: 'Plage de Port-Miou',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La petite plage au fond de la calanque de Port-Miou, autour d'un port de plaisance, est l'option de baignade la plus réaliste avec un chien à proximité du village, les plages centrales de la Grande Mer et du Bestouan étant interdites aux chiens en saison. Crique rocheuse plutôt que sable, surveillez la chaleur sur la roche.`,
+          en: `The little beach at the end of the Port-Miou calanque, around a marina, is the most realistic bathing option with a dog near the village, since the central Grande Mer and Bestouan beaches ban dogs in season. A rocky cove rather than sand, watch the heat on the rock.`,
+          es: `La pequeña playa al fondo de la cala de Port-Miou, junto a un puerto deportivo, es la opción de baño más realista con un perro cerca del pueblo, ya que las playas centrales de la Grande Mer y del Bestouan prohíben los perros en temporada. Una cala rocosa más que de arena, vigila el calor sobre la roca.`,
+          pt: `A pequena praia ao fundo da cala de Port-Miou, junto a uma marina, é a opção de banho mais realista com um cão perto da vila, já que as praias centrais da Grande Mer e do Bestouan proíbem cães na época balnear. Uma enseada rochosa mais do que de areia, vigie o calor sobre a rocha.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le cœur du parc national des Calanques (Port-Pin, En-Vau, Sugiton) est interdit aux chiens même en laisse, c'est l'erreur n°1 du visiteur, prévoyez vos randonnées canines autour de Port-Miou, du cap Canaille et du vignoble.`,
+        `En été, le massif des Calanques ferme partiellement ou totalement selon le risque incendie, consultez chaque jour la carte d'accès de la préfecture (envenature ou MyProvence) avant de partir marcher.`,
+        `Les plages centrales de la Grande Mer et du Bestouan interdisent les chiens en saison balnéaire, la petite plage de Port-Miou est l'option de baignade la plus proche du village.`,
+        `La gare de Cassis est à 3,5 km en hauteur du village, une navette relie la gare au centre et aux départs des calanques, les chiens en laisse y sont admis.`,
+        `Chaleur provençale : la roche blanche des calanques et les quais réverbèrent fort, emportez de l'eau, marchez tôt le matin et évitez la pleine journée de juillet-août.`,
+      ],
+      en: [
+        `The heart of the Calanques National Park (Port-Pin, En-Vau, Sugiton) is closed to dogs even on a leash, the visitor's number-one mistake, plan your dog hikes around Port-Miou, Cap Canaille and the vineyard instead.`,
+        `In summer the Calanques massif closes partly or fully depending on fire risk, check the prefecture's daily access map (envenature or MyProvence) before setting out to walk.`,
+        `The central Grande Mer and Bestouan beaches ban dogs in the bathing season, the little Port-Miou beach is the closest swimming option to the village.`,
+        `Cassis station sits 3.5 km uphill from the village, a shuttle bus links the station to the centre and the calanque trailheads, leashed dogs are accepted.`,
+        `Provençal heat: the white calanque rock and the quays radiate strongly, carry water, walk early morning and avoid the middle of the day in July-August.`,
+      ],
+      es: [
+        `El corazón del parque nacional de las Calanques (Port-Pin, En-Vau, Sugiton) está prohibido a los perros incluso con correa, el error número uno del visitante, planifica tus rutas caninas en torno a Port-Miou, el cabo Canaille y el viñedo.`,
+        `En verano el macizo de las Calanques cierra parcial o totalmente según el riesgo de incendio, consulta cada día el mapa de acceso de la prefectura (envenature o MyProvence) antes de salir a caminar.`,
+        `Las playas centrales de la Grande Mer y del Bestouan prohíben los perros en temporada de baño, la pequeña playa de Port-Miou es la opción de baño más cercana al pueblo.`,
+        `La estación de Cassis está a 3,5 km cuesta arriba del pueblo, una lanzadera une la estación con el centro y los inicios de las calas, los perros con correa son admitidos.`,
+        `Calor provenzal: la roca blanca de las calas y los muelles reverberan con fuerza, lleva agua, pasea temprano y evita el centro del día en julio y agosto.`,
+      ],
+      pt: [
+        `O coração do parque nacional das Calanques (Port-Pin, En-Vau, Sugiton) está proibido a cães mesmo com trela, o erro número um do visitante, planeie as suas caminhadas caninas à volta de Port-Miou, do cabo Canaille e da vinha.`,
+        `No verão o maciço das Calanques fecha parcial ou totalmente consoante o risco de incêndio, consulte todos os dias o mapa de acesso da prefeitura (envenature ou MyProvence) antes de sair a caminhar.`,
+        `As praias centrais da Grande Mer e do Bestouan proíbem cães na época balnear, a pequena praia de Port-Miou é a opção de banho mais próxima da vila.`,
+        `A estação de Cassis fica a 3,5 km acima da vila, uma carreira liga a estação ao centro e aos inícios das calas, os cães com trela são admitidos.`,
+        `Calor provençal: a rocha branca das calas e os cais reverberam com força, leve água, passeie de manhã cedo e evite o meio do dia em julho e agosto.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cassis se rejoint en train régional TER sur la ligne Marseille-Toulon, mais la gare est à 3,5 km en hauteur du village ; une navette dessert le centre et les départs de calanques, chiens en laisse admis.`,
+        `Le cœur du parc national des Calanques est interdit aux chiens, même en laisse ; restez sur Port-Miou, le cap Canaille (route des Crêtes) et les chemins du vignoble pour les balades canines.`,
+        `En période estivale, l'accès au massif est réglementé selon le risque incendie (ouvert, restreint ou fermé) ; vérifiez la carte quotidienne de la préfecture des Bouches-du-Rhône avant toute randonnée.`,
+        `Clinique vétérinaire du Messuguet (45 Rue de la Tourdro, 13260 Cassis, +33 4 42 01 15 30) pour les consultations en journée.`,
+        `Urgences vétérinaires 24h/24 : CHV Massilia (121 avenue de Saint-Julien, 13012 Marseille, +33 4 91 82 13 13), centre référent du 3115, à environ 25 minutes de Cassis.`,
+      ],
+      en: [
+        `Cassis is reached by regional TER train on the Marseille-Toulon line, but the station is 3.5 km uphill from the village; a shuttle bus serves the centre and the calanque trailheads, leashed dogs allowed.`,
+        `The heart of the Calanques National Park is closed to dogs, even on a leash; stick to Port-Miou, Cap Canaille (Route des Crêtes) and the vineyard lanes for dog walks.`,
+        `In summer, access to the massif is regulated by fire risk (open, restricted or closed); check the Bouches-du-Rhône prefecture's daily access map before any hike.`,
+        `Clinique vétérinaire du Messuguet (45 Rue de la Tourdro, 13260 Cassis, +33 4 42 01 15 30) for daytime consultations.`,
+        `24/7 veterinary emergencies: CHV Massilia (121 avenue de Saint-Julien, 13012 Marseille, +33 4 91 82 13 13), the 3115 referral centre, about 25 minutes from Cassis.`,
+      ],
+      es: [
+        `Cassis se alcanza en tren regional TER en la línea Marsella-Tolón, pero la estación está a 3,5 km cuesta arriba del pueblo; una lanzadera sirve el centro y los inicios de las calas, perros con correa admitidos.`,
+        `El corazón del parque nacional de las Calanques está prohibido a los perros, incluso con correa; quédate en Port-Miou, el cabo Canaille (Route des Crêtes) y los caminos del viñedo para los paseos caninos.`,
+        `En verano, el acceso al macizo se regula según el riesgo de incendio (abierto, restringido o cerrado); consulta el mapa diario de la prefectura de Bouches-du-Rhône antes de cualquier ruta.`,
+        `Clínica veterinaria du Messuguet (45 Rue de la Tourdro, 13260 Cassis, +33 4 42 01 15 30) para consultas de día.`,
+        `Urgencias veterinarias 24h: CHV Massilia (121 avenue de Saint-Julien, 13012 Marsella, +33 4 91 82 13 13), centro de referencia del 3115, a unos 25 minutos de Cassis.`,
+      ],
+      pt: [
+        `Cassis alcança-se de comboio regional TER na linha Marselha-Toulon, mas a estação fica a 3,5 km acima da vila; uma carreira serve o centro e os inícios das calas, cães com trela admitidos.`,
+        `O coração do parque nacional das Calanques está proibido a cães, mesmo com trela; fique por Port-Miou, o cabo Canaille (Route des Crêtes) e os caminhos da vinha para os passeios caninos.`,
+        `No verão, o acesso ao maciço é regulado pelo risco de incêndio (aberto, restrito ou fechado); consulte o mapa diário da prefeitura de Bouches-du-Rhône antes de qualquer caminhada.`,
+        `Clínica veterinária du Messuguet (45 Rue de la Tourdro, 13260 Cassis, +33 4 42 01 15 30) para consultas diurnas.`,
+        `Urgências veterinárias 24h: CHV Massilia (121 avenue de Saint-Julien, 13012 Marselha, +33 4 91 82 13 13), centro de referência do 3115, a cerca de 25 minutos de Cassis.`,
+      ],
+    },
+  },
+
   catania: {
     history: {
       fr: `Catane, deuxième ville de Sicile avec environ 300 000 habitants (zone métropolitaine 1,1 million), s'étend au pied du volcan Etna, dont les coulées de lave ont littéralement façonné son architecture. Fondée par les Grecs au VIIIᵉ siècle av. J.-C. sur la côte ionienne, dévastée par le séisme de 1693, elle a été reconstruite en pierre de lave noire et calcaire blond dans un style baroque tardif, aujourd'hui classé au patrimoine mondial de l'UNESCO. Côté chiens, l'ordonnance municipale impose la laisse de 1,5 m dans tous les espaces publics, une muselière à disposition (à mettre sur demande dans les transports) et oblige les maîtres à porter une bouteille d'eau et de savon dilué pour rincer l'urine sur le trottoir, une particularité italienne strictement contrôlée. La ville dispose de trois hôpitaux vétérinaires 24h/24, d'une plage canine municipale ouverte à l'année sur la Plaja et de l'une des très rares aree cani clôturées du sud de l'Italie. La culture café-terrasse y est solidement dog-friendly, surtout dans le centro storico autour de la Piazza Duomo et de la Via Etnea.`,

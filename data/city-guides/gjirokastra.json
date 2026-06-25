@@ -1,0 +1,394 @@
+{
+  "slug": "gjirokastra",
+  "name": "Gjirokastër",
+  "country": "Albania",
+  "flag": "🇦🇱",
+  "lastUpdated": "2026-06-26",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Gjirokastër",
+      "titleFr": "Restaurants acceptant les animaux à Gjirokastër",
+      "titleEs": "Restaurantes con mascotas en Gjirokastër",
+      "titlePt": "Restaurantes pet-friendly em Gjirokastër",
+      "introEn": "Gjirokastër's restaurant scene is concentrated in the old Ottoman bazaar (pazari i vjetër) and along the road below the castle. The altitude (300 m above the Drino valley) keeps temperatures pleasantly lower than the coast, and outdoor terrace dining with dogs is relaxed and informal.",
+      "introFr": "Les restaurants de Gjirokastër se concentrent dans le vieux bazar ottoman (pazari i vjetër) et le long de la route sous le château. L'altitude (300 m au-dessus de la vallée du Drino) maintient des températures agréablement plus fraîches que sur la côte, et les repas en terrasse avec les chiens sont détendus et informels.",
+      "introEs": "Los restaurantes de Gjirokastër se concentran en el viejo bazar otomano (pazari i vjetër) y a lo largo de la carretera bajo el castillo. La altitud (300 m sobre el valle del Drino) mantiene temperaturas agradablemente más frescas que en la costa, y cenar en terraza con perros es relajado e informal.",
+      "introPt": "Os restaurantes de Gjirokastër concentram-se no velho bazar otomano (pazari i vjetër) e ao longo da estrada abaixo do castelo. A altitude (300 m acima do vale do Drino) mantém temperaturas agradavelmente mais frescas do que na costa, e o jantar na esplanada com cães é descontraído e informal.",
+      "places": [
+        {
+          "name": "Restaurant Kujtimi",
+          "address": "Pazari i Vjetër, Gjirokastër",
+          "neighborhood": "Old Bazaar",
+          "photo": "",
+          "website": "",
+          "description": "A well-regarded traditional restaurant inside the old bazaar, known for Albanian slow-cooked dishes including speca të mbushura (stuffed peppers), tave dheu (clay-pot lamb) and local wines. Outdoor tables under stone arches where dogs are welcome.",
+          "descriptionFr": "Un restaurant traditionnel très apprécié à l'intérieur du vieux bazar, connu pour les plats mijotés albanais comme les speca të mbushura (poivrons farcis), le tave dheu (agneau en cocotte de terre) et les vins locaux. Tables en extérieur sous des arches de pierre où les chiens sont les bienvenus.",
+          "descriptionEs": "Un restaurante tradicional muy valorado dentro del viejo bazar, conocido por los platos albaneses de cocción lenta, incluidos los speca të mbushura (pimientos rellenos), el tave dheu (cordero en cazuela de barro) y los vinos locales. Mesas al aire libre bajo arcos de piedra donde los perros son bienvenidos.",
+          "descriptionPt": "Um restaurante tradicional muito apreciado dentro do velho bazar, conhecido pelos pratos albaneses de cozimento lento, incluindo speca të mbushura (pimentos recheados), tave dheu (borrego em panela de barro) e vinhos locais. Mesas no exterior sob arcos de pedra onde os cães são bem-vindos.",
+          "petPolicy": "Dogs welcome at outdoor terrace tables",
+          "petPolicyFr": "Chiens acceptés en terrasse extérieure",
+          "petPolicyEs": "Perros admitidos en la terraza exterior",
+          "petPolicyPt": "Cães bem-vindos na esplanada exterior",
+          "priceRange": "€€",
+          "mustTry": "Tave dheu, stuffed peppers, local Gjirokastër wine",
+          "mustTryFr": "Tave dheu, poivrons farcis, vin local de Gjirokastër",
+          "mustTryEs": "Tave dheu, pimientos rellenos, vino local de Gjirokastër",
+          "mustTryPt": "Tave dheu, pimentos recheados, vinho local de Gjirokastër",
+          "openingHours": "Daily 10:00-22:00",
+          "tip": "The bazaar closes to most vehicle traffic by 11 AM; get there early to park near the restaurant before walking up the stone lanes",
+          "tipFr": "Le bazar est fermé à la plupart des véhicules à 11h ; arrivez tôt pour vous garer près du restaurant avant de monter les ruelles de pierre",
+          "tipEs": "El bazar cierra a la mayoría de los vehículos a las 11:00; llega temprano para aparcar cerca del restaurante antes de subir por las callejuelas de piedra",
+          "tipPt": "O bazar fecha para a maioria dos veículos às 11h; chegue cedo para estacionar perto do restaurante antes de subir as ruelas de pedra",
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurant+Kujtimi+Gjirokastra+Albania"
+        },
+        {
+          "name": "Taverna e Kalasë",
+          "address": "Rruga e Kalasë, Gjirokastër",
+          "neighborhood": "Castle road",
+          "photo": "",
+          "website": "",
+          "description": "A simple grill terrace on the road up to the castle, popular with day trippers for its views down over the stone-roofed city. Grilled meats, salads, and cold drinks. Dogs tie up at the terrace railing without issue.",
+          "descriptionFr": "Un grill-terrasse simple sur la route qui monte au château, populaire auprès des excursionnistes pour sa vue plongeante sur la ville aux toits de pierre. Viandes grillées, salades et boissons fraîches. Les chiens s'attachent à la balustrade de la terrasse sans problème.",
+          "descriptionEs": "Una terraza-parrilla sencilla en la carretera que sube al castillo, popular entre los visitantes de día por sus vistas sobre la ciudad de tejados de piedra. Carnes a la parrilla, ensaladas y bebidas frías. Los perros se atan en la barandilla de la terraza sin problema.",
+          "descriptionPt": "Uma esplanada-grelha simples na estrada de subida ao castelo, popular entre os visitantes de dia pelas suas vistas sobre a cidade de telhados de pedra. Carnes grelhadas, saladas e bebidas frescas. Os cães prendem-se no corrimão da esplanada sem problema.",
+          "petPolicy": "Dogs tolerated at terrace tables",
+          "petPolicyFr": "Chiens tolérés en terrasse",
+          "petPolicyEs": "Perros tolerados en la terraza",
+          "petPolicyPt": "Cães tolerados na esplanada",
+          "priceRange": "€",
+          "mustTry": "Qofte, lamb chops, Korça beer",
+          "mustTryFr": "Qofte, côtelettes d'agneau, bière Korça",
+          "mustTryEs": "Qofte, chuletas de cordero, cerveza Korça",
+          "mustTryPt": "Qofte, costeletas de borrego, cerveja Korça",
+          "openingHours": "Daily 09:00-21:00 (seasonal)",
+          "tip": "Sit on the left side of the terrace for the best castle-and-valley view; your dog can lie under the table in the shade from the awning",
+          "tipFr": "Asseyez-vous côté gauche de la terrasse pour la meilleure vue château-et-vallée ; votre chien peut se coucher sous la table à l'ombre de l'auvent",
+          "tipEs": "Siéntate en el lado izquierdo de la terraza para la mejor vista del castillo y el valle; tu perro puede tumbarse bajo la mesa a la sombra del toldo",
+          "tipPt": "Sente-se no lado esquerdo da esplanada para a melhor vista do castelo e vale; o seu cão pode deitar-se debaixo da mesa na sombra do toldo",
+          "googleMapsUrl": "https://maps.google.com/?q=castle+road+restaurant+Gjirokastra+Albania"
+        }
+      ],
+      "tipsEn": ["Gjirokastër is cooler than the coast thanks to its 300 m altitude; terraces are comfortable even in July (max 28°C vs 35°C on the Riviera).", "The old bazaar has no vehicle access for most of the day; leave the car at the lower car park and walk up with your dog.", "Water bowls are rarely on offer automatically; carry your own collapsible bowl."],
+      "tipsFr": ["Gjirokastër est plus fraîche que la côte grâce à son altitude de 300 m ; les terrasses sont agréables même en juillet (28°C max contre 35°C sur la Riviera).", "Le vieux bazar n'a pas d'accès véhicule pour la plupart de la journée ; laissez la voiture au parking inférieur et montez à pied avec votre chien.", "Les gamelles d'eau sont rarement proposées automatiquement ; apportez votre propre bol pliable."],
+      "tipsEs": ["Gjirokastër es más fresca que la costa gracias a su altitud de 300 m; las terrazas son cómodas incluso en julio (máx 28°C frente a 35°C en la Riviera).", "El viejo bazar no tiene acceso para vehículos la mayor parte del día; deja el coche en el aparcamiento inferior y sube a pie con tu perro.", "Los cuencos de agua raramente se ofrecen automáticamente; lleva tu propio cuenco plegable."],
+      "tipsPt": ["Gjirokastër é mais fresca do que a costa graças à sua altitude de 300 m; as esplanadas são confortáveis mesmo em julho (máx 28°C vs 35°C na Riviera).", "O velho bazar não tem acesso para veículos durante a maior parte do dia; deixe o carro no parque de estacionamento inferior e suba a pé com o seu cão.", "As tigelas de água raramente são oferecidas automaticamente; leve o seu próprio copo dobrável."],
+      "faqsEn": [
+        { "q": "Are dogs allowed in the old bazaar of Gjirokastër?", "a": "Yes. The bazaar is an open pedestrian area and dogs walk through without restriction. The stone-paved lanes are narrow but manageable with a lead." },
+        { "q": "What Albanian dishes can I share with my dog?", "a": "Plain grilled meats (qofte, lamb) are safe to share in small amounts. Avoid Albanian byrek pastry (fatty) and garlic-heavy salads." }
+      ],
+      "faqsFr": [
+        { "q": "Les chiens sont-ils autorisés dans le vieux bazar de Gjirokastër ?", "a": "Oui. Le bazar est une zone piétonne ouverte et les chiens y circulent sans restriction. Les ruelles pavées de pierre sont étroites mais praticables en laisse." },
+        { "q": "Quels plats albanais puis-je partager avec mon chien ?", "a": "Les viandes grillées simples (qofte, agneau) sont sans danger à partager en petites quantités. Évitez la pâte de byrek albanaise (grasse) et les salades à forte teneur en ail." }
+      ],
+      "faqsEs": [
+        { "q": "¿Se permiten los perros en el viejo bazar de Gjirokastër?", "a": "Sí. El bazar es una zona peatonal abierta y los perros pasan sin restricción. Los callejones empedrados son estrechos pero manejables con correa." },
+        { "q": "¿Qué platos albaneses puedo compartir con mi perro?", "a": "Las carnes a la parrilla simples (qofte, cordero) son seguras para compartir en pequeñas cantidades. Evita la pasta de byrek albanesa (grasienta) y las ensaladas con mucho ajo." }
+      ],
+      "faqsPt": [
+        { "q": "Os cães são permitidos no velho bazar de Gjirokastër?", "a": "Sim. O bazar é uma área pedonal aberta e os cães circulam sem restrições. As ruelas de pedra são estreitas mas manejáveis com trela." },
+        { "q": "Que pratos albaneses posso partilhar com o meu cão?", "a": "Carnes grelhadas simples (qofte, borrego) são seguras para partilhar em pequenas quantidades. Evite a massa de byrek albanesa (gordurosa) e as saladas com muito alho." }
+      ]
+    },
+    "parks": {
+      "titleEn": "Green Spaces & Dog Walks in Gjirokastër",
+      "titleFr": "Espaces verts et balades avec chien à Gjirokastër",
+      "titleEs": "Zonas verdes y paseos con perro en Gjirokastër",
+      "titlePt": "Espaços verdes e passeios com cão em Gjirokastër",
+      "introEn": "Gjirokastër sits on a steep hillside and green spaces are mostly on the slopes around the castle and in the Drino valley below. The city park (Parku i Qytetit) on the main boulevard is the primary flat walking area. Dogs are off-leash throughout most of the city in practice.",
+      "introFr": "Gjirokastër est perchée sur une colline escarpée et les espaces verts se trouvent principalement sur les pentes autour du château et dans la vallée du Drino en contrebas. Le parc de la ville (Parku i Qytetit) sur le boulevard principal est la principale zone de promenade plane. En pratique, les chiens sont sans laisse dans la majeure partie de la ville.",
+      "introEs": "Gjirokastër está situada en una ladera empinada y los espacios verdes se encuentran principalmente en las laderas alrededor del castillo y en el valle del Drino abajo. El parque de la ciudad (Parku i Qytetit) en el boulevard principal es la principal zona de paseo plana. En la práctica, los perros van sin correa en la mayor parte de la ciudad.",
+      "introPt": "Gjirokastër situa-se numa encosta íngreme e os espaços verdes encontram-se principalmente nas encostas em redor do castelo e no vale do Drino em baixo. O parque da cidade (Parku i Qytetit) na avenida principal é a principal área de caminhada plana. Na prática, os cães circulam sem trela na maior parte da cidade.",
+      "places": [
+        {
+          "name": "Parku i Qytetit (City Park)",
+          "address": "Bulevardi 18 Shtatori, Gjirokastër",
+          "neighborhood": "City centre",
+          "photo": "",
+          "website": "",
+          "description": "The main municipal park along the central boulevard, with grassy areas, benches, and large shade trees. Local families bring dogs here regularly. The park is flat and accessible, a contrast to the steep castle streets.",
+          "descriptionFr": "Le principal parc municipal le long du boulevard central, avec des pelouses, des bancs et de grands arbres ombragés. Les familles locales y amènent régulièrement leurs chiens. Le parc est plat et accessible, un contraste avec les rues escarpées du château.",
+          "descriptionEs": "El principal parque municipal a lo largo del boulevard central, con zonas de hierba, bancos y grandes árboles con sombra. Las familias locales traen perros aquí regularmente. El parque es llano y accesible, un contraste con las empinadas calles del castillo.",
+          "descriptionPt": "O principal parque municipal ao longo da avenida central, com áreas relvadas, bancos e grandes árvores com sombra. As famílias locais trazem cães aqui regularmente. O parque é plano e acessível, um contraste com as ruas íngremes do castelo.",
+          "petPolicy": "Dogs welcome, de facto off-leash",
+          "petPolicyFr": "Chiens bienvenus, sans laisse de facto",
+          "petPolicyEs": "Perros bienvenidos, sin correa de facto",
+          "petPolicyPt": "Cães bem-vindos, sem trela de facto",
+          "openingHours": "Always open",
+          "tip": "Morning from 7:00-9:00 and evening after 18:00 are the local dog-walking hours; you will meet other owners and their dogs, which eases socialisation",
+          "tipFr": "Le matin de 7h à 9h et le soir après 18h sont les heures de promenade locales avec les chiens ; vous rencontrerez d'autres propriétaires et leurs chiens, ce qui facilite la socialisation",
+          "tipEs": "Por la mañana de 7:00 a 9:00 y por la tarde después de las 18:00 son las horas locales de paseo con perros; conocerás a otros dueños y sus perros, lo que facilita la socialización",
+          "tipPt": "De manhã das 7:00 às 9:00 e à tarde depois das 18:00 são os horários locais de passeio com cães; vai encontrar outros donos e os seus cães, o que facilita a socialização",
+          "googleMapsUrl": "https://maps.google.com/?q=City+Park+Gjirokastra+Albania"
+        }
+      ],
+      "tipsEn": ["The hillside paths above the castle connect to open scrubland where dogs roam freely; bring a tick prevention treatment as the area has sheep and rough vegetation.", "The Drino valley floor (accessible by car, 5 min from city centre) has flat agricultural fields and a small river; quiet and off-leash friendly.", "Avoid the steep castle approach in rain; wet limestone cobblestones are very slippery for dogs."],
+      "tipsFr": ["Les sentiers sur le versant au-dessus du château débouchent sur une garrigue ouverte où les chiens circulent librement ; apportez un traitement antiparasitaire car la zone accueille des moutons et une végétation rude.", "Le fond de la vallée du Drino (accessible en voiture, 5 min du centre-ville) a des champs agricoles plats et un petit ruisseau ; calme et propice à la balade sans laisse.", "Évitez l'approche escarpée du château sous la pluie ; les pavés en calcaire mouillés sont très glissants pour les chiens."],
+      "tipsEs": ["Los senderos de la ladera sobre el castillo se conectan con terreno abierto donde los perros deambulan libremente; lleva un tratamiento antiparasitario ya que la zona tiene ovejas y vegetación abrupta.", "El fondo del valle del Drino (accesible en coche, 5 min del centro) tiene campos agrícolas llanos y un pequeño río; tranquilo y apto para paseos sin correa.", "Evita el empinado acceso al castillo con lluvia; los adoquines de caliza mojados son muy resbaladizos para los perros."],
+      "tipsPt": ["Os trilhos nas encostas acima do castelo ligam a matagal aberto onde os cães circulam livremente; leve um tratamento antiparasitário pois a área tem ovelhas e vegetação áspera.", "O fundo do vale do Drino (acessível de carro, 5 min do centro da cidade) tem campos agrícolas planos e um pequeno riacho; calmo e adequado para passeios sem trela.", "Evite a subida íngreme ao castelo com chuva; as pedras de calcário molhadas são muito escorregadias para os cães."],
+      "faqsEn": [
+        { "q": "Can dogs walk on the castle hill in Gjirokastër?", "a": "Yes. The castle access road and the surrounding slopes are open to dogs. Only the interior of the castle museum requires you to leave your dog outside at the gate." },
+        { "q": "Is there a dog park in Gjirokastër?", "a": "No dedicated fenced dog park. The city park and the open hillsides serve this role informally." }
+      ],
+      "faqsFr": [
+        { "q": "Les chiens peuvent-ils se promener sur la colline du château à Gjirokastër ?", "a": "Oui. La route d'accès au château et les pentes environnantes sont ouvertes aux chiens. Seul l'intérieur du musée du château nécessite que vous laissiez votre chien dehors à la porte." },
+        { "q": "Y a-t-il un parc canin à Gjirokastër ?", "a": "Pas de parc canin clôturé dédié. Le parc de la ville et les flancs de colline ouverts jouent ce rôle de façon informelle." }
+      ],
+      "faqsEs": [
+        { "q": "¿Pueden los perros caminar por la colina del castillo en Gjirokastër?", "a": "Sí. La carretera de acceso al castillo y las laderas circundantes están abiertas a los perros. Solo el interior del museo del castillo requiere que dejes a tu perro fuera en la puerta." },
+        { "q": "¿Hay un parque canino en Gjirokastër?", "a": "No hay un parque canino vallado dedicado. El parque de la ciudad y las laderas abiertas hacen este papel de forma informal." }
+      ],
+      "faqsPt": [
+        { "q": "Os cães podem caminhar na colina do castelo em Gjirokastër?", "a": "Sim. A estrada de acesso ao castelo e as encostas circundantes estão abertas aos cães. Apenas o interior do museu do castelo requer que deixe o seu cão lá fora na porta." },
+        { "q": "Há um parque canino em Gjirokastër?", "a": "Não há parque canino vedado dedicado. O parque da cidade e as encostas abertas desempenham este papel informalmente." }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Gjirokastër with Your Dog",
+      "titleFr": "Se déplacer à Gjirokastër avec son chien",
+      "titleEs": "Moverse por Gjirokastër con tu perro",
+      "titlePt": "Deslocar-se em Gjirokastër com o seu cão",
+      "introEn": "Gjirokastër is a small UNESCO city best explored on foot; the entire old town is a 20-minute walk end to end. Furgons connect to Tirana (3 hours) and the coast. Private taxis are flexible and almost always dog-friendly when negotiated in advance.",
+      "introFr": "Gjirokastër est une petite ville UNESCO que l'on explore idéalement à pied ; toute la vieille ville se parcourt en 20 minutes. Les furgons relient à Tirana (3 heures) et à la côte. Les taxis privés sont flexibles et presque toujours dog-friendly si négociés à l'avance.",
+      "introEs": "Gjirokastër es una pequeña ciudad UNESCO que se explora mejor a pie; todo el casco antiguo se recorre en 20 minutos. Los furgons conectan con Tirana (3 horas) y la costa. Los taxis privados son flexibles y casi siempre aptos para perros si se negocia de antemano.",
+      "introPt": "Gjirokastër é uma pequena cidade UNESCO que se explora melhor a pé; todo o centro histórico percorre-se em 20 minutos. Os furgons ligam a Tirana (3 horas) e à costa. Os táxis privados são flexíveis e quase sempre aceitam cães quando negociado antecipadamente.",
+      "places": [],
+      "tipsEn": ["The old bazaar and castle quarter have no through-traffic; park at the lower city car park and walk up. The climb to the castle takes 15-20 min with a dog.", "Furgons to Saranda (1.5 hours) and Tirana (3 hours) leave from the main road bus stop near the city hall. Small dogs in a carrier are usually fine.", "Taxis in Gjirokastër charge 200-500 ALL for city rides; ask the hotel to call one, as few respond to street hailing."],
+      "tipsFr": ["Le vieux bazar et le quartier du château n'ont pas de circulation traversante ; garez-vous au parking de la ville basse et montez à pied. La montée jusqu'au château prend 15-20 min avec un chien.", "Les furgons pour Saranda (1h30) et Tirana (3h) partent de l'arrêt de bus de la route principale près de la mairie. Les petits chiens dans un transportin passent généralement sans problème.", "Les taxis à Gjirokastër facturent 200-500 ALL pour les trajets en ville ; demandez à l'hôtel d'en appeler un car peu répondent à l'arrêt dans la rue."],
+      "tipsEs": ["El viejo bazar y el barrio del castillo no tienen tráfico de paso; aparca en el aparcamiento de la ciudad baja y sube a pie. La subida al castillo lleva 15-20 min con un perro.", "Los furgons a Saranda (1,5 horas) y Tirana (3 horas) salen de la parada de autobús de la carretera principal cerca del ayuntamiento. Los perros pequeños en transportín suelen pasar sin problema.", "Los taxis en Gjirokastër cobran 200-500 ALL por los trayectos urbanos; pide al hotel que llame uno, ya que pocos responden al pare en la calle."],
+      "tipsPt": ["O velho bazar e o bairro do castelo não têm tráfego de passagem; estacione no parque de estacionamento da cidade baixa e suba a pé. A subida ao castelo demora 15-20 min com um cão.", "Os furgons para Saranda (1,5 horas) e Tirana (3 horas) partem da paragem de autocarro da estrada principal perto da câmara municipal. Cães pequenos num transportador geralmente passam sem problema.", "Os táxis em Gjirokastër cobram 200-500 ALL por viagens na cidade; peça ao hotel que chame um, pois poucos respondem a paragem na rua."],
+      "faqsEn": [
+        { "q": "How far is Gjirokastër from the Albanian Riviera?", "a": "Saranda on the Ionian coast is 52 km southwest, about 1 hour by car. The drive goes through the Drino valley and mountain passes with beautiful scenery." },
+        { "q": "Can I rent a car in Gjirokastër?", "a": "There are a handful of local car rental operators in the city. Tirana offers far more choice. For day trips to the Blue Eye spring (30 km) or the coast, a hire car or negotiated taxi is ideal." }
+      ],
+      "faqsFr": [
+        { "q": "À quelle distance est Gjirokastër de la Riviera albanaise ?", "a": "Saranda sur la côte ionienne est à 52 km au sud-ouest, environ 1 heure en voiture. La route passe par la vallée du Drino et des cols de montagne aux magnifiques paysages." },
+        { "q": "Puis-je louer une voiture à Gjirokastër ?", "a": "Il y a quelques loueurs de voitures locaux dans la ville. Tirana offre beaucoup plus de choix. Pour des excursions d'une journée à la Source de l'Oeil Bleu (30 km) ou sur la côte, une voiture de location ou un taxi négocié est idéal." }
+      ],
+      "faqsEs": [
+        { "q": "¿A qué distancia está Gjirokastër de la Riviera albanesa?", "a": "Saranda en la costa jónica está a 52 km al suroeste, unos 60 minutos en coche. La ruta pasa por el valle del Drino y puertos de montaña con hermosos paisajes." },
+        { "q": "¿Puedo alquilar un coche en Gjirokastër?", "a": "Hay un puñado de operadores locales de alquiler de coches en la ciudad. Tirana ofrece mucha más variedad. Para excursiones de un día al Ojo Azul (30 km) o a la costa, un coche de alquiler o taxi negociado es ideal." }
+      ],
+      "faqsPt": [
+        { "q": "A que distância fica Gjirokastër da Riviera Albanesa?", "a": "Saranda na costa Jónica fica a 52 km a sudoeste, cerca de 1 hora de carro. O percurso passa pelo vale do Drino e portas de montanha com paisagens deslumbrantes." },
+        { "q": "Posso alugar um carro em Gjirokastër?", "a": "Há alguns operadores locais de aluguer de carros na cidade. Tirana oferece muito mais escolha. Para excursões de dia à Nascente do Olho Azul (30 km) ou à costa, um carro alugado ou táxi negociado é ideal." }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Day Trips to the Beach from Gjirokastër",
+      "titleFr": "Excursions à la plage depuis Gjirokastër",
+      "titleEs": "Excursiones a la playa desde Gjirokastër",
+      "titlePt": "Excursões à praia a partir de Gjirokastër",
+      "introEn": "Gjirokastër is 52 km from the Ionian coast; a beach day trip is straightforward by car. The drive through the Drino valley and the SH4 coastal road is scenic. Saranda, Qeparo, and Himara beaches are the nearest options, all generally dog-friendly outside August.",
+      "introFr": "Gjirokastër est à 52 km de la côte ionienne ; une excursion d'une journée à la plage est simple en voiture. La route à travers la vallée du Drino et la route côtière SH4 est panoramique. Les plages de Saranda, Qeparo et Himara sont les options les plus proches, toutes généralement dog-friendly en dehors d'août.",
+      "introEs": "Gjirokastër está a 52 km de la costa jónica; una excursión de un día a la playa es sencilla en coche. La ruta por el valle del Drino y la carretera costera SH4 es pintoresca. Las playas de Saranda, Qeparo e Himara son las opciones más cercanas, todas generalmente aptas para perros fuera de agosto.",
+      "introPt": "Gjirokastër fica a 52 km da costa Jónica; uma excursão de dia à praia é simples de carro. O percurso pelo vale do Drino e a estrada costeira SH4 é panorâmico. As praias de Saranda, Qeparo e Himara são as opções mais próximas, todas geralmente dog-friendly fora de agosto.",
+      "places": [],
+      "tipsEn": ["Saranda beach (1 hour) is the easiest reach and has a long promenade for dog walking; go in the evening when the main beach cools and empties slightly.", "Qeparo Fshat (1.5 hours) is an old Albanian village with a small pebble beach below; very quiet and dogs roam freely.", "The Blue Eye spring (Syri i Kaltër, 30 km west) is a dramatic cold-water spring in a forest clearing where dogs can swim in the turquoise pool."],
+      "tipsFr": ["La plage de Saranda (1 heure) est la plus facile à atteindre et dispose d'une longue promenade pour la balade avec les chiens ; allez-y le soir quand la plage principale se rafraîchit et se vide un peu.", "Qeparo Fshat (1h30) est un vieux village albanais avec une petite plage de galets en contrebas ; très calme et les chiens y circulent librement.", "La Source de l'Oeil Bleu (Syri i Kaltër, 30 km à l'ouest) est une spectaculaire source d'eau froide dans une clairière forestière où les chiens peuvent nager dans le bassin turquoise."],
+      "tipsEs": ["La playa de Saranda (1 hora) es la más fácil de alcanzar y tiene un largo paseo marítimo para pasear con perros; ve por la tarde cuando la playa principal se enfría y se vacía un poco.", "Qeparo Fshat (1,5 horas) es un antiguo pueblo albanés con una pequeña playa de guijarros abajo; muy tranquilo y los perros deambulan libremente.", "La Fuente del Ojo Azul (Syri i Kaltër, 30 km al oeste) es un espectacular manantial de agua fría en un claro del bosque donde los perros pueden nadar en el estanque turquesa."],
+      "tipsPt": ["A praia de Saranda (1 hora) é a mais fácil de alcançar e tem uma longa promenade para passear com cães; vá à tarde quando a praia principal arrefece e esvazia ligeiramente.", "Qeparo Fshat (1,5 horas) é uma antiga aldeia albanesa com uma pequena praia de pedra em baixo; muito calma e os cães circulam livremente.", "A Nascente do Olho Azul (Syri i Kaltër, 30 km a oeste) é uma espetacular nascente de água fria numa clareira florestal onde os cães podem nadar no lago turquesa."],
+      "faqsEn": [
+        { "q": "Is the Blue Eye (Syri i Kaltër) accessible with a dog?", "a": "Yes. The site is a national park with a short walking trail through forest. Dogs are permitted on the trail and at the spring viewpoints; keep your dog on a leash near the pool edge as the current is very strong." },
+        { "q": "Which beach near Gjirokastër is most dog-friendly?", "a": "Qeparo and Borsh beaches (south of Himara) are the most dog-tolerant: long, pebbly, with scattered local families rather than beach clubs. Dogs can roam freely in May, June, and September." }
+      ],
+      "faqsFr": [
+        { "q": "L'Oeil Bleu (Syri i Kaltër) est-il accessible avec un chien ?", "a": "Oui. Le site est un parc national avec un court sentier à travers la forêt. Les chiens sont autorisés sur le sentier et aux points de vue sur la source ; gardez votre chien en laisse près du bord du bassin car le courant est très fort." },
+        { "q": "Quelle plage près de Gjirokastër est la plus dog-friendly ?", "a": "Les plages de Qeparo et Borsh (au sud d'Himara) sont les plus tolérantes envers les chiens : longues, de galets, avec des familles locales dispersées plutôt que des clubs de plage. Les chiens peuvent circuler librement en mai, juin et septembre." }
+      ],
+      "faqsEs": [
+        { "q": "¿El Ojo Azul (Syri i Kaltër) es accesible con un perro?", "a": "Sí. El lugar es un parque nacional con un corto sendero a través del bosque. Los perros están permitidos en el sendero y en los miradores junto al manantial; mantén a tu perro con correa cerca del borde del estanque ya que la corriente es muy fuerte." },
+        { "q": "¿Qué playa cerca de Gjirokastër es más apta para perros?", "a": "Las playas de Qeparo y Borsh (al sur de Himara) son las más tolerantes con los perros: largas, de guijarros, con familias locales dispersas en lugar de beach clubs. Los perros pueden deambular libremente en mayo, junio y septiembre." }
+      ],
+      "faqsPt": [
+        { "q": "O Olho Azul (Syri i Kaltër) é acessível com um cão?", "a": "Sim. O local é um parque nacional com um curto trilho pelo bosque. Os cães são permitidos no trilho e nos miradouros junto à nascente; mantenha o seu cão na trela perto da borda do lago pois a corrente é muito forte." },
+        { "q": "Qual praia perto de Gjirokastër é mais dog-friendly?", "a": "As praias de Qeparo e Borsh (ao sul de Himara) são as mais tolerantes com os cães: longas, de pedra, com famílias locais dispersas em vez de beach clubs. Os cães podem circular livremente em maio, junho e setembro." }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Animal Care in Gjirokastër",
+      "titleFr": "Vétérinaires et soins d'urgence à Gjirokastër",
+      "titleEs": "Veterinarios y cuidados de emergencia en Gjirokastër",
+      "titlePt": "Veterinários e cuidados de emergência em Gjirokastër",
+      "introEn": "Gjirokastër has one or two small veterinary practices in the lower town. For anything beyond basic wound care or medication, plan to drive to Saranda (1 hour) or Tirana (3 hours) for specialist care. Always carry a basic pet first-aid kit.",
+      "introFr": "Gjirokastër compte un ou deux petits cabinets vétérinaires dans la ville basse. Pour tout ce qui dépasse les soins de base des plaies ou les médicaments, prévoyez de conduire jusqu'à Saranda (1 heure) ou Tirana (3 heures) pour des soins spécialisés. Emportez toujours une trousse de premiers secours pour animaux.",
+      "introEs": "Gjirokastër cuenta con uno o dos pequeños consultorios veterinarios en la ciudad baja. Para cualquier cosa que vaya más allá del cuidado básico de heridas o medicamentos, planea conducir hasta Saranda (1 hora) o Tirana (3 horas) para atención especializada. Lleva siempre un botiquín básico de primeros auxilios para mascotas.",
+      "introPt": "Gjirokastër tem um ou dois pequenos consultórios veterinários na cidade baixa. Para qualquer coisa além de cuidados básicos de feridas ou medicamentos, planeie conduzir até Saranda (1 hora) ou Tirana (3 horas) para cuidados especializados. Leve sempre um kit básico de primeiros socorros para animais.",
+      "places": [
+        {
+          "name": "Klinika Veterinare Gjirokastër",
+          "address": "Rruga Luftëtarëve, Gjirokastër",
+          "neighborhood": "Lower town",
+          "photo": "",
+          "website": "",
+          "description": "A general veterinary practice in the lower part of the city. Handles routine care, vaccinations, and minor emergencies. Hours are irregular; call ahead or ask your accommodation to confirm availability.",
+          "descriptionFr": "Un cabinet vétérinaire généraliste dans la partie basse de la ville. Prend en charge les soins courants, les vaccinations et les urgences mineures. Les horaires sont irréguliers ; appelez à l'avance ou demandez à votre hébergement de confirmer la disponibilité.",
+          "descriptionEs": "Una consulta veterinaria general en la parte baja de la ciudad. Atiende cuidados rutinarios, vacunas y emergencias menores. Los horarios son irregulares; llama antes o pide a tu alojamiento que confirme la disponibilidad.",
+          "descriptionPt": "Um consultório veterinário geral na parte baixa da cidade. Trata cuidados de rotina, vacinações e pequenas emergências. Os horários são irregulares; ligue antes ou peça ao seu alojamento para confirmar a disponibilidade.",
+          "petPolicy": "All pets welcome",
+          "petPolicyFr": "Tous les animaux bienvenus",
+          "petPolicyEs": "Se admiten todas las mascotas",
+          "petPolicyPt": "Todos os animais bem-vindos",
+          "priceRange": "€",
+          "openingHours": "Typically Mon-Sat 09:00-13:00, 16:00-19:00 (irregular)",
+          "tip": "Have your pet's vaccination record translated or summarised in simple English or Italian before your trip; Albanian vets are accustomed to EU pet passports",
+          "tipFr": "Faites traduire ou résumer le carnet de vaccination de votre animal en anglais ou en italien simple avant votre voyage ; les vétérinaires albanais sont habitués aux passeports UE pour animaux",
+          "tipEs": "Traduce o resume el historial de vacunas de tu mascota al inglés o italiano sencillo antes del viaje; los veterinarios albaneses están acostumbrados a los pasaportes UE de mascotas",
+          "tipPt": "Traduza ou resuma o registo de vacinação do seu animal para inglês ou italiano simples antes da viagem; os veterinários albaneses estão habituados aos passaportes UE de animais",
+          "googleMapsUrl": "https://maps.google.com/?q=veterinar+Gjirokastra+Albania"
+        }
+      ],
+      "tipsEn": ["The nearest emergency clinic with 24/7 cover is in Tirana (3 hours); programme AniCare Tirana (+355 4 225 0000) before your trip.", "Saranda (1 hour south) has a vet clinic with broader hours and is a more practical emergency destination than Tirana.", "Tick exposure is higher around Gjirokastër than on the coast due to the rural mountain terrain; treat your dog before and after visits to the hillside areas."],
+      "tipsFr": ["La clinique d'urgence la plus proche avec couverture 24h/24 est à Tirana (3 heures) ; enregistrez AniCare Tirana (+355 4 225 0000) avant votre voyage.", "Saranda (1 heure au sud) dispose d'une clinique vétérinaire aux horaires plus larges et est une destination d'urgence plus pratique que Tirana.", "Le risque de tiques est plus élevé autour de Gjirokastër que sur la côte en raison du terrain montagneux rural ; traitez votre chien avant et après les visites dans les zones de collines."],
+      "tipsEs": ["La clínica de urgencias más cercana con cobertura 24 horas está en Tirana (3 horas); guarda AniCare Tirana (+355 4 225 0000) antes de tu viaje.", "Saranda (1 hora al sur) tiene una clínica veterinaria con horarios más amplios y es un destino de emergencia más práctico que Tirana.", "La exposición a garrapatas es mayor alrededor de Gjirokastër que en la costa debido al terreno montañoso rural; trata a tu perro antes y después de visitar las zonas de ladera."],
+      "tipsPt": ["A clínica de emergência mais próxima com cobertura 24/7 fica em Tirana (3 horas); guarde o número da AniCare Tirana (+355 4 225 0000) antes da viagem.", "Saranda (1 hora a sul) tem uma clínica veterinária com horários mais alargados e é um destino de emergência mais prático do que Tirana.", "A exposição a carraças é maior em redor de Gjirokastër do que na costa devido ao terreno montanhoso rural; trate o seu cão antes e depois das visitas às áreas de encosta."],
+      "faqsEn": [
+        { "q": "Do vets in Gjirokastër speak English?", "a": "Occasionally; Italian is more commonly understood than English in southern Albania due to historic Italian influence. Bring a translation app and a printed summary of your pet's medical history." },
+        { "q": "What should I do if my dog is injured on the castle trail?", "a": "Apply first aid and carry the dog down to the lower town if necessary. The castle road is accessible by vehicle for about half its length. Call the local vet ahead to prepare for your arrival." }
+      ],
+      "faqsFr": [
+        { "q": "Les vétérinaires de Gjirokastër parlent-ils anglais ?", "a": "Parfois ; l'italien est plus couramment compris que l'anglais dans le sud de l'Albanie en raison de l'influence historique italienne. Apportez une application de traduction et un résumé imprimé des antécédents médicaux de votre animal." },
+        { "q": "Que dois-je faire si mon chien est blessé sur le sentier du château ?", "a": "Appliquez les premiers secours et portez le chien jusqu'à la ville basse si nécessaire. La route du château est accessible en véhicule sur environ la moitié de sa longueur. Appelez le vétérinaire local à l'avance pour vous préparer à votre arrivée." }
+      ],
+      "faqsEs": [
+        { "q": "¿Los veterinarios en Gjirokastër hablan inglés?", "a": "Ocasionalmente; el italiano es más comúnmente entendido que el inglés en el sur de Albania debido a la influencia italiana histórica. Lleva una app de traducción y un resumen impreso del historial médico de tu mascota." },
+        { "q": "¿Qué debo hacer si mi perro se lesiona en el sendero del castillo?", "a": "Aplica primeros auxilios y lleva al perro cargado hasta la ciudad baja si es necesario. La carretera del castillo es accesible en vehículo aproximadamente en la mitad de su longitud. Llama al veterinario local con antelación para que se prepare para tu llegada." }
+      ],
+      "faqsPt": [
+        { "q": "Os veterinários em Gjirokastër falam inglês?", "a": "Ocasionalmente; o italiano é mais comumente entendido do que o inglês no sul da Albânia devido à influência histórica italiana. Leve uma app de tradução e um resumo impresso do historial médico do seu animal." },
+        { "q": "O que devo fazer se o meu cão se lesionar no trilho do castelo?", "a": "Aplique primeiros socorros e carregue o cão até à cidade baixa se necessário. A estrada do castelo é acessível por veículo aproximadamente em metade da sua extensão. Ligue ao veterinário local com antecedência para se prepararem para a sua chegada." }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Dog Travel Tips for Gjirokastër",
+      "titleFr": "Conseils essentiels pour voyager avec son chien à Gjirokastër",
+      "titleEs": "Consejos esenciales para viajar con perro a Gjirokastër",
+      "titlePt": "Dicas essenciais para viajar com cão em Gjirokastër",
+      "introEn": "Gjirokastër is an outstanding dog travel destination in the Balkans: cool temperatures at altitude, traffic-free old town, zero pet regulations in public space, and exceptionally friendly locals. The main challenge is the steep terrain; paw care is important on wet limestone.",
+      "introFr": "Gjirokastër est une destination de voyage avec chien exceptionnelle dans les Balkans : températures fraîches en altitude, vieille ville sans circulation, aucune réglementation sur les animaux dans l'espace public, et des habitants exceptionnellement accueillants. Le principal défi est le terrain escarpé ; le soin des pattes est important sur le calcaire mouillé.",
+      "introEs": "Gjirokastër es un destino de viaje con perro excepcional en los Balcanes: temperaturas frescas en altura, casco antiguo sin tráfico, cero regulaciones para mascotas en el espacio público y locales excepcionalmente amables. El principal reto es el terreno empinado; el cuidado de las patas es importante sobre la caliza mojada.",
+      "introPt": "Gjirokastër é um destino de viagem com cão excecional nos Balcãs: temperaturas frescas em altitude, centro histórico sem tráfego, zero regulamentações para animais no espaço público e locais excecionalmente simpáticos. O principal desafio é o terreno íngreme; o cuidado das patas é importante no calcário molhado.",
+      "tips": [
+        {
+          "titleEn": "Best season",
+          "titleFr": "Meilleure saison",
+          "titleEs": "Mejor temporada",
+          "titlePt": "Melhor época",
+          "bodyEn": "May, June, and September are ideal: 22-28°C, long daylight, very few tourists. July-August temperatures peak at 30-32°C at this altitude, still manageable with early starts. Winter (Dec-Feb) is cold and sometimes snowy; the cobblestones become hazardous.",
+          "bodyFr": "Mai, juin et septembre sont idéaux : 22-28°C, jours longs, très peu de touristes. Les températures de juillet-août culminent à 30-32°C à cette altitude, encore gérable avec des départs matinaux. L'hiver (déc-fév) est froid et parfois enneigé ; les pavés deviennent dangereux.",
+          "bodyEs": "Mayo, junio y septiembre son ideales: 22-28°C, días largos, muy pocos turistas. Las temperaturas de julio-agosto alcanzan los 30-32°C a esta altitud, todavía manejable con salidas tempranas. El invierno (dic-feb) es frío y a veces con nieve; los adoquines se vuelven peligrosos.",
+          "bodyPt": "Maio, junho e setembro são ideais: 22-28°C, dias longos, muito poucos turistas. As temperaturas de julho-agosto atingem os 30-32°C a esta altitude, ainda gerível com saídas cedo. O inverno (dez-fev) é frio e às vezes com neve; as pedras tornam-se perigosas."
+        },
+        {
+          "titleEn": "Paw protection",
+          "titleFr": "Protection des pattes",
+          "titleEs": "Protección de las patas",
+          "titlePt": "Proteção das patas",
+          "bodyEn": "The old town streets are centuries-old limestone slabs, smooth and very slippery when wet. Apply paw wax before walks in rain. Booties are rarely necessary in dry weather but are a precaution worth packing for winter visits.",
+          "bodyFr": "Les rues de la vieille ville sont des dalles de calcaire vieilles de plusieurs siècles, lisses et très glissantes mouillées. Appliquez de la cire pour les pattes avant les promenades sous la pluie. Les bottines sont rarement nécessaires par temps sec mais valent la peine d'être emportées pour les visites hivernales.",
+          "bodyEs": "Las calles de la ciudad antigua son losas de caliza centenarias, lisas y muy resbaladizas cuando están mojadas. Aplica cera protectora en las patas antes de los paseos bajo la lluvia. Las botas rara vez son necesarias en tiempo seco, pero vale la pena llevarlas como precaución para visitas invernales.",
+          "bodyPt": "As ruas da cidade velha são lajes de calcário com séculos de idade, lisas e muito escorregadias quando molhadas. Aplique cera para patas antes dos passeios com chuva. As botas raramente são necessárias em tempo seco, mas vale a pena empacotar para visitas de inverno."
+        }
+      ],
+      "faqsEn": [
+        { "q": "Is Gjirokastër genuinely dog-friendly or just tolerant?", "a": "Genuinely relaxed. Southern Albania has a strong culture of outdoor living and dogs in public space are unremarkable. You will not be asked to leave restaurants, benches, or public areas because of your dog." },
+        { "q": "Can I combine Gjirokastër with the Albanian Riviera in one trip?", "a": "Yes, very naturally. Gjirokastër makes an excellent inland counterpart to 2-3 days on the Ionian coast around Saranda or Himara. One hour by car separates them." }
+      ],
+      "faqsFr": [
+        { "q": "Gjirokastër est-elle vraiment dog-friendly ou simplement tolérante ?", "a": "Vraiment détendue. Le sud de l'Albanie a une forte culture de la vie en plein air et les chiens dans l'espace public ne font pas événement. On ne vous demandera pas de quitter des restaurants, des bancs ou des espaces publics en raison de votre chien." },
+        { "q": "Puis-je combiner Gjirokastër avec la Riviera albanaise en un seul voyage ?", "a": "Oui, très naturellement. Gjirokastër constitue un excellent pendant intérieur à 2-3 jours sur la côte ionienne autour de Saranda ou Himara. Une heure en voiture les sépare." }
+      ],
+      "faqsEs": [
+        { "q": "¿Gjirokastër es genuinamente dog-friendly o simplemente tolerante?", "a": "Genuinamente relajada. El sur de Albania tiene una fuerte cultura de vida al aire libre y los perros en el espacio público no llaman la atención. No te pedirán que abandones restaurantes, bancos o espacios públicos por tu perro." },
+        { "q": "¿Puedo combinar Gjirokastër con la Riviera albanesa en un solo viaje?", "a": "Sí, de forma muy natural. Gjirokastër es un excelente complemento interior a 2-3 días en la costa jónica alrededor de Saranda o Himara. Los separa una hora en coche." }
+      ],
+      "faqsPt": [
+        { "q": "Gjirokastër é genuinamente dog-friendly ou apenas tolerante?", "a": "Genuinamente descontraída. O sul da Albânia tem uma forte cultura de vida ao ar livre e os cães no espaço público são uma coisa normal. Não lhe pedirão para sair de restaurantes, bancos ou espaços públicos por causa do seu cão." },
+        { "q": "Posso combinar Gjirokastër com a Riviera Albanesa numa única viagem?", "a": "Sim, muito naturalmente. Gjirokastër é um excelente contraponto interior a 2-3 dias na costa Jónica em redor de Saranda ou Himara. Separa-os uma hora de carro." }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Gjirokastër",
+      "titleFr": "Attractions dog-friendly à Gjirokastër",
+      "titleEs": "Atracciones dog-friendly en Gjirokastër",
+      "titlePt": "Atrações dog-friendly em Gjirokastër",
+      "introEn": "Gjirokastër's UNESCO-listed old town is almost entirely outdoors: the bazaar, the stone-roofed houses, and the castle approach. Dogs walk freely through all of it. The Gjirokastër Castle Museum and the Skënduli House interior do not permit dogs, but all exterior grounds are open.",
+      "introFr": "La vieille ville de Gjirokastër classée à l'UNESCO est presque entièrement en plein air : le bazar, les maisons aux toits de pierre et l'accès au château. Les chiens y circulent librement. Le Musée du château de Gjirokastër et l'intérieur de la maison Skënduli n'admettent pas les chiens, mais tous les terrains extérieurs sont accessibles.",
+      "introEs": "El casco antiguo de Gjirokastër, declarado Patrimonio de la UNESCO, es casi completamente al aire libre: el bazar, las casas con tejados de piedra y el acceso al castillo. Los perros circulan libremente por todo. El Museo del Castillo de Gjirokastër y el interior de la Casa Skënduli no permiten perros, pero todos los terrenos exteriores están abiertos.",
+      "introPt": "O centro histórico de Gjirokastër, classificado pela UNESCO, é quase totalmente ao ar livre: o bazar, as casas com telhados de pedra e a aproximação ao castelo. Os cães circulam livremente por tudo. O Museu do Castelo de Gjirokastër e o interior da Casa Skënduli não permitem cães, mas todos os terrenos exteriores estão abertos.",
+      "places": [
+        {
+          "name": "Gjirokastër Castle (Kalaja e Gjirokastrës)",
+          "address": "Kalaja, Gjirokastër",
+          "neighborhood": "Castle hill",
+          "photo": "",
+          "website": "",
+          "description": "One of the largest castles in the Balkans, with panoramic views over the Drino valley and the stone-roofed city below. The castle grounds include an open-air military museum with a captured US aircraft and armoury. Dogs walk freely on the castle ramparts; the indoor museum areas require you to tie your dog outside the entrance.",
+          "descriptionFr": "L'un des plus grands châteaux des Balkans, avec des vues panoramiques sur la vallée du Drino et la ville aux toits de pierre en contrebas. Les terrains du château comprennent un musée militaire en plein air avec un avion américain capturé et une armurerie. Les chiens circulent librement sur les remparts du château ; les zones du musée en intérieur nécessitent d'attacher votre chien à l'extérieur de l'entrée.",
+          "descriptionEs": "Uno de los castillos más grandes de los Balcanes, con vistas panorámicas sobre el valle del Drino y la ciudad de tejados de piedra abajo. Los terrenos del castillo incluyen un museo militar al aire libre con un avión estadounidense capturado y una armería. Los perros caminan libremente por las murallas del castillo; las zonas del museo en interior requieren que ates tu perro fuera de la entrada.",
+          "descriptionPt": "Um dos maiores castelos dos Balcãs, com vistas panorâmicas sobre o vale do Drino e a cidade de telhados de pedra em baixo. Os terrenos do castelo incluem um museu militar ao ar livre com um avião americano capturado e uma armaria. Os cães caminham livremente nos baluartes do castelo; as áreas do museu interior requerem que prenda o seu cão do lado de fora da entrada.",
+          "petPolicy": "Dogs free on castle grounds; not permitted inside museum rooms",
+          "petPolicyFr": "Chiens libres dans les terrains du château ; non admis dans les salles du musée",
+          "petPolicyEs": "Perros libres en los terrenos del castillo; no permitidos dentro de las salas del museo",
+          "petPolicyPt": "Cães livres nos terrenos do castelo; não permitidos dentro das salas do museu",
+          "openingHours": "Grounds: always open. Museum: Tue-Sun 09:00-17:00",
+          "tip": "Go early morning before 9 AM when the castle is empty; the stone ramparts heat up fast and provide no shade for dogs by midday",
+          "tipFr": "Allez tôt le matin avant 9h quand le château est vide ; les remparts de pierre chauffent vite et ne fournissent aucune ombre pour les chiens à midi",
+          "tipEs": "Ve temprano por la mañana antes de las 9:00 cuando el castillo está vacío; los muros de piedra se calientan rápido y no dan sombra para los perros al mediodía",
+          "tipPt": "Vá cedo de manhã antes das 9:00 quando o castelo está vazio; os baluartes de pedra aquecem rapidamente e não fornecem sombra para os cães ao meio-dia",
+          "googleMapsUrl": "https://maps.google.com/?q=Gjirokaster+Castle+Albania"
+        }
+      ],
+      "tipsEn": ["The old bazaar (pazari i vjetër) is a pedestrian area of craft shops and cafes under stone arches; dogs walk on lead through the whole bazaar.", "The Ethnographic Museum (Muzeu Etnografik) is housed in a historic tower house; dogs cannot enter the interior but the courtyard is accessible.", "Ismail Kadare's birthplace is marked with a plaque in the old town; walk past with your dog as part of the literary tour of the city."],
+      "tipsFr": ["Le vieux bazar (pazari i vjetër) est une zone piétonne de boutiques artisanales et de cafés sous des arches de pierre ; les chiens se promènent en laisse à travers tout le bazar.", "Le Musée ethnographique (Muzeu Etnografik) est installé dans une maison-tour historique ; les chiens ne peuvent pas entrer à l'intérieur mais la cour est accessible.", "La maison natale d'Ismail Kadaré est marquée d'une plaque dans la vieille ville ; passez devant avec votre chien dans le cadre de la visite littéraire de la ville."],
+      "tipsEs": ["El viejo bazar (pazari i vjetër) es una zona peatonal de tiendas de artesanía y cafés bajo arcos de piedra; los perros pasean con correa por todo el bazar.", "El Museo Etnográfico (Muzeu Etnografik) está alojado en una casa-torre histórica; los perros no pueden entrar al interior pero el patio es accesible.", "El lugar de nacimiento de Ismail Kadaré está marcado con una placa en el casco antiguo; pasa por allí con tu perro como parte del recorrido literario de la ciudad."],
+      "tipsPt": ["O velho bazar (pazari i vjetër) é uma área pedonal de lojas de artesanato e cafés sob arcos de pedra; os cães passeiam com trela por todo o bazar.", "O Museu Etnográfico (Muzeu Etnografik) está instalado numa casa-torre histórica; os cães não podem entrar no interior mas o pátio é acessível.", "O local de nascimento de Ismail Kadare está assinalado com uma placa na cidade velha; passe com o seu cão como parte da visita literária da cidade."],
+      "faqsEn": [
+        { "q": "Can I take my dog to the Gjirokastër Folk Festival if it coincides with my visit?", "a": "The festival uses the castle courtyard and surrounding open spaces; dogs can attend the outdoor performances. The crowd and noise can be stressful for anxious dogs." },
+        { "q": "Is there a dog-friendly viewpoint over the city?", "a": "The best viewpoint is the castle ramparts (always open, dogs free). The Kodra e Idrizit hill on the south side of the city also has an informal viewpoint accessible by car where dogs can walk freely." }
+      ],
+      "faqsFr": [
+        { "q": "Puis-je emmener mon chien au Festival folklorique de Gjirokastër s'il coïncide avec ma visite ?", "a": "Le festival utilise la cour du château et les espaces ouverts environnants ; les chiens peuvent assister aux spectacles en plein air. La foule et le bruit peuvent être stressants pour les chiens anxieux." },
+        { "q": "Y a-t-il un belvédère dog-friendly sur la ville ?", "a": "Le meilleur belvédère est les remparts du château (toujours ouverts, chiens libres). La colline Kodra e Idrizit au sud de la ville a également un belvédère informel accessible en voiture où les chiens peuvent se promener librement." }
+      ],
+      "faqsEs": [
+        { "q": "¿Puedo llevar a mi perro al Festival Folclórico de Gjirokastër si coincide con mi visita?", "a": "El festival usa el patio del castillo y los espacios abiertos circundantes; los perros pueden asistir a las actuaciones al aire libre. La multitud y el ruido pueden ser estresantes para los perros ansiosos." },
+        { "q": "¿Hay un mirador dog-friendly sobre la ciudad?", "a": "El mejor mirador son los muros del castillo (siempre abiertos, perros libres). La colina Kodra e Idrizit al sur de la ciudad también tiene un mirador informal accesible en coche donde los perros pueden caminar libremente." }
+      ],
+      "faqsPt": [
+        { "q": "Posso levar o meu cão ao Festival Folclórico de Gjirokastër se coincidir com a minha visita?", "a": "O festival usa o pátio do castelo e os espaços abertos circundantes; os cães podem assistir às atuações ao ar livre. A multidão e o ruído podem ser stressantes para cães ansiosos." },
+        { "q": "Há um miradouro dog-friendly sobre a cidade?", "a": "O melhor miradouro são os baluartes do castelo (sempre abertos, cães livres). A colina Kodra e Idrizit no lado sul da cidade também tem um miradouro informal acessível de carro onde os cães podem caminhar livremente." }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitting & Boarding in Gjirokastër",
+      "titleFr": "Garde de chien à Gjirokastër",
+      "titleEs": "Cuidado de perros en Gjirokastër",
+      "titlePt": "Guarda de cão em Gjirokastër",
+      "introEn": "Formal pet-sitting is very limited in Gjirokastër. Family-run guesthouses are the most practical solution for short-term dog care when visiting indoor sites. Ask when booking; most hosts in the old town are used to dog-owning visitors and accommodate informally.",
+      "introFr": "La garde formelle d'animaux est très limitée à Gjirokastër. Les pensions familiales sont la solution la plus pratique pour la garde ponctuelle de chiens lors de la visite de sites intérieurs. Renseignez-vous à la réservation ; la plupart des hôtes de la vieille ville sont habitués aux visiteurs avec des chiens et s'arrangent de façon informelle.",
+      "introEs": "El cuidado formal de mascotas es muy limitado en Gjirokastër. Las pensiones familiares son la solución más práctica para el cuidado a corto plazo de perros al visitar lugares interiores. Pregunta al reservar; la mayoría de los anfitriones del casco antiguo están acostumbrados a los visitantes con perros y se adaptan de forma informal.",
+      "introPt": "A guarda formal de animais é muito limitada em Gjirokastër. As pensões familiares são a solução mais prática para cuidados de curta duração de cães ao visitar espaços interiores. Pergunte ao reservar; a maioria dos anfitriões na cidade velha estão acostumados a visitantes com cães e acomodam informalmente.",
+      "places": [],
+      "tipsEn": ["Most guesthouses in Gjirokastër old town are family homes with courtyards; owners are generally happy to watch your dog for 1-2 hours.", "Rover has no coverage in Albania; rely on your accommodation or ask the local tourist information point.", "If you need longer care, Saranda (1 hour) has somewhat more options through word of mouth in expat Facebook groups."],
+      "tipsFr": ["La plupart des pensions de la vieille ville de Gjirokastër sont des maisons familiales avec des cours ; les propriétaires sont généralement heureux de surveiller votre chien 1-2 heures.", "Rover n'a aucune couverture en Albanie ; comptez sur votre hébergement ou demandez au point d'information touristique local.", "Si vous avez besoin d'une garde plus longue, Saranda (1 heure) offre un peu plus d'options par le bouche-à-oreille dans les groupes Facebook d'expatriés."],
+      "tipsEs": ["La mayoría de las pensiones del casco antiguo de Gjirokastër son casas familiares con patios; los dueños suelen estar dispuestos a cuidar a tu perro 1-2 horas.", "Rover no tiene cobertura en Albania; confía en tu alojamiento o pregunta en el punto de información turística local.", "Si necesitas cuidado más prolongado, Saranda (1 hora) tiene algo más de opciones a través del boca a boca en grupos de Facebook de expatriados."],
+      "tipsPt": ["A maioria das pensões na cidade velha de Gjirokastër são casas familiares com pátios; os proprietários geralmente ficam contentes em tomar conta do seu cão por 1-2 horas.", "O Rover não tem cobertura na Albânia; confie no seu alojamento ou pergunte no ponto de informação turística local.", "Se precisar de cuidados mais prolongados, Saranda (1 hora) tem um pouco mais de opções através do passa-palavra em grupos de Facebook de expatriados."],
+      "faqsEn": [
+        { "q": "Can I visit the castle museum without my dog?", "a": "Yes. Tie your dog at the shaded gate post at the castle entrance. The museum visit takes 45-60 minutes. Locals passing will not interfere with a calm, tied dog." },
+        { "q": "Is there a kennel in Gjirokastër?", "a": "No professional kennel. Tirana (3 hours) is the nearest option for multi-day boarding. For anything shorter, guesthouse owners are the practical alternative." }
+      ],
+      "faqsFr": [
+        { "q": "Puis-je visiter le musée du château sans mon chien ?", "a": "Oui. Attachez votre chien au poteau de la grille ombragée à l'entrée du château. La visite du musée dure 45-60 minutes. Les locaux qui passent n'interféreront pas avec un chien calme attaché." },
+        { "q": "Y a-t-il un chenil à Gjirokastër ?", "a": "Pas de chenil professionnel. Tirana (3 heures) est l'option la plus proche pour une pension de plusieurs jours. Pour quelque chose de plus court, les propriétaires de pensions sont l'alternative pratique." }
+      ],
+      "faqsEs": [
+        { "q": "¿Puedo visitar el museo del castillo sin mi perro?", "a": "Sí. Ata a tu perro en el poste sombreado de la verja a la entrada del castillo. La visita al museo dura 45-60 minutos. Los locales que pasen no molestarán a un perro tranquilo y atado." },
+        { "q": "¿Hay un kennel en Gjirokastër?", "a": "No hay kennel profesional. Tirana (3 horas) es la opción más cercana para alojamiento de varios días. Para algo más corto, los propietarios de pensiones son la alternativa práctica." }
+      ],
+      "faqsPt": [
+        { "q": "Posso visitar o museu do castelo sem o meu cão?", "a": "Sim. Prenda o seu cão ao poste sombreado do portão na entrada do castelo. A visita ao museu demora 45-60 minutos. Os locais que passem não vão interferir com um cão calmo preso." },
+        { "q": "Há um canil em Gjirokastër?", "a": "Não há canil profissional. Tirana (3 horas) é a opção mais próxima para alojamento de vários dias. Para algo mais curto, os proprietários de pensões são a alternativa prática." }
+      ]
+    }
+  }
+}

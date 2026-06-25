@@ -1,0 +1,394 @@
+{
+  "slug": "berat",
+  "name": "Berat",
+  "country": "Albania",
+  "flag": "🇦🇱",
+  "lastUpdated": "2026-06-26",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Berat",
+      "titleFr": "Restaurants acceptant les animaux à Berat",
+      "titleEs": "Restaurantes con mascotas en Berat",
+      "titlePt": "Restaurantes pet-friendly em Berat",
+      "introEn": "Berat's restaurant scene is concentrated along the Osum riverbank and in the Mangalem quarter below the castle. Almost all eating is at outdoor terraces, and dogs are tolerated at tables away from the main entrance. The town is small and relaxed; waiters will generally bring a bowl of water if you ask.",
+      "introFr": "Les restaurants de Berat se concentrent le long des rives de l'Osum et dans le quartier de Mangalem au pied du château. La quasi-totalité des repas se prennent en terrasse, et les chiens sont tolérés aux tables éloignées de l'entrée principale. La ville est petite et détendue ; les serveurs apportent volontiers un bol d'eau si vous le demandez.",
+      "introEs": "Los restaurantes de Berat se concentran a lo largo del río Osum y en el barrio de Mangalem, bajo el castillo. Casi toda la comida es en terraza al aire libre, y los perros son tolerados en mesas alejadas de la entrada principal. La ciudad es pequeña y tranquila; los camareros suelen traer un cuenco de agua si lo pides.",
+      "introPt": "Os restaurantes de Berat concentram-se ao longo do rio Osum e no bairro de Mangalem, abaixo do castelo. Quase toda a refeição é em esplanada ao ar livre, e os cães são tolerados em mesas afastadas da entrada principal. A cidade é pequena e descontraída; os empregados geralmente trazem uma tigela de água se pedir.",
+      "places": [
+        {
+          "name": "Restaurant Mangalemi",
+          "address": "Rruga Mihal Komnena, Berat",
+          "neighborhood": "Mangalem quarter",
+          "photo": "",
+          "website": "",
+          "description": "A traditional Albanian restaurant set in a historic Ottoman-era house in the Mangalem quarter, with a stone-terraced courtyard garden. Known for tavë kosi (baked lamb with yogurt), grilled meats, and homemade raki. Dogs are welcome on the garden terrace.",
+          "descriptionFr": "Restaurant albanais traditionnel installé dans une maison ottomane historique du quartier Mangalem, avec une cour-jardin en terrasse de pierre. Réputé pour la tavë kosi (agneau au four et yaourt), les viandes grillées et le raki maison. Les chiens sont bienvenus sur la terrasse du jardin.",
+          "descriptionEs": "Restaurante albanés tradicional en una casa histórica otomana del barrio de Mangalem, con un jardín en terraza de piedra. Conocido por la tavë kosi (cordero al horno con yogur), carnes a la parrilla y raki casero. Los perros son bienvenidos en la terraza del jardín.",
+          "descriptionPt": "Restaurante albanês tradicional instalado numa casa histórica otomana no bairro de Mangalem, com um jardim em terraço de pedra. Conhecido pela tavë kosi (borrego assado com iogurte), carnes grelhadas e raki caseiro. Os cães são bem-vindos na esplanada do jardim.",
+          "petPolicy": "Dogs welcome on garden terrace",
+          "petPolicyFr": "Chiens acceptés en terrasse jardin",
+          "petPolicyEs": "Perros admitidos en terraza jardín",
+          "petPolicyPt": "Cães bem-vindos na esplanada jardim",
+          "priceRange": "€€",
+          "mustTry": "Tavë kosi, grilled lamb chops",
+          "mustTryFr": "Tavë kosi, côtelettes d'agneau grillées",
+          "mustTryEs": "Tavë kosi, chuletas de cordero a la parrilla",
+          "mustTryPt": "Tavë kosi, costeletas de borrego grelhadas",
+          "openingHours": "Daily 10:00-22:00",
+          "tip": "Reserve the corner table by the old stone wall for maximum shade and quiet; the narrow street in front fills with tourists at noon",
+          "tipFr": "Réservez la table du coin près du vieux mur de pierre pour un maximum d'ombre et de calme ; la rue étroite devant se remplit de touristes à midi",
+          "tipEs": "Reserva la mesa del rincón junto al muro de piedra para mayor sombra y tranquilidad; la calle estrecha de enfrente se llena de turistas al mediodía",
+          "tipPt": "Reserve a mesa do canto junto ao velho muro de pedra para maior sombra e sossego; a rua estreita à frente enche-se de turistas ao meio-dia",
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurant+Mangalemi+Berat+Albania"
+        },
+        {
+          "name": "Zgara Çelësi",
+          "address": "Bulevardi Republika, Berat",
+          "neighborhood": "New town / Gorica bridge area",
+          "photo": "",
+          "website": "",
+          "description": "A riverside grill house near the Gorica bridge popular with locals for quick grilled meat dishes, qofte (spiced meatballs), and cold Albanian beer. Outdoor plastic tables line the riverbank; dogs are routinely accommodated without fuss.",
+          "descriptionFr": "Un grill de bord de rivière près du pont de Gorica, populaire parmi les locaux pour des plats de viandes grillées rapides, des qofte (boulettes épicées) et de la bière albanaise fraîche. Des tables en plastique longent la rive ; les chiens sont routinièrement acceptés sans histoires.",
+          "descriptionEs": "Una parrilla ribereña cerca del puente de Gorica, popular entre los locales por platos rápidos de carne a la parrilla, qofte (albóndigas especiadas) y cerveza albanesa fría. Mesas de plástico junto al río; los perros son aceptados sin complicaciones.",
+          "descriptionPt": "Uma churrasqueira à beira-rio perto da ponte de Gorica, popular entre os locais por pratos rápidos de carne grelhada, qofte (almôndegas temperadas) e cerveja albanesa fresca. Mesas de plástico junto ao rio; os cães são acomodados sem problemas.",
+          "petPolicy": "Dogs tolerated at riverside tables",
+          "petPolicyFr": "Chiens tolérés aux tables au bord de la rivière",
+          "petPolicyEs": "Perros tolerados en las mesas junto al río",
+          "petPolicyPt": "Cães tolerados nas mesas à beira-rio",
+          "priceRange": "€",
+          "mustTry": "Qofte, grilled chicken, cold Korça beer",
+          "mustTryFr": "Qofte, poulet grillé, bière Korça fraîche",
+          "mustTryEs": "Qofte, pollo a la parrilla, cerveza Korça fría",
+          "mustTryPt": "Qofte, frango grelhado, cerveja Korça fresca",
+          "openingHours": "Daily 11:00-23:00",
+          "tip": "Go at sunset when the castle glows orange above the river; tie your dog to the table leg rather than a chair, as locals move chairs constantly",
+          "tipFr": "Allez-y au coucher du soleil quand le château brille orange au-dessus de la rivière ; attachez votre chien au pied de la table plutôt qu'à une chaise, car les locaux déplacent constamment les chaises",
+          "tipEs": "Ve al atardecer cuando el castillo brilla en naranja sobre el río; ata tu perro a la pata de la mesa y no a una silla, ya que los locales mueven las sillas constantemente",
+          "tipPt": "Vá ao pôr do sol quando o castelo brilha em laranja sobre o rio; prenda o seu cão à perna da mesa e não a uma cadeira, pois os locais movem as cadeiras constantemente",
+          "googleMapsUrl": "https://maps.google.com/?q=Gorica+bridge+Berat+Albania"
+        }
+      ],
+      "tipsEn": ["Most restaurants in the old quarters are terraces only with no indoor seating, which works in your favour with a dog.", "Carry a collapsible water bowl; the summer heat in the Osum valley is intense.", "Avoid the two or three tourist traps directly on the Gorica bridge with menu photos; go one block back for better food and more space for your dog."],
+      "tipsFr": ["La plupart des restaurants des vieux quartiers ne proposent que des terrasses sans salle intérieure, ce qui joue en votre faveur avec un chien.", "Emportez un bol pliable ; la chaleur estivale dans la vallée de l'Osum est intense.", "Évitez les deux ou trois attrape-touristes directement sur le pont de Gorica avec des menus illustrés ; reculez d'un pâté de maisons pour une meilleure cuisine et plus d'espace pour votre chien."],
+      "tipsEs": ["La mayoría de los restaurantes de los barrios antiguos solo tienen terraza sin interior, lo que juega a tu favor con un perro.", "Lleva un cuenco de agua plegable; el calor estival en el valle del Osum es intenso.", "Evita los dos o tres establecimientos turísticos directamente en el puente de Gorica con fotos en el menú; alejándote una manzana encontrarás mejor comida y más espacio para tu perro."],
+      "tipsPt": ["A maioria dos restaurantes nos bairros antigos tem apenas esplanada sem sala interior, o que é a seu favor com um cão.", "Leve uma tigela de água dobrável; o calor de verão no vale do Osum é intenso.", "Evite as duas ou três armadilhas turísticas diretamente na ponte de Gorica com fotos no menu; recue um quarteirão para melhor comida e mais espaço para o seu cão."],
+      "faqsEn": [
+        { "q": "Are dogs allowed inside restaurants in Berat?", "a": "Rarely inside, but almost universally on terraces. Albanian towns are informal about pet etiquette on outdoor tables, especially outside peak summer weekends." },
+        { "q": "Is there anywhere to fill a dog's water bowl in the old town?", "a": "The public fountain on the road up to the castle (Rruga Antipatrea) has running water year-round. Restaurants will also refill a bowl on request." }
+      ],
+      "faqsFr": [
+        { "q": "Les chiens sont-ils admis à l'intérieur des restaurants à Berat ?", "a": "Rarement à l'intérieur, mais presque universellement en terrasse. Les villes albanaises sont informelles sur l'étiquette des animaux aux tables en plein air, surtout en dehors des week-ends de pointe estivaux." },
+        { "q": "Peut-on remplir une gamelle d'eau dans la vieille ville ?", "a": "La fontaine publique sur la route du château (Rruga Antipatrea) a de l'eau courante toute l'année. Les restaurants remplissent aussi les gamelles sur demande." }
+      ],
+      "faqsEs": [
+        { "q": "¿Se permiten los perros en el interior de los restaurantes en Berat?", "a": "Rara vez dentro, pero casi siempre en las terrazas. Las ciudades albanesas son informales en cuanto a la etiqueta de mascotas en mesas al aire libre, especialmente fuera de los fines de semana pico del verano." },
+        { "q": "¿Hay algún lugar para llenar el cuenco de agua de un perro en el casco antiguo?", "a": "La fuente pública en el camino al castillo (Rruga Antipatrea) tiene agua corriente todo el año. Los restaurantes también rellenan el cuenco si se lo pides." }
+      ],
+      "faqsPt": [
+        { "q": "Os cães são permitidos dentro dos restaurantes em Berat?", "a": "Raramente dentro, mas quase universalmente nas esplanadas. As cidades albanesas são informais quanto à etiqueta de animais nas mesas ao ar livre, especialmente fora dos fins de semana de pico de verão." },
+        { "q": "Há algum lugar para encher a tigela de água de um cão no centro histórico?", "a": "A fonte pública na estrada para o castelo (Rruga Antipatrea) tem água corrente durante todo o ano. Os restaurantes também enchem a tigela a pedido." }
+      ]
+    },
+    "parks": {
+      "titleEn": "Green Spaces & Dog Walks in Berat",
+      "titleFr": "Espaces verts et balades avec chien à Berat",
+      "titleEs": "Zonas verdes y paseos con perro en Berat",
+      "titlePt": "Espaços verdes e passeios com cão em Berat",
+      "introEn": "Berat's main green space is the Osum riverbank path that runs for about two kilometres between the old bridges. The castle hill (Kalaja) is also walkable and largely off-leash in practice, though the hilltop is uneven cobblestone. Nearby, the Molisht forest above the city offers shaded woodland trails.",
+      "introFr": "Le principal espace vert de Berat est le chemin de bord de l'Osum qui s'étend sur environ deux kilomètres entre les vieux ponts. La colline du château (Kalaja) est également accessible à pied et en pratique souvent sans laisse, bien que le sommet soit pavé irrégulièrement. À proximité, la forêt de Molisht au-dessus de la ville offre des sentiers boisés ombragés.",
+      "introEs": "El principal espacio verde de Berat es el camino a orillas del río Osum que se extiende unos dos kilómetros entre los puentes antiguos. La colina del castillo (Kalaja) también es transitable y en la práctica suele ser sin correa, aunque el terreno en la cima es empedrado e irregular. Cerca, el bosque de Molisht sobre la ciudad ofrece senderos boscosos con sombra.",
+      "introPt": "O principal espaço verde de Berat é o caminho à margem do rio Osum que se estende por cerca de dois quilómetros entre as pontes antigas. A colina do castelo (Kalaja) também é percorrível e na prática muitas vezes sem trela, embora o topo seja de pedra irregular. Nas proximidades, a floresta de Molisht acima da cidade oferece trilhos florestais com sombra.",
+      "places": [
+        {
+          "name": "Osum Riverbank Path",
+          "address": "Along the Osum River, Berat",
+          "neighborhood": "City centre",
+          "photo": "",
+          "website": "",
+          "description": "A 2 km riverside promenade connecting the Gorica bridge to the old stone bridge at the northern end of the Mangalem quarter. Wide, flat, and shaded by plane trees; dogs walk off-leash here routinely. The river is shallow and accessible in several spots for a summer wade.",
+          "descriptionFr": "Une promenade de 2 km au bord de la rivière reliant le pont de Gorica au vieux pont de pierre au nord du quartier Mangalem. Large, plat et ombragé par des platanes ; les chiens s'y promènent sans laisse en pratique. La rivière est peu profonde et accessible en plusieurs endroits pour se rafraîchir en été.",
+          "descriptionEs": "Un paseo fluvial de 2 km que conecta el puente de Gorica con el antiguo puente de piedra al norte del barrio de Mangalem. Amplio, llano y sombreado por plátanos; los perros suelen pasear sin correa aquí. El río es poco profundo y accesible en varios puntos para refrescarse en verano.",
+          "descriptionPt": "Uma promenade ribeirinha de 2 km que liga a ponte de Gorica à velha ponte de pedra no norte do bairro de Mangalem. Larga, plana e sombreada por plátanos; os cães passeiam aqui sem trela habitualmente. O rio é pouco profundo e acessível em vários pontos para um mergulho no verão.",
+          "petPolicy": "De facto off-leash, no signage",
+          "petPolicyFr": "Sans laisse de facto, pas de signalisation",
+          "petPolicyEs": "Sin correa de facto, sin señalización",
+          "petPolicyPt": "Sem trela de facto, sem sinalização",
+          "openingHours": "Always open",
+          "tip": "Early morning before 8:00 the path is empty and cool; by 11:00 it fills with school groups visiting the castle and the heat builds fast",
+          "tipFr": "Tôt le matin avant 8h, le chemin est vide et frais ; à partir de 11h il se remplit de groupes scolaires visitant le château et la chaleur monte vite",
+          "tipEs": "Temprano por la mañana, antes de las 8:00, el camino está vacío y fresco; a partir de las 11:00 se llena de grupos escolares que visitan el castillo y el calor aumenta rápido",
+          "tipPt": "De manhã cedo antes das 8:00 o caminho está vazio e fresco; às 11:00 enche-se de grupos escolares que visitam o castelo e o calor sobe rapidamente",
+          "googleMapsUrl": "https://maps.google.com/?q=Osum+River+Berat+Albania"
+        }
+      ],
+      "tipsEn": ["The Kalaja castle interior is mostly gravel paths and old church ruins where dogs roam freely with local residents.", "The Molisht forest road (8 km north of Berat on the SH71) begins with a wide gravel forestry track; go in the morning before it gets hot.", "Dogs may enter the riverside park on the south side of the Gorica bridge freely."],
+      "tipsFr": ["L'intérieur du château de Kalaja est composé principalement de chemins de gravier et de ruines d'églises où les chiens circulent librement avec les habitants.", "La route forestière de Molisht (8 km au nord de Berat sur la SH71) commence par une large piste forestière en gravier ; allez-y le matin avant qu'il ne fasse trop chaud.", "Les chiens peuvent accéder librement au parc riverain côté sud du pont de Gorica."],
+      "tipsEs": ["El interior del castillo de Kalaja es principalmente caminos de grava y ruinas de iglesias donde los perros deambulan libremente con los residentes.", "La pista forestal de Molisht (8 km al norte de Berat en la SH71) comienza con una amplia pista forestal de grava; ve por la mañana antes de que haga mucho calor.", "Los perros pueden entrar libremente en el parque ribereño al sur del puente de Gorica."],
+      "tipsPt": ["O interior do castelo de Kalaja é principalmente de caminhos de gravilha e ruínas de igrejas onde os cães circulam livremente com os residentes.", "A estrada florestal de Molisht (8 km a norte de Berat na SH71) começa com uma ampla pista florestal de gravilha; vá de manhã antes de fazer muito calor.", "Os cães podem entrar livremente no parque ribeirinho no lado sul da ponte de Gorica."],
+      "faqsEn": [
+        { "q": "Can dogs enter Berat Castle (Kalaja)?", "a": "Yes. The castle is an inhabited residential quarter and dogs enter freely. There is no ticket required to walk the castle streets, only the museum inside charges admission." },
+        { "q": "Is the Osum river safe for dogs to swim?", "a": "In summer the river is low and calm at the Berat stretch; dogs wade in easily at the gravel banks. Avoid after heavy rain when currents strengthen." }
+      ],
+      "faqsFr": [
+        { "q": "Les chiens peuvent-ils entrer dans le château de Berat (Kalaja) ?", "a": "Oui. Le château est un quartier résidentiel habité et les chiens y entrent librement. Il n'y a pas de billet pour se promener dans les rues du château, seul le musée à l'intérieur est payant." },
+        { "q": "L'Osum est-il sans danger pour les chiens qui se baignent ?", "a": "En été, la rivière est basse et calme au niveau de Berat ; les chiens y entrent facilement sur les berges de gravier. Évitez après de fortes pluies car le courant se renforce." }
+      ],
+      "faqsEs": [
+        { "q": "¿Pueden los perros entrar al castillo de Berat (Kalaja)?", "a": "Sí. El castillo es un barrio residencial habitado y los perros entran libremente. No se requiere entrada para caminar por las calles del castillo; solo el museo interior cobra admisión." },
+        { "q": "¿Es seguro para los perros nadar en el río Osum?", "a": "En verano el río está bajo y tranquilo en el tramo de Berat; los perros entran fácilmente en los bancos de grava. Evítalo después de lluvias intensas cuando la corriente se refuerza." }
+      ],
+      "faqsPt": [
+        { "q": "Os cães podem entrar no Castelo de Berat (Kalaja)?", "a": "Sim. O castelo é um bairro residencial habitado e os cães entram livremente. Não é necessário bilhete para caminhar pelas ruas do castelo; apenas o museu no interior cobra entrada." },
+        { "q": "O rio Osum é seguro para os cães nadarem?", "a": "No verão o rio está baixo e calmo no trecho de Berat; os cães entram facilmente nas margens de gravilha. Evite após chuvas fortes quando as correntes aumentam." }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Berat with Your Dog",
+      "titleFr": "Se déplacer à Berat avec son chien",
+      "titleEs": "Moverse por Berat con tu perro",
+      "titlePt": "Deslocar-se em Berat com o seu cão",
+      "introEn": "Berat is a compact UNESCO town best explored on foot. The historic quarters (Mangalem, Gorica, Kalaja) are all walkable from the centre. Furgons (shared minivans) connect Berat to Tirana, Vlora, and Fier; small dogs in carriers are generally accepted. Taxis are privately negotiated and almost always dog-friendly.",
+      "introFr": "Berat est une ville UNESCO compacte que l'on explore à pied. Les quartiers historiques (Mangalem, Gorica, Kalaja) sont tous accessibles à pied depuis le centre. Les furgons (minibus partagés) relient Berat à Tirana, Vlora et Fier ; les petits chiens dans des sacs sont généralement acceptés. Les taxis sont négociés de gré à gré et sont presque toujours dog-friendly.",
+      "introEs": "Berat es una ciudad UNESCO compacta que se explora mejor a pie. Los barrios históricos (Mangalem, Gorica, Kalaja) son todos accesibles caminando desde el centro. Los furgons (furgonetas compartidas) conectan Berat con Tirana, Vlora y Fier; los perros pequeños en transportines son generalmente aceptados. Los taxis se negocian de forma privada y casi siempre admiten perros.",
+      "introPt": "Berat é uma cidade UNESCO compacta que se explora melhor a pé. Os bairros históricos (Mangalem, Gorica, Kalaja) são todos acessíveis a pé a partir do centro. Os furgons (minivans partilhadas) ligam Berat a Tirana, Vlora e Fier; cães pequenos em transportadores são geralmente aceites. Os táxis são negociados de forma privada e quase sempre aceitam cães.",
+      "places": [],
+      "tipsEn": ["The road up to Kalaja castle is steep cobblestone and gets slippery when wet; use a short leash on the ascent.", "Furgons to Tirana depart from the central bus station near the main roundabout; journey is about 2.5 hours and costs 400 ALL (roughly €4).", "Local taxis charge flat rates for the city; agree the fare before entering and mention your dog proactively."],
+      "tipsFr": ["La route vers le château de Kalaja est un pavé pentu qui devient glissant par temps de pluie ; utilisez une laisse courte à la montée.", "Les furgons pour Tirana partent de la gare routière centrale près du grand rond-point ; le trajet dure environ 2h30 et coûte 400 ALL (environ 4 €).", "Les taxis locaux pratiquent des tarifs fixes pour la ville ; convenez du prix avant de monter et mentionnez votre chien de manière proactive."],
+      "tipsEs": ["La carretera hasta el castillo de Kalaja es empedrado empinado que se vuelve resbaladizo cuando está mojado; usa una correa corta al subir.", "Los furgons a Tirana salen de la estación de autobuses central cerca de la rotonda principal; el trayecto dura unas 2,5 horas y cuesta 400 ALL (unos 4 €).", "Los taxis locales cobran tarifas fijas por la ciudad; acuerda el precio antes de entrar y menciona tu perro de forma proactiva."],
+      "tipsPt": ["A estrada até ao castelo de Kalaja é de pedra irregular e fica escorregadia quando molhada; use uma trela curta na subida.", "Os furgons para Tirana partem da estação de autocarros central perto da rotunda principal; a viagem demora cerca de 2h30 e custa 400 ALL (cerca de 4 €).", "Os táxis locais cobram tarifas fixas pela cidade; concorde no preço antes de entrar e mencione o seu cão de forma proativa."],
+      "faqsEn": [
+        { "q": "Are there direct buses to Tirana with dogs?", "a": "Furgons are the main intercity link; small dogs in a carrier bag are generally accepted by drivers who are accustomed to it. For larger dogs, negotiate with the driver privately before boarding." },
+        { "q": "Can I reach Berat by train?", "a": "Albania's passenger rail network is extremely limited and the Berat line is not in regular service. Road transport (furgon or private taxi) is the only practical option." }
+      ],
+      "faqsFr": [
+        { "q": "Y a-t-il des bus directs vers Tirana avec les chiens ?", "a": "Les furgons sont le principal lien interurbain ; les petits chiens dans un sac de transport sont généralement acceptés par les chauffeurs qui y sont habitués. Pour les grands chiens, négociez avec le chauffeur en privé avant de monter." },
+        { "q": "Peut-on rejoindre Berat en train ?", "a": "Le réseau ferroviaire albanais pour les passagers est extrêmement limité et la ligne de Berat n'est pas en service régulier. Le transport routier (furgon ou taxi privé) est la seule option pratique." }
+      ],
+      "faqsEs": [
+        { "q": "¿Hay autobuses directos a Tirana con perros?", "a": "Los furgons son el principal enlace interurbano; los conductores, acostumbrados a ello, generalmente aceptan perros pequeños en transportín. Para perros grandes, negocia con el conductor de forma privada antes de subir." },
+        { "q": "¿Se puede llegar a Berat en tren?", "a": "La red ferroviaria de pasajeros de Albania es muy limitada y la línea de Berat no está en servicio regular. El transporte por carretera (furgon o taxi privado) es la única opción práctica." }
+      ],
+      "faqsPt": [
+        { "q": "Há autocarros diretos para Tirana com cães?", "a": "Os furgons são o principal elo interurbano; cães pequenos num transportador são geralmente aceites pelos motoristas que estão acostumados. Para cães maiores, negocie com o motorista de forma privada antes de embarcar." },
+        { "q": "É possível chegar a Berat de comboio?", "a": "A rede ferroviária de passageiros da Albânia é extremamente limitada e a linha de Berat não está em serviço regular. O transporte rodoviário (furgon ou táxi privado) é a única opção prática." }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Day Trips to the Beach from Berat",
+      "titleFr": "Excursions à la plage depuis Berat",
+      "titleEs": "Excursiones a la playa desde Berat",
+      "titlePt": "Excursões à praia a partir de Berat",
+      "introEn": "Berat is an inland mountain-river city 60 km from the coast. The nearest beaches are around Seman (45 min by car) and the Adriatic coast at Fier-Shegan. Albanian beaches are generally dog-friendly outside July and August peak season. The Ionian coast beaches near Vlora (80 km south) are particularly scenic.",
+      "introFr": "Berat est une ville de montagne et de rivière à l'intérieur des terres, à 60 km de la côte. Les plages les plus proches se trouvent autour de Seman (45 min en voiture) et sur la côte adriatique près de Fier-Shegan. Les plages albanaises sont généralement dog-friendly hors de la haute saison de juillet et août. Les plages de la côte ionienne près de Vlora (80 km au sud) sont particulièrement belles.",
+      "introEs": "Berat es una ciudad de montaña y río en el interior, a 60 km de la costa. Las playas más cercanas están alrededor de Seman (45 min en coche) y en la costa adriática cerca de Fier-Shegan. Las playas albanesas son generalmente aptas para perros fuera de la temporada alta de julio y agosto. Las playas de la costa jónica cerca de Vlora (80 km al sur) son especialmente bonitas.",
+      "introPt": "Berat é uma cidade de montanha e rio no interior, a 60 km da costa. As praias mais próximas ficam perto de Seman (45 min de carro) e na costa Adriática perto de Fier-Shegan. As praias albanesas são geralmente pet-friendly fora da época alta de julho e agosto. As praias da costa Jónica perto de Vlora (80 km a sul) são especialmente bonitas.",
+      "places": [],
+      "tipsEn": ["The Adriatic beaches near Seman are flat, wild, and largely unsupervised; dogs run freely but the water can have strong currents.", "For a proper beach day, drive south to Vlora (1 hour) or Himara (2.5 hours); both have long sand beaches that permit dogs in the shoulder months.", "Pack shade; Albanian beach umbrellas are not universally for hire and open sun in July-August is extreme."],
+      "tipsFr": ["Les plages adriatiques près de Seman sont plates, sauvages et peu surveillées ; les chiens y courent librement mais l'eau peut avoir de forts courants.", "Pour une vraie journée plage, conduisez vers le sud jusqu'à Vlora (1 heure) ou Himara (2h30) ; toutes deux ont de longues plages de sable qui autorisent les chiens en basse saison.", "Emportez de l'ombre ; les parasols albanais ne sont pas universellement en location et le soleil direct en juillet-août est extrême."],
+      "tipsEs": ["Las playas adriáticas cerca de Seman son llanas, salvajes y prácticamente sin vigilancia; los perros corren libremente pero el agua puede tener fuertes corrientes.", "Para un día de playa de verdad, conduce hacia el sur hasta Vlora (1 hora) o Himara (2,5 horas); ambas tienen largas playas de arena que permiten perros en temporada baja.", "Lleva sombra; las sombrillas albanesas no se alquilan en todos lados y el sol directo en julio-agosto es extremo."],
+      "tipsPt": ["As praias adriáticas perto de Seman são planas, selvagens e praticamente sem vigilância; os cães correm livremente mas a água pode ter correntes fortes.", "Para um dia de praia a sério, conduza para sul até Vlora (1 hora) ou Himara (2,5 horas); ambas têm longas praias de areia que permitem cães fora da época alta.", "Leve sombra; os guarda-sóis albaneses não estão disponíveis para aluguer em todo o lado e o sol direto em julho-agosto é extremo."],
+      "faqsEn": [
+        { "q": "Is there a dog-friendly beach within an hour of Berat?", "a": "The wild Seman beach on the Adriatic (45 min northwest by car) is largely unregulated and dogs roam freely. It is a river-mouth beach with some debris; not picturesque but functional." },
+        { "q": "Can dogs swim at Berat itself?", "a": "Yes, in the Osum river through town. The water is clear and shallow in summer, and locals regularly bring dogs in at the gravel banks south of the Gorica bridge." }
+      ],
+      "faqsFr": [
+        { "q": "Y a-t-il une plage dog-friendly à moins d'une heure de Berat ?", "a": "La plage sauvage de Seman sur l'Adriatique (45 min au nord-ouest en voiture) est largement non réglementée et les chiens y circulent librement. C'est une plage d'embouchure de rivière avec quelques déchets ; pas pittoresque mais fonctionnel." },
+        { "q": "Les chiens peuvent-ils nager à Berat même ?", "a": "Oui, dans la rivière Osum qui traverse la ville. L'eau est claire et peu profonde en été, et les habitants amènent régulièrement leurs chiens sur les berges de gravier au sud du pont de Gorica." }
+      ],
+      "faqsEs": [
+        { "q": "¿Hay una playa apta para perros a menos de una hora de Berat?", "a": "La playa salvaje de Seman en el Adriático (45 min al noroeste en coche) está prácticamente sin regular y los perros deambulan libremente. Es una playa de desembocadura de río con algo de basura; no es pintoresca pero funciona." },
+        { "q": "¿Pueden los perros nadar en el propio Berat?", "a": "Sí, en el río Osum que atraviesa la ciudad. El agua está clara y poco profunda en verano, y los locales llevan regularmente a sus perros a las orillas de grava al sur del puente de Gorica." }
+      ],
+      "faqsPt": [
+        { "q": "Há uma praia dog-friendly a menos de uma hora de Berat?", "a": "A praia selvagem de Seman no Adriático (45 min a noroeste de carro) está praticamente sem regulamentação e os cães circulam livremente. É uma praia de foz de rio com algum lixo; não é pitoresca mas funciona." },
+        { "q": "Os cães podem nadar em Berat?", "a": "Sim, no rio Osum que atravessa a cidade. A água é clara e pouco profunda no verão, e os locais levam regularmente os seus cães às margens de gravilha a sul da ponte de Gorica." }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Animal Care in Berat",
+      "titleFr": "Vétérinaires et soins d'urgence à Berat",
+      "titleEs": "Veterinarios y cuidados de emergencia en Berat",
+      "titlePt": "Veterinários e cuidados de emergência em Berat",
+      "introEn": "Berat has a small number of veterinary practices in the new town area. For serious emergencies, Tirana (2.5 hours) has specialist clinics. Always carry a basic pet first-aid kit when hiking the castle hill or forest trails in summer heat.",
+      "introFr": "Berat compte quelques cabinets vétérinaires dans le quartier neuf. Pour les urgences graves, Tirana (2h30) dispose de cliniques spécialisées. Emportez toujours une trousse de premiers secours pour animaux lors des randonnées sur la colline du château ou les sentiers forestiers en été.",
+      "introEs": "Berat cuenta con un pequeño número de consultas veterinarias en la zona de la ciudad nueva. Para emergencias graves, Tirana (2,5 horas) tiene clínicas especializadas. Lleva siempre un botiquín básico de primeros auxilios para mascotas cuando hagas senderismo por la colina del castillo o los senderos del bosque en verano.",
+      "introPt": "Berat tem um pequeno número de consultórios veterinários na zona da cidade nova. Para emergências graves, Tirana (2,5 horas) tem clínicas especializadas. Leve sempre um kit básico de primeiros socorros para animais ao fazer caminhadas na colina do castelo ou nos trilhos florestais no calor de verão.",
+      "places": [
+        {
+          "name": "Klinika Veterinare Berat",
+          "address": "Bulevardi Republika, Berat",
+          "neighborhood": "New town",
+          "photo": "",
+          "website": "",
+          "description": "A general-practice veterinary clinic serving the Berat area. Handles vaccinations, wound care, and basic diagnostics. Call ahead to confirm hours as practices in smaller Albanian cities sometimes have irregular opening times.",
+          "descriptionFr": "Une clinique vétérinaire généraliste au service de la région de Berat. Elle prend en charge les vaccinations, les soins des plaies et les diagnostics de base. Appelez à l'avance pour confirmer les horaires car les cabinets dans les petites villes albanaises ont parfois des horaires irréguliers.",
+          "descriptionEs": "Una clínica veterinaria de medicina general que atiende a la zona de Berat. Se encarga de vacunas, curas de heridas y diagnósticos básicos. Llama antes para confirmar el horario, ya que los consultorios en ciudades albanesas pequeñas a veces tienen horarios irregulares.",
+          "descriptionPt": "Uma clínica veterinária de medicina geral ao serviço da região de Berat. Trata vacinações, cuidados de feridas e diagnósticos básicos. Ligue antes para confirmar o horário, pois os consultórios em cidades albanesas menores às vezes têm horários irregulares.",
+          "petPolicy": "All pets welcome",
+          "petPolicyFr": "Tous les animaux bienvenus",
+          "petPolicyEs": "Se admiten todas las mascotas",
+          "petPolicyPt": "Todos os animais bem-vindos",
+          "priceRange": "€",
+          "openingHours": "Mon-Sat approx 09:00-13:00, 16:00-19:00 (call ahead)",
+          "tip": "Albanian vets rarely have online booking; walk in or call on the day. Bring your pet passport and vaccination records as the vet may want to see them",
+          "tipFr": "Les vétérinaires albanais ont rarement une réservation en ligne ; allez directement ou appelez le jour même. Apportez votre passeport animal et vos carnets de vaccination car le vétérinaire peut vouloir les consulter",
+          "tipEs": "Los veterinarios albaneses rara vez tienen reserva online; ve directamente o llama el mismo día. Lleva tu pasaporte de mascota y los registros de vacunación ya que el veterinario puede querer verlos",
+          "tipPt": "Os veterinários albaneses raramente têm marcação online; apareça ou ligue no dia. Traga o seu passaporte de animal e os registos de vacinação, pois o veterinário pode querer vê-los",
+          "googleMapsUrl": "https://maps.google.com/?q=veterinar+Berat+Albania"
+        }
+      ],
+      "tipsEn": ["The nearest 24-hour emergency animal clinic is in Tirana; programme the number of AniCare Tirana (+355 4 225 0000) before your trip.", "Heat stroke is the main risk for dogs in summer Berat; if your dog collapses, cool with river water and seek shade immediately while calling ahead to the vet.", "Pharmacies in Albania stock basic wound dressings and hydration salts useful for pets."],
+      "tipsFr": ["La clinique vétérinaire d'urgence 24h la plus proche est à Tirana ; enregistrez le numéro d'AniCare Tirana (+355 4 225 0000) avant votre voyage.", "Le coup de chaleur est le principal risque pour les chiens à Berat en été ; si votre chien s'effondre, refroidissez-le avec l'eau de la rivière et cherchez de l'ombre immédiatement en appelant le vétérinaire.", "Les pharmacies albanaises vendent des pansements de base et des sels de réhydratation utiles pour les animaux."],
+      "tipsEs": ["La clínica veterinaria de urgencias 24 horas más cercana está en Tirana; guarda el número de AniCare Tirana (+355 4 225 0000) antes de tu viaje.", "El golpe de calor es el principal riesgo para los perros en Berat en verano; si tu perro colapsa, enfríalo con agua del río y busca sombra inmediatamente mientras llamas al veterinario.", "Las farmacias de Albania tienen apósitos básicos y sales de hidratación útiles para las mascotas."],
+      "tipsPt": ["A clínica veterinária de emergência 24 horas mais próxima fica em Tirana; guarde o número da AniCare Tirana (+355 4 225 0000) antes da viagem.", "O golpe de calor é o principal risco para os cães no verão em Berat; se o seu cão colapsar, arrefeça-o com água do rio e procure sombra imediatamente enquanto contacta o veterinário.", "As farmácias na Albânia têm pensos básicos e sais de hidratação úteis para animais."],
+      "faqsEn": [
+        { "q": "Do vets in Berat speak English?", "a": "Some younger vets speak basic English or Italian. Bring a translation app or written notes describing your pet's condition to be safe." },
+        { "q": "Can I get my EU pet passport stamped in Berat?", "a": "Your EU pet passport is not stamped when entering Albania (it is scanned at the border). For a re-entry health certificate for re-entering the EU, you need a vet appointment within 10 days of return." }
+      ],
+      "faqsFr": [
+        { "q": "Les vétérinaires de Berat parlent-ils anglais ?", "a": "Certains jeunes vétérinaires parlent un anglais ou un italien de base. Emportez une application de traduction ou des notes écrites décrivant l'état de votre animal pour plus de sécurité." },
+        { "q": "Puis-je faire tamponner mon passeport UE pour animaux à Berat ?", "a": "Votre passeport UE pour animaux n'est pas tamponné lors de l'entrée en Albanie (il est scanné à la frontière). Pour un certificat sanitaire de retour dans l'UE, il faut un rendez-vous vétérinaire dans les 10 jours précédant le retour." }
+      ],
+      "faqsEs": [
+        { "q": "¿Los veterinarios en Berat hablan inglés?", "a": "Algunos veterinarios jóvenes hablan inglés o italiano básico. Lleva una app de traducción o notas escritas describiendo el estado de tu mascota por si acaso." },
+        { "q": "¿Puedo sellar mi pasaporte UE de mascota en Berat?", "a": "Tu pasaporte UE de mascota no se sella al entrar en Albania (se escanea en la frontera). Para un certificado sanitario de reentrada a la UE, necesitas una cita con el veterinario dentro de los 10 días previos al regreso." }
+      ],
+      "faqsPt": [
+        { "q": "Os veterinários em Berat falam inglês?", "a": "Alguns veterinários mais jovens falam inglês ou italiano básico. Leve uma app de tradução ou notas escritas descrevendo o estado do seu animal por precaução." },
+        { "q": "Posso carimbar o meu passaporte UE de animal em Berat?", "a": "O seu passaporte UE de animal não é carimbado ao entrar na Albânia (é lido na fronteira). Para um certificado sanitário de reentrada na UE, precisa de uma consulta veterinária nos 10 dias antes do regresso." }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Dog Travel Tips for Berat",
+      "titleFr": "Conseils essentiels pour voyager avec son chien à Berat",
+      "titleEs": "Consejos esenciales para viajar con perro a Berat",
+      "titlePt": "Dicas essenciais para viajar com cão em Berat",
+      "introEn": "Berat is one of Albania's most rewarding destinations for dog owners. The city is relaxed, the old quarters are traffic-free, and Albanians are generally comfortable around dogs. Heat management and water access are the two things to plan carefully in summer.",
+      "introFr": "Berat est l'une des destinations albanaises les plus gratifiantes pour les propriétaires de chiens. La ville est détendue, les vieux quartiers sont sans voiture, et les Albanais sont généralement à l'aise avec les chiens. La gestion de la chaleur et l'accès à l'eau sont les deux choses à bien planifier en été.",
+      "introEs": "Berat es uno de los destinos albaneses más gratificantes para los dueños de perros. La ciudad es tranquila, los barrios antiguos están libres de tráfico y los albaneses generalmente se sienten cómodos con los perros. La gestión del calor y el acceso al agua son las dos cosas que hay que planificar cuidadosamente en verano.",
+      "introPt": "Berat é um dos destinos albaneses mais gratificantes para os donos de cães. A cidade é descontraída, os bairros antigos são sem tráfego e os albaneses geralmente estão à vontade com os cães. A gestão do calor e o acesso à água são as duas coisas a planear com cuidado no verão.",
+      "tips": [
+        {
+          "titleEn": "Best season",
+          "titleFr": "Meilleure saison",
+          "titleEs": "Mejor temporada",
+          "titlePt": "Melhor época",
+          "bodyEn": "April-May and September-October are ideal: mild temperatures (18-24°C), few tourists, and the Osum river is at a pleasant level for dog swimming. July-August sees 35-38°C in the Osum valley; walkable only at dawn and dusk.",
+          "bodyFr": "Avril-mai et septembre-octobre sont idéaux : températures douces (18-24°C), peu de touristes et la rivière Osum est à un niveau agréable pour les bains de chiens. Juillet-août voit 35-38°C dans la vallée de l'Osum ; praticable seulement à l'aube et au crépuscule.",
+          "bodyEs": "Abril-mayo y septiembre-octubre son ideales: temperaturas suaves (18-24°C), pocos turistas y el río Osum está en un nivel agradable para que naden los perros. Julio-agosto registra 35-38°C en el valle del Osum; solo se puede caminar al amanecer y al atardecer.",
+          "bodyPt": "Abril-maio e setembro-outubro são ideais: temperaturas amenas (18-24°C), poucos turistas e o rio Osum está num nível agradável para os cães nadarem. Julho-agosto vê 35-38°C no vale do Osum; caminhável apenas ao amanhecer e ao entardecer."
+        },
+        {
+          "titleEn": "Castle visit strategy",
+          "titleFr": "Stratégie pour visiter le château",
+          "titleEs": "Estrategia para visitar el castillo",
+          "titlePt": "Estratégia para visitar o castelo",
+          "bodyEn": "Visit Kalaja castle before 9 AM or after 5 PM to avoid midday heat on the exposed cobblestone climb. Bring 2 litres of water per hour for you and your dog. Dogs roam freely inside the castle walls alongside the few remaining residents.",
+          "bodyFr": "Visitez le château de Kalaja avant 9h ou après 17h pour éviter la chaleur de midi sur la montée en pavés exposés. Emportez 2 litres d'eau par heure pour vous et votre chien. Les chiens circulent librement à l'intérieur des remparts aux côtés des quelques résidents restants.",
+          "bodyEs": "Visita el castillo de Kalaja antes de las 9:00 o después de las 17:00 para evitar el calor del mediodía en la empinada subida de adoquines al descubierto. Lleva 2 litros de agua por hora para ti y tu perro. Los perros deambulan libremente dentro de las murallas del castillo junto a los pocos residentes que quedan.",
+          "bodyPt": "Visite o castelo de Kalaja antes das 9:00 ou depois das 17:00 para evitar o calor do meio-dia na subida de pedra exposta. Leve 2 litros de água por hora para si e para o seu cão. Os cães circulam livremente dentro das muralhas do castelo junto aos poucos residentes que ainda lá vivem."
+        }
+      ],
+      "faqsEn": [
+        { "q": "Are dogs welcome in the UNESCO old town of Berat?", "a": "Yes, completely. The old town (Mangalem and Gorica quarters) has no dog restrictions. The castle quarter (Kalaja) is a living neighbourhood and dogs have always been part of daily life there." },
+        { "q": "What is the vibe for dog owners in Berat compared to other Balkan cities?", "a": "Very relaxed. Albania has a high rate of street dogs and Albanians are generally habituated to dogs in public space. You will rarely be asked to leash your dog or leave a terrace." }
+      ],
+      "faqsFr": [
+        { "q": "Les chiens sont-ils bienvenus dans la vieille ville UNESCO de Berat ?", "a": "Oui, tout à fait. La vieille ville (quartiers Mangalem et Gorica) n'a aucune restriction pour les chiens. Le quartier du château (Kalaja) est un quartier vivant et les chiens ont toujours fait partie de la vie quotidienne là-bas." },
+        { "q": "Quelle est l'ambiance pour les propriétaires de chiens à Berat par rapport aux autres villes des Balkans ?", "a": "Très détendue. L'Albanie a un taux élevé de chiens errants et les Albanais sont généralement habitués aux chiens dans l'espace public. On vous demandera rarement de mettre votre chien en laisse ou de quitter une terrasse." }
+      ],
+      "faqsEs": [
+        { "q": "¿Son bienvenidos los perros en el casco antiguo UNESCO de Berat?", "a": "Sí, completamente. El casco antiguo (barrios de Mangalem y Gorica) no tiene restricciones para perros. El barrio del castillo (Kalaja) es un barrio vivo y los perros siempre han formado parte de la vida cotidiana allí." },
+        { "q": "¿Cómo es el ambiente para los dueños de perros en Berat en comparación con otras ciudades de los Balcanes?", "a": "Muy relajado. Albania tiene una alta tasa de perros callejeros y los albaneses están generalmente acostumbrados a los perros en el espacio público. Rara vez te pedirán que pongas a tu perro en correa o que abandones una terraza." }
+      ],
+      "faqsPt": [
+        { "q": "Os cães são bem-vindos na cidade velha UNESCO de Berat?", "a": "Sim, completamente. A cidade velha (bairros de Mangalem e Gorica) não tem restrições para cães. O bairro do castelo (Kalaja) é um bairro vivo e os cães sempre fizeram parte da vida quotidiana lá." },
+        { "q": "Como é a atmosfera para os donos de cães em Berat em comparação com outras cidades dos Balcãs?", "a": "Muito descontraída. A Albânia tem uma alta taxa de cães de rua e os albaneses estão geralmente habituados aos cães no espaço público. Raramente lhe pedirão para colocar o seu cão na trela ou para sair de uma esplanada." }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Berat",
+      "titleFr": "Attractions dog-friendly à Berat",
+      "titleEs": "Atracciones dog-friendly en Berat",
+      "titlePt": "Atrações dog-friendly em Berat",
+      "introEn": "Berat's main attractions are its open-air architectural landscapes: the Mangalem quarter, the Gorica quarter across the river, and the Kalaja castle hill. All are walkable with dogs. The on-Onufri Museum inside the castle is the only major indoor site and dogs cannot enter; tie outside at the gate.",
+      "introFr": "Les principales attractions de Berat sont ses paysages architecturaux en plein air : le quartier Mangalem, le quartier Gorica de l'autre côté de la rivière et la colline du château de Kalaja. Tous sont accessibles avec des chiens. Le musée Onufri à l'intérieur du château est le seul grand site intérieur et les chiens ne peuvent pas y entrer ; attachez-les à l'extérieur près de la porte.",
+      "introEs": "Las principales atracciones de Berat son sus paisajes arquitectónicos al aire libre: el barrio de Mangalem, el barrio de Gorica al otro lado del río y la colina del castillo de Kalaja. Todos son transitables con perros. El museo Onufri dentro del castillo es el único gran espacio cerrado y los perros no pueden entrar; átalos fuera junto a la puerta.",
+      "introPt": "As principais atrações de Berat são as suas paisagens arquitetónicas ao ar livre: o bairro de Mangalem, o bairro de Gorica do outro lado do rio e a colina do castelo de Kalaja. Todos são percorríveis com cães. O Museu Onufri dentro do castelo é o único grande espaço interior e os cães não podem entrar; prenda-os do lado de fora junto à porta.",
+      "places": [
+        {
+          "name": "Kalaja Castle Quarter",
+          "address": "Kalaja, Berat",
+          "neighborhood": "Castle hill",
+          "photo": "",
+          "website": "",
+          "description": "The inhabited medieval castle on the hill above Berat, a UNESCO World Heritage Site. Dogs walk freely through the cobblestone lanes, past Byzantine churches and Ottoman houses. The views over the Osum valley and the white-windowed town below are exceptional. No ticket needed for the streets; only the Onufri Museum charges entry.",
+          "descriptionFr": "Le château médiéval habité sur la colline de Berat, inscrit au patrimoine mondial de l'UNESCO. Les chiens circulent librement dans les ruelles pavées, au-delà des églises byzantines et des maisons ottomanes. Les vues sur la vallée de l'Osum et la ville aux fenêtres blanches en contrebas sont exceptionnelles. Pas de billet nécessaire pour les rues ; seul le musée Onufri est payant.",
+          "descriptionEs": "El castillo medieval habitado en la colina sobre Berat, Patrimonio Mundial de la UNESCO. Los perros caminan libremente por los callejones empedrados, junto a iglesias bizantinas y casas otomanas. Las vistas sobre el valle del Osum y la ciudad de ventanas blancas abajo son excepcionales. No se necesita entrada para las calles; solo el Museo Onufri cobra entrada.",
+          "descriptionPt": "O castelo medieval habitado na colina acima de Berat, Património Mundial da UNESCO. Os cães caminham livremente pelas ruelas de pedra, junto a igrejas bizantinas e casas otomanas. As vistas sobre o vale do Osum e a cidade de janelas brancas em baixo são excecionais. Não é necessário bilhete para as ruas; apenas o Museu Onufri cobra entrada.",
+          "petPolicy": "Dogs free in castle streets; not permitted in Onufri Museum",
+          "petPolicyFr": "Chiens libres dans les rues du château ; non admis au musée Onufri",
+          "petPolicyEs": "Perros libres en las calles del castillo; no permitidos en el Museo Onufri",
+          "petPolicyPt": "Cães livres nas ruas do castelo; não permitidos no Museu Onufri",
+          "openingHours": "Castle streets: always open. Onufri Museum: Tue-Sun 09:00-17:00",
+          "tip": "The path up through Mangalem quarter is the most atmospheric approach; allow 20 min for the climb at a dog-comfortable pace",
+          "tipFr": "Le chemin montant à travers le quartier Mangalem est l'approche la plus pittoresque ; prévoyez 20 min pour la montée à un rythme confortable pour votre chien",
+          "tipEs": "El camino que sube por el barrio de Mangalem es el acceso más pintoresco; calcula 20 min para la subida a un ritmo cómodo para tu perro",
+          "tipPt": "O caminho que sobe pelo bairro de Mangalem é a abordagem mais pitoresca; permita 20 min para a subida a um ritmo confortável para o seu cão",
+          "googleMapsUrl": "https://maps.google.com/?q=Berat+Castle+Albania"
+        }
+      ],
+      "tipsEn": ["The Ethnographic Museum in Mangalem (lower old town) does not permit dogs inside but the courtyard is accessible.", "Gorica bridge pedestrian crossing gives the classic postcard view of the castle above Mangalem; dogs walk freely.", "The Helvetas watermill (3 km south on the Osum) is a pleasant 1-hour river walk from the old town bridge, mostly off-leash."],
+      "tipsFr": ["Le Musée ethnographique de Mangalem (basse ville ancienne) n'autorise pas les chiens à l'intérieur mais la cour est accessible.", "La passerelle piétonne du pont de Gorica offre la vue carte postale classique du château au-dessus de Mangalem ; les chiens circulent librement.", "Le moulin à eau Helvetas (3 km au sud sur l'Osum) est une agréable balade d'une heure le long de la rivière depuis le vieux pont, principalement sans laisse."],
+      "tipsEs": ["El Museo Etnográfico de Mangalem (parte baja del casco antiguo) no permite perros dentro, pero el patio es accesible.", "El cruce peatonal del puente de Gorica da la vista de postal clásica del castillo sobre Mangalem; los perros circulan libremente.", "El molino de agua de Helvetas (3 km al sur en el Osum) es un agradable paseo de 1 hora junto al río desde el puente de la ciudad antigua, principalmente sin correa."],
+      "tipsPt": ["O Museu Etnográfico em Mangalem (parte baixa da cidade velha) não permite cães no interior, mas o pátio é acessível.", "A travessia pedonal da ponte de Gorica dá a vista clássica de postal do castelo acima de Mangalem; os cães circulam livremente.", "O moinho de água de Helvetas (3 km a sul no Osum) é um agradável passeio de 1 hora ao longo do rio desde a velha ponte, maioritariamente sem trela."],
+      "faqsEn": [
+        { "q": "Can my dog come with me to the Berat castle churches?", "a": "The churches inside the castle walls are normally closed or open only for guided tours; dogs are not admitted inside. But the exterior grounds and the cobblestone alleys around them are completely accessible with your dog." },
+        { "q": "Is the UNESCO status of Berat a problem for dogs?", "a": "Not at all. UNESCO inscription covers the architecture and urban fabric, not behaviour in public space. There are no special pet restrictions derived from the heritage status." }
+      ],
+      "faqsFr": [
+        { "q": "Mon chien peut-il m'accompagner dans les églises du château de Berat ?", "a": "Les églises à l'intérieur des remparts du château sont normalement fermées ou ouvertes uniquement pour des visites guidées ; les chiens ne sont pas admis à l'intérieur. Mais les abords extérieurs et les ruelles pavées autour d'elles sont complètement accessibles avec votre chien." },
+        { "q": "Le statut UNESCO de Berat est-il un problème pour les chiens ?", "a": "Pas du tout. L'inscription à l'UNESCO concerne l'architecture et le tissu urbain, pas les comportements dans l'espace public. Il n'existe pas de restrictions spéciales pour les animaux liées au statut patrimonial." }
+      ],
+      "faqsEs": [
+        { "q": "¿Puede mi perro acompañarme a las iglesias del castillo de Berat?", "a": "Las iglesias dentro de las murallas del castillo generalmente están cerradas o abiertas solo para visitas guiadas; los perros no son admitidos dentro. Pero los terrenos exteriores y los callejones empedrados alrededor son completamente accesibles con tu perro." },
+        { "q": "¿El estatus UNESCO de Berat es un problema para los perros?", "a": "En absoluto. La inscripción en la UNESCO cubre la arquitectura y el tejido urbano, no el comportamiento en el espacio público. No hay restricciones especiales para mascotas derivadas del estatus patrimonial." }
+      ],
+      "faqsPt": [
+        { "q": "O meu cão pode acompanhar-me nas igrejas do castelo de Berat?", "a": "As igrejas dentro das muralhas do castelo estão normalmente fechadas ou abertas apenas para visitas guiadas; os cães não são admitidos no interior. Mas os terrenos exteriores e as ruelas de pedra em redor são completamente acessíveis com o seu cão." },
+        { "q": "O estatuto UNESCO de Berat é um problema para os cães?", "a": "De modo algum. A inscrição na UNESCO cobre a arquitetura e o tecido urbano, não o comportamento no espaço público. Não existem restrições especiais para animais derivadas do estatuto patrimonial." }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitting & Boarding in Berat",
+      "titleFr": "Garde de chien à Berat",
+      "titleEs": "Cuidado de perros en Berat",
+      "titlePt": "Guarda de cão em Berat",
+      "introEn": "Formal pet-sitting services are limited in Berat. Your best option is to ask your guesthouse or hotel owner directly, as many family-run accommodation owners are happy to watch a dog for a few hours. Leaving your dog at the accommodation while you visit indoor museums is the most practical solution.",
+      "introFr": "Les services formels de garde d'animaux sont limités à Berat. Votre meilleure option est de demander directement au propriétaire de votre pension ou de votre hôtel, car de nombreux propriétaires de petits hébergements familiaux sont heureux de surveiller un chien quelques heures. Laisser votre chien à l'hébergement pendant que vous visitez les musées en intérieur est la solution la plus pratique.",
+      "introEs": "Los servicios formales de cuidado de mascotas son limitados en Berat. Tu mejor opción es preguntar directamente al dueño de tu pensión u hotel, ya que muchos propietarios de alojamientos familiares están dispuestos a cuidar un perro unas horas. Dejar tu perro en el alojamiento mientras visitas los museos interiores es la solución más práctica.",
+      "introPt": "Os serviços formais de guarda de animais são limitados em Berat. A sua melhor opção é perguntar diretamente ao proprietário da sua pensão ou hotel, pois muitos proprietários de alojamento familiar estão felizes em tomar conta de um cão por algumas horas. Deixar o seu cão no alojamento enquanto visita museus interiores é a solução mais prática.",
+      "places": [],
+      "tipsEn": ["Rover and similar pet-sitting apps have very limited coverage in Albania; do not rely on them for Berat.", "Ask at your guesthouse; family-run places (Berat has many) are generally accommodating and will watch your dog as a favour.", "The Berat Dog Facebook group (search 'Berat canine') occasionally has local pet sitters advertising; post a request 2-3 days before arrival."],
+      "tipsFr": ["Rover et les applications similaires de garde d'animaux ont une couverture très limitée en Albanie ; ne comptez pas dessus pour Berat.", "Demandez à votre pension ; les établissements familiaux (Berat en a beaucoup) sont généralement accommodants et surveilleront votre chien à titre de faveur.", "Le groupe Facebook Berat Dog (cherchez 'Berat canine') a parfois des gardes d'animaux locaux qui font de la publicité ; postez une demande 2-3 jours avant l'arrivée."],
+      "tipsEs": ["Rover y apps similares de cuidado de mascotas tienen una cobertura muy limitada en Albania; no confíes en ellas para Berat.", "Pregunta en tu pensión; los alojamientos familiares (Berat tiene muchos) son generalmente comprensivos y cuidarán a tu perro como un favor.", "El grupo de Facebook Berat Dog (busca 'Berat canine') a veces tiene cuidadores de mascotas locales que se anuncian; publica una solicitud 2-3 días antes de llegar."],
+      "tipsPt": ["O Rover e apps similares de guarda de animais têm cobertura muito limitada na Albânia; não dependa deles para Berat.", "Pergunte na sua pensão; os alojamentos familiares (Berat tem muitos) são geralmente prestáveis e tomam conta do seu cão como favor.", "O grupo Facebook Berat Dog (pesquise 'Berat canine') tem ocasionalmente cuidadores de animais locais a fazer publicidade; publique um pedido 2-3 dias antes de chegar."],
+      "faqsEn": [
+        { "q": "Can I leave my dog at a hotel while visiting indoor attractions in Berat?", "a": "Most guesthouses in Berat are family-run and will accommodate this informally. Ask when you check in; a small tip for the owner or staff member who watches your dog is appreciated." },
+        { "q": "Is there a kennel near Berat?", "a": "There is no professional kennel in Berat itself. The nearest boarding kennel options are in Tirana (2.5 hours away). Plan accordingly for longer excursions." }
+      ],
+      "faqsFr": [
+        { "q": "Puis-je laisser mon chien à l'hôtel pendant que je visite les attractions intérieures de Berat ?", "a": "La plupart des pensions de Berat sont gérées par des familles et accepteront cela de façon informelle. Demandez à l'arrivée ; un petit pourboire pour le propriétaire ou le membre du personnel qui surveille votre chien est apprécié." },
+        { "q": "Y a-t-il un chenil près de Berat ?", "a": "Il n'y a pas de chenil professionnel à Berat même. Les options de pension les plus proches sont à Tirana (2h30). Planifiez en conséquence pour les excursions plus longues." }
+      ],
+      "faqsEs": [
+        { "q": "¿Puedo dejar a mi perro en el hotel mientras visito atracciones interiores en Berat?", "a": "La mayoría de las pensiones en Berat son familiares y aceptarán esto de manera informal. Pregunta al hacer el check-in; se agradece una pequeña propina para el propietario o el miembro del personal que cuide a tu perro." },
+        { "q": "¿Hay una perrera cerca de Berat?", "a": "No hay perrera profesional en el propio Berat. Las opciones de alojamiento para mascotas más cercanas están en Tirana (2,5 horas). Planifícalo en consecuencia para excursiones más largas." }
+      ],
+      "faqsPt": [
+        { "q": "Posso deixar o meu cão no hotel enquanto visito atrações interiores em Berat?", "a": "A maioria das pensões em Berat são geridas por famílias e aceitarão isso informalmente. Pergunte ao fazer o check-in; uma pequena gorjeta para o proprietário ou membro do pessoal que tome conta do seu cão é apreciada." },
+        { "q": "Há um canil perto de Berat?", "a": "Não há canil profissional no próprio Berat. As opções de alojamento para animais mais próximas ficam em Tirana (2,5 horas). Planeie em conformidade para excursões mais longas." }
+      ]
+    }
+  }
+}

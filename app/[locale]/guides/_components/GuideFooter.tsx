@@ -139,6 +139,18 @@ const ALL_GUIDES = [
     label: { fr: 'Portugal frais avec son chien', en: 'Cool Portugal with your dog', es: 'Portugal fresco con tu perro' },
     desc:  { fr: 'Porto · Viana do Castelo · Guimarães · Braga · Peneda-Gerês · Sagres (6 villes)', en: 'Porto · Viana do Castelo · Guimarães · Braga · Peneda-Gerês · Sagres (6 cities)', es: 'Oporto · Viana do Castelo · Guimarães · Braga · Peneda-Gerês · Sagres (6 ciudades)' },
   },
+  {
+    slug: 'allemagne-fraiche-chien',
+    emoji: '🇩🇪',
+    label: { fr: 'Allemagne fraîche avec son chien', en: 'Cool Germany with your dog', es: 'Alemania fresca con tu perro' },
+    desc:  { fr: 'Forêt-Noire · Bavière alpine · Lac de Constance · Baltique (6 villes)', en: 'Black Forest · Bavarian Alps · Lake Constance · Baltic (6 cities)', es: 'Selva Negra · Alpes bávaros · Lago Constanza · Báltico (6 ciudades)' },
+  },
+  {
+    slug: 'autriche-fraiche-chien',
+    emoji: '🇦🇹',
+    label: { fr: 'Autriche fraîche avec son chien', en: 'Cool Austria with your dog', es: 'Austria fresca con tu perro' },
+    desc:  { fr: 'Salzbourg · Salzkammergut · Tyrol · Carinthie · Vorarlberg (6 villes)', en: 'Salzburg · Salzkammergut · Tyrol · Carinthia · Vorarlberg (6 cities)', es: 'Salzburgo · Salzkammergut · Tirol · Carintia · Vorarlberg (6 ciudades)' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

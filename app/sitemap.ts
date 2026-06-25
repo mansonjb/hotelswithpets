@@ -109,6 +109,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'dog-beaches-france',
     'heatwave-pet-safety',
     'escape-heat-dog-europe-2026',
+    'espagne-fraiche-chien',
   ]
   const MONTHS = ['january','february','march','april','may','june','july','august','september','october','november','december']
   const ES_CITY_LANDINGS = [

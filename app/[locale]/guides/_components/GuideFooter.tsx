@@ -115,6 +115,12 @@ const ALL_GUIDES = [
     label: { fr: `Meilleures plages pour chien en France : 20 plages vérifiées`, en: 'Best dog-friendly beaches in France: 20 verified spots', es: 'Mejores playas para perros en Francia: 20 playas verificadas' },
     desc:  { fr: `Côte d'Azur, Languedoc, Aquitaine, Vendée, Bretagne, Normandie, Nord`, en: `Côte d'Azur, Languedoc, Aquitaine, Vendée, Brittany, Normandy, North`, es: `Costa Azul, Languedoc, Aquitania, Vendée, Bretaña, Normandía, Norte` },
   },
+  {
+    slug: 'espagne-fraiche-chien',
+    emoji: '🌊',
+    label: { fr: 'Espagne fraîche avec son chien', en: 'Cool Spain with your dog', es: 'España fresca con tu perro' },
+    desc:  { fr: 'Pays basque · Cantabrie · Asturies · Galice · Pyrénées (8 villes)', en: 'Basque Country · Cantabria · Asturias · Galicia · Pyrenees (8 cities)', es: 'País Vasco · Cantabria · Asturias · Galicia · Pirineo (8 ciudades)' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

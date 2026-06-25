@@ -133,6 +133,12 @@ const ALL_GUIDES = [
     label: { fr: 'France fraîche avec son chien', en: 'Cool France with your dog', es: 'Francia fresca con tu perro' },
     desc:  { fr: 'Bretagne · Normandie · Alsace · Alpes · Côte basque (7 villes)', en: 'Brittany · Normandy · Alsace · Alps · Basque coast (7 cities)', es: 'Bretaña · Normandía · Alsacia · Alpes · Costa vasca (7 ciudades)' },
   },
+  {
+    slug: 'portugal-fraiche-chien',
+    emoji: '🇵🇹',
+    label: { fr: 'Portugal frais avec son chien', en: 'Cool Portugal with your dog', es: 'Portugal fresco con tu perro' },
+    desc:  { fr: 'Porto · Viana do Castelo · Guimarães · Braga · Peneda-Gerês · Sagres (6 villes)', en: 'Porto · Viana do Castelo · Guimarães · Braga · Peneda-Gerês · Sagres (6 cities)', es: 'Oporto · Viana do Castelo · Guimarães · Braga · Peneda-Gerês · Sagres (6 ciudades)' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

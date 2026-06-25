@@ -112,6 +112,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'espagne-fraiche-chien',
     'italie-fraiche-chien',
     'france-fraiche-chien',
+    'portugal-fraiche-chien',
   ]
   const MONTHS = ['january','february','march','april','may','june','july','august','september','october','november','december']
   const ES_CITY_LANDINGS = [

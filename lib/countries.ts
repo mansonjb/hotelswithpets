@@ -39,6 +39,11 @@ const COUNTRY_FLAGS: Record<string, string> = {
   Lithuania: '🇱🇹',
   Luxembourg: '🇱🇺',
   'United States': '🇺🇸',
+  Albania: '🇦🇱',
+  Cyprus: '🇨🇾',
+  Malta: '🇲🇹',
+  Montenegro: '🇲🇪',
+  'United Arab Emirates': '🇦🇪',
 }
 
 /**
@@ -77,6 +82,11 @@ const COUNTRIES_FR: Record<string, string> = {
   Lithuania: 'Lituanie',
   Luxembourg: 'Luxembourg',
   'United States': 'États-Unis',
+  Albania: 'Albanie',
+  Cyprus: 'Chypre',
+  Malta: 'Malte',
+  Montenegro: 'Monténégro',
+  'United Arab Emirates': 'Émirats arabes unis',
 }
 
 const COUNTRIES_ES: Record<string, string> = {
@@ -111,6 +121,11 @@ const COUNTRIES_ES: Record<string, string> = {
   Lithuania: 'Lituania',
   Luxembourg: 'Luxemburgo',
   'United States': 'Estados Unidos',
+  Albania: 'Albania',
+  Cyprus: 'Chipre',
+  Malta: 'Malta',
+  Montenegro: 'Montenegro',
+  'United Arab Emirates': 'Emiratos Árabes Unidos',
 }
 
 const COUNTRIES_PT: Record<string, string> = {
@@ -145,6 +160,11 @@ const COUNTRIES_PT: Record<string, string> = {
   Lithuania: 'Lituânia',
   Luxembourg: 'Luxemburgo',
   'United States': 'Estados Unidos',
+  Albania: 'Albânia',
+  Cyprus: 'Chipre',
+  Malta: 'Malta',
+  Montenegro: 'Montenegro',
+  'United Arab Emirates': 'Emirados Árabes Unidos',
 }
 
 /**
@@ -204,6 +224,10 @@ const COUNTRY_PT_PHRASE: Record<string, string> = {
   Luxembourg: 'no Luxemburgo',
   Malta: 'em Malta',
   'United States': 'nos Estados Unidos',
+  Albania: 'na Albânia',
+  Cyprus: 'no Chipre',
+  Montenegro: 'no Montenegro',
+  'United Arab Emirates': 'nos Emirados Árabes Unidos',
 }
 
 export function ptCountryPhrase(englishName: string): string {
@@ -222,7 +246,11 @@ export function countryToSlug(name: string): string {
 }
 
 export function slugToCountry(slug: string): string | undefined {
-  return Object.keys(COUNTRY_FLAGS).find((c) => countryToSlug(c) === slug)
+  // Check mapped countries first, then fall back to any country in destinations
+  const fromFlags = Object.keys(COUNTRY_FLAGS).find((c) => countryToSlug(c) === slug)
+  if (fromFlags) return fromFlags
+  const allNames = Array.from(new Set(destinations.map((d) => d.country)))
+  return allNames.find((c) => countryToSlug(c) === slug)
 }
 
 export function getAllCountries(): CountryInfo[] {

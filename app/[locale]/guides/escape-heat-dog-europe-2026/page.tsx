@@ -26,6 +26,51 @@ type Country = {
   destinations: Dest[]
 }
 
+const COUNTRY_GUIDES = [
+  {
+    slug: 'espagne-fraiche-chien',
+    flag: '🇪🇸',
+    label: { en: 'Cool Spain', fr: 'Espagne fraîche', es: 'España fresca', pt: 'Espanha fresca' },
+    desc: { en: 'Basque Country · Cantabria · Asturias · Galicia · Pyrenees · 8 cities', fr: 'Pays basque · Cantabrie · Asturies · Galice · Pyrénées · 8 villes', es: 'País Vasco · Cantabria · Asturias · Galicia · Pirineo · 8 ciudades', pt: 'País Basco · Cantábria · Astúrias · Galiza · Pirenéus · 8 cidades' },
+    maxTemp: 22,
+  },
+  {
+    slug: 'italie-fraiche-chien',
+    flag: '🇮🇹',
+    label: { en: 'Cool Italy', fr: 'Italie fraîche', es: 'Italia fresca', pt: 'Itália fresca' },
+    desc: { en: 'South Tyrol · Aosta Valley · Trentino · Alpine Lakes · Liguria · 7 cities', fr: 'Haut-Adige · Val d\'Aoste · Trentin · Lacs alpins · Ligurie · 7 villes', es: 'Alto Adigio · Valle de Aosta · Trentino · Lagos alpinos · Liguria · 7 ciudades', pt: 'Alto Ádige · Vale de Aosta · Trentino · Lagos alpinos · Ligúria · 7 cidades' },
+    maxTemp: 23,
+  },
+  {
+    slug: 'france-fraiche-chien',
+    flag: '🇫🇷',
+    label: { en: 'Cool France', fr: 'France fraîche', es: 'Francia fresca', pt: 'França fresca' },
+    desc: { en: 'Brittany · Normandy · Alsace · Alps · Basque coast · 7 cities', fr: 'Bretagne · Normandie · Alsace · Alpes · Côte basque · 7 villes', es: 'Bretaña · Normandía · Alsacia · Alpes · Costa vasca · 7 ciudades', pt: 'Bretanha · Normandia · Alsácia · Alpes · Costa basca · 7 cidades' },
+    maxTemp: 20,
+  },
+  {
+    slug: 'portugal-fraiche-chien',
+    flag: '🇵🇹',
+    label: { en: 'Cool Portugal', fr: 'Portugal frais', es: 'Portugal fresco', pt: 'Portugal fresco' },
+    desc: { en: 'Porto · Minho coast · Historic Minho · Peneda-Gerês · Costa Vicentina · 6 cities', fr: 'Porto · Minho côtier · Minho historique · Peneda-Gerês · Costa Vicentina · 6 villes', es: 'Oporto · Miño costero · Miño histórico · Peneda-Gerês · Costa Vicentina · 6 ciudades', pt: 'Porto · Minho litoral · Minho histórico · Peneda-Gerês · Costa Vicentina · 6 cidades' },
+    maxTemp: 20,
+  },
+  {
+    slug: 'allemagne-fraiche-chien',
+    flag: '🇩🇪',
+    label: { en: 'Cool Germany', fr: 'Allemagne fraîche', es: 'Alemania fresca', pt: 'Alemanha fresca' },
+    desc: { en: 'Black Forest · Bavarian Alps · Lake Constance · Baltic · Rhine · 6 cities', fr: 'Forêt-Noire · Alpes bavaroises · Lac de Constance · Baltique · Rhin · 6 villes', es: 'Selva Negra · Alpes bávaros · Lago Constanza · Báltico · Rin · 6 ciudades', pt: 'Floresta Negra · Alpes bávaros · Lago Constança · Báltico · Reno · 6 cidades' },
+    maxTemp: 21,
+  },
+  {
+    slug: 'autriche-fraiche-chien',
+    flag: '🇦🇹',
+    label: { en: 'Cool Austria', fr: 'Autriche fraîche', es: 'Austria fresca', pt: 'Áustria fresca' },
+    desc: { en: 'Salzburg · Salzkammergut · Tyrol · Carinthia · Vorarlberg · 6 cities', fr: 'Salzbourg · Salzkammergut · Tyrol · Carinthie · Vorarlberg · 6 villes', es: 'Salzburgo · Salzkammergut · Tirol · Carintia · Vorarlberg · 6 ciudades', pt: 'Salzburgo · Salzkammergut · Tirol · Caríntia · Vorarlberg · 6 cidades' },
+    maxTemp: 21,
+  },
+]
+
 // Countries ordered by June 2026 booking revenue signal:
 // LT €15.73 (Neringa), NO €2.77 (Tyssedal), AT €2.34 (Feldkirchen),
 // FR multiple, IE, CH, PT, DE, SI, IT, DK, EE, GB
@@ -88,7 +133,7 @@ const COUNTRIES: Country[] = [
         julyTemp: 24,
         tag: { en: '574m · Tirol Alps', fr: '574m · Alpes du Tirol', es: '574m · Alpes del Tirol', pt: '574m · Alpes do Tirol' },
         why: {
-          en: 'The coolest major Alpine city at 24°C in July. The Nordkette cable car reaches 2,334m in 20 minutes — dogs free with muzzle. Bergisel and Hofgarten parks stay shaded all day. Full city infrastructure, direct trains from Munich and Zurich.',
+          en: 'The coolest major Alpine city at 24°C in July. The Nordkette cable car reaches 2,334m in 20 minutes (dogs free with muzzle). Bergisel and Hofgarten parks stay shaded all day. Full city infrastructure, direct trains from Munich and Zurich.',
           fr: "La grande ville alpine la plus fraîche à 24°C en juillet. Le Nordkette atteint 2334m en 20 min, chiens gratuits avec muselière. Le Bergisel et le Hofgarten restent ombragés toute la journée. Trains directs depuis Munich et Zurich.",
           es: 'La gran ciudad alpina más fresca a 24°C en julio. El Nordkette alcanza 2334m en 20 min, perros gratis con bozal. Bergisel y Hofgarten con sombra todo el día. Trenes directos desde Múnich y Zúrich.',
           pt: 'A grande cidade alpina mais fresca a 24°C em julho. O Nordkette atinge 2.334m em 20 min, cães grátis com focinheira. Bergisel e Hofgarten com sombra todo o dia. Comboios diretos de Munique e Zurique.',
@@ -133,7 +178,7 @@ const COUNTRIES: Country[] = [
         julyTemp: 25,
         tag: { en: '448m · French Alps', fr: '448m · Alpes françaises', es: '448m · Alpes franceses', pt: '448m · Alpes francesas' },
         why: {
-          en: 'Lake Annecy has the cleanest water in Europe and stays at 23°C in summer — dogs swim in the public sections. Medieval old town fully walkable with dogs. At 448m with Alpine air corridors, July peaks at 25°C vs 36°C in Lyon 140 km south.',
+          en: 'Lake Annecy has the cleanest water in Europe and stays at 23°C in summer. Dogs swim in the public sections. Medieval old town fully walkable with dogs. At 448m with Alpine air corridors, July peaks at 25°C vs 36°C in Lyon 140 km south.',
           fr: "Le lac d'Annecy a l'eau la plus propre d'Europe à 23°C en été, chiens autorisés à la nage. Vieille ville médiévale entièrement praticable avec des chiens. À 448m, juillet plafonne à 25°C contre 36°C à Lyon.",
           es: 'El lago de Annecy tiene el agua más limpia de Europa, 23°C en verano, perros pueden nadar. Casco antiguo medieval totalmente accesible con perros. A 448m, julio alcanza 25°C frente a 36°C en Lyon.',
           pt: 'O Lago de Annecy tem a água mais limpa da Europa, 23°C no verão, cães podem nadar. Centro histórico medieval totalmente percorrível com cães. A 448m, julho atinge 25°C contra 36°C em Lyon.',
@@ -187,9 +232,9 @@ const COUNTRIES: Country[] = [
         julyTemp: 27,
         tag: { en: 'Swiss-Italian lakes · Ticino', fr: 'Lacs suisses-italiens · Tessin', es: 'Lagos suizo-italianos · Tesino', pt: 'Lagos suíço-italianos · Ticino' },
         why: {
-          en: 'Warmest here at 27°C but Valle Maggia rises to 2,000m behind the city — a 30-minute drive to Bosco Gurin drops it to 18°C. Ticino dog culture means most restaurant terraces accept dogs.',
-          fr: "Le plus chaud de la liste à 27°C, mais la Valle Maggia monte à 2000m derrière — 30 min jusqu'à Bosco Gurin pour descendre à 18°C. La culture dog-friendly du Tessin : terrasses ouvertes aux chiens.",
-          es: 'El más cálido a 27°C pero el Valle Maggia sube a 2000m — 30 min hasta Bosco Gurin bajan a 18°C. Cultura dog-friendly del Tesino: terrazas abiertas a perros.',
+          en: 'Warmest here at 27°C but Valle Maggia rises to 2,000m behind the city. A 30-minute drive to Bosco Gurin drops it to 18°C. Ticino dog culture means most restaurant terraces accept dogs.',
+          fr: "Le plus chaud de la liste à 27°C, mais la Valle Maggia monte à 2000m derrière · 30 min jusqu'à Bosco Gurin pour descendre à 18°C. La culture dog-friendly du Tessin : terrasses ouvertes aux chiens.",
+          es: 'El más cálido a 27°C pero el Valle Maggia sube a 2000m · 30 min hasta Bosco Gurin bajan a 18°C. Cultura dog-friendly del Tesino: terrazas abiertas a perros.',
           pt: 'O mais quente a 27°C mas o Valle Maggia sobe a 2.000m, 30 min até Bosco Gurin baixa para 18°C. Cultura dog-friendly do Ticino: esplanadas abertas a cães.',
         },
       },
@@ -208,10 +253,10 @@ const COUNTRIES: Country[] = [
         julyTemp: 23,
         tag: { en: 'Atlantic surf peninsula', fr: 'Péninsule surf atlantique', es: 'Península surf atlántico', pt: 'Península surf atlântico' },
         why: {
-          en: 'A fishing peninsula 90 km north of Lisbon where the Atlantic never reaches 20°C. Cliff walks, 16th-century fortress, Baleal surf beach — all dogs on lead. July peaks at 23°C air — 8°C below Lisbon at the same time.',
-          fr: "Péninsule de pêcheurs à 90 km au nord de Lisbonne où l'Atlantique ne dépasse pas 20°C. Sentiers côtiers, forteresse du XVIe, plage de Baleal — chiens en laisse. Pic de juillet à 23°C, 8°C de moins que Lisbonne.",
-          es: 'Península pesquera a 90 km al norte de Lisboa donde el Atlántico nunca alcanza 20°C. Rutas costeras, fortaleza del s.XVI, playa de Baleal — perros con correa. Julio pico a 23°C, 8°C menos que Lisboa.',
-          pt: 'Península piscatória a 90 km a norte de Lisboa onde o Atlântico nunca atinge 20°C. Percursos costeiros, fortaleza do séc. XVI, praia de Baleal — cães com trela. Pico de julho a 23°C, 8°C abaixo de Lisboa.',
+          en: 'A fishing peninsula 90 km north of Lisbon where the Atlantic never reaches 20°C. Cliff walks, 16th-century fortress, Baleal surf beach. All dogs on lead. July peaks at 23°C air · 8°C below Lisbon at the same time.',
+          fr: "Péninsule de pêcheurs à 90 km au nord de Lisbonne où l'Atlantique ne dépasse pas 20°C. Sentiers côtiers, forteresse du XVIe, plage de Baleal. Chiens en laisse. Pic de juillet à 23°C, 8°C de moins que Lisbonne.",
+          es: 'Península pesquera a 90 km al norte de Lisboa donde el Atlántico nunca alcanza 20°C. Rutas costeras, fortaleza del s.XVI, playa de Baleal. Perros con correa. Julio pico a 23°C, 8°C menos que Lisboa.',
+          pt: 'Península piscatória a 90 km a norte de Lisboa onde o Atlântico nunca atinge 20°C. Percursos costeiros, fortaleza do séc. XVI, praia de Baleal. Cães com trela. Pico de julho a 23°C, 8°C abaixo de Lisboa.',
         },
       },
     ],
@@ -346,10 +391,10 @@ const COUNTRIES: Country[] = [
 
 const T = {
   title: {
-    en: 'Best Destinations to Escape the Heat with Your Dog — Europe 2026',
-    fr: 'Meilleures destinations pour échapper à la chaleur avec son chien — Europe 2026',
-    es: 'Mejores destinos para escapar del calor con tu perro — Europa 2026',
-    pt: 'Melhores destinos para escapar do calor com o seu cão — Europa 2026',
+    en: 'Best Destinations to Escape the Heat with Your Dog: Europe 2026',
+    fr: 'Meilleures destinations pour échapper à la chaleur avec son chien: Europe 2026',
+    es: 'Mejores destinos para escapar del calor con tu perro: Europa 2026',
+    pt: 'Melhores destinos para escapar do calor com o seu cão: Europa 2026',
   },
   metaTitle: {
     en: '16 Dog-Friendly Destinations to Escape the Heat in Europe (2026)',
@@ -364,7 +409,7 @@ const T = {
     pt: 'Fuja do calor de verão com o seu cão: 13 países, 16 destinos abaixo de 27°C em julho, ordenados por receita de reserva real. Hotéis pet-friendly incluídos.',
   },
   intro: {
-    en: "When the thermometer in Barcelona, Rome, or Athens hits 38°C, dogs with flat faces stop breathing efficiently. Senior dogs overheat in under 20 minutes in direct sun above 30°C. These 16 destinations across 13 countries stay under 27°C in July. We've ranked them by what our booking data actually converts — the countries that paid out most in June come first.",
+    en: "When the thermometer in Barcelona, Rome, or Athens hits 38°C, dogs with flat faces stop breathing efficiently. Senior dogs overheat in under 20 minutes in direct sun above 30°C. These 16 destinations across 13 countries stay under 27°C in July. We've ranked them by what our booking data actually converts: the countries that paid out most in June come first.",
     fr: "Quand le thermomètre à Barcelone, Rome ou Athènes atteint 38°C, les chiens à face plate cessent de respirer efficacement. Les chiens âgés surchauffent en moins de 20 min au soleil direct. Ces 16 destinations dans 13 pays restent sous 27°C en juillet. Classées par ce que nos données de réservation convertissent réellement : les pays qui ont le plus rapporté en juin passent en premier.",
     es: 'Cuando el termómetro en Barcelona, Roma o Atenas alcanza los 38°C, los perros de cara plana dejan de respirar eficientemente. Los perros mayores se sobrecalientan en menos de 20 min al sol. Estos 16 destinos en 13 países se mantienen bajo 27°C en julio. Clasificados por lo que nuestros datos de reserva convierten realmente: los países que más ingresaron en junio van primero.',
     pt: 'Quando o termómetro em Barcelona, Roma ou Atenas atinge os 38°C, os cães de cara achatada param de respirar eficientemente. Os cães idosos sobreaquecem em menos de 20 min ao sol. Estes 16 destinos em 13 países mantêm-se abaixo de 27°C em julho. Classificados pelo que os nossos dados de reserva realmente convertem: os países que mais renderam em junho vêm primeiro.',
@@ -380,7 +425,7 @@ const T = {
     q1: { en: 'At what temperature does heat become dangerous for dogs?', fr: 'À quelle température la chaleur devient-elle dangereuse pour les chiens ?', es: '¿A qué temperatura el calor se vuelve peligroso para los perros?', pt: 'A que temperatura o calor se torna perigoso para os cães?' },
     a1: { en: 'Heatstroke risk rises sharply above 25°C, especially for brachycephalic breeds (bulldogs, pugs, French bulldogs), senior dogs (over 7 years), and overweight dogs. At 30°C in direct sun with high humidity, a flat-faced dog can develop heatstroke in under 20 minutes. All destinations on this page stay at or below 27°C in July.', fr: "Le risque de coup de chaleur augmente fortement au-dessus de 25°C, surtout pour les races brachycéphales (bouledogues, carlins), les chiens âgés (plus de 7 ans) et en surpoids. À 30°C au soleil avec humidité élevée, un chien brachycéphale peut faire un coup de chaleur en moins de 20 min. Toutes les destinations de cette page restent à 27°C ou moins en juillet.", es: 'El riesgo de golpe de calor sube bruscamente por encima de 25°C, especialmente para razas braquicéfalas, perros mayores y obesos. A 30°C bajo el sol con alta humedad, un perro de cara plana puede sufrir un golpe de calor en menos de 20 min. Todos los destinos de esta página se mantienen en 27°C o menos en julio.', pt: 'O risco de insolação sobe acentuadamente acima de 25°C, especialmente para raças braquicefálicas, cães idosos e obesos. A 30°C ao sol com humidade elevada, um cão de cara achatada pode sofrer insolação em menos de 20 min. Todos os destinos desta página mantêm-se a 27°C ou abaixo em julho.' },
     q2: { en: 'Which country in Europe is coolest for dogs in summer?', fr: "Quel pays d'Europe est le plus frais pour les chiens en été ?", es: '¿Qué país europeo es el más fresco para los perros en verano?', pt: 'Qual país europeu é mais fresco para cães no verão?' },
-    a2: { en: 'Ireland and Norway have the lowest July temperatures among mainstream tourist destinations — both averaging 18°C. Lithuania (Neringa) and Estonia (Tallinn) offer the best value at 18–21°C with strong dog-friendly infrastructure. For absolute minimum heat, Iceland averages 13°C in July but has limited pet-friendly hotel availability.', fr: "L'Irlande et la Norvège ont les températures de juillet les plus basses parmi les destinations touristiques courantes — toutes deux à 18°C en moyenne. La Lituanie (Neringa) et l'Estonie (Tallinn) offrent le meilleur rapport qualité-prix à 18-21°C avec une infrastructure dog-friendly solide.", es: 'Irlanda y Noruega tienen las temperaturas de julio más bajas entre los destinos turísticos principales, ambas con 18°C de media. Lituania (Neringa) y Estonia (Tallin) ofrecen la mejor relación calidad-precio a 18-21°C con buena infraestructura dog-friendly.', pt: 'A Irlanda e a Noruega têm as temperaturas de julho mais baixas entre os destinos turísticos principais, ambas com 18°C de média. A Lituânia (Neringa) e a Estónia (Tallinn) oferecem a melhor relação qualidade-preço a 18-21°C com boa infraestrutura dog-friendly.' },
+    a2: { en: 'Ireland and Norway have the lowest July temperatures among mainstream tourist destinations: both averaging 18°C. Lithuania (Neringa) and Estonia (Tallinn) offer the best value at 18–21°C with strong dog-friendly infrastructure. For absolute minimum heat, Iceland averages 13°C in July but has limited pet-friendly hotel availability.', fr: "L'Irlande et la Norvège ont les températures de juillet les plus basses parmi les destinations touristiques courantes: toutes deux à 18°C en moyenne. La Lituanie (Neringa) et l'Estonie (Tallinn) offrent le meilleur rapport qualité-prix à 18-21°C avec une infrastructure dog-friendly solide.", es: 'Irlanda y Noruega tienen las temperaturas de julio más bajas entre los destinos turísticos principales, ambas con 18°C de media. Lituania (Neringa) y Estonia (Tallin) ofrecen la mejor relación calidad-precio a 18-21°C con buena infraestructura dog-friendly.', pt: 'A Irlanda e a Noruega têm as temperaturas de julho mais baixas entre os destinos turísticos principais, ambas com 18°C de média. A Lituânia (Neringa) e a Estónia (Tallinn) oferecem a melhor relação qualidade-preço a 18-21°C com boa infraestrutura dog-friendly.' },
     q3: { en: 'Which destination has the best dog-friendly beaches in Europe in summer?', fr: 'Quelle destination a les meilleures plages dog-friendly en Europe en été ?', es: '¿Qué destino tiene las mejores playas dog-friendly en Europa en verano?', pt: 'Qual destino tem as melhores praias dog-friendly na Europa no verão?' },
     a3: { en: "Neringa (Lithuania) leads: unlimited off-lead running on lagoon beaches at 21°C. Peniche (Portugal) follows with Atlantic surf beaches at 23°C. Galway (Ireland) offers Wild Atlantic Way beaches with dogs year-round at 18°C. All three avoid the Mediterranean's summer dog-ban season (most Italian, French, and Spanish beaches ban dogs June–September).", fr: "Neringa (Lituanie) en tête : course sans laisse illimitée sur les plages de la lagune à 21°C. Peniche (Portugal) suit avec plages de surf atlantique à 23°C. Galway (Irlande) offre les plages du Wild Atlantic Way avec chiens toute l'année à 18°C. Ces trois destinations évitent l'interdiction estivale méditerranéenne (la plupart des plages italiennes, françaises et espagnoles interdisent les chiens de juin à septembre).", es: 'Neringa (Lituania) lidera: carrera sin correa ilimitada en playas de laguna a 21°C. Peniche (Portugal) sigue con playas de surf atlántico a 23°C. Galway (Irlanda) ofrece playas de Wild Atlantic Way con perros todo el año a 18°C. Las tres evitan la temporada de prohibición mediterránea (la mayoría de playas italianas, francesas y españolas prohíben perros de junio a septiembre).', pt: 'Neringa (Lituânia) lidera: corrida sem trela ilimitada nas praias da lagoa a 21°C. Peniche (Portugal) segue com praias de surf atlântico a 23°C. Galway (Irlanda) oferece praias do Wild Atlantic Way com cães durante todo o ano a 18°C. As três evitam a proibição estival mediterrânica (a maioria das praias italianas, francesas e espanholas proibem cães de junho a setembro).' },
   },
@@ -479,6 +524,41 @@ export default async function EscapeHeatPage({
               >
                 {c.flag} {p(c.name, locale)}
               </a>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Country deep-dive guides */}
+      <section className="bg-amber-50 border-b border-amber-100">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+          <h2 className="text-xl font-extrabold text-gray-900 mb-1">
+            {locale === 'fr' ? 'Guides par pays (fraîcheur + chien)' : locale === 'es' ? 'Guías por país (frescor + perro)' : locale === 'pt' ? 'Guias por país (frescura + cão)' : 'Country guides (cool + dog-friendly)'}
+          </h2>
+          <p className="text-sm text-gray-500 mb-5">
+            {locale === 'fr' ? '6 guides complets avec hôtels, sentiers et conseils locaux.' : locale === 'es' ? '6 guías completas con hoteles, senderos y consejos locales.' : locale === 'pt' ? '6 guias completos com hotéis, trilhos e dicas locais.' : '6 in-depth guides with hotels, trails and local tips.'}
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {COUNTRY_GUIDES.map((g) => (
+              <Link
+                key={g.slug}
+                href={`/${locale}/guides/${g.slug}`}
+                className="group flex items-start gap-3 bg-white rounded-2xl border border-amber-100 hover:border-orange-300 hover:shadow-md transition-all p-4"
+              >
+                <span className="text-3xl flex-shrink-0">{g.flag}</span>
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-center gap-2 mb-0.5">
+                    <p className="font-bold text-gray-900 text-sm group-hover:text-orange-700 transition-colors">
+                      {locale === 'fr' ? g.label.fr : locale === 'es' ? g.label.es : locale === 'pt' ? g.label.pt : g.label.en}
+                    </p>
+                    <span className="text-xs font-black text-blue-600">{g.maxTemp}°C</span>
+                  </div>
+                  <p className="text-xs text-gray-400 leading-snug">
+                    {locale === 'fr' ? g.desc.fr : locale === 'es' ? g.desc.es : locale === 'pt' ? g.desc.pt : g.desc.en}
+                  </p>
+                </div>
+                <span className="flex-shrink-0 text-gray-300 group-hover:text-orange-500 group-hover:translate-x-1 transition-all text-lg mt-0.5">→</span>
+              </Link>
             ))}
           </div>
         </div>

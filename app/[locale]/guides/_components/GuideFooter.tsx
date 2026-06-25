@@ -127,6 +127,12 @@ const ALL_GUIDES = [
     label: { fr: 'Italie fraîche avec son chien', en: 'Cool Italy with your dog', es: 'Italia fresca con tu perro' },
     desc:  { fr: 'Haut-Adige · Val d\'Aoste · Trentin · Lacs alpins · Ligurie (7 villes)', en: 'South Tyrol · Aosta Valley · Trentino · Alpine Lakes · Liguria (7 cities)', es: 'Alto Adigio · Valle de Aosta · Trentino · Lagos alpinos · Liguria (7 ciudades)' },
   },
+  {
+    slug: 'france-fraiche-chien',
+    emoji: '🌊',
+    label: { fr: 'France fraîche avec son chien', en: 'Cool France with your dog', es: 'Francia fresca con tu perro' },
+    desc:  { fr: 'Bretagne · Normandie · Alsace · Alpes · Côte basque (7 villes)', en: 'Brittany · Normandy · Alsace · Alps · Basque coast (7 cities)', es: 'Bretaña · Normandía · Alsacia · Alpes · Costa vasca (7 ciudades)' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

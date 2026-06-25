@@ -111,6 +111,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'escape-heat-dog-europe-2026',
     'espagne-fraiche-chien',
     'italie-fraiche-chien',
+    'france-fraiche-chien',
   ]
   const MONTHS = ['january','february','march','april','may','june','july','august','september','october','november','december']
   const ES_CITY_LANDINGS = [

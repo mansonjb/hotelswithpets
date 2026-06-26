@@ -66,7 +66,7 @@ export default async function Page({
     description: `Gourde, tapis rafraîchissant, gilet, bandana et conseils anti-chaleur pour son chien.`,
     datePublished: '2026-05-27',
     inLanguage: 'fr',
-    author: { '@type': 'Organization', name: 'HotelsWithPets.com', url: SITE_URL },
+    author: { '@type': 'Person', name: 'HotelsWithPets Editorial', jobTitle: 'Pet Travel Editor', url: SITE_URL },
     publisher: { '@type': 'Organization', name: 'HotelsWithPets.com', url: SITE_URL },
   }
 

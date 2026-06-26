@@ -53,7 +53,26 @@ export default async function DestinationsPage({ params }: PageProps<'/[locale]/
 
   const browseByCountry = locale === 'fr' ? 'Parcourir par pays' : locale === 'es' ? 'Explorar por país' : locale === 'pt' ? 'Explorar por país' : 'Browse by country'
 
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/${locale}` },
+      { '@type': 'ListItem', position: 2, name: p.title, item: `${SITE_URL}/${locale}/destinations` },
+    ],
+  }
+  const collectionPageSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: p.title,
+    description: p.subtitle,
+    url: `${SITE_URL}/${locale}/destinations`,
+  }
+
   return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }} />
     <div className="min-h-screen bg-gray-50">
       {/* Hero */}
       <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20">
@@ -123,5 +142,6 @@ export default async function DestinationsPage({ params }: PageProps<'/[locale]/
         </div>
       </section>
     </div>
+    </>
   )
 }

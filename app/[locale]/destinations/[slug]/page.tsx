@@ -149,7 +149,8 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
       item: {
         '@type': 'LodgingBusiness',
         name: hotel.name,
-        url: hotel.bookingUrl,
+        url: `${SITE_URL}/${locale}/hotels/${hotel.slug}`,
+        sameAs: hotel.bookingUrl,
         petsAllowed: true,
         starRating: { '@type': 'Rating', ratingValue: hotel.stars },
         aggregateRating: {
@@ -184,7 +185,8 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
     containsPlace: destHotels.map((hotel) => ({
       '@type': 'LodgingBusiness',
       name: hotel.name,
-      url: hotel.bookingUrl,
+      url: `${SITE_URL}/${locale}/hotels/${hotel.slug}`,
+      sameAs: hotel.bookingUrl,
       petsAllowed: true,
       priceRange: '€'.repeat(Math.max(1, hotel.stars - 2)),
     })),
@@ -194,7 +196,9 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      {faqs && faqs.length > 0 && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      )}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(destSchema) }} />
     <div className="min-h-screen bg-gray-50">
       {/* Hero */}

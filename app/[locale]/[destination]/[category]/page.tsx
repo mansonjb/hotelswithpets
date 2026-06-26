@@ -174,7 +174,8 @@ function buildSchema(
       item: {
         '@type': 'LodgingBusiness',
         name: hotel.name,
-        url: hotel.bookingUrl,
+        url: `${SITE_URL}/${locale}/hotels/${hotel.slug}`,
+        sameAs: hotel.bookingUrl,
         petsAllowed: true,
         starRating: { '@type': 'Rating', ratingValue: hotel.stars },
         aggregateRating: {
@@ -204,15 +205,14 @@ function buildSchema(
     })),
   }
 
-  const today = new Date().toISOString().split('T')[0]
   const webPage = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
     name: `Best ${catName} Hotels in ${dest.name} (${year})`,
     description: `Handpicked ${catName.toLowerCase()} hotels in ${dest.name}, ${dest.country}.`,
     url: `${base}/${locale}/${dest.slug}/${cat.slug}`,
-    dateModified: today,
-    author: { '@type': 'Organization', name: 'HotelsWithPets.com', url: base },
+    dateModified: '2026-06-26',
+    author: { '@type': 'Person', name: 'HotelsWithPets Editorial', jobTitle: 'Pet Travel Editor', url: base },
     publisher: { '@type': 'Organization', name: 'HotelsWithPets.com', url: base, logo: { '@type': 'ImageObject', url: `${base}/logo.png`, width: 192, height: 192 } },
   }
 

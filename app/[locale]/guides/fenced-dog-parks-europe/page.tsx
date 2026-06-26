@@ -734,7 +734,7 @@ const COUNTRY_TALLY: [string, number][] = Object.entries(
 ).sort((a, b) => b[1] - a[1])
 
 export async function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'fr' }, { locale: 'es' }]
+  return [{ locale: 'en' }, { locale: 'fr' }, { locale: 'es' }, { locale: 'pt' }]
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -945,8 +945,8 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       headline: t.h1,
       description: t.lede,
       datePublished: '2026-05-13T00:00:00Z',
-      dateModified: new Date().toISOString(),
-      author: { '@type': 'Organization', name: 'HotelsWithPets', url: SITE_URL },
+      dateModified: '2026-06-26',
+      author: { '@type': 'Person', name: 'HotelsWithPets Editorial', jobTitle: 'Pet Travel Editor', url: SITE_URL },
       publisher: { '@type': 'Organization', name: 'HotelsWithPets', url: SITE_URL },
       mainEntityOfPage: `${SITE_URL}/${l}/guides/${SLUG}`,
     },

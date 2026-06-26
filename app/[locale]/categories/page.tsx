@@ -133,7 +133,26 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
   const totalHotels = hotels.length
   const totalDests = new Set(hotels.map(h => h.destinationSlug)).size
 
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/${locale}` },
+      { '@type': 'ListItem', position: 2, name: p.title, item: `${SITE_URL}/${locale}/categories` },
+    ],
+  }
+  const collectionPageSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: p.title,
+    description: p.subtitle,
+    url: `${SITE_URL}/${locale}/categories`,
+  }
+
   return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }} />
     <div className="min-h-screen bg-gray-50">
 
       {/* Hero */}
@@ -232,5 +251,6 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
       </section>
 
     </div>
+    </>
   )
 }

@@ -108,8 +108,8 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       headline: `Hoteles pet-friendly en ${cityEs}, Guía 2026`,
       description: `Los ${cityHotels.length} mejores hoteles que admiten mascotas en ${cityEs}.`,
       datePublished: '2026-05-09T00:00:00Z',
-      dateModified: new Date().toISOString(),
-      author: { '@type': 'Organization', name: 'HotelsWithPets' },
+      dateModified: '2026-06-26',
+      author: { '@type': 'Person', name: 'HotelsWithPets Editorial', jobTitle: 'Pet Travel Editor', url: SITE_URL },
       mainEntityOfPage: `${SITE_URL}/es/hoteles-pet-friendly/${ciudad}`,
     },
     {

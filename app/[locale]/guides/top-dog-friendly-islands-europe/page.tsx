@@ -502,8 +502,8 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
     description: c.hero.lede,
     inLanguage: locale,
     datePublished: '2026-05-17T00:00:00Z',
-    dateModified: new Date().toISOString().split('T')[0],
-    author: { '@type': 'Organization', name: 'HotelsWithPets', url: SITE_URL },
+    dateModified: '2026-06-26',
+    author: { '@type': 'Person', name: 'HotelsWithPets Editorial', jobTitle: 'Pet Travel Editor', url: SITE_URL },
     publisher: { '@type': 'Organization', name: 'HotelsWithPets', url: SITE_URL, logo: { '@type': 'ImageObject', url: `${SITE_URL}/favicon.ico` } },
     mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE_URL}/${locale}/guides/${SLUG}` },
   }

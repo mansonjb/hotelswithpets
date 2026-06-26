@@ -53,7 +53,7 @@ export async function generateMetadata({
 // Featured countries (most content)
 const FEATURED_SLUGS = ['france', 'spain', 'italy', 'belgium', 'germany', 'portugal']
 
-// Monthly seasonal spotlight — updated each deploy (build-time date)
+// Monthly seasonal spotlight - updated each deploy (build-time date)
 // month index 0-11
 const SEASONAL_SPOTLIGHT: Record<number, {
   slugs: string[]
@@ -107,7 +107,7 @@ const COPY: Record<string, {
     allTitle: 'All countries',
     intro: 'Every European country has its own rules for travelling with a pet: required documents (passport, health certificate), transport access (train, ferry, plane), and hotel policies (fees, size limits, breed restrictions). Our country pages condense the essentials so you travel without surprises.',
     tipTitle: 'Good to know',
-    tip: 'To travel with your dog or cat within the EU, you need an EU pet passport and an up-to-date rabies vaccination. Finland, the UK and Norway have additional requirements — check our full guide before you travel.',
+    tip: 'To travel with your dog or cat within the EU, you need an EU pet passport and an up-to-date rabies vaccination. Finland, the UK and Norway have additional requirements - check our full guide before you travel.',
     spotlightTitle: 'Featured this month',
   },
   es: {
@@ -117,7 +117,7 @@ const COPY: Record<string, {
     allTitle: 'Todos los países',
     intro: 'Cada país europeo tiene sus propias normas para viajar con mascotas: documentación (pasaporte, certificado sanitario), acceso al transporte (tren, ferry, avión) y condiciones hoteleras (suplementos, tamaño, razas). Nuestras páginas por país resumen lo esencial para viajar sin sorpresas.',
     tipTitle: 'Importante',
-    tip: 'Para viajar con tu perro o gato dentro de la UE necesitas el pasaporte europeo para mascotas y la vacuna antirrábica al día. Finlandia, el Reino Unido y Noruega tienen requisitos adicionales — consulta nuestra guía completa.',
+    tip: 'Para viajar con tu perro o gato dentro de la UE necesitas el pasaporte europeo para mascotas y la vacuna antirrábica al día. Finlandia, el Reino Unido y Noruega tienen requisitos adicionales - consulta nuestra guía completa.',
     spotlightTitle: 'Destacado este mes',
   },
   pt: {
@@ -159,7 +159,7 @@ const COUNTRY_INTROS: Record<string, Record<string, string>> = {
   },
   germany: {
     fr: "En Allemagne, voyager avec un chien est parfaitement normal. Métro, musées, biergartens : les chiens sont bienvenus partout et dans toutes les villes.",
-    en: "In Germany, travelling with a dog is completely normal. Metro, museums, beer gardens — dogs are welcome everywhere, in every city.",
+    en: "In Germany, travelling with a dog is completely normal. Metro, museums, beer gardens - dogs are welcome everywhere, in every city.",
     es: "En Alemania viajar con perro es de lo más habitual. Metro, museos, biergarten, los perros son bienvenidos en todas partes y en todas las ciudades.",
     pt: "Na Alemanha, viajar com cão é completamente normal. Metro, museus, jardins de cerveja: cães são bem-vindos em todo o lado.",
   },
@@ -226,7 +226,25 @@ export default async function CountriesPage({
     locale === 'pt' ? `${n} hotéi${n > 1 ? 's' : 'l'}` :
     `${n} hotel${n > 1 ? 's' : ''}`
 
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/${locale}` },
+      { '@type': 'ListItem', position: 2, name: locale === 'fr' ? 'Pays' : locale === 'es' ? 'Países' : locale === 'pt' ? 'Países' : 'Countries', item: `${SITE_URL}/${locale}/countries` },
+    ],
+  }
+  const collectionPageSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: locale === 'fr' ? 'Hôtels acceptant les animaux par pays' : locale === 'es' ? 'Hoteles con mascotas por país' : locale === 'pt' ? 'Hotéis que aceitam animais por país' : 'Pet-Friendly Hotels by Country',
+    url: `${SITE_URL}/${locale}/countries`,
+  }
+
   return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }} />
     <div className="min-h-screen bg-gray-50">
 
       {/* Hero */}
@@ -364,5 +382,6 @@ export default async function CountriesPage({
 
       </div>
     </div>
+    </>
   )
 }

@@ -6384,6 +6384,81 @@
     "iata": "MAH"
   },
   {
+    "slug": "cluj-napoca",
+    "name": "Cluj-Napoca",
+    "country": "Romania",
+    "countryCode": "RO",
+    "flag": "🇷🇴",
+    "categoryCount": 6,
+    "heroImage": "",
+    "intro": "",
+    "lat": 46.7712,
+    "lng": 23.6236,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool & variable",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild & fresh",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & green",
+        "icon": "🌿"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Pleasant & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool & colourful",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool & cloudy",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Cold & festive",
+        "icon": "❄️"
+      }
+    },
+    "iata": "CLJ"
+  },
+  {
     "slug": "coimbra",
     "name": "Coimbra",
     "country": "Portugal",
@@ -15169,6 +15244,81 @@
     "tiqetsId": "31"
   },
   {
+    "slug": "mykonos",
+    "name": "Mykonos",
+    "country": "Greece",
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "categoryCount": 6,
+    "heroImage": "",
+    "intro": "",
+    "lat": 37.4467,
+    "lng": 25.3289,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Cool & windy",
+        "icon": "🌬️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Cool & windy",
+        "icon": "🌬️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot, meltemi wind",
+        "icon": "🌊"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot, meltemi wind",
+        "icon": "🌊"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Warm & mild",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild & cloudy",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "JMK"
+  },
+  {
     "slug": "nantes",
     "name": "Nantes",
     "country": "France",
@@ -17345,6 +17495,81 @@
     },
     "iata": "PSA",
     "tiqetsId": "260935"
+  },
+  {
+    "slug": "plovdiv",
+    "name": "Plovdiv",
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "flag": "🇧🇬",
+    "categoryCount": 6,
+    "heroImage": "",
+    "intro": "",
+    "lat": 42.1354,
+    "lng": 24.7453,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold & variable",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Cool & fresh",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Very hot",
+        "icon": "🔆"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Very hot",
+        "icon": "🔆"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & autumnal",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & cloudy",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & festive",
+        "icon": "❄️"
+      }
+    },
+    "iata": "PDV"
   },
   {
     "slug": "portimao",

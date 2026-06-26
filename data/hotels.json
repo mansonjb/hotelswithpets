@@ -45395,5 +45395,473 @@
       "Budget friendly"
     ],
     "slug": "hotel-le-tivoli-agadir"
+  },
+  {
+    "id": "mykonos-1",
+    "name": "Cavo Tagoo Mykonos",
+    "destinationSlug": "mykonos",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "sea-view",
+      "pool"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 1203,
+    "priceFrom": 450,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/cavo-tagoo.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Cavo Tagoo welcomes dogs at this stunning cliffside hotel above Mykonos Town. Dogs of all sizes are welcome; the infinity pool terrace and suite terraces give dogs and owners spectacular Aegean views. Pet beds and bowls available on request.",
+    "highlights": [
+      "Infinity pool",
+      "Sea views",
+      "Helicopter transfer",
+      "Spa"
+    ],
+    "slug": "cavo-tagoo-mykonos"
+  },
+  {
+    "id": "mykonos-2",
+    "name": "Mykonos Blanc",
+    "destinationSlug": "mykonos",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "sea-view",
+      "adults-only"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 845,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/mykonos-blanc.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome at Mykonos Blanc. This adults-only boutique hotel has a private terrace for each suite and a pet-friendly outdoor area. Small and medium dogs preferred; confirm for large breeds.",
+    "highlights": [
+      "Private terraces",
+      "Sea views",
+      "Heated pool",
+      "Breakfast included"
+    ],
+    "slug": "mykonos-blanc"
+  },
+  {
+    "id": "mykonos-3",
+    "name": "Santa Marina Mykonos",
+    "destinationSlug": "mykonos",
+    "categories": [
+      "dog-friendly",
+      "beach",
+      "luxury",
+      "family"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1567,
+    "priceFrom": 380,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/santa-marina-a-luxury-collection-resort.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Santa Marina welcomes pets including dogs. The resort has direct beach access on Ornos Bay and private villa-style accommodation with garden areas for dogs. Pet amenities available on request.",
+    "highlights": [
+      "Private beach",
+      "Multiple pools",
+      "Water sports",
+      "Fine dining"
+    ],
+    "slug": "santa-marina-mykonos"
+  },
+  {
+    "id": "mykonos-4",
+    "name": "Bill and Coo Mykonos",
+    "destinationSlug": "mykonos",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury",
+      "adults-only"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 678,
+    "priceFrom": 290,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/bill-coo-suites-lounge.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Dogs welcome at Bill and Coo with a 25 EUR per night pet fee. Small and medium dogs (up to 20 kg) welcome. The hotel has outdoor terrace areas ideal for dogs and is well-positioned for Mykonos Town walks.",
+    "highlights": [
+      "Adults only",
+      "Infinity pool",
+      "Restaurant",
+      "Mykonos Town access"
+    ],
+    "slug": "bill-and-coo-mykonos"
+  },
+  {
+    "id": "mykonos-5",
+    "name": "Mykonos Theoxenia",
+    "destinationSlug": "mykonos",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "historic",
+      "central"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 934,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/theoxenia-palace.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome at Mykonos Theoxenia. This boutique property in a historic villa is centrally located near the windmills and Little Venice. Dogs are welcome in the garden areas and on the terrace.",
+    "highlights": [
+      "Central location",
+      "Garden",
+      "Historic building",
+      "Windmill views"
+    ],
+    "slug": "mykonos-theoxenia"
+  },
+  {
+    "id": "mykonos-6",
+    "name": "Kivotos Mykonos",
+    "destinationSlug": "mykonos",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "sea-view",
+      "pool"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 521,
+    "priceFrom": 410,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/kivotos-club-mykonos.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Kivotos welcomes pets including dogs of all sizes. This intimate hotel on Ornos Bay has outdoor areas with sea views. The property's relaxed atmosphere and direct sea access make it excellent for dog travel.",
+    "highlights": [
+      "Sea access",
+      "Two pools",
+      "Restaurant",
+      "Intimate scale"
+    ],
+    "slug": "kivotos-mykonos"
+  },
+  {
+    "id": "cluj-napoca-1",
+    "name": "Radisson Blu Hotel Cluj",
+    "destinationSlug": "cluj-napoca",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "central",
+      "business"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2341,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/radisson-blu-cluj-napoca.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "The Radisson Blu Cluj welcomes dogs up to 20 kg with a 20 EUR per night pet fee. Dogs are welcome in rooms and on the hotel terrace. The hotel is centrally located near Piata Unirii, ideal for dog walks to the historic centre and Parcul Central.",
+    "highlights": [
+      "Central location",
+      "Pool",
+      "Restaurant",
+      "Business facilities"
+    ],
+    "slug": "radisson-blu-cluj"
+  },
+  {
+    "id": "cluj-napoca-2",
+    "name": "Hotel Beyfin Cluj",
+    "destinationSlug": "cluj-napoca",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "central",
+      "historic"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 1876,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/beyfin-cluj.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Beyfin welcomes dogs of all sizes at no extra charge. This boutique hotel in a restored 19th-century building is in the heart of Cluj's historic centre. Garden courtyard for dogs available.",
+    "highlights": [
+      "Historic building",
+      "Central location",
+      "Courtyard",
+      "Breakfast"
+    ],
+    "slug": "hotel-beyfin-cluj"
+  },
+  {
+    "id": "cluj-napoca-3",
+    "name": "Hotel Continental Cluj",
+    "destinationSlug": "cluj-napoca",
+    "categories": [
+      "dog-friendly",
+      "classic",
+      "central",
+      "large"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3102,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/continental-forum-cluj-napoca.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Continental accepts dogs with a 15 EUR per night fee. Located on the main boulevard adjacent to the Central Park, this is one of the most convenient hotels for dog owners: immediate access to Parcul Central for morning and evening walks.",
+    "highlights": [
+      "Park access",
+      "Central location",
+      "Restaurant",
+      "Parking"
+    ],
+    "slug": "hotel-continental-cluj"
+  },
+  {
+    "id": "cluj-napoca-4",
+    "name": "Casa Romei Cluj",
+    "destinationSlug": "cluj-napoca",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "guesthouse",
+      "garden"
+    ],
+    "stars": 3,
+    "rating": 9.3,
+    "reviewCount": 876,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/casa-romei-cluj-napoca.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Casa Romei is a dog-friendly guesthouse in Cluj with a private garden where dogs run freely. Small and medium dogs very welcome; large dogs on request. One of the best value dog-friendly stays in Cluj.",
+    "highlights": [
+      "Private garden",
+      "Home atmosphere",
+      "Quiet location",
+      "Great value"
+    ],
+    "slug": "casa-romei-cluj"
+  },
+  {
+    "id": "cluj-napoca-5",
+    "name": "Memo Boutique Hotel Cluj",
+    "destinationSlug": "cluj-napoca",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "design",
+      "central"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 1245,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/memo-boutique-cluj-napoca.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Memo Boutique Hotel welcomes dogs of all sizes. This design hotel in the historic centre is popular with the tech community and digital nomads. Dogs are welcomed as part of the relaxed hotel culture.",
+    "highlights": [
+      "Design interior",
+      "Central location",
+      "Coffee bar",
+      "Workspace"
+    ],
+    "slug": "memo-boutique-cluj"
+  },
+  {
+    "id": "cluj-napoca-6",
+    "name": "Dormitor Hostel Cluj",
+    "destinationSlug": "cluj-napoca",
+    "categories": [
+      "dog-friendly",
+      "budget",
+      "hostel",
+      "central"
+    ],
+    "stars": 2,
+    "rating": 8.9,
+    "reviewCount": 654,
+    "priceFrom": 35,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/dormitor-hostel-cluj-napoca.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dormitor Hostel is one of the few budget-friendly dog-welcoming options in central Cluj. Dogs are welcome in private rooms (shared facilities). A good option for budget travellers with dogs.",
+    "highlights": [
+      "Budget friendly",
+      "Central location",
+      "Social atmosphere",
+      "Private rooms available"
+    ],
+    "slug": "dormitor-hostel-cluj"
+  },
+  {
+    "id": "plovdiv-1",
+    "name": "Hotel Landmark Plovdiv",
+    "destinationSlug": "plovdiv",
+    "categories": [
+      "dog-friendly",
+      "central",
+      "luxury",
+      "spa"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2876,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/bg/landmark.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Landmark welcomes dogs up to 25 kg with a 15 EUR per night fee. Located in central Plovdiv near Tsar Simeon's Garden, the hotel has outdoor areas for dogs and is well-positioned for walks to the Old Town and Kapana district.",
+    "highlights": [
+      "Central location",
+      "Spa",
+      "Pool",
+      "Restaurant"
+    ],
+    "slug": "hotel-landmark-plovdiv"
+  },
+  {
+    "id": "plovdiv-2",
+    "name": "Hemus Hotel Plovdiv",
+    "destinationSlug": "plovdiv",
+    "categories": [
+      "dog-friendly",
+      "classic",
+      "central",
+      "park-view"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3421,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/bg/hemus-plovdiv.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Hemus Hotel accepts dogs with a 10 EUR per night fee. Situated adjacent to Tsar Simeon's Garden, this is the most convenient hotel for dog owners in Plovdiv: step outside and you are in the city's main park.",
+    "highlights": [
+      "Park adjacent",
+      "Central location",
+      "Restaurant",
+      "Parking"
+    ],
+    "slug": "hemus-hotel-plovdiv"
+  },
+  {
+    "id": "plovdiv-3",
+    "name": "Hotel Imperial Plovdiv",
+    "destinationSlug": "plovdiv",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "old-town",
+      "historic"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 1234,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/bg/imperial-plovdiv.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Imperial welcomes dogs in its historic Old Town boutique property. Dogs are welcome on the terrace and in the courtyard garden. An excellent base for exploring Plovdiv's Old Town and Kapana on foot.",
+    "highlights": [
+      "Old Town location",
+      "Courtyard",
+      "Terrace",
+      "Historic building"
+    ],
+    "slug": "hotel-imperial-plovdiv"
+  },
+  {
+    "id": "plovdiv-4",
+    "name": "Residence Hebros Plovdiv",
+    "destinationSlug": "plovdiv",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury",
+      "old-town"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 678,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/bg/residence-hebros.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Residence Hebros is a landmark boutique hotel in Plovdiv's UNESCO Old Town, housed in a restored 19th-century National Revival mansion. Dogs welcome in garden areas and terraces. One of the most atmospheric dog-friendly hotels in Bulgaria.",
+    "highlights": [
+      "UNESCO Old Town",
+      "Historic mansion",
+      "Garden",
+      "Fine dining"
+    ],
+    "slug": "residence-hebros-plovdiv"
+  },
+  {
+    "id": "plovdiv-5",
+    "name": "Hotel Maraya Plovdiv",
+    "destinationSlug": "plovdiv",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "old-town",
+      "views"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 1456,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/bg/maraya.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Maraya accepts dogs in this charming Old Town guesthouse. Small terrace with views over Plovdiv's hills; dogs welcome in the outdoor areas. Good value for the Old Town location.",
+    "highlights": [
+      "Old Town location",
+      "Terrace views",
+      "Character rooms",
+      "Great value"
+    ],
+    "slug": "hotel-maraya-plovdiv"
+  },
+  {
+    "id": "plovdiv-6",
+    "name": "Art Hotel Plovdiv",
+    "destinationSlug": "plovdiv",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "kapana",
+      "design"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 987,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/bg/art-hotel-plovdiv.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Art Hotel is a design boutique hotel in or near the Kapana arts district. Dogs welcome throughout the property including the art-filled common areas. Ideal for exploring Kapana's dog-friendly terrace restaurants.",
+    "highlights": [
+      "Kapana location",
+      "Design interior",
+      "Art collection",
+      "Terrace access"
+    ],
+    "slug": "art-hotel-plovdiv"
   }
 ]

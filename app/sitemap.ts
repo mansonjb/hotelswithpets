@@ -55,6 +55,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })
   }
 
+  // FR-only affiliate/accessory pages
+  for (const frSlug of ['accessoires-chien', 'accessoires-chat', 'accessoires-chien-chaleur', 'mentions-affiliees']) {
+    entries.push({
+      url: `${BASE_URL}/fr/${frSlug}`,
+      lastModified: BUILD_DATE,
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    })
+  }
+
   // Destinations listing
   for (const locale of LOCALES) {
     entries.push({

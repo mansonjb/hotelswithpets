@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import { Inter } from 'next/font/google'
 import Script from 'next/script'
 import '../globals.css'
@@ -9,6 +9,11 @@ import Footer from '@/components/layout/Footer'
 import { notFound } from 'next/navigation'
 
 const inter = Inter({ subsets: ['latin'], display: 'swap' })
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+}
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -40,9 +45,7 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
   }
 
   return {
-    // template '%s' is identity, pages include their own '| HotelsWithPets.com' suffix
-    // to avoid double-suffix (e.g. "Title | HotelsWithPets.com | HotelsWithPets")
-    title: { default: titles[l], template: `%s` },
+    title: { default: titles[l], template: `%s | HotelsWithPets.com` },
     description: descriptions[l],
     keywords: keywords[l],
     authors: [{ name: 'HotelsWithPets', url: 'https://www.hotelswithpets.com' }],

@@ -47,6 +47,13 @@ export async function generateMetadata({
         'x-default': `${SITE_URL}/en/countries`,
       },
     },
+    openGraph: {
+      title: titles[locale] ?? titles.en,
+      description: descriptions[locale] ?? descriptions.en,
+      url: `${SITE_URL}/${locale}/countries`,
+      siteName: 'HotelsWithPets.com',
+      type: 'website',
+    },
   }
 }
 

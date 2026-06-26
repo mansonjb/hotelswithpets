@@ -48,7 +48,7 @@ export async function generateMetadata({
   return {
     title,
     description,
-    openGraph: { title, description, type: 'website' },
+    openGraph: { title, description, url: `${SITE_URL}/${locale}/countries/${slug}`, siteName: 'HotelsWithPets.com', type: 'website' },
     alternates: {
       canonical: `${SITE_URL}/${locale}/countries/${slug}`,
       languages: {
@@ -151,6 +151,7 @@ export default async function CountryPage({
                         fill
                         sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                         className="object-cover opacity-40 group-hover:opacity-50 transition-opacity duration-300"
+                        priority={i === 0}
                       />
                     )}
                     <div className="absolute inset-0 bg-black/15 group-hover:bg-black/5 transition-colors" />

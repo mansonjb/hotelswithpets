@@ -50,6 +50,13 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
         'x-default': `${SITE_URL}/en/categories/${slug}`,
       },
     },
+    openGraph: {
+      title: titleTemplates[locale] ?? titleTemplates.en,
+      description: descTemplates[locale] ?? descTemplates.en,
+      url: `${SITE_URL}/${locale}/categories/${slug}`,
+      siteName: 'HotelsWithPets.com',
+      type: 'website',
+    },
   }
 }
 

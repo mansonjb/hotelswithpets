@@ -30,6 +30,13 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
         'x-default': `${SITE_URL}/en/destinations`,
       },
     },
+    openGraph: {
+      title: `${dict.pages.destinations.title} | HotelsWithPets.com`,
+      description: dict.pages.destinations.subtitle,
+      url: `${SITE_URL}/${locale}/destinations`,
+      siteName: 'HotelsWithPets.com',
+      type: 'website',
+    },
   }
 }
 
@@ -119,6 +126,7 @@ export default async function DestinationsPage({ params }: PageProps<'/[locale]/
                     fill
                     sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                     className="object-cover opacity-40 group-hover:opacity-50 transition-opacity duration-300"
+                    priority={i === 0}
                   />
                 )}
                 <div className="absolute inset-0 bg-black/15 group-hover:bg-black/5 transition-colors" />

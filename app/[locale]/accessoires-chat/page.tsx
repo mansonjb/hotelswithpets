@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   description: `Tout ce qu'il faut pour partir en voyage avec son chat : sac de transport, fontaine à eau, harnais ajusté, litière de voyage, anti-stress. Sélection mise à jour, liens Amazon.fr.`,
   alternates: {
     canonical: `${SITE_URL}/fr/${SLUG}`,
-    languages: { fr: `${SITE_URL}/fr/${SLUG}` },
+    languages: { 'x-default': `${SITE_URL}/fr/${SLUG}`, fr: `${SITE_URL}/fr/${SLUG}` },
   },
   openGraph: {
     title: 'Accessoires pour chat voyageur - la sélection HotelsWithPets',

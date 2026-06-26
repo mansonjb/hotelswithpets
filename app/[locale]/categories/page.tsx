@@ -28,6 +28,13 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
         'x-default': `${SITE_URL}/en/categories`,
       },
     },
+    openGraph: {
+      title: `${dict.pages.categories.title} | HotelsWithPets.com`,
+      description: dict.pages.categories.subtitle,
+      url: `${SITE_URL}/${locale}/categories`,
+      siteName: 'HotelsWithPets.com',
+      type: 'website',
+    },
   }
 }
 

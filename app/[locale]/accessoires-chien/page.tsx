@@ -21,6 +21,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: `${SITE_URL}/fr/${SLUG}`,
     languages: {
+      'x-default': `${SITE_URL}/fr/${SLUG}`,
       fr: `${SITE_URL}/fr/${SLUG}`,
     },
   },

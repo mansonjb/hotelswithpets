@@ -35,6 +35,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         'x-default': `${SITE_URL}/en/about`,
       },
     },
+    openGraph: {
+      title: titles[locale] ?? titles.en,
+      description: descriptions[locale] ?? descriptions.en,
+      url: `${SITE_URL}/${locale}/about`,
+      siteName: 'HotelsWithPets.com',
+      type: 'website',
+    },
   }
 }
 

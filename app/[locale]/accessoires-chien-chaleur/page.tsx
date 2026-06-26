@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   description: `Canicule et balades estivales : gourde nomade, tapis rafraîchissant, gilet, bandana, brumisateur, gamelle pliante. Sélection testée et conseils anti-chaleur pour son chien.`,
   alternates: {
     canonical: `${SITE_URL}/fr/${SLUG}`,
-    languages: { fr: `${SITE_URL}/fr/${SLUG}` },
+    languages: { 'x-default': `${SITE_URL}/fr/${SLUG}`, fr: `${SITE_URL}/fr/${SLUG}` },
   },
   openGraph: {
     title: 'Canicule et son chien : les accessoires qui changent tout',

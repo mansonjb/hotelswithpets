@@ -44535,5 +44535,865 @@
       "Short walk to the beach",
       "Budget seaside stay"
     ]
+  },
+  {
+    "id": "tbilisi-1",
+    "name": "Rooms Hotel Tbilisi",
+    "destinationSlug": "tbilisi",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "boutique",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1842,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/rooms-tbilisi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Rooms Hotel Tbilisi welcomes dogs of all sizes at no extra charge. The hotel has a large private garden courtyard where dogs can be exercised off-leash. Pet-friendly rooms on the ground and first floors open directly onto garden areas. Dogs must be kept on lead in the lobby and restaurant. Up to two dogs per room. Please notify the hotel at booking.",
+    "highlights": [
+      "Garden courtyard",
+      "Free WiFi",
+      "Restaurant"
+    ],
+    "slug": "rooms-hotel-tbilisi"
+  },
+  {
+    "id": "tbilisi-2",
+    "name": "Stamba Hotel",
+    "destinationSlug": "tbilisi",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1124,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/stamba.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Stamba Hotel accepts dogs up to 20 kg with a pet fee of 25 EUR per stay. The hotel is housed in a converted Soviet printing house in the Vera neighbourhood, within walking distance of Vake Park. Dogs are welcome in all public areas on-leash. A dedicated pet menu is available on request.",
+    "highlights": [
+      "Free WiFi",
+      "Bar & restaurant",
+      "Gym"
+    ],
+    "slug": "stamba-hotel-tbilisi"
+  },
+  {
+    "id": "tbilisi-3",
+    "name": "Fabrika Hostel & Suites",
+    "destinationSlug": "tbilisi",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 2341,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/fabrika-hostel-suites-tbilisi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Fabrika Hostel & Suites accepts dogs of all sizes at no extra charge. The large outdoor courtyard (a converted Soviet factory) is a perfect dog-friendly social space. Dogs are welcome throughout the courtyard and in the private suite rooms. Keep dogs on lead in indoor common areas. Up to two dogs per suite.",
+    "highlights": [
+      "Courtyard garden",
+      "Free WiFi",
+      "Bar"
+    ],
+    "slug": "fabrika-hostel-suites-tbilisi"
+  },
+  {
+    "id": "tbilisi-4",
+    "name": "Radisson Blu Iveria Hotel Tbilisi",
+    "destinationSlug": "tbilisi",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 3210,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/radisson-blu-iveria-tbilisi.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Radisson Blu Iveria Hotel accepts dogs up to 15 kg with a fee of 30 EUR per night. Dogs must be kept on lead in all public areas. Pet-friendly rooms are available on the lower floors. The hotel's central location on Rose Revolution Square puts it within 10 minutes walk of Rike Park for morning dog walks.",
+    "highlights": [
+      "Central location",
+      "Free WiFi",
+      "Fitness centre"
+    ],
+    "slug": "radisson-blu-iveria-hotel-tbilisi"
+  },
+  {
+    "id": "tbilisi-5",
+    "name": "Hotel Vinotel Boutique",
+    "destinationSlug": "tbilisi",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 876,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/vinotel-boutique.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Vinotel Boutique welcomes dogs of all sizes at no extra charge. Located in the Vake neighbourhood, the hotel is directly adjacent to Vake Park, making it the best-positioned pet-friendly hotel for dog walkers in Tbilisi. Dogs are welcome in all rooms and the garden terrace. Please declare your dog at booking.",
+    "highlights": [
+      "Next to Vake Park",
+      "Garden terrace",
+      "Free WiFi"
+    ],
+    "slug": "hotel-vinotel-boutique-tbilisi"
+  },
+  {
+    "id": "tbilisi-6",
+    "name": "Old Metekhi Hotel",
+    "destinationSlug": "tbilisi",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 1456,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/old-metekhi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Old Metekhi Hotel accepts dogs of all sizes at no extra charge. Located in the historic Old Town overlooking the Mtkvari River, the hotel has a small garden terrace and is within 5 minutes walk of the Narikala fortress gardens. Dogs are welcome in all rooms. Please inform the hotel at booking time.",
+    "highlights": [
+      "Old Town location",
+      "River views",
+      "Free WiFi"
+    ],
+    "slug": "old-metekhi-hotel-tbilisi"
+  },
+  {
+    "id": "batumi-1",
+    "name": "Radisson Blu Hotel Batumi",
+    "destinationSlug": "batumi",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 2876,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/radisson-blu-batumi.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Radisson Blu Hotel Batumi accepts dogs up to 15 kg with a fee of 30 EUR per night. The hotel is located on the Batumi Boulevard with direct access to the 7 km beachside promenade, making it ideal for dog walks. Pet-friendly rooms are available on the ground and first floors. Dogs must be kept on lead in all indoor common areas.",
+    "highlights": [
+      "Boulevard access",
+      "Outdoor pool",
+      "Free WiFi"
+    ],
+    "slug": "radisson-blu-hotel-batumi"
+  },
+  {
+    "id": "batumi-2",
+    "name": "Wyndham Grand Batumi",
+    "destinationSlug": "batumi",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 1932,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/wyndham-grand-batumi.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Wyndham Grand Batumi accepts dogs up to 20 kg with a fee of 25 EUR per stay. The hotel is on the Batumi Boulevard beachfront. Dogs are welcome in ground-floor rooms and on the outdoor terrace. A dog-friendly walking route along the boulevard starts directly in front of the hotel. Please notify the hotel at time of booking.",
+    "highlights": [
+      "Beachfront location",
+      "Spa",
+      "Free WiFi"
+    ],
+    "slug": "wyndham-grand-batumi"
+  },
+  {
+    "id": "batumi-3",
+    "name": "Boulevard Hotel Batumi",
+    "destinationSlug": "batumi",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1543,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/boulevard-batumi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Boulevard Hotel Batumi welcomes dogs of all sizes at no extra charge. The hotel sits directly on the Batumi Boulevard with immediate access to the beachside promenade. Dogs are welcome in all pet-friendly rooms and on the outdoor terrace. The boulevard promenade is ideal for morning and evening dog walks along the Black Sea coast.",
+    "highlights": [
+      "On the boulevard",
+      "Sea views",
+      "Free WiFi"
+    ],
+    "slug": "boulevard-hotel-batumi"
+  },
+  {
+    "id": "batumi-4",
+    "name": "Amra Park-Hotel & Spa Batumi",
+    "destinationSlug": "batumi",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2108,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/amra-park-hotel-spa-batumi.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Amra Park-Hotel & Spa accepts dogs up to 25 kg with a fee of 20 EUR per stay. Located at the northern end of the boulevard adjacent to Batumi Botanical Garden access, the hotel has a large private garden. Pet-friendly rooms have direct garden access. The Botanical Garden (111 hectares) is within 5 km for extended dog hikes.",
+    "highlights": [
+      "Garden access",
+      "Spa & wellness",
+      "Free WiFi"
+    ],
+    "slug": "amra-park-hotel-spa-batumi"
+  },
+  {
+    "id": "batumi-5",
+    "name": "Hotel Dodo Batumi",
+    "destinationSlug": "batumi",
+    "categories": [
+      "dog-friendly",
+      "boutique",
+      "near-beach"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 892,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/dodo-batumi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Dodo Batumi accepts dogs of all sizes at no extra charge. A small boutique hotel one block from the Batumi Boulevard. Dogs are welcome in all rooms and on the outdoor terrace. The hotel owner is a dog lover; basic dog supplies (bowl, towel) are available on request. Up to two dogs per room.",
+    "highlights": [
+      "Near boulevard",
+      "Boutique style",
+      "Free WiFi"
+    ],
+    "slug": "hotel-dodo-batumi"
+  },
+  {
+    "id": "batumi-6",
+    "name": "Sheraton Batumi Hotel",
+    "destinationSlug": "batumi",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 2567,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/sheraton-batumi.en-gb.html",
+    "petFee": 35,
+    "petPolicy": "Sheraton Batumi Hotel accepts dogs up to 20 kg with a fee of 35 EUR per night. The hotel is located on the Batumi Boulevard with direct beach access and a private beach section. Pet-friendly rooms are on the lower floors with boulevard views. Dogs must be kept on lead in all indoor areas and on the hotel beach section.",
+    "highlights": [
+      "Private beach access",
+      "Pool",
+      "Free WiFi"
+    ],
+    "slug": "sheraton-batumi-hotel"
+  },
+  {
+    "id": "kazbegi-1",
+    "name": "Rooms Hotel Kazbegi",
+    "destinationSlug": "kazbegi",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 3241,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/rooms-hotel-kazbegi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Rooms Hotel Kazbegi is the most famous dog-friendly hotel in the Caucasus. Dogs of all sizes are welcome at no extra charge. The hotel is perched above Stepantsminda village with direct access to mountain trails including the Gergeti Trinity Church hike. Large terrace areas are off-leash for dogs. The hotel's panoramic restaurant has outdoor terrace seating where dogs sit with their owners. Please declare dogs at booking.",
+    "highlights": [
+      "Mountain trail access",
+      "Panoramic terrace",
+      "Free WiFi"
+    ],
+    "slug": "rooms-hotel-kazbegi"
+  },
+  {
+    "id": "kazbegi-2",
+    "name": "The Lodge Hotel Kazbegi",
+    "destinationSlug": "kazbegi",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 1432,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/the-lodge-kazbegi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Lodge Hotel Kazbegi welcomes dogs of all sizes at no extra charge. A mountain lodge hotel with private garden and direct access to the Gergeti Church trail. Dogs are welcome in all areas including the fireside lounge. The outdoor deck has mountain views and is off-leash for dogs. Basic dog supplies (drying towels, water bowls) available on request.",
+    "highlights": [
+      "Trail access",
+      "Fireside lounge",
+      "Mountain views"
+    ],
+    "slug": "the-lodge-hotel-kazbegi"
+  },
+  {
+    "id": "kazbegi-3",
+    "name": "Kazbegi Resort Hotel",
+    "destinationSlug": "kazbegi",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 876,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/kazbegi-resort.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Kazbegi Resort Hotel accepts dogs of all sizes at no extra charge. Located in Stepantsminda village within walking distance of the Gergeti Church trailhead. Dogs are welcome in ground-floor rooms and on the hotel garden terrace. Drying facilities for muddy dogs available. Please inform the hotel when booking.",
+    "highlights": [
+      "Near trailhead",
+      "Garden terrace",
+      "Free WiFi"
+    ],
+    "slug": "kazbegi-resort-hotel"
+  },
+  {
+    "id": "kazbegi-4",
+    "name": "Hotel Gergeti",
+    "destinationSlug": "kazbegi",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 654,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/hotel-gergeti-kazbegi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Gergeti welcomes dogs of all sizes at no extra charge. A small family-run hotel in Stepantsminda village with views of Gergeti Trinity Church. Dogs are welcome in all rooms and on the outdoor terrace. The hotel owner is a hiker and can advise on the best dog-friendly mountain trails. Up to two dogs per room.",
+    "highlights": [
+      "Church views",
+      "Family run",
+      "Trail advice"
+    ],
+    "slug": "hotel-gergeti-kazbegi"
+  },
+  {
+    "id": "kazbegi-5",
+    "name": "Guest House Nino & Lado",
+    "destinationSlug": "kazbegi",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.9,
+    "reviewCount": 1102,
+    "priceFrom": 45,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/guest-house-nino-lado-kazbegi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Guest House Nino & Lado is a beloved Stepantsminda guesthouse that has welcomed dogs for decades. Dogs of all sizes stay free. A family-run guesthouse with a large garden where dogs roam freely. Traditional Georgian meals served at communal tables. Dogs are welcome everywhere on the property. Advance booking essential in peak season (July-August).",
+    "highlights": [
+      "Large garden",
+      "Home-cooked meals",
+      "Legendary hospitality"
+    ],
+    "slug": "guest-house-nino-lado-kazbegi"
+  },
+  {
+    "id": "kazbegi-6",
+    "name": "Kazbegi Mountain Resort",
+    "destinationSlug": "kazbegi",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 987,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ge/kazbegi-mountain-resort.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Kazbegi Mountain Resort accepts dogs up to 30 kg with a fee of 15 EUR per stay. The resort has extensive private grounds ideal for dog exercise and direct access to mountain walking trails. Pet-friendly rooms are on the ground floor with garden access. Drying room for wet dogs and hiking gear available. Book well in advance for summer weekends.",
+    "highlights": [
+      "Private grounds",
+      "Mountain views",
+      "Drying room"
+    ],
+    "slug": "kazbegi-mountain-resort"
+  },
+  {
+    "id": "marrakech-1",
+    "name": "La Mamounia",
+    "destinationSlug": "marrakech",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 4521,
+    "priceFrom": 650,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/la-mamounia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "La Mamounia accepts dogs up to 20 kg at no extra charge. The legendary 1920s palace hotel has 8 hectares of private Moroccan gardens where dogs can be walked on-leash. Dog bowls and a pet welcome amenity are provided on arrival. Dogs are welcome in the garden and private suite terraces. Please declare your dog at booking.",
+    "highlights": [
+      "8ha private gardens",
+      "3 pools",
+      "Free WiFi"
+    ],
+    "slug": "la-mamounia-marrakech"
+  },
+  {
+    "id": "marrakech-2",
+    "name": "Mandarin Oriental Marrakech",
+    "destinationSlug": "marrakech",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1876,
+    "priceFrom": 480,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/mandarin-oriental-marrakech.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Mandarin Oriental Marrakech welcomes dogs up to 20 kg at no extra charge. The resort has 20 hectares of landscaped gardens including an olive grove and rose garden ideal for dog walks. Villa rooms have private plunge pools and garden terraces perfect for dogs. Pet welcome pack on arrival. Please notify the hotel at booking.",
+    "highlights": [
+      "20ha gardens",
+      "Private pool villas",
+      "Spa"
+    ],
+    "slug": "mandarin-oriental-marrakech"
+  },
+  {
+    "id": "marrakech-3",
+    "name": "Four Seasons Resort Marrakech",
+    "destinationSlug": "marrakech",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 2341,
+    "priceFrom": 520,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/four-seasons-resort-marrakech.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Four Seasons Resort Marrakech accepts dogs up to 15 kg at no extra charge as part of the Four Seasons global pet programme. The resort has extensive gardens with lawned areas for dog exercise. Dogs are welcome in garden villa rooms and on private terraces. The resort's location on the Route de l'Ourika puts it close to the Atlas Mountains for day hiking.",
+    "highlights": [
+      "Resort gardens",
+      "Near Atlas Mountains",
+      "Spa & pools"
+    ],
+    "slug": "four-seasons-resort-marrakech"
+  },
+  {
+    "id": "marrakech-4",
+    "name": "Es Saadi Marrakech Resort",
+    "destinationSlug": "marrakech",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "boutique"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1654,
+    "priceFrom": 290,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/es-saadi-marrakech-resort.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Es Saadi Marrakech Resort accepts dogs up to 20 kg with a fee of 20 EUR per stay. A historic 1952 palace hotel with 6 hectares of private gardens in the Hivernage district. Dogs are welcome in the garden and villa rooms. The Hivernage neighbourhood is the most pleasant dog-walking area in Marrakech outside the Palmeraie. Please declare your dog at booking.",
+    "highlights": [
+      "6ha private gardens",
+      "Palace architecture",
+      "Casino"
+    ],
+    "slug": "es-saadi-marrakech-resort"
+  },
+  {
+    "id": "marrakech-5",
+    "name": "Selman Marrakech",
+    "destinationSlug": "marrakech",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 987,
+    "priceFrom": 380,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/selman-marrakech.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Selman Marrakech welcomes dogs at no extra charge. This equestrian-themed luxury property in the Palmeraie has 12 hectares of grounds including an active horse stud farm. Dogs are welcome in villa rooms and private garden areas. The Palmeraie location gives direct access to the palm grove tracks for off-leash dog walking. Please notify the hotel at booking.",
+    "highlights": [
+      "Palmeraie location",
+      "12ha grounds",
+      "Infinity pool"
+    ],
+    "slug": "selman-marrakech"
+  },
+  {
+    "id": "marrakech-6",
+    "name": "Riad Yasmine",
+    "destinationSlug": "marrakech",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1203,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/riad-yasmine.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Riad Yasmine welcomes dogs of all sizes at no extra charge. A French-owned riad in the medina with a private garden courtyard where dogs can be off-leash safely. Dogs are welcome in all rooms. The courtyard pool garden is the perfect dog-friendly outdoor space within the medina. Up to two dogs per room. Please declare your dog when booking.",
+    "highlights": [
+      "Private courtyard pool",
+      "Medina location",
+      "French-owned"
+    ],
+    "slug": "riad-yasmine-marrakech"
+  },
+  {
+    "id": "essaouira-1",
+    "name": "Sofitel Essaouira Mogador Golf & Spa",
+    "destinationSlug": "essaouira",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2134,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/sofitel-essaouira-mogador.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Sofitel Essaouira Mogador Golf & Spa accepts dogs up to 20 kg with a fee of 30 EUR per stay. The resort is 3 km south of the medina with direct beach access. Large garden grounds include an 18-hole golf course with sea views. Dogs are welcome on the garden grounds and beach area. Pet-friendly rooms are on the ground floor with garden access.",
+    "highlights": [
+      "Direct beach access",
+      "18-hole golf",
+      "Spa"
+    ],
+    "slug": "sofitel-essaouira-mogador-golf-spa"
+  },
+  {
+    "id": "essaouira-2",
+    "name": "Heure Bleue Palais",
+    "destinationSlug": "essaouira",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "boutique",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1456,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/heure-bleue-palais.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Heure Bleue Palais welcomes dogs of all sizes at no extra charge. A luxury riad palace in the medina with a rooftop terrace and private pool courtyard. Dogs are welcome in all suite rooms and the private courtyard areas. The hotel is 5 minutes walk from the beach. The French-Moroccan management team is dog-friendly. Please declare your dog at booking.",
+    "highlights": [
+      "Rooftop terrace",
+      "Private pool",
+      "Medina location"
+    ],
+    "slug": "heure-bleue-palais-essaouira"
+  },
+  {
+    "id": "essaouira-3",
+    "name": "Villa de l'O",
+    "destinationSlug": "essaouira",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 876,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/villa-de-l-o-essaouira.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Villa de l'O welcomes dogs of all sizes at no extra charge. A boutique villa south of the medina between the beach and the argan forest. The villa has a private garden where dogs can be off-leash. Direct beach access through the argan grove for dog walks. A popular choice for dog owners for its garden and beach proximity.",
+    "highlights": [
+      "Private garden",
+      "Near beach & argan forest",
+      "Free WiFi"
+    ],
+    "slug": "villa-de-l-o-essaouira"
+  },
+  {
+    "id": "essaouira-4",
+    "name": "Madada Mogador",
+    "destinationSlug": "essaouira",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 1102,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/madada-mogador-essaouira.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Madada Mogador accepts dogs of all sizes at no extra charge. A beautifully restored boutique hotel inside the medina ramparts with ocean-view terraces. Dogs are welcome in all rooms and on the terrace. The seafront rampart promenade (Skala de la Ville) is directly adjacent for dog walks with Atlantic views. Please notify at booking.",
+    "highlights": [
+      "Ocean-view terrace",
+      "Medina rampart location",
+      "Free WiFi"
+    ],
+    "slug": "madada-mogador-essaouira"
+  },
+  {
+    "id": "essaouira-5",
+    "name": "Riad Lalla Mira",
+    "destinationSlug": "essaouira",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 987,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/lalla-mira.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Riad Lalla Mira accepts dogs of all sizes at no extra charge. An eco-certified riad in the medina run by a European owner who is an animal welfare advocate. Dogs are welcome in all rooms and the private courtyard. Organic Moroccan breakfast served. The riad team can advise on the best dog-friendly beaches and walks around Essaouira.",
+    "highlights": [
+      "Eco-certified",
+      "Courtyard garden",
+      "European owned"
+    ],
+    "slug": "riad-lalla-mira-essaouira"
+  },
+  {
+    "id": "essaouira-6",
+    "name": "Dar Loulema",
+    "destinationSlug": "essaouira",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 765,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/dar-loulema.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dar Loulema welcomes dogs of all sizes at no extra charge. A charming boutique riad in the Essaouira medina with a private sunlit courtyard. Dogs are welcome throughout the property. The hotel is 3 minutes walk from the rampart promenade and 8 minutes from the beach. The French owner ensures dogs are treated as genuine guests.",
+    "highlights": [
+      "Sunny courtyard",
+      "Near ramparts",
+      "French owned"
+    ],
+    "slug": "dar-loulema-essaouira"
+  },
+  {
+    "id": "agadir-1",
+    "name": "Sofitel Agadir Royal Bay Resort",
+    "destinationSlug": "agadir",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 3241,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/sofitel-agadir-royal-bay.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Sofitel Agadir Royal Bay Resort accepts dogs up to 20 kg with a fee of 30 EUR per stay. The resort is on the Agadir beach boulevard with direct access to the 9 km beach. Large outdoor grounds with gardens and a beach terrace are dog-friendly areas. Pet-friendly rooms available on request with garden or beach access.",
+    "highlights": [
+      "Beach boulevard access",
+      "3 pools",
+      "Spa"
+    ],
+    "slug": "sofitel-agadir-royal-bay-resort"
+  },
+  {
+    "id": "agadir-2",
+    "name": "Riu Palace Tikida Agadir",
+    "destinationSlug": "agadir",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 4102,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/riu-palace-tikida-agadir.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Riu Palace Tikida Agadir welcomes dogs up to 15 kg at no extra charge. A large beachfront all-inclusive resort with direct beach access. Dogs are welcome in garden rooms and on the outdoor terrace areas. The hotel's beachfront location gives direct access to the 9 km Agadir beach for dog walks. Please declare your dog when booking.",
+    "highlights": [
+      "All-inclusive option",
+      "Direct beach access",
+      "Multiple pools"
+    ],
+    "slug": "riu-palace-tikida-agadir"
+  },
+  {
+    "id": "agadir-3",
+    "name": "Iberostar Founty Beach",
+    "destinationSlug": "agadir",
+    "categories": [
+      "dog-friendly",
+      "near-beach"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3456,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/iberostar-founty-beach.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Iberostar Founty Beach accepts dogs up to 20 kg with a fee of 20 EUR per stay. The hotel is in the Founty beach zone south of the marina with direct beach access. Garden rooms have terraces opening onto the hotel grounds. Dogs are welcome in the outdoor areas and on the beach access path. Maximum two dogs per room.",
+    "highlights": [
+      "Garden rooms",
+      "Beach access",
+      "Family-friendly"
+    ],
+    "slug": "iberostar-founty-beach-agadir"
+  },
+  {
+    "id": "agadir-4",
+    "name": "Tildi Hotel & Spa",
+    "destinationSlug": "agadir",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1876,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/tildi-agadir.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Tildi Hotel & Spa welcomes dogs of all sizes at no extra charge. Located on the Agadir beach boulevard with a large garden and private beach access. Dogs are welcome in ground-floor rooms and on the garden terraces. The beach access is 50 metres from the hotel entrance. Morning dog walks on the deserted beach are one of the hotel's highlights.",
+    "highlights": [
+      "Garden terrace",
+      "Beach access 50m",
+      "Spa"
+    ],
+    "slug": "tildi-hotel-spa-agadir"
+  },
+  {
+    "id": "agadir-5",
+    "name": "Le Méridien N'fis Agadir",
+    "destinationSlug": "agadir",
+    "categories": [
+      "dog-friendly",
+      "near-beach",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 2109,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/le-meridien-n-fis.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Le Méridien N'fis Agadir accepts dogs up to 20 kg with a fee of 25 EUR per night. The hotel is on the Agadir beach boulevard with extensive gardens and direct beach access. Pet-friendly rooms are on the ground floor with garden terraces. Dogs are permitted in outdoor areas and on the beach access path. Please declare your dog at booking.",
+    "highlights": [
+      "Beach boulevard location",
+      "Extensive gardens",
+      "Rooftop pool"
+    ],
+    "slug": "le-meridien-n-fis-agadir"
+  },
+  {
+    "id": "agadir-6",
+    "name": "Hotel Le Tivoli Agadir",
+    "destinationSlug": "agadir",
+    "categories": [
+      "dog-friendly",
+      "near-beach"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 1432,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ma/le-tivoli-agadir.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Le Tivoli Agadir accepts dogs of all sizes at no extra charge. A well-priced family-run hotel 200m from the Agadir beach. Dogs are welcome in all rooms and on the rooftop terrace. A good budget option for dog travellers who want beach access without luxury hotel prices. Up to two dogs per room. Please inform at booking.",
+    "highlights": [
+      "200m from beach",
+      "Rooftop terrace",
+      "Budget friendly"
+    ],
+    "slug": "hotel-le-tivoli-agadir"
   }
 ]

@@ -226,6 +226,81 @@
     "iata": "AUH"
   },
   {
+    "slug": "agadir",
+    "name": "Agadir",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "flag": "🇲🇦",
+    "categoryCount": 6,
+    "heroImage": "",
+    "intro": "",
+    "lat": 30.4278,
+    "lng": -9.5981,
+    "weather": {
+      "jan": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 19,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Hottest month",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 22,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "dec": {
+        "temp": 19,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      }
+    },
+    "iata": "AGA"
+  },
+  {
     "slug": "aix-en-provence",
     "name": "Aix-en-Provence",
     "country": "France",
@@ -7737,6 +7812,81 @@
     "iata": "LIS"
   },
   {
+    "slug": "essaouira",
+    "name": "Essaouira",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "flag": "🇲🇦",
+    "categoryCount": 6,
+    "heroImage": "",
+    "intro": "",
+    "lat": 31.5085,
+    "lng": -9.7595,
+    "weather": {
+      "jan": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "🌬️"
+      },
+      "feb": {
+        "temp": 16,
+        "desc": "Mild & windy",
+        "icon": "🌬️"
+      },
+      "mar": {
+        "temp": 17,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Warm & windy",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & windy",
+        "icon": "🌬️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Summer breeze",
+        "icon": "🌬️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Warm & windy",
+        "icon": "🌬️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 19,
+        "desc": "Mild & cloudy",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": 17,
+        "desc": "Mild & cloudy",
+        "icon": "🌥️"
+      }
+    },
+    "iata": "ESU"
+  },
+  {
     "slug": "estepona",
     "name": "Estepona",
     "country": "Spain",
@@ -14189,6 +14339,81 @@
       }
     },
     "iata": "AGP"
+  },
+  {
+    "slug": "marrakech",
+    "name": "Marrakech",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "flag": "🇲🇦",
+    "categoryCount": 6,
+    "heroImage": "",
+    "intro": "",
+    "lat": 31.6295,
+    "lng": -7.9811,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 17,
+        "desc": "Pleasant & warm",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 30,
+        "desc": "Very hot",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 35,
+        "desc": "Extremely hot",
+        "icon": "🌡️"
+      },
+      "aug": {
+        "temp": 35,
+        "desc": "Extremely hot",
+        "icon": "🌡️"
+      },
+      "sep": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 23,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Cool & mild",
+        "icon": "🌥️"
+      }
+    },
+    "iata": "RAK"
   },
   {
     "slug": "marseille",

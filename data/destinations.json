@@ -978,6 +978,33 @@
     "iata": "GVA"
   },
   {
+    "slug": "antalya",
+    "name": "Antalya",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "flag": "🇹🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/antalya.jpg",
+    "intro": "Antalya is the gateway to Turkey's Turquoise Coast: a Roman walled city (Kaleiçi) perched above a harbour, flanked by the snow-capped Taurus mountains and 190 km of dog-accessible Lycian coastline to the west.",
+    "lat": 36.8969,
+    "lng": 30.7133,
+    "weather": {
+      "jan": { "temp": 10, "desc": "Mild & rainy", "icon": "🌧️" },
+      "feb": { "temp": 11, "desc": "Cool & sometimes wet", "icon": "🌥️" },
+      "mar": { "temp": 14, "desc": "Warm & breezy", "icon": "🌤️" },
+      "apr": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
+      "may": { "temp": 23, "desc": "Hot & clear", "icon": "☀️" },
+      "jun": { "temp": 28, "desc": "Hot & dry", "icon": "☀️" },
+      "jul": { "temp": 33, "desc": "Very hot & dry", "icon": "🌡️" },
+      "aug": { "temp": 34, "desc": "Very hot & dry", "icon": "🌡️" },
+      "sep": { "temp": 29, "desc": "Hot & sunny", "icon": "☀️" },
+      "oct": { "temp": 23, "desc": "Warm & pleasant", "icon": "🌤️" },
+      "nov": { "temp": 17, "desc": "Mild & sometimes wet", "icon": "🌥️" },
+      "dec": { "temp": 12, "desc": "Cool & rainy", "icon": "🌧️" }
+    },
+    "iata": "AYT"
+  },
+  {
     "slug": "antibes",
     "name": "Antibes",
     "country": "France",
@@ -10565,6 +10592,33 @@
       }
     },
     "iata": "BRN"
+  },
+  {
+    "slug": "istanbul",
+    "name": "Istanbul",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "flag": "🇹🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/istanbul.jpg",
+    "intro": "Istanbul is the only city on two continents, a 15-million-person metropolis where the Bosphorus ferries welcome dogs on the upper deck, the cosmopolitan neighbourhoods of Cihangir and Kadikoy are as dog-friendly as any European city, and the car-free Prince Islands are a ferry ride away.",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "weather": {
+      "jan": { "temp": 6, "desc": "Cold & rainy", "icon": "🌧️" },
+      "feb": { "temp": 7, "desc": "Cold & grey", "icon": "🌥️" },
+      "mar": { "temp": 10, "desc": "Cool & breezy", "icon": "🌤️" },
+      "apr": { "temp": 15, "desc": "Mild & pleasant", "icon": "🌤️" },
+      "may": { "temp": 20, "desc": "Warm & sunny", "icon": "☀️" },
+      "jun": { "temp": 25, "desc": "Hot & clear", "icon": "☀️" },
+      "jul": { "temp": 28, "desc": "Hot & dry", "icon": "🌡️" },
+      "aug": { "temp": 28, "desc": "Hot & dry", "icon": "🌡️" },
+      "sep": { "temp": 24, "desc": "Warm & sunny", "icon": "☀️" },
+      "oct": { "temp": 18, "desc": "Mild & pleasant", "icon": "🌤️" },
+      "nov": { "temp": 13, "desc": "Cool & rainy", "icon": "🌥️" },
+      "dec": { "temp": 8, "desc": "Cold & wet", "icon": "🌧️" }
+    },
+    "iata": "IST"
   },
   {
     "slug": "jurmala",

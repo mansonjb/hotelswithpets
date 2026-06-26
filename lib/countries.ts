@@ -45,6 +45,7 @@ const COUNTRY_FLAGS: Record<string, string> = {
   Montenegro: '🇲🇪',
   'United Arab Emirates': '🇦🇪',
   Turkey: '🇹🇷',
+  Georgia: '🇬🇪',
 }
 
 /**
@@ -89,6 +90,7 @@ const COUNTRIES_FR: Record<string, string> = {
   Montenegro: 'Monténégro',
   'United Arab Emirates': 'Émirats arabes unis',
   Turkey: 'Turquie',
+  Georgia: 'Géorgie',
 }
 
 const COUNTRIES_ES: Record<string, string> = {
@@ -129,6 +131,7 @@ const COUNTRIES_ES: Record<string, string> = {
   Montenegro: 'Montenegro',
   'United Arab Emirates': 'Emiratos Árabes Unidos',
   Turkey: 'Turquía',
+  Georgia: 'Georgia',
 }
 
 const COUNTRIES_PT: Record<string, string> = {
@@ -169,6 +172,7 @@ const COUNTRIES_PT: Record<string, string> = {
   Montenegro: 'Montenegro',
   'United Arab Emirates': 'Emirados Árabes Unidos',
   Turkey: 'Turquia',
+  Georgia: 'Geórgia',
 }
 
 /**
@@ -183,6 +187,7 @@ const COUNTRY_PREP_FR: Record<string, 'en' | 'au' | 'aux'> = {
   Netherlands: 'aux',
   'United States': 'aux',
   Turkey: 'en',
+  Georgia: 'en',
 }
 
 /** Returns the right FR preposition + country, e.g. "en France", "au Portugal", "aux États-Unis". */
@@ -234,6 +239,7 @@ const COUNTRY_PT_PHRASE: Record<string, string> = {
   Montenegro: 'no Montenegro',
   'United Arab Emirates': 'nos Emirados Árabes Unidos',
   Turkey: 'na Turquia',
+  Georgia: 'na Geórgia',
 }
 
 export function ptCountryPhrase(englishName: string): string {

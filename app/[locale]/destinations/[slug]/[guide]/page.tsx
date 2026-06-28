@@ -885,7 +885,8 @@ export default async function GuideDetailPage({
                         // showNearby + nearbyHref are computed once above (also used
                         // by the tappable photo/name). Skip the row entirely only when
                         // there is nothing to link to.
-                        if (!showNearby && !place.website && !place.googleMapsUrl) return null
+                        const mapsHref = place.googleMapsUrl || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${place.name} ${dest.name}`)}`
+                        if (!showNearby && !place.website) return null
                         return (
                           <div className="flex flex-wrap gap-2 pt-3 border-t border-gray-50">
                             {showNearby && (
@@ -908,16 +909,14 @@ export default async function GuideDetailPage({
                                 🌐 {ui.visitWebsite}
                               </a>
                             )}
-                            {place.googleMapsUrl && (
-                              <a
-                                href={place.googleMapsUrl}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="inline-flex items-center gap-1.5 text-xs font-semibold text-gray-600 hover:text-gray-900 bg-gray-100 hover:bg-gray-200 px-3 py-1.5 rounded-lg transition-colors"
-                              >
-                                📍 {ui.viewOnMaps}
-                              </a>
-                            )}
+                            <a
+                              href={mapsHref}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="inline-flex items-center gap-1.5 text-xs font-semibold text-gray-600 hover:text-gray-900 bg-gray-100 hover:bg-gray-200 px-3 py-1.5 rounded-lg transition-colors"
+                            >
+                              📍 {ui.viewOnMaps}
+                            </a>
                           </div>
                         )
                       })()}

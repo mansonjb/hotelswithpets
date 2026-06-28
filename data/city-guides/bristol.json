@@ -3,7 +3,7 @@
   "name": "Bristol",
   "country": "United Kingdom",
   "flag": "🇬🇧",
-  "lastUpdated": "2026-04-27",
+  "lastUpdated": "2026-06-28",
   "guides": {
     "restaurants": {
       "titleEn": "Dog-Friendly Restaurants in Bristol",
@@ -749,97 +749,97 @@
       ]
     },
     "tips": {
-      "titleEn": "Essential Pet Travel Tips for Bristol",
-      "titleFr": "Conseils essentiels pour voyager avec son animal à Bristol",
-      "titleEs": "Consejos esenciales para viajar con mascota a Bristol",
-      "introEn": "Bristol is one of the UK's most pet-tolerant cities, but post-Brexit paperwork and a few city-specific rules trip up European visitors. The basics: Animal Health Certificate (not EU pet passport) for entering the UK, mandatory tapeworm treatment before crossing, and PSPO leash zones to be aware of in central Bristol parks.",
-      "introFr": "Bristol est l'une des villes les plus tolérantes envers les animaux du UK, mais la paperasse post-Brexit et quelques règles spécifiques à la ville surprennent les visiteurs européens. L'essentiel : Animal Health Certificate (pas le passeport européen) pour entrer au UK, traitement contre l'échinococcose obligatoire avant traversée, et zones PSPO à connaître dans les parcs centraux.",
-      "introEs": "Bristol es una de las ciudades más tolerantes con mascotas del UK, pero el papeleo post-Brexit y algunas normas específicas de la ciudad sorprenden a los visitantes europeos. Lo esencial: Animal Health Certificate (no el pasaporte europeo) para entrar al UK, tratamiento obligatorio contra equinococosis antes de cruzar, y zonas PSPO que conocer en los parques centrales.",
-      "places": [],
+      "titleEn": "Travelling to Bristol with a Dog: Practical Tips",
+      "titleFr": "Voyager a Bristol avec un chien : conseils pratiques",
+      "titleEs": "Viajar a Bristol con perro: consejos practicos",
+      "titlePt": "Viajar para Bristol com um cao: conselhos praticos",
+      "introEn": "Bristol is one of the best UK city breaks for dogs: vast off-leash common land at Clifton Down and Ashton Court, a genuine pub culture that welcomes dogs, and fast GWR trains from London. The Harbour and Downs together make a superb 2-day walking circuit.",
+      "introFr": "Bristol est l'un des meilleurs city-breaks UK pour les chiens : Clifton Down et Ashton Court offrent de vastes espaces sans laisse, une culture pub genuinement dog-friendly et des trains GWR rapides depuis Londres. Le Harbour et les Downs forment ensemble un excellent circuit de 2 jours.",
+      "introEs": "Bristol es una de las mejores escapadas UK para perros: Clifton Down y Ashton Court ofrecen grandes espacios sin correa, una autentica cultura pub dog-friendly y rapidos trenes GWR desde Londres. El Harbour y los Downs juntos forman un excelente circuito de 2 dias.",
+      "introPt": "Bristol e uma das melhores escapadas do Reino Unido para caes: Clifton Down e Ashton Court oferecem vastos espacos sem trela, uma genuina cultura de pubs dog-friendly e rapidos comboios GWR de Londres. O Harbour e os Downs juntos formam um excelente circuito de 2 dias.",
+      "places": [
+        {
+          "name": "Best season for visiting Bristol with a dog",
+          "photo": "/images/city-places/bristol-tips-best-season.jpg",
+          "description": "May to July and September are the sweet spots: 17-20 C highs, Ashton Court and the Downs are dry and green. August is busy with festivals (Harbour Festival, Balloon Fiesta) that make the city centre and College Green very crowded. November to March suits energetic dogs as the Downs trails empty out.",
+          "descriptionFr": "Mai a juillet et septembre sont les periodes ideales : 17-20 C, Ashton Court et les Downs sont secs et verts. Aout est tres charge avec les festivals (Harbour Festival, Balloon Fiesta) qui bondent le centre et College Green. Novembre a mars convient aux chiens energiques quand les sentiers des Downs se vident.",
+          "descriptionEs": "Mayo a julio y septiembre son los mejores periodos: 17-20 C, Ashton Court y los Downs estan secos y verdes. Agosto esta muy concurrido con festivales (Harbour Festival, Balloon Fiesta) que llenan el centro y College Green. Noviembre a marzo le va bien a los perros energicos cuando los senderos de los Downs se vacian.",
+          "descriptionPt": "De maio a julho e setembro sao os periodos ideais: 17-20 C, Ashton Court e os Downs estao secos e verdes. Agosto esta muito movimentado com festivais (Harbour Festival, Balloon Fiesta) que enchem o centro e College Green. Novembro a marco e bom para caes energicos quando os trilhos dos Downs se esvaziam."
+        },
+        {
+          "name": "UK pet-import paperwork (2026)",
+          "description": "From the EU you need: ISO microchip, valid rabies vaccination (at least 21 days old, not expired), and a GB Animal Health Certificate (AHC) issued by an EU official vet within 10 days of arrival. The AHC is valid 4 months for onward EU travel and 4 months for return. Tapeworm treatment is required only for return travel to Ireland, Finland, Malta or Norway.",
+          "descriptionFr": "Depuis l'UE il faut : puce ISO, vaccin antirabique valide (au moins 21 jours, non perime) et un GB Animal Health Certificate (AHC) delivre par un veterinaire officiel de l'UE dans les 10 jours precedant l'arrivee. L'AHC est valable 4 mois pour voyager dans l'UE et 4 mois pour le retour. Le traitement antitenias n'est requis que pour le retour vers l'Irlande, la Finlande, Malte ou la Norvege.",
+          "descriptionEs": "Desde la UE necesitas: microchip ISO, vacuna antirrábica vigente (al menos 21 dias, no caducada) y un GB Animal Health Certificate (AHC) emitido por un OV de la UE en los 10 dias previos a la llegada. El AHC es valido 4 meses para viajar en la UE y 4 meses para el retorno. El tratamiento de tenia solo se exige para volver a Irlanda, Finlandia, Malta o Noruega.",
+          "descriptionPt": "A partir da UE precisa de: microchip ISO, vacinacao antirabica valida (pelo menos 21 dias, nao expirada) e um GB Animal Health Certificate (AHC) emitido por um veterinario oficial da UE nos 10 dias anteriores a chegada. O AHC e valido 4 meses para viagens dentro da UE e 4 meses para o regresso. O tratamento anti-tenia so e exigido na viagem de regresso para a Irlanda, Finlandia, Malta ou Noruega."
+        },
+        {
+          "name": "Walking Bristol with a dog",
+          "photo": "/images/city-places/bristol-tips-walking-with-a-dog.jpg",
+          "description": "The classic Bristol dog circuit links Clifton Down (fully off-leash common land, 150 acres above the gorge) via the Clifton Suspension Bridge walkway to Leigh Woods (National Trust, 160 acres mixed woodland, off-leash on most paths). The Bristol Harbour circuit (3.5 km, paved, along both canal banks) is the flat city-centre alternative.",
+          "descriptionFr": "Le circuit canin classique de Bristol relie Clifton Down (terrain commun entierement sans laisse, 60 ha au-dessus du gorge) via la passerelle du Clifton Suspension Bridge jusqu'a Leigh Woods (National Trust, 65 ha de foret mixte, sans laisse sur la plupart des sentiers). Le circuit du Bristol Harbour (3,5 km, pave, le long des deux rives du canal) est l'alternative plate en centre-ville.",
+          "descriptionEs": "El circuito canino clasico de Bristol une Clifton Down (terreno comunal completamente sin correa, 60 ha sobre el gorge) via la pasarela del Clifton Suspension Bridge hasta Leigh Woods (National Trust, 65 ha de bosque mixto, sin correa en la mayoria de senderos). El circuito del Bristol Harbour (3,5 km, pavimentado, a lo largo de ambas orillas del canal) es la alternativa llana del centro.",
+          "descriptionPt": "O circuito canino classico de Bristol liga Clifton Down (terra comunitaria completamente sem trela, 60 ha acima do gorge) pela passadeira da Clifton Suspension Bridge ate Leigh Woods (National Trust, 65 ha de floresta mista, sem trela na maioria dos trilhos). O circuito do Bristol Harbour (3,5 km, pavimentado, ao longo de ambas as margens do canal) e a alternativa plana do centro da cidade."
+        }
+      ],
       "tipsEn": [
-        "Post-Brexit: pets entering the UK from the EU need an Animal Health Certificate (AHC, valid 10 days, costs €100-150 from your home vet) plus tapeworm treatment given by a vet between 24 hours and 5 days before arrival.",
-        "Cross-Channel options: Le Shuttle (Eurotunnel by car, 35 min, £22 pet supplement) or ferries (P&O, DFDS, Brittany Ferries, pet in vehicle). Eurostar does NOT accept pets.",
-        "Bristol PSPO leash zones: marked sports pitches, marked playgrounds, and 9 specific dog-banned cemeteries (full list bristol.gov.uk/dog-control).",
-        "The National Trust and English Heritage sites (Tyntesfield Estate, Stourhead Garden) accept leashed dogs, a great resource for day trips from Bristol.",
-        "If your dog is microchipped to an EU registry, double-check the chip number reads cleanly on a UK scanner, some pre-2018 chips cause issues at UK customs."
+        "Clifton Village pubs (The Clifton, The Portcullis, The Eldon House) are all genuinely dog-welcoming indoor year-round. Stokes Croft and Montpelier add a second cluster of dog-friendly independent bars.",
+        "Ashton Court Estate (south of the Suspension Bridge, free parking) has 850 acres of deer park and woodland. Keep dogs on a lead near the deer paddock, fully off-leash everywhere else.",
+        "Bristol's weather is wetter than most English cities. Always pack a towel and waterproof. Leigh Woods trails drain well but the Avon Gorge path below can flood after heavy rain."
       ],
       "tipsFr": [
-        "Post-Brexit : les animaux entrant au UK depuis l'UE nécessitent un Animal Health Certificate (AHC, valable 10 jours, coûte 100-150 € chez votre véto) plus traitement contre l'échinococcose administré par un vétérinaire entre 24h et 5 jours avant l'arrivée.",
-        "Options transmanche : Le Shuttle (Eurotunnel en voiture, 35 min, 22 £ de supplément animal) ou ferries (P&O, DFDS, Brittany Ferries, animal dans le véhicule). L'Eurostar N'ACCEPTE PAS les animaux.",
-        "Zones PSPO laisse à Bristol : terrains de sport signalés, aires de jeux signalées et 9 cimetières interdits aux chiens (liste complète bristol.gov.uk/dog-control).",
-        "Les sites National Trust et English Heritage (Tyntesfield Estate, Stourhead Garden) acceptent les chiens en laisse, excellente ressource pour les escapades d'une journée.",
-        "Si votre chien est pucé sur un registre UE, double-checkez que le numéro de puce se lise proprement sur un scanner UK, certaines puces pré-2018 posent problème aux douanes UK."
+        "Les pubs du Clifton Village (The Clifton, The Portcullis, The Eldon House) accueillent tous vraiment les chiens en interieur toute l'annee. Stokes Croft et Montpelier ajoutent un second groupe de bars independants dog-friendly.",
+        "L'Ashton Court Estate (au sud du Suspension Bridge, parking gratuit) a 850 acres de parc a cerfs et foret. Gardez les chiens en laisse pres du paddock des cerfs, entierement sans laisse partout ailleurs.",
+        "Le temps a Bristol est plus humide que dans la plupart des villes anglaises. Apportez toujours une serviette et un impermeable. Les sentiers de Leigh Woods drainent bien mais le chemin de l'Avon Gorge en dessous peut inonder apres de fortes pluies."
       ],
       "tipsEs": [
-        "Post-Brexit: las mascotas que entran al UK desde la UE necesitan un Animal Health Certificate (AHC, válido 10 días, cuesta 100-150 € en tu veterinario) más tratamiento contra equinococosis administrado por un veterinario entre 24h y 5 días antes de la llegada.",
-        "Opciones transmancha: Le Shuttle (Eurotúnel en coche, 35 min, 22 £ de suplemento) o ferris (P&O, DFDS, Brittany Ferries, mascota en el vehículo). El Eurostar NO admite mascotas.",
-        "Zonas PSPO de correa en Bristol: campos deportivos señalados, áreas de juegos señaladas, y 9 cementerios prohibidos a perros (lista completa bristol.gov.uk/dog-control).",
-        "Los sitios del National Trust y English Heritage (Tyntesfield Estate, Stourhead Garden) admiten perros con correa, excelente recurso para excursiones de un día.",
-        "Si tu perro está microchipado en un registro UE, verifica que el número del chip se lea limpio en un escáner UK, algunos chips pre-2018 dan problemas en aduanas UK."
+        "Los pubs de Clifton Village (The Clifton, The Portcullis, The Eldon House) acogen genuinamente a los perros en interior todo el ano. Stokes Croft y Montpelier anade un segundo grupo de bares independientes dog-friendly.",
+        "El Ashton Court Estate (al sur del Suspension Bridge, aparcamiento gratis) tiene 850 acres de parque de ciervos y bosque. Mantén a los perros con correa cerca del cercado de los ciervos, completamente sin correa en el resto.",
+        "El tiempo en Bristol es mas humedo que en la mayoria de ciudades inglesas. Lleva siempre una toalla y chubasquero. Los senderos de Leigh Woods drenan bien pero el camino del Avon Gorge puede inundarse tras lluvias intensas."
+      ],
+      "tipsPt": [
+        "Os pubs de Clifton Village (The Clifton, The Portcullis, The Eldon House) acolhem genuinamente caes no interior durante todo o ano. Stokes Croft e Montpelier acrescentam um segundo conjunto de bares independentes dog-friendly.",
+        "O Ashton Court Estate (a sul da Suspension Bridge, estacionamento gratuito) tem 850 acres de parque de veados e floresta. Mantenha os caes com trela perto do cercado dos veados, completamente sem trela em todo o resto.",
+        "O tempo em Bristol e mais humido do que na maioria das cidades inglesas. Traga sempre uma toalha e impermeavel. Os trilhos de Leigh Woods drenam bem mas o caminho do Avon Gorge pode inundar apos chuvas intensas."
       ],
       "faqsEn": [
         {
-          "q": "Is Bristol a good city to visit with a dog?",
-          "a": "Yes, one of the most dog-friendly UK cities. 70%+ of pubs accept dogs, vast off-leash parks, free public transport for dogs, and 24/7 emergency vet. Great base for the South West (Cotswolds, Wales, Somerset)."
+          "q": "Is Bristol good for a dog-friendly weekend break?",
+          "a": "Yes. Clifton Down, Leigh Woods, Ashton Court and the Bristol Harbour circuit give excellent variety, pubs in Clifton and Stokes Croft are genuinely dog-welcoming, and GWR trains from London Paddington take 1h45. Avoid August festival weekends if your dog dislikes crowds."
         },
         {
-          "q": "Do I need any UK-specific documentation for my dog?",
-          "a": "Yes. EU residents: Animal Health Certificate (AHC) issued by an EU vet within 10 days of arrival, plus tapeworm treatment. UK residents returning: pet passport works for re-entry to the EU but check current rules."
-        },
-        {
-          "q": "Are there any breed restrictions in the UK?",
-          "a": "Yes. The UK Dangerous Dogs Act bans Pit Bull Terrier, Japanese Tosa, Dogo Argentino, Fila Brasileiro, and (since Feb 2024) the XL Bully. These cannot enter the UK at all. Other breeds welcome."
+          "q": "Can I take a dog to Ashton Court Estate?",
+          "a": "Yes. Ashton Court Estate is freely accessible and dogs are welcome off-lead throughout except near the deer enclosure (clearly signed). Free car parking on the estate. The mansion terrace cafe admits dogs at outdoor tables."
         }
       ],
       "faqsFr": [
         {
-          "q": "Bristol est-elle une bonne ville à visiter avec un chien ?",
-          "a": "Oui, l'une des villes UK les plus dog-friendly. 70%+ des pubs acceptent les chiens, vastes parcs sans laisse, transports publics gratuits pour chiens et urgences vétérinaires 24h/24. Excellente base pour le sud-ouest (Cotswolds, Pays de Galles, Somerset)."
+          "q": "Bristol est-elle bonne pour un week-end dog-friendly ?",
+          "a": "Oui. Clifton Down, Leigh Woods, Ashton Court et le Bristol Harbour circuit offrent une excellente variete, les pubs de Clifton et Stokes Croft accueillent vraiment les chiens, et les trains GWR depuis London Paddington prennent 1h45. Evitez les week-ends de festival en aout si votre chien n'aime pas les foules."
         },
         {
-          "q": "Des documents UK spécifiques sont-ils requis pour mon chien ?",
-          "a": "Oui. Résidents UE : Animal Health Certificate (AHC) délivré par un vétérinaire UE dans les 10 jours avant l'arrivée, plus traitement contre l'échinococcose. Résidents UK rentrant : le passeport européen fonctionne pour rentrer dans l'UE mais vérifiez les règles actuelles."
-        },
-        {
-          "q": "Y a-t-il des restrictions de race au UK ?",
-          "a": "Oui. Le UK Dangerous Dogs Act interdit Pit Bull Terrier, Japanese Tosa, Dogo Argentino, Fila Brasileiro, et (depuis février 2024) le XL Bully. Ces races ne peuvent pas entrer au UK du tout. Les autres races sont bienvenues."
+          "q": "Puis-je emmener un chien a Ashton Court Estate ?",
+          "a": "Oui. Ashton Court Estate est librement accessible et les chiens sont bienvenus sans laisse partout sauf pres de l'enclos a cerfs (clairement indique). Parking gratuit sur le domaine. Le cafe de la terrasse du manoir admet les chiens aux tables exterieures."
         }
       ],
       "faqsEs": [
         {
-          "q": "¿Es Bristol una buena ciudad para visitar con perro?",
-          "a": "Sí, una de las ciudades UK más dog-friendly. Más del 70 % de los pubs admite perros, vastos parques sin correa, transporte público gratis para perros y urgencias veterinarias 24/7. Excelente base para el suroeste (Cotswolds, Gales, Somerset)."
+          "q": "¿Bristol es buena para una escapada dog-friendly de fin de semana?",
+          "a": "Si. Clifton Down, Leigh Woods, Ashton Court y el Bristol Harbour circuit ofrecen excelente variedad, los pubs de Clifton y Stokes Croft acogen genuinamente a los perros, y los trenes GWR desde London Paddington tardan 1h45. Evita los fines de semana de festival en agosto si tu perro no soporta las multitudes."
         },
         {
-          "q": "¿Necesito documentación UK específica para mi perro?",
-          "a": "Sí. Residentes UE: Animal Health Certificate (AHC) emitido por un veterinario UE en los 10 días anteriores a la llegada, más tratamiento contra equinococosis. Residentes UK que regresan: el pasaporte europeo funciona para volver a la UE pero verifica las normas actuales."
-        },
-        {
-          "q": "¿Hay restricciones de raza en UK?",
-          "a": "Sí. La UK Dangerous Dogs Act prohíbe Pit Bull Terrier, Japanese Tosa, Dogo Argentino, Fila Brasileiro y (desde febrero 2024) el XL Bully. Estas razas no pueden entrar al UK en absoluto. Otras razas son bienvenidas."
+          "q": "¿Puedo llevar un perro al Ashton Court Estate?",
+          "a": "Si. Ashton Court Estate es de acceso libre y los perros son bienvenidos sin correa en todo el recinto excepto cerca del cercado de ciervos (claramente senalizado). Aparcamiento gratuito en el recinto. El cafe de la terraza del palacete admite perros en las mesas exteriores."
         }
-      ],
-      "titlePt": "Dicas essenciais de viagem com animais para Bristol",
-      "introPt": "Bristol é uma das cidades mais acolhedoras para animais do Reino Unido, mas a papelada pós-Brexit e algumas regras específicas da cidade tropeçam os visitantes europeus. O essencial: Animal Health Certificate (e não passaporte de animal da UE) para entrar no Reino Unido, tratamento obrigatório contra a ténia antes da travessia, e atenção às zonas de trela PSPO nos parques centrais de Bristol.",
-      "tipsPt": [
-        "Após o Brexit: os animais que entram no Reino Unido a partir da UE precisam de um Animal Health Certificate (AHC, válido 10 dias, custa 100 a 150 EUR no seu veterinário de origem), além de tratamento contra a ténia administrado por um veterinário entre 24 horas e 5 dias antes da chegada.",
-        "Opções de travessia do Canal da Mancha: Le Shuttle (Eurotunnel de carro, 35 min, suplemento de 22 libras por animal) ou ferries (P&O, DFDS, Brittany Ferries, animal no veículo). O Eurostar NÃO aceita animais.",
-        "Zonas de trela PSPO de Bristol: campos desportivos sinalizados, áreas de jogos sinalizadas e 9 cemitérios específicos com cães proibidos (lista completa em bristol.gov.uk/dog-control).",
-        "Os locais da National Trust e da English Heritage (propriedade de Tyntesfield, Stourhead Garden) aceitam cães com trela, um ótimo recurso para excursões de um dia a partir de Bristol.",
-        "Se o seu cão tiver microchip registado num registo da UE, confirme que o número do chip é lido sem problemas num leitor do Reino Unido, pois alguns chips anteriores a 2018 causam problemas na alfândega britânica."
       ],
       "faqsPt": [
         {
-          "q": "Bristol é uma boa cidade para visitar com um cão?",
-          "a": "Sim, uma das cidades mais acolhedoras para cães do Reino Unido. Mais de 70% dos pubs aceitam cães, vastos parques sem trela, transportes públicos gratuitos para cães e veterinário de urgência 24/7. Uma ótima base para o sudoeste (Cotswolds, País de Gales, Somerset)."
+          "q": "Bristol e boa para uma escapada de fim de semana com cao?",
+          "a": "Sim. Clifton Down, Leigh Woods, Ashton Court e o Bristol Harbour circuit oferecem excelente variedade, os pubs em Clifton e Stokes Croft acolhem genuinamente caes, e os comboios GWR de London Paddington demoram 1h45. Evite os fins de semana de festival em agosto se o seu cao nao gosta de multidoes."
         },
         {
-          "q": "Preciso de alguma documentação específica do Reino Unido para o meu cão?",
-          "a": "Sim. Residentes na UE: Animal Health Certificate (AHC) emitido por um veterinário da UE nos 10 dias anteriores à chegada, além de tratamento contra a ténia. Residentes no Reino Unido em regresso: o passaporte de animal serve para a reentrada na UE, mas confirme as regras em vigor."
-        },
-        {
-          "q": "Há restrições de raças no Reino Unido?",
-          "a": "Sim. O Dangerous Dogs Act do Reino Unido proíbe o Pit Bull Terrier, o Tosa Japonês, o Dogo Argentino, o Fila Brasileiro e (desde fevereiro de 2024) o XL Bully. Estes não podem entrar de todo no Reino Unido. As restantes raças são bem-vindas."
+          "q": "Posso levar um cao ao Ashton Court Estate?",
+          "a": "Sim. O Ashton Court Estate e de acesso livre e os caes sao bem-vindos sem trela em todo o recinto exceto perto do cercado dos veados (claramente sinalizado). Estacionamento gratuito no recinto. O cafe da esplanada da mansao admite caes nas mesas exteriores."
         }
       ]
     },
@@ -1021,6 +1021,21 @@
           "descriptionPt": "O maior mercado de cuidadores de animais do Reino Unido, com cuidadores verificados específicos de Bristol para passeios de cães, creche e alojamento em casa. Todas as reservas incluem uma cobertura de responsabilidade civil de 1 milhão de libras e atualizações diárias com fotografias. Tarifas médias: 15 a 25 libras/passeio, 25 a 40 libras/dia de alojamento.",
           "petPolicyPt": "Cuidadores verificados, seguro incluído",
           "servicesPt": "Passeio de cães, creche, alojamento em casa"
+        },
+        {
+          "name": "Rover.com Bristol",
+          "languages": [
+            "English"
+          ],
+          "description": "Largest UK pet-sitting platform with 80 verified sitters within 5 km of Bristol city centre. Services include doggy day-care, drop-in visits and overnight boarding. All sitters are vetted and rated, insurance included, average rate 18-28 GBP per day. Coverage is strong in Clifton, Redland and Southville.",
+          "descriptionFr": "Plus grande plateforme britannique de pet-sitting avec 80 sitters verifies dans un rayon de 5 km du centre de Bristol. Services inclus : garderie de jour, visites a domicile et hebergement de nuit. Tous les sitters sont verifies, assurance incluse, tarif moyen 18-28 GBP/jour. Forte couverture dans Clifton, Redland and Southville.",
+          "descriptionEs": "La mayor plataforma britanica de pet-sitting con 80 cuidadores verificados en un radio de 5 km del centro de Bristol. Servicios: guarderia diurna, visitas a domicilio y alojamiento nocturno. Todos los cuidadores verificados, seguro incluido, tarifa media 18-28 GBP/dia. Fuerte cobertura en Clifton, Redland and Southville.",
+          "descriptionPt": "A maior plataforma de cuidado de animais do Reino Unido com 80 cuidadores verificados num raio de 5 km do centro de Bristol. Servicos: creche diurna, visitas pontuais e alojamento noturno. Todos os cuidadores verificados, seguro incluido, tarifa media 18-28 GBP por dia. Forte cobertura em Clifton, Redland and Southville.",
+          "website": "https://www.rover.com/uk/search/?location=Bristol",
+          "tip": "Book 48 hours ahead on weekends and public holidays. Bristol sitters fill quickly in summer.",
+          "tipFr": "Reservez 48h a l'avance les week-ends et jours feries. Les sitters de Bristol se remplissent vite en ete.",
+          "tipEs": "Reserva 48h antes los fines de semana y festivos. Los cuidadores de Bristol se llenan rapido en verano.",
+          "tipPt": "Reserve com 48h de antecedencia aos fins de semana e feriados. Os cuidadores de Bristol enchem depressa no verao."
         }
       ],
       "tipsEn": [

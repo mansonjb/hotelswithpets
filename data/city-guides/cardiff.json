@@ -3,7 +3,7 @@
   "name": "Cardiff",
   "country": "Wales",
   "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
-  "lastUpdated": "2026-05-17",
+  "lastUpdated": "2026-06-28",
   "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Cardiff",
@@ -209,6 +209,44 @@
           "descriptionPt": "Até dois cães viajam grátis com cada passageiro pagante em todos os serviços da Transport for Wales, incluindo as Valley Lines e a City Line, que faz o circuito dos subúrbios. Os cães têm de andar com trela ou ir numa transportadora (máx. 85x60x60 cm) desde a entrada na estação até à saída, e não podem ocupar lugares sentados. Os cães-guia e de assistência circulam sem restrições em qualquer serviço, a qualquer hora.",
           "petPolicyPt": "Até 2 cães grátis por passageiro pagante, com trela ou em transportadora (máx. 85x60x60 cm), sem patas nos lugares sentados. Os autocarros de substituição ferroviária NÃO aceitam cães de companhia (apenas cães de assistência)",
           "tipPt": "Apanhe a City Line de Cardiff Central até Radyr se quiser um circuito panorâmico de 20 minutos sem mudar de comboio, uma forma descontraída de habituar um cão nervoso aos comboios britânicos"
+        },
+        {
+          "name": "Cardiff Bus (Cardiff City)",
+          "type": "City buses",
+          "photo": "/images/city-places/cardiff-transport-cardiff-bus.jpg",
+          "website": "https://www.cardiffbus.com/",
+          "description": "Cardiff Bus operates city and suburban routes across Cardiff and the Vale of Glamorgan. Leashed dogs travel free at the driver's discretion on all Cardiff Bus services. The Baycar route 6 (city centre to Cardiff Bay) and route 9 (Roath to Pontcanna) are the most useful for dog-friendly destinations. Cardiff's Arriva network and other operators follow similar dog-friendly policies.",
+          "descriptionFr": "Cardiff Bus exploite les lignes urbaines et suburbaines de Cardiff et du Vale of Glamorgan. Les chiens en laisse voyagent gratuitement a la discretion du chauffeur sur tous les services Cardiff Bus. L'itineraire Baycar 6 (centre-ville vers Cardiff Bay) et le 9 (Roath vers Pontcanna) sont les plus utiles pour les destinations dog-friendly. Le reseau Arriva de Cardiff et d'autres operateurs suivent des politiques similaires.",
+          "descriptionEs": "Cardiff Bus opera rutas urbanas y suburbanas por Cardiff y Vale of Glamorgan. Los perros con correa viajan gratis a discrecion del conductor. La ruta Baycar 6 (centro a Cardiff Bay) y la 9 (Roath a Pontcanna) son las mas utiles para destinos dog-friendly. La red Arriva de Cardiff sigue politicas similares.",
+          "descriptionPt": "A Cardiff Bus opera rotas urbanas e suburbanas por Cardiff e Vale of Glamorgan. Os caes com trela viajam gratuitamente ao criterio do motorista. A rota Baycar 6 (centro para Cardiff Bay) e a rota 9 (Roath para Pontcanna) sao as mais uteis para destinos dog-friendly. A rede Arriva de Cardiff segue politicas semelhantes.",
+          "petPolicy": "Dogs free at driver's discretion, lead required",
+          "petPolicyFr": "Chiens gratuits a discretion du chauffeur, laisse requise",
+          "petPolicyEs": "Perros gratis a discrecion del conductor, correa requerida",
+          "petPolicyPt": "Caes gratuitamente ao criterio do motorista, trela obrigatoria",
+          "tip": "The Baycar 6 to Cardiff Bay runs every 10 minutes from the city centre. Alight at Mermaid Quay for the bay barrage walk and Roath Basin.",
+          "tipFr": "Le Baycar 6 vers Cardiff Bay circule toutes les 10 minutes depuis le centre. Descendez a Mermaid Quay pour la promenade du barrage et du bassin de Roath.",
+          "tipEs": "El Baycar 6 a Cardiff Bay circula cada 10 minutos desde el centro. Baja en Mermaid Quay para el paseo del barrage y la cuenca de Roath.",
+          "tipPt": "O Baycar 6 para Cardiff Bay circula a cada 10 minutos a partir do centro. Desembarque em Mermaid Quay para o passeio da barrage e da bacia de Roath.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cardiff+Bus+Station"
+        },
+        {
+          "name": "Cardiff Bay Barrage Walk & Cycle Path",
+          "type": "Walking and cycling route",
+          "photo": "/images/city-places/cardiff-transport-bay-barrage.jpg",
+          "website": "https://cadw.gov.wales/",
+          "description": "The Cardiff Bay Barrage (1.1 km long, completed 1999) connects Penarth to Cardiff Bay across the freshwater lake. A dedicated walking and cycling path runs the full length, fully dog-friendly and off-lead. The 8-km circuit around Cardiff Bay (Barrage to Mermaid Quay to Roath Basin, paved, flat, waterside) is the best urban dog walk in Cardiff for visitors without a car.",
+          "descriptionFr": "Le barrage de Cardiff Bay (1,1 km, acheve en 1999) relie Penarth a Cardiff Bay de l'autre cote du lac d'eau douce. Un chemin dedie pour piétons et cyclistes parcourt toute la longueur, entierement dog-friendly et sans laisse. Le circuit de 8 km autour de Cardiff Bay (Barrage vers Mermaid Quay vers Roath Basin, pave, plat, au bord de l'eau) est la meilleure promenade canine urbaine de Cardiff pour les visiteurs sans voiture.",
+          "descriptionEs": "El barrage de Cardiff Bay (1,1 km, completado en 1999) conecta Penarth con Cardiff Bay sobre el lago de agua dulce. Un camino dedicado para peatones y ciclistas recorre toda la longitud, completamente dog-friendly y sin correa. El circuito de 8 km alrededor de Cardiff Bay (Barrage hacia Mermaid Quay hacia Roath Basin, pavimentado, llano, a orillas del agua) es el mejor paseo canino urbano de Cardiff para visitantes sin coche.",
+          "descriptionPt": "A barrage de Cardiff Bay (1,1 km, concluida em 1999) liga Penarth a Cardiff Bay atraves do lago de agua doce. Um caminho dedicado a peoes e ciclistas percorre toda a extensao, completamente dog-friendly e sem trela. O circuito de 8 km em volta de Cardiff Bay (Barrage para Mermaid Quay para Roath Basin, pavimentado, plano, a beira de agua) e a melhor caminhada canina urbana de Cardiff para visitantes sem carro.",
+          "petPolicy": "Dogs fully welcome, off-lead permitted on the barrage and bay circuit",
+          "petPolicyFr": "Chiens entierement bienvenus, sans laisse autorises sur le barrage et le circuit de la baie",
+          "petPolicyEs": "Perros totalmente bienvenidos, sin correa permitido en el barrage y el circuito de la bahia",
+          "petPolicyPt": "Caes totalmente bem-vindos, sem trela permitido na barrage e no circuito da baia",
+          "tip": "Start at Mermaid Quay (Bay bus stop), walk the barrage to Penarth, take the waterfront path back for a 5 km loop. Finish at the Cardiff Bay Visitor Centre cafe (dogs welcome outside).",
+          "tipFr": "Commencez a Mermaid Quay (arret bus Bay), marchez sur le barrage jusqu'a Penarth, prenez le chemin du front de mer pour revenir pour une boucle de 5 km. Terminez au cafe du Cardiff Bay Visitor Centre (chiens bienvenus a l'exterieur).",
+          "tipEs": "Empieza en Mermaid Quay (parada bus Bay), camina por el barrage hasta Penarth, toma el camino del frente maritimo de regreso para un recorrido de 5 km. Termina en el cafe del Cardiff Bay Visitor Centre (perros bienvenidos en el exterior).",
+          "tipPt": "Comece em Mermaid Quay (paragem do autocarro Bay), caminhe pela barrage ate Penarth, tome o caminho da frente maritima de volta para um circuito de 5 km. Termine no cafe do Cardiff Bay Visitor Centre (caes bem-vindos no exterior).",
+          "googleMapsUrl": "https://maps.google.com/?q=Cardiff+Bay+Barrage"
         }
       ],
       "titlePt": "Transporte pet-friendly em Cardiff",
@@ -365,89 +403,97 @@
       "introPt": "A cobertura veterinária de Cardiff é dominada pela Valley Vets, que opera o seu próprio hospital 24/7 em Tongwynlais, na orla norte da cidade, e pela rede Vets4Pets, com clínicas em Cardiff Bay, Ely e Newport Road. A maioria das clínicas diurnas locais encaminha as urgências noturnas para a Valley Vets, por isso guarde o número de Tongwynlais no telemóvel antes de chegar, não vai ter de navegar uma cadeia de encaminhamentos às 3 da manhã."
     },
     "tips": {
-      "titleEn": "Pet Travel Tips for Cardiff",
-      "titleFr": "Conseils pratiques pour voyager avec son animal à Cardiff",
-      "titleEs": "Consejos prácticos para viajar con tu mascota a Cardiff",
-      "introEn": "Cardiff is one of the easiest UK capitals for travelling with a dog: a compact walkable centre, a 130-hectare riverside park network ten minutes from the castle, dog-friendly trains to the coast, and a 24/7 reference emergency hospital fifteen minutes north. The main planning point is the post-Brexit border paperwork if you are arriving from the EU. The tips below capture the rules that matter most for a few days' stay.",
-      "introFr": "Cardiff est l'une des capitales britanniques les plus simples pour voyager avec un chien : centre compact et marchable, réseau de parcs de 130 hectares en bord de rivière à dix minutes du château, trains dog-friendly vers la côte et un hôpital d'urgence de référence 24h/24 à quinze minutes au nord. Le principal point à anticiper est la paperasse post-Brexit si vous arrivez depuis l'UE. Les conseils ci-dessous résument les règles qui comptent vraiment pour un séjour de quelques jours.",
-      "introEs": "Cardiff es una de las capitales británicas más fáciles para viajar con perro: centro compacto y caminable, red de parques de 130 hectáreas junto al río a diez minutos del castillo, trenes pet-friendly hacia la costa y un hospital de urgencias de referencia 24/7 a quince minutos al norte. Lo principal a planificar es el papeleo fronterizo post-Brexit si llegas desde la UE. Los consejos siguientes resumen las reglas que de verdad importan para una estancia de pocos días.",
-      "places": [],
+      "titleEn": "Travelling to Cardiff with a Dog: Practical Tips",
+      "titleFr": "Voyager a Cardiff avec un chien : conseils pratiques",
+      "titleEs": "Viajar a Cardiff con perro: consejos practicos",
+      "titlePt": "Viajar para Cardiff com um cao: conselhos praticos",
+      "introEn": "Cardiff is a compact, walkable city with excellent off-leash parks within 10 minutes of the centre. Bute Park, Cardiff Bay and Roath Park form a triangle of dog-friendly green space that covers most visitor needs.",
+      "introFr": "Cardiff est une ville compacte et praticable a pied avec d'excellents parcs sans laisse a 10 minutes du centre. Bute Park, Cardiff Bay et Roath Park forment un triangle d'espaces verts dog-friendly couvrant la plupart des besoins des visiteurs.",
+      "introEs": "Cardiff es una ciudad compacta y caminable con excelentes parques sin correa a 10 minutos del centro. Bute Park, Cardiff Bay y Roath Park forman un triangulo de espacios verdes dog-friendly que cubre la mayoria de las necesidades de los visitantes.",
+      "introPt": "Cardiff e uma cidade compacta e transitavel a pe com excelentes parques sem trela a 10 minutos do centro. Bute Park, Cardiff Bay e Roath Park formam um triangulo de espacos verdes dog-friendly que cobre a maioria das necessidades dos visitantes.",
+      "places": [
+        {
+          "name": "Best season for visiting Cardiff with a dog",
+          "photo": "/images/city-places/cardiff-tips-best-season.jpg",
+          "description": "May to June and September are ideal: 16-19 C highs, Bute Park is lush, and the city is less crowded than July-August. Avoid the Autumn internationals (October-November rugby weekends at the Principality Stadium) and the Cardiff International Food and Drink Festival (July) when the city centre fills and parking disappears. January to March is quiet, the Bay is excellent, and hotel prices drop significantly.",
+          "descriptionFr": "Mai a juin et septembre sont ideaux : 16-19 C, Bute Park est luxuriant et la ville est moins bondee qu'en juillet-aout. Evitez les Autumn Internationals (week-ends de rugby en octobre-novembre au Principality Stadium) et le Cardiff International Food and Drink Festival (juillet) quand le centre-ville se remplit. Janvier a mars est calme, la Baie est excellente et les prix des hotels baissent significativement.",
+          "descriptionEs": "Mayo a junio y septiembre son ideales: 16-19 C, Bute Park esta exuberante y la ciudad esta menos llena que en julio-agosto. Evita los Autumn Internationals (fines de semana de rugby octubre-noviembre en el Principality Stadium) y el Cardiff International Food and Drink Festival (julio) cuando el centro se llena. Enero a marzo esta tranquilo, la Bahia es excelente y los precios de hotel bajan significativamente.",
+          "descriptionPt": "De maio a junho e setembro sao ideais: 16-19 C, Bute Park esta exuberante e a cidade esta menos cheia do que em julho-agosto. Evite os Autumn Internationals (fins de semana de rugby outubro-novembro no Principality Stadium) e o Cardiff International Food and Drink Festival (julho) quando o centro fica cheio. Janeiro a marco esta tranquilo, a Baia e excelente e os precos dos hoteis baixam significativamente."
+        },
+        {
+          "name": "UK pet-import paperwork (2026)",
+          "description": "From the EU: ISO microchip, valid rabies vaccination (21 days min) and a GB Animal Health Certificate (AHC) from an EU official vet within 10 days of arrival. Valid 4 months for return. Tapeworm treatment only for Ireland, Finland, Malta or Norway.",
+          "descriptionFr": "De l'UE: puce ISO, vaccin antirabique (21 jours min) et AHC par OV de l'UE dans les 10 jours. 4 mois pour retour. Antitenias seulement Irlande, Finlande, Malte, Norvege.",
+          "descriptionEs": "De la UE: microchip ISO, vacuna antirrábica (21 dias min) y AHC por OV de la UE en 10 dias. 4 meses retorno. Antitenia solo Irlanda, Finlandia, Malta, Noruega.",
+          "descriptionPt": "Da UE: microchip ISO, vacinacao antirabica (21 dias min) e AHC por OV da UE nos 10 dias. 4 meses para regresso. Anti-tenia so Irlanda, Finlandia, Malta, Noruega."
+        },
+        {
+          "name": "Walking Cardiff with a dog",
+          "photo": "/images/city-places/cardiff-tips-walking-with-a-dog.jpg",
+          "description": "The best Cardiff dog circuit runs from Bute Park (43 acres of off-leash parkland beside the castle, River Taff walking path) south to Cardiff Bay (bay circuit, barrage, 8 km flat waterfront loop). Roath Park (30 acres, lake, dogs off-leash on grass, 2 km east of centre) is the neighbourhood park alternative. For a longer day, Cefn Onn Country Park (6 km north, 70 acres of woodland, fully off-leash) is accessible by Arriva buses from the city centre.",
+          "descriptionFr": "Le meilleur circuit canin de Cardiff part de Bute Park (17 ha de parc sans laisse pres du chateau, chemin de la riviere Taff) vers le sud jusqu'a Cardiff Bay (circuit de la baie, barrage, boucle cotiere plate de 8 km). Roath Park (12 ha, lac, chiens sans laisse sur gazon, 2 km a l'est du centre) est l'alternative de quartier. Pour une journee plus longue, Cefn Onn Country Park (6 km au nord, 28 ha de foret, entierement sans laisse) est accessible par bus Arriva depuis le centre.",
+          "descriptionEs": "El mejor circuito canino de Cardiff va desde Bute Park (17 ha de parque sin correa junto al castillo, camino del rio Taff) hacia el sur hasta Cardiff Bay (circuito de la bahia, barrage, bucle costero llano de 8 km). Roath Park (12 ha, lago, perros sin correa en cesped, 2 km al este del centro) es la alternativa de barrio. Para un dia mas largo, Cefn Onn Country Park (6 km al norte, 28 ha de bosque, completamente sin correa) es accesible en autobus Arriva desde el centro.",
+          "descriptionPt": "O melhor circuito canino de Cardiff parte de Bute Park (17 ha de parque sem trela junto ao castelo, caminho do rio Taff) a sul ate Cardiff Bay (circuito da baia, barrage, percurso costeiro plano de 8 km). Roath Park (12 ha, lago, caes sem trela na relva, 2 km a leste do centro) e a alternativa de bairro. Para um dia mais longo, Cefn Onn Country Park (6 km a norte, 28 ha de floresta, completamente sem trela) e acessivel de autocarro Arriva a partir do centro."
+        }
+      ],
       "tipsEn": [
-        "Post-Brexit, EU pet passports are no longer accepted on entry to the UK. You need an Animal Health Certificate (AHC) issued by an EU vet within 10 days of travel, plus a microchip and rabies vaccination at least 21 days old. Dogs also need tapeworm treatment 24 to 120 hours before arrival.",
-        "Save the Valley Vets 24/7 emergency number +44 29 2000 1454 in your phone before arrival. It routes to the reference hospital in Tongwynlais and most local daytime practices outsource overnight emergencies there.",
-        "Plan beach time around the Vale of Glamorgan PSPO. From 1 May to 30 September, dogs are banned from Whitmore Bay (Barry Island), Penarth between the Pier and Yacht Club, and Southerndown. Penarth north of the Pier, Jacksons Bay and Sully Island stay open year-round."
+        "Cardiff Castle and the National Museum of Wales do not admit dogs except assistance dogs. Plan a pet-sitting slot for these; the National Museum is free and takes 1.5 to 2 hours.",
+        "Pontcanna Fields (adjacent to Bute Park, north of the centre) is Cardiff's primary off-leash dog-walking area: 20+ acres of meadow, popular with locals, no formal restrictions.",
+        "Cardiff's high street and arcades (the Royal Arcade, Morgan Arcade, Principality Arcade) are historic Victorian shopping arcades where small leashed dogs are generally admitted at shopkeeper discretion."
       ],
       "tipsFr": [
-        "Depuis le Brexit, les passeports européens pour animaux ne sont plus acceptés à l'entrée du Royaume-Uni. Il faut un Animal Health Certificate (AHC) délivré par un vétérinaire européen dans les 10 jours précédant le voyage, ainsi que la puce électronique et la vaccination antirabique âgée d'au moins 21 jours. Les chiens doivent également recevoir un traitement contre les ténias 24 à 120 heures avant l'arrivée.",
-        "Enregistrez le numéro d'urgence Valley Vets 24h/24 +44 29 2000 1454 sur votre téléphone avant l'arrivée. Il redirige vers l'hôpital de référence de Tongwynlais, vers lequel la plupart des cabinets de jour renvoient leurs urgences de nuit.",
-        "Planifiez la plage selon l'arrêté du Vale of Glamorgan. Du 1er mai au 30 septembre, les chiens sont interdits à Whitmore Bay (Barry Island), à Penarth entre la jetée et le Yacht Club, et à Southerndown. Penarth au nord de la jetée, Jacksons Bay et Sully Island restent ouverts à l'année."
+        "Le Chateau de Cardiff et le Musee National du Pays de Galles n'admettent pas les chiens sauf d'assistance. Prevoyez un slot de pet-sitting ; le musee est gratuit et prend 1,5 a 2 heures.",
+        "Pontcanna Fields (adjacent a Bute Park, au nord du centre) est la principale zone de promenade sans laisse de Cardiff : plus de 8 ha de prairie, populaire chez les locaux, aucune restriction formelle.",
+        "Les arcades historiques de Cardiff (Royal Arcade, Morgan Arcade, Principality Arcade) sont des galeries marchandes victoriennes ou les petits chiens en laisse sont generalement admis a la discretion des commercants."
       ],
       "tipsEs": [
-        "Tras el Brexit, los pasaportes europeos para mascotas ya no se aceptan a la entrada del Reino Unido. Necesitas un Animal Health Certificate (AHC) emitido por un veterinario de la UE en los 10 días previos al viaje, además de microchip y vacunación antirrábica de al menos 21 días. Los perros también necesitan tratamiento contra ténidos 24 a 120 horas antes de la llegada.",
-        "Guarda el número de urgencias Valley Vets 24/7 +44 29 2000 1454 en el móvil antes de llegar. Deriva al hospital de referencia de Tongwynlais, al que la mayoría de las clínicas diurnas envían sus urgencias nocturnas.",
-        "Planifica la playa según la ordenanza del Vale of Glamorgan. Del 1 de mayo al 30 de septiembre, los perros están prohibidos en Whitmore Bay (Barry Island), en Penarth entre el muelle y el Yacht Club, y en Southerndown. Penarth al norte del muelle, Jacksons Bay y Sully Island siguen abiertos todo el año."
+        "El Castillo de Cardiff y el Museo Nacional de Gales no admiten perros excepto de asistencia. Planifica un horario de pet-sitting; el museo es gratuito y tarda 1,5 a 2 horas.",
+        "Pontcanna Fields (adyacente a Bute Park, al norte del centro) es la principal zona de paseo sin correa de Cardiff: mas de 8 ha de pradera, popular entre los locales, sin restricciones formales.",
+        "Las arcadas historicas de Cardiff (Royal Arcade, Morgan Arcade, Principality Arcade) son galerías victorianas donde los perros pequenos con correa suelen ser admitidos a discrecion de los comerciantes."
+      ],
+      "tipsPt": [
+        "O Castelo de Cardiff e o Museu Nacional do Pais de Gales nao admitem caes exceto de assistencia. Planeie uma hora de pet-sitting; o museu e gratuito e demora 1,5 a 2 horas.",
+        "Pontcanna Fields (adjacente ao Bute Park, a norte do centro) e a principal zona de passeio sem trela de Cardiff: mais de 8 ha de pradaria, popular entre os locais, sem restricoes formais.",
+        "As arcadas historicas de Cardiff (Royal Arcade, Morgan Arcade, Principality Arcade) sao galerias vitorianas onde os caes pequenos com trela sao geralmente admitidos ao criterio dos comerciantes."
       ],
       "faqsEn": [
         {
-          "q": "Is Cardiff a good city for travelling with a dog?",
-          "a": "Yes, among the easiest in the UK. The combined Bute Park / Pontcanna Fields system gives you 130 hectares of off-lead grass ten minutes from the castle, Transport for Wales trains carry two dogs free per passenger, and Cardiff Bay barrage to Penarth Pier is the signature dog walk."
+          "q": "Is Cardiff a good city break with a dog?",
+          "a": "Yes. Bute Park gives 43 acres of off-leash parkland beside the castle. Cardiff Bay has an excellent flat waterfront circuit. TfW trains connect from London Paddington in 2h and from Bristol in 50 minutes."
         },
         {
-          "q": "What documents do I need to bring my dog into the UK?",
-          "a": "An Animal Health Certificate (AHC) from an EU vet, issued within 10 days of travel, plus proof of rabies vaccination at least 21 days old and a microchip. UK customs also requires tapeworm treatment 24 to 120 hours before arrival."
-        },
-        {
-          "q": "Can I take my dog inside Cardiff Castle?",
-          "a": "Dogs on a lead are welcomed in the castle grounds and on the wider Bute Park lawns surrounding the keep, but only assistance dogs are admitted inside the Norman keep and the Victorian apartments themselves."
+          "q": "Are dogs allowed in Cardiff Castle grounds?",
+          "a": "No, Cardiff Castle admits only assistance dogs inside its walls. Bute Park, which directly adjoins the castle, is fully dog-friendly and free."
         }
       ],
       "faqsFr": [
         {
-          "q": "Cardiff est-elle une bonne ville pour voyager avec un chien ?",
-          "a": "Oui, parmi les plus simples du Royaume-Uni. L'ensemble Bute Park / Pontcanna Fields offre 130 hectares de pelouses sans laisse à dix minutes du château, les trains Transport for Wales acceptent deux chiens gratuits par passager, et le tronçon barrage de Cardiff Bay vers Penarth Pier est la promenade canine emblématique."
+          "q": "Cardiff est-elle un bon city-break avec un chien ?",
+          "a": "Oui. Bute Park offre 17 ha de parc sans laisse pres du chateau. Cardiff Bay a un excellent circuit côtier plat. Les trains TfW relient depuis London Paddington en 2h et depuis Bristol en 50 min."
         },
         {
-          "q": "Quels documents faut-il pour emmener son chien au Royaume-Uni ?",
-          "a": "Un Animal Health Certificate (AHC) délivré par un vétérinaire européen dans les 10 jours précédant le voyage, la preuve de vaccination antirabique âgée d'au moins 21 jours et la puce électronique. Les douanes britanniques exigent aussi un traitement contre les ténias 24 à 120 heures avant l'arrivée."
-        },
-        {
-          "q": "Puis-je entrer dans le château de Cardiff avec mon chien ?",
-          "a": "Les chiens tenus en laisse sont acceptés dans l'enceinte du château et sur les pelouses étendues de Bute Park autour du donjon, mais seuls les chiens d'assistance sont admis à l'intérieur du donjon normand et des appartements victoriens."
+          "q": "Les chiens sont-ils autorises dans les jardins du Chateau de Cardiff ?",
+          "a": "Non, le Chateau de Cardiff n'admet que les chiens d'assistance a l'interieur de ses murs. Bute Park, qui jouxte directement le chateau, est entierement dog-friendly et gratuit."
         }
       ],
       "faqsEs": [
         {
-          "q": "¿Es Cardiff una buena ciudad para viajar con perro?",
-          "a": "Sí, entre las más fáciles del Reino Unido. El conjunto Bute Park / Pontcanna Fields ofrece 130 hectáreas de césped sin correa a diez minutos del castillo, los trenes de Transport for Wales aceptan dos perros gratis por pasajero, y el tramo del barrage de Cardiff Bay al Penarth Pier es el paseo canino emblemático."
+          "q": "¿Cardiff es un buen city-break con perro?",
+          "a": "Si. Bute Park ofrece 17 ha de parque sin correa junto al castillo. Cardiff Bay tiene un excelente circuito costero llano. Los trenes TfW conectan desde London Paddington en 2h y desde Bristol en 50 min."
         },
         {
-          "q": "¿Qué documentos necesito para llevar a mi perro al Reino Unido?",
-          "a": "Un Animal Health Certificate (AHC) emitido por un veterinario de la UE en los 10 días previos al viaje, la prueba de vacunación antirrábica de al menos 21 días y el microchip. Aduanas británicas también exige tratamiento contra ténidos entre 24 y 120 horas antes de la llegada."
-        },
-        {
-          "q": "¿Puedo entrar con mi perro en el castillo de Cardiff?",
-          "a": "Los perros con correa son bienvenidos en el recinto del castillo y en los céspedes del entorno de Bute Park alrededor del torreón, pero solo se permiten perros de asistencia dentro del torreón normando y los apartamentos victorianos."
+          "q": "¿Se admiten perros en los jardines del Castillo de Cardiff?",
+          "a": "No, el Castillo de Cardiff solo admite perros de asistencia dentro de sus murallas. Bute Park, que colinda directamente con el castillo, es completamente dog-friendly y gratuito."
         }
-      ],
-      "titlePt": "Dicas para viajar com o seu animal para Cardiff",
-      "introPt": "Cardiff é uma das capitais britânicas mais fáceis para viajar com um cão: um centro compacto e percorrível a pé, uma rede de parques de 130 hectares à beira-rio a dez minutos do castelo, comboios pet-friendly até à costa e um hospital de urgência de referência 24/7 a quinze minutos a norte. O principal ponto a planear é a documentação fronteiriça pós-Brexit se chegar a partir da UE. As dicas seguintes resumem as regras que mais importam para uma estadia de poucos dias.",
-      "tipsPt": [
-        "Após o Brexit, os passaportes de animal da UE já não são aceites à entrada no Reino Unido. Precisa de um Animal Health Certificate (AHC) emitido por um veterinário da UE nos 10 dias anteriores à viagem, além de um microchip e de uma vacinação antirrábica com pelo menos 21 dias. Os cães precisam também de tratamento contra a ténia 24 a 120 horas antes da chegada.",
-        "Guarde o número de urgência da Valley Vets 24/7 +44 29 2000 1454 no telemóvel antes de chegar. Encaminha para o hospital de referência de Tongwynlais, para onde a maioria das clínicas diurnas locais envia as urgências noturnas.",
-        "Planeie o tempo de praia em função do PSPO do Vale of Glamorgan. De 1 de maio a 30 de setembro, os cães estão proibidos em Whitmore Bay (Barry Island), em Penarth entre o Pier e o Yacht Club, e em Southerndown. Penarth a norte do Pier, Jacksons Bay e Sully Island continuam abertos todo o ano."
       ],
       "faqsPt": [
         {
-          "q": "Cardiff é uma boa cidade para viajar com um cão?",
-          "a": "Sim, das mais fáceis do Reino Unido. O conjunto Bute Park / Pontcanna Fields dá-lhe 130 hectares de relva sem trela a dez minutos do castelo, os comboios da Transport for Wales transportam dois cães grátis por passageiro, e o troço do barrage de Cardiff Bay até ao Penarth Pier é o passeio canino emblemático."
+          "q": "Cardiff e uma boa escapada com cao?",
+          "a": "Sim. Bute Park oferece 17 ha de parque sem trela junto ao castelo. Cardiff Bay tem um excelente circuito costeiro plano. Os comboios TfW ligam de London Paddington em 2h e de Bristol em 50 minutos."
         },
         {
-          "q": "Que documentos preciso para levar o meu cão para o Reino Unido?",
-          "a": "Um Animal Health Certificate (AHC) de um veterinário da UE, emitido nos 10 dias anteriores à viagem, além da prova de vacinação antirrábica com pelo menos 21 dias e de um microchip. A alfândega britânica exige também tratamento contra a ténia 24 a 120 horas antes da chegada."
-        },
-        {
-          "q": "Posso entrar com o meu cão no castelo de Cardiff?",
-          "a": "Os cães com trela são bem-vindos no recinto do castelo e nos relvados envolventes de Bute Park em redor da torre de menagem, mas só os cães de assistência são admitidos dentro da torre de menagem normanda e dos próprios apartamentos vitorianos."
+          "q": "Os caes sao permitidos nos jardins do Castelo de Cardiff?",
+          "a": "Nao, o Castelo de Cardiff so admite caes de assistencia no interior das suas muralhas. Bute Park, que fica diretamente adjacente ao castelo, e completamente dog-friendly e gratuito."
         }
       ]
     },
@@ -557,6 +603,21 @@
           "descriptionPt": "O líder britânico para estadias curtas e visitas pontuais, com várias centenas de sitters avaliados em Cardiff e uma classificação média de passeio de cães de 4,95 em 5 ao longo de 229 avaliações de donos. Oferece alojamento ao domicílio, creche diurna, visitas pontuais para refeições e passeios de 30 minutos pelo bairro. Reservas e mensagens em inglês, pagamento retido em caução até ao fim da estadia.",
           "servicesPt": "Alojamento ao domicílio, creche diurna, visitas pontuais, passeio de cães",
           "tipPt": "Reserve com pelo menos 48 horas de antecedência no verão; os sitters de Pontcanna e Roath preenchem-se primeiro pela proximidade a Bute Park e a Roath Park."
+        },
+        {
+          "name": "Rover.com Cardiff",
+          "languages": [
+            "English"
+          ],
+          "description": "Largest UK pet-sitting platform with verified sitters throughout Cardiff offering doggy day-care, drop-in visits and overnight boarding. All sitters are background-checked, insurance included, average 17-25 GBP per day. Strong coverage in Pontcanna, Roath and Canton.",
+          "descriptionFr": "Plus grande plateforme de pet-sitting UK avec des sitters verifies dans tout Cardiff. Garderie, visites et hebergement. Sitters controles, assurance incluse, tarif moyen 17-25 GBP/jour. Forte couverture dans Pontcanna, Roath and Canton.",
+          "descriptionEs": "La mayor plataforma de pet-sitting UK con cuidadores en Cardiff. Guarderia, visitas y alojamiento. Verificados, seguro incluido, tarifa media 17-25 GBP/dia. Cobertura en Pontcanna, Roath and Canton.",
+          "descriptionPt": "A maior plataforma de pet-sitting UK com cuidadores verificados em Cardiff. Creche, visitas e alojamento. Verificados, seguro incluido, tarifa media 17-25 GBP por dia. Cobertura em Pontcanna, Roath and Canton.",
+          "website": "https://www.rover.com/uk/search/?location=Cardiff",
+          "tip": "Book 48 hours ahead on summer weekends and bank holidays in Cardiff.",
+          "tipFr": "Reservez 48h a l'avance les week-ends d'ete et jours feries a Cardiff.",
+          "tipEs": "Reserva 48h antes los fines de semana de verano y festivos en Cardiff.",
+          "tipPt": "Reserve 48h antes aos fins de semana de verao e feriados em Cardiff."
         }
       ],
       "titlePt": "Pet-sitting e passeadores de cães em Cardiff",

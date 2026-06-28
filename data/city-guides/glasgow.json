@@ -416,6 +416,44 @@
           "descriptionPt": "A rede de comboios suburbanos da ScotRail é a opção mais pet-friendly de Glasgow: até dois cães grátis por bilhete de adulto em cada comboio. A linha circular do Subway fica limitada a animais pequenos em caixa de transporte. A FirstBus aceita cães com trela bem comportados ao critério do condutor; a McGill's aceita cães grátis na maioria das rotas. Buchanan Street Subway e Glasgow Central são os dois centros de transporte da cidade.",
           "petPolicyPt": "ScotRail: 2 cães grátis por bilhete. Subway: só animais pequenos em caixa de transporte. Autocarros: ao critério do condutor.",
           "tipPt": "A ScotRail é o transporte pet-friendly mais útil: Glasgow Central a Pollokshaws West (Pollok Country Park) em 10 minutos, e Glasgow Queen Street a Edimburgo em 50 minutos com até 2 cães grátis."
+        },
+        {
+          "name": "Caledonian Sleeper (Glasgow Central)",
+          "type": "Overnight intercity rail",
+          "photo": "/images/city-places/glasgow-transport-caledonian-sleeper.jpg",
+          "website": "https://www.sleeper.scot/",
+          "description": "The Caledonian Sleeper runs overnight between Glasgow Central and London Euston (8h30), departing Glasgow around 23:00 and arriving London around 07:30. Dogs are accepted in seated coach carriages only, not in private cabins. Two dogs per seated passenger travel free. The sleeper is the most dog-comfortable intercity option between Scotland and London, avoiding daytime crowding and allowing the dog to sleep across the journey.",
+          "descriptionFr": "Le Caledonian Sleeper circule de nuit entre Glasgow Central et London Euston (8h30), depart Glasgow vers 23h et arrivee a Londres vers 7h30. Les chiens sont acceptes en voitures a sieges uniquement, pas dans les cabines privees. Deux chiens par passager en siège voyagent gratuitement. Le sleeper est l'option intercite la plus confortable pour les chiens entre l'Ecosse et Londres, evitant la foule en journee.",
+          "descriptionEs": "El Caledonian Sleeper circula de noche entre Glasgow Central y London Euston (8h30), salida Glasgow cerca de las 23:00 y llegada a Londres sobre las 07:30. Los perros se admiten solo en vagones de asientos, no en cabinas privadas. Dos perros por pasajero en asiento viajan gratis. El sleeper es la opcion intercity mas comoda para los perros entre Escocia y Londres.",
+          "descriptionPt": "O Caledonian Sleeper circula de noite entre Glasgow Central e London Euston (8h30), partindo de Glasgow por volta das 23:00 e chegando a Londres por volta das 07:30. Os caes sao aceites apenas nas carruagens com lugares, nao nas cabinas privadas. Dois caes por passageiro em lugar viajam gratuitamente. O sleeper e a opcao intercidades mais confortavel para os caes entre a Escocia e Londres.",
+          "petPolicy": "Dogs free in seated coaches, not permitted in cabins",
+          "petPolicyFr": "Chiens gratuits en voitures a sieges, non autorises en cabines",
+          "petPolicyEs": "Perros gratis en vagones de asientos, no permitidos en cabinas",
+          "petPolicyPt": "Caes gratuitos em carruagens com lugares, nao permitidos nas cabinas",
+          "tip": "Book 12 weeks ahead for the cheapest seated sleeper fares (from around 25 GBP). The lounge car accepts dogs and serves food and drinks through the night.",
+          "tipFr": "Reservez 12 semaines a l'avance pour les tarifs de sleeper assis les moins chers (a partir d'environ 25 GBP). Le wagon-salon accepte les chiens et sert nourriture et boissons toute la nuit.",
+          "tipEs": "Reserva 12 semanas antes para las tarifas de sleeper en asiento mas baratas (desde unos 25 GBP). El vagón salon acepta perros y sirve comida y bebidas durante toda la noche.",
+          "tipPt": "Reserve com 12 semanas de antecedencia para as tarifas mais baratas de sleeper com lugar (a partir de cerca de 25 GBP). A carruagem lounge aceita caes e serve comida e bebidas durante a noite.",
+          "googleMapsUrl": "https://maps.google.com/?q=Glasgow+Central+Station"
+        },
+        {
+          "name": "ScotRail Glasgow to Edinburgh (Queen Street)",
+          "type": "Inter-city rail",
+          "photo": "/images/city-places/glasgow-transport-scotrail-edinburgh.jpg",
+          "website": "https://www.scotrail.co.uk/",
+          "description": "ScotRail runs frequent trains between Glasgow Queen Street and Edinburgh Waverley (50 min). Up to two dogs travel free per fare-paying passenger on all ScotRail services, on lead and kept under control. Trains run every 15-30 minutes throughout the day. This is the fastest and most practical option for a Scotland two-city dog trip combining Glasgow and Edinburgh.",
+          "descriptionFr": "ScotRail exploite des trains frequents entre Glasgow Queen Street et Edinburgh Waverley (50 min). Jusqu'a deux chiens voyagent gratuitement par passager payant, en laisse. Les trains circulent toutes les 15-30 minutes tout au long de la journee. C'est l'option la plus rapide et pratique pour un voyage Scotland a deux villes avec un chien combinant Glasgow et Edimbourg.",
+          "descriptionEs": "ScotRail opera trenes frecuentes entre Glasgow Queen Street y Edinburgh Waverley (50 min). Hasta dos perros viajan gratis por pasajero, con correa. Los trenes circulan cada 15-30 minutos a lo largo del dia. Es la opcion mas rapida y practica para un viaje de dos ciudades escocesas con perro combinando Glasgow y Edimburgo.",
+          "descriptionPt": "A ScotRail opera comboios frequentes entre Glasgow Queen Street e Edinburgh Waverley (50 min). Ate dois caes viajam gratuitamente por passageiro, com trela. Os comboios circulam a cada 15-30 minutos ao longo do dia. E a opcao mais rapida e pratica para uma viagem de duas cidades escocesas com cao combinando Glasgow e Edimburgo.",
+          "petPolicy": "Up to 2 dogs free per passenger, on lead at all times",
+          "petPolicyFr": "Jusqu'a 2 chiens gratuits par passager, en laisse en permanence",
+          "petPolicyEs": "Hasta 2 perros gratis por pasajero, con correa en todo momento",
+          "petPolicyPt": "Ate 2 caes gratuitamente por passageiro, com trela em permanencia",
+          "tip": "Peak trains (07:00-09:30 and 16:30-18:30) fill with commuters. Travel off-peak Saturday or Sunday morning for the most comfortable dog journey.",
+          "tipFr": "Les trains de pointe (7h-9h30 et 16h30-18h30) se remplissent de navetteurs. Voyagez hors pointe le samedi ou dimanche matin pour le trajet le plus confortable avec un chien.",
+          "tipEs": "Los trenes punta (07:00-09:30 y 16:30-18:30) se llenan de commuters. Viaja fuera de punta el sabado o domingo por la manana para el viaje mas comodo con un perro.",
+          "tipPt": "Os comboios de ponta (07:00-09:30 e 16:30-18:30) enchem-se de pendulares. Viaje fora de ponta sabado ou domingo de manha para a viagem mais confortavel com um cao.",
+          "googleMapsUrl": "https://maps.google.com/?q=Glasgow+Queen+Street+Station"
         }
       ],
       "tipsEn": [
@@ -1039,6 +1077,21 @@
           "tipEs": "Filtra por West End, Southside o Merchant City: los tres barrios con la mayor concentración de cuidadores acostumbrados a reservas expatriadas de última hora.",
           "descriptionPt": "A plataforma paga de cuidado de cães mais usada do Reino Unido, com centenas de cuidadores verificados em Glasgow que oferecem passeios, visitas pontuais e alojamento noturno. Todas as reservas têm seguro através da plataforma e os passeios incluem localização por GPS. Útil para visitas curtas a museus ou excursões de dia inteiro ao Loch Lomond sem o cão.",
           "tipPt": "Filtre por West End, Southside ou Merchant City: os três bairros com a maior concentração de cuidadores habituados a reservas de expatriados em cima da hora."
+        },
+        {
+          "name": "Rover.com Glasgow",
+          "languages": [
+            "English"
+          ],
+          "description": "Largest UK pet-sitting platform with verified sitters throughout Glasgow offering doggy day-care, drop-in visits and overnight boarding. All sitters background-checked, insurance included, average 17-26 GBP per day. Strong coverage in West End, Shawlands and Dennistoun.",
+          "descriptionFr": "Plus grande plateforme de pet-sitting UK avec des sitters verifies dans tout Glasgow. Garderie, visites et hebergement. Sitters controles, assurance incluse, tarif moyen 17-26 GBP/jour. Forte couverture dans West End, Shawlands and Dennistoun.",
+          "descriptionEs": "La mayor plataforma de pet-sitting UK con cuidadores en Glasgow. Guarderia, visitas y alojamiento. Verificados, seguro incluido, tarifa media 17-26 GBP/dia. Cobertura en West End, Shawlands and Dennistoun.",
+          "descriptionPt": "A maior plataforma de pet-sitting UK com cuidadores em Glasgow. Creche, visitas e alojamento. Verificados, seguro incluido, tarifa media 17-26 GBP por dia. Cobertura em West End, Shawlands and Dennistoun.",
+          "website": "https://www.rover.com/uk/search/?location=Glasgow",
+          "tip": "Book 48 hours ahead on summer weekends and bank holidays in Glasgow.",
+          "tipFr": "Reservez 48h a l'avance les week-ends d'ete et jours feries a Glasgow.",
+          "tipEs": "Reserva 48h antes los fines de semana de verano y festivos en Glasgow.",
+          "tipPt": "Reserve 48h antes aos fins de semana de verao e feriados em Glasgow."
         }
       ],
       "tipsEn": [

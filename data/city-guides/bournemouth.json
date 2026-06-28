@@ -3,7 +3,7 @@
   "name": "Bournemouth",
   "country": "United Kingdom",
   "flag": "🇬🇧",
-  "lastUpdated": "2026-05-23",
+  "lastUpdated": "2026-06-28",
   "guides": {
     "restaurants": {
       "titleEn": "Dog-Friendly Restaurants in Bournemouth",
@@ -944,89 +944,97 @@
       ]
     },
     "tips": {
-      "titleEn": "Pet Travel Tips for Bournemouth",
-      "titleFr": "Conseils pratiques pour voyager avec son animal à Bournemouth",
-      "titleEs": "Consejos prácticos para viajar con tu mascota a Bournemouth",
-      "introEn": "Bournemouth is one of the easiest UK south-coast cities for travelling with a dog, pets travel free on the buses and trains, the seafront has dog-friendly cafés on every cliff approach, and the New Forest National Park starts 30 minutes north. The thing to plan around is the summer beach calendar (1 May–30 September on the central beach) and the post-Brexit Animal Health Certificate paperwork for EU travellers. The tips below cover the few rules that actually matter.",
-      "introFr": "Bournemouth est l'une des villes britanniques de la côte sud les plus simples pour voyager avec un chien, animaux gratuits dans les bus et les trains, cafés dog-friendly à chaque accès falaise sur le front de mer, et le parc national de la New Forest qui commence à 30 minutes au nord. Les points à anticiper sont le calendrier estival des plages (1ᵉʳ mai-30 septembre sur la plage centrale) et la paperasse post-Brexit Animal Health Certificate pour les voyageurs européens. Les conseils ci-dessous couvrent les rares règles qui comptent vraiment.",
-      "introEs": "Bournemouth es una de las ciudades del Reino Unido más sencillas para viajar con perro en la costa sur: mascotas gratis en autobús y tren, cafés dog-friendly en cada acceso de acantilado del paseo marítimo y el parque nacional New Forest empieza a 30 minutos al norte. Lo que hay que planificar es el calendario estival de playa (1 may-30 sep en la playa central) y los papeles post-Brexit Animal Health Certificate para viajeros europeos. Los consejos siguientes cubren las pocas reglas que de verdad importan.",
-      "places": [],
+      "titleEn": "Travelling to Bournemouth with a Dog: Practical Tips",
+      "titleFr": "Voyager a Bournemouth avec un chien : conseils pratiques",
+      "titleEs": "Viajar a Bournemouth con perro: consejos practicos",
+      "titlePt": "Viajar para Bournemouth com um cao: conselhos praticos",
+      "introEn": "Bournemouth has 11 km of sandy beach and some of the warmest sea temperatures in the UK, but dog access on the main beach is restricted May to September. The surrounding heathland and chines give year-round off-leash alternatives.",
+      "introFr": "Bournemouth a 11 km de plage de sable et certaines des temperatures de mer les plus chaudes du Royaume-Uni, mais l'acces des chiens sur la plage principale est restreint de mai a septembre. La lande et les chines environnants offrent des alternatives sans laisse toute l'annee.",
+      "introEs": "Bournemouth tiene 11 km de playa de arena y algunas de las temperaturas de mar mas calidas del Reino Unido, pero el acceso de perros en la playa principal esta restringido de mayo a septiembre. El brena y los chines circundantes ofrecen alternativas sin correa todo el ano.",
+      "introPt": "Bournemouth tem 11 km de praia de areia e algumas das temperaturas do mar mais quentes do Reino Unido, mas o acesso de caes na praia principal esta restrito de maio a setembro. A urze e os chines circundantes oferecem alternativas sem trela durante todo o ano.",
+      "places": [
+        {
+          "name": "Best season for visiting Bournemouth with a dog",
+          "photo": "/images/city-places/bournemouth-tips-best-season.jpg",
+          "description": "October to April is paradoxically the best season if beach access matters: dogs are permitted on all sections of beach outside the summer restriction (May 1 to September 30). Sea temperatures are 10-14 C but the beach is almost empty. May to September remains excellent for the Chines and Hengistbury Head, just not the main beach.",
+          "descriptionFr": "Octobre a avril est paradoxalement la meilleure saison si l'acces a la plage compte : les chiens sont autorises sur toutes les sections de plage en dehors de la restriction estivale (1er mai au 30 septembre). Les temperatures de mer sont de 10-14 C mais la plage est presque vide. Mai a septembre reste excellent pour les Chines et Hengistbury Head, juste pas la plage principale.",
+          "descriptionEs": "Octubre a abril es paradojicamente la mejor temporada si importa el acceso a la playa: los perros estan permitidos en todas las secciones de playa fuera de la restriccion estival (1 mayo al 30 septiembre). Las temperaturas del mar son 10-14 C pero la playa esta casi vacia. Mayo a septiembre sigue siendo excelente para los Chines y Hengistbury Head, simplemente no la playa principal.",
+          "descriptionPt": "De outubro a abril e paradoxalmente a melhor epoca se o acesso a praia for importante: os caes sao permitidos em todas as seccoes de praia fora da restricao estival (1 de maio a 30 de setembro). As temperaturas do mar sao 10-14 C mas a praia fica quase vazia. De maio a setembro continua a ser excelente para os Chines e Hengistbury Head, apenas nao a praia principal."
+        },
+        {
+          "name": "UK pet-import paperwork (2026)",
+          "description": "From the EU you need: ISO microchip, valid rabies vaccination (at least 21 days old, not expired), and a GB Animal Health Certificate (AHC) issued by an EU official vet within 10 days of arrival. The AHC is valid 4 months for onward EU travel and 4 months for return. Tapeworm treatment is required only for return travel to Ireland, Finland, Malta or Norway.",
+          "descriptionFr": "Depuis l'UE il faut : puce ISO, vaccin antirabique valide (au moins 21 jours) et un GB Animal Health Certificate (AHC) delivre par un OV de l'UE dans les 10 jours precedant l'arrivee. L'AHC est valable 4 mois pour le retour. Traitement antitenias uniquement vers l'Irlande, la Finlande, Malte ou la Norvege.",
+          "descriptionEs": "Desde la UE: microchip ISO, vacuna antirrábica vigente (al menos 21 dias) y un GB Animal Health Certificate (AHC) emitido por OV de la UE en los 10 dias previos a la llegada. AHC valido 4 meses para el retorno. Tratamiento de tenia solo para volver a Irlanda, Finlandia, Malta o Noruega.",
+          "descriptionPt": "Da UE: microchip ISO, vacinacao antirabica valida (pelo menos 21 dias) e um GB Animal Health Certificate (AHC) emitido por veterinario oficial da UE nos 10 dias anteriores a chegada. AHC valido 4 meses para regresso. Tratamento anti-tenia so para Irlanda, Finlandia, Malta ou Noruega."
+        },
+        {
+          "name": "Walking Bournemouth with a dog",
+          "photo": "/images/city-places/bournemouth-tips-walking-with-a-dog.jpg",
+          "description": "Hengistbury Head (2 km east of Boscombe) is the definitive Bournemouth dog walk: a double headland peninsula with 180-degree sea views, scrubland and beach access on the harbour side, dogs fully off-leash on the headland. The Bournemouth Chines (steep wooded ravines cutting through the cliffs to the sea) form a network of shaded paths that link the beach to the residential streets, all dog-friendly year-round.",
+          "descriptionFr": "Hengistbury Head (2 km a l'est de Boscombe) est la promenade canine definitoire de Bournemouth : une double peninsule avec vues a 180 degres sur la mer, garrigue et acces plage cote port, chiens entierement sans laisse sur le promontoire. Les Bournemouth Chines (ravins boises abrupts reliant les falaises a la mer) forment un reseau de sentiers ombrageux reliant la plage aux rues residentielles, tous dog-friendly toute l'annee.",
+          "descriptionEs": "Hengistbury Head (2 km al este de Boscombe) es el paseo canino definitorio de Bournemouth: una doble peninsula con vistas de 180 grados al mar, matorral y acceso a la playa por el lado del puerto, perros completamente sin correa en el promontorio. Los Bournemouth Chines (barrancos arbolados que cortan los acantilados hasta el mar) forman una red de caminos sombreados que unen la playa con las calles residenciales, todos dog-friendly todo el ano.",
+          "descriptionPt": "Hengistbury Head (2 km a leste de Boscombe) e o passeio canino definitorio de Bournemouth: uma dupla peninsula com vistas de 180 graus sobre o mar, matagal e acesso a praia pelo lado do porto, caes completamente sem trela no promontorio. Os Bournemouth Chines (ravinas arborecidas que cortam os penhascos ate ao mar) formam uma rede de caminhos sombrios que ligam a praia as ruas residenciais, todos dog-friendly durante todo o ano."
+        }
+      ],
       "tipsEn": [
-        "Year-round dog beaches: Fisherman's Walk (Southbourne) and the Hengistbury Head end. Avoid Bournemouth and Boscombe central beaches between 1 May and 30 September with a dog.",
-        "Carry the Vets Now Poole 24/7 emergency number +44 1202 308 940 in your phone, it covers out-of-hours for most BCP-area clinics.",
-        "Post-Brexit (since 2021): EU pet passports are no longer valid for entry into the UK. You need an Animal Health Certificate (AHC) from an EU vet within 10 days of travel, plus microchip and rabies vaccination."
+        "Dogs are banned from the main beach between Bournemouth Pier and Boscombe Pier from May 1 to September 30. Hengistbury Head beach (harbour side) and Mudeford Spit remain open to dogs year-round.",
+        "Talbot Heath (40 ha of lowland heath 2 km north of the pier) is a fully off-leash local nature reserve, excellent when the beach is restricted.",
+        "Bournemouth seafront promenade runs 10 km from Sandbanks to Hengistbury Head: dogs are welcome on the promenade year-round even when the beach below has seasonal restrictions."
       ],
       "tipsFr": [
-        "Plages canines toute l'année : Fisherman's Walk (Southbourne) et côté Hengistbury Head. Évitez les plages centrales de Bournemouth et Boscombe entre le 1ᵉʳ mai et le 30 septembre avec un chien.",
-        "Enregistrez le numéro d'urgence 24h/24 Vets Now Poole +44 1202 308 940 dans votre téléphone, il couvre les hors heures pour la plupart des cliniques BCP.",
-        "Post-Brexit (depuis 2021) : les passeports européens pour animaux ne sont plus valables à l'entrée du Royaume-Uni. Il vous faut un Animal Health Certificate (AHC) d'un vétérinaire de l'UE moins de 10 jours avant le voyage, plus puce et vaccination antirabique."
+        "Les chiens sont interdits sur la plage principale entre Bournemouth Pier et Boscombe Pier du 1er mai au 30 septembre. La plage de Hengistbury Head (cote port) et Mudeford Spit restent ouvertes aux chiens toute l'annee.",
+        "Talbot Heath (40 ha de lande basse a 2 km au nord du pier) est une reserve naturelle entierement sans laisse, excellente quand la plage est restreinte.",
+        "La promenade du front de mer de Bournemouth s'etend sur 10 km de Sandbanks a Hengistbury Head : les chiens sont bienvenus sur la promenade toute l'annee meme quand la plage en dessous a des restrictions saisonnieres."
       ],
       "tipsEs": [
-        "Playas caninas todo el año: Fisherman's Walk (Southbourne) y el extremo de Hengistbury Head. Evita las playas centrales de Bournemouth y Boscombe entre el 1 may y el 30 sep con perro.",
-        "Guarda el número de urgencias 24/7 Vets Now Poole +44 1202 308 940 en el móvil, cubre fuera de horario la mayoría de las clínicas BCP.",
-        "Post-Brexit (desde 2021): los pasaportes europeos de mascotas ya no sirven para entrar al Reino Unido. Necesitas un Animal Health Certificate (AHC) de un veterinario de la UE menos de 10 días antes del viaje, más microchip y vacunación antirrábica."
+        "Los perros estan prohibidos en la playa principal entre Bournemouth Pier y Boscombe Pier del 1 de mayo al 30 de septiembre. La playa de Hengistbury Head (lado del puerto) y Mudeford Spit siguen abiertas a los perros todo el ano.",
+        "Talbot Heath (40 ha de brezal bajo a 2 km al norte del pier) es una reserva natural completamente sin correa, excelente cuando la playa esta restringida.",
+        "El paseo maritimo de Bournemouth recorre 10 km desde Sandbanks hasta Hengistbury Head: los perros son bienvenidos en el paseo todo el ano incluso cuando la playa de abajo tiene restricciones estacionales."
+      ],
+      "tipsPt": [
+        "Os caes sao proibidos na praia principal entre Bournemouth Pier e Boscombe Pier de 1 de maio a 30 de setembro. A praia de Hengistbury Head (lado do porto) e Mudeford Spit permanecem abertas a caes durante todo o ano.",
+        "Talbot Heath (40 ha de charneca baixa a 2 km a norte do pier) e uma reserva natural completamente sem trela, excelente quando a praia esta restrita.",
+        "O passeio maritimo de Bournemouth percorre 10 km desde Sandbanks ate Hengistbury Head: os caes sao bem-vindos no passeio durante todo o ano mesmo quando a praia abaixo tem restricoes sazonais."
       ],
       "faqsEn": [
         {
-          "q": "Is Bournemouth a good city for travelling with a dog?",
-          "a": "Excellent, among the easiest UK south-coast cities. Free buses and trains, year-round dog beaches at Fisherman's Walk and Hengistbury, abundant pet-friendly cafés and pubs, and the New Forest National Park 30 minutes north. Just plan around the summer central-beach ban and the post-Brexit paperwork."
+          "q": "Can dogs go on Bournemouth beach?",
+          "a": "In winter (October 1 to April 30) yes, dogs are welcome on all sections of Bournemouth beach. From May 1 to September 30, dogs are banned from the main beach (Bournemouth Pier to Boscombe Pier) but Hengistbury Head beach and Mudeford remain open year-round."
         },
         {
-          "q": "What documents do I need to bring my dog to Bournemouth from the EU?",
-          "a": "Since Brexit, EU pet passports are no longer accepted for entry to the UK. You need an Animal Health Certificate (AHC) issued by an EU vet within 10 days of travel, plus rabies vaccination and tapeworm treatment for dogs."
-        },
-        {
-          "q": "Does the UK XL Bully ban apply in Bournemouth?",
-          "a": "Yes, the UK-wide XL Bully ban (in force since February 2024) applies in Bournemouth. If your dog meets the XL Bully physical conformation, it must be muzzled, on lead, exemption-certificated and insured in all public spaces."
+          "q": "Is Hengistbury Head off-leash?",
+          "a": "Yes. Hengistbury Head is a local nature reserve managed by Bournemouth, Christchurch and Poole Council. Dogs are permitted off-lead on the headland and the harbour-side beach. Keep on lead near the lagoon bird areas (signed)."
         }
       ],
       "faqsFr": [
         {
-          "q": "Bournemouth est-elle une bonne ville pour voyager avec un chien ?",
-          "a": "Excellente, parmi les villes britanniques de la côte sud les plus simples. Bus et trains gratuits, plages canines toute l'année à Fisherman's Walk et Hengistbury, cafés et pubs pet-friendly à profusion, et le parc national de la New Forest à 30 minutes au nord. Il suffit d'anticiper l'interdiction estivale de la plage centrale et la paperasse post-Brexit."
+          "q": "Les chiens peuvent-ils aller sur la plage de Bournemouth ?",
+          "a": "En hiver (1er octobre au 30 avril) oui, les chiens sont bienvenus sur toutes les sections. Du 1er mai au 30 septembre, ils sont interdits sur la plage principale (Bournemouth Pier a Boscombe Pier) mais Hengistbury Head et Mudeford restent ouvertes toute l'annee."
         },
         {
-          "q": "Quels documents pour emmener mon chien à Bournemouth depuis l'UE ?",
-          "a": "Depuis le Brexit, le passeport européen pour animal n'est plus accepté à l'entrée du Royaume-Uni. Il faut un certificat sanitaire (Animal Health Certificate, AHC) délivré par un vétérinaire de l'UE moins de 10 jours avant le voyage, ainsi que la vaccination antirabique et le traitement contre l'échinocoque pour les chiens."
-        },
-        {
-          "q": "L'interdiction britannique des XL Bully s'applique-t-elle à Bournemouth ?",
-          "a": "Oui, l'interdiction nationale des XL Bully (en vigueur depuis février 2024) s'applique à Bournemouth. Si votre chien correspond à la conformation physique d'un XL Bully, il doit être muselé, en laisse, sous certificat d'exemption et assuré dans tout espace public."
+          "q": "Hengistbury Head est-il sans laisse ?",
+          "a": "Oui. Hengistbury Head est une reserve naturelle geree par le conseil local. Les chiens sont autorises sans laisse sur le promontoire et la plage cote port. En laisse pres des zones de nidification des oiseaux de la lagune (signalisation)."
         }
       ],
       "faqsEs": [
         {
-          "q": "¿Es Bournemouth una buena ciudad para viajar con perro?",
-          "a": "Excelente, entre las ciudades del Reino Unido más sencillas en la costa sur. Autobuses y trenes gratis, playas para perros todo el año en Fisherman's Walk y Hengistbury, abundantes cafés y pubs pet-friendly, y el parque nacional New Forest a 30 minutos al norte. Solo hay que tener en cuenta la prohibición estival en la playa central y la paperasa post-Brexit."
+          "q": "¿Los perros pueden ir a la playa de Bournemouth?",
+          "a": "En invierno (1 octubre al 30 abril) si, los perros son bienvenidos en todas las secciones. Del 1 mayo al 30 septiembre, estan prohibidos en la playa principal (Bournemouth Pier a Boscombe Pier) pero Hengistbury Head y Mudeford permanecen abiertas todo el ano."
         },
         {
-          "q": "¿Qué documentos necesito para llevar a mi perro a Bournemouth desde la UE?",
-          "a": "Desde el Brexit, el pasaporte europeo de mascotas ya no sirve para entrar en el Reino Unido. Hace falta un certificado sanitario (Animal Health Certificate, AHC) emitido por un veterinario de la UE menos de 10 días antes del viaje, además de la vacunación antirrábica y el tratamiento contra equinococos en perros."
-        },
-        {
-          "q": "¿Se aplica la prohibición británica de XL Bully en Bournemouth?",
-          "a": "Sí, la prohibición británica de XL Bully (en vigor desde febrero 2024) se aplica en Bournemouth. Si tu perro encaja con la conformación física del XL Bully, debe ir con bozal, correa, certificado de exención y seguro en todo espacio público."
+          "q": "¿Hengistbury Head es sin correa?",
+          "a": "Si. Hengistbury Head es una reserva natural local. Los perros estan permitidos sin correa en el promontorio y en la playa del lado del puerto. Con correa cerca de las zonas de anidacion de aves de la laguna (senalizadas)."
         }
-      ],
-      "titlePt": "Dicas de viagem com animais para Bournemouth",
-      "introPt": "Bournemouth é uma das cidades da costa sul do Reino Unido mais fáceis para viajar com um cão, os animais viajam grátis nos autocarros e comboios, a frente marítima tem cafés que aceitam cães em cada acesso à falésia, e o Parque Nacional da New Forest começa 30 minutos a norte. O que há a planear é o calendário de praia de verão (1 de maio a 30 de setembro na praia central) e a documentação do Animal Health Certificate pós-Brexit para os viajantes da UE. As dicas abaixo cobrem as poucas regras que realmente importam.",
-      "tipsPt": [
-        "Praias para cães durante todo o ano: Fisherman's Walk (Southbourne) e o extremo de Hengistbury Head. Evite as praias centrais de Bournemouth e Boscombe entre 1 de maio e 30 de setembro com um cão.",
-        "Guarde o número de urgência 24/7 da Vets Now Poole, +44 1202 308 940, no seu telemóvel, cobre o fora de horas da maioria das clínicas da zona BCP.",
-        "Pós-Brexit (desde 2021): os passaportes de animal da UE já não são válidos para a entrada no Reino Unido. Precisa de um Animal Health Certificate (AHC) de um veterinário da UE dentro dos 10 dias anteriores à viagem, além de microchip e vacinação antirrábica."
       ],
       "faqsPt": [
         {
-          "q": "Bournemouth é uma boa cidade para viajar com um cão?",
-          "a": "Excelente, entre as cidades da costa sul do Reino Unido mais fáceis. Autocarros e comboios grátis, praias para cães durante todo o ano em Fisherman's Walk e Hengistbury, abundantes cafés e pubs que aceitam animais, e o Parque Nacional da New Forest 30 minutos a norte. Basta planear em torno da proibição de verão da praia central e da documentação pós-Brexit."
+          "q": "Os caes podem ir a praia de Bournemouth?",
+          "a": "No inverno (1 outubro a 30 abril) sim, os caes sao bem-vindos em todas as seccoes. De 1 maio a 30 setembro, sao proibidos na praia principal (Bournemouth Pier a Boscombe Pier) mas Hengistbury Head e Mudeford permanecem abertas durante todo o ano."
         },
         {
-          "q": "Que documentos preciso para trazer o meu cão para Bournemouth a partir da UE?",
-          "a": "Desde o Brexit, os passaportes de animal da UE já não são aceites para a entrada no Reino Unido. Precisa de um Animal Health Certificate (AHC) emitido por um veterinário da UE dentro dos 10 dias anteriores à viagem, além de vacinação antirrábica e tratamento contra a ténia para cães."
-        },
-        {
-          "q": "A proibição dos XL Bully do Reino Unido aplica-se em Bournemouth?",
-          "a": "Sim, a proibição dos XL Bully em todo o Reino Unido (em vigor desde fevereiro de 2024) aplica-se em Bournemouth. Se o seu cão corresponder à conformação física do XL Bully, tem de ter açaime, trela, certificado de isenção e seguro em todos os espaços públicos."
+          "q": "Hengistbury Head e sem trela?",
+          "a": "Sim. Hengistbury Head e uma reserva natural local. Os caes sao permitidos sem trela no promontorio e na praia do lado do porto. Com trela perto das zonas de nidificacao de aves da lagoa (sinalizadas)."
         }
       ]
     },
@@ -1051,6 +1059,21 @@
           "tipEs": "Reserva al menos 24 horas antes en verano: los cuidadores cerca del paseo marítimo y de Hengistbury Head se llenan antes en julio y agosto.",
           "descriptionPt": "A plataforma de cuidadores pagos mais utilizada do Reino Unido, com centenas de cuidadores verificados por toda a conurbação BCP que oferecem passeios, visitas pontuais e hospedagem com pernoita. Todas as reservas têm seguro através da plataforma e os passeios incluem rastreio por GPS. Útil para uma longa caminhada pela Costa Jurássica ou um meio dia na New Forest sem o cão.",
           "tipPt": "Reserve com pelo menos 24 horas de antecedência no verão, os cuidadores perto da frente marítima e de Hengistbury Head esgotam mais depressa em julho e agosto."
+        },
+        {
+          "name": "Rover.com Bournemouth",
+          "languages": [
+            "English"
+          ],
+          "description": "Largest UK pet-sitting platform with verified sitters throughout Bournemouth. Services include doggy day-care, drop-in visits and overnight boarding. All sitters are background-checked, insurance included, average 17-26 GBP per day. Strong coverage in Westbourne, Winton and Boscombe.",
+          "descriptionFr": "Plus grande plateforme de pet-sitting UK avec des sitters verifies dans tout Bournemouth. Garderie de jour, visites a domicile et hebergement de nuit. Sitters controles, assurance incluse, tarif moyen 17-26 GBP/jour. Forte couverture dans Westbourne, Winton and Boscombe.",
+          "descriptionEs": "La mayor plataforma de pet-sitting UK con cuidadores verificados en todo Bournemouth. Guarderia diurna, visitas a domicilio y alojamiento nocturno. Cuidadores verificados, seguro incluido, tarifa media 17-26 GBP/dia. Fuerte cobertura en Westbourne, Winton and Boscombe.",
+          "descriptionPt": "A maior plataforma de pet-sitting do Reino Unido com cuidadores verificados em todo Bournemouth. Creche diurna, visitas pontuais e alojamento noturno. Cuidadores verificados, seguro incluido, tarifa media 17-26 GBP por dia. Forte cobertura em Westbourne, Winton and Boscombe.",
+          "website": "https://www.rover.com/uk/search/?location=Bournemouth",
+          "tip": "Book 48 hours ahead on summer weekends. Bournemouth sitters fill quickly in July-August.",
+          "tipFr": "Reservez 48h a l'avance les week-ends d'ete. Les sitters de Bournemouth se remplissent vite en juillet-aout.",
+          "tipEs": "Reserva 48h antes los fines de semana de verano. Los cuidadores de Bournemouth se llenan rapido en julio-agosto.",
+          "tipPt": "Reserve 48h antes aos fins de semana de verao. Os cuidadores de Bournemouth enchem depressa em julho-agosto."
         }
       ],
       "tipsEn": [

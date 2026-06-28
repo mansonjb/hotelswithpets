@@ -3,7 +3,7 @@
   "name": "Manchester",
   "country": "United Kingdom",
   "flag": "🇬🇧",
-  "lastUpdated": "2026-04-27",
+  "lastUpdated": "2026-06-28",
   "guides": {
     "restaurants": {
       "titleEn": "Dog-Friendly Restaurants in Manchester",
@@ -416,6 +416,44 @@
           "descriptionPt": "A Transport for Greater Manchester (TfGM) opera os elétricos do Metrolink e os autocarros da Bee Network; a Northern Trains gere a rede ferroviária suburbana. Até dois cães com trela por passageiro viajam grátis nos três. A linha Bury do Metrolink chega a Heaton Park, a linha Altrincham chega a Wythenshawe via aeroporto, e a Northern Rail liga Manchester Piccadilly a Liverpool, ao Lake District e a York em menos de 2 horas.",
           "petPolicyPt": "Até 2 cães com trela por passageiro grátis no Metrolink, nos autocarros da Bee Network e nos comboios da Northern",
           "tipPt": "A linha Bury do Metrolink é o melhor acesso da cidade para um passeio canino, direta de St Peter's Square até à estação de Heaton Park em 25 minutos."
+        },
+        {
+          "name": "Avanti West Coast (Manchester Piccadilly)",
+          "type": "Mainline intercity rail",
+          "photo": "/images/city-places/manchester-transport-avanti-west-coast.jpg",
+          "website": "https://www.avantiwestcoast.co.uk/",
+          "description": "Avanti West Coast runs intercity trains from Manchester Piccadilly to London Euston (2h08 fastest), Liverpool Lime Street (45 min), Birmingham New Street (1h25) and Edinburgh (3h15). Up to two well-behaved dogs travel free per passenger, on lead and kept under control. Reserve a seat in advance; dog-friendly spaces fill on Friday and Sunday evenings.",
+          "descriptionFr": "Avanti West Coast exploite des trains intercites depuis Manchester Piccadilly vers London Euston (2h08 le plus rapide), Liverpool Lime Street (45 min), Birmingham New Street (1h25) et Edinburgh (3h15). Jusqu'a deux chiens bien tenus voyagent gratuitement par passager, en laisse. Reservez a l'avance ; les places dog-friendly se remplissent les vendredis et dimanches soir.",
+          "descriptionEs": "Avanti West Coast opera trenes intercity desde Manchester Piccadilly hacia London Euston (2h08 mas rapido), Liverpool Lime Street (45 min), Birmingham New Street (1h25) y Edinburgh (3h15). Hasta dos perros bien portados viajan gratis por pasajero, con correa. Reserve asiento con antelacion; los espacios dog-friendly se llenan los viernes y domingos por la noche.",
+          "descriptionPt": "A Avanti West Coast opera comboios intercidades de Manchester Piccadilly para London Euston (2h08 o mais rapido), Liverpool Lime Street (45 min), Birmingham New Street (1h25) e Edinburgh (3h15). Ate dois caes bem-comportados viajam gratuitamente por passageiro, com trela. Reserve lugar com antecedencia; os espacos dog-friendly enchem-se as sextas e domingos a noite.",
+          "petPolicy": "Up to 2 dogs free per passenger, on lead",
+          "petPolicyFr": "Jusqu'a 2 chiens gratuits par passager, en laisse",
+          "petPolicyEs": "Hasta 2 perros gratis por pasajero, con correa",
+          "petPolicyPt": "Ate 2 caes gratuitamente por passageiro, com trela",
+          "tip": "Book on the Avanti app for the lowest advance fares. Travel before 09:00 or after 19:00 for off-peak pricing and quieter carriages with more floor space.",
+          "tipFr": "Reservez sur l'application Avanti pour les tarifs avance les plus bas. Voyagez avant 9h ou apres 19h pour les prix hors pointe et des voitures plus calmes.",
+          "tipEs": "Reserva en la app de Avanti para las tarifas anticipadas mas bajas. Viaja antes de las 09:00 o despues de las 19:00 para precios fuera de punta y vagones mas tranquilos.",
+          "tipPt": "Reserve na aplicacao da Avanti para as tarifas antecipadas mais baixas. Viaje antes das 09:00 ou depois das 19:00 para precos fora de ponta e carruagens mais tranquilas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Manchester+Piccadilly+Station"
+        },
+        {
+          "name": "TransPennine Express (Manchester Victoria / Piccadilly)",
+          "type": "Regional intercity rail",
+          "photo": "/images/city-places/manchester-transport-transpennine-express.jpg",
+          "website": "https://www.tpexpress.co.uk/",
+          "description": "TransPennine Express connects Manchester to Leeds (55 min), Sheffield (55 min), Hull (1h50), Newcastle (2h15) and Edinburgh (3h15) via the Trans-Pennine route. Dogs travel free at the conductor's discretion on most services. Manchester Victoria station (10 min walk from the Northern Quarter) is the main TPE hub; some services also call at Piccadilly.",
+          "descriptionFr": "TransPennine Express relie Manchester a Leeds (55 min), Sheffield (55 min), Hull (1h50), Newcastle (2h15) et Edinburgh (3h15) via la route Trans-Pennine. Les chiens voyagent gratuitement a la discretion du controleur sur la plupart des services. La gare de Manchester Victoria (10 min a pied du Northern Quarter) est le principal hub TPE.",
+          "descriptionEs": "TransPennine Express conecta Manchester con Leeds (55 min), Sheffield (55 min), Hull (1h50), Newcastle (2h15) y Edinburgh (3h15) via la ruta Trans-Pennine. Los perros viajan gratis a discrecion del revisor en la mayoria de servicios. La estacion de Manchester Victoria (10 min a pie del Northern Quarter) es el principal hub TPE.",
+          "descriptionPt": "A TransPennine Express liga Manchester a Leeds (55 min), Sheffield (55 min), Hull (1h50), Newcastle (2h15) e Edinburgh (3h15) pela rota Trans-Pennine. Os caes viajam gratuitamente ao criterio do revisor na maioria dos servicos. A estacao de Manchester Victoria (10 min a pe do Northern Quarter) e o principal hub TPE.",
+          "petPolicy": "Dogs free at conductor's discretion, lead required",
+          "petPolicyFr": "Chiens gratuits a la discretion du controleur, laisse requise",
+          "petPolicyEs": "Perros gratis a discrecion del revisor, correa requerida",
+          "petPolicyPt": "Caes gratuitos ao criterio do revisor, trela obrigatoria",
+          "tip": "Trains to Leeds and Sheffield fill quickly on Friday evenings. Travel Saturday or Sunday morning for a quieter journey with a dog.",
+          "tipFr": "Les trains pour Leeds et Sheffield se remplissent vite les vendredis soir. Voyagez le samedi ou dimanche matin pour un trajet plus tranquille avec un chien.",
+          "tipEs": "Los trenes a Leeds y Sheffield se llenan rapidamente los viernes por la noche. Viaja el sabado o domingo por la manana para un viaje mas tranquilo con un perro.",
+          "tipPt": "Os comboios para Leeds e Sheffield enchem-se rapidamente as sextas a noite. Viaje sabado ou domingo de manha para uma viagem mais tranquila com um cao.",
+          "googleMapsUrl": "https://maps.google.com/?q=Manchester+Victoria+Station"
         }
       ],
       "tipsEn": [
@@ -773,89 +811,97 @@
       ]
     },
     "tips": {
-      "titleEn": "Pet Travel Tips for Manchester",
-      "titleFr": "Conseils pratiques pour voyager avec son animal à Manchester",
-      "titleEs": "Consejos prácticos para viajar con tu mascota a Manchester",
-      "introEn": "Manchester is one of the easiest UK cities for travelling with a dog: free pets on the Metrolink and Bee Network buses, free pets on Northern Rail trains, dog-welcoming pubs on every street, and Heaton Park's 240 hectares of off-leash space a tram ride away. The two things to plan around are the post-Brexit Animal Health Certificate (for EU arrivals), and the heavy rain, Manchester averages 830 mm of rain per year, more than any other major UK city.",
-      "introFr": "Manchester est l'une des villes britanniques les plus simples pour voyager avec un chien : animaux gratuits dans les trams Metrolink et les bus Bee Network, animaux gratuits dans les trains Northern Rail, pubs dog-friendly à chaque rue, et les 240 hectares sans laisse de Heaton Park à un tram du centre. Les deux points à anticiper sont l'Animal Health Certificate post-Brexit (pour l'arrivée depuis l'UE) et la pluie abondante, Manchester reçoit en moyenne 830 mm de pluie par an, plus que toute autre grande ville britannique.",
-      "introEs": "Manchester es una de las ciudades del Reino Unido más sencillas para viajar con perro: mascotas gratis en los tranvías Metrolink y en los autobuses Bee Network, mascotas gratis en los trenes Northern Rail, pubs dog-friendly en cada calle, y las 240 hectáreas sin correa de Heaton Park a un tranvía del centro. Los dos puntos a anticipar son el Animal Health Certificate post-Brexit (para entrada desde la UE) y la abundante lluvia: Manchester recibe en promedio 830 mm de lluvia al año, más que cualquier otra gran ciudad británica.",
-      "places": [],
+      "titleEn": "Travelling to Manchester with a Dog: Practical Tips",
+      "titleFr": "Voyager a Manchester avec un chien : conseils pratiques",
+      "titleEs": "Viajar a Manchester con perro: consejos practicos",
+      "titlePt": "Viajar para Manchester com um cao: conselhos praticos",
+      "introEn": "Manchester rewards dog owners who get away from the centre: Heaton Park (600 acres, one of Europe's largest municipal parks) and the Mersey Valley give full days of off-leash walking within 20 minutes of the city. The city centre pub scene is genuinely dog-welcoming.",
+      "introFr": "Manchester recompense les proprietaires de chiens qui s'eloignent du centre : Heaton Park (240 ha, l'un des plus grands parcs municipaux d'Europe) et la Mersey Valley offrent des journees entieres de promenade sans laisse a 20 min de la ville. La scene des pubs du centre-ville est genuinement dog-friendly.",
+      "introEs": "Manchester recompensa a los duenos de perros que se alejan del centro: Heaton Park (240 ha, uno de los parques municipales mas grandes de Europa) y el Mersey Valley ofrecen dias completos de paseo sin correa a 20 min de la ciudad. La escena de pubs del centro es genuinamente dog-friendly.",
+      "introPt": "Manchester recompensa os donos de caes que se afastam do centro: Heaton Park (240 ha, um dos maiores parques municipais da Europa) e o Mersey Valley oferecem dias completos de passeio sem trela a 20 min da cidade. A cena de pubs do centro e genuinamente dog-friendly.",
+      "places": [
+        {
+          "name": "Best season for visiting Manchester with a dog",
+          "photo": "/images/city-places/manchester-tips-best-season.jpg",
+          "description": "June to August gives the best park conditions and warmest weather (17-20 C), but Manchester is famously rainy and grey even in summer. Pack a waterproof year-round. September and October are excellent: foliage in Heaton Park and Chorlton Meadows, emptier trails, and the city's dog-friendly pub scene is at its most welcoming after the summer tourist peak.",
+          "descriptionFr": "Juin a aout donne les meilleures conditions de parc et le temps le plus chaud (17-20 C), mais Manchester est notoirement pluvieuse et grise meme en ete. Prevoyez un impermeable toute l'annee. Septembre et octobre sont excellents : feuillage a Heaton Park et Chorlton Meadows, sentiers plus vides et la scene des pubs dog-friendly de la ville est au sommet apres le pic touristique estival.",
+          "descriptionEs": "Junio a agosto da las mejores condiciones de parque y el tiempo mas calido (17-20 C), pero Manchester es notoriamente lluviosa y gris incluso en verano. Lleva chubasquero todo el ano. Septiembre y octubre son excelentes: follaje en Heaton Park y Chorlton Meadows, senderos mas vacios y la escena de pubs dog-friendly de la ciudad esta en su mejor momento tras el pico turistico estival.",
+          "descriptionPt": "De junho a agosto tem as melhores condicoes de parque e tempo mais quente (17-20 C), mas Manchester e notoriamente chuvosa e cinzenta mesmo no verao. Traga impermeavel durante todo o ano. Setembro e outubro sao excelentes: folhagem em Heaton Park e Chorlton Meadows, trilhos mais vazios e a cena de pubs dog-friendly esta no seu melhor apos o pico turistico de verao."
+        },
+        {
+          "name": "UK pet-import paperwork (2026)",
+          "description": "From the EU: ISO microchip, valid rabies vaccination (21 days min) and a GB Animal Health Certificate (AHC) from an EU official vet within 10 days of arrival. Valid 4 months for return. Tapeworm treatment only for Ireland, Finland, Malta or Norway.",
+          "descriptionFr": "De l'UE: puce ISO, vaccin antirabique (21 jours min) et AHC par OV de l'UE dans les 10 jours. 4 mois pour retour. Antitenias seulement Irlande, Finlande, Malte, Norvege.",
+          "descriptionEs": "De la UE: microchip ISO, vacuna antirrábica (21 dias) y AHC por OV de la UE en 10 dias. 4 meses retorno. Antitenia solo Irlanda, Finlandia, Malta, Noruega.",
+          "descriptionPt": "Da UE: microchip ISO, vacinacao antirabica (21 dias) e AHC por OV da UE nos 10 dias. 4 meses regresso. Anti-tenia so Irlanda, Finlandia, Malta, Noruega."
+        },
+        {
+          "name": "Walking Manchester with a dog",
+          "photo": "/images/city-places/manchester-tips-walking-with-a-dog.jpg",
+          "description": "Heaton Park (6 km north of the centre, Metrolink to Heaton Park stop, 600 acres, dogs off-leash throughout except near the farm) is the best single dog day in Manchester. The Mersey Valley trail from Chorlton Meadows to Sale Water Park (8 km, flat, riverbank, almost entirely off-leash) is the best linear walk. Fletcher Moss Botanical Gardens (Didsbury, 5 km south, free, dogs on lead in formal gardens but off-leash on adjacent meadow) rounds out a city-break walking plan.",
+          "descriptionFr": "Heaton Park (6 km au nord du centre, Metrolink jusqu'a Heaton Park, 240 ha, chiens sans laisse partout sauf pres de la ferme) est la meilleure journee canine a Manchester. La piste de la Mersey Valley de Chorlton Meadows a Sale Water Park (13 km, plat, berge, presque entierement sans laisse) est la meilleure promenade lineaire. Fletcher Moss Botanical Gardens (Didsbury, 5 km au sud, gratuit, chiens en laisse dans les jardins formels mais sans laisse sur la prairie adjacente) complete un plan de promenade pour city-break.",
+          "descriptionEs": "Heaton Park (6 km al norte del centro, Metrolink hasta Heaton Park, 240 ha, perros sin correa en todas partes excepto cerca de la granja) es el mejor dia canino en Manchester. La ruta Mersey Valley de Chorlton Meadows a Sale Water Park (13 km, llano, orilla del rio, casi completamente sin correa) es la mejor caminata lineal. Fletcher Moss Botanical Gardens (Didsbury, 5 km al sur, gratis, perros con correa en jardines formales pero sin correa en la pradera adyacente) completa un plan de paseo para city-break.",
+          "descriptionPt": "Heaton Park (6 km a norte do centro, Metrolink ate Heaton Park, 240 ha, caes sem trela em toda parte exceto perto da quinta) e o melhor dia canino em Manchester. A rota Mersey Valley de Chorlton Meadows a Sale Water Park (13 km, plano, margem do rio, quase inteiramente sem trela) e a melhor caminhada linear. Fletcher Moss Botanical Gardens (Didsbury, 5 km a sul, gratuito, caes com trela nos jardins formais mas sem trela na pradaria adjacente) completa um plano de passeio para city-break."
+        }
+      ],
       "tipsEn": [
-        "Post-Brexit: EU pet passports are no longer valid for entry into the UK. You need an Animal Health Certificate (AHC) issued by an EU vet within 10 days of travel, plus rabies vaccination and tapeworm treatment for dogs.",
-        "Save Vets Now Manchester 24/7: +44 161 222 6004 (98 Bury Old Road, Whitefield), the regional flagship out-of-hours hospital.",
-        "Manchester rains often, pack a waterproof dog coat and a microfibre towel; many city-centre venues have a dog-towel-down area at the door."
+        "The Manchester Museum, Whitworth Gallery and Manchester Art Gallery admit dogs at their discretion (usually to the cafe and shop areas). Call ahead or check website. The Lowry (Salford) does not admit dogs.",
+        "Manchester city centre's Northern Quarter (Ancoats, Stevenson Square, Oldham Street) has the densest concentration of dog-welcoming independent cafes and bars. Most allow leashed dogs at indoor tables.",
+        "Manchester rain is real year-round. Always carry a compact waterproof for you and a quick-dry microfibre towel for the dog. The Bee Network's Metrolink trams run through rain without cancellation issues."
       ],
       "tipsFr": [
-        "Post-Brexit : les passeports européens pour animal ne sont plus valides à l'entrée du Royaume-Uni. Il faut un Animal Health Certificate (AHC) délivré par un vétérinaire de l'UE moins de 10 jours avant le voyage, plus la vaccination antirabique et le traitement contre l'échinocoque pour les chiens.",
-        "Enregistrez Vets Now Manchester 24h/24 : +44 161 222 6004 (98 Bury Old Road, Whitefield), l'hôpital phare régional hors horaires.",
-        "Il pleut souvent à Manchester, emportez un manteau imperméable pour chien et une serviette microfibre ; beaucoup d'adresses du centre ont un coin pour essuyer le chien à la porte."
+        "Le Manchester Museum, la Whitworth Gallery et la Manchester Art Gallery admettent les chiens a leur discretion (generalement aux espaces cafe et boutique). Appelez a l'avance. The Lowry (Salford) n'admet pas les chiens.",
+        "Le Northern Quarter du centre de Manchester (Ancoats, Stevenson Square, Oldham Street) a la plus forte concentration de cafes et bars independants dog-friendly. La plupart admettent les chiens en laisse aux tables interieures.",
+        "La pluie de Manchester est reelle toute l'annee. Portez toujours un impermeable compact et une serviette microfibre sechage rapide pour le chien. Les trams Metrolink du Bee Network fonctionnent sous la pluie sans annulation."
       ],
       "tipsEs": [
-        "Tras el Brexit: los pasaportes europeos de mascotas ya no son válidos para entrar al Reino Unido. Hace falta un Animal Health Certificate (AHC) emitido por un veterinario de la UE menos de 10 días antes del viaje, además de la vacunación antirrábica y el tratamiento contra equinococos en perros.",
-        "Guarda Vets Now Manchester 24/7: +44 161 222 6004 (98 Bury Old Road, Whitefield): el hospital regional principal fuera de horario.",
-        "Llueve a menudo en Manchester: lleva impermeable para el perro y toalla de microfibra; muchas direcciones del centro tienen un rincón para secar al perro junto a la puerta."
+        "El Manchester Museum, la Whitworth Gallery y la Manchester Art Gallery admiten perros a su discrecion (generalmente en las areas de cafe y tienda). Llama antes. The Lowry (Salford) no admite perros.",
+        "El Northern Quarter del centro de Manchester (Ancoats, Stevenson Square, Oldham Street) tiene la mayor concentracion de cafes y bares independientes dog-friendly. La mayoria admiten perros con correa en mesas interiores.",
+        "La lluvia de Manchester es real durante todo el ano. Lleva siempre un chubasquero compacto y una toalla de microfibra de secado rapido para el perro. Los tranvias Metrolink del Bee Network funcionan bajo la lluvia sin cancelaciones."
+      ],
+      "tipsPt": [
+        "O Manchester Museum, a Whitworth Gallery e a Manchester Art Gallery admitem caes ao seu criterio (geralmente nas areas de cafe e loja). Ligue com antecedencia. The Lowry (Salford) nao admite caes.",
+        "O Northern Quarter do centro de Manchester (Ancoats, Stevenson Square, Oldham Street) tem a maior concentracao de cafes e bares independentes dog-friendly. A maioria admite caes com trela nas mesas interiores.",
+        "A chuva de Manchester e real durante todo o ano. Traga sempre um impermeavel compacto e uma toalha de microfibra de secagem rapida para o cao. Os elétricos Metrolink do Bee Network funcionam debaixo de chuva sem cancelamentos."
       ],
       "faqsEn": [
         {
-          "q": "Is Manchester a good city for travelling with a dog?",
-          "a": "Yes, among the most dog-friendly UK cities. Free pets on Metrolink/buses/trains, dog-welcoming pubs on every street, and Heaton Park's off-leash space a tram ride from the centre. The main quirks are the post-Brexit AHC for EU arrivals and the rain."
+          "q": "Is Manchester good for a dog-friendly weekend break?",
+          "a": "Yes. Heaton Park gives 600 acres of off-leash parkland reachable by Metrolink. The Northern Quarter has the best concentration of dog-welcoming indoor cafes and bars in the north of England. Avanti trains from London Euston take just over 2 hours."
         },
         {
-          "q": "What documents do I need to bring my dog to Manchester from the EU?",
-          "a": "Since Brexit, EU pet passports are no longer accepted for entry to the UK. You need an Animal Health Certificate (AHC) issued by an EU vet within 10 days of travel, plus rabies vaccination and tapeworm treatment for dogs."
-        },
-        {
-          "q": "Can my dog go inside Manchester museums and football stadiums?",
-          "a": "Only assistance dogs are admitted to the Science and Industry Museum, the Manchester Museum, the People's History Museum, Old Trafford and the Etihad Stadium. The exterior squares of all five are leash-friendly and free."
+          "q": "Can I take a dog on the Manchester Metrolink tram?",
+          "a": "Yes. Dogs travel free on all Metrolink trams. Keep the dog on a lead and ensure it does not block the aisles. Avoid peak commuter hours (07:30-09:30 and 17:00-19:00) with a large dog."
         }
       ],
       "faqsFr": [
         {
-          "q": "Manchester est-elle une bonne ville pour voyager avec un chien ?",
-          "a": "Oui, parmi les villes britanniques les plus dog-friendly. Animaux gratuits dans les Metrolink/bus/trains, pubs dog-welcoming à chaque rue, et l'espace sans laisse de Heaton Park à un tram du centre. Les principales subtilités sont l'AHC post-Brexit pour l'arrivée depuis l'UE et la pluie."
+          "q": "Manchester est-elle bonne pour un week-end dog-friendly ?",
+          "a": "Oui. Heaton Park offre 240 ha de parc sans laisse accessible par Metrolink. Le Northern Quarter a la meilleure concentration de cafes et bars dog-friendly en interieur du nord de l'Angleterre. Les trains Avanti depuis London Euston prennent un peu plus de 2 heures."
         },
         {
-          "q": "Quels documents pour emmener mon chien à Manchester depuis l'UE ?",
-          "a": "Depuis le Brexit, le passeport européen pour animal n'est plus accepté à l'entrée du Royaume-Uni. Il faut un Animal Health Certificate (AHC) délivré par un vétérinaire de l'UE moins de 10 jours avant le voyage, ainsi que la vaccination antirabique et le traitement contre l'échinocoque pour les chiens."
-        },
-        {
-          "q": "Mon chien peut-il visiter les musées et stades de Manchester ?",
-          "a": "Seuls les chiens d'assistance sont admis au Science and Industry Museum, au Manchester Museum, au People's History Museum, à Old Trafford et à l'Etihad Stadium. Les places extérieures des cinq sont accessibles en laisse et gratuites."
+          "q": "Puis-je prendre un chien dans le tram Metrolink de Manchester ?",
+          "a": "Oui. Les chiens voyagent gratuitement sur tous les trams Metrolink. En laisse et sans bloquer les alles. Evitez les heures de pointe (7h30-9h30 et 17h-19h) avec un grand chien."
         }
       ],
       "faqsEs": [
         {
-          "q": "¿Es Manchester una buena ciudad para viajar con perro?",
-          "a": "Sí: entre las ciudades del Reino Unido más dog-friendly. Mascotas gratis en Metrolink/autobuses/trenes, pubs dog-welcoming en cada calle, y el espacio sin correa de Heaton Park a un tranvía del centro. Las principales pegas son el AHC post-Brexit para la entrada desde la UE y la lluvia."
+          "q": "¿Manchester es buena para una escapada dog-friendly de fin de semana?",
+          "a": "Si. Heaton Park ofrece 240 ha de parque sin correa accesible en Metrolink. El Northern Quarter tiene la mejor concentracion de cafes y bares dog-friendly en interior del norte de Inglaterra. Los trenes Avanti desde London Euston tardan poco mas de 2 horas."
         },
         {
-          "q": "¿Qué documentos necesito para llevar a mi perro a Manchester desde la UE?",
-          "a": "Desde el Brexit, el pasaporte europeo de mascotas ya no se acepta para entrar al Reino Unido. Hace falta un Animal Health Certificate (AHC) emitido por un veterinario de la UE menos de 10 días antes del viaje, además de la vacunación antirrábica y el tratamiento contra equinococos en perros."
-        },
-        {
-          "q": "¿Puede mi perro entrar a los museos y estadios de Manchester?",
-          "a": "Solo los perros de asistencia se admiten en el Science and Industry Museum, el Manchester Museum, el People's History Museum, Old Trafford y el Etihad Stadium. Las plazas exteriores de los cinco son accesibles con correa y gratuitas."
+          "q": "¿Puedo llevar un perro en el tram Metrolink de Manchester?",
+          "a": "Si. Los perros viajan gratis en todos los trams Metrolink. Con correa y sin bloquear los pasillos. Evita las horas punta (07:30-09:30 y 17:00-19:00) con un perro grande."
         }
-      ],
-      "titlePt": "Conselhos de viagem com animais para Manchester",
-      "introPt": "Manchester é uma das cidades do Reino Unido mais fáceis para viajar com cão: animais grátis nos elétricos do Metrolink e nos autocarros da Bee Network, animais grátis nos comboios da Northern Rail, pubs que acolhem cães em todas as ruas, e os 240 hectares de espaço sem trela do Heaton Park a uma viagem de elétrico. Os dois aspetos a planear com antecedência são o Animal Health Certificate pós-Brexit (para entradas da UE) e a chuva abundante: Manchester recebe em média 830 mm de chuva por ano, mais do que qualquer outra grande cidade britânica.",
-      "tipsPt": [
-        "Após o Brexit: os passaportes europeus de animais deixaram de ser válidos para entrar no Reino Unido. É necessário um Animal Health Certificate (AHC) emitido por um veterinário da UE até 10 dias antes da viagem, além da vacinação antirrábica e do tratamento contra a ténia nos cães.",
-        "Guarde o contacto do Vets Now Manchester 24/7: +44 161 222 6004 (98 Bury Old Road, Whitefield), o principal hospital regional fora de horas.",
-        "Chove com frequência em Manchester: leve um impermeável para o cão e uma toalha de microfibra; muitos locais do centro têm um canto à entrada para secar o cão."
       ],
       "faqsPt": [
         {
-          "q": "Manchester é uma boa cidade para viajar com cão?",
-          "a": "Sim, é uma das cidades do Reino Unido mais pet-friendly. Animais grátis no Metrolink, autocarros e comboios, pubs que acolhem cães em todas as ruas, e o espaço sem trela do Heaton Park a uma viagem de elétrico do centro. As principais particularidades são o AHC pós-Brexit para entradas da UE e a chuva."
+          "q": "Manchester e boa para uma escapada de fim de semana com cao?",
+          "a": "Sim. Heaton Park oferece 240 ha de parque sem trela acessivel de Metrolink. O Northern Quarter tem a melhor concentracao de cafes e bares dog-friendly em interior do norte de Inglaterra. Os comboios Avanti de London Euston demoram pouco mais de 2 horas."
         },
         {
-          "q": "Que documentos preciso para levar o meu cão a Manchester a partir da UE?",
-          "a": "Desde o Brexit, o passaporte europeu de animais deixou de ser aceite para entrar no Reino Unido. É necessário um Animal Health Certificate (AHC) emitido por um veterinário da UE até 10 dias antes da viagem, além da vacinação antirrábica e do tratamento contra a ténia nos cães."
-        },
-        {
-          "q": "O meu cão pode entrar nos museus e estádios de futebol de Manchester?",
-          "a": "Só os cães de assistência são admitidos no Science and Industry Museum, no Manchester Museum, no People's History Museum, em Old Trafford e no Etihad Stadium. As praças exteriores dos cinco são acessíveis com trela e gratuitas."
+          "q": "Posso levar um cao no elétrico Metrolink de Manchester?",
+          "a": "Sim. Os caes viajam gratuitamente em todos os elétricos Metrolink. Com trela e sem bloquear as passagens. Evite as horas de ponta (07:30-09:30 e 17:00-19:00) com um cao grande."
         }
       ]
     },
@@ -1031,6 +1077,21 @@
           "tipEs": "Filtra por Northern Quarter, Ancoats o Didsbury: los tres barrios con la mayor concentración de cuidadores acostumbrados a reservas expatriadas de última hora.",
           "descriptionPt": "A plataforma paga de cuidadores mais usada do Reino Unido, com centenas de cuidadores verificados em Manchester que oferecem passeios, visitas pontuais e alojamento durante a noite. Todas as reservas estão seguras através da plataforma e os passeios incluem monitorização por GPS. Útil para visitas curtas a museus ou passeios de dia inteiro pelo Lake District sem o cão.",
           "tipPt": "Filtre por Northern Quarter, Ancoats ou Didsbury: os três bairros com a maior concentração de cuidadores habituados a reservas de última hora de estrangeiros."
+        },
+        {
+          "name": "Rover.com Manchester",
+          "languages": [
+            "English"
+          ],
+          "description": "Largest UK pet-sitting platform with verified sitters throughout Manchester offering doggy day-care, drop-in visits and overnight boarding. All sitters background-checked, insurance included, average 18-28 GBP per day. Strong coverage in Didsbury, Chorlton and Ancoats.",
+          "descriptionFr": "Plus grande plateforme de pet-sitting UK avec des sitters verifies dans tout Manchester. Garderie, visites et hebergement. Sitters controles, assurance incluse, tarif moyen 18-28 GBP/jour. Forte couverture dans Didsbury, Chorlton and Ancoats.",
+          "descriptionEs": "La mayor plataforma de pet-sitting UK con cuidadores en Manchester. Guarderia, visitas y alojamiento. Verificados, seguro incluido, tarifa media 18-28 GBP/dia. Cobertura en Didsbury, Chorlton and Ancoats.",
+          "descriptionPt": "A maior plataforma de pet-sitting UK com cuidadores em Manchester. Creche, visitas e alojamento. Verificados, seguro incluido, tarifa media 18-28 GBP por dia. Cobertura em Didsbury, Chorlton and Ancoats.",
+          "website": "https://www.rover.com/uk/search/?location=Manchester",
+          "tip": "Book 48 hours ahead on summer weekends and bank holidays in Manchester.",
+          "tipFr": "Reservez 48h a l'avance les week-ends d'ete et jours feries a Manchester.",
+          "tipEs": "Reserva 48h antes los fines de semana de verano y festivos en Manchester.",
+          "tipPt": "Reserve 48h antes aos fins de semana de verao e feriados em Manchester."
         }
       ],
       "tipsEn": [

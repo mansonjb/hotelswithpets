@@ -3,7 +3,7 @@
   "name": "Liverpool",
   "country": "United Kingdom",
   "flag": "🇬🇧",
-  "lastUpdated": "2026-05-09",
+  "lastUpdated": "2026-06-28",
   "guides": {
     "restaurants": {
       "titleEn": "Dog-Friendly Restaurants in Liverpool",
@@ -428,6 +428,44 @@
           "descriptionPt": "A Merseyrail explora as linhas Wirral e Northern, ligando o centro da cidade a Southport, West Kirby, Chester e à península de Wirral. Até dois cães por passageiro viajam gratuitamente, ao critério do revisor, com trela e bem-comportados. Os novos comboios da Classe 777 têm átrios amplos que se adequam a cães de maior porte.",
           "petPolicyPt": "Até 2 cães por passageiro gratuitamente, com trela; ao critério do revisor",
           "tipPt": "A Wirral Line passa pelo túnel sob o rio; os cães bem-comportados aguentam bem, mas os cães ansiosos podem ter dificuldades. Experimente primeiro a Northern Line, mais lenta."
+        },
+        {
+          "name": "Arriva North West Buses",
+          "type": "City and regional buses",
+          "photo": "/images/city-places/liverpool-transport-arriva-north-west-buses.jpg",
+          "website": "https://www.arrivabus.co.uk/north-west",
+          "description": "Arriva North West operates city and cross-city bus routes across Liverpool and Merseyside alongside Stagecoach Merseyside. Leashed dogs travel free at the driver's discretion on all Arriva services. Routes 14 (City Centre to Sefton Park), 75 (City Centre to Calderstones) and the 86 (City Centre to Allerton) are the most useful for reaching off-leash parks. The bus is slower than Merseyrail for most destinations but reaches suburban parks not served by the train.",
+          "descriptionFr": "Arriva North West exploite des lignes de bus urbaines et trans-urbaines a Liverpool et dans le Merseyside aux cotes de Stagecoach Merseyside. Les chiens en laisse voyagent gratuitement a la discretion du chauffeur sur tous les services Arriva. Les lignes 14 (centre vers Sefton Park), 75 (centre vers Calderstones) et 86 (centre vers Allerton) sont les plus utiles pour les parcs sans laisse.",
+          "descriptionEs": "Arriva North West opera rutas de autobus urbanas y transurbanas por Liverpool y Merseyside junto a Stagecoach Merseyside. Los perros con correa viajan gratis a discrecion del conductor. Las rutas 14 (centro a Sefton Park), 75 (centro a Calderstones) y 86 (centro a Allerton) son las mas utiles para los parques sin correa.",
+          "descriptionPt": "A Arriva North West opera rotas de autocarro urbanas e transurbanas por Liverpool e Merseyside. Os caes com trela viajam gratuitamente ao criterio do motorista. As rotas 14 (centro para Sefton Park), 75 (centro para Calderstones) e 86 (centro para Allerton) sao as mais uteis para os parques sem trela.",
+          "petPolicy": "Dogs free at driver's discretion, lead required",
+          "petPolicyFr": "Chiens gratuits a discretion du chauffeur, laisse requise",
+          "petPolicyEs": "Perros gratis a discrecion del conductor, correa requerida",
+          "petPolicyPt": "Caes gratuitos ao criterio do motorista, trela obrigatoria",
+          "tip": "Use Merseytravel Journey Planner online for live bus times. The 14 bus to Sefton Park runs every 10-15 min from Liverpool Central station.",
+          "tipFr": "Utilisez le planificateur de voyage Merseytravel en ligne pour les horaires en temps reel. Le bus 14 pour Sefton Park circule toutes les 10-15 min depuis Liverpool Central.",
+          "tipEs": "Usa el planificador de viaje Merseytravel online para los horarios en tiempo real. El autobus 14 a Sefton Park circula cada 10-15 min desde Liverpool Central.",
+          "tipPt": "Use o planificador de viagem Merseytravel online para horarios em tempo real. O autocarro 14 para Sefton Park circula a cada 10-15 min a partir de Liverpool Central.",
+          "googleMapsUrl": "https://maps.google.com/?q=Liverpool+bus+station"
+        },
+        {
+          "name": "Mersey Ferry",
+          "type": "River ferry",
+          "photo": "/images/city-places/liverpool-transport-mersey-ferry.jpg",
+          "website": "https://www.merseyferries.co.uk/",
+          "description": "The Mersey Ferry runs between Liverpool Pier Head, Birkenhead Woodside and Seacombe (Wallasey). Dogs travel free on all Mersey Ferry crossings. The ferry is a unique Liverpool experience: the crossing takes about 15 minutes, offers excellent views of the Three Graces waterfront, and connects to the Wirral Country Park dog walking network on the far side. The All-Day River Explorer cruise also accepts leashed dogs.",
+          "descriptionFr": "Le Mersey Ferry relie Liverpool Pier Head, Birkenhead Woodside et Seacombe (Wallasey). Les chiens voyagent gratuitement sur toutes les traversees. Le ferry est une experience liverpoolienne unique : la traversee prend environ 15 minutes, offre d'excellentes vues sur les Three Graces et relie au reseau de promenades du Wirral Country Park de l'autre cote. La croisiere All-Day River Explorer accepte aussi les chiens en laisse.",
+          "descriptionEs": "El Mersey Ferry conecta Liverpool Pier Head, Birkenhead Woodside y Seacombe (Wallasey). Los perros viajan gratis en todas las travesias. El ferry es una experiencia unica de Liverpool: la travesia dura unos 15 minutos, ofrece excelentes vistas de los Three Graces y conecta con la red de paseos del Wirral Country Park al otro lado. El crucero All-Day River Explorer tambien admite perros con correa.",
+          "descriptionPt": "O Mersey Ferry liga Liverpool Pier Head, Birkenhead Woodside e Seacombe (Wallasey). Os caes viajam gratuitamente em todas as travessias. O ferry e uma experiencia unica de Liverpool: a travessia demora cerca de 15 minutos, oferece excelentes vistas dos Three Graces e liga a rede de passeios do Wirral Country Park do outro lado. O cruzeiro All-Day River Explorer tambem aceita caes com trela.",
+          "petPolicy": "Dogs free on all Mersey Ferry crossings and river cruises",
+          "petPolicyFr": "Chiens gratuits sur toutes les traversees et croisières Mersey Ferry",
+          "petPolicyEs": "Perros gratis en todas las travesias y cruceros Mersey Ferry",
+          "petPolicyPt": "Caes gratuitos em todas as travessias e cruzeiros Mersey Ferry",
+          "tip": "Take the ferry to Birkenhead Woodside and walk north along the Wirral Way (12-mile coastal path, fully off-leash, National Nature Reserve). Return by ferry from Seacombe for a 4-hour circuit.",
+          "tipFr": "Prenez le ferry jusqu'a Birkenhead Woodside et marchez vers le nord sur le Wirral Way (19 km de sentier cotier, entierement sans laisse, Reserve Naturelle Nationale). Retour en ferry depuis Seacombe pour un circuit de 4 heures.",
+          "tipEs": "Toma el ferry a Birkenhead Woodside y camina hacia el norte por el Wirral Way (19 km de camino costero, completamente sin correa, Reserva Natural Nacional). Regresa en ferry desde Seacombe para un circuito de 4 horas.",
+          "tipPt": "Apanhe o ferry para Birkenhead Woodside e caminhe para norte pelo Wirral Way (19 km de caminho costeiro, completamente sem trela, Reserva Natural Nacional). Regresse de ferry de Seacombe para um circuito de 4 horas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Liverpool+Pier+Head+Ferry+Terminal"
         }
       ],
       "tipsEn": [
@@ -784,89 +822,97 @@
       ]
     },
     "tips": {
-      "titleEn": "Pet Travel Tips for Liverpool",
-      "titleFr": "Conseils pratiques pour voyager avec son animal à Liverpool",
-      "titleEs": "Consejos prácticos para viajar con tu mascota a Liverpool",
-      "introEn": "Liverpool is among the most practical northern English cities for travelling with a dog: a compact walkable centre, a city park network within tram and train distance, three usable dog beaches, and dog-friendly Mersey Ferries to the Wirral. The main thing to plan around is the post-Brexit border paperwork if you are arriving from the EU. The tips below capture the rules that actually matter for a stay of a few days.",
-      "introFr": "Liverpool est l'une des villes du nord de l'Angleterre les plus pratiques pour voyager avec un chien : centre-ville compact et marchable, réseau de parcs urbains à portée de tram et de train, trois plages canines exploitables et ferries de la Mersey dog-friendly vers le Wirral. Le principal point à anticiper est la paperasse post-Brexit si vous arrivez depuis l'UE. Les conseils ci-dessous résument les règles qui comptent vraiment pour un séjour de quelques jours.",
-      "introEs": "Liverpool es una de las ciudades del norte de Inglaterra más prácticas para viajar con perro: centro compacto y caminable, red de parques urbanos a poca distancia en tren o tranvía, tres playas caninas utilizables y los Mersey Ferries dog-friendly hacia Wirral. Lo principal a planificar es el papeleo fronterizo post-Brexit si llegas desde la UE. Los consejos siguientes resumen las reglas que de verdad importan para una estancia de pocos días.",
-      "places": [],
+      "titleEn": "Travelling to Liverpool with a Dog: Practical Tips",
+      "titleFr": "Voyager a Liverpool avec un chien : conseils pratiques",
+      "titleEs": "Viajar a Liverpool con perro: consejos practicos",
+      "titlePt": "Viajar para Liverpool com um cao: conselhos praticos",
+      "introEn": "Liverpool has excellent off-leash parks (Sefton Park, Calderstones, Princes Park) within 20 minutes of the waterfront, a unique Mersey Ferry dog experience, and a genuinely dog-welcoming independent pub and cafe scene across the Baltic Triangle and Lark Lane.",
+      "introFr": "Liverpool a d'excellents parcs sans laisse (Sefton Park, Calderstones, Princes Park) a 20 minutes du front de mer, une experience unique du Mersey Ferry avec chien, et une scene independante de pubs et cafes genuinement dog-friendly a travers le Baltic Triangle et Lark Lane.",
+      "introEs": "Liverpool tiene excelentes parques sin correa (Sefton Park, Calderstones, Princes Park) a 20 minutos del paseo maritimo, una unica experiencia de ferry con perro por el Mersey, y una autentica escena independiente de pubs y cafes dog-friendly en el Baltic Triangle y Lark Lane.",
+      "introPt": "Liverpool tem excelentes parques sem trela (Sefton Park, Calderstones, Princes Park) a 20 minutos da frente maritima, uma unica experiencia de ferry com cao pelo Mersey, e uma genuina cena independente de pubs e cafes dog-friendly no Baltic Triangle e Lark Lane.",
+      "places": [
+        {
+          "name": "Best season for visiting Liverpool with a dog",
+          "photo": "/images/city-places/liverpool-tips-best-season.jpg",
+          "description": "May to September gives the best park conditions with warm, long days. The Liverpool waterfront is excellent year-round; the Albert Dock promenade is car-free and fully dog-friendly in all weathers. Avoid the August Bank Holiday weekend when the city fills for the Mathew Street Music Festival and accommodation prices spike. October and November are quiet, excellent for Sefton Park leaf season.",
+          "descriptionFr": "Mai a septembre donne les meilleures conditions de parc avec des journees chaudes et longues. Le front de mer de Liverpool est excellent toute l'annee ; le promenade de l'Albert Dock est sans voiture et entierement dog-friendly par tous les temps. Evitez le week-end du Bank Holiday d'aout quand la ville se remplit pour le Mathew Street Music Festival. Octobre et novembre sont calmes, excellents pour le feuillage de Sefton Park.",
+          "descriptionEs": "Mayo a septiembre da las mejores condiciones de parque con dias calidos y largos. El paseo maritimo de Liverpool es excelente todo el ano; el paseo de Albert Dock es libre de coches y completamente dog-friendly con cualquier tiempo. Evita el fin de semana del Bank Holiday de agosto cuando la ciudad se llena para el Mathew Street Music Festival. Octubre y noviembre estan tranquilos, excelentes para el follaje de Sefton Park.",
+          "descriptionPt": "De maio a setembro tem as melhores condicoes de parque com dias quentes e longos. A frente maritima de Liverpool e excelente durante todo o ano; o passeio de Albert Dock e sem carros e completamente dog-friendly em qualquer tempo. Evite o fim de semana do Bank Holiday de agosto quando a cidade se enche para o Mathew Street Music Festival. Outubro e novembro estao tranquilos, excelentes para a folhagem de Sefton Park."
+        },
+        {
+          "name": "UK pet-import paperwork (2026)",
+          "description": "From the EU: ISO microchip, valid rabies vaccination (21 days min) and a GB Animal Health Certificate (AHC) from an EU official vet within 10 days of arrival. Valid 4 months for return. Tapeworm treatment only for Ireland, Finland, Malta or Norway.",
+          "descriptionFr": "De l'UE: puce ISO, vaccin antirabique (21 jours) et AHC par OV de l'UE dans les 10 jours. 4 mois pour retour. Antitenias Irlande, Finlande, Malte, Norvege seulement.",
+          "descriptionEs": "De la UE: microchip ISO, vacuna antirrábica (21 dias) y AHC por OV de la UE en 10 dias. 4 meses retorno. Antitenia solo Irlanda, Finlandia, Malta, Noruega.",
+          "descriptionPt": "Da UE: microchip ISO, vacinacao antirabica (21 dias) e AHC por OV da UE nos 10 dias. 4 meses regresso. Anti-tenia so Irlanda, Finlandia, Malta, Noruega."
+        },
+        {
+          "name": "Walking Liverpool with a dog",
+          "photo": "/images/city-places/liverpool-tips-walking-with-a-dog.jpg",
+          "description": "Sefton Park (200 acres, 3 km south of centre, fully off-leash on all grass areas, Palm House dogs on lead only) is the primary Liverpool dog walk and social hub: weekend mornings see hundreds of dogs in the meadow areas. The Albert Dock to Pier Head waterfront circuit (2 km, flat, paved) is the city-centre route. For a longer walk, Calderstones Park (40 acres, formal gardens and meadow, 5 km south, fully off-leash on grass) links to the Allerton and Clarke Gardens trail.",
+          "descriptionFr": "Sefton Park (80 ha, 3 km au sud du centre, entierement sans laisse sur toutes les zones herbacees, Palm House chiens en laisse seulement) est la principale promenade canine de Liverpool et son hub social : les matins de week-end voient des centaines de chiens dans les zones de prairie. Le circuit de front de mer d'Albert Dock au Pier Head (2 km, plat, pave) est l'itineraire du centre. Pour une promenade plus longue, Calderstones Park (16 ha, jardins formels et prairie, 5 km au sud, entierement sans laisse sur gazon) relie a la piste Allerton et Clarke Gardens.",
+          "descriptionEs": "Sefton Park (80 ha, 3 km al sur del centro, completamente sin correa en todas las areas de cesped, Palm House solo con correa) es el principal paseo canino de Liverpool y su hub social: los domingos por la manana hay cientos de perros en las areas de pradera. El circuito del paseo maritimo de Albert Dock al Pier Head (2 km, llano, pavimentado) es la ruta del centro. Para un paseo mas largo, Calderstones Park (16 ha, jardines formales y pradera, 5 km al sur, completamente sin correa en cesped) conecta con la ruta de Allerton y Clarke Gardens.",
+          "descriptionPt": "Sefton Park (80 ha, 3 km a sul do centro, completamente sem trela em todas as areas de relva, Palm House apenas com trela) e o principal passeio canino de Liverpool e o seu hub social: os domingos de manha ve centenas de caes nas areas de pradaria. O circuito da frente maritima de Albert Dock ao Pier Head (2 km, plano, pavimentado) e a rota do centro da cidade. Para uma caminhada mais longa, Calderstones Park (16 ha, jardins formais e pradaria, 5 km a sul, completamente sem trela na relva) liga a rota de Allerton e Clarke Gardens."
+        }
+      ],
       "tipsEn": [
-        "Post-Brexit, EU pet passports are no longer accepted on entry to the UK, you need an Animal Health Certificate (AHC) issued by an EU vet within 10 days of travel, plus a microchip and rabies vaccination.",
-        "Save the Vets Now emergency number +44 151 525 0707 in your phone before arrival, it routes to the 24/7 Netherton emergency clinic.",
-        "Use the Mersey Ferries (free for leashed dogs) for a Wirral day trip, combine with New Brighton Beach and a walk in Birkenhead Park, the model for Central Park in New York."
+        "The Beatles Story museum (Albert Dock) and the Walker Art Gallery do not admit dogs. Plan a pet-sitting slot for these; each takes 1 to 2 hours. Lark Lane has several dog-friendly cafes within 400 metres of each other as a nearby waiting option.",
+        "Lark Lane (Aigburth, 4 km south, Merseyrail to St Michael's then 10 min walk) has the highest density of dog-welcoming independent cafes in Liverpool. Almost every independent cafe and several wine bars admit leashed dogs at indoor tables.",
+        "Liverpool's Baltic Triangle (Cains Brewery Village, Jamaica Street) has a growing cluster of dog-friendly craft beer bars and street food venues. Most are open Thursdays to Sundays."
       ],
       "tipsFr": [
-        "Depuis le Brexit, les passeports européens pour animaux ne sont plus acceptés à l'entrée du Royaume-Uni, il faut un Animal Health Certificate (AHC) délivré par un vétérinaire européen dans les 10 jours précédant le voyage, ainsi que la puce électronique et la vaccination antirabique.",
-        "Enregistrez le numéro d'urgence Vets Now +44 151 525 0707 dans votre téléphone avant votre arrivée, il redirige vers la clinique d'urgence 24h/24 de Netherton.",
-        "Profitez des Mersey Ferries (gratuits pour les chiens en laisse) pour une excursion d'une journée au Wirral, combinez avec New Brighton Beach et une balade à Birkenhead Park, modèle de Central Park à New York."
+        "The Beatles Story (Albert Dock) et la Walker Art Gallery n'admettent pas les chiens. Prevoyez un slot de pet-sitting ; chacun prend 1 a 2 heures. Lark Lane a plusieurs cafes dog-friendly dans un rayon de 400 m comme option d'attente.",
+        "Lark Lane (Aigburth, 4 km au sud, Merseyrail jusqu'a St Michael's puis 10 min a pied) a la plus forte densite de cafes independants dog-friendly de Liverpool. Presque tous les cafes et plusieurs bars a vin admettent les chiens en laisse aux tables interieures.",
+        "Le Baltic Triangle de Liverpool (Cains Brewery Village, Jamaica Street) a un cluster croissant de bars a bieres artisanales et de food trucks dog-friendly. La plupart sont ouverts du jeudi au dimanche."
       ],
       "tipsEs": [
-        "Tras el Brexit, los pasaportes europeos para mascotas ya no se aceptan a la entrada del Reino Unido: necesitas un Animal Health Certificate (AHC) emitido por un veterinario de la UE en los 10 días previos al viaje, además de microchip y vacunación antirrábica.",
-        "Guarda el número de urgencias Vets Now +44 151 525 0707 en el móvil antes de llegar: deriva a la clínica de urgencias 24/7 de Netherton.",
-        "Aprovecha los Mersey Ferries (gratis para perros con correa) para una excursión de un día al Wirral: combina con New Brighton Beach y un paseo por Birkenhead Park, modelo del Central Park de Nueva York."
+        "The Beatles Story (Albert Dock) y la Walker Art Gallery no admiten perros. Planifica un horario de pet-sitting; cada uno tarda 1 a 2 horas. Lark Lane tiene varios cafes dog-friendly en un radio de 400 m como opcion de espera.",
+        "Lark Lane (Aigburth, 4 km al sur, Merseyrail hasta St Michael's y luego 10 min a pie) tiene la mayor densidad de cafes independientes dog-friendly en Liverpool. Practicamente todos los cafes y varios bares de vinos admiten perros con correa en mesas interiores.",
+        "El Baltic Triangle de Liverpool (Cains Brewery Village, Jamaica Street) tiene un cluster creciente de bares de cerveza artesana y food trucks dog-friendly. La mayoria abren de jueves a domingo."
+      ],
+      "tipsPt": [
+        "The Beatles Story (Albert Dock) e a Walker Art Gallery nao admitem caes. Planeie uma hora de pet-sitting; cada um demora 1 a 2 horas. Lark Lane tem varios cafes dog-friendly num raio de 400 m como opcao de espera.",
+        "Lark Lane (Aigburth, 4 km a sul, Merseyrail ate St Michael's e depois 10 min a pe) tem a maior densidade de cafes independentes dog-friendly em Liverpool. Praticamente todos os cafes e varios bares de vinho admitem caes com trela nas mesas interiores.",
+        "O Baltic Triangle de Liverpool (Cains Brewery Village, Jamaica Street) tem um cluster crescente de bares de cerveja artesanal e food trucks dog-friendly. A maioria abre de quinta a domingo."
       ],
       "faqsEn": [
         {
-          "q": "Is Liverpool a good city for travelling with a dog?",
-          "a": "Yes, among the best in north-west England. Public transport accepts pets free, three dog beaches sit within 25 minutes by Merseyrail, and the Baltic Triangle / Albert Dock pub corridor is reliably dog-welcoming year-round."
+          "q": "Is Liverpool good for a dog-friendly weekend break?",
+          "a": "Yes. Sefton Park (200 acres off-leash) and Calderstones are excellent, the Albert Dock waterfront circuit is flat and dog-friendly, and the Mersey Ferry accepts dogs free. Avanti trains from London Euston take 2h10."
         },
         {
-          "q": "What documents do I need to bring my dog to the UK?",
-          "a": "An Animal Health Certificate (AHC) from an EU vet, issued within 10 days of travel, plus proof of rabies vaccination and a microchip. UK customs also requires tapeworm treatment for dogs entering from the EU."
-        },
-        {
-          "q": "Can my dog visit the Beatles Story or Tate Liverpool?",
-          "a": "No, most Liverpool museums admit only assistance dogs. Albert Dock outdoor areas, the Pier Head waterfront, and the Liverpool Cathedral grounds are all leashed-dog friendly."
+          "q": "Can I take a dog on the Mersey Ferry?",
+          "a": "Yes, dogs travel free on all Mersey Ferry crossings and river cruises. Keep the dog on a lead on the boat. The ferry connects to the Wirral Country Park on the far side for a longer walk."
         }
       ],
       "faqsFr": [
         {
-          "q": "Liverpool est-elle une bonne ville pour voyager avec un chien ?",
-          "a": "Oui, parmi les meilleures du nord-ouest de l'Angleterre. Les transports publics acceptent les animaux gratuitement, trois plages canines sont à 25 minutes en Merseyrail, et le couloir de pubs Baltic Triangle / Albert Dock accueille les chiens à l'année."
+          "q": "Liverpool est-elle bonne pour un week-end dog-friendly ?",
+          "a": "Oui. Sefton Park (80 ha sans laisse) et Calderstones sont excellents, le circuit du front de mer Albert Dock est plat et dog-friendly, et le Mersey Ferry accepte les chiens gratuitement. Les trains Avanti depuis London Euston prennent 2h10."
         },
         {
-          "q": "Quels documents faut-il pour emmener son chien au Royaume-Uni ?",
-          "a": "Un Animal Health Certificate (AHC) délivré par un vétérinaire européen dans les 10 jours précédant le voyage, ainsi que la preuve de vaccination antirabique et la puce électronique. Les douanes britanniques exigent aussi un traitement contre les ténias pour les chiens en provenance de l'UE."
-        },
-        {
-          "q": "Mon chien peut-il visiter le Beatles Story ou la Tate Liverpool ?",
-          "a": "Non, la plupart des musées de Liverpool n'admettent que les chiens d'assistance. Les espaces extérieurs de l'Albert Dock, le front de mer du Pier Head et les abords de la Liverpool Cathedral acceptent tous les chiens en laisse."
+          "q": "Puis-je prendre un chien sur le Mersey Ferry ?",
+          "a": "Oui, les chiens voyagent gratuitement sur toutes les traversees et croisières du Mersey Ferry. Gardez le chien en laisse sur le bateau. Le ferry relie au Wirral Country Park de l'autre cote pour une promenade plus longue."
         }
       ],
       "faqsEs": [
         {
-          "q": "¿Es Liverpool una buena ciudad para viajar con perro?",
-          "a": "Sí: entre las mejores del noroeste de Inglaterra. El transporte público admite mascotas gratis, tres playas caninas están a 25 minutos en Merseyrail y el corredor de pubs Baltic Triangle / Albert Dock acoge perros todo el año."
+          "q": "¿Liverpool es buena para una escapada dog-friendly de fin de semana?",
+          "a": "Si. Sefton Park (80 ha sin correa) y Calderstones son excelentes, el circuito del paseo maritimo de Albert Dock es llano y dog-friendly, y el Mersey Ferry acepta perros gratis. Los trenes Avanti desde London Euston tardan 2h10."
         },
         {
-          "q": "¿Qué documentos necesito para llevar a mi perro al Reino Unido?",
-          "a": "Un Animal Health Certificate (AHC) emitido por un veterinario de la UE en los 10 días previos al viaje, prueba de vacunación antirrábica y microchip. La aduana británica exige también tratamiento antiparasitario para perros que entran desde la UE."
-        },
-        {
-          "q": "¿Puede visitar mi perro el Beatles Story o el Tate Liverpool?",
-          "a": "No: la mayoría de los museos de Liverpool solo admiten perros de asistencia. Las zonas exteriores del Albert Dock, el paseo del Pier Head y los alrededores de la Liverpool Cathedral admiten perros con correa."
+          "q": "¿Puedo llevar un perro en el Mersey Ferry?",
+          "a": "Si, los perros viajan gratis en todas las travesias y cruceros del Mersey Ferry. Mantén al perro con correa en el barco. El ferry conecta al Wirral Country Park al otro lado para un paseo mas largo."
         }
-      ],
-      "titlePt": "Dicas de viagem com animais para Liverpool",
-      "introPt": "Liverpool figura entre as cidades do norte de Inglaterra mais práticas para viajar com um cão: um centro compacto e percorrível a pé, uma rede de parques urbanos à distância de elétrico e comboio, três praias para cães utilizáveis e Mersey Ferries pet-friendly até Wirral. O principal aspeto a planear é a papelada de fronteira pós-Brexit, se chegar da UE. As dicas abaixo reúnem as regras que realmente importam para uma estadia de alguns dias.",
-      "tipsPt": [
-        "Após o Brexit, os passaportes de animal da UE deixaram de ser aceites na entrada no Reino Unido; precisa de um Animal Health Certificate (AHC) emitido por um veterinário da UE nos 10 dias anteriores à viagem, além de microchip e vacinação contra a raiva.",
-        "Guarde o número de urgência da Vets Now +44 151 525 0707 no telemóvel antes de chegar; encaminha para a clínica de urgência 24/7 de Netherton.",
-        "Use os Mersey Ferries (gratuitos para cães com trela) para uma excursão de um dia a Wirral, combinando-a com a New Brighton Beach e um passeio no Birkenhead Park, o modelo para o Central Park de Nova Iorque."
       ],
       "faqsPt": [
         {
-          "q": "Liverpool é uma boa cidade para viajar com um cão?",
-          "a": "Sim, figura entre as melhores do noroeste de Inglaterra. Os transportes públicos aceitam animais gratuitamente, três praias para cães ficam a menos de 25 minutos pela Merseyrail e o corredor de pubs do Baltic Triangle / Albert Dock acolhe cães de forma fiável durante todo o ano."
+          "q": "Liverpool e boa para uma escapada de fim de semana com cao?",
+          "a": "Sim. Sefton Park (80 ha sem trela) e Calderstones sao excelentes, o circuito da frente maritima de Albert Dock e plano e dog-friendly, e o Mersey Ferry aceita caes gratuitamente. Os comboios Avanti de London Euston demoram 2h10."
         },
         {
-          "q": "Que documentos preciso para levar o meu cão ao Reino Unido?",
-          "a": "Um Animal Health Certificate (AHC) de um veterinário da UE, emitido nos 10 dias anteriores à viagem, além de prova de vacinação contra a raiva e microchip. A alfândega do Reino Unido exige também tratamento contra a ténia para os cães que entram a partir da UE."
-        },
-        {
-          "q": "O meu cão pode visitar a Beatles Story ou a Tate Liverpool?",
-          "a": "Não, a maioria dos museus de Liverpool admite apenas cães de assistência. As zonas exteriores do Albert Dock, a marginal do Pier Head e os jardins da Catedral de Liverpool acolhem cães com trela."
+          "q": "Posso levar um cao no Mersey Ferry?",
+          "a": "Sim, os caes viajam gratuitamente em todas as travessias e cruzeiros do Mersey Ferry. Mantenha o cao com trela no barco. O ferry liga ao Wirral Country Park do outro lado para uma caminhada mais longa."
         }
       ]
     },
@@ -1042,6 +1088,21 @@
           "tipEs": "Reserva al menos 48 horas antes en verano: los cuidadores del Georgian Quarter y alrededor de Sefton Park son los primeros en llenarse en julio y agosto.",
           "descriptionPt": "O maior mercado verificado de cuidadores de animais do Reino Unido, com várias centenas de reservas em Liverpool e classificações médias acima de 4,9 em 5. Oferece visitas pontuais, creche de dia inteiro, passeios de cães e alojamento durante a noite, tudo reservável em inglês e segurado através da plataforma.",
           "tipPt": "Reserve com pelo menos 48 horas de antecedência no verão; os cuidadores do Georgian Quarter e em torno do Sefton Park são os primeiros a esgotar em julho e agosto."
+        },
+        {
+          "name": "Tailster Liverpool",
+          "languages": [
+            "English"
+          ],
+          "description": "UK-only platform with 24/7 vet helpline included in every booking. Verified sitters across Liverpool, all DBS-checked. Average 20-30 GBP per day for boarding, 14-16 GBP for a 30-minute drop-in. Strong presence in Aigburth, Mossley Hill and Wavertree.",
+          "descriptionFr": "Plateforme exclusivement UK avec ligne veto 24/7 incluse. Sitters verifies a Liverpool, tous DBS. Moyenne 20-30 GBP/jour hebergement, 14-16 GBP visite 30 min. Forte presence dans Aigburth, Mossley Hill and Wavertree.",
+          "descriptionEs": "Plataforma exclusivamente UK con linea veterinaria 24/7 incluida. Cuidadores verificados en Liverpool, todos DBS. Media 20-30 GBP/dia alojamiento, 14-16 GBP visita 30 min. Fuerte presencia en Aigburth, Mossley Hill and Wavertree.",
+          "descriptionPt": "Plataforma exclusivamente UK com linha veterinaria 24/7 incluida. Cuidadores verificados em Liverpool, todos DBS. Media 20-30 GBP/dia alojamento, 14-16 GBP visita 30 min. Forte presenca em Aigburth, Mossley Hill and Wavertree.",
+          "website": "https://www.tailster.com/",
+          "tip": "Use the in-app chat to confirm the sitter's walks pass through the main off-leash parks in Liverpool.",
+          "tipFr": "Utilisez le chat de l'app pour confirmer que les promenades du sitter passent par les principaux parcs sans laisse de Liverpool.",
+          "tipEs": "Usa el chat de la app para confirmar que los paseos del cuidador pasan por los principales parques sin correa de Liverpool.",
+          "tipPt": "Use o chat da aplicacao para confirmar que os passeios do cuidador passam pelos principais parques sem trela de Liverpool."
         }
       ],
       "tipsEn": [

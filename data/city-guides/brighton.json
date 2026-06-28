@@ -3,7 +3,7 @@
   "name": "Brighton",
   "country": "United Kingdom",
   "flag": "🇬🇧",
-  "lastUpdated": "2026-04-27",
+  "lastUpdated": "2026-06-28",
   "guides": {
     "restaurants": {
       "titleEn": "Dog-Friendly Restaurants in Brighton",
@@ -416,6 +416,44 @@
           "descriptionPt": "A premiada rede de autocarros locais cobre o centro de Brighton, Hove e as aldeias circundantes. Os cães viajam grátis, sem necessidade de bilhete. O limite normal é de dois cães por passageiro; mais do que isso requer a autorização do motorista. Os cães têm de ir no chão ou ao colo do dono, nunca nos bancos.",
           "petPolicyPt": "Até 2 cães grátis; só no chão ou ao colo; ao critério do motorista quando vai cheio",
           "tipPt": "Evita as horas de ponta, das 08h00 às 09h30 e das 16h30 às 18h30, com um cão grande: os autocarros enchem e o motorista pode recusar a entrada."
+        },
+        {
+          "name": "Southern Railway / Thameslink (Brighton Station)",
+          "type": "Mainline rail",
+          "photo": "/images/city-places/brighton-transport-southern-railway.jpg",
+          "website": "https://www.southernrailway.com/",
+          "description": "Southern Railway and Thameslink operate the main London to Brighton route (London Victoria 1h00, London Bridge 1h05, London St Pancras 1h27 via Thameslink). Up to two well-behaved dogs travel free per fare-paying passenger. Dogs must be on a lead and kept under control. Brighton station is 15 minutes on foot from the seafront, or take any bus south.",
+          "descriptionFr": "Southern Railway et Thameslink exploitent la ligne principale Londres-Brighton (London Victoria 1h00, London Bridge 1h05, London St Pancras 1h27 via Thameslink). Jusqu'a deux chiens bien tenus voyagent gratuitement par passager payant. En laisse et sous controle. La gare de Brighton est a 15 min a pied du front de mer.",
+          "descriptionEs": "Southern Railway y Thameslink operan la linea principal Londres-Brighton (London Victoria 1h00, London Bridge 1h05, London St Pancras 1h27 via Thameslink). Hasta dos perros bien portados viajan gratis por pasajero. Con correa y bajo control. La estacion de Brighton esta a 15 min a pie del paseo maritimo.",
+          "descriptionPt": "A Southern Railway e a Thameslink operam a linha principal Londres-Brighton (London Victoria 1h00, London Bridge 1h05, London St Pancras 1h27 via Thameslink). Ate dois caes bem-comportados viajam gratuitamente por passageiro. Com trela e sob controlo. A estacao de Brighton fica a 15 min a pe do passeio maritimo.",
+          "petPolicy": "Up to 2 dogs free per passenger, on lead",
+          "petPolicyFr": "Jusqu'a 2 chiens gratuits par passager, en laisse",
+          "petPolicyEs": "Hasta 2 perros gratis por pasajero, con correa",
+          "petPolicyPt": "Ate 2 caes gratuitos por passageiro, com trela",
+          "tip": "Off-peak trains (before 06:30 and after 09:30 from London) are much quieter and much cheaper. Brighton trains fill on summer Fridays and Saturdays, book ahead.",
+          "tipFr": "Les trains hors pointe (avant 6h30 et apres 9h30 depuis Londres) sont bien plus calmes et moins chers. Les trains de Brighton se remplissent les vendredis et samedis d'ete, reservez a l'avance.",
+          "tipEs": "Los trenes fuera de hora punta (antes de las 06:30 y despues de las 09:30 desde Londres) son mucho mas tranquilos y baratos. Los trenes de Brighton se llenan los viernes y sabados de verano, reserva con antelacion.",
+          "tipPt": "Os comboios fora das horas de ponta (antes das 06:30 e depois das 09:30 de Londres) sao muito mais tranquilos e baratos. Os comboios de Brighton enchem-se as sextas e sabados de verao, reserve com antecedencia.",
+          "googleMapsUrl": "https://maps.google.com/?q=Brighton+Railway+Station"
+        },
+        {
+          "name": "Lime / Beryl Brighton Bikes",
+          "type": "Shared cycling",
+          "photo": "/images/city-places/brighton-transport-lime-bikes.jpg",
+          "website": "https://www.beryl.cc/brighton",
+          "description": "Beryl (previously Lime) operates Brighton's dock-free e-bike hire network covering the seafront, North Laine and Hove. Small dogs can ride in a handlebar basket or dog-specific cargo attachment (user's own). The seafront cycleway from Hove to Brighton Marina (5 km, flat, car-free) is the easiest dog-friendly cycling route in the city.",
+          "descriptionFr": "Beryl (anciennement Lime) exploite le reseau de location de velos electriques sans station de Brighton couvrant le front de mer, North Laine et Hove. Les petits chiens peuvent voyager dans un panier de guidon ou un accessoire cargo specifique (a l'utilisateur). La piste cyclable du front de mer de Hove a Brighton Marina (5 km, plate, sans voitures) est l'itineraire cycliste dog-friendly le plus facile de la ville.",
+          "descriptionEs": "Beryl (antes Lime) opera la red de alquiler de e-bikes sin estacion de Brighton cubriendo el paseo maritimo, North Laine y Hove. Los perros pequenos pueden ir en cesto de manillar o accesorio cargo especifico (del usuario). La via ciclista del paseo maritimo de Hove a Brighton Marina (5 km, llana, sin coches) es el recorrido ciclista dog-friendly mas facil de la ciudad.",
+          "descriptionPt": "A Beryl (anteriormente Lime) opera a rede de aluguer de e-bikes sem estacao de Brighton cobrindo o passeio maritimo, North Laine e Hove. Os caes pequenos podem viajar numa cesta de guiador ou acessorio de carga proprio (do utilizador). A ciclovia do passeio maritimo de Hove a Brighton Marina (5 km, plana, sem carros) e o percurso ciclista dog-friendly mais facil da cidade.",
+          "petPolicy": "Small dogs in basket or owner's carrier; no formal dog policy, at rider's discretion",
+          "petPolicyFr": "Petits chiens en panier ou porteur; pas de politique formelle, a la discretion du cycliste",
+          "petPolicyEs": "Perros pequenos en cesto o portador del usuario; sin politica formal, a discrecion del ciclista",
+          "petPolicyPt": "Caes pequenos em cesto ou portador proprio; sem politica formal, ao criterio do ciclista",
+          "tip": "The seafront cycle path is two-way and busy on summer weekends. Use early morning (before 09:00) for the most enjoyable dog-friendly ride.",
+          "tipFr": "La piste cyclable du front de mer est bidirectionnelle et tres frequentee les week-ends d'ete. Utilisez le matin tot (avant 9h) pour le trajet dog-friendly le plus agreable.",
+          "tipEs": "La pista ciclista del paseo maritimo es bidireccional y esta muy concurrida los fines de semana de verano. Usa el temprano mañana (antes de las 09:00) para el paseo dog-friendly mas agradable.",
+          "tipPt": "A ciclovia do passeio maritimo e bidirecional e muito frequentada aos fins de semana de verao. Use o inicio da manha (antes das 09:00) para o passeio dog-friendly mais agradavel.",
+          "googleMapsUrl": "https://maps.google.com/?q=Brighton+seafront+cycle+path"
         }
       ],
       "tipsEn": [
@@ -773,89 +811,97 @@
       ]
     },
     "tips": {
-      "titleEn": "Pet Travel Tips for Brighton",
-      "titleFr": "Conseils pratiques pour voyager avec son animal à Brighton",
-      "titleEs": "Consejos prácticos para viajar con tu mascota a Brighton",
-      "introEn": "Brighton is one of the easiest UK cities for travelling with a dog, pets travel free on the buses, the seafront has dog-friendly cafés every 100 metres, and the South Downs National Park starts five kilometres from the centre. The thing to plan around is the summer beach calendar (1 May–30 September on most central beaches). The tips below cover the few rules that actually matter.",
-      "introFr": "Brighton est l'une des villes britanniques les plus simples pour voyager avec un chien, animaux gratuits dans les bus, cafés dog-friendly tous les 100 mètres sur le front de mer, et le parc national des South Downs qui commence à 5 km du centre. Le seul point à anticiper est le calendrier estival des plages (1er mai-30 septembre sur la plupart des plages centrales). Les conseils ci-dessous couvrent les rares règles qui comptent vraiment.",
-      "introEs": "Brighton es una de las ciudades del Reino Unido más sencillas para viajar con perro: mascotas gratis en los autobuses, cafés dog-friendly cada 100 metros en el paseo marítimo y el parque nacional South Downs empieza a 5 km del centro. Lo único que hay que planificar es el calendario estival de playa (1 may-30 sep en la mayoría de las playas centrales). Los consejos siguientes cubren las pocas reglas que de verdad importan.",
-      "places": [],
+      "titleEn": "Travelling to Brighton with a Dog: Practical Tips",
+      "titleFr": "Voyager a Brighton avec un chien : conseils pratiques",
+      "titleEs": "Viajar a Brighton con perro: consejos practicos",
+      "titlePt": "Viajar para Brighton com um cao: conselhos praticos",
+      "introEn": "Brighton is one of the UK's most dog-welcoming coastal cities. A long seafront promenade, South Downs access 3 km from the centre, and an indie cafe culture that defaults to dog-friendly make it an easy weekend break with a dog.",
+      "introFr": "Brighton est l'une des villes cotieres UK les plus dog-friendly. Un long promenade de bord de mer, l'acces aux South Downs a 3 km du centre et une culture indie de cafes naturellement dog-friendly en font un city-break facile avec un chien.",
+      "introEs": "Brighton es una de las ciudades costeras UK mas dog-friendly. Un largo paseo maritimo, acceso a los South Downs a 3 km del centro y una cultura indie de cafes naturalmente dog-friendly hacen que sea un city-break facil con perro.",
+      "introPt": "Brighton e uma das cidades costeiras do Reino Unido mais dog-friendly. Um longo passeio maritimo, acesso aos South Downs a 3 km do centro e uma cultura indie de cafes naturalmente dog-friendly tornam-na uma escapada facil com cao.",
+      "places": [
+        {
+          "name": "Best season and beach rules for Brighton with a dog",
+          "photo": "/images/city-places/brighton-tips-best-season.jpg",
+          "description": "Brighton beach is managed for dogs year-round but some sections have seasonal restrictions May to September. Dogs are always welcome on the shingle beach east of Brighton Marina and west of the West Pier ruins. The central section (between Palace Pier and West Pier) has peak-season restrictions on some days; check the council signage on arrival. The South Downs in late September and October are exceptional: quieter trails, lower temperatures, still-green hills.",
+          "descriptionFr": "La plage de Brighton est geree pour les chiens toute l'annee mais certaines sections ont des restrictions saisonnieres de mai a septembre. Les chiens sont toujours bienvenus sur la plage de galets a l'est de Brighton Marina et a l'ouest des ruines du West Pier. La section centrale (entre Palace Pier et West Pier) a des restrictions en haute saison certains jours ; verifiez la signalisation du conseil a l'arrivee. Les South Downs fin septembre et octobre sont exceptionnels : sentiers plus calmes, temperatures plus basses, collines encore vertes.",
+          "descriptionEs": "La playa de Brighton esta gestionada para perros todo el ano pero algunas secciones tienen restricciones estacionales de mayo a septiembre. Los perros siempre son bienvenidos en la playa de guijarros al este de Brighton Marina y al oeste de las ruinas del West Pier. La seccion central (entre Palace Pier y West Pier) tiene restricciones en alta temporada algunos dias; verifica la senalizacion del ayuntamiento al llegar. Los South Downs a finales de septiembre y octubre son excepcionales: senderos mas tranquilos, temperaturas mas bajas, colinas aun verdes.",
+          "descriptionPt": "A praia de Brighton e gerida para caes durante todo o ano mas algumas seccoes tem restricoes sazonais de maio a setembro. Os caes sao sempre bem-vindos na praia de calhaus a leste de Brighton Marina e a oeste das ruinas do West Pier. A seccao central (entre Palace Pier e West Pier) tem restricoes em alta temporada em alguns dias; verifique a sinalizacao do conselho a chegada. Os South Downs no final de setembro e outubro sao excecionais: trilhos mais tranquilos, temperaturas mais baixas, colinas ainda verdes."
+        },
+        {
+          "name": "UK pet-import paperwork (2026)",
+          "description": "From the EU: ISO microchip, valid rabies vaccination (21 days min) and a GB Animal Health Certificate (AHC) issued by an EU official vet within 10 days of arrival. Valid 4 months for return. Tapeworm treatment only for Ireland, Finland, Malta or Norway.",
+          "descriptionFr": "De l'UE: puce ISO, vaccin antirabique (21 jours min) et AHC par OV de l'UE dans les 10 jours. 4 mois pour le retour. Antitenias seulement pour Irlande, Finlande, Malte ou Norvege.",
+          "descriptionEs": "De la UE: microchip ISO, vacuna antirrábica (21 dias min) y AHC por OV de la UE en 10 dias. 4 meses para retorno. Antitenia solo para Irlanda, Finlandia, Malta o Noruega.",
+          "descriptionPt": "Da UE: microchip ISO, vacinacao antirabica (21 dias min) e AHC por OV da UE nos 10 dias. 4 meses para regresso. Anti-tenia so para Irlanda, Finlandia, Malta ou Noruega."
+        },
+        {
+          "name": "Walking Brighton with a dog",
+          "photo": "/images/city-places/brighton-tips-walking-with-a-dog.jpg",
+          "description": "The best route links the seafront promenade (10 km from Rottingdean to Hove Lagoon, flat, fully dog-welcoming) with the South Downs via the Undercliff Path east of Brighton Marina. Devil's Dyke (6 km north of Brighton, National Trust, 700-acre chalk downland, dogs off-leash on open grassland) is the easiest big off-leash walk. Take the number 77 bus from the Old Steine (dogs accepted at driver's discretion).",
+          "descriptionFr": "Le meilleur itineraire relie la promenade du bord de mer (10 km de Rottingdean au Hove Lagoon, plat, entierement dog-friendly) aux South Downs via l'Undercliff Path a l'est de Brighton Marina. Devil's Dyke (6 km au nord de Brighton, National Trust, 280 ha de prairie calcaire, chiens sans laisse sur les pres ouverts) est la plus grande promenade sans laisse la plus accessible. Prenez le bus 77 depuis Old Steine (chiens acceptes a la discretion du chauffeur).",
+          "descriptionEs": "La mejor ruta une el paseo maritimo (10 km de Rottingdean al Hove Lagoon, llano, completamente dog-friendly) con los South Downs via el Undercliff Path al este de Brighton Marina. Devil's Dyke (6 km al norte de Brighton, National Trust, 280 ha de pradera caliza, perros sin correa en pradera abierta) es el mejor gran paseo sin correa accesible. Toma el autobus 77 desde el Old Steine (perros admitidos a discrecion del conductor).",
+          "descriptionPt": "A melhor rota liga o passeio maritimo (10 km de Rottingdean ao Hove Lagoon, plano, completamente dog-friendly) aos South Downs pelo Undercliff Path a leste de Brighton Marina. Devil's Dyke (6 km a norte de Brighton, National Trust, 280 ha de pradaria calcaria, caes sem trela em pradaria aberta) e o melhor grande passeio sem trela acessivel. Apanhe o autocarro 77 a partir do Old Steine (caes aceites ao criterio do motorista)."
+        }
+      ],
       "tipsEn": [
-        "The seasonal beach ban (1 May–30 September) covers the central seafront, fall back on Hove Lawns Beach, Saltdean, or Rottingdean which stay open year-round.",
-        "Carry the Coastway 24-hour emergency number +44 1273 692 257 in your phone, it covers most of Brighton's smaller clinics overnight.",
-        "Brighton & Hove enforces a £100 fixed-penalty notice for fouling without picking up; bins are at every park gate and beach access."
+        "The Royal Pavilion and Brighton Museum do not admit dogs except assistance dogs. Plan a pet-sitting slot for these if needed; both are roughly 1 hour.",
+        "North Laine (the indie quarter north of the Lanes) has the highest density of dog-welcoming cafes in Brighton. Almost every independent coffee shop in Sydney Street and Kensington Gardens accepts leashed dogs inside.",
+        "Brighton & Hove seafront has dog-friendly showers and hose points at certain beach access steps during summer. Rinse the salt off your dog's coat after a swim."
       ],
       "tipsFr": [
-        "L'interdiction estivale des plages (1er mai-30 septembre) couvre le front de mer central, repliez-vous sur Hove Lawns Beach, Saltdean ou Rottingdean, ouvertes toute l'année.",
-        "Enregistrez le numéro d'urgence Coastway 24h/24 +44 1273 692 257 dans votre téléphone, il couvre la plupart des petites cliniques de Brighton la nuit.",
-        "La mairie de Brighton & Hove inflige une amende forfaitaire de 100 £ pour les déjections non ramassées ; des poubelles sont à chaque entrée de parc et accès plage."
+        "Le Royal Pavilion et le Brighton Museum n'admettent pas les chiens sauf d'assistance. Prevoyez un slot de pet-sitting pour ces visites si necessaire ; chacune dure environ 1 heure.",
+        "North Laine (le quartier indie au nord des Lanes) a la plus forte densite de cafes dog-friendly de Brighton. Presque tous les cafes independants de Sydney Street et Kensington Gardens acceptent les chiens en laisse en interieur.",
+        "Le front de mer de Brighton & Hove a des douches dog-friendly et des points de jet d'eau a certains acces de plage en ete. Rincez le sel du poil de votre chien apres un bain."
       ],
       "tipsEs": [
-        "La prohibición estacional de playa (1 may–30 sep) cubre el paseo marítimo central: usa Hove Lawns Beach, Saltdean o Rottingdean, abiertas todo el año.",
-        "Guarda el número de urgencias 24 h de Coastway +44 1273 692 257 en el móvil: cubre la mayoría de las clínicas pequeñas de Brighton por la noche.",
-        "El ayuntamiento de Brighton & Hove impone una multa fija de 100 £ por no recoger las deposiciones; hay papeleras en cada entrada de parque y acceso a la playa."
+        "El Royal Pavilion y el Brighton Museum no admiten perros excepto de asistencia. Planifica un horario de pet-sitting si es necesario; ambos duran aproximadamente 1 hora.",
+        "North Laine (el barrio indie al norte de las Lanes) tiene la mayor densidad de cafes dog-friendly en Brighton. Practicamente todos los cafes independientes de Sydney Street y Kensington Gardens admiten perros con correa en interior.",
+        "El paseo maritimo de Brighton & Hove tiene duchas dog-friendly y puntos de manguera en ciertos accesos a la playa durante el verano. Enjuaga la sal del pelaje de tu perro despues de un bano."
+      ],
+      "tipsPt": [
+        "O Royal Pavilion e o Brighton Museum nao admitem caes exceto de assistencia. Planeie uma hora de pet-sitting se necessario; ambos demoram cerca de 1 hora.",
+        "North Laine (o bairro indie a norte das Lanes) tem a maior densidade de cafes dog-friendly em Brighton. Praticamente todos os cafes independentes em Sydney Street e Kensington Gardens aceitam caes com trela no interior.",
+        "O passeio maritimo de Brighton & Hove tem duchas dog-friendly e pontos de mangueira em certos acessos a praia durante o verao. Enxague o sal do pelo do seu cao depois de um banho."
       ],
       "faqsEn": [
         {
-          "q": "Is Brighton a good city for travelling with a dog?",
-          "a": "Excellent, among the most dog-friendly UK cities. Free buses, year-round dog beaches at Hove Lawns and Saltdean, abundant pet-friendly cafés and pubs, and the South Downs National Park on the doorstep. Just plan around the summer central-beach ban."
+          "q": "Can dogs go on Brighton beach?",
+          "a": "Yes, dogs are welcome on most sections of Brighton beach year-round. The central section between Palace Pier and West Pier has some peak-season daytime restrictions; check council signage on arrival. Dogs are always welcome east of the Marina and west of the West Pier ruins."
         },
         {
-          "q": "What documents do I need to bring my dog to Brighton from the EU?",
-          "a": "Since Brexit, EU pet passports are no longer accepted for entry to the UK. You need an Animal Health Certificate (AHC) issued by an EU vet within 10 days of travel, plus rabies vaccination and tapeworm treatment for dogs."
-        },
-        {
-          "q": "Can my dog visit the Royal Pavilion or Brighton Pier?",
-          "a": "Only assistance dogs are admitted to the Royal Pavilion (interior) and the Brighton Palace Pier. The Royal Pavilion Garden, the Lanes, and Volk's Electric Railway are all dog-friendly on leash."
+          "q": "How far is Devil's Dyke from Brighton?",
+          "a": "About 6 km north of Brighton city centre. Fastest option is the number 77 bus from Old Steine (about 20 minutes, dogs accepted at driver's discretion). By car there is a large free car park at the NT site."
         }
       ],
       "faqsFr": [
         {
-          "q": "Brighton est-elle une bonne ville pour voyager avec un chien ?",
-          "a": "Excellente, parmi les villes britanniques les plus dog-friendly. Bus gratuits, plages canines toute l'année à Hove Lawns et Saltdean, cafés et pubs pet-friendly à profusion, et le parc national des South Downs aux portes de la ville. Il suffit d'anticiper l'interdiction estivale de la plage centrale."
+          "q": "Les chiens peuvent-ils aller sur la plage de Brighton ?",
+          "a": "Oui, les chiens sont bienvenus sur la plupart des sections toute l'annee. La section centrale entre Palace Pier et West Pier a quelques restrictions diurnes en haute saison ; verifiez la signalisation du conseil a l'arrivee. Les chiens sont toujours bienvenus a l'est de la Marina et a l'ouest des ruines du West Pier."
         },
         {
-          "q": "Quels documents pour emmener mon chien à Brighton depuis l'UE ?",
-          "a": "Depuis le Brexit, le passeport européen pour animal n'est plus accepté à l'entrée du Royaume-Uni. Il faut un certificat sanitaire (Animal Health Certificate, AHC) délivré par un vétérinaire de l'UE moins de 10 jours avant le voyage, ainsi que la vaccination antirabique et le traitement contre l'échinocoque pour les chiens."
-        },
-        {
-          "q": "Mon chien peut-il visiter le Royal Pavilion ou le Brighton Pier ?",
-          "a": "Seuls les chiens d'assistance sont admis dans le Royal Pavilion (intérieur) et sur le Brighton Palace Pier. Le Royal Pavilion Garden, les Lanes et le Volk's Electric Railway sont dog-friendly en laisse."
+          "q": "A quelle distance se trouve Devil's Dyke de Brighton ?",
+          "a": "Environ 6 km au nord du centre de Brighton. L'option la plus rapide est le bus 77 depuis Old Steine (environ 20 minutes, chiens acceptes a la discretion du chauffeur). En voiture il y a un grand parking gratuit au site NT."
         }
       ],
       "faqsEs": [
         {
-          "q": "¿Es Brighton una buena ciudad para viajar con perro?",
-          "a": "Excelente: entre las ciudades del Reino Unido más dog-friendly. Autobuses gratis, playas para perros todo el año en Hove Lawns y Saltdean, abundantes cafés y pubs pet-friendly, y el parque nacional South Downs a un paso. Solo hay que tener en cuenta la prohibición estival en la playa central."
+          "q": "¿Los perros pueden ir a la playa de Brighton?",
+          "a": "Si, los perros son bienvenidos en la mayoria de secciones todo el ano. La seccion central entre Palace Pier y West Pier tiene algunas restricciones diurnas en alta temporada; comprueba la senalizacion del ayuntamiento al llegar. Los perros siempre son bienvenidos al este de la Marina y al oeste de las ruinas del West Pier."
         },
         {
-          "q": "¿Qué documentos necesito para llevar a mi perro a Brighton desde la UE?",
-          "a": "Desde el Brexit, el pasaporte europeo de mascotas ya no sirve para entrar en el Reino Unido. Hace falta un certificado sanitario (Animal Health Certificate, AHC) emitido por un veterinario de la UE menos de 10 días antes del viaje, además de la vacunación antirrábica y el tratamiento contra equinococos en perros."
-        },
-        {
-          "q": "¿Puede mi perro visitar el Royal Pavilion o el Brighton Pier?",
-          "a": "Solo se admiten perros de asistencia en el Royal Pavilion (interior) y en el Brighton Palace Pier. El Royal Pavilion Garden, The Lanes y el Volk's Electric Railway son dog-friendly con correa."
+          "q": "¿A que distancia esta Devil's Dyke de Brighton?",
+          "a": "A unos 6 km al norte del centro de Brighton. La opcion mas rapida es el autobus 77 desde Old Steine (unos 20 minutos, perros admitidos a discrecion del conductor). En coche hay un gran aparcamiento gratuito en el sitio NT."
         }
-      ],
-      "titlePt": "Conselhos de viagem com animais para Brighton",
-      "introPt": "Brighton é uma das cidades do Reino Unido mais fáceis para viajar com cão: os animais viajam grátis nos autocarros, o passeio marítimo tem cafés pet-friendly a cada 100 metros e o Parque Nacional South Downs começa a cinco quilómetros do centro. O que é preciso planear é o calendário estival das praias (1 mai a 30 set na maioria das praias centrais). Os conselhos abaixo cobrem as poucas regras que realmente importam.",
-      "tipsPt": [
-        "A prohibición estacional de praia (1 may–30 sep) cubre o passeio marítimo central: usa Hove Lawns Beach, Saltdean o Rottingdean, abiertas o ano inteiro.",
-        "Guarda o número de urgências 24 h de Coastway +44 1273 692 257 no móvil: cubre a maioria das clínicas pequenhas de Brighton pela noite.",
-        "A câmara de Brighton & Hove aplica uma coima fixa de 100 £ por não recolher os dejetos; há caixotes em cada entrada dos parques e acesso às praias."
       ],
       "faqsPt": [
         {
-          "q": "É Brighton uma buena cidade para viajar com cão?",
-          "a": "Excelente, encontra-se entre as cidades mais acolhedoras de cães do Reino Unido. Autocarros gratuitos, praias para cães o ano inteiro em Hove Lawns e Saltdean, abundantes cafés e pubs que aceitam animais e o parque nacional South Downs à porta. Basta planear em torno da proibição estival na praia central."
+          "q": "Os caes podem ir a praia de Brighton?",
+          "a": "Sim, os caes sao bem-vindos na maioria das seccoes durante todo o ano. A seccao central entre Palace Pier e West Pier tem algumas restricoes diurnas em alta temporada; verifique a sinalizacao do conselho a chegada. Os caes sao sempre bem-vindos a leste da Marina e a oeste das ruinas do West Pier."
         },
         {
-          "q": "Qué documentos necesito para levar a mi cão a Brighton a partir da UE?",
-          "a": "A partir do Brexit, o passaporte europeu de animais ya no sirve para entrar no Reino Unido. Faz falta um certificado sanitario (Animal Health Certificate, AHC) emitido por um veterinário da UE menos de 10 dias antes do viaje, além disso da vacinação antirrábica e o tratamento contra equinococos en cães."
-        },
-        {
-          "q": "Pode mi cão visitar o Royal Pavilion o o Brighton Pier?",
-          "a": "Só se admitem cães de assistência no Royal Pavilion (interior) e no Brighton Palace Pier. O Royal Pavilion Garden, The Lanes e o Volk's Electric Railway são pet-friendly com trela."
+          "q": "A que distancia fica Devil's Dyke de Brighton?",
+          "a": "Cerca de 6 km a norte do centro de Brighton. A opcao mais rapida e o autocarro 77 a partir do Old Steine (cerca de 20 minutos, caes aceites ao criterio do motorista). De carro ha um grande estacionamento gratuito no sitio NT."
         }
       ]
     },
@@ -1031,6 +1077,21 @@
           "tipEs": "Reserva al menos 24 horas antes en verano: los cuidadores cerca del paseo marítimo se llenan antes en julio y agosto.",
           "descriptionPt": "A plataforma de cuidadores pagos mais usada do Reino Unido, com centenas de cuidadores verificados em Brighton que oferecem passeios, visitas e alojamento nocturno. Todas as reservas estão seguradas através da plataforma e os passeios incluem rastreio por GPS. Útil para visitas curtas a museus ou excursões de dia inteiro aos South Downs sem o cão.",
           "tipPt": "Reserva pelo menos 24 horas antes no verão: os cuidadores perto do passeio marítimo enchem-se mais depressa em julho e agosto."
+        },
+        {
+          "name": "Rover.com Brighton",
+          "languages": [
+            "English"
+          ],
+          "description": "Largest UK pet-sitting platform with verified sitters throughout Brighton offering doggy day-care, drop-in visits and overnight boarding. All sitters are background-checked, insurance included, average 18-27 GBP per day. Strong coverage in Hove, Hanover and Kemp Town.",
+          "descriptionFr": "Plus grande plateforme de pet-sitting UK avec des sitters verifies dans tout Brighton. Garderie de jour, visites a domicile et hebergement. Sitters controles, assurance incluse, tarif moyen 18-27 GBP/jour. Forte couverture dans Hove, Hanover and Kemp Town.",
+          "descriptionEs": "La mayor plataforma de pet-sitting UK con cuidadores verificados en todo Brighton. Guarderia, visitas y alojamiento. Cuidadores verificados, seguro incluido, tarifa media 18-27 GBP/dia. Fuerte cobertura en Hove, Hanover and Kemp Town.",
+          "descriptionPt": "A maior plataforma de pet-sitting UK com cuidadores verificados em Brighton. Creche diurna, visitas e alojamento. Cuidadores verificados, seguro incluido, tarifa media 18-27 GBP por dia. Forte cobertura em Hove, Hanover and Kemp Town.",
+          "website": "https://www.rover.com/uk/search/?location=Brighton",
+          "tip": "Book 48 hours ahead on summer weekends. Demand in Brighton peaks June-August.",
+          "tipFr": "Reservez 48h a l'avance les week-ends d'ete. La demande a Brighton pics en juin-aout.",
+          "tipEs": "Reserva 48h antes los fines de semana de verano. La demanda en Brighton pico junio-agosto.",
+          "tipPt": "Reserve 48h antes aos fins de semana de verao. A procura em Brighton aumenta em junho-agosto."
         }
       ],
       "tipsEn": [

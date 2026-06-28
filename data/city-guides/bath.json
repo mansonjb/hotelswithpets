@@ -3,7 +3,7 @@
   "name": "Bath",
   "country": "United Kingdom",
   "flag": "🇬🇧",
-  "lastUpdated": "2026-04-27",
+  "lastUpdated": "2026-06-28",
   "guides": {
     "restaurants": {
       "titleEn": "Dog-Friendly Restaurants in Bath",
@@ -360,6 +360,44 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bath+Spa+Station",
           "descriptionPt": "Bath Spa é a principal estação ferroviária da cidade, servida pela GWR (comboios diretos para London Paddington em 1h25, bilhete de cão gratuito) e pela South Western Railway. Até 2 cães viajam de graça por passageiro na rede ferroviária nacional do Reino Unido; os cães maiores que precisem de um lugar exigiriam um bilhete de criança, mas, na prática, isto raramente é aplicado. Os cães têm de andar com trela e não podem ir nos bancos.",
           "petPolicyPt": "Até 2 cães de graça por passageiro; com trela; sem lugares"
+        },
+        {
+          "name": "First Bus Bath",
+          "type": "City buses",
+          "photo": "/images/city-places/bath-transport-first-bus-bath.jpg",
+          "website": "https://www.firstbus.co.uk/bath-bristol",
+          "description": "First Bus operates Bath's city and inter-urban routes, including the frequent X39/X40 to Bristol (35 min). Well-behaved leashed dogs travel free at the driver's discretion on all First Bus services. The city centre is compact enough that most visitors walk, but buses are useful for reaching Bathampton Down and the Kennet & Avon Canal towpath from outlying stops.",
+          "descriptionFr": "First Bus exploite les lignes urbaines et interurbaines de Bath, dont le frequent X39/X40 vers Bristol (35 min). Les chiens bien tenus en laisse voyagent gratuitement a la discretion du chauffeur sur tous les services First Bus. Le centre-ville est suffisamment compact pour que la plupart des visiteurs marchent, mais les bus sont utiles pour atteindre Bathampton Down et le chemin de halage du Kennet & Avon Canal depuis les arrets peripheriques.",
+          "descriptionEs": "First Bus opera las lineas urbanas e interurbanas de Bath, incluida la frecuente X39/X40 hacia Bristol (35 min). Los perros bien portados con correa viajan gratis a discrecion del conductor en todos los servicios First Bus. El centro es suficientemente compacto para que la mayoria de visitantes caminen, pero los autobuses son utiles para llegar a Bathampton Down y el camino del Kennet & Avon Canal desde paradas perifericas.",
+          "descriptionPt": "A First Bus opera as linhas urbanas e interurbanas de Bath, incluindo a frequente X39/X40 para Bristol (35 min). Os caes bem-comportados com trela viajam gratuitamente ao criterio do motorista em todos os servicos First Bus. O centro e suficientemente compacto para que a maioria dos visitantes caminhe, mas os autocarros sao uteis para chegar a Bathampton Down e ao caminho de sirga do Kennet & Avon Canal a partir de paragens perifericas.",
+          "petPolicy": "Dogs free at driver's discretion, lead required",
+          "petPolicyFr": "Chiens gratuits a discretion du chauffeur, laisse requise",
+          "petPolicyEs": "Perros gratis a discrecion del conductor, correa requerida",
+          "petPolicyPt": "Caes gratuitos ao criterio do motorista, trela obrigatoria",
+          "tip": "The number 2 bus connects Bath Spa station to the University of Bath campus near Bathampton Down, useful if walking in from the station with a large dog.",
+          "tipFr": "Le bus numero 2 relie la gare de Bath Spa au campus de l'Universite de Bath pres de Bathampton Down, utile pour arriver en marchant depuis la gare avec un grand chien.",
+          "tipEs": "El autobus numero 2 conecta la estacion de Bath Spa con el campus de la Universidad de Bath cerca de Bathampton Down, util para llegar caminando desde la estacion con un perro grande.",
+          "tipPt": "O autocarro numero 2 liga a estacao de Bath Spa ao campus da Universidade de Bath perto de Bathampton Down, util para chegar a pe da estacao com um cao grande.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bath+bus+station"
+        },
+        {
+          "name": "Bath Park & Ride",
+          "type": "Park & Ride shuttle",
+          "photo": "/images/city-places/bath-transport-park-and-ride.jpg",
+          "website": "https://www.bathnes.gov.uk/services/parking/park-and-ride",
+          "description": "Bath operates four Park & Ride sites (Lansdown, Odd Down, Newbridge, Batheaston) with frequent electric shuttle buses to the city centre. Dogs on leads are accepted free on all Park & Ride shuttles. Parking is free or low-cost. This is the best arrival strategy for a dog-friendly visit: park outside, take the shuttle in, and walk the compact centre on foot.",
+          "descriptionFr": "Bath exploite quatre sites de Park & Ride (Lansdown, Odd Down, Newbridge, Batheaston) avec des navettes electriques frequentes vers le centre. Les chiens en laisse sont acceptes gratuitement sur toutes les navettes Park & Ride. Parking gratuit ou a faible cout. C'est la meilleure strategie d'arrivee pour une visite dog-friendly : se garer a l'exterieur, prendre la navette et explorer le centre compact a pied.",
+          "descriptionEs": "Bath opera cuatro sitios de Park & Ride (Lansdown, Odd Down, Newbridge, Batheaston) con frecuentes autobuses electricos de enlace al centro. Los perros con correa se admiten gratis en todas las laminas Park & Ride. Aparcamiento gratis o de bajo coste. Esta es la mejor estrategia de llegada para una visita dog-friendly: aparcar fuera, tomar la lamina y explorar el compacto centro a pie.",
+          "descriptionPt": "Bath tem quatro parques de estacionamento com shuttle (Lansdown, Odd Down, Newbridge, Batheaston) com autocarros electricos frequentes para o centro. Os caes com trela sao aceites gratuitamente em todos os shuttles Park & Ride. Estacionamento gratuito ou de baixo custo. Esta e a melhor estrategia de chegada para uma visita dog-friendly: estacionar fora, apanhar o shuttle e explorar o centro compacto a pe.",
+          "petPolicy": "Dogs on lead free on all Park & Ride shuttles",
+          "petPolicyFr": "Chiens en laisse gratuits sur toutes les navettes Park & Ride",
+          "petPolicyEs": "Perros con correa gratis en todas las lanzaderas Park & Ride",
+          "petPolicyPt": "Caes com trela gratuitos em todos os shuttles Park & Ride",
+          "tip": "Lansdown Park & Ride (north of Bath) is nearest to the Lansdown Hill walking area, park there, shuttle in, walk back across the ridge for a 8 km circular.",
+          "tipFr": "Le Park & Ride de Lansdown (au nord de Bath) est le plus proche de la zone de marche de Lansdown Hill, garez-vous la, prenez la navette jusqu'en centre et revenez a pied par la crete pour un circuit de 8 km.",
+          "tipEs": "El Park & Ride de Lansdown (al norte de Bath) es el mas cercano a la zona de senderismo de Lansdown Hill, aparca alli, toma la lamina al centro y vuelve caminando por la cresta para un circuito de 8 km.",
+          "tipPt": "O Park & Ride de Lansdown (a norte de Bath) e o mais proximo da zona de caminhada de Lansdown Hill, estacione la, apanhe o shuttle para o centro e regresse a pe pelo cume para um circuito de 8 km.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bath+Park+and+Ride+Lansdown"
         }
       ],
       "tipsEn": [
@@ -712,97 +750,97 @@
       ]
     },
     "tips": {
-      "titleEn": "Essential Pet Travel Tips for Bath",
-      "titleFr": "Conseils essentiels pour voyager avec son animal à Bath",
-      "titleEs": "Consejos esenciales para viajar con mascotas a Bath",
-      "introEn": "Bath is one of the easiest small UK cities to visit with a dog: compact, walkable, with strong dog-tolerant pub and cafe culture. The main consideration is that the UK is no longer in the EU pet-passport scheme, entering with a dog from the EU now requires an Animal Health Certificate (AHC) issued within 10 days of travel.",
-      "introFr": "Bath est l'une des petites villes UK les plus simples à visiter avec un chien : compacte, piétonne, avec une forte culture pub et café tolérante aux chiens. Le point principal est que le Royaume-Uni n'est plus dans le système de passeport européen, entrer avec un chien depuis l'UE exige désormais un Animal Health Certificate (AHC) émis dans les 10 jours précédant le voyage.",
-      "introEs": "Bath es una de las pequeñas ciudades UK más fáciles de visitar con perro: compacta, peatonal, con una fuerte cultura de pubs y cafés tolerante con los perros. El punto principal es que el Reino Unido ya no está en el sistema de pasaporte europeo, entrar con perro desde la UE ahora requiere un Animal Health Certificate (AHC) emitido en los 10 días anteriores al viaje.",
-      "places": [],
+      "titleEn": "Travelling to Bath with a Dog: Practical Tips",
+      "titleFr": "Voyager a Bath avec un chien : conseils pratiques",
+      "titleEs": "Viajar a Bath con perro: consejos practicos",
+      "titlePt": "Viajar para Bath com um cao: conselhos praticos",
+      "introEn": "Bath is one of the UK's most walkable and dog-tolerant city breaks. The compact Georgian centre, canal towpath, and surrounding hills give excellent variety in a very small radius.",
+      "introFr": "Bath est l'un des city-breaks UK les plus praticables a pied et les plus tolerants envers les chiens. Le centre georgien compact, le chemin de halage du canal et les collines environnantes offrent une excellente variete dans un tres petit rayon.",
+      "introEs": "Bath es una de las escapadas UK mas transitables a pie y tolerantes con los perros. El compacto centro georgiano, el camino del canal y las colinas circundantes ofrecen excelente variedad en un radio muy pequeno.",
+      "introPt": "Bath e uma das escapadas do Reino Unido mais transitaveis a pe e tolerantes com os caes. O compacto centro georgiano, o caminho de sirga do canal e as colinas circundantes oferecem excelente variedade num raio muito pequeno.",
+      "places": [
+        {
+          "name": "Best season for visiting Bath with a dog",
+          "photo": "/images/city-places/bath-tips-best-season.jpg",
+          "description": "May to June and September to October are ideal: 15-19 C highs, the towpath is dry, and the city is less congested than in peak summer. Avoid late July and August when the Jane Austen Festival (third week of September), Christmas Market (late November and December) and half-term weeks fill the narrow Georgian streets. January to March is quiet and the towpath is excellent.",
+          "descriptionFr": "Mai a juin et septembre a octobre sont ideaux : 15-19 C, le chemin de halage est sec et la ville est moins frequentee qu'en ete. Evitez fin juillet et aout, le Jane Austen Festival (troisieme semaine de septembre), le marche de Noel (fin novembre-decembre) et les semaines de demi-conge qui remplissent les etroites rues georgiennes. Janvier a mars est calme et le chemin de halage est excellent.",
+          "descriptionEs": "Mayo a junio y septiembre a octubre son ideales: 15-19 C, el camino del canal esta seco y la ciudad esta menos congestionada que en verano. Evita finales de julio y agosto, el Jane Austen Festival (tercera semana de septiembre), el mercado navideno (finales de noviembre-diciembre) y las semanas de vacaciones escolares que llenan las estrechas calles georgianas. Enero a marzo esta tranquilo y el camino del canal es excelente.",
+          "descriptionPt": "De maio a junho e setembro a outubro sao ideais: 15-19 C, o caminho de sirga esta seco e a cidade esta menos congestionada do que no verao. Evite o final de julho e agosto, o Jane Austen Festival (terceira semana de setembro), o mercado de Natal (final de novembro-dezembro) e as semanas de meio-periodo que enchem as estreitas ruas georgianas. Janeiro a marco esta tranquilo e o caminho de sirga e excelente."
+        },
+        {
+          "name": "UK pet-import paperwork (2026)",
+          "description": "From the EU you need: ISO microchip, valid rabies vaccination (at least 21 days old, not expired), and a GB Animal Health Certificate (AHC) issued by an EU official vet within 10 days of arrival. Valid 4 months for return. Tapeworm treatment only for Ireland, Finland, Malta or Norway.",
+          "descriptionFr": "Depuis l'UE: puce ISO, vaccin antirabique valide (21 jours min) et AHC delivre par OV de l'UE dans les 10 jours. Valable 4 mois pour le retour. Antitenias uniquement vers Irlande, Finlande, Malte ou Norvege.",
+          "descriptionEs": "Desde la UE: microchip ISO, vacuna antirrábica (21 dias min) y AHC emitido por OV de la UE en los 10 dias previos. Valido 4 meses para retorno. Antitenia solo para Irlanda, Finlandia, Malta o Noruega.",
+          "descriptionPt": "Da UE: microchip ISO, vacinacao antirabica (21 dias min) e AHC emitido por OV da UE nos 10 dias anteriores. Valido 4 meses para regresso. Anti-tenia so para Irlanda, Finlandia, Malta ou Noruega."
+        },
+        {
+          "name": "Walking Bath with a dog",
+          "photo": "/images/city-places/bath-tips-walking-with-a-dog.jpg",
+          "description": "The Kennet & Avon Canal towpath from Bath to Bradford-on-Avon (12 miles east, flat, fully off-leash on National Waterways towpath) is the best long walk from Bath. The Bath Skyline Walk (6-mile National Trust circular above the city, partly off-leash on open grassland) starts at Bathwick Hill. In the city, dogs are welcome on lead through the Royal Crescent lawn (NT managed) and Victoria Park.",
+          "descriptionFr": "Le chemin de halage du Kennet & Avon Canal de Bath a Bradford-on-Avon (19 km a l'est, plat, entierement sans laisse sur les voies navigables nationales) est la meilleure longue promenade depuis Bath. Le Bath Skyline Walk (circuit National Trust de 10 km au-dessus de la ville, partiellement sans laisse sur les pres ouverts) commence a Bathwick Hill. En ville, les chiens en laisse sont bienvenus sur la pelouse du Royal Crescent (gere par le NT) et Victoria Park.",
+          "descriptionEs": "El camino del Kennet & Avon Canal de Bath a Bradford-on-Avon (19 km al este, llano, completamente sin correa en las vias navegables nacionales) es el mejor paseo largo desde Bath. El Bath Skyline Walk (circuito National Trust de 10 km sobre la ciudad, parcialmente sin correa en praderas abiertas) empieza en Bathwick Hill. En la ciudad, los perros con correa son bienvenidos en el cesped del Royal Crescent (gestionado por NT) y Victoria Park.",
+          "descriptionPt": "O caminho de sirga do Kennet & Avon Canal de Bath a Bradford-on-Avon (19 km a leste, plano, completamente sem trela nas vias navegaveis nacionais) e o melhor passeio longo a partir de Bath. O Bath Skyline Walk (circuito National Trust de 10 km acima da cidade, parcialmente sem trela em pradarias abertas) comeca em Bathwick Hill. Na cidade, os caes com trela sao bem-vindos no relvado do Royal Crescent (gerido pelo NT) e no Victoria Park."
+        }
+      ],
       "tipsEn": [
-        "UK requires an Animal Health Certificate (AHC) for EU-resident dogs entering, issued by your home vet within 10 days of travel. Costs €100–200 depending on country.",
-        "Tapeworm treatment is mandatory for dogs entering the UK, administered by a vet between 24 hours and 5 days before arrival, recorded in the AHC.",
-        "Bath has a strict Public Spaces Protection Order: leash required in city centre and formal parks; £100 fines actively enforced. Off-leash zones are signposted.",
-        "Most UK hotels accept dogs but the maximum size and number per room varies, call ahead to confirm if your dog is over 25 kg or you have more than one.",
-        "UK rabies status is exceptional: dogs returning to the EU from the UK currently don't need a fresh rabies vaccine if their existing one is valid."
+        "The Roman Baths do not admit dogs. Plan a pet-sitting slot for the Roman Baths visit; the guided tour takes about 90 minutes.",
+        "Bath's Georgian terraces make for beautiful but tight walking on narrow pavements. Use the towpath or Victoria Park for the dog's main exercise; the city streets for cafe stops.",
+        "Bathampton village (2.5 km east along the canal) has two dog-friendly pubs with canal-side gardens: The George (on the canal) and The Mill (towpath adjacent). Excellent lunch destination on a canal walk."
       ],
       "tipsFr": [
-        "Le UK exige un Animal Health Certificate (AHC) pour les chiens résidents UE qui entrent, émis par votre vétérinaire dans les 10 jours précédant le voyage. Coûts 100-200 € selon le pays.",
-        "Le traitement contre l'échinococcose est obligatoire pour les chiens entrant au UK, administré par un vétérinaire entre 24 heures et 5 jours avant l'arrivée, consigné dans l'AHC.",
-        "Bath applique un Public Spaces Protection Order strict : laisse obligatoire dans le centre-ville et les parcs formels ; amendes de 100 £ activement appliquées. Les zones sans laisse sont signalées.",
-        "La plupart des hôtels UK acceptent les chiens mais la taille et le nombre maximums par chambre varient, appelez avant si votre chien dépasse 25 kg ou si vous en avez plusieurs.",
-        "Le statut antirabique du UK est exceptionnel : les chiens retournant dans l'UE depuis le UK n'ont actuellement pas besoin d'un nouveau vaccin antirabique si l'existant est valide."
+        "Les Thermes Romains n'admettent pas les chiens. Prevoyez un slot de pet-sitting pour la visite ; la visite guidee prend environ 90 min.",
+        "Les terrasses georgiennes de Bath font de belles promenades mais les trottoirs sont etroits. Utilisez le chemin de halage ou Victoria Park pour l'exercice principal du chien ; les rues de la ville pour les pauses cafe.",
+        "Le village de Bathampton (4 km a l'est le long du canal) a deux pubs dog-friendly avec jardins en bord de canal : The George (sur le canal) et The Mill (adjacent au chemin de halage). Excellente destination dejeuner lors d'une promenade sur le canal."
       ],
       "tipsEs": [
-        "El UK exige un Animal Health Certificate (AHC) para perros residentes UE que entran, emitido por tu veterinario en los 10 días anteriores al viaje. Cuesta 100-200 € según el país.",
-        "El tratamiento contra la equinococosis es obligatorio para perros que entran al UK, administrado por un veterinario entre 24 horas y 5 días antes de la llegada, registrado en el AHC.",
-        "Bath aplica una Public Spaces Protection Order estricta: correa obligatoria en el centro y parques formales; multas de 100 £ aplicadas activamente. Las zonas sin correa están señalizadas.",
-        "La mayoría de hoteles UK admiten perros pero el tamaño y número máximos por habitación varían, llama antes si tu perro supera 25 kg o tienes más de uno.",
-        "El estatus antirrábico del UK es excepcional: los perros que regresan a la UE desde el UK actualmente no necesitan una nueva vacuna antirrábica si la existente sigue vigente."
+        "Las Termas Romanas no admiten perros. Planifica un horario de pet-sitting para la visita; la visita guiada dura unos 90 minutos.",
+        "Las terrazas georgianas de Bath son hermosas pero los aceras son estrechas. Usa el camino del canal o Victoria Park para el ejercicio principal del perro; las calles de la ciudad para paradas en cafes.",
+        "El pueblo de Bathampton (4 km al este por el canal) tiene dos pubs dog-friendly con jardines a orillas del canal: The George (en el canal) y The Mill (adyacente al camino). Excelente destino de almuerzo en una caminata por el canal."
+      ],
+      "tipsPt": [
+        "As Termas Romanas nao admitem caes. Planeie uma hora de pet-sitting para a visita; a visita guiada demora cerca de 90 minutos.",
+        "As esplanadas georgianas de Bath sao belas mas os passeios sao estreitos. Use o caminho de sirga ou o Victoria Park para o exercicio principal do cao; as ruas da cidade para pausas em cafes.",
+        "A aldeia de Bathampton (4 km a leste pelo canal) tem dois pubs dog-friendly com jardins a beira do canal: The George (no canal) e The Mill (adjacente ao caminho de sirga). Excelente destino de almoco numa caminhada pelo canal."
       ],
       "faqsEn": [
         {
-          "q": "Is Bath a good city to visit with a dog?",
-          "a": "Yes, Bath is one of the most compact and dog-welcoming small cities in the UK, with strong pub culture, the Bath Skyline trail, the Kennet & Avon canal towpath, and 24/7 emergency vet coverage."
+          "q": "Are dogs allowed in Bath's Parade Gardens?",
+          "a": "No. Parade Gardens (beside the Pulteney Bridge) charge admission and do not admit dogs except assistance dogs. Royal Victoria Park (150 acres, free entry) is the best nearby alternative and is fully dog-friendly."
         },
         {
-          "q": "Do I need special paperwork to bring my dog to Bath from the EU?",
-          "a": "Yes. UK left the EU pet-passport scheme post-Brexit. EU-resident dogs need an Animal Health Certificate (AHC) issued within 10 days of travel + tapeworm treatment 24h–5 days before arrival."
-        },
-        {
-          "q": "Are there breed restrictions in the UK?",
-          "a": "Yes. The Dangerous Dogs Act 1991 prohibits four breeds: Pit Bull Terrier, Japanese Tosa, Dogo Argentino, Fila Brasileiro. Bringing one from abroad is illegal even for transit."
+          "q": "How far is the canal towpath from Bath city centre?",
+          "a": "The Kennet & Avon Canal towpath starts at Sydney Wharf, about 1.5 km east of Bath Spa station (20 min walk). Follow the river Avon path from the station to reach the canal entry."
         }
       ],
       "faqsFr": [
         {
-          "q": "Bath est-elle une bonne ville à visiter avec un chien ?",
-          "a": "Oui, Bath est l'une des petites villes UK les plus compactes et accueillantes pour les chiens, avec une forte culture pub, le sentier Bath Skyline, le chemin de halage Kennet & Avon et une couverture vétérinaire d'urgence 24h/24."
+          "q": "Les chiens sont-ils autorises dans les Parade Gardens de Bath ?",
+          "a": "Non. Les Parade Gardens (pres du Pulteney Bridge) sont payants et n'admettent pas les chiens sauf d'assistance. Royal Victoria Park (60 ha, entree gratuite) est la meilleure alternative a proximite, entierement dog-friendly."
         },
         {
-          "q": "Des documents spécifiques sont-ils exigés pour emmener mon chien à Bath depuis l'UE ?",
-          "a": "Oui. Le UK a quitté le système de passeport européen post-Brexit. Les chiens résidents UE ont besoin d'un Animal Health Certificate (AHC) émis dans les 10 jours précédant le voyage + traitement contre l'échinococcose 24h-5 jours avant l'arrivée."
-        },
-        {
-          "q": "Existe-t-il des restrictions de race au UK ?",
-          "a": "Oui. Le Dangerous Dogs Act 1991 interdit quatre races : Pit Bull Terrier, Tosa japonais, Dogue argentin, Fila brasileiro. En importer une, même en transit, est illégal."
+          "q": "A quelle distance le chemin de halage du canal est-il du centre de Bath ?",
+          "a": "Le chemin de halage du Kennet & Avon Canal commence a Sydney Wharf, environ 1,5 km a l'est de la gare de Bath Spa (20 min a pied). Suivez le sentier le long de la riviere Avon depuis la gare pour atteindre l'entree du canal."
         }
       ],
       "faqsEs": [
         {
-          "q": "¿Es Bath una buena ciudad para visitar con perro?",
-          "a": "Sí, Bath es una de las ciudades pequeñas más compactas y acogedoras del UK con perros, con fuerte cultura de pubs, el sendero Bath Skyline, el camino de sirga Kennet & Avon y cobertura veterinaria de urgencias 24/7."
+          "q": "¿Se admiten perros en los Parade Gardens de Bath?",
+          "a": "No. Los Parade Gardens (junto al Pulteney Bridge) cobran entrada y no admiten perros excepto de asistencia. Royal Victoria Park (60 ha, entrada gratuita) es la mejor alternativa cercana, completamente dog-friendly."
         },
         {
-          "q": "¿Necesito papeles especiales para llevar mi perro a Bath desde la UE?",
-          "a": "Sí. El UK abandonó el sistema de pasaporte europeo tras el Brexit. Los perros residentes UE necesitan un Animal Health Certificate (AHC) emitido en los 10 días previos al viaje + tratamiento contra la equinococosis 24h-5 días antes de la llegada."
-        },
-        {
-          "q": "¿Hay restricciones de raza en el UK?",
-          "a": "Sí. La Dangerous Dogs Act 1991 prohíbe cuatro razas: Pit Bull Terrier, Tosa Japonés, Dogo Argentino, Fila Brasileiro. Llevar una desde el extranjero, incluso en tránsito, es ilegal."
+          "q": "¿A que distancia esta el camino del canal del centro de Bath?",
+          "a": "El camino del Kennet & Avon Canal comienza en Sydney Wharf, a unos 1,5 km al este de la estacion de Bath Spa (20 min a pie). Sigue el sendero del rio Avon desde la estacion para llegar a la entrada del canal."
         }
-      ],
-      "titlePt": "Conselhos essenciais para viajar com animais em Bath",
-      "introPt": "Bath é uma das pequenas cidades britânicas mais fáceis de visitar com um cão: compacta, percorrível a pé, com uma forte cultura de pubs e cafés tolerantes a cães. A principal consideração é que o Reino Unido já não faz parte do regime de passaporte europeu para animais, entrar com um cão a partir da UE exige agora um Certificado Sanitário Animal (AHC) emitido nos 10 dias anteriores à viagem.",
-      "tipsPt": [
-        "O Reino Unido exige um Animal Health Certificate (AHC) para cães residentes na UE que entram, emitido pelo seu veterinário nos 10 dias anteriores à viagem. Custa 100-200 € consoante o país.",
-        "O tratamento contra a ténia é obrigatório para cães que entram no Reino Unido, administrado por um veterinário entre 24 horas e 5 dias antes da chegada, registado no AHC.",
-        "Bath aplica uma Public Spaces Protection Order rigorosa: trela obrigatória no centro da cidade e nos parques formais; coimas de 100 £ ativamente aplicadas. As zonas sem trela estão sinalizadas.",
-        "A maioria dos hotéis do Reino Unido aceita cães, mas o tamanho e o número máximos por quarto variam; ligue com antecedência para confirmar se o seu cão tem mais de 25 kg ou se tem mais do que um.",
-        "O estatuto antirrábico do Reino Unido é excecional: os cães que regressam à UE a partir do Reino Unido não precisam, atualmente, de uma nova vacina antirrábica se a existente continuar válida."
       ],
       "faqsPt": [
         {
-          "q": "Bath é uma boa cidade para visitar com um cão?",
-          "a": "Sim, Bath é uma das cidades pequenas mais compactas e acolhedoras para cães do Reino Unido, com forte cultura de pubs, o trilho Bath Skyline, o caminho de sirga do Kennet & Avon e cobertura veterinária de urgências 24/7."
+          "q": "Os caes sao permitidos nos Parade Gardens de Bath?",
+          "a": "Nao. Os Parade Gardens (junto ao Pulteney Bridge) cobram entrada e nao admitem caes exceto de assistencia. Royal Victoria Park (60 ha, entrada gratuita) e a melhor alternativa proxima, completamente dog-friendly."
         },
         {
-          "q": "Preciso de documentação especial para levar o meu cão a Bath a partir da UE?",
-          "a": "Sim. O Reino Unido saiu do regime de passaporte europeu para animais após o Brexit. Os cães residentes na UE precisam de um Animal Health Certificate (AHC) emitido nos 10 dias anteriores à viagem, mais tratamento contra a ténia 24h-5 dias antes da chegada."
-        },
-        {
-          "q": "Há restrições de raça no Reino Unido?",
-          "a": "Sim. A Dangerous Dogs Act 1991 proíbe quatro raças: Pit Bull Terrier, Tosa Japonês, Dogo Argentino e Fila Brasileiro. Trazer uma do estrangeiro é ilegal, mesmo em trânsito."
+          "q": "A que distancia fica o caminho de sirga do canal do centro de Bath?",
+          "a": "O caminho de sirga do Kennet & Avon Canal comeca em Sydney Wharf, a cerca de 1,5 km a leste da estacao de Bath Spa (20 min a pe). Siga o caminho junto ao rio Avon desde a estacao para chegar a entrada do canal."
         }
       ]
     },
@@ -984,6 +1022,21 @@
           "descriptionPt": "Mercado europeu de pet-sitting com cuidadores verificados em Bath para passeios diários, creche e alojamento ao domicílio. Seguro e atualizações com fotografias incluídos. Preços típicos: 25-40 £/dia de alojamento ao domicílio, 12-18 £ por um passeio de uma hora.",
           "petPolicyPt": "Cuidadores verificados, seguro incluído",
           "servicesPt": "Passeio de cães, creche, alojamento ao domicílio"
+        },
+        {
+          "name": "Rover.com Bath",
+          "languages": [
+            "English"
+          ],
+          "description": "Largest UK pet-sitting platform with verified sitters throughout Bath. Services include doggy day-care, drop-in visits and overnight boarding. All sitters are background-checked, insurance included, average 17-26 GBP per day. Strong coverage in Oldfield Park, Twerton and Bathampton.",
+          "descriptionFr": "Plus grande plateforme de pet-sitting UK avec des sitters verifies dans tout Bath. Garderie de jour, visites a domicile et hebergement de nuit. Sitters controles, assurance incluse, tarif moyen 17-26 GBP/jour. Forte couverture dans Oldfield Park, Twerton and Bathampton.",
+          "descriptionEs": "La mayor plataforma de pet-sitting UK con cuidadores verificados en todo Bath. Guarderia diurna, visitas a domicilio y alojamiento nocturno. Cuidadores verificados, seguro incluido, tarifa media 17-26 GBP/dia. Fuerte cobertura en Oldfield Park, Twerton and Bathampton.",
+          "descriptionPt": "A maior plataforma de pet-sitting do Reino Unido com cuidadores verificados em todo Bath. Creche diurna, visitas pontuais e alojamento noturno. Cuidadores verificados, seguro incluido, tarifa media 17-26 GBP por dia. Forte cobertura em Oldfield Park, Twerton and Bathampton.",
+          "website": "https://www.rover.com/uk/search/?location=Bath",
+          "tip": "Book 48 hours ahead on summer weekends. Bath sitters fill quickly in July-August.",
+          "tipFr": "Reservez 48h a l'avance les week-ends d'ete. Les sitters de Bath se remplissent vite en juillet-aout.",
+          "tipEs": "Reserva 48h antes los fines de semana de verano. Los cuidadores de Bath se llenan rapido en julio-agosto.",
+          "tipPt": "Reserve 48h antes aos fins de semana de verao. Os cuidadores de Bath enchem depressa em julho-agosto."
         }
       ],
       "tipsEn": [

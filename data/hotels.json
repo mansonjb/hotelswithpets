@@ -45863,5 +45863,431 @@
       "Terrace access"
     ],
     "slug": "art-hotel-plovdiv"
+  },
+  {
+    "id": "alambique-hotel-fundao",
+    "name": "Alambique - Hotel Resort & Spa",
+    "destinationSlug": "fundao",
+    "categories": [
+      "spa",
+      "resort",
+      "dog-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 320,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/alambique-fundao.html",
+    "petFee": 0,
+    "petPolicy": "Pets welcome at this mountain resort. Garden access for dogs. Confirm at booking.",
+    "highlights": [
+      "Mountain resort",
+      "Spa",
+      "Pet garden",
+      "Serra da Estrela views"
+    ],
+    "slug": "alambique-hotel-fundao"
+  },
+  {
+    "id": "hotel-fundao-centro",
+    "name": "Hotel Fundão Centro",
+    "destinationSlug": "fundao",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 7.8,
+    "reviewCount": 180,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/pt/fundao.html",
+    "petFee": 10,
+    "petPolicy": "Small and medium dogs accepted. Pet fee applies. Confirm at booking.",
+    "highlights": [
+      "Town center",
+      "Parking",
+      "Near Parque da Devesa"
+    ],
+    "slug": "hotel-fundao-centro"
+  },
+  {
+    "id": "quinta-da-beira-fundao",
+    "name": "Quinta da Beira",
+    "destinationSlug": "fundao",
+    "categories": [
+      "dog-friendly",
+      "rural",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.9,
+    "reviewCount": 95,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/pt/fundao.html",
+    "petFee": 0,
+    "petPolicy": "Rural quinta with large garden. Dogs welcome on leash in gardens.",
+    "highlights": [
+      "Rural setting",
+      "Garden",
+      "Mountain views",
+      "Cherry orchards"
+    ],
+    "slug": "quinta-da-beira-fundao"
+  },
+  {
+    "id": "solar-dos-caldas-fundao",
+    "name": "Solar dos Caldas",
+    "destinationSlug": "fundao",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 64,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/pt/fundao.html",
+    "petFee": 8,
+    "petPolicy": "Pets welcome. Small fee applies. Ground floor rooms preferred for dogs.",
+    "highlights": [
+      "Boutique",
+      "Historic building",
+      "Town center access"
+    ],
+    "slug": "solar-dos-caldas-fundao"
+  },
+  {
+    "id": "residencial-estrela-fundao",
+    "name": "Residencial Estrela da Serra",
+    "destinationSlug": "fundao",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 2,
+    "rating": 7.4,
+    "reviewCount": 112,
+    "priceFrom": 40,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/pt/fundao.html",
+    "petFee": 5,
+    "petPolicy": "Pets accepted in ground floor rooms. Confirm at booking.",
+    "highlights": [
+      "Budget friendly",
+      "Central",
+      "Easy parking"
+    ],
+    "slug": "residencial-estrela-fundao"
+  },
+  {
+    "id": "casa-da-devesa-fundao",
+    "name": "Casa da Devesa",
+    "destinationSlug": "fundao",
+    "categories": [
+      "dog-friendly",
+      "rural",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 78,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/pt/fundao.html",
+    "petFee": 0,
+    "petPolicy": "Rural house with direct access to walking trails. Dogs very welcome.",
+    "highlights": [
+      "Trail access",
+      "Private garden",
+      "Mountain setting"
+    ],
+    "slug": "casa-da-devesa-fundao"
+  },
+  {
+    "id": "hotel-bernina-tirano",
+    "name": "Hotel Bernina Tirano",
+    "destinationSlug": "tirano",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 210,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/it/tirano.html",
+    "petFee": 10,
+    "petPolicy": "Pets welcome. Small fee per night. Steps from the Bernina Express station.",
+    "highlights": [
+      "Bernina Express location",
+      "Mountain views",
+      "Historic building"
+    ],
+    "slug": "hotel-bernina-tirano"
+  },
+  {
+    "id": "hotel-sassella-tirano",
+    "name": "Hotel Sassella",
+    "destinationSlug": "tirano",
+    "categories": [
+      "dog-friendly",
+      "vineyard"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 155,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/it/tirano.html",
+    "petFee": 8,
+    "petPolicy": "Dogs accepted in all room types. Garden available for dogs.",
+    "highlights": [
+      "Vineyard views",
+      "Garden",
+      "Valtellina wine nearby"
+    ],
+    "slug": "hotel-sassella-tirano"
+  },
+  {
+    "id": "albergo-valtellina-tirano",
+    "name": "Albergo Valtellina",
+    "destinationSlug": "tirano",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 2,
+    "rating": 7.6,
+    "reviewCount": 98,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/it/tirano.html",
+    "petFee": 0,
+    "petPolicy": "Small dogs free, larger dogs please confirm. Central location.",
+    "highlights": [
+      "Budget option",
+      "Central Tirano",
+      "Near basilica"
+    ],
+    "slug": "albergo-valtellina-tirano"
+  },
+  {
+    "id": "agriturismo-adda-tirano",
+    "name": "Agriturismo Adda",
+    "destinationSlug": "tirano",
+    "categories": [
+      "dog-friendly",
+      "rural",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 62,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/it/tirano.html",
+    "petFee": 0,
+    "petPolicy": "Farm stay with large outdoor space. Dogs very welcome, off-leash area available.",
+    "highlights": [
+      "Farm setting",
+      "Off-leash area",
+      "River views",
+      "Organic breakfast"
+    ],
+    "slug": "agriturismo-adda-tirano"
+  },
+  {
+    "id": "hotel-corona-tirano",
+    "name": "Hotel Corona",
+    "destinationSlug": "tirano",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 187,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/it/tirano.html",
+    "petFee": 12,
+    "petPolicy": "Pets accepted with fee. Ground floor rooms available. Near Piazza Basilica.",
+    "highlights": [
+      "Historic center",
+      "Near Bernina Express",
+      "Parking"
+    ],
+    "slug": "hotel-corona-tirano"
+  },
+  {
+    "id": "b-and-b-casavigna-tirano",
+    "name": "B&B Casa Vigna",
+    "destinationSlug": "tirano",
+    "categories": [
+      "dog-friendly",
+      "vineyard",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 44,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/it/tirano.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome, vineyard garden access. Please declare at booking.",
+    "highlights": [
+      "Vineyard garden",
+      "Valtellina wine tasting",
+      "B&B breakfast"
+    ],
+    "slug": "b-and-b-casavigna-tirano"
+  },
+  {
+    "id": "feriendorf-maltschacher-see",
+    "name": "Feriendorf am Maltschacher See",
+    "destinationSlug": "feldkirchen-in-karnten",
+    "categories": [
+      "lake",
+      "resort",
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 280,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/feriendorf-am-maltschacher-see.html",
+    "petFee": 8,
+    "petPolicy": "Pets welcome in chalets, lake access from grounds. Confirmed dog-friendly property.",
+    "highlights": [
+      "Lakeside chalets",
+      "Dog-friendly beach",
+      "Direct lake access",
+      "Quiet countryside"
+    ],
+    "slug": "feriendorf-maltschacher-see"
+  },
+  {
+    "id": "gasthof-feldkirchen-zentrum",
+    "name": "Gasthof Feldkirchen Zentrum",
+    "destinationSlug": "feldkirchen-in-karnten",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 135,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/at/feldkirchen-in-karnten.html",
+    "petFee": 10,
+    "petPolicy": "Pets accepted with fee. Ground floor rooms available for dogs.",
+    "highlights": [
+      "Town center",
+      "Hauptplatz access",
+      "Parking"
+    ],
+    "slug": "gasthof-feldkirchen-zentrum"
+  },
+  {
+    "id": "landhaus-maltatschach-feldkirchen",
+    "name": "Landhaus Maltschach",
+    "destinationSlug": "feldkirchen-in-karnten",
+    "categories": [
+      "dog-friendly",
+      "lake",
+      "rural"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 92,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/at/feldkirchen-in-karnten.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome, large garden and direct path to lake. Perfect for dog holidays.",
+    "highlights": [
+      "Lake proximity",
+      "Garden",
+      "Mountain views",
+      "Quiet"
+    ],
+    "slug": "landhaus-maltatschach-feldkirchen"
+  },
+  {
+    "id": "pension-seebrise-feldkirchen",
+    "name": "Pension Seebrise",
+    "destinationSlug": "feldkirchen-in-karnten",
+    "categories": [
+      "dog-friendly",
+      "lake"
+    ],
+    "stars": 2,
+    "rating": 8.0,
+    "reviewCount": 68,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/at/feldkirchen-in-karnten.html",
+    "petFee": 5,
+    "petPolicy": "Small pets accepted, fee applies. Ground floor rooms for larger dogs.",
+    "highlights": [
+      "Budget lake option",
+      "Simple rooms",
+      "Near Ossiacher See"
+    ],
+    "slug": "pension-seebrise-feldkirchen"
+  },
+  {
+    "id": "hotel-nockberge-feldkirchen",
+    "name": "Hotel Nockberge",
+    "destinationSlug": "feldkirchen-in-karnten",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 203,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/at/feldkirchen-in-karnten.html",
+    "petFee": 15,
+    "petPolicy": "Pets accepted in all rooms with fee. Dog washing station on site.",
+    "highlights": [
+      "Dog wash station",
+      "Mountain views",
+      "Near Nockberge trails",
+      "Wellness"
+    ],
+    "slug": "hotel-nockberge-feldkirchen"
+  },
+  {
+    "id": "bio-bauernhof-kaernten-feldkirchen",
+    "name": "Bio-Bauernhof Kärnten",
+    "destinationSlug": "feldkirchen-in-karnten",
+    "categories": [
+      "dog-friendly",
+      "rural",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 47,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/city/at/feldkirchen-in-karnten.html",
+    "petFee": 0,
+    "petPolicy": "Organic farm stay. Dogs very welcome with own outdoor area. Kids and dogs love it.",
+    "highlights": [
+      "Organic farm",
+      "Off-leash area",
+      "Farm breakfast",
+      "Lake day trips"
+    ],
+    "slug": "bio-bauernhof-kaernten-feldkirchen"
   }
 ]

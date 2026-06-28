@@ -8185,6 +8185,78 @@
     "iata": "FAO"
   },
   {
+    "slug": "feldkirchen-in-karnten",
+    "name": "Feldkirchen in Kärnten",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "lat": 46.7236,
+    "lng": 14.0944,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Cold and snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold and clear",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool and sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm and pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm, lake season opens",
+        "icon": "🏊"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Hot, peak lake season",
+        "icon": "🌞"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Hot and sunny",
+        "icon": "🌞"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Warm, quiet lakes",
+        "icon": "🍂"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool and crisp",
+        "icon": "🍁"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool and foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Cold and wintry",
+        "icon": "❄️"
+      }
+    },
+    "iata": "KLU"
+  },
+  {
     "slug": "florence",
     "name": "Florence",
     "country": "Italy",
@@ -8635,6 +8707,78 @@
     },
     "iata": "FNC",
     "tiqetsId": "76533"
+  },
+  {
+    "slug": "fundao",
+    "name": "Fundão",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "lat": 40.1396,
+    "lng": -7.502,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cold and rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool and wet",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild and breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Spring blooms",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm and pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot, cherry season",
+        "icon": "🍒"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Very hot and dry",
+        "icon": "🌞"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Very hot and dry",
+        "icon": "🌞"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm and sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild and changeable",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool and rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cold and wet",
+        "icon": "❄️"
+      }
+    },
+    "iata": "LIS"
   },
   {
     "slug": "galway",
@@ -22894,6 +23038,78 @@
       }
     },
     "iata": "SKG"
+  },
+  {
+    "slug": "tirano",
+    "name": "Tirano",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "lat": 46.2157,
+    "lng": 10.1733,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold and snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold and clear",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool and sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild and pleasant",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Hot, Alpine air",
+        "icon": "⛰️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Hot and sunny",
+        "icon": "🌞"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Hot and sunny",
+        "icon": "🌞"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Warm, harvest season",
+        "icon": "🍇"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild and crisp",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cool and foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold and wintry",
+        "icon": "❄️"
+      }
+    },
+    "iata": "BGY"
   },
   {
     "slug": "toledo",

@@ -3,7 +3,7 @@
   "name": "Glasgow",
   "country": "United Kingdom",
   "flag": "🇬🇧",
-  "lastUpdated": "2026-04-28",
+  "lastUpdated": "2026-06-28",
   "guides": {
     "restaurants": {
       "titleEn": "Dog-Friendly Restaurants in Glasgow",
@@ -779,83 +779,91 @@
       "introEn": "Glasgow is one of the easiest UK cities for travelling with a dog: free pets on every ScotRail train, dog-welcoming pubs in every neighbourhood, the 146-hectare Pollok Country Park inside the city, and Loch Lomond a 50-minute train ride away. The two things to plan around are the post-Brexit Animal Health Certificate (for EU arrivals) and the rain, Glasgow averages 1370 mm of rain per year, the wettest big city in the UK.",
       "introFr": "Glasgow est l'une des villes britanniques les plus simples pour voyager avec un chien : animaux gratuits dans chaque train ScotRail, pubs dog-friendly dans chaque quartier, les 146 hectares de Pollok Country Park dans la ville, et le Loch Lomond à 50 minutes de train. Les deux points à anticiper sont l'Animal Health Certificate post-Brexit (pour l'arrivée depuis l'UE) et la pluie, Glasgow reçoit en moyenne 1370 mm de pluie par an, la plus pluvieuse des grandes villes britanniques.",
       "introEs": "Glasgow es una de las ciudades del Reino Unido más sencillas para viajar con perro: mascotas gratis en cada tren ScotRail, pubs dog-friendly en cada barrio, las 146 hectáreas de Pollok Country Park dentro de la ciudad, y el Loch Lomond a 50 minutos en tren. Los dos puntos a anticipar son el Animal Health Certificate post-Brexit (para entrada desde la UE) y la lluvia: Glasgow recibe en promedio 1370 mm de lluvia al año, la gran ciudad más lluviosa del Reino Unido.",
-      "places": [],
+      "places": [
+        {
+          "name": "Best season for visiting Glasgow with a dog",
+          "photo": "/images/city-places/glasgow-tips-best-season.jpg",
+          "description": "May to June and September are the best months: average highs of 16-18 C, Kelvingrove and Pollok parks are green and dry, and the city is far less congested than Edinburgh in summer. July and August bring higher tourist numbers but Glasgow remains less overwhelming than its eastern neighbour. Avoid Celtic Connections (January) and the Glasgow International Comedy Festival (March) if your dog dislikes dense crowds on narrow pavements.",
+          "descriptionFr": "Mai a juin et septembre sont les meilleurs mois : maximales de 16-18 C, Kelvingrove et Pollok sont verts et secs, et la ville est bien moins congestionnee qu'Edimbourg en ete. Juillet-aout amene plus de touristes mais Glasgow reste moins overwhelming que sa voisine de l'est. Evitez Celtic Connections (janvier) et le Glasgow International Comedy Festival (mars) si votre chien n'aime pas les foules denses sur les trottoirs etroits.",
+          "descriptionEs": "Mayo a junio y septiembre son los mejores meses: maximas de 16-18 C, Kelvingrove y Pollok estan verdes y secos, y la ciudad esta mucho menos congestionada que Edimburgo en verano. Julio-agosto trae mas turistas pero Glasgow sigue siendo menos abrumadora que su vecina del este. Evita Celtic Connections (enero) y el Glasgow International Comedy Festival (marzo) si tu perro no soporta las multitudes densas en las aceras estrechas.",
+          "descriptionPt": "De maio a junho e setembro sao os melhores meses: maximas de 16-18 C, Kelvingrove e Pollok estao verdes e secos, e a cidade esta muito menos congestionada do que Edimburgo no verao. Julho-agosto traz mais turistas mas Glasgow continua a ser menos esmagadora do que a sua vizinha a leste. Evite Celtic Connections (janeiro) e o Glasgow International Comedy Festival (marco) se o seu cao nao gosta de multidoes densas em passeios estreitos."
+        },
+        {
+          "name": "UK pet-import paperwork (2026)",
+          "description": "From the EU you need: ISO microchip, valid rabies vaccination (at least 21 days old, not expired), and a GB Animal Health Certificate (AHC) issued by an EU official vet (OV) within 10 days of arrival. The AHC is valid 4 months for onward EU travel and 4 months for return. Tapeworm treatment is required only for return travel to Ireland, Finland, Malta or Norway.",
+          "descriptionFr": "Depuis l'UE il faut : puce ISO, vaccin antirabique valide (au moins 21 jours, non perime) et un GB Animal Health Certificate (AHC) delivre par un veterinaire officiel de l'UE dans les 10 jours precedant l'arrivee. L'AHC est valable 4 mois pour voyager dans l'UE et 4 mois pour le retour. Le traitement antitenias n'est requis que pour le retour vers l'Irlande, la Finlande, Malte ou la Norvege.",
+          "descriptionEs": "Desde la UE necesitas: microchip ISO, vacuna antirrábica vigente (al menos 21 dias, no caducada) y un GB Animal Health Certificate (AHC) emitido por un OV de la UE en los 10 dias previos a la llegada. El AHC es valido 4 meses para viajar en la UE y 4 meses para el retorno. El tratamiento de tenia solo se exige para volver a Irlanda, Finlandia, Malta o Noruega.",
+          "descriptionPt": "A partir da UE precisa de: microchip ISO, vacinacao antirrábica valida (pelo menos 21 dias, nao expirada) e um GB Animal Health Certificate (AHC) emitido por um veterinario oficial da UE nos 10 dias anteriores a chegada. O AHC e valido 4 meses para viagens dentro da UE e 4 meses para o regresso. O tratamento anti-tenia so e exigido na viagem de regresso para a Irlanda, Finlandia, Malta ou Noruega."
+        },
+        {
+          "name": "Walking Glasgow with a dog",
+          "photo": "/images/city-places/glasgow-tips-walking-with-a-dog.jpg",
+          "description": "The best dog-walking route in Glasgow links Kelvingrove Park (off-leash lawns and woodland walks) via the River Kelvin path north to the Botanic Gardens, then loops back through the West End. For a longer day, Pollok Country Park (5 km south, free parking) offers 146 hectares of woodland trails fully off-leash. Glasgow Green along the Clyde is the flat city-centre alternative, entirely dog-friendly.",
+          "descriptionFr": "La meilleure promenade avec un chien a Glasgow relie Kelvingrove Park (pelouses et sentiers forestiers sans laisse) via le chemin de la riviere Kelvin vers le nord jusqu'aux Botanic Gardens, puis revient par le West End. Pour une journee plus longue, Pollok Country Park (5 km au sud, parking gratuit) offre 146 hectares de sentiers forestiers entierement sans laisse. Glasgow Green le long de la Clyde est l'alternative plate en centre-ville, entierement dog-friendly.",
+          "descriptionEs": "La mejor ruta para caminar con perro en Glasgow une Kelvingrove Park (cesped y senderos forestales sin correa) via el camino del rio Kelvin hacia el norte hasta los Botanic Gardens, y regresa por el West End. Para un dia mas largo, Pollok Country Park (5 km al sur, aparcamiento gratis) ofrece 146 hectareas de senderos forestales completamente sin correa. Glasgow Green junto al Clyde es la alternativa plana del centro, completamente dog-friendly.",
+          "descriptionPt": "A melhor rota de caminhada com cao em Glasgow liga Kelvingrove Park (relvados e trilhos de floresta sem trela) pelo caminho do rio Kelvin para norte ate aos Botanic Gardens, e regressa pelo West End. Para um dia mais longo, Pollok Country Park (5 km a sul, estacionamento gratuito) oferece 146 hectares de trilhos florestais completamente sem trela. Glasgow Green ao longo do Clyde e a alternativa plana do centro da cidade, completamente dog-friendly."
+        }
+      ],
       "tipsEn": [
-        "Post-Brexit: EU pet passports are no longer valid for entry into the UK. You need an Animal Health Certificate (AHC) issued by an EU vet within 10 days of travel, plus rabies vaccination and tapeworm treatment for dogs.",
-        "Save Vets Now Glasgow 24/7: +44 141 237 7676 (123-145 North Street), Scotland's first 24-hour pet emergency hospital.",
-        "Glasgow rains often (1370 mm/year, the wettest big city in the UK), pack a waterproof dog coat and a microfibre towel; many pubs keep a dog towel-down corner near the door."
+        "Kelvingrove Art Gallery does not admit dogs (except assistance dogs). Plan your gallery visit in the morning, then spend the afternoon in the surrounding park with the dog.",
+        "Glasgow's West End is the most dog-saturated area: Gibson Street, Byers Road, and Ashton Lane all have multiple dog-friendly cafes and pubs within 400 metres of each other.",
+        "Scottish rain arrives without warning year-round. The West End covered shopping arcade (Princes Square) and the indoor Barrowland Market area are nearby refuges, though dogs are not always admitted inside."
       ],
       "tipsFr": [
-        "Post-Brexit : les passeports européens pour animal ne sont plus valides à l'entrée du Royaume-Uni. Il faut un Animal Health Certificate (AHC) délivré par un vétérinaire de l'UE moins de 10 jours avant le voyage, plus la vaccination antirabique et le traitement contre l'échinocoque pour les chiens.",
-        "Enregistrez Vets Now Glasgow 24h/24 : +44 141 237 7676 (123-145 North Street), premier hôpital d'urgence 24h/24 d'Écosse.",
-        "Il pleut souvent à Glasgow (1370 mm/an, la plus pluvieuse des grandes villes UK), emportez un manteau imperméable pour chien et une serviette microfibre ; beaucoup de pubs gardent un coin essuyage près de la porte."
+        "La Kelvingrove Art Gallery n'admet pas les chiens (sauf chiens d'assistance). Planifiez votre visite de la galerie le matin, puis passez l'apres-midi dans le parc environnant avec le chien.",
+        "Le West End de Glasgow est le quartier le plus sature en chiens : Gibson Street, Byers Road et Ashton Lane ont toutes plusieurs cafes et pubs dog-friendly dans un rayon de 400 m.",
+        "La pluie ecossaise arrive sans avertissement toute l'annee. L'arcade commerciale couverte du West End (Princes Square) et la zone du Barrowland Market interieur sont des refuges proches, bien que les chiens ne soient pas toujours admis a l'interieur."
       ],
       "tipsEs": [
-        "Tras el Brexit: los pasaportes europeos de mascotas ya no son válidos para entrar al Reino Unido. Hace falta un Animal Health Certificate (AHC) emitido por un veterinario de la UE menos de 10 días antes del viaje, además de la vacunación antirrábica y el tratamiento contra equinococos en perros.",
-        "Guarda Vets Now Glasgow 24/7: +44 141 237 7676 (123-145 North Street): el primer hospital de urgencias 24h del país.",
-        "Llueve a menudo en Glasgow (1370 mm/año, la gran ciudad más lluviosa del Reino Unido): lleva impermeable para el perro y toalla de microfibra; muchos pubs tienen un rincón para secar al perro junto a la puerta."
+        "La Kelvingrove Art Gallery no admite perros (excepto perros de asistencia). Planifica tu visita a la galeria por la manana y pasa la tarde en el parque circundante con el perro.",
+        "El West End de Glasgow es la zona mas saturada de perros: Gibson Street, Byers Road y Ashton Lane tienen varios cafes y pubs dog-friendly en un radio de 400 metros entre si.",
+        "La lluvia escocesa llega sin aviso durante todo el ano. La galeria comercial cubierta del West End (Princes Square) y la zona del mercado interior de Barrowland son refugios cercanos, aunque no siempre admiten perros."
       ],
       "faqsEn": [
         {
-          "q": "Is Glasgow a good city for travelling with a dog?",
-          "a": "Yes, among the most dog-friendly UK cities. Free pets on ScotRail, dog-welcoming pubs in every neighbourhood, Pollok Country Park inside the city, and Loch Lomond a 50-minute train ride away. The main quirks are the post-Brexit AHC for EU arrivals, the rain, and the Subway-only-small-pets rule."
+          "q": "Is Glasgow good for a dog-friendly weekend break?",
+          "a": "Yes. Glasgow has Kelvingrove Park, Pollok Country Park, and Glasgow Green for off-leash walking, a Scottish pub culture that defaults to dog-welcoming, and ScotRail connections from Edinburgh in 50 minutes. The West End concentrates the highest density of indoor dog-friendly venues."
         },
         {
-          "q": "What documents do I need to bring my dog to Glasgow from the EU?",
-          "a": "Since Brexit, EU pet passports are no longer accepted for entry to the UK. You need an Animal Health Certificate (AHC) issued by an EU vet within 10 days of travel, plus rabies vaccination and tapeworm treatment for dogs."
-        },
-        {
-          "q": "Can my dog go inside Glasgow museums?",
-          "a": "Only assistance dogs are admitted to the Kelvingrove Art Gallery, the Riverside Museum, the Burrell Collection (in Pollok Park), and the Hunterian Museum. The exterior squares and gardens of all four are leash-friendly and free."
+          "q": "Can I take my dog to Kelvingrove Art Gallery?",
+          "a": "No. Kelvingrove Art Gallery admits only registered assistance dogs. The surrounding Kelvingrove Park is fully dog-friendly and off-leash. Plan a dog-sitting hour or take turns for the gallery visit."
         }
       ],
       "faqsFr": [
         {
-          "q": "Glasgow est-elle une bonne ville pour voyager avec un chien ?",
-          "a": "Oui, parmi les villes britanniques les plus dog-friendly. Animaux gratuits dans ScotRail, pubs dog-welcoming dans chaque quartier, Pollok Country Park dans la ville, et le Loch Lomond à 50 minutes de train. Les principales subtilités sont l'AHC post-Brexit pour l'arrivée depuis l'UE, la pluie, et la règle Subway-petits-animaux-uniquement."
+          "q": "Glasgow est-elle bien pour un week-end dog-friendly ?",
+          "a": "Oui. Glasgow a Kelvingrove Park, Pollok Country Park et Glasgow Green pour les balades sans laisse, une culture pub ecossaise qui accepte les chiens par defaut, et des connexions ScotRail depuis Edimbourg en 50 minutes. Le West End concentre la plus forte densite d'etablissements dog-friendly en interieur."
         },
         {
-          "q": "Quels documents pour emmener mon chien à Glasgow depuis l'UE ?",
-          "a": "Depuis le Brexit, le passeport européen pour animal n'est plus accepté à l'entrée du Royaume-Uni. Il faut un Animal Health Certificate (AHC) délivré par un vétérinaire de l'UE moins de 10 jours avant le voyage, ainsi que la vaccination antirabique et le traitement contre l'échinocoque pour les chiens."
-        },
-        {
-          "q": "Mon chien peut-il visiter les musées de Glasgow ?",
-          "a": "Seuls les chiens d'assistance sont admis à la Kelvingrove Art Gallery, au Riverside Museum, à la Burrell Collection (dans le Pollok Park) et au Hunterian Museum. Les places extérieures et jardins des quatre sont accessibles en laisse et gratuits."
+          "q": "Puis-je emmener mon chien a la Kelvingrove Art Gallery ?",
+          "a": "Non. La Kelvingrove Art Gallery n'admet que les chiens d'assistance enregistres. Le Kelvingrove Park attenant est entierement dog-friendly et sans laisse. Prevoyez une heure de pet-sitting ou alternez pour la visite de la galerie."
         }
       ],
       "faqsEs": [
         {
-          "q": "¿Es Glasgow una buena ciudad para viajar con perro?",
-          "a": "Sí: entre las ciudades del Reino Unido más dog-friendly. Mascotas gratis en ScotRail, pubs dog-welcoming en cada barrio, Pollok Country Park dentro de la ciudad, y el Loch Lomond a 50 minutos en tren. Las principales pegas son el AHC post-Brexit para entrada desde la UE, la lluvia y la norma Subway-solo-mascotas-pequeñas."
+          "q": "¿Glasgow es buena para un fin de semana dog-friendly?",
+          "a": "Si. Glasgow tiene Kelvingrove Park, Pollok Country Park y Glasgow Green para paseos sin correa, una cultura pub escocesa que acepta perros por defecto, y conexiones ScotRail desde Edimburgo en 50 minutos. El West End concentra la mayor densidad de locales dog-friendly en interior."
         },
         {
-          "q": "¿Qué documentos necesito para llevar a mi perro a Glasgow desde la UE?",
-          "a": "Desde el Brexit, el pasaporte europeo de mascotas ya no se acepta para entrar al Reino Unido. Hace falta un Animal Health Certificate (AHC) emitido por un veterinario de la UE menos de 10 días antes del viaje, además de la vacunación antirrábica y el tratamiento contra equinococos en perros."
-        },
-        {
-          "q": "¿Puede mi perro entrar a los museos de Glasgow?",
-          "a": "Solo los perros de asistencia se admiten en la Kelvingrove Art Gallery, el Riverside Museum, la Burrell Collection (en Pollok Park) y el Hunterian Museum. Las plazas exteriores y jardines de los cuatro son accesibles con correa y gratuitos."
+          "q": "¿Puedo llevar mi perro a la Kelvingrove Art Gallery?",
+          "a": "No. La Kelvingrove Art Gallery solo admite perros de asistencia registrados. El Kelvingrove Park contiguo es completamente dog-friendly y sin correa. Planifica una hora de pet-sitting o turnaos para la visita a la galeria."
         }
       ],
-      "titlePt": "Conselhos para viajar com o seu animal em Glasgow",
-      "introPt": "Glasgow é uma das cidades do Reino Unido mais fáceis para viajar com um cão: animais grátis em todos os comboios da ScotRail, pubs que acolhem cães em todos os bairros, o Pollok Country Park, com 146 hectares, dentro da cidade, e o Loch Lomond a 50 minutos de comboio. Os dois pontos a planear são o Animal Health Certificate pós-Brexit (para chegadas da UE) e a chuva: Glasgow tem, em média, 1370 mm de chuva por ano, a grande cidade mais chuvosa do Reino Unido.",
+      "titlePt": "Viajar para Glasgow com um cao: conselhos praticos",
+      "introPt": "Glasgow e uma das cidades mais dog-friendly do Reino Unido. Kelvingrove Park, Pollok Country Park e Glasgow Green oferecem amplos espacos sem trela, e a cultura de pubs escocesa acolhe caes por defeito.",
       "tipsPt": [
-        "Após o Brexit: os passaportes europeus para animais deixaram de ser válidos para a entrada no Reino Unido. Precisa de um Animal Health Certificate (AHC) emitido por um veterinário da UE nos 10 dias anteriores à viagem, mais a vacinação antirrábica e o tratamento contra a ténia para cães.",
-        "Guarde a Vets Now Glasgow 24 horas: +44 141 237 7676 (123-145 North Street), o primeiro hospital de urgência 24 horas para animais da Escócia.",
-        "Chove muito em Glasgow (1370 mm por ano, a grande cidade mais chuvosa do Reino Unido): leve uma capa impermeável para o cão e uma toalha de microfibra; muitos pubs têm um recanto junto à porta para secar o cão."
+        "A Kelvingrove Art Gallery nao admite caes (exceto caes de assistencia). Planeie a sua visita a galeria de manha e passe a tarde no parque envolvente com o cao.",
+        "O West End de Glasgow e a zona com mais caes: Gibson Street, Byers Road e Ashton Lane tem varios cafes e pubs que aceitam caes num raio de 400 metros entre si.",
+        "A chuva escocesa chega sem aviso ao longo de todo o ano. A galeria comercial coberta do West End (Princes Square) e a zona do mercado interior de Barrowland sao refugios proximos, embora os caes nem sempre sejam admitidos no interior."
       ],
       "faqsPt": [
         {
-          "q": "Glasgow é uma boa cidade para viajar com um cão?",
-          "a": "Sim, é uma das cidades mais pet-friendly do Reino Unido. Animais grátis na ScotRail, pubs que acolhem cães em todos os bairros, o Pollok Country Park dentro da cidade e o Loch Lomond a 50 minutos de comboio. As principais particularidades são o AHC pós-Brexit para chegadas da UE, a chuva e a regra de só animais pequenos no Subway."
+          "q": "Glasgow e boa para uma escapada de fim de semana com cao?",
+          "a": "Sim. Glasgow tem Kelvingrove Park, Pollok Country Park e Glasgow Green para passeios sem trela, uma cultura de pubs escocesa que acolhe caes por defeito, e ligacoes ScotRail a partir de Edimburgo em 50 minutos. O West End concentra a maior densidade de estabelecimentos dog-friendly em interior."
         },
         {
-          "q": "Que documentos preciso para levar o meu cão a Glasgow a partir da UE?",
-          "a": "Desde o Brexit, os passaportes europeus para animais deixaram de ser aceites para a entrada no Reino Unido. Precisa de um Animal Health Certificate (AHC) emitido por um veterinário da UE nos 10 dias anteriores à viagem, mais a vacinação antirrábica e o tratamento contra a ténia para cães."
-        },
-        {
-          "q": "O meu cão pode entrar nos museus de Glasgow?",
-          "a": "Apenas os cães de assistência são admitidos na Kelvingrove Art Gallery, no Riverside Museum, na Burrell Collection (no Pollok Park) e no Hunterian Museum. As praças exteriores e os jardins dos quatro são acessíveis com trela e gratuitos."
+          "q": "Posso levar o meu cao a Kelvingrove Art Gallery?",
+          "a": "Nao. A Kelvingrove Art Gallery so admite caes de assistencia registados. O Kelvingrove Park adjacente e completamente dog-friendly e sem trela. Planeie uma hora de pet-sitting ou revezem-se para a visita a galeria."
         }
       ]
     },

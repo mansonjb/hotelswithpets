@@ -3,7 +3,7 @@
   "name": "Edinburgh",
   "country": "Scotland",
   "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-  "lastUpdated": "2026-04-18",
+  "lastUpdated": "2026-06-28",
   "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Edinburgh",
@@ -339,8 +339,127 @@
           "restrictionsPt": "Pode aplicar-se uma sobretaxa. Alguns motoristas recusam animais, confirme sempre antes de entrar."
         }
       ],
-      "titlePt": "Deslocar-se em Edimburgo com o seu animal",
-      "introPt": "Edimburgo dispõe de um dos sistemas de transporte público mais genuinamente pet-friendly do Reino Unido. A Lothian Buses, a principal rede da cidade, deixa os cães viajar totalmente de graça desde que mantidos com trela. A linha do Edinburgh Trams, que liga o aeroporto a Newhaven passando pelo centro da cidade, também aceita cães com trela sem qualquer custo. Isto significa que pode chegar ao Aeroporto de Edimburgo, entrar no elétrico com o seu cão, alcançar o centro da cidade e mudar para um autocarro da Lothian, tudo sem pagar um cêntimo pelo seu animal e sem precisar de transportadora ou caixa. A única regra prática é uma trela bem ajustada e bom senso nas horas de maior movimento."
+      "titlePt": "Transporte pet-friendly em Edimburgo",
+      "introPt": "A rede de transportes publicos de Edimburgo e abrangente e em geral acolhedora para caes. A ScotRail liga Edimburgo a Glasgow e ao norte da Escocia, os elétricos conectam ao aeroporto, e a Lothian Buses cobre todos os bairros da cidade.",
+      "places": [
+        {
+          "name": "ScotRail",
+          "type": "Mainline and commuter rail",
+          "photo": "/images/city-places/edinburgh-transport-scotrail.jpg",
+          "website": "https://www.scotrail.co.uk/travel-information/travelling-with-pets",
+          "description": "ScotRail runs inter-city trains from Edinburgh Waverley to Glasgow Queen Street (50 min), Aberdeen, Inverness, and Dundee. Up to two well-behaved dogs travel free per passenger on any ScotRail service. Dogs must be kept on a lead and under control at all times. Large dogs need to be on the floor; small dogs may sit on laps. No booking required for dogs.",
+          "descriptionFr": "ScotRail exploite des trains inter-cités depuis Edinburgh Waverley vers Glasgow Queen Street (50 min), Aberdeen, Inverness et Dundee. Jusqu'à deux chiens bien tenus voyagent gratuitement par passager sur tous les services ScotRail. Les chiens doivent rester en laisse et sous contrôle. Les grands chiens restent au sol, les petits peuvent s'asseoir sur les genoux. Aucune réservation requise pour les chiens.",
+          "descriptionEs": "ScotRail opera trenes interurbanos desde Edinburgh Waverley hacia Glasgow Queen Street (50 min), Aberdeen, Inverness y Dundee. Hasta dos perros bien comportados viajan gratis por pasajero en cualquier servicio ScotRail. Los perros deben ir con correa y bajo control en todo momento. Los perros grandes deben ir en el suelo; los pequeños pueden sentarse en el regazo. No se requiere reserva para los perros.",
+          "descriptionPt": "A ScotRail opera comboios interurbanos a partir de Edinburgh Waverley para Glasgow Queen Street (50 min), Aberdeen, Inverness e Dundee. Até dois cães bem-comportados viajam gratuitamente por passageiro em qualquer serviço ScotRail. Os cães devem permanecer com trela e sob controlo a todo o momento. Os cães grandes ficam no chão; os mais pequenos podem sentar-se ao colo. Não é necessária reserva para os cães.",
+          "petPolicy": "Up to 2 dogs free per passenger, on lead at all times",
+          "petPolicyFr": "Jusqu'à 2 chiens gratuits par passager, en laisse en permanence",
+          "petPolicyEs": "Hasta 2 perros gratis por pasajero, con correa en todo momento",
+          "petPolicyPt": "Ate 2 caes gratuitamente por passageiro, com trela em permanencia",
+          "tip": "The 07:00-09:00 and 16:30-18:30 Edinburgh Waverley to Glasgow runs are packed with commuters. Travel off-peak for more floor space with a large dog.",
+          "tipFr": "Les trains Edinburgh Waverley vers Glasgow de 7h-9h et 16h30-18h30 sont bondés de navetteurs. Voyagez hors pointe pour plus d'espace au sol avec un grand chien.",
+          "tipEs": "Los trenes de Edinburgh Waverley a Glasgow de 07:00-09:00 y 16:30-18:30 van llenos de commuters. Viaja fuera de hora punta para más espacio en el suelo con un perro grande.",
+          "tipPt": "Os comboios de Edinburgh Waverley para Glasgow das 07:00-09:00 e 16:30-18:30 estao cheios de pendulares. Viaje fora das horas de ponta para mais espaco no chao com um cao grande.",
+          "googleMapsUrl": "https://maps.google.com/?q=Edinburgh+Waverley+Station"
+        },
+        {
+          "name": "Lothian Buses",
+          "type": "City buses",
+          "photo": "/images/city-places/edinburgh-transport-lothian-buses.jpg",
+          "website": "https://www.lothianbuses.com/",
+          "description": "Lothian Buses is Edinburgh's municipal bus operator covering the entire city and airport. Dogs are accepted free at the driver's discretion: small dogs in a secure carrier, or calm leashed dogs if the bus is not busy. Night buses (N lines) running after midnight also accept dogs. The airlink 100 express (Edinburgh Airport to Waverley) accepts well-behaved dogs on lead.",
+          "descriptionFr": "Lothian Buses est l'opérateur de bus municipal d'Édimbourg, couvrant toute la ville et l'aéroport. Les chiens sont acceptés gratuitement à la discrétion du chauffeur : petits chiens dans un sac de transport, ou chiens calmes en laisse si le bus n'est pas bondé. Les bus de nuit (lignes N) après minuit acceptent aussi les chiens. L'airlink 100 express (aéroport d'Édimbourg vers Waverley) accepte les chiens bien tenus en laisse.",
+          "descriptionEs": "Lothian Buses es el operador de autobuses municipal de Edimburgo, que cubre toda la ciudad y el aeropuerto. Los perros se admiten gratis a discreción del conductor: perros pequeños en transportín, o perros tranquilos con correa si el autobús no está lleno. Los autobuses nocturnos (líneas N) a partir de medianoche también admiten perros. El airlink 100 express (aeropuerto de Edimburgo a Waverley) admite perros bien portados con correa.",
+          "descriptionPt": "A Lothian Buses e o operador de autocarros municipal de Edimburgo, que cobre toda a cidade e o aeroporto. Os caes sao aceites gratuitamente ao criterio do motorista: caes pequenos em transportadora segura, ou caes calmos com trela se o autocarro nao estiver cheio. Os autocarros noturnos (linhas N) depois da meia-noite tambem aceitam caes. O airlink 100 express (aeroporto de Edimburgo a Waverley) aceita caes bem-comportados com trela.",
+          "petPolicy": "Free at driver's discretion, lead or carrier required",
+          "petPolicyFr": "Gratuit a la discretion du chauffeur, laisse ou transportin requis",
+          "petPolicyEs": "Gratis a discrecion del conductor, correa o transportin requerido",
+          "petPolicyPt": "Gratuitamente ao criterio do motorista, trela ou transportadora obrigatoria",
+          "tip": "The number 23 and 27 buses run directly past the Meadows and Bruntsfield, ideal if you are walking to the dog-friendly commons from Waverley.",
+          "tipFr": "Les bus 23 et 27 passent directement devant the Meadows et Bruntsfield, ideal si vous allez a pied vers les espaces dog-friendly depuis Waverley.",
+          "tipEs": "Los autobuses 23 y 27 pasan directamente por the Meadows y Bruntsfield, ideal si quieres caminar hacia las zonas dog-friendly desde Waverley.",
+          "tipPt": "Os autocarros numero 23 e 27 passam diretamente pelos Meadows e Bruntsfield, ideal se quiser caminhar ate as zonas dog-friendly a partir de Waverley.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lothian+Buses+Edinburgh"
+        },
+        {
+          "name": "Edinburgh Trams",
+          "type": "Tram",
+          "photo": "/images/city-places/edinburgh-transport-edinburgh-trams.jpg",
+          "website": "https://www.edinburghtrams.com/",
+          "description": "Edinburgh's tram network (extended in 2023 to Newhaven) connects the airport via York Place and St Andrew Square through to Ocean Terminal. Small dogs in a bag travel free. Larger dogs are accepted at the driver's discretion and must be on a short lead and not obstruct the aisle. The tram is the fastest dog-friendly link from Edinburgh Airport to the city centre, taking about 30 minutes to York Place.",
+          "descriptionFr": "Le reseau de trams d'Edimbourg (etendu en 2023 jusqu'a Newhaven) relie l'aeroport via York Place et St Andrew Square jusqu'a Ocean Terminal. Les petits chiens dans un sac voyagent gratuitement. Les chiens plus grands sont acceptes a la discretion du conducteur et doivent etre en laisse courte sans obstruer l'allee. Le tram est le lien dog-friendly le plus rapide depuis l'aeroport d'Edimbourg jusqu'au centre, environ 30 minutes jusqu'a York Place.",
+          "descriptionEs": "La red de tranvias de Edimburgo (ampliada en 2023 hasta Newhaven) conecta el aeropuerto via York Place y St Andrew Square hasta Ocean Terminal. Los perros pequenos en bolsa viajan gratis. Los perros mas grandes se admiten a discrecion del conductor y deben ir con correa corta sin obstruir el pasillo. El tranvia es el enlace dog-friendly mas rapido desde el aeropuerto de Edimburgo hasta el centro, unos 30 minutos hasta York Place.",
+          "descriptionPt": "A rede de elétricos de Edimburgo (alargada em 2023 ate Newhaven) liga o aeroporto via York Place e St Andrew Square ate ao Ocean Terminal. Os caes pequenos em bolsa viajam gratuitamente. Os caes maiores sao aceites ao criterio do condutor e devem usar trela curta sem obstruir o corredor. O elétrico e a ligacao dog-friendly mais rapida do aeroporto de Edimburgo ao centro da cidade, cerca de 30 minutos ate York Place.",
+          "petPolicy": "Small dogs in bag free; larger dogs at driver's discretion, short lead",
+          "petPolicyFr": "Petits chiens en sac gratuits; grands chiens a discretion du conducteur, laisse courte",
+          "petPolicyEs": "Perros pequenos en bolsa gratis; perros grandes a discrecion del conductor, correa corta",
+          "petPolicyPt": "Caes pequenos em bolsa gratuitos; caes maiores ao criterio do condutor, trela curta",
+          "tip": "Board at Edinburgh Airport tram stop (outside arrivals) and tap your contactless card. No ticket machine queue needed. Avoid peak hours 08:00-09:00 and 17:00-18:30 if travelling with a large dog.",
+          "tipFr": "Embarquez a l'arret de tram de l'aeroport d'Edimbourg (devant les arrivees) et tapez votre carte sans contact. Pas besoin de faire la queue au distributeur. Evitez les heures de pointe 8h-9h et 17h-18h30 avec un grand chien.",
+          "tipEs": "Sube en la parada del tranvia del aeropuerto de Edimburgo (a la salida de llegadas) y toca con tarjeta sin contacto. Sin colas en maquina. Evita horas punta 08:00-09:00 y 17:00-18:30 con un perro grande.",
+          "tipPt": "Embarque na paragem do elétrico do aeroporto de Edimburgo (a la saida das chegadas) e use o seu cartao sem contacto. Sem filas na maquina. Evite as horas de ponta 08:00-09:00 e 17:00-18:30 com um cao grande.",
+          "googleMapsUrl": "https://maps.google.com/?q=Edinburgh+Airport+Tram+Stop"
+        }
+      ],
+      "tipsEn": [
+        "Lothian Buses covers the Old Town and the Meadows better than the tram. Use the tram only for the airport or Newhaven/Leith waterfront.",
+        "Edinburgh Waverley is the main intercity rail hub. Haymarket station (15 min walk west) is quieter and works better if your dog is anxious in crowds.",
+        "Taxis and Uber in Edinburgh accept leashed dogs by law in Scotland. A taxi from the airport to the city centre costs roughly £25-30 and takes 20-35 min depending on traffic."
+      ],
+      "tipsFr": [
+        "Lothian Buses couvre mieux l'Old Town et les Meadows que le tram. Utilisez le tram uniquement pour l'aeroport ou le front de mer de Newhaven/Leith.",
+        "Edinburgh Waverley est le principal hub ferroviaire intercite. La gare de Haymarket (15 min a pied vers l'ouest) est plus calme et convient mieux si votre chien est anxieux dans les foules.",
+        "Les taxis et Uber a Edimbourg acceptent les chiens en laisse par la loi ecossaise. Un taxi de l'aeroport au centre coute environ 25-30 GBP et prend 20-35 min selon le trafic."
+      ],
+      "tipsEs": [
+        "Lothian Buses cubre mejor el Old Town y los Meadows que el tranvia. Usa el tranvia solo para el aeropuerto o el paseo maritimo de Newhaven/Leith.",
+        "Edinburgh Waverley es el principal hub ferroviario intercity. La estacion de Haymarket (15 min caminando al oeste) es mas tranquila y funciona mejor si tu perro se pone ansioso entre multitudes.",
+        "Los taxis y Uber en Edimburgo aceptan perros con correa por ley en Escocia. Un taxi del aeropuerto al centro cuesta aproximadamente 25-30 GBP y tarda 20-35 min segun el trafico."
+      ],
+      "tipsPt": [
+        "A Lothian Buses cobre melhor o Old Town e os Meadows do que o elétrico. Use o elétrico apenas para o aeroporto ou para a frente de mar de Newhaven/Leith.",
+        "Edinburgh Waverley e o principal hub ferroviario intercidades. A estacao de Haymarket (15 min a pe para oeste) e mais tranquila e funciona melhor se o seu cao ficar ansioso em multidoes.",
+        "Os taxis e Uber em Edimburgo aceitam caes com trela por lei na Escocia. Um taxi do aeroporto ao centro custa cerca de 25-30 GBP e demora 20-35 min conforme o trafego."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need to buy a ticket for my dog on Edinburgh public transport?",
+          "a": "No. Dogs travel free on ScotRail trains (up to two per passenger), Lothian Buses (at driver's discretion), and Edinburgh Trams (small dogs in bag free, larger dogs at discretion). No dog ticket is available to purchase."
+        },
+        {
+          "q": "Can I take a large dog on the Edinburgh tram to the airport?",
+          "a": "Yes, at the driver's discretion. Keep the dog on a short lead, ensure it does not block the aisle, and travel outside peak hours (before 08:00 or after 19:00) for more space."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Dois-je acheter un billet pour mon chien dans les transports en commun d'Edimbourg ?",
+          "a": "Non. Les chiens voyagent gratuitement sur ScotRail (jusqu'a deux par passager), Lothian Buses (a discretion du chauffeur) et Edinburgh Trams (petits chiens en sac gratuits, grands a discretion). Aucun billet chien n'est en vente."
+        },
+        {
+          "q": "Puis-je prendre un grand chien dans le tram d'Edimbourg vers l'aeroport ?",
+          "a": "Oui, a la discretion du conducteur. Gardez le chien en laisse courte, assurez-vous qu'il ne bloque pas l'allee et voyagez hors heures de pointe (avant 8h ou apres 19h) pour plus d'espace."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Necesito comprar billete para mi perro en el transporte publico de Edimburgo?",
+          "a": "No. Los perros viajan gratis en ScotRail (hasta dos por pasajero), Lothian Buses (a discrecion del conductor) y Edinburgh Trams (perros pequenos en bolsa gratis, grandes a discrecion). No existe billete de perro disponible."
+        },
+        {
+          "q": "¿Puedo llevar un perro grande en el tranvia de Edimburgo al aeropuerto?",
+          "a": "Si, a discrecion del conductor. Mantén al perro con correa corta, asegurate de que no bloquee el pasillo y viaja fuera de hora punta (antes de las 08:00 o despues de las 19:00) para mas espacio."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Precisso de comprar bilhete para o meu cao nos transportes publicos de Edimburgo?",
+          "a": "Nao. Os caes viajam gratuitamente na ScotRail (ate dois por passageiro), nos Lothian Buses (ao criterio do motorista) e nos Edinburgh Trams (caes pequenos em bolsa gratuitos, maiores ao criterio). Nao existe bilhete de cao disponivel para compra."
+        },
+        {
+          "q": "Posso levar um cao grande no elétrico de Edimburgo para o aeroporto?",
+          "a": "Sim, ao criterio do condutor. Mantenha o cao com trela curta, assegure-se de que nao obstrui o corredor e viaje fora das horas de ponta (antes das 08:00 ou depois das 19:00) para mais espaco."
+        }
+      ]
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches Near Edinburgh",
@@ -478,35 +597,93 @@
       "introEn": "Edinburgh is one of the most dog-welcoming cities in the UK, but a few local specifics will make the experience significantly better for both you and your pet.",
       "introFr": "Édimbourg est l'une des villes les plus accueillantes pour les chiens au Royaume-Uni, mais quelques particularités locales rendront l'expérience bien meilleure pour vous et votre animal.",
       "introEs": "Edimburgo es una de las ciudades más acogedoras para perros del Reino Unido, pero algunos detalles locales harán la experiencia significativamente mejor para ti y tu mascota.",
-      "tipsEn": [],
+      "tipsEn": [
+        "Edinburgh Castle and the Scottish National Museum do not admit dogs. Plan your non-dog activities around morning ticket slots and leave the afternoons for the parks.",
+        "The Scottish weather changes quickly year-round. Always carry a light waterproof and a microfibre towel. Arthur's Seat is exposed and can be wet and windy even in June.",
+        "Arthurs Seat paths are steep in places; dog boots or paw wax help protect on the volcanic rock sections. The circumference path at the base is completely flat and accessible."
+      ],
       "tipsFr": [
-        "Les chiens voyagent gratuitement sur les Lothian Buses et les Edinburgh Trams, profitez-en",
-        "Arthur's Seat est le meilleur espace sans laisse gratuit dans n'importe quelle capitale européenne",
-        "La météo d'Édimbourg change vite, portez une couche supplémentaire et soyez prêt à vous abriter",
-        "Les pavés de la vieille ville peuvent être durs pour les pattes, vérifiez les coussinets chaque jour",
-        "La saison du Festival d'Édimbourg (août) attire des foules immenses, planifiez en conséquence"
+        "Le chateau d'Edimbourg et le musee national ecossais n'admettent pas les chiens. Planifiez vos activites sans chien en matinee et reservez les apres-midi aux parcs.",
+        "La meteo ecossaise change rapidement toute l'annee. Apportez toujours un impermeable leger et une serviette en microfibre. Arthur's Seat est expose et peut etre humide et venteux meme en juin.",
+        "Les sentiers d'Arthur's Seat sont raides par endroits ; des chaussures ou de la cire pour pattes protegent sur les sections de roche volcanique. Le sentier en peripherie a la base est entierement plat et accessible."
       ],
       "tipsEs": [
-        "Los perros viajan gratis en Lothian Buses y Edinburgh Trams, aprovéchalo",
-        "Arthur's Seat es el mejor espacio gratuito sin correa de cualquier capital europea",
-        "El tiempo en Edimburgo cambia rápido, lleva una capa extra y prepárate para refugiarte",
-        "Los adoquines del casco antiguo pueden ser duros para las patas, revisa las almohadillas a diario",
-        "La temporada del Festival de Edimburgo (agosto) trae enormes multitudes, planifica con antelación"
+        "El Castillo de Edimburgo y el Museo Nacional Escoces no admiten perros. Planifica tus actividades sin perro para la manana y reserva las tardes para los parques.",
+        "El tiempo escoces cambia rapido durante todo el ano. Lleva siempre un chubasquero ligero y una toalla de microfibra. Arthur's Seat esta expuesto y puede estar humedo y ventoso incluso en junio.",
+        "Los senderos de Arthur's Seat son empinados en algunos tramos; botas o cera para zarpas protegen en las secciones de roca volcanica. El sendero perimetral en la base es completamente llano y accesible."
       ],
-      "places": [],
-      "faqsEn": [],
-      "faqsFr": [],
-      "faqsEs": [],
-      "titlePt": "Conselhos essenciais para visitar Edimburgo com o seu animal",
-      "introPt": "Edimburgo é uma das cidades mais acolhedoras para cães do Reino Unido, mas alguns pormenores locais tornarão a experiência significativamente melhor tanto para si como para o seu animal.",
+      "places": [
+        {
+          "name": "Best season for visiting Edinburgh with a dog",
+          "photo": "/images/city-places/edinburgh-tips-best-season.jpg",
+          "description": "May to early July and September to October are the sweet spots. Average highs reach 17-18 C and the city's parks and green spaces are at their best. Avoid August (Edinburgh Fringe) when the Old Town becomes extremely congested, and the last week of December and New Year (Hogmanay) when fireworks, crowds, and noise make the city stressful for dogs.",
+          "descriptionFr": "Mai jusqu'au debut de juillet et septembre a octobre sont les periodes idéales. Les maximales atteignent 17-18 C et les parcs de la ville sont au meilleur de leur forme. Evitez aout (Edinburgh Fringe) quand l'Old Town devient extremement congestionne, et la derniere semaine de decembre et le Nouvel An (Hogmanay) quand les feux d'artifice, les foules et le bruit rendent la ville stressante pour les chiens.",
+          "descriptionEs": "Mayo hasta principios de julio y septiembre a octubre son los mejores momentos. Las maximas alcanzan 17-18 C y los parques de la ciudad estan en su mejor momento. Evita agosto (Edinburgh Fringe) cuando el Old Town se congestiona mucho, y la ultima semana de diciembre y Nochevieja (Hogmanay) cuando los fuegos artificiales, las multitudes y el ruido hacen la ciudad estresante para los perros.",
+          "descriptionPt": "De maio ao inicio de julho e de setembro a outubro sao os melhores periodos. As maximas chegam a 17-18 C e os parques e espacos verdes da cidade estao no seu melhor. Evite agosto (Edinburgh Fringe) quando o Old Town fica extremamente congestionado, e a ultima semana de dezembro e o Ano Novo (Hogmanay) quando os fogos de artificio, as multidoes e o barulho tornam a cidade stressante para os caes."
+        },
+        {
+          "name": "UK pet-import paperwork (2026)",
+          "description": "From the EU you need: ISO microchip, valid rabies vaccination (at least 21 days old, not expired), and a GB Animal Health Certificate (AHC) issued by an EU official vet (OV) within 10 days of arrival. The AHC is valid 4 months for onward EU travel and 4 months for return. Tapeworm treatment is required only for return travel to Ireland, Finland, Malta or Norway.",
+          "descriptionFr": "Depuis l'UE il faut : puce ISO, vaccin antirabique valide (au moins 21 jours, non perime) et un GB Animal Health Certificate (AHC) delivre par un veterinaire officiel de l'UE dans les 10 jours precedant l'arrivee. L'AHC est valable 4 mois pour voyager dans l'UE et 4 mois pour le retour. Le traitement antitenias n'est requis que pour le retour vers l'Irlande, la Finlande, Malte ou la Norvege.",
+          "descriptionEs": "Desde la UE necesitas: microchip ISO, vacuna antirrábica vigente (al menos 21 dias, no caducada) y un GB Animal Health Certificate (AHC) emitido por un OV de la UE en los 10 dias previos a la llegada. El AHC es valido 4 meses para viajar en la UE y 4 meses para el retorno. El tratamiento de tenia solo se exige para volver a Irlanda, Finlandia, Malta o Noruega.",
+          "descriptionPt": "A partir da UE precisa de: microchip ISO, vacinacao antirrábica válida (pelo menos 21 dias, nao expirada) e um GB Animal Health Certificate (AHC) emitido por um veterinario oficial da UE nos 10 dias anteriores a chegada. O AHC e valido 4 meses para viagens dentro da UE e 4 meses para o regresso. O tratamento anti-tenia so e exigido na viagem de regresso para a Irlanda, Finlandia, Malta ou Noruega."
+        },
+        {
+          "name": "Walking Edinburgh with a dog",
+          "photo": "/images/city-places/edinburgh-tips-walking-with-a-dog.jpg",
+          "description": "The classic dog-friendly circuit covers Arthur's Seat (Holyrood Park, mostly off-leash on the upper slopes), the Water of Leith Walkway from Balerno to Leith (12 miles, almost entirely off-leash through woods and along the river), and the Meadows (a 3 km long green space with unrestricted dog access). The Old Town streets are paved and dog-friendly but crowded in high season.",
+          "descriptionFr": "Le circuit dog-friendly classique couvre Arthur's Seat (Holyrood Park, principalement sans laisse sur les pentes superieures), le Water of Leith Walkway de Balerno a Leith (19 km, presque entierement sans laisse a travers bois et le long de la riviere), et the Meadows (espace vert de 3 km au total avec acces chien libre). Les rues de l'Old Town sont pavées et dog-friendly mais bondees en haute saison.",
+          "descriptionEs": "El circuito dog-friendly clasico cubre Arthur's Seat (Holyrood Park, principalmente sin correa en las laderas superiores), el Water of Leith Walkway de Balerno a Leith (19 km, casi completamente sin correa a traves de bosques y a lo largo del rio), y the Meadows (espacio verde de 3 km con acceso libre para perros). Las calles del Old Town estan empedradas y son dog-friendly pero abarrotadas en temporada alta.",
+          "descriptionPt": "O circuito dog-friendly classico inclui Arthur's Seat (Holyrood Park, principalmente sem trela nas encostas superiores), o Water of Leith Walkway de Balerno a Leith (19 km, quase inteiramente sem trela atraves de bosques e ao longo do rio), e the Meadows (espaco verde de 3 km com acesso livre para caes). As ruas do Old Town sao empedradas e dog-friendly mas ficam muito cheias em alta temporada."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Edinburgh Castle?",
+          "a": "No. Edinburgh Castle does not admit dogs, except registered assistance dogs. Holyrood Palace similarly restricts dogs. Plan a dog-sitting hour for both, or take turns visiting while the other stays outside with the dog."
+        },
+        {
+          "q": "Is Edinburgh a good city break with a dog?",
+          "a": "Yes. Edinburgh has excellent off-leash spaces (Arthur's Seat, Water of Leith, Meadows, Holyrood Park), a genuine pub culture that welcomes dogs, ScotRail connections, and good pet-sitting options. Avoid August and Hogmanay if your dog is noise-sensitive."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien au chateau d'Edimbourg ?",
+          "a": "Non. Le chateau d'Edimbourg n'admet pas les chiens, sauf les chiens d'assistance enregistres. Le palais de Holyrood interdit egalement les chiens. Prevoyez une heure de pet-sitting pour les deux, ou alternez les visites pendant que l'autre reste dehors avec le chien."
+        },
+        {
+          "q": "Edimbourg est-elle une bonne city-break avec un chien ?",
+          "a": "Oui. Edimbourg offre d'excellents espaces sans laisse (Arthur's Seat, Water of Leith, the Meadows, Holyrood Park), une veritable culture des pubs accueillant les chiens, des connexions ScotRail et de bonnes options de pet-sitting. Evitez aout et Hogmanay si votre chien est sensible au bruit."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar mi perro al Castillo de Edimburgo?",
+          "a": "No. El Castillo de Edimburgo no admite perros, salvo perros de asistencia registrados. El Palacio de Holyrood tampoco admite perros. Planifica una hora de pet-sitting para ambos, o turnaos para visitar mientras el otro se queda fuera con el perro."
+        },
+        {
+          "q": "¿Es Edimburgo una buena escapada con perro?",
+          "a": "Si. Edimburgo tiene excelentes espacios sin correa (Arthur's Seat, Water of Leith, the Meadows, Holyrood Park), una autentica cultura de pubs que acepta perros, conexiones ScotRail y buenas opciones de pet-sitting. Evita agosto y Hogmanay si tu perro es sensible al ruido."
+        }
+      ],
+      "titlePt": "Viajar para Edimburgo com um cao: conselhos praticos",
+      "introPt": "Edimburgo e uma das melhores cidades do Reino Unido para visitar com um cao. Grandes espacos verdes sem trela, pubs acolhedores e uma rede de transportes generosa tornam a experiencia suave.",
       "tipsPt": [
-        "Os cães viajam gratuitamente nos Lothian Buses e nos Edinburgh Trams, aproveite",
-        "Arthur's Seat é o melhor espaço sem trela gratuito de qualquer capital europeia",
-        "O tempo em Edimburgo muda depressa, leve uma camada extra e esteja preparado para se abrigar",
-        "Os paralelepípedos do centro histórico podem ser duros para as patas, verifique as almofadinhas das patas todos os dias",
-        "A época do Festival de Edimburgo (agosto) traz enormes multidões, planeie com antecedência"
+        "O Castelo de Edimburgo e o Museu Nacional Escoces nao admitem caes. Planeie as suas atividades sem cao para a manha e reserve as tardes para os parques.",
+        "O tempo escoces muda rapidamente ao longo do ano. Traga sempre um impermeavel leve e uma toalha de microfibra. Arthur's Seat e exposto e pode estar humido e ventoso mesmo em junho.",
+        "Os trilhos de Arthur's Seat sao inclinados nalgumas zonas; botas ou cera para as patas protegem nas seccoes de rocha vulcanica. O trilho perimetral na base e completamente plano e acessivel."
       ],
-      "faqsPt": []
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cao ao Castelo de Edimburgo?",
+          "a": "Nao. O Castelo de Edimburgo nao admite caes, exceto caes de assistencia registados. O Palacio de Holyrood tambem restringe a entrada de caes. Planeie uma hora de pet-sitting para ambos, ou revezem-se nas visitas enquanto um fica fora com o cao."
+        },
+        {
+          "q": "Edimburgo e uma boa escapada com cao?",
+          "a": "Sim. Edimburgo tem excelentes espacos sem trela (Arthur's Seat, Water of Leith, the Meadows, Holyrood Park), uma genuina cultura de pubs que acolhe caes, ligacoes da ScotRail e boas opcoes de pet-sitting. Evite agosto e o Hogmanay se o seu cao for sensivel ao barulho."
+        }
+      ]
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Edinburgh",
@@ -605,8 +782,100 @@
           "bookingAdvicePt": "Reserve com pelo menos 48 horas de antecedência para serviços em dias úteis; pelo menos uma semana antes durante a época do Festival em agosto"
         }
       ],
-      "titlePt": "Petsitting e passeio de cães em Edimburgo",
-      "introPt": "Para as ocasiões em que o seu itinerário em Edimburgo inclui locais ou atividades que não são pet-friendly, visitas a museus de interior, certos restaurantes, concertos, um serviço de petsitting de confiança garante que o seu cão fica entregue a um local. O Rover.co.uk é a principal plataforma do Reino Unido para ligar os donos de animais a cuidadores e passeadores locais verificados, e Edimburgo conta com uma sólida rede de cuidadores registados por todos os bairros."
+      "titlePt": "Cuidado e passeio de caes em Edimburgo",
+      "introPt": "Para as visitas onde o cao nao pode entrar (Castelo de Edimburgo, Palacio de Holyrood, museus nacionais), Edimburgo dispoe de cuidado de animais fiavel e verificado atraves das principais plataformas do Reino Unido.",
+      "places": [
+        {
+          "name": "Rover.com Edinburgh",
+          "languages": [
+            "English"
+          ],
+          "description": "Largest UK pet-sitting platform, with over 100 verified sitters within 5 km of Edinburgh city centre offering doggy day-care, drop-in visits and overnight boarding. All sitters are vetted and rated, insurance is included, average rate 18-28 GBP per day. Coverage is strong in Stockbridge, Morningside, and Leith.",
+          "descriptionFr": "Plus grande plateforme britannique de pet-sitting, avec plus de 100 sitters verifies dans un rayon de 5 km du centre d'Edimbourg proposant garderie de jour, visites a domicile et hebergement de nuit. Tous les sitters sont verifies et notes, assurance incluse, tarif moyen 18-28 GBP/jour. La couverture est forte a Stockbridge, Morningside et Leith.",
+          "descriptionEs": "La mayor plataforma britanica de pet-sitting, con mas de 100 cuidadores verificados en un radio de 5 km del centro de Edimburgo que ofrecen guarderia diurna, visitas a domicilio y alojamiento nocturno. Todos los cuidadores estan verificados y con valoraciones, seguro incluido, tarifa media 18-28 GBP/dia. La cobertura es fuerte en Stockbridge, Morningside y Leith.",
+          "descriptionPt": "A maior plataforma de cuidado de animais do Reino Unido, com mais de 100 cuidadores verificados num raio de 5 km do centro de Edimburgo, que oferecem creche diurna, visitas pontuais e alojamento noturno. Todos os cuidadores sao verificados e avaliados, o seguro esta incluido, tarifa media de 18 a 28 GBP por dia. A cobertura e forte em Stockbridge, Morningside e Leith.",
+          "website": "https://www.rover.com/uk/search/?location=Edinburgh",
+          "tip": "Book at least 3 days ahead during Edinburgh Fringe (all of August) and Hogmanay week. Sitter availability drops sharply as the city fills.",
+          "tipFr": "Reservez au moins 3 jours a l'avance pendant l'Edinburgh Fringe (tout aout) et la semaine du Hogmanay. La disponibilite des sitters chute fortement quand la ville se remplit.",
+          "tipEs": "Reserva al menos 3 dias antes durante el Edinburgh Fringe (todo agosto) y la semana del Hogmanay. La disponibilidad de cuidadores cae en picado cuando la ciudad se llena.",
+          "tipPt": "Reserve com pelo menos 3 dias de antecedencia durante o Edinburgh Fringe (todo o agosto) e a semana do Hogmanay. A disponibilidade dos cuidadores cai muito quando a cidade se enche."
+        },
+        {
+          "name": "Tailster Edinburgh",
+          "languages": [
+            "English"
+          ],
+          "description": "UK-only platform with 24/7 vet helpline included in every booking. Around 30 verified sitters in Edinburgh, all DBS-checked. Average 22-32 GBP per day for boarding, 14-16 GBP for a 30-minute drop-in walk. Strong presence in Bruntsfield, Marchmont and the New Town.",
+          "descriptionFr": "Plateforme exclusivement britannique avec ligne veterinaire 24h/24 incluse dans chaque reservation. Environ 30 sitters verifies a Edimbourg, tous controles par DBS. Moyenne 22-32 GBP/jour pour l'hebergement, 14-16 GBP pour une visite de 30 min. Forte presence a Bruntsfield, Marchmont et New Town.",
+          "descriptionEs": "Plataforma exclusivamente britanica con linea veterinaria 24/7 incluida en cada reserva. Unos 30 cuidadores verificados en Edimburgo, todos con verificacion DBS. Media 22-32 GBP/dia para alojamiento, 14-16 GBP por visita de 30 min. Fuerte presencia en Bruntsfield, Marchmont y New Town.",
+          "descriptionPt": "Plataforma exclusiva do Reino Unido com linha veterinaria 24/7 incluida em cada reserva. Cerca de 30 cuidadores verificados em Edimburgo, todos com verificacao DBS. Media de 22 a 32 GBP por dia para alojamento, 14 a 16 GBP por uma visita de 30 min. Forte presenca em Bruntsfield, Marchmont e New Town.",
+          "website": "https://www.tailster.com/",
+          "tip": "Confirm in the app that the sitter's walks pass through the Meadows or Holyrood Park, the largest off-leash green spaces near the city centre.",
+          "tipFr": "Confirmez dans l'appli que les promenades du sitter passent par les Meadows ou Holyrood Park, les plus grands espaces sans laisse pres du centre.",
+          "tipEs": "Confirma en la app que los paseos del cuidador pasan por los Meadows o Holyrood Park, los mayores espacios sin correa cerca del centro.",
+          "tipPt": "Confirme na aplicacao que os passeios do cuidador passam pelos Meadows ou pelo Holyrood Park, os maiores espacos sem trela perto do centro da cidade."
+        }
+      ],
+      "tipsEn": [
+        "Book sitters at least 48 hours ahead in summer and a full week ahead during Fringe (August) and Hogmanay (late December). Edinburghs supply of sitters tightens considerably during festivals.",
+        "All UK platform-vetted sitters carry public liability insurance. Verify the badge on the sitter profile before confirming.",
+        "Several Stockbridge and New Town guesthouses offer informal dog-watching during daytime sightseeing. Ask at check-in."
+      ],
+      "tipsFr": [
+        "Reservez les sitters au moins 48h a l'avance en ete et une semaine entiere pendant le Fringe (aout) et le Hogmanay (fin decembre). L'offre de sitters a Edimbourg se reduit considerablement pendant les festivals.",
+        "Tous les sitters verifies par plateforme britannique ont une responsabilite civile professionnelle. Verifiez le badge sur le profil avant de confirmer.",
+        "Plusieurs guesthouses de Stockbridge et du New Town proposent une garde informelle des chiens en journee pendant les visites. Demandez au check-in."
+      ],
+      "tipsEs": [
+        "Reserva cuidadores al menos 48h antes en verano y una semana completa antes durante el Fringe (agosto) y el Hogmanay (finales de diciembre). La oferta de cuidadores en Edimburgo se reduce considerablemente durante los festivales.",
+        "Todos los cuidadores verificados por plataforma britanica tienen responsabilidad civil profesional. Verifica el distintivo en el perfil antes de confirmar.",
+        "Varias casas de huespedes de Stockbridge y New Town ofrecen vigilancia informal de perros durante el dia mientras se visita la ciudad. Pregunta al hacer el check-in."
+      ],
+      "tipsPt": [
+        "Reserve cuidadores com pelo menos 48 horas de antecedencia no verao e com uma semana completa de antecedencia durante o Fringe (agosto) e o Hogmanay (final de dezembro). A oferta de cuidadores em Edimburgo reduz-se consideravelmente durante os festivais.",
+        "Todos os cuidadores verificados pelas plataformas do Reino Unido possuem seguro de responsabilidade civil. Verifique o selo no perfil antes de confirmar.",
+        "Varias guesthouses em Stockbridge e no New Town oferecem vigilancia informal de caes durante o dia enquanto se visitam as atraccoes. Pergunte no check-in."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does dog day-care cost in Edinburgh?",
+          "a": "18-32 GBP per day depending on sitter and dog size, via Rover or Tailster. Drop-in 30-minute walks run 12-16 GBP."
+        },
+        {
+          "q": "Can I find a sitter last-minute in Edinburgh?",
+          "a": "Outside festivals, yes. In August (Fringe) and late December (Hogmanay) availability drops sharply. Book 5-7 days ahead during these periods."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coute la garderie canine a Edimbourg ?",
+          "a": "18-32 GBP/jour selon le sitter et la taille du chien, via Rover ou Tailster. Les visites de 30 min coutent 12-16 GBP."
+        },
+        {
+          "q": "Puis-je trouver un sitter en derniere minute a Edimbourg ?",
+          "a": "Hors festivals oui. En aout (Fringe) et fin decembre (Hogmanay) la disponibilite chute fortement. Reservez 5-7 jours a l'avance pendant ces periodes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuanto cuesta la guarderia canina en Edimburgo?",
+          "a": "18-32 GBP/dia segun cuidador y tamaño del perro, via Rover o Tailster. Las visitas de 30 min cuestan 12-16 GBP."
+        },
+        {
+          "q": "¿Puedo encontrar un cuidador de ultima hora en Edimburgo?",
+          "a": "Fuera de festivales si. En agosto (Fringe) y finales de diciembre (Hogmanay) la disponibilidad cae en picado. Reserva 5-7 dias antes durante estos periodos."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Quanto custa a creche diurna de caes em Edimburgo?",
+          "a": "18 a 32 GBP por dia consoante o cuidador e o tamanho do cao, atraves do Rover ou do Tailster. As visitas com passeio de 30 minutos custam 12 a 16 GBP."
+        },
+        {
+          "q": "Posso encontrar um cuidador em cima da hora em Edimburgo?",
+          "a": "Fora dos festivais, sim. Em agosto (Fringe) e no final de dezembro (Hogmanay) a disponibilidade cai muito. Reserve com 5 a 7 dias de antecedencia durante estes periodos."
+        }
+      ]
     }
   }
 }

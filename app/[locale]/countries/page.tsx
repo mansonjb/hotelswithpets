@@ -314,7 +314,7 @@ export default async function CountriesPage({
                       <span className="text-3xl">{country.flag}</span>
                       <div>
                         <p className="font-bold text-gray-900 group-hover:text-blue-700 transition-colors">{getLocalizedCountryName(country.name, locale)}</p>
-                        <p className="text-xs text-gray-400">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
+                        <p className="text-xs text-gray-500">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
                       </div>
                     </div>
                     {intro && <p className="text-xs text-gray-600 leading-relaxed">{intro}</p>}
@@ -343,7 +343,7 @@ export default async function CountriesPage({
                     <span className="text-4xl">{country.flag}</span>
                     <div>
                       <p className="font-bold text-gray-900 text-lg group-hover:text-blue-700 transition-colors">{getLocalizedCountryName(country.name, locale)}</p>
-                      <p className="text-xs text-gray-400">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
+                      <p className="text-xs text-gray-500">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
                     </div>
                   </div>
                   {intro && <p className="text-sm text-gray-500 leading-relaxed mb-4">{intro}</p>}
@@ -352,7 +352,7 @@ export default async function CountriesPage({
                       <span key={d.slug} className="text-xs bg-gray-100 text-gray-600 px-2.5 py-1 rounded-full">{getLocalizedCityName(d.slug, d.name, locale)}</span>
                     ))}
                     {country.destinations.length > 4 && (
-                      <span className="text-xs bg-gray-100 text-gray-400 px-2.5 py-1 rounded-full">+{country.destinations.length - 4}</span>
+                      <span className="text-xs bg-gray-100 text-gray-500 px-2.5 py-1 rounded-full">+{country.destinations.length - 4}</span>
                     )}
                   </div>
                   <span className="text-sm font-semibold text-blue-600 flex items-center gap-1">
@@ -379,7 +379,7 @@ export default async function CountriesPage({
                   <span className="text-3xl flex-shrink-0">{country.flag}</span>
                   <div className="min-w-0">
                     <p className="font-semibold text-gray-900 group-hover:text-blue-700 transition-colors text-sm truncate">{getLocalizedCountryName(country.name, locale)}</p>
-                    <p className="text-xs text-gray-400">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
+                    <p className="text-xs text-gray-500">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
                   </div>
                 </Link>
               )

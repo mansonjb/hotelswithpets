@@ -192,7 +192,7 @@ export function GuideFooter({ locale, currentSlug }: GuideFooterProps) {
               <p className="font-semibold text-gray-900 text-sm group-hover:text-blue-700 transition-colors leading-tight">
                 {guide.label[lang]}
               </p>
-              <p className="text-xs text-gray-400 mt-0.5">{guide.desc[lang]}</p>
+              <p className="text-xs text-gray-500 mt-0.5">{guide.desc[lang]}</p>
             </div>
             <span className="flex-shrink-0 text-gray-300 group-hover:text-blue-500 group-hover:translate-x-1 transition-all text-lg mt-0.5">→</span>
           </Link>

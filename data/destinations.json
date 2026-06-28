@@ -901,7 +901,8 @@
     },
     "iata": "AMS",
     "stay22MapId": "69e0de364d607cd67c111251",
-    "tiqetsId": "75061"
+    "tiqetsId": "75061",
+    "countryCode": "NL"
   },
   {
     "slug": "angers",
@@ -976,7 +977,8 @@
       }
     },
     "iata": "NTE",
-    "tiqetsId": "67158"
+    "tiqetsId": "67158",
+    "countryCode": "FR"
   },
   {
     "slug": "annecy",
@@ -1050,7 +1052,8 @@
         "icon": "🌧️"
       }
     },
-    "iata": "GVA"
+    "iata": "GVA",
+    "countryCode": "FR"
   },
   {
     "slug": "antalya",
@@ -1275,7 +1278,8 @@
       }
     },
     "iata": "BRU",
-    "tiqetsId": "60863"
+    "tiqetsId": "60863",
+    "countryCode": "BE"
   },
   {
     "slug": "arcachon",
@@ -1349,7 +1353,8 @@
         "icon": "🌦️"
       }
     },
-    "iata": "BOD"
+    "iata": "BOD",
+    "countryCode": "FR"
   },
   {
     "slug": "arles",
@@ -1499,7 +1504,8 @@
       }
     },
     "iata": "ATH",
-    "tiqetsId": "99239"
+    "tiqetsId": "99239",
+    "countryCode": "GR"
   },
   {
     "slug": "aveiro",
@@ -1649,7 +1655,8 @@
       }
     },
     "iata": "AVN",
-    "tiqetsId": "184100"
+    "tiqetsId": "184100",
+    "countryCode": "FR"
   },
   {
     "slug": "barcelona",
@@ -1724,7 +1731,8 @@
       }
     },
     "iata": "BCN",
-    "tiqetsId": "66342"
+    "tiqetsId": "66342",
+    "countryCode": "ES"
   },
   {
     "slug": "bari",
@@ -1874,7 +1882,8 @@
         "icon": "🎄"
       }
     },
-    "iata": "BSL"
+    "iata": "BSL",
+    "countryCode": "CH"
   },
   {
     "slug": "bath",
@@ -2627,7 +2636,8 @@
       }
     },
     "iata": "BER",
-    "tiqetsId": "65144"
+    "tiqetsId": "65144",
+    "countryCode": "DE"
   },
   {
     "slug": "bern",
@@ -2701,7 +2711,8 @@
         "icon": "🌧️"
       }
     },
-    "iata": "BRN"
+    "iata": "BRN",
+    "countryCode": "CH"
   },
   {
     "slug": "beziers",
@@ -2850,7 +2861,8 @@
         "icon": "🌦️"
       }
     },
-    "iata": "BIQ"
+    "iata": "BIQ",
+    "countryCode": "FR"
   },
   {
     "slug": "bibione",
@@ -3151,7 +3163,8 @@
       }
     },
     "iata": "BLQ",
-    "tiqetsId": "71986"
+    "tiqetsId": "71986",
+    "countryCode": "IT"
   },
   {
     "slug": "bolzano",
@@ -3299,7 +3312,8 @@
         "icon": "🌧️"
       }
     },
-    "iata": "CGN"
+    "iata": "CGN",
+    "countryCode": "DE"
   },
   {
     "slug": "bodrum",
@@ -3449,7 +3463,8 @@
       }
     },
     "iata": "BOD",
-    "tiqetsId": "67101"
+    "tiqetsId": "67101",
+    "countryCode": "FR"
   },
   {
     "slug": "boston",
@@ -3976,7 +3991,8 @@
         "icon": "🌨️"
       }
     },
-    "iata": "BRE"
+    "iata": "BRE",
+    "countryCode": "DE"
   },
   {
     "slug": "brest",
@@ -4276,7 +4292,8 @@
         "icon": "❄️"
       }
     },
-    "iata": "BRQ"
+    "iata": "BRQ",
+    "countryCode": "CZ"
   },
   {
     "slug": "bruges",
@@ -4351,7 +4368,8 @@
       }
     },
     "iata": "BRU",
-    "tiqetsId": "60844"
+    "tiqetsId": "60844",
+    "countryCode": "BE"
   },
   {
     "slug": "brussels",
@@ -4426,7 +4444,8 @@
       }
     },
     "iata": "BRU",
-    "tiqetsId": "60843"
+    "tiqetsId": "60843",
+    "countryCode": "BE"
   },
   {
     "slug": "bucharest",
@@ -4577,7 +4596,8 @@
       }
     },
     "iata": "BUD",
-    "tiqetsId": "68199"
+    "tiqetsId": "68199",
+    "countryCode": "HU"
   },
   {
     "slug": "budva",
@@ -4876,7 +4896,8 @@
         "icon": "🌦️"
       }
     },
-    "iata": "XRY"
+    "iata": "XRY",
+    "countryCode": "ES"
   },
   {
     "slug": "caen",
@@ -5252,7 +5273,8 @@
       }
     },
     "iata": "STN",
-    "tiqetsId": "80879"
+    "tiqetsId": "80879",
+    "countryCode": "GB"
   },
   {
     "slug": "cannes",
@@ -5326,7 +5348,8 @@
         "icon": "🌦️"
       }
     },
-    "iata": "NCE"
+    "iata": "NCE",
+    "countryCode": "FR"
   },
   {
     "slug": "cap-ferret",
@@ -6607,7 +6630,8 @@
       }
     },
     "iata": "CGN",
-    "tiqetsId": "64765"
+    "tiqetsId": "64765",
+    "countryCode": "DE"
   },
   {
     "slug": "como",
@@ -6833,7 +6857,8 @@
       }
     },
     "iata": "CPH",
-    "tiqetsId": "113"
+    "tiqetsId": "113",
+    "countryCode": "DK"
   },
   {
     "slug": "cordoba",
@@ -7059,7 +7084,8 @@
       }
     },
     "iata": "ORK",
-    "tiqetsId": "1841"
+    "tiqetsId": "1841",
+    "countryCode": "IE"
   },
   {
     "slug": "costa-da-caparica",
@@ -7359,7 +7385,8 @@
       }
     },
     "iata": "DRS",
-    "tiqetsId": "65042"
+    "tiqetsId": "65042",
+    "countryCode": "DE"
   },
   {
     "slug": "dubai",
@@ -7509,7 +7536,8 @@
       }
     },
     "iata": "DUB",
-    "tiqetsId": "68616"
+    "tiqetsId": "68616",
+    "countryCode": "IE"
   },
   {
     "slug": "dubrovnik",
@@ -7583,7 +7611,8 @@
         "icon": "🌦️"
       }
     },
-    "iata": "DBV"
+    "iata": "DBV",
+    "countryCode": "HR"
   },
   {
     "slug": "dunkerque",
@@ -7809,7 +7838,8 @@
       }
     },
     "iata": "EDI",
-    "tiqetsId": "21"
+    "tiqetsId": "21",
+    "countryCode": "GB"
   },
   {
     "slug": "ericeira",
@@ -8108,7 +8138,8 @@
         "icon": "⛅"
       }
     },
-    "iata": "LIS"
+    "iata": "LIS",
+    "countryCode": "PT"
   },
   {
     "slug": "faro",
@@ -8182,7 +8213,8 @@
         "icon": "⛅"
       }
     },
-    "iata": "FAO"
+    "iata": "FAO",
+    "countryCode": "PT"
   },
   {
     "slug": "feldkirchen-in-karnten",
@@ -8329,7 +8361,8 @@
       }
     },
     "iata": "FLR",
-    "tiqetsId": "71854"
+    "tiqetsId": "71854",
+    "countryCode": "IT"
   },
   {
     "slug": "formentera",
@@ -8852,7 +8885,8 @@
         "icon": "🌧️"
       }
     },
-    "iata": "NOC"
+    "iata": "NOC",
+    "countryCode": "IE"
   },
   {
     "slug": "gandia",
@@ -9001,7 +9035,8 @@
         "icon": "❄️"
       }
     },
-    "iata": "GDN"
+    "iata": "GDN",
+    "countryCode": "PL"
   },
   {
     "slug": "gdynia",
@@ -9150,7 +9185,8 @@
         "icon": "🌧️"
       }
     },
-    "iata": "GVA"
+    "iata": "GVA",
+    "countryCode": "CH"
   },
   {
     "slug": "genoa",
@@ -9225,7 +9261,8 @@
       }
     },
     "iata": "GOA",
-    "tiqetsId": "71831"
+    "tiqetsId": "71831",
+    "countryCode": "IT"
   },
   {
     "slug": "getxo",
@@ -9602,7 +9639,8 @@
       }
     },
     "iata": "GOT",
-    "tiqetsId": "78108"
+    "tiqetsId": "78108",
+    "countryCode": "SE"
   },
   {
     "slug": "gozo",
@@ -10578,7 +10616,8 @@
         "icon": "🌧️"
       }
     },
-    "iata": "FRA"
+    "iata": "FRA",
+    "countryCode": "DE"
   },
   {
     "slug": "helsinki",
@@ -10653,7 +10692,8 @@
       }
     },
     "iata": "HEL",
-    "tiqetsId": "66544"
+    "tiqetsId": "66544",
+    "countryCode": "FI"
   },
   {
     "slug": "heraklion",
@@ -11929,7 +11969,8 @@
       }
     },
     "iata": "KRK",
-    "tiqetsId": "46"
+    "tiqetsId": "46",
+    "countryCode": "PL"
   },
   {
     "slug": "ksamil",
@@ -12078,7 +12119,8 @@
         "icon": "🌦️"
       }
     },
-    "iata": "LRH"
+    "iata": "LRH",
+    "countryCode": "FR"
   },
   {
     "slug": "la-spezia",
@@ -12453,7 +12495,8 @@
       }
     },
     "iata": "GVA",
-    "tiqetsId": "62666"
+    "tiqetsId": "62666",
+    "countryCode": "CH"
   },
   {
     "slug": "lecce",
@@ -12527,7 +12570,8 @@
         "icon": "⛅"
       }
     },
-    "iata": "BDS"
+    "iata": "BDS",
+    "countryCode": "IT"
   },
   {
     "slug": "leiden",
@@ -12677,7 +12721,8 @@
       }
     },
     "iata": "LEJ",
-    "tiqetsId": "64715"
+    "tiqetsId": "64715",
+    "countryCode": "DE"
   },
   {
     "slug": "leuven",
@@ -13132,7 +13177,8 @@
         "icon": "❄️"
       }
     },
-    "iata": "LNZ"
+    "iata": "LNZ",
+    "countryCode": "AT"
   },
   {
     "slug": "lisbon",
@@ -13207,7 +13253,8 @@
       }
     },
     "iata": "LIS",
-    "tiqetsId": "76528"
+    "tiqetsId": "76528",
+    "countryCode": "PT"
   },
   {
     "slug": "liverpool",
@@ -13358,7 +13405,8 @@
       }
     },
     "iata": "LJU",
-    "tiqetsId": "78133"
+    "tiqetsId": "78133",
+    "countryCode": "SI"
   },
   {
     "slug": "locarno",
@@ -13508,7 +13556,8 @@
       }
     },
     "iata": "LHR",
-    "tiqetsId": "67458"
+    "tiqetsId": "67458",
+    "countryCode": "GB"
   },
   {
     "slug": "los-angeles",
@@ -13733,7 +13782,8 @@
         "icon": "❄️"
       }
     },
-    "iata": "ZRH"
+    "iata": "ZRH",
+    "countryCode": "CH"
   },
   {
     "slug": "lugano",
@@ -13957,7 +14007,8 @@
       }
     },
     "iata": "LYS",
-    "tiqetsId": "66838"
+    "tiqetsId": "66838",
+    "countryCode": "FR"
   },
   {
     "slug": "maastricht",
@@ -14032,7 +14083,8 @@
       }
     },
     "iata": "MST",
-    "tiqetsId": "74931"
+    "tiqetsId": "74931",
+    "countryCode": "NL"
   },
   {
     "slug": "madrid",
@@ -14107,7 +14159,8 @@
       }
     },
     "iata": "MAD",
-    "tiqetsId": "66254"
+    "tiqetsId": "66254",
+    "countryCode": "ES"
   },
   {
     "slug": "mahon",
@@ -14332,7 +14385,8 @@
       }
     },
     "iata": "AGP",
-    "tiqetsId": "32"
+    "tiqetsId": "32",
+    "countryCode": "ES"
   },
   {
     "slug": "malmo",
@@ -14406,7 +14460,8 @@
         "icon": "🌧️"
       }
     },
-    "iata": "MMX"
+    "iata": "MMX",
+    "countryCode": "SE"
   },
   {
     "slug": "manchester",
@@ -15008,7 +15063,8 @@
       }
     },
     "iata": "MXP",
-    "tiqetsId": "71749"
+    "tiqetsId": "71749",
+    "countryCode": "IT"
   },
   {
     "slug": "modena",
@@ -15385,7 +15441,8 @@
       }
     },
     "iata": "MUC",
-    "tiqetsId": "31"
+    "tiqetsId": "31",
+    "countryCode": "DE"
   },
   {
     "slug": "mykonos",
@@ -15535,7 +15592,8 @@
       }
     },
     "iata": "NTE",
-    "tiqetsId": "66776"
+    "tiqetsId": "66776",
+    "countryCode": "FR"
   },
   {
     "slug": "naples",
@@ -16136,7 +16194,8 @@
       }
     },
     "iata": "NCE",
-    "tiqetsId": "66770"
+    "tiqetsId": "66770",
+    "countryCode": "FR"
   },
   {
     "slug": "nimes",
@@ -16511,7 +16570,8 @@
       }
     },
     "iata": "OSL",
-    "tiqetsId": "75084"
+    "tiqetsId": "75084",
+    "countryCode": "NO"
   },
   {
     "slug": "ostend",
@@ -16585,7 +16645,8 @@
         "icon": "🌧️"
       }
     },
-    "iata": "BRU"
+    "iata": "BRU",
+    "countryCode": "BE"
   },
   {
     "slug": "oviedo",
@@ -17262,7 +17323,8 @@
       }
     },
     "iata": "CDG",
-    "tiqetsId": "66746"
+    "tiqetsId": "66746",
+    "countryCode": "FR"
   },
   {
     "slug": "paros",
@@ -17863,7 +17925,8 @@
       }
     },
     "iata": "OPO",
-    "tiqetsId": "76573"
+    "tiqetsId": "76573",
+    "countryCode": "PT"
   },
   {
     "slug": "poznan",
@@ -18013,7 +18076,8 @@
       }
     },
     "iata": "PRG",
-    "tiqetsId": "64162"
+    "tiqetsId": "64162",
+    "countryCode": "CZ"
   },
   {
     "slug": "pula",
@@ -18537,7 +18601,8 @@
         "icon": "🌧️"
       }
     },
-    "iata": "CDG"
+    "iata": "CDG",
+    "countryCode": "FR"
   },
   {
     "slug": "rennes",
@@ -18761,7 +18826,8 @@
         "icon": "🌧️"
       }
     },
-    "iata": "KEF"
+    "iata": "KEF",
+    "countryCode": "IS"
   },
   {
     "slug": "rhodes",
@@ -18911,7 +18977,8 @@
       }
     },
     "iata": "RIX",
-    "tiqetsId": "73383"
+    "tiqetsId": "73383",
+    "countryCode": "LV"
   },
   {
     "slug": "rimini",
@@ -19136,7 +19203,8 @@
       }
     },
     "iata": "FCO",
-    "tiqetsId": "71631"
+    "tiqetsId": "71631",
+    "countryCode": "IT"
   },
   {
     "slug": "roses",
@@ -19812,7 +19880,8 @@
       }
     },
     "iata": "SZG",
-    "tiqetsId": "60346"
+    "tiqetsId": "60346",
+    "countryCode": "AT"
   },
   {
     "slug": "san-francisco",
@@ -19962,7 +20031,8 @@
       }
     },
     "iata": "EAS",
-    "tiqetsId": "66172"
+    "tiqetsId": "66172",
+    "countryCode": "ES"
   },
   {
     "slug": "sankt-polten",
@@ -21012,7 +21082,8 @@
       }
     },
     "iata": "SVQ",
-    "tiqetsId": "65870"
+    "tiqetsId": "65870",
+    "countryCode": "ES"
   },
   {
     "slug": "sibenik",
@@ -21763,7 +21834,8 @@
       }
     },
     "iata": "SPU",
-    "tiqetsId": "68069"
+    "tiqetsId": "68069",
+    "countryCode": "HR"
   },
   {
     "slug": "st-moritz",
@@ -21912,7 +21984,8 @@
         "icon": "🌧️"
       }
     },
-    "iata": "SVG"
+    "iata": "SVG",
+    "countryCode": "NO"
   },
   {
     "slug": "stockholm",
@@ -21987,7 +22060,8 @@
       }
     },
     "iata": "ARN",
-    "tiqetsId": "1638"
+    "tiqetsId": "1638",
+    "countryCode": "SE"
   },
   {
     "slug": "strasbourg",
@@ -22286,7 +22360,8 @@
       }
     },
     "iata": "TLL",
-    "tiqetsId": "65702"
+    "tiqetsId": "65702",
+    "countryCode": "EE"
   },
   {
     "slug": "tampere",
@@ -22360,7 +22435,8 @@
         "icon": "❄️"
       }
     },
-    "iata": "TMP"
+    "iata": "TMP",
+    "countryCode": "FI"
   },
   {
     "slug": "taormina",
@@ -23184,7 +23260,8 @@
       }
     },
     "iata": "MAD",
-    "tiqetsId": "170113"
+    "tiqetsId": "170113",
+    "countryCode": "ES"
   },
   {
     "slug": "torun",
@@ -23484,7 +23561,8 @@
       }
     },
     "iata": "TLS",
-    "tiqetsId": "66619"
+    "tiqetsId": "66619",
+    "countryCode": "FR"
   },
   {
     "slug": "tours",
@@ -23933,7 +24011,8 @@
         "icon": "❄️"
       }
     },
-    "iata": "TRD"
+    "iata": "TRD",
+    "countryCode": "NO"
   },
   {
     "slug": "turin",
@@ -24083,7 +24162,8 @@
         "icon": "❄️"
       }
     },
-    "iata": "ARN"
+    "iata": "ARN",
+    "countryCode": "SE"
   },
   {
     "slug": "utrecht",
@@ -24158,7 +24238,8 @@
       }
     },
     "iata": "AMS",
-    "tiqetsId": "74866"
+    "tiqetsId": "74866",
+    "countryCode": "NL"
   },
   {
     "slug": "valencia",
@@ -24233,7 +24314,8 @@
       }
     },
     "iata": "VLC",
-    "tiqetsId": "65847"
+    "tiqetsId": "65847",
+    "countryCode": "ES"
   },
   {
     "slug": "valldemossa",
@@ -24534,7 +24616,8 @@
       }
     },
     "iata": "VCE",
-    "tiqetsId": "71510"
+    "tiqetsId": "71510",
+    "countryCode": "IT"
   },
   {
     "slug": "verona",
@@ -24609,7 +24692,8 @@
       }
     },
     "iata": "VRN",
-    "tiqetsId": "71506"
+    "tiqetsId": "71506",
+    "countryCode": "IT"
   },
   {
     "slug": "vienna",
@@ -24684,7 +24768,8 @@
       }
     },
     "iata": "VIE",
-    "tiqetsId": "60335"
+    "tiqetsId": "60335",
+    "countryCode": "AT"
   },
   {
     "slug": "vigo",
@@ -25135,7 +25220,8 @@
       }
     },
     "iata": "WAW",
-    "tiqetsId": "485"
+    "tiqetsId": "485",
+    "countryCode": "PL"
   },
   {
     "slug": "wroclaw",
@@ -25209,7 +25295,8 @@
         "icon": "❄️"
       }
     },
-    "iata": "WRO"
+    "iata": "WRO",
+    "countryCode": "PL"
   },
   {
     "slug": "york",
@@ -25284,7 +25371,8 @@
       }
     },
     "iata": "LBA",
-    "tiqetsId": "67204"
+    "tiqetsId": "67204",
+    "countryCode": "GB"
   },
   {
     "slug": "zadar",
@@ -25658,7 +25746,8 @@
         "icon": "🌫️"
       }
     },
-    "iata": "ZAZ"
+    "iata": "ZAZ",
+    "countryCode": "ES"
   },
   {
     "slug": "zermatt",
@@ -25806,6 +25895,7 @@
         "icon": "🌧️"
       }
     },
-    "iata": "ZRH"
+    "iata": "ZRH",
+    "countryCode": "CH"
   }
 ]

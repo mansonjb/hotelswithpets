@@ -1002,7 +1002,7 @@ export default async function HotelPetFriendlyGuidePage({
                 )
               })}
             </div>
-            <p className="text-xs text-gray-400 mt-4 italic">{copy.pricesNote}</p>
+            <p className="text-xs text-gray-500 mt-4 italic">{copy.pricesNote}</p>
           </section>
 
           {/* Categories guide */}

@@ -356,7 +356,7 @@ export default async function VillaLandingPage({
               <details key={i} className="bg-white rounded-2xl border border-gray-200 shadow-sm group">
                 <summary className="px-6 py-4 font-semibold text-gray-900 cursor-pointer list-none flex items-center justify-between gap-4">
                   {pick(f.q, locale)}
-                  <span aria-hidden="true" className="text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
+                  <span aria-hidden="true" className="text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
                 </summary>
                 <p className="px-6 pb-5 text-gray-600 leading-relaxed">{pick(f.a, locale)}</p>
               </details>

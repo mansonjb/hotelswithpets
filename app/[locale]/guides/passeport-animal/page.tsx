@@ -1294,7 +1294,7 @@ export default async function PetPassportGuidePage({
             </div>
 
             {/* Standard EU countries */}
-            <h3 className="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4">{copy.levelStandard}</h3>
+            <h3 className="text-sm font-bold text-gray-500 uppercase tracking-widest mb-4">{copy.levelStandard}</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
               {standardCountries.map((country) => {
                 const colors = BADGE_COLORS[country.requirement]
@@ -1336,7 +1336,7 @@ export default async function PetPassportGuidePage({
             </div>
 
             {/* Extra requirements */}
-            <h3 className="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4">{copy.levelExtra}</h3>
+            <h3 className="text-sm font-bold text-gray-500 uppercase tracking-widest mb-4">{copy.levelExtra}</h3>
             <div className="space-y-4 mb-8">
               {extraCountries.map((country) => {
                 const colors = BADGE_COLORS[country.requirement]
@@ -1378,7 +1378,7 @@ export default async function PetPassportGuidePage({
             </div>
 
             {/* Strict / Non-EU */}
-            <h3 className="text-sm font-bold text-gray-400 uppercase tracking-widest mb-4">{copy.levelStrict}</h3>
+            <h3 className="text-sm font-bold text-gray-500 uppercase tracking-widest mb-4">{copy.levelStrict}</h3>
             <div className="space-y-4">
               {strictCountries.map((country) => {
                 const colors = BADGE_COLORS[country.requirement]

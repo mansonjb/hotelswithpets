@@ -8,7 +8,7 @@ import Header from '@/components/layout/Header'
 import Footer from '@/components/layout/Footer'
 import { notFound } from 'next/navigation'
 
-const inter = Inter({ subsets: ['latin'], display: 'swap' })
+const inter = Inter({ subsets: ['latin', 'latin-ext'], display: 'swap' })
 
 export const viewport: Viewport = {
   width: 'device-width',

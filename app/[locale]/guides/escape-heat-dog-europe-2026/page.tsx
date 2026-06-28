@@ -553,7 +553,7 @@ export default async function EscapeHeatPage({
                     </p>
                     <span className="text-xs font-black text-blue-600">{g.maxTemp}°C</span>
                   </div>
-                  <p className="text-xs text-gray-400 leading-snug">
+                  <p className="text-xs text-gray-500 leading-snug">
                     {locale === 'fr' ? g.desc.fr : locale === 'es' ? g.desc.es : locale === 'pt' ? g.desc.pt : g.desc.en}
                   </p>
                 </div>
@@ -611,7 +611,7 @@ export default async function EscapeHeatPage({
                       </div>
                       <div className="flex-shrink-0 text-right">
                         <div className="text-2xl font-black text-blue-600">{dest.julyTemp}°C</div>
-                        <div className="text-xs text-gray-400">{p(T.julyTemp, locale)}</div>
+                        <div className="text-xs text-gray-500">{p(T.julyTemp, locale)}</div>
                       </div>
                     </div>
                     <p className="text-gray-700 text-sm leading-relaxed mb-4">{p(dest.why, locale)}</p>
@@ -649,7 +649,7 @@ export default async function EscapeHeatPage({
               <details key={i} className="bg-white rounded-2xl border border-gray-200 shadow-sm group">
                 <summary className="px-6 py-4 font-semibold text-gray-900 cursor-pointer list-none flex items-center justify-between gap-4">
                   {p(f.q, locale)}
-                  <span aria-hidden="true" className="text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
+                  <span aria-hidden="true" className="text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
                 </summary>
                 <p className="px-6 pb-5 text-gray-600 leading-relaxed">{p(f.a, locale)}</p>
               </details>

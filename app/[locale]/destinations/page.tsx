@@ -92,7 +92,7 @@ export default async function DestinationsPage({ params }: PageProps<'/[locale]/
       {/* Country filter strip */}
       <section className="bg-white border-b border-gray-100 py-6">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-3">{browseByCountry}</p>
+          <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">{browseByCountry}</p>
           <div className="flex flex-wrap gap-2">
             {multiCityCountries.map((country) => (
               <Link
@@ -102,7 +102,7 @@ export default async function DestinationsPage({ params }: PageProps<'/[locale]/
               >
                 <span>{country.flag}</span>
                 <span className="font-medium">{country.name}</span>
-                <span className="text-gray-400 text-xs">({country.destinations.length})</span>
+                <span className="text-gray-500 text-xs">({country.destinations.length})</span>
               </Link>
             ))}
           </div>

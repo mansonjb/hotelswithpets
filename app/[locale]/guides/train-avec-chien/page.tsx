@@ -968,7 +968,7 @@ export default async function TrainAvecChienPage({
                       <tr key={op.slug} className={`border-b border-gray-50 ${i % 2 === 0 ? 'bg-white' : 'bg-gray-50/40'}`}>
                         <td className="px-4 py-3 font-semibold text-gray-900 whitespace-nowrap">
                           <span className="mr-1.5">{op.flag}</span>{op.name}
-                          <span className="block text-[10px] font-normal text-gray-400">{op.country[lang]}</span>
+                          <span className="block text-[10px] font-normal text-gray-500">{op.country[lang]}</span>
                         </td>
                         <td className="px-4 py-3">
                           <span className={`inline-flex items-center gap-1 text-xs font-semibold px-2 py-0.5 rounded-full border ${colors.bg} ${colors.text} ${colors.border}`}>

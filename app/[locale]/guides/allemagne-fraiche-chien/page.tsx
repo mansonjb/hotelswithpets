@@ -466,7 +466,7 @@ export default async function AllemagneFraicheChienPage({ params }: { params: Pr
                         </div>
                         <div className="flex-shrink-0 text-right">
                           <div className="text-2xl font-black text-blue-600">{city.julyTemp}°C</div>
-                          <div className="text-xs text-gray-400">{p(T.julyTemp, locale)}</div>
+                          <div className="text-xs text-gray-500">{p(T.julyTemp, locale)}</div>
                         </div>
                       </div>
                       <div className="inline-flex items-center gap-1 bg-gray-50 text-gray-700 text-xs font-semibold px-2.5 py-1 rounded-full mb-3">
@@ -480,7 +480,7 @@ export default async function AllemagneFraicheChienPage({ params }: { params: Pr
                       </div>
 
                       <div className="mb-4">
-                        <p className="text-xs font-bold uppercase tracking-widest text-gray-400 mb-2">{p(T.hotelsLabel, locale)}</p>
+                        <p className="text-xs font-bold uppercase tracking-widest text-gray-500 mb-2">{p(T.hotelsLabel, locale)}</p>
                         <div className="space-y-2">
                           {city.hotels.map((hotel) => (
                             <div key={hotel.name} className="flex items-start gap-2">
@@ -523,7 +523,7 @@ export default async function AllemagneFraicheChienPage({ params }: { params: Pr
               <details key={i} className="bg-white rounded-2xl border border-gray-200 shadow-sm group">
                 <summary className="px-6 py-4 font-semibold text-gray-900 cursor-pointer list-none flex items-center justify-between gap-4">
                   {p(f.q, locale)}
-                  <span aria-hidden="true" className="text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
+                  <span aria-hidden="true" className="text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
                 </summary>
                 <p className="px-6 pb-5 text-gray-600 leading-relaxed">{p(f.a, locale)}</p>
               </details>

@@ -1177,32 +1177,32 @@ export default async function FlyingWithPetGuidePage({
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-0 divide-y sm:divide-y-0 sm:divide-x divide-gray-50">
                     <div className="px-5 py-3 space-y-2">
                       <div>
-                        <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">{copy.tableHeaders.cabinPrice}</p>
+                        <p className="text-[10px] font-bold text-gray-500 uppercase tracking-widest">{copy.tableHeaders.cabinPrice}</p>
                         <p className="text-sm text-gray-700">{airline.cabinPrice[lang]}</p>
                       </div>
                       <div>
-                        <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">{copy.tableHeaders.holdPrice}</p>
+                        <p className="text-[10px] font-bold text-gray-500 uppercase tracking-widest">{copy.tableHeaders.holdPrice}</p>
                         <p className="text-sm text-gray-700">{airline.holdPrice[lang]}</p>
                       </div>
                     </div>
                     <div className="px-5 py-3 space-y-2">
                       <div>
-                        <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">{copy.tableHeaders.weight}</p>
+                        <p className="text-[10px] font-bold text-gray-500 uppercase tracking-widest">{copy.tableHeaders.weight}</p>
                         <p className="text-sm text-gray-700">{airline.weightLimitCabin}</p>
                       </div>
                       <div>
-                        <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">{copy.tableHeaders.carrier}</p>
+                        <p className="text-[10px] font-bold text-gray-500 uppercase tracking-widest">{copy.tableHeaders.carrier}</p>
                         <p className="text-sm text-gray-700">{airline.carrierMax}</p>
                       </div>
                     </div>
                   </div>
                   <div className="px-5 py-3 border-t border-gray-50 bg-gray-50/50 space-y-1.5">
                     <div>
-                      <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-0.5">{copy.tableHeaders.snubNosed}</p>
+                      <p className="text-[10px] font-bold text-gray-500 uppercase tracking-widest mb-0.5">{copy.tableHeaders.snubNosed}</p>
                       <p className="text-xs text-gray-600">{airline.snubNosed[lang]}</p>
                     </div>
                     <div>
-                      <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-0.5">{lang === 'fr' ? 'Réservation' : lang === 'es' ? 'Reserva' : 'Booking'}</p>
+                      <p className="text-[10px] font-bold text-gray-500 uppercase tracking-widest mb-0.5">{lang === 'fr' ? 'Réservation' : lang === 'es' ? 'Reserva' : 'Booking'}</p>
                       <p className="text-xs text-gray-600">{airline.bookingProcess[lang]}</p>
                     </div>
                   </div>

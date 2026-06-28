@@ -479,7 +479,7 @@ export default async function ComboPage({
                     ))}
                   </div>
                 ) : (
-                  <div className="text-center py-16 text-gray-400 bg-white rounded-2xl">
+                  <div className="text-center py-16 text-gray-500 bg-white rounded-2xl">
                     <span className="text-5xl block mb-4">{cat.emoji}</span>
                     <p className="text-lg">{p.noHotels}</p>
                   </div>
@@ -544,7 +544,7 @@ export default async function ComboPage({
               </section>
 
               {/* Affiliate disclosure */}
-              <p className="text-xs text-gray-400 leading-relaxed">
+              <p className="text-xs text-gray-500 leading-relaxed">
                 {dict.footer.disclosureText}
               </p>
             </div>
@@ -619,7 +619,7 @@ export default async function ComboPage({
                         <div>
                           <p className="text-2xl font-black text-gray-900">{w?.temp ?? '?'}°C</p>
                           <p className="text-xs text-gray-500">{w?.desc}</p>
-                          <p className="text-xs text-gray-400 capitalize">{monthName}</p>
+                          <p className="text-xs text-gray-500 capitalize">{monthName}</p>
                         </div>
                       </div>
                     </div>

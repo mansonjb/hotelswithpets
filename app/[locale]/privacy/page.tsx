@@ -174,7 +174,7 @@ export default async function PrivacyPage({
               )}
             </section>
           ))}
-          <p className="text-xs text-gray-400">Last updated: {new Date().getFullYear()}</p>
+          <p className="text-xs text-gray-500">Last updated: {new Date().getFullYear()}</p>
         </div>
       </div>
     </div>

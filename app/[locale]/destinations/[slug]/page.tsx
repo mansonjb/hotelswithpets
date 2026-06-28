@@ -36,6 +36,10 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
   const minPrice = destHotels.length > 0 ? Math.min(...destHotels.map(h => h.priceFrom).filter(Boolean)) : null
   const hotelCount = destHotels.length
 
+  if (hotelCount === 0) {
+    return { robots: { index: false, follow: false } }
+  }
+
   const year = new Date().getFullYear()
   const cityFr = getLocalizedCityName(dest.slug, dest.name, 'fr')
   const cityEs = getLocalizedCityName(dest.slug, dest.name, 'es')
@@ -456,7 +460,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
               ))}
             </div>
           ) : (
-            <div className="text-center py-16 text-gray-400">
+            <div className="text-center py-16 text-gray-500">
               <span className="text-5xl block mb-4">🏨</span>
               <p className="text-lg">{dict.pages.combo.noHotels}</p>
             </div>
@@ -628,7 +632,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
 
                       {/* Description */}
                       {descText && (
-                        <p className="text-xs text-gray-400 leading-relaxed mt-auto pt-2">
+                        <p className="text-xs text-gray-500 leading-relaxed mt-auto pt-2">
                           {descText}
                         </p>
                       )}
@@ -795,7 +799,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                     <span className="text-2xl">{cat.emoji}</span>
                     <div>
                       <p className="font-semibold text-gray-900 text-sm group-hover:text-blue-700 transition-colors">{catName}</p>
-                      <p className="text-xs text-gray-400">{count} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : 'hotels'}</p>
+                      <p className="text-xs text-gray-500">{count} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : 'hotels'}</p>
                     </div>
                     <span className="ml-auto text-gray-300 group-hover:text-blue-400 transition-colors">→</span>
                   </Link>
@@ -836,7 +840,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
       {relatedDests.length > 0 && (
         <section className="py-12 bg-gray-50 border-t border-gray-100">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wide mb-5">
+            <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-5">
               {locale === 'fr'
                 ? `Plus de destinations en ${getLocalizedCountryName(dest.country, 'fr')}`
                 : locale === 'es'

@@ -148,7 +148,7 @@ export function CityTripGuide({ slug, routeSlugs, locale, copy: c, sticky }: Cit
             ].map((s) => (
               <div key={s.label}>
                 <p className="text-2xl mb-1">{s.emoji}</p>
-                <p className="text-xs uppercase tracking-wider text-gray-400 mb-1">{s.label}</p>
+                <p className="text-xs uppercase tracking-wider text-gray-500 mb-1">{s.label}</p>
                 <p className="text-sm font-semibold text-gray-900">{s.val}</p>
               </div>
             ))}
@@ -233,7 +233,7 @@ export function CityTripGuide({ slug, routeSlugs, locale, copy: c, sticky }: Cit
                           <h5 className="font-bold text-gray-900 text-sm leading-tight mb-1 line-clamp-2 min-h-[2.5rem]">{hotel.name}</h5>
                           <div className="flex items-center gap-2 mb-3 text-xs">
                             <span className="font-bold text-blue-700">{hotel.rating}/10</span>
-                            <span className="text-gray-400">·</span>
+                            <span className="text-gray-500">·</span>
                             <span className="text-gray-600">{hotel.priceFrom} €{locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : '/night'}</span>
                           </div>
                           <p className="text-xs text-gray-500 mb-4">
@@ -276,7 +276,7 @@ export function CityTripGuide({ slug, routeSlugs, locale, copy: c, sticky }: Cit
               <div key={i} className="bg-gray-50 border border-gray-200 rounded-2xl p-5 flex flex-col md:flex-row md:items-center gap-4">
                 <div className="flex items-center gap-3 md:w-1/3">
                   <span className="text-lg font-bold text-gray-900">{leg.from}</span>
-                  <span className="text-gray-400">→</span>
+                  <span className="text-gray-500">→</span>
                   <span className="text-lg font-bold text-gray-900">{leg.to}</span>
                 </div>
                 <div className="md:w-2/3 text-sm text-gray-600 space-y-1">
@@ -313,7 +313,7 @@ export function CityTripGuide({ slug, routeSlugs, locale, copy: c, sticky }: Cit
               <details key={i} className="bg-gray-50 border border-gray-200 rounded-2xl group">
                 <summary className="cursor-pointer p-5 font-semibold text-gray-900 list-none flex items-center justify-between">
                   <span>{f.q}</span>
-                  <span className="text-gray-400 group-open:rotate-180 transition-transform">▾</span>
+                  <span className="text-gray-500 group-open:rotate-180 transition-transform">▾</span>
                 </summary>
                 <div className="px-5 pb-5 text-sm text-gray-700 leading-relaxed">{f.a}</div>
               </details>

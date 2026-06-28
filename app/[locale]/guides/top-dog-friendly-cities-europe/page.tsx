@@ -567,7 +567,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* Keyword chips, internal-link cluster targeting long-tail queries */}
       <section className="py-12 bg-gray-50 border-y border-gray-100">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-xs font-bold text-gray-400 uppercase tracking-widest text-center mb-5">
+          <h2 className="text-xs font-bold text-gray-500 uppercase tracking-widest text-center mb-5">
             {c.keywordChipsTitle}
           </h2>
           <div className="flex flex-wrap justify-center gap-2">
@@ -625,7 +625,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               <details key={i} className="bg-white border border-gray-200 rounded-2xl group">
                 <summary className="cursor-pointer p-5 font-semibold text-gray-900 list-none flex items-center justify-between">
                   <span>{f.q}</span>
-                  <span className="text-gray-400 group-open:rotate-180 transition-transform">▾</span>
+                  <span className="text-gray-500 group-open:rotate-180 transition-transform">▾</span>
                 </summary>
                 <div className="px-5 pb-5 text-sm text-gray-700 leading-relaxed">{f.a}</div>
               </details>

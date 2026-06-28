@@ -733,7 +733,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* TOC */}
       <section className="py-8 bg-white border-b border-gray-100">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-sm font-bold uppercase tracking-widest text-gray-400 mb-4">{c.toc.title}</h2>
+          <h2 className="text-sm font-bold uppercase tracking-widest text-gray-500 mb-4">{c.toc.title}</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-2">
             {c.toc.items.map((item) => (
               <a key={item.id} href={`#${item.id}`} className="text-blue-600 hover:text-blue-800 hover:underline font-medium">
@@ -909,7 +909,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               <details key={i} className="bg-gray-50 border border-gray-200 rounded-2xl group">
                 <summary className="cursor-pointer p-5 font-semibold text-gray-900 list-none flex items-center justify-between">
                   <span>{f.q}</span>
-                  <span className="text-gray-400 group-open:rotate-180 transition-transform" aria-hidden="true">▾</span>
+                  <span className="text-gray-500 group-open:rotate-180 transition-transform" aria-hidden="true">▾</span>
                 </summary>
                 <div className="px-5 pb-5 text-sm text-gray-700 leading-relaxed">{f.a}</div>
               </details>

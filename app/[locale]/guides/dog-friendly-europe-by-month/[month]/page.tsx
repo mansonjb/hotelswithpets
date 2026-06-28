@@ -361,7 +361,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* Month picker (top, right under hero) */}
       <section className="py-6 bg-white border-b border-gray-100 sticky top-0 z-20 shadow-sm">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-xs font-bold uppercase tracking-widest text-gray-400 mb-3 text-center">{c.monthsTitle}</p>
+          <p className="text-xs font-bold uppercase tracking-widest text-gray-500 mb-3 text-center">{c.monthsTitle}</p>
           <div className="flex flex-wrap justify-center gap-2">
             {MONTHS.map((mm) => {
               const active = mm === m
@@ -504,7 +504,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               <details key={i} className="bg-gray-50 border border-gray-200 rounded-2xl group">
                 <summary className="cursor-pointer p-5 font-semibold text-gray-900 list-none flex items-center justify-between">
                   <span>{f.q}</span>
-                  <span className="text-gray-400 group-open:rotate-180 transition-transform">▾</span>
+                  <span className="text-gray-500 group-open:rotate-180 transition-transform">▾</span>
                 </summary>
                 <div className="px-5 pb-5 text-sm text-gray-700 leading-relaxed">{f.a}</div>
               </details>

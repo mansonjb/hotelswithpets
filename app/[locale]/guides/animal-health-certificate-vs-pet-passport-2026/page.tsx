@@ -650,7 +650,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               <details key={i} className="bg-gray-50 border border-gray-200 rounded-2xl group">
                 <summary className="cursor-pointer p-5 font-semibold text-gray-900 list-none flex items-center justify-between">
                   <span>{f.q}</span>
-                  <span className="text-gray-400 group-open:rotate-180 transition-transform">▾</span>
+                  <span className="text-gray-500 group-open:rotate-180 transition-transform">▾</span>
                 </summary>
                 <div className="px-5 pb-5 text-sm text-gray-700 leading-relaxed">{f.a}</div>
               </details>

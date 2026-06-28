@@ -375,7 +375,7 @@ export default async function HotelPage({
                         </div>
                         <div className="flex-shrink-0 text-right">
                           <p className="text-lg font-black text-gray-900">€{rel.priceFrom}</p>
-                          <p className="text-xs text-gray-400">/night</p>
+                          <p className="text-xs text-gray-500">/night</p>
                         </div>
                       </Link>
                     ))}
@@ -411,7 +411,7 @@ export default async function HotelPage({
                     </span>
                     <div>
                       <p className="font-semibold text-gray-900 text-sm">{ratingLabel(hotel.rating)}</p>
-                      <p className="text-xs text-gray-400">
+                      <p className="text-xs text-gray-500">
                         {hotel.reviewCount >= 1000
                           ? `${(hotel.reviewCount / 1000).toFixed(hotel.reviewCount >= 10000 ? 0 : 1)}k`
                           : hotel.reviewCount} reviews
@@ -443,7 +443,7 @@ export default async function HotelPage({
                       ? 'Reservar en Booking.com →'
                       : 'Book on Booking.com →'}
                   </a>
-                  <p className="text-center text-xs text-gray-400 mt-3">
+                  <p className="text-center text-xs text-gray-500 mt-3">
                     {locale === 'fr'
                       ? 'Via notre partenaire Booking.com'
                       : locale === 'es'

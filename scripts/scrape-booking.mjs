@@ -2,9 +2,11 @@
  * Booking.com pet-friendly hotel scraper
  *
  * Usage:
- *   node scripts/scrape-booking.mjs                  → all destinations
- *   node scripts/scrape-booking.mjs amsterdam        → one destination
- *   node scripts/scrape-booking.mjs amsterdam paris  → multiple
+ *   node scripts/scrape-booking.mjs                   → all destinations in destinations.json
+ *   node scripts/scrape-booking.mjs amsterdam         → one destination by slug
+ *   node scripts/scrape-booking.mjs amsterdam paris   → multiple slugs
+ *   node scripts/scrape-booking.mjs --missing         → only destinations with 0 hotels
+ *   node scripts/scrape-booking.mjs --low             → destinations with < 3 hotels
  *
  * Output:
  *   data/hotels.json          updated with real scraped data
@@ -21,50 +23,14 @@ import { fileURLToPath } from 'url'
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const IMAGES_DIR = path.join(__dirname, '..', 'public', 'images', 'hotels')
 const HOTELS_JSON = path.join(__dirname, '..', 'data', 'hotels.json')
+const DESTINATIONS_JSON = path.join(__dirname, '..', 'data', 'destinations.json')
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 
 const MAX_HOTELS_PER_DEST = 8
 const DELAY_MIN = 2000
 const DELAY_MAX = 4000
-
-const DESTINATIONS = [
-  { slug: 'amsterdam',  name: 'Amsterdam',  country: 'Netherlands',   flag: '🇳🇱', categoryCount: 8, intro: "Amsterdam is one of Europe's most dog-friendly cities, with parks, canals, and welcoming hotels." },
-  { slug: 'paris',      name: 'Paris',      country: 'France',        flag: '🇫🇷', categoryCount: 7, intro: "Paris welcomes pets in many hotels, cafés, and even some restaurants." },
-  { slug: 'biarritz',   name: 'Biarritz',   country: 'France',        flag: '🇫🇷', categoryCount: 6, intro: "Biarritz is a paradise for dogs and their owners, with beach access and pet-friendly hotels." },
-  { slug: 'barcelona',  name: 'Barcelona',  country: 'Spain',         flag: '🇪🇸', categoryCount: 7, intro: "Barcelona has a growing pet-friendly scene with many hotels welcoming dogs of all sizes." },
-  { slug: 'berlin',     name: 'Berlin',     country: 'Germany',       flag: '🇩🇪', categoryCount: 9, intro: "Berlin is one of the most dog-friendly capitals in Europe, with extensive parks and pet-welcoming accommodation." },
-  { slug: 'lisbon',     name: 'Lisbon',     country: 'Portugal',      flag: '🇵🇹', categoryCount: 6, intro: "Lisbon's mild climate and relaxed culture make it ideal for travelling with your pet." },
-  { slug: 'rome',       name: 'Rome',       country: 'Italy',         flag: '🇮🇹', categoryCount: 6, intro: "Rome combines ancient grandeur with a surprisingly relaxed attitude toward pets." },
-  { slug: 'madrid',     name: 'Madrid',     country: 'Spain',         flag: '🇪🇸', categoryCount: 6, intro: "Madrid is one of Europe's most dog-obsessed capitals." },
-  { slug: 'prague',     name: 'Prague',     country: 'Czech Republic', flag: '🇨🇿', categoryCount: 6, intro: "Prague's compact old town and riverside parks make it an underrated gem for dog travel." },
-  { slug: 'vienna',     name: 'Vienna',     country: 'Austria',       flag: '🇦🇹', categoryCount: 6, intro: "Vienna's grand parks and dog-friendly cafés make it a top pet destination in Central Europe." },
-  { slug: 'copenhagen', name: 'Copenhagen', country: 'Denmark',       flag: '🇩🇰', categoryCount: 6, intro: "Copenhagen leads Europe on pet welfare — dogs travel free on public transport." },
-  { slug: 'stockholm',  name: 'Stockholm',  country: 'Sweden',        flag: '🇸🇪', categoryCount: 6, intro: "Stockholm's archipelago setting and dog-welcoming culture make it ideal for pet travel." },
-  { slug: 'munich',     name: 'Munich',     country: 'Germany',       flag: '🇩🇪', categoryCount: 6, intro: "Munich's English Garden and beer garden culture make it ideal for a city break with your pet." },
-  { slug: 'zurich',     name: 'Zurich',     country: 'Switzerland',   flag: '🇨🇭', categoryCount: 6, intro: "Zurich has some of Europe's highest standards for pet welfare." },
-  { slug: 'nice',       name: 'Nice',       country: 'France',        flag: '🇫🇷', categoryCount: 6, intro: "Nice's Mediterranean climate and terrace restaurants make it superb for pets year-round." },
-  { slug: 'bordeaux',   name: 'Bordeaux',   country: 'France',        flag: '🇫🇷', categoryCount: 6, intro: "Bordeaux pairs world-class wine country with a relaxed, dog-friendly urban culture." },
-  { slug: 'lyon',       name: 'Lyon',       country: 'France',        flag: '🇫🇷', categoryCount: 6, intro: "Lyon's gastronomic culture extends to its terrace restaurants, many of which welcome dogs." },
-  { slug: 'bruges',     name: 'Bruges',     country: 'Belgium',       flag: '🇧🇪', categoryCount: 6, intro: "Bruges is one of Belgium's most charming cities for a pet-friendly break." },
-  { slug: 'budapest',   name: 'Budapest',   country: 'Hungary',       flag: '🇭🇺', categoryCount: 6, intro: "Budapest's riverside parks and affordable luxury hotels make it a rising star for pet travel." },
-  { slug: 'dubrovnik',  name: 'Dubrovnik',  country: 'Croatia',       flag: '🇭🇷', categoryCount: 6, intro: "Dubrovnik's dramatic coastline and boutique hotels offer a memorable setting for pet owners." },
-  { slug: 'porto',      name: 'Porto',      country: 'Portugal',      flag: '🇵🇹', categoryCount: 6, intro: "Porto's hilly streets and river esplanades make it one of Portugal's most welcoming cities for dogs." },
-  // Tier 2
-  { slug: 'seville',    name: 'Seville',    country: 'Spain',         flag: '🇪🇸', categoryCount: 6, intro: "Seville's orange-tree lined streets and riverside promenades make it one of Andalusia's most dog-friendly cities." },
-  { slug: 'valencia',   name: 'Valencia',   country: 'Spain',         flag: '🇪🇸', categoryCount: 6, intro: "Valencia's sunny climate and Turia river park make it a superb year-round destination for pet travel." },
-  { slug: 'malaga',     name: 'Malaga',     country: 'Spain',         flag: '🇪🇸', categoryCount: 6, intro: "Malaga combines a sunny Mediterranean climate with a relaxed attitude toward dogs." },
-  { slug: 'florence',   name: 'Florence',   country: 'Italy',         flag: '🇮🇹', categoryCount: 6, intro: "Florence's Renaissance beauty is matched by a surprisingly welcoming attitude toward dogs." },
-  { slug: 'venice',     name: 'Venice',     country: 'Italy',         flag: '🇮🇹', categoryCount: 6, intro: "Venice is surprisingly dog-friendly — dogs travel on the vaporetto and are welcomed in many trattorias." },
-  { slug: 'ghent',      name: 'Ghent',      country: 'Belgium',       flag: '🇧🇪', categoryCount: 6, intro: "Ghent is one of Belgium's most progressive cities — ideal for dog owners." },
-  { slug: 'antwerp',    name: 'Antwerp',    country: 'Belgium',       flag: '🇧🇪', categoryCount: 6, intro: "Antwerp's dog-welcoming culture and boutique hotel scene make it Belgium's most exciting city for pet travel." },
-  { slug: 'edinburgh',  name: 'Edinburgh',  country: 'United Kingdom', flag: '🏴󠁧󠁢󠁳󠁣󠁴󠁿', categoryCount: 6, intro: "Edinburgh's dramatic hills and dog-welcoming pub culture make it one of Britain's best cities for a break with your dog." },
-  { slug: 'dublin',     name: 'Dublin',     country: 'Ireland',       flag: '🇮🇪', categoryCount: 6, intro: "Dublin's pub gardens, Phoenix Park, and warm Irish welcome extend to dogs." },
-  { slug: 'reykjavik',  name: 'Reykjavik',  country: 'Iceland',       flag: '🇮🇸', categoryCount: 6, intro: "Reykjavik's clean air and dog-welcoming culture make it a unique destination for adventurous pet owners." },
-  { slug: 'ljubljana',  name: 'Ljubljana',  country: 'Slovenia',      flag: '🇸🇮', categoryCount: 6, intro: "Ljubljana is one of the continent's most walkable and dog-welcoming small cities." },
-  { slug: 'riga',       name: 'Riga',       country: 'Latvia',        flag: '🇱🇻', categoryCount: 6, intro: "Riga's Art Nouveau architecture and affordable hotels make it an emerging gem for pet-friendly breaks." },
-  { slug: 'tallinn',    name: 'Tallinn',    country: 'Estonia',       flag: '🇪🇪', categoryCount: 6, intro: "Tallinn's medieval old town and dog-friendly hotels make it a hidden gem for pet travel in Northern Europe." },
-]
+const MIN_HOTELS_THRESHOLD = 3
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 
@@ -441,25 +407,52 @@ async function scrapeDestination(context, dest) {
 // ─── Main ─────────────────────────────────────────────────────────────────────
 
 async function main() {
-  const args = process.argv.slice(2)
-  const targets = args.length
-    ? DESTINATIONS.filter(d => args.includes(d.slug))
-    : DESTINATIONS
+  const argv = process.argv.slice(2)
+  const flagMissing = argv.includes('--missing')
+  const flagLow = argv.includes('--low')
+  const slugArgs = argv.filter(a => !a.startsWith('--'))
 
-  if (!targets.length) {
-    console.error('Unknown destinations:', args.join(', '))
-    console.error('Available:', DESTINATIONS.map(d => d.slug).join(', '))
-    process.exit(1)
-  }
-
-  console.log(`\n🐾 Booking.com scraper`)
-  console.log(`   Targets: ${targets.map(d => d.name).join(', ')}`)
-  console.log(`   Hotels/dest: ${MAX_HOTELS_PER_DEST}`)
-
-  await mkdir(IMAGES_DIR, { recursive: true })
+  // Load all destinations from destinations.json (source of truth)
+  const allDestinations = JSON.parse(await readFile(DESTINATIONS_JSON, 'utf-8'))
 
   let allHotels = []
   try { allHotels = JSON.parse(await readFile(HOTELS_JSON, 'utf-8')) } catch {}
+
+  // Build hotel count map
+  const hotelCounts = {}
+  for (const h of allHotels) hotelCounts[h.destinationSlug] = (hotelCounts[h.destinationSlug] || 0) + 1
+
+  let targets
+  if (flagMissing) {
+    // Only destinations with 0 hotels
+    targets = allDestinations.filter(d => !hotelCounts[d.slug])
+    console.log(`\n🔍 --missing mode: ${targets.length} destinations with 0 hotels`)
+  } else if (flagLow) {
+    // Destinations with fewer than MIN_HOTELS_THRESHOLD hotels
+    targets = allDestinations.filter(d => (hotelCounts[d.slug] || 0) < MIN_HOTELS_THRESHOLD)
+    console.log(`\n🔍 --low mode: ${targets.length} destinations with < ${MIN_HOTELS_THRESHOLD} hotels`)
+  } else if (slugArgs.length) {
+    // Specific slugs provided
+    targets = slugArgs.map(slug => {
+      const d = allDestinations.find(d => d.slug === slug)
+      if (!d) { console.error(`Unknown slug: ${slug}`); process.exit(1) }
+      return d
+    })
+  } else {
+    // All destinations
+    targets = allDestinations
+  }
+
+  if (!targets.length) {
+    console.log('Nothing to scrape — all destinations have hotels.')
+    process.exit(0)
+  }
+
+  console.log(`\n🐾 Booking.com scraper`)
+  console.log(`   Targets (${targets.length}): ${targets.map(d => d.slug).join(', ')}`)
+  console.log(`   Hotels/dest: ${MAX_HOTELS_PER_DEST}`)
+
+  await mkdir(IMAGES_DIR, { recursive: true })
 
   const { browser, context } = await createBrowser()
 
@@ -473,6 +466,11 @@ async function main() {
           ...allHotels.filter(h => h.destinationSlug !== dest.slug),
           ...scraped,
         ]
+        // Persist after every destination so partial runs aren't lost
+        await writeFile(HOTELS_JSON, JSON.stringify(allHotels, null, 2))
+        console.log(`   💾 Saved after ${dest.slug} (${scraped.length} hotels)`)
+      } else {
+        console.log(`   ⚠ ${dest.slug}: 0 results — hotels.json unchanged for this destination`)
       }
 
       if (i < targets.length - 1) {
@@ -485,11 +483,13 @@ async function main() {
     await browser.close()
   }
 
-  // Sort by destination order
-  const order = DESTINATIONS.map(d => d.slug)
+  // Final sort: preserve existing order for already-present slugs, append new at end
+  const destOrder = allDestinations.map(d => d.slug)
   allHotels.sort((a, b) => {
-    const d = order.indexOf(a.destinationSlug) - order.indexOf(b.destinationSlug)
-    return d !== 0 ? d : a.id.localeCompare(b.id)
+    const ia = destOrder.indexOf(a.destinationSlug)
+    const ib = destOrder.indexOf(b.destinationSlug)
+    if (ia !== ib) return (ia === -1 ? 9999 : ia) - (ib === -1 ? 9999 : ib)
+    return a.id.localeCompare(b.id)
   })
 
   await writeFile(HOTELS_JSON, JSON.stringify(allHotels, null, 2))
@@ -497,7 +497,8 @@ async function main() {
   console.log(`\n✅ hotels.json updated — ${allHotels.length} total hotels`)
   targets.forEach(d => {
     const n = allHotels.filter(h => h.destinationSlug === d.slug).length
-    console.log(`   ${d.flag} ${d.name}: ${n} hotels`)
+    const flag = n === 0 ? '❌' : n < MIN_HOTELS_THRESHOLD ? '⚠' : '✓'
+    console.log(`   ${flag} ${d.slug}: ${n} hotels`)
   })
 }
 

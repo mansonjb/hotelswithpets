@@ -20386,6 +20386,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  rhodes: {
+    history: {
+      fr: `Île la plus orientale de la mer Egée, Rhodes compte environ 115 000 habitants et tire son nom de la rose (rhodon) qui orna jadis sa monnaie. Fondée en 408 av. J.-C. par la fusion de trois cités doriques, elle abrita le Colosse, l'une des sept merveilles du monde antique. Les Croisés y érigèrent à partir de 1309 la vieille ville médiévale, classée au patrimoine mondial de l'UNESCO, dont les ruelles pavées restent ouvertes aux chiens en laisse. La loi grecque impose la puce électronique et le vaccin antirabique à tous les chiens, la laisse obligatoire sur les voies publiques, et la muselière dans les transports et les lieux bondés. Sur les plages, seules les sections non organisées (sans parasols concédés) accueillent les chiens.`,
+      en: `The easternmost island of the Aegean, Rhodes has around 115 000 residents and takes its name from the rose (rhodon) that once adorned its coinage. Founded in 408 BC by the merger of three Doric city-states, it hosted the Colossus, one of the seven wonders of the ancient world. Crusader Knights built the medieval walled city from 1309, and its cobbled lanes, listed as a UNESCO World Heritage Site, remain open to leashed dogs today. Greek law requires microchipping and rabies vaccination for all dogs, a leash in all public spaces, and a muzzle in transport and crowded areas. On beaches, only unorganised sections without a sunbed concession permit dogs.`,
+      es: `La isla mas oriental del Egeo, Rodas tiene unos 115.000 habitantes y debe su nombre a la rosa (rhodon) que decoraba su antigua moneda. Fundada en 408 a. C. por la fusion de tres ciudades-estado dorias, albergo el Coloso, una de las siete maravillas del mundo antiguo. Los Caballeros Cruzados construyeron la ciudad amurallada medieval desde 1309, y sus callejuelas empedradas, declaradas Patrimonio de la Humanidad, siguen abiertas a los perros con correa. La ley griega exige microchip y vacuna antirabica a todos los perros, correa en los espacios publicos y bozal en el transporte y los lugares concurridos. En las playas, solo los tramos no organizados sin concesion de hamacas admiten perros.`,
+      pt: `A ilha mais oriental do Mar Egeu, Rodes tem cerca de 115.000 habitantes e deve o seu nome a rosa (rhodon) que outrora decorava a sua moeda. Fundada em 408 a. C. pela fusao de tres cidades-estado dorias, albergou o Coloso, uma das sete maravilhas do mundo antigo. Os Cavaleiros Cruzados construiram a cidade medieval amuralhada a partir de 1309, e as suas ruelas empedradas, classificadas como Patrimonio da Humanidade, estao abertas a caes com trela. A lei grega exige microchip e vacina antirrabica para todos os caes, trela em espacos publicos e focinheira nos transportes e locais movimentados. Nas praias, apenas as areas nao organizadas sem concessao de chapeus de sol admitem caes.`,
+    },
+    sights: [
+      {
+        name: 'Vieille ville medievale de Rhodes',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Enceinte medievale classee UNESCO, les ruelles pavees sont ouvertes aux chiens en laisse ; les monuments tels que le Palais des Grands Maitres restent interdits aux animaux.`,
+          en: `The UNESCO-listed medieval walled city: cobbled lanes welcome leashed dogs, but ticketed monuments such as the Palace of the Grand Masters do not allow pets inside.`,
+          es: `Ciudad amurallada medieval declarada por la UNESCO: los callejones empedrados admiten perros con correa, pero los monumentos de pago como el Palacio de los Grandes Maestros no permiten animales.`,
+          pt: `Cidade amuralhada medieval classificada pela UNESCO: as ruelas empedradas recebem caes com trela, mas os monumentos pagos como o Palacio dos Grandes Mestres nao permitem animais.`,
+        },
+      },
+      {
+        name: 'Porto de Mandraki',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade du port de Mandraki, avec ses trois moulins a vent medievaux et la statue du cerf a l'entree, est ouverte aux chiens en laisse toute la journee.`,
+          en: `The Mandraki harbour walk, flanked by three medieval windmills and the bronze deer at the entrance channel, is open to leashed dogs all day.`,
+          es: `El paseo del puerto de Mandraki, flanqueado por tres molinos medievales y los ciervos de bronce en la entrada, esta abierto a perros con correa todo el dia.`,
+          pt: `O passeio do porto de Mandraki, ladeado por tres moinhos medievais e os veados de bronze na entrada do canal, esta aberto a caes com trela durante todo o dia.`,
+        },
+      },
+      {
+        name: 'Rodini Park',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `L'un des plus anciens parcs paysagers du monde, a 3 km au sud de Rhodes Town, offre des sentiers ombrages le long d'un ruisseau, ideal pour les chaudes journees d'ete. Chiens en laisse obligatoire.`,
+          en: `One of the oldest landscaped parks in the world, 3 km south of Rhodes Town, with shaded stream-side paths that are ideal for summer midday escapes. Dogs must stay on leash.`,
+          es: `Uno de los parques ajardinados mas antiguos del mundo, a 3 km al sur de Rodas Town, con senderos sombreados junto a un arroyo, ideales para escapar del calor estival. Perros con correa obligatoria.`,
+          pt: `Um dos parques ajardinados mais antigos do mundo, a 3 km a sul de Rodes Town, com trilhos sombreados junto a um ribeiro, ideais para fugir ao calor estival. Caes com trela obrigatorio.`,
+        },
+      },
+      {
+        name: 'Promenade des douves de la vieille ville',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Le tour des douves exterieures de la vieille ville offre une balade ombragee et peu frequentee, parfaite pour les chiens, avec des vues sur les remparts medievaux.`,
+          en: `The walk around the old town's outer moat gives a quiet, shaded route popular with locals and dogs, with views up to the massive medieval walls.`,
+          es: `El paseo por el foso exterior de la ciudad amurallada ofrece una ruta tranquila y sombreada popular entre locales y perros, con vistas a las imponentes murallas medievales.`,
+          pt: `O passeio pelo fosso exterior da cidade amuralhada oferece um percurso tranquilo e sombreado, popular entre os locais e os caes, com vistas para as imponentes muralhas medievais.`,
+        },
+      },
+      {
+        name: 'Faliraki Beach (zone non organisee)',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La section non organisee au nord de la plage de Faliraki accueille les chiens en laisse ; eviter les zones de transats concedees ou les chiens sont interdits.`,
+          en: `The unorganised northern section of Faliraki beach welcomes leashed dogs; avoid the sunbed concession zones where dogs are excluded.`,
+          es: `La seccion no organizada al norte de la playa de Faliraki acoge perros con correa; evitar las zonas de hamacas en concesion donde los perros no estan permitidos.`,
+          pt: `A secao nao organizada a norte da praia de Faliraki recebe caes com trela; evitar as zonas de espreguicadeiras em concessao onde os caes nao sao admitidos.`,
+        },
+      },
+      {
+        name: 'Prasonisi (cap sud)',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La pointe meridionale de l'ile, a 90 km de Rhodes Town, offre une longue plage de sable fin non organisee et venteuse, idylle des kitesurfeurs et des chiens libres hors saison.`,
+          en: `The southern tip of the island, 90 km from Rhodes Town, has a long unorganised sandy beach where dogs can roam freely on the windswept dunes, especially off-peak.`,
+          es: `La punta sur de la isla, a 90 km de Rodas Town, tiene una larga playa de arena no organizada donde los perros pueden moverse libremente por las dunas ventosas, especialmente fuera de temporada.`,
+          pt: `A ponta sul da ilha, a 90 km de Rodes Town, tem uma longa praia de areia nao organizada onde os caes podem circular livremente pelas dunas ventosas, especialmente fora da epoca alta.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `En juillet-aout, marchez avant 09h00 ou apres 20h00 et testez les paves a la main avant de laisser votre chien marcher dessus, ils atteignent 60 degres en plein soleil.`,
+        `Les ferries Dodekanisos Seaways acceptent les chiens a bord sur le pont exterieur, mais exigent une laisse et souvent une museliere pour les grands chiens ; reservez votre billet a l'avance et mentionnez votre animal.`,
+        `Seules les plages non organisees (sans parasols concedes) autorisent les chiens ; verifiez avant de vous installer, l'amende pour infraction peut etre elevee.`,
+        `Le cabinet veterinaire Vet Center a Rhodes Town (tel. +30 22410 35551) assure des consultations sur rendez-vous ; pour les urgences graves, le veterinaire le plus proche avec equipement avance est a Heraklion (Crete).`,
+        `EU pet passport obligatoire pour entrer en Grece depuis un autre pays UE, plus puce ISO et vaccin antirabique valide depuis au moins 21 jours.`,
+      ],
+      en: [
+        `In July and August, walk before 09:00 or after 20:00 and test cobblestones with your hand before letting your dog walk on them, they can reach 60 C in full sun.`,
+        `Dodekanisos Seaways ferries accept dogs on the open outer deck, but require a leash and often a muzzle for large dogs; book ahead and mention your pet when buying the ticket.`,
+        `Only unorganised beaches (without a sunbed concession) allow dogs; check before settling, fines for violations can be significant.`,
+        `Vet Center in Rhodes Town (+30 22410 35551) takes appointments; for serious emergencies the nearest clinic with advanced equipment is in Heraklion, Crete.`,
+        `An EU pet passport is required to bring a dog into Greece from another EU country, along with an ISO microchip and a rabies vaccination given at least 21 days before travel.`,
+      ],
+      es: [
+        `En julio y agosto, pasea antes de las 09:00 o despues de las 20:00 y prueba los adoquines con la mano antes de dejar caminar a tu perro, pueden alcanzar 60 grados con pleno sol.`,
+        `Los ferrys de Dodekanisos Seaways admiten perros en la cubierta exterior abierta, pero exigen correa y a menudo bozal para perros grandes; reserva con antelacion y menciona tu mascota al comprar el billete.`,
+        `Solo las playas no organizadas (sin concesion de hamacas) permiten perros; compruebalo antes de instalarte, las multas por infraccion pueden ser elevadas.`,
+        `Vet Center en Rodas Town (+30 22410 35551) atiende con cita previa; para emergencias graves el centro mas cercano con equipo avanzado esta en Heraklion, Creta.`,
+        `El pasaporte europeo para mascotas es obligatorio para entrar a Grecia desde otro pais de la UE, junto con microchip ISO y vacuna antirrrabica valida desde al menos 21 dias antes del viaje.`,
+      ],
+      pt: [
+        `Em julho e agosto, passeie antes das 09:00 ou depois das 20:00 e teste as pedras com a mao antes de deixar o seu cao caminhar nelas, podem atingir 60 graus ao sol pleno.`,
+        `Os ferries da Dodekanisos Seaways aceitam caes no convez exterior aberto, mas exigem trela e muitas vezes focinheira para caes grandes; reserve com antecedencia e mencione o seu animal ao comprar o bilhete.`,
+        `Apenas as praias nao organizadas (sem concessao de espreguicadeiras) permitem caes; verifique antes de se instalar, as multas por infraccao podem ser elevadas.`,
+        `A Vet Center em Rodes Town (+30 22410 35551) atende com marcacao; para emergencias graves, o centro mais proximo com equipamento avancado fica em Heraklion, Creta.`,
+        `O passaporte europeu para animais de companhia e obrigatorio para entrar na Grecia a partir de outro pais da UE, juntamente com microchip ISO e vacina antirabica valida ha pelo menos 21 dias antes da viagem.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vet Center (Michellarakis Ioannis), Konstantinou Idreou 5, Rhodes Town 85133, tel. +30 22410 35551 - consultations sur rendez-vous, le cabinet le plus etabli de Rhodes Town.`,
+        `Urgences veterinaires graves : le centre le plus proche avec plateau technique complet est a Heraklion, Crete (1h30 de vol ou ferry de nuit) ; appelez le +30 2810 380380 (Kliniki Zographos).`,
+        `Ferries inter-iles : Dodekanisos Seaways dessert Kos, Symi, Nisyros et autres iles depuis le port de Mandraki ; chiens acceptes sur le pont exterieur, laisse + museliere pour grands chiens.`,
+        `Plages : toutes les plages organizees (Faliraki resort, Lindos Sud) interdisent les chiens ; les sections non organisees et les criques sauvages les acceptent en laisse.`,
+        `Chaleur : juillet-aout = 31 degres avec peu d'ombre au sol ; le parc Rodini (3 km sud Rhodes Town) est le seul espace vert ombrage en ville, ideal pour les pauses de midi.`,
+      ],
+      en: [
+        `Vet Center (Michellarakis Ioannis), Konstantinou Idreou 5, Rhodes Town 85133, tel. +30 22410 35551 - appointment-based, the most established clinic in Rhodes Town.`,
+        `Serious emergencies: the nearest clinic with full equipment is in Heraklion, Crete (90 min flight or overnight ferry); call +30 2810 380380 (Kliniki Zographos).`,
+        `Inter-island ferries: Dodekanisos Seaways serves Kos, Symi, Nisyros and other islands from Mandraki port; dogs accepted on the open outer deck, leash plus muzzle for large dogs.`,
+        `Beaches: all organised beaches (Faliraki resort strip, Lindos South) ban dogs; unorganised sections and wild coves accept them on a leash.`,
+        `Heat: July-August peaks at 31 C with little shade at ground level; Rodini Park (3 km south of Rhodes Town) is the only well-shaded green space in town, ideal for midday breaks.`,
+      ],
+      es: [
+        `Vet Center (Michellarakis Ioannis), Konstantinou Idreou 5, Rodas Town 85133, tel. +30 22410 35551 - con cita previa, la clinica mas establecida de Rodas Town.`,
+        `Emergencias graves: el centro mas cercano con equipo completo esta en Heraklion, Creta (90 min de vuelo o ferry nocturno); llama al +30 2810 380380 (Kliniki Zographos).`,
+        `Ferrys inter-islas: Dodekanisos Seaways conecta Kos, Symi, Nisyros y otras islas desde el puerto de Mandraki; perros admitidos en cubierta exterior abierta, correa mas bozal para perros grandes.`,
+        `Playas: todas las playas organizadas (zona resort de Faliraki, Lindos Sur) prohiben perros; los tramos no organizados y las calas salvajes los admiten con correa.`,
+        `Calor: julio-agosto con picos de 31 grados y poca sombra a nivel de suelo; el parque Rodini (3 km al sur de Rodas Town) es el unico espacio verde bien sombreado de la ciudad, ideal para descansos al mediodia.`,
+      ],
+      pt: [
+        `Vet Center (Michellarakis Ioannis), Konstantinou Idreou 5, Rodes Town 85133, tel. +30 22410 35551 - com marcacao, a clinica mais estabelecida em Rodes Town.`,
+        `Emergencias graves: o centro mais proximo com equipamento completo fica em Heraklion, Creta (90 min de voo ou ferry nocturno); ligue para +30 2810 380380 (Kliniki Zographos).`,
+        `Ferries inter-ilhas: a Dodekanisos Seaways serve Kos, Symi, Nisyros e outras ilhas a partir do porto de Mandraki; caes admitidos no convez exterior aberto, trela mais focinheira para caes grandes.`,
+        `Praias: todas as praias organizadas (zona resort de Faliraki, Lindos Sul) proibem caes; as seccoes nao organizadas e as enseadas selvagens aceitam-nos com trela.`,
+        `Calor: julho-agosto com maximas de 31 graus e pouca sombra ao nivel do solo; o parque Rodini (3 km a sul de Rodes Town) e o unico espaco verde bem sombreado da cidade, ideal para pausas ao meio-dia.`,
+      ],
+    },
+  },
+
   riga: {
     history: {
       fr: `Fondée en 1201 par l'évêque Albert de Brême, Riga devint le plus grand port hanséatique de la Baltique orientale et compte aujourd'hui environ 605 000 habitants, avec quelque 40 000 chiens enregistrés. Sa vieille ville classée à l'UNESCO et son quartier Art nouveau, le plus vaste du monde, côtoient une culture canine profondément ancrée, la Riga Dog Show, l'une des plus grandes d'Europe, existe depuis 1975. La loi lettonne impose la laisse et la muselière pour les races dites dangereuses, et tout chien de plus de quatre mois doit porter une puce électronique et la médaille fiscale municipale. La ville entretient une douzaine de suņu laukumi clôturés, notamment à Mežaparks et Uzvaras, ainsi que plusieurs sentiers forestiers sur les îles de la Daugava où la laisse peut tomber hors période de nidification (avril-juillet).`,

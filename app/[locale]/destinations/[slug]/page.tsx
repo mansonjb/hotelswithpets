@@ -17,6 +17,7 @@ import { generateDestIntro, generateDestFaqs, destContextByLocale } from '@/lib/
 import cityContent from '@/lib/cityContent'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
+import SisterSites from '@/components/SisterSites'
 
 type DestWithWeather = typeof destinations[number] & {
   weather?: Record<string, { temp: number; desc: string; icon: string }>
@@ -836,6 +837,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           </div>
         </div>
       </section>
+      <SisterSites slug={slug} locale={locale} />
       {/* Related destinations in same country */}
       {relatedDests.length > 0 && (
         <section className="py-12 bg-gray-50 border-t border-gray-100">

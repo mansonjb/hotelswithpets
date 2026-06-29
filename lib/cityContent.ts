@@ -19615,10 +19615,10 @@ const cityContent: Record<string, CityContent> = {
 
   prague: {
     history: {
-      fr: `Prague est l'une des rares capitales européennes à avoir traversé les deux guerres mondiales pratiquement intacte. Son centre historique, classé au patrimoine mondial de l'UNESCO, conserve intact un millénaire d'architecture : romane, gothique, baroque, Art Nouveau, cubiste, un concentré unique qui em fait l'une des plus belles villes du monde. Fondée au IXe siècle sur les rives de la Vltava, Prague a connu son apogée sous Charles IV (XIVe siècle), qui em fit la capitale du Saint-Empire romain germanique. Aujourd'hui, Prague est une ville compacte et marchable, où les chiens sont bienvenus dans la quasi-totalité des pubs, wine bars et restaurants, une tradition tchèque bien ancrée.`,
+      fr: `Prague est l'une des rares capitales européennes à avoir traversé les deux guerres mondiales pratiquement intacte. Son centre historique, classé au patrimoine mondial de l'UNESCO, conserve intact un millénaire d'architecture : romane, gothique, baroque, Art Nouveau, cubiste, un concentré unique qui en fait l'une des plus belles villes du monde. Fondée au IXe siècle sur les rives de la Vltava, Prague a connu son apogée sous Charles IV (XIVe siècle), qui en fit la capitale du Saint-Empire romain germanique. Aujourd'hui, Prague est une ville compacte et marchable, où les chiens sont bienvenus dans la quasi-totalité des pubs, wine bars et restaurants, une tradition tchèque bien ancrée.`,
       en: `Prague is one of the few European capitals to have emerged from both World Wars virtually intact. Its historic centre, a UNESCO World Heritage Site, preserves a millennium of architecture: Romanesque, Gothic, Baroque, Art Nouveau, Cubist, a unique concentration that makes it one of the world's most beautiful cities. Founded in the 9th century on the banks of the Vltava, Prague reached its peak under Charles IV (14th century), who made it the capital of the Holy Roman Empire. Today Prague is a compact, walkable city where dogs are welcome in virtually all pubs, wine bars and restaurants, a firmly established Czech tradition.`,
-      es: `Praga es una das pocas capitales europeias que sobrevivió a ambas guerras mundiales prácticamente intacta. Su centro histórico, declarado Patrimonio de la Humanidad por a UNESCO, conserva un milenio de arquitectura: románica, gótica, barroca, art nouveau, cubista: una concentración única que la convierte em una das ciudades más belas del mundo. fundada em el siglo IX a orillas del Moldava, Praga alcanzó su esplendor bajo Carlos IV (siglo XIV), quien la convirtió em capital del Sacro Imperio Romano Germánico. Hoy Praga es uma cidade compacta y caminable, donde los perros son bienvenidos em prácticamente todos los pubs, bares de vinos y restaurantes: una tradición checa bien arraigada.`,
-      pt: `Praga é uma das as poucas capitales europeias que sobrevivió a ambas guerras mundiales prácticamente intacta. Su centro histórico, declarado Patrimonio da Humanidad pela UNESCO, conserva um milénio de arquitetura: românica, gótica, barroca, art nouveau, cubista: uma concentración única que a convierte numa das cidades mais belas do mundo. fundada no século IX a margens do Moldava, Praga alcanzó su esplendor sob Carlos IV (século XIV), quien a convirtió em capital do Sacro Imperio Romano Germánico. Hoy Praga é uma cidade compacta e pedonal, onde os cães são bem-vindos em prácticamente todos os pubs, bares de vinos e restaurantes: uma tradición checa bien arraigada.`,
+      es: `Praga es una de las pocas capitales europeas que sobrevivió a ambas guerras mundiales prácticamente intacta. Su centro histórico, declarado Patrimonio de la Humanidad por la UNESCO, conserva un milenio de arquitectura: románica, gótica, barroca, art nouveau, cubista: una concentración única que la convierte en una de las ciudades más bellas del mundo. Fundada en el siglo IX a orillas del Moldava, Praga alcanzó su esplendor bajo Carlos IV (siglo XIV), quien la convirtió en capital del Sacro Imperio Romano Germánico. Hoy Praga es una ciudad compacta y caminable donde los perros son bienvenidos en prácticamente todos los pubs, bares de vinos y restaurantes: una tradición checa bien arraigada.`,
+      pt: `Praga é uma das poucas capitais europeias que sobreviveu a ambas as guerras mundiais praticamente intacta. O seu centro histórico, classificado pela UNESCO como Património Mundial da Humanidade, preserva um milénio de arquitetura: românica, gótica, barroca, Art Nouveau, cubista, uma concentração única que a torna uma das cidades mais belas do mundo. Fundada no século IX nas margens do Vltava, Praga atingiu o seu apogeu sob Carlos IV (século XIV), que a tornou capital do Sacro Império Romano-Germânico. Hoje Praga é uma cidade compacta e pedonal onde os cães são bem-vindos em praticamente todos os pubs, bares de vinho e restaurantes, uma tradição checa bem enraizada.`,
     },
     sights: [
       {
@@ -19626,10 +19626,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌳',
         petFriendly: true,
         desc: {
-          fr: 'L\'ancien parc royal (95 ha) dans le quartier de Holešovice est le parc préféré des chiens praguois. Zones sans laisse désignées, grands espaces ouverts et étangs. Calme em semaine, animé le week-end.',
+          fr: `L'ancien parc royal (95 ha) dans le quartier de Holešovice est le parc préféré des chiens praguois. Zones sans laisse désignées, grands espaces ouverts et étangs. Calme en semaine, animé le week-end.`,
           en: 'The former royal park (95 ha) in the Holešovice neighbourhood is the favourite park for Prague dogs. Designated off-leash areas, wide open spaces and ponds. Peaceful on weekdays, lively at weekends.',
-          es: 'o antigo parque real (95 ha) em o bairro de Holešovice es o parque favorito dos perros de Praga. Zonas sin trela designadas, grandes espacios abiertos y estanques. Tranquilo entre semana, animado los fines de semana.',
-          pt: 'O antigo parque real (95 ha) no bairro de Holešovice é o parque favorito dois cães de Praga. Zonas sem trela designadas, grandes espacios abiertos e estanques. Tranquilo entre semana, animado os fines de semana.',
+          es: 'El antiguo parque real (95 ha) en el barrio de Holešovice es el parque favorito de los perros praguenses. Zonas sin correa designadas, amplios espacios abiertos y estanques. Tranquilo entre semana, animado los fines de semana.',
+          pt: 'O antigo parque real (95 ha) no bairro de Holešovice é o parque favorito dos cães de Praga. Zonas sem trela designadas, grandes espaços abertos e lagoas. Sossegado durante a semana, animado ao fim de semana.',
         },
       },
       {
@@ -19639,8 +19639,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Le parc de Letná surplombe la vieille ville et offre une vue panoramique spectaculaire sur les ponts et la Vltava. Les chiens peuvent y aller sans laisse dans les zones dégagées. Le beer garden de Letná est l\'un des plus sympas de Prague, les chiens y sont bienvenus.',
           en: 'Letná Park overlooks the old town and offers a spectacular panoramic view of the bridges and Vltava. Dogs can go off-leash in the open areas. The Letná beer garden is one of Prague\'s nicest, dogs are welcome.',
-          es: 'o parque de Letná domina el casco antigo y ofrece una espectacular vista panorámica dos puentes y el Moldava. Los perros pueden ir sin trela em las zonas abiertas. El jardín de cerveza de Letná es uno dos más agradables de Praga, y los perros son bienvenidos.',
-          pt: 'O parque de Letná domina o centro histórico e ofrece uma espectacular vista panorámica dois pontes e o Moldava. Os cães podem ir sem trela nas zonas abiertas. O jardim de cerveja de Letná é um dois os mais agradables de Praga, e os cães são bem-vindos.',
+          es: 'El parque de Letná domina el casco antiguo y ofrece una espectacular vista panorámica de los puentes y el Moldava. Los perros pueden ir sin correa en las zonas abiertas. El jardín de cerveza de Letná es uno de los más agradables de Praga, y los perros son bienvenidos.',
+          pt: 'O Parque Letná domina o centro histórico e oferece uma espetacular vista panorâmica das pontes e do Vltava. Os cães podem ir sem trela nas zonas abertas. O jardim de cerveja de Letná é um dos mais agradáveis de Praga, e os cães são bem-vindos.',
         },
       },
       {
@@ -19650,8 +19650,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Les deux quartiers les plus dog-friendly de Prague hors du centre touristique. Pubs accueillants, cafés branchés et rues calmes. Le Riegrovy sady (parc de Vinohrady) avec son beer garden est un incontournable.',
           en: 'Prague\'s two most dog-friendly neighbourhoods outside the tourist centre. Welcoming pubs, trendy cafés and quiet streets. The Riegrovy sady (Vinohrady park) with its beer garden is unmissable.',
-          es: 'Los dos barrios más amigables con los perros de Praga fuera del centro turístico. Pubs acogedores, cafés de moda y ruas tranquilas. El Riegrovy sady (parque de Vinohrady) con su jardín de cerveza es imprescindible.',
-          pt: 'Os dois bairros mais amigables com os cães de Praga fora do centro turístico. Pubs acogedores, cafés de moda e ruas tranquilas. O Riegrovy sady (parque de Vinohrady) com su jardim de cerveja é imprescindible.',
+          es: 'Los dos barrios más amigables con los perros de Praga fuera del centro turístico. Pubs acogedores, cafés de moda y calles tranquilas. El Riegrovy sady (parque de Vinohrady) con su jardín de cerveza es imprescindible.',
+          pt: 'Os dois bairros mais amigáveis com os cães de Praga fora do centro turístico. Pubs acolhedores, cafés modernos e ruas tranquilas. O Riegrovy sady (parque de Vinohrady) com o seu jardim de cerveja é imperdível.',
         },
       },
       {
@@ -19659,10 +19659,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌉',
         petFriendly: true,
         desc: {
-          fr: 'Le pont médiéval le plus célèbre d\'Europe est ouvert aux piétons et aux chiens. Bondé em journée, il retrouve son calme avant 7h du matin et après 21h, c\'est le moment idéal pour s\'y promener avec son animal.',
+          fr: `Le pont médiéval le plus célèbre d'Europe est ouvert aux piétons et aux chiens. Bondé en journée, il retrouve son calme avant 7h du matin et après 21h, c'est le moment idéal pour s'y promener avec son animal.`,
           en: 'Europe\'s most famous medieval bridge is open to pedestrians and dogs. Packed during the day, it recovers its calm before 7am and after 9pm, the ideal moment to walk across with your pet.',
           es: 'El puente medieval más famoso de Europa está abierto a peatones y perros. Muy concurrido durante el día, recupera su calma antes das 7 h y después das 21 h: el momento ideal para cruzarlo con tu mascota.',
-          pt: 'O ponte medieval mais famoso de Europa está aberto a peatones e cães. Muito concurrido durante o dia, recupera su calma antes das 7 h e depois das 21 h: o momento ideal para cruzarlo com o teu animal.',
+          pt: 'A ponte medieval mais famosa da Europa está aberta a peões e cães. Muito concorrida durante o dia, recupera a calma antes das 7h e depois das 21h: o momento ideal para a atravessar com o seu animal.',
         },
       },
       {
@@ -19670,16 +19670,16 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏰',
         petFriendly: false,
         desc: {
-          fr: 'Les jardins du Château (Královská zahrada) n\'admettent pas les chiens. em revanche, les Jardins Sud du Château (Jižní zahrady) sont accessibles aux animaux em laisse et offrent une vue magnifique sur la ville.',
+          fr: `Les jardins du Château (Královská zahrada) n'admettent pas les chiens. En revanche, les Jardins Sud du Château (Jižní zahrady) sont accessibles aux animaux en laisse et offrent une vue magnifique sur la ville.`,
           en: 'The Castle gardens (Královská zahrada) do not admit dogs. However, the South Gardens (Jižní zahrady) welcome dogs on leads and offer magnificent views over the city.',
-          es: 'Los jardines del Castillo (Královská zahrada) no admiten perros. em cambio, los Jardines del Sur (Jižní zahrady) admiten perros com trela y ofrecen magníficas vistas sobre a cidade.',
-          pt: 'Os jardins do Castelo (Královská zahrada) no admitem cães. em cambio, os Jardins do sul (Jižní zahrady) admitem cães com trela e ofrecen magníficas vistas sobre a cidade.',
+          es: 'Los jardines del Castillo (Královská zahrada) no admiten perros. En cambio, los Jardines del Sur (Jižní zahrady) admiten perros con correa y ofrecen magníficas vistas sobre la ciudad.',
+          pt: 'Os jardins do Castelo (Královská zahrada) não admitem cães. No entanto, os Jardins do Sul (Jižní zahrady) aceitam cães na trela e oferecem magníficas vistas sobre a cidade.',
         },
       },
     ],
     petTips: {
       fr: [
-        'Les chiens sont admis dans le métro praguois avec un billet réduit et doivent être muselés ou em sac. Dans les tramways et bus, les règles sont similaires.',
+        `Les chiens sont admis dans le métro praguois avec un billet réduit et doivent être muselés ou en sac de transport. Dans les tramways et bus, les règles sont similaires.`,
         'Les pubs (hospody) tchèques sont presque universellement dog-friendly, c\'est une tradition nationale. Il est rare d\'être refusé avec un chien bien tenu.',
         'La Vltava est froide toute l\'année. Des zones de baignade canine existent en été près de Císařský ostrov (Île de l\'Empereur) dans le nord de Prague.',
         'Prague est très touristique en été, les quartiers centraux (Malá Strana, Staré Město) sont bondés. Préférez les promenades matinales ou vespérales.',
@@ -19700,37 +19700,37 @@ const cityContent: Record<string, CityContent> = {
         'Muchos cafés traen agua para los perros espontáneamente: la cultura dog-friendly está bien integrada em Praga.',
       ],
       pt: [
-        'Os cães están admitidos no metro de Praga con bilhete reducido e deben levar bozal o ir em transportadora. Reglas similares em elétricos e autocarros.',
-        'Os pubs (hospody) checos são quase universalmente pet-friendly: é uma tradición nacional. É raro que te rechacen con um cão bien educado.',
-        'O Moldava é frio o ano inteiro. Hay zonas de banho canino em verão perto de Císařský ostrov (Ilha do Emperador) a norte de Praga.',
-        'Praga é muito turística em verão: as zonas centrales (Malá Strana, Staré Město) se llenan. Opta por passeios a primera hora o al anochecer.',
-        'Muitos cafés traen água para os cães espontáneamente: a cultura pet-friendly está bien integrada em Praga.',
+        `Os cães são admitidos no metro de Praga com bilhete reduzido e devem usar açaime ou ir em transportadora. Regras semelhantes se aplicam nos elétricos e autocarros.`,
+        `Os pubs checos (hospody) são quase universalmente pet-friendly: é uma tradição nacional. É raro ser recusado com um cão bem-comportado.`,
+        `O Vltava é frio o ano inteiro. Existem zonas de banho canino no verão perto da Ilha do Imperador (Císařský ostrov) a norte de Praga.`,
+        `Praga é muito turística no verão: as zonas centrais (Malá Strana, Staré Město) ficam lotadas. Prefira passeios de manhã cedo ou ao anoitecer.`,
+        `Muitos cafés trazem água para os cães espontaneamente: a cultura pet-friendly está bem integrada em Praga.`,
       ],
     },
     practicalInfo: {
       fr: [
-        'Vétérinaire d\'urgence 24h/24 : Veterinární klinika Hloubětín, Slévačská 905, Prague 9, +420 281 911 219',
-        'Clinique centrale : Veterinární klinika Praha, Štefánikova 6, Prague 5, +420 257 320 191',
-        'Trains depuis Paris (Railjet) : les animaux em cage voyagent avec billet enfant sur les lignes internationales.',
-        'Aéroport Václav-Havel : animaux UE avec passeport valide admis sans quarantaine.',
+        `Vétérinaire d'urgence 24h/24 : Veterinární klinika Erika, náměstí Dr. Václava Holého 1049/8, Praha 8, +420 284 821 784`,
+        `Clinique 24h/24 : Medicanima, Voctářova 18, Praha 8 Palmovka, +420 252 252 111`,
+        `Trains depuis Paris (Railjet) : les animaux en sac voyagent avec billet enfant sur les lignes internationales.`,
+        `Aéroport Václav-Havel : animaux UE avec passeport valide admis sans quarantaine.`,
       ],
       en: [
-        '24/7 emergency vet: Veterinární klinika Hloubětín, Slévačská 905, Prague 9, +420 281 911 219',
-        'central clinic: Veterinární klinika Praha, Štefánikova 6, Prague 5, +420 257 320 191',
-        'Trains from Paris (Railjet): animals in carriers travel with a child ticket on international routes.',
-        'Václav Havel Airport: EU pets with valid passport admitted without quarantine.',
+        `24/7 emergency vet: Veterinární klinika Erika, náměstí Dr. Václava Holého 1049/8, Praha 8, +420 284 821 784`,
+        `24/7 clinic: Medicanima, Voctářova 18, Praha 8 Palmovka, +420 252 252 111`,
+        `Trains from Paris (Railjet): animals in carriers travel with a child ticket on international routes.`,
+        `Václav Havel Airport: EU pets with valid passport admitted without quarantine.`,
       ],
       es: [
-        'Veterinario de urgencias 24h: Veterinární klinika Hloubětín, Slévačská 905, Praga 9, +420 281 911 219',
-        'Clínica central: Veterinární klinika Praha, Štefánikova 6, Praga 5, +420 257 320 191',
-        'Trenes desde París (Railjet): animales em transportín viajan con billete de criança em líneas internacionales.',
-        'Aeropuerto Václav Havel: mascotas de a UE con passaporte válido admitidas sin cuarentena.',
+        `Veterinario de urgencias 24h: Veterinární klinika Erika, náměstí Dr. Václava Holého 1049/8, Praha 8, +420 284 821 784`,
+        `Clínica 24h: Medicanima, Voctářova 18, Praha 8 Palmovka, +420 252 252 111`,
+        `Trenes desde París (Railjet): los animales en transportín viajan con billete de niño en líneas internacionales.`,
+        `Aeropuerto Václav Havel: mascotas de la UE con pasaporte válido admitidas sin cuarentena.`,
       ],
       pt: [
-        'Veterinário de urgências 24h: Veterinární klinika Hloubětín, Slévačská 905, Praga 9, +420 281 911 219',
-        'Clínica central: Veterinární klinika Praha, Štefánikova 6, Praga 5, +420 257 320 191',
-        'Comboios a partir de París (Railjet): animales em transportadora viajan con bilhete de criança em líneas internacionales.',
-        'Aeroporto Václav Havel: animais da UE con passaporte válido admitidas sem cuarentena.',
+        `Veterinário de urgências 24h: Veterinární klinika Erika, náměstí Dr. Václava Holého 1049/8, Praha 8, +420 284 821 784`,
+        `Clínica 24h: Medicanima, Voctářova 18, Praha 8 Palmovka, +420 252 252 111`,
+        `Comboios a partir de Paris (Railjet): os animais em transportadora viajam com bilhete de criança nas linhas internacionais.`,
+        `Aeroporto Václav Havel: animais da UE com passaporte válido admitidos sem quarentena.`,
       ],
     },
   },

@@ -433,17 +433,85 @@
       "introEn": "Five things worth knowing before you arrive in Dublin with your dog.",
       "introFr": "Cinq choses à savoir avant d'arriver à Dublin avec votre chien.",
       "introEs": "Cinco cosas que vale la pena saber antes de llegar a Dublín con tu perro.",
-      "tipsEn": [],
-      "tipsFr": [],
-      "tipsEs": [],
+      "tipsEn": [
+        "Dogs must be on a lead at all times in Phoenix Park, including near the deer herds. The park covers 1,750 acres and certain enclosures are off-limits to dogs entirely. Keep your dog close when deer are visible, as chasing is a serious offence under Irish wildlife law.",
+        "Ireland requires all dogs to be microchipped and registered on an approved database (IKC, Fido, ICC, or Animark) under the Control of Dogs Act. Failure to carry proof of microchipping can result in fines of up to 5,000 euros. If you are travelling from outside Ireland, carry your pet passport and microchip certificate at all times.",
+        "Taxi drivers in Dublin are not legally required to accept dogs, but in practice the majority will. Uber and Free Now drivers are also at their own discretion. The safest approach for late-night or airport journeys is to book a pet-friendly taxi in advance through iCabbi or by calling a local cab company directly."
+      ],
+      "tipsFr": [
+        "Les chiens doivent rester en laisse en permanence dans Phoenix Park, y compris à proximité des hardes de cerfs. Le parc couvre 710 hectares et certaines enceintes sont totalement interdites aux chiens. Gardez votre chien proche de vous lorsque des cerfs sont visibles, car les poursuites constituent une infraction grave au droit irlandais de la protection de la faune.",
+        "La loi irlandaise (Control of Dogs Act) exige que tous les chiens soient pucés et enregistrés sur une base de données agréée (IKC, Fido, ICC ou Animark). Le défaut de justificatif de micropuce peut entraîner des amendes allant jusqu'à 5 000 euros. Si vous voyagez hors d'Irlande, ayez toujours sur vous le passeport de votre animal et le certificat de micropuce.",
+        "Les chauffeurs de taxi à Dublin ne sont pas légalement tenus d'accepter les chiens, mais la majorité le fait en pratique. Les chauffeurs Uber et Free Now sont également libres de leur choix. Pour les trajets tardifs ou vers l'aéroport, la solution la plus sûre est de réserver à l'avance un taxi pet-friendly via iCabbi ou en appelant directement une compagnie locale."
+      ],
+      "tipsEs": [
+        "Los perros deben ir con correa en todo momento en Phoenix Park, incluso cerca de las manadas de ciervos. El parque tiene 710 hectáreas y ciertos recintos están totalmente prohibidos para perros. Mantén a tu perro cerca cuando haya ciervos visibles, ya que perseguirlos es una infracción grave según la ley irlandesa de vida silvestre.",
+        "La ley irlandesa (Control of Dogs Act) exige que todos los perros estén microchipeados y registrados en una base de datos aprobada (IKC, Fido, ICC o Animark). No llevar el justificante del microchip puede conllevar multas de hasta 5.000 euros. Si viajas desde fuera de Irlanda, lleva siempre el pasaporte de tu animal y el certificado del microchip.",
+        "Los taxistas de Dublín no tienen obligación legal de aceptar perros, aunque en la práctica la mayoría lo hace. Los conductores de Uber y Free Now también tienen libertad de elección. Para trayectos nocturnos o al aeropuerto, lo más seguro es reservar con antelación un taxi pet-friendly a través de iCabbi o llamando directamente a una empresa de taxis local."
+      ],
       "places": [],
-      "faqsEn": [],
-      "faqsFr": [],
-      "faqsEs": [],
+      "faqsEn": [
+        {
+          "question": "Are dogs allowed on the DART and Luas in Dublin?",
+          "answer": "Yes. Dogs travel free on the DART (Dublin Area Rapid Transit) when kept on a lead and not occupying seats. Small dogs may sit on laps. The Luas tram also permits dogs on leads. Dublin Bus allows dogs on a short lead, with no carrier required. Note that the National Transport Authority launched a public consultation in 2026 on a uniform pet policy, so rules may be updated."
+        },
+        {
+          "question": "Can dogs go to Dollymount and Sandymount strands?",
+          "answer": "Dogs are permitted at Dollymount Strand on leads, and the beach has Good water quality classification. Sandymount Strand had a historical bathing prohibition due to water quality issues, which was lifted for the 2026 season. Always check current Dublin City Council notices before visiting, as water quality classifications can change seasonally."
+        },
+        {
+          "question": "What is the 24-hour emergency vet in Dublin?",
+          "answer": "Pet Emergency Hospital at UCD Belfield (01 260 9920) operates weeknights 6pm to 8am and is open 24 hours on weekends and bank holidays. MyVet Lucan Hospital provides 24-hour emergency care 365 days a year. Nutgrove Vets (01 295 1202) also offers out-of-hours emergency services in south Dublin."
+        }
+      ],
+      "faqsFr": [
+        {
+          "question": "Les chiens sont-ils autorisés dans le DART et le Luas à Dublin ?",
+          "answer": "Oui. Les chiens voyagent gratuitement dans le DART (Dublin Area Rapid Transit) s'ils sont tenus en laisse et ne sont pas assis sur les sièges. Les petits chiens peuvent être sur les genoux de leur propriétaire. Le tramway Luas accepte également les chiens en laisse. Dublin Bus autorise les chiens avec une laisse courte, sans transport requis. À noter que la NTA (Autorité nationale des transports) a lancé une consultation publique en 2026 sur une politique uniforme pour les animaux, ce qui pourrait faire évoluer les règles."
+        },
+        {
+          "question": "Les chiens peuvent-ils accéder aux plages de Dollymount et de Sandymount ?",
+          "answer": "Les chiens sont autorisés sur la plage de Dollymount tenus en laisse, et la qualité de l'eau y est classée Bonne. Sandymount Strand a connu une interdiction de baignade historique en raison de problèmes de qualité de l'eau, levée pour la saison 2026. Consultez toujours les avis actuels du Dublin City Council avant de vous y rendre, car les classements de qualité de l'eau peuvent évoluer en cours de saison."
+        },
+        {
+          "question": "Quel est le vétérinaire d'urgence 24h/24 à Dublin ?",
+          "answer": "Le Pet Emergency Hospital à UCD Belfield (01 260 9920) fonctionne en semaine de 18h à 8h et est ouvert 24h/24 les weekends et jours fériés. Le MyVet Lucan Hospital assure une prise en charge d'urgence 24h/24, 365 jours par an. Nutgrove Vets (01 295 1202) propose également des services d'urgence en dehors des heures ouvrables dans le sud de Dublin."
+        }
+      ],
+      "faqsEs": [
+        {
+          "question": "¿Se permiten perros en el DART y el Luas de Dublín?",
+          "answer": "Sí. Los perros viajan gratis en el DART (Dublin Area Rapid Transit) con correa y sin ocupar asientos. Los perros pequeños pueden ir en el regazo. El tranvía Luas también permite perros con correa. Dublin Bus admite perros con correa corta, sin necesidad de transportín. Ten en cuenta que la Autoridad Nacional de Transporte (NTA) inició en 2026 una consulta pública sobre una política uniforme para mascotas, por lo que las normas pueden actualizarse."
+        },
+        {
+          "question": "¿Pueden los perros ir a las playas de Dollymount y Sandymount?",
+          "answer": "Los perros están permitidos en Dollymount Strand con correa, y la playa tiene clasificación de calidad de agua Buena. Sandymount Strand tuvo una prohibición histórica de baño por problemas de calidad del agua, que se levantó para la temporada 2026. Consulta siempre los avisos actuales del Dublin City Council antes de ir, ya que las clasificaciones de calidad del agua pueden cambiar cada temporada."
+        },
+        {
+          "question": "¿Cuál es el veterinario de urgencias 24 horas en Dublín?",
+          "answer": "El Pet Emergency Hospital en UCD Belfield (01 260 9920) funciona entre semana de 18h a 8h y abre 24 horas durante los fines de semana y festivos. MyVet Lucan Hospital ofrece atención de urgencias las 24 horas, los 365 días del año. Nutgrove Vets (01 295 1202) también presta servicios de urgencias fuera del horario habitual en el sur de Dublín."
+        }
+      ],
       "titlePt": "Dicas essenciais para visitar Dublin com um cão",
       "introPt": "Cinco coisas que vale a pena saber antes de chegar a Dublin com o seu cão.",
-      "tipsPt": [],
-      "faqsPt": []
+      "tipsPt": [
+        "Os cães devem estar sempre com trela no Phoenix Park, incluindo nas proximidades das manadas de veados. O parque tem 710 hectares e certas zonas vedadas estão totalmente interditas a cães. Mantenha o seu cão perto quando houver veados visíveis, pois a perseguição constitui uma infração grave ao abrigo da lei irlandesa de proteção da vida selvagem.",
+        "A lei irlandesa (Control of Dogs Act) exige que todos os cães estejam com microchip e registados numa base de dados aprovada (IKC, Fido, ICC ou Animark). A falta de comprovativo de microchip pode resultar em coimas até 5.000 euros. Se viajar de fora da Irlanda, leve sempre o passaporte do seu animal e o certificado de microchip.",
+        "Os taxistas de Dublin não são legalmente obrigados a aceitar cães, mas, na prática, a maioria aceita. Os condutores de Uber e Free Now também têm liberdade de escolha. Para viagens noturnas ou ao aeroporto, a solução mais segura é reservar com antecedência um táxi pet-friendly através do iCabbi ou ligando diretamente para uma empresa de táxis local."
+      ],
+      "faqsPt": [
+        {
+          "question": "Os cães são permitidos no DART e no Luas em Dublin?",
+          "answer": "Sim. Os cães viajam gratuitamente no DART (Dublin Area Rapid Transit) com trela e sem ocupar lugares. Os cães pequenos podem ficar ao colo. O elétrico Luas também permite cães com trela. O Dublin Bus admite cães com trela curta, sem necessidade de transportadora. Note que a Autoridade Nacional de Transportes (NTA) abriu uma consulta pública em 2026 sobre uma política uniforme para animais, pelo que as regras podem ser atualizadas."
+        },
+        {
+          "question": "Os cães podem ir às praias de Dollymount e Sandymount?",
+          "answer": "Os cães são permitidos na Dollymount Strand com trela, e a praia tem classificação de qualidade da água Boa. A Sandymount Strand teve uma proibição histórica de banhos por problemas de qualidade da água, levantada para a época de 2026. Consulte sempre os avisos atuais do Dublin City Council antes de visitar, pois as classificações de qualidade da água podem mudar ao longo da época."
+        },
+        {
+          "question": "Qual é o veterinário de urgência 24 horas em Dublin?",
+          "answer": "O Pet Emergency Hospital na UCD Belfield (01 260 9920) funciona em dias úteis das 18h às 8h e está aberto 24 horas aos fins de semana e feriados. O MyVet Lucan Hospital presta cuidados de urgência 24 horas por dia, 365 dias por ano. O Nutgrove Vets (01 295 1202) também oferece serviços de urgência fora do horário normal no sul de Dublin."
+        }
+      ]
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Dublin",
@@ -535,6 +603,34 @@
           "googleMapsUrl": "https://www.rover.ie",
           "descriptionPt": "O Rover.ie é a plataforma irlandesa para encontrar sitters de cães, passeadores e famílias de acolhimento locais e verificados. Os anúncios de Dublin são extensos, com sitters disponíveis em todos os principais bairros, de Rathmines e Ranelagh, no lado sul, a Stoneybatter e Glasnevin, no norte. Todos os sitters têm perfis com avaliações, e o sistema de reserva e pagamento é gerido através da plataforma. Para reservas de última hora ou estadias de vários dias, o Rover é o ponto de partida mais prático para os visitantes.",
           "servicesPt": "Pet-sitting ao domicílio, alojamento, passeio de cães, visitas pontuais"
+        },
+        {
+          "name": "Pet Sitters Ireland",
+          "address": "Nationwide, including all Dublin areas",
+          "website": "https://www.petsittersireland.com",
+          "descriptionEn": "Pet Sitters Ireland is one of Ireland's most established professional pet care networks, awarded Pet Sitting Business of the Year 2025 and Pet Care Business of the Year 2026. They operate across Dublin with fully insured sitters who provide in-home care, minimising the disruption of a kennel stay. Rates run from 30 to 50 euros per night when your dog stays at the sitter's home, or 40 to 60 euros per night for care in your own accommodation. All sitters are vetted and DBS-checked.",
+          "descriptionFr": "Pet Sitters Ireland est l'un des réseaux professionnels de garde d'animaux les plus établis d'Irlande, récompensé Entreprise de pet-sitting de l'année 2025 et Entreprise de soins animaliers de l'année 2026. Ils interviennent dans tout Dublin avec des gardiens assurés qui proposent des soins à domicile, limitant le stress d'un séjour en chenil. Les tarifs vont de 30 à 50 euros par nuit quand votre chien dort chez le gardien, ou de 40 à 60 euros par nuit pour une garde dans votre logement. Tous les gardiens sont vérifiés.",
+          "descriptionEs": "Pet Sitters Ireland es una de las redes de cuidado de mascotas más establecidas de Irlanda, galardonada como Empresa de Pet-sitting del Año 2025 y Empresa de Cuidado de Mascotas del Año 2026. Opera en toda Dublín con cuidadores asegurados que ofrecen atención en el domicilio, minimizando el estrés de una estancia en una perrera. Las tarifas van de 30 a 50 euros por noche cuando tu perro se queda en casa del cuidador, o de 40 a 60 euros por noche para el cuidado en tu propio alojamiento. Todos los cuidadores están verificados.",
+          "services": "In-home dog sitting, dog boarding, dog walking, holiday care",
+          "servicesFr": "Garde à domicile, pension chez le gardien, promenade, garde vacances",
+          "servicesEs": "Cuidado en domicilio, alojamiento en casa del cuidador, paseo, cuidado vacacional",
+          "googleMapsUrl": "https://www.petsittersireland.com",
+          "descriptionPt": "A Pet Sitters Ireland é uma das redes de cuidado de animais de estimação mais estabelecidas da Irlanda, distinguida como Empresa de Pet-sitting do Ano 2025 e Empresa de Cuidados de Animais do Ano 2026. Opera em todo o Dublin com sitters totalmente segurados que prestam cuidados em casa, minimizando o stress de uma estadia num canil. As tarifas vão de 30 a 50 euros por noite quando o seu cão fica em casa do sitter, ou de 40 a 60 euros por noite para cuidados no seu próprio alojamento. Todos os sitters são verificados.",
+          "servicesPt": "Pet-sitting ao domicílio, alojamento em casa do sitter, passeio de cães, cuidados durante férias"
+        },
+        {
+          "name": "Dog Walkers Dublin",
+          "address": "Dublin city and suburbs",
+          "website": "https://dogwalkersdublin.com",
+          "descriptionEn": "Dog Walkers Dublin is a dedicated dog walking and pet sitting service operating across the city. All staff are vetted and the service offers group and individual walks, suited to different dog temperaments and sizes. For visitors who need a reliable walker during a full day of sightseeing, the service covers most Dublin postcodes and can accommodate same-day or short-notice bookings. An individual 30-minute walk costs approximately 18 euros.",
+          "descriptionFr": "Dog Walkers Dublin est un service de promenade et de garde dédié aux chiens, opérant dans toute la ville. Tout le personnel est vérifié et le service propose des promenades en groupe ou individuelles, adaptées aux différents tempéraments et tailles de chiens. Pour les visiteurs qui ont besoin d'un promeneur fiable le temps d'une journée de visites, le service couvre la plupart des codes postaux dublinois et peut s'adapter aux réservations de dernière minute. Une promenade individuelle de 30 minutes coûte environ 18 euros.",
+          "descriptionEs": "Dog Walkers Dublin es un servicio dedicado de paseo y cuidado de perros que opera en toda la ciudad. Todo el personal está verificado y el servicio ofrece paseos en grupo e individuales, adaptados a los diferentes temperamentos y tamaños de perros. Para los visitantes que necesitan un paseador fiable durante un día completo de turismo, el servicio cubre la mayoría de los códigos postales de Dublín y puede aceptar reservas de última hora. Un paseo individual de 30 minutos cuesta aproximadamente 18 euros.",
+          "services": "Dog walking (group and individual), dog sitting, pet taxi",
+          "servicesFr": "Promenade (groupe et individuelle), garde à domicile, taxi animalier",
+          "servicesEs": "Paseo (grupal e individual), cuidado en domicilio, taxi para mascotas",
+          "googleMapsUrl": "https://maps.google.com/?q=Dog+Walkers+Dublin",
+          "descriptionPt": "O Dog Walkers Dublin é um serviço dedicado de passeio e cuidado de cães que opera em toda a cidade. Todo o pessoal é verificado e o serviço oferece passeios em grupo e individuais, adaptados a diferentes temperamentos e tamanhos de cães. Para visitantes que precisam de um passeador fiável durante um dia inteiro de turismo, o serviço cobre a maioria dos códigos postais de Dublin e pode acomodar reservas de última hora. Um passeio individual de 30 minutos custa aproximadamente 18 euros.",
+          "servicesPt": "Passeio de cães (em grupo e individual), pet-sitting ao domicílio, táxi para animais"
         }
       ],
       "titlePt": "Pet-sitting e passeio de cães em Dublin",

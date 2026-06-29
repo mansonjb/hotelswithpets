@@ -132,36 +132,25 @@ slug: {
 
 Include at least one pet-SPECIFIC local rule per section (transport policy, summer heat warning, beach seasonal ban, emergency vet number, etc.).
 
-### Step 9 — Add 5 real hotels to hotels.json
+### Step 9 — Scrape hotels automatically
 
-Research on Booking.com for each hotel:
-- Exact name
-- Stars (1–5)
-- Guest rating (out of 10)
-- Review count
-- Price from (EUR/GBP/etc)
-- Booking.com URL
-- Pet fee per night (check House rules)
-- Pet policy (2-3 sentences)
-- 3 highlights
+Run the scraper after adding the city to `destinations.json` (Step 5). It filters by `pets_allowed=1` on Booking.com, downloads 1 cover photo per hotel, and saves incrementally to `hotels.json`.
 
-Categories to pick from: `dog-friendly`, `cat-friendly`, `near-parks`, `luxury-pet-friendly`, `budget-pet-friendly`, `dogs-stay-free` (if petFee=0), `boutique-pet-friendly`.
+```bash
+node scripts/scrape-booking.mjs --missing
+```
 
-Mix price points: 1 luxury + 2–3 mid-range + 1–2 budget.
+This picks up every destination with 0 hotels — including the one just added. 8 hotels per destination, images downloaded automatically to `public/images/hotels/`.
 
-**Verify every hotel's pet policy via web search before adding.** If you cannot verify pets are allowed, DO NOT include the hotel.
+No manual hotel research needed. If `--missing` returns "Nothing to scrape", the city already has hotels (unexpected — investigate).
 
-### Step 10 — Download hotel + place photos (via Apify, NOT Google)
+### Step 10 — Download place photos (via Apify, NOT Google)
 
 ```bash
 node scripts/fetch-city-place-photos-apify.mjs --city=slug   # all missing places for this city
 ```
 
-For hotel photos near a city, use the Apify discovery fetcher (writes a review manifest, does not touch hotels.json):
-
-```bash
-node scripts/fetch-hotels-apify.mjs slug    # discover pet-friendly hotels + photos near the city
-```
+Hotel photos are already downloaded by Step 9 (scrape-booking.mjs). No separate hotel photo fetch needed.
 
 The legacy Google scripts (`fetch-hotel-photos-google.mjs`, `fetch-city-guide-photos.mjs`, `fetch-destination-photos.mjs`) are kept as fallback only — they bill the Google Cloud account at ~$0.04/photo and must NOT be used routinely. Apify is ~13x cheaper.
 
@@ -249,9 +238,10 @@ Remaining warnings: {list}
 
 ## 5. KEY SCRIPTS (use these, don't reinvent)
 
+- `scripts/scrape-booking.mjs --missing` — scrape hotels for all destinations with 0 hotels (Booking.com, runs after Step 5) ← USE THIS
 - `scripts/fetch-destination-photos-apify.mjs [--slug=x]` — hero image per city (Apify, cheap) ← USE THIS
 - `scripts/fetch-city-place-photos-apify.mjs [--city=slug]` — fills missing place photos (Apify, cheap) ← USE THIS
-- `scripts/fetch-hotels-apify.mjs <slug>` — discover pet-friendly hotels + photos near a city (Apify)
+- `scripts/fetch-hotels-apify.mjs <slug>` — discover pet-friendly hotels + photos near a city (Apify, optional enrichment)
 - `scripts/fetch-destination-photos.mjs` / `fetch-hotel-photos-google.mjs` / `fetch-city-guide-photos.mjs` — LEGACY Google (expensive, fallback only)
 - `scripts/audit-destinations.mjs` — full parity audit, 0 errors = shippable
 - `scripts/check-i18n.mjs` — pre-build i18n validation

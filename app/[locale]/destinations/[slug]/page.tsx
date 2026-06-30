@@ -314,39 +314,123 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         )
       })()}
 
-      {/* ── Paris-only: arrondissement hub link ── */}
-      {slug === 'paris' && (
-        <section className="py-8 bg-blue-50 border-y border-blue-200">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row sm:items-center gap-4">
-            <div className="flex-1">
-              <p className="text-xs font-bold uppercase tracking-widest text-blue-700 mb-1">
-                {locale === 'fr' ? '🐾 Paris par arrondissement' : locale === 'es' ? '🐾 París por distrito' : locale === 'pt' ? '🐾 Paris por arrondissement' : '🐾 Paris by arrondissement'}
-              </p>
-              <h2 className="text-lg sm:text-xl font-extrabold text-stone-900 mb-1">
-                {locale === 'fr' ? `Les 20 arrondissements de Paris, quartier par quartier` :
-                 locale === 'es' ? 'Los 20 arrondissements de París, barrio por barrio' :
-                 locale === 'pt' ? 'Os 20 arrondissements de Paris, bairro a bairro' :
-                 'The 20 Paris arrondissements, neighbourhood by neighbourhood'}
-              </h2>
-              <p className="text-sm text-stone-700">
-                {locale === 'fr' ? `Parcs ouverts aux chiens, vétérinaires, hôtels et politique chien par quartier.` :
-                 locale === 'es' ? 'Parques abiertos a perros, veterinarios, hoteles y política canina por barrio.' :
-                 locale === 'pt' ? 'Parques abertos a cães, veterinários, hotéis e política canina por bairro.' :
-                 'Parks open to dogs, vets, hotels and dog policy by neighbourhood.'}
-              </p>
+      {/* ── Paris-only: rich arrondissement grid encart ── */}
+      {slug === 'paris' && (() => {
+        const parisArrCopy = {
+          en: {
+            badge: '🐾 Complete guide',
+            title: 'Paris neighbourhood by neighbourhood: find your perfect pet-friendly base',
+            subtitle: '60 verified hotels across all 20 arrondissements - parks, vets and dog policies included.',
+            cta1: 'See all 20 arrondissements',
+            cta2: 'Best hotels by arrondissement',
+          },
+          fr: {
+            badge: '🐾 Guide complet',
+            title: 'Paris quartier par quartier : trouvez votre base pet-friendly ideale',
+            subtitle: '60 hotels verifies dans les 20 arrondissements - parcs, vets et politique chien inclus.',
+            cta1: 'Voir les 20 arrondissements',
+            cta2: 'Meilleurs hotels par arrondissement',
+          },
+          es: {
+            badge: '🐾 Guia completa',
+            title: 'Paris barrio por barrio: encuentra tu base pet-friendly perfecta',
+            subtitle: '60 hoteles verificados en los 20 arrondissements - parques, veterinarios y politica canina incluidos.',
+            cta1: 'Ver los 20 arrondissements',
+            cta2: 'Mejores hoteles por arrondissement',
+          },
+          pt: {
+            badge: '🐾 Guia completo',
+            title: 'Paris bairro a bairro: encontre a sua base pet-friendly perfeita',
+            subtitle: '60 hoteis verificados nos 20 arrondissements - parques, veterinarios e politica canina incluidos.',
+            cta1: 'Ver os 20 arrondissements',
+            cta2: 'Melhores hoteis por arrondissement',
+          },
+        } as const
+        type PALocale = keyof typeof parisArrCopy
+        const tpa = parisArrCopy[(locale as PALocale) in parisArrCopy ? (locale as PALocale) : 'en']
+        const parisArrSlugs = [
+          { slug: '1er', popularName: 'Louvre' },
+          { slug: '2e', popularName: 'Bourse' },
+          { slug: '3e', popularName: 'Temple' },
+          { slug: '4e', popularName: 'Marais' },
+          { slug: '5e', popularName: 'Quartier Latin' },
+          { slug: '6e', popularName: 'Saint-Germain' },
+          { slug: '7e', popularName: 'Tour Eiffel' },
+          { slug: '8e', popularName: 'Champs-Elysees' },
+          { slug: '9e', popularName: 'Opera' },
+          { slug: '10e', popularName: 'Canal St-Martin' },
+          { slug: '11e', popularName: 'Bastille' },
+          { slug: '12e', popularName: 'Bercy' },
+          { slug: '13e', popularName: 'Gobelins' },
+          { slug: '14e', popularName: 'Montparnasse' },
+          { slug: '15e', popularName: 'Vaugirard' },
+          { slug: '16e', popularName: 'Passy' },
+          { slug: '17e', popularName: 'Batignolles' },
+          { slug: '18e', popularName: 'Montmartre' },
+          { slug: '19e', popularName: 'Buttes-Chaumont' },
+          { slug: '20e', popularName: 'Menilmontant' },
+        ]
+        return (
+          <section className="mx-4 sm:mx-6 lg:mx-8 my-8">
+            <div className="bg-gradient-to-br from-stone-900 to-stone-800 rounded-3xl overflow-hidden">
+              {/* Header */}
+              <div className="px-6 sm:px-10 pt-8 pb-6">
+                <span className="inline-block bg-amber-400 text-stone-900 text-xs font-black px-3 py-1 rounded-full mb-4">
+                  {tpa.badge}
+                </span>
+                <h2 className="text-3xl font-extrabold text-white mb-2 leading-tight">
+                  {tpa.title}
+                </h2>
+                <p className="text-stone-300 text-sm">
+                  {tpa.subtitle}
+                </p>
+              </div>
+
+              {/* Grid of arrondissements */}
+              <div className="px-6 sm:px-10 pb-6">
+                <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 gap-3">
+                  {parisArrSlugs.map((a) => (
+                    <Link
+                      key={a.slug}
+                      href={`/${locale}/destinations/paris/arrondissements/${a.slug}`}
+                      className="group relative rounded-xl overflow-hidden aspect-[4/3] hover:scale-[1.03] transition-transform duration-200"
+                    >
+                      <Image
+                        src={`/images/paris-arrondissements/${a.slug}.jpg`}
+                        alt={`${a.popularName} - Paris ${a.slug}`}
+                        fill
+                        sizes="(max-width: 640px) 50vw, (max-width: 1024px) 25vw, 20vw"
+                        className="object-cover"
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
+                      <div className="absolute bottom-0 left-0 right-0 p-2">
+                        <p className="text-white font-black text-sm leading-none">{a.slug}</p>
+                        <p className="text-white/80 text-xs mt-0.5 leading-tight">{a.popularName}</p>
+                      </div>
+                    </Link>
+                  ))}
+                </div>
+              </div>
+
+              {/* Footer CTAs */}
+              <div className="px-6 sm:px-10 pb-8 flex flex-col sm:flex-row gap-3">
+                <Link
+                  href={`/${locale}/destinations/paris/arrondissements`}
+                  className="flex-1 sm:flex-none inline-flex items-center justify-center bg-white text-stone-900 font-bold px-6 py-3 rounded-xl hover:bg-stone-100 transition-colors text-sm text-center"
+                >
+                  {tpa.cta1} →
+                </Link>
+                <Link
+                  href={`/${locale}/destinations/paris/pet-friendly-hotels-by-arrondissement`}
+                  className="flex-1 sm:flex-none inline-flex items-center justify-center border border-white text-white font-bold px-6 py-3 rounded-xl hover:bg-white/10 transition-colors text-sm text-center"
+                >
+                  {tpa.cta2} →
+                </Link>
+              </div>
             </div>
-            <Link
-              href={`/${locale}/destinations/paris/arrondissements`}
-              className="flex-shrink-0 inline-block bg-blue-700 text-white px-5 py-2.5 rounded-full font-bold text-sm hover:bg-blue-800 transition-colors shadow-sm"
-            >
-              {locale === 'fr' ? 'Voir les 20 arrondissements →' :
-               locale === 'es' ? 'Ver los 20 arrondissements →' :
-               locale === 'pt' ? 'Ver os 20 arrondissements →' :
-               'See the 20 arrondissements →'}
-            </Link>
-          </div>
-        </section>
-      )}
+          </section>
+        )
+      })()}
 
       {/* ── Map (high-conversion: first booking came from this component) ── */}
       {'lat' in dest && 'lng' in dest && (

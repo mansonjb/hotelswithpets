@@ -18,6 +18,8 @@ import cityContent from '@/lib/cityContent'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
 import SisterSites from '@/components/SisterSites'
+import RelatedDestinations from '@/components/RelatedDestinations'
+import { getVibes, getSimilarDestinations, getCountryDestinations } from '@/lib/destination-similarity'
 
 type DestWithWeather = typeof destinations[number] & {
   weather?: Record<string, { temp: number; desc: string; icon: string }>
@@ -115,10 +117,12 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
   const presentCategorySlugs = new Set(destHotels.flatMap((h) => h.categories))
   const presentCategories = categories.filter((c) => presentCategorySlugs.has(c.slug))
 
-  // Related destinations: same country, exclude self, up to 4
-  const relatedDests = destinations
-    .filter((d) => d.country === dest.country && d.slug !== slug)
-    .slice(0, 4)
+  // Visual internal linking: vibes, similar destinations, country destinations
+  const currentVibes = getVibes(slug, hotels)
+  const similarDests = getSimilarDestinations(slug, destinations, hotels, 6)
+  const countryDests = getCountryDestinations(slug, dest.country, destinations, hotels, 6)
+  // Quick links strip (mid-page): next 4-6 country destinations after the 6 shown in footer cards
+  const quickLinks = getCountryDestinations(slug, dest.country, destinations, hotels, 10).slice(6, 10)
 
   const hasGuide = existsSync(join(process.cwd(), `data/city-guides/${slug}.json`))
 
@@ -468,6 +472,29 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           )}
         </div>
       </section>
+
+      {/* Quick navigation strip - mid-page internal links */}
+      {quickLinks.length > 0 && (
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 my-6">
+          <div className="bg-gradient-to-r from-blue-50 to-teal-50 border border-blue-100 rounded-2xl px-5 py-4">
+            <p className="text-xs font-semibold text-blue-600 uppercase tracking-wide mb-3">
+              {locale === 'fr' ? `Aussi en ${getLocalizedCountryName(dest.country, 'fr')}` : locale === 'es' ? `También en ${getLocalizedCountryName(dest.country, 'es')}` : locale === 'pt' ? `Também em ${getLocalizedCountryName(dest.country, 'pt')}` : `Also in ${dest.country}`}
+            </p>
+            <div className="flex flex-wrap gap-2">
+              {quickLinks.map((d) => (
+                <Link
+                  key={d.slug}
+                  href={`/${locale}/destinations/${d.slug}`}
+                  className="inline-flex items-center gap-1.5 bg-white border border-blue-200 rounded-full px-3 py-1.5 text-sm font-medium text-blue-700 hover:bg-blue-50 transition-colors"
+                >
+                  <span>{d.flag}</span>
+                  <span>{getLocalizedCityName(d.slug, d.name, locale)}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* Flight + hotel search widget (Travelpayouts), pre-filled with this destination's IATA */}
       <TravelpayoutsFlightWidget
@@ -838,32 +865,15 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         </div>
       </section>
       <SisterSites slug={slug} locale={locale} />
-      {/* Related destinations in same country */}
-      {relatedDests.length > 0 && (
-        <section className="py-12 bg-gray-50 border-t border-gray-100">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-5">
-              {locale === 'fr'
-                ? `Plus de destinations en ${getLocalizedCountryName(dest.country, 'fr')}`
-                : locale === 'es'
-                ? `Más destinos en ${getLocalizedCountryName(dest.country, 'es')}`
-                : `More destinations in ${dest.country}`}
-            </h2>
-            <div className="flex flex-wrap gap-3">
-              {relatedDests.map((related) => (
-                <Link
-                  key={related.slug}
-                  href={`/${locale}/destinations/${related.slug}`}
-                  className="inline-flex items-center gap-2 bg-white border border-gray-200 rounded-full px-5 py-2.5 text-sm font-medium text-gray-700 hover:border-blue-300 hover:text-blue-700 transition-colors shadow-sm"
-                >
-                  <span>{related.flag}</span>
-                  <span>{getLocalizedCityName(related.slug, related.name, locale)}</span>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
+      {/* Related destinations: visual cards (similar vibes + same country) */}
+      <RelatedDestinations
+        similarDests={similarDests}
+        countryDests={countryDests}
+        currentSlug={slug}
+        currentCountry={getLocalizedCountryName(dest.country, locale)}
+        currentVibes={currentVibes}
+        locale={locale}
+      />
     </div>
     </>
   )

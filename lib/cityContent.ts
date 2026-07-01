@@ -14290,6 +14290,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  lanzarote: {
+    history: {
+      fr: `Lanzarote est une île née du feu : les éruptions de 1730 à 1736 ensevelirent un quart de ses terres sous la lave et dessinèrent les paysages lunaires de Timanfaya. De cette catastrophe, les habitants ont tiré un art de vivre unique, cultivant la vigne dans des cratères de cendre noire à La Geria. Au XXe siècle, l'artiste César Manrique a imposé une vision qui a sauvé l'île du béton : maisons blanches, hauteur limitée, et des œuvres qui fusionnent art et volcan, des Jameos del Agua au Mirador del Río. Classée réserve de biosphère par l'UNESCO en 1993, Lanzarote reste une destination à part dans les Canaries. Avec un chien, on y savoure les sentiers volcaniques, les villages de pêcheurs et la douceur du climat, en composant avec des règles de plage strictes en zone touristique.`,
+      en: `Lanzarote is an island born of fire: the eruptions of 1730 to 1736 buried a quarter of its land under lava and shaped the lunar landscapes of Timanfaya. From that catastrophe the islanders drew a unique way of life, growing vines in black ash craters at La Geria. In the 20th century, artist César Manrique imposed a vision that saved the island from concrete: white houses, limited building heights, and works fusing art and volcano, from Jameos del Agua to Mirador del Río. Declared a UNESCO biosphere reserve in 1993, Lanzarote remains a destination apart in the Canaries. With a dog, you savour the volcanic trails, the fishing villages and the gentle year-round climate, while working around strict beach rules in the resort areas.`,
+      es: `Lanzarote es una isla nacida del fuego: las erupciones de 1730 a 1736 sepultaron una cuarta parte de sus tierras bajo la lava y dibujaron los paisajes lunares de Timanfaya. De aquella catástrofe, los isleños sacaron una forma de vivir única, cultivando la viña en hoyos de ceniza negra en La Geria. En el siglo XX, el artista César Manrique impuso una visión que salvó la isla del hormigón: casas blancas, altura limitada y obras que funden arte y volcán, de los Jameos del Agua al Mirador del Río. Declarada reserva de la biosfera por la UNESCO en 1993, Lanzarote sigue siendo un destino aparte en Canarias. Con perro se disfrutan los senderos volcánicos, los pueblos marineros y la suavidad del clima, lidiando con normas de playa estrictas en las zonas turísticas.`,
+      pt: `Lanzarote é uma ilha nascida do fogo: as erupções de 1730 a 1736 sepultaram um quarto das suas terras sob a lava e desenharam as paisagens lunares de Timanfaya. Dessa catástrofe, os ilhéus tiraram uma forma de viver única, cultivando a vinha em covas de cinza negra em La Geria. No século XX, o artista César Manrique impôs uma visão que salvou a ilha do betão: casas brancas, altura limitada e obras que fundem arte e vulcão, dos Jameos del Agua ao Mirador del Río. Declarada reserva da biosfera pela UNESCO em 1993, Lanzarote continua a ser um destino à parte nas Canárias. Com um cão, saboreiam-se os trilhos vulcânicos, as aldeias piscatórias e a suavidade do clima, contornando regras de praia rigorosas nas zonas turísticas.`,
+    },
+    sights: [
+      {
+        name: `Parque Nacional de Timanfaya`,
+        emoji: '🌋',
+        petFriendly: false,
+        desc: {
+          fr: `Les Montañas del Fuego forment un océan de laves figées où la terre fume encore. Le parc national se visite en bus ou en voiture sur circuit guidé et les chiens n'y sont pas admis sur les sentiers : admirez les volcans depuis les routes et miradors périphériques.`,
+          en: `The Montañas del Fuego form an ocean of frozen lava where the ground still steams. The national park is visited by bus or car on a guided circuit and dogs are not admitted on the trails: admire the volcanoes from the surrounding roads and viewpoints.`,
+          es: `Las Montañas del Fuego forman un océano de lava petrificada donde la tierra aún humea. El parque nacional se visita en guagua o en coche por circuito guiado y los perros no se admiten en los senderos: admira los volcanes desde las carreteras y miradores del entorno.`,
+          pt: `As Montañas del Fuego formam um oceano de lava petrificada onde a terra ainda fumega. O parque nacional visita-se de autocarro ou de carro em circuito guiado e os cães não são admitidos nos trilhos: admire os vulcões a partir das estradas e miradouros em redor.`,
+        },
+      },
+      {
+        name: `Playa de Guacimeta`,
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Près de l'aéroport, entre Playa Honda et Matagorda, cette plage de sable abrite la zone canine la plus connue de l'île, où les chiens peuvent courir et se baigner. Le ballet des avions à l'atterrissage ajoute un spectacle inattendu à la promenade.`,
+          en: `Near the airport, between Playa Honda and Matagorda, this sandy beach hosts the island's best-known dog zone, where dogs can run and swim. The ballet of landing planes adds an unexpected show to the walk.`,
+          es: `Junto al aeropuerto, entre Playa Honda y Matagorda, esta playa de arena acoge la zona canina más conocida de la isla, donde los perros pueden correr y bañarse. El ballet de los aviones aterrizando añade un espectáculo inesperado al paseo.`,
+          pt: `Junto ao aeroporto, entre Playa Honda e Matagorda, esta praia de areia acolhe a zona canina mais conhecida da ilha, onde os cães podem correr e nadar. O bailado dos aviões a aterrar acrescenta um espetáculo inesperado ao passeio.`,
+        },
+      },
+      {
+        name: `Caleta de Famara`,
+        emoji: '🏄',
+        petFriendly: true,
+        desc: {
+          fr: `Ce village de surfeurs aux rues de sable fait face à l'immense falaise de Famara, l'un des paysages les plus puissants de l'île. Balade en laisse le long du rivage et ambiance décontractée en terrasse ; la baignade des chiens reste soumise à la signalisation locale.`,
+          en: `This surf village with sand streets faces the immense Famara cliff, one of the island's most powerful landscapes. Walk on lead along the shore and enjoy the laid-back terrace vibe; dog swimming remains subject to local signage.`,
+          es: `Este pueblo surfero de calles de arena mira al inmenso risco de Famara, uno de los paisajes más potentes de la isla. Paseo con correa por la orilla y ambiente relajado en las terrazas; el baño de los perros queda sujeto a la señalización local.`,
+          pt: `Esta aldeia de surfistas com ruas de areia está virada para a imensa falésia de Famara, uma das paisagens mais poderosas da ilha. Passeio com trela ao longo da margem e ambiente descontraído nas esplanadas; o banho dos cães fica sujeito à sinalização local.`,
+        },
+      },
+      {
+        name: `La Geria`,
+        emoji: '🍇',
+        petFriendly: true,
+        desc: {
+          fr: `La vallée viticole de Lanzarote aligne des milliers d'entonnoirs de cendre noire où poussent les vignes de malvasía, protégées par des murets de pierre. Un paysage agricole unique au monde, à parcourir en laisse le long de la route des vins, avec dégustations en terrasse dans plusieurs bodegas.`,
+          en: `Lanzarote's wine valley lines up thousands of black ash funnels where malvasía vines grow, protected by low stone walls. A farming landscape unique in the world, to explore on lead along the wine route, with terrace tastings at several bodegas.`,
+          es: `El valle vinícola de Lanzarote alinea miles de hoyos de ceniza negra donde crecen las viñas de malvasía, protegidas por muretes de piedra. Un paisaje agrícola único en el mundo, para recorrer con correa por la ruta del vino, con catas en terraza en varias bodegas.`,
+          pt: `O vale vinícola de Lanzarote alinha milhares de covas de cinza negra onde crescem as vinhas de malvasia, protegidas por muretes de pedra. Uma paisagem agrícola única no mundo, para percorrer com trela ao longo da rota do vinho, com provas em esplanada em várias adegas.`,
+        },
+      },
+      {
+        name: `El Golfo y el Charco Verde`,
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Le lagon vert d'El Golfo, cratère à demi englouti par l'océan, contraste avec le sable noir et les falaises ocre. Le sentier du belvédère se fait en laisse, et le village de pêcheurs voisin aligne des terrasses de poisson grillé face au couchant.`,
+          en: `The green lagoon of El Golfo, a crater half-swallowed by the ocean, contrasts with black sand and ochre cliffs. The viewpoint path can be walked on lead, and the neighbouring fishing village lines up grilled-fish terraces facing the sunset.`,
+          es: `El charco verde de El Golfo, un cráter medio engullido por el océano, contrasta con la arena negra y los acantilados ocres. El sendero del mirador se hace con correa, y el pueblo pesquero vecino alinea terrazas de pescado a la brasa frente al atardecer.`,
+          pt: `A lagoa verde de El Golfo, uma cratera meio engolida pelo oceano, contrasta com a areia negra e as falésias ocres. O trilho do miradouro faz-se com trela, e a aldeia piscatória vizinha alinha esplanadas de peixe grelhado viradas para o pôr do sol.`,
+        },
+      },
+      {
+        name: `Jameos del Agua`,
+        emoji: '🎨',
+        petFriendly: false,
+        desc: {
+          fr: `Chef-d'œuvre de César Manrique aménagé dans un tunnel de lave, avec son lac souterrain aux crabes albinos et sa piscine turquoise. Les chiens ne sont pas admis dans les centres d'art et de culture de l'île : prévoyez la visite en relais avec votre compagnon de voyage.`,
+          en: `César Manrique's masterpiece set in a lava tunnel, with its underground lake of albino crabs and turquoise pool. Dogs are not admitted in the island's art and culture centres: plan to take turns visiting with your travel companion.`,
+          es: `Obra maestra de César Manrique acondicionada en un túnel de lava, con su lago subterráneo de cangrejos albinos y su piscina turquesa. Los perros no se admiten en los centros de arte y cultura de la isla: organiza la visita por turnos con tu acompañante.`,
+          pt: `Obra-prima de César Manrique instalada num túnel de lava, com o seu lago subterrâneo de caranguejos albinos e a piscina turquesa. Os cães não são admitidos nos centros de arte e cultura da ilha: organize a visita por turnos com o seu companheiro de viagem.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les chiens sont interdits sur la plupart des plages touristiques de l'île (Playa Blanca, Puerto del Carmen, Costa Teguise) toute l'année : la zone canine documentée est la Playa de Guacimeta près de l'aéroport.`,
+        `Le soleil tape fort toute l'année et l'ombre est rare sur les champs de lave : marchez tôt le matin, emportez beaucoup d'eau et protégez les coussinets de la roche volcanique abrasive.`,
+        `La laisse est obligatoire dans les espaces publics et les races dites PPP doivent porter la muselière en Espagne.`,
+        `Le vent des alizés peut être violent, surtout à Famara : sécurisez gamelles et parasols et méfiez-vous des courants si votre chien se baigne.`,
+        `Pour venir ou repartir en avion ou en ferry inter-îles, réservez la place de l'animal à l'avance, les compagnies limitent le nombre d'animaux par trajet.`,
+      ],
+      en: [
+        `Dogs are banned from most of the island's resort beaches (Playa Blanca, Puerto del Carmen, Costa Teguise) year round: the documented dog zone is Playa de Guacimeta near the airport.`,
+        `The sun is strong all year and shade is scarce on the lava fields: walk early, carry plenty of water and protect paw pads from the abrasive volcanic rock.`,
+        `Leads are compulsory in public spaces and breeds classed as PPP must be muzzled in Spain.`,
+        `The trade winds can be fierce, especially at Famara: secure bowls and parasols and beware of currents if your dog swims.`,
+        `For flights or inter-island ferries, book your pet's place in advance, carriers limit the number of animals per journey.`,
+      ],
+      es: [
+        `Los perros están prohibidos en la mayoría de las playas turísticas de la isla (Playa Blanca, Puerto del Carmen, Costa Teguise) todo el año: la zona canina documentada es la Playa de Guacimeta, junto al aeropuerto.`,
+        `El sol pega fuerte todo el año y la sombra escasea en los campos de lava: pasea temprano, lleva agua de sobra y protege las almohadillas de la roca volcánica abrasiva.`,
+        `La correa es obligatoria en los espacios públicos y las razas PPP deben llevar bozal en España.`,
+        `El viento alisio puede ser fuerte, sobre todo en Famara: asegura cuencos y sombrillas y cuidado con las corrientes si tu perro se baña.`,
+        `Para volar o tomar el ferry entre islas, reserva la plaza del animal con antelación, las compañías limitan el número de mascotas por trayecto.`,
+      ],
+      pt: [
+        `Os cães estão proibidos na maioria das praias turísticas da ilha (Playa Blanca, Puerto del Carmen, Costa Teguise) todo o ano: a zona canina documentada é a Playa de Guacimeta, junto ao aeroporto.`,
+        `O sol é forte todo o ano e a sombra escasseia nos campos de lava: passeie cedo, leve água em abundância e proteja as almofadas das patas da rocha vulcânica abrasiva.`,
+        `A trela é obrigatória nos espaços públicos e as raças classificadas como PPP devem usar açaime em Espanha.`,
+        `O vento alísio pode ser forte, sobretudo em Famara: prenda taças e guarda-sóis e cuidado com as correntes se o seu cão nadar.`,
+        `Para voar ou apanhar o ferry entre ilhas, reserve o lugar do animal com antecedência, as companhias limitam o número de animais por viagem.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cliniques vétérinaires à Arrecife et dans les principales stations ; l'île dispose de services d'urgence vétérinaire, votre hébergement saura indiquer la garde du moment`,
+        `Numéro d'urgence européen : 112, valable dans tout l'archipel canarien`,
+        `Animaleries à Arrecife et dans les centres commerciaux ; rayons animaux dans les grands supermarchés des stations`,
+        `Bus (guaguas) : petits animaux en caisse de transport uniquement ; en taxi, l'acceptation dépend du chauffeur, annoncez le chien à la réservation`,
+        `Canaries : passeport européen, puce et vaccin antirabique à jour ; pas de quarantaine depuis l'UE continentale`,
+      ],
+      en: [
+        `Veterinary clinics in Arrecife and the main resorts; the island has emergency vet services, your accommodation will know who is on duty`,
+        `European emergency number: 112, valid across the Canary archipelago`,
+        `Pet shops in Arrecife and the shopping centres; pet aisles in the resorts' larger supermarkets`,
+        `Buses (guaguas): small pets in carriers only; in taxis acceptance depends on the driver, mention the dog when booking`,
+        `Canaries: EU pet passport, microchip and up-to-date rabies vaccination; no quarantine from mainland EU`,
+      ],
+      es: [
+        `Clínicas veterinarias en Arrecife y en las principales zonas turísticas; la isla cuenta con servicios de urgencias veterinarias, tu alojamiento sabrá indicarte la guardia`,
+        `Número de emergencias europeo: 112, válido en todo el archipiélago canario`,
+        `Tiendas de animales en Arrecife y en los centros comerciales; secciones de mascotas en los grandes supermercados de las zonas turísticas`,
+        `Guaguas: mascotas pequeñas solo en transportín; en taxi la aceptación depende del conductor, avisa al reservar`,
+        `Canarias: pasaporte europeo, microchip y vacuna antirrábica al día; sin cuarentena desde la UE continental`,
+      ],
+      pt: [
+        `Clínicas veterinárias em Arrecife e nas principais estâncias; a ilha dispõe de serviços de urgência veterinária, o seu alojamento saberá indicar quem está de serviço`,
+        `Número de emergência europeu: 112, válido em todo o arquipélago canário`,
+        `Lojas de animais em Arrecife e nos centros comerciais; secções pet nos grandes supermercados das estâncias`,
+        `Autocarros (guaguas): animais pequenos apenas em caixa de transporte; nos táxis a aceitação depende do motorista, avise ao reservar`,
+        `Canárias: passaporte europeu, microchip e vacina antirrábica em dia; sem quarentena a partir da UE continental`,
+      ],
+    },
+  },
+
   lausanne: {
     history: {
       fr: `Lausanne est la capitale olympique mondiale, le Comité International Olympique y siège depuis 1915, et le Musée Olympique sur les rives du lac Léman em est le cœur symbolique. Fondée à l\'époque romaine sous le nom de Lousonna, la ville médiévale s\'est développée autour de sa cathédrale gothique, l\'une des plus belles de Suisse. Aujourd\'hui, Lausanne est une ville suisse d\'exception pour les voyageurs avec animaux : la loi helvétique protège le bien-être animal, les chiens circulent gratuitement dans le métro M1/M2 et les tramways TL, et la forêt de Sauvabelin, 200 hectares em pleine ville, offre des promenades sans laisse. Les restaurants à terrasse accueillent quasi-systématiquement les chiens, et le bord du lac d\'Ouchy constitue une promenade quotidienne idéale.`,
@@ -19765,6 +19902,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  peniche: {
+    history: {
+      fr: `Peniche fut longtemps une île : ce n'est qu'au XVIe siècle que les sables ont fini par la rattacher au continent, créant cette presqu'île fortifiée avancée dans l'Atlantique. Sa forteresse, bâtie pour repousser les corsaires, servit de prison politique sous la dictature de Salazar ; l'évasion du dirigeant communiste Álvaro Cunhal en 1960 y reste légendaire. Grand port sardinier, la ville vit toujours de la pêche et de la conserverie, et ses restaurants servent parmi les meilleurs poissons du Portugal. Depuis les années 2000, Peniche est aussi devenue une capitale mondiale du surf, avec la vague de Supertubos et une étape du championnat du monde. Pour un voyageur avec un chien, c'est un bord de mer brut et venteux : falaises spectaculaires du Cabo Carvoeiro, dunes de Baleal et immenses plages hors saison.`,
+      en: `Peniche was long an island: only in the 16th century did drifting sands finally tie it to the mainland, creating this fortified peninsula jutting into the Atlantic. Its fortress, built to repel corsairs, served as a political prison under the Salazar dictatorship; the 1960 escape of communist leader Álvaro Cunhal remains legendary. A great sardine port, the town still lives from fishing and canning, and its restaurants serve some of Portugal's best fish. Since the 2000s Peniche has also become a world surfing capital, with the Supertubos wave and a stop on the world championship tour. For a traveller with a dog, this is raw, windswept seaside: the spectacular cliffs of Cabo Carvoeiro, the dunes of Baleal and immense beaches out of season.`,
+      es: `Peniche fue durante mucho tiempo una isla: solo en el siglo XVI las arenas acabaron por unirla al continente, creando esta península fortificada adentrada en el Atlántico. Su fortaleza, construida para repeler corsarios, sirvió de prisión política bajo la dictadura de Salazar; la fuga del dirigente comunista Álvaro Cunhal en 1960 sigue siendo legendaria. Gran puerto sardinero, la ciudad vive aún de la pesca y las conserveras, y sus restaurantes sirven algunos de los mejores pescados de Portugal. Desde los años 2000, Peniche es también una capital mundial del surf, con la ola de Supertubos y una parada del campeonato del mundo. Para quien viaja con perro, es un litoral bravo y ventoso: acantilados espectaculares del Cabo Carvoeiro, dunas de Baleal y playas inmensas fuera de temporada.`,
+      pt: `Peniche foi durante muito tempo uma ilha: só no século XVI as areias acabaram por a ligar ao continente, criando esta península fortificada avançada sobre o Atlântico. A sua fortaleza, construída para repelir corsários, serviu de prisão política durante a ditadura de Salazar; a fuga do dirigente comunista Álvaro Cunhal, em 1960, permanece lendária. Grande porto sardinheiro, a cidade vive ainda da pesca e das conserveiras, e os seus restaurantes servem alguns dos melhores peixes de Portugal. Desde os anos 2000, Peniche tornou-se também uma capital mundial do surf, com a onda de Supertubos e uma etapa do campeonato do mundo. Para quem viaja com cão, é um litoral bravio e ventoso: falésias espetaculares do Cabo Carvoeiro, dunas do Baleal e praias imensas fora de época.`,
+    },
+    sights: [
+      {
+        name: `Cabo Carvoeiro`,
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `À la pointe de la presqu'île, le cap aligne falaises déchiquetées, phare et rochers sculptés par l'océan, dont la fameuse Nau dos Corvos. Le sentier côtier se parcourt en laisse, en tenant fermement votre chien les jours de grand vent.`,
+          en: `At the tip of the peninsula, the cape lines up jagged cliffs, a lighthouse and ocean-carved rocks, including the famous Nau dos Corvos. The coastal path is walked on lead, holding your dog firmly on windy days.`,
+          es: `En la punta de la península, el cabo alinea acantilados recortados, un faro y rocas esculpidas por el océano, entre ellas la famosa Nau dos Corvos. El sendero costero se recorre con correa, sujetando bien al perro los días de viento fuerte.`,
+          pt: `Na ponta da península, o cabo alinha falésias recortadas, um farol e rochas esculpidas pelo oceano, entre elas a famosa Nau dos Corvos. O trilho costeiro percorre-se com trela, segurando bem o cão nos dias de vento forte.`,
+        },
+      },
+      {
+        name: `Baleal`,
+        emoji: '🏄',
+        petFriendly: true,
+        desc: {
+          fr: `Cet îlot relié à la côte par un tombolo de sable est le cœur de la culture surf locale, avec ses écoles, ses cafés et ses couchers de soleil. Hors saison balnéaire, les immenses plages qui l'encadrent sont un paradis de course pour les chiens.`,
+          en: `This islet linked to the coast by a sandy tombolo is the heart of the local surf culture, with its schools, cafés and sunsets. Outside the bathing season, the immense beaches framing it are a running paradise for dogs.`,
+          es: `Este islote unido a la costa por un tómbolo de arena es el corazón de la cultura surfera local, con sus escuelas, cafés y atardeceres. Fuera de la temporada de baño, las inmensas playas que lo enmarcan son un paraíso para que los perros corran.`,
+          pt: `Este ilhéu ligado à costa por um tômbolo de areia é o coração da cultura de surf local, com as suas escolas, cafés e pores do sol. Fora da época balnear, as imensas praias que o enquadram são um paraíso de corrida para os cães.`,
+        },
+      },
+      {
+        name: `Praia dos Supertubos`,
+        emoji: '🌀',
+        petFriendly: true,
+        desc: {
+          fr: `La « Pipeline européenne » déroule ses tubes parfaits au sud de la ville et accueille l'élite mondiale du surf chaque automne. En dehors de la saison de baignade surveillée, la promenade sur ce sable immense avec un chien en laisse est superbe, spectacle des surfeurs inclus.`,
+          en: `Europe's "Pipeline" unrolls its perfect barrels south of town and hosts the world surfing elite every autumn. Outside the supervised bathing season, walking this immense sand with a leashed dog is superb, surfer show included.`,
+          es: `El «Pipeline europeo» despliega sus tubos perfectos al sur de la ciudad y recibe cada otoño a la élite mundial del surf. Fuera de la temporada de baño vigilado, pasear por este arenal inmenso con el perro atado es magnífico, espectáculo de surfistas incluido.`,
+          pt: `O «Pipeline europeu» desenrola os seus tubos perfeitos a sul da cidade e recebe todos os outonos a elite mundial do surf. Fora da época balnear vigiada, passear neste areal imenso com o cão pela trela é soberbo, com espetáculo de surfistas incluído.`,
+        },
+      },
+      {
+        name: `Fortaleza de Peniche`,
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `La forteresse du XVIe siècle, devenue prison politique sous l'Estado Novo, abrite aujourd'hui le Musée national de la Résistance et de la Liberté. Les chiens n'entrent pas dans le musée, mais le tour des remparts côté océan est une belle marche en laisse.`,
+          en: `The 16th-century fortress, turned political prison under the Estado Novo, today houses the National Museum of Resistance and Freedom. Dogs cannot enter the museum, but the walk around the ocean-side ramparts is a fine on-lead stroll.`,
+          es: `La fortaleza del siglo XVI, convertida en prisión política bajo el Estado Novo, alberga hoy el Museo Nacional de la Resistencia y la Libertad. Los perros no entran en el museo, pero la vuelta a las murallas por el lado del océano es un buen paseo con correa.`,
+          pt: `A fortaleza do século XVI, transformada em prisão política durante o Estado Novo, alberga hoje o Museu Nacional Resistência e Liberdade. Os cães não entram no museu, mas a volta às muralhas do lado do oceano é um belo passeio com trela.`,
+        },
+      },
+      {
+        name: `Papôa`,
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Cette petite péninsule au nord de la ville dresse ses falaises stratifiées et son arche rocheuse au-dessus d'une mer souvent furieuse. Un but de promenade court et saisissant, en laisse et loin du bord, les rafales y sont sérieuses.`,
+          en: `This small peninsula north of town raises its layered cliffs and rock arch above an often furious sea. A short, striking walking goal, on lead and away from the edge, the gusts here are serious.`,
+          es: `Esta pequeña península al norte de la ciudad alza sus acantilados estratificados y su arco de roca sobre un mar a menudo furioso. Una meta de paseo corta e impactante, con correa y lejos del borde, las rachas aquí son serias.`,
+          pt: `Esta pequena península a norte da cidade ergue as suas falésias estratificadas e o seu arco rochoso sobre um mar muitas vezes furioso. Um objetivo de passeio curto e impressionante, com trela e longe da borda, as rajadas aqui são a sério.`,
+        },
+      },
+      {
+        name: `Ilhas Berlengas`,
+        emoji: '⛵',
+        petFriendly: false,
+        desc: {
+          fr: `À dix kilomètres au large, cet archipel classé réserve de biosphère abrite un fort posé sur l'eau et des colonies d'oiseaux marins. Les bateaux d'excursion n'acceptent en général pas les chiens et la réserve protège strictement sa faune : admirez les îles depuis le cap.`,
+          en: `Ten kilometres offshore, this biosphere reserve archipelago shelters a fort set on the water and seabird colonies. Excursion boats generally do not accept dogs and the reserve strictly protects its wildlife: admire the islands from the cape instead.`,
+          es: `A diez kilómetros mar adentro, este archipiélago declarado reserva de la biosfera alberga un fuerte posado sobre el agua y colonias de aves marinas. Los barcos de excursión no suelen aceptar perros y la reserva protege estrictamente su fauna: admira las islas desde el cabo.`,
+          pt: `A dez quilómetros ao largo, este arquipélago classificado como reserva da biosfera abriga um forte pousado na água e colónias de aves marinhas. Os barcos de excursão geralmente não aceitam cães e a reserva protege estritamente a sua fauna: admire as ilhas a partir do cabo.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Pendant la saison balnéaire (environ juin à septembre), les chiens sont interdits sur les plages surveillées portugaises : visez l'aube, le soir ou les longues plages hors zone de baignade, et toute l'année hors saison.`,
+        `Le vent et les courants de Peniche sont puissants : ne laissez pas votre chien nager dans les vagues de Supertubos ou près des falaises, les baïnes ne pardonnent pas.`,
+        `La laisse est obligatoire dans les espaces publics au Portugal et la muselière est exigée pour les races classées dangereuses.`,
+        `Sur les sentiers de falaise (Cabo Carvoeiro, Papôa), tenez la laisse courte : les bords sont friables et non protégés par endroits.`,
+        `Prévoyez une serviette et de l'eau douce : sel, sable et embruns collent au pelage, et les fontaines sont rares sur le front de mer.`,
+      ],
+      en: [
+        `During the bathing season (roughly June to September), dogs are banned from Portugal's supervised beaches: aim for dawn, evening or the long stretches outside bathing zones, and enjoy the beaches freely off season.`,
+        `Peniche's wind and currents are powerful: do not let your dog swim in the Supertubos waves or near the cliffs, the rips are unforgiving.`,
+        `Leads are compulsory in public spaces in Portugal and muzzles are required for breeds classed as dangerous.`,
+        `On the cliff paths (Cabo Carvoeiro, Papôa), keep the lead short: the edges are crumbly and unfenced in places.`,
+        `Pack a towel and fresh water: salt, sand and spray cling to the coat, and fountains are scarce on the seafront.`,
+      ],
+      es: [
+        `Durante la temporada de baño (aproximadamente de junio a septiembre), los perros están prohibidos en las playas vigiladas portuguesas: apunta al amanecer, al atardecer o a los tramos largos fuera de las zonas de baño, y disfruta libremente fuera de temporada.`,
+        `El viento y las corrientes de Peniche son potentes: no dejes a tu perro nadar en las olas de Supertubos ni cerca de los acantilados, las corrientes de resaca no perdonan.`,
+        `La correa es obligatoria en los espacios públicos en Portugal y el bozal se exige a las razas clasificadas como peligrosas.`,
+        `En los senderos de acantilado (Cabo Carvoeiro, Papôa), lleva la correa corta: los bordes son quebradizos y sin vallar en algunos tramos.`,
+        `Lleva toalla y agua dulce: la sal, la arena y el salitre se pegan al pelaje, y las fuentes escasean en el paseo marítimo.`,
+      ],
+      pt: [
+        `Durante a época balnear (aproximadamente junho a setembro), os cães estão proibidos nas praias vigiadas portuguesas: aponte para a madrugada, o fim do dia ou os areais longos fora das zonas de banho, e aproveite livremente fora de época.`,
+        `O vento e as correntes de Peniche são poderosos: não deixe o seu cão nadar nas ondas de Supertubos nem junto às falésias, os agueiros não perdoam.`,
+        `A trela é obrigatória nos espaços públicos em Portugal e o açaime é exigido às raças classificadas como perigosas.`,
+        `Nos trilhos de falésia (Cabo Carvoeiro, Papôa), mantenha a trela curta: as bordas são friáveis e sem proteção nalguns pontos.`,
+        `Leve toalha e água doce: o sal, a areia e a maresia agarram-se ao pelo, e as fontes escasseiam na frente de mar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cliniques vétérinaires à Peniche et dans les environs (Caldas da Rainha, Óbidos) ; les urgences lourdes sont référées vers les hôpitaux vétérinaires de la région de Leiria ou Lisbonne`,
+        `Numéro d'urgence européen : 112 ; votre hébergement saura indiquer le vétérinaire de garde`,
+        `Animaleries et rayons animaux dans les supermercados de la ville ; boutiques surf-friendly souvent tolérantes avec les chiens`,
+        `Pas de gare à Peniche : bus régionaux avec petits animaux en caisse de transport ; en taxi, annoncez le chien à la réservation`,
+        `Passeport européen, puce et vaccin antirabique à jour obligatoires au Portugal`,
+      ],
+      en: [
+        `Veterinary clinics in Peniche and nearby (Caldas da Rainha, Óbidos); serious emergencies are referred to veterinary hospitals in the Leiria region or Lisbon`,
+        `European emergency number: 112; your accommodation will know the vet on duty`,
+        `Pet shops and pet aisles in the town's supermarkets; surf shops are often tolerant of dogs`,
+        `No train station in Peniche: regional buses carry small pets in carriers; in taxis, mention the dog when booking`,
+        `EU pet passport, microchip and up-to-date rabies vaccination are mandatory in Portugal`,
+      ],
+      es: [
+        `Clínicas veterinarias en Peniche y alrededores (Caldas da Rainha, Óbidos); las urgencias graves se derivan a los hospitales veterinarios de la región de Leiria o Lisboa`,
+        `Número de emergencias europeo: 112; tu alojamiento sabrá indicarte el veterinario de guardia`,
+        `Tiendas de animales y secciones de mascotas en los supermercados de la ciudad; las tiendas de surf suelen ser tolerantes con los perros`,
+        `Peniche no tiene estación de tren: autobuses regionales con mascotas pequeñas en transportín; en taxi, avisa del perro al reservar`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día, obligatorios en Portugal`,
+      ],
+      pt: [
+        `Clínicas veterinárias em Peniche e nas redondezas (Caldas da Rainha, Óbidos); as urgências graves são encaminhadas para os hospitais veterinários da região de Leiria ou de Lisboa`,
+        `Número de emergência europeu: 112; o seu alojamento saberá indicar o veterinário de serviço`,
+        `Lojas de animais e secções pet nos supermercados da cidade; as lojas de surf são muitas vezes tolerantes com os cães`,
+        `Peniche não tem estação de comboio: autocarros regionais com animais pequenos em caixa de transporte; nos táxis, avise do cão ao reservar`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia, obrigatórios em Portugal`,
+      ],
+    },
+  },
+
   perpignan: {
     history: {
       fr: `Perpignan, capitale du Roussillon et longtemps cité catalane plus que française, fut au XIIIe siècle la capitale continentale du royaume de Majorque, dont le souverain Jacques II fit édifier dès 1276 le majestueux Palais des Rois de Majorque, vaste citadelle gothique catalane. Annexée par la France au XVIIe siècle, la ville conserve une identité catalane profonde, visible dans sa langue, sa cuisine et ses fêtes. Le Castillet, porte fortifiée en brique rouge commencée en 1368, et la cathédrale Saint-Jean, gothique catalane élancée, ancrent un centre historique compact et coloré. Pour le voyageur avec un chien, Perpignan est étonnamment accueillante : environ 37 espaces canins balisés dans toute la ville, une culture de terrasse méditerranéenne tolérante, un climat parmi les plus ensoleillés de France, et un accès facile aux plages dog-friendly du Roussillon à Canet, Sainte-Marie et Torreilles.`,
@@ -20005,6 +20279,143 @@ const cityContent: Record<string, CityContent> = {
         `Clima mediterrâneo: veranos cálidos (25 °C em julho, 25 °C em agosto), inviernos suaves (7-8 °C em janeiro-dezembro); olas de calor por encima de 30 °C em verão: prioriza as saídas matutinas e nocturnas.`,
         `Pawshake.it é a plataforma dominante para cuidado e passeio; cuenta 10-12 € por visita, 18-25 € por dia completo, 22-30 € por noite.`,
         `Pisa está a 1 hora de Florencia de comboio, 30 min de Lucca e 4 horas de Roma: punto de partida ideal para um circuito canino pela Toscana.`,
+      ],
+    },
+  },
+
+  portimao: {
+    history: {
+      fr: `Port de pêche à l'embouchure de l'Arade, Portimão a bâti sa fortune sur la sardine : au début du XXe siècle, ses conserveries expédiaient leurs boîtes dans toute l'Europe, et le Musée de Portimão, installé dans une ancienne usine, raconte magnifiquement cette épopée ouvrière. Quand l'industrie a décliné, la ville s'est tournée vers le tourisme, portée par l'immense Praia da Rocha et ses falaises ocre, l'une des premières plages célèbres de l'Algarve. Aujourd'hui deuxième ville de la région, Portimão cultive plusieurs visages : front de mer animé, vieux centre commerçant, estuaire préservé côté Alvor et circuit international qui accueille les grands rendez-vous du sport automobile. Avec un chien, on profite surtout des passerelles en bois d'Alvor, des sentiers de falaise et des longues promenades de bord de mer hors saison, quand la lumière d'hiver dore les falaises.`,
+      en: `A fishing port at the mouth of the Arade river, Portimão built its fortune on sardines: in the early 20th century its canneries shipped tins all over Europe, and the Portimão Museum, set in a former factory, tells that working epic beautifully. When industry declined, the town turned to tourism, driven by the immense Praia da Rocha and its ochre cliffs, one of the Algarve's first famous beaches. Now the region's second city, Portimão wears several faces: a lively seafront, an old trading centre, a preserved estuary on the Alvor side and an international circuit hosting major motorsport events. With a dog, the highlights are the wooden boardwalks of Alvor, the clifftop paths and long seafront walks out of season, when the winter light gilds the cliffs.`,
+      es: `Puerto pesquero en la desembocadura del Arade, Portimão construyó su fortuna sobre la sardina: a principios del siglo XX sus conserveras enviaban latas a toda Europa, y el Museo de Portimão, instalado en una antigua fábrica, cuenta magníficamente aquella epopeya obrera. Cuando la industria declinó, la ciudad se volcó en el turismo, impulsada por la inmensa Praia da Rocha y sus acantilados ocres, una de las primeras playas célebres del Algarve. Hoy segunda ciudad de la región, Portimão cultiva varias caras: paseo marítimo animado, casco antiguo comercial, estuario preservado del lado de Alvor y un circuito internacional que acoge grandes citas del motor. Con perro se disfrutan sobre todo las pasarelas de madera de Alvor, los senderos de acantilado y los largos paseos junto al mar fuera de temporada.`,
+      pt: `Porto de pesca na foz do Arade, Portimão construiu a sua fortuna sobre a sardinha: no início do século XX, as suas conserveiras enviavam latas para toda a Europa, e o Museu de Portimão, instalado numa antiga fábrica, conta magnificamente essa epopeia operária. Quando a indústria declinou, a cidade virou-se para o turismo, impulsionada pela imensa Praia da Rocha e pelas suas falésias ocres, uma das primeiras praias célebres do Algarve. Hoje segunda cidade da região, Portimão cultiva vários rostos: frente de mar animada, centro antigo comerciante, estuário preservado do lado de Alvor e um autódromo internacional que recebe grandes provas do desporto motorizado. Com um cão, aproveitam-se sobretudo os passadiços de madeira de Alvor, os trilhos de falésia e os longos passeios à beira-mar fora de época.`,
+    },
+    sights: [
+      {
+        name: `Praia da Rocha`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `La plage emblématique de Portimão déroule son sable doré au pied de falaises sculptées et d'éperons rocheux. Comme sur toutes les plages surveillées portugaises, les chiens y sont interdits en saison balnéaire, mais l'esplanade panoramique au-dessus de la plage se parcourt en laisse toute l'année.`,
+          en: `Portimão's emblematic beach unrolls golden sand beneath sculpted cliffs and rocky spurs. As on all supervised Portuguese beaches, dogs are banned during the bathing season, but the panoramic esplanade above the beach can be walked on lead all year.`,
+          es: `La playa emblemática de Portimão despliega su arena dorada al pie de acantilados esculpidos y espolones rocosos. Como en todas las playas vigiladas portuguesas, los perros están prohibidos en temporada de baño, pero la explanada panorámica sobre la playa se recorre con correa todo el año.`,
+          pt: `A praia emblemática de Portimão desenrola a sua areia dourada ao pé de falésias esculpidas e esporões rochosos. Como em todas as praias vigiadas portuguesas, os cães estão proibidos na época balnear, mas a esplanada panorâmica sobre a praia percorre-se com trela todo o ano.`,
+        },
+      },
+      {
+        name: `Passadiços de Alvor`,
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Ces passerelles en bois serpentent entre dunes, marais salants et bancs de sable de l'estuaire d'Alvor, refuge d'oiseaux migrateurs. Une promenade plate et superbe avec un chien en laisse, à la fraîche pour croiser flamants et échassiers.`,
+          en: `These wooden boardwalks wind between dunes, salt marshes and sandbanks of the Alvor estuary, a refuge for migratory birds. A flat, superb walk with a leashed dog, best in the cool hours to spot flamingos and waders.`,
+          es: `Estas pasarelas de madera serpentean entre dunas, marismas y bancos de arena del estuario de Alvor, refugio de aves migratorias. Un paseo llano y magnífico con el perro atado, mejor en las horas frescas para ver flamencos y zancudas.`,
+          pt: `Estes passadiços de madeira serpenteiam entre dunas, sapais e bancos de areia do estuário de Alvor, refúgio de aves migratórias. Um passeio plano e soberbo com o cão pela trela, de preferência nas horas frescas para avistar flamingos e pernaltas.`,
+        },
+      },
+      {
+        name: `Ria de Alvor`,
+        emoji: '🦩',
+        petFriendly: true,
+        desc: {
+          fr: `La lagune protégée entre Portimão et Lagos mêle chenaux, vasières et villages blancs. Les chemins qui la bordent offrent des kilomètres de balade nature en laisse, avec le village d'Alvor et ses terrasses de poisson grillé en récompense.`,
+          en: `The protected lagoon between Portimão and Lagos mixes channels, mudflats and white villages. The paths along it offer kilometres of on-lead nature walking, with Alvor village and its grilled-fish terraces as a reward.`,
+          es: `La laguna protegida entre Portimão y Lagos mezcla canales, marismas y pueblos blancos. Los caminos que la bordean ofrecen kilómetros de paseo natural con correa, con el pueblo de Alvor y sus terrazas de pescado a la brasa como recompensa.`,
+          pt: `A lagoa protegida entre Portimão e Lagos mistura canais, lodaçais e aldeias brancas. Os caminhos que a bordejam oferecem quilómetros de passeio na natureza com trela, com a vila de Alvor e as suas esplanadas de peixe grelhado como recompensa.`,
+        },
+      },
+      {
+        name: `Marina de Portimão`,
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: `Entre la Praia da Rocha et l'embouchure de l'Arade, la marina aligne yachts, palmiers et terrasses colorées. Les quais se promènent agréablement en laisse, et la digue offre une belle vue sur le fort de Ferragudo, de l'autre côté du fleuve.`,
+          en: `Between Praia da Rocha and the mouth of the Arade, the marina lines up yachts, palms and colourful terraces. The quays make a pleasant on-lead stroll, and the breakwater gives a fine view of Ferragudo's fort across the river.`,
+          es: `Entre la Praia da Rocha y la desembocadura del Arade, la marina alinea yates, palmeras y terrazas de colores. Los muelles se pasean agradablemente con correa, y el espigón regala una bonita vista del fuerte de Ferragudo, al otro lado del río.`,
+          pt: `Entre a Praia da Rocha e a foz do Arade, a marina alinha iates, palmeiras e esplanadas coloridas. Os cais passeiam-se agradavelmente com trela, e o molhe oferece uma bela vista do forte de Ferragudo, do outro lado do rio.`,
+        },
+      },
+      {
+        name: `Museu de Portimão`,
+        emoji: '🏭',
+        petFriendly: false,
+        desc: {
+          fr: `Installé dans l'ancienne conserverie La Rose, ce musée primé fait revivre la grande époque de la sardine, chaîne de production comprise. Les chiens n'entrent pas, mais le quai riverain devant le musée prolonge joliment la promenade le long de l'Arade.`,
+          en: `Set in the former La Rose cannery, this award-winning museum brings the great sardine era back to life, production line included. Dogs stay outside, but the riverside quay in front of the museum nicely extends the walk along the Arade.`,
+          es: `Instalado en la antigua conservera La Rose, este museo premiado hace revivir la gran época de la sardina, cadena de producción incluida. Los perros no entran, pero el muelle ribereño frente al museo prolonga muy bien el paseo junto al Arade.`,
+          pt: `Instalado na antiga conserveira La Rose, este museu premiado faz reviver a grande época da sardinha, linha de produção incluída. Os cães não entram, mas o cais ribeirinho em frente ao museu prolonga bem o passeio ao longo do Arade.`,
+        },
+      },
+      {
+        name: `Autódromo Internacional do Algarve`,
+        emoji: '🏎️',
+        petFriendly: false,
+        desc: {
+          fr: `Le circuit vallonné de Portimão, l'un des plus spectaculaires d'Europe, a accueilli la Formule 1 et reçoit le MotoGP et les courses d'endurance. Les animaux ne sont pas admis dans les tribunes les jours d'épreuve : prévoyez une solution de garde pour les grands week-ends de course.`,
+          en: `Portimão's rollercoaster circuit, one of Europe's most spectacular, has hosted Formula 1 and welcomes MotoGP and endurance racing. Animals are not admitted to the grandstands on race days: plan pet care for the big race weekends.`,
+          es: `El circuito ondulado de Portimão, uno de los más espectaculares de Europa, ha acogido la Fórmula 1 y recibe MotoGP y carreras de resistencia. Los animales no se admiten en las gradas los días de competición: prevé una solución de cuidado para los grandes fines de semana de carreras.`,
+          pt: `O traçado ondulado de Portimão, um dos mais espetaculares da Europa, já recebeu a Fórmula 1 e acolhe o MotoGP e as corridas de resistência. Os animais não são admitidos nas bancadas em dias de prova: preveja uma solução de guarda para os grandes fins de semana de corridas.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `En saison balnéaire (environ juin à septembre), les chiens sont interdits sur les plages surveillées comme la Praia da Rocha : rabattez-vous sur les passerelles d'Alvor, les falaises et les plages libres tôt le matin.`,
+        `L'Algarve est une zone de leishmaniose : protégez votre chien contre les phlébotomes (pipette ou collier répulsif) et évitez les sorties au crépuscule près des eaux stagnantes en été.`,
+        `La laisse est obligatoire dans les espaces publics au Portugal, et la muselière est exigée pour les races classées dangereuses.`,
+        `L'été, sable et pavés brûlent vite : sortez avant 10h ou après 18h et vérifiez la température du sol avec la main.`,
+        `Sur les sentiers de falaise au-dessus de la Praia da Rocha et vers João de Arens, gardez la laisse courte, les bords s'effritent.`,
+      ],
+      en: [
+        `In the bathing season (roughly June to September), dogs are banned from supervised beaches like Praia da Rocha: fall back on the Alvor boardwalks, the clifftops and the unsupervised sands early in the morning.`,
+        `The Algarve is a leishmaniasis area: protect your dog against sandflies (spot-on or repellent collar) and avoid dusk outings near standing water in summer.`,
+        `Leads are compulsory in public spaces in Portugal, and muzzles are required for breeds classed as dangerous.`,
+        `In summer, sand and cobbles heat up fast: walk before 10am or after 6pm and test the ground with your hand.`,
+        `On the cliff paths above Praia da Rocha and towards João de Arens, keep the lead short, the edges crumble.`,
+      ],
+      es: [
+        `En temporada de baño (aproximadamente de junio a septiembre), los perros están prohibidos en las playas vigiladas como la Praia da Rocha: recurre a las pasarelas de Alvor, los acantilados y los arenales libres a primera hora.`,
+        `El Algarve es zona de leishmaniosis: protege a tu perro contra los flebotomos (pipeta o collar repelente) y evita los paseos al anochecer cerca de aguas estancadas en verano.`,
+        `La correa es obligatoria en los espacios públicos en Portugal, y el bozal se exige a las razas clasificadas como peligrosas.`,
+        `En verano, la arena y el empedrado se calientan rápido: pasea antes de las 10h o después de las 18h y comprueba la temperatura del suelo con la mano.`,
+        `En los senderos de acantilado sobre la Praia da Rocha y hacia João de Arens, lleva la correa corta, los bordes se desmoronan.`,
+      ],
+      pt: [
+        `Na época balnear (aproximadamente junho a setembro), os cães estão proibidos nas praias vigiadas como a Praia da Rocha: opte pelos passadiços de Alvor, pelas falésias e pelos areais livres de manhã cedo.`,
+        `O Algarve é zona de leishmaniose: proteja o seu cão contra os flebótomos (pipeta ou coleira repelente) e evite passeios ao anoitecer perto de águas paradas no verão.`,
+        `A trela é obrigatória nos espaços públicos em Portugal, e o açaime é exigido às raças classificadas como perigosas.`,
+        `No verão, a areia e a calçada aquecem depressa: passeie antes das 10h ou depois das 18h e teste a temperatura do chão com a mão.`,
+        `Nos trilhos de falésia sobre a Praia da Rocha e em direção a João de Arens, mantenha a trela curta, as bordas esboroam-se.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Bonne couverture vétérinaire : cliniques à Portimão, Alvor et Praia da Rocha, avec service hospitalier vétérinaire dans l'agglomération pour les urgences`,
+        `Numéro d'urgence européen : 112 ; votre hôtel saura joindre le vétérinaire de garde`,
+        `Animaleries en ville et dans les centres commerciaux ; rayons animaux dans tous les grands supermarchés`,
+        `Trains régionaux de l'Algarve : petits animaux en caisse et chiens en laisse avec muselière selon les règles CP ; en taxi, annoncez le chien à la réservation`,
+        `Passeport européen, puce et vaccin antirabique à jour obligatoires ; prévoyez aussi la protection antiparasitaire adaptée au sud du Portugal`,
+      ],
+      en: [
+        `Good veterinary coverage: clinics in Portimão, Alvor and Praia da Rocha, with a veterinary hospital service in the urban area for emergencies`,
+        `European emergency number: 112; your hotel will know how to reach the vet on duty`,
+        `Pet shops in town and in the shopping centres; pet aisles in all the larger supermarkets`,
+        `Algarve regional trains: small pets in carriers and dogs on lead with muzzle under CP rules; in taxis, mention the dog when booking`,
+        `EU pet passport, microchip and up-to-date rabies vaccination are mandatory; also plan parasite protection suited to southern Portugal`,
+      ],
+      es: [
+        `Buena cobertura veterinaria: clínicas en Portimão, Alvor y Praia da Rocha, con servicio hospitalario veterinario en el área urbana para urgencias`,
+        `Número de emergencias europeo: 112; tu hotel sabrá localizar al veterinario de guardia`,
+        `Tiendas de animales en la ciudad y en los centros comerciales; secciones de mascotas en todos los grandes supermercados`,
+        `Trenes regionales del Algarve: mascotas pequeñas en transportín y perros con correa y bozal según las normas de CP; en taxi, avisa del perro al reservar`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día, obligatorios; prevé también la protección antiparasitaria adecuada al sur de Portugal`,
+      ],
+      pt: [
+        `Boa cobertura veterinária: clínicas em Portimão, Alvor e Praia da Rocha, com serviço hospitalar veterinário na área urbana para urgências`,
+        `Número de emergência europeu: 112; o seu hotel saberá contactar o veterinário de serviço`,
+        `Lojas de animais na cidade e nos centros comerciais; secções pet em todos os grandes supermercados`,
+        `Comboios regionais do Algarve: animais pequenos em caixa de transporte e cães com trela e açaime segundo as regras da CP; nos táxis, avise do cão ao reservar`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia, obrigatórios; preveja também a proteção antiparasitária adequada ao sul de Portugal`,
       ],
     },
   },

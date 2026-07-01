@@ -232,7 +232,7 @@
     "countryCode": "MA",
     "flag": "🇲🇦",
     "categoryCount": 6,
-    "heroImage": "",
+    "heroImage": "/images/destinations/agadir.jpg",
     "intro": "",
     "lat": 30.4278,
     "lng": -9.5981,
@@ -6413,7 +6413,7 @@
     "countryCode": "RO",
     "flag": "🇷🇴",
     "categoryCount": 6,
-    "heroImage": "",
+    "heroImage": "/images/destinations/cluj-napoca.jpg",
     "intro": "",
     "lat": 46.7712,
     "lng": 23.6236,
@@ -7923,7 +7923,7 @@
     "countryCode": "MA",
     "flag": "🇲🇦",
     "categoryCount": 6,
-    "heroImage": "",
+    "heroImage": "/images/destinations/essaouira.jpg",
     "intro": "",
     "lat": 31.5085,
     "lng": -9.7595,
@@ -8286,7 +8286,8 @@
         "icon": "❄️"
       }
     },
-    "iata": "KLU"
+    "iata": "KLU",
+    "heroImage": "/images/destinations/feldkirchen-in-karnten.jpg"
   },
   {
     "slug": "florence",
@@ -8811,7 +8812,8 @@
         "icon": "❄️"
       }
     },
-    "iata": "LIS"
+    "iata": "LIS",
+    "heroImage": "/images/destinations/fundao.jpg"
   },
   {
     "slug": "galway",
@@ -14621,7 +14623,7 @@
     "countryCode": "MA",
     "flag": "🇲🇦",
     "categoryCount": 6,
-    "heroImage": "",
+    "heroImage": "/images/destinations/marrakech.jpg",
     "intro": "",
     "lat": 31.6295,
     "lng": -7.9811,
@@ -15451,7 +15453,7 @@
     "countryCode": "GR",
     "flag": "🇬🇷",
     "categoryCount": 6,
-    "heroImage": "",
+    "heroImage": "/images/destinations/mykonos.jpg",
     "intro": "",
     "lat": 37.4467,
     "lng": 25.3289,
@@ -15906,7 +15908,7 @@
     "heroImage": "/images/destinations/neringa.jpg",
     "intro": "Neringa is the UNESCO Curonian Spit resort municipality of four small lagoon villages (Nida, Juodkrante, Preila, Pervalka) on a 52 km sand spit reached only by ferry from Klaipeda, where leashed dogs roam pine-forest trails, the Parnidis sundial dune and the Nida lagoon promenade.",
     "lat": 55.3,
-    "lng": 21.0,
+    "lng": 21,
     "weather": {
       "jan": {
         "temp": -1,
@@ -16429,7 +16431,7 @@
     "countryCode": "ES",
     "flag": "🇪🇸",
     "categoryCount": 5,
-    "heroImage": "/images/destinations/gandia.jpg",
+    "heroImage": "/images/destinations/oropesa-del-mar.jpg",
     "intro": "Oropesa del Mar is a Mediterranean beach town on the Costa del Azahar between Valencia and Castellón, with a 15th-century hilltop castle, a working fishing port, and kilometres of sandy beach open to dogs outside peak season. The Serra d'Irta Natural Park to the south offers the last undeveloped stretch of Valencia coast.",
     "lat": 40.1035,
     "lng": 0.1259,
@@ -17408,7 +17410,7 @@
     "countryCode": "PT",
     "flag": "🇵🇹",
     "categoryCount": 5,
-    "heroImage": "/images/destinations/nazare.jpg",
+    "heroImage": "/images/destinations/peniche.jpg",
     "intro": "Peniche is a working fishing port on a peninsula jutting into the Atlantic, 90 km north of Lisbon. A 16th-century fortress, the world-class surf breaks of Baleal, dramatic cliff paths circling the cape, and a local culture shaped entirely by the sea make it one of Portugal's most atmospheric and dog-friendly coastal towns.",
     "lat": 39.3561,
     "lng": -9.3795,
@@ -17709,7 +17711,7 @@
     "countryCode": "BG",
     "flag": "🇧🇬",
     "categoryCount": 6,
-    "heroImage": "",
+    "heroImage": "/images/destinations/plovdiv.jpg",
     "intro": "",
     "lat": 42.1354,
     "lng": 24.7453,
@@ -19364,7 +19366,7 @@
     "countryCode": "FR",
     "flag": "🇫🇷",
     "categoryCount": 5,
-    "heroImage": "/images/destinations/caen.jpg",
+    "heroImage": "/images/destinations/rouen.jpg",
     "intro": "Rouen, Normandy's Gothic capital on the Seine, combines a medieval old town with the towering Cathédrale Notre-Dame, the iconic Gros Horloge astronomical clock, the Place du Vieux-Marché where Joan of Arc was burned, and easy access to the Côte d'Albâtre beaches at Étretat and Dieppe.",
     "lat": 49.4431,
     "lng": 1.0993,
@@ -23185,7 +23187,8 @@
         "icon": "❄️"
       }
     },
-    "iata": "BGY"
+    "iata": "BGY",
+    "heroImage": "/images/destinations/tirano.jpg"
   },
   {
     "slug": "toledo",

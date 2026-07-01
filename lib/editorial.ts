@@ -1637,6 +1637,121 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Zürichsee lakefront, Uetliberg hill, and the Sihl river trails',
       area: 'Kreis 4, Zürich West, and the Old Town',
     },
+    agadir: {
+      personality: `a laid-back Atlantic resort city rebuilt around one of Morocco's longest and most walkable beach promenades`,
+      highlight: `the six-kilometre oceanfront promenade, the marina, and the Agadir Oufella kasbah viewpoint`,
+      area: `the beachfront promenade, the marina district, and the Souss estuary towards Souss-Massa National Park`,
+    },
+    antalya: {
+      personality: `the sunny capital of the Turkish Riviera, where Roman harbour lanes meet long pebble-and-sand beaches`,
+      highlight: `the old harbour of Kaleici, Konyaalti beach, and the Lower Duden waterfall park`,
+      area: `Kaleici, Konyaalti, and Lara`,
+    },
+    batumi: {
+      personality: `a subtropical Black Sea city where palm-lined seafront walks stretch on for kilometres`,
+      highlight: `the seven-kilometre Batumi Boulevard, the seaside Miracle Park, and the hillside Botanical Garden`,
+      area: `the Old Boulevard seafront, the Old Town around Piazza Square, and the New Boulevard`,
+    },
+    berat: {
+      personality: `Albania's UNESCO-listed city of a thousand windows, stacked in white Ottoman tiers above the Osum river`,
+      highlight: `the Berat Castle quarter, the Osum riverside promenade, and the Gorica footbridge`,
+      area: `Mangalem, Gorica, and the Kalaja castle quarter`,
+    },
+    bodrum: {
+      personality: `a whitewashed Aegean resort town wrapped around twin bays beneath the Castle of St Peter`,
+      highlight: `the marina promenade, the Castle of St Peter, and the coastal path towards Bitez`,
+      area: `the marina and old town, Gumbet, and Bitez`,
+    },
+    'cluj-napoca': {
+      personality: `Transylvania's easygoing university capital, full of leafy parks and terrace cafes`,
+      highlight: `the Central Park along the Somes river, the Cetatuia Hill viewpoints, and the trails of Hoia Forest`,
+      area: `the old town around Piata Unirii, the Somes riverbanks, and leafy Grigorescu`,
+    },
+    essaouira: {
+      personality: `a wind-cooled Atlantic port town where ramparts, gulls and a huge crescent beach set the pace`,
+      highlight: `the ramparts of the Skala, the car-free lanes of the medina, and the long beach towards Diabat`,
+      area: `the medina, the Skala seafront, and the beachfront boulevard`,
+    },
+    'feldkirchen-in-karnten': {
+      personality: `a small Carinthian market town ringed by gentle lakes, meadows and wooded hills`,
+      highlight: `the shores of Lake Ossiach, the Nockberge foothill trails, and the arcaded old town square`,
+      area: `the historic town centre, the Ossiacher See shoreline, and the Nockberge foothills`,
+    },
+    fundao: {
+      personality: `a quiet Beira Baixa cherry-country town at the foot of the Serra da Gardunha`,
+      highlight: `the Serra da Gardunha trails, the cherry orchards of Alcongosta, and the granite lanes of the old town`,
+      area: `the historic centre, hillside Alcongosta, and the villages of the Gardunha`,
+    },
+    gjirokastra: {
+      personality: `Albania's UNESCO stone city, where slate-roofed Ottoman houses climb towards a vast hilltop castle`,
+      highlight: `the Gjirokastra Castle walls, the cobbled Old Bazaar, and the Drino valley viewpoints`,
+      area: `the Old Bazaar, the castle quarter, and the newer town in the valley below`,
+    },
+    goreme: {
+      personality: `the village at the heart of Cappadocia, surrounded by fairy chimneys and open valley trails made for long walks`,
+      highlight: `the Rose and Red valley trails, Pigeon Valley towards Uchisar, and the sunrise balloon views from Sunset Point`,
+      area: `the village centre, the Goreme Open-Air Museum road, and the valley trailheads`,
+    },
+    istanbul: {
+      personality: `a metropolis famous for treating its street animals like citizens, where dogs are part of everyday life on both continents`,
+      highlight: `the Bosphorus waterfront walks, Macka Park above Besiktas, and the seaside promenade of Moda in Kadikoy`,
+      area: `Galata and Karakoy, Besiktas, and Moda on the Asian side`,
+    },
+    kas: {
+      personality: `a low-key harbour town on the Lycian coast, wedged between turquoise coves and mountain trails`,
+      highlight: `the Lycian Way footpaths, the Cukurbag peninsula loop, and the harbourfront old town`,
+      area: `the old town around the harbour, the Cukurbag peninsula, and Kucukcakil bay`,
+    },
+    kazbegi: {
+      personality: `a high-Caucasus village facing Mount Kazbek, the classic base for big mountain walks in Georgia`,
+      highlight: `the Gergeti Trinity Church trail, the Truso valley, and the Sno valley towards Juta`,
+      area: `the Stepantsminda village centre, Gergeti across the river, and the Sno valley road`,
+    },
+    marrakech: {
+      personality: `Morocco's ochre-walled imperial city, where riad courtyards and huge gardens offer calm between medina walks`,
+      highlight: `the olive groves of the Menara gardens, the shaded alleys of the Cyber Park, and the palm trails of the Palmeraie`,
+      area: `the medina, Gueliz, and the Palmeraie`,
+    },
+    mykonos: {
+      personality: `the most cosmopolitan of the Cyclades, all whitewashed lanes, windmills and sandy coves`,
+      highlight: `the windmills above Little Venice, the harbourfront of Chora, and the coastal path between Ornos and Agios Ioannis`,
+      area: `Mykonos Town, Ornos, and Platis Gialos`,
+    },
+    'oropesa-del-mar': {
+      personality: `a family-friendly Costa del Azahar resort strung between coves, a castle hill and a seafront greenway`,
+      highlight: `the Via Verde del Mar towards Benicassim, the La Concha beach promenade, and the old town beneath the castle`,
+      area: `the old town, the La Concha seafront, and Marina d'Or`,
+    },
+    peniche: {
+      personality: `a working fishing peninsula famous for surf beaches and wave-carved cliffs`,
+      highlight: `the clifftop walk at Cabo Carvoeiro, the dune beaches of Baleal, and the boats out to the Berlengas`,
+      area: `the walled harbour town, Baleal, and Consolacao`,
+    },
+    plovdiv: {
+      personality: `one of Europe's oldest living cities, spread across gentle hills with a walkable Roman and Revival-era core`,
+      highlight: `the Tsar Simeon Garden, the Maritsa riverside paths, and the hilltop views from Sahat Tepe`,
+      area: `the Kapana creative quarter, the Old Town, and the Maritsa riverbanks`,
+    },
+    rouen: {
+      personality: `Normandy's half-timbered river capital, compact and made for slow walks between cathedral and quays`,
+      highlight: `the landscaped Seine quays, the Jardin des Plantes, and the lanes around the Gros-Horloge`,
+      area: `the old town around the cathedral, the right-bank Seine quays, and the Saint-Marc market quarter`,
+    },
+    tbilisi: {
+      personality: `Georgia's warm-hearted capital, where street dogs wear city tags and parks climb the hillsides`,
+      highlight: `Rike Park by the river, the forested paths of Mtatsminda, and Turtle Lake above Vake Park`,
+      area: `the Old Town, Vera, and Vake`,
+    },
+    tirano: {
+      personality: `a small Valtellina town where the Bernina Express meets Italian piazzas and riverside walking paths`,
+      highlight: `the Sentiero Valtellina path along the Adda river, the Bernina railway views, and the pilgrimage square of Madonna di Tirano`,
+      area: `the historic centre, Madonna di Tirano, and the Adda riverside`,
+    },
+    valbona: {
+      personality: `a remote valley village deep in the Albanian Alps, the trailhead for some of the Balkans' finest mountain walks`,
+      highlight: `the Valbona to Theth pass trail, the white-stone bed of the Valbona river, and the meadows of Rragam`,
+      area: `Valbona village, Rragam, and the upper valley towards the pass`,
+    },
   },
   fr: {
     gijon: {
@@ -3253,6 +3368,121 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une ville qui figure parmi les plus dog-friendly d\'Europe. Avec des zones dédiées aux chiens sur les plages, des tramways dog-friendly et les passeports pour animaux acceptés partout',
       highlight: 'le front de lac du Zürichsee, la colline de l\'Uetliberg et les sentiers de la rivière Sihl',
       area: 'Kreis 4, Zurich West et la Vieille Ville',
+    },
+    agadir: {
+      personality: `une station balnéaire atlantique décontractée, reconstruite autour de l'une des promenades de bord de mer les plus longues et les plus agréables du Maroc`,
+      highlight: `la promenade océane de six kilomètres, la marina et le point de vue de la kasbah d'Agadir Oufella`,
+      area: `le front de mer, le quartier de la marina et l'estuaire du Souss vers le parc national de Souss-Massa`,
+    },
+    antalya: {
+      personality: `la capitale ensoleillée de la Riviera turque, entre ruelles du port romain et longues plages de sable et de galets`,
+      highlight: `le vieux port de Kaleiçi, la plage de Konyaaltı et le parc des chutes inférieures du Düden`,
+      area: `Kaleiçi, Konyaaltı et Lara`,
+    },
+    batumi: {
+      personality: `une ville subtropicale de la mer Noire où les promenades bordées de palmiers s'étirent sur des kilomètres`,
+      highlight: `le boulevard de Batumi long de sept kilomètres, le Miracle Park en bord de mer et le jardin botanique à flanc de colline`,
+      area: `le front de mer du Vieux Boulevard, la vieille ville autour de la place Piazza et le Nouveau Boulevard`,
+    },
+    berat: {
+      personality: `la ville aux mille fenêtres d'Albanie, classée UNESCO, étagée en gradins ottomans blancs au-dessus de l'Osum`,
+      highlight: `le quartier du château de Berat, la promenade au bord de l'Osum et la passerelle de Gorica`,
+      area: `Mangalem, Gorica et le quartier du château de Kalaja`,
+    },
+    bodrum: {
+      personality: `une station égéenne aux maisons blanches, lovée autour de deux baies sous le château Saint-Pierre`,
+      highlight: `la promenade de la marina, le château Saint-Pierre et le sentier côtier vers Bitez`,
+      area: `la marina et la vieille ville, Gümbet et Bitez`,
+    },
+    'cluj-napoca': {
+      personality: `la capitale universitaire décontractée de la Transylvanie, riche en parcs ombragés et en terrasses`,
+      highlight: `le Parc Central le long de la rivière Someș, les points de vue de la colline Cetățuia et les sentiers de la forêt de Hoia`,
+      area: `la vieille ville autour de Piața Unirii, les berges du Someș et le quartier verdoyant de Grigorescu`,
+    },
+    essaouira: {
+      personality: `un port atlantique rafraîchi par les alizés, où remparts, mouettes et immense plage en croissant donnent le tempo`,
+      highlight: `les remparts de la Skala, les ruelles sans voitures de la médina et la longue plage vers Diabat`,
+      area: `la médina, le front de mer de la Skala et le boulevard de la plage`,
+    },
+    'feldkirchen-in-karnten': {
+      personality: `une petite ville de marché de Carinthie, entourée de lacs paisibles, de prairies et de collines boisées`,
+      highlight: `les rives du lac d'Ossiach, les sentiers des contreforts des Nockberge et la vieille place à arcades`,
+      area: `le centre historique, les rives de l'Ossiacher See et les contreforts des Nockberge`,
+    },
+    fundao: {
+      personality: `une paisible ville de la Beira Baixa, au pays des cerises, au pied de la Serra da Gardunha`,
+      highlight: `les sentiers de la Serra da Gardunha, les vergers de cerisiers d'Alcongosta et les ruelles de granit du centre ancien`,
+      area: `le centre historique, Alcongosta à flanc de montagne et les villages de la Gardunha`,
+    },
+    gjirokastra: {
+      personality: `la ville de pierre d'Albanie classée UNESCO, où les maisons ottomanes aux toits de lauze grimpent vers un immense château`,
+      highlight: `les remparts du château de Gjirokastra, le vieux bazar pavé et les points de vue sur la vallée du Drino`,
+      area: `le vieux bazar, le quartier du château et la ville basse dans la vallée`,
+    },
+    goreme: {
+      personality: `le village au cœur de la Cappadoce, entouré de cheminées de fées et de vallées ouvertes idéales pour de longues marches`,
+      highlight: `les sentiers des vallées Rose et Rouge, la vallée des Pigeons vers Uçhisar et les montgolfières au lever du soleil depuis Sunset Point`,
+      area: `le centre du village, la route du musée en plein air de Göreme et les départs de sentiers des vallées`,
+    },
+    istanbul: {
+      personality: `une métropole célèbre pour traiter ses animaux des rues comme des citoyens, où les chiens font partie du quotidien sur les deux continents`,
+      highlight: `les promenades du Bosphore, le parc Maçka au-dessus de Beşiktaş et la promenade maritime de Moda à Kadıköy`,
+      area: `Galata et Karaköy, Beşiktaş et Moda côté asiatique`,
+    },
+    kas: {
+      personality: `un petit port tranquille de la côte lycienne, niché entre criques turquoise et sentiers de montagne`,
+      highlight: `les sentiers de la Voie lycienne, la boucle de la péninsule de Çukurbağ et la vieille ville du port`,
+      area: `la vieille ville autour du port, la péninsule de Çukurbağ et la baie de Küçükçakıl`,
+    },
+    kazbegi: {
+      personality: `un village du haut Caucase face au mont Kazbek, camp de base classique des grandes randonnées géorgiennes`,
+      highlight: `le sentier de l'église de la Trinité de Guerguéti, la vallée du Truso et la vallée de Sno vers Juta`,
+      area: `le centre de Stepantsminda, Guerguéti de l'autre côté de la rivière et la route de la vallée de Sno`,
+    },
+    marrakech: {
+      personality: `la ville impériale ocre du Maroc, où patios de riads et grands jardins offrent des pauses au calme entre deux balades dans la médina`,
+      highlight: `les oliveraies des jardins de la Ménara, les allées ombragées du Cyber Park et les pistes de la Palmeraie`,
+      area: `la médina, Guéliz et la Palmeraie`,
+    },
+    mykonos: {
+      personality: `la plus cosmopolite des Cyclades, entre ruelles blanchies à la chaux, moulins et criques de sable`,
+      highlight: `les moulins au-dessus de la Petite Venise, le front de port de Chora et le sentier côtier entre Ornos et Agios Ioannis`,
+      area: `Mykonos-ville, Ornos et Platis Gialos`,
+    },
+    'oropesa-del-mar': {
+      personality: `une station familiale de la Costa del Azahar, entre criques, colline du château et voie verte en bord de mer`,
+      highlight: `la Vía Verde del Mar vers Benicàssim, la promenade de la plage de La Concha et la vieille ville sous le château`,
+      area: `la vieille ville, le front de mer de La Concha et Marina d'Or`,
+    },
+    peniche: {
+      personality: `une presqu'île de pêcheurs réputée pour ses plages de surf et ses falaises sculptées par la houle`,
+      highlight: `la promenade des falaises du Cabo Carvoeiro, les plages de dunes de Baleal et les bateaux pour les Berlengas`,
+      area: `la ville portuaire fortifiée, Baleal et Consolação`,
+    },
+    plovdiv: {
+      personality: `l'une des plus anciennes villes habitées d'Europe, étalée sur des collines douces autour d'un cœur romain et Renaissance bulgare très agréable à pied`,
+      highlight: `le jardin du Tsar Siméon, les berges de la Maritsa et les vues depuis Sahat Tepe`,
+      area: `le quartier créatif de Kapana, la vieille ville et les rives de la Maritsa`,
+    },
+    rouen: {
+      personality: `la capitale normande à pans de bois, compacte et faite pour flâner entre cathédrale et quais`,
+      highlight: `les promenades aménagées des quais de Seine, le Jardin des Plantes et les ruelles autour du Gros-Horloge`,
+      area: `la vieille ville autour de la cathédrale, les quais rive droite et le quartier Saint-Marc`,
+    },
+    tbilisi: {
+      personality: `la capitale chaleureuse de la Géorgie, où les chiens des rues portent une médaille municipale et où les parcs escaladent les collines`,
+      highlight: `le parc Rike au bord de la rivière, les sentiers boisés du Mtatsminda et le lac des Tortues au-dessus du parc Vake`,
+      area: `la vieille ville, Vera et Vake`,
+    },
+    tirano: {
+      personality: `une petite ville de la Valteline où le Bernina Express rencontre piazzas italiennes et chemins au bord de l'eau`,
+      highlight: `le Sentiero Valtellina le long de l'Adda, les panoramas du train de la Bernina et le parvis de la Madonna di Tirano`,
+      area: `le centre historique, Madonna di Tirano et les berges de l'Adda`,
+    },
+    valbona: {
+      personality: `un village de vallée isolé au cœur des Alpes albanaises, point de départ de certaines des plus belles randonnées des Balkans`,
+      highlight: `le sentier du col de Valbona à Theth, le lit de galets blancs de la rivière Valbona et les prairies de Rragam`,
+      area: `le village de Valbona, Rragam et le haut de la vallée vers le col`,
     },
   },
   es: {
@@ -4871,6 +5101,121 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el paseo lacustre del Zürichsee, la colina del Uetliberg y los senderos del río Sihl',
       area: 'Kreis 4, Zúrich Oeste y el Casco Antiguo',
     },
+    agadir: {
+      personality: `una relajada ciudad balnearia atlántica, reconstruida en torno a uno de los paseos marítimos más largos y agradables de Marruecos`,
+      highlight: `el paseo marítimo de seis kilómetros, el puerto deportivo y el mirador de la kasbah de Agadir Oufella`,
+      area: `el paseo de la playa, el barrio de la marina y el estuario del Souss hacia el Parque Nacional de Souss-Massa`,
+    },
+    antalya: {
+      personality: `la soleada capital de la Riviera turca, donde las callejuelas del puerto romano se encuentran con largas playas de arena y guijarros`,
+      highlight: `el puerto antiguo de Kaleiçi, la playa de Konyaaltı y el parque de las cascadas inferiores del Düden`,
+      area: `Kaleiçi, Konyaaltı y Lara`,
+    },
+    batumi: {
+      personality: `una ciudad subtropical del mar Negro donde los paseos junto al mar flanqueados de palmeras se extienden durante kilómetros`,
+      highlight: `el bulevar de Batumi de siete kilómetros, el Miracle Park junto al mar y el jardín botánico en la ladera`,
+      area: `el paseo del Viejo Bulevar, el casco antiguo en torno a la plaza Piazza y el Nuevo Bulevar`,
+    },
+    berat: {
+      personality: `la ciudad albanesa de las mil ventanas, declarada Patrimonio de la UNESCO, escalonada en terrazas otomanas blancas sobre el río Osum`,
+      highlight: `el barrio del castillo de Berat, el paseo junto al Osum y la pasarela de Gorica`,
+      area: `Mangalem, Gorica y el barrio del castillo de Kalaja`,
+    },
+    bodrum: {
+      personality: `una localidad turística egea de casas blancas, abrazada a dos bahías bajo el castillo de San Pedro`,
+      highlight: `el paseo del puerto deportivo, el castillo de San Pedro y el sendero costero hacia Bitez`,
+      area: `la marina y el casco antiguo, Gümbet y Bitez`,
+    },
+    'cluj-napoca': {
+      personality: `la relajada capital universitaria de Transilvania, llena de parques frondosos y terrazas`,
+      highlight: `el Parque Central junto al río Someș, los miradores de la colina Cetățuia y los senderos del bosque de Hoia`,
+      area: `el casco antiguo en torno a Piața Unirii, las riberas del Someș y el verde barrio de Grigorescu`,
+    },
+    essaouira: {
+      personality: `un puerto atlántico refrescado por los alisios, donde murallas, gaviotas y una inmensa playa en media luna marcan el ritmo`,
+      highlight: `las murallas de la Skala, las callejuelas sin coches de la medina y la larga playa hacia Diabat`,
+      area: `la medina, el frente marítimo de la Skala y el bulevar de la playa`,
+    },
+    'feldkirchen-in-karnten': {
+      personality: `una pequeña ciudad de mercado de Carintia, rodeada de lagos tranquilos, prados y colinas boscosas`,
+      highlight: `las orillas del lago Ossiach, los senderos de las estribaciones de los Nockberge y la plaza antigua porticada`,
+      area: `el centro histórico, la orilla del Ossiacher See y las estribaciones de los Nockberge`,
+    },
+    fundao: {
+      personality: `una tranquila ciudad de la Beira Baixa, en plena tierra de cerezas, al pie de la Serra da Gardunha`,
+      highlight: `los senderos de la Serra da Gardunha, los cerezales de Alcongosta y las callejuelas de granito del casco antiguo`,
+      area: `el centro histórico, Alcongosta en la ladera y los pueblos de la Gardunha`,
+    },
+    gjirokastra: {
+      personality: `la ciudad de piedra de Albania, Patrimonio de la UNESCO, donde las casas otomanas de tejados de pizarra trepan hacia un enorme castillo`,
+      highlight: `las murallas del castillo de Gjirokastra, el viejo bazar empedrado y los miradores sobre el valle del Drino`,
+      area: `el Viejo Bazar, el barrio del castillo y la ciudad nueva en el valle`,
+    },
+    goreme: {
+      personality: `el pueblo en el corazón de la Capadocia, rodeado de chimeneas de hadas y valles abiertos ideales para largas caminatas`,
+      highlight: `los senderos de los valles Rosa y Rojo, el valle de las Palomas hacia Uçhisar y los globos al amanecer desde Sunset Point`,
+      area: `el centro del pueblo, la carretera del Museo al Aire Libre de Göreme y los accesos a los valles`,
+    },
+    istanbul: {
+      personality: `una metrópolis famosa por tratar a sus animales callejeros como ciudadanos, donde los perros forman parte de la vida diaria en los dos continentes`,
+      highlight: `los paseos junto al Bósforo, el parque Maçka sobre Beşiktaş y el paseo marítimo de Moda en Kadıköy`,
+      area: `Gálata y Karaköy, Beşiktaş y Moda en el lado asiático`,
+    },
+    kas: {
+      personality: `un tranquilo pueblo portuario de la costa licia, encajado entre calas turquesas y senderos de montaña`,
+      highlight: `los senderos del Camino Licio, la vuelta a la península de Çukurbağ y el casco antiguo del puerto`,
+      area: `el casco antiguo junto al puerto, la península de Çukurbağ y la bahía de Küçükçakıl`,
+    },
+    kazbegi: {
+      personality: `un pueblo del alto Cáucaso frente al monte Kazbek, la base clásica para las grandes caminatas de Georgia`,
+      highlight: `el sendero de la iglesia de la Trinidad de Gergeti, el valle de Truso y el valle de Sno hacia Juta`,
+      area: `el centro de Stepantsminda, Gergeti al otro lado del río y la carretera del valle de Sno`,
+    },
+    marrakech: {
+      personality: `la ciudad imperial ocre de Marruecos, donde los patios de los riads y los grandes jardines ofrecen calma entre paseos por la medina`,
+      highlight: `los olivares de los jardines de la Menara, los paseos sombreados del Cyber Park y las pistas del Palmeral`,
+      area: `la medina, Guéliz y el Palmeral`,
+    },
+    mykonos: {
+      personality: `la más cosmopolita de las Cícladas, con sus callejuelas encaladas, sus molinos y sus calas de arena`,
+      highlight: `los molinos sobre la Pequeña Venecia, el puerto de Chora y el sendero costero entre Ornos y Agios Ioannis`,
+      area: `Mykonos ciudad, Ornos y Platis Gialos`,
+    },
+    'oropesa-del-mar': {
+      personality: `un destino familiar de la Costa del Azahar, entre calas, la colina del castillo y una vía verde junto al mar`,
+      highlight: `la Vía Verde del Mar hacia Benicàssim, el paseo de la playa de La Concha y el casco antiguo bajo el castillo`,
+      area: `el casco antiguo, el frente marítimo de La Concha y Marina d'Or`,
+    },
+    peniche: {
+      personality: `una península pesquera famosa por sus playas de surf y sus acantilados esculpidos por el oleaje`,
+      highlight: `el paseo por los acantilados del Cabo Carvoeiro, las playas de dunas de Baleal y los barcos a las Berlengas`,
+      area: `la ciudad portuaria amurallada, Baleal y Consolação`,
+    },
+    plovdiv: {
+      personality: `una de las ciudades habitadas más antiguas de Europa, extendida sobre suaves colinas en torno a un centro romano y del Renacimiento búlgaro muy caminable`,
+      highlight: `el jardín del Zar Simeón, las riberas del Maritsa y las vistas desde Sahat Tepe`,
+      area: `el barrio creativo de Kapana, el casco antiguo y las orillas del Maritsa`,
+    },
+    rouen: {
+      personality: `la capital normanda de entramado de madera, compacta y hecha para pasear despacio entre la catedral y los muelles`,
+      highlight: `los paseos ajardinados de los muelles del Sena, el Jardin des Plantes y las callejuelas en torno al Gros-Horloge`,
+      area: `el casco antiguo junto a la catedral, los muelles de la orilla derecha del Sena y el barrio del mercado de Saint-Marc`,
+    },
+    tbilisi: {
+      personality: `la acogedora capital de Georgia, donde los perros callejeros llevan chapa municipal y los parques trepan por las laderas`,
+      highlight: `el parque Rike junto al río, los senderos boscosos del Mtatsminda y el lago de las Tortugas sobre el parque Vake`,
+      area: `el casco antiguo, Vera y Vake`,
+    },
+    tirano: {
+      personality: `una pequeña ciudad de la Valtelina donde el Bernina Express se encuentra con plazas italianas y caminos junto al río`,
+      highlight: `el Sentiero Valtellina a lo largo del Adda, los panoramas del tren del Bernina y la explanada de la Madonna di Tirano`,
+      area: `el centro histórico, Madonna di Tirano y la ribera del Adda`,
+    },
+    valbona: {
+      personality: `un remoto pueblo de valle en pleno corazón de los Alpes albaneses, punto de partida de algunas de las mejores rutas de montaña de los Balcanes`,
+      highlight: `el sendero del paso de Valbona a Theth, el lecho de piedras blancas del río Valbona y los prados de Rragam`,
+      area: `el pueblo de Valbona, Rragam y la parte alta del valle hacia el paso`,
+    },
   },
   pt: {
     gijon: {
@@ -6487,6 +6832,121 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade que figura entre as mais pet-friendly de Europa. Com zonas dedicadas a cães nas praias, elétricos pet-friendly e passaportes de animais aceites em todo o lado',
       highlight: 'o passeio lacustre do Zürichsee, a colina do Uetliberg e os trilhos do rio Sihl',
       area: 'Kreis 4, Zurique Oeste e o Centro histórico',
+    },
+    agadir: {
+      personality: `uma descontraída cidade balnear atlântica, reconstruída em torno de um dos passeios marítimos mais longos e agradáveis de Marrocos`,
+      highlight: `o passeio marítimo de seis quilómetros, a marina e o miradouro da kasbah de Agadir Oufella`,
+      area: `a frente de praia, o bairro da marina e o estuário do Souss em direção ao Parque Nacional de Souss-Massa`,
+    },
+    antalya: {
+      personality: `a soalheira capital da Riviera turca, onde as vielas do porto romano encontram longas praias de areia e calhau`,
+      highlight: `o porto antigo de Kaleiçi, a praia de Konyaaltı e o parque das cascatas inferiores do Düden`,
+      area: `Kaleiçi, Konyaaltı e Lara`,
+    },
+    batumi: {
+      personality: `uma cidade subtropical do mar Negro onde os passeios à beira-mar ladeados de palmeiras se estendem por quilómetros`,
+      highlight: `o bulevar de Batumi com sete quilómetros, o Miracle Park junto ao mar e o jardim botânico na encosta`,
+      area: `a frente de mar do Velho Bulevar, a cidade velha em torno da praça Piazza e o Novo Bulevar`,
+    },
+    berat: {
+      personality: `a cidade albanesa das mil janelas, classificada pela UNESCO, disposta em socalcos otomanos brancos sobre o rio Osum`,
+      highlight: `o bairro do castelo de Berat, o passeio à beira do Osum e a ponte pedonal de Gorica`,
+      area: `Mangalem, Gorica e o bairro do castelo de Kalaja`,
+    },
+    bodrum: {
+      personality: `uma estância egeia de casas brancas, enrolada em torno de duas baías sob o castelo de São Pedro`,
+      highlight: `o passeio da marina, o castelo de São Pedro e o trilho costeiro em direção a Bitez`,
+      area: `a marina e a cidade velha, Gümbet e Bitez`,
+    },
+    'cluj-napoca': {
+      personality: `a descontraída capital universitária da Transilvânia, cheia de parques frondosos e esplanadas`,
+      highlight: `o Parque Central ao longo do rio Someș, os miradouros da colina Cetățuia e os trilhos da floresta de Hoia`,
+      area: `a cidade velha em torno da Piața Unirii, as margens do Someș e o verdejante bairro de Grigorescu`,
+    },
+    essaouira: {
+      personality: `um porto atlântico refrescado pelos ventos alísios, onde muralhas, gaivotas e uma imensa praia em crescente dão o ritmo`,
+      highlight: `as muralhas da Skala, as vielas sem carros da medina e a longa praia em direção a Diabat`,
+      area: `a medina, a frente de mar da Skala e a avenida da praia`,
+    },
+    'feldkirchen-in-karnten': {
+      personality: `uma pequena cidade de mercado da Caríntia, rodeada de lagos tranquilos, prados e colinas arborizadas`,
+      highlight: `as margens do lago Ossiach, os trilhos do sopé dos Nockberge e a praça antiga com arcadas`,
+      area: `o centro histórico, a margem do Ossiacher See e o sopé dos Nockberge`,
+    },
+    fundao: {
+      personality: `uma tranquila cidade da Beira Baixa, em plena terra da cereja, ao pé da Serra da Gardunha`,
+      highlight: `os trilhos da Serra da Gardunha, os pomares de cerejeiras de Alcongosta e as ruelas de granito do centro antigo`,
+      area: `o centro histórico, Alcongosta na encosta e as aldeias da Gardunha`,
+    },
+    gjirokastra: {
+      personality: `a cidade de pedra da Albânia, Património da UNESCO, onde as casas otomanas de telhados de lousa sobem em direção a um enorme castelo`,
+      highlight: `as muralhas do castelo de Gjirokastra, o velho bazar empedrado e os miradouros sobre o vale do Drino`,
+      area: `o Velho Bazar, o bairro do castelo e a cidade nova no vale`,
+    },
+    goreme: {
+      personality: `a aldeia no coração da Capadócia, rodeada de chaminés de fada e vales abertos ideais para longas caminhadas`,
+      highlight: `os trilhos dos vales Rosa e Vermelho, o vale dos Pombos em direção a Uçhisar e os balões ao nascer do sol vistos do Sunset Point`,
+      area: `o centro da aldeia, a estrada do Museu ao Ar Livre de Göreme e os inícios dos trilhos dos vales`,
+    },
+    istanbul: {
+      personality: `uma metrópole famosa por tratar os seus animais de rua como cidadãos, onde os cães fazem parte do dia a dia nos dois continentes`,
+      highlight: `os passeios à beira do Bósforo, o parque Maçka acima de Beşiktaş e o passeio marítimo de Moda, em Kadıköy`,
+      area: `Gálata e Karaköy, Beşiktaş e Moda, no lado asiático`,
+    },
+    kas: {
+      personality: `uma tranquila vila portuária da costa lícia, encaixada entre enseadas turquesa e trilhos de montanha`,
+      highlight: `os trilhos do Caminho Lício, a volta à península de Çukurbağ e a cidade velha junto ao porto`,
+      area: `a cidade velha em torno do porto, a península de Çukurbağ e a baía de Küçükçakıl`,
+    },
+    kazbegi: {
+      personality: `uma aldeia do alto Cáucaso em frente ao monte Kazbek, a base clássica para as grandes caminhadas da Geórgia`,
+      highlight: `o trilho da igreja da Trindade de Gergeti, o vale de Truso e o vale de Sno em direção a Juta`,
+      area: `o centro de Stepantsminda, Gergeti do outro lado do rio e a estrada do vale de Sno`,
+    },
+    marrakech: {
+      personality: `a cidade imperial ocre de Marrocos, onde os pátios dos riads e os grandes jardins oferecem calma entre passeios pela medina`,
+      highlight: `os olivais dos jardins da Menara, as alamedas sombreadas do Cyber Park e os caminhos do Palmeiral`,
+      area: `a medina, Guéliz e o Palmeiral`,
+    },
+    mykonos: {
+      personality: `a mais cosmopolita das Cíclades, com as suas vielas caiadas, os moinhos e as enseadas de areia`,
+      highlight: `os moinhos acima da Pequena Veneza, a frente portuária de Chora e o trilho costeiro entre Ornos e Agios Ioannis`,
+      area: `a cidade de Míconos, Ornos e Platis Gialos`,
+    },
+    'oropesa-del-mar': {
+      personality: `uma estância familiar da Costa del Azahar, entre enseadas, a colina do castelo e uma ecovia à beira-mar`,
+      highlight: `a Vía Verde del Mar em direção a Benicàssim, o passeio da praia de La Concha e a cidade velha sob o castelo`,
+      area: `a cidade velha, a frente de mar de La Concha e Marina d'Or`,
+    },
+    peniche: {
+      personality: `uma península piscatória famosa pelas praias de surf e pelas falésias esculpidas pela ondulação`,
+      highlight: `o passeio pelas falésias do Cabo Carvoeiro, as praias de dunas do Baleal e os barcos para as Berlengas`,
+      area: `a cidade portuária amuralhada, o Baleal e a Consolação`,
+    },
+    plovdiv: {
+      personality: `uma das cidades habitadas mais antigas da Europa, espalhada por colinas suaves em torno de um centro romano e do Renascimento búlgaro muito caminhável`,
+      highlight: `o jardim do Czar Simeão, as margens do Maritsa e as vistas do Sahat Tepe`,
+      area: `o bairro criativo de Kapana, a cidade velha e as margens do Maritsa`,
+    },
+    rouen: {
+      personality: `a capital normanda de casas de enxaimel, compacta e feita para passear devagar entre a catedral e os cais`,
+      highlight: `os passeios ajardinados dos cais do Sena, o Jardin des Plantes e as vielas em torno do Gros-Horloge`,
+      area: `a cidade velha junto à catedral, os cais da margem direita do Sena e o bairro do mercado de Saint-Marc`,
+    },
+    tbilisi: {
+      personality: `a acolhedora capital da Geórgia, onde os cães de rua usam placa municipal e os parques sobem pelas encostas`,
+      highlight: `o parque Rike junto ao rio, os trilhos arborizados do Mtatsminda e o lago das Tartarugas acima do parque Vake`,
+      area: `a cidade velha, Vera e Vake`,
+    },
+    tirano: {
+      personality: `uma pequena cidade da Valtellina onde o Bernina Express se encontra com praças italianas e caminhos à beira-rio`,
+      highlight: `o Sentiero Valtellina ao longo do rio Adda, os panoramas do comboio do Bernina e o adro da Madonna di Tirano`,
+      area: `o centro histórico, Madonna di Tirano e a margem do Adda`,
+    },
+    valbona: {
+      personality: `uma remota aldeia de vale no coração dos Alpes albaneses, ponto de partida de algumas das melhores caminhadas de montanha dos Balcãs`,
+      highlight: `o trilho do passo de Valbona a Theth, o leito de pedras brancas do rio Valbona e os prados de Rragam`,
+      area: `a aldeia de Valbona, Rragam e o alto do vale em direção ao passo`,
     },
   },
 }

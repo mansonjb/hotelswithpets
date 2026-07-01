@@ -781,6 +781,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the 13-hectare Citadelpark with its fenced off-leash zone, the 300-hectare Bourgoyen-Ossemeersen NATURA 2000 reserve, and the Blaarmeersen dog beach 4 km from the centre',
       area: 'the Korenmarkt-Graslei-Korenlei medieval waterfront, the oldest quarter of Patershol around the Gravensteen, and the Vrijdagmarkt cuberdon-vendor square',
     },
+    girona: {
+      personality: `Catalonia's walkable medieval gem an hour from Barcelona, a 103 000-resident city with 7 km of official off-leash canine itineraries along the Ter and Onyar, five fenced dog runs, the full 2 km wall walk open to leashed dogs and a 24-hour veterinary hospital`,
+      highlight: `the 2 km Passeig de la Muralla wall walk, the Devesa park with its two dog runs, and the off-leash Ribes del Ter canine itinerary`,
+      area: `the Barri Vell and the Call around Carrer de la Forca, Mercadal across the Onyar, and Fontajau by the Ter riverbanks`,
+    },
     glasgow: {
       personality: 'one of the UK\'s most reliably dog-friendly cities, with free pets on every ScotRail train, dog-welcoming pubs in every neighbourhood, and the 146-hectare Pollok Country Park inside the city',
       highlight: 'Pollok Country Park, Kelvingrove Park, and Loch Lomond a 50-minute train ride away',
@@ -2394,6 +2399,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Citadelpark de 13 hectares avec sa zone canine clôturée, la réserve NATURA 2000 du Bourgoyen-Ossemeersen (300 ha) et la plage canine de Blaarmeersen à 4 km du centre',
       area: 'le front d\'eau médiéval Korenmarkt-Graslei-Korenlei, le Patershol (plus ancien quartier) autour du Gravensteen, et le Vrijdagmarkt des vendeurs de cuberdons',
     },
+    girona: {
+      personality: `la perle médiévale piétonne de la Catalogne à une heure de Barcelone, une ville de 103 000 habitants avec 7 km d'itinéraires canins officiels sans laisse le long du Ter et de l'Onyar, cinq enclos clôturés, les 2 km de chemin de ronde ouverts aux chiens en laisse et un hôpital vétérinaire 24h/24`,
+      highlight: `le chemin de ronde de 2 km du Passeig de la Muralla, le parc de la Devesa et ses deux enclos canins, et l'itinéraire canin sans laisse des Ribes del Ter`,
+      area: `le Barri Vell et le Call autour du Carrer de la Forca, Mercadal de l'autre côté de l'Onyar, et Fontajau près des berges du Ter`,
+    },
     glasgow: {
       personality: 'l\'une des villes britanniques les plus fiables côté chiens, avec animaux gratuits dans chaque train ScotRail, pubs dog-friendly dans chaque quartier et les 146 hectares de Pollok Country Park dans la ville',
       highlight: 'Pollok Country Park, Kelvingrove Park et le Loch Lomond à 50 minutes de train',
@@ -4006,6 +4016,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Citadelpark de 13 hectáreas con su zona canina vallada, la reserva NATURA 2000 de Bourgoyen-Ossemeersen (300 ha) y la playa canina de Blaarmeersen a 4 km del centro',
       area: 'el frente de agua medieval Korenmarkt-Graslei-Korenlei, el Patershol (barrio más antiguo) alrededor del Gravensteen, y el Vrijdagmarkt de los vendedores de cuberdones',
     },
+    girona: {
+      personality: `la joya medieval peatonal de Cataluña a una hora de Barcelona, una ciudad de 103 000 habitantes con 7 km de itinerarios caninos oficiales sin correa junto al Ter y el Onyar, cinco recintos vallados, los 2 km de camino de ronda abiertos a perros con correa y un hospital veterinario 24 horas`,
+      highlight: `el camino de ronda de 2 km del Passeig de la Muralla, el parque de la Devesa con sus dos recintos caninos, y el itinerario canino sin correa de las Ribes del Ter`,
+      area: `el Barri Vell y el Call en torno al Carrer de la Forca, Mercadal al otro lado del Onyar, y Fontajau junto a las riberas del Ter`,
+    },
     glasgow: {
       personality: 'una de las ciudades del Reino Unido más fiables con perros, con mascotas gratis en cada tren ScotRail, pubs dog-friendly en cada barrio y las 146 hectáreas de Pollok Country Park dentro de la ciudad',
       highlight: 'Pollok Country Park, Kelvingrove Park y el Loch Lomond a 50 minutos en tren',
@@ -5617,6 +5632,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `cidade universitária flamenga progressista com o maior centro histórico sem carros da Europa, o castelo Gravensteen dos condes da Flandres sobre o seu fosso, o Cordeiro Místico de Van Eyck na catedral de São Bavão, uma praia de banho canino intraurbana em Blaarmeersen e comboios NMBS grátis para cães até Bruges em 25 minutos`,
       highlight: 'o Citadelpark de 13 hectares com a sua zona canina vedada, a reserva NATURA 2000 do Bourgoyen-Ossemeersen (300 ha) e a praia canina de Blaarmeersen a 4 km do centro',
       area: 'a frente de água medieval Korenmarkt-Graslei-Korenlei, o Patershol (bairro mais antigo) em torno do Gravensteen, e o Vrijdagmarkt dos vendedores de cuberdons',
+    },
+    girona: {
+      personality: `a joia medieval pedonal da Catalunha a uma hora de Barcelona, uma cidade de 103 000 habitantes com 7 km de itinerários caninos oficiais sem trela ao longo do Ter e do Onyar, cinco recintos vedados, os 2 km de caminho de ronda abertos a cães com trela e um hospital veterinário 24 horas`,
+      highlight: `o caminho de ronda de 2 km do Passeig de la Muralla, o parque da Devesa com os seus dois recintos caninos, e o itinerário canino sem trela das Ribes del Ter`,
+      area: `o Barri Vell e o Call à volta do Carrer de la Forca, Mercadal do outro lado do Onyar, e Fontajau junto às margens do Ter`,
     },
     glasgow: {
       personality: 'uma das cidades do Reino Unido mais fiables com cães, com animais grátis en cada comboio ScotRail, pubs pet-friendly en cada bairro e as 146 hectáreas de Pollok Country Park dentro da cidade',

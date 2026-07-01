@@ -1,0 +1,1157 @@
+{
+  "slug": "girona",
+  "name": "Girona",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "lastUpdated": "2026-07-01",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Girona",
+      "titleFr": "Restaurants acceptant les animaux à Gérone",
+      "titleEs": "Restaurantes con mascotas en Girona",
+      "titlePt": "Restaurantes pet-friendly em Girona",
+      "introEn": "Girona punches far above its 103 000 residents at the table: this is the town of the Roca brothers, and the dog-friendly scene has followed the food boom. Local directories list more than 40 venues that admit dogs, from centenary Catalan dining rooms on Placa de la Independencia to specialty coffee bars in the Barri Vell. The habit here is to reserve and mention the dog; terraces are yours by default, and many places also open their interiors to calm, leashed dogs.",
+      "introFr": "Gérone joue bien au-dessus de ses 103 000 habitants à table : c'est la ville des frères Roca, et la scène dog-friendly a suivi le boom gastronomique. Les annuaires locaux recensent plus de 40 établissements qui admettent les chiens, des salles catalanes centenaires de la Placa de la Independencia aux bars à café de spécialité du Barri Vell. L'usage ici est de réserver en mentionnant le chien ; les terrasses vous sont acquises par défaut, et beaucoup d'adresses ouvrent aussi leur intérieur aux chiens calmes en laisse.",
+      "introEs": "Girona rinde muy por encima de sus 103 000 habitantes en la mesa: es la ciudad de los hermanos Roca, y la escena dog-friendly ha seguido al boom gastronómico. Los directorios locales listan más de 40 locales que admiten perros, desde comedores catalanes centenarios en la Placa de la Independencia hasta cafés de especialidad en el Barri Vell. La costumbre aquí es reservar avisando de que vas con perro; las terrazas son tuyas por defecto, y muchos sitios abren también su interior a perros tranquilos con correa.",
+      "introPt": "Girona rende muito acima dos seus 103 000 habitantes à mesa: é a cidade dos irmãos Roca, e a cena dog-friendly acompanhou o boom gastronómico. Os diretórios locais listam mais de 40 locais que aceitam cães, das salas catalãs centenárias na Placa de la Independencia aos cafés de especialidade no Barri Vell. O hábito aqui é reservar avisando que vai com cão; as esplanadas são suas por defeito, e muitos locais abrem também o interior a cães calmos com trela.",
+      "places": [
+        {
+          "name": "Casa Marieta",
+          "address": "Plaça de la Independència 5-6, 17001 Girona",
+          "neighborhood": "Plaça de la Independència",
+          "photo": "/images/city-places/girona-restaurants-casa-marieta.jpg",
+          "website": "https://casamarieta.com/",
+          "description": "Girona's oldest restaurant, serving market-driven Catalan home cooking on the arcaded Placa de la Independencia since 1892, and a fixture on the local dog-friendly lists. The big terrace under the arches is ideal with a dog while you work through escudella or botifarra amb mongetes.",
+          "descriptionFr": "Le plus ancien restaurant de Gérone, qui sert une cuisine catalane de marché sur la Placa de la Independencia à arcades depuis 1892, et un habitué des listes dog-friendly locales. La grande terrasse sous les arcades est idéale avec un chien pendant que vous attaquez une escudella ou une botifarra amb mongetes.",
+          "descriptionEs": "El restaurante más antiguo de Girona, sirviendo cocina catalana de mercado en la porticada Placa de la Independencia desde 1892, y un fijo en las listas dog-friendly locales. La gran terraza bajo los arcos es ideal con perro mientras despachas una escudella o butifarra con judías.",
+          "descriptionPt": "O restaurante mais antigo de Girona, servindo cozinha catalã de mercado na Placa de la Independencia com arcadas desde 1892, e presença fixa nas listas dog-friendly locais. A grande esplanada sob os arcos é ideal com um cão enquanto ataca uma escudella ou botifarra com feijão.",
+          "petPolicy": "Dogs welcome on the terrace; mention the dog when reserving",
+          "petPolicyFr": "Chiens bienvenus en terrasse ; mentionnez le chien à la réservation",
+          "petPolicyEs": "Perros bienvenidos en terraza; avisa del perro al reservar",
+          "petPolicyPt": "Cães bem-vindos na esplanada; avise do cão ao reservar",
+          "priceRange": "€€",
+          "mustTry": "Escudella, botifarra amb mongetes, crema catalana",
+          "mustTryFr": "Escudella, botifarra amb mongetes, crème catalane",
+          "mustTryEs": "Escudella, butifarra con judías, crema catalana",
+          "mustTryPt": "Escudella, botifarra com feijão, crema catalana",
+          "openingHours": "Lunch and dinner, closed Mondays",
+          "tip": "The square's arcades give shade at midday, the sunniest tables in winter.",
+          "tipFr": "Les arcades de la place donnent de l'ombre à midi, les tables les plus ensoleillées en hiver.",
+          "tipEs": "Los arcos de la plaza dan sombra al mediodía y las mesas más soleadas en invierno.",
+          "tipPt": "As arcadas da praça dão sombra ao meio-dia e as mesas mais soalheiras no inverno.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa+Marieta+Girona"
+        },
+        {
+          "name": "Federal Café Girona",
+          "address": "Carrer de la Força 9, 17004 Girona",
+          "neighborhood": "Barri Vell",
+          "photo": "/images/city-places/girona-restaurants-federal-cafe.jpg",
+          "website": "https://www.federalcafe.es/federalgirona",
+          "description": "The Girona outpost of the Australian-style brunch group sits right on the Via Augusta's medieval line, Carrer de la Forca, in the heart of the old town. Specialty coffee, all-day brunch and a stated dog-friendly policy make it the natural morning stop before climbing to the cathedral.",
+          "descriptionFr": "L'antenne géronaise du groupe de brunch à l'australienne se trouve sur le tracé médiéval de la Via Augusta, Carrer de la Forca, au cœur de la vieille ville. Café de spécialité, brunch toute la journée et politique dog-friendly assumée en font l'étape matinale naturelle avant de monter à la cathédrale.",
+          "descriptionEs": "La sede gerundense del grupo de brunch al estilo australiano está sobre el trazado medieval de la Via Augusta, Carrer de la Forca, en pleno casco antiguo. Café de especialidad, brunch todo el día y una política dog-friendly declarada la convierten en la parada matinal natural antes de subir a la catedral.",
+          "descriptionPt": "A casa de Girona do grupo de brunch ao estilo australiano fica sobre o traçado medieval da Via Augusta, Carrer de la Forca, em pleno centro histórico. Café de especialidade, brunch todo o dia e uma política dog-friendly declarada fazem dela a paragem matinal natural antes de subir à catedral.",
+          "petPolicy": "Dogs welcome, water bowls on request",
+          "petPolicyFr": "Chiens bienvenus, gamelles d'eau sur demande",
+          "petPolicyEs": "Perros bienvenidos, cuencos de agua bajo petición",
+          "petPolicyPt": "Cães bem-vindos, taças de água a pedido",
+          "priceRange": "€€",
+          "mustTry": "Flat white and the brunch plates",
+          "mustTryFr": "Flat white et les assiettes de brunch",
+          "mustTryEs": "Flat white y los platos de brunch",
+          "mustTryPt": "Flat white e os pratos de brunch",
+          "openingHours": "Daily from breakfast to early evening",
+          "tip": "Weekend brunch queues by 11:00; with a dog, aim for opening time or mid-afternoon.",
+          "tipFr": "Le brunch du week-end fait la queue dès 11h ; avec un chien, visez l'ouverture ou le milieu d'après-midi.",
+          "tipEs": "El brunch del fin de semana tiene cola a las 11:00; con perro, apunta a la apertura o media tarde.",
+          "tipPt": "O brunch de fim de semana tem fila às 11h00; com cão, aponte para a abertura ou meio da tarde.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Federal+Cafe+Girona"
+        },
+        {
+          "name": "Casa Cacao (café)",
+          "address": "Plaça de Catalunya 23, 17002 Girona",
+          "neighborhood": "Between Barri Vell and Eixample",
+          "photo": "/images/city-places/girona-restaurants-casa-cacao.jpg",
+          "website": "https://casacacaogirona.com/",
+          "description": "Jordi Roca's bean-to-bar chocolate house and cafe on Placa de Catalunya, at the foot of the boutique hotel of the same name, admits well-behaved dogs in the cafe area. Hot chocolate, bonbons and pastries from the most decorated pastry chef of his generation, with the old town one bridge away.",
+          "descriptionFr": "La maison de chocolat bean-to-bar et café de Jordi Roca sur la Placa de Catalunya, au pied de l'hôtel boutique du même nom, admet les chiens sages dans l'espace café. Chocolat chaud, bonbons et pâtisseries du chef pâtissier le plus titré de sa génération, avec la vieille ville à un pont de là.",
+          "descriptionEs": "La casa de chocolate bean-to-bar y café de Jordi Roca en la Placa de Catalunya, a los pies del hotel boutique del mismo nombre, admite perros educados en la zona de cafetería. Chocolate caliente, bombones y pastelería del pastelero más laureado de su generación, con el casco antiguo a un puente de distancia.",
+          "descriptionPt": "A casa de chocolate bean-to-bar e café de Jordi Roca na Placa de Catalunya, na base do hotel boutique com o mesmo nome, aceita cães bem-comportados na zona de cafetaria. Chocolate quente, bombons e pastelaria do pasteleiro mais premiado da sua geração, com o centro histórico a uma ponte de distância.",
+          "petPolicy": "Well-behaved dogs admitted in the cafe area; the hotel upstairs is also pet-friendly",
+          "petPolicyFr": "Chiens sages admis dans l'espace café ; l'hôtel à l'étage est aussi pet-friendly",
+          "petPolicyEs": "Perros educados admitidos en la cafetería; el hotel de arriba también es pet-friendly",
+          "petPolicyPt": "Cães bem-comportados admitidos na cafetaria; o hotel em cima também é pet-friendly",
+          "priceRange": "€€",
+          "mustTry": "Bean-to-bar hot chocolate and the signature bonbons",
+          "mustTryFr": "Chocolat chaud bean-to-bar et les bonbons signature",
+          "mustTryEs": "Chocolate caliente bean-to-bar y los bombones de la casa",
+          "mustTryPt": "Chocolate quente bean-to-bar e os bombons da casa",
+          "openingHours": "Daily, daytime hours",
+          "tip": "Chocolate is toxic to dogs; order a water bowl for yours and keep the bonbons on your side of the table.",
+          "tipFr": "Le chocolat est toxique pour les chiens ; demandez une gamelle d'eau pour le vôtre et gardez les bonbons de votre côté de la table.",
+          "tipEs": "El chocolate es tóxico para los perros; pide un cuenco de agua para el tuyo y mantén los bombones en tu lado de la mesa.",
+          "tipPt": "O chocolate é tóxico para os cães; peça uma taça de água para o seu e mantenha os bombons do seu lado da mesa.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa+Cacao+Girona"
+        }
+      ],
+      "tipsEn": [
+        "Always phone ahead and say you are bringing a dog; several Barri Vell dining rooms admit small dogs only or cap the number per service.",
+        "August terraces are hot; Catalan lunch runs late (14:00-15:30), so book the shaded first sitting with a dog.",
+        "The SrPerro and restaurantes.info directories keep updated dog-friendly lists for Girona city."
+      ],
+      "tipsFr": [
+        "Téléphonez toujours avant en précisant que vous venez avec un chien ; plusieurs salles du Barri Vell n'admettent que les petits chiens ou en limitent le nombre par service.",
+        "Les terrasses d'août sont chaudes ; le déjeuner catalan est tardif (14h-15h30), réservez le premier service à l'ombre avec un chien.",
+        "Les annuaires SrPerro et restaurantes.info tiennent des listes dog-friendly à jour pour la ville de Gérone."
+      ],
+      "tipsEs": [
+        "Llama siempre antes y avisa de que llevas perro; varios comedores del Barri Vell solo admiten perros pequeños o limitan el número por servicio.",
+        "Las terrazas de agosto queman; la comida catalana es tardía (14:00-15:30), reserva el primer turno a la sombra con perro.",
+        "Los directorios SrPerro y restaurantes.info mantienen listas dog-friendly actualizadas de Girona ciudad."
+      ],
+      "tipsPt": [
+        "Ligue sempre antes e avise que leva cão; várias salas do Barri Vell só aceitam cães pequenos ou limitam o número por serviço.",
+        "As esplanadas de agosto queimam; o almoço catalão é tardio (14h00-15h30), reserve o primeiro turno à sombra com cão.",
+        "Os diretórios SrPerro e restaurantes.info mantêm listas dog-friendly atualizadas de Girona cidade."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside restaurants in Girona?",
+          "a": "Often yes, at the owner's discretion: Catalan law lets each venue decide, and Girona's food scene is notably welcoming. Terraces are near-universal; interiors frequently admit calm, leashed dogs, sometimes with a small-size condition."
+        },
+        {
+          "q": "Do I need to book ahead when dining with a dog?",
+          "a": "Yes, it is the local norm. Mention the dog when reserving; popular spots like Girum or Dit i Fet explicitly ask for it."
+        },
+        {
+          "q": "Is there anywhere signature to eat near the Onyar with a dog?",
+          "a": "The Placa de la Independencia arcades, one bridge from the painted Onyar houses, concentrate historic terraces including Casa Marieta, all comfortable with dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis à l'intérieur des restaurants à Gérone ?",
+          "a": "Souvent oui, à la discrétion du patron : la loi catalane laisse chaque établissement décider, et la scène gastronomique de Gérone est particulièrement accueillante. Les terrasses sont quasi systématiques ; les intérieurs admettent fréquemment les chiens calmes en laisse, parfois avec une condition de petite taille."
+        },
+        {
+          "q": "Faut-il réserver quand on dîne avec un chien ?",
+          "a": "Oui, c'est la norme locale. Mentionnez le chien à la réservation ; des adresses courues comme Girum ou Dit i Fet le demandent explicitement."
+        },
+        {
+          "q": "Où manger d'emblématique près de l'Onyar avec un chien ?",
+          "a": "Les arcades de la Placa de la Independencia, à un pont des maisons colorées de l'Onyar, concentrent les terrasses historiques dont Casa Marieta, toutes à l'aise avec les chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se permiten perros dentro de los restaurantes en Girona?",
+          "a": "A menudo sí, a criterio del dueño: la ley catalana deja decidir a cada local, y la escena gastronómica de Girona es notablemente acogedora. Las terrazas son casi universales; los interiores admiten con frecuencia perros tranquilos con correa, a veces con condición de tamaño pequeño."
+        },
+        {
+          "q": "¿Hay que reservar para comer con perro?",
+          "a": "Sí, es la norma local. Avisa del perro al reservar; sitios populares como Girum o Dit i Fet lo piden explícitamente."
+        },
+        {
+          "q": "¿Dónde comer algo emblemático cerca del Onyar con perro?",
+          "a": "Los arcos de la Placa de la Independencia, a un puente de las casas pintadas del Onyar, concentran terrazas históricas como Casa Marieta, todas cómodas con perros."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães podem entrar nos restaurantes em Girona?",
+          "a": "Muitas vezes sim, ao critério do dono: a lei catalã deixa cada local decidir, e a cena gastronómica de Girona é notavelmente acolhedora. As esplanadas são quase universais; os interiores aceitam com frequência cães calmos com trela, por vezes com condição de tamanho pequeno."
+        },
+        {
+          "q": "É preciso reservar para comer com cão?",
+          "a": "Sim, é a norma local. Avise do cão ao reservar; locais populares como o Girum ou o Dit i Fet pedem-no explicitamente."
+        },
+        {
+          "q": "Onde comer algo emblemático perto do Onyar com cão?",
+          "a": "As arcadas da Placa de la Independencia, a uma ponte das casas pintadas do Onyar, concentram esplanadas históricas como a Casa Marieta, todas confortáveis com cães."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Parks & Green Spaces for Dogs in Girona",
+      "titleFr": "Parcs et espaces verts pour chiens à Gérone",
+      "titleEs": "Parques y zonas verdes para perros en Girona",
+      "titlePt": "Parques e espaços verdes para cães em Girona",
+      "introEn": "Girona's city council runs one of Catalonia's most dog-forward green policies: five official canine itineraries totalling 7 km where dogs may walk off-leash under their owner's control, along the Ter and Onyar rivers, the Santa Eugenia market gardens and the Sant Daniel valley, plus five fenced dog runs (two of them in the great Devesa park) and summer shared-use woods. Add the Gavarres massif trailheads on the city's doorstep and you get a rare thing: a historic city where the dog can legally stretch out.",
+      "introFr": "La mairie de Gérone mène l'une des politiques vertes les plus favorables aux chiens de Catalogne : cinq itinéraires canins officiels totalisant 7 km où les chiens peuvent marcher sans laisse sous le contrôle de leur maître, le long du Ter et de l'Onyar, des jardins maraîchers de Santa Eugenia et de la vallée de Sant Daniel, plus cinq enclos clôturés (dont deux dans le grand parc de la Devesa) et des bois à usage partagé l'été. Ajoutez les départs de sentiers du massif des Gavarres aux portes de la ville et vous obtenez une chose rare : une ville historique où le chien peut légalement se dégourdir.",
+      "introEs": "El ayuntamiento de Girona aplica una de las políticas verdes más favorables al perro de Cataluña: cinco itinerarios caninos oficiales que suman 7 km donde los perros pueden ir sueltos bajo control de su dueño, junto al Ter y el Onyar, las huertas de Santa Eugenia y el valle de Sant Daniel, más cinco recintos vallados (dos de ellos en el gran parque de la Devesa) y bosques de uso compartido en verano. Suma los inicios de sendero del macizo de las Gavarres a las puertas de la ciudad y tienes algo raro: una ciudad histórica donde el perro puede estirarse legalmente.",
+      "introPt": "A câmara de Girona aplica uma das políticas verdes mais favoráveis ao cão da Catalunha: cinco itinerários caninos oficiais que somam 7 km onde os cães podem ir soltos sob controlo do dono, ao longo do Ter e do Onyar, das hortas de Santa Eugenia e do vale de Sant Daniel, mais cinco recintos vedados (dois deles no grande parque da Devesa) e bosques de uso partilhado no verão. Some os inícios de trilho do maciço das Gavarres às portas da cidade e tem algo raro: uma cidade histórica onde o cão pode esticar as pernas legalmente.",
+      "places": [
+        {
+          "name": "Parc de la Devesa",
+          "address": "Passeig de la Devesa, 17001 Girona",
+          "neighborhood": "Between the old town and the Ter",
+          "photo": "/images/city-places/girona-parks-devesa.jpg",
+          "website": "https://web.girona.cat/animals/gossos/esbarjo",
+          "description": "Girona's monumental 40-hectare park of towering plane trees, laid out in shaded avenues between the old town and the Ter river, holds two of the city's five fenced dog runs. The gravel alleys stay cool even in high summer, the best midday refuge in town for a dog.",
+          "descriptionFr": "Le parc monumental de 40 hectares de Gérone, aux platanes immenses plantés en avenues ombragées entre la vieille ville et le Ter, abrite deux des cinq enclos canins clôturés de la ville. Les allées de gravier restent fraîches même en plein été, le meilleur refuge de midi de la ville pour un chien.",
+          "descriptionEs": "El monumental parque de 40 hectáreas de Girona, de plátanos gigantes plantados en avenidas sombreadas entre el casco antiguo y el Ter, alberga dos de los cinco recintos caninos vallados de la ciudad. Los paseos de grava se mantienen frescos incluso en pleno verano, el mejor refugio de mediodía de la ciudad para un perro.",
+          "descriptionPt": "O monumental parque de 40 hectares de Girona, de plátanos gigantes plantados em avenidas sombreadas entre o centro histórico e o Ter, alberga dois dos cinco recintos caninos vedados da cidade. As alamedas de gravilha mantêm-se frescas mesmo em pleno verão, o melhor refúgio de meio-dia da cidade para um cão.",
+          "petPolicy": "Leashed dogs in the park; off-leash inside the two fenced runs",
+          "petPolicyFr": "Chiens en laisse dans le parc ; sans laisse dans les deux enclos clôturés",
+          "petPolicyEs": "Perros con correa en el parque; sueltos dentro de los dos recintos vallados",
+          "petPolicyPt": "Cães com trela no parque; soltos dentro dos dois recintos vedados",
+          "size": "40 hectares",
+          "features": [
+            "Two fenced dog runs",
+            "Deep shade",
+            "Riverside location"
+          ],
+          "tip": "Saturday mornings the park hosts a market; keep to the river side with a nervous dog.",
+          "tipFr": "Le samedi matin, le parc accueille un marché ; restez côté rivière avec un chien craintif.",
+          "tipEs": "Los sábados por la mañana el parque acoge un mercado; quédate del lado del río con un perro nervioso.",
+          "tipPt": "Aos sábados de manhã o parque acolhe um mercado; fique do lado do rio com um cão nervoso.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parc+de+la+Devesa+Girona"
+        },
+        {
+          "name": "Itinerari caní de les Ribes del Ter",
+          "address": "Parc de les Ribes del Ter, 17007 Girona",
+          "neighborhood": "Ter riverbanks, Fontajau",
+          "photo": "/images/city-places/girona-parks-ribes-del-ter.jpg",
+          "website": "https://web.girona.cat/animals/gossos/itineraris",
+          "description": "The flagship stretch of Girona's five official canine itineraries (7 km in total), where the city expressly allows off-leash walking under the owner's control, following the Ter's banks past meadows and poplar groves. Flat, waterside and linked to the Devesa, it is the standard morning circuit of Girona's dog owners.",
+          "descriptionFr": "Le tronçon phare des cinq itinéraires canins officiels de Gérone (7 km au total), où la ville autorise expressément la marche sans laisse sous le contrôle du maître, le long des berges du Ter entre prairies et peupleraies. Plat, au bord de l'eau et relié à la Devesa, c'est le circuit matinal standard des maîtres géronais.",
+          "descriptionEs": "El tramo estrella de los cinco itinerarios caninos oficiales de Girona (7 km en total), donde la ciudad permite expresamente pasear sin correa bajo control del dueño, siguiendo las riberas del Ter entre prados y choperas. Llano, junto al agua y conectado con la Devesa, es el circuito matinal estándar de los dueños gerundenses.",
+          "descriptionPt": "O troço estrela dos cinco itinerários caninos oficiais de Girona (7 km no total), onde a cidade permite expressamente passear sem trela sob controlo do dono, seguindo as margens do Ter entre prados e choupais. Plano, à beira de água e ligado à Devesa, é o circuito matinal padrão dos donos gironinos.",
+          "petPolicy": "Off-leash allowed on the marked itinerary under owner control; waste pickup mandatory",
+          "petPolicyFr": "Sans laisse autorisé sur l'itinéraire balisé sous contrôle du maître ; ramassage obligatoire",
+          "petPolicyEs": "Sin correa permitido en el itinerario señalizado bajo control del dueño; recogida obligatoria",
+          "petPolicyPt": "Sem trela permitido no itinerário sinalizado sob controlo do dono; recolha obrigatória",
+          "size": "Part of 7 km of official canine routes",
+          "features": [
+            "Off-leash legal",
+            "River access",
+            "Flat and shaded"
+          ],
+          "tip": "The other itineraries run at Santa Eugenia's orchards, Sant Daniel and along the Onyar; all are mapped on web.girona.cat.",
+          "tipFr": "Les autres itinéraires passent par les jardins de Santa Eugenia, Sant Daniel et l'Onyar ; tous sont cartographiés sur web.girona.cat.",
+          "tipEs": "Los demás itinerarios van por las huertas de Santa Eugenia, Sant Daniel y el Onyar; todos están mapeados en web.girona.cat.",
+          "tipPt": "Os outros itinerários passam pelas hortas de Santa Eugenia, Sant Daniel e o Onyar; todos estão mapeados em web.girona.cat.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parc+de+les+Ribes+del+Ter+Girona"
+        },
+        {
+          "name": "Vall de Sant Daniel & Gavarres trails",
+          "address": "Vall de Sant Daniel, 17007 Girona",
+          "neighborhood": "Sant Daniel, east of the walls",
+          "photo": "",
+          "description": "Directly behind the cathedral, the green Sant Daniel valley slips out of the city walls into the wooded Gavarres massif, with one of the official canine itineraries at its mouth and marked hiking trails beyond. Springs, a Romanesque monastery and holm-oak forest within 20 minutes' walk of the Barri Vell.",
+          "descriptionFr": "Juste derrière la cathédrale, la verte vallée de Sant Daniel s'échappe des remparts vers le massif boisé des Gavarres, avec l'un des itinéraires canins officiels à son entrée et des sentiers balisés au-delà. Sources, monastère roman et forêt de chênes verts à 20 minutes à pied du Barri Vell.",
+          "descriptionEs": "Justo detrás de la catedral, el verde valle de Sant Daniel se escapa de las murallas hacia el boscoso macizo de las Gavarres, con uno de los itinerarios caninos oficiales en su entrada y senderos señalizados más allá. Fuentes, un monasterio románico y bosque de encinas a 20 minutos a pie del Barri Vell.",
+          "descriptionPt": "Mesmo atrás da catedral, o verde vale de Sant Daniel escapa das muralhas para o maciço arborizado das Gavarres, com um dos itinerários caninos oficiais à entrada e trilhos marcados mais além. Nascentes, um mosteiro românico e floresta de azinheiras a 20 minutos a pé do Barri Vell.",
+          "petPolicy": "Off-leash on the marked canine itinerary; leash recommended on shared Gavarres trails",
+          "petPolicyFr": "Sans laisse sur l'itinéraire canin balisé ; laisse recommandée sur les sentiers partagés des Gavarres",
+          "petPolicyEs": "Sin correa en el itinerario canino señalizado; correa recomendada en los senderos compartidos de las Gavarres",
+          "petPolicyPt": "Sem trela no itinerário canino sinalizado; trela recomendada nos trilhos partilhados das Gavarres",
+          "size": "Valley and massif trail network",
+          "features": [
+            "Hiking trails",
+            "Springs",
+            "Romanesque monastery"
+          ],
+          "tip": "Carry water uphill in summer; the valley springs are the last reliable refill.",
+          "tipFr": "Emportez de l'eau pour la montée en été ; les sources de la vallée sont le dernier ravitaillement fiable.",
+          "tipEs": "Lleva agua para la subida en verano; las fuentes del valle son el último punto fiable para rellenar.",
+          "tipPt": "Leve água para a subida no verão; as nascentes do vale são o último reabastecimento fiável.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vall+de+Sant+Daniel+Girona"
+        }
+      ],
+      "tipsEn": [
+        "Girona expressly legalizes off-leash walking on its five marked canine itineraries, a rarity in Spain; everywhere else in town the leash is mandatory.",
+        "In summer (until August 31) the city opens extra shared-use shaded woods for off-leash dogs at Pabordia, Font de l'Abella, Palau and Papasseit.",
+        "Catalonia lists potentially dangerous breeds (PPP): those dogs need leash and muzzle in all public spaces, including the itineraries."
+      ],
+      "tipsFr": [
+        "Gérone légalise expressément la marche sans laisse sur ses cinq itinéraires canins balisés, une rareté en Espagne ; partout ailleurs en ville, la laisse est obligatoire.",
+        "En été (jusqu'au 31 août), la ville ouvre des bois ombragés supplémentaires à usage partagé pour chiens sans laisse à Pabordia, Font de l'Abella, Palau et Papasseit.",
+        "La Catalogne liste des races potentiellement dangereuses (PPP) : ces chiens doivent porter laisse et muselière dans tout espace public, itinéraires compris."
+      ],
+      "tipsEs": [
+        "Girona legaliza expresamente el paseo sin correa en sus cinco itinerarios caninos señalizados, una rareza en España; en el resto de la ciudad la correa es obligatoria.",
+        "En verano (hasta el 31 de agosto) la ciudad abre bosques sombreados adicionales de uso compartido para perros sueltos en Pabordia, Font de l'Abella, Palau y Papasseit.",
+        "Cataluña lista razas potencialmente peligrosas (PPP): esos perros necesitan correa y bozal en todo espacio público, itinerarios incluidos."
+      ],
+      "tipsPt": [
+        "Girona legaliza expressamente o passeio sem trela nos seus cinco itinerários caninos sinalizados, uma raridade em Espanha; no resto da cidade a trela é obrigatória.",
+        "No verão (até 31 de agosto) a cidade abre bosques sombreados adicionais de uso partilhado para cães soltos em Pabordia, Font de l'Abella, Palau e Papasseit.",
+        "A Catalunha lista raças potencialmente perigosas (PPP): esses cães precisam de trela e açaime em todo o espaço público, itinerários incluídos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog go off-leash anywhere in Girona?",
+          "a": "Yes, legally: on the five official canine itineraries (7 km along the Ter, Onyar, Santa Eugenia orchards and Sant Daniel) and inside the five fenced runs, always under your control. Elsewhere the leash is required."
+        },
+        {
+          "q": "Where are the fenced dog parks?",
+          "a": "Two in the Devesa park plus Parc del Migdia, Mas Ramada and Mas Maso, all free and listed with maps on the city's animal welfare pages."
+        },
+        {
+          "q": "Is there real hiking from the city with a dog?",
+          "a": "Yes, the Sant Daniel valley behind the cathedral leads straight into the Gavarres massif's marked trails; you can walk from the Barri Vell into holm-oak forest in 20 minutes."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il être sans laisse quelque part à Gérone ?",
+          "a": "Oui, légalement : sur les cinq itinéraires canins officiels (7 km le long du Ter, de l'Onyar, des jardins de Santa Eugenia et de Sant Daniel) et dans les cinq enclos clôturés, toujours sous votre contrôle. Ailleurs, la laisse est requise."
+        },
+        {
+          "q": "Où sont les parcs canins clôturés ?",
+          "a": "Deux dans le parc de la Devesa plus Parc del Migdia, Mas Ramada et Mas Maso, tous gratuits et cartographiés sur les pages bien-être animal de la mairie."
+        },
+        {
+          "q": "Peut-on vraiment randonner depuis la ville avec un chien ?",
+          "a": "Oui, la vallée de Sant Daniel derrière la cathédrale mène directement aux sentiers balisés du massif des Gavarres ; on passe du Barri Vell à la forêt de chênes verts en 20 minutes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro ir suelto en algún sitio de Girona?",
+          "a": "Sí, legalmente: en los cinco itinerarios caninos oficiales (7 km junto al Ter, el Onyar, las huertas de Santa Eugenia y Sant Daniel) y dentro de los cinco recintos vallados, siempre bajo tu control. En el resto, correa obligatoria."
+        },
+        {
+          "q": "¿Dónde están los parques caninos vallados?",
+          "a": "Dos en el parque de la Devesa más Parc del Migdia, Mas Ramada y Mas Maso, todos gratuitos y con mapas en las páginas de bienestar animal del ayuntamiento."
+        },
+        {
+          "q": "¿Se puede hacer senderismo de verdad desde la ciudad con perro?",
+          "a": "Sí, el valle de Sant Daniel tras la catedral lleva directo a los senderos señalizados del macizo de las Gavarres; del Barri Vell al encinar en 20 minutos a pie."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "O meu cão pode ir solto nalgum sítio de Girona?",
+          "a": "Sim, legalmente: nos cinco itinerários caninos oficiais (7 km ao longo do Ter, do Onyar, das hortas de Santa Eugenia e de Sant Daniel) e dentro dos cinco recintos vedados, sempre sob o seu controlo. No resto, trela obrigatória."
+        },
+        {
+          "q": "Onde ficam os parques caninos vedados?",
+          "a": "Dois no parque da Devesa mais Parc del Migdia, Mas Ramada e Mas Maso, todos gratuitos e com mapas nas páginas de bem-estar animal da câmara."
+        },
+        {
+          "q": "Dá para fazer caminhadas a sério desde a cidade com cão?",
+          "a": "Sim, o vale de Sant Daniel atrás da catedral leva direto aos trilhos marcados do maciço das Gavarres; do Barri Vell à floresta de azinheiras em 20 minutos a pé."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Girona with a Dog",
+      "titleFr": "Se déplacer à Gérone avec un chien",
+      "titleEs": "Moverse por Girona con un perro",
+      "titlePt": "Deslocar-se em Girona com um cão",
+      "introEn": "Girona's old town is car-free and entirely walkable, so most visitors never board a bus. The transport questions that matter are the arrival ones: the AVE high-speed line puts Girona 38 minutes from Barcelona under Renfe's pet rules, regional trains take leashed, muzzled dogs at no charge, and the TMG city buses are the weak link, admitting animals only in carriers.",
+      "introFr": "La vieille ville de Gérone est piétonne et se parcourt entièrement à pied, la plupart des visiteurs ne montent donc jamais dans un bus. Les vraies questions de transport sont celles de l'arrivée : la ligne AVE met Gérone à 38 minutes de Barcelone selon les règles animaux de Renfe, les trains régionaux acceptent gratuitement les chiens en laisse et muselés, et les bus urbains TMG sont le maillon faible, n'admettant les animaux qu'en sac de transport.",
+      "introEs": "El casco antiguo de Girona es peatonal y se recorre entero a pie, así que la mayoría de visitantes nunca sube a un bus. Las preguntas de transporte que importan son las de llegada: el AVE pone Girona a 38 minutos de Barcelona bajo las normas de mascotas de Renfe, los trenes regionales llevan gratis a perros con correa y bozal, y los buses urbanos TMG son el eslabón débil, admitiendo animales solo en transportín.",
+      "introPt": "O centro histórico de Girona é pedonal e percorre-se todo a pé, pelo que a maioria dos visitantes nunca entra num autocarro. As questões de transporte que importam são as de chegada: o AVE põe Girona a 38 minutos de Barcelona sob as regras de animais da Renfe, os comboios regionais levam grátis cães com trela e açaime, e os autocarros urbanos TMG são o elo fraco, aceitando animais só em transportadora.",
+      "rules": [
+        {
+          "mode": "Renfe AVE & Long Distance",
+          "modeFr": "Renfe AVE et grandes lignes",
+          "modeEs": "Renfe AVE y Larga Distancia",
+          "modePt": "Renfe AVE e Longo Curso",
+          "policy": "On AVE and long-distance trains (Barcelona 38 min, Madrid about 3h45), pets up to 10 kg travel in a 60x35x35 cm carrier with a pet ticket (10 EUR on Basico/Elige fares, free in Premium). Selected trains also sell a 35 EUR ticket for dogs up to 40 kg, muzzled, in designated spaces.",
+          "policyFr": "Sur l'AVE et les grandes lignes (Barcelone 38 min, Madrid environ 3h45), les animaux jusqu'à 10 kg voyagent en sac 60x35x35 cm avec un billet animal (10 euros en tarif Basico/Elige, gratuit en Premium). Certains trains vendent aussi un billet à 35 euros pour les chiens jusqu'à 40 kg, muselés, dans des espaces dédiés.",
+          "policyEs": "En AVE y Larga Distancia (Barcelona 38 min, Madrid unas 3h45), las mascotas de hasta 10 kg viajan en transportín de 60x35x35 cm con billete de mascota (10 euros en tarifas Basico/Elige, gratis en Premium). Trenes seleccionados venden además un billete de 35 euros para perros de hasta 40 kg, con bozal, en espacios habilitados.",
+          "policyPt": "No AVE e Longo Curso (Barcelona 38 min, Madrid cerca de 3h45), os animais até 10 kg viajam em transportadora de 60x35x35 cm com bilhete de animal (10 euros nas tarifas Basico/Elige, grátis em Premium). Comboios selecionados vendem ainda um bilhete de 35 euros para cães até 40 kg, com açaime, em espaços dedicados.",
+          "tip": "Book the large-dog spaces early, each train carries very few; combined train+bus tickets never allow pets.",
+          "tipFr": "Réservez tôt les places grands chiens, chaque train en compte très peu ; les billets combinés train+bus n'acceptent jamais les animaux.",
+          "tipEs": "Reserva pronto las plazas de perro grande, cada tren lleva muy pocas; los billetes combinados tren+bus nunca admiten mascotas.",
+          "tipPt": "Reserve cedo os lugares de cão grande, cada comboio leva muito poucos; os bilhetes combinados comboio+autocarro nunca aceitam animais."
+        },
+        {
+          "mode": "Rodalies & Regional Trains",
+          "modeFr": "Rodalies et trains régionaux",
+          "modeEs": "Rodalies y trenes regionales",
+          "modePt": "Rodalies e comboios regionais",
+          "policy": "On the R11 and regional services (Barcelona about 1h20, Figueres 30 min, coast connections), leashed and muzzled dogs of any size travel free without a carrier, one per passenger, at off-peak courtesy of other riders.",
+          "policyFr": "Sur la R11 et les services régionaux (Barcelone environ 1h20, Figueres 30 min, correspondances côtières), les chiens en laisse et muselés de toute taille voyagent gratuitement sans sac, un par passager, avec la courtoisie d'usage envers les autres voyageurs.",
+          "policyEs": "En la R11 y los servicios regionales (Barcelona 1h20 aprox., Figueres 30 min, conexiones a la costa), los perros con correa y bozal de cualquier tamaño viajan gratis sin transportín, uno por pasajero, con la cortesía habitual hacia el resto de viajeros.",
+          "policyPt": "Na R11 e nos serviços regionais (Barcelona cerca de 1h20, Figueres 30 min, ligações à costa), os cães com trela e açaime de qualquer tamanho viajam grátis sem transportadora, um por passageiro, com a cortesia habitual para com os outros passageiros.",
+          "tip": "The regional line is the budget route to the Costa Brava dog beaches via Figueres or Flaca plus a short taxi.",
+          "tipFr": "La ligne régionale est l'itinéraire économique vers les plages canines de la Costa Brava via Figueres ou Flaca plus un court taxi.",
+          "tipEs": "La línea regional es la ruta económica a las playas caninas de la Costa Brava vía Figueres o Flaca más un taxi corto.",
+          "tipPt": "A linha regional é a rota económica para as praias caninas da Costa Brava via Figueres ou Flaca mais um táxi curto."
+        },
+        {
+          "mode": "TMG City Buses",
+          "modeFr": "Bus urbains TMG",
+          "modeEs": "Buses urbanos TMG",
+          "modePt": "Autocarros urbanos TMG",
+          "policy": "On most TMG urban lines, animals ride only inside a suitable carrier and may not occupy a seat; guide and assistance dogs travel without restriction. Lines L3, L4 and L6 (operated by TEISA) do not admit animals at all.",
+          "policyFr": "Sur la plupart des lignes urbaines TMG, les animaux ne voyagent qu'en sac de transport adapté et sans occuper de siège ; les chiens guides et d'assistance circulent sans restriction. Les lignes L3, L4 et L6 (exploitées par TEISA) n'admettent aucun animal.",
+          "policyEs": "En la mayoría de líneas urbanas de TMG, los animales solo viajan dentro de un transportín adecuado y sin ocupar asiento; los perros guía y de asistencia viajan sin restricción. Las líneas L3, L4 y L6 (operadas por TEISA) no admiten animales.",
+          "policyPt": "Na maioria das linhas urbanas TMG, os animais só viajam dentro de transportadora adequada e sem ocupar lugar; os cães-guia e de assistência viajam sem restrição. As linhas L3, L4 e L6 (operadas pela TEISA) não aceitam animais.",
+          "tip": "With a medium or large dog, plan on walking or taxis; Girona is compact enough that this rarely hurts.",
+          "tipFr": "Avec un chien moyen ou grand, prévoyez la marche ou le taxi ; Gérone est assez compacte pour que ce soit rarement gênant.",
+          "tipEs": "Con un perro mediano o grande, cuenta con caminar o taxis; Girona es tan compacta que rara vez es un problema.",
+          "tipPt": "Com um cão médio ou grande, conte com andar a pé ou táxis; Girona é tão compacta que raramente é um problema."
+        }
+      ],
+      "sections": [],
+      "faqsEn": [
+        {
+          "q": "How do I get to Girona from Barcelona with a dog?",
+          "a": "AVE in 38 minutes with a carrier (10 EUR pet ticket) or up-to-40 kg dog spaces on selected trains (35 EUR); or the R11 regional in about 1h20 where leashed, muzzled dogs of any size ride free."
+        },
+        {
+          "q": "Can dogs use Girona's city buses?",
+          "a": "Only small animals in carriers on most TMG lines, and not at all on L3, L4 and L6. Assistance dogs excepted. The walkable old town and taxis cover the gap."
+        },
+        {
+          "q": "Do taxis in Girona take dogs?",
+          "a": "At the driver's discretion, usually yes with a blanket or carrier; ask the dispatcher for a pet-friendly car when booking."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Comment rejoindre Gérone depuis Barcelone avec un chien ?",
+          "a": "AVE en 38 minutes avec sac de transport (billet animal 10 euros) ou places jusqu'à 40 kg sur certains trains (35 euros) ; ou le régional R11 en 1h20 environ, où les chiens en laisse et muselés de toute taille voyagent gratuitement."
+        },
+        {
+          "q": "Les chiens peuvent-ils prendre les bus urbains de Gérone ?",
+          "a": "Seulement les petits animaux en sac sur la plupart des lignes TMG, et pas du tout sur les L3, L4 et L6. Chiens d'assistance exceptés. La vieille ville piétonne et les taxis comblent le manque."
+        },
+        {
+          "q": "Les taxis de Gérone acceptent-ils les chiens ?",
+          "a": "À la discrétion du chauffeur, en général oui avec une couverture ou un sac ; demandez une voiture pet-friendly au standard à la réservation."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cómo llego a Girona desde Barcelona con perro?",
+          "a": "AVE en 38 minutos con transportín (billete de mascota de 10 euros) o plazas para perros de hasta 40 kg en trenes seleccionados (35 euros); o el regional R11 en 1h20 aprox., donde los perros con correa y bozal de cualquier tamaño viajan gratis."
+        },
+        {
+          "q": "¿Pueden los perros usar los buses urbanos de Girona?",
+          "a": "Solo animales pequeños en transportín en la mayoría de líneas TMG, y en absoluto en L3, L4 y L6. Perros de asistencia exceptuados. El casco antiguo peatonal y los taxis cubren el hueco."
+        },
+        {
+          "q": "¿Los taxis de Girona llevan perros?",
+          "a": "A criterio del conductor, normalmente sí con manta o transportín; pide un coche pet-friendly a la centralita al reservar."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Como chego a Girona desde Barcelona com cão?",
+          "a": "AVE em 38 minutos com transportadora (bilhete de animal de 10 euros) ou lugares para cães até 40 kg em comboios selecionados (35 euros); ou o regional R11 em cerca de 1h20, onde cães com trela e açaime de qualquer tamanho viajam grátis."
+        },
+        {
+          "q": "Os cães podem usar os autocarros urbanos de Girona?",
+          "a": "Só animais pequenos em transportadora na maioria das linhas TMG, e de todo nas L3, L4 e L6. Cães de assistência excetuados. O centro histórico pedonal e os táxis cobrem a falha."
+        },
+        {
+          "q": "Os táxis de Girona levam cães?",
+          "a": "Ao critério do motorista, normalmente sim com manta ou transportadora; peça um carro pet-friendly à central ao reservar."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Girona",
+      "titleFr": "Plages dog-friendly près de Gérone",
+      "titleEs": "Playas dog-friendly cerca de Girona",
+      "titlePt": "Praias dog-friendly perto de Girona",
+      "introEn": "Girona sits 35 km inland, but it is the gateway to the Costa Brava, which counts seven official dog beaches in the province as of summer 2025. The two most useful from the city are Platja de la Rubina at Empuriabrava, Spain's pioneering dog beach inside the Aiguamolls natural park, and Platja del Rec del Moli at L'Escala, both around 40-50 minutes by car. In town, the dog swims in the Ter along the canine itineraries instead.",
+      "introFr": "Gérone est à 35 km dans les terres, mais c'est la porte de la Costa Brava, qui compte sept plages canines officielles dans la province à l'été 2025. Les deux plus pratiques depuis la ville sont la Platja de la Rubina à Empuriabrava, plage canine pionnière d'Espagne au sein du parc naturel des Aiguamolls, et la Platja del Rec del Moli à L'Escala, toutes deux à 40-50 minutes en voiture. En ville, le chien se baigne dans le Ter le long des itinéraires canins.",
+      "introEs": "Girona está a 35 km del mar, pero es la puerta de la Costa Brava, que cuenta con siete playas caninas oficiales en la provincia a verano de 2025. Las dos más útiles desde la ciudad son la Platja de la Rubina en Empuriabrava, la playa canina pionera de España dentro del parque natural dels Aiguamolls, y la Platja del Rec del Moli en L'Escala, ambas a 40-50 minutos en coche. En la ciudad, el perro se baña en el Ter por los itinerarios caninos.",
+      "introPt": "Girona fica a 35 km do mar, mas é a porta da Costa Brava, que conta com sete praias caninas oficiais na província no verão de 2025. As duas mais úteis a partir da cidade são a Platja de la Rubina em Empuriabrava, a praia canina pioneira de Espanha dentro do parque natural dels Aiguamolls, e a Platja del Rec del Moli em L'Escala, ambas a 40-50 minutos de carro. Na cidade, o cão banha-se no Ter ao longo dos itinerários caninos.",
+      "places": [
+        {
+          "name": "Platja de la Rubina",
+          "address": "Platja de la Rubina, 17486 Castelló d'Empúries (Empuriabrava)",
+          "neighborhood": "Empuriabrava, 50 km northeast",
+          "photo": "/images/city-places/girona-beaches-rubina.jpg",
+          "description": "Spain's first official dog beach, a wide wild strand between Empuriabrava and Roses inside the Aiguamolls de l'Emporda natural park, where dogs run, swim and socialise freely on a generous designated stretch. Fine sand, dunes and marshland birdlife behind, about 50 minutes' drive from Girona.",
+          "descriptionFr": "La première plage canine officielle d'Espagne, une large plage sauvage entre Empuriabrava et Roses au sein du parc naturel des Aiguamolls de l'Emporda, où les chiens courent, nagent et se sociabilisent librement sur un généreux tronçon désigné. Sable fin, dunes et avifaune des marais en arrière-plage, à environ 50 minutes de route de Gérone.",
+          "descriptionEs": "La primera playa canina oficial de España, un ancho arenal salvaje entre Empuriabrava y Roses dentro del parque natural dels Aiguamolls de l'Emporda, donde los perros corren, nadan y socializan libremente en un generoso tramo señalizado. Arena fina, dunas y aves de las marismas detrás, a unos 50 minutos en coche de Girona.",
+          "descriptionPt": "A primeira praia canina oficial de Espanha, um areal amplo e selvagem entre Empuriabrava e Roses dentro do parque natural dels Aiguamolls de l'Emporda, onde os cães correm, nadam e socializam livremente num generoso troço sinalizado. Areia fina, dunas e avifauna dos sapais atrás, a cerca de 50 minutos de carro de Girona.",
+          "petPolicy": "Dogs allowed year-round on the designated stretch; waste pickup and control mandatory",
+          "petPolicyFr": "Chiens admis toute l'année sur le tronçon désigné ; ramassage et contrôle obligatoires",
+          "petPolicyEs": "Perros permitidos todo el año en el tramo señalizado; recogida y control obligatorios",
+          "petPolicyPt": "Cães permitidos todo o ano no troço sinalizado; recolha e controlo obrigatórios",
+          "type": "Official dog beach in a natural park",
+          "facilities": [
+            "Wide sand",
+            "Dunes",
+            "Natural park setting"
+          ],
+          "tip": "Park at the Rubina end of Empuriabrava and walk east; summer mornings beat both heat and crowds.",
+          "tipFr": "Garez-vous côté Rubina d'Empuriabrava et marchez vers l'est ; les matinées d'été évitent chaleur et foule.",
+          "tipEs": "Aparca en el extremo Rubina de Empuriabrava y camina hacia el este; las mañanas de verano evitan calor y gentío.",
+          "tipPt": "Estacione no extremo Rubina de Empuriabrava e caminhe para leste; as manhãs de verão evitam calor e multidões.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Platja+de+la+Rubina+Empuriabrava"
+        },
+        {
+          "name": "Platja del Rec del Molí",
+          "address": "Platja del Rec del Molí, 17130 L'Escala",
+          "neighborhood": "L'Escala, 40 km east",
+          "photo": "/images/city-places/girona-beaches-rec-del-moli.jpg",
+          "description": "L'Escala's clearly signposted dog beach, a long stretch of fine golden sand with a large car park right behind, where dogs run free and swim whenever they like. The closest official dog beach to Girona city, about 40 minutes by car, next to the Greek and Roman ruins of Empuries.",
+          "descriptionFr": "La plage canine clairement balisée de L'Escala, un long ruban de sable doré fin avec un grand parking juste derrière, où les chiens courent libres et se baignent à volonté. La plage canine officielle la plus proche de Gérone, à environ 40 minutes en voiture, à côté des ruines grecques et romaines d'Empuries.",
+          "descriptionEs": "La playa canina claramente señalizada de L'Escala, un largo tramo de arena fina y dorada con un gran aparcamiento justo detrás, donde los perros corren libres y se bañan cuando quieren. La playa canina oficial más cercana a Girona ciudad, a unos 40 minutos en coche, junto a las ruinas griegas y romanas de Empuries.",
+          "descriptionPt": "A praia canina claramente sinalizada de L'Escala, um longo troço de areia fina e dourada com um grande parque de estacionamento mesmo atrás, onde os cães correm livres e se banham quando querem. A praia canina oficial mais próxima de Girona cidade, a cerca de 40 minutos de carro, junto às ruínas gregas e romanas de Empuries.",
+          "petPolicy": "Dogs allowed on the delimited, signposted area year-round",
+          "petPolicyFr": "Chiens admis sur la zone délimitée et balisée toute l'année",
+          "petPolicyEs": "Perros permitidos en la zona delimitada y señalizada todo el año",
+          "petPolicyPt": "Cães permitidos na zona delimitada e sinalizada todo o ano",
+          "type": "Official signposted dog beach",
+          "facilities": [
+            "Large car park",
+            "Golden sand",
+            "Near Empuries ruins"
+          ],
+          "tip": "Combine the beach with a leashed walk along the Empuries seafront path, ruins visible from outside the fence.",
+          "tipFr": "Combinez la plage avec une balade en laisse sur le chemin littoral d'Empuries, ruines visibles depuis l'extérieur de l'enceinte.",
+          "tipEs": "Combina la playa con un paseo con correa por el camino de ronda de Empuries, con las ruinas visibles desde fuera del recinto.",
+          "tipPt": "Combine a praia com um passeio com trela pelo caminho costeiro de Empuries, com as ruínas visíveis do exterior do recinto.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Platja+del+Rec+del+Moli+L'Escala"
+        },
+        {
+          "name": "Riu Ter (city river access)",
+          "address": "Parc de les Ribes del Ter, 17007 Girona",
+          "neighborhood": "Fontajau / Devesa",
+          "photo": "/images/city-places/girona-beaches-riu-ter.jpg",
+          "description": "No sea in town, but the Ter's shallow gravel banks along the official canine itinerary give Girona dogs their daily swim, ten minutes' walk from the Devesa. Calm pools in summer, grassy banks for drying off, and off-leash legality on the marked route.",
+          "descriptionFr": "Pas de mer en ville, mais les berges de gravier peu profondes du Ter le long de l'itinéraire canin officiel offrent aux chiens géronais leur baignade quotidienne, à dix minutes à pied de la Devesa. Vasques calmes en été, berges herbeuses pour se sécher, et sans-laisse légal sur le tracé balisé.",
+          "descriptionEs": "No hay mar en la ciudad, pero las orillas de grava poco profundas del Ter a lo largo del itinerario canino oficial dan a los perros gerundenses su baño diario, a diez minutos a pie de la Devesa. Pozas tranquilas en verano, orillas de hierba para secarse y legalidad sin correa en la ruta señalizada.",
+          "descriptionPt": "Não há mar na cidade, mas as margens de gravilha pouco profundas do Ter ao longo do itinerário canino oficial dão aos cães gironinos o seu banho diário, a dez minutos a pé da Devesa. Poças calmas no verão, margens relvadas para secar e legalidade sem trela na rota sinalizada.",
+          "petPolicy": "Off-leash on the marked canine itinerary; supervise currents after rain",
+          "petPolicyFr": "Sans laisse sur l'itinéraire canin balisé ; surveillez le courant après la pluie",
+          "petPolicyEs": "Sin correa en el itinerario canino señalizado; vigila la corriente tras lluvias",
+          "petPolicyPt": "Sem trela no itinerário canino sinalizado; vigie a corrente após chuva",
+          "type": "River swimming spots",
+          "facilities": [
+            "Shallow entries",
+            "Grass banks",
+            "Free"
+          ],
+          "tip": "After summer storms the Ter runs fast and murky for a day or two; skip the swim then.",
+          "tipFr": "Après les orages d'été, le Ter coule vite et trouble un jour ou deux ; sautez la baignade à ce moment-là.",
+          "tipEs": "Tras las tormentas de verano el Ter baja rápido y turbio uno o dos días; sáltate el baño entonces.",
+          "tipPt": "Depois das trovoadas de verão o Ter corre rápido e turvo um ou dois dias; salte o banho nessa altura.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riu+Ter+Fontajau+Girona"
+        }
+      ],
+      "tipsEn": [
+        "Outside the official dog beaches, Catalan municipalities ban dogs from bathing beaches in season (roughly June 1 to September 30); fines are common on the Costa Brava.",
+        "Off-season (October to May) most Costa Brava beaches tolerate leashed dogs; check each town hall's rules before going.",
+        "Summer sand and rocks get scorching by 11:00; plan coast trips for early morning or after 18:00 and carry fresh water."
+      ],
+      "tipsFr": [
+        "Hors plages canines officielles, les municipalités catalanes interdisent les chiens sur les plages de baignade en saison (environ du 1er juin au 30 septembre) ; les amendes sont courantes sur la Costa Brava.",
+        "Hors saison (octobre à mai), la plupart des plages de la Costa Brava tolèrent les chiens en laisse ; vérifiez le règlement de chaque mairie avant d'y aller.",
+        "Sable et rochers brûlent dès 11h en été ; planifiez les sorties côtières tôt le matin ou après 18h et emportez de l'eau douce."
+      ],
+      "tipsEs": [
+        "Fuera de las playas caninas oficiales, los municipios catalanes prohíben los perros en las playas de baño en temporada (aprox. del 1 de junio al 30 de septiembre); las multas son habituales en la Costa Brava.",
+        "Fuera de temporada (octubre a mayo) la mayoría de playas de la Costa Brava toleran perros con correa; consulta las normas de cada ayuntamiento antes de ir.",
+        "La arena y las rocas queman desde las 11:00 en verano; planifica las salidas a la costa a primera hora o después de las 18:00 y lleva agua dulce."
+      ],
+      "tipsPt": [
+        "Fora das praias caninas oficiais, os municípios catalães proíbem cães nas praias de banho na época (aprox. de 1 de junho a 30 de setembro); as multas são habituais na Costa Brava.",
+        "Fora de época (outubro a maio) a maioria das praias da Costa Brava tolera cães com trela; confirme as regras de cada câmara antes de ir.",
+        "A areia e as rochas queimam a partir das 11h00 no verão; planeie as idas à costa de manhã cedo ou depois das 18h00 e leve água doce."
+      ],
+      "faqsEn": [
+        {
+          "q": "Which dog beach is closest to Girona?",
+          "a": "Platja del Rec del Moli at L'Escala, about 40 minutes by car. Platja de la Rubina at Empuriabrava, Spain's first dog beach, is 50 minutes and worth the extra drive for space and scenery."
+        },
+        {
+          "q": "Can my dog swim anywhere in Girona itself?",
+          "a": "Yes, in the Ter river along the official canine itinerary by the Devesa, where off-leash walking is legal and the gravel banks give easy shallow entries."
+        },
+        {
+          "q": "Are Costa Brava dog beaches open year-round?",
+          "a": "The official ones like Rubina and Rec del Moli are. Regular beaches ban dogs in the June-September bathing season and generally tolerate leashed dogs the rest of the year."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle plage canine est la plus proche de Gérone ?",
+          "a": "La Platja del Rec del Moli à L'Escala, à environ 40 minutes en voiture. La Platja de la Rubina à Empuriabrava, première plage canine d'Espagne, est à 50 minutes et vaut le détour pour l'espace et le paysage."
+        },
+        {
+          "q": "Mon chien peut-il se baigner dans Gérone même ?",
+          "a": "Oui, dans le Ter le long de l'itinéraire canin officiel près de la Devesa, où le sans-laisse est légal et où les berges de gravier offrent des entrées peu profondes."
+        },
+        {
+          "q": "Les plages canines de la Costa Brava sont-elles ouvertes toute l'année ?",
+          "a": "Les officielles comme Rubina et Rec del Moli, oui. Les plages classiques interdisent les chiens en saison de baignade de juin à septembre et tolèrent en général les chiens en laisse le reste de l'année."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Qué playa canina queda más cerca de Girona?",
+          "a": "La Platja del Rec del Moli en L'Escala, a unos 40 minutos en coche. La Platja de la Rubina en Empuriabrava, primera playa canina de España, está a 50 minutos y merece el desvío por espacio y paisaje."
+        },
+        {
+          "q": "¿Puede mi perro bañarse en la propia Girona?",
+          "a": "Sí, en el Ter a lo largo del itinerario canino oficial junto a la Devesa, donde ir sin correa es legal y las orillas de grava dan entradas poco profundas."
+        },
+        {
+          "q": "¿Las playas caninas de la Costa Brava abren todo el año?",
+          "a": "Las oficiales como Rubina y Rec del Moli, sí. Las playas normales prohíben perros en temporada de baño de junio a septiembre y suelen tolerar perros con correa el resto del año."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Qual é a praia canina mais próxima de Girona?",
+          "a": "A Platja del Rec del Moli em L'Escala, a cerca de 40 minutos de carro. A Platja de la Rubina em Empuriabrava, primeira praia canina de Espanha, fica a 50 minutos e merece o desvio pelo espaço e paisagem."
+        },
+        {
+          "q": "O meu cão pode nadar na própria Girona?",
+          "a": "Sim, no Ter ao longo do itinerário canino oficial junto à Devesa, onde andar sem trela é legal e as margens de gravilha dão entradas pouco profundas."
+        },
+        {
+          "q": "As praias caninas da Costa Brava abrem todo o ano?",
+          "a": "As oficiais como Rubina e Rec del Moli, sim. As praias normais proíbem cães na época balnear de junho a setembro e costumam tolerar cães com trela o resto do ano."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians & Pet Emergencies in Girona",
+      "titleFr": "Vétérinaires et urgences animales à Gérone",
+      "titleEs": "Veterinarios y urgencias para mascotas en Girona",
+      "titlePt": "Veterinários e urgências para animais em Girona",
+      "introEn": "Girona is exceptionally well covered for a city its size: the Canis group's Mas Xirgu veterinary hospital staffs emergencies 24 hours a day, 365 days a year inside the city, and the Vets Girona clinic adds a second emergency line. Standard Spanish requirements apply: dogs must be microchipped and rabies-vaccinated, and Catalonia requires registration for stays beyond three months.",
+      "introFr": "Gérone est exceptionnellement bien couverte pour une ville de sa taille : l'hôpital vétérinaire Mas Xirgu du groupe Canis assure les urgences 24h/24, 365 jours par an dans la ville même, et la clinique Vets Girona ajoute une seconde ligne d'urgence. Les exigences espagnoles standard s'appliquent : chiens pucés et vaccinés contre la rage, et la Catalogne impose l'enregistrement au-delà de trois mois de séjour.",
+      "introEs": "Girona está excepcionalmente bien cubierta para su tamaño: el hospital veterinario Mas Xirgu del grupo Canis atiende urgencias las 24 horas, 365 días al año dentro de la ciudad, y la clínica Vets Girona añade una segunda línea de urgencias. Rigen los requisitos españoles estándar: perros con microchip y vacuna antirrábica, y Cataluña exige registro para estancias de más de tres meses.",
+      "introPt": "Girona está excecionalmente bem coberta para o seu tamanho: o hospital veterinário Mas Xirgu do grupo Canis atende urgências 24 horas por dia, 365 dias por ano dentro da cidade, e a clínica Vets Girona acrescenta uma segunda linha de urgências. Aplicam-se os requisitos espanhóis padrão: cães com microchip e vacina antirrábica, e a Catalunha exige registo para estadias além de três meses.",
+      "places": [
+        {
+          "name": "Hospital Veterinari Canis Mas Xirgu",
+          "address": "Carrer Can Pau Birol 38, 17006 Girona",
+          "neighborhood": "Mas Xirgu industrial district",
+          "photo": "/images/city-places/girona-vets-canis-mas-xirgu.jpg",
+          "website": "https://canisgirona.com/",
+          "phone": "+34 972 21 86 68",
+          "emergency24h": true,
+          "services": [
+            "24/7 emergency",
+            "Hospitalisation",
+            "Surgery",
+            "Diagnostic imaging",
+            "Specialist referrals"
+          ],
+          "languages": [
+            "Catalan",
+            "Spanish",
+            "English"
+          ],
+          "description": "The reference veterinary hospital of the Girona area, run by the Canis group, with vets and auxiliary staff on site around the clock, 365 days a year, for emergencies and hospitalised patients. Full surgical and imaging capability ten minutes' drive from the old town.",
+          "descriptionFr": "L'hôpital vétérinaire de référence de la région de Gérone, géré par le groupe Canis, avec vétérinaires et auxiliaires sur place 24h/24, 365 jours par an, pour les urgences et les patients hospitalisés. Plateau chirurgical et imagerie complets à dix minutes en voiture de la vieille ville.",
+          "descriptionEs": "El hospital veterinario de referencia del área de Girona, gestionado por el grupo Canis, con veterinarios y auxiliares presentes las 24 horas, 365 días al año, para urgencias y pacientes hospitalizados. Capacidad quirúrgica y de imagen completa a diez minutos en coche del casco antiguo.",
+          "descriptionPt": "O hospital veterinário de referência da área de Girona, gerido pelo grupo Canis, com veterinários e auxiliares presentes 24 horas, 365 dias por ano, para urgências e pacientes internados. Capacidade cirúrgica e de imagem completa a dez minutos de carro do centro histórico.",
+          "tip": "Call +34 972 21 86 68 before arriving at night so the duty team expects you.",
+          "tipFr": "Appelez le +34 972 21 86 68 avant d'arriver la nuit pour que l'équipe de garde vous attende.",
+          "tipEs": "Llama al +34 972 21 86 68 antes de llegar de noche para que el equipo de guardia te espere.",
+          "tipPt": "Ligue para o +34 972 21 86 68 antes de chegar de noite para a equipa de serviço o esperar.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hospital+Veterinari+Canis+Mas+Xirgu+Girona"
+        },
+        {
+          "name": "Vets Centre Veterinari Girona",
+          "address": "Carrer d'Àngel Marsà i Beca 3, 17007 Girona",
+          "neighborhood": "Northern city",
+          "photo": "/images/city-places/girona-vets-vets-girona.jpg",
+          "website": "https://www.vetsgirona.com/",
+          "phone": "+34 972 22 88 04",
+          "emergency24h": true,
+          "services": [
+            "General medicine",
+            "Surgery",
+            "Diagnostics",
+            "24h emergency line"
+          ],
+          "languages": [
+            "Catalan",
+            "Spanish",
+            "English"
+          ],
+          "description": "A modern full-service clinic on the north side of the city with regular hours six days a week and a dedicated 24-hour emergency number (645 185 354). A convenient second option when staying near the Devesa or Fontajau.",
+          "descriptionFr": "Une clinique moderne complète au nord de la ville, ouverte six jours sur sept avec un numéro d'urgence dédié 24h/24 (645 185 354). Une seconde option pratique si vous logez près de la Devesa ou de Fontajau.",
+          "descriptionEs": "Una clínica moderna de servicio completo en el norte de la ciudad, con horario seis días a la semana y un número de urgencias dedicado las 24 horas (645 185 354). Una segunda opción cómoda si te alojas cerca de la Devesa o Fontajau.",
+          "descriptionPt": "Uma clínica moderna de serviço completo no norte da cidade, com horário seis dias por semana e um número de urgências dedicado 24 horas (645 185 354). Uma segunda opção prática se ficar perto da Devesa ou de Fontajau.",
+          "tip": "Daytime consults Mon-Fri 9:30-20:30 and Saturday; for out-of-hours, ring the mobile emergency line 645 185 354 directly.",
+          "tipFr": "Consultations en journée lun-ven 9h30-20h30 et le samedi ; hors horaires, appelez directement la ligne d'urgence mobile 645 185 354.",
+          "tipEs": "Consultas de día lun-vie 9:30-20:30 y sábados; fuera de horario, llama directamente al móvil de urgencias 645 185 354.",
+          "tipPt": "Consultas de dia seg-sex 9h30-20h30 e sábado; fora de horas, ligue diretamente para o telemóvel de urgências 645 185 354.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vets+Centre+Veterinari+Girona"
+        },
+        {
+          "name": "Hospital Veterinario Costa Brava (Palafrugell)",
+          "address": "Palafrugell, 17200 Girona province",
+          "neighborhood": "Costa Brava, 45 min east",
+          "photo": "/images/city-places/girona-vets-costa-brava.jpg",
+          "website": "https://bravavet.com/",
+          "phone": "",
+          "emergency24h": true,
+          "services": [
+            "24/7 emergency",
+            "Hospitalisation",
+            "Surgery"
+          ],
+          "languages": [
+            "Catalan",
+            "Spanish",
+            "English"
+          ],
+          "description": "The coast's 24-hour animal hospital in Palafrugell, useful to know when your Girona stay includes Costa Brava beach days around Begur, Calella or Llafranc. Emergency service runs 365 days a year.",
+          "descriptionFr": "L'hôpital animalier 24h/24 de la côte, à Palafrugell, utile à connaître quand votre séjour géronais inclut des journées de plage sur la Costa Brava vers Begur, Calella ou Llafranc. Service d'urgence 365 jours par an.",
+          "descriptionEs": "El hospital animal 24 horas de la costa, en Palafrugell, útil de conocer cuando tu estancia en Girona incluye días de playa en la Costa Brava por Begur, Calella o Llafranc. Servicio de urgencias 365 días al año.",
+          "descriptionPt": "O hospital animal 24 horas da costa, em Palafrugell, útil de conhecer quando a sua estadia em Girona inclui dias de praia na Costa Brava por Begur, Calella ou Llafranc. Serviço de urgências 365 dias por ano.",
+          "tip": "On beach days east of Girona this is the nearer emergency option; check bravavet.com for the current duty number.",
+          "tipFr": "Les jours de plage à l'est de Gérone, c'est l'option d'urgence la plus proche ; vérifiez le numéro de garde actuel sur bravavet.com.",
+          "tipEs": "En días de playa al este de Girona esta es la urgencia más cercana; consulta el número de guardia actual en bravavet.com.",
+          "tipPt": "Nos dias de praia a leste de Girona esta é a urgência mais próxima; confirme o número de serviço atual em bravavet.com.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hospital+Veterinario+Costa+Brava+Palafrugell"
+        }
+      ],
+      "tipsEn": [
+        "Save both city numbers: Canis Mas Xirgu +34 972 21 86 68 (24h hospital) and Vets Girona emergencies 645 185 354.",
+        "Leishmaniasis is endemic in Catalonia: sandfly season runs May to October, so bring repellent collars or ask a local vet about prevention.",
+        "Processionary caterpillars in pine areas (February to April) are dangerous to dogs; keep them away from pine litter in spring."
+      ],
+      "tipsFr": [
+        "Enregistrez les deux numéros de la ville : Canis Mas Xirgu +34 972 21 86 68 (hôpital 24h) et urgences Vets Girona 645 185 354.",
+        "La leishmaniose est endémique en Catalogne : la saison des phlébotomes court de mai à octobre, prévoyez collier répulsif ou demandez la prévention à un vétérinaire local.",
+        "Les chenilles processionnaires des zones de pins (février à avril) sont dangereuses pour les chiens ; tenez-les à l'écart des litières de pin au printemps."
+      ],
+      "tipsEs": [
+        "Guarda los dos números de la ciudad: Canis Mas Xirgu +34 972 21 86 68 (hospital 24h) y urgencias de Vets Girona 645 185 354.",
+        "La leishmaniosis es endémica en Cataluña: la temporada de flebotomos va de mayo a octubre, lleva collar repelente o consulta la prevención con un veterinario local.",
+        "Las orugas procesionarias de los pinares (febrero a abril) son peligrosas para los perros; mantenlos lejos de la pinocha en primavera."
+      ],
+      "tipsPt": [
+        "Guarde os dois números da cidade: Canis Mas Xirgu +34 972 21 86 68 (hospital 24h) e urgências da Vets Girona 645 185 354.",
+        "A leishmaniose é endémica na Catalunha: a época dos flebótomos vai de maio a outubro, leve coleira repelente ou consulte a prevenção com um veterinário local.",
+        "As lagartas processionárias dos pinhais (fevereiro a abril) são perigosas para os cães; mantenha-os longe da caruma na primavera."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Girona?",
+          "a": "Yes, Hospital Veterinari Canis Mas Xirgu (Can Pau Birol 38, +34 972 21 86 68) staffs emergencies around the clock inside the city, and Vets Girona runs a 24h emergency mobile line (645 185 354)."
+        },
+        {
+          "q": "What health rules apply to dogs visiting Catalonia?",
+          "a": "EU pet passport with valid rabies vaccination and microchip. Ask your vet about leishmaniasis prevention before a May-October visit; it is the region's main canine health risk."
+        },
+        {
+          "q": "Do Girona vets handle tourists' pets?",
+          "a": "Routinely. The city hosts many international cyclists and travellers, and both main clinics work in English alongside Catalan and Spanish."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Gérone ?",
+          "a": "Oui, l'Hospital Veterinari Canis Mas Xirgu (Can Pau Birol 38, +34 972 21 86 68) assure les urgences en continu dans la ville, et Vets Girona gère une ligne mobile d'urgence 24h (645 185 354)."
+        },
+        {
+          "q": "Quelles règles sanitaires pour un chien visitant la Catalogne ?",
+          "a": "Passeport européen avec vaccination antirabique valide et puce. Demandez à votre vétérinaire la prévention leishmaniose avant un séjour de mai à octobre ; c'est le principal risque sanitaire canin de la région."
+        },
+        {
+          "q": "Les vétérinaires de Gérone s'occupent-ils des animaux de touristes ?",
+          "a": "Couramment. La ville accueille de nombreux cyclistes et voyageurs internationaux, et les deux cliniques principales travaillent en anglais en plus du catalan et de l'espagnol."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario 24 horas en Girona?",
+          "a": "Sí, el Hospital Veterinari Canis Mas Xirgu (Can Pau Birol 38, +34 972 21 86 68) atiende urgencias sin interrupción dentro de la ciudad, y Vets Girona tiene una línea móvil de urgencias 24h (645 185 354)."
+        },
+        {
+          "q": "¿Qué normas sanitarias aplican a un perro que visita Cataluña?",
+          "a": "Pasaporte europeo con vacuna antirrábica vigente y microchip. Pregunta a tu veterinario por la prevención de leishmaniosis antes de una visita de mayo a octubre; es el principal riesgo sanitario canino de la región."
+        },
+        {
+          "q": "¿Los veterinarios de Girona atienden mascotas de turistas?",
+          "a": "Habitualmente. La ciudad recibe muchos ciclistas y viajeros internacionales, y las dos clínicas principales trabajan en inglés además de catalán y castellano."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há veterinário 24 horas em Girona?",
+          "a": "Sim, o Hospital Veterinari Canis Mas Xirgu (Can Pau Birol 38, +34 972 21 86 68) atende urgências sem interrupção dentro da cidade, e a Vets Girona tem uma linha móvel de urgências 24h (645 185 354)."
+        },
+        {
+          "q": "Que regras sanitárias se aplicam a um cão que visita a Catalunha?",
+          "a": "Passaporte europeu com vacina antirrábica válida e microchip. Pergunte ao seu veterinário pela prevenção da leishmaniose antes de uma visita de maio a outubro; é o principal risco sanitário canino da região."
+        },
+        {
+          "q": "Os veterinários de Girona atendem animais de turistas?",
+          "a": "Habitualmente. A cidade recebe muitos ciclistas e viajantes internacionais, e as duas clínicas principais trabalham em inglês além de catalão e castelhano."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Girona with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Gérone avec un chien",
+      "titleEs": "Consejos esenciales para visitar Girona con un perro",
+      "titlePt": "Dicas essenciais para visitar Girona com um cão",
+      "introEn": "Girona is the thinking traveller's alternative to Barcelona: one hour away, a tenth of the crowds, and one of Spain's most dog-forward municipal policies. The essentials: 7 km of official off-leash canine itineraries plus five fenced runs, a fully walkable car-free old town including the 2 km wall walk, a 24h veterinary hospital in the city, 40+ dog-admitting eateries, and the Costa Brava dog beaches under an hour away. Summer afternoons are hot (28-30 C); the stone alleys and the Devesa's plane trees are your shade.",
+      "introFr": "Gérone est l'alternative maligne à Barcelone : à une heure, un dixième de la foule, et l'une des politiques municipales les plus favorables aux chiens d'Espagne. L'essentiel : 7 km d'itinéraires canins officiels sans laisse plus cinq enclos clôturés, une vieille ville piétonne entièrement parcourable dont les 2 km de chemin de ronde, un hôpital vétérinaire 24h dans la ville, plus de 40 tables admettant les chiens, et les plages canines de la Costa Brava à moins d'une heure. Les après-midis d'été sont chauds (28-30 C) ; les ruelles de pierre et les platanes de la Devesa sont votre ombre.",
+      "introEs": "Girona es la alternativa inteligente a Barcelona: a una hora, una décima parte del gentío y una de las políticas municipales más favorables al perro de España. Lo esencial: 7 km de itinerarios caninos oficiales sin correa más cinco recintos vallados, un casco antiguo peatonal totalmente recorrible incluida la muralla de 2 km, un hospital veterinario 24h en la ciudad, más de 40 locales que admiten perros y las playas caninas de la Costa Brava a menos de una hora. Las tardes de verano son calurosas (28-30 C); los callejones de piedra y los plátanos de la Devesa son tu sombra.",
+      "introPt": "Girona é a alternativa inteligente a Barcelona: a uma hora, um décimo das multidões e uma das políticas municipais mais favoráveis ao cão de Espanha. O essencial: 7 km de itinerários caninos oficiais sem trela mais cinco recintos vedados, um centro histórico pedonal totalmente percorrível incluindo a muralha de 2 km, um hospital veterinário 24h na cidade, mais de 40 locais que aceitam cães e as praias caninas da Costa Brava a menos de uma hora. As tardes de verão são quentes (28-30 C); as vielas de pedra e os plátanos da Devesa são a sua sombra.",
+      "places": [],
+      "tipsEn": [
+        "Spanish leash law applies in town; the exception is Girona's five marked canine itineraries, where off-leash is expressly allowed under owner control.",
+        "Museums and church interiors exclude dogs; the walls, the Call's alleys, the cathedral steps and the Onyar bridges, all open air, are the real sights anyway.",
+        "May, June, September and October are ideal; in July-August walk early and late, the stone streets radiate heat at midday."
+      ],
+      "tipsFr": [
+        "La loi espagnole de la laisse s'applique en ville ; l'exception est constituée par les cinq itinéraires canins balisés de Gérone, où le sans-laisse est expressément autorisé sous contrôle du maître.",
+        "Musées et intérieurs d'églises excluent les chiens ; les remparts, les ruelles du Call, les marches de la cathédrale et les ponts de l'Onyar, tous en plein air, sont de toute façon les vrais sites.",
+        "Mai, juin, septembre et octobre sont idéaux ; en juillet-août, marchez tôt et tard, les rues de pierre irradient la chaleur à midi."
+      ],
+      "tipsEs": [
+        "La ley española de la correa rige en la ciudad; la excepción son los cinco itinerarios caninos señalizados de Girona, donde ir suelto está expresamente permitido bajo control del dueño.",
+        "Museos e interiores de iglesias excluyen a los perros; la muralla, los callejones del Call, las escaleras de la catedral y los puentes del Onyar, todo al aire libre, son de todos modos lo que hay que ver.",
+        "Mayo, junio, septiembre y octubre son ideales; en julio-agosto pasea temprano y tarde, las calles de piedra irradian calor al mediodía."
+      ],
+      "tipsPt": [
+        "A lei espanhola da trela aplica-se na cidade; a exceção são os cinco itinerários caninos sinalizados de Girona, onde andar solto é expressamente permitido sob controlo do dono.",
+        "Museus e interiores de igrejas excluem cães; a muralha, as vielas do Call, as escadas da catedral e as pontes do Onyar, tudo ao ar livre, são de qualquer forma o que há para ver.",
+        "Maio, junho, setembro e outubro são ideais; em julho-agosto passeie cedo e tarde, as ruas de pedra irradiam calor ao meio-dia."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Girona a good alternative to Barcelona with a dog?",
+          "a": "One of the best in Spain: same fast trains, a fraction of the crowds and heat stress, legal off-leash river routes, and the Costa Brava's dog beaches within an hour. Everything a dog dislikes about Barcelona is absent here."
+        },
+        {
+          "q": "How many days does Girona need with a dog?",
+          "a": "Two full days cover the walls, the Call, the Onyar and the canine itineraries; add a third for a Costa Brava dog-beach day or the Sant Daniel-Gavarres trails."
+        },
+        {
+          "q": "Is Girona expensive?",
+          "a": "Cheaper than Barcelona across the board. Pet-friendly rooms start around 70-90 EUR, dog extras (runs, itineraries, river swims) are free, and vet prices are standard Spanish rates."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Gérone est-elle une bonne alternative à Barcelone avec un chien ?",
+          "a": "L'une des meilleures d'Espagne : les mêmes trains rapides, une fraction de la foule et du stress thermique, des itinéraires fluviaux sans laisse légaux, et les plages canines de la Costa Brava à moins d'une heure. Tout ce qu'un chien déteste à Barcelone est absent ici."
+        },
+        {
+          "q": "Combien de jours prévoir à Gérone avec un chien ?",
+          "a": "Deux journées pleines couvrent les remparts, le Call, l'Onyar et les itinéraires canins ; ajoutez-en une troisième pour une journée plage canine sur la Costa Brava ou les sentiers Sant Daniel-Gavarres."
+        },
+        {
+          "q": "Gérone est-elle chère ?",
+          "a": "Moins chère que Barcelone sur toute la ligne. Les chambres pet-friendly démarrent vers 70-90 euros, les extras canins (enclos, itinéraires, baignades en rivière) sont gratuits, et les tarifs vétérinaires sont les tarifs espagnols standard."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Girona una buena alternativa a Barcelona con perro?",
+          "a": "Una de las mejores de España: los mismos trenes rápidos, una fracción del gentío y del estrés térmico, rutas fluviales sin correa legales y las playas caninas de la Costa Brava a menos de una hora. Todo lo que un perro odia de Barcelona aquí no existe."
+        },
+        {
+          "q": "¿Cuántos días necesita Girona con perro?",
+          "a": "Dos días completos cubren la muralla, el Call, el Onyar y los itinerarios caninos; añade un tercero para un día de playa canina en la Costa Brava o los senderos de Sant Daniel-Gavarres."
+        },
+        {
+          "q": "¿Es cara Girona?",
+          "a": "Más barata que Barcelona en todo. Las habitaciones pet-friendly empiezan en 70-90 euros, los extras caninos (recintos, itinerarios, baños en el río) son gratis y los precios veterinarios son los estándar españoles."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Girona é uma boa alternativa a Barcelona com cão?",
+          "a": "Uma das melhores de Espanha: os mesmos comboios rápidos, uma fração das multidões e do stress térmico, rotas fluviais sem trela legais e as praias caninas da Costa Brava a menos de uma hora. Tudo o que um cão detesta em Barcelona está ausente aqui."
+        },
+        {
+          "q": "Quantos dias precisa Girona com cão?",
+          "a": "Dois dias completos cobrem a muralha, o Call, o Onyar e os itinerários caninos; acrescente um terceiro para um dia de praia canina na Costa Brava ou os trilhos de Sant Daniel-Gavarres."
+        },
+        {
+          "q": "Girona é cara?",
+          "a": "Mais barata do que Barcelona em tudo. Os quartos pet-friendly começam nos 70-90 euros, os extras caninos (recintos, itinerários, banhos no rio) são grátis e os preços veterinários são os padrão espanhóis."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Girona",
+      "titleFr": "Attractions dog-friendly à Gérone",
+      "titleEs": "Atracciones dog-friendly en Girona",
+      "titlePt": "Atrações dog-friendly em Girona",
+      "introEn": "Girona's greatest hits are all open-air and all dog-compatible: the full 2 km circuit of the medieval walls with its towers, the tangle of the Call (one of Europe's best-preserved Jewish quarters), the cathedral's 90-step baroque staircase where Game of Thrones filmed, and the painted houses reflected in the Onyar. Interiors (cathedral, Arab baths, museums) exclude dogs, but they are a small fraction of what you came to see.",
+      "introFr": "Les grands classiques de Gérone sont tous en plein air et tous compatibles chien : le circuit complet de 2 km des remparts médiévaux et de leurs tours, le lacis du Call (l'un des quartiers juifs les mieux conservés d'Europe), l'escalier baroque de 90 marches de la cathédrale où Game of Thrones a tourné, et les maisons peintes qui se reflètent dans l'Onyar. Les intérieurs (cathédrale, bains arabes, musées) excluent les chiens, mais ils ne représentent qu'une petite fraction de ce que vous êtes venu voir.",
+      "introEs": "Los grandes clásicos de Girona son todos al aire libre y todos compatibles con perro: el circuito completo de 2 km de la muralla medieval con sus torres, el laberinto del Call (uno de los barrios judíos mejor conservados de Europa), la escalinata barroca de 90 peldaños de la catedral donde rodó Juego de Tronos, y las casas pintadas reflejadas en el Onyar. Los interiores (catedral, baños árabes, museos) excluyen a los perros, pero son una pequeña fracción de lo que has venido a ver.",
+      "introPt": "Os grandes clássicos de Girona são todos ao ar livre e todos compatíveis com cão: o circuito completo de 2 km da muralha medieval com as suas torres, o labirinto do Call (um dos bairros judeus mais bem preservados da Europa), a escadaria barroca de 90 degraus da catedral onde a Guerra dos Tronos filmou, e as casas pintadas refletidas no Onyar. Os interiores (catedral, banhos árabes, museus) excluem cães, mas são uma pequena fração do que veio ver.",
+      "places": [
+        {
+          "name": "Passeig de la Muralla",
+          "address": "Access from Jardins de la Francesa or Plaça Catalunya, 17004 Girona",
+          "neighborhood": "Barri Vell perimeter",
+          "photo": "/images/city-places/girona-attractions-muralla.jpg",
+          "description": "The complete 2 km patrol walk along Girona's Carolingian and medieval walls, with towers climbing to views over the cathedral, the Ter plain and the Pyrenees on clear days. Free, open at all hours and fully walkable with a leashed dog; the stone parapets shade sections of the path in the morning.",
+          "descriptionFr": "Le chemin de ronde complet de 2 km le long des remparts carolingiens et médiévaux de Gérone, avec des tours grimpant vers des vues sur la cathédrale, la plaine du Ter et les Pyrénées par temps clair. Gratuit, ouvert à toute heure et entièrement praticable avec un chien en laisse ; les parapets de pierre ombragent des sections du chemin le matin.",
+          "descriptionEs": "El camino de ronda completo de 2 km por las murallas carolingias y medievales de Girona, con torres que suben a vistas sobre la catedral, la llanura del Ter y los Pirineos en días claros. Gratis, abierto a todas horas y totalmente transitable con perro con correa; los parapetos de piedra dan sombra a tramos del camino por la mañana.",
+          "descriptionPt": "O caminho de ronda completo de 2 km pelas muralhas carolíngias e medievais de Girona, com torres que sobem a vistas sobre a catedral, a planície do Ter e os Pirenéus em dias limpos. Grátis, aberto a qualquer hora e totalmente percorrível com cão com trela; os parapeitos de pedra dão sombra a troços do caminho de manhã.",
+          "petPolicy": "Leashed dogs welcome on the entire wall walk",
+          "petPolicyFr": "Chiens en laisse bienvenus sur tout le chemin de ronde",
+          "petPolicyEs": "Perros con correa bienvenidos en todo el camino de ronda",
+          "petPolicyPt": "Cães com trela bem-vindos em todo o caminho de ronda",
+          "ticketPrice": "Free",
+          "openingHours": "Open 24/7",
+          "tip": "Some tower stairs are steep open grating; small dogs may prefer being carried up the lookout towers.",
+          "tipFr": "Certains escaliers de tours sont raides et ajourés ; les petits chiens préféreront être portés dans les tours de guet.",
+          "tipEs": "Algunas escaleras de las torres son empinadas y de rejilla; los perros pequeños preferirán subir en brazos a los miradores.",
+          "tipPt": "Algumas escadas das torres são íngremes e gradeadas; os cães pequenos preferirão subir ao colo aos miradouros.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Passeig+de+la+Muralla+Girona"
+        },
+        {
+          "name": "El Call & Catedral steps",
+          "address": "Carrer de la Força, 17004 Girona",
+          "neighborhood": "Barri Vell",
+          "photo": "",
+          "description": "The Call, Girona's medieval Jewish quarter around Carrer de la Forca, is a cool maze of stone stairways and hidden courtyards that leashed dogs explore freely; it flows into the cathedral square, whose 90-step baroque staircase doubled as King's Landing in Game of Thrones season six. Cathedral and museum interiors are off-limits to dogs; everything else is street theatre.",
+          "descriptionFr": "Le Call, quartier juif médiéval de Gérone autour du Carrer de la Forca, est un labyrinthe frais d'escaliers de pierre et de cours cachées que les chiens en laisse explorent librement ; il débouche sur la place de la cathédrale, dont l'escalier baroque de 90 marches a servi de décor à Port-Réal dans la saison 6 de Game of Thrones. Les intérieurs de la cathédrale et des musées sont interdits aux chiens ; tout le reste est du théâtre de rue.",
+          "descriptionEs": "El Call, el barrio judío medieval de Girona en torno al Carrer de la Forca, es un laberinto fresco de escalinatas de piedra y patios escondidos que los perros con correa exploran libremente; desemboca en la plaza de la catedral, cuya escalinata barroca de 90 peldaños fue Desembarco del Rey en la sexta temporada de Juego de Tronos. Los interiores de catedral y museos están vetados a los perros; todo lo demás es teatro callejero.",
+          "descriptionPt": "O Call, o bairro judeu medieval de Girona à volta do Carrer de la Forca, é um labirinto fresco de escadarias de pedra e pátios escondidos que os cães com trela exploram livremente; desemboca na praça da catedral, cuja escadaria barroca de 90 degraus foi Porto Real na sexta temporada da Guerra dos Tronos. Os interiores da catedral e dos museus estão vedados aos cães; tudo o resto é teatro de rua.",
+          "petPolicy": "Leashed dogs in all streets and squares; no dogs inside cathedral or museums",
+          "petPolicyFr": "Chiens en laisse dans toutes les rues et places ; pas de chiens dans la cathédrale ni les musées",
+          "petPolicyEs": "Perros con correa en todas las calles y plazas; sin perros dentro de la catedral o los museos",
+          "petPolicyPt": "Cães com trela em todas as ruas e praças; sem cães dentro da catedral ou dos museus",
+          "ticketPrice": "Streets free; cathedral interior ticketed (humans only)",
+          "openingHours": "Streets open 24/7",
+          "tip": "GoT fans photograph the staircase before 9:00, when tour groups arrive from Barcelona.",
+          "tipFr": "Les fans de GoT photographient l'escalier avant 9h, quand les groupes arrivent de Barcelone.",
+          "tipEs": "Los fans de Juego de Tronos fotografían la escalinata antes de las 9:00, cuando llegan los grupos desde Barcelona.",
+          "tipPt": "Os fãs da Guerra dos Tronos fotografam a escadaria antes das 9h00, quando chegam os grupos de Barcelona.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Catedral+de+Girona"
+        },
+        {
+          "name": "Cases de l'Onyar & Pont de les Peixateries Velles",
+          "address": "Riu Onyar, central Girona",
+          "neighborhood": "Between Barri Vell and Mercadal",
+          "photo": "/images/city-places/girona-attractions-onyar.jpg",
+          "description": "Girona's postcard: ochre, coral and mustard houses hanging over the Onyar, best seen from the red iron Pont de les Peixateries Velles built by Eiffel's company in 1877, a decade before the tower. All bridges and both riverbanks are open strolling territory for leashed dogs, and the official Onyar canine itinerary starts just upstream.",
+          "descriptionFr": "La carte postale de Gérone : maisons ocre, corail et moutarde suspendues au-dessus de l'Onyar, à admirer depuis le pont de fer rouge de les Peixateries Velles construit par la société d'Eiffel en 1877, une décennie avant la tour. Tous les ponts et les deux berges sont un territoire de flânerie ouvert aux chiens en laisse, et l'itinéraire canin officiel de l'Onyar commence juste en amont.",
+          "descriptionEs": "La postal de Girona: casas ocres, coral y mostaza colgadas sobre el Onyar, mejor vistas desde el puente rojo de hierro de les Peixateries Velles construido por la empresa de Eiffel en 1877, una década antes que la torre. Todos los puentes y ambas riberas son territorio de paseo abierto a perros con correa, y el itinerario canino oficial del Onyar empieza justo río arriba.",
+          "descriptionPt": "O postal de Girona: casas ocre, coral e mostarda debruçadas sobre o Onyar, melhor vistas da ponte vermelha de ferro de les Peixateries Velles construída pela empresa de Eiffel em 1877, uma década antes da torre. Todas as pontes e ambas as margens são território de passeio aberto a cães com trela, e o itinerário canino oficial do Onyar começa logo a montante.",
+          "petPolicy": "Open public space, leashed dogs welcome on bridges and banks",
+          "petPolicyFr": "Espace public ouvert, chiens en laisse bienvenus sur ponts et berges",
+          "petPolicyEs": "Espacio público abierto, perros con correa bienvenidos en puentes y riberas",
+          "petPolicyPt": "Espaço público aberto, cães com trela bem-vindos nas pontes e margens",
+          "ticketPrice": "Free",
+          "openingHours": "Open 24/7",
+          "tip": "Golden hour light on the facades comes from the west bank around sunset; the bridge itself is narrow, keep the leash short.",
+          "tipFr": "La lumière dorée sur les façades vient de la rive ouest vers le coucher du soleil ; le pont est étroit, gardez la laisse courte.",
+          "tipEs": "La luz dorada sobre las fachadas llega desde la orilla oeste al atardecer; el puente es estrecho, lleva la correa corta.",
+          "tipPt": "A luz dourada nas fachadas vem da margem oeste ao pôr do sol; a ponte é estreita, mantenha a trela curta.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pont+de+les+Peixateries+Velles+Girona"
+        }
+      ],
+      "tipsEn": [
+        "The whole old town is cobbled and stepped; trim your dog's nails before the trip and skip the wall towers with seniors or giant breeds.",
+        "Girona hosts big events (Temps de Flors in May, cycling races); crowds and barriers make those weeks harder with a reactive dog.",
+        "Water fountains dot the Barri Vell; the one at the Sant Daniel valley mouth is the classic dog refill before the Gavarres."
+      ],
+      "tipsFr": [
+        "Toute la vieille ville est pavée et en escaliers ; coupez les griffes de votre chien avant le voyage et évitez les tours des remparts avec des chiens âgés ou géants.",
+        "Gérone accueille de grands événements (Temps de Flors en mai, courses cyclistes) ; foules et barrières compliquent ces semaines avec un chien réactif.",
+        "Des fontaines parsèment le Barri Vell ; celle de l'entrée de la vallée de Sant Daniel est le point d'eau canin classique avant les Gavarres."
+      ],
+      "tipsEs": [
+        "Todo el casco antiguo es de adoquín y escaleras; corta las uñas del perro antes del viaje y evita las torres de la muralla con perros mayores o de razas gigantes.",
+        "Girona acoge grandes eventos (Temps de Flors en mayo, carreras ciclistas); el gentío y las vallas complican esas semanas con un perro reactivo.",
+        "Las fuentes salpican el Barri Vell; la de la entrada del valle de Sant Daniel es el repostaje canino clásico antes de las Gavarres."
+      ],
+      "tipsPt": [
+        "Todo o centro histórico é de calçada e escadas; corte as unhas do cão antes da viagem e evite as torres da muralha com cães idosos ou de raças gigantes.",
+        "Girona acolhe grandes eventos (Temps de Flors em maio, corridas de ciclismo); multidões e barreiras complicam essas semanas com um cão reativo.",
+        "As fontes salpicam o Barri Vell; a da entrada do vale de Sant Daniel é o reabastecimento canino clássico antes das Gavarres."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs walk Girona's city walls?",
+          "a": "Yes, the full 2 km Passeig de la Muralla is free, open at all hours and dog-friendly on leash. Only some steep tower stairs need care with small or senior dogs."
+        },
+        {
+          "q": "Can I visit the Game of Thrones filming spots with my dog?",
+          "a": "Nearly all of them: the cathedral staircase, the Call's alleys and Placa dels Jurats are open streets. Only interiors like the Arab Baths exclude dogs."
+        },
+        {
+          "q": "Is the old town hard walking for a dog?",
+          "a": "It is all cobbles, stairs and short climbs; fine for most dogs in the cool hours, tiring at 30 C. Do the walls early, the river and Devesa at midday."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils parcourir les remparts de Gérone ?",
+          "a": "Oui, les 2 km du Passeig de la Muralla sont gratuits, ouverts à toute heure et dog-friendly en laisse. Seuls quelques escaliers de tours raides demandent de l'attention avec les petits chiens ou les seniors."
+        },
+        {
+          "q": "Puis-je visiter les lieux de tournage de Game of Thrones avec mon chien ?",
+          "a": "Presque tous : l'escalier de la cathédrale, les ruelles du Call et la Placa dels Jurats sont des rues ouvertes. Seuls les intérieurs comme les Bains arabes excluent les chiens."
+        },
+        {
+          "q": "La vieille ville est-elle éprouvante pour un chien ?",
+          "a": "Ce ne sont que pavés, escaliers et petites montées ; sans problème pour la plupart des chiens aux heures fraîches, fatigant à 30 C. Faites les remparts tôt, la rivière et la Devesa à midi."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros recorrer la muralla de Girona?",
+          "a": "Sí, los 2 km del Passeig de la Muralla son gratuitos, abiertos a todas horas y dog-friendly con correa. Solo algunas escaleras empinadas de las torres piden cuidado con perros pequeños o mayores."
+        },
+        {
+          "q": "¿Puedo visitar los escenarios de Juego de Tronos con mi perro?",
+          "a": "Casi todos: la escalinata de la catedral, los callejones del Call y la Placa dels Jurats son calles abiertas. Solo interiores como los Baños Árabes excluyen a los perros."
+        },
+        {
+          "q": "¿El casco antiguo es duro para un perro?",
+          "a": "Todo son adoquines, escaleras y pequeñas subidas; sin problema para la mayoría de perros en las horas frescas, cansado a 30 C. Haz la muralla temprano, el río y la Devesa al mediodía."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães podem percorrer a muralha de Girona?",
+          "a": "Sim, os 2 km do Passeig de la Muralla são gratuitos, abertos a qualquer hora e dog-friendly com trela. Só algumas escadas íngremes das torres pedem cuidado com cães pequenos ou idosos."
+        },
+        {
+          "q": "Posso visitar os cenários da Guerra dos Tronos com o meu cão?",
+          "a": "Quase todos: a escadaria da catedral, as vielas do Call e a Placa dels Jurats são ruas abertas. Só interiores como os Banhos Árabes excluem cães."
+        },
+        {
+          "q": "O centro histórico é duro para um cão?",
+          "a": "É tudo calçada, escadas e pequenas subidas; sem problema para a maioria dos cães nas horas frescas, cansativo a 30 C. Faça a muralha cedo, o rio e a Devesa ao meio-dia."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Day Care in Girona",
+      "titleFr": "Garde d'animaux et garderie canine à Gérone",
+      "titleEs": "Cuidadores y guardería canina en Girona",
+      "titlePt": "Pet sitting e creche canina em Girona",
+      "introEn": "For a museum morning, a Celler de Can Roca dinner or a bike day in the Gavarres, Girona travellers can draw on Spain's two big sitter platforms, Gudog (Spanish, founded here in Spain) and Rover, both with vetted sitters in the city and its suburbs. Book ahead in May (Temps de Flors) and the summer weeks; Girona's own sitter pool is smaller than Barcelona's.",
+      "introFr": "Pour une matinée de musées, un dîner au Celler de Can Roca ou une journée de vélo dans les Gavarres, les voyageurs à Gérone peuvent compter sur les deux grandes plateformes de garde d'Espagne, Gudog (espagnole) et Rover, toutes deux avec des gardiens vérifiés dans la ville et sa périphérie. Réservez à l'avance en mai (Temps de Flors) et pendant les semaines d'été ; le vivier de gardiens de Gérone est plus réduit que celui de Barcelone.",
+      "introEs": "Para una mañana de museos, una cena en el Celler de Can Roca o un día de bici en las Gavarres, quien viaja a Girona puede recurrir a las dos grandes plataformas de cuidadores de España, Gudog (española) y Rover, ambas con cuidadores verificados en la ciudad y su periferia. Reserva con antelación en mayo (Temps de Flors) y las semanas de verano; la bolsa de cuidadores de Girona es menor que la de Barcelona.",
+      "introPt": "Para uma manhã de museus, um jantar no Celler de Can Roca ou um dia de bicicleta nas Gavarres, quem viaja para Girona pode recorrer às duas grandes plataformas de pet sitting de Espanha, Gudog (espanhola) e Rover, ambas com cuidadores verificados na cidade e arredores. Reserve com antecedência em maio (Temps de Flors) e nas semanas de verão; a bolsa de cuidadores de Girona é menor do que a de Barcelona.",
+      "places": [
+        {
+          "name": "Gudog Girona",
+          "website": "https://gudog.es/",
+          "languages": [
+            "Spanish",
+            "Catalan",
+            "English"
+          ],
+          "serviceType": "Sitter platform: day care, boarding, walks",
+          "serviceTypeFr": "Plateforme de gardiens : garderie de jour, pension, promenades",
+          "serviceTypeEs": "Plataforma de cuidadores: guardería de día, alojamiento, paseos",
+          "serviceTypePt": "Plataforma de cuidadores: creche de dia, alojamento, passeios",
+          "description": "Spain's home-grown dog-sitting platform, with insured, reviewed sitters offering day care, boarding and walks in Girona and the surrounding towns. Rates are among the lowest of any major platform in Western Europe.",
+          "descriptionFr": "La plateforme espagnole de garde de chiens, avec des gardiens assurés et notés proposant garderie de jour, pension et promenades à Gérone et dans les communes voisines. Les tarifs comptent parmi les plus bas des grandes plateformes d'Europe de l'Ouest.",
+          "descriptionEs": "La plataforma española de cuidado de perros, con cuidadores asegurados y valorados que ofrecen guardería de día, alojamiento y paseos en Girona y los pueblos de alrededor. Las tarifas están entre las más bajas de las grandes plataformas de Europa occidental.",
+          "descriptionPt": "A plataforma espanhola de pet sitting, com cuidadores segurados e avaliados que oferecem creche de dia, alojamento e passeios em Girona e nas localidades vizinhas. As tarifas estão entre as mais baixas das grandes plataformas da Europa ocidental.",
+          "tip": "Filter for sitters with fenced gardens if your dog is used to Girona's off-leash itineraries.",
+          "tipFr": "Filtrez les gardiens avec jardin clôturé si votre chien est habitué aux itinéraires sans laisse de Gérone.",
+          "tipEs": "Filtra cuidadores con jardín vallado si tu perro está acostumbrado a los itinerarios sin correa de Girona.",
+          "tipPt": "Filtre cuidadores com jardim vedado se o seu cão está habituado aos itinerários sem trela de Girona."
+        },
+        {
+          "name": "Rover (Spain) Girona",
+          "website": "https://www.rover.com/es/",
+          "languages": [
+            "Spanish",
+            "Catalan",
+            "English"
+          ],
+          "serviceType": "Sitter platform: drop-in visits, house sitting, boarding",
+          "serviceTypeFr": "Plateforme de gardiens : visites, house sitting, pension",
+          "serviceTypeEs": "Plataforma de cuidadores: visitas, house sitting, alojamiento",
+          "serviceTypePt": "Plataforma de cuidadores: visitas, house sitting, alojamento",
+          "description": "The international platform's Spanish arm lists background-checked Girona sitters for hotel-room drop-ins, walks and overnight boarding, with in-app photo updates and insurance cover. English-speaking sitters are easier to find here than on local boards.",
+          "descriptionFr": "La branche espagnole de la plateforme internationale recense des gardiens vérifiés à Gérone pour visites en chambre d'hôtel, promenades et pension de nuit, avec photos dans l'appli et couverture d'assurance. Les gardiens anglophones y sont plus faciles à trouver que sur les annuaires locaux.",
+          "descriptionEs": "La rama española de la plataforma internacional lista cuidadores verificados en Girona para visitas a la habitación del hotel, paseos y alojamiento nocturno, con fotos en la app y cobertura de seguro. Los cuidadores que hablan inglés son más fáciles de encontrar aquí que en los tablones locales.",
+          "descriptionPt": "O braço espanhol da plataforma internacional lista cuidadores verificados em Girona para visitas ao quarto de hotel, passeios e alojamento noturno, com fotos na app e cobertura de seguro. Os cuidadores que falam inglês são mais fáceis de encontrar aqui do que nos quadros locais.",
+          "tip": "Arrange a meet-and-greet walk along the Onyar itinerary the day before you actually need the sitter.",
+          "tipFr": "Organisez une promenade de présentation sur l'itinéraire de l'Onyar la veille du jour où vous aurez vraiment besoin du gardien.",
+          "tipEs": "Organiza un paseo de presentación por el itinerario del Onyar el día antes de necesitar de verdad al cuidador.",
+          "tipPt": "Combine um passeio de apresentação pelo itinerário do Onyar na véspera do dia em que precisar mesmo do cuidador."
+        }
+      ],
+      "tipsEn": [
+        "El Celler de Can Roca and most tasting-menu rooms cannot seat dogs; book the sitter the moment you get the restaurant confirmation.",
+        "Several Girona hotels, including the pet-friendly boutique ones, can recommend trusted local walkers; ask the front desk.",
+        "Sitter rates in Girona run below Barcelona's: roughly 10-15 EUR per walk and 15-25 EUR per day of day care."
+      ],
+      "tipsFr": [
+        "El Celler de Can Roca et la plupart des salles à menu dégustation ne peuvent pas accueillir de chiens ; réservez le gardien dès la confirmation du restaurant.",
+        "Plusieurs hôtels de Gérone, dont les boutiques pet-friendly, peuvent recommander des promeneurs locaux de confiance ; demandez à la réception.",
+        "Les tarifs des gardiens à Gérone sont inférieurs à ceux de Barcelone : environ 10-15 euros la promenade et 15-25 euros la journée de garderie."
+      ],
+      "tipsEs": [
+        "El Celler de Can Roca y la mayoría de salas con menú degustación no pueden sentar perros; reserva al cuidador en cuanto tengas la confirmación del restaurante.",
+        "Varios hoteles de Girona, incluidos los boutique pet-friendly, pueden recomendar paseadores locales de confianza; pregunta en recepción.",
+        "Las tarifas de cuidadores en Girona están por debajo de las de Barcelona: unos 10-15 euros por paseo y 15-25 euros por día de guardería."
+      ],
+      "tipsPt": [
+        "O Celler de Can Roca e a maioria das salas de menu de degustação não podem sentar cães; reserve o cuidador assim que tiver a confirmação do restaurante.",
+        "Vários hotéis de Girona, incluindo os boutique pet-friendly, podem recomendar passeadores locais de confiança; pergunte na receção.",
+        "As tarifas de cuidadores em Girona ficam abaixo das de Barcelona: cerca de 10-15 euros por passeio e 15-25 euros por dia de creche."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does dog sitting cost in Girona?",
+          "a": "Roughly 10-15 EUR for a walk or drop-in and 15-25 EUR for a full day of day care on Gudog or Rover, below Barcelona rates."
+        },
+        {
+          "q": "Can a sitter watch my dog during a Celler de Can Roca dinner?",
+          "a": "Yes, that is the classic Girona booking: an evening drop-in or overnight sitter arranged through Gudog or Rover, reserved as far ahead as your table."
+        },
+        {
+          "q": "Are there English-speaking sitters in Girona?",
+          "a": "Yes, though fewer than in Barcelona; Rover's language filter finds them fastest, and Girona's cycling expat community adds several."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte la garde de chien à Gérone ?",
+          "a": "Environ 10-15 euros la promenade ou la visite et 15-25 euros la journée complète de garderie sur Gudog ou Rover, en dessous des tarifs barcelonais."
+        },
+        {
+          "q": "Un gardien peut-il surveiller mon chien pendant un dîner au Celler de Can Roca ?",
+          "a": "Oui, c'est la réservation géronaise classique : une visite du soir ou un gardien de nuit via Gudog ou Rover, à réserver aussi tôt que votre table."
+        },
+        {
+          "q": "Y a-t-il des gardiens anglophones à Gérone ?",
+          "a": "Oui, mais moins qu'à Barcelone ; le filtre de langue de Rover les trouve le plus vite, et la communauté expatriée cycliste de Gérone en ajoute plusieurs."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta un cuidador de perros en Girona?",
+          "a": "Unos 10-15 euros por paseo o visita y 15-25 euros por día completo de guardería en Gudog o Rover, por debajo de las tarifas de Barcelona."
+        },
+        {
+          "q": "¿Puede un cuidador quedarse con mi perro durante una cena en el Celler de Can Roca?",
+          "a": "Sí, es la reserva gerundense clásica: una visita nocturna o un cuidador de noche vía Gudog o Rover, reservado con tanta antelación como tu mesa."
+        },
+        {
+          "q": "¿Hay cuidadores que hablen inglés en Girona?",
+          "a": "Sí, aunque menos que en Barcelona; el filtro de idioma de Rover los encuentra más rápido, y la comunidad expatriada ciclista de Girona suma varios."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Quanto custa um pet sitter em Girona?",
+          "a": "Cerca de 10-15 euros por passeio ou visita e 15-25 euros por dia completo de creche no Gudog ou Rover, abaixo das tarifas de Barcelona."
+        },
+        {
+          "q": "Um cuidador pode ficar com o meu cão durante um jantar no Celler de Can Roca?",
+          "a": "Sim, é a reserva gironina clássica: uma visita ao fim do dia ou um cuidador noturno via Gudog ou Rover, reservado com tanta antecedência como a sua mesa."
+        },
+        {
+          "q": "Há cuidadores que falem inglês em Girona?",
+          "a": "Sim, embora menos do que em Barcelona; o filtro de idioma do Rover encontra-os mais depressa, e a comunidade expatriada de ciclistas de Girona acrescenta vários."
+        }
+      ]
+    }
+  }
+}

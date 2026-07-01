@@ -25971,5 +25971,79 @@
         "icon": "❄️"
       }
     }
+  },
+  {
+    "slug": "girona",
+    "name": "Girona",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/girona.jpg",
+    "intro": "Girona, Catalonia's walkable medieval gem one hour from Barcelona, 103 000 residents, 7 km of official off-leash canine itineraries along the Ter and Onyar rivers, five fenced dog runs including two in the 40-hectare Devesa park, the full 2 km city-wall walk open to leashed dogs, a 24-hour veterinary hospital, and the Costa Brava dog beaches (La Rubina, Rec del Moli) under an hour away.",
+    "lat": 41.9794,
+    "lng": 2.8214,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cool and sunny",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool and bright",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild and fresh",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm and green",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot and dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot with storms",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm and pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool and crisp",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool and clear",
+        "icon": "⛅"
+      }
+    }
   }
 ]

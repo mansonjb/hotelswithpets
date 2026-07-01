@@ -11043,6 +11043,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  girona: {
+    history: {
+      fr: `Gérone empile trois mille ans d'histoire sur un éperon entre quatre rivières : fondée par les Ibères, refondée par Rome sous le nom de Gerunda sur la Via Augusta, disputée par Charlemagne, elle a subi vingt-cinq sièges et gardé l'un des ensembles médiévaux les plus intacts de Catalogne. Le Call, son quartier juif des XIIe-XVe siècles, compte parmi les mieux préservés d'Europe, et la cathédrale possède la plus large nef gothique du monde (22,98 m). Les maisons colorées suspendues au-dessus de l'Onyar et le pont de fer construit par la société Eiffel en 1877 composent la carte postale. Aujourd'hui, la ville de 103 000 habitants, à 38 minutes de Barcelone en AVE, est devenue un modèle canin : cinq itinéraires officiels sans laisse totalisant 7 km le long du Ter et de l'Onyar, cinq enclos clôturés, et un hôpital vétérinaire ouvert 24h/24, le tout à l'écart du surtourisme barcelonais.`,
+      en: `Girona stacks three thousand years of history on a spur between four rivers: founded by the Iberians, refounded by Rome as Gerunda on the Via Augusta, contested by Charlemagne, it endured twenty-five sieges and kept one of Catalonia's most intact medieval cores. The Call, its 12th-15th century Jewish quarter, ranks among Europe's best preserved, and the cathedral holds the widest Gothic nave in the world (22.98 m). The coloured houses hanging over the Onyar and the iron bridge built by Eiffel's company in 1877 make the postcard. Today the 103 000-resident city, 38 minutes from Barcelona by AVE, has become a canine model: five official off-leash itineraries totalling 7 km along the Ter and Onyar, five fenced runs, and a veterinary hospital open 24 hours, all far from Barcelona's overtourism.`,
+      es: `Girona apila tres mil años de historia sobre un espolón entre cuatro ríos: fundada por los íberos, refundada por Roma como Gerunda en la Via Augusta, disputada por Carlomagno, soportó veinticinco asedios y conservó uno de los cascos medievales más intactos de Cataluña. El Call, su barrio judío de los siglos XII-XV, está entre los mejor preservados de Europa, y la catedral tiene la nave gótica más ancha del mundo (22,98 m). Las casas de colores colgadas sobre el Onyar y el puente de hierro construido por la empresa de Eiffel en 1877 componen la postal. Hoy la ciudad de 103 000 habitantes, a 38 minutos de Barcelona en AVE, se ha vuelto un modelo canino: cinco itinerarios oficiales sin correa que suman 7 km junto al Ter y el Onyar, cinco recintos vallados y un hospital veterinario abierto 24 horas, todo lejos del sobreturismo barcelonés.`,
+      pt: `Girona empilha três mil anos de história num esporão entre quatro rios: fundada pelos iberos, refundada por Roma como Gerunda na Via Augusta, disputada por Carlos Magno, suportou vinte e cinco cercos e conservou um dos núcleos medievais mais intactos da Catalunha. O Call, o seu bairro judeu dos séculos XII-XV, está entre os mais bem preservados da Europa, e a catedral tem a nave gótica mais larga do mundo (22,98 m). As casas coloridas debruçadas sobre o Onyar e a ponte de ferro construída pela empresa de Eiffel em 1877 compõem o postal. Hoje a cidade de 103 000 habitantes, a 38 minutos de Barcelona de AVE, tornou-se um modelo canino: cinco itinerários oficiais sem trela que somam 7 km ao longo do Ter e do Onyar, cinco recintos vedados e um hospital veterinário aberto 24 horas, tudo longe do sobreturismo barcelonês.`,
+    },
+    sights: [
+      { name: `Passeig de la Muralla`, emoji: `🏰`, petFriendly: true, desc: {
+        fr: `Le chemin de ronde complet de 2 km sur les remparts carolingiens et médiévaux, tours-belvédères sur la cathédrale et les Pyrénées. Gratuit, ouvert à toute heure, chiens en laisse bienvenus.`,
+        en: `The complete 2 km patrol walk on the Carolingian and medieval walls, lookout towers over the cathedral and the Pyrenees. Free, open at all hours, leashed dogs welcome.`,
+        es: `El camino de ronda completo de 2 km sobre las murallas carolingias y medievales, torres-mirador sobre la catedral y los Pirineos. Gratis, abierto a todas horas, perros con correa bienvenidos.`,
+        pt: `O caminho de ronda completo de 2 km sobre as muralhas carolíngias e medievais, torres-miradouro sobre a catedral e os Pirenéus. Grátis, aberto a qualquer hora, cães com trela bem-vindos.`,
+      }},
+      { name: `El Call`, emoji: `🕍`, petFriendly: true, desc: {
+        fr: `L'un des quartiers juifs médiévaux les mieux conservés d'Europe, labyrinthe frais d'escaliers de pierre autour du Carrer de la Forca. Rues ouvertes aux chiens en laisse ; musée d'histoire juive interdit aux chiens.`,
+        en: `One of Europe's best-preserved medieval Jewish quarters, a cool maze of stone stairways around Carrer de la Forca. Streets open to leashed dogs; the Jewish history museum excludes dogs.`,
+        es: `Uno de los barrios judíos medievales mejor conservados de Europa, un laberinto fresco de escalinatas de piedra en torno al Carrer de la Forca. Calles abiertas a perros con correa; el museo de historia judía no admite perros.`,
+        pt: `Um dos bairros judeus medievais mais bem conservados da Europa, um labirinto fresco de escadarias de pedra à volta do Carrer de la Forca. Ruas abertas a cães com trela; o museu de história judaica não admite cães.`,
+      }},
+      { name: `Catedral de Girona`, emoji: `⛪`, petFriendly: false, desc: {
+        fr: `La nef gothique la plus large du monde (22,98 m) au sommet d'un escalier baroque de 90 marches, décor de Port-Réal dans Game of Thrones. Marches et place accessibles en laisse, intérieur interdit aux chiens.`,
+        en: `The widest Gothic nave in the world (22.98 m) atop a 90-step baroque staircase, King's Landing set in Game of Thrones. Steps and square accessible on leash, interior closed to dogs.`,
+        es: `La nave gótica más ancha del mundo (22,98 m) sobre una escalinata barroca de 90 peldaños, escenario de Desembarco del Rey en Juego de Tronos. Escaleras y plaza accesibles con correa, interior cerrado a perros.`,
+        pt: `A nave gótica mais larga do mundo (22,98 m) no topo de uma escadaria barroca de 90 degraus, cenário de Porto Real na Guerra dos Tronos. Escadas e praça acessíveis com trela, interior fechado a cães.`,
+      }},
+      { name: `Cases de l'Onyar`, emoji: `🎨`, petFriendly: true, desc: {
+        fr: `Les façades ocre et corail suspendues au-dessus de l'Onyar, vues du pont de fer d'Eiffel (1877). Ponts et berges ouverts aux chiens en laisse, itinéraire canin officiel juste en amont.`,
+        en: `The ochre and coral facades hanging over the Onyar, seen from Eiffel's iron bridge (1877). Bridges and banks open to leashed dogs, official canine itinerary just upstream.`,
+        es: `Las fachadas ocres y coral colgadas sobre el Onyar, vistas desde el puente de hierro de Eiffel (1877). Puentes y riberas abiertos a perros con correa, itinerario canino oficial justo río arriba.`,
+        pt: `As fachadas ocre e coral debruçadas sobre o Onyar, vistas da ponte de ferro de Eiffel (1877). Pontes e margens abertas a cães com trela, itinerário canino oficial logo a montante.`,
+      }},
+      { name: `Parc de la Devesa`, emoji: `🌳`, petFriendly: true, desc: {
+        fr: `40 hectares de platanes monumentaux entre vieille ville et Ter, le plus grand parc urbain de Catalogne, avec deux des cinq enclos canins clôturés de la ville. Ombre profonde même en plein été.`,
+        en: `40 hectares of monumental plane trees between the old town and the Ter, Catalonia's largest urban park, with two of the city's five fenced dog runs. Deep shade even in high summer.`,
+        es: `40 hectáreas de plátanos monumentales entre el casco antiguo y el Ter, el mayor parque urbano de Cataluña, con dos de los cinco recintos caninos vallados de la ciudad. Sombra profunda incluso en pleno verano.`,
+        pt: `40 hectares de plátanos monumentais entre o centro histórico e o Ter, o maior parque urbano da Catalunha, com dois dos cinco recintos caninos vedados da cidade. Sombra profunda mesmo em pleno verão.`,
+      }},
+      { name: `Vall de Sant Daniel`, emoji: `🥾`, petFriendly: true, desc: {
+        fr: `La vallée verte derrière la cathédrale, porte du massif des Gavarres, avec un itinéraire canin officiel à son entrée, des sources et un monastère roman. Forêt de chênes verts à 20 minutes à pied du Barri Vell.`,
+        en: `The green valley behind the cathedral, gateway to the Gavarres massif, with an official canine itinerary at its mouth, springs and a Romanesque monastery. Holm-oak forest 20 minutes on foot from the Barri Vell.`,
+        es: `El valle verde tras la catedral, puerta del macizo de las Gavarres, con un itinerario canino oficial en su entrada, fuentes y un monasterio románico. Encinar a 20 minutos a pie del Barri Vell.`,
+        pt: `O vale verde atrás da catedral, porta do maciço das Gavarres, com um itinerário canino oficial à entrada, nascentes e um mosteiro românico. Floresta de azinheiras a 20 minutos a pé do Barri Vell.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Gérone autorise expressément le sans-laisse sur ses cinq itinéraires canins balisés (7 km : Ribes del Ter, Onyar, jardins de Santa Eugenia, Sant Daniel) ; partout ailleurs en ville, laisse obligatoire.`,
+        `Cinq enclos canins clôturés gratuits : deux dans la Devesa, plus Parc del Migdia, Mas Ramada et Mas Maso ; l'été (jusqu'au 31 août), la ville ouvre en plus des bois ombragés à usage partagé.`,
+        `Races PPP (liste catalane) : laisse et muselière obligatoires dans tout espace public, itinéraires canins compris.`,
+        `Prévention leishmaniose indispensable de mai à octobre (phlébotomes endémiques) et attention aux chenilles processionnaires dans les pins de février à avril.`,
+        `Bus urbains TMG : animaux uniquement en sac de transport (lignes L3, L4, L6 : aucun animal) ; en train régional R11, chiens en laisse et muselés gratuits vers Barcelone et Figueres.`,
+      ],
+      en: [
+        `Girona expressly allows off-leash on its five marked canine itineraries (7 km: Ribes del Ter, Onyar, Santa Eugenia orchards, Sant Daniel); everywhere else in town the leash is mandatory.`,
+        `Five free fenced dog runs: two in the Devesa plus Parc del Migdia, Mas Ramada and Mas Maso; in summer (until August 31) the city additionally opens shared-use shaded woods.`,
+        `PPP breeds (Catalan list): leash and muzzle mandatory in all public spaces, canine itineraries included.`,
+        `Leishmaniasis prevention is essential from May to October (endemic sandflies), and watch for processionary caterpillars in pine areas from February to April.`,
+        `TMG city buses: animals only in carriers (lines L3, L4, L6: no animals at all); on the R11 regional train, leashed, muzzled dogs ride free to Barcelona and Figueres.`,
+      ],
+      es: [
+        `Girona permite expresamente ir sin correa en sus cinco itinerarios caninos señalizados (7 km: Ribes del Ter, Onyar, huertas de Santa Eugenia, Sant Daniel); en el resto de la ciudad la correa es obligatoria.`,
+        `Cinco recintos caninos vallados gratuitos: dos en la Devesa más Parc del Migdia, Mas Ramada y Mas Maso; en verano (hasta el 31 de agosto) la ciudad abre además bosques sombreados de uso compartido.`,
+        `Razas PPP (lista catalana): correa y bozal obligatorios en todo espacio público, itinerarios caninos incluidos.`,
+        `La prevención de leishmaniosis es esencial de mayo a octubre (flebotomos endémicos), y ojo con las orugas procesionarias en los pinares de febrero a abril.`,
+        `Buses urbanos TMG: animales solo en transportín (líneas L3, L4, L6: ningún animal); en el tren regional R11, los perros con correa y bozal viajan gratis a Barcelona y Figueres.`,
+      ],
+      pt: [
+        `Girona permite expressamente andar sem trela nos seus cinco itinerários caninos sinalizados (7 km: Ribes del Ter, Onyar, hortas de Santa Eugenia, Sant Daniel); no resto da cidade a trela é obrigatória.`,
+        `Cinco recintos caninos vedados gratuitos: dois na Devesa mais Parc del Migdia, Mas Ramada e Mas Maso; no verão (até 31 de agosto) a cidade abre ainda bosques sombreados de uso partilhado.`,
+        `Raças PPP (lista catalã): trela e açaime obrigatórios em todo o espaço público, itinerários caninos incluídos.`,
+        `A prevenção da leishmaniose é essencial de maio a outubro (flebótomos endémicos), e cuidado com as lagartas processionárias nos pinhais de fevereiro a abril.`,
+        `Autocarros urbanos TMG: animais só em transportadora (linhas L3, L4, L6: nenhum animal); no comboio regional R11, os cães com trela e açaime viajam grátis para Barcelona e Figueres.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences vétérinaires 24h/24 : Hospital Veterinari Canis Mas Xirgu, Carrer Can Pau Birol 38, +34 972 21 86 68 (équipe sur place jour et nuit, 365 jours par an).`,
+        `Seconde option : Vets Centre Veterinari Girona, Carrer d'Àngel Marsà i Beca 3, +34 972 22 88 04, ligne mobile d'urgence 24h 645 185 354.`,
+        `Depuis Barcelone : AVE en 38 minutes (billet animal 10 €, sac 60x35x35 cm, ou places grands chiens jusqu'à 40 kg à 35 € sur certains trains) ; régional R11 en 1h20, chiens gratuits en laisse et muselière.`,
+        `Plages canines les plus proches : Platja del Rec del Moli à L'Escala (40 min) et Platja de la Rubina à Empuriabrava (50 min), toutes deux ouvertes toute l'année.`,
+        `Tarifs hôteliers pet-friendly : à partir de 70-90 € la nuit, nettement sous Barcelone ; garde de chien 10-15 € la promenade via Gudog ou Rover.`,
+      ],
+      en: [
+        `24h veterinary emergencies: Hospital Veterinari Canis Mas Xirgu, Carrer Can Pau Birol 38, +34 972 21 86 68 (staff on site day and night, 365 days a year).`,
+        `Second option: Vets Centre Veterinari Girona, Carrer d'Àngel Marsà i Beca 3, +34 972 22 88 04, 24h emergency mobile line 645 185 354.`,
+        `From Barcelona: AVE in 38 minutes (pet ticket 10 EUR, 60x35x35 cm carrier, or up-to-40 kg dog spaces at 35 EUR on selected trains); R11 regional in 1h20, leashed muzzled dogs free.`,
+        `Nearest dog beaches: Platja del Rec del Moli at L'Escala (40 min) and Platja de la Rubina at Empuriabrava (50 min), both open year-round.`,
+        `Pet-friendly hotel rates: from 70-90 EUR per night, well under Barcelona; dog sitting 10-15 EUR per walk via Gudog or Rover.`,
+      ],
+      es: [
+        `Urgencias veterinarias 24h: Hospital Veterinari Canis Mas Xirgu, Carrer Can Pau Birol 38, +34 972 21 86 68 (equipo presente día y noche, 365 días al año).`,
+        `Segunda opción: Vets Centre Veterinari Girona, Carrer d'Àngel Marsà i Beca 3, +34 972 22 88 04, línea móvil de urgencias 24h 645 185 354.`,
+        `Desde Barcelona: AVE en 38 minutos (billete de mascota 10 €, transportín 60x35x35 cm, o plazas para perros de hasta 40 kg a 35 € en trenes seleccionados); regional R11 en 1h20, perros con correa y bozal gratis.`,
+        `Playas caninas más cercanas: Platja del Rec del Moli en L'Escala (40 min) y Platja de la Rubina en Empuriabrava (50 min), ambas abiertas todo el año.`,
+        `Tarifas hoteleras pet-friendly: desde 70-90 € la noche, muy por debajo de Barcelona; cuidador de perros 10-15 € por paseo vía Gudog o Rover.`,
+      ],
+      pt: [
+        `Urgências veterinárias 24h: Hospital Veterinari Canis Mas Xirgu, Carrer Can Pau Birol 38, +34 972 21 86 68 (equipa presente dia e noite, 365 dias por ano).`,
+        `Segunda opção: Vets Centre Veterinari Girona, Carrer d'Àngel Marsà i Beca 3, +34 972 22 88 04, linha móvel de urgências 24h 645 185 354.`,
+        `Desde Barcelona: AVE em 38 minutos (bilhete de animal 10 €, transportadora 60x35x35 cm, ou lugares para cães até 40 kg a 35 € em comboios selecionados); regional R11 em 1h20, cães com trela e açaime grátis.`,
+        `Praias caninas mais próximas: Platja del Rec del Moli em L'Escala (40 min) e Platja de la Rubina em Empuriabrava (50 min), ambas abertas todo o ano.`,
+        `Tarifas hoteleiras pet-friendly: a partir de 70-90 € por noite, bem abaixo de Barcelona; pet sitting 10-15 € por passeio via Gudog ou Rover.`,
+      ],
+    },
+  },
+
   glasgow: {
     history: {
       fr: `Glasgow tient son nom du gaélique 'Glas Cu' (le cher lieu vert) et la ville na fait sa devise, plus de 90 parcs municipaux dans ses limites, dont les 146 hectares du Pollok Country Park, seul parc national à l'intérieur d'une ville britannique. Capitale écossaise du commerce maritime au XIXe siècle, Glasgow a fait fortune grâce au Clyde et au tabac américain, puis s'est réinventée après le déclin industriel des années 1980 em capitale culturelle européenne (1990) et hub design international. Aujourd'hui ville de ~600 000 habitants au cœur du Strathclyde, elle compte certains des pubs et cafés les plus dog-friendly du Royaume-Uni, culture pub écossaise oblige. Particularité post-Brexit : les visiteurs depuis l'UE doivent obtenir un Animal Health Certificate (AHC) avant l'arrivée. Le métro (3e plus vieux au monde) est strict sur les chiens, mais ScotRail accepte gratuitement jusqu'à 2 chiens par billet adulte.`,

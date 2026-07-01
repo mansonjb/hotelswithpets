@@ -25897,5 +25897,79 @@
     },
     "iata": "ZRH",
     "countryCode": "CH"
+  },
+  {
+    "slug": "sopot",
+    "name": "Sopot",
+    "country": "Poland",
+    "countryCode": "PL",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/sopot.jpg",
+    "intro": "Sopot, the spa-resort heart of Poland's Tricity (between Gdansk and Gdynia), 35 000 residents, Europe's longest wooden pier (512 m) open to leashed dogs, year-round beach access for dogs since the 2025 rule change with a signposted dog stretch at entrances 43-45, twelve free off-leash runs including the agility-equipped Blonia Sopockie, and the Lesna Opera forest trails starting 15 minutes from the pier.",
+    "lat": 54.4416,
+    "lng": 18.5601,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold and snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold and snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Cool and grey",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Cool and breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild and breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild and sunny",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild and clear",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool and windy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold and grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold and dark",
+        "icon": "❄️"
+      }
+    }
   }
 ]

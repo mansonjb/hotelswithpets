@@ -22525,6 +22525,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  sopot: {
+    history: {
+      fr: `Sopot est née deux fois : village de pêcheurs kachoube pendant des siècles, puis station thermale à la mode à partir de 1823, quand le médecin d'époque napoléonienne Jean Georg Haffner y ouvrit les premiers bains de mer. La Belle Époque lui a laissé ses grandes villas, son Grand Hotel de 1927 face à la mer et sa jetée en bois de 512 m, la plus longue d'Europe, portée à sa longueur actuelle en 1928. Coincée entre Gdansk et Gdynia, la ville de 35 000 habitants forme le maillon élégant de la Tricité (Trójmiasto) et conserve le statut officiel de ville thermale (uzdrowisko), avec des sources saumâtres utilisées en balnéothérapie. Pour les voyageurs canins, Sopot a opéré un virage remarquable : depuis la mise à jour du règlement municipal en 2025, les chiens accèdent à la plage toute l'année hors zones de baignade surveillées, la ville entretient douze enclos sans laisse gratuits, et la jetée elle-même accueille les chiens en laisse sans billet.`,
+      en: `Sopot was born twice: a Kashubian fishing village for centuries, then a fashionable seaside spa from 1823, when the Napoleonic-era physician Jean Georg Haffner opened the first sea baths. The Belle Epoque left it grand villas, the seafront Grand Hotel of 1927 and its 512 m wooden pier, the longest in Europe, extended to its present length in 1928. Wedged between Gdansk and Gdynia, the 35 000-resident town is the elegant link of the Tricity (Trójmiasto) and still holds official spa-town (uzdrowisko) status, with brackish springs used in balneotherapy. For dog travellers Sopot has made a remarkable turn: since the 2025 update of the municipal regulations, dogs access the beach year-round outside guarded bathing zones, the town maintains twelve free off-leash runs, and the pier itself welcomes leashed dogs without a ticket.`,
+      es: `Sopot nació dos veces: aldea pesquera casubia durante siglos, y luego balneario de moda desde 1823, cuando el médico de la era napoleónica Jean Georg Haffner abrió los primeros baños de mar. La Belle Époque le dejó grandes villas, el Grand Hotel de 1927 frente al mar y su muelle de madera de 512 m, el más largo de Europa, ampliado a su longitud actual en 1928. Encajada entre Gdansk y Gdynia, la ciudad de 35 000 habitantes es el eslabón elegante de la Triciudad (Trójmiasto) y conserva el estatus oficial de ciudad balneario (uzdrowisko), con manantiales salobres usados en balneoterapia. Para los viajeros con perro, Sopot ha dado un giro notable: desde la actualización del reglamento municipal de 2025, los perros acceden a la playa todo el año fuera de las zonas de baño vigiladas, la ciudad mantiene doce recintos sin correa gratuitos y el propio muelle acoge perros con correa sin billete.`,
+      pt: `Sopot nasceu duas vezes: aldeia piscatória cassúbia durante séculos, e depois estância termal na moda a partir de 1823, quando o médico da era napoleónica Jean Georg Haffner abriu os primeiros banhos de mar. A Belle Époque deixou-lhe grandes vilas, o Grand Hotel de 1927 em frente ao mar e o seu pontão de madeira de 512 m, o mais longo da Europa, ampliado ao comprimento atual em 1928. Encaixada entre Gdansk e Gdynia, a vila de 35 000 habitantes é o elo elegante da Tricidade (Trójmiasto) e mantém o estatuto oficial de cidade termal (uzdrowisko), com nascentes salobras usadas em balneoterapia. Para quem viaja com cão, Sopot deu uma volta notável: desde a atualização do regulamento municipal de 2025, os cães acedem à praia todo o ano fora das zonas de banho vigiadas, a vila mantém doze recintos sem trela gratuitos e o próprio pontão recebe cães com trela sem bilhete.`,
+    },
+    sights: [
+      { name: `Molo w Sopocie`, emoji: `🌊`, petFriendly: true, desc: {
+        fr: `La plus longue jetée en bois d'Europe (512 m) s'avance dans la baie de Gdansk. Chiens en laisse admis toute l'année sans billet ; les humains paient 10 PLN d'avril à septembre.`,
+        en: `Europe's longest wooden pier (512 m) reaches into the Gdansk Bay. Leashed dogs allowed year-round without a ticket; humans pay 10 PLN from April to September.`,
+        es: `El muelle de madera más largo de Europa (512 m) se adentra en la bahía de Gdansk. Perros con correa admitidos todo el año sin billete; los humanos pagan 10 PLN de abril a septiembre.`,
+        pt: `O pontão de madeira mais longo da Europa (512 m) avança pela baía de Gdansk. Cães com trela admitidos todo o ano sem bilhete; os humanos pagam 10 PLN de abril a setembro.`,
+      }},
+      { name: `Krzywy Domek`, emoji: `🏛️`, petFriendly: true, desc: {
+        fr: `La Maison Tordue de 2004, façade ondulante devenue l'icône du boulevard Monte Cassino. Photo depuis la rue avec le chien en laisse ; l'intérieur est une galerie commerciale sans intérêt canin.`,
+        en: `The Crooked House of 2004, a rippling facade that became the icon of the Monte Cassino boulevard. Photograph it from the street with a leashed dog; the interior is a shopping arcade of no canine interest.`,
+        es: `La Casa Torcida de 2004, una fachada ondulante convertida en icono del bulevar Monte Cassino. Foto desde la calle con el perro atado; el interior es una galería comercial sin interés canino.`,
+        pt: `A Casa Torta de 2004, uma fachada ondulante que se tornou o ícone do bulevar Monte Cassino. Fotografe da rua com o cão com trela; o interior é uma galeria comercial sem interesse canino.`,
+      }},
+      { name: `Park Północny`, emoji: `🌳`, petFriendly: true, desc: {
+        fr: `Le parc de bord de mer au nord de la jetée, allées ombragées entre villas thermales et plage, avec un enclos canin clôturé derrière le club Koliba. Relie la jetée aux entrées de plage canines 43-45.`,
+        en: `The seafront park north of the pier, shaded alleys between spa-era villas and the beach, with a fenced dog run behind the Koliba club. Links the pier to the dog beach entrances 43-45.`,
+        es: `El parque costero al norte del muelle, paseos sombreados entre villas balnearias y la playa, con un recinto canino vallado tras el club Koliba. Une el muelle con los accesos caninos 43-45.`,
+        pt: `O parque costeiro a norte do pontão, alamedas sombreadas entre vilas termais e a praia, com um recinto canino vedado atrás do clube Koliba. Liga o pontão às entradas de praia caninas 43-45.`,
+      }},
+      { name: `Plaża dla psów Sopot`, emoji: `🏖️`, petFriendly: true, desc: {
+        fr: `Le tronçon canin balisé de la plage entre les entrées 43 et 45, à l'extrémité nord de Kamienny Potok. Sable blanc, eau peu profonde, entrée libre toute l'année.`,
+        en: `The signposted dog stretch of the beach between entrances 43 and 45 at the northern Kamienny Potok end. White sand, shallow water, free entry year-round.`,
+        es: `El tramo canino señalizado de la playa entre los accesos 43 y 45, en el extremo norte de Kamienny Potok. Arena blanca, agua poco profunda, entrada libre todo el año.`,
+        pt: `O troço canino sinalizado da praia entre as entradas 43 e 45, na ponta norte de Kamienny Potok. Areia branca, água pouco profunda, entrada livre todo o ano.`,
+      }},
+      { name: `Opera Leśna`, emoji: `🎭`, petFriendly: true, desc: {
+        fr: `L'amphithéâtre forestier centenaire de 4 400 places, niché dans un vallon du Parc paysager de la Tricité. Sentiers alentour ouverts aux chiens en laisse toute l'année ; pas de chiens aux spectacles payants.`,
+        en: `The century-old 4 400-seat forest amphitheatre, tucked in a valley of the Tri-City Landscape Park. Surrounding trails open to leashed dogs year-round; no dogs at ticketed shows.`,
+        es: `El centenario anfiteatro forestal de 4 400 plazas, escondido en un valle del Parque Paisajístico de la Triciudad. Senderos de alrededor abiertos a perros con correa todo el año; sin perros en los espectáculos con entrada.`,
+        pt: `O centenário anfiteatro florestal de 4 400 lugares, escondido num vale do Parque Paisagístico da Tricidade. Trilhos em volta abertos a cães com trela todo o ano; sem cães nos espetáculos com bilhete.`,
+      }},
+      { name: `Błonia Sopockie`, emoji: `🐕`, petFriendly: true, desc: {
+        fr: `Le principal enclos canin de Sopot, gratuit et ouvert 24h/24, avec parcours d'agility : sauts, slaloms et rampe. À cinq minutes des entrées sud de la plage.`,
+        en: `Sopot's flagship dog run, free and open 24h, with an agility course: jumps, weave poles and a ramp. Five minutes from the southern beach entrances.`,
+        es: `El principal recinto canino de Sopot, gratuito y abierto 24h, con circuito de agility: saltos, slalom y rampa. A cinco minutos de los accesos sur de la playa.`,
+        pt: `O principal recinto canino de Sopot, gratuito e aberto 24h, com percurso de agility: saltos, slalom e rampa. A cinco minutos das entradas sul da praia.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Loi polonaise : laisse obligatoire en ville, muselière pour les races agressives et sur le rail (SKM, PKP) ; le contrôle est souple mais ayez une muselière sur vous.`,
+        `Depuis 2025, les chiens accèdent à toute la plage hors zones de baignade surveillées en juillet-août pendant leurs heures d'ouverture ; en soirée, toute la plage rouvre.`,
+        `Douze enclos sans laisse gratuits, dont Blonia Sopockie avec agility (ul. Bitwy pod Płowcami) et le Park Północny derrière le club Koliba.`,
+        `Le train SKM relie Gdansk (15 min) et Gdynia (10 min), chiens gratuits en laisse et muselière ; le trolleybus 21 mène à la plage canine de Kolibki.`,
+        `Tiques en forêt de mars à novembre : traitez avant l'arrivée et inspectez le chien après chaque sortie dans le Parc paysager de la Tricité.`,
+      ],
+      en: [
+        `Polish law: leash mandatory in town, muzzle for aggressive breeds and on rail (SKM, PKP); enforcement is relaxed but carry a muzzle.`,
+        `Since 2025 dogs access the whole beach outside guarded bathing zones during their July-August operating hours; in the evening the entire beach reopens.`,
+        `Twelve free off-leash runs, including agility-equipped Blonia Sopockie (ul. Bitwy pod Płowcami) and Park Północny behind the Koliba club.`,
+        `The SKM train links Gdansk (15 min) and Gdynia (10 min), dogs free with leash and muzzle; trolleybus 21 reaches the Kolibki dog beach.`,
+        `Forest ticks from March to November: treat before arrival and check your dog after every walk in the Tri-City Landscape Park.`,
+      ],
+      es: [
+        `Ley polaca: correa obligatoria en la ciudad, bozal para razas agresivas y en el tren (SKM, PKP); el control es laxo pero lleva un bozal encima.`,
+        `Desde 2025 los perros acceden a toda la playa fuera de las zonas de baño vigiladas durante su horario de julio-agosto; por la tarde-noche toda la playa reabre.`,
+        `Doce recintos sin correa gratuitos, incluido Blonia Sopockie con agility (ul. Bitwy pod Płowcami) y el Park Północny tras el club Koliba.`,
+        `El tren SKM une Gdansk (15 min) y Gdynia (10 min), perros gratis con correa y bozal; el trolebús 21 llega a la playa canina de Kolibki.`,
+        `Garrapatas en el bosque de marzo a noviembre: trata antes de llegar y revisa al perro tras cada paseo por el Parque Paisajístico de la Triciudad.`,
+      ],
+      pt: [
+        `Lei polaca: trela obrigatória na cidade, açaime para raças agressivas e no comboio (SKM, PKP); a fiscalização é branda mas leve um açaime.`,
+        `Desde 2025 os cães acedem a toda a praia fora das zonas de banho vigiadas durante o seu horário de julho-agosto; ao fim do dia toda a praia reabre.`,
+        `Doze recintos sem trela gratuitos, incluindo Blonia Sopockie com agility (ul. Bitwy pod Płowcami) e o Park Północny atrás do clube Koliba.`,
+        `O comboio SKM liga Gdansk (15 min) e Gdynia (10 min), cães grátis com trela e açaime; o troleicarro 21 chega à praia canina de Kolibki.`,
+        `Carraças na floresta de março a novembro: trate antes de chegar e verifique o cão após cada passeio no Parque Paisagístico da Tricidade.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire à Sopot : Sopocka Przychodnia Weterynaryjna, ul. 23 Marca 32E, +48 58 551 31 18 (lun-ven 8h-20h, week-end le matin ; chirurgie, imagerie, passeports UE).`,
+        `Urgences 24h/24 : EDINA New Vet, ul. Chwaszczyńska 22 lok. 5, Gdynia, +48 58 600 42 10, hôpital animalier permanent à 15 minutes en voiture.`,
+        `Jetée : chiens en laisse gratuits toute l'année ; billet humain 10 PLN d'avril à septembre, gratuit d'octobre à mars.`,
+        `Tarifs hôteliers pet-friendly : à partir de 60-90 € la nuit ; Sopot est la station la plus chère de Pologne mais les extras canins (plages, enclos) sont gratuits.`,
+        `Climat balte doux : 20-21 °C en juillet-août, eau à 18-19 °C ; hors saison, plage illimitée pour les chiens et ville quasi déserte.`,
+      ],
+      en: [
+        `Vet in Sopot: Sopocka Przychodnia Weterynaryjna, ul. 23 Marca 32E, +48 58 551 31 18 (Mon-Fri 8:00-20:00, weekend mornings; surgery, imaging, EU passports).`,
+        `24h emergencies: EDINA New Vet, ul. Chwaszczyńska 22 lok. 5, Gdynia, +48 58 600 42 10, round-the-clock animal hospital 15 minutes by car.`,
+        `Pier: leashed dogs free year-round; human ticket 10 PLN from April to September, free October to March.`,
+        `Pet-friendly hotel rates: from 60-90 € per night; Sopot is Poland's priciest resort but the dog extras (beaches, runs) are free.`,
+        `Mild Baltic climate: 20-21 °C in July-August, water at 18-19 °C; off-season, unlimited beach for dogs and a near-empty town.`,
+      ],
+      es: [
+        `Veterinario en Sopot: Sopocka Przychodnia Weterynaryjna, ul. 23 Marca 32E, +48 58 551 31 18 (lun-vie 8:00-20:00, mañanas de fin de semana; cirugía, imagen, pasaportes UE).`,
+        `Urgencias 24h: EDINA New Vet, ul. Chwaszczyńska 22 lok. 5, Gdynia, +48 58 600 42 10, hospital animal permanente a 15 minutos en coche.`,
+        `Muelle: perros con correa gratis todo el año; billete humano 10 PLN de abril a septiembre, gratis de octubre a marzo.`,
+        `Tarifas hoteleras pet-friendly: desde 60-90 € la noche; Sopot es el resort más caro de Polonia pero los extras caninos (playas, recintos) son gratuitos.`,
+        `Clima báltico suave: 20-21 °C en julio-agosto, agua a 18-19 °C; fuera de temporada, playa ilimitada para perros y ciudad casi vacía.`,
+      ],
+      pt: [
+        `Veterinário em Sopot: Sopocka Przychodnia Weterynaryjna, ul. 23 Marca 32E, +48 58 551 31 18 (seg-sex 8h00-20h00, manhãs de fim de semana; cirurgia, imagiologia, passaportes UE).`,
+        `Urgências 24h: EDINA New Vet, ul. Chwaszczyńska 22 lok. 5, Gdynia, +48 58 600 42 10, hospital animal permanente a 15 minutos de carro.`,
+        `Pontão: cães com trela grátis todo o ano; bilhete humano 10 PLN de abril a setembro, grátis de outubro a março.`,
+        `Tarifas hoteleiras pet-friendly: a partir de 60-90 € por noite; Sopot é a estância mais cara da Polónia mas os extras caninos (praias, recintos) são gratuitos.`,
+        `Clima báltico ameno: 20-21 °C em julho-agosto, água a 18-19 °C; fora de época, praia ilimitada para os cães e vila quase vazia.`,
+      ],
+    },
+  },
+
   sorrento: {
     history: {
       fr: `Perchée sur des falaises de tuf de 80 mètres au-dessus de la baie de Naples, Sorrente est l'antique Surrentum romaine, déjà station balnéaire prisée des patriciens de l'Empire. Ville natale du poète Torquato Tasso, elle a gardé un centre historique compact de ruelles pavées, de citronniers en terrasses et de boutiques de limoncello. Avec à peine 16 000 habitants, elle sert de porte d'entrée à toute la baie : Capri à 25 minutes de ferry, Pompéi à 35 minutes de Circumvesuviana et la côte amalfitaine par la ligne de bus SITA SUD. Les Sorrentins sont accueillants envers les chiens, bienvenus en laisse sur les terrasses, dans les jardins de la Villa Comunale et le long du port de pêche de Marina Grande.`,

@@ -1382,6 +1382,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Borisova Gradina, Yuzhen Park, and the Vitosha Nature Park trails',
       area: 'Vitosha Boulevard, Lozenets, and Boyana',
     },
+    sopot: {
+      personality: `the spa-resort heart of Poland's Tricity, a 35 000-resident seaside town famous for Europe's longest wooden pier (512 m, leashed dogs free), year-round dog access to the beach since the 2025 rule change, and twelve free off-leash runs including the agility-equipped Blonia Sopockie`,
+      highlight: `the 512 m wooden pier and Monte Cassino boulevard, the dog beach stretch at entrances 43-45 by Park Polnocny, and the Lesna Opera forest trails up Lysa Gora`,
+      area: `Dolny Sopot around the pier and Monte Cassino, Karlikowo by the Blonia dog run, and Kamienny Potok at the northern dog beach`,
+    },
     sorrento: {
       personality: `a 16 000-resident Campania cliff town in the Metropolitan City of Naples that serves as the gateway hub for the Amalfi Coast, Capri, Ischia and Pompeii (3 million tourists a year), with the historic Piazza Tasso, the panoramic Villa Comunale clifftop gardens 80 m above the Marina Grande old fishing port, the Marina Piccola hydrofoil hub (Capri 25 min, Ischia 50 min, Naples 35 min), the EAV Circumvesuviana that uniquely accepts muzzled dogs free of charge for the direct 35 min trip to Pompei Scavi, and the SITA SUD Amalfi Coast bus to Positano, Amalfi and the Path of the Gods trailhead`,
       highlight: `the Villa Comunale clifftop gardens with the 180 degree panoramic terrace over the Bay of Naples to Vesuvius, the Marina Grande old fishing port with the De Gregorio family Bagni Delfino pontoon, the dramatic Vallone dei Mulini ravine viewpoint, the Bagni della Regina Giovanna natural sea pool at the Roman Villa of Pollio Felice 2 km west, and the Path of the Gods (Sentiero degli Dei) trailhead 12 km east at Bomerano`,
@@ -2978,6 +2983,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'l\'une des capitales européennes les plus abordables, avec près de 500 adresses dog-friendly, deux hôpitaux d\'urgence 24h/24 et le Vitosha à 2 290 mètres qui s\'élève directement depuis la ville',
       highlight: 'Borisova Gradina, le Yuzhen Park et les sentiers du parc naturel du Vitosha',
       area: 'le Vitosha Boulevard, Lozenets et Boyana',
+    },
+    sopot: {
+      personality: `le cœur thermal et balnéaire de la Tricité polonaise, une station de 35 000 habitants célèbre pour la plus longue jetée en bois d'Europe (512 m, chiens en laisse gratuits), l'accès des chiens à la plage toute l'année depuis le changement de règlement de 2025, et douze enclos sans laisse gratuits dont Blonia Sopockie équipé d'agility`,
+      highlight: `la jetée en bois de 512 m et le boulevard Monte Cassino, le tronçon de plage canine aux entrées 43-45 près du Park Polnocny, et les sentiers forestiers de la Lesna Opera vers Lysa Gora`,
+      area: `Dolny Sopot autour de la jetée et de Monte Cassino, Karlikowo près de l'enclos de Blonia, et Kamienny Potok à la plage canine nord`,
     },
     sorrento: {
       personality: `une ville de falaise campanienne de 16 000 habitants dans la Ville métropolitaine de Naples qui sert de hub d'accès à la Côte amalfitaine, à Capri, Ischia et Pompéi (3 millions de touristes par an), avec la Piazza Tasso historique, les jardins panoramiques de la Villa Comunale en haut de falaise 80 m au-dessus du vieux port de pêche Marina Grande, le hub hydrofoil Marina Piccola (Capri 25 min, Ischia 50 min, Naples 35 min), l'EAV Circumvesuviana qui accepte uniquement les chiens muselés gratuitement pour le trajet direct de 35 min vers Pompei Scavi, et le bus SITA SUD Côte amalfitaine vers Positano, Amalfi et le départ du Sentier des Dieux`,
@@ -4586,6 +4596,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Borisova Gradina, el Yuzhen Park y los senderos del Parque Natural del Vitosha',
       area: 'el Vitosha Boulevard, Lozenets y Boyana',
     },
+    sopot: {
+      personality: `el corazón termal y balneario de la Triciudad polaca, una localidad costera de 35 000 habitantes famosa por el muelle de madera más largo de Europa (512 m, perros con correa gratis), acceso de perros a la playa todo el año desde el cambio normativo de 2025, y doce recintos sin correa gratuitos incluido Blonia Sopockie con agility`,
+      highlight: `el muelle de madera de 512 m y el bulevar Monte Cassino, el tramo de playa canina en los accesos 43-45 junto al Park Polnocny, y los senderos forestales de la Lesna Opera hacia Lysa Gora`,
+      area: `Dolny Sopot en torno al muelle y Monte Cassino, Karlikowo junto al recinto de Blonia, y Kamienny Potok en la playa canina norte`,
+    },
     sorrento: {
       personality: `una ciudad de acantilado campaniana de 16 000 habitantes en la Ciudad Metropolitana de Nápoles que sirve de hub de acceso a la Costa Amalfitana, a Capri, Ischia y Pompeya (3 millones de turistas al año), con la Piazza Tasso histórica, los jardines panorámicos de la Villa Comunale en lo alto del acantilado 80 m sobre el viejo puerto pesquero Marina Grande, el hub hidrofoil Marina Piccola (Capri 25 min, Ischia 50 min, Nápoles 35 min), el EAV Circumvesuviana que admite únicamente perros con bozal gratis para el trayecto directo de 35 min a Pompei Scavi, y el bus SITA SUD Costa Amalfitana a Positano, Amalfi y el inicio del Sendero de los Dioses`,
       highlight: `los jardines de la Villa Comunale en lo alto del acantilado con la terraza panorámica de 180 grados sobre la Bahía de Nápoles hacia el Vesubio, el viejo puerto pesquero Marina Grande con el pontón Bagni Delfino de la familia De Gregorio, el dramático mirador del Vallone dei Mulini, la piscina natural de los Bagni della Regina Giovanna en la Villa romana de Pollio Felice a 2 km al oeste, y el inicio del Sendero de los Dioses (Sentiero degli Dei) a 12 km al este en Bomerano`,
@@ -6192,6 +6207,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das capitales europeias mais asequibles, com perto de 500 direcciones pet-friendly, dos hospitales de urgências 24/7 e o monte Vitosha de 2.290 metros elevándose directamente a partir da cidade',
       highlight: 'Borisova Gradina, o Yuzhen Park e os trilhos do Parque Natural do Vitosha',
       area: 'o Vitosha Boulevard, Lozenets e Boyana',
+    },
+    sopot: {
+      personality: `o coração termal e balnear da Tricidade polaca, uma vila costeira de 35 000 habitantes famosa pelo pontão de madeira mais longo da Europa (512 m, cães com trela grátis), acesso dos cães à praia todo o ano desde a mudança de regulamento de 2025, e doze recintos sem trela gratuitos incluindo Blonia Sopockie com agility`,
+      highlight: `o pontão de madeira de 512 m e o bulevar Monte Cassino, o troço de praia canina nas entradas 43-45 junto ao Park Polnocny, e os trilhos florestais da Lesna Opera até Lysa Gora`,
+      area: `Dolny Sopot à volta do pontão e de Monte Cassino, Karlikowo junto ao recinto de Blonia, e Kamienny Potok na praia canina norte`,
     },
     sorrento: {
       personality: `uma cidade de falésia campaniana de 16 000 habitantes na Cidade Metropolitana de Nápoles que serve de hub de acesso à Costa Amalfitana, a Capri, Ischia e Pompeia (3 milhões de turistas por ano), com a Piazza Tasso histórica, os jardins panorâmicos da Villa Comunale no topo da falésia 80 m sobre o velho porto piscatório Marina Grande, o hub hidrofoil Marina Piccola (Capri 25 min, Ischia 50 min, Nápoles 35 min), o EAV Circumvesuviana que aceita unicamente cães com açaime grátis para a viagem directa de 35 min para Pompei Scavi, e o autocarro SITA SUD Costa Amalfitana para Positano, Amalfi e o início do Caminho dos Deuses`,

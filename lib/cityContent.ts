@@ -10281,6 +10281,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  gandia: {
+    history: {
+      fr: `Gandia doit sa renommée à la famille Borgia : au XVe siècle, les ducs de Gandia, dont saint François Borgia, firent de cette ville de la Safor une petite cour de la Renaissance, avec palais, collégiale et université. Le sucre de canne cultivé dans la huerta finança cet âge d'or, avant que l'orange ne prenne le relais au XIXe siècle. La ville moderne s'est ensuite dédoublée : le centre historique à l'intérieur des terres, et la Playa de Gandia, station balnéaire née dans les années 1960 le long d'une des plus belles plages de sable de la Communauté valencienne. Aujourd'hui, Gandia combine patrimoine ducal, promenade maritime animée et arrière-pays de montagnes calcaires, un ensemble facile à explorer avec un chien, surtout hors saison quand les plages se vident et que la lumière méditerranéenne adoucit tout.`,
+      en: `Gandia owes its fame to the Borgia family: in the 15th century the Dukes of Gandia, including Saint Francis Borgia, turned this town in the Safor district into a small Renaissance court, complete with palace, collegiate church and university. Sugar cane grown in the surrounding huerta funded that golden age, before oranges took over in the 19th century. The modern city later split in two: the historic centre a little inland, and Playa de Gandia, a resort born in the 1960s along one of the finest sandy beaches in the Valencia region. Today Gandia combines ducal heritage, a lively seafront promenade and a limestone mountain hinterland, an easy mix to explore with a dog, especially off season when the beaches empty out and the Mediterranean light softens everything.`,
+      es: `Gandia debe su fama a la familia Borja: en el siglo XV, los duques de Gandia, entre ellos san Francisco de Borja, convirtieron esta ciudad de la Safor en una pequeña corte renacentista, con palacio, colegiata y universidad. La caña de azúcar cultivada en la huerta financió aquella época dorada, antes de que la naranja tomara el relevo en el siglo XIX. La ciudad moderna se desdobló después: el centro histórico, algo hacia el interior, y la Playa de Gandia, destino vacacional nacido en los años sesenta junto a una de las mejores playas de arena de la Comunitat Valenciana. Hoy Gandia combina patrimonio ducal, un paseo marítimo animado y un interior de montañas calizas, un conjunto fácil de recorrer con perro, sobre todo fuera de temporada, cuando las playas se vacían.`,
+      pt: `Gandia deve a sua fama à família Bórgia: no século XV, os duques de Gandia, entre eles São Francisco de Bórgia, transformaram esta cidade da comarca da Safor numa pequena corte renascentista, com palácio, colegiada e universidade. A cana-de-açúcar cultivada na huerta financiou essa idade de ouro, antes de a laranja assumir o protagonismo no século XIX. A cidade moderna desdobrou-se depois em duas: o centro histórico, um pouco para o interior, e a Playa de Gandia, estância balnear nascida nos anos sessenta ao longo de uma das melhores praias de areia da região de Valência. Hoje, Gandia combina património ducal, um passeio marítimo animado e um interior de montanhas calcárias, um conjunto fácil de explorar com um cão, sobretudo fora de época, quando as praias esvaziam.`,
+    },
+    sights: [
+      {
+        name: `Palau Ducal dels Borja`,
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `Le palais des ducs de Gandia, résidence de la famille Borgia, mêle gothique, Renaissance et baroque autour de salons dorés spectaculaires. Les chiens ne sont pas admis à l'intérieur, mais la façade et les ruelles du centre historique valent la promenade en laisse.`,
+          en: `The palace of the Dukes of Gandia, home of the Borgia family, blends Gothic, Renaissance and Baroque styles around spectacular gilded halls. Dogs are not admitted inside, but the facade and the lanes of the old town make a fine on-lead stroll.`,
+          es: `El palacio de los duques de Gandia, residencia de la familia Borja, mezcla gótico, renacimiento y barroco en torno a salones dorados espectaculares. No se admiten perros en el interior, pero la fachada y las callejuelas del centro histórico merecen un paseo con correa.`,
+          pt: `O palácio dos duques de Gandia, residência da família Bórgia, mistura gótico, renascimento e barroco em torno de salões dourados espetaculares. Os cães não são admitidos no interior, mas a fachada e as ruelas do centro histórico valem o passeio com trela.`,
+        },
+      },
+      {
+        name: `Platja de l'Ahuir`,
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Au nord de la Playa de Gandia, cette plage semi-sauvage bordée de dunes accueille la zone canine officielle de la ville, où les chiens peuvent se baigner. C'est l'un des rares espaces de baignade autorisés aux chiens de la région en été.`,
+          en: `North of Playa de Gandia, this semi-wild dune-backed beach hosts the city's official dog zone, where dogs can swim. It is one of the few beach areas in the region where dogs are allowed in summer.`,
+          es: `Al norte de la Playa de Gandia, esta playa seminatural respaldada por dunas acoge la zona canina oficial de la ciudad, donde los perros pueden bañarse. Es uno de los pocos arenales de la zona autorizados para perros en verano.`,
+          pt: `A norte da Playa de Gandia, esta praia seminatural protegida por dunas acolhe a zona canina oficial da cidade, onde os cães podem nadar. É um dos poucos areais da região autorizados para cães no verão.`,
+        },
+      },
+      {
+        name: `Passeig Marítim de Neptú`,
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La grande promenade de la Playa de Gandia longe le sable sur plusieurs kilomètres, bordée de palmiers et de terrasses. Parfaite pour une marche en laisse matin et soir, quand la chaleur retombe et que les terrasses acceptent volontiers les chiens.`,
+          en: `The grand promenade of Playa de Gandia runs along the sand for several kilometres, lined with palms and terraces. Perfect for an on-lead walk morning and evening, when the heat eases and terraces happily welcome dogs.`,
+          es: `El gran paseo marítimo de la Playa de Gandia recorre la arena durante varios kilómetros, flanqueado de palmeras y terrazas. Perfecto para caminar con correa por la mañana y al atardecer, cuando baja el calor y las terrazas aceptan perros de buen grado.`,
+          pt: `O grande passeio marítimo da Playa de Gandia acompanha o areal ao longo de vários quilómetros, ladeado de palmeiras e esplanadas. Perfeito para caminhar com trela de manhã e ao fim do dia, quando o calor abranda e as esplanadas recebem bem os cães.`,
+        },
+      },
+      {
+        name: `Castell de Bairén`,
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Les ruines de ce château d'origine musulmane dominent la baie de Gandia depuis une colline entre ville et plage. Le sentier d'accès, court mais raide, offre un beau panorama sur la Méditerranée et la huerta, en laisse et avec de l'eau.`,
+          en: `The ruins of this castle of Moorish origin overlook the bay of Gandia from a hill between town and beach. The short but steep access trail rewards you with a fine panorama over the Mediterranean and the huerta, on lead and with water for your dog.`,
+          es: `Las ruinas de este castillo de origen andalusí dominan la bahía de Gandia desde una colina entre la ciudad y la playa. El sendero de acceso, corto pero empinado, regala una bonita panorámica del Mediterráneo y la huerta, con correa y agua para el perro.`,
+          pt: `As ruínas deste castelo de origem muçulmana dominam a baía de Gandia a partir de uma colina entre a cidade e a praia. O trilho de acesso, curto mas íngreme, oferece um belo panorama sobre o Mediterrâneo e a huerta, com trela e água para o cão.`,
+        },
+      },
+      {
+        name: `Via Verda del Racó del Duc`,
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Cette voie verte suit l'ancienne ligne de chemin de fer Gandia-Alcoi le long des gorges du fleuve Serpis, entre tunnels et vergers d'orangers. Un itinéraire plat et ombragé par endroits, idéal pour une longue balade avec un chien loin des voitures.`,
+          en: `This greenway follows the old Gandia to Alcoi railway line along the gorges of the Serpis river, through tunnels and orange groves. A flat, partly shaded route, ideal for a long car-free walk with a dog.`,
+          es: `Esta vía verde sigue la antigua línea de ferrocarril Gandia-Alcoi por las gargantas del río Serpis, entre túneles y naranjales. Un itinerario llano y con tramos de sombra, ideal para un paseo largo con perro lejos de los coches.`,
+          pt: `Esta ecovia segue a antiga linha ferroviária Gandia-Alcoi ao longo das gargantas do rio Serpis, entre túneis e laranjais. Um percurso plano e com troços de sombra, ideal para uma caminhada longa com o cão, longe dos carros.`,
+        },
+      },
+      {
+        name: `Col·legiata de Santa Maria`,
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `La collégiale gothique de Gandia, élevée au rang de basilique, fut embellie par les Borgia et reste le cœur monumental de la vieille ville. Les chiens n'entrent pas, mais la place attenante et le marché voisin animent joliment la promenade.`,
+          en: `Gandia's Gothic collegiate church, raised to basilica status, was embellished by the Borgias and remains the monumental heart of the old town. Dogs stay outside, but the adjoining square and nearby market make the walk worthwhile.`,
+          es: `La colegiata gótica de Gandia, elevada a basílica, fue embellecida por los Borja y sigue siendo el corazón monumental del casco antiguo. Los perros no entran, pero la plaza contigua y el mercado cercano animan el paseo.`,
+          pt: `A colegiada gótica de Gandia, elevada a basílica, foi embelezada pelos Bórgia e continua a ser o coração monumental do centro histórico. Os cães ficam à porta, mas a praça contígua e o mercado próximo animam o passeio.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `En été, les chiens sont interdits sur la plage principale de Gandia : la zone canine officielle se trouve au nord, sur la Platja de l'Ahuir. Hors saison, la tolérance est plus large mais vérifiez les panneaux.`,
+        `La laisse est obligatoire en ville, et les races dites PPP doivent porter une muselière en Espagne dans les espaces publics.`,
+        `Le train Cercanías C1 vers Valence accepte les petits chiens en sac de transport et les chiens en laisse avec muselière selon les règles Renfe.`,
+        `De juin à septembre, évitez l'asphalte et le sable brûlants entre 12h et 18h : testez la température du sol avec la main avant de sortir votre chien.`,
+        `Emportez toujours de l'eau : les fontaines se raréfient sur la voie verte du Serpis et sur le sentier du Castell de Bairén.`,
+      ],
+      en: [
+        `In summer dogs are banned from Gandia's main beach: the official dog zone is to the north, on Platja de l'Ahuir. Off season tolerance is broader, but check the signs.`,
+        `Leads are compulsory in town, and breeds classed as PPP (potentially dangerous) must be muzzled in public spaces in Spain.`,
+        `The Cercanías C1 train to Valencia accepts small dogs in carriers and leashed, muzzled dogs under Renfe rules.`,
+        `From June to September avoid scorching asphalt and sand between midday and 6pm: test the ground with your hand before walking your dog.`,
+        `Always carry water: fountains are scarce on the Serpis greenway and on the trail up to Castell de Bairén.`,
+      ],
+      es: [
+        `En verano los perros están prohibidos en la playa principal de Gandia: la zona canina oficial está al norte, en la Platja de l'Ahuir. Fuera de temporada hay más tolerancia, pero revisa la señalización.`,
+        `La correa es obligatoria en la ciudad, y las razas PPP deben llevar bozal en los espacios públicos en España.`,
+        `El Cercanías C1 hacia Valencia admite perros pequeños en transportín y perros con correa y bozal según las normas de Renfe.`,
+        `De junio a septiembre, evita el asfalto y la arena ardientes entre las 12 y las 18h: comprueba la temperatura del suelo con la mano antes de pasear.`,
+        `Lleva siempre agua: las fuentes escasean en la vía verde del Serpis y en la senda del Castell de Bairén.`,
+      ],
+      pt: [
+        `No verão, os cães estão proibidos na praia principal de Gandia: a zona canina oficial fica a norte, na Platja de l'Ahuir. Fora de época há mais tolerância, mas verifique a sinalização.`,
+        `A trela é obrigatória na cidade, e as raças classificadas como PPP devem usar açaime nos espaços públicos em Espanha.`,
+        `O comboio Cercanías C1 para Valência aceita cães pequenos em transportadora e cães com trela e açaime segundo as regras da Renfe.`,
+        `De junho a setembro, evite o asfalto e a areia escaldantes entre as 12h e as 18h: teste a temperatura do chão com a mão antes de passear o cão.`,
+        `Leve sempre água: as fontes escasseiam na ecovia do Serpis e no trilho do Castell de Bairén.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Plusieurs cliniques vétérinaires en ville et près de la plage ; les urgences de nuit sont assurées à Valence, à environ une heure de route`,
+        `Numéro d'urgence européen : 112 ; pour un animal trouvé ou blessé, la police locale oriente vers le service compétent`,
+        `Animaleries et rayons animaux dans les supermarchés du centre et de la Playa de Gandia`,
+        `Bus urbains : petits chiens en sac de transport ; en taxi, l'acceptation reste à la discrétion du chauffeur`,
+        `Passeport européen, puce et vaccin antirabique à jour indispensables pour voyager en Espagne`,
+      ],
+      en: [
+        `Several veterinary clinics in town and near the beach; overnight emergencies are handled in Valencia, about an hour away by road`,
+        `European emergency number: 112; for a found or injured animal, the local police will point you to the right service`,
+        `Pet shops and pet aisles in supermarkets both in the centre and at Playa de Gandia`,
+        `City buses: small dogs in carriers; in taxis, acceptance is at the driver's discretion`,
+        `EU pet passport, microchip and up-to-date rabies vaccination are required to travel in Spain`,
+      ],
+      es: [
+        `Varias clínicas veterinarias en la ciudad y junto a la playa; las urgencias nocturnas se atienden en Valencia, a una hora por carretera`,
+        `Número de emergencias europeo: 112; para un animal encontrado o herido, la policía local indica el servicio competente`,
+        `Tiendas de animales y secciones de mascotas en los supermercados del centro y de la Playa de Gandia`,
+        `Autobuses urbanos: perros pequeños en transportín; en taxi, la aceptación queda a criterio del conductor`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día son imprescindibles para viajar por España`,
+      ],
+      pt: [
+        `Várias clínicas veterinárias na cidade e junto à praia; as urgências noturnas são atendidas em Valência, a cerca de uma hora de carro`,
+        `Número de emergência europeu: 112; para um animal encontrado ou ferido, a polícia local indica o serviço competente`,
+        `Lojas de animais e secções pet nos supermercados do centro e da Playa de Gandia`,
+        `Autocarros urbanos: cães pequenos em transportadora; nos táxis, a aceitação fica ao critério do motorista`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia são indispensáveis para viajar por Espanha`,
+      ],
+    },
+  },
+
   gdansk: {
     history: {
       fr: `Gdansk, fondée comme bourg slave au Xe siècle puis colonie hanséatique allemande au XIIIe (Danzig), a longtemps été l'une des villes portuaires les plus prospères d'Europe, entrepôt de l'ambre, du grain et du bois. Devenue Ville libre de Danzig entre les deux guerres mondiales, c'est ici que la Seconde Guerre mondiale a commencé le 1er septembre 1939 à Westerplatte. Détruite à 90 % en 1945, la Vieille Ville a été reconstruite à l'identique. Aujourd'hui sixième ville de Pologne (470 000 habitants) avec Sopot et Gdynia, Gdansk forme la Trójmiasto (« Tri-Cité ») de la côte baltique. Pour les voyageurs avec un chien, Gdansk est l'une des destinations baltiques les plus complètes : Vieille Ville hanséatique piétonne, plages canines toute l'année (Sopot, Brzeźno, Stogi), parc paysager de la tri-cité avec 200 km de sentiers, et suppléments hôteliers parmi les plus bas d'Europe (10-18 €/nuit).`,
@@ -11830,6 +11967,280 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  grindelwald: {
+    history: {
+      fr: `Simple village d'alpage de l'Oberland bernois, Grindelwald est entré dans l'histoire avec l'alpinisme : dès le milieu du XIXe siècle, les pionniers britanniques en firent leur camp de base pour affronter l'Eiger, le Wetterhorn et la Jungfrau. L'arrivée du chemin de fer en 1890 transforma le hameau en station, avec ses grands hôtels de bois face aux glaciers. La face nord de l'Eiger, vaincue en 1938 après des tentatives tragiques, a définitivement fixé la légende du lieu. Aujourd'hui, le village vit du ski l'hiver et de la randonnée l'été, mais il a gardé ses fermes, ses cloches de vaches et ses sentiers d'altitude accessibles en téléphérique. Pour un voyageur avec un chien, c'est l'une des bases les plus pratiques des Alpes suisses : les remontées acceptent les animaux et les itinéraires en balcon semblent dessinés pour eux.`,
+      en: `A simple alpine farming village in the Bernese Oberland, Grindelwald entered history with mountaineering: from the mid 19th century, British pioneers made it their base camp for the Eiger, the Wetterhorn and the Jungfrau. The railway's arrival in 1890 turned the hamlet into a resort, with grand wooden hotels facing the glaciers. The Eiger north face, finally climbed in 1938 after tragic attempts, sealed the legend of the place. Today the village lives on skiing in winter and hiking in summer, yet it has kept its farms, its cowbells and its high-altitude trails reachable by cable car. For travellers with a dog it is one of the most practical bases in the Swiss Alps: the lifts accept animals and the balcony trails feel made for them.`,
+      es: `Simple pueblo ganadero del Oberland bernés, Grindelwald entró en la historia con el alpinismo: desde mediados del siglo XIX, los pioneros británicos lo convirtieron en su campamento base para el Eiger, el Wetterhorn y la Jungfrau. La llegada del ferrocarril en 1890 transformó la aldea en estación de montaña, con grandes hoteles de madera frente a los glaciares. La cara norte del Eiger, conquistada en 1938 tras intentos trágicos, fijó para siempre la leyenda del lugar. Hoy el pueblo vive del esquí en invierno y del senderismo en verano, pero conserva sus granjas, sus cencerros y sus senderos de altura accesibles en teleférico. Para quien viaja con perro es una de las bases más prácticas de los Alpes suizos: los remontes aceptan animales y los caminos de balcón parecen hechos para ellos.`,
+      pt: `Simples aldeia de pastores do Oberland bernês, Grindelwald entrou na história com o alpinismo: a partir de meados do século XIX, os pioneiros britânicos fizeram dela o seu campo base para o Eiger, o Wetterhorn e a Jungfrau. A chegada do comboio em 1890 transformou o lugarejo em estância, com grandes hotéis de madeira virados para os glaciares. A face norte do Eiger, vencida em 1938 depois de tentativas trágicas, fixou de vez a lenda do lugar. Hoje a aldeia vive do esqui no inverno e das caminhadas no verão, mas manteve as suas quintas, os chocalhos das vacas e os trilhos de altitude acessíveis de teleférico. Para quem viaja com cão, é uma das bases mais práticas dos Alpes suíços: os teleféricos aceitam animais e os trilhos panorâmicos parecem feitos para eles.`,
+    },
+    sights: [
+      {
+        name: `Eiger Nordwand`,
+        emoji: '🏔️',
+        petFriendly: true,
+        desc: {
+          fr: `La mythique face nord de l'Eiger, 1 800 mètres de calcaire vertical, domine directement le village. Les sentiers du bas de la paroi, comme l'Eiger Trail, se parcourent en laisse avec des vues écrasantes sur la muraille.`,
+          en: `The mythical Eiger north face, 1,800 metres of vertical limestone, towers directly above the village. The trails at the base of the wall, such as the Eiger Trail, can be walked on lead with overwhelming views of the face.`,
+          es: `La mítica cara norte del Eiger, 1.800 metros de caliza vertical, domina directamente el pueblo. Los senderos al pie de la pared, como el Eiger Trail, se recorren con correa y vistas sobrecogedoras del muro.`,
+          pt: `A mítica face norte do Eiger, 1.800 metros de calcário vertical, domina diretamente a aldeia. Os trilhos na base da parede, como o Eiger Trail, percorrem-se com trela e vistas esmagadoras sobre a muralha.`,
+        },
+      },
+      {
+        name: `Grindelwald First`,
+        emoji: '🚡',
+        petFriendly: true,
+        desc: {
+          fr: `La télécabine de First monte à 2 166 mètres, porte d'entrée des plus belles randonnées en balcon de la région. Les chiens sont acceptés à bord moyennant un billet, et la passerelle du First Cliff Walk se fait aussi à quatre pattes.`,
+          en: `The First gondola climbs to 2,166 metres, the gateway to the region's finest balcony hikes. Dogs ride along for a fee, and the First Cliff Walk platform can be done on four paws too.`,
+          es: `La telecabina de First sube a 2.166 metros, puerta de entrada a las mejores rutas de balcón de la zona. Los perros viajan a bordo pagando billete, y la pasarela del First Cliff Walk también se recorre a cuatro patas.`,
+          pt: `O teleférico de First sobe aos 2.166 metros, porta de entrada para as mais belas caminhadas panorâmicas da região. Os cães viajam a bordo mediante bilhete, e o passadiço do First Cliff Walk também se faz de quatro patas.`,
+        },
+      },
+      {
+        name: `Bachalpsee`,
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Depuis First, une heure de marche facile mène à ce lac d'altitude où se reflètent le Schreckhorn et le Finsteraarhorn. C'est la randonnée classique de Grindelwald, parfaitement faisable avec un chien en laisse, avec de l'eau fraîche à l'arrivée.`,
+          en: `From First, an easy one-hour walk leads to this mountain lake mirroring the Schreckhorn and Finsteraarhorn. It is Grindelwald's classic hike, perfectly doable with a dog on lead, with fresh water waiting at the top.`,
+          es: `Desde First, una caminata fácil de una hora lleva a este lago de altura donde se reflejan el Schreckhorn y el Finsteraarhorn. Es la excursión clásica de Grindelwald, perfectamente factible con perro atado, con agua fresca al llegar.`,
+          pt: `A partir de First, uma caminhada fácil de uma hora leva a este lago de altitude onde se refletem o Schreckhorn e o Finsteraarhorn. É o passeio clássico de Grindelwald, perfeitamente possível com cão pela trela, com água fresca à chegada.`,
+        },
+      },
+      {
+        name: `Gletscherschlucht`,
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Les gorges du glacier inférieur s'explorent sur des passerelles accrochées à la roche, au-dessus des eaux laiteuses de la Lütschine. Les chiens tenus en laisse peuvent accompagner la visite, fraîcheur garantie les jours de canicule.`,
+          en: `The gorge of the lower glacier is explored on walkways bolted to the rock, above the milky waters of the Lütschine. Leashed dogs can join the visit, with guaranteed coolness on hot days.`,
+          es: `La garganta del glaciar inferior se explora por pasarelas ancladas a la roca, sobre las aguas lechosas del Lütschine. Los perros con correa pueden acompañar la visita, frescor garantizado en días de calor.`,
+          pt: `A garganta do glaciar inferior explora-se por passadiços presos à rocha, sobre as águas leitosas do Lütschine. Os cães pela trela podem acompanhar a visita, frescura garantida nos dias de calor.`,
+        },
+      },
+      {
+        name: `Männlichen`,
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `La télécabine relie Grindelwald à cette crête panoramique face à la trilogie Eiger, Mönch et Jungfrau. Le chemin en balcon vers la Kleine Scheidegg, presque plat, est l'une des marches les plus spectaculaires de Suisse pour un binôme maître-chien.`,
+          en: `The gondola links Grindelwald to this panoramic ridge facing the Eiger, Mönch and Jungfrau trilogy. The almost flat balcony path to Kleine Scheidegg is one of Switzerland's most spectacular walks for a dog and owner duo.`,
+          es: `La telecabina une Grindelwald con esta cresta panorámica frente a la trilogía Eiger, Mönch y Jungfrau. El camino de balcón hacia Kleine Scheidegg, casi llano, es uno de los paseos más espectaculares de Suiza para un dúo de perro y dueño.`,
+          pt: `O teleférico liga Grindelwald a esta crista panorâmica frente à trilogia Eiger, Mönch e Jungfrau. O caminho panorâmico até Kleine Scheidegg, quase plano, é uma das caminhadas mais espetaculares da Suíça para a dupla dono e cão.`,
+        },
+      },
+      {
+        name: `Pfingstegg`,
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          fr: `Ce petit téléphérique à l'ancienne grimpe à 1 391 mètres, au départ de sentiers vers les anciens points de vue sur les glaciers. Moins fréquenté que First, c'est l'option tranquille pour marcher avec un chien au-dessus du village.`,
+          en: `This small old-style cable car climbs to 1,391 metres, the starting point of trails towards the former glacier viewpoints. Less busy than First, it is the quiet option for walking with a dog above the village.`,
+          es: `Este pequeño teleférico a la antigua sube a 1.391 metros, punto de partida de senderos hacia los antiguos miradores de los glaciares. Menos concurrido que First, es la opción tranquila para caminar con perro sobre el pueblo.`,
+          pt: `Este pequeno teleférico à antiga sobe aos 1.391 metros, ponto de partida de trilhos para os antigos miradouros dos glaciares. Menos frequentado do que First, é a opção tranquila para caminhar com o cão por cima da aldeia.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Dans les transports publics suisses, trains et télécabines compris, les chiens paient en général le demi-tarif ; les petits chiens en sac voyagent gratuitement.`,
+        `Tenez impérativement votre chien en laisse près des troupeaux : les alpages sont pâturés tout l'été et certains sont gardés par des chiens de protection, contournez-les calmement.`,
+        `En hiver, le sel de déneigement et la neige compacte agressent les coussinets : rincez les pattes au retour et pensez aux bottines pour les longues sorties.`,
+        `L'altitude fatigue aussi les chiens : montées en télécabine plutôt qu'à pied pour les premiers jours, et pauses à l'ombre en été, le soleil alpin tape fort.`,
+        `Les ruisseaux et fontaines d'alpage fournissent de l'eau presque partout, mais emportez une gourde pour les crêtes exposées comme Männlichen.`,
+      ],
+      en: [
+        `On Swiss public transport, including trains and gondolas, dogs generally pay half fare; small dogs in a carrier travel free.`,
+        `Keep your dog firmly on lead near herds: the alpine pastures are grazed all summer and some are guarded by livestock protection dogs, give them a calm wide berth.`,
+        `In winter, road salt and packed snow are hard on paw pads: rinse paws after walks and consider booties for longer outings.`,
+        `Altitude tires dogs too: take the gondola up rather than hiking on the first days, and plan shade breaks in summer, the alpine sun is fierce.`,
+        `Streams and alpine fountains provide water almost everywhere, but carry a bottle for exposed ridges like Männlichen.`,
+      ],
+      es: [
+        `En el transporte público suizo, trenes y telecabinas incluidos, los perros suelen pagar media tarifa; los perros pequeños en bolso viajan gratis.`,
+        `Lleva al perro bien atado cerca del ganado: los pastos de altura se aprovechan todo el verano y algunos están vigilados por perros de protección, rodéalos con calma.`,
+        `En invierno, la sal de las carreteras y la nieve compacta castigan las almohadillas: enjuaga las patas al volver y valora usar botines en salidas largas.`,
+        `La altitud también cansa a los perros: sube en telecabina en lugar de a pie los primeros días, y programa descansos a la sombra en verano, el sol alpino pega fuerte.`,
+        `Los arroyos y fuentes de los pastos dan agua casi en todas partes, pero lleva botella para las crestas expuestas como Männlichen.`,
+      ],
+      pt: [
+        `Nos transportes públicos suíços, comboios e teleféricos incluídos, os cães pagam em geral meio bilhete; os cães pequenos em bolsa viajam grátis.`,
+        `Mantenha o cão bem preso perto dos rebanhos: as pastagens de altitude são usadas todo o verão e algumas são vigiadas por cães de proteção, contorne-os com calma.`,
+        `No inverno, o sal das estradas e a neve compacta castigam as almofadas das patas: passe as patas por água ao regressar e pondere botinhas nas saídas longas.`,
+        `A altitude também cansa os cães: suba de teleférico em vez de a pé nos primeiros dias, e faça pausas à sombra no verão, o sol alpino é forte.`,
+        `Os ribeiros e as fontes de pastagem dão água quase em todo o lado, mas leve um cantil para as cristas expostas como o Männlichen.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cabinets vétérinaires dans la vallée (Grindelwald et Interlaken) ; pour les urgences lourdes, les cliniques de la région de Berne prennent le relais`,
+        `Numéro d'urgence général suisse : 112 ; l'office du tourisme et les hôtels connaissent le vétérinaire de garde du moment`,
+        `Alimentation et accessoires pour chiens dans les supermarchés du village ; choix plus large à Interlaken`,
+        `Trains, bus et remontées mécaniques acceptent les chiens, en général au demi-tarif, laisse exigée à bord`,
+        `Pour entrer en Suisse : passeport européen, puce et vaccin antirabique valide ; la Suisse applique les règles UE pour les voyages avec animaux`,
+      ],
+      en: [
+        `Veterinary practices in the valley (Grindelwald and Interlaken); for serious emergencies the clinics of the Bern region take over`,
+        `Swiss general emergency number: 112; the tourist office and hotels know which vet is on duty`,
+        `Dog food and accessories in the village supermarkets; wider choice in Interlaken`,
+        `Trains, buses and mountain lifts accept dogs, generally at half fare, lead required on board`,
+        `To enter Switzerland: EU pet passport, microchip and valid rabies vaccination; Switzerland applies EU rules for pet travel`,
+      ],
+      es: [
+        `Consultas veterinarias en el valle (Grindelwald e Interlaken); para urgencias graves toman el relevo las clínicas de la región de Berna`,
+        `Número general de emergencias suizo: 112; la oficina de turismo y los hoteles saben qué veterinario está de guardia`,
+        `Comida y accesorios para perros en los supermercados del pueblo; más variedad en Interlaken`,
+        `Trenes, autobuses y remontes aceptan perros, en general a media tarifa, con correa a bordo`,
+        `Para entrar en Suiza: pasaporte europeo, microchip y vacuna antirrábica vigente; Suiza aplica las normas de la UE para viajar con mascotas`,
+      ],
+      pt: [
+        `Consultórios veterinários no vale (Grindelwald e Interlaken); para urgências graves, as clínicas da região de Berna asseguram o serviço`,
+        `Número geral de emergência na Suíça: 112; o posto de turismo e os hotéis sabem qual o veterinário de serviço`,
+        `Comida e acessórios para cães nos supermercados da aldeia; escolha mais ampla em Interlaken`,
+        `Comboios, autocarros e teleféricos aceitam cães, em geral a meio bilhete, com trela obrigatória a bordo`,
+        `Para entrar na Suíça: passaporte europeu, microchip e vacina antirrábica válida; a Suíça aplica as regras da UE para viajar com animais`,
+      ],
+    },
+  },
+
+  guimaraes: {
+    history: {
+      fr: `« Aqui nasceu Portugal », ici est né le Portugal : la devise inscrite sur les remparts résume Guimarães. C'est dans ce bourg du Minho qu'Afonso Henriques, premier roi du Portugal, vit le jour vers 1109, et c'est près de son château qu'il remporta en 1128 la bataille de São Mamede, acte fondateur du royaume. Le centre médiéval, remarquablement préservé avec ses maisons à pans de bois, ses places en granit et ses ruelles pavées, est classé au patrimoine mondial de l'UNESCO depuis 2001. Capitale européenne de la culture en 2012, la ville a su rester vivante et étudiante sans se muséifier. Pour un visiteur avec un chien, Guimarães se découvre à pied : tout le centre historique se parcourt en une journée de flânerie, et la montagne de la Penha offre une échappée verte au-dessus des toits.`,
+      en: `"Aqui nasceu Portugal", Portugal was born here: the motto inscribed on the old walls sums up Guimarães. In this Minho town, Afonso Henriques, first king of Portugal, was born around 1109, and near his castle he won the Battle of São Mamede in 1128, the founding act of the kingdom. The medieval centre, remarkably preserved with its half-timbered houses, granite squares and cobbled lanes, has been a UNESCO World Heritage site since 2001. European Capital of Culture in 2012, the city has stayed lively and student-filled without becoming a museum. For a visitor with a dog, Guimarães is best discovered on foot: the whole historic centre can be wandered in a day, and Penha mountain offers a green escape above the rooftops.`,
+      es: `«Aqui nasceu Portugal», aquí nació Portugal: el lema inscrito en las murallas resume Guimarães. En esta villa del Miño nació hacia 1109 Afonso Henriques, primer rey de Portugal, y cerca de su castillo ganó en 1128 la batalla de São Mamede, acto fundacional del reino. El centro medieval, notablemente conservado con sus casas de entramado, sus plazas de granito y sus callejuelas empedradas, es Patrimonio de la Humanidad de la UNESCO desde 2001. Capital Europea de la Cultura en 2012, la ciudad ha sabido seguir viva y universitaria sin convertirse en museo. Para un visitante con perro, Guimarães se descubre a pie: todo el casco histórico se recorre en un día de paseo, y la montaña de la Penha ofrece una escapada verde sobre los tejados.`,
+      pt: `«Aqui nasceu Portugal»: a frase inscrita na muralha resume Guimarães. Foi nesta vila do Minho que nasceu, por volta de 1109, Afonso Henriques, primeiro rei de Portugal, e foi junto ao seu castelo que ele venceu, em 1128, a batalha de São Mamede, ato fundador do reino. O centro medieval, notavelmente preservado, com as suas casas de madeira, praças de granito e ruelas empedradas, é Património Mundial da UNESCO desde 2001. Capital Europeia da Cultura em 2012, a cidade soube manter-se viva e estudantil sem se transformar em museu. Para quem visita com um cão, Guimarães descobre-se a pé: todo o centro histórico percorre-se num dia de passeio, e a montanha da Penha oferece uma escapadela verde acima dos telhados.`,
+    },
+    sights: [
+      {
+        name: `Castelo de Guimarães`,
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `La forteresse du Xe siècle, berceau symbolique de la nation, dresse ses tours de granit au sommet de la colline sacrée. Les chiens ne visitent pas l'intérieur, mais l'esplanade et les jardins qui l'entourent forment une superbe promenade en laisse.`,
+          en: `The 10th-century fortress, symbolic cradle of the nation, raises its granite towers on the sacred hill. Dogs cannot visit the interior, but the esplanade and gardens around it make a superb on-lead walk.`,
+          es: `La fortaleza del siglo X, cuna simbólica de la nación, alza sus torres de granito en lo alto de la colina sagrada. Los perros no visitan el interior, pero la explanada y los jardines que la rodean forman un paseo estupendo con correa.`,
+          pt: `A fortaleza do século X, berço simbólico da nação, ergue as suas torres de granito no alto da colina sagrada. Os cães não visitam o interior, mas a esplanada e os jardins em volta proporcionam um passeio soberbo com trela.`,
+        },
+      },
+      {
+        name: `Paço dos Duques de Bragança`,
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          fr: `Ce palais du XVe siècle aux cheminées de brique spectaculaires évoque les demeures seigneuriales de Normandie. L'intérieur, musée d'État, n'accepte pas les animaux, mais le parvis et le parc attenant se prêtent à la balade.`,
+          en: `This 15th-century palace with its spectacular brick chimneys recalls the manor houses of Normandy. The interior, a state museum, does not accept pets, but the forecourt and adjoining park are fine for a stroll.`,
+          es: `Este palacio del siglo XV, con sus espectaculares chimeneas de ladrillo, evoca las mansiones señoriales de Normandía. El interior, museo estatal, no acepta animales, pero la explanada y el parque contiguo se prestan al paseo.`,
+          pt: `Este paço do século XV, com as suas espetaculares chaminés de tijolo, evoca as casas senhoriais da Normandia. O interior, museu do Estado, não aceita animais, mas o adro e o parque contíguo prestam-se ao passeio.`,
+        },
+      },
+      {
+        name: `Largo da Oliveira`,
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le cœur battant du centre médiéval, avec son padrão gothique, ses arcades et ses terrasses de café serrées les unes contre les autres. Les chiens en laisse sont les bienvenus sur les terrasses, parfait pour un café après la flânerie.`,
+          en: `The beating heart of the medieval centre, with its Gothic shrine, arcades and tightly packed café terraces. Leashed dogs are welcome on the terraces, perfect for a coffee after wandering the lanes.`,
+          es: `El corazón del centro medieval, con su crucero gótico, sus soportales y sus terrazas de café apretadas unas contra otras. Los perros con correa son bienvenidos en las terrazas, perfecto para un café tras el paseo.`,
+          pt: `O coração do centro medieval, com o seu padrão gótico, as arcadas e as esplanadas de café apertadas umas contra as outras. Os cães pela trela são bem-vindos nas esplanadas, perfeito para um café depois do passeio.`,
+        },
+      },
+      {
+        name: `Rua de Santa Maria`,
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `La plus ancienne rue de la ville relie le centre au château entre façades médiévales, balcons fleuris et pavés polis par les siècles. Une montée douce, idéale en laisse tôt le matin quand la rue appartient encore aux habitants.`,
+          en: `The oldest street in town links the centre to the castle between medieval facades, flowered balconies and cobbles polished by centuries. A gentle climb, ideal on lead early in the morning when the street still belongs to locals.`,
+          es: `La calle más antigua de la ciudad une el centro con el castillo entre fachadas medievales, balcones floridos y adoquines pulidos por los siglos. Una subida suave, ideal con correa a primera hora, cuando la calle aún es de los vecinos.`,
+          pt: `A rua mais antiga da cidade liga o centro ao castelo entre fachadas medievais, varandas floridas e calçada polida pelos séculos. Uma subida suave, ideal com trela de manhã cedo, quando a rua ainda pertence aos moradores.`,
+        },
+      },
+      {
+        name: `Montanha da Penha`,
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `À 600 mètres d'altitude, ce sanctuaire entouré de bois de pins et de blocs granitiques géants offre le meilleur panorama sur Guimarães. Les sentiers ombragés et les recoins entre les rochers sont un terrain de jeu rêvé pour un chien en laisse.`,
+          en: `At 600 metres, this sanctuary surrounded by pine woods and giant granite boulders offers the best panorama over Guimarães. The shaded trails and nooks between the rocks are a dream playground for a leashed dog.`,
+          es: `A 600 metros de altitud, este santuario rodeado de pinares y bloques graníticos gigantes ofrece la mejor panorámica de Guimarães. Los senderos sombreados y los rincones entre las rocas son un terreno de juego soñado para un perro con correa.`,
+          pt: `A 600 metros de altitude, este santuário rodeado de pinhal e de penedos graníticos gigantes oferece o melhor panorama sobre Guimarães. Os trilhos sombreados e os recantos entre as rochas são um recreio de sonho para um cão pela trela.`,
+        },
+      },
+      {
+        name: `Teleférico de Guimarães`,
+        emoji: '🚡',
+        petFriendly: true,
+        desc: {
+          fr: `Le téléphérique relie la ville au sommet de la Penha en une dizaine de minutes au-dessus des vignes et des bois. Les animaux de compagnie sont généralement admis en cabine sous conditions, vérifiez les règles en vigueur au guichet avant de monter.`,
+          en: `The cable car links the town to the top of Penha in about ten minutes, floating over vineyards and woods. Pets are generally admitted in the cabins under conditions, check the current rules at the ticket desk before boarding.`,
+          es: `El teleférico une la ciudad con la cima de la Penha en unos diez minutos, sobrevolando viñedos y bosques. Las mascotas suelen admitirse en cabina bajo condiciones, confirma las normas vigentes en taquilla antes de subir.`,
+          pt: `O teleférico liga a cidade ao topo da Penha em cerca de dez minutos, sobrevoando vinhas e bosques. Os animais de companhia são geralmente admitidos na cabina sob condições, confirme as regras em vigor na bilheteira antes de subir.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Au Portugal, la laisse est obligatoire dans les espaces publics et le port de la muselière est exigé pour les races dites dangereuses ainsi que dans certains transports.`,
+        `Les pavés en granit du centre deviennent brûlants en plein été et glissants sous la pluie : sortez aux heures fraîches et surveillez les coussinets.`,
+        `Sur la CP (chemins de fer portugais), les petits animaux voyagent en caisse de transport et les chiens plus grands en laisse et muselière selon les règles de la compagnie.`,
+        `La montée à pied vers la Penha est longue et exposée par endroits : partez tôt, emportez de l'eau et privilégiez les sentiers ombragés côté bois.`,
+        `Beaucoup de terrasses acceptent les chiens, mais l'accès à l'intérieur des cafés et restaurants reste rare : visez les places avec terrasses comme le Largo da Oliveira.`,
+      ],
+      en: [
+        `In Portugal, leads are compulsory in public spaces and muzzles are required for breeds classed as dangerous, as well as on some transport.`,
+        `The granite cobbles of the centre get scorching in high summer and slippery in the rain: walk at cooler hours and keep an eye on paw pads.`,
+        `On CP (Portuguese railways), small pets travel in carriers and larger dogs on lead and muzzled, per the company's rules.`,
+        `The walk up to Penha is long and exposed in places: start early, carry water and favour the shaded forest-side trails.`,
+        `Many terraces accept dogs, but access inside cafés and restaurants remains rare: aim for squares with terraces such as Largo da Oliveira.`,
+      ],
+      es: [
+        `En Portugal la correa es obligatoria en los espacios públicos y el bozal se exige a las razas consideradas peligrosas, así como en algunos transportes.`,
+        `Los adoquines de granito del centro se vuelven ardientes en pleno verano y resbaladizos con lluvia: pasea en horas frescas y vigila las almohadillas.`,
+        `En CP (ferrocarriles portugueses), las mascotas pequeñas viajan en transportín y los perros grandes con correa y bozal según las normas de la compañía.`,
+        `La subida a pie a la Penha es larga y expuesta en tramos: sal temprano, lleva agua y elige los senderos con sombra del lado del bosque.`,
+        `Muchas terrazas aceptan perros, pero el acceso al interior de cafés y restaurantes sigue siendo raro: busca plazas con terrazas como el Largo da Oliveira.`,
+      ],
+      pt: [
+        `Em Portugal, a trela é obrigatória nos espaços públicos e o açaime é exigido às raças consideradas perigosas, bem como nalguns transportes.`,
+        `A calçada de granito do centro fica escaldante no pico do verão e escorregadia com chuva: passeie nas horas frescas e vigie as almofadas das patas.`,
+        `Na CP, os animais pequenos viajam em caixa de transporte e os cães maiores com trela e açaime, segundo as regras da empresa.`,
+        `A subida a pé até à Penha é longa e exposta nalguns troços: parta cedo, leve água e prefira os trilhos com sombra do lado do pinhal.`,
+        `Muitas esplanadas aceitam cães, mas o acesso ao interior de cafés e restaurantes continua raro: procure praças com esplanadas como o Largo da Oliveira.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Plusieurs cliniques vétérinaires en ville ; pour les urgences de nuit, les hôpitaux vétérinaires de Braga et de Porto sont à 25 et 55 minutes de route`,
+        `Numéro d'urgence européen : 112 ; les hôtels et le poste de tourisme peuvent indiquer le vétérinaire de garde`,
+        `Animaleries en périphérie et rayons animaux dans les supermarchés ; le centre historique compte surtout des commerces traditionnels`,
+        `Bus urbains : petits animaux en caisse de transport ; en taxi et VTC, l'acceptation dépend du chauffeur, précisez-le à la réservation`,
+        `Passeport européen, puce électronique et vaccin antirabique à jour sont obligatoires pour voyager au Portugal`,
+      ],
+      en: [
+        `Several veterinary clinics in town; for overnight emergencies, the veterinary hospitals of Braga and Porto are 25 and 55 minutes away by road`,
+        `European emergency number: 112; hotels and the tourist office can point you to the vet on duty`,
+        `Pet shops on the outskirts and pet aisles in supermarkets; the historic centre has mostly traditional shops`,
+        `City buses: small pets in carriers; in taxis and ride-hailing cars acceptance depends on the driver, mention the dog when booking`,
+        `EU pet passport, microchip and up-to-date rabies vaccination are mandatory for travel in Portugal`,
+      ],
+      es: [
+        `Varias clínicas veterinarias en la ciudad; para urgencias nocturnas, los hospitales veterinarios de Braga y Oporto están a 25 y 55 minutos por carretera`,
+        `Número de emergencias europeo: 112; los hoteles y la oficina de turismo pueden indicar el veterinario de guardia`,
+        `Tiendas de animales en la periferia y secciones de mascotas en los supermercados; el centro histórico tiene sobre todo comercio tradicional`,
+        `Autobuses urbanos: mascotas pequeñas en transportín; en taxi y VTC la aceptación depende del conductor, indícalo al reservar`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día son obligatorios para viajar por Portugal`,
+      ],
+      pt: [
+        `Várias clínicas veterinárias na cidade; para urgências noturnas, os hospitais veterinários de Braga e do Porto ficam a 25 e 55 minutos de carro`,
+        `Número de emergência europeu: 112; os hotéis e o posto de turismo sabem indicar o veterinário de serviço`,
+        `Lojas de animais na periferia e secções pet nos supermercados; o centro histórico tem sobretudo comércio tradicional`,
+        `Autocarros urbanos: animais pequenos em caixa de transporte; em táxi e TVDE a aceitação depende do motorista, avise ao reservar`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia são obrigatórios para viajar em Portugal`,
+      ],
+    },
+  },
+
   haarlem: {
     history: {
       en: `Haarlem grew up on the Spaarne river in the Middle Ages as a fortified textile and brewing town, receiving its city charter in 1245. It became one of the wealthiest cities of the Dutch Golden Age, home to painters Frans Hals and Jacob van Ruisdael and a centre of the 17th-century tulip trade. The compact historic core still clusters inside the singel canals around the Grote Markt and the towering Grote Sint-Bavokerk, ringed by sixteen surviving hofjes (almshouse courtyards) and Golden Age merchant houses. Just 20 km west of Amsterdam yet far calmer, Haarlem pairs museum-city culture with the dunes, woods and North Sea dog beaches on its doorstep, making it one of the most relaxed pet-friendly bases in the Randstad.`,
@@ -13117,6 +13528,143 @@ const cityContent: Record<string, CityContent> = {
         `13 raças « categoría 1 » exigen bozal em público em Austria (Pit Bull, Bullterrier, Tosa, Rottweiler, etc.), visitantes con estas raças deben ligar a hotéis antes.`,
         `Tarifas veterinárias austríacas similares a Alemania: urgência base 100-180 €. Seguro europeu aceite.`,
         `Mercados navideños (Maria-Theresien-Strasse, finais novembro-31 dezembro) são dog-tolerant, amplas ruas peatonales, vino quente, cães com trela bem-vindos.`,
+      ],
+    },
+  },
+
+  interlaken: {
+    history: {
+      fr: `Comme son nom latin l'indique, Interlaken est née « entre les lacs », sur la plaine alluviale qui sépare le lac de Thoune du lac de Brienz. Un monastère augustin s'y installa au XIIe siècle, mais c'est le tourisme romantique qui fit la fortune de la ville : dès le XIXe siècle, écrivains et aristocrates venaient contempler la Jungfrau depuis la promenade du Höheweg, et les grands hôtels Belle Époque poussèrent face aux prairies. L'arrivée des chemins de fer de montagne, dont la ligne de la Jungfrau achevée en 1912, transforma Interlaken en porte d'entrée de l'Oberland bernois. La ville reste aujourd'hui ce carrefour d'eau et de sommets, où bateaux à aubes, funiculaires et trains panoramiques partent dans toutes les directions, un vrai bonheur logistique quand on voyage avec un chien, accepté presque partout moyennant un billet.`,
+      en: `As its Latin name suggests, Interlaken was born "between the lakes", on the alluvial plain separating Lake Thun from Lake Brienz. An Augustinian monastery settled here in the 12th century, but it was romantic tourism that made the town's fortune: from the 19th century, writers and aristocrats came to gaze at the Jungfrau from the Höheweg promenade, and grand Belle Époque hotels rose facing the meadows. The arrival of the mountain railways, including the Jungfrau line completed in 1912, turned Interlaken into the gateway to the Bernese Oberland. The town remains that crossroads of water and summits, where paddle steamers, funiculars and panoramic trains leave in every direction, a logistical delight when travelling with a dog, accepted almost everywhere with a ticket.`,
+      es: `Como indica su nombre latino, Interlaken nació «entre los lagos», en la llanura aluvial que separa el lago de Thun del lago de Brienz. Un monasterio agustino se instaló aquí en el siglo XII, pero fue el turismo romántico el que hizo la fortuna de la ciudad: desde el siglo XIX, escritores y aristócratas venían a contemplar la Jungfrau desde el paseo del Höheweg, y los grandes hoteles de la Belle Époque crecieron frente a los prados. La llegada de los trenes de montaña, incluida la línea de la Jungfrau terminada en 1912, convirtió Interlaken en la puerta del Oberland bernés. La ciudad sigue siendo ese cruce de agua y cumbres, de donde salen barcos de vapor, funiculares y trenes panorámicos en todas direcciones, una delicia logística cuando se viaja con perro, aceptado casi en todas partes con billete.`,
+      pt: `Como indica o seu nome latino, Interlaken nasceu «entre os lagos», na planície aluvial que separa o lago de Thun do lago de Brienz. Um mosteiro agostinho instalou-se aqui no século XII, mas foi o turismo romântico que fez a fortuna da cidade: a partir do século XIX, escritores e aristocratas vinham contemplar a Jungfrau desde o passeio do Höheweg, e os grandes hotéis da Belle Époque cresceram frente aos prados. A chegada dos comboios de montanha, incluindo a linha da Jungfrau concluída em 1912, transformou Interlaken na porta de entrada do Oberland bernês. A cidade continua a ser esse cruzamento de água e cumes, de onde partem barcos a vapor, funiculares e comboios panorâmicos em todas as direções, uma delícia logística para quem viaja com cão, aceite quase em todo o lado mediante bilhete.`,
+    },
+    sights: [
+      {
+        name: `Höheweg`,
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `La célèbre promenade relie les deux gares d'Interlaken le long de la prairie de la Höhematte, avec la Jungfrau en toile de fond. Plate, ombragée et bordée d'hôtels historiques, c'est la balade en laisse par excellence, matin et soir.`,
+          en: `The famous promenade links Interlaken's two stations along the Höhematte meadow, with the Jungfrau as a backdrop. Flat, shaded and lined with historic hotels, it is the quintessential on-lead stroll, morning and evening.`,
+          es: `El célebre paseo une las dos estaciones de Interlaken a lo largo del prado de la Höhematte, con la Jungfrau de telón de fondo. Llano, sombreado y flanqueado de hoteles históricos, es el paseo con correa por excelencia, mañana y tarde.`,
+          pt: `O célebre passeio liga as duas estações de Interlaken ao longo do prado da Höhematte, com a Jungfrau como pano de fundo. Plano, sombreado e ladeado de hotéis históricos, é o passeio com trela por excelência, de manhã e ao fim do dia.`,
+        },
+      },
+      {
+        name: `Harder Kulm`,
+        emoji: '🚞',
+        petFriendly: true,
+        desc: {
+          fr: `Le funiculaire grimpe en dix minutes à la « montagne maison » d'Interlaken, à 1 322 mètres, pour un panorama sur les deux lacs et la trilogie Eiger, Mönch et Jungfrau. Les chiens voyagent avec un billet et profitent de la plateforme panoramique en laisse.`,
+          en: `The funicular climbs in ten minutes to Interlaken's "home mountain" at 1,322 metres, for a panorama over both lakes and the Eiger, Mönch and Jungfrau trilogy. Dogs travel with a ticket and enjoy the viewing platform on lead.`,
+          es: `El funicular sube en diez minutos a la «montaña de casa» de Interlaken, a 1.322 metros, con panorámica de los dos lagos y de la trilogía Eiger, Mönch y Jungfrau. Los perros viajan con billete y disfrutan de la plataforma panorámica con correa.`,
+          pt: `O funicular sobe em dez minutos à «montanha de casa» de Interlaken, a 1.322 metros, com panorama sobre os dois lagos e a trilogia Eiger, Mönch e Jungfrau. Os cães viajam com bilhete e aproveitam a plataforma panorâmica pela trela.`,
+        },
+      },
+      {
+        name: `Brienzersee`,
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `Le lac de Brienz, d'un turquoise laiteux unique, se découvre à bord des bateaux de la flotte BLS, y compris le vapeur historique Lötschberg. Les chiens sont admis à bord, en général au demi-tarif, et les ponts extérieurs leur vont à merveille.`,
+          en: `Lake Brienz, a uniquely milky turquoise, is best seen from the BLS fleet, including the historic paddle steamer Lötschberg. Dogs are allowed on board, generally at half fare, and the open decks suit them perfectly.`,
+          es: `El lago de Brienz, de un turquesa lechoso único, se descubre a bordo de la flota BLS, incluido el histórico vapor de paletas Lötschberg. Los perros se admiten a bordo, en general a media tarifa, y las cubiertas exteriores les sientan de maravilla.`,
+          pt: `O lago de Brienz, de um turquesa leitoso único, descobre-se a bordo da frota BLS, incluindo o histórico vapor de rodas Lötschberg. Os cães são admitidos a bordo, em geral a meio bilhete, e os conveses exteriores assentam-lhes na perfeição.`,
+        },
+      },
+      {
+        name: `Heimwehfluh`,
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          fr: `Ce petit funiculaire nostalgique de 1906 monte à un belvédère boisé au-dessus d'Interlaken, avec tour d'observation et sentiers en forêt. Moins couru que Harder Kulm, c'est l'option tranquille pour une sortie ombragée avec un chien.`,
+          en: `This nostalgic little funicular from 1906 climbs to a wooded viewpoint above Interlaken, with an observation tower and forest trails. Less busy than Harder Kulm, it is the quiet option for a shaded outing with a dog.`,
+          es: `Este pequeño funicular nostálgico de 1906 sube a un mirador boscoso sobre Interlaken, con torre de observación y senderos forestales. Menos concurrido que Harder Kulm, es la opción tranquila para una salida a la sombra con perro.`,
+          pt: `Este pequeno funicular nostálgico de 1906 sobe a um miradouro arborizado sobre Interlaken, com torre de observação e trilhos na floresta. Menos frequentado do que o Harder Kulm, é a opção tranquila para uma saída à sombra com o cão.`,
+        },
+      },
+      {
+        name: `St. Beatus-Höhlen`,
+        emoji: '🕳️',
+        petFriendly: false,
+        desc: {
+          fr: `Ces grottes légendaires s'ouvrent dans la falaise au-dessus du lac de Thoune, derrière des cascades spectaculaires. Les chiens ne sont pas admis dans les galeries, mais le sentier d'accès et les terrasses extérieures offrent déjà de superbes vues sur le lac.`,
+          en: `These legendary caves open in the cliff above Lake Thun, behind spectacular waterfalls. Dogs are not admitted into the galleries, but the access path and outdoor terraces already offer superb lake views.`,
+          es: `Estas cuevas legendarias se abren en el acantilado sobre el lago de Thun, tras cascadas espectaculares. Los perros no se admiten en las galerías, pero el sendero de acceso y las terrazas exteriores ya regalan vistas soberbias del lago.`,
+          pt: `Estas grutas lendárias abrem-se na falésia sobre o lago de Thun, atrás de cascatas espetaculares. Os cães não são admitidos nas galerias, mas o caminho de acesso e as esplanadas exteriores já oferecem vistas soberbas sobre o lago.`,
+        },
+      },
+      {
+        name: `Unspunnen`,
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Entre Interlaken et Wilderswil, les ruines du château d'Unspunnen veillent sur des prairies où se tiennent depuis 1805 les fêtes alpestres du même nom. Un but de promenade champêtre facile, en laisse, avec la Jungfrau plein cadre.`,
+          en: `Between Interlaken and Wilderswil, the ruins of Unspunnen castle watch over meadows that have hosted the alpine festivals of the same name since 1805. An easy pastoral walking goal, on lead, with the Jungfrau filling the frame.`,
+          es: `Entre Interlaken y Wilderswil, las ruinas del castillo de Unspunnen vigilan unos prados que acogen desde 1805 las fiestas alpinas del mismo nombre. Una meta de paseo campestre fácil, con correa, con la Jungfrau llenando el encuadre.`,
+          pt: `Entre Interlaken e Wilderswil, as ruínas do castelo de Unspunnen vigiam prados que acolhem desde 1805 as festas alpinas com o mesmo nome. Um objetivo de passeio campestre fácil, com trela, com a Jungfrau a encher o enquadramento.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Trains, bus, bateaux et la plupart des remontées acceptent les chiens en Suisse, en général au demi-tarif ; les petits chiens en sac de transport voyagent gratuitement.`,
+        `Sur les bateaux des lacs de Thoune et de Brienz, gardez le chien en laisse et privilégiez les ponts extérieurs, surtout par forte affluence estivale.`,
+        `La baignade canine est possible par endroits sur les rives des deux lacs, mais évitez les lidos et plages payantes aménagées, réservés aux baigneurs.`,
+        `Prairies et alpages autour de la ville sont pâturés : laisse obligatoire près du bétail, et attention aux chiens de protection des troupeaux en altitude.`,
+        `L'été, les orages de montagne arrivent vite : prévoyez un plan de repli et de l'eau, et l'hiver, rincez les pattes après les rues salées.`,
+      ],
+      en: [
+        `Trains, buses, boats and most lifts accept dogs in Switzerland, generally at half fare; small dogs in carriers travel free.`,
+        `On the Lake Thun and Lake Brienz boats, keep your dog on lead and favour the outer decks, especially in the busy summer season.`,
+        `Dog swimming is possible in places along both lakeshores, but avoid the lidos and paying bathing beaches, which are reserved for swimmers.`,
+        `Meadows and alpine pastures around town are grazed: leads are compulsory near livestock, and beware of herd protection dogs at altitude.`,
+        `In summer, mountain storms roll in fast: have a fallback plan and carry water; in winter, rinse paws after the salted streets.`,
+      ],
+      es: [
+        `Trenes, autobuses, barcos y la mayoría de los remontes aceptan perros en Suiza, en general a media tarifa; los perros pequeños en transportín viajan gratis.`,
+        `En los barcos de los lagos de Thun y Brienz, lleva al perro con correa y elige las cubiertas exteriores, sobre todo en pleno verano.`,
+        `El baño canino es posible en algunos tramos de ambas orillas, pero evita los lidos y playas de pago acondicionadas, reservados a los bañistas.`,
+        `Los prados y pastos alrededor de la ciudad tienen ganado: correa obligatoria cerca de los rebaños, y ojo con los perros de protección en altura.`,
+        `En verano las tormentas de montaña llegan rápido: ten un plan alternativo y lleva agua; en invierno, enjuaga las patas tras las calles con sal.`,
+      ],
+      pt: [
+        `Comboios, autocarros, barcos e a maioria dos teleféricos aceitam cães na Suíça, em geral a meio bilhete; os cães pequenos em transportadora viajam grátis.`,
+        `Nos barcos dos lagos de Thun e Brienz, mantenha o cão pela trela e prefira os conveses exteriores, sobretudo no pico do verão.`,
+        `O banho canino é possível nalguns troços das margens dos dois lagos, mas evite os lidos e as praias pagas equipadas, reservados aos banhistas.`,
+        `Os prados e pastagens à volta da cidade têm gado: trela obrigatória perto dos rebanhos, e atenção aos cães de proteção em altitude.`,
+        `No verão, as trovoadas de montanha chegam depressa: tenha um plano alternativo e leve água; no inverno, passe as patas por água depois das ruas com sal.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cabinets vétérinaires à Interlaken et dans les villages voisins ; les urgences complexes sont référées vers les cliniques de la région de Berne et de Thoune`,
+        `Numéro d'urgence général suisse : 112 ; hôtels et office du tourisme connaissent le vétérinaire de garde`,
+        `Alimentation et accessoires dans les supermarchés du centre ; boutiques spécialisées entre Interlaken et Thoune`,
+        `Chiens admis dans les trains, bus et bateaux, au demi-tarif en général ; laisse exigée à bord et muselière à portée de main sur demande du personnel`,
+        `Entrée en Suisse : passeport européen, puce et vaccin antirabique valide, la Suisse suit les règles UE pour les animaux de compagnie`,
+      ],
+      en: [
+        `Veterinary practices in Interlaken and neighbouring villages; complex emergencies are referred to clinics in the Bern and Thun area`,
+        `Swiss general emergency number: 112; hotels and the tourist office know the vet on duty`,
+        `Food and accessories in the town-centre supermarkets; specialist shops between Interlaken and Thun`,
+        `Dogs allowed on trains, buses and boats, generally at half fare; lead required on board and a muzzle to hand if staff request it`,
+        `Entering Switzerland: EU pet passport, microchip and valid rabies vaccination, Switzerland follows EU pet travel rules`,
+      ],
+      es: [
+        `Consultas veterinarias en Interlaken y en los pueblos vecinos; las urgencias complejas se derivan a las clínicas de la zona de Berna y Thun`,
+        `Número general de emergencias suizo: 112; los hoteles y la oficina de turismo saben qué veterinario está de guardia`,
+        `Comida y accesorios en los supermercados del centro; tiendas especializadas entre Interlaken y Thun`,
+        `Perros admitidos en trenes, autobuses y barcos, en general a media tarifa; correa obligatoria a bordo y bozal a mano si el personal lo pide`,
+        `Entrada en Suiza: pasaporte europeo, microchip y vacuna antirrábica vigente, Suiza sigue las normas de la UE para mascotas`,
+      ],
+      pt: [
+        `Consultórios veterinários em Interlaken e nas aldeias vizinhas; as urgências complexas são encaminhadas para as clínicas da zona de Berna e Thun`,
+        `Número geral de emergência na Suíça: 112; os hotéis e o posto de turismo sabem qual o veterinário de serviço`,
+        `Comida e acessórios nos supermercados do centro; lojas especializadas entre Interlaken e Thun`,
+        `Cães admitidos em comboios, autocarros e barcos, em geral a meio bilhete; trela obrigatória a bordo e açaime à mão se o pessoal o pedir`,
+        `Entrada na Suíça: passaporte europeu, microchip e vacina antirrábica válida, a Suíça segue as regras da UE para animais de companhia`,
       ],
     },
   },

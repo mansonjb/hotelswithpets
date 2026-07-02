@@ -21820,6 +21820,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  paros: {
+    history: {
+      fr: `Paros a donné au monde le lychnites, le marbre le plus pur de l'Antiquité, celui de la Vénus de Milo et de l'Hermès de Praxitèle, extrait des galeries souterraines de Marathi que l'on devine encore à flanc de colline. Parikia, bâtie sur la cité antique, conserve la Panagia Ekatontapiliani, l'église aux cent portes fondée au IVe siècle selon la légende par sainte Hélène, et un kastro vénitien monté avec les tambours de colonnes d'un temple archaïque. Lefkes, capitale de l'île au temps des pirates, veille sur l'intérieur depuis ses ruelles de marbre, reliée à Prodromos par une chaussée byzantine dallée. Naoussa, ancien port de pêcheurs blotti derrière son fortin à demi englouti, est devenue l'un des plus jolis mouillages des Cyclades. Aujourd'hui grand carrefour des ferries de l'Égée, Paros mêle plages de sable, villages chaulés et sentiers muletiers : une île très facile à vivre avec un chien.`,
+      en: `Paros gave the world lychnites, the purest marble of antiquity, the stone of the Venus de Milo and Praxiteles' Hermes, quarried from the underground galleries at Marathi still visible on the hillside. Parikia, built over the ancient city, keeps the Panagia Ekatontapiliani, the church of a hundred doors founded in the 4th century according to legend by Saint Helena, and a Venetian kastro assembled from the column drums of an archaic temple. Lefkes, the island's capital in the age of pirates, watches over the interior from its marble lanes, linked to Prodromos by a flagstoned Byzantine road. Naoussa, an old fishing port huddled behind its half-sunken fortress, has become one of the prettiest harbours in the Cyclades. Now a major hub for Aegean ferries, Paros blends sandy beaches, whitewashed villages and mule paths: a very easy island to enjoy with a dog.`,
+      es: `Paros dio al mundo el lychnites, el mármol más puro de la Antigüedad, el de la Venus de Milo y el Hermes de Praxíteles, extraído de las galerías subterráneas de Marathi que aún se adivinan en la ladera. Parikia, construida sobre la ciudad antigua, conserva la Panagia Ekatontapiliani, la iglesia de las cien puertas fundada en el siglo IV según la leyenda por santa Elena, y un kastro veneciano levantado con los tambores de columna de un templo arcaico. Lefkes, capital de la isla en tiempos de los piratas, vigila el interior desde sus callejuelas de mármol, unida a Prodromos por una calzada bizantina enlosada. Naoussa, antiguo puerto pesquero acurrucado tras su fortín medio hundido, se ha convertido en uno de los fondeaderos más bonitos de las Cícladas. Hoy gran nudo de ferris del Egeo, Paros combina playas de arena, pueblos encalados y senderos de mulas: una isla muy fácil de vivir con perro.`,
+      pt: `Paros deu ao mundo o lychnites, o mármore mais puro da Antiguidade, o da Vénus de Milo e do Hermes de Praxíteles, extraído das galerias subterrâneas de Marathi que ainda se adivinham na encosta. Parikia, construída sobre a cidade antiga, conserva a Panagia Ekatontapiliani, a igreja das cem portas fundada no século IV segundo a lenda por santa Helena, e um kastro veneziano erguido com os tambores de coluna de um templo arcaico. Lefkes, capital da ilha no tempo dos piratas, vigia o interior das suas vielas de mármore, ligada a Prodromos por uma calçada bizantina lajeada. Naoussa, antigo porto de pescadores aninhado atrás do seu fortim meio submerso, tornou-se um dos ancoradouros mais bonitos das Cíclades. Hoje grande encruzilhada dos ferries do Egeu, Paros junta praias de areia, aldeias caiadas e caminhos de mulas: uma ilha muito fácil de viver com um cão.`,
+    },
+    sights: [
+      {
+        name: `Parikia`,
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `La capitale de l'île déroule un vieux quartier de venelles chaulées, de bougainvillées et de chapelles autour des restes du kastro vénitien bâti en tambours de colonnes antiques. En laisse, tôt le matin ou au couchant, c'est un labyrinthe délicieux, et le front de mer offre une longue promenade plate.`,
+          en: `The island's capital unfolds an old quarter of limewashed alleys, bougainvillea and chapels around the remains of the Venetian kastro built from ancient column drums. On a lead, early in the morning or at sunset, it is a delicious labyrinth, and the seafront gives a long flat promenade.`,
+          es: `La capital de la isla despliega un casco antiguo de callejones encalados, buganvillas y capillas en torno a los restos del kastro veneciano construido con tambores de columnas antiguas. Con correa, a primera hora o al atardecer, es un laberinto delicioso, y el paseo marítimo ofrece un largo recorrido llano.`,
+          pt: `A capital da ilha desdobra um bairro antigo de vielas caiadas, buganvílias e capelas em torno dos restos do kastro veneziano construído com tambores de colunas antigas. Com trela, de manhã cedo ou ao pôr do sol, é um labirinto delicioso, e a frente-mar oferece um longo passeio plano.`,
+        },
+      },
+      {
+        name: `Naoussa`,
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Le petit port de pêche le plus photogénique des Cyclades serre ses caïques colorés contre un fortin vénitien à demi englouti. Les chiens en laisse flânent volontiers sur les quais et dans les ruelles, et beaucoup de tavernes du port acceptent les compagnons calmes en terrasse.`,
+          en: `The most photogenic little fishing port in the Cyclades squeezes its colourful caiques against a half-sunken Venetian fortress. Leashed dogs happily wander the quays and lanes, and many harbourside tavernas accept calm companions at outdoor tables.`,
+          es: `El puertito pesquero más fotogénico de las Cícladas aprieta sus caiques de colores contra un fortín veneciano medio hundido. Los perros con correa pasean a gusto por los muelles y callejones, y muchas tabernas del puerto aceptan compañeros tranquilos en la terraza.`,
+          pt: `O portinho de pesca mais fotogénico das Cíclades aperta os seus caíques coloridos contra um fortim veneziano meio submerso. Os cães com trela passeiam de bom grado pelos cais e vielas, e muitas tabernas do porto aceitam companheiros calmos na esplanada.`,
+        },
+      },
+      {
+        name: `Chaussée byzantine de Lefkes`,
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `L'ancienne route dallée de marbre relie Lefkes à Prodromos en une heure de descente douce parmi oliviers, murets et chapelles, avec la mer et Naxos en toile de fond. C'est la plus belle balade de l'île pour un chien en laisse ; partez tôt, l'ombre est rare à midi.`,
+          en: `The old marble-flagged road links Lefkes to Prodromos in an hour of gentle descent among olive trees, drystone walls and chapels, with the sea and Naxos as a backdrop. It is the island's finest walk for a leashed dog; start early, shade is scarce at midday.`,
+          es: `La antigua calzada enlosada de mármol une Lefkes con Prodromos en una hora de bajada suave entre olivos, muretes y capillas, con el mar y Naxos de telón de fondo. Es el paseo más bonito de la isla para un perro con correa; sal temprano, la sombra escasea al mediodía.`,
+          pt: `A antiga calçada lajeada de mármore liga Lefkes a Prodromos numa hora de descida suave entre oliveiras, muros de pedra e capelas, com o mar e Naxos como pano de fundo. É o passeio mais bonito da ilha para um cão com trela; parta cedo, a sombra escasseia ao meio-dia.`,
+        },
+      },
+      {
+        name: `Chrysi Akti (Golden Beach)`,
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Sept cents mètres de sable doré sur la côte est, balayés par le meltemi qui en a fait un spot de windsurf de classe mondiale. En été, tenez-vous aux extrémités non aménagées, loin des transats et des écoles de voile ; hors saison, la plage entière est à vous et votre chien.`,
+          en: `Seven hundred metres of golden sand on the east coast, swept by the meltemi that has made it a world-class windsurfing spot. In summer, keep to the undeveloped ends, away from the sunbeds and sailing schools; off season, the whole beach belongs to you and your dog.`,
+          es: `Setecientos metros de arena dorada en la costa este, barridos por el meltemi que lo han convertido en un spot de windsurf de primer nivel. En verano, quédate en los extremos sin equipar, lejos de las hamacas y de las escuelas de vela; fuera de temporada, la playa entera es para ti y tu perro.`,
+          pt: `Setecentos metros de areia dourada na costa leste, varridos pelo meltemi que fizeram dela um spot de windsurf de classe mundial. No verão, fique nas extremidades não equipadas, longe das espreguiçadeiras e das escolas de vela; fora de época, a praia inteira é sua e do seu cão.`,
+        },
+      },
+      {
+        name: `Panagia Ekatontapiliani`,
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `L'église aux cent portes, fondée selon la tradition par sainte Hélène au IVe siècle, est l'un des plus importants sanctuaires paléochrétiens de Grèce. Les chiens n'entrent ni dans l'église ni dans le cloître : relayez-vous pour la visite pendant que l'autre attend à l'ombre du parvis.`,
+          en: `The church of a hundred doors, founded according to tradition by Saint Helena in the 4th century, is one of Greece's most important early Christian sanctuaries. Dogs enter neither the church nor the cloister: take turns visiting while the other waits in the shade of the forecourt.`,
+          es: `La iglesia de las cien puertas, fundada según la tradición por santa Elena en el siglo IV, es uno de los santuarios paleocristianos más importantes de Grecia. Los perros no entran ni en la iglesia ni en el claustro: turnaos para la visita mientras el otro espera a la sombra del atrio.`,
+          pt: `A igreja das cem portas, fundada segundo a tradição por santa Helena no século IV, é um dos santuários paleocristãos mais importantes da Grécia. Os cães não entram nem na igreja nem no claustro: revezem-se na visita enquanto o outro espera à sombra do adro.`,
+        },
+      },
+      {
+        name: `Kolymbithres`,
+        emoji: '🪨',
+        petFriendly: true,
+        desc: {
+          fr: `Dans la baie de Naoussa, des rochers de granit sculptés par le vent découpent une série de criques miniatures aux eaux transparentes. Hors saison et en début de matinée, les chiens explorent librement ce paysage lunaire ; en plein été, visez les criques les plus éloignées des transats.`,
+          en: `In the bay of Naoussa, wind-sculpted granite rocks carve out a series of miniature coves with transparent water. Off season and early in the morning, dogs explore this lunar landscape freely; in high summer, aim for the coves furthest from the sunbeds.`,
+          es: `En la bahía de Naoussa, rocas de granito esculpidas por el viento recortan una serie de calas en miniatura de aguas transparentes. Fuera de temporada y a primera hora, los perros exploran libremente este paisaje lunar; en pleno verano, apunta a las calas más alejadas de las hamacas.`,
+          pt: `Na baía de Naoussa, rochas de granito esculpidas pelo vento recortam uma série de enseadas em miniatura de águas transparentes. Fora de época e de manhã cedo, os cães exploram livremente esta paisagem lunar; em pleno verão, aponte às enseadas mais afastadas das espreguiçadeiras.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Paros est le grand carrefour des ferries des Cyclades : sur les ponts extérieurs des Blue Star, muselière et laisse sont obligatoires, et les catamarans rapides n'acceptent souvent que les petits chiens en sac de transport, vérifiez à la réservation.`,
+        `En juillet-août, les plages aménagées tolèrent mal les chiens en journée : visez les extrémités sauvages de Chrysi Akti, Santa Maria ou Molos tôt le matin, et profitez de la liberté totale d'octobre à mai.`,
+        `Attention à la chaleur estivale : le sable et les dalles de marbre de Lefkes ou Parikia brûlent les coussinets entre 11 h et 18 h, testez du dos de la main et réservez la chaussée byzantine aux heures fraîches.`,
+        `Le meltemi souffle fort l'après-midi sur la côte est : sable cinglant pour les yeux des chiens à Chrysi Akti, repliez-vous alors sur la baie abritée de Naoussa ou les villages de l'intérieur.`,
+        `Beaucoup de chats semi-errants dans les ruelles de Naoussa et Parikia, nourris par les habitants : gardez la laisse courte au crépuscule, quand ils sortent en nombre autour des tavernes.`,
+      ],
+      en: [
+        `Paros is the great ferry crossroads of the Cyclades: on the outer decks of Blue Star ships, muzzle and lead are compulsory, and fast catamarans often only accept small dogs in carriers, check when booking.`,
+        `In July and August the equipped beaches tolerate dogs poorly during the day: aim for the wild ends of Chrysi Akti, Santa Maria or Molos early in the morning, and enjoy total freedom from October to May.`,
+        `Beware the summer heat: the sand and the marble flagstones of Lefkes or Parikia burn paws between 11am and 6pm, test with the back of your hand and keep the Byzantine road for the cool hours.`,
+        `The meltemi blows hard in the afternoon on the east coast: stinging sand for dogs' eyes at Chrysi Akti, so fall back on the sheltered bay of Naoussa or the inland villages.`,
+        `Many semi-stray cats live in the lanes of Naoussa and Parikia, fed by residents: keep the lead short at dusk, when they come out in numbers around the tavernas.`,
+      ],
+      es: [
+        `Paros es el gran nudo de ferris de las Cícladas: en las cubiertas exteriores de los Blue Star, bozal y correa son obligatorios, y los catamaranes rápidos a menudo solo aceptan perros pequeños en transportín, compruébalo al reservar.`,
+        `En julio y agosto las playas equipadas toleran mal a los perros durante el día: apunta a los extremos salvajes de Chrysi Akti, Santa Maria o Molos a primera hora, y disfruta de la libertad total de octubre a mayo.`,
+        `Cuidado con el calor estival: la arena y las losas de mármol de Lefkes o Parikia queman las almohadillas entre las 11 y las 18 h, prueba con el dorso de la mano y reserva la calzada bizantina para las horas frescas.`,
+        `El meltemi sopla fuerte por la tarde en la costa este: arena que azota los ojos de los perros en Chrysi Akti, refúgiate entonces en la bahía abrigada de Naoussa o en los pueblos del interior.`,
+        `Hay muchos gatos semicallejeros en los callejones de Naoussa y Parikia, alimentados por los vecinos: lleva la correa corta al anochecer, cuando salen en masa alrededor de las tabernas.`,
+      ],
+      pt: [
+        `Paros é a grande encruzilhada dos ferries das Cíclades: nos conveses exteriores dos Blue Star, açaime e trela são obrigatórios, e os catamarãs rápidos aceitam muitas vezes apenas cães pequenos em transportadora, confirme ao reservar.`,
+        `Em julho e agosto as praias equipadas toleram mal os cães durante o dia: aponte às extremidades selvagens de Chrysi Akti, Santa Maria ou Molos de manhã cedo, e aproveite a liberdade total de outubro a maio.`,
+        `Cuidado com o calor do verão: a areia e as lajes de mármore de Lefkes ou Parikia queimam as almofadinhas entre as 11h e as 18h, teste com as costas da mão e reserve a calçada bizantina para as horas frescas.`,
+        `O meltemi sopra forte à tarde na costa leste: areia que fustiga os olhos dos cães em Chrysi Akti, recue então para a baía abrigada de Naoussa ou para as aldeias do interior.`,
+        `Há muitos gatos semi-vadios nas vielas de Naoussa e Parikia, alimentados pelos habitantes: mantenha a trela curta ao anoitecer, quando saem em grande número à volta das tabernas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cabinets vétérinaires à Parikia et près de Naoussa pour les soins courants ; pour les urgences lourdes, les cliniques les mieux équipées sont à Syros ou Athènes, accessibles en ferry`,
+        `Numéro d'urgence européen : 112 ; l'association locale de protection animale peut orienter en cas d'animal trouvé`,
+        `Rayons animaux dans les supermarchés de Parikia et Naoussa ; animaleries près du port de Parikia`,
+        `Ferries Blue Star : chiens gratuits sur les ponts extérieurs, muselière et laisse obligatoires, cabines animaux sur certaines lignes ; bus KTEL de l'île : petits chiens en transportín`,
+        `Passeport européen, puce et vaccin antirabique à jour requis ; traitement antiparasitaire renforcé conseillé, tiques et phlébotomes actifs d'avril à octobre dans les Cyclades`,
+      ],
+      en: [
+        `Veterinary practices in Parikia and near Naoussa for routine care; for serious emergencies, the best-equipped clinics are on Syros or in Athens, reachable by ferry`,
+        `European emergency number: 112; the local animal welfare association can help if you find a stray`,
+        `Pet aisles in the supermarkets of Parikia and Naoussa; pet shops near Parikia's port`,
+        `Blue Star ferries: dogs free on the outer decks, muzzle and lead compulsory, pet cabins on some routes; island KTEL buses: small dogs in carriers`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required; reinforced parasite treatment advised, ticks and sandflies are active April to October in the Cyclades`,
+      ],
+      es: [
+        `Consultas veterinarias en Parikia y cerca de Naoussa para cuidados corrientes; para urgencias graves, las clínicas mejor equipadas están en Syros o Atenas, accesibles en ferry`,
+        `Número de emergencias europeo: 112; la asociación local de protección animal puede orientar si encuentras un animal abandonado`,
+        `Secciones de mascotas en los supermercados de Parikia y Naoussa; tiendas de animales cerca del puerto de Parikia`,
+        `Ferris Blue Star: perros gratis en las cubiertas exteriores, bozal y correa obligatorios, cabinas para mascotas en algunas líneas; autobuses KTEL de la isla: perros pequeños en transportín`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios; se aconseja tratamiento antiparasitario reforzado, garrapatas y flebótomos activos de abril a octubre en las Cícladas`,
+      ],
+      pt: [
+        `Consultórios veterinários em Parikia e perto de Naoussa para cuidados correntes; para urgências graves, as clínicas mais bem equipadas ficam em Syros ou Atenas, acessíveis de ferry`,
+        `Número de emergência europeu: 112; a associação local de proteção animal pode orientar em caso de animal encontrado`,
+        `Secções pet nos supermercados de Parikia e Naoussa; lojas de animais perto do porto de Parikia`,
+        `Ferries Blue Star: cães gratuitos nos conveses exteriores, açaime e trela obrigatórios, cabinas para animais nalgumas linhas; autocarros KTEL da ilha: cães pequenos em transportadora`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; aconselha-se tratamento antiparasitário reforçado, carraças e flebótomos ativos de abril a outubro nas Cíclades`,
+      ],
+    },
+  },
+
   peniche: {
     history: {
       fr: `Peniche fut longtemps une île : ce n'est qu'au XVIe siècle que les sables ont fini par la rattacher au continent, créant cette presqu'île fortifiée avancée dans l'Atlantique. Sa forteresse, bâtie pour repousser les corsaires, servit de prison politique sous la dictature de Salazar ; l'évasion du dirigeant communiste Álvaro Cunhal en 1960 y reste légendaire. Grand port sardinier, la ville vit toujours de la pêche et de la conserverie, et ses restaurants servent parmi les meilleurs poissons du Portugal. Depuis les années 2000, Peniche est aussi devenue une capitale mondiale du surf, avec la vague de Supertubos et une étape du championnat du monde. Pour un voyageur avec un chien, c'est un bord de mer brut et venteux : falaises spectaculaires du Cabo Carvoeiro, dunes de Baleal et immenses plages hors saison.`,
@@ -24280,6 +24417,143 @@ const cityContent: Record<string, CityContent> = {
         `Sem estação de comboio: a linha férrea mais próxima fica em Pula, a 35 km a sul, a maioria chega pelo aeroporto de Pula (PUY, cerca de 35 minutos) ou pelo autocarro costeiro Autotrans/Brioni a partir de Pula, sensivelmente de hora a hora no verão.`,
         `Um catamarã sazonal da Venezia Lines liga o porto de Rovinj diretamente a Veneza (cerca de 3h45, de abril a outubro), os cães com trela viajam no convés exterior.`,
         `Veterinários verificados: Veterinarska Ambulanta Rovinj (Laste ul. 9, +385 52 813 214, urgências 24h +385 98 334 092) e Istra Vet (Gripole 68, +385 52 553 907), as clínicas maiores mais próximas estão em Pula, a 35 km a sul.`,
+      ],
+    },
+  },
+
+  'saint-jean-de-luz': {
+    history: {
+      fr: `Ancien repaire de corsaires basques enrichis par la course et la pêche à la baleine, Saint-Jean-de-Luz est entrée dans l'histoire le 9 juin 1660 : Louis XIV y épousa l'infante Marie-Thérèse en l'église Saint-Jean-Baptiste, dont la porte fut murée après le passage du couple royal. La Maison Louis XIV et la Maison de l'Infante, sur le port, gardent la mémoire de ces noces qui scellèrent la paix des Pyrénées. Protégée des fureurs de l'océan par trois digues, sa grande baie en coquille est l'une des rares plages abritées de la côte basque, ce qui en fit une station balnéaire courue dès le Second Empire. En face, Ciboure a vu naître Maurice Ravel, et le fort de Socoa monte la garde à l'entrée de la rade. Entre halles, rue Gambetta, sentier du littoral et arrière-pays de villages labourdins, la cité corsaire se déguste à pied, chien en laisse.`,
+      en: `A former lair of Basque corsairs grown rich on privateering and whaling, Saint-Jean-de-Luz entered history on 9 June 1660: Louis XIV married the Infanta Maria Theresa in the church of Saint-Jean-Baptiste, whose door was walled up after the royal couple passed through. The Maison Louis XIV and the Maison de l'Infante, on the harbour, keep the memory of the wedding that sealed the Peace of the Pyrenees. Sheltered from the ocean's fury by three breakwaters, its great shell-shaped bay is one of the few protected beaches on the Basque coast, which made it a fashionable resort from the Second Empire onwards. Across the water, Ciboure saw the birth of Maurice Ravel, and the fort of Socoa guards the entrance to the roadstead. Between the covered market, rue Gambetta, the coastal path and a hinterland of Labourd villages, the corsair town is best savoured on foot, dog on lead.`,
+      es: `Antigua guarida de corsarios vascos enriquecidos con la patente de corso y la caza de la ballena, San Juan de Luz entró en la historia el 9 de junio de 1660: Luis XIV se casó con la infanta María Teresa en la iglesia de Saint-Jean-Baptiste, cuya puerta fue tapiada tras el paso de la pareja real. La Maison Louis XIV y la Maison de l'Infante, junto al puerto, guardan la memoria de aquellas bodas que sellaron la Paz de los Pirineos. Protegida de las furias del océano por tres diques, su gran bahía en forma de concha es una de las pocas playas abrigadas de la costa vasca, lo que la convirtió en estación balnearia de moda desde el Segundo Imperio. Enfrente, Ciboure vio nacer a Maurice Ravel, y el fuerte de Socoa custodia la entrada de la rada. Entre mercado cubierto, rue Gambetta, senda litoral y pueblos labortanos del interior, la ciudad corsaria se saborea a pie, con el perro atado.`,
+      pt: `Antigo covil de corsários bascos enriquecidos pelo corso e pela caça à baleia, Saint-Jean-de-Luz entrou na história a 9 de junho de 1660: Luís XIV casou com a infanta Maria Teresa na igreja de Saint-Jean-Baptiste, cuja porta foi emparedada após a passagem do casal real. A Maison Louis XIV e a Maison de l'Infante, junto ao porto, guardam a memória dessas bodas que selaram a Paz dos Pirenéus. Protegida das fúrias do oceano por três diques, a sua grande baía em concha é uma das raras praias abrigadas da costa basca, o que fez dela uma estância balnear procurada desde o Segundo Império. Em frente, Ciboure viu nascer Maurice Ravel, e o forte de Socoa guarda a entrada da rada. Entre mercado coberto, rue Gambetta, trilho do litoral e aldeias labortanas do interior, a cidade corsária saboreia-se a pé, com o cão pela trela.`,
+    },
+    sights: [
+      {
+        name: `Grande Plage`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `La baie en coquille, abritée par ses digues, offre un sable fin et des eaux calmes rares sur la côte basque. Les chiens y sont interdits en saison estivale, même en laisse : hors saison, la promenade au bord de l'eau redevient possible, à marée basse surtout, en respectant l'arrêté municipal affiché.`,
+          en: `The shell-shaped bay, sheltered by its breakwaters, offers fine sand and calm waters rare on the Basque coast. Dogs are banned here in the summer season, even on a lead: off season, the waterside walk becomes possible again, especially at low tide, following the posted municipal bylaw.`,
+          es: `La bahía en forma de concha, abrigada por sus diques, ofrece arena fina y aguas tranquilas raras en la costa vasca. Los perros están prohibidos en temporada estival, incluso con correa: fuera de temporada, el paseo junto al agua vuelve a ser posible, sobre todo con marea baja, respetando el bando municipal expuesto.`,
+          pt: `A baía em concha, abrigada pelos seus diques, oferece areia fina e águas calmas raras na costa basca. Os cães estão proibidos na época balnear, mesmo com trela: fora de época, o passeio à beira de água volta a ser possível, sobretudo na maré baixa, respeitando o edital municipal afixado.`,
+        },
+      },
+      {
+        name: `Place Louis XIV`,
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Le cœur battant de la ville, entre port et rue Gambetta, aligne platanes, kiosque à musique et terrasses de cafés au pied des maisons d'armateurs. Les chiens en laisse y sont les bienvenus, et la plupart des terrasses acceptent les compagnons sages ; les halles voisines, elles, leur restent fermées.`,
+          en: `The beating heart of the town, between the harbour and rue Gambetta, lines up plane trees, a bandstand and cafe terraces at the foot of the shipowners' houses. Leashed dogs are welcome, and most terraces accept well-behaved companions; the neighbouring covered market, however, stays closed to them.`,
+          es: `El corazón palpitante de la ciudad, entre el puerto y la rue Gambetta, alinea plátanos, un quiosco de música y terrazas de café al pie de las casas de armadores. Los perros con correa son bienvenidos, y la mayoría de las terrazas aceptan compañeros tranquilos; el mercado cubierto vecino, en cambio, les queda vedado.`,
+          pt: `O coração pulsante da cidade, entre o porto e a rue Gambetta, alinha plátanos, um coreto e esplanadas de café ao pé das casas dos armadores. Os cães com trela são bem-vindos, e a maioria das esplanadas aceita companheiros bem-comportados; o mercado coberto vizinho, esse, permanece-lhes fechado.`,
+        },
+      },
+      {
+        name: `Maison Louis XIV`,
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `La demeure d'armateur où logea le Roi-Soleil avant ses noces de 1660 se visite avec son mobilier d'époque et sa cuisine luzienne. Les chiens n'entrent pas dans la maison-musée : relayez-vous pour la visite, la place Louis XIV et les quais tout proches font une agréable salle d'attente.`,
+          en: `The shipowner's mansion where the Sun King stayed before his 1660 wedding can be visited with its period furniture and Luzian kitchen. Dogs do not enter the house-museum: take turns visiting, as place Louis XIV and the nearby quays make a pleasant waiting room.`,
+          es: `La mansión de armador donde se alojó el Rey Sol antes de sus bodas de 1660 se visita con su mobiliario de época y su cocina luziense. Los perros no entran en la casa-museo: turnaos para la visita, la place Louis XIV y los muelles cercanos son una agradable sala de espera.`,
+          pt: `A mansão de armador onde o Rei-Sol se alojou antes das bodas de 1660 visita-se com o seu mobiliário de época e a sua cozinha luziense. Os cães não entram na casa-museu: revezem-se na visita, a place Louis XIV e os cais próximos são uma agradável sala de espera.`,
+        },
+      },
+      {
+        name: `Fort de Socoa`,
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `Commencé sous Henri IV et remanié par Vauban, le fort veille sur l'entrée de la baie depuis la pointe de Socoa, côté Ciboure. La promenade en laisse le long de la digue et du port de Socoa est superbe par gros temps, quand les vagues explosent contre le brise-lames de l'Artha.`,
+          en: `Begun under Henry IV and remodelled by Vauban, the fort watches over the entrance to the bay from the Socoa headland, on the Ciboure side. The on-lead walk along the sea wall and Socoa harbour is superb in heavy weather, when waves explode against the Artha breakwater.`,
+          es: `Comenzado bajo Enrique IV y remodelado por Vauban, el fuerte vigila la entrada de la bahía desde la punta de Socoa, del lado de Ciboure. El paseo con correa a lo largo del dique y del puerto de Socoa es soberbio con mal tiempo, cuando las olas estallan contra el rompeolas del Artha.`,
+          pt: `Começado sob Henrique IV e remodelado por Vauban, o forte vigia a entrada da baía desde a ponta de Socoa, do lado de Ciboure. O passeio com trela ao longo do dique e do porto de Socoa é soberbo com mar bravo, quando as ondas explodem contra o quebra-mar do Artha.`,
+        },
+      },
+      {
+        name: `Sentier du littoral`,
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `De Socoa à Hendaye, le sentier du littoral longe falaises de flysch, criques et landes sur une douzaine de kilomètres face à l'océan, avec la Rhune en toile de fond. C'est la grande sortie des chiens luziens, en laisse : falaises abruptes et troupeaux de brebis imposent de ne pas lâcher.`,
+          en: `From Socoa to Hendaye, the coastal path follows flysch cliffs, coves and heathland for a dozen kilometres facing the ocean, with La Rhune as a backdrop. It is the great outing for local dogs, on lead: sheer cliffs and flocks of sheep mean you should not unclip.`,
+          es: `De Socoa a Hendaya, la senda litoral bordea acantilados de flysch, calas y landas durante una docena de kilómetros frente al océano, con La Rhune de telón de fondo. Es la gran salida de los perros luzienses, con correa: los acantilados abruptos y los rebaños de ovejas obligan a no soltarlos.`,
+          pt: `De Socoa a Hendaia, o trilho do litoral acompanha falésias de flysch, enseadas e charnecas ao longo de uma dúzia de quilómetros frente ao oceano, com La Rhune como pano de fundo. É o grande passeio dos cães locais, com trela: falésias abruptas e rebanhos de ovelhas obrigam a não soltar.`,
+        },
+      },
+      {
+        name: `Ainhoa et les villages du Labourd`,
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `À vingt minutes de route, Ainhoa, Sare et Ascain alignent maisons labourdines à colombages rouges, frontons de pelote et églises à galeries. Places ombragées, sentiers de la Rhune et bords de Nivelle composent un arrière-pays idéal pour flâner en laisse loin de la foule balnéaire.`,
+          en: `Twenty minutes' drive away, Ainhoa, Sare and Ascain line up red-timbered Labourd houses, pelota frontons and galleried churches. Shaded squares, La Rhune footpaths and the banks of the Nivelle make an ideal hinterland for on-lead wandering away from the seaside crowds.`,
+          es: `A veinte minutos por carretera, Ainhoa, Sare y Ascain alinean casas labortanas de entramado rojo, frontones de pelota e iglesias con galerías. Plazas sombreadas, senderos de La Rhune y orillas del Nivelle componen un interior ideal para pasear con correa lejos de la multitud playera.`,
+          pt: `A vinte minutos de estrada, Ainhoa, Sare e Ascain alinham casas labortanas de travejamento vermelho, frontões de pelota e igrejas com galerias. Praças sombreadas, trilhos de La Rhune e margens do Nivelle compõem um interior ideal para passear com trela longe da multidão balnear.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Sur la Grande Plage et les plages urbaines, les chiens sont interdits pendant la saison balnéaire, même en laisse : consultez les arrêtés affichés aux accès, et privilégiez tôt le matin les plages moins surveillées vers Erromardie ou Lafitenia hors zones de baignade.`,
+        `Le sentier du littoral vers Hendaye traverse des pâturages de brebis et longe des falaises sans garde-corps : laisse obligatoire de bout en bout, et gourde d'eau indispensable, les points d'ombre sont rares.`,
+        `En été, l'asphalte du front de mer et le sable chauffent fort l'après-midi : sortez votre chien avant 11 h ou après 19 h, et testez le sol du dos de la main avant de le laisser marcher.`,
+        `Les petits chiens en sac voyagent gratuitement dans les cars Txik Txak du Pays basque ; pour les plus grands, renseignez-vous avant de monter, l'acceptation varie selon les lignes, et en TER l'animal paie un billet à tarif réduit, muselière recommandée pour les grands gabarits.`,
+        `Marées et baïnes ne pardonnent pas sur la côte basque : même par mer d'apparence calme hors de la baie, ne laissez pas votre chien nager près des digues et des courants de sortie, et vérifiez l'horaire de marée avant une balade sous les falaises.`,
+      ],
+      en: [
+        `On the Grande Plage and the town beaches, dogs are banned during the bathing season, even on a lead: check the bylaws posted at the entrances, and favour early mornings on the less supervised beaches towards Erromardie or Lafitenia outside the bathing zones.`,
+        `The coastal path towards Hendaye crosses sheep pastures and skirts cliffs without railings: lead compulsory the whole way, and a water bottle is essential, shady spots are rare.`,
+        `In summer, the seafront asphalt and the sand get very hot in the afternoon: walk your dog before 11am or after 7pm, and test the ground with the back of your hand before letting them walk.`,
+        `Small dogs in carriers travel free on the Basque Country's Txik Txak buses; for bigger dogs, ask before boarding as acceptance varies by line, and on TER trains pets pay a reduced fare, with a muzzle recommended for large dogs.`,
+        `Tides and rip currents are unforgiving on the Basque coast: even in seemingly calm seas outside the bay, do not let your dog swim near the breakwaters and outflow currents, and check the tide times before a walk beneath the cliffs.`,
+      ],
+      es: [
+        `En la Grande Plage y las playas urbanas, los perros están prohibidos durante la temporada de baño, incluso con correa: consulta los bandos expuestos en los accesos y opta a primera hora por las playas menos vigiladas hacia Erromardie o Lafitenia, fuera de las zonas de baño.`,
+        `La senda litoral hacia Hendaya cruza pastos de ovejas y bordea acantilados sin barandillas: correa obligatoria de principio a fin, y cantimplora imprescindible, las sombras escasean.`,
+        `En verano, el asfalto del paseo marítimo y la arena se calientan mucho por la tarde: saca a tu perro antes de las 11 h o después de las 19 h, y prueba el suelo con el dorso de la mano antes de dejarlo caminar.`,
+        `Los perros pequeños en transportín viajan gratis en los autobuses Txik Txak del País Vasco francés; para los grandes, infórmate antes de subir porque la aceptación varía según la línea, y en el TER el animal paga un billete con tarifa reducida, bozal recomendado para los de gran tamaño.`,
+        `Mareas y corrientes de resaca no perdonan en la costa vasca: incluso con mar en apariencia tranquilo fuera de la bahía, no dejes nadar a tu perro cerca de los diques y las corrientes de salida, y comprueba el horario de mareas antes de pasear bajo los acantilados.`,
+      ],
+      pt: [
+        `Na Grande Plage e nas praias urbanas, os cães estão proibidos durante a época balnear, mesmo com trela: consulte os editais afixados nos acessos e prefira de manhã cedo as praias menos vigiadas para os lados de Erromardie ou Lafitenia, fora das zonas de banho.`,
+        `O trilho do litoral para Hendaia atravessa pastagens de ovelhas e contorna falésias sem guarda-corpos: trela obrigatória do princípio ao fim, e cantil de água indispensável, os pontos de sombra são raros.`,
+        `No verão, o asfalto da frente-mar e a areia aquecem muito à tarde: passeie o seu cão antes das 11h ou depois das 19h, e teste o chão com as costas da mão antes de o deixar caminhar.`,
+        `Os cães pequenos em transportadora viajam grátis nos autocarros Txik Txak do País Basco francês; para os maiores, informe-se antes de subir porque a aceitação varia consoante a linha, e no TER o animal paga bilhete a tarifa reduzida, açaime recomendado para os de grande porte.`,
+        `Marés e correntes de retorno não perdoam na costa basca: mesmo com mar aparentemente calmo fora da baía, não deixe o seu cão nadar perto dos diques e das correntes de saída, e verifique o horário das marés antes de um passeio sob as falésias.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Plusieurs cabinets vétérinaires à Saint-Jean-de-Luz et Ciboure pour les soins courants ; pour les urgences de nuit, le 3115 (numéro national vétérinaire de garde, gratuit) oriente vers le service le plus proche, cliniques 24 h/24 à Bayonne-Anglet`,
+        `Numéro d'urgence européen : 112 ; pompiers : 18`,
+        `Animaleries et rayons animaux dans les supermarchés du centre et de la zone de Jalday ; toilettage en ville`,
+        `Cars Txik Txak vers Ciboure, Hendaye et Bayonne : petits chiens en transportín gratuits, grands chiens selon les lignes ; TER vers Biarritz et Hendaye : billet animal à tarif réduit, laisse et muselière recommandées`,
+        `Chiens interdits sur les plages urbaines en saison estivale (arrêtés affichés aux accès) ; toute l'année, laisse obligatoire en ville et sacs à déjections disponibles dans les distributeurs du front de mer`,
+      ],
+      en: [
+        `Several veterinary practices in Saint-Jean-de-Luz and Ciboure for routine care; for night emergencies, 3115 (the free national on-call veterinary number) directs you to the nearest service, with 24-hour clinics in Bayonne-Anglet`,
+        `European emergency number: 112; fire brigade: 18`,
+        `Pet shops and pet aisles in the supermarkets of the centre and the Jalday zone; grooming in town`,
+        `Txik Txak buses to Ciboure, Hendaye and Bayonne: small dogs in carriers travel free, large dogs depending on the line; TER trains to Biarritz and Hendaye: reduced-fare pet ticket, lead and muzzle recommended`,
+        `Dogs banned on the town beaches in the summer season (bylaws posted at the entrances); year round, leads are compulsory in town and waste bags are available from dispensers on the seafront`,
+      ],
+      es: [
+        `Varias consultas veterinarias en San Juan de Luz y Ciboure para cuidados corrientes; para urgencias nocturnas, el 3115 (número nacional veterinario de guardia, gratuito) orienta hacia el servicio más cercano, con clínicas 24 h en Bayona-Anglet`,
+        `Número de emergencias europeo: 112; bomberos: 18`,
+        `Tiendas de animales y secciones de mascotas en los supermercados del centro y de la zona de Jalday; peluquería canina en la ciudad`,
+        `Autobuses Txik Txak hacia Ciboure, Hendaya y Bayona: perros pequeños en transportín gratis, grandes según la línea; TER hacia Biarritz y Hendaya: billete de animal con tarifa reducida, correa y bozal recomendados`,
+        `Perros prohibidos en las playas urbanas en temporada estival (bandos expuestos en los accesos); todo el año, correa obligatoria en la ciudad y bolsas disponibles en los dispensadores del paseo marítimo`,
+      ],
+      pt: [
+        `Vários consultórios veterinários em Saint-Jean-de-Luz e Ciboure para cuidados correntes; para urgências noturnas, o 3115 (número nacional veterinário de urgência, gratuito) encaminha para o serviço mais próximo, com clínicas 24h em Baiona-Anglet`,
+        `Número de emergência europeu: 112; bombeiros: 18`,
+        `Lojas de animais e secções pet nos supermercados do centro e da zona de Jalday; banhos e tosquias na cidade`,
+        `Autocarros Txik Txak para Ciboure, Hendaia e Baiona: cães pequenos em transportadora grátis, cães grandes consoante a linha; TER para Biarritz e Hendaia: bilhete de animal a tarifa reduzida, trela e açaime recomendados`,
+        `Cães proibidos nas praias urbanas na época balnear (editais afixados nos acessos); todo o ano, trela obrigatória na cidade e sacos disponíveis nos dispensadores da frente-mar`,
       ],
     },
   },

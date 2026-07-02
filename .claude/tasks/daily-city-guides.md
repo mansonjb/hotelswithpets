@@ -209,6 +209,33 @@ git push origin main
 
 ---
 
+## 2b. BACKLOG RESORPTION — cityContent for 2-3 existing destinations (every run, AFTER the new cities are shipped)
+
+~98 older destinations have no `cityContent` entry (audit warnings). Each run, after Step 12 of the last new city, absorb 2-3 of them:
+
+1. Get the current backlog list:
+   ```bash
+   node scripts/audit-destinations.mjs 2>&1 | grep -B1 "no cityContent" | grep -oE "^   [a-z-]+" | sed 's/ *//'
+   ```
+2. Pick the first 2-3 alphabetically (or prioritize any that appear in recent guides/GA4 if known).
+3. For each, add a `cityContent` entry in `lib/cityContent.ts` following the EXACT structure of a recent entry (e.g. `tavira`, `sitges`): history ~150 words + 6 sights + 5 petTips + 5 practicalInfo, ALL 4 locales (fr/en/es/pt).
+4. Insertion rules (production breakages have happened here):
+   - Insert ALPHABETICALLY by ASCII slug order; quoted keys for dashed slugs (`'la-spezia':`)
+   - BACKTICKS for every string
+   - The end of file (`}` + `export default cityContent`) must stay intact
+   - After EACH city: `grep -c "^export default cityContent" lib/cityContent.ts` must return 1, and `npx tsc --noEmit` must be clean
+5. Content safety: no fabricated phone numbers or invented business names (112 and country-standard emergency numbers OK). petFriendly flags per widely-known policies. NEVER use em dashes.
+6. Validate (`npm run build`), then commit separately and push:
+   ```bash
+   git add lib/cityContent.ts
+   git commit -m "content: add cityContent for {slugs} (backlog resorption)"
+   git push origin main
+   ```
+
+This is lower priority than the 2 new cities: if the run is close to its time/token budget, ship fewer backlog cities (or zero) rather than risking the main pipeline.
+
+---
+
 ## 3. ANTI-TIMEOUT RULES (critical for cloud execution)
 
 - **Write one file at a time.** Never try to write multiple large JSONs in one tool call.
@@ -229,6 +256,7 @@ Cities completed: {N}/2
   - {city}: ⚠️ stopped at step X because {reason}
 
 Audit result: {N}/50 parity-compliant ({delta} vs baseline)
+Backlog resorption: {N} cityContent entries added ({slugs}), warnings {before} -> {after}
 Commit: {short-sha}
 Pushed: YES/NO
 Remaining warnings: {list}

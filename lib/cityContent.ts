@@ -18897,6 +18897,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  mykonos: {
+    history: {
+      fr: `Selon la mythologie, Mykonos est née des rochers qu'Héraclès lança sur les Géants ; l'histoire retient plutôt une île pauvre de pêcheurs et de marins, satellite du sanctuaire sacré de Délos tout proche. Les vents constants ont façonné ses célèbres moulins et ses maisons cubiques blanchies à la chaux, serrées dans un chef-lieu labyrinthique conçu pour dérouter les pirates. Découverte par les artistes dans les années 1950 puis adoptée par la jet-set, Mykonos est devenue l'île la plus cosmopolite des Cyclades. Hors juillet-août, elle retrouve pourtant un visage plus doux : ruelles calmes de Chora, arrière-pays de murets et de chapelles autour d'Ano Mera, criques désertes balayées par le meltemi. C'est cette Mykonos-là, celle des matins clairs et des sentiers côtiers, qui se savoure le mieux avec un chien, loin des beach clubs et de la foule estivale.`,
+      en: `According to myth, Mykonos was born from the rocks Heracles hurled at the Giants; history records instead a poor island of fishermen and sailors, satellite of the sacred sanctuary of Delos nearby. Constant winds shaped its famous windmills and its whitewashed cubic houses, packed into a labyrinthine main town designed to confuse pirates. Discovered by artists in the 1950s and then adopted by the jet set, Mykonos became the most cosmopolitan island in the Cyclades. Outside July and August, though, it shows a gentler face: quiet lanes in Chora, a hinterland of drystone walls and chapels around Ano Mera, deserted coves swept by the meltemi. It is that Mykonos, the one of clear mornings and coastal paths, that is best savoured with a dog, far from the beach clubs and the summer crowds.`,
+      es: `Según la mitología, Mykonos nació de las rocas que Heracles lanzó contra los Gigantes; la historia recuerda más bien una isla pobre de pescadores y marinos, satélite del santuario sagrado de Delos, muy cercano. Los vientos constantes moldearon sus célebres molinos y sus casas cúbicas encaladas, apiñadas en una capital laberíntica diseñada para despistar a los piratas. Descubierta por los artistas en los años cincuenta y adoptada después por la jet set, Mykonos se convirtió en la isla más cosmopolita de las Cícladas. Fuera de julio y agosto, sin embargo, recupera un rostro más amable: callejuelas tranquilas de Chora, un interior de muretes y capillas en torno a Ano Mera, calas desiertas barridas por el meltemi. Es esa Mykonos, la de las mañanas claras y los senderos costeros, la que mejor se disfruta con perro, lejos de los beach clubs y del gentío estival.`,
+      pt: `Segundo a mitologia, Mykonos nasceu das rochas que Héracles lançou contra os Gigantes; a história regista antes uma ilha pobre de pescadores e marinheiros, satélite do santuário sagrado de Delos, ali ao lado. Os ventos constantes moldaram os seus famosos moinhos e as casas cúbicas caiadas, apertadas numa capital labiríntica desenhada para confundir os piratas. Descoberta pelos artistas nos anos cinquenta e depois adotada pelo jet set, Mykonos tornou-se a ilha mais cosmopolita das Cíclades. Fora de julho e agosto, porém, recupera um rosto mais suave: vielas calmas de Chora, um interior de muros de pedra e capelas à volta de Ano Mera, enseadas desertas varridas pelo meltemi. É essa Mykonos, a das manhãs claras e dos trilhos costeiros, que melhor se saboreia com um cão, longe dos beach clubs e da multidão de verão.`,
+    },
+    sights: [
+      {
+        name: `Kato Mili`,
+        emoji: '🌬️',
+        petFriendly: true,
+        desc: {
+          fr: `Les cinq moulins alignés au-dessus du port sont l'emblème de Mykonos, face au couchant. L'esplanade est en plein air et accessible en laisse : venez tôt le matin pour la photo sans la foule, le vent y souffle fort presque toute l'année.`,
+          en: `The five windmills lined up above the harbour are the emblem of Mykonos, facing the sunset. The esplanade is open-air and accessible on lead: come early in the morning for the photo without the crowd, as the wind blows hard here almost all year.`,
+          es: `Los cinco molinos alineados sobre el puerto son el emblema de Mykonos, mirando al atardecer. La explanada está al aire libre y es accesible con correa: ven temprano para la foto sin gentío, el viento sopla fuerte casi todo el año.`,
+          pt: `Os cinco moinhos alinhados por cima do porto são o emblema de Mykonos, virados para o poente. A esplanada é ao ar livre e acessível com trela: venha de manhã cedo para a fotografia sem multidão, o vento sopra forte quase todo o ano.`,
+        },
+      },
+      {
+        name: `Mikri Venetia (Little Venice)`,
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Les maisons de capitaines aux balcons suspendus au-dessus des vagues composent le quartier le plus photogénique de Chora. La promenade en laisse y est superbe hors saison ; en été, passez au lever du jour, avant que les bars ne déploient leurs terrasses.`,
+          en: `The captains' houses with balconies hanging over the waves form Chora's most photogenic quarter. The on-lead stroll here is superb off season; in summer, pass at daybreak, before the bars roll out their terraces.`,
+          es: `Las casas de capitanes con balcones suspendidos sobre las olas componen el barrio más fotogénico de Chora. El paseo con correa es magnífico fuera de temporada; en verano, pasa al amanecer, antes de que los bares desplieguen sus terrazas.`,
+          pt: `As casas de capitães com varandas suspensas sobre as ondas compõem o bairro mais fotogénico de Chora. O passeio com trela é soberbo fora de época; no verão, passe ao nascer do dia, antes de os bares abrirem as esplanadas.`,
+        },
+      },
+      {
+        name: `Panagia Paraportiani`,
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Cet assemblage de cinq chapelles blanchies, fondu en une seule sculpture de chaux, est l'église la plus célèbre des Cyclades. L'intérieur, rarement ouvert, ne reçoit pas les chiens ; l'extérieur, en revanche, se contemple librement depuis les rochers voisins.`,
+          en: `This cluster of five whitewashed chapels, melted into a single sculpture of lime, is the most famous church in the Cyclades. The interior, rarely open, does not receive dogs; the exterior, however, can be admired freely from the neighbouring rocks.`,
+          es: `Este conjunto de cinco capillas encaladas, fundidas en una sola escultura de cal, es la iglesia más famosa de las Cícladas. El interior, raramente abierto, no recibe perros; el exterior, en cambio, se contempla libremente desde las rocas vecinas.`,
+          pt: `Este conjunto de cinco capelas caiadas, fundidas numa única escultura de cal, é a igreja mais famosa das Cíclades. O interior, raramente aberto, não recebe cães; o exterior, em contrapartida, contempla-se livremente das rochas vizinhas.`,
+        },
+      },
+      {
+        name: `Ano Mera`,
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le seul village de l'intérieur garde la Mykonos d'avant le tourisme : une grande place, des tavernes fréquentées par les habitants et le monastère de la Panagia Tourliani (extérieur seulement pour les chiens). Point de départ idéal de balades dans la campagne à murets.`,
+          en: `The island's only inland village keeps the Mykonos of before tourism: a large square, tavernas frequented by locals and the Panagia Tourliani monastery (exterior only for dogs). An ideal starting point for walks in the drystone-walled countryside.`,
+          es: `El único pueblo del interior conserva la Mykonos de antes del turismo: una gran plaza, tabernas frecuentadas por los vecinos y el monasterio de Panagia Tourliani (solo exterior para los perros). Punto de partida ideal para paseos por el campo de muretes.`,
+          pt: `A única aldeia do interior guarda a Mykonos de antes do turismo: uma grande praça, tabernas frequentadas pelos habitantes e o mosteiro de Panagia Tourliani (só o exterior para os cães). Ponto de partida ideal para passeios pelo campo de muros de pedra.`,
+        },
+      },
+      {
+        name: `Fokos`,
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Au nord-est de l'île, cette plage sauvage sans transats ni musique est le refuge des habitants et de leurs chiens, avec une taverne rustique au-dessus du sable. La piste d'accès décourage la foule : c'est la meilleure option baignade avec un animal en été.`,
+          en: `In the island's northeast, this wild beach with no sunbeds or music is the refuge of locals and their dogs, with a rustic taverna above the sand. The dirt access road keeps the crowds away: it is the best swimming option with a pet in summer.`,
+          es: `En el noreste de la isla, esta playa salvaje sin hamacas ni música es el refugio de los locales y sus perros, con una taberna rústica sobre la arena. La pista de acceso disuade al gentío: es la mejor opción de baño con un animal en verano.`,
+          pt: `No nordeste da ilha, esta praia selvagem sem espreguiçadeiras nem música é o refúgio dos habitantes e dos seus cães, com uma taberna rústica por cima do areal. A estrada de terra de acesso afasta as multidões: é a melhor opção de banho com um animal no verão.`,
+        },
+      },
+      {
+        name: `Faros Armenistis`,
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `Le phare de 1891 veille sur le détroit entre Mykonos et Tinos, au bout d'un cap balayé par le vent. Le site, en plein air et gratuit, offre les plus beaux couchers de soleil de l'île : tenez bien la laisse, les rafales du meltemi y sont sérieuses.`,
+          en: `The 1891 lighthouse watches over the strait between Mykonos and Tinos, at the end of a windswept cape. The site, open-air and free, offers the island's finest sunsets: hold the lead firmly, the meltemi gusts here are serious.`,
+          es: `El faro de 1891 vigila el estrecho entre Mykonos y Tinos, al final de un cabo azotado por el viento. El lugar, al aire libre y gratuito, ofrece las mejores puestas de sol de la isla: sujeta bien la correa, las rachas del meltemi son serias.`,
+          pt: `O farol de 1891 vigia o estreito entre Mykonos e Tinos, no fim de um cabo varrido pelo vento. O local, ao ar livre e gratuito, oferece os mais belos pores do sol da ilha: segure bem a trela, as rajadas do meltemi são a sério.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `En été, les plages organisées du sud (Platis Gialos, Paradise, Ornos) sont couvertes de transats et refusent de fait les chiens en journée : visez Fokos, Mersini ou les criques du nord, ou baignez votre chien tôt le matin.`,
+        `Les water taxis et caïques vers les plages refusent souvent les grands chiens : vérifiez avant d'embarquer ; le réseau de bus KTEL accepte les petits chiens en sac de transport.`,
+        `Le meltemi souffle fort de juin à septembre : sable projeté, oreilles et yeux irrités, chapeaux envolés ; préférez les plages abritées du sud quand il se lève, et sécurisez la laisse près des falaises.`,
+        `Délos, l'île sanctuaire, n'admet pas les chiens sur le site archéologique : prévoyez une garde à Chora si vous voulez faire l'excursion.`,
+        `Chaleur, pavés brûlants et foule dense à Chora en été : sortez votre chien aux heures fraîches et emportez de l'eau, les fontaines sont rares sur les sentiers.`,
+      ],
+      en: [
+        `In summer the organised southern beaches (Platis Gialos, Paradise, Ornos) are blanketed in sunbeds and in practice refuse dogs during the day: aim for Fokos, Mersini or the northern coves, or swim your dog early in the morning.`,
+        `Water taxis and caiques to the beaches often refuse large dogs: check before boarding; the KTEL bus network accepts small dogs in carriers.`,
+        `The meltemi blows hard from June to September: flying sand, irritated ears and eyes, hats gone; prefer the sheltered southern beaches when it rises, and secure the lead near cliffs.`,
+        `Delos, the sanctuary island, does not admit dogs to the archaeological site: arrange day care in Chora if you want to make the trip.`,
+        `Heat, scorching flagstones and dense crowds in Chora in summer: walk your dog at the cool hours and carry water, fountains are rare on the trails.`,
+      ],
+      es: [
+        `En verano, las playas organizadas del sur (Platis Gialos, Paradise, Ornos) están cubiertas de hamacas y en la práctica rechazan perros de día: apunta a Fokos, Mersini o las calas del norte, o baña a tu perro a primera hora.`,
+        `Los water taxis y caiques hacia las playas suelen rechazar perros grandes: compruébalo antes de embarcar; la red de autobuses KTEL acepta perros pequeños en transportín.`,
+        `El meltemi sopla fuerte de junio a septiembre: arena volando, orejas y ojos irritados; prefiere las playas resguardadas del sur cuando se levanta, y asegura la correa cerca de los acantilados.`,
+        `Delos, la isla santuario, no admite perros en el sitio arqueológico: organiza una guardería en Chora si quieres hacer la excursión.`,
+        `Calor, losas ardientes y multitud densa en Chora en verano: pasea a tu perro en las horas frescas y lleva agua, las fuentes escasean en los senderos.`,
+      ],
+      pt: [
+        `No verão, as praias concessionadas do sul (Platis Gialos, Paradise, Ornos) estão cobertas de espreguiçadeiras e na prática recusam cães de dia: procure Fokos, Mersini ou as enseadas do norte, ou dê banho de mar ao cão de manhã cedo.`,
+        `Os táxis aquáticos e caíques para as praias recusam muitas vezes cães grandes: confirme antes de embarcar; a rede de autocarros KTEL aceita cães pequenos em transportadora.`,
+        `O meltemi sopra forte de junho a setembro: areia a voar, orelhas e olhos irritados; prefira as praias abrigadas do sul quando ele se levanta, e segure bem a trela perto das falésias.`,
+        `Delos, a ilha santuário, não admite cães no sítio arqueológico: organize um pet sitter em Chora se quiser fazer a excursão.`,
+        `Calor, lajes escaldantes e multidão densa em Chora no verão: passeie o cão nas horas frescas e leve água, as fontes são raras nos trilhos.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cliniques vétérinaires sur l'île, concentrées autour de Chora et Ano Mera ; pour une urgence lourde, le transfert vers Athènes en ferry ou avion peut s'imposer, anticipez`,
+        `Numéro d'urgence européen : 112 ; l'association locale de protection animale, active sur l'île, secourt les animaux errants`,
+        `Animaleries à Chora et rayons animaux dans les supermarchés de l'île ; stocks réduits hors saison, apportez la nourriture spécifique de votre chien`,
+        `Bus KTEL : petits chiens en sac de transport ; les ferries depuis Le Pirée et Rafina acceptent les chiens (pont extérieur, kennel ou cabine animaux selon compagnie)`,
+        `Passeport européen, puce et vaccin antirabique à jour requis ; prévention leishmaniose et antiparasitaires recommandés de mai à octobre`,
+      ],
+      en: [
+        `Veterinary clinics on the island, concentrated around Chora and Ano Mera; for a serious emergency a transfer to Athens by ferry or plane may be needed, plan ahead`,
+        `European emergency number: 112; the local animal welfare association, active on the island, rescues strays`,
+        `Pet shops in Chora and pet aisles in the island's supermarkets; stocks shrink off season, bring your dog's specific food`,
+        `KTEL buses: small dogs in carriers; ferries from Piraeus and Rafina accept dogs (outer deck, kennel or pet cabin depending on the company)`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required; leishmaniasis prevention and parasite treatments recommended from May to October`,
+      ],
+      es: [
+        `Clínicas veterinarias en la isla, concentradas en torno a Chora y Ano Mera; para una urgencia grave puede ser necesario el traslado a Atenas en ferry o avión, anticípalo`,
+        `Número de emergencias europeo: 112; la asociación local de protección animal, activa en la isla, rescata a los animales callejeros`,
+        `Tiendas de animales en Chora y secciones de mascotas en los supermercados de la isla; existencias reducidas fuera de temporada, trae la comida específica de tu perro`,
+        `Autobuses KTEL: perros pequeños en transportín; los ferris desde El Pireo y Rafina aceptan perros (cubierta exterior, jaula o camarote pet según la compañía)`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios; prevención de leishmaniosis y antiparasitarios recomendados de mayo a octubre`,
+      ],
+      pt: [
+        `Clínicas veterinárias na ilha, concentradas à volta de Chora e Ano Mera; para uma urgência grave pode ser preciso transferir para Atenas de ferry ou avião, antecipe`,
+        `Número de emergência europeu: 112; a associação local de proteção animal, ativa na ilha, socorre os animais de rua`,
+        `Lojas de animais em Chora e secções pet nos supermercados da ilha; stocks reduzidos fora de época, traga a comida específica do seu cão`,
+        `Autocarros KTEL: cães pequenos em transportadora; os ferries do Pireu e de Rafina aceitam cães (convés exterior, canil ou camarote pet conforme a companhia)`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; prevenção da leishmaniose e antiparasitários recomendados de maio a outubro`,
+      ],
+    },
+  },
+
   nantes: {
     history: {
       fr: `Fondée sur les rives de la Loire au Ier siècle par les Romains sous le nom de Portus Namnetum, Nantes est devenue au XVe siècle le siège des Ducs de Bretagne, dont le château, aujourd'hui l'un des monuments les plus visités de France, domine encore le centre-ville. Aux XVIIe et XVIIIe siècles, la ville a prospéré em tant que premier port négrier de France, une période sombre que le Musée d'Histoire de Nantes affronte avec une honnêteté remarquable. La révolte des Vendéens, les guerres de révolution et la reconstruction ont façonné la ville moderne. Aujourd'hui, Nantes est régulièrement élue ville la plus agréable à vivre de France, une réputation construite sur ses espaces verts, sa culture créative avec le Voyage à Nantes, et une culture de l'accueil qui s'étend sincèrement aux animaux de compagnie.`,
@@ -23462,6 +23599,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'saint-tropez': {
+    history: {
+      fr: `Saint-Tropez porte le nom d'un officier romain martyrisé sous Néron, dont la barque aurait accosté ici, gardée par un coq et un chien. Longtemps modeste port de pêche et de cabotage, la ville s'est illustrée par sa fière milice et son bailli, Suffren, héros de la marine royale. Les peintres l'ont découverte les premiers : Signac s'y installe en 1892, suivi de Matisse et Bonnard, séduits par la lumière. Puis vint 1956 : Et Dieu créa la femme, Brigitte Bardot et la Madrague transforment le village en capitale mondiale de la dolce vita. Malgré la légende, Saint-Tropez reste un vrai village provençal, avec son marché, sa citadelle et ses ruelles ocre. Avec un chien, la magie opère hors saison : sentier du littoral au pied des villas, place des Lices sous les platanes, plages de Pampelonne rendues aux promeneurs d'octobre à avril.`,
+      en: `Saint-Tropez bears the name of a Roman officer martyred under Nero, whose boat is said to have drifted ashore here, guarded by a rooster and a dog. Long a modest fishing and coastal-trading port, the town made its name through its proud militia and its bailiff, Suffren, hero of the royal navy. Painters discovered it first: Signac settled here in 1892, followed by Matisse and Bonnard, seduced by the light. Then came 1956: And God Created Woman, Brigitte Bardot and La Madrague turned the village into the world capital of the dolce vita. Despite the legend, Saint-Tropez remains a true Provencal village, with its market, its citadel and its ochre lanes. With a dog, the magic works off season: the coastal path below the villas, the Place des Lices under the plane trees, and the Pampelonne beaches returned to walkers from October to April.`,
+      es: `Saint-Tropez lleva el nombre de un oficial romano martirizado bajo Nerón, cuya barca habría llegado a esta orilla custodiada por un gallo y un perro. Durante siglos modesto puerto de pesca y cabotaje, la villa se distinguió por su orgullosa milicia y por su bailío, Suffren, héroe de la marina real. Los pintores la descubrieron primero: Signac se instaló en 1892, seguido de Matisse y Bonnard, seducidos por la luz. Luego llegó 1956: Y Dios creó a la mujer, Brigitte Bardot y la Madrague convirtieron el pueblo en capital mundial de la dolce vita. Pese a la leyenda, Saint-Tropez sigue siendo un auténtico pueblo provenzal, con su mercado, su ciudadela y sus callejuelas ocre. Con perro, la magia funciona fuera de temporada: sendero litoral al pie de las villas, plaza des Lices bajo los plátanos y playas de Pampelonne devueltas a los paseantes de octubre a abril.`,
+      pt: `Saint-Tropez tem o nome de um oficial romano martirizado sob Nero, cuja barca teria dado à costa aqui, guardada por um galo e um cão. Durante muito tempo modesto porto de pesca e cabotagem, a vila distinguiu-se pela sua orgulhosa milícia e pelo seu bailio, Suffren, herói da marinha real. Os pintores descobriram-na primeiro: Signac instalou-se em 1892, seguido de Matisse e Bonnard, seduzidos pela luz. Depois veio 1956: E Deus Criou a Mulher, Brigitte Bardot e a Madrague transformaram a aldeia na capital mundial da dolce vita. Apesar da lenda, Saint-Tropez continua a ser uma verdadeira aldeia provençal, com o seu mercado, a cidadela e as vielas ocre. Com um cão, a magia funciona fora de época: trilho litoral aos pés das vilas, praça des Lices sob os plátanos e praias de Pampelonne devolvidas aos caminhantes de outubro a abril.`,
+    },
+    sights: [
+      {
+        name: `Vieux Port`,
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: `Les yachts amarrés devant les façades ocre et les cafés mythiques composent la scène la plus célèbre de la Côte d'Azur. La promenade en laisse sur les quais est un plaisir au petit matin, quand les pêcheurs vendent leur poisson et que la foule dort encore.`,
+          en: `The yachts moored before the ochre facades and legendary cafes form the most famous scene on the French Riviera. An on-lead stroll along the quays is a delight in the early morning, when the fishermen sell their catch and the crowds are still asleep.`,
+          es: `Los yates amarrados ante las fachadas ocre y los cafés míticos componen la escena más célebre de la Costa Azul. El paseo con correa por los muelles es un placer al amanecer, cuando los pescadores venden su pescado y la multitud aún duerme.`,
+          pt: `Os iates atracados diante das fachadas ocre e dos cafés míticos compõem a cena mais célebre da Costa Azul. O passeio com trela pelos cais é um prazer de manhã cedo, quando os pescadores vendem o peixe e a multidão ainda dorme.`,
+        },
+      },
+      {
+        name: `Citadelle de Saint-Tropez`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `La forteresse du XVIIe siècle domine le golfe depuis sa colline plantée de pins parasols, où paons et chèvres vivent en liberté. Les glacis et le chemin de ronde extérieur se parcourent en laisse avec une vue superbe ; le donjon-musée, lui, reste fermé aux chiens.`,
+          en: `The 17th-century fortress overlooks the gulf from its hill planted with umbrella pines, where peacocks and goats roam free. The outer slopes and rampart walk can be explored on lead with a superb view; the keep museum itself stays closed to dogs.`,
+          es: `La fortaleza del siglo XVII domina el golfo desde su colina de pinos piñoneros, donde pavos reales y cabras viven en libertad. Los glacis y el camino de ronda exterior se recorren con correa con una vista magnífica; el torreón-museo permanece cerrado a los perros.`,
+          pt: `A fortaleza do século XVII domina o golfo do alto da sua colina de pinheiros-mansos, onde pavões e cabras vivem em liberdade. Os taludes e o caminho de ronda exterior percorrem-se com trela com uma vista soberba; a torre-museu permanece fechada aos cães.`,
+        },
+      },
+      {
+        name: `Sentier du littoral`,
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `De la tour du Portalet à Pampelonne par le cap de Saint-Tropez, ce sentier des douaniers enchaîne criques, rochers roux et villas cachées sur une douzaine de kilomètres. Chiens en laisse bienvenus toute l'année : c'est la plus belle sortie de la presqu'île.`,
+          en: `From the Portalet tower to Pampelonne around the Saint-Tropez cape, this old customs path strings together coves, russet rocks and hidden villas over a dozen kilometres. Leashed dogs welcome year round: it is the finest outing on the peninsula.`,
+          es: `De la torre del Portalet a Pampelonne por el cabo de Saint-Tropez, este sendero de aduaneros encadena calas, rocas rojizas y villas escondidas a lo largo de una docena de kilómetros. Perros con correa bienvenidos todo el año: es la salida más bonita de la península.`,
+          pt: `Da torre do Portalet a Pampelonne pelo cabo de Saint-Tropez, este antigo caminho dos guardas alfandegários encadeia enseadas, rochas ruivas e vilas escondidas ao longo de uma dúzia de quilómetros. Cães com trela bem-vindos todo o ano: é o mais belo passeio da península.`,
+        },
+      },
+      {
+        name: `Place des Lices`,
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Sous les platanes centenaires, la place des Lices vit au rythme de la pétanque et de son grand marché du mardi et du samedi matin. Les chiens en laisse accompagnent naturellement la flânerie entre les étals, et les cafés alentour les accueillent en terrasse.`,
+          en: `Beneath century-old plane trees, the Place des Lices lives to the rhythm of petanque and its big Tuesday and Saturday morning market. Leashed dogs naturally join the wander between the stalls, and the surrounding cafes welcome them on their terraces.`,
+          es: `Bajo los plátanos centenarios, la plaza des Lices vive al ritmo de la petanca y de su gran mercado de los martes y sábados por la mañana. Los perros con correa acompañan con naturalidad el paseo entre los puestos, y los cafés de alrededor los reciben en terraza.`,
+          pt: `Sob os plátanos centenários, a praça des Lices vive ao ritmo da petanca e do seu grande mercado de terça e sábado de manhã. Os cães com trela acompanham naturalmente o passeio entre as bancas, e os cafés em redor recebem-nos na esplanada.`,
+        },
+      },
+      {
+        name: `Plage de Pampelonne`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `Cinq kilomètres de sable fin ont fait la légende balnéaire de Saint-Tropez, entre beach clubs mythiques et dunes protégées. En été, les chiens y sont interdits sur l'essentiel du rivage ; d'octobre à avril, la plage redevient un immense terrain de promenade, certains clubs tolérant alors les chiens sages.`,
+          en: `Five kilometres of fine sand built Saint-Tropez's beach legend, between mythical beach clubs and protected dunes. In summer dogs are banned from most of the shore; from October to April the beach becomes a huge walking ground again, with some clubs then tolerating well-behaved dogs.`,
+          es: `Cinco kilómetros de arena fina forjaron la leyenda playera de Saint-Tropez, entre beach clubs míticos y dunas protegidas. En verano los perros están prohibidos en la mayor parte de la orilla; de octubre a abril la playa vuelve a ser un inmenso terreno de paseo, y algunos clubes toleran entonces a los perros tranquilos.`,
+          pt: `Cinco quilómetros de areia fina construíram a lenda balnear de Saint-Tropez, entre beach clubs míticos e dunas protegidas. No verão, os cães estão proibidos na maior parte do areal; de outubro a abril a praia volta a ser um imenso terreno de passeio, com alguns clubes a tolerarem então cães bem-comportados.`,
+        },
+      },
+      {
+        name: `La Ponche`,
+        emoji: '🐟',
+        petFriendly: true,
+        desc: {
+          fr: `L'ancien quartier des pêcheurs, avec sa placette, sa petite plage de galets et ses ruelles pastel, est le coin le plus authentique du village. Parfait pour une balade en laisse à l'écart du port, avec un plongeon canin possible hors saison sur la plage de la Ponche.`,
+          en: `The old fishermen's quarter, with its little square, small shingle beach and pastel lanes, is the most authentic corner of the village. Perfect for an on-lead wander away from the port, with a canine dip possible off season at La Ponche beach.`,
+          es: `El antiguo barrio de pescadores, con su placita, su pequeña playa de guijarros y sus callejuelas pastel, es el rincón más auténtico del pueblo. Perfecto para un paseo con correa lejos del puerto, con un chapuzón canino posible fuera de temporada en la playa de la Ponche.`,
+          pt: `O antigo bairro dos pescadores, com o seu largo, a pequena praia de calhaus e as vielas pastel, é o canto mais autêntico da aldeia. Perfeito para um passeio com trela longe do porto, com um mergulho canino possível fora de época na praia da Ponche.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `De mi-juin à mi-septembre, les chiens sont interdits sur la plupart des plages de Saint-Tropez et de Pampelonne par arrêté municipal : rabattez-vous sur le sentier du littoral et revenez pour les grandes plages d'octobre à avril.`,
+        `En juillet-août, la presqu'île sature : foule dense, trottoirs brûlants et bouchons monumentaux ; sortez votre chien tôt le matin, et préférez mai, juin, septembre ou l'automne pour un séjour serein.`,
+        `Certains beach clubs de Pampelonne tolèrent les petits chiens sages en basse saison : demandez toujours avant d'installer votre serviette, la politique change chaque année.`,
+        `Le sentier du littoral est superbe mais exposé : eau pour le chien, départ matinal en été, et laisse obligatoire, des passages dominent directement les rochers.`,
+        `Sur le marché de la place des Lices et pendant les Voiles de Saint-Tropez (fin septembre), la densité de foule impose une laisse courte et de la vigilance aux pattes écrasées.`,
+      ],
+      en: [
+        `From mid-June to mid-September dogs are banned from most beaches in Saint-Tropez and Pampelonne by municipal bylaw: fall back on the coastal path and return for the big beaches from October to April.`,
+        `In July and August the peninsula saturates: dense crowds, scorching pavements and monumental traffic jams; walk your dog early in the morning, and prefer May, June, September or autumn for a serene stay.`,
+        `Some Pampelonne beach clubs tolerate small, well-behaved dogs in low season: always ask before settling in, as policies change every year.`,
+        `The coastal path is superb but exposed: water for the dog, an early start in summer, and lead compulsory, as some stretches run directly above the rocks.`,
+        `At the Place des Lices market and during Les Voiles de Saint-Tropez (late September), the crowd density calls for a short lead and vigilance for squashed paws.`,
+      ],
+      es: [
+        `De mediados de junio a mediados de septiembre, los perros están prohibidos en la mayoría de las playas de Saint-Tropez y Pampelonne por bando municipal: recurre al sendero litoral y vuelve a las grandes playas de octubre a abril.`,
+        `En julio y agosto la península se satura: multitudes densas, aceras ardientes y atascos monumentales; pasea a tu perro temprano y prefiere mayo, junio, septiembre o el otoño para una estancia tranquila.`,
+        `Algunos beach clubs de Pampelonne toleran perros pequeños y tranquilos en temporada baja: pregunta siempre antes de instalarte, la política cambia cada año.`,
+        `El sendero litoral es magnífico pero expuesto: agua para el perro, salida temprana en verano y correa obligatoria, algunos tramos dominan directamente las rocas.`,
+        `En el mercado de la plaza des Lices y durante Les Voiles de Saint-Tropez (finales de septiembre), la densidad de gente exige correa corta y atención a las patas pisadas.`,
+      ],
+      pt: [
+        `De meados de junho a meados de setembro, os cães estão proibidos na maioria das praias de Saint-Tropez e Pampelonne por regulamento municipal: recorra ao trilho litoral e volte às grandes praias de outubro a abril.`,
+        `Em julho e agosto a península satura: multidões densas, passeios escaldantes e engarrafamentos monumentais; passeie o cão de manhã cedo e prefira maio, junho, setembro ou o outono para uma estadia serena.`,
+        `Alguns beach clubs de Pampelonne toleram cães pequenos e calmos na época baixa: pergunte sempre antes de se instalar, a política muda todos os anos.`,
+        `O trilho litoral é soberbo mas exposto: água para o cão, partida matinal no verão e trela obrigatória, alguns troços dominam diretamente as rochas.`,
+        `No mercado da praça des Lices e durante Les Voiles de Saint-Tropez (fim de setembro), a densidade da multidão exige trela curta e atenção às patas pisadas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cliniques vétérinaires à Saint-Tropez, Gassin et Cogolin ; le 3115 (numéro national gratuit) oriente vers le vétérinaire de garde 24h/24 sur la presqu'île`,
+        `Numéro d'urgence européen : 112 ; en été, la police municipale renseigne sur les arrêtés plages en vigueur`,
+        `Animaleries et toiletteurs sur la presqu'île (Gassin, Cogolin) et rayons animaux dans les supermarchés`,
+        `Pas de train à Saint-Tropez : bus régionaux acceptant les petits chiens en sac, navettes maritimes depuis Sainte-Maxime tolérant les chiens en laisse ou en sac selon la compagnie`,
+        `Passeport européen, puce et vaccin antirabique à jour requis pour les visiteurs étrangers ; l'été, ne laissez jamais un chien dans une voiture, même à l'ombre`,
+      ],
+      en: [
+        `Veterinary clinics in Saint-Tropez, Gassin and Cogolin; dialling 3115 (free national number) routes you to the on-duty vet 24/7 on the peninsula`,
+        `European emergency number: 112; in summer, the municipal police can tell you which beach bylaws are in force`,
+        `Pet shops and groomers on the peninsula (Gassin, Cogolin) and pet aisles in supermarkets`,
+        `No train to Saint-Tropez: regional buses accept small dogs in carriers, and the ferries from Sainte-Maxime tolerate dogs on lead or in a bag depending on the company`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required for foreign visitors; in summer, never leave a dog in a car, even in the shade`,
+      ],
+      es: [
+        `Clínicas veterinarias en Saint-Tropez, Gassin y Cogolin; el 3115 (número nacional gratuito) dirige al veterinario de guardia 24h en la península`,
+        `Número de emergencias europeo: 112; en verano, la policía municipal informa de los bandos de playas vigentes`,
+        `Tiendas de animales y peluquerías caninas en la península (Gassin, Cogolin) y secciones de mascotas en los supermercados`,
+        `No hay tren en Saint-Tropez: los autobuses regionales aceptan perros pequeños en transportín, y las lanzaderas marítimas desde Sainte-Maxime toleran perros con correa o en bolso según la compañía`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios para visitantes extranjeros; en verano, nunca dejes un perro en el coche, ni siquiera a la sombra`,
+      ],
+      pt: [
+        `Clínicas veterinárias em Saint-Tropez, Gassin e Cogolin; o 3115 (número nacional gratuito) encaminha para o veterinário de serviço 24h na península`,
+        `Número de emergência europeu: 112; no verão, a polícia municipal informa sobre os regulamentos de praia em vigor`,
+        `Lojas de animais e tosquiadores na península (Gassin, Cogolin) e secções pet nos supermercados`,
+        `Não há comboio em Saint-Tropez: os autocarros regionais aceitam cães pequenos em transportadora, e os barcos de ligação desde Sainte-Maxime toleram cães com trela ou em saco conforme a companhia`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios para visitantes estrangeiros; no verão, nunca deixe um cão no carro, mesmo à sombra`,
+      ],
+    },
+  },
+
   salamanca: {
     history: {
       fr: `Salamanque, surnommée « la ville dorée » pour le grès doré qui pare ses monuments, doit sa renommée à son université, fondée en 1218 par Alphonse IX de León, l'une des plus anciennes d'Europe, encore em activité. Inscrite au patrimoine mondial de l'UNESCO en 1988, la ville concentre dans un centre historique compact certains des plus beaux exemples d'architecture plateresque et baroque d'Espagne : la façade ornée de l'université (1529), les deux cathédrales accolées (XIIe et XVIe siècles), la Casa das Conchas et la majestueuse Plaza Mayor (1729) considérée comme la plus belle d'Espagne. Capitale culturelle de la Castille-et-León, Salamanque accueille environ 30 000 étudiants pour 144 000 habitants, une démographie jeune qui anime ses ruelles pavées et ses bars à tapas. À 1h35 de Madrid em train Avant, la ville se découvre à pied avec un chien em laisse : aucune cathédrale ni musée n'admet les animaux, mais l'espace public, plazas, arcades, berges du Tormes, est l'un des plus dog-friendly d'Espagne.`,
@@ -24683,6 +24957,143 @@ const cityContent: Record<string, CityContent> = {
         `Comboio urbano CP desde Lisboa (Rossio ou Oriente) até Sintra em 40 minutos, aceita cães`,
         `Microchip e passaporte europeu de animal obrigatórios; vacina antirrábica em dia para viajar em Portugal`,
         `Cabo da Roca e as praias da costa (Praia das Maçãs, Praia Grande) acessíveis de autocarro 403 ou carro`,
+      ],
+    },
+  },
+
+  sitges: {
+    history: {
+      fr: `Village de pêcheurs et de vignerons devenu capitale du modernisme, Sitges doit sa métamorphose aux « americanos », ces émigrés revenus enrichis de Cuba au XIXe siècle, qui bâtirent les demeures ornées du front de mer. En 1891, le peintre Santiago Rusiñol y installe son atelier du Cau Ferrat et attire Picasso, Casas et toute la bohème barcelonaise : Sitges devient le laboratoire de l'art catalan moderne. Le XXe siècle y ajoute une tradition d'ouverture qui en fait aujourd'hui l'une des destinations les plus accueillantes et festives d'Europe, célèbre pour son carnaval et son festival de cinéma fantastique. Avec 17 plages, une promenade maritime de plusieurs kilomètres, une plage canine dédiée et le massif du Garraf en arrière-plan, Sitges est aussi l'une des stations balnéaires catalanes les plus faciles à vivre avec un chien, à 35 minutes de train de Barcelone.`,
+      en: `A fishing and winegrowing village turned capital of Modernisme, Sitges owes its metamorphosis to the "americanos", emigrants who returned enriched from Cuba in the 19th century and built the ornate mansions along the seafront. In 1891 the painter Santiago Rusiñol set up his Cau Ferrat studio here and drew Picasso, Casas and the whole Barcelona bohème: Sitges became the laboratory of modern Catalan art. The 20th century added a tradition of openness that today makes it one of Europe's most welcoming, festive destinations, famous for its carnival and its fantastic film festival. With 17 beaches, a seafront promenade several kilometres long, a dedicated dog beach and the Garraf massif behind, Sitges is also one of the easiest Catalan seaside towns to enjoy with a dog, 35 minutes by train from Barcelona.`,
+      es: `Pueblo de pescadores y viñadores convertido en capital del modernismo, Sitges debe su metamorfosis a los «americanos», emigrantes que volvieron enriquecidos de Cuba en el siglo XIX y construyeron las mansiones ornamentadas del paseo marítimo. En 1891, el pintor Santiago Rusiñol instaló aquí su taller del Cau Ferrat y atrajo a Picasso, Casas y toda la bohemia barcelonesa: Sitges se convirtió en el laboratorio del arte catalán moderno. El siglo XX añadió una tradición de apertura que hoy la convierte en uno de los destinos más acogedores y festivos de Europa, célebre por su carnaval y su festival de cine fantástico. Con 17 playas, un paseo marítimo de varios kilómetros, una playa canina propia y el macizo del Garraf detrás, Sitges es también una de las localidades costeras catalanas más fáciles de disfrutar con perro, a 35 minutos en tren de Barcelona.`,
+      pt: `Aldeia de pescadores e vinhateiros tornada capital do modernismo, Sitges deve a sua metamorfose aos «americanos», emigrantes que regressaram enriquecidos de Cuba no século XIX e construíram as mansões ornamentadas da frente de mar. Em 1891, o pintor Santiago Rusiñol instalou aqui o seu ateliê do Cau Ferrat e atraiu Picasso, Casas e toda a boémia de Barcelona: Sitges tornou-se o laboratório da arte catalã moderna. O século XX acrescentou uma tradição de abertura que hoje faz dela um dos destinos mais acolhedores e festivos da Europa, famosa pelo seu carnaval e pelo festival de cinema fantástico. Com 17 praias, um passeio marítimo de vários quilómetros, uma praia canina dedicada e o maciço do Garraf por trás, Sitges é também uma das vilas costeiras catalãs mais fáceis de aproveitar com um cão, a 35 minutos de comboio de Barcelona.`,
+    },
+    sights: [
+      {
+        name: `Passeig Marítim`,
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade maritime déroule plusieurs kilomètres de palmiers et de villas modernistes le long des plages, de la Punta au port d'Aiguadolç. C'est la colonne vertébrale des balades en laisse à Sitges, magnifique au lever du soleil quand les plages sont encore vides.`,
+          en: `The seafront promenade unrolls several kilometres of palm trees and Modernista villas along the beaches, from La Punta to Aiguadolç marina. It is the backbone of on-lead walks in Sitges, magnificent at sunrise when the beaches are still empty.`,
+          es: `El paseo marítimo despliega varios kilómetros de palmeras y villas modernistas a lo largo de las playas, de la Punta al puerto de Aiguadolç. Es la columna vertebral de los paseos con correa en Sitges, magnífico al amanecer, cuando las playas aún están vacías.`,
+          pt: `O passeio marítimo estende vários quilómetros de palmeiras e vilas modernistas ao longo das praias, da Punta ao porto de Aiguadolç. É a espinha dorsal dos passeios com trela em Sitges, magnífico ao nascer do sol, quando as praias ainda estão vazias.`,
+        },
+      },
+      {
+        name: `Platja de les Anquines`,
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Près de l'hôtel Terramar, cette petite plage est la zone canine officielle de Sitges : les chiens peuvent s'y baigner toute l'année, un privilège rare sur la côte catalane. Sable, brise-lames et douches à proximité en font le rendez-vous des chiens de la ville.`,
+          en: `Near the Terramar hotel, this small beach is Sitges' official dog zone: dogs can swim here year round, a rare privilege on the Catalan coast. Sand, breakwaters and showers nearby make it the meeting point for the town's dogs.`,
+          es: `Junto al hotel Terramar, esta pequeña playa es la zona canina oficial de Sitges: los perros pueden bañarse todo el año, un privilegio raro en la costa catalana. La arena, los espigones y las duchas cercanas la convierten en el punto de encuentro de los perros de la villa.`,
+          pt: `Perto do hotel Terramar, esta pequena praia é a zona canina oficial de Sitges: os cães podem nadar aqui todo o ano, um privilégio raro na costa catalã. A areia, os quebra-mares e os chuveiros próximos fazem dela o ponto de encontro dos cães da vila.`,
+        },
+      },
+      {
+        name: `Església de Sant Bartomeu i Santa Tecla`,
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Perchée sur son promontoire entre deux plages, l'église du XVIIe siècle est l'image de Sitges par excellence. L'intérieur n'admet pas les chiens, mais l'esplanade du Baluard qui l'entoure, au-dessus des vagues, est l'un des plus beaux belvédères de la côte pour une pause en laisse.`,
+          en: `Perched on its promontory between two beaches, the 17th-century church is the definitive image of Sitges. The interior does not admit dogs, but the Baluard esplanade around it, above the waves, is one of the coast's finest viewpoints for an on-lead pause.`,
+          es: `Encaramada en su promontorio entre dos playas, la iglesia del siglo XVII es la imagen de Sitges por excelencia. El interior no admite perros, pero la explanada del Baluard que la rodea, sobre las olas, es uno de los miradores más bellos de la costa para una pausa con correa.`,
+          pt: `Empoleirada no seu promontório entre duas praias, a igreja do século XVII é a imagem de Sitges por excelência. O interior não admite cães, mas a esplanada do Baluard que a rodeia, sobre as ondas, é um dos mais belos miradouros da costa para uma pausa com trela.`,
+        },
+      },
+      {
+        name: `Casc Antic`,
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Derrière l'église, les ruelles blanches du vieux Sitges cachent patios fleuris, boutiques et façades modernistes comme le Cau Ferrat et Maricel. Les musées ne reçoivent pas les chiens, mais la flânerie en laisse dans ce labyrinthe méditerranéen est un plaisir en soi.`,
+          en: `Behind the church, the white lanes of old Sitges hide flowered patios, boutiques and Modernista facades such as Cau Ferrat and Maricel. The museums do not receive dogs, but wandering this Mediterranean labyrinth on lead is a pleasure in itself.`,
+          es: `Detrás de la iglesia, las callejuelas blancas del viejo Sitges esconden patios floridos, tiendas y fachadas modernistas como el Cau Ferrat y Maricel. Los museos no reciben perros, pero callejear con correa por este laberinto mediterráneo es un placer en sí mismo.`,
+          pt: `Atrás da igreja, as vielas brancas da velha Sitges escondem pátios floridos, lojas e fachadas modernistas como o Cau Ferrat e o Maricel. Os museus não recebem cães, mas deambular com trela por este labirinto mediterrânico é um prazer em si.`,
+        },
+      },
+      {
+        name: `Parc Natural del Garraf`,
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Juste derrière la ville, ce massif calcaire aux allures de garrigue blanche offre des sentiers balisés entre palmiers nains et vues sur la Méditerranée. Les chiens en laisse y sont admis : la boucle depuis La Plana ou la montée vers l'ermitage de la Trinitat font de belles demi-journées.`,
+          en: `Right behind the town, this limestone massif with its white garrigue scenery offers marked trails among dwarf palms and Mediterranean views. Leashed dogs are admitted: the loop from La Plana or the climb to the Trinitat hermitage make fine half-day outings.`,
+          es: `Justo detrás de la villa, este macizo calcáreo con aire de garriga blanca ofrece senderos señalizados entre palmitos y vistas al Mediterráneo. Se admiten perros con correa: el circuito desde La Plana o la subida a la ermita de la Trinitat son buenas salidas de media jornada.`,
+          pt: `Mesmo atrás da vila, este maciço calcário com ar de garrigue branca oferece trilhos marcados entre palmeiras-anãs e vistas sobre o Mediterrâneo. Admitem-se cães com trela: o circuito desde La Plana ou a subida à ermida da Trinitat são belas saídas de meio dia.`,
+        },
+      },
+      {
+        name: `Port d'Aiguadolç`,
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: `À l'est de la ville, la marina d'Aiguadolç aligne voiliers et restaurants de poisson autour d'un bassin abrité. Beaucoup de terrasses y acceptent les chiens, et le chemin côtier qui y mène depuis l'église, taillé dans la falaise basse, est une jolie promenade en laisse.`,
+          en: `East of town, the Aiguadolç marina lines up sailboats and fish restaurants around a sheltered basin. Many terraces accept dogs, and the coastal path leading there from the church, cut into the low cliff, is a pretty on-lead walk.`,
+          es: `Al este de la villa, el puerto de Aiguadolç alinea veleros y restaurantes de pescado en torno a una dársena abrigada. Muchas terrazas aceptan perros, y el camino costero que lleva hasta allí desde la iglesia, tallado en el acantilado bajo, es un bonito paseo con correa.`,
+          pt: `A leste da vila, a marina de Aiguadolç alinha veleiros e restaurantes de peixe em torno de uma doca abrigada. Muitas esplanadas aceitam cães, e o caminho costeiro que lá conduz desde a igreja, talhado na falésia baixa, é um bonito passeio com trela.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `En été, les 17 plages de Sitges sont interdites aux chiens en journée, sauf la zone canine officielle près des Anquines : c'est là que votre chien se baigne toute l'année, douches et promenade à proximité.`,
+        `Fin février-début mars, le carnaval envahit le centre pendant une semaine, chars et foule bruyante jusque tard : si votre chien craint le bruit, évitez ces dates ou logez côté Terramar, à l'écart du vacarme.`,
+        `Les trains Rodalies R2 depuis Barcelone acceptent les chiens gratuitement (laisse et muselière pour les grands, sac pour les petits) : le trajet de 35 minutes en fait une excursion facile.`,
+        `Dans le parc du Garraf, partez tôt en été : le calcaire blanc réverbère la chaleur, les points d'eau sont inexistants et les sentiers sont exposés, emportez plus d'eau que vous ne pensez en avoir besoin.`,
+        `La laisse est obligatoire en ville et les races PPP doivent porter la muselière dans les espaces publics, comme partout en Espagne ; le ramassage est strictement contrôlé sur le Passeig.`,
+      ],
+      en: [
+        `In summer, Sitges' 17 beaches are closed to dogs during the day, except the official dog zone near Les Anquines: that is where your dog swims year round, with showers and the promenade close by.`,
+        `In late February or early March the carnival takes over the centre for a week, with floats and noisy crowds until late: if your dog dislikes noise, avoid those dates or stay on the Terramar side, away from the din.`,
+        `Rodalies R2 trains from Barcelona accept dogs free of charge (lead and muzzle for large dogs, carrier for small ones): the 35-minute ride makes it an easy excursion.`,
+        `In the Garraf park, start early in summer: the white limestone radiates heat, there are no water points and the trails are exposed, so carry more water than you think you need.`,
+        `Leads are compulsory in town and PPP-listed breeds must wear a muzzle in public spaces, as everywhere in Spain; clean-up is strictly enforced on the Passeig.`,
+      ],
+      es: [
+        `En verano, las 17 playas de Sitges están cerradas a los perros durante el día, salvo la zona canina oficial junto a Les Anquines: allí tu perro se baña todo el año, con duchas y el paseo al lado.`,
+        `A finales de febrero o principios de marzo, el carnaval toma el centro durante una semana, con carrozas y multitud ruidosa hasta tarde: si tu perro teme el ruido, evita esas fechas o alójate en la zona de Terramar, lejos del bullicio.`,
+        `Los trenes de Rodalies R2 desde Barcelona aceptan perros gratis (correa y bozal para los grandes, transportín para los pequeños): el trayecto de 35 minutos lo convierte en una excursión fácil.`,
+        `En el parque del Garraf, sal temprano en verano: la caliza blanca reverbera el calor, no hay puntos de agua y los senderos están expuestos, lleva más agua de la que creas necesitar.`,
+        `La correa es obligatoria en la villa y las razas PPP deben llevar bozal en los espacios públicos, como en toda España; la recogida de excrementos se controla estrictamente en el Passeig.`,
+      ],
+      pt: [
+        `No verão, as 17 praias de Sitges estão fechadas aos cães durante o dia, exceto a zona canina oficial junto a Les Anquines: é lá que o seu cão nada todo o ano, com chuveiros e o passeio ao lado.`,
+        `No fim de fevereiro ou início de março, o carnaval toma o centro durante uma semana, com carros alegóricos e multidão barulhenta até tarde: se o seu cão teme o ruído, evite essas datas ou fique do lado de Terramar, longe do bulício.`,
+        `Os comboios Rodalies R2 desde Barcelona aceitam cães gratuitamente (trela e açaime para os grandes, transportadora para os pequenos): a viagem de 35 minutos torna a excursão fácil.`,
+        `No parque do Garraf, parta cedo no verão: o calcário branco irradia calor, não há pontos de água e os trilhos são expostos, leve mais água do que julga precisar.`,
+        `A trela é obrigatória na vila e as raças PPP devem usar açaime nos espaços públicos, como em toda a Espanha; a recolha dos dejetos é rigorosamente controlada no Passeig.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Plusieurs cliniques vétérinaires en ville ; pour les urgences de nuit, les hôpitaux vétérinaires 24h de la région de Barcelone sont à 30-40 minutes par la C-32`,
+        `Numéro d'urgence européen : 112 ; la police locale renseigne sur les zones et horaires autorisés aux chiens`,
+        `Animaleries dans le centre et près du marché, rayons animaux dans les supermercats de la ville`,
+        `Trains Rodalies R2 gratuits pour les chiens (laisse + muselière ou sac) ; bus urbains : petits chiens en transportín ; taxis à la discrétion du chauffeur`,
+        `Passeport européen, puce et vaccin antirabique à jour requis ; prévention leishmaniose recommandée sur la côte méditerranéenne d'avril à novembre`,
+      ],
+      en: [
+        `Several veterinary clinics in town; for night emergencies, the 24-hour veterinary hospitals of the Barcelona area are 30-40 minutes away via the C-32`,
+        `European emergency number: 112; the local police can tell you the zones and hours where dogs are allowed`,
+        `Pet shops in the centre and near the market, pet aisles in the town's supermarkets`,
+        `Rodalies R2 trains free for dogs (lead plus muzzle, or carrier); city buses: small dogs in carriers; taxis at the driver's discretion`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required; leishmaniasis prevention recommended on the Mediterranean coast from April to November`,
+      ],
+      es: [
+        `Varias clínicas veterinarias en la villa; para urgencias nocturnas, los hospitales veterinarios 24h del área de Barcelona están a 30-40 minutos por la C-32`,
+        `Número de emergencias europeo: 112; la policía local informa sobre las zonas y horarios permitidos para perros`,
+        `Tiendas de animales en el centro y junto al mercado, secciones de mascotas en los supermercados de la villa`,
+        `Trenes Rodalies R2 gratuitos para perros (correa y bozal, o transportín); autobuses urbanos: perros pequeños en transportín; taxis a criterio del conductor`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios; prevención de la leishmaniosis recomendada en la costa mediterránea de abril a noviembre`,
+      ],
+      pt: [
+        `Várias clínicas veterinárias na vila; para urgências noturnas, os hospitais veterinários 24h da área de Barcelona ficam a 30-40 minutos pela C-32`,
+        `Número de emergência europeu: 112; a polícia local informa sobre as zonas e horários permitidos aos cães`,
+        `Lojas de animais no centro e junto ao mercado, secções pet nos supermercados da vila`,
+        `Comboios Rodalies R2 gratuitos para cães (trela e açaime, ou transportadora); autocarros urbanos: cães pequenos em transportadora; táxis ao critério do motorista`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; prevenção da leishmaniose recomendada na costa mediterrânica de abril a novembro`,
       ],
     },
   },

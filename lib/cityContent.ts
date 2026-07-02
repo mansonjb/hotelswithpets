@@ -20938,6 +20938,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  quiberon: {
+    history: {
+      fr: `Rattachée au continent par un simple cordon de sable, la presqu'île de Quiberon a tout d'une île : un côté baie, abrité et doux, un côté océan, la Côte Sauvage, où l'Atlantique cogne dans les criques et les arches de granit. Haut lieu de la pêche à la sardine au XIXe siècle, Quiberon a vu naître les conserveries qui font encore la fierté locale. C'est aussi ici que la thalassothérapie moderne a pris son essor : le coureur cycliste Louison Bobet y ouvrit en 1964 un institut pionnier qui lança la vocation bien-être de la station. Port d'embarquement pour Belle-Île-en-Mer, la ville vit au rythme des ferries et des marées. Avec un chien, Quiberon est une destination rêvée hors saison : sentier côtier grandiose, plages immenses à marée basse et villages de pêcheurs où les terrasses tolèrent volontiers les pattes sablées.`,
+      en: `Attached to the mainland by a mere ribbon of sand, the Quiberon peninsula feels like an island: a bay side, sheltered and gentle, and an ocean side, the Côte Sauvage, where the Atlantic pounds coves and granite arches. A stronghold of sardine fishing in the 19th century, Quiberon gave rise to canneries that remain a local pride. Modern thalassotherapy also took off here: cycling champion Louison Bobet opened a pioneering institute in 1964 that launched the resort's wellness vocation. The departure port for Belle-Île-en-Mer, the town lives to the rhythm of ferries and tides. With a dog, Quiberon is a dream destination off season: a grandiose coastal path, immense beaches at low tide and fishing villages where terraces happily tolerate sandy paws.`,
+      es: `Unida al continente por un simple cordón de arena, la península de Quiberon tiene todo de una isla: un lado de bahía, resguardado y suave, y un lado de océano, la Côte Sauvage, donde el Atlántico golpea calas y arcos de granito. Gran centro de la pesca de sardina en el siglo XIX, Quiberon vio nacer las conserveras que aún son orgullo local. Aquí despegó también la talasoterapia moderna: el ciclista Louison Bobet abrió en 1964 un instituto pionero que lanzó la vocación de bienestar de la estación. Puerto de embarque hacia Belle-Île-en-Mer, la ciudad vive al ritmo de los ferris y las mareas. Con perro, Quiberon es un destino soñado fuera de temporada: sendero costero grandioso, playas inmensas en marea baja y pueblos pesqueros donde las terrazas toleran de buen grado las patas con arena.`,
+      pt: `Ligada ao continente por um simples cordão de areia, a península de Quiberon tem tudo de uma ilha: um lado de baía, abrigado e suave, e um lado de oceano, a Côte Sauvage, onde o Atlântico bate nas enseadas e nos arcos de granito. Grande centro da pesca da sardinha no século XIX, Quiberon viu nascer as conserveiras que ainda são orgulho local. Foi também aqui que a talassoterapia moderna ganhou fôlego: o ciclista Louison Bobet abriu em 1964 um instituto pioneiro que lançou a vocação de bem-estar da estância. Porto de embarque para Belle-Île-en-Mer, a cidade vive ao ritmo dos ferries e das marés. Com um cão, Quiberon é um destino de sonho fora de época: trilho costeiro grandioso, praias imensas na maré baixa e aldeias piscatórias onde as esplanadas toleram de bom grado as patas com areia.`,
+    },
+    sights: [
+      {
+        name: `Côte Sauvage`,
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Huit kilomètres de falaises, d'arches et de criques battues par les vagues sur la façade océane de la presqu'île. Le sentier côtier se parcourt en laisse, spectacle garanti par gros temps, mais la baignade y est dangereuse pour tous, chiens compris.`,
+          en: `Eight kilometres of cliffs, arches and wave-battered coves on the ocean side of the peninsula. The coastal path is walked on lead, guaranteed spectacle in rough weather, but swimming here is dangerous for everyone, dogs included.`,
+          es: `Ocho kilómetros de acantilados, arcos y calas batidas por las olas en la fachada oceánica de la península. El sendero costero se recorre con correa, espectáculo garantizado con mala mar, pero el baño aquí es peligroso para todos, perros incluidos.`,
+          pt: `Oito quilómetros de falésias, arcos e enseadas batidas pelas ondas na fachada oceânica da península. O trilho costeiro percorre-se com trela, espetáculo garantido com mar bravo, mas o banho aqui é perigoso para todos, cães incluídos.`,
+        },
+      },
+      {
+        name: `Pointe du Conguel`,
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `À l'extrême pointe de la presqu'île, cette lande rase face à Belle-Île et Houat est balayée par les embruns. Boucle de promenade facile en laisse, avec vue sur le phare de la Teignouse et les voiliers qui filent vers les îles.`,
+          en: `At the very tip of the peninsula, this low heathland facing Belle-Île and Houat is swept by sea spray. An easy on-lead walking loop, with views of the Teignouse lighthouse and the sailboats slipping out to the islands.`,
+          es: `En el extremo de la península, esta landa rasa frente a Belle-Île y Houat está barrida por el salitre. Un bucle de paseo fácil con correa, con vistas al faro de la Teignouse y a los veleros que enfilan hacia las islas.`,
+          pt: `No extremo da península, esta charneca rasa frente a Belle-Île e Houat é varrida pela maresia. Um circuito de passeio fácil com trela, com vista para o farol da Teignouse e para os veleiros que rumam às ilhas.`,
+        },
+      },
+      {
+        name: `Port Maria`,
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Le port de Quiberon mêle chalutiers, criée et ferries pour Belle-Île, dans une odeur d'iode et de crêpes. Les quais et la digue font une balade vivante en laisse, avec les meilleures sardines grillées de la côte en terrasse.`,
+          en: `Quiberon's harbour mixes trawlers, a fish auction and the Belle-Île ferries, in a scent of iodine and crêpes. The quays and breakwater make a lively on-lead walk, with the coast's best grilled sardines served on the terraces.`,
+          es: `El puerto de Quiberon mezcla arrastreros, lonja y ferris hacia Belle-Île, entre olor a yodo y a crepes. Los muelles y el espigón forman un paseo animado con correa, con las mejores sardinas a la brasa de la costa en las terrazas.`,
+          pt: `O porto de Quiberon mistura traineiras, lota e ferries para Belle-Île, num cheiro a iodo e a crepes. Os cais e o molhe fazem um passeio animado com trela, com as melhores sardinhas grelhadas da costa nas esplanadas.`,
+        },
+      },
+      {
+        name: `Grande Plage de Quiberon`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `La plage familiale du centre-ville étale son sable fin au fond de la baie, face aux villas Belle Époque. Comme souvent en Bretagne, les chiens y sont interdits en saison estivale : rabattez-vous sur les portions non surveillées et la Côte Sauvage tôt le matin.`,
+          en: `The family beach in the town centre spreads its fine sand at the head of the bay, facing Belle Époque villas. As often in Brittany, dogs are banned here in the summer season: fall back on the unsupervised stretches and the Côte Sauvage early in the morning.`,
+          es: `La playa familiar del centro extiende su arena fina al fondo de la bahía, frente a las villas de la Belle Époque. Como suele ocurrir en Bretaña, los perros están prohibidos en temporada estival: recurre a los tramos no vigilados y a la Côte Sauvage a primera hora.`,
+          pt: `A praia familiar do centro estende a sua areia fina no fundo da baía, frente às vilas da Belle Époque. Como é habitual na Bretanha, os cães estão proibidos na época de verão: opte pelos troços não vigiados e pela Côte Sauvage de manhã cedo.`,
+        },
+      },
+      {
+        name: `Belle-Île-en-Mer`,
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `La plus grande île bretonne se rejoint en 45 minutes de ferry depuis Port Maria. Les compagnies acceptent les chiens sur le pont, en général tenus en laisse et muselés selon leurs conditions : vérifiez les règles au moment de réserver la traversée.`,
+          en: `Brittany's largest island is 45 minutes by ferry from Port Maria. The ferry companies accept dogs on deck, generally leashed and muzzled per their conditions: check the rules when booking the crossing.`,
+          es: `La mayor isla bretona se alcanza en 45 minutos de ferry desde Port Maria. Las compañías aceptan perros en cubierta, en general con correa y bozal según sus condiciones: revisa las normas al reservar la travesía.`,
+          pt: `A maior ilha bretã alcança-se em 45 minutos de ferry desde Port Maria. As companhias aceitam cães no convés, em geral com trela e açaime segundo as suas condições: verifique as regras ao reservar a travessia.`,
+        },
+      },
+      {
+        name: `Château Turpault`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Ce manoir anglo-médiéval de 1904, posé sur un promontoire à l'entrée de la Côte Sauvage, est le plus photographié du Morbihan. Propriété privée, il ne se visite pas, mais le sentier qui contourne la pointe offre des vues superbes en laisse.`,
+          en: `This 1904 Anglo-medieval manor, set on a promontory at the entrance to the Côte Sauvage, is the most photographed in Morbihan. Privately owned, it cannot be visited, but the path around the point offers superb views on lead.`,
+          es: `Esta mansión anglo-medieval de 1904, posada en un promontorio a la entrada de la Côte Sauvage, es la más fotografiada de Morbihan. Es propiedad privada y no se visita, pero el sendero que rodea la punta ofrece vistas soberbias con correa.`,
+          pt: `Este solar anglo-medieval de 1904, pousado num promontório à entrada da Côte Sauvage, é o mais fotografado do Morbihan. Propriedade privada, não se visita, mas o trilho que contorna a ponta oferece vistas soberbas com trela.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Comme sur la plupart des plages bretonnes, les chiens sont interdits sur les plages surveillées de Quiberon en été (généralement de juin à septembre) : la Côte Sauvage et les criques non surveillées restent vos alliées tôt le matin.`,
+        `Sur la Côte Sauvage, la baignade est interdite pour cause de courants violents : ne laissez jamais votre chien approcher des rouleaux, même par temps calme.`,
+        `Pour Belle-Île, chaque compagnie maritime a ses règles : chien admis sur le pont, souvent muselé, parfois avec billet ; renseignez-vous à la réservation, surtout en haute saison.`,
+        `Les marées découvrent d'immenses estrans : superbe terrain de jeu, mais surveillez la remontée de l'eau qui isole vite certains rochers.`,
+        `L'été, l'unique route d'accès à la presqu'île sature : voyagez tôt, avec eau et ombre pour le chien en cas de bouchon, ou préférez le petit train saisonnier du Tire-Bouchon depuis Auray.`,
+      ],
+      en: [
+        `As on most Breton beaches, dogs are banned from Quiberon's supervised beaches in summer (generally June to September): the Côte Sauvage and unsupervised coves remain your allies early in the morning.`,
+        `Swimming is forbidden on the Côte Sauvage due to violent currents: never let your dog near the breakers, even in calm weather.`,
+        `For Belle-Île, each ferry company has its own rules: dogs allowed on deck, often muzzled, sometimes with a ticket; check when booking, especially in high season.`,
+        `The tides uncover immense foreshores: a superb playground, but watch the rising water, which quickly cuts off some rocks.`,
+        `In summer the single access road to the peninsula clogs up: travel early, with water and shade for the dog in case of jams, or take the seasonal Tire-Bouchon train from Auray.`,
+      ],
+      es: [
+        `Como en la mayoría de las playas bretonas, los perros están prohibidos en las playas vigiladas de Quiberon en verano (en general de junio a septiembre): la Côte Sauvage y las calas sin vigilancia siguen siendo tus aliadas a primera hora.`,
+        `En la Côte Sauvage el baño está prohibido por las corrientes violentas: no dejes que tu perro se acerque a las rompientes, ni siquiera con mar en calma.`,
+        `Para Belle-Île, cada naviera tiene sus normas: perro admitido en cubierta, a menudo con bozal, a veces con billete; infórmate al reservar, sobre todo en temporada alta.`,
+        `Las mareas descubren inmensas playas: un terreno de juego magnífico, pero vigila la subida del agua, que aísla rápido algunas rocas.`,
+        `En verano la única carretera de acceso a la península se satura: viaja temprano, con agua y sombra para el perro por si hay atascos, o toma el trenecito estacional Tire-Bouchon desde Auray.`,
+      ],
+      pt: [
+        `Como na maioria das praias bretãs, os cães estão proibidos nas praias vigiadas de Quiberon no verão (em geral de junho a setembro): a Côte Sauvage e as enseadas não vigiadas continuam a ser as suas aliadas de manhã cedo.`,
+        `Na Côte Sauvage o banho está proibido devido às correntes violentas: nunca deixe o seu cão aproximar-se da rebentação, mesmo com mar calmo.`,
+        `Para Belle-Île, cada companhia marítima tem as suas regras: cão admitido no convés, muitas vezes com açaime, por vezes com bilhete; informe-se ao reservar, sobretudo na época alta.`,
+        `As marés descobrem imensos areais: um recreio soberbo, mas vigie a subida da água, que isola depressa alguns rochedos.`,
+        `No verão, a única estrada de acesso à península satura: viaje cedo, com água e sombra para o cão em caso de fila, ou apanhe o comboio sazonal Tire-Bouchon desde Auray.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cliniques vétérinaires sur la presqu'île et à Auray ; en France, le 3115 est le numéro national gratuit des urgences vétérinaires de garde`,
+        `Numéro d'urgence européen : 112 ; hors saison, certains cabinets réduisent leurs horaires, anticipez les renouvellements de traitement`,
+        `Animaleries et rayons animaux dans les supermarchés de Quiberon et de Saint-Pierre-Quiberon`,
+        `Le train saisonnier Tire-Bouchon (Auray-Quiberon) applique les règles SNCF : petits chiens en sac, grands chiens en laisse et muselière avec billet`,
+        `Passeport européen, puce et vaccin antirabique à jour pour voyager en France ; pensez au traitement antiparasitaire, les tiques sont actives dans la lande`,
+      ],
+      en: [
+        `Veterinary clinics on the peninsula and in Auray; in France, 3115 is the free national number for on-duty veterinary emergencies`,
+        `European emergency number: 112; off season some practices reduce their hours, plan treatment renewals ahead`,
+        `Pet shops and pet aisles in the supermarkets of Quiberon and Saint-Pierre-Quiberon`,
+        `The seasonal Tire-Bouchon train (Auray to Quiberon) applies SNCF rules: small dogs in bags, large dogs leashed and muzzled with a ticket`,
+        `EU pet passport, microchip and up-to-date rabies vaccination to travel in France; keep parasite treatment current, ticks are active in the heathland`,
+      ],
+      es: [
+        `Clínicas veterinarias en la península y en Auray; en Francia, el 3115 es el número nacional gratuito de urgencias veterinarias de guardia`,
+        `Número de emergencias europeo: 112; fuera de temporada algunas consultas reducen horario, anticipa las renovaciones de tratamiento`,
+        `Tiendas de animales y secciones de mascotas en los supermercados de Quiberon y Saint-Pierre-Quiberon`,
+        `El tren estacional Tire-Bouchon (Auray-Quiberon) aplica las normas de la SNCF: perros pequeños en bolsa, grandes con correa y bozal y con billete`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día para viajar por Francia; mantén la protección antiparasitaria, las garrapatas están activas en la landa`,
+      ],
+      pt: [
+        `Clínicas veterinárias na península e em Auray; em França, o 3115 é o número nacional gratuito das urgências veterinárias de serviço`,
+        `Número de emergência europeu: 112; fora de época alguns consultórios reduzem o horário, antecipe as renovações de tratamento`,
+        `Lojas de animais e secções pet nos supermercados de Quiberon e de Saint-Pierre-Quiberon`,
+        `O comboio sazonal Tire-Bouchon (Auray-Quiberon) aplica as regras da SNCF: cães pequenos em bolsa, cães grandes com trela e açaime e com bilhete`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia para viajar em França; mantenha a proteção antiparasitária, as carraças estão ativas na charneca`,
+      ],
+    },
+  },
+
   reims: {
     history: {
       fr: `Reims, surnommée « la cité des sacres », a vu couronner trente-trois rois de France entre 816 et 1825 dans sa cathédrale Notre-Dame, chef-d'œuvre gothique inscrit au patrimoine mondial de l'UNESCO depuis 1991 avec le Palais du Tau et la basilique Saint-Remi. Située à 45 minutes de Paris em TGV, la capitale historique de la Champagne combine héritage royal et terroir viticole d'exception : les caves de Pommery, Taittinger, Veuve Clicquot et Ruinart s'étendent sous la ville dans d'anciennes crayères gallo-romaines. Largement détruite lors de la Première Guerre mondiale, Reims fut reconstruite dans le style Art déco caractéristique des années 1920, visible Place Drouet d'Erlon et le long de la rue de Vesle. Aujourd'hui, ville d'environ 180 000 habitants entourée de vignes classées UNESCO depuis 2015, Reims propose un cadre élégant et facile à parcourir avec un chien : avenues larges, nombreux parcs et chemins de halage le long du canal de l'Aisne à la Marne.`,
@@ -23047,6 +23184,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  santorini: {
+    history: {
+      fr: `Santorin est le fragment d'un cataclysme : vers 1600 avant notre ère, l'éruption minoenne, l'une des plus violentes de l'histoire humaine, a fait s'effondrer le centre de l'île, créant la caldeira noyée que l'on admire aujourd'hui. La cité d'Akrotiri, ensevelie sous les cendres comme une Pompéi égéenne, témoigne de la civilisation raffinée qui vivait là. Pendant des siècles, l'île vécut pauvrement de la vigne, cultivée en couronnes tressées contre le vent, et de ses carrières de pierre ponce. Le tourisme a tout changé à partir des années 1970, faisant des villages blancs d'Oia et de Fira des icônes mondiales du couchant. Avec un chien, Santorin se mérite : chaleur, foule et escaliers exigent de l'organisation, mais le sentier de la caldeira au petit matin, les plages de sable noir et les villages de l'intérieur récompensent largement l'effort.`,
+      en: `Santorini is the fragment of a cataclysm: around 1600 BC, the Minoan eruption, one of the most violent in human history, collapsed the centre of the island, creating the drowned caldera admired today. The town of Akrotiri, buried under ash like an Aegean Pompeii, testifies to the refined civilisation that lived here. For centuries the island lived poorly off its vines, trained into woven crowns against the wind, and its pumice quarries. Tourism changed everything from the 1970s, turning the white villages of Oia and Fira into global icons of the sunset. With a dog, Santorini has to be earned: heat, crowds and stairways demand planning, but the caldera trail at first light, the black sand beaches and the inland villages amply reward the effort.`,
+      es: `Santorini es el fragmento de un cataclismo: hacia 1600 a. C., la erupción minoica, una de las más violentas de la historia humana, hundió el centro de la isla y creó la caldera anegada que hoy se admira. La ciudad de Akrotiri, sepultada bajo la ceniza como una Pompeya egea, atestigua la refinada civilización que vivía allí. Durante siglos la isla vivió pobremente de la viña, trenzada en coronas contra el viento, y de sus canteras de piedra pómez. El turismo lo cambió todo a partir de los años setenta, convirtiendo los pueblos blancos de Oia y Fira en iconos mundiales del atardecer. Con perro, Santorini hay que ganársela: calor, gentío y escaleras exigen organización, pero el sendero de la caldera al amanecer, las playas de arena negra y los pueblos del interior recompensan con creces el esfuerzo.`,
+      pt: `Santorini é o fragmento de um cataclismo: por volta de 1600 a.C., a erupção minoica, uma das mais violentas da história humana, fez desabar o centro da ilha, criando a caldeira submersa que hoje se admira. A cidade de Akrotiri, sepultada sob as cinzas como uma Pompeia egeia, testemunha a civilização refinada que ali vivia. Durante séculos, a ilha viveu pobremente da vinha, entrançada em coroas contra o vento, e das suas pedreiras de pedra-pomes. O turismo mudou tudo a partir dos anos setenta, transformando as aldeias brancas de Oia e Fira em ícones mundiais do pôr do sol. Com um cão, Santorini tem de se merecer: calor, multidões e escadarias exigem organização, mas o trilho da caldeira ao nascer do dia, as praias de areia negra e as aldeias do interior recompensam largamente o esforço.`,
+    },
+    sights: [
+      {
+        name: `Oia`,
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le village le plus photographié des Cyclades empile ses maisons blanches et ses dômes bleus au bord de la caldeira. On s'y promène en laisse tôt le matin, avant la foule ; au coucher du soleil, la cohue des ruelles devient éprouvante pour un chien.`,
+          en: `The most photographed village in the Cyclades stacks its white houses and blue domes on the caldera rim. Walk it on lead early in the morning, before the crowds; at sunset the crush in the lanes becomes trying for a dog.`,
+          es: `El pueblo más fotografiado de las Cícladas apila sus casas blancas y cúpulas azules al borde de la caldera. Se pasea con correa a primera hora, antes del gentío; al atardecer, la aglomeración de las callejuelas resulta agotadora para un perro.`,
+          pt: `A aldeia mais fotografada das Cíclades empilha as suas casas brancas e cúpulas azuis à beira da caldeira. Passeia-se com trela de manhã cedo, antes da multidão; ao pôr do sol, o aperto das ruelas torna-se penoso para um cão.`,
+        },
+      },
+      {
+        name: `Fira-Oia`,
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Dix kilomètres de crête entre les deux villages, avec la caldeira en contrebas tout du long : c'est l'une des plus belles marches de la Méditerranée. Faisable avec un chien en laisse, uniquement tôt le matin, avec beaucoup d'eau, l'itinéraire est sans ombre.`,
+          en: `Ten kilometres of ridgeline between the two villages, with the caldera below all the way: one of the finest walks in the Mediterranean. Doable with a leashed dog, only early in the morning and with plenty of water, the route has no shade.`,
+          es: `Diez kilómetros de cresta entre los dos pueblos, con la caldera abajo todo el camino: una de las caminatas más bellas del Mediterráneo. Factible con perro atado, solo a primera hora y con mucha agua, el itinerario no tiene sombra.`,
+          pt: `Dez quilómetros de cumeada entre as duas aldeias, com a caldeira lá em baixo todo o caminho: uma das mais belas caminhadas do Mediterrâneo. Possível com cão pela trela, apenas de manhã cedo e com muita água, o percurso não tem sombra.`,
+        },
+      },
+      {
+        name: `Akrotiri`,
+        emoji: '🏺',
+        petFriendly: false,
+        desc: {
+          fr: `La « Pompéi égéenne », ville minoenne figée par l'éruption il y a 3 600 ans, se visite sous une halle moderne aux passerelles suspendues. Comme dans les sites archéologiques grecs, les chiens n'y sont pas admis : organisez la visite en relais.`,
+          en: `The "Aegean Pompeii", a Minoan town frozen by the eruption 3,600 years ago, is visited under a modern canopy with raised walkways. As at Greek archaeological sites generally, dogs are not admitted: plan to visit in turns.`,
+          es: `La «Pompeya egea», ciudad minoica congelada por la erupción hace 3.600 años, se visita bajo una cubierta moderna con pasarelas elevadas. Como en los sitios arqueológicos griegos, los perros no se admiten: organiza la visita por turnos.`,
+          pt: `A «Pompeia egeia», cidade minoica congelada pela erupção há 3.600 anos, visita-se sob uma cobertura moderna com passadiços elevados. Como nos sítios arqueológicos gregos, os cães não são admitidos: organize a visita por turnos.`,
+        },
+      },
+      {
+        name: `Perissa`,
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La longue plage de sable noir du sud-est, adossée au rocher de Mesa Vouno, est bordée de tavernes décontractées. Hors des zones aménagées de transats et en dehors du cœur de l'été, on y marche agréablement avec un chien en laisse, le sable noir brûle vite au soleil.`,
+          en: `The long black sand beach of the southeast, backed by the Mesa Vouno rock, is lined with laid-back tavernas. Away from the organised sunbed zones and outside peak summer, it makes a pleasant walk with a leashed dog, though black sand heats up fast in the sun.`,
+          es: `La larga playa de arena negra del sureste, respaldada por la roca de Mesa Vouno, está bordeada de tabernas relajadas. Fuera de las zonas organizadas de hamacas y del pleno verano, se pasea a gusto con el perro atado, aunque la arena negra quema rápido al sol.`,
+          pt: `A longa praia de areia negra do sudeste, encostada ao rochedo de Mesa Vouno, está bordejada de tavernas descontraídas. Fora das zonas organizadas de espreguiçadeiras e fora do pico do verão, passeia-se bem com o cão pela trela, embora a areia negra aqueça depressa ao sol.`,
+        },
+      },
+      {
+        name: `Ancient Thera`,
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          fr: `Perchée sur la crête de Mesa Vouno, la cité antique mêle vestiges doriens, hellénistiques et romains au-dessus de la mer Égée. Le site archéologique n'accepte pas les chiens, mais la route en lacets qui y monte offre déjà des panoramas saisissants.`,
+          en: `Perched on the Mesa Vouno ridge, the ancient city mixes Doric, Hellenistic and Roman remains above the Aegean. The archaeological site does not accept dogs, but the switchback road up already offers striking panoramas.`,
+          es: `Encaramada en la cresta de Mesa Vouno, la ciudad antigua mezcla vestigios dóricos, helenísticos y romanos sobre el Egeo. El sitio arqueológico no acepta perros, pero la carretera de curvas que sube ya regala panorámicas impactantes.`,
+          pt: `Empoleirada na crista de Mesa Vouno, a cidade antiga mistura vestígios dóricos, helenísticos e romanos sobre o Egeu. O sítio arqueológico não aceita cães, mas a estrada em ziguezague que lá sobe já oferece panoramas impressionantes.`,
+        },
+      },
+      {
+        name: `Pyrgos`,
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Ancienne capitale de l'île, ce village perché autour de son kastro vénitien reste étonnamment paisible. Ses ruelles en escalier se montent en laisse jusqu'à un panorama à 360 degrés sur la caldeira et les vignes, loin de la cohue d'Oia.`,
+          en: `The island's former capital, this hilltop village wrapped around its Venetian kastro remains surprisingly peaceful. Its stepped lanes climb on lead to a 360-degree panorama over the caldera and vineyards, far from the Oia crush.`,
+          es: `Antigua capital de la isla, este pueblo encaramado en torno a su kastro veneciano sigue sorprendentemente tranquilo. Sus callejuelas escalonadas se suben con correa hasta una panorámica de 360 grados sobre la caldera y los viñedos, lejos del bullicio de Oia.`,
+          pt: `Antiga capital da ilha, esta aldeia empoleirada em torno do seu kastro veneziano continua surpreendentemente tranquila. As suas ruelas em escada sobem-se com trela até um panorama de 360 graus sobre a caldeira e as vinhas, longe do bulício de Oia.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `De juin à septembre, la chaleur est écrasante et l'ombre quasi absente sur la caldeira : sorties uniquement à l'aube et en soirée, jamais aux heures chaudes, et de l'eau en permanence.`,
+        `Ne faites jamais le trajet du vieux port de Fira à dos de mule et évitez ces escaliers glissants avec un chien : préférez le téléphérique (animaux en général acceptés en cage ou portés, vérifiez sur place) ou la route.`,
+        `Le sable noir des plages atteint des températures extrêmes en été : testez-le avec la main et réservez la plage au matin.`,
+        `L'île compte de nombreux chats et chiens errants, globalement pacifiques : gardez votre chien en laisse et à distance des groupes nourris par les habitants.`,
+        `Sur les ferries inter-îles, les animaux voyagent en général sur les ponts extérieurs ou dans les cabines pet-friendly des compagnies : réservez tôt, ces places sont limitées.`,
+      ],
+      en: [
+        `From June to September the heat is crushing and shade almost absent on the caldera: walk only at dawn and in the evening, never in the hot hours, and carry water at all times.`,
+        `Never take the mule ride from Fira's old port and avoid those slippery stairways with a dog: prefer the cable car (animals generally accepted caged or carried, check on site) or the road.`,
+        `The black sand of the beaches reaches extreme temperatures in summer: test it with your hand and keep beach time to the morning.`,
+        `The island has many stray cats and dogs, mostly peaceful: keep your dog leashed and away from groups being fed by locals.`,
+        `On inter-island ferries, pets generally travel on the outer decks or in the companies' pet-friendly cabins: book early, these spots are limited.`,
+      ],
+      es: [
+        `De junio a septiembre el calor es aplastante y la sombra casi inexistente en la caldera: paseos solo al amanecer y al atardecer, nunca en las horas calientes, y agua siempre a mano.`,
+        `No hagas nunca el trayecto del puerto viejo de Fira a lomos de mula y evita esas escaleras resbaladizas con perro: mejor el teleférico (animales en general aceptados en transportín o en brazos, confírmalo allí) o la carretera.`,
+        `La arena negra de las playas alcanza temperaturas extremas en verano: pruébala con la mano y reserva la playa para la mañana.`,
+        `La isla tiene muchos gatos y perros callejeros, en general pacíficos: lleva a tu perro atado y a distancia de los grupos que alimentan los vecinos.`,
+        `En los ferris entre islas, las mascotas viajan por lo general en las cubiertas exteriores o en los camarotes pet-friendly de las navieras: reserva pronto, esas plazas son limitadas.`,
+      ],
+      pt: [
+        `De junho a setembro o calor é esmagador e a sombra quase inexistente na caldeira: passeios apenas de madrugada e ao fim do dia, nunca nas horas quentes, e água sempre à mão.`,
+        `Nunca faça o trajeto do porto velho de Fira em lombo de mula e evite essas escadarias escorregadias com um cão: prefira o teleférico (animais em geral aceites em caixa ou ao colo, confirme no local) ou a estrada.`,
+        `A areia negra das praias atinge temperaturas extremas no verão: teste-a com a mão e reserve a praia para a manhã.`,
+        `A ilha tem muitos gatos e cães errantes, na sua maioria pacíficos: mantenha o seu cão pela trela e afastado dos grupos alimentados pelos moradores.`,
+        `Nos ferries entre ilhas, os animais viajam em geral nos conveses exteriores ou nas cabinas pet-friendly das companhias: reserve cedo, esses lugares são limitados.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cliniques vétérinaires à Fira et dans les principaux villages ; pour les cas graves, une évacuation vers Athènes peut s'imposer, souscrivez une assurance qui la couvre`,
+        `Numéro d'urgence européen : 112 ; l'association locale de protection animale SAWA est une référence connue de l'île pour les animaux en détresse`,
+        `Animaleries à Fira et rayons animaux dans les supermarchés de l'île ; stocks limités, apportez la nourriture spécifique de votre chien`,
+        `Bus KTEL de l'île : petits animaux en caisse de transport uniquement ; en taxi, l'acceptation dépend du chauffeur, précisez-le à la réservation`,
+        `Passeport européen, puce et vaccin antirabique à jour pour entrer en Grèce ; en ferry comme en avion, déclarez l'animal à la réservation`,
+      ],
+      en: [
+        `Veterinary clinics in Fira and the main villages; for serious cases an evacuation to Athens may be needed, carry insurance that covers it`,
+        `European emergency number: 112; the local animal welfare association SAWA is a well-known island reference for animals in distress`,
+        `Pet shops in Fira and pet aisles in the island's supermarkets; stocks are limited, bring your dog's specific food`,
+        `Island KTEL buses: small pets in carriers only; in taxis acceptance depends on the driver, mention the dog when booking`,
+        `EU pet passport, microchip and up-to-date rabies vaccination to enter Greece; on ferries as on planes, declare the animal when booking`,
+      ],
+      es: [
+        `Clínicas veterinarias en Fira y en los principales pueblos; para casos graves puede ser necesaria una evacuación a Atenas, contrata un seguro que la cubra`,
+        `Número de emergencias europeo: 112; la asociación local de protección animal SAWA es una referencia conocida en la isla para animales en apuros`,
+        `Tiendas de animales en Fira y secciones de mascotas en los supermercados de la isla; existencias limitadas, trae la comida específica de tu perro`,
+        `Autobuses KTEL de la isla: mascotas pequeñas solo en transportín; en taxi la aceptación depende del conductor, avísalo al reservar`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día para entrar en Grecia; tanto en ferry como en avión, declara al animal al reservar`,
+      ],
+      pt: [
+        `Clínicas veterinárias em Fira e nas principais aldeias; para casos graves pode ser necessária uma evacuação para Atenas, leve um seguro que a cubra`,
+        `Número de emergência europeu: 112; a associação local de proteção animal SAWA é uma referência conhecida na ilha para animais em dificuldade`,
+        `Lojas de animais em Fira e secções pet nos supermercados da ilha; stocks limitados, traga a comida específica do seu cão`,
+        `Autocarros KTEL da ilha: animais pequenos apenas em caixa de transporte; nos táxis a aceitação depende do motorista, avise ao reservar`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia para entrar na Grécia; no ferry como no avião, declare o animal ao reservar`,
+      ],
+    },
+  },
+
   seville: {
     history: {
       fr: `L'identité de Séville s'est forgée dans l'empire : Hispalis sous Rome, Ishbiliya sous les Almohades, puis port atlantique exclusif des Indes espagnoles après 1503, elle a fait transiter l'argent du Nouveau Monde par sa Torre del Oro et vu naître Velázquez, Murillo et le flamenco. Il em résulte une ville de patios parfumés à l'oranger, d'azulejos mudéjars et de la plus grande cathédrale gothique au monde. Les Sévillans entretiennent un rapport très social avec leurs chiens, fruit d'un mode de vie place-et-patio où le perro de casa suit simplement la famille au bar à tapas. L'été bouleverse tout autour de l'ombre : chiens et maîtres vivent nocturnes de juin à septembre, les berges ombragées du Guadalquivir faisant office de salon extérieur.`,
@@ -24467,6 +24741,143 @@ const cityContent: Record<string, CityContent> = {
         `Clima continental templado: veranos calurosos (20-30 °C em julho-agosto), inviernos frescos (-2 a 5 °C, nieve ocasional de dezembro a fevereiro), lleva um abrigo para raças de pelo curto.`,
         `Os donos de cães de Stuttgart pagan uma Hundesteuer anual (108 € en 2026), mas os viajeros con estadia inferior a 21 dias están exentos.`,
         `Edeka, Rewe e dm-Drogerie são as cadenas habituales para pienso e accesorios; para marcas premium, Fressnapf tem várias tiendas nas afueras.`,
+      ],
+    },
+  },
+
+  syracuse: {
+    history: {
+      fr: `Fondée en 734 avant notre ère par des colons corinthiens, Syracuse fut l'une des plus puissantes cités du monde grec, rivale d'Athènes et patrie d'Archimède, mort ici lors du siège romain de 212 avant notre ère. Cicéron la décrivait comme « la plus grande et la plus belle des villes grecques ». De cette gloire subsistent le théâtre grec, les latomies et l'Oreille de Denys, dans le parc archéologique de Neapolis. Le cœur de la ville, lui, bat sur l'île d'Ortigia, labyrinthe baroque reconstruit après le séisme de 1693, où le Duomo occupe un temple d'Athéna dont les colonnes doriques affleurent encore dans les murs. Classée à l'UNESCO, Syracuse se vit à pied : avec un chien, Ortigia au petit matin, la promenade de mer et la réserve du Plemmirio composent un itinéraire sicilien lumineux, entre pierre dorée et eau turquoise.`,
+      en: `Founded in 734 BC by Corinthian settlers, Syracuse was one of the most powerful cities of the Greek world, a rival of Athens and home of Archimedes, killed here during the Roman siege of 212 BC. Cicero called it "the greatest and most beautiful of Greek cities". From that glory remain the Greek theatre, the latomie quarries and the Ear of Dionysius, in the Neapolis archaeological park. The heart of the city beats on the island of Ortigia, a baroque labyrinth rebuilt after the 1693 earthquake, where the Duomo occupies a temple of Athena whose Doric columns still surface in the walls. UNESCO-listed, Syracuse is lived on foot: with a dog, Ortigia at first light, the seafront promenade and the Plemmirio reserve compose a luminous Sicilian itinerary of golden stone and turquoise water.`,
+      es: `Fundada en el 734 a. C. por colonos corintios, Siracusa fue una de las ciudades más poderosas del mundo griego, rival de Atenas y patria de Arquímedes, muerto aquí durante el asedio romano del 212 a. C. Cicerón la describía como «la más grande y hermosa de las ciudades griegas». De aquella gloria quedan el teatro griego, las latomías y la Oreja de Dionisio, en el parque arqueológico de Neápolis. El corazón de la ciudad late en la isla de Ortigia, laberinto barroco reconstruido tras el terremoto de 1693, donde el Duomo ocupa un templo de Atenea cuyas columnas dóricas aún asoman en los muros. Declarada por la UNESCO, Siracusa se vive a pie: con perro, Ortigia al amanecer, el paseo marítimo y la reserva del Plemmirio componen un itinerario siciliano luminoso, entre piedra dorada y agua turquesa.`,
+      pt: `Fundada em 734 a.C. por colonos coríntios, Siracusa foi uma das cidades mais poderosas do mundo grego, rival de Atenas e pátria de Arquimedes, morto aqui durante o cerco romano de 212 a.C. Cícero descrevia-a como «a maior e mais bela das cidades gregas». Dessa glória restam o teatro grego, as latomias e a Orelha de Dionísio, no parque arqueológico de Neápolis. O coração da cidade bate na ilha de Ortigia, labirinto barroco reconstruído depois do terramoto de 1693, onde o Duomo ocupa um templo de Atena cujas colunas dóricas ainda afloram nas paredes. Classificada pela UNESCO, Siracusa vive-se a pé: com um cão, Ortigia ao nascer do dia, o passeio marítimo e a reserva do Plemmirio compõem um itinerário siciliano luminoso, entre pedra dourada e água turquesa.`,
+    },
+    sights: [
+      {
+        name: `Ortigia`,
+        emoji: '🏝️',
+        petFriendly: true,
+        desc: {
+          fr: `L'île-centre historique de Syracuse se parcourt en laisse entre palais baroques, ruelles ombragées et front de mer. Tôt le matin, quand les pêcheurs rentrent et que les places sont vides, c'est l'une des plus belles promenades urbaines de Sicile.`,
+          en: `Syracuse's historic island centre is explored on lead between baroque palaces, shaded lanes and the seafront. Early in the morning, when the fishermen return and the squares are empty, it is one of Sicily's finest urban walks.`,
+          es: `La isla-centro histórico de Siracusa se recorre con correa entre palacios barrocos, callejuelas sombreadas y paseo marítimo. A primera hora, cuando vuelven los pescadores y las plazas están vacías, es uno de los paseos urbanos más bellos de Sicilia.`,
+          pt: `A ilha-centro histórico de Siracusa percorre-se com trela entre palácios barrocos, ruelas sombreadas e frente de mar. De manhã cedo, quando os pescadores regressam e as praças estão vazias, é um dos mais belos passeios urbanos da Sicília.`,
+        },
+      },
+      {
+        name: `Parco Archeologico della Neapolis`,
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          fr: `Le théâtre grec taillé dans la roche, l'Oreille de Denys et les latomies composent l'un des grands sites antiques de Méditerranée. Les chiens n'y sont en général pas admis : visitez en relais pendant que votre compagnon profite d'une pause à l'ombre.`,
+          en: `The rock-cut Greek theatre, the Ear of Dionysius and the latomie quarries form one of the Mediterranean's great ancient sites. Dogs are generally not admitted: visit in turns while your companion enjoys a break in the shade.`,
+          es: `El teatro griego tallado en la roca, la Oreja de Dionisio y las latomías forman uno de los grandes sitios antiguos del Mediterráneo. Los perros por lo general no se admiten: visitad por turnos mientras tu compañero disfruta de una pausa a la sombra.`,
+          pt: `O teatro grego talhado na rocha, a Orelha de Dionísio e as latomias formam um dos grandes sítios antigos do Mediterrâneo. Os cães em geral não são admitidos: visitem por turnos enquanto o seu companheiro aproveita uma pausa à sombra.`,
+        },
+      },
+      {
+        name: `Fonte Aretusa`,
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: `Cette source d'eau douce au bord de la mer, plantée de papyrus sauvages, nourrit les mythes depuis l'Antiquité : la nymphe Aréthuse s'y serait changée en fontaine. Le belvédère qui la surplombe et le lungomare voisin se promènent librement en laisse.`,
+          en: `This freshwater spring at the sea's edge, planted with wild papyrus, has fed myths since antiquity: the nymph Arethusa is said to have turned into a fountain here. The overlooking belvedere and the neighbouring lungomare are freely walked on lead.`,
+          es: `Este manantial de agua dulce al borde del mar, plantado de papiros silvestres, alimenta los mitos desde la Antigüedad: la ninfa Aretusa se habría transformado aquí en fuente. El mirador que lo domina y el lungomare vecino se pasean libremente con correa.`,
+          pt: `Esta nascente de água doce à beira-mar, plantada de papiros selvagens, alimenta os mitos desde a Antiguidade: a ninfa Aretusa ter-se-ia transformado aqui em fonte. O miradouro que a domina e o lungomare vizinho passeiam-se livremente com trela.`,
+        },
+      },
+      {
+        name: `Riserva del Plemmirio`,
+        emoji: '🐬',
+        petFriendly: true,
+        desc: {
+          fr: `La réserve marine au sud de la ville aligne criques calcaires, eau cristalline et sentiers côtiers sur la presqu'île de la Maddalena. Les chemins se parcourent en laisse ; pour la baignade canine, respectez la signalisation, certaines criques la restreignent en été.`,
+          en: `The marine reserve south of the city lines up limestone coves, crystalline water and coastal trails on the Maddalena peninsula. The paths are walked on lead; for dog swimming follow the signage, some coves restrict it in summer.`,
+          es: `La reserva marina al sur de la ciudad alinea calas calcáreas, agua cristalina y senderos costeros en la península de la Maddalena. Los caminos se recorren con correa; para el baño canino respeta la señalización, algunas calas lo restringen en verano.`,
+          pt: `A reserva marinha a sul da cidade alinha enseadas calcárias, água cristalina e trilhos costeiros na península da Maddalena. Os caminhos percorrem-se com trela; para o banho canino respeite a sinalização, algumas enseadas restringem-no no verão.`,
+        },
+      },
+      {
+        name: `Duomo di Siracusa`,
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `La cathédrale d'Ortigia enveloppe un temple dorique d'Athéna du Ve siècle avant notre ère, dont les colonnes traversent les murs. Les chiens n'entrent pas, mais la Piazza Duomo, en pierre blanche incurvée, est l'un des plus beaux salons urbains d'Italie.`,
+          en: `Ortigia's cathedral wraps around a 5th-century BC Doric temple of Athena, whose columns run through its walls. Dogs stay outside, but Piazza Duomo, a curve of white stone, is one of Italy's most beautiful urban drawing rooms.`,
+          es: `La catedral de Ortigia envuelve un templo dórico de Atenea del siglo V a. C., cuyas columnas atraviesan los muros. Los perros no entran, pero la Piazza Duomo, de piedra blanca curvada, es uno de los salones urbanos más bellos de Italia.`,
+          pt: `A catedral de Ortigia envolve um templo dórico de Atena do século V a.C., cujas colunas atravessam as paredes. Os cães ficam à porta, mas a Piazza Duomo, em pedra branca curvada, é um dos mais belos salões urbanos de Itália.`,
+        },
+      },
+      {
+        name: `Mercato di Ortigia`,
+        emoji: '🛒',
+        petFriendly: true,
+        desc: {
+          fr: `Le marché matinal de la via de Benedictis déborde d'agrumes, de poissons et de fromages siciliens, dans un joyeux vacarme de criées. Les chiens en laisse s'y faufilent sans problème hors de l'heure de pointe ; les sandwichs des comptoirs valent l'attente.`,
+          en: `The morning market on via de Benedictis overflows with citrus, fish and Sicilian cheeses in a joyful din of hawkers. Leashed dogs weave through without trouble outside peak hour; the counter sandwiches are worth the queue.`,
+          es: `El mercado matinal de la via de Benedictis rebosa cítricos, pescado y quesos sicilianos en un alegre estruendo de pregones. Los perros con correa se cuelan sin problema fuera de la hora punta; los bocadillos de los mostradores valen la espera.`,
+          pt: `O mercado matinal da via de Benedictis transborda de citrinos, peixe e queijos sicilianos, num alegre alarido de pregões. Os cães pela trela circulam sem problema fora da hora de ponta; as sandes dos balcões valem a espera.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `En Italie, la laisse est obligatoire en ville et vous devez avoir une muselière sur vous, à mettre si les autorités ou un transporteur le demandent.`,
+        `L'été sicilien est brûlant : promenades à l'aube et en soirée uniquement, jamais sur les pavés d'Ortigia en pleine journée, ils stockent la chaleur.`,
+        `Sur les plages libres, les chiens sont tolérés hors saison mais souvent interdits sur les lidos aménagés en été : cherchez les criques du Plemmirio et vérifiez la signalisation communale.`,
+        `Les bus urbains AST acceptent les petits animaux en caisse ; pour les grands chiens, muselière et billet peuvent être exigés selon le règlement en vigueur.`,
+        `Traitement antiparasitaire indispensable : la leishmaniose est endémique dans le sud de l'Italie, protégez votre chien contre les phlébotomes du printemps à l'automne.`,
+      ],
+      en: [
+        `In Italy leads are compulsory in town and you must carry a muzzle, to be fitted if the authorities or a transport operator request it.`,
+        `The Sicilian summer is scorching: walks at dawn and in the evening only, never on Ortigia's flagstones in the middle of the day, they store the heat.`,
+        `On free beaches dogs are tolerated off season but often banned from the managed lidos in summer: look for the Plemmirio coves and check the municipal signage.`,
+        `AST city buses accept small pets in carriers; for large dogs a muzzle and ticket may be required under the current rules.`,
+        `Parasite protection is essential: leishmaniasis is endemic in southern Italy, protect your dog against sandflies from spring to autumn.`,
+      ],
+      es: [
+        `En Italia la correa es obligatoria en la ciudad y debes llevar un bozal encima, para ponerlo si las autoridades o un transportista lo piden.`,
+        `El verano siciliano es abrasador: paseos solo al amanecer y al atardecer, nunca sobre las losas de Ortigia a mediodía, acumulan el calor.`,
+        `En las playas libres los perros se toleran fuera de temporada pero suelen estar prohibidos en los lidos acondicionados en verano: busca las calas del Plemmirio y revisa la señalización municipal.`,
+        `Los autobuses urbanos AST aceptan mascotas pequeñas en transportín; para perros grandes pueden exigirse bozal y billete según el reglamento vigente.`,
+        `La protección antiparasitaria es imprescindible: la leishmaniosis es endémica en el sur de Italia, protege a tu perro contra los flebotomos de primavera a otoño.`,
+      ],
+      pt: [
+        `Em Itália, a trela é obrigatória na cidade e deve trazer um açaime consigo, a colocar se as autoridades ou um transportador o pedirem.`,
+        `O verão siciliano é escaldante: passeios apenas de madrugada e ao fim do dia, nunca sobre as lajes de Ortigia a meio do dia, elas acumulam o calor.`,
+        `Nas praias livres os cães são tolerados fora de época mas muitas vezes proibidos nos lidos concessionados no verão: procure as enseadas do Plemmirio e verifique a sinalização municipal.`,
+        `Os autocarros urbanos AST aceitam animais pequenos em caixa de transporte; para cães grandes podem ser exigidos açaime e bilhete segundo o regulamento em vigor.`,
+        `A proteção antiparasitária é indispensável: a leishmaniose é endémica no sul de Itália, proteja o seu cão contra os flebótomos da primavera ao outono.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cliniques vétérinaires à Syracuse et dans les communes voisines ; pour les urgences complexes, les structures vétérinaires de Catane sont à environ une heure de route`,
+        `Numéro d'urgence européen : 112 ; votre hébergement saura indiquer le vétérinaire de garde du secteur`,
+        `Animaleries en ville et rayons animaux dans les supermarchés ; boutiques plus rares sur Ortigia même`,
+        `Trains régionaux Trenitalia : petits animaux en caisse gratuits, grands chiens en laisse et muselière avec billet réduit selon les règles en vigueur`,
+        `Passeport européen, puce et vaccin antirabique à jour obligatoires ; prévoyez aussi la prévention leishmaniose et tiques adaptée au sud de l'Italie`,
+      ],
+      en: [
+        `Veterinary clinics in Syracuse and the neighbouring towns; for complex emergencies, the veterinary facilities of Catania are about an hour away by road`,
+        `European emergency number: 112; your accommodation will know the vet on duty in the area`,
+        `Pet shops in town and pet aisles in supermarkets; shops are scarcer on Ortigia itself`,
+        `Trenitalia regional trains: small pets in carriers travel free, large dogs on lead and muzzled with a reduced-fare ticket under current rules`,
+        `EU pet passport, microchip and up-to-date rabies vaccination are mandatory; also plan leishmaniasis and tick prevention suited to southern Italy`,
+      ],
+      es: [
+        `Clínicas veterinarias en Siracusa y en los municipios vecinos; para urgencias complejas, las estructuras veterinarias de Catania están a una hora por carretera`,
+        `Número de emergencias europeo: 112; tu alojamiento sabrá indicarte el veterinario de guardia de la zona`,
+        `Tiendas de animales en la ciudad y secciones de mascotas en los supermercados; comercios más escasos en la propia Ortigia`,
+        `Trenes regionales de Trenitalia: mascotas pequeñas en transportín gratis, perros grandes con correa y bozal con billete reducido según las normas vigentes`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día, obligatorios; prevé también la prevención de leishmaniosis y garrapatas adecuada al sur de Italia`,
+      ],
+      pt: [
+        `Clínicas veterinárias em Siracusa e nos municípios vizinhos; para urgências complexas, as estruturas veterinárias de Catânia ficam a cerca de uma hora de carro`,
+        `Número de emergência europeu: 112; o seu alojamento saberá indicar o veterinário de serviço da zona`,
+        `Lojas de animais na cidade e secções pet nos supermercados; comércio mais escasso na própria Ortigia`,
+        `Comboios regionais da Trenitalia: animais pequenos em caixa de transporte grátis, cães grandes com trela e açaime com bilhete reduzido segundo as regras em vigor`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia, obrigatórios; preveja também a prevenção de leishmaniose e carraças adequada ao sul de Itália`,
       ],
     },
   },

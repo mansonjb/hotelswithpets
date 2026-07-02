@@ -14705,6 +14705,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'la-rochelle': {
+    history: {
+      fr: `La Rochelle fut l'un des plus grands ports de l'Atlantique : libre et commerçante dès le XIIe siècle, elle s'enrichit du sel, du vin puis du commerce avec le Nouveau Monde. Place forte protestante, elle résista treize mois au siège de Richelieu en 1627-1628, un épisode qui marqua à jamais son identité frondeuse. Ses trois tours médiévales gardent toujours l'entrée du Vieux-Port, et ses rues à arcades du centre historique rappellent la prospérité des armateurs. Pionnière de l'écologie urbaine (premier secteur piétonnier de France, vélos en libre-service dès 1974), La Rochelle est aujourd'hui une ville à taille humaine, tournée vers la voile et la mer. Avec un chien, on y savoure les quais, le parc Charruyer qui traverse la ville sur 2 km, les digues des Minimes et la proximité immédiate de l'île de Ré, accessible par le pont.`,
+      en: `La Rochelle was one of the great Atlantic ports: free and mercantile from the 12th century, it grew rich on salt, wine and then trade with the New World. A Protestant stronghold, it withstood Richelieu's siege for thirteen months in 1627-1628, an episode that forever shaped its independent spirit. Its three medieval towers still guard the entrance to the Vieux-Port, and the arcaded streets of the old centre recall the wealth of its shipowners. A pioneer of urban ecology (France's first pedestrian district, bike-share as early as 1974), La Rochelle is today a human-scale city devoted to sailing and the sea. With a dog you can enjoy the quays, the Parc Charruyer running 2 km through the city, the sea walls at Les Minimes and the immediate proximity of the Île de Ré, reached by the bridge.`,
+      es: `La Rochelle fue uno de los grandes puertos del Atlántico: libre y comercial desde el siglo XII, se enriqueció con la sal, el vino y luego el comercio con el Nuevo Mundo. Plaza fuerte protestante, resistió trece meses el asedio de Richelieu en 1627-1628, un episodio que marcó para siempre su espíritu indomable. Sus tres torres medievales siguen guardando la entrada del Vieux-Port, y las calles con soportales del centro histórico recuerdan la prosperidad de sus armadores. Pionera de la ecología urbana (primer sector peatonal de Francia, bicicletas compartidas desde 1974), La Rochelle es hoy una ciudad a escala humana, volcada en la vela y el mar. Con perro se disfrutan los muelles, el parque Charruyer que atraviesa la ciudad a lo largo de 2 km, los diques de Les Minimes y la cercanía inmediata de la isla de Ré, accesible por el puente.`,
+      pt: `La Rochelle foi um dos grandes portos do Atlântico: livre e mercantil desde o século XII, enriqueceu com o sal, o vinho e depois o comércio com o Novo Mundo. Praça-forte protestante, resistiu treze meses ao cerco de Richelieu em 1627-1628, um episódio que marcou para sempre o seu espírito independente. As suas três torres medievais continuam a guardar a entrada do Vieux-Port, e as ruas com arcadas do centro histórico lembram a prosperidade dos armadores. Pioneira da ecologia urbana (primeiro setor pedonal de França, bicicletas partilhadas desde 1974), La Rochelle é hoje uma cidade à escala humana, virada para a vela e o mar. Com um cão, saboreiam-se os cais, o parque Charruyer que atravessa a cidade ao longo de 2 km, os diques de Les Minimes e a proximidade imediata da ilha de Ré, acessível pela ponte.`,
+    },
+    sights: [
+      {
+        name: `Vieux-Port`,
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Le Vieux-Port, gardé par les tours Saint-Nicolas et de la Chaîne, est le cœur battant de la ville : quais animés, terrasses, marché nocturne en été. La promenade en laisse y est superbe à toute heure, avec les rues à arcades du centre à deux pas.`,
+          en: `The Vieux-Port, guarded by the Saint-Nicolas and Chaîne towers, is the beating heart of the city: lively quays, terraces, a night market in summer. The on-lead stroll here is superb at any hour, with the arcaded streets of the centre steps away.`,
+          es: `El Vieux-Port, custodiado por las torres Saint-Nicolas y de la Chaîne, es el corazón de la ciudad: muelles animados, terrazas, mercado nocturno en verano. El paseo con correa es magnífico a cualquier hora, con las calles porticadas del centro a dos pasos.`,
+          pt: `O Vieux-Port, guardado pelas torres Saint-Nicolas e da Chaîne, é o coração pulsante da cidade: cais animados, esplanadas, mercado noturno no verão. O passeio com trela é soberbo a qualquer hora, com as ruas de arcadas do centro a dois passos.`,
+        },
+      },
+      {
+        name: `Tour de la Lanterne`,
+        emoji: '🗼',
+        petFriendly: false,
+        desc: {
+          fr: `La plus haute des trois tours médiévales, ancien phare et prison dont les murs gardent les graffitis des détenus, se visite mais sans chien. La promenade des remparts qui la relie aux deux autres tours offre en revanche une belle marche en laisse face à l'océan.`,
+          en: `The tallest of the three medieval towers, a former lighthouse and prison whose walls keep the inmates' graffiti, can be visited but not with a dog. The rampart walk linking it to the other two towers, however, offers a fine on-lead stroll facing the ocean.`,
+          es: `La más alta de las tres torres medievales, antiguo faro y prisión cuyos muros conservan los grafitis de los presos, se visita pero sin perro. El paseo de las murallas que la une a las otras dos torres ofrece, en cambio, una bonita caminata con correa frente al océano.`,
+          pt: `A mais alta das três torres medievais, antigo farol e prisão cujas paredes guardam os grafitis dos presos, visita-se mas sem cão. O passeio das muralhas que a liga às outras duas torres oferece, em contrapartida, uma bela caminhada com trela frente ao oceano.`,
+        },
+      },
+      {
+        name: `Parc Charruyer`,
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Cette coulée verte de 2 km, aménagée sur les anciennes fortifications, traverse la ville entre ruisseaux, grands arbres et pelouses. C'est la promenade quotidienne préférée des chiens rochelais, à relier au Mail et à l'allée qui descend vers la plage de la Concurrence.`,
+          en: `This 2 km green corridor, laid out on the old fortifications, crosses the city amid streams, tall trees and lawns. It is the favourite daily walk of La Rochelle's dogs, easily linked to the Mail and the avenue running down to Concurrence beach.`,
+          es: `Este corredor verde de 2 km, trazado sobre las antiguas fortificaciones, atraviesa la ciudad entre arroyos, grandes árboles y céspedes. Es el paseo diario favorito de los perros de La Rochelle, que se puede enlazar con el Mail y la alameda que baja a la playa de la Concurrence.`,
+          pt: `Este corredor verde de 2 km, traçado sobre as antigas fortificações, atravessa a cidade entre ribeiros, grandes árvores e relvados. É o passeio diário favorito dos cães de La Rochelle, que se pode ligar ao Mail e à alameda que desce até à praia da Concurrence.`,
+        },
+      },
+      {
+        name: `Les Minimes`,
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus grand port de plaisance de la façade atlantique aligne des milliers de mâts le long de digues et de promenades. La balade en laisse du Vieux-Port aux Minimes par le sentier du littoral, avec la vue sur les tours et les voiliers, est un classique rochelais.`,
+          en: `The largest marina on France's Atlantic coast lines up thousands of masts along sea walls and promenades. The on-lead walk from the Vieux-Port to Les Minimes along the coastal path, with views of the towers and sailboats, is a La Rochelle classic.`,
+          es: `El mayor puerto deportivo de la fachada atlántica francesa alinea miles de mástiles a lo largo de diques y paseos. La caminata con correa del Vieux-Port a Les Minimes por el sendero litoral, con vistas a las torres y los veleros, es un clásico de La Rochelle.`,
+          pt: `O maior porto de recreio da fachada atlântica francesa alinha milhares de mastros ao longo de diques e passeios. A caminhada com trela do Vieux-Port até Les Minimes pelo trilho litoral, com vista para as torres e os veleiros, é um clássico de La Rochelle.`,
+        },
+      },
+      {
+        name: `Aquarium La Rochelle`,
+        emoji: '🐠',
+        petFriendly: false,
+        desc: {
+          fr: `L'un des plus grands aquariums privés d'Europe, face au Vieux-Port, présente 12 000 animaux marins des requins aux méduses. Les chiens n'y entrent pas : profitez-en pour visiter à tour de rôle pendant que l'autre longe le bassin des Chalutiers avec le chien.`,
+          en: `One of Europe's largest private aquariums, facing the Vieux-Port, displays 12,000 marine animals from sharks to jellyfish. Dogs are not admitted: take turns visiting while the other walks the dog along the Bassin des Chalutiers.`,
+          es: `Uno de los mayores acuarios privados de Europa, frente al Vieux-Port, exhibe 12.000 animales marinos, de tiburones a medusas. No se admiten perros: visitadlo por turnos mientras el otro pasea al perro por el Bassin des Chalutiers.`,
+          pt: `Um dos maiores aquários privados da Europa, em frente ao Vieux-Port, apresenta 12.000 animais marinhos, de tubarões a medusas. Os cães não entram: visitem à vez enquanto o outro passeia o cão ao longo do Bassin des Chalutiers.`,
+        },
+      },
+      {
+        name: `Plage de Chef de Baie`,
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `À l'ouest de la ville, cette plage familiale adossée à des falaises basses est plus tranquille que la Concurrence. Hors saison, les chiens y gambadent librement ; en été, respectez l'arrêté municipal qui limite leur présence aux heures du matin et du soir.`,
+          en: `West of the city, this family beach backed by low cliffs is quieter than La Concurrence. Off season dogs romp freely; in summer, respect the municipal bylaw limiting them to morning and evening hours.`,
+          es: `Al oeste de la ciudad, esta playa familiar respaldada por acantilados bajos es más tranquila que la Concurrence. Fuera de temporada los perros corretean libremente; en verano, respeta el bando municipal que limita su presencia a las horas de la mañana y la tarde.`,
+          pt: `A oeste da cidade, esta praia familiar encostada a falésias baixas é mais tranquila do que a Concurrence. Fora de época, os cães correm livremente; no verão, respeite o regulamento municipal que limita a sua presença às horas da manhã e do fim do dia.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `En été, les plages urbaines (Concurrence, Minimes, Chef de Baie) sont interdites aux chiens en journée par arrêté municipal : sortez tôt le matin ou après 20h, et vérifiez les panneaux à chaque accès.`,
+        `Le parc Charruyer et le Mail se parcourent en laisse ; les pelouses sont partagées avec familles et joggeurs, le ramassage est strictement attendu.`,
+        `Les bus Yélo acceptent les petits chiens en sac de transport et les chiens tenus en laisse avec muselière ; les vélos en libre-service ont des paniers adaptés aux petits gabarits.`,
+        `Pour l'île de Ré, passez le pont en voiture ou à vélo : les plages sauvages de l'île offrent bien plus de liberté qu'en ville, toujours selon les arrêtés saisonniers.`,
+        `Marée basse = vasières glissantes autour du port : rincez les pattes après la balade et méfiez-vous des coquillages coupants sur les plages rocheuses.`,
+      ],
+      en: [
+        `In summer, the city beaches (Concurrence, Minimes, Chef de Baie) are closed to dogs during the day by municipal bylaw: go early morning or after 8pm, and check the signs at each access.`,
+        `Parc Charruyer and the Mail are walked on lead; lawns are shared with families and joggers, and clean-up is strictly expected.`,
+        `Yélo buses accept small dogs in carriers and leashed, muzzled dogs; the bike-share bikes have baskets suited to small dogs.`,
+        `For the Île de Ré, cross the bridge by car or bike: the island's wild beaches offer far more freedom than the city, always subject to seasonal bylaws.`,
+        `Low tide means slippery mudflats around the harbour: rinse paws after the walk and beware of sharp shells on the rocky beaches.`,
+      ],
+      es: [
+        `En verano, las playas urbanas (Concurrence, Minimes, Chef de Baie) están cerradas a los perros durante el día por bando municipal: sal temprano o después de las 20h, y comprueba los carteles en cada acceso.`,
+        `El parque Charruyer y el Mail se recorren con correa; los céspedes se comparten con familias y corredores, y se exige recoger los excrementos.`,
+        `Los autobuses Yélo aceptan perros pequeños en transportín y perros con correa y bozal; las bicicletas compartidas tienen cestas aptas para perros pequeños.`,
+        `Para la isla de Ré, cruza el puente en coche o en bici: las playas salvajes de la isla ofrecen mucha más libertad que la ciudad, siempre según los bandos estacionales.`,
+        `Marea baja = lodazales resbaladizos alrededor del puerto: enjuaga las patas tras el paseo y cuidado con las conchas cortantes en las playas rocosas.`,
+      ],
+      pt: [
+        `No verão, as praias urbanas (Concurrence, Minimes, Chef de Baie) estão fechadas aos cães durante o dia por regulamento municipal: saia de manhã cedo ou depois das 20h, e verifique os avisos em cada acesso.`,
+        `O parque Charruyer e o Mail percorrem-se com trela; os relvados são partilhados com famílias e corredores, e a recolha dos dejetos é rigorosamente esperada.`,
+        `Os autocarros Yélo aceitam cães pequenos em transportadora e cães com trela e açaime; as bicicletas partilhadas têm cestos adequados a cães pequenos.`,
+        `Para a ilha de Ré, atravesse a ponte de carro ou de bicicleta: as praias selvagens da ilha oferecem muito mais liberdade do que a cidade, sempre conforme os regulamentos sazonais.`,
+        `Maré baixa = lodaçais escorregadios à volta do porto: passe as patas por água depois do passeio e cuidado com as conchas cortantes nas praias rochosas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Nombreuses cliniques vétérinaires en ville et en périphérie ; le 3115 (numéro national gratuit) oriente vers le vétérinaire de garde 24h/24`,
+        `Numéro d'urgence européen : 112 ; la fourrière et le refuge local prennent en charge les animaux trouvés`,
+        `Animaleries en centre-ville et dans les zones commerciales, rayons animaux dans tous les supermarchés`,
+        `Bus Yélo : petits chiens en sac, chiens en laisse et muselés tolérés ; TGV et TER acceptent les chiens (billet à tarif réduit pour les plus de 6 kg)`,
+        `Passeport européen, puce et vaccin antirabique à jour requis pour les visiteurs étrangers`,
+      ],
+      en: [
+        `Numerous veterinary clinics in town and on the outskirts; dialling 3115 (free national number) routes you to the on-duty vet 24/7`,
+        `European emergency number: 112; the pound and the local shelter take in found animals`,
+        `Pet shops in the centre and the retail parks, pet aisles in every supermarket`,
+        `Yélo buses: small dogs in carriers, leashed and muzzled dogs tolerated; TGV and TER trains accept dogs (reduced-fare ticket for dogs over 6 kg)`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required for foreign visitors`,
+      ],
+      es: [
+        `Numerosas clínicas veterinarias en la ciudad y la periferia; el 3115 (número nacional gratuito) dirige al veterinario de guardia 24h`,
+        `Número de emergencias europeo: 112; la perrera y el refugio local se hacen cargo de los animales encontrados`,
+        `Tiendas de animales en el centro y en las zonas comerciales, secciones de mascotas en todos los supermercados`,
+        `Autobuses Yélo: perros pequeños en transportín, perros con correa y bozal tolerados; TGV y TER aceptan perros (billete con tarifa reducida para los de más de 6 kg)`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios para visitantes extranjeros`,
+      ],
+      pt: [
+        `Numerosas clínicas veterinárias na cidade e na periferia; o 3115 (número nacional gratuito) encaminha para o veterinário de serviço 24h`,
+        `Número de emergência europeu: 112; o canil e o abrigo local acolhem os animais encontrados`,
+        `Lojas de animais no centro e nas zonas comerciais, secções pet em todos os supermercados`,
+        `Autocarros Yélo: cães pequenos em transportadora, cães com trela e açaime tolerados; TGV e TER aceitam cães (bilhete com tarifa reduzida para os de mais de 6 kg)`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios para visitantes estrangeiros`,
+      ],
+    },
+  },
+
   lagos: {
     history: {
       fr: `Lagos, sur la côte ouest de l'Algarve, fut l'un des grands ports de l'épopée des Découvertes portugaises. C'est d'ici que partaient au XVᵉ siècle les caravelles armées par l'infant Henri le Navigateur, et la Praça do Infante en conserve la mémoire ; le premier marché aux esclaves d'Europe, sombre revers de cette histoire, y ouvrit en 1444. Capitale de l'Algarve jusqu'au tremblement de terre de 1755 qui ravagea la ville, Lagos a gardé son centre historique ceint de murailles du XVIᵉ siècle, ses ruelles pavées et l'éblouissante église baroque de Santo António. Mais la ville est surtout célèbre pour la Ponta da Piedade, falaises de grès doré sculptées de grottes et d'arches au-dessus d'une mer turquoise. Pour un voyageur avec un chien, Lagos combine une longue plage de sable (Meia Praia), une forêt nationale propice aux longues marches, un climat doux toute l'année et un hôpital vétérinaire 24h/24 à Portimão, à vingt-cinq minutes. Le centre piéton se parcourt aisément laisse à la main, de terrasse en terrasse.`,
@@ -17668,6 +17805,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  marrakech: {
+    history: {
+      fr: `Fondée vers 1070 par les Almoravides, Marrakech fut deux fois capitale d'un empire s'étendant de l'Espagne au Sénégal. Les Almohades lui ont laissé la Koutoubia, minaret jumeau de la Giralda de Séville, les Saadiens leurs tombeaux dorés et le palais El Badi. Ville-oasis née d'un carrefour caravanier, la « ville rouge » tire sa couleur de la terre battue de ses remparts, longs de 19 km. La médina, classée à l'UNESCO, s'organise autour de la place Jemaa el-Fnaa, théâtre permanent de conteurs et de musiciens, tandis que les palmeraies et jardins entretiennent la fraîcheur. Voyager ici avec un chien sort des habitudes locales : les animaux de compagnie restent rares en médina, mais les riads avec patio, les jardins de la Ménara et la palmeraie offrent de vrais espaces de respiration, surtout d'octobre à avril quand la chaleur retombe.`,
+      en: `Founded around 1070 by the Almoravids, Marrakech was twice the capital of an empire stretching from Spain to Senegal. The Almohads left it the Koutoubia, twin minaret of Seville's Giralda; the Saadians their gilded tombs and the El Badi palace. An oasis city born at a caravan crossroads, the "red city" takes its colour from the rammed earth of its 19 km of ramparts. The UNESCO-listed medina revolves around Jemaa el-Fnaa square, a permanent theatre of storytellers and musicians, while palm groves and gardens keep the air cooler. Travelling here with a dog is unusual by local standards: pets remain rare in the medina, but riads with patios, the Menara gardens and the palm grove offer real breathing space, especially from October to April when the heat eases.`,
+      es: `Fundada hacia 1070 por los almorávides, Marrakech fue dos veces capital de un imperio que se extendía de España a Senegal. Los almohades le dejaron la Kutubía, minarete gemelo de la Giralda de Sevilla; los saadíes, sus tumbas doradas y el palacio El Badi. Ciudad-oasis nacida en un cruce de caravanas, la «ciudad roja» debe su color a la tierra apisonada de sus murallas, de 19 km. La medina, Patrimonio de la Humanidad, gira en torno a la plaza Jemaa el-Fnaa, teatro permanente de cuentacuentos y músicos, mientras palmerales y jardines mantienen el frescor. Viajar aquí con perro se sale de las costumbres locales: las mascotas siguen siendo raras en la medina, pero los riads con patio, los jardines de la Menara y el palmeral ofrecen verdaderos espacios para respirar, sobre todo de octubre a abril, cuando baja el calor.`,
+      pt: `Fundada por volta de 1070 pelos almorávidas, Marraquexe foi duas vezes capital de um império que se estendia de Espanha ao Senegal. Os almóadas deixaram-lhe a Koutoubia, minarete gémeo da Giralda de Sevilha; os saadianos, os seus túmulos dourados e o palácio El Badi. Cidade-oásis nascida num cruzamento de caravanas, a «cidade vermelha» deve a cor à terra batida das suas muralhas, com 19 km. A medina, classificada pela UNESCO, gira em torno da praça Jemaa el-Fnaa, teatro permanente de contadores de histórias e músicos, enquanto palmeirais e jardins mantêm a frescura. Viajar aqui com um cão foge aos hábitos locais: os animais de companhia ainda são raros na medina, mas os riads com pátio, os jardins da Menara e o palmeiral oferecem verdadeiros espaços para respirar, sobretudo de outubro a abril, quando o calor abranda.`,
+    },
+    sights: [
+      {
+        name: `Jemaa el-Fnaa`,
+        emoji: '🎭',
+        petFriendly: true,
+        desc: {
+          fr: `La grande place de la médina, inscrite au patrimoine immatériel de l'UNESCO, se transforme chaque soir en théâtre à ciel ouvert. Avec un chien, préférez le matin, quand la place est calme : la foule du soir, les charmeurs de serpents et les singes en font un terrain stressant pour un animal.`,
+          en: `The medina's great square, listed as UNESCO intangible heritage, turns into an open-air theatre every evening. With a dog, go in the morning when the square is calm: the evening crowds, snake charmers and monkeys make it a stressful place for an animal.`,
+          es: `La gran plaza de la medina, patrimonio inmaterial de la UNESCO, se transforma cada tarde en un teatro al aire libre. Con perro, mejor por la mañana, cuando la plaza está tranquila: la multitud nocturna, los encantadores de serpientes y los monos la convierten en un terreno estresante para un animal.`,
+          pt: `A grande praça da medina, património imaterial da UNESCO, transforma-se todas as noites num teatro ao ar livre. Com cão, prefira a manhã, quando a praça está calma: a multidão noturna, os encantadores de serpentes e os macacos tornam-na um terreno stressante para um animal.`,
+        },
+      },
+      {
+        name: `Jardin Majorelle`,
+        emoji: '🌵',
+        petFriendly: false,
+        desc: {
+          fr: `Le jardin bleu cobalt de Jacques Majorelle, restauré par Yves Saint Laurent, est l'un des lieux les plus visités du Maroc. Les chiens n'y sont pas admis : réservez la visite à tour de rôle et retrouvez-vous ensuite dans les larges avenues ombragées du Guéliz voisin.`,
+          en: `Jacques Majorelle's cobalt-blue garden, restored by Yves Saint Laurent, is one of Morocco's most visited places. Dogs are not admitted: take turns to visit, then meet again on the wide shaded avenues of neighbouring Gueliz.`,
+          es: `El jardín azul cobalto de Jacques Majorelle, restaurado por Yves Saint Laurent, es uno de los lugares más visitados de Marruecos. No se admiten perros: visitadlo por turnos y reencontraos después en las amplias avenidas con sombra del vecino Guéliz.`,
+          pt: `O jardim azul-cobalto de Jacques Majorelle, restaurado por Yves Saint Laurent, é um dos lugares mais visitados de Marrocos. Os cães não são admitidos: visitem à vez e reencontrem-se depois nas largas avenidas com sombra do vizinho Guéliz.`,
+        },
+      },
+      {
+        name: `Jardins de la Ménara`,
+        emoji: '🫒',
+        petFriendly: true,
+        desc: {
+          fr: `Ce vaste jardin d'oliviers du XIIe siècle entoure un bassin almohade avec l'Atlas enneigé en toile de fond. Ses allées larges et calmes sont l'un des rares espaces de la ville où promener sereinement un chien en laisse, tôt le matin de préférence.`,
+          en: `This vast 12th-century olive garden surrounds an Almohad reflecting pool with the snowy Atlas as a backdrop. Its wide, calm alleys are one of the few places in the city to walk a leashed dog serenely, preferably early in the morning.`,
+          es: `Este vasto olivar del siglo XII rodea un estanque almohade con el Atlas nevado como telón de fondo. Sus paseos anchos y tranquilos son uno de los pocos espacios de la ciudad donde pasear con calma a un perro con correa, preferiblemente a primera hora.`,
+          pt: `Este vasto olival do século XII rodeia um tanque almóada com o Atlas nevado como pano de fundo. As suas alamedas largas e calmas são um dos raros espaços da cidade onde passear serenamente um cão pela trela, de preferência de manhã cedo.`,
+        },
+      },
+      {
+        name: `La Palmeraie`,
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `Au nord de la ville, 13 000 hectares de palmiers dattiers plantés dès l'époque almoravide, sillonnés de pistes. C'est le meilleur terrain de marche avec un chien à Marrakech : espace, ombre relative et calme, en évitant les circuits de quads et de dromadaires.`,
+          en: `North of the city, 13,000 hectares of date palms planted since Almoravid times, criss-crossed by tracks. It is the best walking ground with a dog in Marrakech: space, relative shade and calm, keeping clear of the quad-bike and camel circuits.`,
+          es: `Al norte de la ciudad, 13.000 hectáreas de palmeras datileras plantadas desde la época almorávide, surcadas de pistas. Es el mejor terreno para caminar con perro en Marrakech: espacio, sombra relativa y calma, evitando los circuitos de quads y dromedarios.`,
+          pt: `A norte da cidade, 13.000 hectares de tamareiras plantadas desde a época almorávida, cortados por pistas. É o melhor terreno de caminhada com cão em Marraquexe: espaço, sombra relativa e calma, evitando os circuitos de motos-quatro e dromedários.`,
+        },
+      },
+      {
+        name: `Koutoubia`,
+        emoji: '🕌',
+        petFriendly: false,
+        desc: {
+          fr: `Le minaret de 77 mètres de la plus grande mosquée de la ville sert de repère à tout Marrakech depuis le XIIe siècle. La mosquée est réservée aux fidèles ; les jardins et l'esplanade qui l'entourent, agréables au coucher du soleil, se longent toutefois en laisse.`,
+          en: `The 77-metre minaret of the city's largest mosque has been Marrakech's landmark since the 12th century. The mosque is reserved for worshippers; the gardens and esplanade around it, pleasant at sunset, can however be walked past on lead.`,
+          es: `El minarete de 77 metros de la mayor mezquita de la ciudad sirve de referencia a todo Marrakech desde el siglo XII. La mezquita está reservada a los fieles; los jardines y la explanada que la rodean, agradables al atardecer, sí se bordean con correa.`,
+          pt: `O minarete de 77 metros da maior mesquita da cidade serve de referência a toda Marraquexe desde o século XII. A mesquita está reservada aos fiéis; os jardins e a esplanada que a rodeiam, agradáveis ao pôr do sol, podem no entanto percorrer-se com trela.`,
+        },
+      },
+      {
+        name: `Remparts et Bab Agnaou`,
+        emoji: '🧱',
+        petFriendly: true,
+        desc: {
+          fr: `Les 19 km de remparts de terre rouge, ponctués de portes monumentales dont la superbe Bab Agnaou almohade, se longent à pied ou en calèche. Une promenade en laisse au lever du jour, quand la lumière embrase les murs, montre la ville rouge sous son meilleur jour.`,
+          en: `The 19 km of red-earth ramparts, punctuated by monumental gates including the superb Almohad Bab Agnaou, can be followed on foot or by carriage. An on-lead walk at daybreak, when the light sets the walls aglow, shows the red city at its best.`,
+          es: `Los 19 km de murallas de tierra roja, jalonados de puertas monumentales como la soberbia Bab Agnaou almohade, se recorren a pie o en calesa. Un paseo con correa al amanecer, cuando la luz enciende los muros, muestra la ciudad roja en su mejor momento.`,
+          pt: `Os 19 km de muralhas de terra vermelha, pontuados por portas monumentais como a soberba Bab Agnaou almóada, percorrem-se a pé ou de charrete. Um passeio com trela ao nascer do dia, quando a luz incendeia as muralhas, mostra a cidade vermelha no seu melhor.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `De mai à septembre, la chaleur dépasse régulièrement 40 °C : sorties uniquement à l'aube et après le coucher du soleil, jamais de coussinets sur le bitume l'après-midi, eau en permanence et riad avec patio ombragé.`,
+        `Les politiques animaux varient énormément d'un riad à l'autre : confirmez par écrit avant de réserver, beaucoup n'acceptent que les petits chiens ou exigent que l'animal ne reste jamais seul.`,
+        `Dans la médina, ruelles étroites, mobylettes et chats errants imposent une laisse courte et un chien à l'aise dans la foule ; les souks couverts sont à éviter avec un animal.`,
+        `Le Maroc n'est pas indemne de rage : évitez tout contact de votre chien avec les chiens errants et vérifiez que ses vaccins sont à jour avant le départ.`,
+        `Pour revenir dans l'UE, un titrage antirabique réalisé au moins 3 mois avant le retour est obligatoire : faites-le AVANT de partir, sinon votre chien restera bloqué.`,
+      ],
+      en: [
+        `From May to September the heat regularly tops 40°C: outings only at dawn and after sunset, never let paws touch afternoon asphalt, carry water at all times and choose a riad with a shaded patio.`,
+        `Pet policies vary enormously from one riad to another: confirm in writing before booking, many accept only small dogs or require that the animal is never left alone.`,
+        `In the medina, narrow lanes, mopeds and stray cats call for a short lead and a dog at ease in crowds; the covered souks are best avoided with an animal.`,
+        `Morocco is not rabies-free: avoid any contact between your dog and street dogs, and check vaccinations are up to date before departure.`,
+        `To return to the EU, a rabies antibody titre test done at least 3 months before the return is compulsory: do it BEFORE you leave, or your dog will be stuck.`,
+      ],
+      es: [
+        `De mayo a septiembre el calor supera con frecuencia los 40 °C: salidas solo al alba y tras la puesta de sol, nunca las almohadillas sobre el asfalto por la tarde, agua siempre y un riad con patio a la sombra.`,
+        `Las políticas de mascotas varían muchísimo de un riad a otro: confírmalas por escrito antes de reservar, muchos solo aceptan perros pequeños o exigen que el animal nunca se quede solo.`,
+        `En la medina, los callejones estrechos, las motos y los gatos callejeros exigen correa corta y un perro cómodo entre la multitud; los zocos cubiertos se evitan mejor con un animal.`,
+        `Marruecos no está libre de rabia: evita todo contacto de tu perro con los perros callejeros y comprueba que sus vacunas están al día antes de salir.`,
+        `Para volver a la UE es obligatoria una titulación de anticuerpos de la rabia hecha al menos 3 meses antes del regreso: hazla ANTES de partir, o tu perro quedará bloqueado.`,
+      ],
+      pt: [
+        `De maio a setembro o calor ultrapassa com frequência os 40 °C: saídas apenas de madrugada e depois do pôr do sol, nunca as almofadas das patas no asfalto à tarde, água sempre e um riad com pátio à sombra.`,
+        `As políticas para animais variam imenso de riad para riad: confirme por escrito antes de reservar, muitos só aceitam cães pequenos ou exigem que o animal nunca fique sozinho.`,
+        `Na medina, as vielas estreitas, as motorizadas e os gatos de rua exigem trela curta e um cão à vontade no meio da multidão; os souks cobertos evitam-se melhor com um animal.`,
+        `Marrocos não está livre de raiva: evite qualquer contacto do seu cão com os cães de rua e verifique que as vacinas estão em dia antes da partida.`,
+        `Para regressar à UE é obrigatória uma titulação de anticorpos da raiva feita pelo menos 3 meses antes do regresso: faça-a ANTES de partir, ou o seu cão ficará retido.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cliniques vétérinaires correctes dans le Guéliz et l'Hivernage ; le niveau de soins est bon en ville mais limité la nuit, anticipez avec les coordonnées de votre clinique avant toute excursion`,
+        `Numéros d'urgence marocains : 19 (police) et 15 (pompiers) ; pas de service vétérinaire de garde centralisé, votre riad ou hôtel est le meilleur relais`,
+        `Animaleries et alimentation pour chiens dans le Guéliz et les hypermarchés modernes ; les marques européennes courantes s'y trouvent`,
+        `Pas de chiens dans les bus urbains ; petits taxis à la discrétion du chauffeur, les grands taxis et chauffeurs privés se réservent facilement avec animal`,
+        `Entrée au Maroc : puce, vaccin antirabique et certificat sanitaire international ; retour UE : titrage antirabique préalable obligatoire, à organiser avant le départ`,
+      ],
+      en: [
+        `Decent veterinary clinics in Gueliz and Hivernage; the standard of care is good in town but limited at night, so save your clinic's details before any excursion`,
+        `Moroccan emergency numbers: 19 (police) and 15 (fire service); there is no centralised on-duty vet service, your riad or hotel is the best relay`,
+        `Pet shops and dog food in Gueliz and the modern hypermarkets; common European brands are available`,
+        `No dogs on city buses; petits taxis at the driver's discretion, while grands taxis and private drivers are easily booked with a pet`,
+        `Entering Morocco: microchip, rabies vaccination and an international health certificate; returning to the EU: a prior rabies titre test is compulsory, arrange it before departure`,
+      ],
+      es: [
+        `Clínicas veterinarias correctas en el Guéliz y el Hivernage; el nivel de atención es bueno en la ciudad pero limitado de noche, guarda los datos de tu clínica antes de cualquier excursión`,
+        `Números de emergencia marroquíes: 19 (policía) y 15 (bomberos); no hay servicio veterinario de guardia centralizado, tu riad u hotel es el mejor intermediario`,
+        `Tiendas de animales y comida para perros en el Guéliz y los hipermercados modernos; se encuentran las marcas europeas habituales`,
+        `No se admiten perros en los autobuses urbanos; petits taxis a criterio del conductor, mientras que los grands taxis y chóferes privados se reservan fácilmente con animal`,
+        `Entrada a Marruecos: microchip, vacuna antirrábica y certificado sanitario internacional; regreso a la UE: titulación antirrábica previa obligatoria, organízala antes de salir`,
+      ],
+      pt: [
+        `Clínicas veterinárias razoáveis no Guéliz e no Hivernage; o nível de cuidados é bom na cidade mas limitado à noite, guarde os contactos da sua clínica antes de qualquer excursão`,
+        `Números de emergência marroquinos: 19 (polícia) e 15 (bombeiros); não há serviço veterinário de urgência centralizado, o seu riad ou hotel é o melhor intermediário`,
+        `Lojas de animais e comida para cão no Guéliz e nos hipermercados modernos; encontram-se as marcas europeias habituais`,
+        `Não são admitidos cães nos autocarros urbanos; petits taxis ao critério do motorista, enquanto os grands taxis e motoristas privados se reservam facilmente com animal`,
+        `Entrada em Marrocos: microchip, vacina antirrábica e certificado sanitário internacional; regresso à UE: titulação antirrábica prévia obrigatória, organize-a antes da partida`,
+      ],
+    },
+  },
+
   marseille: {
     history: {
       fr: `Marseille est la plus ancienne ville de France, fondée par les Grecs phocéens en 600 avant J.-C., elle a 2 600 ans de culture portuaire et méditerranéenne. Ville cosmopolite et populaire, Marseille entretient un rapport décomplexé avec les animaux : les chiens accompagnent leurs maîtres sur les quais du Vieux-Port, dans les bars du Panier, et sur les sentiers des Calanques. Le Parc National des Calanques, créé en 2012 aux portes de la ville, offre un cadre unique em Europe : 20 km de côtes sauvages accessibles à pied ou em bateau, où les chiens sont autorisés em laisse. La ville compte aussi 70 km de littoral et plus de 30 parcs, dont une poignée disposent de zones canines dédiées.`,
@@ -18345,6 +18619,143 @@ const cityContent: Record<string, CityContent> = {
         'Transporte: o elétrico TAM aceita cães pequenos em transportadora fechado de forma gratuita. Os cães grandes se admiten a discreción do conductor com trela e bozal. Os autocarros no aceitam cães.',
         'Praias: só a praia do Grand Travers na Grande Motte (acceso 58-60) permite cães o ano inteiro perto de Montpellier. As praias de Palavas e Carnon prohíben totalmente os cães.',
         'Suministros: várias tiendas de animales no centro, especialmente na Rue da Loge e o bairro de l\'Antigone.',
+      ],
+    },
+  },
+
+  montreux: {
+    history: {
+      fr: `Montreux doit tout à son microclimat : protégée par les Alpes et adoucie par le Léman, la « Riviera vaudoise » vit pousser palmiers et vignes bien avant l'arrivée des touristes. Au XIXe siècle, l'aristocratie européenne en fit sa villégiature d'hiver ; Sissi, Stravinsky puis Nabokov y séjournèrent longuement. Le château de Chillon, immortalisé par Byron, attirait déjà les voyageurs romantiques. Depuis 1967, le Montreux Jazz Festival a fait entrer la ville dans la légende musicale, de Deep Purple (Smoke on the Water y raconte l'incendie du casino) à Freddie Mercury, dont la statue veille sur le lac. Avec un chien, Montreux est un bonheur suisse : quais fleuris sur des kilomètres, vignobles de Lavaux en terrasses, trains de montagne qui acceptent les chiens et une eau du lac limpide pour les baignades canines hors des plages aménagées.`,
+      en: `Montreux owes everything to its microclimate: sheltered by the Alps and softened by Lake Geneva, the "Vaud Riviera" grew palm trees and vines long before the tourists arrived. In the 19th century the European aristocracy made it their winter resort; Sisi, Stravinsky and later Nabokov stayed at length. Chillon Castle, immortalised by Byron, was already drawing romantic travellers. Since 1967 the Montreux Jazz Festival has written the town into musical legend, from Deep Purple (Smoke on the Water recounts the casino fire) to Freddie Mercury, whose statue watches over the lake. With a dog, Montreux is Swiss bliss: miles of flowered lakeside quays, the terraced Lavaux vineyards, mountain trains that accept dogs, and limpid lake water for canine swims away from the managed beaches.`,
+      es: `Montreux se lo debe todo a su microclima: protegida por los Alpes y suavizada por el lago Lemán, la «Riviera valdense» vio crecer palmeras y viñas mucho antes de que llegaran los turistas. En el siglo XIX, la aristocracia europea la convirtió en su residencia de invierno; Sissi, Stravinsky y luego Nabokov pasaron aquí largas temporadas. El castillo de Chillon, inmortalizado por Byron, ya atraía a los viajeros románticos. Desde 1967, el Montreux Jazz Festival ha inscrito la ciudad en la leyenda musical, de Deep Purple (Smoke on the Water narra el incendio del casino) a Freddie Mercury, cuya estatua vigila el lago. Con perro, Montreux es una delicia suiza: kilómetros de muelles floridos, los viñedos en terrazas de Lavaux, trenes de montaña que aceptan perros y un agua del lago cristalina para baños caninos fuera de las playas acondicionadas.`,
+      pt: `Montreux deve tudo ao seu microclima: protegida pelos Alpes e suavizada pelo lago Lemano, a «Riviera do cantão de Vaud» viu crescer palmeiras e vinhas muito antes de chegarem os turistas. No século XIX, a aristocracia europeia fez dela a sua estância de inverno; Sissi, Stravinsky e depois Nabokov ficaram longas temporadas. O castelo de Chillon, imortalizado por Byron, já atraía os viajantes românticos. Desde 1967, o Montreux Jazz Festival inscreveu a cidade na lenda musical, dos Deep Purple (Smoke on the Water conta o incêndio do casino) a Freddie Mercury, cuja estátua vigia o lago. Com um cão, Montreux é uma delícia suíça: quilómetros de cais floridos, as vinhas em socalcos de Lavaux, comboios de montanha que aceitam cães e uma água do lago límpida para banhos caninos fora das praias concessionadas.`,
+    },
+    sights: [
+      {
+        name: `Quais de Montreux`,
+        emoji: '🌸',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade fleurie longe le Léman sur plusieurs kilomètres, entre palmiers, sculptures et vues sur les Dents du Midi. Les chiens en laisse y sont les bienvenus toute l'année : c'est l'une des plus belles marches lacustres d'Europe, jusqu'à Chillon par le sentier riverain.`,
+          en: `The flowered promenade follows Lake Geneva for several kilometres, amid palm trees, sculptures and views of the Dents du Midi. Leashed dogs are welcome year round: it is one of Europe's finest lakeside walks, reaching Chillon via the shore path.`,
+          es: `El paseo florido bordea el Lemán durante varios kilómetros, entre palmeras, esculturas y vistas a los Dents du Midi. Los perros con correa son bienvenidos todo el año: es uno de los paseos lacustres más bellos de Europa, hasta Chillon por el sendero ribereño.`,
+          pt: `O passeio florido acompanha o Lemano ao longo de vários quilómetros, entre palmeiras, esculturas e vistas para os Dents du Midi. Os cães com trela são bem-vindos todo o ano: é uma das mais belas caminhadas lacustres da Europa, até Chillon pelo trilho ribeirinho.`,
+        },
+      },
+      {
+        name: `Château de Chillon`,
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `Posé sur son îlot rocheux, le château le plus visité de Suisse conserve salles médiévales et cachots rendus célèbres par Byron. Les chiens ne visitent pas l'intérieur, mais le sentier au bord du lac qui y mène depuis Montreux offre la plus belle vue sur la forteresse.`,
+          en: `Set on its rocky islet, Switzerland's most visited castle preserves medieval halls and the dungeons made famous by Byron. Dogs cannot tour the interior, but the lakeside path leading there from Montreux offers the finest view of the fortress.`,
+          es: `Asentado en su islote rocoso, el castillo más visitado de Suiza conserva salas medievales y las mazmorras que hizo célebres Byron. Los perros no visitan el interior, pero el sendero junto al lago que lleva hasta allí desde Montreux ofrece la mejor vista de la fortaleza.`,
+          pt: `Assente no seu ilhéu rochoso, o castelo mais visitado da Suíça conserva salas medievais e as masmorras celebrizadas por Byron. Os cães não visitam o interior, mas o trilho à beira do lago que lá conduz desde Montreux oferece a melhor vista da fortaleza.`,
+        },
+      },
+      {
+        name: `Lavaux`,
+        emoji: '🍇',
+        petFriendly: true,
+        desc: {
+          fr: `Les vignobles en terrasses de Lavaux, classés à l'UNESCO, dévalent vers le lac entre Montreux et Lausanne. Les chemins viticoles se parcourent librement avec un chien en laisse, de village en village, avec caveaux de dégustation dont beaucoup tolèrent les compagnons sages.`,
+          en: `The UNESCO-listed terraced vineyards of Lavaux tumble down to the lake between Montreux and Lausanne. The wine paths can be freely walked with a leashed dog, village to village, with tasting cellars many of which tolerate well-behaved companions.`,
+          es: `Los viñedos en terrazas de Lavaux, Patrimonio de la Humanidad, descienden hacia el lago entre Montreux y Lausana. Los caminos vitícolas se recorren libremente con perro con correa, de pueblo en pueblo, con bodegas de degustación que en muchos casos toleran a los compañeros tranquilos.`,
+          pt: `As vinhas em socalcos de Lavaux, classificadas pela UNESCO, descem até ao lago entre Montreux e Lausana. Os caminhos vitícolas percorrem-se livremente com um cão pela trela, de aldeia em aldeia, com adegas de prova que em muitos casos toleram companheiros bem-comportados.`,
+        },
+      },
+      {
+        name: `Rochers-de-Naye`,
+        emoji: '🚞',
+        petFriendly: true,
+        desc: {
+          fr: `Le train à crémaillère grimpe de Montreux à 2 042 m en 55 minutes, chiens admis moyennant un billet à demi-tarif. Là-haut : panorama sur le Léman et les Alpes, sentiers de crête et même des marmottes (en enclos), de quoi composer une journée de montagne inoubliable.`,
+          en: `The cogwheel train climbs from Montreux to 2,042 m in 55 minutes, dogs admitted with a half-fare ticket. Up top: a panorama over Lake Geneva and the Alps, ridge trails and even marmots (in enclosures), the makings of an unforgettable mountain day.`,
+          es: `El tren cremallera sube de Montreux a 2.042 m en 55 minutos, con perros admitidos mediante un billete a mitad de tarifa. Arriba: panorámica del Lemán y los Alpes, senderos de cresta e incluso marmotas (en recintos), todo para una jornada de montaña inolvidable.`,
+          pt: `O comboio de cremalheira sobe de Montreux até aos 2.042 m em 55 minutos, com cães admitidos mediante bilhete a meio preço. Lá em cima: panorama sobre o Lemano e os Alpes, trilhos de cumeada e até marmotas (em recintos), tudo para um dia de montanha inesquecível.`,
+        },
+      },
+      {
+        name: `Statue de Freddie Mercury`,
+        emoji: '🎤',
+        petFriendly: true,
+        desc: {
+          fr: `Sur la place du Marché, la statue de Freddie Mercury salue le lac, poing levé, là où le chanteur de Queen trouva refuge et enregistra ses derniers albums. Étape photo incontournable de la promenade des quais, accessible à toute heure avec votre chien.`,
+          en: `On the Place du Marché, Freddie Mercury's statue salutes the lake, fist raised, where the Queen singer found refuge and recorded his final albums. An unmissable photo stop on the quayside promenade, accessible at any hour with your dog.`,
+          es: `En la Place du Marché, la estatua de Freddie Mercury saluda al lago con el puño en alto, allí donde el cantante de Queen encontró refugio y grabó sus últimos discos. Parada fotográfica imprescindible del paseo de los muelles, accesible a cualquier hora con tu perro.`,
+          pt: `Na Place du Marché, a estátua de Freddie Mercury saúda o lago de punho erguido, ali onde o vocalista dos Queen encontrou refúgio e gravou os últimos álbuns. Paragem fotográfica incontornável do passeio dos cais, acessível a qualquer hora com o seu cão.`,
+        },
+      },
+      {
+        name: `Gorges du Chauderon`,
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Derrière la ville, ce canyon boisé remonte le torrent de la Baye de Montreux entre passerelles et cascades, au frais même en été. Une randonnée nature à faire en laisse, qui peut se prolonger vers le village des Avants et ses champs de narcisses en mai.`,
+          en: `Behind the town, this wooded canyon follows the Baye de Montreux stream up past footbridges and waterfalls, cool even in summer. A nature hike to do on lead, which can continue up to the village of Les Avants and its narcissus fields in May.`,
+          es: `Detrás de la ciudad, este cañón boscoso remonta el torrente de la Baye de Montreux entre pasarelas y cascadas, fresco incluso en verano. Una caminata en plena naturaleza para hacer con correa, que puede prolongarse hasta el pueblo de Les Avants y sus campos de narcisos en mayo.`,
+          pt: `Por trás da cidade, este desfiladeiro arborizado sobe ao longo da ribeira Baye de Montreux entre passadiços e cascatas, fresco mesmo no verão. Uma caminhada na natureza para fazer com trela, que pode prolongar-se até à aldeia de Les Avants e aos seus campos de narcisos em maio.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Début juillet, le Montreux Jazz Festival remplit les quais d'une foule dense et de scènes bruyantes pendant deux semaines : si votre chien craint le bruit et le monde, évitez cette période ou logez à Vevey ou dans les hauts.`,
+        `Sur les quais et dans les parcs, la laisse est de rigueur ; les plages payantes et zones de baignade aménagées refusent les chiens, mais de nombreuses grèves libres le long du lac permettent la baignade canine.`,
+        `Dans les transports suisses (trains CFF, MOB, bateaux CGN), les chiens paient demi-tarif au-delà de 30 cm au garrot ; les petits chiens en sac voyagent gratuitement.`,
+        `Le train des Rochers-de-Naye accepte les chiens avec billet : prévoyez de l'eau là-haut, les sentiers de crête sont exposés et les alpages accueillent des troupeaux protégés par des chiens de protection, tenez le vôtre en laisse.`,
+        `Ramassage obligatoire partout, sacs fournis par des distributeurs « Robidog » ; les amendes sont réelles et la propreté suisse ne tolère pas d'écart.`,
+      ],
+      en: [
+        `In early July the Montreux Jazz Festival fills the quays with dense crowds and loud stages for two weeks: if your dog dislikes noise and crowds, avoid that period or stay in Vevey or the hills above.`,
+        `On the quays and in the parks leads are required; the paying beaches and managed bathing areas refuse dogs, but many free shingle shores along the lake allow canine swimming.`,
+        `On Swiss transport (SBB trains, MOB, CGN boats) dogs above 30 cm at the shoulder pay half fare; small dogs in carriers travel free.`,
+        `The Rochers-de-Naye train accepts dogs with a ticket: carry water up top, the ridge trails are exposed and the alpine pastures host flocks guarded by livestock protection dogs, so keep yours on lead.`,
+        `Clean-up is compulsory everywhere, with bags supplied by "Robidog" dispensers; fines are real and Swiss cleanliness tolerates no lapses.`,
+      ],
+      es: [
+        `A principios de julio, el Montreux Jazz Festival llena los muelles de multitudes y escenarios ruidosos durante dos semanas: si tu perro teme el ruido y el gentío, evita esas fechas o alójate en Vevey o en las alturas.`,
+        `En los muelles y parques la correa es obligatoria; las playas de pago y zonas de baño acondicionadas rechazan a los perros, pero muchas orillas libres del lago permiten el baño canino.`,
+        `En el transporte suizo (trenes SBB, MOB, barcos CGN), los perros de más de 30 cm a la cruz pagan media tarifa; los pequeños en transportín viajan gratis.`,
+        `El tren de Rochers-de-Naye acepta perros con billete: lleva agua arriba, los senderos de cresta están expuestos y los pastos alpinos tienen rebaños custodiados por perros de protección, mantén el tuyo con correa.`,
+        `Recogida obligatoria en todas partes, con bolsas en los dispensadores «Robidog»; las multas son reales y la limpieza suiza no tolera descuidos.`,
+      ],
+      pt: [
+        `No início de julho, o Montreux Jazz Festival enche os cais de multidões densas e palcos barulhentos durante duas semanas: se o seu cão teme o ruído e a multidão, evite essa altura ou fique em Vevey ou nas encostas.`,
+        `Nos cais e nos parques a trela é obrigatória; as praias pagas e zonas de banho concessionadas recusam cães, mas muitas margens livres ao longo do lago permitem o banho canino.`,
+        `Nos transportes suíços (comboios SBB, MOB, barcos CGN), os cães com mais de 30 cm ao garrote pagam meio bilhete; os pequenos em transportadora viajam grátis.`,
+        `O comboio dos Rochers-de-Naye aceita cães com bilhete: leve água para o topo, os trilhos de cumeada são expostos e as pastagens alpinas têm rebanhos guardados por cães de proteção, mantenha o seu pela trela.`,
+        `Recolha de dejetos obrigatória em todo o lado, com sacos nos dispensadores «Robidog»; as multas são reais e a limpeza suíça não tolera falhas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cliniques vétérinaires à Montreux, Vevey et dans la Riviera ; les urgences de nuit sont organisées en garde régionale, téléphonez avant de vous déplacer`,
+        `Numéro d'urgence général : 112 ; les soins vétérinaires suisses sont excellents mais chers, une assurance animale est recommandée`,
+        `Animaleries à Montreux et Vevey, rayons animaux dans les supermarchés Coop et Migros`,
+        `Trains CFF/MOB, bus VMCV et bateaux CGN : chiens admis (demi-tarif au-delà de 30 cm, gratuits en sac) ; muselière exigée seulement si le personnel le demande`,
+        `Passeport européen, puce et vaccin antirabique à jour suffisent depuis l'UE ; la Suisse interdit les chiens aux oreilles ou queue coupées, attention si votre chien est concerné`,
+      ],
+      en: [
+        `Veterinary clinics in Montreux, Vevey and along the Riviera; night emergencies run on a regional duty rota, phone before travelling`,
+        `General emergency number: 112; Swiss veterinary care is excellent but expensive, pet insurance is recommended`,
+        `Pet shops in Montreux and Vevey, pet aisles in Coop and Migros supermarkets`,
+        `SBB/MOB trains, VMCV buses and CGN boats: dogs admitted (half fare above 30 cm, free in a carrier); a muzzle is required only if staff ask`,
+        `EU pet passport, microchip and up-to-date rabies vaccination suffice from the EU; Switzerland bans dogs with cropped ears or docked tails, beware if yours is affected`,
+      ],
+      es: [
+        `Clínicas veterinarias en Montreux, Vevey y la Riviera; las urgencias nocturnas funcionan con guardia regional, llama antes de desplazarte`,
+        `Número general de emergencias: 112; la atención veterinaria suiza es excelente pero cara, se recomienda un seguro para mascotas`,
+        `Tiendas de animales en Montreux y Vevey, secciones de mascotas en los supermercados Coop y Migros`,
+        `Trenes SBB/MOB, autobuses VMCV y barcos CGN: perros admitidos (media tarifa a partir de 30 cm, gratis en transportín); bozal exigido solo si el personal lo pide`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día bastan desde la UE; Suiza prohíbe los perros con orejas o cola cortadas, atención si es el caso del tuyo`,
+      ],
+      pt: [
+        `Clínicas veterinárias em Montreux, Vevey e ao longo da Riviera; as urgências noturnas funcionam em escala regional, telefone antes de se deslocar`,
+        `Número geral de emergência: 112; os cuidados veterinários suíços são excelentes mas caros, recomenda-se um seguro para animais`,
+        `Lojas de animais em Montreux e Vevey, secções pet nos supermercados Coop e Migros`,
+        `Comboios SBB/MOB, autocarros VMCV e barcos CGN: cães admitidos (meio bilhete acima de 30 cm, grátis em transportadora); açaime exigido apenas se o pessoal o pedir`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia bastam a partir da UE; a Suíça proíbe cães com orelhas ou cauda cortadas, atenção se for o caso do seu`,
       ],
     },
   },

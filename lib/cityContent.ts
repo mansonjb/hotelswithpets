@@ -25650,6 +25650,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  sete: {
+    history: {
+      fr: `Née en 1666 d'une décision de Colbert qui cherchait un débouché méditerranéen au canal du Midi, Sète a poussé entre mer et étang de Thau, au pied du mont Saint-Clair. Le port voulu par Louis XIV a attiré pêcheurs italiens de Gaète et de Cetara, dont les descendants peuplent encore le quartier de la Pointe Courte et ont donné à la ville sa tielle, sa macaronade et son accent chantant. Sur le canal Royal, les joutes nautiques, disputées depuis l'inauguration du port, restent la grande liturgie de l'été, apothéose à la Saint-Louis. L'île singulière a aussi donné deux poètes à la France, Paul Valéry, qui repose au cimetière marin qu'il a chanté, et Georges Brassens, enterré non loin de sa plage de la Corniche. Entre canaux, halles, criée et kilomètres de lido sauvage vers Marseillan, Sète se découvre merveilleusement à pied avec un chien.`,
+      en: `Born in 1666 from a decision by Colbert, who was seeking a Mediterranean outlet for the Canal du Midi, Sète grew up between the sea and the Thau lagoon, at the foot of Mont Saint-Clair. The port willed by Louis XIV drew Italian fishermen from Gaeta and Cetara, whose descendants still people the Pointe Courte quarter and gave the town its tielle pie, its macaronade and its singing accent. On the Canal Royal, the water jousting tournaments, held since the port's inauguration, remain the great liturgy of summer, climaxing at the Saint-Louis festival. The singular island also gave France two poets: Paul Valéry, who rests in the marine cemetery he sang of, and Georges Brassens, buried not far from his Corniche beach. Between canals, covered market, fish auction and kilometres of wild lido towards Marseillan, Sète is a marvellous town to discover on foot with a dog.`,
+      es: `Nacida en 1666 de una decisión de Colbert, que buscaba una salida mediterránea para el canal del Midi, Sète creció entre el mar y la laguna de Thau, al pie del monte Saint-Clair. El puerto querido por Luis XIV atrajo a pescadores italianos de Gaeta y Cetara, cuyos descendientes pueblan aún el barrio de la Pointe Courte y dieron a la ciudad su tielle, su macaronade y su acento cantarín. En el canal Royal, las justas náuticas, disputadas desde la inauguración del puerto, siguen siendo la gran liturgia del verano, con apoteosis en la fiesta de Saint-Louis. La isla singular también dio a Francia dos poetas: Paul Valéry, que descansa en el cementerio marino que cantó, y Georges Brassens, enterrado no lejos de su playa de la Corniche. Entre canales, mercado cubierto, lonja y kilómetros de lido salvaje hacia Marseillan, Sète se descubre de maravilla a pie con un perro.`,
+      pt: `Nascida em 1666 de uma decisão de Colbert, que procurava uma saída mediterrânica para o canal do Midi, Sète cresceu entre o mar e a laguna de Thau, ao pé do monte Saint-Clair. O porto desejado por Luís XIV atraiu pescadores italianos de Gaeta e Cetara, cujos descendentes ainda povoam o bairro da Pointe Courte e deram à cidade a sua tielle, a sua macaronade e o seu sotaque cantante. No canal Royal, as justas náuticas, disputadas desde a inauguração do porto, continuam a ser a grande liturgia do verão, com apoteose na festa de Saint-Louis. A ilha singular também deu dois poetas à França: Paul Valéry, que repousa no cemitério marinho que cantou, e Georges Brassens, sepultado não longe da sua praia da Corniche. Entre canais, mercado coberto, lota e quilómetros de lido selvagem em direção a Marseillan, Sète descobre-se maravilhosamente a pé com um cão.`,
+    },
+    sights: [
+      {
+        name: `Mont Saint-Clair`,
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Le sommet qui domine l'île singulière à 175 mètres offre un panorama immense sur la ville, le lido, l'étang de Thau et, par temps clair, les Pyrénées. La montée par les escaliers du quartier haut puis la forêt domaniale des Pierres Blanches est une superbe balade en laisse, à faire aux heures fraîches.`,
+          en: `The summit dominating the singular island at 175 metres offers an immense panorama over the town, the lido, the Thau lagoon and, on clear days, the Pyrenees. The climb via the upper quarter's staircases then the Pierres Blanches forest is a superb on-lead walk, best done in the cool hours.`,
+          es: `La cumbre que domina la isla singular a 175 metros ofrece un panorama inmenso sobre la ciudad, el lido, la laguna de Thau y, con tiempo claro, los Pirineos. La subida por las escaleras del barrio alto y luego el bosque de las Pierres Blanches es un paseo soberbio con correa, para hacer en las horas frescas.`,
+          pt: `O cume que domina a ilha singular a 175 metros oferece um panorama imenso sobre a cidade, o lido, a laguna de Thau e, com tempo limpo, os Pirenéus. A subida pelas escadarias do bairro alto e depois pela floresta das Pierres Blanches é um passeio soberbo com trela, a fazer nas horas frescas.`,
+        },
+      },
+      {
+        name: `Canal Royal`,
+        emoji: '🛶',
+        petFriendly: true,
+        desc: {
+          fr: `L'artère d'eau de la ville aligne façades colorées, barques de pêche et pontons des sociétés de joutes, dont les tintaines s'affrontent tout l'été à la lance et au pavois. Les quais se longent très bien en laisse, et les terrasses des quais acceptent souvent les chiens sages au pied des tables.`,
+          en: `The town's watery main artery lines up colourful facades, fishing boats and the pontoons of the jousting societies, whose champions clash all summer with lance and shield. The quays are ideal for an on-lead stroll, and the quayside terraces often accept well-behaved dogs at the foot of the tables.`,
+          es: `La arteria de agua de la ciudad alinea fachadas de colores, barcas de pesca y los pontones de las sociedades de justas, cuyos justadores se enfrentan todo el verano con lanza y pavés. Los muelles se recorren muy bien con correa, y las terrazas de los muelles suelen aceptar perros tranquilos al pie de las mesas.`,
+          pt: `A artéria de água da cidade alinha fachadas coloridas, barcos de pesca e os pontões das sociedades de justas, cujos justadores se enfrentam todo o verão com lança e pavês. Os cais percorrem-se muito bem com trela, e as esplanadas dos cais aceitam muitas vezes cães bem-comportados ao pé das mesas.`,
+        },
+      },
+      {
+        name: `Plage de la Corniche`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `La plage urbaine chère à Brassens ouvre le long lido de sable qui court jusqu'à Marseillan. Les chiens y sont interdits en saison estivale sur les zones surveillées : repliez-vous alors sur les secteurs non aménagés du lido côté Triangle de Villeroy, tôt le matin, et sur tout le cordon hors saison.`,
+          en: `The town beach dear to Brassens opens the long sandy lido running to Marseillan. Dogs are banned in the summer season from the supervised zones: fall back on the undeveloped stretches of the lido towards the Triangle de Villeroy, early in the morning, and on the whole sand bar off season.`,
+          es: `La playa urbana querida por Brassens abre el largo lido de arena que corre hasta Marseillan. Los perros están prohibidos en temporada estival en las zonas vigiladas: refúgiate entonces en los sectores sin equipar del lido hacia el Triangle de Villeroy, a primera hora, y en todo el cordón fuera de temporada.`,
+          pt: `A praia urbana querida de Brassens abre o longo lido de areia que corre até Marseillan. Os cães estão proibidos na época balnear nas zonas vigiadas: recue então para os setores não equipados do lido do lado do Triangle de Villeroy, de manhã cedo, e para todo o cordão fora de época.`,
+        },
+      },
+      {
+        name: `Étang de Thau`,
+        emoji: '🦪',
+        petFriendly: true,
+        desc: {
+          fr: `La grande lagune aux tables conchylicoles nourrit Bouzigues, Mèze et Marseillan, villages d'ostréiculteurs où l'on déguste huîtres et moules face à l'eau. Les berges et les ports se promènent bien en laisse, et beaucoup de mas conchylicoles à dégustation acceptent les chiens en terrasse.`,
+          en: `The great lagoon with its shellfish beds feeds Bouzigues, Mèze and Marseillan, oyster-farming villages where you taste oysters and mussels facing the water. The shores and little ports make good on-lead walks, and many tasting shacks accept dogs on their terraces.`,
+          es: `La gran laguna de mesas ostrícolas alimenta Bouzigues, Mèze y Marseillan, pueblos de ostricultores donde se degustan ostras y mejillones frente al agua. Las orillas y los puertos se pasean bien con correa, y muchos criaderos con degustación aceptan perros en la terraza.`,
+          pt: `A grande laguna de viveiros de marisco alimenta Bouzigues, Mèze e Marseillan, aldeias de ostreicultores onde se provam ostras e mexilhões frente à água. As margens e os portinhos passeiam-se bem com trela, e muitos viveiros com prova aceitam cães na esplanada.`,
+        },
+      },
+      {
+        name: `Espace Georges Brassens`,
+        emoji: '🎸',
+        petFriendly: false,
+        desc: {
+          fr: `Le musée consacré à l'enfant du pays fait entendre sa voix au casque le long d'un parcours émouvant, face au cimetière du Py où il repose. Les chiens n'entrent pas dans le musée : relayez-vous pour la visite, le parc Simone-Veil voisin offre une attente ombragée agréable.`,
+          en: `The museum devoted to the town's most famous son plays his voice through headphones along a moving trail, opposite the Py cemetery where he rests. Dogs do not enter the museum: take turns visiting, as the neighbouring Simone-Veil park offers pleasant shaded waiting.`,
+          es: `El museo dedicado al hijo pródigo de la ciudad hace oír su voz con auriculares a lo largo de un recorrido emocionante, frente al cementerio del Py donde descansa. Los perros no entran en el museo: turnaos para la visita, el parque Simone-Veil vecino ofrece una espera sombreada agradable.`,
+          pt: `O museu dedicado ao filho mais famoso da cidade faz ouvir a sua voz nos auscultadores ao longo de um percurso comovente, em frente ao cemitério do Py onde repousa. Os cães não entram no museu: revezem-se na visita, o parque Simone-Veil vizinho oferece uma espera sombreada agradável.`,
+        },
+      },
+      {
+        name: `Halles de Sète`,
+        emoji: '🐟',
+        petFriendly: false,
+        desc: {
+          fr: `Le ventre de Sète regorge de tielles, d'huîtres de Bouzigues, de poissons de la criée et de comptoirs où l'on mange sur le pouce dans un brouhaha joyeux. Comme dans toutes les halles alimentaires, les chiens n'entrent pas : les terrasses des rues voisines permettent de déguster ses emplettes à deux.`,
+          en: `Sète's belly overflows with tielles, Bouzigues oysters, fish from the auction and counters where you snack amid joyful hubbub. As in all covered food markets, dogs do not enter: the terraces of the neighbouring streets let you enjoy your purchases together.`,
+          es: `El vientre de Sète rebosa de tielles, ostras de Bouzigues, pescado de la lonja y mostradores donde se come al paso entre un bullicio alegre. Como en todos los mercados de abastos, los perros no entran: las terrazas de las calles vecinas permiten degustar las compras juntos.`,
+          pt: `O ventre de Sète transborda de tielles, ostras de Bouzigues, peixe da lota e balcões onde se petisca num alvoroço alegre. Como em todos os mercados alimentares, os cães não entram: as esplanadas das ruas vizinhas permitem saborear as compras a dois.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Sur les plages surveillées de la Corniche et du Lido, les chiens sont interdits pendant la saison balnéaire : visez les secteurs non aménagés du lido vers Marseillan tôt le matin, et retrouvez tout le cordon de sable d'octobre à la réouverture des postes de secours.`,
+        `L'ascension du mont Saint-Clair est raide et le bitume chauffe fort l'été : montez avant 10 h ou en fin de journée, avec de l'eau pour deux, l'ombre n'arrive qu'à la forêt des Pierres Blanches.`,
+        `Pendant les joutes de la Saint-Louis fin août, la foule, les fanfares et les pétards saturent les quais : si votre chien est sensible au bruit, préférez les berges de Thau ou le quartier de la Pointe Courte à cette période.`,
+        `Sur les berges de l'étang de Thau, ne laissez pas votre chien boire l'eau saumâtre ni fouiller les tables conchylicoles : coquilles coupantes pour les coussinets et risque digestif garanti.`,
+        `Les bus du réseau Sète agglopôle acceptent les petits chiens en sac de transport ; en TER vers Montpellier ou Agde, billet animal à tarif réduit, laisse et muselière recommandées pour les grands gabarits.`,
+      ],
+      en: [
+        `On the supervised beaches of the Corniche and the Lido, dogs are banned during the bathing season: aim for the undeveloped stretches of the lido towards Marseillan early in the morning, and reclaim the whole sand bar from October until the lifeguard posts reopen.`,
+        `The climb up Mont Saint-Clair is steep and the asphalt gets very hot in summer: go up before 10am or at the end of the day, with water for two, as shade only arrives at the Pierres Blanches forest.`,
+        `During the Saint-Louis jousting festival in late August, crowds, brass bands and firecrackers saturate the quays: if your dog is noise-sensitive, prefer the Thau shores or the Pointe Courte quarter at that time.`,
+        `On the shores of the Thau lagoon, do not let your dog drink the brackish water or forage around the shellfish beds: sharp shells for the paws and a guaranteed digestive risk.`,
+        `Sète agglopôle network buses accept small dogs in carriers; on TER trains to Montpellier or Agde, pets pay a reduced fare, with lead and muzzle recommended for large dogs.`,
+      ],
+      es: [
+        `En las playas vigiladas de la Corniche y del Lido, los perros están prohibidos durante la temporada de baño: apunta a los sectores sin equipar del lido hacia Marseillan a primera hora, y recupera todo el cordón de arena de octubre hasta la reapertura de los puestos de socorro.`,
+        `La subida al monte Saint-Clair es empinada y el asfalto se calienta mucho en verano: sube antes de las 10 h o al final del día, con agua para dos, la sombra solo llega en el bosque de las Pierres Blanches.`,
+        `Durante las justas de Saint-Louis a finales de agosto, la multitud, las bandas y los petardos saturan los muelles: si tu perro es sensible al ruido, prefiere las orillas de Thau o el barrio de la Pointe Courte en esas fechas.`,
+        `En las orillas de la laguna de Thau, no dejes que tu perro beba el agua salobre ni hurgue en las mesas ostrícolas: conchas cortantes para las almohadillas y riesgo digestivo garantizado.`,
+        `Los autobuses de la red Sète agglopôle aceptan perros pequeños en transportín; en el TER hacia Montpellier o Agde, billete de animal con tarifa reducida, correa y bozal recomendados para los de gran tamaño.`,
+      ],
+      pt: [
+        `Nas praias vigiadas da Corniche e do Lido, os cães estão proibidos durante a época balnear: aponte aos setores não equipados do lido em direção a Marseillan de manhã cedo, e recupere todo o cordão de areia de outubro até à reabertura dos postos de socorro.`,
+        `A subida ao monte Saint-Clair é íngreme e o asfalto aquece muito no verão: suba antes das 10h ou ao fim do dia, com água para os dois, a sombra só chega na floresta das Pierres Blanches.`,
+        `Durante as justas da Saint-Louis no fim de agosto, a multidão, as bandas e os petardos saturam os cais: se o seu cão é sensível ao ruído, prefira as margens de Thau ou o bairro da Pointe Courte nessa altura.`,
+        `Nas margens da laguna de Thau, não deixe o seu cão beber a água salobra nem remexer nos viveiros de marisco: conchas cortantes para as almofadinhas e risco digestivo garantido.`,
+        `Os autocarros da rede Sète agglopôle aceitam cães pequenos em transportadora; no TER para Montpellier ou Agde, bilhete de animal a tarifa reduzida, trela e açaime recomendados para os de grande porte.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Plusieurs cabinets vétérinaires à Sète et dans les communes du bassin de Thau pour les soins courants ; pour les urgences de nuit, le 3115 (numéro national vétérinaire de garde, gratuit) oriente vers le service de garde, cliniques 24 h/24 à Montpellier`,
+        `Numéro d'urgence européen : 112 ; pompiers : 18`,
+        `Animaleries en périphérie (zone de Balaruc) et rayons animaux dans les supermarchés du centre ; toilettage en ville`,
+        `Bus Sète agglopôle : petits chiens en transportín ; TER vers Montpellier, Agde et Béziers : billet animal à tarif réduit ; navettes maritimes de l'étang en saison : se renseigner à l'embarquement`,
+        `Chiens interdits sur les plages surveillées en saison estivale (arrêtés affichés) et dans les halles ; laisse obligatoire en ville, sacs à déjections dans les distributeurs des quais et du mont Saint-Clair`,
+      ],
+      en: [
+        `Several veterinary practices in Sète and the Thau basin towns for routine care; for night emergencies, 3115 (the free national on-call veterinary number) directs you to the duty service, with 24-hour clinics in Montpellier`,
+        `European emergency number: 112; fire brigade: 18`,
+        `Pet shops on the outskirts (Balaruc zone) and pet aisles in the centre's supermarkets; grooming in town`,
+        `Sète agglopôle buses: small dogs in carriers; TER trains to Montpellier, Agde and Béziers: reduced-fare pet ticket; lagoon shuttle boats in season: ask when boarding`,
+        `Dogs banned from supervised beaches in the summer season (posted bylaws) and from the covered market; leads compulsory in town, waste bags in dispensers on the quays and Mont Saint-Clair`,
+      ],
+      es: [
+        `Varias consultas veterinarias en Sète y en los municipios de la cuenca de Thau para cuidados corrientes; para urgencias nocturnas, el 3115 (número nacional veterinario de guardia, gratuito) orienta hacia el servicio de guardia, con clínicas 24 h en Montpellier`,
+        `Número de emergencias europeo: 112; bomberos: 18`,
+        `Tiendas de animales en la periferia (zona de Balaruc) y secciones de mascotas en los supermercados del centro; peluquería canina en la ciudad`,
+        `Autobuses Sète agglopôle: perros pequeños en transportín; TER hacia Montpellier, Agde y Béziers: billete de animal con tarifa reducida; lanzaderas marítimas de la laguna en temporada: preguntar al embarcar`,
+        `Perros prohibidos en las playas vigiladas en temporada estival (bandos expuestos) y en el mercado cubierto; correa obligatoria en la ciudad, bolsas en los dispensadores de los muelles y del monte Saint-Clair`,
+      ],
+      pt: [
+        `Vários consultórios veterinários em Sète e nos municípios da bacia de Thau para cuidados correntes; para urgências noturnas, o 3115 (número nacional veterinário de urgência, gratuito) encaminha para o serviço de urgência, com clínicas 24h em Montpellier`,
+        `Número de emergência europeu: 112; bombeiros: 18`,
+        `Lojas de animais na periferia (zona de Balaruc) e secções pet nos supermercados do centro; banhos e tosquias na cidade`,
+        `Autocarros Sète agglopôle: cães pequenos em transportadora; TER para Montpellier, Agde e Béziers: bilhete de animal a tarifa reduzida; vaivéns marítimos da laguna na época alta: informar-se ao embarcar`,
+        `Cães proibidos nas praias vigiadas na época balnear (editais afixados) e no mercado coberto; trela obrigatória na cidade, sacos nos dispensadores dos cais e do monte Saint-Clair`,
+      ],
+    },
+  },
+
   seville: {
     history: {
       fr: `L'identité de Séville s'est forgée dans l'empire : Hispalis sous Rome, Ishbiliya sous les Almohades, puis port atlantique exclusif des Indes espagnoles après 1503, elle a fait transiter l'argent du Nouveau Monde par sa Torre del Oro et vu naître Velázquez, Murillo et le flamenco. Il em résulte une ville de patios parfumés à l'oranger, d'azulejos mudéjars et de la plus grande cathédrale gothique au monde. Les Sévillans entretiennent un rapport très social avec leurs chiens, fruit d'un mode de vie place-et-patio où le perro de casa suit simplement la famille au bar à tapas. L'été bouleverse tout autour de l'ombre : chiens et maîtres vivent nocturnes de juin à septembre, les berges ombragées du Guadalquivir faisant office de salon extérieur.`,
@@ -27991,6 +28128,143 @@ const cityContent: Record<string, CityContent> = {
         `Transporte local: EMT Tarragona (bus) admite cães pequenos em transportadora grátis e cães maiores a critério do condutor fora da hora de ponta; bilhete 1,55 €.`,
         `Pet-sitting: Rover, Gudog e TrustedHousesitters cobrem a cidade; 14–18 € por noite em alojamento em casa do sitter e 10–13 € por passeio; reserva com 4 semanas de antecedência para Semana Santa, Festes de Santa Tecla (meados de setembro) e Natal.`,
         `Clima: verões quentes 24–28 °C, por vezes varridos pelo vento Mestral; invernos suaves 10–14 °C com chuvas concentradas em outubro. Melhores meses com um cão: maio, junho e fim de setembro.`,
+      ],
+    },
+  },
+
+  tavira: {
+    history: {
+      fr: `Comptoir phénicien puis cité maure prospère, Tavira fut reprise en 1242 par les chevaliers de Santiago, dont le château domine toujours le lacis de ruelles blanches. Son âge d'or vint de la pêche au thon et du commerce avec l'Afrique du Nord : au XVIe siècle, elle était la ville la plus peuplée de l'Algarve, assez riche pour semer sur ses deux rives une trentaine d'églises et ces toits en pyramides à quatre pans, dits de tesouro, qui font sa silhouette unique. Le pont dit romain, sept arches enjambant le Gilão, relie depuis des siècles les deux moitiés de la ville. Le grand tremblement de terre de 1755 et l'ensablement du port mirent fin à sa splendeur, la laissant intacte ou presque. Aujourd'hui, entre salines roses à flamants, ria Formosa et île-plage accessible en bac, Tavira est l'une des villes les plus douces de l'Algarve à vivre avec un chien.`,
+      en: `A Phoenician trading post then a prosperous Moorish city, Tavira was retaken in 1242 by the knights of Santiago, whose castle still dominates the web of white lanes. Its golden age came from tuna fishing and trade with North Africa: in the 16th century it was the most populous town in the Algarve, rich enough to scatter some thirty churches across its two banks along with the four-sided pyramid rooftops, called tesouro roofs, that give it a unique silhouette. The so-called Roman bridge, seven arches spanning the Gilão, has linked the town's two halves for centuries. The great earthquake of 1755 and the silting of the port ended its splendour, leaving it almost untouched. Today, between pink salt pans dotted with flamingos, the Ria Formosa and an island beach reached by ferry, Tavira is one of the gentlest towns in the Algarve to enjoy with a dog.`,
+      es: `Factoría fenicia y luego próspera ciudad mora, Tavira fue reconquistada en 1242 por los caballeros de Santiago, cuyo castillo domina todavía el entramado de callejuelas blancas. Su edad de oro vino de la pesca del atún y del comercio con el norte de África: en el siglo XVI era la ciudad más poblada del Algarve, lo bastante rica para sembrar en sus dos orillas una treintena de iglesias y esos tejados en pirámide de cuatro aguas, llamados de tesouro, que le dan una silueta única. El puente llamado romano, siete arcos sobre el Gilão, une desde hace siglos las dos mitades de la ciudad. El gran terremoto de 1755 y el encenagamiento del puerto acabaron con su esplendor, dejándola casi intacta. Hoy, entre salinas rosas con flamencos, la ría Formosa y una isla-playa accesible en barco, Tavira es una de las ciudades más dulces del Algarve para vivir con perro.`,
+      pt: `Feitoria fenícia e depois próspera cidade moura, Tavira foi retomada em 1242 pelos cavaleiros de Santiago, cujo castelo ainda domina o rendilhado de vielas brancas. A sua idade de ouro veio da pesca do atum e do comércio com o Norte de África: no século XVI era a cidade mais populosa do Algarve, rica o bastante para semear nas suas duas margens uma trintena de igrejas e os telhados de tesouro de quatro águas que lhe dão uma silhueta única. A chamada ponte romana, sete arcos sobre o Gilão, liga há séculos as duas metades da cidade. O grande terramoto de 1755 e o assoreamento do porto puseram fim ao seu esplendor, deixando-a quase intacta. Hoje, entre salinas cor-de-rosa com flamingos, a ria Formosa e uma ilha-praia acessível de barco, Tavira é uma das cidades mais doces do Algarve para viver com um cão.`,
+    },
+    sights: [
+      {
+        name: `Ponte Romana`,
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Le pont aux sept arches qui enjambe le Gilão, d'origine médiévale malgré son nom, est piéton et relie les deux rives de la vieille ville. C'est le passage obligé de toute promenade en laisse, superbe au couchant quand les façades blanches se reflètent dans le fleuve.`,
+          en: `The seven-arched bridge over the Gilão, medieval in origin despite its name, is pedestrian and links the two banks of the old town. It is the obligatory crossing of any on-lead stroll, superb at sunset when the white facades reflect in the river.`,
+          es: `El puente de siete arcos sobre el Gilão, de origen medieval pese a su nombre, es peatonal y une las dos orillas del casco antiguo. Es el paso obligado de todo paseo con correa, soberbio al atardecer, cuando las fachadas blancas se reflejan en el río.`,
+          pt: `A ponte de sete arcos sobre o Gilão, de origem medieval apesar do nome, é pedonal e liga as duas margens do centro histórico. É a passagem obrigatória de qualquer passeio com trela, soberba ao pôr do sol, quando as fachadas brancas se refletem no rio.`,
+        },
+      },
+      {
+        name: `Castelo de Tavira`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Les murailles maures reconstruites après la Reconquête abritent un jardin fleuri de bougainvillées et de jacarandas, en accès libre. Les chiens en laisse s'y promènent volontiers, mais la montée aux remparts se fait sans garde-corps : gardez la laisse courte pour profiter de la vue sur les toits de tesouro.`,
+          en: `The Moorish walls rebuilt after the Reconquest shelter a garden blooming with bougainvillea and jacarandas, free to enter. Leashed dogs are happy wandering here, but the climb onto the ramparts has no railings: keep the lead short while enjoying the view over the tesouro rooftops.`,
+          es: `Las murallas moras reconstruidas tras la Reconquista albergan un jardín florido de buganvillas y jacarandás, de acceso libre. Los perros con correa pasean a gusto, pero la subida a las murallas carece de barandillas: lleva la correa corta mientras disfrutas de la vista sobre los tejados de tesouro.`,
+          pt: `As muralhas mouras reconstruídas após a Reconquista abrigam um jardim florido de buganvílias e jacarandás, de acesso livre. Os cães com trela passeiam de bom grado, mas a subida às ameias faz-se sem guarda-corpos: mantenha a trela curta enquanto aprecia a vista sobre os telhados de tesouro.`,
+        },
+      },
+      {
+        name: `Ilha de Tavira`,
+        emoji: '🏝️',
+        petFriendly: false,
+        desc: {
+          fr: `Onze kilomètres de sable et de dunes entre ria et océan, accessibles en bac depuis le centre ou Quatro Águas. Les chiens sont généralement admis à bord du bateau, mais interdits en été sur la plage surveillée : l'île se savoure avec un chien hors saison, quand le sable redevient libre.`,
+          en: `Eleven kilometres of sand and dunes between lagoon and ocean, reached by ferry from the centre or Quatro Águas. Dogs are generally allowed aboard the boat but banned in summer from the supervised beach: the island is best savoured with a dog off season, when the sand is free again.`,
+          es: `Once kilómetros de arena y dunas entre la ría y el océano, accesibles en barco desde el centro o Quatro Águas. Los perros suelen admitirse a bordo, pero están prohibidos en verano en la playa vigilada: la isla se disfruta con perro fuera de temporada, cuando la arena vuelve a ser libre.`,
+          pt: `Onze quilómetros de areia e dunas entre a ria e o oceano, acessíveis de barco a partir do centro ou de Quatro Águas. Os cães são geralmente admitidos a bordo, mas proibidos no verão na praia vigiada: a ilha saboreia-se com um cão fora de época, quando a areia volta a ser livre.`,
+        },
+      },
+      {
+        name: `Salinas de Tavira`,
+        emoji: '🦩',
+        petFriendly: true,
+        desc: {
+          fr: `Les salines qui bordent la ria Formosa se teintent de rose en été et accueillent flamants, avocettes et échasses blanches. Les digues se parcourent à pied ou à vélo, chien en laisse courte obligatoire : la quiétude des oiseaux du parc naturel en dépend, surtout en période de nidification au printemps.`,
+          en: `The salt pans bordering the Ria Formosa turn pink in summer and host flamingos, avocets and black-winged stilts. The dykes can be walked or cycled, with a short lead compulsory for dogs: the peace of the natural park's birds depends on it, especially during spring nesting.`,
+          es: `Las salinas que bordean la ría Formosa se tiñen de rosa en verano y acogen flamencos, avocetas y cigüeñuelas. Los diques se recorren a pie o en bici, con el perro con correa corta obligatoria: la tranquilidad de las aves del parque natural depende de ello, sobre todo en la nidificación primaveral.`,
+          pt: `As salinas que bordejam a ria Formosa tingem-se de rosa no verão e acolhem flamingos, alfaiates e pernilongos. Os diques percorrem-se a pé ou de bicicleta, com trela curta obrigatória para o cão: a tranquilidade das aves do parque natural depende disso, sobretudo na nidificação primaveril.`,
+        },
+      },
+      {
+        name: `Torre de Tavira`,
+        emoji: '🔭',
+        petFriendly: false,
+        desc: {
+          fr: `L'ancien château d'eau reconverti en camera obscura projette en direct, par un jeu de miroir et de lentilles, une image à 360 degrés de la ville et de la ria. La visite guidée se fait dans une salle obscure où les chiens n'entrent pas : relayez-vous, le jardin du castelo attend à deux pas.`,
+          en: `The former water tower converted into a camera obscura projects live, through a mirror and lens system, a 360-degree image of the town and the lagoon. The guided visit takes place in a dark room where dogs do not enter: take turns, the castle garden waits two steps away.`,
+          es: `El antiguo depósito de agua reconvertido en cámara oscura proyecta en directo, mediante un juego de espejo y lentes, una imagen de 360 grados de la ciudad y la ría. La visita guiada se hace en una sala oscura donde los perros no entran: turnaos, el jardín del castillo espera a dos pasos.`,
+          pt: `O antigo depósito de água reconvertido em câmara obscura projeta ao vivo, através de um jogo de espelho e lentes, uma imagem a 360 graus da cidade e da ria. A visita guiada decorre numa sala escura onde os cães não entram: revezem-se, o jardim do castelo espera a dois passos.`,
+        },
+      },
+      {
+        name: `Jardim do Coreto`,
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le long du Gilão, le jardin du kiosque et sa promenade riveraine alignent palmiers, bancs azulejos et terrasses face aux barques de pêche. C'est le salon de plein air de Tavira, parfait pour la sortie du soir en laisse, prolongée par les quais jusqu'au marché et aux salines.`,
+          en: `Along the Gilão, the bandstand garden and its riverside promenade line up palm trees, azulejo benches and terraces facing the fishing boats. It is Tavira's open-air living room, perfect for the evening on-lead outing, extended along the quays to the market and the salt pans.`,
+          es: `A lo largo del Gilão, el jardín del quiosco y su paseo ribereño alinean palmeras, bancos de azulejos y terrazas frente a las barcas de pesca. Es el salón al aire libre de Tavira, perfecto para la salida vespertina con correa, prolongada por los muelles hasta el mercado y las salinas.`,
+          pt: `Ao longo do Gilão, o jardim do coreto e o seu passeio ribeirinho alinham palmeiras, bancos de azulejos e esplanadas frente aos barcos de pesca. É a sala de estar ao ar livre de Tavira, perfeita para o passeio da tarde com trela, prolongado pelos cais até ao mercado e às salinas.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Sur les plages surveillées de l'île de Tavira et du Barril, les chiens sont interdits pendant la saison balnéaire (amendes à la clé) : profitez de l'île hors saison, ou visez les portions de sable non concessionnées loin des postes de surveillance, tôt le matin.`,
+        `Les bacs pour l'île de Tavira acceptent généralement les chiens, souvent gratuits ou à demi-tarif, laisse exigée et muselière parfois demandée pour les grands gabarits : vérifiez à l'embarcadère selon la compagnie.`,
+        `Dans la ria Formosa, gardez la laisse courte sur les digues des salines et les sentiers du parc naturel : oiseaux nicheurs au printemps, et vasières traîtresses où un chien s'embourbe vite.`,
+        `L'été algarvien est brûlant : pavés blancs et sable dépassent les 50 degrés l'après-midi, sortez aux heures fraîches, testez le sol du dos de la main et emportez toujours de l'eau, les fontaines sont rares hors du centre.`,
+        `Attention à la processionnaire du pin de janvier à avril dans les pinèdes du littoral : tenez votre chien à l'écart des cortèges de chenilles, urgence vétérinaire immédiate en cas de contact avec la truffe ou la langue.`,
+      ],
+      en: [
+        `On the supervised beaches of Ilha de Tavira and Barril, dogs are banned during the bathing season (fines apply): enjoy the island off season, or aim for the unconcessioned stretches of sand far from the lifeguard posts, early in the morning.`,
+        `The ferries to Ilha de Tavira generally accept dogs, often free or half fare, lead required and a muzzle sometimes requested for large dogs: check at the pier depending on the operator.`,
+        `In the Ria Formosa, keep the lead short on the salt-pan dykes and the natural park trails: nesting birds in spring, and treacherous mudflats where a dog quickly gets bogged down.`,
+        `The Algarve summer is scorching: white cobbles and sand exceed 50 degrees in the afternoon, go out in the cool hours, test the ground with the back of your hand and always carry water, fountains are rare outside the centre.`,
+        `Beware pine processionary caterpillars from January to April in the coastal pine woods: keep your dog away from the caterpillar trains, and seek immediate veterinary care if their nose or tongue touches one.`,
+      ],
+      es: [
+        `En las playas vigiladas de la isla de Tavira y de Barril, los perros están prohibidos durante la temporada de baño (con multas): disfruta de la isla fuera de temporada, o apunta a los tramos de arena sin concesión lejos de los puestos de socorro, a primera hora.`,
+        `Los barcos a la isla de Tavira suelen aceptar perros, a menudo gratis o a mitad de tarifa, correa exigida y bozal a veces solicitado para los grandes: compruébalo en el embarcadero según la compañía.`,
+        `En la ría Formosa, lleva la correa corta en los diques de las salinas y los senderos del parque natural: aves nidificantes en primavera y marismas traicioneras donde un perro se atasca enseguida.`,
+        `El verano algarvío es abrasador: los adoquines blancos y la arena superan los 50 grados por la tarde, sal en las horas frescas, prueba el suelo con el dorso de la mano y lleva siempre agua, las fuentes escasean fuera del centro.`,
+        `Cuidado con la procesionaria del pino de enero a abril en los pinares del litoral: mantén a tu perro lejos de las hileras de orugas, y acude de urgencia al veterinario si toca una con la trufa o la lengua.`,
+      ],
+      pt: [
+        `Nas praias vigiadas da ilha de Tavira e do Barril, os cães estão proibidos durante a época balnear (com coimas): aproveite a ilha fora de época, ou aponte aos troços de areia não concessionados longe dos postos de vigilância, de manhã cedo.`,
+        `Os barcos para a ilha de Tavira aceitam geralmente cães, muitas vezes grátis ou a meia tarifa, trela exigida e açaime por vezes pedido para os de grande porte: confirme no cais consoante a companhia.`,
+        `Na ria Formosa, mantenha a trela curta nos diques das salinas e nos trilhos do parque natural: aves nidificantes na primavera e lodaçais traiçoeiros onde um cão se atola depressa.`,
+        `O verão algarvio é escaldante: a calçada branca e a areia ultrapassam os 50 graus à tarde, saia nas horas frescas, teste o chão com as costas da mão e leve sempre água, as fontes são raras fora do centro.`,
+        `Cuidado com a processionária do pinheiro de janeiro a abril nos pinhais do litoral: mantenha o seu cão afastado das filas de lagartas, e procure o veterinário de urgência em caso de contacto com o focinho ou a língua.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cabinets vétérinaires à Tavira et dans les communes voisines pour les soins courants ; les hôpitaux vétérinaires 24 h/24 les plus proches sont à Faro et Loulé, à une demi-heure de route`,
+        `Numéro d'urgence européen : 112`,
+        `Animaleries et rayons animaux dans les supermarchés de la ville ; toilettage disponible en centre-ville`,
+        `Trains régionaux CP de la ligne de l'Algarve : petits chiens en transportín gratuits, grands chiens en laisse et muselés avec billet à demi-tarif ; bacs pour l'île : chiens généralement admis, se renseigner à l'embarcadère`,
+        `Passeport européen, puce et vaccin antirabique à jour requis ; laisse obligatoire dans les espaces publics, chiens interdits sur les plages surveillées en saison, prévention leishmaniose fortement conseillée dans le sud du Portugal (phlébotomes actifs de mai à octobre)`,
+      ],
+      en: [
+        `Veterinary practices in Tavira and the neighbouring towns for routine care; the nearest 24-hour veterinary hospitals are in Faro and Loulé, half an hour's drive away`,
+        `European emergency number: 112`,
+        `Pet shops and pet aisles in the town's supermarkets; grooming available in the centre`,
+        `CP regional trains on the Algarve line: small dogs in carriers travel free, large dogs on lead and muzzled with a half-fare ticket; island ferries: dogs generally admitted, ask at the pier`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required; leads compulsory in public spaces, dogs banned from supervised beaches in season, leishmaniasis prevention strongly advised in southern Portugal (sandflies active May to October)`,
+      ],
+      es: [
+        `Consultas veterinarias en Tavira y en los municipios vecinos para cuidados corrientes; los hospitales veterinarios 24 h más cercanos están en Faro y Loulé, a media hora por carretera`,
+        `Número de emergencias europeo: 112`,
+        `Tiendas de animales y secciones de mascotas en los supermercados de la ciudad; peluquería canina en el centro`,
+        `Trenes regionales CP de la línea del Algarve: perros pequeños en transportín gratis, grandes con correa y bozal con billete a mitad de tarifa; barcos a la isla: perros generalmente admitidos, preguntar en el embarcadero`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios; correa obligatoria en los espacios públicos, perros prohibidos en las playas vigiladas en temporada, prevención de la leishmaniosis muy aconsejada en el sur de Portugal (flebótomos activos de mayo a octubre)`,
+      ],
+      pt: [
+        `Consultórios veterinários em Tavira e nos concelhos vizinhos para cuidados correntes; os hospitais veterinários 24h mais próximos ficam em Faro e Loulé, a meia hora de carro`,
+        `Número de emergência europeu: 112`,
+        `Lojas de animais e secções pet nos supermercados da cidade; banhos e tosquias no centro`,
+        `Comboios regionais da CP na linha do Algarve: cães pequenos em transportadora grátis, cães grandes com trela e açaime com bilhete a meia tarifa; barcos para a ilha: cães geralmente admitidos, informar-se no cais`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; trela obrigatória nos espaços públicos, cães proibidos nas praias vigiadas na época balnear, prevenção da leishmaniose fortemente aconselhada no sul de Portugal (flebótomos ativos de maio a outubro)`,
       ],
     },
   },

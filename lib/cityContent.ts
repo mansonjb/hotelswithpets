@@ -19856,6 +19856,280 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  naxos: {
+    history: {
+      fr: `La plus grande et la plus fertile des Cyclades fut un centre majeur de la civilisation cycladique, puis la puissance qui dominait la mer Égée archaïque : c'est de ses carrières que sortirent les colosses de marbre et les fameux kouroi inachevés que l'on voit encore couchés à Apollonas et Melanes. En 1207, le Vénitien Marco Sanudo en fit la capitale du duché de l'Archipel, laissant à la Chora son kastro perché et ses demeures blasonnées. Île d'agriculteurs autant que de marins, Naxos vit de ses pommes de terre, de ses fromages et de son élevage autant que du tourisme, ce qui lui donne un arrière-pays authentique de villages de montagne comme Halki ou Apiranthos. Entre la Portara dressée face au couchant, les kilomètres de plages de sable de la côte ouest et les sentiers byzantins de l'intérieur, Naxos est une île généreuse pour qui voyage avec un chien.`,
+      en: `The largest and most fertile of the Cyclades was a major centre of Cycladic civilisation, then the power that dominated the archaic Aegean: its quarries produced marble colossi and the famous unfinished kouroi still lying at Apollonas and Melanes. In 1207 the Venetian Marco Sanudo made it the capital of the Duchy of the Archipelago, leaving the Chora its hilltop kastro and crested mansions. An island of farmers as much as sailors, Naxos lives off its potatoes, cheeses and livestock as much as tourism, which gives it an authentic hinterland of mountain villages such as Halki and Apiranthos. Between the Portara standing against the sunset, the kilometres of sandy beaches on the west coast and the Byzantine footpaths inland, Naxos is a generous island for anyone travelling with a dog.`,
+      es: `La más grande y fértil de las Cícladas fue un centro mayor de la civilización cicládica y luego la potencia que dominaba el Egeo arcaico: de sus canteras salieron los colosos de mármol y los famosos kouroi inacabados que aún yacen en Apollonas y Melanes. En 1207, el veneciano Marco Sanudo la convirtió en capital del ducado del Archipiélago, dejando a la Chora su kastro encaramado y sus mansiones blasonadas. Isla de agricultores tanto como de marinos, Naxos vive de sus patatas, sus quesos y su ganadería tanto como del turismo, lo que le da un interior auténtico de pueblos de montaña como Halki o Apiranthos. Entre la Portara alzada frente al atardecer, los kilómetros de playas de arena de la costa oeste y los senderos bizantinos del interior, Naxos es una isla generosa para quien viaja con perro.`,
+      pt: `A maior e mais fértil das Cíclades foi um centro maior da civilização cicládica e depois a potência que dominava o Egeu arcaico: das suas pedreiras saíram os colossos de mármore e os famosos kouroi inacabados que ainda jazem em Apollonas e Melanes. Em 1207, o veneziano Marco Sanudo fez dela a capital do ducado do Arquipélago, deixando à Chora o seu kastro empoleirado e as suas mansões brasonadas. Ilha de agricultores tanto como de marinheiros, Naxos vive das suas batatas, dos seus queijos e da sua criação de gado tanto como do turismo, o que lhe dá um interior autêntico de aldeias de montanha como Halki ou Apiranthos. Entre a Portara erguida contra o pôr do sol, os quilómetros de praias de areia da costa oeste e os trilhos bizantinos do interior, Naxos é uma ilha generosa para quem viaja com um cão.`,
+    },
+    sights: [
+      {
+        name: `Portara`,
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La porte monumentale du temple d'Apollon, jamais achevé au VIe siècle avant J.-C., se dresse sur l'îlot de Palatia relié au port par une digue. Les chiens en laisse accompagnent volontiers la procession du couchant : c'est le rituel du soir de toute l'île, gratuit et inoubliable.`,
+          en: `The monumental doorway of the temple of Apollo, never finished in the 6th century BC, stands on the islet of Palatia linked to the harbour by a causeway. Leashed dogs happily join the sunset procession: it is the whole island's evening ritual, free and unforgettable.`,
+          es: `La puerta monumental del templo de Apolo, nunca terminado en el siglo VI a. C., se alza en el islote de Palatia unido al puerto por un espigón. Los perros con correa acompañan con gusto la procesión del atardecer: es el ritual vespertino de toda la isla, gratuito e inolvidable.`,
+          pt: `A porta monumental do templo de Apolo, nunca terminado no século VI a.C., ergue-se no ilhéu de Palatia ligado ao porto por um dique. Os cães com trela acompanham de bom grado a procissão do pôr do sol: é o ritual do fim de tarde de toda a ilha, gratuito e inesquecível.`,
+        },
+      },
+      {
+        name: `Kastro de la Chora`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Au sommet de la vieille ville, le quartier fortifié des Vénitiens conserve portes blasonnées, demeures catholiques et venelles chaulées où l'on se perd avec bonheur. La flânerie en laisse y est idéale tôt le matin ; les musées du quartier n'admettent pas les chiens.`,
+          en: `At the top of the old town, the Venetians' fortified quarter keeps its crested gateways, Catholic mansions and limewashed alleys where getting lost is a pleasure. An on-lead wander is ideal early in the morning; the quarter's museums do not admit dogs.`,
+          es: `En lo alto del casco antiguo, el barrio fortificado de los venecianos conserva puertas blasonadas, mansiones católicas y callejones encalados donde perderse es un placer. El paseo con correa es ideal a primera hora; los museos del barrio no admiten perros.`,
+          pt: `No topo da cidade velha, o bairro fortificado dos venezianos conserva portas brasonadas, mansões católicas e vielas caiadas onde perder-se é um prazer. O passeio com trela é ideal de manhã cedo; os museus do bairro não admitem cães.`,
+        },
+      },
+      {
+        name: `Plaka`,
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Quatre kilomètres de sable blond et de dunes à cédratiers font de Plaka la plus belle plage de l'île. Hors saison, votre chien y court presque seul ; en été, tenez-vous aux extrémités non aménagées, loin des transats et des zones de baignade surveillées.`,
+          en: `Four kilometres of blond sand and juniper-backed dunes make Plaka the island's finest beach. Off season your dog runs almost alone here; in summer, keep to the undeveloped ends, away from the sunbeds and supervised bathing zones.`,
+          es: `Cuatro kilómetros de arena dorada y dunas con enebros hacen de Plaka la playa más bella de la isla. Fuera de temporada, tu perro corre casi solo; en verano, quédate en los extremos sin equipar, lejos de las hamacas y de las zonas de baño vigiladas.`,
+          pt: `Quatro quilómetros de areia loura e dunas com zimbros fazem de Plaka a mais bela praia da ilha. Fora de época, o seu cão corre quase sozinho; no verão, fique nas extremidades não equipadas, longe das espreguiçadeiras e das zonas de banho vigiadas.`,
+        },
+      },
+      {
+        name: `Halki`,
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `L'ancienne capitale de l'île, au cœur de la vallée de la Tragea, aligne demeures néoclassiques, églises byzantines et la distillerie historique de kitron, la liqueur de cédrat naxiote. Les ruelles ombragées et les oliveraies alentour se parcourent très bien en laisse.`,
+          en: `The island's former capital, in the heart of the Tragea valley, lines up neoclassical mansions, Byzantine churches and the historic distillery of kitron, the Naxian citron liqueur. The shaded lanes and surrounding olive groves work very well on lead.`,
+          es: `La antigua capital de la isla, en el corazón del valle de la Tragea, alinea mansiones neoclásicas, iglesias bizantinas y la destilería histórica de kitron, el licor de cidra naxiota. Las callejuelas sombreadas y los olivares de alrededor se recorren muy bien con correa.`,
+          pt: `A antiga capital da ilha, no coração do vale da Tragea, alinha mansões neoclássicas, igrejas bizantinas e a destilaria histórica de kitron, o licor de cidra naxiota. As vielas sombreadas e os olivais em redor percorrem-se muito bem com trela.`,
+        },
+      },
+      {
+        name: `Apiranthos`,
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Village de marbre accroché aux pentes du mont Fanari, Apiranthos a des ruelles dallées si polies qu'elles brillent, des passages voûtés et des terrasses face aux vallées. La promenade en laisse y est superbe, et les cafés de la rue principale accueillent volontiers les chiens calmes.`,
+          en: `A marble village clinging to the slopes of Mount Fanari, Apiranthos has flagstone lanes polished to a shine, vaulted passages and terraces facing the valleys. The on-lead stroll is superb, and the cafes on the main street gladly welcome calm dogs.`,
+          es: `Pueblo de mármol colgado de las laderas del monte Fanari, Apiranthos tiene callejuelas enlosadas tan pulidas que brillan, pasajes abovedados y terrazas frente a los valles. El paseo con correa es soberbio, y los cafés de la calle principal reciben con gusto a los perros tranquilos.`,
+          pt: `Aldeia de mármore agarrada às encostas do monte Fanari, Apiranthos tem vielas lajeadas tão polidas que brilham, passagens abobadadas e esplanadas viradas para os vales. O passeio com trela é soberbo, e os cafés da rua principal recebem de bom grado os cães calmos.`,
+        },
+      },
+      {
+        name: `Kouros de Melanes`,
+        emoji: '🗿',
+        petFriendly: true,
+        desc: {
+          fr: `Dans un vallon de vergers près de Melanes, deux colosses de marbre du VIe siècle avant J.-C. gisent inachevés là où les sculpteurs les ont abandonnés. Le site en plein air se visite librement avec un chien en laisse, et le sentier entre les deux kouroi traverse un beau jardin méditerranéen.`,
+          en: `In an orchard valley near Melanes, two 6th-century-BC marble colossi lie unfinished where their sculptors abandoned them. The open-air site can be visited freely with a leashed dog, and the path between the two kouroi crosses a lovely Mediterranean garden.`,
+          es: `En un valle de huertos cerca de Melanes, dos colosos de mármol del siglo VI a. C. yacen inacabados donde los escultores los abandonaron. El sitio al aire libre se visita libremente con perro con correa, y el sendero entre los dos kouroi cruza un bonito jardín mediterráneo.`,
+          pt: `Num vale de pomares perto de Melanes, dois colossos de mármore do século VI a.C. jazem inacabados onde os escultores os abandonaram. O sítio ao ar livre visita-se livremente com cão com trela, e o trilho entre os dois kouroi atravessa um belo jardim mediterrânico.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `En été, les plages aménagées et surveillées de la côte ouest tolèrent mal les chiens en journée : visez les extrémités sauvages de Plaka, Aliko ou Pyrgaki tôt le matin, et retrouvez la liberté totale hors saison, d'octobre à mai.`,
+        `Le meltemi souffle fort en juillet-août, surtout l'après-midi : le sable cinglant sur les plages exposées irrite les yeux des chiens, préférez alors les criques abritées du sud ou les villages de l'intérieur.`,
+        `Sur les ferries Blue Star et consorts, les chiens voyagent muselés et en laisse sur les ponts extérieurs ou dans les cabines animaux ; les catamarans rapides n'acceptent souvent que les petits chiens en sac, vérifiez à la réservation.`,
+        `Les sentiers byzantins de la Tragea croisent troupeaux de chèvres, ânes et chiens de ferme : gardez la laisse dans l'arrière-pays et laissez les points d'eau des chapelles aux animaux du cru.`,
+        `Beaucoup de chats errants dans la Chora et les villages, nourris par les habitants : tenez la laisse courte dans les ruelles étroites, surtout au crépuscule quand ils sortent en nombre.`,
+      ],
+      en: [
+        `In summer, the equipped and supervised beaches of the west coast tolerate dogs poorly during the day: aim for the wild ends of Plaka, Aliko or Pyrgaki early in the morning, and enjoy total freedom off season, from October to May.`,
+        `The meltemi blows hard in July and August, especially in the afternoon: stinging sand on the exposed beaches irritates dogs' eyes, so prefer the sheltered southern coves or the inland villages then.`,
+        `On Blue Star ferries and the like, dogs travel muzzled and on lead on the outer decks or in pet cabins; fast catamarans often only accept small dogs in carriers, check when booking.`,
+        `The Byzantine footpaths of the Tragea cross goat herds, donkeys and farm dogs: keep the lead on in the hinterland and leave the chapel water troughs to the local animals.`,
+        `Many stray cats live in the Chora and the villages, fed by residents: keep the lead short in the narrow lanes, especially at dusk when they come out in numbers.`,
+      ],
+      es: [
+        `En verano, las playas equipadas y vigiladas de la costa oeste toleran mal a los perros durante el día: apunta a los extremos salvajes de Plaka, Aliko o Pyrgaki a primera hora, y recupera la libertad total fuera de temporada, de octubre a mayo.`,
+        `El meltemi sopla fuerte en julio y agosto, sobre todo por la tarde: la arena que azota en las playas expuestas irrita los ojos de los perros, prefiere entonces las calas abrigadas del sur o los pueblos del interior.`,
+        `En los ferris Blue Star y similares, los perros viajan con bozal y correa en las cubiertas exteriores o en las cabinas para mascotas; los catamaranes rápidos a menudo solo aceptan perros pequeños en bolsa, compruébalo al reservar.`,
+        `Los senderos bizantinos de la Tragea cruzan rebaños de cabras, burros y perros de granja: mantén la correa en el interior y deja los abrevaderos de las capillas a los animales del lugar.`,
+        `Hay muchos gatos callejeros en la Chora y los pueblos, alimentados por los vecinos: lleva la correa corta en las callejuelas estrechas, sobre todo al anochecer, cuando salen en masa.`,
+      ],
+      pt: [
+        `No verão, as praias equipadas e vigiadas da costa oeste toleram mal os cães durante o dia: aponte às extremidades selvagens de Plaka, Aliko ou Pyrgaki de manhã cedo, e recupere a liberdade total fora de época, de outubro a maio.`,
+        `O meltemi sopra forte em julho e agosto, sobretudo à tarde: a areia que fustiga nas praias expostas irrita os olhos dos cães, prefira então as enseadas abrigadas do sul ou as aldeias do interior.`,
+        `Nos ferries Blue Star e semelhantes, os cães viajam com açaime e trela nos conveses exteriores ou nas cabinas para animais; os catamarãs rápidos aceitam muitas vezes apenas cães pequenos em saco, confirme ao reservar.`,
+        `Os trilhos bizantinos da Tragea cruzam rebanhos de cabras, burros e cães de quinta: mantenha a trela no interior e deixe os bebedouros das capelas aos animais locais.`,
+        `Há muitos gatos vadios na Chora e nas aldeias, alimentados pelos habitantes: mantenha a trela curta nas vielas estreitas, sobretudo ao anoitecer, quando saem em grande número.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cabinets vétérinaires à la Chora pour les soins courants ; pour les urgences lourdes, les cliniques les mieux équipées des Cyclades sont à Syros ou Athènes, accessibles en ferry`,
+        `Numéro d'urgence européen : 112 ; l'association locale de protection animale peut orienter en cas d'animal trouvé`,
+        `Rayons animaux dans les supermarchés de la Chora et d'Agios Georgios ; animaleries près du port`,
+        `Ferries Blue Star : chiens gratuits sur les ponts extérieurs, muselière et laisse obligatoires, cabines animaux sur certaines lignes ; bus KTEL de l'île : petits chiens en transportín`,
+        `Passeport européen, puce et vaccin antirabique à jour requis ; traitement antiparasitaire renforcé conseillé, tiques et phlébotomes actifs d'avril à octobre dans les Cyclades`,
+      ],
+      en: [
+        `Veterinary practices in the Chora for routine care; for serious emergencies, the best-equipped clinics in the Cyclades are on Syros or in Athens, reachable by ferry`,
+        `European emergency number: 112; the local animal welfare association can help if you find a stray`,
+        `Pet aisles in the supermarkets of the Chora and Agios Georgios; pet shops near the port`,
+        `Blue Star ferries: dogs free on the outer decks, muzzle and lead compulsory, pet cabins on some routes; island KTEL buses: small dogs in carriers`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required; reinforced parasite treatment advised, ticks and sandflies are active April to October in the Cyclades`,
+      ],
+      es: [
+        `Consultas veterinarias en la Chora para cuidados corrientes; para urgencias graves, las clínicas mejor equipadas de las Cícladas están en Syros o Atenas, accesibles en ferry`,
+        `Número de emergencias europeo: 112; la asociación local de protección animal puede orientar si encuentras un animal abandonado`,
+        `Secciones de mascotas en los supermercados de la Chora y de Agios Georgios; tiendas de animales cerca del puerto`,
+        `Ferris Blue Star: perros gratis en las cubiertas exteriores, bozal y correa obligatorios, cabinas para mascotas en algunas líneas; autobuses KTEL de la isla: perros pequeños en transportín`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios; se aconseja tratamiento antiparasitario reforzado, garrapatas y flebótomos activos de abril a octubre en las Cícladas`,
+      ],
+      pt: [
+        `Consultórios veterinários na Chora para cuidados correntes; para urgências graves, as clínicas mais bem equipadas das Cíclades ficam em Syros ou Atenas, acessíveis de ferry`,
+        `Número de emergência europeu: 112; a associação local de proteção animal pode orientar em caso de animal encontrado`,
+        `Secções pet nos supermercados da Chora e de Agios Georgios; lojas de animais perto do porto`,
+        `Ferries Blue Star: cães gratuitos nos conveses exteriores, açaime e trela obrigatórios, cabinas para animais nalgumas linhas; autocarros KTEL da ilha: cães pequenos em transportadora`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; aconselha-se tratamento antiparasitário reforçado, carraças e flebótomos ativos de abril a outubro nas Cíclades`,
+      ],
+    },
+  },
+
+  nazare: {
+    history: {
+      fr: `Nazaré doit son nom à une statuette de la Vierge rapportée, dit-on, de Nazareth au IVe siècle, et sa légende au miracle de 1182 : le chevalier D. Fuas Roupinho, lancé au galop derrière un cerf dans la brume, aurait été sauvé du précipice par Notre-Dame. L'ermitage de la Mémoire et le sanctuaire du Sítio, perchés sur la falaise à 110 mètres au-dessus de la plage, commémorent l'événement. En bas, le village vécut des siècles de la pêche : bœufs halant les barques sur le sable, femmes aux sept jupes faisant sécher le poisson sur les claies, tradition toujours vivante sur la plage. Depuis 2011, le canyon sous-marin qui pointe vers Nazaré a fait de la Praia do Norte la capitale mondiale des vagues géantes, surfées jusqu'à plus de 25 mètres devant le fort de São Miguel Arcanjo. Entre funiculaire centenaire, belvédères et immense plage, Nazaré se vit très bien avec un chien.`,
+      en: `Nazare owes its name to a statuette of the Virgin said to have been brought from Nazareth in the 4th century, and its legend to the miracle of 1182: the knight D. Fuas Roupinho, galloping after a deer in the fog, was saved from the precipice by Our Lady. The Memory hermitage and the Sitio sanctuary, perched on the cliff 110 metres above the beach, commemorate the event. Below, the village lived for centuries from fishing: oxen hauling boats up the sand, women in seven skirts drying fish on racks, a tradition still alive on the beach. Since 2011, the submarine canyon pointing at Nazare has made Praia do Norte the world capital of giant waves, surfed at over 25 metres in front of the fort of Sao Miguel Arcanjo. Between the century-old funicular, the viewpoints and the immense beach, Nazare works very well with a dog.`,
+      es: `Nazaré debe su nombre a una estatuilla de la Virgen traída, se dice, de Nazaret en el siglo IV, y su leyenda al milagro de 1182: el caballero D. Fuas Roupinho, al galope tras un ciervo en la niebla, fue salvado del precipicio por Nuestra Señora. La ermita de la Memoria y el santuario del Sítio, encaramados en el acantilado a 110 metros sobre la playa, conmemoran el suceso. Abajo, el pueblo vivió siglos de la pesca: bueyes arrastrando las barcas por la arena, mujeres de siete faldas secando el pescado en bastidores, tradición aún viva en la playa. Desde 2011, el cañón submarino que apunta hacia Nazaré ha hecho de la Praia do Norte la capital mundial de las olas gigantes, surfeadas a más de 25 metros frente al fuerte de São Miguel Arcanjo. Entre el funicular centenario, los miradores y la inmensa playa, Nazaré se disfruta muy bien con perro.`,
+      pt: `A Nazaré deve o nome a uma imagem da Virgem trazida, diz-se, de Nazaré da Galileia no século IV, e a sua lenda ao milagre de 1182: o cavaleiro D. Fuas Roupinho, a galope atrás de um veado no nevoeiro, terá sido salvo do precipício por Nossa Senhora. A Ermida da Memória e o santuário do Sítio, empoleirados na falésia a 110 metros acima da praia, comemoram o acontecimento. Em baixo, a vila viveu séculos da pesca: bois a puxar os barcos pelo areal, mulheres de sete saias a secar o peixe nos paneiros, tradição ainda viva na praia. Desde 2011, o canhão submarino que aponta à Nazaré fez da Praia do Norte a capital mundial das ondas gigantes, surfadas a mais de 25 metros diante do forte de São Miguel Arcanjo. Entre o funicular centenário, os miradouros e o imenso areal, a Nazaré vive-se muito bem com um cão.`,
+    },
+    sights: [
+      {
+        name: `Sítio da Nazaré`,
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier haut, perché sur la falaise, réunit le sanctuaire de Notre-Dame de Nazaré, l'ermitage de la Mémoire et le belvédère du Suberco, suspendu 110 mètres au-dessus de l'océan. L'esplanade et les ruelles se parcourent en laisse ; les églises, elles, n'admettent pas les chiens.`,
+          en: `The upper quarter, perched on the cliff, gathers the sanctuary of Our Lady of Nazare, the Memory hermitage and the Suberco viewpoint, suspended 110 metres above the ocean. The esplanade and lanes can be walked on lead; the churches do not admit dogs.`,
+          es: `El barrio alto, encaramado en el acantilado, reúne el santuario de Nuestra Señora de Nazaré, la ermita de la Memoria y el mirador del Suberco, suspendido 110 metros sobre el océano. La explanada y las callejuelas se recorren con correa; las iglesias no admiten perros.`,
+          pt: `O bairro alto, empoleirado na falésia, reúne o santuário de Nossa Senhora da Nazaré, a Ermida da Memória e o miradouro do Suberco, suspenso 110 metros acima do oceano. A esplanada e as vielas percorrem-se com trela; as igrejas não admitem cães.`,
+        },
+      },
+      {
+        name: `Ascensor da Nazaré`,
+        emoji: '🚡',
+        petFriendly: true,
+        desc: {
+          fr: `Depuis 1889, le funiculaire grimpe la falaise entre la plage et le Sítio en quelques minutes. Les chiens accompagnés y sont admis, les petits en sac et les grands en laisse et muselés selon la règle portugaise, moyennant un petit supplément éventuel : la montée épargne à tous un raidillon éprouvant.`,
+          en: `Since 1889 the funicular has climbed the cliff between the beach and the Sitio in a few minutes. Accompanied dogs are admitted, small ones in bags and large ones leashed and muzzled per the Portuguese rule, sometimes for a small fee: the ride spares everyone a punishing climb.`,
+          es: `Desde 1889, el funicular sube el acantilado entre la playa y el Sítio en pocos minutos. Se admiten perros acompañados, los pequeños en bolsa y los grandes con correa y bozal según la norma portuguesa, con un pequeño suplemento en su caso: la subida ahorra a todos una cuesta agotadora.`,
+          pt: `Desde 1889, o ascensor sobe a falésia entre a praia e o Sítio em poucos minutos. Admitem-se cães acompanhados, os pequenos em saco e os grandes com trela e açaime segundo a regra portuguesa, mediante um pequeno suplemento eventual: a subida poupa a todos uma encosta dura.`,
+        },
+      },
+      {
+        name: `Farol da Nazaré`,
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Le phare posé sur le fort de São Miguel Arcanjo est le balcon des vagues géantes de la Praia do Norte : l'hiver, on y regarde les surfeurs défier des murs de 20 mètres. Le chemin du bout de falaise se fait en laisse ; l'intérieur du fort et son musée du surf n'acceptent pas les chiens.`,
+          en: `The lighthouse set on the fort of Sao Miguel Arcanjo is the balcony of Praia do Norte's giant waves: in winter you watch surfers take on 20-metre walls. The clifftop path works on lead; the fort's interior and its surf museum do not accept dogs.`,
+          es: `El faro asentado sobre el fuerte de São Miguel Arcanjo es el balcón de las olas gigantes de la Praia do Norte: en invierno se ve a los surfistas desafiar muros de 20 metros. El camino del borde del acantilado se hace con correa; el interior del fuerte y su museo del surf no aceptan perros.`,
+          pt: `O farol assente no forte de São Miguel Arcanjo é a varanda das ondas gigantes da Praia do Norte: no inverno, veem-se os surfistas a desafiar paredes de 20 metros. O caminho da ponta da falésia faz-se com trela; o interior do forte e o seu museu do surf não aceitam cães.`,
+        },
+      },
+      {
+        name: `Praia do Norte`,
+        emoji: '🏄',
+        petFriendly: true,
+        desc: {
+          fr: `Derrière la falaise du Sítio, cette plage sauvage adossée aux dunes du Pinhal de Leiria reçoit les plus grosses vagues surfées au monde. Hors saison balnéaire et loin des zones surveillées, c'est un immense terrain de balade en laisse, venté et spectaculaire ; on ne s'y baigne pas, courants redoutables.`,
+          en: `Behind the Sitio cliff, this wild beach backed by the dunes of the Pinhal de Leiria receives the biggest waves ever surfed. Outside the bathing season and away from supervised zones, it is a huge on-lead walking ground, windswept and spectacular; no swimming here, the currents are fearsome.`,
+          es: `Detrás del acantilado del Sítio, esta playa salvaje respaldada por las dunas del Pinhal de Leiria recibe las olas más grandes jamás surfeadas. Fuera de la temporada de baño y lejos de las zonas vigiladas, es un inmenso terreno de paseo con correa, ventoso y espectacular; aquí no se nada, las corrientes son temibles.`,
+          pt: `Atrás da falésia do Sítio, esta praia selvagem encostada às dunas do Pinhal de Leiria recebe as maiores ondas alguma vez surfadas. Fora da época balnear e longe das zonas vigiadas, é um imenso terreno de passeio com trela, ventoso e espetacular; aqui não se nada, as correntes são temíveis.`,
+        },
+      },
+      {
+        name: `Praia da Nazaré`,
+        emoji: '🐟',
+        petFriendly: false,
+        desc: {
+          fr: `La grande plage du village, bordée par la promenade et les rangées de parasols, garde vivante la tradition des claies de séchage du poisson et des barques peintes. En saison balnéaire, les chiens y sont interdits comme sur toutes les plages surveillées du Portugal ; la promenade en front de mer reste ouverte en laisse toute l'année.`,
+          en: `The village's great beach, lined by the promenade and rows of parasols, keeps alive the tradition of fish-drying racks and painted boats. In the bathing season dogs are banned, as on all supervised Portuguese beaches; the seafront promenade stays open on lead all year.`,
+          es: `La gran playa del pueblo, bordeada por el paseo y las filas de sombrillas, mantiene viva la tradición de los bastidores de secado de pescado y las barcas pintadas. En temporada de baño los perros están prohibidos, como en todas las playas vigiladas de Portugal; el paseo marítimo sigue abierto con correa todo el año.`,
+          pt: `O grande areal da vila, ladeado pelo passeio e pelas filas de chapéus de sol, mantém viva a tradição dos paneiros de secagem do peixe e dos barcos pintados. Na época balnear os cães estão proibidos, como em todas as praias vigiadas de Portugal; o passeio marítimo continua aberto com trela todo o ano.`,
+        },
+      },
+      {
+        name: `Miradouro da Pederneira`,
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          fr: `Sur la troisième colline de Nazaré, l'ancien bourg médiéval de Pederneira offre un belvédère paisible sur toute la baie, le port et le Sítio. Loin des foules, c'est la balade en laisse du soir idéale, entre église manuéline, ruelles calmes et lumière dorée sur l'océan.`,
+          en: `On Nazare's third hill, the old medieval town of Pederneira offers a peaceful viewpoint over the whole bay, the harbour and the Sitio. Away from the crowds, it is the ideal evening on-lead walk, between a Manueline church, quiet lanes and golden light on the ocean.`,
+          es: `En la tercera colina de Nazaré, el antiguo burgo medieval de Pederneira ofrece un mirador tranquilo sobre toda la bahía, el puerto y el Sítio. Lejos de las multitudes, es el paseo con correa ideal al atardecer, entre una iglesia manuelina, callejuelas tranquilas y luz dorada sobre el océano.`,
+          pt: `Na terceira colina da Nazaré, o antigo burgo medieval da Pederneira oferece um miradouro tranquilo sobre toda a baía, o porto e o Sítio. Longe das multidões, é o passeio com trela ideal ao fim do dia, entre uma igreja manuelina, ruas calmas e luz dourada sobre o oceano.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Pendant la saison balnéaire, de juin à septembre, les chiens sont interdits sur les plages surveillées portugaises, Praia da Nazaré comprise : rabattez-vous sur les extrémités non surveillées de la Praia do Norte ou sur la promenade, et profitez du sable librement d'octobre à mai.`,
+        `Ne laissez jamais votre chien approcher de l'eau à la Praia do Norte : même par mer d'apparence calme, les courants du canyon sous-marin sont traîtres, et l'hiver les vagues géantes balaient des zones entières de sable sans prévenir.`,
+        `Le funiculaire accepte les chiens, petits en sac, grands en laisse et muselière : c'est la règle des transports publics portugais, ayez toujours la muselière dans le sac même si elle sert rarement.`,
+        `L'esplanade du Suberco et le chemin du phare sont à flanc de falaise, souvent très ventés : gardez la laisse courte près des garde-corps, les rafales surprennent les petits chiens.`,
+        `Les claies de séchage de poisson sur la plage sont une tentation olfactive maximale : tenez la laisse ferme dans ce secteur, les vendeuses n'apprécient guère les truffes trop curieuses.`,
+      ],
+      en: [
+        `During the bathing season, June to September, dogs are banned from supervised Portuguese beaches, Praia da Nazare included: fall back on the unsupervised ends of Praia do Norte or the promenade, and enjoy the sand freely from October to May.`,
+        `Never let your dog near the water at Praia do Norte: even when the sea looks calm, the submarine canyon's currents are treacherous, and in winter the giant waves sweep whole stretches of sand without warning.`,
+        `The funicular accepts dogs, small ones in bags, large ones on lead and muzzled: that is the rule on Portuguese public transport, so always carry the muzzle in your bag even if it is rarely used.`,
+        `The Suberco esplanade and the lighthouse path run along the cliff edge and are often very windy: keep the lead short near the railings, gusts can catch small dogs off guard.`,
+        `The fish-drying racks on the beach are maximum olfactory temptation: hold the lead firmly in that area, the vendors do not appreciate over-curious noses.`,
+      ],
+      es: [
+        `Durante la temporada de baño, de junio a septiembre, los perros están prohibidos en las playas vigiladas portuguesas, Praia da Nazaré incluida: recurre a los extremos sin vigilancia de la Praia do Norte o al paseo, y disfruta de la arena libremente de octubre a mayo.`,
+        `No dejes nunca que tu perro se acerque al agua en la Praia do Norte: incluso con mar en apariencia tranquilo, las corrientes del cañón submarino son traicioneras, y en invierno las olas gigantes barren tramos enteros de arena sin avisar.`,
+        `El funicular acepta perros, pequeños en bolsa, grandes con correa y bozal: es la norma del transporte público portugués, lleva siempre el bozal en la mochila aunque se use poco.`,
+        `La explanada del Suberco y el camino del faro van al borde del acantilado y suelen ser muy ventosos: lleva la correa corta junto a las barandillas, las rachas sorprenden a los perros pequeños.`,
+        `Los bastidores de secado de pescado en la playa son una tentación olfativa máxima: sujeta firme la correa en esa zona, a las vendedoras no les gustan los hocicos demasiado curiosos.`,
+      ],
+      pt: [
+        `Durante a época balnear, de junho a setembro, os cães estão proibidos nas praias vigiadas portuguesas, Praia da Nazaré incluída: opte pelas extremidades não vigiadas da Praia do Norte ou pelo passeio, e aproveite o areal livremente de outubro a maio.`,
+        `Nunca deixe o seu cão aproximar-se da água na Praia do Norte: mesmo com o mar aparentemente calmo, as correntes do canhão submarino são traiçoeiras, e no inverno as ondas gigantes varrem faixas inteiras de areia sem avisar.`,
+        `O ascensor aceita cães, pequenos em saco, grandes com trela e açaime: é a regra dos transportes públicos portugueses, leve sempre o açaime na mochila mesmo que raramente sirva.`,
+        `A esplanada do Suberco e o caminho do farol seguem à beira da falésia e são muitas vezes ventosos: mantenha a trela curta junto aos guarda-corpos, as rajadas surpreendem os cães pequenos.`,
+        `Os paneiros de secagem de peixe na praia são a tentação olfativa máxima: segure bem a trela nessa zona, as peixeiras não apreciam focinhos demasiado curiosos.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Cliniques vétérinaires à Nazaré et dans les villes voisines de Caldas da Rainha et Leiria, où se trouvent les structures d'urgence les mieux équipées de la région`,
+        `Numéro d'urgence européen : 112 ; la GNR locale renseigne sur les règles de plage en vigueur`,
+        `Rayons animaux dans les supermarchés Continente, Pingo Doce et Intermarché de la ville ; animaleries à Caldas da Rainha`,
+        `Funiculaire et bus urbains : petits chiens en sac, grands chiens en laisse et muselière ; bus Rede Expressos vers Lisbonne : animaux en caisse de transport uniquement, en soute selon les lignes`,
+        `Passeport européen, puce et vaccin antirabique à jour requis ; prévention leishmaniose recommandée au Portugal d'avril à novembre, demandez conseil à votre vétérinaire avant le départ`,
+      ],
+      en: [
+        `Veterinary clinics in Nazare and in the nearby towns of Caldas da Rainha and Leiria, where the region's best-equipped emergency facilities are located`,
+        `European emergency number: 112; the local GNR can tell you the beach rules in force`,
+        `Pet aisles in the town's Continente, Pingo Doce and Intermarche supermarkets; pet shops in Caldas da Rainha`,
+        `Funicular and city buses: small dogs in bags, large dogs on lead and muzzled; Rede Expressos coaches to Lisbon: animals in carriers only, in the hold depending on the route`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required; leishmaniasis prevention recommended in Portugal from April to November, ask your vet before departure`,
+      ],
+      es: [
+        `Clínicas veterinarias en Nazaré y en las ciudades cercanas de Caldas da Rainha y Leiria, donde están las estructuras de urgencia mejor equipadas de la región`,
+        `Número de emergencias europeo: 112; la GNR local informa sobre las normas de playa vigentes`,
+        `Secciones de mascotas en los supermercados Continente, Pingo Doce e Intermarché de la ciudad; tiendas de animales en Caldas da Rainha`,
+        `Funicular y autobuses urbanos: perros pequeños en bolsa, grandes con correa y bozal; autocares Rede Expressos a Lisboa: animales solo en transportín, en bodega según la línea`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios; prevención de la leishmaniosis recomendada en Portugal de abril a noviembre, consulta a tu veterinario antes de salir`,
+      ],
+      pt: [
+        `Clínicas veterinárias na Nazaré e nas cidades vizinhas de Caldas da Rainha e Leiria, onde ficam as estruturas de urgência mais bem equipadas da região`,
+        `Número de emergência europeu: 112; a GNR local informa sobre as regras de praia em vigor`,
+        `Secções pet nos supermercados Continente, Pingo Doce e Intermarché da vila; lojas de animais em Caldas da Rainha`,
+        `Ascensor e autocarros urbanos: cães pequenos em saco, grandes com trela e açaime; autocarros Rede Expressos para Lisboa: animais apenas em caixa de transporte, no porão consoante a linha`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; prevenção da leishmaniose recomendada em Portugal de abril a novembro, aconselhe-se com o seu veterinário antes de partir`,
+      ],
+    },
+  },
+
   'new-york': {
     history: {
       fr: `New York, fondée en 1624 comme comptoir hollandais de la Nouvelle-Amsterdam puis rebaptisée par les Anglais en 1664, est devenue en quatre siècles la métropole financière, culturelle et migratoire la plus influente du monde. Ses 8,3 millions d'habitants partagent 783 km² répartis sur cinq boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island), une densité qui en fait paradoxalement l'une des villes américaines les plus pet-aware. Pour les propriétaires de chiens, NYC offre un cocktail unique : 70+ enclos canins entretenus par les Parks, les horaires sans laisse urbains les plus généreux des États-Unis (Central et Prospect Parks de 5h à 9h et de 21h à 1h), un réseau dense d'urgences vétérinaires 24h/24, et une culture des hôtels haut de gamme qui accueillent activement les animaux. Les contraintes : la règle MTA imposant un sac de transport dans le métro, l'asphalte estival qui dépasse 50 °C l'après-midi, et un code sanitaire qui exclut les chiens des restaurants intérieurs (mais autorise les terrasses depuis 2015).`,

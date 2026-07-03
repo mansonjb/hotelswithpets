@@ -26196,5 +26196,79 @@
         "icon": "⛅"
       }
     }
+  },
+  {
+    "slug": "rugen",
+    "name": "Rügen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/rugen.jpg",
+    "intro": "Germany's largest island is a Baltic paradise for dogs: official Hundestrand sections in Binz, Sellin and Baabe, the chalk cliffs of Jasmund National Park with leash-friendly beech-forest trails, the Hochuferweg clifftop path to the Granitz hunting lodge, and a steam railway that welcomes four-legged passengers, with nearly the entire coastline opening to dogs from October to April.",
+    "lat": 54.4004,
+    "lng": 13.6098,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Chilly & brightening",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Cool & dry",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Pleasant & bright",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm, sea at its best",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & golden",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool, beaches open to dogs",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Grey & blustery",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & dark",
+        "icon": "🌧️"
+      }
+    }
   }
 ]

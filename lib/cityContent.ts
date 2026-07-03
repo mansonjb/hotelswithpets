@@ -24832,6 +24832,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  rugen: {
+    history: {
+      fr: `Rügen, la plus grande île d'Allemagne (926 km2), est reliée au continent par les ponts de Stralsund et fut la villégiature favorite de l'aristocratie prussienne dès le XIXe siècle : Binz et Sellin en gardent l'architecture balnéaire blanche (Bäderarchitektur), et le pavillon de chasse de Granitz (1846) domine toujours les hêtraies du sud-est. Le parc national de Jasmund protège les falaises de craie du Königsstuhl et des hêtraies classées à l'UNESCO, immortalisées par Caspar David Friedrich. Pour les voyageurs à quatre pattes, l'île est une des meilleures destinations de la Baltique : chaque station entretient des Hundestrand officiels (Binz, Sellin, Baabe, Göhren), le train à vapeur Rasender Roland accepte les chiens, et d'octobre à avril la quasi-totalité des plages leur est ouverte. Comptez la Hundekurtaxe (2 EUR par jour à Binz) et une muselière pour les transports publics.`,
+      en: `Rügen, Germany's largest island (926 km2), is linked to the mainland by the Stralsund bridges and became the favourite seaside retreat of the Prussian aristocracy in the 19th century: Binz and Sellin still show off the white resort architecture (Bäderarchitektur) of that era, and the Granitz hunting lodge (1846) crowns the beech forests of the southeast. Jasmund National Park protects the Königsstuhl chalk cliffs and UNESCO-listed ancient beech woods, immortalised by Caspar David Friedrich. For four-legged travellers the island is one of the Baltic's best bases: every resort maintains official Hundestrand sections (Binz, Sellin, Baabe, Göhren), the Rasender Roland steam railway carries dogs, and from October to April nearly every beach opens to them. Budget for the Hundekurtaxe (2 EUR per day in Binz) and pack a muzzle for public transport.`,
+      es: `Rügen, la isla más grande de Alemania (926 km2), está unida al continente por los puentes de Stralsund y fue el retiro costero favorito de la aristocracia prusiana desde el siglo XIX: Binz y Sellin conservan la arquitectura balnearia blanca (Bäderarchitektur) de esa época, y el pabellón de caza de Granitz (1846) corona los hayedos del sureste. El Parque Nacional de Jasmund protege los acantilados de creta del Königsstuhl y hayedos antiguos declarados Patrimonio UNESCO, inmortalizados por Caspar David Friedrich. Para los viajeros de cuatro patas la isla es una de las mejores bases del Báltico: cada balneario mantiene tramos Hundestrand oficiales (Binz, Sellin, Baabe, Göhren), el tren de vapor Rasender Roland admite perros y de octubre a abril casi todas las playas se abren para ellos. Cuenta con la Hundekurtaxe (2 EUR al día en Binz) y lleva bozal para el transporte público.`,
+      pt: `Rügen, a maior ilha da Alemanha (926 km2), está ligada ao continente pelas pontes de Stralsund e tornou-se o refúgio balnear favorito da aristocracia prussiana no século XIX: Binz e Sellin conservam a arquitetura balnear branca (Bäderarchitektur) dessa época, e o pavilhão de caça de Granitz (1846) coroa as matas de faias do sudeste. O Parque Nacional de Jasmund protege as falésias de giz do Königsstuhl e faias antigas classificadas pela UNESCO, imortalizadas por Caspar David Friedrich. Para os viajantes de quatro patas, a ilha é uma das melhores bases do Báltico: cada estância mantém troços Hundestrand oficiais (Binz, Sellin, Baabe, Göhren), o comboio a vapor Rasender Roland aceita cães e de outubro a abril quase todas as praias se abrem para eles. Conte com a Hundekurtaxe (2 EUR por dia em Binz) e leve açaime para os transportes públicos.`,
+    },
+    sights: [
+      {
+        name: 'Nationalpark Jasmund',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus petit parc national d'Allemagne protège les falaises de craie du Königsstuhl (118 m) et des hêtraies anciennes classées UNESCO. Les chiens en laisse sont admis sur tous les sentiers balisés, dont le spectaculaire chemin des hauts rivages depuis Sassnitz.`,
+          en: `Germany's smallest national park protects the 118 m Königsstuhl chalk cliffs and UNESCO-listed ancient beech forests. Leashed dogs are welcome on all marked trails, including the spectacular high-shore path from Sassnitz.`,
+          es: `El parque nacional más pequeño de Alemania protege los acantilados de creta del Königsstuhl (118 m) y hayedos antiguos declarados UNESCO. Los perros con correa son bienvenidos en todos los senderos señalizados, incluido el espectacular camino del litoral alto desde Sassnitz.`,
+          pt: `O parque nacional mais pequeno da Alemanha protege as falésias de giz do Königsstuhl (118 m) e faias antigas classificadas pela UNESCO. Cães de trela são bem-vindos em todos os trilhos marcados, incluindo o espetacular caminho da costa alta desde Sassnitz.`,
+        },
+      },
+      {
+        name: 'Jagdschloss Granitz',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Pavillon de chasse à tourelles de 1846 perché sur la plus haute colline du sud-est de l'île, au cœur de 1 000 hectares de hêtraie. Les chiens en laisse profitent du parc et des sentiers forestiers ; l'intérieur du château leur est fermé.`,
+          en: `A turreted 1846 hunting lodge on the highest hill of the island's southeast, set in 1,000 hectares of beech forest. Leashed dogs enjoy the park and forest paths; the castle interior is off-limits to them.`,
+          es: `Pabellón de caza con torreones de 1846 en la colina más alta del sureste de la isla, rodeado de 1.000 hectáreas de hayedo. Los perros con correa disfrutan del parque y los senderos forestales; el interior del castillo les está vetado.`,
+          pt: `Pavilhão de caça com torreões de 1846 na colina mais alta do sudeste da ilha, rodeado por 1.000 hectares de faial. Cães de trela aproveitam o parque e os trilhos florestais; o interior do castelo está-lhes vedado.`,
+        },
+      },
+      {
+        name: 'Seebrücke Sellin',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `La jetée emblématique de Rügen : 394 mètres de promenade en bois avec son pavillon blanc de style 1927. Les chiens en laisse sont admis sur la passerelle, et la plage canine de Sellin se trouve juste à côté.`,
+          en: `Rügen's signature pier: 394 metres of boardwalk crowned by a white pavilion in the elegant style of 1927. Leashed dogs are allowed along the pier, and Sellin's dog beach section lies right beside it.`,
+          es: `El muelle emblemático de Rügen: 394 metros de pasarela coronados por un pabellón blanco de estilo 1927. Los perros con correa pueden recorrerlo, y el tramo de playa canina de Sellin queda justo al lado.`,
+          pt: `O pontão emblemático de Rügen: 394 metros de passadiço coroados por um pavilhão branco ao estilo de 1927. Cães de trela podem percorrê-lo, e o troço de praia canina de Sellin fica mesmo ao lado.`,
+        },
+      },
+      {
+        name: 'Hochuferweg',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Le sentier de falaise entre Binz et Sellin longe la lisière est de la forêt de Granitz avec des vues constantes sur la Baltique. Environ 7 km de balade ombragée, très prisée des promeneurs de chiens ; retour possible en Rasender Roland.`,
+          en: `The clifftop path between Binz and Sellin skirts the eastern edge of the Granitz forest with constant Baltic views. Around 7 km of shaded walking beloved by dog owners; you can ride the Rasender Roland back.`,
+          es: `El sendero de acantilado entre Binz y Sellin bordea el límite oriental del bosque de Granitz con vistas constantes al Báltico. Unos 7 km de paseo sombreado muy apreciado por los dueños de perros; se puede volver en el Rasender Roland.`,
+          pt: `O trilho de falésia entre Binz e Sellin acompanha a orla leste da floresta de Granitz com vistas constantes para o Báltico. Cerca de 7 km de caminhada sombreada muito apreciada por donos de cães; pode voltar no Rasender Roland.`,
+        },
+      },
+      {
+        name: 'Baumwipfelpfad Prora',
+        emoji: '🌲',
+        petFriendly: false,
+        desc: {
+          fr: `Le chemin des cimes du Naturerbe Zentrum : 1 250 m de passerelle jusqu'à la tour Adlerhorst de 40 m. Les chiens n'y sont pas admis, mais des box ombragés gratuits avec eau attendent à l'entrée pendant votre ascension.`,
+          en: `The treetop walk at the Naturerbe Zentrum: 1,250 m of walkway rising to the 40 m Adlerhorst tower. Dogs are not admitted on the walk, but free shaded kennels with water are provided at the entrance while you climb.`,
+          es: `La pasarela entre copas del Naturerbe Zentrum: 1.250 m de recorrido hasta la torre Adlerhorst de 40 m. Los perros no pueden subir, pero hay boxes sombreados gratuitos con agua en la entrada mientras subes.`,
+          pt: `O passadiço nas copas do Naturerbe Zentrum: 1.250 m de percurso até à torre Adlerhorst de 40 m. Os cães não são admitidos no passadiço, mas há boxes sombreados gratuitos com água na entrada enquanto sobe.`,
+        },
+      },
+      {
+        name: 'Kap Arkona',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Le cap nord de l'île réunit deux phares, des bunkers des deux guerres et les vestiges de la forteresse slave de Jaromarsburg sur un promontoire spectaculaire. Zone piétonne accessible aux chiens en laisse, avec le village de pêcheurs de Vitt en contrebas.`,
+          en: `The island's northern cape gathers two lighthouses, wartime bunkers and the remains of the Slavic Jaromarsburg fortress on one dramatic headland. The car-free area welcomes leashed dogs, with the thatched fishing hamlet of Vitt below.`,
+          es: `El cabo norte de la isla reúne dos faros, búnkeres de las dos guerras y los vestigios de la fortaleza eslava de Jaromarsburg en un promontorio espectacular. La zona peatonal admite perros con correa, con la aldea pesquera de Vitt a sus pies.`,
+          pt: `O cabo norte da ilha reúne dois faróis, bunkers das duas guerras e os vestígios da fortaleza eslava de Jaromarsburg num promontório espetacular. A zona pedonal aceita cães de trela, com a aldeia piscatória de Vitt lá em baixo.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Du 1er mai au 30 septembre, les chiens ne sont admis que sur les Hundestrand désignés (Binz accès 50-51 et 1, Sellin près de la jetée, Baabe au Fischerstrand) ; d'octobre à avril, presque toutes les plages leur sont ouvertes.`,
+        `Emportez une muselière : les bus VVR et le Rasender Roland l'exigent pour les grands chiens, avec un billet au tarif enfant par animal.`,
+        `Dans le parc national de Jasmund et autour du Jagdschloss Granitz, la laisse est obligatoire en permanence : zones protégées, faune nidifiante et contrôles des gardes.`,
+        `Prévoyez la Hundekurtaxe dans votre budget : à Binz elle est de 2 EUR par chien et par jour en 2026, encaissée avec la taxe de séjour par votre hébergement.`,
+        `Vétérinaire sur l'île : Tierarztpraxis Puvogel à Bergen auf Rügen (+49 3838 23323, urgences petits animaux en semaine jusqu'à 22h) ; après 22h et le week-end, la permanence régionale répond au +49 1805 843736.`,
+      ],
+      en: [
+        `From 1 May to 30 September dogs are only allowed on the designated Hundestrand sections (Binz accesses 50-51 and 1, Sellin beside the pier, Baabe at the Fischerstrand); from October to April nearly every beach opens to them.`,
+        `Pack a muzzle: VVR buses and the Rasender Roland steam train require one for large dogs, with a child-fare ticket per animal.`,
+        `In Jasmund National Park and around Jagdschloss Granitz the leash is mandatory at all times: protected areas, nesting wildlife and ranger checks.`,
+        `Budget for the Hundekurtaxe: in Binz it is 2 EUR per dog per day in 2026, collected with the visitor tax by your accommodation.`,
+        `Vet on the island: Tierarztpraxis Puvogel in Bergen auf Rügen (+49 3838 23323, weekday small-animal emergencies until 10pm); after 10pm and at weekends the regional on-call line answers on +49 1805 843736.`,
+      ],
+      es: [
+        `Del 1 de mayo al 30 de septiembre los perros solo pueden usar los tramos Hundestrand designados (Binz accesos 50-51 y 1, Sellin junto al muelle, Baabe en el Fischerstrand); de octubre a abril casi todas las playas se abren para ellos.`,
+        `Lleva bozal: los autobuses VVR y el tren de vapor Rasender Roland lo exigen para perros grandes, con billete de tarifa infantil por animal.`,
+        `En el Parque Nacional de Jasmund y alrededor del Jagdschloss Granitz la correa es obligatoria en todo momento: zonas protegidas, fauna nidificante y controles de los guardas.`,
+        `Presupuesta la Hundekurtaxe: en Binz es de 2 EUR por perro y día en 2026, cobrada junto a la tasa turística por tu alojamiento.`,
+        `Veterinario en la isla: Tierarztpraxis Puvogel en Bergen auf Rügen (+49 3838 23323, urgencias de pequeños animales entre semana hasta las 22h); después de las 22h y los fines de semana responde la guardia regional en el +49 1805 843736.`,
+      ],
+      pt: [
+        `De 1 de maio a 30 de setembro os cães só podem usar os troços Hundestrand designados (Binz acessos 50-51 e 1, Sellin junto ao pontão, Baabe no Fischerstrand); de outubro a abril quase todas as praias se abrem para eles.`,
+        `Leve açaime: os autocarros VVR e o comboio a vapor Rasender Roland exigem-no para cães grandes, com bilhete de tarifa de criança por animal.`,
+        `No Parque Nacional de Jasmund e à volta do Jagdschloss Granitz a trela é obrigatória em permanência: zonas protegidas, fauna nidificante e fiscalização dos guardas.`,
+        `Conte com a Hundekurtaxe: em Binz é de 2 EUR por cão e por dia em 2026, cobrada com a taxa turística pelo seu alojamento.`,
+        `Veterinário na ilha: Tierarztpraxis Puvogel em Bergen auf Rügen (+49 3838 23323, urgências de pequenos animais nos dias úteis até às 22h); depois das 22h e aos fins de semana responde a linha regional de serviço no +49 1805 843736.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Accès : ponts routiers et ferroviaires depuis Stralsund ; gares de Bergen auf Rügen et Binz reliées à Rostock et Berlin (petits chiens gratuits en caisse, grands chiens à tarif réduit avec laisse et muselière sur DB).`,
+        `Sur place : bus VVR dans toute l'île et train à vapeur Rasender Roland entre Putbus, Binz, Sellin et Göhren ; billet tarif enfant pour chaque chien.`,
+        `Météo : étés doux (21 °C en juillet-août, mer à 18 °C) et hivers gris autour de 3 °C ; la meilleure période chien est septembre-octobre, plages rouvertes et douceur persistante.`,
+        `Urgence vétérinaire : Tierarztpraxis Puvogel, Industriestrasse 10, Bergen auf Rügen, +49 3838 23323 ; permanence régionale petits animaux après 22h au +49 1805 843736 ; numéro d'urgence général 112.`,
+        `Fin d'été : surveillez les avis de baignade (efflorescences ponctuelles de cyanobactéries dans la Baltique) avant de laisser votre chien nager.`,
+      ],
+      en: [
+        `Getting there: road and rail bridges from Stralsund; Bergen auf Rügen and Binz stations connect to Rostock and Berlin (small dogs free in a carrier, large dogs at reduced fare with leash and muzzle on DB).`,
+        `Getting around: VVR buses island-wide and the Rasender Roland steam railway between Putbus, Binz, Sellin and Göhren; child-fare ticket for each dog.`,
+        `Weather: mild summers (21 C in July-August, sea at 18 C) and grey winters around 3 C; the best dog season is September-October, with beaches reopening and lingering warmth.`,
+        `Vet emergency: Tierarztpraxis Puvogel, Industriestrasse 10, Bergen auf Rügen, +49 3838 23323; regional small-animal on-call line after 10pm on +49 1805 843736; general emergency number 112.`,
+        `Late summer: check bathing advisories (occasional blue-green algae blooms in the Baltic) before letting your dog swim.`,
+      ],
+      es: [
+        `Cómo llegar: puentes de carretera y ferrocarril desde Stralsund; las estaciones de Bergen auf Rügen y Binz conectan con Rostock y Berlín (perros pequeños gratis en transportín, grandes con tarifa reducida, correa y bozal en DB).`,
+        `Cómo moverse: autobuses VVR por toda la isla y el tren de vapor Rasender Roland entre Putbus, Binz, Sellin y Göhren; billete de tarifa infantil por cada perro.`,
+        `Clima: veranos suaves (21 °C en julio-agosto, mar a 18 °C) e inviernos grises en torno a 3 °C; la mejor época con perro es septiembre-octubre, con las playas reabiertas y calor residual.`,
+        `Urgencia veterinaria: Tierarztpraxis Puvogel, Industriestrasse 10, Bergen auf Rügen, +49 3838 23323; guardia regional de pequeños animales después de las 22h en el +49 1805 843736; emergencias generales 112.`,
+        `A finales de verano: consulta los avisos de baño (floraciones puntuales de cianobacterias en el Báltico) antes de dejar nadar a tu perro.`,
+      ],
+      pt: [
+        `Como chegar: pontes rodoviária e ferroviária desde Stralsund; as estações de Bergen auf Rügen e Binz ligam a Rostock e Berlim (cães pequenos grátis em caixa, grandes com tarifa reduzida, trela e açaime na DB).`,
+        `Como circular: autocarros VVR em toda a ilha e o comboio a vapor Rasender Roland entre Putbus, Binz, Sellin e Göhren; bilhete de tarifa de criança por cada cão.`,
+        `Clima: verões amenos (21 °C em julho-agosto, mar a 18 °C) e invernos cinzentos à volta de 3 °C; a melhor época com cão é setembro-outubro, com as praias reabertas e calor residual.`,
+        `Urgência veterinária: Tierarztpraxis Puvogel, Industriestrasse 10, Bergen auf Rügen, +49 3838 23323; linha regional de pequenos animais depois das 22h no +49 1805 843736; emergências gerais 112.`,
+        `No fim do verão: verifique os avisos de banho (florações pontuais de cianobactérias no Báltico) antes de deixar o seu cão nadar.`,
+      ],
+    },
+  },
+
   'saint-jean-de-luz': {
     history: {
       fr: `Ancien repaire de corsaires basques enrichis par la course et la pêche à la baleine, Saint-Jean-de-Luz est entrée dans l'histoire le 9 juin 1660 : Louis XIV y épousa l'infante Marie-Thérèse en l'église Saint-Jean-Baptiste, dont la porte fut murée après le passage du couple royal. La Maison Louis XIV et la Maison de l'Infante, sur le port, gardent la mémoire de ces noces qui scellèrent la paix des Pyrénées. Protégée des fureurs de l'océan par trois digues, sa grande baie en coquille est l'une des rares plages abritées de la côte basque, ce qui en fit une station balnéaire courue dès le Second Empire. En face, Ciboure a vu naître Maurice Ravel, et le fort de Socoa monte la garde à l'entrée de la rade. Entre halles, rue Gambetta, sentier du littoral et arrière-pays de villages labourdins, la cité corsaire se déguste à pied, chien en laisse.`,

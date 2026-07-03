@@ -1292,6 +1292,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Het Park\'s 28 hectares of off-leash space beside the Euromast, Kralingse Bos forest and lake, and the Maasvlakte beach',
       area: 'Middelland along Nieuwe Binnenweg, the Witte de With arts district, and the waterfront around Veerhaven',
     },
+    rugen: {
+      personality: `Germany's largest island and one of the Baltic's friendliest coastlines for dogs, with official Hundestrand sections in every resort and nearly the whole shoreline open to them from October to April`,
+      highlight: `the dog beaches of Binz, Sellin and Baabe, the Hochuferweg clifftop path through the Granitz forest, and the leashed trails of Jasmund National Park`,
+      area: `Binz around the promenade and beach accesses 50-51, Sellin near the pier, and quieter Baabe by the Fischerstrand`,
+    },
     salamanca: {
       personality: `a golden sandstone university city in Castile, UNESCO-listed since 1988, where leashed dogs glide through baroque arcades and the Tormes riverside is the heart of evening walks`,
       highlight: 'the Plaza Mayor and Rúa Mayor, the Tormes riverside (Salas Bajas), and the Parque de los Jesuitas with its fenced off-leash area',
@@ -3033,6 +3038,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'l\'une des villes les plus dog-friendly des Pays-Bas, où les animaux voyagent gratuitement dans les transports et la plupart des terrasses de café les accueillent par défaut',
       highlight: 'les 28 hectares d\'espace sans laisse d\'Het Park à côté de l\'Euromast, le Kralingse Bos et la plage de Maasvlakte',
       area: 'Middelland le long de la Nieuwe Binnenweg, le quartier artistique de Witte de With et les quais de Veerhaven',
+    },
+    rugen: {
+      personality: `la plus grande île d'Allemagne et l'un des littoraux de la Baltique les plus accueillants pour les chiens, avec des sections Hundestrand officielles dans chaque station et presque tout le rivage ouvert d'octobre à avril`,
+      highlight: `les plages canines de Binz, Sellin et Baabe, le sentier de falaise Hochuferweg à travers la forêt de Granitz et les sentiers en laisse du parc national de Jasmund`,
+      area: `Binz autour de la promenade et des accès plage 50-51, Sellin près de la Seebrücke, et Baabe plus calme au Fischerstrand`,
     },
     salamanca: {
       personality: `une ville universitaire castillane en grès doré, inscrite à l'UNESCO depuis 1988, où les chiens en laisse glissent sous les arcades baroques et où la berge du Tormes est le cœur des promenades du soir`,
@@ -4776,6 +4786,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'las 28 hectáreas sin correa de Het Park junto al Euromast, el bosque y lago de Kralingse Bos, y la playa de Maasvlakte',
       area: 'Middelland a lo largo de Nieuwe Binnenweg, el barrio artístico de Witte de With y los muelles de Veerhaven',
     },
+    rugen: {
+      personality: `la isla más grande de Alemania y uno de los litorales del Báltico más acogedores para los perros, con tramos Hundestrand oficiales en cada balneario y casi toda la costa abierta para ellos de octubre a abril`,
+      highlight: `las playas caninas de Binz, Sellin y Baabe, el sendero de acantilado Hochuferweg por el bosque de Granitz y los senderos con correa del Parque Nacional de Jasmund`,
+      area: `Binz en torno al paseo y los accesos de playa 50-51, Sellin junto al muelle, y la más tranquila Baabe en el Fischerstrand`,
+    },
     salamanca: {
       personality: 'una ciudad universitaria castellana de arenisca dorada, declarada Patrimonio UNESCO desde 1988, donde los perros con correa se deslizan bajo los soportales barrocos y la orilla del Tormes es el corazón de los paseos vespertinos',
       highlight: 'la Plaza Mayor y la Rúa Mayor, la orilla del Tormes (Salas Bajas) y el Parque de los Jesuitas con su zona vallada sin correa',
@@ -6517,6 +6532,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das cidades mais pet-friendly dos Países Bajos, onde as animais viajan grátis no transporte público e a maioria das esplanadas as aceitam por defecto',
       highlight: 'as 28 hectáreas sem trela de Het Park junto al Euromast, o floresta e lago de Kralingse Bos, e a praia de Maasvlakte',
       area: 'Middelland a lo largo de Nieuwe Binnenweg, o bairro artístico de Witte de With e os muelles de Veerhaven',
+    },
+    rugen: {
+      personality: `a maior ilha da Alemanha e um dos litorais do Báltico mais acolhedores para os cães, com troços Hundestrand oficiais em cada estância e quase toda a costa aberta para eles de outubro a abril`,
+      highlight: `as praias caninas de Binz, Sellin e Baabe, o trilho de falésia Hochuferweg pela floresta de Granitz e os trilhos de trela do Parque Nacional de Jasmund`,
+      area: `Binz em torno do passeio marítimo e dos acessos de praia 50-51, Sellin junto ao pontão, e a mais tranquila Baabe no Fischerstrand`,
     },
     salamanca: {
       personality: 'uma cidade universitaria castellana de arenisca dorada, declarada Patrimonio UNESCO a partir de 1988, onde os cães com trela se deslizan sob os soportales barrocos e a margem do Tormes é o corazón dos passeios vespertinos',

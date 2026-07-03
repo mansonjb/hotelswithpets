@@ -26061,6 +26061,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  sibenik: {
+    history: {
+      fr: `Mentionnée pour la première fois en 1066 dans une charte du roi Petar Krešimir IV, Šibenik est la plus ancienne ville de l'Adriatique fondée par les Croates eux-mêmes, et non par les Grecs ou les Romains. Son chef-d'oeuvre est la cathédrale Saint-Jacques, inscrite à l'UNESCO, construite entièrement en pierre calcaire et en marbre par Juraj Dalmatinac puis Nikola Firentinac, sans aucune charpente de bois. Quatre forteresses veillent sur la ville : Saint-Michel au-dessus des toits, Barone et Saint-Jean sur les collines, et Saint-Nicolas, également classée UNESCO, à l'entrée du chenal Sveti Ante. À un quart d'heure de route commence le parc national de la Krka et ses cascades de travertin. Entre la riva ombragée, le labyrinthe d'escaliers médiévaux et les navettes vers Zlarin et Prvić, Šibenik se découvre très bien avec un chien, surtout au printemps et à l'automne.`,
+      en: `First mentioned in 1066 in a charter of King Petar Krešimir IV, Šibenik is the oldest town on the Adriatic founded by the Croats themselves rather than by Greeks or Romans. Its masterpiece is the UNESCO-listed Cathedral of St James, built entirely of limestone and marble by Juraj Dalmatinac and later Nikola Firentinac, without a single wooden beam. Four fortresses watch over the town: St Michael's above the rooftops, Barone and St John's on the hills, and St Nicholas, also UNESCO-listed, guarding the entrance to the St Anthony channel. A quarter of an hour away by road begins Krka National Park with its travertine waterfalls. Between the shaded riva, the maze of medieval stairways and the boat shuttles to Zlarin and Prvić, Šibenik is very rewarding with a dog, especially in spring and autumn.`,
+      es: `Mencionada por primera vez en 1066 en una carta del rey Petar Krešimir IV, Šibenik es la ciudad más antigua del Adriático fundada por los propios croatas y no por griegos o romanos. Su obra maestra es la catedral de Santiago, inscrita en la UNESCO, construida enteramente en piedra caliza y mármol por Juraj Dalmatinac y después Nikola Firentinac, sin una sola viga de madera. Cuatro fortalezas velan por la ciudad: San Miguel sobre los tejados, Barone y San Juan en las colinas, y San Nicolás, también declarada por la UNESCO, a la entrada del canal de San Antonio. A un cuarto de hora por carretera comienza el parque nacional de Krka con sus cascadas de travertino. Entre la riva sombreada, el laberinto de escaleras medievales y las lanchas a Zlarin y Prvić, Šibenik se disfruta muy bien con perro, sobre todo en primavera y otoño.`,
+      pt: `Mencionada pela primeira vez em 1066 numa carta do rei Petar Krešimir IV, Šibenik é a cidade mais antiga do Adriático fundada pelos próprios croatas e não por gregos ou romanos. A sua obra-prima é a catedral de São Tiago, inscrita na UNESCO, construída inteiramente em calcário e mármore por Juraj Dalmatinac e depois Nikola Firentinac, sem uma única viga de madeira. Quatro fortalezas velam pela cidade: São Miguel sobre os telhados, Barone e São João nas colinas, e São Nicolau, também classificada pela UNESCO, à entrada do canal de Santo António. A um quarto de hora de estrada começa o parque nacional de Krka com as suas cascatas de travertino. Entre a riva sombreada, o labirinto de escadarias medievais e os barcos para Zlarin e Prvić, Šibenik descobre-se muito bem com um cão, sobretudo na primavera e no outono.`,
+    },
+    sights: [
+      {
+        name: `Katedrala svetog Jakova`,
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `La cathédrale Saint-Jacques, inscrite à l'UNESCO, est célèbre pour sa coupole de pierre et sa frise de 71 têtes sculptées. Les chiens n'entrent pas dans l'édifice, mais le parvis de la Trg Republike Hrvatske, bordé de loggias vénitiennes, se savoure très bien en laisse tôt le matin.`,
+          en: `The UNESCO-listed Cathedral of St James is famous for its stone dome and its frieze of 71 sculpted heads. Dogs are not admitted inside, but the square in front, Trg Republike Hrvatske, lined with Venetian loggias, is a delight on lead early in the morning.`,
+          es: `La catedral de Santiago, inscrita en la UNESCO, es célebre por su cúpula de piedra y su friso de 71 cabezas esculpidas. Los perros no entran en el edificio, pero la plaza delantera, Trg Republike Hrvatske, bordeada de logias venecianas, se disfruta muy bien con correa a primera hora.`,
+          pt: `A catedral de São Tiago, inscrita na UNESCO, é célebre pela sua cúpula de pedra e pelo friso de 71 cabeças esculpidas. Os cães não entram no edifício, mas a praça fronteira, Trg Republike Hrvatske, ladeada de lógias venezianas, aprecia-se muito bem com trela de manhã cedo.`,
+        },
+      },
+      {
+        name: `Tvrđava svetog Mihovila`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `La forteresse Saint-Michel couronne la vieille ville et offre le plus beau panorama sur le chenal, les îles et les toits de tuiles. Site à ciel ouvert, elle admet généralement les chiens en laisse ; vérifiez seulement le programme, la scène d'été accueille des concerts qui ferment l'accès en soirée.`,
+          en: `St Michael's Fortress crowns the old town and offers the finest panorama over the channel, the islands and the tiled rooftops. An open-air site, it generally admits leashed dogs; just check the programme, as the summer stage hosts concerts that close access in the evening.`,
+          es: `La fortaleza de San Miguel corona el casco antiguo y ofrece el panorama más bello sobre el canal, las islas y los tejados. Recinto al aire libre, suele admitir perros con correa; conviene revisar el programa, ya que el escenario de verano acoge conciertos que cierran el acceso por la tarde.`,
+          pt: `A fortaleza de São Miguel coroa a cidade velha e oferece o mais belo panorama sobre o canal, as ilhas e os telhados. Recinto ao ar livre, admite geralmente cães com trela; convém verificar o programa, pois o palco de verão recebe concertos que encerram o acesso ao fim do dia.`,
+        },
+      },
+      {
+        name: `Nacionalni park Krka`,
+        emoji: '💧',
+        petFriendly: true,
+        desc: {
+          fr: `À 15 minutes de route, le parc national de la Krka aligne cascades de travertin, passerelles en bois et moulins restaurés. Les chiens en laisse sont admis sur les sentiers et les pontons, mais pas dans les zones de baignade de Skradinski Buk ; prévoyez de l'eau, l'ombre manque à midi.`,
+          en: `A 15-minute drive away, Krka National Park strings together travertine waterfalls, wooden boardwalks and restored mills. Leashed dogs are welcome on the trails and boardwalks, but not in the bathing areas at Skradinski Buk; carry water, as shade is scarce at midday.`,
+          es: `A 15 minutos por carretera, el parque nacional de Krka encadena cascadas de travertino, pasarelas de madera y molinos restaurados. Los perros con correa son bienvenidos en los senderos y pasarelas, pero no en las zonas de baño de Skradinski Buk; lleve agua, la sombra escasea al mediodía.`,
+          pt: `A 15 minutos de estrada, o parque nacional de Krka alinha cascatas de travertino, passadiços de madeira e moinhos restaurados. Os cães com trela são bem-vindos nos trilhos e passadiços, mas não nas zonas de banho de Skradinski Buk; leve água, a sombra escasseia ao meio-dia.`,
+        },
+      },
+      {
+        name: `Plaža Banj`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `La plage urbaine de Banj, à dix minutes à pied de la riva, regarde la vieille ville de l'autre côté de la baie, carte postale au coucher du soleil. Les chiens y sont interdits en saison balnéaire, mais tolérés hors saison, et une zone canine dédiée existe un peu plus loin sur le littoral.`,
+          en: `Banj beach, a ten-minute walk from the riva, faces the old town across the bay, a postcard view at sunset. Dogs are banned here during the bathing season but tolerated off-season, and a dedicated dog-friendly stretch lies a little further along the shoreline.`,
+          es: `La playa urbana de Banj, a diez minutos a pie de la riva, mira al casco antiguo desde el otro lado de la bahía, una postal al atardecer. Los perros están prohibidos en temporada de baño, pero se toleran fuera de temporada, y existe una zona canina dedicada un poco más allá en el litoral.`,
+          pt: `A praia urbana de Banj, a dez minutos a pé da riva, olha para a cidade velha do outro lado da baía, um postal ao pôr do sol. Os cães estão proibidos na época balnear, mas são tolerados fora de época, e existe uma zona canina dedicada um pouco mais adiante no litoral.`,
+        },
+      },
+      {
+        name: `Kanal svetog Ante`,
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade aménagée du chenal Sveti Ante suit la falaise sur 4 km entre la ville et la forteresse Saint-Nicolas, entre pins, criques et anciens tunnels militaires. Large, ombragée par endroits et interdite aux voitures, c'est la plus belle balade canine de Šibenik, en laisse et avec de l'eau.`,
+          en: `The landscaped promenade along the St Anthony channel follows the cliffs for 4 km between the town and St Nicholas Fortress, past pines, coves and old military tunnels. Wide, partly shaded and car-free, it is Šibenik's finest dog walk, on lead and with water in your bag.`,
+          es: `El paseo acondicionado del canal de San Antonio sigue el acantilado durante 4 km entre la ciudad y la fortaleza de San Nicolás, entre pinos, calas y antiguos túneles militares. Ancho, sombreado a tramos y sin coches, es el mejor paseo canino de Šibenik, con correa y agua en la mochila.`,
+          pt: `O passeio arranjado do canal de Santo António segue a falésia por 4 km entre a cidade e a fortaleza de São Nicolau, entre pinheiros, enseadas e antigos túneis militares. Largo, sombreado por troços e sem carros, é o mais belo passeio canino de Šibenik, com trela e água na mochila.`,
+        },
+      },
+      {
+        name: `Stari grad (Old Town)`,
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La vieille ville est un dédale d'escaliers de pierre polie, de ruelles voûtées et de placettes qui grimpent de la riva vers la forteresse Saint-Michel. Les chiens en laisse y flânent librement, et beaucoup de terrasses sortent une gamelle d'eau ; en été, réservez la montée aux heures fraîches.`,
+          en: `The old town is a maze of polished stone stairways, vaulted alleys and small squares climbing from the riva to St Michael's Fortress. Leashed dogs wander freely here, and many terraces bring out a water bowl; in summer, save the climb for the cooler hours.`,
+          es: `El casco antiguo es un dédalo de escaleras de piedra pulida, callejones abovedados y placitas que suben de la riva a la fortaleza de San Miguel. Los perros con correa pasean libremente, y muchas terrazas sacan un cuenco de agua; en verano, reserve la subida para las horas frescas.`,
+          pt: `A cidade velha é um dédalo de escadarias de pedra polida, vielas abobadadas e pracetas que sobem da riva até à fortaleza de São Miguel. Os cães com trela passeiam livremente, e muitas esplanadas trazem uma taça de água; no verão, reserve a subida para as horas frescas.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Laisse obligatoire dans l'espace public ; les escaliers de la vieille ville sont glissants après la pluie et la pierre chauffe fort en été, montée tôt le matin recommandée`,
+        `Attention l'été : plus de 30 °C en juillet-août, dalles et riva brûlantes pour les coussinets entre 11h et 18h ; test du dos de la main, promenades à l'aube et en soirée, eau toujours sur soi`,
+        `Plage Banj interdite aux chiens en saison balnéaire ; visez la zone canine un peu plus loin sur le littoral ou les criques du chenal Sveti Ante hors saison`,
+        `Parc national de la Krka : chiens admis en laisse sur les sentiers et passerelles mais interdits dans les zones de baignade de Skradinski Buk ; navettes-bateau du parc au cas par cas, renseignez-vous à l'embarcadère de Skradin`,
+        `Ferries Jadrolinija vers Zlarin et Prvić : chiens acceptés sur le pont avec muselière et laisse, pas dans les cabines intérieures ; bus urbains au cas par cas, petits chiens en sac de transport plus facilement admis`,
+      ],
+      en: [
+        `Leads are compulsory in public spaces; the old town stairways are slippery after rain and the stone gets very hot in summer, so tackle the climb early in the morning`,
+        `Summer warning: over 30C in July and August, with flagstones and the riva burning hot for paws between 11am and 6pm; do the back-of-hand test, walk at dawn and in the evening, and always carry water`,
+        `Banj beach is off-limits to dogs during the bathing season; head for the dedicated dog zone a little further along the shore, or the St Anthony channel coves off-season`,
+        `Krka National Park: dogs allowed on lead on the trails and boardwalks but banned from the bathing areas at Skradinski Buk; park boat shuttles decide case by case, ask at the Skradin jetty`,
+        `Jadrolinija ferries to Zlarin and Prvić: dogs travel on deck with muzzle and lead, not inside the cabins; town buses at the driver's discretion, small dogs in a carrier are accepted more easily`,
+      ],
+      es: [
+        `Correa obligatoria en el espacio público; las escaleras del casco antiguo resbalan tras la lluvia y la piedra se calienta mucho en verano, mejor subir a primera hora`,
+        `Aviso estival: más de 30 °C en julio y agosto, con losas y riva ardientes para las almohadillas entre las 11 y las 18 h; haga la prueba del dorso de la mano, pasee al alba y al anochecer y lleve siempre agua`,
+        `La playa Banj está prohibida para perros en temporada de baño; opte por la zona canina un poco más allá en el litoral o por las calas del canal de San Antonio fuera de temporada`,
+        `Parque nacional de Krka: perros admitidos con correa en senderos y pasarelas pero prohibidos en las zonas de baño de Skradinski Buk; los barcos del parque deciden caso por caso, pregunte en el embarcadero de Skradin`,
+        `Ferries de Jadrolinija a Zlarin y Prvić: los perros viajan en cubierta con bozal y correa, no en las cabinas interiores; autobuses urbanos a criterio del conductor, los perros pequeños en transportín se aceptan con más facilidad`,
+      ],
+      pt: [
+        `Trela obrigatória no espaço público; as escadarias da cidade velha escorregam depois da chuva e a pedra aquece muito no verão, é melhor subir de manhã cedo`,
+        `Aviso de verão: mais de 30 °C em julho e agosto, com lajes e riva escaldantes para as almofadas das patas entre as 11h e as 18h; faça o teste das costas da mão, passeie de madrugada e ao anoitecer e leve sempre água`,
+        `A praia Banj está proibida a cães na época balnear; prefira a zona canina um pouco mais adiante no litoral ou as enseadas do canal de Santo António fora de época`,
+        `Parque nacional de Krka: cães admitidos com trela nos trilhos e passadiços mas proibidos nas zonas de banho de Skradinski Buk; os barcos do parque decidem caso a caso, pergunte no embarcadouro de Skradin`,
+        `Ferries da Jadrolinija para Zlarin e Prvić: os cães viajam no convés com açaime e trela, não nas cabinas interiores; autocarros urbanos ao critério do motorista, cães pequenos em transportadora são aceites mais facilmente`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence européen : 112 ; en Croatie, police 192, pompiers 193, ambulance 194, à ne pas confondre avec un numéro vétérinaire`,
+        `Cabinets vétérinaires à Šibenik pour les soins courants ; les hôpitaux vétérinaires 24h/24 les plus proches se trouvent à Split et Zadar, à environ une heure de route`,
+        `Rayons animaux dans les supermarchés Tommy, Konzum et Studenac de la ville ; animaleries mieux fournies dans les zones commerciales de la périphérie et à Split`,
+        `Ferries Jadrolinija Šibenik-Zlarin-Prvić : chiens gratuits sur le pont, muselière et laisse obligatoires ; pour Krka, embarcadère du parc à Skradin, à 15 minutes en voiture`,
+        `Passeport européen, puce électronique et vaccin antirabique à jour obligatoires ; la Croatie est dans l'UE, aucune formalité supplémentaire depuis la France, l'Espagne ou le Portugal`,
+      ],
+      en: [
+        `European emergency number: 112; in Croatia, police 192, fire brigade 193, ambulance 194, not to be confused with a veterinary line`,
+        `Veterinary practices in Šibenik for routine care; the nearest 24-hour animal hospitals are in Split and Zadar, roughly an hour away by road`,
+        `Pet aisles in the town's Tommy, Konzum and Studenac supermarkets; better-stocked pet shops in the retail parks on the outskirts and in Split`,
+        `Jadrolinija ferries Šibenik-Zlarin-Prvić: dogs travel free on deck, muzzle and lead compulsory; for Krka, the park jetty is at Skradin, a 15-minute drive away`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required; Croatia is in the EU, with no extra formalities when arriving from France, Spain or Portugal`,
+      ],
+      es: [
+        `Número de emergencia europeo: 112; en Croacia, policía 192, bomberos 193, ambulancia 194, no confundir con un teléfono veterinario`,
+        `Consultas veterinarias en Šibenik para cuidados corrientes; los hospitales veterinarios 24 horas más cercanos están en Split y Zadar, a una hora por carretera`,
+        `Secciones de mascotas en los supermercados Tommy, Konzum y Studenac de la ciudad; tiendas de animales mejor surtidas en los parques comerciales de la periferia y en Split`,
+        `Ferries de Jadrolinija Šibenik-Zlarin-Prvić: los perros viajan gratis en cubierta, bozal y correa obligatorios; para Krka, el embarcadero del parque está en Skradin, a 15 minutos en coche`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios; Croacia está en la UE, sin formalidades adicionales desde España, Francia o Portugal`,
+      ],
+      pt: [
+        `Número de emergência europeu: 112; na Croácia, polícia 192, bombeiros 193, ambulância 194, não confundir com um número veterinário`,
+        `Consultórios veterinários em Šibenik para cuidados correntes; os hospitais veterinários 24 horas mais próximos ficam em Split e Zadar, a cerca de uma hora de estrada`,
+        `Secções pet nos supermercados Tommy, Konzum e Studenac da cidade; lojas de animais mais completas nos parques comerciais da periferia e em Split`,
+        `Ferries da Jadrolinija Šibenik-Zlarin-Prvić: os cães viajam grátis no convés, açaime e trela obrigatórios; para Krka, o embarcadouro do parque fica em Skradin, a 15 minutos de carro`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; a Croácia está na UE, sem formalidades adicionais desde Portugal, Espanha ou França`,
+      ],
+    },
+  },
+
   siena: {
     history: {
       fr: `Sienne, environ 53 000 habitants perchés sur trois collines de tuf au cœur de la Toscane méridionale, est l'une des villes médiévales les mieux conservées d'Europe et un site du patrimoine mondial de l'UNESCO. Rivale de Florence au Moyen Âge, elle a figé son apogée gothique du XIVᵉ siècle autour de la Piazza del Campo en forme de coquille, et se divise toujours en 17 contrade (quartiers) qui s'affrontent deux fois l'an lors du Palio, la célèbre course de chevaux des 2 juillet et 16 août. Côté chiens, la réglementation italienne s'applique : laisse obligatoire dans l'espace public, muselière à porter sur soi, ramassage obligatoire ; le centre intra-muros, presque entièrement piéton, est très agréable à parcourir avec un chien hors des heures de pointe. Les chiens en laisse sont admis sur la Piazza del Campo, le long des remparts de la Fortezza Medicea et dans le jardin médiéval de l'Orto de' Pecci, mais pas à l'intérieur du Duomo ni des musées. Évitez absolument la ville les jours de Palio : la foule compacte et le bruit en font un cauchemar pour un animal.`,

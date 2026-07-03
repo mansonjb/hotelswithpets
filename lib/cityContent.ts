@@ -8558,6 +8558,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'conil-de-la-frontera': {
+    history: {
+      fr: `Conil de la Frontera, ancien village de pêcheurs devenu l'un des pueblos blancos les plus attachants de la Costa de la Luz, étage ses maisons chaulées au-dessus de kilomètres de sable doré face à l'Atlantique. Occupé depuis les Phéniciens, le bourg a vécu des siècles au rythme de l'almadraba, la pêche traditionnelle du thon rouge que la maison de Guzmán organisait depuis la Torre de Guzmán, donjon du XIVe siècle qui domine toujours le centre. Le vieux quartier des pêcheurs de La Chanca en garde la mémoire maritime. Pour un voyageur avec chien, Conil est un bonheur de printemps et d'automne : plages immenses de los Bateles et de la Fontanilla largement praticables hors saison, sentier côtier en corniche vers les Calas de Roche, ruelles blanches fraîches le matin. L'été impose ses règles : plages urbaines interdites aux chiens, chaleur andalouse et rafales du fameux vent de Levante.`,
+      en: `Conil de la Frontera, an old fishing village turned one of the most endearing white towns of the Costa de la Luz, stacks its whitewashed houses above kilometres of golden Atlantic sand. Settled since Phoenician times, the town lived for centuries to the rhythm of the almadraba, the traditional bluefin tuna trap fishery that the house of Guzman ran from the Torre de Guzman, the 14th-century keep still towering over the centre. The old fishermen's quarter of La Chanca keeps that maritime memory alive. For a traveller with a dog, Conil is a spring and autumn delight: the huge beaches of Los Bateles and La Fontanilla are widely walkable off season, a clifftop coastal path runs out to the Calas de Roche, and the white lanes stay cool in the morning. Summer sets its own rules: town beaches are closed to dogs, the Andalusian heat bites, and the famous Levante wind gusts hard.`,
+      es: `Conil de la Frontera, antiguo pueblo de pescadores convertido en uno de los pueblos blancos más queridos de la Costa de la Luz, escalona sus casas encaladas sobre kilómetros de arena dorada frente al Atlántico. Habitado desde los fenicios, el pueblo vivió siglos al ritmo de la almadraba, la pesca tradicional del atún rojo que la casa de Guzmán dirigía desde la Torre de Guzmán, torreón del siglo XIV que aún domina el centro. El viejo barrio marinero de La Chanca conserva esa memoria del mar. Para quien viaja con perro, Conil es una delicia de primavera y otoño: las playas inmensas de los Bateles y de la Fontanilla se recorren con libertad fuera de temporada, el sendero costero de acantilado lleva hasta las Calas de Roche y las callejuelas blancas se mantienen frescas por la mañana. El verano impone sus reglas: playas urbanas vetadas a los perros, calor andaluz y rachas del famoso viento de Levante.`,
+      pt: `Conil de la Frontera, antiga vila de pescadores tornada uma das povoações brancas mais encantadoras da Costa de la Luz, escalona as suas casas caiadas sobre quilómetros de areia dourada frente ao Atlântico. Habitada desde os fenícios, a vila viveu séculos ao ritmo da almadraba, a pesca tradicional do atum-rabilho que a casa de Guzmán dirigia a partir da Torre de Guzmán, torreão do século XIV que ainda domina o centro. O velho bairro dos pescadores de La Chanca guarda essa memória marítima. Para quem viaja com cão, Conil é uma delícia de primavera e outono: as praias imensas de los Bateles e da Fontanilla percorrem-se com liberdade fora de época, o trilho costeiro de falésia leva até às Calas de Roche e as vielas brancas mantêm-se frescas de manhã. O verão impõe as suas regras: praias urbanas vedadas aos cães, calor andaluz e rajadas do famoso vento de Levante.`,
+    },
+    sights: [
+      {
+        name: `Playa de los Bateles`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `La grande plage urbaine de Conil déroule son sable doré au pied du village, là où le río Salado rejoint l'océan. Comme sur les plages surveillées d'Andalousie, les chiens y sont interdits pendant la saison balnéaire estivale ; d'octobre à Pâques, en revanche, c'est un immense terrain de promenade à marée basse.`,
+          en: `Conil's main town beach unrolls its golden sand at the foot of the village, where the Rio Salado meets the ocean. As on Andalusia's supervised beaches, dogs are banned during the summer bathing season; from October to Easter, however, it becomes a vast low-tide walking ground.`,
+          es: `La gran playa urbana de Conil despliega su arena dorada a los pies del pueblo, donde el río Salado se une al océano. Como en las playas vigiladas de Andalucía, los perros están prohibidos durante la temporada de baño estival; de octubre a Semana Santa, en cambio, es un enorme paseo con marea baja.`,
+          pt: `A grande praia urbana de Conil estende a sua areia dourada aos pés da vila, onde o rio Salado encontra o oceano. Como nas praias vigiadas da Andaluzia, os cães são proibidos durante a época balnear de verão; de outubro à Páscoa, porém, é um imenso terreno de passeio na maré baixa.`,
+        },
+      },
+      {
+        name: `Playa de la Fontanilla`,
+        emoji: '🌊',
+        petFriendly: false,
+        desc: {
+          fr: `La plage la plus réputée de Conil, bordée de chiringuitos célèbres pour leur poisson grillé, s'étire vers les falaises basses du nord. Interdite aux chiens en été comme toutes les plages de baignade de la commune, elle redevient hors saison une promenade superbe, et la province de Cadix compte des zones canines désignées à quelques kilomètres.`,
+          en: `Conil's most celebrated beach, lined with chiringuitos famous for grilled fish, stretches towards the low cliffs to the north. Off limits to dogs in summer like all the town's bathing beaches, it becomes a superb off-season walk again, and the Cadiz province keeps designated dog beach areas a few kilometres away.`,
+          es: `La playa más célebre de Conil, bordeada de chiringuitos famosos por su pescado a la brasa, se alarga hacia los acantilados bajos del norte. Vetada a los perros en verano como todas las playas de baño del municipio, vuelve a ser un paseo soberbio fuera de temporada, y la provincia de Cádiz cuenta con zonas caninas habilitadas a pocos kilómetros.`,
+          pt: `A praia mais célebre de Conil, ladeada de chiringuitos famosos pelo peixe grelhado, estende-se para as falésias baixas do norte. Vedada aos cães no verão como todas as praias de banho do município, volta a ser um passeio soberbo fora de época, e a província de Cádis tem zonas caninas designadas a poucos quilómetros.`,
+        },
+      },
+      {
+        name: `Torre de Guzmán`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Ce donjon du XIVe siècle, vestige du château des Guzmán, servait de vigie pour l'almadraba et les raids barbaresques. La montée intérieure se fait sans chien, mais la placette qui l'entoure, le patio de la Villa et les ruelles blanches voisines se parcourent très agréablement en laisse, surtout à l'heure dorée.`,
+          en: `This 14th-century keep, a remnant of the Guzman castle, once served as a lookout for the almadraba and Barbary raids. The climb inside is done without dogs, but the small square around it, the Patio de la Villa and the neighbouring white lanes make a lovely on-lead stroll, especially at golden hour.`,
+          es: `Este torreón del siglo XIV, vestigio del castillo de los Guzmán, servía de vigía para la almadraba y las incursiones berberiscas. La subida interior se hace sin perro, pero la placita que lo rodea, el patio de la Villa y las callejuelas blancas vecinas se recorren muy a gusto con correa, sobre todo a la hora dorada.`,
+          pt: `Este torreão do século XIV, vestígio do castelo dos Guzmán, servia de vigia para a almadraba e as incursões berberescas. A subida interior faz-se sem cão, mas o largo que o rodeia, o pátio de la Villa e as vielas brancas vizinhas percorrem-se muito agradavelmente com trela, sobretudo à hora dourada.`,
+        },
+      },
+      {
+        name: `Barrio de La Chanca`,
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `L'ancien quartier des pêcheurs entoure la vieille chanca, la halle où l'on salait le thon de l'almadraba, aujourd'hui centre culturel dédié à cette pêche millénaire. Ses ruelles basses, ses patios fleuris et ses murs blancs se découvrent librement avec un chien en laisse, dans le calme dès que l'on quitte les rues commerçantes.`,
+          en: `The old fishermen's quarter wraps around the former chanca, the hall where almadraba tuna was salted, now a cultural centre devoted to this thousand-year-old fishery. Its low lanes, flowered patios and white walls are freely explored with a leashed dog, in real quiet once you leave the shopping streets.`,
+          es: `El antiguo barrio marinero rodea la vieja chanca, la nave donde se salaba el atún de almadraba, hoy centro cultural dedicado a esta pesca milenaria. Sus callejuelas bajas, sus patios floridos y sus muros blancos se descubren libremente con el perro atado, con mucha calma en cuanto se dejan las calles comerciales.`,
+          pt: `O antigo bairro dos pescadores envolve a velha chanca, a nave onde se salgava o atum da almadraba, hoje centro cultural dedicado a esta pesca milenar. As suas vielas baixas, os pátios floridos e os muros brancos descobrem-se livremente com o cão pela trela, com muita calma assim que se deixam as ruas comerciais.`,
+        },
+      },
+      {
+        name: `Calas de Roche`,
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Au nord de la Fontanilla, un sentier côtier file en corniche au-dessus de falaises ocre jusqu'aux criques de Roche et son petit phare. C'est la grande balade canine de Conil : en laisse sur le sentier, vues superbes sur l'Atlantique, criques sauvages en contrebas ; partez tôt l'été et méfiez-vous du bord de falaise par vent fort.`,
+          en: `North of La Fontanilla, a coastal path runs along ochre clifftops to the Roche coves and their little lighthouse. This is Conil's great dog walk: on lead along the trail, with superb Atlantic views and wild coves below; start early in summer and keep clear of the cliff edge in strong wind.`,
+          es: `Al norte de la Fontanilla, un sendero costero recorre lo alto de acantilados ocres hasta las calas de Roche y su pequeño faro. Es el gran paseo canino de Conil: con correa por el sendero, vistas soberbias al Atlántico y calas salvajes abajo; salga temprano en verano y aléjese del borde del acantilado con viento fuerte.`,
+          pt: `A norte da Fontanilla, um trilho costeiro percorre o topo de falésias ocres até às enseadas de Roche e ao seu pequeno farol. É o grande passeio canino de Conil: com trela pelo trilho, vistas soberbas sobre o Atlântico e enseadas selvagens em baixo; parta cedo no verão e afaste-se da beira da falésia com vento forte.`,
+        },
+      },
+      {
+        name: `Puerto pesquero de Conil`,
+        emoji: '🐟',
+        petFriendly: true,
+        desc: {
+          fr: `Blotti sous la falaise de Roche, le petit port de pêche débarque encore chaque jour le poisson de la côte, et le thon rouge quand vient la saison de l'almadraba au printemps. La jetée et les quais font une promenade iodée très agréable en laisse, avec les bateaux colorés d'un côté et les criques de l'autre.`,
+          en: `Tucked beneath the Roche cliff, the little fishing port still lands the coast's catch every day, and bluefin tuna when the spring almadraba season comes. The breakwater and quays make a lovely salty on-lead walk, colourful boats on one side and coves on the other.`,
+          es: `Recogido bajo el acantilado de Roche, el pequeño puerto pesquero sigue descargando cada día el pescado de la costa, y el atún rojo cuando llega la temporada de almadraba en primavera. La escollera y los muelles son un paseo marinero muy agradable con correa, con los barcos de colores a un lado y las calas al otro.`,
+          pt: `Aninhado sob a falésia de Roche, o pequeno porto de pesca continua a descarregar cada dia o peixe da costa, e o atum-rabilho quando chega a época da almadraba na primavera. O quebra-mar e os cais fazem um passeio marinho muito agradável com trela, com os barcos coloridos de um lado e as enseadas do outro.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Plages : interdiction estivale aux chiens sur les plages de baignade de Conil pendant la haute saison ; visez le printemps et l'automne pour les grandes plages, et repliez-vous sur les zones canines désignées de la province de Cadix en été`,
+        `Le vent de Levante peut souffler fort plusieurs jours d'affilée : sable projeté irritant pour les yeux et les oreilles du chien, préférez alors le sentier des Calas de Roche côté abrité ou les ruelles du centre`,
+        `Chaleur andalouse de juin à septembre : promenades à l'aube et après 20h, test du dos de la main sur le sable et le pavé, eau toujours sur soi, ombre rare sur le littoral`,
+        `Prévention leishmaniose indispensable sur la côte andalouse (phlébotomes actifs du printemps à l'automne) : collier ou pipette répulsive, éviter les sorties au crépuscule près des zones humides du río Salado`,
+        `En Espagne, laisse obligatoire en ville ; pour les races dites PPP (potentiellement dangereuses), muselière et laisse courte exigées dans l'espace public, licence à l'appui`,
+      ],
+      en: [
+        `Beaches: dogs are banned from Conil's bathing beaches during the summer high season; aim for spring and autumn on the big beaches, and fall back on the Cadiz province's designated dog beach areas in summer`,
+        `The Levante wind can blow hard for days at a stretch: wind-driven sand irritates a dog's eyes and ears, so switch to the sheltered side of the Calas de Roche path or the old-town lanes when it picks up`,
+        `Andalusian heat from June to September: walk at dawn and after 8pm, do the back-of-hand test on sand and paving, always carry water, and expect little shade along the coast`,
+        `Leishmaniasis prevention is essential on the Andalusian coast (sandflies active from spring to autumn): repellent collar or spot-on, and avoid dusk outings near the damp ground of the Rio Salado`,
+        `In Spain, leads are compulsory in town; for so-called PPP (potentially dangerous) breeds, a muzzle and short lead are required in public spaces, licence at hand`,
+      ],
+      es: [
+        `Playas: prohibición estival de perros en las playas de baño de Conil durante la temporada alta; apunte a primavera y otoño para las grandes playas, y recurra en verano a las zonas caninas habilitadas de la provincia de Cádiz`,
+        `El viento de Levante puede soplar fuerte varios días seguidos: la arena en suspensión irrita ojos y oídos del perro, así que pase al lado resguardado del sendero de las Calas de Roche o a las callejuelas del centro`,
+        `Calor andaluz de junio a septiembre: paseos al alba y después de las 20 h, prueba del dorso de la mano sobre arena y adoquín, agua siempre encima, poca sombra en el litoral`,
+        `Prevención de la leishmaniosis imprescindible en la costa andaluza (flebótomos activos de primavera a otoño): collar o pipeta repelente, y evite salidas al atardecer cerca de las zonas húmedas del río Salado`,
+        `En España, correa obligatoria en la ciudad; para las razas PPP (potencialmente peligrosas), bozal y correa corta exigidos en el espacio público, con la licencia a mano`,
+      ],
+      pt: [
+        `Praias: proibição estival de cães nas praias de banho de Conil durante a época alta; aponte para a primavera e o outono nas grandes praias, e recorra no verão às zonas caninas designadas da província de Cádis`,
+        `O vento de Levante pode soprar forte vários dias seguidos: a areia projetada irrita os olhos e os ouvidos do cão, mude então para o lado abrigado do trilho das Calas de Roche ou para as vielas do centro`,
+        `Calor andaluz de junho a setembro: passeios de madrugada e depois das 20h, teste das costas da mão na areia e na calçada, água sempre à mão, pouca sombra no litoral`,
+        `Prevenção da leishmaniose indispensável na costa andaluza (flebótomos ativos da primavera ao outono): coleira ou pipeta repelente, e evite saídas ao entardecer perto das zonas húmidas do rio Salado`,
+        `Em Espanha, trela obrigatória na cidade; para as raças ditas PPP (potencialmente perigosas), açaime e trela curta exigidos no espaço público, com a licença à mão`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence européen : 112, valable partout en Espagne pour police, pompiers et secours`,
+        `Cliniques vétérinaires à Conil même pour les soins courants ; pour les urgences de nuit, les hôpitaux vétérinaires 24h/24 les plus proches se trouvent autour de Chiclana, Cadix et Jerez, à 30 à 50 minutes de route`,
+        `Rayons animaux dans les supermarchés Mercadona, Dia et Lidl de la ville ; animaleries mieux fournies dans les zones commerciales de Chiclana de la Frontera`,
+        `Aéroport le plus proche : Jerez (XRY) à environ 1h de route, Séville et Gibraltar en alternative ; pas de gare à Conil, bus interurbains Comes depuis Cadix avec petits chiens en sac de transport selon les conditions du transporteur`,
+        `Passeport européen, puce électronique et vaccin antirabique à jour obligatoires ; l'Espagne est dans l'UE, aucune formalité supplémentaire depuis la France ou le Portugal`,
+      ],
+      en: [
+        `European emergency number: 112, valid throughout Spain for police, fire brigade and ambulance`,
+        `Veterinary clinics in Conil itself for routine care; for night emergencies, the nearest 24-hour animal hospitals are around Chiclana, Cadiz and Jerez, 30 to 50 minutes away by road`,
+        `Pet aisles in the town's Mercadona, Dia and Lidl supermarkets; better-stocked pet shops in the retail parks of Chiclana de la Frontera`,
+        `Nearest airport: Jerez (XRY) about 1 hour away by road, with Seville and Gibraltar as alternatives; no train station in Conil, and Comes intercity buses from Cadiz take small dogs in carriers subject to the operator's conditions`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required; Spain is in the EU, with no extra formalities when arriving from France or Portugal`,
+      ],
+      es: [
+        `Número de emergencia europeo: 112, válido en toda España para policía, bomberos y ambulancia`,
+        `Clínicas veterinarias en el propio Conil para cuidados corrientes; para urgencias nocturnas, los hospitales veterinarios 24 horas más cercanos están en torno a Chiclana, Cádiz y Jerez, a entre 30 y 50 minutos por carretera`,
+        `Secciones de mascotas en los supermercados Mercadona, Dia y Lidl del pueblo; tiendas de animales mejor surtidas en los parques comerciales de Chiclana de la Frontera`,
+        `Aeropuerto más cercano: Jerez (XRY) a alrededor de 1 hora por carretera, con Sevilla y Gibraltar como alternativas; Conil no tiene estación de tren, y los autobuses interurbanos de Comes desde Cádiz admiten perros pequeños en transportín según las condiciones del operador`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios; España está en la UE, sin formalidades adicionales desde Francia o Portugal`,
+      ],
+      pt: [
+        `Número de emergência europeu: 112, válido em toda a Espanha para polícia, bombeiros e socorro`,
+        `Clínicas veterinárias no próprio Conil para cuidados correntes; para urgências noturnas, os hospitais veterinários 24 horas mais próximos ficam à volta de Chiclana, Cádis e Jerez, a 30 a 50 minutos de estrada`,
+        `Secções pet nos supermercados Mercadona, Dia e Lidl da vila; lojas de animais mais completas nos parques comerciais de Chiclana de la Frontera`,
+        `Aeroporto mais próximo: Jerez (XRY) a cerca de 1 hora de estrada, com Sevilha e Gibraltar como alternativas; Conil não tem estação de comboio, e os autocarros interurbanos da Comes desde Cádis aceitam cães pequenos em transportadora segundo as condições do operador`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; a Espanha está na UE, sem formalidades adicionais desde Portugal ou França`,
+      ],
+    },
+  },
+
   copenhagen: {
     history: {
       en: 'Copenhagen, consistently ranked among the world\'s most liveable cities, is also one of Europe\'s most dog-friendly capitals. Danes have a deep and unsentimental relationship with their dogs: Copenhageners cycle with dogs in cargo bikes, take them to work, and bring them to the city\'s many dog-friendly cafés and restaurants as a matter of course. The city\'s commitment to cycling infrastructure, its network of harbour baths, parks and beaches within cycling distance, and its high social trust create an environment where dogs are genuinely welcomed rather than merely tolerated. An estimated 70,000 dogs live in the Copenhagen metropolitan area.',
@@ -32606,6 +32743,143 @@ const cityContent: Record<string, CityContent> = {
         `Clima continental: veranos calurosos (24-32 °C em julho-agosto), inviernos frios (-2 a 5 °C, nieve de dezembro a fevereiro), lleva um abrigo para raças de pelo curto.`,
         `O euro é a moneda a partir de 2023; os preços são claramente mais bajos que em Europa Occidental, calcula alrededor do 60-70 % dum orçamento de París para a misma categoría hotelera.`,
         `Konzum, Spar e Lidl são os supermercados habituales; os três llevan pienso e sobres de qualidade decente. Maxi Zoo (tienda de animales) tem dois sucursales periféricas para marcas premium.`,
+      ],
+    },
+  },
+
+  'zahara-de-los-atunes': {
+    history: {
+      fr: `Zahara de los Atunes porte son destin dans son nom : ce village de la Costa de la Luz vit depuis des siècles de l'almadraba, la pêche traditionnelle du thon rouge que les ducs de Medina Sidonia organisaient depuis le Palacio de las Pilas, la chanca fortifiée dont les murs entourent encore le cœur du bourg. Longtemps hameau isolé entre l'Atlantique et la Sierra de la Plata, Zahara est devenue une station balnéaire discrète, réputée pour son immense plage de sable blond et sa gastronomie du thon. Pour un voyageur avec chien, c'est un bonheur de printemps et d'automne : plage interminable à marée basse, sentiers du cap de Plata et d'Atlanterra, collines fraîches de la sierra au petit matin. L'été impose ses règles : restrictions sur la plage principale en haute saison, foule d'août, chaleur andalouse et rafales du vent de Levante.`,
+      en: `Zahara de los Atunes carries its destiny in its name: this Costa de la Luz village has lived for centuries off the almadraba, the traditional bluefin tuna trap fishery that the dukes of Medina Sidonia ran from the Palacio de las Pilas, the fortified chanca whose walls still wrap around the heart of the village. Long an isolated hamlet between the Atlantic and the Sierra de la Plata, Zahara has become a quietly fashionable seaside town, famous for its immense stretch of pale sand and its tuna gastronomy. For a traveller with a dog, it is a spring and autumn delight: an endless beach at low tide, the trails of Cabo de Plata and Atlanterra, and the cool sierra hills in the early morning. Summer sets its own rules: restrictions on the main beach in high season, August crowds, Andalusian heat and hard gusts of the Levante wind.`,
+      es: `Zahara de los Atunes lleva su destino en el nombre: este pueblo de la Costa de la Luz vive desde hace siglos de la almadraba, la pesca tradicional del atún rojo que los duques de Medina Sidonia dirigían desde el Palacio de las Pilas, la chanca fortificada cuyos muros aún rodean el corazón del casco. Durante mucho tiempo aldea aislada entre el Atlántico y la Sierra de la Plata, Zahara se ha convertido en un destino de playa discreto, famoso por su inmenso arenal dorado y su gastronomía del atún. Para quien viaja con perro, es una delicia de primavera y otoño: playa interminable con marea baja, senderos del cabo de Plata y de Atlanterra, y colinas frescas de la sierra al amanecer. El verano impone sus reglas: restricciones en la playa principal en temporada alta, gentío de agosto, calor andaluz y rachas del viento de Levante.`,
+      pt: `Zahara de los Atunes carrega o destino no próprio nome: esta vila da Costa de la Luz vive há séculos da almadraba, a pesca tradicional do atum-rabilho que os duques de Medina Sidonia dirigiam a partir do Palacio de las Pilas, a chanca fortificada cujos muros ainda envolvem o coração do povoado. Durante muito tempo aldeia isolada entre o Atlântico e a Sierra de la Plata, Zahara tornou-se um destino balnear discreto, famoso pelo seu imenso areal dourado e pela gastronomia do atum. Para quem viaja com cão, é uma delícia de primavera e outono: praia interminável na maré baixa, trilhos do cabo de Plata e de Atlanterra, e colinas frescas da serra de manhã cedo. O verão impõe as suas regras: restrições na praia principal na época alta, multidões de agosto, calor andaluz e rajadas do vento de Levante.`,
+    },
+    sights: [
+      {
+        name: `Playa de Zahara`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `La grande plage du village déroule des kilomètres de sable blond entre l'embouchure du río Cachón et Atlanterra. Comme sur les plages surveillées d'Andalousie, les chiens y subissent des restrictions pendant la saison balnéaire estivale ; d'octobre à Pâques, en revanche, c'est un immense terrain de promenade à marée basse, avec la silhouette de l'Afrique à l'horizon par temps clair.`,
+          en: `The village's great beach unrolls kilometres of pale sand between the mouth of the Rio Cachon and Atlanterra. As on Andalusia's supervised beaches, dogs face restrictions during the summer bathing season; from October to Easter, however, it becomes a vast low-tide walking ground, with the silhouette of Africa on the horizon on clear days.`,
+          es: `La gran playa del pueblo despliega kilómetros de arena dorada entre la desembocadura del río Cachón y Atlanterra. Como en las playas vigiladas de Andalucía, los perros sufren restricciones durante la temporada de baño estival; de octubre a Semana Santa, en cambio, es un enorme paseo con marea baja, con la silueta de África en el horizonte los días claros.`,
+          pt: `A grande praia da vila estende quilómetros de areia dourada entre a foz do rio Cachón e Atlanterra. Como nas praias vigiadas da Andaluzia, os cães enfrentam restrições durante a época balnear de verão; de outubro à Páscoa, porém, é um imenso terreno de passeio na maré baixa, com a silhueta de África no horizonte nos dias limpos.`,
+        },
+      },
+      {
+        name: `Palacio de las Pilas`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Au cœur du village, les murailles du palais-chanca des ducs de Medina Sidonia rappellent l'époque où l'on salait ici le thon de l'almadraba et où l'on se défendait des raids barbaresques. L'enceinte, qui abrite aujourd'hui l'église, se longe très agréablement en laisse, et les ruelles blanches alentour se prêtent à une flânerie à l'heure dorée.`,
+          en: `At the heart of the village, the walls of the Medina Sidonia dukes' palace-chanca recall the days when almadraba tuna was salted here and Barbary raids had to be fought off. The precinct, which now shelters the church, makes a lovely on-lead walk along its walls, and the surrounding white lanes are made for a golden-hour stroll.`,
+          es: `En el corazón del pueblo, las murallas del palacio-chanca de los duques de Medina Sidonia recuerdan la época en que aquí se salaba el atún de almadraba y había que defenderse de las incursiones berberiscas. El recinto, que hoy acoge la iglesia, se bordea muy a gusto con correa, y las callejuelas blancas de alrededor invitan a pasear a la hora dorada.`,
+          pt: `No coração da vila, as muralhas do palácio-chanca dos duques de Medina Sidonia recordam a época em que aqui se salgava o atum da almadraba e era preciso defender-se das incursões berberescas. O recinto, que hoje acolhe a igreja, contorna-se muito agradavelmente com trela, e as vielas brancas em redor convidam a um passeio à hora dourada.`,
+        },
+      },
+      {
+        name: `Playa del Camarinal`,
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Au-delà d'Atlanterra, vers le phare de Camarinal, la côte devient sauvage : criques de sable et de rochers adossées à la pinède, fréquentation clairsemée même en été. C'est le secteur connu des maîtres comme le plus permissif du coin pour laisser son chien gambader hors saison ; accès à pied par des pistes sableuses, prévoyez eau et ombre.`,
+          en: `Beyond Atlanterra, towards the Camarinal lighthouse, the coast turns wild: coves of sand and rock backed by pine forest, sparsely visited even in summer. This is the stretch dog owners know as the most permissive zone around here for letting a dog romp off season; access is on foot along sandy tracks, so bring water and plan for shade.`,
+          es: `Más allá de Atlanterra, hacia el faro de Camarinal, la costa se vuelve salvaje: calas de arena y roca respaldadas por el pinar, con poca gente incluso en verano. Es el sector que los dueños de perros conocen como el más permisivo de la zona para dejar corretear al perro fuera de temporada; acceso a pie por pistas de arena, lleve agua y busque sombra.`,
+          pt: `Para lá de Atlanterra, em direção ao farol de Camarinal, a costa torna-se selvagem: enseadas de areia e rocha encostadas ao pinhal, pouco frequentadas mesmo no verão. É o setor que os donos de cães conhecem como a zona mais permissiva da região para deixar o cão correr fora de época; acesso a pé por caminhos de areia, leve água e conte com pouca sombra.`,
+        },
+      },
+      {
+        name: `Cabo de Plata`,
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Depuis les dernières maisons d'Atlanterra, une promenade côtière contourne le promontoire du cap de Plata, entre villas, agaves et blocs de grès dorés. C'est la balade canine classique de Zahara : en laisse sur le sentier, vues superbes sur la baie et, par temps clair, sur le détroit ; méfiez-vous du bord rocheux par vent de Levante fort.`,
+          en: `From the last houses of Atlanterra, a coastal walk rounds the headland of Cabo de Plata, between villas, agaves and blocks of golden sandstone. This is Zahara's classic dog walk: on lead along the path, with superb views over the bay and, on clear days, towards the strait; keep clear of the rocky edge when the Levante blows hard.`,
+          es: `Desde las últimas casas de Atlanterra, un paseo costero rodea el promontorio del cabo de Plata, entre villas, pitas y bloques de arenisca dorada. Es el paseo canino clásico de Zahara: con correa por el sendero, vistas soberbias sobre la bahía y, los días claros, hacia el Estrecho; aléjese del borde rocoso con Levante fuerte.`,
+          pt: `A partir das últimas casas de Atlanterra, um passeio costeiro contorna o promontório do cabo de Plata, entre vivendas, agaves e blocos de arenito dourado. É o passeio canino clássico de Zahara: com trela pelo trilho, vistas soberbas sobre a baía e, nos dias limpos, para o Estreito; afaste-se da borda rochosa com Levante forte.`,
+        },
+      },
+      {
+        name: `Sierra de la Plata`,
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Derrière le village, les pentes de la Sierra de la Plata mêlent pinèdes, chaos de grès et points de vue spectaculaires sur la côte jusqu'à Trafalgar. Les sentiers se parcourent avec un chien en laisse, idéalement à la fraîche du matin ; c'est le repli parfait quand la plage est interdite ou que le Levante rend le sable irrespirable.`,
+          en: `Behind the village, the slopes of the Sierra de la Plata mix pine woods, sandstone boulders and spectacular viewpoints along the coast towards Trafalgar. The trails are walked with a leashed dog, ideally in the cool of the morning; it is the perfect fallback when the beach is off limits or the Levante makes the sand unbearable.`,
+          es: `Detrás del pueblo, las laderas de la Sierra de la Plata mezclan pinares, caos de areniscas y miradores espectaculares sobre la costa hacia Trafalgar. Los senderos se recorren con el perro atado, idealmente con el fresco de la mañana; es el plan de repuesto perfecto cuando la playa está vetada o el Levante hace la arena irrespirable.`,
+          pt: `Atrás da vila, as encostas da Sierra de la Plata misturam pinhais, caos de arenito e miradouros espetaculares sobre a costa até Trafalgar. Os trilhos percorrem-se com o cão pela trela, idealmente com o fresco da manhã; é o plano alternativo perfeito quando a praia está vedada ou o Levante torna a areia irrespirável.`,
+        },
+      },
+      {
+        name: `Río Cachón`,
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Le petit fleuve côtier qui sépare Zahara de la route de Barbate se longe par une promenade tranquille, entre barques de pêcheurs, roselières et passerelle menant à la plage. C'est la sortie canine facile du village, plate et à l'abri du vent, parfaite pour le soir quand les terrasses de la rue principale s'animent autour du thon d'almadraba.`,
+          en: `The little coastal river separating Zahara from the Barbate road is followed by a quiet promenade, past fishing boats, reed beds and the footbridge leading to the beach. It is the village's easy dog outing, flat and sheltered from the wind, perfect in the evening as the main street's terraces fill up around almadraba tuna.`,
+          es: `El pequeño río costero que separa Zahara de la carretera de Barbate se recorre por un paseo tranquilo, entre barcas de pescadores, cañaverales y la pasarela que lleva a la playa. Es la salida canina fácil del pueblo, llana y resguardada del viento, perfecta al atardecer cuando las terrazas de la calle principal se animan en torno al atún de almadraba.`,
+          pt: `O pequeno rio costeiro que separa Zahara da estrada de Barbate percorre-se por um passeio tranquilo, entre barcos de pescadores, caniçais e a passadeira que leva à praia. É a saída canina fácil da vila, plana e abrigada do vento, perfeita ao fim do dia quando as esplanadas da rua principal se animam em torno do atum de almadraba.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Plages : restrictions estivales pour les chiens sur la Playa de Zahara en haute saison ; visez le printemps et l'automne pour le grand arenal, et repliez-vous l'été sur le secteur du Camarinal au-delà d'Atlanterra, connu comme la zone la plus permissive du coin`,
+        `Le vent de Levante peut souffler fort plusieurs jours d'affilée : sable projeté irritant pour les yeux et les oreilles du chien, préférez alors la promenade du río Cachón ou les sentiers abrités de la Sierra de la Plata`,
+        `Chaleur andalouse de juin à septembre et sable brûlant l'après-midi : promenades à l'aube et après 20h, test du dos de la main sur le sable, eau toujours sur soi, ombre rare sur le littoral`,
+        `Prévention leishmaniose indispensable sur la côte andalouse (phlébotomes actifs du printemps à l'automne) : collier ou pipette répulsive, éviter les sorties au crépuscule près des zones humides du río Cachón`,
+        `En Espagne, laisse obligatoire en ville ; pour les races dites PPP (potentiellement dangereuses), muselière et laisse courte exigées dans l'espace public, licence à l'appui ; en août, le village est bondé, gardez le chien au calme aux heures de pointe`,
+      ],
+      en: [
+        `Beaches: summer restrictions apply to dogs on Playa de Zahara in high season; aim for spring and autumn on the great sand stretch, and in summer fall back on the Camarinal sector beyond Atlanterra, known as the most permissive zone around here`,
+        `The Levante wind can blow hard for days at a stretch: wind-driven sand irritates a dog's eyes and ears, so switch to the Rio Cachon promenade or the sheltered Sierra de la Plata trails when it picks up`,
+        `Andalusian heat from June to September and scorching afternoon sand: walk at dawn and after 8pm, do the back-of-hand test on the sand, always carry water, and expect little shade along the coast`,
+        `Leishmaniasis prevention is essential on the Andalusian coast (sandflies active from spring to autumn): repellent collar or spot-on, and avoid dusk outings near the damp ground of the Rio Cachon`,
+        `In Spain, leads are compulsory in town; for so-called PPP (potentially dangerous) breeds, a muzzle and short lead are required in public spaces, licence at hand; in August the village is packed, so keep your dog somewhere calm at peak hours`,
+      ],
+      es: [
+        `Playas: restricciones estivales para los perros en la playa de Zahara en temporada alta; apunte a primavera y otoño para el gran arenal, y recurra en verano al sector del Camarinal más allá de Atlanterra, conocido como la zona más permisiva de la comarca`,
+        `El viento de Levante puede soplar fuerte varios días seguidos: la arena en suspensión irrita ojos y oídos del perro, así que pase al paseo del río Cachón o a los senderos resguardados de la Sierra de la Plata`,
+        `Calor andaluz de junio a septiembre y arena abrasadora por la tarde: paseos al alba y después de las 20 h, prueba del dorso de la mano sobre la arena, agua siempre encima, poca sombra en el litoral`,
+        `Prevención de la leishmaniosis imprescindible en la costa andaluza (flebótomos activos de primavera a otoño): collar o pipeta repelente, y evite salidas al atardecer cerca de las zonas húmedas del río Cachón`,
+        `En España, correa obligatoria en el pueblo; para las razas PPP (potencialmente peligrosas), bozal y correa corta exigidos en el espacio público, con la licencia a mano; en agosto el pueblo se llena, mantenga al perro tranquilo en las horas punta`,
+      ],
+      pt: [
+        `Praias: restrições estivais para os cães na Playa de Zahara na época alta; aponte para a primavera e o outono no grande areal, e recorra no verão ao setor do Camarinal para lá de Atlanterra, conhecido como a zona mais permissiva da região`,
+        `O vento de Levante pode soprar forte vários dias seguidos: a areia projetada irrita os olhos e os ouvidos do cão, mude então para o passeio do rio Cachón ou para os trilhos abrigados da Sierra de la Plata`,
+        `Calor andaluz de junho a setembro e areia escaldante à tarde: passeios de madrugada e depois das 20h, teste das costas da mão na areia, água sempre à mão, pouca sombra no litoral`,
+        `Prevenção da leishmaniose indispensável na costa andaluza (flebótomos ativos da primavera ao outono): coleira ou pipeta repelente, e evite saídas ao entardecer perto das zonas húmidas do rio Cachón`,
+        `Em Espanha, trela obrigatória na vila; para as raças ditas PPP (potencialmente perigosas), açaime e trela curta exigidos no espaço público, com a licença à mão; em agosto a vila enche, mantenha o cão num sítio calmo nas horas de ponta`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence européen : 112, valable partout en Espagne pour police, pompiers et secours`,
+        `Cliniques vétérinaires pour les soins courants à Barbate et Tarifa, à 15 à 30 minutes de route ; pour les urgences de nuit, les hôpitaux vétérinaires 24h/24 les plus proches se trouvent autour d'Algésiras et de Cadix`,
+        `Rayons animaux dans les supermarchés du village en saison ; animaleries mieux fournies à Barbate et dans les zones commerciales de La Línea et d'Algésiras`,
+        `Aéroports les plus proches : Jerez (XRY) et Gibraltar à environ 1h15 de route, Séville et Malaga en alternative ; pas de gare à Zahara, bus interurbains Comes depuis Cadix et Barbate avec petits chiens en sac de transport selon les conditions du transporteur`,
+        `Passeport européen, puce électronique et vaccin antirabique à jour obligatoires ; l'Espagne est dans l'UE, aucune formalité supplémentaire depuis la France ou le Portugal`,
+      ],
+      en: [
+        `European emergency number: 112, valid throughout Spain for police, fire brigade and ambulance`,
+        `Veterinary clinics for routine care in Barbate and Tarifa, 15 to 30 minutes away by road; for night emergencies, the nearest 24-hour animal hospitals are around Algeciras and Cadiz`,
+        `Pet aisles in the village supermarkets in season; better-stocked pet shops in Barbate and in the retail parks of La Linea and Algeciras`,
+        `Nearest airports: Jerez (XRY) and Gibraltar about 1 hour 15 minutes away by road, with Seville and Malaga as alternatives; no train station in Zahara, and Comes intercity buses from Cadiz and Barbate take small dogs in carriers subject to the operator's conditions`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required; Spain is in the EU, with no extra formalities when arriving from France or Portugal`,
+      ],
+      es: [
+        `Número de emergencias europeo: 112, válido en toda España para policía, bomberos y sanitarios`,
+        `Clínicas veterinarias para los cuidados habituales en Barbate y Tarifa, a 15-30 minutos por carretera; para urgencias nocturnas, los hospitales veterinarios 24 h más cercanos están en torno a Algeciras y Cádiz`,
+        `Secciones de mascotas en los supermercados del pueblo en temporada; tiendas de animales mejor surtidas en Barbate y en las zonas comerciales de La Línea y Algeciras`,
+        `Aeropuertos más cercanos: Jerez (XRY) y Gibraltar a alrededor de 1 h 15 por carretera, con Sevilla y Málaga como alternativas; no hay estación de tren en Zahara, y los autobuses interurbanos Comes desde Cádiz y Barbate admiten perros pequeños en transportín según las condiciones del operador`,
+        `Pasaporte europeo para mascotas, microchip y vacuna antirrábica al día obligatorios; España está en la UE, sin trámites adicionales al llegar desde Francia o Portugal`,
+      ],
+      pt: [
+        `Número de emergência europeu: 112, válido em toda a Espanha para polícia, bombeiros e socorro`,
+        `Clínicas veterinárias para cuidados de rotina em Barbate e Tarifa, a 15-30 minutos de estrada; para urgências noturnas, os hospitais veterinários 24h mais próximos ficam na zona de Algeciras e de Cádis`,
+        `Secções de animais nos supermercados da vila na época alta; lojas de animais mais bem fornecidas em Barbate e nas zonas comerciais de La Línea e Algeciras`,
+        `Aeroportos mais próximos: Jerez (XRY) e Gibraltar a cerca de 1h15 de estrada, com Sevilha e Málaga em alternativa; não há estação de comboio em Zahara, e os autocarros interurbanos Comes desde Cádis e Barbate aceitam cães pequenos em transportadora segundo as condições do operador`,
+        `Passaporte europeu para animais, microchip e vacina antirrábica em dia obrigatórios; a Espanha está na UE, sem formalidades adicionais à chegada de França ou de Portugal`,
       ],
     },
   },

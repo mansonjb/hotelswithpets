@@ -17942,6 +17942,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  makarska: {
+    history: {
+      fr: `Coincée entre la mer et la paroi calcaire du massif du Biokovo, qui culmine à 1 762 m juste au-dessus des toits, Makarska est la capitale d'une riviera de 60 km de côte de galets plantée de pins. Comptoir maritime disputé entre Venise et l'Empire ottoman, la ville a gardé de la période vénitienne sa place Kačić et son front de mer baroque, avant de devenir dès les années 1930 l'une des premières stations balnéaires de Dalmatie. Aujourd'hui, c'est une base idéale avec un chien : la promenade Marineta court sous les palmiers, la presqu'île Sveti Petar offre une pinède ombragée au bord de l'eau, et des criques tolérantes aux chiens s'égrènent vers Tučepi. Quand la chaleur d'été écrase le littoral, la route du parc naturel du Biokovo grimpe en vingt minutes vers des sentiers plus frais, une soupape rare sur cette côte. Le ferry Jadrolinija relie en une heure l'île de Brač.`,
+      en: `Wedged between the sea and the limestone wall of the Biokovo massif, which tops out at 1,762 m directly above the rooftops, Makarska is the capital of a riviera of 60 km of pine-fringed pebble coast. A maritime outpost disputed between Venice and the Ottoman Empire, the town kept its Kačić square and baroque seafront from the Venetian period before becoming one of Dalmatia's first seaside resorts in the 1930s. Today it is an ideal base with a dog: the Marineta promenade runs beneath the palms, the Sveti Petar peninsula offers a shaded waterside pine wood, and dog-tolerant coves string out towards Tučepi. When the summer heat crushes the coast, the road into Biokovo Nature Park climbs in twenty minutes to cooler trails, a rare relief valve on this shoreline. The Jadrolinija ferry crosses to the island of Brač in about an hour.`,
+      es: `Encajada entre el mar y la pared caliza del macizo de Biokovo, que culmina a 1.762 m justo sobre los tejados, Makarska es la capital de una riviera de 60 km de costa de guijarros bordeada de pinos. Enclave marítimo disputado entre Venecia y el Imperio otomano, la ciudad conservó de la época veneciana su plaza Kačić y su paseo marítimo barroco, antes de convertirse desde los años treinta en una de las primeras estaciones balnearias de Dalmacia. Hoy es una base ideal con perro: el paseo Marineta discurre bajo las palmeras, la península de Sveti Petar ofrece un pinar sombreado junto al agua, y las calas tolerantes con los perros se suceden hacia Tučepi. Cuando el calor estival aplasta el litoral, la carretera del parque natural de Biokovo sube en veinte minutos hacia senderos más frescos, una válvula de escape rara en esta costa. El ferry de Jadrolinija cruza a la isla de Brač en una hora.`,
+      pt: `Encaixada entre o mar e a parede calcária do maciço de Biokovo, que culmina a 1.762 m mesmo por cima dos telhados, Makarska é a capital de uma riviera de 60 km de costa de calhaus debruada de pinheiros. Entreposto marítimo disputado entre Veneza e o Império Otomano, a cidade guardou da época veneziana a sua praça Kačić e a sua frente de mar barroca, antes de se tornar, a partir dos anos trinta, uma das primeiras estâncias balneares da Dalmácia. Hoje é uma base ideal com um cão: o passeio Marineta corre sob as palmeiras, a península de Sveti Petar oferece um pinhal sombreado à beira de água, e enseadas tolerantes com os cães sucedem-se em direção a Tučepi. Quando o calor de verão esmaga o litoral, a estrada do parque natural de Biokovo sobe em vinte minutos até trilhos mais frescos, uma válvula de escape rara nesta costa. O ferry da Jadrolinija cruza para a ilha de Brač em cerca de uma hora.`,
+    },
+    sights: [
+      {
+        name: `Park prirode Biokovo`,
+        emoji: '🏔️',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc naturel du Biokovo domine Makarska de ses 1 762 m et son Skywalk vitré surplombe la riviera de plusieurs centaines de mètres. Les chiens en laisse sont admis sur les sentiers et la route panoramique se fait en voiture ; en été, l'altitude offre un répit bienvenu face à la fournaise du littoral.`,
+          en: `Biokovo Nature Park towers 1,762 m over Makarska, and its glass Skywalk juts out high above the riviera. Leashed dogs are allowed on the trails and the scenic road can be driven all the way up; in summer, the altitude brings welcome relief from the furnace on the coast.`,
+          es: `El parque natural de Biokovo domina Makarska desde sus 1.762 m y su Skywalk acristalado se asoma muy por encima de la riviera. Los perros con correa están admitidos en los senderos y la carretera panorámica se sube en coche; en verano, la altitud ofrece un respiro bienvenido frente al horno del litoral.`,
+          pt: `O parque natural de Biokovo domina Makarska dos seus 1.762 m e o seu Skywalk envidraçado debruça-se muito acima da riviera. Os cães com trela são admitidos nos trilhos e a estrada panorâmica sobe-se de carro; no verão, a altitude traz um alívio bem-vindo face ao forno do litoral.`,
+        },
+      },
+      {
+        name: `Marineta`,
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade Marineta longe le port et la baie sous une double rangée de palmiers, entre terrasses, glaciers et bancs face aux îles. C'est la balade canine du soir par excellence à Makarska, en laisse, quand la pierre a refroidi et que toute la ville sort marcher.`,
+          en: `The Marineta promenade runs along the harbour and the bay beneath a double row of palms, past terraces, ice-cream stands and benches facing the islands. It is Makarska's classic evening dog walk, on lead, once the stone has cooled and the whole town comes out to stroll.`,
+          es: `El paseo Marineta bordea el puerto y la bahía bajo una doble hilera de palmeras, entre terrazas, heladerías y bancos frente a las islas. Es el paseo canino vespertino por excelencia de Makarska, con correa, cuando la piedra se ha enfriado y toda la ciudad sale a caminar.`,
+          pt: `O passeio Marineta acompanha o porto e a baía sob uma dupla fila de palmeiras, entre esplanadas, gelatarias e bancos virados para as ilhas. É o passeio canino de fim de tarde por excelência em Makarska, com trela, quando a pedra já arrefeceu e a cidade inteira sai a caminhar.`,
+        },
+      },
+      {
+        name: `Poluotok Sveti Petar`,
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `La presqu'île Sveti Petar ferme le port avec sa pinède, son phare et sa petite chapelle, à cinq minutes de la Marineta. Le sentier en boucle, ombragé presque toute la journée, est le meilleur refuge de la ville pour promener un chien aux heures chaudes, avec vue sur le Biokovo et la baie.`,
+          en: `The Sveti Petar peninsula closes off the harbour with its pine wood, lighthouse and small chapel, five minutes from the Marineta. The loop path, shaded for most of the day, is the best spot in town for walking a dog in the hot hours, with views of Biokovo and the bay.`,
+          es: `La península de Sveti Petar cierra el puerto con su pinar, su faro y su pequeña capilla, a cinco minutos de la Marineta. El sendero circular, sombreado casi todo el día, es el mejor refugio de la ciudad para pasear al perro en las horas de calor, con vistas al Biokovo y a la bahía.`,
+          pt: `A península de Sveti Petar fecha o porto com o seu pinhal, o seu farol e a sua pequena capela, a cinco minutos da Marineta. O trilho em circuito, sombreado quase todo o dia, é o melhor refúgio da cidade para passear um cão nas horas de calor, com vista para o Biokovo e a baía.`,
+        },
+      },
+      {
+        name: `Plaža Nugal`,
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `À 40 minutes à pied vers Tučepi par le sentier côtier, la crique de Nugal aligne galets clairs et falaises sous la forêt. Hors du périmètre des plages surveillées, elle fait partie des sections où les chiens sont tolérés, surtout tôt le matin ; l'accès se mérite, prévoyez eau et chaussures fermées.`,
+          en: `A 40-minute walk towards Tučepi along the coastal path, Nugal cove lines up pale pebbles and cliffs beneath the forest. Outside the perimeter of the supervised beaches, it is one of the stretches where dogs are tolerated, especially early in the morning; the access takes some effort, so bring water and proper shoes.`,
+          es: `A 40 minutos a pie hacia Tučepi por el sendero costero, la cala de Nugal alinea guijarros claros y acantilados bajo el bosque. Fuera del perímetro de las playas vigiladas, es una de las secciones donde se toleran los perros, sobre todo a primera hora; el acceso exige esfuerzo, lleve agua y calzado cerrado.`,
+          pt: `A 40 minutos a pé em direção a Tučepi pelo trilho costeiro, a enseada de Nugal alinha calhaus claros e falésias sob a floresta. Fora do perímetro das praias vigiadas, é uma das secções onde os cães são tolerados, sobretudo de manhã cedo; o acesso exige esforço, leve água e calçado fechado.`,
+        },
+      },
+      {
+        name: `Svetište Vepric`,
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `À 2 km du centre, le sanctuaire de Vepric reproduit la grotte de Lourdes dans un vallon de pins et de cyprès au pied du Biokovo. Site de plein air paisible et ombragé, il se parcourt avec un chien en laisse discret hors des célébrations ; évitez les jours de grands pèlerinages.`,
+          en: `Two kilometres from the centre, the Vepric sanctuary recreates the Lourdes grotto in a valley of pines and cypresses at the foot of Biokovo. A peaceful, shaded open-air site, it can be visited with a discreet leashed dog outside services; avoid the major pilgrimage days.`,
+          es: `A 2 km del centro, el santuario de Vepric recrea la gruta de Lourdes en un vallecito de pinos y cipreses al pie del Biokovo. Recinto al aire libre tranquilo y sombreado, se recorre con un perro discreto con correa fuera de las celebraciones; evite los días de grandes peregrinaciones.`,
+          pt: `A 2 km do centro, o santuário de Vepric recria a gruta de Lourdes num pequeno vale de pinheiros e ciprestes no sopé do Biokovo. Recinto ao ar livre tranquilo e sombreado, percorre-se com um cão discreto pela trela fora das celebrações; evite os dias de grandes peregrinações.`,
+        },
+      },
+      {
+        name: `Gradska plaža Makarska`,
+        emoji: '🌊',
+        petFriendly: false,
+        desc: {
+          fr: `La grande plage urbaine déroule près de 2 km de galets fins entre la Marineta et les hôtels de la baie, avec le Biokovo en toile de fond. Les chiens y sont interdits en saison balnéaire ; rabattez-vous sur les criques vers Nugal et Tučepi ou revenez hors saison, quand elle se vide.`,
+          en: `The main town beach unrolls nearly 2 km of fine pebbles between the Marineta and the bay hotels, with Biokovo as a backdrop. Dogs are banned here during the bathing season; fall back on the coves towards Nugal and Tučepi, or come off-season when it empties out.`,
+          es: `La gran playa urbana despliega casi 2 km de guijarros finos entre la Marineta y los hoteles de la bahía, con el Biokovo de telón de fondo. Los perros están prohibidos en temporada de baño; opte por las calas hacia Nugal y Tučepi o vuelva fuera de temporada, cuando se vacía.`,
+          pt: `A grande praia urbana estende quase 2 km de calhaus finos entre a Marineta e os hotéis da baía, com o Biokovo como pano de fundo. Os cães estão proibidos na época balnear; prefira as enseadas em direção a Nugal e Tučepi ou volte fora de época, quando ela se esvazia.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Attention l'été : plus de 30 °C en juillet-août et galets brûlants pour les coussinets entre 11h et 18h ; test du dos de la main, promenades à l'aube et en soirée, eau toujours sur soi`,
+        `La loi croate interdit les chiens sur les plages de baignade non désignées du 15 mai au 15 septembre ; visez les criques hors périmètre surveillé vers Nugal et Tučepi, tôt le matin`,
+        `Coup de chaud sur la riviera ? Montez au parc du Biokovo : chiens admis en laisse sur les sentiers, dix degrés de moins en altitude, mais aucun point d'eau sur le karst, remplissez les gourdes avant`,
+        `Ferry Jadrolinija Makarska-Sumartin (Brač) : chiens acceptés sur le pont avec muselière et laisse, pas dans les salons intérieurs ; traversée d'environ une heure, évitez les départs de midi en été`,
+        `Laisse obligatoire en ville et sur la Marineta ; la promenade est très fréquentée en soirée l'été, préférez la boucle ombragée de Sveti Petar si votre chien est réactif à la foule`,
+      ],
+      en: [
+        `Summer warning: over 30C in July and August, with pebbles burning hot for paws between 11am and 6pm; do the back-of-hand test, walk at dawn and in the evening, and always carry water`,
+        `Croatian law bans dogs from undesignated bathing beaches from 15 May to 15 September; head for the coves outside the supervised perimeter towards Nugal and Tučepi, early in the morning`,
+        `Heat crushing the riviera? Drive up into Biokovo Nature Park: leashed dogs are allowed on the trails and the altitude is ten degrees cooler, but there is no water on the karst, so fill the bottles beforehand`,
+        `Jadrolinija ferry Makarska-Sumartin (Brač): dogs travel on deck with muzzle and lead, not in the indoor lounges; the crossing takes about an hour, avoid the midday departures in summer`,
+        `Leads are compulsory in town and on the Marineta; the promenade gets very busy on summer evenings, so choose the shaded Sveti Petar loop if your dog is reactive to crowds`,
+      ],
+      es: [
+        `Aviso estival: más de 30 °C en julio y agosto, con guijarros ardientes para las almohadillas entre las 11 y las 18 h; haga la prueba del dorso de la mano, pasee al alba y al anochecer y lleve siempre agua`,
+        `La ley croata prohíbe los perros en las playas de baño no designadas del 15 de mayo al 15 de septiembre; opte por las calas fuera del perímetro vigilado hacia Nugal y Tučepi, a primera hora`,
+        `¿Calor aplastante en la riviera? Suba al parque de Biokovo: perros admitidos con correa en los senderos y diez grados menos en altitud, pero no hay agua en el karst, llene las cantimploras antes`,
+        `Ferry de Jadrolinija Makarska-Sumartin (Brač): los perros viajan en cubierta con bozal y correa, no en los salones interiores; la travesía dura una hora, evite las salidas del mediodía en verano`,
+        `Correa obligatoria en la ciudad y en la Marineta; el paseo se llena mucho las tardes de verano, prefiera el circuito sombreado de Sveti Petar si su perro es reactivo a las multitudes`,
+      ],
+      pt: [
+        `Aviso de verão: mais de 30 °C em julho e agosto, com calhaus escaldantes para as almofadas das patas entre as 11h e as 18h; faça o teste das costas da mão, passeie de madrugada e ao anoitecer e leve sempre água`,
+        `A lei croata proíbe os cães nas praias de banho não designadas de 15 de maio a 15 de setembro; prefira as enseadas fora do perímetro vigiado em direção a Nugal e Tučepi, de manhã cedo`,
+        `Calor a esmagar a riviera? Suba ao parque de Biokovo: cães admitidos com trela nos trilhos e dez graus a menos em altitude, mas não há água no carso, encha os cantis antes`,
+        `Ferry da Jadrolinija Makarska-Sumartin (Brač): os cães viajam no convés com açaime e trela, não nos salões interiores; a travessia demora cerca de uma hora, evite as partidas do meio-dia no verão`,
+        `Trela obrigatória na cidade e na Marineta; o passeio enche muito nas noites de verão, prefira o circuito sombreado de Sveti Petar se o seu cão for reativo a multidões`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence européen : 112 ; en Croatie, police 192, pompiers 193, ambulance 194, à ne pas confondre avec un numéro vétérinaire`,
+        `Cabinets vétérinaires à Makarska pour les soins courants ; les hôpitaux vétérinaires 24h/24 les plus proches se trouvent à Split, à environ une heure par la route côtière`,
+        `Rayons animaux dans les supermarchés Tommy, Konzum et Studenac de la ville ; animaleries mieux fournies dans les zones commerciales de Split`,
+        `Ferry Jadrolinija Makarska-Sumartin (Brač) depuis le port principal, muselière et laisse obligatoires sur le pont ; bus côtiers de la riviera au cas par cas, petits chiens en sac de transport plus facilement admis`,
+        `Passeport européen, puce électronique et vaccin antirabique à jour obligatoires ; la Croatie est dans l'UE, aucune formalité supplémentaire depuis la France, l'Espagne ou le Portugal`,
+      ],
+      en: [
+        `European emergency number: 112; in Croatia, police 192, fire brigade 193, ambulance 194, not to be confused with a veterinary line`,
+        `Veterinary practices in Makarska for routine care; the nearest 24-hour animal hospitals are in Split, roughly an hour away along the coastal road`,
+        `Pet aisles in the town's Tommy, Konzum and Studenac supermarkets; better-stocked pet shops in the retail parks around Split`,
+        `Jadrolinija ferry Makarska-Sumartin (Brač) from the main harbour, muzzle and lead compulsory on deck; riviera coastal buses at the driver's discretion, small dogs in a carrier are accepted more easily`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required; Croatia is in the EU, with no extra formalities when arriving from France, Spain or Portugal`,
+      ],
+      es: [
+        `Número de emergencia europeo: 112; en Croacia, policía 192, bomberos 193, ambulancia 194, no confundir con un teléfono veterinario`,
+        `Consultas veterinarias en Makarska para cuidados corrientes; los hospitales veterinarios 24 horas más cercanos están en Split, a una hora por la carretera costera`,
+        `Secciones de mascotas en los supermercados Tommy, Konzum y Studenac de la ciudad; tiendas de animales mejor surtidas en los parques comerciales de Split`,
+        `Ferry de Jadrolinija Makarska-Sumartin (Brač) desde el puerto principal, bozal y correa obligatorios en cubierta; autobuses costeros de la riviera a criterio del conductor, los perros pequeños en transportín se aceptan con más facilidad`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios; Croacia está en la UE, sin formalidades adicionales desde España, Francia o Portugal`,
+      ],
+      pt: [
+        `Número de emergência europeu: 112; na Croácia, polícia 192, bombeiros 193, ambulância 194, não confundir com um número veterinário`,
+        `Consultórios veterinários em Makarska para cuidados correntes; os hospitais veterinários 24 horas mais próximos ficam em Split, a cerca de uma hora pela estrada costeira`,
+        `Secções pet nos supermercados Tommy, Konzum e Studenac da cidade; lojas de animais mais completas nos parques comerciais de Split`,
+        `Ferry da Jadrolinija Makarska-Sumartin (Brač) a partir do porto principal, açaime e trela obrigatórios no convés; autocarros costeiros da riviera ao critério do motorista, cães pequenos em transportadora são aceites mais facilmente`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; a Croácia está na UE, sem formalidades adicionais desde Portugal, Espanha ou França`,
+      ],
+    },
+  },
+
   malmo: {
     history: {
       en: `Malmö sits at the southwestern tip of Sweden, a 35-minute Øresundståg train ride from Copenhagen across the 16 km Øresund Bridge that opened in 2000 and changed the city's economic gravity overnight. Founded in the 13th century as a Hanseatic fishing port, then a Danish royal city until the 1658 Treaty of Roskilde transferred it to Sweden, Malmö went through a heavy industrial century building Kockums shipyards and the textile mills around Möllevången. The Kockums crane left for South Korea in 2002, replaced symbolically by Santiago Calatrava's 190 m Turning Torso completed in 2005 - the visible centrepiece of a 25-year regeneration that turned the old harbour into the sustainable Western Harbour district. Today Malmö is Sweden's third-largest city with 360,000 inhabitants, half of them under 35, one of Europe's youngest urban demographics. Dog culture is exceptionally well embedded: the city manages 61 enclosed dog parks, a dedicated year-round dog beach at Ribersborg, and free travel for pets across the entire Skånetrafiken network. The Swedish nationwide leash law (kopplingstvång) from 1 March to 20 August keeps wildlife protected; outside that window, dogs run free under voice control in forests and meadows across Skåne.`,
@@ -29879,6 +30016,143 @@ const cityContent: Record<string, CityContent> = {
         `A água da torneira é potável; fontes de água no Parco di Miramare, Piazza Unità e en todas as aree cani municipales, leva um bol plegable.`,
         `As osmize, quintas-bares de vinho do Karst, abrem poucas semanas ao ano; consulta o calendário osmize.com e leva dinheiro, a maioria não aceita cartão.`,
         `Lei italiana: passaporte europeu, chip ISO e vacina antirrábica em dia para todo cão que entre; açaime e trela de 1,5 m a levar em público, a multa por dejeções chega a 100-500 € em Trieste.`,
+      ],
+    },
+  },
+
+  trogir: {
+    history: {
+      fr: `Fondée au IIIᵉ siècle avant J.-C. par des colons grecs de Vis sous le nom de Tragurion, Trogir est une petite ville posée sur un îlot, reliée par un pont au continent et par un autre à l'île de Čiovo. Son noyau médiéval, inscrit à l'UNESCO, est considéré comme l'ensemble roman-gothique le mieux conservé d'Europe centrale : cathédrale Saint-Laurent au célèbre portail de Radovan, palais vénitiens, loggia et forteresse Kamerlengo dressée face à la mer. La ville se visite entièrement à pied, et très bien avec un chien : la Riva bordée de palmiers, les ruelles fraîches le matin et les remparts font une boucle idéale en laisse, tandis que les plages de Čiovo, de l'autre côté du pont, offrent des sections tolérantes aux chiens hors des zones de baignade principales. L'aéroport de Split est à 25 minutes, ce qui fait de Trogir une porte d'entrée très pratique sur la Dalmatie.`,
+      en: `Founded in the 3rd century BC by Greek colonists from Vis as Tragurion, Trogir is a small town set on an islet, linked by one bridge to the mainland and by another to the island of Čiovo. Its medieval core, a UNESCO World Heritage Site, is considered the best-preserved Romanesque-Gothic ensemble in central Europe: the Cathedral of St Lawrence with Radovan's famous portal, Venetian palaces, a loggia and the Kamerlengo fortress standing guard over the sea. The whole town is explored on foot, and very comfortably with a dog: the palm-lined Riva, the alleys that stay cool in the morning and the walls make an ideal on-lead loop, while the beaches of Čiovo, across the bridge, offer dog-tolerant stretches away from the main bathing zones. Split airport is 25 minutes away, making Trogir a remarkably convenient gateway to Dalmatia.`,
+      es: `Fundada en el siglo III a.C. por colonos griegos de Vis con el nombre de Tragurion, Trogir es una pequeña ciudad asentada sobre un islote, unida por un puente al continente y por otro a la isla de Čiovo. Su núcleo medieval, Patrimonio de la Humanidad de la UNESCO, está considerado el conjunto románico-gótico mejor conservado de Europa central: la catedral de San Lorenzo con el célebre portal de Radovan, palacios venecianos, una logia y la fortaleza de Kamerlengo alzada frente al mar. La ciudad se recorre entera a pie, y muy bien con perro: la Riva bordeada de palmeras, las callejuelas frescas por la mañana y las murallas forman un circuito ideal con correa, mientras que las playas de Čiovo, al otro lado del puente, ofrecen tramos tolerantes con los perros fuera de las zonas de baño principales. El aeropuerto de Split queda a 25 minutos, lo que convierte a Trogir en una puerta de entrada muy práctica a Dalmacia.`,
+      pt: `Fundada no século III a.C. por colonos gregos de Vis com o nome de Tragurion, Trogir é uma pequena cidade assente num ilhéu, ligada por uma ponte ao continente e por outra à ilha de Čiovo. O seu núcleo medieval, Património Mundial da UNESCO, é considerado o conjunto românico-gótico mais bem conservado da Europa central: a catedral de São Lourenço com o célebre portal de Radovan, palácios venezianos, uma lógia e a fortaleza de Kamerlengo erguida frente ao mar. A cidade percorre-se toda a pé, e muito bem com um cão: a Riva ladeada de palmeiras, as vielas frescas de manhã e as muralhas formam um circuito ideal com trela, enquanto as praias de Čiovo, do outro lado da ponte, oferecem troços tolerantes com os cães fora das zonas de banho principais. O aeroporto de Split fica a 25 minutos, o que faz de Trogir uma porta de entrada muito prática para a Dalmácia.`,
+    },
+    sights: [
+      {
+        name: `Katedrala svetog Lovre`,
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `La cathédrale Saint-Laurent, joyau de la vieille ville UNESCO, s'ouvre par le portail roman sculpté par Radovan en 1240, le plus beau de l'Adriatique. Les chiens n'entrent pas dans l'édifice ni dans le campanile, mais le portail et la place Ivana Pavla II se contemplent très bien en laisse tôt le matin.`,
+          en: `The Cathedral of St Lawrence, the jewel of the UNESCO old town, opens through the Romanesque portal carved by Radovan in 1240, the finest on the Adriatic. Dogs are not admitted inside the building or the bell tower, but the portal and Ivana Pavla II square are best admired on lead early in the morning.`,
+          es: `La catedral de San Lorenzo, joya del casco antiguo UNESCO, se abre por el portal románico esculpido por Radovan en 1240, el más bello del Adriático. Los perros no entran en el edificio ni en el campanario, pero el portal y la plaza Ivana Pavla II se contemplan muy bien con correa a primera hora.`,
+          pt: `A catedral de São Lourenço, joia da cidade velha UNESCO, abre-se pelo portal românico esculpido por Radovan em 1240, o mais belo do Adriático. Os cães não entram no edifício nem no campanário, mas o portal e a praça Ivana Pavla II contemplam-se muito bem com trela de manhã cedo.`,
+        },
+      },
+      {
+        name: `Tvrđava Kamerlengo`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `La forteresse Kamerlengo, élevée par Venise au XVᵉ siècle, verrouille la pointe ouest de l'îlot et offre depuis son chemin de ronde la plus belle vue sur les toits, le chenal et Čiovo. Site à ciel ouvert, elle admet généralement les chiens en laisse ; en été, la scène de plein air peut fermer l'accès en soirée.`,
+          en: `Kamerlengo fortress, raised by Venice in the 15th century, locks down the western tip of the islet and its wall-walk gives the finest view over the rooftops, the channel and Čiovo. An open-air site, it generally admits leashed dogs; in summer, the open-air stage can close access in the evening.`,
+          es: `La fortaleza de Kamerlengo, levantada por Venecia en el siglo XV, cierra la punta oeste del islote y su adarve ofrece la mejor vista sobre los tejados, el canal y Čiovo. Recinto al aire libre, suele admitir perros con correa; en verano, el escenario al aire libre puede cerrar el acceso por la tarde.`,
+          pt: `A fortaleza de Kamerlengo, erguida por Veneza no século XV, fecha a ponta oeste do ilhéu e o seu caminho de ronda oferece a mais bela vista sobre os telhados, o canal e Čiovo. Recinto ao ar livre, admite geralmente cães com trela; no verão, o palco ao ar livre pode encerrar o acesso ao fim do dia.`,
+        },
+      },
+      {
+        name: `Trogirska riva`,
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `La Riva de Trogir longe le chenal sous les palmiers, entre yachts, terrasses et façades vénitiennes, de la porte de la ville à la forteresse Kamerlengo. Large et plate, c'est la promenade canine évidente matin et soir ; beaucoup de cafés y sortent une gamelle d'eau sans qu'on la demande.`,
+          en: `Trogir's Riva runs along the channel beneath the palms, past yachts, terraces and Venetian facades, from the town gate to Kamerlengo fortress. Wide and flat, it is the obvious dog walk morning and evening; many cafés bring out a water bowl without being asked.`,
+          es: `La Riva de Trogir bordea el canal bajo las palmeras, entre yates, terrazas y fachadas venecianas, de la puerta de la ciudad a la fortaleza de Kamerlengo. Ancha y llana, es el paseo canino evidente por la mañana y por la tarde; muchos cafés sacan un cuenco de agua sin que se pida.`,
+          pt: `A Riva de Trogir acompanha o canal sob as palmeiras, entre iates, esplanadas e fachadas venezianas, da porta da cidade à fortaleza de Kamerlengo. Larga e plana, é o passeio canino evidente de manhã e ao fim do dia; muitos cafés trazem uma taça de água sem que se peça.`,
+        },
+      },
+      {
+        name: `Otok Čiovo`,
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `De l'autre côté du pont, l'île de Čiovo aligne pinèdes, criques et plages de galets bien moins fréquentées que l'îlot historique. Hors des zones de baignade principales, plusieurs sections tolèrent les chiens, notamment vers Okrug et Slatine ; allez-y tôt en été et emportez de l'ombre portative.`,
+          en: `Across the bridge, the island of Čiovo lines up pine woods, coves and pebble beaches far quieter than the historic islet. Away from the main bathing zones, several stretches tolerate dogs, notably towards Okrug and Slatine; go early in summer and bring portable shade.`,
+          es: `Al otro lado del puente, la isla de Čiovo alinea pinares, calas y playas de guijarros mucho menos concurridas que el islote histórico. Fuera de las zonas de baño principales, varios tramos toleran perros, sobre todo hacia Okrug y Slatine; vaya temprano en verano y lleve sombra portátil.`,
+          pt: `Do outro lado da ponte, a ilha de Čiovo alinha pinhais, enseadas e praias de calhaus bem menos frequentadas do que o ilhéu histórico. Fora das zonas de banho principais, vários troços toleram cães, sobretudo em direção a Okrug e Slatine; vá cedo no verão e leve sombra portátil.`,
+        },
+      },
+      {
+        name: `Trg Ivana Pavla II`,
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La place centrale réunit sur quelques mètres la cathédrale, la loggia médiévale, la tour de l'horloge et l'hôtel de ville : tout Trogir en un seul décor de pierre polie. Les chiens en laisse y flânent librement ; venez avant 9h en été, la place se remplit ensuite d'excursionnistes venus de Split.`,
+          en: `The central square gathers the cathedral, the medieval loggia, the clock tower and the town hall within a few metres: all of Trogir in a single polished-stone stage set. Leashed dogs wander freely here; come before 9am in summer, as the square then fills with day-trippers from Split.`,
+          es: `La plaza central reúne en unos metros la catedral, la logia medieval, la torre del reloj y el ayuntamiento: todo Trogir en un solo decorado de piedra pulida. Los perros con correa pasean libremente; venga antes de las 9 en verano, luego la plaza se llena de excursionistas llegados de Split.`,
+          pt: `A praça central reúne em poucos metros a catedral, a lógia medieval, a torre do relógio e a câmara municipal: toda a Trogir num único cenário de pedra polida. Os cães com trela passeiam livremente; venha antes das 9h no verão, depois a praça enche-se de excursionistas vindos de Split.`,
+        },
+      },
+      {
+        name: `Park Garagnin-Fanfogna`,
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Juste en face du pont du continent, ce jardin historique de la famille Garagnin, l'un des premiers jardins classiques de Dalmatie, mêle allées ombragées, agrumes et vestiges lapidaires. C'est le seul vrai coin de verdure à deux pas de la vieille ville, parfait pour une pause fraîche avec un chien en laisse.`,
+          en: `Right opposite the mainland bridge, this historic garden of the Garagnin family, one of Dalmatia's earliest classical gardens, mixes shaded paths, citrus trees and lapidary remains. It is the only real patch of greenery steps from the old town, perfect for a cool break with a leashed dog.`,
+          es: `Justo enfrente del puente del continente, este jardín histórico de la familia Garagnin, uno de los primeros jardines clásicos de Dalmacia, mezcla paseos sombreados, cítricos y restos lapidarios. Es el único rincón verde de verdad a dos pasos del casco antiguo, perfecto para una pausa fresca con el perro con correa.`,
+          pt: `Mesmo em frente à ponte do continente, este jardim histórico da família Garagnin, um dos primeiros jardins clássicos da Dalmácia, mistura alamedas sombreadas, citrinos e vestígios lapidares. É o único verdadeiro recanto verde a dois passos da cidade velha, perfeito para uma pausa fresca com um cão pela trela.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Attention l'été : plus de 30 °C en juillet-août et dalles de pierre polie brûlantes pour les coussinets entre 11h et 18h ; test du dos de la main, promenades à l'aube et en soirée, eau toujours sur soi`,
+        `La vieille ville se remplit d'excursionnistes de Split en milieu de journée l'été ; faites la boucle Riva-remparts-Kamerlengo avant 9h ou après 19h, votre chien vous remerciera`,
+        `La loi croate interdit les chiens sur les plages de baignade non désignées du 15 mai au 15 septembre ; traversez le pont vers Čiovo et visez les sections tolérées vers Okrug et Slatine, hors zones principales`,
+        `Laisse obligatoire dans l'espace public ; les ruelles médiévales sont étroites et la pierre polie glisse après la pluie, un harnais tient mieux qu'un collier dans la foule`,
+        `Excursions en bateau vers les îles et Split : muselière et laisse exigées sur le pont des ferries Jadrolinija, les petites navettes privées décident au cas par cas, demandez avant d'embarquer`,
+      ],
+      en: [
+        `Summer warning: over 30C in July and August, with polished flagstones burning hot for paws between 11am and 6pm; do the back-of-hand test, walk at dawn and in the evening, and always carry water`,
+        `The old town fills with day-trippers from Split in the middle of the day in summer; do the Riva-walls-Kamerlengo loop before 9am or after 7pm, your dog will thank you`,
+        `Croatian law bans dogs from undesignated bathing beaches from 15 May to 15 September; cross the bridge to Čiovo and aim for the tolerated stretches towards Okrug and Slatine, away from the main zones`,
+        `Leads are compulsory in public spaces; the medieval alleys are narrow and the polished stone gets slippery after rain, so a harness holds better than a collar in the crowds`,
+        `Boat trips to the islands and Split: muzzle and lead are required on deck on Jadrolinija ferries, while the small private shuttles decide case by case, so ask before boarding`,
+      ],
+      es: [
+        `Aviso estival: más de 30 °C en julio y agosto, con losas de piedra pulida ardientes para las almohadillas entre las 11 y las 18 h; haga la prueba del dorso de la mano, pasee al alba y al anochecer y lleve siempre agua`,
+        `El casco antiguo se llena de excursionistas de Split a mediodía en verano; haga el circuito Riva-murallas-Kamerlengo antes de las 9 o después de las 19, su perro se lo agradecerá`,
+        `La ley croata prohíbe los perros en las playas de baño no designadas del 15 de mayo al 15 de septiembre; cruce el puente hacia Čiovo y busque los tramos tolerados hacia Okrug y Slatine, fuera de las zonas principales`,
+        `Correa obligatoria en el espacio público; las callejuelas medievales son estrechas y la piedra pulida resbala tras la lluvia, un arnés sujeta mejor que un collar entre la multitud`,
+        `Excursiones en barco a las islas y a Split: bozal y correa exigidos en cubierta en los ferries de Jadrolinija, las pequeñas lanchas privadas deciden caso por caso, pregunte antes de embarcar`,
+      ],
+      pt: [
+        `Aviso de verão: mais de 30 °C em julho e agosto, com lajes de pedra polida escaldantes para as almofadas das patas entre as 11h e as 18h; faça o teste das costas da mão, passeie de madrugada e ao anoitecer e leve sempre água`,
+        `A cidade velha enche-se de excursionistas de Split a meio do dia no verão; faça o circuito Riva-muralhas-Kamerlengo antes das 9h ou depois das 19h, o seu cão agradece`,
+        `A lei croata proíbe os cães nas praias de banho não designadas de 15 de maio a 15 de setembro; atravesse a ponte para Čiovo e procure os troços tolerados em direção a Okrug e Slatine, fora das zonas principais`,
+        `Trela obrigatória no espaço público; as vielas medievais são estreitas e a pedra polida escorrega depois da chuva, um peitoral segura melhor do que uma coleira no meio da multidão`,
+        `Passeios de barco para as ilhas e para Split: açaime e trela exigidos no convés dos ferries da Jadrolinija, as pequenas lanchas privadas decidem caso a caso, pergunte antes de embarcar`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence européen : 112 ; en Croatie, police 192, pompiers 193, ambulance 194, à ne pas confondre avec un numéro vétérinaire`,
+        `Cabinets vétérinaires à Trogir et dans les environs immédiats pour les soins courants ; les hôpitaux vétérinaires 24h/24 les plus proches se trouvent à Split, à une demi-heure de route`,
+        `Rayons animaux dans les supermarchés Tommy, Konzum et Studenac de la ville et de Čiovo ; animaleries mieux fournies dans les zones commerciales de Split`,
+        `Aéroport de Split à 25 minutes en voiture ou en bus ; bus urbains et lignes côtières au cas par cas pour les chiens, petits chiens en sac de transport plus facilement admis, taxis locaux généralement conciliants si on prévient`,
+        `Passeport européen, puce électronique et vaccin antirabique à jour obligatoires ; la Croatie est dans l'UE, aucune formalité supplémentaire depuis la France, l'Espagne ou le Portugal`,
+      ],
+      en: [
+        `European emergency number: 112; in Croatia, police 192, fire brigade 193, ambulance 194, not to be confused with a veterinary line`,
+        `Veterinary practices in Trogir and its immediate surroundings for routine care; the nearest 24-hour animal hospitals are in Split, half an hour away by road`,
+        `Pet aisles in the town's and Čiovo's Tommy, Konzum and Studenac supermarkets; better-stocked pet shops in the retail parks around Split`,
+        `Split airport is 25 minutes away by car or bus; town buses and coastal lines take dogs at the driver's discretion, small dogs in a carrier are accepted more easily, and local taxis are generally accommodating if you call ahead`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required; Croatia is in the EU, with no extra formalities when arriving from France, Spain or Portugal`,
+      ],
+      es: [
+        `Número de emergencia europeo: 112; en Croacia, policía 192, bomberos 193, ambulancia 194, no confundir con un teléfono veterinario`,
+        `Consultas veterinarias en Trogir y sus alrededores inmediatos para cuidados corrientes; los hospitales veterinarios 24 horas más cercanos están en Split, a media hora por carretera`,
+        `Secciones de mascotas en los supermercados Tommy, Konzum y Studenac de la ciudad y de Čiovo; tiendas de animales mejor surtidas en los parques comerciales de Split`,
+        `El aeropuerto de Split queda a 25 minutos en coche o autobús; autobuses urbanos y líneas costeras a criterio del conductor, los perros pequeños en transportín se aceptan con más facilidad, y los taxis locales suelen ser flexibles si se avisa`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios; Croacia está en la UE, sin formalidades adicionales desde España, Francia o Portugal`,
+      ],
+      pt: [
+        `Número de emergência europeu: 112; na Croácia, polícia 192, bombeiros 193, ambulância 194, não confundir com um número veterinário`,
+        `Consultórios veterinários em Trogir e nos arredores imediatos para cuidados correntes; os hospitais veterinários 24 horas mais próximos ficam em Split, a meia hora de estrada`,
+        `Secções pet nos supermercados Tommy, Konzum e Studenac da cidade e de Čiovo; lojas de animais mais completas nos parques comerciais de Split`,
+        `O aeroporto de Split fica a 25 minutos de carro ou autocarro; autocarros urbanos e linhas costeiras ao critério do motorista, cães pequenos em transportadora são aceites mais facilmente, e os táxis locais são geralmente flexíveis se avisar antes`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; a Croácia está na UE, sem formalidades adicionais desde Portugal, Espanha ou França`,
       ],
     },
   },

@@ -6558,6 +6558,80 @@
     "tiqetsId": "76595"
   },
   {
+    "slug": "colmar",
+    "name": "Colmar",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/colmar.jpg",
+    "intro": "The capital of the Alsace wine route, where flower-decked half-timbered lanes and the Petite Venise canals are explored entirely outdoors: leashed dogs join the Sweet Narcisse boat rides and the Petit Train Blanc, a fenced 780 m2 dog park sits by the Aqualia pool, and Eguisheim, Riquewihr and Kaysersberg are a short drive through the vines.",
+    "lat": 48.0794,
+    "lng": 7.3585,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold, grey, some snow",
+        "icon": "🌨️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold, brighter spells",
+        "icon": "☁️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool, early spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild, blossoming vines",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Warm, sunny days",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm, occasional storms",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Hot, festival season",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Hot, some thunderstorms",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild, harvest time",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool, golden vineyards",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cold, foggy mornings",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold, Christmas markets",
+        "icon": "🌨️"
+      }
+    }
+  },
+  {
     "slug": "cologne",
     "name": "Cologne",
     "country": "Germany",

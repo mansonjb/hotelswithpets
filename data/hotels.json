@@ -12041,6 +12041,201 @@
     "petPolicyPt": "Hotel Astória, Iconic Art Nouveau 3-star (1926) no Mondego riverside, 5 min do old town. Taxa animal 10 EUR/noite. Cães pequenos bem-vindos mediante pedido."
   },
   {
+    "id": "colmar-1",
+    "name": "Suites Residences Spa",
+    "destinationSlug": "colmar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 7.8,
+    "reviewCount": 1571,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/suites-residences-spa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at Suites Residences Spa on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Private parking",
+      "Fast free WiFi (66 Mbps)",
+      "Family rooms"
+    ],
+    "slug": "suites-residences-spa"
+  },
+  {
+    "id": "colmar-2",
+    "name": "L'Esquisse Hotel & Spa Colmar - MGallery Collection",
+    "destinationSlug": "colmar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1465,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/colmar-champ-de-mars.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at L'Esquisse Hotel & Spa MGallery on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Spa & wellness centre"
+    ],
+    "slug": "colmar-champ-de-mars"
+  },
+  {
+    "id": "colmar-3",
+    "name": "Relais & Châteaux La Maison Des Têtes",
+    "destinationSlug": "colmar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 529,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/la-maison-des-tetes.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at La Maison Des Tetes on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "la-maison-des-tetes"
+  },
+  {
+    "id": "colmar-4",
+    "name": "Subtil insolite",
+    "destinationSlug": "colmar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 55,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/subtil-insolite-colmar.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at Subtil insolite on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "subtil-insolite-colmar"
+  },
+  {
+    "id": "colmar-5",
+    "name": "SERENITY Colmar - Gîtes de Prestige 4 et 5 étoiles - 2, 4 et 6 personnes- Centre Historique",
+    "destinationSlug": "colmar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 122,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/serenity-colmar-colmar.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets welcome. Please contact hotel for details.",
+    "highlights": [
+      "Free WiFi",
+      "Pet-friendly",
+      "Central location"
+    ],
+    "slug": "serenity-colmar-colmar"
+  },
+  {
+    "id": "colmar-6",
+    "name": "MeandYou Hammametspa",
+    "destinationSlug": "colmar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 184,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/4-rue-de-thann.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at MeandYou Hammametspa on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Spa & wellness centre",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "4-rue-de-thann"
+  },
+  {
+    "id": "colmar-7",
+    "name": "Les Souvenirs d'Alsace",
+    "destinationSlug": "colmar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 292,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/les-souvenirs-d-alsace.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at Les Souvenirs d'Alsace on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Fast free WiFi (208 Mbps)",
+      "Non-smoking rooms"
+    ],
+    "slug": "les-souvenirs-d-alsace"
+  },
+  {
+    "id": "colmar-8",
+    "name": "Grand Hôtel Bristol By Stay Collection",
+    "destinationSlug": "colmar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8,
+    "reviewCount": 3122,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/grandhotelbristol.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at Grand Hotel Bristol on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Restaurant"
+    ],
+    "slug": "grandhotelbristol"
+  },
+  {
     "id": "cologne-1",
     "name": "Hotel Lyskirchen",
     "destinationSlug": "cologne",

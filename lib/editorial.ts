@@ -621,6 +621,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Plaça d'es Born and the Catedral de Menorca, the Naveta des Tudons UNESCO megalith, the south-west coves at Cala Macarella, Cala en Turqueta and Cala Galdana, and the Camí de Cavalls GR-223 starting from the Castell de Sant Nicolau lighthouse`,
       area: `the old town around the Plaça d'es Born and the cathedral, the Port de Ciutadella quays at Pla de Sant Joan, and the south-west coves between Cala Galdana and Cap d'Artrutx`,
     },
+    colmar: {
+      personality: `the capital of the Alsace wine route, a fairy-tale town of flower-decked half-timbered lanes and Petite Venise canals explored entirely outdoors, where dogs board the Sweet Narcisse flat-bottomed boats and the Petit Train Blanc, and Eguisheim, Riquewihr and Kaysersberg wait a short drive through the vines`,
+      highlight: `the Parc du Champ-de-Mars green lung, the fenced 780 m2 parc canin by the Aqualia pool, and the lakeside trails of Lac Blanc in the Vosges`,
+      area: `the Petite Venise canals, the old town around the Grand'Rue, and the Champ-de-Mars quarter near the station`,
+    },
     cologne: {
       personality: 'a pragmatic Rhineland city where dogs ride trains on a child ticket, drink water at pub troughs, and follow owners along the riverside',
       highlight: 'the Rhine riverbank path, Stadtwald forest park, and the off-leash meadow at Beethovenpark',
@@ -2354,6 +2359,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la Plaça d'es Born et la Catedral de Menorca, le mégalithe UNESCO de la Naveta des Tudons, les criques du sud-ouest à Cala Macarella, Cala en Turqueta et Cala Galdana, et le Camí de Cavalls GR-223 partant du phare du Castell de Sant Nicolau`,
       area: `la vieille ville autour de la Plaça d'es Born et de la cathédrale, les quais du Port de Ciutadella au Pla de Sant Joan, et les criques du sud-ouest entre Cala Galdana et Cap d'Artrutx`,
     },
+    colmar: {
+      personality: `la capitale de la route des vins d'Alsace, une ville de conte aux ruelles à colombages fleuries et aux canaux de la Petite Venise qui se visite entièrement en plein air, où les chiens montent dans les barques Sweet Narcisse et le Petit Train Blanc, avec Eguisheim, Riquewihr et Kaysersberg à quelques minutes à travers les vignes`,
+      highlight: `le poumon vert du parc du Champ-de-Mars, le parc canin clôturé de 780 m2 près de la piscine Aqualia, et les sentiers du Lac Blanc dans les Vosges`,
+      area: `les canaux de la Petite Venise, la vieille ville autour de la Grand'Rue, et le quartier du Champ-de-Mars près de la gare`,
+    },
     cologne: {
       personality: 'une ville rhénane pragmatique où les chiens prennent le train avec un billet enfant, boivent dans des abreuvoirs de pubs et suivent leurs maîtres le long du fleuve',
       highlight: 'la promenade du Rhin, le parc forestier du Stadtwald et la prairie sans laisse du Beethovenpark',
@@ -4086,6 +4096,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la Plaça d'es Born y la Catedral de Menorca, el megalito UNESCO de la Naveta des Tudons, las calas del suroeste en Cala Macarella, Cala en Turqueta y Cala Galdana, y el Camí de Cavalls GR-223 que sale del faro del Castell de Sant Nicolau`,
       area: `el casco antiguo en torno a la Plaça d'es Born y a la catedral, los muelles del Port de Ciutadella en el Pla de Sant Joan, y las calas del suroeste entre Cala Galdana y Cap d'Artrutx`,
     },
+    colmar: {
+      personality: `la capital de la ruta del vino de Alsacia, una ciudad de cuento con callejuelas de entramado de madera llenas de flores y los canales de la Petite Venise que se visita por completo al aire libre, donde los perros suben a las barcas Sweet Narcisse y al Petit Train Blanc, con Eguisheim, Riquewihr y Kaysersberg a pocos minutos entre viñedos`,
+      highlight: `el pulmón verde del Parc du Champ-de-Mars, el parque canino vallado de 780 m2 junto a la piscina Aqualia, y los senderos del Lac Blanc en los Vosgos`,
+      area: `los canales de la Petite Venise, el casco antiguo en torno a la Grand'Rue, y el barrio del Champ-de-Mars junto a la estación`,
+    },
     cologne: {
       personality: 'una ciudad renana pragmática donde los perros viajan en tren con billete infantil, beben en abrevaderos de pubs y acompañan a sus dueños por la ribera',
       highlight: 'el paseo del Rin, el parque forestal de Stadtwald y la pradera sin correa del Beethovenpark',
@@ -5817,6 +5832,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a antiga capital de Menorca na costa oeste selvagem da ilha, um centro histórico italianizante em pedra dourada à volta da Plaça d'es Born e da catedral gótica do século XIV, onde o Camí de Cavalls GR-223 de 185 km começa no farol do Castell de Sant Nicolau, o megálito UNESCO Talaiotic Naveta des Tudons fica a 4 km a leste, e as enseadas mais fotografadas de Menorca (Cala Macarella, Cala Macarelleta, Cala en Turqueta) voltam a admitir cães com trela de novembro a março`,
       highlight: `a Plaça d'es Born e a Catedral de Menorca, o megálito UNESCO da Naveta des Tudons, as enseadas do sudoeste em Cala Macarella, Cala en Turqueta e Cala Galdana, e o Camí de Cavalls GR-223 a partir do farol do Castell de Sant Nicolau`,
       area: `o centro histórico à volta da Plaça d'es Born e da catedral, os cais do Port de Ciutadella no Pla de Sant Joan, e as enseadas do sudoeste entre Cala Galdana e Cap d'Artrutx`,
+    },
+    colmar: {
+      personality: `a capital da rota dos vinhos da Alsácia, uma cidade de conto de fadas com vielas em enxaimel floridas e os canais da Petite Venise que se visita totalmente ao ar livre, onde os cães sobem aos barcos Sweet Narcisse e ao Petit Train Blanc, com Eguisheim, Riquewihr e Kaysersberg a poucos minutos por entre as vinhas`,
+      highlight: `o pulmão verde do Parc du Champ-de-Mars, o parque canino vedado de 780 m2 junto à piscina Aqualia, e os trilhos do Lac Blanc nos Vosges`,
+      area: `os canais da Petite Venise, o centro histórico em torno da Grand'Rue, e o bairro do Champ-de-Mars perto da estação`,
     },
     cologne: {
       personality: 'uma cidade renana pragmática onde os cães viajan de comboio com bilhete infantil, beben en abrevaderos de pubs e acompanhan aos seus duenhos pela ribera',

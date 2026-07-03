@@ -8288,6 +8288,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  colmar: {
+    history: {
+      fr: `Bourg impérial du Saint-Empire, Colmar s'enrichit dès le Moyen Âge grâce au vin d'Alsace, expédié par la Lauch depuis le quartier des maraîchers devenu la Petite Venise. Membre de la Décapole, ligue de dix villes libres, elle garde de cette prospérité un centre exceptionnel de maisons à colombages, de la Maison Pfister au Koïfhus. Ballottée entre France et Allemagne à chaque guerre, elle a forgé cette identité alsacienne unique, bilingue et fière de ses winstubs. Épargnée par les bombardements, sa vieille ville est aujourd'hui l'une des mieux conservées de France. Capitale de la route des vins, patrie de Bartholdi, le sculpteur de la statue de la Liberté, Colmar se visite presque entièrement à ciel ouvert : canaux, ruelles pavées et vignobles en font une destination naturellement agréable avec un chien.`,
+      en: `An imperial town of the Holy Roman Empire, Colmar grew rich from the Middle Ages on Alsace wine, shipped along the Lauch from the market gardeners' quarter that became Petite Venise. A member of the Decapole league of ten free cities, it keeps from that prosperity an exceptional core of half-timbered houses, from the Maison Pfister to the Koifhus. Tossed between France and Germany with every war, it forged that unique Alsatian identity, bilingual and proud of its winstubs. Spared by wartime bombing, its old town is today among the best preserved in France. Capital of the wine route and birthplace of Bartholdi, sculptor of the Statue of Liberty, Colmar is visited almost entirely in the open air: canals, cobbled lanes and vineyards make it a naturally pleasant destination with a dog.`,
+      es: `Ciudad imperial del Sacro Imperio, Colmar se enriqueció desde la Edad Media con el vino de Alsacia, embarcado por la Lauch desde el barrio de los hortelanos convertido en la Petite Venise. Miembro de la Decápolis, liga de diez ciudades libres, conserva de aquella prosperidad un centro excepcional de casas de entramado de madera, de la Maison Pfister al Koifhus. Zarandeada entre Francia y Alemania en cada guerra, forjó esa identidad alsaciana única, bilingüe y orgullosa de sus winstubs. A salvo de los bombardeos, su casco antiguo es hoy uno de los mejor conservados de Francia. Capital de la ruta del vino y cuna de Bartholdi, escultor de la estatua de la Libertad, Colmar se visita casi por completo al aire libre: canales, callejuelas adoquinadas y viñedos la hacen naturalmente agradable con un perro.`,
+      pt: `Cidade imperial do Sacro Império, Colmar enriqueceu desde a Idade Média com o vinho da Alsácia, embarcado pelo Lauch a partir do bairro dos hortelões que se tornou a Petite Venise. Membro da Decápole, liga de dez cidades livres, guarda dessa prosperidade um centro excecional de casas em enxaimel, da Maison Pfister ao Koifhus. Disputada entre a França e a Alemanha em cada guerra, forjou essa identidade alsaciana única, bilingue e orgulhosa das suas winstubs. Poupada pelos bombardeamentos, a sua cidade velha é hoje uma das mais bem preservadas de França. Capital da rota dos vinhos e terra natal de Bartholdi, escultor da Estátua da Liberdade, Colmar visita-se quase toda ao ar livre: canais, vielas calcetadas e vinhas fazem dela um destino naturalmente agradável com um cão.`,
+    },
+    sights: [
+      {
+        name: `Petite Venise`,
+        emoji: '🛶',
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier des anciens maraîchers, où les maisons à colombages fleuries se reflètent dans la Lauch, se parcourt entièrement à pied le long des quais. Les barques à fond plat Sweet Narcisse acceptent les chiens à bord pour la promenade commentée de 30 minutes au départ du pont Saint-Pierre.`,
+          en: `The old market gardeners' quarter, where flower-decked half-timbered houses reflect in the Lauch, is explored entirely on foot along the quays. The Sweet Narcisse flat-bottomed boats accept dogs on board for the 30-minute narrated ride from Pont Saint-Pierre.`,
+          es: `El barrio de los antiguos hortelanos, donde las casas de entramado floridas se reflejan en la Lauch, se recorre a pie por los muelles. Las barcas de fondo plano Sweet Narcisse aceptan perros a bordo en el paseo comentado de 30 minutos desde el Pont Saint-Pierre.`,
+          pt: `O bairro dos antigos hortelões, onde as casas em enxaimel floridas se refletem no Lauch, percorre-se todo a pé ao longo dos cais. Os barcos de fundo raso Sweet Narcisse aceitam cães a bordo no passeio comentado de 30 minutos a partir da Pont Saint-Pierre.`,
+        },
+      },
+      {
+        name: `Parc du Champ-de-Mars`,
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le poumon vert du centre-ville, un parc du XIXe siècle aux longues allées ombragées entre la gare et la vieille ville. Les chiens y sont admis en laisse, déjections à ramasser ; des sacs gratuits sont distribués en mairie.`,
+          en: `The city centre's green lung, a 19th-century park with long shaded alleys between the station and the old town. Dogs are welcome on a leash, waste must be picked up; free bags are handed out at the town hall.`,
+          es: `El pulmón verde del centro, un parque del siglo XIX con largos paseos sombreados entre la estación y el casco antiguo. Los perros se admiten con correa y hay que recoger los excrementos; en el ayuntamiento reparten bolsas gratis.`,
+          pt: `O pulmão verde do centro, um parque do século XIX com longas alamedas sombreadas entre a estação e a cidade velha. Os cães são admitidos com trela e os dejetos devem ser apanhados; a câmara distribui sacos grátis.`,
+        },
+      },
+      {
+        name: `Maison Pfister`,
+        emoji: '🏠',
+        petFriendly: true,
+        desc: {
+          fr: `Chef-d'oeuvre de 1537 orné de fresques et d'un oriel à deux étages, c'est la maison la plus célèbre de Colmar. Elle s'admire depuis la rue des Marchands, donc parfaitement en laisse, au fil d'un itinéraire qui enchaîne Koïfhus et collégiale.`,
+          en: `A 1537 masterpiece adorned with frescoes and a two-storey oriel window, it is Colmar's most famous house. It is admired from Rue des Marchands, so perfectly doable on a leash, along a route that strings together the Koifhus and the collegiate church.`,
+          es: `Obra maestra de 1537 decorada con frescos y un mirador de dos pisos, es la casa más famosa de Colmar. Se admira desde la Rue des Marchands, así que perfectamente con correa, en un itinerario que encadena el Koifhus y la colegiata.`,
+          pt: `Obra-prima de 1537 decorada com frescos e um oriel de dois andares, é a casa mais famosa de Colmar. Admira-se a partir da Rue des Marchands, portanto perfeitamente com trela, num percurso que liga o Koifhus e a colegiada.`,
+        },
+      },
+      {
+        name: `Musée Unterlinden`,
+        emoji: '🖼️',
+        petFriendly: false,
+        desc: {
+          fr: `L'ancien couvent des Dominicaines abrite le retable d'Issenheim, l'un des sommets de la peinture européenne. Seuls les chiens guides et d'assistance sont admis : prévoyez un pet-sitter ou visitez à tour de rôle pendant que votre chien se repose.`,
+          en: `The former Dominican convent houses the Isenheim Altarpiece, one of the summits of European painting. Only guide and assistance dogs are admitted: plan a pet sitter or take turns visiting while your dog rests.`,
+          es: `El antiguo convento dominico alberga el retablo de Isenheim, una de las cumbres de la pintura europea. Solo se admiten perros guía y de asistencia: prevé un cuidador o visitadlo por turnos mientras tu perro descansa.`,
+          pt: `O antigo convento dominicano alberga o retábulo de Issenheim, um dos cumes da pintura europeia. Só são admitidos cães-guia e de assistência: preveja um pet sitter ou visitem à vez enquanto o cão descansa.`,
+        },
+      },
+      {
+        name: `Collégiale Saint-Martin`,
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `La grande église gothique de grès jaune domine la place de la Cathédrale et ses terrasses de cafés. L'intérieur n'admet pas les animaux, mais le tour extérieur du chevet et la place animée valent à eux seuls la halte en laisse.`,
+          en: `The great Gothic church of yellow sandstone dominates Place de la Cathedrale and its cafe terraces. The interior does not admit pets, but the walk around the chevet and the lively square are worth the leashed stop on their own.`,
+          es: `La gran iglesia gótica de arenisca amarilla domina la Place de la Cathedrale y sus terrazas. El interior no admite animales, pero la vuelta exterior al ábside y la plaza animada justifican por sí solas la parada con correa.`,
+          pt: `A grande igreja gótica de arenito amarelo domina a Place de la Cathedrale e as suas esplanadas. O interior não admite animais, mas a volta exterior à cabeceira e a praça animada justificam por si sós a paragem com trela.`,
+        },
+      },
+      {
+        name: `Route des Vins d'Alsace`,
+        emoji: '🍇',
+        petFriendly: true,
+        desc: {
+          fr: `Eguisheim, Riquewihr et Kaysersberg sont à moins de 15 km, reliés par des sentiers viticoles à travers les vignes. Villages pavés et ruelles en plein air se visitent facilement en laisse, et de nombreux caveaux acceptent les chiens calmes si vous demandez avant d'entrer.`,
+          en: `Eguisheim, Riquewihr and Kaysersberg lie within 15 km, linked by wine-growers' paths through the vines. The cobbled, open-air villages are easy to visit on a leash, and many tasting cellars accept calm dogs if you ask before entering.`,
+          es: `Eguisheim, Riquewihr y Kaysersberg están a menos de 15 km, unidos por senderos vitícolas entre las viñas. Los pueblos adoquinados y al aire libre se visitan fácilmente con correa, y muchas bodegas aceptan perros tranquilos si preguntas antes de entrar.`,
+          pt: `Eguisheim, Riquewihr e Kaysersberg ficam a menos de 15 km, ligados por caminhos vitícolas entre as vinhas. As aldeias calcetadas e ao ar livre visitam-se facilmente com trela, e muitas adegas aceitam cães calmos se perguntar antes de entrar.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Laisse obligatoire partout en ville et dans les parcs ; le seul espace de liberté est le parc canin clôturé de 780 m2 du 7 rue du Pigeon, près de la piscine Aqualia, avec agrès et point d'eau.`,
+        `Les bus TRACE n'acceptent que les petits animaux en panier ou sac fermé (chiens d'assistance exceptés) : logez à distance de marche de la vieille ville ou prévoyez la voiture.`,
+        `L'office de tourisme anime le programme Toutourisme pour les visiteurs avec chien : conseils, adresses et sacs à déjections gratuits, également distribués en mairie.`,
+        `En juillet, pendant le Festival de Colmar, et en plein été, pavés brûlants et foule dense : sortez votre chien tôt le matin ou tard le soir et testez le pavé avec la main avant de partir.`,
+        `Pour une urgence vétérinaire, la Clinique de l'Orangerie (03 89 41 82 78) participe à une astreinte 24h/24 sur Colmar, et le 3115 vous oriente gratuitement vers le vétérinaire de garde partout en France.`,
+      ],
+      en: [
+        `Leashes are compulsory everywhere in town and in the parks; the only off-leash space is the fenced 780 m2 dog park at 7 Rue du Pigeon, near the Aqualia pool, with agility gear and a water point.`,
+        `TRACE buses only accept small pets in a closed basket or bag (assistance dogs excepted): stay within walking distance of the old town or plan to drive.`,
+        `The tourist office runs the Toutourisme programme for visitors with dogs: advice, addresses and free waste bags, also handed out at the town hall.`,
+        `In July during the Festival de Colmar, and at the height of summer, cobbles burn and lanes get packed: walk your dog early morning or late evening and test the stone with your hand before setting out.`,
+        `For a veterinary emergency, the Clinique de l'Orangerie (+33 3 89 41 82 78) takes part in a 24/7 on-call rota for Colmar, and dialling 3115 routes you free of charge to the on-duty vet anywhere in France.`,
+      ],
+      es: [
+        `La correa es obligatoria en toda la ciudad y en los parques; el único espacio sin correa es el parque canino vallado de 780 m2 del 7 Rue du Pigeon, junto a la piscina Aqualia, con juegos de agility y punto de agua.`,
+        `Los buses TRACE solo aceptan mascotas pequeñas en cesta o bolso cerrado (salvo perros de asistencia): alójate a poca distancia a pie del casco antiguo o cuenta con el coche.`,
+        `La oficina de turismo tiene el programa Toutourisme para visitantes con perro: consejos, direcciones y bolsas gratuitas, que también reparten en el ayuntamiento.`,
+        `En julio, durante el Festival de Colmar, y en pleno verano, los adoquines queman y las callejuelas se llenan: pasea al perro a primera hora o al anochecer y comprueba la piedra con la mano antes de salir.`,
+        `Ante una urgencia veterinaria, la Clinique de l'Orangerie (+33 3 89 41 82 78) participa en una guardia 24/7 en Colmar, y el 3115 te dirige gratis al veterinario de guardia en toda Francia.`,
+      ],
+      pt: [
+        `A trela é obrigatória em toda a cidade e nos parques; o único espaço sem trela é o parque canino vedado de 780 m2 no 7 Rue du Pigeon, junto à piscina Aqualia, com equipamentos de agility e ponto de água.`,
+        `Os autocarros TRACE só aceitam animais pequenos em cesto ou mala fechada (exceto cães de assistência): fique a curta distância a pé do centro histórico ou conte com o carro.`,
+        `O posto de turismo tem o programa Toutourisme para visitantes com cão: conselhos, moradas e sacos gratuitos, também distribuídos na câmara municipal.`,
+        `Em julho, durante o Festival de Colmar, e no pico do verão, a calçada queima e as vielas enchem: passeie o cão de manhã cedo ou ao fim do dia e teste a pedra com a mão antes de sair.`,
+        `Numa urgência veterinária, a Clinique de l'Orangerie (+33 3 89 41 82 78) participa numa escala 24/7 em Colmar, e o 3115 encaminha-o gratuitamente para o veterinário de serviço em toda a França.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaires : Clinique de l'Orangerie, 69 route de Neuf-Brisach (03 89 41 82 78) et Clinique des Maraîchers, 8 rue des Jonquilles (03 89 41 70 60), toutes deux dans un réseau de garde 24h/24 ; urgences nationales au 3115.`,
+        `Trains TER Fluo Grand Est : moins de 6 kg en sac fermé avec billet animal gratuit ou symbolique ; au-delà, tarif animal plafonné à quelques euros, laisse et muselière exigées à bord. Strasbourg est à 30 minutes.`,
+        `Bus TRACE : uniquement petits animaux en contenant fermé, gratuits ; chiens moyens et grands refusés, sauf chiens guides et d'assistance.`,
+        `Baignade : la base de Colmar-Houssen interdit les animaux ; direction le Lac Blanc à Orbey (30 min) pour des sentiers en laisse au bord de l'eau, baignade humaine interdite sur ce lac.`,
+        `Marchés de Noël (fin novembre à fin décembre) : rues très denses et sols froids ; privilégiez les créneaux du matin en semaine avec un chien et les terrasses chauffées des winstubs.`,
+      ],
+      en: [
+        `Vets: Clinique de l'Orangerie, 69 Route de Neuf-Brisach (+33 3 89 41 82 78) and Clinique des Maraichers, 8 Rue des Jonquilles (+33 3 89 41 70 60), both in a 24/7 on-call network; national emergency line 3115.`,
+        `TER Fluo Grand Est trains: under 6 kg in a closed bag with a free or symbolic animal ticket; above that, an animal fare capped at a few euros, leash and muzzle required on board. Strasbourg is 30 minutes away.`,
+        `TRACE buses: small pets in a closed carrier only, free; medium and large dogs refused, except guide and assistance dogs.`,
+        `Swimming: the Colmar-Houssen leisure lake bans animals; head to Lac Blanc above Orbey (30 min) for leashed lakeside trails, human swimming banned on that lake.`,
+        `Christmas markets (late November to late December): very dense streets and cold ground; favour weekday morning slots with a dog and the heated winstub terraces.`,
+      ],
+      es: [
+        `Veterinarios: Clinique de l'Orangerie, 69 Route de Neuf-Brisach (+33 3 89 41 82 78) y Clinique des Maraichers, 8 Rue des Jonquilles (+33 3 89 41 70 60), ambas en una red de guardia 24/7; urgencias nacionales en el 3115.`,
+        `Trenes TER Fluo Grand Est: menos de 6 kg en bolso cerrado con billete animal gratuito o simbólico; por encima, tarifa animal limitada a unos euros, correa y bozal obligatorios a bordo. Estrasburgo está a 30 minutos.`,
+        `Buses TRACE: solo mascotas pequeñas en transportín cerrado, gratis; perros medianos y grandes rechazados, salvo perros guía y de asistencia.`,
+        `Baño: el lago recreativo de Colmar-Houssen prohíbe los animales; ve al Lac Blanc sobre Orbey (30 min) para senderos con correa junto al agua, baño humano prohibido en ese lago.`,
+        `Mercados de Navidad (finales de noviembre a finales de diciembre): calles muy llenas y suelo frío; prefiere las mañanas entre semana con perro y las terrazas caldeadas de las winstubs.`,
+      ],
+      pt: [
+        `Veterinários: Clinique de l'Orangerie, 69 Route de Neuf-Brisach (+33 3 89 41 82 78) e Clinique des Maraichers, 8 Rue des Jonquilles (+33 3 89 41 70 60), ambas numa rede de urgência 24/7; urgências nacionais pelo 3115.`,
+        `Comboios TER Fluo Grand Est: menos de 6 kg em mala fechada com bilhete animal gratuito ou simbólico; acima disso, tarifa animal limitada a poucos euros, trela e açaime obrigatórios a bordo. Estrasburgo fica a 30 minutos.`,
+        `Autocarros TRACE: só animais pequenos em transportadora fechada, grátis; cães médios e grandes recusados, exceto cães-guia e de assistência.`,
+        `Banhos: o lago recreativo de Colmar-Houssen proíbe animais; vá ao Lac Blanc acima de Orbey (30 min) para trilhos com trela à beira de água, banho humano proibido nesse lago.`,
+        `Mercados de Natal (final de novembro a final de dezembro): ruas muito cheias e chão frio; prefira as manhãs de dias úteis com cão e as esplanadas aquecidas das winstubs.`,
+      ],
+    },
+  },
+
   como: {
     history: {
       en: `Como, an Italian provincial capital of around 84,000 at the southern tip of Lake Como, has been a luxury lakeside destination since the 18th century when the European nobility built villas along its shores. The city's compact medieval centre, ringed by Roman and 12th-century walls, sits between the mirror-glass lake and the wooded ridge of Brunate rising to 715 m. Como built its wealth on silk weaving (still its main industry) and now on tourism: 4 million visitors a year, of which a growing share arrive with dogs. Lake culture is unusually pet-tolerant for an Italian luxury destination - the Navigazione Laghi ferry network accepts dogs on every vessel, the 1894 funicular to Brunate has a clear pet policy, and a string of grand villa gardens (Olmo, Balbianello, Carlotta) open their grounds to leashed pets even when their interiors do not. The 50-km drive south to Milan and its 24/7 university veterinary referral makes Como a practical pet destination too.`,

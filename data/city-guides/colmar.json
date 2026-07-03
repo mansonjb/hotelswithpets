@@ -1,0 +1,561 @@
+{
+  "slug": "colmar",
+  "name": "Colmar",
+  "country": "France",
+  "flag": "🇫🇷",
+  "lastUpdated": "2026-07-03",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Colmar",
+      "titleFr": "Restaurants dog-friendly à Colmar",
+      "titleEs": "Restaurantes dog-friendly en Colmar",
+      "titlePt": "Restaurantes dog-friendly em Colmar",
+      "introEn": "Colmar's old town is packed with winstubs and canal-side terraces, and many of them welcome well-behaved dogs, especially outdoors. The tourist office even runs a Toutourisme programme for visitors with dogs, so a water bowl is rarely far away.",
+      "introFr": "La vieille ville de Colmar regorge de winstubs et de terrasses au bord des canaux, et beaucoup accueillent les chiens bien éduqués, surtout en extérieur. L'office de tourisme anime même un programme Toutourisme pour les visiteurs avec chien.",
+      "introEs": "El casco antiguo de Colmar está lleno de winstubs y terrazas junto a los canales, y muchas aceptan perros tranquilos, sobre todo en el exterior. La oficina de turismo tiene incluso un programa Toutourisme para visitantes con perro.",
+      "introPt": "O centro histórico de Colmar está cheio de winstubs e esplanadas junto aos canais, e muitas recebem cães bem-comportados, sobretudo no exterior. O posto de turismo tem mesmo um programa Toutourisme para visitantes com cão.",
+      "places": [
+        {
+          "name": "Café de la Lauch",
+          "address": "7 Rue de la Poissonnerie, 68000 Colmar",
+          "neighborhood": "Petite Venise",
+          "photo": "/images/city-places/colmar-restaurants-cafe-de-la-lauch.jpg",
+          "website": "https://www.facebook.com/cafedelalauch/",
+          "description": "A half-timbered cafe and tearoom in the heart of Petite Venise, with a rear terrace directly over the Lauch canal where the flat-bottomed boats glide past. Dogs are accepted, and the canal-side setting makes it the classic Colmar coffee stop with a pet.",
+          "descriptionFr": "Un café-salon de thé à colombages au coeur de la Petite Venise, avec une terrasse arrière donnant sur la Lauch où passent les barques à fond plat. Les chiens sont acceptés, et le cadre au bord du canal en fait la pause café classique de Colmar avec un animal.",
+          "descriptionEs": "Un café y salón de té con entramado de madera en plena Petite Venise, con una terraza trasera sobre el canal de la Lauch por donde pasan las barcas. Se aceptan perros, y el entorno junto al canal lo convierte en la parada clásica de Colmar con mascota.",
+          "descriptionPt": "Um café e salão de chá em enxaimel no coração da Petite Venise, com uma esplanada traseira sobre o canal da Lauch por onde deslizam os barcos de fundo raso. Os cães são aceites, e o cenário junto ao canal faz dele a paragem clássica de Colmar com animal.",
+          "petPolicy": "Dogs welcome, indoors and on the terrace",
+          "petPolicyFr": "Chiens bienvenus, en salle et en terrasse",
+          "petPolicyEs": "Perros bienvenidos, dentro y en la terraza",
+          "petPolicyPt": "Cães bem-vindos, no interior e na esplanada",
+          "priceRange": "€",
+          "mustTry": "Kougelhopf with a cafe creme on the canal terrace",
+          "mustTryFr": "Kougelhopf avec un café crème sur la terrasse du canal",
+          "mustTryEs": "Kougelhopf con un café con leche en la terraza del canal",
+          "mustTryPt": "Kougelhopf com um café com leite na esplanada do canal",
+          "openingHours": "Daily from morning to early evening; hours vary seasonally",
+          "tip": "The canal terrace fills fast in summer; come before 11am for a quiet table with your dog.",
+          "tipFr": "La terrasse sur le canal se remplit vite en été ; venez avant 11h pour une table tranquille avec votre chien.",
+          "tipEs": "La terraza del canal se llena rápido en verano; ven antes de las 11h para una mesa tranquila con tu perro.",
+          "tipPt": "A esplanada do canal enche depressa no verão; venha antes das 11h para uma mesa tranquila com o seu cão.",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+de+la+Lauch+Colmar"
+        },
+        {
+          "name": "Le Fer Rouge",
+          "address": "52 Grand'Rue, 68000 Colmar",
+          "neighborhood": "Old Town",
+          "photo": "/images/city-places/colmar-restaurants-le-fer-rouge.jpg",
+          "website": "https://www.visit.alsace/en/235014449-le-fer-rouge/",
+          "description": "A traditional Alsatian restaurant in a historic half-timbered building on the Grand'Rue, serving home-made regional classics with a terrace on the pedestrian street. The house explicitly welcomes children and animals, making it an easy dinner choice with a dog.",
+          "descriptionFr": "Un restaurant alsacien traditionnel dans une maison à colombages historique de la Grand'Rue, avec des classiques régionaux faits maison et une terrasse sur la rue piétonne. La maison accueille explicitement enfants et animaux, un choix facile pour dîner avec un chien.",
+          "descriptionEs": "Un restaurante alsaciano tradicional en una casa histórica de entramado de madera en la Grand'Rue, con clásicos regionales caseros y terraza en la calle peatonal. La casa acoge explícitamente a niños y animales, una opción fácil para cenar con perro.",
+          "descriptionPt": "Um restaurante alsaciano tradicional numa casa histórica em enxaimel na Grand'Rue, com clássicos regionais caseiros e esplanada na rua pedonal. A casa recebe explicitamente crianças e animais, uma escolha fácil para jantar com cão.",
+          "petPolicy": "Dogs welcome; terrace and ground-floor brasserie are the easiest spots",
+          "petPolicyFr": "Chiens bienvenus ; la terrasse et la brasserie du rez-de-chaussée sont les plus pratiques",
+          "petPolicyEs": "Perros bienvenidos; la terraza y la brasserie de la planta baja son lo más práctico",
+          "petPolicyPt": "Cães bem-vindos; a esplanada e a brasserie do rés-do-chão são o mais prático",
+          "priceRange": "€€",
+          "mustTry": "Choucroute garnie and a glass of Riesling",
+          "mustTryFr": "Choucroute garnie et un verre de Riesling",
+          "mustTryEs": "Choucroute garnie y una copa de Riesling",
+          "mustTryPt": "Choucroute garnie e um copo de Riesling",
+          "openingHours": "Daily 11:30-13:45 and 18:30-21:30",
+          "tip": "Ask for a corner table inside in winter; the dining rooms are small and staff will seat calm dogs away from the aisle.",
+          "tipFr": "Demandez une table d'angle en salle l'hiver ; les salles sont petites et le personnel place les chiens calmes à l'écart du passage.",
+          "tipEs": "Pide una mesa de esquina dentro en invierno; las salas son pequeñas y el personal sitúa a los perros tranquilos lejos del paso.",
+          "tipPt": "Peça uma mesa de canto no interior no inverno; as salas são pequenas e o pessoal coloca os cães calmos longe da passagem.",
+          "googleMapsUrl": "https://maps.google.com/?q=Le+Fer+Rouge+52+Grand+Rue+Colmar"
+        },
+        {
+          "name": "À la Cigogne",
+          "address": "156 Rue du Ladhof, 68000 Colmar",
+          "neighborhood": "Ladhof",
+          "photo": "/images/city-places/colmar-restaurants-a-la-cigogne.jpg",
+          "website": "https://maps.google.com/?q=A+la+Cigogne+156+rue+du+Ladhof+Colmar",
+          "description": "A relaxed all-you-can-eat buffet restaurant outside the historic core, mixing sushi, wok dishes and grills, where dogs can join you at the table. Handy for a low-key evening after a day of sightseeing, with easy parking compared to the old town.",
+          "descriptionFr": "Un restaurant buffet à volonté décontracté hors du centre historique, entre sushis, woks et grillades, où les chiens peuvent vous accompagner à table. Pratique pour une soirée simple après une journée de visite, avec un stationnement facile.",
+          "descriptionEs": "Un restaurante buffet libre y relajado fuera del centro histórico, con sushi, wok y parrilla, donde los perros pueden acompañarte en la mesa. Práctico para una noche tranquila tras un día de turismo, con aparcamiento fácil.",
+          "descriptionPt": "Um restaurante de buffet livre descontraído fora do centro histórico, com sushi, wok e grelhados, onde os cães podem acompanhá-lo à mesa. Prático para uma noite simples após um dia de visitas, com estacionamento fácil.",
+          "petPolicy": "Dogs allowed with diners",
+          "petPolicyFr": "Chiens admis avec les convives",
+          "petPolicyEs": "Perros admitidos con los comensales",
+          "petPolicyPt": "Cães admitidos com os clientes",
+          "priceRange": "€€",
+          "mustTry": "The grill station, cooked to order",
+          "mustTryFr": "Le stand grillades, cuit à la demande",
+          "mustTryEs": "La estación de parrilla, hecha al momento",
+          "mustTryPt": "A estação de grelhados, feita na hora",
+          "openingHours": "Lunch and dinner; closed some Mondays",
+          "tip": "Buffet rooms are busy at weekends; a weekday lunch is the calmest slot with a dog.",
+          "tipFr": "Les salles de buffet sont animées le week-end ; un déjeuner en semaine est le créneau le plus calme avec un chien.",
+          "tipEs": "Las salas de buffet se animan el fin de semana; una comida entre semana es el momento más tranquilo con perro.",
+          "tipPt": "As salas de buffet enchem ao fim de semana; um almoço durante a semana é a altura mais calma com cão.",
+          "googleMapsUrl": "https://maps.google.com/?q=A+la+Cigogne+156+rue+du+Ladhof+Colmar"
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Parks and Green Spaces for Dogs in Colmar",
+      "titleFr": "Parcs et espaces verts pour chiens à Colmar",
+      "titleEs": "Parques y zonas verdes para perros en Colmar",
+      "titlePt": "Parques e espaços verdes para cães em Colmar",
+      "introEn": "Colmar is compact, so a park is never more than a short walk away. Dogs must stay on a leash in the public parks and owners must pick up after them, but the city also opened a dedicated fenced dog park where dogs can run free.",
+      "introFr": "Colmar est compacte, un parc n'est jamais loin à pied. Les chiens doivent rester en laisse dans les parcs publics et les maîtres ramasser les déjections, mais la ville a aussi ouvert un parc canin clôturé où les chiens courent en liberté.",
+      "introEs": "Colmar es compacta, así que siempre hay un parque a pocos pasos. Los perros deben ir con correa en los parques públicos y los dueños recoger sus deposiciones, pero la ciudad también abrió un parque canino vallado donde pueden correr sueltos.",
+      "introPt": "Colmar é compacta, por isso há sempre um parque a poucos passos. Os cães devem andar com trela nos parques públicos e os donos apanhar os dejetos, mas a cidade também abriu um parque canino vedado onde podem correr à solta.",
+      "places": [
+        {
+          "name": "Parc du Champ-de-Mars",
+          "address": "Avenue de la Marne, 68000 Colmar",
+          "neighborhood": "City centre",
+          "photo": "/images/city-places/colmar-parks-parc-du-champ-de-mars.jpg",
+          "size": "Approx. 4 hectares",
+          "features": [
+            "Wide lawns",
+            "Shaded alleys of mature trees",
+            "Central location next to the old town"
+          ],
+          "featuresFr": [
+            "Grandes pelouses",
+            "Allées ombragées d'arbres matures",
+            "Emplacement central à côté de la vieille ville"
+          ],
+          "featuresEs": [
+            "Amplios céspedes",
+            "Paseos sombreados con árboles maduros",
+            "Ubicación céntrica junto al casco antiguo"
+          ],
+          "featuresPt": [
+            "Relvados amplos",
+            "Alamedas sombreadas com árvores maduras",
+            "Localização central junto ao centro histórico"
+          ],
+          "leashRules": "Dogs allowed on a leash; waste must be picked up",
+          "leashRulesFr": "Chiens admis en laisse ; déjections à ramasser",
+          "leashRulesEs": "Perros admitidos con correa; hay que recoger los excrementos",
+          "leashRulesPt": "Cães admitidos com trela; os dejetos devem ser apanhados",
+          "bestTimeToVisit": "Early morning, before the old town fills up",
+          "bestTimeToVisitFr": "Tôt le matin, avant que la vieille ville ne se remplisse",
+          "bestTimeToVisitEs": "A primera hora de la mañana, antes de que se llene el casco antiguo",
+          "bestTimeToVisitPt": "De manhã cedo, antes de o centro histórico encher",
+          "description": "The green lung of Colmar, a landscaped 19th-century park between the train station district and the old town, with long shaded alleys that stay cool in summer. It is the classic morning and evening walk for dogs staying in the city centre.",
+          "descriptionFr": "Le poumon vert de Colmar, un parc paysager du XIXe siècle entre le quartier de la gare et la vieille ville, avec de longues allées ombragées qui restent fraîches en été. C'est la promenade classique du matin et du soir pour les chiens logés au centre.",
+          "descriptionEs": "El pulmón verde de Colmar, un parque del siglo XIX entre el barrio de la estación y el casco antiguo, con largos paseos sombreados que se mantienen frescos en verano. Es el paseo clásico de mañana y de tarde para los perros alojados en el centro.",
+          "descriptionPt": "O pulmão verde de Colmar, um parque do século XIX entre o bairro da estação e o centro histórico, com longas alamedas sombreadas que se mantêm frescas no verão. É o passeio clássico de manhã e ao fim do dia para cães alojados no centro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+du+Champ+de+Mars+Colmar"
+        },
+        {
+          "name": "Parc canin de Colmar",
+          "address": "7 Rue du Pigeon, 68000 Colmar",
+          "neighborhood": "Aqualia / west Colmar",
+          "photo": "/images/city-places/colmar-parks-parc-canin-de-colmar.jpg",
+          "size": "780 m², fully fenced",
+          "features": [
+            "Off-leash running",
+            "Agility ramps and tunnels",
+            "Water point"
+          ],
+          "featuresFr": [
+            "Courses sans laisse",
+            "Rampes et tunnels d'agility",
+            "Point d'eau"
+          ],
+          "featuresEs": [
+            "Carreras sin correa",
+            "Rampas y túneles de agility",
+            "Punto de agua"
+          ],
+          "featuresPt": [
+            "Corridas sem trela",
+            "Rampas e túneis de agility",
+            "Ponto de água"
+          ],
+          "leashRules": "Off-leash allowed inside the fenced area",
+          "leashRulesFr": "Liberté autorisée à l'intérieur de l'enclos",
+          "leashRulesEs": "Se permite ir sin correa dentro del recinto vallado",
+          "leashRulesPt": "Permitido sem trela dentro do recinto vedado",
+          "bestTimeToVisit": "Late afternoon, when local owners gather",
+          "bestTimeToVisitFr": "Fin d'après-midi, quand les maîtres du quartier se retrouvent",
+          "bestTimeToVisitEs": "A última hora de la tarde, cuando se reúnen los dueños locales",
+          "bestTimeToVisitPt": "Ao fim da tarde, quando os donos locais se juntam",
+          "description": "Colmar's first dedicated dog park, opened in 2022 next to the Aqualia pool: a 780 m² planted and fenced enclosure with agility ramps, tunnels and a water point. It is the only spot in town where dogs can legally run off-leash.",
+          "descriptionFr": "Le premier parc canin de Colmar, ouvert en 2022 à côté de la piscine Aqualia : un enclos végétalisé et clôturé de 780 m² avec rampes d'agility, tunnels et point d'eau. C'est le seul endroit de la ville où les chiens peuvent légalement courir sans laisse.",
+          "descriptionEs": "El primer parque canino de Colmar, abierto en 2022 junto a la piscina Aqualia: un recinto vallado y ajardinado de 780 m² con rampas de agility, túneles y punto de agua. Es el único lugar de la ciudad donde los perros pueden correr legalmente sin correa.",
+          "descriptionPt": "O primeiro parque canino de Colmar, aberto em 2022 junto à piscina Aqualia: um recinto vedado e ajardinado de 780 m² com rampas de agility, túneis e ponto de água. É o único lugar da cidade onde os cães podem correr legalmente sem trela.",
+          "googleMapsUrl": "https://maps.google.com/?q=7+rue+du+Pigeon+Colmar"
+        },
+        {
+          "name": "Parc du Château d'Eau",
+          "address": "Rue du Chasseur, 68000 Colmar",
+          "neighborhood": "South of the old town",
+          "photo": "/images/city-places/colmar-parks-parc-du-chateau-d-eau.jpg",
+          "size": "Small landscaped park",
+          "features": [
+            "Rose garden",
+            "Remarkable old trees",
+            "Quiet benches"
+          ],
+          "featuresFr": [
+            "Roseraie",
+            "Arbres remarquables",
+            "Bancs tranquilles"
+          ],
+          "featuresEs": [
+            "Rosaleda",
+            "Árboles notables",
+            "Bancos tranquilos"
+          ],
+          "featuresPt": [
+            "Roseiral",
+            "Árvores notáveis",
+            "Bancos tranquilos"
+          ],
+          "leashRules": "Dogs allowed on a leash; waste must be picked up",
+          "leashRulesFr": "Chiens admis en laisse ; déjections à ramasser",
+          "leashRulesEs": "Perros admitidos con correa; hay que recoger los excrementos",
+          "leashRulesPt": "Cães admitidos com trela; os dejetos devem ser apanhados",
+          "bestTimeToVisit": "Late spring, when the rose garden blooms",
+          "bestTimeToVisitFr": "Fin de printemps, quand la roseraie fleurit",
+          "bestTimeToVisitEs": "Final de la primavera, cuando florece la rosaleda",
+          "bestTimeToVisitPt": "Final da primavera, quando o roseiral floresce",
+          "description": "A quieter landscaped garden around Colmar's 19th-century water tower, known for its rose garden and remarkable trees. A good short leashed loop if you are staying south of the historic centre.",
+          "descriptionFr": "Un jardin paysager plus calme autour du château d'eau du XIXe siècle, connu pour sa roseraie et ses arbres remarquables. Une bonne petite boucle en laisse si vous logez au sud du centre historique.",
+          "descriptionEs": "Un jardín más tranquilo alrededor de la torre de agua del siglo XIX, conocido por su rosaleda y sus árboles notables. Un buen paseo corto con correa si te alojas al sur del centro histórico.",
+          "descriptionPt": "Um jardim mais calmo em torno da torre de água do século XIX, conhecido pelo roseiral e pelas árvores notáveis. Um bom passeio curto com trela se ficar a sul do centro histórico.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+du+Ch%C3%A2teau+d%27Eau+Colmar"
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Colmar with a Dog",
+      "titleFr": "Se déplacer à Colmar avec un chien",
+      "titleEs": "Moverse por Colmar con un perro",
+      "titlePt": "Deslocar-se em Colmar com um cão",
+      "introEn": "Colmar's old town is small and pedestrian, so most visits happen on foot. Be aware that the local TRACE bus network is restrictive with dogs: only small animals in a closed carrier are accepted, plus assistance dogs. Regional TER trains are far more flexible for day trips along the wine route.",
+      "introFr": "La vieille ville de Colmar est petite et piétonne, la plupart des visites se font à pied. Attention, le réseau de bus TRACE est restrictif avec les chiens : seuls les petits animaux en caisse fermée sont acceptés, plus les chiens d'assistance. Les TER régionaux sont bien plus souples pour les excursions sur la route des vins.",
+      "introEs": "El casco antiguo de Colmar es pequeño y peatonal, casi todo se visita a pie. Ojo: la red de autobuses TRACE es restrictiva con los perros: solo se aceptan animales pequeños en transportín cerrado, además de los perros de asistencia. Los trenes TER regionales son mucho más flexibles para excursiones por la ruta del vino.",
+      "introPt": "O centro histórico de Colmar é pequeno e pedonal, quase tudo se visita a pé. Atenção: a rede de autocarros TRACE é restritiva com cães: só aceita animais pequenos em transportadora fechada, além de cães de assistência. Os comboios TER regionais são muito mais flexíveis para excursões pela rota dos vinhos.",
+      "modes": [
+        {
+          "mode": "TRACE city buses",
+          "modeFr": "Bus urbains TRACE",
+          "modeEs": "Autobuses urbanos TRACE",
+          "modePt": "Autocarros urbanos TRACE",
+          "policyEn": "Only small animals carried in a closed basket, cage or bag are allowed, free of charge. Medium and large dogs are not admitted, with the exception of assistance and guide dogs, which travel free.",
+          "policyFr": "Seuls les petits animaux transportés en panier, cage ou sac fermé sont admis, gratuitement. Les chiens moyens et grands sont refusés, à l'exception des chiens guides et d'assistance, qui voyagent gratuitement.",
+          "policyEs": "Solo se admiten animales pequeños en cesta, jaula o bolso cerrado, de forma gratuita. Los perros medianos y grandes no se admiten, salvo los perros guía y de asistencia, que viajan gratis.",
+          "policyPt": "Só são admitidos animais pequenos em cesto, gaiola ou mala fechada, gratuitamente. Cães médios e grandes não são admitidos, com exceção dos cães-guia e de assistência, que viajam grátis.",
+          "cost": "Free for small pets in carriers",
+          "costFr": "Gratuit pour les petits animaux en caisse",
+          "costEs": "Gratis para mascotas pequeñas en transportín",
+          "costPt": "Grátis para animais pequenos em transportadora"
+        },
+        {
+          "mode": "TER trains (Fluo Grand Est)",
+          "modeFr": "Trains TER (Fluo Grand Est)",
+          "modeEs": "Trenes TER (Fluo Grand Est)",
+          "modePt": "Comboios TER (Fluo Grand Est)",
+          "policyEn": "Pets under 6 kg travel in a closed bag or basket with a free or symbolic animal ticket; larger dogs pay a reduced animal fare (capped at a few euros) and must be leashed and muzzled on board. Ideal for Strasbourg, Selestat or Mulhouse day trips.",
+          "policyFr": "Les animaux de moins de 6 kg voyagent en sac ou panier fermé avec un billet animal gratuit ou symbolique ; les chiens plus grands paient un tarif animal réduit (plafonné à quelques euros) et doivent être tenus en laisse et muselés à bord. Idéal pour Strasbourg, Sélestat ou Mulhouse.",
+          "policyEs": "Las mascotas de menos de 6 kg viajan en bolso o cesta cerrada con billete de animal gratuito o simbólico; los perros más grandes pagan una tarifa animal reducida (limitada a unos pocos euros) y deben ir con correa y bozal a bordo. Ideal para Estrasburgo, Sélestat o Mulhouse.",
+          "policyPt": "Os animais com menos de 6 kg viajam em mala ou cesto fechado com bilhete de animal gratuito ou simbólico; os cães maiores pagam uma tarifa animal reduzida (limitada a poucos euros) e devem andar com trela e açaime a bordo. Ideal para Estrasburgo, Sélestat ou Mulhouse.",
+          "cost": "Free to approx. €7 depending on size and region",
+          "costFr": "Gratuit à environ 7 € selon la taille et la région",
+          "costEs": "Gratis hasta unos 7 € según el tamaño y la región",
+          "costPt": "Grátis até cerca de 7 € consoante o tamanho e a região"
+        },
+        {
+          "mode": "On foot and by bike",
+          "modeFr": "À pied et à vélo",
+          "modeEs": "A pie y en bicicleta",
+          "modePt": "A pé e de bicicleta",
+          "policyEn": "The historic centre, Petite Venise and the Champ-de-Mars are all within a 15-minute walk of each other, on flat ground. Leashed dogs are welcome everywhere outdoors; flat vineyard cycle paths start at the edge of town for bikes with a dog trailer.",
+          "policyFr": "Le centre historique, la Petite Venise et le Champ-de-Mars sont à moins de 15 minutes à pied les uns des autres, sur terrain plat. Les chiens en laisse sont admis partout en extérieur ; des pistes cyclables plates partent en bord de ville, pratiques avec une remorque à chien.",
+          "policyEs": "El centro histórico, la Petite Venise y el Champ-de-Mars están a menos de 15 minutos a pie entre sí, en terreno llano. Los perros con correa son bienvenidos en todos los espacios exteriores; hay carriles bici llanos desde el borde de la ciudad, prácticos con remolque para perros.",
+          "policyPt": "O centro histórico, a Petite Venise e o Champ-de-Mars ficam a menos de 15 minutos a pé entre si, em terreno plano. Cães com trela são bem-vindos em todos os espaços exteriores; há ciclovias planas a partir da periferia, práticas com atrelado para cão.",
+          "cost": "Free",
+          "costFr": "Gratuit",
+          "costEs": "Gratis",
+          "costPt": "Grátis"
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Lakes and Water Spots Near Colmar",
+      "titleFr": "Lacs et points d'eau près de Colmar",
+      "titleEs": "Lagos y zonas de agua cerca de Colmar",
+      "titlePt": "Lagos e zonas de água perto de Colmar",
+      "introEn": "Colmar is inland, and its local swimming spot, the Colmar-Houssen leisure lake, does not admit animals at all. For a water fix with your dog, head into the nearby Vosges: the glacial Lac Blanc above Orbey welcomes leashed dogs on its shores and trails, about 30 minutes' drive from town.",
+      "introFr": "Colmar est à l'intérieur des terres, et sa base de loisirs de Colmar-Houssen n'admet pas les animaux. Pour un moment au bord de l'eau avec votre chien, montez dans les Vosges voisines : le lac glaciaire du Lac Blanc, au-dessus d'Orbey, accueille les chiens en laisse sur ses rives et sentiers, à environ 30 minutes de route.",
+      "introEs": "Colmar está en el interior, y su lago recreativo de Colmar-Houssen no admite animales. Para disfrutar del agua con tu perro, sube a los cercanos Vosgos: el lago glaciar Lac Blanc, sobre Orbey, acepta perros con correa en sus orillas y senderos, a unos 30 minutos en coche.",
+      "introPt": "Colmar fica no interior, e o lago recreativo de Colmar-Houssen não admite animais. Para um momento junto à água com o seu cão, suba aos Vosges vizinhos: o lago glaciar Lac Blanc, acima de Orbey, aceita cães com trela nas margens e trilhos, a cerca de 30 minutos de carro.",
+      "beaches": [
+        {
+          "name": "Lac Blanc",
+          "address": "Lac Blanc, 68370 Orbey",
+          "photo": "",
+          "description": "A dramatic glacial lake under granite cliffs in the Vosges, ringed by marked trails where leashed dogs are welcome, including in the surrounding nature reserve. Note that human swimming and water sports are prohibited on the lake itself by municipal bylaw, so treat it as a spectacular lakeside walk rather than a bathing spot.",
+          "descriptionFr": "Un lac glaciaire spectaculaire sous des falaises de granit dans les Vosges, entouré de sentiers balisés où les chiens en laisse sont bienvenus, y compris dans la réserve naturelle voisine. La baignade et les activités nautiques y sont interdites par arrêté municipal : c'est une superbe balade au bord de l'eau plutôt qu'un lieu de baignade.",
+          "descriptionEs": "Un espectacular lago glaciar bajo acantilados de granito en los Vosgos, rodeado de senderos señalizados donde se aceptan perros con correa, incluso en la reserva natural vecina. El baño y los deportes náuticos están prohibidos por ordenanza municipal: es un paseo magnífico junto al agua más que un lugar de baño.",
+          "descriptionPt": "Um espetacular lago glaciar sob falésias de granito nos Vosges, rodeado de trilhos marcados onde cães com trela são bem-vindos, incluindo na reserva natural vizinha. O banho e os desportos náuticos são proibidos por decreto municipal: é um passeio magnífico à beira de água, mais do que um local de banho.",
+          "dogPolicy": "Leashed dogs allowed on the shores and all resort trails, including the nature reserve",
+          "dogPolicyFr": "Chiens en laisse admis sur les rives et tous les sentiers de la station, réserve naturelle comprise",
+          "dogPolicyEs": "Perros con correa admitidos en las orillas y todos los senderos de la estación, incluida la reserva natural",
+          "dogPolicyPt": "Cães com trela admitidos nas margens e em todos os trilhos da estação, incluindo a reserva natural",
+          "leashRequired": true,
+          "seasonalRestrictions": "None for dogs; snow covers the trails in winter and swimming is banned year-round for everyone",
+          "seasonalRestrictionsFr": "Aucune pour les chiens ; les sentiers sont enneigés en hiver et la baignade est interdite toute l'année pour tous",
+          "seasonalRestrictionsEs": "Ninguna para los perros; los senderos se cubren de nieve en invierno y el baño está prohibido todo el año para todos",
+          "seasonalRestrictionsPt": "Nenhuma para os cães; os trilhos ficam com neve no inverno e o banho é proibido todo o ano para todos",
+          "googleMapsUrl": "https://maps.google.com/?q=Lac+Blanc+Orbey"
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians in Colmar",
+      "titleFr": "Vétérinaires à Colmar",
+      "titleEs": "Veterinarios en Colmar",
+      "titlePt": "Veterinários em Colmar",
+      "introEn": "Colmar has several long-established small-animal clinics that take part in a rotating 24/7 on-call duty for the city and surrounding villages. For any out-of-hours emergency in France you can also dial 3115, the free national veterinary emergency number, which routes you to the nearest vet on duty.",
+      "introFr": "Colmar compte plusieurs cliniques pour petits animaux bien établies qui participent à un service de garde 24h/24 pour la ville et les villages alentour. Pour toute urgence en dehors des horaires, composez aussi le 3115, numéro national gratuit des urgences vétérinaires, qui vous oriente vers le vétérinaire de garde le plus proche.",
+      "introEs": "Colmar cuenta con varias clínicas de pequeños animales bien establecidas que participan en un servicio de guardia 24/7 para la ciudad y los pueblos cercanos. Para cualquier urgencia fuera de horario en Francia también puedes marcar el 3115, el número nacional gratuito de urgencias veterinarias, que te dirige al veterinario de guardia más cercano.",
+      "introPt": "Colmar tem várias clínicas de pequenos animais bem estabelecidas que participam num serviço de urgência 24/7 para a cidade e as aldeias vizinhas. Para qualquer emergência fora de horas em França pode também ligar 3115, o número nacional gratuito de urgências veterinárias, que o encaminha para o veterinário de serviço mais próximo.",
+      "clinics": [
+        {
+          "name": "Clinique Vétérinaire de l'Orangerie",
+          "address": "69 Route de Neuf-Brisach, 68000 Colmar",
+          "phone": "+33 3 89 41 82 78",
+          "emergencyPhone": "+33 3 89 41 82 78",
+          "hours": "Mon-Fri 08:30-12:30, 15:00-19:00 (Thu and Sat mornings); by appointment",
+          "emergency24h": true,
+          "description": "A full-service small-animal clinic east of the centre, part of an on-call network covering Colmar and the surrounding area 24/7. The same number reaches the duty vet at night and on weekends.",
+          "descriptionFr": "Une clinique complète pour petits animaux à l'est du centre, membre d'un réseau d'astreinte couvrant Colmar et les environs 24h/24 et 7j/7. Le même numéro permet de joindre le vétérinaire de garde la nuit et le week-end.",
+          "descriptionEs": "Una clínica completa de pequeños animales al este del centro, parte de una red de guardia que cubre Colmar y alrededores 24/7. El mismo número conecta con el veterinario de guardia por la noche y los fines de semana.",
+          "descriptionPt": "Uma clínica completa de pequenos animais a leste do centro, parte de uma rede de urgência que cobre Colmar e arredores 24/7. O mesmo número liga ao veterinário de serviço à noite e ao fim de semana.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinique+V%C3%A9t%C3%A9rinaire+de+l%27Orangerie+Colmar"
+        },
+        {
+          "name": "Clinique Vétérinaire des Maraîchers",
+          "address": "8 Rue des Jonquilles, 68000 Colmar",
+          "phone": "+33 3 89 41 70 60",
+          "emergencyPhone": "+33 3 89 41 70 60",
+          "hours": "Mon-Fri 08:00-12:00, 14:00-19:00; Sat 08:00-12:00",
+          "emergency24h": true,
+          "description": "An established clinic offering medicine, surgery, imaging and hospitalisation, and taking part in the permanent 24/7 duty rota for Colmar. Call ahead: outside opening hours the answering service redirects you to the vet on call.",
+          "descriptionFr": "Une clinique établie proposant médecine, chirurgie, imagerie et hospitalisation, et participant à la garde permanente 24h/24 de Colmar. Appelez avant de venir : hors horaires, le répondeur vous oriente vers le vétérinaire de garde.",
+          "descriptionEs": "Una clínica consolidada con medicina, cirugía, diagnóstico por imagen y hospitalización, que participa en la guardia permanente 24/7 de Colmar. Llama antes de ir: fuera de horario, el contestador te dirige al veterinario de guardia.",
+          "descriptionPt": "Uma clínica estabelecida com medicina, cirurgia, imagiologia e internamento, que participa na urgência permanente 24/7 de Colmar. Ligue antes de ir: fora de horas, o atendedor encaminha-o para o veterinário de serviço.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinique+V%C3%A9t%C3%A9rinaire+des+Mara%C3%AEchers+Colmar"
+        },
+        {
+          "name": "3115 - National veterinary emergency line",
+          "address": "Nationwide service, France",
+          "phone": "3115",
+          "emergencyPhone": "3115",
+          "hours": "24/7",
+          "emergency24h": true,
+          "description": "France's free national veterinary emergency number: dial 3115 from any phone and you are connected to the nearest on-duty veterinary service, day or night. Useful backup if you are staying in a wine-route village outside Colmar itself.",
+          "descriptionFr": "Le numéro national gratuit des urgences vétérinaires : composez le 3115 depuis n'importe quel téléphone pour être mis en relation avec le service vétérinaire de garde le plus proche, de jour comme de nuit. Un recours utile si vous logez dans un village de la route des vins hors de Colmar.",
+          "descriptionEs": "El número nacional gratuito de urgencias veterinarias de Francia: marca el 3115 desde cualquier teléfono y te conectan con el servicio veterinario de guardia más cercano, de día o de noche. Un buen recurso si te alojas en un pueblo de la ruta del vino fuera de Colmar.",
+          "descriptionPt": "O número nacional gratuito de urgências veterinárias de França: ligue 3115 de qualquer telefone e será ligado ao serviço veterinário de urgência mais próximo, de dia ou de noite. Um recurso útil se ficar numa aldeia da rota dos vinhos fora de Colmar.",
+          "googleMapsUrl": ""
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Colmar with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Colmar avec un chien",
+      "titleEs": "Consejos esenciales para visitar Colmar con un perro",
+      "titlePt": "Dicas essenciais para visitar Colmar com um cão",
+      "introEn": "Practical tips for making the most of Colmar and the Alsace wine route with your dog.",
+      "introFr": "Conseils pratiques pour profiter de Colmar et de la route des vins d'Alsace avec votre chien.",
+      "introEs": "Consejos prácticos para disfrutar de Colmar y la ruta del vino de Alsacia con tu perro.",
+      "introPt": "Dicas práticas para aproveitar Colmar e a rota dos vinhos da Alsácia com o seu cão.",
+      "places": [],
+      "tipsEn": [
+        "Use the Toutourisme welcome. Colmar's tourist office runs a dog-friendly Toutourisme programme; stop by for tips, and note that free waste bags are also handed out at the town hall.",
+        "Plan around the bus rules. TRACE city buses only accept small pets in a closed carrier (plus assistance dogs), so pick accommodation within walking distance of the old town or plan to drive.",
+        "Museums stay off the itinerary. The Unterlinden Museum and other indoor sights only admit assistance dogs, so schedule museum time when your dog can rest at the hotel.",
+        "Beat the summer crowds and heat. During the July Festival de Colmar and August peak, walk your dog on the cobbles early morning or late evening; hot stone and packed lanes are tough on paws.",
+        "Do the wine route by car or TER. Eguisheim, Riquewihr and Kaysersberg are outdoor, cobbled villages that are easy with a leashed dog, and many tasting cellars accept calm dogs; always ask before entering."
+      ],
+      "tipsFr": [
+        "Profitez du Toutourisme. L'office de tourisme de Colmar anime un programme Toutourisme dédié aux visiteurs avec chien ; passez-y pour des conseils, et des sacs à déjections gratuits sont aussi distribués en mairie.",
+        "Anticipez les règles de bus. Les bus TRACE n'acceptent que les petits animaux en caisse fermée (plus les chiens d'assistance) ; choisissez un logement accessible à pied depuis la vieille ville ou prévoyez la voiture.",
+        "Les musées restent hors programme. Le musée Unterlinden et les autres sites intérieurs n'admettent que les chiens d'assistance ; réservez les musées aux moments où votre chien se repose à l'hôtel.",
+        "Évitez la foule et la chaleur estivales. Pendant le Festival de Colmar en juillet et le pic d'août, promenez votre chien sur les pavés tôt le matin ou tard le soir ; la pierre chaude et les ruelles bondées fatiguent les coussinets.",
+        "Faites la route des vins en voiture ou en TER. Eguisheim, Riquewihr et Kaysersberg sont des villages pavés de plein air faciles avec un chien en laisse, et de nombreux caveaux acceptent les chiens calmes ; demandez toujours avant d'entrer."
+      ],
+      "tipsEs": [
+        "Aprovecha el Toutourisme. La oficina de turismo de Colmar tiene un programa Toutourisme para visitantes con perro; pásate para pedir consejos, y en el ayuntamiento reparten bolsas gratuitas para excrementos.",
+        "Planifica según las normas del bus. Los autobuses TRACE solo aceptan mascotas pequeñas en transportín cerrado (más los perros de asistencia); elige alojamiento a poca distancia a pie del casco antiguo o cuenta con el coche.",
+        "Los museos quedan fuera del plan. El museo Unterlinden y otros espacios interiores solo admiten perros de asistencia; deja los museos para cuando tu perro descanse en el hotel.",
+        "Evita las multitudes y el calor del verano. Durante el Festival de Colmar en julio y el pico de agosto, pasea al perro por los adoquines a primera hora o al anochecer; la piedra caliente y las callejuelas llenas castigan las almohadillas.",
+        "Haz la ruta del vino en coche o en TER. Eguisheim, Riquewihr y Kaysersberg son pueblos adoquinados al aire libre, fáciles con perro con correa, y muchas bodegas aceptan perros tranquilos; pregunta siempre antes de entrar."
+      ],
+      "tipsPt": [
+        "Aproveite o Toutourisme. O posto de turismo de Colmar tem um programa Toutourisme para visitantes com cão; passe por lá para dicas, e na câmara municipal distribuem sacos gratuitos para dejetos.",
+        "Planeie com as regras do autocarro. Os autocarros TRACE só aceitam animais pequenos em transportadora fechada (além de cães de assistência); escolha alojamento a curta distância a pé do centro histórico ou conte com o carro.",
+        "Os museus ficam fora do roteiro. O Museu Unterlinden e outros espaços interiores só admitem cães de assistência; deixe os museus para quando o seu cão descansar no hotel.",
+        "Evite as multidões e o calor do verão. Durante o Festival de Colmar em julho e o pico de agosto, passeie o cão pelas ruas de pedra de manhã cedo ou ao fim do dia; a pedra quente e as vielas cheias castigam as almofadinhas.",
+        "Faça a rota dos vinhos de carro ou de TER. Eguisheim, Riquewihr e Kaysersberg são aldeias calcetadas ao ar livre, fáceis com cão pela trela, e muitas adegas aceitam cães calmos; pergunte sempre antes de entrar."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Colmar's old town dog-friendly?",
+          "a": "Yes. The historic centre and Petite Venise are pedestrian and outdoors, so leashed dogs can join every stroll, and the Sweet Narcisse canal boats and the Petit Train Blanc city tour both accept dogs."
+        },
+        {
+          "q": "Can I take my dog on Colmar's buses?",
+          "a": "Only small animals in a closed basket, cage or bag travel on TRACE buses, free of charge. Larger dogs are not admitted, except assistance and guide dogs."
+        },
+        {
+          "q": "Where can my dog run off-leash in Colmar?",
+          "a": "At the fenced 780 m² parc canin at 7 Rue du Pigeon, next to the Aqualia pool. Everywhere else in the city's parks and streets, dogs must stay on a leash."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "La vieille ville de Colmar est-elle dog-friendly ?",
+          "a": "Oui. Le centre historique et la Petite Venise sont piétons et en plein air, donc les chiens en laisse participent à toutes les balades, et les barques Sweet Narcisse comme le Petit Train Blanc acceptent les chiens."
+        },
+        {
+          "q": "Puis-je prendre le bus à Colmar avec mon chien ?",
+          "a": "Seuls les petits animaux en panier, cage ou sac fermé voyagent sur les bus TRACE, gratuitement. Les chiens plus grands sont refusés, sauf chiens guides et d'assistance."
+        },
+        {
+          "q": "Où mon chien peut-il courir sans laisse à Colmar ?",
+          "a": "Au parc canin clôturé de 780 m² au 7 rue du Pigeon, à côté de la piscine Aqualia. Partout ailleurs dans les parcs et rues de la ville, la laisse est obligatoire."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿El casco antiguo de Colmar es dog-friendly?",
+          "a": "Sí. El centro histórico y la Petite Venise son peatonales y al aire libre, así que los perros con correa pueden acompañarte en todos los paseos, y tanto las barcas Sweet Narcisse como el Petit Train Blanc aceptan perros."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro en los autobuses de Colmar?",
+          "a": "Solo los animales pequeños en cesta, jaula o bolso cerrado viajan en los buses TRACE, gratis. Los perros más grandes no se admiten, salvo perros guía y de asistencia."
+        },
+        {
+          "q": "¿Dónde puede correr suelto mi perro en Colmar?",
+          "a": "En el parque canino vallado de 780 m² del 7 Rue du Pigeon, junto a la piscina Aqualia. En el resto de parques y calles de la ciudad, la correa es obligatoria."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "O centro histórico de Colmar é dog-friendly?",
+          "a": "Sim. O centro histórico e a Petite Venise são pedonais e ao ar livre, por isso os cães com trela participam em todos os passeios, e tanto os barcos Sweet Narcisse como o Petit Train Blanc aceitam cães."
+        },
+        {
+          "q": "Posso levar o meu cão nos autocarros de Colmar?",
+          "a": "Só animais pequenos em cesto, gaiola ou mala fechada viajam nos autocarros TRACE, gratuitamente. Cães maiores não são admitidos, exceto cães-guia e de assistência."
+        },
+        {
+          "q": "Onde pode o meu cão correr sem trela em Colmar?",
+          "a": "No parque canino vedado de 780 m² no 7 Rue du Pigeon, junto à piscina Aqualia. Em todos os outros parques e ruas da cidade, a trela é obrigatória."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Colmar",
+      "titleFr": "Attractions dog-friendly à Colmar",
+      "titleEs": "Atracciones dog-friendly en Colmar",
+      "titlePt": "Atrações dog-friendly em Colmar",
+      "introEn": "Colmar's magic is almost entirely outdoors: canals, half-timbered lanes and vineyards. That plays in your dog's favour, and even the boat rides and the tourist train let pets hop on.",
+      "introFr": "La magie de Colmar est presque entièrement en plein air : canaux, ruelles à colombages et vignobles. C'est tout bénéfice pour votre chien, et même les barques et le petit train touristique acceptent les animaux.",
+      "introEs": "La magia de Colmar está casi toda al aire libre: canales, callejuelas con entramado de madera y viñedos. Eso juega a favor de tu perro, y hasta las barcas y el tren turístico dejan subir mascotas.",
+      "introPt": "A magia de Colmar está quase toda ao ar livre: canais, vielas em enxaimel e vinhas. Isso joga a favor do seu cão, e até os barcos e o comboio turístico deixam subir animais.",
+      "places": [
+        {
+          "name": "Petite Venise and Sweet Narcisse boat rides",
+          "address": "Pont Saint-Pierre, Boulevard Saint-Pierre, 68000 Colmar",
+          "photo": "/images/city-places/colmar-attractions-petite-venise-and-sweet-narcisse-boat-rides.jpg",
+          "description": "The postcard quarter of Colmar, where flower-decked half-timbered houses line the Lauch canal. The traditional flat-bottomed Sweet Narcisse boats depart from Pont Saint-Pierre for a 30-minute narrated cruise, and dogs are allowed on board.",
+          "descriptionFr": "Le quartier carte postale de Colmar, où les maisons à colombages fleuries bordent la Lauch. Les barques traditionnelles à fond plat Sweet Narcisse partent du pont Saint-Pierre pour une croisière commentée de 30 minutes, et les chiens sont admis à bord.",
+          "descriptionEs": "El barrio de postal de Colmar, con casas de entramado de madera llenas de flores a orillas de la Lauch. Las barcas tradicionales de fondo plano Sweet Narcisse salen del Pont Saint-Pierre para un paseo comentado de 30 minutos, y los perros pueden subir a bordo.",
+          "descriptionPt": "O bairro-postal de Colmar, com casas em enxaimel floridas ao longo do Lauch. Os barcos tradicionais de fundo raso Sweet Narcisse partem da Pont Saint-Pierre para um cruzeiro comentado de 30 minutos, e os cães são admitidos a bordo.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://maps.google.com/?q=Sweet+Narcisse+Pont+Saint-Pierre+Colmar"
+        },
+        {
+          "name": "Petit Train Blanc",
+          "address": "Place des Martyrs de la Résistance, 68000 Colmar",
+          "photo": "/images/city-places/colmar-attractions-petit-train-blanc.jpg",
+          "description": "A 35-minute narrated tour of the old town aboard the little white train, with headphones in 16 languages, departing opposite the Unterlinden Museum. Dogs can ride along, a paw-saving way to cover the whole historic centre.",
+          "descriptionFr": "Une visite commentée de 35 minutes de la vieille ville à bord du petit train blanc, avec audioguide en 16 langues, au départ face au musée Unterlinden. Les chiens peuvent monter, une façon d'épargner les coussinets tout en couvrant tout le centre historique.",
+          "descriptionEs": "Un recorrido comentado de 35 minutos por el casco antiguo a bordo del pequeño tren blanco, con auriculares en 16 idiomas, saliendo frente al museo Unterlinden. Los perros pueden subir, una forma de ahorrar almohadillas cubriendo todo el centro histórico.",
+          "descriptionPt": "Um passeio comentado de 35 minutos pelo centro histórico a bordo do pequeno comboio branco, com auscultadores em 16 línguas, com partida em frente ao Museu Unterlinden. Os cães podem ir a bordo, uma forma de poupar as patas cobrindo todo o centro.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://maps.google.com/?q=Petit+Train+Blanc+Colmar"
+        },
+        {
+          "name": "Route des Vins villages (Eguisheim, Riquewihr, Kaysersberg)",
+          "address": "Route des Vins d'Alsace, around Colmar",
+          "photo": "/images/city-places/colmar-attractions-route-des-vins-villages-eguisheim-riquewihr-kaysersberg.jpg",
+          "description": "Colmar is the capital of the Alsace wine route, with Eguisheim, Riquewihr and Kaysersberg all within 15 km. The villages are open-air, cobbled and walkable with a leashed dog, and vineyard paths link them through the vines; many tasting cellars accept calm dogs if you ask first.",
+          "descriptionFr": "Colmar est la capitale de la route des vins d'Alsace, avec Eguisheim, Riquewihr et Kaysersberg à moins de 15 km. Ces villages pavés se visitent en plein air avec un chien en laisse, et des sentiers viticoles les relient à travers les vignes ; beaucoup de caveaux acceptent les chiens calmes si vous demandez d'abord.",
+          "descriptionEs": "Colmar es la capital de la ruta del vino de Alsacia, con Eguisheim, Riquewihr y Kaysersberg a menos de 15 km. Los pueblos son adoquinados y al aire libre, perfectos con perro con correa, y hay senderos entre viñedos que los conectan; muchas bodegas aceptan perros tranquilos si preguntas antes.",
+          "descriptionPt": "Colmar é a capital da rota dos vinhos da Alsácia, com Eguisheim, Riquewihr e Kaysersberg a menos de 15 km. As aldeias são calcetadas e ao ar livre, perfeitas com cão pela trela, e há caminhos entre as vinhas que as ligam; muitas adegas aceitam cães calmos se perguntar primeiro.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://maps.google.com/?q=Eguisheim"
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting and Dog Walking in Colmar",
+      "titleFr": "Pet-sitting et promenade de chiens à Colmar",
+      "titleEs": "Cuidadores y paseadores de perros en Colmar",
+      "titlePt": "Pet sitting e passeadores de cães em Colmar",
+      "introEn": "If you want a museum afternoon or a long winery lunch without your dog, France's main pet-sitting platforms all have sitters in and around Colmar. Book ahead in summer and during the Christmas markets, when demand peaks.",
+      "introFr": "Pour un après-midi musée ou un long déjeuner dans un domaine sans votre chien, les grandes plateformes françaises de pet-sitting ont toutes des gardiens à Colmar et alentour. Réservez à l'avance en été et pendant les marchés de Noël, quand la demande explose.",
+      "introEs": "Si quieres una tarde de museos o una comida larga en una bodega sin tu perro, las grandes plataformas francesas de cuidadores tienen perfiles en Colmar y alrededores. Reserva con antelación en verano y durante los mercados navideños, cuando la demanda se dispara.",
+      "introPt": "Se quiser uma tarde de museus ou um almoço demorado numa adega sem o seu cão, as grandes plataformas francesas de pet sitting têm cuidadores em Colmar e arredores. Reserve com antecedência no verão e durante os mercados de Natal, quando a procura dispara.",
+      "services": [
+        {
+          "name": "Rover.fr, Colmar",
+          "website": "https://www.rover.fr",
+          "description": "The largest peer-to-peer platform in France, with vetted sitters in Colmar offering boarding, day care, walks and drop-in visits. Profiles show reviews and rates, and bookings made through the platform are insured.",
+          "descriptionFr": "La plus grande plateforme entre particuliers en France, avec des gardiens vérifiés à Colmar pour l'hébergement, la garderie, les promenades et les visites à domicile. Les profils affichent avis et tarifs, et les réservations via la plateforme sont assurées.",
+          "descriptionEs": "La mayor plataforma entre particulares de Francia, con cuidadores verificados en Colmar para alojamiento, guardería, paseos y visitas a domicilio. Los perfiles muestran reseñas y tarifas, y las reservas hechas en la plataforma están aseguradas.",
+          "descriptionPt": "A maior plataforma entre particulares de França, com cuidadores verificados em Colmar para alojamento, creche, passeios e visitas ao domicílio. Os perfis mostram avaliações e preços, e as reservas feitas na plataforma têm seguro.",
+          "priceRange": "From approx. €15-25 per day depending on service",
+          "priceRangeFr": "À partir d'environ 15-25 € par jour selon le service",
+          "priceRangeEs": "Desde unos 15-25 € al día según el servicio",
+          "priceRangePt": "A partir de cerca de 15-25 € por dia consoante o serviço",
+          "bookingRequired": true
+        },
+        {
+          "name": "Emprunte Mon Toutou",
+          "website": "https://www.empruntemontoutou.com",
+          "description": "A French community of dog lovers who borrow or look after dogs for walks and day care, active in Alsace including Colmar. Good for a few hours of trusted care while you visit indoor sights.",
+          "descriptionFr": "Une communauté française d'amoureux des chiens qui empruntent ou gardent des chiens pour des balades et de la garderie, active en Alsace dont Colmar. Idéal pour quelques heures de garde de confiance pendant vos visites en intérieur.",
+          "descriptionEs": "Una comunidad francesa de amantes de los perros que los cuidan o pasean, activa en Alsacia incluida Colmar. Ideal para unas horas de cuidado de confianza mientras visitas interiores.",
+          "descriptionPt": "Uma comunidade francesa de amantes de cães que os passeiam ou cuidam deles, ativa na Alsácia incluindo Colmar. Ideal para umas horas de cuidado de confiança enquanto visita espaços interiores.",
+          "priceRange": "Membership-based; sitting often free between members",
+          "priceRangeFr": "Sur adhésion ; garde souvent gratuite entre membres",
+          "priceRangeEs": "Por suscripción; el cuidado suele ser gratis entre miembros",
+          "priceRangePt": "Por adesão; o cuidado é muitas vezes gratuito entre membros",
+          "bookingRequired": true
+        },
+        {
+          "name": "Animaute",
+          "website": "https://www.animaute.fr",
+          "description": "A long-running French pet-sitting network covering the Haut-Rhin, with home boarding, cat sitting and dog walking around Colmar. Sitters are reviewed and bookings include insurance and vet-cost cover.",
+          "descriptionFr": "Un réseau français de pet-sitting historique couvrant le Haut-Rhin, avec hébergement en famille, garde de chats et promenades autour de Colmar. Les gardiens sont notés et les réservations incluent assurance et frais vétérinaires.",
+          "descriptionEs": "Una veterana red francesa de cuidadores que cubre el Haut-Rhin, con alojamiento en casas, cuidado de gatos y paseos alrededor de Colmar. Los cuidadores tienen reseñas y las reservas incluyen seguro y gastos veterinarios.",
+          "descriptionPt": "Uma rede francesa veterana de pet sitting que cobre o Haut-Rhin, com alojamento em casas, cuidado de gatos e passeios à volta de Colmar. Os cuidadores têm avaliações e as reservas incluem seguro e despesas veterinárias.",
+          "priceRange": "From approx. €10 per visit, €15-20 per night",
+          "priceRangeFr": "À partir d'environ 10 € la visite, 15-20 € la nuit",
+          "priceRangeEs": "Desde unos 10 € por visita, 15-20 € por noche",
+          "priceRangePt": "A partir de cerca de 10 € por visita, 15-20 € por noite",
+          "bookingRequired": true
+        }
+      ]
+    }
+  }
+}

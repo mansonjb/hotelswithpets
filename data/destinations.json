@@ -26270,5 +26270,79 @@
         "icon": "🌧️"
       }
     }
+  },
+  {
+    "slug": "parnu",
+    "name": "Pärnu",
+    "country": "Estonia",
+    "countryCode": "EE",
+    "flag": "🇪🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/parnu.jpg",
+    "intro": "Estonia's summer capital pairs a pastel wooden old town with a huge sandy bay, and treats dogs remarkably well: four official dog swimming spots (river mole, Mai, Vana-Pärnu and Raeküla), a fenced double dog park with agility gear near Mai beach, a boardwalk through the Rannaniit coastal meadow reserve, and a tourist board that publishes its own list of dog-friendly cafes and spa hotels.",
+    "lat": 58.3859,
+    "lng": 24.4971,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Frozen & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -2,
+        "desc": "Cold, sea ice lingers",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 2,
+        "desc": "Thawing & bright",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Cool spring",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & fresh",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Long bright days",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warm beach season",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm, sea at its best",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & quieter",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool & crisp",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Grey & damp",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Dark & wintry",
+        "icon": "❄️"
+      }
+    }
   }
 ]

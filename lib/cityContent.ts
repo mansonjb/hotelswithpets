@@ -22368,6 +22368,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  parnu: {
+    history: {
+      fr: `Fondée en 1251 par les chevaliers de l'ordre Livonien, Pärnu fut un comptoir hanséatique dont le port exportait lin et bois vers l'Europe entière. Les Suédois la fortifièrent au XVIIe siècle : le Vallikäär et la porte de Tallinn, seule porte de ville d'époque suédoise conservée dans les pays baltes, en témoignent encore. En 1838 ouvrit le premier établissement de bains, et la ville devint la station balnéaire de l'Empire russe puis la « capitale d'été » officielle de l'Estonie, titre qu'elle porte toujours. Aujourd'hui, ses villas en bois pastel, sa promenade primée et sa grande baie de sable attirent spas et festivals. Avec un chien, Pärnu est étonnamment simple : quatre spots officiels de baignade canine, un parc canin clôturé avec agrès près de la plage de Mai, et un office de tourisme qui publie sa propre liste de cafés et hôtels dog-friendly.`,
+      en: `Founded in 1251 by the knights of the Livonian Order, Pärnu grew into a Hanseatic trading post whose port shipped flax and timber across Europe. The Swedes fortified it in the 17th century: the Vallikäär moat and the Tallinn Gate, the only surviving Swedish-era town gate in the Baltics, still show it. In 1838 the first bathing establishment opened and the town became the Russian Empire's seaside resort, later Estonia's official summer capital, a title it still holds. Today its pastel wooden villas, award-winning promenade and huge sandy bay draw spa-goers and festival crowds. With a dog, Pärnu is surprisingly easy: four official dog swimming spots, a fenced dog park with agility gear near Mai beach, and a tourist board that publishes its own list of dog-friendly cafes and hotels.`,
+      es: `Fundada en 1251 por los caballeros de la Orden Livona, Pärnu creció como enclave hanseático cuyo puerto exportaba lino y madera a toda Europa. Los suecos la fortificaron en el siglo XVII: el foso de Vallikäär y la Puerta de Tallin, la única puerta urbana de época sueca conservada en el Báltico, aún lo atestiguan. En 1838 abrió el primer establecimiento de baños y la ciudad se convirtió en el balneario del Imperio ruso y después en la capital estival oficial de Estonia, título que aún conserva. Hoy sus villas de madera pastel, su paseo premiado y su gran bahía de arena atraen a bañistas de spa y festivales. Con perro, Pärnu resulta sorprendentemente fácil: cuatro puntos oficiales de baño canino, un parque canino vallado con agility junto a la playa de Mai y una oficina de turismo que publica su propia lista de cafés y hoteles dog-friendly.`,
+      pt: `Fundada em 1251 pelos cavaleiros da Ordem da Livónia, Pärnu cresceu como entreposto hanseático cujo porto exportava linho e madeira para toda a Europa. Os suecos fortificaram-na no século XVII: o fosso de Vallikäär e a Porta de Tallinn, a única porta de cidade da era sueca conservada nos Bálticos, ainda o comprovam. Em 1838 abriu o primeiro estabelecimento de banhos e a cidade tornou-se a estância balnear do Império Russo e depois a capital de verão oficial da Estónia, título que ainda mantém. Hoje as suas vivendas de madeira pastel, o passeio premiado e a grande baía de areia atraem clientes de spa e festivais. Com cão, Pärnu é surpreendentemente fácil: quatro locais oficiais de banho canino, um parque canino vedado com agility junto à praia de Mai e um posto de turismo que publica a sua própria lista de cafés e hotéis dog-friendly.`,
+    },
+    sights: [
+      {
+        name: 'Rüütli tänav',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `L'artère piétonne de la vieille ville, bordée de maisons en bois pastel, de demeures marchandes baroques et de cafés. Balade en laisse idéale, avec des gamelles d'eau sur de nombreuses terrasses en été.`,
+          en: `The pedestrian spine of the old town, lined with pastel wooden houses, baroque merchant manors and cafes. A perfect leash stroll, with water bowls on many terraces in summer.`,
+          es: `La arteria peatonal del casco antiguo, flanqueada por casas de madera pastel, mansiones mercantiles barrocas y cafés. Un paseo perfecto con correa, con cuencos de agua en muchas terrazas en verano.`,
+          pt: `A artéria pedonal do centro histórico, ladeada por casas de madeira pastel, casarões mercantis barrocos e cafés. Um passeio de trela perfeito, com taças de água em muitas esplanadas no verão.`,
+        },
+      },
+      {
+        name: 'Vallikäär',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le fossé des bastions suédois du XVIIe siècle, devenu un parc en croissant avec pelouses, passerelles et la plus haute fontaine d'Estonie. Boucle classique en laisse entre la vieille ville et la mer.`,
+          en: `The moat of the 17th-century Swedish bastions, now a curving park of lawns, footbridges and Estonia's tallest fountain. A classic leash loop between the old town and the sea.`,
+          es: `El foso de los bastiones suecos del siglo XVII, hoy un parque curvo de céspedes, pasarelas y la fuente más alta de Estonia. Un bucle clásico con correa entre el casco antiguo y el mar.`,
+          pt: `O fosso dos bastiões suecos do século XVII, hoje um parque curvo de relvados, passadiços e a fonte mais alta da Estónia. Um circuito clássico de trela entre o centro histórico e o mar.`,
+        },
+      },
+      {
+        name: 'Tallinna värav',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La porte de Tallinn, du XVIIe siècle, est la seule porte de ville d'époque suédoise conservée dans les pays baltes. Son passage voûté relie la vieille ville au parc et se franchit librement avec un chien en laisse.`,
+          en: `The 17th-century Tallinn Gate is the only surviving Swedish-era town gate in the Baltic states. Its vaulted passage links the old town to the park and is freely walkable with a leashed dog.`,
+          es: `La Puerta de Tallin, del siglo XVII, es la única puerta urbana de época sueca conservada en los países bálticos. Su paso abovedado une el casco antiguo con el parque y se cruza libremente con un perro con correa.`,
+          pt: `A Porta de Tallinn, do século XVII, é a única porta de cidade da era sueca conservada nos países bálticos. A sua passagem abobadada liga o centro histórico ao parque e atravessa-se livremente com um cão de trela.`,
+        },
+      },
+      {
+        name: 'Rannapromenaad',
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade de plage en bois primée relie bains historiques, cabines art déco et bancs en vague le long de la baie. Ouverte aux chiens en laisse toute l'année, même quand le sable central leur est interdit en saison.`,
+          en: `The award-winning timber beach promenade links historic bathhouses, art-deco cabins and wave benches along the bay. Open to leashed dogs year-round, even when the central sand is off-limits in season.`,
+          es: `El premiado paseo marítimo de madera une casas de baños históricas, cabinas art déco y bancos en forma de ola a lo largo de la bahía. Abierto a perros con correa todo el año, incluso cuando la arena central les está vetada en temporada.`,
+          pt: `O premiado passeio marítimo de madeira liga casas de banhos históricas, cabinas art déco e bancos em onda ao longo da baía. Aberto a cães de trela todo o ano, mesmo quando o areal central lhes está vedado na época.`,
+        },
+      },
+      {
+        name: 'Pärnu rannaniidu matkarada',
+        emoji: '🦆',
+        petFriendly: true,
+        desc: {
+          fr: `Un platelage de 600 m avec plateforme d'observation traverse la prairie côtière protégée de 341 hectares, pâturée par les « vaches de la ville ». Chiens en laisse courte bienvenus ; oiseaux nicheurs au printemps.`,
+          en: `A 600 m boardwalk with a viewing platform crosses the 341-hectare protected coastal meadow, grazed by the famous city cows. Dogs on a short leash welcome; nesting birds in spring.`,
+          es: `Una pasarela de 600 m con plataforma mirador cruza la pradera costera protegida de 341 hectáreas, pastada por las famosas vacas urbanas. Perros con correa corta bienvenidos; aves nidificantes en primavera.`,
+          pt: `Um passadiço de 600 m com plataforma de observação atravessa o prado costeiro protegido de 341 hectares, pastado pelas famosas vacas da cidade. Cães de trela curta bem-vindos; aves nidificantes na primavera.`,
+        },
+      },
+      {
+        name: 'Pärnu muul',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Le môle de pierre à l'embouchure du fleuve offre une marche iodée face à la baie, et sa rive gauche est l'un des quatre spots officiels de baignade canine de la ville. Évitez les jours de forte houle.`,
+          en: `The stone mole at the river mouth gives a salty walk facing the bay, and its left bank is one of the city's four official dog swimming spots. Skip it on rough-sea days.`,
+          es: `El espigón de piedra en la desembocadura del río ofrece un paseo salino frente a la bahía, y su orilla izquierda es uno de los cuatro puntos oficiales de baño canino de la ciudad. Evítalo los días de mar gruesa.`,
+          pt: `O molhe de pedra na foz do rio proporciona uma caminhada salgada frente à baía, e a sua margem esquerda é um dos quatro locais oficiais de banho canino da cidade. Evite-o em dias de mar agitado.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La plage centrale est interdite aux chiens en saison balnéaire : rabattez-vous sur les quatre spots officiels de baignade canine (rive gauche du fleuve au môle, Mai, Vana-Pärnu, Raeküla).`,
+        `Laisse obligatoire partout en public ; le sans-laisse n'est légal que dans le parc canin clôturé de Mai (deux zones, agrès d'agility) et sur le terrain d'entraînement.`,
+        `Lors des grands festivals d'été, la ville recommande laisse ET muselière dans la foule dense ; les concerts du Vallikäär rassemblent des dizaines de milliers de personnes.`,
+        `Les cafés listés dog-friendly par l'office de tourisme (Supelsaksad, Steffani, Jahtklubi) sortent volontiers une gamelle d'eau ; demandez simplement.`,
+        `Vétérinaires : Terveks, Riia mnt 109 (+372 4470023, lun-sam 9h-18h) et PetCity au Pärnu Keskus, Aida 7 (+372 4401006, 7j/7) ; urgences nocturnes via le numéro court national 15222 (ambulance animalière basée à Tallinn, à 2 h de route).`,
+      ],
+      en: [
+        `The central beach bans dogs in the bathing season: use the four official dog swimming spots instead (left river bank by the mole, Mai, Vana-Pärnu, Raeküla).`,
+        `Leash is mandatory everywhere in public; off-leash is only legal in the fenced Mai dog park (two zones, agility gear) and at the training ground.`,
+        `During the big summer festivals the city recommends leash AND muzzle in dense crowds; Vallikäär concerts draw tens of thousands.`,
+        `Cafes listed as dog-friendly by the tourist board (Supelsaksad, Steffani, Jahtklubi) happily set out a water bowl; just ask.`,
+        `Vets: Terveks, Riia mnt 109 (+372 4470023, Mon-Sat 9:00-18:00) and PetCity in the Pärnu Keskus, Aida 7 (+372 4401006, 7 days a week); overnight emergencies via the national short number 15222 (pet ambulance based in Tallinn, a 2-hour drive).`,
+      ],
+      es: [
+        `La playa central prohíbe los perros en temporada de baño: usa los cuatro puntos oficiales de baño canino (orilla izquierda del río junto al espigón, Mai, Vana-Pärnu, Raeküla).`,
+        `La correa es obligatoria en todos los espacios públicos; el sin correa solo es legal en el parque canino vallado de Mai (dos zonas, agility) y en el campo de adiestramiento.`,
+        `Durante los grandes festivales de verano la ciudad recomienda correa Y bozal entre multitudes densas; los conciertos del Vallikäär reúnen a decenas de miles de personas.`,
+        `Los cafés listados como dog-friendly por la oficina de turismo (Supelsaksad, Steffani, Jahtklubi) sacan encantados un cuenco de agua; solo pídelo.`,
+        `Veterinarios: Terveks, Riia mnt 109 (+372 4470023, lun-sáb 9:00-18:00) y PetCity en el Pärnu Keskus, Aida 7 (+372 4401006, los 7 días); urgencias nocturnas por el número corto nacional 15222 (ambulancia de mascotas con base en Tallin, a 2 horas en coche).`,
+      ],
+      pt: [
+        `A praia central proíbe cães na época balnear: use os quatro locais oficiais de banho canino (margem esquerda do rio junto ao molhe, Mai, Vana-Pärnu, Raeküla).`,
+        `A trela é obrigatória em todos os espaços públicos; sem trela só é legal no parque canino vedado de Mai (duas zonas, agility) e no campo de treino.`,
+        `Durante os grandes festivais de verão a cidade recomenda trela E açaime em multidões densas; os concertos do Vallikäär juntam dezenas de milhares de pessoas.`,
+        `Os cafés listados como dog-friendly pelo posto de turismo (Supelsaksad, Steffani, Jahtklubi) põem de bom grado uma taça de água; basta pedir.`,
+        `Veterinários: Terveks, Riia mnt 109 (+372 4470023, seg-sáb 9:00-18:00) e PetCity no Pärnu Keskus, Aida 7 (+372 4401006, 7 dias por semana); urgências noturnas pelo número curto nacional 15222 (ambulância para animais com base em Tallinn, a 2 horas de carro).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Accès : pas de train de voyageurs à Pärnu ; cars Lux Express et autres depuis Tallinn (2 h) et Riga (2 h 30). Lux Express n'accepte les animaux qu'en caisse fermée de 40 x 40 cm max, avec billet animal à tarif réduit, et uniquement sur les lignes intérieures estoniennes.`,
+        `Sur place : ville plate et compacte, tout se fait à pied ou à vélo ; dans les bus urbains, petits animaux en caisse et grands chiens en laisse courte avec muselière.`,
+        `Climat : étés doux (22 °C en juillet, mer peu profonde et vite réchauffée) mais hivers gelés autour de -2 °C ; la baie peut geler, superbe pour les balades mais protégez les coussinets du sel de déneigement.`,
+        `Vétérinaire : Terveks, Riia mnt 109, +372 4470023 ; PetCity Pärnu Keskus, Aida 7, +372 4401006 ; urgence 24h/24 nationale au 15222 ; numéro d'urgence général 112.`,
+        `Voyage UE : passeport européen, puce et vaccin antirabique à jour suffisent pour entrer en Estonie ; les chiens doivent être tenus en laisse et leurs déjections ramassées sous peine d'amende.`,
+      ],
+      en: [
+        `Getting there: no passenger train to Pärnu; Lux Express and other coaches run from Tallinn (2 h) and Riga (2.5 h). Lux Express only carries pets in an enclosed carrier up to 40 x 40 cm, with a discounted pet ticket, and only on Estonian domestic routes.`,
+        `Getting around: flat, compact town, everything walkable or bikeable; on city buses, small pets travel in a carrier and large dogs on a short leash with a muzzle.`,
+        `Climate: mild summers (22 C in July, shallow bay that warms fast) but frozen winters around -2 C; the bay can freeze, beautiful for walks but protect paws from road salt.`,
+        `Vet: Terveks, Riia mnt 109, +372 4470023; PetCity Pärnu Keskus, Aida 7, +372 4401006; national 24/7 line 15222; general emergency number 112.`,
+        `EU travel: an EU pet passport, microchip and valid rabies vaccination are enough to enter Estonia; dogs must be leashed in public and waste picked up, on pain of a fine.`,
+      ],
+      es: [
+        `Cómo llegar: no hay tren de pasajeros a Pärnu; autocares Lux Express y otros desde Tallin (2 h) y Riga (2,5 h). Lux Express solo lleva mascotas en transportín cerrado de hasta 40 x 40 cm, con billete de mascota con descuento, y solo en rutas nacionales estonias.`,
+        `Cómo moverse: ciudad llana y compacta, todo se hace a pie o en bici; en los autobuses urbanos, mascotas pequeñas en transportín y perros grandes con correa corta y bozal.`,
+        `Clima: veranos suaves (22 °C en julio, bahía poco profunda que se calienta rápido) pero inviernos helados en torno a -2 °C; la bahía puede congelarse, preciosa para pasear pero protege las almohadillas de la sal.`,
+        `Veterinario: Terveks, Riia mnt 109, +372 4470023; PetCity Pärnu Keskus, Aida 7, +372 4401006; línea nacional 24h 15222; emergencias generales 112.`,
+        `Viaje UE: pasaporte europeo, microchip y vacuna antirrábica vigente bastan para entrar en Estonia; los perros deben ir con correa en público y hay que recoger los excrementos, bajo multa.`,
+      ],
+      pt: [
+        `Como chegar: não há comboio de passageiros para Pärnu; autocarros Lux Express e outros desde Tallinn (2 h) e Riga (2,5 h). A Lux Express só leva animais em caixa fechada até 40 x 40 cm, com bilhete de animal com desconto, e apenas nas rotas domésticas estónias.`,
+        `Como circular: cidade plana e compacta, tudo se faz a pé ou de bicicleta; nos autocarros urbanos, animais pequenos em caixa e cães grandes com trela curta e açaime.`,
+        `Clima: verões amenos (22 °C em julho, baía pouco profunda que aquece depressa) mas invernos gelados à volta de -2 °C; a baía pode gelar, linda para passeios mas proteja as patas do sal da estrada.`,
+        `Veterinário: Terveks, Riia mnt 109, +372 4470023; PetCity Pärnu Keskus, Aida 7, +372 4401006; linha nacional 24h 15222; emergências gerais 112.`,
+        `Viagem UE: passaporte europeu, microchip e vacina antirrábica válida bastam para entrar na Estónia; os cães devem andar de trela em público e os dejetos ser apanhados, sob pena de multa.`,
+      ],
+    },
+  },
+
   peniche: {
     history: {
       fr: `Peniche fut longtemps une île : ce n'est qu'au XVIe siècle que les sables ont fini par la rattacher au continent, créant cette presqu'île fortifiée avancée dans l'Atlantique. Sa forteresse, bâtie pour repousser les corsaires, servit de prison politique sous la dictature de Salazar ; l'évasion du dirigeant communiste Álvaro Cunhal en 1960 y reste légendaire. Grand port sardinier, la ville vit toujours de la pêche et de la conserverie, et ses restaurants servent parmi les meilleurs poissons du Portugal. Depuis les années 2000, Peniche est aussi devenue une capitale mondiale du surf, avec la vague de Supertubos et une étape du championnat du monde. Pour un voyageur avec un chien, c'est un bord de mer brut et venteux : falaises spectaculaires du Cabo Carvoeiro, dunes de Baleal et immenses plages hors saison.`,

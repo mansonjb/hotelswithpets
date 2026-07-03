@@ -1211,6 +1211,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Bois de Boulogne, Bois de Vincennes, and hundreds of smaller squares',
       area: 'Le Marais, Saint-Germain-des-Prés, and Montmartre',
     },
+    parnu: {
+      personality: `Estonia's summer capital, a spa-and-beach town so relaxed about dogs that the tourist board publishes its own list of dog-friendly cafes, with four official dog swimming spots around the bay`,
+      highlight: `the fenced double dog park by Mai beach, the Vallikäär bastion park, and the Rannaniit coastal meadow boardwalk`,
+      area: `the beach district around Ranna puiestee, the wooden old town along Rüütli street, and quieter Mai near the dog park`,
+    },
     perpignan: {
       personality: `the sunny Catalan capital of the French south, a compact, dog-friendly city with around 37 marked dog areas, a tolerant terrace culture, and easy access to the dog-friendly Roussillon beaches`,
       highlight: `Le Castillet and the old town, the Palais des Rois de Majorque ramparts, and the year-round dog section of Canet-en-Roussillon's Lido beach`,
@@ -2959,6 +2964,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Bois de Boulogne, le Bois de Vincennes et des centaines de squares',
       area: 'le Marais, Saint-Germain-des-Prés et Montmartre',
     },
+    parnu: {
+      personality: `la capitale d'été de l'Estonie, une ville thermale et balnéaire si détendue avec les chiens que l'office de tourisme publie sa propre liste de cafés dog-friendly, avec quatre spots officiels de baignade canine autour de la baie`,
+      highlight: `le double parc canin clôturé près de la plage de Mai, le parc des bastions Vallikäär et le platelage de la prairie côtière de Rannaniit`,
+      area: `le quartier de la plage autour de Ranna puiestee, la vieille ville en bois le long de la rue Rüütli et le calme quartier de Mai près du parc canin`,
+    },
     perpignan: {
       personality: `la capitale catalane ensoleillée du sud de la France, une ville compacte et dog-friendly avec environ 37 espaces canins balisés, une culture de terrasse tolérante et un accès facile aux plages dog-friendly du Roussillon`,
       highlight: `le Castillet et la vieille ville, les remparts du Palais des Rois de Majorque et la section canine à l'année du Lido de Canet-en-Roussillon`,
@@ -4706,6 +4716,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Bosque de Boulogne, el Bosque de Vincennes y cientos de plazas pequeñas',
       area: 'Le Marais, Saint-Germain-des-Prés y Montmartre',
     },
+    parnu: {
+      personality: `la capital estival de Estonia, una ciudad balneario y de spa tan relajada con los perros que la oficina de turismo publica su propia lista de cafés dog-friendly, con cuatro puntos oficiales de baño canino alrededor de la bahía`,
+      highlight: `el doble parque canino vallado junto a la playa de Mai, el parque de bastiones Vallikäär y la pasarela de la pradera costera de Rannaniit`,
+      area: `el barrio de la playa en torno a Ranna puiestee, el casco antiguo de madera a lo largo de la calle Rüütli y el tranquilo Mai junto al parque canino`,
+    },
     perpignan: {
       personality: `la soleada capital catalana del sur de Francia, una ciudad compacta y dog-friendly con unas 37 áreas caninas señalizadas, una cultura de terraza tolerante y fácil acceso a las playas dog-friendly del Rosellón`,
       highlight: `Le Castillet y el casco antiguo, las murallas del Palais des Rois de Majorque y la sección canina todo el año del Lido de Canet-en-Roussillon`,
@@ -6452,6 +6467,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade onde os cães são famosos por ser bem-vindos en cafés, tiendas e muitos restaurantes',
       highlight: 'o Floresta de Boulogne, o Floresta de Vincennes e cientos de praças pequenhas',
       area: 'Le Marais, Saint-Germain-des-Prés e Montmartre',
+    },
+    parnu: {
+      personality: `a capital de verão da Estónia, uma cidade termal e balnear tão descontraída com os cães que o posto de turismo publica a sua própria lista de cafés dog-friendly, com quatro locais oficiais de banho canino à volta da baía`,
+      highlight: `o duplo parque canino vedado junto à praia de Mai, o parque dos bastiões Vallikäär e o passadiço do prado costeiro de Rannaniit`,
+      area: `o bairro da praia em torno de Ranna puiestee, o centro histórico de madeira ao longo da rua Rüütli e o tranquilo Mai junto ao parque canino`,
     },
     perpignan: {
       personality: `a soalheira capital catalã do sul de França, uma cidade compacta e pet-friendly com cerca de 37 áreas caninas sinalizadas, uma cultura de esplanada tolerante e fácil acesso às praias pet-friendly do Rossilhão`,

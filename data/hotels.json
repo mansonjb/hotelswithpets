@@ -44541,6 +44541,198 @@
     ]
   },
   {
+    "id": "treviso-1",
+    "name": "Levelup",
+    "destinationSlug": "treviso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 665,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/levelup.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at Levelup on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
+    ],
+    "slug": "levelup"
+  },
+  {
+    "id": "treviso-2",
+    "name": "Hotel Continental",
+    "destinationSlug": "treviso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.2,
+    "reviewCount": 5785,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/continental-treviso.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at Hotel Continental on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Airport shuttle"
+    ],
+    "slug": "continental-treviso"
+  },
+  {
+    "id": "treviso-3",
+    "name": "Hotel Carlton",
+    "destinationSlug": "treviso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.3,
+    "reviewCount": 1633,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/carlton-treviso.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at Hotel Carlton on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "carlton-treviso"
+  },
+  {
+    "id": "treviso-4",
+    "name": "Locanda Ponte Dante",
+    "destinationSlug": "treviso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 1131,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/locanda-ponte-dante.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at Locanda Ponte Dante on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Restaurant"
+    ],
+    "slug": "locanda-ponte-dante"
+  },
+  {
+    "id": "treviso-5",
+    "name": "Palazzina300",
+    "destinationSlug": "treviso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 968,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/palazzina-300-treviso.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at Palazzina300 on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Airport shuttle",
+      "Non-smoking rooms"
+    ],
+    "slug": "palazzina-300-treviso"
+  },
+  {
+    "id": "treviso-6",
+    "name": "Brick House Treviso",
+    "destinationSlug": "treviso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 234,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/brick-house-treviso.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at Brick House Treviso on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Airport shuttle"
+    ],
+    "slug": "brick-house-treviso"
+  },
+  {
+    "id": "treviso-7",
+    "name": "Ai Bastioni Boutique Hotel",
+    "destinationSlug": "treviso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.6,
+    "reviewCount": 541,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/ai-bastioni-boutique.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at Ai Bastioni Boutique Hotel on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "ai-bastioni-boutique"
+  },
+  {
+    "id": "treviso-8",
+    "name": "Rialto 13",
+    "destinationSlug": "treviso",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 235,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/b-amp-b-rialto-13.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed at Rialto 13 on request. An extra charge may apply; confirm details with the property before arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Airport shuttle",
+      "Family rooms"
+    ],
+    "slug": "b-amp-b-rialto-13"
+  },
+  {
     "id": "trieste-1",
     "name": "Grand Hotel Duchi d'Aosta",
     "destinationSlug": "trieste",

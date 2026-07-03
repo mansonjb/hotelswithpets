@@ -23792,6 +23792,80 @@
     "iata": "TPS"
   },
   {
+    "slug": "treviso",
+    "name": "Treviso",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/treviso.jpg",
+    "intro": "Venice without the crowds, 30 minutes from the lagoon by train: canals and frescoed arcades explored entirely outdoors, the flat Restera towpath along the Sile river, a municipal network of fenced dog runs, two 24/7 veterinary hospitals, and the UNESCO Prosecco hills starting 20 minutes north.",
+    "lat": 45.6669,
+    "lng": 12.243,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold, damp, foggy",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cold, brighter spells",
+        "icon": "☁️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild, early spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild, some showers",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm, green countryside",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Hot, occasional storms",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot and muggy",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Hot, evening storms",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Warm, harvest season",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 15,
+        "desc": "Mild, misty mornings",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool, rainy, foggy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold, damp, festive",
+        "icon": "🌫️"
+      }
+    }
+  },
+  {
     "slug": "trieste",
     "name": "Trieste",
     "country": "Italy",

@@ -29472,6 +29472,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  treviso: {
+    history: {
+      fr: `Née carrefour de rivières, Trévise a grandi sur les résurgences du Sile et les bras du Cagnan, que les Trévisans ont domestiqués en canaux, moulins et lavoirs dès le Moyen Âge. Commune libre puis fidèle possession de Venise à partir de 1339, elle en a adopté l'art de vivre : arcades peintes à fresque, palais gothiques et un marché aux poissons installé depuis 1856 sur sa propre île. Ses remparts du XVIe siècle, élevés par la Sérénissime, ceinturent toujours le centre. Durement bombardée le Vendredi saint 1944, elle s'est reconstruite avec soin et discrétion. Aujourd'hui capitale du radicchio rouge, patrie du tiramisu et porte des collines UNESCO du Prosecco, Trévise offre l'atmosphère vénitienne sans la cohue : une ville d'eau et d'arcades qui se découvre entièrement à pied, au grand bonheur des chiens.`,
+      en: `Born at a crossroads of rivers, Treviso grew on the springs of the Sile and the branches of the Cagnan, which its citizens tamed into canals, mills and washhouses from the Middle Ages. A free commune and then a loyal possession of Venice from 1339, it adopted the Serenissima's art of living: frescoed arcades, Gothic palaces and a fish market held since 1856 on its own island. Its 16th-century walls, raised by Venice, still ring the centre. Heavily bombed on Good Friday 1944, it rebuilt itself with care and discretion. Today the capital of red radicchio, the birthplace of tiramisu and the gateway to the UNESCO Prosecco hills, Treviso offers the Venetian atmosphere without the crush: a city of water and arcades discovered entirely on foot, much to every dog's delight.`,
+      es: `Nacida en un cruce de ríos, Treviso creció sobre los manantiales del Sile y los brazos del Cagnan, que sus habitantes domesticaron en canales, molinos y lavaderos desde la Edad Media. Comuna libre y luego fiel posesión de Venecia desde 1339, adoptó el arte de vivir de la Serenísima: soportales con frescos, palacios góticos y un mercado del pescado celebrado desde 1856 en su propia isla. Sus murallas del siglo XVI, levantadas por Venecia, siguen ciñendo el centro. Duramente bombardeada el Viernes Santo de 1944, se reconstruyó con cuidado y discreción. Hoy capital del radicchio rojo, cuna del tiramisú y puerta de las colinas UNESCO del Prosecco, Treviso ofrece la atmósfera veneciana sin agobios: una ciudad de agua y soportales que se descubre por completo a pie, para alegría de los perros.`,
+      pt: `Nascida num cruzamento de rios, Treviso cresceu sobre as nascentes do Sile e os braços do Cagnan, que os seus habitantes domesticaram em canais, moinhos e lavadouros desde a Idade Média. Comuna livre e depois fiel possessão de Veneza a partir de 1339, adotou a arte de viver da Sereníssima: arcadas com frescos, palácios góticos e um mercado do peixe realizado desde 1856 na sua própria ilha. As muralhas do século XVI, erguidas por Veneza, ainda cingem o centro. Duramente bombardeada na Sexta-feira Santa de 1944, reconstruiu-se com cuidado e discrição. Hoje capital do radicchio vermelho, berço do tiramisu e porta das colinas UNESCO do Prosecco, Treviso oferece a atmosfera veneziana sem a multidão: uma cidade de água e arcadas que se descobre toda a pé, para grande alegria dos cães.`,
+    },
+    sights: [
+      {
+        name: `Piazza dei Signori`,
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Le salon civique de Trévise, dominé par le Palazzo dei Trecento du XIIIe siècle et prolongé par les arcades du Calmaggiore vers le Duomo. Tout se vit dehors, en laisse, surtout à l'heure de l'aperitivo quand les terrasses débordent.`,
+          en: `Treviso's civic drawing room, dominated by the 13th-century Palazzo dei Trecento and extended by the Calmaggiore arcades towards the Duomo. Everything happens outdoors, on a leash, especially at aperitivo time when the terraces overflow.`,
+          es: `El salón cívico de Treviso, dominado por el Palazzo dei Trecento del siglo XIII y prolongado por los soportales del Calmaggiore hacia el Duomo. Todo se vive fuera, con correa, sobre todo a la hora del aperitivo cuando las terrazas se desbordan.`,
+          pt: `A sala de visitas cívica de Treviso, dominada pelo Palazzo dei Trecento do século XIII e prolongada pelas arcadas do Calmaggiore em direção ao Duomo. Tudo se vive ao ar livre, com trela, sobretudo à hora do aperitivo quando as esplanadas transbordam.`,
+        },
+      },
+      {
+        name: `Isola della Pescheria`,
+        emoji: '🐟',
+        petFriendly: true,
+        desc: {
+          fr: `La petite île du canal Cagnan accueille le marché aux poissons depuis 1856, entre saules et façades sur l'eau. Parcourez les étals du matin en laisse courte, puis suivez le canal des Buranelli, la vue la plus photographiée de la ville.`,
+          en: `The little island on the Cagnan canal has hosted the fish market since 1856, amid willows and waterside facades. Browse the morning stalls on a short leash, then follow the Buranelli canal, the most photographed view in town.`,
+          es: `La islita del canal Cagnan acoge el mercado del pescado desde 1856, entre sauces y fachadas sobre el agua. Recorre los puestos matinales con correa corta y sigue después el canal de los Buranelli, la vista más fotografiada de la ciudad.`,
+          pt: `A pequena ilha do canal Cagnan acolhe o mercado do peixe desde 1856, entre salgueiros e fachadas sobre a água. Percorra as bancas da manhã com trela curta e siga depois o canal dos Buranelli, a vista mais fotografada da cidade.`,
+        },
+      },
+      {
+        name: `Restera del Sile`,
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `L'ancien chemin de halage du Sile part des remparts et file, plat et sans voitures, vers Casier et le parc régional du fleuve. C'est la grande balade canine de Trévise, très fréquentée par les cyclistes le week-end : laisse courte et bord droit du chemin.`,
+          en: `The old Sile towpath leaves the walls and runs, flat and car-free, towards Casier and the river's regional park. It is Treviso's great dog walk, busy with cyclists at weekends: keep a short leash and the right-hand edge of the path.`,
+          es: `El antiguo camino de sirga del Sile sale de las murallas y corre, llano y sin coches, hacia Casier y el parque regional del río. Es el gran paseo canino de Treviso, muy transitado por ciclistas el fin de semana: correa corta y borde derecho del camino.`,
+          pt: `O antigo caminho de sirga do Sile sai das muralhas e corre, plano e sem carros, em direção a Casier e ao parque regional do rio. É o grande passeio canino de Treviso, muito movimentado com ciclistas ao fim de semana: trela curta e lado direito do caminho.`,
+        },
+      },
+      {
+        name: `Mura di Treviso`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `La ceinture de remparts vénitiens du XVIe siècle, doublée d'eau et d'arbres, forme une promenade ombragée autour du centre. Le circuit complet fait une belle boucle en laisse d'environ une heure, fraîche même en été.`,
+          en: `The 16th-century Venetian rampart belt, lined with water and trees, forms a shaded promenade around the centre. The full circuit makes a fine leashed loop of about an hour, cool even in summer.`,
+          es: `El cinturón de murallas venecianas del siglo XVI, bordeado de agua y árboles, forma un paseo sombreado alrededor del centro. El circuito completo es un buen bucle con correa de una hora, fresco incluso en verano.`,
+          pt: `O cinturão de muralhas venezianas do século XVI, ladeado de água e árvores, forma um passeio sombreado à volta do centro. O circuito completo é uma bela volta com trela de cerca de uma hora, fresca mesmo no verão.`,
+        },
+      },
+      {
+        name: `Parco dello Storga`,
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Un parc de résurgence de 67 hectares au nord-est de la ville, où la Storga naît entre prairies, bois et anciennes fermes. Sentiers plats en gravier, en laisse : c'est la zone de protection de la faune, évitez les abords des zones de nidification.`,
+          en: `A 67-hectare spring-water park north-east of town, where the Storga rises among meadows, woods and old farmsteads. Flat gravel trails, on a leash: this is a wildlife protection area, so keep clear of nesting zones.`,
+          es: `Un parque de manantial de 67 hectáreas al noreste de la ciudad, donde nace el Storga entre praderas, bosques y granjas antiguas. Senderos llanos de grava, con correa: es zona de protección de fauna, evita las áreas de nidificación.`,
+          pt: `Um parque de nascente com 67 hectares a nordeste da cidade, onde o Storga nasce entre prados, bosques e quintas antigas. Trilhos planos de gravilha, com trela: é zona de proteção de fauna, evite as áreas de nidificação.`,
+        },
+      },
+      {
+        name: `Colline del Prosecco`,
+        emoji: '🍾',
+        petFriendly: true,
+        desc: {
+          fr: `Les collines UNESCO de Conegliano-Valdobbiadene commencent à 20 minutes au nord : crêtes striées de vignes, hameaux et routes panoramiques. Sentiers viticoles en laisse et dégustations dans les domaines familiaux, qui acceptent souvent les chiens calmes si l'on téléphone avant.`,
+          en: `The UNESCO Conegliano-Valdobbiadene hills start 20 minutes north: vine-striped ridges, hamlets and panoramic lanes. Vineyard paths on a leash and tastings at family wineries, which often accept calm dogs if you phone ahead.`,
+          es: `Las colinas UNESCO de Conegliano-Valdobbiadene empiezan 20 minutos al norte: crestas rayadas de viñas, aldeas y carreteras panorámicas. Senderos entre viñedos con correa y catas en bodegas familiares, que suelen aceptar perros tranquilos si llamas antes.`,
+          pt: `As colinas UNESCO de Conegliano-Valdobbiadene começam 20 minutos a norte: cumeadas riscadas de vinhas, aldeias e estradas panorâmicas. Caminhos entre vinhas com trela e provas em adegas familiares, que aceitam muitas vezes cães calmos se telefonar antes.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Règle italienne : laisse de 1,5 m maximum en ville et muselière à portée de main, exigible dans les transports publics et sur demande ; amende possible si vous ne l'avez pas sur vous.`,
+        `Les bus MOM admettent les chiens avec laisse et muselière (petits animaux en caisse gratuits) ; sur les trains régionaux Trenitalia, billet chien à 50 % du tarif seconde et grands chiens interdits de 7h à 9h en semaine.`,
+        `La ville entretient un réseau d'aires de sgambatura clôturées, comme celle du Parco Ducale (2023) avec double portillon et fontaine : renseignez-vous sur la plus proche de votre hôtel.`,
+        `Été moite dans la plaine vénète : sorties à l'aube et au crépuscule, eau toujours sur soi, et prévention filariose (moustiques) à voir avec votre vétérinaire avant le séjour.`,
+        `Urgences : Clinica Veterinaria Strada Ovest (+39 0422 262237) et Ospedale Veterinario San Francesco (+39 0422 450288) assurent un service 24h/24 à Trévise et à ses portes.`,
+      ],
+      en: [
+        `Italian rule of thumb: a leash of 1.5 m maximum in town and a muzzle to hand, required on public transport and whenever requested; you risk a fine if you do not carry one.`,
+        `MOM buses admit dogs with leash and muzzle (small pets in carriers travel free); on Trenitalia regional trains the dog ticket is 50% of a second-class fare and large dogs are banned from 7 to 9 am on weekdays.`,
+        `The city maintains a network of fenced sgambatura dog runs, such as the Parco Ducale one (2023) with double gates and a fountain: ask which is closest to your hotel.`,
+        `The Veneto plain is muggy in summer: walk at dawn and dusk, always carry water, and discuss heartworm (filaria) prevention with your vet before the trip, mosquitoes are part of the landscape.`,
+        `Emergencies: Clinica Veterinaria Strada Ovest (+39 0422 262237) and Ospedale Veterinario San Francesco (+39 0422 450288) both run 24/7 services in and just outside Treviso.`,
+      ],
+      es: [
+        `Regla italiana: correa de 1,5 m máximo en ciudad y bozal a mano, exigible en el transporte público y cuando lo pidan; te arriesgas a una multa si no lo llevas.`,
+        `Los buses MOM admiten perros con correa y bozal (mascotas pequeñas en transportín gratis); en los trenes regionales de Trenitalia el billete canino es el 50% de la tarifa de segunda y los perros grandes están prohibidos de 7 a 9 entre semana.`,
+        `La ciudad mantiene una red de áreas caninas valladas de sgambatura, como la del Parco Ducale (2023) con doble puerta y fuente: pregunta cuál queda más cerca de tu hotel.`,
+        `La llanura véneta es bochornosa en verano: pasea al alba y al atardecer, lleva siempre agua, y consulta con tu veterinario la prevención de la filaria antes del viaje, los mosquitos forman parte del paisaje.`,
+        `Urgencias: la Clinica Veterinaria Strada Ovest (+39 0422 262237) y el Ospedale Veterinario San Francesco (+39 0422 450288) ofrecen servicio 24/7 en Treviso y a sus puertas.`,
+      ],
+      pt: [
+        `Regra italiana: trela de 1,5 m no máximo na cidade e açaime à mão, exigível nos transportes públicos e sempre que pedido; arrisca multa se não o levar consigo.`,
+        `Os autocarros MOM admitem cães com trela e açaime (animais pequenos em transportadora grátis); nos comboios regionais da Trenitalia o bilhete de cão custa 50% da tarifa de segunda e os cães grandes são proibidos das 7h às 9h nos dias úteis.`,
+        `A cidade mantém uma rede de áreas caninas vedadas de sgambatura, como a do Parco Ducale (2023) com portão duplo e fonte: pergunte qual fica mais perto do seu hotel.`,
+        `A planície vêneta é abafada no verão: passeios de madrugada e ao fim do dia, água sempre à mão, e prevenção da dirofilariose a discutir com o seu veterinário antes da viagem, os mosquitos fazem parte da paisagem.`,
+        `Urgências: a Clinica Veterinaria Strada Ovest (+39 0422 262237) e o Ospedale Veterinario San Francesco (+39 0422 450288) asseguram serviço 24/7 em Treviso e às suas portas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaires 24h/24 : Clinica Veterinaria Strada Ovest, Strada San Pelajo 127 (+39 0422 262237) et Ospedale Veterinario San Francesco, Via Feltrina 29 à Castagnole di Paese (+39 0422 450288, scanner et IRM) ; à Conegliano, Ospedale Veterinario Città di Conegliano (+39 0438 33566).`,
+        `Venise à 30 minutes de train : billet chien Trenitalia à 50 % du tarif seconde classe, laisse et muselière, carnet de santé sur soi ; évitez les régionaux de 7h à 9h en semaine avec un grand chien.`,
+        `Plage canine la plus proche : Bau Bau Beach au Lido di Jesolo (environ 40 minutes de voiture), avec zone de baignade réservée aux chiens ; hors zones canines, les plages de la côte interdisent les chiens l'été.`,
+        `Aéroport de Trévise (Ryanair) à 10 minutes du centre : la plupart des compagnies low-cost n'acceptent pas les animaux en cabine sur ces lignes, vérifiez avant de réserver le vol.`,
+        `Bus MOM : chiens admis avec laisse et muselière, petits animaux en caisse gratuits ; le centre fortifié se traverse de toute façon à pied en un quart d'heure.`,
+      ],
+      en: [
+        `24/7 vets: Clinica Veterinaria Strada Ovest, Strada San Pelajo 127 (+39 0422 262237) and Ospedale Veterinario San Francesco, Via Feltrina 29 in Castagnole di Paese (+39 0422 450288, CT and MRI); in Conegliano, Ospedale Veterinario Città di Conegliano (+39 0438 33566).`,
+        `Venice is 30 minutes by train: Trenitalia dog ticket at 50% of a second-class fare, leash and muzzle, health booklet with you; avoid weekday regionals from 7 to 9 am with a large dog.`,
+        `Nearest dog beach: Bau Bau Beach at Lido di Jesolo (about 40 minutes by car), with a reserved dog swimming zone; outside the dog areas, the coast's beaches ban dogs in summer.`,
+        `Treviso airport (Ryanair) is 10 minutes from the centre: most low-cost carriers do not accept pets in the cabin on these routes, check before booking the flight.`,
+        `MOM buses: dogs admitted with leash and muzzle, small pets in carriers free; the walled centre crosses on foot in a quarter of an hour anyway.`,
+      ],
+      es: [
+        `Veterinarios 24/7: Clinica Veterinaria Strada Ovest, Strada San Pelajo 127 (+39 0422 262237) y Ospedale Veterinario San Francesco, Via Feltrina 29 en Castagnole di Paese (+39 0422 450288, TAC y resonancia); en Conegliano, Ospedale Veterinario Città di Conegliano (+39 0438 33566).`,
+        `Venecia a 30 minutos en tren: billete canino de Trenitalia al 50% de la tarifa de segunda, correa y bozal, cartilla sanitaria encima; evita los regionales de 7 a 9 entre semana con un perro grande.`,
+        `Playa canina más cercana: Bau Bau Beach en el Lido di Jesolo (unos 40 minutos en coche), con zona de baño reservada para perros; fuera de las zonas caninas, las playas de la costa prohíben los perros en verano.`,
+        `El aeropuerto de Treviso (Ryanair) está a 10 minutos del centro: la mayoría de las low cost no aceptan mascotas en cabina en estas rutas, compruébalo antes de reservar el vuelo.`,
+        `Buses MOM: perros admitidos con correa y bozal, mascotas pequeñas en transportín gratis; el centro amurallado se cruza a pie en un cuarto de hora de todos modos.`,
+      ],
+      pt: [
+        `Veterinários 24/7: Clinica Veterinaria Strada Ovest, Strada San Pelajo 127 (+39 0422 262237) e Ospedale Veterinario San Francesco, Via Feltrina 29 em Castagnole di Paese (+39 0422 450288, TAC e ressonância); em Conegliano, Ospedale Veterinario Città di Conegliano (+39 0438 33566).`,
+        `Veneza a 30 minutos de comboio: bilhete de cão da Trenitalia a 50% da tarifa de segunda, trela e açaime, boletim sanitário consigo; evite os regionais das 7h às 9h nos dias úteis com um cão grande.`,
+        `Praia canina mais próxima: Bau Bau Beach no Lido di Jesolo (cerca de 40 minutos de carro), com zona de banho reservada aos cães; fora das zonas caninas, as praias da costa proíbem cães no verão.`,
+        `O aeroporto de Treviso (Ryanair) fica a 10 minutos do centro: a maioria das low cost não aceita animais na cabine nestas rotas, confirme antes de reservar o voo.`,
+        `Autocarros MOM: cães admitidos com trela e açaime, animais pequenos em transportadora grátis; de qualquer forma, o centro amuralhado atravessa-se a pé num quarto de hora.`,
+      ],
+    },
+  },
+
   trieste: {
     history: {
       fr: `Trieste, capitale du Frioul-Vénétie Julienne et grand port adriatique des Habsbourg, fut pendant cinq siècles (1382-1918) le débouché maritime de l'empire austro-hongrois sur la Méditerranée. Marie-Thérèse d'Autriche fit construire au XVIIIe siècle le Borgo Teresiano, quartier en grille traversé par le Canal Grande, qui donna à la ville sa silhouette néo-classique encore intacte. Carrefour cosmopolite italien-slovène-juif-grec, elle accueillit James Joyce (qui y écrivit l'essentiel d'Ulysse), Italo Svevo et Umberto Saba. Aujourd'hui ville d'environ 200 000 habitants pour 22 000 chiens enregistrés, Trieste cumule Piazza Unità d'Italia (la plus grande place littorale d'Europe), le château habsbourgeois de Miramare, le plateau karstique calcaire pour les randonnées, et la Bau Beach de Barcola pour la baignade canine, le tout battu en hiver par la Bora, vent froid catabatique iconique.`,

@@ -1502,6 +1502,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the 14-hectare Parc de Sainte-Radegonde with the city's official off-leash dog area, the Loire à Vélo cycle path along the river, and the Jardin des Prébendes d'Oé 19th-century park`,
       area: `the half-timbered Vieux-Tours around Place Plumereau, the Cathédrale Saint-Gatien quarter, and the Loire-side promenade up to Vouvray`,
     },
+    treviso: {
+      personality: `Venice without the crowds, a walled Veneto city of canals, frescoed arcades and water wheels 30 minutes from the lagoon by train, where the flat Restera towpath follows the Sile river out of town and the UNESCO Prosecco hills rise 20 minutes to the north`,
+      highlight: `the Restera towpath along the Sile, the 67-hectare Parco dello Storga springs, and the fenced municipal dog runs like Parco Ducale`,
+      area: `the walled centro storico around Piazza dei Signori, the Buranelli and Pescheria canals, and the Sile riverside towards Casier`,
+    },
     trieste: {
       personality: `Friuli-Venezia Giulia's Habsburg port capital on the Adriatic, with around 22,000 registered dogs in 200,000 residents, official municipal off-leash areas, the iconic 4 km Barcola seafront with its dedicated Bau Beach, and the 22-hectare seaside Parco di Miramare`,
       highlight: `Piazza Unità d'Italia (Europe's largest seafront square), the Castello di Miramare park, and the Karst plateau trails and osmiza farmhouse wine bars above the city`,
@@ -3238,6 +3243,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la base la plus dog-friendly du Val de Loire - un centre médiéval à colombages, un réseau tram-bus Fil Bleu qui prend les petits comme les grands chiens, et quatre grands châteaux Renaissance (Villandry, Chenonceau, Amboise, Chambord) accueillant tous les chiens en laisse dans leurs célèbres jardins`,
       highlight: `le Parc de Sainte-Radegonde de 14 hectares avec l'aire d'ébats canins officielle de la ville, la piste cyclable Loire à Vélo en bord de fleuve, et le Jardin des Prébendes d'Oé du XIXᵉ siècle`,
       area: `le Vieux-Tours à colombages autour de la Place Plumereau, le quartier de la Cathédrale Saint-Gatien, et la promenade en bord de Loire vers Vouvray`,
+    },
+    treviso: {
+      personality: `Venise sans la foule, une ville fortifiée de Vénétie aux canaux, arcades à fresques et roues à aubes, à 30 minutes de la lagune en train, où le chemin de halage plat de la Restera suit le Sile hors de la ville et où les collines UNESCO du Prosecco se dressent à 20 minutes au nord`,
+      highlight: `la Restera le long du Sile, les résurgences du Parco dello Storga (67 hectares), et les aires canines clôturées municipales comme celle du Parco Ducale`,
+      area: `le centre historique fortifié autour de la Piazza dei Signori, les canaux des Buranelli et de la Pescheria, et les rives du Sile vers Casier`,
     },
     trieste: {
       personality: `la capitale habsbourgeoise du Frioul-Vénétie Julienne sur l'Adriatique, environ 22 000 chiens enregistrés pour 200 000 habitants, des aires sans laisse municipales officielles, l'emblématique front de mer de Barcola de 4 km avec sa Bau Beach dédiée, et le Parco di Miramare littoral de 22 hectares`,
@@ -4976,6 +4986,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Parc de Sainte-Radegonde de 14 hectáreas con la aire d'ébats canins oficial de la ciudad, la ruta ciclista Loire à Vélo junto al río y el Jardin des Prébendes d'Oé del siglo XIX`,
       area: `el Vieux-Tours con entramado de madera en torno a la Place Plumereau, el barrio de la Cathédrale Saint-Gatien, y el paseo a orillas del Loira hacia Vouvray`,
     },
+    treviso: {
+      personality: `Venecia sin las multitudes, una ciudad amurallada del Véneto con canales, soportales con frescos y ruedas hidráulicas, a 30 minutos de la laguna en tren, donde el llano camino de la Restera sigue el río Sile fuera de la ciudad y las colinas UNESCO del Prosecco se alzan 20 minutos al norte`,
+      highlight: `la Restera junto al Sile, los manantiales del Parco dello Storga (67 hectáreas), y las áreas caninas valladas municipales como la del Parco Ducale`,
+      area: `el centro histórico amurallado en torno a la Piazza dei Signori, los canales de los Buranelli y la Pescheria, y la ribera del Sile hacia Casier`,
+    },
     trieste: {
       personality: `la capital habsbúrgica de Friuli-Venezia Giulia sobre el Adriático, con unos 22.000 perros registrados sobre 200.000 habitantes, áreas municipales sin correa oficiales, el icónico paseo marítimo de Barcola de 4 km con su Bau Beach dedicada, y el Parco di Miramare litoral de 22 hectáreas`,
       highlight: `la Piazza Unità d'Italia (la mayor plaza marítima de Europa), el parque del Castello di Miramare, y los senderos de la meseta cárstica con las osmize, bares de vino campesinos sobre la ciudad`,
@@ -6712,6 +6727,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a base mais pet-friendly do Vale do Loire - um centro medieval com casas de tabique, uma rede de elétrico e autocarro Fil Bleu que aceita cães pequenos e grandes, e quatro grandes castelos renascentistas (Villandry, Chenonceau, Amboise, Chambord) que acolhem cães com trela nos seus famosos jardins`,
       highlight: `o Parc de Sainte-Radegonde de 14 hectares com a aire d'ébats canins oficial da cidade, a ciclovia Loire à Vélo ao longo do rio e o Jardin des Prébendes d'Oé do século XIX`,
       area: `o Vieux-Tours com casas de tabique em torno da Place Plumereau, o bairro da Cathédrale Saint-Gatien, e o passeio à beira do Loire até Vouvray`,
+    },
+    treviso: {
+      personality: `Veneza sem as multidões, uma cidade amuralhada do Vêneto com canais, arcadas com frescos e rodas de água, a 30 minutos da laguna de comboio, onde o plano caminho da Restera segue o rio Sile para fora da cidade e as colinas UNESCO do Prosecco se erguem 20 minutos a norte`,
+      highlight: `a Restera ao longo do Sile, as nascentes do Parco dello Storga (67 hectares), e as áreas caninas vedadas municipais como a do Parco Ducale`,
+      area: `o centro histórico amuralhado em torno da Piazza dei Signori, os canais dos Buranelli e da Pescheria, e a margem do Sile em direção a Casier`,
     },
     trieste: {
       personality: `a capital habsbúrgica de Friuli-Venezia Giulia sobre o Adriático, com uns 22.000 cães registados sobre 200.000 habitantes, áreas municipales sem trela oficiales, o icónico passeio marítimo de Barcola de 4 km com a sua Bau Beach dedicada, e o Parco di Miramare litoral de 22 hectáreas`,

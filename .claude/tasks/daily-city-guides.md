@@ -38,6 +38,13 @@ ls data/city-guides/ | grep -v _evidence | sort | head -20   # what exists
 
 ### Step 2 — Pick cities
 
+**PRIORITY QUEUE (work through this list FIRST, in order, before free choice).** These cities are linked from live editorial guides in `app/[locale]/guides/` and their destination links currently return 404 (Search Console has started flagging them). Check each against `data/destinations.json` and take the first 2 still missing:
+
+chamonix, zell-am-see, trento, kitzbuehel, vichy, spa, bad-gastein, heviz, aix-les-bains, saturnia, bad-ischl, kolobrzeg, swinoujscie, usedom, warnemunde, palanga, viana-do-castelo, ponte-de-lima, sesimbra, serra-da-estrela, sifnos, sibiu, orvieto, provins, orange, spoleto
+
+(Small villages/areas on this list, e.g. saturnia or serra-da-estrela, are valid destinations: model them like ile-de-re or lanzarote.)
+
+Once the queue is empty:
 - Choose 1–2 European cities with population ≥ 50 000 NOT in `data/destinations.json`.
 - Priority: (a) countries already represented, (b) tourist demand, (c) abundant EN/FR/ES web content.
 

@@ -19,7 +19,7 @@
           "name": "Oma's Küche & Quartier",
           "address": "Proraer Chaussee 2a, 18609 Ostseebad Binz",
           "neighborhood": "Binz",
-          "photo": "",
+          "photo": "/images/city-places/rugen-restaurants-oma-s-kuche-quartier.jpg",
           "website": "https://omaskuechebinz.de",
           "description": "A Binz classic serving grandma-style home cooking in a nostalgic dining room full of curiosities. Dogs are expressly welcome and the kitchen even prepares a dedicated dog menu so your four-legged companion eats too.",
           "descriptionFr": "Un classique de Binz qui sert une cuisine familiale à l'ancienne dans une salle nostalgique pleine de curiosités. Les chiens sont expressément bienvenus et la cuisine prépare même un menu spécial pour que votre compagnon mange aussi.",
@@ -45,7 +45,7 @@
           "name": "Strandhalle Binz",
           "address": "Strandpromenade 5, 18609 Ostseebad Binz",
           "neighborhood": "Binz promenade",
-          "photo": "",
+          "photo": "/images/city-places/rugen-restaurants-strandhalle-binz.jpg",
           "website": "https://strandhalle-binz.de",
           "description": "Historic beach hall on the Binz promenade with a glassed veranda and regional fish dishes. Well-behaved dogs are welcome, and the promenade location makes it an easy stop after a walk along the seafront.",
           "descriptionFr": "Halle de plage historique sur la promenade de Binz, véranda vitrée et poissons régionaux à la carte. Les chiens bien élevés sont bienvenus, et l'emplacement sur la promenade en fait une halte facile après une balade en bord de mer.",
@@ -71,7 +71,7 @@
           "name": "Zum Skipper",
           "address": "Wilhelmstraße, 18586 Ostseebad Sellin",
           "neighborhood": "Sellin",
-          "photo": "",
+          "photo": "/images/city-places/rugen-restaurants-zum-skipper.jpg",
           "website": "",
           "description": "Friendly fish restaurant on Sellin's elegant Wilhelmstrasse, the avenue that leads straight to the famous pier. Dogs are welcome and the maritime menu runs from fried herring to fresh Baltic cod.",
           "descriptionFr": "Restaurant de poisson convivial sur l'élégante Wilhelmstrasse de Sellin, l'avenue qui mène tout droit à la célèbre Seebrücke. Les chiens sont bienvenus et la carte marine va du hareng frit au cabillaud frais de la Baltique.",
@@ -109,16 +109,32 @@
           "name": "Granitz",
           "address": "Forest between Binz and Sellin, 18609 Binz",
           "neighborhood": "Southeast Rügen",
-          "photo": "",
+          "photo": "/images/city-places/rugen-parks-granitz.jpg",
           "size": "Around 1,000 hectares",
           "description": "A vast beech forest between Binz and Sellin, crowned by the Jagdschloss hunting lodge. The famous Hochuferweg clifftop path runs along its eastern edge with constant Baltic views, and it is a favourite of local dog walkers.",
           "descriptionFr": "Une vaste hêtraie entre Binz et Sellin, couronnée par le pavillon de chasse Jagdschloss. Le célèbre sentier de falaise Hochuferweg longe sa lisière est avec des vues constantes sur la Baltique, un favori des promeneurs de chiens.",
           "descriptionEs": "Un extenso hayedo entre Binz y Sellin, coronado por el pabellón de caza Jagdschloss. El famoso sendero de acantilado Hochuferweg recorre su borde oriental con vistas constantes al Báltico y es un favorito de los paseadores de perros.",
           "descriptionPt": "Uma vasta mata de faias entre Binz e Sellin, coroada pelo pavilhão de caça Jagdschloss. O famoso trilho de falésia Hochuferweg percorre a sua orla leste com vistas constantes para o Báltico e é um favorito de quem passeia cães.",
-          "features": ["Hochuferweg clifftop trail Binz-Sellin", "Shaded beech forest", "Jagdschloss Granitz park"],
-          "featuresFr": ["Sentier de falaise Hochuferweg Binz-Sellin", "Hêtraie ombragée", "Parc du Jagdschloss Granitz"],
-          "featuresEs": ["Sendero de acantilado Hochuferweg Binz-Sellin", "Hayedo sombreado", "Parque del Jagdschloss Granitz"],
-          "featuresPt": ["Trilho de falésia Hochuferweg Binz-Sellin", "Mata de faias sombreada", "Parque do Jagdschloss Granitz"],
+          "features": [
+            "Hochuferweg clifftop trail Binz-Sellin",
+            "Shaded beech forest",
+            "Jagdschloss Granitz park"
+          ],
+          "featuresFr": [
+            "Sentier de falaise Hochuferweg Binz-Sellin",
+            "Hêtraie ombragée",
+            "Parc du Jagdschloss Granitz"
+          ],
+          "featuresEs": [
+            "Sendero de acantilado Hochuferweg Binz-Sellin",
+            "Hayedo sombreado",
+            "Parque del Jagdschloss Granitz"
+          ],
+          "featuresPt": [
+            "Trilho de falésia Hochuferweg Binz-Sellin",
+            "Mata de faias sombreada",
+            "Parque do Jagdschloss Granitz"
+          ],
           "leashRules": "Leash required in the lodge park and recommended throughout the forest; forestry area with wildlife.",
           "leashRulesFr": "Laisse obligatoire dans le parc du pavillon et recommandée dans toute la forêt ; zone forestière avec faune sauvage.",
           "leashRulesEs": "Correa obligatoria en el parque del pabellón y recomendada en todo el bosque; zona forestal con fauna.",
@@ -133,16 +149,32 @@
           "name": "Nationalpark Jasmund",
           "address": "Stubbenkammer, 18546 Sassnitz",
           "neighborhood": "Jasmund peninsula",
-          "photo": "",
+          "photo": "/images/city-places/rugen-parks-nationalpark-jasmund.jpg",
           "size": "3,000 hectares",
           "description": "Germany's smallest national park protects the famous chalk cliffs and UNESCO-listed ancient beech forests around the Königsstuhl. Leashed dogs are allowed on the marked trails, including the spectacular high-shore path from Sassnitz.",
           "descriptionFr": "Le plus petit parc national d'Allemagne protège les célèbres falaises de craie et les hêtraies anciennes classées UNESCO autour du Königsstuhl. Les chiens en laisse sont admis sur les sentiers balisés, dont le spectaculaire chemin des hauts rivages depuis Sassnitz.",
           "descriptionEs": "El parque nacional más pequeño de Alemania protege los famosos acantilados de creta y los hayedos antiguos declarados UNESCO en torno al Königsstuhl. Se admiten perros con correa en los senderos señalizados, incluido el espectacular camino del litoral alto desde Sassnitz.",
           "descriptionPt": "O parque nacional mais pequeno da Alemanha protege as famosas falésias de giz e as faias antigas classificadas pela UNESCO em torno do Königsstuhl. Cães de trela são admitidos nos trilhos marcados, incluindo o espetacular caminho da costa alta desde Sassnitz.",
-          "features": ["Königsstuhl chalk cliff viewpoints", "UNESCO beech forest", "High-shore trail from Sassnitz"],
-          "featuresFr": ["Points de vue des falaises du Königsstuhl", "Hêtraie UNESCO", "Sentier des hauts rivages depuis Sassnitz"],
-          "featuresEs": ["Miradores de los acantilados del Königsstuhl", "Hayedo UNESCO", "Sendero del litoral alto desde Sassnitz"],
-          "featuresPt": ["Miradouros das falésias do Königsstuhl", "Faial UNESCO", "Trilho da costa alta desde Sassnitz"],
+          "features": [
+            "Königsstuhl chalk cliff viewpoints",
+            "UNESCO beech forest",
+            "High-shore trail from Sassnitz"
+          ],
+          "featuresFr": [
+            "Points de vue des falaises du Königsstuhl",
+            "Hêtraie UNESCO",
+            "Sentier des hauts rivages depuis Sassnitz"
+          ],
+          "featuresEs": [
+            "Miradores de los acantilados del Königsstuhl",
+            "Hayedo UNESCO",
+            "Sendero del litoral alto desde Sassnitz"
+          ],
+          "featuresPt": [
+            "Miradouros das falésias do Königsstuhl",
+            "Faial UNESCO",
+            "Trilho da costa alta desde Sassnitz"
+          ],
           "leashRules": "Dogs must be leashed at all times inside the national park; stay on marked trails.",
           "leashRulesFr": "Chiens en laisse en permanence dans le parc national ; restez sur les sentiers balisés.",
           "leashRulesEs": "Perros siempre con correa dentro del parque nacional; no salgas de los senderos señalizados.",
@@ -157,16 +189,32 @@
           "name": "Schaabe",
           "address": "Between Glowe and Juliusruh, 18551 Glowe",
           "neighborhood": "North Rügen",
-          "photo": "",
+          "photo": "/images/city-places/rugen-parks-schaabe.jpg",
           "size": "About 10 km of beach and pine forest",
           "description": "A ten-kilometre sweep of fine sand backed by a shady pine forest, linking the Jasmund and Wittow peninsulas. Outside the summer season the whole strand opens to dogs, and even in summer the forest path behind the dunes is a superb leash walk.",
           "descriptionFr": "Dix kilomètres de sable fin adossés à une pinède ombragée, reliant les péninsules de Jasmund et de Wittow. Hors saison estivale toute la plage s'ouvre aux chiens, et même en été le sentier forestier derrière les dunes est une superbe balade en laisse.",
           "descriptionEs": "Diez kilómetros de arena fina respaldados por un pinar sombreado, que unen las penínsulas de Jasmund y Wittow. Fuera de la temporada estival toda la playa se abre a los perros, e incluso en verano el sendero forestal tras las dunas es un paseo estupendo con correa.",
           "descriptionPt": "Dez quilómetros de areia fina encostados a um pinhal sombreado, ligando as penínsulas de Jasmund e Wittow. Fora da época balnear toda a praia se abre aos cães, e mesmo no verão o trilho florestal atrás das dunas é um excelente passeio de trela.",
-          "features": ["10 km of sandy beach", "Shaded pine forest path", "Quieter than the southeast resorts"],
-          "featuresFr": ["10 km de plage de sable", "Sentier ombragé sous les pins", "Plus calme que les stations du sud-est"],
-          "featuresEs": ["10 km de playa de arena", "Sendero sombreado entre pinos", "Más tranquila que los balnearios del sureste"],
-          "featuresPt": ["10 km de praia de areia", "Trilho sombreado no pinhal", "Mais calma que as estâncias do sudeste"],
+          "features": [
+            "10 km of sandy beach",
+            "Shaded pine forest path",
+            "Quieter than the southeast resorts"
+          ],
+          "featuresFr": [
+            "10 km de plage de sable",
+            "Sentier ombragé sous les pins",
+            "Plus calme que les stations du sud-est"
+          ],
+          "featuresEs": [
+            "10 km de playa de arena",
+            "Sendero sombreado entre pinos",
+            "Más tranquila que los balnearios del sureste"
+          ],
+          "featuresPt": [
+            "10 km de praia de areia",
+            "Trilho sombreado no pinhal",
+            "Mais calma que as estâncias do sudeste"
+          ],
           "leashRules": "Leash on the forest path; beach access for dogs restricted to designated sections from May to September.",
           "leashRulesFr": "Laisse sur le sentier forestier ; accès plage limité aux sections désignées de mai à septembre.",
           "leashRulesEs": "Correa en el sendero forestal; acceso a la playa limitado a tramos señalizados de mayo a septiembre.",
@@ -395,24 +443,60 @@
         "Verifique os avisos de banho no fim do verão: florações ocasionais de cianobactérias tornam o banho brevemente perigoso para os cães; as bandeiras de praia e os sites das estâncias anunciam os encerramentos."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog to the beach on Rügen in summer?", "a": "Yes, but only on the designated Hundestrand sections between 1 May and 30 September. Binz, Sellin, Baabe, Göhren and most other resorts keep official dog beaches; from October to April nearly the whole coastline opens to dogs."},
-        {"q": "Is there a fee for bringing a dog to Rügen?", "a": "Most resorts charge a small daily dog tax (Hundekurtaxe) alongside the regular visitor tax; in Binz it is 2 EUR per day in 2026. Your accommodation collects it at check-in."},
-        {"q": "Are dogs allowed at the Königsstuhl chalk cliffs?", "a": "Leashed dogs are welcome on the marked trails of Jasmund National Park, including the high-shore path to the cliff viewpoints. Note that the treetop walk at Prora does not admit dogs, though free kennels with water are provided at its entrance."}
+        {
+          "q": "Can I take my dog to the beach on Rügen in summer?",
+          "a": "Yes, but only on the designated Hundestrand sections between 1 May and 30 September. Binz, Sellin, Baabe, Göhren and most other resorts keep official dog beaches; from October to April nearly the whole coastline opens to dogs."
+        },
+        {
+          "q": "Is there a fee for bringing a dog to Rügen?",
+          "a": "Most resorts charge a small daily dog tax (Hundekurtaxe) alongside the regular visitor tax; in Binz it is 2 EUR per day in 2026. Your accommodation collects it at check-in."
+        },
+        {
+          "q": "Are dogs allowed at the Königsstuhl chalk cliffs?",
+          "a": "Leashed dogs are welcome on the marked trails of Jasmund National Park, including the high-shore path to the cliff viewpoints. Note that the treetop walk at Prora does not admit dogs, though free kennels with water are provided at its entrance."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je emmener mon chien à la plage à Rügen en été ?", "a": "Oui, mais uniquement sur les sections Hundestrand désignées entre le 1er mai et le 30 septembre. Binz, Sellin, Baabe, Göhren et la plupart des stations entretiennent des plages canines officielles ; d'octobre à avril, presque tout le littoral est ouvert aux chiens."},
-        {"q": "Y a-t-il une taxe pour venir à Rügen avec un chien ?", "a": "La plupart des stations facturent une petite taxe de séjour canine (Hundekurtaxe) en plus de la taxe classique ; à Binz elle est de 2 EUR par jour en 2026. Votre hébergement l'encaisse à l'arrivée."},
-        {"q": "Les chiens sont-ils admis aux falaises du Königsstuhl ?", "a": "Les chiens en laisse sont bienvenus sur les sentiers balisés du parc national de Jasmund, y compris le chemin des hauts rivages vers les points de vue. Attention, le chemin des cimes de Prora n'admet pas les chiens, mais des box gratuits avec eau sont fournis à l'entrée."}
+        {
+          "q": "Puis-je emmener mon chien à la plage à Rügen en été ?",
+          "a": "Oui, mais uniquement sur les sections Hundestrand désignées entre le 1er mai et le 30 septembre. Binz, Sellin, Baabe, Göhren et la plupart des stations entretiennent des plages canines officielles ; d'octobre à avril, presque tout le littoral est ouvert aux chiens."
+        },
+        {
+          "q": "Y a-t-il une taxe pour venir à Rügen avec un chien ?",
+          "a": "La plupart des stations facturent une petite taxe de séjour canine (Hundekurtaxe) en plus de la taxe classique ; à Binz elle est de 2 EUR par jour en 2026. Votre hébergement l'encaisse à l'arrivée."
+        },
+        {
+          "q": "Les chiens sont-ils admis aux falaises du Königsstuhl ?",
+          "a": "Les chiens en laisse sont bienvenus sur les sentiers balisés du parc national de Jasmund, y compris le chemin des hauts rivages vers les points de vue. Attention, le chemin des cimes de Prora n'admet pas les chiens, mais des box gratuits avec eau sont fournis à l'entrée."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo llevar a mi perro a la playa en Rügen en verano?", "a": "Sí, pero solo en los tramos Hundestrand designados entre el 1 de mayo y el 30 de septiembre. Binz, Sellin, Baabe, Göhren y la mayoría de los balnearios mantienen playas caninas oficiales; de octubre a abril casi todo el litoral se abre a los perros."},
-        {"q": "¿Hay que pagar por llevar un perro a Rügen?", "a": "La mayoría de los balnearios cobran una pequeña tasa turística canina (Hundekurtaxe) además de la tasa normal; en Binz es de 2 EUR al día en 2026. Tu alojamiento la cobra a la llegada."},
-        {"q": "¿Se admiten perros en los acantilados del Königsstuhl?", "a": "Los perros con correa son bienvenidos en los senderos señalizados del Parque Nacional de Jasmund, incluido el camino del litoral alto hacia los miradores. Ojo: la pasarela de las copas de Prora no admite perros, aunque ofrece boxes gratuitos con agua en la entrada."}
+        {
+          "q": "¿Puedo llevar a mi perro a la playa en Rügen en verano?",
+          "a": "Sí, pero solo en los tramos Hundestrand designados entre el 1 de mayo y el 30 de septiembre. Binz, Sellin, Baabe, Göhren y la mayoría de los balnearios mantienen playas caninas oficiales; de octubre a abril casi todo el litoral se abre a los perros."
+        },
+        {
+          "q": "¿Hay que pagar por llevar un perro a Rügen?",
+          "a": "La mayoría de los balnearios cobran una pequeña tasa turística canina (Hundekurtaxe) además de la tasa normal; en Binz es de 2 EUR al día en 2026. Tu alojamiento la cobra a la llegada."
+        },
+        {
+          "q": "¿Se admiten perros en los acantilados del Königsstuhl?",
+          "a": "Los perros con correa son bienvenidos en los senderos señalizados del Parque Nacional de Jasmund, incluido el camino del litoral alto hacia los miradores. Ojo: la pasarela de las copas de Prora no admite perros, aunque ofrece boxes gratuitos con agua en la entrada."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso levar o meu cão à praia em Rügen no verão?", "a": "Sim, mas apenas nos troços Hundestrand designados entre 1 de maio e 30 de setembro. Binz, Sellin, Baabe, Göhren e a maioria das estâncias mantêm praias caninas oficiais; de outubro a abril quase todo o litoral se abre aos cães."},
-        {"q": "Paga-se alguma taxa por levar um cão a Rügen?", "a": "A maioria das estâncias cobra uma pequena taxa turística canina (Hundekurtaxe) além da taxa normal; em Binz é de 2 EUR por dia em 2026. O seu alojamento cobra-a no check-in."},
-        {"q": "Os cães são admitidos nas falésias do Königsstuhl?", "a": "Cães de trela são bem-vindos nos trilhos marcados do Parque Nacional de Jasmund, incluindo o caminho da costa alta até aos miradouros. Atenção: o passadiço das copas em Prora não admite cães, mas oferece boxes gratuitos com água na entrada."}
+        {
+          "q": "Posso levar o meu cão à praia em Rügen no verão?",
+          "a": "Sim, mas apenas nos troços Hundestrand designados entre 1 de maio e 30 de setembro. Binz, Sellin, Baabe, Göhren e a maioria das estâncias mantêm praias caninas oficiais; de outubro a abril quase todo o litoral se abre aos cães."
+        },
+        {
+          "q": "Paga-se alguma taxa por levar um cão a Rügen?",
+          "a": "A maioria das estâncias cobra uma pequena taxa turística canina (Hundekurtaxe) além da taxa normal; em Binz é de 2 EUR por dia em 2026. O seu alojamento cobra-a no check-in."
+        },
+        {
+          "q": "Os cães são admitidos nas falésias do Königsstuhl?",
+          "a": "Cães de trela são bem-vindos nos trilhos marcados do Parque Nacional de Jasmund, incluindo o caminho da costa alta até aos miradouros. Atenção: o passadiço das copas em Prora não admite cães, mas oferece boxes gratuitos com água na entrada."
+        }
       ]
     },
     "attractions": {
@@ -428,7 +512,7 @@
         {
           "name": "Jagdschloss Granitz",
           "address": "Jagdschlossweg, 18609 Ostseebad Binz",
-          "photo": "",
+          "photo": "/images/city-places/rugen-attractions-jagdschloss-granitz.jpg",
           "description": "A turreted 19th-century hunting lodge on the highest hill of southeast Rügen, with a cast-iron tower overlooking the whole coastline. Leashed dogs may explore the surrounding lodge park and forest paths, though not the castle rooms themselves.",
           "descriptionFr": "Un pavillon de chasse du XIXe siècle à tourelles sur la plus haute colline du sud-est de Rügen, avec une tour en fonte dominant tout le littoral. Les chiens en laisse peuvent explorer le parc du pavillon et les sentiers forestiers, mais pas les salles du château.",
           "descriptionEs": "Un pabellón de caza del siglo XIX con torreones en la colina más alta del sureste de Rügen, con una torre de hierro fundido que domina todo el litoral. Los perros con correa pueden explorar el parque y los senderos del bosque, aunque no las salas del castillo.",
@@ -440,7 +524,7 @@
         {
           "name": "Seebrücke Sellin",
           "address": "Seebrücke, 18586 Ostseebad Sellin",
-          "photo": "",
+          "photo": "/images/city-places/rugen-attractions-seebrucke-sellin.jpg",
           "description": "Rügen's postcard icon: a 394-metre pier with a white pavilion restaurant, rebuilt in the elegant style of 1927. Leashed dogs are allowed along the boardwalk, and the dog beach section lies conveniently right beside it.",
           "descriptionFr": "L'icône de carte postale de Rügen : une jetée de 394 mètres avec son pavillon-restaurant blanc, reconstruite dans l'élégant style de 1927. Les chiens en laisse sont admis sur la promenade en bois, et la section de plage canine se trouve juste à côté.",
           "descriptionEs": "El icono de postal de Rügen: un muelle de 394 metros con un pabellón-restaurante blanco, reconstruido en el elegante estilo de 1927. Los perros con correa pueden recorrer la pasarela, y el tramo de playa canina queda justo al lado.",
@@ -452,7 +536,7 @@
         {
           "name": "Naturerbe Zentrum Rügen (Prora)",
           "address": "Forsthaus Prora 1, 18609 Ostseebad Binz",
-          "photo": "",
+          "photo": "/images/city-places/rugen-attractions-naturerbe-zentrum-rugen-prora.jpg",
           "description": "The natural heritage centre at Prora is famous for its 1,250-metre treetop walk ending in the 40-metre Adlerhorst tower. Dogs are not permitted on the walkway itself, but the centre provides free shaded kennels with drinking water at the entrance while you climb.",
           "descriptionFr": "Le centre du patrimoine naturel de Prora est célèbre pour son chemin des cimes de 1 250 mètres qui s'achève par la tour Adlerhorst de 40 mètres. Les chiens ne sont pas admis sur la passerelle, mais le centre fournit des box ombragés gratuits avec eau à l'entrée pendant votre ascension.",
           "descriptionEs": "El centro del patrimonio natural de Prora es famoso por su pasarela entre copas de 1.250 metros que culmina en la torre Adlerhorst de 40 metros. Los perros no pueden subir a la pasarela, pero el centro ofrece boxes sombreados gratuitos con agua en la entrada mientras subes.",

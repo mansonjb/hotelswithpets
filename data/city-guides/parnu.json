@@ -19,7 +19,7 @@
           "name": "Supelsaksad",
           "address": "Nikolai 32, 80010 Pärnu",
           "neighborhood": "Between old town and the beach",
-          "photo": "",
+          "photo": "/images/city-places/parnu-restaurants-supelsaksad.jpg",
           "website": "https://visitparnu.com/en/objekt/cafe-supelsaksad/",
           "description": "A beloved cafe in a 150-year-old log villa halfway between the old town and the beach, all pastel rooms and homemade cakes. It is on the tourist board's own list of dog-friendly addresses, so your companion is expected, not tolerated.",
           "descriptionFr": "Un café adoré dans une villa en rondins de 150 ans à mi-chemin entre la vieille ville et la plage, salles pastel et gâteaux maison. Il figure sur la liste officielle des adresses dog-friendly de l'office de tourisme : votre compagnon y est attendu, pas toléré.",
@@ -45,7 +45,7 @@
           "name": "Steffani Pitsarestoran",
           "address": "Nikolai 24, 80010 Pärnu",
           "neighborhood": "Old town",
-          "photo": "",
+          "photo": "/images/city-places/parnu-restaurants-steffani-pitsarestoran.jpg",
           "website": "https://steffani.ee",
           "description": "Pärnu's classic pizza restaurant since the 1990s, with a big summer terrace a short walk from the Town Hall. It appears on Visit Pärnu's dog-friendly list, and the terrace comfortably fits a dog next to the table.",
           "descriptionFr": "Le restaurant de pizzas classique de Pärnu depuis les années 1990, avec une grande terrasse d'été à deux pas de l'hôtel de ville. Il figure sur la liste dog-friendly de Visit Pärnu, et la terrasse accueille sans problème un chien à côté de la table.",
@@ -71,7 +71,7 @@
           "name": "Pärnu Jahtklubi restoran",
           "address": "Lootsi 6, 80012 Pärnu",
           "neighborhood": "Pärnu river marina",
-          "photo": "",
+          "photo": "/images/city-places/parnu-restaurants-parnu-jahtklubi-restoran.jpg",
           "website": "https://jahtklubi.ee/restaurant",
           "description": "The yacht club restaurant sits on the bank of the Pärnu river between the centre and the beach, with masts and river traffic for a backdrop. Visit Pärnu lists it among the city's dog-friendly restaurants, and the marina walk before dinner is a bonus.",
           "descriptionFr": "Le restaurant du yacht-club est posé sur la rive du fleuve Pärnu entre le centre et la plage, avec les mâts et le trafic fluvial en toile de fond. Visit Pärnu le classe parmi les restaurants dog-friendly de la ville, et la balade sur la marina avant le dîner est un bonus.",
@@ -109,16 +109,32 @@
           "name": "Pärnu koerte jalutusväljak (Mai dog park)",
           "address": "Beside the Mai light-traffic road, Mai district, Pärnu",
           "neighborhood": "Mai",
-          "photo": "",
+          "photo": "/images/city-places/parnu-parks-parnu-koerte-jalutusvaljak-mai-dog-park.jpg",
           "size": "Two fenced areas",
           "description": "The city's proper fenced dog park, split into separate areas for large and small dogs, with hills, bushes and agility gear including ramps, steps and a tunnel. It is the only place in Pärnu, together with the training ground, where dogs may legally run off-leash.",
           "descriptionFr": "Le vrai parc canin clôturé de la ville, divisé en zones séparées pour grands et petits chiens, avec buttes, buissons et agrès d'agility (rampes, marches, tunnel). C'est le seul endroit de Pärnu, avec le terrain d'entraînement, où les chiens peuvent légalement courir sans laisse.",
           "descriptionEs": "El auténtico parque canino vallado de la ciudad, dividido en zonas separadas para perros grandes y pequeños, con lomas, arbustos y equipamiento de agility (rampas, escalones, túnel). Es el único lugar de Pärnu, junto con el campo de adiestramiento, donde los perros pueden correr legalmente sin correa.",
           "descriptionPt": "O verdadeiro parque canino vedado da cidade, dividido em zonas separadas para cães grandes e pequenos, com montículos, arbustos e equipamento de agility (rampas, degraus, túnel). É o único lugar de Pärnu, junto com o campo de treino, onde os cães podem correr legalmente sem trela.",
-          "features": ["Separate big-dog and small-dog areas", "Agility ramps, steps and tunnel", "Close to Mai beach dog swimming spot"],
-          "featuresFr": ["Zones séparées grands/petits chiens", "Rampes, marches et tunnel d'agility", "Proche du spot de baignade canine de Mai"],
-          "featuresEs": ["Zonas separadas para perros grandes y pequeños", "Rampas, escalones y túnel de agility", "Cerca del punto de baño canino de Mai"],
-          "featuresPt": ["Zonas separadas para cães grandes e pequenos", "Rampas, degraus e túnel de agility", "Perto do local de banho canino de Mai"],
+          "features": [
+            "Separate big-dog and small-dog areas",
+            "Agility ramps, steps and tunnel",
+            "Close to Mai beach dog swimming spot"
+          ],
+          "featuresFr": [
+            "Zones séparées grands/petits chiens",
+            "Rampes, marches et tunnel d'agility",
+            "Proche du spot de baignade canine de Mai"
+          ],
+          "featuresEs": [
+            "Zonas separadas para perros grandes y pequeños",
+            "Rampas, escalones y túnel de agility",
+            "Cerca del punto de baño canino de Mai"
+          ],
+          "featuresPt": [
+            "Zonas separadas para cães grandes e pequenos",
+            "Rampas, degraus e túnel de agility",
+            "Perto do local de banho canino de Mai"
+          ],
           "leashRules": "Off-leash allowed inside the fences; leash required on the way there.",
           "leashRulesFr": "Sans laisse autorisé à l'intérieur des clôtures ; laisse obligatoire sur le trajet.",
           "leashRulesEs": "Sin correa permitido dentro del vallado; correa obligatoria en el trayecto.",
@@ -133,16 +149,32 @@
           "name": "Vallikäär",
           "address": "Between the old town and the beach district, Pärnu",
           "neighborhood": "Old town edge",
-          "photo": "",
+          "photo": "/images/city-places/parnu-parks-vallikaar.jpg",
           "size": "Historic moat park",
           "description": "The green moat of Pärnu's 17th-century Swedish bastions, now a curving park of lawns, water and footbridges with Estonia's tallest fountain in the canal. A classic leash loop between the old town and the sea, with summer concerts animating the amphitheatre.",
           "descriptionFr": "Le fossé végétalisé des bastions suédois du XVIIe siècle de Pärnu, devenu un parc en croissant de pelouses, d'eau et de passerelles, avec la plus haute fontaine d'Estonie dans le canal. Une boucle classique en laisse entre la vieille ville et la mer, animée l'été par des concerts dans l'amphithéâtre.",
           "descriptionEs": "El foso verde de los bastiones suecos del siglo XVII de Pärnu, hoy un parque curvo de céspedes, agua y pasarelas con la fuente más alta de Estonia en el canal. Un bucle clásico con correa entre el casco antiguo y el mar, animado en verano por conciertos en el anfiteatro.",
           "descriptionPt": "O fosso verde dos bastiões suecos do século XVII de Pärnu, hoje um parque curvo de relvados, água e passadiços com a fonte mais alta da Estónia no canal. Um circuito clássico de trela entre o centro histórico e o mar, animado no verão por concertos no anfiteatro.",
-          "features": ["17th-century bastion moat", "Estonia's tallest fountain", "Footbridges and lawns"],
-          "featuresFr": ["Fossé de bastion du XVIIe siècle", "La plus haute fontaine d'Estonie", "Passerelles et pelouses"],
-          "featuresEs": ["Foso de bastión del siglo XVII", "La fuente más alta de Estonia", "Pasarelas y céspedes"],
-          "featuresPt": ["Fosso de bastião do século XVII", "A fonte mais alta da Estónia", "Passadiços e relvados"],
+          "features": [
+            "17th-century bastion moat",
+            "Estonia's tallest fountain",
+            "Footbridges and lawns"
+          ],
+          "featuresFr": [
+            "Fossé de bastion du XVIIe siècle",
+            "La plus haute fontaine d'Estonie",
+            "Passerelles et pelouses"
+          ],
+          "featuresEs": [
+            "Foso de bastión del siglo XVII",
+            "La fuente más alta de Estonia",
+            "Pasarelas y céspedes"
+          ],
+          "featuresPt": [
+            "Fosso de bastião do século XVII",
+            "A fonte mais alta da Estónia",
+            "Passadiços e relvados"
+          ],
           "leashRules": "Leash required, as everywhere in Pärnu's public areas; avoid the amphitheatre during big events or add a muzzle in dense crowds.",
           "leashRulesFr": "Laisse obligatoire, comme partout dans l'espace public de Pärnu ; évitez l'amphithéâtre pendant les grands événements ou ajoutez une muselière dans la foule dense.",
           "leashRulesEs": "Correa obligatoria, como en todos los espacios públicos de Pärnu; evita el anfiteatro durante grandes eventos o añade bozal entre multitudes densas.",
@@ -157,16 +189,32 @@
           "name": "Pärnu rannaniidu matkarada",
           "address": "Coastal meadow south of Pärnu beach, Pärnu",
           "neighborhood": "Rannaniit",
-          "photo": "",
+          "photo": "/images/city-places/parnu-parks-parnu-rannaniidu-matkarada.jpg",
           "size": "341-hectare coastal meadow reserve, 600 m boardwalk",
           "description": "A boardwalk trail with a viewing platform through the protected coastal meadow beside the beach, where city cows graze and wading birds nest. Dogs on a tight leash can join the walk; the observation tower views over the bay reward the detour.",
           "descriptionFr": "Un sentier sur platelage avec plateforme d'observation à travers la prairie côtière protégée voisine de la plage, où paissent les vaches de la ville et nichent les limicoles. Les chiens en laisse courte peuvent faire la balade ; la vue sur la baie depuis la tour d'observation récompense le détour.",
           "descriptionEs": "Un sendero de pasarela con plataforma mirador por la pradera costera protegida junto a la playa, donde pastan las vacas urbanas y anidan aves limícolas. Los perros con correa corta pueden hacer el paseo; las vistas de la bahía desde la torre de observación premian el desvío.",
           "descriptionPt": "Um trilho de passadiço com plataforma de observação pelo prado costeiro protegido junto à praia, onde pastam as vacas da cidade e nidificam aves limícolas. Cães de trela curta podem fazer o passeio; a vista da baía desde a torre de observação recompensa o desvio.",
-          "features": ["600 m boardwalk with viewing platform", "Protected coastal meadow with grazing cows", "Links to the beach promenade"],
-          "featuresFr": ["Platelage de 600 m avec plateforme d'observation", "Prairie côtière protégée avec vaches au pâturage", "Relié à la promenade de la plage"],
-          "featuresEs": ["Pasarela de 600 m con plataforma mirador", "Pradera costera protegida con vacas pastando", "Conecta con el paseo de la playa"],
-          "featuresPt": ["Passadiço de 600 m com plataforma de observação", "Prado costeiro protegido com vacas a pastar", "Liga ao passeio da praia"],
+          "features": [
+            "600 m boardwalk with viewing platform",
+            "Protected coastal meadow with grazing cows",
+            "Links to the beach promenade"
+          ],
+          "featuresFr": [
+            "Platelage de 600 m avec plateforme d'observation",
+            "Prairie côtière protégée avec vaches au pâturage",
+            "Relié à la promenade de la plage"
+          ],
+          "featuresEs": [
+            "Pasarela de 600 m con plataforma mirador",
+            "Pradera costera protegida con vacas pastando",
+            "Conecta con el paseo de la playa"
+          ],
+          "featuresPt": [
+            "Passadiço de 600 m com plataforma de observação",
+            "Prado costeiro protegido com vacas a pastar",
+            "Liga ao passeio da praia"
+          ],
           "leashRules": "Keep dogs leashed on the boardwalk: nesting birds and grazing cattle share the reserve.",
           "leashRulesFr": "Gardez les chiens en laisse sur le platelage : oiseaux nicheurs et bétail partagent la réserve.",
           "leashRulesEs": "Mantén al perro con correa en la pasarela: aves nidificantes y ganado comparten la reserva.",
@@ -395,24 +443,60 @@
         "Não há comboio de passageiros para Pärnu: chegue de carro ou autocarro, e note que a Lux Express só aceita animais em caixa de 40 x 40 cm nas rotas domésticas."
       ],
       "faqsEn": [
-        {"q": "Can my dog swim at Pärnu beach?", "a": "Not at the central beach in the bathing season, but the city designates four official dog swimming spots: the left bank of the river by the mole, Mai beach, Vana-Pärnu beach and Raeküla beach. All are close to the resort quarter."},
-        {"q": "Where can my dog run off-leash in Pärnu?", "a": "Only in the fenced dog park beside the Mai light-traffic road, which has separate areas for large and small dogs plus agility equipment, and at the dog training ground. Everywhere else a leash is mandatory."},
-        {"q": "Is there a 24-hour vet in Pärnu?", "a": "No. Terveks (Riia mnt 109) and PetCity in the Pärnu Keskus cover daytime and weekend care; for overnight emergencies call Estonia's 24/7 short number 15222, which runs phone triage and the pet ambulance from Tallinn, about two hours away."}
+        {
+          "q": "Can my dog swim at Pärnu beach?",
+          "a": "Not at the central beach in the bathing season, but the city designates four official dog swimming spots: the left bank of the river by the mole, Mai beach, Vana-Pärnu beach and Raeküla beach. All are close to the resort quarter."
+        },
+        {
+          "q": "Where can my dog run off-leash in Pärnu?",
+          "a": "Only in the fenced dog park beside the Mai light-traffic road, which has separate areas for large and small dogs plus agility equipment, and at the dog training ground. Everywhere else a leash is mandatory."
+        },
+        {
+          "q": "Is there a 24-hour vet in Pärnu?",
+          "a": "No. Terveks (Riia mnt 109) and PetCity in the Pärnu Keskus cover daytime and weekend care; for overnight emergencies call Estonia's 24/7 short number 15222, which runs phone triage and the pet ambulance from Tallinn, about two hours away."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il se baigner à la plage de Pärnu ?", "a": "Pas à la plage centrale en saison balnéaire, mais la ville désigne quatre spots officiels de baignade canine : la rive gauche du fleuve près du môle, la plage de Mai, la plage de Vana-Pärnu et la plage de Raeküla. Tous sont proches du quartier balnéaire."},
-        {"q": "Où mon chien peut-il courir sans laisse à Pärnu ?", "a": "Uniquement dans le parc canin clôturé près de la voie douce de Mai, qui a des zones séparées pour grands et petits chiens plus des agrès d'agility, et sur le terrain d'entraînement canin. Partout ailleurs, la laisse est obligatoire."},
-        {"q": "Y a-t-il un vétérinaire 24h/24 à Pärnu ?", "a": "Non. Terveks (Riia mnt 109) et PetCity dans le Pärnu Keskus couvrent la journée et le week-end ; pour les urgences nocturnes, appelez le numéro court estonien 15222, qui assure le triage téléphonique et l'ambulance animalière depuis Tallinn, à environ deux heures."}
+        {
+          "q": "Mon chien peut-il se baigner à la plage de Pärnu ?",
+          "a": "Pas à la plage centrale en saison balnéaire, mais la ville désigne quatre spots officiels de baignade canine : la rive gauche du fleuve près du môle, la plage de Mai, la plage de Vana-Pärnu et la plage de Raeküla. Tous sont proches du quartier balnéaire."
+        },
+        {
+          "q": "Où mon chien peut-il courir sans laisse à Pärnu ?",
+          "a": "Uniquement dans le parc canin clôturé près de la voie douce de Mai, qui a des zones séparées pour grands et petits chiens plus des agrès d'agility, et sur le terrain d'entraînement canin. Partout ailleurs, la laisse est obligatoire."
+        },
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Pärnu ?",
+          "a": "Non. Terveks (Riia mnt 109) et PetCity dans le Pärnu Keskus couvrent la journée et le week-end ; pour les urgences nocturnes, appelez le numéro court estonien 15222, qui assure le triage téléphonique et l'ambulance animalière depuis Tallinn, à environ deux heures."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puede mi perro bañarse en la playa de Pärnu?", "a": "No en la playa central en temporada de baño, pero la ciudad designa cuatro puntos oficiales de baño canino: la orilla izquierda del río junto al espigón, la playa de Mai, la playa de Vana-Pärnu y la playa de Raeküla. Todos están cerca del barrio balneario."},
-        {"q": "¿Dónde puede correr mi perro sin correa en Pärnu?", "a": "Solo en el parque canino vallado junto a la vía verde de Mai, con zonas separadas para perros grandes y pequeños y equipamiento de agility, y en el campo de adiestramiento. En el resto de la ciudad la correa es obligatoria."},
-        {"q": "¿Hay veterinario 24 horas en Pärnu?", "a": "No. Terveks (Riia mnt 109) y PetCity en el Pärnu Keskus cubren el día y el fin de semana; para urgencias nocturnas llama al número corto estonio 15222, que ofrece triaje telefónico y la ambulancia de mascotas desde Tallin, a unas dos horas."}
+        {
+          "q": "¿Puede mi perro bañarse en la playa de Pärnu?",
+          "a": "No en la playa central en temporada de baño, pero la ciudad designa cuatro puntos oficiales de baño canino: la orilla izquierda del río junto al espigón, la playa de Mai, la playa de Vana-Pärnu y la playa de Raeküla. Todos están cerca del barrio balneario."
+        },
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Pärnu?",
+          "a": "Solo en el parque canino vallado junto a la vía verde de Mai, con zonas separadas para perros grandes y pequeños y equipamiento de agility, y en el campo de adiestramiento. En el resto de la ciudad la correa es obligatoria."
+        },
+        {
+          "q": "¿Hay veterinario 24 horas en Pärnu?",
+          "a": "No. Terveks (Riia mnt 109) y PetCity en el Pärnu Keskus cubren el día y el fin de semana; para urgencias nocturnas llama al número corto estonio 15222, que ofrece triaje telefónico y la ambulancia de mascotas desde Tallin, a unas dos horas."
+        }
       ],
       "faqsPt": [
-        {"q": "O meu cão pode nadar na praia de Pärnu?", "a": "Não na praia central durante a época balnear, mas a cidade designa quatro locais oficiais de banho canino: a margem esquerda do rio junto ao molhe, a praia de Mai, a praia de Vana-Pärnu e a praia de Raeküla. Todos ficam perto do bairro balnear."},
-        {"q": "Onde pode o meu cão correr sem trela em Pärnu?", "a": "Apenas no parque canino vedado junto à ciclovia de Mai, com zonas separadas para cães grandes e pequenos e equipamento de agility, e no campo de treino canino. Em todo o resto da cidade a trela é obrigatória."},
-        {"q": "Há veterinário 24 horas em Pärnu?", "a": "Não. A Terveks (Riia mnt 109) e a PetCity no Pärnu Keskus cobrem o dia e o fim de semana; para urgências noturnas ligue para o número curto estónio 15222, que faz triagem telefónica e envia a ambulância para animais desde Tallinn, a cerca de duas horas."}
+        {
+          "q": "O meu cão pode nadar na praia de Pärnu?",
+          "a": "Não na praia central durante a época balnear, mas a cidade designa quatro locais oficiais de banho canino: a margem esquerda do rio junto ao molhe, a praia de Mai, a praia de Vana-Pärnu e a praia de Raeküla. Todos ficam perto do bairro balnear."
+        },
+        {
+          "q": "Onde pode o meu cão correr sem trela em Pärnu?",
+          "a": "Apenas no parque canino vedado junto à ciclovia de Mai, com zonas separadas para cães grandes e pequenos e equipamento de agility, e no campo de treino canino. Em todo o resto da cidade a trela é obrigatória."
+        },
+        {
+          "q": "Há veterinário 24 horas em Pärnu?",
+          "a": "Não. A Terveks (Riia mnt 109) e a PetCity no Pärnu Keskus cobrem o dia e o fim de semana; para urgências noturnas ligue para o número curto estónio 15222, que faz triagem telefónica e envia a ambulância para animais desde Tallinn, a cerca de duas horas."
+        }
       ]
     },
     "attractions": {
@@ -428,7 +512,7 @@
         {
           "name": "Rüütli tänav",
           "address": "Rüütli street, Pärnu old town",
-          "photo": "",
+          "photo": "/images/city-places/parnu-attractions-ruutli-tanav.jpg",
           "description": "The pedestrian spine of the old town, lined with pastel wooden houses, baroque merchant manors, cafes and small shops. Leashed dogs stroll it comfortably, and many terraces along the way set out water bowls in summer.",
           "descriptionFr": "L'artère piétonne de la vieille ville, bordée de maisons en bois pastel, de demeures marchandes baroques, de cafés et de petites boutiques. Les chiens en laisse s'y promènent sans souci, et beaucoup de terrasses sortent des gamelles d'eau en été.",
           "descriptionEs": "La arteria peatonal del casco antiguo, flanqueada por casas de madera pastel, mansiones mercantiles barrocas, cafés y pequeñas tiendas. Los perros con correa la pasean cómodamente, y muchas terrazas sacan cuencos de agua en verano.",
@@ -440,7 +524,7 @@
         {
           "name": "Rannapromenaad",
           "address": "Beach promenade, Pärnu beach district",
-          "photo": "",
+          "photo": "/images/city-places/parnu-attractions-rannapromenaad.jpg",
           "description": "The rebuilt timber beach promenade links historic bathhouses, art-deco cabins and wave-shaped benches along the bay. Dogs on a leash are welcome on the promenade year-round even when the central sand itself is off-limits in the bathing season.",
           "descriptionFr": "La promenade de plage en bois reconstruite relie bains historiques, cabines art déco et bancs en forme de vague le long de la baie. Les chiens en laisse y sont bienvenus toute l'année, même quand le sable central leur est interdit en saison balnéaire.",
           "descriptionEs": "El paseo marítimo de madera reconstruido une casas de baños históricas, cabinas art déco y bancos en forma de ola a lo largo de la bahía. Los perros con correa son bienvenidos en el paseo todo el año, incluso cuando la arena central les está vetada en temporada de baño.",
@@ -452,7 +536,7 @@
         {
           "name": "Vallikäär ja Tallinna värav",
           "address": "Vallikäär and the Tallinn Gate, Pärnu",
-          "photo": "",
+          "photo": "/images/city-places/parnu-attractions-vallikaar-ja-tallinna-varav.jpg",
           "description": "The bastion moat park and the 17th-century Tallinn Gate, the only surviving Swedish-era town gate in the Baltics, form Pärnu's most atmospheric corner. Both are open-air and perfect leash territory, with the country's tallest fountain playing in the canal.",
           "descriptionFr": "Le parc du fossé des bastions et la porte de Tallinn du XVIIe siècle, seule porte de ville d'époque suédoise conservée dans les pays baltes, forment le coin le plus atmosphérique de Pärnu. Les deux sont en plein air et parfaits en laisse, avec la plus haute fontaine du pays dans le canal.",
           "descriptionEs": "El parque del foso de los bastiones y la Puerta de Tallin del siglo XVII, la única puerta urbana de época sueca conservada en el Báltico, forman el rincón más atmosférico de Pärnu. Ambos son al aire libre y perfectos con correa, con la fuente más alta del país en el canal.",

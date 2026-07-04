@@ -26566,5 +26566,79 @@
         "icon": "❄️"
       }
     }
+  },
+  {
+    "slug": "olomouc",
+    "name": "Olomouc",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "flag": "🇨🇿",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/olomouc.jpg",
+    "intro": "Moravia's baroque secret is everything over-touristed Europe is not: UNESCO monuments without queues, a green belt of rampart parks around the old town, forest trails up the Svatý Kopeček pilgrimage hill, two vet clinics with round-the-clock emergency cover, and a genuine rarity, a zoo that admits leashed, muzzled dogs for a 100 CZK ticket.",
+    "lat": 49.5938,
+    "lng": 17.2509,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold & crisp",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 5,
+        "desc": "Chilly, first sun",
+        "icon": "🌥️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild & fresh",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Pleasant & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & settled",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool & misty",
+        "icon": "🌥️"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cold & foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Freezing & festive",
+        "icon": "❄️"
+      }
+    }
   }
 ]

@@ -21558,6 +21558,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  olomouc: {
+    history: {
+      fr: `Olomouc, capitale historique de la Moravie, fut l'une des plus puissantes villes des terres tchèques : siège épiscopal dès 1063, université fondée en 1573, et forteresse impériale qui hébergea la cour des Habsbourg fuyant la révolution de 1848. Sa colonne de la Sainte-Trinité, 35 mètres de sculpture baroque achevés en 1754, est classée UNESCO depuis 2000, et ses six fontaines baroques ponctuent des places où l'horloge astronomique communiste de 1955 répond à l'hôtel de ville gothique. Ville universitaire d'environ 100 000 habitants, Olomouc reste le grand secret anti-surtourisme d'Europe centrale : les monuments de Prague sans les foules. Avec un chien, la configuration est idéale : ceinture de parcs sur les anciens remparts (laisse obligatoire), plaine alluviale de la Morava pour les courses libres, colline forestière de Svatý Kopeček, et rareté absolue, un zoo qui admet les chiens muselés en laisse pour 100 CZK.`,
+      en: `Olomouc, the historic capital of Moravia, was one of the most powerful cities of the Czech lands: an episcopal seat from 1063, a university founded in 1573, and an imperial fortress that sheltered the Habsburg court fleeing the 1848 revolution. Its Holy Trinity Column, 35 meters of baroque sculpture completed in 1754, has been UNESCO-listed since 2000, and its six baroque fountains punctuate squares where the communist-era astronomical clock of 1955 answers the Gothic town hall. A university city of around 100,000, Olomouc remains Central Europe's great anti-overtourism secret: Prague's monuments without the crowds. With a dog the setup is ideal: a belt of parks on the former ramparts (leash required), the Morava floodplain for free running, the forested Svatý Kopeček hill, and an absolute rarity, a zoo that admits muzzled, leashed dogs for 100 CZK.`,
+      es: `Olomouc, capital histórica de Moravia, fue una de las ciudades más poderosas de las tierras checas: sede episcopal desde 1063, universidad fundada en 1573 y fortaleza imperial que acogió a la corte de los Habsburgo huida de la revolución de 1848. Su Columna de la Santísima Trinidad, 35 metros de escultura barroca terminados en 1754, es UNESCO desde 2000, y sus seis fuentes barrocas puntúan plazas donde el reloj astronómico comunista de 1955 responde al ayuntamiento gótico. Ciudad universitaria de unos 100.000 habitantes, Olomouc sigue siendo el gran secreto anti-sobreturismo de Europa Central: los monumentos de Praga sin las multitudes. Con perro la configuración es ideal: cinturón de parques en las antiguas murallas (correa obligatoria), llanura aluvial del Morava para correr libre, la colina boscosa de Svatý Kopeček y, rareza absoluta, un zoo que admite perros con bozal y correa por 100 CZK.`,
+      pt: `Olomouc, capital histórica da Morávia, foi uma das cidades mais poderosas das terras checas: sede episcopal desde 1063, universidade fundada em 1573 e fortaleza imperial que abrigou a corte dos Habsburgos em fuga da revolução de 1848. A sua Coluna da Santíssima Trindade, 35 metros de escultura barroca concluídos em 1754, é UNESCO desde 2000, e as suas seis fontes barrocas pontuam praças onde o relógio astronómico comunista de 1955 responde à câmara gótica. Cidade universitária de cerca de 100.000 habitantes, Olomouc continua a ser o grande segredo anti-sobreturismo da Europa Central: os monumentos de Praga sem as multidões. Com cão a configuração é ideal: cintura de parques nas antigas muralhas (trela obrigatória), planície aluvial do Morava para correr à solta, a colina florestal de Svatý Kopeček e, raridade absoluta, um zoo que admite cães de açaime e trela por 100 CZK.`,
+    },
+    sights: [
+      { name: 'Sloup Nejsvětější Trojice', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `La colonne de la Sainte-Trinité, 35 mètres de baroque classés UNESCO, au milieu de la place principale. Terrasses, horloge astronomique et chien en laisse cohabitent sans peine.`,
+        en: `The Holy Trinity Column, 35 UNESCO-listed baroque meters in the middle of the main square. Terraces, the astronomical clock and a leashed dog coexist without trouble.`,
+        es: `La Columna de la Santísima Trinidad, 35 metros barrocos UNESCO en medio de la plaza mayor. Terrazas, el reloj astronómico y un perro atado conviven sin problema.`,
+        pt: `A Coluna da Santíssima Trindade, 35 metros barrocos UNESCO no meio da praça principal. Esplanadas, o relógio astronómico e um cão de trela convivem sem problema.`,
+      } },
+      { name: 'Zoo Olomouc', emoji: '🦒', petFriendly: true, desc: {
+        fr: `L'un des rares zoos d'Europe à admettre les chiens visiteurs : billet chien 100 CZK, muselière et laisse obligatoires, pavillons exclus. Sur la colline de Svatý Kopeček, avec tour panoramique de 32 mètres.`,
+        en: `One of Europe's rare zoos admitting visiting dogs: 100 CZK dog ticket, muzzle and leash mandatory, pavilions excluded. On Svatý Kopeček hill, with a 32-meter lookout tower.`,
+        es: `Uno de los raros zoos de Europa que admite perros visitantes: entrada canina 100 CZK, bozal y correa obligatorios, pabellones excluidos. En la colina de Svatý Kopeček, con torre mirador de 32 metros.`,
+        pt: `Um dos raros zoos da Europa que admite cães visitantes: bilhete canino 100 CZK, açaime e trela obrigatórios, pavilhões excluídos. Na colina de Svatý Kopeček, com torre miradouro de 32 metros.`,
+      } },
+      { name: 'Bezručovy sady', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le parc-vallon serré entre les murailles médiévales et le ruisseau Mlýnský, le plus atmosphérique de la ceinture verte. Laisse obligatoire, la police municipale y veille.`,
+        en: `The ravine park squeezed between the medieval walls and the Mlýnský stream, the most atmospheric of the green belt. Leash required, and the municipal police do enforce it.`,
+        es: `El parque-vaguada encajado entre las murallas medievales y el arroyo Mlýnský, el más atmosférico del cinturón verde. Correa obligatoria, y la policía municipal lo hace cumplir.`,
+        pt: `O parque-vale apertado entre as muralhas medievais e o ribeiro Mlýnský, o mais atmosférico da cintura verde. Trela obrigatória, e a polícia municipal faz cumprir.`,
+      } },
+      { name: 'Svatý Kopeček', emoji: '⛪', petFriendly: true, desc: {
+        fr: `La colline de pèlerinage boisée couronnée par la basilique baroque, à 20 minutes en bus 11. Sentiers forestiers, esplanade panoramique sur la plaine de Haná et restaurant dog-friendly u Macků.`,
+        en: `The wooded pilgrimage hill crowned by the baroque basilica, 20 minutes away on bus 11. Forest trails, a panoramic esplanade over the Haná plain and the dog-friendly u Macků restaurant.`,
+        es: `La colina de peregrinación boscosa coronada por la basílica barroca, a 20 minutos en el bus 11. Senderos forestales, explanada panorámica sobre la llanura de Haná y el restaurante dog-friendly u Macků.`,
+        pt: `A colina de peregrinação arborizada coroada pela basílica barroca, a 20 minutos no autocarro 11. Trilhos florestais, esplanada panorâmica sobre a planície de Haná e o restaurante dog-friendly u Macků.`,
+      } },
+      { name: 'Horní náměstí', emoji: '⛲', petFriendly: true, desc: {
+        fr: `La place principale avec l'hôtel de ville gothique, l'horloge astronomique de l'ère communiste et deux des six fontaines baroques. Le circuit des fontaines à travers les places est la balade urbaine classique en laisse.`,
+        en: `The main square with the Gothic town hall, the communist-era astronomical clock and two of the six baroque fountains. The fountain circuit across the squares is the classic leashed town walk.`,
+        es: `La plaza mayor con el ayuntamiento gótico, el reloj astronómico de la era comunista y dos de las seis fuentes barrocas. El circuito de las fuentes por las plazas es el paseo urbano clásico con correa.`,
+        pt: `A praça principal com a câmara gótica, o relógio astronómico da era comunista e duas das seis fontes barrocas. O circuito das fontes pelas praças é o passeio urbano clássico de trela.`,
+      } },
+      { name: 'Chomoutovské jezero', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Grand lac de gravière à 10 km au nord, avec boucle de promenade facile et points de baignade tolérés pour les chiens. Réserve ornithologique : laisse et distances en saison de nidification.`,
+        en: `A big gravel-pit lake 10 km north, with an easy walking loop and tolerated dog swimming points. A bird sanctuary: leash and distance rules in nesting season.`,
+        es: `Gran lago de grava a 10 km al norte, con circuito de paseo fácil y puntos de baño tolerados para perros. Reserva de aves: correa y distancias en época de nidificación.`,
+        pt: `Grande lago de gravilha a 10 km a norte, com circuito de passeio fácil e pontos de banho tolerados para cães. Reserva de aves: trela e distâncias na época de nidificação.`,
+      } },
+    ],
+    petTips: {
+      fr: [
+        `Laisse obligatoire dans les trois parcs des remparts (Smetanovy, Čechovy, Bezručovy sady) : la police municipale verbalise sur place.`,
+        `Le zoo d'Olomouc admet les chiens (100 CZK) muselés et en laisse ; muselière louable à l'entrée contre 200 CZK de caution, pavillons interdits.`,
+        `Dans les trams et bus DPMO : caisse fermée ou muselière et laisse courte, billet chien à tarif réduit.`,
+        `Courses libres : plaine de la Morava, chemins forestiers de Svatý Kopeček et rives des lacs de gravière hors nidification.`,
+        `Été continental : pavés brûlants sur les places l'après-midi, promenez tôt et visez les parcs ombragés des remparts.`,
+      ],
+      en: [
+        `Leash mandatory in the three rampart parks (Smetanovy, Čechovy, Bezručovy sady): municipal police fine on the spot.`,
+        `Zoo Olomouc admits dogs (100 CZK) muzzled and leashed; muzzles rent at the gate against a 200 CZK deposit, pavilions off limits.`,
+        `On DPMO trams and buses: closed carrier or muzzle and short leash, reduced-fare dog ticket.`,
+        `Free running: the Morava floodplain, the Svatý Kopeček forest tracks and the gravel-lake shores outside nesting season.`,
+        `Continental summers: square paving burns in the afternoon, walk early and aim for the shaded rampart parks.`,
+      ],
+      es: [
+        `Correa obligatoria en los tres parques de las murallas (Smetanovy, Čechovy, Bezručovy sady): la policía municipal multa en el acto.`,
+        `El zoo de Olomouc admite perros (100 CZK) con bozal y correa; bozales de alquiler en taquilla con 200 CZK de fianza, pabellones vetados.`,
+        `En tranvías y autobuses DPMO: transportín cerrado o bozal y correa corta, billete de perro a tarifa reducida.`,
+        `Carrera libre: la llanura del Morava, las pistas forestales de Svatý Kopeček y las orillas de los lagos de grava fuera de la nidificación.`,
+        `Veranos continentales: el pavimento de las plazas abrasa por la tarde, pasea temprano y busca los parques sombreados de las murallas.`,
+      ],
+      pt: [
+        `Trela obrigatória nos três parques das muralhas (Smetanovy, Čechovy, Bezručovy sady): a polícia municipal multa no local.`,
+        `O zoo de Olomouc admite cães (100 CZK) com açaime e trela; açaimes alugam-se na bilheteira contra 200 CZK de caução, pavilhões interditos.`,
+        `Nos elétricos e autocarros DPMO: caixa fechada ou açaime e trela curta, bilhete de cão a tarifa reduzida.`,
+        `Corrida livre: a planície do Morava, os trilhos florestais de Svatý Kopeček e as margens dos lagos de gravilha fora da nidificação.`,
+        `Verões continentais: a calçada das praças escalda à tarde, passeie cedo e procure os parques sombreados das muralhas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Climat : continental, étés chauds autour de 20 degrés en juillet avec orages, hivers froids et brumeux autour de -1 à 0 degré.`,
+        `Transport : trams et bus DPMO (caisse ou muselière et laisse, billet chien réduit), bus 11 direct vers Svatý Kopeček et le zoo.`,
+        `Arrivée : gare d'Olomouc hl.n. sur la ligne principale Prague-Ostrava, Prague à environ 2h, Vienne à 3h via Břeclav.`,
+        `Monnaie : couronne tchèque (CZK, 1 EUR = environ 25 CZK) ; carte acceptée presque partout.`,
+        `Urgence vétérinaire : clinique MVDr. Mazoch (Čechova 5, +420 585 428 351, garde 24h/24 sur appel) et clinique Špruček (Brněnská 501/82, ligne nonstop +420 728 308 803) ; urgences européennes 112.`,
+      ],
+      en: [
+        `Climate: continental, warm summers around 20 degrees in July with storms, cold misty winters around -1 to 0 degrees.`,
+        `Transport: DPMO trams and buses (carrier or muzzle and leash, reduced dog ticket), direct bus 11 to Svatý Kopeček and the zoo.`,
+        `Arrival: Olomouc hl.n. station on the Prague-Ostrava main line, Prague about 2h, Vienna 3h via Břeclav.`,
+        `Currency: Czech koruna (CZK, 1 EUR = about 25 CZK); cards accepted almost everywhere.`,
+        `Veterinary emergency: MVDr. Mazoch clinic (Čechova 5, +420 585 428 351, 24h on-call) and Špruček clinic (Brněnská 501/82, nonstop line +420 728 308 803); EU emergency number 112.`,
+      ],
+      es: [
+        `Clima: continental, veranos cálidos de unos 20 grados en julio con tormentas, inviernos fríos y brumosos de -1 a 0 grados.`,
+        `Transporte: tranvías y autobuses DPMO (transportín o bozal y correa, billete canino reducido), bus 11 directo a Svatý Kopeček y el zoo.`,
+        `Llegada: estación Olomouc hl.n. en la línea principal Praga-Ostrava, Praga a unas 2h, Viena a 3h vía Břeclav.`,
+        `Moneda: corona checa (CZK, 1 EUR = unas 25 CZK); tarjeta aceptada casi en todas partes.`,
+        `Urgencia veterinaria: clínica MVDr. Mazoch (Čechova 5, +420 585 428 351, guardia 24h con llamada) y clínica Špruček (Brněnská 501/82, línea nonstop +420 728 308 803); emergencias europeas 112.`,
+      ],
+      pt: [
+        `Clima: continental, verões quentes de cerca de 20 graus em julho com trovoadas, invernos frios e enevoados de -1 a 0 graus.`,
+        `Transporte: elétricos e autocarros DPMO (caixa ou açaime e trela, bilhete canino reduzido), autocarro 11 direto para Svatý Kopeček e o zoo.`,
+        `Chegada: estação Olomouc hl.n. na linha principal Praga-Ostrava, Praga a cerca de 2h, Viena a 3h via Břeclav.`,
+        `Moeda: coroa checa (CZK, 1 EUR = cerca de 25 CZK); cartão aceite quase em todo o lado.`,
+        `Urgência veterinária: clínica MVDr. Mazoch (Čechova 5, +420 585 428 351, prevenção 24h por chamada) e clínica Špruček (Brněnská 501/82, linha nonstop +420 728 308 803); emergências europeias 112.`,
+      ],
+    },
+  },
+
   oslo: {
     history: {
       fr: `Fondée vers 1040 au fond de son fjord, Oslo fut reconstruite par Christian IV après l'incendie de 1624 sous le nom de Christiania, avant de reprendre son nom actuel en 1925. Peuplée d'environ 710 000 habitants, la capitale norvégienne est encerclée par la forêt de Marka et affiche l'un des taux de possession canine les plus élevés d'Europe, avec près de 75 000 chiens enregistrés. Les Norvégiens considèrent leurs chiens comme de la famille : la loi båndtvang impose la laisse du 1er avril au 20 août pour protéger faune et moutons, mais hors saison les sentiers de Nordmarka deviennent un paradis sans laisse. Oslo compte des dizaines de hundeparker clôturés, Torshovdalen, Sofienbergparken, St. Hanshaugen, et les chiens voyagent pour un tarif enfant dans tous les transports. Cafés, hôtels et certains musées les accueillent ; ramasser est obligatoire, sous peine d'une amende de 1 600 NOK.`,

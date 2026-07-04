@@ -49621,5 +49621,205 @@
       "Parking on site"
     ],
     "slug": "hestia-hotel-strand"
+  },
+  {
+    "id": "karlovy-vary-1",
+    "name": "Grandhotel Pupp",
+    "destinationSlug": "karlovy-vary",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 8207,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/grandhotel-pupp.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Mirove namesti 2, Karlovy Vary, 36091, Czech RepublicExcellent location — rated 9.7/10!(score from 8108 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "grandhotel-pupp"
+  },
+  {
+    "id": "karlovy-vary-2",
+    "name": "Spa Hotel Imperial",
+    "destinationSlug": "karlovy-vary",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 2956,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/imperial-karlovy-vary.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Libušina 1212/18, Karlovy Vary, 36001, Czech RepublicExcellent location — rated 9.2/10!(score from 2909 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "spa-hotel-imperial"
+  },
+  {
+    "id": "karlovy-vary-3",
+    "name": "Carlsbad Plaza Medical Spa & Wellness hotel",
+    "destinationSlug": "karlovy-vary",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 775,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/carlsbad-plaza.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Mariánskolázeňská 25, Karlovy Vary, 36001, Czech RepublicExcellent location — rated 9.5/10!(score from 765 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "carlsbad-plaza-medical-spa-wellness-hotel"
+  },
+  {
+    "id": "karlovy-vary-4",
+    "name": "Retro Riverside Wellness Resort",
+    "destinationSlug": "karlovy-vary",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1226,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/retro-riverside.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Great location - show map",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "retro-riverside-wellness-resort"
+  },
+  {
+    "id": "karlovy-vary-5",
+    "name": "Hotel Vila Livia",
+    "destinationSlug": "karlovy-vary",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 7.8,
+    "reviewCount": 121,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/livia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Great location - show map",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "hotel-vila-livia"
+  },
+  {
+    "id": "karlovy-vary-6",
+    "name": "Luxury Spa Hotel Olympic Palace",
+    "destinationSlug": "karlovy-vary",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 673,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/olympic-palace.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Zámecký Vrch 41, Karlovy Vary, 360 01, Czech RepublicExcellent location — rated 9.2/10!(score from 668 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Parking"
+    ],
+    "slug": "luxury-spa-hotel-olympic-palace"
+  },
+  {
+    "id": "karlovy-vary-7",
+    "name": "Villa Julius a Emma - Luxury Boutique Retreat",
+    "destinationSlug": "karlovy-vary",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 128,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/villa-julius-a-emma-luxury-boutique-retreat.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Great location - show map",
+    "highlights": [
+      "Spa & wellness centre",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "villa-julius-a-emma-luxury-boutique-retreat"
+  },
+  {
+    "id": "karlovy-vary-8",
+    "name": "Villa Holiday",
+    "destinationSlug": "karlovy-vary",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 14,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/villa-holiday.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Great location - show map",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Free parking"
+    ],
+    "slug": "villa-holiday"
   }
 ]

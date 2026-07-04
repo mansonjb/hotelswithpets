@@ -14872,6 +14872,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'karlovy-vary': {
+    history: {
+      fr: `Karlovy Vary, fondée vers 1350 par l'empereur Charles IV qui, selon la légende, découvrit les sources chaudes lors d'une chasse au cerf, est devenue au XIXe siècle la station thermale la plus célèbre du monde, fréquentée par Goethe, Beethoven, Gogol et le tsar Pierre le Grand. Ses colonnades néo-Renaissance et Art nouveau, ses 79 sources dont le geyser Vřídlo jaillissant à 73 degrés, et ses grands hôtels comme le Pupp (1701) lui ont valu en 2021 l'inscription à l'UNESCO parmi les Grandes villes d'eaux d'Europe. La ville d'environ 48 000 habitants s'étire dans la vallée encaissée de la Teplá, en lisière de la forêt protégée de Slavkov. Pour les voyageurs avec un chien, c'est une destination étonnamment pratique : promenades plates le long de la rivière, 130 km de sentiers forestiers balisés qui partent des colonnades, funiculaire Diana acceptant les chiens et terrasses de cafés accueillantes. Seule règle stricte : les chiens restent hors des colonnades des sources.`,
+      en: `Karlovy Vary, founded around 1350 by Emperor Charles IV who, legend says, discovered the hot springs during a stag hunt, became in the 19th century the most famous spa town in the world, frequented by Goethe, Beethoven, Gogol and Tsar Peter the Great. Its neo-Renaissance and Art Nouveau colonnades, its 79 springs including the Vřídlo geyser erupting at 73 degrees, and grand hotels like the Pupp (1701) earned it UNESCO listing in 2021 among the Great Spa Towns of Europe. The city of around 48,000 stretches along the narrow Teplá valley on the edge of the protected Slavkov Forest. For travellers with a dog it is a surprisingly practical destination: flat riverside promenades, 130 km of marked forest trails starting right at the colonnades, a dog-friendly Diana funicular and welcoming cafe terraces. One strict rule only: dogs stay out of the spring colonnades.`,
+      es: `Karlovy Vary, fundada hacia 1350 por el emperador Carlos IV que, según la leyenda, descubrió las fuentes termales durante una cacería de ciervos, se convirtió en el siglo XIX en la ciudad balneario más famosa del mundo, frecuentada por Goethe, Beethoven, Gógol y el zar Pedro el Grande. Sus columnatas neorrenacentistas y modernistas, sus 79 manantiales incluido el géiser Vřídlo que brota a 73 grados, y grandes hoteles como el Pupp (1701) le valieron en 2021 la inscripción en la UNESCO entre las Grandes Ciudades Balneario de Europa. La ciudad, de unos 48.000 habitantes, se extiende por el estrecho valle del Teplá al borde del bosque protegido de Slavkov. Para los viajeros con perro es un destino sorprendentemente práctico: paseos llanos junto al río, 130 km de senderos forestales señalizados que parten de las columnatas, un funicular Diana que admite perros y terrazas de café acogedoras. Una sola regla estricta: los perros se quedan fuera de las columnatas de los manantiales.`,
+      pt: `Karlovy Vary, fundada por volta de 1350 pelo imperador Carlos IV que, segundo a lenda, descobriu as nascentes quentes durante uma caçada ao veado, tornou-se no século XIX a cidade termal mais famosa do mundo, frequentada por Goethe, Beethoven, Gógol e o czar Pedro, o Grande. As suas colunatas neorrenascentistas e Arte Nova, as suas 79 nascentes incluindo o géiser Vřídlo que jorra a 73 graus, e grandes hotéis como o Pupp (1701) valeram-lhe em 2021 a inscrição na UNESCO entre as Grandes Cidades Termais da Europa. A cidade, de cerca de 48.000 habitantes, estende-se pelo estreito vale do Teplá na orla da floresta protegida de Slavkov. Para os viajantes com cão é um destino surpreendentemente prático: passeios planos à beira-rio, 130 km de trilhos florestais sinalizados que partem das colunatas, um funicular Diana que aceita cães e esplanadas acolhedoras. Uma única regra rígida: os cães ficam fora das colunatas das nascentes.`,
+    },
+    sights: [
+      { name: 'Mlýnská kolonáda', emoji: '🏛️', petFriendly: false, desc: {
+        fr: `La plus majestueuse colonnade de la ville, 132 mètres et cinq sources chaudes sous ses colonnes de 1881. Chiens interdits sous la colonnade elle-même, mais la promenade riveraine en face offre la façade entière à quelques pas.`,
+        en: `The town's grandest colonnade, 132 meters and five hot springs beneath its 1881 columns. Dogs are banned under the colonnade itself, but the riverside promenade opposite gives you the whole facade from a few steps away.`,
+        es: `La columnata más majestuosa de la ciudad, 132 metros y cinco manantiales bajo sus columnas de 1881. Perros prohibidos bajo la columnata, pero el paseo fluvial de enfrente ofrece la fachada completa a unos pasos.`,
+        pt: `A colunata mais majestosa da cidade, 132 metros e cinco nascentes quentes sob as suas colunas de 1881. Cães proibidos sob a colunata, mas o passeio ribeirinho em frente oferece a fachada completa a poucos passos.`,
+      } },
+      { name: 'Rozhledna Diana', emoji: '🗼', petFriendly: true, desc: {
+        fr: `La tour panoramique de 1914 au-dessus de la vallée thermale, accessible par un funiculaire qui accepte les chiens ou 45 minutes de montée en forêt. Restaurant avec terrasse dog-friendly et mini zoo au sommet.`,
+        en: `The 1914 lookout tower above the spa valley, reached by a dog-friendly funicular or a 45-minute forest climb. Dog-friendly terrace restaurant and mini zoo at the top.`,
+        es: `La torre mirador de 1914 sobre el valle termal, accesible en funicular que admite perros o con 45 minutos de subida por el bosque. Restaurante con terraza dog-friendly y mini zoo en la cima.`,
+        pt: `A torre miradouro de 1914 sobre o vale termal, acessível por funicular que aceita cães ou 45 minutos de subida pela floresta. Restaurante com esplanada dog-friendly e mini zoo no topo.`,
+      } },
+      { name: 'Svatošské skály', emoji: '🪨', petFriendly: true, desc: {
+        fr: `Monument naturel national : des tours de granit au-dessus de l'Ohře, reliées à la ville par un chemin plat de 5 km au bord de la rivière depuis Doubí. La sortie classique d'une demi-journée avec un chien, baignade dans la rivière comprise.`,
+        en: `A national natural monument of granite towers above the Ohře, linked to town by a flat 5 km riverside path from Doubí. The classic half-day dog outing, river dip included.`,
+        es: `Monumento natural nacional: torres de granito sobre el Ohře, unidas a la ciudad por un camino llano de 5 km junto al río desde Doubí. La excursión clásica de media jornada con perro, chapuzón en el río incluido.`,
+        pt: `Monumento natural nacional: torres de granito sobre o Ohře, ligadas à cidade por um caminho plano de 5 km à beira-rio desde Doubí. O passeio clássico de meio dia com cão, mergulho no rio incluído.`,
+      } },
+      { name: 'Dvořákovy sady', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le plus joli parc thermal du centre, autour de la colonnade du Parc en fonte de 1881. Boucle en laisse entre les parterres fleuris, la statue de Dvořák et la rivière.`,
+        en: `The prettiest central spa park, wrapped around the 1881 cast-iron Park Colonnade. A leashed loop between flowerbeds, the Dvořák statue and the river.`,
+        es: `El parque termal más bonito del centro, en torno a la columnata del Parque de hierro fundido de 1881. Un paseo con correa entre parterres, la estatua de Dvořák y el río.`,
+        pt: `O parque termal mais bonito do centro, em torno da colunata do Parque em ferro fundido de 1881. Um passeio de trela entre canteiros, a estátua de Dvořák e o rio.`,
+      } },
+      { name: 'Zámecká věž', emoji: '🏰', petFriendly: true, desc: {
+        fr: `La tour du château de Charles IV, vestige du pavillon de chasse gothique de 1358, domine le Marché et sa colonnade blanche en dentelle de bois. Les ruelles pavées qui grimpent autour sont une belle balade urbaine en laisse.`,
+        en: `Charles IV's castle tower, remnant of the 1358 Gothic hunting lodge, overlooks the Market square and its white timber-lace colonnade. The cobbled lanes climbing around it make a fine leashed town walk.`,
+        es: `La torre del castillo de Carlos IV, vestigio del pabellón de caza gótico de 1358, domina el Mercado y su columnata blanca de madera calada. Las callejuelas empedradas que suben alrededor son un bonito paseo urbano con correa.`,
+        pt: `A torre do castelo de Carlos IV, vestígio do pavilhão de caça gótico de 1358, domina o Mercado e a sua colunata branca de madeira rendilhada. As vielas calcetadas que sobem à volta são um belo passeio urbano de trela.`,
+      } },
+      { name: 'Meandr Ohře', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Parc naturel au bord d'un méandre de l'Ohře à Tuhnice : prairies, plage de rivière et accès facile à l'eau. Le spot de baignade canine des habitants, puisque le complexe du lac Rolava n'admet pas les chiens.`,
+        en: `A natural park on a bend of the Ohře in Tuhnice: meadows, a river beach and easy water entry. The locals' dog swimming spot, since the Rolava lake complex does not admit dogs.`,
+        es: `Parque natural junto a un meandro del Ohře en Tuhnice: praderas, playa fluvial y entrada fácil al agua. El punto de baño canino de los locales, ya que el complejo del lago Rolava no admite perros.`,
+        pt: `Parque natural junto a um meandro do Ohře em Tuhnice: prados, praia fluvial e entrada fácil na água. O local de banhos caninos dos habitantes, já que o complexo do lago Rolava não admite cães.`,
+      } },
+    ],
+    petTips: {
+      fr: [
+        `Colonnades interdites aux chiens : relayez-vous pour goûter les sources pendant qu'une personne attend dehors avec le chien, les promenades attenantes restent accessibles.`,
+        `Muselière obligatoire dans les bus DPKV et les trains tchèques (ou caisse fermée) ; un chien voyage gratuitement avec tout abonnement horaire de la carte Karlovy Vary.`,
+        `Ne laissez jamais votre chien boire aux sources : l'eau jaillit jusqu'à 73 degrés et est très minéralisée, portez votre propre eau.`,
+        `Le complexe de baignade Rolava interdit les chiens : rabattez-vous sur le Meandr Ohře ou les berges vers Svatošské skály.`,
+        `Le funiculaire Diana accepte les chiens pour un petit supplément, pratique pour éviter la montée raide par forte chaleur.`,
+      ],
+      en: [
+        `Colonnades are off limits to dogs: take turns tasting the springs while one person waits outside with the dog, the adjoining promenades stay accessible.`,
+        `Muzzle required on DPKV buses and Czech trains (or a closed carrier); a dog rides free with any time-based pass on the Karlovy Vary card.`,
+        `Never let your dog drink from the springs: the water erupts at up to 73 degrees and is heavily mineralized, carry your own water.`,
+        `The Rolava swimming complex bans dogs: head to Meandr Ohře or the riverbanks towards Svatošské skály instead.`,
+        `The Diana funicular takes dogs for a small fee, handy to skip the steep climb in summer heat.`,
+      ],
+      es: [
+        `Columnatas vetadas a los perros: turnaos para probar los manantiales mientras una persona espera fuera con el perro, los paseos contiguos siguen accesibles.`,
+        `Bozal obligatorio en los autobuses DPKV y los trenes checos (o transportín cerrado); un perro viaja gratis con cualquier abono temporal de la tarjeta Karlovy Vary.`,
+        `No dejes que tu perro beba de los manantiales: el agua brota hasta a 73 grados y está muy mineralizada, lleva tu propia agua.`,
+        `El complejo de baño Rolava prohíbe los perros: ve al Meandr Ohře o a las orillas hacia Svatošské skály.`,
+        `El funicular Diana admite perros por una pequeña tarifa, útil para evitar la subida empinada con calor.`,
+      ],
+      pt: [
+        `Colunatas interditas aos cães: revezem-se para provar as nascentes enquanto uma pessoa espera lá fora com o cão, os passeios contíguos continuam acessíveis.`,
+        `Açaime obrigatório nos autocarros DPKV e nos comboios checos (ou caixa fechada); um cão viaja grátis com qualquer passe temporal do cartão Karlovy Vary.`,
+        `Nunca deixe o seu cão beber das nascentes: a água jorra até 73 graus e é muito mineralizada, leve a sua própria água.`,
+        `O complexo de banhos Rolava proíbe cães: opte pelo Meandr Ohře ou pelas margens em direção a Svatošské skály.`,
+        `O funicular Diana aceita cães por uma pequena taxa, útil para evitar a subida íngreme com calor.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Climat : continental, étés doux 18 degrés en juillet, hivers froids et neigeux autour de -2 degrés, la vallée encaissée garde la fraîcheur.`,
+        `Transport : bus DPKV et deux funiculaires (chiens admis muselés ou en caisse) ; le centre thermal est piéton et se parcourt à pied.`,
+        `Arrivée : trains directs depuis Prague (environ 3h) le long de la vallée de l'Ohře ; aéroport de Prague à 130 km.`,
+        `Monnaie : couronne tchèque (CZK, 1 EUR = environ 25 CZK) ; carte acceptée presque partout, espèces utiles aux stands des colonnades.`,
+        `Urgence vétérinaire : Veterinární klinika KVvet (Hornická kolonie 1038/2, +420 353 567 792) ; garde régionale tournante le week-end, téléphonez avant de vous déplacer ; urgences européennes 112.`,
+      ],
+      en: [
+        `Climate: continental, mild summers around 18 degrees in July, cold snowy winters around -2 degrees, the enclosed valley stays cool.`,
+        `Transport: DPKV buses and two funiculars (dogs allowed muzzled or in a carrier); the spa center is pedestrian and walkable.`,
+        `Arrival: direct trains from Prague (about 3h) along the Ohře valley; Prague airport is 130 km away.`,
+        `Currency: Czech koruna (CZK, 1 EUR = about 25 CZK); cards accepted almost everywhere, cash handy at colonnade stalls.`,
+        `Veterinary emergency: Veterinární klinika KVvet (Hornická kolonie 1038/2, +420 353 567 792); regional weekend on-call rota, phone before travelling; EU emergency number 112.`,
+      ],
+      es: [
+        `Clima: continental, veranos suaves de unos 18 grados en julio, inviernos fríos y nevados en torno a -2 grados, el valle encajonado conserva el fresco.`,
+        `Transporte: autobuses DPKV y dos funiculares (perros admitidos con bozal o transportín); el centro termal es peatonal y se recorre a pie.`,
+        `Llegada: trenes directos desde Praga (unas 3h) por el valle del Ohře; el aeropuerto de Praga queda a 130 km.`,
+        `Moneda: corona checa (CZK, 1 EUR = unas 25 CZK); tarjeta aceptada casi en todas partes, efectivo útil en los puestos de las columnatas.`,
+        `Urgencia veterinaria: Veterinární klinika KVvet (Hornická kolonie 1038/2, +420 353 567 792); guardia regional rotatoria los fines de semana, llama antes de desplazarte; emergencias europeas 112.`,
+      ],
+      pt: [
+        `Clima: continental, verões amenos de cerca de 18 graus em julho, invernos frios e com neve à volta de -2 graus, o vale encaixado mantém-se fresco.`,
+        `Transporte: autocarros DPKV e dois funiculares (cães admitidos com açaime ou em caixa); o centro termal é pedonal e percorre-se a pé.`,
+        `Chegada: comboios diretos desde Praga (cerca de 3h) ao longo do vale do Ohře; o aeroporto de Praga fica a 130 km.`,
+        `Moeda: coroa checa (CZK, 1 EUR = cerca de 25 CZK); cartão aceite quase em todo o lado, dinheiro útil nas bancas das colunatas.`,
+        `Urgência veterinária: Veterinární klinika KVvet (Hornická kolonie 1038/2, +420 353 567 792); escala regional rotativa ao fim de semana, telefone antes de se deslocar; emergências europeias 112.`,
+      ],
+    },
+  },
+
   klagenfurt: {
     history: {
       fr: `Klagenfurt am Wörthersee, capitale de la Carinthie depuis 1518, fut fondée vers 1199 par le duc Hermann II et reconstruite après l'incendie de 1514 selon un plan en damier Renaissance toujours intact aujourd'hui. La ville s'organise autour de la Neuer Platz où trône le Lindwurmbrunnen, fontaine de 1593 sculptée dans un seul bloc de chlorite représentant le dragon mythologique qui aurait infesté les marais de la Glan. Capitale du Carinthie habsbourgeoise, elle accueillit le Landhaus Renaissance de 1574, encore aujourd'hui siège du parlement régional avec sa cour à arcades. Aujourd'hui ville d'environ 104 000 habitants, Klagenfurt vit largement de son lien avec le Wörthersee, le lac le plus chaud des Alpes (jusqu'à 26 degrés en juillet), à l'extrémité ouest de l'Altstadt. Pour les voyageurs avec un chien, c'est une base décontractée : Altstadt piéton compact, culture Gasthaus carinthienne tolérante, Hundebadeplätze signalées sur le lac et accès direct en téléphérique à la forêt du Kreuzbergl. Railjet ÖBB direct vers Vienne en 4h, Salzbourg 2h45.`,

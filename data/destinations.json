@@ -26344,5 +26344,79 @@
         "icon": "❄️"
       }
     }
+  },
+  {
+    "slug": "karlovy-vary",
+    "name": "Karlovy Vary",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "flag": "🇨🇿",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/karlovy-vary.jpg",
+    "intro": "The world's most famous spa town treats dogs better than its reputation suggests: pastel colonnade promenades along the Tepla river, 130 km of marked forest trails in the Slavkov Forest starting right behind the hotels, a dog-friendly funicular to the Diana lookout, and cafe terraces from Café Elefant to the Grandhotel Pupp that expect four-legged guests. Only the spring colonnades themselves are off limits.",
+    "lat": 50.2306,
+    "lng": 12.8702,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold & crisp",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Chilly, first sun",
+        "icon": "🌥️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Mild & fresh",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Pleasant & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Warm & leafy",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm & settled",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 13,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Cool & misty",
+        "icon": "🌥️"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Freezing & festive",
+        "icon": "❄️"
+      }
+    }
   }
 ]

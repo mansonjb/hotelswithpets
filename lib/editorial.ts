@@ -901,6 +901,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Dzintari Forest Park's 200-year-old pine grove, the 33 km off-season dog beach from Lielupe to Kemeri, and the Z. Meierovica prospekts wooden dacha walk`,
       area: `Majori around Jomas iela, Dzintari around the concert hall and forest park, and Dubulti at the river-meets-sea viewpoint`,
     },
+    'karlovy-vary': {
+      personality: 'the most famous spa town in the Czech Republic, wrapped in forested hills',
+      highlight: 'the Slavkov Forest trails, the Diana lookout paths, and the Ohře riverside walk to Svatošské skály',
+      area: 'the spa center, Rybáře, and Tuhnice',
+    },
     klagenfurt: {
       personality: `a 104,000-resident Carinthian capital on the eastern shore of the Wörthersee, the warmest lake in the Alps (up to 26 degrees in July), with a compact Renaissance Altstadt, the iconic Lindwurmbrunnen dragon fountain and signed Hundebadeplätze on the lake`,
       highlight: `the Lindwurmbrunnen on the Neuer Platz, the Lendkanal towpath to the Wörthersee, the Kreuzbergl forest above the Altstadt, and the Maria Loretto and Krumpendorf Hundebadeplätze on the lake`,
@@ -2654,6 +2659,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la pinède bicentenaire du parc forestier de Dzintari, les 33 km de plage canine hors saison de Lielupe à Kemeri, et la promenade des datchas en bois sur Z. Meierovica prospekts`,
       area: `Majori autour de Jomas iela, Dzintari autour de la salle de concerts et du parc forestier, et Dubulti au belvédère de la confluence rivière-mer`,
     },
+    'karlovy-vary': {
+      personality: 'la ville thermale la plus célèbre de Tchéquie, lovée dans des collines boisées',
+      highlight: 'les sentiers de la forêt de Slavkov, les chemins du belvédère Diana et la balade au bord de l\'Ohře vers Svatošské skály',
+      area: 'le centre thermal, Rybáře et Tuhnice',
+    },
     klagenfurt: {
       personality: `capitale carinthienne de 104 000 habitants sur la rive est du Wörthersee, le lac le plus chaud des Alpes (jusqu'à 26 degrés en juillet), avec un Altstadt Renaissance compact, l'emblématique Lindwurmbrunnen (fontaine au dragon) et des Hundebadeplätze signalées sur le lac`,
       highlight: `le Lindwurmbrunnen sur la Neuer Platz, le halage du Lendkanal jusqu'au Wörthersee, la forêt du Kreuzbergl au-dessus de l'Altstadt et les Hundebadeplätze de Maria Loretto et Krumpendorf sur le lac`,
@@ -4406,6 +4416,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el pinar bicentenario del Parque Forestal de Dzintari, los 33 km de playa canina fuera de temporada de Lielupe a Kemeri, y el paseo de las dachas de madera en Z. Meierovica prospekts`,
       area: `Majori en torno a Jomas iela, Dzintari en torno a la sala de conciertos y el parque forestal, y Dubulti en el mirador donde el río se une al mar`,
     },
+    'karlovy-vary': {
+      personality: 'la ciudad balneario más famosa de Chequia, arropada por colinas boscosas',
+      highlight: 'los senderos del bosque de Slavkov, los caminos del mirador Diana y el paseo junto al Ohře hasta Svatošské skály',
+      area: 'el centro termal, Rybáře y Tuhnice',
+    },
     klagenfurt: {
       personality: `capital carintiana de 104.000 habitantes en la orilla este del Wörthersee, el lago más cálido de los Alpes (hasta 26 grados en julio), con un Altstadt renacentista compacto, la emblemática Lindwurmbrunnen (fuente del dragón) y Hundebadeplätze señalizadas en el lago`,
       highlight: `el Lindwurmbrunnen en la Neuer Platz, la sirga del Lendkanal hasta el Wörthersee, el bosque del Kreuzbergl sobre el Altstadt y las Hundebadeplätze de Maria Loretto y Krumpendorf en el lago`,
@@ -6157,6 +6172,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `o balneário mais famoso da Letónia, 33 km de costa báltica de areia branca a 30 minutos de comboio de Riga, parque infantil estival da elite riguense desde o século XIX, com dachas de madeira Art Nouveau de Dzintari e Majori, o miradouro de Dubulti e uma praia canina invernal com trela que só abre de 1 de novembro a 31 de março`,
       highlight: `o pinhal bicentenário do Parque Florestal de Dzintari, os 33 km de praia canina fora de época de Lielupe a Kemeri, e o passeio das dachas de madeira em Z. Meierovica prospekts`,
       area: `Majori em torno de Jomas iela, Dzintari em torno da sala de concertos e do parque florestal, e Dubulti no miradouro onde o rio se junta ao mar`,
+    },
+    'karlovy-vary': {
+      personality: 'a cidade termal mais famosa da Chéquia, aninhada em colinas arborizadas',
+      highlight: 'os trilhos da floresta de Slavkov, os caminhos do miradouro Diana e o passeio junto ao Ohře até Svatošské skály',
+      area: 'o centro termal, Rybáře e Tuhnice',
     },
     klagenfurt: {
       personality: `capital caríntia de 104.000 habitantes na margem leste do Wörthersee, o lago mais quente dos Alpes (até 26 graus em julho), com um Altstadt renascentista compacto, a emblemática Lindwurmbrunnen (fonte do dragão) e Hundebadeplätze sinalizadas no lago`,

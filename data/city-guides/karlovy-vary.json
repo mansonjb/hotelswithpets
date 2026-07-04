@@ -1,0 +1,575 @@
+{
+  "slug": "karlovy-vary",
+  "name": "Karlovy Vary",
+  "country": "Czech Republic",
+  "flag": "🇨🇿",
+  "lastUpdated": "2026-07-04",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Karlovy Vary",
+      "titleFr": "Restaurants dog-friendly à Karlovy Vary",
+      "titleEs": "Restaurantes dog-friendly en Karlovy Vary",
+      "titlePt": "Restaurantes dog-friendly em Karlovy Vary",
+      "introEn": "Karlovy Vary's cafe culture is remarkably relaxed about dogs: most terraces along the Tepla river welcome them, and many historic coffeehouses let well-behaved dogs inside too. Travel guides count more than fifteen dog-friendly addresses in the compact spa center alone.",
+      "introFr": "La culture des cafés de Karlovy Vary est très détendue avec les chiens : la plupart des terrasses le long de la Tepla les accueillent, et beaucoup de cafés historiques acceptent aussi les chiens sages à l'intérieur. Les guides recensent plus de quinze adresses dog-friendly rien que dans le centre thermal.",
+      "introEs": "La cultura de cafés de Karlovy Vary es muy relajada con los perros: la mayoría de las terrazas junto al río Tepla los reciben, y muchos cafés históricos también aceptan perros tranquilos en el interior. Las guías cuentan más de quince direcciones dog-friendly solo en el compacto centro termal.",
+      "introPt": "A cultura de cafés de Karlovy Vary é muito descontraída com os cães: a maioria das esplanadas ao longo do rio Tepla recebe-os, e muitos cafés históricos também aceitam cães bem-comportados no interior. Os guias contam mais de quinze moradas dog-friendly só no compacto centro termal.",
+      "places": [
+        {
+          "name": "Café Elefant",
+          "address": "Stará Louka 343/30, 360 01 Karlovy Vary",
+          "neighborhood": "Spa center, Stará Louka promenade",
+          "photo": "/images/city-places/karlovy-vary-restaurants-cafe-elefant.jpg",
+          "website": "",
+          "description": "A grand Viennese-style coffeehouse on the main spa promenade, in business since the 18th century and a fixture of every Karlovy Vary stroll. Dogs are welcome on the terrace facing the Tepla river, right in the heart of the colonnade circuit.",
+          "descriptionFr": "Un grand café de style viennois sur la promenade thermale principale, en activité depuis le XVIIIe siècle et incontournable de toute balade à Karlovy Vary. Les chiens sont les bienvenus sur la terrasse face à la Tepla, au coeur du circuit des colonnades.",
+          "descriptionEs": "Una gran cafetería de estilo vienés en el paseo termal principal, en activo desde el siglo XVIII y parada obligada de todo paseo por Karlovy Vary. Los perros son bienvenidos en la terraza frente al río Tepla, en pleno circuito de las columnatas.",
+          "descriptionPt": "Uma grande cafetaria de estilo vienense no passeio termal principal, em atividade desde o século XVIII e paragem obrigatória de qualquer passeio por Karlovy Vary. Os cães são bem-vindos na esplanada virada para o rio Tepla, no coração do circuito das colunatas.",
+          "petPolicy": "Dogs welcome on the terrace; calm dogs usually accepted inside outside peak hours",
+          "petPolicyFr": "Chiens bienvenus en terrasse ; chiens calmes souvent acceptés en salle hors heures de pointe",
+          "petPolicyEs": "Perros bienvenidos en la terraza; perros tranquilos suelen aceptarse dentro fuera de horas punta",
+          "petPolicyPt": "Cães bem-vindos na esplanada; cães calmos costumam ser aceites no interior fora das horas de ponta",
+          "priceRange": "€€",
+          "mustTry": "Apple strudel with Viennese coffee",
+          "mustTryFr": "Strudel aux pommes avec un café viennois",
+          "mustTryEs": "Strudel de manzana con café vienés",
+          "mustTryPt": "Strudel de maçã com café vienense",
+          "openingHours": "Daily 9:00-19:00",
+          "tip": "Come before 10:00 to get a river-facing terrace table before the tour groups arrive.",
+          "tipFr": "Venez avant 10h pour avoir une table en terrasse côté rivière avant les groupes de touristes.",
+          "tipEs": "Llega antes de las 10:00 para conseguir mesa en la terraza junto al río antes de que lleguen los grupos.",
+          "tipPt": "Chegue antes das 10h00 para conseguir mesa na esplanada junto ao rio antes dos grupos de turistas.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Caf%C3%A9+Elefant+Karlovy+Vary"
+        },
+        {
+          "name": "Restaurace Pod Kaštanem",
+          "address": "Sokolovská 312/159, 360 05 Karlovy Vary-Rybáře",
+          "neighborhood": "Rybáře",
+          "photo": "/images/city-places/karlovy-vary-restaurants-restaurace-pod-kastanem.jpg",
+          "website": "",
+          "description": "A longtime local favorite in the Rybáře district that welcomes two- and four-legged guests both inside and out, and serves hearty Czech meals around the clock. It is the address BringFido lists first for the city.",
+          "descriptionFr": "Un favori local de longue date dans le quartier de Rybáře qui accueille les visiteurs à deux et quatre pattes en salle comme en terrasse, avec une cuisine tchèque copieuse servie à toute heure. C'est l'adresse que BringFido cite en premier pour la ville.",
+          "descriptionEs": "Un clásico local del barrio de Rybáře que recibe a huéspedes de dos y cuatro patas dentro y fuera, con contundente cocina checa servida a cualquier hora. Es la dirección que BringFido cita primero para la ciudad.",
+          "descriptionPt": "Um clássico local do bairro de Rybáře que recebe hóspedes de duas e quatro patas dentro e fora, com farta cozinha checa servida a qualquer hora. É a morada que o BringFido cita em primeiro lugar para a cidade.",
+          "petPolicy": "Dogs allowed inside and on the terrace",
+          "petPolicyFr": "Chiens admis en salle et en terrasse",
+          "petPolicyEs": "Perros admitidos dentro y en la terraza",
+          "petPolicyPt": "Cães admitidos no interior e na esplanada",
+          "priceRange": "€",
+          "mustTry": "Svíčková with dumplings and a Czech lager",
+          "mustTryFr": "Svíčková avec knedlíky et une lager tchèque",
+          "mustTryEs": "Svíčková con knedlíky y una lager checa",
+          "mustTryPt": "Svíčková com knedlíky e uma lager checa",
+          "openingHours": "Open long hours, kitchen until late",
+          "tip": "Handy after a morning at the Rolava lake area, a short walk away in the same district.",
+          "tipFr": "Pratique après une matinée près du lac Rolava, à quelques minutes à pied dans le même quartier.",
+          "tipEs": "Práctico tras una mañana junto al lago Rolava, a pocos minutos a pie en el mismo barrio.",
+          "tipPt": "Prático depois de uma manhã junto ao lago Rolava, a poucos minutos a pé no mesmo bairro.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Restaurace+Pod+Ka%C5%A1tanem+Karlovy+Vary"
+        },
+        {
+          "name": "Café Pupp",
+          "address": "Mírové náměstí 2, 360 01 Karlovy Vary",
+          "neighborhood": "Spa center, by Grandhotel Pupp",
+          "photo": "/images/city-places/karlovy-vary-restaurants-cafe-pupp.jpg",
+          "website": "https://www.pupp.cz",
+          "description": "The legendary patisserie of the Grandhotel Pupp, serving hand-made cakes under chandeliers at the end of the spa promenade. The Pupp is pet-friendly throughout, so a dog at your feet over coffee and Pupp torte raises no eyebrows.",
+          "descriptionFr": "La pâtisserie légendaire du Grandhotel Pupp, qui sert des gâteaux maison sous les lustres au bout de la promenade thermale. Le Pupp est pet-friendly, un chien couché à vos pieds devant un café et une tarte Pupp ne surprend personne.",
+          "descriptionEs": "La legendaria pastelería del Grandhotel Pupp, que sirve tartas artesanas bajo lámparas de araña al final del paseo termal. El Pupp es pet-friendly, así que un perro a tus pies con café y tarta Pupp no sorprende a nadie.",
+          "descriptionPt": "A lendária pastelaria do Grandhotel Pupp, que serve bolos artesanais sob candelabros ao fundo do passeio termal. O Pupp é pet-friendly, por isso um cão deitado aos seus pés com café e torta Pupp não surpreende ninguém.",
+          "petPolicy": "Dogs welcome; the Grandhotel Pupp itself accepts pets",
+          "petPolicyFr": "Chiens bienvenus ; le Grandhotel Pupp lui-même accepte les animaux",
+          "petPolicyEs": "Perros bienvenidos; el propio Grandhotel Pupp acepta mascotas",
+          "petPolicyPt": "Cães bem-vindos; o próprio Grandhotel Pupp aceita animais",
+          "priceRange": "€€€",
+          "mustTry": "Pupp torte and hot chocolate",
+          "mustTryFr": "Tarte Pupp et chocolat chaud",
+          "mustTryEs": "Tarta Pupp y chocolate caliente",
+          "mustTryPt": "Torta Pupp e chocolate quente",
+          "openingHours": "Daily, typically 9:00-19:00",
+          "tip": "Combine it with the forest path up to the Diana funicular, whose lower station is just behind the hotel.",
+          "tipFr": "Combinez avec le sentier forestier vers le funiculaire Diana, dont la gare inférieure est juste derrière l'hôtel.",
+          "tipEs": "Combínalo con el sendero forestal hacia el funicular Diana, cuya estación inferior está justo detrás del hotel.",
+          "tipPt": "Combine com o trilho florestal até ao funicular Diana, cuja estação inferior fica mesmo atrás do hotel.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Caf%C3%A9+Pupp+Karlovy+Vary"
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Parks & Walks for Dogs in Karlovy Vary",
+      "titleFr": "Parcs et balades pour chiens à Karlovy Vary",
+      "titleEs": "Parques y paseos para perros en Karlovy Vary",
+      "titlePt": "Parques e passeios para cães em Karlovy Vary",
+      "introEn": "The spa town sits inside a bowl of forested hills at the edge of the Slavkov Forest, so manicured spa parks and near-endless woodland trails start within minutes of the colonnades. Dogs must stay on a leash in the town parks; the forest paths above town are where locals let them stretch out.",
+      "introFr": "La ville thermale est nichée dans un écrin de collines boisées en lisière de la forêt de Slavkov : parcs thermaux soignés et sentiers forestiers quasi infinis commencent à quelques minutes des colonnades. Les chiens doivent rester en laisse dans les parcs urbains ; les sentiers forestiers au-dessus de la ville sont l'endroit où les habitants les laissent se dépenser.",
+      "introEs": "La ciudad balneario se asienta en una cuenca de colinas boscosas al borde del bosque de Slavkov: los cuidados parques termales y los senderos forestales casi infinitos empiezan a minutos de las columnatas. Los perros deben ir con correa en los parques urbanos; los senderos del bosque sobre la ciudad son donde los locales los dejan desfogarse.",
+      "introPt": "A cidade termal fica numa bacia de colinas arborizadas na orla da floresta de Slavkov: os cuidados parques termais e os trilhos florestais quase infinitos começam a minutos das colunatas. Os cães devem andar de trela nos parques urbanos; os trilhos da floresta acima da cidade são onde os locais os deixam gastar energia.",
+      "places": [
+        {
+          "name": "Dvořákovy sady",
+          "address": "Dvořákovy sady, 360 01 Karlovy Vary",
+          "neighborhood": "Spa center, by the Park Colonnade",
+          "photo": "/images/city-places/karlovy-vary-parks-dvorakovy-sady.jpg",
+          "size": "Small landscaped spa park",
+          "description": "The prettiest of the central spa parks, wrapped around the cast-iron Park Colonnade with flowerbeds and the Dvořák statue. A gentle leashed loop between two colonnade visits, two minutes from the Mill Colonnade.",
+          "descriptionFr": "Le plus joli des parcs thermaux centraux, autour de la colonnade du Parc en fonte, avec parterres fleuris et statue de Dvořák. Une boucle tranquille en laisse entre deux colonnades, à deux minutes de la colonnade du Moulin.",
+          "descriptionEs": "El más bonito de los parques termales centrales, en torno a la columnata del Parque de hierro fundido, con parterres y la estatua de Dvořák. Un paseo suave con correa entre dos columnatas, a dos minutos de la columnata del Molino.",
+          "descriptionPt": "O mais bonito dos parques termais centrais, em torno da colunata do Parque em ferro fundido, com canteiros e a estátua de Dvořák. Um passeio suave de trela entre duas colunatas, a dois minutos da colunata do Moinho.",
+          "features": [
+            "Flowerbeds",
+            "Park Colonnade",
+            "Benches",
+            "River nearby"
+          ],
+          "featuresFr": [
+            "Parterres fleuris",
+            "Colonnade du Parc",
+            "Bancs",
+            "Rivière à proximité"
+          ],
+          "featuresEs": [
+            "Parterres",
+            "Columnata del Parque",
+            "Bancos",
+            "Río cercano"
+          ],
+          "featuresPt": [
+            "Canteiros",
+            "Colunata do Parque",
+            "Bancos",
+            "Rio próximo"
+          ],
+          "leashRules": "Leash required at all times",
+          "leashRulesFr": "Laisse obligatoire en permanence",
+          "leashRulesEs": "Correa obligatoria en todo momento",
+          "leashRulesPt": "Trela obrigatória em todos os momentos",
+          "bestTimeToVisit": "Early morning, before the spa promenade fills up",
+          "bestTimeToVisitFr": "Tôt le matin, avant que la promenade thermale ne se remplisse",
+          "bestTimeToVisitEs": "A primera hora, antes de que se llene el paseo termal",
+          "bestTimeToVisitPt": "De manhã cedo, antes de o passeio termal encher",
+          "googleMapsUrl": "https://www.google.com/maps/search/Dvo%C5%99%C3%A1kovy+sady+Karlovy+Vary"
+        },
+        {
+          "name": "Smetanovy sady",
+          "address": "Smetanovy sady, 360 01 Karlovy Vary",
+          "neighborhood": "Between the spa center and the market district",
+          "photo": "/images/city-places/karlovy-vary-parks-smetanovy-sady.jpg",
+          "size": "Formal park in front of the Alžbětiny lázně spa",
+          "description": "A formal French-style garden spread before the monumental Elisabeth Baths, with wide gravel alleys, fountains and lawns. Its symmetrical paths make an easy, flat leashed walk in a town that is otherwise all hills.",
+          "descriptionFr": "Un jardin à la française déployé devant les monumentaux bains Élisabeth, avec larges allées de gravier, fontaines et pelouses. Ses allées symétriques offrent une balade plate et facile en laisse dans une ville par ailleurs tout en collines.",
+          "descriptionEs": "Un jardín afrancesado extendido ante los monumentales baños Elisabeth, con anchas alamedas de grava, fuentes y céspedes. Sus paseos simétricos ofrecen una caminata llana y fácil con correa en una ciudad que por lo demás es pura cuesta.",
+          "descriptionPt": "Um jardim de estilo francês estendido diante dos monumentais banhos Elisabeth, com largas alamedas de gravilha, fontes e relvados. Os seus caminhos simétricos proporcionam um passeio plano e fácil de trela numa cidade que de resto é só colinas.",
+          "features": [
+            "Fountains",
+            "Wide alleys",
+            "Lawns",
+            "Flat terrain"
+          ],
+          "featuresFr": [
+            "Fontaines",
+            "Larges allées",
+            "Pelouses",
+            "Terrain plat"
+          ],
+          "featuresEs": [
+            "Fuentes",
+            "Alamedas anchas",
+            "Céspedes",
+            "Terreno llano"
+          ],
+          "featuresPt": [
+            "Fontes",
+            "Alamedas largas",
+            "Relvados",
+            "Terreno plano"
+          ],
+          "leashRules": "Leash required; keep dogs off the ornamental lawns",
+          "leashRulesFr": "Laisse obligatoire ; tenez les chiens hors des pelouses ornementales",
+          "leashRulesEs": "Correa obligatoria; mantén a los perros fuera del césped ornamental",
+          "leashRulesPt": "Trela obrigatória; mantenha os cães fora dos relvados ornamentais",
+          "bestTimeToVisit": "Late afternoon, when the fountains are running",
+          "bestTimeToVisitFr": "Fin d'après-midi, quand les fontaines fonctionnent",
+          "bestTimeToVisitEs": "Última hora de la tarde, cuando funcionan las fuentes",
+          "bestTimeToVisitPt": "Fim de tarde, quando as fontes estão a funcionar",
+          "googleMapsUrl": "https://www.google.com/maps/search/Smetanovy+sady+Karlovy+Vary"
+        },
+        {
+          "name": "Slavkovský les",
+          "address": "Trailheads above the spa center, 360 01 Karlovy Vary",
+          "neighborhood": "Forested hills around the spa valley",
+          "photo": "",
+          "size": "Protected landscape area of over 600 km²",
+          "description": "Karlovy Vary is literally built into the edge of this vast protected forest, and some 130 km of marked spa walking paths climb from the colonnades to lookouts like Diana and the Three Crosses. Locals walk dogs off-leash on quiet stretches, but keep yours leashed near game and in the nature reserve zones.",
+          "descriptionFr": "Karlovy Vary est littéralement construite en bordure de cette vaste forêt protégée, et quelque 130 km de sentiers thermaux balisés grimpent des colonnades vers des belvédères comme Diana et les Trois Croix. Les habitants promènent leurs chiens sans laisse sur les tronçons calmes, mais gardez le vôtre en laisse près du gibier et dans les zones de réserve naturelle.",
+          "descriptionEs": "Karlovy Vary está literalmente construida al borde de este vasto bosque protegido, y unos 130 km de senderos termales señalizados suben desde las columnatas a miradores como Diana y las Tres Cruces. Los locales pasean a sus perros sueltos en los tramos tranquilos, pero llévalo atado cerca de la fauna y en las zonas de reserva natural.",
+          "descriptionPt": "Karlovy Vary está literalmente construída na orla desta vasta floresta protegida, e cerca de 130 km de trilhos termais sinalizados sobem das colunatas até miradouros como o Diana e as Três Cruzes. Os locais passeiam os cães sem trela nos troços calmos, mas mantenha o seu de trela perto da fauna e nas zonas de reserva natural.",
+          "features": [
+            "130 km of marked trails",
+            "Lookout towers",
+            "Shade in summer",
+            "Springs and streams"
+          ],
+          "featuresFr": [
+            "130 km de sentiers balisés",
+            "Tours panoramiques",
+            "Ombre en été",
+            "Sources et ruisseaux"
+          ],
+          "featuresEs": [
+            "130 km de senderos señalizados",
+            "Torres mirador",
+            "Sombra en verano",
+            "Manantiales y arroyos"
+          ],
+          "featuresPt": [
+            "130 km de trilhos sinalizados",
+            "Torres miradouro",
+            "Sombra no verão",
+            "Nascentes e ribeiros"
+          ],
+          "leashRules": "Off-leash tolerated on forest paths under voice control; leash required in reserves and near wildlife",
+          "leashRulesFr": "Sans laisse toléré sur les sentiers forestiers sous contrôle vocal ; laisse obligatoire dans les réserves et près de la faune",
+          "leashRulesEs": "Sin correa tolerado en los senderos forestales bajo control de voz; correa obligatoria en reservas y cerca de fauna",
+          "leashRulesPt": "Sem trela tolerado nos trilhos florestais sob controlo de voz; trela obrigatória nas reservas e perto da fauna",
+          "bestTimeToVisit": "Morning in summer; the beech forest keeps the paths cool",
+          "bestTimeToVisitFr": "Le matin en été ; la hêtraie garde les sentiers au frais",
+          "bestTimeToVisitEs": "Por la mañana en verano; el hayedo mantiene frescos los senderos",
+          "bestTimeToVisitPt": "De manhã no verão; a mata de faias mantém os trilhos frescos",
+          "googleMapsUrl": "https://www.google.com/maps/search/Slavkovsk%C3%BD+les+Karlovy+Vary"
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Karlovy Vary with a Dog",
+      "titleFr": "Se déplacer à Karlovy Vary avec un chien",
+      "titleEs": "Moverse por Karlovy Vary con perro",
+      "titlePt": "Deslocar-se em Karlovy Vary com cão",
+      "introEn": "The spa center is pedestrian and compact, so most days you will not need transport at all. When you do, DPKV city buses and the two funiculars take dogs: Czech rules require either a closed carrier or a muzzle plus a short leash, and a dog rides free with any time-based pass on the Karlovy Vary card.",
+      "introFr": "Le centre thermal est piéton et compact, la plupart du temps vous n'aurez besoin d'aucun transport. Quand c'est le cas, les bus DPKV et les deux funiculaires acceptent les chiens : la règle tchèque impose soit une caisse fermée, soit une muselière avec laisse courte, et un chien voyage gratuitement avec tout abonnement horaire de la carte Karlovy Vary.",
+      "introEs": "El centro termal es peatonal y compacto, así que la mayoría de los días no necesitarás transporte. Cuando lo necesites, los autobuses DPKV y los dos funiculares aceptan perros: la norma checa exige transportín cerrado o bozal con correa corta, y un perro viaja gratis con cualquier abono temporal de la tarjeta Karlovy Vary.",
+      "introPt": "O centro termal é pedonal e compacto, na maioria dos dias não vai precisar de transporte. Quando precisar, os autocarros DPKV e os dois funiculares aceitam cães: a regra checa exige caixa de transporte fechada ou açaime com trela curta, e um cão viaja grátis com qualquer passe temporal do cartão Karlovy Vary.",
+      "places": [],
+      "modes": [
+        {
+          "mode": "City buses (DPKV)",
+          "modeFr": "Bus urbains (DPKV)",
+          "modeEs": "Autobuses urbanos (DPKV)",
+          "modePt": "Autocarros urbanos (DPKV)",
+          "policyEn": "Dogs travel in a closed carrier, or muzzled on a short leash with the driver's assent; they may not occupy a seat. One dog rides free with any time-based pass on the Karlovy Vary card.",
+          "policyFr": "Chiens en caisse fermée, ou muselés en laisse courte avec l'accord du chauffeur ; ils ne peuvent pas occuper un siège. Un chien voyage gratuitement avec tout abonnement horaire de la carte Karlovy Vary.",
+          "policyEs": "Perros en transportín cerrado, o con bozal y correa corta con el visto bueno del conductor; no pueden ocupar asiento. Un perro viaja gratis con cualquier abono temporal de la tarjeta Karlovy Vary.",
+          "policyPt": "Cães em caixa fechada, ou com açaime e trela curta com o aval do motorista; não podem ocupar lugar sentado. Um cão viaja grátis com qualquer passe temporal do cartão Karlovy Vary.",
+          "cost": "Dog ticket at the reduced fare when paying per ride; free with time passes",
+          "costFr": "Billet chien au tarif réduit au voyage ; gratuit avec les abonnements",
+          "costEs": "Billete de perro a tarifa reducida por viaje; gratis con abonos",
+          "costPt": "Bilhete de cão à tarifa reduzida por viagem; grátis com passes"
+        },
+        {
+          "mode": "Diana and Imperial funiculars",
+          "modeFr": "Funiculaires Diana et Imperial",
+          "modeEs": "Funiculares Diana e Imperial",
+          "modePt": "Funiculares Diana e Imperial",
+          "policyEn": "Both funiculars carry dogs for a small fee: the Diana line climbs from behind the Grandhotel Pupp to the lookout tower in three minutes, sparing paws the steep ascent.",
+          "policyFr": "Les deux funiculaires transportent les chiens pour un petit supplément : la ligne Diana grimpe de derrière le Grandhotel Pupp à la tour panoramique en trois minutes, épargnant aux pattes la montée raide.",
+          "policyEs": "Ambos funiculares llevan perros por una pequeña tarifa: la línea Diana sube desde detrás del Grandhotel Pupp a la torre mirador en tres minutos, ahorrando a las patas la empinada subida.",
+          "policyPt": "Ambos os funiculares levam cães por uma pequena taxa: a linha Diana sobe de trás do Grandhotel Pupp até à torre miradouro em três minutos, poupando as patas à subida íngreme.",
+          "cost": "Small dog fare in addition to your ticket",
+          "costFr": "Petit tarif chien en plus de votre billet",
+          "costEs": "Pequeña tarifa de perro además de tu billete",
+          "costPt": "Pequena tarifa de cão além do seu bilhete"
+        },
+        {
+          "mode": "Trains (České dráhy)",
+          "modeFr": "Trains (České dráhy)",
+          "modeEs": "Trenes (České dráhy)",
+          "modePt": "Comboios (České dráhy)",
+          "policyEn": "On Czech Railways a dog needs a muzzle and leash, or a carrier for small dogs; larger dogs pay a discounted dog fare. Direct trains link Karlovy Vary with Prague and Cheb along the scenic Ohře valley.",
+          "policyFr": "Dans les trains tchèques, un chien doit porter muselière et laisse, ou voyager en caisse pour les petits ; les grands chiens paient un tarif chien réduit. Des trains directs relient Karlovy Vary à Prague et Cheb le long de la vallée de l'Ohře.",
+          "policyEs": "En los ferrocarriles checos el perro necesita bozal y correa, o transportín si es pequeño; los perros grandes pagan una tarifa canina reducida. Trenes directos unen Karlovy Vary con Praga y Cheb por el valle del Ohře.",
+          "policyPt": "Nos comboios checos o cão precisa de açaime e trela, ou caixa de transporte se for pequeno; os cães grandes pagam uma tarifa canina reduzida. Comboios diretos ligam Karlovy Vary a Praga e Cheb ao longo do vale do Ohře.",
+          "cost": "Discounted dog fare on ČD; small dogs in carriers free",
+          "costFr": "Tarif chien réduit sur ČD ; petits chiens en caisse gratuits",
+          "costEs": "Tarifa canina reducida en ČD; perros pequeños en transportín gratis",
+          "costPt": "Tarifa canina reduzida na ČD; cães pequenos em caixa grátis"
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Swimming Spots for Dogs near Karlovy Vary",
+      "titleFr": "Baignade pour chiens près de Karlovy Vary",
+      "titleEs": "Baños para perros cerca de Karlovy Vary",
+      "titlePt": "Banhos para cães perto de Karlovy Vary",
+      "introEn": "Karlovy Vary is landlocked, and its main city swimming lake, the Rolava recreation complex, does not admit dogs. The workaround locals use is the Ohře river: gravel banks and calm side channels a short way downstream give dogs a safe, free splash away from the lifeguarded zones.",
+      "introFr": "Karlovy Vary est loin de la mer, et son principal lac de baignade urbain, le complexe de loisirs Rolava, n'admet pas les chiens. La solution des habitants est la rivière Ohře : bancs de gravier et bras calmes un peu en aval offrent aux chiens une baignade sûre et gratuite loin des zones surveillées.",
+      "introEs": "Karlovy Vary no tiene mar, y su principal lago de baño urbano, el complejo recreativo Rolava, no admite perros. La alternativa local es el río Ohře: bancos de grava y brazos tranquilos algo río abajo dan a los perros un chapuzón seguro y gratuito lejos de las zonas vigiladas.",
+      "introPt": "Karlovy Vary fica longe do mar, e o seu principal lago de banhos urbano, o complexo recreativo Rolava, não admite cães. A alternativa local é o rio Ohře: bancos de gravilha e braços calmos um pouco a jusante dão aos cães um mergulho seguro e gratuito longe das zonas vigiadas.",
+      "places": [],
+      "beaches": [
+        {
+          "name": "Meandr Ohře",
+          "address": "Meandr Ohře park, Tuhnice, 360 01 Karlovy Vary",
+          "photo": "",
+          "description": "A natural riverside park on a bend of the Ohře in the Tuhnice district, with meadows, a river beach and easy water entry. Popular with local dog owners for a swim outside the bathing-season crowds.",
+          "descriptionFr": "Un parc naturel au bord d'un méandre de l'Ohře dans le quartier de Tuhnice, avec prairies, plage de rivière et accès facile à l'eau. Prisé des maîtres locaux pour une baignade loin de la foule.",
+          "descriptionEs": "Un parque natural junto a un meandro del Ohře en el barrio de Tuhnice, con praderas, playa fluvial y entrada fácil al agua. Popular entre los dueños locales para un baño lejos del gentío.",
+          "descriptionPt": "Um parque natural junto a um meandro do Ohře no bairro de Tuhnice, com prados, praia fluvial e entrada fácil na água. Popular entre os donos locais para um mergulho longe da multidão.",
+          "dogPolicy": "Dogs allowed; keep them clear of nesting areas along the banks",
+          "dogPolicyFr": "Chiens admis ; tenez-les à l'écart des zones de nidification le long des berges",
+          "dogPolicyEs": "Perros permitidos; mantenlos lejos de las zonas de nidificación de las orillas",
+          "dogPolicyPt": "Cães permitidos; mantenha-os afastados das zonas de nidificação nas margens",
+          "leashRequired": true,
+          "seasonalRestrictions": "None; avoid the river after heavy rain when the current strengthens",
+          "seasonalRestrictionsFr": "Aucune ; évitez la rivière après de fortes pluies quand le courant forcit",
+          "seasonalRestrictionsEs": "Ninguna; evita el río tras lluvias fuertes cuando la corriente aumenta",
+          "seasonalRestrictionsPt": "Nenhuma; evite o rio após chuvas fortes quando a corrente aumenta",
+          "googleMapsUrl": "https://www.google.com/maps/search/Meandr+Oh%C5%99e+Karlovy+Vary"
+        },
+        {
+          "name": "Svatošské skály",
+          "address": "Ohře valley trail towards Loket, 360 07 Karlovy Vary-Doubí",
+          "photo": "",
+          "description": "The granite pillars of this national natural monument line a calm stretch of the Ohře reached by a flat 5 km riverside trail from Doubí. Shallow gravel edges let dogs wade while you picnic under the rock towers.",
+          "descriptionFr": "Les piliers de granit de ce monument naturel national bordent un tronçon calme de l'Ohře, atteint par un sentier plat de 5 km depuis Doubí. Les bords de gravier peu profonds laissent les chiens patauger pendant votre pique-nique sous les tours de roche.",
+          "descriptionEs": "Los pilares de granito de este monumento natural nacional bordean un tramo tranquilo del Ohře, al que llega un sendero llano de 5 km desde Doubí. Las orillas de grava poco profundas dejan a los perros chapotear mientras haces picnic bajo las torres de roca.",
+          "descriptionPt": "Os pilares de granito deste monumento natural nacional ladeiam um troço calmo do Ohře, alcançado por um trilho plano de 5 km desde Doubí. As margens de gravilha pouco profundas deixam os cães chapinhar enquanto faz piquenique sob as torres de rocha.",
+          "dogPolicy": "Dogs welcome on the trail; leash required inside the protected monument area",
+          "dogPolicyFr": "Chiens bienvenus sur le sentier ; laisse obligatoire dans la zone du monument protégé",
+          "dogPolicyEs": "Perros bienvenidos en el sendero; correa obligatoria dentro del monumento protegido",
+          "dogPolicyPt": "Cães bem-vindos no trilho; trela obrigatória dentro da zona do monumento protegido",
+          "leashRequired": true,
+          "seasonalRestrictions": "None year-round",
+          "seasonalRestrictionsFr": "Aucune, toute l'année",
+          "seasonalRestrictionsEs": "Ninguna, todo el año",
+          "seasonalRestrictionsPt": "Nenhuma, todo o ano",
+          "googleMapsUrl": "https://www.google.com/maps/search/Svato%C5%A1sk%C3%A9+sk%C3%A1ly"
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians in Karlovy Vary",
+      "titleFr": "Vétérinaires à Karlovy Vary",
+      "titleEs": "Veterinarios en Karlovy Vary",
+      "titlePt": "Veterinários em Karlovy Vary",
+      "introEn": "Karlovy Vary's veterinary practices cluster in the Rybáře district across the river from the spa center. There is no permanent 24-hour clinic in town: outside opening hours, the Karlovy Vary Region runs a weekend first-aid rota between local vets, so always phone before travelling. The EU-wide emergency number is 112.",
+      "introFr": "Les cabinets vétérinaires de Karlovy Vary se concentrent dans le quartier de Rybáře, de l'autre côté de la rivière. Il n'y a pas de clinique 24h/24 permanente en ville : hors horaires d'ouverture, la région de Karlovy Vary organise une garde de week-end tournante entre vétérinaires locaux, téléphonez donc toujours avant de vous déplacer. Le numéro d'urgence européen est le 112.",
+      "introEs": "Las consultas veterinarias de Karlovy Vary se concentran en el barrio de Rybáře, al otro lado del río. No hay clínica 24 horas permanente en la ciudad: fuera de horario, la región de Karlovy Vary organiza una guardia rotatoria de fin de semana entre veterinarios locales, así que llama siempre antes de desplazarte. El número de emergencias europeo es el 112.",
+      "introPt": "As clínicas veterinárias de Karlovy Vary concentram-se no bairro de Rybáře, do outro lado do rio. Não há clínica 24 horas permanente na cidade: fora do horário, a região de Karlovy Vary organiza uma escala rotativa de urgência ao fim de semana entre veterinários locais, por isso telefone sempre antes de se deslocar. O número de emergência europeu é o 112.",
+      "places": [],
+      "clinics": [
+        {
+          "name": "Veterinární klinika KVvet",
+          "address": "Hornická kolonie 1038/2, 360 05 Karlovy Vary-Rybáře",
+          "phone": "+420 353 567 792",
+          "emergencyPhone": "",
+          "hours": "Weekdays with surgery hours; phone for appointments",
+          "emergency24h": false,
+          "description": "The city's largest small-animal clinic, founded in 1998, with surgery, hospitalization and intensive care for dogs, cats, ferrets and exotics. Appointments are booked by phone.",
+          "descriptionFr": "La plus grande clinique pour petits animaux de la ville, fondée en 1998, avec chirurgie, hospitalisation et soins intensifs pour chiens, chats, furets et NAC. Rendez-vous par téléphone.",
+          "descriptionEs": "La mayor clínica de pequeños animales de la ciudad, fundada en 1998, con cirugía, hospitalización y cuidados intensivos para perros, gatos, hurones y exóticos. Cita previa por teléfono.",
+          "descriptionPt": "A maior clínica de pequenos animais da cidade, fundada em 1998, com cirurgia, hospitalização e cuidados intensivos para cães, gatos, furões e exóticos. Marcações por telefone.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Veterin%C3%A1rn%C3%AD+klinika+KVvet+Karlovy+Vary"
+        },
+        {
+          "name": "Veterinární ordinace na Rolavě",
+          "address": "Na Rolavě 163/2, 360 05 Karlovy Vary-Rybáře",
+          "phone": "+420 725 882 142",
+          "emergencyPhone": "",
+          "hours": "Weekday surgery hours; phone consultation recommended first",
+          "emergency24h": false,
+          "description": "A modern practice near the Rolava lake run by MVDr. Klára Fečková and MVDr. Kristýna Verheles, covering routine care, diagnostics and surgery. Listed on the regional veterinary first-aid roster.",
+          "descriptionFr": "Un cabinet moderne près du lac Rolava tenu par les Drs Klára Fečková et Kristýna Verheles : soins courants, diagnostics et chirurgie. Référencé sur la liste régionale de garde vétérinaire.",
+          "descriptionEs": "Una consulta moderna junto al lago Rolava dirigida por las Dras. Klára Fečková y Kristýna Verheles: atención rutinaria, diagnóstico y cirugía. Figura en la lista regional de guardias veterinarias.",
+          "descriptionPt": "Uma clínica moderna junto ao lago Rolava dirigida pelas Dras. Klára Fečková e Kristýna Verheles: cuidados de rotina, diagnóstico e cirurgia. Consta da lista regional de urgência veterinária.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Veterin%C3%A1rn%C3%AD+ordinace+na+Rolav%C4%9B+Karlovy+Vary"
+        },
+        {
+          "name": "PET-VET MVDr. Eva Tichá",
+          "address": "Sedlecká 761/5, 360 10 Karlovy Vary-Rybáře",
+          "phone": "+420 724 034 732",
+          "emergencyPhone": "",
+          "hours": "Weekday surgery hours; call ahead",
+          "emergency24h": false,
+          "description": "A friendly neighborhood practice in Rybáře handling vaccinations, travel paperwork and everyday complaints. A good first call for EU pet passport checks before crossing back into Germany.",
+          "descriptionFr": "Un cabinet de quartier accueillant à Rybáře : vaccins, documents de voyage et soins du quotidien. Un bon premier contact pour vérifier le passeport européen avant de repasser en Allemagne.",
+          "descriptionEs": "Una consulta de barrio acogedora en Rybáře: vacunas, documentación de viaje y dolencias cotidianas. Buena primera llamada para revisar el pasaporte europeo antes de volver a Alemania.",
+          "descriptionPt": "Uma clínica de bairro acolhedora em Rybáře: vacinas, documentação de viagem e queixas do dia a dia. Uma boa primeira chamada para verificar o passaporte europeu antes de regressar à Alemanha.",
+          "googleMapsUrl": "https://www.google.com/maps/search/PET-VET+MVDr.+Eva+Tich%C3%A1+Karlovy+Vary"
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Karlovy Vary with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Karlovy Vary avec un chien",
+      "titleEs": "Consejos esenciales para visitar Karlovy Vary con perro",
+      "titlePt": "Dicas essenciais para visitar Karlovy Vary com cão",
+      "introEn": "The world's most famous spa town is easygoing with dogs as long as you respect one hard rule: they stay outside the colonnades. Plan around that, pack for hills and cobbles, and Karlovy Vary becomes one of the most pleasant Czech cities to explore on four legs.",
+      "introFr": "La plus célèbre ville thermale du monde est décontractée avec les chiens tant que vous respectez une règle stricte : ils restent hors des colonnades. Composez avec cela, prévoyez collines et pavés, et Karlovy Vary devient l'une des villes tchèques les plus agréables à explorer à quatre pattes.",
+      "introEs": "La ciudad balneario más famosa del mundo es relajada con los perros mientras respetes una regla estricta: se quedan fuera de las columnatas. Planifica con eso en mente, prepárate para cuestas y adoquines, y Karlovy Vary se convierte en una de las ciudades checas más agradables de explorar a cuatro patas.",
+      "introPt": "A cidade termal mais famosa do mundo é descontraída com os cães desde que respeite uma regra rígida: eles ficam fora das colunatas. Planeie em função disso, prepare-se para colinas e calçada, e Karlovy Vary torna-se uma das cidades checas mais agradáveis de explorar a quatro patas.",
+      "places": [],
+      "tipsEn": [
+        "Dogs are not allowed inside the spring colonnades, including the Mill and Market Colonnades and the enclosed Hot Spring hall; take turns going in while one person waits outside with the dog.",
+        "On DPKV buses and Czech trains your dog needs a muzzle and short leash, or a closed carrier; pack a muzzle even if your dog never wears one at home.",
+        "Never let your dog drink from the thermal springs or fountains: the water emerges at up to 73 °C and is heavily mineralized; carry your own water on the steep forest climbs instead."
+      ],
+      "tipsFr": [
+        "Les chiens ne sont pas admis dans les colonnades des sources, y compris celles du Moulin et du Marché et la halle fermée du Geyser ; relayez-vous pendant qu'une personne attend dehors avec le chien.",
+        "Dans les bus DPKV et les trains tchèques, votre chien doit porter muselière et laisse courte, ou voyager en caisse fermée ; emportez une muselière même si votre chien n'en porte jamais chez vous.",
+        "Ne laissez jamais votre chien boire aux sources thermales ou aux fontaines : l'eau jaillit jusqu'à 73 °C et est très minéralisée ; emportez votre propre eau pour les montées forestières."
+      ],
+      "tipsEs": [
+        "Los perros no pueden entrar en las columnatas de los manantiales, incluidas la del Molino y la del Mercado y la sala cerrada del Géiser; turnaos mientras una persona espera fuera con el perro.",
+        "En los autobuses DPKV y los trenes checos tu perro necesita bozal y correa corta, o transportín cerrado; lleva un bozal aunque tu perro nunca lo use en casa.",
+        "No dejes que tu perro beba de los manantiales termales ni de las fuentes: el agua brota hasta a 73 °C y está muy mineralizada; lleva tu propia agua para las subidas por el bosque."
+      ],
+      "tipsPt": [
+        "Os cães não podem entrar nas colunatas das nascentes, incluindo a do Moinho e a do Mercado e a sala fechada do Géiser; revezem-se enquanto uma pessoa espera lá fora com o cão.",
+        "Nos autocarros DPKV e nos comboios checos o seu cão precisa de açaime e trela curta, ou caixa fechada; leve um açaime mesmo que o seu cão nunca o use em casa.",
+        "Nunca deixe o seu cão beber das nascentes termais ou das fontes: a água jorra até 73 °C e é muito mineralizada; leve a sua própria água para as subidas na floresta."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to the colonnades in Karlovy Vary?",
+          "a": "No. Dogs are banned from the colonnades and the enclosed Hot Spring hall. You can still walk the promenades beside them, and one person can hold the dog outside while the other tastes the springs."
+        },
+        {
+          "q": "Is there an emergency vet in Karlovy Vary?",
+          "a": "There is no permanent 24-hour clinic in the city. The Karlovy Vary Region organizes a weekend veterinary first-aid rota between local practices, so phone a clinic such as KVvet (+420 353 567 792) first and they will direct you to the vet on duty."
+        },
+        {
+          "q": "Can dogs ride the Diana funicular?",
+          "a": "Yes, dogs are allowed on the funicular for a small fee. The ride from behind the Grandhotel Pupp to the Diana lookout takes about three minutes, and dog-friendly forest trails and a terrace restaurant wait at the top."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien aux colonnades de Karlovy Vary ?",
+          "a": "Non. Les chiens sont interdits dans les colonnades et dans la halle fermée du Geyser. Vous pouvez longer les promenades attenantes, et une personne peut garder le chien dehors pendant que l'autre goûte les sources."
+        },
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence à Karlovy Vary ?",
+          "a": "Il n'y a pas de clinique 24h/24 permanente en ville. La région organise une garde vétérinaire tournante le week-end : appelez d'abord une clinique comme KVvet (+420 353 567 792), qui vous orientera vers le vétérinaire de garde."
+        },
+        {
+          "q": "Les chiens peuvent-ils prendre le funiculaire Diana ?",
+          "a": "Oui, les chiens sont admis dans le funiculaire moyennant un petit supplément. Le trajet depuis l'arrière du Grandhotel Pupp jusqu'au belvédère Diana dure environ trois minutes, avec sentiers forestiers dog-friendly et restaurant avec terrasse au sommet."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a las columnatas de Karlovy Vary?",
+          "a": "No. Los perros están prohibidos en las columnatas y en la sala cerrada del Géiser. Puedes pasear por los paseos contiguos, y una persona puede quedarse fuera con el perro mientras la otra prueba los manantiales."
+        },
+        {
+          "q": "¿Hay veterinario de urgencias en Karlovy Vary?",
+          "a": "No hay clínica 24 horas permanente en la ciudad. La región organiza una guardia veterinaria rotatoria los fines de semana: llama primero a una clínica como KVvet (+420 353 567 792) y te dirigirán al veterinario de turno."
+        },
+        {
+          "q": "¿Pueden los perros subir en el funicular Diana?",
+          "a": "Sí, los perros pueden usar el funicular por una pequeña tarifa. El trayecto desde detrás del Grandhotel Pupp hasta el mirador Diana dura unos tres minutos, y arriba esperan senderos forestales dog-friendly y un restaurante con terraza."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão às colunatas de Karlovy Vary?",
+          "a": "Não. Os cães estão proibidos nas colunatas e na sala fechada do Géiser. Pode passear pelos passeios contíguos, e uma pessoa pode ficar lá fora com o cão enquanto a outra prova as nascentes."
+        },
+        {
+          "q": "Há veterinário de urgência em Karlovy Vary?",
+          "a": "Não há clínica 24 horas permanente na cidade. A região organiza uma escala veterinária rotativa aos fins de semana: ligue primeiro para uma clínica como a KVvet (+420 353 567 792) e será encaminhado para o veterinário de serviço."
+        },
+        {
+          "q": "Os cães podem andar no funicular Diana?",
+          "a": "Sim, os cães são admitidos no funicular por uma pequena taxa. O trajeto desde as traseiras do Grandhotel Pupp até ao miradouro Diana demora cerca de três minutos, e no topo esperam trilhos florestais dog-friendly e um restaurante com esplanada."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Karlovy Vary",
+      "titleFr": "Attractions dog-friendly à Karlovy Vary",
+      "titleEs": "Atracciones dog-friendly en Karlovy Vary",
+      "titlePt": "Atrações dog-friendly em Karlovy Vary",
+      "introEn": "Almost everything worth seeing in Karlovy Vary is outdoors: pastel spa facades, riverside promenades and lookout towers in the forest. Your dog can join every walk in this guide; only the interiors of the colonnades and museums stay off limits.",
+      "introFr": "Presque tout ce qui vaut le détour à Karlovy Vary est en plein air : façades thermales pastel, promenades au bord de la rivière et tours panoramiques dans la forêt. Votre chien peut vous accompagner sur chaque balade de ce guide ; seuls les intérieurs des colonnades et des musées restent interdits.",
+      "introEs": "Casi todo lo que merece la pena en Karlovy Vary está al aire libre: fachadas termales pastel, paseos junto al río y torres mirador en el bosque. Tu perro puede acompañarte en todos los paseos de esta guía; solo los interiores de las columnatas y museos quedan vetados.",
+      "introPt": "Quase tudo o que vale a pena em Karlovy Vary é ao ar livre: fachadas termais pastel, passeios à beira-rio e torres miradouro na floresta. O seu cão pode acompanhá-lo em todos os passeios deste guia; apenas os interiores das colunatas e museus ficam interditos.",
+      "places": [
+        {
+          "name": "Rozhledna Diana",
+          "address": "Vrch přátelství 5/1, 360 01 Karlovy Vary",
+          "photo": "/images/city-places/karlovy-vary-attractions-rozhledna-diana.jpg",
+          "description": "The 1914 lookout tower above the spa valley, reached by a dog-friendly funicular or a 45-minute forest climb. At the top you'll find a panoramic terrace restaurant that welcomes dogs, a mini zoo, and trails fanning out to further viewpoints.",
+          "descriptionFr": "La tour panoramique de 1914 au-dessus de la vallée thermale, accessible par un funiculaire dog-friendly ou 45 minutes de montée en forêt. Au sommet : un restaurant panoramique avec terrasse qui accueille les chiens, un mini zoo et des sentiers rayonnant vers d'autres belvédères.",
+          "descriptionEs": "La torre mirador de 1914 sobre el valle termal, accesible en funicular dog-friendly o con 45 minutos de subida por el bosque. Arriba hay un restaurante panorámico con terraza que acepta perros, un mini zoo y senderos hacia otros miradores.",
+          "descriptionPt": "A torre miradouro de 1914 sobre o vale termal, acessível por um funicular dog-friendly ou 45 minutos de subida pela floresta. No topo há um restaurante panorâmico com esplanada que aceita cães, um mini zoo e trilhos para outros miradouros.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/Rozhledna+Diana+Karlovy+Vary"
+        },
+        {
+          "name": "Mlýnská kolonáda",
+          "address": "Mlýnské nábřeží 507/5, 360 01 Karlovy Vary",
+          "photo": "",
+          "description": "The grandest of the town's neo-Renaissance colonnades, 132 meters of columns sheltering five hot springs. Dogs cannot walk under the colonnade itself, but the riverside promenade in front gives you the full facade, and photo stops, from a few steps away.",
+          "descriptionFr": "La plus majestueuse des colonnades néo-Renaissance de la ville : 132 mètres de colonnes abritant cinq sources chaudes. Les chiens ne peuvent pas passer sous la colonnade elle-même, mais la promenade au bord de la rivière offre la façade entière, et les photos, à quelques pas.",
+          "descriptionEs": "La más majestuosa de las columnatas neorrenacentistas de la ciudad: 132 metros de columnas que cobijan cinco manantiales calientes. Los perros no pueden pasar bajo la columnata, pero el paseo fluvial de delante ofrece la fachada completa, y las fotos, a unos pasos.",
+          "descriptionPt": "A mais majestosa das colunatas neorrenascentistas da cidade: 132 metros de colunas que abrigam cinco nascentes quentes. Os cães não podem passar sob a colunata, mas o passeio ribeirinho em frente oferece a fachada completa, e as fotografias, a poucos passos.",
+          "dogFriendly": false,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/Ml%C3%BDnsk%C3%A1+kolon%C3%A1da+Karlovy+Vary"
+        },
+        {
+          "name": "Svatošské skály",
+          "address": "Ohře valley between Doubí and Loket",
+          "photo": "",
+          "description": "A gorge of granite towers on the Ohře river, wrapped in legend and linked to town by a flat riverside cycling and walking path. The 10 km round trip from Doubí, with a footbridge, picnic meadows and a trail-side restaurant, is the classic half-day outing with a dog.",
+          "descriptionFr": "Des tours de granit dressées au-dessus de l'Ohře, entourées de légendes et reliées à la ville par un chemin plat au bord de la rivière. L'aller-retour de 10 km depuis Doubí, avec passerelle, prairies à pique-nique et restaurant en chemin, est la sortie classique d'une demi-journée avec un chien.",
+          "descriptionEs": "Torres de granito alzadas sobre el río Ohře, envueltas en leyendas y unidas a la ciudad por un camino llano junto al río. La ida y vuelta de 10 km desde Doubí, con pasarela, praderas de picnic y restaurante junto al sendero, es la excursión clásica de media jornada con perro.",
+          "descriptionPt": "Torres de granito erguidas sobre o rio Ohře, envoltas em lendas e ligadas à cidade por um caminho plano à beira-rio. A ida e volta de 10 km desde Doubí, com ponte pedonal, prados de piquenique e restaurante junto ao trilho, é o passeio clássico de meio dia com cão.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/Svato%C5%A1sk%C3%A9+sk%C3%A1ly"
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Karlovy Vary",
+      "titleFr": "Garde d'animaux et promenade de chiens à Karlovy Vary",
+      "titleEs": "Cuidadores y paseadores de perros en Karlovy Vary",
+      "titlePt": "Pet sitting e passeadores de cães em Karlovy Vary",
+      "introEn": "If you book a spa treatment or a colonnade tour where your dog cannot follow, Czech online platforms connect you with vetted local sitters in and around Karlovy Vary. Book a day or two ahead; the pool of sitters is smaller than in Prague.",
+      "introFr": "Si vous réservez un soin thermal ou une visite des colonnades où votre chien ne peut pas suivre, les plateformes tchèques en ligne vous mettent en relation avec des gardiens locaux vérifiés à Karlovy Vary et alentour. Réservez un jour ou deux à l'avance ; le vivier de gardiens est plus réduit qu'à Prague.",
+      "introEs": "Si reservas un tratamiento termal o una visita a las columnatas donde tu perro no puede entrar, las plataformas checas en línea te conectan con cuidadores locales verificados en Karlovy Vary y alrededores. Reserva con uno o dos días de antelación; hay menos cuidadores que en Praga.",
+      "introPt": "Se reservar um tratamento termal ou uma visita às colunatas onde o seu cão não pode entrar, as plataformas checas online ligam-no a pet sitters locais verificados em Karlovy Vary e arredores. Reserve com um ou dois dias de antecedência; a oferta de sitters é menor do que em Praga.",
+      "places": [],
+      "services": [
+        {
+          "name": "Hlídačky.cz",
+          "website": "https://www.hlidacky.cz",
+          "description": "The largest Czech babysitting and pet-sitting marketplace, with profiles, reviews and identity checks, covering Karlovy Vary sitters for home visits and walks.",
+          "descriptionFr": "La plus grande place de marché tchèque de baby-sitting et pet-sitting, avec profils, avis et vérification d'identité, couvrant Karlovy Vary pour visites à domicile et promenades.",
+          "descriptionEs": "El mayor mercado checo de canguros y cuidado de mascotas, con perfiles, reseñas y verificación de identidad, que cubre Karlovy Vary para visitas a domicilio y paseos.",
+          "descriptionPt": "O maior marketplace checo de babysitting e pet sitting, com perfis, avaliações e verificação de identidade, cobrindo Karlovy Vary para visitas ao domicílio e passeios.",
+          "priceRange": "From about 150 CZK (6 EUR) per hour",
+          "priceRangeFr": "À partir d'environ 150 CZK (6 EUR) de l'heure",
+          "priceRangeEs": "Desde unas 150 CZK (6 EUR) por hora",
+          "priceRangePt": "A partir de cerca de 150 CZK (6 EUR) por hora",
+          "bookingRequired": true
+        },
+        {
+          "name": "Dogsy.cz",
+          "website": "https://www.dogsy.cz",
+          "description": "A Czech platform dedicated to dog sitting and walking, matching owners with insured sitters who host dogs in their own homes for hours or overnights.",
+          "descriptionFr": "Une plateforme tchèque dédiée à la garde et à la promenade de chiens, qui met en relation les maîtres avec des gardiens assurés accueillant les chiens chez eux à l'heure ou pour la nuit.",
+          "descriptionEs": "Una plataforma checa dedicada al cuidado y paseo de perros, que empareja a dueños con cuidadores asegurados que alojan perros en su propia casa por horas o noches.",
+          "descriptionPt": "Uma plataforma checa dedicada ao pet sitting e passeio de cães, que liga donos a sitters com seguro que acolhem cães em sua casa por horas ou por noite.",
+          "priceRange": "From about 300 CZK (12 EUR) per day",
+          "priceRangeFr": "À partir d'environ 300 CZK (12 EUR) par jour",
+          "priceRangeEs": "Desde unas 300 CZK (12 EUR) por día",
+          "priceRangePt": "A partir de cerca de 300 CZK (12 EUR) por dia",
+          "bookingRequired": true
+        }
+      ]
+    }
+  }
+}

@@ -30906,6 +30906,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  trento: {
+    history: {
+      fr: `Tridentum romaine posée sur l'Adige, Trente doit son nom aux trois collines qui l'entourent et sa renommée au concile qui, de 1545 à 1563, y redessina l'Europe catholique. Gouvernée près de huit siècles par des princes-évêques depuis le Castello del Buonconsiglio, elle a gardé de la Renaissance ses palais aux façades peintes autour de la Piazza del Duomo. Autrichienne jusqu'en 1918, elle est aujourd'hui capitale d'une province autonome prospère, réputée pour sa qualité de vie. Ville d'études et de sciences avec le MUSE de Renzo Piano, elle reste avant tout une ville de montagne : la funivia grimpe à Sardagna en quatre minutes et le Monte Bondone culmine à plus de 2 000 mètres au-dessus des toits. Pour les chiens, c'est une ville d'aires clôturées, de parcs boisés et de sentiers alpins qui commencent presque en centre-ville.`,
+      en: `Roman Tridentum on the Adige, Trento takes its name from the three hills around it and its fame from the council that redrew Catholic Europe here between 1545 and 1563. Governed for nearly eight centuries by prince-bishops from the Castello del Buonconsiglio, it kept its Renaissance palaces with frescoed facades around Piazza del Duomo. Austrian until 1918, it is now the capital of a prosperous autonomous province with a reputation for quality of life. A university and science city with Renzo Piano's MUSE museum, it remains above all a mountain town: the funivia climbs to Sardagna in four minutes and Monte Bondone rises to over 2,000 metres above the rooftops. For dogs it is a city of fenced play areas, wooded parks and Alpine trails that begin almost in the city centre.`,
+      es: `Tridentum romana a orillas del Adigio, Trento debe su nombre a las tres colinas que la rodean y su fama al concilio que entre 1545 y 1563 redibujó la Europa católica. Gobernada casi ocho siglos por príncipes-obispos desde el Castello del Buonconsiglio, conserva sus palacios renacentistas de fachadas pintadas en torno a la Piazza del Duomo. Austriaca hasta 1918, hoy es capital de una próspera provincia autónoma famosa por su calidad de vida. Ciudad universitaria y científica con el museo MUSE de Renzo Piano, sigue siendo ante todo una ciudad de montaña: el teleférico sube a Sardagna en cuatro minutos y el Monte Bondone supera los 2.000 metros sobre los tejados. Para los perros es una ciudad de áreas valladas, parques arbolados y senderos alpinos que empiezan casi en el centro.`,
+      pt: `Tridentum romana nas margens do Adige, Trento deve o nome às três colinas que a rodeiam e a fama ao concílio que entre 1545 e 1563 redesenhou a Europa católica. Governada quase oito séculos por príncipes-bispos a partir do Castello del Buonconsiglio, conserva os palácios renascentistas de fachadas pintadas em torno da Piazza del Duomo. Austríaca até 1918, é hoje capital de uma próspera província autónoma conhecida pela qualidade de vida. Cidade universitária e de ciência com o museu MUSE de Renzo Piano, continua a ser sobretudo uma cidade de montanha: o teleférico sobe a Sardagna em quatro minutos e o Monte Bondone ultrapassa os 2.000 metros acima dos telhados. Para os cães é uma cidade de áreas vedadas, parques arborizados e trilhos alpinos que começam quase no centro.`,
+    },
+    sights: [
+      {
+        name: `Piazza del Duomo`,
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Le salon de Trente : la cathédrale San Vigilio, la fontaine de Neptune et les maisons Cazuffi-Rella aux façades entièrement peintes. La place et les rues à arcades qui en partent se parcourent librement avec un chien en laisse, surtout agréables tôt le matin avant les terrasses.`,
+          en: `Trento's living room: the San Vigilio cathedral, the Neptune fountain and the Cazuffi-Rella houses with fully frescoed facades. The square and the arcaded streets radiating from it are freely walkable with a leashed dog, nicest early in the morning before the cafe terraces fill.`,
+          es: `El salón de Trento: la catedral de San Vigilio, la fuente de Neptuno y las casas Cazuffi-Rella con fachadas totalmente pintadas. La plaza y las calles porticadas que salen de ella se recorren libremente con el perro atado, mejor temprano, antes de que se llenen las terrazas.`,
+          pt: `A sala de estar de Trento: a catedral de San Vigilio, a fonte de Neptuno e as casas Cazuffi-Rella de fachadas totalmente pintadas. A praça e as ruas com arcadas que dela partem percorrem-se livremente com o cão pela trela, melhor de manhã cedo, antes das esplanadas encherem.`,
+        },
+      },
+      {
+        name: `Castello del Buonconsiglio`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `La résidence des princes-évêques, entre donjon médiéval et loggia Renaissance. Les jardins, accessibles par la Porta dei Diamanti, accueillent gratuitement les chiens en laisse de toutes tailles ; dans le musée, seuls les petits chiens portés ou en caisse sont admis.`,
+          en: `The prince-bishops' residence, part medieval keep, part Renaissance loggia. The gardens, entered through the Porta dei Diamanti, welcome leashed dogs of all sizes for free; inside the museum only small dogs carried or in a carrier are admitted.`,
+          es: `La residencia de los príncipes-obispos, entre torreón medieval y logia renacentista. Los jardines, por la Porta dei Diamanti, reciben gratis a perros con correa de todos los tamaños; dentro del museo solo se admiten perros pequeños en brazos o en transportín.`,
+          pt: `A residência dos príncipes-bispos, entre torre medieval e loggia renascentista. Os jardins, pela Porta dei Diamanti, recebem gratuitamente cães com trela de todos os tamanhos; dentro do museu só são admitidos cães pequenos ao colo ou em transportadora.`,
+        },
+      },
+      {
+        name: `Funivia Trento-Sardagna`,
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          fr: `Quatre minutes de câble pour grimper 400 mètres jusqu'au balcon de Sardagna sur la vallée de l'Adige. Les petits chiens portés voyagent gratuitement, les grands paient 1,20 euro avec muselière et laisse ; la funivia admet même plusieurs animaux sur une cabine dédiée.`,
+          en: `Four minutes of cable to climb 400 metres to Sardagna's balcony over the Adige valley. Small dogs carried in your arms ride free, larger ones pay 1.20 euros with muzzle and leash; the funivia even allows several animals on a dedicated cabin run.`,
+          es: `Cuatro minutos de cable para subir 400 metros hasta el balcón de Sardagna sobre el valle del Adigio. Los perros pequeños en brazos viajan gratis, los grandes pagan 1,20 euros con bozal y correa; el teleférico admite incluso varios animales en una cabina dedicada.`,
+          pt: `Quatro minutos de cabo para subir 400 metros até ao miradouro de Sardagna sobre o vale do Adige. Os cães pequenos ao colo viajam grátis, os maiores pagam 1,20 euros com açaime e trela; o teleférico admite até vários animais numa cabina dedicada.`,
+        },
+      },
+      {
+        name: `Parco di Gocciadoro`,
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Vingt hectares de bois et de pelouses sur la colline sud-est, le grand poumon vert des chiens trentins. Aire canine clôturée avec fontaine d'eau potable et sentiers ombragés précieux en été ; laisse obligatoire hors de l'enclos.`,
+          en: `Twenty hectares of woods and lawns on the south-eastern hill, the great green lung for Trento's dogs. A fenced dog area with a drinking fountain and shaded trails that are precious in summer; leash required outside the enclosure.`,
+          es: `Veinte hectáreas de bosque y praderas en la colina sureste, el gran pulmón verde de los perros trentinos. Área canina vallada con fuente de agua potable y senderos sombreados muy valiosos en verano; correa obligatoria fuera del recinto.`,
+          pt: `Vinte hectares de bosque e relvados na colina sudeste, o grande pulmão verde dos cães de Trento. Área canina vedada com fonte de água potável e trilhos sombreados preciosos no verão; trela obrigatória fora do recinto.`,
+        },
+      },
+      {
+        name: `MUSE - Museo delle Scienze`,
+        emoji: '🔬',
+        petFriendly: false,
+        desc: {
+          fr: `Le spectaculaire musée des sciences signé Renzo Piano n'admet pas les chiens, mais il a prévu la solution : le refuge municipal de Via delle Bettine 35 offre des boxes de jour gratuits et un service de prise en charge au musée pour 10 euros, à réserver à l'avance.`,
+          en: `Renzo Piano's spectacular science museum does not admit dogs, but it has a solution ready: the municipal kennel at Via delle Bettine 35 offers free day boxes and a 10 euro pickup service at the museum, to be booked in advance.`,
+          es: `El espectacular museo de ciencias de Renzo Piano no admite perros, pero tiene la solución prevista: la perrera municipal de Via delle Bettine 35 ofrece boxes de día gratuitos y un servicio de recogida en el museo por 10 euros, reservando con antelación.`,
+          pt: `O espetacular museu de ciências de Renzo Piano não admite cães, mas tem a solução prevista: o canil municipal da Via delle Bettine 35 oferece boxes de dia gratuitos e um serviço de recolha no museu por 10 euros, a reservar com antecedência.`,
+        },
+      },
+      {
+        name: `Monte Bondone e Le Viote`,
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `La montagne de Trente, avec le vaste plateau des Viote vers 1 500 mètres : prairies à pique-nique, sentiers dog-friendly et fraîcheur garantie quand la vallée suffoque. Seul le jardin botanique alpin est interdit aux chiens ; attention aux troupeaux en alpage, laisse de rigueur.`,
+          en: `Trento's own mountain, with the broad Viote plain at around 1,500 metres: picnic meadows, dog-friendly trails and guaranteed coolness when the valley swelters. Only the alpine botanical garden is off-limits to dogs; watch for grazing herds and keep the leash on.`,
+          es: `La montaña de Trento, con el amplio llano de Le Viote hacia los 1.500 metros: prados de picnic, senderos dog-friendly y frescor garantizado cuando el valle se ahoga de calor. Solo el jardín botánico alpino está vetado a los perros; cuidado con los rebaños en los pastos, correa puesta.`,
+          pt: `A montanha de Trento, com o amplo planalto de Le Viote por volta dos 1.500 metros: prados de piquenique, trilhos dog-friendly e frescura garantida quando o vale sufoca. Só o jardim botânico alpino é vedado aos cães; atenção aos rebanhos nas pastagens, trela sempre.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Ayez toujours une muselière sur vous : bus, trains régionaux et funivia de Sardagna l'exigent avec une laisse de 1,5 mètre maximum, quelle que soit la taille du chien.`,
+        `Sur les transports Trentino Trasporti, les petits chiens portés voyagent gratuitement et les grands paient un billet de 1,20 euro ; un seul animal par passager, sauf sur la funivia en cabine dédiée.`,
+        `La ville entretient depuis 1997 des aires canines clôturées avec fontaines dans ses grands parcs : Gocciadoro, Melta, Alexander Langer et Piazza Venezia sont les plus pratiques.`,
+        `En juillet-août, évitez l'asphalte brûlant de la vallée aux heures chaudes : montez au Monte Bondone ou partez tôt vers les plages canines du lac de Caldonazzo, à 25 minutes.`,
+        `La plage publique de la commune de Caldonazzo interdit les chiens : visez les deux Bau Beach officielles, San Cristoforo et Le Stanghe à Calceranica, et apportez de l'eau, il n'y a pas de fontaines.`,
+      ],
+      en: [
+        `Always carry a muzzle: buses, regional trains and the Sardagna funivia require one together with a leash of 1.5 metres maximum, whatever your dog's size.`,
+        `On Trentino Trasporti services, small dogs carried in your arms travel free and larger dogs pay a 1.20 euro ticket; one animal per passenger, except on the funivia's dedicated cabin runs.`,
+        `Since 1997 the city has maintained fenced dog areas with fountains in its main parks: Gocciadoro, Melta, Alexander Langer and Piazza Venezia are the handiest.`,
+        `In July and August avoid the valley's scorching pavement in the hot hours: head up Monte Bondone or leave early for the dog beaches of Lake Caldonazzo, 25 minutes away.`,
+        `The public beach in Caldonazzo town bans dogs: aim for the two official Bau Beaches, San Cristoforo and Le Stanghe in Calceranica, and bring water, there are no fountains on site.`,
+      ],
+      es: [
+        `Lleva siempre un bozal encima: los autobuses, los trenes regionales y el teleférico de Sardagna lo exigen junto a una correa de 1,5 metros como máximo, sea cual sea el tamaño del perro.`,
+        `En los servicios de Trentino Trasporti, los perros pequeños en brazos viajan gratis y los grandes pagan un billete de 1,20 euros; un animal por pasajero, salvo en las cabinas dedicadas del teleférico.`,
+        `Desde 1997 la ciudad mantiene áreas caninas valladas con fuentes en sus grandes parques: Gocciadoro, Melta, Alexander Langer y Piazza Venezia son las más prácticas.`,
+        `En julio y agosto evita el asfalto ardiente del valle en las horas de calor: sube al Monte Bondone o sal temprano hacia las playas caninas del lago de Caldonazzo, a 25 minutos.`,
+        `La playa pública del pueblo de Caldonazzo prohíbe los perros: ve a las dos Bau Beach oficiales, San Cristoforo y Le Stanghe en Calceranica, y lleva agua, no hay fuentes en el sitio.`,
+      ],
+      pt: [
+        `Leve sempre um açaime consigo: autocarros, comboios regionais e o teleférico de Sardagna exigem-no junto com uma trela de 1,5 metros no máximo, seja qual for o tamanho do cão.`,
+        `Nos serviços da Trentino Trasporti, os cães pequenos ao colo viajam grátis e os maiores pagam bilhete de 1,20 euros; um animal por passageiro, exceto nas cabinas dedicadas do teleférico.`,
+        `Desde 1997 a cidade mantém áreas caninas vedadas com fontes nos seus grandes parques: Gocciadoro, Melta, Alexander Langer e Piazza Venezia são as mais práticas.`,
+        `Em julho e agosto evite o asfalto escaldante do vale nas horas quentes: suba ao Monte Bondone ou saia cedo para as praias caninas do lago de Caldonazzo, a 25 minutos.`,
+        `A praia pública da vila de Caldonazzo proíbe cães: procure as duas Bau Beach oficiais, San Cristoforo e Le Stanghe em Calceranica, e leve água, não há fontes no local.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences vétérinaires 24 h/24 : Clinica Veterinaria Animal Care, Via Palermo 19/4, tél. +39 0461 390342 (urgences +39 347 049 3266).`,
+        `Astreinte 24/7 y compris jours fériés : Ambulatorio Veterinario Martignano, urgences +39 340 854 7293 (appelez, n'envoyez pas de messages).`,
+        `Numéro d'urgence européen : 112. Pour un animal sauvage blessé, la police locale de Trente oriente vers le service compétent.`,
+        `Dans le train, gardez sur vous le carnet de vaccination ou le passeport européen de votre chien : il peut être contrôlé à bord.`,
+        `Sacs à déjections obligatoires partout en ville ; les aires canines fournissent distributeurs et fontaines, mais les plages du lac de Caldonazzo n'ont pas d'eau potable.`,
+      ],
+      en: [
+        `24-hour veterinary emergencies: Clinica Veterinaria Animal Care, Via Palermo 19/4, tel. +39 0461 390342 (emergencies +39 347 049 3266).`,
+        `On-call 24/7 including holidays: Ambulatorio Veterinario Martignano, emergencies +39 340 854 7293 (call, do not send messages).`,
+        `European emergency number: 112. For an injured wild animal, Trento's local police will point you to the competent service.`,
+        `On trains keep your dog's vaccination record or EU pet passport with you: it can be checked on board.`,
+        `Waste bags are compulsory everywhere in town; the dog areas provide dispensers and fountains, but the Lake Caldonazzo dog beaches have no drinking water.`,
+      ],
+      es: [
+        `Urgencias veterinarias 24 horas: Clinica Veterinaria Animal Care, Via Palermo 19/4, tel. +39 0461 390342 (urgencias +39 347 049 3266).`,
+        `Guardia 24/7 incluso festivos: Ambulatorio Veterinario Martignano, urgencias +39 340 854 7293 (llama, no envíes mensajes).`,
+        `Número de emergencias europeo: 112. Para un animal salvaje herido, la policía local de Trento te indicará el servicio competente.`,
+        `En el tren lleva contigo la cartilla de vacunación o el pasaporte europeo de tu perro: pueden pedirlo a bordo.`,
+        `Las bolsas para excrementos son obligatorias en toda la ciudad; las áreas caninas tienen dispensadores y fuentes, pero las playas caninas del lago de Caldonazzo no tienen agua potable.`,
+      ],
+      pt: [
+        `Urgências veterinárias 24 horas: Clinica Veterinaria Animal Care, Via Palermo 19/4, tel. +39 0461 390342 (urgências +39 347 049 3266).`,
+        `Prevenção 24/7 incluindo feriados: Ambulatorio Veterinario Martignano, urgências +39 340 854 7293 (telefone, não envie mensagens).`,
+        `Número de emergência europeu: 112. Para um animal selvagem ferido, a polícia local de Trento indica o serviço competente.`,
+        `No comboio leve consigo o boletim de vacinas ou o passaporte europeu do seu cão: pode ser pedido a bordo.`,
+        `Os sacos para dejetos são obrigatórios em toda a cidade; as áreas caninas têm dispensadores e fontes, mas as praias caninas do lago de Caldonazzo não têm água potável.`,
+      ],
+    },
+  },
+
   treviso: {
     history: {
       fr: `Née carrefour de rivières, Trévise a grandi sur les résurgences du Sile et les bras du Cagnan, que les Trévisans ont domestiqués en canaux, moulins et lavoirs dès le Moyen Âge. Commune libre puis fidèle possession de Venise à partir de 1339, elle en a adopté l'art de vivre : arcades peintes à fresque, palais gothiques et un marché aux poissons installé depuis 1856 sur sa propre île. Ses remparts du XVIe siècle, élevés par la Sérénissime, ceinturent toujours le centre. Durement bombardée le Vendredi saint 1944, elle s'est reconstruite avec soin et discrétion. Aujourd'hui capitale du radicchio rouge, patrie du tiramisu et porte des collines UNESCO du Prosecco, Trévise offre l'atmosphère vénitienne sans la cohue : une ville d'eau et d'arcades qui se découvre entièrement à pied, au grand bonheur des chiens.`,

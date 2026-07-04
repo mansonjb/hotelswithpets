@@ -26714,5 +26714,79 @@
         "icon": "❄️"
       }
     }
+  },
+  {
+    "slug": "trento",
+    "name": "Trento",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/trento.jpg",
+    "intro": "The capital of Trentino is an Alpine-Italian crossroads that treats dogs as part of city life: fenced dog areas with fountains in every big park since 1997, a cable car to Sardagna that welcomes dogs for 1.20 euros, frescoed Renaissance squares to stroll on leash, dog beaches on Lake Caldonazzo 25 minutes away and the cool trails of Monte Bondone at 1,500-2,100 m when the valley heats up.",
+    "lat": 46.0748,
+    "lng": 11.1217,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold & dry",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold, brightening",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool spring air",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm, first heat",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Hot valley days",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Hot with storms",
+        "icon": "⛈️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & clear",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold, festive",
+        "icon": "❄️"
+      }
+    }
   }
 ]

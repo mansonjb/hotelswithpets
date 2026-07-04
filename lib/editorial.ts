@@ -36,6 +36,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Hofgarten canals, the Eremitage park follies, and the Wilhelminenaue river meadows',
       area: 'the old town, the Green Hill, and the Roter Main valley',
     },
+    trento: {
+      personality: `one of the most dog-welcoming Alpine capitals in Italy, with fenced dog parks in every district and mountains rising straight from town`,
+      highlight: `the Gocciadoro woods, the Sardagna cable-car viewpoint, and the dog beaches of Lake Caldonazzo`,
+      area: `the frescoed historic centre, the Gocciadoro hillside, and Sardagna above the Adige valley`,
+    },
     ravenna: {
       personality: `Ravenna is a flat, unhurried mosaic city where a leashed dog fits naturally into pedestrian piazzas, pinewood trails and the easygoing rhythm of the Adriatic coast.`,
       highlight: `Pair a morning of Byzantine mosaics, visited in turns, with an afternoon dog-walk through the Pineta di San Vitale and a swim at a Marina di Ravenna dog beach.`,
@@ -1814,6 +1819,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les canaux du Hofgarten, les fabriques du parc de l’Eremitage et les prairies de la Wilhelminenaue',
       area: 'la vieille ville, la Colline verte et la vallée du Roter Main',
     },
+    trento: {
+      personality: `l'une des capitales alpines d'Italie les plus accueillantes pour les chiens, avec des aires canines clôturées dans chaque quartier et des montagnes qui s'élèvent depuis la ville`,
+      highlight: `les bois du Gocciadoro, le belvédère de la funivia de Sardagna et les plages canines du lac de Caldonazzo`,
+      area: `le centre historique aux façades peintes, la colline du Gocciadoro et Sardagna au-dessus de la vallée de l'Adige`,
+    },
     ravenna: {
       personality: `Ravenne est une ville de mosaïques plate et sans hâte, où un chien en laisse trouve naturellement sa place sur les places piétonnes, les sentiers des pinèdes et le rythme nonchalant de la côte adriatique.`,
       highlight: `Associez une matinée de mosaïques byzantines, visitées en relais, à une promenade canine dans la Pineta di San Vitale et à une baignade sur une plage pour chiens de Marina di Ravenna.`,
@@ -3591,6 +3601,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'los canales del Hofgarten, los caprichos del parque de la Eremitage y las praderas de la Wilhelminenaue',
       area: 'el casco antiguo, la Colina Verde y el valle del Roter Main',
     },
+    trento: {
+      personality: `una de las capitales alpinas de Italia más acogedoras con los perros, con áreas caninas valladas en cada barrio y montañas que arrancan de la propia ciudad`,
+      highlight: `los bosques del Gocciadoro, el mirador del teleférico de Sardagna y las playas caninas del lago de Caldonazzo`,
+      area: `el centro histórico de fachadas pintadas, la colina del Gocciadoro y Sardagna sobre el valle del Adigio`,
+    },
     ravenna: {
       personality: `Rávena es una ciudad de mosaicos llana y sin prisas, donde un perro con correa encaja con naturalidad en las plazas peatonales, los senderos de los pinares y el ritmo relajado de la costa adriática.`,
       highlight: `Combina una mañana de mosaicos bizantinos, visitados por turnos, con un paseo canino por la Pineta di San Vitale y un baño en una playa para perros de Marina di Ravenna.`,
@@ -5367,6 +5382,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a verde cidade-festival de Wagner no coração da Francónia',
       highlight: 'os canais do Hofgarten, os caprichos do parque da Eremitage e os prados da Wilhelminenaue',
       area: 'o centro histórico, a Colina Verde e o vale do Roter Main',
+    },
+    trento: {
+      personality: `uma das capitais alpinas de Itália mais acolhedoras para cães, com áreas caninas vedadas em cada bairro e montanhas que sobem da própria cidade`,
+      highlight: `os bosques do Gocciadoro, o miradouro do teleférico de Sardagna e as praias caninas do lago de Caldonazzo`,
+      area: `o centro histórico de fachadas pintadas, a colina do Gocciadoro e Sardagna sobre o vale do Adige`,
     },
     ravenna: {
       personality: `Ravena é uma cidade de mosaicos plana e sem pressa, onde um cão com trela se encaixa naturalmente nas praças pedonais, nos trilhos dos pinhais e no ritmo descontraído da costa adriática.`,

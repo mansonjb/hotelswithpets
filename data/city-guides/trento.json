@@ -1,0 +1,528 @@
+{
+  "slug": "trento",
+  "name": "Trento",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "lastUpdated": "2026-07-05",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Trento",
+      "titleFr": "Restaurants acceptant les chiens à Trente",
+      "titleEs": "Restaurantes que admiten perros en Trento",
+      "titlePt": "Restaurantes que aceitam cães em Trento",
+      "introEn": "Trento's dining scene mixes Alpine and Italian traditions, and a good number of trattorias and pizzerias welcome dogs, especially on terraces. Local directories such as Dogwelcome list around thirty dog-friendly bars and eateries in the city alone.",
+      "introFr": "La table trentine mêle traditions alpines et italiennes, et bon nombre de trattorias et pizzerias accueillent les chiens, surtout en terrasse. Les annuaires locaux comme Dogwelcome recensent une trentaine de bars et restaurants dog-friendly rien qu'en ville.",
+      "introEs": "La gastronomía de Trento mezcla tradiciones alpinas e italianas, y muchas trattorias y pizzerías aceptan perros, sobre todo en las terrazas. Directorios locales como Dogwelcome recogen una treintena de bares y restaurantes dog-friendly solo en la ciudad.",
+      "introPt": "A gastronomia de Trento mistura tradições alpinas e italianas, e muitas trattorias e pizzarias aceitam cães, sobretudo nas esplanadas. Diretórios locais como o Dogwelcome listam cerca de trinta bares e restaurantes dog-friendly só na cidade.",
+      "places": [
+        {
+          "name": "Loto Ristorante Pizzeria",
+          "address": "Via Gocciadoro 62, 38122 Trento",
+          "neighborhood": "Gocciadoro",
+          "photo": "/images/city-places/trento-restaurants-loto.jpg",
+          "website": "https://lototrento.it",
+          "description": "A Trento institution since 1997, serving pizza and Trentino classics right next to Gocciadoro park. Staff are known for actively welcoming dogs and bringing a water bowl during the meal.",
+          "descriptionFr": "Une institution de Trente depuis 1997, entre pizzas et classiques trentins juste à côté du parc Gocciadoro. Le personnel est réputé pour accueillir activement les chiens et apporter une gamelle d'eau pendant le repas.",
+          "descriptionEs": "Una institución de Trento desde 1997, con pizzas y clásicos trentinos junto al parque Gocciadoro. El personal es conocido por recibir con gusto a los perros y traer un cuenco de agua durante la comida.",
+          "descriptionPt": "Uma instituição de Trento desde 1997, com pizzas e clássicos trentinos mesmo ao lado do parque Gocciadoro. A equipa é conhecida por receber bem os cães e trazer uma taça de água durante a refeição.",
+          "petPolicy": "Dogs welcome inside and outside; water bowl offered.",
+          "petPolicyFr": "Chiens bienvenus en salle et en terrasse ; gamelle d'eau offerte.",
+          "petPolicyEs": "Perros bienvenidos dentro y fuera; cuenco de agua incluido.",
+          "petPolicyPt": "Cães bem-vindos dentro e fora; taça de água oferecida.",
+          "priceRange": "€€",
+          "mustTry": "Wood-fired pizza and local Teroldego wine",
+          "mustTryFr": "Pizza au feu de bois et vin local Teroldego",
+          "mustTryEs": "Pizza al horno de leña y vino local Teroldego",
+          "mustTryPt": "Pizza no forno a lenha e vinho local Teroldego",
+          "openingHours": "Lunch and dinner daily",
+          "tip": "Combine dinner with an evening walk in Gocciadoro park across the street.",
+          "tipFr": "Combinez le dîner avec une promenade du soir au parc Gocciadoro juste en face.",
+          "tipEs": "Combina la cena con un paseo nocturno por el parque Gocciadoro, justo enfrente.",
+          "tipPt": "Combine o jantar com um passeio noturno no parque Gocciadoro, mesmo em frente.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Loto+Ristorante+Pizzeria+Via+Gocciadoro+62+Trento"
+        },
+        {
+          "name": "Trattoria Dal Boccia",
+          "address": "Via degli Alberti Poja 13, 38122 Trento",
+          "neighborhood": "North of the centre",
+          "photo": "/images/city-places/trento-restaurants-trattoria-dal-boccia.jpg",
+          "website": "https://www.dalboccia.it",
+          "description": "A trattoria, wine bar and pizzeria opened in 2024 with a terrace overlooking greenery. Dogs of all sizes are admitted and bowls are available, with a garden that makes summer meals easy.",
+          "descriptionFr": "Une trattoria, vineria et pizzeria ouverte en 2024, avec terrasse donnant sur la verdure. Les chiens de toutes tailles sont admis, des gamelles sont disponibles et le jardin facilite les repas d'été.",
+          "descriptionEs": "Una trattoria, vinoteca y pizzería abierta en 2024 con terraza que da al verde. Se admiten perros de todos los tamaños, hay cuencos disponibles y el jardín facilita las comidas de verano.",
+          "descriptionPt": "Uma trattoria, garrafeira e pizzaria aberta em 2024, com esplanada virada para o verde. Cães de todos os tamanhos são admitidos, há taças disponíveis e o jardim facilita as refeições de verão.",
+          "petPolicy": "Dogs of all sizes admitted; bowls available; garden seating.",
+          "petPolicyFr": "Chiens de toutes tailles admis ; gamelles disponibles ; places au jardin.",
+          "petPolicyEs": "Perros de todos los tamaños admitidos; cuencos disponibles; mesas en el jardín.",
+          "petPolicyPt": "Cães de todos os tamanhos admitidos; taças disponíveis; mesas no jardim.",
+          "priceRange": "€€",
+          "mustTry": "Trentino canederli and local wines by the glass",
+          "mustTryFr": "Canederli trentins et vins locaux au verre",
+          "mustTryEs": "Canederli trentinos y vinos locales por copa",
+          "mustTryPt": "Canederli trentinos e vinhos locais a copo",
+          "openingHours": "Lunch and dinner; check site for closing day",
+          "tip": "Book a garden table on summer evenings, they go fast.",
+          "tipFr": "Réservez une table au jardin les soirs d'été, elles partent vite.",
+          "tipEs": "Reserva mesa en el jardín las noches de verano, vuelan.",
+          "tipPt": "Reserve mesa no jardim nas noites de verão, esgotam depressa.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+Dal+Boccia+Via+degli+Alberti+Poja+13+Trento"
+        },
+        {
+          "name": "Olympic Restaurant & Pizzeria",
+          "address": "Via R. da Sanseverino 125, 38122 Trento",
+          "neighborhood": "South-west Trento",
+          "photo": "/images/city-places/trento-restaurants-olympic.jpg",
+          "website": "https://www.comune.trento.it/Aree-tematiche/Cultura-e-turismo/Mangiare-e-dormire/Mangiare/OLYMPIC-RESTAURANT",
+          "description": "A grill house and pizzeria specialising in fish and meat, listed by the city of Trento as pet-friendly. Its summer outdoor seating from mid-May to September is the most comfortable spot for dogs.",
+          "descriptionFr": "Grill et pizzeria spécialisé poissons et viandes, référencé pet-friendly par la ville de Trente. Sa terrasse d'été, de mi-mai à septembre, est l'endroit le plus confortable pour les chiens.",
+          "descriptionEs": "Parrilla y pizzería especializada en pescado y carne, catalogada como pet-friendly por el ayuntamiento de Trento. Su terraza de verano, de mediados de mayo a septiembre, es el lugar más cómodo para los perros.",
+          "descriptionPt": "Grelhados e pizzaria especializada em peixe e carne, listada como pet-friendly pela cidade de Trento. A esplanada de verão, de meados de maio a setembro, é o lugar mais confortável para os cães.",
+          "petPolicy": "Pets allowed per the official city listing; terrace in summer.",
+          "petPolicyFr": "Animaux admis selon la fiche officielle de la ville ; terrasse en été.",
+          "petPolicyEs": "Mascotas admitidas según la ficha oficial del ayuntamiento; terraza en verano.",
+          "petPolicyPt": "Animais admitidos segundo a ficha oficial da cidade; esplanada no verão.",
+          "priceRange": "€€",
+          "mustTry": "Grilled fish and classic pizzas",
+          "mustTryFr": "Poissons grillés et pizzas classiques",
+          "mustTryEs": "Pescado a la parrilla y pizzas clásicas",
+          "mustTryPt": "Peixe grelhado e pizzas clássicas",
+          "openingHours": "12:00-14:00 and 19:00-22:00, closed Sunday",
+          "tip": "It sits by the Adige cycle path, handy after a riverside walk.",
+          "tipFr": "Il se trouve près de la piste cyclable de l'Adige, pratique après une balade au bord du fleuve.",
+          "tipEs": "Está junto al carril bici del Adigio, práctico tras un paseo por la ribera.",
+          "tipPt": "Fica junto à ciclovia do Adige, prático depois de um passeio à beira-rio.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympic+Restaurant+Pizzeria+Via+Sanseverino+125+Trento"
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Parks & Green Spaces for Dogs in Trento",
+      "titleFr": "Parcs et espaces verts pour chiens à Trente",
+      "titleEs": "Parques y zonas verdes para perros en Trento",
+      "titlePt": "Parques e espaços verdes para cães em Trento",
+      "introEn": "Trento has run an official network of fenced dog areas in its public parks since 1997, with bag dispensers and drinking fountains. The city's open-data portal and the local Lega del Cane both publish the full list.",
+      "introFr": "Trente gère depuis 1997 un réseau officiel d'aires canines clôturées dans ses parcs publics, avec distributeurs de sacs et fontaines. Le portail open data de la ville et la Lega del Cane locale en publient la liste complète.",
+      "introEs": "Trento gestiona desde 1997 una red oficial de áreas caninas valladas en sus parques públicos, con dispensadores de bolsas y fuentes. El portal de datos abiertos del ayuntamiento y la Lega del Cane local publican la lista completa.",
+      "introPt": "Trento gere desde 1997 uma rede oficial de áreas caninas vedadas nos seus parques públicos, com dispensadores de sacos e fontes. O portal de dados abertos da cidade e a Lega del Cane local publicam a lista completa.",
+      "places": [
+        {
+          "name": "Parco di Gocciadoro",
+          "address": "Via Gocciadoro, 38122 Trento",
+          "neighborhood": "Gocciadoro",
+          "photo": "/images/city-places/trento-parks-parco-di-gocciadoro.jpg",
+          "size": "20 hectares",
+          "description": "Trento's largest urban park, 20 hectares of woods and lawns on the hill just south-east of the centre. It includes a fenced dog area with a drinking-water fountain, plus shaded paths for hot days.",
+          "descriptionFr": "Le plus grand parc urbain de Trente, 20 hectares de bois et de pelouses sur la colline au sud-est du centre. Il comprend une aire canine clôturée avec fontaine d'eau potable et des sentiers ombragés pour les jours chauds.",
+          "descriptionEs": "El mayor parque urbano de Trento, 20 hectáreas de bosque y praderas en la colina al sureste del centro. Incluye un área canina vallada con fuente de agua potable y senderos sombreados para los días de calor.",
+          "descriptionPt": "O maior parque urbano de Trento, 20 hectares de bosque e relvados na colina a sudeste do centro. Inclui uma área canina vedada com fonte de água potável e trilhos sombreados para os dias quentes.",
+          "features": "Fenced dog area, drinking fountain, woodland trails",
+          "featuresFr": "Aire canine clôturée, fontaine, sentiers en forêt",
+          "featuresEs": "Área canina vallada, fuente, senderos por el bosque",
+          "featuresPt": "Área canina vedada, fonte, trilhos na floresta",
+          "leashRules": "Leash required outside the fenced dog area",
+          "leashRulesFr": "Laisse obligatoire hors de l'aire canine clôturée",
+          "leashRulesEs": "Correa obligatoria fuera del área canina vallada",
+          "leashRulesPt": "Trela obrigatória fora da área canina vedada",
+          "bestTimeToVisit": "Early morning in summer, the woods stay cool",
+          "bestTimeToVisitFr": "Tôt le matin en été, le sous-bois reste frais",
+          "bestTimeToVisitEs": "Temprano por la mañana en verano, el bosque se mantiene fresco",
+          "bestTimeToVisitPt": "De manhã cedo no verão, o bosque mantém-se fresco",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parco+di+Gocciadoro+Trento"
+        },
+        {
+          "name": "Giardino Alexander Langer",
+          "address": "Via Marsala / Viale Verona, 38122 Trento",
+          "neighborhood": "San Giuseppe / Santa Chiara",
+          "photo": "/images/city-places/trento-parks-giardino-alexander-langer.jpg",
+          "size": "1.4 hectares",
+          "description": "A 14,000 square metre neighbourhood garden south of the centre, reachable from Via Marsala, Via Palermo and Viale Verona. Its fenced dog area has its own drinking fountain and sits close to the Animal Care veterinary clinic.",
+          "descriptionFr": "Un jardin de quartier de 14 000 m2 au sud du centre, accessible par Via Marsala, Via Palermo et Viale Verona. Son aire canine clôturée dispose de sa propre fontaine et se trouve près de la clinique vétérinaire Animal Care.",
+          "descriptionEs": "Un jardín de barrio de 14.000 m2 al sur del centro, accesible desde Via Marsala, Via Palermo y Viale Verona. Su área canina vallada tiene fuente propia y está cerca de la clínica veterinaria Animal Care.",
+          "descriptionPt": "Um jardim de bairro de 14.000 m2 a sul do centro, acessível pela Via Marsala, Via Palermo e Viale Verona. A área canina vedada tem fonte própria e fica perto da clínica veterinária Animal Care.",
+          "features": "Fenced dog area, drinking fountain, benches",
+          "featuresFr": "Aire canine clôturée, fontaine, bancs",
+          "featuresEs": "Área canina vallada, fuente, bancos",
+          "featuresPt": "Área canina vedada, fonte, bancos",
+          "leashRules": "Off-leash only inside the fenced enclosure",
+          "leashRulesFr": "Sans laisse uniquement dans l'enclos clôturé",
+          "leashRulesEs": "Sin correa solo dentro del recinto vallado",
+          "leashRulesPt": "Sem trela apenas dentro do recinto vedado",
+          "bestTimeToVisit": "Late afternoon, when local dog owners gather",
+          "bestTimeToVisitFr": "Fin d'après-midi, quand les maîtres du quartier se retrouvent",
+          "bestTimeToVisitEs": "Última hora de la tarde, cuando se reúnen los dueños del barrio",
+          "bestTimeToVisitPt": "Fim de tarde, quando os donos do bairro se juntam",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Giardino+Alexander+Langer+Trento"
+        },
+        {
+          "name": "Parco di Melta",
+          "address": "Via Centochiavi, 38121 Trento",
+          "neighborhood": "Gardolo / Melta",
+          "photo": "/images/city-places/trento-parks-parco-di-melta.jpg",
+          "size": "11 hectares",
+          "description": "A 110,000 square metre park in the north of the city with wide lawns and five drinking fountains spread across the grounds. The fenced dog enclosure gives plenty of run space away from the play areas.",
+          "descriptionFr": "Un parc de 110 000 m2 au nord de la ville, avec de vastes pelouses et cinq fontaines réparties sur le site. L'enclos canin clôturé offre beaucoup d'espace de course à l'écart des aires de jeux.",
+          "descriptionEs": "Un parque de 110.000 m2 al norte de la ciudad, con amplias praderas y cinco fuentes repartidas por el recinto. El cercado canino ofrece mucho espacio para correr lejos de las zonas de juego.",
+          "descriptionPt": "Um parque de 110.000 m2 no norte da cidade, com relvados amplos e cinco fontes espalhadas pelo recinto. O recinto canino vedado dá muito espaço de corrida longe das zonas de brincadeira.",
+          "features": "Fenced dog area, 5 drinking fountains, big lawns",
+          "featuresFr": "Aire canine clôturée, 5 fontaines, grandes pelouses",
+          "featuresEs": "Área canina vallada, 5 fuentes, grandes praderas",
+          "featuresPt": "Área canina vedada, 5 fontes, grandes relvados",
+          "leashRules": "Leash required outside the dog enclosure",
+          "leashRulesFr": "Laisse obligatoire hors de l'enclos canin",
+          "leashRulesEs": "Correa obligatoria fuera del cercado canino",
+          "leashRulesPt": "Trela obrigatória fora do recinto canino",
+          "bestTimeToVisit": "Weekday mornings for a quiet run",
+          "bestTimeToVisitFr": "Matinées en semaine pour courir au calme",
+          "bestTimeToVisitEs": "Mañanas entre semana para correr con calma",
+          "bestTimeToVisitPt": "Manhãs de dias úteis para correr com calma",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parco+di+Melta+Trento"
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Trento with a Dog",
+      "titleFr": "Se déplacer à Trente avec un chien",
+      "titleEs": "Moverse por Trento con perro",
+      "titlePt": "Deslocar-se em Trento com cão",
+      "introEn": "Trentino Trasporti runs the city buses, the Trento-Malè railway and the Sardagna cable car under one set of animal rules: small dogs carried in your arms or in a carrier travel free, larger dogs pay a 1.20 euro ticket, and a muzzle plus a leash of no more than 1.5 metres are compulsory. Carry your dog's EU pet passport on trains.",
+      "introFr": "Trentino Trasporti exploite les bus urbains, le train Trento-Malè et la funivia de Sardagna avec un même règlement animalier : les petits chiens portés dans les bras ou en caisse voyagent gratuitement, les plus grands paient un billet de 1,20 euro, et muselière plus laisse de 1,5 m maximum sont obligatoires. Ayez le passeport européen de votre chien dans le train.",
+      "introEs": "Trentino Trasporti gestiona los autobuses urbanos, el tren Trento-Malè y el teleférico de Sardagna con un mismo reglamento: los perros pequeños en brazos o en transportín viajan gratis, los grandes pagan un billete de 1,20 euros, y el bozal y una correa de máximo 1,5 m son obligatorios. Lleva el pasaporte europeo de tu perro en el tren.",
+      "introPt": "A Trentino Trasporti gere os autocarros urbanos, o comboio Trento-Malè e o teleférico de Sardagna com o mesmo regulamento: cães pequenos ao colo ou em transportadora viajam grátis, os maiores pagam bilhete de 1,20 euros, e açaime mais trela de no máximo 1,5 m são obrigatórios. Leve o passaporte europeu do seu cão no comboio.",
+      "modes": [
+        {
+          "mode": "City buses (Trentino Trasporti)",
+          "modeFr": "Bus urbains (Trentino Trasporti)",
+          "modeEs": "Autobuses urbanos (Trentino Trasporti)",
+          "modePt": "Autocarros urbanos (Trentino Trasporti)",
+          "policyEn": "One dog per passenger; small dogs held in your arms travel free, larger dogs need a ticket and must wear a muzzle on a leash of 1.5 m maximum, or travel in a carrier.",
+          "policyFr": "Un chien par passager ; les petits chiens portés dans les bras voyagent gratuitement, les plus grands paient un billet et doivent porter une muselière avec laisse de 1,5 m maximum, ou voyager en caisse.",
+          "policyEs": "Un perro por pasajero; los pequeños en brazos viajan gratis, los grandes pagan billete y deben llevar bozal con correa de máximo 1,5 m, o ir en transportín.",
+          "policyPt": "Um cão por passageiro; os pequenos ao colo viajam grátis, os maiores pagam bilhete e devem usar açaime com trela de no máximo 1,5 m, ou viajar em transportadora.",
+          "cost": "Free for small dogs, 1.20 EUR for larger dogs",
+          "costFr": "Gratuit pour les petits chiens, 1,20 EUR pour les grands",
+          "costEs": "Gratis para perros pequeños, 1,20 EUR para los grandes",
+          "costPt": "Grátis para cães pequenos, 1,20 EUR para os maiores"
+        },
+        {
+          "mode": "Trento-Sardagna cable car",
+          "modeFr": "Funivia Trento-Sardagna",
+          "modeEs": "Teleférico Trento-Sardagna",
+          "modePt": "Teleférico Trento-Sardagna",
+          "policyEn": "Dogs ride the funivia under the same fare rules as buses, and uniquely, more than one animal per passenger is allowed on a dedicated extra run without other passengers. The 4-minute climb is the fastest way to panoramic walks above the city.",
+          "policyFr": "Les chiens prennent la funivia aux mêmes tarifs que les bus et, fait unique, plus d'un animal par passager est admis sur une cabine supplémentaire dédiée sans autres voyageurs. La montée de 4 minutes est le chemin le plus rapide vers les balades panoramiques au-dessus de la ville.",
+          "policyEs": "Los perros usan el teleférico con las mismas tarifas que los autobuses y, como excepción, se admite más de un animal por pasajero en un viaje extra dedicado sin otros viajeros. La subida de 4 minutos es la vía más rápida a los paseos panorámicos sobre la ciudad.",
+          "policyPt": "Os cães usam o teleférico com as mesmas tarifas dos autocarros e, como exceção, é admitido mais de um animal por passageiro numa viagem extra dedicada sem outros passageiros. A subida de 4 minutos é o caminho mais rápido para os passeios panorâmicos sobre a cidade.",
+          "cost": "Free for small dogs, 1.20 EUR for larger dogs",
+          "costFr": "Gratuit pour les petits chiens, 1,20 EUR pour les grands",
+          "costEs": "Gratis para perros pequeños, 1,20 EUR para los grandes",
+          "costPt": "Grátis para cães pequenos, 1,20 EUR para os maiores"
+        },
+        {
+          "mode": "Regional trains (Trenitalia and Trento-Malè)",
+          "modeFr": "Trains régionaux (Trenitalia et Trento-Malè)",
+          "modeEs": "Trenes regionales (Trenitalia y Trento-Malè)",
+          "modePt": "Comboios regionais (Trenitalia e Trento-Malè)",
+          "policyEn": "Small dogs in a carrier of up to 70x30x50 cm travel free; larger dogs pay a ticket and must wear muzzle and leash. Bring the vaccination record or EU pet passport, it can be checked on board.",
+          "policyFr": "Les petits chiens en caisse de 70x30x50 cm maximum voyagent gratuitement ; les plus grands paient un billet et doivent porter muselière et laisse. Emportez le carnet de vaccination ou le passeport européen, il peut être contrôlé à bord.",
+          "policyEs": "Los perros pequeños en transportín de hasta 70x30x50 cm viajan gratis; los grandes pagan billete y deben llevar bozal y correa. Lleva la cartilla de vacunación o el pasaporte europeo, pueden pedirlo a bordo.",
+          "policyPt": "Os cães pequenos em transportadora até 70x30x50 cm viajam grátis; os maiores pagam bilhete e devem usar açaime e trela. Leve o boletim de vacinas ou o passaporte europeu, pode ser pedido a bordo.",
+          "cost": "Free in carrier; reduced or full fare for large dogs",
+          "costFr": "Gratuit en caisse ; tarif réduit ou plein pour les grands chiens",
+          "costEs": "Gratis en transportín; tarifa reducida o completa para perros grandes",
+          "costPt": "Grátis em transportadora; tarifa reduzida ou inteira para cães grandes"
+        }
+      ],
+      "places": []
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Lake Beaches near Trento",
+      "titleFr": "Plages de lac dog-friendly près de Trente",
+      "titleEs": "Playas de lago dog-friendly cerca de Trento",
+      "titlePt": "Praias de lago dog-friendly perto de Trento",
+      "introEn": "Trento is inland, but Lake Caldonazzo in nearby Valsugana has two dedicated dog beaches about 20 to 25 minutes away by car or the Valsugana railway. Note that the ordinary public beach in the municipality of Caldonazzo itself bans dogs.",
+      "introFr": "Trente n'a pas de mer, mais le lac de Caldonazzo, en Valsugana voisine, compte deux plages canines dédiées à 20-25 minutes en voiture ou par le train de la Valsugana. Attention, la plage publique classique de la commune de Caldonazzo interdit les chiens.",
+      "introEs": "Trento está en el interior, pero el lago de Caldonazzo, en la vecina Valsugana, tiene dos playas caninas dedicadas a 20-25 minutos en coche o en el tren de la Valsugana. Ojo: la playa pública ordinaria del municipio de Caldonazzo prohíbe los perros.",
+      "introPt": "Trento fica no interior, mas o lago de Caldonazzo, na vizinha Valsugana, tem duas praias caninas dedicadas a 20-25 minutos de carro ou pelo comboio da Valsugana. Atenção: a praia pública comum do município de Caldonazzo proíbe cães.",
+      "beaches": [
+        {
+          "name": "Bau Beach San Cristoforo (Lago di Caldonazzo)",
+          "address": "Via dei Pescatori, San Cristoforo al Lago, 38057 Pergine Valsugana",
+          "photo": "",
+          "description": "A spacious free dog beach on the northern shore of Lake Caldonazzo, reached along the Via dei Pescatori lakeside path. It has a fenced off-leash area, an agility ramp and umbrella stands fitted with leash hooks.",
+          "descriptionFr": "Une grande plage canine gratuite sur la rive nord du lac de Caldonazzo, accessible par le chemin riverain Via dei Pescatori. Elle offre un enclos sans laisse, une rampe d'agility et des mâts de parasol équipés de crochets pour laisses.",
+          "descriptionEs": "Una amplia playa canina gratuita en la orilla norte del lago de Caldonazzo, a la que se llega por el paseo ribereño Via dei Pescatori. Tiene un recinto vallado sin correa, una rampa de agility y postes de sombrilla con ganchos para correas.",
+          "descriptionPt": "Uma ampla praia canina gratuita na margem norte do lago de Caldonazzo, alcançada pelo caminho ribeirinho Via dei Pescatori. Tem um recinto vedado sem trela, uma rampa de agility e chapéus de sol com ganchos para trelas.",
+          "dogPolicy": "Dogs welcome all season; leash required outside the fenced enclosure and while swimming.",
+          "dogPolicyFr": "Chiens bienvenus toute la saison ; laisse obligatoire hors de l'enclos et pendant la baignade.",
+          "dogPolicyEs": "Perros bienvenidos toda la temporada; correa obligatoria fuera del recinto y durante el baño.",
+          "dogPolicyPt": "Cães bem-vindos toda a época; trela obrigatória fora do recinto e durante o banho.",
+          "leashRequired": true,
+          "seasonalRestrictions": "Open year-round; no drinking fountains on site, bring water for your dog.",
+          "seasonalRestrictionsEs": "Abierta todo el año; no hay fuentes, lleva agua para tu perro.",
+          "seasonalRestrictionsFr": "Ouverte toute l'année ; pas de fontaines sur place, apportez de l'eau pour votre chien.",
+          "seasonalRestrictionsPt": "Aberta todo o ano; não há fontes no local, leve água para o seu cão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bau+Beach+San+Cristoforo+Lago+di+Caldonazzo"
+        },
+        {
+          "name": "Bau Beach Le Stanghe (Calceranica al Lago)",
+          "address": "Località Le Stanghe, 38050 Calceranica al Lago",
+          "photo": "",
+          "description": "The second dog beach on Lake Caldonazzo, on the Calceranica shore, known for its immediate deep-water access that strong swimmers love. Quieter than San Cristoforo and backed by grass for drying off.",
+          "descriptionFr": "La deuxième plage canine du lac de Caldonazzo, côté Calceranica, connue pour son accès direct en eau profonde qu'adorent les bons nageurs. Plus calme que San Cristoforo, avec de l'herbe pour se sécher.",
+          "descriptionEs": "La segunda playa canina del lago de Caldonazzo, en la orilla de Calceranica, conocida por su acceso directo a aguas profundas que encanta a los buenos nadadores. Más tranquila que San Cristoforo y con hierba detrás para secarse.",
+          "descriptionPt": "A segunda praia canina do lago de Caldonazzo, na margem de Calceranica, conhecida pelo acesso direto a águas profundas que os bons nadadores adoram. Mais tranquila do que San Cristoforo e com relva atrás para secar.",
+          "dogPolicy": "Dogs welcome in the designated stretch; keep on leash on shore.",
+          "dogPolicyFr": "Chiens bienvenus sur le tronçon dédié ; en laisse sur la rive.",
+          "dogPolicyEs": "Perros bienvenidos en el tramo señalizado; con correa en la orilla.",
+          "dogPolicyPt": "Cães bem-vindos no troço dedicado; com trela na margem.",
+          "leashRequired": true,
+          "seasonalRestrictions": "Deep water from the first metres, watch inexperienced swimmers.",
+          "seasonalRestrictionsEs": "Aguas profundas desde los primeros metros, vigila a los nadadores inexpertos.",
+          "seasonalRestrictionsFr": "Eau profonde dès les premiers mètres, surveillez les nageurs peu expérimentés.",
+          "seasonalRestrictionsPt": "Águas profundas desde os primeiros metros, vigie os nadadores inexperientes.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bau+Beach+Le+Stanghe+Calceranica+al+Lago"
+        }
+      ],
+      "places": []
+    },
+    "vets": {
+      "titleEn": "Veterinarians & Emergency Care in Trento",
+      "titleFr": "Vétérinaires et urgences à Trente",
+      "titleEs": "Veterinarios y urgencias en Trento",
+      "titlePt": "Veterinários e urgências em Trento",
+      "introEn": "Trento is well covered for veterinary care, including a clinic with a 24-hour emergency service and an out-of-hours on-call practice. For any life-threatening emergency, call ahead so the team can prepare.",
+      "introFr": "Trente est bien couverte en soins vétérinaires, avec notamment une clinique aux urgences 24 h/24 et un cabinet d'astreinte hors horaires. En cas d'urgence vitale, appelez avant de partir pour que l'équipe se prépare.",
+      "introEs": "Trento está bien cubierta en atención veterinaria, con una clínica con urgencias 24 horas y una consulta de guardia fuera de horario. Ante una urgencia vital, llama antes de salir para que el equipo se prepare.",
+      "introPt": "Trento está bem coberta em cuidados veterinários, incluindo uma clínica com urgências 24 horas e um consultório de prevenção fora de horas. Numa emergência grave, telefone antes de sair para a equipa se preparar.",
+      "clinics": [
+        {
+          "name": "Clinica Veterinaria Animal Care",
+          "address": "Via Palermo 19/4, 38122 Trento",
+          "phone": "+39 0461 390342",
+          "emergencyPhone": "+39 347 049 3266",
+          "hours": "Full medical and surgical service; emergency room active 24/7",
+          "emergency24h": true,
+          "description": "A full medical and surgical clinic south of the centre with an emergency service active 24 hours a day. The closest around-the-clock option to the old town.",
+          "descriptionFr": "Clinique médicale et chirurgicale complète au sud du centre, avec un service d'urgences actif 24 h/24. L'option la plus proche de la vieille ville en continu.",
+          "descriptionEs": "Clínica médica y quirúrgica completa al sur del centro, con servicio de urgencias activo las 24 horas. La opción continua más cercana al casco antiguo.",
+          "descriptionPt": "Clínica médica e cirúrgica completa a sul do centro, com serviço de urgências ativo 24 horas. A opção permanente mais próxima do centro histórico.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Clinica+Veterinaria+Animal+Care+Via+Palermo+19+Trento"
+        },
+        {
+          "name": "Trentovet Clinica Veterinaria",
+          "address": "Via Lavisotto 121, 38121 Trento",
+          "phone": "+39 0461 184 0085",
+          "emergencyPhone": "",
+          "hours": "Mon-Fri 09:00-19:00, Sat 09:00-12:00; other hours emergencies only",
+          "emergency24h": false,
+          "description": "A modern clinic in the north of Trento handling routine checks, diagnostics and surgery. Outside regular hours it takes emergencies only, so always phone first.",
+          "descriptionFr": "Clinique moderne au nord de Trente pour consultations, diagnostics et chirurgie. Hors horaires, elle ne prend que les urgences ; téléphonez toujours d'abord.",
+          "descriptionEs": "Clínica moderna en el norte de Trento para revisiones, diagnóstico y cirugía. Fuera de horario solo atiende urgencias; llama siempre antes.",
+          "descriptionPt": "Clínica moderna no norte de Trento para consultas, diagnóstico e cirurgia. Fora de horas só aceita urgências; telefone sempre primeiro.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trentovet+Via+Lavisotto+121+Trento"
+        },
+        {
+          "name": "Ambulatorio Veterinario Martignano",
+          "address": "Martignano, 38121 Trento",
+          "phone": "+39 0461 263826",
+          "emergencyPhone": "+39 340 854 7293",
+          "hours": "Staff on call 24/7 including holidays; call, do not text",
+          "emergency24h": true,
+          "description": "A veterinary practice in the hillside district of Martignano whose staff are reachable 24/7, holidays included, on the emergency number. The clinic asks owners to call rather than send messages in an emergency.",
+          "descriptionFr": "Cabinet vétérinaire du quartier collinaire de Martignano, joignable 24 h/24 et 7 j/7, jours fériés compris, au numéro d'urgence. La clinique demande d'appeler plutôt que d'envoyer des messages en cas d'urgence.",
+          "descriptionEs": "Consulta veterinaria del barrio de Martignano, localizable 24/7, festivos incluidos, en el número de urgencias. La clínica pide llamar en lugar de enviar mensajes en una emergencia.",
+          "descriptionPt": "Consultório veterinário do bairro de Martignano, contactável 24/7, feriados incluídos, pelo número de urgência. A clínica pede que telefonem em vez de enviar mensagens numa emergência.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ambulatorio+Veterinario+Martignano+Trento"
+        }
+      ],
+      "places": []
+    },
+    "tips": {
+      "titleEn": "Local Tips for Dog Owners in Trento",
+      "titleFr": "Conseils locaux pour maîtres de chiens à Trente",
+      "titleEs": "Consejos locales para dueños de perros en Trento",
+      "titlePt": "Dicas locais para donos de cães em Trento",
+      "introEn": "Trento rewards owners who plan around altitude and transport rules: the city sits at 194 m but Monte Bondone rises above 2,000 m, and every bus, train and cable-car ride legally requires a muzzle in your pocket.",
+      "introFr": "Trente récompense les maîtres qui composent avec l'altitude et les règles de transport : la ville est à 194 m mais le Monte Bondone dépasse 2 000 m, et chaque trajet en bus, train ou funivia exige légalement une muselière dans la poche.",
+      "introEs": "Trento premia a los dueños que planifican con la altitud y las normas de transporte: la ciudad está a 194 m pero el Monte Bondone supera los 2.000 m, y todo trayecto en bus, tren o teleférico exige legalmente llevar un bozal encima.",
+      "introPt": "Trento recompensa os donos que planeiam com a altitude e as regras de transporte: a cidade está a 194 m mas o Monte Bondone ultrapassa os 2.000 m, e qualquer viagem de autocarro, comboio ou teleférico exige legalmente um açaime no bolso.",
+      "places": [],
+      "tipsEn": [
+        "Always carry a muzzle: Trentino Trasporti requires muzzle plus a leash of maximum 1.5 m on all buses, trains and the Sardagna cable car, whatever your dog's size.",
+        "In July and August heat, do what locals do: ride the funivia to Sardagna or drive up to the Viote plain on Monte Bondone, where trails at 1,500-2,100 m stay cool for dogs.",
+        "The MUSE science museum does not admit dogs, but it partners with the municipal kennel at Via delle Bettine 35, which offers free day boxes and a 10 euro pickup service at the museum."
+      ],
+      "tipsFr": [
+        "Ayez toujours une muselière : Trentino Trasporti impose muselière et laisse de 1,5 m maximum dans les bus, trains et la funivia de Sardagna, quelle que soit la taille du chien.",
+        "En pleine chaleur de juillet-août, faites comme les locaux : montez à Sardagna en funivia ou gagnez le plateau des Viote sur le Monte Bondone, où les sentiers entre 1 500 et 2 100 m restent frais pour les chiens.",
+        "Le musée des sciences MUSE n'admet pas les chiens, mais il travaille avec le refuge municipal de Via delle Bettine 35 : boxes de jour gratuits et service de prise en charge au musée pour 10 euros."
+      ],
+      "tipsEs": [
+        "Lleva siempre un bozal: Trentino Trasporti exige bozal y correa de máximo 1,5 m en buses, trenes y el teleférico de Sardagna, sea cual sea el tamaño del perro.",
+        "Con el calor de julio y agosto, haz como los locales: sube a Sardagna en teleférico o al llano de Le Viote en el Monte Bondone, donde los senderos a 1.500-2.100 m se mantienen frescos para los perros.",
+        "El museo de ciencias MUSE no admite perros, pero colabora con la perrera municipal de Via delle Bettine 35: boxes de día gratuitos y servicio de recogida en el museo por 10 euros."
+      ],
+      "tipsPt": [
+        "Leve sempre um açaime: a Trentino Trasporti exige açaime e trela de no máximo 1,5 m nos autocarros, comboios e no teleférico de Sardagna, seja qual for o tamanho do cão.",
+        "No calor de julho e agosto, faça como os locais: suba a Sardagna de teleférico ou até ao planalto de Le Viote no Monte Bondone, onde os trilhos a 1.500-2.100 m se mantêm frescos para os cães.",
+        "O museu de ciências MUSE não admite cães, mas colabora com o canil municipal da Via delle Bettine 35: boxes de dia gratuitos e serviço de recolha no museu por 10 euros."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog ride the Sardagna cable car?",
+          "a": "Yes. Small dogs carried in your arms travel free and larger dogs pay a 1.20 euro ticket, always with muzzle and a leash of 1.5 m maximum. The funivia even allows more than one animal per passenger on a dedicated extra run."
+        },
+        {
+          "q": "Are dogs allowed inside Trento's museums and the Buonconsiglio Castle?",
+          "a": "The MUSE does not admit dogs, and inside the Buonconsiglio museum only small dogs carried or in a carrier are allowed. The castle gardens, however, welcome leashed dogs of any size free of charge."
+        },
+        {
+          "q": "Where can my dog swim near Trento?",
+          "a": "At Lake Caldonazzo, about 20-25 minutes away, which has two dedicated dog beaches: Bau Beach San Cristoforo and Le Stanghe in Calceranica. The ordinary public beach in Caldonazzo town bans dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il prendre la funivia de Sardagna ?",
+          "a": "Oui. Les petits chiens portés dans les bras voyagent gratuitement et les plus grands paient un billet de 1,20 euro, toujours avec muselière et laisse de 1,5 m maximum. La funivia admet même plusieurs animaux par passager sur une cabine supplémentaire dédiée."
+        },
+        {
+          "q": "Les chiens sont-ils admis dans les musées de Trente et au château du Buonconsiglio ?",
+          "a": "Le MUSE n'admet pas les chiens, et dans le musée du Buonconsiglio seuls les petits chiens portés ou en caisse sont acceptés. Les jardins du château, en revanche, accueillent gratuitement les chiens en laisse de toutes tailles."
+        },
+        {
+          "q": "Où mon chien peut-il se baigner près de Trente ?",
+          "a": "Au lac de Caldonazzo, à 20-25 minutes, qui compte deux plages canines dédiées : Bau Beach San Cristoforo et Le Stanghe à Calceranica. La plage publique classique de la commune de Caldonazzo interdit les chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro subir al teleférico de Sardagna?",
+          "a": "Sí. Los perros pequeños en brazos viajan gratis y los grandes pagan un billete de 1,20 euros, siempre con bozal y correa de máximo 1,5 m. El teleférico incluso admite más de un animal por pasajero en un viaje extra dedicado."
+        },
+        {
+          "q": "¿Se admiten perros en los museos de Trento y en el castillo del Buonconsiglio?",
+          "a": "El MUSE no admite perros, y dentro del museo del Buonconsiglio solo se aceptan perros pequeños en brazos o en transportín. Los jardines del castillo, en cambio, reciben gratis a perros con correa de cualquier tamaño."
+        },
+        {
+          "q": "¿Dónde puede bañarse mi perro cerca de Trento?",
+          "a": "En el lago de Caldonazzo, a 20-25 minutos, con dos playas caninas dedicadas: Bau Beach San Cristoforo y Le Stanghe en Calceranica. La playa pública ordinaria del pueblo de Caldonazzo prohíbe los perros."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "O meu cão pode andar no teleférico de Sardagna?",
+          "a": "Sim. Os cães pequenos ao colo viajam grátis e os maiores pagam bilhete de 1,20 euros, sempre com açaime e trela de no máximo 1,5 m. O teleférico admite até mais de um animal por passageiro numa viagem extra dedicada."
+        },
+        {
+          "q": "Os cães são admitidos nos museus de Trento e no castelo do Buonconsiglio?",
+          "a": "O MUSE não admite cães, e dentro do museu do Buonconsiglio só são aceites cães pequenos ao colo ou em transportadora. Já os jardins do castelo recebem gratuitamente cães com trela de qualquer tamanho."
+        },
+        {
+          "q": "Onde pode o meu cão nadar perto de Trento?",
+          "a": "No lago de Caldonazzo, a 20-25 minutos, com duas praias caninas dedicadas: Bau Beach San Cristoforo e Le Stanghe em Calceranica. A praia pública comum da vila de Caldonazzo proíbe cães."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Trento",
+      "titleFr": "Attractions dog-friendly à Trente",
+      "titleEs": "Atracciones dog-friendly en Trento",
+      "titlePt": "Atrações dog-friendly em Trento",
+      "introEn": "Trento's compact Renaissance centre, its frescoed Piazza del Duomo and the mountains that rise straight from town make it an easy city to sightsee with a dog. Most highlights are outdoors and reached on foot or by the Sardagna funivia.",
+      "introFr": "Le centre Renaissance compact de Trente, sa Piazza del Duomo aux façades peintes et les montagnes qui s'élèvent depuis la ville en font une cité facile à visiter avec un chien. La plupart des incontournables sont en plein air, à pied ou via la funivia de Sardagna.",
+      "introEs": "El compacto centro renacentista de Trento, su Piazza del Duomo con fachadas pintadas y las montañas que arrancan de la propia ciudad la hacen fácil de visitar con perro. La mayoría de los imprescindibles están al aire libre, a pie o con el teleférico de Sardagna.",
+      "introPt": "O compacto centro renascentista de Trento, a sua Piazza del Duomo com fachadas pintadas e as montanhas que sobem da própria cidade tornam-na fácil de visitar com cão. A maioria dos pontos altos é ao ar livre, a pé ou pelo teleférico de Sardagna.",
+      "places": [
+        {
+          "name": "Piazza del Duomo & historic centre",
+          "address": "Piazza del Duomo, 38122 Trento",
+          "photo": "/images/city-places/trento-attractions-piazza-del-duomo.jpg",
+          "description": "The heart of Trento, ringed by the frescoed Cazuffi-Rella houses, the Cathedral of San Vigilio and the baroque Neptune fountain. The whole pedestrian-friendly old town around it is walkable with a leashed dog.",
+          "descriptionFr": "Le coeur de Trente, bordé par les maisons peintes Cazuffi-Rella, la cathédrale San Vigilio et la fontaine baroque de Neptune. Toute la vieille ville piétonne alentour se parcourt avec un chien en laisse.",
+          "descriptionEs": "El corazón de Trento, rodeado por las casas pintadas Cazuffi-Rella, la catedral de San Vigilio y la fuente barroca de Neptuno. Todo el casco antiguo peatonal se recorre con el perro atado.",
+          "descriptionPt": "O coração de Trento, rodeado pelas casas pintadas Cazuffi-Rella, a catedral de San Vigilio e a fonte barroca de Neptuno. Todo o centro histórico pedonal percorre-se com o cão pela trela.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+del+Duomo+Trento"
+        },
+        {
+          "name": "Castello del Buonconsiglio gardens",
+          "address": "Via Bernardo Clesio 5, 38122 Trento",
+          "photo": "/images/city-places/trento-attractions-castello-del-buonconsiglio.jpg",
+          "description": "The prince-bishops' castle is Trento's landmark, and its gardens, entered through the Porta dei Diamanti, are a public green space where leashed dogs of any size are welcome. Inside the museum itself only small dogs carried or in a carrier are admitted.",
+          "descriptionFr": "Le château des princes-évêques est l'emblème de Trente, et ses jardins, par la Porta dei Diamanti, sont un espace vert public où les chiens en laisse de toutes tailles sont bienvenus. Dans le musée, seuls les petits chiens portés ou en caisse sont admis.",
+          "descriptionEs": "El castillo de los príncipes-obispos es el emblema de Trento, y sus jardines, por la Porta dei Diamanti, son un espacio verde público donde se acepta a perros con correa de cualquier tamaño. Dentro del museo solo se admiten perros pequeños en brazos o en transportín.",
+          "descriptionPt": "O castelo dos príncipes-bispos é o símbolo de Trento, e os seus jardins, pela Porta dei Diamanti, são um espaço verde público onde cães com trela de qualquer tamanho são bem-vindos. Dentro do museu só são admitidos cães pequenos ao colo ou em transportadora.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Castello+del+Buonconsiglio+Trento"
+        },
+        {
+          "name": "Sardagna viewpoint & Monte Bondone",
+          "address": "Funivia Trento-Sardagna, Via Lung'Adige Monte Grappa, 38122 Trento",
+          "photo": "/images/city-places/trento-attractions-sardagna-monte-bondone.jpg",
+          "description": "Ride the funivia 400 m up to Sardagna's terrace over the Adige valley, then continue by road to the Viote plain at about 1,500 m on Monte Bondone, a favourite summer escape with dog-friendly trails and picnic meadows. The alpine botanical garden at Le Viote does not admit dogs, but the plain and play area around it do.",
+          "descriptionFr": "Montez en funivia les 400 m jusqu'au balcon de Sardagna sur la vallée de l'Adige, puis continuez par la route vers le plateau des Viote, vers 1 500 m sur le Monte Bondone, refuge d'été prisé aux sentiers dog-friendly et prairies à pique-nique. Le jardin botanique alpin des Viote n'admet pas les chiens, mais le plateau et l'aire de jeux voisine, oui.",
+          "descriptionEs": "Sube en teleférico los 400 m hasta el balcón de Sardagna sobre el valle del Adigio y sigue por carretera hasta el llano de Le Viote, a unos 1.500 m en el Monte Bondone, refugio estival con senderos dog-friendly y prados de picnic. El jardín botánico alpino de Le Viote no admite perros, pero el llano y la zona de juegos contigua sí.",
+          "descriptionPt": "Suba de teleférico os 400 m até ao miradouro de Sardagna sobre o vale do Adige e continue por estrada até ao planalto de Le Viote, a cerca de 1.500 m no Monte Bondone, refúgio de verão com trilhos dog-friendly e prados de piquenique. O jardim botânico alpino de Le Viote não admite cães, mas o planalto e a zona de jogos ao lado sim.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Funivia+Trento+Sardagna"
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Daycare in Trento",
+      "titleFr": "Garde d'animaux et garderie canine à Trente",
+      "titleEs": "Cuidadores y guardería canina en Trento",
+      "titlePt": "Pet sitting e creche canina em Trento",
+      "introEn": "Between the municipal kennel's day service, a dedicated dog daycare and the big sitter platforms, Trento makes it easy to cover a museum visit or a dinner your dog cannot join.",
+      "introFr": "Entre le service de jour du refuge municipal, une garderie canine dédiée et les grandes plateformes de dog sitters, Trente permet de couvrir facilement une visite de musée ou un dîner sans votre chien.",
+      "introEs": "Entre el servicio diurno de la perrera municipal, una guardería canina dedicada y las grandes plataformas de cuidadores, en Trento es fácil cubrir una visita a un museo o una cena sin tu perro.",
+      "introPt": "Entre o serviço diurno do canil municipal, uma creche canina dedicada e as grandes plataformas de sitters, em Trento é fácil cobrir uma visita a um museu ou um jantar sem o seu cão.",
+      "places": [],
+      "services": [
+        {
+          "name": "La Casa di Oreste",
+          "website": "https://www.lacasadioresteasilo.com",
+          "description": "A dog daycare and boarding house in Trento offering day asylum, overnight stays, grooming and a pet shop. A safe drop-off for a full day of sightseeing.",
+          "descriptionFr": "Garderie et pension canine à Trente : asile de jour, nuitées, toilettage et boutique. Un dépôt sûr pour une journée complète de visites.",
+          "descriptionEs": "Guardería y pensión canina en Trento: guardería de día, estancias nocturnas, peluquería y tienda. Una opción segura para un día entero de turismo.",
+          "descriptionPt": "Creche e pensão canina em Trento: creche de dia, estadias noturnas, banhos e tosquias e loja. Uma entrega segura para um dia inteiro de turismo.",
+          "priceRange": "Quote on request",
+          "priceRangeFr": "Devis sur demande",
+          "priceRangeEs": "Presupuesto a petición",
+          "priceRangePt": "Orçamento sob pedido",
+          "bookingRequired": true
+        },
+        {
+          "name": "Canile di Trento day boxes (MUSE partnership)",
+          "website": "https://www.legadelcanetrento.it",
+          "description": "The municipal kennel at Via delle Bettine 35, run with the Lega Nazionale per la Difesa del Cane, offers free day boxes for visitors and a 10 euro pickup and drop-off service at the MUSE museum. Book ahead through the kennel or the museum.",
+          "descriptionFr": "Le refuge municipal de Via delle Bettine 35, géré avec la Lega Nazionale per la Difesa del Cane, propose des boxes de jour gratuits pour les visiteurs et un service de prise en charge au musée MUSE pour 10 euros. Réservez via le refuge ou le musée.",
+          "descriptionEs": "La perrera municipal de Via delle Bettine 35, gestionada con la Lega Nazionale per la Difesa del Cane, ofrece boxes de día gratuitos para visitantes y un servicio de recogida y entrega en el museo MUSE por 10 euros. Reserva a través de la perrera o del museo.",
+          "descriptionPt": "O canil municipal da Via delle Bettine 35, gerido com a Lega Nazionale per la Difesa del Cane, oferece boxes de dia gratuitos para visitantes e um serviço de recolha e entrega no museu MUSE por 10 euros. Reserve através do canil ou do museu.",
+          "priceRange": "Free day boxes; 10 EUR MUSE pickup service",
+          "priceRangeFr": "Boxes de jour gratuits ; service MUSE 10 EUR",
+          "priceRangeEs": "Boxes de día gratis; servicio MUSE 10 EUR",
+          "priceRangePt": "Boxes de dia grátis; serviço MUSE 10 EUR",
+          "bookingRequired": true
+        },
+        {
+          "name": "DogBuddy / Holidog sitter platforms",
+          "website": "https://it.dogbuddy.com/dog-sitters-trento",
+          "description": "The major Italian sitter platforms list dozens of insured dog sitters in Trento for walks, home visits and overnight boarding. Useful for evening cover when restaurants or events cannot take your dog.",
+          "descriptionFr": "Les grandes plateformes italiennes recensent des dizaines de dog sitters assurés à Trente pour promenades, visites à domicile et garde de nuit. Utile en soirée quand restaurants ou événements refusent votre chien.",
+          "descriptionEs": "Las grandes plataformas italianas listan decenas de cuidadores asegurados en Trento para paseos, visitas a domicilio y alojamiento nocturno. Útil por la noche cuando restaurantes o eventos no aceptan a tu perro.",
+          "descriptionPt": "As grandes plataformas italianas listam dezenas de sitters segurados em Trento para passeios, visitas ao domicílio e alojamento noturno. Útil à noite quando restaurantes ou eventos não aceitam o seu cão.",
+          "priceRange": "From ~12 EUR per walk",
+          "priceRangeFr": "À partir d'environ 12 EUR la promenade",
+          "priceRangeEs": "Desde unos 12 EUR por paseo",
+          "priceRangePt": "A partir de cerca de 12 EUR por passeio",
+          "bookingRequired": true
+        }
+      ]
+    }
+  }
+}

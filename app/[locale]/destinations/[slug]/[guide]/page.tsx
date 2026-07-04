@@ -185,18 +185,16 @@ function getAvailableGuideSlugs(): string[] {
 
 // ─── Static params ─────────────────────────────────────────────────────────────
 
+// On-demand ISR to keep build output under Vercel's processing limits.
+// This route family was 11 368 of 13 335 prerendered pages (355 dests x 8
+// sections x 4 locales); at that size the Vercel buildStep dies with
+// "Maximum call stack size exceeded" after the Next build completes.
+// Same approach as /hotels/[slug]: pages render on first hit, cache for a
+// day, stay in the sitemap and remain crawlable.
+export const dynamicParams = true
+export const revalidate = 86400 // 1 day ISR cache
 export async function generateStaticParams() {
-  const availableSlugs = getAvailableGuideSlugs()
-  const params: { slug: string; guide: string }[] = []
-  for (const slug of availableSlugs) {
-    const guide = loadCityGuide(slug)
-    if (!guide) continue
-    const availableGuides = GUIDE_SLUGS.filter(g => guide.guides[g])
-    for (const guideSlug of availableGuides) {
-      params.push({ slug, guide: guideSlug })
-    }
-  }
-  return params
+  return []
 }
 
 // ─── Metadata ─────────────────────────────────────────────────────────────────

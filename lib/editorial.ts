@@ -41,6 +41,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Gocciadoro woods, the Sardagna cable-car viewpoint, and the dog beaches of Lake Caldonazzo`,
       area: `the frescoed historic centre, the Gocciadoro hillside, and Sardagna above the Adige valley`,
     },
+    kitzbuehel: {
+      personality: `the most legendary ski town in the Alps, where gondolas carry dogs for free and trails start at the medieval gates`,
+      highlight: `the Streif summer trail on the Hahnenkamm, the Schwarzsee lake loop, and the Wildpark Aurach`,
+      area: `the walled old town, the Schwarzsee shore, and the sunny Sonnberg side`,
+    },
     ravenna: {
       personality: `Ravenna is a flat, unhurried mosaic city where a leashed dog fits naturally into pedestrian piazzas, pinewood trails and the easygoing rhythm of the Adriatic coast.`,
       highlight: `Pair a morning of Byzantine mosaics, visited in turns, with an afternoon dog-walk through the Pineta di San Vitale and a swim at a Marina di Ravenna dog beach.`,
@@ -1824,6 +1829,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `les bois du Gocciadoro, le belvédère de la funivia de Sardagna et les plages canines du lac de Caldonazzo`,
       area: `le centre historique aux façades peintes, la colline du Gocciadoro et Sardagna au-dessus de la vallée de l'Adige`,
     },
+    kitzbuehel: {
+      personality: `la station de ski la plus légendaire des Alpes, où les télécabines transportent les chiens gratuitement et où les sentiers partent des portes médiévales`,
+      highlight: `le sentier d'été de la Streif au Hahnenkamm, la boucle du lac Schwarzsee et le Wildpark Aurach`,
+      area: `la vieille ville fortifiée, les rives du Schwarzsee et le versant ensoleillé du Sonnberg`,
+    },
     ravenna: {
       personality: `Ravenne est une ville de mosaïques plate et sans hâte, où un chien en laisse trouve naturellement sa place sur les places piétonnes, les sentiers des pinèdes et le rythme nonchalant de la côte adriatique.`,
       highlight: `Associez une matinée de mosaïques byzantines, visitées en relais, à une promenade canine dans la Pineta di San Vitale et à une baignade sur une plage pour chiens de Marina di Ravenna.`,
@@ -3606,6 +3616,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `los bosques del Gocciadoro, el mirador del teleférico de Sardagna y las playas caninas del lago de Caldonazzo`,
       area: `el centro histórico de fachadas pintadas, la colina del Gocciadoro y Sardagna sobre el valle del Adigio`,
     },
+    kitzbuehel: {
+      personality: `la estación de esquí más legendaria de los Alpes, donde las góndolas llevan a los perros gratis y los senderos arrancan de las puertas medievales`,
+      highlight: `el sendero de verano de la Streif en el Hahnenkamm, la vuelta al lago Schwarzsee y el Wildpark Aurach`,
+      area: `el casco antiguo amurallado, la orilla del Schwarzsee y la soleada ladera del Sonnberg`,
+    },
     ravenna: {
       personality: `Rávena es una ciudad de mosaicos llana y sin prisas, donde un perro con correa encaja con naturalidad en las plazas peatonales, los senderos de los pinares y el ritmo relajado de la costa adriática.`,
       highlight: `Combina una mañana de mosaicos bizantinos, visitados por turnos, con un paseo canino por la Pineta di San Vitale y un baño en una playa para perros de Marina di Ravenna.`,
@@ -5387,6 +5402,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma das capitais alpinas de Itália mais acolhedoras para cães, com áreas caninas vedadas em cada bairro e montanhas que sobem da própria cidade`,
       highlight: `os bosques do Gocciadoro, o miradouro do teleférico de Sardagna e as praias caninas do lago de Caldonazzo`,
       area: `o centro histórico de fachadas pintadas, a colina do Gocciadoro e Sardagna sobre o vale do Adige`,
+    },
+    kitzbuehel: {
+      personality: `a estância de esqui mais lendária dos Alpes, onde as gôndolas levam os cães de graça e os trilhos partem das portas medievais`,
+      highlight: `o trilho de verão da Streif no Hahnenkamm, a volta ao lago Schwarzsee e o Wildpark Aurach`,
+      area: `o centro histórico amuralhado, a margem do Schwarzsee e a soalheira encosta do Sonnberg`,
     },
     ravenna: {
       personality: `Ravena é uma cidade de mosaicos plana e sem pressa, onde um cão com trela se encaixa naturalmente nas praças pedonais, nos trilhos dos pinhais e no ritmo descontraído da costa adriática.`,

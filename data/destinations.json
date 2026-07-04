@@ -26788,5 +26788,79 @@
         "icon": "❄️"
       }
     }
+  },
+  {
+    "slug": "kitzbuehel",
+    "name": "Kitzbühel",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/kitzbuehel.jpg",
+    "intro": "The most famous ski town in the Alps is quietly one of Austria's easiest resorts to visit with a dog: the Hahnenkamm and Horn gondolas carry dogs for free, buses and regional trains across Tyrol cost your dog nothing, the medieval centre is walked in pastel-painted lanes, and the Schwarzsee moor lake and Gieringer Weiher are a morning stroll away. In summer you can even walk the legendary Streif race course together.",
+    "lat": 47.4467,
+    "lng": 12.3925,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Snowy race season",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Late ski spring",
+        "icon": "🌨️"
+      },
+      "apr": {
+        "temp": 7,
+        "desc": "Thawing meadows",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Green & fresh",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Mild alpine summer",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Warm hiking days",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 16,
+        "desc": "Warm with storms",
+        "icon": "⛈️"
+      },
+      "sep": {
+        "temp": 13,
+        "desc": "Clear & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 2,
+        "desc": "Cold, first snow",
+        "icon": "🌨️"
+      },
+      "dec": {
+        "temp": -2,
+        "desc": "Snowy & festive",
+        "icon": "❄️"
+      }
+    }
   }
 ]

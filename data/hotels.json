@@ -50802,5 +50802,205 @@
       "Restaurant"
     ],
     "slug": "grand-hotel-trento"
+  },
+  {
+    "id": "kitzbuehel-1",
+    "name": "Schlosshotel Kitzbühel",
+    "destinationSlug": "kitzbuehel",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 974,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/grand-spa-resort-a-rosa-kitzbuhel.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "2 swimming pools",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "schlosshotel-kitzbuhel"
+  },
+  {
+    "id": "kitzbuehel-2",
+    "name": "Grand Tirolia Kitzbühel - Member of Hommage Luxury Hotels Collection",
+    "destinationSlug": "kitzbuehel",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 1850,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/grand-tirolia-kitzbuhel.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "3 swimming pools",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "grand-tirolia-kitzbuhel-member-of-hommage-luxury-hotels-collection"
+  },
+  {
+    "id": "kitzbuehel-3",
+    "name": "Hotel Weisses Roessl",
+    "destinationSlug": "kitzbuehel",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 84,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/harisch-weisses-rossl-kitzbuhel.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Bichlstraße 5, 6370 Kitzbühel, AustriaExcellent location — rated 9.9/10!(score from 81 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "hotel-weisses-roessl"
+  },
+  {
+    "id": "kitzbuehel-4",
+    "name": "Relais & Châteaux Hotel Tennerhof",
+    "destinationSlug": "kitzbuehel",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 144,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/tennerhof.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Griesenauweg 26, 6370 Kitzbühel, AustriaExcellent location — rated 9.2/10!(score from 142 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "2 swimming pools",
+      "Spa & wellness centre",
+      "Free parking"
+    ],
+    "slug": "relais-chateaux-hotel-tennerhof"
+  },
+  {
+    "id": "kitzbuehel-5",
+    "name": "Tennerhof Luxury Chalets",
+    "destinationSlug": "kitzbuehel",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 38,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/tennerhof-luxury-chalets.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Römerweg 7, 6370 Kitzbühel, AustriaExcellent location — rated 9.7/10!(score from 37 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "2 swimming pools",
+      "Spa & wellness centre",
+      "Free parking"
+    ],
+    "slug": "tennerhof-luxury-chalets"
+  },
+  {
+    "id": "kitzbuehel-6",
+    "name": "ERIKA Boutiquehotel Kitzbühel",
+    "destinationSlug": "kitzbuehel",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 1076,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/erika-kitzbuhel.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Josef-Pirchl-Straße 21, 6370 Kitzbühel, AustriaExcellent location — rated 9.2/10!(score from 1061 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "2 swimming pools",
+      "Spa & wellness centre",
+      "Parking on site"
+    ],
+    "slug": "erika-boutiquehotel-kitzbuhel"
+  },
+  {
+    "id": "kitzbuehel-7",
+    "name": "Schwarzer Adler Kitzbühel - Adults Only",
+    "destinationSlug": "kitzbuehel",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 989,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/schwarzer-adler-kitzbuhel.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Florianigasse 15, 6370 Kitzbühel, AustriaExcellent location — rated 9.5/10!(score from 974 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "2 swimming pools",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "schwarzer-adler-kitzbuhel-adults-only"
+  },
+  {
+    "id": "kitzbuehel-8",
+    "name": "Kitzhof Mountain Design Resort, 4 Sterne Superior",
+    "destinationSlug": "kitzbuehel",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 511,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/kitzhof-ski-golfresort.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "kitzhof-mountain-design-resort-4-sterne-superior"
   }
 ]

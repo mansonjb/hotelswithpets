@@ -1,0 +1,528 @@
+{
+  "slug": "kitzbuehel",
+  "name": "Kitzbühel",
+  "country": "Austria",
+  "flag": "🇦🇹",
+  "lastUpdated": "2026-07-05",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Kitzbühel",
+      "titleFr": "Restaurants acceptant les chiens à Kitzbühel",
+      "titleEs": "Restaurantes que admiten perros en Kitzbühel",
+      "titlePt": "Restaurantes que aceitam cães em Kitzbühel",
+      "introEn": "Kitzbühel's gastronomy runs from wood-fired pizza in the medieval lanes to legendary Tyrolean mountain inns, and dogs are welcome in a striking number of them. Falstaff alone lists a dozen Kitzbühel addresses with an official dogs-welcome policy.",
+      "introFr": "La gastronomie de Kitzbühel va de la pizza au feu de bois dans les ruelles médiévales aux légendaires auberges tyroliennes d'altitude, et les chiens sont bienvenus dans un nombre frappant d'adresses. Falstaff recense à lui seul une douzaine d'établissements officiellement dogs-welcome à Kitzbühel.",
+      "introEs": "La gastronomía de Kitzbühel va de la pizza a la leña en las callejuelas medievales a las legendarias posadas tirolesas de montaña, y los perros son bienvenidos en un número notable de ellas. Solo Falstaff lista una docena de direcciones de Kitzbühel con política oficial de perros bienvenidos.",
+      "introPt": "A gastronomia de Kitzbühel vai da pizza no forno a lenha nas vielas medievais às lendárias estalagens tirolesas de montanha, e os cães são bem-vindos num número notável delas. Só o Falstaff lista uma dúzia de moradas de Kitzbühel com política oficial de cães bem-vindos.",
+      "places": [
+        {
+          "name": "CENTRO Cafe Bar Restaurant",
+          "address": "Vorderstadt 12, 6370 Kitzbühel",
+          "neighborhood": "Old town",
+          "photo": "/images/city-places/kitzbuehel-restaurants-centro.jpg",
+          "website": "https://www.centro-kitzbuehel.at",
+          "description": "An Italian cafe-bar-restaurant on Kitzbühel's showpiece Vorderstadt, serving pasta, fish and wood-fired pizza in a stylish, informal room. It carries a dog-friendly policy and the pavement tables face the painted medieval facades.",
+          "descriptionFr": "Un cafe-bar-restaurant italien sur la Vorderstadt, l'artère vitrine de Kitzbühel : pâtes, poissons et pizzas au feu de bois dans un cadre chic et décontracté. L'adresse est dog-friendly et les tables en terrasse font face aux façades médiévales peintes.",
+          "descriptionEs": "Un cafe-bar-restaurante italiano en la Vorderstadt, la calle estrella de Kitzbühel: pasta, pescado y pizza a la leña en un ambiente elegante e informal. Tiene política dog-friendly y las mesas de la terraza miran a las fachadas medievales pintadas.",
+          "descriptionPt": "Um cafe-bar-restaurante italiano na Vorderstadt, a rua vitrine de Kitzbühel: massas, peixe e pizza no forno a lenha num ambiente elegante e informal. Tem política dog-friendly e as mesas da esplanada ficam de frente para as fachadas medievais pintadas.",
+          "petPolicy": "Dog-friendly policy; terrace and indoor seating.",
+          "petPolicyFr": "Politique dog-friendly ; terrasse et salle.",
+          "petPolicyEs": "Política dog-friendly; terraza e interior.",
+          "petPolicyPt": "Política dog-friendly; esplanada e interior.",
+          "priceRange": "€€",
+          "mustTry": "Wood-fired pizza after a Hahnenkamm hike",
+          "mustTryFr": "Pizza au feu de bois après une randonnée au Hahnenkamm",
+          "mustTryEs": "Pizza a la leña tras una caminata por el Hahnenkamm",
+          "mustTryPt": "Pizza no forno a lenha depois de uma caminhada no Hahnenkamm",
+          "openingHours": "Daily; no table reservations taken",
+          "tip": "No reservations are taken, so come early on race and event weekends.",
+          "tipFr": "Pas de réservation possible : venez tôt les week-ends de courses et d'événements.",
+          "tipEs": "No aceptan reservas: llega pronto los fines de semana de carreras y eventos.",
+          "tipPt": "Não aceitam reservas: chegue cedo nos fins de semana de corridas e eventos.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CENTRO+Vorderstadt+12+Kitzbuhel"
+        },
+        {
+          "name": "Eggerwirt Restaurant",
+          "address": "Untere Gänsbachgasse 12, 6370 Kitzbühel",
+          "neighborhood": "Old town",
+          "photo": "/images/city-places/kitzbuehel-restaurants-eggerwirt.jpg",
+          "website": "https://www.eggerwirt-kitzbuehel.at",
+          "description": "The restaurant of Kitzbühel's most historic inn, family-run since 1658 and openly pet-friendly across hotel and dining room. Expect classic Tyrolean cooking a two-minute walk from the Vorderstadt.",
+          "descriptionFr": "Le restaurant de l'auberge la plus historique de Kitzbühel, tenue en famille depuis 1658 et ouvertement pet-friendly côté hôtel comme côté salle. Cuisine tyrolienne classique à deux minutes à pied de la Vorderstadt.",
+          "descriptionEs": "El restaurante de la posada más histórica de Kitzbühel, familiar desde 1658 y abiertamente pet-friendly tanto en el hotel como en el comedor. Cocina tirolesa clásica a dos minutos a pie de la Vorderstadt.",
+          "descriptionPt": "O restaurante da estalagem mais histórica de Kitzbühel, familiar desde 1658 e abertamente pet-friendly no hotel e na sala de jantar. Cozinha tirolesa clássica a dois minutos a pé da Vorderstadt.",
+          "petPolicy": "Pet-friendly house; dogs welcome with well-behaved manners.",
+          "petPolicyFr": "Maison pet-friendly ; chiens bienvenus s'ils sont bien éduqués.",
+          "petPolicyEs": "Casa pet-friendly; perros bienvenidos si se portan bien.",
+          "petPolicyPt": "Casa pet-friendly; cães bem-vindos se forem bem-comportados.",
+          "priceRange": "€€",
+          "mustTry": "Wiener schnitzel and Tyrolean Gröstl",
+          "mustTryFr": "Escalope viennoise et Gröstl tyrolien",
+          "mustTryEs": "Escalope vienés y Gröstl tirolés",
+          "mustTryPt": "Escalope vienense e Gröstl tirolês",
+          "openingHours": "Lunch and dinner; check site for seasonal hours",
+          "tip": "The quiet Gänsbach lane behind the inn is handy for a pre-dinner leg stretch.",
+          "tipFr": "La ruelle calme du Gänsbach derrière l'auberge est pratique pour dégourdir les pattes avant le dîner.",
+          "tipEs": "El tranquilo callejón del Gänsbach, detrás de la posada, es práctico para estirar las patas antes de cenar.",
+          "tipPt": "A ruela tranquila do Gänsbach atrás da estalagem é prática para esticar as patas antes do jantar.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eggerwirt+Untere+Gansbachgasse+12+Kitzbuhel"
+        },
+        {
+          "name": "Rosi's Sonnbergstuben",
+          "address": "Oberaigenweg 103, 6370 Kitzbühel",
+          "neighborhood": "Sonnberg / Bichlalm side",
+          "photo": "/images/city-places/kitzbuehel-restaurants-rosis-sonnbergstuben.jpg",
+          "website": "https://www.sonnbergstuben.at",
+          "description": "Rosi's legendary alpine inn above town, famous for hearty Tyrolean plates, live music and celebrity guests, and listed with an official dog-friendly policy. The sun terrace looks straight across the valley to the Wilder Kaiser.",
+          "descriptionFr": "L'auberge alpine légendaire de Rosi au-dessus de la ville : plats tyroliens généreux, musique live et hôtes célèbres, avec une politique officiellement dog-friendly. La terrasse ensoleillée regarde le Wilder Kaiser de l'autre côté de la vallée.",
+          "descriptionEs": "La legendaria posada alpina de Rosi sobre el pueblo: contundentes platos tiroleses, música en vivo e invitados famosos, con política oficialmente dog-friendly. La terraza soleada mira al Wilder Kaiser al otro lado del valle.",
+          "descriptionPt": "A lendária estalagem alpina da Rosi acima da vila: pratos tiroleses generosos, música ao vivo e hóspedes famosos, com política oficialmente dog-friendly. A esplanada soalheira olha para o Wilder Kaiser do outro lado do vale.",
+          "petPolicy": "Dog-friendly policy; big terrace ideal with dogs.",
+          "petPolicyFr": "Politique dog-friendly ; grande terrasse idéale avec chien.",
+          "petPolicyEs": "Política dog-friendly; gran terraza ideal con perro.",
+          "petPolicyPt": "Política dog-friendly; grande esplanada ideal com cão.",
+          "priceRange": "€€€",
+          "mustTry": "Kaiserschmarrn on the sun terrace",
+          "mustTryFr": "Kaiserschmarrn sur la terrasse ensoleillée",
+          "mustTryEs": "Kaiserschmarrn en la terraza soleada",
+          "mustTryPt": "Kaiserschmarrn na esplanada soalheira",
+          "openingHours": "Open Sunday; book ahead in high season",
+          "tip": "Combine lunch with the Sonnberg meadow paths, a gentle walk with valley views.",
+          "tipFr": "Combinez le déjeuner avec les sentiers des prairies du Sonnberg, une balade douce avec vue sur la vallée.",
+          "tipEs": "Combina el almuerzo con los senderos de los prados del Sonnberg, un paseo suave con vistas al valle.",
+          "tipPt": "Combine o almoço com os caminhos dos prados do Sonnberg, um passeio suave com vista para o vale.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosis+Sonnbergstuben+Oberaigenweg+103+Kitzbuhel"
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Walks & Green Spaces for Dogs in Kitzbühel",
+      "titleFr": "Balades et espaces verts pour chiens à Kitzbühel",
+      "titleEs": "Paseos y zonas verdes para perros en Kitzbühel",
+      "titlePt": "Passeios e espaços verdes para cães em Kitzbühel",
+      "introEn": "Kitzbühel is a small town wrapped in mountains, so its green spaces are moor lakes, alpine meadows and game-park trails rather than city parks. Leashes are required around town, at the lakes and in the wildlife park.",
+      "introFr": "Kitzbühel est une petite ville enveloppée de montagnes : ses espaces verts sont des lacs de tourbière, des prairies alpines et des sentiers de parc animalier plutôt que des parcs urbains. La laisse est exigée en ville, autour des lacs et dans le parc animalier.",
+      "introEs": "Kitzbühel es una pequeña ciudad envuelta en montañas: sus zonas verdes son lagos de turbera, praderas alpinas y senderos de parque de fauna más que parques urbanos. La correa es obligatoria en el pueblo, en los lagos y en el parque de animales.",
+      "introPt": "Kitzbühel é uma pequena cidade envolvida por montanhas: os seus espaços verdes são lagos de turfa, prados alpinos e trilhos de parque de fauna, mais do que parques urbanos. A trela é obrigatória na vila, nos lagos e no parque de animais.",
+      "places": [
+        {
+          "name": "Schwarzsee circular trail",
+          "address": "Schwarzseestraße, 6370 Kitzbühel",
+          "neighborhood": "Schwarzsee, 20 min walk from town",
+          "photo": "/images/city-places/kitzbuehel-parks-schwarzsee-circular-trail.jpg",
+          "size": "Lake loop of about 2 km",
+          "description": "The flat loop around Kitzbühel's warm moor lake is the classic morning dog walk, with reed beds, mountain reflections and benches along the way. Dogs are welcome around the lake on a leash, with waste bags mandatory.",
+          "descriptionFr": "La boucle plate autour du lac de tourbière de Kitzbühel est la balade canine matinale classique : roselières, reflets des montagnes et bancs le long du chemin. Les chiens sont bienvenus autour du lac en laisse, sacs à déjections obligatoires.",
+          "descriptionEs": "El llano circuito alrededor del cálido lago de turbera de Kitzbühel es el clásico paseo matinal con perro: cañaverales, reflejos de montañas y bancos por el camino. Los perros son bienvenidos alrededor del lago con correa, con bolsas obligatorias.",
+          "descriptionPt": "O circuito plano à volta do lago de turfa de Kitzbühel é o clássico passeio matinal com cão: caniçais, reflexos das montanhas e bancos pelo caminho. Os cães são bem-vindos à volta do lago com trela, com sacos obrigatórios.",
+          "features": "Flat lake loop, benches, mountain views",
+          "featuresFr": "Boucle plate du lac, bancs, vues sur les montagnes",
+          "featuresEs": "Circuito llano del lago, bancos, vistas a las montañas",
+          "featuresPt": "Circuito plano do lago, bancos, vistas para as montanhas",
+          "leashRules": "Leash required; clean-up compulsory",
+          "leashRulesFr": "Laisse obligatoire ; ramassage obligatoire",
+          "leashRulesEs": "Correa obligatoria; recogida obligatoria",
+          "leashRulesPt": "Trela obrigatória; recolha obrigatória",
+          "bestTimeToVisit": "Early morning, before swimmers arrive",
+          "bestTimeToVisitFr": "Tôt le matin, avant l'arrivée des baigneurs",
+          "bestTimeToVisitEs": "Temprano por la mañana, antes de que lleguen los bañistas",
+          "bestTimeToVisitPt": "De manhã cedo, antes de chegarem os banhistas",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Schwarzsee+Kitzbuhel"
+        },
+        {
+          "name": "Wildpark Tirol Aurach",
+          "address": "Wildparkweg 5, 6371 Aurach bei Kitzbühel",
+          "neighborhood": "Aurach, 10 min drive south",
+          "photo": "/images/city-places/kitzbuehel-parks-wildpark-tirol-aurach.jpg",
+          "size": "40 hectares at 1,100 m",
+          "description": "Austria's highest game park lets you and your dog watch deer, ibex, lynx and marmots along a broad alpine loop. Dogs are admitted on a short lead, must stay on the path and remain the owner's responsibility around mother animals.",
+          "descriptionFr": "Le parc animalier le plus haut d'Autriche vous laisse observer avec votre chien cerfs, bouquetins, lynx et marmottes le long d'une large boucle alpine. Les chiens sont admis en laisse courte, doivent rester sur le sentier et sous la responsabilité du maître près des femelles suitées.",
+          "descriptionEs": "El parque de fauna más alto de Austria permite observar con tu perro ciervos, íbices, linces y marmotas por un amplio circuito alpino. Se admiten perros con correa corta, deben permanecer en el sendero y bajo la responsabilidad del dueño cerca de las crías.",
+          "descriptionPt": "O parque de fauna mais alto da Áustria permite observar com o seu cão veados, íbexes, linces e marmotas ao longo de um amplo circuito alpino. Os cães são admitidos com trela curta, devem ficar no trilho e sob a responsabilidade do dono perto das crias.",
+          "features": "Alpine game park, 200+ animals, panoramic loop",
+          "featuresFr": "Parc animalier alpin, plus de 200 animaux, boucle panoramique",
+          "featuresEs": "Parque de fauna alpino, más de 200 animales, circuito panorámico",
+          "featuresPt": "Parque de fauna alpino, mais de 200 animais, circuito panorâmico",
+          "leashRules": "Short leash mandatory; stay on the path",
+          "leashRulesFr": "Laisse courte obligatoire ; rester sur le sentier",
+          "leashRulesEs": "Correa corta obligatoria; permanecer en el sendero",
+          "leashRulesPt": "Trela curta obrigatória; permanecer no trilho",
+          "bestTimeToVisit": "Feeding time in the afternoon; quieter on weekday mornings",
+          "bestTimeToVisitFr": "Nourrissage l'après-midi ; plus calme les matins de semaine",
+          "bestTimeToVisitEs": "Alimentación por la tarde; más tranquilo las mañanas laborables",
+          "bestTimeToVisitPt": "Alimentação à tarde; mais calmo nas manhãs de dias úteis",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wildpark+Tirol+Aurach+Kitzbuhel"
+        },
+        {
+          "name": "Bichlalm meadows & Sonnberg paths",
+          "address": "Bichlnweg / Oberaigenweg, 6370 Kitzbühel",
+          "neighborhood": "Sonnberg, east of town",
+          "photo": "/images/city-places/kitzbuehel-parks-bichlalm-sonnberg.jpg",
+          "size": "Network of farm lanes and meadow trails",
+          "description": "The sunny east side of town climbs through hay meadows and farm lanes towards the Bichlalm at 1,600 m, a favourite low-effort walking area with dogs. Local dog-holiday guides recommend the Bichlalm farmhouse route for its hut stops and views.",
+          "descriptionFr": "Le versant est ensoleillé de la ville grimpe entre prairies de fauche et chemins de ferme vers la Bichlalm à 1 600 m, un secteur de balade facile apprécié avec les chiens. Les guides locaux de vacances canines recommandent l'itinéraire de la Bichlalm pour ses haltes en refuge et ses vues.",
+          "descriptionEs": "La soleada ladera este del pueblo sube entre prados de siega y caminos de granja hacia la Bichlalm a 1.600 m, una zona de paseo fácil muy apreciada con perros. Las guías locales de vacaciones caninas recomiendan la ruta de la Bichlalm por sus paradas en refugios y sus vistas.",
+          "descriptionPt": "A soalheira encosta leste da vila sobe entre prados de feno e caminhos rurais até à Bichlalm, a 1.600 m, uma zona de passeio fácil muito apreciada com cães. Os guias locais de férias com cão recomendam a rota da Bichlalm pelas paragens em refúgios e pelas vistas.",
+          "features": "Meadow trails, alpine huts, valley views",
+          "featuresFr": "Sentiers de prairie, refuges alpins, vues sur la vallée",
+          "featuresEs": "Senderos de pradera, refugios alpinos, vistas al valle",
+          "featuresPt": "Trilhos de prado, refúgios alpinos, vistas para o vale",
+          "leashRules": "Leash on around grazing cattle and in the village",
+          "leashRulesFr": "Laisse près du bétail en pâture et dans le village",
+          "leashRulesEs": "Correa cerca del ganado en pastos y en el pueblo",
+          "leashRulesPt": "Trela perto do gado nos pastos e na vila",
+          "bestTimeToVisit": "Late afternoon light over the Wilder Kaiser",
+          "bestTimeToVisitFr": "Lumière de fin d'après-midi sur le Wilder Kaiser",
+          "bestTimeToVisitEs": "Luz de última hora de la tarde sobre el Wilder Kaiser",
+          "bestTimeToVisitPt": "Luz de fim de tarde sobre o Wilder Kaiser",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bichlalm+Kitzbuhel"
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Kitzbühel with a Dog",
+      "titleFr": "Se déplacer à Kitzbühel avec un chien",
+      "titleEs": "Moverse por Kitzbühel con perro",
+      "titlePt": "Deslocar-se em Kitzbühel com cão",
+      "introEn": "Kitzbühel is remarkably generous with travelling dogs: within the Tyrol transport union (VVT) dogs ride buses and regional trains free of charge with leash and muzzle, and the big KitzSki cable cars carry dogs for free too. Only long-distance ÖBB trains beyond Tyrol charge a dog fare.",
+      "introFr": "Kitzbühel est remarquablement généreuse avec les chiens voyageurs : dans le réseau tyrolien VVT, les chiens prennent bus et trains régionaux gratuitement avec laisse et muselière, et les grandes remontées KitzSki transportent aussi les chiens gratuitement. Seuls les trains ÖBB longue distance hors du Tyrol facturent un billet chien.",
+      "introEs": "Kitzbühel es notablemente generosa con los perros viajeros: dentro del consorcio tirolés VVT los perros van gratis en buses y trenes regionales con correa y bozal, y los grandes remontes de KitzSki también llevan perros gratis. Solo los trenes ÖBB de larga distancia fuera del Tirol cobran billete canino.",
+      "introPt": "Kitzbühel é notavelmente generosa com os cães viajantes: dentro do consórcio tirolês VVT os cães andam grátis em autocarros e comboios regionais com trela e açaime, e os grandes teleféricos da KitzSki também levam cães gratuitamente. Só os comboios ÖBB de longa distância fora do Tirol cobram bilhete canino.",
+      "modes": [
+        {
+          "mode": "VVT buses and regional trains (within Tyrol)",
+          "modeFr": "Bus et trains régionaux VVT (dans le Tyrol)",
+          "modeEs": "Autobuses y trenes regionales VVT (dentro del Tirol)",
+          "modePt": "Autocarros e comboios regionais VVT (dentro do Tirol)",
+          "policyEn": "Dogs travel free on buses, trains and trams inside the Tyrol union area, provided boarding and exit are both in Tyrol. Leash and muzzle are mandatory; assistance dogs are exempt from the muzzle.",
+          "policyFr": "Les chiens voyagent gratuitement dans les bus, trains et trams du réseau tyrolien, à condition de monter et descendre dans le Tyrol. Laisse et muselière obligatoires ; les chiens d'assistance sont dispensés de muselière.",
+          "policyEs": "Los perros viajan gratis en buses, trenes y tranvías dentro del área tirolesa, siempre que la subida y la bajada sean en el Tirol. Correa y bozal obligatorios; los perros de asistencia están exentos del bozal.",
+          "policyPt": "Os cães viajam grátis em autocarros, comboios e elétricos dentro da área tirolesa, desde que a entrada e a saída sejam no Tirol. Trela e açaime obrigatórios; os cães de assistência estão isentos do açaime.",
+          "cost": "Free within Tyrol",
+          "costFr": "Gratuit dans le Tyrol",
+          "costEs": "Gratis dentro del Tirol",
+          "costPt": "Grátis dentro do Tirol"
+        },
+        {
+          "mode": "KitzSki cable cars (Hahnenkamm & Kitzbüheler Horn)",
+          "modeFr": "Remontées KitzSki (Hahnenkamm et Kitzbüheler Horn)",
+          "modeEs": "Remontes KitzSki (Hahnenkamm y Kitzbüheler Horn)",
+          "modePt": "Teleféricos KitzSki (Hahnenkamm e Kitzbüheler Horn)",
+          "policyEn": "Dogs ride the Hahnenkammbahn and the Hornbahn free of charge, summer and winter. Keep the dog leashed in the station area and in the gondolas; a muzzle can be required in individual cases.",
+          "policyFr": "Les chiens montent gratuitement dans la Hahnenkammbahn et la Hornbahn, été comme hiver. Gardez le chien en laisse dans les gares et les cabines ; une muselière peut être exigée au cas par cas.",
+          "policyEs": "Los perros suben gratis en el Hahnenkammbahn y el Hornbahn, en verano y en invierno. Mantén al perro atado en las estaciones y en las góndolas; en casos concretos pueden exigir bozal.",
+          "policyPt": "Os cães sobem grátis no Hahnenkammbahn e no Hornbahn, no verão e no inverno. Mantenha o cão pela trela nas estações e nas cabinas; um açaime pode ser exigido caso a caso.",
+          "cost": "Free",
+          "costFr": "Gratuit",
+          "costEs": "Gratis",
+          "costPt": "Grátis"
+        },
+        {
+          "mode": "ÖBB long-distance trains (beyond Tyrol)",
+          "modeFr": "Trains ÖBB longue distance (au-delà du Tyrol)",
+          "modeEs": "Trenes ÖBB de larga distancia (fuera del Tirol)",
+          "modePt": "Comboios ÖBB de longa distância (fora do Tirol)",
+          "policyEn": "Small dogs in a closed carrier and registered assistance dogs travel free; other dogs pay a flat 2 euro fare up to 98 km and 10 percent of the full fare beyond, always with muzzle and leash.",
+          "policyFr": "Les petits chiens en caisse fermée et les chiens d'assistance enregistrés voyagent gratuitement ; les autres paient un forfait de 2 euros jusqu'à 98 km puis 10 pour cent du plein tarif au-delà, toujours avec muselière et laisse.",
+          "policyEs": "Los perros pequeños en transportín cerrado y los perros de asistencia registrados viajan gratis; los demás pagan una tarifa plana de 2 euros hasta 98 km y el 10 por ciento de la tarifa completa más allá, siempre con bozal y correa.",
+          "policyPt": "Os cães pequenos em transportadora fechada e os cães de assistência registados viajam grátis; os restantes pagam uma tarifa fixa de 2 euros até 98 km e 10 por cento da tarifa inteira além disso, sempre com açaime e trela.",
+          "cost": "Free in carrier; from 2 EUR otherwise",
+          "costFr": "Gratuit en caisse ; à partir de 2 EUR sinon",
+          "costEs": "Gratis en transportín; desde 2 EUR en otro caso",
+          "costPt": "Grátis em transportadora; a partir de 2 EUR caso contrário"
+        }
+      ],
+      "places": []
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Lakes near Kitzbühel",
+      "titleFr": "Lacs dog-friendly près de Kitzbühel",
+      "titleEs": "Lagos dog-friendly cerca de Kitzbühel",
+      "titlePt": "Lagos dog-friendly perto de Kitzbühel",
+      "introEn": "Kitzbühel's swimming happens in moor and forest lakes rather than on beaches. Dogs are welcomed around the Schwarzsee on a leash, though not inside the paid lido, and the quieter Gieringer Weiher is the local pick for an actual dog swim.",
+      "introFr": "À Kitzbühel, la baignade se fait dans des lacs de tourbière et de forêt plutôt que sur des plages. Les chiens sont bienvenus autour du Schwarzsee en laisse, mais pas dans le lido payant, et le plus tranquille Gieringer Weiher est l'adresse locale pour une vraie baignade canine.",
+      "introEs": "En Kitzbühel el baño se hace en lagos de turbera y de bosque más que en playas. Los perros son bienvenidos alrededor del Schwarzsee con correa, aunque no dentro del lido de pago, y el más tranquilo Gieringer Weiher es la opción local para un verdadero baño canino.",
+      "introPt": "Em Kitzbühel o banho faz-se em lagos de turfa e de floresta, mais do que em praias. Os cães são bem-vindos à volta do Schwarzsee com trela, mas não dentro do lido pago, e o mais tranquilo Gieringer Weiher é a escolha local para um verdadeiro banho canino.",
+      "beaches": [
+        {
+          "name": "Schwarzsee shores",
+          "address": "Schwarzseestraße 25, 6370 Kitzbühel",
+          "photo": "",
+          "description": "One of the warmest bathing lakes in the Alps, a half-hour stroll from the old town. Dogs are warmly welcomed around the lake and on the circular path on a leash; the fenced paid lido and its lawns are off-limits to them in season.",
+          "descriptionFr": "L'un des lacs de baignade les plus chauds des Alpes, à une demi-heure à pied de la vieille ville. Les chiens sont bienvenus autour du lac et sur le sentier circulaire en laisse ; le lido payant clôturé et ses pelouses leur sont interdits en saison.",
+          "descriptionEs": "Uno de los lagos de baño más cálidos de los Alpes, a media hora a pie del casco antiguo. Los perros son bienvenidos alrededor del lago y en el sendero circular con correa; el lido de pago vallado y sus céspedes les están vetados en temporada.",
+          "descriptionPt": "Um dos lagos de banho mais quentes dos Alpes, a meia hora a pé do centro histórico. Os cães são bem-vindos à volta do lago e no trilho circular com trela; o lido pago vedado e os seus relvados estão-lhes interditos na época.",
+          "dogPolicy": "Welcome around the lake on leash; not inside the paid lido.",
+          "dogPolicyFr": "Bienvenus autour du lac en laisse ; pas dans le lido payant.",
+          "dogPolicyEs": "Bienvenidos alrededor del lago con correa; no dentro del lido de pago.",
+          "dogPolicyPt": "Bem-vindos à volta do lago com trela; não dentro do lido pago.",
+          "leashRequired": true,
+          "seasonalRestrictions": "Lido restrictions apply in the summer bathing season; clean-up compulsory.",
+          "seasonalRestrictionsEs": "Restricciones del lido en la temporada de baño de verano; recogida obligatoria.",
+          "seasonalRestrictionsFr": "Restrictions du lido pendant la saison de baignade estivale ; ramassage obligatoire.",
+          "seasonalRestrictionsPt": "Restrições do lido na época balnear de verão; recolha obrigatória.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Schwarzsee+Kitzbuhel"
+        },
+        {
+          "name": "Gieringer Weiher",
+          "address": "Gieringer Weiher, 6370 Kitzbühel (towards Reith)",
+          "photo": "",
+          "description": "A small forest-edge pond with moor water above the Schwarzsee, much quieter than its famous neighbour. Local dog-holiday guides name it the better spot to actually swim with your dog, ideally in the afternoon light.",
+          "descriptionFr": "Un petit étang de lisière aux eaux de tourbière au-dessus du Schwarzsee, bien plus calme que son célèbre voisin. Les guides locaux de vacances canines le citent comme le meilleur endroit pour nager vraiment avec son chien, idéalement dans la lumière de l'après-midi.",
+          "descriptionEs": "Un pequeño estanque al borde del bosque con aguas de turbera sobre el Schwarzsee, mucho más tranquilo que su famoso vecino. Las guías locales de vacaciones caninas lo señalan como el mejor lugar para nadar de verdad con tu perro, idealmente con la luz de la tarde.",
+          "descriptionPt": "Um pequeno lago à beira da floresta com águas de turfa acima do Schwarzsee, muito mais tranquilo do que o famoso vizinho. Os guias locais de férias com cão apontam-no como o melhor sítio para nadar mesmo com o cão, idealmente à luz da tarde.",
+          "dogPolicy": "Dog swimming tolerated away from bathers; leash on the paths.",
+          "dogPolicyFr": "Baignade canine tolérée à l'écart des baigneurs ; laisse sur les sentiers.",
+          "dogPolicyEs": "Baño canino tolerado lejos de los bañistas; correa en los senderos.",
+          "dogPolicyPt": "Banho canino tolerado longe dos banhistas; trela nos trilhos.",
+          "leashRequired": true,
+          "seasonalRestrictions": "Keep distance from bathers on hot weekends; no facilities, bring water.",
+          "seasonalRestrictionsEs": "Mantén distancia de los bañistas los fines de semana calurosos; sin servicios, lleva agua.",
+          "seasonalRestrictionsFr": "Gardez vos distances avec les baigneurs les week-ends chauds ; aucun équipement, apportez de l'eau.",
+          "seasonalRestrictionsPt": "Mantenha distância dos banhistas nos fins de semana quentes; sem infraestruturas, leve água.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gieringer+Weiher+Kitzbuhel"
+        }
+      ],
+      "places": []
+    },
+    "vets": {
+      "titleEn": "Veterinarians & Emergency Care in Kitzbühel",
+      "titleFr": "Vétérinaires et urgences à Kitzbühel",
+      "titleEs": "Veterinarios y urgencias en Kitzbühel",
+      "titlePt": "Veterinários e urgências em Kitzbühel",
+      "introEn": "The town has two established veterinary practices, and outside their hours the Tyrol small-animal emergency service (Kleintiernotdienst Tirol) takes over on +43 676 88 508 82 444. Always phone before driving anywhere.",
+      "introFr": "La ville compte deux cabinets vétérinaires établis, et en dehors de leurs horaires le service d'urgence petits animaux du Tyrol (Kleintiernotdienst Tirol) prend le relais au +43 676 88 508 82 444. Téléphonez toujours avant de prendre la route.",
+      "introEs": "El pueblo cuenta con dos consultas veterinarias consolidadas, y fuera de sus horarios el servicio de urgencias de pequeños animales del Tirol (Kleintiernotdienst Tirol) toma el relevo en el +43 676 88 508 82 444. Llama siempre antes de conducir a ningún sitio.",
+      "introPt": "A vila tem dois consultórios veterinários estabelecidos, e fora dos seus horários o serviço de urgências de pequenos animais do Tirol (Kleintiernotdienst Tirol) assume no +43 676 88 508 82 444. Telefone sempre antes de conduzir para qualquer lado.",
+      "clinics": [
+        {
+          "name": "Tierarztpraxis Briem-Feichtner",
+          "address": "Ehrenbachgasse 48, 6370 Kitzbühel",
+          "phone": "+43 5356 62370",
+          "emergencyPhone": "+43 676 88 508 82 444",
+          "hours": "Mon-Fri 09:00-11:30 and 16:30-18:30 (Wed mornings only); weekends via Kleintiernotdienst Tirol",
+          "emergency24h": false,
+          "description": "A small-animal practice a few minutes from the Hahnenkamm valley station, taking routine visits without appointment. On weekends and holidays it refers owners to the Tyrol small-animal emergency line.",
+          "descriptionFr": "Un cabinet petits animaux à quelques minutes de la gare aval du Hahnenkamm, qui reçoit sans rendez-vous pour les visites courantes. Les week-ends et jours fériés, il renvoie vers la ligne d'urgence petits animaux du Tyrol.",
+          "descriptionEs": "Una consulta de pequeños animales a pocos minutos de la estación inferior del Hahnenkamm, que atiende visitas rutinarias sin cita. Los fines de semana y festivos remite a la línea de urgencias de pequeños animales del Tirol.",
+          "descriptionPt": "Um consultório de pequenos animais a poucos minutos da estação inferior do Hahnenkamm, que recebe consultas de rotina sem marcação. Aos fins de semana e feriados remete para a linha de urgências de pequenos animais do Tirol.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tierarztpraxis+Briem+Feichtner+Ehrenbachgasse+48+Kitzbuhel"
+        },
+        {
+          "name": "Tierarztpraxis Dr. Cornelia Z'berg",
+          "address": "Hammerschmiedstraße 7, 6370 Kitzbühel",
+          "phone": "+43 5356 20230",
+          "emergencyPhone": "",
+          "hours": "Mon-Wed and Fri 09:00-12:00 and 14:00-18:00, Thu 09:00-12:00",
+          "emergency24h": false,
+          "description": "A modern practice for small and large animals offering check-ups, vaccinations, lab work, X-ray, ultrasound, surgery and dental care. Listed in the town's official Kitz A-Z directory.",
+          "descriptionFr": "Un cabinet moderne pour petits et grands animaux : bilans, vaccins, laboratoire, radio, échographie, chirurgie et soins dentaires. Référencé dans l'annuaire officiel Kitz A-Z de la ville.",
+          "descriptionEs": "Una consulta moderna para pequeños y grandes animales: revisiones, vacunas, laboratorio, rayos X, ecografía, cirugía y odontología. Figura en el directorio oficial Kitz A-Z del municipio.",
+          "descriptionPt": "Um consultório moderno para pequenos e grandes animais: check-ups, vacinas, laboratório, raio-X, ecografia, cirurgia e cuidados dentários. Consta do diretório oficial Kitz A-Z da vila.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tierarzt+Zberg+Hammerschmiedstrasse+7+Kitzbuhel"
+        },
+        {
+          "name": "Kleintiernotdienst Tirol (emergency line)",
+          "address": "Tyrol-wide on-call service",
+          "phone": "+43 676 88 508 82 444",
+          "emergencyPhone": "+43 676 88 508 82 444",
+          "hours": "Weekends, holidays and out-of-hours emergencies",
+          "emergency24h": true,
+          "description": "The official Tyrolean small-animal emergency rota that Kitzbühel practices refer to outside opening hours. Call first: the duty vet may be in another valley and can direct you to the fastest option.",
+          "descriptionFr": "La garde officielle petits animaux du Tyrol vers laquelle renvoient les cabinets de Kitzbühel hors horaires. Appelez d'abord : le vétérinaire de garde peut être dans une autre vallée et vous orienter vers l'option la plus rapide.",
+          "descriptionEs": "La guardia oficial de pequeños animales del Tirol a la que remiten las consultas de Kitzbühel fuera de horario. Llama primero: el veterinario de guardia puede estar en otro valle e indicarte la opción más rápida.",
+          "descriptionPt": "A escala oficial de urgências de pequenos animais do Tirol para a qual os consultórios de Kitzbühel remetem fora de horas. Telefone primeiro: o veterinário de serviço pode estar noutro vale e indicar-lhe a opção mais rápida.",
+          "googleMapsUrl": ""
+        }
+      ],
+      "places": []
+    },
+    "tips": {
+      "titleEn": "Local Tips for Dog Owners in Kitzbühel",
+      "titleFr": "Conseils locaux pour maîtres de chiens à Kitzbühel",
+      "titleEs": "Consejos locales para dueños de perros en Kitzbühel",
+      "titlePt": "Dicas locais para donos de cães em Kitzbühel",
+      "introEn": "Kitzbühel is a ski legend that doubles as an easy summer base with a dog: lifts are free for dogs, trails start at the door, and the etiquette is simple, leash on in town, around the lakes and near grazing cattle.",
+      "introFr": "Kitzbühel est une légende du ski qui fait aussi une base d'été facile avec un chien : remontées gratuites pour les chiens, sentiers au pas de la porte, et une étiquette simple, laisse en ville, autour des lacs et près du bétail.",
+      "introEs": "Kitzbühel es una leyenda del esquí que funciona también como base de verano fácil con perro: remontes gratis para los perros, senderos en la puerta y una etiqueta sencilla, correa en el pueblo, en los lagos y cerca del ganado.",
+      "introPt": "Kitzbühel é uma lenda do esqui que funciona também como base de verão fácil com cão: teleféricos grátis para os cães, trilhos à porta e uma etiqueta simples, trela na vila, à volta dos lagos e perto do gado.",
+      "places": [],
+      "tipsEn": [
+        "The Hahnenkammbahn and Hornbahn carry dogs for free: ride up in the morning and walk the panoramic trail, or in autumn walk down the legendary Streif race course itself with the dog leashed.",
+        "In Tyrol, leash AND muzzle are legally required on all public buses and trains, so keep a muzzle clipped to the leash even though rides within the region cost your dog nothing.",
+        "Cattle graze the alpine pastures all summer: keep distance, keep the dog on a short lead near herds, and release it only if cattle charge, that is the official Tyrolean guidance."
+      ],
+      "tipsFr": [
+        "La Hahnenkammbahn et la Hornbahn transportent les chiens gratuitement : montez le matin pour le sentier panoramique, ou descendez en automne la légendaire piste de la Streif elle-même, chien en laisse.",
+        "Au Tyrol, laisse ET muselière sont légalement obligatoires dans tous les bus et trains publics ; gardez donc une muselière accrochée à la laisse même si les trajets dans la région ne coûtent rien à votre chien.",
+        "Le bétail pâture sur les alpages tout l'été : gardez vos distances, tenez le chien en laisse courte près des troupeaux, et ne le lâchez que si les vaches chargent, c'est la consigne officielle tyrolienne."
+      ],
+      "tipsEs": [
+        "El Hahnenkammbahn y el Hornbahn llevan perros gratis: sube por la mañana para el sendero panorámico, o en otoño baja andando la legendaria pista Streif con el perro atado.",
+        "En el Tirol, la correa Y el bozal son obligatorios por ley en todos los buses y trenes públicos; lleva un bozal enganchado a la correa aunque los trayectos por la región no le cuesten nada a tu perro.",
+        "El ganado pasta en las praderas alpinas todo el verano: mantén distancia, lleva al perro con correa corta cerca de los rebaños y suéltalo solo si las vacas embisten, esa es la pauta oficial tirolesa."
+      ],
+      "tipsPt": [
+        "O Hahnenkammbahn e o Hornbahn levam cães grátis: suba de manhã para o trilho panorâmico, ou no outono desça a pé a lendária pista Streif com o cão pela trela.",
+        "No Tirol, trela E açaime são obrigatórios por lei em todos os autocarros e comboios públicos; leve um açaime preso à trela mesmo que as viagens na região não custem nada ao seu cão.",
+        "O gado pasta nas pastagens alpinas todo o verão: mantenha distância, leve o cão com trela curta perto dos rebanhos e solte-o apenas se as vacas investirem, é a orientação oficial tirolesa."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog ride the Kitzbühel cable cars?",
+          "a": "Yes, and for free: both the Hahnenkammbahn and the Kitzbüheler Hornbahn transport dogs at no charge in summer and winter. Keep the dog leashed in stations and gondolas; staff may require a muzzle in individual cases."
+        },
+        {
+          "q": "Can my dog swim in the Schwarzsee?",
+          "a": "Dogs are welcome around the lake and on the circular trail on a leash, but the paid bathing lido is off-limits in season. For a proper swim, locals point you to the quieter Gieringer Weiher just above the lake."
+        },
+        {
+          "q": "Is Kitzbühel manageable with a dog in winter?",
+          "a": "Yes, with planning: the town and valley trails are cleared and walkable, dogs ride the lifts free, and winter walking paths around the Schwarzsee stay open. Book pet-friendly rooms far ahead for the Hahnenkamm race weekend in January, when the town fills completely."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il prendre les remontées mécaniques de Kitzbühel ?",
+          "a": "Oui, et gratuitement : la Hahnenkammbahn comme la Kitzbüheler Hornbahn transportent les chiens sans frais été comme hiver. Gardez le chien en laisse dans les gares et les cabines ; le personnel peut exiger une muselière au cas par cas."
+        },
+        {
+          "q": "Mon chien peut-il se baigner dans le Schwarzsee ?",
+          "a": "Les chiens sont bienvenus autour du lac et sur le sentier circulaire en laisse, mais le lido payant leur est interdit en saison. Pour une vraie baignade, les locaux indiquent le Gieringer Weiher, plus calme, juste au-dessus du lac."
+        },
+        {
+          "q": "Kitzbühel est-elle gérable avec un chien en hiver ?",
+          "a": "Oui, en s'organisant : les chemins de la ville et de la vallée sont déneigés et praticables, les chiens montent gratuitement dans les remontées, et les sentiers d'hiver autour du Schwarzsee restent ouverts. Réservez très tôt un hébergement pet-friendly pour le week-end des courses du Hahnenkamm en janvier, quand la ville affiche complet."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro subir en los remontes de Kitzbühel?",
+          "a": "Sí, y gratis: tanto el Hahnenkammbahn como el Kitzbüheler Hornbahn transportan perros sin coste en verano y en invierno. Lleva al perro atado en estaciones y góndolas; el personal puede exigir bozal en casos concretos."
+        },
+        {
+          "q": "¿Puede mi perro bañarse en el Schwarzsee?",
+          "a": "Los perros son bienvenidos alrededor del lago y en el sendero circular con correa, pero el lido de pago les está vetado en temporada. Para un baño de verdad, los locales recomiendan el Gieringer Weiher, más tranquilo, justo encima del lago."
+        },
+        {
+          "q": "¿Es manejable Kitzbühel con perro en invierno?",
+          "a": "Sí, con planificación: los caminos del pueblo y del valle se limpian y son transitables, los perros suben gratis en los remontes y los senderos de invierno del Schwarzsee siguen abiertos. Reserva alojamiento pet-friendly con mucha antelación para el fin de semana de las carreras del Hahnenkamm en enero, cuando el pueblo se llena por completo."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "O meu cão pode andar nos teleféricos de Kitzbühel?",
+          "a": "Sim, e de graça: tanto o Hahnenkammbahn como o Kitzbüheler Hornbahn transportam cães sem custo no verão e no inverno. Mantenha o cão pela trela nas estações e nas cabinas; o pessoal pode exigir açaime em casos concretos."
+        },
+        {
+          "q": "O meu cão pode nadar no Schwarzsee?",
+          "a": "Os cães são bem-vindos à volta do lago e no trilho circular com trela, mas o lido pago está-lhes interdito na época. Para um banho a sério, os locais indicam o Gieringer Weiher, mais tranquilo, logo acima do lago."
+        },
+        {
+          "q": "Kitzbühel é viável com cão no inverno?",
+          "a": "Sim, com planeamento: os caminhos da vila e do vale são limpos e transitáveis, os cães sobem grátis nos teleféricos e os trilhos de inverno à volta do Schwarzsee ficam abertos. Reserve alojamento pet-friendly com muita antecedência para o fim de semana das corridas do Hahnenkamm em janeiro, quando a vila esgota por completo."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Kitzbühel",
+      "titleFr": "Attractions dog-friendly à Kitzbühel",
+      "titleEs": "Atracciones dog-friendly en Kitzbühel",
+      "titlePt": "Atrações dog-friendly em Kitzbühel",
+      "introEn": "The legend of Kitzbühel is best experienced outdoors, which suits dogs perfectly: a walled medieval centre painted in pastels, the Hahnenkamm with its infamous Streif course, and free gondolas to get you both up there.",
+      "introFr": "La légende de Kitzbühel se vit dehors, ce qui convient parfaitement aux chiens : un centre médiéval aux façades pastel, le Hahnenkamm avec sa fameuse piste Streif, et des télécabines gratuites pour vous hisser tous les deux là-haut.",
+      "introEs": "La leyenda de Kitzbühel se vive al aire libre, lo que les viene perfecto a los perros: un centro medieval de fachadas pastel, el Hahnenkamm con su temida pista Streif y góndolas gratuitas para subiros los dos.",
+      "introPt": "A lenda de Kitzbühel vive-se ao ar livre, o que convém perfeitamente aos cães: um centro medieval de fachadas pastel, o Hahnenkamm com a temida pista Streif e gôndolas gratuitas para vos levar aos dois lá acima.",
+      "places": [
+        {
+          "name": "Medieval old town (Vorderstadt & Hinterstadt)",
+          "address": "Vorderstadt, 6370 Kitzbühel",
+          "photo": "/images/city-places/kitzbuehel-attractions-old-town.jpg",
+          "description": "The 700-year-old walled core with its pastel merchant houses, boutiques and church towers is compact, mostly traffic-calmed and very strollable with a leashed dog. Water bowls appear outside many shops and cafes in season.",
+          "descriptionFr": "Le noyau fortifié de 700 ans, avec ses maisons de marchands pastel, ses boutiques et ses clochers, est compact, largement apaisé côté circulation et très agréable à arpenter avec un chien en laisse. Des gamelles d'eau apparaissent devant de nombreux commerces en saison.",
+          "descriptionEs": "El núcleo amurallado de 700 años, con sus casas de comerciantes en tonos pastel, boutiques y campanarios, es compacto, con tráfico calmado y muy paseable con el perro atado. En temporada aparecen cuencos de agua ante muchas tiendas y cafés.",
+          "descriptionPt": "O núcleo amuralhado de 700 anos, com as suas casas de mercadores em tons pastel, boutiques e campanários, é compacto, com trânsito acalmado e muito agradável de percorrer com o cão pela trela. Na época aparecem taças de água à porta de muitas lojas e cafés.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vorderstadt+Kitzbuhel"
+        },
+        {
+          "name": "Hahnenkamm & Streif summer trail",
+          "address": "Hahnenkammbahn, Hahnenkammstraße 1a, 6370 Kitzbühel",
+          "photo": "/images/city-places/kitzbuehel-attractions-hahnenkamm-streif.jpg",
+          "description": "Ride the Hahnenkammbahn, dogs travel free, to the panoramic trails at 1,700 m and the start hut of the world's most feared downhill. In summer and autumn you can walk the Streif course downhill with a leashed dog and grasp just how steep the Mausefalle really is.",
+          "descriptionFr": "Montez avec la Hahnenkammbahn, gratuite pour les chiens, vers les sentiers panoramiques à 1 700 m et la cabane de départ de la descente la plus redoutée du monde. En été et en automne, on peut descendre la Streif à pied avec un chien en laisse et mesurer à quel point la Mausefalle est raide.",
+          "descriptionEs": "Sube en el Hahnenkammbahn, gratis para los perros, a los senderos panorámicos a 1.700 m y a la caseta de salida del descenso más temido del mundo. En verano y otoño se puede bajar la Streif a pie con el perro atado y comprobar lo empinada que es la Mausefalle.",
+          "descriptionPt": "Suba no Hahnenkammbahn, grátis para os cães, até aos trilhos panorâmicos a 1.700 m e à cabana de partida da descida mais temida do mundo. No verão e no outono pode descer-se a Streif a pé com o cão pela trela e perceber como a Mausefalle é mesmo íngreme.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hahnenkammbahn+Kitzbuhel"
+        },
+        {
+          "name": "Kitzbüheler Horn",
+          "address": "Hornbahn, Hornweg 21, 6370 Kitzbühel",
+          "photo": "/images/city-places/kitzbuehel-attractions-kitzbueheler-horn.jpg",
+          "description": "The pyramid peak opposite the Hahnenkamm, served by the Hornbahn where dogs also ride free. From the Alpenhaus you walk flower-lined paths with 360-degree views over the Wilder Kaiser and the Hohe Tauern; the alpine flower garden area is a gentler alternative to the summit push.",
+          "descriptionFr": "Le sommet pyramidal face au Hahnenkamm, desservi par la Hornbahn où les chiens voyagent aussi gratuitement. Depuis l'Alpenhaus, on suit des sentiers fleuris avec vue à 360 degrés sur le Wilder Kaiser et les Hohe Tauern ; le secteur du jardin alpin est une alternative plus douce que l'assaut du sommet.",
+          "descriptionEs": "La cima piramidal frente al Hahnenkamm, servida por el Hornbahn, donde los perros también viajan gratis. Desde el Alpenhaus se recorren senderos floridos con vistas de 360 grados al Wilder Kaiser y los Hohe Tauern; la zona del jardín alpino es una alternativa más suave que atacar la cumbre.",
+          "descriptionPt": "O cume piramidal em frente ao Hahnenkamm, servido pelo Hornbahn, onde os cães também viajam grátis. Do Alpenhaus percorrem-se trilhos floridos com vistas de 360 graus para o Wilder Kaiser e os Hohe Tauern; a zona do jardim alpino é uma alternativa mais suave do que atacar o cume.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kitzbuheler+Hornbahn+Kitzbuhel"
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Daycare in Kitzbühel",
+      "titleFr": "Garde d'animaux et garderie canine à Kitzbühel",
+      "titleEs": "Cuidadores y guardería canina en Kitzbühel",
+      "titlePt": "Pet sitting e creche canina em Kitzbühel",
+      "introEn": "For golf rounds, race days or gourmet dinners where dogs cannot follow, Kitzbühel has an unusually rich dog-care scene for a town of 8,500, from family-style daycares to premium one-on-one sitting.",
+      "introFr": "Pour les parcours de golf, les jours de course ou les dîners gastronomiques où les chiens ne peuvent pas suivre, Kitzbühel offre une scène de garde canine étonnamment riche pour une ville de 8 500 habitants, des garderies familiales au sitting premium en tête-à-tête.",
+      "introEs": "Para las rondas de golf, los días de carreras o las cenas gourmet donde los perros no pueden entrar, Kitzbühel tiene una oferta de cuidado canino inusualmente rica para un pueblo de 8.500 habitantes, de guarderías familiares al cuidado premium individual.",
+      "introPt": "Para as voltas de golfe, os dias de corrida ou os jantares gourmet onde os cães não podem entrar, Kitzbühel tem uma oferta de cuidado canino invulgarmente rica para uma vila de 8.500 habitantes, de creches familiares ao sitting premium individual.",
+      "places": [],
+      "services": [
+        {
+          "name": "KB DOGS Hundebetreuung",
+          "website": "https://kb-dogs.at",
+          "description": "A family-atmosphere dog daycare and boarding home at Einfangweg 52, listed in the town's official Kitz A-Z directory. Dogs live in the house with a garden rather than in kennels.",
+          "descriptionFr": "Une garderie et pension canine à l'ambiance familiale au Einfangweg 52, référencée dans l'annuaire officiel Kitz A-Z de la ville. Les chiens vivent dans la maison avec jardin plutôt qu'en box.",
+          "descriptionEs": "Una guardería y pensión canina de ambiente familiar en Einfangweg 52, incluida en el directorio oficial Kitz A-Z del municipio. Los perros viven en la casa con jardín, no en jaulas.",
+          "descriptionPt": "Uma creche e pensão canina de ambiente familiar no Einfangweg 52, incluída no diretório oficial Kitz A-Z da vila. Os cães vivem na casa com jardim, não em boxes.",
+          "priceRange": "Quote on request",
+          "priceRangeFr": "Devis sur demande",
+          "priceRangeEs": "Presupuesto a petición",
+          "priceRangePt": "Orçamento sob pedido",
+          "bookingRequired": true
+        },
+        {
+          "name": "Kitz Hund",
+          "website": "https://kitzhund.at",
+          "description": "A premium micro-pension taking a maximum of two dogs at a time, with day care, holiday care and guided alpine dog walks. Contact +43 660 385 3883; ideal for dogs that need individual attention.",
+          "descriptionFr": "Une micro-pension premium qui accueille deux chiens maximum à la fois : garde de jour, garde vacances et balades alpines guidées. Contact +43 660 385 3883 ; idéal pour les chiens qui demandent une attention individuelle.",
+          "descriptionEs": "Una micro-pensión premium que acoge un máximo de dos perros a la vez: guardería de día, cuidado vacacional y paseos alpinos guiados. Contacto +43 660 385 3883; ideal para perros que necesitan atención individual.",
+          "descriptionPt": "Uma micro-pensão premium que acolhe no máximo dois cães de cada vez: creche de dia, cuidado de férias e passeios alpinos guiados. Contacto +43 660 385 3883; ideal para cães que precisam de atenção individual.",
+          "priceRange": "Premium; quote on request",
+          "priceRangeFr": "Premium ; devis sur demande",
+          "priceRangeEs": "Premium; presupuesto a petición",
+          "priceRangePt": "Premium; orçamento sob pedido",
+          "bookingRequired": true
+        },
+        {
+          "name": "Pawshake / Tiersitter24 platforms",
+          "website": "https://www.pawshake.at/hundebetreuung/kitzbuehel-tirol",
+          "description": "The Austrian sitter platforms list dozens of vetted home-based sitters in and around Kitzbühel for walks, day visits and overnight stays. A flexible backup during the Hahnenkamm races and summer events when local daycares fill up.",
+          "descriptionFr": "Les plateformes autrichiennes recensent des dizaines de gardiens à domicile vérifiés à Kitzbühel et alentour : promenades, visites de jour et nuitées. Un plan B flexible pendant les courses du Hahnenkamm et les événements d'été, quand les garderies locales affichent complet.",
+          "descriptionEs": "Las plataformas austriacas listan decenas de cuidadores a domicilio verificados en Kitzbühel y alrededores: paseos, visitas de día y estancias nocturnas. Un plan flexible durante las carreras del Hahnenkamm y los eventos de verano, cuando las guarderías locales se llenan.",
+          "descriptionPt": "As plataformas austríacas listam dezenas de sitters ao domicílio verificados em Kitzbühel e arredores: passeios, visitas de dia e estadias noturnas. Um plano flexível durante as corridas do Hahnenkamm e os eventos de verão, quando as creches locais esgotam.",
+          "priceRange": "From ~10 EUR per visit",
+          "priceRangeFr": "À partir d'environ 10 EUR la visite",
+          "priceRangeEs": "Desde unos 10 EUR por visita",
+          "priceRangePt": "A partir de cerca de 10 EUR por visita",
+          "bookingRequired": true
+        }
+      ]
+    }
+  }
+}

@@ -15407,6 +15407,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  kitzbuehel: {
+    history: {
+      fr: `Ville minière fortifiée dès 1271 par les ducs de Bavière, Kitzbühel s'est enrichie de l'argent et du cuivre avant de passer au Tyrol des Habsbourg en 1504. Ses maisons de marchands aux façades pastel, serrées entre la Vorderstadt et la Hinterstadt, datent de cet âge d'or. Le destin de la ville bascule en 1893, quand Franz Reisch chausse les premiers skis rapportés de Norvège et dévale le Kitzbüheler Horn : le ski alpin autrichien est né ici. Depuis 1931, la descente du Hahnenkamm sur la piste de la Streif, la plus redoutée du circuit, fait de ce bourg de 8 500 habitants la capitale mondiale du ski de janvier. Le reste de l'année, Kitzbühel redevient une petite ville tyrolienne étonnamment paisible, entourée de prairies, de lacs de tourbière et de sommets doux, un terrain de jeu idéal pour un chien, gondoles gratuites comprises.`,
+      en: `A mining town fortified in 1271 by the Bavarian dukes, Kitzbühel grew rich on silver and copper before passing to Habsburg Tyrol in 1504. Its pastel-fronted merchant houses, packed along the Vorderstadt and Hinterstadt, date from that golden age. The town's destiny changed in 1893, when Franz Reisch strapped on the first skis brought back from Norway and rode down the Kitzbüheler Horn: Austrian alpine skiing was born here. Since 1931 the Hahnenkamm downhill on the Streif, the most feared course on the circuit, has made this town of 8,500 the world's ski capital every January. The rest of the year Kitzbühel returns to being a surprisingly peaceful little Tyrolean town, ringed by meadows, moor lakes and gentle summits, an ideal playground for a dog, free gondolas included.`,
+      es: `Ciudad minera fortificada en 1271 por los duques de Baviera, Kitzbühel se enriqueció con la plata y el cobre antes de pasar al Tirol de los Habsburgo en 1504. Sus casas de comerciantes de fachadas pastel, apretadas entre la Vorderstadt y la Hinterstadt, datan de esa edad de oro. El destino del pueblo cambió en 1893, cuando Franz Reisch se calzó los primeros esquís traídos de Noruega y bajó el Kitzbüheler Horn: el esquí alpino austriaco nació aquí. Desde 1931, el descenso del Hahnenkamm por la Streif, la pista más temida del circuito, convierte a este pueblo de 8.500 habitantes en la capital mundial del esquí cada enero. El resto del año Kitzbühel vuelve a ser una pequeña ciudad tirolesa sorprendentemente tranquila, rodeada de prados, lagos de turbera y cumbres suaves, un terreno de juego ideal para un perro, góndolas gratuitas incluidas.`,
+      pt: `Vila mineira fortificada em 1271 pelos duques da Baviera, Kitzbühel enriqueceu com a prata e o cobre antes de passar para o Tirol dos Habsburgos em 1504. As suas casas de mercadores de fachadas pastel, apertadas entre a Vorderstadt e a Hinterstadt, datam dessa idade de ouro. O destino da vila mudou em 1893, quando Franz Reisch calçou os primeiros esquis trazidos da Noruega e desceu o Kitzbüheler Horn: o esqui alpino austríaco nasceu aqui. Desde 1931, a descida do Hahnenkamm pela Streif, a pista mais temida do circuito, faz desta vila de 8.500 habitantes a capital mundial do esqui em cada janeiro. No resto do ano, Kitzbühel volta a ser uma pequena vila tirolesa surpreendentemente tranquila, rodeada de prados, lagos de turfa e cumes suaves, um terreno de jogos ideal para um cão, gôndolas gratuitas incluídas.`,
+    },
+    sights: [
+      {
+        name: `Vorderstadt & old town`,
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le coeur fortifié de 700 ans, avec ses façades pastel, ses enseignes en fer forgé et l'église Sainte-Catherine. Compact et largement apaisé côté circulation, il se visite entièrement en laisse ; en saison, beaucoup de commerces sortent des gamelles d'eau.`,
+          en: `The 700-year-old walled heart, with pastel facades, wrought-iron signs and St Catherine's church. Compact and mostly traffic-calmed, it is explored entirely on leash; in season many shops put out water bowls.`,
+          es: `El corazón amurallado de 700 años, con fachadas pastel, rótulos de hierro forjado y la iglesia de Santa Catalina. Compacto y con tráfico calmado, se visita entero con correa; en temporada muchas tiendas sacan cuencos de agua.`,
+          pt: `O coração amuralhado de 700 anos, com fachadas pastel, letreiros de ferro forjado e a igreja de Santa Catarina. Compacto e com trânsito acalmado, visita-se todo pela trela; na época muitas lojas põem taças de água à porta.`,
+        },
+      },
+      {
+        name: `Hahnenkamm & Streif`,
+        emoji: '🎿',
+        petFriendly: true,
+        desc: {
+          fr: `La Hahnenkammbahn monte gratuitement les chiens vers les sentiers panoramiques à 1 700 m et la cabane de départ de la descente la plus célèbre du monde. En été et en automne, on peut descendre la Streif à pied, chien en laisse, de la Mausefalle au Zielhang.`,
+          en: `The Hahnenkammbahn lifts dogs for free to the panoramic trails at 1,700 m and the start hut of the world's most famous downhill. In summer and autumn you can walk the Streif down, dog on leash, from the Mausefalle to the finish slope.`,
+          es: `El Hahnenkammbahn sube gratis a los perros a los senderos panorámicos a 1.700 m y a la caseta de salida del descenso más famoso del mundo. En verano y otoño se puede bajar la Streif a pie, con el perro atado, de la Mausefalle a la llegada.`,
+          pt: `O Hahnenkammbahn sobe os cães de graça até aos trilhos panorâmicos a 1.700 m e à cabana de partida da descida mais famosa do mundo. No verão e no outono pode descer-se a Streif a pé, cão pela trela, da Mausefalle à chegada.`,
+        },
+      },
+      {
+        name: `Schwarzsee`,
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `L'un des lacs de baignade les plus chauds des Alpes, à une demi-heure à pied du centre. Les chiens sont bienvenus en laisse autour du lac et sur la boucle de 2 km ; le lido payant leur est interdit en saison, le Gieringer Weiher voisin est la vraie baignade canine.`,
+          en: `One of the warmest bathing lakes in the Alps, a half-hour walk from the centre. Dogs are welcome on leash around the lake and its 2 km loop; the paid lido is off-limits in season, and the nearby Gieringer Weiher is the real dog swim.`,
+          es: `Uno de los lagos de baño más cálidos de los Alpes, a media hora a pie del centro. Los perros son bienvenidos con correa alrededor del lago y en su circuito de 2 km; el lido de pago les está vetado en temporada, y el cercano Gieringer Weiher es el verdadero baño canino.`,
+          pt: `Um dos lagos de banho mais quentes dos Alpes, a meia hora a pé do centro. Os cães são bem-vindos com trela à volta do lago e no circuito de 2 km; o lido pago está-lhes interdito na época, e o vizinho Gieringer Weiher é o verdadeiro banho canino.`,
+        },
+      },
+      {
+        name: `Kitzbüheler Horn`,
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `La pyramide qui fait face au Hahnenkamm, desservie par la Hornbahn où les chiens voyagent aussi gratuitement. Sentiers fleuris autour de l'Alpenhaus et panorama à 360 degrés sur le Wilder Kaiser et les Hohe Tauern.`,
+          en: `The pyramid facing the Hahnenkamm, served by the Hornbahn where dogs also ride free. Flower-lined trails around the Alpenhaus and a 360-degree panorama over the Wilder Kaiser and the Hohe Tauern.`,
+          es: `La pirámide frente al Hahnenkamm, servida por el Hornbahn, donde los perros también viajan gratis. Senderos floridos en torno al Alpenhaus y panorama de 360 grados sobre el Wilder Kaiser y los Hohe Tauern.`,
+          pt: `A pirâmide em frente ao Hahnenkamm, servida pelo Hornbahn, onde os cães também viajam de graça. Trilhos floridos à volta do Alpenhaus e panorama de 360 graus sobre o Wilder Kaiser e os Hohe Tauern.`,
+        },
+      },
+      {
+        name: `Wildpark Tirol Aurach`,
+        emoji: '🦌',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc animalier le plus haut d'Autriche, à 1 100 m au-dessus d'Aurach : cerfs, bouquetins, lynx et marmottes le long d'une boucle panoramique. Chiens admis en laisse courte, sur les sentiers uniquement et sous la responsabilité du maître près des femelles suitées.`,
+          en: `Austria's highest game park, at 1,100 m above Aurach: deer, ibex, lynx and marmots along a panoramic loop. Dogs admitted on a short leash, on the paths only and at the owner's responsibility near mother animals.`,
+          es: `El parque de fauna más alto de Austria, a 1.100 m sobre Aurach: ciervos, íbices, linces y marmotas por un circuito panorámico. Perros admitidos con correa corta, solo por los senderos y bajo la responsabilidad del dueño cerca de las crías.`,
+          pt: `O parque de fauna mais alto da Áustria, a 1.100 m acima de Aurach: veados, íbexes, linces e marmotas ao longo de um circuito panorâmico. Cães admitidos com trela curta, apenas nos trilhos e sob a responsabilidade do dono perto das crias.`,
+        },
+      },
+      {
+        name: `Museum Kitzbühel`,
+        emoji: '🖼️',
+        petFriendly: false,
+        desc: {
+          fr: `Dans le plus vieux bâtiment de la ville, le musée raconte l'argent des mines, la naissance du ski autrichien et le peintre local Alfons Walde. Les chiens n'y entrent pas : profitez-en pour confier le vôtre une heure à un dog sitter et ressortez par la Vorderstadt.`,
+          en: `In the town's oldest building, the museum tells the story of mining silver, the birth of Austrian skiing and local painter Alfons Walde. Dogs cannot enter: hand yours to a sitter for an hour and come back out through the Vorderstadt.`,
+          es: `En el edificio más antiguo del pueblo, el museo cuenta la plata de las minas, el nacimiento del esquí austriaco y al pintor local Alfons Walde. Los perros no entran: deja el tuyo una hora con un cuidador y sal después por la Vorderstadt.`,
+          pt: `No edifício mais antigo da vila, o museu conta a prata das minas, o nascimento do esqui austríaco e o pintor local Alfons Walde. Os cães não entram: deixe o seu uma hora com um sitter e volte a sair pela Vorderstadt.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les remontées KitzSki (Hahnenkammbahn et Hornbahn) transportent les chiens gratuitement été comme hiver : chien en laisse dans les gares et les cabines, muselière possible au cas par cas.`,
+        `Dans tout le Tyrol, les chiens voyagent gratuitement dans les bus et trains régionaux VVT, mais laisse et muselière sont légalement obligatoires à bord : gardez toujours une muselière sur vous.`,
+        `Autour du Schwarzsee, laisse et ramassage obligatoires ; le lido payant est interdit aux chiens en saison, la vraie baignade canine se fait au Gieringer Weiher voisin.`,
+        `Sur les alpages, restez à distance des vaches suitées et tenez le chien en laisse courte près des troupeaux ; ne le lâchez que si le bétail charge, c'est la consigne officielle tyrolienne.`,
+        `Le week-end des courses du Hahnenkamm en janvier, la ville affiche complet et les rues sont bondées et bruyantes : réservez l'hébergement des mois à l'avance ou évitez la semaine des courses avec un chien sensible.`,
+      ],
+      en: [
+        `The KitzSki lifts (Hahnenkammbahn and Hornbahn) carry dogs for free in summer and winter: dog leashed in stations and cabins, with a muzzle possible in individual cases.`,
+        `Across Tyrol, dogs ride VVT buses and regional trains for free, but leash and muzzle are legally required on board: always keep a muzzle with you.`,
+        `Around the Schwarzsee, leash and clean-up are compulsory; the paid lido bans dogs in season, and the real dog swim is at the neighbouring Gieringer Weiher.`,
+        `On the alpine pastures, keep your distance from cows with calves and hold the dog on a short lead near herds; release it only if cattle charge, that is the official Tyrolean guidance.`,
+        `On the Hahnenkamm race weekend in January the town sells out and the streets are packed and loud: book accommodation months ahead or avoid race week with a sensitive dog.`,
+      ],
+      es: [
+        `Los remontes de KitzSki (Hahnenkammbahn y Hornbahn) llevan perros gratis en verano y en invierno: perro atado en estaciones y cabinas, con bozal posible en casos concretos.`,
+        `En todo el Tirol los perros viajan gratis en los buses y trenes regionales VVT, pero la correa y el bozal son obligatorios por ley a bordo: lleva siempre un bozal contigo.`,
+        `Alrededor del Schwarzsee, correa y recogida obligatorias; el lido de pago prohíbe los perros en temporada, y el verdadero baño canino está en el vecino Gieringer Weiher.`,
+        `En los pastos alpinos, mantén distancia de las vacas con terneros y lleva al perro con correa corta cerca de los rebaños; suéltalo solo si el ganado embiste, esa es la pauta oficial tirolesa.`,
+        `El fin de semana de las carreras del Hahnenkamm en enero el pueblo se llena y las calles son ruidosas y abarrotadas: reserva alojamiento con meses de antelación o evita la semana de carreras con un perro sensible.`,
+      ],
+      pt: [
+        `Os teleféricos da KitzSki (Hahnenkammbahn e Hornbahn) levam cães de graça no verão e no inverno: cão pela trela nas estações e cabinas, com açaime possível caso a caso.`,
+        `Em todo o Tirol os cães viajam grátis nos autocarros e comboios regionais VVT, mas trela e açaime são obrigatórios por lei a bordo: leve sempre um açaime consigo.`,
+        `À volta do Schwarzsee, trela e recolha obrigatórias; o lido pago proíbe cães na época, e o verdadeiro banho canino é no vizinho Gieringer Weiher.`,
+        `Nas pastagens alpinas, mantenha distância das vacas com vitelos e leve o cão com trela curta perto dos rebanhos; solte-o apenas se o gado investir, é a orientação oficial tirolesa.`,
+        `No fim de semana das corridas do Hahnenkamm em janeiro a vila esgota e as ruas ficam cheias e barulhentas: reserve alojamento com meses de antecedência ou evite a semana das corridas com um cão sensível.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire en ville : Tierarztpraxis Briem-Feichtner, Ehrenbachgasse 48, +43 5356 62370 (lun-ven 9h-11h30 et 16h30-18h30, mercredi matin uniquement).`,
+        `Deuxième cabinet : Dr Cornelia Z'berg, Hammerschmiedstraße 7, +43 5356 20230 (lun-mer et ven 9h-12h et 14h-18h, jeudi matin).`,
+        `Urgences hors horaires, week-ends et fériés : Kleintiernotdienst Tirol au +43 676 88 508 82 444 ; numéro d'urgence européen 112.`,
+        `Transports : chiens gratuits dans les bus et trains VVT du Tyrol et sur les remontées KitzSki ; muselière et laisse obligatoires dans les transports publics.`,
+        `Ramassage obligatoire partout, distributeurs de sacs autour du Schwarzsee et sur les principaux chemins ; en hiver, protégez les coussinets du sel de déneigement dans les rues du centre.`,
+      ],
+      en: [
+        `Vet in town: Tierarztpraxis Briem-Feichtner, Ehrenbachgasse 48, +43 5356 62370 (Mon-Fri 9:00-11:30 and 16:30-18:30, Wednesday mornings only).`,
+        `Second practice: Dr Cornelia Z'berg, Hammerschmiedstraße 7, +43 5356 20230 (Mon-Wed and Fri 9:00-12:00 and 14:00-18:00, Thursday mornings).`,
+        `Out-of-hours, weekend and holiday emergencies: Kleintiernotdienst Tirol on +43 676 88 508 82 444; European emergency number 112.`,
+        `Transport: dogs ride free on Tyrol's VVT buses and trains and on the KitzSki lifts; muzzle and leash are mandatory on public transport.`,
+        `Clean-up is compulsory everywhere, with bag dispensers around the Schwarzsee and on the main paths; in winter protect paws from road salt in the centre's streets.`,
+      ],
+      es: [
+        `Veterinario en el pueblo: Tierarztpraxis Briem-Feichtner, Ehrenbachgasse 48, +43 5356 62370 (lun-vie 9:00-11:30 y 16:30-18:30, miércoles solo por la mañana).`,
+        `Segunda consulta: Dra. Cornelia Z'berg, Hammerschmiedstraße 7, +43 5356 20230 (lun-mié y vie 9:00-12:00 y 14:00-18:00, jueves por la mañana).`,
+        `Urgencias fuera de horario, fines de semana y festivos: Kleintiernotdienst Tirol en el +43 676 88 508 82 444; número de emergencias europeo 112.`,
+        `Transporte: los perros viajan gratis en los buses y trenes VVT del Tirol y en los remontes de KitzSki; bozal y correa obligatorios en el transporte público.`,
+        `Recogida obligatoria en todas partes, con dispensadores de bolsas alrededor del Schwarzsee y en los caminos principales; en invierno protege las almohadillas de la sal en las calles del centro.`,
+      ],
+      pt: [
+        `Veterinário na vila: Tierarztpraxis Briem-Feichtner, Ehrenbachgasse 48, +43 5356 62370 (seg-sex 9:00-11:30 e 16:30-18:30, quarta só de manhã).`,
+        `Segundo consultório: Dra. Cornelia Z'berg, Hammerschmiedstraße 7, +43 5356 20230 (seg-qua e sex 9:00-12:00 e 14:00-18:00, quinta de manhã).`,
+        `Urgências fora de horas, fins de semana e feriados: Kleintiernotdienst Tirol no +43 676 88 508 82 444; número de emergência europeu 112.`,
+        `Transportes: os cães viajam grátis nos autocarros e comboios VVT do Tirol e nos teleféricos da KitzSki; açaime e trela obrigatórios nos transportes públicos.`,
+        `Recolha obrigatória em todo o lado, com dispensadores de sacos à volta do Schwarzsee e nos caminhos principais; no inverno proteja as almofadinhas do sal nas ruas do centro.`,
+      ],
+    },
+  },
+
   klagenfurt: {
     history: {
       fr: `Klagenfurt am Wörthersee, capitale de la Carinthie depuis 1518, fut fondée vers 1199 par le duc Hermann II et reconstruite après l'incendie de 1514 selon un plan en damier Renaissance toujours intact aujourd'hui. La ville s'organise autour de la Neuer Platz où trône le Lindwurmbrunnen, fontaine de 1593 sculptée dans un seul bloc de chlorite représentant le dragon mythologique qui aurait infesté les marais de la Glan. Capitale du Carinthie habsbourgeoise, elle accueillit le Landhaus Renaissance de 1574, encore aujourd'hui siège du parlement régional avec sa cour à arcades. Aujourd'hui ville d'environ 104 000 habitants, Klagenfurt vit largement de son lien avec le Wörthersee, le lac le plus chaud des Alpes (jusqu'à 26 degrés en juillet), à l'extrémité ouest de l'Altstadt. Pour les voyageurs avec un chien, c'est une base décontractée : Altstadt piéton compact, culture Gasthaus carinthienne tolérante, Hundebadeplätze signalées sur le lac et accès direct en téléphérique à la forêt du Kreuzbergl. Railjet ÖBB direct vers Vienne en 4h, Salzbourg 2h45.`,

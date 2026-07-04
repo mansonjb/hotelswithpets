@@ -127,6 +127,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  agadir: {
+    history: {
+      fr: `Agadir est une ville neuve à l'échelle marocaine : détruite par le séisme du 29 février 1960, elle a été entièrement reconstruite selon un urbanisme moderne, avec de larges avenues, des immeubles bas antisismiques et un front de mer de 6 km qui reste son cœur battant. Ancien comptoir portugais du XVIe siècle, la ville vit aujourd'hui du plus grand port de pêche sardinier du monde et d'un tourisme balnéaire tourné vers l'Atlantique. Pour les voyageurs avec chien, Agadir est l'une des portes d'entrée les plus douces du Maroc : climat tempéré toute l'année grâce à la brise océanique, promenade plate et ombragée idéale tôt le matin, kasbah d'Agadir Oufella pour les panoramas et Paradise Valley à une heure de route pour les randonnées en laisse. Les chiens restent rares dans l'espace public marocain, mais les hôtels du secteur touristique s'ouvrent progressivement aux animaux, surtout hors saison.`,
+      en: `Agadir is a new city by Moroccan standards: destroyed by the earthquake of 29 February 1960, it was entirely rebuilt on a modern plan, with wide avenues, low earthquake-resistant buildings and a 6 km seafront that remains its beating heart. A Portuguese trading post in the 16th century, the city now lives off the world's largest sardine fishing port and Atlantic beach tourism. For travellers with a dog, Agadir is one of the gentlest gateways into Morocco: a mild year-round climate thanks to the ocean breeze, a flat promenade that is ideal early in the morning, the Agadir Oufella kasbah for panoramic views and Paradise Valley an hour's drive away for on-leash hikes. Dogs are still uncommon in Moroccan public spaces, but hotels in the tourist zone are gradually opening up to pets, especially outside the high season.`,
+      es: `Agadir es una ciudad nueva para los estándares marroquíes: destruida por el terremoto del 29 de febrero de 1960, fue reconstruida por completo con un urbanismo moderno, con amplias avenidas, edificios bajos antisísmicos y un paseo marítimo de 6 km que sigue siendo su corazón. Antiguo enclave portugués del siglo XVI, la ciudad vive hoy del mayor puerto sardinero del mundo y del turismo de playa atlántico. Para los viajeros con perro, Agadir es una de las puertas de entrada más amables de Marruecos: clima suave todo el año gracias a la brisa oceánica, un paseo llano ideal a primera hora de la mañana, la kasbah de Agadir Oufella para las vistas panorámicas y Paradise Valley a una hora en coche para caminatas con correa. Los perros siguen siendo poco habituales en el espacio público marroquí, pero los hoteles de la zona turística se abren poco a poco a las mascotas, sobre todo fuera de temporada alta.`,
+      pt: `Agadir é uma cidade nova para os padrões marroquinos: destruída pelo sismo de 29 de fevereiro de 1960, foi inteiramente reconstruída segundo um urbanismo moderno, com avenidas largas, edifícios baixos antissísmicos e uma frente de mar de 6 km que continua a ser o seu coração. Antigo entreposto português do século XVI, a cidade vive hoje do maior porto de pesca de sardinha do mundo e do turismo balnear atlântico. Para os viajantes com cão, Agadir é uma das portas de entrada mais suaves de Marrocos: clima ameno todo o ano graças à brisa oceânica, um passeio marítimo plano ideal de manhã cedo, a kasbah de Agadir Oufella para as vistas panorâmicas e o Paradise Valley a uma hora de carro para caminhadas com trela. Os cães ainda são raros no espaço público marroquino, mas os hotéis da zona turística abrem-se progressivamente aos animais, sobretudo fora da época alta.`,
+    },
+    sights: [
+      { name: "Promenade d'Agadir", emoji: '🌊', petFriendly: true, desc: {
+        fr: `Front de mer de 6 km entre la marina et le quartier de Founty. Chiens en laisse tolérés, idéalement tôt le matin ou en fin de journée quand la foule et la chaleur retombent.`,
+        en: `A 6 km seafront between the marina and the Founty district. Leashed dogs are tolerated, ideally early in the morning or at the end of the day when crowds and heat drop off.`,
+        es: `Paseo marítimo de 6 km entre la marina y el barrio de Founty. Se toleran perros con correa, idealmente a primera hora de la mañana o al final del día, cuando bajan el gentío y el calor.`,
+        pt: `Frente de mar de 6 km entre a marina e o bairro de Founty. Cães com trela são tolerados, idealmente de manhã cedo ou ao fim do dia, quando a multidão e o calor diminuem.`,
+      }},
+      { name: 'Agadir Oufella', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Vestiges de la kasbah du XVIe siècle sur la colline qui domine la baie, avec la devise Dieu, la Patrie, le Roi illuminée la nuit. Esplanade extérieure accessible aux chiens en laisse, panorama superbe sur le port et la plage.`,
+        en: `Remains of the 16th-century kasbah on the hill overlooking the bay, with the motto God, Homeland, King lit up at night. The outdoor esplanade is accessible to leashed dogs, with a superb panorama over the port and the beach.`,
+        es: `Vestigios de la kasbah del siglo XVI en la colina que domina la bahía, con el lema Dios, Patria, Rey iluminado por la noche. La explanada exterior es accesible a perros con correa, con un panorama magnífico del puerto y la playa.`,
+        pt: `Vestígios da kasbah do século XVI na colina que domina a baía, com o lema Deus, Pátria, Rei iluminado à noite. A esplanada exterior é acessível a cães com trela, com um panorama soberbo sobre o porto e a praia.`,
+      }},
+      { name: 'Souk El Had', emoji: '🛍️', petFriendly: false, desc: {
+        fr: `L'un des plus grands marchés couverts du Maroc, environ 3 000 échoppes derrière des murs ocre. Les chiens n'y sont pas admis : laissez votre compagnon à l'hôtel et prévoyez 2 à 3 heures de visite.`,
+        en: `One of Morocco's largest covered markets, around 3,000 stalls behind ochre walls. Dogs are not admitted: leave your companion at the hotel and allow 2 to 3 hours for the visit.`,
+        es: `Uno de los mayores mercados cubiertos de Marruecos, unas 3.000 tiendas tras muros ocres. No se admiten perros: deja a tu compañero en el hotel y calcula de 2 a 3 horas de visita.`,
+        pt: `Um dos maiores mercados cobertos de Marrocos, cerca de 3.000 bancas atrás de muros ocre. Os cães não são admitidos: deixe o seu companheiro no hotel e conte com 2 a 3 horas de visita.`,
+      }},
+      { name: "Marina d'Agadir", emoji: '⛵', petFriendly: true, desc: {
+        fr: `Port de plaisance moderne au pied de la kasbah, quais piétons bordés de boutiques et de cafés. Les chiens en laisse peuvent parcourir les quais extérieurs, agréables au coucher du soleil.`,
+        en: `A modern marina at the foot of the kasbah, with pedestrian quays lined with shops and cafes. Leashed dogs can walk the outdoor quays, which are pleasant at sunset.`,
+        es: `Puerto deportivo moderno al pie de la kasbah, con muelles peatonales bordeados de tiendas y cafés. Los perros con correa pueden recorrer los muelles exteriores, agradables al atardecer.`,
+        pt: `Marina moderna ao pé da kasbah, com cais pedonais ladeados de lojas e cafés. Os cães com trela podem percorrer os cais exteriores, agradáveis ao pôr do sol.`,
+      }},
+      { name: 'Paradise Valley', emoji: '🏞️', petFriendly: true, desc: {
+        fr: `Gorges de l'oued Tamraght à une heure de route dans l'arrière-pays, palmeraies, piscines naturelles et sentiers rocheux. Chiens en laisse acceptés sur les sentiers ; partez tôt, la chaleur monte vite loin de l'océan.`,
+        en: `The Tamraght river gorges an hour's drive inland, with palm groves, natural pools and rocky trails. Leashed dogs are accepted on the trails; set off early, as the heat rises fast away from the ocean.`,
+        es: `Gargantas del río Tamraght a una hora en coche hacia el interior, con palmerales, piscinas naturales y senderos rocosos. Se aceptan perros con correa en los senderos; sal temprano, el calor sube rápido lejos del océano.`,
+        pt: `Gargantas do rio Tamraght a uma hora de carro para o interior, com palmeirais, piscinas naturais e trilhos rochosos. Cães com trela são aceites nos trilhos; parta cedo, o calor sobe depressa longe do oceano.`,
+      }},
+      { name: 'Crocoparc', emoji: '🐊', petFriendly: false, desc: {
+        fr: `Parc botanique et animalier dédié aux crocodiles du Nil, à la sortie est de la ville. Les chiens n'y sont pas admis, comme dans la plupart des parcs animaliers ; prévoyez cette visite sans votre compagnon.`,
+        en: `A botanical and wildlife park dedicated to Nile crocodiles, on the eastern edge of the city. Dogs are not admitted, as in most wildlife parks; plan this visit without your companion.`,
+        es: `Parque botánico y de fauna dedicado a los cocodrilos del Nilo, a la salida este de la ciudad. No se admiten perros, como en la mayoría de los parques de animales; planifica esta visita sin tu compañero.`,
+        pt: `Parque botânico e de fauna dedicado aos crocodilos do Nilo, na saída leste da cidade. Os cães não são admitidos, como na maioria dos parques de animais; planeie esta visita sem o seu companheiro.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Promenez votre chien tôt le matin ou après 18h : même si la brise océanique tempère la côte, le soleil tape fort en journée et le sable comme le bitume chauffent vite pour les coussinets.`,
+        `En été, évitez les excursions vers l'intérieur (Paradise Valley, Taroudant) aux heures chaudes : il fait souvent 10 degrés de plus qu'à Agadir, partez à l'aube et emportez beaucoup d'eau.`,
+        `Des chiens errants vivent autour de la ville et sur certaines plages : gardez le vôtre en laisse, évitez tout contact et vérifiez que ses vaccins, rage en tête, sont bien à jour.`,
+        `Emportez toujours de l'eau et une gamelle pliable : les fontaines publiques sont rares et les terrasses ne proposent pas systématiquement d'eau pour les chiens.`,
+        `Les chiens restent culturellement peu présents dans l'espace public marocain : tenez votre animal court dans les zones fréquentées et privilégiez les quartiers touristiques, plus habitués aux animaux.`,
+      ],
+      en: [
+        `Walk your dog early in the morning or after 6pm: even though the ocean breeze tempers the coast, the sun is strong during the day and both sand and asphalt heat up quickly for paws.`,
+        `In summer, avoid inland excursions (Paradise Valley, Taroudant) during the hot hours: it is often 10 degrees hotter than in Agadir, leave at dawn and carry plenty of water.`,
+        `Stray dogs live around the city and on some beaches: keep yours on a leash, avoid any contact and make sure its vaccinations, rabies first of all, are fully up to date.`,
+        `Always carry water and a collapsible bowl: public fountains are rare and cafe terraces do not systematically offer water for dogs.`,
+        `Dogs remain culturally uncommon in Moroccan public space: keep your pet on a short leash in busy areas and favour the tourist districts, which are more used to animals.`,
+      ],
+      es: [
+        `Pasea a tu perro temprano por la mañana o después de las 18h: aunque la brisa oceánica suaviza la costa, el sol pega fuerte durante el día y tanto la arena como el asfalto se calientan rápido para las almohadillas.`,
+        `En verano, evita las excursiones hacia el interior (Paradise Valley, Taroudant) en las horas de calor: suele hacer 10 grados más que en Agadir, sal al amanecer y lleva mucha agua.`,
+        `Hay perros callejeros alrededor de la ciudad y en algunas playas: mantén al tuyo con correa, evita cualquier contacto y comprueba que sus vacunas, la de la rabia la primera, están al día.`,
+        `Lleva siempre agua y un bebedero plegable: las fuentes públicas son escasas y las terrazas no siempre ofrecen agua para perros.`,
+        `Los perros siguen siendo poco habituales en el espacio público marroquí: lleva a tu animal con correa corta en las zonas concurridas y prioriza los barrios turísticos, más acostumbrados a los animales.`,
+      ],
+      pt: [
+        `Passeie o seu cão de manhã cedo ou depois das 18h: mesmo com a brisa oceânica a amenizar a costa, o sol é forte durante o dia e tanto a areia como o asfalto aquecem depressa para as almofadinhas.`,
+        `No verão, evite as excursões para o interior (Paradise Valley, Taroudant) nas horas quentes: costuma estar 10 graus mais quente do que em Agadir, parta de madrugada e leve muita água.`,
+        `Há cães vadios à volta da cidade e em algumas praias: mantenha o seu com trela, evite qualquer contacto e confirme que as vacinas, a da raiva em primeiro lugar, estão em dia.`,
+        `Leve sempre água e uma tigela dobrável: as fontes públicas são raras e as esplanadas nem sempre oferecem água para os cães.`,
+        `Os cães continuam a ser culturalmente pouco comuns no espaço público marroquino: mantenha o seu animal com trela curta nas zonas movimentadas e prefira os bairros turísticos, mais habituados aos animais.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport Al Massira (AGA) à environ 25 km du centre : trajet en taxi ou navette, cage de transport recommandée, l'acceptation d'un chien en grand taxi reste à la discrétion du chauffeur.`,
+        `Le Maroc n'est pas indemne de rage : pour revenir dans l'UE avec votre chien, un titrage sérique des anticorps antirabiques dans un laboratoire agréé UE est obligatoire, à anticiper au moins 3 mois avant le retour.`,
+        `Numéros d'urgence marocains : 19 pour la police en ville, 15 pour les pompiers et l'ambulance, 177 pour la gendarmerie hors agglomération.`,
+        `Climat : la brise océanique maintient la côte douce toute l'année, mais l'intérieur (Souss, montagne) est nettement plus chaud en été ; adaptez les horaires de sortie de votre chien.`,
+        `Des cliniques vétérinaires exercent dans les quartiers Talborjt et Founty : demandez à votre hôtel les coordonnées du praticien le plus proche dès l'arrivée, avant toute urgence.`,
+      ],
+      en: [
+        `Al Massira Airport (AGA) is about 25 km from the centre: transfer by taxi or shuttle, a travel crate is recommended, and accepting a dog in a grand taxi remains at the driver's discretion.`,
+        `Morocco is not rabies-free: to return to the EU with your dog, a rabies antibody titration test in an EU-approved laboratory is mandatory, to be planned at least 3 months before the return.`,
+        `Moroccan emergency numbers: 19 for police in cities, 15 for fire brigade and ambulance, 177 for the gendarmerie outside urban areas.`,
+        `Climate: the ocean breeze keeps the coast mild all year round, but the interior (Souss valley, mountains) is much hotter in summer; adjust your dog's walking schedule accordingly.`,
+        `Veterinary clinics operate in the Talborjt and Founty districts: ask your hotel for the details of the nearest practitioner on arrival, before any emergency arises.`,
+      ],
+      es: [
+        `El aeropuerto Al Massira (AGA) está a unos 25 km del centro: traslado en taxi o lanzadera, se recomienda transportín, y la aceptación de un perro en un gran taxi queda a criterio del conductor.`,
+        `Marruecos no está libre de rabia: para volver a la UE con tu perro es obligatoria una titulación de anticuerpos antirrábicos en un laboratorio homologado por la UE, a planificar al menos 3 meses antes del regreso.`,
+        `Números de emergencia marroquíes: 19 para la policía en ciudad, 15 para bomberos y ambulancia, 177 para la gendarmería fuera de las zonas urbanas.`,
+        `Clima: la brisa oceánica mantiene la costa suave todo el año, pero el interior (valle del Souss, montaña) es mucho más caluroso en verano; adapta los horarios de paseo de tu perro.`,
+        `Hay clínicas veterinarias en los barrios de Talborjt y Founty: pide en tu hotel los datos del veterinario más cercano al llegar, antes de cualquier urgencia.`,
+      ],
+      pt: [
+        `O aeroporto Al Massira (AGA) fica a cerca de 25 km do centro: transfer de táxi ou shuttle, caixa de transporte recomendada, e a aceitação de um cão num grand taxi fica ao critério do motorista.`,
+        `Marrocos não está livre de raiva: para regressar à UE com o seu cão é obrigatória uma titulação de anticorpos antirrábicos num laboratório aprovado pela UE, a planear pelo menos 3 meses antes do regresso.`,
+        `Números de emergência marroquinos: 19 para a polícia na cidade, 15 para bombeiros e ambulância, 177 para a gendarmerie fora das zonas urbanas.`,
+        `Clima: a brisa oceânica mantém a costa amena todo o ano, mas o interior (vale do Souss, montanha) é bem mais quente no verão; ajuste os horários de passeio do seu cão.`,
+        `Há clínicas veterinárias nos bairros de Talborjt e Founty: peça ao seu hotel os contactos do veterinário mais próximo logo à chegada, antes de qualquer urgência.`,
+      ],
+    },
+  },
+
   'aix-en-provence': {
     history: {
       fr: `Fondée en 122 av. J.-C. par le consul romain Sextius Calvinus autour des sources thermales qui ont donné son nom à la ville, Aquae Sextiae, Aix a longtemps été la capitale du comté de Provence avant d'être rattachée à la France en 1481. Le XVIIe siècle est son âge d'or : la noblesse provençale y bâtit plus de 160 hôtels particuliers, le Cours Mirabeau est tracé en 1651 et les fontaines monumentales qui ponctuent la ville datent de cette époque. Aix est aussi la ville de Paul Cézanne, qui y est né en 1839 et y a peint inlassablement la Montagne Sainte-Victoire à l'est. La tradition provençale du café-terrasse et de la cour intérieure ombragée a toujours intégré les chiens : on les croise sur le Cours Mirabeau, dans le marché de la Place Richelme et sur les sentiers de la Sainte-Victoire. La ville applique strictement les amendes contre les déjections et la fermeture du massif pour risque incendie en été, deux contraintes locales à anticiper.`,
@@ -474,6 +581,113 @@ const cityContent: Record<string, CityContent> = {
         `Autocarros urbanos Próximo: 9 linhas a ligar a Cidade Velha, Areias de São João, Olhos de Água e a estação de comboios. Cães pequenos em transportadora grátis; cães grandes com trela + açaime à discrição do motorista (mais rígido nas horas de ponta).`,
         `Portugal usa o euro, contactless universal, suplementos para animais em hotéis de Albufeira 10-25 €/noite, mais altos do que em Faro mas abaixo dos resorts espanhóis da Costa del Sol.`,
         `Viajantes do Reino Unido: Animal Health Certificate (AHC) emitido por um veterinário OV da UE nos 10 dias prévios ao regresso. A Clínica Veterinária de Albufeira e a VetSet Albufeira podem emiti-lo, reserve com 72h de antecedência (80-120 €).`,
+      ],
+    },
+  },
+
+  alcudia: {
+    history: {
+      fr: `Alcúdia garde deux mille ans d'histoire dans un mouchoir de poche au nord de Majorque : la cité romaine de Pollentia, fondée en 123 av. J.-C., s'étend juste à l'extérieur des remparts médiévaux du XIVe siècle qui enserrent encore la vieille ville. Après les raids pirates, la couronne d'Aragon fortifia la bourgade, dont les portes de Xara et de Majorque subsistent aujourd'hui. À 2 km, Port d'Alcúdia est devenu la grande station balnéaire du nord de l'île, avec sa longue plage de sable et sa promenade face à la baie. Pour les voyageurs avec chien, la combinaison est séduisante : ruelles ombragées de la vieille ville, chemin de ronde des remparts, sentiers de la péninsule de la Victòria et marais de s'Albufera à explorer en laisse. L'interdiction estivale des plages principales impose en revanche de connaître les criques alternatives tolérées.`,
+      en: `Alcudia packs two thousand years of history into a small corner of northern Mallorca: the Roman city of Pollentia, founded in 123 BC, spreads just outside the 14th-century medieval walls that still enclose the old town. After pirate raids, the Crown of Aragon fortified the town, whose Xara and Mallorca gates still stand today. Two kilometres away, Port d'Alcudia has become the north coast's main seaside resort, with its long sandy beach and bay-front promenade. For travellers with a dog, the combination is appealing: shaded lanes in the old town, the wall-top walkway, the trails of the Victoria peninsula and the s'Albufera wetlands to explore on a leash. The summer ban on the main beaches, however, makes it essential to know the tolerated alternative coves.`,
+      es: `Alcúdia concentra dos mil años de historia en un rincón del norte de Mallorca: la ciudad romana de Pollentia, fundada en 123 a.C., se extiende justo fuera de las murallas medievales del siglo XIV que aún rodean el casco antiguo. Tras las incursiones piratas, la Corona de Aragón fortificó la villa, cuyas puertas de Xara y de Mallorca siguen en pie. A 2 km, el Port d'Alcúdia se ha convertido en el gran destino de playa del norte de la isla, con su largo arenal y su paseo frente a la bahía. Para los viajeros con perro, la combinación es atractiva: callejuelas sombreadas del casco antiguo, camino de ronda de las murallas, senderos de la península de la Victòria y humedales de s'Albufera para explorar con correa. La prohibición estival de las playas principales obliga, eso sí, a conocer las calas alternativas toleradas.`,
+      pt: `Alcúdia concentra dois mil anos de história num recanto do norte de Maiorca: a cidade romana de Pollentia, fundada em 123 a.C., estende-se mesmo fora das muralhas medievais do século XIV que ainda cercam o centro histórico. Depois das incursões piratas, a Coroa de Aragão fortificou a vila, cujas portas de Xara e de Maiorca ainda hoje se mantêm. A 2 km, o Port d'Alcúdia tornou-se a grande estância balnear do norte da ilha, com o seu longo areal e o passeio em frente à baía. Para os viajantes com cão, a combinação é atraente: ruelas sombreadas do centro histórico, caminho de ronda das muralhas, trilhos da península da Victòria e zonas húmidas de s'Albufera para explorar com trela. A proibição estival das praias principais obriga, no entanto, a conhecer as enseadas alternativas toleradas.`,
+    },
+    sights: [
+      { name: 'Pollentia', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Ruines de la principale cité romaine des Baléares : forum, maisons et théâtre creusé dans la roche. Site de plein air ; les chiens en laisse sont tolérés sur les chemins qui l'entourent, le théâtre en accès libre est le secteur le plus simple à voir avec un animal.`,
+        en: `Ruins of the main Roman city of the Balearics: forum, houses and a theatre carved into the rock. An open-air site; leashed dogs are tolerated on the surrounding paths, and the freely accessible theatre is the easiest section to see with a pet.`,
+        es: `Ruinas de la principal ciudad romana de Baleares: foro, casas y un teatro excavado en la roca. Sitio al aire libre; se toleran perros con correa en los caminos que lo rodean, y el teatro de acceso libre es el sector más fácil de ver con una mascota.`,
+        pt: `Ruínas da principal cidade romana das Baleares: fórum, casas e um teatro escavado na rocha. Sítio ao ar livre; cães com trela são tolerados nos caminhos em redor, e o teatro de acesso livre é o setor mais fácil de ver com um animal.`,
+      }},
+      { name: 'Murallas de Alcúdia', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Chemin de ronde sur les remparts médiévaux du XIVe siècle, 1,5 km autour de la vieille ville entre la Porta de Xara et la Porta de Mallorca. Promenade gratuite et ouverte, chiens en laisse bienvenus, belles vues sur les toits et la baie.`,
+        en: `Wall-top walkway on the 14th-century medieval ramparts, 1.5 km around the old town between Porta de Xara and Porta de Mallorca. A free, open walk, leashed dogs welcome, with fine views over the rooftops and the bay.`,
+        es: `Camino de ronda sobre las murallas medievales del siglo XIV, 1,5 km alrededor del casco antiguo entre la Porta de Xara y la Porta de Mallorca. Paseo gratuito y abierto, perros con correa bienvenidos, con bonitas vistas de los tejados y la bahía.`,
+        pt: `Caminho de ronda sobre as muralhas medievais do século XIV, 1,5 km à volta do centro histórico entre a Porta de Xara e a Porta de Mallorca. Passeio gratuito e aberto, cães com trela bem-vindos, com belas vistas sobre os telhados e a baía.`,
+      }},
+      { name: "Passeig Marítim del Port d'Alcúdia", emoji: '🌊', petFriendly: true, desc: {
+        fr: `Promenade du front de mer entre le port de plaisance et les plages, bordée de terrasses dont beaucoup tolèrent les chiens dehors. Agréable toute l'année, très fréquentée en été : privilégiez le matin.`,
+        en: `Seafront promenade between the marina and the beaches, lined with terraces, many of which tolerate dogs outside. Pleasant all year round, very busy in summer: go in the morning.`,
+        es: `Paseo marítimo entre el puerto deportivo y las playas, bordeado de terrazas, muchas de las cuales toleran perros fuera. Agradable todo el año, muy concurrido en verano: mejor por la mañana.`,
+        pt: `Passeio marítimo entre a marina e as praias, ladeado de esplanadas, muitas das quais toleram cães no exterior. Agradável todo o ano, muito movimentado no verão: prefira a manhã.`,
+      }},
+      { name: "Parc Natural de s'Albufera", emoji: '🦩', petFriendly: true, desc: {
+        fr: `La plus grande zone humide des Baléares, royaume des oiseaux migrateurs à quelques kilomètres du port. Chiens en laisse admis sur les sentiers principaux ; restez sur les chemins et évitez les observatoires aux heures d'affluence.`,
+        en: `The largest wetland in the Balearics, a haven for migratory birds a few kilometres from the port. Leashed dogs are admitted on the main trails; keep to the paths and avoid the bird hides at busy times.`,
+        es: `El mayor humedal de Baleares, reino de las aves migratorias a pocos kilómetros del puerto. Se admiten perros con correa en los senderos principales; no salgas de los caminos y evita los observatorios en horas concurridas.`,
+        pt: `A maior zona húmida das Baleares, reino das aves migratórias a poucos quilómetros do porto. Cães com trela admitidos nos trilhos principais; mantenha-se nos caminhos e evite os observatórios nas horas de maior afluência.`,
+      }},
+      { name: "Platja d'Alcúdia", emoji: '🏖️', petFriendly: false, desc: {
+        fr: `Sept kilomètres de sable blanc en pente douce, la grande plage familiale du nord de Majorque. Chiens interdits en saison balnéaire estivale ; hors saison, la promenade matinale en laisse y est tolérée. En été, repli sur le secteur de Punta Engroixada, connu comme alternative tolérée aux chiens.`,
+        en: `Seven kilometres of gently shelving white sand, northern Mallorca's big family beach. Dogs are banned during the summer bathing season; off season, an early on-leash walk is tolerated. In summer, fall back on the Punta Engroixada area, known as a dog-tolerated alternative.`,
+        es: `Siete kilómetros de arena blanca de pendiente suave, la gran playa familiar del norte de Mallorca. Perros prohibidos en la temporada de baño estival; fuera de temporada se tolera el paseo matinal con correa. En verano, la alternativa es la zona de Punta Engroixada, conocida por tolerar perros.`,
+        pt: `Sete quilómetros de areia branca com declive suave, a grande praia familiar do norte de Maiorca. Cães proibidos na época balnear de verão; fora de época, o passeio matinal com trela é tolerado. No verão, a alternativa é a zona da Punta Engroixada, conhecida por tolerar cães.`,
+      }},
+      { name: 'Ermita de la Victòria', emoji: '⛰️', petFriendly: true, desc: {
+        fr: `Sanctuaire du XVIIe siècle accroché à la péninsule entre Alcúdia et le cap des Pinar, point de départ de sentiers vers la Talaia d'Alcúdia (445 m). Chiens en laisse bienvenus sur les chemins, panoramas sur les deux baies.`,
+        en: `A 17th-century hilltop sanctuary on the peninsula between Alcudia and Cap des Pinar, the starting point for trails up to the Talaia d'Alcudia (445 m). Leashed dogs welcome on the paths, with panoramas over both bays.`,
+        es: `Santuario del siglo XVII encaramado en la península entre Alcúdia y el cap des Pinar, punto de partida de senderos hacia la Talaia d'Alcúdia (445 m). Perros con correa bienvenidos en los caminos, con panorámicas de las dos bahías.`,
+        pt: `Santuário do século XVII empoleirado na península entre Alcúdia e o cap des Pinar, ponto de partida de trilhos até à Talaia d'Alcúdia (445 m). Cães com trela bem-vindos nos caminhos, com panoramas sobre as duas baías.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale des plages : comme partout aux Baléares, les plages surveillées bannissent les chiens pendant la saison de baignade ; visez l'aube hors saison et repérez les criques tolérées comme Punta Engroixada.`,
+        `Chaleur d'été majorquine : sorties tôt le matin et après le coucher du soleil, testez le sable et le pavé avec la main avant de laisser marcher votre chien.`,
+        `À s'Albufera, laisse courte obligatoire de fait : la faune nicheuse est partout et les rangers veillent, restez sur les sentiers principaux.`,
+        `Processionnaire du pin de la fin de l'hiver au printemps dans les pinèdes de la Victòria et du cap des Pinar : tenez votre chien à l'écart des chenilles au sol, très toxiques.`,
+        `Emportez toujours de l'eau sur les sentiers de la Talaia d'Alcúdia : pas de point d'eau après l'ermitage et peu d'ombre sur la crête.`,
+      ],
+      en: [
+        `Summer beach ban: as everywhere in the Balearics, lifeguarded beaches ban dogs during the bathing season; aim for dawn off season and scout tolerated coves such as Punta Engroixada.`,
+        `Mallorcan summer heat: walk early in the morning and after sunset, and test sand and paving with your hand before letting your dog walk on them.`,
+        `At s'Albufera, a short leash is a de facto requirement: nesting wildlife is everywhere and rangers keep watch, so stay on the main trails.`,
+        `Pine processionary caterpillars from late winter to spring in the pine woods of La Victoria and Cap des Pinar: keep your dog away from caterpillars on the ground, they are highly toxic.`,
+        `Always carry water on the Talaia d'Alcudia trails: there is no water point after the hermitage and little shade on the ridge.`,
+      ],
+      es: [
+        `Prohibición estival de las playas: como en todas las Baleares, las playas vigiladas prohíben los perros durante la temporada de baño; apunta al amanecer fuera de temporada y localiza las calas toleradas como Punta Engroixada.`,
+        `Calor estival mallorquín: paseos a primera hora y tras la puesta de sol, y comprueba la arena y el pavimento con la mano antes de dejar caminar a tu perro.`,
+        `En s'Albufera, la correa corta es obligatoria de facto: la fauna nidificante está por todas partes y los guardas vigilan, no salgas de los senderos principales.`,
+        `Procesionaria del pino de finales del invierno a la primavera en los pinares de la Victòria y el cap des Pinar: mantén a tu perro lejos de las orugas del suelo, muy tóxicas.`,
+        `Lleva siempre agua en los senderos de la Talaia d'Alcúdia: no hay punto de agua después de la ermita y hay poca sombra en la cresta.`,
+      ],
+      pt: [
+        `Proibição estival das praias: como em todas as Baleares, as praias vigiadas proíbem cães durante a época balnear; aponte para a madrugada fora de época e localize as enseadas toleradas como a Punta Engroixada.`,
+        `Calor de verão maiorquino: passeios de manhã cedo e depois do pôr do sol, e teste a areia e o pavimento com a mão antes de deixar o seu cão caminhar.`,
+        `Em s'Albufera, a trela curta é obrigatória na prática: a fauna nidificante está por todo o lado e os guardas vigiam, mantenha-se nos trilhos principais.`,
+        `Processionária do pinheiro do fim do inverno à primavera nos pinhais da Victòria e do cap des Pinar: mantenha o seu cão longe das lagartas no chão, muito tóxicas.`,
+        `Leve sempre água nos trilhos da Talaia d'Alcúdia: não há ponto de água depois da ermida e há pouca sombra na crista.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport de Palma (PMI) à environ 60 km : transfert en voiture de location ou taxi acceptant les animaux ; sur le réseau de bus TIB, seuls les petits animaux en cage de transport sont admis.`,
+        `Ferry depuis Barcelone vers le port d'Alcúdia : les compagnies acceptent les chiens selon leurs propres règles, en chenil de bord ou sur les ponts extérieurs en laisse et muselière ; vérifiez les conditions au moment de la réservation.`,
+        `Numéro d'urgence unique en Espagne : 112, valable pour toute urgence humaine ; pour votre chien, repérez une clinique vétérinaire à Alcúdia ou Port d'Alcúdia dès l'arrivée.`,
+        `Réglementation espagnole : carnet européen et puce obligatoires, races dites PPP soumises à laisse courte et muselière dans l'espace public.`,
+        `Haute saison de mai à octobre : les hébergements pet-friendly du Port d'Alcúdia partent vite, réservez plusieurs mois à l'avance pour l'été.`,
+      ],
+      en: [
+        `Palma Airport (PMI) is about 60 km away: transfer by rental car or a pet-accepting taxi; on the TIB bus network, only small animals in carriers are admitted.`,
+        `Ferry from Barcelona to Alcudia port: companies accept dogs under their own rules, in onboard kennels or on outer decks with leash and muzzle; check the conditions when booking.`,
+        `Spain's single emergency number is 112, valid for any human emergency; for your dog, locate a veterinary clinic in Alcudia or Port d'Alcudia on arrival.`,
+        `Spanish regulations: EU pet passport and microchip are mandatory, and so-called PPP breeds must wear a short leash and muzzle in public spaces.`,
+        `High season runs from May to October: pet-friendly accommodation in Port d'Alcudia goes fast, book several months ahead for summer.`,
+      ],
+      es: [
+        `El aeropuerto de Palma (PMI) está a unos 60 km: traslado en coche de alquiler o taxi que acepte animales; en la red de buses TIB solo se admiten animales pequeños en transportín.`,
+        `Ferry desde Barcelona al puerto de Alcúdia: las navieras aceptan perros según sus propias normas, en perreras de a bordo o en cubiertas exteriores con correa y bozal; comprueba las condiciones al reservar.`,
+        `El número único de emergencias en España es el 112, válido para cualquier urgencia humana; para tu perro, localiza una clínica veterinaria en Alcúdia o el Port d'Alcúdia al llegar.`,
+        `Normativa española: pasaporte europeo y microchip obligatorios, y las razas PPP deben llevar correa corta y bozal en el espacio público.`,
+        `Temporada alta de mayo a octubre: los alojamientos pet-friendly del Port d'Alcúdia se agotan rápido, reserva con varios meses de antelación para el verano.`,
+      ],
+      pt: [
+        `O aeroporto de Palma (PMI) fica a cerca de 60 km: transfer de carro de aluguer ou táxi que aceite animais; na rede de autocarros TIB só são admitidos animais pequenos em caixa de transporte.`,
+        `Ferry de Barcelona para o porto de Alcúdia: as companhias aceitam cães segundo as suas próprias regras, em canis de bordo ou nos conveses exteriores com trela e açaime; verifique as condições ao reservar.`,
+        `O número único de emergência em Espanha é o 112, válido para qualquer urgência humana; para o seu cão, localize uma clínica veterinária em Alcúdia ou no Port d'Alcúdia à chegada.`,
+        `Regulamentação espanhola: passaporte europeu e microchip obrigatórios, e as raças ditas PPP devem usar trela curta e açaime no espaço público.`,
+        `Época alta de maio a outubro: os alojamentos pet-friendly do Port d'Alcúdia esgotam depressa, reserve com vários meses de antecedência para o verão.`,
       ],
     },
   },

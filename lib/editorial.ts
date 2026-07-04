@@ -1226,6 +1226,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Le Castillet and the old town, the Palais des Rois de Majorque ramparts, and the year-round dog section of Canet-en-Roussillon's Lido beach`,
       area: `the historic centre around Le Castillet and Place de Verdun, the Têt riverbanks, and the Roussillon coast at Canet and Torreilles`,
     },
+    perugia: {
+      personality: 'one of the most dog-welcoming hilltop cities in central Italy',
+      highlight: 'the Pian di Massiano dog park, the medieval aqueduct walk, and the Monte Tezio trails',
+      area: 'the historic center, Borgo XX Giugno, and Pian di Massiano',
+    },
     piran: {
       personality: `Slovenia's Venetian jewel on the Adriatic Riviera, a car-free stone peninsula of pastel houses, Tartini Square and the San Giorgio bell tower, with pet-friendly seafront terraces, Monty's Dog Beach at Lucija and the Sečovlje salt pans and Strunjan flysch cliffs within easy reach`,
       highlight: `Tartini Square and the seafront promenade, the Walls of Piran panoramic ridge walk, and Monty's Dog Beach at Lucija`,
@@ -2984,6 +2989,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Castillet et la vieille ville, les remparts du Palais des Rois de Majorque et la section canine à l'année du Lido de Canet-en-Roussillon`,
       area: `le centre historique autour du Castillet et de la Place de Verdun, les berges de la Têt et la côte du Roussillon à Canet et Torreilles`,
     },
+    perugia: {
+      personality: 'l\'une des villes perchées les plus accueillantes pour les chiens du centre de l\'Italie',
+      highlight: 'le parc canin de Pian di Massiano, la promenade de l\'aqueduc médiéval et les sentiers du Monte Tezio',
+      area: 'le centre historique, Borgo XX Giugno et Pian di Massiano',
+    },
     piran: {
       personality: `le joyau vénitien de la Slovénie sur la Riviera adriatique, une péninsule de pierre sans voiture aux maisons pastel, place Tartini et campanile San Giorgio, avec des terrasses en bord de mer dog-friendly, la plage canine Monty's à Lucija et les salines de Sečovlje et falaises de flysch de Strunjan à portée immédiate`,
       highlight: `la place Tartini et la promenade en bord de mer, la balade panoramique sur les Murailles de Piran et Monty's Dog Beach à Lucija`,
@@ -4741,6 +4751,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Le Castillet y el casco antiguo, las murallas del Palais des Rois de Majorque y la sección canina todo el año del Lido de Canet-en-Roussillon`,
       area: `el centro histórico en torno a Le Castillet y la Place de Verdun, las orillas del Têt y la costa del Rosellón en Canet y Torreilles`,
     },
+    perugia: {
+      personality: 'una de las ciudades altas más acogedoras con los perros del centro de Italia',
+      highlight: 'la zona canina de Pian di Massiano, el paseo del acueducto medieval y los senderos del Monte Tezio',
+      area: 'el centro histórico, Borgo XX Giugno y Pian di Massiano',
+    },
     piran: {
       personality: `la joya veneciana de Eslovenia en la Riviera adriática, una península de piedra peatonal con casas en tonos pastel, la plaza Tartini y el campanario de San Giorgio, con terrazas marítimas pet-friendly, la playa canina Monty's en Lucija y las salinas de Sečovlje y los acantilados de flysch de Strunjan a un paso`,
       highlight: `la plaza Tartini y el paseo marítimo, la ruta panorámica por las Murallas de Piran y Monty's Dog Beach en Lucija`,
@@ -6497,6 +6512,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a soalheira capital catalã do sul de França, uma cidade compacta e pet-friendly com cerca de 37 áreas caninas sinalizadas, uma cultura de esplanada tolerante e fácil acesso às praias pet-friendly do Rossilhão`,
       highlight: `Le Castillet e o centro histórico, as muralhas do Palais des Rois de Majorque e a secção canina o ano inteiro do Lido de Canet-en-Roussillon`,
       area: `o centro histórico em torno de Le Castillet e da Place de Verdun, as margens do Têt e a costa do Rossilhão em Canet e Torreilles`,
+    },
+    perugia: {
+      personality: 'uma das cidades altas mais acolhedoras para cães do centro de Itália',
+      highlight: 'a zona canina de Pian di Massiano, o passeio do aqueduto medieval e os trilhos do Monte Tezio',
+      area: 'o centro histórico, Borgo XX Giugno e Pian di Massiano',
     },
     piran: {
       personality: `a joia veneziana da Eslovénia na Riviera adriática, uma península de pedra pedonal com casas em tons pastel, a praça Tartini e o campanário de San Giorgio, com esplanadas marítimas pet-friendly, a praia canina Monty's em Lucija e as salinas de Sečovlje e as falésias de flysch de Strunjan a um passo`,

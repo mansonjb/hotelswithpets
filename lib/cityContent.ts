@@ -22856,6 +22856,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  perugia: {
+    history: {
+      fr: `Pérouse, fondée par les Étrusques qui lui laissèrent ses murailles cyclopéennes et l'Arco Etrusco du IIIe siècle avant notre ère, fut l'une des douze cités de la dodécapole étrusque avant de devenir romaine, puis commune médiévale batailleuse et siège d'une des plus anciennes universités d'Europe (1308). Sa Fontana Maggiore sculptée par les Pisano, son Palazzo dei Priori et la Rocca Paolina, forteresse papale de 1540 aujourd'hui traversée d'escalators, racontent deux mille cinq cents ans d'histoire continue. Capitale de l'Ombrie d'environ 165 000 habitants, elle vit au rythme de ses étudiants, du chocolat Perugina et d'Umbria Jazz chaque juillet. Avec un chien, la ville perchée est plus simple qu'il n'y paraît : acqueduc médiéval devenu promenade suspendue, jardins panoramiques, aires canines clôturées en contrebas et hôpital vétérinaire universitaire ouvert 24h/24. Le lac Trasimène et ses plages canines sont à trente minutes de train.`,
+      en: `Perugia, founded by the Etruscans who left it cyclopean walls and the 3rd-century BC Arco Etrusco, was one of the twelve cities of the Etruscan dodecapolis before turning Roman, then a combative medieval commune and seat of one of Europe's oldest universities (1308). Its Fontana Maggiore carved by the Pisano family, the Palazzo dei Priori and the Rocca Paolina, a 1540 papal fortress now threaded with escalators, tell twenty-five centuries of continuous history. Umbria's capital of around 165,000 lives to the rhythm of its students, Perugina chocolate and Umbria Jazz every July. With a dog the hilltop city is simpler than it looks: a medieval aqueduct turned elevated promenade, panoramic gardens, fenced dog runs on the plain below and a university veterinary hospital open 24/7. Lake Trasimeno and its dog beaches are thirty minutes away by train.`,
+      es: `Perugia, fundada por los etruscos que le dejaron murallas ciclópeas y el Arco Etrusco del siglo III a.C., fue una de las doce ciudades de la dodecápolis etrusca antes de hacerse romana, luego batalladora comuna medieval y sede de una de las universidades más antiguas de Europa (1308). Su Fontana Maggiore esculpida por los Pisano, el Palazzo dei Priori y la Rocca Paolina, fortaleza papal de 1540 hoy atravesada por escaleras mecánicas, cuentan veinticinco siglos de historia continua. La capital de Umbría, de unos 165.000 habitantes, vive al ritmo de sus estudiantes, del chocolate Perugina y de Umbria Jazz cada julio. Con perro, la ciudad alta es más sencilla de lo que parece: un acueducto medieval convertido en paseo elevado, jardines panorámicos, zonas caninas valladas en el llano y un hospital veterinario universitario abierto 24/7. El lago Trasimeno y sus playas caninas quedan a treinta minutos en tren.`,
+      pt: `Perugia, fundada pelos etruscos que lhe deixaram muralhas ciclópicas e o Arco Etrusco do século III a.C., foi uma das doze cidades da dodecápole etrusca antes de se tornar romana, depois combativa comuna medieval e sede de uma das universidades mais antigas da Europa (1308). A sua Fontana Maggiore esculpida pelos Pisano, o Palazzo dei Priori e a Rocca Paolina, fortaleza papal de 1540 hoje atravessada por escadas rolantes, contam vinte e cinco séculos de história contínua. A capital da Úmbria, com cerca de 165.000 habitantes, vive ao ritmo dos estudantes, do chocolate Perugina e do Umbria Jazz cada julho. Com cão, a cidade alta é mais simples do que parece: um aqueduto medieval tornado passeio elevado, jardins panorâmicos, zonas caninas vedadas na planície e um hospital veterinário universitário aberto 24/7. O lago Trasimeno e as suas praias caninas ficam a trinta minutos de comboio.`,
+    },
+    sights: [
+      { name: 'Fontana Maggiore', emoji: '⛲', petFriendly: true, desc: {
+        fr: `La fontaine de marbre du XIIIe siècle des Pisano, au sommet de la ville entre cathédrale et Palazzo dei Priori. Asseyez-vous sur les marches avec votre chien : c'est le salon en plein air de Pérouse.`,
+        en: `The Pisano family's 13th-century marble fountain at the top of the city, between cathedral and Palazzo dei Priori. Sit on the steps with your dog: this is Perugia's open-air living room.`,
+        es: `La fuente de mármol del siglo XIII de los Pisano, en lo alto de la ciudad entre la catedral y el Palazzo dei Priori. Siéntate en las escalinatas con tu perro: es el salón al aire libre de Perugia.`,
+        pt: `A fonte de mármore do século XIII dos Pisano, no topo da cidade entre a catedral e o Palazzo dei Priori. Sente-se nos degraus com o seu cão: é a sala de estar ao ar livre de Perugia.`,
+      } },
+      { name: 'Acquedotto medievale', emoji: '🌉', petFriendly: true, desc: {
+        fr: `L'aqueduc du XIIIe siècle transformé en ruelle piétonne suspendue au-dessus des toits, jusqu'à Porta Sant'Angelo. Sans voitures et en pente douce : la meilleure balade canine du centre.`,
+        en: `The 13th-century aqueduct turned pedestrian lane floating above the rooftops, running to Porta Sant'Angelo. Car-free and gently graded: the best dog walk in the center.`,
+        es: `El acueducto del siglo XIII convertido en calle peatonal suspendida sobre los tejados, hasta Porta Sant'Angelo. Sin coches y de pendiente suave: el mejor paseo canino del centro.`,
+        pt: `O aqueduto do século XIII transformado em rua pedonal suspensa sobre os telhados, até Porta Sant'Angelo. Sem carros e de declive suave: o melhor passeio canino do centro.`,
+      } },
+      { name: 'Giardini Carducci', emoji: '🌅', petFriendly: true, desc: {
+        fr: `Les jardins panoramiques au bout du Corso Vannucci, en balcon sur la vallée du Tibre jusqu'à Assise. Le coucher de soleil avec le chien y est un rituel pérugin.`,
+        en: `The panoramic gardens at the end of Corso Vannucci, a balcony over the Tiber valley all the way to Assisi. Sunset here with the dog is a Perugian ritual.`,
+        es: `Los jardines panorámicos al final del Corso Vannucci, un balcón sobre el valle del Tíber hasta Asís. El atardecer aquí con el perro es un ritual perugino.`,
+        pt: `Os jardins panorâmicos ao fundo do Corso Vannucci, uma varanda sobre o vale do Tibre até Assis. O pôr do sol aqui com o cão é um ritual perugino.`,
+      } },
+      { name: 'Arco Etrusco', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `La porte monumentale étrusque du IIIe siècle avant notre ère, toujours debout au débouché de la Via Ulisse Rocchi. Un arrêt photo obligatoire sur la boucle du quartier universitaire, chien en laisse bienvenu.`,
+        en: `The monumental 3rd-century BC Etruscan gate, still standing at the mouth of Via Ulisse Rocchi. An obligatory photo stop on the university-district loop, leashed dogs welcome.`,
+        es: `La puerta monumental etrusca del siglo III a.C., aún en pie al final de Via Ulisse Rocchi. Parada de foto obligatoria en el circuito del barrio universitario, perros con correa bienvenidos.`,
+        pt: `A porta monumental etrusca do século III a.C., ainda de pé no desembocar da Via Ulisse Rocchi. Paragem fotográfica obrigatória no circuito do bairro universitário, cães de trela bem-vindos.`,
+      } },
+      { name: 'Parco di Pian di Massiano', emoji: '🐕', petFriendly: true, desc: {
+        fr: `Le grand parc plat au pied du Minimetrò : boucle de jogging le long du ruisseau Genna, petit lac et aire canine clôturée équipée. Là où les chiens de Pérouse courent vraiment en liberté.`,
+        en: `The big flat park at the foot of the Minimetrò: a jogging loop along the Genna stream, a small lake and an equipped fenced dog run. Where Perugia's dogs actually run free.`,
+        es: `El gran parque llano al pie del Minimetrò: circuito de jogging junto al arroyo Genna, un pequeño lago y una zona canina vallada equipada. Donde los perros de Perugia corren sueltos de verdad.`,
+        pt: `O grande parque plano ao pé do Minimetrò: circuito de jogging ao longo do ribeiro Genna, um pequeno lago e uma zona canina vedada equipada. Onde os cães de Perugia correm mesmo à solta.`,
+      } },
+      { name: 'Spiaggia del Sualzo', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `La plage dog-friendly de Passignano sul Trasimeno, à 30 minutes de train : herbe, galets et eau tiède peu profonde. L'échappée baignade classique depuis Pérouse.`,
+        en: `The dog-friendly beach of Passignano sul Trasimeno, 30 minutes away by train: grass, pebbles and warm shallow water. The classic swimming escape from Perugia.`,
+        es: `La playa dog-friendly de Passignano sul Trasimeno, a 30 minutos en tren: hierba, guijarros y agua templada poco profunda. La escapada de baño clásica desde Perugia.`,
+        pt: `A praia dog-friendly de Passignano sul Trasimeno, a 30 minutos de comboio: relva, seixos e água morna pouco profunda. A escapadela de banhos clássica a partir de Perugia.`,
+      } },
+    ],
+    petTips: {
+      fr: [
+        `Minimetrò : seuls les petits chiens sont admis, muselés, en laisse fixe et un par cabine ; avec un grand chien, prenez les escalators de la Rocca Paolina ou le bus avec billet chien.`,
+        `Pendant Umbria Jazz (11-20 juillet), sonos et foules sur les places : base calme loin du Corso Vannucci et promenades tôt le matin pour les chiens sensibles.`,
+        `Pavés brûlants en été sur l'acropole : testez la pierre avec la main et visez les fontaines publiques, l'eau est sûre pour les chiens.`,
+        `Baignade au lac Trasimène : plage du Sualzo à Passignano (train direct) ou rives libres de Castiglione del Lago, hors lidos aménagés.`,
+        `Muselière toujours sur soi : la règle italienne l'exige dans les transports et sur demande des autorités.`,
+      ],
+      en: [
+        `Minimetrò: only small dogs are admitted, muzzled, on a fixed leash and one per car; with a large dog use the Rocca Paolina escalators or a bus with a dog ticket.`,
+        `During Umbria Jazz (11-20 July), loudspeakers and crowds fill the squares: pick a quiet base away from Corso Vannucci and walk noise-shy dogs early in the morning.`,
+        `Scorching summer paving on the acropolis: test the stone with your hand and aim for the public fountains, the water is safe for dogs.`,
+        `Swimming at Lake Trasimeno: Sualzo beach in Passignano (direct train) or the free shores of Castiglione del Lago, outside the equipped lidos.`,
+        `Always carry a muzzle: Italian rules require one on public transport and whenever authorities ask.`,
+      ],
+      es: [
+        `Minimetrò: solo se admiten perros pequeños, con bozal, correa fija y uno por cabina; con un perro grande usa las escaleras mecánicas de la Rocca Paolina o el autobús con billete de perro.`,
+        `Durante Umbria Jazz (11-20 de julio), altavoces y multitudes llenan las plazas: elige una base tranquila lejos del Corso Vannucci y pasea temprano a los perros miedosos.`,
+        `Pavimento abrasador en verano en la acrópolis: prueba la piedra con la mano y busca las fuentes públicas, el agua es segura para perros.`,
+        `Baño en el lago Trasimeno: playa del Sualzo en Passignano (tren directo) o las orillas libres de Castiglione del Lago, fuera de los lidos equipados.`,
+        `Lleva siempre bozal: la norma italiana lo exige en el transporte público y cuando lo pidan las autoridades.`,
+      ],
+      pt: [
+        `Minimetrò: só são admitidos cães pequenos, com açaime, trela fixa e um por cabina; com um cão grande use as escadas rolantes da Rocca Paolina ou o autocarro com bilhete de cão.`,
+        `Durante o Umbria Jazz (11-20 de julho), altifalantes e multidões enchem as praças: escolha uma base calma longe do Corso Vannucci e passeie cedo os cães receosos.`,
+        `Calçada escaldante no verão na acrópole: teste a pedra com a mão e procure as fontes públicas, a água é segura para cães.`,
+        `Banhos no lago Trasimeno: praia do Sualzo em Passignano (comboio direto) ou as margens livres de Castiglione del Lago, fora dos lidos equipados.`,
+        `Leve sempre açaime: a regra italiana exige-o nos transportes públicos e sempre que as autoridades o pedirem.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Climat : méditerranéen d'altitude, juillet-août chauds 23 degrés de moyenne, hivers frais 4-5 degrés avec brouillards de vallée.`,
+        `Transport : Minimetrò (petits chiens gratuits, muselés), bus Busitalia (grands chiens avec billet), escalators publics gratuits à travers la Rocca Paolina.`,
+        `Arrivée : gare Perugia Fontivegge sur la ligne Florence-Rome via Terontola ; aéroport San Francesco d'Assisi à 12 km.`,
+        `Monnaie : euro ; terrasses et taxis prennent la carte, gardez des pièces pour les fontaines à eau et le Minimetrò.`,
+        `Urgence vétérinaire : hôpital universitaire OVUD 24h/24 (Via San Costanzo 4, +39 075 585 7792, urgence petits animaux +39 335 572 4193) ; Clinica Veterinaria Cortonese également 24h/24 (+39 075 505 5354).`,
+      ],
+      en: [
+        `Climate: hill-country Mediterranean, hot Julys and Augusts averaging 23 degrees, cool winters of 4-5 degrees with valley fog.`,
+        `Transport: Minimetrò (small dogs free, muzzled), Busitalia buses (large dogs with a ticket), free public escalators through the Rocca Paolina.`,
+        `Arrival: Perugia Fontivegge station on the Florence-Rome line via Terontola; San Francesco d'Assisi airport 12 km away.`,
+        `Currency: euro; terraces and taxis take cards, keep coins for water fountains and the Minimetrò.`,
+        `Veterinary emergency: OVUD university hospital 24/7 (Via San Costanzo 4, +39 075 585 7792, small-animal emergency +39 335 572 4193); Clinica Veterinaria Cortonese also 24/7 (+39 075 505 5354).`,
+      ],
+      es: [
+        `Clima: mediterráneo de colina, julios y agostos calurosos con 23 grados de media, inviernos frescos de 4-5 grados con nieblas de valle.`,
+        `Transporte: Minimetrò (perros pequeños gratis, con bozal), autobuses Busitalia (perros grandes con billete), escaleras mecánicas públicas gratuitas a través de la Rocca Paolina.`,
+        `Llegada: estación Perugia Fontivegge en la línea Florencia-Roma vía Terontola; aeropuerto San Francesco d'Assisi a 12 km.`,
+        `Moneda: euro; terrazas y taxis aceptan tarjeta, guarda monedas para las fuentes de agua y el Minimetrò.`,
+        `Urgencia veterinaria: hospital universitario OVUD 24/7 (Via San Costanzo 4, +39 075 585 7792, urgencias pequeños animales +39 335 572 4193); Clinica Veterinaria Cortonese también 24/7 (+39 075 505 5354).`,
+      ],
+      pt: [
+        `Clima: mediterrânico de colina, julhos e agostos quentes com média de 23 graus, invernos frescos de 4-5 graus com nevoeiros de vale.`,
+        `Transporte: Minimetrò (cães pequenos grátis, com açaime), autocarros Busitalia (cães grandes com bilhete), escadas rolantes públicas gratuitas através da Rocca Paolina.`,
+        `Chegada: estação Perugia Fontivegge na linha Florença-Roma via Terontola; aeroporto San Francesco d'Assisi a 12 km.`,
+        `Moeda: euro; esplanadas e táxis aceitam cartão, guarde moedas para as fontes de água e o Minimetrò.`,
+        `Urgência veterinária: hospital universitário OVUD 24/7 (Via San Costanzo 4, +39 075 585 7792, urgência pequenos animais +39 335 572 4193); Clinica Veterinaria Cortonese também 24/7 (+39 075 505 5354).`,
+      ],
+    },
+  },
+
   pisa: {
     history: {
       fr: `Pise est l'une des plus anciennes républiques maritimes d'Italie : ville étrusque dès le VIIe siècle av. J.-C., elle bâtit aux XIe-XIIe siècles le complexe roman de la Piazza dei Miracoli, Cathédrale, Baptistère, Tour penchée et Camposanto, qui lui vaudra son inscription à l'UNESCO en 1987. Avec environ 90 000 habitants, c'est une petite ville à forte composante universitaire (l'Université de Pise est l'une des plus anciennes d'Europe), traversée par l'Arno et adossée au parc régional de Migliarino San Rossore Massaciuccoli, 23 000 hectares de pinèdes, dunes et zones humides qui s'étendent jusqu'à la mer. La culture toscane est ouvertement dog-friendly : la grande majorité des cafés, trattorias et terrasses acceptent les chiens, et la côte tyrrhénienne à 10 km offre des plages canines balisées toute l'année à Marina di Pisa. Le seul vrai écueil, c'est l'interdiction des animaux dans les quatre monuments de la Piazza dei Miracoli.`,

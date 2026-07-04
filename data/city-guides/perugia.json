@@ -1,0 +1,549 @@
+{
+  "slug": "perugia",
+  "name": "Perugia",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "lastUpdated": "2026-07-04",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Perugia",
+      "titleFr": "Restaurants dog-friendly à Pérouse",
+      "titleEs": "Restaurantes dog-friendly en Perugia",
+      "titlePt": "Restaurantes dog-friendly em Perugia",
+      "introEn": "Umbria treats dogs as part of everyday life, and Perugia's historic center follows suit: pet-friendly directories count more than two dozen restaurants and pizzerias in the city that accept dogs, from vaulted medieval dining rooms to terraces on Corso Vannucci. During Umbria Jazz in July, terrace tables double as front-row seats to the street stages.",
+      "introFr": "L'Ombrie considère les chiens comme faisant partie du quotidien, et le centre historique de Pérouse suit le mouvement : les annuaires pet-friendly recensent plus de vingt-cinq restaurants et pizzerias acceptant les chiens, des salles médiévales voûtées aux terrasses du Corso Vannucci. Pendant Umbria Jazz en juillet, les tables en terrasse deviennent des places au premier rang devant les scènes de rue.",
+      "introEs": "Umbría trata a los perros como parte de la vida cotidiana, y el centro histórico de Perugia no es la excepción: los directorios pet-friendly cuentan más de veinticinco restaurantes y pizzerías que aceptan perros, desde salas medievales abovedadas hasta terrazas en el Corso Vannucci. Durante Umbria Jazz en julio, las mesas de terraza se convierten en asientos de primera fila ante los escenarios callejeros.",
+      "introPt": "A Úmbria trata os cães como parte do dia a dia, e o centro histórico de Perugia segue o exemplo: os diretórios pet-friendly contam mais de vinte e cinco restaurantes e pizzarias que aceitam cães, de salas medievais abobadadas a esplanadas no Corso Vannucci. Durante o Umbria Jazz em julho, as mesas de esplanada tornam-se lugares de primeira fila diante dos palcos de rua.",
+      "places": [
+        {
+          "name": "La Taverna",
+          "address": "Via delle Streghe 8, 06123 Perugia",
+          "neighborhood": "Historic center, off Corso Vannucci",
+          "photo": "/images/city-places/perugia-restaurants-la-taverna.jpg",
+          "website": "https://www.ristorantelataverna.com",
+          "description": "An elegant temple of Umbrian cooking hidden in the Street of the Witches, all vaulted ceilings, house-made pasta and truffles. It carries Dogwelcome's top rating: staff bring a bowl of fresh water before you have even ordered.",
+          "descriptionFr": "Un temple élégant de la cuisine ombrienne caché dans la ruelle des Sorcières : plafonds voûtés, pâtes maison et truffe. Il porte la meilleure note de Dogwelcome : le personnel apporte une gamelle d'eau fraîche avant même que vous ayez commandé.",
+          "descriptionEs": "Un elegante templo de la cocina umbra escondido en el callejón de las Brujas: techos abovedados, pasta casera y trufa. Tiene la máxima calificación de Dogwelcome: el personal trae un cuenco de agua fresca antes incluso de que pidas.",
+          "descriptionPt": "Um elegante templo da cozinha úmbria escondido na viela das Bruxas: tetos abobadados, massa caseira e trufas. Tem a classificação máxima do Dogwelcome: a equipa traz uma taça de água fresca antes mesmo de fazer o pedido.",
+          "petPolicy": "Dogs welcome inside and out; water bowl offered on arrival",
+          "petPolicyFr": "Chiens bienvenus en salle et en terrasse ; gamelle d'eau offerte à l'arrivée",
+          "petPolicyEs": "Perros bienvenidos dentro y fuera; cuenco de agua al llegar",
+          "petPolicyPt": "Cães bem-vindos dentro e fora; taça de água oferecida à chegada",
+          "priceRange": "€€€",
+          "mustTry": "Strangozzi with black Norcia truffle",
+          "mustTryFr": "Strangozzi à la truffe noire de Norcia",
+          "mustTryEs": "Strangozzi con trufa negra de Norcia",
+          "mustTryPt": "Strangozzi com trufa negra de Norcia",
+          "openingHours": "Lunch and dinner daily; book ahead",
+          "tip": "Reserve for the first dinner seating during Umbria Jazz week; the alley stays quieter than Corso Vannucci for a dog.",
+          "tipFr": "Réservez le premier service du dîner pendant la semaine d'Umbria Jazz ; la ruelle reste plus calme que le Corso Vannucci pour un chien.",
+          "tipEs": "Reserva el primer turno de cena durante la semana de Umbria Jazz; el callejón es más tranquilo que el Corso Vannucci para un perro.",
+          "tipPt": "Reserve o primeiro turno do jantar durante a semana do Umbria Jazz; a viela fica mais calma do que o Corso Vannucci para um cão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/La+Taverna+Perugia"
+        },
+        {
+          "name": "Trattoria Borgo San Francesco",
+          "address": "Via dei Priori 78, 06123 Perugia",
+          "neighborhood": "Via dei Priori, towards San Francesco al Prato",
+          "photo": "/images/city-places/perugia-restaurants-trattoria-borgo-san-francesco.jpg",
+          "website": "https://trattoriaborgosanfrancesco.com",
+          "description": "A rustic, family-run trattoria on the medieval lane running down to San Francesco al Prato, listed by Dogwelcome among Perugia's dog-friendly tables. Typical Umbrian dishes, a strong gluten-free menu and an easygoing welcome for four-legged guests.",
+          "descriptionFr": "Une trattoria rustique et familiale sur la ruelle médiévale qui descend vers San Francesco al Prato, référencée par Dogwelcome parmi les tables dog-friendly de Pérouse. Plats ombriens typiques, belle carte sans gluten et accueil décontracté pour les invités à quatre pattes.",
+          "descriptionEs": "Una trattoria rústica y familiar en la calleja medieval que baja hacia San Francesco al Prato, incluida por Dogwelcome entre las mesas dog-friendly de Perugia. Platos umbros típicos, buena carta sin gluten y bienvenida relajada para los huéspedes de cuatro patas.",
+          "descriptionPt": "Uma trattoria rústica e familiar na viela medieval que desce até San Francesco al Prato, listada pelo Dogwelcome entre as mesas dog-friendly de Perugia. Pratos úmbrios típicos, boa carta sem glúten e um acolhimento descontraído para hóspedes de quatro patas.",
+          "petPolicy": "Dogs accepted; evenings only, closed Sunday",
+          "petPolicyFr": "Chiens acceptés ; ouvert le soir uniquement, fermé le dimanche",
+          "petPolicyEs": "Perros aceptados; solo cenas, cerrado el domingo",
+          "petPolicyPt": "Cães aceites; só jantares, fechado ao domingo",
+          "priceRange": "€€",
+          "mustTry": "Torta al testo stuffed with sausage and greens",
+          "mustTryFr": "Torta al testo farcie saucisse et blettes",
+          "mustTryEs": "Torta al testo rellena de salchicha y acelgas",
+          "mustTryPt": "Torta al testo recheada com salsicha e grelos",
+          "openingHours": "Mon-Sat 19:30-23:00, closed Sunday",
+          "tip": "Walk off dinner down Via dei Priori to the lit facade of San Francesco al Prato, one of Perugia's calmest evening dog walks.",
+          "tipFr": "Digérez en descendant la Via dei Priori jusqu'à la façade éclairée de San Francesco al Prato, l'une des balades du soir les plus calmes de Pérouse.",
+          "tipEs": "Baja después de cenar por Via dei Priori hasta la fachada iluminada de San Francesco al Prato, uno de los paseos nocturnos más tranquilos de Perugia.",
+          "tipPt": "Depois do jantar desça a Via dei Priori até à fachada iluminada de San Francesco al Prato, um dos passeios noturnos mais calmos de Perugia.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Trattoria+Borgo+San+Francesco+Perugia"
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Parks & Dog Areas in Perugia",
+      "titleFr": "Parcs et espaces canins à Pérouse",
+      "titleEs": "Parques y zonas caninas en Perugia",
+      "titlePt": "Parques e zonas caninas em Perugia",
+      "introEn": "Perugia's city hall maintains a network of fenced dog runs (aree cani) with waste-bag dispensers and fountains, the largest at Pian di Massiano at the foot of the Minimetrò. Add the historic gardens ringing the acropolis and Monte Tezio's summit trails twenty minutes away, and the hilltop city walks better than its steep profile suggests.",
+      "introFr": "La mairie de Pérouse entretient un réseau d'espaces canins clôturés (aree cani) avec distributeurs de sacs et fontaines, le plus grand à Pian di Massiano au pied du Minimetrò. Ajoutez les jardins historiques qui ceinturent l'acropole et les sentiers du Monte Tezio à vingt minutes, et la ville perchée se marche mieux que son profil escarpé ne le laisse penser.",
+      "introEs": "El ayuntamiento de Perugia mantiene una red de zonas caninas valladas (aree cani) con dispensadores de bolsas y fuentes, la mayor en Pian di Massiano al pie del Minimetrò. Suma los jardines históricos que rodean la acrópolis y los senderos del Monte Tezio a veinte minutos, y la ciudad colgada se camina mejor de lo que sugiere su perfil empinado.",
+      "introPt": "A câmara de Perugia mantém uma rede de zonas caninas vedadas (aree cani) com dispensadores de sacos e fontes, a maior em Pian di Massiano ao pé do Minimetrò. Junte os jardins históricos que rodeiam a acrópole e os trilhos do Monte Tezio a vinte minutos, e a cidade no alto caminha-se melhor do que o seu perfil íngreme sugere.",
+      "places": [
+        {
+          "name": "Parco di Pian di Massiano",
+          "address": "Pian di Massiano, 06127 Perugia",
+          "neighborhood": "Pian di Massiano, by the stadium and Minimetrò terminus",
+          "photo": "",
+          "size": "The city's largest park, with a fenced dog area",
+          "description": "Perugia's big flat park: kilometres of paths along the Genna stream, a small lake with waterbirds, exercise stations and an equipped, fenced area where dogs run free. It sits at the lower Minimetrò terminus, so you can descend from the old town in ten minutes.",
+          "descriptionFr": "Le grand parc plat de Pérouse : des kilomètres d'allées le long du ruisseau Genna, un petit lac aux oiseaux d'eau, des stations de fitness et un espace clôturé équipé où les chiens courent en liberté. Il se trouve au terminus bas du Minimetrò, on descend de la vieille ville en dix minutes.",
+          "descriptionEs": "El gran parque llano de Perugia: kilómetros de senderos junto al arroyo Genna, un pequeño lago con aves acuáticas, estaciones de ejercicio y una zona vallada equipada donde los perros corren sueltos. Está en la terminal inferior del Minimetrò, se baja del casco antiguo en diez minutos.",
+          "descriptionPt": "O grande parque plano de Perugia: quilómetros de caminhos ao longo do ribeiro Genna, um pequeno lago com aves aquáticas, estações de exercício e uma zona vedada equipada onde os cães correm à solta. Fica no terminal inferior do Minimetrò, desce-se da cidade velha em dez minutos.",
+          "features": [
+            "Fenced dog area",
+            "Waste-bag dispensers",
+            "Small lake",
+            "Flat jogging loop"
+          ],
+          "featuresFr": [
+            "Espace canin clôturé",
+            "Distributeurs de sacs",
+            "Petit lac",
+            "Boucle de jogging plate"
+          ],
+          "featuresEs": [
+            "Zona canina vallada",
+            "Dispensadores de bolsas",
+            "Pequeño lago",
+            "Circuito llano"
+          ],
+          "featuresPt": [
+            "Zona canina vedada",
+            "Dispensadores de sacos",
+            "Pequeno lago",
+            "Circuito plano"
+          ],
+          "leashRules": "Leash required in the park; off-leash inside the fenced dog area",
+          "leashRulesFr": "Laisse obligatoire dans le parc ; liberté dans l'espace canin clôturé",
+          "leashRulesEs": "Correa obligatoria en el parque; suelto dentro de la zona canina vallada",
+          "leashRulesPt": "Trela obrigatória no parque; à solta dentro da zona canina vedada",
+          "bestTimeToVisit": "Early morning in summer, before the heat builds on the plain",
+          "bestTimeToVisitFr": "Tôt le matin en été, avant que la chaleur ne s'installe dans la plaine",
+          "bestTimeToVisitEs": "A primera hora en verano, antes de que apriete el calor en el llano",
+          "bestTimeToVisitPt": "De manhã cedo no verão, antes de o calor se instalar na planície",
+          "googleMapsUrl": "https://www.google.com/maps/search/Parco+Pian+di+Massiano+Perugia"
+        },
+        {
+          "name": "Giardini del Frontone",
+          "address": "Borgo XX Giugno, 06126 Perugia",
+          "neighborhood": "Borgo XX Giugno, by San Pietro",
+          "photo": "/images/city-places/perugia-parks-giardini-del-frontone.jpg",
+          "size": "Historic 18th-century garden",
+          "description": "An avenue of centuries-old holm oaks ending in a neoclassical exedra, laid out in the 1700s for evening promenades and still used exactly that way. Leashed dogs are a normal sight, and in July the garden hosts open-air concerts and Umbria Jazz side events.",
+          "descriptionFr": "Une allée de chênes verts centenaires fermée par une exèdre néoclassique, dessinée au XVIIIe siècle pour la promenade du soir et toujours utilisée ainsi. Les chiens en laisse y sont un spectacle normal, et en juillet le jardin accueille des concerts en plein air et des à-côtés d'Umbria Jazz.",
+          "descriptionEs": "Una avenida de encinas centenarias cerrada por una exedra neoclásica, trazada en el siglo XVIII para el paseo vespertino y aún usada así. Los perros con correa son una estampa normal, y en julio el jardín acoge conciertos al aire libre y eventos paralelos de Umbria Jazz.",
+          "descriptionPt": "Uma alameda de azinheiras centenárias fechada por uma exedra neoclássica, traçada no século XVIII para o passeio da noite e ainda usada assim. Cães de trela são uma imagem normal, e em julho o jardim acolhe concertos ao ar livre e eventos paralelos do Umbria Jazz.",
+          "features": [
+            "Shaded avenues",
+            "Neoclassical exedra",
+            "Summer concerts",
+            "Next to San Pietro basilica"
+          ],
+          "featuresFr": [
+            "Allées ombragées",
+            "Exèdre néoclassique",
+            "Concerts d'été",
+            "Près de la basilique San Pietro"
+          ],
+          "featuresEs": [
+            "Avenidas sombreadas",
+            "Exedra neoclásica",
+            "Conciertos de verano",
+            "Junto a la basílica de San Pietro"
+          ],
+          "featuresPt": [
+            "Alamedas sombreadas",
+            "Exedra neoclássica",
+            "Concertos de verão",
+            "Junto à basílica de San Pietro"
+          ],
+          "leashRules": "Leash required",
+          "leashRulesFr": "Laisse obligatoire",
+          "leashRulesEs": "Correa obligatoria",
+          "leashRulesPt": "Trela obrigatória",
+          "bestTimeToVisit": "Golden hour, when the exedra catches the evening light",
+          "bestTimeToVisitFr": "L'heure dorée, quand l'exèdre accroche la lumière du soir",
+          "bestTimeToVisitEs": "La hora dorada, cuando la exedra atrapa la luz de la tarde",
+          "bestTimeToVisitPt": "A hora dourada, quando a exedra apanha a luz do entardecer",
+          "googleMapsUrl": "https://www.google.com/maps/search/Giardini+del+Frontone+Perugia"
+        },
+        {
+          "name": "Monte Tezio",
+          "address": "Parco del Monte Tezio, 06134 Perugia",
+          "neighborhood": "20 minutes north of the city",
+          "photo": "/images/city-places/perugia-parks-monte-tezio.jpg",
+          "size": "Regional park around a 961 m summit",
+          "description": "Perugia's home mountain, a whale-backed ridge of meadows and oak woods with marked loops from Migiana di Monte Tezio to the 961 m summit. On clear days the view runs from Lake Trasimeno to the Sibillini mountains, and dogs love the open grassy crest.",
+          "descriptionFr": "La montagne de Pérouse : une croupe de prairies et de chênaies avec des boucles balisées de Migiana di Monte Tezio au sommet à 961 m. Par temps clair, la vue court du lac Trasimène aux monts Sibyllins, et les chiens adorent la crête herbeuse dégagée.",
+          "descriptionEs": "La montaña de Perugia: un lomo de praderas y robledales con circuitos señalizados desde Migiana di Monte Tezio hasta la cima a 961 m. En días claros la vista va del lago Trasimeno a los montes Sibilinos, y a los perros les encanta la cresta herbosa despejada.",
+          "descriptionPt": "A montanha de Perugia: um dorso de prados e carvalhais com circuitos sinalizados de Migiana di Monte Tezio ao cume a 961 m. Em dias limpos a vista vai do lago Trasimeno aos montes Sibilinos, e os cães adoram a crista relvada aberta.",
+          "features": [
+            "Marked trail loops",
+            "Summit views",
+            "Meadows",
+            "Cooler than the city in summer"
+          ],
+          "featuresFr": [
+            "Boucles balisées",
+            "Vues au sommet",
+            "Prairies",
+            "Plus frais que la ville en été"
+          ],
+          "featuresEs": [
+            "Circuitos señalizados",
+            "Vistas en la cima",
+            "Praderas",
+            "Más fresco que la ciudad en verano"
+          ],
+          "featuresPt": [
+            "Circuitos sinalizados",
+            "Vistas no cume",
+            "Prados",
+            "Mais fresco do que a cidade no verão"
+          ],
+          "leashRules": "Leash required near grazing livestock; keep dogs close on the open ridge",
+          "leashRulesFr": "Laisse obligatoire près du bétail ; gardez le chien proche sur la crête ouverte",
+          "leashRulesEs": "Correa obligatoria cerca del ganado; mantén al perro cerca en la cresta abierta",
+          "leashRulesPt": "Trela obrigatória perto do gado; mantenha o cão próximo na crista aberta",
+          "bestTimeToVisit": "Spring and early summer mornings; carry water, the ridge has no springs",
+          "bestTimeToVisitFr": "Matins de printemps et de début d'été ; emportez de l'eau, la crête n'a pas de sources",
+          "bestTimeToVisitEs": "Mañanas de primavera y principios de verano; lleva agua, la cresta no tiene fuentes",
+          "bestTimeToVisitPt": "Manhãs de primavera e início de verão; leve água, a crista não tem nascentes",
+          "googleMapsUrl": "https://www.google.com/maps/search/Monte+Tezio+Perugia"
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Perugia with a Dog",
+      "titleFr": "Se déplacer à Pérouse avec un chien",
+      "titleEs": "Moverse por Perugia con perro",
+      "titlePt": "Deslocar-se em Perugia com cão",
+      "introEn": "Perugia's acropolis is linked to the plain by the Minimetrò monorail, escalators and Busitalia buses. The Minimetrò carries small dogs free (muzzled, on a fixed leash, one per car); larger dogs ride the buses with their own ticket. Italian rules everywhere: leash and a muzzle carried at all times.",
+      "introFr": "L'acropole de Pérouse est reliée à la plaine par le monorail Minimetrò, des escalators et les bus Busitalia. Le Minimetrò transporte gratuitement les petits chiens (muselés, en laisse fixe, un par cabine) ; les grands chiens prennent le bus avec leur propre billet. Règles italiennes partout : laisse et muselière sur soi en permanence.",
+      "introEs": "La acrópolis de Perugia se une al llano por el monorraíl Minimetrò, escaleras mecánicas y autobuses Busitalia. El Minimetrò lleva gratis a los perros pequeños (con bozal, correa fija, uno por cabina); los grandes van en autobús con su propio billete. Reglas italianas en todas partes: correa y bozal a mano en todo momento.",
+      "introPt": "A acrópole de Perugia liga-se à planície pelo monocarril Minimetrò, escadas rolantes e autocarros Busitalia. O Minimetrò leva de graça os cães pequenos (com açaime, trela fixa, um por cabina); os grandes vão de autocarro com o seu próprio bilhete. Regras italianas em todo o lado: trela e açaime à mão em permanência.",
+      "places": [],
+      "modes": [
+        {
+          "mode": "Minimetrò",
+          "modeFr": "Minimetrò",
+          "modeEs": "Minimetrò",
+          "modePt": "Minimetrò",
+          "policyEn": "Small dogs travel free, muzzled and on a fixed (non-extendable) leash, limited to one dog per car; guide dogs always ride free. Larger dogs are not carried, so plan buses or the escalators instead.",
+          "policyFr": "Les petits chiens voyagent gratuitement, muselés et en laisse fixe (non extensible), un seul chien par cabine ; les chiens guides circulent toujours librement. Les grands chiens ne sont pas admis, prévoyez le bus ou les escalators.",
+          "policyEs": "Los perros pequeños viajan gratis, con bozal y correa fija (no extensible), un perro por cabina; los perros guía siempre viajan libres. Los perros grandes no se admiten, planifica autobuses o escaleras mecánicas.",
+          "policyPt": "Os cães pequenos viajam grátis, com açaime e trela fixa (não extensível), um cão por cabina; os cães-guia viajam sempre livremente. Os cães grandes não são admitidos, conte com autocarros ou escadas rolantes.",
+          "cost": "Free for small dogs",
+          "costFr": "Gratuit pour les petits chiens",
+          "costEs": "Gratis para perros pequeños",
+          "costPt": "Grátis para cães pequenos"
+        },
+        {
+          "mode": "City buses (Busitalia Umbria)",
+          "modeFr": "Bus urbains (Busitalia Umbria)",
+          "modeEs": "Autobuses urbanos (Busitalia Umbria)",
+          "modePt": "Autocarros urbanos (Busitalia Umbria)",
+          "policyEn": "Small dogs and cats in arms or a carrier travel free with muzzle and leash. Medium and large dogs board with their own ticket, muzzled and on a leash, without occupying seats.",
+          "policyFr": "Petits chiens et chats dans les bras ou en caisse voyagent gratuitement avec muselière et laisse. Les chiens moyens et grands montent avec leur propre billet, muselés et en laisse, sans occuper de siège.",
+          "policyEs": "Perros pequeños y gatos en brazos o transportín viajan gratis con bozal y correa. Los perros medianos y grandes suben con su propio billete, con bozal y correa, sin ocupar asientos.",
+          "policyPt": "Cães pequenos e gatos ao colo ou em caixa viajam grátis com açaime e trela. Os cães médios e grandes sobem com o seu próprio bilhete, com açaime e trela, sem ocupar lugares.",
+          "cost": "Free for small pets; standard ticket for larger dogs",
+          "costFr": "Gratuit pour les petits animaux ; billet standard pour les grands chiens",
+          "costEs": "Gratis para mascotas pequeñas; billete estándar para perros grandes",
+          "costPt": "Grátis para animais pequenos; bilhete normal para cães grandes"
+        },
+        {
+          "mode": "Regional trains (Trenitalia)",
+          "modeFr": "Trains régionaux (Trenitalia)",
+          "modeEs": "Trenes regionales (Trenitalia)",
+          "modePt": "Comboios regionais (Trenitalia)",
+          "policyEn": "Dogs of any size ride regional trains muzzled and leashed; large dogs pay a reduced second-class fare. The Perugia-Passignano line puts Lake Trasimeno's dog beach 30 minutes away.",
+          "policyFr": "Les chiens de toute taille prennent les trains régionaux muselés et en laisse ; les grands chiens paient un tarif réduit de seconde classe. La ligne Pérouse-Passignano met la plage canine du lac Trasimène à 30 minutes.",
+          "policyEs": "Los perros de cualquier tamaño viajan en los trenes regionales con bozal y correa; los grandes pagan una tarifa reducida de segunda clase. La línea Perugia-Passignano deja la playa canina del lago Trasimeno a 30 minutos.",
+          "policyPt": "Cães de qualquer tamanho viajam nos comboios regionais com açaime e trela; os grandes pagam uma tarifa reduzida de segunda classe. A linha Perugia-Passignano põe a praia canina do lago Trasimeno a 30 minutos.",
+          "cost": "Reduced fare for large dogs; small dogs in carriers free",
+          "costFr": "Tarif réduit pour les grands chiens ; petits chiens en caisse gratuits",
+          "costEs": "Tarifa reducida para perros grandes; pequeños en transportín gratis",
+          "costPt": "Tarifa reduzida para cães grandes; pequenos em caixa grátis"
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog Beaches near Perugia: Lake Trasimeno",
+      "titleFr": "Plages canines près de Pérouse : le lac Trasimène",
+      "titleEs": "Playas caninas cerca de Perugia: el lago Trasimeno",
+      "titlePt": "Praias caninas perto de Perugia: o lago Trasimeno",
+      "introEn": "Perugia has no sea, but Lake Trasimeno, Italy's fourth-largest lake, is 30 minutes away by car or regional train and has an established dog-beach culture. The lakeside villages also anchor the Via del Trasimeno, a 160 km walking circuit that works beautifully with a dog.",
+      "introFr": "Pérouse n'a pas la mer, mais le lac Trasimène, quatrième lac d'Italie, est à 30 minutes en voiture ou en train régional et possède une vraie culture de plages canines. Les villages riverains jalonnent aussi la Via del Trasimeno, un circuit de 160 km qui se marche à merveille avec un chien.",
+      "introEs": "Perugia no tiene mar, pero el lago Trasimeno, cuarto lago de Italia, está a 30 minutos en coche o tren regional y tiene una cultura consolidada de playas caninas. Los pueblos ribereños jalonan además la Via del Trasimeno, un circuito de 160 km que se camina de maravilla con perro.",
+      "introPt": "Perugia não tem mar, mas o lago Trasimeno, quarto maior lago de Itália, fica a 30 minutos de carro ou comboio regional e tem uma cultura estabelecida de praias caninas. As aldeias ribeirinhas ancoram ainda a Via del Trasimeno, um circuito de 160 km que se caminha lindamente com um cão.",
+      "places": [],
+      "beaches": [
+        {
+          "name": "Spiaggia del Sualzo",
+          "address": "Passignano sul Trasimeno, 06065 Perugia",
+          "photo": "",
+          "description": "The public beach of Passignano sul Trasimeno, listed among Umbria's dog-friendly beaches: a strip of grass and pebbles with shallow, warm water and the fishing village's promenade a short walk away. Passignano's station is on the direct Perugia line, making it a car-free outing.",
+          "descriptionFr": "La plage publique de Passignano sul Trasimeno, référencée parmi les plages dog-friendly d'Ombrie : une bande d'herbe et de galets, une eau peu profonde et tiède, et la promenade du village de pêcheurs à quelques pas. La gare de Passignano est sur la ligne directe de Pérouse, sortie possible sans voiture.",
+          "descriptionEs": "La playa pública de Passignano sul Trasimeno, incluida entre las playas dog-friendly de Umbría: una franja de hierba y guijarros, agua templada y poco profunda, y el paseo del pueblo pesquero a pocos pasos. La estación de Passignano está en la línea directa de Perugia, excursión posible sin coche.",
+          "descriptionPt": "A praia pública de Passignano sul Trasimeno, listada entre as praias dog-friendly da Úmbria: uma faixa de relva e seixos, água morna e pouco profunda, e o passeio da vila piscatória a poucos passos. A estação de Passignano está na linha direta de Perugia, passeio possível sem carro.",
+          "dogPolicy": "Dogs allowed on the designated stretch; bring your own shade and water bowl",
+          "dogPolicyFr": "Chiens admis sur le tronçon désigné ; apportez ombre et gamelle",
+          "dogPolicyEs": "Perros permitidos en el tramo señalado; lleva sombra y cuenco propios",
+          "dogPolicyPt": "Cães permitidos no troço designado; leve sombra e taça próprias",
+          "leashRequired": true,
+          "seasonalRestrictions": "Busiest July-August; mornings are calmer for dogs",
+          "seasonalRestrictionsFr": "Affluence maximale en juillet-août ; les matinées sont plus calmes pour les chiens",
+          "seasonalRestrictionsEs": "Máxima afluencia en julio-agosto; las mañanas son más tranquilas para los perros",
+          "seasonalRestrictionsPt": "Maior afluência em julho-agosto; as manhãs são mais calmas para os cães",
+          "googleMapsUrl": "https://www.google.com/maps/search/Spiaggia+del+Sualzo+Passignano"
+        },
+        {
+          "name": "Lungolago di Castiglione del Lago",
+          "address": "Castiglione del Lago, 06061 Perugia",
+          "photo": "",
+          "description": "The lakefront promenade and public green shores beneath Castiglione del Lago's fortress walls, where leashed dogs are welcome along the water. Combine a paddle with a stroll up into one of Italy's prettiest lake villages.",
+          "descriptionFr": "La promenade du bord du lac et les rives vertes publiques sous les remparts de Castiglione del Lago, où les chiens en laisse sont bienvenus au fil de l'eau. Combinez trempette et montée dans l'un des plus jolis villages lacustres d'Italie.",
+          "descriptionEs": "El paseo ribereño y las orillas verdes públicas bajo las murallas de Castiglione del Lago, donde los perros con correa son bienvenidos junto al agua. Combina el chapuzón con una subida a uno de los pueblos lacustres más bonitos de Italia.",
+          "descriptionPt": "O passeio à beira-lago e as margens verdes públicas sob as muralhas de Castiglione del Lago, onde cães de trela são bem-vindos junto à água. Combine o mergulho com uma subida a uma das mais bonitas vilas lacustres de Itália.",
+          "dogPolicy": "Leashed dogs welcome on the promenade and green shores outside the bathing lidos",
+          "dogPolicyFr": "Chiens en laisse bienvenus sur la promenade et les rives vertes hors des lidos de baignade",
+          "dogPolicyEs": "Perros con correa bienvenidos en el paseo y las orillas verdes fuera de los lidos de baño",
+          "dogPolicyPt": "Cães de trela bem-vindos no passeio e nas margens verdes fora dos lidos de banho",
+          "leashRequired": true,
+          "seasonalRestrictions": "Stay off the equipped bathing lidos in summer; free shores are open year-round",
+          "seasonalRestrictionsFr": "Évitez les lidos aménagés en été ; les rives libres sont ouvertes toute l'année",
+          "seasonalRestrictionsEs": "Evita los lidos equipados en verano; las orillas libres abren todo el año",
+          "seasonalRestrictionsPt": "Evite os lidos equipados no verão; as margens livres estão abertas todo o ano",
+          "googleMapsUrl": "https://www.google.com/maps/search/Lungolago+Castiglione+del+Lago"
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians in Perugia",
+      "titleFr": "Vétérinaires à Pérouse",
+      "titleEs": "Veterinarios en Perugia",
+      "titlePt": "Veterinários em Perugia",
+      "introEn": "Perugia is one of the safest Italian cities to travel through with a pet: the University of Perugia's veterinary teaching hospital runs a genuine 24/7 emergency room on the edge of the historic center. Routine care is covered by neighborhood clinics across the city.",
+      "introFr": "Pérouse est l'une des villes italiennes les plus sûres pour voyager avec un animal : l'hôpital vétérinaire universitaire de Pérouse assure de vraies urgences 24h/24 et 7j/7 en bordure du centre historique. Les soins courants sont couverts par les cliniques de quartier.",
+      "introEs": "Perugia es una de las ciudades italianas más seguras para viajar con mascota: el hospital veterinario universitario de Perugia mantiene urgencias reales 24/7 al borde del centro histórico. La atención rutinaria la cubren las clínicas de barrio.",
+      "introPt": "Perugia é uma das cidades italianas mais seguras para viajar com animal: o hospital veterinário universitário de Perugia mantém urgências reais 24/7 na orla do centro histórico. Os cuidados de rotina são cobertos pelas clínicas de bairro.",
+      "places": [],
+      "clinics": [
+        {
+          "name": "Ospedale Veterinario Universitario Didattico (OVUD)",
+          "address": "Via San Costanzo 4, 06126 Perugia",
+          "phone": "+39 075 585 7792",
+          "emergencyPhone": "+39 335 572 4193",
+          "hours": "Open 24 hours, 7 days a week",
+          "emergency24h": true,
+          "description": "The University of Perugia's teaching hospital, with a staffed small-animal emergency room around the clock, every day of the year. The dedicated small-animal emergency line is +39 335 572 4193.",
+          "descriptionFr": "L'hôpital universitaire de Pérouse, avec des urgences petits animaux ouvertes 24h/24, tous les jours de l'année. La ligne d'urgence dédiée aux petits animaux est le +39 335 572 4193.",
+          "descriptionEs": "El hospital universitario de Perugia, con urgencias de pequeños animales atendidas las 24 horas, todos los días del año. La línea de urgencias de pequeños animales es el +39 335 572 4193.",
+          "descriptionPt": "O hospital universitário de Perugia, com urgências de pequenos animais abertas 24 horas, todos os dias do ano. A linha de urgência para pequenos animais é o +39 335 572 4193.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Ospedale+Veterinario+Universitario+Perugia"
+        },
+        {
+          "name": "Clinica Veterinaria Cortonese",
+          "address": "Via Cortonese 82/M, 06127 Perugia",
+          "phone": "+39 075 505 5354",
+          "emergencyPhone": "+39 393 950 8398",
+          "hours": "Open 24 hours, every day including holidays",
+          "emergency24h": true,
+          "description": "A private 24-hour clinic on the Cortonese avenue between the station district and Pian di Massiano, open every day including holidays. Surgery, diagnostics and hospitalization under one roof.",
+          "descriptionFr": "Une clinique privée ouverte 24h/24 sur l'avenue Cortonese, entre le quartier de la gare et Pian di Massiano, tous les jours fériés compris. Chirurgie, diagnostics et hospitalisation sous un même toit.",
+          "descriptionEs": "Una clínica privada abierta 24 horas en la avenida Cortonese, entre el barrio de la estación y Pian di Massiano, todos los días incluidos festivos. Cirugía, diagnóstico y hospitalización bajo un mismo techo.",
+          "descriptionPt": "Uma clínica privada aberta 24 horas na avenida Cortonese, entre o bairro da estação e Pian di Massiano, todos os dias incluindo feriados. Cirurgia, diagnóstico e hospitalização sob o mesmo teto.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Clinica+Veterinaria+Cortonese+Perugia"
+        },
+        {
+          "name": "Clinica Veterinaria Santa Lucia",
+          "address": "Via della Moda 4, 06135 Perugia",
+          "phone": "+39 075 586 8510",
+          "emergencyPhone": "",
+          "hours": "Daytime surgery hours; phone for appointments",
+          "emergency24h": false,
+          "description": "A well-equipped clinic in the Ponte San Giovanni area for routine visits, vaccinations and travel paperwork. Handy if you are staying in the valley rather than up on the acropolis.",
+          "descriptionFr": "Une clinique bien équipée du secteur de Ponte San Giovanni pour les visites courantes, vaccins et documents de voyage. Pratique si vous logez dans la vallée plutôt que sur l'acropole.",
+          "descriptionEs": "Una clínica bien equipada en la zona de Ponte San Giovanni para visitas rutinarias, vacunas y documentación de viaje. Práctica si te alojas en el valle y no en la acrópolis.",
+          "descriptionPt": "Uma clínica bem equipada na zona de Ponte San Giovanni para consultas de rotina, vacinas e documentação de viagem. Prática se ficar no vale em vez de na acrópole.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Clinica+Veterinaria+Santa+Lucia+Perugia"
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Perugia with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Pérouse avec un chien",
+      "titleEs": "Consejos esenciales para visitar Perugia con perro",
+      "titlePt": "Dicas essenciais para visitar Perugia com cão",
+      "introEn": "Perugia rewards dog owners who plan around two things: the vertical geography (escalators, the Minimetrò and steep lanes) and the summer calendar, when Umbria Jazz fills the acropolis with stages and crowds from 11 to 20 July. Everything else about Umbria's capital is refreshingly easy with a dog.",
+      "introFr": "Pérouse récompense les maîtres qui composent avec deux choses : la géographie verticale (escalators, Minimetrò et ruelles raides) et le calendrier estival, quand Umbria Jazz remplit l'acropole de scènes et de foules du 11 au 20 juillet. Tout le reste dans la capitale de l'Ombrie est d'une facilité réjouissante avec un chien.",
+      "introEs": "Perugia premia a los dueños que planifican en torno a dos cosas: la geografía vertical (escaleras mecánicas, Minimetrò y callejas empinadas) y el calendario estival, cuando Umbria Jazz llena la acrópolis de escenarios y multitudes del 11 al 20 de julio. Todo lo demás en la capital de Umbría es sorprendentemente fácil con perro.",
+      "introPt": "Perugia recompensa os donos que planeiam em torno de duas coisas: a geografia vertical (escadas rolantes, Minimetrò e vielas íngremes) e o calendário de verão, quando o Umbria Jazz enche a acrópole de palcos e multidões de 11 a 20 de julho. Tudo o resto na capital da Úmbria é refrescantemente fácil com um cão.",
+      "places": [],
+      "tipsEn": [
+        "During Umbria Jazz (11-20 July 2026) the main squares turn into concert arenas with loudspeakers and dense crowds; walk noise-sensitive dogs in the Frontone gardens or along the aqueduct lane instead, and do square strolls before noon.",
+        "Only small dogs may board the Minimetrò (muzzled, fixed leash, one per car); with a larger dog, use the Piazza Partigiani escalators through the Rocca Paolina or a Busitalia bus with a dog ticket.",
+        "Summer paving on the acropolis gets scorching: test the stone with your hand, walk the shaded side of Corso Vannucci, and refill at the public fountains, Perugia's tap water is safe for dogs."
+      ],
+      "tipsFr": [
+        "Pendant Umbria Jazz (11-20 juillet 2026), les places principales deviennent des arènes de concert avec sonos et foules denses ; promenez les chiens sensibles au bruit aux jardins du Frontone ou le long de l'acqueduc, et faites les places avant midi.",
+        "Seuls les petits chiens peuvent monter dans le Minimetrò (muselés, laisse fixe, un par cabine) ; avec un grand chien, prenez les escalators de Piazza Partigiani à travers la Rocca Paolina ou un bus Busitalia avec billet chien.",
+        "Le pavement de l'acropole devient brûlant en été : testez la pierre avec la main, marchez du côté ombragé du Corso Vannucci et remplissez la gourde aux fontaines publiques, l'eau du robinet de Pérouse convient aux chiens."
+      ],
+      "tipsEs": [
+        "Durante Umbria Jazz (11-20 de julio de 2026) las plazas principales se vuelven arenas de concierto con altavoces y multitudes densas; pasea a los perros sensibles al ruido por los jardines del Frontone o junto al acueducto, y visita las plazas antes del mediodía.",
+        "Solo los perros pequeños pueden subir al Minimetrò (con bozal, correa fija, uno por cabina); con un perro grande, usa las escaleras mecánicas de Piazza Partigiani a través de la Rocca Paolina o un autobús Busitalia con billete de perro.",
+        "El pavimento de la acrópolis abrasa en verano: prueba la piedra con la mano, camina por el lado sombreado del Corso Vannucci y rellena en las fuentes públicas, el agua del grifo de Perugia es segura para perros."
+      ],
+      "tipsPt": [
+        "Durante o Umbria Jazz (11-20 de julho de 2026) as praças principais tornam-se arenas de concerto com altifalantes e multidões densas; passeie os cães sensíveis ao ruído nos jardins do Frontone ou junto ao aqueduto, e visite as praças antes do meio-dia.",
+        "Só os cães pequenos podem entrar no Minimetrò (com açaime, trela fixa, um por cabina); com um cão grande, use as escadas rolantes da Piazza Partigiani através da Rocca Paolina ou um autocarro Busitalia com bilhete de cão.",
+        "A calçada da acrópole escalda no verão: teste a pedra com a mão, caminhe pelo lado sombreado do Corso Vannucci e reabasteça nas fontes públicas, a água da torneira de Perugia é segura para cães."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Perugia?",
+          "a": "Yes, two: the University's veterinary teaching hospital (OVUD, Via San Costanzo 4, emergency line +39 335 572 4193) runs a 24/7 small-animal emergency room, and the private Clinica Veterinaria Cortonese (+39 075 505 5354) is also open around the clock."
+        },
+        {
+          "q": "Can I visit Perugia with my dog during Umbria Jazz?",
+          "a": "Yes, the festival is largely open-air and the town stays walkable, but expect loudspeakers, night crowds and packed terraces from 11 to 20 July. Book pet-friendly rooms far ahead and give sound-shy dogs a quiet base away from Corso Vannucci."
+        },
+        {
+          "q": "Where can my dog swim near Perugia?",
+          "a": "At Lake Trasimeno, 30 minutes away: the Sualzo beach in Passignano sul Trasimeno accepts dogs, and the free green shores at Castiglione del Lago work well outside the equipped lidos. Regional trains to Passignano take leashed, muzzled dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Pérouse ?",
+          "a": "Oui, deux : l'hôpital vétérinaire universitaire (OVUD, Via San Costanzo 4, urgence +39 335 572 4193) assure des urgences petits animaux 24h/24, et la Clinica Veterinaria Cortonese privée (+39 075 505 5354) est aussi ouverte en continu."
+        },
+        {
+          "q": "Puis-je visiter Pérouse avec mon chien pendant Umbria Jazz ?",
+          "a": "Oui, le festival est largement en plein air et la ville reste praticable, mais attendez-vous à des sonos, des foules nocturnes et des terrasses bondées du 11 au 20 juillet. Réservez l'hébergement pet-friendly très en avance et offrez aux chiens craintifs une base calme loin du Corso Vannucci."
+        },
+        {
+          "q": "Où mon chien peut-il se baigner près de Pérouse ?",
+          "a": "Au lac Trasimène, à 30 minutes : la plage du Sualzo à Passignano sul Trasimeno accepte les chiens, et les rives libres de Castiglione del Lago conviennent hors des lidos aménagés. Les trains régionaux vers Passignano prennent les chiens muselés en laisse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario 24 horas en Perugia?",
+          "a": "Sí, dos: el hospital veterinario universitario (OVUD, Via San Costanzo 4, urgencias +39 335 572 4193) tiene urgencias de pequeños animales 24/7, y la privada Clinica Veterinaria Cortonese (+39 075 505 5354) también abre las 24 horas."
+        },
+        {
+          "q": "¿Puedo visitar Perugia con mi perro durante Umbria Jazz?",
+          "a": "Sí, el festival es mayormente al aire libre y la ciudad sigue siendo transitable, pero espera altavoces, multitudes nocturnas y terrazas llenas del 11 al 20 de julio. Reserva alojamiento pet-friendly con mucha antelación y da a los perros miedosos una base tranquila lejos del Corso Vannucci."
+        },
+        {
+          "q": "¿Dónde puede nadar mi perro cerca de Perugia?",
+          "a": "En el lago Trasimeno, a 30 minutos: la playa del Sualzo en Passignano sul Trasimeno acepta perros, y las orillas libres de Castiglione del Lago funcionan bien fuera de los lidos equipados. Los trenes regionales a Passignano admiten perros con correa y bozal."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há veterinário 24 horas em Perugia?",
+          "a": "Sim, dois: o hospital veterinário universitário (OVUD, Via San Costanzo 4, urgência +39 335 572 4193) tem urgências de pequenos animais 24/7, e a privada Clinica Veterinaria Cortonese (+39 075 505 5354) também está aberta em contínuo."
+        },
+        {
+          "q": "Posso visitar Perugia com o meu cão durante o Umbria Jazz?",
+          "a": "Sim, o festival é sobretudo ao ar livre e a cidade continua caminhável, mas conte com altifalantes, multidões noturnas e esplanadas cheias de 11 a 20 de julho. Reserve alojamento pet-friendly com muita antecedência e dê aos cães receosos uma base calma longe do Corso Vannucci."
+        },
+        {
+          "q": "Onde pode o meu cão nadar perto de Perugia?",
+          "a": "No lago Trasimeno, a 30 minutos: a praia do Sualzo em Passignano sul Trasimeno aceita cães, e as margens livres de Castiglione del Lago funcionam bem fora dos lidos equipados. Os comboios regionais para Passignano levam cães de trela e açaime."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Perugia",
+      "titleFr": "Attractions dog-friendly à Pérouse",
+      "titleEs": "Atracciones dog-friendly en Perugia",
+      "titlePt": "Atrações dog-friendly em Perugia",
+      "introEn": "Perugia's greatest sights are its open-air spaces: Etruscan gates, a medieval aqueduct turned elevated footpath, and belvederes over half of Umbria. A leashed dog can accompany you to essentially all of them; only museum and church interiors are off the itinerary.",
+      "introFr": "Les plus beaux atouts de Pérouse sont ses espaces à ciel ouvert : portes étrusques, aqueduc médiéval devenu sentier suspendu et belvédères sur la moitié de l'Ombrie. Un chien en laisse peut vous accompagner presque partout ; seuls les intérieurs des musées et des églises sortent de l'itinéraire.",
+      "introEs": "Los mayores atractivos de Perugia son sus espacios al aire libre: puertas etruscas, un acueducto medieval convertido en sendero elevado y miradores sobre media Umbría. Un perro con correa puede acompañarte prácticamente a todos; solo los interiores de museos e iglesias quedan fuera del itinerario.",
+      "introPt": "Os maiores atrativos de Perugia são os seus espaços ao ar livre: portas etruscas, um aqueduto medieval transformado em caminho elevado e miradouros sobre meia Úmbria. Um cão de trela pode acompanhá-lo a praticamente todos; apenas os interiores de museus e igrejas ficam fora do roteiro.",
+      "places": [
+        {
+          "name": "Fontana Maggiore",
+          "address": "Piazza IV Novembre, 06123 Perugia",
+          "photo": "/images/city-places/perugia-attractions-fontana-maggiore.jpg",
+          "description": "The 13th-century marble fountain at the very top of the city, carved by Nicola and Giovanni Pisano, with the cathedral steps and Palazzo dei Priori around it. It is Perugia's living room: sit on the steps with your dog and watch the whole town drift by.",
+          "descriptionFr": "La fontaine de marbre du XIIIe siècle au sommet de la ville, sculptée par Nicola et Giovanni Pisano, entourée des marches de la cathédrale et du Palazzo dei Priori. C'est le salon de Pérouse : asseyez-vous sur les marches avec votre chien et regardez passer toute la ville.",
+          "descriptionEs": "La fuente de mármol del siglo XIII en lo más alto de la ciudad, esculpida por Nicola y Giovanni Pisano, rodeada por las escalinatas de la catedral y el Palazzo dei Priori. Es el salón de Perugia: siéntate en las escaleras con tu perro y mira pasar a toda la ciudad.",
+          "descriptionPt": "A fonte de mármore do século XIII no topo da cidade, esculpida por Nicola e Giovanni Pisano, rodeada pelas escadarias da catedral e pelo Palazzo dei Priori. É a sala de estar de Perugia: sente-se nos degraus com o seu cão e veja a cidade inteira passar.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/Fontana+Maggiore+Perugia"
+        },
+        {
+          "name": "Acquedotto medievale",
+          "address": "Via dell'Acquedotto, 06123 Perugia",
+          "photo": "/images/city-places/perugia-attractions-acquedotto-medievale.jpg",
+          "description": "A 13th-century aqueduct reborn as a pedestrian lane floating above the rooftops, linking the old town to the Porta Sant'Angelo district. Traffic-free, panoramic and gently graded, it is the single best dog walk in central Perugia.",
+          "descriptionFr": "Un aqueduc du XIIIe siècle devenu ruelle piétonne flottant au-dessus des toits, reliant la vieille ville au quartier de Porta Sant'Angelo. Sans voitures, panoramique et en pente douce, c'est la plus belle balade canine du centre de Pérouse.",
+          "descriptionEs": "Un acueducto del siglo XIII renacido como calle peatonal que flota sobre los tejados, uniendo el casco antiguo con el barrio de Porta Sant'Angelo. Sin tráfico, panorámico y de pendiente suave, es el mejor paseo canino del centro de Perugia.",
+          "descriptionPt": "Um aqueduto do século XIII renascido como rua pedonal que flutua sobre os telhados, ligando a cidade velha ao bairro de Porta Sant'Angelo. Sem trânsito, panorâmico e de declive suave, é o melhor passeio canino do centro de Perugia.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/Via+dell%27Acquedotto+Perugia"
+        },
+        {
+          "name": "Giardini Carducci",
+          "address": "Piazza Italia, 06121 Perugia",
+          "photo": "/images/city-places/perugia-attractions-giardini-carducci.jpg",
+          "description": "The panoramic gardens at the end of Corso Vannucci, hanging over the Rocca Paolina bastions with a balcony view across the Tiber valley to Assisi. Sunset here, dog at your side and swifts overhead, is the classic Perugia moment.",
+          "descriptionFr": "Les jardins panoramiques au bout du Corso Vannucci, suspendus aux bastions de la Rocca Paolina avec une vue en balcon sur la vallée du Tibre jusqu'à Assise. Le coucher de soleil ici, chien à vos côtés et martinets au-dessus, est le moment pérugin par excellence.",
+          "descriptionEs": "Los jardines panorámicos al final del Corso Vannucci, colgados de los bastiones de la Rocca Paolina con vista de balcón sobre el valle del Tíber hasta Asís. El atardecer aquí, con el perro al lado y vencejos en el cielo, es el momento perugino por excelencia.",
+          "descriptionPt": "Os jardins panorâmicos ao fundo do Corso Vannucci, suspensos nos bastiões da Rocca Paolina com vista de varanda sobre o vale do Tibre até Assis. O pôr do sol aqui, com o cão ao lado e andorinhões no céu, é o momento perugino por excelência.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/Giardini+Carducci+Perugia"
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Perugia",
+      "titleFr": "Garde d'animaux et promenade de chiens à Pérouse",
+      "titleEs": "Cuidadores y paseadores de perros en Perugia",
+      "titlePt": "Pet sitting e passeadores de cães em Perugia",
+      "introEn": "For the Galleria Nazionale, a chocolate-factory tour or an Umbria Jazz evening in a packed theater, online platforms list vetted sitters and walkers in Perugia. Demand spikes during the festival in July, so book sitters days ahead.",
+      "introFr": "Pour la Galleria Nazionale, la visite d'une chocolaterie ou une soirée Umbria Jazz dans un théâtre bondé, les plateformes en ligne recensent des gardiens et promeneurs vérifiés à Pérouse. La demande explose pendant le festival en juillet, réservez plusieurs jours à l'avance.",
+      "introEs": "Para la Galleria Nazionale, la visita a una fábrica de chocolate o una velada de Umbria Jazz en un teatro lleno, las plataformas en línea listan cuidadores y paseadores verificados en Perugia. La demanda se dispara durante el festival en julio, reserva con días de antelación.",
+      "introPt": "Para a Galleria Nazionale, uma visita a uma fábrica de chocolate ou uma noite de Umbria Jazz num teatro cheio, as plataformas online listam sitters e passeadores verificados em Perugia. A procura dispara durante o festival em julho, reserve com dias de antecedência.",
+      "places": [],
+      "services": [
+        {
+          "name": "Rover",
+          "website": "https://www.rover.com",
+          "description": "The largest international pet-sitting platform, active in Italy since absorbing DogBuddy, with boarding, home visits and walks offered by sitters in Perugia and its suburbs.",
+          "descriptionFr": "La plus grande plateforme internationale de pet-sitting, active en Italie depuis l'absorption de DogBuddy, avec hébergement, visites à domicile et promenades proposés par des gardiens à Pérouse et sa périphérie.",
+          "descriptionEs": "La mayor plataforma internacional de cuidado de mascotas, activa en Italia desde que absorbió DogBuddy, con alojamiento, visitas a domicilio y paseos ofrecidos por cuidadores en Perugia y su periferia.",
+          "descriptionPt": "A maior plataforma internacional de pet sitting, ativa em Itália desde que absorveu a DogBuddy, com alojamento, visitas ao domicílio e passeios oferecidos por sitters em Perugia e arredores.",
+          "priceRange": "From about 15 EUR per walk",
+          "priceRangeFr": "À partir d'environ 15 EUR la promenade",
+          "priceRangeEs": "Desde unos 15 EUR por paseo",
+          "priceRangePt": "A partir de cerca de 15 EUR por passeio",
+          "bookingRequired": true
+        },
+        {
+          "name": "PetBacker",
+          "website": "https://www.petbacker.com",
+          "description": "A marketplace with reviewed pet sitters in Perugia offering day care, boarding and drop-in visits, with in-app messaging and payment protection.",
+          "descriptionFr": "Une place de marché avec des gardiens notés à Pérouse proposant garderie, pension et visites ponctuelles, avec messagerie intégrée et paiement protégé.",
+          "descriptionEs": "Un mercado con cuidadores reseñados en Perugia que ofrecen guardería, alojamiento y visitas puntuales, con mensajería integrada y pago protegido.",
+          "descriptionPt": "Um marketplace com pet sitters avaliados em Perugia que oferecem creche, alojamento e visitas pontuais, com mensagens na app e pagamento protegido.",
+          "priceRange": "From about 10 EUR per visit",
+          "priceRangeFr": "À partir d'environ 10 EUR la visite",
+          "priceRangeEs": "Desde unos 10 EUR por visita",
+          "priceRangePt": "A partir de cerca de 10 EUR por visita",
+          "bookingRequired": true
+        }
+      ]
+    }
+  }
+}

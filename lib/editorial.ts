@@ -491,6 +491,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Železná Studnička forest, Sad Janka Kráľa, and the Devín riverside',
       area: 'the Old Town, Petržalka, and Devín',
     },
+    bregenz: {
+      personality: 'Austria\'s festival town on the Bodensee, wedged between lake and mountain',
+      highlight: 'the Seeanlagen lakefront, the Pipeline shore towards Lochau, and the Pfänder summit trails',
+      area: 'the lakefront, the Oberstadt, and Mehrerau',
+    },
     bremen: {
       personality: 'a Hanseatic North German city where the UNESCO Marktplatz statue of the Town Musicians places a dog at the heart of civic identity, the 200-hectare Bürgerpark sits beside the centre, and Stuben restaurants welcome dogs indoors year-round',
       highlight: 'the Bürgerpark and adjacent Stadtwald, the Wallanlagen ramparts loop, and the Werderseestrand swim beach',
@@ -2254,6 +2259,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la forêt de Železná Studnička, Sad Janka Kráľa et la rive de Devín',
       area: 'la vieille ville, Petržalka et Devín',
     },
+    bregenz: {
+      personality: 'la ville-festival autrichienne du lac de Constance, coincée entre lac et montagne',
+      highlight: 'les Seeanlagen au bord du lac, la rive Pipeline vers Lochau et les sentiers du Pfänder',
+      area: 'le bord du lac, l\'Oberstadt et Mehrerau',
+    },
     bremen: {
       personality: `une ville hanséatique nord-allemande où la statue UNESCO des Musiciens place un chien au cœur de l'identité civique, où le Bürgerpark de 200 hectares jouxte le centre et où les Stuben acceptent les chiens en salle toute l'année`,
       highlight: `le Bürgerpark et le Stadtwald adjacent, la boucle des remparts Wallanlagen et la plage de baignade du Werderseestrand`,
@@ -4016,6 +4026,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el bosque de Železná Studnička, Sad Janka Kráľa y la ribera de Devín',
       area: 'el casco antiguo, Petržalka y Devín',
     },
+    bregenz: {
+      personality: 'la ciudad-festival austriaca del lago de Constanza, encajada entre lago y montaña',
+      highlight: 'los Seeanlagen junto al lago, la orilla Pipeline hacia Lochau y los senderos del Pfänder',
+      area: 'la orilla del lago, la Oberstadt y Mehrerau',
+    },
     bremen: {
       personality: `una ciudad hanseática norte-alemana donde la estatua UNESCO de los Músicos pone a un perro en el corazón de la identidad cívica, donde el Bürgerpark de 200 hectáreas linda con el centro y donde las Stuben admiten perros en sala todo el año`,
       highlight: `el Bürgerpark y el Stadtwald adyacente, el bucle de las murallas Wallanlagen y la playa de baño del Werderseestrand`,
@@ -5777,6 +5792,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital centroeuropea compacta e asequible onde os cães recorren as praças adoquinadas do centro histórico, os florestas dos Cárpatos e as riberas do Danubio, todo a pé a partir do centro',
       highlight: 'o floresta de Železná Studnička, Sad Janka Kráľa e a ribera de Devín',
       area: 'o centro histórico, Petržalka e Devín',
+    },
+    bregenz: {
+      personality: 'a cidade-festival austríaca do lago de Constança, encaixada entre lago e montanha',
+      highlight: 'os Seeanlagen à beira-lago, a margem Pipeline para Lochau e os trilhos do Pfänder',
+      area: 'a beira-lago, a Oberstadt e Mehrerau',
     },
     bremen: {
       personality: `uma cidade hanseática norte-alemana onde a estatua UNESCO dos Músicos pone a um cão no corazón da identidad cívica, onde o Bürgerpark de 200 hectáreas linda com o centro e onde as Stuben admiten cães en sala o ano inteiro`,

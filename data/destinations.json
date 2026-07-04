@@ -26492,5 +26492,79 @@
         "icon": "🌧️"
       }
     }
+  },
+  {
+    "slug": "bregenz",
+    "name": "Bregenz",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/bregenz.jpg",
+    "intro": "Squeezed between the Bodensee and the Pfänder, Austria's festival town on the lake is a compact dog paradise: a flat lakefront promenade with free waste-bag dispensers, a cable car that carries dogs up to a summit wildlife park, unofficial dog beaches along the Pipeline shore towards Lochau, and a 24-hour animal clinic. During the Bregenzer Festspiele from mid-July, plan quiet evening walks away from the floating stage crowds.",
+    "lat": 47.5031,
+    "lng": 9.7471,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & foggy",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold & brightening",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & fresh",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Pleasant & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm, lake season",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm festival weather",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & stormy evenings",
+        "icon": "⛈️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & clear",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool & misty",
+        "icon": "🌫️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold, festive lights",
+        "icon": "❄️"
+      }
+    }
   }
 ]

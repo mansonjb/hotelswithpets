@@ -4807,6 +4807,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bregenz: {
+    history: {
+      fr: `Bregenz, la Brigantion celte devenue Brigantium romaine, garde de ses deux mille ans d'histoire une ville haute fortifiée du Moyen Âge, couronnée par le Martinsturm et son bulbe baroque de 1601, l'un des plus grands d'Europe centrale. Capitale du Vorarlberg d'environ 30 000 habitants, elle vit tournée vers le lac de Constance : port, promenade des Seeanlagen et surtout la Seebühne, la plus grande scène flottante du monde, où le Bregenzer Festspiele déploie chaque été depuis 1946 des décors d'opéra démesurés devant 7 000 spectateurs par soir. Derrière, le Pfänder monte à 1064 mètres avec son téléphérique de 1927. Pour les voyageurs avec un chien, Bregenz est une base idéale : promenades plates au bord du lac, baignade canine sur la rive Pipeline vers Lochau, téléphérique acceptant les chiens, parc animalier alpin gratuit ouvert aux chiens en laisse et clinique vétérinaire d'urgence 24h/24. Seule contrainte : laisse et muselière dans les transports publics autrichiens.`,
+      en: `Bregenz, the Celtic Brigantion turned Roman Brigantium, keeps from its two thousand years of history a fortified medieval upper town crowned by the Martinsturm and its 1601 baroque onion dome, one of the largest in Central Europe. Vorarlberg's capital of around 30,000 lives facing Lake Constance: a harbor, the Seeanlagen promenade and above all the Seebühne, the world's largest floating stage, where the Bregenzer Festspiele has unfurled outsized opera sets every summer since 1946 before 7,000 spectators a night. Behind town, the Pfänder rises to 1064 meters with its 1927 cable car. For travellers with a dog, Bregenz is an ideal base: flat lakefront walks, dog swimming along the Pipeline shore towards Lochau, a dog-friendly cable car, a free alpine wildlife park open to leashed dogs and a 24-hour veterinary emergency clinic. The one constraint: leash and muzzle on Austrian public transport.`,
+      es: `Bregenz, la Brigantion celta convertida en Brigantium romana, conserva de sus dos mil años de historia una ciudad alta medieval fortificada coronada por el Martinsturm y su cúpula barroca de cebolla de 1601, una de las mayores de Europa Central. La capital de Vorarlberg, de unos 30.000 habitantes, vive mirando al lago de Constanza: puerto, paseo de los Seeanlagen y sobre todo la Seebühne, el mayor escenario flotante del mundo, donde el Bregenzer Festspiele despliega cada verano desde 1946 decorados de ópera desmesurados ante 7.000 espectadores por noche. Detrás, el Pfänder sube a 1064 metros con su teleférico de 1927. Para los viajeros con perro, Bregenz es una base ideal: paseos llanos junto al lago, baño canino en la orilla Pipeline hacia Lochau, teleférico que admite perros, parque de fauna alpina gratuito abierto a perros con correa y clínica veterinaria de urgencias 24 horas. Única restricción: correa y bozal en el transporte público austriaco.`,
+      pt: `Bregenz, a Brigantion celta tornada Brigantium romana, guarda dos seus dois mil anos de história uma cidade alta medieval fortificada coroada pelo Martinsturm e a sua cúpula barroca em bolbo de 1601, uma das maiores da Europa Central. A capital do Vorarlberg, com cerca de 30.000 habitantes, vive virada para o lago de Constança: porto, passeio dos Seeanlagen e sobretudo a Seebühne, o maior palco flutuante do mundo, onde o Bregenzer Festspiele desdobra cada verão desde 1946 cenários de ópera desmesurados perante 7.000 espectadores por noite. Atrás, o Pfänder sobe aos 1064 metros com o seu teleférico de 1927. Para os viajantes com cão, Bregenz é uma base ideal: passeios planos à beira-lago, banhos caninos na margem Pipeline para Lochau, teleférico que aceita cães, parque de fauna alpina gratuito aberto a cães de trela e clínica veterinária de urgência 24 horas. Única restrição: trela e açaime nos transportes públicos austríacos.`,
+    },
+    sights: [
+      { name: 'Seebühne', emoji: '🎭', petFriendly: false, desc: {
+        fr: `La plus grande scène flottante du monde, avec ses décors d'opéra monumentaux dressés dans le lac. Chiens interdits aux représentations, mais le décor s'admire de jour depuis la promenade gratuite, chien en laisse.`,
+        en: `The world's largest floating stage, its monumental opera sets rising out of the lake. Dogs cannot attend performances, but the set is best admired by day from the free promenade, dog on leash.`,
+        es: `El mayor escenario flotante del mundo, con sus decorados de ópera monumentales alzados en el lago. Perros vetados en las funciones, pero el decorado se admira de día desde el paseo gratuito, con el perro atado.`,
+        pt: `O maior palco flutuante do mundo, com os seus cenários de ópera monumentais erguidos no lago. Cães interditos nos espetáculos, mas o cenário admira-se de dia a partir do passeio gratuito, com o cão de trela.`,
+      } },
+      { name: 'Pfänder', emoji: '🚡', petFriendly: true, desc: {
+        fr: `La montagne de Bregenz, à 1064 m : téléphérique acceptant les chiens (petits gratuits), panorama sur tout le lac et 240 sommets alpins, sentiers forestiers de descente.`,
+        en: `Bregenz's mountain at 1064 m: a dog-friendly cable car (small dogs free), a panorama over the whole lake and 240 Alpine peaks, forest trails for the descent.`,
+        es: `La montaña de Bregenz, a 1064 m: teleférico que admite perros (pequeños gratis), panorámica de todo el lago y 240 picos alpinos, senderos forestales para bajar.`,
+        pt: `A montanha de Bregenz, a 1064 m: teleférico que aceita cães (pequenos grátis), panorama sobre todo o lago e 240 picos alpinos, trilhos florestais para a descida.`,
+      } },
+      { name: 'Pfänder Wildpark', emoji: '🦌', petFriendly: true, desc: {
+        fr: `Parc animalier alpin gratuit sur la boucle du sommet : bouquetins, marmottes, cerfs et sangliers. Rare privilège, les chiens en laisse peuvent faire le tour de 30 minutes.`,
+        en: `A free alpine wildlife park on the summit loop: ibex, marmots, deer and wild boar. A rare privilege, leashed dogs may walk the 30-minute circuit.`,
+        es: `Parque de fauna alpina gratuito en el circuito de la cima: íbices, marmotas, ciervos y jabalíes. Raro privilegio, los perros con correa pueden hacer el recorrido de 30 minutos.`,
+        pt: `Parque de fauna alpina gratuito no circuito do cume: íbexes, marmotas, veados e javalis. Raro privilégio, os cães de trela podem fazer o percurso de 30 minutos.`,
+      } },
+      { name: 'Martinsturm', emoji: '🏰', petFriendly: true, desc: {
+        fr: `La tour emblème de la ville haute médiévale, coiffée de son immense bulbe baroque de 1601. Les ruelles pavées et calmes de l'Oberstadt autour sont la balade urbaine idéale en laisse.`,
+        en: `The emblem tower of the medieval upper town, capped by its huge 1601 baroque onion dome. The quiet cobbled lanes of the Oberstadt around it make the ideal leashed town walk.`,
+        es: `La torre emblema de la ciudad alta medieval, rematada por su enorme cúpula barroca de 1601. Las tranquilas callejas empedradas de la Oberstadt alrededor son el paseo urbano ideal con correa.`,
+        pt: `A torre emblema da cidade alta medieval, coroada pela sua enorme cúpula barroca de 1601. As tranquilas vielas calcetadas da Oberstadt à volta são o passeio urbano ideal de trela.`,
+      } },
+      { name: 'Seeanlagen', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Les jardins du bord du lac entre le port et le palais des festivals : pelouses, vieux arbres, distributeurs de sacs gratuits et vue continue sur le lac de Constance. La boucle du soir des chiens de Bregenz.`,
+        en: `The lakefront gardens between the harbor and the festival house: lawns, old trees, free waste-bag dispensers and continuous views over Lake Constance. The evening loop of Bregenz's dogs.`,
+        es: `Los jardines de la orilla entre el puerto y el palacio de festivales: céspedes, árboles viejos, dispensadores de bolsas gratuitos y vistas continuas del lago de Constanza. El circuito vespertino de los perros de Bregenz.`,
+        pt: `Os jardins da margem entre o porto e o palácio dos festivais: relvados, árvores antigas, dispensadores de sacos gratuitos e vistas contínuas do lago de Constança. O circuito da noite dos cães de Bregenz.`,
+      } },
+      { name: 'Pipeline', emoji: '🐾', petFriendly: true, desc: {
+        fr: `Le chemin riverain du port de Bregenz vers Lochau, avec ses accès de gravier où les chiens se baignent toute l'année. La plage canine officieuse de la ville, prolongée par le spot de l'ancien bac de Lochau.`,
+        en: `The shoreline path from Bregenz harbor towards Lochau, with gravel accesses where dogs swim year-round. The town's unofficial dog beach, extended by the old Lochau ferry landing spot.`,
+        es: `El camino ribereño del puerto de Bregenz hacia Lochau, con accesos de grava donde los perros nadan todo el año. La playa canina oficiosa de la ciudad, prolongada por el punto del antiguo embarcadero de Lochau.`,
+        pt: `O caminho ribeirinho do porto de Bregenz para Lochau, com acessos de gravilha onde os cães nadam todo o ano. A praia canina oficiosa da cidade, prolongada pelo ponto do antigo ferry de Lochau.`,
+      } },
+    ],
+    petTips: {
+      fr: [
+        `Laisse ET muselière obligatoires dans les bus et trains autrichiens (ou caisse fermée pour les petits chiens) : gardez toujours la muselière sur vous, les contrôles existent.`,
+        `Pendant le Bregenzer Festspiele (17 juillet à mi-août), le bord du lac se remplit dès 19h les soirs de spectacle : promenades du soir côté Mehrerau ou Oberstadt.`,
+        `Les chiens ne peuvent pas assister aux représentations de la Seebühne : réservez un pet-sitter (Pawshake, Rover) plusieurs jours à l'avance en saison de festival.`,
+        `Les lidos payants interdisent les chiens en saison : baignade sur la rive libre Pipeline vers Lochau ou au spot de l'ancien bac de Lochau.`,
+        `Le Pfänderbahn monte les chiens (petits gratuits, grands petit tarif) et la boucle du parc animalier au sommet accepte les chiens en laisse.`,
+      ],
+      en: [
+        `Leash AND muzzle are required on Austrian buses and trains (or a closed carrier for small dogs): always carry the muzzle, checks do happen.`,
+        `During the Bregenzer Festspiele (17 July to mid-August), the lakefront fills from 19:00 on performance nights: shift evening walks to Mehrerau or the Oberstadt.`,
+        `Dogs cannot attend Seebühne performances: book a pet sitter (Pawshake, Rover) several days ahead in festival season.`,
+        `The paying lidos ban dogs in season: swim along the free Pipeline shore towards Lochau or at the old Lochau ferry landing spot.`,
+        `The Pfänderbahn carries dogs up (small ones free, larger ones a small fare) and the summit wildlife-park loop accepts leashed dogs.`,
+      ],
+      es: [
+        `Correa Y bozal obligatorios en autobuses y trenes austriacos (o transportín cerrado para perros pequeños): lleva siempre el bozal, hay controles.`,
+        `Durante el Bregenzer Festspiele (17 de julio a mediados de agosto), la orilla se llena desde las 19:00 las noches de función: traslada los paseos vespertinos a Mehrerau o la Oberstadt.`,
+        `Los perros no pueden asistir a las funciones del Seebühne: reserva cuidador (Pawshake, Rover) con varios días de antelación en temporada de festival.`,
+        `Los lidos de pago prohíben perros en temporada: baño en la orilla libre Pipeline hacia Lochau o en el punto del antiguo embarcadero de Lochau.`,
+        `El Pfänderbahn sube perros (pequeños gratis, grandes pequeña tarifa) y el circuito del parque de fauna de la cima acepta perros con correa.`,
+      ],
+      pt: [
+        `Trela E açaime obrigatórios nos autocarros e comboios austríacos (ou caixa fechada para cães pequenos): leve sempre o açaime, há controlos.`,
+        `Durante o Bregenzer Festspiele (17 de julho a meados de agosto), a beira-lago enche a partir das 19h00 nas noites de espetáculo: mude os passeios noturnos para Mehrerau ou a Oberstadt.`,
+        `Os cães não podem assistir aos espetáculos da Seebühne: reserve um pet sitter (Pawshake, Rover) com vários dias de antecedência na época do festival.`,
+        `Os lidos pagos proíbem cães na época balnear: banhos na margem livre Pipeline para Lochau ou no ponto do antigo ferry de Lochau.`,
+        `O Pfänderbahn leva cães (pequenos grátis, maiores pequena tarifa) e o circuito do parque de fauna do cume aceita cães de trela.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Climat : préalpin humide, étés doux 19-20 degrés avec orages du soir, hivers froids et brumeux autour de 1-2 degrés, brouillard de lac fréquent en automne.`,
+        `Transport : Stadtbus et Landbus Vorarlberg (chiens muselés en laisse, petits en caisse gratuits), Pfänderbahn dog-friendly, S-Bahn transfrontalier vers Lindau.`,
+        `Arrivée : gare de Bregenz sur l'axe Zurich-Munich ; aéroports les plus proches Friedrichshafen (35 km), Zurich et Munich (environ 2h).`,
+        `Monnaie : euro ; la ville se traverse à pied en 30 minutes, la voiture est inutile en séjour.`,
+        `Urgence vétérinaire : Tierklinik Fürst (Holzackergasse 13, +43 5574 83500, urgence 24h/24 +43 664 9943 4064) ; cabinet Dr. Greißing (Am Steinenbach 7, +43 5574 54000) pour les soins courants.`,
+      ],
+      en: [
+        `Climate: humid pre-Alpine, mild summers of 19-20 degrees with evening storms, cold misty winters around 1-2 degrees, frequent lake fog in autumn.`,
+        `Transport: Stadtbus and Landbus Vorarlberg (dogs muzzled on leash, small ones in carriers free), the dog-friendly Pfänderbahn, cross-border S-Bahn to Lindau.`,
+        `Arrival: Bregenz station on the Zurich-Munich axis; nearest airports Friedrichshafen (35 km), Zurich and Munich (about 2h).`,
+        `Currency: euro; the town crosses on foot in 30 minutes, a car is unnecessary during the stay.`,
+        `Veterinary emergency: Tierklinik Fürst (Holzackergasse 13, +43 5574 83500, 24h emergency +43 664 9943 4064); Dr. Greißing's practice (Am Steinenbach 7, +43 5574 54000) for routine care.`,
+      ],
+      es: [
+        `Clima: prealpino húmedo, veranos suaves de 19-20 grados con tormentas vespertinas, inviernos fríos y brumosos en torno a 1-2 grados, niebla de lago frecuente en otoño.`,
+        `Transporte: Stadtbus y Landbus Vorarlberg (perros con bozal y correa, pequeños en transportín gratis), Pfänderbahn dog-friendly, S-Bahn transfronterizo a Lindau.`,
+        `Llegada: estación de Bregenz en el eje Zúrich-Múnich; aeropuertos más cercanos Friedrichshafen (35 km), Zúrich y Múnich (unas 2h).`,
+        `Moneda: euro; la ciudad se cruza a pie en 30 minutos, el coche sobra durante la estancia.`,
+        `Urgencia veterinaria: Tierklinik Fürst (Holzackergasse 13, +43 5574 83500, urgencias 24h +43 664 9943 4064); consulta Dr. Greißing (Am Steinenbach 7, +43 5574 54000) para cuidados rutinarios.`,
+      ],
+      pt: [
+        `Clima: pré-alpino húmido, verões amenos de 19-20 graus com trovoadas ao fim do dia, invernos frios e enevoados à volta de 1-2 graus, nevoeiro de lago frequente no outono.`,
+        `Transporte: Stadtbus e Landbus Vorarlberg (cães com açaime e trela, pequenos em caixa grátis), Pfänderbahn dog-friendly, S-Bahn transfronteiriço para Lindau.`,
+        `Chegada: estação de Bregenz no eixo Zurique-Munique; aeroportos mais próximos Friedrichshafen (35 km), Zurique e Munique (cerca de 2h).`,
+        `Moeda: euro; a cidade atravessa-se a pé em 30 minutos, o carro é desnecessário durante a estadia.`,
+        `Urgência veterinária: Tierklinik Fürst (Holzackergasse 13, +43 5574 83500, urgência 24h +43 664 9943 4064); consultório Dr. Greißing (Am Steinenbach 7, +43 5574 54000) para cuidados de rotina.`,
+      ],
+    },
+  },
+
   bremen: {
     history: {
       fr: `Brême, ancienne ville libre hanséatique, s'étend sur les deux rives de la Weser à 60 km em amont de la mer du Nord. Fondée vers 787 par Charlemagne comme évêché missionnaire, elle rejoint la Hanse en 1358 et devient au XVIIe siècle l'un des plus grands ports d'Allemagne, statut que sa voisine Bremerhaven (créée en 1827) prolonge encore aujourd'hui. La ville libre hanséatique de Brême forme avec Bremerhaven le plus petit Land allemand (environ 570 000 habitants intra-muros). L'amour des Brêmois pour les chiens transparaît dans leur emblème : la statue UNESCO des Stadtmusikanten devant l'Hôtel de Ville représente un âne, un chien, un chat et un coq d'après le conte des frères Grimm. Côté pratique, la ville combine la rigueur allemande (Anleinpflicht em ville hors des 13 zones canines clôturées, déclaration cantonale, taxe Hundesteuer) avec une culture quotidienne très tolérante : tram et bus BSAG admettent les chiens, la culture Stube hanséatique les accepte em salle toute l'année, et le Bürgerpark de 200 hectares offre l'un des espaces verts urbains les plus généreux d'Allemagne. Limites principales : restrictions Listenhunde strictes pour les races réglementées, et la Weser est un fleuve à marée, les chiens nageurs uniquement, et jamais dans le chenal de navigation.`,

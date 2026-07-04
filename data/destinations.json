@@ -26640,5 +26640,79 @@
         "icon": "❄️"
       }
     }
+  },
+  {
+    "slug": "bayreuth",
+    "name": "Bayreuth",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/bayreuth.jpg",
+    "intro": "Wagner's festival town is a green, walkable Franconian base for dog owners: margravial gardens where leashed dogs roam the Hofgarten and Eremitage follies, the Roter Main river park with official dog-waste stations, beer gardens that greet dogs with water bowls, and the Green Hill esplanade below the Festspielhaus. From 25 July the Wagner Festspiele fills the town, so book pet-friendly rooms months ahead.",
+    "lat": 49.9481,
+    "lng": 11.5783,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold & crisp",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Chilly, first sun",
+        "icon": "🌥️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Pleasant & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Warm & leafy",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm festival weather",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm & settled",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Cool & misty",
+        "icon": "🌥️"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Freezing & festive",
+        "icon": "❄️"
+      }
+    }
   }
 ]

@@ -2542,6 +2542,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bayreuth: {
+    history: {
+      fr: `Bayreuth doit son visage à une femme et à un compositeur. La margravine Wilhelmine, soeur de Frédéric le Grand, fit du bourg franconien un petit Versailles au XVIIIe siècle : Opéra des Margraves (1748), aujourd'hui classé UNESCO comme théâtre de cour le mieux conservé d'Europe, Nouveau Château, Hofgarten et parc de l'Eremitage avec ses grottes et jeux d'eau. Un siècle plus tard, Richard Wagner choisit la ville pour bâtir son Festspielhaus (1876) sur la Colline verte, où le festival Wagner attire chaque été depuis 150 ans les lyricomanes du monde entier à partir de fin juillet. Ville d'environ 75 000 habitants, Bayreuth reste à taille de chien : jardins des margraves en laisse (120 cm maximum), prairies de la Wilhelminenaue le long du Roter Main avec stations à déjections officielles, Biergarten accueillants et vieille ville piétonne. Réservez très en avance pendant le Festspiele, du 25 juillet à fin août.`,
+      en: `Bayreuth owes its face to a woman and a composer. Margravine Wilhelmine, sister of Frederick the Great, turned the Franconian town into a little Versailles in the 18th century: the Margravial Opera House (1748), now UNESCO-listed as Europe's best-preserved court theatre, the New Palace, the Hofgarten and the Eremitage park with its grottos and water games. A century later Richard Wagner chose the town for his Festspielhaus (1876) on the Green Hill, where the Wagner festival has drawn the world's opera faithful every summer for 150 years from late July. A city of around 75,000, Bayreuth stays dog-sized: margravial gardens on a leash (120 cm maximum), the Wilhelminenaue meadows along the Roter Main with official dog-waste stations, welcoming beer gardens and a pedestrian old town. Book far ahead during the Festspiele, from 25 July to the end of August.`,
+      es: `Bayreuth debe su rostro a una mujer y a un compositor. La margravina Wilhelmine, hermana de Federico el Grande, convirtió la villa francona en un pequeño Versalles en el siglo XVIII: la Ópera de los Margraves (1748), hoy UNESCO como el teatro cortesano mejor conservado de Europa, el Palacio Nuevo, el Hofgarten y el parque de la Eremitage con sus grutas y juegos de agua. Un siglo después, Richard Wagner eligió la ciudad para su Festspielhaus (1876) en la Colina Verde, donde el festival Wagner atrae cada verano desde hace 150 años a los fieles de la ópera de todo el mundo a partir de finales de julio. Ciudad de unos 75.000 habitantes, Bayreuth sigue siendo de tamaño canino: jardines de los margraves con correa (120 cm como máximo), praderas de la Wilhelminenaue junto al Roter Main con estaciones oficiales de bolsas, cervecerías al aire libre acogedoras y casco antiguo peatonal. Reserva con mucha antelación durante el Festspiele, del 25 de julio a finales de agosto.`,
+      pt: `Bayreuth deve o seu rosto a uma mulher e a um compositor. A margravina Wilhelmine, irmã de Frederico, o Grande, transformou a vila francónia num pequeno Versalhes no século XVIII: a Ópera dos Margraves (1748), hoje UNESCO como o teatro de corte mais bem conservado da Europa, o Palácio Novo, o Hofgarten e o parque da Eremitage com as suas grutas e jogos de água. Um século depois, Richard Wagner escolheu a cidade para o seu Festspielhaus (1876) na Colina Verde, onde o festival Wagner atrai cada verão há 150 anos os fiéis da ópera de todo o mundo a partir do final de julho. Cidade de cerca de 75.000 habitantes, Bayreuth mantém-se à escala do cão: jardins dos margraves de trela (120 cm no máximo), prados da Wilhelminenaue ao longo do Roter Main com estações oficiais de sacos, jardins de cerveja acolhedores e centro histórico pedonal. Reserve com muita antecedência durante o Festspiele, de 25 de julho ao fim de agosto.`,
+    },
+    sights: [
+      { name: 'Festspielhaus', emoji: '🎭', petFriendly: false, desc: {
+        fr: `Le théâtre du festival bâti par Wagner en 1876 sur la Colline verte. Chiens interdits en salle, mais le parc en terrasses sous la façade est une belle balade en laisse, spectaculaire les après-midis de représentation.`,
+        en: `Wagner's festival theatre of 1876 on the Green Hill. Dogs are barred from the hall, but the terraced park below the facade is a fine leashed walk, spectacular on performance afternoons.`,
+        es: `El teatro del festival construido por Wagner en 1876 en la Colina Verde. Perros vetados en la sala, pero el parque aterrazado bajo la fachada es un buen paseo con correa, espectacular las tardes de función.`,
+        pt: `O teatro do festival construído por Wagner em 1876 na Colina Verde. Cães interditos na sala, mas o parque em socalcos sob a fachada é um belo passeio de trela, espetacular nas tardes de espetáculo.`,
+      } },
+      { name: 'Markgräfliches Opernhaus', emoji: '🏛️', petFriendly: false, desc: {
+        fr: `L'opéra baroque de 1748, patrimoine mondial UNESCO, théâtre de cour le mieux conservé d'Europe. Les chiens restent dehors, la façade lance la boucle piétonne de la vieille ville.`,
+        en: `The 1748 baroque opera house, UNESCO World Heritage and Europe's best-preserved court theatre. Dogs stay outside; the facade launches the old-town pedestrian loop.`,
+        es: `La ópera barroca de 1748, Patrimonio Mundial y el teatro cortesano mejor conservado de Europa. Los perros se quedan fuera; la fachada inicia el circuito peatonal del casco antiguo.`,
+        pt: `A ópera barroca de 1748, Património Mundial e o teatro de corte mais bem conservado da Europa. Os cães ficam fora; a fachada inicia o circuito pedonal do centro histórico.`,
+      } },
+      { name: 'Hofgarten', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le jardin de cour derrière le Nouveau Château, canaux et îles aux cygnes, à côté de la villa Wahnfried de Wagner. Chiens admis en laisse de 120 cm maximum, règle des jardins bavarois.`,
+        en: `The court garden behind the New Palace, canals and swan islands, next to Wagner's Villa Wahnfried. Dogs admitted on a leash of 120 cm maximum, the Bavarian palace-garden rule.`,
+        es: `El jardín cortesano tras el Palacio Nuevo, canales e islas de cisnes, junto a la villa Wahnfried de Wagner. Perros admitidos con correa de 120 cm como máximo, la regla de los jardines bávaros.`,
+        pt: `O jardim de corte atrás do Palácio Novo, canais e ilhas de cisnes, junto à villa Wahnfried de Wagner. Cães admitidos com trela de 120 cm no máximo, a regra dos jardins bávaros.`,
+      } },
+      { name: 'Eremitage', emoji: '⛲', petFriendly: true, desc: {
+        fr: `Le parc de plaisance de Wilhelmine à 4 km du centre : grottes, temple du Soleil doré et jeux d'eau à heures fixes l'été. Boucles ombragées idéales en laisse (120 cm), Biergarten aux portes.`,
+        en: `Wilhelmine's pleasure park 4 km from the center: grottos, the gilded sun temple and water games at set hours in summer. Ideal shaded leash loops (120 cm), beer garden at the gates.`,
+        es: `El parque de recreo de Wilhelmine a 4 km del centro: grutas, el dorado templo del Sol y juegos de agua a horas fijas en verano. Ideales circuitos sombreados con correa (120 cm), Biergarten a las puertas.`,
+        pt: `O parque de recreio de Wilhelmine a 4 km do centro: grutas, o dourado templo do Sol e jogos de água a horas certas no verão. Ideais circuitos sombreados de trela (120 cm), Biergarten às portas.`,
+      } },
+      { name: 'Wilhelminenaue', emoji: '🐾', petFriendly: true, desc: {
+        fr: `Le grand parc fluvial du Roter Main, héritage de l'exposition horticole 2016, avec les stations à déjections officielles de la ville à ses entrées. L'espace le plus généreux de Bayreuth pour marcher un chien.`,
+        en: `The big Roter Main river park, legacy of the 2016 garden show, with the city's official dog-waste stations at its entrances. Bayreuth's most generous dog-walking space.`,
+        es: `El gran parque fluvial del Roter Main, herencia de la exposición de jardinería de 2016, con las estaciones oficiales de bolsas de la ciudad en sus entradas. El espacio más generoso de Bayreuth para pasear un perro.`,
+        pt: `O grande parque fluvial do Roter Main, herança da exposição de jardinagem de 2016, com as estações oficiais de sacos da cidade nas suas entradas. O espaço mais generoso de Bayreuth para passear um cão.`,
+      } },
+      { name: 'Liebesbier', emoji: '🍺', petFriendly: true, desc: {
+        fr: `Le vaisseau amiral craft de la brasserie Maisel : 21 becs, burgers au feu de bois et vaste extérieur où les chiens sont expressément bienvenus, gamelles fournies.`,
+        en: `The Maisel brewery's craft flagship: 21 taps, wood-fired burgers and a big outdoor area where dogs are expressly welcome, bowls provided.`,
+        es: `El buque insignia craft de la cervecería Maisel: 21 grifos, hamburguesas a la leña y gran zona exterior donde los perros son expresamente bienvenidos, cuencos incluidos.`,
+        pt: `O navio-almirante craft da cervejaria Maisel: 21 torneiras, hambúrgueres a lenha e grande zona exterior onde os cães são expressamente bem-vindos, taças fornecidas.`,
+      } },
+    ],
+    petTips: {
+      fr: [
+        `Festspiele de Wagner du 25 juillet à fin août : chambres pet-friendly à réserver des mois à l'avance, et un opéra dure 4 à 6 heures, prévoyez un pet-sitter (Pawshake, Rover) plutôt que la chambre d'hôtel.`,
+        `Laisse obligatoire dans tous les espaces verts municipaux ; 120 cm maximum dans les jardins des châteaux (Hofgarten, Eremitage).`,
+        `Bavière : races listées catégories 1 et 2 soumises à la Kampfhundeverordnung, vérifiez avant de voyager avec une race concernée.`,
+        `Les lacs de baignade régionaux sont stricts, Trebgast interdit les chiens toute l'année : visez la rive canine de l'Untreusee près de Hof.`,
+        `Dans les trains DB, muselière et laisse obligatoires pour les chiens hors caisse ; billet demi-tarif pour les grands chiens.`,
+      ],
+      en: [
+        `Wagner Festspiele from 25 July to late August: book pet-friendly rooms months ahead, and an opera runs 4 to 6 hours, so plan a pet sitter (Pawshake, Rover) rather than the hotel room.`,
+        `Leash compulsory in all municipal green areas; 120 cm maximum in the palace gardens (Hofgarten, Eremitage).`,
+        `Bavaria: listed category 1 and 2 breeds fall under the Kampfhundeverordnung, check before travelling with an affected breed.`,
+        `Regional bathing lakes are strict and Trebgast bans dogs year-round: aim for the Untreusee dog shore near Hof.`,
+        `On DB trains, muzzle and leash are required for dogs outside carriers; half-fare ticket for large dogs.`,
+      ],
+      es: [
+        `Festspiele de Wagner del 25 de julio a finales de agosto: reserva habitaciones pet-friendly con meses de antelación, y una ópera dura de 4 a 6 horas, así que planifica un cuidador (Pawshake, Rover) en vez de la habitación del hotel.`,
+        `Correa obligatoria en todas las zonas verdes municipales; 120 cm como máximo en los jardines palaciegos (Hofgarten, Eremitage).`,
+        `Baviera: las razas listadas de categorías 1 y 2 caen bajo la Kampfhundeverordnung, compruébalo antes de viajar con una raza afectada.`,
+        `Los lagos de baño regionales son estrictos y Trebgast prohíbe los perros todo el año: apunta a la orilla canina del Untreusee cerca de Hof.`,
+        `En los trenes DB, bozal y correa obligatorios para perros fuera de transportín; billete a mitad de precio para perros grandes.`,
+      ],
+      pt: [
+        `Festspiele de Wagner de 25 de julho ao fim de agosto: reserve quartos pet-friendly com meses de antecedência, e uma ópera dura 4 a 6 horas, por isso planeie um pet sitter (Pawshake, Rover) em vez do quarto de hotel.`,
+        `Trela obrigatória em todas as zonas verdes municipais; 120 cm no máximo nos jardins palacianos (Hofgarten, Eremitage).`,
+        `Baviera: as raças listadas de categorias 1 e 2 caem sob a Kampfhundeverordnung, verifique antes de viajar com uma raça abrangida.`,
+        `Os lagos de banhos regionais são rigorosos e Trebgast proíbe cães todo o ano: aponte à margem canina do Untreusee perto de Hof.`,
+        `Nos comboios DB, açaime e trela obrigatórios para cães fora de caixa; bilhete a meio preço para cães grandes.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Climat : continental d'altitude (340 m), étés doux autour de 18 degrés en juillet, hivers froids et neigeux autour de -1 à 0 degré.`,
+        `Transport : bus Stadtwerke Bayreuth (petits chiens gratuits, grands à tarif réduit), ligne 302 vers l'Eremitage ; trains DB vers Nuremberg en 1h.`,
+        `Arrivée : gare de Bayreuth via Nuremberg ; aéroport de Nuremberg à 90 km.`,
+        `Monnaie : euro ; la vieille ville est piétonne, la Colline verte à 20 minutes à pied de la gare.`,
+        `Urgence vétérinaire : pas de clinique 24h/24 en Haute-Franconie, garde tournante (Ringnotdienst) ; Tierklinik Eckersdorf (+49 921 73760), Fachzentrum Spitzwegstraße 55 (+49 921 78778880), mobile hors horaires cabinet Willner (+49 171 5224541) ; urgences européennes 112.`,
+      ],
+      en: [
+        `Climate: upland continental (340 m), mild summers around 18 degrees in July, cold snowy winters around -1 to 0 degrees.`,
+        `Transport: Stadtwerke Bayreuth buses (small dogs free, larger at reduced fare), line 302 to the Eremitage; DB trains to Nuremberg in 1h.`,
+        `Arrival: Bayreuth station via Nuremberg; Nuremberg airport 90 km away.`,
+        `Currency: euro; the old town is pedestrian and the Green Hill a 20-minute walk from the station.`,
+        `Veterinary emergency: no 24h clinic in Upper Franconia, rotating on-call rota (Ringnotdienst); Tierklinik Eckersdorf (+49 921 73760), Fachzentrum Spitzwegstraße 55 (+49 921 78778880), Willner practice out-of-hours mobile (+49 171 5224541); EU emergency number 112.`,
+      ],
+      es: [
+        `Clima: continental de altiplano (340 m), veranos suaves de unos 18 grados en julio, inviernos fríos y nevados de -1 a 0 grados.`,
+        `Transporte: autobuses Stadtwerke Bayreuth (perros pequeños gratis, grandes a tarifa reducida), línea 302 a la Eremitage; trenes DB a Núremberg en 1h.`,
+        `Llegada: estación de Bayreuth vía Núremberg; aeropuerto de Núremberg a 90 km.`,
+        `Moneda: euro; el casco antiguo es peatonal y la Colina Verde queda a 20 minutos a pie de la estación.`,
+        `Urgencia veterinaria: sin clínica 24h en la Alta Franconia, guardia rotatoria (Ringnotdienst); Tierklinik Eckersdorf (+49 921 73760), Fachzentrum Spitzwegstraße 55 (+49 921 78778880), móvil fuera de horario de la consulta Willner (+49 171 5224541); emergencias europeas 112.`,
+      ],
+      pt: [
+        `Clima: continental de planalto (340 m), verões amenos de cerca de 18 graus em julho, invernos frios e com neve de -1 a 0 graus.`,
+        `Transporte: autocarros Stadtwerke Bayreuth (cães pequenos grátis, maiores a tarifa reduzida), linha 302 para a Eremitage; comboios DB para Nuremberga em 1h.`,
+        `Chegada: estação de Bayreuth via Nuremberga; aeroporto de Nuremberga a 90 km.`,
+        `Moeda: euro; o centro histórico é pedonal e a Colina Verde fica a 20 minutos a pé da estação.`,
+        `Urgência veterinária: sem clínica 24h na Alta Francónia, escala rotativa (Ringnotdienst); Tierklinik Eckersdorf (+49 921 73760), Fachzentrum Spitzwegstraße 55 (+49 921 78778880), móvel fora de horas do consultório Willner (+49 171 5224541); emergências europeias 112.`,
+      ],
+    },
+  },
+
   belfast: {
     history: {
       fr: `Belfast s'est développée sur la rivière Lagan à partir d'un petit château normand du XIIᵉ siècle, mais c'est la révolution industrielle du XIXᵉ qui a fait d'elle l'une des plus grandes villes industrielles de l'Empire britannique : linen capital of the world, et plus encore, capitale mondiale de la construction navale, le RMS Titanic ayant été lancé depuis le Harland & Wolff shipyard en 1911. Les Troubles (1968-1998) ont divisé la ville selon des lignes communautaires dont les fresques de Falls Road et Shankill Road conservent la mémoire. Depuis l'Accord du Vendredi saint (1998), Belfast s'est radicalement transformée : Cathedral Quarter revitalisé, Titanic Quarter en front d'eau, Maritime Mile balisée, et l'une des cultures pub les plus dog-friendly des îles Britanniques. La géographie est généreuse : Cave Hill et ses 300 hectares de nature sauvage rejoignent presque la ville par le nord, le Lagan offre 18 km de chemin de halage plat jusqu'à Lisburn, et la côte est du comté de Down (plages sans interdiction estivale) est à 20 minutes en train. Particularité post-Brexit unique : sous le Windsor Framework, l'Irlande du Nord reconnaît les passeports européens pour les chiens voyageant vers/depuis l'UE, contrairement au reste du Royaume-Uni.`,

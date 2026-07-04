@@ -31,6 +31,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Cooling off with your dog at the official El Bobar dog beach, then watching the sun set over the Alcazaba's floodlit walls.`,
       area: `Base yourself in the walkable old town near the Cathedral, or out at El Toyo and Retamar for direct beach access on the edge of Cabo de Gata.`,
     },
+    bayreuth: {
+      personality: 'Wagner’s green festival town in the heart of Franconia',
+      highlight: 'the Hofgarten canals, the Eremitage park follies, and the Wilhelminenaue river meadows',
+      area: 'the old town, the Green Hill, and the Roter Main valley',
+    },
     ravenna: {
       personality: `Ravenna is a flat, unhurried mosaic city where a leashed dog fits naturally into pedestrian piazzas, pinewood trails and the easygoing rhythm of the Adriatic coast.`,
       highlight: `Pair a morning of Byzantine mosaics, visited in turns, with an afternoon dog-walk through the Pineta di San Vitale and a swim at a Marina di Ravenna dog beach.`,
@@ -1804,6 +1809,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Rafraîchir son chien à la plage canine officielle d'El Bobar, puis regarder le soleil se coucher sur les remparts illuminés de l'Alcazaba.`,
       area: `Installez-vous dans la vieille ville piétonne près de la cathédrale, ou à El Toyo et Retamar pour un accès direct à la plage en lisière de Cabo de Gata.`,
     },
+    bayreuth: {
+      personality: 'la verte ville-festival de Wagner au coeur de la Franconie',
+      highlight: 'les canaux du Hofgarten, les fabriques du parc de l’Eremitage et les prairies de la Wilhelminenaue',
+      area: 'la vieille ville, la Colline verte et la vallée du Roter Main',
+    },
     ravenna: {
       personality: `Ravenne est une ville de mosaïques plate et sans hâte, où un chien en laisse trouve naturellement sa place sur les places piétonnes, les sentiers des pinèdes et le rythme nonchalant de la côte adriatique.`,
       highlight: `Associez une matinée de mosaïques byzantines, visitées en relais, à une promenade canine dans la Pineta di San Vitale et à une baignade sur une plage pour chiens de Marina di Ravenna.`,
@@ -3576,6 +3586,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Refrescar a tu perro en la playa canina oficial de El Bobar y luego ver ponerse el sol sobre las murallas iluminadas de la Alcazaba.`,
       area: `Alójate en el casco antiguo peatonal cerca de la Catedral, o en El Toyo y Retamar para acceso directo a la playa al borde de Cabo de Gata.`,
     },
+    bayreuth: {
+      personality: 'la verde ciudad-festival de Wagner en el corazón de Franconia',
+      highlight: 'los canales del Hofgarten, los caprichos del parque de la Eremitage y las praderas de la Wilhelminenaue',
+      area: 'el casco antiguo, la Colina Verde y el valle del Roter Main',
+    },
     ravenna: {
       personality: `Rávena es una ciudad de mosaicos llana y sin prisas, donde un perro con correa encaja con naturalidad en las plazas peatonales, los senderos de los pinares y el ritmo relajado de la costa adriática.`,
       highlight: `Combina una mañana de mosaicos bizantinos, visitados por turnos, con un paseo canino por la Pineta di San Vitale y un baño en una playa para perros de Marina di Ravenna.`,
@@ -5347,6 +5362,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `Banhada de sol, descontraída e deliciosamente pouco massificada, Almería recompensa os donos que se organizam em torno do calor com praias vazias e amplos horizontes de deserto.`,
       highlight: `Refrescar o seu cão na praia canina oficial de El Bobar e depois ver o sol pôr-se sobre as muralhas iluminadas da Alcazaba.`,
       area: `Fique-se pelo centro histórico pedonal junto à Catedral, ou em El Toyo e Retamar para acesso direto à praia na orla de Cabo de Gata.`,
+    },
+    bayreuth: {
+      personality: 'a verde cidade-festival de Wagner no coração da Francónia',
+      highlight: 'os canais do Hofgarten, os caprichos do parque da Eremitage e os prados da Wilhelminenaue',
+      area: 'o centro histórico, a Colina Verde e o vale do Roter Main',
     },
     ravenna: {
       personality: `Ravena é uma cidade de mosaicos plana e sem pressa, onde um cão com trela se encaixa naturalmente nas praças pedonais, nos trilhos dos pinhais e no ritmo descontraído da costa adriática.`,

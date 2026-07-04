@@ -50413,5 +50413,199 @@
       "Non-smoking rooms"
     ],
     "slug": "herbarium-boutique-hotel"
+  },
+  {
+    "id": "bayreuth-1",
+    "name": "Villa Johner",
+    "destinationSlug": "bayreuth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 12,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/villa-johner.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Kreuz 14, 95445 Bayreuth, GermanyExcellent location — rated 9.5/10!(score from 12 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms",
+      "Family rooms"
+    ],
+    "slug": "villa-johner"
+  },
+  {
+    "id": "bayreuth-2",
+    "name": "Hotel Bayerischer Hof",
+    "destinationSlug": "bayreuth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.2,
+    "reviewCount": 3174,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/bayerischer-hof-bayreuth.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Great location - show map",
+    "highlights": [
+      "Parking on site",
+      "Spa & wellness centre",
+      "Free WiFi"
+    ],
+    "slug": "hotel-bayerischer-hof"
+  },
+  {
+    "id": "bayreuth-3",
+    "name": "Hotel Rheingold",
+    "destinationSlug": "bayreuth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.1,
+    "reviewCount": 2361,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/rheingold-bayreuth.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Austrasse 2, 95445 Bayreuth, GermanyExcellent location — rated 9/10!(score from 2318 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Restaurant"
+    ],
+    "slug": "hotel-rheingold"
+  },
+  {
+    "id": "bayreuth-4",
+    "name": "Ferienwohnungen im Herzen der Stadt",
+    "destinationSlug": "bayreuth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 53,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/ferienwohnungen-im-herzen-der-stadt.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "15 Kämmereigasse, 95444 Bayreuth, GermanyExcellent location — rated 9.8/10!(score from 53 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "ferienwohnungen-im-herzen-der-stadt"
+  },
+  {
+    "id": "bayreuth-5",
+    "name": "ARVENA Kongress Hotel - Hotel in der Wagnerstadt",
+    "destinationSlug": "bayreuth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.2,
+    "reviewCount": 2710,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/arvena-kongress.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Great location - show map",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Restaurant"
+    ],
+    "slug": "arvena-kongress-hotel-hotel-in-der-wagnerstadt"
+  },
+  {
+    "id": "bayreuth-6",
+    "name": "Hotel Goldener Anker",
+    "destinationSlug": "bayreuth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 394,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/goldener-anker-bayreuth.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "hotel-goldener-anker"
+  },
+  {
+    "id": "bayreuth-7",
+    "name": "H4 Hotel Residenzschloss Bayreuth",
+    "destinationSlug": "bayreuth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 4231,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/h4-hotel-treffresizenzschloss.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Great location - show map",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "h4-hotel-residenzschloss-bayreuth"
+  },
+  {
+    "id": "bayreuth-8",
+    "name": "Gemütliches helles Apartment mit Balkon und Parkplatz vor der Tür im Zentrum von Bayreuth",
+    "destinationSlug": "bayreuth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 112,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/gemutliches-helles-apartment-im-zentrum-von-bayreuth.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "20 Wölfelstraße, 95444 Bayreuth, GermanyExcellent location — rated 9.8/10!(score from 110 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "gemutliches-helles-apartment-mit-balkon-und-parkplatz-vor-der-tur-im-zentrum-von-bayreuth"
   }
 ]

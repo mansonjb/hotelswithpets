@@ -1,0 +1,575 @@
+{
+  "slug": "bayreuth",
+  "name": "Bayreuth",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "lastUpdated": "2026-07-04",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Bayreuth",
+      "titleFr": "Restaurants dog-friendly à Bayreuth",
+      "titleEs": "Restaurantes dog-friendly en Bayreuth",
+      "titlePt": "Restaurantes dog-friendly em Bayreuth",
+      "introEn": "Franconian beer-garden culture makes Bayreuth easy: dogs are welcome guests in most Biergärten, often greeted with a water bowl, and local guides name Liebesbier, Wirtshaus Oskar and the Lohmühle among the dog-friendliest tables in town. Indoors, ask first, especially during the Festspiele rush.",
+      "introFr": "La culture franconienne des Biergarten simplifie tout à Bayreuth : les chiens sont bienvenus dans la plupart des jardins à bière, souvent accueillis avec une gamelle d'eau, et les guides locaux citent Liebesbier, Wirtshaus Oskar et la Lohmühle parmi les tables les plus dog-friendly de la ville. En salle, demandez d'abord, surtout pendant l'affluence du Festspiele.",
+      "introEs": "La cultura francona de los Biergarten lo hace fácil en Bayreuth: los perros son bienvenidos en la mayoría de las cervecerías al aire libre, a menudo recibidos con cuenco de agua, y las guías locales citan Liebesbier, Wirtshaus Oskar y la Lohmühle entre las mesas más dog-friendly de la ciudad. En interiores, pregunta primero, sobre todo durante la avalancha del Festspiele.",
+      "introPt": "A cultura francónia dos Biergarten facilita tudo em Bayreuth: os cães são bem-vindos na maioria dos jardins de cerveja, muitas vezes recebidos com taça de água, e os guias locais citam o Liebesbier, o Wirtshaus Oskar e a Lohmühle entre as mesas mais dog-friendly da cidade. No interior, pergunte primeiro, sobretudo durante a azáfama do Festspiele.",
+      "places": [
+        {
+          "name": "Liebesbier",
+          "address": "Andreas-Maisel-Weg 1, 95445 Bayreuth",
+          "neighborhood": "Maisel brewery quarter",
+          "photo": "/images/city-places/bayreuth-restaurants-liebesbier.jpg",
+          "website": "https://www.liebesbier.de",
+          "description": "The craft-beer flagship of the Maisel brewery family, with 21 taps, wood-fired burgers and a generous outdoor area where dogs are expressly welcome. Local dog-travel guides single it out as Bayreuth's ideal stop for owners.",
+          "descriptionFr": "Le vaisseau amiral craft de la famille brassicole Maisel : 21 becs, burgers au feu de bois et un vaste espace extérieur où les chiens sont expressément bienvenus. Les guides locaux de voyage canin le citent comme l'étape idéale de Bayreuth pour les maîtres.",
+          "descriptionEs": "El buque insignia craft de la familia cervecera Maisel: 21 grifos, hamburguesas a la leña y una generosa zona exterior donde los perros son expresamente bienvenidos. Las guías locales de viajes con perro lo señalan como la parada ideal de Bayreuth para los dueños.",
+          "descriptionPt": "O navio-almirante craft da família cervejeira Maisel: 21 torneiras, hambúrgueres a lenha e uma generosa zona exterior onde os cães são expressamente bem-vindos. Os guias locais de viagens com cão apontam-no como a paragem ideal de Bayreuth para os donos.",
+          "petPolicy": "Dogs welcome in the outdoor area; water bowls provided",
+          "petPolicyFr": "Chiens bienvenus en extérieur ; gamelles d'eau fournies",
+          "petPolicyEs": "Perros bienvenidos en el exterior; cuencos de agua disponibles",
+          "petPolicyPt": "Cães bem-vindos no exterior; taças de água disponíveis",
+          "priceRange": "€€",
+          "mustTry": "Maisel & Friends Pale Ale with a smoked burger",
+          "mustTryFr": "Pale ale Maisel & Friends avec un burger fumé",
+          "mustTryEs": "Pale ale de Maisel & Friends con hamburguesa ahumada",
+          "mustTryPt": "Pale ale Maisel & Friends com hambúrguer fumado",
+          "openingHours": "Daily from late morning to late evening",
+          "tip": "Combine with the brewery museum courtyard next door; the whole Maisel campus is relaxed about leashed dogs outdoors.",
+          "tipFr": "Combinez avec la cour du musée de la brasserie attenant ; tout le campus Maisel est détendu avec les chiens en laisse dehors.",
+          "tipEs": "Combínalo con el patio del museo cervecero contiguo; todo el campus Maisel es relajado con los perros atados al aire libre.",
+          "tipPt": "Combine com o pátio do museu da cervejaria ao lado; todo o campus Maisel é descontraído com cães de trela ao ar livre.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Liebesbier+Bayreuth"
+        },
+        {
+          "name": "Wirtshaus Oskar",
+          "address": "Maximilianstraße 33, 95444 Bayreuth",
+          "neighborhood": "Market square, pedestrian zone",
+          "photo": "/images/city-places/bayreuth-restaurants-wirtshaus-oskar.jpg",
+          "website": "",
+          "description": "The big Franconian Wirtshaus in the old town hall on the market square, with a winter-garden hall and terrace tables on the pedestrian boulevard. Named among dog-friendly Bayreuth addresses by regional guides; dumplings, roasts and wheat beer are the program.",
+          "descriptionFr": "La grande Wirtshaus franconienne de l'ancien hôtel de ville sur la place du marché, avec halle-jardin d'hiver et terrasse sur le boulevard piéton. Citée parmi les adresses dog-friendly de Bayreuth par les guides régionaux ; quenelles, rôtis et bière blanche au programme.",
+          "descriptionEs": "La gran Wirtshaus francona del antiguo ayuntamiento en la plaza del mercado, con salón-invernadero y terraza en el bulevar peatonal. Citada entre las direcciones dog-friendly de Bayreuth por las guías regionales; knödel, asados y cerveza de trigo en el programa.",
+          "descriptionPt": "A grande Wirtshaus francónia da antiga câmara na praça do mercado, com salão-jardim de inverno e esplanada no bulevar pedonal. Citada entre as moradas dog-friendly de Bayreuth pelos guias regionais; knödel, assados e cerveja de trigo no programa.",
+          "petPolicy": "Dogs accepted; terrace preferred at peak hours",
+          "petPolicyFr": "Chiens acceptés ; terrasse à privilégier aux heures de pointe",
+          "petPolicyEs": "Perros aceptados; terraza preferible en horas punta",
+          "petPolicyPt": "Cães aceites; esplanada preferível nas horas de ponta",
+          "priceRange": "€€",
+          "mustTry": "Schäufele with potato dumplings",
+          "mustTryFr": "Schäufele et quenelles de pommes de terre",
+          "mustTryEs": "Schäufele con knödel de patata",
+          "mustTryPt": "Schäufele com knödel de batata",
+          "openingHours": "Daily, breakfast through dinner",
+          "tip": "During the Festspiele the terrace fills with opera-goers pre-show around 15:00; earlier lunches are calmer with a dog.",
+          "tipFr": "Pendant le Festspiele, la terrasse se remplit de festivaliers vers 15h avant les représentations ; les déjeuners plus tôt sont plus calmes avec un chien.",
+          "tipEs": "Durante el Festspiele la terraza se llena de público de ópera hacia las 15:00 antes de la función; comer temprano es más tranquilo con perro.",
+          "tipPt": "Durante o Festspiele a esplanada enche-se de público da ópera por volta das 15h00 antes do espetáculo; almoçar mais cedo é mais calmo com cão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Wirtshaus+Oskar+Bayreuth"
+        },
+        {
+          "name": "Restaurant Lohmühle",
+          "address": "Badstraße 37, 95444 Bayreuth",
+          "neighborhood": "By the Mühlkanal, edge of the old town",
+          "photo": "/images/city-places/bayreuth-restaurants-lohmuhle.jpg",
+          "website": "https://www.hotel-lohmuehle.de",
+          "description": "A half-timbered mill-hotel restaurant beside the old mill channel, serving Franconian fish and game with a waterside terrace. Regional dog-travel listings count it among Bayreuth's dog-friendly restaurants, and the canal path outside makes a handy pre-dinner walk.",
+          "descriptionFr": "Un restaurant-hôtel à colombages près de l'ancien canal du moulin : poissons et gibiers franconiens et terrasse au bord de l'eau. Les listings régionaux de voyage canin le comptent parmi les restaurants dog-friendly de Bayreuth, et le chemin du canal offre la balade d'avant-dîner.",
+          "descriptionEs": "Un restaurante-hotel de entramado junto al antiguo canal del molino: pescado y caza francones y terraza junto al agua. Los listados regionales de viajes con perro lo cuentan entre los restaurantes dog-friendly de Bayreuth, y el camino del canal ofrece el paseo previo a la cena.",
+          "descriptionPt": "Um restaurante-hotel de enxaimel junto ao antigo canal do moinho: peixe e caça francónios e esplanada à beira de água. As listas regionais de viagens com cão contam-no entre os restaurantes dog-friendly de Bayreuth, e o caminho do canal dá o passeio antes do jantar.",
+          "petPolicy": "Dogs accepted in the restaurant and hotel",
+          "petPolicyFr": "Chiens acceptés au restaurant et à l'hôtel",
+          "petPolicyEs": "Perros aceptados en el restaurante y el hotel",
+          "petPolicyPt": "Cães aceites no restaurante e no hotel",
+          "priceRange": "€€€",
+          "mustTry": "Franconian carp in beer batter, in season",
+          "mustTryFr": "Carpe franconienne en pâte à la bière, en saison",
+          "mustTryEs": "Carpa francona en tempura de cerveza, en temporada",
+          "mustTryPt": "Carpa francónia em polme de cerveja, na época",
+          "openingHours": "Lunch and dinner; check seasonal closing days",
+          "tip": "Book for Festspiele evenings weeks ahead; the terrace by the water stays cooler for dogs on hot July nights.",
+          "tipFr": "Réservez les soirs de Festspiele des semaines à l'avance ; la terrasse au bord de l'eau reste plus fraîche pour les chiens les nuits chaudes de juillet.",
+          "tipEs": "Reserva las noches de Festspiele con semanas de antelación; la terraza junto al agua es más fresca para los perros en las noches calurosas de julio.",
+          "tipPt": "Reserve as noites de Festspiele com semanas de antecedência; a esplanada junto à água fica mais fresca para os cães nas noites quentes de julho.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Lohm%C3%BChle+Bayreuth"
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Parks & Walks for Dogs in Bayreuth",
+      "titleFr": "Parcs et balades pour chiens à Bayreuth",
+      "titleEs": "Parques y paseos para perros en Bayreuth",
+      "titlePt": "Parques e passeios para cães em Bayreuth",
+      "introEn": "Bayreuth is ringed by margravial gardens and modern river parks. Two rules frame every walk: in the Bavarian palace gardens (Hofgarten, Eremitage) dogs go on a leash of maximum 120 cm, and the city ordinance requires leashes in all municipal green areas, with dog-waste stations at the Röhrensee and Wilhelminenaue entrances.",
+      "introFr": "Bayreuth est ceinte de jardins margraviaux et de parcs fluviaux modernes. Deux règles encadrent chaque balade : dans les jardins des châteaux bavarois (Hofgarten, Eremitage), les chiens vont en laisse de 120 cm maximum, et l'arrêté municipal impose la laisse dans tous les espaces verts de la ville, avec stations à déjections aux entrées du Röhrensee et de la Wilhelminenaue.",
+      "introEs": "Bayreuth está rodeada de jardines de los margraves y parques fluviales modernos. Dos reglas enmarcan cada paseo: en los jardines palaciegos bávaros (Hofgarten, Eremitage) los perros van con correa de 120 cm como máximo, y la ordenanza municipal exige correa en todas las zonas verdes de la ciudad, con estaciones de bolsas en las entradas del Röhrensee y la Wilhelminenaue.",
+      "introPt": "Bayreuth está rodeada de jardins dos margraves e parques fluviais modernos. Duas regras enquadram cada passeio: nos jardins palacianos bávaros (Hofgarten, Eremitage) os cães vão de trela com 120 cm no máximo, e a postura municipal exige trela em todas as zonas verdes da cidade, com estações de sacos nas entradas do Röhrensee e da Wilhelminenaue.",
+      "places": [
+        {
+          "name": "Hofgarten",
+          "address": "Ludwigstraße 21, 95444 Bayreuth",
+          "neighborhood": "Behind the New Palace, city center",
+          "photo": "/images/city-places/bayreuth-parks-hofgarten.jpg",
+          "size": "Court garden of the New Palace",
+          "description": "The margraves' informal English-style court garden behind the New Palace, with canals, swan islands and centuries-old avenues starting a minute from Wagner's Villa Wahnfried. The palace administration admits dogs on a tear-resistant leash of 120 cm maximum.",
+          "descriptionFr": "Le jardin de cour à l'anglaise des margraves derrière le Nouveau Château : canaux, îles aux cygnes et allées centenaires à une minute de la villa Wahnfried de Wagner. L'administration des châteaux admet les chiens en laisse résistante de 120 cm maximum.",
+          "descriptionEs": "El jardín cortesano de estilo inglés de los margraves tras el Palacio Nuevo: canales, islas de cisnes y avenidas centenarias a un minuto de la villa Wahnfried de Wagner. La administración de palacios admite perros con correa resistente de 120 cm como máximo.",
+          "descriptionPt": "O jardim de corte de estilo inglês dos margraves atrás do Palácio Novo: canais, ilhas de cisnes e alamedas centenárias a um minuto da villa Wahnfried de Wagner. A administração dos palácios admite cães com trela resistente de 120 cm no máximo.",
+          "features": [
+            "Canals and swan islands",
+            "Old avenues",
+            "Next to Villa Wahnfried",
+            "Free entry"
+          ],
+          "featuresFr": [
+            "Canaux et îles aux cygnes",
+            "Vieilles allées",
+            "Près de la villa Wahnfried",
+            "Entrée libre"
+          ],
+          "featuresEs": [
+            "Canales e islas de cisnes",
+            "Avenidas antiguas",
+            "Junto a la villa Wahnfried",
+            "Entrada libre"
+          ],
+          "featuresPt": [
+            "Canais e ilhas de cisnes",
+            "Alamedas antigas",
+            "Junto à villa Wahnfried",
+            "Entrada livre"
+          ],
+          "leashRules": "Leash of maximum 120 cm required (palace garden regulation); keep dogs away from waterfowl",
+          "leashRulesFr": "Laisse de 120 cm maximum obligatoire (règlement des jardins) ; tenez les chiens loin des oiseaux d'eau",
+          "leashRulesEs": "Correa de máximo 120 cm obligatoria (reglamento del jardín); mantén al perro lejos de las aves acuáticas",
+          "leashRulesPt": "Trela de 120 cm no máximo obrigatória (regulamento do jardim); mantenha o cão longe das aves aquáticas",
+          "bestTimeToVisit": "Early morning, before the Wahnfried museum visitors arrive",
+          "bestTimeToVisitFr": "Tôt le matin, avant l'arrivée des visiteurs du musée Wahnfried",
+          "bestTimeToVisitEs": "A primera hora, antes de que lleguen los visitantes del museo Wahnfried",
+          "bestTimeToVisitPt": "De manhã cedo, antes de chegarem os visitantes do museu Wahnfried",
+          "googleMapsUrl": "https://www.google.com/maps/search/Hofgarten+Bayreuth"
+        },
+        {
+          "name": "Eremitage",
+          "address": "Eremitage 4, 95448 Bayreuth",
+          "neighborhood": "4 km east of the center",
+          "photo": "/images/city-places/bayreuth-parks-eremitage.jpg",
+          "size": "Historic park of about 50 hectares",
+          "description": "Margravine Wilhelmine's pleasure park of grottos, water games and the sun-temple crescent of the New Palace, spread over rolling lawns above the Roter Main. The 120 cm leash rule of the Bavarian palace gardens applies, and the long shaded avenues are made for slow exploring.",
+          "descriptionFr": "Le parc de plaisance de la margravine Wilhelmine : grottes, jeux d'eau et le croissant du temple du Soleil du Nouveau Palais, déployés sur des pelouses vallonnées au-dessus du Roter Main. La règle des 120 cm de laisse des jardins bavarois s'applique, et les longues allées ombragées invitent à l'exploration lente.",
+          "descriptionEs": "El parque de recreo de la margravina Wilhelmine: grutas, juegos de agua y la media luna del templo del Sol del Palacio Nuevo, desplegados sobre céspedes ondulados sobre el Roter Main. Rige la regla de correa de 120 cm de los jardines bávaros, y las largas avenidas sombreadas invitan a explorar despacio.",
+          "descriptionPt": "O parque de recreio da margravina Wilhelmine: grutas, jogos de água e o crescente do templo do Sol do Palácio Novo, estendidos sobre relvados ondulados acima do Roter Main. Aplica-se a regra de trela de 120 cm dos jardins bávaros, e as longas alamedas sombreadas convidam a explorar devagar.",
+          "features": [
+            "Water games and grottos",
+            "Sun temple",
+            "Shaded avenues",
+            "Beer garden at the gates"
+          ],
+          "featuresFr": [
+            "Jeux d'eau et grottes",
+            "Temple du Soleil",
+            "Allées ombragées",
+            "Biergarten aux portes"
+          ],
+          "featuresEs": [
+            "Juegos de agua y grutas",
+            "Templo del Sol",
+            "Avenidas sombreadas",
+            "Biergarten a las puertas"
+          ],
+          "featuresPt": [
+            "Jogos de água e grutas",
+            "Templo do Sol",
+            "Alamedas sombreadas",
+            "Biergarten às portas"
+          ],
+          "leashRules": "Leash of maximum 120 cm required under the park regulation",
+          "leashRulesFr": "Laisse de 120 cm maximum imposée par le règlement du parc",
+          "leashRulesEs": "Correa de máximo 120 cm exigida por el reglamento del parque",
+          "leashRulesPt": "Trela de 120 cm no máximo exigida pelo regulamento do parque",
+          "bestTimeToVisit": "Water games run at set hours in summer; late afternoon is quietest",
+          "bestTimeToVisitFr": "Les jeux d'eau fonctionnent à heures fixes en été ; la fin d'après-midi est la plus calme",
+          "bestTimeToVisitEs": "Los juegos de agua funcionan a horas fijas en verano; el final de la tarde es lo más tranquilo",
+          "bestTimeToVisitPt": "Os jogos de água funcionam a horas certas no verão; o fim da tarde é o mais calmo",
+          "googleMapsUrl": "https://www.google.com/maps/search/Eremitage+Bayreuth"
+        },
+        {
+          "name": "Wilhelminenaue",
+          "address": "An der Wilhelminenaue, 95448 Bayreuth",
+          "neighborhood": "Roter Main valley, east of the center",
+          "photo": "/images/city-places/bayreuth-parks-wilhelminenaue.jpg",
+          "size": "Riverside park from the 2016 garden show",
+          "description": "Bayreuth's newest big park, laid out along the Roter Main for the 2016 state garden show, with wide meadows, river loops and the city's official dog-waste stations at its entrances. The most generous space in town for long leashed walks.",
+          "descriptionFr": "Le plus récent grand parc de Bayreuth, aménagé le long du Roter Main pour l'exposition horticole de 2016 : vastes prairies, boucles au bord de la rivière et stations à déjections officielles de la ville à ses entrées. L'espace le plus généreux de la ville pour de longues balades en laisse.",
+          "descriptionEs": "El parque grande más nuevo de Bayreuth, trazado junto al Roter Main para la exposición de jardinería de 2016: amplias praderas, circuitos junto al río y las estaciones oficiales de bolsas de la ciudad en sus entradas. El espacio más generoso de la ciudad para largos paseos con correa.",
+          "descriptionPt": "O mais recente grande parque de Bayreuth, traçado ao longo do Roter Main para a exposição de jardinagem de 2016: amplos prados, circuitos junto ao rio e as estações oficiais de sacos da cidade nas suas entradas. O espaço mais generoso da cidade para longos passeios de trela.",
+          "features": [
+            "River meadows",
+            "Dog-waste stations",
+            "Wide gravel loops",
+            "Connects to the Main cycle path"
+          ],
+          "featuresFr": [
+            "Prairies fluviales",
+            "Stations à déjections",
+            "Larges boucles de gravier",
+            "Relié à la piste cyclable du Main"
+          ],
+          "featuresEs": [
+            "Praderas fluviales",
+            "Estaciones de bolsas",
+            "Amplios circuitos de grava",
+            "Conecta con el carril bici del Main"
+          ],
+          "featuresPt": [
+            "Prados fluviais",
+            "Estações de sacos",
+            "Amplos circuitos de gravilha",
+            "Liga à ciclovia do Main"
+          ],
+          "leashRules": "Leash required in the municipal green areas; free running only outside the maintained park zones",
+          "leashRulesFr": "Laisse obligatoire dans les espaces verts municipaux ; liberté seulement hors des zones aménagées",
+          "leashRulesEs": "Correa obligatoria en las zonas verdes municipales; suelto solo fuera de las zonas ajardinadas",
+          "leashRulesPt": "Trela obrigatória nas zonas verdes municipais; à solta apenas fora das zonas ajardinadas",
+          "bestTimeToVisit": "Sunset over the Roter Main meadows",
+          "bestTimeToVisitFr": "Coucher de soleil sur les prairies du Roter Main",
+          "bestTimeToVisitEs": "Atardecer sobre las praderas del Roter Main",
+          "bestTimeToVisitPt": "Pôr do sol sobre os prados do Roter Main",
+          "googleMapsUrl": "https://www.google.com/maps/search/Wilhelminenaue+Bayreuth"
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Bayreuth with a Dog",
+      "titleFr": "Se déplacer à Bayreuth avec un chien",
+      "titleEs": "Moverse por Bayreuth con perro",
+      "titlePt": "Deslocar-se em Bayreuth com cão",
+      "introEn": "Bayreuth's center, the Hofgarten and the Festival Hill all sit within a 25-minute walk of each other, so most visits need no transport at all. City buses and Deutsche Bahn fill in for the Eremitage and day trips into Franconian Switzerland, under Germany's usual dog rules.",
+      "introFr": "Le centre de Bayreuth, le Hofgarten et la Colline du Festival se trouvent tous à moins de 25 minutes à pied les uns des autres, la plupart des visites ne nécessitent donc aucun transport. Bus urbains et Deutsche Bahn prennent le relais pour l'Eremitage et les excursions en Suisse franconienne, selon les règles allemandes habituelles.",
+      "introEs": "El centro de Bayreuth, el Hofgarten y la Colina del Festival quedan a menos de 25 minutos a pie entre sí, así que la mayoría de las visitas no necesitan transporte. Los autobuses urbanos y Deutsche Bahn cubren la Eremitage y las excursiones a la Suiza Francona, con las reglas alemanas habituales para perros.",
+      "introPt": "O centro de Bayreuth, o Hofgarten e a Colina do Festival ficam todos a menos de 25 minutos a pé entre si, pelo que a maioria das visitas não precisa de transporte. Os autocarros urbanos e a Deutsche Bahn cobrem a Eremitage e as excursões à Suíça Francónia, com as regras alemãs habituais para cães.",
+      "places": [],
+      "modes": [
+        {
+          "mode": "City buses (Stadtwerke Bayreuth)",
+          "modeFr": "Bus urbains (Stadtwerke Bayreuth)",
+          "modeEs": "Autobuses urbanos (Stadtwerke Bayreuth)",
+          "modePt": "Autocarros urbanos (Stadtwerke Bayreuth)",
+          "policyEn": "Dogs ride the city buses leashed; small dogs in carriers travel free, larger dogs pay a reduced (child-fare) ticket, the standard arrangement on German municipal networks. Line 302 serves the Eremitage.",
+          "policyFr": "Les chiens prennent les bus urbains en laisse ; les petits en caisse voyagent gratuitement, les grands paient un billet réduit (tarif enfant), l'arrangement standard des réseaux municipaux allemands. La ligne 302 dessert l'Eremitage.",
+          "policyEs": "Los perros viajan en los autobuses urbanos con correa; los pequeños en transportín van gratis, los grandes pagan billete reducido (tarifa infantil), el arreglo estándar de las redes municipales alemanas. La línea 302 sirve la Eremitage.",
+          "policyPt": "Os cães viajam nos autocarros urbanos de trela; os pequenos em caixa vão grátis, os grandes pagam bilhete reduzido (tarifa de criança), o arranjo padrão das redes municipais alemãs. A linha 302 serve a Eremitage.",
+          "cost": "Small dogs free; reduced fare for larger dogs",
+          "costFr": "Petits chiens gratuits ; tarif réduit pour les grands",
+          "costEs": "Perros pequeños gratis; tarifa reducida para los grandes",
+          "costPt": "Cães pequenos grátis; tarifa reduzida para os maiores"
+        },
+        {
+          "mode": "Trains (Deutsche Bahn)",
+          "modeFr": "Trains (Deutsche Bahn)",
+          "modeEs": "Trenes (Deutsche Bahn)",
+          "modePt": "Comboios (Deutsche Bahn)",
+          "policyEn": "Small dogs in carriers travel free; larger dogs need a half-price ticket and must be leashed and muzzled on board under DB rules. Regional trains link Bayreuth to Nuremberg in about an hour.",
+          "policyFr": "Les petits chiens en caisse voyagent gratuitement ; les grands ont besoin d'un billet demi-tarif et doivent être en laisse et muselés à bord selon les règles DB. Les trains régionaux relient Bayreuth à Nuremberg en une heure environ.",
+          "policyEs": "Los perros pequeños en transportín viajan gratis; los grandes necesitan billete a mitad de precio y deben ir con correa y bozal a bordo según las reglas de DB. Los trenes regionales unen Bayreuth con Núremberg en una hora aproximadamente.",
+          "policyPt": "Os cães pequenos em caixa viajam grátis; os grandes precisam de bilhete a meio preço e devem ir de trela e açaime a bordo segundo as regras da DB. Os comboios regionais ligam Bayreuth a Nuremberga em cerca de uma hora.",
+          "cost": "Half fare for large dogs; carriers free",
+          "costFr": "Demi-tarif pour les grands chiens ; caisses gratuites",
+          "costEs": "Media tarifa para perros grandes; transportines gratis",
+          "costPt": "Meia tarifa para cães grandes; caixas grátis"
+        },
+        {
+          "mode": "On foot to the Green Hill",
+          "modeFr": "À pied vers la Colline verte",
+          "modeEs": "A pie a la Colina Verde",
+          "modePt": "A pé até à Colina Verde",
+          "policyEn": "The Festspielhaus sits on its landscaped hill 20 minutes' walk north of the station, through the Festival park where leashed dogs are welcome. During the festival from 25 July, the esplanade fills with audiences from 15:00.",
+          "policyFr": "Le Festspielhaus trône sur sa colline paysagée à 20 minutes à pied au nord de la gare, à travers le parc du Festival où les chiens en laisse sont bienvenus. Pendant le festival à partir du 25 juillet, l'esplanade se remplit de public dès 15h.",
+          "policyEs": "El Festspielhaus corona su colina ajardinada a 20 minutos a pie al norte de la estación, a través del parque del Festival donde los perros con correa son bienvenidos. Durante el festival desde el 25 de julio, la explanada se llena de público desde las 15:00.",
+          "policyPt": "O Festspielhaus coroa a sua colina ajardinada a 20 minutos a pé a norte da estação, através do parque do Festival onde cães de trela são bem-vindos. Durante o festival a partir de 25 de julho, a esplanada enche-se de público a partir das 15h00.",
+          "cost": "Free",
+          "costFr": "Gratuit",
+          "costEs": "Gratis",
+          "costPt": "Grátis"
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Swimming Spots for Dogs near Bayreuth",
+      "titleFr": "Baignade pour chiens près de Bayreuth",
+      "titleEs": "Baños para perros cerca de Bayreuth",
+      "titlePt": "Banhos para cães perto de Bayreuth",
+      "introEn": "Honesty first: the bathing lakes around Bayreuth are strict, and the popular Trebgast lake bans dogs year-round. The workable options are the Roter Main riverbanks outside the manicured park zones and the designated dog shore at the Untreusee near Hof, the region's one true Hundestrand.",
+      "introFr": "Honnêteté d'abord : les lacs de baignade autour de Bayreuth sont stricts, et le populaire lac de Trebgast interdit les chiens toute l'année. Les options praticables sont les berges du Roter Main hors des zones de parc entretenues et la rive canine désignée de l'Untreusee près de Hof, le seul vrai Hundestrand de la région.",
+      "introEs": "Honestidad ante todo: los lagos de baño alrededor de Bayreuth son estrictos, y el popular lago de Trebgast prohíbe los perros todo el año. Las opciones viables son las riberas del Roter Main fuera de las zonas de parque cuidadas y la orilla canina designada del Untreusee cerca de Hof, el único Hundestrand verdadero de la región.",
+      "introPt": "Honestidade primeiro: os lagos de banhos à volta de Bayreuth são rigorosos, e o popular lago de Trebgast proíbe cães todo o ano. As opções viáveis são as margens do Roter Main fora das zonas de parque cuidadas e a margem canina designada do Untreusee perto de Hof, o único verdadeiro Hundestrand da região.",
+      "places": [],
+      "beaches": [
+        {
+          "name": "Untreusee",
+          "address": "Untreusee, 95032 Hof",
+          "photo": "",
+          "description": "The reservoir lake south of Hof, 45 minutes from Bayreuth, whose southeastern shore is the recognized dog-friendly stretch in Upper Franconia. Grass banks, easy water entry and a full lake loop of about 5 km for the walk-off afterwards.",
+          "descriptionFr": "Le lac-réservoir au sud de Hof, à 45 minutes de Bayreuth, dont la rive sud-est est le tronçon dog-friendly reconnu de Haute-Franconie. Berges herbeuses, entrée facile dans l'eau et boucle complète du lac d'environ 5 km pour se sécher ensuite.",
+          "descriptionEs": "El lago-embalse al sur de Hof, a 45 minutos de Bayreuth, cuya orilla sureste es el tramo dog-friendly reconocido de la Alta Franconia. Riberas de hierba, entrada fácil al agua y una vuelta completa al lago de unos 5 km para secarse después.",
+          "descriptionPt": "O lago-reservatório a sul de Hof, a 45 minutos de Bayreuth, cuja margem sudeste é o troço dog-friendly reconhecido da Alta Francónia. Margens de relva, entrada fácil na água e uma volta completa ao lago de cerca de 5 km para secar depois.",
+          "dogPolicy": "Dogs welcome on the southeastern shore; keep clear of the supervised lido",
+          "dogPolicyFr": "Chiens bienvenus sur la rive sud-est ; évitez le lido surveillé",
+          "dogPolicyEs": "Perros bienvenidos en la orilla sureste; evita el lido vigilado",
+          "dogPolicyPt": "Cães bem-vindos na margem sudeste; evite o lido vigiado",
+          "leashRequired": true,
+          "seasonalRestrictions": "Busy on hot weekends; early mornings are calmest",
+          "seasonalRestrictionsFr": "Fréquenté les week-ends chauds ; les débuts de matinée sont les plus calmes",
+          "seasonalRestrictionsEs": "Concurrido los fines de semana calurosos; las primeras horas son las más tranquilas",
+          "seasonalRestrictionsPt": "Movimentado nos fins de semana quentes; o início da manhã é o mais calmo",
+          "googleMapsUrl": "https://www.google.com/maps/search/Untreusee+Hof"
+        },
+        {
+          "name": "Roter Main",
+          "address": "Roter Main valley paths, 95448 Bayreuth",
+          "photo": "",
+          "description": "The young Main river winds through meadows east of town, with shallow gravel reaches along the valley paths beyond the maintained Wilhelminenaue park zones. Enough for a paw-cooling splash on a summer walk rather than a full swim.",
+          "descriptionFr": "Le jeune Main serpente dans les prairies à l'est de la ville, avec des radiers de gravier peu profonds le long des chemins de la vallée au-delà des zones entretenues de la Wilhelminenaue. De quoi rafraîchir les pattes lors d'une balade d'été plutôt qu'une vraie baignade.",
+          "descriptionEs": "El joven Main serpentea por las praderas al este de la ciudad, con tramos de grava poco profundos junto a los caminos del valle más allá de las zonas cuidadas de la Wilhelminenaue. Suficiente para refrescar las patas en un paseo de verano más que para un baño completo.",
+          "descriptionPt": "O jovem Main serpenteia pelos prados a leste da cidade, com troços de gravilha pouco profundos ao longo dos caminhos do vale além das zonas cuidadas da Wilhelminenaue. Suficiente para refrescar as patas num passeio de verão em vez de um banho completo.",
+          "dogPolicy": "Paw-cooling tolerated along the free riverbanks; leash rules apply in the park zones",
+          "dogPolicyFr": "Rafraîchissement toléré le long des berges libres ; règles de laisse dans les zones de parc",
+          "dogPolicyEs": "Refrescarse tolerado en las riberas libres; reglas de correa en las zonas de parque",
+          "dogPolicyPt": "Refrescar-se tolerado nas margens livres; regras de trela nas zonas de parque",
+          "leashRequired": true,
+          "seasonalRestrictions": "Low water in high summer; avoid after storms when the current rises",
+          "seasonalRestrictionsFr": "Basses eaux en plein été ; à éviter après les orages quand le courant monte",
+          "seasonalRestrictionsEs": "Aguas bajas en pleno verano; evítalo tras las tormentas cuando sube la corriente",
+          "seasonalRestrictionsPt": "Águas baixas em pleno verão; evite após as trovoadas quando a corrente sobe",
+          "googleMapsUrl": "https://www.google.com/maps/search/Roter+Main+Bayreuth"
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians in Bayreuth",
+      "titleFr": "Vétérinaires à Bayreuth",
+      "titleEs": "Veterinarios en Bayreuth",
+      "titlePt": "Veterinários em Bayreuth",
+      "introEn": "Upper Franconia no longer has a staffed 24-hour animal hospital, so Bayreuth's vets run a rotating out-of-hours Ringnotdienst: you phone your nearest practice and its answering service names the vet on duty. Save the numbers below before the weekend.",
+      "introFr": "La Haute-Franconie n'a plus d'hôpital vétérinaire 24h/24, les vétérinaires de Bayreuth assurent donc une garde tournante (Ringnotdienst) : vous appelez le cabinet le plus proche et son répondeur indique le vétérinaire de service. Enregistrez les numéros ci-dessous avant le week-end.",
+      "introEs": "La Alta Franconia ya no tiene hospital veterinario 24 horas con personal permanente, así que los veterinarios de Bayreuth mantienen una guardia rotatoria (Ringnotdienst): llamas a la consulta más cercana y su contestador indica el veterinario de turno. Guarda los números de abajo antes del fin de semana.",
+      "introPt": "A Alta Francónia já não tem hospital veterinário 24 horas com equipa permanente, por isso os veterinários de Bayreuth mantêm uma escala rotativa (Ringnotdienst): liga para o consultório mais próximo e o atendedor indica o veterinário de serviço. Guarde os números abaixo antes do fim de semana.",
+      "places": [],
+      "clinics": [
+        {
+          "name": "Tierklinik Eckersdorf",
+          "address": "Bayreuther Straße 30, 95488 Eckersdorf",
+          "phone": "+49 921 73760",
+          "emergencyPhone": "",
+          "hours": "Extended clinic hours; participates in the regional on-call rota",
+          "emergency24h": false,
+          "description": "The specialist clinic for horses and small animals just west of Bayreuth, with surgery and diagnostics well beyond a normal practice. Its small-animal department takes part in the Bayreuth vets' rotating emergency service.",
+          "descriptionFr": "La clinique spécialisée chevaux et petits animaux juste à l'ouest de Bayreuth : chirurgie et diagnostics bien au-delà d'un cabinet classique. Son service petits animaux participe à la garde tournante des vétérinaires de Bayreuth.",
+          "descriptionEs": "La clínica especializada en caballos y pequeños animales justo al oeste de Bayreuth: cirugía y diagnóstico muy por encima de una consulta normal. Su servicio de pequeños animales participa en la guardia rotatoria de los veterinarios de Bayreuth.",
+          "descriptionPt": "A clínica especializada em cavalos e pequenos animais mesmo a oeste de Bayreuth: cirurgia e diagnóstico muito além de um consultório normal. O seu serviço de pequenos animais participa na escala rotativa dos veterinários de Bayreuth.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Tierklinik+Eckersdorf"
+        },
+        {
+          "name": "Tierärztliches Fachzentrum Bayreuth",
+          "address": "Spitzwegstraße 55, 95447 Bayreuth",
+          "phone": "+49 921 78778880",
+          "emergencyPhone": "",
+          "hours": "Weekday clinic hours; call for appointments",
+          "emergency24h": false,
+          "description": "A modern multi-vet center in the city with internal medicine, surgery and imaging under one roof. A solid first call for anything beyond routine while staying in Bayreuth.",
+          "descriptionFr": "Un centre vétérinaire moderne à plusieurs praticiens en ville : médecine interne, chirurgie et imagerie sous un même toit. Un bon premier appel pour tout ce qui dépasse la routine pendant un séjour à Bayreuth.",
+          "descriptionEs": "Un moderno centro veterinario con varios facultativos en la ciudad: medicina interna, cirugía e imagen bajo un mismo techo. Una buena primera llamada para todo lo que exceda la rutina durante la estancia en Bayreuth.",
+          "descriptionPt": "Um moderno centro veterinário com vários médicos na cidade: medicina interna, cirurgia e imagiologia sob o mesmo teto. Uma boa primeira chamada para tudo o que exceda a rotina durante a estadia em Bayreuth.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Tier%C3%A4rztliches+Fachzentrum+Bayreuth"
+        },
+        {
+          "name": "Tierarztpraxis Josef Willner",
+          "address": "Bayreuth",
+          "phone": "+49 921 853318",
+          "emergencyPhone": "+49 171 5224541",
+          "hours": "Practice hours weekdays; out-of-hours mobile for existing emergencies",
+          "emergency24h": false,
+          "description": "A city practice that publishes an out-of-hours mobile number (+49 171 5224541) alongside its daytime line, a rarity in the region. Phone first in any case; after-hours care is by arrangement.",
+          "descriptionFr": "Un cabinet urbain qui publie un numéro mobile hors horaires (+49 171 5224541) en plus de sa ligne de jour, une rareté dans la région. Appelez d'abord dans tous les cas ; les soins hors horaires se font sur arrangement.",
+          "descriptionEs": "Una consulta urbana que publica un móvil fuera de horario (+49 171 5224541) además de su línea diurna, una rareza en la región. Llama primero en cualquier caso; la atención fuera de horario es concertada.",
+          "descriptionPt": "Um consultório urbano que publica um número móvel fora de horas (+49 171 5224541) além da sua linha diurna, uma raridade na região. Telefone primeiro em qualquer caso; o atendimento fora de horas é combinado.",
+          "googleMapsUrl": "https://www.google.com/maps/search/Tierarztpraxis+Willner+Bayreuth"
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Bayreuth with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Bayreuth avec un chien",
+      "titleEs": "Consejos esenciales para visitar Bayreuth con perro",
+      "titlePt": "Dicas essenciais para visitar Bayreuth com cão",
+      "introEn": "Wagner's town is compact, green and easygoing with dogs for eleven months of the year; from 25 July to the end of August the Festspiele change the rhythm, filling hotels a year ahead and the Green Hill every afternoon. Plan around the festival and Bavaria's dog rules and everything else is simple.",
+      "introFr": "La ville de Wagner est compacte, verte et détendue avec les chiens onze mois par an ; du 25 juillet à fin août, le Festspiele change le rythme, remplissant les hôtels un an à l'avance et la Colline verte chaque après-midi. Composez avec le festival et les règles bavaroises et tout le reste est simple.",
+      "introEs": "La ciudad de Wagner es compacta, verde y relajada con los perros once meses al año; del 25 de julio a finales de agosto el Festspiele cambia el ritmo, llenando los hoteles con un año de antelación y la Colina Verde cada tarde. Planifica en torno al festival y a las reglas bávaras y todo lo demás es sencillo.",
+      "introPt": "A cidade de Wagner é compacta, verde e descontraída com os cães onze meses por ano; de 25 de julho ao fim de agosto o Festspiele muda o ritmo, enchendo os hotéis com um ano de antecedência e a Colina Verde todas as tardes. Planeie em função do festival e das regras bávaras e tudo o resto é simples.",
+      "places": [],
+      "tipsEn": [
+        "During the Wagner Festspiele (from 25 July), pet-friendly rooms are the scarcest commodity in town: book months ahead, and walk the Green Hill esplanade in the morning before the audience arrives around 15:00.",
+        "Leashes are compulsory in all municipal green areas and limited to 120 cm in the palace gardens (Hofgarten, Eremitage); Bavaria also restricts listed fighting-breed categories, so check the Kampfhundeverordnung if you travel with a category 1 or 2 breed.",
+        "The region's bathing lakes are strict about dogs, and Trebgast bans them year-round: plan water time at the Untreusee dog shore near Hof or stick to paw-cooling in the Roter Main."
+      ],
+      "tipsFr": [
+        "Pendant le Festspiele de Wagner (à partir du 25 juillet), les chambres pet-friendly sont la denrée la plus rare de la ville : réservez des mois à l'avance, et faites l'esplanade de la Colline verte le matin avant l'arrivée du public vers 15h.",
+        "La laisse est obligatoire dans tous les espaces verts municipaux et limitée à 120 cm dans les jardins des châteaux (Hofgarten, Eremitage) ; la Bavière restreint aussi les catégories de chiens listés, vérifiez la Kampfhundeverordnung si vous voyagez avec une race de catégorie 1 ou 2.",
+        "Les lacs de baignade de la région sont stricts avec les chiens, et Trebgast les interdit toute l'année : prévoyez l'eau à la rive canine de l'Untreusee près de Hof ou contentez-vous de rafraîchir les pattes dans le Roter Main."
+      ],
+      "tipsEs": [
+        "Durante el Festspiele de Wagner (desde el 25 de julio), las habitaciones pet-friendly son el bien más escaso de la ciudad: reserva con meses de antelación, y pasea la explanada de la Colina Verde por la mañana antes de que llegue el público hacia las 15:00.",
+        "La correa es obligatoria en todas las zonas verdes municipales y limitada a 120 cm en los jardines palaciegos (Hofgarten, Eremitage); Baviera además restringe las categorías de perros listados, revisa la Kampfhundeverordnung si viajas con una raza de categoría 1 o 2.",
+        "Los lagos de baño de la región son estrictos con los perros, y Trebgast los prohíbe todo el año: planifica el agua en la orilla canina del Untreusee cerca de Hof o limítate a refrescar patas en el Roter Main."
+      ],
+      "tipsPt": [
+        "Durante o Festspiele de Wagner (a partir de 25 de julho), os quartos pet-friendly são o bem mais escasso da cidade: reserve com meses de antecedência, e passeie a esplanada da Colina Verde de manhã antes de o público chegar por volta das 15h00.",
+        "A trela é obrigatória em todas as zonas verdes municipais e limitada a 120 cm nos jardins palacianos (Hofgarten, Eremitage); a Baviera também restringe as categorias de cães listados, verifique a Kampfhundeverordnung se viajar com uma raça de categoria 1 ou 2.",
+        "Os lagos de banhos da região são rigorosos com os cães, e Trebgast proíbe-os todo o ano: planeie a água na margem canina do Untreusee perto de Hof ou limite-se a refrescar as patas no Roter Main."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I attend the Bayreuth Festival with my dog?",
+          "a": "No, animals are not admitted to the Festspielhaus performances. Enjoy the Green Hill park with your dog earlier in the day, then book a sitter for the opera itself; note that Wagner operas run four to six hours, longer than most dogs should wait alone in a hotel room."
+        },
+        {
+          "q": "Is there a 24-hour vet in Bayreuth?",
+          "a": "Not a staffed 24-hour hospital: Upper Franconia's vets cover nights and weekends through a rotating on-call service. Call Tierklinik Eckersdorf (+49 921 73760) or Tierarztpraxis Willner's out-of-hours mobile (+49 171 5224541) and you will be directed to the vet on duty."
+        },
+        {
+          "q": "Are dogs allowed in the Hofgarten and Eremitage?",
+          "a": "Yes, on a leash of maximum 120 cm under the Bavarian palace administration's park rules. Interiors (New Palace, Margravial Opera House, Villa Wahnfried museum) do not admit dogs, but all the gardens and the opera house facade are freely walkable."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je assister au Festival de Bayreuth avec mon chien ?",
+          "a": "Non, les animaux ne sont pas admis aux représentations du Festspielhaus. Profitez du parc de la Colline verte avec votre chien plus tôt dans la journée, puis réservez un pet-sitter pour l'opéra ; notez que les opéras de Wagner durent quatre à six heures, plus longtemps que la plupart des chiens ne devraient attendre seuls dans une chambre."
+        },
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Bayreuth ?",
+          "a": "Pas d'hôpital 24h/24 avec équipe permanente : les vétérinaires de Haute-Franconie couvrent nuits et week-ends par une garde tournante. Appelez la Tierklinik Eckersdorf (+49 921 73760) ou le mobile hors horaires du cabinet Willner (+49 171 5224541) et vous serez orienté vers le vétérinaire de service."
+        },
+        {
+          "q": "Les chiens sont-ils admis au Hofgarten et à l'Eremitage ?",
+          "a": "Oui, en laisse de 120 cm maximum selon le règlement des jardins de l'administration bavaroise des châteaux. Les intérieurs (Nouveau Château, Opéra des Margraves, musée de la villa Wahnfried) n'admettent pas les chiens, mais tous les jardins et la façade de l'opéra se parcourent librement."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo asistir al Festival de Bayreuth con mi perro?",
+          "a": "No, los animales no se admiten en las funciones del Festspielhaus. Disfruta del parque de la Colina Verde con tu perro más temprano, y reserva un cuidador para la ópera; ten en cuenta que las óperas de Wagner duran de cuatro a seis horas, más de lo que la mayoría de los perros debería esperar solos en una habitación."
+        },
+        {
+          "q": "¿Hay veterinario 24 horas en Bayreuth?",
+          "a": "No hay hospital 24 horas con personal permanente: los veterinarios de la Alta Franconia cubren noches y fines de semana con una guardia rotatoria. Llama a la Tierklinik Eckersdorf (+49 921 73760) o al móvil fuera de horario de la consulta Willner (+49 171 5224541) y te dirigirán al veterinario de turno."
+        },
+        {
+          "q": "¿Se admiten perros en el Hofgarten y la Eremitage?",
+          "a": "Sí, con correa de máximo 120 cm según el reglamento de los jardines de la administración bávara de palacios. Los interiores (Palacio Nuevo, Ópera de los Margraves, museo de la villa Wahnfried) no admiten perros, pero todos los jardines y la fachada de la ópera se recorren libremente."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso assistir ao Festival de Bayreuth com o meu cão?",
+          "a": "Não, os animais não são admitidos nos espetáculos do Festspielhaus. Aproveite o parque da Colina Verde com o seu cão mais cedo no dia, e reserve um pet sitter para a ópera; note que as óperas de Wagner duram quatro a seis horas, mais do que a maioria dos cães deveria esperar sozinha num quarto."
+        },
+        {
+          "q": "Há veterinário 24 horas em Bayreuth?",
+          "a": "Não há hospital 24 horas com equipa permanente: os veterinários da Alta Francónia cobrem noites e fins de semana com uma escala rotativa. Ligue para a Tierklinik Eckersdorf (+49 921 73760) ou para o móvel fora de horas do consultório Willner (+49 171 5224541) e será encaminhado para o veterinário de serviço."
+        },
+        {
+          "q": "Os cães são admitidos no Hofgarten e na Eremitage?",
+          "a": "Sim, com trela de 120 cm no máximo segundo o regulamento dos jardins da administração bávara dos palácios. Os interiores (Palácio Novo, Ópera dos Margraves, museu da villa Wahnfried) não admitem cães, mas todos os jardins e a fachada da ópera percorrem-se livremente."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Bayreuth",
+      "titleFr": "Attractions dog-friendly à Bayreuth",
+      "titleEs": "Atracciones dog-friendly en Bayreuth",
+      "titlePt": "Atrações dog-friendly em Bayreuth",
+      "introEn": "Bayreuth's icons split neatly: interiors like the UNESCO Margravial Opera House are dogs-out, but the settings around them, the Green Hill, the Hofgarten by Wagner's villa and the Eremitage follies, are exactly where a dog makes the visit better.",
+      "introFr": "Les icônes de Bayreuth se répartissent simplement : les intérieurs comme l'Opéra des Margraves classé UNESCO sont interdits aux chiens, mais leurs écrins, la Colline verte, le Hofgarten près de la villa de Wagner et les fabriques de l'Eremitage, sont exactement là où un chien bonifie la visite.",
+      "introEs": "Los iconos de Bayreuth se reparten claramente: los interiores como la Ópera de los Margraves de la UNESCO son sin perros, pero sus entornos, la Colina Verde, el Hofgarten junto a la villa de Wagner y los caprichos de la Eremitage, son exactamente donde un perro mejora la visita.",
+      "introPt": "Os ícones de Bayreuth dividem-se claramente: os interiores como a Ópera dos Margraves da UNESCO são sem cães, mas os seus cenários, a Colina Verde, o Hofgarten junto à villa de Wagner e os caprichos da Eremitage, são exatamente onde um cão melhora a visita.",
+      "places": [
+        {
+          "name": "Festspielhaus",
+          "address": "Festspielhügel 1-2, 95445 Bayreuth",
+          "photo": "",
+          "description": "Wagner's purpose-built festival theatre of 1876 on the Green Hill, still the pilgrimage site of the opera world every summer from 25 July. Dogs cannot enter, but the terraced park below the facade is a fine leashed stroll with the best people-watching in Franconia on performance afternoons.",
+          "descriptionFr": "Le théâtre du festival construit par Wagner en 1876 sur la Colline verte, toujours lieu de pèlerinage du monde lyrique chaque été à partir du 25 juillet. Les chiens n'entrent pas, mais le parc en terrasses sous la façade offre une belle balade en laisse, avec le meilleur spectacle des festivaliers de Franconie les après-midis de représentation.",
+          "descriptionEs": "El teatro del festival construido por Wagner en 1876 en la Colina Verde, aún lugar de peregrinación del mundo operístico cada verano desde el 25 de julio. Los perros no entran, pero el parque aterrazado bajo la fachada es un buen paseo con correa, con el mejor desfile de público de Franconia las tardes de función.",
+          "descriptionPt": "O teatro do festival construído por Wagner em 1876 na Colina Verde, ainda local de peregrinação do mundo da ópera cada verão a partir de 25 de julho. Os cães não entram, mas o parque em socalcos sob a fachada é um belo passeio de trela, com o melhor desfile de público da Francónia nas tardes de espetáculo.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/Festspielhaus+Bayreuth"
+        },
+        {
+          "name": "Markgräfliches Opernhaus",
+          "address": "Opernstraße 14, 95444 Bayreuth",
+          "photo": "",
+          "description": "The 1748 baroque opera house that earned UNESCO World Heritage status as Europe's best-preserved court theatre. Dogs stay outside, but the Opernstraße frontage anchors the old-town loop past the New Palace and into the Hofgarten.",
+          "descriptionFr": "L'opéra baroque de 1748, classé au patrimoine mondial comme théâtre de cour le mieux conservé d'Europe. Les chiens restent dehors, mais sa façade sur l'Opernstraße ancre la boucle de la vieille ville, passant le Nouveau Château vers le Hofgarten.",
+          "descriptionEs": "La ópera barroca de 1748, Patrimonio Mundial como el teatro cortesano mejor conservado de Europa. Los perros se quedan fuera, pero su fachada en la Opernstraße ancla el circuito del casco antiguo, pasando el Palacio Nuevo hacia el Hofgarten.",
+          "descriptionPt": "A ópera barroca de 1748, Património Mundial como o teatro de corte mais bem conservado da Europa. Os cães ficam fora, mas a fachada na Opernstraße ancora o circuito do centro histórico, passando o Palácio Novo em direção ao Hofgarten.",
+          "dogFriendly": false,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/Markgr%C3%A4fliches+Opernhaus+Bayreuth"
+        },
+        {
+          "name": "Eremitage Altes Schloss",
+          "address": "Eremitage 4, 95448 Bayreuth",
+          "photo": "",
+          "description": "The hermitage palace where Margravine Wilhelmine staged her court as playful hermits, ringed by grottos, fountains and the golden-domed sun temple. With a leashed dog (120 cm rule) you can circle every folly; the fountain shows run at set hours in summer.",
+          "descriptionFr": "Le palais-ermitage où la margravine Wilhelmine mettait en scène sa cour en ermites joueurs, entouré de grottes, de fontaines et du temple du Soleil au dôme doré. Avec un chien en laisse (règle des 120 cm), on fait le tour de chaque fabrique ; les jeux d'eau fonctionnent à heures fixes en été.",
+          "descriptionEs": "El palacio-ermita donde la margravina Wilhelmine escenificaba su corte como ermitaños juguetones, rodeado de grutas, fuentes y el templo del Sol de cúpula dorada. Con un perro atado (regla de los 120 cm) se rodea cada capricho; los juegos de agua funcionan a horas fijas en verano.",
+          "descriptionPt": "O palácio-eremitério onde a margravina Wilhelmine encenava a sua corte como eremitas brincalhões, rodeado de grutas, fontes e o templo do Sol de cúpula dourada. Com um cão de trela (regra dos 120 cm) contorna-se cada capricho; os jogos de água funcionam a horas certas no verão.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/Eremitage+Altes+Schloss+Bayreuth"
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Bayreuth",
+      "titleFr": "Garde d'animaux et promenade de chiens à Bayreuth",
+      "titleEs": "Cuidadores y paseadores de perros en Bayreuth",
+      "titlePt": "Pet sitting e passeadores de cães em Bayreuth",
+      "introEn": "A Wagner opera runs four to six hours, far too long to leave a dog alone in a hotel room, which makes Bayreuth one of the few towns where booking a sitter is practically part of the ticket. The German platforms below list sitters in and around the city; reserve well before festival season.",
+      "introFr": "Un opéra de Wagner dure quatre à six heures, bien trop long pour laisser un chien seul dans une chambre, ce qui fait de Bayreuth l'une des rares villes où réserver un pet-sitter fait presque partie du billet. Les plateformes allemandes ci-dessous recensent des gardiens dans et autour de la ville ; réservez bien avant la saison du festival.",
+      "introEs": "Una ópera de Wagner dura de cuatro a seis horas, demasiado para dejar a un perro solo en la habitación, lo que hace de Bayreuth una de las pocas ciudades donde reservar cuidador es casi parte de la entrada. Las plataformas alemanas de abajo listan cuidadores en la ciudad y alrededores; reserva mucho antes de la temporada del festival.",
+      "introPt": "Uma ópera de Wagner dura quatro a seis horas, demasiado para deixar um cão sozinho no quarto, o que faz de Bayreuth uma das poucas cidades onde reservar pet sitter faz quase parte do bilhete. As plataformas alemãs abaixo listam sitters na cidade e arredores; reserve muito antes da época do festival.",
+      "places": [],
+      "services": [
+        {
+          "name": "Pawshake",
+          "website": "https://www.pawshake.de",
+          "description": "Verified sitters across Germany with insurance included, offering evening visits, walks and overnight boarding, the right format for festival performances that stretch past midnight with intermission dinners.",
+          "descriptionFr": "Des gardiens vérifiés dans toute l'Allemagne, assurance incluse : visites du soir, promenades et pension de nuit, le bon format pour des représentations qui s'étirent après minuit avec dîners d'entracte.",
+          "descriptionEs": "Cuidadores verificados en toda Alemania con seguro incluido: visitas vespertinas, paseos y alojamiento nocturno, el formato adecuado para funciones que se alargan pasada la medianoche con cenas de entreacto.",
+          "descriptionPt": "Sitters verificados em toda a Alemanha com seguro incluído: visitas ao fim do dia, passeios e alojamento noturno, o formato certo para espetáculos que se prolongam pela meia-noite com jantares de intervalo.",
+          "priceRange": "From about 15 EUR per visit",
+          "priceRangeFr": "À partir d'environ 15 EUR la visite",
+          "priceRangeEs": "Desde unos 15 EUR por visita",
+          "priceRangePt": "A partir de cerca de 15 EUR por visita",
+          "bookingRequired": true
+        },
+        {
+          "name": "Rover",
+          "website": "https://www.rover.com",
+          "description": "The international leader also covers Franconia, with sitters in Bayreuth, Kulmbach and Nuremberg offering day care and boarding, useful backup when local sitters are booked out in festival weeks.",
+          "descriptionFr": "Le leader international couvre aussi la Franconie, avec des gardiens à Bayreuth, Kulmbach et Nuremberg pour garderie et pension, un recours utile quand les gardiens locaux affichent complet pendant les semaines du festival.",
+          "descriptionEs": "El líder internacional también cubre Franconia, con cuidadores en Bayreuth, Kulmbach y Núremberg para guardería y alojamiento, un respaldo útil cuando los cuidadores locales se agotan en las semanas del festival.",
+          "descriptionPt": "O líder internacional também cobre a Francónia, com sitters em Bayreuth, Kulmbach e Nuremberga para creche e alojamento, um recurso útil quando os sitters locais esgotam nas semanas do festival.",
+          "priceRange": "From about 20 EUR per day",
+          "priceRangeFr": "À partir d'environ 20 EUR par jour",
+          "priceRangeEs": "Desde unos 20 EUR por día",
+          "priceRangePt": "A partir de cerca de 20 EUR por dia",
+          "bookingRequired": true
+        }
+      ]
+    }
+  }
+}

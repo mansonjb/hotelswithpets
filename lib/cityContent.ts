@@ -34425,6 +34425,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'zell-am-see': {
+    history: {
+      fr: `Zell am See, environ 10 000 habitants entre le lac turquoise du Zeller See et la Schmittenhöhe, est la capitale touristique du Pinzgau salzbourgeois. Bourg marchand fondé vers 740 par les moines de Salzbourg (Cella in Bisontio), il a décollé avec l'arrivée du chemin de fer Giselabahn en 1875, qui a fait du village de pêcheurs une station climatique impériale, puis avec le ski et le glacier du Kitzsteinhorn, premier domaine glaciaire d'Autriche ouvert en 1965 au-dessus de Kaprun. Avec un chien, la région est étonnamment ouverte : billets chien sur les remontées de la Schmittenhöhe et du Kitzsteinhorn jusqu'à 3 029 m, chiens admis sur les bateaux du lac (5 euros la croisière), zone canine officielle sans laisse à Erlberg et parc canin au Klammsee. La contrepartie est un règlement strict : dans tous les espaces publics de Zell am See et Kaprun, laisse ou muselière obligatoire, et muselière portée dans les cabines, bus et bateaux. Les lidos et zones de baignade balisées restent interdits aux chiens, mais le reste des rives et la boucle d'environ 11 km du lac leur tendent les pattes.`,
+      en: `Zell am See, around 10,000 residents squeezed between the turquoise Zeller See and the Schmittenhöhe, is the tourist capital of Salzburg's Pinzgau. A market town founded around 740 by Salzburg monks (Cella in Bisontio), it took off when the Giselabahn railway arrived in 1875 and turned the fishing village into an imperial summer resort, then again with skiing and the Kitzsteinhorn above Kaprun, Austria's first glacier ski area opened in 1965. With a dog the region is surprisingly open: dog tickets on the Schmittenhöhe and Kitzsteinhorn lifts up to 3,029 m, dogs on the lake boats (5 euros a cruise), an official off-leash dog zone at Erlberg and a dog park at the Klammsee. The trade-off is a strict rulebook: in all public spaces of Zell am See and Kaprun a leash or muzzle is mandatory, and the muzzle goes physically on in cable car cabins, buses and boats. The lidos and marked bathing areas stay closed to dogs, but the rest of the shoreline and the roughly 11 km lake loop are theirs to explore.`,
+      es: `Zell am See, unos 10.000 habitantes encajados entre el turquesa Zeller See y la Schmittenhöhe, es la capital turística del Pinzgau salzburgués. Villa mercado fundada hacia 740 por monjes de Salzburgo (Cella in Bisontio), despegó con la llegada del ferrocarril Giselabahn en 1875, que convirtió el pueblo pesquero en estación veraniega imperial, y luego con el esquí y el Kitzsteinhorn sobre Kaprun, primer dominio glaciar de Austria abierto en 1965. Con perro la región es sorprendentemente abierta: billetes caninos en los remontes de la Schmittenhöhe y el Kitzsteinhorn hasta 3.029 m, perros en los barcos del lago (5 euros el crucero), zona canina oficial sin correa en Erlberg y parque canino en el Klammsee. La contrapartida es una normativa estricta: en todos los espacios públicos de Zell am See y Kaprun, correa o bozal obligatorio, y bozal puesto en cabinas, buses y barcos. Los lidos y zonas de baño señalizadas siguen vetados a los perros, pero el resto de la orilla y la vuelta de unos 11 km al lago son suyos.`,
+      pt: `Zell am See, cerca de 10.000 habitantes entalados entre o turquesa Zeller See e a Schmittenhöhe, é a capital turística do Pinzgau salzburguês. Vila de mercado fundada por volta de 740 por monges de Salzburgo (Cella in Bisontio), descolou com a chegada do caminho-de-ferro Giselabahn em 1875, que transformou a aldeia piscatória em estância imperial de verão, e depois com o esqui e o Kitzsteinhorn acima de Kaprun, primeiro domínio glaciar da Áustria aberto em 1965. Com cão a região é surpreendentemente aberta: bilhetes de cão nos teleféricos da Schmittenhöhe e do Kitzsteinhorn até aos 3.029 m, cães nos barcos do lago (5 euros o cruzeiro), zona canina oficial sem trela em Erlberg e parque canino no Klammsee. A contrapartida é um regulamento rígido: em todos os espaços públicos de Zell am See e Kaprun, trela ou açaime obrigatório, e açaime posto nas cabines, autocarros e barcos. Os lidos e zonas de banho marcadas continuam vedados aos cães, mas o resto da margem e a volta de cerca de 11 km ao lago são deles.`,
+    },
+    sights: [
+      {
+        name: 'Schmittenhöhe',
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          fr: `La montagne locale de 2 000 m, avec un panorama sommital sur plus de trente sommets de 3 000 m au-dessus du lac. Les chiens montent avec leur billet, muselière et laisse en cabine, puis parcourent routes et sentiers du sommet en laisse ; muselière en vente (15 euros) ou en location en gare aval.`,
+          en: `The 2,000 m home mountain, with a summit panorama of more than thirty 3,000 m peaks above the lake. Dogs ride with their own ticket, muzzled and leashed in the cabin, then walk the summit roads and trails on the lead; muzzles are sold (15 euros) or rented at the valley station.`,
+          es: `La montaña local de 2.000 m, con panorama de más de treinta cumbres de 3.000 m sobre el lago. Los perros suben con su billete, bozal y correa en cabina, y recorren pistas y senderos de la cima con correa; bozales a la venta (15 euros) o de alquiler en la estación inferior.`,
+          pt: `A montanha local de 2.000 m, com panorama de mais de trinta cumes de 3.000 m sobre o lago. Os cães sobem com bilhete próprio, açaime e trela na cabine, e percorrem estradas e trilhos do cume com trela; açaimes à venda (15 euros) ou para alugar na estação inferior.`,
+        },
+      },
+      {
+        name: 'Zeller See & Esplanade',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Le lac glaciaire turquoise se longe par l'esplanade, l'Elisabethpark et la boucle d'environ 11 km via Thumersbach. Baignade canine autorisée hors des lidos balisés ; les bateaux de la flotte acceptent les chiens muselés (5 euros la croisière panoramique, 3 euros la traversée).`,
+          en: `The turquoise glacial lake is walked via the esplanade, the Elisabethpark and the roughly 11 km loop through Thumersbach. Dog swimming is allowed outside the marked lidos; the boat fleet takes muzzled dogs (5 euros for the panorama cruise, 3 euros for the crossing).`,
+          es: `El lago glaciar turquesa se recorre por la explanada, el Elisabethpark y la vuelta de unos 11 km por Thumersbach. Baño canino permitido fuera de los lidos señalizados; la flota de barcos acepta perros con bozal (5 euros el crucero panorámico, 3 euros el cruce).`,
+          pt: `O lago glaciar turquesa percorre-se pela esplanada, pelo Elisabethpark e pela volta de cerca de 11 km via Thumersbach. Banho canino permitido fora dos lidos marcados; a frota de barcos aceita cães com açaime (5 euros o cruzeiro panorâmico, 3 euros a travessia).`,
+        },
+      },
+      {
+        name: 'Hundezone Erlberg',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `La zone canine officielle de la ville, sur la rive nord près de la roselière protégée : le seul endroit de Zell am See où le chien court légalement sans laisse ni muselière. Joli sentier le long de la réserve juste à côté, accès au lac pour se tremper.`,
+          en: `The town's official dog zone on the northern shore by the protected reed belt: the only place in Zell am See where a dog legally runs free of leash and muzzle. A lovely trail runs along the reserve next door, with lake access for a dip.`,
+          es: `La zona canina oficial del pueblo, en la orilla norte junto al cañaveral protegido: el único lugar de Zell am See donde el perro corre legalmente sin correa ni bozal. Bonito sendero junto a la reserva al lado, con acceso al lago para un chapuzón.`,
+          pt: `A zona canina oficial da vila, na margem norte junto ao caniçal protegido: o único lugar de Zell am See onde o cão corre legalmente sem trela nem açaime. Belo trilho ao longo da reserva mesmo ao lado, com acesso ao lago para um mergulho.`,
+        },
+      },
+      {
+        name: 'Sigmund Thun Klamm',
+        emoji: '💦',
+        petFriendly: true,
+        desc: {
+          fr: `Gorge glaciaire de 32 m de profondeur à Kaprun, dont les passerelles de bois suspendues au-dessus de la Kapruner Ache se parcourent avec un chien en laisse (ouverte environ de mai à octobre). En haut, boucle du Klammsee et grand parc canin où lâcher le chien.`,
+          en: `A 32 m deep glacial gorge in Kaprun whose wooden walkways above the roaring Kapruner Ache are walked with a leashed dog (open roughly May to October). At the top, the Klammsee loop and a spacious dog park where dogs can run free.`,
+          es: `Garganta glaciar de 32 m de profundidad en Kaprun, cuyas pasarelas de madera sobre la rugiente Kapruner Ache se recorren con perro con correa (abierta aprox. de mayo a octubre). Arriba, el circuito del Klammsee y un amplio parque canino para soltarlo.`,
+          pt: `Garganta glaciar com 32 m de profundidade em Kaprun, cujos passadiços de madeira sobre a rugidora Kapruner Ache se percorrem com cão com trela (aberta aprox. de maio a outubro). No topo, o circuito do Klammsee e um amplo parque canino para o soltar.`,
+        },
+      },
+      {
+        name: 'Kitzsteinhorn (TOP OF SALZBURG)',
+        emoji: '🏔️',
+        petFriendly: true,
+        desc: {
+          fr: `Le glacier de Salzbourg hisse les chiens (billets à la journée, 7 jours ou à l'année) jusqu'à la plateforme à 3 029 m, muselés et en laisse dans les télécabines. Bienvenus dans les restaurants d'altitude, interdits sur les pistes de ski ; neige possible même en plein été.`,
+          en: `Salzburg's glacier lifts dogs (daily, 7-day or annual dog tickets) to the 3,029 m platform, muzzled and leashed in the gondolas. Welcome in the mountain restaurants, banned from the ski pistes; expect snow even in high summer.`,
+          es: `El glaciar de Salzburgo sube a los perros (billetes de día, 7 días o anuales) hasta la plataforma a 3.029 m, con bozal y correa en las telecabinas. Bienvenidos en los restaurantes de montaña, prohibidos en las pistas; puede haber nieve incluso en pleno verano.`,
+          pt: `O glaciar de Salzburgo leva os cães (bilhetes diários, de 7 dias ou anuais) até à plataforma a 3.029 m, com açaime e trela nas telecabinas. Bem-vindos nos restaurantes de montanha, proibidos nas pistas; pode haver neve mesmo em pleno verão.`,
+        },
+      },
+      {
+        name: 'Stadtplatz & Vogtturm',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Le coeur médiéval compact de Zell am See : la place de la ville, l'église romane St. Hippolyt et le Vogtturm du XIIᵉ siècle se découvrent en dix minutes de flânerie en laisse entre les terrasses. Beaucoup de cafés y tolèrent les chiens sages, demandez avant d'entrer.`,
+          en: `Zell am See's compact medieval heart: the town square, the Romanesque St. Hippolyt church and the 12th-century Vogtturm are covered in a ten-minute leashed stroll between terraces. Many cafés tolerate calm dogs, ask before stepping in.`,
+          es: `El compacto corazón medieval de Zell am See: la plaza, la iglesia románica de St. Hippolyt y el Vogtturm del siglo XII se ven en un paseo de diez minutos con correa entre terrazas. Muchos cafés toleran perros tranquilos, pregunta antes de entrar.`,
+          pt: `O compacto coração medieval de Zell am See: a praça, a igreja românica de St. Hippolyt e o Vogtturm do século XII veem-se num passeio de dez minutos com trela entre esplanadas. Muitos cafés toleram cães calmos, pergunte antes de entrar.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La muselière est LA clé de la région : obligatoire dans les cabines des remontées, les bus, les trains et les bateaux du lac. Achat 15 euros ou location en gare aval de la Schmitten si vous l'avez oubliée.`,
+        `Dans tous les espaces publics de Zell am See et Kaprun : laisse OU muselière (seuls les chiens d'assistance en sont dispensés). Les deux espaces de liberté officiels sont la Hundezone d'Erlberg et le parc canin du Klammsee.`,
+        `Baignade : le lac est autorisé aux chiens hors des lidos et zones de baignade balisées, qui leur sont strictement fermés. Visez la rive d'Erlberg ou le Klammsee, et laissez la roselière protégée tranquille.`,
+        `Sur le Kitzsteinhorn, les chiens sont interdits sur les pistes de ski mais bienvenus dans les télécabines (billets chien à la journée ou à la semaine) et les restaurants d'altitude ; à 3 000 m, gare au froid et au soleil réverbéré par la neige même en été.`,
+        `Le billet chien coûte le tarif minimum dans les bus et trains du réseau de Salzbourg (gratuit avec un KlimaTicket, gratuit en caisse de transport), 5 euros sur les croisières panoramiques du lac et 3 euros la traversée.`,
+      ],
+      en: [
+        `The muzzle is THE key to the region: mandatory in lift cabins, buses, trains and the lake boats. Buy one for 15 euros or rent one at the Schmitten valley station if you forgot yours.`,
+        `In all public spaces of Zell am See and Kaprun: leash OR muzzle (only assistance dogs are exempt). The two official free-run spots are the Erlberg Hundezone and the Klammsee dog park.`,
+        `Swimming: the lake is open to dogs outside the lidos and marked bathing areas, which are strictly people-only. Aim for the Erlberg shoreline or the Klammsee, and leave the protected reed belt alone.`,
+        `On the Kitzsteinhorn dogs are banned from the ski pistes but welcome in the gondolas (daily or weekly dog tickets) and the mountain restaurants; at 3,000 m watch for cold and snow-glare even in summer.`,
+        `A dog ticket costs the minimum fare on Salzburg's buses and trains (free with a KlimaTicket, free in a carrier), 5 euros on the lake panorama cruises and 3 euros on crossings.`,
+      ],
+      es: [
+        `El bozal es LA llave de la región: obligatorio en las cabinas de los remontes, buses, trenes y barcos del lago. Cómpralo por 15 euros o alquílalo en la estación inferior de la Schmitten si lo olvidaste.`,
+        `En todos los espacios públicos de Zell am See y Kaprun: correa O bozal (solo los perros de asistencia están exentos). Los dos espacios oficiales de suelta son la Hundezone de Erlberg y el parque canino del Klammsee.`,
+        `Baño: el lago está abierto a los perros fuera de los lidos y zonas de baño señalizadas, estrictamente reservados a las personas. Apunta a la orilla de Erlberg o al Klammsee, y respeta el cañaveral protegido.`,
+        `En el Kitzsteinhorn los perros están prohibidos en las pistas de esquí pero son bienvenidos en las telecabinas (billetes caninos de día o semana) y en los restaurantes de montaña; a 3.000 m cuidado con el frío y el reflejo de la nieve incluso en verano.`,
+        `El billete canino cuesta la tarifa mínima en los buses y trenes de Salzburgo (gratis con KlimaTicket, gratis en transportín), 5 euros en los cruceros panorámicos del lago y 3 euros en los cruces.`,
+      ],
+      pt: [
+        `O açaime é A chave da região: obrigatório nas cabines dos teleféricos, autocarros, comboios e barcos do lago. Compre por 15 euros ou alugue na estação inferior da Schmitten se o esqueceu.`,
+        `Em todos os espaços públicos de Zell am See e Kaprun: trela OU açaime (só os cães de assistência estão isentos). Os dois espaços oficiais de liberdade são a Hundezone de Erlberg e o parque canino do Klammsee.`,
+        `Banhos: o lago está aberto aos cães fora dos lidos e zonas de banho marcadas, estritamente reservados às pessoas. Aponte à margem de Erlberg ou ao Klammsee, e deixe o caniçal protegido em paz.`,
+        `No Kitzsteinhorn os cães são proibidos nas pistas de esqui mas bem-vindos nas telecabinas (bilhetes de cão diários ou semanais) e nos restaurantes de montanha; a 3.000 m cuidado com o frio e o reflexo da neve mesmo no verão.`,
+        `O bilhete de cão custa a tarifa mínima nos autocarros e comboios de Salzburgo (grátis com KlimaTicket, grátis em transportadora), 5 euros nos cruzeiros panorâmicos do lago e 3 euros nas travessias.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire : Tierarztpraxis Mag. Veronika Brugger, Kitzsteinhornstraße 43, +43 6542 55200, ligne d'urgence +43 699 1155200 (cabinet référencé par l'office de tourisme).`,
+        `À 10 minutes au sud : Kleintierzentrum Bruck, Sportplatzstraße 1b, Bruck an der Großglocknerstraße, +43 6545 6850 (lun-ven 8h-19h, sam 9h-12h, urgences après appel).`,
+        `La hotline nocturne salzbourgeoise pour petits animaux ne couvre PAS le Pinzgau : hors horaires, appelez directement les cabinets locaux ; le 112 reste le numéro d'urgence général européen.`,
+        `Transports : chiens avec muselière solide et laisse courte dans les bus et trains du Salzburger Verkehrsverbund, au tarif minimum du trajet ; gratuit avec KlimaTicket ou en caisse de transport.`,
+        `Remontées et bateaux : billet chien requis sur la Schmittenhöhe et le Kitzsteinhorn (muselière portée en cabine) ; bateaux du lac 5 euros la croisière, 3 euros la traversée, chien muselé et en laisse à bord.`,
+      ],
+      en: [
+        `Vet: Tierarztpraxis Mag. Veronika Brugger, Kitzsteinhornstraße 43, +43 6542 55200, emergency line +43 699 1155200 (the practice listed by the tourist board).`,
+        `10 minutes south: Kleintierzentrum Bruck, Sportplatzstraße 1b, Bruck an der Großglocknerstraße, +43 6545 6850 (Mon-Fri 8:00-19:00, Sat 9:00-12:00, emergencies after a phone call).`,
+        `Salzburg's night small-animal hotline does NOT cover the Pinzgau: out of hours, call the local practices directly; 112 remains the general European emergency number.`,
+        `Transport: dogs with a bite-proof muzzle and short leash on Salzburger Verkehrsverbund buses and trains, at the minimum fare per ride; free with a KlimaTicket or in a carrier.`,
+        `Lifts and boats: dog ticket required on the Schmittenhöhe and Kitzsteinhorn (muzzle worn in the cabin); lake boats 5 euros per cruise, 3 euros per crossing, dog muzzled and leashed on board.`,
+      ],
+      es: [
+        `Veterinaria: Tierarztpraxis Mag. Veronika Brugger, Kitzsteinhornstraße 43, +43 6542 55200, línea de urgencias +43 699 1155200 (la consulta listada por la oficina de turismo).`,
+        `A 10 minutos al sur: Kleintierzentrum Bruck, Sportplatzstraße 1b, Bruck an der Großglocknerstraße, +43 6545 6850 (lun-vie 8:00-19:00, sáb 9:00-12:00, urgencias tras llamada).`,
+        `La línea nocturna salzburguesa para pequeños animales NO cubre el Pinzgau: fuera de horario llama directamente a las consultas locales; el 112 sigue siendo el número de emergencias europeo.`,
+        `Transporte: perros con bozal resistente y correa corta en los buses y trenes del Salzburger Verkehrsverbund, a la tarifa mínima del trayecto; gratis con KlimaTicket o en transportín.`,
+        `Remontes y barcos: billete canino en la Schmittenhöhe y el Kitzsteinhorn (bozal puesto en cabina); barcos del lago 5 euros el crucero, 3 euros el cruce, perro con bozal y correa a bordo.`,
+      ],
+      pt: [
+        `Veterinária: Tierarztpraxis Mag. Veronika Brugger, Kitzsteinhornstraße 43, +43 6542 55200, linha de urgência +43 699 1155200 (a clínica listada pelo posto de turismo).`,
+        `A 10 minutos a sul: Kleintierzentrum Bruck, Sportplatzstraße 1b, Bruck an der Großglocknerstraße, +43 6545 6850 (seg-sex 8:00-19:00, sáb 9:00-12:00, urgências após telefonema).`,
+        `A linha noturna de Salzburgo para pequenos animais NÃO cobre o Pinzgau: fora de horas, ligue diretamente às clínicas locais; o 112 continua a ser o número de emergência europeu.`,
+        `Transportes: cães com açaime resistente e trela curta nos autocarros e comboios do Salzburger Verkehrsverbund, à tarifa mínima do trajeto; grátis com KlimaTicket ou em transportadora.`,
+        `Teleféricos e barcos: bilhete de cão na Schmittenhöhe e no Kitzsteinhorn (açaime posto na cabine); barcos do lago 5 euros o cruzeiro, 3 euros a travessia, cão com açaime e trela a bordo.`,
+      ],
+    },
+  },
+
   zermatt: {
     history: {
       en: `Zermatt sits at 1,608 m at the head of the Matter Valley in the Valais, at the foot of the Matterhorn - one of the most recognisable mountains on Earth. The village was a poor farming hamlet until 1865, when Edward Whymper's first ascent of the Matterhorn (and the fatal descent that followed) made it world-famous overnight, and the British and Continental mountaineering elite descended upon it. Today Zermatt has roughly 5,800 permanent residents and over 2 million visitors a year, with a unique car-free policy in place since 1947: only electric taxis, small electric carts and on-foot movement inside the village. The Matterhorn-Gotthard Bahn and the iconic Gornergratbahn cogwheel railway connect Zermatt to Visp and the high Gornergrat ridge. Dogs are an integral part of village life: hotels routinely accept pets, the Sunnegga funicular and most cable cars carry leashed dogs free or at half-fare, and the village's Tierarztpraxis Zermatt handles altitude- and trail-related issues unique to a high-Alpine destination. Swiss third-party dog liability insurance is mandatory for residents; visitors are strongly encouraged to carry travel cover that includes mountain rescue (the Rega 1414 service can airlift dogs alongside owners).`,

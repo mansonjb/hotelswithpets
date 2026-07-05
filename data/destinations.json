@@ -26936,5 +26936,79 @@
         "icon": "❄️"
       }
     }
+  },
+  {
+    "slug": "zell-am-see",
+    "name": "Zell am See",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/zell-am-see.jpg",
+    "intro": "Lake, glacier and summit with the dog in tow: Zell am See lets muzzled, leashed dogs ride the Schmittenhohe cable cars, the Kitzsteinhorn glacier lifts and even the Lake Zell boats, while the Erlberg dog zone and the Klammsee give them room to run and swim. Just pack the muzzle, it is the key that opens the whole region.",
+    "lat": 47.3229,
+    "lng": 12.7981,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Snowy ski season",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Late winter sun",
+        "icon": "🌨️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Thawing meadows",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Green & fresh",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Mild lake summer",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Warm swimming days",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Warm with storms",
+        "icon": "⛈️"
+      },
+      "sep": {
+        "temp": 13,
+        "desc": "Clear & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 2,
+        "desc": "Cold, first snow",
+        "icon": "🌨️"
+      },
+      "dec": {
+        "temp": -2,
+        "desc": "Snowy & festive",
+        "icon": "❄️"
+      }
+    }
   }
 ]

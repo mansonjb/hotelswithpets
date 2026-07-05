@@ -1687,8 +1687,13 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the 27-hectare Parque Grande Labordeta, the fenced canine zone in Parque del Tío Jorge, and the riverside walks along the Riberas del Ebro`,
       area: `the Casco Histórico around El Pilar, the leafy Centro on Paseo de Sagasta, and the Magdalena tapas quarter`,
     },
+    'zell-am-see': {
+      personality: `Austria's lake-and-glacier resort in the Pinzgau, where muzzled, leashed dogs ride the Schmittenhöhe cable cars, the Kitzsteinhorn glacier lifts up to 3,029 m and even the Lake Zell boats (5 euros a cruise), and the town keeps an official off-leash dog zone at Erlberg; the one local habit to adopt is the leash-or-muzzle rule in all public spaces`,
+      highlight: `the Elisabethpark lakefront, the roughly 11 km Zeller See loop via Thumersbach, the Erlberg off-leash dog zone and the Sigmund Thun gorge boardwalk to the Klammsee`,
+      area: `the lakefront esplanade and old town around the Stadtplatz, Thumersbach across the water for quiet shoreline stays, and Kaprun village for the glacier side`,
+    },
     zermatt: {
-      personality: 'the car-free Alpine resort village at the foot of the Matterhorn, where dogs ride the Sunnegga funicular and Gornergrat railway free or half-fare, swim at the Leisee dog beach, and walk the legendary Five Lakes route past the Stellisee reflection',
+      personality: 'the car-free Alpine resort village at the foot ofthe Matterhorn, where dogs ride the Sunnegga funicular and Gornergrat railway free or half-fare, swim at the Leisee dog beach, and walk the legendary Five Lakes route past the Stellisee reflection',
       highlight: 'the Five Lakes Walk from Stellisee to Leisee, the Gornergrat railway to a 3,089 m dog-friendly panorama, and the Matter Vispa river path through the village',
       area: 'the car-free village centre on Bahnhofstrasse, the Sunnegga-Blauherd plateau, and the Gornergrat and Schwarzsee ridges above the valley',
     },
@@ -3478,6 +3483,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la capitale de l'Aragon et cinquième ville d'Espagne, ancrée par la Basílica del Pilar sur l'Ebre et bâtie autour de 126 zones sans laisse désignées, l'un des réseaux dog-friendly les plus denses d'Espagne, plus l'hôpital de référence AniCura Emvet 24h/24`,
       highlight: `le Parque Grande Labordeta de 27 hectares, l'enclos canin du Parque del Tío Jorge et les promenades fluviales des Riberas del Ebro`,
       area: `le Casco Histórico autour d'El Pilar, le Centro arboré sur Paseo de Sagasta et le quartier à tapas Magdalena`,
+    },
+    'zell-am-see': {
+      personality: `la station lac-et-glacier de l'Autriche, dans le Pinzgau, où les chiens muselés et en laisse prennent les remontées de la Schmittenhöhe, les téléphériques du glacier Kitzsteinhorn jusqu'à 3 029 m et même les bateaux du lac de Zell (5 euros la croisière), avec une zone canine officielle sans laisse à Erlberg ; la seule habitude locale à adopter est la règle laisse-ou-muselière dans tous les espaces publics`,
+      highlight: `le parc Elisabethpark au bord du lac, la boucle d'environ 11 km du Zeller See par Thumersbach, la zone canine sans laisse d'Erlberg et la passerelle des gorges Sigmund Thun vers le Klammsee`,
+      area: `l'esplanade du lac et la vieille ville autour du Stadtplatz, Thumersbach en face pour des séjours de rive tranquilles, et le village de Kaprun côté glacier`,
     },
     zermatt: {
       personality: `le village alpin sans voiture au pied du Cervin, où les chiens prennent gratuitement ou à demi-tarif le funiculaire du Sunnegga et le train du Gornergrat, se baignent à la plage canine du Leisee et parcourent la légendaire randonnée des Cinq Lacs jusqu'au reflet du Stellisee`,
@@ -5271,6 +5281,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Parque Grande Labordeta de 27 hectáreas, la zona canina vallada del Parque del Tío Jorge y los paseos junto al río en las Riberas del Ebro`,
       area: `el Casco Histórico alrededor del Pilar, el frondoso Centro en el Paseo de Sagasta y el barrio de tapas de La Magdalena`,
     },
+    'zell-am-see': {
+      personality: `la estación austriaca de lago y glaciar del Pinzgau, donde los perros con bozal y correa suben a los remontes de la Schmittenhöhe, a los teleféricos del glaciar Kitzsteinhorn hasta 3.029 m e incluso a los barcos del lago Zell (5 euros el crucero), con una zona canina oficial sin correa en Erlberg; la única costumbre local que adoptar es la regla de correa o bozal en todos los espacios públicos`,
+      highlight: `el Elisabethpark junto al lago, la vuelta de unos 11 km al Zeller See por Thumersbach, la zona canina sin correa de Erlberg y la pasarela de la garganta Sigmund Thun hacia el Klammsee`,
+      area: `la explanada del lago y el casco antiguo en torno al Stadtplatz, Thumersbach enfrente para estancias tranquilas de orilla, y el pueblo de Kaprun en el lado del glaciar`,
+    },
     zermatt: {
       personality: `el pueblo alpino sin coches al pie del Matterhorn, donde los perros viajan gratis o a medio billete en el funicular del Sunnegga y el tren del Gornergrat, se bañan en la playa canina del Leisee y recorren la legendaria caminata Cinco Lagos hasta el reflejo del Stellisee`,
       highlight: `la caminata Cinco Lagos del Stellisee al Leisee, el tren del Gornergrat hacia un panorama dog-friendly a 3.089 m y el sendero del Matter Vispa por el pueblo`,
@@ -7062,6 +7077,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital de Aragón e quinta cidade de Espanha, anclada pela Basílica do Pilar a margens do Ebro e articulada alrededor de 126 zonas sem trela designadas, uma das redes de parques pet-friendly mais densas de Espanha, além disso do hospital de referencia AniCura Emvet 24/7`,
       highlight: `o Parque Grande Labordeta de 27 hectáreas, a zona canina vallada do Parque do Tío Jorge e os passeios junto al rio nas Riberas do Ebro`,
       area: `o Casco Histórico alrededor do Pilar, o frondoso Centro no Passeio de Sagasta e o bairro de tapas da Magdalena`,
+    },
+    'zell-am-see': {
+      personality: `a estância austríaca de lago e glaciar do Pinzgau, onde cães com açaime e trela sobem nos teleféricos da Schmittenhöhe, nos do glaciar Kitzsteinhorn até aos 3.029 m e até nos barcos do lago Zell (5 euros o cruzeiro), com uma zona canina oficial sem trela em Erlberg; o único hábito local a adotar é a regra trela-ou-açaime em todos os espaços públicos`,
+      highlight: `o Elisabethpark à beira do lago, a volta de cerca de 11 km ao Zeller See por Thumersbach, a zona canina sem trela de Erlberg e o passadiço da garganta Sigmund Thun até ao Klammsee`,
+      area: `a esplanada do lago e a zona velha em torno do Stadtplatz, Thumersbach em frente para estadias tranquilas de margem, e a aldeia de Kaprun do lado do glaciar`,
     },
     zermatt: {
       personality: `a aldeia alpina sem carros ao pé do Matterhorn, onde os cães viajam grátis ou com meio bilhete no funicular do Sunnegga e no comboio do Gornergrat, banham-se na praia canina do Leisee e percorrem a lendária caminhada dos Cinco Lagos até ao reflexo do Stellisee`,

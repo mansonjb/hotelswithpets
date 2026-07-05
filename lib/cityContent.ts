@@ -8309,6 +8309,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  chamonix: {
+    history: {
+      fr: `Chamonix-Mont-Blanc, environ 8 700 habitants au pied du plus haut sommet d'Europe occidentale, est la capitale mondiale de l'alpinisme depuis la première ascension du Mont-Blanc par Balmat et Paccard en 1786. Hôte des premiers Jeux olympiques d'hiver en 1924, la vallée vit toute l'année au rythme des cordées, des parapentes et des trailers. Avec un chien, c'est l'une des stations alpines les plus simples de France : les chiens en laisse montent dans les bus de la vallée, la navette Mulet, le Mont-Blanc Express (demi-tarif) et presque toutes les remontées, y compris le mythique train du Montenvers vers la Mer de Glace ; l'office de tourisme publie même une liste officielle de randonnées dog-friendly par village. Deux interdits structurent le séjour : le téléphérique de l'Aiguille du Midi n'accepte aucun animal, et la réserve naturelle des Aiguilles Rouges, Lac Blanc compris, est fermée aux chiens même en laisse, avec des gardes qui verbalisent. Ajoutez la cohabitation estivale avec les patous sur les alpages et la protection des coussinets sur le granite, et Chamonix se révèle un immense terrain de jeu canin, à condition de connaître les règles.`,
+      en: `Chamonix-Mont-Blanc, around 8,700 residents at the foot of Western Europe's highest summit, has been the world capital of mountaineering since Balmat and Paccard first climbed Mont Blanc in 1786. Host of the first Winter Olympics in 1924, the valley lives year-round to the rhythm of rope parties, paragliders and trail runners. With a dog it is one of France's easiest Alpine resorts: leashed dogs ride the valley buses, the Mulet shuttle, the Mont-Blanc Express (half fare) and almost every lift, including the legendary Montenvers train to the Mer de Glace; the tourist office even publishes an official list of dog-friendly hikes by village. Two bans frame the trip: the Aiguille du Midi cable car takes no animals, and the Aiguilles Rouges nature reserve, Lac Blanc included, is closed to dogs even on a leash, with rangers issuing fines. Add summer coexistence with patou guardian dogs on the pastures and paw protection on granite trails, and Chamonix turns out to be a huge canine playground, provided you know the rules.`,
+      es: `Chamonix-Mont-Blanc, unos 8.700 habitantes al pie de la cumbre más alta de Europa occidental, es la capital mundial del alpinismo desde que Balmat y Paccard coronaron el Mont Blanc en 1786. Sede de los primeros Juegos Olímpicos de invierno en 1924, el valle vive todo el año al ritmo de cordadas, parapentes y corredores de montaña. Con perro es una de las estaciones alpinas más fáciles de Francia: los perros con correa suben a los buses del valle, a la lanzadera Mulet, al Mont-Blanc Express (media tarifa) y a casi todos los remontes, incluido el mítico tren del Montenvers a la Mer de Glace; la oficina de turismo publica incluso una lista oficial de rutas dog-friendly por pueblo. Dos prohibiciones marcan el viaje: el teleférico de la Aiguille du Midi no admite animales, y la reserva natural de Aiguilles Rouges, Lac Blanc incluido, está cerrada a los perros incluso con correa, con guardas que multan. Añade la convivencia estival con los patous en los pastos y la protección de las almohadillas en el granito, y Chamonix resulta un enorme parque canino, siempre que conozcas las reglas.`,
+      pt: `Chamonix-Mont-Blanc, cerca de 8.700 habitantes ao pé do cume mais alto da Europa ocidental, é a capital mundial do alpinismo desde que Balmat e Paccard subiram o Monte Branco em 1786. Sede dos primeiros Jogos Olímpicos de inverno em 1924, o vale vive todo o ano ao ritmo das cordadas, dos parapentes e dos trail runners. Com um cão é uma das estâncias alpinas mais fáceis de França: cães com trela andam nos autocarros do vale, no shuttle Mulet, no Mont-Blanc Express (meio bilhete) e em quase todos os teleféricos, incluindo o mítico comboio do Montenvers até à Mer de Glace; o posto de turismo publica até uma lista oficial de caminhadas dog-friendly por aldeia. Duas proibições marcam a viagem: o teleférico da Aiguille du Midi não aceita animais, e a reserva natural das Aiguilles Rouges, Lac Blanc incluído, está fechada aos cães mesmo com trela, com guardas a multar. Junte a coexistência estival com os patous nas pastagens e a proteção das almofadinhas no granito, e Chamonix revela-se um enorme recreio canino, desde que se conheçam as regras.`,
+    },
+    sights: [
+      {
+        name: 'Mer de Glace (Montenvers)',
+        emoji: '🚂',
+        petFriendly: true,
+        desc: {
+          fr: `Le train rouge à crémaillère de 1908 grimpe en 20 minutes au balcon du Montenvers, à 1 913 m au-dessus du plus grand glacier de France. Chiens en laisse admis à bord et sur tout le site ; évitez les escaliers métalliques ajourés de la grotte de glace, durs pour les coussinets.`,
+          en: `The little red cog train of 1908 climbs in 20 minutes to the Montenvers balcony, 1,913 m above France's largest glacier. Leashed dogs are allowed on board and across the site; skip the openwork metal stairs to the ice cave, hard on paw pads.`,
+          es: `El pequeño tren rojo de cremallera de 1908 sube en 20 minutos al balcón del Montenvers, a 1.913 m sobre el mayor glaciar de Francia. Perros con correa admitidos a bordo y en todo el sitio; evita las escaleras metálicas caladas de la cueva de hielo, duras para las almohadillas.`,
+          pt: `O pequeno comboio vermelho de cremalheira de 1908 sobe em 20 minutos à varanda do Montenvers, a 1.913 m sobre o maior glaciar de França. Cães com trela admitidos a bordo e em todo o local; evite as escadas metálicas gradeadas da gruta de gelo, duras para as almofadinhas.`,
+        },
+      },
+      {
+        name: 'Aiguille du Midi',
+        emoji: '🚡',
+        petFriendly: false,
+        desc: {
+          fr: `Le téléphérique le plus vertigineux des Alpes bondit à 3 842 m face au Mont-Blanc, mais les animaux sont interdits sur ses deux tronçons (seuls les chiens d'assistance certifiés sont admis). Prévoyez un pet-sitter pour la demi-journée ou partagez la montée en deux tours de rôle.`,
+          en: `The most vertiginous cable car in the Alps leaps to 3,842 m facing Mont Blanc, but animals are banned from both sections (only certified assistance dogs are admitted). Book a pet sitter for the half day or take turns going up.`,
+          es: `El teleférico más vertiginoso de los Alpes salta a 3.842 m frente al Mont Blanc, pero los animales están prohibidos en sus dos tramos (solo se admiten perros de asistencia certificados). Reserva un cuidador para la media jornada o subid por turnos.`,
+          pt: `O teleférico mais vertiginoso dos Alpes salta para os 3.842 m em frente ao Monte Branco, mas os animais são proibidos nas duas secções (só cães de assistência certificados são admitidos). Reserve um pet sitter para a meia jornada ou subam à vez.`,
+        },
+      },
+      {
+        name: 'Petit Balcon Sud',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Sentier forestier vallonné qui court tout le long de la vallée côté soleil, sous la limite de la réserve des Aiguilles Rouges : les chiens y sont autorisés sur tout le tracé. Multiples accès depuis Chamonix, Les Praz et Argentière, retour possible en bus ou en train.`,
+          en: `A rolling forest trail running the whole valley on the sunny side, below the Aiguilles Rouges reserve boundary: dogs are allowed along the entire route. Multiple access points from Chamonix, Les Praz and Argentière, with bus or train rides back.`,
+          es: `Sendero forestal ondulado que recorre todo el valle por la ladera soleada, bajo el límite de la reserva de Aiguilles Rouges: los perros están permitidos en todo el trazado. Múltiples accesos desde Chamonix, Les Praz y Argentière, con vuelta en bus o tren.`,
+          pt: `Trilho florestal ondulado que percorre todo o vale pelo lado soalheiro, abaixo do limite da reserva das Aiguilles Rouges: os cães são permitidos em todo o traçado. Vários acessos desde Chamonix, Les Praz e Argentière, com regresso de autocarro ou comboio.`,
+        },
+      },
+      {
+        name: 'Lac des Gaillands',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Petit lac miroir à l'ouest de la ville, célèbre pour ses reflets du Mont-Blanc et sa falaise-école d'escalade. Les chiens peuvent se tremper sur la rive boisée opposée, à l'écart des pelouses de pique-nique et des pêcheurs ; laisse près des familles.`,
+          en: `A small mirror lake west of town, famous for its Mont Blanc reflections and its historic climbing crag. Dogs can take a dip on the quieter wooded far shore, away from the picnic lawns and anglers; leash up near families.`,
+          es: `Pequeño lago espejo al oeste del pueblo, famoso por sus reflejos del Mont Blanc y su escuela de escalada. Los perros pueden darse un baño en la orilla arbolada opuesta, lejos del césped de picnic y los pescadores; correa cerca de las familias.`,
+          pt: `Pequeno lago espelho a oeste da vila, famoso pelos reflexos do Monte Branco e pela escola de escalada. Os cães podem molhar-se na margem arborizada oposta, longe dos relvados de piquenique e dos pescadores; trela perto das famílias.`,
+        },
+      },
+      {
+        name: 'Planpraz et Le Brévent',
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          fr: `La télécabine du centre-ville hisse les chiens en laisse à Planpraz (2 000 m), balcon classique face au massif du Mont-Blanc ; en été, le téléphérique du Brévent les accepte jusqu'à 2 525 m. Attention, le télésiège de l'Index au-dessus de la Flégère reste interdit aux chiens.`,
+          en: `The gondola from the town centre lifts leashed dogs to Planpraz (2,000 m), the classic balcony facing the Mont Blanc massif; in summer the Brévent cable car takes them on to 2,525 m. Note the Index chairlift above La Flégère stays closed to dogs.`,
+          es: `La telecabina del centro sube a los perros con correa a Planpraz (2.000 m), el balcón clásico frente al macizo del Mont Blanc; en verano el teleférico del Brévent los lleva hasta 2.525 m. Ojo: el telesilla Index sobre La Flégère sigue vetado a los perros.`,
+          pt: `A telecabina do centro leva cães com trela até Planpraz (2.000 m), a varanda clássica em frente ao maciço do Monte Branco; no verão o teleférico do Brévent leva-os até aos 2.525 m. Atenção: o telesqui Index acima de La Flégère continua fechado aos cães.`,
+        },
+      },
+      {
+        name: 'Cascade du Dard',
+        emoji: '💦',
+        petFriendly: true,
+        desc: {
+          fr: `Randonnée forestière intermédiaire (2 h aller-retour) depuis la sortie de la ville jusqu'à une cascade tonitruante avec buvette saisonnière. Elle figure sur la liste officielle des randos dog-friendly de l'office de tourisme ; laisse conseillée sur la partie haute étroite.`,
+          en: `An intermediate forest hike (2 h return) from the edge of town to a thundering waterfall with a seasonal refreshment hut. It features on the tourist office's official dog-friendly hike list; leash advised on the narrow upper section.`,
+          es: `Ruta forestal intermedia (2 h ida y vuelta) desde el borde del pueblo hasta una cascada atronadora con chiringuito estacional. Figura en la lista oficial de rutas dog-friendly de la oficina de turismo; correa aconsejada en el tramo alto estrecho.`,
+          pt: `Caminhada florestal intermédia (2 h ida e volta) desde a saída da vila até uma cascata trovejante com quiosque sazonal. Consta da lista oficial de caminhadas dog-friendly do posto de turismo; trela aconselhada no troço alto estreito.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La réserve naturelle des Aiguilles Rouges (Lac Blanc, Aiguillette des Houches côté réserve) est interdite aux chiens même en laisse : les gardes verbalisent. Visez le Petit Balcon Sud, Planpraz ou le Montenvers pour les mêmes panoramas.`,
+        `L'Aiguille du Midi refuse tous les animaux ; réservez un pet-sitter local (Gudog, Emprunte Mon Toutou) pour la demi-journée ou montez à tour de rôle.`,
+        `Sur les alpages en été, croisement de patous probable : chien en laisse, contournez largement le troupeau, pas de course ni de bâtons levés.`,
+        `Granite, pierriers et escaliers métalliques du Montenvers usent les coussinets : bottines ou cire protectrice, et de l'eau en quantité car les torrents glaciaires chargés de farine de roche ne désaltèrent pas bien.`,
+        `Dans les transports (bus, Mont-Blanc Express), laisse obligatoire et muselière exigée pour les chiens de catégories 1 et 2 ; le billet chien du train coûte 50 % du tarif adulte.`,
+      ],
+      en: [
+        `The Aiguilles Rouges nature reserve (Lac Blanc, the reserve side of the Aiguillette des Houches) is forbidden to dogs even on a leash: rangers do fine. Aim for the Petit Balcon Sud, Planpraz or the Montenvers for the same panoramas.`,
+        `The Aiguille du Midi refuses all animals; book a local pet sitter (Gudog, Emprunte Mon Toutou) for the half day or take turns going up.`,
+        `On summer pastures you will likely meet patous (livestock guardian dogs): leash your dog, give the herd a wide berth, no running or raised poles.`,
+        `Granite, scree and the Montenvers metal stairs wear paw pads: pack booties or paw wax, plus plenty of drinking water since silty glacial torrents are poor for drinking.`,
+        `On public transport (buses, Mont-Blanc Express) leashes are mandatory and category 1 and 2 breeds must be muzzled; the train dog ticket costs 50% of the adult fare.`,
+      ],
+      es: [
+        `La reserva natural de Aiguilles Rouges (Lac Blanc, la vertiente de reserva de la Aiguillette des Houches) está prohibida para perros incluso con correa: los guardas multan. Apunta al Petit Balcon Sud, Planpraz o el Montenvers para los mismos panoramas.`,
+        `La Aiguille du Midi rechaza a todos los animales; reserva un cuidador local (Gudog, Emprunte Mon Toutou) para la media jornada o subid por turnos.`,
+        `En los pastos de verano es probable cruzarse con patous (perros protectores de rebaños): perro atado, rodea ampliamente el rebaño, sin correr ni levantar bastones.`,
+        `El granito, las pedreras y las escaleras metálicas del Montenvers desgastan las almohadillas: lleva botines o cera protectora, y agua abundante porque los torrentes glaciares cargados de harina de roca no sirven bien para beber.`,
+        `En el transporte público (buses, Mont-Blanc Express) la correa es obligatoria y las razas de categorías 1 y 2 deben llevar bozal; el billete de perro del tren cuesta el 50% de la tarifa de adulto.`,
+      ],
+      pt: [
+        `A reserva natural das Aiguilles Rouges (Lac Blanc, o lado de reserva da Aiguillette des Houches) é proibida a cães mesmo com trela: os guardas multam. Aponte ao Petit Balcon Sud, a Planpraz ou ao Montenvers para os mesmos panoramas.`,
+        `A Aiguille du Midi recusa todos os animais; reserve um pet sitter local (Gudog, Emprunte Mon Toutou) para a meia jornada ou subam à vez.`,
+        `Nas pastagens de verão é provável cruzar-se com patous (cães de proteção de rebanhos): cão com trela, contorne bem o rebanho, sem correr nem levantar bastões.`,
+        `O granito, os pedregais e as escadas metálicas do Montenvers desgastam as almofadinhas: leve botinhas ou cera protetora, e água em quantidade porque as torrentes glaciares carregadas de farinha de rocha não servem bem para beber.`,
+        `Nos transportes públicos (autocarros, Mont-Blanc Express) a trela é obrigatória e as raças de categorias 1 e 2 devem usar açaime; o bilhete de cão do comboio custa 50% da tarifa de adulto.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaires : Cabinet Vétérinaire de la Vallée, 120 place du Poilu, +33 4 50 53 31 71 (urgences +33 4 50 93 51 46) ; VetCham aux Praz, 1273 route des Praz, +33 4 50 53 98 08.`,
+        `Urgences 24h/24 : CHV Saint-Martin, 275 route Impériale, Saint-Martin-Bellevue (environ 1 h de route), +33 4 50 60 09 00 ; numéro national de garde vétérinaire 3115.`,
+        `Transports : bus de la vallée et navette Mulet gratuits avec la carte d'hôte, chiens en laisse admis ; Mont-Blanc Express avec billet chien à demi-tarif.`,
+        `Remontées : chiens acceptés partout sauf Aiguille du Midi et télésiège de l'Index ; au Brévent, tronçon sommital fermé aux chiens en hiver.`,
+        `Météo : orages d'été fréquents l'après-midi et fort rayonnement UV en altitude ; partez tôt, redescendez avant 15 h et prévoyez de l'ombre et de l'eau pour le chien.`,
+      ],
+      en: [
+        `Vets: Cabinet Vétérinaire de la Vallée, 120 Place du Poilu, +33 4 50 53 31 71 (emergencies +33 4 50 93 51 46); VetCham in Les Praz, 1273 Route des Praz, +33 4 50 53 98 08.`,
+        `24/7 emergencies: CHV Saint-Martin, 275 Route Impériale, Saint-Martin-Bellevue (about 1 h drive), +33 4 50 60 09 00; French national on-call vet line 3115.`,
+        `Transport: valley buses and the Mulet shuttle are free with the guest card and take leashed dogs; the Mont-Blanc Express charges dogs half fare.`,
+        `Lifts: dogs accepted everywhere except the Aiguille du Midi and the Index chairlift; the top section of the Brévent is closed to dogs in winter.`,
+        `Weather: frequent summer afternoon thunderstorms and strong UV at altitude; start early, be back down by 3 pm and plan shade and water for the dog.`,
+      ],
+      es: [
+        `Veterinarios: Cabinet Vétérinaire de la Vallée, 120 Place du Poilu, +33 4 50 53 31 71 (urgencias +33 4 50 93 51 46); VetCham en Les Praz, 1273 Route des Praz, +33 4 50 53 98 08.`,
+        `Urgencias 24h: CHV Saint-Martin, 275 Route Impériale, Saint-Martin-Bellevue (aprox. 1 h en coche), +33 4 50 60 09 00; número nacional francés de guardia veterinaria 3115.`,
+        `Transporte: buses del valle y lanzadera Mulet gratis con la tarjeta de huésped, perros con correa admitidos; el Mont-Blanc Express cobra media tarifa por perro.`,
+        `Remontes: perros aceptados en todos salvo la Aiguille du Midi y el telesilla Index; el tramo superior del Brévent cierra a los perros en invierno.`,
+        `Meteo: tormentas de verano frecuentes por la tarde y fuerte radiación UV en altura; sal temprano, baja antes de las 15 h y prevé sombra y agua para el perro.`,
+      ],
+      pt: [
+        `Veterinários: Cabinet Vétérinaire de la Vallée, 120 Place du Poilu, +33 4 50 53 31 71 (urgências +33 4 50 93 51 46); VetCham em Les Praz, 1273 Route des Praz, +33 4 50 53 98 08.`,
+        `Urgências 24h: CHV Saint-Martin, 275 Route Impériale, Saint-Martin-Bellevue (cerca de 1 h de carro), +33 4 50 60 09 00; número nacional francês de urgência veterinária 3115.`,
+        `Transportes: autocarros do vale e shuttle Mulet grátis com o cartão de hóspede, cães com trela admitidos; o Mont-Blanc Express cobra meio bilhete por cão.`,
+        `Teleféricos: cães aceites em todos exceto a Aiguille du Midi e o telesqui Index; o troço superior do Brévent fecha aos cães no inverno.`,
+        `Meteorologia: trovoadas de verão frequentes à tarde e forte radiação UV em altitude; parta cedo, desça antes das 15 h e preveja sombra e água para o cão.`,
+      ],
+    },
+  },
+
   chania: {
     history: {
       fr: `La Canée (Chania) est l'une des plus anciennes villes habitées de Crète : la Kydonia minoenne s'élevait déjà ici il y a 3 500 ans. Mais c'est Venise qui a donné à la ville son visage actuel : de 1252 à 1645, les Vénitiens ont bâti le port, le phare, les arsenaux et les demeures colorées qui font aujourd'hui la carte postale. Les Ottomans ont ensuite ajouté mosquées et fontaines, avant que la Crète ne rejoigne la Grèce en 1913. Bombardée pendant la bataille de Crète en 1941, la vieille ville a survécu et reste un labyrinthe de ruelles où se mêlent églises vénitiennes, hammams turcs et tavernes de pêcheurs. Pour un voyageur avec un chien, Chania est une base idéale : port piéton, ruelles ombragées, plages accessibles à l'ouest et montagnes blanches (Lefka Ori) en toile de fond, avec une population locale habituée aux animaux.`,

@@ -631,6 +631,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Off-Leash Hours dawn-to-09:00 pack on Boston Common, Peters Park (the only fenced off-leash dog park inside city limits), the 27 km Charles River Esplanade, the entire Freedom Trail and the Arnold Arboretum, plus the Castle Island/Pleasure Bay seawall loop off-season`,
       area: `Back Bay and Beacon Hill for doorstep Esplanade and Common access, the South End for Peters Park and the Beehive patios, the Seaport/Fort Point for the Harborwalk and Trillium beer garden, Cambridge for Harvard Square patios and the Charles north bank`,
     },
+    chamonix: {
+      personality: `the mountaineering capital of the Alps at the foot of Mont Blanc, where leashed dogs ride the valley buses, the Mont-Blanc Express and nearly every lift including the Montenvers train to the Mer de Glace, and the tourist office publishes an official list of dog-friendly hikes; only the Aiguille du Midi cable car and the Aiguilles Rouges nature reserve (Lac Blanc included) stay off-limits`,
+      highlight: `the Paradis des Praz riverside streams, the valley-long Petit Balcon Sud forest trail, the Cascade du Dard hike and a dip at Lac des Gaillands under Mont Blanc`,
+      area: `the pedestrian centre around Rue du Docteur Paccard, Les Praz for the Flégère side and the golf meadows, and Argentière for quieter trailhead stays`,
+    },
     chicago: {
       personality: `the Midwest's lakefront capital with one of the largest US Dog Friendly Area networks (25+ fenced off-leash DFAs plus the dedicated Montrose Dog Beach, the only off-leash beach in the city), a flat 29 km Lakefront Trail along Lake Michigan, 485-hectare Lincoln Park, and brutal winters that turn dog dining into a heated-patio circuit (Kaiser Tiger, Big Star) from December to March`,
       highlight: `Montrose Dog Beach in Uptown, the Wiggly Field DFA in Lincoln Park, the Lakefront Trail and free Lincoln Park Zoo perimeter, the Chicago Riverwalk, and the leashed-dog lap of Cloud Gate ('The Bean') at Millennium Park`,
@@ -2419,6 +2424,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la meute Off-Leash Hours du lever du soleil à 9h sur Boston Common, Peters Park (seul parc canin clôturé off-leash dans la ville), les 27 km de la Charles River Esplanade, tout le Freedom Trail et l'Arnold Arboretum, plus la boucle de digue Castle Island/Pleasure Bay hors saison`,
       area: `Back Bay et Beacon Hill pour l'accès au pas de la porte à l'Esplanade et au Common, le South End pour Peters Park et les terrasses du Beehive, le Seaport/Fort Point pour le Harborwalk et le beer garden Trillium, Cambridge pour les terrasses de Harvard Square et la rive nord de la Charles`,
     },
+    chamonix: {
+      personality: `la capitale mondiale de l'alpinisme au pied du Mont-Blanc, où les chiens en laisse montent dans les bus de la vallée, le Mont-Blanc Express et presque toutes les remontées, y compris le train du Montenvers vers la Mer de Glace, et où l'office de tourisme publie une liste officielle de randos dog-friendly ; seuls le téléphérique de l'Aiguille du Midi et la réserve naturelle des Aiguilles Rouges (Lac Blanc compris) restent interdits`,
+      highlight: `les ruisseaux du Paradis des Praz, le Petit Balcon Sud qui court tout le long de la vallée, la rando de la Cascade du Dard et une trempette au lac des Gaillands sous le Mont-Blanc`,
+      area: `le centre piéton autour de la rue du Docteur Paccard, Les Praz côté Flégère et prairies du golf, et Argentière pour loger au calme près des départs de sentiers`,
+    },
     chicago: {
       personality: `la capitale du Midwest sur le lac Michigan, avec l'un des plus grands réseaux de Dog Friendly Areas des États-Unis (plus de 25 DFA off-leash clôturées et la Montrose Dog Beach dédiée, seule plage off-leash de la ville), un Lakefront Trail plat de 29 km, le Lincoln Park de 485 hectares, et des hivers rigoureux qui ramènent le repas avec chien à un circuit de terrasses chauffées (Kaiser Tiger, Big Star) de décembre à mars`,
       highlight: `la Montrose Dog Beach à Uptown, le DFA Wiggly Field à Lincoln Park, le Lakefront Trail et le pourtour gratuit du Lincoln Park Zoo, le Chicago Riverwalk, et le tour en laisse autour de Cloud Gate (« The Bean ») à Millennium Park`,
@@ -4206,6 +4216,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la manada Off-Leash Hours del amanecer a las 09:00 en Boston Common, Peters Park (único parque canino vallado off-leash dentro de la ciudad), los 27 km de la Charles River Esplanade, todo el Freedom Trail y el Arnold Arboretum, además del bucle de dique Castle Island/Pleasure Bay fuera de temporada`,
       area: `Back Bay y Beacon Hill para acceso al pie de la puerta a la Esplanade y al Common, el South End para Peters Park y las terrazas del Beehive, el Seaport/Fort Point para el Harborwalk y el beer garden Trillium, Cambridge para las terrazas de Harvard Square y la orilla norte del Charles`,
     },
+    chamonix: {
+      personality: `la capital mundial del alpinismo al pie del Mont Blanc, donde los perros con correa suben a los buses del valle, al Mont-Blanc Express y a casi todos los remontes, incluido el tren del Montenvers a la Mer de Glace, y donde la oficina de turismo publica una lista oficial de rutas dog-friendly; solo el teleférico de la Aiguille du Midi y la reserva natural de Aiguilles Rouges (Lac Blanc incluido) siguen vetados`,
+      highlight: `los arroyos del Paradis des Praz, el Petit Balcon Sud que recorre todo el valle, la ruta de la Cascade du Dard y un chapuzón en el Lac des Gaillands bajo el Mont Blanc`,
+      area: `el centro peatonal en torno a la Rue du Docteur Paccard, Les Praz junto a La Flégère y los prados del golf, y Argentière para alojarse tranquilo cerca de los senderos`,
+    },
     chicago: {
       personality: `la capital del Medio Oeste a orillas del lago Michigan, con una de las mayores redes de Dog Friendly Areas de EE. UU. (más de 25 DFA off-leash valladas y la Montrose Dog Beach dedicada, única playa off-leash de la ciudad), un Lakefront Trail llano de 29 km, el Lincoln Park de 485 hectáreas, e inviernos duros que reducen la comida con perro a un circuito de terrazas calefactadas (Kaiser Tiger, Big Star) de diciembre a marzo`,
       highlight: `Montrose Dog Beach en Uptown, el DFA Wiggly Field en Lincoln Park, el Lakefront Trail y el perímetro gratuito del Lincoln Park Zoo, el Chicago Riverwalk, y la vuelta con correa alrededor de Cloud Gate ('The Bean') en Millennium Park`,
@@ -5992,6 +6007,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a cidade pedonal mais antiga dos Estados Unidos e a capital lacustre-portuária da Nova Inglaterra, com o distinto programa Off-Leash Hours em mais de 20 parques públicos (Boston Common à frente, o parque público mais antigo do país, 1634), os 27 km da Charles River Esplanade, os 4 km do Freedom Trail totalmente percorríveis com trela, os cães maiores aceites fora das horas de ponta no T MBTA à discrição do operador (raro nos EUA), e invernos nor'easter rigorosos que reduzem a refeição com cão a um circuito de esplanadas aquecidas (Trillium Fort Point, Lower Depths) de dezembro a março`,
       highlight: `a alcateia Off-Leash Hours do nascer do sol às 09:00 em Boston Common, Peters Park (único parque canino vedado off-leash dentro da cidade), os 27 km da Charles River Esplanade, todo o Freedom Trail e o Arnold Arboretum, além do circuito de paredão Castle Island/Pleasure Bay fora de época`,
       area: `Back Bay e Beacon Hill para acesso à porta à Esplanade e ao Common, o South End para Peters Park e as esplanadas do Beehive, o Seaport/Fort Point para o Harborwalk e o beer garden Trillium, Cambridge para as esplanadas de Harvard Square e a margem norte do Charles`,
+    },
+    chamonix: {
+      personality: `a capital mundial do alpinismo aos pés do Monte Branco, onde cães com trela andam nos autocarros do vale, no Mont-Blanc Express e em quase todos os teleféricos, incluindo o comboio do Montenvers até à Mer de Glace, e onde o posto de turismo publica uma lista oficial de caminhadas dog-friendly; só o teleférico da Aiguille du Midi e a reserva natural das Aiguilles Rouges (Lac Blanc incluído) ficam interditos`,
+      highlight: `os ribeiros do Paradis des Praz, o Petit Balcon Sud que percorre todo o vale, a caminhada da Cascade du Dard e um mergulho no Lac des Gaillands sob o Monte Branco`,
+      area: `o centro pedonal em torno da Rue du Docteur Paccard, Les Praz do lado da Flégère e dos prados do golfe, e Argentière para ficar tranquilo junto aos trilhos`,
     },
     chicago: {
       personality: `a capital do Midwest à beira do lago Michigan, com uma das maiores redes de Dog Friendly Areas dos EUA (mais de 25 DFA off-leash vedadas e a Montrose Dog Beach dedicada, única praia off-leash da cidade), um Lakefront Trail plano de 29 km, o Lincoln Park de 485 hectares, e invernos rigorosos que reduzem a refeição com cão a um circuito de esplanadas aquecidas (Kaiser Tiger, Big Star) de dezembro a março`,

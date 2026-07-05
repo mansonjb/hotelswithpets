@@ -1,0 +1,576 @@
+{
+  "slug": "chamonix",
+  "name": "Chamonix-Mont-Blanc",
+  "country": "France",
+  "flag": "🇫🇷",
+  "lastUpdated": "2026-07-05",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Chamonix",
+      "titleFr": "Restaurants dog-friendly à Chamonix",
+      "titleEs": "Restaurantes dog-friendly en Chamonix",
+      "titlePt": "Restaurantes dog-friendly em Chamonix",
+      "introEn": "Chamonix eats out with its dogs: as almost everywhere in France, well-behaved leashed dogs are welcome on most terraces and in many dining rooms, and mountain restaurants along the trails keep water bowls by the door. Mention your dog when booking and you will usually get a quieter corner table.",
+      "introFr": "A Chamonix, on sort manger avec son chien : comme presque partout en France, les chiens sages tenus en laisse sont les bienvenus sur la plupart des terrasses et dans de nombreuses salles, et les restaurants d'altitude le long des sentiers laissent des gamelles d'eau devant la porte. Signalez votre chien à la réservation et vous obtiendrez souvent une table tranquille.",
+      "introEs": "En Chamonix se sale a comer con el perro: como casi en toda Francia, los perros tranquilos con correa son bienvenidos en la mayoría de las terrazas y en muchos comedores, y los restaurantes de montaña junto a los senderos dejan cuencos de agua en la puerta. Menciona a tu perro al reservar y suelen darte una mesa más tranquila.",
+      "introPt": "Em Chamonix vai-se comer fora com o cão: como em quase toda a França, cães bem-comportados com trela são bem-vindos na maioria das esplanadas e em muitas salas, e os restaurantes de montanha junto aos trilhos deixam taças de água à porta. Mencione o seu cão ao reservar e normalmente recebe uma mesa mais sossegada.",
+      "places": [
+        {
+          "name": "MOÖ Bar Cuisine",
+          "address": "239 Avenue Michel Croz, 74400 Chamonix-Mont-Blanc",
+          "neighborhood": "Town centre",
+          "photo": "/images/city-places/chamonix-restaurants-moo-bar-cuisine.jpg",
+          "website": "https://www.moobarcuisine.com",
+          "description": "Relaxed burger-and-cocktails spot near the station whose staff genuinely fuss over dogs, with water bowls and space inside and out. The shady summer terrace overlooks Chamonix's old stone buildings.",
+          "descriptionFr": "Adresse décontractée burgers et cocktails près de la gare, dont l'équipe chouchoute vraiment les chiens, avec gamelles d'eau et de la place dedans comme dehors. La terrasse ombragée d'été donne sur les vieilles bâtisses de Chamonix.",
+          "descriptionEs": "Local relajado de hamburguesas y cócteles cerca de la estación cuyo personal mima de verdad a los perros, con cuencos de agua y espacio dentro y fuera. La terraza sombreada de verano da a los edificios antiguos de Chamonix.",
+          "descriptionPt": "Espaço descontraído de hambúrgueres e cocktails perto da estação cuja equipa mima mesmo os cães, com taças de água e espaço dentro e fora. A esplanada sombreada de verão dá para os edifícios antigos de Chamonix.",
+          "petPolicy": "Dogs welcome inside and on the terrace, water bowls provided",
+          "petPolicyFr": "Chiens bienvenus en salle et en terrasse, gamelles d'eau fournies",
+          "petPolicyEs": "Perros bienvenidos dentro y en la terraza, cuencos de agua disponibles",
+          "petPolicyPt": "Cães bem-vindos no interior e na esplanada, taças de água disponíveis",
+          "priceRange": "€€",
+          "mustTry": "Signature MOÖ burger with local Tomme",
+          "mustTryFr": "Burger signature MOÖ à la tomme locale",
+          "mustTryEs": "Hamburguesa MOÖ con Tomme local",
+          "mustTryPt": "Hambúrguer MOÖ com Tomme local",
+          "openingHours": "Daily, lunch and dinner",
+          "tip": "In summer ask for the terrace side away from Avenue Michel Croz for a calmer spot with your dog.",
+          "tipFr": "En été, demandez le côté terrasse opposé à l'avenue Michel Croz pour un coin plus calme avec votre chien.",
+          "tipEs": "En verano pide el lado de la terraza opuesto a la Avenue Michel Croz para un rincón más tranquilo con tu perro.",
+          "tipPt": "No verão peça o lado da esplanada oposto à Avenue Michel Croz para um canto mais calmo com o seu cão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=MOO+Bar+Cuisine+Chamonix"
+        },
+        {
+          "name": "Le Monchu",
+          "address": "1 Rue du Lyret, 74400 Chamonix-Mont-Blanc",
+          "neighborhood": "Town centre",
+          "photo": "/images/city-places/chamonix-restaurants-le-monchu.jpg",
+          "website": "https://www.lemonchu-chamonix.fr",
+          "description": "Classic Savoyard address for fondue and raclette a few steps from the church, run by a dog-loving owner. Dogs settle under the wooden tables while the cheese melts.",
+          "descriptionFr": "Adresse savoyarde classique pour fondue et raclette à deux pas de l'église, tenue par un patron qui adore les chiens. Les chiens s'installent sous les tables en bois pendant que le fromage fond.",
+          "descriptionEs": "Clásico saboyano de fondue y raclette a pocos pasos de la iglesia, con un dueño amante de los perros. Los perros se acomodan bajo las mesas de madera mientras se funde el queso.",
+          "descriptionPt": "Clássico saboiano de fondue e raclette a poucos passos da igreja, com um dono que adora cães. Os cães acomodam-se debaixo das mesas de madeira enquanto o queijo derrete.",
+          "petPolicy": "Leashed dogs welcome, mention them when reserving",
+          "petPolicyFr": "Chiens en laisse bienvenus, à signaler à la réservation",
+          "petPolicyEs": "Perros con correa bienvenidos, menciónalo al reservar",
+          "petPolicyPt": "Cães com trela bem-vindos, mencione ao reservar",
+          "priceRange": "€€€",
+          "mustTry": "Fondue savoyarde aux cèpes",
+          "mustTryFr": "Fondue savoyarde aux cèpes",
+          "mustTryEs": "Fondue saboyana con boletus",
+          "mustTryPt": "Fondue saboiana com cepes",
+          "openingHours": "Daily 12:00-14:30 and 19:00-22:30",
+          "tip": "Winter evenings get busy and warm inside; book early and bring a mat so your dog can lie away from ski boots.",
+          "tipFr": "Les soirs d'hiver, la salle est pleine et chauffée ; réservez tôt et apportez un tapis pour que votre chien s'allonge loin des chaussures de ski.",
+          "tipEs": "Las noches de invierno el local se llena; reserva pronto y lleva una manta para que tu perro se tumbe lejos de las botas de esquí.",
+          "tipPt": "Nas noites de inverno a sala enche; reserve cedo e leve uma manta para o cão se deitar longe das botas de esqui.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Le+Monchu+Chamonix"
+        },
+        {
+          "name": "Chalet du Glacier des Bossons",
+          "address": "Route des Tissonnières, Les Bossons, 74400 Chamonix-Mont-Blanc",
+          "neighborhood": "Les Bossons",
+          "photo": "/images/city-places/chamonix-restaurants-chalet-glacier-bossons.jpg",
+          "website": "",
+          "description": "Casual mountain chalet at the foot of the Bossons glacier with a big pet-friendly outdoor terrace facing the ice. Reached by a short forest walk that dogs love, or via the Bossons chairlift which also carries dogs.",
+          "descriptionFr": "Chalet de montagne décontracté au pied du glacier des Bossons, avec une grande terrasse pet-friendly face à la glace. On y accède par une courte marche en forêt que les chiens adorent, ou par le télésiège des Bossons qui accepte aussi les chiens.",
+          "descriptionEs": "Chalet de montaña informal al pie del glaciar de Les Bossons, con una gran terraza pet-friendly frente al hielo. Se llega con un corto paseo por el bosque que encanta a los perros, o con el telesilla de Les Bossons, que también admite perros.",
+          "descriptionPt": "Chalé de montanha informal ao pé do glaciar de Les Bossons, com uma grande esplanada pet-friendly virada para o gelo. Chega-se com uma curta caminhada na floresta que os cães adoram, ou pelo teleférico de Les Bossons, que também leva cães.",
+          "petPolicy": "Dogs welcome at the outdoor tables",
+          "petPolicyFr": "Chiens bienvenus aux tables en extérieur",
+          "petPolicyEs": "Perros bienvenidos en las mesas exteriores",
+          "petPolicyPt": "Cães bem-vindos nas mesas exteriores",
+          "priceRange": "€€",
+          "mustTry": "Tarte aux myrtilles facing the glacier",
+          "mustTryFr": "Tarte aux myrtilles face au glacier",
+          "mustTryEs": "Tarta de arándanos frente al glaciar",
+          "mustTryPt": "Tarte de mirtilos em frente ao glaciar",
+          "openingHours": "Seasonal, roughly May-October in summer",
+          "tip": "Combine lunch with the easy Granite Trail loop, one of the official dog-friendly hikes of the valley.",
+          "tipFr": "Combinez le déjeuner avec la boucle facile du Sentier du Granite, l'une des randos officiellement dog-friendly de la vallée.",
+          "tipEs": "Combina el almuerzo con el sencillo sendero del Granito, una de las rutas oficialmente dog-friendly del valle.",
+          "tipPt": "Combine o almoço com o fácil Trilho do Granito, um dos percursos oficialmente dog-friendly do vale.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chalet+du+Glacier+des+Bossons+Chamonix"
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Parks & Trails for Dogs in Chamonix",
+      "titleFr": "Parcs et sentiers pour chiens à Chamonix",
+      "titleEs": "Parques y senderos para perros en Chamonix",
+      "titlePt": "Parques e trilhos para cães em Chamonix",
+      "introEn": "The Chamonix valley floor is laced with riverside paths, forest trails and balcony walks where leashed dogs are welcome, and the tourist office even publishes an official list of dog-friendly hikes. The one hard rule: the Aiguilles Rouges nature reserve, including the famous Lac Blanc, is strictly off-limits to dogs even on a leash.",
+      "introFr": "Le fond de la vallée de Chamonix est quadrillé de chemins en bord d'Arve, de sentiers forestiers et de balcons où les chiens en laisse sont les bienvenus, et l'office de tourisme publie même une liste officielle de randos dog-friendly. La seule règle stricte : la réserve naturelle des Aiguilles Rouges, y compris le célèbre Lac Blanc, est interdite aux chiens même tenus en laisse.",
+      "introEs": "El fondo del valle de Chamonix está surcado de caminos junto al río Arve, senderos forestales y rutas balcón donde los perros con correa son bienvenidos, y la oficina de turismo publica incluso una lista oficial de rutas dog-friendly. La única regla estricta: la reserva natural de Aiguilles Rouges, incluido el famoso Lac Blanc, está prohibida para los perros incluso con correa.",
+      "introPt": "O fundo do vale de Chamonix está cruzado por caminhos junto ao rio Arve, trilhos florestais e passeios de varanda onde cães com trela são bem-vindos, e o posto de turismo publica até uma lista oficial de caminhadas dog-friendly. A única regra rígida: a reserva natural das Aiguilles Rouges, incluindo o famoso Lac Blanc, é interdita a cães mesmo com trela.",
+      "places": [
+        {
+          "name": "Paradis des Praz",
+          "address": "Chemin du Paradis, Les Praz, 74400 Chamonix-Mont-Blanc",
+          "neighborhood": "Les Praz",
+          "photo": "",
+          "size": "Riverside woodland, about 2 km of flat paths",
+          "description": "A gentle, shaded riverside walk signposted from the golf course car park, with cool mountain streams where dogs love to paddle. Flat, safe and pushchair-friendly, it is the classic easy outing with a dog in the valley.",
+          "descriptionFr": "Une promenade douce et ombragée au bord de l'eau, balisée depuis le parking du golf, avec des ruisseaux de montagne où les chiens adorent patauger. Plate et sans danger, c'est LA sortie facile avec un chien dans la vallée.",
+          "descriptionEs": "Un paseo suave y sombreado junto al agua, señalizado desde el aparcamiento del golf, con arroyos de montaña donde los perros adoran chapotear. Llano y seguro, es LA salida fácil con perro en el valle.",
+          "descriptionPt": "Um passeio suave e sombreado junto à água, sinalizado desde o parque do golfe, com ribeiros de montanha onde os cães adoram chapinhar. Plano e seguro, é O passeio fácil com cão no vale.",
+          "features": [
+            "Mountain streams for paddling",
+            "Shaded forest paths",
+            "Picnic spots"
+          ],
+          "featuresFr": [
+            "Ruisseaux de montagne pour patauger",
+            "Sentiers forestiers ombragés",
+            "Coins pique-nique"
+          ],
+          "featuresEs": [
+            "Arroyos de montaña para chapotear",
+            "Senderos forestales sombreados",
+            "Zonas de picnic"
+          ],
+          "featuresPt": [
+            "Ribeiros de montanha para chapinhar",
+            "Trilhos florestais sombreados",
+            "Zonas de piquenique"
+          ],
+          "leashRules": "Leash recommended; mandatory near the play area and in the village",
+          "leashRulesFr": "Laisse recommandée ; obligatoire près de l'aire de jeux et dans le village",
+          "leashRulesEs": "Correa recomendada; obligatoria cerca de la zona de juegos y en el pueblo",
+          "leashRulesPt": "Trela recomendada; obrigatória perto do parque infantil e na aldeia",
+          "bestTimeToVisit": "Summer mornings before the picnic crowds",
+          "bestTimeToVisitFr": "Les matins d'été avant les pique-niqueurs",
+          "bestTimeToVisitEs": "Mañanas de verano antes de los picnics",
+          "bestTimeToVisitPt": "Manhãs de verão antes dos piqueniques",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Paradis+des+Praz+Chamonix"
+        },
+        {
+          "name": "Petit Balcon Sud",
+          "address": "Trailheads in Chamonix, Les Praz and Argentière, 74400",
+          "neighborhood": "Valley-long balcony trail",
+          "photo": "/images/city-places/chamonix-parks-petit-balcon-sud.jpg",
+          "size": "Roughly 10 km of balcony trail along the valley",
+          "description": "A rolling forest trail running the length of the valley on the sunny side, with Mont Blanc views through the trees and no glacier crossings. It stays below the Aiguilles Rouges reserve boundary, so dogs are allowed the whole way.",
+          "descriptionFr": "Un sentier forestier vallonné qui parcourt toute la vallée côté adret, avec des vues sur le Mont-Blanc entre les arbres et sans passage glaciaire. Il reste sous la limite de la réserve des Aiguilles Rouges, donc les chiens sont autorisés sur tout le tracé.",
+          "descriptionEs": "Un sendero forestal ondulado que recorre todo el valle por la ladera soleada, con vistas al Mont Blanc entre los árboles y sin cruces glaciares. Se mantiene por debajo del límite de la reserva de Aiguilles Rouges, así que los perros están permitidos en todo el recorrido.",
+          "descriptionPt": "Um trilho florestal ondulado que percorre todo o vale pela encosta soalheira, com vistas do Monte Branco entre as árvores e sem travessias glaciares. Mantém-se abaixo do limite da reserva das Aiguilles Rouges, pelo que os cães são permitidos em todo o percurso.",
+          "features": [
+            "Mont Blanc viewpoints",
+            "Forest shade",
+            "Multiple entry and exit points served by bus"
+          ],
+          "featuresFr": [
+            "Points de vue sur le Mont-Blanc",
+            "Ombre en forêt",
+            "Multiples accès desservis par le bus"
+          ],
+          "featuresEs": [
+            "Miradores del Mont Blanc",
+            "Sombra del bosque",
+            "Múltiples accesos servidos por bus"
+          ],
+          "featuresPt": [
+            "Miradouros do Monte Branco",
+            "Sombra da floresta",
+            "Vários acessos servidos por autocarro"
+          ],
+          "leashRules": "Leash required near livestock and hamlets; keep dogs on the trail",
+          "leashRulesFr": "Laisse obligatoire près des troupeaux et des hameaux ; gardez le chien sur le sentier",
+          "leashRulesEs": "Correa obligatoria cerca del ganado y las aldeas; mantén al perro en el sendero",
+          "leashRulesPt": "Trela obrigatória perto do gado e das aldeias; mantenha o cão no trilho",
+          "bestTimeToVisit": "June to October; sections are walkable most of winter",
+          "bestTimeToVisitFr": "Juin à octobre ; des tronçons restent praticables presque tout l'hiver",
+          "bestTimeToVisitEs": "De junio a octubre; hay tramos transitables casi todo el invierno",
+          "bestTimeToVisitPt": "Junho a outubro; há troços transitáveis quase todo o inverno",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Petit+Balcon+Sud+Chamonix"
+        },
+        {
+          "name": "Cascade du Dard",
+          "address": "Chemin de la Cascade du Dard, 74400 Chamonix-Mont-Blanc",
+          "neighborhood": "Above the Mont Blanc tunnel entrance",
+          "photo": "/images/city-places/chamonix-parks-cascade-du-dard.jpg",
+          "size": "2 h return hike from town",
+          "description": "An intermediate forest hike from the edge of town to a thundering waterfall with a tiny seasonal buvette at the top. It features on the tourist office's official list of hikes to do with a dog.",
+          "descriptionFr": "Une randonnée forestière intermédiaire depuis la sortie de la ville jusqu'à une cascade tonitruante, avec une petite buvette saisonnière en haut. Elle figure sur la liste officielle des randos à faire avec son chien de l'office de tourisme.",
+          "descriptionEs": "Una ruta forestal intermedia desde el borde del pueblo hasta una cascada atronadora, con un pequeño chiringuito estacional arriba. Figura en la lista oficial de rutas con perro de la oficina de turismo.",
+          "descriptionPt": "Uma caminhada florestal intermédia desde a saída da vila até uma cascata trovejante, com uma pequena buvette sazonal no topo. Consta da lista oficial de caminhadas com cão do posto de turismo.",
+          "features": [
+            "Waterfall",
+            "Forest shade",
+            "Seasonal refreshment hut"
+          ],
+          "featuresFr": [
+            "Cascade",
+            "Ombre en forêt",
+            "Buvette saisonnière"
+          ],
+          "featuresEs": [
+            "Cascada",
+            "Sombra del bosque",
+            "Chiringuito estacional"
+          ],
+          "featuresPt": [
+            "Cascata",
+            "Sombra da floresta",
+            "Quiosque sazonal"
+          ],
+          "leashRules": "Leash recommended on the narrow upper section",
+          "leashRulesFr": "Laisse recommandée sur la partie haute étroite",
+          "leashRulesEs": "Correa recomendada en el tramo alto estrecho",
+          "leashRulesPt": "Trela recomendada no troço alto estreito",
+          "bestTimeToVisit": "May to October, spectacular at snowmelt",
+          "bestTimeToVisitFr": "Mai à octobre, spectaculaire à la fonte des neiges",
+          "bestTimeToVisitEs": "De mayo a octubre, espectacular en el deshielo",
+          "bestTimeToVisitPt": "Maio a outubro, espetacular no degelo",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cascade+du+Dard+Chamonix"
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Chamonix with a Dog",
+      "titleFr": "Se déplacer à Chamonix avec un chien",
+      "titleEs": "Moverse por Chamonix con perro",
+      "titlePt": "Deslocar-se em Chamonix com cão",
+      "introEn": "The Chamonix valley is one of the easiest Alpine resorts to navigate with a dog: leashed dogs ride the valley buses and the Mulet shuttle, board the Mont-Blanc Express train for half fare, and are accepted on almost every lift and cog railway. The two exceptions to memorise are the Aiguille du Midi cable car and the Index chairlift above La Flégère.",
+      "introFr": "La vallée de Chamonix est l'une des stations alpines les plus simples à parcourir avec un chien : les chiens en laisse montent dans les bus de la vallée et la navette Mulet, prennent le Mont-Blanc Express à demi-tarif et sont acceptés sur presque toutes les remontées et trains à crémaillère. Les deux exceptions à retenir : le téléphérique de l'Aiguille du Midi et le télésiège de l'Index au-dessus de la Flégère.",
+      "introEs": "El valle de Chamonix es una de las estaciones alpinas más fáciles de recorrer con perro: los perros con correa suben a los buses del valle y a la lanzadera Mulet, viajan en el Mont-Blanc Express a mitad de precio y se aceptan en casi todos los remontes y trenes cremallera. Las dos excepciones que hay que memorizar: el teleférico de la Aiguille du Midi y el telesilla Index sobre La Flégère.",
+      "introPt": "O vale de Chamonix é uma das estâncias alpinas mais fáceis de percorrer com cão: cães com trela andam nos autocarros do vale e no shuttle Mulet, apanham o comboio Mont-Blanc Express a meio preço e são aceites em quase todos os teleféricos e comboios de cremalheira. As duas exceções a memorizar: o teleférico da Aiguille du Midi e o telesqui Index acima de La Flégère.",
+      "modes": [
+        {
+          "mode": "Chamonix valley buses and Le Mulet shuttle",
+          "modeFr": "Bus de la vallée et navette Le Mulet",
+          "modeEs": "Buses del valle y lanzadera Le Mulet",
+          "modePt": "Autocarros do vale e shuttle Le Mulet",
+          "policyEn": "Leashed dogs are accepted on all valley buses and the free electric Mulet loop around town. Category 1 and 2 breeds must be muzzled and drivers can refuse access if the rules are not respected.",
+          "policyFr": "Les chiens en laisse sont acceptés dans tous les bus de la vallée et sur la boucle électrique gratuite du Mulet en ville. Les chiens de catégories 1 et 2 doivent être muselés et le conducteur peut refuser l'accès si les règles ne sont pas respectées.",
+          "policyEs": "Los perros con correa se aceptan en todos los buses del valle y en el circuito eléctrico gratuito del Mulet por el pueblo. Las razas de categorías 1 y 2 deben llevar bozal y el conductor puede denegar el acceso si no se respetan las normas.",
+          "policyPt": "Cães com trela são aceites em todos os autocarros do vale e no circuito elétrico gratuito do Mulet pela vila. As raças de categorias 1 e 2 devem usar açaime e o motorista pode recusar o acesso se as regras não forem respeitadas.",
+          "cost": "Free with guest card",
+          "costFr": "Gratuit avec la carte d'hôte",
+          "costEs": "Gratis con la tarjeta de huésped",
+          "costPt": "Grátis com o cartão de hóspede"
+        },
+        {
+          "mode": "Mont-Blanc Express train (Servoz-Vallorcine)",
+          "modeFr": "Train Mont-Blanc Express (Servoz-Vallorcine)",
+          "modeEs": "Tren Mont-Blanc Express (Servoz-Vallorcine)",
+          "modePt": "Comboio Mont-Blanc Express (Servoz-Vallorcine)",
+          "policyEn": "Dogs travel on a leash along the whole valley line and pay 50% of the normal fare. It is the smart way to do one-way balcony walks: hike from Chamonix to Argentière or Vallorcine and ride back.",
+          "policyFr": "Les chiens voyagent en laisse sur toute la ligne de la vallée et paient 50 % du tarif normal. C'est le bon plan pour les balades en aller simple : marchez de Chamonix à Argentière ou Vallorcine et rentrez en train.",
+          "policyEs": "Los perros viajan con correa por toda la línea del valle y pagan el 50% de la tarifa normal. Es la forma inteligente de hacer rutas lineales: camina de Chamonix a Argentière o Vallorcine y vuelve en tren.",
+          "policyPt": "Os cães viajam com trela em toda a linha do vale e pagam 50% da tarifa normal. É a forma inteligente de fazer caminhadas lineares: caminhe de Chamonix a Argentière ou Vallorcine e volte de comboio.",
+          "cost": "Dog ticket at 50% of adult fare",
+          "costFr": "Billet chien à 50 % du tarif adulte",
+          "costEs": "Billete de perro al 50% de la tarifa de adulto",
+          "costPt": "Bilhete de cão a 50% da tarifa de adulto"
+        },
+        {
+          "mode": "Cable cars and the Montenvers cog railway",
+          "modeFr": "Téléphériques et train à crémaillère du Montenvers",
+          "modeEs": "Teleféricos y tren cremallera del Montenvers",
+          "modePt": "Teleféricos e comboio de cremalheira do Montenvers",
+          "policyEn": "Leashed dogs are accepted on almost all lifts, including the Montenvers Mer de Glace train, Planpraz and Brévent (summer) and La Flégère. Dogs are NOT allowed on the Aiguille du Midi cable car or the Index chairlift, and in winter Brévent's top section is also closed to them.",
+          "policyFr": "Les chiens en laisse sont acceptés sur presque toutes les remontées, dont le train du Montenvers Mer de Glace, Planpraz et le Brévent (été) et La Flégère. Les chiens sont INTERDITS sur le téléphérique de l'Aiguille du Midi et le télésiège de l'Index, et en hiver le tronçon sommital du Brévent leur est aussi fermé.",
+          "policyEs": "Los perros con correa se aceptan en casi todos los remontes, incluidos el tren del Montenvers Mer de Glace, Planpraz y el Brévent (verano) y La Flégère. Los perros NO pueden subir al teleférico de la Aiguille du Midi ni al telesilla Index, y en invierno el tramo superior del Brévent también les está cerrado.",
+          "policyPt": "Cães com trela são aceites em quase todos os meios de elevação, incluindo o comboio do Montenvers Mer de Glace, Planpraz e o Brévent (verão) e La Flégère. Os cães NÃO podem subir no teleférico da Aiguille du Midi nem no telesqui Index, e no inverno o troço superior do Brévent também lhes está fechado.",
+          "cost": "Generally free; guide and assistance dogs always accepted",
+          "costFr": "Généralement gratuit ; chiens guides et d'assistance toujours acceptés",
+          "costEs": "Generalmente gratis; perros guía y de asistencia siempre aceptados",
+          "costPt": "Geralmente grátis; cães-guia e de assistência sempre aceites"
+        }
+      ],
+      "places": []
+    },
+    "beaches": {
+      "titleEn": "Lakes & Swim Spots for Dogs around Chamonix",
+      "titleFr": "Lacs et coins de baignade pour chiens autour de Chamonix",
+      "titleEs": "Lagos y zonas de baño para perros cerca de Chamonix",
+      "titlePt": "Lagos e zonas de banho para cães perto de Chamonix",
+      "introEn": "There is no sea at 1,035 m, but glacier-fed lakes and streams do the job on hot days. Lac des Gaillands mirrors Mont Blanc a short walk from town, and the shallow channels of the Paradis des Praz are perfect paddling for small dogs. Remember that the high mountain lakes inside the Aiguilles Rouges reserve, Lac Blanc first among them, are closed to dogs entirely.",
+      "introFr": "Pas de mer à 1 035 m, mais les lacs et ruisseaux d'origine glaciaire font l'affaire les jours chauds. Le lac des Gaillands reflète le Mont-Blanc à quelques minutes à pied de la ville, et les bras peu profonds du Paradis des Praz sont parfaits pour faire patauger les petits chiens. Rappel : les lacs d'altitude de la réserve des Aiguilles Rouges, Lac Blanc en tête, sont totalement fermés aux chiens.",
+      "introEs": "No hay mar a 1.035 m, pero los lagos y arroyos de origen glaciar cumplen en los días calurosos. El Lac des Gaillands refleja el Mont Blanc a un corto paseo del pueblo, y los canales poco profundos del Paradis des Praz son perfectos para que chapoteen los perros pequeños. Recuerda: los lagos de altura de la reserva de Aiguilles Rouges, con el Lac Blanc a la cabeza, están totalmente cerrados a los perros.",
+      "introPt": "Não há mar a 1.035 m, mas os lagos e ribeiros de origem glaciar cumprem nos dias quentes. O Lac des Gaillands reflete o Monte Branco a uma curta caminhada da vila, e os canais rasos do Paradis des Praz são perfeitos para os cães pequenos chapinharem. Lembre-se: os lagos de altitude da reserva das Aiguilles Rouges, com o Lac Blanc à cabeça, estão totalmente fechados aos cães.",
+      "beaches": [
+        {
+          "name": "Lac des Gaillands",
+          "address": "Route des Gaillands, Les Pélerins, 74400 Chamonix-Mont-Blanc",
+          "photo": "",
+          "description": "A small mirror lake at the western edge of town, famous for its Mont Blanc reflections and its historic climbing crag. Dogs can dip on the quieter wooded far side, away from the picnic lawns and anglers.",
+          "descriptionFr": "Un petit lac miroir à l'entrée ouest de la ville, célèbre pour ses reflets du Mont-Blanc et son école d'escalade historique. Les chiens peuvent se tremper sur la rive boisée la plus calme, à l'écart des pelouses à pique-nique et des pêcheurs.",
+          "descriptionEs": "Un pequeño lago espejo en el extremo oeste del pueblo, famoso por sus reflejos del Mont Blanc y su histórica escuela de escalada. Los perros pueden bañarse en la orilla arbolada más tranquila, lejos del césped de picnic y los pescadores.",
+          "descriptionPt": "Um pequeno lago espelho na entrada oeste da vila, famoso pelos reflexos do Monte Branco e pela histórica escola de escalada. Os cães podem molhar-se na margem arborizada mais tranquila, longe dos relvados de piquenique e dos pescadores.",
+          "dogPolicy": "Dogs tolerated on the far wooded shore, on leash around families and anglers",
+          "dogPolicyFr": "Chiens tolérés sur la rive boisée opposée, en laisse près des familles et des pêcheurs",
+          "dogPolicyEs": "Perros tolerados en la orilla arbolada opuesta, con correa cerca de familias y pescadores",
+          "dogPolicyPt": "Cães tolerados na margem arborizada oposta, com trela perto de famílias e pescadores",
+          "leashRequired": true,
+          "seasonalRestrictions": "None, but the lakeside is busy with picnickers in July-August",
+          "seasonalRestrictionsFr": "Aucune, mais les berges sont très fréquentées par les pique-niqueurs en juillet-août",
+          "seasonalRestrictionsEs": "Ninguna, pero la orilla se llena de picnics en julio-agosto",
+          "seasonalRestrictionsPt": "Nenhuma, mas a margem enche de piqueniques em julho-agosto",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lac+des+Gaillands+Chamonix"
+        },
+        {
+          "name": "Paradis des Praz streams",
+          "address": "Les Praz, 74400 Chamonix-Mont-Blanc",
+          "photo": "",
+          "description": "Shallow, crystal-clear glacial channels winding through larch woods, ankle-deep and safe even for puppies. The water stays icy all summer, which is exactly what a hot dog wants after a balcony hike.",
+          "descriptionFr": "Des bras glaciaires peu profonds et limpides qui serpentent sous les mélèzes, avec de l'eau à hauteur de cheville, sûre même pour les chiots. L'eau reste glacée tout l'été, exactement ce qu'il faut à un chien qui a chaud après une rando en balcon.",
+          "descriptionEs": "Canales glaciares poco profundos y cristalinos que serpentean entre alerces, con agua hasta el tobillo, segura incluso para cachorros. El agua sigue helada todo el verano, justo lo que quiere un perro acalorado tras una ruta balcón.",
+          "descriptionPt": "Canais glaciares rasos e cristalinos que serpenteiam entre lariços, com água pela canela, segura até para cachorros. A água mantém-se gelada todo o verão, exatamente o que um cão com calor quer depois de um trilho de varanda.",
+          "dogPolicy": "Dogs welcome to paddle; keep them out of the trout nursery pools",
+          "dogPolicyFr": "Chiens bienvenus pour patauger ; tenez-les à l'écart des bassins d'alevinage",
+          "dogPolicyEs": "Perros bienvenidos para chapotear; mantenlos fuera de las pozas de alevines",
+          "dogPolicyPt": "Cães bem-vindos para chapinhar; mantenha-os fora dos viveiros de trutas",
+          "leashRequired": false,
+          "seasonalRestrictions": "None; water is glacial year-round, limit long swims",
+          "seasonalRestrictionsFr": "Aucune ; l'eau est glaciaire toute l'année, limitez les longues baignades",
+          "seasonalRestrictionsEs": "Ninguna; el agua es glaciar todo el año, limita los baños largos",
+          "seasonalRestrictionsPt": "Nenhuma; a água é glaciar todo o ano, limite os banhos longos",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Paradis+des+Praz+Les+Praz+Chamonix"
+        }
+      ],
+      "places": []
+    },
+    "vets": {
+      "titleEn": "Veterinarians in Chamonix",
+      "titleFr": "Vétérinaires à Chamonix",
+      "titleEs": "Veterinarios en Chamonix",
+      "titlePt": "Veterinários em Chamonix",
+      "introEn": "Chamonix has two long-established veterinary practices in the valley, and out-of-hours emergencies are referred to the 24/7 veterinary hospital CHV Saint-Martin near Annecy. France's national on-call vet line 3115 works here too and redirects you to the duty service.",
+      "introFr": "Chamonix compte deux cabinets vétérinaires bien établis dans la vallée, et les urgences hors horaires sont orientées vers le centre hospitalier vétérinaire 24h/24 CHV Saint-Martin près d'Annecy. Le 3115, numéro national de garde vétérinaire, fonctionne aussi ici et vous redirige vers le service de garde.",
+      "introEs": "Chamonix cuenta con dos consultas veterinarias consolidadas en el valle, y las urgencias fuera de horario se derivan al hospital veterinario 24h CHV Saint-Martin cerca de Annecy. El 3115, número nacional francés de guardia veterinaria, también funciona aquí y te redirige al servicio de guardia.",
+      "introPt": "Chamonix tem duas clínicas veterinárias bem estabelecidas no vale, e as urgências fora de horas são encaminhadas para o hospital veterinário 24h CHV Saint-Martin perto de Annecy. O 3115, número nacional francês de urgência veterinária, também funciona aqui e redireciona para o serviço de garde.",
+      "clinics": [
+        {
+          "name": "Cabinet Vétérinaire de la Vallée",
+          "address": "120 Place du Poilu, 74400 Chamonix-Mont-Blanc",
+          "phone": "+33 4 50 53 31 71",
+          "emergencyPhone": "+33 4 50 93 51 46",
+          "hours": "Mon-Fri 9:00-12:00 and 14:30-18:30",
+          "emergency24h": false,
+          "description": "Central practice on Place du Poilu handling consultations, vaccinations and travel paperwork, with its own emergency line. Complex cases are referred to its sister clinic in Domancy down the valley.",
+          "descriptionFr": "Cabinet central sur la place du Poilu pour consultations, vaccins et documents de voyage, avec sa propre ligne d'urgence. Les cas complexes sont orientés vers la clinique soeur de Domancy, plus bas dans la vallée.",
+          "descriptionEs": "Consulta céntrica en la Place du Poilu para consultas, vacunas y documentación de viaje, con línea de urgencias propia. Los casos complejos se derivan a su clínica hermana de Domancy, valle abajo.",
+          "descriptionPt": "Clínica central na Place du Poilu para consultas, vacinas e documentos de viagem, com linha de urgência própria. Os casos complexos são encaminhados para a clínica irmã em Domancy, mais abaixo no vale.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cabinet+Veterinaire+de+la+Vallee+Chamonix"
+        },
+        {
+          "name": "VetCham - Clinique Vétérinaire des Praz",
+          "address": "1273 Route des Praz, 74400 Chamonix-Mont-Blanc",
+          "phone": "+33 4 50 53 98 08",
+          "emergencyPhone": "",
+          "hours": "Mon-Fri 9:00-12:30 and 14:00-18:30, by appointment",
+          "emergency24h": false,
+          "description": "Modern clinic in Les Praz facing Mont Blanc, working by appointment with free parking at the door. For nights and weekends it operates a 24/7 emergency partnership with CHV Saint-Martin.",
+          "descriptionFr": "Clinique moderne aux Praz face au Mont-Blanc, sur rendez-vous avec parking gratuit devant la porte. Nuits et week-ends, elle s'appuie sur un partenariat d'urgence 24h/24 avec le CHV Saint-Martin.",
+          "descriptionEs": "Clínica moderna en Les Praz frente al Mont Blanc, con cita previa y aparcamiento gratuito en la puerta. Noches y fines de semana funciona con un acuerdo de urgencias 24h con el CHV Saint-Martin.",
+          "descriptionPt": "Clínica moderna em Les Praz em frente ao Monte Branco, por marcação e com estacionamento grátis à porta. Noites e fins de semana funciona com uma parceria de urgência 24h com o CHV Saint-Martin.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=VetCham+Les+Praz+Chamonix"
+        },
+        {
+          "name": "CHV Saint-Martin (24/7 referral hospital)",
+          "address": "275 Route Impériale, 74370 Saint-Martin-Bellevue",
+          "phone": "+33 4 50 60 09 00",
+          "emergencyPhone": "+33 4 50 60 09 00",
+          "hours": "Emergencies 24/7, year-round",
+          "emergency24h": true,
+          "description": "The region's full-scale veterinary hospital between Annecy and Geneva, with surgery, intensive care and imaging including MRI. About one hour's drive from Chamonix; call ahead so the team is ready on arrival.",
+          "descriptionFr": "Le centre hospitalier vétérinaire de la région entre Annecy et Genève : chirurgie, soins intensifs et imagerie dont IRM. Environ une heure de route depuis Chamonix ; appelez avant de partir pour que l'équipe vous attende.",
+          "descriptionEs": "El hospital veterinario de referencia de la región entre Annecy y Ginebra: cirugía, cuidados intensivos e imagen, incluida resonancia. A una hora en coche de Chamonix; llama antes de salir para que el equipo te espere.",
+          "descriptionPt": "O hospital veterinário de referência da região entre Annecy e Genebra: cirurgia, cuidados intensivos e imagiologia, incluindo ressonância. A cerca de uma hora de carro de Chamonix; ligue antes de sair para a equipa o esperar.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CHV+Saint-Martin+Saint-Martin-Bellevue"
+        }
+      ],
+      "places": []
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Chamonix with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Chamonix avec un chien",
+      "titleEs": "Consejos esenciales para visitar Chamonix con perro",
+      "titlePt": "Dicas essenciais para visitar Chamonix com cão",
+      "introEn": "Chamonix rewards prepared dog owners: the valley is hugely welcoming, but altitude, rocky trails and one strictly enforced nature reserve change the rules compared with a city break. Here is what actually matters before you pack the leash.",
+      "introFr": "Chamonix récompense les maîtres préparés : la vallée est très accueillante, mais l'altitude, les sentiers rocailleux et une réserve naturelle strictement contrôlée changent les règles par rapport à un city-break. Voici ce qui compte vraiment avant de boucler le sac.",
+      "introEs": "Chamonix premia a los dueños preparados: el valle es muy acogedor, pero la altitud, los senderos pedregosos y una reserva natural estrictamente vigilada cambian las reglas respecto a una escapada urbana. Esto es lo que de verdad importa antes de hacer la maleta.",
+      "introPt": "Chamonix recompensa os donos preparados: o vale é muito acolhedor, mas a altitude, os trilhos rochosos e uma reserva natural rigorosamente fiscalizada mudam as regras em relação a uma escapada urbana. Eis o que realmente importa antes de fazer a mala.",
+      "places": [],
+      "tipsEn": [
+        "The Aiguilles Rouges nature reserve, which includes Lac Blanc, is forbidden to dogs even on a leash; plan Mont Blanc views from the Petit Balcon Sud, Planpraz or the Montenvers instead.",
+        "Granite trails and the metal grid stairs down to the Mer de Glace ice cave are hard on paws; pack dog booties or paw wax, plus plenty of water since streams can be silty with glacial flour.",
+        "Watch for patous (livestock guardian dogs) on high pastures in summer: leash your dog, give herds a wide berth, and check the tourist office's dog-friendly hike list before setting out."
+      ],
+      "tipsFr": [
+        "La réserve naturelle des Aiguilles Rouges, qui inclut le Lac Blanc, est interdite aux chiens même en laisse ; prévoyez plutôt vos vues sur le Mont-Blanc depuis le Petit Balcon Sud, Planpraz ou le Montenvers.",
+        "Les sentiers de granite et les escaliers métalliques ajourés qui descendent à la grotte de la Mer de Glace sont durs pour les coussinets ; emportez des bottines ou de la cire protectrice, et beaucoup d'eau car les torrents charrient de la farine glaciaire.",
+        "Attention aux patous sur les alpages en été : tenez votre chien en laisse, contournez largement les troupeaux et consultez la liste des randos dog-friendly de l'office de tourisme avant de partir."
+      ],
+      "tipsEs": [
+        "La reserva natural de Aiguilles Rouges, que incluye el Lac Blanc, está prohibida para perros incluso con correa; planifica tus vistas del Mont Blanc desde el Petit Balcon Sud, Planpraz o el Montenvers.",
+        "Los senderos de granito y las escaleras metálicas de rejilla que bajan a la cueva de hielo de la Mer de Glace castigan las almohadillas; lleva botines o cera protectora, y mucha agua porque los torrentes arrastran harina glaciar.",
+        "Cuidado con los patous (perros guardianes de rebaños) en los pastos altos en verano: lleva a tu perro atado, rodea ampliamente los rebaños y consulta la lista de rutas dog-friendly de la oficina de turismo antes de salir."
+      ],
+      "tipsPt": [
+        "A reserva natural das Aiguilles Rouges, que inclui o Lac Blanc, é proibida a cães mesmo com trela; planeie as suas vistas do Monte Branco a partir do Petit Balcon Sud, de Planpraz ou do Montenvers.",
+        "Os trilhos de granito e as escadas metálicas gradeadas que descem à gruta de gelo da Mer de Glace castigam as almofadinhas; leve botinhas ou cera protetora, e muita água porque as torrentes arrastam farinha glaciar.",
+        "Cuidado com os patous (cães de proteção de rebanhos) nas pastagens altas no verão: mantenha o cão com trela, contorne bem os rebanhos e consulte a lista de caminhadas dog-friendly do posto de turismo antes de sair."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog up the Aiguille du Midi?",
+          "a": "No. Dogs are not allowed on either section of the Aiguille du Midi cable car; only certified assistance dogs are admitted. For a high-mountain outing with a dog, take the Montenvers train to the Mer de Glace or the Planpraz gondola instead."
+        },
+        {
+          "q": "Can my dog hike to Lac Blanc?",
+          "a": "No. Lac Blanc lies inside the Aiguilles Rouges nature reserve, where dogs are prohibited even on a leash and rangers do issue fines. The Petit Balcon Sud and the tourist office's official dog-friendly hikes offer the same Mont Blanc panoramas without the ban."
+        },
+        {
+          "q": "Are dogs allowed on Chamonix buses and trains?",
+          "a": "Yes. Leashed dogs ride all valley buses and the free Mulet shuttle, and the Mont-Blanc Express train carries dogs for 50% of the normal fare. Category 1 and 2 breeds must be muzzled on public transport."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je monter à l'Aiguille du Midi avec mon chien ?",
+          "a": "Non. Les chiens sont interdits sur les deux tronçons du téléphérique de l'Aiguille du Midi ; seuls les chiens d'assistance certifiés sont admis. Pour une sortie en altitude avec un chien, prenez plutôt le train du Montenvers vers la Mer de Glace ou la télécabine de Planpraz."
+        },
+        {
+          "q": "Mon chien peut-il randonner jusqu'au Lac Blanc ?",
+          "a": "Non. Le Lac Blanc se trouve dans la réserve naturelle des Aiguilles Rouges, interdite aux chiens même en laisse, et les gardes verbalisent. Le Petit Balcon Sud et les randos officiellement dog-friendly de l'office de tourisme offrent les mêmes panoramas sur le Mont-Blanc sans l'interdiction."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés dans les bus et trains de Chamonix ?",
+          "a": "Oui. Les chiens en laisse montent dans tous les bus de la vallée et la navette gratuite du Mulet, et le Mont-Blanc Express les transporte à 50 % du tarif normal. Les chiens de catégories 1 et 2 doivent porter une muselière dans les transports."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo subir a la Aiguille du Midi con mi perro?",
+          "a": "No. Los perros están prohibidos en los dos tramos del teleférico de la Aiguille du Midi; solo se admiten perros de asistencia certificados. Para una salida de altura con perro, toma el tren del Montenvers a la Mer de Glace o la telecabina de Planpraz."
+        },
+        {
+          "q": "¿Puede mi perro subir al Lac Blanc?",
+          "a": "No. El Lac Blanc está dentro de la reserva natural de Aiguilles Rouges, prohibida para perros incluso con correa, y los guardas multan. El Petit Balcon Sud y las rutas oficialmente dog-friendly de la oficina de turismo ofrecen los mismos panoramas del Mont Blanc sin la prohibición."
+        },
+        {
+          "q": "¿Se admiten perros en los buses y trenes de Chamonix?",
+          "a": "Sí. Los perros con correa viajan en todos los buses del valle y en la lanzadera gratuita Mulet, y el Mont-Blanc Express los lleva por el 50% de la tarifa normal. Las razas de categorías 1 y 2 deben llevar bozal en el transporte público."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso subir à Aiguille du Midi com o meu cão?",
+          "a": "Não. Os cães são proibidos nas duas secções do teleférico da Aiguille du Midi; só são admitidos cães de assistência certificados. Para um passeio de altitude com cão, apanhe antes o comboio do Montenvers até à Mer de Glace ou a telecabina de Planpraz."
+        },
+        {
+          "q": "O meu cão pode caminhar até ao Lac Blanc?",
+          "a": "Não. O Lac Blanc fica dentro da reserva natural das Aiguilles Rouges, proibida a cães mesmo com trela, e os guardas multam. O Petit Balcon Sud e as caminhadas oficialmente dog-friendly do posto de turismo oferecem os mesmos panoramas do Monte Branco sem a proibição."
+        },
+        {
+          "q": "Os cães são aceites nos autocarros e comboios de Chamonix?",
+          "a": "Sim. Cães com trela andam em todos os autocarros do vale e no shuttle gratuito Mulet, e o Mont-Blanc Express leva-os por 50% da tarifa normal. As raças de categorias 1 e 2 devem usar açaime nos transportes públicos."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Chamonix",
+      "titleFr": "Attractions dog-friendly à Chamonix",
+      "titleEs": "Atracciones dog-friendly en Chamonix",
+      "titlePt": "Atrações dog-friendly em Chamonix",
+      "introEn": "Most of Chamonix's icons are genuinely doable with a dog: the Montenvers cog train climbs to the Mer de Glace with leashed dogs on board, the Planpraz and Brévent lifts open up grandstand Mont Blanc views, and the pedestrian centre is a pleasure to wander. Only the Aiguille du Midi stays dog-free.",
+      "introFr": "La plupart des icônes de Chamonix se font vraiment avec un chien : le train à crémaillère du Montenvers grimpe à la Mer de Glace avec les chiens en laisse à bord, les remontées de Planpraz et du Brévent ouvrent des vues plein cadre sur le Mont-Blanc, et le centre piéton se flâne avec plaisir. Seule l'Aiguille du Midi reste sans chien.",
+      "introEs": "La mayoría de los iconos de Chamonix se pueden hacer de verdad con perro: el tren cremallera del Montenvers sube a la Mer de Glace con perros con correa a bordo, los remontes de Planpraz y Brévent abren vistas de palco al Mont Blanc, y el centro peatonal se pasea con gusto. Solo la Aiguille du Midi queda vetada a los perros.",
+      "introPt": "A maioria dos ícones de Chamonix faz-se mesmo com cão: o comboio de cremalheira do Montenvers sobe à Mer de Glace com cães com trela a bordo, os teleféricos de Planpraz e do Brévent abrem vistas de camarote para o Monte Branco, e o centro pedonal passeia-se com prazer. Só a Aiguille du Midi fica interdita aos cães.",
+      "places": [
+        {
+          "name": "Montenvers - Mer de Glace railway",
+          "address": "35 Place de la Mer de Glace, 74400 Chamonix-Mont-Blanc",
+          "photo": "/images/city-places/chamonix-attractions-montenvers-mer-de-glace.jpg",
+          "description": "The little red cog train climbs from Chamonix to the Montenvers balcony at 1,913 m above the Mer de Glace glacier, and leashed dogs ride along and can visit the whole site. Skip the ice cave stairs if your dog is not used to see-through metal steps, the view from the terrace is the real show anyway.",
+          "descriptionFr": "Le petit train rouge à crémaillère grimpe de Chamonix au balcon du Montenvers, à 1 913 m au-dessus de la Mer de Glace ; les chiens en laisse voyagent à bord et peuvent parcourir tout le site. Évitez les escaliers de la grotte de glace si votre chien n'est pas habitué aux marches métalliques ajourées, la vue depuis la terrasse est de toute façon le vrai spectacle.",
+          "descriptionEs": "El pequeño tren rojo de cremallera sube de Chamonix al balcón del Montenvers, a 1.913 m sobre el glaciar Mer de Glace; los perros con correa viajan a bordo y pueden recorrer todo el sitio. Evita las escaleras de la cueva de hielo si tu perro no está acostumbrado a peldaños metálicos calados, la vista desde la terraza es el verdadero espectáculo.",
+          "descriptionPt": "O pequeno comboio vermelho de cremalheira sobe de Chamonix à varanda do Montenvers, a 1.913 m sobre o glaciar Mer de Glace; cães com trela viajam a bordo e podem percorrer todo o local. Evite as escadas da gruta de gelo se o seu cão não estiver habituado a degraus metálicos gradeados, a vista da esplanada é o verdadeiro espetáculo.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gare+du+Montenvers+Chamonix"
+        },
+        {
+          "name": "Planpraz & Le Brévent",
+          "address": "29 Route Henriette d'Angeville, 74400 Chamonix-Mont-Blanc",
+          "photo": "/images/city-places/chamonix-attractions-planpraz-brevent.jpg",
+          "description": "The gondola from the town centre lifts you and your leashed dog to Planpraz at 2,000 m, the classic face-on balcony of the Mont Blanc massif; in summer dogs can continue on the Brévent cable car to 2,525 m. From Planpraz you can walk sections of the Grand Balcon Sud outside the reserve boundary.",
+          "descriptionFr": "La télécabine du centre-ville vous hisse avec votre chien en laisse à Planpraz, à 2 000 m, le balcon classique face au massif du Mont-Blanc ; en été, les chiens peuvent continuer sur le téléphérique du Brévent jusqu'à 2 525 m. Depuis Planpraz, on parcourt des tronçons du Grand Balcon Sud hors des limites de la réserve.",
+          "descriptionEs": "La telecabina del centro te sube con tu perro con correa a Planpraz, a 2.000 m, el balcón clásico frente al macizo del Mont Blanc; en verano los perros pueden continuar en el teleférico del Brévent hasta 2.525 m. Desde Planpraz se recorren tramos del Grand Balcon Sud fuera del límite de la reserva.",
+          "descriptionPt": "A telecabina do centro leva-o com o seu cão com trela até Planpraz, a 2.000 m, a varanda clássica em frente ao maciço do Monte Branco; no verão os cães podem continuar no teleférico do Brévent até aos 2.525 m. De Planpraz percorrem-se troços do Grand Balcon Sud fora do limite da reserva.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Telecabine+Planpraz+Chamonix"
+        },
+        {
+          "name": "Chamonix old town & Rue du Docteur Paccard",
+          "address": "Rue du Docteur Paccard, 74400 Chamonix-Mont-Blanc",
+          "photo": "/images/city-places/chamonix-attractions-old-town.jpg",
+          "description": "The pedestrian heart of the world's mountaineering capital, from the Balmat statue to the Arve bridges, is a compact, dog-easy stroll past alpine facades, gear shops and terraces. Water bowls appear outside many boutiques in summer.",
+          "descriptionFr": "Le coeur piéton de la capitale mondiale de l'alpinisme, de la statue de Balmat aux ponts sur l'Arve, se parcourt facilement avec un chien entre façades alpines, magasins de matériel et terrasses. En été, des gamelles d'eau apparaissent devant de nombreuses boutiques.",
+          "descriptionEs": "El corazón peatonal de la capital mundial del alpinismo, de la estatua de Balmat a los puentes sobre el Arve, se recorre fácilmente con perro entre fachadas alpinas, tiendas de material y terrazas. En verano aparecen cuencos de agua ante muchas tiendas.",
+          "descriptionPt": "O coração pedonal da capital mundial do alpinismo, da estátua de Balmat às pontes sobre o Arve, percorre-se facilmente com cão entre fachadas alpinas, lojas de material e esplanadas. No verão aparecem taças de água à porta de muitas lojas.",
+          "dogFriendly": true,
+          "leashRequired": true,
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rue+du+Docteur+Paccard+Chamonix"
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Care in Chamonix",
+      "titleFr": "Pet-sitting et garde de chien à Chamonix",
+      "titleEs": "Cuidadores y guardería canina en Chamonix",
+      "titlePt": "Pet sitting e creche canina em Chamonix",
+      "introEn": "Handy for the days you ski, paraglide or ride the Aiguille du Midi where dogs cannot follow: Chamonix has a small but active network of local sitters on the big French platforms, with walkers used to mountain dogs and summer boarding filling up fast in peak season.",
+      "introFr": "Pratique pour les jours de ski, de parapente ou d'Aiguille du Midi où le chien ne peut pas suivre : Chamonix dispose d'un petit réseau actif de gardiens locaux sur les grandes plateformes françaises, avec des promeneurs habitués aux chiens de montagne et des pensions d'été qui affichent vite complet en haute saison.",
+      "introEs": "Útil para los días de esquí, parapente o Aiguille du Midi donde el perro no puede acompañarte: Chamonix cuenta con una pequeña pero activa red de cuidadores locales en las grandes plataformas francesas, con paseadores acostumbrados a perros de montaña y alojamiento de verano que se llena rápido en temporada alta.",
+      "introPt": "Útil para os dias de esqui, parapente ou Aiguille du Midi onde o cão não pode acompanhar: Chamonix tem uma pequena mas ativa rede de pet sitters locais nas grandes plataformas francesas, com passeadores habituados a cães de montanha e alojamento de verão que esgota depressa na época alta.",
+      "places": [],
+      "services": [
+        {
+          "name": "Gudog",
+          "website": "https://gudog.fr/garde-de-chien-chamonix-mont-blanc",
+          "description": "Around 60 vetted sitters in and around Chamonix offering boarding, daycare and walks, all covered by insurance. Averages about 21 euros per night for boarding.",
+          "descriptionFr": "Une soixantaine de gardiens vérifiés à Chamonix et alentour pour pension, garderie de jour et promenades, tous couverts par une assurance. Comptez environ 21 euros la nuit en pension.",
+          "descriptionEs": "Unos 60 cuidadores verificados en Chamonix y alrededores para alojamiento, guardería y paseos, todos con seguro. La media ronda los 21 euros por noche.",
+          "descriptionPt": "Cerca de 60 pet sitters verificados em Chamonix e arredores para alojamento, creche e passeios, todos com seguro. A média ronda os 21 euros por noite.",
+          "priceRange": "From about €15-21 per night",
+          "priceRangeFr": "À partir d'environ 15-21 € la nuit",
+          "priceRangeEs": "Desde unos 15-21 € por noche",
+          "priceRangePt": "A partir de cerca de 15-21 € por noite",
+          "bookingRequired": true
+        },
+        {
+          "name": "Emprunte Mon Toutou",
+          "website": "https://www.empruntemontoutou.com/dog-sitter/chamonix-mont-blanc",
+          "description": "A French community of dog-loving volunteers, with dozens of members near Chamonix who look after dogs for free out of pure enthusiasm. Membership includes vet-fee cover, liability insurance and a meet-up before any stay.",
+          "descriptionFr": "Une communauté française de bénévoles amoureux des chiens, avec des dizaines de membres près de Chamonix qui gardent votre chien gratuitement, par passion. L'adhésion inclut garantie frais vétérinaires, responsabilité civile et rencontre préalable.",
+          "descriptionEs": "Una comunidad francesa de voluntarios amantes de los perros, con decenas de miembros cerca de Chamonix que cuidan a tu perro gratis, por pura afición. La membresía incluye garantía veterinaria, seguro de responsabilidad y un encuentro previo.",
+          "descriptionPt": "Uma comunidade francesa de voluntários amantes de cães, com dezenas de membros perto de Chamonix que cuidam do seu cão gratuitamente, por paixão. A adesão inclui garantia de despesas veterinárias, seguro de responsabilidade e um encontro prévio.",
+          "priceRange": "Free care, annual membership fee",
+          "priceRangeFr": "Garde gratuite, adhésion annuelle",
+          "priceRangeEs": "Cuidado gratis, cuota anual de socio",
+          "priceRangePt": "Cuidado grátis, quota anual de sócio",
+          "bookingRequired": true
+        },
+        {
+          "name": "Animaute",
+          "website": "https://www.animaute.fr/garde-animaux-chamonix-mont-blanc-74400",
+          "description": "French pet-sitting platform listing home boarding, house visits and walks in Chamonix for dogs and cats alike. Useful for cat owners, as sitters also do in-home visits while you are out on the mountain.",
+          "descriptionFr": "Plateforme française de pet-sitting proposant pension en famille, visites à domicile et promenades à Chamonix, pour chiens comme pour chats. Pratique pour les chats, avec des visites à domicile pendant que vous êtes en montagne.",
+          "descriptionEs": "Plataforma francesa de cuidado de mascotas con alojamiento en familia, visitas a domicilio y paseos en Chamonix, para perros y gatos. Útil para gatos, con visitas a domicilio mientras estás en la montaña.",
+          "descriptionPt": "Plataforma francesa de pet sitting com alojamento em família, visitas ao domicílio e passeios em Chamonix, para cães e gatos. Útil para gatos, com visitas ao domicílio enquanto está na montanha.",
+          "priceRange": "From about €10 per visit",
+          "priceRangeFr": "À partir d'environ 10 € la visite",
+          "priceRangeEs": "Desde unos 10 € por visita",
+          "priceRangePt": "A partir de cerca de 10 € por visita",
+          "bookingRequired": true
+        }
+      ]
+    }
+  }
+}

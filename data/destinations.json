@@ -26862,5 +26862,79 @@
         "icon": "❄️"
       }
     }
+  },
+  {
+    "slug": "chamonix",
+    "name": "Chamonix-Mont-Blanc",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/chamonix.jpg",
+    "intro": "The mountaineering capital of the Alps is a surprisingly easy trip with a dog: leashed dogs ride the valley buses, the Mont-Blanc Express and almost every lift including the Montenvers train to the Mer de Glace, terraces welcome them all over the pedestrian centre, and riverside trails start at the door. Just remember the one big rule: the Aiguilles Rouges reserve and its Lac Blanc are off-limits to dogs.",
+    "lat": 45.9237,
+    "lng": 6.8694,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Snowy ski season",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Late winter sun",
+        "icon": "🌨️"
+      },
+      "apr": {
+        "temp": 7,
+        "desc": "Thawing valley",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 11,
+        "desc": "Green & fresh",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Mild alpine summer",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Warm hiking days",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 16,
+        "desc": "Warm with storms",
+        "icon": "⛈️"
+      },
+      "sep": {
+        "temp": 12,
+        "desc": "Clear & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 2,
+        "desc": "Cold, first snow",
+        "icon": "🌨️"
+      },
+      "dec": {
+        "temp": -2,
+        "desc": "Snowy & festive",
+        "icon": "❄️"
+      }
+    }
   }
 ]

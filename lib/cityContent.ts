@@ -692,6 +692,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  alghero: {
+    history: {
+      fr: `Perchée sur la côte nord-ouest de la Sardaigne, Alghero cultive une singularité rare en Italie : on y parle encore le catalan, hérité de la colonisation aragonaise du XIVe siècle qui lui a valu le surnom de « Barceloneta ». La vieille ville, ceinte de bastions et de tours de guet dorées face à la mer, garde des ruelles pavées, des façades aux accents gothiques catalans et une tradition d'orfèvrerie du corail rouge pêché au large. Autour, la riviera dévoile les falaises spectaculaires de Capo Caccia et la grotte de Neptune, tandis que les plages de sable de Le Bombarde, du Lazzaretto et de Maria Pia s'étirent au sud, bordées de pinèdes. Pour un voyageur avec chien, Alghero offre un mariage séduisant de patrimoine et de nature : la promenade sur les remparts en laisse est un plaisir au coucher du soleil, et les sentiers du littoral compensent les restrictions estivales des plages surveillées.`,
+      en: `Perched on the north-western coast of Sardinia, Alghero has a rarity unusual in Italy: Catalan is still spoken here, a legacy of the 14th-century Aragonese rule that earned it the nickname "Barceloneta". The old town, ringed by golden bastions and watchtowers facing the sea, keeps cobbled lanes, facades with Catalan Gothic touches and a jewellery tradition worked from red coral fished offshore. Around it, the riviera reveals the dramatic cliffs of Capo Caccia and Neptune's Grotto, while the sandy beaches of Le Bombarde, Lazzaretto and Maria Pia stretch south, fringed by pine woods. For a traveller with a dog, Alghero offers an appealing blend of heritage and nature: the walk along the ramparts on a leash is a delight at sunset, and the coastal trails make up for the summer restrictions on the lifeguarded beaches.`,
+      es: `Encaramada en la costa noroeste de Cerdeña, Alghero cultiva una singularidad rara en Italia: aquí todavía se habla catalán, herencia de la colonización aragonesa del siglo XIV que le valió el apodo de «Barceloneta». El casco antiguo, ceñido por bastiones y torres de vigilancia dorados frente al mar, conserva callejuelas empedradas, fachadas con acentos góticos catalanes y una tradición de orfebrería del coral rojo pescado en alta mar. Alrededor, la riviera despliega los espectaculares acantilados de Capo Caccia y la gruta de Neptuno, mientras que las playas de arena de Le Bombarde, el Lazzaretto y Maria Pia se extienden hacia el sur, bordeadas de pinares. Para un viajero con perro, Alghero ofrece una mezcla atractiva de patrimonio y naturaleza: el paseo por las murallas con correa es un placer al atardecer, y los senderos del litoral compensan las restricciones estivales de las playas vigiladas.`,
+      pt: `Empoleirada na costa noroeste da Sardenha, Alghero cultiva uma singularidade rara em Itália: ainda se fala catalão, herança da colonização aragonesa do século XIV que lhe valeu a alcunha de «Barceloneta». O centro histórico, cingido por bastiões e torres de vigia dourados frente ao mar, conserva ruelas de calçada, fachadas com traços góticos catalães e uma tradição de ourivesaria do coral vermelho pescado ao largo. Em redor, a riviera revela as espetaculares falésias de Capo Caccia e a gruta de Neptuno, enquanto as praias de areia de Le Bombarde, do Lazzaretto e de Maria Pia se estendem para sul, orladas de pinhais. Para um viajante com cão, Alghero oferece uma mistura atraente de património e natureza: o passeio pelas muralhas com trela é um prazer ao pôr do sol, e os trilhos do litoral compensam as restrições estivais das praias vigiadas.`,
+    },
+    sights: [
+      { name: 'Bastioni di Alghero', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Chemin de ronde sur les remparts et bastions du XVIe siècle qui ceinturent la vieille ville face à la mer. Promenade libre et ombragée au coucher du soleil, chiens en laisse parfaitement à l'aise le long de ce parcours panoramique.`,
+        en: `Wall-top walk on the 16th-century ramparts and bastions that ring the old town facing the sea. A free, shaded stroll at sunset, with leashed dogs perfectly at home along this panoramic route.`,
+        es: `Camino de ronda sobre las murallas y bastiones del siglo XVI que rodean el casco antiguo frente al mar. Paseo libre y sombreado al atardecer, con perros con correa muy a gusto a lo largo de este recorrido panorámico.`,
+        pt: `Caminho de ronda sobre as muralhas e bastiões do século XVI que cercam o centro histórico frente ao mar. Passeio livre e sombreado ao pôr do sol, com cães com trela perfeitamente à vontade ao longo deste percurso panorâmico.`,
+      }},
+      { name: 'Grotta di Nettuno', emoji: '🕳️', petFriendly: false, desc: {
+        fr: `Grotte marine spectaculaire au pied de Capo Caccia, accessible par bateau ou par l'escalier Escala del Cabirol (654 marches). Les chiens ne sont pas admis à l'intérieur de la grotte ; laissez-le avec un accompagnant à l'extérieur ou profitez plutôt des falaises.`,
+        en: `A spectacular sea cave at the foot of Capo Caccia, reached by boat or the Escala del Cabirol stairway (654 steps). Dogs are not allowed inside the cave; leave yours with a companion outside, or enjoy the clifftops instead.`,
+        es: `Espectacular gruta marina al pie de Capo Caccia, accesible en barco o por la escalera Escala del Cabirol (654 escalones). Los perros no pueden entrar en la gruta; déjalo con un acompañante fuera o disfruta mejor de los acantilados.`,
+        pt: `Espetacular gruta marinha ao pé de Capo Caccia, acessível de barco ou pela escadaria Escala del Cabirol (654 degraus). Os cães não podem entrar na gruta; deixe o seu com um acompanhante no exterior ou aproveite antes as falésias.`,
+      }},
+      { name: 'Capo Caccia', emoji: '⛰️', petFriendly: true, desc: {
+        fr: `Promontoire calcaire aux falaises vertigineuses qui ferment la baie d'Alghero, paradis des rapaces et point de vue au coucher du soleil. Sentiers de plein air où les chiens en laisse sont bienvenus ; emportez de l'eau, l'ombre y est rare.`,
+        en: `A limestone headland with sheer cliffs closing off the bay of Alghero, a haven for birds of prey and a sunset viewpoint. Open-air trails where leashed dogs are welcome; bring water, as shade is scarce.`,
+        es: `Promontorio calcáreo de acantilados vertiginosos que cierra la bahía de Alghero, paraíso de las rapaces y mirador al atardecer. Senderos al aire libre donde los perros con correa son bienvenidos; lleva agua, la sombra escasea.`,
+        pt: `Promontório calcário de falésias vertiginosas que fecha a baía de Alghero, paraíso das aves de rapina e miradouro ao pôr do sol. Trilhos ao ar livre onde os cães com trela são bem-vindos; leve água, a sombra é escassa.`,
+      }},
+      { name: 'Spiaggia di Maria Pia', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Plage de sable blanc adossée à une pinède au nord de la ville, plus tranquille que les grandes plages du sud. Un secteur canin toléré existe dans la zone de la pinède ; vérifiez la signalisation locale, les règles estivales évoluent chaque saison.`,
+        en: `A white-sand beach backed by a pine wood north of town, quieter than the big southern beaches. A dog-tolerated area exists within the pinewood zone; check local signs, as summer rules change each season.`,
+        es: `Playa de arena blanca respaldada por un pinar al norte de la ciudad, más tranquila que las grandes playas del sur. Existe una zona canina tolerada en el área del pinar; comprueba la señalización local, las normas estivales cambian cada temporada.`,
+        pt: `Praia de areia branca encostada a um pinhal a norte da cidade, mais tranquila do que as grandes praias do sul. Existe uma zona canina tolerada na área do pinhal; verifique a sinalização local, as regras estivais mudam a cada época.`,
+      }},
+      { name: 'Spiaggia di Le Bombarde', emoji: '🌊', petFriendly: false, desc: {
+        fr: `L'une des plus belles plages des environs, eaux turquoise et sable fin appréciés des surfeurs. Chiens interdits en pleine saison balnéaire estivale sur cette plage surveillée ; hors saison, la baignade matinale en laisse y est tolérée.`,
+        en: `One of the finest beaches nearby, with turquoise water and fine sand popular with surfers. Dogs are banned in the peak summer bathing season on this lifeguarded beach; off season, an early on-leash visit is tolerated.`,
+        es: `Una de las playas más bonitas de los alrededores, con aguas turquesa y arena fina apreciadas por los surfistas. Perros prohibidos en plena temporada de baño estival en esta playa vigilada; fuera de temporada se tolera el baño matinal con correa.`,
+        pt: `Uma das praias mais bonitas dos arredores, com águas turquesa e areia fina apreciadas pelos surfistas. Cães proibidos em plena época balnear de verão nesta praia vigiada; fora de época, o banho matinal com trela é tolerado.`,
+      }},
+      { name: 'Porto di Alghero', emoji: '⛵', petFriendly: true, desc: {
+        fr: `Port de plaisance bordé d'une longue promenade animée, entre la vieille ville et la marina, jalonnée de terrasses et de boutiques de corail. Balade agréable toute l'année en laisse, la plupart des terrasses tolèrent les chiens dehors.`,
+        en: `A marina lined by a long, lively promenade between the old town and the harbour, dotted with terraces and coral shops. A pleasant on-leash stroll all year round, and most terraces tolerate dogs outside.`,
+        es: `Puerto deportivo bordeado por un largo paseo animado, entre el casco antiguo y la marina, jalonado de terrazas y tiendas de coral. Paseo agradable todo el año con correa, y la mayoría de las terrazas toleran perros fuera.`,
+        pt: `Marina ladeada por um longo passeio animado, entre o centro histórico e o porto, pontilhado de esplanadas e lojas de coral. Passeio agradável todo o ano com trela, e a maioria das esplanadas tolera cães no exterior.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale des plages surveillées : de juin à septembre, les chiens sont bannis des plages principales comme Le Bombarde ; visez l'aube hors saison et repérez le secteur toléré de la pinède de Maria Pia.`,
+        `Chaleur d'été sarde : sorties tôt le matin et après le coucher du soleil, testez le sable et le pavé avec la main avant de laisser marcher votre chien.`,
+        `La promenade sur les Bastioni au coucher du soleil est idéale en laisse, mais les remparts sont très fréquentés l'été : privilégiez la fin de journée en semaine.`,
+        `Grotta di Nettuno interdite aux chiens à l'intérieur : prévoyez un accompagnant pour rester dehors, ou explorez plutôt les falaises de Capo Caccia en surface.`,
+        `Sur les sentiers de Capo Caccia, peu d'ombre et pas de point d'eau : emportez toujours de l'eau et une gamelle pliable pour votre chien.`,
+      ],
+      en: [
+        `Summer ban on lifeguarded beaches: from June to September, dogs are barred from the main beaches such as Le Bombarde; aim for dawn off season and scout the tolerated Maria Pia pinewood area.`,
+        `Sardinian summer heat: walk early in the morning and after sunset, and test sand and paving with your hand before letting your dog walk on them.`,
+        `The sunset walk along the Bastioni is perfect on a leash, but the ramparts are very busy in summer: favour late afternoon on a weekday.`,
+        `Dogs are not allowed inside Neptune's Grotto: plan for a companion to wait outside, or explore the Capo Caccia clifftops instead.`,
+        `On the Capo Caccia trails there is little shade and no water point: always carry water and a folding bowl for your dog.`,
+      ],
+      es: [
+        `Prohibición estival de las playas vigiladas: de junio a septiembre, los perros están vetados en las playas principales como Le Bombarde; apunta al amanecer fuera de temporada y localiza la zona tolerada del pinar de Maria Pia.`,
+        `Calor estival sardo: paseos a primera hora y tras la puesta de sol, y comprueba la arena y el pavimento con la mano antes de dejar caminar a tu perro.`,
+        `El paseo por los Bastioni al atardecer es ideal con correa, pero las murallas están muy concurridas en verano: mejor a última hora entre semana.`,
+        `Perros no admitidos dentro de la Grotta di Nettuno: prevé un acompañante para quedarse fuera, o explora mejor los acantilados de Capo Caccia en superficie.`,
+        `En los senderos de Capo Caccia hay poca sombra y ningún punto de agua: lleva siempre agua y un cuenco plegable para tu perro.`,
+      ],
+      pt: [
+        `Proibição estival das praias vigiadas: de junho a setembro, os cães são vetados nas praias principais como Le Bombarde; aponte para a madrugada fora de época e localize a zona tolerada do pinhal de Maria Pia.`,
+        `Calor de verão sardo: passeios de manhã cedo e depois do pôr do sol, e teste a areia e o pavimento com a mão antes de deixar o seu cão caminhar.`,
+        `O passeio pelos Bastioni ao pôr do sol é ideal com trela, mas as muralhas ficam muito movimentadas no verão: prefira o fim da tarde num dia de semana.`,
+        `Cães não admitidos dentro da Grotta di Nettuno: preveja um acompanhante para ficar no exterior, ou explore antes as falésias de Capo Caccia à superfície.`,
+        `Nos trilhos de Capo Caccia há pouca sombra e nenhum ponto de água: leve sempre água e uma taça dobrável para o seu cão.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport d'Alghero-Fertilia (AHO) à environ 10 km, relié à plusieurs villes italiennes et européennes ; ferries depuis le continent (Gênes, Civitavecchia, Barcelone) vers Porto Torres à 35 km au nord.`,
+        `Sur les ferries, les compagnies acceptent les chiens selon leurs propres règles, en chenil de bord ou sur les ponts extérieurs en laisse et muselière ; vérifiez les conditions au moment de la réservation.`,
+        `Numéro d'urgence unique en Europe : 112, valable pour toute urgence humaine ; pour votre chien, repérez une clinique vétérinaire à Alghero dès l'arrivée.`,
+        `Réglementation italienne : puce et carnet de vaccination obligatoires, laisse requise dans l'espace public et muselière à portée de main dans les transports et lieux bondés.`,
+        `Haute saison de juin à septembre : les hébergements pet-friendly d'Alghero et de la riviera partent vite, réservez plusieurs mois à l'avance pour l'été.`,
+      ],
+      en: [
+        `Alghero-Fertilia Airport (AHO) is about 10 km away, linked to several Italian and European cities; ferries from the mainland (Genoa, Civitavecchia, Barcelona) arrive at Porto Torres, 35 km to the north.`,
+        `On the ferries, companies accept dogs under their own rules, in onboard kennels or on outer decks with leash and muzzle; check the conditions when booking.`,
+        `Europe's single emergency number is 112, valid for any human emergency; for your dog, locate a veterinary clinic in Alghero on arrival.`,
+        `Italian regulations: microchip and vaccination record are mandatory, a leash is required in public spaces, and a muzzle must be kept to hand on transport and in crowded places.`,
+        `High season runs from June to September: pet-friendly accommodation in Alghero and along the riviera goes fast, book several months ahead for summer.`,
+      ],
+      es: [
+        `El aeropuerto de Alghero-Fertilia (AHO) está a unos 10 km, conectado con varias ciudades italianas y europeas; ferries desde el continente (Génova, Civitavecchia, Barcelona) llegan a Porto Torres, 35 km al norte.`,
+        `En los ferries, las navieras aceptan perros según sus propias normas, en perreras de a bordo o en cubiertas exteriores con correa y bozal; comprueba las condiciones al reservar.`,
+        `El número único de emergencias en Europa es el 112, válido para cualquier urgencia humana; para tu perro, localiza una clínica veterinaria en Alghero al llegar.`,
+        `Normativa italiana: microchip y cartilla de vacunación obligatorios, correa exigida en el espacio público y bozal a mano en el transporte y lugares concurridos.`,
+        `Temporada alta de junio a septiembre: los alojamientos pet-friendly de Alghero y de la riviera se agotan rápido, reserva con varios meses de antelación para el verano.`,
+      ],
+      pt: [
+        `O aeroporto de Alghero-Fertilia (AHO) fica a cerca de 10 km, ligado a várias cidades italianas e europeias; ferries do continente (Génova, Civitavecchia, Barcelona) chegam a Porto Torres, 35 km a norte.`,
+        `Nos ferries, as companhias aceitam cães segundo as suas próprias regras, em canis de bordo ou nos conveses exteriores com trela e açaime; verifique as condições ao reservar.`,
+        `O número único de emergência na Europa é o 112, válido para qualquer urgência humana; para o seu cão, localize uma clínica veterinária em Alghero à chegada.`,
+        `Regulamentação italiana: microchip e boletim de vacinação obrigatórios, trela exigida no espaço público e açaime à mão nos transportes e locais lotados.`,
+        `Época alta de junho a setembro: os alojamentos pet-friendly de Alghero e da riviera esgotam depressa, reserve com vários meses de antecedência para o verão.`,
+      ],
+    },
+  },
+
   alicante: {
     history: {
       fr: `Alicante, capitale de la province éponyme et l'une des plus grandes villes de la Costa Blanca (335 000 habitants), s'étire au pied du mont Benacantil couronné par le Castillo de Santa Bárbara, forteresse arabe du IXe siècle puis place forte chrétienne après la Reconquista de 1248. Le port méditerranéen, fondé par les Romains sous le nom de Lucentum, est aujourd'hui dominé par l'Explanada de España bordée de 6 600 carreaux de marbre rouge, blanc et noir formant un motif ondulant face à la marina. Pour les propriétaires de chiens, Alicante est l'une des bases les plus authentiquement pet-friendly de la côte espagnole : climat méditerranéen avec 320+ jours de soleil par an, hivers très doux (12–13°C en janvier), Playa de Agua Amarga officiellement désignée plage canine à l'année - l'une des rares en Espagne - Serra Grossa coastal walk avec vues sur le golfe, et un réseau TRAM Metropolitano qui file vers le nord jusqu'à Benidorm. La culture levantine est foncièrement accueillante aux animaux dans les terrasses du Casco Antiguo (Santa Cruz) et de l'Explanada, et l'aéroport international ALC à 9 km à l'ouest est l'un des hubs low-cost majeurs d'Europe du Sud.`,
@@ -795,6 +902,113 @@ const cityContent: Record<string, CityContent> = {
         `Renfe Cercanías linha C-1 para Murcia (1h20) e comboios AVE Madrid–Alicante (2h30) ou Barcelona–Alicante (4h45). Cães pequenos em transportadora grátis, cães grandes com açaime permitidos no AVE (suplemento 10 €).`,
         `Autocarros interurbanos ALSA da estação rodoviária para Valência (2h30), Murcia (1h15), Calpe (1h15), Almería (4h) - cães pequenos em transportadora grátis, cães grandes à discrição do condutor.`,
         `Passaporte europeu para animais exigido a todos os viajantes UE (microchip + raiva em vigor). Viajantes Reino Unido pós-Brexit: Animal Health Certificate (AHC) válido 4 meses máximo, a solicitar ao veterinário 10 dias antes da viagem.`,
+      ],
+    },
+  },
+
+  almeria: {
+    history: {
+      fr: `Posée sur la côte aride du sud-est de l'Andalousie, Almería doit son nom à l'arabe « al-Mariyya », la tour de guet, et son âge d'or au califat de Cordoue, qui en fit au Xe siècle l'un des grands ports de la Méditerranée. De cette époque subsiste l'Alcazaba, deuxième plus vaste forteresse mauresque d'Espagne après l'Alhambra, dont les remparts dominent encore la ville. Autour, un paysage minéral unique : le parc naturel du Cabo de Gata déploie ses côtes volcaniques et ses plages sauvages, tandis que le désert de Tabernas, seul désert d'Europe, a servi de décor à d'innombrables westerns spaghetti. Almería est réputée la ville la plus sèche et la plus ensoleillée d'Europe, ce qui fait tout son charme mais impose au voyageur avec chien une vigilance constante face à la chaleur et à la rareté de l'eau, surtout sur les plages sauvages du Cabo de Gata.`,
+      en: `Set on the arid south-eastern coast of Andalusia, Almeria owes its name to the Arabic "al-Mariyya", the watchtower, and its golden age to the Caliphate of Cordoba, which in the 10th century made it one of the great Mediterranean ports. From that era survives the Alcazaba, the second-largest Moorish fortress in Spain after the Alhambra, whose ramparts still tower over the city. Around it lies a unique mineral landscape: the Cabo de Gata natural park unfolds its volcanic coast and wild beaches, while the Tabernas desert, the only desert in Europe, served as the backdrop for countless spaghetti westerns. Almeria is reputed to be the driest and sunniest city in Europe, which is its charm but demands constant care from travellers with a dog against the heat and scarcity of water, especially on the wild beaches of Cabo de Gata.`,
+      es: `Asentada en la árida costa del sureste de Andalucía, Almería debe su nombre al árabe «al-Mariyya», la atalaya, y su edad de oro al califato de Córdoba, que en el siglo X la convirtió en uno de los grandes puertos del Mediterráneo. De aquella época sobrevive la Alcazaba, la segunda fortaleza musulmana más extensa de España tras la Alhambra, cuyas murallas aún dominan la ciudad. Alrededor se extiende un paisaje mineral único: el parque natural del Cabo de Gata despliega sus costas volcánicas y sus playas salvajes, mientras que el desierto de Tabernas, el único de Europa, sirvió de escenario a innumerables spaghetti westerns. Almería tiene fama de ser la ciudad más seca y soleada de Europa, lo que constituye su encanto pero exige al viajero con perro una vigilancia constante frente al calor y a la escasez de agua, sobre todo en las playas salvajes del Cabo de Gata.`,
+      pt: `Assente na árida costa do sudeste da Andaluzia, Almería deve o seu nome ao árabe «al-Mariyya», a torre de vigia, e a sua idade de ouro ao califado de Córdova, que no século X a tornou um dos grandes portos do Mediterrâneo. Dessa época sobrevive a Alcazaba, a segunda maior fortaleza mourisca de Espanha depois de Alhambra, cujas muralhas ainda dominam a cidade. Em redor estende-se uma paisagem mineral única: o parque natural do Cabo de Gata desdobra as suas costas vulcânicas e praias selvagens, enquanto o deserto de Tabernas, o único da Europa, serviu de cenário a inúmeros spaghetti westerns. Almería tem fama de ser a cidade mais seca e soalheira da Europa, o que constitui o seu encanto mas exige ao viajante com cão uma vigilância constante face ao calor e à escassez de água, sobretudo nas praias selvagens do Cabo de Gata.`,
+    },
+    sights: [
+      { name: 'Alcazaba de Almería', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Immense forteresse mauresque du Xe siècle, la deuxième d'Espagne par la taille, avec ses jardins en terrasses et ses murailles dominant la ville. Enceinte en plein air où les chiens en laisse sont généralement admis sur les allées ; vérifiez la règle à l'entrée, elle peut évoluer.`,
+        en: `A vast 10th-century Moorish fortress, the second-largest in Spain, with terraced gardens and ramparts overlooking the city. An open-air complex where leashed dogs are generally admitted on the paths; check the rule at the entrance, as it can change.`,
+        es: `Inmensa fortaleza musulmana del siglo X, la segunda de España por tamaño, con sus jardines en terrazas y sus murallas dominando la ciudad. Recinto al aire libre donde los perros con correa suelen admitirse en los paseos; comprueba la norma en la entrada, puede cambiar.`,
+        pt: `Imensa fortaleza mourisca do século X, a segunda de Espanha em tamanho, com os seus jardins em terraços e as suas muralhas a dominar a cidade. Recinto ao ar livre onde os cães com trela costumam ser admitidos nos passeios; verifique a regra à entrada, pode mudar.`,
+      }},
+      { name: 'Parque Natural de Cabo de Gata', emoji: '🌋', petFriendly: true, desc: {
+        fr: `Côte volcanique protégée aux plages sauvages et aux criques cristallines, à l'est de la ville. Chiens en laisse admis sur de nombreux sentiers et plages non surveillées, mais certaines zones sont réglementées ; emportez impérativement de l'eau, il n'y en a nulle part.`,
+        en: `A protected volcanic coast of wild beaches and crystalline coves, east of the city. Leashed dogs are admitted on many trails and unsupervised beaches, but some areas are regulated; you must bring water, as there is none anywhere.`,
+        es: `Costa volcánica protegida de playas salvajes y calas cristalinas, al este de la ciudad. Se admiten perros con correa en muchos senderos y playas no vigiladas, pero algunas zonas están reguladas; lleva agua sin falta, no hay en ningún sitio.`,
+        pt: `Costa vulcânica protegida de praias selvagens e enseadas cristalinas, a leste da cidade. Cães com trela admitidos em muitos trilhos e praias não vigiadas, mas algumas zonas são regulamentadas; leve água sem falta, não há em lado nenhum.`,
+      }},
+      { name: 'Paseo Marítimo de Almería', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Longue promenade en front de mer bordée de palmiers, entre le port et les plages urbaines, ponctuée de terrasses. Balade agréable en laisse hors des heures les plus chaudes, la plupart des terrasses tolèrent les chiens dehors.`,
+        en: `A long palm-lined seafront promenade between the port and the city beaches, dotted with terraces. A pleasant on-leash stroll outside the hottest hours, and most terraces tolerate dogs outside.`,
+        es: `Largo paseo marítimo bordeado de palmeras, entre el puerto y las playas urbanas, salpicado de terrazas. Paseo agradable con correa fuera de las horas más calurosas, y la mayoría de las terrazas toleran perros fuera.`,
+        pt: `Longo passeio marítimo ladeado de palmeiras, entre o porto e as praias urbanas, pontilhado de esplanadas. Passeio agradável com trela fora das horas mais quentes, e a maioria das esplanadas tolera cães no exterior.`,
+      }},
+      { name: 'Refugios de la Guerra Civil', emoji: '🚇', petFriendly: false, desc: {
+        fr: `Réseau d'abris souterrains creusés sous la ville pendant la guerre civile espagnole, parmi les mieux conservés d'Europe, visitables avec guide. Les chiens ne sont pas admis à l'intérieur ; prévoyez un accompagnant à l'extérieur pour la durée de la visite.`,
+        en: `A network of underground shelters dug beneath the city during the Spanish Civil War, among the best preserved in Europe, visited with a guide. Dogs are not admitted inside; arrange for a companion to wait outside for the length of the tour.`,
+        es: `Red de refugios subterráneos excavados bajo la ciudad durante la Guerra Civil española, entre los mejor conservados de Europa, visitables con guía. Los perros no se admiten dentro; prevé un acompañante fuera durante la visita.`,
+        pt: `Rede de abrigos subterrâneos escavados sob a cidade durante a Guerra Civil espanhola, entre os mais bem conservados da Europa, visitáveis com guia. Os cães não são admitidos no interior; preveja um acompanhante no exterior durante a visita.`,
+      }},
+      { name: 'Desierto de Tabernas', emoji: '🌵', petFriendly: true, desc: {
+        fr: `Seul désert d'Europe, à une trentaine de kilomètres au nord, célèbre pour ses décors de westerns spaghetti encore debout. Excursion à la journée : chiens en laisse bienvenus dans les paysages en plein air, mais chaleur extrême, à réserver aux heures fraîches avec beaucoup d'eau.`,
+        en: `The only desert in Europe, some thirty kilometres north, famous for its still-standing spaghetti-western film sets. A day trip: leashed dogs are welcome in the open-air landscapes, but the heat is extreme, so keep to the cooler hours with plenty of water.`,
+        es: `El único desierto de Europa, a unos treinta kilómetros al norte, célebre por sus decorados de spaghetti westerns aún en pie. Excursión de día: perros con correa bienvenidos en los paisajes al aire libre, pero calor extremo, resérvalo para las horas frescas con mucha agua.`,
+        pt: `O único deserto da Europa, a cerca de trinta quilómetros a norte, célebre pelos seus cenários de spaghetti westerns ainda de pé. Excursão de dia: cães com trela bem-vindos nas paisagens ao ar livre, mas calor extremo, reserve-o para as horas frescas com muita água.`,
+      }},
+      { name: 'Playa de San Miguel', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `Grande plage urbaine de sable au bout du Paseo Marítimo, surveillée et animée en été. Chiens interdits en pleine saison balnéaire estivale ; hors saison, la promenade matinale en laisse y est tolérée. En été, repli sur les plages non surveillées du Cabo de Gata.`,
+        en: `A large sandy city beach at the end of the Paseo Maritimo, lifeguarded and lively in summer. Dogs are banned in the peak summer bathing season; off season, an early on-leash walk is tolerated. In summer, fall back on the unsupervised beaches of Cabo de Gata.`,
+        es: `Gran playa urbana de arena al final del Paseo Marítimo, vigilada y animada en verano. Perros prohibidos en plena temporada de baño estival; fuera de temporada se tolera el paseo matinal con correa. En verano, la alternativa son las playas no vigiladas del Cabo de Gata.`,
+        pt: `Grande praia urbana de areia no fim do Paseo Marítimo, vigiada e animada no verão. Cães proibidos em plena época balnear de verão; fora de época, o passeio matinal com trela é tolerado. No verão, a alternativa são as praias não vigiadas do Cabo de Gata.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Ville la plus sèche et la plus chaude d'Europe : en été, sorties uniquement à l'aube et après le coucher du soleil, testez le sol brûlant avec la main avant de laisser marcher votre chien.`,
+        `Rareté de l'eau au Cabo de Gata : les plages sauvages n'ont aucune fontaine ni commerce, emportez toujours plusieurs litres d'eau et une gamelle pliable pour votre chien.`,
+        `Interdiction estivale des plages urbaines surveillées : de juin à septembre, rabattez-vous sur les plages non surveillées du Cabo de Gata, où les chiens en laisse sont généralement tolérés.`,
+        `Prévention de la leishmaniose : phlébotome endémique en Andalousie côtière, protégez votre chien avec un collier ou une pipette insectifuge, surtout au crépuscule.`,
+        `Races dites PPP soumises à laisse courte et muselière dans l'espace public : gardez la muselière à portée de main dans le centre-ville et les transports.`,
+      ],
+      en: [
+        `Europe's driest and hottest city: in summer, walk only at dawn and after sunset, and test the scorching ground with your hand before letting your dog walk on it.`,
+        `Scarcity of water at Cabo de Gata: the wild beaches have no fountain or shop, so always carry several litres of water and a folding bowl for your dog.`,
+        `Summer ban on lifeguarded city beaches: from June to September, fall back on the unsupervised beaches of Cabo de Gata, where leashed dogs are generally tolerated.`,
+        `Leishmaniasis prevention: the sandfly is endemic on the coastal Andalusia, so protect your dog with an insect-repellent collar or spot-on, especially at dusk.`,
+        `So-called PPP breeds must wear a short leash and muzzle in public spaces: keep the muzzle to hand in the city centre and on transport.`,
+      ],
+      es: [
+        `Ciudad más seca y calurosa de Europa: en verano, paseos solo al amanecer y tras la puesta de sol, y comprueba el suelo ardiente con la mano antes de dejar caminar a tu perro.`,
+        `Escasez de agua en el Cabo de Gata: las playas salvajes no tienen fuente ni comercio, lleva siempre varios litros de agua y un cuenco plegable para tu perro.`,
+        `Prohibición estival de las playas urbanas vigiladas: de junio a septiembre, opta por las playas no vigiladas del Cabo de Gata, donde los perros con correa suelen tolerarse.`,
+        `Prevención de la leishmaniosis: flebotomo endémico en la Andalucía costera, protege a tu perro con un collar o pipeta repelente, sobre todo al atardecer.`,
+        `Razas PPP sujetas a correa corta y bozal en el espacio público: mantén el bozal a mano en el centro y en el transporte.`,
+      ],
+      pt: [
+        `Cidade mais seca e quente da Europa: no verão, passeios só ao amanhecer e depois do pôr do sol, e teste o solo escaldante com a mão antes de deixar o seu cão caminhar.`,
+        `Escassez de água no Cabo de Gata: as praias selvagens não têm fonte nem comércio, leve sempre vários litros de água e uma taça dobrável para o seu cão.`,
+        `Proibição estival das praias urbanas vigiadas: de junho a setembro, opte pelas praias não vigiadas do Cabo de Gata, onde os cães com trela costumam ser tolerados.`,
+        `Prevenção da leishmaniose: flebótomo endémico na Andaluzia costeira, proteja o seu cão com uma coleira ou pipeta repelente, sobretudo ao entardecer.`,
+        `Raças ditas PPP sujeitas a trela curta e açaime no espaço público: mantenha o açaime à mão no centro e nos transportes.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport d'Almería (LEI) à environ 10 km, relié à Madrid, Barcelone et plusieurs villes européennes ; gare Renfe avec liaisons vers Grenade et Madrid.`,
+        `Le désert de Tabernas et le Cabo de Gata se visitent surtout en voiture : optez pour une location acceptant les animaux, les transports en commun desservent peu ces sites naturels.`,
+        `Numéro d'urgence unique en Espagne : 112, valable pour toute urgence humaine ; pour votre chien, repérez une clinique vétérinaire à Almería dès l'arrivée.`,
+        `Réglementation espagnole : carnet européen et puce obligatoires, races dites PPP soumises à laisse courte et muselière dans l'espace public.`,
+        `Haute saison de juin à septembre avec chaleur extrême : réservez tôt un hébergement pet-friendly climatisé, indispensable pour le confort de votre chien.`,
+      ],
+      en: [
+        `Almeria Airport (LEI) is about 10 km away, linked to Madrid, Barcelona and several European cities; a Renfe station offers connections to Granada and Madrid.`,
+        `The Tabernas desert and Cabo de Gata are best visited by car: choose a pet-accepting rental, as public transport barely serves these natural sites.`,
+        `Spain's single emergency number is 112, valid for any human emergency; for your dog, locate a veterinary clinic in Almeria on arrival.`,
+        `Spanish regulations: EU pet passport and microchip are mandatory, and so-called PPP breeds must wear a short leash and muzzle in public spaces.`,
+        `High season runs from June to September with extreme heat: book air-conditioned pet-friendly accommodation early, essential for your dog's comfort.`,
+      ],
+      es: [
+        `El aeropuerto de Almería (LEI) está a unos 10 km, conectado con Madrid, Barcelona y varias ciudades europeas; estación de Renfe con enlaces a Granada y Madrid.`,
+        `El desierto de Tabernas y el Cabo de Gata se visitan sobre todo en coche: opta por un alquiler que acepte animales, el transporte público apenas llega a estos parajes naturales.`,
+        `El número único de emergencias en España es el 112, válido para cualquier urgencia humana; para tu perro, localiza una clínica veterinaria en Almería al llegar.`,
+        `Normativa española: pasaporte europeo y microchip obligatorios, y las razas PPP deben llevar correa corta y bozal en el espacio público.`,
+        `Temporada alta de junio a septiembre con calor extremo: reserva pronto un alojamiento pet-friendly con aire acondicionado, imprescindible para el confort de tu perro.`,
+      ],
+      pt: [
+        `O aeroporto de Almería (LEI) fica a cerca de 10 km, ligado a Madrid, Barcelona e várias cidades europeias; estação Renfe com ligações a Granada e Madrid.`,
+        `O deserto de Tabernas e o Cabo de Gata visitam-se sobretudo de carro: opte por um aluguer que aceite animais, os transportes públicos mal servem estes locais naturais.`,
+        `O número único de emergência em Espanha é o 112, válido para qualquer urgência humana; para o seu cão, localize uma clínica veterinária em Almería à chegada.`,
+        `Regulamentação espanhola: passaporte europeu e microchip obrigatórios, e as raças ditas PPP devem usar trela curta e açaime no espaço público.`,
+        `Época alta de junho a setembro com calor extremo: reserve cedo um alojamento pet-friendly com ar condicionado, indispensável para o conforto do seu cão.`,
       ],
     },
   },

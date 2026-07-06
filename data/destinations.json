@@ -24847,6 +24847,80 @@
     "countryCode": "IT"
   },
   {
+    "slug": "vichy",
+    "name": "Vichy",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/vichy.jpg",
+    "lat": 46.1275,
+    "lng": 3.4267,
+    "intro": "The Queen of France's spa towns walks beautifully with a dog on the leash: the Art Nouveau covered galleries of the Parc des Sources give shade, the English-style Parc Napoleon III opens onto a 6 km lakeside loop around the Allier, and the Source des Celestins pavilion pours free sparkling water. Dogs stay outdoors though, the thermal spa, the opera and the lake beaches are all off-limits.",
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cold, damp & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cold & overcast",
+        "icon": "☁️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Cool, brightening",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & wet",
+        "icon": "🌦️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Warm, sunny peak",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Warm, sunny peak",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Mild & settled",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Cooling autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cold & cloudy",
+        "icon": "☁️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "vienna",
     "name": "Vienna",
     "country": "Austria",

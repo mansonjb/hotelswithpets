@@ -33359,6 +33359,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  vichy: {
+    history: {
+      fr: `Vichy s'étend sur les rives de l'Allier, en Auvergne, et attire les curistes vers ses sources minérales naturellement gazeuses depuis l'époque romaine. Son âge d'or vint sous le Second Empire : Napoléon III y séjourna à plusieurs reprises à partir des années 1860, commandant parcs, promenades et villas qui firent de la ville la plus élégante des stations thermales de France, la Reine des villes d'eaux. La Belle Époque ajouta une couche éblouissante d'architecture Art nouveau et éclectique, des galeries couvertes du Parc des Sources jusqu'à l'opéra. Les sources donnèrent aussi au monde les pastilles de Vichy, ces bonbons minéraux octogonaux toujours fabriqués localement. Le barrage sur l'Allier créa un lac de plus de 100 hectares en bordure de ville. En 2021, Vichy fut inscrite au Patrimoine mondial de l'UNESCO parmi les Grandes Villes d'eaux d'Europe.`,
+      en: `Vichy sits on the banks of the Allier river in France's Auvergne region and has drawn visitors to its naturally sparkling mineral springs since Roman times. Its golden age came under the Second Empire: Emperor Napoleon III visited repeatedly from the 1860s, commissioning parks, promenades and villas that turned the town into the most fashionable watering place in France, the Queen of spa towns. The Belle Epoque added a dazzling layer of Art Nouveau and eclectic architecture, from the covered galleries of the Parc des Sources to the opera house. The springs also gave the world the pastilles de Vichy, octagonal mineral sweets still made locally. Damming the Allier created a lake of more than 100 hectares at the town's edge. In 2021 Vichy was inscribed on UNESCO's World Heritage List as one of the Great Spa Towns of Europe.`,
+      es: `Vichy se asienta a orillas del río Allier, en la región francesa de Auvernia, y atrae a los curistas hacia sus manantiales minerales naturalmente con gas desde la época romana. Su edad de oro llegó bajo el Segundo Imperio: el emperador Napoleón III la visitó repetidamente desde la década de 1860, encargando parques, paseos y villas que convirtieron la ciudad en el balneario más elegante de Francia, la Reina de las ciudades balneario. La Belle Époque añadió una capa deslumbrante de arquitectura art nouveau y ecléctica, desde las galerías cubiertas del Parc des Sources hasta la ópera. Los manantiales dieron también al mundo las pastillas de Vichy, caramelos minerales octogonales que aún se fabrican localmente. El embalse del Allier creó un lago de más de 100 hectáreas al borde de la ciudad. En 2021 Vichy fue inscrita en el Patrimonio Mundial de la UNESCO entre las Grandes Ciudades Balneario de Europa.`,
+      pt: `Vichy assenta nas margens do rio Allier, na região francesa da Auvérnia, e atrai os curistas às suas nascentes minerais naturalmente gasosas desde a época romana. A sua idade de ouro chegou sob o Segundo Império: o imperador Napoleão III visitou-a repetidamente a partir da década de 1860, encomendando parques, passeios e villas que tornaram a cidade no balneário mais elegante de França, a Rainha das cidades termais. A Belle Époque acrescentou uma camada deslumbrante de arquitetura arte nova e eclética, das galerias cobertas do Parc des Sources até à ópera. As nascentes deram também ao mundo as pastilhas de Vichy, rebuçados minerais octogonais ainda fabricados localmente. A barragem do Allier criou um lago de mais de 100 hectares à beira da cidade. Em 2021 Vichy foi inscrita no Património Mundial da UNESCO entre as Grandes Cidades Termais da Europa.`,
+    },
+    sights: [
+      {
+        name: 'Parc des Sources',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus ancien parc de Vichy, créé en 1812, encadré par les galeries couvertes Art nouveau en fer forgé et pièce maîtresse du classement UNESCO. Chiens en laisse bienvenus ; les galeries offrent une ombre précieuse à midi. Parc en rénovation par phases jusqu'en 2026.`,
+          en: `Vichy's oldest park, created in 1812, framed by the wrought-iron Art Nouveau covered galleries and the centrepiece of the UNESCO listing. Leashed dogs welcome; the galleries offer prized midday shade. Park under phased renovation through 2026.`,
+          es: `El parque más antiguo de Vichy, creado en 1812, enmarcado por las galerías cubiertas art nouveau de hierro forjado y pieza central de la declaración UNESCO. Perros con correa bienvenidos; las galerías dan una sombra preciada al mediodía. Parque en renovación por fases hasta 2026.`,
+          pt: `O parque mais antigo de Vichy, criado em 1812, emoldurado pelas galerias cobertas arte nova em ferro forjado e peça central da classificação UNESCO. Cães com trela bem-vindos; as galerias dão uma sombra preciosa ao meio-dia. Parque em renovação por fases até 2026.`,
+        },
+      },
+      {
+        name: 'Parc Napoléon III',
+        emoji: '🦆',
+        petFriendly: true,
+        desc: {
+          fr: `Un parc paysager à l'anglaise aménagé sous Napoléon III au bord du lac d'Allier, bordé de villas éclectiques du Second Empire. Chiens en laisse bienvenus ; il se raccorde directement à la boucle de promenade du lac.`,
+          en: `An English-style landscaped park laid out under Napoleon III along the Allier lakefront, lined with eclectic Second Empire villas. Leashed dogs welcome; it connects straight to the lakeside promenade loop.`,
+          es: `Un parque paisajístico al estilo inglés trazado bajo Napoleón III junto al lago del Allier, flanqueado por villas eclécticas del Segundo Imperio. Perros con correa bienvenidos; conecta directamente con la vuelta del paseo del lago.`,
+          pt: `Um parque paisagístico ao estilo inglês traçado sob Napoleão III junto ao lago do Allier, ladeado por villas ecléticas do Segundo Império. Cães com trela bem-vindos; liga-se diretamente à volta do passeio do lago.`,
+        },
+      },
+      {
+        name: 'Promenade du Lac d\'Allier',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Une boucle plate d'environ 6 km autour du lac d'Allier retenu par le barrage, passant par le Parc Napoléon III, l'esplanade du lac et le pont-barrage. La meilleure longue promenade canine de Vichy, mais les chiens sont interdits sur les plages de baignade.`,
+          en: `A roughly 6 km flat loop around the dammed Lac d'Allier, taking in Parc Napoleon III, the lakeside esplanade and the pont-barrage. The best long dog walk in Vichy, though dogs are barred from the swimming beaches.`,
+          es: `Una vuelta llana de unos 6 km alrededor del lago del Allier represado, que pasa por el Parc Napoléon III, la explanada del lago y el pont-barrage. El mejor paseo canino largo de Vichy, aunque los perros están prohibidos en las playas de baño.`,
+          pt: `Uma volta plana de cerca de 6 km em torno do lago do Allier represado, passando pelo Parc Napoléon III, a esplanada do lago e o pont-barrage. O melhor passeio canino longo de Vichy, embora os cães estejam proibidos nas praias de banho.`,
+        },
+      },
+      {
+        name: 'Source des Célestins',
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: `Un pavillon de source néoclassique sur la rive de l'Allier distribuant gratuitement l'eau minérale naturellement gazeuse la plus célèbre de Vichy. En plein air, les chiens en laisse peuvent vous accompagner ; utilisez les sources plates pour leur gamelle.`,
+          en: `A neoclassical spring pavilion on the Allier bank dispensing Vichy's most famous naturally sparkling mineral water for free. Open-air, so leashed dogs can join you; use the still springs for their bowl.`,
+          es: `Un pabellón de manantial neoclásico en la orilla del Allier que dispensa gratis el agua mineral naturalmente con gas más famosa de Vichy. Al aire libre, los perros con correa pueden acompañarte; usa las fuentes sin gas para su bebedero.`,
+          pt: `Um pavilhão de nascente neoclássico na margem do Allier que dispensa grátis a água mineral naturalmente gasosa mais famosa de Vichy. Ao ar livre, os cães com trela podem acompanhá-lo; use as nascentes sem gás para a sua tigela.`,
+        },
+      },
+      {
+        name: 'Galeries couvertes',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade couverte Art nouveau en fer forgé de 700 m créée en 1901-1902, reliant le Hall des Sources à l'opéra. Chiens en laisse bienvenus sous les galeries, précieuses pour l'ombre de midi ; les bâtiments thermaux qu'elles relient restent interdits.`,
+          en: `The 700 m wrought-iron Art Nouveau covered promenade created in 1901 to 1902, linking the Hall des Sources to the opera. Leashed dogs welcome under the galleries, prized for midday shade; the thermal buildings they connect remain off-limits.`,
+          es: `El paseo cubierto art nouveau de hierro forjado de 700 m creado en 1901-1902, que une el Hall des Sources con la ópera. Perros con correa bienvenidos bajo las galerías, valiosas por la sombra del mediodía; los edificios termales que unen siguen prohibidos.`,
+          pt: `O passeio coberto arte nova em ferro forjado de 700 m criado em 1901-1902, ligando o Hall des Sources à ópera. Cães com trela bem-vindos sob as galerias, valiosas pela sombra do meio-dia; os edifícios termais que ligam continuam interditos.`,
+        },
+      },
+      {
+        name: 'Opéra de Vichy',
+        emoji: '🚫',
+        petFriendly: false,
+        desc: {
+          fr: `Opéra et palais des congrès Art nouveau emblématique, ancien Grand Casino, dont la façade Belle Époque est un point fort du paysage UNESCO. Admirez-le depuis la rue avec votre chien ; l'intérieur n'admet pas les chiens, tout comme le spa Vichy Célestins et le Hall des Sources.`,
+          en: `A landmark Art Nouveau opera and congress palace, formerly the Grand Casino, whose Belle Epoque façade is a highlight of the UNESCO townscape. Admire it from the street with your dog; the interior does not admit dogs, nor do the Vichy Célestins spa or the Hall des Sources.`,
+          es: `Ópera y palacio de congresos art nouveau emblemático, antiguo Grand Casino, cuya fachada Belle Époque es un punto destacado del paisaje UNESCO. Admíralo desde la calle con tu perro; el interior no admite perros, tampoco el spa Vichy Célestins ni el Hall des Sources.`,
+          pt: `Ópera e palácio de congressos arte nova emblemático, antigo Grand Casino, cuja fachada Belle Époque é um ponto alto da paisagem UNESCO. Admire-o da rua com o seu cão; o interior não admite cães, tal como o spa Vichy Célestins e o Hall des Sources.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La laisse est obligatoire sur tout le domaine public (arrêté municipal de 1980) et il faut ramasser les déjections dans toute la commune ; le sans-laisse n'est autorisé que dans les espaces de liberté signalés.`,
+        `Les chiens ne sont pas admis à l'intérieur du spa Vichy Célestins, de l'Opéra de Vichy ni du Hall des Sources ; organisez la journée autour des parcs et des terrasses.`,
+        `Il n'y a pas de plage pour chiens : les chiens sont exclus des plages du lac et la baignade dans le lac n'est autorisée pour personne ; rabattez-vous sur la promenade du lac.`,
+        `Pics estivaux proches de 26 C et esplanades réfléchissantes : promenez tôt ou tard et utilisez les galeries couvertes pour l'ombre de midi.`,
+        `Remplissez la gamelle aux pavillons de sources plates ; l'eau des Célestins, gazeuse et très minéralisée, ne convient pas aux chiens.`,
+      ],
+      en: [
+        `A leash is mandatory on all public land (1980 municipal order) and you must pick up droppings across the commune; off-leash is only allowed in signposted espaces de liberté.`,
+        `Dogs are not admitted inside the Vichy Célestins spa, the Opéra de Vichy or the Hall des Sources; plan the day around the parks and terraces.`,
+        `There is no dog beach: dogs are excluded from the lake beaches and lake swimming is not authorised for anyone; fall back on the lakeside promenade.`,
+        `Summer highs near 26 C plus reflective esplanades: walk early or late and use the covered galleries for midday shade.`,
+        `Refill the bowl at the still spring pavilions; the sparkling, mineral-heavy Célestins water is not suited to dogs.`,
+      ],
+      es: [
+        `La correa es obligatoria en todo el dominio público (orden municipal de 1980) y hay que recoger las deposiciones en todo el municipio; sin correa solo se permite en los espaces de liberté señalizados.`,
+        `Los perros no se admiten dentro del spa Vichy Célestins, la Opéra de Vichy ni el Hall des Sources; organiza el día en torno a los parques y las terrazas.`,
+        `No hay playa para perros: los perros están excluidos de las playas del lago y el baño en el lago no está autorizado para nadie; recurre al paseo del lago.`,
+        `Picos estivales cerca de 26 C y explanadas reflectantes: pasea temprano o tarde y usa las galerías cubiertas para la sombra del mediodía.`,
+        `Rellena el bebedero en los pabellones de fuentes sin gas; el agua de Célestins, con gas y muy mineralizada, no conviene a los perros.`,
+      ],
+      pt: [
+        `A trela é obrigatória em todo o domínio público (ordem municipal de 1980) e é preciso recolher os dejetos em todo o concelho; sem trela só é permitido nos espaces de liberté sinalizados.`,
+        `Os cães não são admitidos dentro do spa Vichy Célestins, da Opéra de Vichy nem do Hall des Sources; organize o dia em torno dos parques e das esplanadas.`,
+        `Não há praia para cães: os cães estão excluídos das praias do lago e o banho no lago não é autorizado para ninguém; recorra ao passeio do lago.`,
+        `Picos estivais perto de 26 C e esplanadas refletoras: passeie cedo ou tarde e use as galerias cobertas para a sombra do meio-dia.`,
+        `Reabasteça a tigela nos pavilhões de nascentes sem gás; a água de Célestins, gasosa e muito mineralizada, não convém aos cães.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire central : Clinique Vétérinaire de Vichy, 61 Rue Jean Jaurès, +33 4 43 50 06 44, urgences 7j/7 24h/24.`,
+        `Urgences 24h : Clinique Vétérinaire Excelsia, 110 lotissement les Guinames, Bellerive-sur-Allier, +33 4 70 32 19 73 (ligne d'urgence +33 6 72 89 62 03) ; numéro national gratuit 3115.`,
+        `Train : Gare de Vichy sur la ligne Paris - Clermont-Ferrand ; petits chiens en sac, grands chiens muselés et en laisse. Intercités : forfait 10 € par animal.`,
+        `Les chiens sont interdits dans le spa Vichy Célestins, l'Opéra de Vichy et le Hall des Sources, ainsi que sur les plages du lac.`,
+        `Pas de pension pour chiens dans Vichy même : réservez une pension à la campagne voisine ou un sitter via Rover, Animaute ou Holidog, surtout en juillet-août.`,
+      ],
+      en: [
+        `Central vet: Clinique Vétérinaire de Vichy, 61 Rue Jean Jaurès, +33 4 43 50 06 44, emergencies 7 days a week 24h.`,
+        `24h emergency: Clinique Vétérinaire Excelsia, 110 lotissement les Guinames, Bellerive-sur-Allier, +33 4 70 32 19 73 (emergency line +33 6 72 89 62 03); free national line 3115.`,
+        `Train: Gare de Vichy on the Paris - Clermont-Ferrand line; small dogs in a bag, larger dogs muzzled and leashed. Intercites: flat €10 per animal.`,
+        `Dogs are barred from the Vichy Célestins spa, the Opéra de Vichy and the Hall des Sources, as well as from the lake beaches.`,
+        `No boarding kennel inside Vichy itself: book a countryside pension nearby or a sitter via Rover, Animaute or Holidog, especially in July and August.`,
+      ],
+      es: [
+        `Veterinario central: Clinique Vétérinaire de Vichy, 61 Rue Jean Jaurès, +33 4 43 50 06 44, urgencias 7 días 24h.`,
+        `Urgencia 24h: Clinique Vétérinaire Excelsia, 110 lotissement les Guinames, Bellerive-sur-Allier, +33 4 70 32 19 73 (línea de urgencia +33 6 72 89 62 03); línea nacional gratuita 3115.`,
+        `Tren: Gare de Vichy en la línea París - Clermont-Ferrand; perros pequeños en bolsa, grandes con bozal y correa. Intercités: tarifa plana de 10 € por animal.`,
+        `Los perros están prohibidos en el spa Vichy Célestins, la Opéra de Vichy y el Hall des Sources, así como en las playas del lago.`,
+        `Sin residencia canina dentro de Vichy: reserva una residencia en el campo cercano o un cuidador vía Rover, Animaute o Holidog, sobre todo en julio y agosto.`,
+      ],
+      pt: [
+        `Veterinário central: Clinique Vétérinaire de Vichy, 61 Rue Jean Jaurès, +33 4 43 50 06 44, urgências 7 dias 24h.`,
+        `Urgência 24h: Clinique Vétérinaire Excelsia, 110 lotissement les Guinames, Bellerive-sur-Allier, +33 4 70 32 19 73 (linha de urgência +33 6 72 89 62 03); linha nacional gratuita 3115.`,
+        `Comboio: Gare de Vichy na linha Paris - Clermont-Ferrand; cães pequenos em saco, grandes com açaime e trela. Intercités: tarifa fixa de 10 € por animal.`,
+        `Os cães estão proibidos no spa Vichy Célestins, na Opéra de Vichy e no Hall des Sources, bem como nas praias do lago.`,
+        `Sem canil dentro de Vichy: reserve uma pensão no campo próximo ou um sitter via Rover, Animaute ou Holidog, sobretudo em julho e agosto.`,
+      ],
+    },
+  },
+
   vigo: {
     history: {
       fr: `Vigo est un port atlantique galicien, le plus grand de Galice avec environ 290 000 habitants, bâti sur les pentes raides qui descendent à la Ría de Vigo, l'un des estuaires en forme de fjord les plus profonds d'Europe. Son histoire mêle pêche, conserve de sardines (les fabriques Massó, Albo) et industrie navale (l'usine Vulcano fondée en 1907), avec une identité résolument ouvrière qui se traduit jusque dans la culture canine : pragmatique, sans fioriture, structurée autour de 18 'áreas caninas' clôturées dans les quartiers résidentiels plutôt qu'autour du tourisme de centre-ville. Vigo est aussi le port d'embarquement des îles Cíes, sanctuaire naturel atlantique où les chiens sont strictement interdits toute l'année.`,

@@ -1612,6 +1612,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Giardino Giusti, the Adige riverbanks, and dog-friendly terraces near the Arena',
       area: 'Veronetta, the Centro Storico, and the Piazza delle Erbe quarter',
     },
+    vichy: {
+      personality: `France's Queen of spa towns, a UNESCO Great Spa of Europe on the Allier where leashed dogs stroll the Belle Epoque promenades and lakeside parks while the thermal interiors stay off-limits`,
+      highlight: `the Art Nouveau covered galleries of the Parc des Sources, the English-style Parc Napoleon III, and the 6 km lakeside loop around the Lac d'Allier`,
+      area: `the thermal quarter around the Parc des Sources, the Allier lakefront, and the neighbouring towns of Bellerive-sur-Allier and Cusset`,
+    },
     vienna: {
       personality: 'a city that takes dog ownership seriously. Dogs ride the U-Bahn, enter museums, and are catered for in hundreds of Viennese cafés',
       highlight: 'the Prater park, Donauinsel island, and the Lainzer Tiergarten',
@@ -3408,6 +3413,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une ville romantique classée à l\'UNESCO où les chiens accompagnent leurs maîtres sur les terrasses des bars à vins, dans les jardins Renaissance et le long des berges pittoresques de l\'Adige',
       highlight: 'le Giardino Giusti, les berges de l\'Adige et les terrasses dog-friendly près de l\'Arena',
       area: 'Veronetta, le Centre historique et le quartier de la Piazza delle Erbe',
+    },
+    vichy: {
+      personality: `la Reine des villes d'eaux françaises, Grande Ville d'eaux d'Europe classée UNESCO sur l'Allier où les chiens en laisse arpentent les promenades Belle Époque et les parcs du lac tandis que les intérieurs thermaux restent interdits`,
+      highlight: `les galeries couvertes Art nouveau du Parc des Sources, le Parc Napoléon III à l'anglaise et la boucle de 6 km au bord du lac d'Allier`,
+      area: `le quartier thermal autour du Parc des Sources, le bord du lac d'Allier et les communes voisines de Bellerive-sur-Allier et Cusset`,
     },
     vienna: {
       personality: 'une ville qui prend la possession d\'animaux très au sérieux. Les chiens prennent le U-Bahn, entrent dans les musées et sont accueillis dans des centaines de cafés viennois',
@@ -5206,6 +5216,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Giardino Giusti, las orillas del Adige y las terrazas dog-friendly cerca del Arena',
       area: 'Veronetta, el Centro Histórico y el barrio de la Piazza delle Erbe',
     },
+    vichy: {
+      personality: `la Reina de las ciudades balneario de Francia, Gran Ciudad Balneario de Europa declarada UNESCO junto al Allier donde los perros con correa recorren los paseos Belle Époque y los parques del lago mientras los interiores termales quedan prohibidos`,
+      highlight: `las galerías cubiertas art nouveau del Parc des Sources, el Parc Napoléon III al estilo inglés y la vuelta de 6 km junto al lago del Allier`,
+      area: `el barrio termal en torno al Parc des Sources, la orilla del lago del Allier y las localidades vecinas de Bellerive-sur-Allier y Cusset`,
+    },
     vienna: {
       personality: 'una ciudad que se toma en serio la tenencia de mascotas. Los perros viajan en el U-Bahn, entran en museos y son atendidos en cientos de cafés vieneses',
       highlight: 'el parque del Prater, la isla del Danubio y el Lainzer Tiergarten',
@@ -7002,6 +7017,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade romántica declarada Patrimonio da Humanidad pela UNESCO onde os cães acompanhan aos seus duenhos nas esplanadas dos bares de vinos, nos jardins renacentistas e a lo largo das pintorescas margens do Adige',
       highlight: 'o Giardino Giusti, as margens do Adige e as esplanadas pet-friendly perto do Areia',
       area: 'Veronetta, o Centro Histórico e o bairro da Piazza delle Erbe',
+    },
+    vichy: {
+      personality: `a Rainha das cidades termais de França, Grande Cidade Termal da Europa classificada pela UNESCO junto ao Allier onde os cães com trela percorrem os passeios Belle Époque e os parques do lago enquanto os interiores termais ficam interditos`,
+      highlight: `as galerias cobertas arte nova do Parc des Sources, o Parc Napoléon III ao estilo inglês e a volta de 6 km junto ao lago do Allier`,
+      area: `o bairro termal em torno do Parc des Sources, a margem do lago do Allier e as localidades vizinhas de Bellerive-sur-Allier e Cusset`,
     },
     vienna: {
       personality: 'uma cidade que se toma en serio a tenencia de animais. Os cães viajan no U-Bahn, entran en museus e são atendidos en cientos de cafés vieneses',

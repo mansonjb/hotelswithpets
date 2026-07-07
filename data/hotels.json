@@ -40946,6 +40946,217 @@
     "petPolicyPt": "Cães de qualquer tamanho ficam grátis (um por quarto); gatos a pedido. B&B boutique central perto da Piazza Tasso com vista de mar. Avise a propriedade na reserva."
   },
   {
+    "id": "spa-1",
+    "name": "Les Bains de Spa",
+    "destinationSlug": "spa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 922,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/les-bains-de-spa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pet-friendly 5-star hotel in the heart of Spa on Place Royale, with indoor pool and wellness. Dogs accepted; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "address": "Place Royale 2, 4900 Spa",
+    "neighborhood": "Town centre",
+    "slug": "les-bains-de-spa"
+  },
+  {
+    "id": "spa-2",
+    "name": "Villa les érables Restaurant Linea",
+    "destinationSlug": "spa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 203,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/villa-les-erables.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pet-friendly hotel and restaurant on Avenue des Lanciers in Spa. Dogs accepted; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Good free WiFi (31 Mbps)",
+      "2 restaurants"
+    ],
+    "address": "Avenue des Lanciers, 4900 Spa",
+    "neighborhood": "Spa",
+    "slug": "villa-les-rables-restaurant-linea"
+  },
+  {
+    "id": "spa-3",
+    "name": "Room De LUX SPA \" TABARKA \"",
+    "destinationSlug": "spa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 153,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/room-in-spa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Central guest room on Rue Xhrouet in Spa, highly rated by guests. Pets accepted; please confirm conditions with the host when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms",
+      "Room service"
+    ],
+    "address": "Rue Xhrouet 7, 4900 Spa",
+    "neighborhood": "Town centre",
+    "slug": "room-de-lux-spa-tabarka"
+  },
+  {
+    "id": "spa-4",
+    "name": "Room LUX SPA \" TABARKA \"",
+    "destinationSlug": "spa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 177,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/room-lux-in-spa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Central guest room on Rue Xhrouet in Spa, highly rated by guests. Pets accepted; please confirm conditions with the host when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms",
+      "Airport shuttle"
+    ],
+    "address": "Rue Xhrouet 7, 4900 Spa",
+    "neighborhood": "Town centre",
+    "slug": "room-lux-spa-tabarka"
+  },
+  {
+    "id": "spa-5",
+    "name": "Manoir de Lébioles",
+    "destinationSlug": "spa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 325,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/manoir-de-lebioles.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Historic manor-house hotel in the wooded Domaine de Lébioles just outside Spa. Dogs accepted; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Free parking"
+    ],
+    "address": "Domaine de Lébioles 1/5, 4900 Spa",
+    "neighborhood": "Lébioles",
+    "slug": "manoir-de-l-bioles"
+  },
+  {
+    "id": "spa-6",
+    "name": "Room Of LUX SPA \" TABARKA \"",
+    "destinationSlug": "spa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 135,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/room-in-spa-spa1.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Central guest room on Rue Xhrouet in Spa, highly rated by guests. Pets accepted; please confirm conditions with the host when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms",
+      "Airport shuttle"
+    ],
+    "address": "Rue Xhrouet 7, 4900 Spa",
+    "neighborhood": "Town centre",
+    "slug": "room-of-lux-spa-tabarka"
+  },
+  {
+    "id": "spa-7",
+    "name": "Lovely Home In Spa With Sauna",
+    "destinationSlug": "spa",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "dogs-stay-free",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/lovely-home-in-spa-with-sauna.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Self-catering home in Spa with sauna, well placed for forest walks. Pets accepted; please confirm conditions with the host when booking.",
+    "highlights": [
+      "Spa & wellness centre",
+      "Free parking",
+      "Free WiFi"
+    ],
+    "address": "Spa, 4900 Spa",
+    "neighborhood": "Spa",
+    "slug": "lovely-home-in-spa-with-sauna"
+  },
+  {
+    "id": "spa-8",
+    "name": "La Villa des Fleurs",
+    "destinationSlug": "spa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 699,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/villadesfleurs.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Guesthouse on Rue Albin Body in central Spa, highly rated by guests. Dogs accepted; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "address": "Rue Albin Body 31, 4900 Spa",
+    "neighborhood": "Town centre",
+    "slug": "la-villa-des-fleurs"
+  },
+  {
     "id": "split-1",
     "name": "Hotel Marjan Split",
     "destinationSlug": "split",
@@ -46547,6 +46758,199 @@
     "petPolicyPt": "Animais bem-vindos por 20 EUR por estadia. Quiet suites ideal para animais; tigela fornecida mediante pedido."
   },
   {
+    "id": "vichy-1",
+    "name": "Célestins Spa Thermal & Hôtel by Vy Resort",
+    "destinationSlug": "vichy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 2188,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/vichy-spa-resort-les-celestins.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "111 Boulevard Des Etats-Unis, 03200 Vichy, FranceExcellent location — rated 9.5/10!(score from 2162 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Indoor swimming pool",
+      "Parking",
+      "Spa & wellness centre"
+    ],
+    "slug": "celestins-spa-thermal-hotel-by-vy-resort"
+  },
+  {
+    "id": "vichy-2",
+    "name": "Appartement Vichyssoise Edwige",
+    "destinationSlug": "vichy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.7,
+    "reviewCount": 30,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/apartment-vichyssoise-edwige-vichy.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "25 Avenue Walter Stucki, 03200 Vichy, FranceExcellent location — rated 9.8/10!(score from 30 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "appartement-vichyssoise-edwige"
+  },
+  {
+    "id": "vichy-3",
+    "name": "VENI VEDI VICHY climatisé, 50m2 coeur de ville",
+    "destinationSlug": "vichy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 11,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/veni-vedi-vichy-appartement-climatise-coeur-de-ville.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "19 Rue Nicolas Larbaud, 03200 Vichy, FranceExcellent location — rated 10/10!(score from 11 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "veni-vedi-vichy-climatise-50m2-coeur-de-ville"
+  },
+  {
+    "id": "vichy-4",
+    "name": "Brit Hotel de Grignan Vichy",
+    "destinationSlug": "vichy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 2623,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/hoteldegrignan.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "7 Place Sévigné, 03201 Vichy, FranceExcellent location — rated 9.4/10!(score from 2593 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Private parking",
+      "Spa & wellness centre",
+      "Fitness centre"
+    ],
+    "slug": "brit-hotel-de-grignan-vichy"
+  },
+  {
+    "id": "vichy-5",
+    "name": "Chambres de charme avec piscine - Le Monde de Charlie - Proche Vichy",
+    "destinationSlug": "vichy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 160,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-monde-de-charlie.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "106 Avenue de Vichy, 03700 Vichy, FranceExcellent location — rated 9.1/10!(score from 157 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "chambres-de-charme-avec-piscine-le-monde-de-charlie-proche-vichy"
+  },
+  {
+    "id": "vichy-6",
+    "name": "Le Sévigné - Magnifique appartement 3 chambres en centre ville",
+    "destinationSlug": "vichy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.7,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-sevigne-magnifique-appartement-3-chambres-en-centre-ville.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "10 Place Sévigné, 03200 Vichy, FranceExcellent location — rated 9.7/10!(score from 8 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "le-sevigne-magnifique-appartement-3-chambres-en-centre-ville"
+  },
+  {
+    "id": "vichy-7",
+    "name": "Grande Maison Vichy - Maison ou Appartements en Centre ville",
+    "destinationSlug": "vichy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 155,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/unique-grande-maison-design-centre-terrasse.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "18 Rue Ravy Breton, 03200 Vichy, FranceExcellent location — rated 9.7/10!(score from 154 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "grande-maison-vichy-maison-ou-appartements-en-centre-ville"
+  },
+  {
+    "id": "vichy-8",
+    "name": "AppartUnique - Chez Klein - Balcon, Lumineux & Spacieux",
+    "destinationSlug": "vichy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 78,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/appartunique-chez-klein.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "63 Boulevard Carnot, 03200 Vichy, FranceExcellent location — rated 9.7/10!(score from 78 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
+    ],
+    "slug": "appartunique-chez-klein-balcon-lumineux-spacieux"
+  },
+  {
     "id": "vienna-1",
     "name": "The Ritz-Carlton, Vienna",
     "destinationSlug": "vienna",
@@ -51400,198 +51804,5 @@
       "Skiing"
     ],
     "slug": "zimmervermietung-babsy"
-  },
-  {
-    "id": "vichy-1",
-    "name": "Célestins Spa Thermal & Hôtel by Vy Resort",
-    "destinationSlug": "vichy",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.6,
-    "reviewCount": 2188,
-    "priceFrom": 120,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/fr/vichy-spa-resort-les-celestins.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "111 Boulevard Des Etats-Unis, 03200 Vichy, FranceExcellent location — rated 9.5/10!(score from 2162 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Indoor swimming pool",
-      "Parking",
-      "Spa & wellness centre"
-    ],
-    "slug": "celestins-spa-thermal-hotel-by-vy-resort"
-  },
-  {
-    "id": "vichy-2",
-    "name": "Appartement Vichyssoise Edwige",
-    "destinationSlug": "vichy",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.7,
-    "reviewCount": 30,
-    "priceFrom": 120,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/fr/apartment-vichyssoise-edwige-vichy.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "25 Avenue Walter Stucki, 03200 Vichy, FranceExcellent location — rated 9.8/10!(score from 30 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Free parking",
-      "Free WiFi",
-      "Non-smoking rooms"
-    ],
-    "slug": "appartement-vichyssoise-edwige"
-  },
-  {
-    "id": "vichy-3",
-    "name": "VENI VEDI VICHY climatisé, 50m2 coeur de ville",
-    "destinationSlug": "vichy",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.5,
-    "reviewCount": 11,
-    "priceFrom": 120,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/fr/veni-vedi-vichy-appartement-climatise-coeur-de-ville.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "19 Rue Nicolas Larbaud, 03200 Vichy, FranceExcellent location — rated 10/10!(score from 11 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Free WiFi",
-      "Non-smoking rooms"
-    ],
-    "slug": "veni-vedi-vichy-climatise-50m2-coeur-de-ville"
-  },
-  {
-    "id": "vichy-4",
-    "name": "Brit Hotel de Grignan Vichy",
-    "destinationSlug": "vichy",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.6,
-    "reviewCount": 2623,
-    "priceFrom": 120,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/fr/hoteldegrignan.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "7 Place Sévigné, 03201 Vichy, FranceExcellent location — rated 9.4/10!(score from 2593 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Private parking",
-      "Spa & wellness centre",
-      "Fitness centre"
-    ],
-    "slug": "brit-hotel-de-grignan-vichy"
-  },
-  {
-    "id": "vichy-5",
-    "name": "Chambres de charme avec piscine - Le Monde de Charlie - Proche Vichy",
-    "destinationSlug": "vichy",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks"
-    ],
-    "stars": 4,
-    "rating": 9.1,
-    "reviewCount": 160,
-    "priceFrom": 120,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/fr/le-monde-de-charlie.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "106 Avenue de Vichy, 03700 Vichy, FranceExcellent location — rated 9.1/10!(score from 157 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Outdoor swimming pool",
-      "Free parking",
-      "Free WiFi"
-    ],
-    "slug": "chambres-de-charme-avec-piscine-le-monde-de-charlie-proche-vichy"
-  },
-  {
-    "id": "vichy-6",
-    "name": "Le Sévigné - Magnifique appartement 3 chambres en centre ville",
-    "destinationSlug": "vichy",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks"
-    ],
-    "stars": 4,
-    "rating": 9.7,
-    "reviewCount": 500,
-    "priceFrom": 120,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/fr/le-sevigne-magnifique-appartement-3-chambres-en-centre-ville.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "10 Place Sévigné, 03200 Vichy, FranceExcellent location — rated 9.7/10!(score from 8 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Free parking",
-      "Free WiFi",
-      "Non-smoking rooms"
-    ],
-    "slug": "le-sevigne-magnifique-appartement-3-chambres-en-centre-ville"
-  },
-  {
-    "id": "vichy-7",
-    "name": "Grande Maison Vichy - Maison ou Appartements en Centre ville",
-    "destinationSlug": "vichy",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks"
-    ],
-    "stars": 4,
-    "rating": 8.7,
-    "reviewCount": 155,
-    "priceFrom": 120,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/fr/unique-grande-maison-design-centre-terrasse.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "18 Rue Ravy Breton, 03200 Vichy, FranceExcellent location — rated 9.7/10!(score from 154 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Parking",
-      "Free WiFi",
-      "Family rooms"
-    ],
-    "slug": "grande-maison-vichy-maison-ou-appartements-en-centre-ville"
-  },
-  {
-    "id": "vichy-8",
-    "name": "AppartUnique - Chez Klein - Balcon, Lumineux & Spacieux",
-    "destinationSlug": "vichy",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly"
-    ],
-    "stars": 4,
-    "rating": 9.1,
-    "reviewCount": 78,
-    "priceFrom": 120,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/fr/appartunique-chez-klein.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "63 Boulevard Carnot, 03200 Vichy, FranceExcellent location — rated 9.7/10!(score from 78 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Free WiFi",
-      "Family rooms",
-      "Non-smoking rooms"
-    ],
-    "slug": "appartunique-chez-klein-balcon-lumineux-spacieux"
   }
 ]

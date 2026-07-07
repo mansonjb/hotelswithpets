@@ -1822,6 +1822,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Valbona to Theth pass trail, the white-stone bed of the Valbona river, and the meadows of Rragam`,
       area: `Valbona village, Rragam, and the upper valley towards the pass`,
     },
+    spa: {
+      personality: `the small Ardennes spa town that gave the English language the word "spa", a UNESCO Great Spas of Europe member ringed by forest trails`,
+      highlight: `the Lac de Warfaaz lakeside loop, the covered galleries of the Parc de Sept Heures, and the vast Hautes Fagnes moorland trails`,
+      area: `the compact thermal centre around the Pouhon Pierre-le-Grand, the Warfaaz lake, and the Hautes Fagnes reserve above town`,
+    },
   },
   fr: {
     gijon: {
@@ -3623,6 +3628,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `un village de vallée isolé au cœur des Alpes albanaises, point de départ de certaines des plus belles randonnées des Balkans`,
       highlight: `le sentier du col de Valbona à Theth, le lit de galets blancs de la rivière Valbona et les prairies de Rragam`,
       area: `le village de Valbona, Rragam et le haut de la vallée vers le col`,
+    },
+    spa: {
+      personality: `la petite ville thermale des Ardennes qui a donné au monde le mot « spa », membre du patrimoine UNESCO Great Spas of Europe, cernée de sentiers forestiers`,
+      highlight: `la boucle du Lac de Warfaaz, les galeries couvertes du Parc de Sept Heures et les vastes fagnes des Hautes Fagnes`,
+      area: `le centre thermal compact autour du Pouhon Pierre-le-Grand, le lac de Warfaaz et la réserve des Hautes Fagnes au-dessus de la ville`,
     },
   },
   es: {
@@ -5426,6 +5436,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el sendero del paso de Valbona a Theth, el lecho de piedras blancas del río Valbona y los prados de Rragam`,
       area: `el pueblo de Valbona, Rragam y la parte alta del valle hacia el paso`,
     },
+    spa: {
+      personality: `la pequeña ciudad termal de las Ardenas que dio al mundo la palabra «spa», miembro del patrimonio UNESCO Great Spas of Europe, rodeada de senderos forestales`,
+      highlight: `el circuito junto al Lac de Warfaaz, las galerías cubiertas del Parc de Sept Heures y las vastas turberas de las Hautes Fagnes`,
+      area: `el compacto centro termal en torno al Pouhon Pierre-le-Grand, el lago de Warfaaz y la reserva de las Hautes Fagnes sobre la ciudad`,
+    },
   },
   pt: {
     gijon: {
@@ -7227,6 +7242,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma remota aldeia de vale no coração dos Alpes albaneses, ponto de partida de algumas das melhores caminhadas de montanha dos Balcãs`,
       highlight: `o trilho do passo de Valbona a Theth, o leito de pedras brancas do rio Valbona e os prados de Rragam`,
       area: `a aldeia de Valbona, Rragam e o alto do vale em direção ao passo`,
+    },
+    spa: {
+      personality: `a pequena vila termal das Ardenas que deu ao mundo a palavra «spa», membro do património UNESCO Great Spas of Europe, rodeada de trilhos florestais`,
+      highlight: `o circuito junto ao Lac de Warfaaz, as galerias cobertas do Parc de Sept Heures e as vastas turfeiras das Hautes Fagnes`,
+      area: `o compacto centro termal em torno do Pouhon Pierre-le-Grand, o lago de Warfaaz e a reserva das Hautes Fagnes acima da vila`,
     },
   },
 }

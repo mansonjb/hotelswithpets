@@ -28767,6 +28767,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  spa: {
+    history: {
+      fr: `Spa a donné son nom au monde entier : c'est de cette petite ville des Ardennes belges, dans la province de Liège, que vient le mot « spa ». Ses sources minérales, les « pouhons », attirent curistes et têtes couronnées depuis le XVIe siècle, et Pierre le Grand y prit les eaux au pouhon qui porte désormais son nom. Surnommée le « Café de l'Europe » au XVIIIe siècle, Spa devint un modèle pour toutes les villes d'eaux, jusqu'à son inscription en 2021 au patrimoine mondial de l'UNESCO parmi les Villes thermales majeures d'Europe. Aujourd'hui, environ 10 000 habitants vivent au creux d'une vallée boisée, entre les galeries couvertes du Parc de Sept Heures, le lac de Warfaaz et le vaste plateau des Hautes Fagnes. Pour un chien, c'est une destination facile et verte : forêts, sentiers de landes et lac se parcourent en laisse à quelques minutes du centre, même si les Thermes eux-mêmes restent interdits aux animaux.`,
+      en: `Spa gave the world its name: the very word spa comes from this small town in the Belgian Ardennes, in the province of Liège. Its mineral springs, the pouhons, have drawn cure-takers and crowned heads since the 16th century, and Peter the Great took the waters at the pouhon that now bears his name. Nicknamed the Cafe of Europe in the 18th century, Spa became the model for every watering-place, culminating in its 2021 UNESCO World Heritage listing among the Great Spa Towns of Europe. Today around 10,000 people live in a wooded valley, between the covered galleries of the Parc de Sept Heures, the Lac de Warfaaz and the vast Hautes Fagnes plateau. For a dog it is an easy, green destination: forests, moorland trails and a lake are all walkable on a leash minutes from the centre, even if the Thermes themselves stay off-limits to animals.`,
+      es: `Spa dio su nombre al mundo entero: la propia palabra spa procede de este pequeño pueblo de las Ardenas belgas, en la provincia de Lieja. Sus manantiales minerales, los pouhons, atraen a curistas y testas coronadas desde el siglo XVI, y Pedro el Grande tomó las aguas en el pouhon que hoy lleva su nombre. Apodada el Café de Europa en el siglo XVIII, Spa se convirtió en el modelo de toda ciudad balneario, hasta su inscripción en 2021 en el Patrimonio Mundial de la UNESCO entre las Grandes Ciudades Balneario de Europa. Hoy unas 10 000 personas viven en un valle boscoso, entre las galerías cubiertas del Parc de Sept Heures, el lago de Warfaaz y la vasta meseta de las Hautes Fagnes. Para un perro es un destino fácil y verde: bosques, senderos de brezal y un lago se recorren con correa a pocos minutos del centro, aunque las propias Termas siguen vetadas a los animales.`,
+      pt: `Spa deu o seu nome ao mundo inteiro: a própria palavra spa vem desta pequena vila das Ardenas belgas, na província de Liège. As suas fontes minerais, os pouhons, atraem curistas e testas coroadas desde o século XVI, e Pedro, o Grande, tomou as águas no pouhon que hoje tem o seu nome. Apelidada de Café da Europa no século XVIII, Spa tornou-se o modelo de toda a cidade termal, culminando na sua inscrição em 2021 no Património Mundial da UNESCO entre as Grandes Cidades Termais da Europa. Hoje cerca de 10 000 pessoas vivem num vale arborizado, entre as galerias cobertas do Parc de Sept Heures, o lago de Warfaaz e o vasto planalto das Hautes Fagnes. Para um cão é um destino fácil e verde: florestas, trilhos de charneca e um lago percorrem-se à trela a poucos minutos do centro, ainda que as próprias Termas continuem vedadas aos animais.`,
+    },
+    sights: [
+      {
+        name: `Lac de Warfaaz`,
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Un lac de barrage de 1890 aux portes de Spa, ceinturé d'un chemin revêtu d'environ 600 mètres. C'est la balade canine de référence : plat, facile, avec des points où le chien en laisse peut boire et des terrasses de café au bord de l'eau.`,
+          en: `An 1890 dammed lake at the gates of Spa, ringed by a surfaced path about 600 metres long. It is the go-to dog walk: flat, easy, with points where a leashed dog can drink and lakeside cafe terraces to pause.`,
+          es: `Un lago de presa de 1890 a las puertas de Spa, rodeado por un camino pavimentado de unos 600 metros. Es el paseo canino de referencia: llano, fácil, con puntos donde el perro con correa puede beber y terrazas de café junto al agua.`,
+          pt: `Um lago de barragem de 1890 às portas de Spa, rodeado por um caminho pavimentado de cerca de 600 metros. É o passeio canino de referência: plano, fácil, com pontos onde o cão à trela pode beber e esplanadas de café à beira de água.`,
+        },
+      },
+      {
+        name: `Parc de Sept Heures`,
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc du centre-ville, célèbre pour ses longues galeries couvertes du XIXe siècle. Plat et abrité, c'est le lieu idéal pour promener un chien en laisse au sec un jour de pluie ardennais, pelouses et grands arbres compris.`,
+          en: `The town-centre park, famous for its long 19th-century covered galleries. Flat and sheltered, it is the ideal place to walk a leashed dog and stay dry on a wet Ardennes day, lawns and mature trees included.`,
+          es: `El parque del centro, famoso por sus largas galerías cubiertas del siglo XIX. Llano y resguardado, es el lugar ideal para pasear a un perro con correa sin mojarse un día lluvioso de las Ardenas, con céspedes y árboles maduros.`,
+          pt: `O parque do centro, famoso pelas suas longas galerias cobertas do século XIX. Plano e abrigado, é o lugar ideal para passear um cão à trela a seco num dia de chuva das Ardenas, com relvados e árvores maduras.`,
+        },
+      },
+      {
+        name: `Hautes Fagnes`,
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `La plus grande réserve naturelle de Belgique, un plateau de tourbières, bruyères et passerelles couronné par le Signal de Botrange (694 m). Les chiens y sont admis en laisse, mais totalement interdits dans les zones centrales protégées, signalées.`,
+          en: `Belgium's largest nature reserve, a plateau of peat bog, heather and boardwalks crowned by the Signal de Botrange (694 m). Dogs are welcome on a leash, but banned outright from the signposted core zones.`,
+          es: `La mayor reserva natural de Bélgica, una meseta de turberas, brezos y pasarelas coronada por el Signal de Botrange (694 m). Los perros se admiten con correa, pero están totalmente prohibidos en las zonas centrales protegidas, señalizadas.`,
+          pt: `A maior reserva natural da Bélgica, um planalto de turfeiras, urzes e passadiços coroado pelo Signal de Botrange (694 m). Os cães são admitidos à trela, mas totalmente proibidos nas zonas centrais protegidas, sinalizadas.`,
+        },
+      },
+      {
+        name: `Pouhon Pierre-le-Grand`,
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: `La source minérale la plus célèbre de Spa, sous un pavillon de 1880 qui abrite aussi l'office du tourisme. Nommée d'après le tsar Pierre le Grand, elle est au cœur du patrimoine UNESCO ; un chien calme en laisse peut y entrer à la discrétion du personnel.`,
+          en: `Spa's most famous mineral spring, under an 1880 pavilion that also houses the tourist office. Named for Tsar Peter the Great, it is central to the UNESCO heritage; a calm leashed dog may enter at staff discretion.`,
+          es: `El manantial mineral más famoso de Spa, bajo un pabellón de 1880 que alberga también la oficina de turismo. Llamado así por el zar Pedro el Grande, es clave del patrimonio UNESCO; un perro tranquilo con correa puede entrar a criterio del personal.`,
+          pt: `A fonte mineral mais famosa de Spa, sob um pavilhão de 1880 que acolhe também o posto de turismo. Com o nome do czar Pedro, o Grande, é central no património UNESCO; um cão calmo à trela pode entrar ao critério do pessoal.`,
+        },
+      },
+      {
+        name: `Les Thermes de Spa`,
+        emoji: '♨️',
+        petFriendly: false,
+        desc: {
+          fr: `Les bains modernes emblématiques, sur la colline au-dessus du centre, accessibles par un funiculaire panoramique. Héritiers de la tradition des eaux, ils n'admettent pas les chiens : prévoyez qu'une personne garde le chien pendant la visite.`,
+          en: `The emblematic modern baths on the hillside above the centre, reached by a panoramic funicular. Heir to the mineral-water tradition, they do not admit dogs, so plan for one person to mind the dog during the visit.`,
+          es: `Los baños modernos emblemáticos, en la colina sobre el centro, a los que se llega por un funicular panorámico. Herederos de la tradición de aguas, no admiten perros: prevé que una persona cuide del perro durante la visita.`,
+          pt: `Os banhos modernos emblemáticos, na colina acima do centro, alcançados por um funicular panorâmico. Herdeiros da tradição das águas, não admitem cães: preveja que uma pessoa cuide do cão durante a visita.`,
+        },
+      },
+      {
+        name: `Circuit de Spa-Francorchamps`,
+        emoji: '🏁',
+        petFriendly: false,
+        desc: {
+          fr: `Le légendaire circuit de Formule 1, à quelques kilomètres de la ville, prisé en excursion. Il est hors de Spa et l'accès avec un chien est restreint les jours de course : à envisager surtout comme repère et sortie en voiture.`,
+          en: `The legendary Formula 1 circuit a few kilometres from town, popular as a day-trip. It is outside Spa and dog access is restricted on race days, so treat it mainly as a landmark and a drive-out outing.`,
+          es: `El legendario circuito de Fórmula 1, a pocos kilómetros del pueblo, popular como excursión. Queda fuera de Spa y el acceso con perro está restringido en días de carrera: tómalo sobre todo como referencia y salida en coche.`,
+          pt: `O lendário circuito de Fórmula 1, a poucos quilómetros da vila, popular como excursão. Fica fora de Spa e o acesso com cão é restrito em dias de corrida: encare-o sobretudo como referência e saída de carro.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les chiens doivent être tenus en laisse partout autour de Spa, y compris dans les Hautes Fagnes, et sont totalement interdits dans les zones centrales signalées de la réserve.`,
+        `Les Thermes de Spa n'admettent pas les chiens (bains, bassins, bien-être, restaurant) : prévoyez un pet-sitter ou visitez à tour de rôle.`,
+        `Dans le train SNCB, un petit chien en sac voyage gratuitement ; un plus grand en laisse nécessite un Supplément Animal de 3 € par trajet.`,
+        `Les Fagnes et les forêts ardennaises sont un pays à tiques : utilisez une prévention et inspectez le chien après chaque balade.`,
+        `Le climat ardennais est frais et humide toute l'année : emportez une serviette et un manteau séchant, même en été.`,
+      ],
+      en: [
+        `Dogs must be leashed everywhere around Spa, including the Hautes Fagnes, and are banned outright from the reserve's signposted core zones.`,
+        `The Thermes de Spa do not admit dogs (baths, pools, wellness, restaurant), so arrange a sitter or take turns to visit.`,
+        `On SNCB trains a small dog in a carrier travels free; a larger leashed dog needs a €3 Pet Supplement per journey.`,
+        `The Fagnes and Ardennes woodland are tick country: use tick prevention and check your dog after every walk.`,
+        `The Ardennes climate is cool and wet year-round, so pack a towel and a drying coat even in summer.`,
+      ],
+      es: [
+        `Los perros deben ir con correa en todo el entorno de Spa, incluidas las Hautes Fagnes, y están totalmente prohibidos en las zonas centrales señalizadas de la reserva.`,
+        `Las Termas de Spa no admiten perros (baños, piscinas, bienestar, restaurante): organiza un cuidador o turnaos para visitarlas.`,
+        `En los trenes SNCB un perro pequeño en transportín viaja gratis; uno más grande con correa necesita un Suplemento Mascota de 3 € por trayecto.`,
+        `Las Fagnes y los bosques de las Ardenas son zona de garrapatas: usa prevención y revisa al perro tras cada paseo.`,
+        `El clima de las Ardenas es fresco y húmedo todo el año, así que lleva una toalla y un abrigo secante incluso en verano.`,
+      ],
+      pt: [
+        `Os cães devem estar à trela em toda a zona de Spa, incluindo as Hautes Fagnes, e são totalmente proibidos nas zonas centrais sinalizadas da reserva.`,
+        `As Termas de Spa não admitem cães (banhos, piscinas, bem-estar, restaurante): combine um sitter ou revezem-se para as visitar.`,
+        `Nos comboios SNCB um cão pequeno em transportadora viaja grátis; um maior à trela precisa de um Suplemento Animal de 3 € por viagem.`,
+        `As Fagnes e as florestas das Ardenas são território de carraças: use prevenção e verifique o cão após cada passeio.`,
+        `O clima das Ardenas é fresco e húmido o ano inteiro, por isso leve uma toalha e um casaco secante mesmo no verão.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Plusieurs cabinets vétérinaires dans le centre (av. Reine Astrid, rue du Waux-Hall, rue Hanster) ; pas de clinique 24h à Spa, la garde passe par un vétérinaire de garde régional`,
+        `Numéro d'urgence européen : 112 ; pour un vétérinaire de garde, téléphonez d'abord au cabinet le plus proche`,
+        `Train : terminus Spa-Géronstère sur la ligne 44, changement à Verviers/Pepinster ; Supplément Animal SNCB à 3 € par trajet pour un grand chien`,
+        `Bus TEC : petit chien sur les genoux ou en boîte gratuit, grand chien au tarif du propriétaire, laisse obligatoire`,
+        `Passeport européen, puce et vaccin antirabique à jour requis pour entrer en Belgique depuis l'UE`,
+      ],
+      en: [
+        `Several veterinary practices in the centre (Ave. Reine Astrid, Rue du Waux-Hall, Rue Hanster); no 24-hour clinic in Spa, out-of-hours cover runs via a regional on-call vet`,
+        `European emergency number: 112; for an on-call vet, phone your nearest practice first`,
+        `Train: line-44 terminus is Spa-Géronstère, change at Verviers/Pepinster; SNCB Pet Supplement is €3 per journey for a large dog`,
+        `TEC bus: a small dog on your lap or in a box travels free, a large dog pays your fare, leash required`,
+        `EU pet passport, microchip and up-to-date rabies vaccination required to enter Belgium from the EU`,
+      ],
+      es: [
+        `Varias consultas veterinarias en el centro (Ave. Reine Astrid, Rue du Waux-Hall, Rue Hanster); sin clínica 24h en Spa, la guardia funciona por veterinario de guardia regional`,
+        `Número de emergencia europeo: 112; para un veterinario de guardia, llama primero a la consulta más cercana`,
+        `Tren: el final de la línea 44 es Spa-Géronstère, cambio en Verviers/Pepinster; el Suplemento Mascota de SNCB es de 3 € por trayecto para un perro grande`,
+        `Autobús TEC: un perro pequeño en el regazo o en caja viaja gratis, uno grande paga tu tarifa, correa obligatoria`,
+        `Pasaporte europeo, microchip y vacuna antirrábica al día obligatorios para entrar en Bélgica desde la UE`,
+      ],
+      pt: [
+        `Várias clínicas veterinárias no centro (Ave. Reine Astrid, Rue du Waux-Hall, Rue Hanster); sem clínica 24h em Spa, o serviço fora de horas funciona por veterinário de urgência regional`,
+        `Número de emergência europeu: 112; para um veterinário de urgência, ligue primeiro à clínica mais próxima`,
+        `Comboio: o término da linha 44 é Spa-Géronstère, mudança em Verviers/Pepinster; o Suplemento Animal da SNCB é de 3 € por viagem para um cão grande`,
+        `Autocarro TEC: um cão pequeno ao colo ou em caixa viaja grátis, um grande paga a sua tarifa, trela obrigatória`,
+        `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios para entrar na Bélgica a partir da UE`,
+      ],
+    },
+  },
+
   split: {
     history: {
       fr: `Split a grandi à l'intérieur d'un palais. Lorsque l'empereur romain Dioclétien s'y retira en 305 ap. J.-C., il bâtit une résidence-forteresse em bord de mer que des réfugiés transformèrent plus tard em cœur vivant d'une ville, 3 000 personnes y dorment encore dans les murs de calcaire. Le résultat est un chaos UNESCO : colonnes romaines soutenant des appartements médiévaux, autels baroques encastrés dans des maisons marchandes vénitiennes, le tout face à une Adriatique plus bleue qu'une carte postale. Split s'élève entre la pinède de la colline du Marjan et la Riva bordée de palmiers, avec les îles dalmates à une traversée de ferry. Les Croates adorent les chiens, em particulier le dalmatien, sélectionné sur cette côte, et la plupart des cafés laissent des gamelles dehors.`,

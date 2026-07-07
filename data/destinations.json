@@ -21838,6 +21838,80 @@
     "iata": "NAP"
   },
   {
+    "slug": "spa",
+    "name": "Spa",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "flag": "🇧🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/spa.jpg",
+    "intro": "Spa is the small Ardennes thermal town in Belgium's Liège province that gave the English language the very word \"spa\", and today a UNESCO Great Spas of Europe member of around 10,000 residents ringed by forest. Its compact centre gathers the Pouhon Pierre-le-Grand spring pavilion, the covered galleries of the Parc de Sept Heures, and the hillside Thermes de Spa reached by a panoramic funicular (dogs not admitted inside the baths). Just above town the vast Hautes Fagnes nature reserve unrolls roughly 700 km of marked trails where leashed dogs are welcome, while the Lac de Warfaaz offers an easy lakeside loop a short drive from the centre. The legendary Spa-Francorchamps Formula 1 circuit lies a few kilometres away for a day-trip. Trains reach Spa via Verviers on the Liège line, and the cool, wet uplands climate makes spring through autumn the most comfortable window for walking with a dog.",
+    "lat": 50.4922,
+    "lng": 5.8647,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & changeable",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild & fresh",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm summer days",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm & occasional showers",
+        "icon": "🌦️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & crisp",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool & misty",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "split",
     "name": "Split",
     "country": "Croatia",

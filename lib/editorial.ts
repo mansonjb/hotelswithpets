@@ -1767,6 +1767,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Rose and Red valley trails, Pigeon Valley towards Uchisar, and the sunrise balloon views from Sunset Point`,
       area: `the village centre, the Goreme Open-Air Museum road, and the valley trailheads`,
     },
+    ischia: {
+      personality: `a volcanic thermal island in the Bay of Naples where leashed dogs wander the car-free village of Sant'Angelo, hike Monte Epomeo and the seafront pine grove, and reach the free sections of the long Maronti beach`,
+      highlight: `the Aragonese Castle causeway, the Monte Epomeo summit trail, and the Sant'Angelo to Maronti coastal walk`,
+      area: `the harbour town of Ischia Porto and Ischia Ponte, the western resort of Forio, and the car-free southern village of Sant'Angelo`,
+    },
     istanbul: {
       personality: `a metropolis famous for treating its street animals like citizens, where dogs are part of everyday life on both continents`,
       highlight: `the Bosphorus waterfront walks, Macka Park above Besiktas, and the seaside promenade of Moda in Kadikoy`,
@@ -3578,6 +3583,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `le village au cœur de la Cappadoce, entouré de cheminées de fées et de vallées ouvertes idéales pour de longues marches`,
       highlight: `les sentiers des vallées Rose et Rouge, la vallée des Pigeons vers Uçhisar et les montgolfières au lever du soleil depuis Sunset Point`,
       area: `le centre du village, la route du musée en plein air de Göreme et les départs de sentiers des vallées`,
+    },
+    ischia: {
+      personality: `une île thermale volcanique du golfe de Naples où les chiens en laisse flânent dans le village piéton de Sant'Angelo, gravissent le Monte Epomeo et la pinède du bord de mer, et rejoignent les sections libres de la longue plage des Maronti`,
+      highlight: `la chaussée du Château Aragonais, le sentier du sommet du Monte Epomeo, et la promenade côtière de Sant'Angelo aux Maronti`,
+      area: `la ville portuaire d'Ischia Porto et d'Ischia Ponte, la station balnéaire de Forio à l'ouest, et le village piéton de Sant'Angelo au sud`,
     },
     istanbul: {
       personality: `une métropole célèbre pour traiter ses animaux des rues comme des citoyens, où les chiens font partie du quotidien sur les deux continents`,
@@ -5391,6 +5401,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `los senderos de los valles Rosa y Rojo, el valle de las Palomas hacia Uçhisar y los globos al amanecer desde Sunset Point`,
       area: `el centro del pueblo, la carretera del Museo al Aire Libre de Göreme y los accesos a los valles`,
     },
+    ischia: {
+      personality: `una isla termal volcánica en la bahía de Nápoles donde los perros con correa pasean por el pueblo peatonal de Sant'Angelo, suben al Monte Epomeo y al pinar del paseo marítimo, y llegan a las secciones libres de la larga playa de Maronti`,
+      highlight: `la calzada del Castillo Aragonés, el sendero de la cima del Monte Epomeo, y el paseo costero de Sant'Angelo a Maronti`,
+      area: `la ciudad portuaria de Ischia Porto e Ischia Ponte, el enclave costero de Forio al oeste, y el pueblo peatonal de Sant'Angelo al sur`,
+    },
     istanbul: {
       personality: `una metrópolis famosa por tratar a sus animales callejeros como ciudadanos, donde los perros forman parte de la vida diaria en los dos continentes`,
       highlight: `los paseos junto al Bósforo, el parque Maçka sobre Beşiktaş y el paseo marítimo de Moda en Kadıköy`,
@@ -7202,6 +7217,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a aldeia no coração da Capadócia, rodeada de chaminés de fada e vales abertos ideais para longas caminhadas`,
       highlight: `os trilhos dos vales Rosa e Vermelho, o vale dos Pombos em direção a Uçhisar e os balões ao nascer do sol vistos do Sunset Point`,
       area: `o centro da aldeia, a estrada do Museu ao Ar Livre de Göreme e os inícios dos trilhos dos vales`,
+    },
+    ischia: {
+      personality: `uma ilha termal vulcânica na baía de Nápoles onde os cães com trela passeiam pela aldeia pedonal de Sant'Angelo, sobem ao Monte Epomeo e ao pinhal da beira-mar, e alcançam as secções livres da longa praia dos Maronti`,
+      highlight: `a ponte do Castelo Aragonês, o trilho do cume do Monte Epomeo, e o passeio costeiro de Sant'Angelo aos Maronti`,
+      area: `a cidade portuária de Ischia Porto e Ischia Ponte, a estância de Forio a oeste, e a aldeia pedonal de Sant'Angelo a sul`,
     },
     istanbul: {
       personality: `uma metrópole famosa por tratar os seus animais de rua como cidadãos, onde os cães fazem parte do dia a dia nos dois continentes`,

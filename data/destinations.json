@@ -11744,6 +11744,81 @@
     "iata": "BRN"
   },
   {
+    "slug": "ischia",
+    "name": "Ischia",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "countryCode": "IT",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/ischia.jpg",
+    "intro": "Ischia is a volcanic thermal island in the Bay of Naples where leashed dogs walk the car-free village of Sant'Angelo, hike Monte Epomeo and the seafront pine grove, and reach the free Maronti beach sections, though the famous thermal parks stay dog-free.",
+    "lat": 40.7308,
+    "lng": 13.95,
+    "iata": "NAP",
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
     "slug": "istanbul",
     "name": "Istanbul",
     "country": "Turkey",

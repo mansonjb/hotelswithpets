@@ -22043,6 +22043,203 @@
     ]
   },
   {
+    "id": "ischia-1",
+    "name": "Hotel La Villarosa Terme",
+    "destinationSlug": "ischia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 1295,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/la-villarosa-terme.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel La Villarosa Terme is a pet-friendly property on Booking.com and welcomes dogs and cats. No mandatory pet fee is listed, so confirm your pet with the property when you book so a suitable room can be allocated. Pets should be kept on a lead in shared areas.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "address": "Via Giacinto Gigante, 5, 80070 Ischia, Italy",
+    "neighborhood": "Ischia",
+    "slug": "hotel-la-villarosa-terme"
+  },
+  {
+    "id": "ischia-2",
+    "name": "Casetta Roby Ischia Porto",
+    "destinationSlug": "ischia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 7.6,
+    "reviewCount": 25,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/casetta-roby.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Casetta Roby Ischia Porto is a pet-friendly property on Booking.com and welcomes dogs and cats. No mandatory pet fee is listed, so confirm your pet with the property when you book so a suitable room can be allocated. Pets should be kept on a lead in shared areas.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Airport shuttle"
+    ],
+    "slug": "casetta-roby-ischia-porto"
+  },
+  {
+    "id": "ischia-3",
+    "name": "Isabel Luxury Suite",
+    "destinationSlug": "ischia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/isabel-luxury-suite.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Isabel Luxury Suite is a pet-friendly property on Booking.com and welcomes dogs and cats. No mandatory pet fee is listed, so confirm your pet with the property when you book so a suitable room can be allocated. Pets should be kept on a lead in shared areas.",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "address": "Via Luigi Mazzella, 9, 80077 Ischia, Italy",
+    "neighborhood": "Ischia",
+    "slug": "isabel-luxury-suite"
+  },
+  {
+    "id": "ischia-4",
+    "name": "La Casa del Mozzo",
+    "destinationSlug": "ischia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/la-casa-del-mozzo.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "La Casa del Mozzo is a pet-friendly property on Booking.com and welcomes dogs and cats. No mandatory pet fee is listed, so confirm your pet with the property when you book so a suitable room can be allocated. Pets should be kept on a lead in shared areas.",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
+    ],
+    "address": "Vico Ulisse, 10 terra, 80077 Ischia, Italy",
+    "neighborhood": "Ischia",
+    "slug": "la-casa-del-mozzo"
+  },
+  {
+    "id": "ischia-5",
+    "name": "Casa trani",
+    "destinationSlug": "ischia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/casa-trani.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Casa trani is a pet-friendly property on Booking.com and welcomes dogs and cats. No mandatory pet fee is listed, so confirm your pet with the property when you book so a suitable room can be allocated. Pets should be kept on a lead in shared areas.",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
+    ],
+    "slug": "casa-trani"
+  },
+  {
+    "id": "ischia-6",
+    "name": "Casetta Virginia",
+    "destinationSlug": "ischia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.7,
+    "reviewCount": 17,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/casetta-virginia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Casetta Virginia is a pet-friendly property on Booking.com and welcomes dogs and cats. No mandatory pet fee is listed, so confirm your pet with the property when you book so a suitable room can be allocated. Pets should be kept on a lead in shared areas.",
+    "highlights": [
+      "Family rooms",
+      "Non-smoking rooms"
+    ],
+    "address": "Via Venanzio Marone 9 Primo piano, 80077 Ischia, Italy",
+    "neighborhood": "Ischia",
+    "slug": "casetta-virginia"
+  },
+  {
+    "id": "ischia-7",
+    "name": "Casetta Achille",
+    "destinationSlug": "ischia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.7,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/casetta-achille.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Casetta Achille is a pet-friendly property on Booking.com and welcomes dogs and cats. No mandatory pet fee is listed, so confirm your pet with the property when you book so a suitable room can be allocated. Pets should be kept on a lead in shared areas.",
+    "highlights": [
+      "Free WiFi",
+      "Pet-friendly",
+      "Central location"
+    ],
+    "address": "Traversa Via Venanzio Marone, 9 Secondo piano, 80077 Ischia, Italy",
+    "neighborhood": "Ischia",
+    "slug": "casetta-achille"
+  },
+  {
+    "id": "ischia-8",
+    "name": "Il Melograno",
+    "destinationSlug": "ischia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/il-melograno-ischia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Il Melograno is a pet-friendly property on Booking.com and welcomes dogs and cats. No mandatory pet fee is listed, so confirm your pet with the property when you book so a suitable room can be allocated. Pets should be kept on a lead in shared areas.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "il-melograno"
+  },
+  {
     "id": "istanbul-1",
     "name": "Demiray Hotel Old City",
     "destinationSlug": "istanbul",

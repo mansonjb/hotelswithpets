@@ -15835,6 +15835,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  ischia: {
+    history: {
+      fr: `Ischia est la plus grande des îles du golfe de Naples, un cône volcanique verdoyant réputé depuis l'Antiquité romaine pour ses sources thermales et ses boues chaudes, qui alimentent aujourd'hui de vastes parcs thermaux comme les Giardini Poseidon et le Negombo. Son histoire se lit dans le Château Aragonais, forteresse posée sur un îlot relié à Ischia Ponte par une chaussée de pierre, et dans des villages comme le Sant'Angelo piéton et le Forio de la côte ouest. Pour les propriétaires de chiens, Ischia demande un peu d'organisation : l'île se parcourt bien en laisse, du village de Sant'Angelo aux sentiers du Monte Epomeo et à la pinède du bord de mer, mais les parcs thermaux n'admettent pas les animaux et l'accès aux plages est régi par des arrêtés municipaux. En clair, on vient pour les balades, les villages et la mer, et on prévoit un dog-sitter pour la journée spa.`,
+      en: `Ischia is the largest of the islands in the Bay of Naples, a green volcanic cone famous since Roman antiquity for its thermal springs and hot muds, which today feed vast thermal parks such as Giardini Poseidon and Negombo. Its history is written in the Aragonese Castle, a fortress on an islet joined to Ischia Ponte by a stone causeway, and in villages such as car-free Sant'Angelo and Forio on the western coast. For dog owners Ischia takes a little planning: the island is very walkable on a leash, from Sant'Angelo village to the Monte Epomeo trails and the seafront pine grove, but the thermal parks do not admit pets and beach access is governed by municipal ordinances. In short, you come for the walks, the villages and the sea, and plan a dog sitter for the spa day.`,
+      es: `Ischia es la mayor de las islas de la bahía de Nápoles, un cono volcánico verde famoso desde la antigüedad romana por sus fuentes termales y sus lodos calientes, que hoy alimentan grandes parques termales como los Giardini Poseidon y el Negombo. Su historia se lee en el Castillo Aragonés, una fortaleza sobre un islote unido a Ischia Ponte por una calzada de piedra, y en pueblos como el peatonal Sant'Angelo y Forio en la costa oeste. Para los dueños de perros Ischia requiere algo de planificación: la isla se recorre muy bien con correa, del pueblo de Sant'Angelo a los senderos del Monte Epomeo y el pinar del paseo marítimo, pero los parques termales no admiten mascotas y el acceso a las playas se rige por ordenanzas municipales. En resumen, se viene por los paseos, los pueblos y el mar, y se planifica un cuidador para el día de spa.`,
+      pt: `Ischia é a maior das ilhas da baía de Nápoles, um cone vulcânico verde famoso desde a antiguidade romana pelas suas fontes termais e lamas quentes, que hoje alimentam vastos parques termais como os Giardini Poseidon e o Negombo. A sua história lê-se no Castelo Aragonês, uma fortaleza sobre um ilhéu ligado a Ischia Ponte por uma ponte de pedra, e em aldeias como a pedonal Sant'Angelo e Forio na costa oeste. Para os donos de cães Ischia exige algum planeamento: a ilha percorre-se muito bem com trela, da aldeia de Sant'Angelo aos trilhos do Monte Epomeo e ao pinhal da beira-mar, mas os parques termais não admitem animais e o acesso às praias rege-se por regulamentos municipais. Em resumo, vem-se pelos passeios, pelas aldeias e pelo mar, e planeia-se um cuidador para o dia de spa.`,
+    },
+    sights: [
+      {
+        name: 'Castello Aragonese',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `L'îlot fortifié emblématique d'Ischia, couronné d'un château médiéval et relié à Ischia Ponte par une chaussée de pierre. Le site est en grande partie en plein air ; les chiens en laisse sont généralement admis sur les chemins extérieurs, à confirmer à la billetterie.`,
+          en: `Ischia's iconic fortified islet, crowned by a medieval castle and joined to Ischia Ponte by a stone causeway. The site is largely open-air, and leashed dogs are generally welcome on the outdoor paths, worth confirming at the ticket office.`,
+          es: `El emblemático islote fortificado de Ischia, coronado por un castillo medieval y unido a Ischia Ponte por una calzada de piedra. El recinto es en gran parte al aire libre, y los perros con correa suelen ser bienvenidos en los caminos exteriores, conviene confirmarlo en taquilla.`,
+          pt: `O emblemático ilhéu fortificado de Ischia, coroado por um castelo medieval e ligado a Ischia Ponte por uma ponte de pedra. O recinto é em grande parte ao ar livre, e os cães com trela costumam ser bem-vindos nos caminhos exteriores, vale a pena confirmar na bilheteira.`,
+        },
+      },
+      {
+        name: "Sant'Angelo",
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Un ancien village de pêcheurs entièrement piéton sur la côte sud, aux maisons pastel dévalant vers un minuscule port. Sans voitures, c'est l'un des endroits les plus reposants de l'île pour flâner avec un chien en laisse, et la porte des Maronti.`,
+          en: `A completely car-free former fishing village on the southern coast, with pastel houses tumbling to a tiny harbour. Being pedestrian, it is one of the most relaxing places on the island to wander with a leashed dog, and the gateway to the Maronti.`,
+          es: `Un antiguo pueblo pesquero totalmente peatonal en la costa sur, con casas pastel que caen hacia un minúsculo puerto. Al no haber coches, es uno de los lugares más relajantes de la isla para pasear con un perro con correa, y la puerta de Maronti.`,
+          pt: `Uma antiga aldeia piscatória totalmente pedonal na costa sul, com casas em tons pastel que descem até um minúsculo porto. Sem carros, é um dos lugares mais relaxantes da ilha para passear com um cão com trela, e a porta dos Maronti.`,
+        },
+      },
+      {
+        name: 'Spiaggia dei Maronti',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La plus longue plage de l'île, sur la côte sud depuis Sant'Angelo, réchauffée par des sources chaudes. Ses sections libres sont l'option de plage la plus réaliste avec un chien, aux horaires réduits fixés par l'arrêté ; évitez le sable chaud des fumerolles.`,
+          en: `The island's longest beach, on the southern coast from Sant'Angelo, warmed by hot springs. Its free sections are the most realistic beach option with a dog, within the reduced hours set by the ordinance; avoid the hot fumarole sand.`,
+          es: `La playa más larga de la isla, en la costa sur desde Sant'Angelo, templada por fuentes termales. Sus secciones libres son la opción de playa más realista con perro, en el horario reducido de la ordenanza; evita la arena caliente de las fumarolas.`,
+          pt: `A praia mais longa da ilha, na costa sul desde Sant'Angelo, aquecida por fontes termais. As suas secções livres são a opção de praia mais realista com cão, no horário reduzido do regulamento; evite a areia quente das fumarolas.`,
+        },
+      },
+      {
+        name: 'Monte Epomeo',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Le point culminant de l'île à 789 m, atteint par des sentiers balisés depuis Fontana, avec un panorama à 360° sur le golfe de Naples. Les chiens en laisse sont admis sur les sentiers de montagne, plus frais que la côte ; la fin est raide et rocheuse.`,
+          en: `The island's highest point at 789 m, reached by marked trails from Fontana, with a 360-degree view over the Bay of Naples. Leashed dogs are welcome on the mountain trails, cooler than the coast; the final stretch is steep and rocky.`,
+          es: `El punto más alto de la isla, a 789 m, al que se llega por senderos señalizados desde Fontana, con un panorama de 360° sobre la bahía de Nápoles. Los perros con correa son bienvenidos en los senderos de montaña, más frescos que la costa; el final es empinado y rocoso.`,
+          pt: `O ponto mais alto da ilha, a 789 m, alcançado por trilhos sinalizados a partir de Fontana, com um panorama de 360° sobre a baía de Nápoles. Os cães com trela são bem-vindos nos trilhos de montanha, mais frescos que a costa; o final é íngreme e rochoso.`,
+        },
+      },
+      {
+        name: 'Pineta di Ischia',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Une pinède publique ombragée le long du front de mer entre Ischia Porto et Ischia Ponte, plate et fraîche, l'une des promenades canines les plus faciles de l'île. Les chiens en laisse y sont admis sous les pins parasols, avec vue sur la mer et de nombreux bancs.`,
+          en: `A shaded public pine grove along the seafront between Ischia Porto and Ischia Ponte, flat and cool, one of the easiest dog walks on the island. Leashed dogs are welcome under the umbrella pines, with sea views and plenty of benches.`,
+          es: `Un pinar público sombreado a lo largo del paseo marítimo entre Ischia Porto e Ischia Ponte, llano y fresco, uno de los paseos caninos más fáciles de la isla. Los perros con correa son bienvenidos bajo los pinos piñoneros, con vistas al mar y muchos bancos.`,
+          pt: `Um pinhal público sombreado ao longo da marginal entre Ischia Porto e Ischia Ponte, plano e fresco, um dos passeios caninos mais fáceis da ilha. Os cães com trela são bem-vindos sob os pinheiros-mansos, com vista para o mar e muitos bancos.`,
+        },
+      },
+      {
+        name: 'Giardini Poseidon Terme',
+        emoji: '♨️',
+        petFriendly: false,
+        desc: {
+          fr: `Le plus grand parc thermal de l'île, au-dessus de la plage de Citara à Forio, et l'attraction bien-être phare d'Ischia. Les chiens n'y sont pas admis, ni dans le parc ni sur sa plage, comme au parc thermal de Negombo ; prévoyez un dog-sitter pour la journée spa.`,
+          en: `The island's largest thermal park, above Citara beach in Forio, and Ischia's headline wellness attraction. Dogs are not allowed inside the park or on its beach, as at the Negombo thermal park; plan a dog sitter for the spa day.`,
+          es: `El mayor parque termal de la isla, sobre la playa de Citara en Forio, y la atracción de bienestar estrella de Ischia. No se admiten perros dentro del parque ni en su playa, como en el parque termal de Negombo; planifica un cuidador para el día de spa.`,
+          pt: `O maior parque termal da ilha, sobre a praia de Citara em Forio, e a atração de bem-estar de destaque de Ischia. Não se admitem cães dentro do parque nem na sua praia, tal como no parque termal de Negombo; planeie um cuidador para o dia de spa.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les parcs thermaux (Giardini Poseidon, Negombo) n\'admettent pas les chiens, ni à l\'intérieur ni sur leurs plages ; prévoyez un dog-sitter pour la journée spa.',
+        'Accès plage limité : seules les sections libres (spiaggia libera, ex. Maronti, Cava dell\'Isola) autorisent les chiens, sur des créneaux réduits et surtout les petits chiens ; vérifiez l\'arrêté communal.',
+        'Ferry : Caremar et Medmar exigent laisse et muselière pour les chiens (petits en caisse) et le carnet de santé à jour ; le ferry lent est plus calme qu\'un hydroglisseur.',
+        'Chaleur et fumerolles : promenez tôt ou en soirée, et méfiez-vous du sable brûlant près des fumerolles des Maronti, qui peut brûler les coussinets.',
+        'Vétérinaires : Ambulatorio Veterinario Dr.ssa Daniela Vuoso (Via Pontano 38, Ischia, +39 347 122 7216) ; pas d\'hôpital vétérinaire 24h sur l\'île, urgences graves de nuit vers une clinique 24h sur le continent à Naples.',
+      ],
+      en: [
+        'The thermal parks (Giardini Poseidon, Negombo) do not allow dogs, inside or on their beaches; plan a dog sitter for the spa day.',
+        'Limited beach access: only the free (spiaggia libera) sections such as Maronti and Cava dell\'Isola allow dogs, in reduced time slots and mainly small dogs; check the local ordinance.',
+        'Ferry: Caremar and Medmar require a leash and muzzle for dogs (small pets in a carrier) and an up-to-date health record; the slow car ferry is calmer than a hydrofoil.',
+        'Heat and fumaroles: walk early or in the evening, and beware the scalding sand near the Maronti fumaroles, which can burn paws.',
+        'Vets: Ambulatorio Veterinario Dr.ssa Daniela Vuoso (Via Pontano 38, Ischia, +39 347 122 7216); there is no 24h vet hospital on the island, so serious night emergencies mean a 24h clinic on the Naples mainland.',
+      ],
+      es: [
+        'Los parques termales (Giardini Poseidon, Negombo) no admiten perros, ni dentro ni en sus playas; planifica un cuidador para el día de spa.',
+        'Acceso limitado a playas: solo las secciones libres (spiaggia libera) como Maronti y Cava dell\'Isola permiten perros, en franjas reducidas y sobre todo perros pequeños; consulta la ordenanza local.',
+        'Ferry: Caremar y Medmar exigen correa y bozal para los perros (pequeños en transportín) y la cartilla al día; el ferry lento es más tranquilo que un hidrofoil.',
+        'Calor y fumarolas: pasea temprano o al atardecer, y cuidado con la arena ardiente junto a las fumarolas de Maronti, que puede quemar las almohadillas.',
+        'Veterinarios: Ambulatorio Veterinario Dr.ssa Daniela Vuoso (Via Pontano 38, Ischia, +39 347 122 7216); no hay hospital veterinario 24h en la isla, así que las urgencias graves de noche implican una clínica 24h en la Nápoles continental.',
+      ],
+      pt: [
+        'Os parques termais (Giardini Poseidon, Negombo) não admitem cães, nem dentro nem nas suas praias; planeie um cuidador para o dia de spa.',
+        'Acesso limitado às praias: só as secções livres (spiaggia libera) como Maronti e Cava dell\'Isola permitem cães, em faixas reduzidas e sobretudo cães pequenos; consulte o regulamento local.',
+        'Ferry: a Caremar e a Medmar exigem trela e açaime para os cães (pequenos em transportadora) e o boletim em dia; o ferry lento é mais calmo que um hidrofólio.',
+        'Calor e fumarolas: passeie cedo ou ao entardecer, e cuidado com a areia escaldante junto às fumarolas dos Maronti, que pode queimar as patas.',
+        'Veterinários: Ambulatorio Veterinario Dr.ssa Daniela Vuoso (Via Pontano 38, Ischia, +39 347 122 7216); não há hospital veterinário 24h na ilha, por isso urgências graves de noite implicam uma clínica 24h na Nápoles continental.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Italie dans l\'UE : passeport européen pour animaux, puce et vaccination antirabique valide exigés à l\'enregistrement des hôtels pet-friendly.',
+        'Accès uniquement par la mer : ferries et hydroglisseurs Caremar/Medmar depuis Naples (Beverello, Calata Porta di Massa) et Pozzuoli ; chiens en laisse et muselés.',
+        'Parcs thermaux (Poseidon, Negombo) interdits aux chiens ; plages limitées aux sections libres selon l\'arrêté communal.',
+        'Sur l\'île : bus EAV (chien muselé/en laisse), taxis et micro-taxis (tarif à convenir), Sant\'Angelo entièrement piéton.',
+        'Urgences : numéro général 112 ; pas de vétérinaire 24h sur l\'île, urgences nocturnes graves vers une clinique 24h sur le continent à Naples en ferry.',
+      ],
+      en: [
+        'Italy is in the EU: EU pet passport, microchip and valid rabies vaccination required at pet-friendly hotel check-in.',
+        'Reached only by sea: Caremar/Medmar ferries and hydrofoils from Naples (Beverello, Calata Porta di Massa) and Pozzuoli; dogs leashed and muzzled.',
+        'Thermal parks (Poseidon, Negombo) ban dogs; beaches limited to the free (libera) sections per the town ordinance.',
+        'On the island: EAV buses (dog leashed/muzzled), taxis and micro-taxis (agree the fare), Sant\'Angelo entirely car-free.',
+        'Emergencies: general number 112; no 24h vet on the island, serious night emergencies mean a 24h clinic on the Naples mainland by ferry.',
+      ],
+      es: [
+        'Italia está en la UE: pasaporte europeo para mascotas, microchip y vacunación antirrábica vigente exigidos en el check-in de hoteles pet-friendly.',
+        'Solo se llega por mar: ferries e hidrofoils Caremar/Medmar desde Nápoles (Beverello, Calata Porta di Massa) y Pozzuoli; perros con correa y bozal.',
+        'Los parques termales (Poseidon, Negombo) prohíben perros; playas limitadas a las secciones libres (libera) según la ordenanza municipal.',
+        'En la isla: autobuses EAV (perro con correa/bozal), taxis y micro-taxis (tarifa a convenir), Sant\'Angelo totalmente peatonal.',
+        'Urgencias: número general 112; sin veterinario 24h en la isla, urgencias graves de noche a una clínica 24h en la Nápoles continental en ferry.',
+      ],
+      pt: [
+        'A Itália está na UE: passaporte europeu para animais, microchip e vacinação antirrábica válida exigidos no check-in de hotéis pet-friendly.',
+        'Alcançada apenas por mar: ferries e hidrofólios Caremar/Medmar de Nápoles (Beverello, Calata Porta di Massa) e Pozzuoli; cães com trela e açaime.',
+        'Os parques termais (Poseidon, Negombo) proíbem cães; praias limitadas às secções livres (libera) segundo o regulamento municipal.',
+        'Na ilha: autocarros EAV (cão com trela/açaime), táxis e micro-táxis (tarifa a combinar), Sant\'Angelo totalmente pedonal.',
+        'Urgências: número geral 112; sem veterinário 24h na ilha, urgências graves de noite para uma clínica 24h na Nápoles continental de ferry.',
+      ],
+    },
+  },
+
   istanbul: {
     history: {
       fr: `Byzance, Constantinople, Istanbul : trois noms pour une ville qui fut capitale de deux empires pendant plus de 1 500 ans. Fondée par des colons grecs au VIIe siècle avant notre ère, refondée par Constantin en 330, conquise par Mehmet II en 1453, la ville garde les traces de chaque époque : hippodrome romain, basiliques byzantines, mosquées ottomanes, palais du Bosphore. À cheval sur deux continents, elle est aujourd'hui la plus grande métropole d'Europe. C'est aussi l'une des villes les plus étonnantes au monde pour les amoureux des animaux : les chats et chiens des rues y sont nourris, soignés et considérés comme des habitants à part entière, une tradition ancrée dans la culture ottomane. Avec votre propre chien, vous découvrirez des quartiers entiers à arpenter, des rives du Bosphore aux forêts du nord, dans une ville qui traite les animaux avec un respect rare.`,

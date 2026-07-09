@@ -1664,6 +1664,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  antalya: {
+    history: {
+      fr: `Adossée aux monts Taurus et ouverte sur la Méditerranée, Antalya est la capitale de la Riviera turque et la grande porte du tourisme balnéaire du pays. Son cœur historique, Kaleici, déroule un labyrinthe de ruelles pavées enserrées de remparts, où se succèdent maisons ottomanes en bois, hammams et l'élégante porte d'Hadrien, arc de triomphe romain élevé en 130 apr. J.-C. En contrebas, le vieux port en fer à cheval, jadis havre romain, accueille aujourd'hui les bateaux d'excursion. Autour de la ville, les cascades du Düden se jettent depuis la falaise directement dans la mer, tandis que les longues plages de Konyaalti et de Lara s'étirent de part et d'autre du centre. Pour un voyageur avec chien, Antalya séduit par sa culture de rue bienveillante envers les animaux et son programme municipal reconnu de soin aux animaux errants, mais impose de composer avec une chaleur estivale extrême.`,
+      en: `Backed by the Taurus Mountains and opening onto the Mediterranean, Antalya is the capital of the Turkish Riviera and the country's great gateway to seaside tourism. Its historic heart, Kaleici, unrolls a maze of cobbled lanes enclosed by ramparts, lined with wooden Ottoman houses, hammams and the elegant Hadrian's Gate, a Roman triumphal arch raised in 130 AD. Below, the horseshoe-shaped old harbour, once a Roman haven, now welcomes excursion boats. Around the city, the Düden waterfalls tumble off the cliff straight into the sea, while the long beaches of Konyaalti and Lara stretch either side of the centre. For a traveller with a dog, Antalya is appealing for its street culture that is kind to animals and its well-known municipal stray-care programme, but it demands planning around extreme summer heat.`,
+      es: `Respaldada por los montes Tauro y abierta al Mediterráneo, Antalya es la capital de la Riviera turca y la gran puerta del turismo de playa del país. Su corazón histórico, Kaleici, despliega un laberinto de callejuelas empedradas ceñidas por murallas, jalonadas de casas otomanas de madera, hammams y la elegante Puerta de Adriano, arco de triunfo romano erigido en el 130 d. C. Más abajo, el viejo puerto en herradura, antaño refugio romano, acoge hoy los barcos de excursión. En torno a la ciudad, las cascadas del Düden se precipitan desde el acantilado directamente al mar, mientras las largas playas de Konyaalti y Lara se extienden a ambos lados del centro. Para un viajero con perro, Antalya seduce por su cultura callejera amable con los animales y su reconocido programa municipal de cuidado de los animales callejeros, pero exige lidiar con un calor estival extremo.`,
+      pt: `Encostada aos montes Tauro e aberta sobre o Mediterrâneo, Antalya é a capital da Riviera turca e a grande porta do turismo balnear do país. O seu coração histórico, Kaleici, desenrola um labirinto de ruelas de calçada cercadas por muralhas, ladeadas de casas otomanas de madeira, hammams e a elegante Porta de Adriano, arco de triunfo romano erguido em 130 d. C. Mais abaixo, o velho porto em ferradura, outrora refúgio romano, acolhe hoje os barcos de excursão. Em redor da cidade, as cascatas do Düden despenham-se da falésia diretamente para o mar, enquanto as longas praias de Konyaalti e Lara se estendem de ambos os lados do centro. Para um viajante com cão, Antalya seduz pela sua cultura de rua amável com os animais e o seu reconhecido programa municipal de cuidado dos animais errantes, mas exige lidar com um calor estival extremo.`,
+    },
+    sights: [
+      { name: 'Kaleiçi', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `Vieille ville historique enserrée de remparts, dédale de ruelles pavées, maisons ottomanes et cours ombragées descendant vers le port. Balade libre et charmante en laisse, où la culture locale de chats et de chiens de rue est très présente.`,
+        en: `Historic old town enclosed by ramparts, a maze of cobbled lanes, Ottoman houses and shaded courtyards sloping down to the harbour. A charming, free stroll on a leash, where the local culture of street cats and dogs is very much alive.`,
+        es: `Casco antiguo histórico ceñido por murallas, dédalo de callejuelas empedradas, casas otomanas y patios sombreados que bajan hacia el puerto. Paseo libre y encantador con correa, donde la cultura local de gatos y perros callejeros está muy presente.`,
+        pt: `Centro histórico cercado por muralhas, dédalo de ruelas de calçada, casas otomanas e pátios sombreados que descem para o porto. Passeio livre e encantador com trela, onde a cultura local de gatos e cães de rua está bem presente.`,
+      }},
+      { name: 'Hadriyanüs Kapısı', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Porte d'Hadrien, arc de triomphe romain à trois baies élevé en 130 apr. J.-C. pour la visite de l'empereur, seule porte antique conservée des remparts. Monument en plein air librement accessible, chiens en laisse bienvenus sur la place pavée.`,
+        en: `Hadrian's Gate, a three-arched Roman triumphal gateway raised in 130 AD for the emperor's visit, the only surviving ancient gate in the city walls. An open-air monument freely accessible, with leashed dogs welcome on the paved square.`,
+        es: `Puerta de Adriano, arco de triunfo romano de tres vanos erigido en el 130 d. C. para la visita del emperador, única puerta antigua conservada de las murallas. Monumento al aire libre de acceso libre, perros con correa bienvenidos en la plaza empedrada.`,
+        pt: `Porta de Adriano, arco de triunfo romano de três vãos erguido em 130 d. C. para a visita do imperador, única porta antiga conservada das muralhas. Monumento ao ar livre de acesso livre, cães com trela bem-vindos na praça de calçada.`,
+      }},
+      { name: 'Düden Şelalesi (chutes hautes)', emoji: '💦', petFriendly: true, desc: {
+        fr: `Chutes supérieures du Düden nichées dans un parc boisé au nord de la ville, avec un sentier passant derrière le rideau d'eau. Chiens en laisse admis sur les allées du parc ombragé, halte rafraîchissante appréciée aux heures chaudes.`,
+        en: `The upper Düden falls set in a wooded park north of the city, with a path running behind the curtain of water. Leashed dogs are allowed on the shaded park paths, a refreshing stop welcome in the hot hours.`,
+        es: `Cascadas superiores del Düden enclavadas en un parque arbolado al norte de la ciudad, con un sendero que pasa tras la cortina de agua. Perros con correa admitidos en los paseos del parque sombreado, parada refrescante apreciada en las horas de calor.`,
+        pt: `Cascatas superiores do Düden encravadas num parque arborizado a norte da cidade, com um trilho que passa atrás da cortina de água. Cães com trela admitidos nas alamedas do parque sombreado, paragem refrescante apreciada nas horas de calor.`,
+      }},
+      { name: 'Aşağı Düden Şelalesi', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Chutes basses du Düden qui plongent d'une falaise de 40 m directement dans la mer, à Lara, à admirer depuis les belvédères du parc. Chiens en laisse sur les points de vue, mais gardez-les à distance du bord non protégé de la falaise.`,
+        en: `The lower Düden falls that plunge from a 40 m cliff straight into the sea at Lara, best admired from the park viewpoints. Leashed dogs on the overlooks, but keep them well away from the unfenced cliff edge.`,
+        es: `Cascadas inferiores del Düden que se precipitan desde un acantilado de 40 m directamente al mar, en Lara, para admirar desde los miradores del parque. Perros con correa en los miradores, pero manténlos lejos del borde no protegido del acantilado.`,
+        pt: `Cascatas inferiores do Düden que mergulham de uma falésia de 40 m diretamente para o mar, em Lara, a admirar dos miradouros do parque. Cães com trela nos miradouros, mas mantenha-os longe da borda desprotegida da falésia.`,
+      }},
+      { name: 'Konyaaltı Plajı', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `Longue plage de galets au pied des monts Taurus, la principale plage urbaine à l'ouest du centre. Les chiens ne sont généralement pas admis sur cette plage aménagée en pleine saison ; cherchez plutôt les criques à l'écart hors saison.`,
+        en: `A long shingle beach at the foot of the Taurus Mountains, the main city beach west of the centre. Dogs are generally not allowed on this managed beach in high season; look instead for quieter coves out of season.`,
+        es: `Larga playa de guijarros al pie de los montes Tauro, la principal playa urbana al oeste del centro. Los perros no suelen admitirse en esta playa acondicionada en plena temporada; busca mejor las calas apartadas fuera de temporada.`,
+        pt: `Longa praia de seixos ao pé dos montes Tauro, a principal praia urbana a oeste do centro. Os cães geralmente não são admitidos nesta praia ordenada em plena época; procure antes as enseadas afastadas fora de época.`,
+      }},
+      { name: 'Yat Limanı', emoji: '⛵', petFriendly: true, desc: {
+        fr: `Vieux port en fer à cheval au pied de Kaleici, ancien havre romain devenu marina bordée de terrasses et de bateaux d'excursion. Balade agréable en laisse le long des quais, la plupart des cafés en terrasse tolèrent les chiens dehors.`,
+        en: `The horseshoe-shaped old harbour below Kaleici, a former Roman haven turned marina lined with terraces and excursion boats. A pleasant on-leash stroll along the quays, and most terrace cafes tolerate dogs outside.`,
+        es: `Viejo puerto en herradura al pie de Kaleici, antiguo refugio romano convertido en marina bordeada de terrazas y barcos de excursión. Paseo agradable con correa a lo largo de los muelles, y la mayoría de los cafés con terraza toleran perros fuera.`,
+        pt: `Velho porto em ferradura ao pé de Kaleici, antigo refúgio romano tornado marina ladeada de esplanadas e barcos de excursão. Passeio agradável com trela ao longo dos cais, e a maioria dos cafés com esplanada tolera cães no exterior.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Chaleur estivale extrême : de juin à septembre les températures dépassent souvent 35 °C et le sol brûle. Promenez à l'aube et après le coucher du soleil, testez galets et bitume avec la main et portez toujours de l'eau.`,
+        `Plages urbaines interdites : les chiens ne sont pas admis sur les plages aménagées de Konyaalti et de Lara en pleine saison ; privilégiez les parcs des cascades du Düden et les criques à l'écart.`,
+        `Culture de rue animalière : Antalya compte de nombreux chats et chiens de rue nourris et soignés via un programme municipal ; ils portent souvent une marque à l'oreille (vaccinés). Tenez votre chien en laisse pour éviter les conflits.`,
+        `Bord de falaise aux chutes basses du Düden : les belvédères de Lara ne sont pas toujours protégés, gardez votre chien en laisse courte au-dessus du vide.`,
+        `Retour vers l'UE depuis la Turquie : anticipez le test sérologique de titrage antirabique (prise de sang) exigé pour les animaux revenant d'un pays hors UE, à faire dans les délais avant le départ.`,
+      ],
+      en: [
+        `Extreme summer heat: from June to September temperatures often top 35°C and the ground scorches. Walk at dawn and after sunset, test shingle and asphalt with your hand, and always carry water.`,
+        `City beaches off-limits: dogs are not allowed on the managed Konyaalti and Lara beaches in high season; favour the Düden waterfall parks and quieter coves instead.`,
+        `Animal street culture: Antalya has many street cats and dogs fed and cared for through a municipal programme; they often carry an ear tag (vaccinated). Keep your dog leashed to avoid conflicts.`,
+        `Cliff edge at the lower Düden falls: the Lara viewpoints are not always fenced, so keep your dog on a short leash above the drop.`,
+        `Returning to the EU from Turkey: plan ahead for the rabies antibody titre test (blood sample) required for animals coming back from a non-EU country, done within the required time before departure.`,
+      ],
+      es: [
+        `Calor estival extremo: de junio a septiembre las temperaturas superan a menudo los 35°C y el suelo quema. Pasea al amanecer y tras la puesta de sol, prueba los guijarros y el asfalto con la mano y lleva siempre agua.`,
+        `Playas urbanas prohibidas: los perros no se admiten en las playas acondicionadas de Konyaalti y Lara en plena temporada; prioriza los parques de las cascadas del Düden y las calas apartadas.`,
+        `Cultura callejera animal: Antalya cuenta con numerosos gatos y perros callejeros alimentados y cuidados mediante un programa municipal; suelen llevar una marca en la oreja (vacunados). Mantén a tu perro con correa para evitar conflictos.`,
+        `Borde de acantilado en las cascadas inferiores del Düden: los miradores de Lara no siempre están protegidos, mantén a tu perro con correa corta sobre el precipicio.`,
+        `Regreso a la UE desde Turquía: anticipa el test serológico de titulación antirrábica (extracción de sangre) exigido para los animales que vuelven de un país fuera de la UE, a realizar con los plazos previos a la salida.`,
+      ],
+      pt: [
+        `Calor estival extremo: de junho a setembro as temperaturas ultrapassam frequentemente os 35°C e o solo queima. Passeie ao amanhecer e depois do pôr do sol, teste os seixos e o asfalto com a mão e leve sempre água.`,
+        `Praias urbanas proibidas: os cães não são admitidos nas praias ordenadas de Konyaalti e Lara em plena época; prefira os parques das cascatas do Düden e as enseadas afastadas.`,
+        `Cultura de rua animal: Antalya tem numerosos gatos e cães de rua alimentados e cuidados através de um programa municipal; costumam ter uma marca na orelha (vacinados). Mantenha o seu cão com trela para evitar conflitos.`,
+        `Borda de falésia nas cascatas inferiores do Düden: os miradouros de Lara nem sempre estão protegidos, mantenha o seu cão com trela curta sobre o precipício.`,
+        `Regresso à UE a partir da Turquia: antecipe o teste serológico de titulação antirrábica (colheita de sangue) exigido para os animais que voltam de um país fora da UE, a fazer com a antecedência prevista antes da partida.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport d'Antalya (AYT) à environ 13 km à l'est du centre, l'un des plus fréquentés de Turquie, relié à toute l'Europe ; tramway Antray et navettes-bus vers la ville.`,
+        `Numéro d'urgence unique : 112 en Turquie, valable pour toute urgence humaine ; repérez à l'arrivée une clinique vétérinaire (veteriner) d'Antalya pour votre chien.`,
+        `Formalités de retour vers l'UE : la Turquie étant hors UE, prévoyez puce, vaccination antirabique en cours de validité et surtout le test de titrage sérologique antirabique réalisé dans les délais réglementaires avant le départ.`,
+        `Le tramway nostalgique et le réseau Antray tolèrent en général les petits chiens en caisse de transport ; pour les grands chiens, le taxi reste l'option la plus simple, confirmez avec le chauffeur.`,
+        `Haute saison de mai à octobre avec chaleur intense en plein été : réservez tôt un hébergement pet-friendly et privilégiez les ailes de saison (avril-mai, octobre) pour voyager avec un chien.`,
+      ],
+      en: [
+        `Antalya Airport (AYT) is about 13 km east of the centre, one of Turkey's busiest, linked across Europe; the Antray tram and shuttle buses run into the city.`,
+        `Single emergency number: 112 in Turkey, valid for any human emergency; on arrival, locate an Antalya veterinary clinic (veteriner) for your dog.`,
+        `EU return formalities: as Turkey is outside the EU, plan for a microchip, an in-date rabies vaccination and above all the rabies antibody titre test carried out within the regulatory time before departure.`,
+        `The nostalgic tram and the Antray network generally tolerate small dogs in a carrier; for large dogs, a taxi remains the simplest option, so confirm with the driver.`,
+        `High season runs May to October with intense midsummer heat: book pet-friendly accommodation early and favour the shoulder seasons (April-May, October) for travelling with a dog.`,
+      ],
+      es: [
+        `Aeropuerto de Antalya (AYT) a unos 13 km al este del centro, uno de los más concurridos de Turquía, conectado con toda Europa; tranvía Antray y autobuses lanzadera hacia la ciudad.`,
+        `Número único de emergencias: 112 en Turquía, válido para cualquier urgencia humana; localiza al llegar una clínica veterinaria (veteriner) de Antalya para tu perro.`,
+        `Trámites de regreso a la UE: al estar Turquía fuera de la UE, prevé microchip, vacunación antirrábica en vigor y sobre todo el test de titulación serológica antirrábica realizado en los plazos reglamentarios antes de la salida.`,
+        `El tranvía nostálgico y la red Antray suelen tolerar perros pequeños en transportín; para perros grandes, el taxi sigue siendo la opción más sencilla, confírmalo con el conductor.`,
+        `Temporada alta de mayo a octubre con calor intenso en pleno verano: reserva pronto un alojamiento pet-friendly y prioriza las temporadas intermedias (abril-mayo, octubre) para viajar con perro.`,
+      ],
+      pt: [
+        `Aeroporto de Antalya (AYT) a cerca de 13 km a leste do centro, um dos mais movimentados da Turquia, ligado a toda a Europa; elétrico Antray e autocarros de ligação para a cidade.`,
+        `Número único de emergência: 112 na Turquia, válido para qualquer urgência humana; localize à chegada uma clínica veterinária (veteriner) de Antalya para o seu cão.`,
+        `Formalidades de regresso à UE: estando a Turquia fora da UE, preveja microchip, vacinação antirrábica em vigor e sobretudo o teste de titulação serológica antirrábica realizado nos prazos regulamentares antes da partida.`,
+        `O elétrico nostálgico e a rede Antray toleram geralmente cães pequenos em transportadora; para cães grandes, o táxi continua a ser a opção mais simples, confirme com o condutor.`,
+        `Época alta de maio a outubro com calor intenso em pleno verão: reserve cedo um alojamento pet-friendly e prefira as épocas intermédias (abril-maio, outubro) para viajar com um cão.`,
+      ],
+    },
+  },
+
   antwerp: {
     history: {
       fr: `Anvers, capitale flamande du diamant et deuxième ville de Belgique, est une puissance commerciale depuis le XVIe siècle, époque où Rubens peignait et où le port rivalisait avec Venise. Aujourd'hui, ses 530 000 habitants partagent la ville avec une densité canine inhabituelle, la Flandre affiche l'un des plus hauts taux de possession de chiens d'Europe, et Anvers compte plusieurs centaines de zones de liberté clôturées (hondenlosloopzones). La ville prend le bien-être animal au sérieux : tous les chiens doivent être pucés et enregistrés dans DogID, et la laisse est stricte hors des zones désignées. Ville d'avant-garde grâce aux 'Six d'Anvers', elle est aussi étonnamment accueillante envers les compagnons à quatre pattes dans ses cafés et boutiques. Les quais de l'Escaut, le Grote Markt médiéval et le vaste parc de sculptures Middelheim sont des terrains de promenade de choix.`,
@@ -2829,6 +2936,113 @@ const cityContent: Record<string, CityContent> = {
         'Raças prohibidas UK (Dangerous Dogs Act 1991): Pit Bull, Tosa Japonés, Dogo Argentino, Fila Brasileiro, ilegal traer uma mesmo em tránsito.',
         'Os pubs UK admiten cães por defecto, mais do 80 % dois pubs fora de zonas de preparación de alimentos estrictas. Bath tem a mayor densidad do país.',
         'Cinco praias caninas o ano inteiro a menos de 1h: Berrow Beach (50 min de carro) e o extremo Uphill de Weston-super-Mare (45 min) são as mais fáceis.',
+      ],
+    },
+  },
+
+  batumi: {
+    history: {
+      fr: `Deuxième ville de Géorgie et capitale de l'Adjarie, Batumi s'étire au bord de la mer Noire, tout près de la frontière turque. Ancien comptoir puis station thermale prisée de l'époque impériale russe, la ville s'est réinventée en un surprenant mélange d'architecture Belle Époque restaurée et de gratte-ciel audacieux, dont la fameuse Tour de l'Alphabet qui célèbre les 33 lettres de l'écriture géorgienne. Le cœur battant en est le Boulevard de Batumi, une promenade plantée de 7 km qui longe la plage de galets, ponctuée de fontaines, de cafés et d'un téléphérique menant aux collines. Plus au sud, le jardin botanique déploie ses terrasses fleuries au-dessus des flots. Pour un voyageur avec chien, Batumi est accueillante : entrée facile en Géorgie, longue promenade en bord de mer idéale en laisse, et chiens errants municipaux paisibles, repérables à leur marque à l'oreille attestant vaccination et stérilisation.`,
+      en: `Georgia's second city and capital of Adjara, Batumi stretches along the Black Sea, right by the Turkish border. Once a trading post and then a fashionable spa town of the Russian imperial era, the city has reinvented itself as a surprising blend of restored Belle Epoque architecture and bold skyscrapers, including the famous Alphabet Tower celebrating the 33 letters of the Georgian script. Its beating heart is Batumi Boulevard, a 7 km planted promenade running along the pebble beach, dotted with fountains, cafes and a cable car climbing to the hills. Further south, the botanical garden unfolds its flowering terraces above the waves. For a traveller with a dog, Batumi is welcoming: easy entry into Georgia, a long seafront walk ideal on a leash, and calm municipal stray dogs recognisable by an ear tag attesting vaccination and neutering.`,
+      es: `Segunda ciudad de Georgia y capital de Adjaria, Batumi se extiende a orillas del mar Negro, muy cerca de la frontera turca. Antiguo enclave comercial y luego balneario de moda de la época imperial rusa, la ciudad se ha reinventado como una sorprendente mezcla de arquitectura Belle Époque restaurada y rascacielos audaces, entre ellos la famosa Torre del Alfabeto que celebra las 33 letras de la escritura georgiana. Su corazón palpitante es el Bulevar de Batumi, un paseo arbolado de 7 km que bordea la playa de guijarros, jalonado de fuentes, cafés y un teleférico que sube a las colinas. Más al sur, el jardín botánico despliega sus terrazas floridas sobre las olas. Para un viajero con perro, Batumi es acogedora: entrada fácil a Georgia, largo paseo marítimo ideal con correa, y perros callejeros municipales tranquilos, reconocibles por una marca en la oreja que atestigua vacunación y esterilización.`,
+      pt: `Segunda cidade da Geórgia e capital da Adjária, Batumi estende-se à beira do mar Negro, mesmo junto à fronteira turca. Antigo entreposto comercial e depois estância termal na moda da época imperial russa, a cidade reinventou-se como uma surpreendente mistura de arquitetura Belle Époque restaurada e arranha-céus audazes, entre eles a famosa Torre do Alfabeto que celebra as 33 letras da escrita georgiana. O seu coração pulsante é o Bulevar de Batumi, um passeio arborizado de 7 km que ladeia a praia de seixos, pontuado de fontes, cafés e um teleférico que sobe às colinas. Mais a sul, o jardim botânico desdobra os seus terraços floridos sobre as ondas. Para um viajante com cão, Batumi é acolhedora: entrada fácil na Geórgia, longo passeio marítimo ideal com trela, e cães errantes municipais tranquilos, reconhecíveis por uma marca na orelha que atesta vacinação e esterilização.`,
+    },
+    sights: [
+      { name: 'Batumi Bulvari', emoji: '🌴', petFriendly: true, desc: {
+        fr: `Boulevard de Batumi, promenade plantée de 7 km longeant la mer Noire, ponctuée de fontaines, sculptures et pistes cyclables. Chiens en laisse parfaitement à l'aise sur toute sa longueur, idéal en début de matinée ou à la fraîche du soir.`,
+        en: `Batumi Boulevard, a 7 km planted promenade running along the Black Sea, dotted with fountains, sculptures and cycle paths. Leashed dogs are perfectly at home along its full length, ideal in the early morning or the cool of the evening.`,
+        es: `Bulevar de Batumi, paseo arbolado de 7 km que bordea el mar Negro, jalonado de fuentes, esculturas y carriles bici. Perros con correa muy a gusto en toda su longitud, ideal a primera hora de la mañana o al fresco de la tarde.`,
+        pt: `Bulevar de Batumi, passeio arborizado de 7 km que ladeia o mar Negro, pontuado de fontes, esculturas e ciclovias. Cães com trela perfeitamente à vontade em todo o seu comprimento, ideal ao início da manhã ou ao fresco da tarde.`,
+      }},
+      { name: 'Batumi Botanical Garden', emoji: '🌿', petFriendly: true, desc: {
+        fr: `Vaste jardin botanique en terrasses au cap Verde, à 9 km au nord, l'un des plus riches de l'ex-URSS avec ses collections par régions du monde. Chiens en laisse admis sur les allées, prévoyez de l'eau et de bonnes chaussures pour les pentes.`,
+        en: `A vast terraced botanical garden on Green Cape, 9 km north, one of the richest of the former USSR with its collections arranged by world regions. Leashed dogs are allowed on the paths; bring water and good shoes for the slopes.`,
+        es: `Amplio jardín botánico en terrazas en el cabo Verde, a 9 km al norte, uno de los más ricos de la antigua URSS con sus colecciones por regiones del mundo. Perros con correa admitidos en los senderos, lleva agua y buen calzado para las cuestas.`,
+        pt: `Amplo jardim botânico em terraços no cabo Verde, a 9 km a norte, um dos mais ricos da antiga URSS com as suas coleções por regiões do mundo. Cães com trela admitidos nos trilhos, leve água e bom calçado para as encostas.`,
+      }},
+      { name: 'Piazza', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Place à l'italienne du vieux Batumi, mosaïques, campanile et façades néo-vénitiennes ceinturant un espace pavé bordé de cafés. Traversée agréable en laisse, la plupart des terrasses tolèrent les chiens à l'extérieur.`,
+        en: `An Italian-style square in old Batumi, with mosaics, a campanile and neo-Venetian facades ringing a paved space lined with cafes. A pleasant crossing on a leash, and most terraces tolerate dogs outside.`,
+        es: `Plaza de estilo italiano del viejo Batumi, con mosaicos, campanario y fachadas neovenecianas que rodean un espacio empedrado bordeado de cafés. Travesía agradable con correa, y la mayoría de las terrazas toleran perros fuera.`,
+        pt: `Praça de estilo italiano da velha Batumi, com mosaicos, campanário e fachadas neovenezianas a cercar um espaço de calçada ladeado de cafés. Travessia agradável com trela, e a maioria das esplanadas tolera cães no exterior.`,
+      }},
+      { name: 'Alphabet Tower', emoji: '🗼', petFriendly: false, desc: {
+        fr: `Tour de l'Alphabet, gratte-ciel en hélice de 130 m dont la structure célèbre les 33 lettres de l'écriture géorgienne, avec pont d'observation au sommet. Le parvis se parcourt en laisse, mais l'ascenseur et la plateforme intérieure n'admettent pas les chiens.`,
+        en: `The Alphabet Tower, a 130 m helix skyscraper whose structure celebrates the 33 letters of the Georgian script, with an observation deck at the top. The forecourt can be walked on a leash, but the lift and indoor platform do not admit dogs.`,
+        es: `Torre del Alfabeto, rascacielos en hélice de 130 m cuya estructura celebra las 33 letras de la escritura georgiana, con mirador en la cima. La explanada se recorre con correa, pero el ascensor y la plataforma interior no admiten perros.`,
+        pt: `Torre do Alfabeto, arranha-céus em hélice de 130 m cuja estrutura celebra as 33 letras da escrita georgiana, com miradouro no topo. O adro percorre-se com trela, mas o elevador e a plataforma interior não admitem cães.`,
+      }},
+      { name: 'Batumi Beach', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Longue plage de galets qui borde le boulevard sur des kilomètres, sans aménagement fermé sur la plus grande partie. Chiens en laisse tolérés sur les sections non surveillées hors des zones balnéaires estivales aménagées, tôt le matin de préférence.`,
+        en: `A long pebble beach edging the boulevard for kilometres, unmanaged along most of its length. Leashed dogs are tolerated on the unsupervised sections away from the managed summer bathing zones, preferably early in the morning.`,
+        es: `Larga playa de guijarros que bordea el bulevar durante kilómetros, sin acondicionar en la mayor parte. Perros con correa tolerados en las secciones no vigiladas fuera de las zonas de baño estivales acondicionadas, preferiblemente a primera hora.`,
+        pt: `Longa praia de seixos que ladeia o bulevar durante quilómetros, sem ordenamento na maior parte. Cães com trela tolerados nas secções não vigiadas fora das zonas balneares estivais ordenadas, de preferência de manhã cedo.`,
+      }},
+      { name: 'Argo Cable Car', emoji: '🚠', petFriendly: false, desc: {
+        fr: `Téléphérique Argo qui grimpe de la ville à la colline d'Anuria, offrant un panorama sur la baie et les montagnes d'Adjarie. Les chiens ne sont pas admis dans les cabines ; laissez le vôtre en bas et profitez plutôt du sentier des collines en laisse.`,
+        en: `The Argo cable car climbing from town to Anuria hill, offering a panorama over the bay and the mountains of Adjara. Dogs are not allowed in the cabins; leave yours below and enjoy the hill trail on a leash instead.`,
+        es: `Teleférico Argo que sube de la ciudad a la colina de Anuria, con panorama sobre la bahía y las montañas de Adjaria. Los perros no se admiten en las cabinas; deja al tuyo abajo y disfruta mejor del sendero de las colinas con correa.`,
+        pt: `Teleférico Argo que sobe da cidade à colina de Anuria, com panorama sobre a baía e as montanhas da Adjária. Os cães não são admitidos nas cabinas; deixe o seu em baixo e aproveite antes o trilho das colinas com trela.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Été humide et subtropical : de juin à septembre, chaleur lourde et forte humidité sur la mer Noire. Promenez tôt le matin et le soir, multipliez les pauses à l'ombre du boulevard et emportez de l'eau.`,
+        `Chiens errants à marque d'oreille : la ville gère un programme municipal de vaccination et stérilisation ; ces chiens sont généralement paisibles mais tenez le vôtre en laisse pour éviter les face-à-face.`,
+        `Plage de galets : agréable pour marcher en laisse hors saison, mais les galets chauffent en plein été et les zones balnéaires aménagées excluent les chiens l'été ; visez les sections non surveillées à l'aube.`,
+        `Retour vers l'UE depuis la Géorgie (pays hors UE) : prévoyez puce, vaccination antirabique valide et le test sérologique de titrage antirabique dans les délais réglementaires avant le départ.`,
+        `Le boulevard planté de 7 km est le meilleur terrain de promenade de la ville, ombragé et plat ; c'est là qu'il faut concentrer les sorties longues avec votre chien.`,
+      ],
+      en: [
+        `Humid subtropical summer: from June to September, heavy heat and high humidity on the Black Sea. Walk early morning and evening, take frequent shade breaks along the boulevard, and carry water.`,
+        `Ear-tagged stray dogs: the city runs a municipal vaccination and neutering programme; these dogs are generally calm, but keep yours leashed to avoid stand-offs.`,
+        `Pebble beach: pleasant for on-leash walks off season, but the pebbles heat up in high summer and the managed bathing zones exclude dogs in summer; aim for the unsupervised sections at dawn.`,
+        `Returning to the EU from Georgia (a non-EU country): plan for a microchip, a valid rabies vaccination and the rabies antibody titre test within the regulatory time before departure.`,
+        `The 7 km planted boulevard is the city's best walking ground, shaded and flat; focus your long outings with your dog there.`,
+      ],
+      es: [
+        `Verano húmedo y subtropical: de junio a septiembre, calor pesado y alta humedad en el mar Negro. Pasea a primera hora y por la tarde, haz pausas frecuentes a la sombra del bulevar y lleva agua.`,
+        `Perros callejeros con marca en la oreja: la ciudad gestiona un programa municipal de vacunación y esterilización; estos perros suelen ser tranquilos, pero mantén al tuyo con correa para evitar enfrentamientos.`,
+        `Playa de guijarros: agradable para pasear con correa fuera de temporada, pero los guijarros se calientan en pleno verano y las zonas de baño acondicionadas excluyen a los perros en verano; apunta a las secciones no vigiladas al amanecer.`,
+        `Regreso a la UE desde Georgia (país fuera de la UE): prevé microchip, vacunación antirrábica válida y el test serológico de titulación antirrábica en los plazos reglamentarios antes de la salida.`,
+        `El bulevar arbolado de 7 km es el mejor terreno de paseo de la ciudad, sombreado y llano; conviene concentrar allí las salidas largas con tu perro.`,
+      ],
+      pt: [
+        `Verão húmido e subtropical: de junho a setembro, calor pesado e forte humidade no mar Negro. Passeie de manhã cedo e à tarde, faça pausas frequentes à sombra do bulevar e leve água.`,
+        `Cães errantes com marca na orelha: a cidade gere um programa municipal de vacinação e esterilização; estes cães costumam ser tranquilos, mas mantenha o seu com trela para evitar confrontos.`,
+        `Praia de seixos: agradável para passear com trela fora de época, mas os seixos aquecem em pleno verão e as zonas balneares ordenadas excluem os cães no verão; aponte para as secções não vigiadas ao amanhecer.`,
+        `Regresso à UE a partir da Geórgia (país fora da UE): preveja microchip, vacinação antirrábica válida e o teste serológico de titulação antirrábica nos prazos regulamentares antes da partida.`,
+        `O bulevar arborizado de 7 km é o melhor terreno de passeio da cidade, sombreado e plano; concentre aí as saídas longas com o seu cão.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport international de Batumi (BUS) à environ 5 km au sud du centre, relié à plusieurs villes d'Europe et de la région ; taxis et bus vers le centre.`,
+        `Numéro d'urgence unique : 112 en Géorgie, valable pour toute urgence humaine ; repérez à l'arrivée une clinique vétérinaire de Batumi pour votre chien.`,
+        `Entrée en Géorgie facile pour la plupart des voyageurs (séjours touristiques sans visa longue durée pour de nombreuses nationalités) ; vérifiez les conditions selon votre passeport avant le départ.`,
+        `Retour vers l'UE : la Géorgie étant hors UE, anticipez puce, vaccination antirabique en cours et test de titrage sérologique antirabique réalisé dans les délais réglementaires avant de rentrer.`,
+        `Haute saison estivale de juin à septembre, très fréquentée : réservez tôt un hébergement pet-friendly ; le printemps et le début de l'automne sont plus doux pour voyager avec un chien.`,
+      ],
+      en: [
+        `Batumi International Airport (BUS) is about 5 km south of the centre, linked to several cities in Europe and the region; taxis and buses run into town.`,
+        `Single emergency number: 112 in Georgia, valid for any human emergency; on arrival, locate a Batumi veterinary clinic for your dog.`,
+        `Entry into Georgia is easy for most travellers (visa-free tourist stays for many nationalities); check the conditions for your passport before departure.`,
+        `Returning to the EU: as Georgia is outside the EU, plan ahead for a microchip, an in-date rabies vaccination and a rabies antibody titre test carried out within the regulatory time before you head home.`,
+        `The summer high season runs June to September and is very busy: book pet-friendly accommodation early; spring and early autumn are milder for travelling with a dog.`,
+      ],
+      es: [
+        `Aeropuerto internacional de Batumi (BUS) a unos 5 km al sur del centro, conectado con varias ciudades de Europa y de la región; taxis y autobuses hacia el centro.`,
+        `Número único de emergencias: 112 en Georgia, válido para cualquier urgencia humana; localiza al llegar una clínica veterinaria de Batumi para tu perro.`,
+        `Entrada a Georgia fácil para la mayoría de los viajeros (estancias turísticas sin visado para muchas nacionalidades); comprueba las condiciones según tu pasaporte antes de salir.`,
+        `Regreso a la UE: al estar Georgia fuera de la UE, anticipa microchip, vacunación antirrábica en vigor y test de titulación serológica antirrábica realizado en los plazos reglamentarios antes de volver.`,
+        `Temporada alta estival de junio a septiembre, muy concurrida: reserva pronto un alojamiento pet-friendly; la primavera y el comienzo del otoño son más suaves para viajar con perro.`,
+      ],
+      pt: [
+        `Aeroporto internacional de Batumi (BUS) a cerca de 5 km a sul do centro, ligado a várias cidades da Europa e da região; táxis e autocarros para o centro.`,
+        `Número único de emergência: 112 na Geórgia, válido para qualquer urgência humana; localize à chegada uma clínica veterinária de Batumi para o seu cão.`,
+        `Entrada na Geórgia fácil para a maioria dos viajantes (estadias turísticas sem visto para muitas nacionalidades); verifique as condições segundo o seu passaporte antes de partir.`,
+        `Regresso à UE: estando a Geórgia fora da UE, antecipe microchip, vacinação antirrábica em vigor e teste de titulação serológica antirrábica realizado nos prazos regulamentares antes de voltar.`,
+        `Época alta estival de junho a setembro, muito movimentada: reserve cedo um alojamento pet-friendly; a primavera e o início do outono são mais amenos para viajar com um cão.`,
       ],
     },
   },

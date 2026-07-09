@@ -16150,6 +16150,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  gjirokastra: {
+    history: {
+      fr: `Gjirokastër, dans le sud de l'Albanie, s'accroche au flanc d'une montagne au-dessus de la vallée du Drino, empilant ses maisons-tours ottomanes coiffées de lauzes grises qui lui valent son surnom de « ville de pierre ». Classée au patrimoine mondial de l'UNESCO, cette « cité des mille marches » conserve l'un des ensembles urbains ottomans les mieux préservés des Balkans. Un imposant château médiéval couronne la colline, dominant le vieux bazar pavé et les demeures fortifiées comme la maison Zekate. Ville natale de l'écrivain Ismail Kadaré et du dictateur Enver Hoxha, Gjirokastër marie histoire ottomane et vestiges de la guerre froide. Le relief très escarpé et les ruelles en galets exigent de bonnes chaussures, et l'été y est brûlant. Pour un voyageur avec chien, c'est une étape spectaculaire mais physique, à combiner avec l'excursion vers la source du Syri i Kaltër toute proche.`,
+      en: `Gjirokastra, in southern Albania, clings to a mountainside above the Drino valley, stacking Ottoman-era tower houses roofed in grey slate that earn it the nickname the "city of stone". A UNESCO World Heritage Site, this "city of a thousand steps" preserves one of the best-kept Ottoman urban ensembles in the Balkans. A vast medieval castle crowns the hill, looming over the cobbled Old Bazaar and fortified mansions such as the Zekate House. Birthplace of the writer Ismail Kadare and the dictator Enver Hoxha, Gjirokastra blends Ottoman heritage with Cold War relics. The very steep terrain and cobblestone lanes demand good footwear, and summers are scorching. For a traveller with a dog it is a spectacular but physical stop, best paired with a day trip to the nearby Blue Eye spring (Syri i Kalter).`,
+      es: `Gjirokastra, en el sur de Albania, se aferra a la ladera de una montaña sobre el valle del Drino, apilando casas-torre otomanas cubiertas de lajas grises que le valen el apodo de «ciudad de piedra». Declarada Patrimonio Mundial de la UNESCO, esta «ciudad de las mil escaleras» conserva uno de los conjuntos urbanos otomanos mejor preservados de los Balcanes. Un imponente castillo medieval corona la colina, dominando el viejo bazar empedrado y mansiones fortificadas como la casa Zekate. Cuna del escritor Ismail Kadare y del dictador Enver Hoxha, Gjirokastra combina herencia otomana y vestigios de la Guerra Fría. El relieve muy empinado y las callejuelas de guijarros exigen buen calzado, y el verano es abrasador. Para quien viaja con perro es una escala espectacular pero exigente, ideal para combinar con la excursión al manantial del Syri i Kalter, muy cercano.`,
+      pt: `Gjirokastra, no sul da Albânia, agarra-se à encosta de uma montanha sobre o vale do Drino, empilhando casas-torre da era otomana cobertas de lajes cinzentas que lhe valem a alcunha de «cidade de pedra». Classificada como Património Mundial da UNESCO, esta «cidade dos mil degraus» conserva um dos conjuntos urbanos otomanos mais bem preservados dos Balcãs. Um imponente castelo medieval coroa a colina, dominando o velho bazar empedrado e casarões fortificados como a casa Zekate. Terra natal do escritor Ismail Kadare e do ditador Enver Hoxha, Gjirokastra mistura herança otomana e vestígios da Guerra Fria. O relevo muito íngreme e as vielas de calhau exigem bom calçado, e o verão é escaldante. Para quem viaja com cão é uma paragem espetacular mas exigente, ideal para combinar com a excursão à nascente do Syri i Kalter, ali perto.`,
+    },
+    sights: [
+      { name: 'Kalaja e Gjirokastrës', emoji: '🏰', petFriendly: true, desc: {
+        fr: `L'immense forteresse médiévale qui couronne la colline, l'une des plus grandes des Balkans, avec ses remparts et sa vue plongeante sur la vallée du Drino. Les chiens en laisse sont admis dans l'enceinte extérieure et sur les chemins de ronde, mais pas dans le musée des armes installé à l'intérieur.`,
+        en: `The huge medieval fortress crowning the hill, one of the largest in the Balkans, with ramparts and sweeping views over the Drino valley. Leashed dogs are allowed in the outdoor grounds and along the walls, but not inside the arms museum housed within.`,
+        es: `La enorme fortaleza medieval que corona la colina, una de las mayores de los Balcanes, con murallas y vistas sobre el valle del Drino. Los perros con correa se admiten en el recinto exterior y en las murallas, pero no en el museo de armas que alberga en su interior.`,
+        pt: `A enorme fortaleza medieval que coroa a colina, uma das maiores dos Balcãs, com muralhas e vistas amplas sobre o vale do Drino. Os cães com trela são admitidos no recinto exterior e ao longo das muralhas, mas não no museu de armas instalado no interior.`,
+      }},
+      { name: 'Pazari i Vjetër', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `Le vieux bazar, cœur pavé de la ville, aux ruelles en galets escarpées bordées d'échoppes d'artisans, de cafés et de boutiques de tapis. Les chiens en laisse y sont bienvenus en extérieur ; attention aux pavés brûlants et glissants pour les coussinets en plein été.`,
+        en: `The Old Bazaar, the cobbled heart of town, with steep pebble lanes lined with artisan workshops, cafes and carpet shops. Leashed dogs are welcome outdoors; watch for hot, slippery cobbles that are hard on paws in high summer.`,
+        es: `El viejo bazar, corazón empedrado de la ciudad, con empinadas callejuelas de guijarros llenas de talleres artesanos, cafés y tiendas de alfombras. Los perros con correa son bienvenidos al aire libre; cuidado con los adoquines calientes y resbaladizos, duros para las almohadillas en pleno verano.`,
+        pt: `O velho bazar, coração empedrado da cidade, com vielas de calhau íngremes cheias de oficinas de artesãos, cafés e lojas de tapetes. Os cães com trela são bem-vindos ao ar livre; atenção às pedras quentes e escorregadias, duras para as patas em pleno verão.`,
+      }},
+      { name: 'Shtëpia e Zekateve', emoji: '🏛️', petFriendly: false, desc: {
+        fr: `La maison Zekate, spectaculaire demeure-tour ottomane de 1811 à triple arche, aux plafonds sculptés et aux salons décorés, l'une des plus belles d'Albanie. Le bâtiment historique ne se visite pas avec un animal, mais la montée pavée qui y mène offre déjà de belles vues.`,
+        en: `The Zekate House, a spectacular triple-arched Ottoman tower mansion from 1811 with carved ceilings and decorated salons, one of the finest in Albania. The historic building cannot be visited with a pet, but the cobbled climb up to it already offers fine views.`,
+        es: `La casa Zekate, espectacular mansión-torre otomana de 1811 con triple arco, techos tallados y salones decorados, una de las más bellas de Albania. El edificio histórico no se visita con animales, pero la subida empedrada hasta él ya ofrece hermosas vistas.`,
+        pt: `A casa Zekate, espetacular casarão-torre otomano de 1811 com tripla arcada, tetos esculpidos e salões decorados, um dos mais belos da Albânia. O edifício histórico não se visita com animais, mas a subida empedrada até lá já oferece belas vistas.`,
+      }},
+      { name: 'Tuneli i Luftës së Ftohtë', emoji: '🕳️', petFriendly: false, desc: {
+        fr: `Le tunnel de la guerre froide, immense bunker souterrain creusé sous le château pour abriter les autorités en cas d'attaque nucléaire, aujourd'hui ouvert aux visites guidées. L'espace souterrain, étroit et sombre, n'est pas adapté aux animaux, qui doivent rester en surface.`,
+        en: `The Cold War Tunnel, a vast underground bunker dug beneath the castle to shelter the authorities in case of nuclear attack, now open for guided tours. The narrow, dark underground space is not suitable for pets, which must stay above ground.`,
+        es: `El túnel de la Guerra Fría, enorme búnker subterráneo excavado bajo el castillo para refugiar a las autoridades en caso de ataque nuclear, hoy abierto a visitas guiadas. El espacio subterráneo, estrecho y oscuro, no es apto para animales, que deben quedarse en la superficie.`,
+        pt: `O túnel da Guerra Fria, enorme bunker subterrâneo escavado sob o castelo para abrigar as autoridades em caso de ataque nuclear, hoje aberto a visitas guiadas. O espaço subterrâneo, estreito e escuro, não é adequado a animais, que devem ficar à superfície.`,
+      }},
+      { name: 'Lugina e Drinos', emoji: '🏞️', petFriendly: true, desc: {
+        fr: `La vallée du Drino, large plaine agricole cernée de montagnes que domine la vieille ville, sillonnée de chemins et de sentiers panoramiques. Ses abords se prêtent à de longues promenades en laisse, avec des vues splendides sur Gjirokastër accrochée à son versant.`,
+        en: `The Drino valley, a broad farming plain ringed by mountains and overlooked by the old town, crossed by tracks and scenic paths. Its edges suit long leashed walks, with splendid views of Gjirokastra clinging to its slope.`,
+        es: `El valle del Drino, amplia llanura agrícola rodeada de montañas y dominada por el casco antiguo, surcada por caminos y senderos panorámicos. Sus alrededores invitan a largos paseos con correa, con vistas espléndidas de Gjirokastra colgada de su ladera.`,
+        pt: `O vale do Drino, ampla planície agrícola rodeada de montanhas e dominada pela cidade velha, atravessada por caminhos e trilhos panorâmicos. Os seus arredores convidam a longos passeios com trela, com vistas esplêndidas de Gjirokastra pendurada na sua encosta.`,
+      }},
+      { name: 'Syri i Kaltër', emoji: '💧', petFriendly: true, desc: {
+        fr: `L'Œil bleu, source karstique d'un bleu profond jaillissant en pleine nature à environ une heure de route, excursion classique depuis Gjirokastër. Le site en plein air se parcourt en laisse, mais la baignade des chiens dans la source est déconseillée pour préserver le lieu protégé.`,
+        en: `The Blue Eye, a deep-blue karstic spring welling up in open countryside about an hour's drive away, a classic day trip from Gjirokastra. The outdoor site can be walked on a leash, but letting dogs swim in the spring is discouraged to protect the reserve.`,
+        es: `El Ojo Azul, manantial kárstico de un azul intenso que brota en plena naturaleza a una hora en coche, excursión clásica desde Gjirokastra. El paraje al aire libre se recorre con correa, pero no se aconseja el baño de los perros en el manantial para preservar el espacio protegido.`,
+        pt: `O Olho Azul, nascente cársica de um azul intenso que brota em plena natureza a cerca de uma hora de carro, excursão clássica a partir de Gjirokastra. O local ao ar livre percorre-se com trela, mas não se aconselha o banho dos cães na nascente para preservar a reserva.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Attention chaleur estivale : de juin à septembre le thermomètre dépasse souvent 33 °C, promenez le chien tôt le matin ou en soirée et fuyez les pavés brûlants aux heures chaudes.`,
+        `Les ruelles en galets très pentues sont dures pour les coussinets et glissantes : surveillez les pattes et prévoyez des pauses à l'ombre lors des montées vers le château.`,
+        `Emportez toujours de l'eau : l'ombre est rare dans la vieille ville de pierre et sur les remparts, exposés en plein soleil.`,
+        `Des chiens errants marqués d'une boucle d'oreille (stérilisés et vaccinés par la municipalité) circulent en ville : tenez votre chien en laisse et évitez les confrontations.`,
+        `L'Albanie est hors UE : pour rentrer dans l'Union avec un chien, un test sérologique antirabique (titrage des anticorps) réalisé au moins 3 mois avant le retour est obligatoire, à anticiper largement.`,
+      ],
+      en: [
+        `Mind the summer heat: from June to September temperatures often top 33 °C, so walk the dog early or in the evening and avoid the scorching cobbles in the hottest hours.`,
+        `The very steep pebble lanes are hard on paws and slippery: watch the pads and take shaded breaks on the climbs up to the castle.`,
+        `Always carry water: shade is scarce in the old stone town and on the ramparts, which are fully exposed to the sun.`,
+        `Stray dogs with an ear tag (neutered and vaccinated by the municipality) roam the town: keep your dog leashed and avoid confrontations.`,
+        `Albania is outside the EU: to return to the Union with a dog, a rabies antibody titre test carried out at least 3 months before travel is mandatory, so plan well ahead.`,
+      ],
+      es: [
+        `Ojo con el calor estival: de junio a septiembre el termómetro suele superar los 33 °C, pasee al perro temprano o al atardecer y evite los adoquines abrasadores en las horas de más calor.`,
+        `Las callejuelas de guijarros muy empinadas son duras para las almohadillas y resbaladizas: vigile las patas y haga pausas a la sombra en las subidas al castillo.`,
+        `Lleve siempre agua: la sombra escasea en la vieja ciudad de piedra y en las murallas, expuestas a pleno sol.`,
+        `Por la ciudad circulan perros callejeros con una anilla en la oreja (esterilizados y vacunados por el municipio): mantenga a su perro con correa y evite enfrentamientos.`,
+        `Albania está fuera de la UE: para regresar a la Unión con un perro es obligatorio un test serológico de anticuerpos antirrábicos realizado al menos 3 meses antes del viaje, algo que hay que anticipar con mucho margen.`,
+      ],
+      pt: [
+        `Atenção ao calor de verão: de junho a setembro o termómetro ultrapassa muitas vezes os 33 °C, passeie o cão de manhã cedo ou ao fim do dia e evite as pedras escaldantes nas horas de maior calor.`,
+        `As vielas de calhau muito íngremes são duras para as patas e escorregadias: vigie as almofadinhas e faça pausas à sombra nas subidas ao castelo.`,
+        `Leve sempre água: a sombra é rara na velha cidade de pedra e nas muralhas, expostas em pleno sol.`,
+        `Circulam pela cidade cães vadios com uma argola na orelha (esterilizados e vacinados pelo município): mantenha o seu cão com trela e evite confrontos.`,
+        `A Albânia está fora da UE: para regressar à União com um cão é obrigatório um teste serológico de anticorpos antirrábicos feito pelo menos 3 meses antes da viagem, algo a antecipar com muita margem.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence général en Albanie : 112 ; on trouve aussi le 127 pour les secours médicaux et le 129 pour la police.`,
+        `Albanie hors UE : à l'entrée, puce et vaccination antirabique à jour ; pour le RETOUR dans l'UE, prévoir le test sérologique antirabique (titrage) au moins 3 mois avant.`,
+        `Monnaie : le lek albanais (ALL) ; prévoyez du liquide, les paiements par carte sont limités hors des grands établissements.`,
+        `Accès : pas d'aéroport à Gjirokastër ; l'aéroport de Tirana est à environ 3-4 h de route au nord, la ville se rejoint surtout en voiture ou en bus (furgon).`,
+        `Renseignez-vous à l'avance sur une clinique vétérinaire dans la région ; l'offre est limitée dans le sud de l'Albanie, confirmez les horaires par téléphone avant de vous déplacer.`,
+      ],
+      en: [
+        `General emergency number in Albania: 112; you will also find 127 for medical rescue and 129 for the police.`,
+        `Albania is outside the EU: on entry, a microchip and up-to-date rabies vaccination; for the RETURN to the EU, arrange the rabies antibody titre test at least 3 months ahead.`,
+        `Currency: the Albanian lek (ALL); carry cash, as card payments are limited outside larger establishments.`,
+        `Getting there: Gjirokastra has no airport; Tirana Airport is about 3-4 hours' drive to the north, and the town is reached mainly by car or bus (furgon).`,
+        `Check in advance for a veterinary clinic in the region; provision is limited in southern Albania, so confirm opening hours by phone before setting off.`,
+      ],
+      es: [
+        `Número de emergencia general en Albania: 112; también existen el 127 para emergencias médicas y el 129 para la policía.`,
+        `Albania está fuera de la UE: a la entrada, microchip y vacuna antirrábica al día; para el REGRESO a la UE, prevea el test serológico antirrábico al menos 3 meses antes.`,
+        `Moneda: el lek albanés (ALL); lleve efectivo, ya que los pagos con tarjeta son limitados fuera de los grandes establecimientos.`,
+        `Cómo llegar: Gjirokastra no tiene aeropuerto; el de Tirana está a unas 3-4 horas en coche hacia el norte, y a la ciudad se llega sobre todo en coche o autobús (furgon).`,
+        `Infórmese con antelación de una clínica veterinaria en la región; la oferta es limitada en el sur de Albania, confirme los horarios por teléfono antes de desplazarse.`,
+      ],
+      pt: [
+        `Número de emergência geral na Albânia: 112; existem ainda o 127 para emergências médicas e o 129 para a polícia.`,
+        `A Albânia está fora da UE: à entrada, microchip e vacina antirrábica em dia; para o REGRESSO à UE, prepare o teste serológico antirrábico pelo menos 3 meses antes.`,
+        `Moeda: o lek albanês (ALL); leve dinheiro, pois os pagamentos com cartão são limitados fora dos grandes estabelecimentos.`,
+        `Como chegar: Gjirokastra não tem aeroporto; o de Tirana fica a cerca de 3-4 horas de carro para norte, e a cidade alcança-se sobretudo de carro ou autocarro (furgon).`,
+        `Informe-se com antecedência sobre uma clínica veterinária na região; a oferta é limitada no sul da Albânia, confirme os horários por telefone antes de se deslocar.`,
+      ],
+    },
+  },
+
   glasgow: {
     history: {
       fr: `Glasgow tient son nom du gaélique 'Glas Cu' (le cher lieu vert) et la ville na fait sa devise, plus de 90 parcs municipaux dans ses limites, dont les 146 hectares du Pollok Country Park, seul parc national à l'intérieur d'une ville britannique. Capitale écossaise du commerce maritime au XIXe siècle, Glasgow a fait fortune grâce au Clyde et au tabac américain, puis s'est réinventée après le déclin industriel des années 1980 em capitale culturelle européenne (1990) et hub design international. Aujourd'hui ville de ~600 000 habitants au cœur du Strathclyde, elle compte certains des pubs et cafés les plus dog-friendly du Royaume-Uni, culture pub écossaise oblige. Particularité post-Brexit : les visiteurs depuis l'UE doivent obtenir un Animal Health Certificate (AHC) avant l'arrivée. Le métro (3e plus vieux au monde) est strict sur les chiens, mais ScotRail accepte gratuitement jusqu'à 2 chiens par billet adulte.`,
@@ -16420,6 +16527,113 @@ const cityContent: Record<string, CityContent> = {
         'Parques: Slottsskogen (137 ha, zonas sem trela no norte). Trädgårdsföreningen (entrada de pago, cães com trela em esplanada). Circuito Haga-Slottsskogen recomendado para passeios matutinos.',
         'Veterinários: Anicura Djursjukhuset (urgências 24/7). vária consultorios centrales em Vasastan e Linné, abiertos os sábados.',
         'Documentación: passaporte UE + microchip + rabia obrigatórios. As farmácias suecas (Apotek) venden antiparasitarios e medicamentos para animais.',
+      ],
+    },
+  },
+
+  gozo: {
+    history: {
+      fr: `Gozo (Għawdex en maltais) est la petite sœur verdoyante de Malte, à une trentaine de minutes de ferry au nord de l'île principale. Plus rurale, plus tranquille et plus lumineuse, elle vit au rythme de ses collines en terrasses, de ses villages coiffés d'immenses églises baroques et de ses criques turquoise. Sa capitale, Victoria (Rabat), est dominée par la Citadelle, forteresse fortifiée perchée d'où le regard embrasse toute l'île. Sur la côte, la mythique Fenêtre d'Azur de Dwejra s'est effondrée en 2017 mais le site reste spectaculaire, tout comme la plage de sable rouge de Ramla Bay ou les anciens marais salants de Marsalforn. Riche de temples préhistoriques et d'un fort héritage catholique, Gozo est une destination facile et sûre pour un voyageur avec chien, à condition de composer avec la chaleur méditerranéenne intense et le manque d'ombre en été.`,
+      en: `Gozo (Ghawdex in Maltese) is Malta's small, green sister island, a thirty-minute ferry ride north of the main island. More rural, quieter and brighter, it lives to the rhythm of terraced hills, villages crowned by huge Baroque churches and turquoise coves. Its capital, Victoria (Rabat), is dominated by the Citadella, a fortified hilltop stronghold with views over the whole island. On the coast, Dwejra's legendary Azure Window collapsed in 2017 but the site remains spectacular, as do the red-sand beach of Ramla Bay and the old salt pans of Marsalforn. Rich in prehistoric temples and a strong Catholic heritage, Gozo is an easy, safe destination for a traveller with a dog, provided you cope with the intense Mediterranean heat and the lack of shade in summer.`,
+      es: `Gozo (Għawdex en maltés) es la pequeña y verde isla hermana de Malta, a unos treinta minutos de ferry al norte de la isla principal. Más rural, tranquila y luminosa, vive al ritmo de sus colinas aterrazadas, sus pueblos coronados por enormes iglesias barrocas y sus calas turquesa. Su capital, Victoria (Rabat), está dominada por la Citadella, ciudadela fortificada en lo alto desde la que se abarca toda la isla. En la costa, la mítica Ventana Azul de Dwejra se derrumbó en 2017 pero el paraje sigue siendo espectacular, igual que la playa de arena roja de Ramla Bay o las antiguas salinas de Marsalforn. Rica en templos prehistóricos y con una fuerte herencia católica, Gozo es un destino cómodo y seguro para quien viaja con perro, siempre que se lidie con el intenso calor mediterráneo y la falta de sombra en verano.`,
+      pt: `Gozo (Għawdex em maltês) é a pequena e verdejante ilha irmã de Malta, a cerca de trinta minutos de ferry a norte da ilha principal. Mais rural, tranquila e luminosa, vive ao ritmo das suas colinas em socalcos, das aldeias coroadas por enormes igrejas barrocas e das enseadas turquesa. A sua capital, Victoria (Rabat), é dominada pela Citadella, cidadela fortificada no alto de onde se abarca toda a ilha. Na costa, a mítica Janela Azul de Dwejra ruiu em 2017 mas o local continua espetacular, tal como a praia de areia vermelha de Ramla Bay ou as antigas salinas de Marsalforn. Rica em templos pré-históricos e com uma forte herança católica, Gozo é um destino cómodo e seguro para quem viaja com cão, desde que se lide com o intenso calor mediterrânico e a falta de sombra no verão.`,
+    },
+    sights: [
+      { name: 'Cittadella', emoji: '🏰', petFriendly: true, desc: {
+        fr: `La Citadelle de Victoria, cœur fortifié perché de Gozo, aux remparts restaurés dominant l'île entière et ses ruelles de pierre dorée. Les chiens en laisse sont admis sur les remparts et dans les venelles à ciel ouvert, mais pas dans la cathédrale ni les musées intérieurs.`,
+        en: `The Citadella of Victoria, Gozo's fortified hilltop heart, with restored ramparts overlooking the whole island and its lanes of golden stone. Leashed dogs are allowed on the ramparts and in the open-air alleys, but not inside the cathedral or the indoor museums.`,
+        es: `La Citadella de Victoria, corazón fortificado en lo alto de Gozo, con murallas restauradas que dominan toda la isla y sus callejuelas de piedra dorada. Los perros con correa se admiten en las murallas y en los callejones al aire libre, pero no en la catedral ni en los museos interiores.`,
+        pt: `A Citadella de Victoria, coração fortificado no alto de Gozo, com muralhas restauradas que dominam toda a ilha e as suas vielas de pedra dourada. Os cães com trela são admitidos nas muralhas e nos becos ao ar livre, mas não na catedral nem nos museus interiores.`,
+      }},
+      { name: 'Ramla Bay', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `La plus belle plage de Gozo, vaste étendue de sable roux nichée entre les collines, avec les vestiges d'une villa romaine et la grotte de Calypso au-dessus. Les chiens sont généralement interdits sur cette plage surveillée en été ; hors saison la règle est parfois tolérée, à vérifier sur place.`,
+        en: `Gozo's finest beach, a broad sweep of reddish sand cradled between hills, with the remains of a Roman villa and Calypso's Cave above. Dogs are generally banned from this guarded beach in summer; off-season the rule is sometimes relaxed, so check locally.`,
+        es: `La mejor playa de Gozo, amplia extensión de arena rojiza acurrucada entre colinas, con los restos de una villa romana y la gruta de Calipso encima. Los perros suelen estar prohibidos en esta playa vigilada en verano; fuera de temporada la norma a veces se tolera, conviene comprobarlo in situ.`,
+        pt: `A melhor praia de Gozo, ampla extensão de areia avermelhada aninhada entre colinas, com as ruínas de uma villa romana e a gruta de Calipso por cima. Os cães costumam ser proibidos nesta praia vigiada no verão; fora de época a regra é por vezes tolerada, convém confirmar no local.`,
+      }},
+      { name: 'Wied il-Għasri', emoji: '🏞️', petFriendly: true, desc: {
+        fr: `Étroite crique en forme de fjord miniature, encaissée entre de hautes falaises au nord de l'île, prisée des nageurs et des plongeurs. Le sentier qui descend jusqu'à la petite grève de galets se parcourt en laisse, loin des foules, un havre à l'écart des plages surveillées.`,
+        en: `A narrow, fjord-like inlet squeezed between high cliffs on the island's north coast, popular with swimmers and divers. The path down to the small pebble cove can be walked on a leash, away from the crowds, a haven beyond the guarded beaches.`,
+        es: `Estrecha cala en forma de fiordo en miniatura, encajada entre altos acantilados en el norte de la isla, muy apreciada por nadadores y buceadores. El sendero que baja hasta la pequeña playa de guijarros se recorre con correa, lejos de las multitudes, un refugio al margen de las playas vigiladas.`,
+        pt: `Estreita enseada em forma de fiorde em miniatura, encaixada entre altas falésias no norte da ilha, apreciada por nadadores e mergulhadores. O trilho que desce até à pequena praia de calhau percorre-se com trela, longe das multidões, um refúgio à margem das praias vigiadas.`,
+      }},
+      { name: 'Dwejra', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Le site côtier spectaculaire de l'ancienne Fenêtre d'Azur (effondrée en 2017), avec la Mer intérieure, un lagon relié à la haute mer par un tunnel naturel, et le Fungus Rock. Le littoral rocheux se parcourt en laisse ; attention à la roche brûlante en été et aux abords sans barrière.`,
+        en: `The spectacular coastal site of the former Azure Window (collapsed in 2017), with the Inland Sea, a lagoon linked to the open sea by a natural tunnel, and Fungus Rock. The rocky shore can be walked on a leash; beware of hot rock in summer and the unfenced edges.`,
+        es: `El espectacular paraje costero de la antigua Ventana Azul (derrumbada en 2017), con el Mar Interior, una laguna unida al mar abierto por un túnel natural, y el Fungus Rock. El litoral rocoso se recorre con correa; cuidado con la roca ardiente en verano y con los bordes sin barrera.`,
+        pt: `O espetacular local costeiro da antiga Janela Azul (que ruiu em 2017), com o Mar Interior, uma lagoa ligada ao mar aberto por um túnel natural, e o Fungus Rock. O litoral rochoso percorre-se com trela; atenção à rocha escaldante no verão e às bordas sem barreira.`,
+      }},
+      { name: 'Salini ta\' Marsalforn', emoji: '🧂', petFriendly: true, desc: {
+        fr: `Les marais salants de Marsalforn, damier de bassins creusés dans la roche côtière depuis des siècles où l'on récolte encore le sel à la main en été. La promenade plate le long du rivage se fait aisément en laisse, superbe à la lumière rasante du soir.`,
+        en: `The Marsalforn salt pans, a chequerboard of basins carved into the coastal rock over centuries, where salt is still harvested by hand in summer. The flat walk along the shore is easily done on a leash, superb in the low evening light.`,
+        es: `Las salinas de Marsalforn, damero de balsas excavadas en la roca costera durante siglos donde aún se cosecha la sal a mano en verano. El paseo llano junto a la orilla se hace fácilmente con correa, precioso con la luz rasante del atardecer.`,
+        pt: `As salinas de Marsalforn, tabuleiro de tanques escavados na rocha costeira ao longo de séculos onde ainda se colhe o sal à mão no verão. O passeio plano junto à margem faz-se facilmente com trela, soberbo com a luz rasante do fim de tarde.`,
+      }},
+      { name: 'Ta\' Pinu', emoji: '⛪', petFriendly: false, desc: {
+        fr: `La basilique nationale de Ta' Pinu, sanctuaire marial isolé en pleine campagne près de Għarb, lieu de pèlerinage majeur de l'archipel. Les animaux ne sont pas admis à l'intérieur de l'église, mais les abords et le parvis, ouverts et dégagés, se parcourent en laisse.`,
+        en: `The national basilica of Ta' Pinu, a Marian shrine standing alone in open countryside near Gharb, a major pilgrimage site of the archipelago. Pets are not allowed inside the church, but the open surroundings and forecourt can be walked on a leash.`,
+        es: `La basílica nacional de Ta' Pinu, santuario mariano aislado en pleno campo cerca de Għarb, gran lugar de peregrinación del archipiélago. No se admiten animales en el interior de la iglesia, pero los alrededores y la explanada, abiertos y despejados, se recorren con correa.`,
+        pt: `A basílica nacional de Ta' Pinu, santuário mariano isolado em pleno campo perto de Għarb, grande local de peregrinação do arquipélago. Não são admitidos animais no interior da igreja, mas os arredores e o adro, abertos e desafogados, percorrem-se com trela.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Chaleur méditerranéenne extrême en été : de juin à septembre il fait souvent plus de 32 °C avec peu de nuages, promenez le chien tôt le matin ou après le coucher du soleil.`,
+        `Roche et sable brûlants : la pierre calcaire et le sable rouge chauffent énormément l'après-midi, testez le sol avec la main et évitez les surfaces trop chaudes pour les coussinets.`,
+        `Ombre rare et vent sec : Gozo est très minérale, emportez toujours de l'eau et de quoi faire de l'ombre lors des sorties côtières.`,
+        `Plages surveillées interdites aux chiens l'été (Ramla, Marsalforn, San Blas) ; repliez-vous sur les criques rocheuses comme Wied il-Għasri, souvent tolérées hors saison, à confirmer sur place.`,
+        `Le ferry Cirkewwa-Mġarr accepte les chiens (en laisse sur les ponts extérieurs), ce qui rend les allers-retours avec Malte simples et fréquents.`,
+      ],
+      en: [
+        `Extreme Mediterranean heat in summer: from June to September it often tops 32 °C with few clouds, so walk the dog early in the morning or after sunset.`,
+        `Hot rock and sand: the limestone and red sand heat up enormously in the afternoon, so test the ground with your hand and avoid surfaces too hot for paws.`,
+        `Scarce shade and dry wind: Gozo is very rocky, so always carry water and something to make shade on coastal outings.`,
+        `Guarded beaches ban dogs in summer (Ramla, Marsalforn, San Blas); fall back on rocky coves such as Wied il-Ghasri, often tolerated off-season, but confirm locally.`,
+        `The Cirkewwa-Mgarr ferry accepts dogs (leashed on the outer decks), making frequent day trips to and from Malta easy.`,
+      ],
+      es: [
+        `Calor mediterráneo extremo en verano: de junio a septiembre suele superarse los 32 °C con pocas nubes, pasee al perro temprano por la mañana o tras la puesta de sol.`,
+        `Roca y arena ardientes: la piedra caliza y la arena roja se calientan muchísimo por la tarde, pruebe el suelo con la mano y evite las superficies demasiado calientes para las almohadillas.`,
+        `Sombra escasa y viento seco: Gozo es muy mineral, lleve siempre agua y algo para dar sombra en las salidas costeras.`,
+        `Las playas vigiladas prohíben los perros en verano (Ramla, Marsalforn, San Blas); recurra a calas rocosas como Wied il-Għasri, a menudo toleradas fuera de temporada, confírmelo in situ.`,
+        `El ferry Cirkewwa-Mġarr admite perros (con correa en las cubiertas exteriores), lo que facilita las idas y venidas frecuentes con Malta.`,
+      ],
+      pt: [
+        `Calor mediterrânico extremo no verão: de junho a setembro ultrapassa muitas vezes os 32 °C com poucas nuvens, passeie o cão de manhã cedo ou após o pôr do sol.`,
+        `Rocha e areia escaldantes: a pedra calcária e a areia vermelha aquecem imenso à tarde, teste o solo com a mão e evite as superfícies demasiado quentes para as patas.`,
+        `Sombra escassa e vento seco: Gozo é muito rochosa, leve sempre água e algo para criar sombra nas saídas costeiras.`,
+        `As praias vigiadas proíbem cães no verão (Ramla, Marsalforn, San Blas); recorra a enseadas rochosas como Wied il-Għasri, muitas vezes toleradas fora de época, confirme no local.`,
+        `O ferry Cirkewwa-Mġarr aceita cães (com trela nos conveses exteriores), o que torna simples e frequentes as idas e vindas com Malta.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique à Malte : 112 (police, secours, pompiers), opérateurs anglophones ; l'anglais et le maltais sont les deux langues officielles.`,
+        `Accès : Gozo se rejoint par ferry depuis Ċirkewwa (nord de Malte) jusqu'à Mġarr, traversée d'environ 25-30 min, chiens admis en laisse sur les ponts extérieurs.`,
+        `Malte est dans l'UE : passeport européen pour animaux, puce et vaccination antirabique à jour suffisent, sans quarantaine ni traitement échinococcose obligatoire.`,
+        `Climat méditerranéen : étés très chauds et secs (jusqu'à 35 °C, vent sirocco), hivers doux ; la basse saison (octobre-avril) est bien plus agréable pour marcher avec un chien.`,
+        `Renseignez-vous à l'avance sur une clinique vétérinaire de l'île ou de Malte voisine ; l'offre est réduite sur Gozo, confirmez les horaires par téléphone.`,
+      ],
+      en: [
+        `Single emergency number in Malta: 112 (police, rescue, fire), with English-speaking operators; English and Maltese are the two official languages.`,
+        `Getting there: Gozo is reached by ferry from Cirkewwa (northern Malta) to Mgarr, a crossing of about 25-30 min, with dogs allowed on a leash on the outer decks.`,
+        `Malta is in the EU: an EU pet passport, microchip and up-to-date rabies vaccination are enough, with no quarantine or mandatory tapeworm treatment.`,
+        `Mediterranean climate: very hot, dry summers (up to 35 °C, sirocco wind) and mild winters; the low season (October to April) is far more pleasant for walking a dog.`,
+        `Check in advance for a veterinary clinic on the island or on nearby Malta; provision is limited on Gozo, so confirm opening hours by phone.`,
+      ],
+      es: [
+        `Número único de emergencias en Malta: 112 (policía, rescate, bomberos), con operadores en inglés; el inglés y el maltés son las dos lenguas oficiales.`,
+        `Cómo llegar: a Gozo se llega en ferry desde Ċirkewwa (norte de Malta) hasta Mġarr, una travesía de unos 25-30 min, con perros admitidos con correa en las cubiertas exteriores.`,
+        `Malta está en la UE: el pasaporte europeo para animales, el microchip y la vacuna antirrábica al día bastan, sin cuarentena ni tratamiento obligatorio contra la equinococosis.`,
+        `Clima mediterráneo: veranos muy calurosos y secos (hasta 35 °C, viento siroco) e inviernos suaves; la temporada baja (de octubre a abril) es mucho más agradable para pasear con un perro.`,
+        `Infórmese con antelación de una clínica veterinaria en la isla o en la vecina Malta; la oferta es reducida en Gozo, confirme los horarios por teléfono.`,
+      ],
+      pt: [
+        `Número único de emergência em Malta: 112 (polícia, socorro, bombeiros), com operadores em inglês; o inglês e o maltês são as duas línguas oficiais.`,
+        `Como chegar: Gozo alcança-se de ferry a partir de Ċirkewwa (norte de Malta) até Mġarr, uma travessia de cerca de 25-30 min, com cães admitidos com trela nos conveses exteriores.`,
+        `Malta está na UE: passaporte europeu para animais, microchip e vacina antirrábica em dia bastam, sem quarentena nem tratamento obrigatório contra a equinococose.`,
+        `Clima mediterrânico: verões muito quentes e secos (até 35 °C, vento siroco) e invernos suaves; a época baixa (de outubro a abril) é bem mais agradável para passear um cão.`,
+        `Informe-se com antecedência sobre uma clínica veterinária na ilha ou na vizinha Malta; a oferta é reduzida em Gozo, confirme os horários por telefone.`,
       ],
     },
   },

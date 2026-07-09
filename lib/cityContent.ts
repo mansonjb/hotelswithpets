@@ -4019,6 +4019,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  berat: {
+    history: {
+      fr: `Classée au patrimoine mondial de l'UNESCO, Berat est surnommée « la ville aux mille fenêtres » pour ses maisons ottomanes blanches empilées à flanc de colline, leurs larges baies vitrées se chevauchant comme des gradins au-dessus de la rivière Osum. La ville se partage entre deux quartiers historiques qui se font face : Mangalem sur la rive droite, au pied de la citadelle, et Gorica sur la rive gauche, reliés par un vieux pont de pierre piéton. Au sommet, le château de Berat (Kalaja) est une forteresse toujours habitée, où des familles vivent parmi les ruelles pavées, les églises byzantines et les remparts qui dominent la vallée. Fondée il y a plus de deux mille ans par les Illyriens, Berat a été byzantine, ottomane puis albanaise, gardant un rare mélange de mosquées et d'églises. En toile de fond se dresse le mont Tomorr, montagne sacrée culminant à plus de 2 400 mètres. Pour un voyageur avec un chien, Berat séduit par ses ruelles à ciel ouvert et les berges ombragées de l'Osum, mais impose de composer avec des pavés brûlants l'été et de fortes montées vers la citadelle.`,
+      en: `A UNESCO World Heritage Site, Berat is nicknamed the "town of a thousand windows" for its white Ottoman houses stacked up the hillside, their wide glazed bays overlapping like tiers above the Osum river. The town is split between two facing historic quarters: Mangalem on the right bank, below the citadel, and Gorica on the left bank, joined by an old stone pedestrian bridge. At the top, Berat Castle (Kalaja) is a still-inhabited fortress where families live among cobbled lanes, Byzantine churches and ramparts overlooking the valley. Founded more than two thousand years ago by the Illyrians, Berat has been Byzantine, Ottoman and then Albanian, keeping a rare mix of mosques and churches. Rising behind it is Mount Tomorr, a sacred peak topping 2,400 metres. For a traveller with a dog, Berat is appealing for its open-air lanes and the shaded banks of the Osum, but it means dealing with cobblestones that bake in summer and steep climbs up to the citadel.`,
+      es: `Declarada Patrimonio Mundial de la UNESCO, Berat es apodada «la ciudad de las mil ventanas» por sus casas otomanas blancas apiladas en la ladera, con sus amplios ventanales superpuestos como gradas sobre el río Osum. La ciudad se reparte entre dos barrios históricos enfrentados: Mangalem en la orilla derecha, al pie de la ciudadela, y Gorica en la orilla izquierda, unidos por un viejo puente de piedra peatonal. En lo alto, el castillo de Berat (Kalaja) es una fortaleza aún habitada, donde viven familias entre callejuelas empedradas, iglesias bizantinas y murallas que dominan el valle. Fundada hace más de dos mil años por los ilirios, Berat ha sido bizantina, otomana y luego albanesa, conservando una rara mezcla de mezquitas e iglesias. Al fondo se alza el monte Tomorr, montaña sagrada que supera los 2.400 metros. Para un viajero con perro, Berat seduce por sus callejuelas al aire libre y las orillas sombreadas del Osum, pero exige lidiar con adoquines ardientes en verano y fuertes subidas hasta la ciudadela.`,
+      pt: `Classificada como Património Mundial da UNESCO, Berat é apelidada de «cidade das mil janelas» pelas suas casas otomanas brancas empilhadas na encosta, com as suas amplas janelas envidraçadas sobrepostas como bancadas sobre o rio Osum. A cidade reparte-se por dois bairros históricos frente a frente: Mangalem na margem direita, ao pé da cidadela, e Gorica na margem esquerda, unidos por uma velha ponte de pedra pedonal. No topo, o castelo de Berat (Kalaja) é uma fortaleza ainda habitada, onde vivem famílias entre ruelas de calçada, igrejas bizantinas e muralhas que dominam o vale. Fundada há mais de dois mil anos pelos ilírios, Berat foi bizantina, otomana e depois albanesa, conservando uma rara mistura de mesquitas e igrejas. Ao fundo ergue-se o monte Tomorr, montanha sagrada que ultrapassa os 2.400 metros. Para um viajante com cão, Berat seduz pelas suas ruelas ao ar livre e pelas margens sombreadas do Osum, mas exige lidar com calçada escaldante no verão e subidas íngremes até à cidadela.`,
+    },
+    sights: [
+      { name: 'Kalaja (Berat Castle)', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Citadelle toujours habitée coiffant la colline, avec ses ruelles pavées, ses églises byzantines et des remparts offrant une vue plongeante sur la vallée de l'Osum. Les chiens en laisse sont les bienvenus dans les venelles et sur les remparts à ciel ouvert ; seuls les intérieurs (musées, églises) leur sont fermés.`,
+        en: `A still-inhabited citadel crowning the hill, with cobbled lanes, Byzantine churches and ramparts giving a sweeping view over the Osum valley. Leashed dogs are welcome in the alleys and on the open-air ramparts; only the interiors (museums, churches) are closed to them.`,
+        es: `Ciudadela aún habitada que corona la colina, con sus callejuelas empedradas, sus iglesias bizantinas y murallas que ofrecen una vista en picado sobre el valle del Osum. Los perros con correa son bienvenidos en los callejones y en las murallas al aire libre; solo los interiores (museos, iglesias) les están cerrados.`,
+        pt: `Cidadela ainda habitada que coroa a colina, com as suas ruelas de calçada, as suas igrejas bizantinas e muralhas que oferecem uma vista mergulhante sobre o vale do Osum. Os cães com trela são bem-vindos nos becos e nas muralhas ao ar livre; apenas os interiores (museus, igrejas) lhes estão fechados.`,
+      }},
+      { name: 'Mangalem', emoji: '🪟', petFriendly: true, desc: {
+        fr: `Quartier ottoman de la rive droite, au pied de la citadelle, dont les maisons blanches aux innombrables fenêtres ont valu à Berat son surnom. Balade en laisse pittoresque dans des ruelles en pente pavées ; sortez tôt le matin pour éviter la chaleur et l'affluence.`,
+        en: `The Ottoman quarter of the right bank, below the citadel, whose white houses with countless windows earned Berat its nickname. A picturesque on-leash stroll through steep cobbled lanes; head out early in the morning to avoid the heat and the crowds.`,
+        es: `Barrio otomano de la orilla derecha, al pie de la ciudadela, cuyas casas blancas de innumerables ventanas dieron a Berat su apodo. Paseo pintoresco con correa por callejuelas empinadas y empedradas; sal temprano por la mañana para evitar el calor y la afluencia.`,
+        pt: `Bairro otomano da margem direita, ao pé da cidadela, cujas casas brancas de inúmeras janelas deram a Berat a sua alcunha. Passeio pitoresco com trela por ruelas íngremes e calcetadas; saia cedo de manhã para evitar o calor e a afluência.`,
+      }},
+      { name: 'Gorica', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Quartier historique de la rive gauche, plus calme, relié à Mangalem par un vieux pont de pierre ottoman réservé aux piétons. Le pont et les ruelles de Gorica offrent l'un des plus beaux points de vue sur la ville et se prêtent aux balades canines en laisse.`,
+        en: `The quieter historic quarter of the left bank, linked to Mangalem by an old Ottoman stone bridge reserved for pedestrians. The bridge and the lanes of Gorica offer one of the finest views of the town and are ideal for on-leash dog walks.`,
+        es: `Barrio histórico de la orilla izquierda, más tranquilo, unido a Mangalem por un viejo puente de piedra otomano reservado a los peatones. El puente y las callejuelas de Gorica ofrecen uno de los mejores miradores de la ciudad y se prestan a los paseos caninos con correa.`,
+        pt: `Bairro histórico da margem esquerda, mais tranquilo, ligado a Mangalem por uma velha ponte de pedra otomana reservada aos peões. A ponte e as ruelas de Gorica oferecem um dos melhores miradouros da cidade e prestam-se aos passeios caninos com trela.`,
+      }},
+      { name: 'Onufri', emoji: '🖼️', petFriendly: false, desc: {
+        fr: `Musée d'iconographie installé dans l'église de la Dormition de la Vierge, à l'intérieur de la citadelle, dédié au maître peintre du XVIe siècle Onufri. Musée intérieur : les chiens n'y sont pas admis ; prévoyez de vous relayer ou d'attacher votre chien à l'ombre à proximité.`,
+        en: `An iconography museum set in the Church of the Dormition of St Mary, inside the citadel, devoted to the 16th-century master painter Onufri. An indoor museum: dogs are not admitted; plan to take turns or to leave your dog in the shade nearby.`,
+        es: `Museo de iconografía instalado en la iglesia de la Dormición de la Virgen, dentro de la ciudadela, dedicado al maestro pintor del siglo XVI Onufri. Museo de interior: los perros no están admitidos; prevé turnarte o dejar a tu perro a la sombra cerca.`,
+        pt: `Museu de iconografia instalado na igreja da Dormição da Virgem, dentro da cidadela, dedicado ao mestre pintor do século XVI Onufri. Museu de interior: os cães não são admitidos; preveja revezar-se ou deixar o seu cão à sombra por perto.`,
+      }},
+      { name: 'Osum', emoji: '🏞️', petFriendly: true, desc: {
+        fr: `La rivière Osum traverse Berat entre Mangalem et Gorica, ses berges plantées d'arbres offrant des promenades plates et ombragées au bord de l'eau. C'est l'itinéraire canin le plus agréable aux heures chaudes, à l'écart des ruelles pentues et des pavés brûlants.`,
+        en: `The Osum river runs through Berat between Mangalem and Gorica, its tree-lined banks offering flat, shaded walks by the water. It is the most pleasant dog route in the hot hours, away from the steep lanes and baking cobbles.`,
+        es: `El río Osum atraviesa Berat entre Mangalem y Gorica, con sus orillas arboladas que ofrecen paseos llanos y sombreados junto al agua. Es el itinerario canino más agradable en las horas de calor, lejos de las callejuelas empinadas y los adoquines ardientes.`,
+        pt: `O rio Osum atravessa Berat entre Mangalem e Gorica, com as suas margens arborizadas que oferecem passeios planos e sombreados junto à água. É o itinerário canino mais agradável nas horas de calor, longe das ruelas íngremes e da calçada escaldante.`,
+      }},
+      { name: 'Mali i Tomorrit', emoji: '⛰️', petFriendly: true, desc: {
+        fr: `Le mont Tomorr, montagne sacrée culminant à plus de 2 400 mètres, ferme l'horizon à l'est de Berat et forme un parc national de forêts et de sentiers. Randonnées canines en laisse dans un cadre sauvage ; emportez beaucoup d'eau et évitez les heures les plus chaudes en été.`,
+        en: `Mount Tomorr, a sacred peak topping 2,400 metres, closes the horizon east of Berat and forms a national park of forests and trails. On-leash dog hikes in a wild setting; carry plenty of water and avoid the hottest hours in summer.`,
+        es: `El monte Tomorr, montaña sagrada que supera los 2.400 metros, cierra el horizonte al este de Berat y forma un parque nacional de bosques y senderos. Rutas caninas con correa en un entorno salvaje; lleva mucha agua y evita las horas más calurosas en verano.`,
+        pt: `O monte Tomorr, montanha sagrada que ultrapassa os 2.400 metros, fecha o horizonte a leste de Berat e forma um parque nacional de florestas e trilhos. Caminhadas caninas com trela num cenário selvagem; leve muita água e evite as horas mais quentes no verão.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Chaleur estivale : de juin à septembre les températures dépassent souvent 33 °C et les pavés blancs de Mangalem et de la citadelle brûlent les coussinets ; sortez tôt le matin ou en soirée et testez le sol avec la main.`,
+        `Montées raides vers Kalaja : l'accès à la citadelle se fait par une rampe pavée longue et pentue, dure pour les vieux chiens ; prévoyez des pauses à l'ombre et de l'eau.`,
+        `Berges de l'Osum : c'est la promenade la plus fraîche aux heures chaudes, plate et ombragée, à privilégier plutôt que les ruelles en plein soleil.`,
+        `Chiens errants à marque auriculaire : Berat compte des chiens des rues stérilisés et identifiés par une étiquette à l'oreille, généralement calmes ; gardez votre chien en laisse et évitez les confrontations.`,
+        `Intérieurs fermés : les musées, mosquées et églises de la citadelle (dont Onufri) n'admettent pas les chiens ; prévoyez de vous relayer ou une ombre à proximité.`,
+      ],
+      en: [
+        `Summer heat: from June to September temperatures often top 33°C and the white cobbles of Mangalem and the citadel scorch paw pads; head out early morning or evening and test the ground with your hand.`,
+        `Steep climbs to Kalaja: the citadel is reached by a long, steep cobbled ramp, hard on older dogs; plan shaded breaks and water.`,
+        `The Osum banks: this is the coolest walk in the hot hours, flat and shaded, to favour over the lanes in full sun.`,
+        `Ear-tagged strays: Berat has sterilised street dogs marked with an ear tag, generally calm; keep your dog on a leash and avoid confrontations.`,
+        `Closed interiors: the citadel's museums, mosques and churches (including Onufri) do not admit dogs; plan to take turns or find shade nearby.`,
+      ],
+      es: [
+        `Calor estival: de junio a septiembre las temperaturas superan a menudo los 33 °C y los adoquines blancos de Mangalem y de la ciudadela queman las almohadillas; sal temprano por la mañana o al atardecer y prueba el suelo con la mano.`,
+        `Subidas empinadas a Kalaja: se accede a la ciudadela por una larga rampa empedrada y pendiente, dura para perros mayores; prevé pausas a la sombra y agua.`,
+        `Orillas del Osum: es el paseo más fresco en las horas de calor, llano y sombreado, preferible a las callejuelas a pleno sol.`,
+        `Perros callejeros con marca auricular: Berat tiene perros de la calle esterilizados e identificados con una etiqueta en la oreja, generalmente tranquilos; mantén a tu perro con correa y evita los enfrentamientos.`,
+        `Interiores cerrados: los museos, mezquitas e iglesias de la ciudadela (incluido Onufri) no admiten perros; prevé turnarte o una sombra cerca.`,
+      ],
+      pt: [
+        `Calor estival: de junho a setembro as temperaturas ultrapassam muitas vezes os 33 °C e a calçada branca de Mangalem e da cidadela queima as patas; saia de manhã cedo ou ao fim da tarde e teste o chão com a mão.`,
+        `Subidas íngremes até Kalaja: acede-se à cidadela por uma longa rampa calcetada e inclinada, dura para cães idosos; preveja pausas à sombra e água.`,
+        `Margens do Osum: é o passeio mais fresco nas horas de calor, plano e sombreado, preferível às ruelas a pleno sol.`,
+        `Cães errantes com marca na orelha: Berat tem cães de rua esterilizados e identificados com uma etiqueta na orelha, geralmente calmos; mantenha o seu cão com trela e evite confrontos.`,
+        `Interiores fechados: os museus, mesquitas e igrejas da cidadela (incluindo Onufri) não admitem cães; preveja revezar-se ou uma sombra por perto.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Albanie hors UE : pour rentrer dans l'UE, un chien doit être pucé, vacciné contre la rage et disposer d'un test sérique de titrage des anticorps antirabiques ; anticipez plusieurs mois avant le voyage.`,
+        `Numéro d'urgence : 112 fonctionne en Albanie pour toute urgence ; le 127 correspond au service médical d'urgence. Repérez à l'arrivée une clinique vétérinaire à Berat ou à Tirana.`,
+        `Accès : pas de train pour Berat ; comptez environ 2 h de route depuis l'aéroport de Tirana (TIA), en bus, en furgon (minibus) ou en voiture de location.`,
+        `Monnaie : le lek albanais (ALL) ; prévoyez des espèces, car de nombreux commerces et petites structures n'acceptent pas la carte.`,
+        `Ville pavée et pentue : Berat se parcourt surtout à pied ; chaussez votre chien de bonnes habitudes de laisse et gardez de l'eau, car les points d'ombre sont rares dans les quartiers hauts.`,
+      ],
+      en: [
+        `Albania is outside the EU: to return to the EU a dog must be microchipped, vaccinated against rabies and have a rabies antibody titre blood test; plan several months ahead of the trip.`,
+        `Emergency number: 112 works in Albania for any emergency; 127 is the medical emergency service. On arrival, locate a veterinary clinic in Berat or Tirana.`,
+        `Getting there: there is no train to Berat; allow about 2 hours by road from Tirana airport (TIA), by bus, furgon (minibus) or rental car.`,
+        `Currency: the Albanian lek (ALL); carry cash, as many shops and small businesses do not accept cards.`,
+        `A cobbled, hilly town: Berat is best explored on foot; keep your dog well leash-trained and carry water, as shade is scarce in the upper quarters.`,
+      ],
+      es: [
+        `Albania fuera de la UE: para volver a la UE un perro debe estar identificado con microchip, vacunado contra la rabia y disponer de un test serológico de titulación de anticuerpos antirrábicos; anticípate varios meses antes del viaje.`,
+        `Número de emergencia: el 112 funciona en Albania para cualquier urgencia; el 127 corresponde al servicio médico de urgencia. Localiza al llegar una clínica veterinaria en Berat o en Tirana.`,
+        `Cómo llegar: no hay tren a Berat; cuenta con unas 2 h de carretera desde el aeropuerto de Tirana (TIA), en autobús, en furgon (microbús) o en coche de alquiler.`,
+        `Moneda: el lek albanés (ALL); lleva efectivo, ya que muchos comercios y pequeños negocios no aceptan tarjeta.`,
+        `Ciudad empedrada y con cuestas: Berat se recorre sobre todo a pie; mantén a tu perro bien acostumbrado a la correa y lleva agua, pues la sombra escasea en los barrios altos.`,
+      ],
+      pt: [
+        `Albânia fora da UE: para regressar à UE um cão deve estar identificado com microchip, vacinado contra a raiva e dispor de um teste serológico de titulação de anticorpos antirrábicos; antecipe vários meses antes da viagem.`,
+        `Número de emergência: o 112 funciona na Albânia para qualquer urgência; o 127 corresponde ao serviço médico de emergência. Localize à chegada uma clínica veterinária em Berat ou em Tirana.`,
+        `Como chegar: não há comboio para Berat; conte com cerca de 2 h de estrada desde o aeroporto de Tirana (TIA), de autocarro, de furgon (minibus) ou de carro alugado.`,
+        `Moeda: o lek albanês (ALL); leve dinheiro, pois muitos comércios e pequenos negócios não aceitam cartão.`,
+        `Cidade calcetada e com subidas: Berat percorre-se sobretudo a pé; mantenha o seu cão bem habituado à trela e leve água, pois a sombra escasseia nos bairros altos.`,
+      ],
+    },
+  },
+
   berlin: {
     history: {
       fr: `Berlin est la capitale du dog-friendly em Europe, et ce n'est pas un mythe. On estime à 100 000 le nombre de chiens enregistrés dans la ville, avec une « taxe chien » (Hundesteuer) qui finance leur coexistence avec les humains. Berlin est une ville jeune : détruite à 70% pendant la Seconde Guerre mondiale, elle a été reconstruite et réinventée. La réunification de 1989 lui a redonné un élan unique. Aujourd'hui, avec ses 2 500 espaces verts représentant 30% de la surface totale de la ville, ses chiens qui montent librement dans le métro et entrent dans les magasins et les cafés, Berlin offre une qualité de vie canine sans équivalent em Europe.`,
@@ -4274,6 +4381,113 @@ const cityContent: Record<string, CityContent> = {
         'Lei suiza: a decisión de admitir cães corresponde a cada restaurador, a mayoría dicen sí, pregunta na entrada por cortesía.',
         'Centro compacto: do Zytglogge al BärenPark são 15 minutos a pé, a maioria das saídas no necesitan transporte.',
         'Adoquines de arenisca: ásperos para as almohadillas em verão (até 35°C em julho), quédate a a sombra dois soportales nas horas mais calurosas.',
+      ],
+    },
+  },
+
+  beziers: {
+    history: {
+      fr: `Perchée sur une colline dominant l'Orb, Béziers est l'une des plus vieilles villes de France, fondée bien avant l'arrivée des Romains qui en firent la colonie de Baeterrae. La ville garde le souvenir tragique de 1209, quand la croisade contre les Albigeois y massacra une grande partie de la population. De cette histoire mouvementée subsiste la cathédrale Saint-Nazaire, forteresse gothique campée sur son promontoire, dont la terrasse offre une vue immense sur les vignes du Languedoc. Béziers doit sa prospérité au vin et au génie de Pierre-Paul Riquet, enfant du pays qui conçut au XVIIe siècle le canal du Midi, aujourd'hui inscrit au patrimoine mondial de l'UNESCO. Ses neuf écluses de Fonseranes, escalier d'eau spectaculaire, comptent parmi les ouvrages les plus visités de la région. Ville de féria et de rugby, Béziers vit au rythme du Sud. Pour un voyageur avec un chien, elle offre les chemins de halage ombragés du canal, le Plateau des Poètes et un accès facile aux plages, à condition de composer avec la chaleur méditerranéenne et la foule de la féria d'août.`,
+      en: `Perched on a hill above the Orb, Béziers is one of France's oldest towns, founded long before the Romans made it the colony of Baeterrae. The town still recalls the tragedy of 1209, when the crusade against the Cathars massacred much of its population. From that turbulent history survives Saint-Nazaire cathedral, a Gothic fortress set on its promontory, whose terrace gives a vast view over the vineyards of the Languedoc. Béziers owes its prosperity to wine and to the genius of Pierre-Paul Riquet, a local son who designed the 17th-century Canal du Midi, now a UNESCO World Heritage Site. Its nine locks of Fonseranes, a spectacular water staircase, are among the most visited structures in the region. A town of feria and rugby, Béziers lives to the rhythm of the South. For a traveller with a dog, it offers the shaded towpaths of the canal, the Plateau des Poètes and easy access to the beaches, provided you cope with the Mediterranean heat and the August feria crowds.`,
+      es: `Encaramada en una colina que domina el Orb, Béziers es una de las ciudades más antiguas de Francia, fundada mucho antes de que los romanos la convirtieran en la colonia de Baeterrae. La ciudad conserva el recuerdo trágico de 1209, cuando la cruzada contra los cátaros masacró a gran parte de su población. De esa historia agitada subsiste la catedral de Saint-Nazaire, fortaleza gótica plantada sobre su promontorio, cuya terraza ofrece una inmensa vista sobre los viñedos del Languedoc. Béziers debe su prosperidad al vino y al genio de Pierre-Paul Riquet, hijo del país que concibió en el siglo XVII el canal del Midi, hoy inscrito en el Patrimonio Mundial de la UNESCO. Sus nueve esclusas de Fonseranes, espectacular escalera de agua, figuran entre las obras más visitadas de la región. Ciudad de feria y de rugby, Béziers vive al ritmo del Sur. Para un viajero con perro, ofrece los caminos de sirga sombreados del canal, el Plateau des Poètes y un fácil acceso a las playas, a condición de lidiar con el calor mediterráneo y la multitud de la feria de agosto.`,
+      pt: `Empoleirada numa colina que domina o Orb, Béziers é uma das cidades mais antigas de França, fundada muito antes de os romanos a terem tornado na colónia de Baeterrae. A cidade guarda a memória trágica de 1209, quando a cruzada contra os cátaros massacrou grande parte da sua população. Dessa história agitada subsiste a catedral de Saint-Nazaire, fortaleza gótica assente no seu promontório, cujo terraço oferece uma imensa vista sobre as vinhas do Languedoc. Béziers deve a sua prosperidade ao vinho e ao génio de Pierre-Paul Riquet, filho da terra que concebeu no século XVII o canal do Midi, hoje inscrito no Património Mundial da UNESCO. As suas nove eclusas de Fonseranes, espetacular escadaria de água, contam-se entre as obras mais visitadas da região. Cidade de feria e de râguebi, Béziers vive ao ritmo do Sul. Para um viajante com cão, oferece os caminhos de sirga sombreados do canal, o Plateau des Poètes e um fácil acesso às praias, desde que se lide com o calor mediterrânico e a multidão da feria de agosto.`,
+    },
+    sights: [
+      { name: 'Écluses de Fonseranes', emoji: '⚓', petFriendly: true, desc: {
+        fr: `Escalier d'eau de plusieurs bassins successifs sur le canal du Midi, chef-d'œuvre de Riquet et l'un des sites les plus visités du Languedoc. Le chemin de halage qui longe les écluses se parcourt à pied avec un chien en laisse, à l'ombre des platanes.`,
+        en: `A staircase of several successive locks on the Canal du Midi, Riquet's masterpiece and one of the most visited sites in the Languedoc. The towpath running alongside the locks can be walked with a leashed dog, in the shade of the plane trees.`,
+        es: `Escalera de agua de varios estanques sucesivos en el canal del Midi, obra maestra de Riquet y uno de los lugares más visitados del Languedoc. El camino de sirga que bordea las esclusas se recorre a pie con un perro con correa, a la sombra de los plátanos.`,
+        pt: `Escadaria de água de vários tanques sucessivos no canal do Midi, obra-prima de Riquet e um dos locais mais visitados do Languedoc. O caminho de sirga que ladeia as eclusas percorre-se a pé com um cão com trela, à sombra dos plátanos.`,
+      }},
+      { name: 'Cathédrale Saint-Nazaire', emoji: '⛪', petFriendly: false, desc: {
+        fr: `Cathédrale gothique fortifiée dominant l'Orb du haut de son promontoire, dont la terrasse offre l'une des plus belles vues sur la ville et les vignes. L'esplanade et le jardin de l'évêché autour se visitent en laisse, mais l'intérieur de la cathédrale est fermé aux chiens.`,
+        en: `A fortified Gothic cathedral overlooking the Orb from its promontory, whose terrace offers one of the finest views over the town and the vineyards. The esplanade and the bishop's garden around it can be visited on a leash, but the cathedral interior is closed to dogs.`,
+        es: `Catedral gótica fortificada que domina el Orb desde lo alto de su promontorio, cuya terraza ofrece una de las mejores vistas sobre la ciudad y los viñedos. La explanada y el jardín del obispado alrededor se visitan con correa, pero el interior de la catedral está cerrado a los perros.`,
+        pt: `Catedral gótica fortificada que domina o Orb do alto do seu promontório, cujo terraço oferece uma das melhores vistas sobre a cidade e as vinhas. A esplanada e o jardim do bispado à volta visitam-se com trela, mas o interior da catedral está fechado aos cães.`,
+      }},
+      { name: 'Plateau des Poètes', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Grand jardin paysager à l'anglaise au sud des Allées Paul-Riquet, avec ses arbres centenaires, son bassin et ses statues de poètes. Les chiens en laisse y sont admis sur les allées ombragées, un havre de fraîcheur bienvenu aux heures chaudes.`,
+        en: `A large English-style landscaped garden south of the Allées Paul-Riquet, with its century-old trees, pond and statues of poets. Leashed dogs are allowed on its shaded paths, a welcome haven of coolness in the hot hours.`,
+        es: `Gran jardín paisajista a la inglesa al sur de las Allées Paul-Riquet, con sus árboles centenarios, su estanque y sus estatuas de poetas. Los perros con correa están admitidos en sus paseos sombreados, un refugio de frescor bienvenido en las horas de calor.`,
+        pt: `Grande jardim paisagista à inglesa a sul das Allées Paul-Riquet, com as suas árvores centenárias, o seu tanque e as suas estátuas de poetas. Os cães com trela são admitidos nas suas alamedas sombreadas, um refúgio de frescura bem-vindo nas horas de calor.`,
+      }},
+      { name: 'Pont Vieux', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Pont médiéval en pierre enjambant l'Orb, d'où l'on embrasse la silhouette de la cathédrale dressée sur sa colline. La traversée à pied et les berges de l'Orb en contrebas offrent une jolie balade en laisse à l'écart de la circulation.`,
+        en: `A medieval stone bridge spanning the Orb, from which you take in the silhouette of the cathedral rising on its hill. The walk across and the banks of the Orb below make a pretty on-leash stroll away from the traffic.`,
+        es: `Puente medieval de piedra que salva el Orb, desde donde se abarca la silueta de la catedral erguida sobre su colina. El cruce a pie y las orillas del Orb más abajo ofrecen un bonito paseo con correa lejos del tráfico.`,
+        pt: `Ponte medieval de pedra que atravessa o Orb, de onde se abarca a silhueta da catedral erguida sobre a sua colina. A travessia a pé e as margens do Orb em baixo oferecem um bonito passeio com trela longe do trânsito.`,
+      }},
+      { name: 'Allées Paul-Riquet', emoji: '🌰', petFriendly: true, desc: {
+        fr: `Grande promenade plantée de platanes au cœur de Béziers, bordée de cafés, de terrasses et d'une statue de Riquet, animée par les marchés. Balade en laisse ombragée idéale pour flâner ; nombreuses terrasses où faire une pause avec son chien.`,
+        en: `A grand plane-tree-lined promenade at the heart of Béziers, edged with cafés, terraces and a statue of Riquet, animated by markets. A shaded on-leash stroll ideal for wandering; plenty of terraces to pause with your dog.`,
+        es: `Gran paseo plantado de plátanos en el corazón de Béziers, bordeado de cafés, terrazas y una estatua de Riquet, animado por los mercados. Paseo con correa sombreado ideal para deambular; numerosas terrazas donde hacer una pausa con tu perro.`,
+        pt: `Grande passeio plantado de plátanos no coração de Béziers, ladeado de cafés, esplanadas e uma estátua de Riquet, animado pelos mercados. Passeio com trela sombreado ideal para deambular; numerosas esplanadas onde fazer uma pausa com o seu cão.`,
+      }},
+      { name: 'Valras-Plage', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Station balnéaire méditerranéenne à une quinzaine de minutes au sud de Béziers, avec sa longue plage de sable et son port. Les chiens sont soumis à des restrictions estivales sur la plage principale ; visez les zones canines désignées et les horaires autorisés.`,
+        en: `A Mediterranean seaside resort about fifteen minutes south of Béziers, with its long sandy beach and harbour. Dogs face summer restrictions on the main beach; aim for the designated dog zones and permitted hours.`,
+        es: `Estación balnearia mediterránea a unos quince minutos al sur de Béziers, con su larga playa de arena y su puerto. Los perros están sujetos a restricciones estivales en la playa principal; apunta a las zonas caninas designadas y a los horarios permitidos.`,
+        pt: `Estância balnear mediterrânica a cerca de quinze minutos a sul de Béziers, com a sua longa praia de areia e o seu porto. Os cães estão sujeitos a restrições estivais na praia principal; aponte para as zonas caninas designadas e os horários permitidos.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Chaleur méditerranéenne : de juin à septembre les après-midi dépassent souvent 30 °C ; les chemins de halage ombragés du canal du Midi sont les meilleurs itinéraires aux heures chaudes, sortez tôt ou en soirée.`,
+        `Féria de Béziers en août : la ville se remplit de foules, de musique et de pétards pendant plusieurs jours ; tenez votre chien à l'écart du centre et prévoyez un lieu calme pour un animal sensible au bruit.`,
+        `Plages de Valras-Plage : les chiens sont généralement interdits sur la plage surveillée en été (mi-juin à mi-septembre) ; renseignez-vous sur les zones canines autorisées et les créneaux du matin.`,
+        `Chemins de halage du canal : plats, ombragés et longs, ils sont parfaits pour de grandes balades, mais gardez le chien en laisse à proximité des cyclistes et des écluses fréquentées.`,
+        `Eau et coussinets : emportez de l'eau et testez le pavé et le sable du sud avec la main aux heures les plus chaudes, ils peuvent brûler les pattes.`,
+      ],
+      en: [
+        `Mediterranean heat: from June to September afternoons often top 30°C; the shaded towpaths of the Canal du Midi are the best routes in the hot hours, so head out early or in the evening.`,
+        `Béziers feria in August: the town fills with crowds, music and firecrackers for several days; keep your dog away from the centre and plan a quiet spot for a noise-sensitive animal.`,
+        `Valras-Plage beaches: dogs are generally banned from the supervised beach in summer (mid-June to mid-September); check the permitted dog zones and morning slots.`,
+        `Canal towpaths: flat, shaded and long, they are perfect for big walks, but keep the dog leashed near cyclists and busy locks.`,
+        `Water and paws: carry water and test the southern cobbles and sand with your hand in the hottest hours, as they can burn paws.`,
+      ],
+      es: [
+        `Calor mediterráneo: de junio a septiembre las tardes superan a menudo los 30 °C; los caminos de sirga sombreados del canal del Midi son los mejores itinerarios en las horas de calor, sal temprano o al atardecer.`,
+        `Feria de Béziers en agosto: la ciudad se llena de multitudes, música y petardos durante varios días; mantén a tu perro lejos del centro y prevé un lugar tranquilo para un animal sensible al ruido.`,
+        `Playas de Valras-Plage: los perros suelen estar prohibidos en la playa vigilada en verano (mediados de junio a mediados de septiembre); infórmate de las zonas caninas permitidas y de las franjas de la mañana.`,
+        `Caminos de sirga del canal: llanos, sombreados y largos, son perfectos para grandes paseos, pero mantén al perro con correa cerca de los ciclistas y las esclusas concurridas.`,
+        `Agua y almohadillas: lleva agua y prueba con la mano el adoquín y la arena del sur en las horas más calurosas, pueden quemar las patas.`,
+      ],
+      pt: [
+        `Calor mediterrânico: de junho a setembro as tardes ultrapassam muitas vezes os 30 °C; os caminhos de sirga sombreados do canal do Midi são os melhores itinerários nas horas de calor, saia cedo ou ao fim da tarde.`,
+        `Feria de Béziers em agosto: a cidade enche-se de multidões, música e petardos durante vários dias; mantenha o seu cão longe do centro e preveja um local tranquilo para um animal sensível ao ruído.`,
+        `Praias de Valras-Plage: os cães costumam estar proibidos na praia vigiada no verão (meados de junho a meados de setembro); informe-se sobre as zonas caninas permitidas e as faixas da manhã.`,
+        `Caminhos de sirga do canal: planos, sombreados e longos, são perfeitos para grandes passeios, mas mantenha o cão com trela perto dos ciclistas e das eclusas movimentadas.`,
+        `Água e patas: leve água e teste com a mão a calçada e a areia do sul nas horas mais quentes, podem queimar as patas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Europe : 112 ; repérez à l'arrivée une clinique vétérinaire à Béziers pour votre chien.`,
+        `Accès : gare de Béziers sur la ligne TGV/TER entre Montpellier et Toulouse, aéroport de Béziers-Cap d'Agde à proximité, et sortie de l'A9 « La Languedocienne ».`,
+        `Réglementation française : chien tenu en laisse en ville, identification (puce ou tatouage) et vaccination antirabique recommandées ; les chiens de catégories 1 et 2 sont soumis à muselière et déclaration.`,
+        `Canal du Midi : les chemins de halage sont ouverts aux piétons et aux chiens en laisse ; certaines portions sont partagées avec les cyclistes, restez vigilant près des écluses.`,
+        `Haute saison estivale et féria d'août : les hébergements pet-friendly partent tôt et la ville est très animée ; réservez à l'avance et visez les ailes de saison pour plus de calme.`,
+      ],
+      en: [
+        `Europe's single emergency number is 112; on arrival, locate a veterinary clinic in Béziers for your dog.`,
+        `Getting there: Béziers station is on the TGV/TER line between Montpellier and Toulouse, Béziers-Cap d'Agde airport is nearby, and the A9 motorway exit is "La Languedocienne".`,
+        `French regulations: a dog must be leashed in town, identification (microchip or tattoo) and rabies vaccination are recommended; category 1 and 2 dogs are subject to muzzling and declaration.`,
+        `Canal du Midi: the towpaths are open to pedestrians and leashed dogs; some stretches are shared with cyclists, so stay alert near the locks.`,
+        `Peak summer season and August feria: pet-friendly accommodation books up early and the town is very lively; reserve ahead and aim for the shoulder seasons for more calm.`,
+      ],
+      es: [
+        `El número único de emergencias en Europa es el 112; localiza al llegar una clínica veterinaria en Béziers para tu perro.`,
+        `Cómo llegar: la estación de Béziers está en la línea TGV/TER entre Montpellier y Toulouse, el aeropuerto de Béziers-Cap d'Agde está cerca y la salida de la A9 es «La Languedocienne».`,
+        `Normativa francesa: el perro debe ir con correa en la ciudad, se recomiendan la identificación (microchip o tatuaje) y la vacunación antirrábica; los perros de categorías 1 y 2 están sujetos a bozal y declaración.`,
+        `Canal del Midi: los caminos de sirga están abiertos a los peatones y a los perros con correa; algunos tramos se comparten con ciclistas, mantente atento cerca de las esclusas.`,
+        `Temporada alta estival y feria de agosto: los alojamientos pet-friendly se agotan pronto y la ciudad está muy animada; reserva con antelación y apunta a las temporadas intermedias para más tranquilidad.`,
+      ],
+      pt: [
+        `O número único de emergência na Europa é o 112; localize à chegada uma clínica veterinária em Béziers para o seu cão.`,
+        `Como chegar: a estação de Béziers está na linha TGV/TER entre Montpellier e Toulouse, o aeroporto de Béziers-Cap d'Agde fica perto e a saída da autoestrada A9 é «La Languedocienne».`,
+        `Regulamentação francesa: o cão deve andar com trela na cidade, recomendam-se a identificação (microchip ou tatuagem) e a vacinação antirrábica; os cães das categorias 1 e 2 estão sujeitos a açaime e declaração.`,
+        `Canal do Midi: os caminhos de sirga estão abertos aos peões e aos cães com trela; alguns troços são partilhados com ciclistas, mantenha-se atento perto das eclusas.`,
+        `Época alta estival e feria de agosto: os alojamentos pet-friendly esgotam cedo e a cidade está muito animada; reserve com antecedência e aponte para as épocas intermédias para mais calma.`,
       ],
     },
   },

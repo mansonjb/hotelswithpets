@@ -23012,6 +23012,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  locarno: {
+    history: {
+      fr: `Blottie au bord du lac Majeur, Locarno est la ville la plus méridionale de Suisse, dans le canton italophone du Tessin. Son climat presque méditerranéen, doux et ensoleillé, y fait pousser palmiers, camélias et citronniers sur les rives du lac. Au cœur de la cité, la Piazza Grande aux arcades lombardes accueille chaque mois d'août le célèbre Festival du film de Locarno, dont l'écran géant illumine les nuits d'été. Au-dessus des toits, le sanctuaire de la Madonna del Sasso veille depuis le XVe siècle, accessible par un funiculaire ou un chemin de croix ombragé. Longtemps carrefour marchand entre l'Italie et les Alpes, Locarno vit aujourd'hui du tourisme, du lac et des vallées sauvages qui l'entourent, comme la Verzasca à l'eau émeraude. Pour le voyageur avec un chien, c'est une base douce mêlant promenades lacustres, téléphériques alpins et villages tessinois.`,
+      en: `Nestled on the shore of Lake Maggiore, Locarno is the southernmost town in Switzerland, in the Italian-speaking canton of Ticino. Its almost Mediterranean climate, mild and sunny, lets palms, camellias and lemon trees flourish along the lakefront. At the heart of town, the arcaded Piazza Grande hosts the famous Locarno Film Festival every August, its giant screen lighting up the summer nights. Above the rooftops, the Madonna del Sasso sanctuary has watched over the town since the fifteenth century, reached by funicular or a shaded pilgrims' path. Long a trading crossroads between Italy and the Alps, Locarno lives today on tourism, the lake and the wild valleys around it, such as the emerald-watered Verzasca. For the traveller with a dog, it is a gentle base blending lakeside strolls, alpine cable cars and Ticinese villages.`,
+      es: `Asomada a la orilla del lago Mayor, Locarno es la ciudad más meridional de Suiza, en el cantón italófono del Tesino. Su clima casi mediterráneo, suave y soleado, permite que crezcan palmeras, camelias y limoneros junto al lago. En el corazón de la ciudad, la Piazza Grande porticada acoge cada mes de agosto el célebre Festival de Cine de Locarno, cuya pantalla gigante ilumina las noches de verano. Sobre los tejados, el santuario de la Madonna del Sasso vela desde el siglo XV, accesible en funicular o por un vía crucis a la sombra. Durante siglos cruce de comercio entre Italia y los Alpes, Locarno vive hoy del turismo, del lago y de los valles salvajes que la rodean, como el Verzasca de aguas esmeralda. Para el viajero con perro, es una base apacible que combina paseos junto al lago, teleféricos alpinos y pueblos tesineses.`,
+      pt: `Debruçada sobre a margem do lago Maior, Locarno é a cidade mais meridional da Suíça, no cantão italófono do Tessino. O seu clima quase mediterrânico, suave e solarengo, faz crescer palmeiras, camélias e limoeiros junto ao lago. No coração da cidade, a Piazza Grande de arcadas acolhe todos os anos, em agosto, o célebre Festival de Cinema de Locarno, cujo ecrã gigante ilumina as noites de verão. Acima dos telhados, o santuário da Madonna del Sasso vela desde o século XV, acessível por funicular ou por uma via-sacra à sombra. Durante séculos um cruzamento comercial entre a Itália e os Alpes, Locarno vive hoje do turismo, do lago e dos vales selvagens que a rodeiam, como o Verzasca de águas esmeralda. Para o viajante com cão, é uma base tranquila que junta passeios à beira-lago, teleféricos alpinos e aldeias tessinesas.`,
+    },
+    sights: [
+      { name: 'Piazza Grande', emoji: '🎬', petFriendly: true, desc: {
+        fr: `La grande place à arcades au cœur de la ville, écrin du Festival du film de Locarno chaque mois d'août. Les chiens en laisse y déambulent volontiers hors des heures de foule, entre cafés et façades lombardes.`,
+        en: `The great arcaded square at the heart of town, home to the Locarno Film Festival every August. Leashed dogs wander it happily outside the busy hours, among cafés and Lombard façades.`,
+        es: `La gran plaza porticada en el corazón de la ciudad, sede del Festival de Cine de Locarno cada agosto. Los perros con correa pasean a gusto fuera de las horas de gentío, entre cafés y fachadas lombardas.`,
+        pt: `A grande praça de arcadas no coração da cidade, palco do Festival de Cinema de Locarno todos os anos em agosto. Os cães com trela passeiam à vontade fora das horas de multidão, entre cafés e fachadas lombardas.`,
+      }},
+      { name: 'Madonna del Sasso', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Le sanctuaire du XVe siècle perché au-dessus de la ville, accessible par funiculaire ou chemin de croix, avec une vue panoramique sur le lac. Les chiens en laisse sont admis sur les terrasses et les jardins ; l'intérieur de l'église leur est fermé.`,
+        en: `The fifteenth-century sanctuary perched above the town, reached by funicular or a pilgrims' path, with a panoramic view over the lake. Leashed dogs are welcome on the terraces and gardens; the church interior is off-limits to them.`,
+        es: `El santuario del siglo XV encaramado sobre la ciudad, accesible en funicular o por vía crucis, con vistas panorámicas al lago. Los perros con correa se admiten en las terrazas y jardines; el interior de la iglesia les está vedado.`,
+        pt: `O santuário do século XV empoleirado sobre a cidade, acessível por funicular ou via-sacra, com vista panorâmica sobre o lago. Os cães com trela são admitidos nos terraços e jardins; o interior da igreja está-lhes vedado.`,
+      }},
+      { name: 'Lungolago e Parco delle Camelie', emoji: '🌸', petFriendly: true, desc: {
+        fr: `La promenade du bord du lac et le parc des camélias, planté de milliers de variétés qui fleurissent au printemps. Idéal pour une balade en laisse au frais du matin, face au lac Majeur.`,
+        en: `The lakeside promenade and the camellia park, planted with thousands of varieties that bloom in spring. Ideal for a leashed stroll in the cool of the morning, facing Lake Maggiore.`,
+        es: `El paseo junto al lago y el parque de las camelias, plantado con miles de variedades que florecen en primavera. Ideal para un paseo con correa al fresco de la mañana, frente al lago Mayor.`,
+        pt: `O passeio à beira-lago e o parque das camélias, plantado com milhares de variedades que florescem na primavera. Ideal para um passeio com trela no fresco da manhã, virado para o lago Maior.`,
+      }},
+      { name: 'Cardada-Cimetta', emoji: '🚠', petFriendly: true, desc: {
+        fr: `Le téléphérique qui monte de la Madonna del Sasso vers les alpages et les points de vue de Cardada et Cimetta. Les chiens sont admis à bord moyennant un supplément, et les sentiers d'altitude restent frais l'été.`,
+        en: `The cable car rising from Madonna del Sasso to the alpine meadows and viewpoints of Cardada and Cimetta. Dogs are allowed on board for a small fee, and the high-altitude trails stay cool in summer.`,
+        es: `El teleférico que sube desde la Madonna del Sasso hacia los pastos y miradores de Cardada y Cimetta. Los perros se admiten a bordo con un suplemento, y los senderos de altura se mantienen frescos en verano.`,
+        pt: `O teleférico que sobe da Madonna del Sasso até aos pastos e miradouros de Cardada e Cimetta. Os cães são admitidos a bordo mediante um suplemento, e os trilhos de altitude mantêm-se frescos no verão.`,
+      }},
+      { name: 'Lago Maggiore', emoji: '⛵', petFriendly: true, desc: {
+        fr: `Les bateaux de ligne qui sillonnent le lac Majeur vers Ascona, les îles de Brissago ou l'Italie voisine. Les chiens en laisse voyagent à bord, souvent avec un billet réduit.`,
+        en: `The scheduled boats that criss-cross Lake Maggiore towards Ascona, the Brissago Islands or neighbouring Italy. Leashed dogs travel on board, often on a reduced ticket.`,
+        es: `Los barcos de línea que surcan el lago Mayor hacia Ascona, las islas de Brissago o la vecina Italia. Los perros con correa viajan a bordo, a menudo con billete reducido.`,
+        pt: `Os barcos de carreira que sulcam o lago Maior rumo a Ascona, às ilhas de Brissago ou à vizinha Itália. Os cães com trela viajam a bordo, muitas vezes com bilhete reduzido.`,
+      }},
+      { name: 'Valle Verzasca', emoji: '🏞️', petFriendly: true, desc: {
+        fr: `La vallée sauvage au nord de Locarno, célèbre pour sa rivière aux eaux émeraude et son pont romain de Lavertezzo. Randonnées en laisse le long des berges ; les courants sont forts et les rochers glissants.`,
+        en: `The wild valley north of Locarno, famous for its emerald-green river and the Roman bridge at Lavertezzo. Leashed hikes run along the banks; the currents are strong and the rocks slippery.`,
+        es: `El valle salvaje al norte de Locarno, célebre por su río de aguas esmeralda y el puente romano de Lavertezzo. Rutas con correa a lo largo de las orillas; las corrientes son fuertes y las rocas resbaladizas.`,
+        pt: `O vale selvagem a norte de Locarno, célebre pelo seu rio de águas esmeralda e pela ponte romana de Lavertezzo. Caminhadas com trela ao longo das margens; as correntes são fortes e as rochas escorregadias.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Dans les transports publics suisses, le chien voyage avec un billet demi-tarif ; une muselière peut être exigée sur certains bus et trains régionaux du Tessin, gardez-en une à portée.`,
+        `Attention saisonnière : les étés au bord du lac sont chauds et humides (30 °C et plus) ; promenez le chien tôt ou tard, et sachez qu'en août le Festival du film remplit la Piazza Grande d'une foule dense, mieux vaut l'éviter en soirée.`,
+        `Pour rafraîchir le chien, préférez les lidos peu fréquentés et l'embouchure de la Verzasca à Tenero ; le lido surveillé de la ville peut interdire les chiens en été.`,
+        `Le téléphérique de Cardada admet les chiens moyennant un supplément, et les sentiers d'altitude offrent une fraîcheur bienvenue quand le bord du lac devient étouffant.`,
+        `Dans la vallée de la Verzasca, tenez le chien en laisse près de la rivière émeraude : courants puissants, rochers glissants et zone naturelle protégée.`,
+      ],
+      en: [
+        `On Swiss public transport the dog travels on a half-fare ticket; a muzzle may be required on some regional buses and trains in Ticino, so keep one handy.`,
+        `Seasonal warning: summers by the lake are warm and humid (30 °C and above); walk the dog early or late, and note that in August the Film Festival packs Piazza Grande with dense crowds, best avoided in the evening.`,
+        `To cool the dog off, favour the quieter lidos and the mouth of the Verzasca at Tenero; the town's guarded lido may ban dogs in summer.`,
+        `The Cardada cable car takes dogs for a small fee, and the high trails offer welcome cool when the lakeshore turns stifling.`,
+        `In the Verzasca valley keep the dog leashed near the emerald river: strong currents, slippery rocks and a protected nature area.`,
+      ],
+      es: [
+        `En el transporte público suizo el perro viaja con billete de medio precio; puede exigirse bozal en algunos autobuses y trenes regionales del Tesino, lleva uno a mano.`,
+        `Aviso estacional: los veranos junto al lago son calurosos y húmedos (30 °C o más); pasea al perro temprano o tarde, y ten en cuenta que en agosto el Festival de Cine llena la Piazza Grande de gentío, mejor evitarla al anochecer.`,
+        `Para refrescar al perro, prefiere los lidos poco concurridos y la desembocadura del Verzasca en Tenero; el lido vigilado de la ciudad puede prohibir los perros en verano.`,
+        `El teleférico de Cardada admite perros con un suplemento, y los senderos de altura ofrecen un frescor bienvenido cuando la orilla del lago se vuelve sofocante.`,
+        `En el valle del Verzasca, mantén al perro con correa cerca del río esmeralda: corrientes fuertes, rocas resbaladizas y zona natural protegida.`,
+      ],
+      pt: [
+        `Nos transportes públicos suíços o cão viaja com bilhete de meio-preço; pode ser exigido açaimo em alguns autocarros e comboios regionais do Tessino, tenha um à mão.`,
+        `Aviso sazonal: os verões junto ao lago são quentes e húmidos (30 °C ou mais); passeie o cão cedo ou ao fim do dia, e saiba que em agosto o Festival de Cinema enche a Piazza Grande de multidão, melhor evitá-la ao anoitecer.`,
+        `Para refrescar o cão, prefira os lidos pouco concorridos e a foz do Verzasca em Tenero; o lido vigiado da cidade pode proibir cães no verão.`,
+        `O teleférico de Cardada admite cães mediante um suplemento, e os trilhos de altitude oferecem uma frescura bem-vinda quando a margem do lago se torna sufocante.`,
+        `No vale do Verzasca, mantenha o cão com trela perto do rio esmeralda: correntes fortes, rochas escorregadias e zona natural protegida.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `La Suisse est hors UE mais compatible passeport : un passeport européen pour animaux (ou un certificat sanitaire au modèle UE) avec vaccin antirabique valide et puce ISO est accepté à la frontière.`,
+        `Numéro d'urgence général : 112 (144 pour les secours médicaux) ; demandez à être orienté vers le vétérinaire de garde le plus proche.`,
+        `Accès : pas d'aéroport à Locarno ; les plus proches sont Milan-Malpensa (environ 85 km) et Lugano, avec des trains fréquents via Bellinzona vers le réseau suisse.`,
+        `Langue et monnaie : on parle italien au Tessin, et la monnaie est le franc suisse (CHF), pas l'euro, même si beaucoup de commerces acceptent les euros.`,
+        `Le chien voyage à demi-tarif dans les transports publics suisses ; laisse attendue sur les promenades, les téléphériques et les bateaux, et certains lidos excluent les chiens en plein été.`,
+      ],
+      en: [
+        `Switzerland is outside the EU but pet-passport-compatible: an EU pet passport (or an EU-model animal health certificate) with a valid rabies vaccination and an ISO microchip is accepted at the border.`,
+        `General emergency number: 112 (144 for medical dispatch); ask to be directed to the nearest on-call veterinarian.`,
+        `Getting there: there is no airport at Locarno; the nearest are Milan-Malpensa (about 85 km) and Lugano, with frequent trains via Bellinzona to the Swiss network.`,
+        `Language and currency: Italian is spoken in Ticino, and the currency is the Swiss franc (CHF), not the euro, though many shops accept euros.`,
+        `Dogs travel at half fare on Swiss public transport; a leash is expected on promenades, cable cars and boats, and some lidos exclude dogs in high summer.`,
+      ],
+      es: [
+        `Suiza está fuera de la UE pero es compatible con el pasaporte: un pasaporte europeo para mascotas (o un certificado sanitario según el modelo UE) con vacuna antirrábica vigente y microchip ISO se acepta en la frontera.`,
+        `Número de emergencia general: 112 (144 para urgencias médicas); pide que te orienten al veterinario de guardia más cercano.`,
+        `Cómo llegar: no hay aeropuerto en Locarno; los más próximos son Milán-Malpensa (unos 85 km) y Lugano, con trenes frecuentes vía Bellinzona hacia la red suiza.`,
+        `Idioma y moneda: en el Tesino se habla italiano, y la moneda es el franco suizo (CHF), no el euro, aunque muchos comercios aceptan euros.`,
+        `El perro viaja a mitad de precio en el transporte público suizo; se espera correa en los paseos, teleféricos y barcos, y algunos lidos excluyen los perros en pleno verano.`,
+      ],
+      pt: [
+        `A Suíça está fora da UE mas é compatível com o passaporte: um passaporte europeu para animais (ou um certificado sanitário no modelo UE) com vacina antirrábica válida e microchip ISO é aceite na fronteira.`,
+        `Número de emergência geral: 112 (144 para socorro médico); peça para ser encaminhado ao veterinário de serviço mais próximo.`,
+        `Como chegar: não há aeroporto em Locarno; os mais próximos são Milão-Malpensa (cerca de 85 km) e Lugano, com comboios frequentes via Bellinzona para a rede suíça.`,
+        `Língua e moeda: no Tessino fala-se italiano, e a moeda é o franco suíço (CHF), não o euro, embora muitos estabelecimentos aceitem euros.`,
+        `O cão viaja a meio-preço nos transportes públicos suíços; espera-se trela nos passeios, teleféricos e barcos, e alguns lidos excluem cães em pleno verão.`,
+      ],
+    },
+  },
+
   london: {
     history: {
       fr: `L'histoire de Londres s'étend du Londinium romain à la capitale mondiale d'aujourd'hui, peuplée de près de 9 millions d'habitants, et son attachement aux chiens est tout aussi profond. Le Royaume-Uni est une nation réputée pour son amour des chiens, avec environ 13 millions de chiens de compagnie, dont plus d'un million rien qu'à Londres. Les parcs royaux comme Hyde Park et Hampstead Heath accueillent les promenades sans laisse depuis plus d'un siècle, et les pubs affichent fièrement des panneaux 'dogs welcome'. Depuis le Brexit, les visiteurs européens ne peuvent plus utiliser le passeport européen pour animaux et doivent obtenir un Certificat Sanitaire Animal (AHC) délivré dans les 10 jours précédant le voyage. Un traitement contre le ténia est également requis 24 à 120 heures avant l'arrivée. Malgré les formalités, Londres reste l'une des capitales européennes les plus agréables à découvrir avec son chien.`,
@@ -23145,6 +23252,113 @@ const cityContent: Record<string, CityContent> = {
         'Melhores temporadas: abril-junho e setembro-outubro ofrecen temperaturas suaves e pouca chuva; evita agosto pelas multitudes e julho por olas de calor ocasionales superiores a 30°C.',
         'Urgência veterinária 24h: Royal Veterinary College Hospital Camden, +44 20 7387 8134, o The London Vet Clinic em Belgravia para o centro.',
         'As multas por excrementos caninos em Londres alcanzan 150 £ (sanción fija) e câmaras municipais como Westminster a aplican con rigor; as bolsas são obrigatórias em todo momento.',
+      ],
+    },
+  },
+
+  'los-angeles': {
+    history: {
+      fr: `Los Angeles s'étend sur près de 1 300 km2 entre l'océan Pacifique et les montagnes de San Gabriel, deuxième ville des États-Unis par la population. Fondée en 1781 sous le nom espagnol d'El Pueblo de Nuestra Señora la Reina de los Ángeles, elle est passée du Mexique aux États-Unis en 1848, avant que le pétrole, puis Hollywood au début du XXe siècle, n'en fassent la capitale mondiale du cinéma. Ville-mosaïque sans véritable centre unique, elle juxtapose un downtown de gratte-ciel, les collines de Griffith Park, les plages de Venice et Santa Monica, et un dédale d'autoroutes qui rappelle qu'ici presque tout se fait en voiture. Son climat méditerranéen offre un soleil quasi permanent, mais aussi des étés brûlants et une saison des feux. Pour le voyageur avec un chien, Los Angeles combine grands parcs urbains et sentiers, à condition de composer avec la chaleur et une ville pensée pour l'automobile.`,
+      en: `Los Angeles sprawls across nearly 1,300 km2 between the Pacific Ocean and the San Gabriel Mountains, the second-largest city in the United States by population. Founded in 1781 as the Spanish El Pueblo de Nuestra Señora la Reina de los Ángeles, it passed from Mexico to the United States in 1848 before oil, and then Hollywood in the early twentieth century, made it the film capital of the world. A mosaic city with no single true centre, it strings together a high-rise downtown, the hills of Griffith Park, the beaches of Venice and Santa Monica, and a maze of freeways that reminds you almost everything here is done by car. Its Mediterranean climate brings near-constant sun, but also scorching summers and a wildfire season. For the traveller with a dog, Los Angeles offers vast urban parks and trails, provided you plan around the heat and a city built for the automobile.`,
+      es: `Los Ángeles se extiende por casi 1.300 km2 entre el océano Pacífico y las montañas de San Gabriel, la segunda ciudad más poblada de Estados Unidos. Fundada en 1781 con el nombre español de El Pueblo de Nuestra Señora la Reina de los Ángeles, pasó de México a Estados Unidos en 1848 antes de que el petróleo, y luego Hollywood a comienzos del siglo XX, la convirtieran en la capital mundial del cine. Ciudad mosaico sin un único centro real, yuxtapone un downtown de rascacielos, las colinas de Griffith Park, las playas de Venice y Santa Monica, y un laberinto de autopistas que recuerda que aquí casi todo se hace en coche. Su clima mediterráneo ofrece un sol casi permanente, pero también veranos abrasadores y una temporada de incendios. Para el viajero con perro, Los Ángeles combina grandes parques urbanos y senderos, siempre que se cuente con el calor y una ciudad pensada para el automóvil.`,
+      pt: `Los Angeles estende-se por quase 1.300 km2 entre o oceano Pacífico e as montanhas de San Gabriel, a segunda cidade mais populosa dos Estados Unidos. Fundada em 1781 com o nome espanhol de El Pueblo de Nuestra Señora la Reina de los Ángeles, passou do México para os Estados Unidos em 1848 antes de o petróleo, e depois Hollywood no início do século XX, a tornarem a capital mundial do cinema. Cidade-mosaico sem um único centro verdadeiro, justapõe um downtown de arranha-céus, as colinas de Griffith Park, as praias de Venice e Santa Monica, e um labirinto de autoestradas que lembra que aqui quase tudo se faz de carro. O seu clima mediterrânico oferece sol quase permanente, mas também verões escaldantes e uma estação de incêndios. Para o viajante com cão, Los Angeles combina grandes parques urbanos e trilhos, desde que se conte com o calor e uma cidade pensada para o automóvel.`,
+    },
+    sights: [
+      { name: 'Griffith Park', emoji: '🌳', petFriendly: true, desc: {
+        fr: `L'un des plus grands parcs urbains d'Amérique du Nord, aux collines couvertes de sentiers. Les chiens y sont admis en laisse sur les chemins de randonnée, avec eau et ombre à prévoir l'été.`,
+        en: `One of the largest urban parks in North America, its hills laced with trails. Dogs are welcome on the leashed hiking paths, with water and shade to plan for in summer.`,
+        es: `Uno de los parques urbanos más grandes de Norteamérica, con colinas surcadas de senderos. Los perros se admiten con correa en las rutas de senderismo, previendo agua y sombra en verano.`,
+        pt: `Um dos maiores parques urbanos da América do Norte, com colinas cruzadas por trilhos. Os cães são admitidos com trela nos percursos de caminhada, prevendo água e sombra no verão.`,
+      }},
+      { name: 'Griffith Observatory', emoji: '🔭', petFriendly: true, desc: {
+        fr: `L'observatoire Art déco perché sur le mont Hollywood, avec vue sur la ville et le panneau Hollywood. Les chiens en laisse sont admis sur les pelouses et esplanades extérieures, mais pas à l'intérieur du bâtiment.`,
+        en: `The Art Deco observatory perched on Mount Hollywood, with views over the city and the Hollywood Sign. Leashed dogs are allowed on the outdoor lawns and terraces, but not inside the building.`,
+        es: `El observatorio art déco encaramado en el monte Hollywood, con vistas a la ciudad y al cartel de Hollywood. Los perros con correa se admiten en el césped y las explanadas exteriores, pero no dentro del edificio.`,
+        pt: `O observatório art déco empoleirado no monte Hollywood, com vista sobre a cidade e o letreiro de Hollywood. Os cães com trela são admitidos nos relvados e esplanadas exteriores, mas não dentro do edifício.`,
+      }},
+      { name: 'Runyon Canyon', emoji: '🥾', petFriendly: true, desc: {
+        fr: `Le canyon de randonnée le plus célèbre de la ville, prisé des propriétaires de chiens. Une partie des sentiers est autorisée sans laisse pour les chiens sous contrôle vocal ; peu d'ombre, emportez de l'eau.`,
+        en: `The city's most famous hiking canyon, beloved by dog owners. Part of the trails allow dogs off-leash under voice control; there is little shade, so carry water.`,
+        es: `El cañón de senderismo más famoso de la ciudad, muy querido por los dueños de perros. Parte de los senderos permite perros sin correa bajo control por voz; hay poca sombra, lleva agua.`,
+        pt: `O cânion de caminhada mais famoso da cidade, adorado pelos donos de cães. Parte dos trilhos permite cães sem trela sob controlo por voz; há pouca sombra, leve água.`,
+      }},
+      { name: 'Venice Beach Boardwalk', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `La célèbre promenade en front de mer, animée par des artistes de rue et des boutiques. Les chiens en laisse sont admis sur le boardwalk, mais interdits sur le sable de la plage, comme sur la plupart des plages du comté.`,
+        en: `The famous seafront promenade, lined with street performers and shops. Leashed dogs are allowed on the boardwalk, but banned from the beach sand, as on most county beaches.`,
+        es: `El famoso paseo marítimo, animado por artistas callejeros y tiendas. Los perros con correa se admiten en el boardwalk, pero están prohibidos en la arena de la playa, como en la mayoría de las playas del condado.`,
+        pt: `O famoso passeio marítimo, animado por artistas de rua e lojas. Os cães com trela são admitidos no passadiço, mas proibidos na areia da praia, como na maioria das praias do condado.`,
+      }},
+      { name: 'Santa Monica Pier', emoji: '🎡', petFriendly: true, desc: {
+        fr: `La jetée emblématique et sa fête foraine, prolongée par une large promenade côtière. Les chiens en laisse s'y promènent, mais le sable de la plage leur est interdit.`,
+        en: `The iconic pier with its amusement park, extended by a broad coastal promenade. Leashed dogs can stroll it, but the beach sand is off-limits to them.`,
+        es: `El icónico muelle con su parque de atracciones, prolongado por un amplio paseo costero. Los perros con correa pasean por él, pero la arena de la playa les está prohibida.`,
+        pt: `O emblemático cais com o seu parque de diversões, prolongado por um amplo passeio costeiro. Os cães com trela passeiam por ele, mas a areia da praia está-lhes vedada.`,
+      }},
+      { name: 'Downtown Arts District & Grand Park', emoji: '🏙️', petFriendly: true, desc: {
+        fr: `Le quartier des arts et le parc urbain de Grand Park, entre downtown et l'hôtel de ville. Rues murales, cafés en terrasse et pelouses se parcourent en laisse.`,
+        en: `The Arts District and the urban Grand Park, between downtown and City Hall. Mural-lined streets, sidewalk cafés and lawns are walkable on the leash.`,
+        es: `El barrio de las artes y el parque urbano Grand Park, entre el downtown y el ayuntamiento. Calles con murales, cafés en la acera y céspedes se recorren con correa.`,
+        pt: `O bairro das artes e o parque urbano Grand Park, entre o downtown e a câmara municipal. Ruas com murais, cafés na esplanada e relvados percorrem-se com trela.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La plupart des plages du comté de Los Angeles interdisent les chiens, y compris le sable de Venice et de Santa Monica ; la rare exception est Rosie's Dog Beach à Long Beach, seule plage canine officielle du comté.`,
+        `Attention saisonnière : l'été et le début de l'automne apportent une chaleur extrême et la fumée de la saison des feux, nocive pour les poumons des chiens ; sortez à l'aube ou au crépuscule, surveillez les alertes qualité de l'air, et testez le bitume de la main : trop chaud pour la paume, trop chaud pour les coussinets.`,
+        `Le métro et les bus de LA Metro n'admettent que les chiens d'assistance et les petits animaux en caisse de transport ; les grands chiens n'y sont pas autorisés, prévoyez une voiture ou un VTC acceptant les chiens.`,
+        `Griffith Park et Runyon Canyon offrent des kilomètres de sentiers (en laisse, et sans laisse sur une partie de Runyon), mais emportez beaucoup d'eau : les crêtes offrent peu d'ombre.`,
+        `Les chiens doivent rester en laisse sur les promenades de Venice et Santa Monica et sont interdits sur le sable ; gardez-les sur le boardwalk pour éviter les amendes.`,
+      ],
+      en: [
+        `Most LA County beaches ban dogs, including the sand at Venice and Santa Monica; the rare exception is Rosie's Dog Beach in Long Beach, the only official dog beach in the county.`,
+        `Seasonal warning: summer and early autumn bring extreme heat and wildfire-season smoke that harms dogs' lungs; walk at dawn or dusk, watch air-quality alerts, and test the pavement with your hand: too hot for your palm means too hot for paws.`,
+        `LA Metro rail and buses allow only service dogs and small pets in a carrier; large dogs are not permitted, so plan on a car or a dog-friendly rideshare.`,
+        `Griffith Park and Runyon Canyon offer miles of trails (leashed, and off-leash on part of Runyon), but carry plenty of water: the ridgelines give little shade.`,
+        `Dogs must stay leashed on the Venice and Santa Monica promenades and are banned from the sand; keep them on the boardwalk to avoid fines.`,
+      ],
+      es: [
+        `La mayoría de las playas del condado de Los Ángeles prohíben los perros, incluida la arena de Venice y Santa Monica; la rara excepción es Rosie's Dog Beach en Long Beach, la única playa canina oficial del condado.`,
+        `Aviso estacional: el verano y el principio del otoño traen calor extremo y humo de la temporada de incendios, dañino para los pulmones del perro; sal al amanecer o al atardecer, vigila las alertas de calidad del aire y prueba el asfalto con la mano: demasiado caliente para la palma, demasiado caliente para las almohadillas.`,
+        `El metro y los autobuses de LA Metro solo admiten perros de asistencia y mascotas pequeñas en transportín; los perros grandes no están permitidos, prevé un coche o un VTC que acepte perros.`,
+        `Griffith Park y Runyon Canyon ofrecen kilómetros de senderos (con correa, y sin correa en parte de Runyon), pero lleva mucha agua: las crestas dan poca sombra.`,
+        `Los perros deben ir con correa en los paseos de Venice y Santa Monica y están prohibidos en la arena; mantenlos en el boardwalk para evitar multas.`,
+      ],
+      pt: [
+        `A maioria das praias do condado de Los Angeles proíbe cães, incluindo a areia de Venice e Santa Monica; a rara exceção é Rosie's Dog Beach em Long Beach, a única praia canina oficial do condado.`,
+        `Aviso sazonal: o verão e o início do outono trazem calor extremo e fumo da estação de incêndios, nocivo para os pulmões dos cães; passeie ao amanhecer ou ao anoitecer, atente às alertas de qualidade do ar e teste o alcatrão com a mão: quente demais para a palma, quente demais para as almofadinhas.`,
+        `O metro e os autocarros da LA Metro só admitem cães de assistência e animais pequenos em transportadora; cães grandes não são permitidos, preveja um carro ou um TVDE que aceite cães.`,
+        `Griffith Park e Runyon Canyon oferecem quilómetros de trilhos (com trela, e sem trela numa parte de Runyon), mas leve muita água: as cristas dão pouca sombra.`,
+        `Os cães devem andar com trela nos passeios de Venice e Santa Monica e são proibidos na areia; mantenha-os no passadiço para evitar multas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Destination intérieure aux États-Unis : le passeport européen pour animaux ne s'applique pas ; depuis l'étranger, vérifiez les règles en vigueur des CDC pour l'entrée des chiens aux États-Unis, ainsi que la politique animaux de votre compagnie aérienne.`,
+        `Numéro d'urgence : 911 pour la police, les pompiers et les secours ; demandez à être orienté vers l'hôpital vétérinaire 24 h le plus proche.`,
+        `Accès et déplacements : l'aéroport de Los Angeles (LAX) est la principale porte d'entrée ; la ville dépend fortement de la voiture, et LA Metro limite les grands chiens, une location de voiture est donc souvent nécessaire.`,
+        `Climat : doux et ensoleillé la majeure partie de l'année, mais étés chauds et secs avec une saison des feux à la fin de l'été et à l'automne ; bitume brûlant et fumée sont les principaux dangers pour les chiens.`,
+        `Les lois sur la laisse s'appliquent dans les parcs et sur les plages ; les chiens sont interdits sur le sable de presque toutes les plages du comté de Los Angeles, Rosie's Dog Beach à Long Beach étant la principale exception.`,
+      ],
+      en: [
+        `This is a US domestic destination: the EU pet passport does not apply; from abroad, check current CDC rules for dogs entering the United States, plus your airline's pet policy.`,
+        `Emergency number: 911 for police, fire and medical; ask to be directed to the nearest 24-hour animal hospital.`,
+        `Getting there and around: Los Angeles International (LAX) is the main gateway; the city is heavily car-dependent, and LA Metro restricts large dogs, so a rental car is often necessary.`,
+        `Climate: mild and sunny most of the year, but summers are hot and dry with a late-summer and autumn wildfire season; hot pavement and smoke are the main hazards for dogs.`,
+        `Leash laws apply in parks and on beaches; dogs are banned from the sand on nearly all LA County beaches, with Rosie's Dog Beach in Long Beach the main exception.`,
+      ],
+      es: [
+        `Es un destino nacional de Estados Unidos: el pasaporte europeo para mascotas no se aplica; desde el extranjero, consulta las normas vigentes de los CDC para la entrada de perros en Estados Unidos, además de la política de mascotas de tu aerolínea.`,
+        `Número de emergencia: 911 para policía, bomberos y sanitarios; pide que te orienten al hospital veterinario 24 h más cercano.`,
+        `Cómo llegar y moverse: el aeropuerto de Los Ángeles (LAX) es la principal puerta de entrada; la ciudad depende mucho del coche, y LA Metro limita los perros grandes, por lo que suele hacer falta un coche de alquiler.`,
+        `Clima: suave y soleado la mayor parte del año, pero veranos calurosos y secos con una temporada de incendios a finales del verano y en otoño; el asfalto ardiente y el humo son los principales peligros para los perros.`,
+        `Las leyes de correa se aplican en parques y playas; los perros están prohibidos en la arena de casi todas las playas del condado de Los Ángeles, siendo Rosie's Dog Beach en Long Beach la principal excepción.`,
+      ],
+      pt: [
+        `É um destino doméstico dos Estados Unidos: o passaporte europeu para animais não se aplica; a partir do estrangeiro, verifique as regras em vigor dos CDC para a entrada de cães nos Estados Unidos, bem como a política de animais da sua companhia aérea.`,
+        `Número de emergência: 911 para polícia, bombeiros e socorro médico; peça para ser encaminhado ao hospital veterinário 24 h mais próximo.`,
+        `Como chegar e circular: o aeroporto de Los Angeles (LAX) é a principal porta de entrada; a cidade depende muito do carro, e a LA Metro limita os cães grandes, pelo que costuma ser necessário um carro de aluguer.`,
+        `Clima: ameno e solarengo a maior parte do ano, mas verões quentes e secos com uma estação de incêndios no fim do verão e no outono; o alcatrão escaldante e o fumo são os principais perigos para os cães.`,
+        `As leis de trela aplicam-se em parques e praias; os cães são proibidos na areia de quase todas as praias do condado de Los Angeles, sendo Rosie's Dog Beach em Long Beach a principal exceção.`,
       ],
     },
   },

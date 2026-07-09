@@ -8754,6 +8754,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'cap-ferret': {
+    history: {
+      fr: `Le Cap Ferret ferme la presqu'île qui sépare le bassin d'Arcachon de l'océan Atlantique, à la pointe sud de la Gironde. Ancien territoire de pêcheurs et d'ostréiculteurs, le lieu a gardé ses villages de cabanes colorées, L'Herbe et Le Canon, où l'on écaille encore l'huître face aux parcs du bassin. Au XIXe siècle, les premières villas balnéaires et le phare, élevé en 1840 puis reconstruit après la guerre, ont donné à la presqu'île son visage de station discrète, coincée entre la forêt de pins des Landes et les longues plages de sable. D'un côté les eaux calmes du bassin et ses cabanes tchanquées, de l'autre les vagues et les bancs de sable mouvants de l'Atlantique, dominés au loin par la dune du Pilat. Voyager ici avec un chien demande d'anticiper l'affluence estivale, les marées et les règles de plage propres à chaque rive.`,
+      en: `Cap Ferret closes the peninsula that separates the Arcachon Basin from the Atlantic Ocean, at the southern tip of the Gironde. Long a land of fishermen and oyster farmers, it has kept its villages of colourful cabins, L'Herbe and Le Canon, where oysters are still shucked facing the basin's beds. In the nineteenth century the first seaside villas and the lighthouse, raised in 1840 and rebuilt after the war, gave the peninsula its quiet-resort character, wedged between the pine forest of the Landes and the long sandy beaches. On one side the calm waters of the basin and its stilt cabins, on the other the waves and shifting sandbanks of the Atlantic, watched over in the distance by the Dune du Pilat. Travelling here with a dog means planning around the summer crowds, the tides and the beach rules specific to each shore.`,
+      es: `Cap Ferret cierra la península que separa la bahía de Arcachon del océano Atlántico, en la punta sur de la Gironda. Antiguo territorio de pescadores y ostricultores, ha conservado sus pueblos de cabañas de colores, L'Herbe y Le Canon, donde todavía se abren ostras frente a los criaderos de la bahía. En el siglo XIX, las primeras villas balnearias y el faro, levantado en 1840 y reconstruido tras la guerra, dieron a la península su aire de estación discreta, encajada entre el bosque de pinos de las Landas y las largas playas de arena. A un lado las aguas tranquilas de la bahía y sus cabañas sobre pilotes, al otro las olas y los bancos de arena cambiantes del Atlántico, vigilados a lo lejos por la Duna de Pilat. Viajar aquí con un perro exige anticipar la afluencia estival, las mareas y las normas de playa propias de cada orilla.`,
+      pt: `Cap Ferret fecha a península que separa a bacia de Arcachon do oceano Atlântico, na ponta sul de Gironde. Antigo território de pescadores e ostricultores, conservou as suas aldeias de cabanas coloridas, L'Herbe e Le Canon, onde ainda se abrem ostras frente aos viveiros da bacia. No século XIX, as primeiras vilas balneares e o farol, erguido em 1840 e reconstruído após a guerra, deram à península o seu ar de estância discreta, encaixada entre a floresta de pinheiros das Landes e as longas praias de areia. De um lado as águas calmas da bacia e as suas cabanas sobre estacas, do outro as ondas e os bancos de areia móveis do Atlântico, vigiados ao longe pela Duna do Pilat. Viajar aqui com um cão exige antecipar a afluência estival, as marés e as regras de praia próprias de cada margem.`,
+    },
+    sights: [
+      {
+        name: `Phare du Cap Ferret`,
+        emoji: `🗼`,
+        petFriendly: false,
+        desc: {
+          fr: `Le phare rouge et blanc domine la pointe du haut de ses 53 mètres et offre, après 258 marches, une vue sur le bassin, l'océan et la dune du Pilat. Les chiens ne montent pas dans la tour, mais le jardin et le petit bois de pins qui l'entourent se parcourent en laisse.`,
+          en: `The red-and-white lighthouse towers over the point at 53 metres and, after 258 steps, offers a view across the basin, the ocean and the Dune du Pilat. Dogs cannot climb the tower, but the garden and the small pine wood around it can be walked on leash.`,
+          es: `El faro rojo y blanco domina la punta con sus 53 metros y ofrece, tras 258 escalones, una vista de la bahía, el océano y la Duna de Pilat. Los perros no suben a la torre, pero el jardín y el pequeño bosque de pinos que lo rodean se recorren con correa.`,
+          pt: `O farol vermelho e branco domina a ponta com os seus 53 metros e oferece, após 258 degraus, uma vista sobre a bacia, o oceano e a Duna do Pilat. Os cães não sobem à torre, mas o jardim e o pequeno bosque de pinheiros em redor percorrem-se de trela.`,
+        },
+      },
+      {
+        name: `Villages ostréicoles de L'Herbe et Le Canon`,
+        emoji: `🦪`,
+        petFriendly: true,
+        desc: {
+          fr: `Deux hameaux d'ostréiculteurs aux cabanes basses et colorées, ruelles de sable et cabanes à dégustation face aux parcs à huîtres. On s'y promène en laisse au fil de l'eau, et de nombreuses terrasses acceptent les chiens sages.`,
+          en: `Two oyster-farming hamlets of low, colourful cabins, sandy lanes and tasting shacks facing the oyster beds. You can stroll on leash along the water, and many terraces welcome well-behaved dogs.`,
+          es: `Dos aldeas ostrícolas de cabañas bajas y coloridas, callejones de arena y casetas de degustación frente a los criaderos de ostras. Se pasea con correa junto al agua y muchas terrazas aceptan perros tranquilos.`,
+          pt: `Duas aldeias ostrícolas de cabanas baixas e coloridas, vielas de areia e casotas de degustação frente aos viveiros de ostras. Passeia-se de trela junto à água e muitas esplanadas aceitam cães calmos.`,
+        },
+      },
+      {
+        name: `Plage du Truc Vert`,
+        emoji: `🌊`,
+        petFriendly: true,
+        desc: {
+          fr: `Longue plage océane bordée de dunes et de forêt, réputée pour ses vagues et ses courants. Les chiens y sont généralement admis hors des zones surveillées et en dehors de la haute saison, tenez-les en laisse et méfiez-vous des baïnes et des marées.`,
+          en: `A long ocean beach fringed by dunes and forest, known for its waves and currents. Dogs are generally allowed away from the supervised zones and outside high season, keep them leashed and beware of rip currents and tides.`,
+          es: `Larga playa oceánica bordeada de dunas y bosque, famosa por sus olas y corrientes. Los perros suelen admitirse fuera de las zonas vigiladas y de la temporada alta, mantenlos con correa y ten cuidado con las corrientes y las mareas.`,
+          pt: `Longa praia oceânica ladeada de dunas e floresta, conhecida pelas suas ondas e correntes. Os cães são geralmente admitidos fora das zonas vigiadas e da época alta, mantenha-os de trela e cuidado com as correntes e as marés.`,
+        },
+      },
+      {
+        name: `Dune du Pilat`,
+        emoji: `⛰️`,
+        petFriendly: true,
+        desc: {
+          fr: `La plus haute dune de sable d'Europe, à la pointe opposée du bassin, culmine à plus de 100 mètres au-dessus de la forêt et de l'océan. Les chiens tenus en laisse peuvent gravir le sable, mais évitez la mi-journée l'été car il devient brûlant et sans ombre.`,
+          en: `The tallest sand dune in Europe, on the far side of the basin, rising more than 100 metres above forest and ocean. Leashed dogs may climb the sand, but avoid midday in summer as it turns scorching and shadeless.`,
+          es: `La duna de arena más alta de Europa, en el extremo opuesto de la bahía, se alza más de 100 metros sobre el bosque y el océano. Los perros con correa pueden subir la arena, pero evita el mediodía en verano porque se vuelve abrasadora y sin sombra.`,
+          pt: `A duna de areia mais alta da Europa, no extremo oposto da bacia, ergue-se mais de 100 metros acima da floresta e do oceano. Os cães com trela podem subir a areia, mas evite o meio-dia no verão porque fica escaldante e sem sombra.`,
+        },
+      },
+      {
+        name: `Pistes cyclables de la presqu'île`,
+        emoji: `🚴`,
+        petFriendly: true,
+        desc: {
+          fr: `Un réseau de pistes cyclables ombragées traverse la forêt de pins d'une rive à l'autre, du bassin à l'océan. Idéales pour marcher au frais avec un chien en laisse loin de la circulation, elles relient les villages entre eux.`,
+          en: `A network of shaded cycle paths crosses the pine forest from shore to shore, basin to ocean. Ideal for a cool walk with a leashed dog away from traffic, they link the villages together.`,
+          es: `Una red de carriles bici sombreados atraviesa el bosque de pinos de una orilla a otra, de la bahía al océano. Ideales para caminar al fresco con un perro con correa lejos del tráfico, conectan los pueblos entre sí.`,
+          pt: `Uma rede de ciclovias sombreadas atravessa a floresta de pinheiros de uma margem à outra, da bacia ao oceano. Ideais para caminhar ao fresco com um cão de trela longe do trânsito, ligam as aldeias entre si.`,
+        },
+      },
+      {
+        name: `Jetée Bélisaire et bac vers Arcachon`,
+        emoji: `⛴️`,
+        petFriendly: true,
+        desc: {
+          fr: `La grande jetée du village côté bassin, point de départ des bateaux qui traversent vers Arcachon en une vingtaine de minutes. Les chiens tenus en laisse sont admis à bord, ce qui permet une excursion sans voiture de l'autre côté du bassin.`,
+          en: `The village's long jetty on the basin side, departure point for the boats that cross to Arcachon in about twenty minutes. Leashed dogs are allowed on board, making a car-free excursion to the other side of the basin possible.`,
+          es: `El gran embarcadero del pueblo en el lado de la bahía, punto de partida de los barcos que cruzan a Arcachon en unos veinte minutos. Se admiten perros con correa a bordo, lo que permite una excursión sin coche al otro lado de la bahía.`,
+          pt: `O grande cais da aldeia do lado da bacia, ponto de partida dos barcos que atravessam para Arcachon em cerca de vinte minutos. Admitem-se cães com trela a bordo, o que permite uma excursão sem carro para o outro lado da bacia.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Règles de plage à deux vitesses: côté océan (Truc Vert, l'Horizon) les chiens sont tolérés hors zones surveillées et souvent interdits en juillet-août, côté bassin les plages urbaines les excluent en haute saison, renseignez-vous sur l'arrêté municipal en vigueur.`,
+        `Marées et courants de l'Atlantique: les baïnes (courants de retour) sont dangereuses même pour un chien qui nage, surveillez l'horaire des marées et ne le laissez pas entrer dans l'eau sur les plages océanes non surveillées.`,
+        `Affluence estivale: le village et les pistes se remplissent en juillet-août, privilégiez les balades tôt le matin ou en soirée et gardez le chien en laisse dans les ruelles des villages ostréicoles.`,
+        `La dune du Pilat et les plages océanes n'offrent aucune ombre et le sable devient brûlant l'été, emportez de l'eau et testez le sable avec la main avant de laisser marcher votre chien.`,
+        `Le bac vers Arcachon accepte les chiens tenus en laisse, une bonne alternative sans voiture, mais présentez un animal calme car le pont peut être bondé en saison.`,
+      ],
+      en: [
+        `Two-speed beach rules: on the ocean side (Truc Vert, l'Horizon) dogs are tolerated away from supervised zones and often banned in July and August, on the basin side the urban beaches exclude them in high season, check the current municipal by-law.`,
+        `Atlantic tides and currents: rip currents (baïnes) are dangerous even for a dog that swims, watch the tide timetable and do not let it enter the water on unsupervised ocean beaches.`,
+        `Summer crowds: the village and the paths fill up in July and August, favour walks early morning or evening and keep your dog leashed in the lanes of the oyster villages.`,
+        `The Dune du Pilat and the ocean beaches offer no shade and the sand turns scorching in summer, carry water and test the sand with your hand before letting your dog walk.`,
+        `The ferry to Arcachon accepts leashed dogs, a good car-free alternative, but bring a calm animal as the deck can be crowded in season.`,
+      ],
+      es: [
+        `Normas de playa a dos velocidades: en el lado del océano (Truc Vert, l'Horizon) los perros se toleran fuera de las zonas vigiladas y a menudo se prohíben en julio y agosto, en el lado de la bahía las playas urbanas los excluyen en temporada alta, consulta la ordenanza municipal vigente.`,
+        `Mareas y corrientes del Atlántico: las corrientes de retorno (baïnes) son peligrosas incluso para un perro que nada, vigila el horario de mareas y no lo dejes entrar al agua en las playas oceánicas sin vigilancia.`,
+        `Afluencia estival: el pueblo y los caminos se llenan en julio y agosto, prioriza los paseos a primera hora o al atardecer y mantén al perro con correa en los callejones de las aldeas ostrícolas.`,
+        `La Duna de Pilat y las playas oceánicas no ofrecen sombra y la arena se vuelve abrasadora en verano, lleva agua y comprueba la arena con la mano antes de dejar caminar a tu perro.`,
+        `El barco a Arcachon admite perros con correa, una buena alternativa sin coche, pero lleva un animal tranquilo porque la cubierta puede ir llena en temporada.`,
+      ],
+      pt: [
+        `Regras de praia a duas velocidades: do lado do oceano (Truc Vert, l'Horizon) os cães são tolerados fora das zonas vigiadas e muitas vezes proibidos em julho e agosto, do lado da bacia as praias urbanas excluem-nos em época alta, consulte o regulamento municipal em vigor.`,
+        `Marés e correntes do Atlântico: as correntes de retorno (baïnes) são perigosas mesmo para um cão que nada, vigie o horário das marés e não o deixe entrar na água nas praias oceânicas sem vigilância.`,
+        `Afluência estival: a aldeia e os caminhos enchem-se em julho e agosto, prefira passeios de manhã cedo ou ao entardecer e mantenha o cão de trela nas vielas das aldeias ostrícolas.`,
+        `A Duna do Pilat e as praias oceânicas não oferecem sombra e a areia fica escaldante no verão, leve água e teste a areia com a mão antes de deixar o seu cão caminhar.`,
+        `O barco para Arcachon aceita cães de trela, uma boa alternativa sem carro, mas leve um animal calmo porque o convés pode ir cheio em época alta.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Europe: 112 (secours, pompiers, police).`,
+        `Aéroport le plus proche: Bordeaux-Mérignac (BOD), à environ 70 km, l'accès se fait surtout en voiture par le bassin d'Arcachon.`,
+        `Climat océanique doux: étés chauds tempérés par la brise, hivers doux et humides, la mi-saison (mai-juin, septembre) est idéale pour voyager avec un chien avant l'affluence et les interdictions de plage estivales.`,
+        `La presqu'île se parcourt en voiture, à vélo ou avec les bus locaux, et un bateau relie Cap Ferret à Arcachon en une vingtaine de minutes, chiens en laisse admis à bord.`,
+        `Plusieurs cliniques vétérinaires desservent la presqu'île et le bassin (Lège-Cap-Ferret, Arès, Arcachon), demandez à votre hébergement le vétérinaire de garde le plus proche.`,
+      ],
+      en: [
+        `Single European emergency number: 112 (rescue, fire, police).`,
+        `Nearest airport: Bordeaux-Mérignac (BOD), about 70 km away, access is mostly by car around the Arcachon Basin.`,
+        `Mild oceanic climate: warm summers tempered by the sea breeze, mild damp winters, the shoulder seasons (May to June, September) are ideal for travelling with a dog before the crowds and the summer beach bans.`,
+        `The peninsula is explored by car, bike or local buses, and a boat links Cap Ferret to Arcachon in about twenty minutes, leashed dogs allowed on board.`,
+        `Several veterinary clinics serve the peninsula and the basin (Lège-Cap-Ferret, Arès, Arcachon), ask your accommodation for the nearest on-call vet.`,
+      ],
+      es: [
+        `Número de emergencia único en Europa: 112 (rescate, bomberos, policía).`,
+        `Aeropuerto más cercano: Burdeos-Mérignac (BOD), a unos 70 km, el acceso es sobre todo en coche por la bahía de Arcachon.`,
+        `Clima oceánico suave: veranos cálidos templados por la brisa, inviernos suaves y húmedos, la media temporada (de mayo a junio, septiembre) es ideal para viajar con perro antes de la afluencia y las prohibiciones de playa estivales.`,
+        `La península se recorre en coche, en bici o con los autobuses locales, y un barco une Cap Ferret con Arcachon en unos veinte minutos, con perros con correa admitidos a bordo.`,
+        `Varias clínicas veterinarias dan servicio a la península y la bahía (Lège-Cap-Ferret, Arès, Arcachon), pregunta en tu alojamiento por el veterinario de guardia más cercano.`,
+      ],
+      pt: [
+        `Número de emergência único na Europa: 112 (socorro, bombeiros, polícia).`,
+        `Aeroporto mais próximo: Bordéus-Mérignac (BOD), a cerca de 70 km, o acesso faz-se sobretudo de carro pela bacia de Arcachon.`,
+        `Clima oceânico ameno: verões quentes temperados pela brisa, invernos amenos e húmidos, a meia-estação (de maio a junho, setembro) é ideal para viajar com cão antes da afluência e das proibições de praia estivais.`,
+        `A península percorre-se de carro, de bicicleta ou com os autocarros locais, e um barco liga Cap Ferret a Arcachon em cerca de vinte minutos, com cães de trela admitidos a bordo.`,
+        `Várias clínicas veterinárias servem a península e a bacia (Lège-Cap-Ferret, Arès, Arcachon), pergunte no seu alojamento pelo veterinário de urgência mais próximo.`,
+      ],
+    },
+  },
+
   capri: {
     history: {
       fr: `Capri, île calcaire de 10,4 km² dans la baie de Naples, vit une histoire en deux temps : repaire impérial romain sous Auguste puis Tibère, qui y résida les onze dernières années de sa vie depuis la Villa Jovis, puis villégiature européenne réinventée à partir de la fin du XIXᵉ siècle, lorsque le médecin suédois Axel Munthe bâtit la Villa San Michele à Anacapri et que les écrivains et artistes du Nord en firent un mythe méditerranéen. L'île compte deux communes - Capri (sud-est, la Piazzetta, le port de Marina Grande) et Anacapri (nord-ouest, plus calme, plus haut, autour de la Piazza Caprile) - et environ 13 000 habitants permanents, multipliés par dix en haute saison. Pour les voyageurs avec animal, Capri est faisable mais exige une logistique précise : pas d'aéroport sur l'île, accès uniquement par ferry depuis Naples (Molo Beverello, 40-80 minutes selon le type de bateau) ou Sorrente (30 minutes), les quatre opérateurs - Caremar, NLG, SNAV, Alilauro - acceptent les chiens en laisse et muselés sur les ponts extérieurs toute l'année et les petits chiens en caisse à l'intérieur. La règle italienne nationale interdit les chiens sur les concessions balnéaires payantes du 15 mai au 30 septembre, ce qui couvre la majorité du littoral accessible de Capri ; les rivages rocheux publics du phare de Punta Carena à Anacapri et le bord libre de Marina Piccola restent ouverts en laisse à l'année. Point critique : Capri n'a aucun hôpital vétérinaire 24h/24 sur l'île, l'hôpital de référence est la Clinica San Francesco à Naples, à joindre par le dernier ferry du soir (vers 22h en été) ou un transfert privé en hors-bord. Anacapri est la base la plus calme avec un chien, loin de la cohue estivale de la Piazzetta de Capri-ville.`,
@@ -9161,6 +9298,143 @@ const cityContent: Record<string, CityContent> = {
         `Documentos: passaporte europeu + microchip + vacina antirrábica em dia bastam para entrada a partir da UE. Os visitantes fora da UE precisam de certificado sanitário do país de origem + microchip ISO + vacina antirrábica válida; os animais americanos exigem o formulário APHIS 7001 com endosso consular.`,
         `Pet-sitting: Rover.fr e Gudog.fr cobrem Carcassonne com cerca de trinta cuidadores na Bastide e nos bairros a leste; conte com 25–35 € por meio dia e 30–45 € por uma noite completa. Reserve com 24–48 h de antecedência em julho–agosto.`,
         `Clima: invernos suaves e chuvosos 7–10 °C, verões quentes e secos com média de 25–28 °C mas picos regulares a 35–38 °C em julho–agosto, outonos longos e quentes até outubro. Aponte para abril–junho ou setembro–outubro como janela confortável com cão.`,
+      ],
+    },
+  },
+
+  cartagena: {
+    history: {
+      fr: `Cartagena occupe une rade profonde du sud-est espagnol, dans la Région de Murcie, protégée par des collines fortifiées qui en ont fait l'un des grands ports militaires de la Méditerranée. Fondée par les Carthaginois sous le nom de Qart Hadasht puis conquise par Rome, qui en fit Carthago Nova, la ville conserve un exceptionnel théâtre romain du Ier siècle, redécouvert en 1988 et adossé à la colline du château. Aux XIXe et début XXe siècles, la richesse minière de la sierra voisine a financé une flambée de façades modernistes le long de la Calle Mayor. Le port abrite toujours l'arsenal de la marine et le Peral, premier sous-marin à propulsion électrique, tandis que les collines couronnées de forts dominent la baie. Voyager ici avec un chien suppose de composer avec la forte chaleur estivale et les règles de plage saisonnières de la côte murcienne.`,
+      en: `Cartagena occupies a deep natural harbour in south-east Spain, in the Region of Murcia, sheltered by fortified hills that made it one of the great military ports of the Mediterranean. Founded by the Carthaginians as Qart Hadasht and later taken by Rome, which renamed it Carthago Nova, the city preserves an outstanding first-century Roman theatre, rediscovered in 1988 and set against the castle hill. In the nineteenth and early twentieth centuries, the mining wealth of the nearby sierra funded a burst of modernista facades along the Calle Mayor. The port still holds the naval arsenal and the Peral, the first electric-powered submarine, while fort-crowned hills look down over the bay. Travelling here with a dog means working around the strong summer heat and the seasonal beach rules of the Murcian coast.`,
+      es: `Cartagena ocupa una profunda rada natural en el sureste español, en la Región de Murcia, resguardada por cerros fortificados que la convirtieron en uno de los grandes puertos militares del Mediterráneo. Fundada por los cartagineses como Qart Hadasht y tomada después por Roma, que la rebautizó Carthago Nova, la ciudad conserva un extraordinario teatro romano del siglo I, redescubierto en 1988 y adosado al cerro del castillo. En los siglos XIX y comienzos del XX, la riqueza minera de la sierra cercana financió un estallido de fachadas modernistas a lo largo de la Calle Mayor. El puerto sigue albergando el arsenal de la Armada y el Peral, primer submarino de propulsión eléctrica, mientras los cerros coronados de fuertes vigilan la bahía. Viajar aquí con un perro exige lidiar con el fuerte calor estival y las normas de playa estacionales de la costa murciana.`,
+      pt: `Cartagena ocupa uma profunda enseada natural no sudeste espanhol, na Região de Múrcia, resguardada por colinas fortificadas que a tornaram um dos grandes portos militares do Mediterrâneo. Fundada pelos cartagineses como Qart Hadasht e depois tomada por Roma, que a rebatizou Carthago Nova, a cidade conserva um extraordinário teatro romano do século I, redescoberto em 1988 e encostado à colina do castelo. Nos séculos XIX e início do XX, a riqueza mineira da serra próxima financiou uma explosão de fachadas modernistas ao longo da Calle Mayor. O porto ainda alberga o arsenal da Armada e o Peral, primeiro submarino de propulsão elétrica, enquanto as colinas coroadas de fortes vigiam a baía. Viajar aqui com um cão exige lidar com o forte calor estival e as regras de praia sazonais da costa murciana.`,
+    },
+    sights: [
+      {
+        name: `Teatro Romano de Cartagena`,
+        emoji: `🏛️`,
+        petFriendly: false,
+        desc: {
+          fr: `Le grand théâtre romain du Ier siècle av. J.-C., redécouvert en 1988 et relié à un musée qui abrite les vestiges. Les chiens ne sont pas admis à l'intérieur du parcours muséal, mais on aperçoit très bien les gradins depuis les rues et les terrasses qui surplombent le site.`,
+          en: `The great first-century BC Roman theatre, rediscovered in 1988 and reached through a museum that houses the finds. Dogs are not allowed inside the museum route, but the tiers are clearly visible from the streets and terraces overlooking the site.`,
+          es: `El gran teatro romano del siglo I a. C., redescubierto en 1988 y accesible a través de un museo que custodia los hallazgos. No se admiten perros en el recorrido del museo, pero las gradas se ven muy bien desde las calles y miradores que dominan el yacimiento.`,
+          pt: `O grande teatro romano do século I a. C., redescoberto em 1988 e acessível através de um museu que guarda os achados. Não se admitem cães no percurso do museu, mas as bancadas veem-se muito bem a partir das ruas e miradouros que dominam o sítio.`,
+        },
+      },
+      {
+        name: `Calle Mayor`,
+        emoji: `🚶`,
+        petFriendly: true,
+        desc: {
+          fr: `L'artère piétonne du centre, bordée d'immeubles modernistes aux façades ornées et de terrasses de café. Elle se parcourt tranquillement en laisse et relie la mairie néo-baroque au pied de la colline du château.`,
+          en: `The pedestrian spine of the centre, lined with modernista buildings and their ornate facades and café terraces. It makes for an easy leashed walk and links the neo-baroque town hall to the foot of the castle hill.`,
+          es: `La arteria peatonal del centro, flanqueada por edificios modernistas de fachadas ornamentadas y terrazas de café. Se recorre con calma con correa y une el ayuntamiento neobarroco con el pie del cerro del castillo.`,
+          pt: `A artéria pedonal do centro, ladeada por edifícios modernistas de fachadas ornamentadas e esplanadas de café. Percorre-se com calma de trela e liga a câmara municipal neobarroca ao pé da colina do castelo.`,
+        },
+      },
+      {
+        name: `Castillo de la Concepción y Parque Torres`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          fr: `Le château médiéval couronne le Parque Torres, un jardin en terrasses planté de paons et de pins d'où la vue embrasse tout le port. Les chiens en laisse sont bienvenus dans le parc, et un ascenseur panoramique monte depuis la ville pour éviter la côte sous la chaleur.`,
+          en: `The medieval castle crowns Parque Torres, a terraced garden of peacocks and pines with sweeping views over the whole port. Leashed dogs are welcome in the park, and a panoramic lift climbs up from town to spare the slope in the heat.`,
+          es: `El castillo medieval corona el Parque Torres, un jardín en terrazas con pavos reales y pinos desde donde la vista abarca todo el puerto. Se admiten perros con correa en el parque, y un ascensor panorámico sube desde la ciudad para evitar la cuesta con calor.`,
+          pt: `O castelo medieval coroa o Parque Torres, um jardim em socalcos com pavões e pinheiros de onde a vista abarca todo o porto. Admitem-se cães com trela no parque, e um elevador panorâmico sobe da cidade para evitar a encosta com calor.`,
+        },
+      },
+      {
+        name: `Puerto de Cartagena y Submarino Peral`,
+        emoji: `⚓`,
+        petFriendly: true,
+        desc: {
+          fr: `Le front de mer réaménagé longe la darse militaire et expose en plein air le Peral, premier sous-marin à propulsion électrique, conçu par un ingénieur local. La promenade se fait en laisse et offre de l'ombre rare près de l'eau, idéale en fin de journée.`,
+          en: `The revamped waterfront runs alongside the naval basin and displays, in the open air, the Peral, the first electric-powered submarine, designed by a local engineer. The promenade is walked on leash and offers rare shade near the water, ideal late in the day.`,
+          es: `El paseo marítimo remodelado bordea la dársena militar y exhibe al aire libre el Peral, primer submarino de propulsión eléctrica, ideado por un ingeniero local. Se recorre con correa y ofrece una sombra escasa junto al agua, ideal al final del día.`,
+          pt: `A marginal remodelada ladeia a doca militar e exibe ao ar livre o Peral, primeiro submarino de propulsão elétrica, concebido por um engenheiro local. Percorre-se de trela e oferece uma sombra rara junto à água, ideal ao fim do dia.`,
+        },
+      },
+      {
+        name: `Cala Cortina`,
+        emoji: `🏖️`,
+        petFriendly: false,
+        desc: {
+          fr: `La petite crique urbaine la plus proche du centre, abritée et facile d'accès. Comme les plages surveillées de la commune, elle interdit les chiens en haute saison, repliez-vous alors sur les plages sauvages de Calblanque.`,
+          en: `The small urban cove closest to the centre, sheltered and easy to reach. Like the town's supervised beaches, it bans dogs in high season, so fall back on the wild beaches of Calblanque instead.`,
+          es: `La pequeña cala urbana más cercana al centro, resguardada y de fácil acceso. Como las playas vigiladas del municipio, prohíbe los perros en temporada alta, así que refúgiate entonces en las playas salvajes de Calblanque.`,
+          pt: `A pequena enseada urbana mais próxima do centro, resguardada e de fácil acesso. Como as praias vigiadas do município, proíbe cães em época alta, refugie-se então nas praias selvagens de Calblanque.`,
+        },
+      },
+      {
+        name: `Parque Regional de Calblanque`,
+        emoji: `🌊`,
+        petFriendly: true,
+        desc: {
+          fr: `Un parc régional protégé aux longues plages dorées, dunes et falaises, à une vingtaine de kilomètres à l'est. Ces plages sauvages tolèrent les chiens tenus en laisse hors des zones balisées, mais l'accès en voiture est limité l'été et il n'y a aucune ombre, prévoyez eau et départ matinal.`,
+          en: `A protected regional park of long golden beaches, dunes and cliffs, some twenty kilometres to the east. These wild beaches tolerate leashed dogs away from marked areas, but summer car access is capped and there is no shade, so bring water and start early.`,
+          es: `Un parque regional protegido de largas playas doradas, dunas y acantilados, a unos veinte kilómetros al este. Estas playas salvajes toleran a los perros con correa fuera de las zonas balizadas, pero el acceso en coche es limitado en verano y no hay sombra, lleva agua y madruga.`,
+          pt: `Um parque regional protegido de longas praias douradas, dunas e falésias, a uns vinte quilómetros a leste. Estas praias selvagens toleram cães com trela fora das zonas balizadas, mas o acesso de carro é limitado no verão e não há sombra, leve água e madrugue.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Chaleur estivale intense: la côte murcienne dépasse souvent 32 °C de juin à septembre et l'asphalte du centre historique brûle les coussinets, sortez à l'aube ou après le coucher du soleil et testez le sol avec la main.`,
+        `Les plages urbaines de Cartagena (Cala Cortina, playa de Cala Reona surveillée) interdisent les chiens en haute saison, les longues plages sauvages du Parque Regional de Calblanque, à l'est, les tolèrent en laisse hors zones balisées.`,
+        `Le Teatro Romano se visite via un musée fermé aux chiens, profitez plutôt du Parque Torres et de son château, ouverts aux chiens en laisse, pour la meilleure vue sur le port.`,
+        `Emportez toujours de l'eau: le centre minéral, les collines des forts et Calblanque offrent très peu d'ombre et les points d'eau y sont rares.`,
+        `En Espagne, les races classées potentiellement dangereuses (PPP) doivent porter laisse courte et muselière sur la voie publique, prévoyez l'équipement si votre chien est concerné.`,
+      ],
+      en: [
+        `Intense summer heat: the Murcian coast often tops 32 °C from June to September and the old-town asphalt scorches paws, head out at dawn or after sunset and test the ground with your hand.`,
+        `Cartagena's urban beaches (Cala Cortina, the supervised Cala Reona) ban dogs in high season, the long wild beaches of the Calblanque regional park to the east tolerate them on leash away from marked areas.`,
+        `The Roman Theatre is seen through a museum closed to dogs, so make the most of Parque Torres and its castle, both open to leashed dogs, for the best view over the port.`,
+        `Always carry water: the rocky centre, the fort-topped hills and Calblanque offer very little shade and drinking points are scarce.`,
+        `In Spain, breeds classed as potentially dangerous (PPP) must wear a short leash and muzzle in public, bring the gear if your dog is affected.`,
+      ],
+      es: [
+        `Calor estival intenso: la costa murciana supera a menudo los 32 °C de junio a septiembre y el asfalto del casco histórico abrasa las almohadillas, sal al amanecer o después del atardecer y comprueba el suelo con la mano.`,
+        `Las playas urbanas de Cartagena (Cala Cortina, la vigilada Cala Reona) prohíben los perros en temporada alta, las largas playas salvajes del Parque Regional de Calblanque, al este, los toleran con correa fuera de las zonas balizadas.`,
+        `El Teatro Romano se visita a través de un museo cerrado a los perros, aprovecha mejor el Parque Torres y su castillo, abiertos a perros con correa, para la mejor vista del puerto.`,
+        `Lleva siempre agua: el centro rocoso, los cerros de los fuertes y Calblanque ofrecen muy poca sombra y los puntos de agua escasean.`,
+        `En España, las razas consideradas potencialmente peligrosas (PPP) deben llevar correa corta y bozal en la vía pública, prepara el equipo si tu perro está afectado.`,
+      ],
+      pt: [
+        `Calor estival intenso: a costa murciana ultrapassa muitas vezes os 32 °C de junho a setembro e o asfalto do centro histórico queima as almofadas das patas, saia ao amanhecer ou depois do pôr do sol e teste o chão com a mão.`,
+        `As praias urbanas de Cartagena (Cala Cortina, a vigiada Cala Reona) proíbem cães em época alta, as longas praias selvagens do Parque Regional de Calblanque, a leste, toleram-nos com trela fora das zonas balizadas.`,
+        `O Teatro Romano visita-se através de um museu fechado a cães, aproveite antes o Parque Torres e o seu castelo, abertos a cães com trela, para a melhor vista sobre o porto.`,
+        `Leve sempre água: o centro rochoso, as colinas dos fortes e Calblanque oferecem muito pouca sombra e os pontos de água são raros.`,
+        `Em Espanha, as raças consideradas potencialmente perigosas (PPP) devem usar trela curta e açaime na via pública, prepare o equipamento se o seu cão for abrangido.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Espagne: 112 (police, pompiers, ambulance).`,
+        `Aéroport le plus proche: Región de Murcia (RMU, Corvera), à environ 35 km, Alicante-Elche (ALC) est à environ 100 km.`,
+        `Climat méditerranéen semi-aride: étés longs, chauds et très secs, hivers doux, la mi-saison (avril-mai, octobre) est la plus confortable pour voyager avec un chien.`,
+        `Cartagena est un port de croisière et le terminus de la ligne de train vers Murcie, les animaux tenus sont généralement admis dans les trains régionaux Renfe en dehors des heures de pointe.`,
+        `Plusieurs cliniques vétérinaires sont installées à Cartagena et dans les environs, demandez à votre hébergement le vétérinaire de garde le plus proche.`,
+      ],
+      en: [
+        `Single emergency number in Spain: 112 (police, fire, ambulance).`,
+        `Nearest airport: Región de Murcia (RMU, Corvera), about 35 km away, Alicante-Elche (ALC) is around 100 km.`,
+        `Semi-arid Mediterranean climate: long, hot and very dry summers, mild winters, the shoulder seasons (April to May, October) are the most comfortable for travelling with a dog.`,
+        `Cartagena is a cruise port and the terminus of the rail line to Murcia, leashed pets are generally allowed on regional Renfe trains outside peak hours.`,
+        `Several veterinary clinics operate in Cartagena and its surroundings, ask your accommodation for the nearest on-call vet.`,
+      ],
+      es: [
+        `Número de emergencias único en España: 112 (policía, bomberos, ambulancia).`,
+        `Aeropuerto más cercano: Región de Murcia (RMU, Corvera), a unos 35 km, Alicante-Elche (ALC) está a unos 100 km.`,
+        `Clima mediterráneo semiárido: veranos largos, cálidos y muy secos, inviernos suaves, la media temporada (de abril a mayo, octubre) es la más cómoda para viajar con perro.`,
+        `Cartagena es puerto de cruceros y final de la línea de tren hacia Murcia, las mascotas con correa suelen admitirse en los trenes regionales de Renfe fuera de las horas punta.`,
+        `Hay varias clínicas veterinarias en Cartagena y sus alrededores, pregunta en tu alojamiento por el veterinario de guardia más cercano.`,
+      ],
+      pt: [
+        `Número de emergência único em Espanha: 112 (polícia, bombeiros, ambulância).`,
+        `Aeroporto mais próximo: Región de Murcia (RMU, Corvera), a cerca de 35 km, Alicante-Elche (ALC) fica a cerca de 100 km.`,
+        `Clima mediterrânico semiárido: verões longos, quentes e muito secos, invernos amenos, a meia-estação (de abril a maio, outubro) é a mais confortável para viajar com cão.`,
+        `Cartagena é porto de cruzeiros e término da linha de comboio para Múrcia, os animais com trela são geralmente admitidos nos comboios regionais da Renfe fora das horas de ponta.`,
+        `Existem várias clínicas veterinárias em Cartagena e nos arredores, pergunte no seu alojamento pelo veterinário de urgência mais próximo.`,
       ],
     },
   },

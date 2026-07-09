@@ -12019,6 +12019,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  delft: {
+    history: {
+      fr: `Delft est une ville de canaux du sud de la Hollande, à mi-chemin entre La Haye et Rotterdam, célèbre pour deux gloires nées entre ses murs: le peintre Johannes Vermeer et la faïence bleue de Delft. Autour de la grande place du Markt se font face la Nieuwe Kerk, dont la crypte abrite les tombeaux de la famille royale d'Orange-Nassau, et l'hôtel de ville Renaissance. Un peu plus loin, l'Oude Kerk penche visiblement au-dessus des canaux, tandis que le Prinsenhof, ancien couvent où Guillaume d'Orange fut assassiné en 1584, garde la mémoire de l'indépendance néerlandaise. La manufacture Royal Delft perpétue depuis 1653 l'art du carreau peint à la main. Ville plate, compacte et sillonnée de vélos, Delft se parcourt idéalement à pied le long de ses grachten et de ses hofjes, ces cours intérieures paisibles, sous un climat maritime doux mais souvent venteux et pluvieux.`,
+      en: `Delft is a canal city in South Holland, halfway between The Hague and Rotterdam, famous for two glories born within its walls: the painter Johannes Vermeer and the blue Delftware pottery. Around the great Markt square stand face to face the Nieuwe Kerk, whose crypt holds the tombs of the royal House of Orange-Nassau, and the Renaissance town hall. A little further on, the Oude Kerk leans visibly over the canals, while the Prinsenhof, a former convent where William of Orange was assassinated in 1584, keeps the memory of Dutch independence. The Royal Delft manufactory has carried on the art of the hand-painted tile since 1653. Flat, compact and criss-crossed by bikes, Delft is best explored on foot along its grachten and its hofjes, those peaceful inner courtyards, under a mild maritime climate that is often windy and wet.`,
+      es: `Delft es una ciudad de canales del sur de Holanda, a medio camino entre La Haya y Róterdam, célebre por dos glorias nacidas entre sus muros: el pintor Johannes Vermeer y la loza azul de Delft. En torno a la gran plaza del Markt se enfrentan la Nieuwe Kerk, cuya cripta guarda las tumbas de la casa real de Orange-Nassau, y el ayuntamiento renacentista. Un poco más allá, la Oude Kerk se inclina visiblemente sobre los canales, mientras que el Prinsenhof, antiguo convento donde Guillermo de Orange fue asesinado en 1584, conserva la memoria de la independencia neerlandesa. La manufactura Royal Delft perpetúa desde 1653 el arte del azulejo pintado a mano. Ciudad llana, compacta y surcada de bicicletas, Delft se recorre idealmente a pie a lo largo de sus grachten y de sus hofjes, esos patios interiores apacibles, bajo un clima marítimo suave pero a menudo ventoso y lluvioso.`,
+      pt: `Delft é uma cidade de canais do sul da Holanda, a meio caminho entre Haia e Roterdão, célebre por duas glórias nascidas entre as suas muralhas: o pintor Johannes Vermeer e a faiança azul de Delft. Em redor da grande praça do Markt defrontam-se a Nieuwe Kerk, cuja cripta guarda os túmulos da casa real de Orange-Nassau, e a câmara municipal renascentista. Um pouco mais adiante, a Oude Kerk inclina-se visivelmente sobre os canais, enquanto o Prinsenhof, antigo convento onde Guilherme de Orange foi assassinado em 1584, guarda a memória da independência neerlandesa. A manufatura Royal Delft perpetua desde 1653 a arte do azulejo pintado à mão. Cidade plana, compacta e sulcada de bicicletas, Delft percorre-se idealmente a pé ao longo dos seus grachten e dos seus hofjes, esses pátios interiores tranquilos, sob um clima marítimo ameno mas muitas vezes ventoso e chuvoso.`,
+    },
+    sights: [
+      {
+        name: `Markt`,
+        emoji: `🏙️`,
+        petFriendly: true,
+        desc: {
+          fr: `La grande place pavée au cœur de la ville, bordée de cafés et de terrasses, entre l'hôtel de ville et la Nieuwe Kerk. On la traverse en laisse et les terrasses néerlandaises accueillent volontiers les chiens sages devant une gaufre ou un café.`,
+          en: `The great cobbled square at the heart of the city, lined with cafes and terraces, between the town hall and the Nieuwe Kerk. You cross it on leash and the Dutch terraces happily welcome well-behaved dogs over a waffle or a coffee.`,
+          es: `La gran plaza empedrada en el corazón de la ciudad, bordeada de cafés y terrazas, entre el ayuntamiento y la Nieuwe Kerk. Se cruza con correa y las terrazas neerlandesas acogen de buen grado a los perros tranquilos ante un gofre o un café.`,
+          pt: `A grande praça calcetada no coração da cidade, ladeada de cafés e esplanadas, entre a câmara municipal e a Nieuwe Kerk. Atravessa-se de trela e as esplanadas neerlandesas acolhem de bom grado os cães calmos diante de um waffle ou de um café.`,
+        },
+      },
+      {
+        name: `Nieuwe Kerk`,
+        emoji: `⛪`,
+        petFriendly: false,
+        desc: {
+          fr: `L'église gothique du Markt dont la haute tour domine la ville et dont la crypte abrite les tombeaux de la maison d'Orange-Nassau. Les chiens ne sont pas admis à l'intérieur ni dans la tour, mais on en fait aisément le tour en laisse sur la place.`,
+          en: `The Gothic church on the Markt whose tall tower dominates the city and whose crypt holds the tombs of the House of Orange-Nassau. Dogs are not allowed inside or up the tower, but you can easily walk around it on leash on the square.`,
+          es: `La iglesia gótica del Markt cuya alta torre domina la ciudad y cuya cripta guarda las tumbas de la casa de Orange-Nassau. Los perros no se admiten en el interior ni en la torre, pero se puede rodear con correa por la plaza.`,
+          pt: `A igreja gótica do Markt cuja alta torre domina a cidade e cuja cripta guarda os túmulos da casa de Orange-Nassau. Os cães não são admitidos no interior nem na torre, mas dá-se facilmente a volta de trela na praça.`,
+        },
+      },
+      {
+        name: `Oude Kerk`,
+        emoji: `🗼`,
+        petFriendly: false,
+        desc: {
+          fr: `La vieille église, reconnaissable à sa tour nettement penchée au-dessus du canal, où repose Vermeer. L'intérieur est fermé aux chiens, mais le quai qui la longe et le pont voisin offrent une belle promenade en laisse le long de l'eau.`,
+          en: `The old church, recognisable by its tower clearly leaning over the canal, where Vermeer is buried. The interior is closed to dogs, but the quay alongside it and the nearby bridge make a lovely leashed walk along the water.`,
+          es: `La vieja iglesia, reconocible por su torre claramente inclinada sobre el canal, donde reposa Vermeer. El interior está cerrado a los perros, pero el muelle que la bordea y el puente cercano ofrecen un bonito paseo con correa junto al agua.`,
+          pt: `A velha igreja, reconhecível pela sua torre nitidamente inclinada sobre o canal, onde repousa Vermeer. O interior está fechado aos cães, mas o cais que a ladeia e a ponte vizinha oferecem um belo passeio de trela junto à água.`,
+        },
+      },
+      {
+        name: `Grachten en hofjes`,
+        emoji: `🚣`,
+        petFriendly: true,
+        desc: {
+          fr: `Le réseau de canaux bordés de maisons à pignon et les hofjes, ces cours intérieures fleuries et paisibles cachées derrière des porches. Tout se parcourt à pied en laisse sur des ruelles plates et pavées, idéales pour flâner avec un chien loin de la circulation.`,
+          en: `The network of canals lined with gabled houses and the hofjes, those flowery, peaceful inner courtyards hidden behind gateways. It is all walked on leash along flat, cobbled lanes, ideal for strolling with a dog away from traffic.`,
+          es: `La red de canales bordeados de casas con hastial y los hofjes, esos patios interiores floridos y apacibles escondidos tras los portales. Todo se recorre a pie con correa por callejas llanas y empedradas, ideales para pasear con un perro lejos del tráfico.`,
+          pt: `A rede de canais ladeados de casas de empena e os hofjes, esses pátios interiores floridos e tranquilos escondidos atrás de portais. Tudo se percorre a pé de trela por ruelas planas e calcetadas, ideais para passear com um cão longe do trânsito.`,
+        },
+      },
+      {
+        name: `Koninklijke Porceleyne Fles`,
+        emoji: `🏺`,
+        petFriendly: false,
+        desc: {
+          fr: `La manufacture Royal Delft, dernière fabrique historique de faïence bleue de Delft encore en activité depuis 1653, avec son musée et ses ateliers de peinture à la main. Les chiens ne sont pas admis dans les ateliers ni le musée pour des raisons d'hygiène.`,
+          en: `The Royal Delft manufactory, the last historic maker of blue Delftware still working since 1653, with its museum and hand-painting workshops. Dogs are not allowed in the workshops or the museum for hygiene reasons.`,
+          es: `La manufactura Royal Delft, última fábrica histórica de loza azul de Delft aún en activo desde 1653, con su museo y sus talleres de pintura a mano. Los perros no se admiten en los talleres ni en el museo por razones de higiene.`,
+          pt: `A manufatura Royal Delft, última fábrica histórica de faiança azul de Delft ainda em atividade desde 1653, com o seu museu e as suas oficinas de pintura à mão. Os cães não são admitidos nas oficinas nem no museu por razões de higiene.`,
+        },
+      },
+      {
+        name: `Delftse Hout`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          fr: `Le grand parc de loisirs boisé à l'est de la ville, avec son lac de baignade, ses sentiers et sa zone de liberté pour chiens. On y trouve un hondenlosloopgebied officiel et un coin où les chiens peuvent nager, la meilleure adresse pour une vraie détente sans laisse.`,
+          en: `The large wooded recreation park east of the city, with its bathing lake, its trails and its dog free-run zone. It has an official hondenlosloopgebied and a spot where dogs can swim, the best address for a real off-leash break.`,
+          es: `El gran parque recreativo boscoso al este de la ciudad, con su lago de baño, sus senderos y su zona de libertad para perros. Cuenta con un hondenlosloopgebied oficial y un rincón donde los perros pueden nadar, la mejor dirección para un verdadero descanso sin correa.`,
+          pt: `O grande parque de lazer arborizado a leste da cidade, com o seu lago de banhos, os seus trilhos e a sua zona de liberdade para cães. Tem um hondenlosloopgebied oficial e um recanto onde os cães podem nadar, o melhor endereço para um verdadeiro descanso sem trela.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le parc Delftse Hout dispose d'un hondenlosloopgebied officiel (zone sans laisse) et d'un coin de baignade pour chiens sur le lac, c'est le meilleur endroit pour une vraie détente près du centre.`,
+        `Dans le centre historique et le long des canaux, gardez le chien en laisse et ramassez ses déjections (opruimplicht), des amendes s'appliquent, mais les ruelles plates et pavées rendent la ville très facile à parcourir à pied.`,
+        `En été, testez les pavés et la pierre au bord des canaux avec la main et emportez de l'eau les jours de forte chaleur, et notez que le 27 avril, jour du Roi (Koningsdag), le centre est bondé et bruyant, à éviter avec un chien anxieux.`,
+        `Dans les trains NS, un grand chien voyage avec un billet journalier chien (dagkaart hond), les petits chiens voyagent gratuitement dans un sac de transport, gardez-le en laisse sur les quais et dans les trams.`,
+        `Les terrasses et beaucoup de boutiques tolèrent les chiens, mais les églises (Nieuwe Kerk, Oude Kerk) et les ateliers de Royal Delft ne les admettent pas à l'intérieur.`,
+      ],
+      en: [
+        `Delftse Hout park has an official hondenlosloopgebied (off-leash area) and a dog-swim spot on the lake, the best place for a real break close to the centre.`,
+        `In the historic centre and along the canals keep the dog leashed and pick up after it (opruimplicht), fines apply, but the flat cobbled lanes make the city very easy to explore on foot.`,
+        `In summer test the cobbles and canal-side stone with your hand and carry water on hot days, and note that on 27 April, King's Day (Koningsdag), the centre is packed and loud, best avoided with an anxious dog.`,
+        `On NS trains a large dog travels with a day dog ticket (dagkaart hond), small dogs travel free in a carrier, keep it leashed on platforms and trams.`,
+        `Terraces and many shops tolerate dogs, but the churches (Nieuwe Kerk, Oude Kerk) and the Royal Delft workshops do not admit them indoors.`,
+      ],
+      es: [
+        `El parque Delftse Hout dispone de un hondenlosloopgebied oficial (zona sin correa) y de un rincón de baño para perros en el lago, el mejor lugar para un verdadero descanso cerca del centro.`,
+        `En el centro histórico y a lo largo de los canales mantén al perro con correa y recoge sus excrementos (opruimplicht), se aplican multas, pero las callejas llanas y empedradas hacen la ciudad muy fácil de recorrer a pie.`,
+        `En verano comprueba el empedrado y la piedra al borde de los canales con la mano y lleva agua los días de mucho calor, y ten en cuenta que el 27 de abril, Día del Rey (Koningsdag), el centro está abarrotado y ruidoso, a evitar con un perro nervioso.`,
+        `En los trenes NS un perro grande viaja con un billete diario para perro (dagkaart hond), los perros pequeños viajan gratis en un transportín, mantenlo con correa en los andenes y en los tranvías.`,
+        `Las terrazas y muchas tiendas toleran a los perros, pero las iglesias (Nieuwe Kerk, Oude Kerk) y los talleres de Royal Delft no los admiten en el interior.`,
+      ],
+      pt: [
+        `O parque Delftse Hout dispõe de um hondenlosloopgebied oficial (zona sem trela) e de um recanto de banhos para cães no lago, o melhor sítio para um verdadeiro descanso perto do centro.`,
+        `No centro histórico e ao longo dos canais mantenha o cão de trela e recolha os dejetos (opruimplicht), aplicam-se multas, mas as ruelas planas e calcetadas tornam a cidade muito fácil de percorrer a pé.`,
+        `No verão teste a calçada e a pedra à beira dos canais com a mão e leve água nos dias de muito calor, e note que a 27 de abril, Dia do Rei (Koningsdag), o centro fica apinhado e barulhento, a evitar com um cão ansioso.`,
+        `Nos comboios NS um cão grande viaja com um bilhete diário de cão (dagkaart hond), os cães pequenos viajam gratuitamente numa bolsa de transporte, mantenha-o de trela nas plataformas e nos elétricos.`,
+        `As esplanadas e muitas lojas toleram cães, mas as igrejas (Nieuwe Kerk, Oude Kerk) e as oficinas da Royal Delft não os admitem no interior.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique aux Pays-Bas et en Europe: 112.`,
+        `Delft est sur la ligne NS entre La Haye et Rotterdam, à une dizaine de minutes de chacune, avec des trains très fréquents.`,
+        `Aéroport le plus proche: Rotterdam La Haye (RTM), à environ 15 km, ou Amsterdam Schiphol (AMS) à environ 60 km.`,
+        `Ville plate et cyclable, climat maritime doux: hivers pluvieux et venteux, étés tempérés, le printemps et l'été sont les plus agréables pour voyager avec un chien.`,
+        `Renseignez-vous auprès de votre hébergement sur la clinique vétérinaire de garde la plus proche avant votre arrivée.`,
+      ],
+      en: [
+        `Single emergency number in the Netherlands and across Europe: 112.`,
+        `Delft is on the NS line between The Hague and Rotterdam, about ten minutes from each, with very frequent trains.`,
+        `Nearest airport: Rotterdam The Hague (RTM), about 15 km away, or Amsterdam Schiphol (AMS) about 60 km.`,
+        `Flat, bike-friendly city with a mild maritime climate: rainy, windy winters, temperate summers, spring and summer are the most pleasant for travelling with a dog.`,
+        `Ask your accommodation about the nearest on-call veterinary clinic before you arrive.`,
+      ],
+      es: [
+        `Número de emergencias único en los Países Bajos y en Europa: 112.`,
+        `Delft está en la línea NS entre La Haya y Róterdam, a unos diez minutos de cada una, con trenes muy frecuentes.`,
+        `Aeropuerto más cercano: Róterdam La Haya (RTM), a unos 15 km, o Ámsterdam Schiphol (AMS) a unos 60 km.`,
+        `Ciudad llana y ciclable, clima marítimo suave: inviernos lluviosos y ventosos, veranos templados, la primavera y el verano son los más agradables para viajar con perro.`,
+        `Pregunta en tu alojamiento por la clínica veterinaria de guardia más cercana antes de llegar.`,
+      ],
+      pt: [
+        `Número de emergência único nos Países Baixos e na Europa: 112.`,
+        `Delft fica na linha NS entre Haia e Roterdão, a cerca de dez minutos de cada uma, com comboios muito frequentes.`,
+        `Aeroporto mais próximo: Roterdão Haia (RTM), a cerca de 15 km, ou Amesterdão Schiphol (AMS) a cerca de 60 km.`,
+        `Cidade plana e ciclável, clima marítimo ameno: invernos chuvosos e ventosos, verões temperados, a primavera e o verão são os mais agradáveis para viajar com cão.`,
+        `Informe-se junto do seu alojamento sobre a clínica veterinária de urgência mais próxima antes de chegar.`,
+      ],
+    },
+  },
+
   denia: {
     history: {
       fr: `Dénia s'étire au pied du massif du Montgó, sur la Costa Blanca, à mi-chemin entre Alicante et Valence. Ancienne colonie romaine puis capitale d'une taïfa musulmane au XIᵉ siècle, la ville est dominée par son château médiéval qui abrite le musée archéologique et surplombe un dédale de ruelles et la rue Loreto, artère des tapas. Son port de pêche et de plaisance assure les liaisons en ferry vers Ibiza et Formentère, tandis que la côte se partage entre les longues plages de sable des Marines, au nord, et le littoral rocheux des Rotes, au sud, ponctué de criques. Derrière la ville, le parc naturel du Montgó protège un massif calcaire de 750 mètres sillonné de sentiers. Voyager ici avec un chien suppose de composer avec la forte chaleur méditerranéenne et les interdictions de plage de la haute saison estivale.`,
@@ -12762,6 +12899,143 @@ const cityContent: Record<string, CityContent> = {
         'Clínica central: Vets4Pets Edinburgh, 12 Fountain Park, +44 131 443 7474',
         '⚠️ O passaporte UE para animais no é válido no Reino Unido, se requiere Certificado Sanitario Animal (AHC) expedido por um veterinário acreditado.',
         'Ferry recomendado: DFDS Dover-Calais o Stena Line Fishguard-Rosslare (Irlanda), animales admitidos a bordo.',
+      ],
+    },
+  },
+
+  essaouira: {
+    history: {
+      fr: `Essaouira est une ville portuaire de la côte atlantique du Maroc, ceinte de remparts blancs et bleus battus par les vents. Fondée telle qu'on la voit au XVIIIe siècle sur les traces de l'ancien comptoir portugais de Mogador, sa médina fortifiée est aujourd'hui inscrite au patrimoine mondial de l'UNESCO pour son plan régulier et ses bastions face à l'océan. La Skala de la Ville, longue plate-forme d'artillerie hérissée de canons, domine les flots, tandis que le port de pêche aligne ses barques bleues et ses filets. Surnommée la ville du vent en raison des alizés qui la balaient presque sans relâche, Essaouira est plus fraîche que l'intérieur et prisée des surfeurs et kitesurfeurs le long de sa vaste plage. Elle est aussi la capitale de la musique gnaoua, célébrée chaque été par un grand festival, et une porte vers les coopératives d'huile d'argan et le village voisin de Diabat.`,
+      en: `Essaouira is a port city on the Atlantic coast of Morocco, ringed by white-and-blue ramparts battered by the wind. Built as it now appears in the 18th century on the site of the old Portuguese trading post of Mogador, its fortified medina is today a UNESCO World Heritage site for its regular plan and its bastions facing the ocean. The Skala de la Ville, a long artillery platform bristling with cannon, looks out over the waves, while the fishing harbour lines up its blue boats and its nets. Nicknamed the City of Wind for the trade winds that sweep it almost without pause, Essaouira is cooler than inland and popular with surfers and kitesurfers along its vast beach. It is also the capital of Gnaoua music, celebrated each summer by a great festival, and a gateway to the argan-oil cooperatives and the neighbouring village of Diabat.`,
+      es: `Essaouira es una ciudad portuaria de la costa atlántica de Marruecos, ceñida por murallas blancas y azules azotadas por el viento. Construida tal como se ve hoy en el siglo XVIII sobre las huellas del antiguo enclave portugués de Mogador, su medina fortificada está inscrita en el Patrimonio Mundial de la UNESCO por su trazado regular y sus bastiones frente al océano. La Skala de la Ville, larga plataforma de artillería erizada de cañones, domina las olas, mientras el puerto pesquero alinea sus barcas azules y sus redes. Apodada la ciudad del viento por los alisios que la barren casi sin descanso, Essaouira es más fresca que el interior y muy apreciada por surfistas y kitesurfistas a lo largo de su amplia playa. Es también la capital de la música gnaoua, celebrada cada verano por un gran festival, y una puerta hacia las cooperativas de aceite de argán y el vecino pueblo de Diabat.`,
+      pt: `Essaouira é uma cidade portuária da costa atlântica de Marrocos, cingida por muralhas brancas e azuis fustigadas pelo vento. Construída tal como hoje se vê no século XVIII sobre os vestígios do antigo entreposto português de Mogador, a sua medina fortificada está hoje inscrita no Património Mundial da UNESCO pelo seu traçado regular e pelos seus baluartes virados para o oceano. A Skala de la Ville, longa plataforma de artilharia eriçada de canhões, domina as ondas, enquanto o porto de pesca alinha os seus barcos azuis e as suas redes. Apelidada de cidade do vento devido aos alísios que a varrem quase sem pausa, Essaouira é mais fresca do que o interior e apreciada por surfistas e kitesurfistas ao longo da sua vasta praia. É também a capital da música gnaoua, celebrada todos os verões por um grande festival, e uma porta para as cooperativas de óleo de árgan e a vizinha aldeia de Diabat.`,
+    },
+    sights: [
+      {
+        name: `Medina d'Essaouira`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          fr: `La médina fortifiée classée à l'UNESCO, avec ses ruelles blanches, ses portes monumentales et ses remparts face à l'Atlantique. On la parcourt en laisse, en gardant le chien près de soi dans les souks animés et en respectant la foule et les étals.`,
+          en: `The UNESCO-listed fortified medina, with its white lanes, its monumental gates and its ramparts facing the Atlantic. It is walked on leash, keeping the dog close in the busy souks and respecting the crowd and the stalls.`,
+          es: `La medina fortificada declarada por la UNESCO, con sus callejas blancas, sus puertas monumentales y sus murallas frente al Atlántico. Se recorre con correa, manteniendo al perro cerca en los zocos animados y respetando el gentío y los puestos.`,
+          pt: `A medina fortificada classificada pela UNESCO, com as suas ruelas brancas, os seus portões monumentais e as suas muralhas frente ao Atlântico. Percorre-se de trela, mantendo o cão perto nos souks animados e respeitando a multidão e as bancas.`,
+        },
+      },
+      {
+        name: `Skala de la Ville`,
+        emoji: `💣`,
+        petFriendly: true,
+        desc: {
+          fr: `La longue plate-forme d'artillerie hérissée de canons de bronze qui court le long des remparts nord, avec une vue superbe sur l'océan et les îles Purpuraires. On s'y promène en laisse, mais attention au vent et aux embruns qui balaient le bastion.`,
+          en: `The long artillery platform bristling with bronze cannon that runs along the northern ramparts, with a superb view over the ocean and the Purpuraires islands. You walk it on leash, but mind the wind and spray that sweep the bastion.`,
+          es: `La larga plataforma de artillería erizada de cañones de bronce que recorre las murallas del norte, con una vista soberbia sobre el océano y las islas Purpuraires. Se pasea con correa, pero cuidado con el viento y la espuma que barren el bastión.`,
+          pt: `A longa plataforma de artilharia eriçada de canhões de bronze que corre ao longo das muralhas norte, com uma vista soberba sobre o oceano e as ilhas Purpuraires. Passeia-se de trela, mas cuidado com o vento e os salpicos que varrem o baluarte.`,
+        },
+      },
+      {
+        name: `Port de pêche`,
+        emoji: `⚓`,
+        petFriendly: true,
+        desc: {
+          fr: `Le port animé où s'alignent les célèbres barques bleues, entre criée, réparation des filets et va-et-vient des mouettes. Les quais se parcourent en laisse en plein air, mais l'endroit est bruyant et encombré, gardez le chien bien tenu près des étals de poisson.`,
+          en: `The lively harbour where the famous blue boats line up, amid the fish auction, net-mending and the coming and going of gulls. The quays are walked on leash in the open air, but the place is noisy and crowded, so keep the dog well held near the fish stalls.`,
+          es: `El puerto animado donde se alinean las célebres barcas azules, entre la lonja, el remiendo de redes y el ir y venir de las gaviotas. Los muelles se recorren con correa al aire libre, pero el lugar es ruidoso y abarrotado, mantén al perro bien sujeto cerca de los puestos de pescado.`,
+          pt: `O porto animado onde se alinham os célebres barcos azuis, entre a lota, o remendo das redes e o vaivém das gaivotas. Os cais percorrem-se de trela ao ar livre, mas o local é ruidoso e apinhado, mantenha o cão bem seguro perto das bancas de peixe.`,
+        },
+      },
+      {
+        name: `Plage d'Essaouira`,
+        emoji: `🏖️`,
+        petFriendly: true,
+        desc: {
+          fr: `La vaste plage battue par le vent qui s'étire vers le sud, paradis du kitesurf et de la planche à voile. Les chiens y sont généralement tolérés en dehors de la section centrale la plus fréquentée, tenez-les en laisse et vérifiez sur place, car les règles varient selon la saison.`,
+          en: `The vast windswept beach stretching south, a paradise for kitesurfing and windsurfing. Dogs are generally tolerated away from the busiest central section, keep them leashed and check locally, as the rules vary with the season.`,
+          es: `La amplia playa azotada por el viento que se extiende hacia el sur, paraíso del kitesurf y del windsurf. Los perros suelen tolerarse fuera de la sección central más concurrida, mantenlos con correa y comprueba sobre el terreno, pues las reglas varían según la temporada.`,
+          pt: `A vasta praia fustigada pelo vento que se estende para sul, paraíso do kitesurf e do windsurf. Os cães são geralmente tolerados fora da secção central mais concorrida, mantenha-os de trela e confirme no local, pois as regras variam com a estação.`,
+        },
+      },
+      {
+        name: `Diabat et Borj El Baroud`,
+        emoji: `🏜️`,
+        petFriendly: true,
+        desc: {
+          fr: `Le village de Diabat, au sud de l'oued Ksob, et les ruines ensablées du Borj El Baroud, ancien fort côtier que la légende associe à Jimi Hendrix. On y accède à pied ou à cheval le long de la plage et des dunes, en laisse, loin de la foule de la médina.`,
+          en: `The village of Diabat, south of the Ksob river, and the sand-buried ruins of Borj El Baroud, an old coastal fort that legend links to Jimi Hendrix. You reach it on foot or on horseback along the beach and dunes, on leash, away from the medina crowds.`,
+          es: `El pueblo de Diabat, al sur del uadi Ksob, y las ruinas cubiertas de arena del Borj El Baroud, antiguo fuerte costero que la leyenda asocia a Jimi Hendrix. Se accede a pie o a caballo a lo largo de la playa y las dunas, con correa, lejos del gentío de la medina.`,
+          pt: `A aldeia de Diabat, a sul do rio Ksob, e as ruínas soterradas de areia do Borj El Baroud, antigo forte costeiro que a lenda associa a Jimi Hendrix. Chega-se a pé ou a cavalo ao longo da praia e das dunas, de trela, longe da multidão da medina.`,
+        },
+      },
+      {
+        name: `Coopératives d'argan`,
+        emoji: `🫒`,
+        petFriendly: false,
+        desc: {
+          fr: `Les coopératives d'huile d'argan des environs, où des femmes concassent et pressent à la main les noix de cet arbre endémique du sud-ouest marocain. Les chiens ne sont pas admis dans les ateliers de production pour des raisons d'hygiène alimentaire, laissez-les à l'ombre le temps de la visite.`,
+          en: `The argan-oil cooperatives in the surroundings, where women crack and hand-press the nuts of this tree endemic to south-western Morocco. Dogs are not allowed in the production workshops for food-hygiene reasons, so leave them in the shade during the visit.`,
+          es: `Las cooperativas de aceite de argán de los alrededores, donde las mujeres parten y prensan a mano las nueces de este árbol endémico del suroeste marroquí. Los perros no se admiten en los talleres de producción por razones de higiene alimentaria, déjalos a la sombra durante la visita.`,
+          pt: `As cooperativas de óleo de árgan dos arredores, onde as mulheres partem e prensam à mão os frutos desta árvore endémica do sudoeste marroquino. Os cães não são admitidos nas oficinas de produção por razões de higiene alimentar, deixe-os à sombra durante a visita.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le fort vent des alizés, qui vaut à Essaouira son surnom de ville du vent, souffle surtout l'après-midi au printemps et en été et projette le sable: promenez le chien le matin, protégez ses yeux et emportez de l'eau, les fontaines publiques sont rares.`,
+        `Les chiens errants sont fréquents au Maroc: gardez votre chien en laisse, à jour de son vaccin antirabique, et évitez les confrontations, notamment autour du port et de la médina.`,
+        `Sur la plage, les chiens sont généralement tolérés en dehors de la section centrale la plus animée, mais vérifiez sur place et tenez-les en laisse près des cafés et des remparts.`,
+        `Le Maroc est hors Union européenne: pour rentrer dans l'UE, prévoyez à l'avance un vaccin antirabique valide et un test de titrage des anticorps antirabiques, la démarche prend plusieurs semaines.`,
+        `Respectez les usages locaux: gardez le chien tenu et discret autour des mosquées, des étals de nourriture et des zones de prière de la médina, et évitez les excursions vers l'intérieur aux heures les plus chaudes.`,
+      ],
+      en: [
+        `The strong trade winds that earn Essaouira its City of Wind nickname blow mostly in the afternoon in spring and summer and throw up sand: walk the dog in the morning, protect its eyes and carry water, public fountains are scarce.`,
+        `Stray dogs are common in Morocco: keep your dog leashed, up to date on its rabies vaccine, and avoid confrontations, especially around the harbour and the medina.`,
+        `On the beach, dogs are generally tolerated away from the busiest central section, but check locally and keep them leashed near the cafes and the ramparts.`,
+        `Morocco is outside the European Union: to return to the EU, arrange a valid rabies vaccine and a rabies antibody titration test well in advance, the process takes several weeks.`,
+        `Respect local customs: keep the dog held and discreet around mosques, food stalls and prayer areas of the medina, and avoid inland day trips during the hottest hours.`,
+      ],
+      es: [
+        `El fuerte viento de los alisios, que da a Essaouira su apodo de ciudad del viento, sopla sobre todo por la tarde en primavera y verano y levanta la arena: pasea al perro por la mañana, protege sus ojos y lleva agua, las fuentes públicas escasean.`,
+        `Los perros callejeros son frecuentes en Marruecos: mantén a tu perro con correa, al día con su vacuna antirrábica, y evita las confrontaciones, sobre todo alrededor del puerto y de la medina.`,
+        `En la playa, los perros suelen tolerarse fuera de la sección central más animada, pero comprueba sobre el terreno y mantenlos con correa cerca de los cafés y de las murallas.`,
+        `Marruecos está fuera de la Unión Europea: para regresar a la UE, prevé con antelación una vacuna antirrábica válida y una prueba de titulación de anticuerpos antirrábicos, el trámite lleva varias semanas.`,
+        `Respeta las costumbres locales: mantén al perro sujeto y discreto alrededor de las mezquitas, los puestos de comida y las zonas de oración de la medina, y evita las excursiones al interior en las horas de más calor.`,
+      ],
+      pt: [
+        `O forte vento dos alísios, que dá a Essaouira a alcunha de cidade do vento, sopra sobretudo à tarde na primavera e no verão e levanta a areia: passeie o cão de manhã, proteja-lhe os olhos e leve água, as fontes públicas são escassas.`,
+        `Os cães errantes são frequentes em Marrocos: mantenha o seu cão de trela, com a vacina antirrábica em dia, e evite confrontos, sobretudo à volta do porto e da medina.`,
+        `Na praia, os cães são geralmente tolerados fora da secção central mais animada, mas confirme no local e mantenha-os de trela perto dos cafés e das muralhas.`,
+        `Marrocos está fora da União Europeia: para regressar à UE, trate com antecedência de uma vacina antirrábica válida e de um teste de titulação de anticorpos antirrábicos, o processo demora várias semanas.`,
+        `Respeite os costumes locais: mantenha o cão seguro e discreto à volta das mesquitas, das bancas de comida e das zonas de oração da medina, e evite as excursões ao interior nas horas de mais calor.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéros d'urgence au Maroc: police 19, ambulance et SAMU 15, le 112 fonctionne aussi depuis un mobile.`,
+        `Essaouira n'a pas de train, l'accès se fait par la route depuis Marrakech (environ 2 h 30) ou Agadir (environ 3 h) en bus ou en grand taxi.`,
+        `Aéroport le plus proche: Essaouira-Mogador (ESU), à environ 15 km, ou Marrakech Ménara (RAK) à environ 190 km.`,
+        `Climat atlantique semi-aride, doux et venteux toute l'année, nettement plus frais que l'intérieur du Maroc, avec de forts alizés au printemps et en été.`,
+        `Renseignez-vous auprès de votre hébergement sur la clinique vétérinaire la plus proche et vérifiez tout numéro sur place avant de vous y fier.`,
+      ],
+      en: [
+        `Emergency numbers in Morocco: police 19, ambulance and SAMU 15, and 112 also works from a mobile.`,
+        `Essaouira has no train, access is by road from Marrakech (about 2 h 30) or Agadir (about 3 h) by bus or shared grand taxi.`,
+        `Nearest airport: Essaouira-Mogador (ESU), about 15 km away, or Marrakech Menara (RAK) about 190 km.`,
+        `Semi-arid Atlantic climate, mild and windy all year, noticeably cooler than inland Morocco, with strong trade winds in spring and summer.`,
+        `Ask your accommodation about the nearest veterinary clinic and verify any phone number locally before relying on it.`,
+      ],
+      es: [
+        `Números de emergencia en Marruecos: policía 19, ambulancia y SAMU 15, el 112 también funciona desde un móvil.`,
+        `Essaouira no tiene tren, el acceso es por carretera desde Marrakech (unas 2 h 30) o Agadir (unas 3 h) en autobús o en gran taxi compartido.`,
+        `Aeropuerto más cercano: Essaouira-Mogador (ESU), a unos 15 km, o Marrakech Menara (RAK) a unos 190 km.`,
+        `Clima atlántico semiárido, suave y ventoso todo el año, netamente más fresco que el interior de Marruecos, con fuertes alisios en primavera y verano.`,
+        `Pregunta en tu alojamiento por la clínica veterinaria más cercana y verifica cualquier número sobre el terreno antes de fiarte de él.`,
+      ],
+      pt: [
+        `Números de emergência em Marrocos: polícia 19, ambulância e SAMU 15, o 112 também funciona a partir de um telemóvel.`,
+        `Essaouira não tem comboio, o acesso faz-se por estrada a partir de Marraquexe (cerca de 2 h 30) ou Agadir (cerca de 3 h) de autocarro ou de grande táxi partilhado.`,
+        `Aeroporto mais próximo: Essaouira-Mogador (ESU), a cerca de 15 km, ou Marraquexe Menara (RAK) a cerca de 190 km.`,
+        `Clima atlântico semiárido, ameno e ventoso todo o ano, nitidamente mais fresco do que o interior de Marrocos, com fortes alísios na primavera e no verão.`,
+        `Informe-se junto do seu alojamento sobre a clínica veterinária mais próxima e confirme qualquer número no local antes de confiar nele.`,
       ],
     },
   },

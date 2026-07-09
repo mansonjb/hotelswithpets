@@ -11745,6 +11745,280 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'costa-da-caparica': {
+    history: {
+      fr: `Étirée sur la rive sud du Tage, face à Lisbonne, la Costa da Caparica appartient à la municipalité d'Almada, dans le district de Setúbal. Ancien village de pêcheurs devenu station balnéaire prisée des Lisboètes, elle aligne près de 24 kilomètres de plages atlantiques adossées à l'Arriba Fóssil, une falaise fossile classée en paysage protégé. Les plages urbaines du nord, comme la Praia do Rei et la Praia da Saúde, concentrent restaurants, écoles de surf et animation estivale, tandis que le sud, desservi l'été par le petit train Transpraia, s'ouvre sur des praias plus sauvages jusqu'à la Fonte da Telha. Derrière les dunes s'étend la pinède de la Mata dos Medos, réserve botanique plantée au XVIIIᵉ siècle pour fixer les sables. Voyager ici avec un chien suppose de composer avec les marées atlantiques, les interdictions de plage estivales de juin à septembre et l'accès par ferry et bus depuis Lisbonne.`,
+      en: `Stretched along the south bank of the Tagus, facing Lisbon, Costa da Caparica belongs to the municipality of Almada in the Setúbal district. Once a fishing village and now a beach resort beloved by Lisboners, it lines up nearly 24 kilometres of Atlantic beaches backed by the Arriba Fóssil, a fossil cliff protected as a natural landscape. The northern town beaches, such as Praia do Rei and Praia da Saúde, gather restaurants, surf schools and summer bustle, while the south, served in summer by the little Transpraia train, opens onto wilder praias as far as Fonte da Telha. Behind the dunes spreads the Mata dos Medos pine forest, a botanical reserve planted in the 18th century to hold back the sand. Travelling here with a dog means working around Atlantic tides, the summer beach bans from June to September and access by ferry and bus from Lisbon.`,
+      es: `Extendida por la orilla sur del Tajo, frente a Lisboa, la Costa da Caparica pertenece al municipio de Almada, en el distrito de Setúbal. Antiguo pueblo de pescadores convertido en balneario predilecto de los lisboetas, alinea casi 24 kilómetros de playas atlánticas respaldadas por la Arriba Fóssil, un acantilado fósil protegido como paisaje natural. Las playas urbanas del norte, como la Praia do Rei y la Praia da Saúde, concentran restaurantes, escuelas de surf y animación estival, mientras que el sur, servido en verano por el trenecito Transpraia, se abre a praias más salvajes hasta la Fonte da Telha. Tras las dunas se extiende el pinar de la Mata dos Medos, reserva botánica plantada en el siglo XVIII para fijar la arena. Viajar aquí con un perro exige lidiar con las mareas atlánticas, las prohibiciones de playa estivales de junio a septiembre y el acceso en ferry y autobús desde Lisboa.`,
+      pt: `Estendida pela margem sul do Tejo, em frente a Lisboa, a Costa da Caparica pertence ao concelho de Almada, no distrito de Setúbal. Antiga aldeia piscatória tornada estância balnear predileta dos lisboetas, alinha quase 24 quilómetros de praias atlânticas encostadas à Arriba Fóssil, uma falésia fóssil classificada como paisagem protegida. As praias urbanas do norte, como a Praia do Rei e a Praia da Saúde, concentram restaurantes, escolas de surf e animação estival, enquanto o sul, servido no verão pelo comboio Transpraia, se abre a praias mais selvagens até à Fonte da Telha. Por trás das dunas estende-se o pinhal da Mata dos Medos, reserva botânica plantada no século XVIII para fixar as areias. Viajar aqui com um cão exige lidar com as marés atlânticas, as proibições de praia estivais de junho a setembro e o acesso de ferry e autocarro desde Lisboa.`,
+    },
+    sights: [
+      {
+        name: `Praia do Rei e Praia da Saúde`,
+        emoji: `🏖️`,
+        petFriendly: false,
+        desc: {
+          fr: `Les principales plages urbaines du front de mer, cœur de la station avec ses restaurants, ses écoles de surf et sa promenade animée. Comme la plupart des plages surveillées du Portugal, elles interdisent les chiens en pleine saison estivale, réservez-leur les praias plus sauvages du sud ou les heures hors affluence.`,
+          en: `The main town beaches along the seafront, the heart of the resort with its restaurants, surf schools and lively promenade. Like most supervised Portuguese beaches, they ban dogs in high summer, so save the wilder southern praias or off-peak hours for them.`,
+          es: `Las principales playas urbanas del paseo marítimo, corazón de la estación con sus restaurantes, escuelas de surf y animado paseo. Como la mayoría de las playas vigiladas de Portugal, prohíben los perros en plena temporada estival, reserva para ellos las praias más salvajes del sur o las horas de menos afluencia.`,
+          pt: `As principais praias urbanas da frente mar, coração da estância com os seus restaurantes, escolas de surf e animado passeio. Como a maioria das praias vigiadas de Portugal, proíbem cães em plena época estival, guarde para eles as praias mais selvagens do sul ou as horas de menor afluência.`,
+        },
+      },
+      {
+        name: `Arriba Fóssil da Costa da Caparica`,
+        emoji: `🪨`,
+        petFriendly: true,
+        desc: {
+          fr: `La longue falaise fossile ocre qui domine le littoral, classée en paysage protégé pour ses strates géologiques et sa flore. Les sentiers du plateau se parcourent en laisse et offrent des vues plongeantes sur l'Atlantique, à l'écart de la foule des plages.`,
+          en: `The long ochre fossil cliff that towers over the coast, protected as a natural landscape for its geological strata and flora. The clifftop paths can be walked on leash and give sweeping views over the Atlantic, away from the crowded beaches.`,
+          es: `El largo acantilado fósil ocre que domina el litoral, protegido como paisaje natural por sus estratos geológicos y su flora. Los senderos de la meseta se recorren con correa y ofrecen vistas en picado sobre el Atlántico, lejos del gentío de las playas.`,
+          pt: `A longa falésia fóssil ocre que domina o litoral, classificada como paisagem protegida pelos seus estratos geológicos e a sua flora. Os trilhos do planalto percorrem-se de trela e oferecem vistas mergulhantes sobre o Atlântico, longe da multidão das praias.`,
+        },
+      },
+      {
+        name: `Mata Nacional dos Medos`,
+        emoji: `🌲`,
+        petFriendly: true,
+        desc: {
+          fr: `La pinède littorale de la Mata dos Medos, réserve botanique plantée au XVIIIᵉ siècle pour stabiliser les dunes, où subsistent de vieux pins parasols et des genévriers. Ses chemins ombragés se prêtent aux balades en laisse, un refuge de fraîcheur bienvenu quand les plages chauffent.`,
+          en: `The coastal pine forest of Mata dos Medos, a botanical reserve planted in the 18th century to stabilise the dunes, where old stone pines and junipers survive. Its shaded tracks suit leashed walks, a welcome cool refuge when the beaches heat up.`,
+          es: `El pinar litoral de la Mata dos Medos, reserva botánica plantada en el siglo XVIII para estabilizar las dunas, donde perviven viejos pinos piñoneros y enebros. Sus caminos sombreados se prestan a paseos con correa, un refugio fresco de agradecer cuando las playas se caldean.`,
+          pt: `O pinhal litoral da Mata dos Medos, reserva botânica plantada no século XVIII para estabilizar as dunas, onde subsistem velhos pinheiros-mansos e zimbros. Os seus caminhos sombreados prestam-se a passeios de trela, um refúgio fresco de agradecer quando as praias aquecem.`,
+        },
+      },
+      {
+        name: `Fonte da Telha`,
+        emoji: `🐕`,
+        petFriendly: true,
+        desc: {
+          fr: `Le village de plage à l'extrémité sud du cordon dunaire, au pied de la falaise fossile, plus sauvage et moins réglementé que le front de mer nord. Hors des zones surveillées, ces longues plages tolèrent plus souvent les chiens tenus en laisse, surtout hors saison et tôt le matin.`,
+          en: `The beach hamlet at the southern end of the dune strip, below the fossil cliff, wilder and less regulated than the northern seafront. Away from the supervised zones, these long beaches more often tolerate leashed dogs, especially out of season and early in the morning.`,
+          es: `La aldea de playa en el extremo sur del cordón dunar, al pie del acantilado fósil, más salvaje y menos reglamentada que el frente norte. Fuera de las zonas vigiladas, estas largas playas toleran más a menudo los perros con correa, sobre todo fuera de temporada y a primera hora.`,
+          pt: `A aldeia de praia no extremo sul do cordão dunar, ao pé da falésia fóssil, mais selvagem e menos regulamentada que a frente norte. Fora das zonas vigiadas, estas longas praias toleram mais vezes cães de trela, sobretudo fora de época e de manhã cedo.`,
+        },
+      },
+      {
+        name: `Cabo Espichel`,
+        emoji: `⛪`,
+        petFriendly: true,
+        desc: {
+          fr: `Le cap sauvage au sud de la péninsule, coiffé du sanctuaire baroque de Nossa Senhora do Cabo et cerné de falaises battues par l'océan. Le site se visite en plein air et en laisse, entre l'esplanade du sanctuaire, le phare et les traces de dinosaures visibles sur la roche.`,
+          en: `The wild headland at the south of the peninsula, crowned by the baroque sanctuary of Nossa Senhora do Cabo and ringed by ocean-battered cliffs. The site is visited in the open air and on leash, between the sanctuary esplanade, the lighthouse and the dinosaur tracks visible on the rock.`,
+          es: `El cabo salvaje al sur de la península, coronado por el santuario barroco de Nossa Senhora do Cabo y rodeado de acantilados batidos por el océano. El lugar se visita al aire libre y con correa, entre la explanada del santuario, el faro y las huellas de dinosaurios visibles en la roca.`,
+          pt: `O cabo selvagem a sul da península, coroado pelo santuário barroco de Nossa Senhora do Cabo e cercado de falésias batidas pelo oceano. O local visita-se ao ar livre e de trela, entre o adro do santuário, o farol e as pegadas de dinossauros visíveis na rocha.`,
+        },
+      },
+      {
+        name: `Núcleo Piscatório da Caparica`,
+        emoji: `🎣`,
+        petFriendly: true,
+        desc: {
+          fr: `Le vieux centre né autour de la pêche, avec ses ruelles basses, ses étals de poisson et ses terrasses de spécialités grillées. Il se parcourt facilement en laisse et permet, aux beaux jours, de dîner en terrasse avec son chien à ses pieds.`,
+          en: `The old centre grown up around fishing, with its low lanes, fish stalls and terraces of grilled specialities. It is easy to walk on leash and, in fine weather, lets you dine on a terrace with your dog at your feet.`,
+          es: `El viejo centro nacido en torno a la pesca, con sus callejas bajas, sus puestos de pescado y sus terrazas de especialidades a la brasa. Se recorre con facilidad con correa y, en los días buenos, permite cenar en terraza con el perro a los pies.`,
+          pt: `O velho centro nascido à volta da pesca, com as suas ruelas baixas, as bancas de peixe e as esplanadas de especialidades grelhadas. Percorre-se com facilidade de trela e, nos dias bons, permite jantar na esplanada com o cão aos pés.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale sur les plages surveillées: du 1er juin au 30 septembre environ, les chiens sont bannis des plages balisées du Portugal, repliez-vous sur les praias sauvages du sud comme la Fonte da Telha ou sortez hors saison.`,
+        `Marées et courants atlantiques: la côte est ouverte à la houle et les courants d'arrachement (agueiros) sont fréquents, gardez le chien près du bord et surveillez la marée montante qui réduit vite la plage.`,
+        `Sable brûlant l'été: entre juin et septembre le sable atteint des températures qui brûlent les coussinets aux heures chaudes, préférez le lever du jour ou la fin d'après-midi et testez le sol avec la main.`,
+        `Le petit train Transpraia et la Mata dos Medos offrent des alternatives ombragées quand les plages sont interdites ou trop chaudes, la pinède reste fraîche même en plein été.`,
+        `Pour rejoindre Lisbonne, le ferry Cacilhas-Lisbonne et les bus régionaux acceptent généralement les chiens tenus en laisse et muselés, prévoyez muselière et carnet de vaccination à jour.`,
+      ],
+      en: [
+        `Summer ban on supervised beaches: from roughly 1 June to 30 September, dogs are barred from Portugal's flagged beaches, fall back on the wild southern praias such as Fonte da Telha or visit out of season.`,
+        `Atlantic tides and currents: the coast is open to swell and rip currents (agueiros) are common, keep your dog near the shore and watch the rising tide, which quickly shrinks the beach.`,
+        `Scorching summer sand: between June and September the sand reaches paw-burning temperatures in the hot hours, favour dawn or late afternoon and test the ground with your hand.`,
+        `The little Transpraia train and the Mata dos Medos offer shaded alternatives when beaches are off-limits or too hot, the pine forest stays cool even in high summer.`,
+        `To reach Lisbon, the Cacilhas-Lisbon ferry and regional buses generally accept leashed, muzzled dogs, so bring a muzzle and up-to-date vaccination record.`,
+      ],
+      es: [
+        `Prohibición estival en playas vigiladas: de aproximadamente el 1 de junio al 30 de septiembre, los perros están vetados en las playas balizadas de Portugal, refúgiate en las praias salvajes del sur como la Fonte da Telha o viaja fuera de temporada.`,
+        `Mareas y corrientes atlánticas: la costa está abierta al oleaje y las corrientes de resaca (agueiros) son frecuentes, mantén al perro cerca de la orilla y vigila la marea creciente, que reduce rápido la playa.`,
+        `Arena ardiente en verano: entre junio y septiembre la arena alcanza temperaturas que queman las almohadillas en las horas de calor, prefiere el amanecer o el final de la tarde y comprueba el suelo con la mano.`,
+        `El trenecito Transpraia y la Mata dos Medos ofrecen alternativas con sombra cuando las playas están prohibidas o demasiado calientes, el pinar se mantiene fresco incluso en pleno verano.`,
+        `Para llegar a Lisboa, el ferry Cacilhas-Lisboa y los autobuses regionales suelen aceptar perros con correa y bozal, lleva bozal y cartilla de vacunación al día.`,
+      ],
+      pt: [
+        `Proibição estival nas praias vigiadas: de cerca de 1 de junho a 30 de setembro, os cães são vedados nas praias balizadas de Portugal, refugie-se nas praias selvagens do sul como a Fonte da Telha ou visite fora de época.`,
+        `Marés e correntes atlânticas: a costa está aberta à ondulação e as correntes de retorno (agueiros) são frequentes, mantenha o cão perto da margem e vigie a maré cheia, que reduz depressa a praia.`,
+        `Areia escaldante no verão: entre junho e setembro a areia atinge temperaturas que queimam as almofadas das patas nas horas de calor, prefira o amanhecer ou o fim da tarde e teste o chão com a mão.`,
+        `O comboio Transpraia e a Mata dos Medos oferecem alternativas com sombra quando as praias estão interditas ou demasiado quentes, o pinhal mantém-se fresco mesmo em pleno verão.`,
+        `Para chegar a Lisboa, o ferry Cacilhas-Lisboa e os autocarros regionais costumam aceitar cães de trela e açaimados, leve açaime e boletim de vacinação em dia.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique au Portugal: 112 (police, pompiers, secours).`,
+        `Aéroport le plus proche: Lisbonne (LIS, Humberto Delgado), à environ 20 km par le pont du 25 Avril, puis bus jusqu'à la Costa da Caparica.`,
+        `Climat atlantique tempéré: étés chauds et ensoleillés, hivers doux et humides, le printemps et le début de l'automne sont les plus agréables pour voyager avec un chien.`,
+        `Accès depuis Lisbonne: ferry Cais do Sodré-Cacilhas puis bus, ou bus direct depuis la gare de Sete Rios, prévoyez muselière pour les grands chiens dans les transports.`,
+        `Renseignez-vous auprès de votre hébergement sur la clinique vétérinaire de garde la plus proche à Almada ou Costa da Caparica avant votre arrivée.`,
+      ],
+      en: [
+        `Single emergency number in Portugal: 112 (police, fire, ambulance).`,
+        `Nearest airport: Lisbon (LIS, Humberto Delgado), about 20 km away via the 25 de Abril bridge, then a bus to Costa da Caparica.`,
+        `Mild Atlantic climate: warm sunny summers and mild damp winters, spring and early autumn are the most pleasant for travelling with a dog.`,
+        `Access from Lisbon: the Cais do Sodré-Cacilhas ferry then a bus, or a direct bus from Sete Rios station, carry a muzzle for large dogs on public transport.`,
+        `Ask your accommodation about the nearest on-call veterinary clinic in Almada or Costa da Caparica before you arrive.`,
+      ],
+      es: [
+        `Número de emergencias único en Portugal: 112 (policía, bomberos, ambulancia).`,
+        `Aeropuerto más cercano: Lisboa (LIS, Humberto Delgado), a unos 20 km por el puente 25 de Abril, luego autobús hasta la Costa da Caparica.`,
+        `Clima atlántico templado: veranos cálidos y soleados, inviernos suaves y húmedos, la primavera y el principio del otoño son los más agradables para viajar con perro.`,
+        `Acceso desde Lisboa: ferry Cais do Sodré-Cacilhas y luego autobús, o autobús directo desde la estación de Sete Rios, lleva bozal para perros grandes en el transporte.`,
+        `Pregunta en tu alojamiento por la clínica veterinaria de guardia más cercana en Almada o Costa da Caparica antes de llegar.`,
+      ],
+      pt: [
+        `Número de emergência único em Portugal: 112 (polícia, bombeiros, ambulância).`,
+        `Aeroporto mais próximo: Lisboa (LIS, Humberto Delgado), a cerca de 20 km pela ponte 25 de Abril, depois autocarro até à Costa da Caparica.`,
+        `Clima atlântico temperado: verões quentes e soalheiros, invernos amenos e húmidos, a primavera e o início do outono são os mais agradáveis para viajar com cão.`,
+        `Acesso desde Lisboa: ferry Cais do Sodré-Cacilhas e depois autocarro, ou autocarro direto da estação de Sete Rios, leve açaime para cães grandes nos transportes.`,
+        `Informe-se junto do seu alojamento sobre a clínica veterinária de urgência mais próxima em Almada ou Costa da Caparica antes de chegar.`,
+      ],
+    },
+  },
+
+  denia: {
+    history: {
+      fr: `Dénia s'étire au pied du massif du Montgó, sur la Costa Blanca, à mi-chemin entre Alicante et Valence. Ancienne colonie romaine puis capitale d'une taïfa musulmane au XIᵉ siècle, la ville est dominée par son château médiéval qui abrite le musée archéologique et surplombe un dédale de ruelles et la rue Loreto, artère des tapas. Son port de pêche et de plaisance assure les liaisons en ferry vers Ibiza et Formentère, tandis que la côte se partage entre les longues plages de sable des Marines, au nord, et le littoral rocheux des Rotes, au sud, ponctué de criques. Derrière la ville, le parc naturel du Montgó protège un massif calcaire de 750 mètres sillonné de sentiers. Voyager ici avec un chien suppose de composer avec la forte chaleur méditerranéenne et les interdictions de plage de la haute saison estivale.`,
+      en: `Dénia stretches out at the foot of the Montgó massif on the Costa Blanca, midway between Alicante and Valencia. A former Roman colony and then capital of a Muslim taifa in the 11th century, the town is crowned by its medieval castle, which houses the archaeological museum and overlooks a maze of lanes and Calle Loreto, the tapas street. Its fishing and marina harbour runs the ferries to Ibiza and Formentera, while the coast is split between the long sandy Les Marines beaches to the north and the rocky Les Rotes shore to the south, dotted with coves. Behind the town, the Montgó natural park protects a 750-metre limestone massif laced with trails. Travelling here with a dog means working around the strong Mediterranean heat and the beach bans of the high summer season.`,
+      es: `Dénia se extiende al pie del macizo del Montgó, en la Costa Blanca, a medio camino entre Alicante y Valencia. Antigua colonia romana y luego capital de una taifa musulmana en el siglo XI, la localidad está coronada por su castillo medieval, que alberga el museo arqueológico y domina un laberinto de callejas y la calle Loreto, la vía de las tapas. Su puerto pesquero y deportivo asegura los enlaces en ferry hacia Ibiza y Formentera, mientras que la costa se reparte entre las largas playas de arena de Les Marines, al norte, y el litoral rocoso de Les Rotes, al sur, salpicado de calas. Tras la ciudad, el parque natural del Montgó protege un macizo calcáreo de 750 metros surcado de senderos. Viajar aquí con un perro exige lidiar con el fuerte calor mediterráneo y las prohibiciones de playa de la temporada alta estival.`,
+      pt: `Dénia estende-se ao pé do maciço do Montgó, na Costa Blanca, a meio caminho entre Alicante e Valência. Antiga colónia romana e depois capital de uma taifa muçulmana no século XI, a vila é coroada pelo seu castelo medieval, que alberga o museu arqueológico e domina um labirinto de ruelas e a rua Loreto, a artéria das tapas. O seu porto de pesca e de recreio assegura as ligações de ferry para Ibiza e Formentera, enquanto a costa se reparte entre as longas praias de areia de Les Marines, a norte, e o litoral rochoso de Les Rotes, a sul, pontilhado de enseadas. Por trás da cidade, o parque natural do Montgó protege um maciço calcário de 750 metros sulcado de trilhos. Viajar aqui com um cão exige lidar com o forte calor mediterrânico e as proibições de praia da época alta estival.`,
+    },
+    sights: [
+      {
+        name: `Castell de Dénia`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          fr: `Le château médiéval qui couronne la colline, avec ses remparts, le palais du Gouverneur et le musée archéologique installé dans son enceinte. Les chiens tenus en laisse sont admis dans les jardins et sur les remparts, mais pas à l'intérieur des salles du musée.`,
+          en: `The medieval castle crowning the hill, with its ramparts, the Governor's Palace and the archaeological museum set within its walls. Leashed dogs are allowed in the gardens and on the ramparts, but not inside the museum rooms.`,
+          es: `El castillo medieval que corona la colina, con sus murallas, el Palau del Governador y el museo arqueológico instalado en su recinto. Se admiten perros con correa en los jardines y las murallas, pero no en el interior de las salas del museo.`,
+          pt: `O castelo medieval que coroa a colina, com as suas muralhas, o Palácio do Governador e o museu arqueológico instalado no seu recinto. Admitem-se cães de trela nos jardins e nas muralhas, mas não no interior das salas do museu.`,
+        },
+      },
+      {
+        name: `Parc Natural del Montgó`,
+        emoji: `🥾`,
+        petFriendly: true,
+        desc: {
+          fr: `Le massif calcaire de 750 mètres qui domine la ville, parc naturel sillonné de sentiers entre garrigue et falaises. Les chiens en laisse y sont admis, mais le relief est raide et exposé, emportez de l'eau et évitez les heures chaudes de l'été.`,
+          en: `The 750-metre limestone massif above the town, a natural park laced with trails through scrubland and cliffs. Leashed dogs are allowed, but the terrain is steep and exposed, so carry water and avoid the hot summer hours.`,
+          es: `El macizo calcáreo de 750 metros que domina la ciudad, parque natural surcado de senderos entre matorral y acantilados. Se admiten perros con correa, pero el relieve es empinado y expuesto, lleva agua y evita las horas de calor del verano.`,
+          pt: `O maciço calcário de 750 metros que domina a cidade, parque natural sulcado de trilhos entre mato e falésias. Admitem-se cães de trela, mas o relevo é íngreme e exposto, leve água e evite as horas de calor do verão.`,
+        },
+      },
+      {
+        name: `Les Rotes`,
+        emoji: `🪨`,
+        petFriendly: true,
+        desc: {
+          fr: `Le littoral rocheux au sud de la ville, où de petites criques et des plateformes de roche remplacent le sable. Moins fréquentées et non balisées, plusieurs de ces criques tolèrent les chiens en laisse, surtout hors saison, une alternative aux plages urbaines interdites l'été.`,
+          en: `The rocky shore south of the town, where small coves and rock platforms replace the sand. Quieter and unmarked, several of these coves tolerate leashed dogs, especially out of season, an alternative to the town beaches closed to them in summer.`,
+          es: `El litoral rocoso al sur de la ciudad, donde pequeñas calas y plataformas de roca sustituyen a la arena. Menos concurridas y sin balizar, varias de estas calas toleran perros con correa, sobre todo fuera de temporada, una alternativa a las playas urbanas prohibidas en verano.`,
+          pt: `O litoral rochoso a sul da cidade, onde pequenas enseadas e plataformas de rocha substituem a areia. Menos concorridas e sem balizamento, várias destas enseadas toleram cães de trela, sobretudo fora de época, uma alternativa às praias urbanas interditas no verão.`,
+        },
+      },
+      {
+        name: `Puerto de Dénia`,
+        emoji: `⛴️`,
+        petFriendly: true,
+        desc: {
+          fr: `Le port de pêche et de plaisance, d'où partent les ferries vers Ibiza et Formentère. Les quais et la promenade se parcourent en laisse, et les chiens sont acceptés à bord des ferries selon les règles de la compagnie, généralement en cage ou muselés sur le pont.`,
+          en: `The fishing and marina harbour, from where the ferries leave for Ibiza and Formentera. The quays and promenade are walked on leash, and dogs are accepted aboard the ferries under the operator's rules, usually crated or muzzled on deck.`,
+          es: `El puerto pesquero y deportivo, de donde parten los ferris hacia Ibiza y Formentera. Los muelles y el paseo se recorren con correa, y se admiten perros a bordo de los ferris según las normas de la compañía, normalmente en transportín o con bozal en cubierta.`,
+          pt: `O porto de pesca e de recreio, de onde partem os ferries para Ibiza e Formentera. Os cais e o passeio percorrem-se de trela, e admitem-se cães a bordo dos ferries segundo as regras da companhia, normalmente em transportadora ou açaimados no convés.`,
+        },
+      },
+      {
+        name: `Playa canina de Les Marines`,
+        emoji: `🐕`,
+        petFriendly: true,
+        desc: {
+          fr: `Sur le cordon sableux des Marines, au nord de la ville, Dénia aménage une plage canine où les chiens sont admis, y compris en été. C'est le lieu le plus sûr pour les laisser profiter de la mer quand les plages urbaines leur sont fermées durant la haute saison.`,
+          en: `On the sandy Les Marines strip north of the town, Dénia sets aside a dog beach where dogs are allowed, including in summer. It is the safest place to let them enjoy the sea when the town beaches are closed to them in high season.`,
+          es: `En el cordón arenoso de Les Marines, al norte de la ciudad, Dénia habilita una playa canina donde se admiten perros, incluso en verano. Es el lugar más seguro para dejarlos disfrutar del mar cuando las playas urbanas les están cerradas en temporada alta.`,
+          pt: `No cordão arenoso de Les Marines, a norte da cidade, Dénia disponibiliza uma praia canina onde se admitem cães, mesmo no verão. É o local mais seguro para os deixar desfrutar do mar quando as praias urbanas lhes estão fechadas na época alta.`,
+        },
+      },
+      {
+        name: `Calle Loreto`,
+        emoji: `🍽️`,
+        petFriendly: true,
+        desc: {
+          fr: `Le vieux centre au pied du château, avec ses ruelles et la rue Loreto, artère des tapas bordée de terrasses. Il se parcourt facilement en laisse et, aux beaux jours, de nombreuses terrasses acceptent le chien à ses pieds.`,
+          en: `The old centre below the castle, with its lanes and Calle Loreto, the tapas street lined with terraces. It is easy to walk on leash and, in fine weather, many terraces welcome a dog at your feet.`,
+          es: `El casco antiguo al pie del castillo, con sus callejas y la calle Loreto, la vía de las tapas flanqueada de terrazas. Se recorre con facilidad con correa y, en los días buenos, muchas terrazas aceptan al perro a los pies.`,
+          pt: `O centro antigo ao pé do castelo, com as suas ruelas e a rua Loreto, a artéria das tapas ladeada de esplanadas. Percorre-se com facilidade de trela e, nos dias bons, muitas esplanadas aceitam o cão aos pés.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale sur les plages urbaines: de la Semaine sainte à fin septembre environ, les chiens sont bannis des plages surveillées des Marines, dirigez-vous vers la plage canine aménagée ou les criques des Rotes.`,
+        `Forte chaleur méditerranéenne: de juin à septembre les températures dépassent souvent 30 °C et le sable brûle les coussinets, sortez à l'aube ou en soirée et testez le sol avec la main.`,
+        `Le massif du Montgó est raide et peu ombragé: emportez de l'eau, partez tôt et renoncez aux randonnées aux heures chaudes, la roche calcaire renvoie la chaleur.`,
+        `Pour la traversée en ferry vers les Baléares, vérifiez à l'avance les règles de la compagnie: cage, muselière et carnet de vaccination à jour sont généralement exigés.`,
+        `En Espagne, gardez le chien en laisse en ville et ramassez ses déjections, les amendes municipales sont fréquentes sur la Costa Blanca.`,
+      ],
+      en: [
+        `Summer ban on town beaches: from roughly Easter to late September, dogs are barred from the supervised Les Marines beaches, head instead to the designated dog beach or the Les Rotes coves.`,
+        `Strong Mediterranean heat: from June to September temperatures often top 30 °C and the sand burns paws, head out at dawn or in the evening and test the ground with your hand.`,
+        `The Montgó massif is steep and sparsely shaded: carry water, start early and skip hikes in the hot hours, the limestone rock throws back the heat.`,
+        `For the ferry crossing to the Balearics, check the operator's rules in advance: a crate, muzzle and up-to-date vaccination record are generally required.`,
+        `In Spain, keep your dog leashed in town and pick up after it, municipal fines are common along the Costa Blanca.`,
+      ],
+      es: [
+        `Prohibición estival en playas urbanas: de Semana Santa a finales de septiembre aproximadamente, los perros están vetados en las playas vigiladas de Les Marines, dirígete a la playa canina habilitada o a las calas de Les Rotes.`,
+        `Fuerte calor mediterráneo: de junio a septiembre las temperaturas superan a menudo los 30 °C y la arena quema las almohadillas, sal al amanecer o al atardecer y comprueba el suelo con la mano.`,
+        `El macizo del Montgó es empinado y con poca sombra: lleva agua, madruga y evita las rutas en las horas de calor, la roca caliza devuelve el calor.`,
+        `Para la travesía en ferry a las Baleares, comprueba de antemano las normas de la compañía: transportín, bozal y cartilla de vacunación al día suelen ser obligatorios.`,
+        `En España, mantén al perro con correa en la ciudad y recoge sus excrementos, las multas municipales son frecuentes en la Costa Blanca.`,
+      ],
+      pt: [
+        `Proibição estival nas praias urbanas: da Páscoa a finais de setembro aproximadamente, os cães são vedados nas praias vigiadas de Les Marines, dirija-se à praia canina disponibilizada ou às enseadas de Les Rotes.`,
+        `Forte calor mediterrânico: de junho a setembro as temperaturas ultrapassam muitas vezes os 30 °C e a areia queima as almofadas das patas, saia ao amanhecer ou ao entardecer e teste o chão com a mão.`,
+        `O maciço do Montgó é íngreme e com pouca sombra: leve água, madrugue e evite as caminhadas nas horas de calor, a rocha calcária devolve o calor.`,
+        `Para a travessia de ferry às Baleares, verifique com antecedência as regras da companhia: transportadora, açaime e boletim de vacinação em dia costumam ser obrigatórios.`,
+        `Em Espanha, mantenha o cão de trela na cidade e recolha os dejetos, as multas municipais são frequentes na Costa Blanca.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Espagne: 112 (police, pompiers, secours).`,
+        `Aéroports les plus proches: Alicante (ALC), à environ 100 km, et Valence (VLC), à environ 110 km, tous deux reliés par autoroute.`,
+        `Climat méditerranéen: étés chauds et secs, hivers doux, le printemps et l'automne sont les saisons les plus agréables pour voyager avec un chien.`,
+        `Depuis le port, des ferries desservent Ibiza et Formentère; les chiens sont acceptés selon les règles de la compagnie, réservez leur place à l'avance.`,
+        `Renseignez-vous auprès de votre hébergement sur la clinique vétérinaire de garde la plus proche à Dénia avant votre arrivée.`,
+      ],
+      en: [
+        `Single emergency number in Spain: 112 (police, fire, ambulance).`,
+        `Nearest airports: Alicante (ALC), about 100 km away, and Valencia (VLC), about 110 km, both linked by motorway.`,
+        `Mediterranean climate: hot dry summers and mild winters, spring and autumn are the most pleasant seasons for travelling with a dog.`,
+        `From the harbour, ferries serve Ibiza and Formentera; dogs are accepted under the operator's rules, book their place in advance.`,
+        `Ask your accommodation about the nearest on-call veterinary clinic in Dénia before you arrive.`,
+      ],
+      es: [
+        `Número de emergencias único en España: 112 (policía, bomberos, ambulancia).`,
+        `Aeropuertos más cercanos: Alicante (ALC), a unos 100 km, y Valencia (VLC), a unos 110 km, ambos conectados por autopista.`,
+        `Clima mediterráneo: veranos cálidos y secos, inviernos suaves, la primavera y el otoño son las estaciones más agradables para viajar con perro.`,
+        `Desde el puerto, hay ferris a Ibiza y Formentera; se admiten perros según las normas de la compañía, reserva su plaza con antelación.`,
+        `Pregunta en tu alojamiento por la clínica veterinaria de guardia más cercana en Dénia antes de llegar.`,
+      ],
+      pt: [
+        `Número de emergência único em Espanha: 112 (polícia, bombeiros, ambulância).`,
+        `Aeroportos mais próximos: Alicante (ALC), a cerca de 100 km, e Valência (VLC), a cerca de 110 km, ambos ligados por autoestrada.`,
+        `Clima mediterrânico: verões quentes e secos, invernos amenos, a primavera e o outono são as estações mais agradáveis para viajar com cão.`,
+        `Do porto, há ferries para Ibiza e Formentera; admitem-se cães segundo as regras da companhia, reserve o seu lugar com antecedência.`,
+        `Informe-se junto do seu alojamento sobre a clínica veterinária de urgência mais próxima em Dénia antes de chegar.`,
+      ],
+    },
+  },
+
   dresden: {
     history: {
       fr: `Fondée vers 1206 sur les rives de l'Elbe, Dresde devint au XVIIIᵉ siècle la "Florence du Nord" sous l'électeur Auguste le Fort, qui fit du Zwinger, du Schloss et de la Frauenkirche les emblèmes d'une cour baroque parmi les plus brillantes d'Europe. Le bombardement allié de février 1945 anéantit le centre ; la reconstruction patiente de la Frauenkirche, achevée en 2005, symbolise la résurrection de la ville. Capitale de la Saxe et bordée par les Elbwiesen, prairies fluviales où les chiens courent sans laisse par usage,, Dresde combine patrimoine baroque, forêt urbaine de 5 800 hectares et une flotte historique de bateaux à aubes qui accueille les chiens sans supplément.`,

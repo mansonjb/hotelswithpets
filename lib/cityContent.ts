@@ -10672,6 +10672,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'cluj-napoca': {
+    history: {
+      fr: `Cluj-Napoca, capitale historique de la Transylvanie, est bâtie sur les fondations de la cité romaine de Napoca, au bord de la rivière Someșul Mic. Avec plus de 80 000 étudiants, c'est la grande ville universitaire de la Roumanie, jeune, animée et réputée pour sa culture de terrasses où les chiens sont bien tolérés. Le cœur se resserre autour de la Piața Unirii et de l'église gothique Saint-Michel, dont les animaux n'entrent pas mais dont la place reste un point de rendez-vous agréable. Sur les hauteurs, la colline de la Cetățuia offre un panorama sur les toits et les collines environnantes, tandis que le Parc Central Simion Bărnuțiu et son lac bordent la Cluj Arena. La forêt de Hoia, célèbre et immense, commence aux portes de la ville pour de longues randonnées en laisse. Le climat continental apporte des étés chauds et des hivers froids et enneigés, si bien que le printemps et le début de l'automne sont les saisons les plus confortables pour voyager avec un chien.`,
+      en: `Cluj-Napoca, the historic capital of Transylvania, is built on the foundations of the Roman city of Napoca along the Someșul Mic river. With more than 80,000 students, it is Romania's great university city: young, lively and known for a terrace culture where dogs are well tolerated. The centre tightens around Piața Unirii and the Gothic Church of St Michael, which animals may not enter but whose square remains a pleasant meeting point. On the heights, Cetățuia hill offers a panorama over the rooftops and surrounding hills, while Central Park Simion Bărnuțiu and its lake border the Cluj Arena. The famous, vast Hoia forest begins at the edge of town for long leashed hikes. The continental climate brings warm summers and cold, snowy winters, so spring and early autumn are the most comfortable seasons to travel with a dog.`,
+      es: `Cluj-Napoca, capital histórica de Transilvania, se levanta sobre los cimientos de la ciudad romana de Napoca, a orillas del río Someșul Mic. Con más de 80.000 estudiantes, es la gran ciudad universitaria de Rumanía: joven, animada y conocida por una cultura de terrazas donde los perros son bien tolerados. El centro se estrecha en torno a la Piața Unirii y a la iglesia gótica de San Miguel, en la que no entran los animales pero cuya plaza sigue siendo un agradable punto de encuentro. En las alturas, la colina de la Cetățuia ofrece una panorámica sobre los tejados y las colinas circundantes, mientras que el Parque Central Simion Bărnuțiu y su lago bordean el Cluj Arena. El famoso y extenso bosque de Hoia comienza a las puertas de la ciudad para largas caminatas con correa. El clima continental trae veranos cálidos e inviernos fríos y nevados, así que la primavera y el principio del otoño son las estaciones más cómodas para viajar con perro.`,
+      pt: `Cluj-Napoca, capital histórica da Transilvânia, ergue-se sobre os alicerces da cidade romana de Napoca, às margens do rio Someșul Mic. Com mais de 80.000 estudantes, é a grande cidade universitária da Roménia: jovem, animada e conhecida por uma cultura de esplanadas onde os cães são bem tolerados. O centro aperta-se em torno da Piața Unirii e da igreja gótica de São Miguel, onde os animais não entram mas cuja praça continua a ser um agradável ponto de encontro. Nas alturas, a colina da Cetățuia oferece um panorama sobre os telhados e as colinas em redor, enquanto o Parque Central Simion Bărnuțiu e o seu lago ladeiam o Cluj Arena. A famosa e vasta floresta de Hoia começa às portas da cidade para longas caminhadas com trela. O clima continental traz verões quentes e invernos frios e com neve, pelo que a primavera e o início do outono são as estações mais confortáveis para viajar com cão.`,
+    },
+    sights: [
+      {
+        name: 'Piața Unirii & Biserica Sfântul Mihail',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Grande place centrale dominée par l'église gothique Saint-Michel et la statue de Matei Corvin. Les chiens tenus en laisse sont les bienvenus sur la place, mais n'entrent pas dans l'église.`,
+          en: `The main central square, dominated by the Gothic Church of St Michael and the statue of Matthias Corvinus. Leashed dogs are welcome on the square, though not inside the church.`,
+          es: `Gran plaza central dominada por la iglesia gótica de San Miguel y la estatua de Matías Corvino. Los perros con correa son bienvenidos en la plaza, pero no entran en la iglesia.`,
+          pt: `Grande praça central dominada pela igreja gótica de São Miguel e pela estátua de Matias Corvino. Os cães com trela são bem-vindos na praça, mas não entram na igreja.`,
+        },
+      },
+      {
+        name: 'Dealul Cetățuia',
+        emoji: '🌄',
+        petFriendly: true,
+        desc: {
+          fr: `Colline surmontée d'une ancienne citadelle, accessible à pied par un escalier raide, avec le meilleur panorama sur la ville et la rivière. Chiens en laisse bienvenus sur les sentiers et le belvédère.`,
+          en: `A hill crowned by a former citadel, reached on foot up a steep stairway, with the best panorama over the city and river. Leashed dogs are welcome on the paths and the viewpoint.`,
+          es: `Colina coronada por una antigua ciudadela, a la que se sube a pie por una escalera empinada, con la mejor panorámica de la ciudad y el río. Perros con correa bienvenidos en los senderos y el mirador.`,
+          pt: `Colina coroada por uma antiga cidadela, alcançada a pé por uma escadaria íngreme, com o melhor panorama sobre a cidade e o rio. Cães com trela bem-vindos nos trilhos e no miradouro.`,
+        },
+      },
+      {
+        name: 'Parcul Central Simion Bărnuțiu',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus ancien parc de la ville, avec son lac, ses allées ombragées et le Casino néoclassique, bordé par la Cluj Arena. Chiens en laisse admis dans les allées.`,
+          en: `The city's oldest park, with a boating lake, shaded avenues and the neoclassical Casino, bordered by the Cluj Arena. Leashed dogs are allowed along the paths.`,
+          es: `El parque más antiguo de la ciudad, con su lago, avenidas sombreadas y el Casino neoclásico, junto al Cluj Arena. Perros con correa admitidos en los paseos.`,
+          pt: `O parque mais antigo da cidade, com o seu lago, avenidas sombreadas e o Casino neoclássico, junto à Cluj Arena. Cães com trela admitidos nas alamedas.`,
+        },
+      },
+      {
+        name: 'Grădina Botanică Alexandru Borza',
+        emoji: '🌿',
+        petFriendly: false,
+        desc: {
+          fr: `Vaste jardin botanique universitaire réputé pour ses serres et son jardin japonais. Les animaux n'y sont pas admis, sauf chiens guides ; préférez le Parc Central voisin.`,
+          en: `A large university botanical garden famed for its glasshouses and Japanese garden. Pets are not admitted except guide dogs; choose the nearby Central Park instead.`,
+          es: `Amplio jardín botánico universitario famoso por sus invernaderos y su jardín japonés. No se admiten animales salvo perros guía; opta por el Parque Central cercano.`,
+          pt: `Vasto jardim botânico universitário famoso pelas suas estufas e pelo jardim japonês. Não são admitidos animais, exceto cães-guia; prefira o Parque Central ao lado.`,
+        },
+      },
+      {
+        name: 'Pădurea Hoia',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Grande forêt aux portes de la ville, célèbre pour ses légendes, sillonnée de sentiers et de pistes cyclables. Idéale pour de longues randonnées, chien en laisse recommandée près des zones de VTT.`,
+          en: `A large forest at the edge of town, famous for its legends and laced with trails and bike paths. Ideal for long hikes, with dogs best kept leashed near the mountain-bike areas.`,
+          es: `Gran bosque a las puertas de la ciudad, famoso por sus leyendas y surcado de senderos y pistas ciclistas. Ideal para largas caminatas, con perros mejor con correa cerca de las zonas de bici.`,
+          pt: `Grande floresta às portas da cidade, famosa pelas suas lendas e cruzada por trilhos e pistas de bicicleta. Ideal para longas caminhadas, com os cães de preferência com trela junto às zonas de BTT.`,
+        },
+      },
+      {
+        name: 'Piața Muzeului',
+        emoji: '☕',
+        petFriendly: true,
+        desc: {
+          fr: `Place pavée de la vieille ville, cœur de la vie des terrasses autour de l'obélisque et de l'église franciscaine. Chiens en laisse bienvenus aux tables extérieures des cafés.`,
+          en: `A cobbled old-town square, the heart of terrace life around its obelisk and the Franciscan church. Leashed dogs are welcome at the cafés' outdoor tables.`,
+          es: `Plaza empedrada del casco antiguo, corazón de la vida de terrazas en torno al obelisco y la iglesia franciscana. Perros con correa bienvenidos en las mesas exteriores de los cafés.`,
+          pt: `Praça empedrada da cidade velha, coração da vida de esplanadas em torno do obelisco e da igreja franciscana. Cães com trela bem-vindos nas mesas exteriores dos cafés.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Numéro d'urgence unique en Roumanie : 112 ; demandez le vétérinaire de garde le plus proche, plusieurs cliniques du centre assurent des urgences.`,
+        `Été continental chaud : promenez tôt le matin ou en soirée et emportez de l'eau, l'ombre est rare sur la colline de la Cetățuia en plein après-midi.`,
+        `Hivers froids et enneigés de décembre à février : pour les petits chiens à poil ras, prévoyez un manteau et surveillez le sel de déneigement sur les trottoirs.`,
+        `Tenez le chien en laisse dans la forêt de Hoia près des pistes de VTT et méfiez-vous des tiques du printemps à l'automne (prévention antiparasitaire recommandée).`,
+        `Le jardin botanique Alexandru Borza est interdit aux chiens ; repliez-vous sur le Parc Central Simion Bărnuțiu ou la colline de la Cetățuia.`,
+      ],
+      en: [
+        `Romania's single emergency number is 112; ask for the nearest on-call vet, as several city-centre clinics handle emergencies.`,
+        `Continental summers get hot: walk early or in the evening and carry water, since shade is scarce on Cetățuia hill in mid-afternoon.`,
+        `Winters are cold and snowy from December to February: pack a coat for small short-haired dogs and watch for de-icing salt on the pavements.`,
+        `Keep your dog leashed in the Hoia forest near the mountain-bike trails, and guard against ticks from spring to autumn (parasite prevention advised).`,
+        `The Alexandru Borza Botanical Garden bans dogs; fall back on Central Park Simion Bărnuțiu or Cetățuia hill.`,
+      ],
+      es: [
+        `El número único de emergencias en Rumanía es el 112; pide el veterinario de guardia más cercano, ya que varias clínicas del centro atienden urgencias.`,
+        `Los veranos continentales son calurosos: pasea temprano o al atardecer y lleva agua, pues la sombra escasea en la colina de la Cetățuia a media tarde.`,
+        `Los inviernos son fríos y nevados de diciembre a febrero: lleva abrigo para perros pequeños de pelo corto y vigila la sal de deshielo en las aceras.`,
+        `Mantén al perro con correa en el bosque de Hoia cerca de las pistas de bici y protégelo de las garrapatas de primavera a otoño (se recomienda antiparasitario).`,
+        `El Jardín Botánico Alexandru Borza prohíbe los perros; recurre al Parque Central Simion Bărnuțiu o a la colina de la Cetățuia.`,
+      ],
+      pt: [
+        `O número único de emergência na Roménia é o 112; peça o veterinário de urgência mais próximo, pois várias clínicas do centro atendem urgências.`,
+        `Os verões continentais são quentes: passeie de manhã cedo ou ao fim do dia e leve água, pois a sombra escasseia na colina da Cetățuia a meio da tarde.`,
+        `Os invernos são frios e com neve de dezembro a fevereiro: leve um casaco para cães pequenos de pelo curto e atenção ao sal de degelo nos passeios.`,
+        `Mantenha o cão com trela na floresta de Hoia junto às pistas de BTT e proteja-o das carraças da primavera ao outono (recomenda-se antiparasitário).`,
+        `O Jardim Botânico Alexandru Borza proíbe cães; opte pelo Parque Central Simion Bărnuțiu ou pela colina da Cetățuia.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `La Roumanie est dans l'UE : passeport européen pour animaux, puce ISO et vaccination antirabique à jour suffisent à l'entrée.`,
+        `Laisse obligatoire dans les espaces publics ; les races considérées comme dangereuses doivent porter une muselière et être déclarées.`,
+        `L'aéroport international Avram Iancu (CLJ) relie de nombreuses villes européennes et applique les règles standard de l'UE pour les animaux en cabine ou en soute.`,
+        `Excursions possibles avec chien en laisse : la mine de sel de Turda et les gorges de Turda (Cheile Turzii) à environ 30 km, vérifiez la politique animaux à l'entrée de la mine.`,
+        `Numéro d'urgence général : 112 ; de nombreux cafés et terrasses acceptent les chiens, mais demandez toujours avant d'entrer dans les commerces.`,
+      ],
+      en: [
+        `Romania is in the EU: an EU pet passport, ISO microchip and up-to-date rabies vaccination are enough for entry.`,
+        `Leashes are required in public spaces; breeds deemed dangerous must be muzzled and formally declared.`,
+        `Avram Iancu International Airport (CLJ) connects many European cities and applies standard EU rules for pets in cabin or hold.`,
+        `Day trips with a leashed dog include the Turda salt mine and the Turda Gorge (Cheile Turzii) about 30 km away; check the pet policy at the mine entrance.`,
+        `The general emergency number is 112; many cafés and terraces accept dogs, but always ask before entering shops.`,
+      ],
+      es: [
+        `Rumanía está en la UE: bastan el pasaporte europeo para animales, el microchip ISO y la vacuna antirrábica en regla para entrar.`,
+        `Correa obligatoria en los espacios públicos; las razas consideradas peligrosas deben llevar bozal y estar declaradas.`,
+        `El Aeropuerto Internacional Avram Iancu (CLJ) conecta con muchas ciudades europeas y aplica las normas estándar de la UE para mascotas en cabina o bodega.`,
+        `Excursiones con perro con correa: la mina de sal de Turda y las gargantas de Turda (Cheile Turzii) a unos 30 km; comprueba la política de mascotas en la entrada de la mina.`,
+        `Número general de emergencias: 112; muchos cafés y terrazas admiten perros, pero pregunta siempre antes de entrar en los comercios.`,
+      ],
+      pt: [
+        `A Roménia está na UE: bastam o passaporte europeu para animais, o microchip ISO e a vacina antirrábica em dia para entrar.`,
+        `Trela obrigatória nos espaços públicos; as raças consideradas perigosas devem usar açaime e estar declaradas.`,
+        `O Aeroporto Internacional Avram Iancu (CLJ) liga a muitas cidades europeias e aplica as regras padrão da UE para animais em cabina ou porão.`,
+        `Passeios com cão à trela: a mina de sal de Turda e as gargantas de Turda (Cheile Turzii) a cerca de 30 km; confirme a política de animais à entrada da mina.`,
+        `Número geral de emergência: 112; muitos cafés e esplanadas admitem cães, mas pergunte sempre antes de entrar nos estabelecimentos.`,
+      ],
+    },
+  },
+
   cologne: {
     history: {
       fr: `Cologne (Köln), fondée par les Romains en 50 apr. J.-C. sous le nom de Colonia Claudia Ara Agrippinensium, est la quatrième ville d'Allemagne et la gardienne de la cathédrale gothique classée à l'UNESCO, dont les deux flèches dominent les berges du Rhin. Reconstruite après les bombardements, elle mêle l'effervescence du Carnaval à l'esprit décontracté de la Rhénanie. La culture canine y est solidement ancrée : la Rhénanie-du-Nord-Westphalie impose une Hundesteuer annuelle (environ 156 euros pour le premier chien en 2026) et l'enregistrement de l'animal auprès de la ville. Les grandes races ou races dites « listées » doivent passer un test comportemental, et leur maître détenir un Hundeführerschein. Les propriétaires em règle profitent de vastes espaces verts, de promenades au bord du fleuve et de cafés où la gamelle d'eau à l'entrée est la norme.`,
@@ -14301,6 +14438,143 @@ const cityContent: Record<string, CityContent> = {
         `Raças potencialmente perigosas (Pit Bull, Rottweiler, Staffordshire, Tosa): açaime obrigatório em público, seguro e licença do dono.`,
         `O Jardim Botânico da Madeira não admite animais excepto cães-guia; alternativa pet-friendly: Parque de Santa Catarina.`,
         `O aeroporto FNC é conhecido pelo vento e pela pista curta; para cães ansiosos prefira chegadas matinais com ventos cruzados mais calmos.`,
+      ],
+    },
+  },
+
+  fundao: {
+    history: {
+      fr: `Fundão, chef-lieu du district de Castelo Branco au cœur de la Beira intérieure, s'étend au pied de la Serra da Gardunha, à quelques kilomètres de la Serra da Estrela. Cette petite ville de granite doit sa renommée à ses cerisiers : chaque juin, la Festa da Cereja célèbre une récolte qui teinte de rouge les vergers en terrasses de la montagne. Autour de la Praça do Município et du Convento de Santo António, les rues gardent un rythme rural paisible où la culture des quintas et des esplanadas reste très accueillante pour les chiens. Le Portugal intérieur offre des étés chauds et secs mais un air de montagne plus frais, idéal pour randonner sur les sentiers de la Gardunha ou parcourir les Aldeias Históricas voisines comme Castelo Novo, dont les ruelles de granite se prêtent bien à une promenade en laisse. Ce n'est pas une destination balnéaire : ici, ce sont les collines, les villages et les rivières qui rythment le séjour.`,
+      en: `Fundão, seat of the Castelo Branco district in the heart of Portugal's Beira interior, spreads at the foot of the Serra da Gardunha, only a few kilometres from the Serra da Estrela. This small granite town owes its fame to its cherry trees: every June the Festa da Cereja celebrates a harvest that turns the mountain's terraced orchards deep red. Around the Praça do Município and the Convento de Santo António, the streets keep a calm rural rhythm where the culture of country quintas and open-air esplanadas is very welcoming to dogs. Inland Portugal brings hot dry summers but cooler mountain air, ideal for hiking the Gardunha trails or wandering the nearby Historical Villages such as Castelo Novo, whose granite lanes suit a gentle leashed walk. This is not a seaside destination: here it is the hills, the villages and the rivers that shape a stay.`,
+      es: `Fundão, capital del distrito de Castelo Branco en el corazón de la Beira interior portuguesa, se extiende al pie de la Serra da Gardunha, a pocos kilómetros de la Serra da Estrela. Esta pequeña ciudad de granito debe su fama a sus cerezos: cada junio la Festa da Cereja celebra una cosecha que tiñe de rojo los huertos en terrazas de la montaña. En torno a la Praça do Município y al Convento de Santo António, las calles conservan un ritmo rural tranquilo donde la cultura de las quintas y de las terrazas al aire libre resulta muy acogedora para los perros. El Portugal interior ofrece veranos calurosos y secos pero un aire de montaña más fresco, ideal para caminar por los senderos de la Gardunha o recorrer las Aldeias Históricas cercanas como Castelo Novo, cuyas callejuelas de granito se prestan a un paseo con correa. No es un destino de playa: aquí son las colinas, los pueblos y los ríos los que marcan la estancia.`,
+      pt: `Fundão, sede do distrito de Castelo Branco no coração da Beira interior, estende-se ao pé da Serra da Gardunha, a poucos quilómetros da Serra da Estrela. Esta pequena cidade de granito deve a sua fama às cerejeiras: todos os junhos a Festa da Cereja celebra uma colheita que tinge de vermelho os pomares em socalcos da montanha. Em redor da Praça do Município e do Convento de Santo António, as ruas mantêm um ritmo rural tranquilo, onde a cultura das quintas e das esplanadas é muito acolhedora para cães. O Portugal interior tem verões quentes e secos mas um ar de montanha mais fresco, ideal para caminhar pelos trilhos da Gardunha ou percorrer as Aldeias Históricas vizinhas como Castelo Novo, cujas ruelas de granito se prestam a um passeio com trela. Não é um destino balnear: aqui são as colinas, as aldeias e os rios que dão o ritmo à estadia.`,
+    },
+    sights: [
+      {
+        name: 'Praça do Município',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Place principale de la ville, bordée par la mairie et animée par les terrasses et le marché. Chiens en laisse bienvenus, point de départ idéal pour explorer le centre à pied.`,
+          en: `The town's main square, lined by the town hall and lively with esplanadas and the market. Leashed dogs are welcome, an ideal starting point for exploring the centre on foot.`,
+          es: `Plaza principal de la ciudad, flanqueada por el ayuntamiento y animada por las terrazas y el mercado. Perros con correa bienvenidos, punto de partida ideal para recorrer el centro a pie.`,
+          pt: `Praça principal da cidade, ladeada pela câmara municipal e animada pelas esplanadas e pelo mercado. Cães com trela bem-vindos, ponto de partida ideal para explorar o centro a pé.`,
+        },
+      },
+      {
+        name: 'Convento de Santo António',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Ancien couvent franciscain du XVIIe siècle, aujourd'hui espace culturel, avec un parvis et des jardins ouverts. Chiens en laisse admis dans les espaces extérieurs, pas à l'intérieur.`,
+          en: `A former 17th-century Franciscan convent, now a cultural venue, with an open forecourt and gardens. Leashed dogs are welcome in the outdoor areas, though not inside.`,
+          es: `Antiguo convento franciscano del siglo XVII, hoy espacio cultural, con atrio y jardines abiertos. Perros con correa admitidos en las zonas exteriores, no en el interior.`,
+          pt: `Antigo convento franciscano do século XVII, hoje espaço cultural, com adro e jardins abertos. Cães com trela admitidos nos espaços exteriores, não no interior.`,
+        },
+      },
+      {
+        name: 'Serra da Gardunha',
+        emoji: '🏔️',
+        petFriendly: true,
+        desc: {
+          fr: `Montagne granitique qui domine la ville, quadrillée de sentiers de randonnée et de vergers de cerisiers. Chiens en laisse bienvenus, prévoyez de l'eau car les points d'ombre sont espacés en été.`,
+          en: `The granite mountain rising above town, criss-crossed by hiking trails and cherry orchards. Leashed dogs are welcome; bring water, as shade is patchy in summer.`,
+          es: `Montaña granítica que domina la ciudad, surcada por senderos y huertos de cerezos. Perros con correa bienvenidos; lleva agua, pues la sombra es escasa en verano.`,
+          pt: `Montanha granítica que domina a cidade, cruzada por trilhos e pomares de cerejeira. Cães com trela bem-vindos; leve água, pois a sombra é escassa no verão.`,
+        },
+      },
+      {
+        name: 'Aldeia Histórica de Castelo Novo',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Village historique de granite au flanc de la Gardunha, avec pilori, fontaine royale et ruelles pavées. Chiens en laisse bienvenus dans les rues, à une vingtaine de minutes de Fundão.`,
+          en: `A granite Historical Village on the Gardunha's slopes, with its pillory, royal fountain and cobbled lanes. Leashed dogs are welcome through the streets, about twenty minutes from Fundão.`,
+          es: `Aldea histórica de granito en la ladera de la Gardunha, con picota, fuente real y callejuelas empedradas. Perros con correa bienvenidos por las calles, a unos veinte minutos de Fundão.`,
+          pt: `Aldeia Histórica de granito na encosta da Gardunha, com pelourinho, fonte real e ruelas empedradas. Cães com trela bem-vindos pelas ruas, a cerca de vinte minutos do Fundão.`,
+        },
+      },
+      {
+        name: 'Alpedrinha',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Ancien bourg thermal et étape de la route royale, riche en fontaines baroques et demeures de granite. Ses ruelles tranquilles se parcourent facilement en laisse.`,
+          en: `An old spa town and stage on the royal road, rich in baroque fountains and granite manor houses. Its quiet lanes are easy to wander on a leash.`,
+          es: `Antiguo pueblo termal y etapa del camino real, rico en fuentes barrocas y casonas de granito. Sus tranquilas callejuelas se recorren fácilmente con correa.`,
+          pt: `Antiga vila termal e etapa da estrada real, rica em fontes barrocas e casas senhoriais de granito. As suas ruelas tranquilas percorrem-se facilmente com trela.`,
+        },
+      },
+      {
+        name: 'Pomares de Cereja da Gardunha',
+        emoji: '🍒',
+        petFriendly: true,
+        desc: {
+          fr: `Vergers de cerisiers en terrasses qui couvrent les pentes de la Gardunha et rougissent en juin pour la Festa da Cereja. Sentiers ruraux parfaits pour une promenade en laisse au printemps.`,
+          en: `Terraced cherry orchards blanketing the Gardunha's slopes, turning red in June for the Festa da Cereja. Rural paths perfect for a leashed spring walk.`,
+          es: `Huertos de cerezos en terrazas que cubren las laderas de la Gardunha y enrojecen en junio para la Festa da Cereja. Senderos rurales perfectos para un paseo con correa en primavera.`,
+          pt: `Pomares de cerejeira em socalcos que cobrem as encostas da Gardunha e avermelham em junho para a Festa da Cereja. Caminhos rurais perfeitos para um passeio com trela na primavera.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Numéro d'urgence unique au Portugal : 112 ; demandez à votre hébergement la clinique vétérinaire la plus proche, plusieurs cabinets desservent le Fundão et la Cova da Beira.`,
+        `Étés chauds et secs dans l'intérieur : promenez tôt le matin ou en fin de journée et emportez toujours de l'eau sur les sentiers de la Gardunha.`,
+        `Beaucoup de quintas et d'hébergements ruraux acceptent les chiens, mais confirmez toujours à la réservation, surtout hors du centre-ville.`,
+        `Sur les sentiers de montagne, tenez le chien en laisse près des troupeaux et surveillez les tiques et les chenilles processionnaires du pin en fin d'hiver et au printemps.`,
+        `Aux baignades en rivière (praias fluviais) des environs, les chiens sont souvent interdits dans les zones surveillées l'été : privilégiez les tronçons libres en amont.`,
+      ],
+      en: [
+        `Portugal's single emergency number is 112; ask your accommodation for the nearest vet, as several practices serve Fundão and the Cova da Beira.`,
+        `Inland summers are hot and dry: walk early or late and always carry water on the Gardunha trails.`,
+        `Many quintas and rural stays accept dogs, but always confirm when booking, especially outside the town centre.`,
+        `On mountain trails keep your dog leashed near grazing flocks and watch for ticks and pine processionary caterpillars in late winter and spring.`,
+        `At the area's river beaches (praias fluviais), dogs are often banned from supervised zones in summer: favour the free stretches upstream.`,
+      ],
+      es: [
+        `El número único de emergencias en Portugal es el 112; pregunta en tu alojamiento por el veterinario más cercano, ya que varias consultas atienden Fundão y la Cova da Beira.`,
+        `Los veranos del interior son calurosos y secos: pasea temprano o al final del día y lleva siempre agua en los senderos de la Gardunha.`,
+        `Muchas quintas y alojamientos rurales admiten perros, pero confirma siempre al reservar, sobre todo fuera del centro.`,
+        `En los senderos de montaña mantén al perro con correa cerca de los rebaños y vigila las garrapatas y la procesionaria del pino a fines de invierno y en primavera.`,
+        `En las playas fluviales de los alrededores suele prohibirse a los perros en las zonas vigiladas en verano: prefiere los tramos libres aguas arriba.`,
+      ],
+      pt: [
+        `O número único de emergência em Portugal é o 112; peça ao seu alojamento o veterinário mais próximo, pois vários consultórios servem o Fundão e a Cova da Beira.`,
+        `Os verões do interior são quentes e secos: passeie de manhã cedo ou ao fim do dia e leve sempre água nos trilhos da Gardunha.`,
+        `Muitas quintas e alojamentos rurais aceitam cães, mas confirme sempre na reserva, sobretudo fora do centro.`,
+        `Nos trilhos de montanha mantenha o cão com trela junto aos rebanhos e atenção às carraças e à processionária do pinheiro no fim do inverno e na primavera.`,
+        `Nas praias fluviais dos arredores, os cães são muitas vezes proibidos nas zonas vigiadas no verão: prefira os troços livres a montante.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Le Portugal est dans l'UE : passeport européen pour animaux, puce ISO et vaccination antirabique à jour suffisent à l'entrée.`,
+        `Laisse obligatoire dans les espaces publics ; les races potentiellement dangereuses doivent porter une muselière et faire l'objet d'une assurance.`,
+        `Le Fundão est desservi par la ligne ferroviaire de la Beira Baixa (liaisons vers Covilhã, Castelo Branco et Lisbonne) ; la CP admet les petits chiens en cage et les grands chiens muselés en laisse.`,
+        `Ce n'est pas une destination balnéaire : le climat de montagne est plus frais que sur la côte, prévoyez de quoi couvrir un petit chien lors des soirées fraîches en altitude.`,
+        `Numéro d'urgence général : 112 ; renseignez-vous sur les horaires du vétérinaire local, les gardes de nuit peuvent renvoyer vers Covilhã ou Castelo Branco.`,
+      ],
+      en: [
+        `Portugal is in the EU: an EU pet passport, ISO microchip and up-to-date rabies vaccination are enough for entry.`,
+        `Leashes are mandatory in public spaces; potentially dangerous breeds must be muzzled and covered by insurance.`,
+        `Fundão sits on the Beira Baixa railway (links to Covilhã, Castelo Branco and Lisbon); CP carries small dogs in carriers and large dogs muzzled on a leash.`,
+        `This is not a seaside destination: the mountain climate is cooler than the coast, so pack a layer for a small dog on chilly upland evenings.`,
+        `The general emergency number is 112; check the local vet's hours, as overnight cover may redirect you to Covilhã or Castelo Branco.`,
+      ],
+      es: [
+        `Portugal está en la UE: bastan el pasaporte europeo para animales, el microchip ISO y la vacuna antirrábica en regla para entrar.`,
+        `Correa obligatoria en los espacios públicos; las razas potencialmente peligrosas deben llevar bozal y contar con seguro.`,
+        `Fundão está en la línea ferroviaria de la Beira Baixa (enlaces con Covilhã, Castelo Branco y Lisboa); CP admite perros pequeños en transportín y grandes con bozal y correa.`,
+        `No es un destino de playa: el clima de montaña es más fresco que en la costa, lleva algo de abrigo para un perro pequeño en las noches frescas de altura.`,
+        `Número general de emergencias: 112; infórmate del horario del veterinario local, ya que la guardia nocturna puede derivarte a Covilhã o Castelo Branco.`,
+      ],
+      pt: [
+        `Portugal está na UE: bastam o passaporte europeu para animais, o microchip ISO e a vacina antirrábica em dia para entrar.`,
+        `Trela obrigatória nos espaços públicos; as raças potencialmente perigosas devem usar açaime e ter seguro.`,
+        `O Fundão está na linha ferroviária da Beira Baixa (ligações a Covilhã, Castelo Branco e Lisboa); a CP transporta cães pequenos em transportadora e cães grandes com açaime e trela.`,
+        `Não é um destino balnear: o clima de montanha é mais fresco do que na costa, leve algo para agasalhar um cão pequeno nas noites frescas de altitude.`,
+        `Número geral de emergência: 112; confirme o horário do veterinário local, pois a urgência nocturna pode encaminhar para a Covilhã ou Castelo Branco.`,
       ],
     },
   },

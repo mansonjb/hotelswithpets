@@ -204,10 +204,10 @@ export async function generateStaticParams() {
 // for visitors searching "{thing} in {city}" instead of locals searching "{thing} near me".
 const META_TPL: Record<string, Record<'en' | 'fr' | 'es' | 'pt', { title: (c: string) => string; desc: (c: string) => string }>> = {
   parks: {
-    en: { title: c => `Dog-friendly parks in ${c}: a visitor's guide`, desc: c => `Off-leash zones, fenced dog runs and quiet walks in ${c}, mapped for travellers visiting with their dog. Verified locations and rules.` },
-    fr: { title: c => `Parcs pour chiens à ${c} : guide du voyageur`, desc: c => `Zones sans laisse, espaces clôturés et promenades à ${c}, repérés pour les voyageurs qui visitent avec leur chien. Adresses et règles vérifiées.` },
-    es: { title: c => `Parques caninos en ${c}: guía para viajeros`, desc: c => `Zonas sin correa, recintos vallados y paseos en ${c}, seleccionados para viajeros que visitan con su perro. Direcciones y normas verificadas.` },
-    pt: { title: c => `Parques para cães em ${c}: guia do viajante`, desc: c => `Zonas sem trela, recintos vedados e passeios em ${c}, selecionados para viajantes que visitam com o seu cão. Moradas e regras verificadas.` },
+    en: { title: c => `Dog parks in ${c}: off-leash zones & fenced runs`, desc: c => `Off-leash zones, fenced dog runs and quiet walks in ${c}, mapped for travellers visiting with their dog. Verified locations and rules.` },
+    fr: { title: c => `Parcs canins à ${c} : zones sans laisse & espaces clôturés`, desc: c => `Zones sans laisse, espaces clôturés et promenades à ${c}, repérés pour les voyageurs qui visitent avec leur chien. Adresses et règles vérifiées.` },
+    es: { title: c => `Parques para perros en ${c}: zonas sin correa y vallados`, desc: c => `Zonas sin correa, recintos vallados y paseos en ${c}, seleccionados para viajeros que visitan con su perro. Direcciones y normas verificadas.` },
+    pt: { title: c => `Parques para cães em ${c}: zonas sem trela e vedados`, desc: c => `Zonas sem trela, recintos vedados e passeios em ${c}, selecionados para viajantes que visitam com o seu cão. Moradas e regras verificadas.` },
   },
   tips: {
     en: { title: c => `Travelling to ${c} with a dog: rules, vets & transport`, desc: c => `What to know before visiting ${c} with your dog or cat: local rules, summer-heat warnings, transport policies, emergency vet contacts. All verified at source.` },

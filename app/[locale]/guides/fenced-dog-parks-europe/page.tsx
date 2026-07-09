@@ -744,13 +744,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     en: `${PARKS.length} Fenced Dog Parks in Europe, Off-Leash Zones Verified (${new Date().getFullYear()}) | HotelsWithPets`,
     fr: `${PARKS.length} parcs canins clôturés en Europe, zones sans laisse vérifiées (${new Date().getFullYear()}) | HotelsWithPets`,
     es: `${PARKS.length} parques caninos vallados en Europa, zonas sin correa verificadas (${new Date().getFullYear()}) | HotelsWithPets`,
-    pt: `${PARKS.length} parques caninos vallados en Europa, zonas sem trela verificadas (${new Date().getFullYear()}) | HotelsWithPets`,
+    pt: `${PARKS.length} parques caninos vedados na Europa, zonas sem trela verificadas (${new Date().getFullYear()}) | HotelsWithPets`,
   }
   const descs: Record<string, string> = {
     en: `Verified list of ${PARKS.length} fenced dog parks across ${CITY_COUNT} European cities, secure off-leash zones, neighbourhood, size and the parent city guide for each park.`,
     fr: `Liste vérifiée de ${PARKS.length} parcs canins clôturés dans ${CITY_COUNT} villes européennes, zones sans laisse sécurisées, quartier, surface et guide de ville parent pour chacun.`,
     es: `Lista verificada de ${PARKS.length} parques caninos vallados en ${CITY_COUNT} ciudades europeas, zonas sin correa seguras, barrio, superficie y guía de la ciudad de cada parque.`,
-    pt: `Lista verificada de ${PARKS.length} parques caninos vallados en ${CITY_COUNT} cidades europeias, zonas sem trela seguras, bairro, superficie e guía da cidade de cada parque.`,
+    pt: `Lista verificada de ${PARKS.length} parques caninos vedados em ${CITY_COUNT} cidades europeias, zonas sem trela seguras, bairro, área e guia da cidade de cada parque.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {

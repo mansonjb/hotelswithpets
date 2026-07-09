@@ -3291,6 +3291,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  begur: {
+    history: {
+      fr: `Perché sur les hauteurs de la Costa Brava, dans le Baix Empordà catalan, Begur domine un chapelet de criques parmi les plus belles de la côte. Le village est couronné par les ruines de son château médiéval, dont les remparts offrent un panorama à 360° sur la mer et l'arrière-pays. Ses ruelles gardent la trace des indianos, ces enfants du pays partis faire fortune à Cuba au XIXe siècle et revenus bâtir de somptueuses demeures coloniales aux façades colorées et aux palmiers. En contrebas, les calanques de Sa Riera, Aiguablava et Sa Tuna alternent galets, pins et eaux turquoise, reliées par le camí de ronda, sentier littoral historique taillé dans la roche. Pour un voyageur avec chien, Begur est un bonheur hors saison : le camí de ronda se parcourt en laisse toute l'année, et il compense largement les interdictions estivales qui frappent les plages principales en été.`,
+      en: `Perched on the heights of the Costa Brava, in Catalonia's Baix Empordà, Begur overlooks a string of some of the coast's finest coves. The village is crowned by the ruins of its medieval castle, whose ramparts give a 360-degree panorama over the sea and the hinterland. Its lanes still bear the mark of the indianos, local sons who went to make their fortune in Cuba in the 19th century and returned to build lavish colonial mansions with colourful facades and palm trees. Below, the coves of Sa Riera, Aiguablava and Sa Tuna alternate pebbles, pines and turquoise water, linked by the camí de ronda, a historic coastal path cut into the rock. For a traveller with a dog, Begur is a delight off season: the camí de ronda can be walked on a leash all year round, and it more than makes up for the summer bans on the main beaches.`,
+      es: `Encaramado en las alturas de la Costa Brava, en el Baix Empordà catalán, Begur domina un rosario de calas entre las más bellas del litoral. El pueblo está coronado por las ruinas de su castillo medieval, cuyas murallas ofrecen un panorama de 360° sobre el mar y el interior. Sus callejuelas conservan la huella de los indianos, hijos del pueblo que partieron a hacer fortuna a Cuba en el siglo XIX y regresaron a construir suntuosas mansiones coloniales de fachadas coloridas y palmeras. Más abajo, las calas de Sa Riera, Aiguablava y Sa Tuna alternan guijarros, pinos y aguas turquesa, unidas por el camí de ronda, sendero litoral histórico tallado en la roca. Para un viajero con perro, Begur es una delicia fuera de temporada: el camí de ronda se recorre con correa todo el año, y compensa con creces las prohibiciones estivales que afectan a las playas principales en verano.`,
+      pt: `Empoleirado nas alturas da Costa Brava, no Baix Empordà catalão, Begur domina um rosário de enseadas entre as mais belas do litoral. A aldeia é coroada pelas ruínas do seu castelo medieval, cujas muralhas oferecem um panorama de 360° sobre o mar e o interior. As suas ruelas guardam a marca dos indianos, filhos da terra que partiram para fazer fortuna em Cuba no século XIX e regressaram para construir sumptuosas mansões coloniais de fachadas coloridas e palmeiras. Mais abaixo, as enseadas de Sa Riera, Aiguablava e Sa Tuna alternam seixos, pinheiros e águas turquesa, ligadas pelo camí de ronda, trilho litoral histórico talhado na rocha. Para um viajante com cão, Begur é uma delícia fora de época: o camí de ronda percorre-se com trela o ano inteiro, e compensa largamente as proibições estivais que atingem as praias principais no verão.`,
+    },
+    sights: [
+      { name: 'Castell de Begur', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Ruines du château médiéval au sommet du village, dont les remparts livrent un panorama à 360° sur les criques et l'arrière-pays. Montée à pied librement accessible, chiens en laisse bienvenus, prévoyez de l'eau car l'ombre y est rare.`,
+        en: `Ruins of the medieval castle at the top of the village, whose ramparts offer a 360-degree panorama over the coves and hinterland. A freely accessible walk up, with leashed dogs welcome; bring water, as shade is scarce.`,
+        es: `Ruinas del castillo medieval en la cima del pueblo, cuyas murallas brindan un panorama de 360° sobre las calas y el interior. Subida a pie de acceso libre, perros con correa bienvenidos, lleva agua pues la sombra escasea.`,
+        pt: `Ruínas do castelo medieval no topo da aldeia, cujas muralhas dão um panorama de 360° sobre as enseadas e o interior. Subida a pé de acesso livre, cães com trela bem-vindos, leve água pois a sombra é escassa.`,
+      }},
+      { name: 'Camí de Ronda', emoji: '🥾', petFriendly: true, desc: {
+        fr: `Sentier littoral historique taillé dans la roche reliant les criques de Begur, entre pins et à-pics sur la mer. Le joyau dog-friendly du secteur : chiens en laisse admis toute l'année, y compris en été quand les plages sont interdites.`,
+        en: `A historic coastal path cut into the rock linking Begur's coves, between pines and sheer drops to the sea. The dog-friendly gem of the area: leashed dogs allowed all year round, including in summer when the beaches are off-limits.`,
+        es: `Sendero litoral histórico tallado en la roca que une las calas de Begur, entre pinos y acantilados sobre el mar. La joya dog-friendly de la zona: perros con correa admitidos todo el año, incluso en verano cuando las playas están prohibidas.`,
+        pt: `Trilho litoral histórico talhado na rocha que liga as enseadas de Begur, entre pinheiros e escarpas sobre o mar. A joia dog-friendly da zona: cães com trela admitidos o ano inteiro, incluindo no verão quando as praias estão proibidas.`,
+      }},
+      { name: 'Cala Sa Tuna', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `Petite crique de galets abritée au fond d'une anse, avec quelques maisons de pêcheurs et un restaurant. Chiens interdits sur cette plage en pleine saison balnéaire estivale ; hors saison, une halte matinale en laisse y est tolérée.`,
+        en: `A small sheltered pebble cove at the head of an inlet, with a few fishermen's houses and a restaurant. Dogs are banned on this beach in the peak summer bathing season; off season, an early on-leash stop is tolerated.`,
+        es: `Pequeña cala de guijarros resguardada al fondo de una ensenada, con algunas casas de pescadores y un restaurante. Perros prohibidos en esta playa en plena temporada de baño estival; fuera de temporada se tolera una parada matinal con correa.`,
+        pt: `Pequena enseada de seixos abrigada ao fundo de uma angra, com algumas casas de pescadores e um restaurante. Cães proibidos nesta praia em plena época balnear de verão; fora de época, uma paragem matinal com trela é tolerada.`,
+      }},
+      { name: 'Cala Aiguablava', emoji: '🌊', petFriendly: false, desc: {
+        fr: `Crique aux eaux d'un bleu limpide, l'une des plus photographiées de la Costa Brava, encadrée de pins et de rochers. Plage interdite aux chiens l'été en pleine saison ; rejoignez-la plutôt par le camí de ronda ouvert aux chiens en laisse.`,
+        en: `A cove of clear blue water, one of the most photographed on the Costa Brava, framed by pines and rocks. The beach is off-limits to dogs in the summer high season; reach it instead via the camí de ronda, open to leashed dogs.`,
+        es: `Cala de aguas de un azul límpido, una de las más fotografiadas de la Costa Brava, enmarcada por pinos y rocas. Playa prohibida a los perros en verano en plena temporada; alcánzala mejor por el camí de ronda, abierto a perros con correa.`,
+        pt: `Enseada de águas de um azul límpido, uma das mais fotografadas da Costa Brava, emoldurada por pinheiros e rochas. Praia proibida a cães no verão em plena época; alcance-a antes pelo camí de ronda, aberto a cães com trela.`,
+      }},
+      { name: 'Cala Sa Riera', emoji: '⛱️', petFriendly: false, desc: {
+        fr: `La plus grande crique de Begur, sable et galets au nord du village, prisée des familles. Chiens non admis en pleine saison estivale sur cette plage surveillée ; le sentier littoral qui la surplombe reste ouvert aux chiens en laisse.`,
+        en: `Begur's largest cove, sand and pebbles north of the village, popular with families. Dogs are not allowed in the high summer season on this lifeguarded beach; the coastal path above it stays open to leashed dogs.`,
+        es: `La cala más grande de Begur, arena y guijarros al norte del pueblo, apreciada por las familias. Perros no admitidos en plena temporada estival en esta playa vigilada; el sendero litoral que la domina sigue abierto a perros con correa.`,
+        pt: `A maior enseada de Begur, areia e seixos a norte da aldeia, apreciada pelas famílias. Cães não admitidos em plena época estival nesta praia vigiada; o trilho litoral que a domina mantém-se aberto a cães com trela.`,
+      }},
+      { name: 'Cases dels Indians', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `Ensemble de demeures coloniales aux façades colorées bâties par les indianos revenus de Cuba, éparpillées dans le centre historique. Balade libre et ombragée en laisse à travers les ruelles, ponctuée de palmiers et de balcons ouvragés.`,
+        en: `A cluster of colourful colonial mansions built by the indianos who returned from Cuba, scattered through the historic centre. A free, shaded on-leash stroll through the lanes, dotted with palm trees and ornate balconies.`,
+        es: `Conjunto de mansiones coloniales de fachadas coloridas construidas por los indianos regresados de Cuba, repartidas por el centro histórico. Paseo libre y sombreado con correa por las callejuelas, jalonado de palmeras y balcones labrados.`,
+        pt: `Conjunto de mansões coloniais de fachadas coloridas construídas pelos indianos regressados de Cuba, espalhadas pelo centro histórico. Passeio livre e sombreado com trela pelas ruelas, pontuado de palmeiras e varandas trabalhadas.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale des plages : de juin à septembre, les chiens sont bannis des plages principales (Sa Riera, Aiguablava, Sa Tuna) ; le camí de ronda reste votre meilleur allié toute l'année.`,
+        `Chaleur méditerranéenne d'été : sorties tôt le matin et en soirée, testez galets et roche avec la main et emportez de l'eau, les criques offrant peu d'ombre en milieu de journée.`,
+        `Camí de ronda en laisse : sentier taillé dans la roche, parfois étroit et vertigineux au-dessus de la mer ; gardez votre chien en laisse courte sur les passages exposés.`,
+        `Règles catalanes : puce et vaccination obligatoires, laisse dans l'espace public ; les races cataloguées comme potentiellement dangereuses doivent porter muselière et laisse courte.`,
+        `Hors saison (avril-mai, octobre), une halte matinale en laisse est souvent tolérée sur les criques : vérifiez toujours la signalisation municipale, les dates varient selon les années.`,
+      ],
+      en: [
+        `Summer beach ban: from June to September, dogs are barred from the main beaches (Sa Riera, Aiguablava, Sa Tuna); the camí de ronda stays your best ally all year round.`,
+        `Mediterranean summer heat: walk early morning and evening, test pebbles and rock with your hand, and carry water, as the coves offer little shade at midday.`,
+        `Camí de ronda on a leash: a path cut into the rock, sometimes narrow and dizzying above the sea; keep your dog on a short leash on the exposed stretches.`,
+        `Catalan rules: microchip and vaccination mandatory, a leash in public spaces; breeds listed as potentially dangerous must wear a muzzle and a short leash.`,
+        `Off season (April-May, October), an early on-leash stop is often tolerated on the coves: always check the municipal signs, as the dates vary from year to year.`,
+      ],
+      es: [
+        `Prohibición estival de las playas: de junio a septiembre, los perros están vetados en las playas principales (Sa Riera, Aiguablava, Sa Tuna); el camí de ronda sigue siendo tu mejor aliado todo el año.`,
+        `Calor mediterráneo estival: salidas a primera hora y por la tarde, prueba guijarros y roca con la mano y lleva agua, pues las calas ofrecen poca sombra al mediodía.`,
+        `Camí de ronda con correa: sendero tallado en la roca, a veces estrecho y vertiginoso sobre el mar; mantén a tu perro con correa corta en los tramos expuestos.`,
+        `Normas catalanas: microchip y vacunación obligatorios, correa en el espacio público; las razas catalogadas como potencialmente peligrosas deben llevar bozal y correa corta.`,
+        `Fuera de temporada (abril-mayo, octubre), suele tolerarse una parada matinal con correa en las calas: comprueba siempre la señalización municipal, las fechas varían según el año.`,
+      ],
+      pt: [
+        `Proibição estival das praias: de junho a setembro, os cães são vetados nas praias principais (Sa Riera, Aiguablava, Sa Tuna); o camí de ronda continua a ser o seu melhor aliado o ano inteiro.`,
+        `Calor mediterrânico de verão: saídas de manhã cedo e à tarde, teste seixos e rocha com a mão e leve água, pois as enseadas oferecem pouca sombra ao meio-dia.`,
+        `Camí de ronda com trela: trilho talhado na rocha, por vezes estreito e vertiginoso sobre o mar; mantenha o seu cão com trela curta nos troços expostos.`,
+        `Regras catalãs: microchip e vacinação obrigatórios, trela no espaço público; as raças catalogadas como potencialmente perigosas devem usar açaime e trela curta.`,
+        `Fora de época (abril-maio, outubro), costuma tolerar-se uma paragem matinal com trela nas enseadas: verifique sempre a sinalização municipal, as datas variam de ano para ano.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport de Gérone-Costa Brava (GRO) à environ 45 km, aéroport de Barcelone-El Prat (BCN) à environ 130 km ; voiture vivement conseillée, les criques et le village se desservent mal en transports.`,
+        `Numéro d'urgence unique en Europe : 112, valable pour toute urgence humaine ; repérez à l'arrivée une clinique vétérinaire dans le Baix Empordà (Palafrugell, Palamós) pour votre chien.`,
+        `Réglementation espagnole et catalane : passeport européen pour animaux, puce et vaccination antirabique en cours ; laisse obligatoire dans l'espace public.`,
+        `Stationnement limité en été : les criques ont de petits parkings vite saturés ; arrivez tôt ou stationnez au village et rejoignez la côte par le camí de ronda avec votre chien.`,
+        `Haute saison de juin à septembre : les hébergements pet-friendly de Begur et de ses criques partent vite, réservez plusieurs mois à l'avance pour l'été.`,
+      ],
+      en: [
+        `Girona-Costa Brava Airport (GRO) is about 45 km away, Barcelona-El Prat (BCN) about 130 km; a car is strongly advised, as the coves and village are poorly served by public transport.`,
+        `Europe's single emergency number is 112, valid for any human emergency; on arrival, locate a veterinary clinic in the Baix Empordà (Palafrugell, Palamós) for your dog.`,
+        `Spanish and Catalan regulations: EU pet passport, microchip and an in-date rabies vaccination; a leash is mandatory in public spaces.`,
+        `Limited parking in summer: the coves have small car parks that fill quickly; arrive early or park in the village and reach the coast via the camí de ronda with your dog.`,
+        `High season runs June to September: pet-friendly accommodation in Begur and its coves goes fast, book several months ahead for summer.`,
+      ],
+      es: [
+        `Aeropuerto de Girona-Costa Brava (GRO) a unos 45 km, aeropuerto de Barcelona-El Prat (BCN) a unos 130 km; coche muy recomendable, las calas y el pueblo están mal comunicados en transporte público.`,
+        `El número único de emergencias en Europa es el 112, válido para cualquier urgencia humana; localiza al llegar una clínica veterinaria en el Baix Empordà (Palafrugell, Palamós) para tu perro.`,
+        `Normativa española y catalana: pasaporte europeo para animales, microchip y vacunación antirrábica en vigor; correa obligatoria en el espacio público.`,
+        `Aparcamiento limitado en verano: las calas tienen pequeños parkings que se llenan rápido; llega pronto o aparca en el pueblo y alcanza la costa por el camí de ronda con tu perro.`,
+        `Temporada alta de junio a septiembre: los alojamientos pet-friendly de Begur y sus calas se agotan rápido, reserva con varios meses de antelación para el verano.`,
+      ],
+      pt: [
+        `Aeroporto de Girona-Costa Brava (GRO) a cerca de 45 km, aeroporto de Barcelona-El Prat (BCN) a cerca de 130 km; carro muito recomendável, pois as enseadas e a aldeia são mal servidas por transportes públicos.`,
+        `O número único de emergência na Europa é o 112, válido para qualquer urgência humana; localize à chegada uma clínica veterinária no Baix Empordà (Palafrugell, Palamós) para o seu cão.`,
+        `Regulamentação espanhola e catalã: passaporte europeu para animais, microchip e vacinação antirrábica em vigor; trela obrigatória no espaço público.`,
+        `Estacionamento limitado no verão: as enseadas têm pequenos parques que enchem depressa; chegue cedo ou estacione na aldeia e alcance a costa pelo camí de ronda com o seu cão.`,
+        `Época alta de junho a setembro: os alojamentos pet-friendly de Begur e das suas enseadas esgotam depressa, reserve com vários meses de antecedência para o verão.`,
+      ],
+    },
+  },
+
   belfast: {
     history: {
       fr: `Belfast s'est développée sur la rivière Lagan à partir d'un petit château normand du XIIᵉ siècle, mais c'est la révolution industrielle du XIXᵉ qui a fait d'elle l'une des plus grandes villes industrielles de l'Empire britannique : linen capital of the world, et plus encore, capitale mondiale de la construction navale, le RMS Titanic ayant été lancé depuis le Harland & Wolff shipyard en 1911. Les Troubles (1968-1998) ont divisé la ville selon des lignes communautaires dont les fresques de Falls Road et Shankill Road conservent la mémoire. Depuis l'Accord du Vendredi saint (1998), Belfast s'est radicalement transformée : Cathedral Quarter revitalisé, Titanic Quarter en front d'eau, Maritime Mile balisée, et l'une des cultures pub les plus dog-friendly des îles Britanniques. La géographie est généreuse : Cave Hill et ses 300 hectares de nature sauvage rejoignent presque la ville par le nord, le Lagan offre 18 km de chemin de halage plat jusqu'à Lisburn, et la côte est du comté de Down (plages sans interdiction estivale) est à 20 minutes en train. Particularité post-Brexit unique : sous le Windsor Framework, l'Irlande du Nord reconnaît les passeports européens pour les chiens voyageant vers/depuis l'UE, contrairement au reste du Royaume-Uni.`,
@@ -3801,6 +3908,113 @@ const cityContent: Record<string, CityContent> = {
         `Cruceros fiordo Norled e Fjord Tours admiten cães com trela em cubiertas exteriores, excursiones de dia Sognefjord e Hardangerfjord.`,
         `Tarifas veterinárias noruegas entre as mais caras de Europa: urgência base 1.800-2.500 NOK (150-210 €). Seguro europeu (Petplan, Agila) aceite.`,
         `Raças prohibidas: American Staffordshire Terrier, Pit Bull, Tosa Inu, Dogo Argentino, Fila Brasileiro, cão lobo checoslovaco. No podem entrar a Noruega.`,
+      ],
+    },
+  },
+
+  bellagio: {
+    history: {
+      fr: `Surnommée la « perle du lac de Côme », Bellagio occupe la pointe stratégique qui sépare le lac en ses deux bras, au promontoire du Triangolo Lariano. Ce village aux allures de carte postale déroule ses ruelles pavées en escalier, ses façades ocre et ses arcades depuis le rivage jusqu'aux collines, entre lauriers-roses et cyprès. Villégiature aristocratique depuis le XIXe siècle, Bellagio garde de somptueuses villas et leurs jardins en terrasses, comme la Villa Melzi et le parc de la Villa Serbelloni, qui dominent des eaux d'un bleu profond cerclées de montagnes. Depuis les quais, les ferries de la Navigazione Laghi relient en éventail Varenna, Menaggio et Côme. Pour un voyageur avec chien, Bellagio séduit par ses promenades panoramiques comme la Punta Spartivento et son hameau de pêcheurs de Pescallo, mais impose de composer avec des ruelles en marches, une forte affluence estivale et des jardins de villas aux règles parfois restrictives.`,
+      en: `Nicknamed the "pearl of Lake Como", Bellagio sits on the strategic point where the lake splits into its two branches, at the tip of the Triangolo Lariano. This postcard-perfect village unfurls its stepped cobbled lanes, ochre facades and arcades from the shore up into the hills, among oleanders and cypresses. An aristocratic resort since the 19th century, Bellagio keeps sumptuous villas and their terraced gardens, such as Villa Melzi and the park of Villa Serbelloni, overlooking deep-blue waters ringed by mountains. From the quays, the Navigazione Laghi ferries fan out to Varenna, Menaggio and Como. For a traveller with a dog, Bellagio is appealing for its panoramic walks such as Punta Spartivento and its Pescallo fishing hamlet, but it means dealing with stepped lanes, heavy summer crowds and villa gardens with sometimes restrictive rules.`,
+      es: `Apodada la «perla del lago de Como», Bellagio ocupa la punta estratégica que separa el lago en sus dos brazos, en el promontorio del Triangolo Lariano. Este pueblo de postal despliega sus callejuelas empedradas en escalera, sus fachadas ocres y sus soportales desde la orilla hasta las colinas, entre adelfas y cipreses. Lugar de veraneo aristocrático desde el siglo XIX, Bellagio conserva suntuosas villas y sus jardines en terrazas, como la Villa Melzi y el parque de la Villa Serbelloni, que dominan aguas de un azul profundo rodeadas de montañas. Desde los muelles, los ferries de la Navigazione Laghi enlazan en abanico Varenna, Menaggio y Como. Para un viajero con perro, Bellagio seduce por sus paseos panorámicos como la Punta Spartivento y su aldea de pescadores de Pescallo, pero exige lidiar con callejuelas escalonadas, gran afluencia estival y jardines de villas con normas a veces restrictivas.`,
+      pt: `Apelidada de «pérola do lago de Como», Bellagio ocupa a ponta estratégica que separa o lago nos seus dois braços, no promontório do Triangolo Lariano. Esta aldeia de postal desenrola as suas ruelas de calçada em escada, as suas fachadas ocres e as suas arcadas desde a margem até às colinas, entre loendros e ciprestes. Estância aristocrática desde o século XIX, Bellagio conserva sumptuosas vilas e os seus jardins em terraços, como a Villa Melzi e o parque da Villa Serbelloni, que dominam águas de um azul profundo rodeadas de montanhas. Dos cais, os ferries da Navigazione Laghi ligam em leque Varenna, Menaggio e Como. Para um viajante com cão, Bellagio seduz pelos seus passeios panorâmicos como a Punta Spartivento e a sua aldeia de pescadores de Pescallo, mas exige lidar com ruelas em degraus, grande afluência estival e jardins de vilas com regras por vezes restritivas.`,
+    },
+    sights: [
+      { name: 'Punta Spartivento', emoji: '⛰️', petFriendly: true, desc: {
+        fr: `Pointe nord de Bellagio « qui sépare le vent », d'où le regard embrasse les trois bras du lac et les Alpes. Courte promenade panoramique en laisse, avec une petite esplanade et un café, l'un des plus beaux points de vue accessibles aux chiens.`,
+        en: `The northern tip of Bellagio "that divides the wind", where the view takes in the lake's three branches and the Alps. A short panoramic walk on a leash, with a small esplanade and a cafe, one of the finest viewpoints open to dogs.`,
+        es: `Punta norte de Bellagio «que separa el viento», desde donde la mirada abarca los tres brazos del lago y los Alpes. Corto paseo panorámico con correa, con una pequeña explanada y un café, uno de los miradores más bonitos accesibles a los perros.`,
+        pt: `Ponta norte de Bellagio «que separa o vento», de onde o olhar abarca os três braços do lago e os Alpes. Curto passeio panorâmico com trela, com uma pequena esplanada e um café, um dos miradouros mais bonitos acessíveis aos cães.`,
+      }},
+      { name: 'Giardini di Villa Melzi', emoji: '🌸', petFriendly: false, desc: {
+        fr: `Jardins romantiques en bord de lac de la Villa Melzi, statues néoclassiques, azalées et un rare érable pleureur au fil de l'eau. Les jardins de villa restreignent généralement l'accès des chiens ; vérifiez la politique en vigueur ou admirez-les depuis le quai.`,
+        en: `The romantic lakeside gardens of Villa Melzi, with neoclassical statues, azaleas and a rare weeping maple by the water. Villa gardens usually restrict dog access; check the current policy or admire them from the quay.`,
+        es: `Jardines románticos a orillas del lago de la Villa Melzi, estatuas neoclásicas, azaleas y un raro arce llorón junto al agua. Los jardines de villa suelen restringir el acceso de perros; comprueba la política vigente o admíralos desde el muelle.`,
+        pt: `Jardins românticos à beira do lago da Villa Melzi, estátuas neoclássicas, azáleas e um raro bordo-chorão junto à água. Os jardins de vila costumam restringir o acesso de cães; verifique a política em vigor ou admire-os do cais.`,
+      }},
+      { name: 'Parco di Villa Serbelloni', emoji: '🌳', petFriendly: false, desc: {
+        fr: `Vaste parc en terrasses coiffant le promontoire de Bellagio, visitable en visite guidée offrant des vues plongeantes sur les deux bras du lac. L'accès se fait par visite encadrée et les chiens n'y sont généralement pas admis ; prévoyez une alternative.`,
+        en: `A vast terraced park crowning the Bellagio promontory, visited by guided tour with sweeping views over both branches of the lake. Access is by escorted tour and dogs are generally not admitted; plan an alternative.`,
+        es: `Amplio parque en terrazas que corona el promontorio de Bellagio, visitable en visita guiada con vistas en picado sobre los dos brazos del lago. El acceso es en visita acompañada y los perros no suelen admitirse; prevé una alternativa.`,
+        pt: `Amplo parque em terraços que coroa o promontório de Bellagio, visitável em visita guiada com vistas mergulhantes sobre os dois braços do lago. O acesso faz-se em visita acompanhada e os cães geralmente não são admitidos; preveja uma alternativa.`,
+      }},
+      { name: 'Salita Serbelloni', emoji: '🪜', petFriendly: true, desc: {
+        fr: `Ruelle en escalier emblématique du vieux Bellagio, marches pavées bordées de boutiques, de fleurs et d'arcades montant depuis le rivage. Balade en laisse pittoresque, mais raide : évitez les heures chaudes et les pics d'affluence estivale.`,
+        en: `The iconic stepped lane of old Bellagio, cobbled steps lined with shops, flowers and arcades climbing up from the shore. A picturesque on-leash stroll, but steep: avoid the hot hours and the peaks of summer crowds.`,
+        es: `Callejuela en escalera emblemática del viejo Bellagio, peldaños empedrados bordeados de tiendas, flores y soportales que suben desde la orilla. Paseo pintoresco con correa, pero empinado: evita las horas de calor y los picos de afluencia estival.`,
+        pt: `Ruela em escada emblemática da velha Bellagio, degraus de calçada ladeados de lojas, flores e arcadas que sobem da margem. Passeio pitoresco com trela, mas íngreme: evite as horas de calor e os picos de afluência estival.`,
+      }},
+      { name: 'Pescallo', emoji: '⛵', petFriendly: true, desc: {
+        fr: `Hameau de pêcheurs paisible sur le versant est de la pointe, à quelques minutes du centre, avec sa petite crique, ses barques et sa vue sur le bras de Lecco. Balade tranquille en laisse, loin de la foule des quais principaux.`,
+        en: `A peaceful fishing hamlet on the eastern side of the point, a few minutes from the centre, with its small cove, boats and view over the Lecco branch. A quiet on-leash stroll, away from the crowds of the main quays.`,
+        es: `Aldea de pescadores tranquila en la vertiente este de la punta, a pocos minutos del centro, con su pequeña cala, sus barcas y su vista sobre el brazo de Lecco. Paseo tranquilo con correa, lejos de la multitud de los muelles principales.`,
+        pt: `Aldeia de pescadores tranquila na vertente leste da ponta, a poucos minutos do centro, com a sua pequena enseada, os seus barcos e a sua vista sobre o braço de Lecco. Passeio tranquilo com trela, longe da multidão dos cais principais.`,
+      }},
+      { name: 'Navigazione Laghi', emoji: '⛴️', petFriendly: true, desc: {
+        fr: `Ferries et bateaux publics reliant Bellagio à Varenna, Menaggio et Côme, avec le célèbre triangle central du lac. Chiens en laisse admis à bord selon les règles de la compagnie, souvent muselés ; idéal pour explorer le lac sans voiture.`,
+        en: `Public ferries and boats linking Bellagio to Varenna, Menaggio and Como, across the lake's famous central triangle. Leashed dogs allowed on board under the company's rules, often muzzled; ideal for exploring the lake without a car.`,
+        es: `Ferries y barcos públicos que enlazan Bellagio con Varenna, Menaggio y Como, por el famoso triángulo central del lago. Perros con correa admitidos a bordo según las normas de la compañía, a menudo con bozal; ideal para explorar el lago sin coche.`,
+        pt: `Ferries e barcos públicos que ligam Bellagio a Varenna, Menaggio e Como, pelo famoso triângulo central do lago. Cães com trela admitidos a bordo segundo as regras da companhia, muitas vezes com açaime; ideal para explorar o lago sem carro.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Pas de mer mais un lac : la baignade canine est possible sur quelques rives et criques discrètes (côté Pescallo, plages libres du Triangolo Lariano) plutôt que sur les quais aménagés du centre.`,
+        `Ruelles en escalier : Bellagio grimpe en marches pavées, dur pour les vieux chiens ou les pattes sensibles ; privilégiez les rives plates et la Punta Spartivento pour les longues sorties.`,
+        `Ferries Navigazione Laghi : chiens en laisse admis à bord, souvent muselés selon la compagnie ; gardez muselière et laisse courte à portée de main pour embarquer sans souci.`,
+        `Jardins de villas restrictifs : Villa Melzi et le parc Serbelloni limitent généralement l'accès des chiens ; vérifiez la politique du jour ou prévoyez de les admirer depuis l'extérieur.`,
+        `Affluence estivale intense de juin à septembre : ruelles bondées et chaleur ; sortez tôt le matin ou en soirée et testez les pavés avec la main avant de laisser marcher votre chien.`,
+      ],
+      en: [
+        `No sea but a lake: dog swimming is possible on a few discreet shores and coves (the Pescallo side, free beaches of the Triangolo Lariano) rather than on the managed quays of the centre.`,
+        `Stepped lanes: Bellagio climbs in cobbled steps, hard on older dogs or sensitive paws; favour the flat shores and Punta Spartivento for long outings.`,
+        `Navigazione Laghi ferries: leashed dogs allowed on board, often muzzled depending on the company; keep a muzzle and short leash to hand to board without trouble.`,
+        `Restrictive villa gardens: Villa Melzi and the Serbelloni park usually limit dog access; check the day's policy or plan to admire them from outside.`,
+        `Intense summer crowds from June to September: packed lanes and heat; head out early morning or in the evening and test the cobbles with your hand before letting your dog walk.`,
+      ],
+      es: [
+        `No hay mar sino un lago: el baño canino es posible en algunas orillas y calas discretas (lado de Pescallo, playas libres del Triangolo Lariano) más que en los muelles acondicionados del centro.`,
+        `Callejuelas en escalera: Bellagio sube en peldaños empedrados, duro para perros mayores o patas sensibles; prioriza las orillas llanas y la Punta Spartivento para las salidas largas.`,
+        `Ferries Navigazione Laghi: perros con correa admitidos a bordo, a menudo con bozal según la compañía; ten el bozal y la correa corta a mano para embarcar sin problemas.`,
+        `Jardines de villas restrictivos: la Villa Melzi y el parque Serbelloni suelen limitar el acceso de perros; comprueba la política del día o prevé admirarlos desde fuera.`,
+        `Afluencia estival intensa de junio a septiembre: callejuelas abarrotadas y calor; sal a primera hora o por la tarde y prueba los adoquines con la mano antes de dejar caminar a tu perro.`,
+      ],
+      pt: [
+        `Não há mar mas um lago: o banho canino é possível em algumas margens e enseadas discretas (lado de Pescallo, praias livres do Triangolo Lariano) mais do que nos cais ordenados do centro.`,
+        `Ruelas em escada: Bellagio sobe em degraus de calçada, duro para cães idosos ou patas sensíveis; prefira as margens planas e a Punta Spartivento para as saídas longas.`,
+        `Ferries Navigazione Laghi: cães com trela admitidos a bordo, muitas vezes com açaime segundo a companhia; tenha o açaime e a trela curta à mão para embarcar sem problemas.`,
+        `Jardins de vilas restritivos: a Villa Melzi e o parque Serbelloni costumam limitar o acesso de cães; verifique a política do dia ou preveja admirá-los do exterior.`,
+        `Afluência estival intensa de junho a setembro: ruelas apinhadas e calor; saia de manhã cedo ou à tarde e teste a calçada com a mão antes de deixar o seu cão caminhar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroports de Milan-Malpensa (MXP) et Milan-Bergame (BGY) à environ 1h30-2h ; gare de Côme puis ferry, ou de Varenna-Esino sur la ligne Milan-Tirano puis traversée en ferry vers Bellagio.`,
+        `Numéro d'urgence unique en Europe : 112, valable pour toute urgence humaine ; repérez à l'arrivée une clinique vétérinaire autour du lac (Côme, Lecco) pour votre chien.`,
+        `Ferries Navigazione Laghi : le meilleur moyen de rejoindre Bellagio et d'explorer le lac ; chiens en laisse admis à bord selon les règles de la compagnie, souvent muselés.`,
+        `Réglementation italienne : puce et carnet de vaccination obligatoires, laisse requise dans l'espace public et muselière à portée de main dans les transports et lieux bondés.`,
+        `Haute saison de juin à septembre : Bellagio est très prisée, les hébergements pet-friendly partent tôt ; réservez plusieurs mois à l'avance et visez les ailes de saison pour plus de calme.`,
+      ],
+      en: [
+        `Milan-Malpensa (MXP) and Milan-Bergamo (BGY) airports are about 1h30-2h away; reach Como then ferry, or Varenna-Esino on the Milan-Tirano line then a ferry crossing to Bellagio.`,
+        `Europe's single emergency number is 112, valid for any human emergency; on arrival, locate a veterinary clinic around the lake (Como, Lecco) for your dog.`,
+        `Navigazione Laghi ferries: the best way to reach Bellagio and explore the lake; leashed dogs allowed on board under the company's rules, often muzzled.`,
+        `Italian regulations: microchip and vaccination record are mandatory, a leash is required in public spaces, and a muzzle must be kept to hand on transport and in crowded places.`,
+        `High season runs June to September: Bellagio is very popular and pet-friendly accommodation books up early; reserve several months ahead and aim for the shoulder seasons for more calm.`,
+      ],
+      es: [
+        `Aeropuertos de Milán-Malpensa (MXP) y Milán-Bérgamo (BGY) a unas 1h30-2h; llega a Como y luego ferry, o a Varenna-Esino en la línea Milán-Tirano y luego travesía en ferry hasta Bellagio.`,
+        `El número único de emergencias en Europa es el 112, válido para cualquier urgencia humana; localiza al llegar una clínica veterinaria alrededor del lago (Como, Lecco) para tu perro.`,
+        `Ferries Navigazione Laghi: el mejor medio para llegar a Bellagio y explorar el lago; perros con correa admitidos a bordo según las normas de la compañía, a menudo con bozal.`,
+        `Normativa italiana: microchip y cartilla de vacunación obligatorios, correa exigida en el espacio público y bozal a mano en el transporte y lugares concurridos.`,
+        `Temporada alta de junio a septiembre: Bellagio es muy solicitada y los alojamientos pet-friendly se agotan pronto; reserva con varios meses de antelación y apunta a las temporadas intermedias para más tranquilidad.`,
+      ],
+      pt: [
+        `Aeroportos de Milão-Malpensa (MXP) e Milão-Bérgamo (BGY) a cerca de 1h30-2h; chegue a Como e depois ferry, ou a Varenna-Esino na linha Milão-Tirano e depois travessia de ferry até Bellagio.`,
+        `O número único de emergência na Europa é o 112, válido para qualquer urgência humana; localize à chegada uma clínica veterinária à volta do lago (Como, Lecco) para o seu cão.`,
+        `Ferries Navigazione Laghi: o melhor meio para chegar a Bellagio e explorar o lago; cães com trela admitidos a bordo segundo as regras da companhia, muitas vezes com açaime.`,
+        `Regulamentação italiana: microchip e boletim de vacinação obrigatórios, trela exigida no espaço público e açaime à mão nos transportes e locais lotados.`,
+        `Época alta de junho a setembro: Bellagio é muito procurada e os alojamentos pet-friendly esgotam cedo; reserve com vários meses de antecedência e aponte para as épocas intermédias para mais calma.`,
       ],
     },
   },

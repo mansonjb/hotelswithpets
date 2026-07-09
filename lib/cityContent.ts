@@ -24273,6 +24273,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  mahon: {
+    history: {
+      fr: `Capitale de Minorque, la plus discrète des îles Baléares, Mahon (Mao en catalan) s'étire au fond de l'un des plus grands ports naturels du monde, une ria de près de cinq kilomètres creusée dans la roche. Longtemps convoitée par les Britanniques, qui l'occupèrent au XVIIIe siècle, la ville en a gardé des fenêtres à guillotine, un goût pour le gin et une distillerie, Xoriguer, toujours en activité sur le quai. Ses ruelles blanches grimpent depuis le port vers la Placa de s'Esplanada, cœur animé de la vie locale. Toute l'île est classée réserve de biosphère par l'UNESCO, sillonnée par le Cami de Cavalls, ancien chemin de ronde qui en fait le tour sur 185 kilomètres. Pour le voyageur avec un chien, Mahon offre des promenades au bord de l'eau, des criques sauvages et un rythme insulaire apaisant, loin de la foule d'Ibiza.`,
+      en: `Capital of Menorca, the quietest of the Balearic Islands, Mahon (Mao in Catalan) stretches along the far end of one of the largest natural harbours in the world, a rocky inlet nearly five kilometres long. Long coveted by the British, who occupied it in the eighteenth century, the town still shows sash windows, a taste for gin and a distillery, Xoriguer, still working on the quayside. Its white lanes climb from the port up to Placa de s'Esplanada, the lively heart of local life. The whole island is a UNESCO Biosphere Reserve, ringed by the Cami de Cavalls, an old coastal bridle path that circles it over 185 kilometres. For the traveller with a dog, Mahon offers waterside walks, wild coves and a soothing island rhythm, far from the crowds of Ibiza.`,
+      es: `Capital de Menorca, la más discreta de las Islas Baleares, Mahón (Maó en catalán) se extiende al fondo de uno de los mayores puertos naturales del mundo, una ría rocosa de casi cinco kilómetros. Codiciada durante mucho tiempo por los británicos, que la ocuparon en el siglo XVIII, la ciudad conserva ventanas de guillotina, una afición por la ginebra y una destilería, Xoriguer, aún activa en el muelle. Sus callejones blancos suben desde el puerto hasta la Plaça de s'Esplanada, corazón animado de la vida local. Toda la isla está declarada reserva de la biosfera por la UNESCO, recorrida por el Camí de Cavalls, antiguo camino de ronda que le da la vuelta a lo largo de 185 kilómetros. Para el viajero con perro, Mahón ofrece paseos junto al agua, calas salvajes y un ritmo isleño sosegado, lejos del gentío de Ibiza.`,
+      pt: `Capital de Menorca, a mais discreta das Ilhas Baleares, Mahón (Maó em catalão) estende-se ao fundo de um dos maiores portos naturais do mundo, uma ria rochosa de quase cinco quilómetros. Cobiçada durante muito tempo pelos britânicos, que a ocuparam no século XVIII, a cidade conserva janelas de guilhotina, um gosto pela genebra e uma destilaria, a Xoriguer, ainda activa no cais. As suas ruelas brancas sobem do porto até à Plaça de s'Esplanada, coração animado da vida local. Toda a ilha está classificada como reserva da biosfera pela UNESCO, percorrida pelo Camí de Cavalls, antigo caminho de ronda que lhe dá a volta ao longo de 185 quilómetros. Para o viajante com cão, Mahón oferece passeios à beira-água, enseadas selvagens e um ritmo insular sereno, longe da multidão de Ibiza.`,
+    },
+    sights: [
+      { name: 'Port de Mao', emoji: '🚤', petFriendly: true, desc: {
+        fr: `Le grand port naturel qui donne son nom à la ville, bordé d'un quai animé de restaurants et de bateaux d'excursion. Les chiens en laisse y suivent volontiers la promenade du bord de l'eau, à l'ombre du matin.`,
+        en: `The great natural harbour that gives the town its name, lined with a lively quay of restaurants and excursion boats. Leashed dogs happily follow the waterside promenade in the morning shade.`,
+        es: `El gran puerto natural que da nombre a la ciudad, bordeado por un muelle animado de restaurantes y barcos de excursión. Los perros con correa siguen a gusto el paseo junto al agua, a la sombra de la mañana.`,
+        pt: `O grande porto natural que dá nome à cidade, ladeado por um cais animado de restaurantes e barcos de excursão. Os cães com trela seguem à vontade o passeio à beira-água, à sombra da manhã.`,
+      }},
+      { name: 'Casco antiguo & Placa de s\'Esplanada', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Le vieux Mahon, avec ses ruelles blanches, ses églises et la vaste Placa de s'Esplanada où bat le cœur de la ville. Les chiens en laisse déambulent partout dans les rues et sur la place, ombragée de platanes.`,
+        en: `Old Mahon, with its white lanes, churches and the broad Placa de s'Esplanada at the heart of town. Leashed dogs wander freely through the streets and across the plane-tree-shaded square.`,
+        es: `El casco antiguo de Mahón, con sus callejones blancos, sus iglesias y la amplia Plaça de s'Esplanada donde late el corazón de la ciudad. Los perros con correa pasean por todas las calles y por la plaza, sombreada de plátanos.`,
+        pt: `A Mahón velha, com as suas ruelas brancas, as igrejas e a ampla Plaça de s'Esplanada onde bate o coração da cidade. Os cães com trela passeiam por todas as ruas e pela praça, sombreada de plátanos.`,
+      }},
+      { name: 'Xoriguer Gin Distillery', emoji: '🍸', petFriendly: false, desc: {
+        fr: `La distillerie Xoriguer sur le quai, gardienne du gin de Minorque hérité de l'occupation britannique. La boutique et l'espace de dégustation sont couverts et n'admettent pas les chiens, mais on peut s'y relayer pour une courte halte.`,
+        en: `The Xoriguer distillery on the quay, keeper of the Menorcan gin inherited from the British occupation. The shop and tasting room are indoors and do not admit dogs, but you can take turns for a quick stop.`,
+        es: `La destilería Xoriguer en el muelle, guardiana de la ginebra de Menorca heredada de la ocupación británica. La tienda y la sala de degustación son cubiertas y no admiten perros, pero podéis turnaros para una parada breve.`,
+        pt: `A destilaria Xoriguer no cais, guardiã da genebra de Menorca herdada da ocupação britânica. A loja e a sala de provas são cobertas e não admitem cães, mas podem revezar-se para uma paragem rápida.`,
+      }},
+      { name: 'Fortalesa de La Mola', emoji: '🏰', petFriendly: true, desc: {
+        fr: `La forteresse du XIXe siècle qui garde l'entrée du port, sur un promontoire balayé par le vent. Le site en plein air se visite avec un chien en laisse, entre remparts, tunnels et vues sur la mer.`,
+        en: `The nineteenth-century fortress guarding the harbour mouth, on a windswept headland. The open-air site can be visited with a leashed dog, among ramparts, tunnels and sea views.`,
+        es: `La fortaleza del siglo XIX que guarda la bocana del puerto, sobre un promontorio batido por el viento. El recinto al aire libre se visita con perro con correa, entre murallas, túneles y vistas al mar.`,
+        pt: `A fortaleza do século XIX que guarda a boca do porto, sobre um promontório varrido pelo vento. O recinto ao ar livre visita-se com cão com trela, entre muralhas, túneis e vistas para o mar.`,
+      }},
+      { name: 'Cami de Cavalls (GR-223)', emoji: '🥾', petFriendly: true, desc: {
+        fr: `Le sentier historique GR-223 qui fait le tour de Minorque sur 185 kilomètres, entre criques, falaises et pinèdes. Les chiens en laisse y sont chez eux ; emportez de l'eau car l'ombre et les points d'eau manquent l'été.`,
+        en: `The historic GR-223 trail that circles Menorca over 185 kilometres, through coves, cliffs and pine woods. Leashed dogs are in their element here; carry water, as shade and water points are scarce in summer.`,
+        es: `El histórico sendero GR-223 que rodea Menorca a lo largo de 185 kilómetros, entre calas, acantilados y pinares. Los perros con correa están en su elemento; lleva agua, pues la sombra y las fuentes escasean en verano.`,
+        pt: `O histórico trilho GR-223 que rodeia Menorca ao longo de 185 quilómetros, entre enseadas, falésias e pinhais. Os cães com trela estão no seu elemento; leve água, pois a sombra e os pontos de água escasseiam no verão.`,
+      }},
+      { name: 'Cales Fonts (Es Castell)', emoji: '🌅', petFriendly: true, desc: {
+        fr: `Le petit port de Cales Fonts, dans la ville voisine d'Es Castell, avec ses anciennes remises de pêcheurs devenues terrasses. Les chiens en laisse y sont bienvenus sur les terrasses extérieures, surtout au coucher du soleil.`,
+        en: `The small harbour of Cales Fonts, in neighbouring Es Castell, where old fishermen's boathouses have become terraces. Leashed dogs are welcome on the outdoor terraces, especially at sunset.`,
+        es: `El pequeño puerto de Cales Fonts, en la vecina Es Castell, con sus antiguos refugios de pescadores convertidos en terrazas. Los perros con correa son bienvenidos en las terrazas exteriores, sobre todo al atardecer.`,
+        pt: `O pequeno porto de Cales Fonts, na vizinha Es Castell, com os seus antigos abrigos de pescadores tornados esplanadas. Os cães com trela são bem-vindos nas esplanadas exteriores, sobretudo ao pôr do sol.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Attention saisonnière : de mai-juin à septembre, de nombreuses plages des Baléares interdisent les chiens en journée ; renseignez-vous à la mairie et visez les mois d'aile de saison ou les criques tolérantes hors saison.`,
+        `L'été minorquin est chaud et le soleil intense : promenez le chien tôt le matin ou en soirée, emportez de l'eau et vérifiez la température du sable et du bitume avant de marcher.`,
+        `Sur le Cami de Cavalls, gardez le chien en laisse et prévoyez de l'eau : de longues portions manquent d'ombre et de points d'eau, et la faune protégée est sensible.`,
+        `La Tramontane, vent du nord, peut souffler fort sur la côte et sur la Fortalesa de La Mola ; surveillez un chien nerveux près des falaises et de l'eau agitée.`,
+        `Pour rejoindre Majorque ou le continent, les ferries (Baleària, Trasmediterranea) acceptent les chiens en laisse et muselés sur les ponts extérieurs ou en chenil ; réservez la place animal à l'avance.`,
+      ],
+      en: [
+        `Seasonal warning: from May-June to September many Balearic beaches ban dogs during the day; check with the town hall and aim for the shoulder-season months or tolerant coves out of season.`,
+        `Menorcan summers are hot and the sun fierce: walk the dog early or in the evening, carry water, and test the temperature of sand and asphalt before setting off.`,
+        `On the Cami de Cavalls keep the dog leashed and bring water: long stretches lack shade and water points, and the protected wildlife is sensitive.`,
+        `The Tramontana, the north wind, can blow hard along the coast and at the Fortalesa de La Mola; watch a nervous dog near the cliffs and choppy water.`,
+        `To reach Mallorca or the mainland, the ferries (Baleària, Trasmediterranea) take leashed, muzzled dogs on the outer decks or in kennels; book the pet space in advance.`,
+      ],
+      es: [
+        `Aviso estacional: de mayo-junio a septiembre muchas playas de Baleares prohíben los perros durante el día; consulta en el ayuntamiento y apunta a los meses de temporada media o a las calas tolerantes fuera de temporada.`,
+        `Los veranos menorquines son calurosos y el sol intenso: pasea al perro temprano o al anochecer, lleva agua y comprueba la temperatura de la arena y del asfalto antes de caminar.`,
+        `En el Camí de Cavalls mantén al perro con correa y lleva agua: largos tramos carecen de sombra y de fuentes, y la fauna protegida es sensible.`,
+        `La Tramontana, el viento del norte, puede soplar con fuerza en la costa y en la Fortalesa de La Mola; vigila a un perro nervioso cerca de los acantilados y del agua agitada.`,
+        `Para llegar a Mallorca o a la península, los ferris (Baleària, Trasmediterranea) admiten perros con correa y bozal en las cubiertas exteriores o en jaulas; reserva la plaza de mascota con antelación.`,
+      ],
+      pt: [
+        `Aviso sazonal: de maio-junho a setembro muitas praias das Baleares proíbem cães durante o dia; consulte a câmara municipal e aponte para os meses de meia-estação ou para as enseadas tolerantes fora de época.`,
+        `Os verões menorquinos são quentes e o sol intenso: passeie o cão cedo ou ao fim do dia, leve água e verifique a temperatura da areia e do asfalto antes de caminhar.`,
+        `No Camí de Cavalls mantenha o cão com trela e leve água: longos troços não têm sombra nem pontos de água, e a fauna protegida é sensível.`,
+        `A Tramontana, o vento do norte, pode soprar com força na costa e na Fortalesa de La Mola; vigie um cão nervoso perto das falésias e da água agitada.`,
+        `Para chegar a Maiorca ou ao continente, os ferries (Baleària, Trasmediterranea) aceitam cães com trela e açaimo nos conveses exteriores ou em canis; reserve o lugar do animal com antecedência.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'Espagne applique les règles de l'UE : passeport européen pour animaux, puce ISO et vaccin antirabique à jour suffisent pour entrer et circuler.`,
+        `Numéro d'urgence général : 112, valable dans toute l'Europe ; demandez la clinique vétérinaire de garde la plus proche à Mahon.`,
+        `Accès : l'aéroport de Menorca (MAH) est à quelques kilomètres de Mahon, avec des vols saisonniers ; des ferries relient aussi Majorque, Barcelone et Valence.`,
+        `Toute l'île est réserve de biosphère UNESCO : ramassez les déjections et tenez le chien en laisse près des sites archéologiques talayotiques et de la faune nicheuse.`,
+        `Langue et monnaie : on parle catalan et castillan, et la monnaie est l'euro ; l'île se parcourt surtout en voiture, la laisse restant la règle en ville et sur les sentiers.`,
+      ],
+      en: [
+        `Spain follows EU rules: an EU pet passport, an ISO microchip and an up-to-date rabies vaccination are enough to enter and travel.`,
+        `General emergency number: 112, valid across Europe; ask for the nearest on-call veterinary clinic in Mahon.`,
+        `Getting there: Menorca airport (MAH) is a few kilometres from Mahon, with seasonal flights; ferries also link Mallorca, Barcelona and Valencia.`,
+        `The whole island is a UNESCO Biosphere Reserve: pick up after your dog and keep it leashed near the Talayotic archaeological sites and nesting wildlife.`,
+        `Language and currency: Catalan and Spanish are spoken, and the currency is the euro; the island is best explored by car, with a leash the rule in town and on the trails.`,
+      ],
+      es: [
+        `España sigue las normas de la UE: el pasaporte europeo para mascotas, el microchip ISO y la vacuna antirrábica al día bastan para entrar y circular.`,
+        `Número de emergencia general: 112, válido en toda Europa; pide la clínica veterinaria de guardia más cercana en Mahón.`,
+        `Cómo llegar: el aeropuerto de Menorca (MAH) está a pocos kilómetros de Mahón, con vuelos de temporada; también hay ferris que enlazan Mallorca, Barcelona y Valencia.`,
+        `Toda la isla es reserva de la biosfera de la UNESCO: recoge los excrementos y mantén al perro con correa cerca de los yacimientos talayóticos y de la fauna nidificante.`,
+        `Idioma y moneda: se habla catalán y castellano, y la moneda es el euro; la isla se recorre sobre todo en coche, y la correa sigue siendo la norma en la ciudad y en los senderos.`,
+      ],
+      pt: [
+        `A Espanha segue as regras da UE: o passaporte europeu para animais, o microchip ISO e a vacina antirrábica em dia bastam para entrar e circular.`,
+        `Número de emergência geral: 112, válido em toda a Europa; peça a clínica veterinária de serviço mais próxima em Mahón.`,
+        `Como chegar: o aeroporto de Menorca (MAH) fica a poucos quilómetros de Mahón, com voos sazonais; há também ferries que ligam Maiorca, Barcelona e Valência.`,
+        `Toda a ilha é reserva da biosfera da UNESCO: recolha os dejetos e mantenha o cão com trela perto dos sítios arqueológicos talaióticos e da fauna nidificante.`,
+        `Língua e moeda: fala-se catalão e castelhano, e a moeda é o euro; a ilha percorre-se sobretudo de carro, e a trela continua a ser a norma na cidade e nos trilhos.`,
+      ],
+    },
+  },
+
   malaga: {
     history: {
       fr: `Fondée par les Phéniciens vers 770 avant J.-C. sous le nom de Malaka, Málaga est l'une des plus anciennes villes d'Europe continuellement habitées, empilant l'héritage romain, maure et du Siècle d'Or espagnol sous son vernis ensoleillé de Costa del Sol. La ville natale de Picasso s'est réinventée em capitale culturelle avec les musées Pompidou, Thyssen et Picasso, tout em restant une station balnéaire dans l'âme. Son rapport aux chiens mêle tradition villageoise andalouse et culture expatriée moderne : podencos et galgos issus de refuges comme APAM côtoient les retrievers des vacanciers. La ville compte quatre plages canines officielles, la plus célèbre étant Playa del Peñón del Cuervo, et le climat subtropical permet la vie em terrasse avec chien toute l'année.`,
@@ -25502,6 +25609,113 @@ const cityContent: Record<string, CityContent> = {
         `Lojas de animais e secções pet nos supermercados do centro e da zona do Carei; tosquia na cidade`,
         `Comboios TER da linha Nice-Ventimiglia: cães pequenos em saco viajam grátis, grandes com trela e açaime com bilhete a meio preço; autocarros Zest: cães pequenos em transportadora`,
         `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios, incluindo para a ida e volta a pé a Itália; prevenção da leishmaniose e dos flebótomos recomendada de abril a novembro na Riviera`,
+      ],
+    },
+  },
+
+  miami: {
+    history: {
+      fr: `Posée entre l'Atlantique et les Everglades, Miami est une métropole tropicale de Floride, née au tournant du XXe siècle et façonnée par les vagues successives de migrants, notamment cubains, qui lui ont donné son âme latino-caribéenne. South Beach aligne ses hôtels Art déco pastel le long d'Ocean Drive, tandis que Wynwood couvre ses murs de fresques géantes et que Little Havana vit au rythme des dominos et du café cubain. C'est une ville chaude et humide, très étalée, où l'on se déplace surtout en voiture, même si South Beach se parcourt à pied. Côté chien, la Floride est exigeante : la plupart des plages interdisent les animaux, la chaleur et l'humidité peuvent être dangereuses, et la saison des ouragans court de juin à novembre. Bien préparé, le voyageur avec un chien y trouvera des trottoirs animés, des parcs, des terrasses accueillantes et quelques plages canines dédiées le long de la côte.`,
+      en: `Set between the Atlantic and the Everglades, Miami is a tropical metropolis in Florida, born at the turn of the twentieth century and shaped by successive waves of migrants, notably Cubans, who gave it its Latin-Caribbean soul. South Beach lines up its pastel Art Deco hotels along Ocean Drive, while Wynwood covers its walls with giant murals and Little Havana lives to the rhythm of dominoes and Cuban coffee. It is a hot, humid, sprawling city where you mostly get around by car, even if South Beach is walkable. For dogs, Florida is demanding: most beaches ban animals, heat and humidity can be dangerous, and hurricane season runs from June to November. Well prepared, the traveller with a dog will find lively sidewalks, parks, welcoming patios and a few dedicated dog beaches along the coast.`,
+      es: `Situada entre el Atlántico y los Everglades, Miami es una metrópoli tropical de Florida, nacida a comienzos del siglo XX y moldeada por sucesivas oleadas de migrantes, sobre todo cubanos, que le dieron su alma latinocaribeña. South Beach alinea sus hoteles Art déco pastel a lo largo de Ocean Drive, mientras Wynwood cubre sus muros de murales gigantes y La Pequeña Habana vive al ritmo del dominó y el café cubano. Es una ciudad calurosa y húmeda, muy extensa, en la que se circula sobre todo en coche, aunque South Beach se recorre a pie. Para el perro, Florida es exigente: la mayoría de las playas prohíben los animales, el calor y la humedad pueden ser peligrosos, y la temporada de huracanes va de junio a noviembre. Bien preparado, el viajero con perro encontrará aceras animadas, parques, terrazas acogedoras y algunas playas caninas dedicadas a lo largo de la costa.`,
+      pt: `Situada entre o Atlântico e os Everglades, Miami é uma metrópole tropical da Florida, nascida na viragem do século XX e moldada por vagas sucessivas de migrantes, sobretudo cubanos, que lhe deram a sua alma latino-caribenha. South Beach alinha os seus hotéis Art déco em tons pastel ao longo de Ocean Drive, enquanto Wynwood cobre os seus muros de murais gigantes e a Pequena Havana vive ao ritmo do dominó e do café cubano. É uma cidade quente e húmida, muito extensa, onde se circula sobretudo de carro, ainda que South Beach se percorra a pé. Para o cão, a Florida é exigente: a maioria das praias proíbe os animais, o calor e a humidade podem ser perigosos, e a época de furacões vai de junho a novembro. Bem preparado, o viajante com cão encontrará passeios animados, parques, esplanadas acolhedoras e algumas praias caninas dedicadas ao longo da costa.`,
+    },
+    sights: [
+      { name: 'South Beach & Art Deco Historic District', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Le quartier Art déco de South Beach, avec Ocean Drive et ses façades pastel des années 1930. Les chiens en laisse sont admis sur les trottoirs et la promenade, mais pas sur la plupart du sable, où ils sont interdits.`,
+        en: `The Art Deco district of South Beach, with Ocean Drive and its 1930s pastel façades. Leashed dogs are allowed on the sidewalks and promenade, but not on most of the sand, where they are banned.`,
+        es: `El barrio Art déco de South Beach, con Ocean Drive y sus fachadas pastel de los años treinta. Los perros con correa se admiten en las aceras y el paseo, pero no en la mayor parte de la arena, donde están prohibidos.`,
+        pt: `O bairro Art déco de South Beach, com Ocean Drive e as suas fachadas em tons pastel dos anos 1930. Os cães com trela são admitidos nos passeios e na avenida marginal, mas não na maior parte da areia, onde são proibidos.`,
+      }},
+      { name: 'Wynwood Walls', emoji: '🎨', petFriendly: true, desc: {
+        fr: `Le quartier des arts de Wynwood, célèbre pour ses immenses fresques de street art à ciel ouvert. Les chiens en laisse s'y promènent dans les rues et devant les murs peints ; l'enceinte payante des Wynwood Walls peut toutefois les refuser.`,
+        en: `The Wynwood arts district, famous for its huge open-air street-art murals. Leashed dogs stroll the streets and past the painted walls; the ticketed Wynwood Walls enclosure may, however, turn them away.`,
+        es: `El barrio de las artes de Wynwood, célebre por sus enormes murales de arte urbano al aire libre. Los perros con correa pasean por las calles y ante los muros pintados; el recinto de pago de Wynwood Walls puede, no obstante, rechazarlos.`,
+        pt: `O bairro das artes de Wynwood, célebre pelos seus enormes murais de arte urbana ao ar livre. Os cães com trela passeiam pelas ruas e diante dos muros pintados; o recinto pago das Wynwood Walls pode, contudo, recusá-los.`,
+      }},
+      { name: 'Bayfront Park & Miami Riverwalk', emoji: '🌴', petFriendly: true, desc: {
+        fr: `Le parc en bord de baie au centre-ville et la promenade le long de la Miami River, avec vues sur les gratte-ciel et les bateaux. Espaces ouverts où les chiens en laisse sont bienvenus, à parcourir de préférence tôt le matin par forte chaleur.`,
+        en: `The bayfront park downtown and the walkway along the Miami River, with views of skyscrapers and boats. Open spaces where leashed dogs are welcome, best walked early in the morning in the heat.`,
+        es: `El parque junto a la bahía en el centro y el paseo a lo largo del río Miami, con vistas a los rascacielos y a los barcos. Espacios abiertos donde los perros con correa son bienvenidos, mejor recorridos temprano con mucho calor.`,
+        pt: `O parque à beira da baía no centro e o passeio ao longo do rio Miami, com vistas para os arranha-céus e os barcos. Espaços abertos onde os cães com trela são bem-vindos, de preferência percorridos de manhã cedo com muito calor.`,
+      }},
+      { name: 'Vizcaya Museum & Gardens', emoji: '🏛️', petFriendly: false, desc: {
+        fr: `La villa de style Renaissance italienne et ses jardins formels au bord de la baie de Biscayne. Le domaine n'admet que les animaux d'assistance ; les chiens de compagnie n'y sont pas autorisés, même dans les jardins.`,
+        en: `The Italian-Renaissance-style villa and its formal gardens on Biscayne Bay. The estate admits service animals only; pet dogs are not allowed, even in the gardens.`,
+        es: `La villa de estilo renacentista italiano y sus jardines formales junto a la bahía de Biscayne. La finca solo admite animales de asistencia; los perros de compañía no están permitidos, ni siquiera en los jardines.`,
+        pt: `A vila de estilo renascentista italiano e os seus jardins formais junto à baía de Biscayne. A propriedade só admite animais de assistência; os cães de companhia não são permitidos, nem mesmo nos jardins.`,
+      }},
+      { name: 'Key Biscayne & Crandon Park', emoji: '🌊', petFriendly: false, desc: {
+        fr: `L'île de Key Biscayne et le vaste Crandon Park, prisés pour leurs plages et leurs pistes cyclables. Les chiens sont interdits sur le sable et les plages du parc ; vérifiez la réglementation locale avant de vous y rendre.`,
+        en: `The island of Key Biscayne and the sprawling Crandon Park, popular for their beaches and bike paths. Dogs are banned on the sand and the park beaches; check the local rules before heading over.`,
+        es: `La isla de Key Biscayne y el extenso Crandon Park, apreciados por sus playas y carriles bici. Los perros están prohibidos en la arena y en las playas del parque; comprueba la normativa local antes de ir.`,
+        pt: `A ilha de Key Biscayne e o extenso Crandon Park, apreciados pelas suas praias e ciclovias. Os cães são proibidos na areia e nas praias do parque; verifique as regras locais antes de ir.`,
+      }},
+      { name: 'Hollywood Dog Beach', emoji: '🐾', petFriendly: true, desc: {
+        fr: `La plage canine officielle de Hollywood, au nord de Miami, l'une des rares où les chiens sont admis sur le sable à horaires et permis réglementés. Idéale pour une baignade surveillée, en dehors des heures les plus chaudes.`,
+        en: `Hollywood's official dog beach, north of Miami, one of the few where dogs are allowed on the sand under set hours and a permit. Ideal for a supervised swim, outside the hottest hours.`,
+        es: `La playa canina oficial de Hollywood, al norte de Miami, una de las pocas donde se admiten perros en la arena con horarios y permiso reglamentados. Ideal para un baño vigilado, fuera de las horas de más calor.`,
+        pt: `A praia canina oficial de Hollywood, a norte de Miami, uma das poucas onde os cães são admitidos na areia com horários e licença regulamentados. Ideal para um banho vigiado, fora das horas de mais calor.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Attention saisonnière : les étés de Floride sont brûlants et humides, et la saison des ouragans court de juin à novembre ; suivez les alertes météo et évitez de sortir le chien aux heures les plus chaudes.`,
+        `Le sable et le bitume peuvent atteindre des températures qui brûlent les coussinets : testez le sol avec la main, marchez tôt le matin ou tard le soir, et prévoyez beaucoup d'eau.`,
+        `La plupart des plages de Miami interdisent les chiens ; pour la baignade, visez les plages canines dédiées comme Hollywood Dog Beach, avec leurs horaires et permis propres.`,
+        `Miami est très étalée et dépendante de la voiture : gardez le chien à l'abri dans un véhicule climatisé et ne le laissez jamais seul dans une voiture, même quelques minutes.`,
+        `Emportez de l'eau et de l'ombre partout, surveillez les signes de coup de chaleur (halètement excessif, léthargie) et repérez à l'avance une clinique vétérinaire d'urgence.`,
+      ],
+      en: [
+        `Seasonal warning: Florida summers are scorching and humid, and hurricane season runs from June to November; follow weather alerts and avoid walking the dog in the hottest hours.`,
+        `Sand and asphalt can reach temperatures that burn paw pads: test the ground with your hand, walk early or late, and bring plenty of water.`,
+        `Most Miami beaches ban dogs; for a swim, aim for dedicated dog beaches such as Hollywood Dog Beach, with their own hours and permits.`,
+        `Miami is sprawling and car-dependent: keep the dog in air-conditioned comfort and never leave it alone in a car, even for a few minutes.`,
+        `Carry water and shade everywhere, watch for signs of heatstroke (heavy panting, lethargy) and locate an emergency veterinary clinic in advance.`,
+      ],
+      es: [
+        `Aviso estacional: los veranos de Florida son abrasadores y húmedos, y la temporada de huracanes va de junio a noviembre; sigue las alertas meteorológicas y evita sacar al perro en las horas de más calor.`,
+        `La arena y el asfalto pueden alcanzar temperaturas que queman las almohadillas: prueba el suelo con la mano, pasea temprano o tarde y lleva mucha agua.`,
+        `La mayoría de las playas de Miami prohíben los perros; para el baño, apunta a playas caninas dedicadas como Hollywood Dog Beach, con sus propios horarios y permisos.`,
+        `Miami es muy extensa y dependiente del coche: mantén al perro con aire acondicionado y no lo dejes nunca solo en el vehículo, ni siquiera unos minutos.`,
+        `Lleva agua y sombra a todas partes, vigila los signos de golpe de calor (jadeo excesivo, letargo) y localiza de antemano una clínica veterinaria de urgencias.`,
+      ],
+      pt: [
+        `Aviso sazonal: os verões da Florida são escaldantes e húmidos, e a época de furacões vai de junho a novembro; siga os alertas meteorológicos e evite passear o cão nas horas de mais calor.`,
+        `A areia e o asfalto podem atingir temperaturas que queimam as almofadas das patas: teste o chão com a mão, passeie cedo ou ao fim do dia e leve muita água.`,
+        `A maioria das praias de Miami proíbe cães; para um banho, aponte para praias caninas dedicadas como a Hollywood Dog Beach, com os seus próprios horários e licenças.`,
+        `Miami é muito extensa e dependente do carro: mantenha o cão em ambiente com ar condicionado e nunca o deixe sozinho no veículo, nem por alguns minutos.`,
+        `Leve água e sombra para todo o lado, vigie os sinais de golpe de calor (ofego excessivo, letargia) e localize antecipadamente uma clínica veterinária de urgência.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence général aux États-Unis : 911 ; il n'existe pas de numéro unique vétérinaire, repérez donc à l'avance une clinique d'urgence ouverte 24h/24.`,
+        `Formalités : Miami est aux États-Unis, hors espace du passeport européen ; les visiteurs internationaux doivent respecter les règles d'importation américaines (CDC) pour les chiens.`,
+        `Accès : l'aéroport international de Miami (MIA) et celui de Fort Lauderdale (FLL) desservent la région ; la voiture reste quasi indispensable en dehors de South Beach.`,
+        `La plupart des plages publiques interdisent les chiens : renseignez-vous commune par commune et privilégiez les plages canines officielles et les parcs autorisés.`,
+        `Prévoyez la climatisation, de l'eau en abondance et des sorties tôt le matin ou en soirée ; la laisse est la règle en ville et dans les parcs.`,
+      ],
+      en: [
+        `General emergency number in the United States: 911; there is no single veterinary hotline, so locate a 24-hour emergency clinic in advance.`,
+        `Paperwork: Miami is in the United States, outside the EU pet-passport zone; international visitors must follow US import rules (CDC) for dogs.`,
+        `Getting there: Miami International Airport (MIA) and Fort Lauderdale (FLL) serve the region; a car is all but essential outside South Beach.`,
+        `Most public beaches ban dogs: check city by city and favour official dog beaches and permitted parks.`,
+        `Plan for air conditioning, plenty of water and early-morning or evening outings; a leash is the rule in the city and in parks.`,
+      ],
+      es: [
+        `Número de emergencia general en Estados Unidos: 911; no existe una línea veterinaria única, así que localiza de antemano una clínica de urgencias abierta 24 horas.`,
+        `Trámites: Miami está en Estados Unidos, fuera de la zona del pasaporte europeo para mascotas; los visitantes internacionales deben cumplir las normas de importación de EE. UU. (CDC) para perros.`,
+        `Cómo llegar: el aeropuerto internacional de Miami (MIA) y el de Fort Lauderdale (FLL) sirven la región; el coche es casi imprescindible fuera de South Beach.`,
+        `La mayoría de las playas públicas prohíben los perros: infórmate municipio por municipio y prioriza las playas caninas oficiales y los parques permitidos.`,
+        `Prevé aire acondicionado, agua abundante y salidas temprano o al anochecer; la correa es la norma en la ciudad y en los parques.`,
+      ],
+      pt: [
+        `Número de emergência geral nos Estados Unidos: 911; não existe uma linha veterinária única, por isso localize antecipadamente uma clínica de urgência aberta 24 horas.`,
+        `Formalidades: Miami fica nos Estados Unidos, fora da zona do passaporte europeu para animais; os visitantes internacionais devem cumprir as regras de importação dos EUA (CDC) para cães.`,
+        `Como chegar: o aeroporto internacional de Miami (MIA) e o de Fort Lauderdale (FLL) servem a região; o carro é quase indispensável fora de South Beach.`,
+        `A maioria das praias públicas proíbe cães: informe-se cidade a cidade e privilegie as praias caninas oficiais e os parques permitidos.`,
+        `Conte com ar condicionado, água abundante e saídas de manhã cedo ou ao fim do dia; a trela é a norma na cidade e nos parques.`,
       ],
     },
   },

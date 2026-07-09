@@ -16394,6 +16394,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  goreme: {
+    history: {
+      fr: `Göreme est le cœur de la Cappadoce, en plein centre de l'Anatolie turque (province de Nevşehir), un village troglodyte posé au milieu d'une vallée de cheminées de fées, ces pitons de tuf volcanique sculptés par l'érosion. Habité depuis l'Antiquité, le site fut un grand foyer du christianisme byzantin : le Musée en plein air de Göreme, classé à l'UNESCO, réunit des dizaines d'églises rupestres ornées de fresques. Tout autour s'ouvrent les vallées de randonnée, Vallée de l'Amour, Vallée Rose, Vallée Rouge, Vallée des Pigeons, où l'on marche des heures parmi des paysages lunaires. À l'aube, des centaines de montgolfières s'élèvent au-dessus des reliefs, spectacle emblématique de la région. Le village vit aujourd'hui du tourisme, avec ses hôtels troglodytes creusés dans la roche. Un décor unique au monde, mais un climat continental rude et un sol volcanique exigeant pour un chien.`,
+      en: `Göreme is the heart of Cappadocia, deep in central Anatolia (Nevşehir province, Turkey), a cave village set amid a valley of fairy chimneys, those tall cones of volcanic tuff carved by erosion. Inhabited since antiquity, the area was a major centre of Byzantine Christianity: the Göreme Open-Air Museum, a UNESCO World Heritage Site, gathers dozens of rock-cut churches painted with frescoes. All around unfold the hiking valleys, Love Valley, Rose Valley, Red Valley, Pigeon Valley, where you can walk for hours through lunar landscapes. At dawn hundreds of hot-air balloons rise over the ridges, the region's signature sight. Today the village lives on tourism, with its cave hotels carved into the rock. It is a setting unlike anywhere else on earth, but a harsh continental climate and rough volcanic ground make it demanding terrain for a dog.`,
+      es: `Göreme es el corazón de Capadocia, en plena Anatolia central (provincia de Nevşehir, Turquía), un pueblo troglodita rodeado por un valle de chimeneas de hadas, esos altos conos de toba volcánica esculpidos por la erosión. Habitado desde la Antigüedad, fue un gran foco del cristianismo bizantino: el Museo al Aire Libre de Göreme, Patrimonio de la Humanidad de la UNESCO, reúne decenas de iglesias rupestres pintadas con frescos. Alrededor se abren los valles de senderismo, Valle del Amor, Valle Rosa, Valle Rojo, Valle de las Palomas, donde se camina durante horas entre paisajes lunares. Al amanecer, cientos de globos aerostáticos se elevan sobre los relieves, la imagen emblemática de la región. Hoy el pueblo vive del turismo, con sus hoteles cueva excavados en la roca. Un decorado único en el mundo, pero de clima continental duro y suelo volcánico exigente para un perro.`,
+      pt: `Göreme é o coração da Capadócia, no centro da Anatólia turca (província de Nevşehir), uma aldeia troglodita rodeada por um vale de chaminés de fada, aqueles altos cones de tufo vulcânico esculpidos pela erosão. Habitada desde a Antiguidade, foi um grande foco do cristianismo bizantino: o Museu ao Ar Livre de Göreme, Património Mundial da UNESCO, reúne dezenas de igrejas rupestres pintadas com frescos. Em redor abrem-se os vales de caminhada, Vale do Amor, Vale Rosa, Vale Vermelho, Vale dos Pombos, onde se anda horas por paisagens lunares. Ao amanhecer, centenas de balões de ar quente sobem sobre os relevos, a imagem emblemática da região. Hoje a aldeia vive do turismo, com os seus hotéis-gruta escavados na rocha. Um cenário único no mundo, mas de clima continental rigoroso e solo vulcânico exigente para um cão.`,
+    },
+    sights: [
+      { name: 'Göreme Açık Hava Müzesi', emoji: '⛪', petFriendly: false, desc: {
+        fr: `Le Musée en plein air de Göreme, ensemble d'églises et monastères rupestres byzantins aux fresques remarquables, classé à l'UNESCO. Les chiens ne sont pas admis à l'intérieur des églises troglodytes, mais les vallées et sentiers qui entourent le site se parcourent en laisse.`,
+        en: `The Göreme Open-Air Museum, a cluster of Byzantine rock-cut churches and monasteries with remarkable frescoes, listed by UNESCO. Dogs are not allowed inside the cave churches, but the valleys and trails surrounding the site can be walked on a leash.`,
+        es: `El Museo al Aire Libre de Göreme, conjunto de iglesias y monasterios rupestres bizantinos con frescos notables, declarado Patrimonio de la UNESCO. No se admiten perros dentro de las iglesias cueva, pero los valles y senderos que rodean el recinto se recorren con correa.`,
+        pt: `O Museu ao Ar Livre de Göreme, conjunto de igrejas e mosteiros rupestres bizantinos com frescos notáveis, classificado pela UNESCO. Os cães não são admitidos dentro das igrejas-gruta, mas os vales e trilhos que rodeiam o recinto percorrem-se com trela.`,
+      }},
+      { name: 'Aşk Vadisi (Love Valley)', emoji: '🥾', petFriendly: true, desc: {
+        fr: `La Vallée de l'Amour, célèbre pour ses hautes cheminées de fées effilées, offre l'une des plus belles randonnées de la région. Le sentier de terre se marche en laisse au frais du matin, mais il n'y a quasiment pas d'ombre ni d'eau, prévoyez de quoi abreuver le chien.`,
+        en: `Love Valley, famous for its tall, slender fairy chimneys, offers one of the finest hikes in the region. The dirt trail can be walked on a leash in the cool of the morning, but there is almost no shade or water, so bring plenty to keep the dog hydrated.`,
+        es: `El Valle del Amor, célebre por sus altas y esbeltas chimeneas de hadas, ofrece una de las mejores caminatas de la región. El sendero de tierra se recorre con correa al fresco de la mañana, pero apenas hay sombra ni agua, lleve con qué hidratar al perro.`,
+        pt: `O Vale do Amor, célebre pelas suas altas e esguias chaminés de fada, oferece uma das melhores caminhadas da região. O trilho de terra percorre-se com trela ao fresco da manhã, mas quase não há sombra nem água, leve com que hidratar o cão.`,
+      }},
+      { name: 'Kızıl Vadi (Rose Valley)', emoji: '🌄', petFriendly: true, desc: {
+        fr: `La Vallée Rose et la Vallée Rouge voisines déploient des falaises de tuf teintées d'ocre et de rose, magnifiques au coucher du soleil. Les longs sentiers ponctués d'anciennes églises rupestres sont parfaits pour marcher en laisse, à condition d'éviter les heures brûlantes de l'après-midi.`,
+        en: `The neighbouring Rose Valley and Red Valley reveal tuff cliffs tinged with ochre and pink, magnificent at sunset. The long trails dotted with old rock-cut churches are perfect for leashed walking, provided you avoid the scorching afternoon hours.`,
+        es: `El Valle Rosa y el vecino Valle Rojo despliegan farallones de toba teñidos de ocre y rosa, magníficos al atardecer. Los largos senderos salpicados de antiguas iglesias rupestres son perfectos para caminar con correa, siempre que se eviten las horas ardientes de la tarde.`,
+        pt: `O Vale Rosa e o vizinho Vale Vermelho revelam falésias de tufo tingidas de ocre e rosa, magníficas ao pôr do sol. Os longos trilhos pontuados por antigas igrejas rupestres são perfeitos para caminhar com trela, desde que se evitem as horas escaldantes da tarde.`,
+      }},
+      { name: 'Güvercinlik Vadisi (Pigeon Valley)', emoji: '🕊️', petFriendly: true, desc: {
+        fr: `La Vallée des Pigeons, ainsi nommée pour ses milliers de pigeonniers creusés dans la roche, relie Göreme au village d'Uçhisar par un sentier ombragé par endroits. Le chemin se fait en laisse et offre de belles vues sur le château rocheux d'Uçhisar.`,
+        en: `Pigeon Valley, named for the thousands of dovecotes carved into the rock, links Göreme to the village of Uçhisar along a trail shaded in places. The path can be walked on a leash and offers fine views of the Uçhisar rock castle.`,
+        es: `El Valle de las Palomas, así llamado por sus miles de palomares excavados en la roca, une Göreme con el pueblo de Uçhisar por un sendero sombreado a trechos. El camino se recorre con correa y ofrece bonitas vistas del castillo rocoso de Uçhisar.`,
+        pt: `O Vale dos Pombos, assim chamado pelos seus milhares de pombais escavados na rocha, liga Göreme à aldeia de Uçhisar por um trilho sombreado a espaços. O caminho percorre-se com trela e oferece belas vistas do castelo rochoso de Uçhisar.`,
+      }},
+      { name: 'Uçhisar Kalesi', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Le château d'Uçhisar, énorme piton de tuf percé de galeries qui domine toute la Cappadoce, offre le plus vaste panorama de la région. Les chiens en laisse peuvent flâner dans les ruelles du village au pied du rocher, mais l'ascension des escaliers intérieurs leur est déconseillée.`,
+        en: `Uçhisar Castle, a huge tuff outcrop honeycombed with galleries that towers over all of Cappadocia, offers the widest panorama in the region. Leashed dogs can wander the village lanes at the foot of the rock, though the climb up the inner stairways is not advised for them.`,
+        es: `El castillo de Uçhisar, enorme peñón de toba horadado por galerías que domina toda Capadocia, ofrece el panorama más amplio de la región. Los perros con correa pueden pasear por las callejuelas del pueblo al pie de la roca, aunque no se aconseja subirlos por las escaleras interiores.`,
+        pt: `O castelo de Uçhisar, enorme rochedo de tufo perfurado por galerias que domina toda a Capadócia, oferece o panorama mais vasto da região. Os cães com trela podem passear pelas vielas da aldeia ao pé da rocha, embora não se aconselhe subi-los pelas escadarias interiores.`,
+      }},
+      { name: 'Paşabağ ve Devrent', emoji: '🍄', petFriendly: true, desc: {
+        fr: `Paşabağ (la Vallée des Moines) et Devrent (la Vallée de l'Imagination) alignent les cheminées de fées les plus spectaculaires, certaines à triple chapeau. Ces sites en plein air se visitent en laisse sur des sentiers courts et plats, idéaux pour une balade au petit matin.`,
+        en: `Paşabağ (Monks Valley) and Devrent (Imagination Valley) line up the most spectacular fairy chimneys, some with triple caps. These open-air sites can be visited on a leash along short, flat paths, ideal for an early-morning stroll.`,
+        es: `Paşabağ (el Valle de los Monjes) y Devrent (el Valle de la Imaginación) alinean las chimeneas de hadas más espectaculares, algunas con triple sombrero. Estos parajes al aire libre se visitan con correa por senderos cortos y llanos, ideales para un paseo a primera hora.`,
+        pt: `Paşabağ (o Vale dos Monges) e Devrent (o Vale da Imaginação) alinham as chaminés de fada mais espetaculares, algumas com triplo chapéu. Estes locais ao ar livre visitam-se com trela por trilhos curtos e planos, ideais para um passeio ao início da manhã.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Été très chaud et sec : de juin à septembre les après-midi dépassent souvent 30 °C sous un soleil d'altitude implacable, randonnez à l'aube ou en fin de journée et emportez toujours beaucoup d'eau.`,
+        `Hiver rude et neigeux : à plus de 1 000 m d'altitude, décembre-février descend sous zéro avec de la neige, prévoyez un manteau pour les chiens à poil ras et attention au sel de déneigement.`,
+        `Sol volcanique agressif : le tuf et les pistes de terre sont abrasifs et brûlants l'après-midi, testez la roche avec la main et surveillez l'usure des coussinets sur les longs sentiers.`,
+        `Région aride sans point d'eau : les vallées de randonnée n'offrent ni fontaine ni ombre, partez avec une gourde et une gamelle pliable, et rebroussez chemin au moindre signe de fatigue.`,
+        `Les chiens ne peuvent pas monter en montgolfière, mais les champs de décollage et les points de vue au lever du soleil sont accessibles en laisse ; méfiez-vous des chiens errants municipaux (repérables à leur boucle d'oreille).`,
+      ],
+      en: [
+        `Very hot, dry summers: from June to September afternoons often top 30 °C under a relentless high-altitude sun, so hike at dawn or late in the day and always carry plenty of water.`,
+        `Harsh, snowy winters: at over 1,000 m of altitude, December to February drops below freezing with snow, so pack a coat for short-haired dogs and watch out for road de-icing salt.`,
+        `Rough volcanic ground: the tuff and dirt trails are abrasive and scorching in the afternoon, so test the rock with your hand and check for paw wear on the long trails.`,
+        `Arid region with no water points: the hiking valleys have neither fountains nor shade, so set off with a bottle and a foldable bowl, and turn back at the first sign of fatigue.`,
+        `Dogs cannot fly in the balloons, but the launch fields and sunrise viewpoints are accessible on a leash; be wary of municipal stray dogs (recognisable by their ear tag).`,
+      ],
+      es: [
+        `Verano muy caluroso y seco: de junio a septiembre las tardes superan a menudo los 30 °C bajo un sol de altitud implacable, camine al amanecer o al final del día y lleve siempre mucha agua.`,
+        `Invierno duro y nevado: a más de 1.000 m de altitud, de diciembre a febrero baja de cero con nieve, prevea un abrigo para los perros de pelo corto y cuidado con la sal de deshielo.`,
+        `Suelo volcánico agresivo: la toba y las pistas de tierra son abrasivas y ardientes por la tarde, pruebe la roca con la mano y vigile el desgaste de las almohadillas en los senderos largos.`,
+        `Región árida sin puntos de agua: los valles de senderismo no tienen fuentes ni sombra, salga con cantimplora y un bebedero plegable, y dé la vuelta al menor signo de cansancio.`,
+        `Los perros no pueden subir en globo, pero los campos de despegue y los miradores al amanecer son accesibles con correa; desconfíe de los perros callejeros municipales (reconocibles por su crotal en la oreja).`,
+      ],
+      pt: [
+        `Verão muito quente e seco: de junho a setembro as tardes ultrapassam muitas vezes os 30 °C sob um sol de altitude implacável, caminhe ao amanhecer ou ao fim do dia e leve sempre muita água.`,
+        `Inverno rigoroso e com neve: a mais de 1.000 m de altitude, de dezembro a fevereiro desce abaixo de zero com neve, preveja um casaco para os cães de pelo curto e atenção ao sal de degelo.`,
+        `Solo vulcânico agressivo: o tufo e os caminhos de terra são abrasivos e escaldantes à tarde, teste a rocha com a mão e vigie o desgaste das patas nos trilhos longos.`,
+        `Região árida sem pontos de água: os vales de caminhada não têm fontes nem sombra, parta com um cantil e uma tigela dobrável, e volte para trás ao menor sinal de cansaço.`,
+        `Os cães não podem subir de balão, mas os campos de descolagem e os miradouros ao nascer do sol são acessíveis com trela; desconfie dos cães errantes municipais (reconhecíveis pela argola na orelha).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Turquie : 112 (secours, police, pompiers) ; l'anglais est parlé dans les hôtels et agences touristiques de Göreme, moins dans les villages alentour.`,
+        `La Turquie est hors UE : pour revenir dans l'Union avec un chien, un titrage sérologique antirabique (prise de sang en laboratoire agréé) est exigé en plus de la puce et de la vaccination, à anticiper des mois à l'avance.`,
+        `Climat continental d'altitude (village vers 1 000 m) : étés chauds et secs, hivers froids et enneigés, forts écarts jour-nuit, prévoyez de l'eau en été et de quoi protéger le chien du froid en hiver.`,
+        `Accès : aéroports de Nevşehir (Kapadokya, environ 40 min) et Kayseri (environ 1 h) ; les navettes et taxis acceptent parfois les chiens, à confirmer à la réservation.`,
+        `Les hôtels troglodytes de Göreme sont nombreux à accepter les animaux mais les grottes peuvent être étroites et fraîches, confirmez la politique et l'accès avant de réserver.`,
+      ],
+      en: [
+        `Single emergency number in Turkey: 112 (rescue, police, fire); English is spoken in Göreme's hotels and tour agencies, less so in the surrounding villages.`,
+        `Turkey is outside the EU: to return to the Union with a dog, a rabies antibody titre test (a blood sample at an approved laboratory) is required on top of the microchip and vaccination, so plan months ahead.`,
+        `High-altitude continental climate (village around 1,000 m): hot, dry summers, cold, snowy winters and large day-night swings, so carry water in summer and gear to keep the dog warm in winter.`,
+        `Getting there: Nevşehir (Kapadokya, about 40 min) and Kayseri (about 1 h) airports; shuttles and taxis sometimes accept dogs, so confirm when booking.`,
+        `Many of Göreme's cave hotels accept pets, but the cave rooms can be narrow and cool, so confirm the policy and access before booking.`,
+      ],
+      es: [
+        `Número único de emergencias en Turquía: 112 (rescate, policía, bomberos); en Göreme se habla inglés en hoteles y agencias, menos en los pueblos de alrededor.`,
+        `Turquía está fuera de la UE: para regresar a la Unión con un perro se exige una prueba serológica de anticuerpos antirrábicos (análisis de sangre en laboratorio autorizado), además del microchip y la vacuna, prevéalo con meses de antelación.`,
+        `Clima continental de altitud (pueblo hacia 1.000 m): veranos calurosos y secos, inviernos fríos y nevados, fuertes contrastes día-noche, lleve agua en verano y con qué abrigar al perro en invierno.`,
+        `Cómo llegar: aeropuertos de Nevşehir (Kapadokya, unos 40 min) y Kayseri (aproximadamente 1 h); las lanzaderas y taxis a veces admiten perros, confírmelo al reservar.`,
+        `Muchos hoteles cueva de Göreme admiten animales, pero las habitaciones excavadas pueden ser estrechas y frescas, confirme la política y el acceso antes de reservar.`,
+      ],
+      pt: [
+        `Número único de emergência na Turquia: 112 (socorro, polícia, bombeiros); em Göreme fala-se inglês nos hotéis e agências, menos nas aldeias em redor.`,
+        `A Turquia está fora da UE: para regressar à União com um cão exige-se um teste serológico de anticorpos antirrábicos (análise de sangue em laboratório autorizado), além do microchip e da vacina, planeie com meses de antecedência.`,
+        `Clima continental de altitude (aldeia por volta dos 1.000 m): verões quentes e secos, invernos frios e com neve, fortes contrastes dia-noite, leve água no verão e com que agasalhar o cão no inverno.`,
+        `Como chegar: aeroportos de Nevşehir (Kapadokya, cerca de 40 min) e Kayseri (cerca de 1 h); as carrinhas e táxis por vezes aceitam cães, confirme ao reservar.`,
+        `Muitos hotéis-gruta de Göreme aceitam animais, mas os quartos escavados podem ser estreitos e frescos, confirme a política e o acesso antes de reservar.`,
+      ],
+    },
+  },
+
   gothenburg: {
     history: {
       fr: `Göteborg, fondée en 1621 par le roi Gustave II Adolphe comme porte de sortie de la Suède vers la mer du Nord, est devenue la deuxième ville du pays et son principal port. La ville a longtemps été dominée par les marchands écossais, néerlandais et allemands qui ont façonné son architecture et sa culture commerçante. Au XIXe siècle, le chantier naval Eriksberg et les usines Volvo et SKF ont fait de Göteborg le cœur industriel de la Suède. La ville a su se réinventer après le déclin de l'industrie lourde : aujourd'hui, c\'est une métropole universitaire de 600 000 habitants, réputée pour sa gastronomie de crustacés, son architecture Art Nouveau et, surtout, sa qualité de vie. em matière animale, la Suède figure parmi les législations les plus progressistes d\'Europe : les chiens sont admis dans les transports em commun, dans la majorité des cafés et restaurants, et dans les espaces naturels avec une laisse. Göteborg applique cela avec pragmatisme, le réseau Västtrafik, le Slottsskogen et la culture fika forment ensemble un paradis quotidien pour les propriétaires de chiens.`,
@@ -19504,6 +19611,113 @@ const cityContent: Record<string, CityContent> = {
         `Chegada: comboios diretos desde Praga (cerca de 3h) ao longo do vale do Ohře; o aeroporto de Praga fica a 130 km.`,
         `Moeda: coroa checa (CZK, 1 EUR = cerca de 25 CZK); cartão aceite quase em todo o lado, dinheiro útil nas bancas das colunatas.`,
         `Urgência veterinária: Veterinární klinika KVvet (Hornická kolonie 1038/2, +420 353 567 792); escala regional rotativa ao fim de semana, telefone antes de se deslocar; emergências europeias 112.`,
+      ],
+    },
+  },
+
+  kas: {
+    history: {
+      fr: `Kaş est une petite ville tranquille de la côte lycienne, sur la Méditerranée turque (province d'Antalya), longtemps village de pêcheurs devenu havre pour plongeurs, navigateurs et amateurs de nature. Bâtie en amphithéâtre au-dessus d'un port abrité, face à l'île grecque de Kastellórizo, elle a gardé un charme intimiste que les grandes stations balnéaires voisines ont perdu. Ses ruelles fleuries de bougainvilliers descendent vers un front de mer animé, ponctué de vestiges de l'antique Antiphellos : un amphithéâtre romain au bord de l'eau et des tombeaux lyciens sculptés à même la falaise au-dessus des maisons. Aux alentours s'ouvrent la crique turquoise de Kaputaş, les eaux limpides de la baie et les sentiers de la Voie lycienne, longue randonnée côtière. Décor idéal pour un voyage avec chien, tempéré seulement par une chaleur estivale intense et le bitume brûlant.`,
+      en: `Kaş is a quiet little town on the Lycian coast of Mediterranean Turkey (Antalya province), long a fishing village and now a haven for divers, sailors and nature lovers. Built like an amphitheatre above a sheltered harbour, facing the Greek island of Kastellórizo, it has kept an intimate charm that its bigger neighbours have lost. Its lanes, bright with bougainvillea, drop down to a lively seafront dotted with the remains of ancient Antiphellos: a Roman amphitheatre at the water's edge and Lycian tombs carved straight into the cliff above the houses. All around lie the turquoise cove of Kaputaş, the crystal-clear waters of the bay and the trails of the Lycian Way, a long coastal hiking route. It is an ideal setting for a trip with a dog, tempered only by intense summer heat and scorching pavement.`,
+      es: `Kaş es una pequeña y tranquila localidad de la costa licia, en el Mediterráneo turco (provincia de Antalya), durante mucho tiempo pueblo de pescadores y hoy refugio de buceadores, navegantes y amantes de la naturaleza. Construida como un anfiteatro sobre un puerto resguardado, frente a la isla griega de Kastellórizo, ha conservado un encanto íntimo que sus grandes vecinas han perdido. Sus callejuelas floridas de buganvillas bajan hacia un paseo marítimo animado, salpicado de vestigios de la antigua Antifelos: un anfiteatro romano al borde del agua y tumbas licias esculpidas en el acantilado sobre las casas. Alrededor se abren la cala turquesa de Kaputaş, las aguas cristalinas de la bahía y los senderos de la Vía Licia, larga ruta costera. Un marco ideal para viajar con perro, atenuado solo por un calor estival intenso y el asfalto ardiente.`,
+      pt: `Kaş é uma pequena e tranquila vila da costa lícia, no Mediterrâneo turco (província de Antalya), durante muito tempo aldeia de pescadores e hoje refúgio de mergulhadores, navegadores e amantes da natureza. Construída como um anfiteatro sobre um porto abrigado, em frente à ilha grega de Kastellórizo, conservou um encanto íntimo que as suas grandes vizinhas perderam. As suas vielas floridas de buganvílias descem para uma marginal animada, pontuada por vestígios da antiga Antifelos: um anfiteatro romano à beira de água e túmulos lícios esculpidos na falésia sobre as casas. Em redor abrem-se a enseada turquesa de Kaputaş, as águas cristalinas da baía e os trilhos da Via Lícia, longa rota costeira. Um cenário ideal para viajar com cão, atenuado apenas por um calor estival intenso e o asfalto escaldante.`,
+    },
+    sights: [
+      { name: 'Antiphellos Antik Tiyatrosu', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `L'amphithéâtre antique d'Antiphellos, petit théâtre hellénistique parfaitement conservé posé au bord de la mer à l'ouest de la ville, réputé pour ses couchers de soleil. Site en plein air accessible aux chiens en laisse, gradins de pierre à parcourir avec prudence.`,
+        en: `The ancient theatre of Antiphellos, a small, beautifully preserved Hellenistic theatre set by the sea west of town and famed for its sunsets. It is an open-air site open to leashed dogs, with stone tiers to explore with care.`,
+        es: `El anfiteatro antiguo de Antifelos, pequeño teatro helenístico perfectamente conservado al borde del mar al oeste de la ciudad, célebre por sus atardeceres. Recinto al aire libre accesible a perros con correa, con gradas de piedra que conviene recorrer con cuidado.`,
+        pt: `O anfiteatro antigo de Antifelos, pequeno teatro helenístico perfeitamente conservado à beira-mar a oeste da vila, célebre pelos seus pores do sol. Local ao ar livre acessível a cães com trela, com bancadas de pedra a percorrer com cuidado.`,
+      }},
+      { name: 'Kral Mezarı (Lycian Rock Tombs)', emoji: '⚰️', petFriendly: true, desc: {
+        fr: `Les tombeaux lyciens taillés dans la roche dominent la vieille ville, dont le célèbre Tombeau du Roi à façade sculptée, accessible à pied depuis les ruelles. Les abords se visitent librement en laisse, avec une belle vue sur les toits et le port.`,
+        en: `The Lycian rock tombs carved into the cliff overlook the old town, including the famous King's Tomb with its sculpted façade, reachable on foot from the lanes. The surroundings can be visited freely on a leash, with a fine view over the rooftops and harbour.`,
+        es: `Las tumbas licias talladas en la roca dominan el casco antiguo, entre ellas la célebre Tumba del Rey con su fachada esculpida, accesible a pie desde las callejuelas. Los alrededores se visitan libremente con correa, con una bonita vista sobre los tejados y el puerto.`,
+        pt: `Os túmulos lícios talhados na rocha dominam a vila velha, entre eles o célebre Túmulo do Rei de fachada esculpida, acessível a pé a partir das vielas. Os arredores visitam-se livremente com trela, com uma bela vista sobre os telhados e o porto.`,
+      }},
+      { name: 'Çukurbağlı Waterfront', emoji: '⛵', petFriendly: true, desc: {
+        fr: `Le front de mer de Kaş et son port de plaisance, bordés de cafés et de bateaux de plongée, forment le cœur animé de la ville. La promenade plate le long de l'eau se fait aisément en laisse, agréable en soirée quand la chaleur retombe.`,
+        en: `Kaş's waterfront and marina, lined with cafés and dive boats, form the town's lively heart. The flat promenade along the water is easily walked on a leash, pleasant in the evening once the heat eases.`,
+        es: `El paseo marítimo de Kaş y su puerto deportivo, bordeados de cafés y barcos de buceo, forman el animado corazón de la ciudad. El paseo llano junto al agua se hace fácilmente con correa, agradable al atardecer cuando baja el calor.`,
+        pt: `A marginal de Kaş e a sua marina, ladeadas de cafés e barcos de mergulho, formam o coração animado da vila. O passeio plano junto à água faz-se facilmente com trela, agradável ao entardecer quando o calor abranda.`,
+      }},
+      { name: 'Kaputaş Plajı', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `La plage de Kaputaş, minuscule crique de sable turquoise nichée au fond d'une gorge entre Kaş et Kalkan, est l'une des plus photographiées de Turquie. Un long escalier raide y descend ; les chiens y sont généralement interdits l'été sur cette plage surveillée, à confirmer sur place.`,
+        en: `Kaputaş beach, a tiny turquoise sand cove tucked at the bottom of a gorge between Kaş and Kalkan, is one of the most photographed in Turkey. A long, steep stairway leads down; dogs are generally banned in summer on this guarded beach, so check locally.`,
+        es: `La playa de Kaputaş, minúscula cala de arena turquesa encajada al fondo de un desfiladero entre Kaş y Kalkan, es una de las más fotografiadas de Turquía. Una larga y empinada escalera baja hasta ella; los perros suelen estar prohibidos en verano en esta playa vigilada, confírmelo in situ.`,
+        pt: `A praia de Kaputaş, minúscula enseada de areia turquesa encaixada no fundo de uma garganta entre Kaş e Kalkan, é uma das mais fotografadas da Turquia. Uma longa e íngreme escadaria desce até lá; os cães costumam ser proibidos no verão nesta praia vigiada, confirme no local.`,
+      }},
+      { name: 'Kekova', emoji: '🚤', petFriendly: true, desc: {
+        fr: `L'île de Kekova et sa cité engloutie, ruines lyciennes visibles sous l'eau claire, se découvrent en excursion en bateau depuis Kaş. Certains bateaux acceptent les chiens en laisse, à demander avant d'embarquer ; prévoyez ombre et eau pour la journée en mer.`,
+        en: `The island of Kekova and its sunken city, Lycian ruins visible beneath the clear water, are explored by boat trip from Kaş. Some boats accept leashed dogs, so ask before boarding; bring shade and water for the day at sea.`,
+        es: `La isla de Kekova y su ciudad sumergida, ruinas licias visibles bajo el agua clara, se descubren en excursión en barco desde Kaş. Algunos barcos admiten perros con correa, pregunte antes de embarcar; lleve sombra y agua para la jornada en el mar.`,
+        pt: `A ilha de Kekova e a sua cidade submersa, ruínas lícias visíveis sob a água clara, descobrem-se em excursão de barco a partir de Kaş. Alguns barcos aceitam cães com trela, pergunte antes de embarcar; leve sombra e água para o dia no mar.`,
+      }},
+      { name: 'Likya Yolu (Lycian Way)', emoji: '🥾', petFriendly: true, desc: {
+        fr: `La Voie lycienne, célèbre sentier de grande randonnée de plus de 500 km, longe la côte en passant par Kaş, avec des tronçons panoramiques au-dessus de la mer. Les chiens en laisse y sont les bienvenus, mais partez tôt, chargez beaucoup d'eau et évitez les étapes en plein cagnard estival.`,
+        en: `The Lycian Way, a famous long-distance trail of over 500 km, follows the coast through Kaş with panoramic stretches high above the sea. Leashed dogs are welcome, but set off early, carry plenty of water and avoid stages in the full summer sun.`,
+        es: `La Vía Licia, célebre sendero de gran recorrido de más de 500 km, sigue la costa pasando por Kaş, con tramos panorámicos sobre el mar. Los perros con correa son bienvenidos, pero salga temprano, cargue mucha agua y evite las etapas a pleno sol en verano.`,
+        pt: `A Via Lícia, célebre trilho de grande rota de mais de 500 km, segue a costa passando por Kaş, com troços panorâmicos sobre o mar. Os cães com trela são bem-vindos, mas parta cedo, carregue muita água e evite as etapas em pleno sol de verão.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Chaleur estivale intense : de juin à septembre les après-midi dépassent souvent 32 °C avec un fort taux d'humidité côtier, promenez le chien tôt le matin ou après le coucher du soleil.`,
+        `Bitume et sable brûlants : les quais, escaliers et sable chauffent énormément l'après-midi, testez le sol avec la main et privilégiez l'herbe ou la roche ombragée pour les coussinets.`,
+        `Emportez toujours de l'eau : les sentiers côtiers et la Voie lycienne offrent peu d'ombre et aucun point d'eau, prévoyez une gourde et une gamelle pliable pour chaque sortie.`,
+        `Plages surveillées réglementées l'été : les chiens sont souvent interdits sur Kaputaş et les plages du centre en haute saison, repérez à l'avance une crique ou une section tolérée hors des zones surveillées.`,
+        `Chiens errants à boucle d'oreille : la commune stérilise et relâche les chiens des rues (repérables à leur marque à l'oreille), généralement placides ; tenez le vôtre en laisse pour éviter les tensions.`,
+      ],
+      en: [
+        `Intense summer heat: from June to September afternoons often top 32 °C with high coastal humidity, so walk the dog early in the morning or after sunset.`,
+        `Scorching pavement and sand: the quays, stairways and sand heat up enormously in the afternoon, so test the ground with your hand and favour grass or shaded rock for paws.`,
+        `Always carry water: the coastal paths and the Lycian Way offer little shade and no water points, so pack a bottle and a foldable bowl for every outing.`,
+        `Guarded beaches are regulated in summer: dogs are often banned from Kaputaş and the central beaches in high season, so scout in advance a cove or a tolerated stretch away from guarded zones.`,
+        `Ear-tagged stray dogs: the municipality neuters and releases street dogs (recognisable by their ear tag) and they are usually placid; keep yours on a leash to avoid friction.`,
+      ],
+      es: [
+        `Calor estival intenso: de junio a septiembre las tardes superan a menudo los 32 °C con alta humedad costera, pasee al perro temprano por la mañana o tras la puesta de sol.`,
+        `Asfalto y arena ardientes: los muelles, escaleras y la arena se calientan muchísimo por la tarde, pruebe el suelo con la mano y prefiera la hierba o la roca sombreada para las almohadillas.`,
+        `Lleve siempre agua: los senderos costeros y la Vía Licia ofrecen poca sombra y ningún punto de agua, prevea una cantimplora y un bebedero plegable para cada salida.`,
+        `Playas vigiladas reguladas en verano: los perros suelen estar prohibidos en Kaputaş y las playas del centro en temporada alta, localice de antemano una cala o un tramo tolerado fuera de las zonas vigiladas.`,
+        `Perros callejeros con crotal: el municipio esteriliza y suelta a los perros de la calle (reconocibles por su marca en la oreja), por lo general tranquilos; mantenga al suyo con correa para evitar roces.`,
+      ],
+      pt: [
+        `Calor estival intenso: de junho a setembro as tardes ultrapassam muitas vezes os 32 °C com elevada humidade costeira, passeie o cão de manhã cedo ou após o pôr do sol.`,
+        `Asfalto e areia escaldantes: os cais, escadarias e a areia aquecem imenso à tarde, teste o solo com a mão e prefira a relva ou a rocha sombreada para as patas.`,
+        `Leve sempre água: os trilhos costeiros e a Via Lícia oferecem pouca sombra e nenhum ponto de água, preveja um cantil e uma tigela dobrável para cada saída.`,
+        `Praias vigiadas reguladas no verão: os cães costumam ser proibidos em Kaputaş e nas praias do centro em época alta, localize com antecedência uma enseada ou um troço tolerado fora das zonas vigiadas.`,
+        `Cães errantes com argola na orelha: o município esteriliza e liberta os cães de rua (reconhecíveis pela marca na orelha), geralmente pacatos; mantenha o seu com trela para evitar atritos.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Turquie : 112 (secours, police, pompiers) ; l'anglais est courant dans les hôtels, écoles de plongée et restaurants de Kaş.`,
+        `La Turquie est hors UE : pour revenir dans l'Union avec un chien, un titrage sérologique antirabique (prise de sang en laboratoire agréé) est exigé en plus de la puce et de la vaccination, à anticiper des mois à l'avance.`,
+        `Climat méditerranéen : étés très chauds et secs (juillet-août jusqu'à 35 °C), hivers doux et pluvieux ; le printemps et l'automne sont les saisons idéales pour marcher avec un chien.`,
+        `Accès : aéroports de Dalaman (environ 2 h à l'ouest) et Antalya (environ 3 h à l'est) ; la route côtière est sinueuse, prévoyez des pauses pour un chien sujet au mal des transports.`,
+        `Kaş est un point de départ de sorties en bateau et de plongée : confirmez toujours à l'avance qu'un chien est accepté à bord, ce n'est pas systématique.`,
+      ],
+      en: [
+        `Single emergency number in Turkey: 112 (rescue, police, fire); English is widely spoken in Kaş's hotels, dive schools and restaurants.`,
+        `Turkey is outside the EU: to return to the Union with a dog, a rabies antibody titre test (a blood sample at an approved laboratory) is required on top of the microchip and vaccination, so plan months ahead.`,
+        `Mediterranean climate: very hot, dry summers (July-August up to 35 °C) and mild, rainy winters; spring and autumn are the ideal seasons for walking a dog.`,
+        `Getting there: Dalaman (about 2 h to the west) and Antalya (about 3 h to the east) airports; the coast road is winding, so plan breaks for a dog prone to travel sickness.`,
+        `Kaş is a base for boat trips and diving: always confirm in advance that a dog is welcome aboard, as it is not automatic.`,
+      ],
+      es: [
+        `Número único de emergencias en Turquía: 112 (rescate, policía, bomberos); el inglés es habitual en los hoteles, escuelas de buceo y restaurantes de Kaş.`,
+        `Turquía está fuera de la UE: para regresar a la Unión con un perro se exige una prueba serológica de anticuerpos antirrábicos (análisis de sangre en laboratorio autorizado), además del microchip y la vacuna, prevéalo con meses de antelación.`,
+        `Clima mediterráneo: veranos muy calurosos y secos (julio-agosto hasta 35 °C) e inviernos suaves y lluviosos; la primavera y el otoño son las estaciones ideales para pasear con un perro.`,
+        `Cómo llegar: aeropuertos de Dalaman (unas 2 h al oeste) y Antalya (unas 3 h al este); la carretera de la costa es sinuosa, prevea paradas para un perro propenso al mareo.`,
+        `Kaş es punto de partida de excursiones en barco y buceo: confirme siempre de antemano que se admite un perro a bordo, no es automático.`,
+      ],
+      pt: [
+        `Número único de emergência na Turquia: 112 (socorro, polícia, bombeiros); o inglês é corrente nos hotéis, escolas de mergulho e restaurantes de Kaş.`,
+        `A Turquia está fora da UE: para regressar à União com um cão exige-se um teste serológico de anticorpos antirrábicos (análise de sangue em laboratório autorizado), além do microchip e da vacina, planeie com meses de antecedência.`,
+        `Clima mediterrânico: verões muito quentes e secos (julho-agosto até 35 °C) e invernos suaves e chuvosos; a primavera e o outono são as estações ideais para passear um cão.`,
+        `Como chegar: aeroportos de Dalaman (cerca de 2 h a oeste) e Antalya (cerca de 3 h a este); a estrada da costa é sinuosa, preveja paragens para um cão propenso a enjoo.`,
+        `Kaş é ponto de partida de passeios de barco e mergulho: confirme sempre com antecedência que um cão é aceite a bordo, não é automático.`,
       ],
     },
   },

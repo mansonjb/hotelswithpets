@@ -7508,6 +7508,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  budva: {
+    history: {
+      fr: `Budva s'étire sur la côte adriatique du Monténégro, au centre d'une riviera de plages qui porte son nom. Sa vieille ville fortifiée, Stari Grad, compte parmi les plus anciennes agglomérations de l'Adriatique: fondée il y a plus de deux mille ans, elle a été façonnée par les Grecs, les Romains puis surtout par Venise, dont les remparts de pierre ceignent encore aujourd'hui un dédale de ruelles pavées, d'églises et de placettes. Longtemps port de pêche et de commerce, la ville s'est reconstruite après le séisme de 1979 et est devenue la capitale estivale du tourisme monténégrin. En été, ses plages, sa vie nocturne et l'îlot voisin de Sveti Stefan attirent une foule cosmopolite, et le mois d'août bat des records d'affluence. Voyager ici avec un chien suppose d'anticiper la chaleur, le bruit des nuits d'été et les restrictions de plage en haute saison.`,
+      en: `Budva stretches along Montenegro's Adriatic coast, at the centre of a riviera of beaches that bears its name. Its walled old town, Stari Grad, is among the oldest settlements on the Adriatic: founded more than two thousand years ago, it was shaped by Greeks, Romans and above all Venice, whose stone ramparts still enclose a maze of paved lanes, churches and little squares. Long a fishing and trading port, the town was rebuilt after the 1979 earthquake and became the summer capital of Montenegrin tourism. In summer its beaches, nightlife and the neighbouring islet of Sveti Stefan draw a cosmopolitan crowd, and August sees record numbers. Travelling here with a dog means planning around the heat, the noise of summer nights and the seasonal beach restrictions.`,
+      es: `Budva se extiende por la costa adriática de Montenegro, en el centro de una riviera de playas que lleva su nombre. Su casco antiguo amurallado, Stari Grad, figura entre los asentamientos más antiguos del Adriático: fundado hace más de dos mil años, lo moldearon griegos, romanos y sobre todo Venecia, cuyas murallas de piedra aún ciñen un laberinto de callejuelas empedradas, iglesias y placitas. Durante mucho tiempo puerto pesquero y comercial, la ciudad se reconstruyó tras el terremoto de 1979 y se convirtió en la capital estival del turismo montenegrino. En verano sus playas, su vida nocturna y el vecino islote de Sveti Stefan atraen a un público cosmopolita, y agosto marca récords de afluencia. Viajar aquí con un perro exige anticiparse al calor, al ruido de las noches de verano y a las restricciones de playa en temporada alta.`,
+      pt: `Budva estende-se pela costa adriática do Montenegro, no centro de uma riviera de praias que leva o seu nome. O seu centro antigo amuralhado, Stari Grad, figura entre os povoados mais antigos do Adriático: fundado há mais de dois mil anos, foi moldado por gregos, romanos e sobretudo por Veneza, cujas muralhas de pedra ainda cingem um labirinto de vielas empedradas, igrejas e pracetas. Durante muito tempo porto piscatório e comercial, a cidade reconstruiu-se após o terramoto de 1979 e tornou-se a capital estival do turismo montenegrino. No verão, as suas praias, a vida noturna e o vizinho ilhéu de Sveti Stefan atraem um público cosmopolita, e agosto bate recordes de afluência. Viajar aqui com um cão exige antecipar o calor, o barulho das noites de verão e as restrições de praia em época alta.`,
+    },
+    sights: [
+      {
+        name: `Stari Grad`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          fr: `La vieille ville fortifiée de Budva, avec ses remparts vénitiens, ses ruelles pavées et ses églises serrées face à la mer. Les chiens tenus en laisse sont les bienvenus dans les venelles, à parcourir de préférence tôt le matin avant l'affluence estivale.`,
+          en: `Budva's walled old town, with its Venetian ramparts, paved lanes and churches huddled facing the sea. Leashed dogs are welcome in the alleys, best explored early in the morning before the summer crowds.`,
+          es: `El casco antiguo amurallado de Budva, con sus murallas venecianas, sus callejuelas empedradas y sus iglesias apiñadas frente al mar. Se admiten perros con correa en las callejas, que conviene recorrer temprano antes del gentío estival.`,
+          pt: `O centro antigo amuralhado de Budva, com as suas muralhas venezianas, vielas empedradas e igrejas apinhadas frente ao mar. São bem-vindos cães com trela nas vielas, a percorrer de preferência de manhã cedo antes da multidão estival.`,
+        },
+      },
+      {
+        name: `Citadela`,
+        emoji: `🏯`,
+        petFriendly: false,
+        desc: {
+          fr: `La forteresse qui couronne la pointe sud de la vieille ville, offrant une vue dégagée sur la baie et le large. L'accès à l'enceinte est payant et les animaux n'y sont généralement pas admis, mais la promenade des remparts autour se fait en laisse.`,
+          en: `The fortress crowning the southern tip of the old town, with open views over the bay and the sea. Entry to the enclosure is ticketed and pets are generally not allowed inside, but the rampart walk around it can be done on leash.`,
+          es: `La fortaleza que corona el extremo sur del casco antiguo, con vistas despejadas de la bahía y el mar. El acceso al recinto es de pago y los animales no suelen admitirse dentro, pero el paseo por las murallas de alrededor se hace con correa.`,
+          pt: `A fortaleza que coroa a ponta sul do centro antigo, com vistas desafogadas sobre a baía e o mar. O acesso ao recinto é pago e os animais geralmente não são admitidos lá dentro, mas o passeio pelas muralhas em redor faz-se com trela.`,
+        },
+      },
+      {
+        name: `Mogren`,
+        emoji: `🏖️`,
+        petFriendly: false,
+        desc: {
+          fr: `Les deux petites plages abritées sous les falaises, reliées à la vieille ville par un sentier littoral. Très fréquentées et gérées en concessions l'été, elles restreignent l'accès des chiens en haute saison, préférez les criques plus discrètes hors saison.`,
+          en: `The two small sheltered beaches beneath the cliffs, linked to the old town by a coastal path. Busy and run as concessions in summer, they restrict dog access in high season, so prefer the quieter coves off-season.`,
+          es: `Las dos pequeñas playas resguardadas bajo los acantilados, unidas al casco antiguo por un sendero litoral. Muy concurridas y gestionadas por concesiones en verano, restringen el acceso de perros en temporada alta, mejor las calas más discretas fuera de temporada.`,
+          pt: `As duas pequenas praias abrigadas sob as falésias, ligadas ao centro antigo por um trilho costeiro. Muito concorridas e geridas por concessões no verão, restringem o acesso de cães em época alta, prefira as enseadas mais discretas fora de época.`,
+        },
+      },
+      {
+        name: `Sveti Stefan`,
+        emoji: `🌅`,
+        petFriendly: true,
+        desc: {
+          fr: `L'îlot-village le plus photographié du Monténégro, relié à la côte par un isthme et transformé en hôtel privé, donc inaccessible aux visiteurs. Le belvédère et la route qui le surplombent, en revanche, s'admirent en laisse et offrent la carte postale.`,
+          en: `Montenegro's most photographed island-village, joined to the coast by an isthmus and turned into a private resort, so closed to visitors. The viewpoint and road above it, however, can be enjoyed on leash and give the postcard shot.`,
+          es: `El islote-pueblo más fotografiado de Montenegro, unido a la costa por un istmo y convertido en hotel privado, por lo que es inaccesible para los visitantes. El mirador y la carretera que lo dominan, en cambio, se disfrutan con correa y ofrecen la postal.`,
+          pt: `O ilhéu-aldeia mais fotografado do Montenegro, ligado à costa por um istmo e transformado em hotel privado, pelo que está inacessível aos visitantes. O miradouro e a estrada que o dominam, porém, apreciam-se com trela e dão o postal.`,
+        },
+      },
+      {
+        name: `Rafailovići`,
+        emoji: `🚶`,
+        petFriendly: true,
+        desc: {
+          fr: `Un ancien village de pêcheurs relié à Budva par une longue promenade de bord de mer, appréciée pour sa balade plane le long des criques. Le chemin se parcourt agréablement en laisse, matin et soir, quand la chaleur retombe.`,
+          en: `A former fishing village linked to Budva by a long seaside promenade, prized for its flat walk along the coves. The path makes for a pleasant leashed stroll, morning and evening, once the heat eases.`,
+          es: `Un antiguo pueblo de pescadores unido a Budva por un largo paseo marítimo, apreciado por su recorrido llano junto a las calas. El camino se recorre a gusto con correa, mañana y tarde, cuando baja el calor.`,
+          pt: `Uma antiga aldeia de pescadores ligada a Budva por um longo passeio marítimo, apreciado pelo seu percurso plano ao longo das enseadas. O caminho percorre-se com gosto de trela, de manhã e ao entardecer, quando o calor abranda.`,
+        },
+      },
+      {
+        name: `Jaz`,
+        emoji: `🌊`,
+        petFriendly: false,
+        desc: {
+          fr: `Une longue plage ouverte à l'ouest de Budva, connue pour ses grands concerts et festivals d'été. Sa partie aménagée limite l'accès des chiens en pleine saison, mais l'extrémité sauvage plus tranquille tolère parfois un chien en laisse hors des zones surveillées.`,
+          en: `A long open beach west of Budva, known for its big summer concerts and festivals. Its managed section limits dog access in high season, but the quieter wild end sometimes tolerates a leashed dog away from the supervised areas.`,
+          es: `Una larga playa abierta al oeste de Budva, conocida por sus grandes conciertos y festivales de verano. Su parte acondicionada limita el acceso de perros en plena temporada, pero el extremo salvaje más tranquilo tolera a veces un perro con correa fuera de las zonas vigiladas.`,
+          pt: `Uma longa praia aberta a oeste de Budva, conhecida pelos seus grandes concertos e festivais de verão. A sua parte ordenada limita o acesso de cães em plena época, mas a extremidade selvagem mais tranquila tolera por vezes um cão com trela fora das zonas vigiadas.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le Monténégro n'est pas dans l'Union européenne: pour rentrer dans l'UE avec votre chien, prévoyez une puce ISO, un vaccin antirabique valide et, le pays ne figurant pas sur la liste favorable, un test sérologique de titrage des anticorps antirabiques réalisé avant le départ, anticipez plusieurs mois.`,
+        `Chaleur estivale intense: de juillet à septembre les températures dépassent souvent 30 °C, promenez votre chien tôt le matin ou après la tombée de la nuit et méfiez-vous des pavés brûlants de la vieille ville.`,
+        `En août, Budva devient une ville de fête très bruyante la nuit: musique, foule et feux d'artifice peuvent stresser un chien sensible, préférez la mi-saison (mai-juin, septembre) pour un séjour plus calme.`,
+        `Les plages aménagées de Budva et de la riviera restreignent les chiens en haute saison, repliez-vous sur les criques sauvages et les sections libres tôt le matin.`,
+        `Emportez toujours de l'eau et cherchez l'ombre: la côte est minérale et le risque de coup de chaleur élevé sur les promenades et les remparts exposés.`,
+      ],
+      en: [
+        `Montenegro is not in the European Union: to return to the EU with your dog, plan for an ISO microchip, a valid rabies vaccination and, as the country is not on the favourable list, a rabies antibody titre test done before departure, allow several months.`,
+        `Intense summer heat: from July to September temperatures often top 30 °C, walk your dog early in the morning or after dark and beware the scorching cobbles of the old town.`,
+        `In August, Budva becomes a very noisy party town at night: music, crowds and fireworks can stress a sensitive dog, prefer the shoulder season (May to June, September) for a calmer stay.`,
+        `The managed beaches of Budva and the riviera restrict dogs in high season, fall back on the wild coves and free sections early in the morning.`,
+        `Always carry water and seek shade: the coast is rocky and the risk of heatstroke is high on the exposed promenades and ramparts.`,
+      ],
+      es: [
+        `Montenegro no está en la Unión Europea: para regresar a la UE con tu perro, prevé un microchip ISO, una vacuna antirrábica vigente y, al no figurar el país en la lista favorable, una prueba serológica de titulación de anticuerpos antirrábicos hecha antes de salir, planifícalo con varios meses de antelación.`,
+        `Calor estival intenso: de julio a septiembre las temperaturas superan a menudo los 30 °C, pasea a tu perro temprano o de noche y ten cuidado con los adoquines abrasadores del casco antiguo.`,
+        `En agosto, Budva se convierte en una ruidosa ciudad de fiesta por la noche: música, gentío y fuegos artificiales pueden estresar a un perro sensible, prioriza la media temporada (de mayo a junio, septiembre) para una estancia más tranquila.`,
+        `Las playas acondicionadas de Budva y la riviera restringen los perros en temporada alta, refúgiate en las calas salvajes y los tramos libres a primera hora.`,
+        `Lleva siempre agua y busca sombra: la costa es rocosa y el riesgo de golpe de calor es alto en los paseos y murallas expuestos.`,
+      ],
+      pt: [
+        `O Montenegro não está na União Europeia: para regressar à UE com o seu cão, preveja um microchip ISO, uma vacina antirrábica válida e, por o país não constar da lista favorável, um teste serológico de titulação de anticorpos antirrábicos feito antes da partida, conte com vários meses.`,
+        `Calor estival intenso: de julho a setembro as temperaturas ultrapassam muitas vezes os 30 °C, passeie o seu cão de manhã cedo ou depois de anoitecer e cuidado com as calçadas escaldantes do centro antigo.`,
+        `Em agosto, Budva torna-se uma cidade de festa muito barulhenta à noite: música, multidão e fogo de artifício podem stressar um cão sensível, prefira a meia-estação (de maio a junho, setembro) para uma estadia mais tranquila.`,
+        `As praias ordenadas de Budva e da riviera restringem os cães em época alta, refugie-se nas enseadas selvagens e nos troços livres de manhã cedo.`,
+        `Leve sempre água e procure sombra: a costa é rochosa e o risco de insolação é elevado nos passeios e muralhas expostos.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence général au Monténégro: 112; l'ambulance dispose aussi du 124.`,
+        `Aéroport le plus proche: Tivat (TIV), à environ 20 km; l'aéroport de Podgorica est à environ 65 km.`,
+        `Le Monténégro utilise l'euro bien qu'il ne soit pas membre de l'Union européenne, mais l'entrée avec un animal requiert un certificat vétérinaire et une vaccination antirabique à jour.`,
+        `Climat méditerranéen: étés chauds et secs, hivers doux et humides; la mi-saison (mai-juin, septembre-octobre) est la plus confortable pour voyager avec un chien.`,
+        `Des cliniques vétérinaires sont présentes à Budva et dans les villes voisines de Tivat et Kotor, demandez à votre hébergement le vétérinaire de garde le plus proche.`,
+      ],
+      en: [
+        `General emergency number in Montenegro: 112; the ambulance service also uses 124.`,
+        `Nearest airport: Tivat (TIV), about 20 km away; Podgorica airport is around 65 km.`,
+        `Montenegro uses the euro although it is not a member of the European Union, but entering with a pet requires a veterinary certificate and up-to-date rabies vaccination.`,
+        `Mediterranean climate: hot, dry summers, mild wet winters; the shoulder seasons (May to June, September to October) are the most comfortable for travelling with a dog.`,
+        `Veterinary clinics operate in Budva and the neighbouring towns of Tivat and Kotor, ask your accommodation for the nearest on-call vet.`,
+      ],
+      es: [
+        `Número de emergencias general en Montenegro: 112; el servicio de ambulancia también usa el 124.`,
+        `Aeropuerto más cercano: Tivat (TIV), a unos 20 km; el aeropuerto de Podgorica está a unos 65 km.`,
+        `Montenegro usa el euro aunque no es miembro de la Unión Europea, pero entrar con una mascota exige un certificado veterinario y la vacuna antirrábica al día.`,
+        `Clima mediterráneo: veranos cálidos y secos, inviernos suaves y húmedos; la media temporada (de mayo a junio, de septiembre a octubre) es la más cómoda para viajar con perro.`,
+        `Hay clínicas veterinarias en Budva y en las localidades vecinas de Tivat y Kotor, pregunta en tu alojamiento por el veterinario de guardia más cercano.`,
+      ],
+      pt: [
+        `Número de emergência geral no Montenegro: 112; o serviço de ambulância usa também o 124.`,
+        `Aeroporto mais próximo: Tivat (TIV), a cerca de 20 km; o aeroporto de Podgorica fica a cerca de 65 km.`,
+        `O Montenegro usa o euro embora não seja membro da União Europeia, mas entrar com um animal exige um certificado veterinário e a vacina antirrábica em dia.`,
+        `Clima mediterrânico: verões quentes e secos, invernos amenos e húmidos; a meia-estação (de maio a junho, de setembro a outubro) é a mais confortável para viajar com cão.`,
+        `Existem clínicas veterinárias em Budva e nas localidades vizinhas de Tivat e Kotor, pergunte no seu alojamento pelo veterinário de urgência mais próximo.`,
+      ],
+    },
+  },
+
   burgos: {
     history: {
       en: `Burgos sits at 860 m on the Castilian plateau, the historic capital of Old Castile and one of the most important Gothic cities in Europe. Founded as a frontier fortress in 884 AD by Count Diego Rodriguez Porcelos against the Arab south, it grew into the seat of the kings of Castile, the burial place of El Cid, and the artistic capital of the medieval north thanks to its UNESCO World Heritage cathedral begun in 1221. The city is also a vital stop on the Camino Frances, the most-walked branch of the Camino de Santiago: pilgrims have crossed the Puente Malatos and entered through the Arco de Santa Maria for over a thousand years. Today Burgos is a calm provincial capital of 175,000 residents on the Arlanzon river, with a compact old town, eleven official canine areas, a 24/7 reference veterinary hospital and a measured Castilian terrace culture that makes it one of the easier UNESCO cities in Spain for dog travellers.`,
@@ -8232,6 +8369,143 @@ const cityContent: Record<string, CityContent> = {
         `Urgência fora de horas: Maison des Urgences Vétérinaires, +33 3 59 72 20 20 (ou o 3115, número nacional de urgência)`,
         `Hospital de referência 24h: CHV AniCura Nordvet, La Madeleine perto de Lille (~1h15 pela A26), +33 3 20 51 00 66`,
         `Regresso UK: Animal Health Certificate obrigatório; passaporte europeu para o continente; documentos controlados no embarque ferry / Eurotunnel`,
+      ],
+    },
+  },
+
+  calpe: {
+    history: {
+      fr: `Calpe se dresse sur la Costa Blanca, dans la province d'Alicante, à l'ombre du Peñón de Ifach, un rocher calcaire de 332 mètres qui plonge dans la Méditerranée et sert d'emblème à toute la côte. Habité depuis l'Antiquité, le site conserve les Baños de la Reina, vestiges d'une villa et de viviers romains taillés dans la roche au bord de l'eau, ainsi qu'une vieille ville aux ruelles étroites héritées de l'époque médiévale. Longtemps village de pêcheurs, Calpe garde un port actif dont la criée quotidienne anime le front de mer, tandis que les salines toutes proches accueillent chaque année des flamants roses. À partir des années 1960, le tourisme a fait pousser les immeubles autour des grandes plages de sable de l'Arenal-Bol et de la Fossa. Voyager ici avec un chien demande d'anticiper la chaleur estivale et les restrictions de plage en haute saison.`,
+      en: `Calpe sits on the Costa Blanca, in the province of Alicante, in the shadow of the Peñón de Ifach, a 332-metre limestone rock that plunges into the Mediterranean and serves as the emblem of the whole coast. Inhabited since antiquity, the site preserves the Baños de la Reina, remains of a Roman villa and fish tanks cut into the rock at the water's edge, along with an old town of narrow medieval lanes. Long a fishing village, Calpe still has a working port whose daily fish auction enlivens the seafront, while the nearby salt flats host flamingos each year. From the 1960s, tourism raised apartment blocks around the broad sandy beaches of Arenal-Bol and La Fossa. Travelling here with a dog means planning around the summer heat and the seasonal beach restrictions.`,
+      es: `Calpe se alza en la Costa Blanca, en la provincia de Alicante, a la sombra del Peñón de Ifach, un peñasco calizo de 332 metros que se hunde en el Mediterráneo y sirve de emblema a toda la costa. Habitado desde la Antigüedad, el lugar conserva los Baños de la Reina, restos de una villa y de viveros romanos tallados en la roca a orillas del agua, además de un casco antiguo de callejuelas medievales. Durante mucho tiempo pueblo de pescadores, Calpe mantiene un puerto activo cuya lonja diaria anima el paseo marítimo, mientras que las salinas cercanas acogen cada año flamencos. A partir de los años sesenta, el turismo levantó bloques de apartamentos en torno a las amplias playas de arena del Arenal-Bol y La Fossa. Viajar aquí con un perro exige anticiparse al calor estival y a las restricciones de playa en temporada alta.`,
+      pt: `Calpe ergue-se na Costa Blanca, na província de Alicante, à sombra do Peñón de Ifach, um rochedo calcário de 332 metros que mergulha no Mediterrâneo e serve de emblema a toda a costa. Habitado desde a Antiguidade, o local conserva os Baños de la Reina, vestígios de uma vila e de viveiros romanos talhados na rocha à beira da água, além de um centro antigo de vielas medievais. Durante muito tempo aldeia de pescadores, Calpe mantém um porto ativo cuja lota diária anima a marginal, enquanto as salinas próximas acolhem flamingos todos os anos. A partir dos anos sessenta, o turismo levantou blocos de apartamentos em torno das amplas praias de areia do Arenal-Bol e da Fossa. Viajar aqui com um cão exige antecipar o calor estival e as restrições de praia em época alta.`,
+    },
+    sights: [
+      {
+        name: `Peñón de Ifach`,
+        emoji: `⛰️`,
+        petFriendly: true,
+        desc: {
+          fr: `Le rocher emblématique de Calpe, classé parc naturel, dont la silhouette domine toute la baie. Les chiens tenus en laisse sont admis sur le sentier inférieur qui grimpe jusqu'au pied de la paroi, mais l'accès au tunnel et à la partie sommitale, étroit et exposé, ne leur convient pas.`,
+          en: `Calpe's emblematic rock, protected as a natural park, its silhouette towering over the whole bay. Leashed dogs are allowed on the lower trail that climbs to the foot of the cliff, but the tunnel and the exposed summit section beyond are not suitable for them.`,
+          es: `El peñón emblemático de Calpe, declarado parque natural, cuya silueta domina toda la bahía. Se admiten perros con correa en el sendero inferior que sube hasta el pie de la pared, pero el tramo del túnel y la parte de la cima, estrecha y expuesta, no es apto para ellos.`,
+          pt: `O rochedo emblemático de Calpe, classificado como parque natural, cuja silhueta domina toda a baía. São admitidos cães com trela no trilho inferior que sobe até ao pé da parede, mas o troço do túnel e a parte do cume, estreita e exposta, não é adequado para eles.`,
+        },
+      },
+      {
+        name: `Salinas de Calpe`,
+        emoji: `🦩`,
+        petFriendly: true,
+        desc: {
+          fr: `Les anciennes salines au cœur de la ville, aujourd'hui une lagune où stationnent chaque année des flamants roses. Le chemin qui en fait le tour se parcourt en laisse, mais tenez votre chien à distance de l'eau pour ne pas déranger les oiseaux.`,
+          en: `The former salt pans in the heart of town, now a lagoon where flamingos gather each year. The path that loops around it can be walked on leash, but keep your dog well back from the water so as not to disturb the birds.`,
+          es: `Las antiguas salinas en pleno centro, hoy una laguna donde cada año se detienen flamencos. El camino que la rodea se recorre con correa, pero mantén a tu perro lejos del agua para no molestar a las aves.`,
+          pt: `As antigas salinas em pleno centro, hoje uma lagoa onde todos os anos param flamingos. O caminho que a rodeia percorre-se com trela, mas mantenha o seu cão afastado da água para não incomodar as aves.`,
+        },
+      },
+      {
+        name: `Baños de la Reina`,
+        emoji: `🏛️`,
+        petFriendly: true,
+        desc: {
+          fr: `Des vestiges romains taillés dans la roche au bord de l'eau, anciens viviers à poissons et thermes d'une villa antique. Le site archéologique est à ciel ouvert et se visite en laisse, en longeant le rivage.`,
+          en: `Roman remains cut into the rock at the water's edge, former fish tanks and baths belonging to an ancient villa. The open-air archaeological site can be visited on leash while following the shoreline.`,
+          es: `Restos romanos tallados en la roca a orillas del agua, antiguos viveros de peces y termas de una villa antigua. El yacimiento arqueológico es al aire libre y se visita con correa siguiendo la orilla.`,
+          pt: `Vestígios romanos talhados na rocha à beira da água, antigos viveiros de peixe e termas de uma vila antiga. O sítio arqueológico é ao ar livre e visita-se com trela ao longo da margem.`,
+        },
+      },
+      {
+        name: `Casco Antiguo`,
+        emoji: `🏘️`,
+        petFriendly: true,
+        desc: {
+          fr: `La vieille ville aux ruelles blanchies à la chaux, aux murets peints et aux placettes ombragées, adossée au port de pêche. On s'y promène agréablement en laisse, à l'écart de la circulation, avant de rejoindre la criée du soir.`,
+          en: `The old town of whitewashed lanes, painted walls and shady little squares, backing onto the fishing port. It makes for a pleasant leashed stroll away from traffic, before heading down to the evening fish market.`,
+          es: `El casco antiguo de callejuelas encaladas, muros pintados y placitas sombreadas, apoyado en el puerto pesquero. Se pasea a gusto con correa, lejos del tráfico, antes de bajar a la lonja del atardecer.`,
+          pt: `O centro antigo de vielas caiadas, muros pintados e pracetas sombreadas, encostado ao porto de pesca. Passeia-se com gosto de trela, longe do trânsito, antes de descer à lota do entardecer.`,
+        },
+      },
+      {
+        name: `Playa del Arenal-Bol`,
+        emoji: `🏖️`,
+        petFriendly: false,
+        desc: {
+          fr: `La grande plage de sable au pied du centre-ville, animée et bordée d'une promenade. Comme la plupart des plages urbaines de la Communauté valencienne, elle interdit les chiens en haute saison, repliez-vous alors sur les criques discrètes près du port.`,
+          en: `The large sandy beach at the foot of the town centre, busy and lined with a promenade. Like most urban beaches in the Valencian Community, it bans dogs in high season, so fall back on the quiet coves near the port instead.`,
+          es: `La gran playa de arena a los pies del centro, animada y bordeada por un paseo. Como la mayoría de las playas urbanas de la Comunidad Valenciana, prohíbe los perros en temporada alta, así que refúgiate entonces en las calas discretas junto al puerto.`,
+          pt: `A grande praia de areia aos pés do centro, animada e ladeada por um passeio. Como a maioria das praias urbanas da Comunidade Valenciana, proíbe cães em época alta, refugie-se então nas enseadas discretas junto ao porto.`,
+        },
+      },
+      {
+        name: `Playa de la Fossa`,
+        emoji: `🌊`,
+        petFriendly: false,
+        desc: {
+          fr: `La longue plage du Levante, face au Peñón, très fréquentée l'été et prisée pour la baignade. L'accès des chiens y est restreint en pleine saison, mais la promenade qui la longe reste ouverte en laisse tôt le matin et en soirée.`,
+          en: `The long Levante beach facing the Peñón, crowded in summer and popular for swimming. Dog access is restricted in high season, but the promenade running alongside stays open on leash early morning and evening.`,
+          es: `La larga playa de Levante, frente al Peñón, muy concurrida en verano y apreciada para el baño. El acceso de perros está restringido en plena temporada, pero el paseo que la bordea sigue abierto con correa a primera hora y al atardecer.`,
+          pt: `A longa praia do Levante, em frente ao Peñón, muito concorrida no verão e apreciada para o banho. O acesso de cães é restrito em plena época, mas o passeio que a ladeia continua aberto com trela de manhã cedo e ao entardecer.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Chaleur estivale méditerranéenne: de juin à septembre le thermomètre dépasse souvent 30 °C et le sable comme le trottoir deviennent brûlants, promenez votre chien à l'aube ou en soirée et testez le sol avec la main.`,
+        `Sur le Peñón de Ifach, restez sur le sentier inférieur avec un chien en laisse: le tunnel et la partie sommitale, étroits et exposés, ne conviennent pas aux animaux.`,
+        `Les plages urbaines de Calpe (Arenal-Bol, La Fossa) interdisent les chiens en haute saison, généralement de la Semaine sainte à fin septembre, repliez-vous sur les petites criques près du port ou hors saison.`,
+        `Emportez toujours de l'eau et cherchez l'ombre: la côte est très minérale et le risque de coup de chaleur élevé sur le rocher et les promenades exposées.`,
+        `En Espagne, les races classées potentiellement dangereuses (PPP) doivent porter laisse courte et muselière sur la voie publique, prévoyez l'équipement si votre chien est concerné.`,
+      ],
+      en: [
+        `Mediterranean summer heat: from June to September the thermometer often tops 30 °C and both sand and pavement turn scorching, walk your dog at dawn or in the evening and test the ground with your hand.`,
+        `On the Peñón de Ifach, stay on the lower trail with your dog leashed: the tunnel and the summit section, narrow and exposed, are not suitable for animals.`,
+        `Calpe's urban beaches (Arenal-Bol, La Fossa) ban dogs in high season, usually from Easter week to late September, so fall back on the small coves near the port or travel off-season.`,
+        `Always carry water and seek shade: the coast is very rocky and the risk of heatstroke is high on the rock and the exposed promenades.`,
+        `In Spain, breeds classed as potentially dangerous (PPP) must wear a short leash and muzzle in public, bring the gear if your dog is affected.`,
+      ],
+      es: [
+        `Calor estival mediterráneo: de junio a septiembre el termómetro supera a menudo los 30 °C y tanto la arena como la acera se vuelven abrasadoras, pasea a tu perro al amanecer o al atardecer y comprueba el suelo con la mano.`,
+        `En el Peñón de Ifach, quédate en el sendero inferior con el perro con correa: el túnel y la parte de la cima, estrechos y expuestos, no son aptos para animales.`,
+        `Las playas urbanas de Calpe (Arenal-Bol, La Fossa) prohíben los perros en temporada alta, normalmente de Semana Santa a finales de septiembre, refúgiate en las pequeñas calas junto al puerto o viaja fuera de temporada.`,
+        `Lleva siempre agua y busca sombra: la costa es muy rocosa y el riesgo de golpe de calor es alto en el peñón y los paseos expuestos.`,
+        `En España, las razas consideradas potencialmente peligrosas (PPP) deben llevar correa corta y bozal en la vía pública, prepara el equipo si tu perro está afectado.`,
+      ],
+      pt: [
+        `Calor estival mediterrânico: de junho a setembro o termómetro ultrapassa muitas vezes os 30 °C e tanto a areia como o passeio ficam escaldantes, passeie o seu cão ao amanhecer ou ao entardecer e teste o chão com a mão.`,
+        `No Peñón de Ifach, mantenha-se no trilho inferior com o cão com trela: o túnel e a parte do cume, estreitos e expostos, não são adequados para animais.`,
+        `As praias urbanas de Calpe (Arenal-Bol, La Fossa) proíbem cães em época alta, normalmente da Semana Santa ao final de setembro, refugie-se nas pequenas enseadas junto ao porto ou viaje fora de época.`,
+        `Leve sempre água e procure sombra: a costa é muito rochosa e o risco de insolação é elevado no rochedo e nos passeios expostos.`,
+        `Em Espanha, as raças consideradas potencialmente perigosas (PPP) devem usar trela curta e açaime na via pública, prepare o equipamento se o seu cão for abrangido.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Espagne: 112 (police, pompiers, ambulance).`,
+        `Aéroport le plus proche: Alicante-Elche (ALC), à environ 65 km; l'aéroport de Valence est à environ 110 km.`,
+        `Climat méditerranéen: étés chauds et secs, hivers doux; la mi-saison (avril-juin, septembre-octobre) est la plus confortable pour voyager avec un chien et coïncide avec la levée des restrictions de plage.`,
+        `Calpe est desservie par le tram de la ligne 9 (TRAM d'Alicante) vers Benidorm et Dénia; les animaux tenus y sont généralement admis en dehors des heures de pointe.`,
+        `Plusieurs cliniques vétérinaires sont installées à Calpe et dans les villes voisines de Benissa et Altea, demandez à votre hébergement le vétérinaire de garde le plus proche.`,
+      ],
+      en: [
+        `Single emergency number in Spain: 112 (police, fire, ambulance).`,
+        `Nearest airport: Alicante-Elche (ALC), about 65 km away; Valencia airport is around 110 km.`,
+        `Mediterranean climate: hot, dry summers, mild winters; the shoulder seasons (April to June, September to October) are the most comfortable for travelling with a dog and coincide with the lifting of beach restrictions.`,
+        `Calpe is served by the Line 9 tram (TRAM d'Alacant) toward Benidorm and Dénia; leashed pets are generally allowed outside peak hours.`,
+        `Several veterinary clinics operate in Calpe and the neighbouring towns of Benissa and Altea, ask your accommodation for the nearest on-call vet.`,
+      ],
+      es: [
+        `Número de emergencias único en España: 112 (policía, bomberos, ambulancia).`,
+        `Aeropuerto más cercano: Alicante-Elche (ALC), a unos 65 km; el aeropuerto de Valencia está a unos 110 km.`,
+        `Clima mediterráneo: veranos cálidos y secos, inviernos suaves; la media temporada (de abril a junio, de septiembre a octubre) es la más cómoda para viajar con perro y coincide con el levantamiento de las restricciones de playa.`,
+        `Calpe cuenta con el tranvía de la Línea 9 (TRAM d'Alacant) hacia Benidorm y Dénia; las mascotas con correa suelen admitirse fuera de las horas punta.`,
+        `Hay varias clínicas veterinarias en Calpe y en las localidades vecinas de Benissa y Altea, pregunta en tu alojamiento por el veterinario de guardia más cercano.`,
+      ],
+      pt: [
+        `Número de emergência único em Espanha: 112 (polícia, bombeiros, ambulância).`,
+        `Aeroporto mais próximo: Alicante-Elche (ALC), a cerca de 65 km; o aeroporto de Valência fica a cerca de 110 km.`,
+        `Clima mediterrânico: verões quentes e secos, invernos amenos; a meia-estação (de abril a junho, de setembro a outubro) é a mais confortável para viajar com cão e coincide com o levantamento das restrições de praia.`,
+        `Calpe é servida pelo elétrico da Linha 9 (TRAM d'Alacant) em direção a Benidorm e Dénia; os animais com trela são geralmente admitidos fora das horas de ponta.`,
+        `Existem várias clínicas veterinárias em Calpe e nas localidades vizinhas de Benissa e Altea, pergunte no seu alojamento pelo veterinário de urgência mais próximo.`,
       ],
     },
   },

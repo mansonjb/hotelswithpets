@@ -19722,6 +19722,220 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  kaunas: {
+    history: {
+      fr: `Deuxième ville de Lituanie, Kaunas s'est épanouie au confluent du Nemunas et de la Neris, position stratégique qui lui valut un château de brique dès le XIVe siècle et un port fluvial prospère. Entre 1920 et 1940, quand Vilnius était occupée par la Pologne, Kaunas devint la capitale provisoire du pays : la jeune République y bâtit en deux décennies un extraordinaire ensemble d'architecture moderniste, aujourd'hui inscrit au patrimoine mondial de l'UNESCO. La vieille ville médiévale, avec sa place de l'Hôtel de Ville surnommée le « Cygne blanc », voisine ainsi avec la longue avenue piétonne Laisvės alėja et ses terrasses. Capitale européenne de la culture en 2022, la ville rayonne d'une énergie créative jeune, portée par ses universités. Ses parcs, dont la vaste chênaie Ąžuolynas, et sa culture balte très tolérante envers les chiens en font une escale accueillante pour voyager avec son animal.`,
+      en: `Lithuania's second city, Kaunas grew up at the confluence of the Nemunas and Neris rivers, a strategic spot that earned it a brick castle as early as the 14th century and a thriving river port. Between 1920 and 1940, while Vilnius was under Polish occupation, Kaunas served as the country's provisional capital: in just two decades the young republic raised an extraordinary body of modernist architecture, now inscribed on the UNESCO World Heritage list. The medieval Old Town, with its Town Hall Square nicknamed the "White Swan," sits beside the long pedestrian avenue of Laisvės alėja and its café terraces. As 2022 European Capital of Culture, the city hums with a young creative energy driven by its universities. Its parks, including the vast Ąžuolynas oak grove, and a Baltic culture very tolerant of dogs make it a welcoming stop for travelling with a pet.`,
+      es: `Segunda ciudad de Lituania, Kaunas floreció en la confluencia de los ríos Nemunas y Neris, una posición estratégica que le valió un castillo de ladrillo ya en el siglo XIV y un próspero puerto fluvial. Entre 1920 y 1940, cuando Vilna estaba ocupada por Polonia, Kaunas fue la capital provisional del país: en apenas dos décadas la joven república levantó un extraordinario conjunto de arquitectura modernista, hoy inscrito en el Patrimonio Mundial de la UNESCO. El casco antiguo medieval, con su plaza del Ayuntamiento apodada el «Cisne Blanco», convive con la larga avenida peatonal Laisvės alėja y sus terrazas. Capital Europea de la Cultura en 2022, la ciudad irradia una energía creativa joven impulsada por sus universidades. Sus parques, entre ellos el vasto robledal Ąžuolynas, y una cultura báltica muy tolerante con los perros la convierten en una escala acogedora para viajar con animal.`,
+      pt: `Segunda cidade da Lituânia, Kaunas floresceu na confluência dos rios Nemunas e Neris, posição estratégica que lhe valeu um castelo de tijolo logo no século XIV e um próspero porto fluvial. Entre 1920 e 1940, quando Vilnius estava ocupada pela Polónia, Kaunas foi a capital provisória do país: em apenas duas décadas a jovem república ergueu um extraordinário conjunto de arquitetura modernista, hoje inscrito no Património Mundial da UNESCO. A cidade velha medieval, com a sua Praça da Câmara apelidada de «Cisne Branco», convive com a longa avenida pedonal Laisvės alėja e as suas esplanadas. Capital Europeia da Cultura em 2022, a cidade irradia uma energia criativa jovem impulsionada pelas suas universidades. Os seus parques, entre eles o vasto carvalhal Ąžuolynas, e uma cultura báltica muito tolerante com os cães fazem dela uma escala acolhedora para viajar com o animal.`,
+    },
+    sights: [
+      { name: 'Kauno pilis', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Le château de Kaunas, forteresse gothique de brique rouge dressée près du confluent des deux rivières, est le plus ancien monument de la ville. Ses abords et les pelouses qui l'entourent se parcourent librement en laisse, avec une belle vue sur la Neris.`,
+        en: `Kaunas Castle, a red-brick Gothic fortress standing near the confluence of the two rivers, is the city's oldest monument. Its surroundings and the lawns around it can be walked freely on a leash, with a fine view over the Neris.`,
+        es: `El castillo de Kaunas, fortaleza gótica de ladrillo rojo alzada junto a la confluencia de los dos ríos, es el monumento más antiguo de la ciudad. Sus alrededores y las praderas que lo rodean se recorren libremente con correa, con una bonita vista sobre el Neris.`,
+        pt: `O castelo de Kaunas, fortaleza gótica de tijolo vermelho erguida junto à confluência dos dois rios, é o monumento mais antigo da cidade. Os seus arredores e os relvados em redor percorrem-se livremente com trela, com uma bela vista sobre o Neris.`,
+      }},
+      { name: 'Rotušės aikštė', emoji: '🦢', petFriendly: true, desc: {
+        fr: `La place de l'Hôtel de Ville, cœur pavé de la vieille ville, est dominée par le bâtiment blanc surnommé le « Cygne blanc » à la haute tour élégante. Vaste espace ouvert bordé de maisons de marchands et de cafés, il se traverse aisément avec un chien en laisse.`,
+        en: `Town Hall Square, the cobbled heart of the Old Town, is dominated by the white building nicknamed the "White Swan" with its elegant tall tower. A wide open space lined with merchant houses and cafés, it is easily crossed with a leashed dog.`,
+        es: `La plaza del Ayuntamiento, corazón empedrado del casco antiguo, está dominada por el edificio blanco apodado el «Cisne Blanco», de elegante torre alta. Amplio espacio abierto bordeado de casas de comerciantes y cafés, se cruza fácilmente con un perro con correa.`,
+        pt: `A Praça da Câmara, coração calcetado da cidade velha, é dominada pelo edifício branco apelidado de «Cisne Branco», de elegante torre alta. Amplo espaço aberto ladeado de casas de comerciantes e cafés, atravessa-se facilmente com um cão com trela.`,
+      }},
+      { name: 'Laisvės alėja', emoji: '🌳', petFriendly: true, desc: {
+        fr: `La longue avenue de la Liberté, artère piétonne bordée de tilleuls reliant la vieille ville au centre moderniste, est le lieu de promenade favori des habitants. Les chiens en laisse y sont les bienvenus, et de nombreuses terrasses acceptent volontiers un animal calme à leurs pieds.`,
+        en: `Liberty Avenue, a lime-lined pedestrian artery linking the Old Town to the modernist centre, is the locals' favourite place to stroll. Leashed dogs are welcome, and many terraces happily accept a calm animal at their feet.`,
+        es: `La avenida de la Libertad, arteria peatonal bordeada de tilos que une el casco antiguo con el centro modernista, es el paseo favorito de los habitantes. Los perros con correa son bienvenidos, y muchas terrazas aceptan de buen grado un animal tranquilo a sus pies.`,
+        pt: `A avenida da Liberdade, artéria pedonal ladeada de tílias que liga a cidade velha ao centro modernista, é o passeio favorito dos habitantes. Os cães com trela são bem-vindos, e muitas esplanadas aceitam de bom grado um animal tranquilo a seus pés.`,
+      }},
+      { name: 'Ąžuolynas', emoji: '🐿️', petFriendly: true, desc: {
+        fr: `La chênaie d'Ąžuolynas, plus grande futaie de chênes matures d'Europe en milieu urbain, offre de vastes allées ombragées et des pelouses parfaites pour marcher un chien. Espace de respiration prisé des joggeurs et des promeneurs, à parcourir en laisse au fil des sentiers.`,
+        en: `The Ąžuolynas oak grove, the largest stand of mature oaks in any European city, offers vast shaded avenues and lawns perfect for walking a dog. A favourite breathing space for joggers and strollers, it is best explored on a leash along its paths.`,
+        es: `El robledal de Ąžuolynas, la mayor masa de robles maduros en un entorno urbano de Europa, ofrece amplias avenidas sombreadas y praderas perfectas para pasear un perro. Espacio de desahogo apreciado por corredores y paseantes, se recorre con correa por sus senderos.`,
+        pt: `O carvalhal de Ąžuolynas, a maior mancha de carvalhos maduros em meio urbano da Europa, oferece amplas alamedas sombreadas e relvados perfeitos para passear um cão. Espaço de respiração apreciado por corredores e caminhantes, percorre-se com trela pelos seus trilhos.`,
+      }},
+      { name: 'Pažaislio vienuolynas', emoji: '⛪', petFriendly: false, desc: {
+        fr: `Le monastère de Pažaislis, joyau baroque italien du XVIIe siècle au bord du lac de Kaunas, séduit par sa coupole et ses jardins. Les extérieurs et les allées boisées se découvrent en laisse, mais l'église et le cloître actif ne sont pas accessibles aux animaux.`,
+        en: `Pažaislis Monastery, a 17th-century Italian Baroque gem on the shore of Kaunas Reservoir, charms with its dome and gardens. The grounds and wooded paths can be seen on a leash, but the church and the active cloister are not open to animals.`,
+        es: `El monasterio de Pažaislis, joya barroca italiana del siglo XVII a orillas del embalse de Kaunas, seduce por su cúpula y sus jardines. Los exteriores y los paseos arbolados se descubren con correa, pero la iglesia y el claustro activo no admiten animales.`,
+        pt: `O mosteiro de Pažaislis, joia barroca italiana do século XVII à beira da albufeira de Kaunas, seduz pela sua cúpula e jardins. Os exteriores e os passeios arborizados descobrem-se com trela, mas a igreja e o claustro ativo não são acessíveis a animais.`,
+      }},
+      { name: 'Santakos parkas', emoji: '🏞️', petFriendly: true, desc: {
+        fr: `Le parc de Santaka marque le confluent même du Nemunas et de la Neris, vaste prairie riveraine où les deux fleuves se rejoignent en pointe. Ses larges pelouses et ses chemins plats en font un terrain de promenade idéal, à parcourir en laisse au bord de l'eau.`,
+        en: `Santaka Park marks the very confluence of the Nemunas and Neris, a broad riverside meadow where the two rivers meet at a point. Its wide lawns and flat paths make it ideal walking ground, best explored on a leash along the water.`,
+        es: `El parque de Santaka marca la confluencia misma del Nemunas y el Neris, amplia pradera ribereña donde ambos ríos se unen en punta. Sus extensas praderas y sus caminos llanos lo hacen un terreno de paseo ideal, para recorrer con correa junto al agua.`,
+        pt: `O parque de Santaka marca a própria confluência do Nemunas e do Neris, ampla pradaria ribeirinha onde os dois rios se juntam em ponta. Os seus vastos relvados e caminhos planos fazem dele um terreno de passeio ideal, para percorrer com trela junto à água.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Sel de déneigement en hiver : de décembre à mars, les trottoirs du centre sont abondamment salés, ce qui irrite les coussinets ; rincez les pattes au retour et envisagez des bottines ou un baume protecteur.`,
+        `Chiens dans les transports publics : les bus et trolleybus de Kaunas acceptent les chiens tenus en laisse (les grands avec muselière selon les cas), une façon pratique de rejoindre les parcs sans voiture.`,
+        `Laisse de rigueur en centre-ville : sur Laisvės alėja et la place de l'Hôtel de Ville, le chien doit rester en laisse ; réservez les courses libres à la chênaie Ąžuolynas ou aux berges du confluent.`,
+        `Étés baltes doux : les températures estivales dépassent rarement 25 °C, un climat confortable pour un chien, mais emportez tout de même de l'eau lors des longues balades le long des rivières.`,
+        `Tiques au printemps et à l'automne : les parcs boisés et les rives abritent des tiques d'avril à octobre, vérifiez le pelage après chaque sortie et tenez la protection antiparasitaire à jour.`,
+      ],
+      en: [
+        `Road salt in winter: from December to March the city-centre pavements are heavily salted, which irritates paw pads; rinse the paws on return and consider booties or a protective balm.`,
+        `Dogs on public transport: Kaunas buses and trolleybuses accept leashed dogs (larger ones muzzled in some cases), a handy way to reach the parks without a car.`,
+        `Leash required in the centre: on Laisvės alėja and Town Hall Square dogs must stay leashed; save off-leash runs for the Ąžuolynas oak grove or the riverbanks at the confluence.`,
+        `Mild Baltic summers: summer temperatures rarely exceed 25 °C, comfortable for a dog, but still carry water on long walks along the rivers.`,
+        `Ticks in spring and autumn: the wooded parks and riverbanks harbour ticks from April to October, so check the coat after every outing and keep parasite protection up to date.`,
+      ],
+      es: [
+        `Sal de deshielo en invierno: de diciembre a marzo las aceras del centro están muy saladas, lo que irrita las almohadillas; enjuague las patas al volver y considere botines o un bálsamo protector.`,
+        `Perros en el transporte público: los autobuses y trolebuses de Kaunas admiten perros con correa (los grandes con bozal en algunos casos), una forma práctica de llegar a los parques sin coche.`,
+        `Correa obligatoria en el centro: en Laisvės alėja y la plaza del Ayuntamiento el perro debe ir con correa; reserve las carreras sueltas para el robledal Ąžuolynas o las orillas de la confluencia.`,
+        `Veranos bálticos suaves: las temperaturas estivales rara vez superan los 25 °C, un clima cómodo para un perro, pero lleve igualmente agua en los paseos largos junto a los ríos.`,
+        `Garrapatas en primavera y otoño: los parques arbolados y las riberas albergan garrapatas de abril a octubre, revise el pelaje tras cada salida y mantenga al día la protección antiparasitaria.`,
+      ],
+      pt: [
+        `Sal de degelo no inverno: de dezembro a março os passeios do centro estão muito salgados, o que irrita as patas; lave as patas ao regressar e considere botinhas ou um bálsamo protetor.`,
+        `Cães nos transportes públicos: os autocarros e tróleis de Kaunas aceitam cães com trela (os grandes com açaimo em alguns casos), uma forma prática de chegar aos parques sem carro.`,
+        `Trela obrigatória no centro: na Laisvės alėja e na Praça da Câmara o cão deve ir com trela; reserve as corridas soltas para o carvalhal Ąžuolynas ou as margens da confluência.`,
+        `Verões bálticos amenos: as temperaturas de verão raramente ultrapassam os 25 °C, um clima confortável para um cão, mas leve mesmo assim água nos passeios longos junto aos rios.`,
+        `Carraças na primavera e no outono: os parques arborizados e as margens abrigam carraças de abril a outubro, verifique o pelo após cada saída e mantenha em dia a proteção antiparasitária.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Lituanie : 112 (secours, police, pompiers), avec des opérateurs parlant anglais ; l'anglais est largement compris par les jeunes et dans le centre.`,
+        `La Lituanie est dans l'UE : le passeport européen pour animal de compagnie, la puce électronique et la vaccination antirabique à jour suffisent pour entrer et circuler, sans formalité supplémentaire.`,
+        `Climat continental humide : étés doux (20-25 °C), hivers froids et neigeux (souvent sous zéro de décembre à février) ; la fin du printemps et le début de l'automne sont les plus agréables pour un chien.`,
+        `Accès : l'aéroport de Kaunas est à une quinzaine de kilomètres au nord-est, et Vilnius est à environ une heure de route ou de train, un trajet simple avec un chien.`,
+        `Ville très verte et compacte : la plupart des sites se rejoignent à pied, et le funiculaire d'Aleksotas comme les grands parcs offrent des respirations faciles pour un animal en laisse.`,
+      ],
+      en: [
+        `Single emergency number in Lithuania: 112 (rescue, police, fire), with English-speaking operators; English is widely understood by younger people and in the centre.`,
+        `Lithuania is in the EU: the European pet passport, a microchip and an up-to-date rabies vaccination are enough to enter and travel around, with no extra formalities.`,
+        `Humid continental climate: mild summers (20-25 °C) and cold, snowy winters (often below zero from December to February); late spring and early autumn are the pleasantest for a dog.`,
+        `Getting there: Kaunas airport lies about fifteen kilometres to the north-east, and Vilnius is roughly an hour away by road or train, an easy journey with a dog.`,
+        `A very green, compact city: most sights are within walking distance of each other, and the Aleksotas funicular and the large parks offer easy breathers for a leashed animal.`,
+      ],
+      es: [
+        `Número único de emergencias en Lituania: 112 (rescate, policía, bomberos), con operadores que hablan inglés; el inglés es muy comprendido entre los jóvenes y en el centro.`,
+        `Lituania está en la UE: el pasaporte europeo para animales de compañía, el microchip y la vacuna antirrábica al día bastan para entrar y circular, sin trámite adicional.`,
+        `Clima continental húmedo: veranos suaves (20-25 °C) e inviernos fríos y nevados (a menudo bajo cero de diciembre a febrero); el final de la primavera y el inicio del otoño son los más agradables para un perro.`,
+        `Cómo llegar: el aeropuerto de Kaunas está a unos quince kilómetros al noreste, y Vilna a cerca de una hora en coche o tren, un trayecto sencillo con un perro.`,
+        `Ciudad muy verde y compacta: la mayoría de los sitios se enlazan a pie, y el funicular de Aleksotas y los grandes parques ofrecen respiros fáciles para un animal con correa.`,
+      ],
+      pt: [
+        `Número único de emergência na Lituânia: 112 (socorro, polícia, bombeiros), com operadores que falam inglês; o inglês é muito compreendido entre os jovens e no centro.`,
+        `A Lituânia está na UE: o passaporte europeu para animais de companhia, o microchip e a vacina antirrábica em dia bastam para entrar e circular, sem formalidade adicional.`,
+        `Clima continental húmido: verões amenos (20-25 °C) e invernos frios e com neve (muitas vezes abaixo de zero de dezembro a fevereiro); o fim da primavera e o início do outono são os mais agradáveis para um cão.`,
+        `Como chegar: o aeroporto de Kaunas fica a cerca de quinze quilómetros a nordeste, e Vilnius a aproximadamente uma hora de carro ou comboio, um trajeto simples com um cão.`,
+        `Cidade muito verde e compacta: a maioria dos locais liga-se a pé, e o funicular de Aleksotas e os grandes parques oferecem respiros fáceis para um animal com trela.`,
+      ],
+    },
+  },
+
+  kazbegi: {
+    history: {
+      fr: `Blotti à 1 750 mètres d'altitude dans le Grand Caucase, à quelques kilomètres de la frontière russe, le bourg de Stepantsminda, chef-lieu de la région de Kazbegi, veille au pied du mont Kazbek, volcan endormi coiffé de glace culminant à plus de 5 000 mètres. Longtemps simple relais sur l'antique Route militaire géorgienne qui relie Tbilissi au Caucase du Nord, la localité vit aujourd'hui du trekking et de l'alpinisme. Son emblème est l'église de la Trinité de Guerguéti, silhouette solitaire du XIVe siècle perchée sur une colline face au sommet, l'une des images les plus célèbres de Géorgie. Tout autour s'ouvrent des vallées de haute montagne, gorges, cascades et alpages parcourus de bergers, un décor grandiose et sauvage. Base idéale pour la randonnée avec un chien tenu en laisse, la région exige prudence face à l'altitude, aux chiens de troupeau et à une météo changeante.`,
+      en: `Perched at 1,750 metres in the Greater Caucasus, a few kilometres from the Russian border, the town of Stepantsminda, capital of the Kazbegi region, keeps watch at the foot of Mount Kazbek, an ice-capped dormant volcano rising above 5,000 metres. Long a simple staging post on the ancient Georgian Military Highway linking Tbilisi to the North Caucasus, the town now lives off trekking and mountaineering. Its emblem is the Gergeti Trinity Church, a lone 14th-century silhouette perched on a hill facing the summit and one of the most famous images of Georgia. All around open high-mountain valleys, gorges, waterfalls and pastures roamed by shepherds, a grand and wild setting. An ideal base for hiking with a leashed dog, the region calls for care in the face of altitude, livestock-guarding dogs and fast-changing weather.`,
+      es: `Encaramado a 1.750 metros en el Gran Cáucaso, a pocos kilómetros de la frontera rusa, el pueblo de Stepantsminda, capital de la región de Kazbegi, vela al pie del monte Kazbek, un volcán dormido coronado de hielo que supera los 5.000 metros. Durante mucho tiempo simple posta en la antigua Carretera Militar Georgiana que une Tiflis con el Cáucaso Norte, la localidad vive hoy del trekking y el alpinismo. Su emblema es la iglesia de la Trinidad de Gergeti, silueta solitaria del siglo XIV encaramada en una colina frente a la cumbre, una de las imágenes más célebres de Georgia. Alrededor se abren valles de alta montaña, gargantas, cascadas y pastos recorridos por pastores, un decorado grandioso y salvaje. Base ideal para el senderismo con un perro con correa, la región exige prudencia ante la altitud, los perros de rebaño y un tiempo cambiante.`,
+      pt: `Empoleirada a 1.750 metros no Grande Cáucaso, a poucos quilómetros da fronteira russa, a vila de Stepantsminda, capital da região de Kazbegi, vela ao pé do monte Kazbek, um vulcão adormecido coroado de gelo que ultrapassa os 5.000 metros. Durante muito tempo simples posta na antiga Estrada Militar Georgiana que liga Tbilisi ao Cáucaso Norte, a localidade vive hoje do trekking e do alpinismo. O seu emblema é a igreja da Trindade de Gergeti, silhueta solitária do século XIV empoleirada numa colina em frente ao cume, uma das imagens mais célebres da Geórgia. Em redor abrem-se vales de alta montanha, gargantas, cascatas e pastagens percorridas por pastores, um cenário grandioso e selvagem. Base ideal para caminhadas com um cão com trela, a região exige prudência perante a altitude, os cães de rebanho e um tempo mutável.`,
+    },
+    sights: [
+      { name: 'Gergetis Sameba', emoji: '⛪', petFriendly: true, desc: {
+        fr: `L'église de la Trinité de Guerguéti (Tsminda Sameba), du XIVe siècle, se dresse seule sur une colline à 2 170 mètres face au mont Kazbek. Le sentier de montée se fait à pied avec un chien tenu en laisse ; l'intérieur de l'église reste interdit aux animaux et une tenue correcte est exigée.`,
+        en: `The Gergeti Trinity Church (Tsminda Sameba), from the 14th century, stands alone on a hill at 2,170 metres facing Mount Kazbek. The climb up is done on foot with a leashed dog; the church interior remains off limits to animals and modest dress is required.`,
+        es: `La iglesia de la Trinidad de Gergeti (Tsminda Sameba), del siglo XIV, se alza sola en una colina a 2.170 metros frente al monte Kazbek. La subida se hace a pie con un perro con correa; el interior de la iglesia sigue vedado a los animales y se exige vestimenta recatada.`,
+        pt: `A igreja da Trindade de Gergeti (Tsminda Sameba), do século XIV, ergue-se sozinha numa colina a 2.170 metros em frente ao monte Kazbek. A subida faz-se a pé com um cão com trela; o interior da igreja permanece vedado a animais e exige-se vestuário recatado.`,
+      }},
+      { name: 'Dariali Gorge', emoji: '🏔️', petFriendly: true, desc: {
+        fr: `La gorge de Dariali, défilé spectaculaire creusé par la Terek à la frontière russe, marque le débouché nord de la Route militaire géorgienne. On y flâne en laisse le long de la rivière et près du monastère moderne, dans un décor de parois vertigineuses.`,
+        en: `The Dariali Gorge, a dramatic defile carved by the Terek river at the Russian border, marks the northern end of the Georgian Military Highway. You can wander here on a leash along the river and near the modern monastery, amid soaring rock walls.`,
+        es: `El desfiladero de Dariali, garganta espectacular excavada por el río Terek en la frontera rusa, marca la salida norte de la Carretera Militar Georgiana. Se pasea con correa junto al río y cerca del monasterio moderno, en un decorado de paredes vertiginosas.`,
+        pt: `A garganta de Dariali, desfiladeiro espetacular escavado pelo rio Terek na fronteira russa, marca a saída norte da Estrada Militar Georgiana. Passeia-se com trela ao longo do rio e junto ao mosteiro moderno, num cenário de paredes vertiginosas.`,
+      }},
+      { name: 'Trusos veli (Truso Valley)', emoji: '🥾', petFriendly: true, desc: {
+        fr: `La vallée de Truso, longue randonnée le long de la haute Terek, mêle sources minérales colorées, dépôts de travertin et villages abandonnés au pied de tours médiévales. Le sentier plat et sauvage se prête bien à un chien en laisse, à condition d'emporter eau et de garder ses distances avec les troupeaux.`,
+        en: `The Truso Valley, a long hike along the upper Terek, blends coloured mineral springs, travertine deposits and abandoned villages beneath medieval towers. The flat, wild trail suits a leashed dog well, provided you carry water and keep your distance from the flocks.`,
+        es: `El valle de Truso, larga caminata a lo largo del alto Terek, combina fuentes minerales de colores, depósitos de travertino y aldeas abandonadas al pie de torres medievales. El sendero llano y salvaje se presta bien a un perro con correa, siempre que se lleve agua y se guarden distancias con los rebaños.`,
+        pt: `O vale de Truso, longa caminhada ao longo do alto Terek, combina nascentes minerais coloridas, depósitos de travertino e aldeias abandonadas ao pé de torres medievais. O trilho plano e selvagem presta-se bem a um cão com trela, desde que se leve água e se guardem distâncias dos rebanhos.`,
+      }},
+      { name: 'Gveleti Waterfalls', emoji: '💦', petFriendly: true, desc: {
+        fr: `Les cascades de Gveleti, accessibles par une courte marche depuis la gorge de Dariali, offrent une belle chute d'eau dans un vallon boisé. Le sentier facile convient à un chien en laisse et l'eau fraîche est bienvenue par temps chaud.`,
+        en: `The Gveleti waterfalls, reached by a short walk from the Dariali Gorge, offer a fine cascade in a wooded side valley. The easy trail suits a leashed dog and the cool water is welcome in warm weather.`,
+        es: `Las cascadas de Gveleti, accesibles por una corta marcha desde el desfiladero de Dariali, ofrecen un bonito salto de agua en un vallecito boscoso. El sendero fácil conviene a un perro con correa y el agua fresca se agradece con calor.`,
+        pt: `As cascatas de Gveleti, acessíveis por uma curta caminhada a partir da garganta de Dariali, oferecem uma bela queda de água num vale arborizado. O trilho fácil convém a um cão com trela e a água fresca é bem-vinda com calor.`,
+      }},
+      { name: 'Juta', emoji: '⛰️', petFriendly: true, desc: {
+        fr: `Le hameau de Juta, l'un des plus hauts villages habités de Géorgie, ouvre sur les aiguilles de Chaukhi et les randonnées vers le col vers Roshka. Les alpages se marchent en laisse, mais on y croise des chiens de berger : gardez le vôtre proche et laissez de l'espace aux troupeaux.`,
+        en: `The hamlet of Juta, one of the highest inhabited villages in Georgia, opens onto the Chaukhi peaks and hikes toward the pass to Roshka. The pastures are walked on a leash, but you will meet shepherd dogs here: keep yours close and give the flocks space.`,
+        es: `La aldea de Juta, uno de los pueblos habitados más altos de Georgia, se abre a las agujas de Chaukhi y a las rutas hacia el puerto de Roshka. Los pastos se recorren con correa, pero se cruzan perros pastores: mantenga al suyo cerca y deje espacio a los rebaños.`,
+        pt: `A aldeia de Juta, uma das povoações habitadas mais altas da Geórgia, abre-se para os picos de Chaukhi e as caminhadas em direção ao desfiladeiro para Roshka. As pastagens percorrem-se com trela, mas cruzam-se cães de pastor: mantenha o seu perto e dê espaço aos rebanhos.`,
+      }},
+      { name: 'Georgian Military Highway', emoji: '🛣️', petFriendly: true, desc: {
+        fr: `La Route militaire géorgienne, axe historique qui grimpe de Tbilissi jusqu'au col de la Croix à 2 379 mètres, offre des panoramas saisissants sur les vallées et le monument de l'Amitié. On s'y arrête aux belvédères pour dégourdir un chien en laisse, en surveillant la circulation et le vertige des à-pics.`,
+        en: `The Georgian Military Highway, the historic road climbing from Tbilisi to the Cross Pass at 2,379 metres, offers striking views over the valleys and the Friendship Monument. You stop at the viewpoints to stretch a leashed dog's legs, watching for traffic and the vertigo of the drop-offs.`,
+        es: `La Carretera Militar Georgiana, eje histórico que sube de Tiflis hasta el paso de la Cruz a 2.379 metros, ofrece panoramas sobrecogedores sobre los valles y el monumento de la Amistad. Se para en los miradores para estirar las patas de un perro con correa, vigilando el tráfico y el vértigo de los precipicios.`,
+        pt: `A Estrada Militar Georgiana, eixo histórico que sobe de Tbilisi até ao desfiladeiro da Cruz a 2.379 metros, oferece panoramas arrebatadores sobre os vales e o monumento da Amizade. Para-se nos miradouros para esticar as patas de um cão com trela, vigiando o trânsito e a vertigem dos precipícios.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Chiens de berger géorgiens : de grands chiens de protection des troupeaux (type berger du Caucase) gardent les alpages ; tenez impérativement le vôtre en laisse, contournez largement les troupeaux et ne le laissez pas courir en avant.`,
+        `Altitude et effort : à partir de 2 000 mètres l'air se raréfie, un chien peu habitué se fatigue vite ; montez progressivement, faites des pauses et renoncez si l'animal halète anormalement.`,
+        `Météo de montagne changeante : le beau temps peut virer en orage ou en chute des températures en quelques heures même l'été, emportez de quoi couvrir un chien à poil ras et prévoyez le demi-tour.`,
+        `Eau et fatigue en été : les sentiers exposés chauffent en journée et les points d'eau potable sont rares en altitude, portez une réserve d'eau et une gamelle pliable pour chaque randonnée.`,
+        `Chiens des rues : Stepantsminda compte des chiens errants généralement placides mais parfois territoriaux en meute ; gardez le vôtre en laisse en traversant le village et évitez les confrontations.`,
+      ],
+      en: [
+        `Georgian shepherd dogs: large livestock-guarding dogs (Caucasian shepherd type) watch over the pastures; always keep yours on a leash, give the flocks a wide berth and never let it run ahead.`,
+        `Altitude and effort: above 2,000 metres the air thins and an unaccustomed dog tires quickly; climb gradually, take breaks and turn back if the animal pants abnormally.`,
+        `Fast-changing mountain weather: fine spells can turn to storms or a temperature drop within hours even in summer, so carry something to cover a short-coated dog and be ready to turn back.`,
+        `Water and heat in summer: exposed trails warm up during the day and drinking-water points are scarce at altitude, so carry a water supply and a foldable bowl for every hike.`,
+        `Street dogs: Stepantsminda has stray dogs that are usually placid but can be territorial in a pack; keep yours leashed when crossing the village and avoid confrontations.`,
+      ],
+      es: [
+        `Perros pastores georgianos: grandes perros de protección de rebaños (tipo pastor del Cáucaso) vigilan los pastos; mantenga siempre al suyo con correa, rodee ampliamente los rebaños y no lo deje correr por delante.`,
+        `Altitud y esfuerzo: por encima de los 2.000 metros el aire enrarece y un perro poco habituado se cansa pronto; suba de forma gradual, haga pausas y renuncie si el animal jadea de forma anormal.`,
+        `Tiempo de montaña cambiante: el buen tiempo puede volverse tormenta o caída de temperaturas en pocas horas incluso en verano, lleve con qué cubrir a un perro de pelo corto y prevea la vuelta.`,
+        `Agua y calor en verano: los senderos expuestos se calientan durante el día y los puntos de agua potable escasean en altitud, lleve una reserva de agua y un bebedero plegable para cada ruta.`,
+        `Perros callejeros: Stepantsminda tiene perros errantes por lo general tranquilos pero a veces territoriales en manada; mantenga al suyo con correa al cruzar el pueblo y evite los enfrentamientos.`,
+      ],
+      pt: [
+        `Cães pastores georgianos: grandes cães de proteção de rebanhos (tipo pastor do Cáucaso) vigiam as pastagens; mantenha sempre o seu com trela, contorne largamente os rebanhos e não o deixe correr à frente.`,
+        `Altitude e esforço: acima dos 2.000 metros o ar rareia e um cão pouco habituado cansa-se depressa; suba de forma gradual, faça pausas e desista se o animal ofegar de forma anormal.`,
+        `Tempo de montanha mutável: o bom tempo pode virar tempestade ou queda de temperaturas em poucas horas mesmo no verão, leve com que cobrir um cão de pelo curto e preveja o regresso.`,
+        `Água e calor no verão: os trilhos expostos aquecem durante o dia e os pontos de água potável escasseiam em altitude, leve uma reserva de água e uma tigela dobrável para cada caminhada.`,
+        `Cães de rua: Stepantsminda tem cães errantes geralmente pacatos mas por vezes territoriais em matilha; mantenha o seu com trela ao atravessar a aldeia e evite os confrontos.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Géorgie : 112 (secours, police, pompiers), avec des opérateurs parlant anglais ; le russe est aussi largement compris dans la région.`,
+        `La Géorgie est hors UE : pour rentrer dans l'Union avec un chien, prévoyez puce, vaccination antirabique et, selon les cas, un titrage sérologique, à anticiper largement avant le départ.`,
+        `Climat de haute montagne : étés frais et agréables (souvent 15-22 °C le jour, nuits froides), hivers rudes et enneigés ; la route peut être fermée par la neige ou les avalanches de novembre à avril.`,
+        `Accès : Stepantsminda est à environ 3 heures de route au nord de Tbilissi par la Route militaire géorgienne, un trajet de montagne sinueux, prévoyez des pauses pour un chien sujet au mal des transports.`,
+        `Village de base pour le trek : les services vétérinaires sont très limités sur place, emportez une trousse de premiers soins pour l'animal et repérez à l'avance une clinique à Tbilissi en cas de besoin.`,
+      ],
+      en: [
+        `Single emergency number in Georgia: 112 (rescue, police, fire), with English-speaking operators; Russian is also widely understood in the region.`,
+        `Georgia is outside the EU: to return to the Union with a dog, arrange a microchip, rabies vaccination and, depending on the case, a blood titre test, well before departure.`,
+        `High-mountain climate: cool, pleasant summers (often 15-22 °C by day, cold nights) and harsh, snowy winters; the road can be closed by snow or avalanches from November to April.`,
+        `Getting there: Stepantsminda is about a 3-hour drive north of Tbilisi along the Georgian Military Highway, a winding mountain route, so plan breaks for a dog prone to travel sickness.`,
+        `A trekking base village: veterinary services on the spot are very limited, so carry a first-aid kit for the animal and identify a clinic in Tbilisi in advance in case of need.`,
+      ],
+      es: [
+        `Número único de emergencias en Georgia: 112 (rescate, policía, bomberos), con operadores que hablan inglés; el ruso también se comprende ampliamente en la región.`,
+        `Georgia está fuera de la UE: para regresar a la Unión con un perro, prevea microchip, vacuna antirrábica y, según el caso, una prueba serológica, con mucha antelación antes de la salida.`,
+        `Clima de alta montaña: veranos frescos y agradables (a menudo 15-22 °C de día, noches frías) e inviernos duros y nevados; la carretera puede cerrarse por nieve o aludes de noviembre a abril.`,
+        `Cómo llegar: Stepantsminda está a unas 3 horas en coche al norte de Tiflis por la Carretera Militar Georgiana, una ruta de montaña sinuosa, prevea paradas para un perro propenso al mareo.`,
+        `Pueblo base para el trekking: los servicios veterinarios in situ son muy limitados, lleve un botiquín para el animal y localice de antemano una clínica en Tiflis por si acaso.`,
+      ],
+      pt: [
+        `Número único de emergência na Geórgia: 112 (socorro, polícia, bombeiros), com operadores que falam inglês; o russo também é amplamente compreendido na região.`,
+        `A Geórgia está fora da UE: para regressar à União com um cão, providencie microchip, vacina antirrábica e, conforme o caso, um teste serológico, com muita antecedência antes da partida.`,
+        `Clima de alta montanha: verões frescos e agradáveis (muitas vezes 15-22 °C de dia, noites frias) e invernos rigorosos e com neve; a estrada pode ser fechada por neve ou avalanches de novembro a abril.`,
+        `Como chegar: Stepantsminda fica a cerca de 3 horas de carro a norte de Tbilisi pela Estrada Militar Georgiana, uma rota de montanha sinuosa, preveja paragens para um cão propenso a enjoo.`,
+        `Aldeia base para o trekking: os serviços veterinários no local são muito limitados, leve um estojo de primeiros socorros para o animal e identifique com antecedência uma clínica em Tbilisi em caso de necessidade.`,
+      ],
+    },
+  },
+
   kitzbuehel: {
     history: {
       fr: `Ville minière fortifiée dès 1271 par les ducs de Bavière, Kitzbühel s'est enrichie de l'argent et du cuivre avant de passer au Tyrol des Habsbourg en 1504. Ses maisons de marchands aux façades pastel, serrées entre la Vorderstadt et la Hinterstadt, datent de cet âge d'or. Le destin de la ville bascule en 1893, quand Franz Reisch chausse les premiers skis rapportés de Norvège et dévale le Kitzbüheler Horn : le ski alpin autrichien est né ici. Depuis 1931, la descente du Hahnenkamm sur la piste de la Streif, la plus redoutée du circuit, fait de ce bourg de 8 500 habitants la capitale mondiale du ski de janvier. Le reste de l'année, Kitzbühel redevient une petite ville tyrolienne étonnamment paisible, entourée de prairies, de lacs de tourbière et de sommets doux, un terrain de jeu idéal pour un chien, gondoles gratuites comprises.`,

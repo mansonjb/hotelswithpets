@@ -1176,6 +1176,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Kaiserburg castle gardens, the Wöhrder See dog beach, and the Sebalder Reichswald forest paths',
       area: 'the Altstadt around the Hauptmarkt and Kaiserburg, the Stadtpark north of centre, and the Wöhrder See east of the Altstadt',
     },
+    opatija: {
+      personality: `the grande dame of the Croatian Riviera, a Belle Epoque health resort where leashed dogs walk the 12 km Lungomare seafront, swim at two designated dog beaches, and hike the forested Ucka nature park behind the town`,
+      highlight: `the full-length Lungomare promenade, the Punta Kolova and Gornja Ika dog beaches, and the Ucka summit trails`,
+      area: `the historic town centre around Park Angiolina, the old fishing village of Volosko, and the seafront run out to Icici and Lovran`,
+    },
     oslo: {
       personality: 'a Scandinavian capital where the proximity of fjords, forests, and the vast Oslomarka trail network makes it one of the continent\'s best destinations for active dog owners',
       highlight: 'the Oslomarka forest, the Bygdøy peninsula, and the Akerselva river trail',
@@ -2984,6 +2989,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les jardins du château Kaiserburg, la plage canine du Wöhrder See, et les sentiers forestiers du Sebalder Reichswald',
       area: `l'Altstadt autour du Hauptmarkt et du Kaiserburg, le Stadtpark au nord du centre, et le Wöhrder See à l'est de l'Altstadt`,
     },
+    opatija: {
+      personality: `la grande dame de la Riviera croate, une station thermale Belle Époque où les chiens en laisse parcourent les 12 km du Lungomare en bord de mer, se baignent sur deux plages canines dédiées et gravissent le parc naturel boisé de l'Učka derrière la ville`,
+      highlight: `le Lungomare sur toute sa longueur, les plages canines de Punta Kolova et de Gornja Ika, et les sentiers du sommet de l'Učka`,
+      area: `le centre historique autour du Park Angiolina, le vieux village de pêcheurs de Volosko, et le front de mer jusqu'à Ičići et Lovran`,
+    },
     oslo: {
       personality: 'une capitale scandinave où la proximité des fjords, des forêts et du vaste réseau de sentiers de l\'Oslomarka en fait l\'une des meilleures destinations du continent pour les propriétaires de chiens actifs',
       highlight: 'la forêt de l\'Oslomarka, la péninsule de Bygdøy et le sentier de la rivière Akerselva',
@@ -4791,6 +4801,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'los jardines del castillo Kaiserburg, la playa canina del Wöhrder See y los senderos forestales del Sebalder Reichswald',
       area: 'la Altstadt en torno al Hauptmarkt y al Kaiserburg, el Stadtpark al norte del centro y el Wöhrder See al este de la Altstadt',
     },
+    opatija: {
+      personality: `la gran dama de la Riviera croata, un balneario Belle Époque donde los perros con correa recorren los 12 km del Lungomare junto al mar, se bañan en dos playas caninas designadas y suben al boscoso parque natural del Učka tras la ciudad`,
+      highlight: `el Lungomare en toda su longitud, las playas caninas de Punta Kolova y Gornja Ika, y los senderos de la cima del Učka`,
+      area: `el centro histórico en torno al Park Angiolina, el antiguo pueblo pesquero de Volosko, y el paseo marítimo hasta Ičići y Lovran`,
+    },
     oslo: {
       personality: 'una capital escandinava donde la proximidad de fiordos, bosques y la vasta red de senderos del Oslomarka la convierten en uno de los mejores destinos del continente para los dueños de perros activos',
       highlight: 'el bosque del Oslomarka, la península de Bygdøy y el sendero del río Akerselva',
@@ -6597,6 +6612,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade franconia medieval onde a cultura Wirtshaus admite cães dentro, dos veterinários de urgências 24h estão disponibles e o floresta do Reichswald (25.000 ha) ofrece espacio sem trela al borde da cidade',
       highlight: 'os jardins do castelo Kaiserburg, a praia canina do Wöhrder See e os trilhos forestales do Sebalder Reichswald',
       area: 'a Altstadt en torno al Hauptmarkt e al Kaiserburg, o Stadtpark al norte do centro e o Wöhrder See a leste da Altstadt',
+    },
+    opatija: {
+      personality: `a grande dama da Riviera croata, uma estância termal Belle Époque onde os cães com trela percorrem os 12 km do Lungomare junto ao mar, nadam em duas praias caninas designadas e sobem ao arborizado parque natural do Učka atrás da cidade`,
+      highlight: `o Lungomare em todo o seu comprimento, as praias caninas de Punta Kolova e Gornja Ika, e os trilhos do cume do Učka`,
+      area: `o centro histórico em torno do Park Angiolina, a antiga aldeia piscatória de Volosko, e a beira-mar até Ičići e Lovran`,
     },
     oslo: {
       personality: 'uma capital escandinava onde a proximidad de fiordos, florestas e a vasta red de trilhos do Oslomarka a convierten en uno dos melhores destinos do continente para os duenhos de cães activos',

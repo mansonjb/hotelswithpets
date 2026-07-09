@@ -22902,6 +22902,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  opatija: {
+    history: {
+      fr: `Opatija, sur la côte du Kvarner au nord de l'Adriatique croate, est née comme la grande station thermale de l'aristocratie austro-hongroise après la construction de la Villa Angiolina en 1844 et l'arrivée du chemin de fer. En quelques décennies, elle s'est couverte de grands hôtels Belle Époque, de villas et de parcs soignés, gagnant le surnom de "Nice de l'Adriatique". Son emblème reste la statue de la Jeune Fille à la Mouette, dressée sur un rocher au départ du Lungomare, la promenade côtière de 12 km qui relie le vieux village de pêcheurs de Volosko au centre-ville puis à Lovran. Pour les propriétaires de chiens, Opatija est l'une des villes les plus faciles de Croatie : le Lungomare se parcourt en laisse toute l'année, deux plages canines dédiées permettent la baignade, et le parc naturel de l'Učka offre de vrais sentiers de montagne à l'arrière. Les deux points à anticiper sont la chaleur estivale du Kvarner et la règle croate qui réserve la baignade des chiens aux seules plages désignées.`,
+      en: `Opatija, on the Kvarner coast of the northern Croatian Adriatic, grew up as the grand health resort of the Austro-Hungarian aristocracy after the Villa Angiolina was built in 1844 and the railway arrived. Within a few decades it filled with Belle Epoque grand hotels, villas and manicured parks, earning the nickname "the Nice of the Adriatic". Its emblem is still the Maiden with the Seagull statue, poised on a rock at the start of the Lungomare, the 12 km coastal promenade that links the old fishing village of Volosko through the town centre to Lovran. For dog owners Opatija is one of the easiest towns in Croatia: the Lungomare is walkable on a leash all year, two designated dog beaches allow swimming, and the Ucka nature park offers real mountain trails behind the town. The two things to plan around are the Kvarner summer heat and the Croatian rule that limits dog bathing to designated beaches only.`,
+      es: `Opatija, en la costa de Kvarner del norte del Adriático croata, surgió como el gran balneario de la aristocracia austrohúngara tras construirse la Villa Angiolina en 1844 y llegar el ferrocarril. En pocas décadas se llenó de grandes hoteles Belle Époque, villas y parques cuidados, ganándose el apodo de "la Niza del Adriático". Su emblema sigue siendo la estatua de la Doncella con la Gaviota, sobre una roca al inicio del Lungomare, el paseo costero de 12 km que une el antiguo pueblo pesquero de Volosko con el centro y luego con Lovran. Para los dueños de perros Opatija es una de las ciudades más fáciles de Croacia: el Lungomare se recorre con correa todo el año, dos playas caninas designadas permiten el baño, y el parque natural del Učka ofrece auténticos senderos de montaña tras la ciudad. Las dos cosas que conviene planificar son el calor estival del Kvarner y la norma croata que limita el baño de perros solo a las playas designadas.`,
+      pt: `Opatija, na costa de Kvarner do norte do Adriático croata, nasceu como a grande estância termal da aristocracia austro-húngara depois de a Villa Angiolina ser construída em 1844 e de chegar o caminho de ferro. Em poucas décadas encheu-se de grandes hotéis Belle Époque, villas e parques cuidados, ganhando a alcunha de "a Nice do Adriático". O seu emblema continua a ser a estátua da Donzela com a Gaivota, sobre uma rocha no início do Lungomare, o passeio costeiro de 12 km que liga a antiga aldeia piscatória de Volosko ao centro e depois a Lovran. Para os donos de cães Opatija é uma das cidades mais fáceis da Croácia: o Lungomare percorre-se com trela todo o ano, duas praias caninas designadas permitem o banho, e o parque natural do Učka oferece verdadeiros trilhos de montanha atrás da cidade. As duas coisas a planear são o calor estival do Kvarner e a regra croata que limita o banho de cães apenas às praias designadas.`,
+    },
+    sights: [
+      {
+        name: 'Lungomare',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade côtière emblématique d'Opatija, longue de 12 km, qui relie Volosko au centre-ville puis à Lovran au ras de la mer. Les chiens en laisse y sont les bienvenus toute l'année et c'est la meilleure façon d'explorer la Riviera à pied.`,
+          en: `Opatija's iconic 12 km seaside promenade linking Volosko through the town centre to Lovran, right at the water's edge. Leashed dogs are welcome all year and it is the best way to explore the Riviera on foot.`,
+          es: `El emblemático paseo costero de Opatija, de 12 km, que une Volosko con el centro y luego con Lovran, al filo del agua. Los perros con correa son bienvenidos todo el año y es la mejor forma de recorrer la Riviera a pie.`,
+          pt: `O emblemático passeio costeiro de Opatija, de 12 km, que liga Volosko ao centro e depois a Lovran, mesmo à beira da água. Os cães com trela são bem-vindos todo o ano e é a melhor forma de percorrer a Riviera a pé.`,
+        },
+      },
+      {
+        name: 'Park Angiolina',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc historique au cœur d'Opatija, aménagé dans les années 1880 autour de la Villa Angiolina, avec camélias, magnolias et arbres exotiques. Les allées de gravier ombragées font une promenade matinale fraîche, les chiens en laisse sont admis partout.`,
+          en: `The historic park at the heart of Opatija, laid out in the 1880s around the Villa Angiolina, with camellias, magnolias and exotic trees. The shaded gravel paths make a cool morning walk and leashed dogs are welcome throughout.`,
+          es: `El parque histórico en el corazón de Opatija, trazado en la década de 1880 alrededor de la Villa Angiolina, con camelias, magnolias y árboles exóticos. Los senderos de grava sombreados dan un paseo matutino fresco y los perros con correa son bienvenidos por todas partes.`,
+          pt: `O parque histórico no coração de Opatija, traçado na década de 1880 em redor da Villa Angiolina, com camélias, magnólias e árvores exóticas. Os caminhos de gravilha sombreados dão um passeio matinal fresco e os cães com trela são bem-vindos por todo o lado.`,
+        },
+      },
+      {
+        name: 'Djevojka s galebom',
+        emoji: '🗿',
+        petFriendly: true,
+        desc: {
+          fr: `La statue de la Jeune Fille à la Mouette, symbole d'Opatija, posée sur un rocher au-dessus de la mer au départ du Lungomare. Entièrement en plein air, c'est un arrêt photo classique au coucher du soleil, parfaitement accessible aux chiens tenus en laisse.`,
+          en: `The Maiden with the Seagull statue, the symbol of Opatija, set on a rock above the sea at the start of the Lungomare. Fully outdoors, it is a classic sunset photo stop and completely fine for leashed dogs.`,
+          es: `La estatua de la Doncella con la Gaviota, símbolo de Opatija, sobre una roca frente al mar al inicio del Lungomare. Totalmente al aire libre, es una parada fotográfica clásica al atardecer, perfectamente apta para perros con correa.`,
+          pt: `A estátua da Donzela com a Gaivota, símbolo de Opatija, sobre uma rocha frente ao mar no início do Lungomare. Totalmente ao ar livre, é uma paragem fotográfica clássica ao pôr do sol, perfeitamente adequada a cães com trela.`,
+        },
+      },
+      {
+        name: 'Volosko',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le vieux village de pêcheurs à l'extrémité nord du Lungomare, avec ses ruelles de pierre pentues dévalant vers un port encore actif et les meilleures konoba de la Riviera. Un cadre pittoresque pour une flânerie du soir avec son chien en laisse.`,
+          en: `The old fishing village at the northern end of the Lungomare, with steep stone lanes tumbling to a still-working harbour and the best konoba taverns on the Riviera. A picturesque setting for an evening wander with a leashed dog.`,
+          es: `El antiguo pueblo pesquero en el extremo norte del Lungomare, con empinadas callejuelas de piedra que caen hacia un puerto aún activo y las mejores konoba de la Riviera. Un entorno pintoresco para un paseo al anochecer con el perro con correa.`,
+          pt: `A antiga aldeia piscatória no extremo norte do Lungomare, com ruelas íngremes de pedra que descem até um porto ainda ativo e as melhores konoba da Riviera. Um cenário pitoresco para um passeio ao anoitecer com o cão com trela.`,
+        },
+      },
+      {
+        name: 'Park prirode Učka',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc naturel du massif de l'Učka, qui domine Opatija, sillonné de sentiers balisés à travers hêtres et châtaigniers jusqu'au sommet du Vojak (1 401 m). Plus frais et ombragé que la côte, les chiens y sont admis sur les sentiers, tenus en laisse.`,
+          en: `The nature park of the Ucka massif rising above Opatija, laced with marked trails through beech and chestnut woods up to the Vojak summit (1,401 m). Cooler and shaded than the coast, dogs are welcome on the trails on a leash.`,
+          es: `El parque natural del macizo del Učka que se alza sobre Opatija, surcado de senderos señalizados entre hayas y castaños hasta la cima del Vojak (1.401 m). Más fresco y sombreado que la costa, los perros son bienvenidos en los senderos, con correa.`,
+          pt: `O parque natural do maciço do Učka que se ergue sobre Opatija, entrecruzado por trilhos sinalizados entre faias e castanheiros até ao cume do Vojak (1.401 m). Mais fresco e sombreado que a costa, os cães são bem-vindos nos trilhos, com trela.`,
+        },
+      },
+      {
+        name: 'Slatina & town beaches',
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `Les plages centrales d'Opatija, comme Slatina, sont des plateformes de baignade en béton très fréquentées où les chiens ne sont pas admis en vertu de la réglementation croate. Rabattez-vous sur les plages canines dédiées de Punta Kolova ou de Gornja Ika pour la baignade.`,
+          en: `Opatija's central beaches, such as Slatina, are busy concrete bathing platforms where dogs are not allowed under Croatian rules. Use the designated dog beaches at Punta Kolova or Gornja Ika for swimming instead.`,
+          es: `Las playas centrales de Opatija, como Slatina, son concurridas plataformas de baño de hormigón donde no se admiten perros según la normativa croata. Usa en su lugar las playas caninas designadas de Punta Kolova o Gornja Ika para el baño.`,
+          pt: `As praias centrais de Opatija, como Slatina, são concorridas plataformas de banho de betão onde não se admitem cães segundo as regras croatas. Use antes as praias caninas designadas de Punta Kolova ou Gornja Ika para o banho.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les chiens ne sont admis que sur les deux plages canines dédiées (Opatija/Punta Kolova et Gornja Ika près de Lovran) ; les plages de baignade publiques comme Slatina interdisent les chiens.',
+        'Parcourez le Lungomare tôt le matin ou le soir en été : le dallage de pierre chauffe fort à midi et les étés du Kvarner dépassent souvent 30 °C.',
+        'Emportez une muselière souple et une laisse courte pour les bus Autotrolej : la muselière est attendue pour les grands chiens dans les transports publics croates.',
+        'Le parc naturel de l\'Učka est l\'échappée fraîche par temps chaud : sentiers ombragés en laisse, mais emportez de l\'eau car les fontaines y sont rares.',
+        'Vétérinaires : Veterinarska Ambulanta Opatija (Stubište Ivana Zavidića 3, +385 51 701 280, horaires alternés jours pairs/impairs) ; urgence 24h Veterinarska stanica Rijeka +385 91 214 9922.',
+      ],
+      en: [
+        'Dogs are only allowed on the two designated dog beaches (Opatija/Punta Kolova and Gornja Ika near Lovran); public swimming beaches like Slatina ban dogs.',
+        'Walk the Lungomare early morning or evening in summer: the stone paving gets very hot at midday and Kvarner summers regularly top 30 C.',
+        'Carry a soft muzzle and a short leash for the Autotrolej buses: a muzzle is expected for larger dogs on Croatian public transport.',
+        'The Ucka nature park is the cool escape on hot days: shaded trails on a leash, but bring water as fountains up there are scarce.',
+        'Vets: Veterinarska Ambulanta Opatija (Stubiste Ivana Zavidica 3, +385 51 701 280, alternating even/odd-date hours); 24h emergency Veterinarska stanica Rijeka +385 91 214 9922.',
+      ],
+      es: [
+        'Los perros solo pueden estar en las dos playas caninas designadas (Opatija/Punta Kolova y Gornja Ika cerca de Lovran); las playas públicas de baño como Slatina prohíben los perros.',
+        'Recorre el Lungomare temprano o al atardecer en verano: el pavimento de piedra se calienta mucho a mediodía y los veranos de Kvarner superan a menudo los 30 °C.',
+        'Lleva un bozal blando y una correa corta para los autobuses Autotrolej: se espera bozal para perros grandes en el transporte público croata.',
+        'El parque natural del Učka es la escapada fresca en días calurosos: senderos sombreados con correa, pero lleva agua porque las fuentes escasean allí arriba.',
+        'Veterinarios: Veterinarska Ambulanta Opatija (Stubište Ivana Zavidića 3, +385 51 701 280, horario alterno pares/impares); urgencia 24h Veterinarska stanica Rijeka +385 91 214 9922.',
+      ],
+      pt: [
+        'Os cães só são permitidos nas duas praias caninas designadas (Opatija/Punta Kolova e Gornja Ika perto de Lovran); as praias públicas de banho como Slatina proíbem cães.',
+        'Percorra o Lungomare de manhã cedo ou à noite no verão: o pavimento de pedra aquece muito ao meio-dia e os verões do Kvarner ultrapassam com frequência os 30 °C.',
+        'Leve um açaime macio e uma trela curta para os autocarros Autotrolej: espera-se açaime para cães grandes no transporte público croata.',
+        'O parque natural do Učka é a fuga fresca nos dias quentes: trilhos sombreados com trela, mas leve água porque as fontes lá em cima são escassas.',
+        'Veterinários: Veterinarska Ambulanta Opatija (Stubište Ivana Zavidića 3, +385 51 701 280, horário alternado pares/ímpares); urgência 24h Veterinarska stanica Rijeka +385 91 214 9922.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Croatie dans l\'UE : passeport européen pour animaux, puce et vaccination antirabique valide exigés à l\'enregistrement des hôtels pet-friendly.',
+        'Laisse obligatoire dans les espaces publics ; muselière attendue pour les grands chiens dans les bus Autotrolej.',
+        'Baignade des chiens réservée aux plages désignées (Punta Kolova, Gornja Ika) ; interdite sur les plages de baignade publiques.',
+        'Pas de gare ni de ferry local : accès par l\'aéroport de Rijeka (île de Krk, ~1 h) ou via Rijeka à 15 km ; se déplacer à pied sur le Lungomare ou en bus Autotrolej.',
+        'Urgences : numéro général 112 ; vétérinaire 24h Veterinarska stanica Rijeka +385 91 214 9922 (à ~15 km).',
+      ],
+      en: [
+        'Croatia is in the EU: EU pet passport, microchip and valid rabies vaccination required at pet-friendly hotel check-in.',
+        'Leash mandatory in public spaces; a muzzle is expected for larger dogs on the Autotrolej buses.',
+        'Dog swimming is limited to designated beaches (Punta Kolova, Gornja Ika); it is banned on public swimming beaches.',
+        'No train station or local ferry: arrive via Rijeka Airport (island of Krk, ~1h) or through Rijeka 15 km away; get around on foot along the Lungomare or by Autotrolej bus.',
+        'Emergencies: general number 112; 24h vet Veterinarska stanica Rijeka +385 91 214 9922 (about 15 km away).',
+      ],
+      es: [
+        'Croacia está en la UE: pasaporte europeo para mascotas, microchip y vacunación antirrábica vigente exigidos en el check-in de hoteles pet-friendly.',
+        'Correa obligatoria en los espacios públicos; se espera bozal para perros grandes en los autobuses Autotrolej.',
+        'El baño de perros se limita a las playas designadas (Punta Kolova, Gornja Ika); está prohibido en las playas públicas de baño.',
+        'Sin estación de tren ni ferry local: llega por el aeropuerto de Rijeka (isla de Krk, ~1 h) o a través de Rijeka a 15 km; muévete a pie por el Lungomare o en autobús Autotrolej.',
+        'Urgencias: número general 112; veterinario 24h Veterinarska stanica Rijeka +385 91 214 9922 (a unos 15 km).',
+      ],
+      pt: [
+        'A Croácia está na UE: passaporte europeu para animais, microchip e vacinação antirrábica válida exigidos no check-in de hotéis pet-friendly.',
+        'Trela obrigatória nos espaços públicos; espera-se açaime para cães grandes nos autocarros Autotrolej.',
+        'O banho de cães limita-se às praias designadas (Punta Kolova, Gornja Ika); é proibido nas praias públicas de banho.',
+        'Sem estação de comboio nem ferry local: chegue pelo aeroporto de Rijeka (ilha de Krk, ~1 h) ou através de Rijeka a 15 km; desloque-se a pé pelo Lungomare ou de autocarro Autotrolej.',
+        'Urgências: número geral 112; veterinário 24h Veterinarska stanica Rijeka +385 91 214 9922 (a cerca de 15 km).',
+      ],
+    },
+  },
+
   oslo: {
     history: {
       fr: `Fondée vers 1040 au fond de son fjord, Oslo fut reconstruite par Christian IV après l'incendie de 1624 sous le nom de Christiania, avant de reprendre son nom actuel en 1925. Peuplée d'environ 710 000 habitants, la capitale norvégienne est encerclée par la forêt de Marka et affiche l'un des taux de possession canine les plus élevés d'Europe, avec près de 75 000 chiens enregistrés. Les Norvégiens considèrent leurs chiens comme de la famille : la loi båndtvang impose la laisse du 1er avril au 20 août pour protéger faune et moutons, mais hors saison les sentiers de Nordmarka deviennent un paradis sans laisse. Oslo compte des dizaines de hundeparker clôturés, Torshovdalen, Sofienbergparken, St. Hanshaugen, et les chiens voyagent pour un tarif enfant dans tous les transports. Cafés, hôtels et certains musées les accueillent ; ramasser est obligatoire, sous peine d'une amende de 1 600 NOK.`,

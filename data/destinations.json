@@ -2112,6 +2112,80 @@
     "iata": "BIQ"
   },
   {
+    "slug": "bayreuth",
+    "name": "Bayreuth",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/bayreuth.jpg",
+    "intro": "Wagner's festival town is a green, walkable Franconian base for dog owners: margravial gardens where leashed dogs roam the Hofgarten and Eremitage follies, the Roter Main river park with official dog-waste stations, beer gardens that greet dogs with water bowls, and the Green Hill esplanade below the Festspielhaus. From 25 July the Wagner Festspiele fills the town, so book pet-friendly rooms months ahead.",
+    "lat": 49.9481,
+    "lng": 11.5783,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold & crisp",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Chilly, first sun",
+        "icon": "🌥️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Pleasant & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Warm & leafy",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm festival weather",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm & settled",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Cool & misty",
+        "icon": "🌥️"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Freezing & festive",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "begur",
     "name": "Begur",
     "country": "Spain",
@@ -2411,6 +2485,81 @@
       }
     },
     "iata": "MXP"
+  },
+  {
+    "slug": "berat",
+    "name": "Berat",
+    "country": "Albania",
+    "countryCode": "AL",
+    "flag": "🇦🇱",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/berat.jpg",
+    "intro": "Berat is Albania's UNESCO World Heritage city of a thousand windows, its Ottoman-era houses cascading down the hillsides above the Osum river. The inhabited medieval castle (Kalaja) welcomes dogs freely, and the river valley is a natural off-leash playground for any season outside the fierce July heat.",
+    "lat": 40.7058,
+    "lng": 19.9522,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Pleasant & sunny",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & green",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Very hot",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Peak heat",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & calm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cooler & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cold & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "TIA"
   },
   {
     "slug": "bergamo",
@@ -3091,6 +3240,81 @@
     "iata": "LJU"
   },
   {
+    "slug": "bodrum",
+    "name": "Bodrum",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "flag": "🇹🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/bodrum.jpg",
+    "intro": "Bodrum is Turkey's most European-influenced Aegean resort, a whitewashed harbour town on a peninsula with direct EU flights, a large expat community, and the most dog-tolerant beach scene on the Turkish coast.",
+    "lat": 37.0344,
+    "lng": 27.4305,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Cool & sometimes wet",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Hot & clear",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 33,
+        "desc": "Very hot & dry",
+        "icon": "🌡️"
+      },
+      "aug": {
+        "temp": 34,
+        "desc": "Very hot & dry",
+        "icon": "🌡️"
+      },
+      "sep": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 23,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild & sometimes wet",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "BJV"
+  },
+  {
     "slug": "bologna",
     "name": "Bologna",
     "country": "Italy",
@@ -3314,81 +3538,6 @@
     },
     "iata": "CGN",
     "countryCode": "DE"
-  },
-  {
-    "slug": "bodrum",
-    "name": "Bodrum",
-    "country": "Turkey",
-    "countryCode": "TR",
-    "flag": "🇹🇷",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/bodrum.jpg",
-    "intro": "Bodrum is Turkey's most European-influenced Aegean resort, a whitewashed harbour town on a peninsula with direct EU flights, a large expat community, and the most dog-tolerant beach scene on the Turkish coast.",
-    "lat": 37.0344,
-    "lng": 27.4305,
-    "weather": {
-      "jan": {
-        "temp": 11,
-        "desc": "Mild & rainy",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 12,
-        "desc": "Cool & sometimes wet",
-        "icon": "🌥️"
-      },
-      "mar": {
-        "temp": 14,
-        "desc": "Warm & breezy",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 18,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "may": {
-        "temp": 23,
-        "desc": "Hot & clear",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 28,
-        "desc": "Hot & dry",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 33,
-        "desc": "Very hot & dry",
-        "icon": "🌡️"
-      },
-      "aug": {
-        "temp": 34,
-        "desc": "Very hot & dry",
-        "icon": "🌡️"
-      },
-      "sep": {
-        "temp": 29,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "oct": {
-        "temp": 23,
-        "desc": "Warm & pleasant",
-        "icon": "🌤️"
-      },
-      "nov": {
-        "temp": 17,
-        "desc": "Mild & sometimes wet",
-        "icon": "🌥️"
-      },
-      "dec": {
-        "temp": 12,
-        "desc": "Cool & rainy",
-        "icon": "🌧️"
-      }
-    },
-    "iata": "BJV"
   },
   {
     "slug": "bordeaux",
@@ -3918,6 +4067,80 @@
       }
     },
     "iata": "BTS"
+  },
+  {
+    "slug": "bregenz",
+    "name": "Bregenz",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/bregenz.jpg",
+    "intro": "Squeezed between the Bodensee and the Pfänder, Austria's festival town on the lake is a compact dog paradise: a flat lakefront promenade with free waste-bag dispensers, a cable car that carries dogs up to a summit wildlife park, unofficial dog beaches along the Pipeline shore towards Lochau, and a 24-hour animal clinic. During the Bregenzer Festspiele from mid-July, plan quiet evening walks away from the floating stage crowds.",
+    "lat": 47.5031,
+    "lng": 9.7471,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & foggy",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold & brightening",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & fresh",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Pleasant & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm, lake season",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm festival weather",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & stormy evenings",
+        "icon": "⛈️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & clear",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool & misty",
+        "icon": "🌫️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold, festive lights",
+        "icon": "❄️"
+      }
+    }
   },
   {
     "slug": "bremen",
@@ -6180,6 +6403,80 @@
     },
     "iata": "PRG",
     "tiqetsId": "90598"
+  },
+  {
+    "slug": "chamonix",
+    "name": "Chamonix-Mont-Blanc",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/chamonix.jpg",
+    "intro": "The mountaineering capital of the Alps is a surprisingly easy trip with a dog: leashed dogs ride the valley buses, the Mont-Blanc Express and almost every lift including the Montenvers train to the Mer de Glace, terraces welcome them all over the pedestrian centre, and riverside trails start at the door. Just remember the one big rule: the Aiguilles Rouges reserve and its Lac Blanc are off-limits to dogs.",
+    "lat": 45.9237,
+    "lng": 6.8694,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Snowy ski season",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Late winter sun",
+        "icon": "🌨️"
+      },
+      "apr": {
+        "temp": 7,
+        "desc": "Thawing valley",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 11,
+        "desc": "Green & fresh",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Mild alpine summer",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Warm hiking days",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 16,
+        "desc": "Warm with storms",
+        "icon": "⛈️"
+      },
+      "sep": {
+        "temp": 12,
+        "desc": "Clear & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 2,
+        "desc": "Cold, first snow",
+        "icon": "🌨️"
+      },
+      "dec": {
+        "temp": -2,
+        "desc": "Snowy & festive",
+        "icon": "❄️"
+      }
+    }
   },
   {
     "slug": "chania",
@@ -9567,6 +9864,155 @@
     "iata": "OVD"
   },
   {
+    "slug": "girona",
+    "name": "Girona",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/girona.jpg",
+    "intro": "Girona, Catalonia's walkable medieval gem one hour from Barcelona, 103 000 residents, 7 km of official off-leash canine itineraries along the Ter and Onyar rivers, five fenced dog runs including two in the 40-hectare Devesa park, the full 2 km city-wall walk open to leashed dogs, a 24-hour veterinary hospital, and the Costa Brava dog beaches (La Rubina, Rec del Moli) under an hour away.",
+    "lat": 41.9794,
+    "lng": 2.8214,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cool and sunny",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool and bright",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild and fresh",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm and green",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot and dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot with storms",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm and pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool and crisp",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool and clear",
+        "icon": "⛅"
+      }
+    }
+  },
+  {
+    "slug": "gjirokastra",
+    "name": "Gjirokastër",
+    "country": "Albania",
+    "countryCode": "AL",
+    "flag": "🇦🇱",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/gjirokastra.jpg",
+    "intro": "Gjirokastër is Albania's UNESCO city of stone, its grey-slate rooftops stacked up a steep hillside above the Drino valley at 300 m altitude. Cooler than the coast by several degrees, with traffic-free Ottoman lanes and a castle that dogs can explore freely, it is one of the Balkans' most rewarding destinations for dog owners.",
+    "lat": 40.0758,
+    "lng": 20.1394,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & sometimes snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & wet",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Pleasant & sunny",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & green",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot days, cool evenings",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot but breezy",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Peak heat",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 10,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "TIA"
+  },
+  {
     "slug": "glasgow",
     "name": "Glasgow",
     "country": "United Kingdom",
@@ -9641,6 +10087,81 @@
     },
     "iata": "GLA",
     "tiqetsId": "5"
+  },
+  {
+    "slug": "goreme",
+    "name": "Göreme",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "flag": "🇹🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/goreme.jpg",
+    "intro": "Göreme is Cappadocia's fairy chimney capital at 1,000 m altitude: a UNESCO volcanic landscape of cave hotels, rock-cut valleys, and hot air balloons where dogs hike freely through extraordinary terrain and summer heat is far more bearable than the coast.",
+    "lat": 38.6431,
+    "lng": 34.829,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Cold & sometimes snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & crisp",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & clear",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Hot & dry",
+        "icon": "🌡️"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Hot & dry",
+        "icon": "🌡️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & sometimes wet",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "ASR"
   },
   {
     "slug": "gothenburg",
@@ -10169,81 +10690,6 @@
     },
     "iata": "GRQ",
     "tiqetsId": "60303"
-  },
-  {
-    "slug": "goreme",
-    "name": "Göreme",
-    "country": "Turkey",
-    "countryCode": "TR",
-    "flag": "🇹🇷",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/goreme.jpg",
-    "intro": "Göreme is Cappadocia's fairy chimney capital at 1,000 m altitude: a UNESCO volcanic landscape of cave hotels, rock-cut valleys, and hot air balloons where dogs hike freely through extraordinary terrain and summer heat is far more bearable than the coast.",
-    "lat": 38.6431,
-    "lng": 34.829,
-    "weather": {
-      "jan": {
-        "temp": -1,
-        "desc": "Cold & sometimes snowy",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 1,
-        "desc": "Cold & crisp",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 6,
-        "desc": "Cool & breezy",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 13,
-        "desc": "Mild & pleasant",
-        "icon": "🌤️"
-      },
-      "may": {
-        "temp": 18,
-        "desc": "Warm & clear",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 24,
-        "desc": "Hot & dry",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 30,
-        "desc": "Hot & dry",
-        "icon": "🌡️"
-      },
-      "aug": {
-        "temp": 30,
-        "desc": "Hot & dry",
-        "icon": "🌡️"
-      },
-      "sep": {
-        "temp": 24,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "oct": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "🌤️"
-      },
-      "nov": {
-        "temp": 9,
-        "desc": "Cool & sometimes wet",
-        "icon": "🌥️"
-      },
-      "dec": {
-        "temp": 2,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      }
-    },
-    "iata": "ASR"
   },
   {
     "slug": "guimaraes",
@@ -11448,79 +11894,78 @@
     "iata": "RIX"
   },
   {
-    "slug": "kaunas",
-    "name": "Kaunas",
-    "country": "Lithuania",
-    "countryCode": "LT",
-    "flag": "🇱🇹",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/kaunas.jpg",
-    "intro": "Kaunas, Lithuania's interwar capital from 1919 to 1939, is built around the 1.6 km Laisvės alėja pedestrian boulevard and 1,500 UNESCO-inscribed Modernist buildings (2023 World Heritage listing), with the Baroque Pažaislis Monastery on the Kaunas Lagoon, 63 hectares of mature oak grove at Ąžuolynas, dog-friendly buses and trolleybuses, and two 24/7 emergency vets.",
-    "lat": 54.8985,
-    "lng": 23.9036,
+    "slug": "karlovy-vary",
+    "name": "Karlovy Vary",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "flag": "🇨🇿",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/karlovy-vary.jpg",
+    "intro": "The world's most famous spa town treats dogs better than its reputation suggests: pastel colonnade promenades along the Tepla river, 130 km of marked forest trails in the Slavkov Forest starting right behind the hotels, a dog-friendly funicular to the Diana lookout, and cafe terraces from Café Elefant to the Grandhotel Pupp that expect four-legged guests. Only the spring colonnades themselves are off limits.",
+    "lat": 50.2306,
+    "lng": 12.8702,
     "weather": {
       "jan": {
-        "temp": -3,
+        "temp": -2,
         "desc": "Cold & snowy",
         "icon": "❄️"
       },
       "feb": {
-        "temp": -3,
-        "desc": "Cold & snowy",
+        "temp": -1,
+        "desc": "Cold & crisp",
         "icon": "❄️"
       },
       "mar": {
-        "temp": 2,
-        "desc": "Cool & overcast",
-        "icon": "🌨️"
+        "temp": 3,
+        "desc": "Chilly, first sun",
+        "icon": "🌥️"
       },
       "apr": {
-        "temp": 9,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
+        "temp": 8,
+        "desc": "Mild & fresh",
+        "icon": "🌤️"
       },
       "may": {
-        "temp": 14,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
+        "temp": 13,
+        "desc": "Pleasant & green",
+        "icon": "🌤️"
       },
       "jun": {
-        "temp": 18,
-        "desc": "Warm & pleasant",
+        "temp": 16,
+        "desc": "Warm & leafy",
         "icon": "☀️"
       },
       "jul": {
-        "temp": 20,
-        "desc": "Warm & sunny",
+        "temp": 18,
+        "desc": "Warm summer",
         "icon": "☀️"
       },
       "aug": {
-        "temp": 19,
-        "desc": "Warm & sunny",
+        "temp": 18,
+        "desc": "Warm & settled",
         "icon": "☀️"
       },
       "sep": {
-        "temp": 14,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
+        "temp": 13,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
       },
       "oct": {
         "temp": 8,
-        "desc": "Cool with rain",
-        "icon": "🌦️"
+        "desc": "Cool & misty",
+        "icon": "🌥️"
       },
       "nov": {
         "temp": 3,
-        "desc": "Cold & overcast",
+        "desc": "Cold & grey",
         "icon": "🌧️"
       },
       "dec": {
-        "temp": -1,
-        "desc": "Cold & snowy",
+        "temp": 0,
+        "desc": "Freezing & festive",
         "icon": "❄️"
       }
-    },
-    "iata": "KUN"
+    }
   },
   {
     "slug": "kas",
@@ -11596,6 +12041,81 @@
       }
     },
     "iata": "AYT"
+  },
+  {
+    "slug": "kaunas",
+    "name": "Kaunas",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "flag": "🇱🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/kaunas.jpg",
+    "intro": "Kaunas, Lithuania's interwar capital from 1919 to 1939, is built around the 1.6 km Laisvės alėja pedestrian boulevard and 1,500 UNESCO-inscribed Modernist buildings (2023 World Heritage listing), with the Baroque Pažaislis Monastery on the Kaunas Lagoon, 63 hectares of mature oak grove at Ąžuolynas, dog-friendly buses and trolleybuses, and two 24/7 emergency vets.",
+    "lat": 54.8985,
+    "lng": 23.9036,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 2,
+        "desc": "Cool & overcast",
+        "icon": "🌨️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    },
+    "iata": "KUN"
   },
   {
     "slug": "kazbegi",
@@ -11746,6 +12266,80 @@
       }
     },
     "iata": "EFL"
+  },
+  {
+    "slug": "kitzbuehel",
+    "name": "Kitzbühel",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/kitzbuehel.jpg",
+    "intro": "The most famous ski town in the Alps is quietly one of Austria's easiest resorts to visit with a dog: the Hahnenkamm and Horn gondolas carry dogs for free, buses and regional trains across Tyrol cost your dog nothing, the medieval centre is walked in pastel-painted lanes, and the Schwarzsee moor lake and Gieringer Weiher are a morning stroll away. In summer you can even walk the legendary Streif race course together.",
+    "lat": 47.4467,
+    "lng": 12.3925,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Snowy race season",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Late ski spring",
+        "icon": "🌨️"
+      },
+      "apr": {
+        "temp": 7,
+        "desc": "Thawing meadows",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Green & fresh",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Mild alpine summer",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Warm hiking days",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 16,
+        "desc": "Warm with storms",
+        "icon": "⛈️"
+      },
+      "sep": {
+        "temp": 13,
+        "desc": "Clear & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 2,
+        "desc": "Cold, first snow",
+        "icon": "🌨️"
+      },
+      "dec": {
+        "temp": -2,
+        "desc": "Snowy & festive",
+        "icon": "❄️"
+      }
+    }
   },
   {
     "slug": "klagenfurt",
@@ -16499,6 +17093,155 @@
     "iata": "OLB"
   },
   {
+    "slug": "olomouc",
+    "name": "Olomouc",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "flag": "🇨🇿",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/olomouc.jpg",
+    "intro": "Moravia's baroque secret is everything over-touristed Europe is not: UNESCO monuments without queues, a green belt of rampart parks around the old town, forest trails up the Svatý Kopeček pilgrimage hill, two vet clinics with round-the-clock emergency cover, and a genuine rarity, a zoo that admits leashed, muzzled dogs for a 100 CZK ticket.",
+    "lat": 49.5938,
+    "lng": 17.2509,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold & crisp",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 5,
+        "desc": "Chilly, first sun",
+        "icon": "🌥️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild & fresh",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Pleasant & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & settled",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool & misty",
+        "icon": "🌥️"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cold & foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Freezing & festive",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
+    "slug": "opatija",
+    "name": "Opatija",
+    "country": "Croatia",
+    "flag": "🇭🇷",
+    "countryCode": "HR",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/opatija.jpg",
+    "intro": "Opatija is the grande dame of the Croatian Riviera, where leashed dogs walk the 12 km Lungomare seafront, cool off at two designated dog beaches, and hike the Ucka nature park above the Belle Epoque villas.",
+    "lat": 45.3378,
+    "lng": 14.3053,
+    "iata": "RJK",
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool & bright",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cool & bright",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
     "slug": "oropesa-del-mar",
     "name": "Oropesa del Mar",
     "country": "Spain",
@@ -17403,6 +18146,80 @@
     "countryCode": "FR"
   },
   {
+    "slug": "parnu",
+    "name": "Pärnu",
+    "country": "Estonia",
+    "countryCode": "EE",
+    "flag": "🇪🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/parnu.jpg",
+    "intro": "Estonia's summer capital pairs a pastel wooden old town with a huge sandy bay, and treats dogs remarkably well: four official dog swimming spots (river mole, Mai, Vana-Pärnu and Raeküla), a fenced double dog park with agility gear near Mai beach, a boardwalk through the Rannaniit coastal meadow reserve, and a tourist board that publishes its own list of dog-friendly cafes and spa hotels.",
+    "lat": 58.3859,
+    "lng": 24.4971,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Frozen & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -2,
+        "desc": "Cold, sea ice lingers",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 2,
+        "desc": "Thawing & bright",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Cool spring",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & fresh",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Long bright days",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warm beach season",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm, sea at its best",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & quieter",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool & crisp",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Grey & damp",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Dark & wintry",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "paros",
     "name": "Paros",
     "country": "Greece",
@@ -17626,6 +18443,80 @@
       }
     },
     "iata": "PGF"
+  },
+  {
+    "slug": "perugia",
+    "name": "Perugia",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/perugia.jpg",
+    "intro": "Umbria's hilltop capital pairs Etruscan gates and medieval lanes with a surprisingly practical dog setup: a 24/7 university veterinary hospital, fenced dog runs at Pian di Massiano, a monorail that carries small dogs free, panoramic gardens for sunset walks, and Lake Trasimeno's dog beaches 30 minutes away. In July, Umbria Jazz turns the whole acropolis into an open-air stage.",
+    "lat": 43.1107,
+    "lng": 12.3908,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cool & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & brightening",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Mild & fresh",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild & green",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Warm & floral",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Hot & festival-busy",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Warm & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Mild & misty",
+        "icon": "🌥️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold & quiet",
+        "icon": "🌧️"
+      }
+    }
   },
   {
     "slug": "piran",
@@ -19584,6 +20475,80 @@
     "iata": "PUY"
   },
   {
+    "slug": "rugen",
+    "name": "Rügen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/rugen.jpg",
+    "intro": "Germany's largest island is a Baltic paradise for dogs: official Hundestrand sections in Binz, Sellin and Baabe, the chalk cliffs of Jasmund National Park with leash-friendly beech-forest trails, the Hochuferweg clifftop path to the Granitz hunting lodge, and a steam railway that welcomes four-legged passengers, with nearly the entire coastline opening to dogs from October to April.",
+    "lat": 54.4004,
+    "lng": 13.6098,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Chilly & brightening",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Cool & dry",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Pleasant & bright",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm, sea at its best",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & golden",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool, beaches open to dogs",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Grey & blustery",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & dark",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "saint-jean-de-luz",
     "name": "Saint-Jean-de-Luz",
     "country": "France",
@@ -20636,231 +21601,6 @@
     "iata": "JTR"
   },
   {
-    "slug": "berat",
-    "name": "Berat",
-    "country": "Albania",
-    "countryCode": "AL",
-    "flag": "🇦🇱",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/berat.jpg",
-    "intro": "Berat is Albania's UNESCO World Heritage city of a thousand windows, its Ottoman-era houses cascading down the hillsides above the Osum river. The inhabited medieval castle (Kalaja) welcomes dogs freely, and the river valley is a natural off-leash playground for any season outside the fierce July heat.",
-    "lat": 40.7058,
-    "lng": 19.9522,
-    "weather": {
-      "jan": {
-        "temp": 6,
-        "desc": "Cold & wet",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 8,
-        "desc": "Cool & rainy",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 11,
-        "desc": "Mild spring",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 15,
-        "desc": "Pleasant & sunny",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 20,
-        "desc": "Warm & green",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 25,
-        "desc": "Hot & dry",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 30,
-        "desc": "Very hot",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 30,
-        "desc": "Peak heat",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 24,
-        "desc": "Warm & calm",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 18,
-        "desc": "Mild & sunny",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 12,
-        "desc": "Cooler & wet",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 7,
-        "desc": "Cold & rainy",
-        "icon": "🌧️"
-      }
-    },
-    "iata": "TIA"
-  },
-  {
-    "slug": "gjirokastra",
-    "name": "Gjirokastër",
-    "country": "Albania",
-    "countryCode": "AL",
-    "flag": "🇦🇱",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/gjirokastra.jpg",
-    "intro": "Gjirokastër is Albania's UNESCO city of stone, its grey-slate rooftops stacked up a steep hillside above the Drino valley at 300 m altitude. Cooler than the coast by several degrees, with traffic-free Ottoman lanes and a castle that dogs can explore freely, it is one of the Balkans' most rewarding destinations for dog owners.",
-    "lat": 40.0758,
-    "lng": 20.1394,
-    "weather": {
-      "jan": {
-        "temp": 4,
-        "desc": "Cold & sometimes snowy",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 5,
-        "desc": "Cool & wet",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 9,
-        "desc": "Mild spring",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 14,
-        "desc": "Pleasant & sunny",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 19,
-        "desc": "Warm & green",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 24,
-        "desc": "Hot days, cool evenings",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 29,
-        "desc": "Hot but breezy",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 29,
-        "desc": "Peak heat",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 23,
-        "desc": "Warm & pleasant",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 17,
-        "desc": "Mild & sunny",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 10,
-        "desc": "Cool & wet",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 5,
-        "desc": "Cold & rainy",
-        "icon": "🌧️"
-      }
-    },
-    "iata": "TIA"
-  },
-  {
-    "slug": "valbona",
-    "name": "Valbona",
-    "country": "Albania",
-    "countryCode": "AL",
-    "flag": "🇦🇱",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/valbona.jpg",
-    "intro": "Valbona is a glacial valley in the Albanian Alps at 800–1,200 m altitude, surrounded by peaks exceeding 2,500 m. One of the most remote accessible valleys in the Balkans, it offers pristine river swimming, leash-free hiking through Valbona Valley National Park, and the iconic crossing to Theth, all with dogs unconditionally welcome.",
-    "lat": 42.4519,
-    "lng": 19.8678,
-    "weather": {
-      "jan": {
-        "temp": -2,
-        "desc": "Snow & cold",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 0,
-        "desc": "Cold & snowy",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 5,
-        "desc": "Cold spring",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 10,
-        "desc": "Cool & fresh",
-        "icon": "🌤️"
-      },
-      "may": {
-        "temp": 15,
-        "desc": "Pleasant & green",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 20,
-        "desc": "Warm & clear",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 25,
-        "desc": "Sunny & warm",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 25,
-        "desc": "Peak summer",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 19,
-        "desc": "Cool & vivid",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 12,
-        "desc": "Autumn colours",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 4,
-        "desc": "Cold & wet",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": -1,
-        "desc": "Cold & snowy",
-        "icon": "❄️"
-      }
-    },
-    "iata": "TIA"
-  },
-  {
     "slug": "saranda",
     "name": "Saranda",
     "country": "Albania",
@@ -21761,6 +22501,80 @@
       }
     },
     "iata": "PMI"
+  },
+  {
+    "slug": "sopot",
+    "name": "Sopot",
+    "country": "Poland",
+    "countryCode": "PL",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/sopot.jpg",
+    "intro": "Sopot, the spa-resort heart of Poland's Tricity (between Gdansk and Gdynia), 35 000 residents, Europe's longest wooden pier (512 m) open to leashed dogs, year-round beach access for dogs since the 2025 rule change with a signposted dog stretch at entrances 43-45, twelve free off-leash runs including the agility-equipped Blonia Sopockie, and the Lesna Opera forest trails starting 15 minutes from the pier.",
+    "lat": 54.4416,
+    "lng": 18.5601,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold and snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold and snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Cool and grey",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Cool and breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild and breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild and sunny",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm and sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild and clear",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool and windy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold and grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold and dark",
+        "icon": "❄️"
+      }
+    }
   },
   {
     "slug": "sorrento",
@@ -23866,6 +24680,80 @@
     "iata": "TPS"
   },
   {
+    "slug": "trento",
+    "name": "Trento",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/trento.jpg",
+    "intro": "The capital of Trentino is an Alpine-Italian crossroads that treats dogs as part of city life: fenced dog areas with fountains in every big park since 1997, a cable car to Sardagna that welcomes dogs for 1.20 euros, frescoed Renaissance squares to stroll on leash, dog beaches on Lake Caldonazzo 25 minutes away and the cool trails of Monte Bondone at 1,500-2,100 m when the valley heats up.",
+    "lat": 46.0748,
+    "lng": 11.1217,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold & dry",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold, brightening",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool spring air",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm, first heat",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Hot valley days",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Hot with storms",
+        "icon": "⛈️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & clear",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold, festive",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "treviso",
     "name": "Treviso",
     "country": "Italy",
@@ -24465,6 +25353,81 @@
     "iata": "AMS",
     "tiqetsId": "74866",
     "countryCode": "NL"
+  },
+  {
+    "slug": "valbona",
+    "name": "Valbona",
+    "country": "Albania",
+    "countryCode": "AL",
+    "flag": "🇦🇱",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/valbona.jpg",
+    "intro": "Valbona is a glacial valley in the Albanian Alps at 800–1,200 m altitude, surrounded by peaks exceeding 2,500 m. One of the most remote accessible valleys in the Balkans, it offers pristine river swimming, leash-free hiking through Valbona Valley National Park, and the iconic crossing to Theth, all with dogs unconditionally welcome.",
+    "lat": 42.4519,
+    "lng": 19.8678,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Snow & cold",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 5,
+        "desc": "Cold spring",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Cool & fresh",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Pleasant & green",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Warm & clear",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Sunny & warm",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Peak summer",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Cool & vivid",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Autumn colours",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    },
+    "iata": "TIA"
   },
   {
     "slug": "valencia",
@@ -26049,6 +27012,80 @@
     "countryCode": "ES"
   },
   {
+    "slug": "zell-am-see",
+    "name": "Zell am See",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/zell-am-see.jpg",
+    "intro": "Lake, glacier and summit with the dog in tow: Zell am See lets muzzled, leashed dogs ride the Schmittenhohe cable cars, the Kitzsteinhorn glacier lifts and even the Lake Zell boats, while the Erlberg dog zone and the Klammsee give them room to run and swim. Just pack the muzzle, it is the key that opens the whole region.",
+    "lat": 47.3229,
+    "lng": 12.7981,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Snowy ski season",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Late winter sun",
+        "icon": "🌨️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Thawing meadows",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Green & fresh",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Mild lake summer",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Warm swimming days",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Warm with storms",
+        "icon": "⛈️"
+      },
+      "sep": {
+        "temp": 13,
+        "desc": "Clear & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 2,
+        "desc": "Cold, first snow",
+        "icon": "🌨️"
+      },
+      "dec": {
+        "temp": -2,
+        "desc": "Snowy & festive",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "zermatt",
     "name": "Zermatt",
     "country": "Switzerland",
@@ -26196,967 +27233,5 @@
     },
     "iata": "ZRH",
     "countryCode": "CH"
-  },
-  {
-    "slug": "sopot",
-    "name": "Sopot",
-    "country": "Poland",
-    "countryCode": "PL",
-    "flag": "🇵🇱",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/sopot.jpg",
-    "intro": "Sopot, the spa-resort heart of Poland's Tricity (between Gdansk and Gdynia), 35 000 residents, Europe's longest wooden pier (512 m) open to leashed dogs, year-round beach access for dogs since the 2025 rule change with a signposted dog stretch at entrances 43-45, twelve free off-leash runs including the agility-equipped Blonia Sopockie, and the Lesna Opera forest trails starting 15 minutes from the pier.",
-    "lat": 54.4416,
-    "lng": 18.5601,
-    "weather": {
-      "jan": {
-        "temp": 0,
-        "desc": "Cold and snowy",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 0,
-        "desc": "Cold and snowy",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 3,
-        "desc": "Cool and grey",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 8,
-        "desc": "Cool and breezy",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 13,
-        "desc": "Mild and breezy",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 17,
-        "desc": "Mild and sunny",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 20,
-        "desc": "Warm and sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 20,
-        "desc": "Warm and sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 15,
-        "desc": "Mild and clear",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 10,
-        "desc": "Cool and windy",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 5,
-        "desc": "Cold and grey",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 1,
-        "desc": "Cold and dark",
-        "icon": "❄️"
-      }
-    }
-  },
-  {
-    "slug": "girona",
-    "name": "Girona",
-    "country": "Spain",
-    "countryCode": "ES",
-    "flag": "🇪🇸",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/girona.jpg",
-    "intro": "Girona, Catalonia's walkable medieval gem one hour from Barcelona, 103 000 residents, 7 km of official off-leash canine itineraries along the Ter and Onyar rivers, five fenced dog runs including two in the 40-hectare Devesa park, the full 2 km city-wall walk open to leashed dogs, a 24-hour veterinary hospital, and the Costa Brava dog beaches (La Rubina, Rec del Moli) under an hour away.",
-    "lat": 41.9794,
-    "lng": 2.8214,
-    "weather": {
-      "jan": {
-        "temp": 8,
-        "desc": "Cool and sunny",
-        "icon": "⛅"
-      },
-      "feb": {
-        "temp": 9,
-        "desc": "Cool and bright",
-        "icon": "⛅"
-      },
-      "mar": {
-        "temp": 12,
-        "desc": "Mild and fresh",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 14,
-        "desc": "Mild with showers",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 18,
-        "desc": "Warm and green",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 22,
-        "desc": "Warm and sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 25,
-        "desc": "Hot and dry",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 25,
-        "desc": "Hot with storms",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 21,
-        "desc": "Warm and pleasant",
-        "icon": "☀️"
-      },
-      "oct": {
-        "temp": 17,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 11,
-        "desc": "Cool and crisp",
-        "icon": "⛅"
-      },
-      "dec": {
-        "temp": 8,
-        "desc": "Cool and clear",
-        "icon": "⛅"
-      }
-    }
-  },
-  {
-    "slug": "rugen",
-    "name": "Rügen",
-    "country": "Germany",
-    "countryCode": "DE",
-    "flag": "🇩🇪",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/rugen.jpg",
-    "intro": "Germany's largest island is a Baltic paradise for dogs: official Hundestrand sections in Binz, Sellin and Baabe, the chalk cliffs of Jasmund National Park with leash-friendly beech-forest trails, the Hochuferweg clifftop path to the Granitz hunting lodge, and a steam railway that welcomes four-legged passengers, with nearly the entire coastline opening to dogs from October to April.",
-    "lat": 54.4004,
-    "lng": 13.6098,
-    "weather": {
-      "jan": {
-        "temp": 3,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 3,
-        "desc": "Cold & windy",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 6,
-        "desc": "Chilly & brightening",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 10,
-        "desc": "Cool & dry",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 15,
-        "desc": "Mild & sunny",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 18,
-        "desc": "Pleasant & bright",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 21,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 21,
-        "desc": "Warm, sea at its best",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 17,
-        "desc": "Mild & golden",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 12,
-        "desc": "Cool, beaches open to dogs",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 7,
-        "desc": "Grey & blustery",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 4,
-        "desc": "Cold & dark",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "parnu",
-    "name": "Pärnu",
-    "country": "Estonia",
-    "countryCode": "EE",
-    "flag": "🇪🇪",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/parnu.jpg",
-    "intro": "Estonia's summer capital pairs a pastel wooden old town with a huge sandy bay, and treats dogs remarkably well: four official dog swimming spots (river mole, Mai, Vana-Pärnu and Raeküla), a fenced double dog park with agility gear near Mai beach, a boardwalk through the Rannaniit coastal meadow reserve, and a tourist board that publishes its own list of dog-friendly cafes and spa hotels.",
-    "lat": 58.3859,
-    "lng": 24.4971,
-    "weather": {
-      "jan": {
-        "temp": -2,
-        "desc": "Frozen & snowy",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": -2,
-        "desc": "Cold, sea ice lingers",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 2,
-        "desc": "Thawing & bright",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 9,
-        "desc": "Cool spring",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 16,
-        "desc": "Mild & fresh",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 19,
-        "desc": "Long bright days",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 22,
-        "desc": "Warm beach season",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 21,
-        "desc": "Warm, sea at its best",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 16,
-        "desc": "Mild & quieter",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 9,
-        "desc": "Cool & crisp",
-        "icon": "🌧️"
-      },
-      "nov": {
-        "temp": 3,
-        "desc": "Grey & damp",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 0,
-        "desc": "Dark & wintry",
-        "icon": "❄️"
-      }
-    }
-  },
-  {
-    "slug": "karlovy-vary",
-    "name": "Karlovy Vary",
-    "country": "Czech Republic",
-    "countryCode": "CZ",
-    "flag": "🇨🇿",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/karlovy-vary.jpg",
-    "intro": "The world's most famous spa town treats dogs better than its reputation suggests: pastel colonnade promenades along the Tepla river, 130 km of marked forest trails in the Slavkov Forest starting right behind the hotels, a dog-friendly funicular to the Diana lookout, and cafe terraces from Café Elefant to the Grandhotel Pupp that expect four-legged guests. Only the spring colonnades themselves are off limits.",
-    "lat": 50.2306,
-    "lng": 12.8702,
-    "weather": {
-      "jan": {
-        "temp": -2,
-        "desc": "Cold & snowy",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": -1,
-        "desc": "Cold & crisp",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 3,
-        "desc": "Chilly, first sun",
-        "icon": "🌥️"
-      },
-      "apr": {
-        "temp": 8,
-        "desc": "Mild & fresh",
-        "icon": "🌤️"
-      },
-      "may": {
-        "temp": 13,
-        "desc": "Pleasant & green",
-        "icon": "🌤️"
-      },
-      "jun": {
-        "temp": 16,
-        "desc": "Warm & leafy",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 18,
-        "desc": "Warm summer",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 18,
-        "desc": "Warm & settled",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 13,
-        "desc": "Mild & golden",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 8,
-        "desc": "Cool & misty",
-        "icon": "🌥️"
-      },
-      "nov": {
-        "temp": 3,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 0,
-        "desc": "Freezing & festive",
-        "icon": "❄️"
-      }
-    }
-  },
-  {
-    "slug": "perugia",
-    "name": "Perugia",
-    "country": "Italy",
-    "countryCode": "IT",
-    "flag": "🇮🇹",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/perugia.jpg",
-    "intro": "Umbria's hilltop capital pairs Etruscan gates and medieval lanes with a surprisingly practical dog setup: a 24/7 university veterinary hospital, fenced dog runs at Pian di Massiano, a monorail that carries small dogs free, panoramic gardens for sunset walks, and Lake Trasimeno's dog beaches 30 minutes away. In July, Umbria Jazz turns the whole acropolis into an open-air stage.",
-    "lat": 43.1107,
-    "lng": 12.3908,
-    "weather": {
-      "jan": {
-        "temp": 4,
-        "desc": "Cool & damp",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 5,
-        "desc": "Cool & brightening",
-        "icon": "🌥️"
-      },
-      "mar": {
-        "temp": 8,
-        "desc": "Mild & fresh",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 11,
-        "desc": "Mild & green",
-        "icon": "🌤️"
-      },
-      "may": {
-        "temp": 16,
-        "desc": "Warm & floral",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 20,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 23,
-        "desc": "Hot & dry",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 23,
-        "desc": "Hot & festival-busy",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 19,
-        "desc": "Warm & golden",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 14,
-        "desc": "Mild & misty",
-        "icon": "🌥️"
-      },
-      "nov": {
-        "temp": 8,
-        "desc": "Cool & rainy",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 5,
-        "desc": "Cold & quiet",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "bregenz",
-    "name": "Bregenz",
-    "country": "Austria",
-    "countryCode": "AT",
-    "flag": "🇦🇹",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/bregenz.jpg",
-    "intro": "Squeezed between the Bodensee and the Pfänder, Austria's festival town on the lake is a compact dog paradise: a flat lakefront promenade with free waste-bag dispensers, a cable car that carries dogs up to a summit wildlife park, unofficial dog beaches along the Pipeline shore towards Lochau, and a 24-hour animal clinic. During the Bregenzer Festspiele from mid-July, plan quiet evening walks away from the floating stage crowds.",
-    "lat": 47.5031,
-    "lng": 9.7471,
-    "weather": {
-      "jan": {
-        "temp": 1,
-        "desc": "Cold & foggy",
-        "icon": "🌫️"
-      },
-      "feb": {
-        "temp": 2,
-        "desc": "Cold & brightening",
-        "icon": "🌥️"
-      },
-      "mar": {
-        "temp": 6,
-        "desc": "Cool & fresh",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 10,
-        "desc": "Mild & showery",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 14,
-        "desc": "Pleasant & green",
-        "icon": "🌤️"
-      },
-      "jun": {
-        "temp": 18,
-        "desc": "Warm, lake season",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 20,
-        "desc": "Warm festival weather",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 19,
-        "desc": "Warm & stormy evenings",
-        "icon": "⛈️"
-      },
-      "sep": {
-        "temp": 15,
-        "desc": "Mild & clear",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 10,
-        "desc": "Cool & misty",
-        "icon": "🌫️"
-      },
-      "nov": {
-        "temp": 5,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 2,
-        "desc": "Cold, festive lights",
-        "icon": "❄️"
-      }
-    }
-  },
-  {
-    "slug": "olomouc",
-    "name": "Olomouc",
-    "country": "Czech Republic",
-    "countryCode": "CZ",
-    "flag": "🇨🇿",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/olomouc.jpg",
-    "intro": "Moravia's baroque secret is everything over-touristed Europe is not: UNESCO monuments without queues, a green belt of rampart parks around the old town, forest trails up the Svatý Kopeček pilgrimage hill, two vet clinics with round-the-clock emergency cover, and a genuine rarity, a zoo that admits leashed, muzzled dogs for a 100 CZK ticket.",
-    "lat": 49.5938,
-    "lng": 17.2509,
-    "weather": {
-      "jan": {
-        "temp": -1,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 0,
-        "desc": "Cold & crisp",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 5,
-        "desc": "Chilly, first sun",
-        "icon": "🌥️"
-      },
-      "apr": {
-        "temp": 10,
-        "desc": "Mild & fresh",
-        "icon": "🌤️"
-      },
-      "may": {
-        "temp": 15,
-        "desc": "Pleasant & green",
-        "icon": "🌤️"
-      },
-      "jun": {
-        "temp": 18,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 20,
-        "desc": "Warm summer",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 20,
-        "desc": "Warm & settled",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 15,
-        "desc": "Mild & golden",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 10,
-        "desc": "Cool & misty",
-        "icon": "🌥️"
-      },
-      "nov": {
-        "temp": 4,
-        "desc": "Cold & foggy",
-        "icon": "🌫️"
-      },
-      "dec": {
-        "temp": 0,
-        "desc": "Freezing & festive",
-        "icon": "❄️"
-      }
-    }
-  },
-  {
-    "slug": "bayreuth",
-    "name": "Bayreuth",
-    "country": "Germany",
-    "countryCode": "DE",
-    "flag": "🇩🇪",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/bayreuth.jpg",
-    "intro": "Wagner's festival town is a green, walkable Franconian base for dog owners: margravial gardens where leashed dogs roam the Hofgarten and Eremitage follies, the Roter Main river park with official dog-waste stations, beer gardens that greet dogs with water bowls, and the Green Hill esplanade below the Festspielhaus. From 25 July the Wagner Festspiele fills the town, so book pet-friendly rooms months ahead.",
-    "lat": 49.9481,
-    "lng": 11.5783,
-    "weather": {
-      "jan": {
-        "temp": -1,
-        "desc": "Cold & snowy",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 0,
-        "desc": "Cold & crisp",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 4,
-        "desc": "Chilly, first sun",
-        "icon": "🌥️"
-      },
-      "apr": {
-        "temp": 9,
-        "desc": "Mild & showery",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 13,
-        "desc": "Pleasant & green",
-        "icon": "🌤️"
-      },
-      "jun": {
-        "temp": 16,
-        "desc": "Warm & leafy",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 18,
-        "desc": "Warm festival weather",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 18,
-        "desc": "Warm & settled",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 14,
-        "desc": "Mild & golden",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 8,
-        "desc": "Cool & misty",
-        "icon": "🌥️"
-      },
-      "nov": {
-        "temp": 3,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 0,
-        "desc": "Freezing & festive",
-        "icon": "❄️"
-      }
-    }
-  },
-  {
-    "slug": "trento",
-    "name": "Trento",
-    "country": "Italy",
-    "countryCode": "IT",
-    "flag": "🇮🇹",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/trento.jpg",
-    "intro": "The capital of Trentino is an Alpine-Italian crossroads that treats dogs as part of city life: fenced dog areas with fountains in every big park since 1997, a cable car to Sardagna that welcomes dogs for 1.20 euros, frescoed Renaissance squares to stroll on leash, dog beaches on Lake Caldonazzo 25 minutes away and the cool trails of Monte Bondone at 1,500-2,100 m when the valley heats up.",
-    "lat": 46.0748,
-    "lng": 11.1217,
-    "weather": {
-      "jan": {
-        "temp": 2,
-        "desc": "Cold & dry",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 4,
-        "desc": "Cold, brightening",
-        "icon": "🌥️"
-      },
-      "mar": {
-        "temp": 9,
-        "desc": "Cool spring air",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 13,
-        "desc": "Mild & showery",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 17,
-        "desc": "Warm & green",
-        "icon": "🌤️"
-      },
-      "jun": {
-        "temp": 21,
-        "desc": "Warm, first heat",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 23,
-        "desc": "Hot valley days",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 22,
-        "desc": "Hot with storms",
-        "icon": "⛈️"
-      },
-      "sep": {
-        "temp": 18,
-        "desc": "Mild & clear",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 13,
-        "desc": "Crisp autumn",
-        "icon": "🍂"
-      },
-      "nov": {
-        "temp": 7,
-        "desc": "Cool & foggy",
-        "icon": "🌫️"
-      },
-      "dec": {
-        "temp": 3,
-        "desc": "Cold, festive",
-        "icon": "❄️"
-      }
-    }
-  },
-  {
-    "slug": "kitzbuehel",
-    "name": "Kitzbühel",
-    "country": "Austria",
-    "countryCode": "AT",
-    "flag": "🇦🇹",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/kitzbuehel.jpg",
-    "intro": "The most famous ski town in the Alps is quietly one of Austria's easiest resorts to visit with a dog: the Hahnenkamm and Horn gondolas carry dogs for free, buses and regional trains across Tyrol cost your dog nothing, the medieval centre is walked in pastel-painted lanes, and the Schwarzsee moor lake and Gieringer Weiher are a morning stroll away. In summer you can even walk the legendary Streif race course together.",
-    "lat": 47.4467,
-    "lng": 12.3925,
-    "weather": {
-      "jan": {
-        "temp": -3,
-        "desc": "Snowy race season",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": -1,
-        "desc": "Cold & snowy",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 3,
-        "desc": "Late ski spring",
-        "icon": "🌨️"
-      },
-      "apr": {
-        "temp": 7,
-        "desc": "Thawing meadows",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 12,
-        "desc": "Green & fresh",
-        "icon": "🌤️"
-      },
-      "jun": {
-        "temp": 15,
-        "desc": "Mild alpine summer",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 17,
-        "desc": "Warm hiking days",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 16,
-        "desc": "Warm with storms",
-        "icon": "⛈️"
-      },
-      "sep": {
-        "temp": 13,
-        "desc": "Clear & golden",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 8,
-        "desc": "Crisp autumn",
-        "icon": "🍂"
-      },
-      "nov": {
-        "temp": 2,
-        "desc": "Cold, first snow",
-        "icon": "🌨️"
-      },
-      "dec": {
-        "temp": -2,
-        "desc": "Snowy & festive",
-        "icon": "❄️"
-      }
-    }
-  },
-  {
-    "slug": "chamonix",
-    "name": "Chamonix-Mont-Blanc",
-    "country": "France",
-    "countryCode": "FR",
-    "flag": "🇫🇷",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/chamonix.jpg",
-    "intro": "The mountaineering capital of the Alps is a surprisingly easy trip with a dog: leashed dogs ride the valley buses, the Mont-Blanc Express and almost every lift including the Montenvers train to the Mer de Glace, terraces welcome them all over the pedestrian centre, and riverside trails start at the door. Just remember the one big rule: the Aiguilles Rouges reserve and its Lac Blanc are off-limits to dogs.",
-    "lat": 45.9237,
-    "lng": 6.8694,
-    "weather": {
-      "jan": {
-        "temp": -3,
-        "desc": "Snowy ski season",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": -1,
-        "desc": "Cold & snowy",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 3,
-        "desc": "Late winter sun",
-        "icon": "🌨️"
-      },
-      "apr": {
-        "temp": 7,
-        "desc": "Thawing valley",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 11,
-        "desc": "Green & fresh",
-        "icon": "🌤️"
-      },
-      "jun": {
-        "temp": 15,
-        "desc": "Mild alpine summer",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 17,
-        "desc": "Warm hiking days",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 16,
-        "desc": "Warm with storms",
-        "icon": "⛈️"
-      },
-      "sep": {
-        "temp": 12,
-        "desc": "Clear & golden",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 8,
-        "desc": "Crisp autumn",
-        "icon": "🍂"
-      },
-      "nov": {
-        "temp": 2,
-        "desc": "Cold, first snow",
-        "icon": "🌨️"
-      },
-      "dec": {
-        "temp": -2,
-        "desc": "Snowy & festive",
-        "icon": "❄️"
-      }
-    }
-  },
-  {
-    "slug": "zell-am-see",
-    "name": "Zell am See",
-    "country": "Austria",
-    "countryCode": "AT",
-    "flag": "🇦🇹",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/zell-am-see.jpg",
-    "intro": "Lake, glacier and summit with the dog in tow: Zell am See lets muzzled, leashed dogs ride the Schmittenhohe cable cars, the Kitzsteinhorn glacier lifts and even the Lake Zell boats, while the Erlberg dog zone and the Klammsee give them room to run and swim. Just pack the muzzle, it is the key that opens the whole region.",
-    "lat": 47.3229,
-    "lng": 12.7981,
-    "weather": {
-      "jan": {
-        "temp": -3,
-        "desc": "Snowy ski season",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": -1,
-        "desc": "Cold & snowy",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 3,
-        "desc": "Late winter sun",
-        "icon": "🌨️"
-      },
-      "apr": {
-        "temp": 8,
-        "desc": "Thawing meadows",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 12,
-        "desc": "Green & fresh",
-        "icon": "🌤️"
-      },
-      "jun": {
-        "temp": 15,
-        "desc": "Mild lake summer",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 17,
-        "desc": "Warm swimming days",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 17,
-        "desc": "Warm with storms",
-        "icon": "⛈️"
-      },
-      "sep": {
-        "temp": 13,
-        "desc": "Clear & golden",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 8,
-        "desc": "Crisp autumn",
-        "icon": "🍂"
-      },
-      "nov": {
-        "temp": 2,
-        "desc": "Cold, first snow",
-        "icon": "🌨️"
-      },
-      "dec": {
-        "temp": -2,
-        "desc": "Snowy & festive",
-        "icon": "❄️"
-      }
-    }
   }
 ]

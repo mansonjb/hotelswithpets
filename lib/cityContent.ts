@@ -22158,6 +22158,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'lignano-sabbiadoro': {
+    history: {
+      fr: `Lignano Sabbiadoro s'étire sur une longue péninsule de sable doré du Frioul-Vénétie Julienne, à la pointe nord-est de l'Adriatique, entre l'embouchure du Tagliamento et la lagune de Marano. Ernest Hemingway, qui y séjourna en 1954, la baptisa la « Floride de l'Italie ». La station se compose de trois quartiers : Lignano Sabbiadoro, le cœur animé et familial ; Lignano Pineta, dessiné dans les années 1950 par l'architecte Marcello D'Olivo selon un plan en spirale unique niché dans la pinède ; et Lignano Riviera, la plus verte, au bord de la rivière. Huit kilomètres de plage de sable fin, une eau peu profonde idéale pour les enfants et une culture de villégiature balnéaire décontractée en font l'une des destinations familiales phares du haut Adriatique. Pour le voyageur avec un chien, Lignano est étonnamment accueillante : plusieurs plages canines équipées, de vastes pinèdes ombragées et une lagune protégée toute proche pour l'observation des oiseaux.`,
+      en: `Lignano Sabbiadoro stretches along a long golden-sand peninsula in Friuli-Venezia Giulia, at the north-eastern tip of the Adriatic, between the mouth of the Tagliamento and the Marano lagoon. Ernest Hemingway, who stayed here in 1954, dubbed it the 'Florida of Italy'. The resort is made up of three districts: Lignano Sabbiadoro, the lively family heart; Lignano Pineta, laid out in the 1950s by architect Marcello D'Olivo on a unique spiral street plan tucked into the pine woods; and Lignano Riviera, the greenest, along the river. Eight kilometres of fine-sand beach, shallow water ideal for children, and a relaxed seaside-resort culture make it one of the flagship family destinations of the upper Adriatic. For the traveller with a dog, Lignano is surprisingly welcoming: several equipped dog beaches, vast shady pine woods, and a protected lagoon nearby for birdwatching.`,
+      es: `Lignano Sabbiadoro se extiende sobre una larga península de arena dorada en Friuli-Venecia Julia, en el extremo nororiental del Adriático, entre la desembocadura del Tagliamento y la laguna de Marano. Ernest Hemingway, que se alojó aquí en 1954, la bautizó como la 'Florida de Italia'. La estación se compone de tres barrios: Lignano Sabbiadoro, el corazón animado y familiar; Lignano Pineta, trazado en los años cincuenta por el arquitecto Marcello D'Olivo según un plan en espiral único enclavado en el pinar; y Lignano Riviera, el más verde, junto al río. Ocho kilómetros de playa de arena fina, aguas poco profundas ideales para los niños y una cultura de veraneo playero relajada la convierten en uno de los destinos familiares emblemáticos del Alto Adriático. Para el viajero con perro, Lignano es sorprendentemente acogedora: varias playas caninas equipadas, amplios pinares sombreados y una laguna protegida muy cerca para observar aves.`,
+      pt: `Lignano Sabbiadoro estende-se por uma longa península de areia dourada no Friul-Veneza Júlia, no extremo nordeste do Adriático, entre a foz do Tagliamento e a lagoa de Marano. Ernest Hemingway, que aqui esteve em 1954, apelidou-a de 'Florida de Itália'. A estância é formada por três bairros: Lignano Sabbiadoro, o coração animado e familiar; Lignano Pineta, traçado nos anos cinquenta pelo arquiteto Marcello D'Olivo segundo um plano em espiral único encravado no pinhal; e Lignano Riviera, o mais verde, junto ao rio. Oito quilómetros de praia de areia fina, águas pouco profundas ideais para crianças e uma cultura de veraneio balnear descontraída fazem dela um dos destinos familiares emblemáticos do Alto Adriático. Para o viajante com cão, Lignano é surpreendentemente acolhedora: várias praias caninas equipadas, amplos pinhais sombreados e uma lagoa protegida ali perto para observação de aves.`,
+    },
+    sights: [
+      { name: 'Bau Beach', emoji: '🐶', petFriendly: true, desc: {
+        fr: `La plage libre pour chiens de Lignano, dans la zone de Punta Faro à Sabbiadoro, où les chiens entrent dans l'eau sans limitation d'horaire. Entrée gratuite, un classique de la station depuis plus de dix ans.`,
+        en: `Lignano's free dog beach in the Punta Faro area of Sabbiadoro, where dogs can enter the water with no time limits. Free entry, a resort fixture for over a decade.`,
+        es: `La playa libre para perros de Lignano, en la zona de Punta Faro en Sabbiadoro, donde los perros entran al agua sin límite de horario. Entrada gratuita, un clásico de la estación desde hace más de diez años.`,
+        pt: `A praia livre para cães de Lignano, na zona de Punta Faro em Sabbiadoro, onde os cães entram na água sem limite de horário. Entrada gratuita, um clássico da estância há mais de dez anos.`,
+      }},
+      { name: 'Doggy Beach', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Plage canine équipée sur le Lungomare Marin près de l'office de plage n°1, avec parasols, transats, douches et zones clôturées. Les chiens se baignent librement dans la mer.`,
+        en: `An equipped dog beach on the Lungomare Marin near beach office no. 1, with sunshades, loungers, showers and fenced areas. Dogs swim freely in the sea.`,
+        es: `Playa canina equipada en el Lungomare Marin junto a la caseta de playa n.º 1, con sombrillas, hamacas, duchas y zonas valladas. Los perros se bañan libremente en el mar.`,
+        pt: `Praia canina equipada no Lungomare Marin junto ao posto de praia n.º 1, com chapéus de sol, espreguiçadeiras, duches e zonas vedadas. Os cães banham-se livremente no mar.`,
+      }},
+      { name: 'Terrazza a Mare', emoji: '🌊', petFriendly: true, desc: {
+        fr: `La terrasse panoramique sur pilotis emblématique de Sabbiadoro, avancée au-dessus de la mer. On s'y promène en laisse sur les esplanades extérieures, face au coucher de soleil adriatique.`,
+        en: `Sabbiadoro's iconic stilted panoramic terrace jutting out over the sea. You can walk the outer decks on the leash, facing the Adriatic sunset.`,
+        es: `La emblemática terraza panorámica sobre pilotes de Sabbiadoro, adentrándose en el mar. Se pasea con correa por las explanadas exteriores, frente a la puesta de sol adriática.`,
+        pt: `O emblemático terraço panorâmico sobre estacas de Sabbiadoro, avançado sobre o mar. Passeia-se com trela pelos deques exteriores, de frente para o pôr do sol adriático.`,
+      }},
+      { name: 'Lignano Pineta', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Quartier boisé dessiné en spirale par Marcello D'Olivo dans les années 1950, aux rues sinueuses noyées dans la pinède. Ombre bienvenue l'été et longues promenades en laisse sous les pins.`,
+        en: `A wooded district laid out in a spiral by Marcello D'Olivo in the 1950s, its winding streets buried in pine woods. Welcome summer shade and long leashed walks under the pines.`,
+        es: `Barrio arbolado trazado en espiral por Marcello D'Olivo en los años cincuenta, de calles sinuosas hundidas en el pinar. Sombra bienvenida en verano y largos paseos con correa bajo los pinos.`,
+        pt: `Bairro arborizado traçado em espiral por Marcello D'Olivo nos anos cinquenta, de ruas sinuosas mergulhadas no pinhal. Sombra bem-vinda no verão e longos passeios com trela sob os pinheiros.`,
+      }},
+      { name: 'Parco Zoo Punta Verde', emoji: '🦁', petFriendly: false, desc: {
+        fr: `Le parc zoologique de Lignano Riviera, avec plus de mille animaux dans un cadre boisé. Les chiens ne sont pas admis à l'intérieur ; laissez-les à l'hôtel ou optez pour la pinède voisine.`,
+        en: `Lignano Riviera's zoological park, with over a thousand animals in a wooded setting. Dogs are not allowed inside; leave them at the hotel or choose the nearby pine woods.`,
+        es: `El parque zoológico de Lignano Riviera, con más de mil animales en un entorno arbolado. Los perros no se admiten dentro; déjalos en el hotel u opta por el pinar cercano.`,
+        pt: `O parque zoológico de Lignano Riviera, com mais de mil animais num cenário arborizado. Os cães não são admitidos lá dentro; deixe-os no hotel ou opte pelo pinhal vizinho.`,
+      }},
+      { name: 'Laguna di Marano', emoji: '🦩', petFriendly: true, desc: {
+        fr: `La lagune protégée à l'ouest de la péninsule, réserve naturelle riche en oiseaux d'eau. Sorties en bateau et sentiers d'observation où le chien tenu en laisse est le bienvenu.`,
+        en: `The protected lagoon west of the peninsula, a nature reserve rich in waterbirds. Boat trips and birdwatching trails where a leashed dog is welcome.`,
+        es: `La laguna protegida al oeste de la península, reserva natural rica en aves acuáticas. Salidas en barco y senderos de observación donde el perro con correa es bienvenido.`,
+        pt: `A lagoa protegida a oeste da península, reserva natural rica em aves aquáticas. Passeios de barco e trilhos de observação onde o cão com trela é bem-vindo.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Lignano dispose de plusieurs plages canines équipées : la Bau Beach gratuite à Punta Faro et la Doggy Beach du Lungomare Marin (office n°1), où le chien se baigne sans restriction.`,
+        `Attention saisonnière : en juillet-août le sable de l'Adriatique devient brûlant, testez-le du revers de la main, marchez tôt le matin ou en soirée et emportez toujours de l'eau pour éviter les brûlures des coussinets.`,
+        `Le mois d'août est bondé et bruyant (feux d'artifice, foule familiale) : gardez le chien en laisse courte sur les lungomare et privilégiez les pinèdes de Lignano Pineta pour le calme.`,
+        `Le Parco Zoo Punta Verde refuse les chiens ; prévoyez une alternative ombragée dans la pinède ou une sortie bateau sur la lagune de Marano.`,
+        `Hors des plages canines désignées, les plages libres et équipées interdisent généralement les chiens en haute saison : vérifiez la signalétique de chaque tronçon avant de vous installer.`,
+      ],
+      en: [
+        `Lignano has several equipped dog beaches: the free Bau Beach at Punta Faro and the Doggy Beach on the Lungomare Marin (office no. 1), where dogs swim without restriction.`,
+        `Seasonal warning: in July and August the Adriatic sand turns scorching, test it with the back of your hand, walk early morning or evening, and always carry water to avoid burnt paw pads.`,
+        `August is packed and noisy (fireworks, family crowds): keep the dog on a short leash along the seafronts and favour the Lignano Pineta pine woods for quiet.`,
+        `The Parco Zoo Punta Verde refuses dogs; plan a shady alternative in the pine woods or a boat trip on the Marano lagoon.`,
+        `Outside the designated dog beaches, free and equipped beaches generally ban dogs in high season: check the signage on each stretch before settling in.`,
+      ],
+      es: [
+        `Lignano cuenta con varias playas caninas equipadas: la Bau Beach gratuita en Punta Faro y la Doggy Beach del Lungomare Marin (caseta n.º 1), donde el perro se baña sin restricción.`,
+        `Aviso estacional: en julio y agosto la arena del Adriático se vuelve ardiente, pruébala con el dorso de la mano, pasea a primera hora o al atardecer y lleva siempre agua para evitar quemaduras en las almohadillas.`,
+        `Agosto está abarrotado y ruidoso (fuegos artificiales, multitud familiar): mantén al perro con correa corta en los paseos marítimos y prioriza los pinares de Lignano Pineta para la calma.`,
+        `El Parco Zoo Punta Verde no admite perros; prevé una alternativa con sombra en el pinar o una salida en barco por la laguna de Marano.`,
+        `Fuera de las playas caninas designadas, las playas libres y equipadas suelen prohibir los perros en temporada alta: comprueba la señalización de cada tramo antes de instalarte.`,
+      ],
+      pt: [
+        `Lignano dispõe de várias praias caninas equipadas: a Bau Beach gratuita em Punta Faro e a Doggy Beach do Lungomare Marin (posto n.º 1), onde o cão se banha sem restrição.`,
+        `Aviso sazonal: em julho e agosto a areia do Adriático fica escaldante, teste-a com as costas da mão, passeie de manhã cedo ou ao entardecer e leve sempre água para evitar queimaduras nas almofadas das patas.`,
+        `Agosto é cheio e ruidoso (fogo de artifício, multidão familiar): mantenha o cão com trela curta nos passeios marítimos e prefira os pinhais de Lignano Pineta para o sossego.`,
+        `O Parco Zoo Punta Verde não admite cães; preveja uma alternativa com sombra no pinhal ou um passeio de barco pela lagoa de Marano.`,
+        `Fora das praias caninas designadas, as praias livres e equipadas costumam proibir cães na época alta: verifique a sinalização de cada troço antes de se instalar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Italie dans l'UE et Schengen : passeport européen pour animaux + vaccin antirabique valide + puce ISO suffisent depuis tout pays UE.`,
+        `Numéro d'urgence général (police, pompiers, ambulance) : 112, valable dans toute l'Italie.`,
+        `Accès : gare la plus proche à Latisana (environ 20 km), reliée par bus à la station ; aéroports de Trieste, Venise et Trévise à 1-2 h de route.`,
+        `Devise : euro. Été chaud et humide sur l'Adriatique (28-32 °C), sable brûlant l'après-midi : prévoyez ombre, eau et sorties aux heures fraîches.`,
+        `Laisse obligatoire sur les lungomare, dans les rues et les pinèdes ; les chiens ne sont admis à la baignade que sur les plages canines désignées.`,
+      ],
+      en: [
+        `Italy is in the EU and Schengen: an EU pet passport + valid rabies vaccination + ISO microchip is enough from any EU country.`,
+        `General emergency number (police, fire, ambulance): 112, valid throughout Italy.`,
+        `Getting there: nearest station is Latisana (about 20 km), linked to the resort by bus; Trieste, Venice and Treviso airports are 1-2 hours away by road.`,
+        `Currency: euro. Hot, humid Adriatic summers (28-32 °C) with scorching afternoon sand: plan for shade, water and outings in the cooler hours.`,
+        `Leashes are required on the seafronts, in the streets and in the pine woods; dogs may only swim at the designated dog beaches.`,
+      ],
+      es: [
+        `Italia está en la UE y Schengen: pasaporte europeo para mascotas + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Número de emergencia general (policía, bomberos, ambulancia): 112, válido en toda Italia.`,
+        `Cómo llegar: la estación más cercana es Latisana (unos 20 km), conectada por autobús con la estación; los aeropuertos de Trieste, Venecia y Treviso están a 1-2 h por carretera.`,
+        `Moneda: euro. Veranos adriáticos calurosos y húmedos (28-32 °C) con arena ardiente por la tarde: prevé sombra, agua y salidas en las horas frescas.`,
+        `Correa obligatoria en los paseos marítimos, las calles y los pinares; los perros solo pueden bañarse en las playas caninas designadas.`,
+      ],
+      pt: [
+        `A Itália está na UE e Schengen: passaporte europeu para animais + vacinação antirrábica válida + microchip ISO basta a partir de qualquer país UE.`,
+        `Número de emergência geral (polícia, bombeiros, ambulância): 112, válido em toda a Itália.`,
+        `Como chegar: a estação mais próxima é Latisana (cerca de 20 km), ligada por autocarro à estância; os aeroportos de Trieste, Veneza e Treviso ficam a 1-2 h de carro.`,
+        `Moeda: euro. Verões adriáticos quentes e húmidos (28-32 °C) com areia escaldante à tarde: preveja sombra, água e saídas nas horas frescas.`,
+        `Trela obrigatória nos passeios marítimos, nas ruas e nos pinhais; os cães só podem nadar nas praias caninas designadas.`,
+      ],
+    },
+  },
+
   lille: {
     history: {
       fr: `Lille est la capitale historique des Flandres françaises, ancien comptoir drapier médiéval qui changea plusieurs fois de mains entre la France, la Bourgogne et les Pays-Bas espagnols avant d'être rattachée définitivement à la France par Louis XIV en 1668. Vauban y construisit alors la Citadelle pentagonale, encore l'un des plus beaux ensembles fortifiés d'Europe. Au XIXe siècle, Lille devint un cœur de la révolution industrielle textile française ; aujourd'hui, la ville s'est réinventée autour des services, du commerce et d'un campus universitaire de plus de 110 000 étudiants. Le centre piéton du Vieux Lille, soigneusement restauré, et la Grand Place encadrée par la Vieille Bourse em font l'une des destinations urbaines les plus marchables et photogéniques du nord de la France, particulièrement adaptée aux voyageurs accompagnés de leur animal.`,
@@ -22428,6 +22535,113 @@ const cityContent: Record<string, CityContent> = {
         `ÖBB Railjet a partir de Linz Hauptbahnhof aceita cães com trela e açaime a 50% da tarifa adulta; Viena 90 min, Salzburgo 70 min, ambas com partidas horárias.`,
         `Aeroporto de Linz (LNZ) a 13 km: pequeno terminal, zona de descompressão animal exterior, poucos voos diretos; o aeroporto de Viena (VIE) a 1h45 em Railjet oferece mais opções de longo curso para viajar com um cão grande.`,
         `Inverno continental austríaco: temperaturas até -10 °C em janeiro/fevereiro, leva um casaco para cães pequenos e botinhas para o sal nos passeios.`,
+      ],
+    },
+  },
+
+  limassol: {
+    history: {
+      fr: `Limassol (Lemesós), deuxième ville de Chypre, s'étire sur la côte sud entre deux grands sites antiques : Kourion à l'ouest et Amathonte à l'est. Modeste bourg jusqu'au Moyen Âge, elle entra dans l'histoire en 1191 lorsque Richard Cœur de Lion, en route pour la troisième croisade, y épousa Bérengère de Navarre et fit couronner sa reine dans le château qui domine encore la vieille ville. Longtemps tournée vers le vin (la célèbre Commandaria, l'un des plus anciens vins du monde) et le commerce, Limassol est aujourd'hui une métropole cosmopolite et animée, dotée d'une marina de plaisance moderne, d'un front de mer réaménagé et d'une vie nocturne réputée. Pour le voyageur avec un chien, la ville offre une longue promenade côtière ombragée de palmiers, des plages canines désignées, des sites archéologiques en plein air et l'arrière-pays viticole des villages du Krasochoria, au pied du massif du Troodos.`,
+      en: `Limassol (Lemesos), Cyprus's second city, spreads along the south coast between two great ancient sites: Kourion to the west and Amathus to the east. A modest town until the Middle Ages, it entered history in 1191 when Richard the Lionheart, on his way to the Third Crusade, married Berengaria of Navarre and had her crowned queen in the castle that still overlooks the old town. Long devoted to wine (the famous Commandaria, one of the world's oldest wines) and trade, Limassol is today a cosmopolitan, lively metropolis with a modern leisure marina, a redesigned seafront, and a celebrated nightlife. For the traveller with a dog, the city offers a long palm-shaded coastal promenade, designated dog beaches, open-air archaeological sites, and the wine-country hinterland of the Krasochoria villages at the foot of the Troodos massif.`,
+      es: `Limassol (Lemesós), segunda ciudad de Chipre, se extiende por la costa sur entre dos grandes sitios antiguos: Kourion al oeste y Amatunte al este. Fue una localidad modesta hasta la Edad Media y entró en la historia en 1191, cuando Ricardo Corazón de León, camino de la Tercera Cruzada, se casó allí con Berenguela de Navarra y la hizo coronar reina en el castillo que aún domina el casco antiguo. Volcada durante siglos en el vino (la célebre Commandaria, uno de los vinos más antiguos del mundo) y el comercio, Limassol es hoy una metrópoli cosmopolita y animada, con una marina deportiva moderna, un paseo marítimo renovado y una vida nocturna famosa. Para el viajero con perro, la ciudad ofrece un largo paseo costero a la sombra de las palmeras, playas caninas designadas, yacimientos arqueológicos al aire libre y el interior vinícola de los pueblos del Krasochoria, al pie del macizo de Troodos.`,
+      pt: `Limassol (Lemesós), segunda cidade de Chipre, estende-se pela costa sul entre dois grandes sítios antigos: Kourion a oeste e Amatunte a este. Foi uma localidade modesta até à Idade Média e entrou na história em 1191, quando Ricardo Coração de Leão, a caminho da Terceira Cruzada, aí casou com Berengária de Navarra e a mandou coroar rainha no castelo que ainda domina a cidade velha. Dedicada durante séculos ao vinho (a célebre Commandaria, um dos vinhos mais antigos do mundo) e ao comércio, Limassol é hoje uma metrópole cosmopolita e animada, com uma marina de recreio moderna, uma frente-mar renovada e uma vida noturna famosa. Para o viajante com cão, a cidade oferece um longo passeio costeiro à sombra das palmeiras, praias caninas designadas, sítios arqueológicos ao ar livre e o interior vinícola das aldeias do Krasochoria, no sopé do maciço do Troodos.`,
+    },
+    sights: [
+      { name: 'Molos Promenade', emoji: '🌴', petFriendly: true, desc: {
+        fr: `La longue promenade du front de mer bordée de palmiers, prolongée d'un parc de sculptures en plein air. Les chiens en laisse y sont les bienvenus, matin et soir aux heures fraîches.`,
+        en: `The long palm-lined seafront promenade, extended by an open-air sculpture park. Leashed dogs are welcome, best in the cool of the morning and evening.`,
+        es: `El largo paseo marítimo bordeado de palmeras, prolongado por un parque de esculturas al aire libre. Los perros con correa son bienvenidos, mejor al fresco de la mañana y la tarde.`,
+        pt: `O longo passeio marítimo ladeado de palmeiras, prolongado por um parque de esculturas ao ar livre. Os cães com trela são bem-vindos, sobretudo no fresco da manhã e do fim de tarde.`,
+      }},
+      { name: 'Limassol Marina', emoji: '🛥️', petFriendly: true, desc: {
+        fr: `La marina de plaisance moderne, avec ses quais, ses boutiques et ses restaurants en bord d'eau. Les espaces extérieurs et les pontons publics se parcourent en laisse.`,
+        en: `The modern leisure marina, with its quays, shops and waterfront restaurants. The outdoor areas and public boardwalks are walkable on the leash.`,
+        es: `La marina deportiva moderna, con sus muelles, tiendas y restaurantes junto al agua. Los espacios exteriores y los paseos públicos se recorren con correa.`,
+        pt: `A marina de recreio moderna, com os seus cais, lojas e restaurantes à beira-água. Os espaços exteriores e os passadiços públicos percorrem-se com trela.`,
+      }},
+      { name: 'Limassol Castle', emoji: '🏰', petFriendly: false, desc: {
+        fr: `Le château médiéval où Richard Cœur de Lion épousa Bérengère en 1191, abritant aujourd'hui le Musée médiéval de Chypre. Les chiens n'entrent pas dans le musée ; les ruelles pavées de la vieille ville tout autour se parcourent en laisse.`,
+        en: `The medieval castle where Richard the Lionheart married Berengaria in 1191, now home to the Cyprus Medieval Museum. Dogs cannot enter the museum; the cobbled old-town lanes all around are walkable on the leash.`,
+        es: `El castillo medieval donde Ricardo Corazón de León se casó con Berenguela en 1191, hoy sede del Museo Medieval de Chipre. Los perros no entran en el museo; las callejuelas adoquinadas del casco antiguo se recorren con correa.`,
+        pt: `O castelo medieval onde Ricardo Coração de Leão casou com Berengária em 1191, hoje sede do Museu Medieval de Chipre. Os cães não entram no museu; as ruelas empedradas da cidade velha em redor percorrem-se com trela.`,
+      }},
+      { name: 'Kourion', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Le grand site archéologique gréco-romain à l'ouest de la ville, dominé par un amphithéâtre face à la mer. Chiens en laisse tolérés dans les allées extérieures ; on les tient à l'écart des mosaïques et des zones protégées.`,
+        en: `The great Greco-Roman archaeological site west of the city, crowned by an amphitheatre facing the sea. Leashed dogs are tolerated on the outdoor paths; keep them away from the mosaics and protected areas.`,
+        es: `El gran yacimiento arqueológico grecorromano al oeste de la ciudad, coronado por un anfiteatro frente al mar. Perros con correa tolerados en los senderos exteriores; mantenlos lejos de los mosaicos y las zonas protegidas.`,
+        pt: `O grande sítio arqueológico greco-romano a oeste da cidade, coroado por um anfiteatro virado para o mar. Cães com trela tolerados nos caminhos exteriores; mantenha-os longe dos mosaicos e das zonas protegidas.`,
+      }},
+      { name: 'Akrotiri Salt Lake', emoji: '🦩', petFriendly: true, desc: {
+        fr: `Le lac salé au sud de la ville, où des milliers de flamants roses hivernent de novembre à mars. Sentiers de promenade en laisse ; on garde ses distances avec les oiseaux pour ne pas les déranger.`,
+        en: `The salt lake south of the city, where thousands of flamingos winter from November to March. Leashed walking trails; keep your distance from the birds so as not to disturb them.`,
+        es: `El lago salado al sur de la ciudad, donde miles de flamencos invernan de noviembre a marzo. Senderos para pasear con correa; guarda las distancias con las aves para no molestarlas.`,
+        pt: `O lago salgado a sul da cidade, onde milhares de flamingos invernam de novembro a março. Trilhos para passear com trela; guarde distância das aves para não as perturbar.`,
+      }},
+      { name: 'Krasochoria', emoji: '🍇', petFriendly: true, desc: {
+        fr: `Les villages viticoles perchés sur les contreforts du Troodos, au nord de Limassol, patrie de la Commandaria. Routes et sentiers de vignoble parfaits pour de longues balades en laisse au frais de l'altitude.`,
+        en: `The wine villages perched on the Troodos foothills north of Limassol, homeland of Commandaria. Vineyard roads and trails perfect for long leashed walks in the cooler upland air.`,
+        es: `Los pueblos vinícolas encaramados en las estribaciones del Troodos, al norte de Limassol, cuna de la Commandaria. Caminos y senderos de viñedo perfectos para largos paseos con correa al fresco de la altura.`,
+        pt: `As aldeias vinícolas empoleiradas nas encostas do Troodos, a norte de Limassol, berço da Commandaria. Estradas e trilhos de vinha perfeitos para longos passeios com trela no fresco da altitude.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La plage canine désignée de la région est Lady's Mile, longue étendue de sable sur la péninsule d'Akrotiri (zone de Zakaki), où les chiens sont autorisés à se baigner.`,
+        `Attention saisonnière : l'été chypriote est extrême (35 °C et plus, sable brûlant) ; promenez le chien tôt le matin ou après le coucher du soleil, emportez toujours de l'eau et cherchez l'ombre des palmiers du Molos.`,
+        `Les plages urbaines surveillées comme Dasoudi interdisent les chiens : rabattez-vous sur Lady's Mile pour la baignade canine.`,
+        `Au lac salé d'Akrotiri, tenez le chien en laisse courte et à distance des flamants roses en hiver, pour ne pas déranger les colonies protégées.`,
+        `Chypre roule à gauche : soyez vigilant en traversant avec le chien et privilégiez les zones piétonnes du front de mer et de la marina.`,
+      ],
+      en: [
+        `The region's designated dog beach is Lady's Mile, a long sandy stretch on the Akrotiri peninsula (Zakaki area), where dogs are allowed to swim.`,
+        `Seasonal warning: the Cypriot summer is extreme (35 °C and above, scorching sand); walk the dog early morning or after sunset, always carry water, and seek the shade of the Molos palms.`,
+        `Supervised city beaches such as Dasoudi ban dogs: fall back on Lady's Mile for canine swimming.`,
+        `At the Akrotiri salt lake, keep the dog on a short leash and away from the flamingos in winter, so as not to disturb the protected colonies.`,
+        `Cyprus drives on the left: take care when crossing with the dog and favour the pedestrian zones of the seafront and the marina.`,
+      ],
+      es: [
+        `La playa canina designada de la región es Lady's Mile, una larga extensión de arena en la península de Akrotiri (zona de Zakaki), donde los perros pueden bañarse.`,
+        `Aviso estacional: el verano chipriota es extremo (35 °C o más, arena ardiente); pasea al perro a primera hora o tras la puesta de sol, lleva siempre agua y busca la sombra de las palmeras del Molos.`,
+        `Las playas urbanas vigiladas como Dasoudi prohíben los perros: recurre a Lady's Mile para el baño canino.`,
+        `En el lago salado de Akrotiri, mantén al perro con correa corta y lejos de los flamencos en invierno, para no molestar a las colonias protegidas.`,
+        `Chipre circula por la izquierda: ten cuidado al cruzar con el perro y prioriza las zonas peatonales del paseo marítimo y la marina.`,
+      ],
+      pt: [
+        `A praia canina designada da região é Lady's Mile, uma longa extensão de areia na península de Akrotiri (zona de Zakaki), onde os cães podem nadar.`,
+        `Aviso sazonal: o verão cipriota é extremo (35 °C ou mais, areia escaldante); passeie o cão de manhã cedo ou após o pôr do sol, leve sempre água e procure a sombra das palmeiras do Molos.`,
+        `As praias urbanas vigiadas como Dasoudi proíbem cães: recorra a Lady's Mile para o banho canino.`,
+        `No lago salgado de Akrotiri, mantenha o cão com trela curta e longe dos flamingos no inverno, para não perturbar as colónias protegidas.`,
+        `Chipre circula pela esquerda: tenha cuidado ao atravessar com o cão e prefira as zonas pedonais da frente-mar e da marina.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Chypre dans l'UE : passeport européen pour animaux + vaccin antirabique valide + puce ISO suffisent depuis tout pays UE.`,
+        `Numéro d'urgence général (police, pompiers, ambulance) : 112, valable dans toute la République de Chypre.`,
+        `Accès : aéroports internationaux de Larnaca et de Paphos, chacun à environ 70 km ; pas de réseau ferroviaire à Chypre, prévoyez une voiture de location (conduite à gauche).`,
+        `Devise : euro. Été long et très chaud (souvent au-dessus de 35 °C), hivers doux : voyagez de préférence au printemps ou en automne avec un chien.`,
+        `Laisse recommandée sur le front de mer, la marina et les sites archéologiques ; la baignade canine n'est autorisée que sur les plages désignées comme Lady's Mile.`,
+      ],
+      en: [
+        `Cyprus is in the EU: an EU pet passport + valid rabies vaccination + ISO microchip is enough from any EU country.`,
+        `General emergency number (police, fire, ambulance): 112, valid throughout the Republic of Cyprus.`,
+        `Getting there: Larnaca and Paphos international airports, each about 70 km away; there is no railway on Cyprus, so plan for a rental car (driving on the left).`,
+        `Currency: euro. A long, very hot summer (often above 35 °C) and mild winters: travel with a dog preferably in spring or autumn.`,
+        `A leash is advised on the seafront, the marina and the archaeological sites; canine swimming is only allowed on designated beaches such as Lady's Mile.`,
+      ],
+      es: [
+        `Chipre está en la UE: pasaporte europeo para mascotas + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Número de emergencia general (policía, bomberos, ambulancia): 112, válido en toda la República de Chipre.`,
+        `Cómo llegar: aeropuertos internacionales de Lárnaca y Pafos, cada uno a unos 70 km; no hay ferrocarril en Chipre, prevé un coche de alquiler (se conduce por la izquierda).`,
+        `Moneda: euro. Verano largo y muy caluroso (a menudo por encima de 35 °C) e inviernos suaves: viaja con perro preferentemente en primavera u otoño.`,
+        `Correa recomendada en el paseo marítimo, la marina y los yacimientos; el baño canino solo se permite en playas designadas como Lady's Mile.`,
+      ],
+      pt: [
+        `Chipre está na UE: passaporte europeu para animais + vacinação antirrábica válida + microchip ISO basta a partir de qualquer país UE.`,
+        `Número de emergência geral (polícia, bombeiros, ambulância): 112, válido em toda a República de Chipre.`,
+        `Como chegar: aeroportos internacionais de Lárnaca e Pafos, cada um a cerca de 70 km; não há caminho de ferro em Chipre, preveja um carro de aluguer (conduz-se pela esquerda).`,
+        `Moeda: euro. Verão longo e muito quente (muitas vezes acima de 35 °C) e invernos amenos: viaje com cão de preferência na primavera ou no outono.`,
+        `Trela recomendada na frente-mar, na marina e nos sítios arqueológicos; o banho canino só é permitido em praias designadas como Lady's Mile.`,
       ],
     },
   },

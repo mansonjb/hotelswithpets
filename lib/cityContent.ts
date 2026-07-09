@@ -4629,6 +4629,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bibione: {
+    history: {
+      fr: `Bibione est une station balnéaire de la côte adriatique vénitienne, née pratiquement de rien après-guerre sur une langue de sable et de pinèdes entre l'embouchure du Tagliamento et la lagune de Caorle. Dans les années 1950, l'assainissement des marais et la plantation de pins maritimes ont transformé ce littoral désert en l'une des plages les plus fréquentées d'Italie, avec près de huit kilomètres de sable doré en pente douce. Rattachée à la commune de San Michele al Tagliamento, en province de Venise, Bibione reste tournée vers le tourisme familial et thermal, avec ses eaux sulfureuses exploitées à Bibione Terme. Depuis les années 2000, la ville s'est bâti une solide réputation auprès des voyageurs avec chien grâce à Pluto Beach, l'une des plus grandes plages canines équipées du pays, faisant de cette station l'une des destinations les plus accueillantes d'Italie pour les animaux.`,
+      en: `Bibione is a Venetian Adriatic beach resort that grew almost from nothing after the Second World War, on a spit of sand and pinewoods between the mouth of the Tagliamento river and the Caorle lagoon. During the 1950s the draining of the marshes and the planting of maritime pines turned this deserted shore into one of Italy's busiest beaches, with nearly eight kilometres of gently shelving golden sand. Part of the municipality of San Michele al Tagliamento in the province of Venice, Bibione has always leaned into family and spa tourism, its sulphur-rich waters tapped at Bibione Terme. Since the 2000s the town has built a strong reputation among travellers with dogs thanks to Pluto Beach, one of the largest equipped dog beaches in the country, making the resort one of Italy's most pet-welcoming destinations.`,
+      es: `Bibione es una estación balnearia del Adriático véneto que surgió casi de la nada tras la Segunda Guerra Mundial, sobre una lengua de arena y pinares entre la desembocadura del río Tagliamento y la laguna de Caorle. Durante los años cincuenta, el saneamiento de las marismas y la plantación de pinos marítimos convirtieron esta costa desierta en una de las playas más concurridas de Italia, con casi ocho kilómetros de arena dorada de suave pendiente. Perteneciente al municipio de San Michele al Tagliamento, en la provincia de Venecia, Bibione siempre ha apostado por el turismo familiar y termal, con sus aguas sulfurosas aprovechadas en Bibione Terme. Desde los años dos mil, la localidad se ha ganado una sólida reputación entre los viajeros con perro gracias a Pluto Beach, una de las mayores playas caninas equipadas del país, lo que la convierte en uno de los destinos más acogedores de Italia para las mascotas.`,
+      pt: `Bibione é uma estância balnear do Adriático vêneto que surgiu quase do nada após a Segunda Guerra Mundial, sobre uma língua de areia e pinhais entre a foz do rio Tagliamento e a laguna de Caorle. Durante os anos cinquenta, o saneamento dos pântanos e a plantação de pinheiros-bravos transformaram esta costa deserta numa das praias mais movimentadas de Itália, com quase oito quilómetros de areia dourada de suave inclinação. Pertencente ao município de San Michele al Tagliamento, na província de Veneza, Bibione sempre apostou no turismo familiar e termal, com as suas águas sulfurosas aproveitadas em Bibione Terme. Desde os anos dois mil, a localidade ganhou uma sólida reputação entre os viajantes com cão graças à Pluto Beach, uma das maiores praias caninas equipadas do país, o que a torna um dos destinos mais acolhedores de Itália para os animais.`,
+    },
+    sights: [
+      {
+        name: `Pluto Beach (Spiaggia per Cani)`,
+        emoji: `🏖️`,
+        petFriendly: true,
+        desc: {
+          fr: `Vaste plage canine clôturée dans le secteur ouest de Bibione, considérée comme l'une des plus grandes et des mieux équipées d'Italie, avec douches pour chiens, gamelles d'eau, zones ombragées et parcours d'agility. Les chiens peuvent se baigner librement dans une portion de mer réservée, et l'accès reste payant comme sur les autres plages équipées.`,
+          en: `A large fenced dog beach in the western sector of Bibione, regarded as one of the biggest and best equipped in Italy, with dog showers, water bowls, shaded areas and an agility course. Dogs can swim freely in a reserved stretch of sea, and access is ticketed like the other equipped lidos.`,
+          es: `Amplia playa canina vallada en el sector oeste de Bibione, considerada una de las mayores y mejor equipadas de Italia, con duchas para perros, cuencos de agua, zonas de sombra y circuito de agility. Los perros pueden bañarse libremente en un tramo de mar reservado, y el acceso es de pago como en el resto de balnearios equipados.`,
+          pt: `Ampla praia canina vedada no setor oeste de Bibione, considerada uma das maiores e mais bem equipadas de Itália, com duches para cães, tigelas de água, zonas de sombra e circuito de agility. Os cães podem banhar-se livremente num troço de mar reservado, e o acesso é pago como nos restantes balneários equipados.`,
+        },
+      },
+      {
+        name: `Faro di Bibione`,
+        emoji: `🗼`,
+        petFriendly: true,
+        desc: {
+          fr: `Le phare qui marque l'embouchure du Tagliamento, à la pointe est de la station, entouré d'une plage sauvage et d'une pinède préservée où l'on marche à l'écart de la foule. Les chiens en laisse sont bienvenus sur les sentiers du littoral et sur cette plage moins fréquentée.`,
+          en: `The lighthouse marking the mouth of the Tagliamento at the eastern tip of the resort, ringed by a wild beach and a preserved pinewood that offers walking away from the crowds. Leashed dogs are welcome on the coastal paths and on this quieter stretch of shore.`,
+          es: `El faro que señala la desembocadura del Tagliamento, en el extremo este de la estación, rodeado de una playa salvaje y un pinar preservado ideal para pasear lejos del gentío. Los perros con correa son bienvenidos en los senderos del litoral y en este tramo más tranquilo.`,
+          pt: `O farol que assinala a foz do Tagliamento, na ponta leste da estância, rodeado por uma praia selvagem e um pinhal preservado ideal para passear longe da multidão. Os cães com trela são bem-vindos nos trilhos do litoral e neste troço mais tranquilo.`,
+        },
+      },
+      {
+        name: `Bibione Pineda`,
+        emoji: `🌲`,
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier ouest de la station, plus résidentiel et boisé, où les villas se fondent dans une pinède qui descend jusqu'à la mer. Ses allées ombragées et son ambiance paisible en font le secteur le plus agréable pour promener un chien aux heures chaudes.`,
+          en: `The western district of the resort, more residential and wooded, where villas blend into a pine forest that runs down to the sea. Its shaded lanes and calm atmosphere make it the most pleasant area to walk a dog during the hottest hours.`,
+          es: `El barrio oeste de la estación, más residencial y arbolado, donde las villas se funden con un pinar que baja hasta el mar. Sus paseos sombreados y su ambiente tranquilo lo convierten en la zona más agradable para pasear al perro en las horas de calor.`,
+          pt: `O bairro oeste da estância, mais residencial e arborizado, onde as vivendas se fundem com um pinhal que desce até ao mar. As suas alamedas sombreadas e o ambiente tranquilo fazem dele a zona mais agradável para passear o cão nas horas de calor.`,
+        },
+      },
+      {
+        name: `Bibione Terme`,
+        emoji: `♨️`,
+        petFriendly: false,
+        desc: {
+          fr: `L'établissement thermal alimenté par des eaux sulfureuses chaudes puisées en profondeur, dédié aux cures, aux soins et au bien-être. Les animaux ne sont pas admis à l'intérieur des espaces thermaux et des piscines, mais les jardins alentour se prêtent à une courte promenade en laisse.`,
+          en: `The thermal spa fed by hot sulphur waters drawn from deep underground, devoted to cures, treatments and wellness. Pets are not allowed inside the spa areas and pools, though the surrounding gardens are fine for a short leashed walk.`,
+          es: `El balneario alimentado por aguas sulfurosas calientes extraídas del subsuelo profundo, dedicado a curas, tratamientos y bienestar. No se admiten animales dentro de las instalaciones termales ni de las piscinas, aunque los jardines de alrededor permiten un breve paseo con correa.`,
+          pt: `As termas alimentadas por águas sulfurosas quentes extraídas do subsolo profundo, dedicadas a curas, tratamentos e bem-estar. Não são admitidos animais dentro das instalações termais nem das piscinas, embora os jardins em redor permitam um breve passeio com trela.`,
+        },
+      },
+      {
+        name: `Spiaggia di Bibione`,
+        emoji: `⛱️`,
+        petFriendly: false,
+        desc: {
+          fr: `La grande plage principale, près de huit kilomètres de sable doré en pente douce bordé de rangées d'ombrelles, cœur du tourisme balnéaire familial. Les chiens n'y sont pas admis sur les lidos équipés en haute saison, il faut se rabattre sur Pluto Beach, la plage canine dédiée.`,
+          en: `The great main beach, nearly eight kilometres of gently shelving golden sand lined with rows of umbrellas, the heart of family seaside tourism. Dogs are not allowed on the equipped lidos in high season, so head instead to Pluto Beach, the dedicated dog beach.`,
+          es: `La gran playa principal, casi ocho kilómetros de arena dorada de suave pendiente flanqueada por hileras de sombrillas, corazón del turismo de sol y playa familiar. No se admiten perros en los balnearios equipados en temporada alta, por lo que hay que ir a Pluto Beach, la playa canina.`,
+          pt: `A grande praia principal, quase oito quilómetros de areia dourada de suave inclinação ladeada por filas de chapéus-de-sol, coração do turismo balnear familiar. Não são admitidos cães nos balneários equipados em época alta, pelo que há que ir à Pluto Beach, a praia canina.`,
+        },
+      },
+      {
+        name: `Corso del Sole`,
+        emoji: `🛍️`,
+        petFriendly: true,
+        desc: {
+          fr: `La longue artère piétonne qui traverse la station, alignant boutiques, glaciers, terrasses et pizzerias, très animée en soirée l'été. Les chiens en laisse y sont partout, et de nombreuses terrasses sortent spontanément une gamelle d'eau pour les visiteurs à quatre pattes.`,
+          en: `The long pedestrian avenue running through the resort, lined with shops, gelaterias, terraces and pizzerias, buzzing on summer evenings. Leashed dogs are welcome all along it, and many terraces will readily put out a water bowl for four-legged guests.`,
+          es: `La larga arteria peatonal que atraviesa la estación, jalonada de tiendas, heladerías, terrazas y pizzerías, muy animada en las noches de verano. Los perros con correa son bienvenidos en todo su recorrido, y muchas terrazas sacan sin problema un cuenco de agua para los visitantes de cuatro patas.`,
+          pt: `A longa artéria pedonal que atravessa a estância, ladeada de lojas, gelatarias, esplanadas e pizzarias, muito animada nas noites de verão. Os cães com trela são bem-vindos em todo o seu percurso, e muitas esplanadas colocam sem problema uma tigela de água para os visitantes de quatro patas.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Rendez-vous à Pluto Beach, la plage canine clôturée du secteur ouest, plutôt que sur la plage principale où les chiens sont interdits sur les lidos équipés en haute saison.`,
+        `Attention à la chaleur estivale: le sable atteint des températures brûlantes en juillet et août, promenez votre chien tôt le matin ou après 18h et testez le sable avec la main avant de le laisser marcher.`,
+        `Emportez toujours de l'eau et un bol pliable, l'ombre est rare sur le front de mer et le coup de chaleur guette les chiens sur cette côte plate.`,
+        `Le mois d'août est le pic de fréquentation, la station est bondée et bruyante (feux d'artifice fréquents), prévoyez un coin calme pour un chien sensible et privilégiez la Pineda.`,
+        `Les chiens ne sont pas admis à l'intérieur de Bibione Terme, prévoyez une garde ou un relais si vous voulez profiter des soins thermaux.`,
+      ],
+      en: [
+        `Head to Pluto Beach, the fenced dog beach in the western sector, rather than the main beach where dogs are banned from the equipped lidos in high season.`,
+        `Mind the summer heat: the sand gets scorching in July and August, so walk your dog early in the morning or after 6pm and test the sand with your hand before letting them cross it.`,
+        `Always carry water and a collapsible bowl, shade is scarce along the seafront and heatstroke is a real risk for dogs on this flat coast.`,
+        `August is peak season, the resort is packed and noisy with frequent fireworks, so plan a quiet retreat for a sensitive dog and favour the Pineda district.`,
+        `Dogs are not allowed inside Bibione Terme, so arrange pet care or take turns if you want to enjoy the thermal treatments.`,
+      ],
+      es: [
+        `Ve a Pluto Beach, la playa canina vallada del sector oeste, en lugar de la playa principal, donde los perros no pueden acceder a los balnearios equipados en temporada alta.`,
+        `Cuidado con el calor estival: la arena alcanza temperaturas abrasadoras en julio y agosto, pasea al perro a primera hora o después de las 18h y comprueba la arena con la mano antes de dejarle caminar.`,
+        `Lleva siempre agua y un cuenco plegable, la sombra escasea en el paseo marítimo y el golpe de calor es un riesgo real para los perros en esta costa llana.`,
+        `Agosto es el pico de afluencia, la estación se llena y hay mucho ruido (fuegos artificiales frecuentes), reserva un rincón tranquilo para un perro sensible y prioriza la zona de la Pineda.`,
+        `No se admiten perros dentro de Bibione Terme, organiza una guardería o turnaos si quieres disfrutar de los tratamientos termales.`,
+      ],
+      pt: [
+        `Vá à Pluto Beach, a praia canina vedada do setor oeste, em vez da praia principal, onde os cães não podem aceder aos balneários equipados em época alta.`,
+        `Cuidado com o calor estival: a areia atinge temperaturas escaldantes em julho e agosto, passeie o cão de manhã cedo ou depois das 18h e teste a areia com a mão antes de o deixar caminhar.`,
+        `Leve sempre água e uma tigela dobrável, a sombra é escassa na marginal e a insolação é um risco real para os cães nesta costa plana.`,
+        `Agosto é o pico de afluência, a estância enche-se e há muito ruído (fogo de artifício frequente), reserve um recanto tranquilo para um cão sensível e prefira a zona da Pineda.`,
+        `Não são admitidos cães dentro de Bibione Terme, organize um serviço de guarda ou revezem-se se quiser desfrutar dos tratamentos termais.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Italie: 112 (police, pompiers, ambulance).`,
+        `Aéroports les plus proches: Venise-Marco Polo (VCE) et Trieste (TRS), tous deux à environ 90 minutes de route; la gare la plus proche est Latisana-Lignano-Bibione, reliée par bus.`,
+        `Climat méditerranéen: étés chauds et humides (30 °C et plus en journée), la mer peu profonde chauffe vite, rincez votre chien à l'eau douce après la baignade.`,
+        `L'Italie exige passeport européen, puce ISO et vaccination antirabique à jour pour tout animal; les chiens doivent porter la laisse dans les lieux publics et une muselière doit être disponible dans les transports.`,
+        `De nombreuses cliniques vétérinaires se trouvent à Bibione et dans les communes voisines de San Michele al Tagliamento et Latisana, renseignez-vous à votre arrivée pour les gardes d'urgence.`,
+      ],
+      en: [
+        `Single emergency number in Italy: 112 (police, fire, ambulance).`,
+        `Nearest airports: Venice-Marco Polo (VCE) and Trieste (TRS), both around 90 minutes away by road; the closest railway station is Latisana-Lignano-Bibione, linked by bus.`,
+        `Mediterranean climate: hot, humid summers (30 °C and above by day), the shallow sea warms quickly, so rinse your dog with fresh water after a swim.`,
+        `Italy requires an EU pet passport, ISO microchip and up-to-date rabies vaccination for all pets; dogs must be leashed in public places and a muzzle should be available on public transport.`,
+        `Several veterinary clinics operate in Bibione and the neighbouring towns of San Michele al Tagliamento and Latisana, ask locally on arrival about emergency on-call hours.`,
+      ],
+      es: [
+        `Número de emergencias único en Italia: 112 (policía, bomberos, ambulancia).`,
+        `Aeropuertos más cercanos: Venecia-Marco Polo (VCE) y Trieste (TRS), ambos a unos 90 minutos por carretera; la estación de tren más próxima es Latisana-Lignano-Bibione, conectada por autobús.`,
+        `Clima mediterráneo: veranos calurosos y húmedos (30 °C o más durante el día), el mar poco profundo se calienta rápido, aclara al perro con agua dulce tras el baño.`,
+        `Italia exige pasaporte europeo, microchip ISO y vacuna antirrábica al día para toda mascota; los perros deben ir con correa en lugares públicos y hay que llevar bozal disponible en el transporte.`,
+        `Hay varias clínicas veterinarias en Bibione y en los municipios vecinos de San Michele al Tagliamento y Latisana, pregunta al llegar por las guardias de urgencia.`,
+      ],
+      pt: [
+        `Número de emergência único em Itália: 112 (polícia, bombeiros, ambulância).`,
+        `Aeroportos mais próximos: Veneza-Marco Polo (VCE) e Trieste (TRS), ambos a cerca de 90 minutos por estrada; a estação de comboios mais próxima é Latisana-Lignano-Bibione, ligada por autocarro.`,
+        `Clima mediterrânico: verões quentes e húmidos (30 °C ou mais durante o dia), o mar pouco profundo aquece depressa, enxagúe o cão com água doce depois do banho.`,
+        `A Itália exige passaporte europeu, microchip ISO e vacina antirrábica em dia para qualquer animal; os cães devem andar com trela em locais públicos e há que ter açaime disponível no transporte.`,
+        `Existem várias clínicas veterinárias em Bibione e nos municípios vizinhos de San Michele al Tagliamento e Latisana, pergunte à chegada pelos horários de urgência.`,
+      ],
+    },
+  },
+
   bilbao: {
     history: {
       fr: `Bilbao a connu l'une des transformations urbaines les plus spectaculaires d'Europe. Fondée en 1300 sur les rives de la Nervión, la ville devint au XIXe siècle un géant industriel de l'acier et de la marine marchande basque, une prospérité qui laissa un héritage de pollution et de désindustrialisation. La renaissance commença avec l'ouverture du musée Guggenheim en 1997, conçu par Frank Gehry : un pari audacieux qui attira des millions de visiteurs et métamorphosa l'ancienne zone portuaire em un quartier culturel de renommée mondiale. Aujourd'hui, Bilbao est une ville compacte et fière de son identité basque, célèbre pour sa gastronomie, ses bars à pintxos et son amour déclaré des chiens, le tourisme canin est activement promu par les autorités régionales du Pays Basque.`,
@@ -4899,6 +5036,143 @@ const cityContent: Record<string, CityContent> = {
         `Clínica veterinária de referência: Vet Klinika Lesce (Alpska cesta 49, Lesce, a 4 km), linha principal +386 4 537 7100, urgência fora de horas +386 51 645 409. Referência 24h: KMŽ Small Animal Clinic Ljubljana (+386 30 716 190, a 55 km).`,
         `Clima alpino continental: verão 19-22 graus Celsius (junho-agosto), banho no lago a 22-26 graus Celsius à superfície; inverno 0 a 2 graus Celsius com neve fiável de dezembro a março, duas estâncias de esqui (Krvavec, Vogel) a 30 a 50 km. Melhor época canina: maio, junho, setembro.`,
         `A Eslovénia é membro da UE, passaporte europeu para animais com vacina antirrábica em dia e microchip ISO é suficiente. O Parque Nacional do Triglav aplica regra estrita de trela de abril a outubro.`,
+      ],
+    },
+  },
+
+  bodrum: {
+    history: {
+      fr: `Bodrum occupe le site de l'antique Halicarnasse, cité carienne où naquit l'historien Hérodote et où le roi Mausole fit édifier au IVe siècle avant notre ère son tombeau monumental, le Mausolée, l'une des Sept Merveilles du monde antique. Au XVe siècle, les Chevaliers de Saint-Jean réemployèrent ses pierres pour bâtir le château de Saint-Pierre, qui garde encore l'entrée du port. Longtemps modeste ville de pêcheurs et de plongeurs d'éponges sur la côte égéenne de la province de Muğla, Bodrum s'est transformée à partir des années 1970 en l'une des stations balnéaires les plus prisées de Turquie, surnommée le Saint-Tropez turc. Aujourd'hui, sa marina, ses maisons blanches à bougainvillées, sa vie nocturne animée et les criques de la péninsule attirent une foule cosmopolite. Voyager avec un chien y demande de la prudence: la chaleur estivale est intense et la plupart des plages aménagées restreignent l'accès aux animaux.`,
+      en: `Bodrum stands on the site of ancient Halicarnassus, the Carian city that gave birth to the historian Herodotus and where King Mausolus raised his monumental tomb in the 4th century BC, the Mausoleum, one of the Seven Wonders of the ancient world. In the 15th century the Knights of St John reused its stones to build the Castle of St Peter, which still guards the harbour entrance. Long a modest town of fishermen and sponge divers on the Aegean coast of Muğla province, Bodrum transformed from the 1970s into one of Turkey's most fashionable beach resorts, nicknamed the Turkish Saint-Tropez. Today its marina, whitewashed bougainvillea-draped houses, lively nightlife and the coves of the peninsula draw a cosmopolitan crowd. Travelling here with a dog calls for care: summer heat is intense and most developed beaches restrict animal access.`,
+      es: `Bodrum se alza sobre el emplazamiento de la antigua Halicarnaso, ciudad caria que vio nacer al historiador Heródoto y donde el rey Mausolo erigió en el siglo IV a. C. su tumba monumental, el Mausoleo, una de las Siete Maravillas del mundo antiguo. En el siglo XV, los Caballeros de San Juan reutilizaron sus piedras para levantar el castillo de San Pedro, que aún custodia la entrada del puerto. Durante mucho tiempo un modesto pueblo de pescadores y buscadores de esponjas en la costa egea de la provincia de Muğla, Bodrum se transformó a partir de los años setenta en una de las estaciones balnearias más de moda de Turquía, apodada el Saint-Tropez turco. Hoy su marina, sus casas blancas cubiertas de buganvillas, su animada vida nocturna y las calas de la península atraen a un público cosmopolita. Viajar aquí con un perro exige prudencia: el calor estival es intenso y la mayoría de las playas urbanizadas restringen el acceso a los animales.`,
+      pt: `Bodrum ergue-se sobre o local da antiga Halicarnasso, cidade cária que viu nascer o historiador Heródoto e onde o rei Mausolo mandou erguer no século IV a. C. o seu túmulo monumental, o Mausoléu, uma das Sete Maravilhas do mundo antigo. No século XV, os Cavaleiros de São João reutilizaram as suas pedras para levantar o castelo de São Pedro, que ainda guarda a entrada do porto. Durante muito tempo uma modesta vila de pescadores e apanhadores de esponjas na costa egeia da província de Muğla, Bodrum transformou-se a partir dos anos setenta numa das estâncias balneares mais na moda da Turquia, apelidada de Saint-Tropez turco. Hoje a sua marina, as suas casas brancas cobertas de buganvílias, a animada vida noturna e as enseadas da península atraem um público cosmopolita. Viajar aqui com um cão exige prudência: o calor estival é intenso e a maioria das praias urbanizadas restringe o acesso aos animais.`,
+    },
+    sights: [
+      {
+        name: `Bodrum Kalesi (Castle of St Peter)`,
+        emoji: `🏰`,
+        petFriendly: false,
+        desc: {
+          fr: `La forteresse des Chevaliers de Saint-Jean, bâtie au XVe siècle à l'entrée du port et abritant aujourd'hui le musée d'Archéologie sous-marine. Les animaux ne sont pas admis dans l'enceinte muséale, mais la promenade du port qui la contourne se fait volontiers en laisse.`,
+          en: `The 15th-century fortress of the Knights of St John, built at the harbour entrance and now home to the Museum of Underwater Archaeology. Pets are not allowed inside the museum grounds, but the harbourside promenade that skirts it is easily walked on leash.`,
+          es: `La fortaleza de los Caballeros de San Juan, construida en el siglo XV a la entrada del puerto y que hoy alberga el Museo de Arqueología Submarina. No se admiten animales en el recinto del museo, pero el paseo del puerto que lo bordea se recorre bien con correa.`,
+          pt: `A fortaleza dos Cavaleiros de São João, construída no século XV à entrada do porto e que hoje alberga o Museu de Arqueologia Subaquática. Não são admitidos animais no recinto do museu, mas o passeio do porto que o contorna percorre-se bem com trela.`,
+        },
+      },
+      {
+        name: `Mausoleum at Halicarnassus`,
+        emoji: `🏛️`,
+        petFriendly: false,
+        desc: {
+          fr: `Les vestiges du tombeau monumental du roi Mausole, l'une des Sept Merveilles du monde antique, aujourd'hui un site archéologique à ciel ouvert au cœur de la ville. Comme sur les sites antiques protégés de Turquie, les chiens n'y sont généralement pas admis.`,
+          en: `The remains of King Mausolus's monumental tomb, one of the Seven Wonders of the ancient world, now an open-air archaeological site in the heart of town. As at Turkey's protected ancient sites, dogs are generally not permitted inside.`,
+          es: `Los restos de la tumba monumental del rey Mausolo, una de las Siete Maravillas del mundo antiguo, hoy un yacimiento arqueológico al aire libre en pleno centro. Como en los sitios antiguos protegidos de Turquía, los perros no suelen estar permitidos en el recinto.`,
+          pt: `Os restos do túmulo monumental do rei Mausolo, uma das Sete Maravilhas do mundo antigo, hoje um sítio arqueológico ao ar livre no centro da cidade. Tal como nos sítios antigos protegidos da Turquia, os cães geralmente não são permitidos no recinto.`,
+        },
+      },
+      {
+        name: `Bodrum Marina`,
+        emoji: `⛵`,
+        petFriendly: true,
+        desc: {
+          fr: `Le port de plaisance et le front de mer animé, bordés de yachts, de cafés et de la fameuse Bar Street. La longue promenade en bord de quai se prête bien à une balade en laisse en soirée, quand la chaleur retombe.`,
+          en: `The yacht harbour and lively waterfront, lined with sailing boats, cafés and the famous Bar Street. The long quayside promenade is well suited to an evening leashed stroll once the heat eases.`,
+          es: `El puerto deportivo y el animado paseo marítimo, flanqueados por yates, cafés y la famosa Bar Street. El largo paseo junto al muelle es ideal para una vuelta con correa al atardecer, cuando baja el calor.`,
+          pt: `O porto de recreio e a animada marginal, ladeados por iates, cafés e a famosa Bar Street. O longo passeio junto ao cais é ideal para uma volta com trela ao entardecer, quando o calor abranda.`,
+        },
+      },
+      {
+        name: `Bodrum Yel Değirmenleri (Windmills)`,
+        emoji: `🌬️`,
+        petFriendly: true,
+        desc: {
+          fr: `Les moulins à vent en pierre alignés sur la crête entre Bodrum et Gümbet, vestiges de l'époque ottomane où l'on y moulait le grain. Le site en plein air offre une vue panoramique sur les deux baies et se visite en laisse, de préférence au coucher du soleil.`,
+          en: `The row of stone windmills perched on the ridge between Bodrum and Gümbet, relics of Ottoman times when grain was milled here. The open-air site offers a panoramic view over both bays and can be visited on leash, ideally at sunset.`,
+          es: `Los molinos de viento de piedra alineados en la loma entre Bodrum y Gümbet, vestigios de la época otomana en que allí se molía el grano. El enclave al aire libre ofrece una vista panorámica de las dos bahías y se visita con correa, preferiblemente al atardecer.`,
+          pt: `Os moinhos de vento de pedra alinhados na crista entre Bodrum e Gümbet, vestígios da época otomana em que ali se moía o grão. O local ao ar livre oferece uma vista panorâmica sobre as duas baías e visita-se com trela, de preferência ao pôr do sol.`,
+        },
+      },
+      {
+        name: `Gümbet Beach`,
+        emoji: `🏖️`,
+        petFriendly: false,
+        desc: {
+          fr: `La grande plage de sable la plus proche de Bodrum, très fréquentée et bordée de clubs et de sports nautiques. Comme la plupart des plages aménagées de la station, elle restreint l'accès aux chiens en pleine saison, mieux vaut viser une crique tranquille hors des zones surveillées.`,
+          en: `The large sandy beach closest to Bodrum, busy and lined with clubs and watersports. Like most developed resort beaches, it restricts dog access in high season, so aim instead for a quiet cove away from the managed areas.`,
+          es: `La gran playa de arena más cercana a Bodrum, muy concurrida y flanqueada por clubes y deportes acuáticos. Como la mayoría de las playas urbanizadas de la estación, restringe el acceso a los perros en plena temporada, mejor buscar una cala tranquila fuera de las zonas vigiladas.`,
+          pt: `A grande praia de areia mais próxima de Bodrum, muito concorrida e ladeada por clubes e desportos aquáticos. Como a maioria das praias urbanizadas da estância, restringe o acesso aos cães em plena época, mais vale procurar uma enseada tranquila fora das zonas vigiadas.`,
+        },
+      },
+      {
+        name: `Bitez Bay`,
+        emoji: `🌊`,
+        petFriendly: false,
+        desc: {
+          fr: `Une baie plus paisible à l'ouest de Bodrum, réputée pour ses tamaris, ses mandariniers et la planche à voile. Sa plage aménagée limite l'accès des chiens, mais les extrémités moins fréquentées tolèrent parfois un chien en laisse hors saison.`,
+          en: `A quieter bay west of Bodrum, known for its tamarisk trees, tangerine groves and windsurfing. Its managed beach limits dog access, though the less crowded far ends sometimes tolerate a leashed dog off-season.`,
+          es: `Una bahía más tranquila al oeste de Bodrum, famosa por sus tamariscos, sus mandarinos y el windsurf. Su playa acondicionada limita el acceso de los perros, aunque los extremos menos concurridos toleran a veces un perro con correa fuera de temporada.`,
+          pt: `Uma baía mais tranquila a oeste de Bodrum, conhecida pelos seus tamargueiras, laranjeiras-tangerineiras e o windsurf. A sua praia ordenada limita o acesso dos cães, embora as extremidades menos concorridas tolerem por vezes um cão com trela fora de época.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Chaleur extrême en été: les températures dépassent souvent 35 °C de juin à septembre et le trottoir comme le sable deviennent brûlants, promenez votre chien à l'aube ou après la tombée de la nuit et testez le sol avec la main.`,
+        `Emportez toujours de l'eau en quantité, l'ombre est rare et le risque de coup de chaleur est élevé sur cette côte égéenne aride.`,
+        `La Turquie n'est pas dans l'Union européenne: pour rentrer dans l'UE avec votre chien, il faut une puce ISO, un vaccin antirabique valide et un test sérologique de titrage des anticorps antirabiques fait avant le départ, anticipez plusieurs mois.`,
+        `Bodrum compte des chiens errants: beaucoup portent une étiquette à l'oreille attestant qu'ils sont vaccinés et stérilisés dans le cadre du programme municipal, ils sont généralement calmes mais tenez votre chien en laisse pour éviter les conflits.`,
+        `La plupart des plages aménagées interdisent les chiens en haute saison, renseignez-vous localement et privilégiez les criques tranquilles de la péninsule, tôt le matin.`,
+      ],
+      en: [
+        `Extreme summer heat: temperatures often top 35 °C from June to September and both pavement and sand turn scorching, walk your dog at dawn or after dark and test the ground with your hand.`,
+        `Always carry plenty of water, shade is scarce and the risk of heatstroke is high on this arid Aegean coast.`,
+        `Turkey is not in the European Union: to return to the EU with your dog you need an ISO microchip, valid rabies vaccination and a rabies antibody titre test done before departure, plan several months ahead.`,
+        `Bodrum has free-roaming stray dogs: many wear an ear tag showing they are vaccinated and neutered under the municipal programme, they are usually calm but keep your dog leashed to avoid conflict.`,
+        `Most developed beaches ban dogs in high season, ask locally and favour the peninsula's quiet coves early in the morning.`,
+      ],
+      es: [
+        `Calor extremo en verano: las temperaturas superan a menudo los 35 °C de junio a septiembre y tanto la acera como la arena se vuelven abrasadoras, pasea al perro al amanecer o de noche y comprueba el suelo con la mano.`,
+        `Lleva siempre agua en abundancia, la sombra escasea y el riesgo de golpe de calor es alto en esta árida costa egea.`,
+        `Turquía no está en la Unión Europea: para regresar a la UE con tu perro necesitas microchip ISO, vacuna antirrábica vigente y una prueba serológica de titulación de anticuerpos antirrábicos hecha antes de salir, planifícalo con varios meses de antelación.`,
+        `Bodrum tiene perros callejeros: muchos llevan una etiqueta en la oreja que acredita que están vacunados y esterilizados dentro del programa municipal, suelen ser tranquilos pero mantén a tu perro con correa para evitar conflictos.`,
+        `La mayoría de las playas urbanizadas prohíben los perros en temporada alta, infórmate en la zona y prioriza las calas tranquilas de la península a primera hora.`,
+      ],
+      pt: [
+        `Calor extremo no verão: as temperaturas ultrapassam muitas vezes os 35 °C de junho a setembro e tanto o passeio como a areia ficam escaldantes, passeie o cão ao amanhecer ou depois de anoitecer e teste o chão com a mão.`,
+        `Leve sempre água em abundância, a sombra é escassa e o risco de insolação é elevado nesta árida costa egeia.`,
+        `A Turquia não está na União Europeia: para regressar à UE com o seu cão precisa de microchip ISO, vacina antirrábica válida e um teste serológico de titulação de anticorpos antirrábicos feito antes da partida, planeie com vários meses de antecedência.`,
+        `Bodrum tem cães errantes: muitos usam uma etiqueta na orelha que comprova que estão vacinados e esterilizados no âmbito do programa municipal, costumam ser calmos mas mantenha o seu cão com trela para evitar conflitos.`,
+        `A maioria das praias urbanizadas proíbe cães em época alta, informe-se localmente e prefira as enseadas tranquilas da península de manhã cedo.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Turquie: 112 (police, pompiers, ambulance).`,
+        `Aéroport le plus proche: Milas-Bodrum (BJV), à environ 35 km du centre; l'entrée en Turquie avec un animal requiert un certificat vétérinaire et une vaccination antirabique à jour.`,
+        `Climat méditerranéen chaud et sec: étés longs et torrides (35 °C et plus), hivers doux; la mi-saison (mai, juin, septembre, octobre) est bien plus confortable pour voyager avec un chien.`,
+        `Pour un retour dans l'Union européenne, prévoyez le test sérologique antirabique bien à l'avance, il doit être réalisé au moins 30 jours après la vaccination et 3 mois avant le voyage.`,
+        `Des cliniques vétérinaires privées sont présentes à Bodrum et dans les stations voisines de Gümbet, Bitez et Turgutreis, demandez à votre hébergement le vétérinaire de garde le plus proche.`,
+      ],
+      en: [
+        `Single emergency number in Turkey: 112 (police, fire, ambulance).`,
+        `Nearest airport: Milas-Bodrum (BJV), about 35 km from the centre; entering Turkey with a pet requires a veterinary certificate and up-to-date rabies vaccination.`,
+        `Hot, dry Mediterranean climate: long, scorching summers (35 °C and above), mild winters; the shoulder seasons (May, June, September, October) are far more comfortable for travelling with a dog.`,
+        `For a return to the European Union, arrange the rabies antibody titre test well in advance, it must be done at least 30 days after vaccination and 3 months before travel.`,
+        `Private veterinary clinics operate in Bodrum and the neighbouring resorts of Gümbet, Bitez and Turgutreis, ask your accommodation for the nearest on-call vet.`,
+      ],
+      es: [
+        `Número de emergencias único en Turquía: 112 (policía, bomberos, ambulancia).`,
+        `Aeropuerto más cercano: Milas-Bodrum (BJV), a unos 35 km del centro; entrar en Turquía con una mascota exige un certificado veterinario y la vacuna antirrábica al día.`,
+        `Clima mediterráneo cálido y seco: veranos largos y tórridos (35 °C o más), inviernos suaves; la media temporada (mayo, junio, septiembre, octubre) es mucho más cómoda para viajar con perro.`,
+        `Para regresar a la Unión Europea, planifica con mucha antelación la prueba serológica antirrábica, debe hacerse al menos 30 días después de la vacuna y 3 meses antes del viaje.`,
+        `Hay clínicas veterinarias privadas en Bodrum y en las estaciones vecinas de Gümbet, Bitez y Turgutreis, pregunta en tu alojamiento por el veterinario de guardia más cercano.`,
+      ],
+      pt: [
+        `Número de emergência único na Turquia: 112 (polícia, bombeiros, ambulância).`,
+        `Aeroporto mais próximo: Milas-Bodrum (BJV), a cerca de 35 km do centro; entrar na Turquia com um animal exige um certificado veterinário e a vacina antirrábica em dia.`,
+        `Clima mediterrânico quente e seco: verões longos e tórridos (35 °C ou mais), invernos amenos; a meia-estação (maio, junho, setembro, outubro) é muito mais confortável para viajar com cão.`,
+        `Para regressar à União Europeia, planeie com muita antecedência o teste serológico antirrábico, deve ser feito pelo menos 30 dias após a vacina e 3 meses antes da viagem.`,
+        `Existem clínicas veterinárias privadas em Bodrum e nas estâncias vizinhas de Gümbet, Bitez e Turgutreis, pergunte no seu alojamento pelo veterinário de urgência mais próximo.`,
       ],
     },
   },

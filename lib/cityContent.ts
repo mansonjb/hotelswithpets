@@ -20835,6 +20835,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'la-spezia': {
+    history: {
+      fr: `La Spezia s'ouvre au fond du golfe des Poètes, cette profonde baie ligure qui enchanta tant Byron et Shelley qu'elle en prit leur nom. Longtemps modeste ville de pêcheurs, elle devint au XIXᵉ siècle la principale base navale de l'Italie, et son grand arsenal comme son port militaire marquent encore la cité. La plupart des voyageurs la connaissent surtout comme la porte des Cinque Terre, dont les cinq villages accrochés à la falaise se rejoignent en quelques minutes de train le long de la côte. Mais La Spezia mérite qu'on s'y arrête : la promenade Morin bordée de palmiers et ses jardins publics face à la mer, le château San Giorgio sur sa colline, le marché couvert animé et l'élégante marina de Porto Mirabello. Avec un chien, c'est une base idéale, trains régionaux, ferries et sentiers côtiers accessibles en laisse, Portovenere et Lerici à un saut de l'autre côté du golfe.`,
+      en: `La Spezia sits at the head of the Gulf of Poets, the deep Ligurian bay that so enchanted Byron and Shelley that it took their name. Long a quiet fishing town, it became Italy's principal naval base in the 19th century, and its great arsenal and military harbour still shape the city. Today most travellers know it as the gateway to the Cinque Terre, whose five cliff villages lie a short train ride up the coast. But La Spezia rewards a stay in its own right: the palm-lined Morin promenade and public gardens along the waterfront, the hilltop Castello San Giorgio, the lively covered market and the smart Porto Mirabello marina. For a traveller with a dog it makes an ideal base, with regional trains, ferries and coastal trails all reachable on lead, and Portovenere and Lerici just a short hop across the gulf.`,
+      es: `La Spezia se abre al fondo del golfo de los Poetas, la profunda bahía ligur que tanto enamoró a Byron y Shelley que acabó llevando su nombre. Durante mucho tiempo una modesta villa de pescadores, en el siglo XIX se convirtió en la principal base naval de Italia, y su gran arsenal y su puerto militar siguen marcando la ciudad. Hoy la mayoría de los viajeros la conocen como la puerta de las Cinque Terre, cuyos cinco pueblos colgados del acantilado se alcanzan en pocos minutos de tren por la costa. Pero La Spezia merece una parada en sí misma: el paseo Morin bordeado de palmeras y sus jardines públicos frente al mar, el castillo San Giorgio sobre su colina, el animado mercado cubierto y la elegante marina de Porto Mirabello. Con un perro es una base ideal, con trenes regionales, ferris y senderos costeros accesibles con correa, y Portovenere y Lerici a un salto al otro lado del golfo.`,
+      pt: `La Spezia abre-se ao fundo do golfo dos Poetas, a profunda baía lígure que tanto encantou Byron e Shelley que acabou por herdar o seu nome. Durante muito tempo uma modesta vila piscatória, tornou-se no século XIX a principal base naval de Itália, e o seu grande arsenal e porto militar ainda marcam a cidade. Hoje a maioria dos viajantes conhece-a como a porta das Cinque Terre, cujas cinco aldeias agarradas à falésia se alcançam em poucos minutos de comboio ao longo da costa. Mas La Spezia merece uma paragem por si só: o passeio Morin ladeado de palmeiras e os seus jardins públicos frente ao mar, o castelo San Giorgio na sua colina, o animado mercado coberto e a elegante marina de Porto Mirabello. Com um cão é uma base ideal, com comboios regionais, ferries e trilhos costeiros acessíveis com trela, e Portovenere e Lerici a um salto do outro lado do golfo.`,
+    },
+    sights: [
+      {
+        name: `Passeggiata Morin e Giardini Pubblici`,
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `Le front de mer de La Spezia déroule une longue promenade bordée de palmiers et de jardins publics, face à la marina et aux montagnes du golfe. Les chiens en laisse y sont les bienvenus et c'est la balade quotidienne idéale, à l'ombre aux heures chaudes. Ramassez toujours et prévoyez de l'eau en été.`,
+          en: `La Spezia's waterfront unfolds a long promenade lined with palms and public gardens, facing the marina and the mountains of the gulf. Leashed dogs are welcome and it makes the ideal daily walk, shaded during the hot hours. Always clean up and carry water in summer.`,
+          es: `El frente marítimo de La Spezia despliega un largo paseo bordeado de palmeras y jardines públicos, frente a la marina y las montañas del golfo. Los perros con correa son bienvenidos y es el paseo diario ideal, con sombra en las horas de calor. Recoge siempre y lleva agua en verano.`,
+          pt: `A frente-mar de La Spezia desenrola um longo passeio ladeado de palmeiras e jardins públicos, frente à marina e às montanhas do golfo. Os cães com trela são bem-vindos e é o passeio diário ideal, com sombra nas horas de calor. Recolha sempre e leve água no verão.`,
+        },
+      },
+      {
+        name: `Castello San Giorgio`,
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `Cette forteresse médiévale domine la vieille ville et abrite le musée archéologique civique, riche en stèles de la culture lunigianaise. L'intérieur du musée n'admet pas les chiens, mais la montée pavée et la terrasse offrent une belle vue sur le golfe en laisse. Un bon prétexte à une promenade en hauteur.`,
+          en: `This medieval fortress crowns the old town and houses the civic archaeological museum, rich in statue-steles of the Lunigiana culture. The museum interior does not admit dogs, but the cobbled climb and the terrace give a fine view over the gulf on lead. A good excuse for a walk up high.`,
+          es: `Esta fortaleza medieval corona el casco antiguo y alberga el museo arqueológico cívico, rico en estelas de la cultura de la Lunigiana. El interior del museo no admite perros, pero la subida empedrada y la terraza ofrecen una hermosa vista del golfo con correa. Una buena excusa para un paseo en alto.`,
+          pt: `Esta fortaleza medieval coroa a cidade velha e alberga o museu arqueológico cívico, rico em estelas da cultura da Lunigiana. O interior do museu não admite cães, mas a subida calcetada e o terraço oferecem uma bela vista do golfo com trela. Um bom pretexto para um passeio em altura.`,
+        },
+      },
+      {
+        name: `Porto Mirabello`,
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `La marina de luxe de La Spezia aligne yachts, boutiques et terrasses au bord de l'eau, à deux pas du centre. On s'y promène en laisse le long des quais, et plusieurs cafés acceptent volontiers les chiens. Le point de départ de nombreuses excursions en bateau vers Portovenere et les Cinque Terre.`,
+          en: `La Spezia's upscale marina lines up yachts, shops and waterside terraces, a short walk from the centre. You stroll the quays on lead, and several cafes happily welcome dogs. It is the departure point for many boat trips to Portovenere and the Cinque Terre.`,
+          es: `La marina de lujo de La Spezia alinea yates, tiendas y terrazas junto al agua, a pocos pasos del centro. Se pasea con correa por los muelles y varios cafés acogen de buen grado a los perros. Es el punto de partida de muchas excursiones en barco a Portovenere y las Cinque Terre.`,
+          pt: `A marina de luxo de La Spezia alinha iates, lojas e esplanadas junto à água, a poucos passos do centro. Passeia-se com trela pelos cais e vários cafés acolhem de bom grado os cães. É o ponto de partida de muitas excursões de barco a Portovenere e às Cinque Terre.`,
+        },
+      },
+      {
+        name: `Cinque Terre`,
+        emoji: '🚆',
+        petFriendly: true,
+        desc: {
+          fr: `Les cinq villages colorés de Riomaggiore, Manarola, Corniglia, Vernazza et Monterosso se rejoignent en quelques minutes de train régional depuis La Spezia. Les chiens sont admis dans les trains et sur les sentiers du CAI en laisse, mais certains chemins sont raides et étroits, et une carte de sentier peut être exigée. Évitez la mi-journée en été.`,
+          en: `The five colourful villages of Riomaggiore, Manarola, Corniglia, Vernazza and Monterosso are minutes apart by regional train from La Spezia. Dogs are allowed on the trains and on the CAI trails on lead, but some paths are steep and narrow, and a trail card may be required. Avoid the middle of the day in summer.`,
+          es: `Los cinco pueblos de colores de Riomaggiore, Manarola, Corniglia, Vernazza y Monterosso están a minutos en tren regional desde La Spezia. Los perros se admiten en los trenes y en los senderos del CAI con correa, pero algunos caminos son empinados y estrechos, y puede exigirse una tarjeta de sendero. Evita el mediodía en verano.`,
+          pt: `As cinco aldeias coloridas de Riomaggiore, Manarola, Corniglia, Vernazza e Monterosso ficam a minutos de comboio regional desde La Spezia. Os cães são admitidos nos comboios e nos trilhos do CAI com trela, mas alguns caminhos são íngremes e estreitos, e pode ser exigido um cartão de trilho. Evite o meio do dia no verão.`,
+        },
+      },
+      {
+        name: `Portovenere`,
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `À la pointe ouest du golfe, ce bourg classé à l'UNESCO aligne ses maisons-tours colorées sous l'église San Pietro plantée sur son promontoire rocheux. On y accède en bus ou en ferry depuis La Spezia, chiens admis, et la promenade du bord de mer jusqu'à la grotte de Byron se fait en laisse. Vues spectaculaires sur les îles Palmaria et Tino.`,
+          en: `At the western tip of the gulf, this UNESCO-listed town lines up its colourful tower-houses beneath the church of San Pietro set on its rocky headland. Reach it by bus or ferry from La Spezia, dogs allowed, and the seafront walk to Byron's Grotto is done on lead. Spectacular views over the islands of Palmaria and Tino.`,
+          es: `En la punta occidental del golfo, esta villa declarada Patrimonio de la Humanidad alinea sus casas-torre de colores bajo la iglesia de San Pietro asentada en su promontorio rocoso. Se llega en autobús o ferri desde La Spezia, con perros admitidos, y el paseo marítimo hasta la gruta de Byron se hace con correa. Vistas espectaculares de las islas Palmaria y Tino.`,
+          pt: `Na ponta ocidental do golfo, esta vila classificada pela UNESCO alinha as suas casas-torre coloridas sob a igreja de San Pietro assente no seu promontório rochoso. Chega-se de autocarro ou ferry desde La Spezia, com cães admitidos, e o passeio marítimo até à gruta de Byron faz-se com trela. Vistas espetaculares sobre as ilhas Palmaria e Tino.`,
+        },
+      },
+      {
+        name: `Lerici`,
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Sur la rive orientale du golfe des Poètes, Lerici marie château médiéval, criques et villas où séjournèrent les poètes romantiques anglais. Bus ou ferry depuis La Spezia, chiens admis à bord, puis balade en laisse le long du port et jusqu'à San Terenzo. En été, l'accès des chiens aux plages surveillées est restreint : visez les heures fraîches.`,
+          en: `On the eastern shore of the Gulf of Poets, Lerici blends a medieval castle, coves and the villas where the English Romantic poets stayed. Bus or ferry from La Spezia, dogs allowed aboard, then a leashed stroll along the harbour and on to San Terenzo. In summer, dog access to supervised beaches is restricted: aim for the cooler hours.`,
+          es: `En la orilla oriental del golfo de los Poetas, Lerici combina castillo medieval, calas y las villas donde se alojaron los poetas románticos ingleses. Autobús o ferri desde La Spezia, con perros admitidos a bordo, y luego paseo con correa por el puerto y hasta San Terenzo. En verano, el acceso de los perros a las playas vigiladas está restringido: apunta a las horas frescas.`,
+          pt: `Na margem oriental do golfo dos Poetas, Lerici combina castelo medieval, enseadas e as vilas onde ficaram os poetas românticos ingleses. Autocarro ou ferry desde La Spezia, com cães admitidos a bordo, e depois passeio com trela pelo porto e até San Terenzo. No verão, o acesso dos cães às praias vigiadas é restrito: aposte nas horas frescas.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Sur Trenitalia (trains régionaux vers les Cinque Terre), les petits chiens en sac de transport voyagent gratuitement ; les grands chiens tenus en laisse doivent porter la muselière et un billet à tarif réduit (environ 50%).`,
+        `Sur les sentiers des Cinque Terre, les chiens sont admis en laisse mais certains tronçons sont raides, étroits et à flanc de falaise ; une carte de sentier (Cinque Terre Trekking Card) peut être exigée et certains chemins ferment après les pluies.`,
+        `Les étés ligures sont chauds et humides : marchez tôt le matin ou en fin de journée, testez la température du bitume et des rochers avec la main, et emportez toujours de l'eau.`,
+        `En août, les villages et les quais de gare des Cinque Terre sont bondés et les plateformes très étroites ; gardez votre chien en laisse courte au milieu de la foule.`,
+        `Les ferries du golfe des Poètes (Portovenere, Lerici, Palmaria) acceptent les chiens en laisse ; en été, l'accès des chiens aux plages surveillées est souvent limité aux heures creuses.`,
+      ],
+      en: [
+        `On Trenitalia (regional trains to the Cinque Terre), small dogs in a carrier travel free; large dogs on a lead must wear a muzzle and hold a reduced-fare ticket (about 50%).`,
+        `On the Cinque Terre trails, dogs are allowed on lead but some sections are steep, narrow and cliff-edged; a trail card (Cinque Terre Trekking Card) may be required and some paths close after rain.`,
+        `Ligurian summers are hot and humid: walk early morning or late afternoon, test the tarmac and rocks with your hand, and always carry water.`,
+        `In August the Cinque Terre villages and station platforms are packed and very narrow; keep your dog on a short lead in the crowds.`,
+        `The Gulf of Poets ferries (Portovenere, Lerici, Palmaria) accept dogs on lead; in summer, dog access to supervised beaches is often limited to off-peak hours.`,
+      ],
+      es: [
+        `En Trenitalia (trenes regionales a las Cinque Terre), los perros pequeños en transportín viajan gratis; los grandes con correa deben llevar bozal y un billete a tarifa reducida (en torno al 50%).`,
+        `En los senderos de las Cinque Terre, los perros se admiten con correa pero algunos tramos son empinados, estrechos y al borde del acantilado; puede exigirse una tarjeta de sendero (Cinque Terre Trekking Card) y algunos caminos cierran tras las lluvias.`,
+        `Los veranos ligures son calurosos y húmedos: pasea temprano o al final del día, comprueba con la mano la temperatura del asfalto y las rocas, y lleva siempre agua.`,
+        `En agosto los pueblos y los andenes de las Cinque Terre están abarrotados y son muy estrechos; mantén a tu perro con correa corta entre la multitud.`,
+        `Los ferris del golfo de los Poetas (Portovenere, Lerici, Palmaria) admiten perros con correa; en verano, el acceso de los perros a las playas vigiladas suele limitarse a las horas de menor afluencia.`,
+      ],
+      pt: [
+        `Na Trenitalia (comboios regionais para as Cinque Terre), os cães pequenos em caixa de transporte viajam de graça; os grandes com trela devem usar açaime e ter um bilhete de tarifa reduzida (cerca de 50%).`,
+        `Nos trilhos das Cinque Terre, os cães são admitidos com trela mas alguns troços são íngremes, estreitos e à beira da falésia; pode ser exigido um cartão de trilho (Cinque Terre Trekking Card) e alguns caminhos fecham após as chuvas.`,
+        `Os verões lígures são quentes e húmidos: passeie de manhã cedo ou ao fim do dia, teste com a mão a temperatura do alcatrão e das rochas, e leve sempre água.`,
+        `Em agosto as aldeias e as plataformas das estações das Cinque Terre estão apinhadas e são muito estreitas; mantenha o cão com trela curta no meio da multidão.`,
+        `Os ferries do golfo dos Poetas (Portovenere, Lerici, Palmaria) admitem cães com trela; no verão, o acesso dos cães às praias vigiadas é muitas vezes limitado às horas de menor movimento.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence européen : 112, valable dans toute l'Italie`,
+        `Cliniques vétérinaires à La Spezia et dans la province ; votre hébergement pourra indiquer le service de garde en cas d'urgence nocturne`,
+        `Trains régionaux Trenitalia : petit chien en sac gratuit, grand chien muselé en laisse avec billet à tarif réduit`,
+        `Cinque Terre : carte de sentier parfois obligatoire, chiens en laisse admis sur les trains et les chemins du CAI`,
+        `Italie (UE) : passeport européen, puce et vaccin antirabique à jour ; pas de quarantaine ; aéroports de Pise et Gênes à environ 1h`,
+      ],
+      en: [
+        `European emergency number: 112, valid throughout Italy`,
+        `Veterinary clinics in La Spezia and the province; your accommodation can point you to the on-duty service for a night emergency`,
+        `Trenitalia regional trains: small dog in a carrier free, large dog muzzled on lead with a reduced-fare ticket`,
+        `Cinque Terre: a trail card is sometimes required, dogs on lead allowed on the trains and the CAI paths`,
+        `Italy (EU): EU pet passport, microchip and up-to-date rabies vaccination; no quarantine; Pisa and Genoa airports about 1h away`,
+      ],
+      es: [
+        `Número de emergencia europeo: 112, válido en toda Italia`,
+        `Clínicas veterinarias en La Spezia y la provincia; tu alojamiento podrá indicarte el servicio de guardia en caso de urgencia nocturna`,
+        `Trenes regionales Trenitalia: perro pequeño en transportín gratis, perro grande con bozal y correa con billete a tarifa reducida`,
+        `Cinque Terre: a veces se exige una tarjeta de sendero, perros con correa admitidos en los trenes y en los caminos del CAI`,
+        `Italia (UE): pasaporte europeo, microchip y vacuna antirrábica al día; sin cuarentena; aeropuertos de Pisa y Génova a alrededor de 1h`,
+      ],
+      pt: [
+        `Número de emergência europeu: 112, válido em toda a Itália`,
+        `Clínicas veterinárias em La Spezia e na província; o seu alojamento poderá indicar o serviço de urgência em caso de emergência noturna`,
+        `Comboios regionais Trenitalia: cão pequeno em caixa de transporte grátis, cão grande com açaime e trela com bilhete de tarifa reduzida`,
+        `Cinque Terre: por vezes é exigido um cartão de trilho, cães com trela admitidos nos comboios e nos caminhos do CAI`,
+        `Itália (UE): passaporte europeu, microchip e vacina antirrábica em dia; sem quarentena; aeroportos de Pisa e Génova a cerca de 1h`,
+      ],
+    },
+  },
+
   ksamil: {
     history: {
       fr: `Petite station balnéaire de la Riviera albanaise, Ksamil s'étire à la pointe sud du pays, à quelques kilomètres de Saranda et face à l'île grecque de Corfou, dont on aperçoit les montagnes de l'autre côté du détroit. Longtemps village agricole planté d'oliviers et d'agrumes sous le régime communiste d'Enver Hoxha, la localité a explosé après 2000 avec l'ouverture touristique de l'Albanie. On la surnomme désormais les « Maldives albanaises » pour ses eaux turquoise et ses petits îlots que l'on rejoint à la nage. Juste au sud s'étend le site archéologique de Butrint, cité gréco-romaine classée au patrimoine mondial de l'UNESCO, l'un des plus beaux ensembles antiques des Balkans. Entre plages minuscules, ruines millénaires, sources et points de vue sur la mer Ionienne, Ksamil offre un décor spectaculaire pour voyager avec un chien, à condition de fuir la foule d'août et la chaleur estivale.`,
@@ -21208,6 +21345,143 @@ const cityContent: Record<string, CityContent> = {
         `Lojas de animais em Arrecife e nos centros comerciais; secções pet nos grandes supermercados das estâncias`,
         `Autocarros (guaguas): animais pequenos apenas em caixa de transporte; nos táxis a aceitação depende do motorista, avise ao reservar`,
         `Canárias: passaporte europeu, microchip e vacina antirrábica em dia; sem quarentena a partir da UE continental`,
+      ],
+    },
+  },
+
+  larnaca: {
+    history: {
+      fr: `Larnaca s'étire sur la côte sud-est de Chypre, autour de la baie où débarquèrent tant de marchands, de croisés et de pèlerins au fil des siècles. La ville revendique un héritage biblique : saint Lazare, ressuscité selon l'Évangile, y aurait fini ses jours comme évêque, et la belle église byzantine qui porte son nom veille toujours sur le vieux quartier. Au bord de l'eau, la promenade des Finikoudes déroule sa double rangée de palmiers face à la plage et aux terrasses. Au sud, le grand lac salé attire chaque hiver des nuées de flamants roses et abrite la mosquée Hala Sultan Tekke, l'un des lieux saints de l'islam. Entre l'aqueduc de Kamares, le fort médiéval et un climat doux presque toute l'année, Larnaca offre un cadre agréable pour voyager avec un chien, à condition de composer avec la chaleur estivale et les règles de plage saisonnières.`,
+      en: `Larnaca stretches along the south-east coast of Cyprus, around the bay where merchants, crusaders and pilgrims came ashore over the centuries. The town claims a biblical heritage: Saint Lazarus, raised from the dead in the Gospel, is said to have ended his days here as bishop, and the fine Byzantine church that bears his name still watches over the old quarter. Along the water, the Finikoudes promenade unrolls its double row of palms facing the beach and the terraces. To the south, the great Salt Lake draws clouds of flamingos each winter and shelters the Hala Sultan Tekke mosque, one of Islam's holy sites. Between the Kamares aqueduct, the medieval fort and a mild climate nearly all year, Larnaca makes a pleasant base for travelling with a dog, provided you work around the summer heat and the seasonal beach rules.`,
+      es: `Larnaca se extiende por la costa sureste de Chipre, en torno a la bahía donde desembarcaron mercaderes, cruzados y peregrinos a lo largo de los siglos. La ciudad reivindica una herencia bíblica: san Lázaro, resucitado según el Evangelio, habría acabado sus días aquí como obispo, y la hermosa iglesia bizantina que lleva su nombre sigue velando por el casco antiguo. Junto al agua, el paseo de las Finikoudes despliega su doble hilera de palmeras frente a la playa y las terrazas. Al sur, el gran lago salado atrae cada invierno nubes de flamencos y alberga la mezquita Hala Sultan Tekke, uno de los lugares santos del islam. Entre el acueducto de Kamares, el fuerte medieval y un clima suave casi todo el año, Larnaca ofrece un marco agradable para viajar con perro, siempre que se lidie con el calor estival y las normas de playa estacionales.`,
+      pt: `Larnaca estende-se pela costa sudeste de Chipre, em torno da baía onde desembarcaram mercadores, cruzados e peregrinos ao longo dos séculos. A cidade reivindica uma herança bíblica: São Lázaro, ressuscitado segundo o Evangelho, teria terminado os seus dias aqui como bispo, e a bela igreja bizantina que leva o seu nome ainda vela pelo bairro antigo. Junto à água, o passeio das Finikoudes desenrola a sua dupla fila de palmeiras frente à praia e às esplanadas. A sul, o grande lago salgado atrai a cada inverno nuvens de flamingos e abriga a mesquita Hala Sultan Tekke, um dos lugares santos do islão. Entre o aqueduto de Kamares, o forte medieval e um clima ameno quase todo o ano, Larnaca oferece um cenário agradável para viajar com um cão, desde que se contorne o calor estival e as regras de praia sazonais.`,
+    },
+    sights: [
+      {
+        name: `Finikoudes`,
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade emblématique de Larnaca borde la plage centrale de sa double rangée de palmiers, entre terrasses, cafés et la marina. Les chiens en laisse y sont les bienvenus pour la balade du soir, quand la chaleur retombe. En pleine journée d'été, préférez l'ombre et emportez de l'eau.`,
+          en: `Larnaca's signature promenade lines the central beach with its double row of palms, between terraces, cafes and the marina. Leashed dogs are welcome for the evening stroll, once the heat drops. In the middle of a summer day, favour the shade and carry water.`,
+          es: `El paseo emblemático de Larnaca bordea la playa central con su doble hilera de palmeras, entre terrazas, cafés y la marina. Los perros con correa son bienvenidos para el paseo del atardecer, cuando baja el calor. En pleno día de verano, opta por la sombra y lleva agua.`,
+          pt: `O passeio emblemático de Larnaca ladeia a praia central com a sua dupla fila de palmeiras, entre esplanadas, cafés e a marina. Os cães com trela são bem-vindos para o passeio do fim da tarde, quando o calor abranda. A meio de um dia de verão, prefira a sombra e leve água.`,
+        },
+      },
+      {
+        name: `Agios Lazaros`,
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `L'église Saint-Lazare, joyau byzantin du IXᵉ siècle, abrite selon la tradition le tombeau du saint ressuscité. Les chiens ne sont pas admis à l'intérieur de l'église ni dans sa crypte, mais la petite place pavée qui l'entoure se visite en laisse. Un arrêt incontournable du vieux Larnaca.`,
+          en: `The church of Saint Lazarus, a 9th-century Byzantine gem, holds by tradition the tomb of the risen saint. Dogs are not admitted inside the church or its crypt, but the small paved square around it can be visited on lead. An essential stop in old Larnaca.`,
+          es: `La iglesia de San Lázaro, joya bizantina del siglo IX, alberga según la tradición la tumba del santo resucitado. Los perros no se admiten dentro de la iglesia ni en su cripta, pero la pequeña plaza empedrada que la rodea se visita con correa. Una parada imprescindible del viejo Larnaca.`,
+          pt: `A igreja de São Lázaro, joia bizantina do século IX, guarda segundo a tradição o túmulo do santo ressuscitado. Os cães não são admitidos dentro da igreja nem na sua cripta, mas a pequena praça calcetada em redor visita-se com trela. Uma paragem incontornável da Larnaca antiga.`,
+        },
+      },
+      {
+        name: `Larnaca Salt Lake e Hala Sultan Tekke`,
+        emoji: '🦩',
+        petFriendly: true,
+        desc: {
+          fr: `Le grand lac salé au sud de la ville se couvre de flamants roses de novembre à mars, autour de la mosquée Hala Sultan Tekke nichée dans sa palmeraie. Un sentier fait le tour du lac : les chiens y sont admis en laisse, mais ne les laissez pas déranger les oiseaux. L'intérieur de la mosquée ne se visite pas avec un chien.`,
+          en: `The great Salt Lake south of the city fills with flamingos from November to March, around the Hala Sultan Tekke mosque set in its palm grove. A path circles the lake: dogs are allowed on lead, but do not let them disturb the birds. The interior of the mosque cannot be visited with a dog.`,
+          es: `El gran lago salado al sur de la ciudad se cubre de flamencos de noviembre a marzo, en torno a la mezquita Hala Sultan Tekke enclavada en su palmeral. Un sendero rodea el lago: los perros se admiten con correa, pero no dejes que molesten a las aves. El interior de la mezquita no se visita con perro.`,
+          pt: `O grande lago salgado a sul da cidade cobre-se de flamingos de novembro a março, em torno da mesquita Hala Sultan Tekke aninhada no seu palmeiral. Um trilho contorna o lago: os cães são admitidos com trela, mas não os deixe incomodar as aves. O interior da mesquita não se visita com um cão.`,
+        },
+      },
+      {
+        name: `Kamares`,
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `L'aqueduc de Kamares, aux arches de pierre construites au XVIIIᵉ siècle sous domination ottomane, alimenta la ville en eau jusqu'au XXᵉ siècle. On s'y promène librement en laisse le long des arcades, particulièrement belles éclairées à la tombée du jour. Une aire ouverte et dégagée, idéale pour une pause loin de la foule du front de mer.`,
+          en: `The Kamares aqueduct, its stone arches built in the 18th century under Ottoman rule, supplied the city with water into the 20th century. You can walk freely on lead along the arcades, especially beautiful lit up at dusk. An open, uncrowded space, ideal for a break away from the busy seafront.`,
+          es: `El acueducto de Kamares, con sus arcos de piedra construidos en el siglo XVIII bajo dominio otomano, abasteció de agua a la ciudad hasta el siglo XX. Se pasea libremente con correa a lo largo de las arcadas, especialmente bellas iluminadas al anochecer. Un espacio abierto y despejado, ideal para una pausa lejos del bullicio del paseo marítimo.`,
+          pt: `O aqueduto de Kamares, com os seus arcos de pedra construídos no século XVIII sob domínio otomano, abasteceu de água a cidade até ao século XX. Passeia-se livremente com trela ao longo das arcadas, especialmente belas iluminadas ao anoitecer. Um espaço aberto e desafogado, ideal para uma pausa longe do bulício da frente-mar.`,
+        },
+      },
+      {
+        name: `Larnaca Castle`,
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `Le fort médiéval, remanié à l'époque ottomane, garde l'extrémité sud de la promenade et abrite un petit musée. L'intérieur et ses salles ne sont pas ouverts aux chiens, mais le front de mer qui le longe, à la lisière du quartier turc et de l'église Saint-Lazare, se parcourt agréablement en laisse.`,
+          en: `The medieval fort, reworked in Ottoman times, guards the southern end of the promenade and houses a small museum. The interior and its halls are not open to dogs, but the seafront alongside it, on the edge of the Turkish quarter and Saint Lazarus church, makes a pleasant leashed walk.`,
+          es: `El fuerte medieval, remodelado en época otomana, guarda el extremo sur del paseo y alberga un pequeño museo. El interior y sus salas no están abiertos a los perros, pero el frente marítimo que lo bordea, al borde del barrio turco y de la iglesia de San Lázaro, se recorre con agrado con correa.`,
+          pt: `O forte medieval, remodelado na época otomana, guarda o extremo sul do passeio e alberga um pequeno museu. O interior e as suas salas não estão abertos aos cães, mas a frente-mar que o ladeia, à beira do bairro turco e da igreja de São Lázaro, percorre-se com agrado com trela.`,
+        },
+      },
+      {
+        name: `Meneou Dog Beach`,
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Chypre a aménagé plusieurs plages canines officielles, et la plus proche de Larnaca se trouve vers Meneou, au sud de la ville, du côté du cap Kiti. Les chiens peuvent y courir et se baigner dans une zone signalée. Vérifiez la signalisation sur place, les limites et les règles saisonnières pouvant évoluer.`,
+          en: `Cyprus has set up several official dog beaches, and the nearest to Larnaca is towards Meneou, south of the city, near Cape Kiti. Dogs can run and swim there in a signposted zone. Check the signage on site, as the boundaries and seasonal rules may change.`,
+          es: `Chipre ha habilitado varias playas caninas oficiales, y la más cercana a Larnaca se encuentra hacia Meneou, al sur de la ciudad, junto al cabo Kiti. Los perros pueden correr y bañarse en una zona señalizada. Comprueba la señalización in situ, ya que los límites y las normas estacionales pueden cambiar.`,
+          pt: `Chipre criou várias praias caninas oficiais, e a mais próxima de Larnaca fica em direção a Meneou, a sul da cidade, junto ao cabo Kiti. Os cães podem correr e nadar numa zona sinalizada. Verifique a sinalização no local, pois os limites e as regras sazonais podem mudar.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les étés chypriotes sont brûlants, souvent au-delà de 35 °C : ne promenez jamais votre chien en milieu de journée, testez le sable et le trottoir avec la main (ils peuvent brûler les coussinets) et emportez beaucoup d'eau.`,
+        `Sur la plupart des plages surveillées, les chiens sont interdits en haute saison : rabattez-vous sur la plage canine officielle vers Meneou, au sud de la ville, et vérifiez la signalisation saisonnière.`,
+        `Autour du lac salé, tenez votre chien en laisse et à distance des flamants roses (visibles de novembre à mars) ; ne le laissez pas s'aventurer sur la croûte de sel, qui peut irriter les pattes.`,
+        `Le climat méditerranéen expose aux tiques et au phlébotome vecteur de leishmaniose : demandez à votre vétérinaire un traitement répulsif adapté avant et pendant le séjour.`,
+        `Chypre étant une île de l'UE, prévoyez le passeport européen, la puce et un vaccin antirabique à jour ; réservez à l'avance pour les vols, les compagnies limitant le nombre d'animaux en cabine.`,
+      ],
+      en: [
+        `Cypriot summers are scorching, often above 35 C: never walk your dog in the middle of the day, test the sand and pavement with your hand (they can burn paw pads) and carry plenty of water.`,
+        `On most supervised beaches, dogs are banned in high season: fall back on the official dog beach towards Meneou, south of the city, and check the seasonal signage.`,
+        `Around the Salt Lake, keep your dog on lead and away from the flamingos (present November to March); do not let it wander onto the salt crust, which can irritate its paws.`,
+        `The Mediterranean climate brings ticks and the sandfly that spreads leishmaniasis: ask your vet for a suitable repellent treatment before and during the trip.`,
+        `As Cyprus is an EU island, bring the EU pet passport, microchip and an up-to-date rabies vaccination; book ahead for flights, as airlines limit the number of animals in the cabin.`,
+      ],
+      es: [
+        `Los veranos chipriotas son abrasadores, a menudo por encima de 35 °C: no pasees nunca a tu perro a mediodía, comprueba la arena y el pavimento con la mano (pueden quemar las almohadillas) y lleva mucha agua.`,
+        `En la mayoría de las playas vigiladas los perros están prohibidos en temporada alta: recurre a la playa canina oficial hacia Meneou, al sur de la ciudad, y comprueba la señalización estacional.`,
+        `En torno al lago salado, mantén a tu perro con correa y lejos de los flamencos (presentes de noviembre a marzo); no lo dejes adentrarse en la costra de sal, que puede irritarle las patas.`,
+        `El clima mediterráneo trae garrapatas y el flebótomo que transmite la leishmaniosis: pide a tu veterinario un tratamiento repelente adecuado antes y durante el viaje.`,
+        `Al ser Chipre una isla de la UE, lleva el pasaporte europeo, el microchip y la vacuna antirrábica al día; reserva con antelación los vuelos, ya que las aerolíneas limitan el número de animales en cabina.`,
+      ],
+      pt: [
+        `Os verões cipriotas são escaldantes, muitas vezes acima de 35 °C: nunca passeie o cão a meio do dia, teste a areia e o pavimento com a mão (podem queimar as almofadas das patas) e leve muita água.`,
+        `Na maioria das praias vigiadas os cães estão proibidos na época alta: recorra à praia canina oficial em direção a Meneou, a sul da cidade, e verifique a sinalização sazonal.`,
+        `Em redor do lago salgado, mantenha o cão com trela e longe dos flamingos (presentes de novembro a março); não o deixe aventurar-se na crosta de sal, que pode irritar-lhe as patas.`,
+        `O clima mediterrânico traz carraças e o flebótomo que transmite a leishmaniose: peça ao seu veterinário um tratamento repelente adequado antes e durante a viagem.`,
+        `Sendo Chipre uma ilha da UE, leve o passaporte europeu, o microchip e a vacina antirrábica em dia; reserve com antecedência os voos, pois as companhias limitam o número de animais na cabina.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence européen : 112, valable dans toute la République de Chypre`,
+        `Cliniques vétérinaires à Larnaca ; votre hébergement pourra indiquer le service de garde en cas d'urgence`,
+        `Aéroport international de Larnaca à quelques minutes de la ville, l'un des deux aéroports de l'île`,
+        `Chaleur estivale intense : eau, ombre et sorties tôt le matin ou en soirée sont indispensables de juin à septembre`,
+        `Chypre (UE) : passeport européen, puce et vaccin antirabique à jour ; pas de quarantaine pour les animaux de l'UE`,
+      ],
+      en: [
+        `European emergency number: 112, valid throughout the Republic of Cyprus`,
+        `Veterinary clinics in Larnaca; your accommodation can point you to the on-duty service in an emergency`,
+        `Larnaca International Airport is a few minutes from town, one of the island's two airports`,
+        `Intense summer heat: water, shade and outings early morning or in the evening are essential from June to September`,
+        `Cyprus (EU): EU pet passport, microchip and up-to-date rabies vaccination; no quarantine for EU pets`,
+      ],
+      es: [
+        `Número de emergencia europeo: 112, válido en toda la República de Chipre`,
+        `Clínicas veterinarias en Larnaca; tu alojamiento podrá indicarte el servicio de guardia en caso de urgencia`,
+        `Aeropuerto internacional de Larnaca a pocos minutos de la ciudad, uno de los dos aeropuertos de la isla`,
+        `Calor estival intenso: agua, sombra y salidas temprano por la mañana o al atardecer son imprescindibles de junio a septiembre`,
+        `Chipre (UE): pasaporte europeo, microchip y vacuna antirrábica al día; sin cuarentena para mascotas de la UE`,
+      ],
+      pt: [
+        `Número de emergência europeu: 112, válido em toda a República de Chipre`,
+        `Clínicas veterinárias em Larnaca; o seu alojamento poderá indicar o serviço de urgência em caso de emergência`,
+        `Aeroporto internacional de Larnaca a poucos minutos da cidade, um dos dois aeroportos da ilha`,
+        `Calor estival intenso: água, sombra e saídas de manhã cedo ou ao fim da tarde são indispensáveis de junho a setembro`,
+        `Chipre (UE): passaporte europeu, microchip e vacina antirrábica em dia; sem quarentena para animais da UE`,
       ],
     },
   },

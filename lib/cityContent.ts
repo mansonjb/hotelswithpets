@@ -12903,6 +12903,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  ericeira: {
+    history: {
+      fr: `Ericeira est un village de pêcheurs perché sur les falaises de la côte atlantique, dans la commune de Mafra, à une quarantaine de kilomètres au nord-ouest de Lisbonne. Ses maisons blanches soulignées de bleu descendent en terrasses vers le petit port de la Baleia, encore actif, tandis que les miradouros dominent une mer souvent grosse. En 2011, Ericeira est devenue la première réserve mondiale de surf d'Europe, un label qui protège une succession de spots réputés, de Ribeira d'Ilhas à Praia do Norte. Le bourg cultive une forte identité maritime: ruelles pavées d'azulejos, criées de poisson et restaurants de fruits de mer. À l'intérieur des terres, l'imposant palais national de Mafra rappelle le passé royal de la région. Voyager ici avec un chien suppose de composer avec les marées et le ressac puissant de l'Atlantique, le vent de Nortada et les interdictions de plage de l'été.`,
+      en: `Ericeira is a fishing village perched on the cliffs of the Atlantic coast, in the municipality of Mafra, about forty kilometres north-west of Lisbon. Its white houses trimmed in blue step down towards the small, still-active harbour of Baleia, while the miradouros look out over an often rough sea. In 2011 Ericeira became Europe's first World Surfing Reserve, a status that protects a string of famous breaks, from Ribeira d'Ilhas to Praia do Norte. The town keeps a strong maritime identity: lanes paved with azulejo tiles, fish auctions and seafood restaurants. Inland, the vast National Palace of Mafra recalls the region's royal past. Travelling here with a dog means working around the tides and powerful Atlantic swell, the Nortada wind and the summer beach bans.`,
+      es: `Ericeira es un pueblo pesquero encaramado en los acantilados de la costa atlántica, en el municipio de Mafra, a unos cuarenta kilómetros al noroeste de Lisboa. Sus casas blancas ribeteadas de azul bajan en terrazas hacia el pequeño puerto de la Baleia, aún activo, mientras los miradores dominan un mar a menudo bravo. En 2011 Ericeira se convirtió en la primera reserva mundial de surf de Europa, un sello que protege una sucesión de spots célebres, de Ribeira d'Ilhas a Praia do Norte. La villa cultiva una fuerte identidad marinera: callejas empedradas de azulejos, lonjas de pescado y restaurantes de marisco. Tierra adentro, el imponente Palacio Nacional de Mafra recuerda el pasado real de la región. Viajar aquí con un perro exige lidiar con las mareas y el fuerte oleaje del Atlántico, el viento de la Nortada y las prohibiciones de playa del verano.`,
+      pt: `A Ericeira é uma vila piscatória empoleirada nas falésias da costa atlântica, no concelho de Mafra, a cerca de quarenta quilómetros a noroeste de Lisboa. As suas casas brancas debruadas a azul descem em socalcos até ao pequeno porto da Baleia, ainda ativo, enquanto os miradouros dominam um mar muitas vezes agitado. Em 2011 a Ericeira tornou-se a primeira reserva mundial de surf da Europa, um selo que protege uma sucessão de spots célebres, da Ribeira d'Ilhas à Praia do Norte. A vila cultiva uma forte identidade marítima: ruelas calcetadas de azulejos, lotas de peixe e restaurantes de marisco. No interior, o imponente Palácio Nacional de Mafra recorda o passado real da região. Viajar aqui com um cão exige lidar com as marés e a forte ondulação do Atlântico, o vento da Nortada e as proibições de praia do verão.`,
+    },
+    sights: [
+      {
+        name: `Centro histórico e miradouros`,
+        emoji: `🏘️`,
+        petFriendly: true,
+        desc: {
+          fr: `Le cœur du village, ses ruelles pavées de galets et ses balcons fleuris qui débouchent sur des miradouros surplombant l'Atlantique. Tout se parcourt en laisse, et les terrasses des places acceptent volontiers le chien face au coucher de soleil sur l'océan.`,
+          en: `The heart of the village, its cobbled lanes and flower-filled balconies opening onto miradouros overlooking the Atlantic. It is all walked on leash, and the terraces on the squares happily welcome a dog facing the sunset over the ocean.`,
+          es: `El corazón del pueblo, sus callejas empedradas y sus balcones floridos que desembocan en miradores sobre el Atlántico. Todo se recorre con correa, y las terrazas de las plazas acogen de buen grado al perro frente a la puesta de sol sobre el océano.`,
+          pt: `O coração da vila, as suas ruelas calcetadas e as suas varandas floridas que desembocam em miradouros sobre o Atlântico. Tudo se percorre de trela, e as esplanadas dos largos acolhem de bom grado o cão frente ao pôr do sol sobre o oceano.`,
+        },
+      },
+      {
+        name: `Porto da Baleia`,
+        emoji: `⚓`,
+        petFriendly: true,
+        desc: {
+          fr: `Le petit port de pêche encore en activité, niché en contrebas des falaises, où les barques colorées sont hissées sur la cale et où l'on vend le poisson du jour. Les quais et la plage attenante se parcourent en laisse, entre les casiers et les filets.`,
+          en: `The small, still-working fishing harbour tucked below the cliffs, where colourful boats are hauled up the slipway and the day's catch is sold. The quays and the adjoining beach are walked on leash, among the pots and nets.`,
+          es: `El pequeño puerto pesquero aún en activo, resguardado al pie de los acantilados, donde las barcas de colores se izan a la rampa y se vende el pescado del día. Los muelles y la playa contigua se recorren con correa, entre las nasas y las redes.`,
+          pt: `O pequeno porto de pesca ainda em atividade, aninhado ao pé das falésias, onde os barcos coloridos são içados para a rampa e se vende o peixe do dia. Os cais e a praia contígua percorrem-se de trela, entre os barcos e as redes.`,
+        },
+      },
+      {
+        name: `Ribeira d'Ilhas`,
+        emoji: `🏄`,
+        petFriendly: true,
+        desc: {
+          fr: `La plage la plus célèbre de la réserve mondiale de surf, longue vague droite qui accueille des compétitions internationales. Plus sauvage et venteuse, elle tolère souvent les chiens en laisse hors des heures de baignade estivales, mais méfiez-vous du ressac et des courants puissants.`,
+          en: `The most famous beach of the World Surfing Reserve, a long right-hand wave that hosts international contests. Wilder and windier, it often tolerates leashed dogs outside the summer bathing hours, but beware of the shore break and powerful currents.`,
+          es: `La playa más célebre de la reserva mundial de surf, una larga ola derecha que acoge competiciones internacionales. Más salvaje y ventosa, tolera a menudo perros con correa fuera del horario de baño estival, pero cuidado con el rompiente y las corrientes potentes.`,
+          pt: `A praia mais célebre da reserva mundial de surf, uma longa onda direita que acolhe competições internacionais. Mais selvagem e ventosa, tolera muitas vezes cães de trela fora das horas de banho estival, mas cuidado com a rebentação e as correntes potentes.`,
+        },
+      },
+      {
+        name: `Praia de São Sebastião`,
+        emoji: `🏖️`,
+        petFriendly: false,
+        desc: {
+          fr: `L'une des plages urbaines les plus fréquentées, sable doré protégé par des rochers, prisée des familles. De juin à septembre les chiens y sont interdits, comme sur la plupart des plages surveillées du Portugal, reportez-vous alors sur les plages plus sauvages du nord ou promenez-vous sur les miradouros.`,
+          en: `One of the busiest town beaches, golden sand sheltered by rocks and popular with families. From June to September dogs are banned, as on most supervised beaches in Portugal, so switch to the wilder northern beaches or walk the clifftop miradouros instead.`,
+          es: `Una de las playas urbanas más concurridas, arena dorada protegida por rocas y muy apreciada por las familias. De junio a septiembre los perros están prohibidos, como en la mayoría de las playas vigiladas de Portugal, pásate entonces a las playas más salvajes del norte o pasea por los miradores.`,
+          pt: `Uma das praias urbanas mais concorridas, areia dourada protegida por rochas e muito apreciada pelas famílias. De junho a setembro os cães são proibidos, como na maioria das praias vigiadas de Portugal, passe então para as praias mais selvagens a norte ou passeie pelos miradouros.`,
+        },
+      },
+      {
+        name: `Ruas de azulejos`,
+        emoji: `🔷`,
+        petFriendly: true,
+        desc: {
+          fr: `Les façades et ruelles couvertes d'azulejos, ces carreaux de faïence peints en bleu et blanc typiques du Portugal, qui font le charme du village. La déambulation se fait en laisse, à l'ombre relative des maisons basses, loin du soleil des plages.`,
+          en: `The facades and lanes covered with azulejos, the blue-and-white painted tiles typical of Portugal that give the village its charm. The stroll is done on leash, in the relative shade of the low houses, away from the beach sun.`,
+          es: `Las fachadas y callejas cubiertas de azulejos, esos baldosines de loza pintados en azul y blanco típicos de Portugal que dan encanto al pueblo. El paseo se hace con correa, a la sombra relativa de las casas bajas, lejos del sol de las playas.`,
+          pt: `As fachadas e ruelas cobertas de azulejos, os tradicionais ladrilhos pintados de azul e branco típicos de Portugal que dão encanto à vila. O passeio faz-se de trela, à sombra relativa das casas baixas, longe do sol das praias.`,
+        },
+      },
+      {
+        name: `Palácio Nacional de Mafra`,
+        emoji: `🏛️`,
+        petFriendly: false,
+        desc: {
+          fr: `À une dizaine de kilomètres à l'intérieur des terres, l'immense palais-couvent baroque de Mafra, classé au patrimoine mondial, avec sa basilique et sa bibliothèque monumentale. Les chiens ne sont pas admis à l'intérieur, mais on peut les promener en laisse dans le vaste parc boisé de la Tapada voisine.`,
+          en: `About ten kilometres inland, the huge baroque palace-convent of Mafra, a World Heritage site, with its basilica and monumental library. Dogs are not allowed inside, but they can be walked on leash in the vast wooded park of the nearby Tapada.`,
+          es: `A una decena de kilómetros tierra adentro, el inmenso palacio-convento barroco de Mafra, Patrimonio de la Humanidad, con su basílica y su biblioteca monumental. Los perros no se admiten en el interior, pero se pueden pasear con correa por el vasto parque boscoso de la Tapada cercana.`,
+          pt: `A uns dez quilómetros para o interior, o imenso palácio-convento barroco de Mafra, Património Mundial, com a sua basílica e a sua biblioteca monumental. Os cães não são admitidos no interior, mas podem ser passeados de trela no vasto parque arborizado da Tapada vizinha.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale des plages: de juin à septembre, les chiens sont interdits sur les plages surveillées du Portugal comme São Sebastião ou Praia do Sul, repliez-vous sur les plages plus sauvages du nord, tolérées hors des heures de baignade.`,
+        `L'Atlantique d'Ericeira est réputé pour son ressac violent et ses courants d'arrachement: ne laissez jamais le chien près de l'eau sur les spots de surf et surveillez la marée montante au pied des falaises.`,
+        `Le vent de Nortada souffle fort l'après-midi en été, projetant le sable: privilégiez les balades du matin et emportez de l'eau, les chiens supportent mal le sable soufflé dans les yeux.`,
+        `Le soleil portugais est intense de mai à septembre, sortez tôt ou en soirée, testez le sable et le pavé avec la main et prévoyez de l'ombre, les ruelles d'azulejos restent plus fraîches.`,
+        `De nombreux restaurants de fruits de mer acceptent le chien en terrasse, gardez-le en laisse en ville et ramassez ses déjections, les règles municipales portugaises l'exigent.`,
+      ],
+      en: [
+        `Summer beach ban: from June to September dogs are barred from supervised beaches in Portugal such as São Sebastião or Praia do Sul, fall back on the wilder northern beaches, tolerated outside bathing hours.`,
+        `Ericeira's Atlantic is known for its violent shore break and rip currents: never let your dog near the water on the surf breaks and watch the rising tide at the foot of the cliffs.`,
+        `The Nortada wind blows hard on summer afternoons, throwing up sand: favour morning walks and carry water, dogs cope badly with sand blown into their eyes.`,
+        `The Portuguese sun is intense from May to September, head out early or in the evening, test the sand and cobbles with your hand and plan for shade, the azulejo lanes stay cooler.`,
+        `Many seafood restaurants welcome a dog on the terrace, keep it leashed in town and pick up after it, Portuguese municipal rules require it.`,
+      ],
+      es: [
+        `Prohibición estival de playas: de junio a septiembre los perros están vetados en las playas vigiladas de Portugal como São Sebastião o Praia do Sul, refúgiate en las playas más salvajes del norte, toleradas fuera del horario de baño.`,
+        `El Atlántico de Ericeira es conocido por su rompiente violento y sus corrientes de resaca: nunca dejes al perro cerca del agua en los spots de surf y vigila la marea creciente al pie de los acantilados.`,
+        `El viento de la Nortada sopla fuerte las tardes de verano, levantando la arena: prioriza los paseos de la mañana y lleva agua, los perros soportan mal la arena soplada en los ojos.`,
+        `El sol portugués es intenso de mayo a septiembre, sal temprano o al atardecer, comprueba la arena y el empedrado con la mano y prevé sombra, las callejas de azulejos se mantienen más frescas.`,
+        `Muchos restaurantes de marisco aceptan al perro en la terraza, mantenlo con correa en la ciudad y recoge sus excrementos, las normas municipales portuguesas lo exigen.`,
+      ],
+      pt: [
+        `Proibição estival de praias: de junho a setembro os cães são vedados nas praias vigiadas de Portugal como São Sebastião ou Praia do Sul, recue para as praias mais selvagens a norte, toleradas fora das horas de banho.`,
+        `O Atlântico da Ericeira é conhecido pela sua rebentação violenta e pelas suas correntes de retorno: nunca deixe o cão perto da água nos spots de surf e vigie a maré cheia ao pé das falésias.`,
+        `O vento da Nortada sopra forte nas tardes de verão, levantando a areia: privilegie os passeios da manhã e leve água, os cães suportam mal a areia soprada nos olhos.`,
+        `O sol português é intenso de maio a setembro, saia cedo ou ao entardecer, teste a areia e a calçada com a mão e preveja sombra, as ruelas de azulejos mantêm-se mais frescas.`,
+        `Muitos restaurantes de marisco aceitam o cão na esplanada, mantenha-o de trela na vila e recolha os dejetos, as regras municipais portuguesas exigem-no.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique au Portugal et en Europe: 112.`,
+        `Ericeira n'a pas de gare, l'accès se fait en voiture ou en bus depuis Lisbonne (environ 1 h) via Mafra.`,
+        `Aéroport le plus proche: Lisbonne Humberto Delgado (LIS), à environ 50 km.`,
+        `Climat atlantique doux: étés tempérés par le vent marin, hivers pluvieux, le printemps et l'été sont les plus agréables pour voyager avec un chien.`,
+        `Renseignez-vous auprès de votre hébergement sur la clinique vétérinaire de garde la plus proche (Ericeira ou Mafra) avant votre arrivée.`,
+      ],
+      en: [
+        `Single emergency number in Portugal and across Europe: 112.`,
+        `Ericeira has no train station, access is by car or bus from Lisbon (about 1 hour) via Mafra.`,
+        `Nearest airport: Lisbon Humberto Delgado (LIS), about 50 km away.`,
+        `Mild Atlantic climate: summers tempered by the sea wind, rainy winters, spring and summer are the most pleasant for travelling with a dog.`,
+        `Ask your accommodation about the nearest on-call veterinary clinic (Ericeira or Mafra) before you arrive.`,
+      ],
+      es: [
+        `Número de emergencias único en Portugal y en Europa: 112.`,
+        `Ericeira no tiene estación de tren, el acceso es en coche o en autobús desde Lisboa (aproximadamente 1 h) vía Mafra.`,
+        `Aeropuerto más cercano: Lisboa Humberto Delgado (LIS), a unos 50 km.`,
+        `Clima atlántico suave: veranos templados por el viento marino, inviernos lluviosos, la primavera y el verano son los más agradables para viajar con perro.`,
+        `Pregunta en tu alojamiento por la clínica veterinaria de guardia más cercana (Ericeira o Mafra) antes de llegar.`,
+      ],
+      pt: [
+        `Número de emergência único em Portugal e na Europa: 112.`,
+        `A Ericeira não tem estação de comboios, o acesso faz-se de carro ou de autocarro a partir de Lisboa (cerca de 1 h) via Mafra.`,
+        `Aeroporto mais próximo: Lisboa Humberto Delgado (LIS), a cerca de 50 km.`,
+        `Clima atlântico ameno: verões temperados pelo vento marítimo, invernos chuvosos, a primavera e o verão são os mais agradáveis para viajar com cão.`,
+        `Informe-se junto do seu alojamento sobre a clínica veterinária de urgência mais próxima (Ericeira ou Mafra) antes de chegar.`,
+      ],
+    },
+  },
+
   evora: {
     history: {
       fr: `Évora, fondée à l'époque romaine sous le nom d'Ebora Liberalitas Iulia (1er siècle av. J.-C.), garde un Temple romain dédié à l'empereur Auguste, le mieux préservé de la péninsule ibérique. Successivement wisigothique, mauresque (Yābora, 715-1166) puis chrétienne, Évora fut résidence royale aux XVe-XVIe siècles et accueillit la deuxième université du Portugal en 1559. Aujourd'hui capitale de l'Alentejo (54 000 habitants) et inscrite au patrimoine mondial UNESCO depuis 1986, c'est un musée à ciel ouvert où Temple romain, cathédrale gothique, palais Renaissance et l'inquiétante Capela dos Ossos (5 000 squelettes ornant les murs) se côtoient sur 1,1 km² de Centro Histórico. Pour les voyageurs avec un chien, Évora est l'une des destinations UNESCO les plus accessibles d'Europe : Centro Histórico piéton en 20 min, culture tasca alentejane tolérante par défaut, sentiers du montado de chênes-lièges juste aux portes, et accès CP direct depuis Lisbonne en 1h30.`,

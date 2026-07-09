@@ -12781,6 +12781,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  dubai: {
+    history: {
+      fr: `Dubaï, la plus grande ville des Émirats arabes unis avec près de 3,5 millions d'habitants, a jailli du désert en une génération pour devenir une métropole de gratte-ciels, de malls climatisés et de plages artificielles au bord du golfe Persique. Le Burj Khalifa, plus haute tour du monde, domine un centre-ville futuriste, tandis que la Marina, les îles Palm et le vieux Creek incarnent les deux visages de la ville. Pour un voyageur avec chien, il faut aborder Dubaï lucidement : les chiens sont interdits sur les plages publiques, dans le métro, les malls, la plupart des parcs et tous les lieux intérieurs. La chaleur estivale dépasse 45 °C et brûle les coussinets à midi. Des lieux réellement pet-friendly existent (cafés canins, quelques plages et parcs à chiens, sorties dans le désert), mais restent limités, et les règles d'importation sont bien plus strictes que le passeport européen.`,
+      en: `Dubai, the largest city in the United Arab Emirates with nearly 3.5 million residents, rose from the desert in a single generation to become a metropolis of skyscrapers, air-conditioned malls and man-made beaches on the Persian Gulf. The Burj Khalifa, the tallest tower on earth, presides over a futuristic downtown, while the Marina, the Palm islands and the old Creek embody the city's two faces. For a traveller with a dog, Dubai calls for a clear-eyed approach: dogs are banned from public beaches, from the metro, from malls, from most parks and from all indoor attractions. Summer heat tops 45 °C and burns paw pads at midday. Genuinely pet-friendly venues do exist (dog cafes, a few dog beaches and dog parks, desert outings) but remain limited, and import rules are far stricter than an EU pet passport.`,
+      es: `Dubái, la mayor ciudad de los Emiratos Árabes Unidos con casi 3,5 millones de habitantes, brotó del desierto en una sola generación hasta convertirse en una metrópolis de rascacielos, centros comerciales climatizados y playas artificiales junto al golfo Pérsico. El Burj Khalifa, la torre más alta del mundo, preside un centro futurista, mientras que la Marina, las islas Palm y el viejo Creek encarnan las dos caras de la ciudad. Para quien viaja con perro, Dubái exige un enfoque realista: los perros tienen prohibido el acceso a las playas públicas, al metro, a los centros comerciales, a la mayoría de parques y a todos los lugares cerrados. El calor estival supera los 45 °C y quema las almohadillas al mediodía. Existen lugares realmente pet-friendly (cafés caninos, alguna playa y parque para perros, salidas al desierto), pero son limitados, y las normas de importación son mucho más estrictas que el pasaporte europeo.`,
+      pt: `O Dubai, a maior cidade dos Emirados Árabes Unidos com quase 3,5 milhões de habitantes, brotou do deserto numa só geração para se tornar uma metrópole de arranha-céus, centros comerciais climatizados e praias artificiais junto ao golfo Pérsico. O Burj Khalifa, a torre mais alta do mundo, preside a um centro futurista, enquanto a Marina, as ilhas Palm e o velho Creek encarnam as duas faces da cidade. Para quem viaja com cão, o Dubai exige uma abordagem lúcida: os cães estão proibidos nas praias públicas, no metro, nos centros comerciais, na maioria dos parques e em todos os locais interiores. O calor de verão ultrapassa os 45 °C e queima as almofadas das patas ao meio-dia. Existem locais verdadeiramente pet-friendly (cafés caninos, alguma praia e parque para cães, saídas no deserto), mas são limitados, e as regras de importação são muito mais rígidas do que o passaporte europeu.`,
+    },
+    sights: [
+      { name: 'Burj Khalifa & Downtown Dubai', emoji: '🏙️', petFriendly: false, desc: {
+        fr: `La plus haute tour du monde (828 m) domine un centre-ville de fontaines et de boulevards. Les animaux ne sont pas admis dans la tour, le Dubai Mall ni les attractions intérieures ; les chiens en laisse sont au mieux tolérés sur certaines promenades extérieures tôt le matin.`,
+        en: `The tallest tower on earth (828 m) presides over a downtown of fountains and boulevards. Pets are not allowed in the tower, the Dubai Mall or the indoor attractions; leashed dogs are at best tolerated on some outdoor promenades early in the day.`,
+        es: `La torre más alta del mundo (828 m) preside un centro de fuentes y bulevares. No se admiten animales en la torre, el Dubai Mall ni las atracciones interiores; los perros con correa se toleran, como mucho, en algunos paseos exteriores a primera hora.`,
+        pt: `A torre mais alta do mundo (828 m) preside a um centro de fontes e avenidas. Não são admitidos animais na torre, no Dubai Mall nem nas atrações interiores; os cães com trela são, quando muito, tolerados em alguns passeios exteriores ao início do dia.`,
+      }},
+      { name: 'Dubai Marina & JBR', emoji: '🛥️', petFriendly: true, desc: {
+        fr: `Quartier de tours et de canaux bordé d'une longue promenade animée. Les chiens en laisse sont tolérés sur certaines sections de la promenade extérieure aux heures fraîches, mais restent interdits sur la plage de JBR elle-même.`,
+        en: `A district of towers and canals lined by a long, lively promenade. Leashed dogs are tolerated on some sections of the outdoor walkway during the cooler hours, but remain banned from the JBR beach itself.`,
+        es: `Un barrio de torres y canales flanqueado por un largo paseo animado. Los perros con correa se toleran en algunas secciones del paseo exterior en las horas frescas, pero siguen prohibidos en la propia playa de JBR.`,
+        pt: `Um bairro de torres e canais ladeado por um longo passeio animado. Os cães com trela são tolerados em algumas secções do passeio exterior nas horas frescas, mas continuam proibidos na própria praia de JBR.`,
+      }},
+      { name: 'Al Qudra Lakes', emoji: '🐪', petFriendly: true, desc: {
+        fr: `Lacs artificiels au cœur de la réserve du désert d'Al Marmoom, prisés des amateurs de plein air. C'est l'un des rares endroits où les chiens en laisse sont les bienvenus ; venez tôt, emportez beaucoup d'eau et évitez le sable brûlant en journée.`,
+        en: `Man-made lakes in the heart of the Al Marmoom desert reserve, popular with outdoor lovers. It is one of the few spots where leashed dogs are welcome; come early, carry plenty of water and avoid the scorching sand during the day.`,
+        es: `Lagos artificiales en el corazón de la reserva del desierto de Al Marmoom, muy frecuentados por los amantes del aire libre. Es uno de los pocos lugares donde se admiten perros con correa; vaya temprano, lleve mucha agua y evite la arena ardiente durante el día.`,
+        pt: `Lagos artificiais no coração da reserva do deserto de Al Marmoom, procurados pelos amantes do ar livre. É um dos poucos locais onde os cães com trela são bem-vindos; vá cedo, leve muita água e evite a areia escaldante durante o dia.`,
+      }},
+      { name: 'Al Seef & Dubai Creek', emoji: '⛵', petFriendly: false, desc: {
+        fr: `Le vieux bras de mer historique, bordé du quartier patrimonial d'Al Seef, des souks et des traversées en abra. Les animaux ne sont pas admis dans les souks couverts ni les musées ; les chiens en laisse ne sont tolérés que sur de rares sections de quai en extérieur.`,
+        en: `The historic tidal creek, lined by the Al Seef heritage district, the souks and abra water-taxi crossings. Pets are not allowed in the covered souks or museums; leashed dogs are tolerated only on a few outdoor quay sections.`,
+        es: `El histórico brazo de mar, flanqueado por el barrio patrimonial de Al Seef, los zocos y las travesías en abra. No se admiten animales en los zocos cubiertos ni en los museos; los perros con correa solo se toleran en unas pocas secciones de muelle al aire libre.`,
+        pt: `O histórico braço de mar, ladeado pelo bairro patrimonial de Al Seef, pelos souks e pelas travessias de abra. Não são admitidos animais nos souks cobertos nem nos museus; os cães com trela só são tolerados em poucas secções de cais ao ar livre.`,
+      }},
+      { name: 'Safa Park', emoji: '🌳', petFriendly: false, desc: {
+        fr: `Grand parc paysager entre Downtown et la côte, avec pelouses et lacs. Comme la plupart des parcs municipaux de Dubaï, il interdit les chiens ; ne comptez pas y promener votre animal et repliez-vous sur les rares parcs à chiens dédiés.`,
+        en: `A large landscaped park between Downtown and the coast, with lawns and lakes. Like most of Dubai's municipal parks, it bans dogs; do not plan to walk your pet here and fall back on the few dedicated dog parks.`,
+        es: `Un gran parque ajardinado entre Downtown y la costa, con praderas y lagos. Como la mayoría de los parques municipales de Dubái, prohíbe los perros; no cuente con pasear a su mascota aquí y recurra a los escasos parques caninos específicos.`,
+        pt: `Um grande parque ajardinado entre o Downtown e a costa, com relvados e lagos. Como a maioria dos parques municipais do Dubai, proíbe os cães; não conte passear o seu animal aqui e recorra aos poucos parques caninos dedicados.`,
+      }},
+      { name: 'Kite Beach & public beaches', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `Les longues plages publiques comme Kite Beach ou La Mer sont soignées et surveillées, mais interdites aux chiens toute l'année. Pour laisser votre animal profiter de l'eau, il faut viser une plage à chiens désignée hors des zones publiques centrales.`,
+        en: `Long public beaches such as Kite Beach or La Mer are manicured and patrolled, but off-limits to dogs year-round. To let your pet enjoy the water you must aim for a designated dog beach away from the central public strips.`,
+        es: `Las largas playas públicas como Kite Beach o La Mer están cuidadas y vigiladas, pero prohibidas a los perros todo el año. Para que su mascota disfrute del agua debe buscar una playa canina habilitada fuera de las zonas públicas centrales.`,
+        pt: `As longas praias públicas como a Kite Beach ou La Mer são cuidadas e vigiadas, mas proibidas a cães o ano inteiro. Para o seu animal desfrutar da água, tem de procurar uma praia canina designada fora das zonas públicas centrais.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Chaleur extrême de mai à septembre : au-delà de 45 °C, le sable et le bitume brûlent les coussinets ; ne sortez le chien qu'à l'aube et tard le soir, jamais en pleine journée.`,
+        `Loi stricte : chiens interdits sur les plages publiques, dans le métro et les tramways, les malls, la plupart des parcs et tous les lieux intérieurs ; laisse obligatoire dans l'espace public.`,
+        `Les lieux réellement pet-friendly (cafés canins, plages et parcs à chiens désignés, sorties encadrées dans le désert) sont rares : repérez-les et réservez à l'avance, n'improvisez pas.`,
+        `Prévoyez de l'eau en permanence et des bottines de protection ; l'insolation et les brûlures de coussinets sont les urgences vétérinaires n°1 en été.`,
+        `Beaucoup d'hôtels n'acceptent pas les animaux : le pet boarding (pension) est courant et bien organisé à Dubaï, réservez-le avant l'arrivée si nécessaire.`,
+      ],
+      en: [
+        `Extreme heat from May to September: above 45 °C the sand and pavement burn paw pads; only walk the dog at dawn and late evening, never in full daylight.`,
+        `Strict law: dogs are banned from public beaches, from the metro and trams, from malls, from most parks and from all indoor venues; leashing is mandatory in public.`,
+        `Genuinely pet-friendly places (dog cafes, designated dog beaches and dog parks, guided desert outings) are scarce: locate and book them ahead, do not improvise.`,
+        `Carry water at all times and consider paw boots; heatstroke and burned pads are the number-one summer veterinary emergencies here.`,
+        `Many hotels do not accept pets: pet boarding is common and well organised in Dubai, so book it before arrival if needed.`,
+      ],
+      es: [
+        `Calor extremo de mayo a septiembre: por encima de 45 °C la arena y el asfalto queman las almohadillas; saque al perro solo al amanecer y a última hora, nunca a pleno día.`,
+        `Ley estricta: los perros tienen prohibido el acceso a las playas públicas, al metro y los tranvías, a los centros comerciales, a la mayoría de parques y a todos los lugares cerrados; la correa es obligatoria en público.`,
+        `Los lugares realmente pet-friendly (cafés caninos, playas y parques para perros habilitados, salidas guiadas al desierto) son escasos: localícelos y resérvelos con antelación, no improvise.`,
+        `Lleve agua siempre y valore botas para las patas; el golpe de calor y las almohadillas quemadas son la urgencia veterinaria número uno en verano.`,
+        `Muchos hoteles no admiten mascotas: el pet boarding (residencia) es habitual y está bien organizado en Dubái, resérvelo antes de llegar si lo necesita.`,
+      ],
+      pt: [
+        `Calor extremo de maio a setembro: acima de 45 °C a areia e o alcatrão queimam as almofadas das patas; passeie o cão apenas ao amanhecer e ao fim do dia, nunca a pleno dia.`,
+        `Lei rígida: os cães estão proibidos nas praias públicas, no metro e nos elétricos, nos centros comerciais, na maioria dos parques e em todos os locais interiores; a trela é obrigatória em público.`,
+        `Os locais verdadeiramente pet-friendly (cafés caninos, praias e parques para cães designados, saídas guiadas no deserto) são escassos: localize-os e reserve com antecedência, não improvise.`,
+        `Leve sempre água e pondere botas para as patas; a insolação e as almofadas queimadas são a urgência veterinária número um no verão.`,
+        `Muitos hotéis não aceitam animais: o pet boarding (pensão) é comum e bem organizado no Dubai, reserve-o antes de chegar se necessário.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport international de Dubaï (DXB) à 5 km du centre, l'un des plus fréquentés au monde ; règles précises pour le transport d'animaux en soute ou cabine selon la compagnie.`,
+        `Numéros d'urgence aux Émirats : 999 (police) et 998 (ambulance) ; 997 pour les pompiers.`,
+        `Importation stricte : un permis d'importation officiel est requis (puce, vaccin antirabique, titrage sérologique) ; le passeport UE seul ne suffit pas, anticipez plusieurs semaines.`,
+        `Chaleur de mai à septembre souvent supérieure à 45 °C avec forte humidité côtière ; l'hiver (novembre-mars, 20-28 °C) est de loin la meilleure période pour voyager avec un chien.`,
+        `Cliniques vétérinaires modernes disponibles, dont des services d'urgence ; identifiez et enregistrez une clinique près de votre hébergement dès l'arrivée.`,
+      ],
+      en: [
+        `Dubai International Airport (DXB) is 5 km from the centre, one of the busiest in the world; precise rules apply for pet transport in hold or cabin depending on the airline.`,
+        `UAE emergency numbers: 999 (police) and 998 (ambulance); 997 for the fire service.`,
+        `Strict import: an official import permit is required (microchip, rabies vaccine, blood titre test); an EU passport alone is not enough, so allow several weeks.`,
+        `Heat from May to September often exceeds 45 °C with high coastal humidity; winter (November to March, 20-28 °C) is by far the best time to travel with a dog.`,
+        `Modern veterinary clinics are available, including emergency services; identify and save a clinic near your accommodation on arrival.`,
+      ],
+      es: [
+        `Aeropuerto Internacional de Dubái (DXB) a 5 km del centro, uno de los más transitados del mundo; hay normas precisas para el transporte de animales en bodega o cabina según la aerolínea.`,
+        `Números de emergencia en los Emiratos: 999 (policía) y 998 (ambulancia); 997 para bomberos.`,
+        `Importación estricta: se exige un permiso oficial de importación (microchip, vacuna antirrábica, análisis serológico); el pasaporte de la UE por sí solo no basta, prevea varias semanas.`,
+        `Calor de mayo a septiembre a menudo por encima de 45 °C con alta humedad costera; el invierno (noviembre a marzo, 20-28 °C) es con diferencia la mejor época para viajar con perro.`,
+        `Hay clínicas veterinarias modernas, incluidas urgencias; localice y guarde una clínica cerca de su alojamiento nada más llegar.`,
+      ],
+      pt: [
+        `Aeroporto Internacional do Dubai (DXB) a 5 km do centro, um dos mais movimentados do mundo; aplicam-se regras precisas para o transporte de animais em porão ou cabina consoante a companhia.`,
+        `Números de emergência nos Emirados: 999 (polícia) e 998 (ambulância); 997 para os bombeiros.`,
+        `Importação rígida: é exigida uma licença oficial de importação (microchip, vacina antirrábica, análise serológica); o passaporte da UE por si só não basta, conte com várias semanas.`,
+        `Calor de maio a setembro frequentemente acima de 45 °C com elevada humidade costeira; o inverno (novembro a março, 20-28 °C) é de longe a melhor altura para viajar com cão.`,
+        `Existem clínicas veterinárias modernas, incluindo serviços de urgência; identifique e guarde uma clínica perto do seu alojamento logo à chegada.`,
+      ],
+    },
+  },
+
   dublin: {
     history: {
       fr: `Dublin, Baile Átha Cliath em irlandais, "la ville du gué aux claies", a été fondée par les Vikings au IXe siècle sur les rives de la Liffey. Capitale de l'Irlande depuis la domination normande du XIIe siècle, elle a été le centre administratif de la présence britannique em Irlande pendant sept siècles avant de devenir la capitale de l'État libre d'Irlande en 1922. Aujourd'hui, Dublin est une ville chaleureuse et vivante, connue pour ses pubs, sa culture littéraire (Joyce, Beckett, Wilde) et son accueil légendaire. Les chiens y sont les bienvenus dans les beer gardens, sur les sentiers côtiers et dans le Phoenix Park, l'un des plus grands parcs urbains d'Europe, avec 1 750 hectares à explorer.`,
@@ -15825,6 +15932,113 @@ const cityContent: Record<string, CityContent> = {
         'Melhores temporadas: abril-junho pelas floraciones junto aos canales e as Floralías de Gante; as Gentse Feesten de finais de julho são espectaculares mas ruidosas e abarrotadas, no aptas para cães nerviosos.',
         'Urgência veterinária 24h: Facultad de Veterinária da Universidade de Gante em Merelbeke, +32 9 264 77 00, uno dois hospitais veterinários universitarios mais destacados de Europa.',
         'Os hotéis gantesess costumam ofrecer tarifas \'cão incluido\', Ghent Marriott, 1898 The Post e NH Gent Belfort são fiables em acogida; lleva sempre a prueba de vacunación antirrábica.',
+      ],
+    },
+  },
+
+  gijon: {
+    history: {
+      fr: `Gijón, plus grande ville des Asturies avec 270 000 habitants, s'étire le long de la côte cantabrique, sur la façade atlantique du nord de l'Espagne. Son cœur historique, Cimadevilla, l'ancien quartier des pêcheurs, s'accroche à un promontoire coiffé du parc du Cerro de Santa Catalina et de l'Éloge de l'horizon, l'imposante sculpture en béton de Chillida ouverte sur la mer. En contrebas s'incurve la plage urbaine de San Lorenzo, longée d'un large front de mer piétonnier qui relie le vieux port de plaisance aux quartiers modernes. Ancienne cité industrielle et portuaire reconvertie, Gijón conserve des thermes romains, l'imposante Université ouvrière et une vie de terrasses très animée, portée par la culture asturienne du cidre (sidra). Le climat océanique, doux et humide, rend les promenades agréables toute l'année. Pour un voyageur avec chien, c'est une escale facile, à condition de connaître les restrictions estivales sur les plages surveillées.`,
+      en: `Gijón, the largest city in Asturias with 270,000 inhabitants, stretches along the Cantabrian coast on the Atlantic face of northern Spain. Its historic core, Cimadevilla, the old fishermen's quarter, clings to a headland crowned by the Cerro de Santa Catalina park and the Eulogy of the Horizon, Chillida's imposing concrete sculpture open to the sea. Below curves the city beach of San Lorenzo, flanked by a wide pedestrian seafront that links the old marina to the modern districts. A former industrial and port city reinvented, Gijón keeps Roman baths, the monumental Universidad Laboral and a lively terrace scene fuelled by the Asturian culture of cider (sidra). The mild, damp oceanic climate keeps walking pleasant year-round. For a traveller with a dog it is an easy stop, provided you know the summer restrictions on the guarded beaches.`,
+      es: `Gijón, la mayor ciudad de Asturias con 270.000 habitantes, se extiende a lo largo de la costa cantábrica, en la fachada atlántica del norte de España. Su casco histórico, Cimadevilla, el antiguo barrio de pescadores, se aferra a un promontorio coronado por el parque del Cerro de Santa Catalina y el Elogio del Horizonte, la imponente escultura de hormigón de Chillida abierta al mar. Más abajo se curva la playa urbana de San Lorenzo, flanqueada por un amplio paseo marítimo peatonal que une el viejo puerto deportivo con los barrios modernos. Antigua ciudad industrial y portuaria reinventada, Gijón conserva unas termas romanas, la monumental Universidad Laboral y una animadísima vida de terrazas, impulsada por la cultura asturiana de la sidra. El clima oceánico, suave y húmedo, hace agradable pasear todo el año. Para quien viaja con perro es una escala cómoda, siempre que se conozcan las restricciones estivales en las playas vigiladas.`,
+      pt: `Gijón, a maior cidade das Astúrias com 270 000 habitantes, estende-se ao longo da costa cantábrica, na fachada atlântica do norte de Espanha. O seu centro histórico, Cimadevilla, o antigo bairro dos pescadores, agarra-se a um promontório coroado pelo parque do Cerro de Santa Catalina e pelo Elogio do Horizonte, a imponente escultura de betão de Chillida aberta ao mar. Mais abaixo curva-se a praia urbana de San Lorenzo, ladeada por um amplo passeio marítimo pedonal que liga a velha marina aos bairros modernos. Antiga cidade industrial e portuária reinventada, Gijón conserva umas termas romanas, a monumental Universidad Laboral e uma animadíssima vida de esplanadas, alimentada pela cultura asturiana da sidra. O clima oceânico, suave e húmido, torna os passeios agradáveis o ano inteiro. Para quem viaja com cão é uma escala fácil, desde que se conheçam as restrições de verão nas praias vigiadas.`,
+    },
+    sights: [
+      { name: 'Cimadevilla', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `L'ancien quartier des pêcheurs perché sur le promontoire, dédale de ruelles pavées, de places à sidra et de maisons colorées. Les chiens en laisse sont bienvenus dans les rues et sur les terrasses en plein air qui grimpent vers le Cerro de Santa Catalina.`,
+        en: `The old fishermen's quarter perched on the headland, a maze of cobbled lanes, cider squares and colourful houses. Leashed dogs are welcome in the streets and on the open-air terraces climbing towards the Cerro de Santa Catalina.`,
+        es: `El antiguo barrio de pescadores encaramado en el promontorio, un laberinto de callejuelas empedradas, plazas de sidra y casas de colores. Los perros con correa son bienvenidos en las calles y en las terrazas al aire libre que suben hacia el Cerro de Santa Catalina.`,
+        pt: `O antigo bairro dos pescadores empoleirado no promontório, um labirinto de vielas empedradas, praças de sidra e casas coloridas. Os cães com trela são bem-vindos nas ruas e nas esplanadas ao ar livre que sobem para o Cerro de Santa Catalina.`,
+      }},
+      { name: 'Cerro de Santa Catalina', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Grand parc côtier au sommet du promontoire, dominé par l'Éloge de l'horizon de Chillida et offrant une vue panoramique sur la mer et la ville. Ses vastes pelouses et sentiers accueillent les chiens en laisse, idéal pour une promenade venteuse au-dessus de l'Atlantique.`,
+        en: `A large clifftop park on the headland, dominated by Chillida's Eulogy of the Horizon and offering panoramic views over the sea and the city. Its wide lawns and paths welcome leashed dogs, ideal for a breezy walk above the Atlantic.`,
+        es: `Gran parque costero en lo alto del promontorio, presidido por el Elogio del Horizonte de Chillida y con vistas panorámicas al mar y a la ciudad. Sus amplias praderas y senderos acogen a perros con correa, ideal para un paseo ventoso sobre el Atlántico.`,
+        pt: `Grande parque costeiro no alto do promontório, dominado pelo Elogio do Horizonte de Chillida e com vistas panorâmicas sobre o mar e a cidade. Os seus amplos relvados e trilhos acolhem cães com trela, ideal para um passeio ventoso sobre o Atlântico.`,
+      }},
+      { name: 'Playa de San Lorenzo', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `La grande plage urbaine en arc au cœur de la ville, longée d'un front de mer très fréquenté. Les chiens y sont interdits pendant la saison balnéaire (généralement de mai à septembre) ; repliez-vous sur la promenade ou sur une plage canine désignée hors du centre.`,
+        en: `The great curving city beach at the heart of town, flanked by a busy seafront. Dogs are banned during the bathing season (roughly May to September); fall back on the promenade or a designated dog beach outside the centre.`,
+        es: `La gran playa urbana en arco en pleno centro, flanqueada por un concurrido paseo marítimo. Los perros están prohibidos durante la temporada de baño (aproximadamente de mayo a septiembre); recurra al paseo o a una playa canina habilitada fuera del centro.`,
+        pt: `A grande praia urbana em arco no coração da cidade, ladeada por um movimentado passeio marítimo. Os cães são proibidos durante a época balnear (sensivelmente de maio a setembro); recorra ao passeio ou a uma praia canina designada fora do centro.`,
+      }},
+      { name: 'Universidad Laboral', emoji: '🏛️', petFriendly: false, desc: {
+        fr: `Immense complexe monumental du XXe siècle, la plus grande construction d'Espagne, aujourd'hui centre culturel avec tour panoramique et théâtre. Les animaux ne sont pas admis à l'intérieur des bâtiments, mais les vastes esplanades extérieures se prêtent à une promenade en laisse.`,
+        en: `A vast 20th-century monumental complex, the largest building in Spain, now a cultural centre with a panoramic tower and theatre. Pets are not allowed inside the buildings, but the wide outdoor esplanades suit a leashed walk.`,
+        es: `Inmenso complejo monumental del siglo XX, la mayor construcción de España, hoy centro cultural con torre panorámica y teatro. No se admiten animales en el interior de los edificios, pero las amplias explanadas exteriores invitan a un paseo con correa.`,
+        pt: `Imenso complexo monumental do século XX, a maior construção de Espanha, hoje centro cultural com torre panorâmica e teatro. Não são admitidos animais no interior dos edifícios, mas as amplas esplanadas exteriores convidam a um passeio com trela.`,
+      }},
+      { name: 'Termas Romanas de Campo Valdés', emoji: '🏺', petFriendly: false, desc: {
+        fr: `Vestiges de thermes romains du Ier siècle, conservés sous une place au pied de l'église de Cimadevilla et présentés dans un petit musée. Les animaux ne sont pas admis dans l'espace muséal, mais la place et le port voisins se parcourent facilement en laisse.`,
+        en: `Remains of 1st-century Roman baths, preserved beneath a square at the foot of the Cimadevilla church and shown in a small museum. Pets are not allowed in the museum space, but the neighbouring square and harbour are easily walked on a leash.`,
+        es: `Restos de unas termas romanas del siglo I, conservadas bajo una plaza a los pies de la iglesia de Cimadevilla y mostradas en un pequeño museo. No se admiten animales en el espacio museístico, pero la plaza y el puerto contiguos se recorren fácilmente con correa.`,
+        pt: `Vestígios de umas termas romanas do século I, conservadas sob uma praça aos pés da igreja de Cimadevilla e apresentadas num pequeno museu. Não são admitidos animais no espaço museológico, mas a praça e o porto vizinhos percorrem-se facilmente com trela.`,
+      }},
+      { name: 'Jardín Botánico Atlántico', emoji: '🌿', petFriendly: false, desc: {
+        fr: `Grand jardin botanique de l'est de la ville, consacré à la flore de la façade atlantique, avec sentiers boisés et étangs. Les animaux n'y sont en général pas admis pour protéger les collections ; vérifiez la politique en vigueur avant de vous y rendre.`,
+        en: `A large botanical garden in the east of the city, devoted to Atlantic-facing flora, with wooded paths and ponds. Pets are generally not allowed in order to protect the collections; check the current policy before visiting.`,
+        es: `Gran jardín botánico al este de la ciudad, dedicado a la flora de la fachada atlántica, con senderos arbolados y estanques. Por lo general no se admiten animales para proteger las colecciones; consulte la política vigente antes de acudir.`,
+        pt: `Grande jardim botânico a leste da cidade, dedicado à flora da fachada atlântica, com trilhos arborizados e lagos. Regra geral não são admitidos animais para proteger as coleções; verifique a política em vigor antes de ir.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Attention saison estivale : les chiens sont interdits sur la plage surveillée de San Lorenzo, en général de mai à septembre, avec amende à la clé.`,
+        `Repli plage : cherchez une playa canina désignée dans les environs (secteur de la Playa del Rinconín / La Ñora à l'est) pour laisser le chien profiter de l'eau hors saison.`,
+        `Climat atlantique doux mais très humide : prévoyez un imperméable pour le chien et des serviettes, la pluie fine peut surprendre en toute saison.`,
+        `Gijón est une ville très portée sur les terrasses de sidrerías : les chiens en laisse et bien tenus y sont généralement les bienvenus en extérieur, un vrai atout pour manger dehors.`,
+        `Espagne : les races considérées potentiellement dangereuses (PPP) doivent porter laisse courte et muselière dans l'espace public, licence et assurance à jour.`,
+      ],
+      en: [
+        `Mind the summer season: dogs are banned from the guarded San Lorenzo beach, typically May to September, with fines enforced.`,
+        `Beach fallback: look for a designated playa canina nearby (the Playa del Rinconín / La Ñora area to the east) to let your dog enjoy the water off-season.`,
+        `Mild but very damp Atlantic climate: pack a dog raincoat and towels, the fine drizzle can catch you out in any season.`,
+        `Gijón is a big terrace and cider-house (sidrería) town: well-behaved leashed dogs are generally welcome outdoors, a real plus for eating out.`,
+        `Spain: breeds deemed potentially dangerous (PPP) must wear a short leash and muzzle in public, with an up-to-date licence and insurance.`,
+      ],
+      es: [
+        `Ojo con la temporada de verano: los perros están prohibidos en la playa vigilada de San Lorenzo, normalmente de mayo a septiembre, con multas.`,
+        `Alternativa de playa: busque una playa canina habilitada cerca (la zona de la Playa del Rinconín / La Ñora, al este) para que el perro disfrute del agua fuera de temporada.`,
+        `Clima atlántico suave pero muy húmedo: lleve un chubasquero para el perro y toallas, la llovizna fina puede sorprender en cualquier época.`,
+        `Gijón es una ciudad muy de terrazas y sidrerías: los perros con correa y bien educados suelen ser bienvenidos al aire libre, una gran ventaja para comer fuera.`,
+        `España: las razas potencialmente peligrosas (PPP) deben llevar correa corta y bozal en la vía pública, con licencia y seguro en regla.`,
+      ],
+      pt: [
+        `Atenção à época de verão: os cães são proibidos na praia vigiada de San Lorenzo, normalmente de maio a setembro, com coimas.`,
+        `Alternativa de praia: procure uma playa canina designada nas redondezas (a zona da Playa del Rinconín / La Ñora, a leste) para o cão desfrutar da água fora de época.`,
+        `Clima atlântico suave mas muito húmido: leve um impermeável para o cão e toalhas, o chuvisco fino pode surpreender em qualquer estação.`,
+        `Gijón é uma cidade muito de esplanadas e sidrerías: os cães com trela e bem-comportados costumam ser bem-vindos ao ar livre, uma grande vantagem para comer fora.`,
+        `Espanha: as raças potencialmente perigosas (PPP) devem usar trela curta e açaimo na via pública, com licença e seguro em dia.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport des Asturies (OVD) à 40 km à l'ouest, entre Gijón et Oviedo ; liaisons nationales et quelques vols européens saisonniers.`,
+        `Numéro d'urgence unique en Espagne : 112 (pompiers, police, secours), opérateurs multilingues.`,
+        `Climat océanique : étés doux (20-23 °C) et hivers pluvieux et venteux ; la ville reste agréable pour marcher toute l'année, contrairement au sud brûlant.`,
+        `Renseignez-vous à l'avance sur une clinique vétérinaire de garde 24h dans l'agglomération ; plusieurs cabinets assurent les urgences, confirmez les horaires par téléphone.`,
+        `Voyageurs UE : passeport européen pour animaux, puce et vaccination antirabique à jour suffisent pour entrer en Espagne, sans traitement échinococcose obligatoire.`,
+      ],
+      en: [
+        `Asturias Airport (OVD) is 40 km to the west, between Gijón and Oviedo; domestic links and a few seasonal European flights.`,
+        `Single emergency number in Spain: 112 (fire, police, medical), with multilingual operators.`,
+        `Oceanic climate: mild summers (20-23 °C) and rainy, windy winters; the city stays pleasant for walking year-round, unlike the scorching south.`,
+        `Check in advance for a 24-hour emergency veterinary clinic in the metro area; several practices cover out-of-hours calls, so confirm opening times by phone.`,
+        `EU travellers: an EU pet passport, microchip and up-to-date rabies vaccination are enough to enter Spain, with no mandatory tapeworm treatment.`,
+      ],
+      es: [
+        `Aeropuerto de Asturias (OVD) a 40 km al oeste, entre Gijón y Oviedo; conexiones nacionales y algunos vuelos europeos de temporada.`,
+        `Número único de emergencias en España: 112 (bomberos, policía, sanitario), con operadores multilingües.`,
+        `Clima oceánico: veranos suaves (20-23 °C) e inviernos lluviosos y ventosos; la ciudad sigue siendo agradable para pasear todo el año, al contrario que el sur.`,
+        `Infórmese con antelación de una clínica veterinaria de urgencias 24 h en el área; varias consultas cubren guardias, así que confirme los horarios por teléfono.`,
+        `Viajeros de la UE: el pasaporte europeo, el microchip y la vacuna antirrábica al día bastan para entrar en España, sin tratamiento obligatorio contra la equinococosis.`,
+      ],
+      pt: [
+        `Aeroporto das Astúrias (OVD) a 40 km a oeste, entre Gijón e Oviedo; ligações nacionais e alguns voos europeus sazonais.`,
+        `Número único de emergência em Espanha: 112 (bombeiros, polícia, socorro), com operadores multilingues.`,
+        `Clima oceânico: verões suaves (20-23 °C) e invernos chuvosos e ventosos; a cidade mantém-se agradável para passear o ano inteiro, ao contrário do sul escaldante.`,
+        `Informe-se com antecedência sobre uma clínica veterinária de urgência 24 h na área; vários consultórios asseguram o serviço fora de horas, confirme os horários por telefone.`,
+        `Viajantes da UE: passaporte europeu para animais, microchip e vacina antirrábica em dia bastam para entrar em Espanha, sem tratamento obrigatório contra a equinococose.`,
       ],
     },
   },

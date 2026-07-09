@@ -21730,6 +21730,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  leiden: {
+    history: {
+      fr: `Leiden, ville universitaire de Hollande-Méridionale ceinturée de canaux, est l'une des cités les plus anciennes et les plus lettrées des Pays-Bas. Fondée sur une motte artificielle où se dresse encore la Burcht, sa citadelle circulaire du XIe siècle, elle abrite depuis 1575 la plus vieille université du pays et vit naître Rembrandt en 1606. Son centre médiéval, tissé de grachten paisibles, de ponts et de dizaines de hofjes (cours-jardins cachées), est piqueté de plus de cent muurgedichten, ces poèmes peints sur les façades. Pour le voyageur avec un chien, Leiden est un bonheur : plat, entièrement cyclable, doté de terrasses très tolérantes le long du Rapenburg, du parc boisé Leidse Hout avec ses zones de promenade, et à quinze minutes de la côte de la mer du Nord vers Katwijk. Les trains NS relient Amsterdam et La Haye en un quart d'heure, ce qui en fait une base calme et abordable.`,
+      en: `Leiden, a canal-ringed university city in South Holland, is one of the oldest and most literary towns in the Netherlands. Built on an artificial mound still crowned by the Burcht, its 11th-century circular citadel, it has hosted the country's oldest university since 1575 and was the birthplace of Rembrandt in 1606. Its medieval core, laced with quiet grachten, humpback bridges and dozens of hofjes (hidden almshouse courtyards), is dotted with more than a hundred muurgedichten, poems painted on house façades. For the traveller with a dog, Leiden is a delight: flat, fully cycleable, with dog-tolerant terraces along the Rapenburg canal, the wooded Leidse Hout park with dedicated walking zones, and the North Sea coast at Katwijk just fifteen minutes away. NS trains reach Amsterdam and The Hague in about a quarter of an hour, making it a calm and affordable base.`,
+      es: `Leiden, ciudad universitaria de Holanda Meridional rodeada de canales, es una de las localidades más antiguas y cultas de los Países Bajos. Levantada sobre un montículo artificial que aún corona la Burcht, su ciudadela circular del siglo XI, alberga desde 1575 la universidad más antigua del país y vio nacer a Rembrandt en 1606. Su casco medieval, surcado de tranquilos grachten, puentes y decenas de hofjes (patios ajardinados ocultos), está salpicado de más de cien muurgedichten, poemas pintados en las fachadas. Para el viajero con perro, Leiden es una delicia: llana, totalmente ciclable, con terrazas muy tolerantes a lo largo del Rapenburg, el parque arbolado Leidse Hout con zonas de paseo, y la costa del mar del Norte en Katwijk a solo quince minutos. Los trenes NS llegan a Ámsterdam y La Haya en un cuarto de hora, lo que la convierte en una base tranquila y asequible.`,
+      pt: `Leiden, cidade universitária da Holanda do Sul rodeada de canais, é uma das localidades mais antigas e cultas dos Países Baixos. Erguida sobre um montículo artificial ainda coroado pela Burcht, a sua cidadela circular do século XI, acolhe desde 1575 a universidade mais antiga do país e viu nascer Rembrandt em 1606. O seu núcleo medieval, entrecortado de tranquilos grachten, pontes e dezenas de hofjes (pátios ajardinados escondidos), está pontuado por mais de cem muurgedichten, poemas pintados nas fachadas. Para o viajante com cão, Leiden é um encanto: plana, totalmente ciclável, com esplanadas muito tolerantes ao longo do Rapenburg, o parque arborizado Leidse Hout com zonas de passeio, e a costa do mar do Norte em Katwijk a apenas quinze minutos. Os comboios NS chegam a Amesterdão e Haia em cerca de um quarto de hora, tornando-a uma base tranquila e acessível.`,
+    },
+    sights: [
+      { name: 'Burcht van Leiden', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Citadelle circulaire du XIe siècle sur une motte au cœur de la ville, aujourd'hui un parc public gratuit ouvert tous les jours. Chiens en laisse bienvenus, belle vue sur les toits.`,
+        en: `An 11th-century circular citadel on a mound in the heart of the city, now a free public park open daily. Leashed dogs welcome, fine rooftop views.`,
+        es: `Ciudadela circular del siglo XI sobre un montículo en el corazón de la ciudad, hoy un parque público gratuito abierto a diario. Perros con correa bienvenidos, bonitas vistas de los tejados.`,
+        pt: `Cidadela circular do século XI sobre um montículo no coração da cidade, hoje um parque público gratuito aberto todos os dias. Cães com trela bem-vindos, belas vistas dos telhados.`,
+      }},
+      { name: 'Rapenburg', emoji: '🛶', petFriendly: true, desc: {
+        fr: `Le canal le plus élégant de la ville, bordé de demeures patriciennes et de poèmes muraux. Promenade libre le long des quais, terrasses dog-friendly aux beaux jours.`,
+        en: `The city's most elegant canal, lined with patrician houses and wall poems. Free to stroll along the quays, with dog-friendly terraces in fine weather.`,
+        es: `El canal más elegante de la ciudad, flanqueado de casas señoriales y poemas murales. Paseo libre por los muelles, con terrazas dog-friendly en los días buenos.`,
+        pt: `O canal mais elegante da cidade, ladeado de casas senhoriais e poemas murais. Passeio livre pelos cais, com esplanadas pet-friendly nos dias bons.`,
+      }},
+      { name: 'Hortus Botanicus', emoji: '🌿', petFriendly: false, desc: {
+        fr: `L'un des plus anciens jardins botaniques du monde (1590), lié à l'université. Les chiens n'y sont pas admis, sauf chiens d'assistance, pour protéger les collections.`,
+        en: `One of the world's oldest botanical gardens (1590), tied to the university. Dogs are not admitted, except assistance dogs, to protect the collections.`,
+        es: `Uno de los jardines botánicos más antiguos del mundo (1590), vinculado a la universidad. No se admiten perros, salvo perros de asistencia, para proteger las colecciones.`,
+        pt: `Um dos jardins botânicos mais antigos do mundo (1590), ligado à universidade. Não se admitem cães, salvo cães de assistência, para proteger as coleções.`,
+      }},
+      { name: 'Molen de Valk', emoji: '🌾', petFriendly: false, desc: {
+        fr: `Moulin à vent-tour du XVIIIe siècle transformé en musée. L'intérieur est fermé aux chiens, mais le pied du moulin et le canal voisin se photographient très bien en laisse.`,
+        en: `An 18th-century tower windmill turned museum. The interior is closed to dogs, but the base of the mill and the nearby canal photograph beautifully on the leash.`,
+        es: `Molino de viento de torre del siglo XVIII convertido en museo. El interior está cerrado a los perros, pero el pie del molino y el canal cercano se fotografían muy bien con correa.`,
+        pt: `Moinho de vento de torre do século XVIII transformado em museu. O interior está fechado a cães, mas a base do moinho e o canal vizinho fotografam-se muito bem com trela.`,
+      }},
+      { name: 'Pieterskerk', emoji: '⛪', petFriendly: false, desc: {
+        fr: `Grande église gothique du XVe siècle liée aux Pères pèlerins qui vécurent à Leiden avant de partir pour l'Amérique. Intérieur réservé aux chiens d'assistance ; la placette pavée autour est en accès libre.`,
+        en: `A large 15th-century Gothic church tied to the Pilgrim Fathers who lived in Leiden before sailing to America. Interior for assistance dogs only; the cobbled square around it is freely accessible.`,
+        es: `Gran iglesia gótica del siglo XV vinculada a los Padres Peregrinos que vivieron en Leiden antes de partir a América. Interior solo para perros de asistencia; la placita adoquinada de alrededor es de acceso libre.`,
+        pt: `Grande igreja gótica do século XV ligada aos Pais Peregrinos que viveram em Leiden antes de partir para a América. Interior só para cães de assistência; o largo empedrado em redor é de acesso livre.`,
+      }},
+      { name: 'Leidse Hout', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Parc boisé au nord de la ville avec étangs, allées ombragées et zones de promenade pour chiens. Idéal pour se dégourdir loin des canaux, chiens en laisse dans la plupart des sentiers.`,
+        en: `A wooded park north of the centre with ponds, shaded avenues and dog-walking zones. Ideal to stretch legs away from the canals, dogs leashed on most paths.`,
+        es: `Parque arbolado al norte del centro con estanques, avenidas sombreadas y zonas de paseo para perros. Ideal para estirar las piernas lejos de los canales, perros con correa en la mayoría de senderos.`,
+        pt: `Parque arborizado a norte do centro com lagos, avenidas sombreadas e zonas de passeio para cães. Ideal para esticar as pernas longe dos canais, cães com trela na maioria dos trilhos.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Les terrasses de café le long du Rapenburg et de la Nieuwe Rijn sont très tolérantes, la plupart offrent une gamelle d'eau aux chiens en laisse.`,
+        `Trains NS : petits chiens en sac gratuits ; grands chiens en laisse avec un Dagkaart Hond (billet chien à la journée, environ 3,30 €).`,
+        `Ville plate et entièrement cyclable, mais attention aux pistes cyclables très fréquentées : gardez le chien côté trottoir, jamais côté fietspad.`,
+        `Attention saisonnière : sur la plage de Katwijk et de la côte de la mer du Nord, les chiens sont interdits ou tenus en laisse de mai à septembre, mais libres hors saison.`,
+        `Le Hortus Botanicus, les musées et les églises refusent les chiens (sauf assistance) ; privilégiez la Burcht et le Leidse Hout pour les pauses en plein air.`,
+      ],
+      en: [
+        `Café terraces along the Rapenburg and the Nieuwe Rijn are very tolerant, most offer a water bowl to leashed dogs.`,
+        `NS trains: small dogs in a bag travel free; larger dogs on a leash need a Dagkaart Hond (day dog ticket, about 3.30 €).`,
+        `The city is flat and fully cycleable, but watch the busy bike lanes: keep the dog on the pavement side, never on the fietspad.`,
+        `Seasonal warning: on Katwijk beach and the North Sea coast, dogs are banned or must be leashed from May to September, but run free out of season.`,
+        `The Hortus Botanicus, museums and churches refuse dogs (except assistance dogs); use the Burcht and the Leidse Hout for open-air breaks.`,
+      ],
+      es: [
+        `Las terrazas de café a lo largo del Rapenburg y el Nieuwe Rijn son muy tolerantes, la mayoría ofrece un cuenco de agua a los perros con correa.`,
+        `Trenes NS: los perros pequeños en bolsa viajan gratis; los grandes con correa necesitan un Dagkaart Hond (billete de perro por día, unos 3,30 €).`,
+        `La ciudad es llana y totalmente ciclable, pero cuidado con los carriles bici muy transitados: mantén al perro del lado de la acera, nunca en el fietspad.`,
+        `Aviso estacional: en la playa de Katwijk y la costa del mar del Norte, los perros están prohibidos o deben ir con correa de mayo a septiembre, pero corren libres fuera de temporada.`,
+        `El Hortus Botanicus, los museos y las iglesias no admiten perros (salvo de asistencia); usa la Burcht y el Leidse Hout para las pausas al aire libre.`,
+      ],
+      pt: [
+        `As esplanadas de café ao longo do Rapenburg e do Nieuwe Rijn são muito tolerantes, a maioria oferece uma taça de água aos cães com trela.`,
+        `Comboios NS: cães pequenos em saco viajam grátis; cães grandes com trela precisam de um Dagkaart Hond (bilhete de cão diário, cerca de 3,30 €).`,
+        `A cidade é plana e totalmente ciclável, mas atenção às ciclovias muito movimentadas: mantenha o cão do lado do passeio, nunca no fietspad.`,
+        `Aviso sazonal: na praia de Katwijk e na costa do mar do Norte, os cães são proibidos ou devem andar com trela de maio a setembro, mas correm livres fora de época.`,
+        `O Hortus Botanicus, os museus e as igrejas não admitem cães (salvo de assistência); use a Burcht e o Leidse Hout para as pausas ao ar livre.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Pays-Bas dans l'UE et Schengen : passeport européen pour animaux + vaccin antirabique valide + puce ISO suffisent depuis tout pays UE.`,
+        `Numéro d'urgence général (police, pompiers, ambulance) : 112. Pour un animal blessé, la dierenambulance locale se joint aussi via ce numéro.`,
+        `Trains NS très fréquents : Amsterdam et La Haye en 15 min, aéroport de Schiphol en 20 min directs, Rotterdam en 35 min.`,
+        `Devise : euro. Climat maritime doux et humide, prévoir de la pluie toute l'année et une serviette pour le chien.`,
+        `Laisse obligatoire dans le centre et les parcs ; zones sans laisse signalées dans le Leidse Hout et le long de certains polders en périphérie.`,
+      ],
+      en: [
+        `The Netherlands is in the EU and Schengen: an EU pet passport + valid rabies vaccination + ISO microchip is enough from any EU country.`,
+        `General emergency number (police, fire, ambulance): 112. For an injured animal, the local dierenambulance can also be reached via this number.`,
+        `Frequent NS trains: Amsterdam and The Hague in 15 min, Schiphol airport in 20 min direct, Rotterdam in 35 min.`,
+        `Currency: euro. Mild, damp maritime climate, expect rain year-round and pack a towel for the dog.`,
+        `Leashes are required in the centre and parks; off-leash zones are signposted in the Leidse Hout and along some polders on the outskirts.`,
+      ],
+      es: [
+        `Países Bajos está en la UE y Schengen: pasaporte europeo para mascotas + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Número de emergencia general (policía, bomberos, ambulancia): 112. Para un animal herido, la dierenambulance local también se contacta por este número.`,
+        `Trenes NS muy frecuentes: Ámsterdam y La Haya en 15 min, aeropuerto de Schiphol en 20 min directos, Róterdam en 35 min.`,
+        `Moneda: euro. Clima marítimo suave y húmedo, cuenta con lluvia todo el año y lleva una toalla para el perro.`,
+        `Correa obligatoria en el centro y los parques; zonas sin correa señalizadas en el Leidse Hout y a lo largo de algunos pólders de las afueras.`,
+      ],
+      pt: [
+        `Os Países Baixos estão na UE e Schengen: passaporte europeu para animais + vacinação antirrábica válida + microchip ISO basta a partir de qualquer país UE.`,
+        `Número de emergência geral (polícia, bombeiros, ambulância): 112. Para um animal ferido, a dierenambulance local também se contacta por este número.`,
+        `Comboios NS muito frequentes: Amesterdão e Haia em 15 min, aeroporto de Schiphol em 20 min diretos, Roterdão em 35 min.`,
+        `Moeda: euro. Clima marítimo ameno e húmido, conte com chuva o ano inteiro e leve uma toalha para o cão.`,
+        `Trela obrigatória no centro e nos parques; zonas sem trela sinalizadas no Leidse Hout e ao longo de alguns pólderes nos arredores.`,
+      ],
+    },
+  },
+
   leipzig: {
     history: {
       fr: `Leipzig, capitale historique de la Saxe et carrefour commercial européen depuis le XIIe siècle, est mondialement célèbre pour sa scène musicale (Bach y dirigea le chœur Saint-Thomas pendant 27 ans) et pour avoir été le berceau de la Révolution pacifique de 1989 qui mit fin à l'Allemagne de l'Est. Aujourd'hui, c'est l'une des villes les plus dynamiques et abordables d'Allemagne, quartier créatif Plagwitz dans d'anciennes filatures, scène café dense sur le Karli, et un centre médiéval compact dominé par la Renaissance Altes Rathaus. Pour les voyageurs avec un chien, Leipzig est une révélation : 5 500 hectares de forêt alluviale Auenwald qui pénètrent jusqu'au centre, 11 Hundeauslaufzonen municipales clôturées, le chemin de halage du Karl-Heine-Kanal qui relie Plagwitz à la Karli sur 7 km sans laisse, et une Hundestrand toute l'année au Cospudener See à 12 min em S-Bahn. ICE direct vers Berlin en 1h15 et vers Dresde en 1h10, Leipzig est la base idéale pour explorer l'est allemand avec un chien à un coût bien inférieur à Munich ou Hambourg.`,
@@ -21940,6 +22047,113 @@ const cityContent: Record<string, CityContent> = {
         `Aeroporto: Liepāja International (LPX) a 7 km, voos sazonais para Riga e Hamburgo, alternativa prática RIX Riga a 220 km.`,
         `Moeda: euro desde 2014, pagamento com cartão aceite quase em todo o lado, dinheiro útil para mercados.`,
         `Urgência veterinária: Davet 24 horas em Ventspils iela 54 (+371 63 489 489), especialistas em Jelgava a 230 km.`,
+      ],
+    },
+  },
+
+  leuven: {
+    history: {
+      fr: `Leuven (Louvain), capitale du Brabant flamand à une vingtaine de kilomètres de Bruxelles, est l'une des plus anciennes villes universitaires d'Europe, sa KU Leuven ayant été fondée en 1425. C'est aussi la ville de la bière par excellence : le géant AB InBev, héritier de Stella Artois, y brasse depuis des siècles et la légendaire Oude Markt, entièrement bordée de cafés, se surnomme « le plus long bar du monde ». Le cœur historique aligne l'un des hôtels de ville gothiques les plus flamboyants d'Europe, un béguinage classé à l'UNESCO et de vastes espaces verts. Pour le voyageur avec un chien, Leuven est très accueillante : ville compacte et plate, dominée par une population étudiante décontractée, aux innombrables terrasses tolérantes, aux ruelles pavées du Groot Begijnhof où l'on flâne en laisse, et au jardin botanique Kruidtuin pour souffler. Les trains belges rejoignent Bruxelles en 25 minutes et l'aéroport de Bruxelles en un quart d'heure.`,
+      en: `Leuven (Louvain), capital of Flemish Brabant some twenty kilometres from Brussels, is one of Europe's oldest university towns, its KU Leuven founded in 1425. It is also the beer city par excellence: the AB InBev giant, heir to Stella Artois, has brewed here for centuries, and the legendary Oude Markt, ringed entirely by cafés, is nicknamed 'the longest bar in the world'. The historic core lines up one of Europe's most flamboyant Gothic town halls, a UNESCO-listed beguinage and generous green spaces. For the traveller with a dog, Leuven is very welcoming: a compact, flat town led by a relaxed student population, with countless tolerant terraces, the cobbled lanes of the Groot Begijnhof to wander on the leash, and the Kruidtuin botanical garden to catch your breath. Belgian trains reach Brussels in 25 minutes and Brussels Airport in about a quarter of an hour.`,
+      es: `Lovaina (Leuven), capital del Brabante Flamenco a una veintena de kilómetros de Bruselas, es una de las ciudades universitarias más antiguas de Europa, con su KU Leuven fundada en 1425. Es también la ciudad de la cerveza por excelencia: el gigante AB InBev, heredero de Stella Artois, lleva siglos elaborando aquí, y el legendario Oude Markt, rodeado por completo de cafés, se apoda 'el bar más largo del mundo'. El núcleo histórico alinea uno de los ayuntamientos góticos más flamígeros de Europa, un beaterio declarado por la UNESCO y amplios espacios verdes. Para el viajero con perro, Lovaina es muy acogedora: ciudad compacta y llana, con una población estudiantil relajada, terrazas tolerantes sin fin, las callejuelas adoquinadas del Groot Begijnhof para pasear con correa, y el jardín botánico Kruidtuin para tomar aire. Los trenes belgas llegan a Bruselas en 25 minutos y al aeropuerto de Bruselas en un cuarto de hora.`,
+      pt: `Lovaina (Leuven), capital do Brabante Flamengo a uns vinte quilómetros de Bruxelas, é uma das cidades universitárias mais antigas da Europa, com a sua KU Leuven fundada em 1425. É também a cidade da cerveja por excelência: o gigante AB InBev, herdeiro da Stella Artois, produz aqui há séculos, e o lendário Oude Markt, inteiramente rodeado de cafés, tem a alcunha de 'o bar mais longo do mundo'. O núcleo histórico alinha um dos edifícios da câmara góticos mais flamejantes da Europa, um beguinato classificado pela UNESCO e amplos espaços verdes. Para o viajante com cão, Lovaina é muito acolhedora: cidade compacta e plana, com uma população estudantil descontraída, esplanadas tolerantes sem fim, as ruelas empedradas do Groot Begijnhof para passear com trela, e o jardim botânico Kruidtuin para respirar. Os comboios belgas chegam a Bruxelas em 25 minutos e ao aeroporto de Bruxelas em cerca de um quarto de hora.`,
+    },
+    sights: [
+      { name: 'Grote Markt', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `La grand-place dominée par l'hôtel de ville gothique du XVe siècle, hérissé de statues et de flèches. Les chiens ne peuvent pas entrer dans le Stadhuis, mais la place se parcourt librement en laisse.`,
+        en: `The main square dominated by the 15th-century Gothic town hall, bristling with statues and pinnacles. Dogs cannot enter the Stadhuis, but the square is freely walkable on the leash.`,
+        es: `La plaza mayor dominada por el ayuntamiento gótico del siglo XV, erizado de estatuas y pináculos. Los perros no pueden entrar en el Stadhuis, pero la plaza se recorre libremente con correa.`,
+        pt: `A praça principal dominada pela câmara gótica do século XV, eriçada de estátuas e pináculos. Os cães não podem entrar no Stadhuis, mas a praça percorre-se livremente com trela.`,
+      }},
+      { name: 'Oude Markt', emoji: '🍺', petFriendly: true, desc: {
+        fr: `Le « plus long bar du monde », une place entièrement bordée de terrasses de cafés. Très tolérante aux chiens en laisse, animée jour et nuit par les étudiants.`,
+        en: `The 'longest bar in the world', a square lined entirely with café terraces. Very tolerant of leashed dogs, buzzing day and night with students.`,
+        es: `El 'bar más largo del mundo', una plaza flanqueada por completo de terrazas de cafés. Muy tolerante con los perros con correa, animada día y noche por los estudiantes.`,
+        pt: `O 'bar mais longo do mundo', uma praça inteiramente ladeada de esplanadas de cafés. Muito tolerante com cães com trela, animada dia e noite pelos estudantes.`,
+      }},
+      { name: 'Groot Begijnhof', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `Béguinage classé à l'UNESCO, quartier piéton de maisons de brique et de ruelles pavées le long de la Dijle. On y flâne en laisse dans un calme rare.`,
+        en: `A UNESCO-listed beguinage, a pedestrian quarter of brick houses and cobbled lanes along the Dijle. A rare quiet spot to wander on the leash.`,
+        es: `Beaterio declarado por la UNESCO, barrio peatonal de casas de ladrillo y callejuelas adoquinadas junto al Dijle. Se pasea con correa en una calma poco común.`,
+        pt: `Beguinato classificado pela UNESCO, bairro pedonal de casas de tijolo e ruelas empedradas ao longo do Dijle. Passeia-se com trela numa calma pouco comum.`,
+      }},
+      { name: 'Universiteitsbibliotheek', emoji: '📚', petFriendly: false, desc: {
+        fr: `La bibliothèque universitaire à la tour-beffroi reconstruite après 1914, sur la Ladeuzeplein. L'intérieur est fermé aux chiens, mais la vaste esplanade devant se prête à une pause.`,
+        en: `The university library with its belfry tower rebuilt after 1914, on the Ladeuzeplein. The interior is closed to dogs, but the wide square in front is good for a break.`,
+        es: `La biblioteca universitaria con su torre-campanario reconstruida tras 1914, en la Ladeuzeplein. El interior está cerrado a los perros, pero la amplia explanada de delante invita a una pausa.`,
+        pt: `A biblioteca universitária com a sua torre-campanário reconstruída após 1914, na Ladeuzeplein. O interior está fechado a cães, mas o amplo largo em frente convida a uma pausa.`,
+      }},
+      { name: 'Kruidtuin', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le plus ancien jardin botanique de Belgique (1738), aujourd'hui parc public paisible avec serres, étang et parterres. Chiens en laisse bienvenus dans les allées.`,
+        en: `The oldest botanical garden in Belgium (1738), now a peaceful public park with glasshouses, a pond and flowerbeds. Leashed dogs welcome on the paths.`,
+        es: `El jardín botánico más antiguo de Bélgica (1738), hoy un tranquilo parque público con invernaderos, estanque y parterres. Perros con correa bienvenidos en los senderos.`,
+        pt: `O jardim botânico mais antigo da Bélgica (1738), hoje um tranquilo parque público com estufas, lago e canteiros. Cães com trela bem-vindos nos caminhos.`,
+      }},
+      { name: 'M Leuven', emoji: '🖼️', petFriendly: false, desc: {
+        fr: `Le musée d'art de la ville, ancien et contemporain, dans un bâtiment signé Stéphane Beel. Réservé aux chiens d'assistance ; les rues et placettes autour restent accessibles en laisse.`,
+        en: `The city art museum, old and contemporary, in a building by Stéphane Beel. Assistance dogs only; the streets and small squares around remain accessible on the leash.`,
+        es: `El museo de arte de la ciudad, antiguo y contemporáneo, en un edificio de Stéphane Beel. Solo perros de asistencia; las calles y placitas de alrededor siguen accesibles con correa.`,
+        pt: `O museu de arte da cidade, antigo e contemporâneo, num edifício de Stéphane Beel. Só cães de assistência; as ruas e largos em redor continuam acessíveis com trela.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `L'Oude Markt et les terrasses étudiantes sont parmi les plus tolérantes de Belgique, la plupart accueillent un chien calme en laisse sans problème.`,
+        `Trains SNCB : petits chiens en sac ou panier gratuits ; grands chiens en laisse avec un supplément chien (environ 3,50 €), muselière non exigée.`,
+        `Ville compacte et plate, idéale à pied ; gardez le chien en laisse dans le centre piéton très fréquenté et sur les pavés du béguinage.`,
+        `Attention saisonnière : dans les bois de Heverlee et de Meerdaal au sud, la saison des tiques va du printemps à l'automne, pensez à l'antiparasitaire et inspectez le pelage après la balade.`,
+        `Le M Leuven, la bibliothèque et le Stadhuis refusent les chiens (sauf assistance) ; misez sur le Kruidtuin et le Groot Begijnhof pour l'air libre.`,
+      ],
+      en: [
+        `The Oude Markt and student terraces are among the most tolerant in Belgium, most will welcome a calm leashed dog without fuss.`,
+        `SNCB trains: small dogs in a bag or basket travel free; larger dogs on a leash pay a dog supplement (about 3.50 €), no muzzle required.`,
+        `A compact, flat town, ideal on foot; keep the dog leashed in the busy pedestrian centre and on the beguinage cobbles.`,
+        `Seasonal warning: in the Heverlee and Meerdaal woods to the south, tick season runs spring through autumn, use a preventive and check the coat after the walk.`,
+        `M Leuven, the library and the Stadhuis refuse dogs (except assistance dogs); rely on the Kruidtuin and the Groot Begijnhof for open air.`,
+      ],
+      es: [
+        `El Oude Markt y las terrazas estudiantiles están entre las más tolerantes de Bélgica, casi todas acogen a un perro tranquilo con correa sin problema.`,
+        `Trenes SNCB: los perros pequeños en bolsa o cesta viajan gratis; los grandes con correa pagan un suplemento perro (unos 3,50 €), sin bozal obligatorio.`,
+        `Ciudad compacta y llana, ideal a pie; mantén al perro con correa en el concurrido centro peatonal y sobre los adoquines del beaterio.`,
+        `Aviso estacional: en los bosques de Heverlee y Meerdaal al sur, la temporada de garrapatas va de primavera a otoño, usa un antiparasitario y revisa el pelaje tras el paseo.`,
+        `M Leuven, la biblioteca y el Stadhuis no admiten perros (salvo de asistencia); apuesta por el Kruidtuin y el Groot Begijnhof para el aire libre.`,
+      ],
+      pt: [
+        `O Oude Markt e as esplanadas estudantis estão entre as mais tolerantes da Bélgica, quase todas acolhem um cão calmo com trela sem problema.`,
+        `Comboios SNCB: cães pequenos em saco ou cesto viajam grátis; cães grandes com trela pagam um suplemento cão (cerca de 3,50 €), sem açaime obrigatório.`,
+        `Cidade compacta e plana, ideal a pé; mantenha o cão com trela no movimentado centro pedonal e sobre os empedrados do beguinato.`,
+        `Aviso sazonal: nos bosques de Heverlee e Meerdaal a sul, a época das carraças vai da primavera ao outono, use um antiparasitário e inspecione o pelo depois do passeio.`,
+        `M Leuven, a biblioteca e o Stadhuis não admitem cães (salvo de assistência); aposte no Kruidtuin e no Groot Begijnhof para o ar livre.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Belgique dans l'UE et Schengen : passeport européen pour animaux + vaccin antirabique valide + puce ISO suffisent depuis tout pays UE.`,
+        `Numéro d'urgence général (police, pompiers, ambulance) : 112, valable dans toute la Belgique.`,
+        `Trains SNCB très fréquents : Bruxelles-Central en 25 min, aéroport de Bruxelles en 15 min directs, Anvers en 45 min.`,
+        `Devise : euro. Climat tempéré doux et souvent humide, prévoir un imperméable et de quoi essuyer le chien.`,
+        `Laisse obligatoire dans le centre-ville et les parcs ; les grands bois de Heverlee et Meerdaal au sud offrent de longues promenades boisées.`,
+      ],
+      en: [
+        `Belgium is in the EU and Schengen: an EU pet passport + valid rabies vaccination + ISO microchip is enough from any EU country.`,
+        `General emergency number (police, fire, ambulance): 112, valid throughout Belgium.`,
+        `Frequent SNCB trains: Brussels-Central in 25 min, Brussels Airport in 15 min direct, Antwerp in 45 min.`,
+        `Currency: euro. Mild temperate, often damp climate, pack a raincoat and something to dry the dog.`,
+        `Leashes are required in the city centre and parks; the large Heverlee and Meerdaal woods to the south offer long forest walks.`,
+      ],
+      es: [
+        `Bélgica está en la UE y Schengen: pasaporte europeo para mascotas + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Número de emergencia general (policía, bomberos, ambulancia): 112, válido en toda Bélgica.`,
+        `Trenes SNCB muy frecuentes: Bruselas-Central en 25 min, aeropuerto de Bruselas en 15 min directos, Amberes en 45 min.`,
+        `Moneda: euro. Clima templado suave y a menudo húmedo, lleva un impermeable y algo para secar al perro.`,
+        `Correa obligatoria en el centro y los parques; los grandes bosques de Heverlee y Meerdaal al sur ofrecen largos paseos arbolados.`,
+      ],
+      pt: [
+        `A Bélgica está na UE e Schengen: passaporte europeu para animais + vacinação antirrábica válida + microchip ISO basta a partir de qualquer país UE.`,
+        `Número de emergência geral (polícia, bombeiros, ambulância): 112, válido em toda a Bélgica.`,
+        `Comboios SNCB muito frequentes: Bruxelas-Central em 25 min, aeroporto de Bruxelas em 15 min diretos, Antuérpia em 45 min.`,
+        `Moeda: euro. Clima temperado ameno e muitas vezes húmido, leve um impermeável e algo para secar o cão.`,
+        `Trela obrigatória no centro da cidade e nos parques; os grandes bosques de Heverlee e Meerdaal a sul oferecem longos passeios arborizados.`,
       ],
     },
   },

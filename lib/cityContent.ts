@@ -19936,6 +19936,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  kefalonia: {
+    history: {
+      fr: `Plus grande des îles Ioniennes, Céphalonie (Kefalonia) déploie ses montagnes calcaires, ses forêts de sapins endémiques et ses criques turquoise face à Ithaque et au Péloponnèse. Longtemps vénitienne, puis brièvement possession française et britannique avant le rattachement à la Grèce en 1864, l'île garde des castels et des campaniles de ces influences successives. Le terrible séisme de 1953 rasa presque tous les villages, épargnant Fiskardo au nord, dont les maisons pastel dessinent aujourd'hui le port le plus photogénique de la mer Ionienne. Rendue mondialement célèbre par le roman et le film La Mandoline du capitaine Corelli, Céphalonie vit du tourisme balnéaire, de l'huile d'olive et du cépage blanc robola cultivé sur les pentes du mont Ainos. Ses longues plages sauvages, ses sentiers de montagne et ses ports tranquilles en font une destination de choix pour voyager avec un chien, à condition de composer avec la chaleur estivale et les règles de plage grecques.`,
+      en: `The largest of the Ionian Islands, Kefalonia spreads its limestone mountains, endemic fir forests and turquoise coves opposite Ithaca and the Peloponnese. Long Venetian, then briefly French and British before joining Greece in 1864, the island keeps castles and bell towers from these successive influences. The devastating earthquake of 1953 flattened almost every village, sparing Fiskardo in the north, whose pastel houses now form the most photogenic harbour in the Ionian Sea. Made world-famous by the novel and film Captain Corelli's Mandolin, Kefalonia lives off beach tourism, olive oil and the white robola grape grown on the slopes of Mount Ainos. Its long wild beaches, mountain trails and quiet ports make it a fine destination for travelling with a dog, provided you cope with the summer heat and Greek beach rules.`,
+      es: `La mayor de las islas Jónicas, Cefalonia (Kefalonia) despliega sus montañas calcáreas, sus bosques de abetos endémicos y sus calas turquesa frente a Ítaca y el Peloponeso. Mucho tiempo veneciana, luego brevemente francesa y británica antes de unirse a Grecia en 1864, la isla conserva castillos y campanarios de esas influencias sucesivas. El terrible terremoto de 1953 arrasó casi todos los pueblos, salvando Fiskardo al norte, cuyas casas pastel dibujan hoy el puerto más fotogénico del mar Jónico. Célebre en el mundo entero por la novela y la película La mandolina del capitán Corelli, Cefalonia vive del turismo de playa, del aceite de oliva y de la uva blanca robola cultivada en las laderas del monte Enos. Sus largas playas salvajes, sus senderos de montaña y sus puertos tranquilos la convierten en un destino ideal para viajar con un perro, siempre que se lidie con el calor estival y las normas griegas de playa.`,
+      pt: `A maior das ilhas Jónicas, Cefalónia (Kefalonia) estende as suas montanhas calcárias, as suas florestas de abetos endémicos e as suas enseadas turquesa em frente a Ítaca e ao Peloponeso. Muito tempo veneziana, depois brevemente francesa e britânica antes da união à Grécia em 1864, a ilha guarda castelos e campanários dessas influências sucessivas. O terrível sismo de 1953 arrasou quase todas as aldeias, poupando Fiskardo a norte, cujas casas pastel desenham hoje o porto mais fotogénico do mar Jónico. Tornada célebre em todo o mundo pelo romance e pelo filme O Bandolim do Capitão Corelli, Cefalónia vive do turismo balnear, do azeite e da casta branca robola cultivada nas encostas do monte Enos. As suas longas praias selvagens, os seus trilhos de montanha e os seus portos tranquilos fazem dela um destino de eleição para viajar com um cão, desde que se lide com o calor estival e as regras gregas de praia.`,
+    },
+    sights: [
+      { name: 'Myrtos Beach', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `Ce croissant de galets blancs serré entre deux falaises abruptes est l'une des plages les plus photographiées de Grèce, admirée depuis le belvédère de la route en lacets. Les chiens sont généralement interdits sur la partie aménagée et surveillée en été ; profitez plutôt du point de vue en hauteur, tenu en laisse.`,
+        en: `This crescent of white pebbles hemmed between two steep cliffs is one of the most photographed beaches in Greece, admired from the viewpoint on the hairpin road. Dogs are generally banned from the managed, patrolled section in summer; enjoy instead the viewpoint above, on a leash.`,
+        es: `Este creciente de guijarros blancos encajado entre dos acantilados abruptos es una de las playas más fotografiadas de Grecia, admirada desde el mirador de la carretera de curvas. Los perros suelen estar prohibidos en la parte acondicionada y vigilada en verano; disfrute mejor del mirador de arriba, con correa.`,
+        pt: `Este crescente de seixos brancos apertado entre duas falésias abruptas é uma das praias mais fotografadas da Grécia, admirada do miradouro da estrada em ziguezague. Os cães costumam ser proibidos na parte ordenada e vigiada no verão; aproveite antes o miradouro no alto, com trela.`,
+      }},
+      { name: 'Melissani', emoji: '🚣', petFriendly: false, desc: {
+        fr: `Le lac souterrain de Melissani, dévoilé quand la voûte de sa grotte s'est effondrée, s'explore en barque sur une eau d'un bleu irréel percée par un rayon de soleil à midi. Les chiens ne sont pas admis dans les barques ni dans la grotte ; prévoyez une solution de garde si vous voulez la visiter.`,
+        en: `The underground lake of Melissani, revealed when its cave roof collapsed, is explored by rowing boat over unreal blue water pierced by a shaft of sunlight at noon. Dogs are not allowed in the boats or in the cave; arrange someone to watch yours if you want to visit.`,
+        es: `El lago subterráneo de Melissani, descubierto cuando la bóveda de su gruta se derrumbó, se explora en barca sobre un agua de un azul irreal atravesada por un rayo de sol al mediodía. Los perros no se admiten en las barcas ni en la gruta; prevea con quién dejar al suyo si desea visitarla.`,
+        pt: `O lago subterrâneo de Melissani, revelado quando a abóbada da sua gruta ruiu, explora-se de barco sobre uma água de um azul irreal atravessada por um raio de sol ao meio-dia. Os cães não são admitidos nos barcos nem na gruta; combine quem fique com o seu se quiser visitar.`,
+      }},
+      { name: 'Assos', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Ce hameau de pêcheurs blotti sur un isthme relie la terre à une presqu'île coiffée d'une forteresse vénitienne du XVIe siècle. Le sentier qui monte au castel se fait en laisse, entre pins et vues plongeantes sur les deux baies, et les ruelles du village se prêtent à une flânerie tranquille.`,
+        en: `This fishing hamlet nestled on an isthmus links the mainland to a headland crowned by a 16th-century Venetian fortress. The path up to the castle is walked on a leash, among pines and plunging views over the two bays, and the village lanes lend themselves to a quiet stroll.`,
+        es: `Esta aldea de pescadores acurrucada en un istmo une la tierra con una península coronada por una fortaleza veneciana del siglo XVI. El sendero que sube al castillo se hace con correa, entre pinos y vistas de vértigo sobre las dos bahías, y las callejuelas del pueblo invitan a un paseo tranquilo.`,
+        pt: `Esta aldeia de pescadores aninhada num istmo liga a terra a uma península coroada por uma fortaleza veneziana do século XVI. O trilho que sobe ao castelo faz-se com trela, entre pinheiros e vistas a pique sobre as duas baías, e as vielas da aldeia prestam-se a um passeio tranquilo.`,
+      }},
+      { name: 'Fiskardo', emoji: '⛵', petFriendly: true, desc: {
+        fr: `Seul village épargné par le séisme de 1953, Fiskardo aligne ses maisons pastel autour d'un port de plaisance élégant, à l'ombre des platanes et des cyprès. On y déambule en laisse le long du quai, entre yachts et tavernes, la plupart des terrasses acceptant volontiers un chien sage.`,
+        en: `The only village spared by the 1953 earthquake, Fiskardo lines its pastel houses around an elegant marina, in the shade of plane trees and cypresses. You wander here on a leash along the quay, between yachts and tavernas, most terraces gladly welcoming a well-behaved dog.`,
+        es: `Único pueblo salvado del terremoto de 1953, Fiskardo alinea sus casas pastel en torno a un puerto deportivo elegante, a la sombra de plátanos y cipreses. Se pasea con correa a lo largo del muelle, entre yates y tabernas, y la mayoría de las terrazas acogen de buen grado a un perro tranquilo.`,
+        pt: `Única aldeia poupada pelo sismo de 1953, Fiskardo alinha as suas casas pastel em torno de uma marina elegante, à sombra de plátanos e ciprestes. Passeia-se com trela ao longo do cais, entre iates e tabernas, e a maioria dos terraços acolhe de bom grado um cão sossegado.`,
+      }},
+      { name: 'Ainos', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Le parc national du mont Ainos protège la seule forêt de sapins de Céphalonie (Abies cephalonica), endémique, sur le plus haut sommet de l'île à 1 628 mètres. Les pistes et sentiers se randonnent en laisse dans une fraîcheur bienvenue l'été, avec parfois l'apparition des petits chevaux sauvages qui vivent sur les crêtes.`,
+        en: `Mount Ainos National Park protects Kefalonia's only fir forest (Abies cephalonica), endemic, on the island's highest peak at 1,628 metres. The tracks and trails are hiked on a leash in welcome coolness in summer, sometimes with a glimpse of the small wild horses that live on the ridges.`,
+        es: `El parque nacional del monte Enos protege el único bosque de abetos de Cefalonia (Abies cephalonica), endémico, en la cumbre más alta de la isla a 1.628 metros. Las pistas y senderos se recorren con correa en un frescor bienvenido en verano, con la aparición ocasional de los pequeños caballos salvajes que viven en las crestas.`,
+        pt: `O parque nacional do monte Enos protege a única floresta de abetos de Cefalónia (Abies cephalonica), endémica, no ponto mais alto da ilha a 1.628 metros. As pistas e trilhos percorrem-se com trela num frescor bem-vindo no verão, por vezes com o surgir dos pequenos cavalos selvagens que vivem nas cristas.`,
+      }},
+      { name: 'Koutavos', emoji: '🐢', petFriendly: true, desc: {
+        fr: `La lagune de Koutavos, aux portes d'Argostoli la capitale, offre une promenade ombragée sur des pontons de bois autour d'un plan d'eau où viennent les tortues caouannes. Tenez impérativement votre chien en laisse et à distance des tortues, dont l'approche est réglementée pour leur protection.`,
+        en: `The Koutavos lagoon, at the gates of the capital Argostoli, offers a shaded walk on wooden boardwalks around a stretch of water where loggerhead turtles come. Keep your dog firmly on a leash and away from the turtles, whose approach is regulated for their protection.`,
+        es: `La laguna de Koutavos, a las puertas de Argostoli la capital, ofrece un paseo sombreado sobre pasarelas de madera en torno a una lámina de agua a la que acuden las tortugas bobas. Mantenga a su perro con correa y a distancia de las tortugas, cuya aproximación está regulada para su protección.`,
+        pt: `A lagoa de Koutavos, às portas de Argostoli a capital, oferece um passeio sombreado sobre passadiços de madeira em torno de um plano de água onde vêm as tartarugas-cabeçudas. Mantenha o seu cão com trela e à distância das tartarugas, cuja aproximação é regulada para a sua proteção.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Règles de plage grecques : beaucoup de plages aménagées et surveillées (Myrtos, plages à transats) interdisent les chiens l'été, tandis que les criques sauvages et non organisées les tolèrent ; renseignez-vous localement avant de vous installer.`,
+        `Chaleur estivale extrême : de juin à septembre les températures dépassent souvent 32-35 °C, promenez tôt le matin ou en soirée et ne laissez jamais un chien dans une voiture, même quelques minutes.`,
+        `Galets et sable brûlants : les plages de galets clairs de Céphalonie chauffent énormément au soleil, testez la surface du dos de la main et privilégiez l'ombre ou des bottines si votre chien y marche.`,
+        `Eau à portée : les points d'eau potable sont rares sur les plages sauvages et les sentiers de montagne, emportez toujours une réserve d'eau et une gamelle pliable, surtout au mont Ainos.`,
+        `Ferries et distances : Céphalonie se rejoint en ferry depuis le continent (Kyllini) ou Ithaque, chiens admis selon les compagnies (souvent en laisse et muselière sur les ponts) ; l'île est vaste et vallonnée, prévoyez de la route entre les sites.`,
+      ],
+      en: [
+        `Greek beach rules: many managed, patrolled beaches (Myrtos, sunbed beaches) ban dogs in summer, while wild, unorganised coves tolerate them; ask locally before settling in.`,
+        `Extreme summer heat: from June to September temperatures often top 32-35 °C, so walk early in the morning or in the evening and never leave a dog in a car, even for a few minutes.`,
+        `Scorching pebbles and sand: Kefalonia's pale pebble beaches heat up enormously in the sun, test the surface with the back of your hand and favour shade or booties if your dog walks on them.`,
+        `Water within reach: drinking-water points are scarce on wild beaches and mountain trails, so always carry a water supply and a foldable bowl, especially on Mount Ainos.`,
+        `Ferries and distances: Kefalonia is reached by ferry from the mainland (Kyllini) or Ithaca, dogs allowed depending on the company (often leashed and muzzled on the decks); the island is large and hilly, so expect driving between sites.`,
+      ],
+      es: [
+        `Normas griegas de playa: muchas playas acondicionadas y vigiladas (Myrtos, playas con hamacas) prohíben los perros en verano, mientras que las calas salvajes y no organizadas los toleran; infórmese localmente antes de instalarse.`,
+        `Calor estival extremo: de junio a septiembre las temperaturas superan a menudo los 32-35 °C, pasee temprano por la mañana o al atardecer y no deje nunca a un perro en el coche, ni unos minutos.`,
+        `Guijarros y arena ardientes: las playas de guijarros claros de Cefalonia se calientan muchísimo al sol, pruebe la superficie con el dorso de la mano y prefiera la sombra o unos botines si su perro camina por ellas.`,
+        `Agua a mano: los puntos de agua potable escasean en las playas salvajes y los senderos de montaña, lleve siempre una reserva de agua y un bebedero plegable, sobre todo en el monte Enos.`,
+        `Ferris y distancias: a Cefalonia se llega en ferri desde el continente (Kyllini) o Ítaca, perros admitidos según la compañía (a menudo con correa y bozal en las cubiertas); la isla es grande y montañosa, prevea carretera entre los lugares.`,
+      ],
+      pt: [
+        `Regras gregas de praia: muitas praias ordenadas e vigiadas (Myrtos, praias com espreguiçadeiras) proíbem os cães no verão, enquanto as enseadas selvagens e não organizadas os toleram; informe-se localmente antes de se instalar.`,
+        `Calor estival extremo: de junho a setembro as temperaturas ultrapassam muitas vezes os 32-35 °C, passeie de manhã cedo ou ao fim do dia e nunca deixe um cão no carro, nem por uns minutos.`,
+        `Seixos e areia escaldantes: as praias de seixos claros de Cefalónia aquecem imenso ao sol, teste a superfície com as costas da mão e prefira a sombra ou botinhas se o seu cão andar por elas.`,
+        `Água à mão: os pontos de água potável escasseiam nas praias selvagens e nos trilhos de montanha, leve sempre uma reserva de água e uma tigela dobrável, sobretudo no monte Enos.`,
+        `Ferries e distâncias: Cefalónia alcança-se de ferry a partir do continente (Kyllini) ou de Ítaca, cães admitidos conforme a companhia (muitas vezes com trela e açaimo nos conveses); a ilha é vasta e montanhosa, preveja estrada entre os locais.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Grèce : 112 (secours, police, pompiers), avec des opérateurs parlant anglais ; utile aussi pour être orienté vers une clinique vétérinaire de garde.`,
+        `La Grèce est dans l'UE : le passeport européen pour animaux, la puce et une vaccination antirabique à jour suffisent pour voyager depuis un autre pays de l'Union.`,
+        `Climat méditerranéen : étés longs, chauds et secs (jusqu'à 35 °C en juillet-août), hivers doux et pluvieux ; la haute saison touristique va de juin à septembre, les ailes de saison (mai, octobre) sont plus clémentes pour un chien.`,
+        `Accès : ferries depuis Kyllini (continent) et Ithaque, plus un petit aéroport près d'Argostoli ; sur place une voiture est quasi indispensable, les distances entre plages et villages étant importantes.`,
+        `Services vétérinaires concentrés à Argostoli et Lixouri, plus limités dans les villages ; emportez une trousse de premiers soins et repérez à l'avance une clinique ouverte selon votre secteur de séjour.`,
+      ],
+      en: [
+        `Single emergency number in Greece: 112 (rescue, police, fire), with English-speaking operators; also useful to be directed to an on-call veterinary clinic.`,
+        `Greece is in the EU: the European pet passport, a microchip and an up-to-date rabies vaccination are enough to travel from another Union country.`,
+        `Mediterranean climate: long, hot, dry summers (up to 35 °C in July-August) and mild, wet winters; the high tourist season runs June to September, while the shoulder months (May, October) are gentler for a dog.`,
+        `Getting there: ferries from Kyllini (mainland) and Ithaca, plus a small airport near Argostoli; on the island a car is all but essential, as distances between beaches and villages are considerable.`,
+        `Veterinary services are concentrated in Argostoli and Lixouri and more limited in the villages; carry a first-aid kit and identify in advance a clinic open for your area of stay.`,
+      ],
+      es: [
+        `Número único de emergencias en Grecia: 112 (rescate, policía, bomberos), con operadores que hablan inglés; útil también para que le orienten a una clínica veterinaria de guardia.`,
+        `Grecia está en la UE: el pasaporte europeo para animales, el microchip y una vacuna antirrábica al día bastan para viajar desde otro país de la Unión.`,
+        `Clima mediterráneo: veranos largos, cálidos y secos (hasta 35 °C en julio-agosto) e inviernos suaves y lluviosos; la temporada alta turística va de junio a septiembre, y las alas de temporada (mayo, octubre) son más clementes para un perro.`,
+        `Cómo llegar: ferris desde Kyllini (continente) e Ítaca, más un pequeño aeropuerto cerca de Argostoli; en la isla el coche es casi imprescindible, ya que las distancias entre playas y pueblos son grandes.`,
+        `Los servicios veterinarios se concentran en Argostoli y Lixouri y son más limitados en los pueblos; lleve un botiquín y localice de antemano una clínica abierta según su zona de estancia.`,
+      ],
+      pt: [
+        `Número único de emergência na Grécia: 112 (socorro, polícia, bombeiros), com operadores que falam inglês; útil também para ser encaminhado para uma clínica veterinária de serviço.`,
+        `A Grécia está na UE: o passaporte europeu para animais, o microchip e uma vacina antirrábica em dia bastam para viajar a partir de outro país da União.`,
+        `Clima mediterrânico: verões longos, quentes e secos (até 35 °C em julho-agosto) e invernos amenos e chuvosos; a época alta turística vai de junho a setembro, e as épocas intermédias (maio, outubro) são mais clementes para um cão.`,
+        `Como chegar: ferries a partir de Kyllini (continente) e de Ítaca, além de um pequeno aeroporto perto de Argostoli; na ilha o carro é quase indispensável, pois as distâncias entre praias e aldeias são grandes.`,
+        `Os serviços veterinários concentram-se em Argostoli e Lixouri e são mais limitados nas aldeias; leve um estojo de primeiros socorros e identifique com antecedência uma clínica aberta conforme a sua zona de estadia.`,
+      ],
+    },
+  },
+
   kitzbuehel: {
     history: {
       fr: `Ville minière fortifiée dès 1271 par les ducs de Bavière, Kitzbühel s'est enrichie de l'argent et du cuivre avant de passer au Tyrol des Habsbourg en 1504. Ses maisons de marchands aux façades pastel, serrées entre la Vorderstadt et la Hinterstadt, datent de cet âge d'or. Le destin de la ville bascule en 1893, quand Franz Reisch chausse les premiers skis rapportés de Norvège et dévale le Kitzbüheler Horn : le ski alpin autrichien est né ici. Depuis 1931, la descente du Hahnenkamm sur la piste de la Streif, la plus redoutée du circuit, fait de ce bourg de 8 500 habitants la capitale mondiale du ski de janvier. Le reste de l'année, Kitzbühel redevient une petite ville tyrolienne étonnamment paisible, entourée de prairies, de lacs de tourbière et de sommets doux, un terrain de jeu idéal pour un chien, gondoles gratuites comprises.`,
@@ -20724,6 +20831,113 @@ const cityContent: Record<string, CityContent> = {
         `Lojas de animais no centro e nas zonas comerciais, secções pet em todos os supermercados`,
         `Autocarros Yélo: cães pequenos em transportadora, cães com trela e açaime tolerados; TGV e TER aceitam cães (bilhete com tarifa reduzida para os de mais de 6 kg)`,
         `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios para visitantes estrangeiros`,
+      ],
+    },
+  },
+
+  ksamil: {
+    history: {
+      fr: `Petite station balnéaire de la Riviera albanaise, Ksamil s'étire à la pointe sud du pays, à quelques kilomètres de Saranda et face à l'île grecque de Corfou, dont on aperçoit les montagnes de l'autre côté du détroit. Longtemps village agricole planté d'oliviers et d'agrumes sous le régime communiste d'Enver Hoxha, la localité a explosé après 2000 avec l'ouverture touristique de l'Albanie. On la surnomme désormais les « Maldives albanaises » pour ses eaux turquoise et ses petits îlots que l'on rejoint à la nage. Juste au sud s'étend le site archéologique de Butrint, cité gréco-romaine classée au patrimoine mondial de l'UNESCO, l'un des plus beaux ensembles antiques des Balkans. Entre plages minuscules, ruines millénaires, sources et points de vue sur la mer Ionienne, Ksamil offre un décor spectaculaire pour voyager avec un chien, à condition de fuir la foule d'août et la chaleur estivale.`,
+      en: `A small seaside resort on the Albanian Riviera, Ksamil stretches at the southern tip of the country, a few kilometres from Saranda and facing the Greek island of Corfu, whose mountains you can see across the strait. Long an agricultural village planted with olives and citrus under Enver Hoxha's communist regime, the town boomed after 2000 with Albania's opening to tourism. It is now nicknamed the "Albanian Maldives" for its turquoise waters and little islets reached by swimming. Just to the south lies the archaeological site of Butrint, a Greco-Roman city listed as a UNESCO World Heritage site and one of the finest ancient complexes in the Balkans. Between tiny beaches, millennia-old ruins, springs and viewpoints over the Ionian Sea, Ksamil offers a spectacular setting for travelling with a dog, provided you escape the August crowds and the summer heat.`,
+      es: `Pequeña estación balnearia de la Riviera albanesa, Ksamil se extiende en el extremo sur del país, a pocos kilómetros de Saranda y frente a la isla griega de Corfú, cuyas montañas se divisan al otro lado del estrecho. Durante mucho tiempo aldea agrícola plantada de olivos y cítricos bajo el régimen comunista de Enver Hoxha, la localidad estalló después de 2000 con la apertura turística de Albania. Ahora se la apoda las «Maldivas albanesas» por sus aguas turquesa y sus islotes a los que se llega a nado. Justo al sur se extiende el sitio arqueológico de Butrinto, ciudad grecorromana declarada Patrimonio Mundial de la UNESCO y uno de los conjuntos antiguos más bellos de los Balcanes. Entre playas diminutas, ruinas milenarias, manantiales y miradores sobre el mar Jónico, Ksamil ofrece un decorado espectacular para viajar con un perro, siempre que se huya del gentío de agosto y del calor estival.`,
+      pt: `Pequena estância balnear da Riviera albanesa, Ksamil estende-se no extremo sul do país, a poucos quilómetros de Saranda e em frente à ilha grega de Corfu, cujas montanhas se avistam do outro lado do estreito. Muito tempo aldeia agrícola plantada de oliveiras e citrinos sob o regime comunista de Enver Hoxha, a localidade explodiu depois de 2000 com a abertura turística da Albânia. É agora apelidada de «Maldivas albanesas» pelas suas águas turquesa e pelos seus ilhéus alcançados a nado. Logo a sul estende-se o sítio arqueológico de Butrint, cidade greco-romana classificada como Património Mundial da UNESCO e um dos mais belos conjuntos antigos dos Balcãs. Entre praias minúsculas, ruínas milenares, nascentes e miradouros sobre o mar Jónico, Ksamil oferece um cenário espetacular para viajar com um cão, desde que se fuja da multidão de agosto e do calor estival.`,
+    },
+    sights: [
+      { name: 'Butrint', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Le parc national de Butrint, classé à l'UNESCO, déroule un théâtre grec, une basilique paléochrétienne et des remparts vénitiens dans une presqu'île boisée cernée par un lagon. Les chiens tenus en laisse sont admis sur les sentiers extérieurs du site, une des rares visites culturelles vraiment agréables avec un compagnon.`,
+        en: `Butrint National Park, a UNESCO site, unfolds a Greek theatre, an early Christian basilica and Venetian walls on a wooded peninsula ringed by a lagoon. Leashed dogs are allowed on the outdoor paths of the site, one of the few genuinely enjoyable cultural visits with a companion.`,
+        es: `El parque nacional de Butrinto, declarado Patrimonio de la UNESCO, despliega un teatro griego, una basílica paleocristiana y murallas venecianas en una península boscosa rodeada por una laguna. Los perros con correa se admiten en los senderos exteriores del sitio, una de las pocas visitas culturales realmente agradables con un compañero.`,
+        pt: `O parque nacional de Butrint, classificado pela UNESCO, desdobra um teatro grego, uma basílica paleocristã e muralhas venezianas numa península arborizada rodeada por uma lagoa. Os cães com trela são admitidos nos trilhos exteriores do sítio, uma das poucas visitas culturais verdadeiramente agradáveis com um companheiro.`,
+      }},
+      { name: 'Ishujt e Ksamilit', emoji: '🏝️', petFriendly: false, desc: {
+        fr: `Les quatre petits îlots de Ksamil, à quelques brasses du rivage, forment l'image de carte postale de la station avec leur eau translucide. Les plages aménagées à transats appliquent souvent des règles anti-chiens l'été ; visez les criques sauvages et gratuites en dehors de la haute saison.`,
+        en: `The four little Ksamil islets, a few strokes from the shore, form the resort's postcard image with their translucent water. The managed sunbed beaches often enforce no-dog rules in summer; aim for the wild, free coves outside high season.`,
+        es: `Los cuatro islotes de Ksamil, a pocas brazadas de la orilla, forman la imagen de postal de la estación con su agua translúcida. Las playas acondicionadas con hamacas suelen aplicar normas anti-perros en verano; apunte a las calas salvajes y gratuitas fuera de temporada alta.`,
+        pt: `Os quatro pequenos ilhéus de Ksamil, a poucas braçadas da margem, formam a imagem de postal da estância com a sua água translúcida. As praias ordenadas com espreguiçadeiras aplicam muitas vezes regras anti-cães no verão; aponte às enseadas selvagens e gratuitas fora da época alta.`,
+      }},
+      { name: 'Syri i Kaltër', emoji: '💧', petFriendly: true, desc: {
+        fr: `L'Œil bleu (Syri i Kaltër), source karstique d'un bleu profond jaillissant au milieu d'une forêt, se rejoint en excursion d'une demi-journée depuis Ksamil. Le sentier ombragé se parcourt en laisse, mais la baignade dans la source glaciale est interdite, y compris aux chiens.`,
+        en: `The Blue Eye (Syri i Kaltër), a deep-blue karst spring welling up in the middle of a forest, is reached on a half-day trip from Ksamil. The shaded path is walked on a leash, but swimming in the icy spring is forbidden, including for dogs.`,
+        es: `El Ojo Azul (Syri i Kaltër), manantial kárstico de un azul profundo que brota en medio de un bosque, se alcanza en una excursión de media jornada desde Ksamil. El sendero sombreado se recorre con correa, pero el baño en el manantial glacial está prohibido, también para los perros.`,
+        pt: `O Olho Azul (Syri i Kaltër), nascente cársica de um azul profundo que jorra no meio de uma floresta, alcança-se numa excursão de meio dia a partir de Ksamil. O trilho sombreado percorre-se com trela, mas o banho na nascente gélida é proibido, incluindo para cães.`,
+      }},
+      { name: 'Kalaja e Lëkurësit', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Le château de Lëkurësi, forteresse ottomane du XVIe siècle sur une colline dominant Saranda, offre le plus beau panorama de la région sur la baie et Corfou au coucher du soleil. On y accède en laisse par une route de terre, l'esplanade extérieure restant ouverte aux promeneurs accompagnés d'un chien.`,
+        en: `Lëkurësi Castle, a 16th-century Ottoman fortress on a hill above Saranda, offers the region's finest panorama over the bay and Corfu at sunset. It is reached on a leash by a dirt road, the outer esplanade remaining open to walkers with a dog.`,
+        es: `El castillo de Lëkurësi, fortaleza otomana del siglo XVI en una colina sobre Saranda, ofrece el mejor panorama de la región sobre la bahía y Corfú al atardecer. Se accede con correa por un camino de tierra, y la explanada exterior permanece abierta a los paseantes acompañados de un perro.`,
+        pt: `O castelo de Lëkurësi, fortaleza otomana do século XVI numa colina sobre Saranda, oferece o melhor panorama da região sobre a baía e Corfu ao pôr do sol. Acede-se com trela por uma estrada de terra, e a esplanada exterior permanece aberta aos passeantes acompanhados de um cão.`,
+      }},
+      { name: 'Saranda', emoji: '🌊', petFriendly: true, desc: {
+        fr: `La promenade de bord de mer de Saranda, à un quart d'heure au nord, aligne palmiers, cafés et une longue esplanade animée face à la mer Ionienne. On y flâne en laisse en soirée quand la chaleur retombe, la plupart des terrasses tolérant un chien sage à leurs pieds.`,
+        en: `The seafront promenade of Saranda, fifteen minutes to the north, lines palm trees, cafés and a long lively esplanade facing the Ionian Sea. You stroll here on a leash in the evening when the heat drops, most terraces tolerating a well-behaved dog at their feet.`,
+        es: `El paseo marítimo de Saranda, a un cuarto de hora al norte, alinea palmeras, cafés y una larga explanada animada frente al mar Jónico. Se pasea con correa al atardecer cuando baja el calor, y la mayoría de las terrazas toleran a un perro tranquilo a sus pies.`,
+        pt: `A marginal de Saranda, a um quarto de hora a norte, alinha palmeiras, cafés e uma longa esplanada animada em frente ao mar Jónico. Passeia-se com trela ao fim do dia quando o calor abranda, e a maioria dos terraços tolera um cão sossegado a seus pés.`,
+      }},
+      { name: 'Plazhi Pasqyra', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `La plage du Miroir (Pasqyra), au sud de Ksamil, doit son nom à la transparence de son eau peu profonde et très prisée des familles. Bondée et aménagée l'été, elle applique des règles anti-chiens en saison ; préférez ses extrémités rocheuses ou une visite hors juillet-août.`,
+        en: `Mirror Beach (Pasqyra), south of Ksamil, owes its name to the transparency of its shallow water, very popular with families. Crowded and managed in summer, it enforces no-dog rules in season; prefer its rocky ends or a visit outside July-August.`,
+        es: `La playa del Espejo (Pasqyra), al sur de Ksamil, debe su nombre a la transparencia de su agua poco profunda, muy apreciada por las familias. Abarrotada y acondicionada en verano, aplica normas anti-perros en temporada; prefiera sus extremos rocosos o una visita fuera de julio-agosto.`,
+        pt: `A praia do Espelho (Pasqyra), a sul de Ksamil, deve o seu nome à transparência da sua água pouco profunda, muito apreciada pelas famílias. Apinhada e ordenada no verão, aplica regras anti-cães na época; prefira as suas extremidades rochosas ou uma visita fora de julho-agosto.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Chaleur estivale extrême : de juin à septembre le sud albanais dépasse souvent 33-36 °C, promenez tôt le matin ou en soirée et gardez toujours de l'ombre et de l'eau à portée pour votre chien.`,
+        `Sable et rochers brûlants : les criques de Ksamil chauffent fort en journée, testez le sol du dos de la main et évitez la plage aux heures les plus chaudes pour protéger les coussinets.`,
+        `Foule d'août : la station est prise d'assaut en plein été, un chien anxieux y sera vite stressé par la densité et le bruit ; privilégiez mai, juin ou septembre pour un séjour plus serein.`,
+        `Chiens errants marqués : on croise des chiens des rues stérilisés et identifiés par une marque à l'oreille, généralement inoffensifs mais parfois en groupe ; gardez le vôtre en laisse et n'intervenez pas dans leurs interactions.`,
+        `Règles de plage saisonnières : beaucoup de plages aménagées interdisent les chiens l'été, tandis que les criques libres et sauvages les tolèrent ; renseignez-vous sur place avant de vous installer.`,
+      ],
+      en: [
+        `Extreme summer heat: from June to September southern Albania often tops 33-36 °C, so walk early in the morning or in the evening and always keep shade and water within reach for your dog.`,
+        `Scorching sand and rocks: Ksamil's coves heat up strongly during the day, test the ground with the back of your hand and avoid the beach at the hottest hours to protect the paw pads.`,
+        `August crowds: the resort is stormed in high summer, and an anxious dog will quickly be stressed by the density and noise; favour May, June or September for a calmer stay.`,
+        `Ear-tagged strays: you will meet street dogs that are neutered and marked with an ear tag, usually harmless but sometimes in a group; keep yours leashed and do not interfere in their interactions.`,
+        `Seasonal beach rules: many managed beaches ban dogs in summer, while free wild coves tolerate them; ask locally before settling in.`,
+      ],
+      es: [
+        `Calor estival extremo: de junio a septiembre el sur de Albania supera a menudo los 33-36 °C, pasee temprano por la mañana o al atardecer y mantenga siempre sombra y agua a mano para su perro.`,
+        `Arena y rocas ardientes: las calas de Ksamil se calientan mucho durante el día, pruebe el suelo con el dorso de la mano y evite la playa en las horas más calurosas para proteger las almohadillas.`,
+        `Gentío de agosto: la estación se toma por asalto en pleno verano, y un perro ansioso se estresará pronto por la densidad y el ruido; prefiera mayo, junio o septiembre para una estancia más serena.`,
+        `Perros callejeros marcados: se cruzan perros de la calle esterilizados e identificados con una marca en la oreja, por lo general inofensivos pero a veces en grupo; mantenga al suyo con correa y no intervenga en sus interacciones.`,
+        `Normas de playa estacionales: muchas playas acondicionadas prohíben los perros en verano, mientras que las calas libres y salvajes los toleran; infórmese en el lugar antes de instalarse.`,
+      ],
+      pt: [
+        `Calor estival extremo: de junho a setembro o sul da Albânia ultrapassa muitas vezes os 33-36 °C, passeie de manhã cedo ou ao fim do dia e mantenha sempre sombra e água à mão para o seu cão.`,
+        `Areia e rochas escaldantes: as enseadas de Ksamil aquecem muito durante o dia, teste o chão com as costas da mão e evite a praia nas horas de maior calor para proteger as almofadinhas.`,
+        `Multidão de agosto: a estância é tomada de assalto em pleno verão, e um cão ansioso ficará depressa stressado com a densidade e o ruído; prefira maio, junho ou setembro para uma estadia mais serena.`,
+        `Cães errantes marcados: cruzam-se cães de rua esterilizados e identificados com uma marca na orelha, geralmente inofensivos mas por vezes em grupo; mantenha o seu com trela e não intervenha nas suas interações.`,
+        `Regras de praia sazonais: muitas praias ordenadas proíbem os cães no verão, enquanto as enseadas livres e selvagens os toleram; informe-se no local antes de se instalar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence en Albanie : 112 (numéro européen unique), avec aussi le 127 pour le SAMU ; utile pour être orienté vers une clinique vétérinaire, plus nombreuses à Saranda qu'à Ksamil même.`,
+        `L'Albanie est hors UE : pour rentrer dans l'Union avec un chien, prévoyez puce, vaccination antirabique et un titrage sérologique des anticorps antirabiques, à anticiper plusieurs mois avant le départ.`,
+        `Climat méditerranéen : étés longs, très chauds et secs (jusqu'à 36 °C en juillet-août), hivers doux et pluvieux ; les ailes de saison (mai-juin, septembre) sont nettement plus agréables pour un chien.`,
+        `Accès : Ksamil se rejoint par la route depuis Saranda (15 min), elle-même reliée par ferry à Corfou (Grèce) et par bus à Tirana ; une voiture facilite l'accès à Butrint et à l'Œil bleu.`,
+        `Services vétérinaires : les cliniques sont concentrées à Saranda, plus rares à Ksamil ; emportez une trousse de premiers soins et repérez à l'avance un cabinet ouvert, surtout en haute saison.`,
+      ],
+      en: [
+        `Emergency number in Albania: 112 (the single European number), with 127 also for medical services; useful to be directed to a veterinary clinic, more numerous in Saranda than in Ksamil itself.`,
+        `Albania is outside the EU: to return to the Union with a dog, arrange a microchip, rabies vaccination and a rabies antibody blood titre test, planned several months before departure.`,
+        `Mediterranean climate: long, very hot, dry summers (up to 36 °C in July-August) and mild, wet winters; the shoulder months (May-June, September) are far more pleasant for a dog.`,
+        `Getting there: Ksamil is reached by road from Saranda (15 min), itself linked by ferry to Corfu (Greece) and by bus to Tirana; a car makes access to Butrint and the Blue Eye easier.`,
+        `Veterinary services: clinics are concentrated in Saranda and rarer in Ksamil; carry a first-aid kit and identify an open practice in advance, especially in high season.`,
+      ],
+      es: [
+        `Número de emergencias en Albania: 112 (número europeo único), con también el 127 para los servicios médicos; útil para que le orienten a una clínica veterinaria, más numerosas en Saranda que en la propia Ksamil.`,
+        `Albania está fuera de la UE: para regresar a la Unión con un perro, prevea microchip, vacuna antirrábica y una prueba serológica de anticuerpos antirrábicos, con varios meses de antelación antes de la salida.`,
+        `Clima mediterráneo: veranos largos, muy cálidos y secos (hasta 36 °C en julio-agosto) e inviernos suaves y lluviosos; las alas de temporada (mayo-junio, septiembre) son mucho más agradables para un perro.`,
+        `Cómo llegar: a Ksamil se llega por carretera desde Saranda (15 min), a su vez unida por ferri a Corfú (Grecia) y por autobús a Tirana; un coche facilita el acceso a Butrinto y al Ojo Azul.`,
+        `Servicios veterinarios: las clínicas se concentran en Saranda y son más escasas en Ksamil; lleve un botiquín y localice de antemano una consulta abierta, sobre todo en temporada alta.`,
+      ],
+      pt: [
+        `Número de emergência na Albânia: 112 (número europeu único), com também o 127 para os serviços médicos; útil para ser encaminhado para uma clínica veterinária, mais numerosas em Saranda do que na própria Ksamil.`,
+        `A Albânia está fora da UE: para regressar à União com um cão, providencie microchip, vacina antirrábica e um teste serológico de anticorpos antirrábicos, com vários meses de antecedência antes da partida.`,
+        `Clima mediterrânico: verões longos, muito quentes e secos (até 36 °C em julho-agosto) e invernos amenos e chuvosos; as épocas intermédias (maio-junho, setembro) são bem mais agradáveis para um cão.`,
+        `Como chegar: Ksamil alcança-se por estrada a partir de Saranda (15 min), por sua vez ligada por ferry a Corfu (Grécia) e por autocarro a Tirana; um carro facilita o acesso a Butrint e ao Olho Azul.`,
+        `Serviços veterinários: as clínicas concentram-se em Saranda e são mais raras em Ksamil; leve um estojo de primeiros socorros e identifique com antecedência um consultório aberto, sobretudo na época alta.`,
       ],
     },
   },
